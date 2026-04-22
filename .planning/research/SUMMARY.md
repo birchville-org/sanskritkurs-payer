@@ -1,20 +1,22 @@
-# Research Summary: Interaction, Layout & i18n (v1.1)
+# Research Summary: Milestone v1.2
 
-## 1. Interaction: Interactive Quiz Modules
-- **Selected Library**: `@matinfo/vitepress-plugin-quiz`
-- **Why**: Specialized for VitePress, clean Markdown syntax (`:::quiz`), supports hydration safe interactivity.
-- **Key Features**: Single/Multiple Choice, immediate feedback, persistence.
+## Key Findings
 
-## 2. Layout: Wide-Mode Toggle
-- **Implementation**: Custom Vue component in the `nav-bar-content-after` slot of the default theme.
-- **State Management**: `ref` + `localStorage` for persistence.
-- **Styling**: Toggles a `.vp-wide-mode` class on the root element, overriding `--vp-layout-max-width` and `--vp-content-width`.
+### Search Optimization
+We can achieve "Sanskrit-aware" search by customizing the VitePress MiniSearch configuration. By implementing a normalization function (folding diacritics into base ASCII), users can search for Sanskrit terms using standard keyboards without losing the ability to find correctly accented content.
 
-## 3. i18n: Multi-language Support
-- **Structure**: Root `/` for German, sub-directory `/en/` for English.
-- **Configuration**: Native `locales` setting in `config.mjs` for separate sidebars, navbars, and metadata.
-- **Switching**: Automatic language selector in the VitePress navbar.
+### Automated Indexing
+VitePress's `createContentLoader` is the ideal tool for building thematic indexes. We can aggregate tags from frontmatter at build time and render a dynamic "Grammar Navigator" without manual link maintenance.
 
-## 4. Technical Constraints
-- **Client-Side Only**: Layout persistence must run in `onMounted` to avoid SSR mismatches.
-- **Dependency**: Requires `npm install vitepress-plugin-quiz`.
+### i18n Scalability
+The project structure is ready for expansion. By modularizing the configuration and extending the existing automated translation pipeline, we can efficiently add Italian and Spanish support.
+
+## Stack Additions
+- **VitePress Content Loaders**: For automated metadata aggregation.
+- **Custom MiniSearch Tokenizer**: For diacritic folding.
+- **Modular Locale Configs**: To manage increasing configuration complexity.
+
+## Watch Out For
+- **Translation Drift**: Ensuring all 4 languages stay in sync.
+- **Search Over-folding**: Balancing search ease-of-use with phoneme precision.
+- **Sidebar Bloat**: Keeping navigation manageable as the site grows.

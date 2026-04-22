@@ -1,34 +1,40 @@
-# Architecture Research
+# Research: Architecture for v1.2
 
-## Domain
-Pipeline for converting legacy HTML to Static Site
+## Search Normalization Strategy
+The `processTerm` hook in MiniSearch will implement a "Folding" algorithm:
+```javascript
+function folding(term) {
+  return term.toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '') // Remove standard accents
+    .replace(/ṣ/g, 's')
+    .replace(/ś/g, 's')
+    .replace(/ṛ/g, 'r')
+    // ... add all IAST mappings
+}
+```
 
-## Komponenten & Boundaries
+## Data Aggregation for Indexing
+A new file `docs/.vitepress/data/lessons.data.mts` will export all lesson metadata:
+```typescript
+import { createContentLoader } from 'vitepress'
+export default createContentLoader('**/lektionen/*.md', {
+  includeSrc: false,
+  transform(raw) {
+    return raw.map(p => ({
+      title: p.frontmatter.title,
+      url: p.url,
+      tags: p.frontmatter.tags || []
+    }))
+  }
+})
+```
 
-### 1. Ingestion Layer (Der Konverter)
-- **Input**: `/sanskritkurs/*.htm` (Windows-1252 / Alt-Text)
-- **Process**: Node.js Skript `convert.js`.
-  1. Liest HTML.
-  2. Erzwingt UTF-8 Encoding-Konvertierung (falls von Nöten).
-  3. Schneidet Header/Footer ab (nur Content extrahieren).
-  4. Schreibt Links um (`lektion01.htm` -> `/lektionen/01.md`).
-  5. Konvertiert zu Markdown.
-- **Output**: `/docs/**/*.md`
+## Localization Scalability
+To avoid a massive `config.mjs`, we will use a directory-based config loading:
+- `docs/.vitepress/locales/de.mjs`
+- `docs/.vitepress/locales/en.mjs`
+- `docs/.vitepress/locales/it.mjs` (New)
+- `docs/.vitepress/locales/es.mjs` (New)
 
-### 2. SSG Configuration Layer
-- **Input**: Ordnerstruktur unter `/docs`
-- **Process**: `vitepress` greift die Markdown-Files ab.
-- **Config**: `.vitepress/config.js` (generiert die Sidebar aus den Files), inkl. Custom CSS für Farbschema.
-
-### 3. Generation Layer (Build)
-- **Kommando**: `npm run docs:build`
-- **Output**: Generierte Single-Page-App Dateien im `/docs/.vitepress/dist` Ordner, alles statisch.
-
-### 4. Deployment Layer
-- Einfacher Push/Upload des `dist` Ordners auf jeden beliebigen Webserver (Apache, Nginx, GitHub Pages).
-
-## Build-Reihenfolge
-1. Konverter bauen und Test-HTML zu Markdown überführen.
-2. Link- und Bild-Routing im Konverter perfektionieren.
-3. VitePress initialisieren und Theme überschreiben.
-4. Pipeline Testlauf.
+The main `config.mjs` will import and spread these locale objects into the `defineConfig` call.

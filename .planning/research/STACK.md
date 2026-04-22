@@ -1,24 +1,16 @@
-# Technical Stack Research
+# Research: Technical Stack additions for v1.2
 
-## Domain
-Static Site Generator (SSG) for Sanskrit Educational Content
+## Search & Linguistic Processing
+- **MiniSearch (VitePress default)**: Will be extended with a custom `processTerm` hook.
+- **Normalization Engine**: JavaScript `String.prototype.normalize('NFD')` + custom regex mappings for IAST-specific characters (e.g., `ṛ` -> `r`, `ṁ` -> `m`).
+- **Devanāgarī Support**: MiniSearch handles Unicode, but we may need a transliteration library if we want to search IAST and find Devanāgarī (or vice versa).
 
-## Recommended Stack
+## Thematic Indexing
+- **VitePress Data Loading**: Using `.data.ts` (Build-Time Data Loading) to aggregate frontmatter from all lessons.
+- **Vue 3 Composition API**: Custom components (`GrammarIndex.vue`, `TagCloud.vue`) to render the aggregated data.
+- **Frontmatter Schema**: Standardizing `tags`, `category`, and `related` fields across all markdown files.
 
-### 1. The Generator: VitePress (Node.js/Vue)
-- **Why**: VitePress ist extrem schnell ("blazing fast"), nutzt Markdown als First-Class-Citizen und generiert hochgradig optimierte statische HTML-Seiten (SSG). 
-- **Entscheidungsgrund**: Im Gegensatz zu MkDocs (Python) lässt sich VitePress durch simples CSS/Vue extrem tiefgreifend visuell anpassen. Da das "warme" Design (Serif, dunkle Farben, Padding) essentiell ist, bietet VitePress hier die wenigsten Hürden.
-- **Suche**: Bringt `minisearch` als lokale Volltextsuche von Haus aus mit.
-
-### 2. Der Konverter: Node.js (jsdom + turndown)
-- **Why**: Ein maßgeschneidertes Skript, um die Altlasten einzulesen.
-- **jsdom**: Echter HTML-Parser, der kaputte/alte HTML-Strukturen aus den `.htm` Dateien robust verarbeiten kann.
-- **turndown**: Konvertiert den gesäuberten DOM (Document Object Model) in sauberes `Markdown`.
-
-### 3. Fonts & Typografie
-- Fontsource (NPM) oder lokales Caching von "Playfair Display" und "Source Serif 4".
-- Keine reinen CDN-Links, um DSGVO-Konformität (Hosten der Fonts) zu erleichtern und flackerfreies Laden (FOUT) bei Devanāgarī-Zeichen zu sichern.
-
-## Was NICHT verwendet werden sollte
-- **React/Next.js**: Komplett überdimensioniert für reine Content-Seiten.
-- **Dynamische Server (Express/PHP)**: Verhindert leichtes GitHub-Pages Deployment.
+## Internationalization (i18n)
+- **VitePress Locales**: Expanding the `locales` object in `config.mjs`.
+- **Modular Config**: Moving locale-specific sidebars/navs to separate files (e.g., `.vitepress/locales/it.mjs`) to keep the main config clean.
+- **Translation Pipeline**: Leveraging the existing Python-based batch translator for IT and ES.

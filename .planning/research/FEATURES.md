@@ -1,18 +1,18 @@
-# Feature Research
+# Research: Feature Deep Dive for v1.2
 
-## Domain
-Educational Documentation & Sanskrit Typography
+## 1. Thematic Index (Grammar Navigator)
+- **Concept**: A centralized page (and potentially a sidebar section) that groups lessons by grammatical category (e.g., "Sandhi", "Verbal Morphology", "Syntax").
+- **Implementation**: 
+    - Auto-generation based on `tags` in frontmatter.
+    - Clickable "Topic Chips" that filter the lesson list.
+    - "Related Lessons" section at the bottom of each lesson.
 
-## Table Stakes (Must-Haves)
-1. **Lokale Volltextsuche**: SSGs müssen Client-seitig durchsuchbar sein (ohne echten Backend-Server).
-2. **Auto-Sidebar**: Automatische Generation der Navigation basierend auf Überschriften (H1, H2, H3) innerhalb der Markdown-Dateien.
-3. **Paging**: "Vorherige Lektion" und "Nächste Lektion" Buttons am Ende jedes Dokuments.
-4. **On-this-page Navigation**: Ein Inhaltsverzeichnis (rechts) für die aktuelle Seite.
+## 2. Sanskrit-Aware Search
+- **IAST Folding**: Users searching for "Sanskrit" should find "Saṃskṛta".
+- **Devanāgarī Matching**: Support for native script searching without requiring exact Unicode normalization matches (handling different forms of Anusvara, etc.).
+- **Multi-locale Search**: Ensuring Italian users don't see German results in their primary search view (VitePress handles this via `themeConfig.search.options.locales`).
 
-## Differentiators (Competitive Advantage)
-1. **Unicode/Devanāgarī Integrität**: Keine Encoding-Fehler. Das Setup garantiert, dass indische Schriften fehlerfrei extrahiert und gesetzt werden.
-2. **"Warmes" Reading-Experience**: Im Gegensatz zur Standard-Tech-Doku verzichtet das System auf sterile Sans-Serifs und bringt das Buch-ähnliche Layout (Source Serif 4, angenehmer Sepia-Kontrast) aus der `index.html` mit in die SSG Umgebung.
-
-## Anti-Features (Do Not Build)
-- **User Logins / Progress Tracking**: Die Seite bleibt statisch; kein Backend-State für Nutzer wird gespeichert.
-- **Kommentare/Foren**: Zu viel Administrationsaufwand; es bleibt ein reines Lehrbuch.
+## 3. Italian & Spanish Expansion
+- **Infrastructure**: New folders `/docs/it/` and `/docs/es/`.
+- **Content**: Full mirror of the 61 lessons and exercises.
+- **Language Switcher**: Updated header to include IT and ES flags/labels.
