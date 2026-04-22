@@ -41,10 +41,10 @@ Perfekte typografische Darstellung von Sanskrit/Devanāgarī eingebettet in eine
 - [ ] **Devanāgarī-Suche** (SRCH-01): Optimierung der Suchfunktion für transliterierte und native Zeichen.
 - [ ] **Internationalisierung IT/ES** (I18N-02): Setup und Übersetzung für Italienisch und Spanisch.
 
-### Out of Scope
+### Key Decisions & Constraints
 
-- Dynamisches Backend (PHP/DB) — Die Pipeline erzeugt statische Seiten (SSG).
-- Forum / Community-Features — Fokus auf Content und Lernstruktur.
+- **German Reference**: Die deutschen Seiten (`/lektionen/`, `/uebungen/`) gelten als unantastbare Referenz und dürfen durch automatisierte Prozesse (Übersetzung, Refactoring) nicht verändert werden.
+- **SSG-Fokus**: Das System bleibt ein statischer Generator (VitePress).
 
 ## Evolution
 
