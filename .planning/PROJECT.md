@@ -8,19 +8,15 @@ Ein automatisiertes Produktionssystem (Static Site Generator Pipeline), das best
 
 Perfekte typografische Darstellung von Sanskrit/Devanāgarī eingebettet in eine blitzschnelle, übersichtliche und voll durchsuchbare Struktur, die als einfache Pipeline vollautomatisch neue Kapitel integrieren kann.
 
-## Current State: v1.1 Interaktion & Flexibilität (Shipped)
+## Current Milestone: v1.2 Search, Index & I18n Expansion
 
-**Satus:** Die Grundplattform ist interaktiv und mehrsprachig. Alle Lexionen (1-60) sind ins Englische übersetzt.
+**Goal:** Tiefergehende Erschließung der Inhalte durch Indizes und Suche sowie Ausbau der internationalen Präsenz (IT/ES).
 
-**Shipped v1.1:**
-- **Interactive Quizzes**: `PayerQuiz` Komponente für Single/Multiple Choice Fragen integriert.
-- **i18n Foundation**: Vollständiger locales Support (DE/EN) mit Sprachumschalter und gespiegelter Struktur.
-- **Batch Translation**: Vollständige Übersetzung der Übungsdateien (Batch 2 & 3).
-
-## Next Milestone Goals (v1.2)
-- **Thematische Indizes**: Deep-Linking von grammatikalischen Konzepten über alle Lektionen hinweg.
-- **Erweiterte Suche**: Integration von Devanāgarī-spezifischer Suche und Filterung.
-- **Multimedia**: Pilot-Phase für Audio-Integration zur Aussprache-Unterstützung.
+**Target features:**
+- **Thematische Indizes**: Aufbau eines Querverweis-Systems für grammatikalische Begriffe.
+- **Erweiterte Suche**: Optimierung für Devanāgarī und IAST-Transliterationen.
+- **Mehrsprachigkeit (IT/ES)**: Integration von Italienisch und Spanisch inklusive automatisierter Übersetzung.
+- **Multimedia-Pilot**: *Verschoben auf v1.3+*
 
 ## Requirements
 
@@ -41,17 +37,31 @@ Perfekte typografische Darstellung von Sanskrit/Devanāgarī eingebettet in eine
 
 ### Active
 
-- [ ] **Thematische Indizes**: Aufbau einer Querverweis-Struktur für grammatikalische Begriffe.
-- [ ] **Devanāgarī-Suche**: Optimierung der Suchfunktion für transliterierte und native Devanāgarī Zeichen.
+- [ ] **Thematische Indizes** (INDEX-01): Aufbau einer Querverweis-Struktur für grammatikalische Begriffe.
+- [ ] **Devanāgarī-Suche** (SRCH-01): Optimierung der Suchfunktion für transliterierte und native Zeichen.
+- [ ] **Internationalisierung IT/ES** (I18N-02): Setup und Übersetzung für Italienisch und Spanisch.
 
 ### Out of Scope
 
 - Dynamisches Backend (PHP/DB) — Die Pipeline erzeugt statische Seiten (SSG).
 - Forum / Community-Features — Fokus auf Content und Lernstruktur.
 
-## Context
+## Evolution
 
-Shipped v1.1 am 2026-04-19. Das System ist nun technisch bereit für eine breitere internationale Nutzerschaft. Nächster Fokus ist die vertikale Erschließung der Inhalte (Indizes, Suche).
+This document evolves at phase transitions and milestone boundaries.
+
+**After each phase transition** (via `/gsd-transition`):
+1. Requirements invalidated? → Move to Out of Scope with reason
+2. Requirements validated? → Move to Validated with phase reference
+3. New requirements emerged? → Add to Active
+4. Decisions to log? → Add to Key Decisions
+5. "What This Is" still accurate? → Update if drifted
+
+**After each milestone** (via `/gsd-complete-milestone`):
+1. Full review of all sections
+2. Core Value check — still the right priority?
+3. Audit Out of Scope — reasons still valid?
+4. Update Context with current state
 
 ---
-*Last updated: 2026-04-21 after v1.1 milestone completion*
+*Last updated: 2026-04-22 after v1.2 milestone start*

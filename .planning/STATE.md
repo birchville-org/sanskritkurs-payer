@@ -9,10 +9,10 @@ See: .planning/PROJECT.md (updated 2026-04-21)
 
 ## Current Position
 
-Phase: [None]
-Plan: [None]
-Status: Milestone v1.1 SHIPPED. Waiting for v1.2 planning.
-Last activity: 2026-04-21 — Milestone v1.1 archival and completion.
+Phase: Not started (defining requirements)
+Plan: —
+Status: Defining requirements
+Last activity: 2026-04-22 — Milestone v1.2 started
 
 Progress: [░░░░░░░░░░] 0% (v1.2 Prep)
 
