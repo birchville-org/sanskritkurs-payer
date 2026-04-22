@@ -4,6 +4,8 @@ import DefaultTheme from 'vitepress/theme'
 import PayerQuiz from './components/PayerQuiz.vue'
 import PayerNavButton from './components/PayerNavButton.vue'
 import PayerDocFooter from './components/PayerDocFooter.vue'
+import PayerTopicIndex from './components/PayerTopicIndex.vue'
+import PayerRelatedLessons from './components/PayerRelatedLessons.vue'
 import './custom.css'
 
 function closeAllExcept(clickedGroup) {
@@ -51,7 +53,10 @@ function closeInactiveGroups() {
 export default {
   extends: DefaultTheme,
   Layout: () => h(DefaultTheme.Layout, null, {
-    'doc-footer-before': () => h(PayerDocFooter)
+    'doc-footer-before': () => h('div', null, [
+      h(PayerRelatedLessons),
+      h(PayerDocFooter)
+    ])
   }),
   setup() {
     const route = useRoute();
@@ -64,6 +69,8 @@ export default {
   enhanceApp({ app }) {
       app.component('PayerQuiz', PayerQuiz)
       app.component('PayerNavButton', PayerNavButton)
+      app.component('PayerTopicIndex', PayerTopicIndex)
+      app.component('PayerRelatedLessons', PayerRelatedLessons)
       
       if (typeof window !== 'undefined') {
           console.log("Sanskrit-Akkordeon: Aktiviert");

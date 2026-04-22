@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-04-21)
 
 ## Current Position
 
-Phase: Phase 11: Thematic Indexing & Specialized Navigation
+Phase: Phase 12: Automated Internationalization (IT & ES)
 Plan: —
-Status: Planning Phase 11
-Last activity: 2026-04-22 — Phase 10 completed: Search Folding & Config Modularization.
+Status: Pending (Translation server offline until 20:00)
+Last activity: 2026-04-22 — Phase 11 completed: Thematic Indexing & Specialized Navigation.
 
-Progress: [▓░░░░░░░░░] 10% (v1.2)
+Progress: [▓▓░░░░░░░░] 20% (v1.2)
 
 ## Sessions
 
