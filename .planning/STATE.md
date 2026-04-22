@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-04-21)
 
 ## Current Position
 
-Phase: Not started (defining requirements)
+Phase: Phase 10: Search Optimization & Core Infrastructure
 Plan: —
-Status: Defining requirements
-Last activity: 2026-04-22 — Milestone v1.2 started
+Status: Planning Phase 10
+Last activity: 2026-04-22 — Milestone v1.2 Roadmap finalized.
 
-Progress: [░░░░░░░░░░] 0% (v1.2 Prep)
+Progress: [░░░░░░░░░░] 0% (v1.2)
 
 ## Sessions
 
