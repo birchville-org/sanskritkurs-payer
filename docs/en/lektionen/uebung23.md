@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How do you say "In order to do" (from root kṛ)?',
-    options: ['kartum', 'kṛtum', 'kṛtvā', 'kāryam'],
-    answer: 0,
-    explanation: 'The root kṛ takes the Guna form kar- before the infinitive suffix -tum.'
-  },
-  {
-    question: 'What is common to both humans and animals according to the verse?',
-    options: ['Dharma', 'Eating, sleeping, fear, and sex', 'Reading Sanskrit', 'Worship'],
-    answer: 1,
-    explanation: 'Bhukti (eating), nidrā (sleep), bhaya (fear), and maithuna (sex) are the basic animal instincts.'
-  },
-  {
-    question: 'How do you say "In order to hear" (from root śru)?',
-    options: ['śrotum', 'śrāvitum', 'śrutvā', 'śravaṇam'],
-    answer: 0,
-    explanation: 'Śrotum is the infinitive of the root śru.'
-  }
-]
-</script>
+
 
 # Exercise 23
 

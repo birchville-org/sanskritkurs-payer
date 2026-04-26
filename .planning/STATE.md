@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-04-21)
 
 ## Current Position
 
-Phase: Phase 12: Automated Internationalization (IT & ES)
+Phase: Phase 12 In Progress
 Plan: —
-Status: Pending (Translation server offline until 20:00)
-Last activity: 2026-04-22 — Phase 11 completed: Thematic Indexing & Specialized Navigation.
+Status: Stabilizing Multilingual Expansion
+Last activity: 2026-04-26 — Fixing build errors (config.mjs, lektion37.md) and cleaning up translation artifacts.
 
-Progress: [▓▓░░░░░░░░] 20% (v1.2)
+Progress: [▓▓▓▓▓▓▓▓░░] 80% (v1.2)
 
 ## Sessions
 

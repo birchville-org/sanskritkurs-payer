@@ -1,22 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How do you say "fruits" (Accusative Plural Neuter)?',
-    options: ['phalān', 'phalāni', 'phalam', 'phale'],
-    answer: 1,
-    explanation: 'Neuter a-stems take -āni in both Nominative and Accusative plural.'
-  },
-  {
-    question: 'What is the Nominative Plural of "nara" (man)?',
-    options: ['naram', 'nare', 'narāḥ', 'narān'],
-    answer: 2,
-    explanation: 'Masculine a-stems add -āḥ in the plural.'
-  }
-]
-</script>
+
 
 # Exercise 3
 

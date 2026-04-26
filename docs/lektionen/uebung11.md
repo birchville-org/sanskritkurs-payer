@@ -1,20 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Wie drückt man „die Smṛti sagt“ (als Zitatquelle) im Sanskrit aus?',
-    options: ['iti smṛtiḥ', 'smṛtir iti', 'vadyate smṛtiḥ', 'smṛtiḥ vadati'],
-    answer: 1,
-    explanation: 'Zitate oder Lehrsprüche werden im Sanskrit häufig mit „iti“ beendet, gefolgt von der Quelle (z.B. smṛtir iti).'
-  },
-  {
-    question: 'Wie lautet die Passiv-Form der Wurzel „vad“ (sagen/sprechen)?',
-    options: ['vadyate', 'vadyati', 'udyate', 'vadyaḥ'],
-    answer: 2,
-    explanation: 'Die Wurzel „vad“ bildet das Passiv unter Samprasāraṇa (Vokalisierung des Halbvokals v zu u): udyate.'
-  }
-]
-</script>
-
 # Übung Lektion 11
 
 A) Übersetzen Sie untenstehende Sätze

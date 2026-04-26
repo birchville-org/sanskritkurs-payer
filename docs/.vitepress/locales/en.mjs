@@ -4,6 +4,8 @@ export const en = {
   label: 'EN',
   lang: 'en-US',
   link: '/en/',
+  title: 'Sanskrit Course',
+  description: 'Grammar textbook by Alois Payer',
   themeConfig: {
     outline: { level: [2, 3], label: 'On this page' },
     nav: [
@@ -24,9 +26,13 @@ export const en = {
       { text: 'Script (Introduction)', collapsed: true, items: getSidebarItems('schrift', 'Script', 'en') },
       { text: 'Exercises', collapsed: true, items: getSidebarItems('uebung', 'Exercise', 'en', 10) },
       { text: 'Legal', collapsed: true, items: [
-          { text: 'Credits & Citation', link: '/en/impressum' },
+          { text: 'Legal Notice & Citation', link: '/en/impressum' },
           { text: 'Image Licenses', link: '/en/licenses' }
       ]}
-    ]
+    ],
+    footer: {
+      message: "Part of Tüpfli's Global Village Library",
+      copyright: 'Copyright © 2008-2010 Alois Payer'
+    }
   }
 }

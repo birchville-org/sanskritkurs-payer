@@ -1,22 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'What happens to the subject of an active sentence when it becomes passive?',
-    options: ['It remains in the Nominative', 'It moves to the Accusative', 'It moves to the Instrumental', 'It is dropped'],
-    answer: 2,
-    explanation: 'In a passive sentence (Karmaṇi), the agent of the action stands in the Instrumental case.'
-  },
-  {
-    question: 'What is the passive form of the verb "khādati" (to eat)?',
-    options: ['khādanti', 'khādyate', 'khādyante', 'khāditum'],
-    answer: 1,
-    explanation: 'The passive adds -ya- to the root and uses middle endings (typically -te in the singular).'
-  }
-]
-</script>
+
 
 # Exercise 8
 

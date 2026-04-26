@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How do you say "The path to heaven" in a single Sanskrit compound?',
-    options: ['svargamārgaḥ', 'svargānmārgaḥ', 'svargāya mārgaḥ', 'svargena mārgaḥ'],
-    answer: 0,
-    explanation: 'Svargamārgaḥ is a Genitive/Dative Tatpuruṣa meaning "Heaven-path".'
-  },
-  {
-    question: 'What is the definition of Yoga according to Patañjali (YS 1.2)?',
-    options: ['Yogo karmasu kauśalam', 'Yogo citta-vṛtti-nirodhaḥ', 'Yogo dhyānam', 'Yogo mokṣam'],
-    answer: 1,
-    explanation: 'Citta-vṛtti-nirodha means the cessation of the movements of the mind.'
-  },
-  {
-    question: 'In the compound "guṇavadbrāhmaṇī", why does "guṇavatī" change its form?',
-    options: ['Because of Sandhi only', 'It becomes a stem-form (guṇavat) in a compound', 'It is a mistake', 'It is feminine plural'],
-    answer: 1,
-    explanation: 'In compounds, the first member usually appears in its basic stem form (prātipadika).'
-  }
-]
-</script>
+
 
 # Exercise 16
 

@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'What is the Genitive Plural of "ṛṣi"?',
-    options: ['ṛṣīnām', 'ṛṣīṇām', 'ṛṣaye', 'ṛṣaḥ'],
-    answer: 1,
-    explanation: '-īṇām is the correct ending (with retroflexion of n due to ṛ).'
-  },
-  {
-    question: 'According to the proverb, what is "the ornament of man"?',
-    options: ['dhana (wealth)', 'vāk (speech)', 'śīla (virtue)', 'jaya (victory)'],
-    answer: 2,
-    explanation: 'Śīlaṃ narasya bhūṣaṇam.'
-  },
-  {
-    question: 'What does "satyaṃ lokasya dīpaḥ" mean?',
-    options: ['Truth is the king of the world', 'Truth is the light of the world', 'Truth is everywhere', 'Truth is difficult'],
-    answer: 1,
-    explanation: 'Dīpaḥ means lamp or light.'
-  }
-]
-</script>
+
 
 # Exercise 14
 

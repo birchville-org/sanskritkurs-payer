@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How do you say "He causes to go" (from gam)?',
-    options: ['gamayati', 'gacchati', 'gamati', 'gāmayati'],
-    answer: 0,
-    explanation: 'The causative of gam is gamayati (to make go / to send).'
-  },
-  {
-    question: 'What is the relationship between "mriyate" (he dies) and "mārayati"?',
-    options: ['They are unrelated', 'Mārayati is the causative meaning "he kills"', 'One is for animals, one for men', 'They are synonyms'],
-    answer: 1,
-    explanation: 'Mārayati is the causative of the root mṛ (to die), meaning "he causes to die" = "he kills".'
-  },
-  {
-    question: 'Which suffix is characteristic of the causative in Sanskrit?',
-    options: ['-ta', '-ya', '-aya', '-tum'],
-    answer: 2,
-    explanation: 'The suffix -aya- (with Guna or Vriddhi of the root) is the signature of the causative category.'
-  }
-]
-</script>
+
 
 # Exercise 28
 

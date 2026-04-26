@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'What is the opposite of "sujana" (good person)?',
-    options: ['durjana', 'ajana', 'vijana', 'nīcajana'],
-    answer: 0,
-    explanation: 'Su- (good) and Dur- (bad) are common opposites in Sanskrit prefixes.'
-  },
-  {
-    question: 'How do you say "difficult to obtain" in Sanskrit?',
-    options: ['sukara', 'durlabha', 'सुजात', 'सुदुःख'],
-    answer: 1,
-    explanation: 'Durlabha (dur- + labh) means hard to reach or obtain.'
-  },
-  {
-    question: 'What does the term "Sugata" refer to in a Buddhist context?',
-    options: ['A traveler', 'A king', 'The Buddha (one who has gone well)', 'A monk'],
-    answer: 2,
-    explanation: 'Sugata is a common epithet for the Buddha.'
-  }
-]
-</script>
+
 
 # Exercise 18
 

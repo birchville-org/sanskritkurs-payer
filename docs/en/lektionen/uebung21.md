@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'What does the term "Anādimadhyānta" describe?',
-    options: ['A short story', 'Something eternal (without beginning, middle, or end)', 'A broken wheel', 'A sequence of numbers'],
-    answer: 1,
-    explanation: 'Anādi (no beginning) + Madhya (middle) + Anta (end) describes eternity or the Absolute.'
-  },
-  {
-    question: 'How do you say "Initiated by the teacher" in a compound?',
-    options: ['guru-pūjita', 'guru-upatīta', 'gurūpanīta', 'guru-yukta'],
-    answer: 2,
-    explanation: 'Gurūpanīta (guru + upanīta) refers to the Upanayana initiation.'
-  },
-  {
-    question: 'What is the active present participle (Nom. Masc. Sing.) of the root "dah" (to burn)?',
-    options: ['dahyamānaḥ', 'dahan', 'dagdhaḥ', 'dahaḥ'],
-    answer: 1,
-    explanation: 'Dahan (burning) is the active present participle.'
-  }
-]
-</script>
+
 
 # Exercise 21
 

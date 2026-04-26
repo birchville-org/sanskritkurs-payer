@@ -1,26 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet der Satz „brāhmaṇo devapratimādarśanāya garbhagṛhaṃ viśati“?',
-    options: ['Der Brahmane sieht ein Bild', 'Der Brahmane betritt den inneren Schreinraum, um das Götterbild zu sehen', 'Der Brahmane gibt dem Gott eine Gabe', 'Das Haus ist fertig'],
-    answer: 1,
-    explanation: '„devapratimādarśanāya“ (Dativ) bedeutet wörtlich „zum Zweck des Götterbild-Sehens“.'
-  },
-  {
-    question: 'Wie lautet der Dativ Singular von „kavi“ (Dichter/Sänger)?',
-    options: ['kavyai', 'kavaye', 'kavibhyaḥ', 'kaveḥ'],
-    answer: 1,
-    explanation: 'Maskuline i-Stämme bilden den Dativ Singular auf -aye.'
-  },
-  {
-    question: 'Was bedeutet der Ausspruch „alaṃ krodhena“ (अलङ्क्रोधेन)?',
-    options: ['Zorn ist gut', 'Schmücke den Zorn', 'Genug mit dem Zorn / lass ab vom Zorn!', 'Großer Zorn'],
-    answer: 2,
-    explanation: 'alaṃ (genug) mit dem Instrumentalis (krodhena) drückt eine Aufforderung aus, mit etwas aufzuhören.'
-  }
-]
-</script>
-
 # Übung Lektion 24
 
 A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:

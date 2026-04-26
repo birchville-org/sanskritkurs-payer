@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'What is "Mātsya-nyāya"?',
-    options: ['The law of the rod', 'A cookbook for fish', 'A state of anarchy (strong eat weak)', 'The path of liberation'],
-    answer: 2,
-    explanation: 'Matsya (fish) + Nyāya (logic/law): It describes an unregulated society (state of nature).'
-  },
-  {
-    question: 'What does Yoga Sūtra 2.5 define as Avidyā?',
-    options: ['Not knowing how to read', 'Forgetting the Vedas', 'Misidentifying the non-eternal as eternal', 'Being poor'],
-    answer: 2,
-    explanation: 'Avidyā is the primary cognitive error of seeing the Self where it is not.'
-  },
-  {
-    question: 'According to the Arthashastra, which type of rule is revered?',
-    options: ['Harsh rule', 'Lax rule', 'Just/proportionate rule (Yathārha-daṇḍa)', 'No rule'],
-    answer: 2,
-    explanation: 'Yathārha-daṇḍa (the rod as deserved) is the ideal for a respected ruler.'
-  }
-]
-</script>
+
 
 # Exercise 29
 

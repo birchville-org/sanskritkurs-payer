@@ -1,26 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Wie wird das Kompositum „jaleśvareṇa“ (durch den HERRN der Wasser) aufgelöst?',
-    options: ['jalena īśvareṇa', 'jalasya īśvareṇa', 'jalāt īśvareṇa', 'jalāya īśvareṇa'],
-    answer: 1,
-    explanation: 'jaleśvareṇa ist ein Genitiv-Tatpuruṣa: jalasya (des Wassers) īśvareṇa (durch den Herrn).'
-  },
-  {
-    question: 'Was bedeutet das appositionelle Karmadhāraya „dharma-yajñena“?',
-    options: ['Durch ein Opfer für den Dharma', 'Durch ein unblutiges Opfer / ein Opfer, das der Dharma selbst ist', 'Durch das Gesetz des Opfers', 'Gegen den Dharma opfern'],
-    answer: 1,
-    explanation: 'Hier wird das Opfer (yajña) durch den Dharma (Recht/Sitte) näher bestimmt: Ein Opfer, das dem Dharma entspricht oder selbst Dharma ist.'
-  },
-  {
-    question: 'Wie lautet die Auflösung für „svarga-gatāḥ“?',
-    options: ['svargāt gatāḥ', 'svargaṃ gatāḥ', 'svargasya gatāḥ', 'svargena gatāḥ'],
-    answer: 1,
-    explanation: 'Bei Verben der Bewegung steht das Ziel oft im Akkusativ-Tatpuruṣa: svargaṃ (in den Himmel) gatāḥ (Gegangene).'
-  }
-]
-</script>
-
 # Übung Lektion 15
 
 A) Übersetzen Sie das Sprichwort zu Beginn der Lektion

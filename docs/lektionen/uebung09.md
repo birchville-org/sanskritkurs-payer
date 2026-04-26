@@ -1,26 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet das Wort „karṣaka“?',
-    options: ['Pflügend / Ackerbauer', 'Wächter', 'Tänzer', 'Sohn'],
-    answer: 0,
-    explanation: 'karṣaka kommt von der Wurzel kṛṣ (pflügen) + Suffix -aka und bedeutet „Ackerbauer“.'
-  },
-  {
-    question: 'Was ist die spezifische Aufgabe (vārttā) eines Vaiśya laut Übungstext?',
-    options: ['Lehren und Opfern', 'Hüten aller Wesen', 'Ackerbau, Handel und Viehhaltung', 'Dienen der Zweimalgeborenen'],
-    answer: 2,
-    explanation: 'vārttā (Ökonomie) umfasst für Vaiśyas kṛṣi (Ackerbau), vāṇijya (Handel) und pāśupālya (Viehhaltung).'
-  },
-  {
-    question: 'Was ist ein „brāhmaṇaka“?',
-    options: ['Ein hoher Brahmane', 'Ein schlechter Brahmane (der einem Brahmanen nur ähnlich ist)', 'Ein kleiner Brahmane', 'Ein Sohn eines Brahmanen'],
-    answer: 1,
-    explanation: 'Das Suffix -ka kann Ähnlichkeit oder Geringschätzung ausdrücken; brāhmaṇaka ist einer, der einem Brahmanen nur ähnlich ist.'
-  }
-]
-</script>
-
 # Übung Lektion 9
 
 A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:

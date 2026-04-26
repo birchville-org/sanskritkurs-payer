@@ -1,5 +1,8 @@
 # Project Design System: The Scholarly Synthesis
 
+> [!IMPORTANT]
+> Always adhere to the [Translation & Localization Guide](file:///Volumes/SanDisk1TB/proj/Payer/TRANSLATION_GUIDE.md) when working on non-German content.
+
 ## 1. Visual Identity & Mood
 - **Mood**: High-end editorial, scholarly, authoritative, and minimalist.
 - **Core Principle**: "The Illuminated Manuscript of the Future."

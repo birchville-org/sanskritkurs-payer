@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How do you say "Salutation to the Teacher" in Sanskrit?',
-    options: ['guruṃ namati', 'guroḥ namaḥ', 'gurave namaḥ', 'guruḥ namati'],
-    answer: 2,
-    explanation: 'The word "namaḥ" (salutation) requires the Dative case of the person being greeted.'
-  },
-  {
-    question: 'In the sentence "Naraḥ sukhasya hetornagarāyaiti", why is "nagarāya" used?',
-    options: ['He is in the city', 'He comes FROM the city', 'He goes TO the city (Dative of goal)', 'He is for the city'],
-    answer: 2,
-    explanation: 'The Dative is often used to indicate the goal of a movement, similar to the Accusative.'
-  },
-  {
-    question: 'What does "punardarśanāya" literally mean?',
-    options: ['Because of seeing again', 'For the sake of seeing again (Until next time)', 'To the one who was seen', 'By seeing again'],
-    answer: 1,
-    explanation: 'Punardarśanāya (punar + darśana + dative suffix) means "for the sake of seeing again".'
-  }
-]
-</script>
+
 
 # Exercise 24
 

@@ -1,22 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How do you say "Even though libration is desired..." in Sanskrit?',
-    options: ['iṣṭam api mokṣam', 'iṣṭe satyāpi', 'iṣṭo pi mokṣaḥ', 'mokṣasya icchā'],
-    answer: 2,
-    explanation: 'Iṣṭo pi (iṣṭaḥ + api) means "even [though] desired".'
-  },
-  {
-    question: 'What is the passive form of the root "muc" (to free/liberate)?',
-    options: ['mucyate', 'macyate', 'muktaye', 'muñcati'],
-    answer: 0,
-    explanation: 'The root muc adds -ya- to form the passive stem mucya-.'
-  }
-]
-</script>
+
 
 # Exercise 13
 

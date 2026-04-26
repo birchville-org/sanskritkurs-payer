@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How is "jaleśvara" (Lord of Water) dissolved?',
-    options: ['jalaṃ ca īśvaraḥ', 'jalena īśvaraḥ', 'jalasya īśvaraḥ', 'jale īśvaraḥ'],
-    answer: 2,
-    explanation: 'It is a Genitive Tatpuruṣa: The Lord *of* the water.'
-  },
-  {
-    question: 'What does "balakṛta" mean?',
-    options: ['Done by a boy', 'Done with power/force', 'Done for a girl', 'Done in the morning'],
-    answer: 1,
-    explanation: 'Bala means power or force; kṛta means done.'
-  },
-  {
-    question: 'What is the Sanskrit term for a "town-dweller" (lit. people of the city)?',
-    options: ['nagarajana', 'nagaragata', 'nagarīya', 'grāmajate'],
-    answer: 0,
-    explanation: 'Nagara-jana (people of the city) is a standard compound for townspeople.'
-  }
-]
-</script>
+
 
 # Exercise 15
 

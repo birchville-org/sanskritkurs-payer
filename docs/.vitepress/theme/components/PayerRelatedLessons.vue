@@ -15,6 +15,7 @@ const currentLocale = computed(() => {
   if (path.startsWith('en/')) return 'en'
   if (path.startsWith('it/')) return 'it'
   if (path.startsWith('es/')) return 'es'
+  if (path.startsWith('bg/')) return 'bg'
   return 'root'
 })
 
@@ -66,7 +67,8 @@ function getLabel(num) {
     root: 'Lektion',
     en: 'Lesson',
     it: 'Lezione',
-    es: 'Lección'
+    es: 'Lección',
+    bg: 'Урок'
   }
   return labels[currentLocale.value] || 'Lesson'
 }
@@ -76,7 +78,8 @@ function getHeading() {
     root: 'Verwandte Themen',
     en: 'Related Topics',
     it: 'Argomenti correlati',
-    es: 'Temas relacionados'
+    es: 'Temas relacionados',
+    bg: 'Свързани теми'
   }
   return headings[currentLocale.value] || 'Related Topics'
 }

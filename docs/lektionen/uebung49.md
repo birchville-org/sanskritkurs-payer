@@ -1,26 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Bestimme die Form „ātta“ (Übung 49.12).',
-    options: ['ad (essen), Imperfekt, 2. Pers. Pl. Parasmaipada', 'ā-dā (nehmen), PPP, Nom. Sg. m.', 'as (sein), Imperfekt, 2. Pers. Pl. Parasmaipada', 'ad (essen), Präsens, 2. Pers. Pl. Parasmaipada'],
-    answer: 0,
-    explanation: 'ātta ist das Imperfekt (2. Pl. P.) von ad (Übung 49.19).'
-  },
-  {
-    question: 'Wer ist der Papagei in der Geschichte aus der Kādambarī (Übung 49.56)?',
-    options: ['Vaiśampāyana', 'Rāma', 'Śūdraka', 'Gautama'],
-    answer: 0,
-    explanation: 'Der weise Papagei heißt Vaiśampāyana (Übung 49.56).'
-  },
-  {
-    question: 'Was bedeutet das Wort „pañjara“ (Übung 49.58)?',
-    options: ['Käfig', 'Vogel', 'Haus', 'Wald'],
-    answer: 0,
-    explanation: 'pañjara bedeutet Käfig (Übung 49.62).'
-  }
-]
-</script>
-
 # Übung Lektion 49
 
 Bestimmen Sie folgende Formen:

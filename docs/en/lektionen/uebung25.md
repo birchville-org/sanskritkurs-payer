@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'What case is used for the object from which someone is protected (e.g., "protects from death")?',
-    options: ['Accusative', 'Dative', 'Ablative', 'Genitive'],
-    answer: 2,
-    explanation: 'The Ablative (*pañcamī*) is used for the source of fear, protection, or departure.'
-  },
-  {
-    question: 'How do you express "Greater than the world" (Loka)?',
-    options: ['Lokāya adhikaḥ', 'Lokena adhikaḥ', 'Lokāt adhikaḥ', 'Lokasya adhikaḥ'],
-    answer: 2,
-    explanation: 'Comparison in Sanskrit uses the Ablative (*-āt* for a-stems) for the object being compared against.'
-  },
-  {
-    question: 'What is the root meaning of "Poverty arises from not giving" (Verse 3)?',
-    options: ['Giving leads to wealth', 'Not giving (apradāna) leads to dāridrya', 'Wealth is sin', 'Hells are real'],
-    answer: 1,
-    explanation: 'The verse establishes a causal chain from lack of charity to poverty, to sin, and finally to hell.'
-  }
-]
-</script>
+
 
 # Exercise 25
 

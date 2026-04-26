@@ -1,26 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet der Imperativ „ehi“ (Übung 47.29)?',
-    options: ['Komm!', 'Geh!', 'Bleib!', 'Sprich!'],
-    answer: 0,
-    explanation: 'ehi ist der Imperativ von ā-gam (herbeikommen) oder ā-i (Lektion 47.29).'
-  },
-  {
-    question: 'Wie lautet die 1. Person Singular Imperativ Parasmaipada von „bhū“ (sein)?',
-    options: ['bhavāni', 'bhava', 'bhavatu', 'bhavāma'],
-    answer: 0,
-    explanation: 'Die Form lautet bhavāni (Lektion 47.90).'
-  },
-  {
-    question: 'Was bedeutet der Ausruf „ārye svāgataṃ te“ (Übung A.6)?',
-    options: ['Willkommen, gnädige Frau!', 'Setzen Sie sich!', 'Befehlen Sie!', 'Viel Glück!'],
-    answer: 0,
-    explanation: 'svāgataṃ (Willkommen) te (dir) (Übung 47.30).'
-  }
-]
-</script>
-
 # Übung Lektion 47
 
 A) Übersetzen Sie:

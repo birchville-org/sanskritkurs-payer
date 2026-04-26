@@ -1,17 +1,24 @@
 import { defineConfig } from 'vitepress'
 import { de } from './locales/de.mjs'
 import { en } from './locales/en.mjs'
+import { it } from './locales/it.mjs'
+import { es } from './locales/es.mjs'
+import { bg } from './locales/bg.mjs'
 
 export default defineConfig({
   title: "Sanskritkurs",
   description: "Grammatik Lehrbuch von Alois Payer",
+  lang: 'de-DE',
+  base: '/',
+  ignoreDeadLinks: true,
   cleanUrls: true,
 
   locales: {
     root: { ...de },
     en: { ...en },
-    it: { label: 'IT', lang: 'it-IT', link: '/it/' },
-    es: { label: 'ES', lang: 'es-ES', link: '/es/' }
+    it: { ...it },
+    es: { ...es },
+    bg: { ...bg }
   },
   
   themeConfig: {
@@ -21,7 +28,6 @@ export default defineConfig({
         miniSearch: {
           options: {
             processTerm: function(term) {
-              // DEBUG_V6: Ensure no external references
               if (!term) return term;
               const map = {
                 'ā': 'a', 'ī': 'i', 'ū': 'u', 'ṛ': 'r', 'ṝ': 'r', 'ḷ': 'l', 'ḹ': 'l',
@@ -40,13 +46,10 @@ export default defineConfig({
           root: { translations: { button: { buttonText: 'Suchen' } } },
           en: { translations: { button: { buttonText: 'Search' } } },
           it: { translations: { button: { buttonText: 'Cerca' } } },
-          es: { translations: { button: { buttonText: 'Buscar' } } }
+          es: { translations: { button: { buttonText: 'Buscar' } } },
+          bg: { translations: { button: { buttonText: 'Търсене' } } }
         } 
-      } 
-    },
-    footer: {
-      message: "Teil der Tüpfli's Global Village Library",
-      copyright: 'Copyright © 2008-2010 Alois Payer'
+      }
     }
   }
 })

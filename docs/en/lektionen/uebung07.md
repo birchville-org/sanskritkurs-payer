@@ -1,22 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How do you say "those" (Accusative plural masculine) in Sanskrit?',
-    options: ['te', 'tam', 'tān', 'taiḥ'],
-    answer: 2,
-    explanation: 'Tān is the Accusative plural masculine of tad.'
-  },
-  {
-    question: 'What is the Dative Singular of "kim" (Who/What) in masculine?',
-    options: ['kena', 'kasmai', 'kasya', 'kasmin'],
-    answer: 1,
-    explanation: 'Pronominal stems take -smai in the Dative singular masculine.'
-  }
-]
-</script>
+
 
 # Exercise 7
 

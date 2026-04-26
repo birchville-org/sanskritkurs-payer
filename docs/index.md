@@ -21,3 +21,11 @@ features:
   - title: Moderne Architektur
     details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
 ---
+
+::: tip BETA-TEST
+Diese Webseite stellt einen Beta-Test dar, der untersuchen soll, wie hoch die Qualität KI-generierter Übersetzungen ist. 
+
+**Bemerkungen und Fehlermeldungen jeglicher Art sind erbeten an:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+
+**Test Setup:** Google Antigravity mit Gemini 3 Flash (cloud) und Massenübersetzung mit lokalem Gemma 4:26b (ollama) auf M4/32 GB.
+:::

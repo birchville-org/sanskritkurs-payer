@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Which suffix is used for the Absolutive of a root WITH a prefix?',
-    options: ['-tvā', '-ya', '-tum', '-ta'],
-    answer: 1,
-    explanation: 'Simple roots take -tvā (e.g., kṛtvā), while prefixed roots take -ya (e.g., vijitya).'
-  },
-  {
-    question: 'How do you say "Having gone" (from root gam)?',
-    options: ['gacchatvā', 'gamitvā', 'gatvā', 'gatyā'],
-    answer: 2,
-    explanation: 'Gatvā is the standard Absolutive of the root gam.'
-  },
-  {
-    question: 'What does the Absolutive indicate in a sentence?',
-    options: ['A future action', 'An action completed before the main verb', 'A simultaneous action', 'A passive state'],
-    answer: 1,
-    explanation: 'The Absolutive (also called Gerund) expresses an action that happens prior to the action of the main verb.'
-  }
-]
-</script>
+
 
 # Exercise 22
 

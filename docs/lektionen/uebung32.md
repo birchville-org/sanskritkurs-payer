@@ -1,26 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet der Satz „āsīt kṣatriya upapanno guṇair iṣṭaiḥ“?',
-    options: ['Es war einmal ein Kṣatriya, der mit erwünschten Tugenden ausgestattet war', 'Der Kṣatriya kämpft gegen die Feinde', 'Ein Kṣatriya wird geboren', 'Der Kṣatriya ist tugendhaft'],
-    answer: 0,
-    explanation: 'āsīt (von as) ist die 3. Person Singular Imperfekt („er war“).'
-  },
-  {
-    question: 'Wie lautet das Imperfekt von „as“ (sein) in der 3. Person Plural?',
-    options: ['āsan', 'āsiṣyan', 'abhavan', 'santi'],
-    answer: 0,
-    explanation: 'as (Klasse 2) bildet den Imperfekt Plural āsan.'
-  },
-  {
-    question: 'Was bedeutet „aho vṛddhasya kauśalam“ am Ende der Geschichte?',
-    options: ['Oh, das Alter des Greises!', 'Oh, das Geschick des Greises!', 'Oh, der Greis ist schwach!', 'Der Greis hat Pech'],
-    answer: 1,
-    explanation: 'kauśalam bedeutet „Geschick“ oder „Fertigkeit“.'
-  }
-]
-</script>
-
 # Übung Lektion 32
 
 A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbis entsprechenden Imperfektformen:

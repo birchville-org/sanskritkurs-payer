@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'What is the root for the verb "hanti"?',
-    options: ['han', 'ha', 'has', 'hi'],
-    answer: 0,
-    explanation: 'Hanti comes from the root han (to kill/strike).'
-  },
-  {
-    question: 'How do you say "They are" in Sanskrit?',
-    options: ['asti', 'bhaganti', 'santi', 'asyanti'],
-    answer: 2,
-    explanation: 'Santi is the 3rd person plural of the root as (to be).'
-  },
-  {
-    question: 'Which of these verbs belongs to the 2nd class (Adādi)?',
-    options: ['bhavanti', 'gacchanti', 'adanti', 'nṛtyati'],
-    answer: 2,
-    explanation: 'Adanti (from ad) is a typical class 2 verb.'
-  }
-]
-</script>
+
 
 # Exercise 17
 

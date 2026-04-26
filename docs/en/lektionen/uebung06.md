@@ -1,22 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How is the Accusative Singular of "kanyā" formed?',
-    options: ['kanyāḥ', 'kanyām', 'kanyayā', 'kanyāyām'],
-    answer: 1,
-    explanation: 'Feminine ā-stems take -m in the Accusative singular.'
-  },
-  {
-    question: 'What is the Locative Singular of "śālā" (hall/school)?',
-    options: ['śālāyām', 'śāle', 'śālān', 'śālāyāḥ'],
-    answer: 0,
-    explanation: 'Feminine ā-stems use the suffix -yām for the Locative.'
-  }
-]
-</script>
+
 
 # Exercise 6
 

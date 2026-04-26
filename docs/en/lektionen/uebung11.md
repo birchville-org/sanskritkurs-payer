@@ -1,22 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How do you say "The Smṛti says" in Sanskrit?',
-    options: ['iti smṛtiḥ', 'smṛtir iti', 'vadyate smṛtiḥ', 'smṛtiḥ vadati'],
-    answer: 1,
-    explanation: 'The common way to attribute a statement to a source is using the particle "iti" followed by the source (smṛtir iti).'
-  },
-  {
-    question: 'What is the passive form of the root "vad" (to speak)?',
-    options: ['vadyate', 'vadyati', 'udyate', 'vadyaḥ'],
-    answer: 2,
-    explanation: 'The root vad undergoes Samprasāraṇa in the passive, becoming udyate.'
-  }
-]
-</script>
+
 
 # Exercise 11
 

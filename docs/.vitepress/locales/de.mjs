@@ -3,6 +3,8 @@ import { getSidebarItems } from '../utils.mjs'
 export const de = {
   label: 'DE',
   lang: 'de-DE',
+  title: 'Sanskritkurs',
+  description: 'Grammatik Lehrbuch von Alois Payer',
   themeConfig: {
     outline: { level: [2, 3], label: 'Auf dieser Seite' },
     nav: [
@@ -26,6 +28,10 @@ export const de = {
           { text: 'Impressum & Zitieren', link: '/impressum' },
           { text: 'Bildlizenzen (Audit)', link: '/licenses' }
       ]}
-    ]
+    ],
+    footer: {
+      message: "Teil der Tüpfli's Global Village Library",
+      copyright: 'Copyright © 2008-2010 Alois Payer'
+    }
   }
 }

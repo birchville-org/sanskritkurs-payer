@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'What is the case of "gurau" in the sentence "Gurau tiṣṭhati bālaḥ"?',
-    options: ['Dative', 'Ablative', 'Locative', 'Genitive'],
-    answer: 2,
-    explanation: 'Gurau is the Locative singular of guru. In this context, it forms a Locative Absolute.'
-  },
-  {
-    question: 'How do you say "In the village" in Sanskrit?',
-    options: ['grāmam', 'grāme', 'grāmāt', 'grāmasya'],
-    answer: 1,
-    explanation: 'Grāme is the Locative singular of the a-stem grāma.'
-  },
-  {
-    question: 'What does the construction "Putre mṛte" indicate?',
-    options: ['The son is dying', 'Because of the son', 'When/After the son had died', 'To the dead son'],
-    answer: 2,
-    explanation: 'This is a Locative Absolute (Sati Saptamī) indicating a circumstantial or time-bound condition.'
-  }
-]
-</script>
+
 
 # Exercise 27
 

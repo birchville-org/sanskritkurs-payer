@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'What is the future form of the root "gam" (to go) in the 3rd person singular?',
-    options: ['gacchyati', 'gamiṣyati', 'gacchati', 'gantavyam'],
-    answer: 1,
-    explanation: 'Gam takes the connecting vowel i and forms gamiṣyati.'
-  },
-  {
-    question: 'How does "paktum" (infinitive) relate to "pakṣyati" (future)?',
-    options: ['They use different roots', 'Both show the kṣ sound due to the suffix -sya/-tum with root pac', 'One is past, one is future', 'No relation'],
-    answer: 1,
-    explanation: 'Root pac + sya/tum leads to k + s = kṣ sound (pakṣyati).'
-  },
-  {
-    question: 'What is the future of "tiṣṭhati" (he stands)?',
-    options: ['tiṣṭhasyati', 'sthāsyati', 'sthāiṣyati', 'tiṣṭhiṣyati'],
-    answer: 1,
-    explanation: 'The future is formed from the original root sthā, resulting in sthāsyati.'
-  }
-]
-</script>
+
 
 # Exercise 26
 

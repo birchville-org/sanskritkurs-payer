@@ -21,3 +21,11 @@ features:
   - title: Modern Architecture
     details: Built on the foundation of VitePress for maximum speed.
 ---
+
+::: tip BETA-TEST
+This website represents a beta test to investigate the quality of AI-generated translations.
+
+**Comments and error reports of any kind are requested at:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+
+**Test Setup:** Google Antigravity with Gemini 3 Flash (cloud) and mass translation with local Gemma 4:26b (ollama) on M4/32 GB.
+:::

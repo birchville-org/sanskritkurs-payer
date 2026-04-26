@@ -1,26 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet das Adverb „akasmāt“?',
-    options: ['Plötzlich, unerwartet', 'Immer', 'Vielleicht', 'Deshalb'],
-    answer: 0,
-    explanation: 'akasmāt (Ablativ von katarat/kiṃ?) bedeutet „unerwartet“ oder „ohne ein Warum“ (Lektion 37.2.4).'
-  },
-  {
-    question: 'Was bedeutet das Avyayībhāva-Kompositum „anuganggam“?',
-    options: ['Entlang des Ganges', 'Im Ganges', 'Hinter dem Ganges', 'Gegen den Ganges'],
-    answer: 0,
-    explanation: 'anu bedeutet „entlang“ oder „gemäß“. anuganggam = entlang des Ganges.'
-  },
-  {
-    question: 'Wie lautet das Indefinitpronomen für „irgendjemand“ (Maskulinum)?',
-    options: ['kaścit', 'kadāpi', 'kiñcit', 'kutrapi'],
-    answer: 0,
-    explanation: 'kaścit wird aus kaḥ (wer?) + cit gebildet (Lektion 37.7).'
-  }
-]
-</script>
-
 # Übung Lektion 37
 
 A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter. Übersetzen Sie die Fragesätze.

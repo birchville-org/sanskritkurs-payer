@@ -1,26 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Welches dieser Verben gehört zur 2. Präsensklasse (adādi)?',
-    options: ['भू (bhū)', 'अद् (ad)', 'गम् (gam)', 'नृत् (nṛt)'],
-    answer: 1,
-    explanation: 'ad (essen) ist das Musterverb der 2. Klasse, bei der Endungen direkt an die Wurzel treten.'
-  },
-  {
-    question: 'Was ist die 3. Person Plural von "ad" (essen) im Präsens Indikativ?',
-    options: ['adanti', 'atti', 'adate', 'adani'],
-    answer: 0,
-    explanation: 'Die Endung -anti tritt direkt an die Wurzel: ad-anti.'
-  },
-  {
-    question: 'Was bedeutet das Wort "āsana" (आसन)?',
-    options: ['Essen', 'Sitz / Sitzposition', 'Schlag / Hieb', 'Weinen'],
-    answer: 1,
-    explanation: 'āsana (von der Wurzel ās „sitzen“) bedeutet Sitz oder Sitzposition.'
-  }
-]
-</script>
-
 # Übung Lektion 17
 
 A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:

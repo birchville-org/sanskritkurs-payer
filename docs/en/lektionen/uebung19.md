@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How do you form the relative clause "The man who..."?',
-    options: ['yaḥ naraḥ', 'saḥ naraḥ', 'kaḥ naraḥ', 'iti naraḥ'],
-    answer: 0,
-    explanation: 'The relative pronoun "yad" (yaḥ in Nom. Masc. Sing.) is used for the "who" part of the relative clause.'
-  },
-  {
-    question: 'In the sentence "Yaḥ paṭhati saḥ jānāti", what does "saḥ" refer to?',
-    options: ['The book', 'The teacher', 'The one who reads (the correlative)', 'The king'],
-    answer: 2,
-    explanation: 'Tad (saḥ) acts as the correlative pronoun following the relative clause (yad).'
-  },
-  {
-    question: 'What is the feminine singular genitive of the relative pronoun "yad"?',
-    options: ['yasya', 'yasyāḥ', 'yatra', 'yayā'],
-    answer: 1,
-    explanation: 'Yasyāḥ is the Genitive/Ablative feminine singular.'
-  }
-]
-</script>
+
 
 # Exercise 19
 

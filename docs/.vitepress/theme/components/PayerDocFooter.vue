@@ -2,21 +2,21 @@
   <div v-if="showFooter" class="payer-doc-footer">
     <!-- Vorherige Seite -->
     <a v-if="prev" :href="prev.link" class="pager-card pager-prev">
-      <span class="pager-label">{{ isEn ? 'Previous' : 'Vorherige Seite' }}</span>
-      <span class="pager-title">{{ prev.text }}</span>
+      <span class="pager-label">{{ labels.prev }}</span>
+      <span class="pager-title">{{ translateTitle(prev.text) }}</span>
     </a>
     <span v-else-if="hasSchrift" class="pager-spacer" />
 
     <!-- Schriftübung (nur für Lektionen mit Schriftlink) -->
     <a v-if="hasSchrift" :href="schriftUrl" class="pager-card pager-mid">
-      <span class="pager-label">{{ isEn ? 'Exercise' : 'Zusätzliche Übung' }}</span>
-      <span class="pager-title">{{ schriftText }}</span>
+      <span class="pager-label">{{ labels.exercise }}</span>
+      <span class="pager-title">{{ translatedSchriftText }}</span>
     </a>
 
     <!-- Nächste Seite -->
     <a v-if="next" :href="next.link" class="pager-card pager-next">
-      <span class="pager-label">{{ isEn ? 'Next' : 'Nächste Seite' }}</span>
-      <span class="pager-title">{{ next.text }}</span>
+      <span class="pager-label">{{ labels.next }}</span>
+      <span class="pager-title">{{ translateTitle(next.text) }}</span>
     </a>
     <span v-else-if="hasSchrift" class="pager-spacer" />
   </div>
@@ -30,7 +30,56 @@ import navMapping from '../../data/nav_mapping.json'
 const { theme, lang } = useData()
 const route = useRoute()
 
-const isEn = computed(() => route.path.startsWith('/en/'))
+const currentLang = computed(() => {
+  const path = route.path
+  if (path.startsWith('/en/')) return 'en'
+  if (path.startsWith('/it/')) return 'it'
+  if (path.startsWith('/es/')) return 'es'
+  if (path.startsWith('/bg/')) return 'bg'
+  return 'de'
+})
+
+const labels = computed(() => {
+  const dict = {
+    de: { prev: 'Vorherige Seite', exercise: 'Zusätzliche Übung', next: 'Nächste Seite' },
+    en: { prev: 'Previous Page', exercise: 'Additional Exercise', next: 'Next Page' },
+    it: { prev: 'Pagina precedente', exercise: 'Esercizio aggiuntivo', next: 'Prossima pagina' },
+    es: { prev: 'Página anterior', exercise: 'Ejercicio adicional', next: 'Próxima página' },
+    bg: { prev: 'Предишна страница', exercise: 'Допълнително упражнение', next: 'Следваща страница' }
+  }
+  return dict[currentLang.value] || dict.de
+})
+
+const translateTitle = (text) => {
+  if (!text) return ''
+  const l = currentLang.value
+  if (l === 'de') return text
+  
+  let t = text
+  if (l === 'it') {
+    t = t.replace(/Schriftübung/g, 'Esercizio di scrittura')
+    t = t.replace(/Lektion/g, 'Lezione')
+    t = t.replace(/Übung/g, 'Esercizio')
+    t = t.replace(/Schrift/g, 'Scrittura')
+  } else if (l === 'es') {
+    t = t.replace(/Schriftübung/g, 'Ejercicio de escritura')
+    t = t.replace(/Lektion/g, 'Lección')
+    t = t.replace(/Übung/g, 'Ejercicio')
+    t = t.replace(/Schrift/g, 'Escritura')
+  } else if (l === 'en') {
+    t = t.replace(/Schriftübung/g, 'Writing Exercise')
+    t = t.replace(/Lektion/g, 'Lesson')
+    t = t.replace(/Übung/g, 'Exercise')
+    t = t.replace(/Schrift/g, 'Script')
+  } else if (l === 'bg') {
+    t = t.replace(/Schriftübung/g, 'Упражнение по писмо')
+    t = t.replace(/Lektion/g, 'Урок')
+    t = t.replace(/Übung/g, 'Упражнение')
+    t = t.replace(/Schrift/g, 'Писмо')
+    t = t.replace(/Devanāgarī/g, 'Деванагари')
+  }
+  return t
+}
 
 // Alle Sidebar-Links der Reihe nach einsammeln
 function flattenSidebar(sidebar) {
@@ -80,18 +129,14 @@ const hasSchrift = computed(() => !!schriftData.value)
 
 const schriftUrl = computed(() => {
   if (!schriftData.value) return ''
-  const base = isEn.value ? '/en/lektionen/' : '/lektionen/'
+  const l = currentLang.value
+  const base = l === 'de' ? '/lektionen/' : `/${l}/lektionen/`
   return base + schriftData.value.schrift.replace(/\.md$/, '')
 })
 
-const schriftText = computed(() => {
+const translatedSchriftText = computed(() => {
   if (!schriftData.value) return ''
-  let text = schriftData.value.schrift_text
-  if (isEn.value) {
-    text = text.replace('Schriftübung', 'Script Exercise')
-    text = text.replace('Schrift', 'Script')
-  }
-  return text
+  return translateTitle(schriftData.value.schrift_text)
 })
 
 const showFooter = computed(() => prev.value || next.value || hasSchrift.value)

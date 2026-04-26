@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How do you say "They might be" in Sanskrit?',
-    options: ['bhavanti', 'santi', 'syuḥ', 'astu'],
-    answer: 2,
-    explanation: 'Syuḥ is the 3rd person plural Optative of the root as (to be).'
-  },
-  {
-    question: 'According to Manu Smṛti, what should one avoid saying even if it is true?',
-    options: ['Pleasant things', 'Unpleasant truths', 'Foreign languages', 'Old stories'],
-    answer: 1,
-    explanation: 'The verse advises against speaking "satyam apriyam" (unpleasant truth).'
-  },
-  {
-    question: 'What is the characteristic suffix for the Optative in the thematic (1st) class?',
-    options: ['-ati', '-itum', '-et', '-ya'],
-    answer: 2,
-    explanation: 'The thematic Optative ends in -et (for 3.sg. Parasmaipada).'
-  }
-]
-</script>
+
 
 # Exercise 30
 

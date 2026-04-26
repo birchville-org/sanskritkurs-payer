@@ -1,26 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet der Satz „prajñā duḥkhasambhavaṃ rundhyāt“?',
-    options: ['Weisheit soll das Entstehen von Leiden verhindern', 'Leiden entsteht aus Weisheit', 'Die Welt ist voller Leiden', 'Der Buddha lehrt den Weg'],
-    answer: 0,
-    explanation: 'rundhyāt ist der Optativ von rudh (7U, verhindern/stoppen).'
-  },
-  {
-    question: 'Was bedeutet „bhanakti“?',
-    options: ['Er biegt', 'Er bricht (zerbricht etwas)', 'Er spricht', 'Er isst'],
-    answer: 1,
-    explanation: 'bhanakti (भनक्ति) ist die 3. Person Singular von bhañj (7P, zerbrechen).'
-  },
-  {
-    question: 'Was bedeutet das Wort „śarīra“?',
-    options: ['Leib / Körper', 'Geist', 'Waffe', 'Frieden'],
-    answer: 0,
-    explanation: 'śarīra (शरीर) bedeutet Körper oder Leib.'
-  }
-]
-</script>
-
 # Übung Lektion 31
 
 A) Übersetzen Sie folgende Sätze und lösen Sie die Komposita auf:

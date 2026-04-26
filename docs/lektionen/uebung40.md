@@ -1,26 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet der Vers „vidyā dadāti vinayaṃ...“?',
-    options: ['Wissen gibt Bescheidenheit, aus Bescheidenheit folgt Würdigkeit', 'Wissen ist Macht, Macht ist Geld', 'Wissenschaft ist schwerer als Sport', 'Der Lehrer gibt dem Schüler ein Buch'],
-    answer: 0,
-    explanation: 'vidyā = Wissen/Bildung, vinaya = Bescheidenheit/Zucht, pātratā = Würdigkeit (Lektion 40.1).'
-  },
-  {
-    question: 'Wie lautet die 1. Person Plural Perfekt Parasmaipada von „śru“ (hören)?',
-    options: ['śuśruma', 'śuśruvimah', 'śruṇumaḥ', 'aśṛṇvama'],
-    answer: 0,
-    explanation: 'śru ist eine aniṭ-Wurzel, daher tritt die Endung -ma direkt an den schwachen Stamm śuśru: śuśruma (Lektion 40.2).'
-  },
-  {
-    question: 'Welches Wort würde „durch mich“ (Instrumental von ich) bedeuten?',
-    options: ['mayā', 'mama', 'mat', 'mām'],
-    answer: 0,
-    explanation: 'mayā ist der Instrumental Singular von asmad und bedeutet „durch mich“ (Lektion 40.5).'
-  }
-]
-</script>
-
 # Übung Lektion 40
 
 A) Übersetzen sie die सुभाषितानि am Beginn der Lektion.

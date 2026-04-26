@@ -1,26 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'In welchem Kasus stehen Relativpronomen (yad) und Beziehungswort im Relativsatz meistens?',
-    options: ['Immer im Nominativ', 'Immer im selben Kasus wie das Korrelativum im Hauptsatz', 'In dem Kasus, den der Relativsatz syntaktisch erfordert', 'Immer im Genitiv'],
-    answer: 2,
-    explanation: 'Das Relativpronomen steht in dem Kasus, den seine Rolle im Relativsatz verlangt (z.B. Agens im Instr., Ziel im Akk.).'
-  },
-  {
-    question: 'Was bedeutet der Ausdruck „yena yena ca vātena ... tena tena ca ...“?',
-    options: ['Aus diesem und jenem Grund', 'Mit welchem Wind auch immer ... mit eben diesem ...', 'Dort und hier', 'Früher oder später'],
-    answer: 1,
-    explanation: 'Die Verdopplung des Relativums (yad yad) drückt Allgemeingültigkeit oder „wer/was auch immer“ aus.'
-  },
-  {
-    question: 'Was ist ein „vāridda“ (वारिद)?',
-    options: ['Wind', 'Wassergeber / Regenwolke', 'Sonnenschirm', 'Gelehrter'],
-    answer: 1,
-    explanation: 'vāri (Wasser) + da (gebend) bedeutet wörtlich „Wassergeber“ und bezeichnet eine Regenwolke.'
-  }
-]
-</script>
-
 # Übung Lektion 19
 
 Übersetzen Sie ins Sanskrit:

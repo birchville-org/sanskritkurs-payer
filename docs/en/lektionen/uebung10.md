@@ -1,22 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'What is the characteristic prefix for the Imperfect (Laṅ) tense?',
-    options: ['ā-', 'a-', 'su-', 'apa-'],
-    answer: 1,
-    explanation: 'The augment a- is added to the beginning of the root to signal the past tense.'
-  },
-  {
-    question: 'How do you say "I read" (1st person singular imperfect) of paṭh?',
-    options: ['paṭhāmi', 'apaṭham', 'apaṭhan', 'apaṭhaḥ'],
-    answer: 1,
-    explanation: 'Apaṭham is the first person singular imperfect.'
-  }
-]
-</script>
+
 
 # Exercise 10
 

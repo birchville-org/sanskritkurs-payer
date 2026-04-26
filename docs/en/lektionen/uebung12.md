@@ -1,22 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'What is the PPP of the root "gam" (to go)?',
-    options: ['gamitaḥ', 'gataḥ', 'gacchat', 'gamyaḥ'],
-    answer: 1,
-    explanation: 'Gataḥ is the irregular but extremely common PPP of gam.'
-  },
-  {
-    question: 'How does the PPP of a transitive verb (like "khād") function in a sentence?',
-    options: ['As an active verb', 'As a passive adjective agreeing with the object', 'As an adverb', 'It is indeclinable'],
-    answer: 1,
-    explanation: 'Transitive PPPs function as passive past adjectives, agreeing with the object in gender, number, and case (e.g., phalaṃ khāditam).'
-  }
-]
-</script>
+
 
 # Exercise 12
 

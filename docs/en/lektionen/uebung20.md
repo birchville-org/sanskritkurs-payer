@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'How do you dissolve the Bahuvrīhi "mṛtaputraḥ"?',
-    options: ['mṛtaḥ putraḥ ca', 'mṛtena putraḥ', 'mṛtaḥ putraḥ yasya', 'mṛtasya putraḥ'],
-    answer: 2,
-    explanation: 'A Bahuvrīhi refers to an external person: "He whose (yasya) son (putraḥ) is dead (mṛtaḥ)".'
-  },
-  {
-    question: 'What is the "threefold suffering" mentioned in Sāṃkhya philosophy?',
-    options: ['Physical, Mental, Spiritual', 'Past, Present, Future', 'From self, from objects, from the gods', 'Birth, Old age, Death'],
-    answer: 2,
-    explanation: 'Ādhyātmika (self), Ādhibhautika (external beings), and Ādhidaivika (divine/natural forces).'
-  },
-  {
-    question: 'What does "vītamoha" mean?',
-    options: ['One who is deluded', 'One whose delusion has gone', 'Great delusion', 'Destroyer of delusion'],
-    answer: 1,
-    explanation: 'Vīta (gone) + Moha (delusion): One whose delusion has vanished.'
-  }
-]
-</script>
+
 
 # Exercise 20
 

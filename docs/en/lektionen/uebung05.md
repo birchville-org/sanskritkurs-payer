@@ -1,28 +1,7 @@
 > [!INFO] Citation & Rights
 > This chapter is part of the Sanskrit course. For details on copyright and citing the original version, see: [Credits & Citation](/en/impressum)
 
-<script setup>
-const quizQuestions = [
-  {
-    question: 'What is the Genitive Singular ending for masculine a-stems?',
-    options: ['-asya', '-āya', '-āt', '-ena'],
-    answer: 0,
-    explanation: '-asya identifies the Genitive (possession), e.g., narasya "of the man".'
-  },
-  {
-    question: 'How do you say "in the forest" (Locative Singular)?',
-    options: ['vanāt', 'vanena', 'vanasya', 'vane'],
-    answer: 3,
-    explanation: 'The Locative ending for a-stems is -e.'
-  },
-  {
-    question: 'What is the Ablative Case used for?',
-    options: ['Movement towards', 'Possession', 'Movement away from / Origin', 'Place where'],
-    answer: 2,
-    explanation: 'The Ablative (5th case) marks the source or point of departure.'
-  }
-]
-</script>
+
 
 # Exercise 5
 

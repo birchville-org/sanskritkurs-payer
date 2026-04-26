@@ -1,26 +1,3 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet das Wort „mātsyanayāya“ (मात्स्यन्याय) in der indischen Staatstheorie?',
-    options: ['Das Gesetz der Fische (Recht des Stärkeren)', 'Ein buddhistisches Gesetz', 'Die Ordnung der Brahmanen', 'Ein Opferritual'],
-    answer: 0,
-    explanation: 'Es bedeutet, dass die Großen die Kleinen verschlingen (Recht des Stärkeren), wenn keine staatliche Ordnung (daṇḍa) existiert.'
-  },
-  {
-    question: 'Was drückt das Wort „udbhāvayati“ (Kausativ zu ud-bhū) aus?',
-    options: ['Er vernichtet', 'Er bewirkt das Entstehen / bringt hervor', 'Er geht aufwärts', 'Er meditiert'],
-    answer: 1,
-    explanation: 'Kausativ zu ud-bhū (aufstehen/entstehen) = „hervorbringen / entstehen lassen“.'
-  },
-  {
-    question: 'Wer ist ein „Parivrājaka“?',
-    options: ['Ein König', 'Ein Diener', 'Ein umherwandernder Mönch', 'Ein Kaufmann'],
-    answer: 2,
-    explanation: 'Ein Parivrājaka (von pari-vraj) ist ein umherwandernder Asket.'
-  }
-]
-</script>
-
 # Übung Lektion 29
 
 Übersetzen Sie wortgetreu in gutes Deutsch und lernen Sie die Sanskrittexte auswendig:
