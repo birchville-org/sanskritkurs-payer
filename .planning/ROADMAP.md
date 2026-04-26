@@ -46,9 +46,9 @@ Horizontale Erweiterung um Italienisch und Spanisch sowie Transparenz-Hinweise.
 **Source phase:** 10
 **Deferred at:** 2026-04-26 during /gsd-next advancement
 **Plans:**
-- [ ] 10-1: Infrastructure Cleanup (ran, no SUMMARY.md)
-- [ ] 10-2: Search Optimization (ran, no SUMMARY.md)
-- [ ] 10-3: Verification (ran, no SUMMARY.md)
+- [x] 10-1: Infrastructure Cleanup (ran, no SUMMARY.md)
+- [x] 10-2: Search Optimization (ran, no SUMMARY.md)
+- [x] 10-3: Verification (ran, no SUMMARY.md)
 
 ### Phase 999.11: Follow-up — Phase 11 incomplete plans (BACKLOG)
 
@@ -56,10 +56,10 @@ Horizontale Erweiterung um Italienisch und Spanisch sowie Transparenz-Hinweise.
 **Source phase:** 11
 **Deferred at:** 2026-04-26 during /gsd-next advancement
 **Plans:**
-- [ ] 11-1: Data Infrastructure (ran, no SUMMARY.md)
-- [ ] 11-2: Index Page (ran, no SUMMARY.md)
-- [ ] 11-3: UI Components (ran, no SUMMARY.md)
-- [ ] 11-4: Integration (ran, no SUMMARY.md)
+- [x] 11-1: Data Infrastructure (ran, no SUMMARY.md)
+- [x] 11-2: Index Page (ran, no SUMMARY.md)
+- [x] 11-3: UI Components (ran, no SUMMARY.md)
+- [x] 11-4: Integration (ran, no SUMMARY.md)
 
 ## Progress
 
