@@ -1,7 +1,7 @@
 import { h, watch } from 'vue'
 import { useRoute } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import PayerQuiz from './components/PayerQuiz.vue'
+
 import PayerNavButton from './components/PayerNavButton.vue'
 import PayerDocFooter from './components/PayerDocFooter.vue'
 import PayerTopicIndex from './components/PayerTopicIndex.vue'
@@ -54,7 +54,6 @@ export default {
   extends: DefaultTheme,
   Layout: () => h(DefaultTheme.Layout, null, {
     'doc-footer-before': () => h('div', null, [
-      h(PayerRelatedLessons),
       h(PayerDocFooter)
     ])
   }),
@@ -67,7 +66,7 @@ export default {
     }
   },
   enhanceApp({ app }) {
-      app.component('PayerQuiz', PayerQuiz)
+
       app.component('PayerNavButton', PayerNavButton)
       app.component('PayerTopicIndex', PayerTopicIndex)
       app.component('PayerRelatedLessons', PayerRelatedLessons)
