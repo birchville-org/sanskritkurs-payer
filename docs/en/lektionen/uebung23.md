@@ -47,6 +47,3 @@ Translate and analyze the compounds:
 आहारनिद्राभयमैथुनं च / सामान्यमेतत्पशुभिर्नराणाम् । / धर्मे हि तेषा्मधिको विशेषो / धर्मेण हीनाः पशुभिः समानाः ॥
 "Eating, sleeping, fear, and procreation are common to both humans and animals. The distinguishing feature of humans is Dharma. Without Dharma, they are equal to animals."
 
-## Quiz: Infinitives & Purpose
-
-<PayerQuiz :questions="quizQuestions" />

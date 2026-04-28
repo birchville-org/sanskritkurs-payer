@@ -19,6 +19,3 @@ B) Translate into Sanskrit:
 2. They see the forest. (*Vanaṃ paśyanti.*)
 3. I go to the village. (*Grāmaṃ gacchāmi.*)
 
-## Quiz: Sentence Basics
-
-<PayerQuiz :questions="quizQuestions" />

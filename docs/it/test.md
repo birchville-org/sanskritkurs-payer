@@ -1,0 +1,1 @@
+Sanskrit è una lingua antica.

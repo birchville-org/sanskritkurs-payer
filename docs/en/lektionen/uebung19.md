@@ -34,6 +34,3 @@ Translate and reflect on the following verses:
 3. यस्यार्थास्तस्य मित्राणि / यस्यार्थास्तस्य बान्धवाः । / यस्यार्थाः स पुमांल्लोके / यस्यार्थाः स हि पण्डितः ॥४॥
    "He who has wealth has friends. He who has wealth has relatives. He who has wealth is a [true] man in the world. He who has wealth is indeed a scholar."
 
-## Quiz: Relative Pronouns (yad/tad)
-
-<PayerQuiz :questions="quizQuestions" />

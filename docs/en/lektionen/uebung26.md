@@ -36,6 +36,3 @@ Form the future tense (*-sya-* / *-iṣya-*) based on the present tense form pro
 9. **ghnanti** (root *han*) -> *haniṣyanti* (they will kill/strike)
 10. **smarati** -> *smariṣyati* (he will remember)
 
-## Quiz: Future Tense & Sandhi
-
-<PayerQuiz :questions="quizQuestions" />

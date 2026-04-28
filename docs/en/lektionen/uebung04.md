@@ -23,6 +23,3 @@ C) Form the Instrumental and Dative (Singular and Plural) for:
 *   *nara*
 *   *phala*
 
-## Quiz: Cases (Inst & Dat)
-
-<PayerQuiz :questions="quizQuestions" />

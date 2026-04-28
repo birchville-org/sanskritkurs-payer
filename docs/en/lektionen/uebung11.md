@@ -49,6 +49,3 @@ B) Convert the sentences from A) into Passive (Karmaṇi) constructions:
 11. केनाग्निरिज्यते ।
 12. तेन श्रावकेण बुद्धो धर्मं पृच्छ्यते ॥
 
-## Quiz: Intermediate Practice
-
-<PayerQuiz :questions="quizQuestions" />

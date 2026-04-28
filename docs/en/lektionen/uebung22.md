@@ -44,6 +44,3 @@ Translate and analyze the compounds:
 4. अनिष्ट्वा नरो भगवद्भक्तिमात्रेणापि मोक्षमाप्नोति ॥४॥
    Even without having sacrificed (*aniṣṭvā*), a man reaches liberation (*mokṣam*) through mere devotion to the Lord (*bhagavad-bhakti-mātreṇa*).
 
-## Quiz: Absolutives (Gerunds)
-
-<PayerQuiz :questions="quizQuestions" />

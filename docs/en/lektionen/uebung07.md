@@ -21,6 +21,3 @@ B) Translate into Sanskrit:
 
 C) Decline **tad** (that) in the masculine (Singular, Dual, Plural).
 
-## Quiz: Pronouns (tad, kim)
-
-<PayerQuiz :questions="quizQuestions" />

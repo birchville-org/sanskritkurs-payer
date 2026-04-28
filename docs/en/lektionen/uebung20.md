@@ -51,6 +51,3 @@ Dissolve these compounds as Bahuvrīhi (possessive), Dvandva (coordinative), or 
 बाधनालक्षणं दुःखम् । तदत्यन्तविमोक्षो ऽपवर्गः ॥
 "Suffering is characterized by affliction. Liberation (*apavarga*) is the absolute release from it."
 
-## Quiz: Advanced Compounds
-
-<PayerQuiz :questions="quizQuestions" />

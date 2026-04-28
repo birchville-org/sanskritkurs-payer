@@ -62,6 +62,3 @@ Translate and dissolve the compounds:
 2. स्वधर्मो ब्राह्मणस्याध्ययनमध्यापनं यजनं याजनं दानं प्रतिग्रहश्च ॥
    The specific duty (*svadharma*) of a Brahmin is: Vedic study, teaching the Veda, sacrificing for oneself, sacrificing for others, giving [alms], and receiving [gifts].
 
-## Quiz: Intermediate Compounds
-
-<PayerQuiz :questions="quizQuestions" />

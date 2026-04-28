@@ -29,6 +29,3 @@ Translate the following passages and memorize the key terms.
 * **Mātsya-nyāya**: "Law of the Fish"; a state of anarchy where the strong eat the weak.
 * **Catur-varṇāśrama-lokaḥ**: The world structured by four castes and four life-stages.
 
-## Quiz: Governance & Philosophy
-
-<PayerQuiz :questions="quizQuestions" />

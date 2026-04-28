@@ -21,6 +21,3 @@ B) Translate into Sanskrit:
 
 C) Complete the declension of **nara** (all cases, Singular and Plural).
 
-## Quiz: Cases (Abl, Gen, Loc)
-
-<PayerQuiz :questions="quizQuestions" />

@@ -53,6 +53,3 @@ Dissolve and translate:
 3. **kṣemendra** (क्षेमस्य इन्द्रः): Lord of welfare / peace.
 4. **āhāranidrābhaya** (आहारः निद्रा भयं च): food, sleep, and fear (Dvandva compound).
 
-## Quiz: Prefixes & Grammar
-
-<PayerQuiz :questions="quizQuestions" />

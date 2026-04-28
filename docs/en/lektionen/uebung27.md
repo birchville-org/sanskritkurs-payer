@@ -34,6 +34,3 @@ Translate and analyze the compounds. Note the use of the **Locative Absolute** (
 6. गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति ॥१०॥
    While the teachers are instructing (*guruṣu upadiśatsu*), well-behaved children should not chatter.
 
-## Quiz: Locative & Absolute Constructions
-
-<PayerQuiz :questions="quizQuestions" />

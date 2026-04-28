@@ -21,6 +21,3 @@ B) Translate into Sanskrit:
 
 C) Decline **kanyā** (girl) in all cases (Singular, Dual, Plural).
 
-## Quiz: Feminine Ā-Stems
-
-<PayerQuiz :questions="quizQuestions" />

@@ -50,6 +50,3 @@ Translate and analyze. Note the relationship between the causative and the simpl
    For the sake of liberation from evil, the Buddha (*Sugata*) causes noble people to understand (*bodhayati*) the Noble Truths.
    *(Simple action: Noble people understand the Noble Truths.)*
 
-## Quiz: Causatives & Causative Logic
-
-<PayerQuiz :questions="quizQuestions" />

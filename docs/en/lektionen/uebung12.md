@@ -33,6 +33,3 @@ B) Provide the corresponding PPPs for the verb forms from [Lesson 10](lektion10.
 9. paśyati (to see) -> दृष्टः (dṛṣṭaḥ) - from root *dṛś*
 10. jayanti (to conquer) -> जिताः (jitāḥ)
 
-## Quiz: Past Participles (PPP)
-
-<PayerQuiz :questions="quizQuestions" />

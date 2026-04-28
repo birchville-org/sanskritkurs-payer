@@ -37,6 +37,3 @@ Examine and dissolve the following Tatpuruṣa compounds. Provide the meaning in
 15. **svargamārgaḥ** (स्वर्गस्य मार्गः): the way to heaven.
 16. **varṇadharmaḥ** (वर्णानां धर्मः): the law of the castes/ranks.
 
-## Quiz: Tatpuruṣa Compounds
-
-<PayerQuiz :questions="quizQuestions" />

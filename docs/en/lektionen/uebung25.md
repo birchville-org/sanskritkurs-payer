@@ -39,6 +39,3 @@ Translate and analyze the compounds:
 3. भवन्ति नरकाः पापात् / पापं दारिद्र्यसंभवम् । / दारिद्र्यमप्रदानेन ॥३॥
    "Hells arise from sin; sin arises from poverty; poverty arises from not giving [charity]."
 
-## Quiz: Ablative & Comparison
-
-<PayerQuiz :questions="quizQuestions" />

@@ -52,6 +52,3 @@ Translate and identify the root of the following verb forms:
 11. **stauti** (स्तु 2U): he praises
 12. **hanti** (हन् 2P): he kills / strikes
 
-## Quiz: Verb Conjugation & Meaning
-
-<PayerQuiz :questions="quizQuestions" />

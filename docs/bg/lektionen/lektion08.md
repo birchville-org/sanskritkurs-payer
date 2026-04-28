@@ -155,7 +155,7 @@ kṛt-суфиксът -tra образува (главно) неутрални �
   
  
 
-<table><caption>**Първичната мантра Oṃ (ॐ) в различни индийски писмености**</caption><tbody><tr><td><img src="/images/lekt0803.jpg"><br>Фигура: В Devanāgarī<br>देवनागरी</td><td><img src="/images/lekt0807.jpg"><br>Фигура: В бенгалска писменост<br>বাংলা লিপি</td></tr><tr><td><img src="/images/lekt0802.jpg"><br>Фигура: В каннада писменост<br>ಕನ್ನಡ</td><td><img src="/images/lekt0804.jpg"><br>Фигура: В тамилска писменост<br>தமிழ் அரிச்சுவடி</td></tr><tr><td><img src="/images/lekt0805.jpg"><br>Фигура: В малаялам писменост<br>മലയാളം</td><td><img src="/images/lekt0808.jpg"><br>Фигура: Джайнско Oṃ<br> </td></tr><tr><td colspan="2">[Източник на всички Oṃs: Уикипедия, Public domain]</td></tr></tbody></table>
+<table><caption>**Първичната мантра Oṃ (ॐ) в различни индийски писмености**</caption><tbody><tr><td><img src="/images/lekt0803.jpg"><br />Фигура: В Devanāgarī<br />देवनागरी</td><td><img src="/images/lekt0807.jpg"><br />Фигура: В бенгалска писменост<br />বাংলা লিপি</td></tr><tr><td><img src="/images/lekt0802.jpg"><br />Фигура: В каннада писменост<br />ಕನ್ನಡ</td><td><img src="/images/lekt0804.jpg"><br />Фигура: В тамилска писменост<br />தமிழ் அரிச்சுவடி</td></tr><tr><td><img src="/images/lekt0805.jpg"><br />Фигура: В малаялам писменост<br />മലയാളം</td><td><img src="/images/lekt0808.jpg"><br />Фигура: Джайнско Oṃ<br /> </td></tr><tr><td colspan="2">[Източник на всички Oṃs: Уикипедия, Public domain]</td></tr></tbody></table>
 
 ### 8.3.4. -ti f. (kṛt)
 

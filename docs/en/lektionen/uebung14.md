@@ -46,6 +46,3 @@ B) Translate:
 6. बलवन्तः क्षत्रियाः शत्रूणां धनवन्ति नगराणि जयन्ति ।
    The powerful Kṣatriyas conquer the wealthy cities of the enemies.
 
-## Quiz: Genitive & Proverbs
-
-<PayerQuiz :questions="quizQuestions" />

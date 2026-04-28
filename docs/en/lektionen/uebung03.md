@@ -22,6 +22,3 @@ C) Decline **nara** (man) and **phala** (fruit) as follows:
 *   Nominative Singular & Plural
 *   Accusative Singular & Plural
 
-## Quiz: A-Stems
-
-<PayerQuiz :questions="quizQuestions" />

@@ -48,6 +48,3 @@ Translate and analyze the compounds:
    * *Svāgatam bhavadbhyaḥ* (Welcome to you all!)
 4. **punardarśanāya** (Until we see each other again / Goodbye!)
 
-## Quiz: Dative & Purpose
-
-<PayerQuiz :questions="quizQuestions" />

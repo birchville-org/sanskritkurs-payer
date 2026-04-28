@@ -29,6 +29,3 @@ B) Translate:
 6. जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥६॥
    One who has conquered anger does not hate even a killing enemy; but one conquered by anger does hate.
 
-## Quiz: Complex Compounds & Participles
-
-<PayerQuiz :questions="quizQuestions" />

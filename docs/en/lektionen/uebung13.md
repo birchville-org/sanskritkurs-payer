@@ -43,6 +43,3 @@ B) Translate and convert into Passive Past (PPP) constructions:
    The virtuous son sacrifices to the gods.
    (Passive: पुण्यवता पुत्रेण देवा इष्टाः ।)
 
-## Quiz: Particles & Grammar
-
-<PayerQuiz :questions="quizQuestions" />

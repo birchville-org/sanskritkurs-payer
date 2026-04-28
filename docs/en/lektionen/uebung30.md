@@ -36,6 +36,3 @@ Translate and analyze the compounds. Note the use of the **Optative** for advice
 सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् । / प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥
 "One should speak the truth, one should speak what is pleasant; one should not speak a truth that is unpleasant. And one should not speak a pleasant untruth. This is the eternal law."
 
-## Quiz: Optative & Ethical Speech
-
-<PayerQuiz :questions="quizQuestions" />

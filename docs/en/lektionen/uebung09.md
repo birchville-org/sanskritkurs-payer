@@ -19,6 +19,3 @@ B) Write the following sentences without and with Sandhi:
 1. *Sā atra asti.* » *Sātrāsti.* (She is here.)
 2. *Nṛpaḥ uktvān.* » *Nṛpauktvān.* (The king spoke.)
 
-## Quiz: Vowel Sandhi
-
-<PayerQuiz :questions="quizQuestions" />

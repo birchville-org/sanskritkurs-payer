@@ -19,6 +19,3 @@ B) Translate into English:
 2. *Rāmeṇa vanaṃ gamyate.* = The forest is being traveled to by Rāma.
 3. *Taiḥ phalaṃ khādyate.* = The fruit is eaten by them.
 
-## Quiz: Passive (Karmaṇi)
-
-<PayerQuiz :questions="quizQuestions" />

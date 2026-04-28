@@ -24,6 +24,3 @@ C) Change from Present to Imperfect:
 *   *gacchanti* » *agacchan*
 *   *vadāmaḥ* » *avadāma*
 
-## Quiz: Imperfect (Laṅ)
-
-<PayerQuiz :questions="quizQuestions" />
