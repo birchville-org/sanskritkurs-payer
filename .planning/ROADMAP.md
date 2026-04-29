@@ -4,7 +4,7 @@
 
 - ✅ **v1.0 Initial MVP** — Phasen 1-4 (shipped 2026-04-14)
 - ✅ **v1.1 Interaktion & Flexibilität** — Phasen 5-9 (shipped 2026-04-19)
-- ✅ **v1.2 Search, Index & I18n Expansion** — Phasen 10-12 (shipped 2026-04-26)
+- [ ] **v1.2 Search, Index & I18n Expansion** — Phasen 10-12 (REPAIR REQUIRED)
 
 ## Phasen
 
@@ -60,6 +60,15 @@ Horizontale Erweiterung um Italienisch und Spanisch sowie Transparenz-Hinweise.
 - [x] 11-2: Index Page (ran, no SUMMARY.md)
 - [x] 11-3: UI Components (ran, no SUMMARY.md)
 - [x] 11-4: Integration (ran, no SUMMARY.md)
+
+### Phase 999.12: Historical Comparison Mode (Legacy vs Modern) (BACKLOG)
+
+**Goal:** Integrate a toggleable side-by-side view for comparing legacy HTML sources with modern Markdown lessons.
+**Requirements:** TBD
+**Plans:** 0 plans
+
+Plans:
+- [ ] TBD (promote with /gsd-review-backlog when ready)
 
 ## Progress
 
