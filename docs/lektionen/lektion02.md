@@ -113,41 +113,57 @@ Auslautendes _-s_:
 
 ## 2.5. Wortliste
 
-**deva** m. -- <span class="sanskrit-dev">देव</span> : Himmlischer, Gott; Fürst, König.
+**deva** m. -- <span class="sanskrit-dev">देव</span> : Himmlischer, Gott; Fürst, König (besonders in der Anrede).
 
-**īśvara** m. -- <span class="sanskrit-dev">ईश्वर</span> : Herr, Herrscher, Gott (monotheistisch).
+**īśvara** m. -- <span class="sanskrit-dev">ईश्वर</span> : Herr, Herrscher, oberste Gottheit, Gott (im monotheistischen Sinn).
 
-**brāhmaṇa** m. -- <span class="sanskrit-dev">ब्राह्मण</span> : Brahmane (geistlicher Stand).
+**brāhmaṇa** m. -- <span class="sanskrit-dev">ब्राह्मण</span> : Brahmane, Angehöriger des ersten Stands (_varṇa_ m.), des geistlichen Stands, Priesterstands und Lehrstands.
 
-**kṣatriya** m. -- <span class="sanskrit-dev">क्षत्रिय</span> : Kṣatriya (Fürsten- und Wehrstand).
+**kṣatriya** m. -- <span class="sanskrit-dev">क्षत्रिय</span> : Kṣatriya, Angehöriger des zweiten Stands (_varṇa_ m.), des Fürstenstands und Wehrstands.
 
-**vaiśya** m. -- <span class="sanskrit-dev">वैश्य</span> : Vaiśya (Nähr- und Händlerstand).
+**vaiśya** m. -- <span class="sanskrit-dev">वैश्य</span> : Vaiśya, Angehöriger des dritten Stands (_varṇa_ m.), des Nährstands und Händlerstands.
 
-**śūdra** m. -- <span class="sanskrit-dev">शूद्र</span> : Śūdra (Dienstleistungsstand).
+**śūdra** m. -- <span class="sanskrit-dev">शूद्र</span> : Śūdra, Angehöriger des vierten Stands (_varṇa_ m.), des Knechtstands und Dienstleistungsstands (Handwerker usw.).
 
-::: info Die vier Stände (varna)
-Nach der klassischen Theorie (Manusmṛti) sind die Aufgaben verteilt:
-- **Brahmanen**: Studium, Lehre, Opfer, Geben/Empfangen.
-- **Kṣatriyas**: Volksschutz, Gaben, Opfer, Studium.
-- **Vaiśyas**: Viehhaltung, Landwirtschaft, Handel, Studium.
-- **Śūdras**: Dienst an den drei oberen Klassen.
+::: info Die Aufgaben der vier Stände (varṇa)
+Nach der klassischen Theorie (z. B. Manusmṛti I, 88–91) ist die Aufgabe:
+- **der Brahmanen**: Vedastudium, Lehre, Opfer für sich, Opfer für andere, Geben und Empfangen von Gaben.
+- **der Kṣatriyas**: Das Volk schützen, Gaben (an Brahmanen) geben, für sich opfern, Vedastudium.
+- **der Vaiśyas**: Viehhaltung, Landwirtschaft, Handel, Geldverleih, für sich opfern, Gaben (an Brahmanen) geben, Vedastudium.
+- **der Śūdras**: Den drei oberen Klassen dienen.
 :::
 
-**dvija** m. -- <span class="sanskrit-dev">द्विज</span> : "Zweimalgeborener" (Initiierte der oberen drei Stände).
+**dvija** m. -- <span class="sanskrit-dev">द्विज</span> : "Zweimalgeborener". Angehöriger eines der drei ersten Stände. Die erste Geburt ist die natürliche, die zweite erfolgt durch die Initiation (_upanayana_).
+- *Interessant*: _dvija_ bedeutet auch "Vogel" oder ein anderes eigeborenes Lebewesen (1. Geburt: Ei, 2. Geburt: Schlüpfen).
 
 **varṇa** m. -- <span class="sanskrit-dev">वर्ण</span> : Farbe, Geburtsstand.
+
+::: tip Stände vs. Kasten
+Die vier Stände (_varṇa_) werden oft mit Kasten verwechselt. Sie sind jedoch kein spezifisch indisches Phänomen; auch Europa hatte eine gottgewollte Ständeordnung.
+:::
 
 <div align="center">
   <img src="/images/lekt0201.jpg" alt="Europäische Ständeordnung">
   <p>Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (15. Jh.)<br>[Bildquelle: Meyer, Werner: Hirsebrei und Hellebarde, 1986]</p>
 </div>
 
+**Beschriftung der Abbildung:**
+- **Priesterstand** (~_Brāhmaṇa_): *Tu supplex ora* = "Du bete flehend!"
+- **Adelsstand** (~_Kṣatriya_): *Tu protege* = "Du schütze!"
+- **Bauernstand** (~_Vaiśya_/_Śūdra_): *Tuque labora* = "Und Du arbeite!"
+
+Die Stände tragen ihre jeweilige Tracht; über ihnen thront Christus als Zeichen der gottgewollten Ordnung.
+
 ::: grammar-box
-**Exkurs: Max Weber über den "Stand"**
-»Stand« soll eine Vielheit von Menschen heißen, die innerhalb eines Verbandes wirksam eine ständische Sonderschätzung oder Sondermonopole in Anspruch nehmen. Stände können entstehen:
-1. primär durch Lebensführung/Beruf.
-2. sekundär durch Abstammung (Geburtsstände).
-3. durch Appropriation von Macht.
+**Max Weber über den Begriff "Stand"**
+»**Stand**« soll eine Vielheit von Menschen heißen, die innerhalb eines Verbandes wirksam
+a) eine ständische Sonderschätzung,
+b) ständische Sondermonopole in Anspruch nehmen.
+
+Stände können entstehen:
+1. **Primär**: durch eigene Lebensführung/Beruf (**Berufsstände**).
+2. **Sekundär**: erbcharismatisch durch ständische **Abstammung** (**Geburtsstände**).
+3. **Tertitär**: durch politische Appropriation von Herrschaftsgewalten.
 :::
 
 **kavi** m. -- <span class="sanskrit-dev">कवि</span> : Dichter.
