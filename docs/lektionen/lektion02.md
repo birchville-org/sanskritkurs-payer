@@ -89,10 +89,12 @@ Auslautendes _-s_:
 - **vor stimmlosen Lauten**:
   - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)**
     - _devas + śivaḥ_ » _devaḥ śivaḥ_ = <span class="sanskrit-dev">देवः शिवः</span> ("Śiva ist ein Gott")
-  - vor **c, ch**: wird zu **-ś**
-  - vor **ṭ, ṭh**: wird zu **-ṣ**
-  - vor **t, th**: bleibt **-s**
-    - _sādhus + caitanyas_ » _sādhuś caitanyaḥ_ = <span class="sanskrit-dev">साधुश्चैतन्यः</span> ("Caitanya ist ein Heiliger")
+    - _kavis + kālidāsas_ » _kaviḥ kālidāsaḥ_ = <span class="sanskrit-dev">कविः कालिदासः</span> ("Kālidāsa ist ein Dichter")
+  - vor **Verschlusslauten** (der Zischlaut entspricht der Klasse des Anlauts):
+    - vor **c, ch**: wird zu **-ś**
+      - _sādhus + caitanyas_ » _sādhuś caitanyaḥ_ = <span class="sanskrit-dev">साधुश्चैतन्यः</span> ("Caitanya ist ein Heiliger")
+    - vor **ṭ, ṭh**: wird zu **-ṣ**
+    - vor **t, th**: bleibt **-s**
 
 - **vor stimmhaften Lauten**:
   - nach Nicht-a-Vokalen: wird zu **-r**
