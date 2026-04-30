@@ -81,32 +81,33 @@ Der Auslaut eines Wortes richtet sich im Sanskrit auch nach dem Anlaut des darau
 
 Auslautendes _-s_:
 
-- **im absoluten Auslaut** (Satzende) wird es zu **Visarga (-ḥ)**:
-  - _devas_ = <span class="sanskrit-dev">देवस्</span> » _devaḥ_ = <span class="sanskrit-dev">देवः</span>
-  - _kavis_ = <span class="sanskrit-dev">कविस्</span> » _kaviḥ_ = <span class="sanskrit-dev">कविः</span>
-  - _gurus_ = <span class="sanskrit-dev">गुरुस्</span> » _guruḥ_ = <span class="sanskrit-dev">गुरुः</span>
+- **im absoluten Auslaut (Satzende, Versende)** wird ersetzt durch **Visarga (-ḥ)**:
+  - _devas_ » _devaḥ_ = <span class="sanskrit-dev">देवः</span>
+  - _kavis_ » _kaviḥ_ = <span class="sanskrit-dev">कविः</span>
+  - _gurus_ » _guruḥ_ = <span class="sanskrit-dev">गुरुः</span>
 
 - **vor stimmlosen Lauten**:
-  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)**
+  - **vor stimmlosen Gutturalen (k, kh)**: wird ersetzt durch **Visarga (-ḥ)**
+  - **vor stimmlosen Labialen (p, ph)**: wird ersetzt durch **Visarga (-ḥ)**
+  - **vor stimmlosen Zischlauten (ś, ṣ, s)**: wird ersetzt durch **Visarga (-ḥ)**
     - _devas + śivaḥ_ » _devaḥ śivaḥ_ = <span class="sanskrit-dev">देवः शिवः</span> ("Śiva ist ein Gott")
     - _kavis + kālidāsas_ » _kaviḥ kālidāsaḥ_ = <span class="sanskrit-dev">कविः कालिदासः</span> ("Kālidāsa ist ein Dichter")
-  - vor **Verschlusslauten** (der Zischlaut entspricht der Klasse des Anlauts):
-    - vor **c, ch**: wird zu **-ś**
-      - _sādhus + caitanyas_ » _sādhuś caitanyaḥ_ = <span class="sanskrit-dev">साधुश्चैतन्यः</span> ("Caitanya ist ein Heiliger")
-    - vor **ṭ, ṭh**: wird zu **-ṣ**
-    - vor **t, th**: bleibt **-s**
+  - **vor stimmlosen Palatalen (c, ch)**: wird ersetzt durch **-ś**
+  - **vor stimmlosen Retroflexen (ṭ, ṭh)**: wird ersetzt durch **-ṣ**
+  - **vor stimmlosen Dentalen (t, th)**: bleibt **-s** (d.h. in diesen Fällen steht der Zischlaut der Klasse des Anlauts)
+    - _sādhus + caitanyas_ » _sādhuś caitanyaḥ_ = <span class="sanskrit-dev">साधुश्चैतन्यः</span> ("Caitanya ist ein Heiliger")
 
 - **vor stimmhaften Lauten**:
-  - nach Nicht-a-Vokalen: wird zu **-r**
+  - **nach Nicht-a-Vokalen (außer vor r-)**: wird ersetzt durch **-r**
     - _kavis + Māghas_ » _kavir māghaḥ_ = <span class="sanskrit-dev">कविर्माघः</span> ("Māgha ist ein Dichter")
-  - nach Nicht-a-Vokalen vor **r-**: _-s_ fällt aus, der Vokal wird gedehnt.
+  - **nach Nicht-a-Vokalen vor r-**: **-s fällt aus**, ein dem -s vorhergehender kurzer Vokal wird durch den entsprechenden langen Vokal ersetzt, ein vorausgehender langer Vokal bleibt unverändert
     - _gurus + rāmas_ » _gurū rāmaḥ_ = <span class="sanskrit-dev">गुरू रामः</span> ("Rāma ist ein Lehrer")
-  - nach **a-**: _-as_
-    - vor stimmhaften Konsonanten/a: wird zu **-o** (anlautendes a fällt weg » <span class="sanskrit-dev">ऽ</span>)
-      - _devas viṣṇus_ » _devo viṣṇuḥ_ = <span class="sanskrit-dev">देवो विष्णुः</span>
-      - _devas agnis_ » _devo 'gniḥ_ = <span class="sanskrit-dev">देवो ऽग्निः</span>
-    - vor anderen Vokalen: wird zu **-a** (Hiatus)
-      - _devas + indras_ » _deva indraḥ_ = <span class="sanskrit-dev">देव इन्द्रः</span>
+  - **nach a-**: auslautendes **-as**
+    - **vor stimmhaften Konsonanten und vor a**: wird ersetzt durch **-o**, anlautendes **a-** fällt nach diesem **-o** weg
+      - _devas viṣṇus_ » _devo viṣṇuḥ_ = <span class="sanskrit-dev">देवो विष्णुः</span> ("Viṣṇu ist ein Gott")
+      - _devas agnis_ » _devo 'gniḥ_ = <span class="sanskrit-dev">देवो ऽग्निः</span> ("Agni ist ein Gott")
+    - **vor anderen Vokalen als -a**: **-as** wird ersetzt durch **-a** mit Hiatus
+      - _devas + indras_ » _deva indraḥ_ = <span class="sanskrit-dev">देव इन्द्रः</span> ("Indra ist ein Gott")
 
 ---
 
