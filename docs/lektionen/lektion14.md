@@ -204,8 +204,6 @@ Abb.: dīpāḥ = दीपाः (Bildquelle: [Details](/licenses#lekt1405))
 
 Übersetzen Sie folgende Sprichwörter und lernen Sie sie auswendig:
 
-::: center
-
 **निचो वदति न कुरुते**<br>**वदति न साधुः करोत्येव ॥१॥**
 
 **शीलं नरस्य भूषणम् ॥२॥**
@@ -215,8 +213,6 @@ Abb.: dīpāḥ = दीपाः (Bildquelle: [Details](/licenses#lekt1405))
 **पापा नराः स्वर्गं न लभन्ते ॥४॥**
 
 **सत्यं लोकस्य दीपः ॥५॥**
-
-:::
 
 ## 14.6. Übung
 
