@@ -1,200 +1,71 @@
----
-title: "Lektion 4"
-subtitle: "Einfache Ergänzungsfragen und Pronomina"
-lesson_id: 4
-category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
----
+> [!INFO] Zitierweise & Rechte
+> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 4
 
 ## Gesprochenes Sanskrit
 
-## 1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
+## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
 
-### 1.1. Frage- und Demonstrativpronomina
+### 4.1.1. Fragepronomina (praśnārthakasarvanāma n.) und Demonstrativpronomina (nidarśakasarvanāma n.) = प्रश्नार्थकसर्वनाम निदर्शकसर्वनामानि च
 
-**1.1.1. Fragepronomen (_praśnārthakasarvanāma_ = <span class="sanskrit-dev">प्रश्नार्थकसर्वनामन्</span>)**
+### 1.1.1.Fragepronomen (praśnārthakasarvanāma n. = प्रश्नार्थकसर्वनामन्)
 
-<table>
-  <thead>
-    <tr>
-      <th>Genus</th>
-      <th>Nominativ Singular</th>
-      <th>Nominativ Plural</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Neutrum</strong></td>
-      <td><strong>kim = <span class="sanskrit-dev">किम्</span></strong></td>
-      <td><strong>kāni = <span class="sanskrit-dev">कानि</span></strong></td>
-    </tr>
-    <tr>
-      <td><strong>Maskulinum</strong></td>
-      <td><strong>kas = <span class="sanskrit-dev">कस्</span></strong></td>
-      <td><strong>ke = <span class="sanskrit-dev">के</span></strong></td>
-    </tr>
-    <tr>
-      <td><strong>Femininum</strong></td>
-      <td><strong>kā = <span class="sanskrit-dev">का</span></strong></td>
-      <td><strong>kās = <span class="sanskrit-dev">कास्</span></strong></td>
-    </tr>
-  </tbody>
-</table>
+|   | Nominativ singular | Nominativ plural |
+| --- | --- | --- |
+| Neutrum | kim = किम् | kāni = कानि |
+| Maskulinum | kas = कस् | ke = के |
+| Feminimum | kā = का | kās = कास् |
 
-**1.1.2. Demonstrativpronomina (_nidarśakasarvanāmāni_ = <span class="sanskrit-dev">निदर्शकसervनामानि</span>)**
+### 4.1.1.2. Demonstrativponomina (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि)
 
-::: grammar-box
-<table>
-  <thead>
-    <tr>
-      <th>Genus</th>
-      <th>tad (Erwähntes)</th>
-      <th>etad (nahe)</th>
-      <th>idam (hier)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="4" align="center" bgcolor="#f1eee7"><strong>Nominativ Singular</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Neutrum</strong></td>
-      <td><strong>tad = <span class="sanskrit-dev">तद्</span></strong></td>
-      <td><strong>etad = <span class="sanskrit-dev">एतद्</span></strong></td>
-      <td><strong>idam = <span class="sanskrit-dev">इदम्</span></strong></td>
-    </tr>
-    <tr>
-      <td><strong>Maskulinum</strong></td>
-      <td><strong>sa / saḥ = <span class="sanskrit-dev">स / सः</span></strong></td>
-      <td><strong>eṣa / eṣaḥ = <span class="sanskrit-dev">एष / एषः</span></strong></td>
-      <td><strong>ayam = <span class="sanskrit-dev">अयम्</span></strong></td>
-    </tr>
-    <tr>
-      <td><strong>Femininum</strong></td>
-      <td><strong>sā = <span class="sanskrit-dev">सा</span></strong></td>
-      <td><strong>eṣā = <span class="sanskrit-dev">एषा</span></strong></td>
-      <td><strong>iyam = <span class="sanskrit-dev">इयम्</span></strong></td>
-    </tr>
-    <tr>
-      <td colspan="4" align="center" bgcolor="#f1eee7"><strong>Nominativ Plural</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Neutrum</strong></td>
-      <td><strong>tāni = <span class="sanskrit-dev">तानि</span></strong></td>
-      <td><strong>etāni = <span class="sanskrit-dev">एतानि</span></strong></td>
-      <td><strong>imāni = <span class="sanskrit-dev">इमानि</span></strong></td>
-    </tr>
-    <tr>
-      <td><strong>Maskulinum</strong></td>
-      <td><strong>te = <span class="sanskrit-dev">ते</span></strong></td>
-      <td><strong>ete = <span class="sanskrit-dev">एते</span></strong></td>
-      <td><strong>ime = <span class="sanskrit-dev">इमे</span></strong></td>
-    </tr>
-    <tr>
-      <td><strong>Femininum</strong></td>
-      <td><strong>tās = <span class="sanskrit-dev">तास्</span></strong></td>
-      <td><strong>etās = <span class="sanskrit-dev">एतास्</span></strong></td>
-      <td><strong>imās = <span class="sanskrit-dev">इमास्</span></strong></td>
-    </tr>
-  </tbody>
-</table>
-:::
+<table><tbody><tr><td colspan="4">**Stämme**</td></tr><tr><td> </td><td>**tad = तद् "er, sie, es; der, die, das" (Erwähnte)**</td><td>**etad = एतद् "dieser, diese, dieses" (dem Sprechenden sehr Nahe)**</td><td>**idam = इदम् "dieser, diese, dieses" (Nahe)**</td></tr><tr><td colspan="4">**Nominativ singular**</td></tr><tr><td>**Neutrum**</td><td>**tad = तद्**</td><td>**etad = एतद्**</td><td>**idam = इदम्**</td></tr><tr><td>**Maskulinum**</td><td>**sa, so saḥ = स सो सः**</td><td>**eṣa, eṣo, eṣaḥ = एष एषो एषः**</td><td>**ayam = अयम्**</td></tr><tr><td>**Femininum**</td><td>**sā = सा**</td><td>**eṣā = एषा**</td><td>**iyam = इयम्**</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="4">**Nominativ plural**</td></tr><tr><td>**Neutrum**</td><td>**tāni = तानि**</td><td>**etāni = एतानि**</td><td>**imāni = इमानि**</td></tr><tr><td>**Maskulinum**</td><td>**te = ते**</td><td>**ete = एते**</td><td>**ime = इमे**</td></tr><tr><td>**Femininum**</td><td>**tās = तास्**</td><td>**etās = एतास्**</td><td>**imās इमास्**</td></tr></tbody></table>
 
-**Zum Nom. sg. mask. (sa / eṣa):**
-- **sa, eṣa (<span class="sanskrit-dev">स, एष</span>)** steht vor allen Lauten außer kurzem **-a**.
-- **so, eṣo (<span class="sanskrit-dev">सो, एषो</span>)** steht vor **-a**, welches mit Avagraha (<span class="sanskrit-dev">ऽ</span>) elidiert.
-- **saḥ, eṣaḥ (<span class="sanskrit-dev">सः, एषः</span>)** steht nur am Satzende (Pausa).
+Zum Nom. sg. mask.:
 
----
+*   sa, eṣa (स एष) steht vor allen Lauten außer kurzem -a
+*   so, eṣo (सो एषो) steht vor -a, welches mit Avagraha elidiert (ausfällt)
+*   saḥ, eṣaḥ (सः एषः) steht nur in Pausa (Satzende, Versende)
 
-### 1.2. Sandhi von auslautendem -m
+Um mit diesen Pronomina (sarvanāman n.) Sätze bilden zu können, ist noch die Kenntnis folgender Sandhiregeln nötig:
 
-::: grammar-box
-Auslautendes **-m** wird vor Konsonanten durch Anusvāra (**-ṃ**) ersetzt. Am Satzende und vor Vokalen bleibt **-m** erhalten.
-:::
+### 4.1.2. Sandhi von auslautendem -m
 
-### 1.3. Sandhi von auslautendem -e
+Auslautendes -m wird vor Konsonanten durch Anusvāra (-ṃ) ersetzt. Am Satz- bzw. Versende und vor Vokalen bleibt -m erhalten.
 
-::: grammar-box
-1. Vor **a-** bleibt **-e** unverändert; das anlautende **a-** fällt weg (Avagraha).
-   _ete + agnayas_ » _ete 'gnayaḥ_ = <span class="sanskrit-dev">एते ऽग्नयः</span>
-2. Vor anderen Vokalen wird **-e** gewöhnlich zu **-a** mit Hiatus.
-   _ime + īśvarās_ » _ima īśvarāḥ_ = <span class="sanskrit-dev">इम ईश्वराः</span>
-:::
+### 4.1.3. Sandhi von auslautendem -e
 
-### 1.4. Sandhi von auslautendem -d
+1.  vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:  
+    z.B. ete + agnayas » ete 'gnayaḥ = एते ऽग्नयः "Diese Feuer"
+2.  Vor anderen Vokalen als kurzem a- wird -e gewöhnlich durch -a mit Hiatus ersetzt. Auch die Ersetzung durch -ay kommt vor  
+    z.B. ime + īśvarās » ima īśvarāḥ = इम ईश्वराः (selten: imay īśvarāh = इमयीश्वराः) "Diese HERREN"
 
-::: grammar-box
-Auslautendes **-d** wird am Satzende sowie vor stimmlosen Gutturalen (**k, kh**) und Labialen (**p, ph**) zu **-t**.
-:::
+### 4.1.4. Sandhi von aulautendem -d
 
----
+Auslautendes -d wird in Pausa sowie vor stimmlosen Gutturalen (k, kh) und Labialen (p, ph) durch -t ersetzt.
 
-### 1.5. Frageformeln
+Die Ersetzung vor anderen Konsonanten wird später besprochen. Vermeiden Sie vorläufig solche Lautzusammenstöße!
 
-::: grammar-box
-<table>
-  <thead>
-    <tr>
-      <th>Numerus</th>
-      <th>Genus</th>
-      <th>Fragebeispiele</th>
-      <th>Bedeutung</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="3"><strong>Singular</strong></td>
-      <td>Neutrum</td>
-      <td><em>tat kim? / kim etat?</em><br><span class="sanskrit-dev">तत्किम्, किमेतत्</span></td>
-      <td>"Was ist das?"</td>
-    </tr>
-    <tr>
-      <td>Maskulinum</td>
-      <td><em>sa kaḥ? / eṣa kaḥ? / ayam kaḥ?</em><br><span class="sanskrit-dev">स कः, एष कः, अयं कः</span></td>
-      <td>"Wer ist das?"</td>
-    </tr>
-    <tr>
-      <td>Femininum</td>
-      <td><em>sā kā? / eṣā kā? / iyaṃ kā?</em><br><span class="sanskrit-dev">सा का, एषा का, इयं का</span></td>
-      <td>"Wer/Was ist die?"</td>
-    </tr>
-    <tr>
-      <td rowspan="3"><strong>Plural</strong></td>
-      <td>Neutrum</td>
-      <td><em>tāni kāni? / kāny etāni?</em><br><span class="sanskrit-dev">तानि कानि, कान्येतानि</span></td>
-      <td>"Was sind das?"</td>
-    </tr>
-    <tr>
-      <td>Maskulinum</td>
-      <td><em>te ke? / ete ke? / ime ke?</em><br><span class="sanskrit-dev">ते के, एते के, इमे के</span></td>
-      <td>"Wer sind die?"</td>
-    </tr>
-    <tr>
-      <td>Femininum</td>
-      <td><em>tāḥ kāḥ? / etāḥ kāḥ?</em><br><span class="sanskrit-dev">ताः काः, एताः काः</span></td>
-      <td>"Wer sind die?"</td>
-    </tr>
-  </tbody>
-</table>
-:::
+Mittels dieser Pronomina bildet man z.B. folgende
 
-Beispiel:
-> **viṣṇuḥ kaḥ? = <span class="sanskrit-dev">विष्णुः कः</span>**  
-> Antwort: **viṣṇur īśvaraḥ = <span class="sanskrit-dev">विष्णुरीश्वरः</span>**.
+### 4.1.5. Frageformeln
 
----
+<table><tbody><tr><td rowspan="3">Singular</td><td>Neutrum</td><td>tat kim? /kiṃ tat?<br>तत्किम्, किं तत्etat kim? /kim etat?<br>एतत्किम्, किमेतत्<br>idaṃ kim? / kim idam<br>इदं किम्, किमिदम्</td><td>"Was ist das?"</td></tr><tr><td>Maskulinum</td><td>sa kaḥ? / kaḥ saḥ?<br>स कः, कः सःeṣa kaḥ? / ka eṣaḥ<br>एष कः, क एषः<br>ayaṃ kaḥ? / ko 'yam?<br>अयं कः, को ऽयम्</td><td>"Wer ist das?"<br>"Was ist der?</td></tr><tr><td>Femininum</td><td>sā kā? / kā sā?<br>सा का, का साeṣā kā? / kaiṣā? (= kā + eṣā)<br>एषा का, कैषा<br>iyaṃ kā? keyam? (= kā + iyam)<br>इयं का, केयम्</td><td>"Wer ist das?"<br>"Wer ist die?"</td></tr><tr><td rowspan="3">Plural</td><td>Neutrum</td><td>tāni kāni? / kāni tāni?<br>तानि कानि, कानि तानिetāni kāni? / kāny etāni?<br>एतानि कानि, कान्येतानि<br>imāni kāni? / kānīmāni? (= kāni + imāni)<br>इमानि कानि, कानीमानि</td><td> </td></tr><tr><td>Maskulinum</td><td>te ke? / ke te?<br>ते के, के तेete ke? ka ete?<br>एते के, क एते<br>ime ke? / ka ime?<br>इमे के, क इमे</td><td> </td></tr><tr><td>Femininum</td><td>tāḥ kāh? / kās tāḥ?<br>ताः काः, कास्ताःetāḥ kāḥ? / kā etāḥ?<br>एताः काः, का एताः<br>imāḥ kāḥ? / kā imāḥ?<br>ईमाः काः, का इमाः</td><td> </td></tr></tbody></table>
 
-## 2. Übung
+Ein Beispiel anderer Fragen:
 
-**A) Bilden Sie Fragen nach dem Schema _viṣṇuḥ kaḥ_ und beantworten Sie diese:**
-_śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa_
+> viṣṇuḥ kaḥ? = विष्णुः कः Antwort: viṣṇur īśvaraḥ = विष्णुरीश्वरः. (Hier kann man im Nominalsatz das Subjekt z.B.an den Anfang stellen, um den Anschluss an die Frage zu betonen.)
 
-**B) Bilden Sie Fragen nach dem Muster _etat kim_ zu den Abbildungen:**
+ANMERKUNG: Die Antworten, die Sie mit Ihren bisherigen Sanskritkenntnissen auf solche Fragen geben können, entsprechen selbstverständlich noch nicht in jeder Hinsicht idiomatisch gutem Sanskrit.
 
-<div align="center">
-  <img src="/images/lekt0401.jpg" alt="Leseübung">
-</div>
+## 4.2. Übung
+
+A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇuḥ kaḥ (विष्णुः कः) und beantworten Sie die Fragen auf Sanskrit:
+
+śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa
+
+\= श्रुति, शिव, ब्राह्मण, द्विज (बहुवचनम्), इन्द्राणी, धेनु, तुलाधर, कालिदास
+
+B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (एतत्किम्) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (एष बालः):
+
+![](/images/lekt0401.jpg)

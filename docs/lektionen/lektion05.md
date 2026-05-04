@@ -1,128 +1,203 @@
----
-title: "Lektion 5"
-subtitle: "Einführung in die Nominalkomposita (Samāsa)"
-lesson_id: 5
-category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
----
+> [!INFO] Zitierweise & Rechte
+> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 5
 
-::: info Zitierweise & Rechte
-Dieses Kapitel ist Teil des Sanskritkurses von Alois Payer. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
-:::
+## 5.1. Nominalkomposita = samāsa m. = समास
 
-## 5.1. Nominalkomposita = samāsa m. = <span class="sanskrit-dev">समास</span>
+Die Bildung von Wortzusammensetzungen in sehr großem Umfang ist ein Charakteristikum des Sanskrit.
 
-Die Bildung von Wortzusammensetzungen in sehr großem Umfang ist ein Charakteristikum des Sanskrit. Die wichtigsten Bildungsformen sind:
+Die wichtigsten Bildungsformen von Komposita sind:
 
-- **kopulative Komposita** = _dvandva_ n. -- <span class="sanskrit-dev">द्वन्द्व</span>
-- **determinative Komposita** = _tatpuruṣa_ m. -- <span class="sanskrit-dev">तत्पुरुष</span>
-- **Possessivkomposita** = _bahuvrīhi_ m. -- <span class="sanskrit-dev">बहुव्रीहि</span>
+*   kopulative Komposita = dvandva n. = द्वन्द्व
+*   determinative Komposita = tatpuruṣa m. = तत्पुरुष
+*   Possesivkomposita = bahuvrīhi m = बहुव्रीहि
 
----
+(Zu den beiden letztgenannten siehe später!)
 
 ## 5.2. Zur Sanskrit-Terminologie für Komposita
 
-- _ghaṭakapadāni_ n. pl. = <span class="sanskrit-dev">घटकपदानि</span> : Glieder eines Kompositums.
-- _vigrahavākyam_ n. = <span class="sanskrit-dev">विग्रहवाक्यम्</span> : Auflösung eines Kompositums.
-- _nityasamāsaḥ_ m. = <span class="sanskrit-dev">नित्यसमासः</span> : Kompositum, für das es kein _vigrahavākya_ gibt.
-- _aluksamāsaḥ_ m. = <span class="sanskrit-dev">अलुक्समासः</span> : Kompositum, in dem das Vorderglied eine Kasusendung behält.
-- _luksamāsaḥ_ m. = <span class="sanskrit-dev">लुक्समासः</span> : Kompositum ohne Kasusendungen im Vorderglied (Normalfall).
-- _madhyamapadalopī_ m. = <span class="sanskrit-dev">मध्यमपदलोपी</span> : Kompositum, in dem mittlere Glieder ausgelassen werden.
+ghaṭakapadāni n. pl.= घटकपदानि = Glieder eines Kompositums
 
----
+vigrahavākyam n. = विग्रहवाक्यम् = Auflösung eines Kompsositums
 
-## 5.3. Kopulative Komposita = Dvandva n. ("Paar")
+nityasamāsaḥ m. = नित्यसमासः 0 Kompositum, für das es kein vigrahavākya gibt oder dessen vigrahavākya nicht möglich ist mit den Wörtern des Kompositums.
 
-Die kopulativen Komposita verknüpfen gleichartige, koordinierte Glieder (Substantive oder Adjektive).
+aluksamāsaḥ m. = अलुक्समासः  = Kompositum, in dem das Vorderglied eine Kasusendung behält
 
-::: grammar-box
-Ein Dvandva bezeichnet:
-1. **Itaretaradvandva** (<span class="sanskrit-dev">इतरेतरद्वन्द्व</span>): summative Verbindung der Glieder. Erhält Geschlecht des letzten Gliedes und meist Dual/Plural.
-2. **Samāhāradvandva** (<span class="sanskrit-dev">समाहारद्वन्द्व</span>): fasst die Glieder zu einer Einheit zusammen. Im Allgemeinen Neutrum Singular.
+luksamāsaḥ m. = लुक्समासः = Kompositum, dessen Vorderglieder ohne Kasusendungen sind (der Normlfall)
 
-Die Auflösung erfolgt mit "und" (_ca_ = <span class="sanskrit-dev">च</span>), gelegentlich mit "oder" (_vā_ = <span class="sanskrit-dev">वा</span>).
-:::
+madhyamapadalopī m. =  मध्यमपदलोपी = Kompositum, in dem ein oder mehrere mittlere Glieder ausgelassen werden
 
-**5.3.1. Vorderglieder von Komposita**
-Vorderglieder haben in der Regel die Form des unveränderten **Nominalstamms**. Die Verbindung erfolgt nach den Regeln des **Satzsandhi**.
+## 5.3. Kopulative Komposita = Dvandva n. ("Paar") = द्वन्द्व
 
-**5.3.2. Plural-Itaretaradvandva**
-Beispiele:
-- _brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ_ = <span class="sanskrit-dev">ब्राह्मणक्षत्रियवैश्यशूद्राः</span>
-  (= "Brahmanen, Kṣatriyas, Vaiśyas und Śūdras")
-- _kavi-guravaḥ_ = <span class="sanskrit-dev">कविगुरवः</span>
-  (= "Dichter und Lehrer")
+Die kopulativen Komposita dienen zur Verknüpfung von grammatisch gleichartigen, koordinierten Gliedern (Substantiven oder Adjektiven).
 
-::: tip Reihenfolge der Glieder
-- Höchster Stand (_varṇa_) zuerst.
-- Älterer Bruder vor jüngerem.
-- Wichtigeres Wort zuerst.
-- Wörter auf _-i_ oder _-u_ gehen voraus.
-- Kürzere Wörter (weniger Silben) gehen voraus.
-:::
+| Ein Dvandva bezeichnet:
+1.  entweder die summative Verbindung der durch seine einzelnen Glieder bezeichneten Personen, Dinge, Eigenschaften: Itaretaradvandva = इतरेतरद्वन्द्व
+2.  oder: es fasst diese Personen, Dinge oder Eigenschaften zu einer Einheit zusammen: samāhāradvandva ("Zusammenfassungsdvandva") = समाहारद्वन्द्व
 
----
+Im ersten Fall (Itaretaradvandva) erhält das Dvandva das grammatische Geschlecht seines letzten Gliedes und die Endungen des Dual, wenn  es sich um zwei Dinge usw. handlet, bzw. des Plurals, wenn es sich um mehr als zwei Dinge usw. handelt. Auch Singularendungen sind zulässig.
+
+Im zweiten Fall (Samāhāradvandva) ist das Dvandva im Allgemeinen ein Neutrum, unabhängig vom Geschlecht seines letzten Gliedes, und steht im Singular.
+
+ |
+| --- |
+| Die Auflösung eines Dvandva erfolgt mit "und" (ca = च), gelegentlich mit "oder" (vā = वा) oder "je". |
+
+Zu den Dualdvandva siehe später!
+
+### 5.3.1. Vorderglieder von Komposita
+
+Die Vorderglieder von Komposita (nicht nur Dvandvas) haben in der Regel die Form des unveränderten Nominalstamms. Die einzelnen Glieder von Komposita werden nach den Regeln des Satzsandhi verbunden (d.h. des Sandhi, den wir bisher kennengelernt haben, im Gegensatz zum Wortsandhi, der innerhalb des Wortes vor formativen Elementen Anwendung findet.
+
+### 5.3.2. Plural-Itaretaradvandva
+
+Beispiele für Pluraldvandva:
+
+brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ = ब्राह्मणक्षत्रियवैश्यशूद्राः
+
+> \= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च = "Brahmanen, Kṣatriyas, Vaiśyas und Śūdras"
+> 
+> oder = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ब्राह्मणः क्षत्रियो वश्यः शूद्रश्च = "(ein/der) Brahmane, Kṣatriya, Vaiśya und Śūdra"
+
+kavi-guravaḥ = कविगुरवः 
+
+> \= kavayo guravaś ca = कवयो गुरवश्च "Dichter und Lehrer" (Plur.) ("Ein Dichter und ein Lehrer" müsste im Dual stehen!)
+
+Für die Reihenfolge der Glieder in einem Dvandva gelten u.a. folgende Regeln:
+
+*   die Bezeichnung der verschiedenen Stände (varṇa) soll gemäß der Reihenfolge der Stände mit der höchsten anfangend geordnet werden
+*   der Name des älteren Bruders soll dem Namen des jüngeren Bruders vorangestellt werden
+*   im Allgemeinen soll das wichtigere Wort an den Anfang gestellt werden
+*   Wörter, die auf -i oder -u enden, sollen vorausgehen
+*   Wörter, die auf -a enden und mit einem Vokal anfangen, sollen vorausgehen
+*   Wörter, die weniger Silben enthalten, sollen vorausgehen
+
+Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen können, soll immer die später gegebene Regel befolgt werden.
+
+(Beispiele von Dualdvandva zu diesen Regeln bei Kielhorn, Grammatik § 570).
 
 ## 5.4. Wortliste
 
-**abhiniveśa** m. -- <span class="sanskrit-dev">अभिनiveष</span> : Neigung zu, Hartnäckigkeit; Anhänglichkeit an den Leib.
+Lernen Sie folgende Wörter:
 
-**kāma** m. -- <span class="sanskrit-dev">काम</span> : Wunsch, Begehren, Liebe; Liebesgott Kāma.
+abhiniveṣa m. = अभिनिवेष : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes
 
-<div align="center">
-  <img src="/images/lekt0501.jpg" alt="Gott Kāma">
-  <p>Abb.: Gott Kāma = _kāmadeva_ = <span class="sanskrit-dev">कामदेव</span>. [Bildquelle: Wikipedia, Public domain]</p>
-</div>
+kāma m. = काम : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma
 
-**krodha** m. -- <span class="sanskrit-dev">क्रोध</span> : Zorn.
+![](/images/lekt0501.jpg)  
+Abb.: Gott Kāma = kāmadeva = कामदेव, 18. Jhdt.  
+\[Bildquelle: Wikipedia, Public domain\]
 
-**kleśa** m. -- <span class="sanskrit-dev">क्लेश</span> : Qual, Plage.
+krodha m. = क्रोध : Zorn
 
-**trayī** f. -- <span class="sanskrit-dev">त्रयी</span> : Dreizahl (insbes. die drei Veden: Ṛg, Sāma, Yajur).
+kleśa m. = क्लेश : Qual, Plage
 
-**daṇḍanīti** f. -- <span class="sanskrit-dev">दण्डनीति</span> : Politik (_daṇḍa_ "Macht" + _nīti_ "Führung").
+trayī f. = त्रयी : Dreizahl; insbes. die drei Veden (Ṛgveda, Sāmaveda, Yajurveda)
 
-**maitrī** f. -- <span class="sanskrit-dev">मैत्री</span> : Freundschaft, Wohlwollen.
+daṇḍanīti f. = दण्डनीति : Politik (ein Tatpuruṣa aus daṇḍa m. = = "Stock, Macht, Herrschaft, Strafe" und nīti f. "(rechte) Führung")
 
-**lobha** m. -- <span class="sanskrit-dev">लोभ</span> : Gier, Habsucht.
+dvijāti 3 = द्विजाति = dvija 3 = द्विज
 
-**ca** = <span class="sanskrit-dev">च</span> : und (nachgestellt).
+dveṣa m. = द्वेष : Hass
 
----
+maitrī f. = मैत्री : Freundschaft, Freundlichkeit, freundliches Wohlwollen
+
+rāga m. = राग : (rote) Farbe, Leidenschaft, Liebe
+
+lobha m. = लोभ : Gier, Habsucht
+
+varṇa m. = वर्ण : Farbe, Gattung, Stand
+
+vārttā f. = वार्त्ता : Erwerb, Ökonomie (Wirtschaft)
+
+vidyā f. = विद्या : Wissen, Wissenschaft
+
+dazu: avidyā f. = अविद्या : Unwissenheit, Nichtwissen
+
+ca \= च : und (wird dem Wort, welches es anknüpft, nachgestellt; werden mehrere Wörter durch ca angeknüpft, steht es hinter dem ersten Wort dieses Wortkomplexes; werden mehrere Wörter verknüpft., kann ca hinter jedem einzelnen stehen, besser aber nur hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च)
+
+ca ... ca = च ... च : sowohl als auch
 
 ## 5.5. Übung
 
-**A) Übersetzen Sie und lösen Sie die Dvandvas auf:**
+A) Übersetzen Sie folgende Sätze und Komposita und lösen Sie die darin vorkommenden Dvandvas in Sanskrit auf:
 
-1. <span class="sanskrit-dev">चत्वारो वर्णा ब्राह्मणक्षत्रियवैश्यशूद्राः ||</span>  
-   (_catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ._)  
-   "Vier Stände sind: Brahmanen, Kṣatriyas, Vaiśyas und Śūdras."
+1\. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ. (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
 
-2. <span class="sanskrit-dev">त्रयो वर्णा द्विजातयो ब्राह्मणक्षत्रियवैश्याः ||</span>  
-   (_trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ._)
+चत्वारो वर्णा ब्राह्मणक्षत्रियवैश्यशूद्राः ||
 
-3. <span class="sanskrit-dev">सामवेदर्ग्वेदयजुर्वेदास्त्रयी ||</span>  
-   (_sāmavedargvedayajurvedās trayī._)
+Erklärung catvāras = चत्वारस् = "vier"
 
-4. <span class="sanskrit-dev">कामक्रोधलोभाः ||</span> (Die drei Feinde des Menschen: Wunsch, Zorn, Gier)
+2\. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ. (Vāsiṣṭhadharmaśāstra II,1)
 
-5. <span class="sanskrit-dev">मैत्रीकरुणामुदितोपेक्षाश्चत्वारो ब्रह्मविहाराः ||</span>  
-   ::: info brahmavihāra
-   "Verweilungszustände Brahmas": Freundlichkeit, Mitgefühl, Mitfreude, Gleichmut.
-   :::
+त्रयो वर्णा द्विजातयो ब्राह्मणक्षत्रियवैश्याः ||
 
-6. <span class="sanskrit-dev">अविद्यास्मितारागद्वेषाभिनिवेषाः पञ्च क्लेशाः ||</span>  
-   (_pañca kleśāḥ_ = die fünf Plagen/Qualen).
+Erklärung: trayas = त्रयस् =  "drei"
+
+3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (in gutem Sanskrit: sāmārgyajurvedās trayī)
+
+सामवेदर्ग्वेदयजुर्वेदास्त्रयी ||
+
+(in gutem Sanskrit: सामार्यजुर्वेदास्त्रयी)
+
+4\. Die drei Feinde des Menschen, die das Tor zur Hölle bilden (Viṣṇusmṛti 33,1+6): kāmakrodhalobhāḥ
+
+कामक्रोधलोभाः ||
+
+5\. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
+
+मैत्रीकरुणामुदितोपेक्षाश्चत्वारो ब्रह्मविहाराः ||
+
+Erklärung: brahmavihāra: "Verweilungszustände Brahmas", auch "Unermessliche" genannt: unbegrenzte Haltungen. Sie stellen buddhistische Meditationsformen dar, mit denen der Meditierende allmählich, schrittweise die ganze Wirklichkeit "durchstrahlt". Auch im Yoga (Yogasūtra 1,33) spielen diese vier eine Rolle beim Zurruhekommen des Bewusstseins.
+
+6\. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ. (Yogasūtra 2,3)
+
+अविद्यास्मितारागद्वेषाभिनिवेषाः पञ्च क्लेशाः ||
+
+Erklärung: pañca = "fünf"
+
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Nach Kauṭilīya-arthaśāstra 1.2.1.)
+
+आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः ||
 
 ## Wiederholungsübung
 
-**A) Übersetzen Sie:**
-1. <span class="sanskrit-dev">विद्या वार्त्ता |</span> (_vidyā vārttā._)
-2. <span class="sanskrit-dev">ब्राह्मणः क्षत्रियो वैश्यश्च त्रयो वर्णा द्विजातयः |</span>
+A) Übersetzen Sie:
 
-**B) Setzen Sie die entsprechende Form ein:**
-- _(dvija, sādhu, kavi) ... rāmaḥ_
-- _(devī) ... indrāṇī_
+1\. vidyā vārttā.
+
+विद्या वार्त्ता |
+
+2\. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
+
+ब्राह्मणः क्षत्रियो वैश्यअश्च त्रयो वर्णा द्विजातयः |
+
+3\. dvijā vaiśyāḥ. (2 Möglichkeiten)
+
+द्विजा वैश्याः |
+
+B) Setzen Sie die entsprechende Form ein:
+
+(dvija, sādhu, kavi) ... rāmaḥ
+
+(द्विज, साधु, कवि) ... रामः |
+
+(devī) ... indrāṇī
+
+(देवी) ... इन्द्राणी |
+
+dvijātayas ... (vaiśyā, kṣatriya)
+
+द्विजातयस् ... (वैश्या, क्षत्रिय) |
+
+C) Lösen Sie das Kompositum in folgendem Satz in Sanskrit auf und bilden Sie mit dieser aufgelösten Form denselben Satz:
+
+sāmargyajurvedās trayī.
+
+सामर्ग्यजुर्वेदास्त्रयी |
+
+D) Übersetzen Sie auf zwei Weisen ins Sanskrit (einmअl  mit einem Kompositum, einmal ohne):
+
+"Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut.

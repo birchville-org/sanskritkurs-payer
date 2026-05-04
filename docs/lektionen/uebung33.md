@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satz „yogayukto matiṃ ... prajñāyāṃ samādhatte“?',
+    options: ['Wer dem Yoga verbunden ist, konzentriert seinen Geist auf die zur Erlösung führende Weisheit', 'Der Yogi isst zusammen mit seinen Schülern', 'Wer Yoga übt, wird reich', 'Der Geist ist die Wurzel des Leidens'],
+    answer: 0,
+    explanation: 'samādhatte (von sam-ā-dhā, 3U) bedeutet „konzentriert sich auf / richtet seine Aufmerksamkeit auf“.'
+  },
+  {
+    question: 'Wie lautet die 3. Person Plural Indikativ Präsens Parasmaipada von „bhī“ (sich fürchten)?',
+    options: ['bibheti', 'bibhyati', 'bhayanti', 'bhayante'],
+    answer: 1,
+    explanation: 'bhī bildet den schwachen Stamm bibhy- + ati = bibhyati.'
+  },
+  {
+    question: 'Was bedeutet die Phrase „putram ādaya“?',
+    options: ['Den Sohn schlagend', 'In Begleitung des Sohnes / Den Sohn mitnehmend', 'Dem Sohn gebend', 'Den Sohn messend'],
+    answer: 1,
+    explanation: 'ādaya ist der Absolutiv von ā-dā (nehmen). Mit Akkusativ bedeutet es „begleitet von / mit“.'
+  }
+]
+</script>
+
 # Übung Lektion 33
 
 A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in der Klammer ein:

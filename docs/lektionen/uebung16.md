@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie wird das Kompositum aus "guṇavat" (tugendhaft) und "brāhmaṇī" (Brahminenfrau) nach den Sandhi-Regeln korrekt gebildet?',
+    options: ['guṇavatbrāhmaṇī', 'guṇavadbrāhmaṇī', 'guṇavanbrāhmaṇī', 'guṇavabrāhmaṇī'],
+    answer: 1,
+    explanation: 'Vor stimmhaften Konsonanten (b-) wird das auslautende -t im Kompositum zum stimmhaften -d.'
+  },
+  {
+    question: 'Was passiert, wenn ein Wort auf einen dentalen Verschlusslaut (-t, -d) endet und das nächste Wort mit einem Palatal (c-, ch-, j-, jh-) beginnt?',
+    options: ['Nichts, es bleibt wie es ist', 'Der Dental wird zum entsprechenden Palatal (z.B. -t + j- -> -jj-)', 'Es wird ein Anusvara eingeschoben', 'Der Palatal wird zum Dental'],
+    answer: 1,
+    explanation: 'Dentale assimilieren sich vollständig an folgende Palatale (z.B. -t + j -> -jj-).'
+  },
+  {
+    question: 'Was ist die korrekte Sandhi-Verbindung für "satyavat" + "caitanya"?',
+    options: ['satyavatcaitanya', 'satyavadcaitanya', 'satyavaccaitanya', 'satyavaṃcaitanya'],
+    answer: 2,
+    explanation: 'Vor dem Palatal c- wird das auslautende -t zu -cc- assimiliert.'
+  }
+]
+</script>
+
 # Übung Lektion 16
 
 A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie:

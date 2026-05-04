@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satzteil „vāsitásuvastrāṃ narā lubhyanti“ (aus Übung B.3)?',
+    options: ['Männer begehren eine Frau, die schöne Kleider trägt', 'Männer hassen schöne Kleider', 'Die Stadt ist voll von Menschen', 'Rāma trägt ein neues Gewand'],
+    answer: 0,
+    explanation: 'vāsitá-su-vastrāṃ (Akk. fem.) = „eine, die schöne Kleider trägt“; lubhyanti = „begehren“.'
+  },
+  {
+    question: 'Wie lautet der Lokativ Singular von „kaví“ (Dichter)?',
+    options: ['kavyāḥ', 'kavau', 'kavyām', 'kavaye'],
+    answer: 1,
+    explanation: 'Maskuline i-Stämme bilden den Lokativ Singular auf -au.'
+  },
+  {
+    question: 'Was bedeutet die Form „matyām“ (मत्याम्) bei femininen i-Stämmen (z.B. mati)?',
+    options: ['Lokativ Singular', 'Akkusativ Plural', 'Dativ Singular', 'Instrumental Singular'],
+    answer: 0,
+    explanation: 'Feminine i-Stämme können den Lokativ Singular entweder auf -au oder auf -ām bilden (Lektion 27.2.3).'
+  }
+]
+</script>
+
 # Übung Lektion 27
 
 A) Setzen Sie im folgenden Satz die Ausdrücke in der Klammer im Lokativ (सप्तमी) Singular und - wo es sinnvoll ist - Plural ein. Beachten Sie den verschiedenen Sandhi, d.h. schreiben Sie jedsesmal den vollen Satz aus!

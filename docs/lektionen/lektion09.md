@@ -1,119 +1,230 @@
----
-title: "Lektion 9"
-subtitle: "Samāhāradvandva und Berufsbezeichnungen"
-lesson_id: 9
-category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
----
+> [!INFO] Zitierweise & Rechte
+> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 9
 
-::: info Zitierweise & Rechte
-Dieses Kapitel ist Teil des Sanskritkurses von Alois Payer. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
-:::
 
-## 9.1. Samāhāradvandva = <span class="sanskrit-dev">समाहारद्वन्द्व</span>
 
-::: grammar-box
-Wenn ein Dvandva ausdrücken soll, dass eine Reihe von Dingen eine Einheit bilden (**Sammelkompositum**), steht es im Allgemeinen im **Singular Neutrum**.
+## 9.1. Samāhāradvandva = सआहारद्वन्द्व ("Zusammenfassungsdvandva")
 
-Beispiel:
-**āhāra-nidrā-maithuna-bhayam** = <span class="sanskrit-dev">आहारनिद्रामैथुनभयम्</span>  
-Hier werden Nahrung (_āhāra_), Schlaf (_nidrā_), Paarung (_maithuna_) und Angst (_bhaya_) als die vier Grundbedürfnisse zusammengefasst, die das tierische Leben charakterisieren.
-:::
+Wenn ein Dvandva ausdrücken soll, dass eine Reihe von Dingen usw. eine Einheit bilden, dann steht es im Allgemeinen im Singular neutrum:
 
----
+z.B.
+
+āhāra-nidrā-maithuna-bhayam = आहारनिद्रामैथुनभयम् bedeutet nicht einfech "Nahrungsaufnahme (āhāra m.), Schlaf (nidrā f.), Paarung (maithuna n.) und Angst (bhaya n.)", sondern diese vier als Einheit, die das tierische Leben charakterisiert.
+
+Neben dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Reihe weiterer Regeln, die man bei Pāṇini 2,4,2-17 oder z.B. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a findet. In den verschiedenen Stufen der Sprachentwicklung wurden nicht immer die gleichen Regeln eingehalten!
 
 ## 9.2. Zur Bildung von Nominalstämmen
 
 ### 9.2.1. -ka (taddhita)
-::: grammar-box
-Das taddhita-Suffix **-ka** bildet:
-1. **Diminutiva**: _putra_ "Sohn" » **putraka** (<span class="sanskrit-dev">पुत्रक</span>) "Söhnchen".
-2. **Ähnlichkeit**: _aśva_ "Pferd" » **aśvaka** (<span class="sanskrit-dev">अश्वक</span>) "Rösslein".
-3. **Beziehung**: _kāśi_ "Benares" » **kāśika** (<span class="sanskrit-dev">काशिक</span>) "aus Benares".
-:::
 
-### 9.2.2. -aka (kṛt), fem. -ikā
-::: grammar-box
-Das kṛt-Suffix **-aka** (fem. meist **-ikā**) bildet **Nomina agentis** (Täterbezeichnungen). Vokale werden meist durch ihre Dehnstufe (_vṛddhi_) ersetzt.
-:::
+Das taddhita-Suffix -ka bildet u.a.
 
-<table>
-  <thead>
-    <tr>
-      <th>Wurzel</th>
-      <th>Nominalstamm (-aka/-ikā)</th>
-      <th>Bedeutung</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>kṛ</strong> (tun)</td>
-      <td><strong>kāraka</strong> (<span class="sanskrit-dev">कारक</span>)</td>
-      <td>Bewirker, Täter</td>
-    </tr>
-    <tr>
-      <td><strong>śru</strong> (hören)</td>
-      <td><strong>śrāvaka</strong> (<span class="sanskrit-dev">श्रावक</span>)</td>
-      <td>Hörer, Schüler</td>
-    </tr>
-    <tr>
-      <td><strong>nī</strong> (führen)</td>
-      <td><strong>nāyaka / nāyikā</strong> (<span class="sanskrit-dev">नायक / नायिका</span>)</td>
-      <td>Führer / Dame</td>
-    </tr>
-    <tr>
-      <td><strong>nṛt</strong> (tanzen)</td>
-      <td><strong>nartaka / nartakī</strong> (<span class="sanskrit-dev">नर्तक / नर्तकी</span>)</td>
-      <td>Tänzer / Tänzerin</td>
-    </tr>
-    <tr>
-      <td><strong>kṛṣ</strong> (pflügen)</td>
-      <td><strong>kṛṣaka</strong> (<span class="sanskrit-dev">कृषक</span>)</td>
-      <td>Ackerbauer</td>
-    </tr>
-  </tbody>
-</table>
+1.  Diminutiva (Verkleinerungsformen wie deutsch -chen, -lein, -li, -le):  
+    putra m. "Sohn" » putraka m. = पुत्रक "Söhnchen" 
+2.  Nomina, die eine annähernde Ähnlichkeit bezeichnen:  
+    aśva m. "Pferd" » aśvaka m. = अश्वक "Rösslein, ein dem Pferd ähnliches Ding" 
+3.  Nomina ohne Bedeutungsunterschied zum zugrundeliegenden Nomen:  
+    putraka m. पुत्रक = putra m. पुत्र् 
+4.  Nomina, die ausdrücken "zum Begriff des Grundwortes in Beziehung stehend":  
+    kāśi f. "Benares" » kāśika 3 = काशिक "in Benares gebürtig, aus Benares stammend"  
+    rūpa n. "Gestalt" » rūpaka 3 = रूपक "die Gestalt von etwas besitzend"
 
----
+### 9.2.2. -aka (kṛt), fem. oft -ikā
+
+Das kṛt-Suffix -aka, femininum oft -ikā, bildet Nomina agentis (Nomina, die den Täter ausdrücken) zu jeder Wurzel.
+
+Ein auslautender Vokal der Worzel sowie -a- an vorletzter Stelle der Wurzel werden durch ihre Dehnstufe (vṛddhi) ersetzt (es gibt einige Ausnahmen), die übrigen Vokale werden durch ihre Dehnstufe (guṇa) ersetzt.
+
+Beispiele:
+
+| Wurzel | \+ -aka /ikā (kṛt) |
+| --- | --- |
+| kṛ 8 U "machen"  
+कृ | kār-aka "machend, Bewirker"  
+कारक |
+| śru 5 P "hören"  
+श्रु | (śrau-aka ») śrāv-aka m "Hörer, Schüler, buddh.: Anhänger des Buddha"  
+श्रावक |
+| nī 1 U "führen"  
+नी | (nai-aka ») nāy-aka m. "Führer, Gebieter, Gatte, Liebhaber"  
+नायक
+(nai-ikā ») nāy-ikā f. "Geliebte, Dame"  
+नायिका
+
+ |
+| yaj 1 U "opfern"  
+यज् | yājaka m. "Opferer, Opferpriester"  
+याजक |
+| nṛt 4 P "tanzen"  
+नृत् | nart-aka m. Tänzer  
+नर्तक
+
+nart-akī f. Tänzerin  
+नर्तकी
+
+ |
+| ji 1 P "siegen"  
+जि | jayaka 3 "siegreich"  
+जयक |
+
+Einige dieser Bildungen haben die engere Bedeutung: "das durch die Wurzel ausgedrückte gewohnheitsmäßig oder als Obliegenheit oder gut vollziehend"
+
+siehe oben z.B. śrāvaka, yājaka, jayaka
+
+Beispiele:
+
+| Wurzel | \+ -aka /ikā (kṛt) |
+| --- | --- |
+| kṛṣ 6 U "pflügen"  
+कृष् | kṛṣ-aka m. (tiefstufig!) "Ackerbauer"  
+कृषक |
+| kliś 9 P "quälen"  
+क्लिश् | kleś-aka m. "Quäler"  
+क्लेशक |
+| khād 1 P "kauen, essen"  
+खाद् | khād-aka m. "Esser, Fresser"  
+खादक |
+
+Daneben gibt es noch einige weniger wichtigere Verwendungen des Suffixes -aka. Vgl. Wackernagel, Altindische Grammatik, II, §45ff.
 
 ## 9.3. Wortliste
 
-- **adhyayana** n. -- <span class="sanskrit-dev">अध्ययन</span> : Vedastudium.
-- **kāru** m. -- <span class="sanskrit-dev">कारु</span> : Handwerker.
-- **kṛṣi** f. -- <span class="sanskrit-dev">कृषि</span> : Ackerbau.
-- **dāna** n. -- <span class="sanskrit-dev">दान</span> : Geben, Gabe.
-- **pratigraha** m. -- <span class="sanskrit-dev">प्रतिग्रह</span> : Empfangen von Geschenken.
-- **vāṇijya** n. -- <span class="sanskrit-dev">वाणिज्य</span> : Handel.
-- **śuśrūṣā** f. -- <span class="sanskrit-dev">शुश्रूषा</span> : gehorsamer Dienst.
+Lernen Sie folgende Wörter:
 
-<div align="center">
-  <img src="/images/lekt0903.jpg" alt="Vedastudium">
-  <p>Abb.: _adhyayana_ = <span class="sanskrit-dev">अध्ययन</span>, Sri Skandaguru Vidyalayam</p>
-</div>
+adhyayana n अध्ययन : Lernen, insbes. Vedastudium
 
-<div align="center">
-  <img src="/images/lekt0902.jpg" alt="Handwerker">
-  <p>Abb.: _kāru_ = <span class="sanskrit-dev">कारु</span>, Gujarat</p>
-</div>
+![](/images/lekt0903.jpg)  
+Abb.: adhyayana = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai  
+\[Bildquelle: jaroslavd. -- [http://www.flickr.com/photos/jaroslavd/2679883828/](http://www.flickr.com/photos/jaroslavd/2679883828/) . -- Zugriff am 2008-11-23. -- [](http://creativecommons.org/licenses/by-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine Bearbeitung)
 
----
+kāru m. / kāruka m. कारु कारुक : Handwerker
+
+![](/images/lekt0902.jpg)  
+Abb.: kāru = कारु, Gujarat  
+\[Bildquelle: owenstache. -- [http://www.flickr.com/photos/owen-pics/2331791031/](http://www.flickr.com/photos/owen-pics/2331791031/). -- Zugriff am 2008-11-23. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+
+kuśīlava m. कुशीलव : (fahrender) Schausteller, Schauspieler, Sänger
+
+kusīda n. कुसीद : Wucher
+
+kṛṣ 1 P (karṣati) कृष् कर्षति : ziehen
+
+kṛṣ 6 U (kṛṣati) कृष् कृषति : pflügen
+
+davon:
+
+kṛṣi f. / kṛṣikā f. कृषि कृषिका : Ackerbau
+
+dāna n. दान : Geben, Gabe, Freigebigkeit
+
+pratigraha m. प्रतिग्रह : Empfangen, Geschenk
+
+pravacana n. प्रवचन : Rede, (mündlicher) Unterricht
+
+pāśupālya n. पाशुपाल्य : Viehhaltung, Viehzucht
+
+zu yaj 1 U:
+
+ijyā f. इज्या : Opfer (aus \*yj » ij + Suffix yā)
+
+yajana n. यजन : Opfer im Auftrag von jemand anderem
+
+rūpa n. रूप : Aussehen, Form, schöne Form, Natur, Wesen
+
+vāṇijya n. / vāṇijyā f. / vaṇijyā f. वाणिज्य वाणिज्या वणिज्या : Handel
+
+śuśrūṣā f. शुश्रूषा : Gehorsam, gehorsamer Dienst
 
 ## 9.4. Übung
 
-**A) Mögliche Bedeutungen bestimmen:**
-1. _brāhmaṇaka_ (<span class="sanskrit-dev">ब्राह्मणक</span>)
-2. _dhenuka_ (<span class="sanskrit-dev">धेनुक</span>)
-3. _karṣaka_ (<span class="sanskrit-dev">कर्षक</span>)
+A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:
 
-<div align="center">
-  <img src="/images/lekt0901.jpg" alt="Ackerbauer">
-  <p>Abb.: _karṣaka_ = <span class="sanskrit-dev">कर्षक</span></p>
-</div>
+1\. brāhmānaka ब्राह्मणक
 
-**B) Übersetzen Sie:**
-1. **ijyādhyayanadānāni** (<span class="sanskrit-dev">इज्याध्ययनदानानि</span>): Opfer, Studium, Geben (Aufgaben der Zweimalgeborenen).
-2. **pravacanayājanapratigrahāḥ** (<span class="sanskrit-dev">प्रवचनयाजनप्रतिग्रहाः</span>): Lehre, Opfern für andere, Empfangen (spezifisch für Brahmanen).
-3. **kṛṣivāṇijyapāśupālyakusīdam** (<span class="sanskrit-dev">कृषिवाणिज्यपाशुपाल्यकुसीदम्</span>): Ackerbau, Handel, Viehzucht, Wucher (Aufgaben der Vaiśyas).
+2\. mati मति
+
+3\. śravaṇa श्रवण
+
+4\. dhenuka m. धेनुक
+
+5\. jayaka जयक
+
+6\. rakṣikā रक्षिका
+
+7\. karṣaka कर्षक
+
+![](/images/lekt0901.jpg)  
+Abb.: karṣaka = कर्षक  
+\[Bildquelle: Ray Witlin / World Bank. -- [http://www.flickr.com/photos/worldbank/2183985518/](http://www.flickr.com/photos/worldbank/2183985518/). -- Zugriff am 2008-11-23. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]   
+
+8\. kleśa क्लेश
+
+9\. nāyikātva नायिकात्व
+
+10\. tantraka तन्त्रक
+
+11\. nartaka (f. nartakī) नर्तक नर्तकी
+
+12\. naraka नरक
+
+13\. lābhaka लाभक
+
+14\. īśvaratā ईश्वरता
+
+15\. dhenukā f. धेनुका
+
+16\. yodhaka योधक
+
+17\. kopa कोप
+
+18\. veśaka वेशक
+
+19\. darśaka दर्शक
+
+20\. kopaka कोपक
+
+B) Übersetzen Sie:
+
+1\. Aufgaben aller Zweimalgeborenen:
+
+ijyādhyayanadānāni इज्याध्ययनदानानि
+
+(Yājñavalkyadharmaśāstra I, 118)
+
+2\. Spezifische Aufgaben eines Brahmanen:
+
+pravacanayājanapratigrahāḥ प्रवचनयाजनप्रतिग्रहाः
+
+(Gautamadharmasūtra X,2)
+
+3\. Spezifische Aufgaben eines Kṣatriya:
+
+rakṣaṇaṃ sarvabhūtānām रक्षणं सर्वभूतानाम्
+
+(sarvabhūtānām = Genetiv (Wesfall): "aller Wesen")
+
+(Gautamadharmasūtra X,7)
+
+4\. Spezifische Aufgaben eines Vaiśya:
+
+kṛṣivāṇijyapāśupālyakusīdam कृषिवाणिज्यपाशुपाल्यकुसीदम्
+
+(nach Gautamadharmasūtra X,49)
+
+5\. Aufgaben eines Śūdra:
+
+dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. द्विजातीनं शुश्रूषा वार्त्त्ता कारुकुशीलवकर्म च
+
+(nach Kauṭilīya-arthaśāstra 1.3.8.)
+
+Erklärung:
+
+dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen")
+
+kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+
+6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. कृषिः पाशुपाल्यं वणिज्या च वार्त्ता |
+
+(nach Kauṭilīya-arthaśāstra 1.4.1.)

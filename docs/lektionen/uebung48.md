@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet das Subhāṣita „satyaṃ vada“ (Übung 48.8)?',
+    options: ['Sprich die Wahrheit!', 'Geh den Weg!', 'Sei geduldig!', 'Lerne fleißig!'],
+    answer: 0,
+    explanation: 'satyam (Wahrheit) vada (sprich!) (Übung 48.10).'
+  },
+  {
+    question: 'Welcher Vers der Manusmṛti besagt, dass eine Frau niemals eigenständig sein sollte (Übung 48.146)?',
+    options: ['pitā rakṣati kaumāre...', 'asvatantrāḥ striyaḥ kāryāḥ...', 'kāle \'dātā pitā vācyo...', 'patir bhāryāṃ saṃpraviśya...'],
+    answer: 0,
+    explanation: '„pitā rakṣati kaumāre... na strī svātantryam arhati“ (Übung 48.146-147).'
+  },
+  {
+    question: 'Was ist die Bedeutung von „lāghavam“ in Bezug auf die Grammatik (Übung 48.33)?',
+    options: ['Kürze / Ökonomie', 'Schönheit', 'Vielseitigkeit', 'Schwere'],
+    answer: 0,
+    explanation: 'lāghavam bedeutet Kürze oder Leichtigkeit und gilt als Ideal der indischen Grammatiker (Übung 48.35).'
+  }
+]
+</script>
+
 # Übung Lektion 48
 
 A) Übersetzen Sie die सुभाषितानि zu Beginn der Lektion.

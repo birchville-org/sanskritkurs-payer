@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wenn das Präfix „dus-“ (übel / schlecht) vor einem tonlosen Guttural (k-, kh-) steht, wie verändert sich das -s im Kompositum (z.B. "dus + kara")?',
+    options: ['Es bleibt -s (duskara)', 'Es wird zu -ṣ (duṣkara)', 'Es wird zu Visarga (duḥkara)', 'Es fällt weg (dukara)'],
+    answer: 1,
+    explanation: 'Im Auslaut des Vorderglieds von Komposita wird -s nach i oder u vor tonlosen Gutturalen oder Labialen meist zu -ṣ (Wortsandhi).'
+  },
+  {
+    question: 'Was ist die Bedeutung des „nañ-Tatpuruṣa“ (Präfix a- / an-) im Wort "aniṣṭa" (nicht gewünscht)?',
+    options: ['Ähnlichkeit', 'Kleinheit', 'Fehlen / Nichtvorhandensein', 'Feindschaft'],
+    answer: 2,
+    explanation: 'Das Präfix a-/an- drückt hier das Nichtvorhandensein oder die Negation der Haupteigenschaft aus.'
+  },
+  {
+    question: 'Welches Präfix ist das Gegenstück zu „dus-“ und bedeutet „gut / wohl / leicht zu...“?',
+    options: ['apa-', 'su-', 'pra-', 'upa-'],
+    answer: 1,
+    explanation: 'Das Präfix su- drückt das Gute oder Leichte aus (z.B. su-kara = leicht zu tun).'
+  }
+]
+</script>
+
 # Übung Lektion 18
 
 A) Übersetzen Sie das सुभाषित am Beginn der Lektion.

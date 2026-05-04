@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satz „ekasminneva kāle kṣatriyo mahān yaṣṭum upacakrame“?',
+    options: ['Zu eben derselben Zeit begann ein großer Kṣatriya zu opfern', 'Ein Kṣatriya kämpfte gegen den König', 'Der Kṣatriya gab den Brahmanen Geschenke', 'Ein Kṣatriya wurde geboren'],
+    answer: 0,
+    explanation: 'upacakrame ist die 3. Person Singular Perfekt Ātmanepada von upa-kram (beginnen). yaṣṭum ist der Infinitiv von yaj (opfern).'
+  },
+  {
+    question: 'Wie lautet die 3. Person Plural Perfekt Parasmaipada von „śru“ (hören)?',
+    options: ['śṛṇvanti', 'śuśruvuḥ', 'śuśrāva', 'aśṛṇvan'],
+    answer: 1,
+    explanation: 'śru bildet das Perfekt śuśrāva (Singular) und śuśruvuḥ (Plural).'
+  },
+  {
+    question: 'Was bedeutet „arhentaḥ kulabandhanaṃ bibhiduḥ“?',
+    options: ['Die Arhats haben die Familienbande gespalten/zerbrochen', 'Die Arhats ehren ihre Familie', 'Die Arhats essen zusammen', 'Die Arhats sind weise'],
+    answer: 0,
+    explanation: 'bibhiduḥ ist die 3. Person Plural Perfekt von bhid (spalten).'
+  }
+]
+</script>
+
 # Übung Lektion 35
 
 A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:

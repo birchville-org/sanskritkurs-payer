@@ -1,7 +1,3 @@
----
-title: Inhaltsverzeichnis
----
-
 # Inhaltsverzeichnis
 
 ## [Lektion 1](lektion01)

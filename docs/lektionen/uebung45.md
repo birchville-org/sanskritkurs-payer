@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie lautet der Vokativ Singular von „pitṛ“ (Vater) (Übung A.5)?',
+    options: ['pitah', 'pitar', 'pitā', 'pitare'],
+    answer: 0,
+    explanation: 'Der Vokativ Singular von pitṛ ist pitah (oder pitar vor Vokalen) (Übung 45.26).'
+  },
+  {
+    question: 'Was bedeutet der Ausdruck „yodhyam“ in der Antwort zur Bhagavadgītā (Übung B.1)?',
+    options: ['Es soll gekämpft werden (Notwendigkeit)', 'Kämpfe!', 'Ich werde kämpfen', 'Er kämpft'],
+    answer: 0,
+    explanation: 'yodhyam ist das Gerundivum (kṛtya) von yudh und drückt eine Notwendigkeit aus (Übung 45.50).'
+  },
+  {
+    question: 'Wie lautet der Vokativ Singular von „bhagavat“ (Erhabener)?',
+    options: ['bhagavan', 'bhagavat', 'bhagavān', 'bhagavate'],
+    answer: 0,
+    explanation: 'Stämme auf -mant/vant bilden den Vokativ auf -man/van, z.B. bhagavan (Lektion 45.109).'
+  }
+]
+</script>
+
 # Übung Lektion 45
 
 A) Übersetzen Sie ins Sanskrit (für Vergangenheitsformen bitte das Imperfekt &lt;लङ्&gt; verwenden):

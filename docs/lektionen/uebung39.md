@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie lautet die 1. Person Plural Indikativ Präsens Parasmaipada von „ad“ (essen)?',
+    options: ['admas', 'adāmas', 'adanti', 'adymaḥ'],
+    answer: 0,
+    explanation: 'ad ist athematisch (2P), daher tritt die Endung -mas direkt an die Wurzel: admas (Lektion 39.4.1).'
+  },
+  {
+    question: 'Was ist die 1. Person Singular Indikativ Präsens von „hu“ (opfern)?',
+    options: ['juhomi', 'huhomi', 'havāmi', 'homi'],
+    answer: 0,
+    explanation: 'hu (3P) bildet die Form juhomi in der 1. Person Singular (Lektion 39.4.2).'
+  },
+  {
+    question: 'Wie lautet die Entsprechung von „rakṣanti“ (3.pl.P) in der 1. Person Plural?',
+    options: ['rakṣāmas', 'rakṣanti', 'rakṣāmi', 'arakṣāma'],
+    answer: 0,
+    explanation: 'rakṣ ist thematisch (1P), daher wird der Themavokal zu -ā- gedehnt: rakṣāmas (Übung 39.63).'
+  }
+]
+</script>
+
 # Übung Lektion 39
 
 Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen.

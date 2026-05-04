@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Warum wird die Gattin im Sanskrit oft „bhāryā“ genannt?',
+    options: ['Weil es das Gerundivum von bhṛ (erhalten) ist und „die zu Erhaltende“ bedeutet', 'Weil es „die Schöne“ bedeutet', 'Weil es von bhar (tragen) kommt und „Last“ bedeutet', 'Es ist ein Wort ohne tiefere Bedeutung'],
+    answer: 0,
+    explanation: 'bhāryā ist das Gerundivum zu bhṛ (tragen, erhalten) und bedeutet „die zu Erhaltende/Unterhaltsberechtigte“ (Lektion 42.194).'
+  },
+  {
+    question: 'Was ist der Grund, warum ein Mann im traditionellen Indien einen Sohn zeugen sollte?',
+    options: ['Um die Familienriten (śrāddha) für die Vorfahren fortzuführen', 'Um das Feld zu pflügen', 'Um König zu werden', 'Um die Tochter zu verheiraten'],
+    answer: 0,
+    explanation: 'Ein Sohn vollzieht die śrāddha-Riten, damit die Vorfahren (pitṛs) Nahrung (piṇḍa) erhalten (Lektion 42.203).'
+  },
+  {
+    question: 'Wie lautet die 3. Person Singular Perfekt von „śak“ (können) in der Geschichte von Sītās Hochzeit?',
+    options: ['śaśāka', 'śakata', 'śaknoti', 'aśakat'],
+    answer: 0,
+    explanation: 'śak (5P) bildet das Perfekt śaśāka (Übung 42.55).'
+  }
+]
+</script>
+
 # Übung Lektion 42
 
 Übersetzen Sie:

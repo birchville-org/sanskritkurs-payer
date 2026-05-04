@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Bestimme die Form „vettha“ (Übung A.2).',
+    options: ['vid (wissen), Perfekt, 2. Pers. Sg. Parasmaipada', 'vid (wissen), Präsens, 2. Pers. Pl. Parasmaipada', 'viś (eintreten), Perfekt, 2. Pers. Sg. Parasmaipada', 'vid (wissen), Imperfekt, 2. Pers. Sg. Parasmaipada'],
+    answer: 0,
+    explanation: 'vettha ist das präsentische Perfekt von vid (Übung 46.15).'
+  },
+  {
+    question: 'Welcher Vers aus der Bhagavadgītā beschreibt die Kette vom Zorn bis zum Verderben (Übung B.2)?',
+    options: ['krodhād bhavati saṃmohaḥ...', 'nāsti buddhir ayuktasya...', 'tat tvam asi...', 'na yotsya iti...'],
+    answer: 0,
+    explanation: 'Der Vers beginnt mit: krodhād bhavati saṃmohaḥ... (Übung 46.74).'
+  },
+  {
+    question: 'Was ist die Bedeutung von „bhraṃśaḥ“?',
+    options: ['Verlust / Entfallen', 'Aufstieg', 'Frieden', 'Kraft'],
+    answer: 0,
+    explanation: 'bhraṃśaḥ bedeutet das Entfallen oder der Verlust (Lektion 46.2.444).'
+  }
+]
+</script>
+
 # Übung Lektion 46
 
 _Erstmals hier publiziert:_ 2009-01-27

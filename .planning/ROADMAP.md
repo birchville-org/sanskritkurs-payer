@@ -27,14 +27,15 @@ Vertikale Erschließung der Inhalte durch Querverweise.
     - Eine zentrale Seite listet alle Lektionen nach Themen (z.B. Sandhi) auf.
     - Am Ende jeder Lektion erscheinen passende Themen-Vorschläge.
 
-### Phase 12: Multilingual Expansion & Beta Communication
-Horizontale Erweiterung um Italienisch und Spanisch sowie Transparenz-Hinweise.
+### Phase 12: Multilingual Expansion (V1.2 Final)
+Horizontale Erweiterung um IT, ES, BG sowie neu UK und RU.
 - [x] **Plan 12.1**: Setup der Verzeichnisstrukturen für `/it/` und `/es/`.
-- [x] **Plan 12.2**: Durchführung der Massenübersetzung via Ollama (Gemma4:26b).
-- [x] **Plan 12.3**: Einbau des prominenten Beta-Hinweises auf der Homepage.
+- [/] **Plan 12.2**: Durchführung der Massenübersetzung via AI (UK & RU hinzugefügt).
+- [x] **Plan 12.3**: Integration der neuen Locales in die VitePress-Config.
+- [x] **Plan 12.4**: Quality-Sync & Visual Remediation (DE Struktur & Icons vereinheitlicht).
 - **Erfolgskriterien**:
-    - Alle 61 Lektionen sind auf Italienisch und Spanisch verfügbar.
-    - Die Homepage zeigt in allen Sprachen den Beta-Test-Status und Kontaktinfos.
+    - Alle 61 Lektionen sind in EN, IT, ES, BG, UK, RU verfügbar.
+    - Die Homepage bietet alle 7 Sprachen zur Auswahl an.
 
 </details>
 
@@ -64,6 +65,28 @@ Horizontale Erweiterung um Italienisch und Spanisch sowie Transparenz-Hinweise.
 ### Phase 999.12: Historical Comparison Mode (Legacy vs Modern) (BACKLOG)
 
 **Goal:** Integrate a toggleable side-by-side view for comparing legacy HTML sources with modern Markdown lessons.
+**Requirements:** TBD
+**Plans:** 0 plans
+
+Plans:
+- [ ] TBD (promote with /gsd-review-backlog when ready)
+- [ ] **Global Logo Cleanup**: Remove `sanskritkurslogo.jpg` from all lesson Markdown files.
+
+### Phase 999.13: VitePress-aware Markdown Editor (BACKLOG)
+
+**Goal:** Build or configure a Markdown editor that supports project-specific extensions like `::: grammar-box`, `^^` rowspans, and `{.sanskrit-dev}` for seamless content creation.
+**Implementation Options:**
+- **Option A (Web-based):** An integrated `/editor` page in VitePress using Monaco Editor + project-specific `markdown-it` plugins for 1:1 parity.
+- **Option B (VS Code):** A dedicated extension that injects our `config.mjs` logic into the native Markdown preview.
+**Requirements:** TBD
+**Plans:** 0 plans
+
+Plans:
+- [ ] TBD (promote with /gsd-review-backlog when ready)
+
+### Phase 999.14: Standardisierung aller Bildunterschriften (BACKLOG)
+
+**Goal:** Umwandlung aller Bildunterschriften in das neue minimalistische Format (Kurze Caption + Link auf zentrale Lizenzseite) unter Berücksichtigung der korrekten Markdown-Syntax (Leerzeile nach Bild).
 **Requirements:** TBD
 **Plans:** 0 plans
 

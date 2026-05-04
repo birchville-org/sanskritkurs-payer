@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet „bālam pratimām darśayati“?',
+    options: ['Das Kind sieht ein Bild', 'Er zeigt dem Kind ein Bild', 'Das Kind zeigt ein Bild', 'Das Bild wird erschlagen'],
+    answer: 1,
+    explanation: 'darśayati ist das Kausativ zu dṛś (sehen) in der Bedeutung „jemanden sehen machen = zeigen“.'
+  },
+  {
+    question: 'Wie lautet das Kausativ von „kṛ“ (tun/machen)?',
+    options: ['karayati', 'kārayati', 'kurvati', 'kṛtyati'],
+    answer: 1,
+    explanation: 'kṛ bildet das Kausativ mit Dehnstufenvokal (vṛddhi) zu kārayati.'
+  },
+  {
+    question: 'Was bedeutet der Satz „gurur bālān vedam adhyāpya gṛhaṃ gataḥ“ (aus Übung B.2)?',
+    options: ['Der Meister geht nach Hause', 'Nachdem der Meister die Kinder den Veda gelehrt hat, ist er nach Hause gegangen', 'Die Kinder studieren den Veda zu Hause', 'Der Meister lernt den Veda'],
+    answer: 1,
+    explanation: 'adhyāpya ist das Absolutivum des Kausativs von adhi-i (studieren machen = lehren).'
+  }
+]
+</script>
+
 # Übung Lektion 28
 
 A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:

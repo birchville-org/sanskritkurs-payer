@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie lautet das PPP der Wurzel „muc“ (loslassen)?',
+    options: ['mucta', 'mukta', 'mucita', 'mochita'],
+    answer: 1,
+    explanation: 'Vor dem Suffix -ta wird der palatale Verschlusslaut „c“ durch den gutturalen „k“ ersetzt: mukta.'
+  },
+  {
+    question: 'Was ist die korrekte PPP-Bildung für „labh“ (bekommen)?',
+    options: ['labhta', 'lapta', 'labdha', 'labhita'],
+    answer: 2,
+    explanation: 'Nach dem Bartholomaeschen Gesetz wird bh + ta zu -bdha: labdha.'
+  },
+  {
+    question: 'Wie lautet das PPP von „gacchati“ (gehen)?',
+    options: ['gata', 'gamita', 'ganata', 'gacchata'],
+    answer: 0,
+    explanation: 'Die Wurzel gam bildet das PPP durch Wegfall des Nasals vor -ta: gata.'
+  }
+]
+</script>
+
 # Übung Lektion 12
 
 A) Bilden Sie aus den Aktivsätzen von [Lektion 7](lektion07.md), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.

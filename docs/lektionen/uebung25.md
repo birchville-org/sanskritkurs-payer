@@ -1,3 +1,26 @@
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satzteil „gurvādēśād rāmo grāmān nagaraṃ gatvā ...“ (aus Übung B.1)?',
+    options: ['Rāma geht zum Dorf', 'Rāma geht aufgrund des Befehls des Meisters vom Dorf in die Stadt', 'Der Meister geht weg', 'Ein Haus im Dorf'],
+    answer: 1,
+    explanation: 'gurvādēśāt (Ablativ) = „aufgrund des Befehls“; grāmāt (Ablativ) = „vom Dorf“.'
+  },
+  {
+    question: 'Was drückt das Wort „yatō“ (यतो) am Anfang des Subhāṣitams aus?',
+    options: ['Dort', 'Von wo auch immer / weil', 'Wer', 'Wann'],
+    answer: 1,
+    explanation: 'yatō (yataḥ) ist das Relativpronomen mit -tas Suffix; hier hat es eine ablativische/kausale Bedeutung („wovon auch immer“ / „weil“).'
+  },
+  {
+    question: 'Wie lautet der Ablativ Singular von „agniḥ“ (Feuer)?',
+    options: ['agnaye', 'agnāt', 'agnēḥ', 'agnau'],
+    answer: 2,
+    explanation: 'In fast allen Klassen außer a-Stämmen sind Ablativ und Genitiv Singular identisch (hier: agnēḥ).'
+  }
+]
+</script>
+
 # Übung Lektion 25
 
 A) Ergänzen Sie die Deklinationsbeispiele von [Lektion 16](lektion16.md), Wiederholungsübung A durch Hinzufügen von 4. Dativ (चतुर्थी) und 5. Ablativ (पञ्चमी). Bilden Sie außerdem Deklinationsreihen mit allen bisher gelernten Formen zu
