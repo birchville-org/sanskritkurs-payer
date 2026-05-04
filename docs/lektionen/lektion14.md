@@ -140,21 +140,13 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet
 
 **Formengleichheit:**
 
-:::: grammar-box
+::: important
 
-::: center
+Bei allen Nominalstämmen mit Ausnahme der Maskulina und Neutra auf -a und den Pronomina ist die Form des Genetiv Singular identisch mit der Form des Ablativ (pañcamī "fünfte Kasusendung") Singular!
 
-![](/images/lekt1401.jpg)
-
-**Bei allen Nominalstämmen mit Ausnahme der Maskulina und Neutra auf -a und den Pronomina ist die Form des Genetiv Singular identisch mit der Form des Ablativ (pañcamī "fünfte Kasusendung") Singular!**
-
-![](/images/lekt1401.jpg)
-
-**Beachten Sie, dass bei konsonantisch auslautenden Stämmen Ablativ und Genetiv Singular gleich lauten wie der Akkusativ Plural Maskulinum und Femininum!**
+Beachten Sie, dass bei konsonantisch auslautenden Stämmen Ablativ und Genetiv Singular gleich lauten wie der Akkusativ Plural Maskulinum und Femininum!
 
 :::
-
-::::
 
 ## 14.3. Weiteres zum Gebrauch des Genetiv (षष्ठी)
 
