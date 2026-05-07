@@ -17,10 +17,10 @@ last_reconstructed: 2026-05-07
 ## Wochenspruch
 
 ::: center
-<span class="sanskrit-dev">धर्मो जयति नधर्मः</span>
-<span class="sanskrit-dev">सत्यं जयति नानृतम् |</span>
-<span class="sanskrit-dev">क्षमा जयति न क्रोधो</span>
-<span class="sanskrit-dev">देवो जयति नासुरः ||</span>
+धर्मो जयति नधर्मः
+सत्यं जयति नानृतम् |
+क्षमा जयति न क्रोधो
+देवो जयति नासुरः ||
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
@@ -222,20 +222,20 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 
 **Lernen Sie folgende Wörter:**
 
-- **aś** 5 Ā (aśnute) <span class="sanskrit-dev">अश् अश्नुते</span> : erreichen, gelangen zu, erlangen
-- **āp** 5 P (āpnoti) <span class="sanskrit-dev">आप् आप्नोति</span> : erreichen, erlangen
-- **kup** 4 P (kupyati) <span class="sanskrit-dev">कुप् कुप्यति</span> : zürnen
-- **krudh** 4 P (krudhyati) <span class="sanskrit-dev">क्रुध् क्रुध्यति</span> : zürnen
-- **khād** 1 P (khādati) <span class="sanskrit-dev">खाद् खादति</span> : kauen, essen
-- **śru** 5 P (śṛṇoti !) <span class="sanskrit-dev">श्रु शृणोति</span> : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
-- **su** 5 U (sunoti) <span class="sanskrit-dev">सु सुनोti</span> : auspressen
-- **soma** m. <span class="sanskrit-dev">सोम</span> : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
-- **phala** n. <span class="sanskrit-dev">फल</span> : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
-- **nṛtya** n. <span class="sanskrit-dev">नृत्य</span> : Tanz
-- **svarga** m. <span class="sanskrit-dev">स्वर्ग</span> : Himmel
-- **naraka** m. <span class="sanskrit-dev">नरक</span> : Hölle (nach einer Hinduauffassung hat das Universum die Form eines Eis (**Brahmāṇḍa** m.n. = <span class="sanskrit-dev">ब्रह्माण्ड</span> = "Ei Brahmās"): oberhalb der Erde sind sechs Himmel mit ansteigender Glückseligkeit, unterhalb der Erde sind sieben sog. **pātāla** n. = <span class="sanskrit-dev">पाताल</span>, Wohnstätten der **nāga** m. = <span class="sanskrit-dev">नाग</span> (Schlangen) und anderer mythischer Wesen, darunter kommen 7 Höllen mit steigenden Qualen)
-- **aṅga** n. <span class="sanskrit-dev">अङ्ग</span> : Glied des Körpers, Bestandteil; auch = **vedāṅga** = <span class="sanskrit-dev">वेदाङ्ग</span>
-- **gam** 1 P (gacchati) <span class="sanskrit-dev">गम् गच्छति</span> : gehen (Gehört nach der einheimischen Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit einem Präsensstammbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**)
+- **aś** 5 Ā (aśnute) अश् अश्नुते : erreichen, gelangen zu, erlangen
+- **āp** 5 P (āpnoti) आप् आप्नोति : erreichen, erlangen
+- **kup** 4 P (kupyati) कुप् कुप्यति : zürnen
+- **krudh** 4 P (krudhyati) क्रुध् क्रुध्यति : zürnen
+- **khād** 1 P (khādati) खाद् खादति : kauen, essen
+- **śru** 5 P (śṛṇoti !) श्रु शृणोति : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
+- **su** 5 U (sunoti) सु सुनोti : auspressen
+- **soma** m. सोम : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
+- **phala** n. फल : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
+- **nṛtya** n. नृत्य : Tanz
+- **svarga** m. स्वर्ग : Himmel
+- **naraka** m. नरक : Hölle (nach einer Hinduauffassung hat das Universum die Form eines Eis (**Brahmāṇḍa** m.n. = ब्रह्माण्ड = "Ei Brahmās"): oberhalb der Erde sind sechs Himmel mit ansteigender Glückseligkeit, unterhalb der Erde sind sieben sog. **pātāla** n. = पाताल, Wohnstätten der **nāga** m. = नाग (Schlangen) und anderer mythischer Wesen, darunter kommen 7 Höllen mit steigenden Qualen)
+- **aṅga** n. अङ्ग : Glied des Körpers, Bestandteil; auch = **vedāṅga** = वेदाङ्ग
+- **gam** 1 P (gacchati) गम् गच्छति : gehen (Gehört nach der einheimischen Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit einem Präsensstammbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**)
 
 ::: media
 ![](/images/lekt0701.jpg)

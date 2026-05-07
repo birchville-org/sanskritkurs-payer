@@ -313,32 +313,32 @@ Abb.: Weberin, Bangladesh: die Webkette.
 
 १.
 ::: center
-<span class="sanskrit-dev">मक्षिका व्रणमिच्छन्ति</span>
-<span class="sanskrit-dev">धनमिच्छन्ति पार्थिवाः |</span>
-<span class="sanskrit-dev">नीचाः कलहमिच्छन्ति</span>
-<span class="sanskrit-dev">शान्तिमिच्छन्ति साधवः ||</span>
+मक्षिका व्रणमिच्छन्ति
+धनमिच्छन्ति पार्थिवाः |
+नीचाः कलहमिच्छन्ति
+शान्तिमिच्छन्ति साधवः ||
 :::
 
-२. <span class="sanskrit-dev">नरान्सृजति देवः |</span>
-३. <span class="sanskrit-dev">कवयो धनं लुभ्यन्ति |</span>
-४. <span class="sanskrit-dev">ऋषयः सूक्तानि पश्यति |</span>
-५. <span class="sanskrit-dev">विष्णुमृषिर्यजति |</span>
-६. <span class="sanskrit-dev">गुरूञ्शिष्यांश्च पश्यति |</span>
-७. <span class="sanskrit-dev">स्वर्गं लभन्ते |</span>
-८. <span class="sanskrit-dev">अत्रर्षिर्भानुं वन्दते |</span>
-९. <span class="sanskrit-dev">ग्रामं गच्छन्ति |</span>
-१०. <span class="sanskrit-dev">दानानि वर्षन्ति नृपाः ||</span>
+२. नरान्सृजति देवः |
+३. कवयो धनं लुभ्यन्ति |
+४. ऋषयः सूक्तानि पश्यति |
+५. विष्णुमृषिर्यजति |
+६. गुरूञ्शिष्यांश्च पश्यति |
+७. स्वर्गं लभन्ते |
+८. अत्रर्षिर्भानुं वन्दते |
+९. ग्रामं गच्छन्ति |
+१०. दानानि वर्षन्ति नृपाः ||
 
 **ख**
 
-१. <span class="sanskrit-dev">सदा देवान्स्मरन्ति |</span>
-२. <span class="sanskrit-dev">ऋषिभी रामो वसति |</span>
-३. <span class="sanskrit-dev">हरिं क्षीरेण यजति |</span>
-४. <span class="sanskrit-dev">मार्गेण ग्रामं गच्छन्ति |</span>
-५. <span class="sanskrit-dev">धनेन सुखमिच्छन्ति नराः |</span>
-६. <span class="sanskrit-dev">एवं वदन्ति |</span>
-७. <span class="sanskrit-dev">शान्त्यर्षय इह शोभन्ते |</span>
-८. <span class="sanskrit-dev">कपयः फलानि खादन्ति |</span>
-९. <span class="sanskrit-dev">गजो गच्छति |</span>
-१०. <span class="sanskrit-dev">हरिर्गृहं गच्छति |</span>
-११. <span class="sanskrit-dev">सारथी रथं नयति ||</span>
+१. सदा देवान्स्मरन्ति |
+२. ऋषिभी रामो वसति |
+३. हरिं क्षीरेण यजति |
+४. मार्गेण ग्रामं गच्छन्ति |
+५. धनेन सुखमिच्छन्ति नराः |
+६. एवं वदन्ति |
+७. शान्त्यर्षय इह शोभन्ते |
+८. कपयः फलानि खादन्ति |
+९. गजो गच्छति |
+१०. हरिर्गृहं गच्छति |
+११. सारथी रथं नयति ||

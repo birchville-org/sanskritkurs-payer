@@ -82,18 +82,18 @@ Abb.: **vadanāni** = वदनानि, Jamalpur district, Bangladesh.
 
 **A) Übersetzen Sie untenstehende Sätze:**
 
-1. <span class="sanskrit-dev">ऋषिः सत्यं वदति |</span>
-2. <span class="sanskrit-dev">ब्राह्मणः पुत्रमिच्छति |</span>
-3. <span class="sanskrit-dev">साधुः स्वर्गं गच्छति |</span>
-4. <span class="sanskrit-dev">ब्राह्मणो ऽनृतं न वदतीति स्मृतिः |</span>
-5. <span class="sanskrit-dev">क्षत्रियो ब्राह्मणं धर्मं पृच्छति |</span>
-6. <span class="sanskrit-dev">एवं ब्राह्मणो यज्ञेन देवं यजति |</span>
-7. <span class="sanskrit-dev">पुत्रः पापं करोतीति वैश्या मन्यते |</span>
-8. <span class="sanskrit-dev">क्षत्रियः क्षत्रियेण सह युध्यते</span>
-9. <span class="sanskrit-dev">अधर्मो ऽनृतमिति पुत्रः पापं न करोति |</span>
-10. <span class="sanskrit-dev">अयं क्षत्रियो धर्मं रक्षति |</span>
-11. <span class="sanskrit-dev">को ऽग्निं यजते |</span>
-12. <span class="sanskrit-dev">स श्रावको बुद्धं धर्मं पृच्छति ||</span>
+1. ऋषिः सत्यं वदति |
+2. ब्राह्मणः पुत्रमिच्छति |
+3. साधुः स्वर्गं गच्छति |
+4. ब्राह्मणो ऽनृतं न वदतीति स्मृतिः |
+5. क्षत्रियो ब्राह्मणं धर्मं पृच्छति |
+6. एवं ब्राह्मणो यज्ञेन देवं यजति |
+7. पुत्रः पापं करोतीति वैश्या मन्यते |
+8. क्षत्रियः क्षत्रियेण सह युध्यते
+9. अधर्मो ऽनृतमिति पुत्रः पापं न करोति |
+10. अयं क्षत्रियो धर्मं रक्षति |
+11. को ऽग्निं यजते |
+12. स श्रावको बुद्धं धर्मं पृच्छति ||
 
 **B) Setzen Sie die Sätze von A) in Passivkonstruktion.**
 
@@ -126,21 +126,21 @@ Abb.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 
 **C) Übersetzen Sie:**
 
-1. <span class="sanskrit-dev">श्रवणेन श्रूयते |</span>
-2. <span class="sanskrit-dev">कर्ष़कैः कृष्यते |</span>
-3. <span class="sanskrit-dev">श्रावकेणेश्वरो नेज्यते |</span>
-4. <span class="sanskrit-dev">रक्षिक्या गुरू रक्ष्यते |</span>
-5. <span class="sanskrit-dev">ब्राह्मणेनानृतं नोद्यते |</span>
-6. <span class="sanskrit-dev">शूद्रेतरा |</span>
-7. <span class="sanskrit-dev">शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि |</span>
-8. <span class="sanskrit-dev">आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ||</span>
+1. श्रवणेन श्रूयते |
+2. कर्ष़कैः कृष्यते |
+3. श्रावकेणेश्वरो नेज्यते |
+4. रक्षिक्या गुरू रक्ष्यते |
+5. ब्राह्मणेनानृतं नोद्यते |
+6. शूद्रेतरा |
+7. शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि |
+8. आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ||
 
 **D) Übersetzen Sie und setzen Sie in Sanskrit Agens, Objekt und Verb in den Plural:**
 
-1. <span class="sanskrit-dev">फलमश्नुते |</span>
-2. <span class="sanskrit-dev">गुरुणा सत्यमुद्यते |</span>
-3. <span class="sanskrit-dev">वैश्यः पशुं लभते |</span>
-4. <span class="sanskrit-dev">पुत्रः पुण्यं करोति ||</span>
+1. फलमश्नुते |
+2. गुरुणा सत्यमुद्यते |
+3. वैश्यः पशुं लभते |
+4. पुत्रः पुण्यं करोति ||
 
 **E) Verwandeln Sie die Sätze C) 1-5 in Aktivkonstruktionen.**
 
