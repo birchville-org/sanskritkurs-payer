@@ -17,7 +17,7 @@ last_reconstructed: 2026-05-07
 ## Wochenspruch
 
 <p align="center">
-धर्माे जयति नाधर्माे<br>
+धर्माे जयati नाधर्माे<br>
 सत्यं जयति नानृतम् |<br>
 क्षमा जयति न क्राेधाे<br>
 देवाे जयति नासुरः ||
@@ -101,13 +101,13 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 | | pl. | **kān** (कान्) | **kās** (कास्) | **kāni** (कानि) |
 | **tad** (er/es/jenes) | sg. | **tam** (तम्) | **tām** (ताम्) | **tad** (तद्) |
 | | pl. | **tān** (तान्) | **tās** (तास्) | **tāni** (तानि) |
-| **etad** (dieses hier) | sg. | **etam / enam** | **etām / enām** | **etad / enad** |
-| | pl. | **etān / enān** | **etās / enās** | **etāni / enāni** |
-| **idam** (dieses) | sg. | **imam / enam** | **imām / enām** | **idam / enad** |
-| | pl. | **imān / enān** | **imās / enās** | **imāni / enāni** |
+| **etad** (dieses hier) | sg. | **etam / enam** (एतम् / एनम्) | **etām / enām** (एताम् / एनाम्र) | **etad / enad** (एतद् / एनद्) |
+| | pl. | **etān / enān** (एतान् / एनान्) | **etās / enās** (एतास् / एनास्) | **etāni / enāni** (एतानि / एनानि) |
+| **idam** (dieses) | sg. | **imam / enam** (इमम् & एनम्) | **imām / enām** (इमाम् / एनाम्र) | **idam / enad** (इदम् / एनद्) |
+| | pl. | **imān / enān** (इमान् / एनान्) | **imās / enās** (इमास् / एनास्) | **imāni / enāni** (इमानि / एनानि) |
 :::
 
-Die Formen **enam** (एनिम्) usw. gehören zum Stamm **enad** (एतद्), der nur in einigen Kasus Formen bildet. Diese werden statt der Formen von **etad** und **idam** dann verwendet, wenn das damit Bezeichnete im Vorhergehenden bereits erwähnt wurde.
+Die Formen **enam** (एनम्) usw. gehören zum Stamm **enad** (एनद्), der nur in einigen Kasus Formen bildet. Diese werden statt der Formen von **etad** und **idam** dann verwendet, wenn das damit Bezeichnete im Vorhergehenden bereits erwähnt wurde.
 z.B. **ayaṃ devaḥ, enaṃ yajante.** = अयं देवः | एनं यजन्ते || : "Er ist ein Gott. Man opfert ihm."
 
 ---
@@ -115,12 +115,14 @@ z.B. **ayaṃ devaḥ, enaṃ yajante.** = अयं देवः | एनं �
 ### 7.2.2. Gebrauch des Akkusativ (dvitīyā f. = द्वितीया)
 
 ::: grammar-box
-Der Akkusativ bezeichnet:
-1. Im nicht-passiven Verbalsatz: das **direkte Objekt** (karman n. = कर्मन्) der Handlung.
-   z.B. **devaṃ yajati** = देवं यजति : "Er verehrt einen Gott mit einem Opfer."
-   **phalam āpnoti** = फलमाप्नोति : "Er erlangt die Frucht (seines Handelns)."
-2. Bei Verben der Bewegung (gehen, führen etc.): das **Ziel** der Bewegung.
-   z.B. **narakaṃ gacchati** = नरकं गच्छति : "Er geht zur Hölle."
+Der Akkusativ (dvitīyā f. = द्वितीया) bezeichnet:
+1. Im nicht-passiven Verbalsatz: das **direkte Objekt** (karman n. = कर्मन्) der durch das Verb ausgedrückten Handlung:
+   z.B.
+   - **devaṃ yajati** = देवं यजति : "Er verehrt einen Gott mit einem Opfer."
+   - **phalam āpnoti** = फलमाप्नोति : "Er erlangt die Frucht (z.B. seines Handelns)."
+2. Bei Verben, die ein Gehen, eine Bewegung, ein Führen oder dergl. nach etwas hin ausdrücken, bezeichnet der Akkusativ das Ziel der Bewegung:
+   z.B.
+   - **narakaṃ gacchati** = नरकं गच्छति : "Er geht zur Hölle."
 :::
 
 Weitere Verwendungen des Akkusativ werden später behandelt.
@@ -132,17 +134,17 @@ Weitere Verwendungen des Akkusativ werden später behandelt.
 ::: grammar-box
 **Auslautendes -n:**
 
-1. Wird vor stimmhaften palatalen und retroflexen Konsonanten sowie vor **ś-** durch den entsprechenden Nasal ersetzt:
+1. Wird vor stimmhaften palatalen und retroflexen sparśa und vor **ś-** durch den diesen Lauten entsprechenden Nasal ersetzt:
    - **-n** vor **j-, jh-, ñ-, ś-** » **-ñ**
    - **-n** vor **ḍ-, ḍh-, ṇ-, ṣ-** » **-ṇ**
    z.B. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = क्षत्रियांञ्जयति : "Er besiegt die Kṣatriyas."
    Anlautendes **ś-** wird dann meist durch **ch-** ersetzt:
-   **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (neben gurūñ śṛṇoti) = गुरूञ्छृणोति : "Er hört auf die Lehrer."
+   **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (neben gurūñ śṛṇoti) = गुरूञ्छृणोति (गुरूञ्शृणोति) : "Er hört die Lehrer." "Er hört auf die Lehrer."
 
-2. Wird vor anlautendem **l-** durch **-l** mit Anunāsika (nasaliertes l, **-लँ**) ersetzt:
-   z.B. **paśūn + labhate** » **paśūm̐ labhate** = पशूंल्लभते : "Er erhält Nutztiere."
+2. Wird vor anlautendem **l-** durch **-l** mit Anunāsika (nasaliertes l, in der Schrift **ल्** mit Anunāsika **ँ**) ersetzt:
+   z.B. **paśūn + labhate** » पशूंल्लभते : "Er erhält Nutztiere."
 
-3. Wird vor anlautendem stimmlosen Palatal, Retroflex oder Dental durch **Anusvāra** + entsprechenden Zischlaut ersetzt:
+3. Wird vor anlautendem stimmlosen Palatal, Retroflex oder Dental durch **Anusvāra** + dem diesen Lauten entsprechenden Zischlaut ersetzt:
    - **-n** vor **c-, ch-** » **-ṃś**
    - **-n** vor **ṭ-, ṭh-** » **-ṃṣ**
    - **-n** vor **t-, th-** » **-ṃs**
@@ -156,64 +158,63 @@ Weitere Verwendungen des Akkusativ werden später behandelt.
 
 ## 7.4. Das Neutrum (napuṃsaka n. = नपुंसक)
 
-Im Neutrum sind die Formen für Nominativ (prathamā) und Akkusativ (dvitīyā) identisch.
+::: grammar-box
+**Im Neutrum sind die Formen für Nominativ (prathamā) und Akkusativ (dvitīyā) identisch.**
+:::
 
 ### 7.4.1. Neutrum der Stämme auf -a
 
 ::: grammar-box
 - **Endung Nominativ / Akkusativ Singular: -m**
-  z.B. **phala** n. = फल (Frucht): Nom./Akk. sg. **phalam** = फलम्
+  z.B. **phala** n. = फल = "Frucht": Nom. / Akk. sg. **phalam** = फलम्
 - **Endung Nominativ / Akkusativ Plural: -āni**
-  z.B. **phala** n. = फल: Nom./Akk. pl. **phalāni** = फलानि
+  z.B. **phala** n. = फल: Nom. / Akk. pl. **phalāni** = फलानि
 :::
 
 ---
 
 ## 7.5. Athematische Präsensklassen
 
-Die athematischen Präsensklassen (z.B. die 5. Klasse) bilden den Stamm nicht auf den Themavokal **-a** aus.
+Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h. der Präsensstamm lautet nicht wie bei den thematischen Präsensklassen (1., 4., 6., 10. Klasse) auf den "Themavokal" **-a** aus.
 
 ::: grammar-box
-**Die athematischen Präsensklassen haben Stammabstufung (zwei Formen des Präsensstamms):**
+**Die athematischen Präsensklassen haben Stammabstufung, d.h. es gibt zwei Formen des Präsensstamms:**
 1. **starker Stamm**: hochstufig (selten dehnstufig)
 2. **schwacher Stamm**: tiefstufig
 
-Der **starke Stamm** steht:
-- Im Indikativ Singular Parasmaipada Präsens (laṭ) und Imperfekt (laṅ)
-- In allen ersten Personen des Imperativ (loṭ) P. und Ā.
-- In der 3. Person Singular Imperativ (loṭ) Parasmaipada
+**Der starke Stamm steht:**
+- im Indikativ Singular Parasmaipada Präsens (laṭ) und Imperfekt (laṅ)
+- allen ersten Personen des Imperativ (loṭ) Parasmaipada und Ātmanepada
+- in der dritten Person Singular Imperativ (loṭ) Parasmaipada
 
-Alle anderen Formen haben den **schwachen Präsensstamm**.
+**Alle anderen Formen haben den schwachen Präsensstamm.**
 :::
 
 ### 7.5.1. Primärendungen der 3. Person Plural bei athematischen Stämmen
 
 ::: grammar-box
-| | Primärendung 3. Person Plural |
-| :--- | :--- |
-| **Parasmaipada** | **-anti** |
-| **Ātmanepada** | **-ate** |
+**Bei athematischen Präsensstämmen lauten die Primärendungen der 3. Person Plural:**
+- **Parasmaipada: -anti**
+- **Ātmanepada: -ate**
 :::
 
 ### 7.5.2. Die 5. Präsensklasse (svādi = स्वादि = "su usw.")
 
 ::: grammar-box
-- **Starker Stamm**: tiefstufige Wurzel + **-no-**
-- **Schwacher Stamm**: tiefstufige Wurzel + **-nu-**
+- **Starker Stamm**: (meist) tiefstufige Wurzel (wie angeführt) + **-no-**
+- **Schwacher Stamm**: (meist) tiefstufige Wurzel (wie angeführt) + **-nu-**
 
-**Besonderheit**: Vor vokalischen Endungen wird bei vokalisch auslautenden Wurzeln **-nu-** durch **-nv-** ersetzt, bei konsonantisch auslautenden Wurzeln durch **-nuv-**.
+**Vor vokalischen Endungen wird bei vokalisch auslautenden Wurzeln -nu- durch -nv- ersetzt, bei konsonantisch auslautenden Wurzeln wird vor vokalischen Endungen -nu- durch -nuv- ersetzt.**
 :::
 
 **Beispiele:**
 
 | Wurzel | Starker Stamm | Schwacher Stamm | Vor Vokal (schwach) |
 | :--- | :--- | :--- | :--- |
-| **āp** 5 P (erlangen) | **āp-no-** (3.sg. āpnoti) | **āp-nu-** | **āp-nuv-** (3.pl. āpnuvanti) |
-| **aś** 5 Ā (erlangen) | — | **aś-nu-** (3.sg. aśnute) | **aś-nuv-** (3.pl. aśnuvate) |
-| **su** 5 U (auspressen) | **su-no-** (3.sg. sunoti) | **su-nu-** (3.sg. sunute) | **su-nv-** (3.pl. sunvanti/ate) |
-| **śru** 5 P (hören) | **śṛ-ṇo-** (3.sg. śṛṇoti) | **śṛ-ṇu-** | **śṛ-ṇv-** (3.pl. śṛṇvanti) |
-
-*(Das **ṇ** statt **n** in śṛṇoti ist regelmäßiger Wortsandhi).*
+| **āp** 5 P (आप्) "erreichen" | **āp-no** (3.sg. āpnoti = आप्नोति) | **āp-nu** | **āp-nuv** (3.pl. āpnuvanti = आप्नुवन्ति) |
+| **aś** 5 Ā (अश्) "erreichen" | — | **aś-nu** (3.sg. aśnute = अश्नुते) | **aś-nuv** (3.pl. aśnuvate = अश्नुवते) |
+| **su** 5 U (सु) "auspressen" | **su-no** (3.sg. sunoti = सुनोति) | **su-nu** (3.sg. sunute = सुनुते) | **su-nv** (3.pl. sunvanti = सुन्वन्ति, 3.pl. sunvate = सुन्वते) |
+| **śru** 5 P (श्रु) "hören" | **śṛ-ṇo** (3.sg. śṛṇoti = शृणोति) | **śṛ-ṇu** | **śṛ-ṇv** (3.pl. śṛṇvanti = शृण्वन्ति) |
 
 ---
 
@@ -221,20 +222,20 @@ Alle anderen Formen haben den **schwachen Präsensstamm**.
 
 **Lernen Sie folgende Wörter:**
 
-- **aś** 5 Ā (aśnute) अश् अश्नुते : erreichen, erlangen.
-- **āp** 5 P (āpnoti) आप् आप्नोति : erreichen, erlangen.
-- **kup** 4 P (kupyati) कुप् कुप्यति : zürnen.
-- **krudh** 4 P (krudhyati) क्रुध् क्रुध्यति : zürnen.
-- **khād** 1 P (khādati) खाद् खादति : kauen, essen.
-- **śru** 5 P (śṛṇoti) श्रु शृणोति : hören (Objekt im Akkusativ).
-- **su** 5 U (sunoti) सु सुनोति : auspressen.
+- **aś** 5 Ā (aśnute) अश् अश्नुते : erreichen, gelangen zu, erlangen
+- **āp** 5 P (āpnoti) आप् आप्नोति : erreichen, erlangen
+- **kup** 4 P (kupyati) कुप् कुप्यति : zürnen
+- **krudh** 4 P (krudhyati) क्रुध् क्रुध्यति : zürnen
+- **khād** 1 P (khādati) खाद् खादति : kauen, essen
+- **śru** 5 P (śṛṇoti) श्रु शृणोति : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
+- **su** 5 U (sunoti) सु सुनोति : auspressen
 - **soma** m. सोम : Presstrank, Soma; Mond.
-- **phala** n. फल : Frucht (auch karmische Frucht).
-- **nṛtya** n. नृत्य : Tanz.
-- **svarga** m. स्वर्ग : Himmel.
-- **naraka** m. नरक : Hölle (nach Hinduauffassung gibt es 6 Himmel und 7 Höllen).
-- **aṅga** n. अङ्ग : Glied, Bestandteil (auch = **vedāṅga**).
-- **gam** 1 P (gacchati) गम् गच्छति : gehen.
+- **phala** n. फल : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
+- **nṛtya** n. नृत्य : Tanz
+- **svarga** m. स्वर्ग : Himmel
+- **naraka** m. नरक : Hölle
+- **aṅga** n. अङ्ग : Glied des Körpers, Bestandteil; auch = **vedāṅga** (वेदाङ्ग)
+- **gam** 1 P (gacchati) गम् गच्छति : gehen (gm » ga-ccha-ti)
 
 ::: media
 ![](/images/lekt0701.jpg)
@@ -270,22 +271,31 @@ Abb.: Viṣṇu = विष्णु, 8./9. Jahrhundert.
 **B) Setzen Sie die entsprechenden Verbformen ein:**
 
 1. sādhuḥ svargaṃ ... (āp, gam, aś)
+   साधुः स्वर्गम् ... (आप्, गम्, अश्)
 2. brāhmaṇaḥ somam ... (su) (2 Formen)
+   ब्राह्मणः सोमम् ... (सु)
 3. sādhur gurum ... (śru)
+   साधुर्गुरुम् ... (श्रु)
 4. devī ... (kup, krudh)
+   देवी ... (कुप्, क्रुध्)
 
 **C) Setzen Sie in den Übungssätzen B) Agens, Objekt und Verb in den Plural.**
 
 **D) Setzen Sie ins Ātmanepada:**
 
-1. sunvanti. (सुन्वन्ति)
-2. nayanti. (नयन्ति)
-3. sunoti. (सुनोति)
-4. yajati. (यजति)
+1. sunvanti.
+   सुन्वन्ति |
+2. nayanti.
+   नयन्ति |
+3. sunoti.
+   सुनोति |
+4. yajati.
+   यजति |
 
 ::: media
 ![](/images/lekt0702.jpg)
-**yajati** = यजति : Vedisches Opfer (**yajña** m. = यज्ञ)
+Abb.: **yajati** = यजति
+Vedisches Opfer = **yajña** m. = यज्ञ
 (Bildquelle: Wikipedia, Public Domain)
 :::
 
@@ -301,7 +311,7 @@ Abb.: Viṣṇu = विष्णु, 8./9. Jahrhundert.
 4. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern.
 5. Vaiśyafrauen verehren Gottheiten mit Opfern.
 6. Der HERR zürnt.
-7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Erklärung: chando = Nom./Akk. sg. zu chandas n.)
+7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
    शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि |
 8. Welchem Gott opfert dieser Brahmane?
 
