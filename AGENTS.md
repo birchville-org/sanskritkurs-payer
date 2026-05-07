@@ -25,4 +25,4 @@
 - **No Borders**: Use background color shifts (e.g., `bg-parchment` to `bg-parchment-dark`) instead of 1px lines.
 - **Header Numbering**: Always use absolute lesson-prefixed numbering (e.g., `60.1.`) for digital consistency.
 - **No Redundant Overviews**: Omit static "Übersicht" (TOC) sections at the start of lessons; the VitePress sidebar provides this functionality.
-- **Absolute Content Fidelity**: Except for the "Übersicht" (TOC), no content from the original HTML may be shortened, summarized, or omitted. Every example, note, and exercise must be transferred 1:1.
+- **Absolute Content & Structure Fidelity**: Except for the "Übersicht" (TOC), no content from the original HTML may be shortened, summarized, or omitted. The original didactic structure (e.g., highlighting via tables or colored boxes) must be preserved 1:1 using the `grammar-box` container. Every example, note, and exercise must be transferred 1:1.

@@ -157,7 +157,10 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 :::
 
 ### 6.5.4. Themavokal, thematische Präsensklassen
+
+::: grammar-box
 Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavokal**. Präsensklassen mit **a** im Stammbildungssuffix heißen deswegen "thematische Präsensklassen".
+:::
 
 ---
 
