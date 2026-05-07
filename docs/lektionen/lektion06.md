@@ -31,7 +31,8 @@ Wird der Agens (**kartṛ** m. = कर्तृ) in einem Verbalsatz genannt, d
 
 ## 6.2. Zur Bildung der Verbalformen
 
-Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sanskrit Folgendes aus:
+::: grammar-box
+**Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sanskrit Folgendes aus:**
 
 1. **Bedeutung** (artha m. अर्थ)
 2. **Person** und **Numerus** (Zahl, vacana n. = वचन) (ich, du, er <sie, es>, wir beide, ihr beide, sie beide, wir, ihr, sie)
@@ -39,18 +40,10 @@ Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sans
    - **Parasmaipada** (n. = परस्मैपद) ("Wortform mit Bezug auf einen anderen"): Aktivum. z.B. **yajati** = यजति = "Er verehrt mit einem Opfer" (nämlich der Priester, der für jemanden anderen das Opfer vollzieht).
    - **Ātmanepada** (n. = आत्मनेपद) ("Wortform mit Bezug auf sich selbst"): Medium. z.B. **yajate** = यजते = "Er verehrt mit einem Opfer im eigenen Interesse" (nämlich der Opferherr, der für sich und seine Familie opfert).
    - **Passiv** (karman n. = कर्मन्). z.B. **ijyate** = इज्यते = "Es wird mit einem Opfer verehrt".
-
-   In vielen Fällen lässt sich die Bedeutungsnuance des Ātmanepada nicht mehr erkennen; auch verwenden selbst Kunstdichter oft das Ātmanepada ohne Bedeutungsunterschied zum Parasmaipada. Dennoch ist bei der Übersetzung immer genau zu beachten, ob nicht eine solche Bedeutungsnuance vorliegt.
-   
-   Verben, die im Parasmaipada und Ātmanepada (in der spezifischen Ātmanepada-Bedeutung) verwendet werden, nennt man **Ubhayapada-Verben** (ubhayapada n. = उभयपद = "beide Wortformen").
-   
-   Manche Verben werden entweder nur im Parasmaipada oder nur im Ātmanepada gebraucht. Bei diesen Verben hat das Ātmanepada bzw. Parasmaipada keine spezifische Bedeutung. z.B. **manyate** = मन्यते = "er (sie, es) denkt" (ohne spezifische Ātmanepadabedeutung).
-
 4. **Aussageweise** (Modus):
    - **Indikativ**: Aussageform
    - **Optativ**: Wunschform und Möglichkeitsform
    - **Imperativ**: Befehlsform
-
 5. **Zeit** (Tempus):
    - **Präsens**: Gegenwart
    - **Imperfekt**
@@ -58,8 +51,17 @@ Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sans
    - **Aorist**
    - **Futur**: Zukunft
    - **Konditional**
+:::
 
-   Die Zeiten werden von Tempusstämmen gebildet: Präsensstamm, Aoriststamm, Perfektstamm, Futurstamm.
+In vielen Fällen lässt sich die Bedeutungsnuance des Ātmanepada nicht mehr erkennen; auch verwenden selbst Kunstdichter oft das Ātmanepada ohne Bedeutungsunterschied zum Parasmaipada. Dennoch ist bei der Übersetzung immer genau zu beachten, ob nicht eine solche Bedeutungsnuance vorliegt.
+
+::: grammar-box
+Man spricht von **"Ubhayapada"** ("beide Wortformen"), wenn eine Wurzel sowohl im Parasmaipada als auch im Ātmanepada verwendet wird.
+:::
+
+Manche Verben werden entweder nur im Parasmaipada oder nur im Ātmanepada gebraucht. Bei diesen Verben hat das Ātmanepada bzw. Parasmaipada keine spezifische Bedeutung. z.B. **manyate** = मन्यते = "er (sie, es) denkt" (ohne spezifische Ātmanepadabedeutung).
+
+Die Zeiten werden von Tempusstämmen gebildet: Präsensstamm, Aoriststamm, Perfektstamm, Futurstamm.
 
 ---
 
@@ -151,7 +153,7 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 | Wurzel (dhātu m.) | Präsensstamm |
 | :--- | :--- |
 | **nṛt** (नृत्) | **nṛtya-** (नृत्य-) |
-| **muh** (मुह्) | **muhya-** (मुह्य-) |
+| **muh** (मुह्) | **muhya-** (muhya-) |
 | **yudh** (युध्) | **yudhya-** (युध्य-) |
 | **man** (मन्) | **manya-** (मन्य-) |
 :::
@@ -166,21 +168,26 @@ Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavoka
 
 ## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = प्रश्न)
 
+::: grammar-box
 - **N. N. kiṃ karoti?** = N.N. किं करोति = "Was tut N. N.?"
 - **N. N. (plural) kiṃ kurvanti?** = N.N. किं कुर्वन्ति = "Was tun die N.N.s?"
 - (karoti, kurvanti zu **kṛ** = कृ 8 U: "tun, machen")
 - **kiṃ kuśalam?** = किं कुशलम् = "Geht es Ihnen gut?, Wie geht es Ihnen?"
 - Antwort: **sarvathā kuśalam** = सर्वथा कुशलम् = "(Es geht mir) in jeder Hinsicht gut."
+:::
 
 ---
 
 ## 6.7. Wortliste
 
+::: grammar-box
 Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach der Wurzel bedeutet die **Konjugationsklasse**.
-- **P**: Wurzel ist nur Parasmaipada
-- **Ā**: Wurzel ist nur Ātmanepada
-- **U**: Ubhayapada ("beide Wortformen"): Wurzel wird im Parasmaipada und Ātmanepada verwendet.
-- **()**: In Klammern steht die 3. Person Singular Präsens Indikativ (laṭ).
+
+- **P:** Wurzel ist nur Parasmaipada
+- **Ā:** Wurzel ist nur Ātmanepada
+- **U:** Ubhayapada ("beide Wortformen"): Wurzel wird im Parasmaipada und Ātmanepada verwendet.
+- **():** In Klammern steht die 3. Person Singular Präsens Indikativ (laṭ).
+:::
 
 **Lernen Sie folgende Wörter:**
 - **yaj** 1 U (yajati) यज् यजति : mit einem Opfer verehren, opfern
@@ -237,7 +244,7 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 ## 6.9. Wiederholungsübung
 
 **A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die Sie nach folgenden Einsetzübungen bilden, Antworten sind:**
-1. devas ... (īśvara, nṛt, sṛj, agni, indra)
+1. devas ... (īśvara, nṛtyati, sṛjati, agni, indra)
 2. (dvija, sādhu, kavi) ... brāhmaṇaḥ
 3. (śruti) ... vedaḥ
 4. (veda) ... śrutiḥ
@@ -250,65 +257,65 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 11. (sādhu) ... rāmaḥ
 
 **B) Setzen Sie in den Plural:**
-1. brāhmaṇo yajati. (ब्राह्मणो यजति)
-2. kaiṣā. (कैषा)
-3. kṣatriyo yajate. (क्षत्रियो यजते)
-4. sādhvī smarati. (साध्वी स्मरति)
-5. vaiśyā muhyati. (वैशश्या मुह्यति)
-6. sṛjati. (सृजति)
-7. devī manyate. (देवी मन्यते)
-8. gururviśati. (गुरुर्विशति)
-9. ko 'yam. (को ऽयम्)
-10. iyaṃ devī nṛtyati. (इयं देवी नृत्यति)
-11. eṣa devo yudhyate. (एष देवो युध्यते)
-12. sa sṛjati. (स सृजति)
-13. paśurdhenuḥ. (पशुर्धेनुः)
-14. keyam. (केयम्)
+1. brāhmaṇo yajati. = ब्राह्मणो यजति
+2. kaiṣā. = कैषा
+3. kṣatriyo yajate. = क्षत्रियो यजते
+4. sādhvī smarati. = साध्वी स्मरति
+5. vaiśyā muhyati. = वैश्या मुह्यति
+6. sṛjati. = सृजति
+7. devī manyate. = देवी मन्यते
+8. gururviśati. = गुरुर्विशति
+9. ko 'yam. = को ऽयम्
+10. iyaṃ devī nṛtyati. = इयं देवी नृत्यति
+11. eṣa devo yudhyate. = एष देवो युध्यते
+12. sa sṛjati. = स सृजति
+13. paśurdhenuḥ. = पशुर्धेनुः
+14. keyam. = केयम्
 
 **C) Bilden Sie das Ātmanepada zu:**
-1. rāmo yajati. (रामो यजति)
-2. kṣatriyā nayanti. (क्षत्रिया नयन्ति)
+1. rāmo yajati. = रामो यजति
+2. kṣatriyā nayanti. = क्षत्रिया नयन्ति
 
 **D) Bilden Sie das Femininum zu:**
-1. śūdro nayati. (शूद्रो नयति)
-2. sādhurviśati. (साधुर्विशati)
-3. brāhmaṇaḥ smarati. (ब्राह्मणः स्मरति)
-4. kṣatriyo yudhyate. (क्षत्रियो युध्यते)
-5. devo guruḥ. (देवो गुरुः)
+1. śūdro nayati. = शूद्रो नयति
+2. sādhurviśati. = साधुर्विशति
+3. brāhmaṇaḥ smarati. = ब्राह्मणः स्मरति
+4. kṣatriyo yudhyate. = क्षत्रियो युध्यते
+5. devo guruḥ. = देवो गुरुः
 
 **E) Übersetzen Sie:**
-1. devatānnapūrṇā.
-2. śūdretarā.
-3. vaiśyastulādhāraḥ.
-4. kavirmāghaḥ.
-5. devyumā.
-6. śrutirvedaḥ.
-7. dhenurviśati.
-8. guruścaitanyaḥ.
-9. devīndrāṇī.
-10. sādhurguruḥ.
-11. gururyajate.
+1. devatānnapūrṇā. = देवतान्नपूर्णा
+2. śūdretarā. = शूद्रेतरा
+3. vaiśyastulādhāraḥ. = वैश्यस्तुलाधारः
+4. kavirmāghaḥ. = कविर्माघः
+5. devyumā. = देव्युमा
+6. śrutirvedaḥ. = श्रुतिर्वेदः
+7. dhenurviśati. = धेनुर्विशति
+8. guruścaitanyaḥ. = गुरुश्चैतन्यः
+9. devīndrāṇī. = देवीन्द्राणी
+10. sādhurguruḥ. = साधुर्गुरुः
+11. gururyajate. = गुरुर्यजते
 
 **F) Übersetzen Sie ins Sanskrit:**
-1. Rāma opfert (als Opferherr).
-2. Durgā ist eine Göttin.
-3. Mīnākṣī ist eine Göttin.
-4. Sie sind verwirrt.
-5. Rāma ist ein heiliger Mann.
-6. Wer ist der HERR?
-7. Indra ist der HERR.
-8. Die Nutztiere treten ein.
-9. Viṣṇu lässt emanieren = Viṣṇu erschafft.
-10. Zweimalgeborene sind gut.
-11. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten)
-12. Diese Göttin ist gut.
-13. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten)
-14. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten)
-15. Diese Brahmanen opfern im Auftrag anderer.
-16. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten)
-17. Die Wissenschaften (für einen Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten)
-18. Geht es Ihnen gut?
-19. (Es geht mir) in jeder Hinsicht gut.
+1. rāmo yajate. (als Opferherr) = रामो यजते
+2. durgā devī. = दुर्गा देवी
+3. mīnākṣī devī. = मीनाक्षी देवी
+4. muhyanti. = मुह्यन्ति
+5. rāmaḥ sādhuḥ. = रामः साधुः
+6. ka īśvaraḥ. = क ईश्वरः
+7. indra īśvaraḥ. = इन्द्र ईश्वरः
+8. paśavo viśanti. = पशवो विशन्ति
+9. viṣṇuḥ sṛjati. = विष्णुः सृजति
+10. dvijāḥ sādhavaḥ. = द्विजाः साधवः
+11. trayī sāmavedo ṛgvedo yajurvedaśca. (trayī sāmarg-yajur-vedaḥ.) = त्रयी सामवेदो ऋग्वेदो यजुर्वेदश्च (त्रयी सामर्ग्यजुर्वेदः)
+12. iyaṃ devī sādhvī. = इयं देवी साध्वी
+13. avidyāsmitārāgadveṣābhiniveśāḥ kleśāḥ. (pañcakleśāḥ: avidyāsmitārāgadveṣābhiniveśāḥ.) = अविद्यास्मितारागद्वेषाभिनिवेशाः क्लेशाः (पञ्चक्लेशाः अविद्यास्मितारागद्वेषाभिनिवेशाः)
+14. maitrīkaruṇāmuditopekṣā brahmavihārāḥ. (catur-brahmavihārāḥ: maitrīkaruṇāmuditopekṣāḥ.) = मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः (चतुर्ब्रह्मविहाराः मैत्रीकरुणामुदितोपेक्षाः)
+15. ete brāhmaṇā yajanti. = एते ब्राह्मणा यजन्ति
+16. brāhmaṇakṣatriyavaiśyā dvijāḥ. (brāhmaṇāḥ kṣatriyā vaiśyāśca dvijāḥ.) = ब्राह्मणक्षत्रियवैश्या द्विजाः (ब्राह्मणाः क्षत्रिया वैश्याश्च द्विजाः)
+17. ānvīkṣikī trayī vārttā daṇḍanītiśca vidyāḥ. (catasro vidyāḥ: ānvīkṣikī trayī vārttā daṇḍanītiśca.) = आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः (चतस्रो विद्याः आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च)
+18. kiṃ kuśalam. = किं कुशलम्
+19. sarvathā kuśalam. = सर्वथा कुशलम्
 
 ::: media
 ![](/images/lekt0602.jpg)
