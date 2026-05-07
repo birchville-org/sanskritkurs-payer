@@ -73,6 +73,25 @@ export default {
       
       if (typeof window !== 'undefined') {
           console.log("Sanskrit-Akkordeon: Aktiviert");
+          
+          // Global Scroll Sync für QA Viewer
+          window.addEventListener('scroll', () => {
+              if (window.parent !== window) { // Nur senden, wenn im iFrame
+                  window.parent.postMessage({
+                      type: 'scroll',
+                      pct: window.scrollY / (document.documentElement.scrollHeight - window.innerHeight),
+                      top: window.scrollY,
+                      id: window.name || 'left-frame'
+                  }, '*');
+              }
+          });
+
+          window.addEventListener('message', (e) => {
+              if (e.data.type === 'setScroll') {
+                  window.scrollTo({ top: e.data.top, behavior: 'auto' });
+              }
+          });
+
           window.addEventListener('click', (e) => {
               if (!e.isTrusted) return;
               const itemHeader = e.target.closest('.VPSidebarItem.collapsible > .item');
