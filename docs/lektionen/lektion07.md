@@ -216,25 +216,9 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 | **su** 5 U (सु) "auspressen" | **su-no** (3.sg. sunoti = सुनोति) | **su-nu** (3.sg. sunute = सुनुते) | **su-nv** (3.pl. sunvanti = सुन्वन्ति, 3.pl. sunvate = सुन्वते) |
 | **śru** 5 P (श्रु) "hören" | **śṛ-ṇo** (3.sg. śṛṇoti = शृणोति) | **śṛ-ṇu** | **śṛ-ṇv** (3.pl. śṛṇvanti = शृण्वन्ति) |
 
-## 7.6. Gesprochenes Sanskrit: Weitere Fragen (**praśna** m. = <span class="sanskrit-dev">प्रश्न</span>)
-
-::: media
-![](/images/lekt0704.jpg)
-Abb.: Welchem Gott opfert man hier? -- Antwort: dem **Gaṇeśa** (**Gaṇapati**) = <span class="sanskrit-dev">गणेश</span> (<span class="sanskrit-dev">गणपति</span>)
-(Bildquelle: **Filippo M.**, [flickr](http://www.flickr.com/photos/81190204@N00/157297800/), Zugriff am 2008-11-23. Creative Commons Lizenz [Share alike (Namensnennung)](http://creativecommons.org/licenses/by-sa/2.0/deed.de))
-:::
-
-**kiṃ rāmaḥ karoti?** = <span class="sanskrit-dev">किं रामः करोति ?</span> = "Was macht Rāma?"
-
-**rāmaḥ yajati** = <span class="sanskrit-dev">रामो यजति</span> = "Rāma opfert."
-
-**kaṃ rāmaḥ yajati?** = <span class="sanskrit-dev">कं रामो यजति ?</span> = "Wen (welchen Gott) verehrt Rāma mit einem Opfer?"
-
-**rāmo devaṃ yajati** = <span class="sanskrit-dev">रामो देवं यजति</span> = "Rāma verehrt einen Gott mit einem Opfer."
-
 ---
 
-## 7.7. Wortliste
+## 7.6. Wortliste
 
 **Lernen Sie folgende Wörter:**
 
@@ -261,7 +245,7 @@ Abb.: War das die vedische Somapflanze? Fliegenpilz (*Amanita muscaria*).
 
 ---
 
-## 7.8. Übung
+## 7.7. Übung
 
 **A) Setzen Sie jeweils im Singular und Plural das direkte Objekt bzw. den Richtungsakkusativ ein:**
 
