@@ -251,6 +251,13 @@ Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) La
 
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
    ब्राह्मणस् ... यजति (देव, देवी, विष्णु, अग्नि, देवता)
+
+::: media
+![](/images/lekt0704.jpg)
+Abb.: Viṣṇu = विष्णु, 8./9. Jahrhundert.
+(Bildquelle: Wikipedia, GNU FDLizenz)
+:::
+
 2. gurus ... khādati (phala)
    गुरुस् ... खादति (फल)
 3. sādhus ... gacchati (svarga)
@@ -261,12 +268,6 @@ Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) La
    ... जयति (शूद्र)
 6. ... labhate (dhenu, paśu, phala)
    ... लभते (धेनु, पशु, फल)
-
-::: media
-![](/images/lekt0704.jpg)
-Abb.: Viṣṇu = विष्णु, 8./9. Jahrhundert.
-(Bildquelle: Wikipedia, GNU FDL)
-:::
 
 **B) Setzen Sie die entsprechenden Verbformen ein:**
 
