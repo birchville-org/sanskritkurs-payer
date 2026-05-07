@@ -216,26 +216,42 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 | **su** 5 U (सु) "auspressen" | **su-no** (3.sg. sunoti = सुनोति) | **su-nu** (3.sg. sunute = सुनुते) | **su-nv** (3.pl. sunvanti = सुन्वन्ति, 3.pl. sunvate = सुन्वते) |
 | **śru** 5 P (श्रु) "hören" | **śṛ-ṇo** (3.sg. śṛṇoti = शृणोति) | **śṛ-ṇu** | **śṛ-ṇv** (3.pl. śṛṇvanti = शृण्वन्ति) |
 
+## 7.6. Gesprochenes Sanskrit: Weitere Fragen (**praśna** m. = <span class="sanskrit-dev">प्रश्न</span>)
+
+::: media
+![](/images/lekt0704.jpg)
+Abb.: Welchem Gott opfert man hier? -- Antwort: dem **Gaṇeśa** (**Gaṇapati**) = <span class="sanskrit-dev">गणेश</span> (<span class="sanskrit-dev">गणपति</span>)
+(Bildquelle: **Filippo M.**, [flickr](http://www.flickr.com/photos/81190204@N00/157297800/), Zugriff am 2008-11-23. Creative Commons Lizenz [Share alike (Namensnennung)](http://creativecommons.org/licenses/by-sa/2.0/deed.de))
+:::
+
+**kiṃ rāmaḥ karoti?** = <span class="sanskrit-dev">किं रामः करोति ?</span> = "Was macht Rāma?"
+
+**rāmaḥ yajati** = <span class="sanskrit-dev">रामो यजति</span> = "Rāma opfert."
+
+**kaṃ rāmaḥ yajati?** = <span class="sanskrit-dev">कं रामो यजति ?</span> = "Wen (welchen Gott) verehrt Rāma mit einem Opfer?"
+
+**rāmo devaṃ yajati** = <span class="sanskrit-dev">रामो देवं यजति</span> = "Rāma verehrt einen Gott mit einem Opfer."
+
 ---
 
-## 7.6. Wortliste
+## 7.7. Wortliste
 
 **Lernen Sie folgende Wörter:**
 
-- **aś** 5 Ā (aśnute) अश् अश्नुते : erreichen, gelangen zu, erlangen
-- **āp** 5 P (āpnoti) आप् आप्नोति : erreichen, erlangen
-- **kup** 4 P (kupyati) कुप् कुप्यति : zürnen
-- **krudh** 4 P (krudhyati) क्रुध् क्रुध्यति : zürnen
-- **khād** 1 P (khādati) खाद् खादति : kauen, essen
-- **śru** 5 P (śṛṇoti) श्रु शृणोति : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
-- **su** 5 U (sunoti) सु सुनोति : auspressen
-- **soma** m. सोम : Presstrank, Soma; Mond.
-- **phala** n. फल : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
-- **nṛtya** n. नृत्य : Tanz
-- **svarga** m. स्वर्ग : Himmel
-- **naraka** m. नरक : Hölle
-- **aṅga** n. अङ्ग : Glied des Körpers, Bestandteil; auch = **vedāṅga** (वेदाङ्ग)
-- **gam** 1 P (gacchati) गम् गच्छति : gehen (gm » ga-ccha-ti)
+- **aś** 5 Ā (aśnute) <span class="sanskrit-dev">अश् अश्नुते</span> : erreichen, gelangen zu, erlangen
+- **āp** 5 P (āpnoti) <span class="sanskrit-dev">आप् आप्नोति</span> : erreichen, erlangen
+- **kup** 4 P (kupyati) <span class="sanskrit-dev">कुप् कुप्यति</span> : zürnen
+- **krudh** 4 P (krudhyati) <span class="sanskrit-dev">क्रुध् क्रुध्यति</span> : zürnen
+- **khād** 1 P (khādati) <span class="sanskrit-dev">खाद् खादति</span> : kauen, essen
+- **śru** 5 P (śṛṇoti) <span class="sanskrit-dev">श्रु शृणोति</span> : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
+- **su** 5 U (sunoti) <span class="sanskrit-dev">सु सुनोति</span> : auspressen
+- **soma** m. <span class="sanskrit-dev">सोम</span> : Presstrank, Soma; Mond.
+- **phala** n. <span class="sanskrit-dev">फल</span> : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
+- **nṛtya** n. <span class="sanskrit-dev">नृत्य</span> : Tanz
+- **svarga** m. <span class="sanskrit-dev">स्वर्ग</span> : Himmel
+- **naraka** m. <span class="sanskrit-dev">नरक</span> : Hölle
+- **aṅga** n. <span class="sanskrit-dev">अङ्ग</span> : Glied des Körpers, Bestandteil; auch = **vedāṅga** (<span class="sanskrit-dev">वेदाङ्ग</span>)
+- **gam** 1 P (gacchati) <span class="sanskrit-dev">गम् गच्छति</span> : gehen (gm » ga-ccha-ti)
 
 ::: media
 ![](/images/lekt0701.jpg)
@@ -245,7 +261,7 @@ Abb.: War das die vedische Somapflanze? Fliegenpilz (*Amanita muscaria*).
 
 ---
 
-## 7.7. Übung
+## 7.8. Übung
 
 **A) Setzen Sie jeweils im Singular und Plural das direkte Objekt bzw. den Richtungsakkusativ ein:**
 
