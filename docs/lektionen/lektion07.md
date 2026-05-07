@@ -112,7 +112,7 @@ z.B. **ayaṃ devaḥ, enaṃ yajante.** = अयं देवः | एनं �
 
 ---
 
-### 7.2.2. Gebrauch des Akkusativ (dvitīyā f. = द्वितीया)
+### 7.2.2. Gebrauch des Akkusativ (Wenfall, dvitīyā f. = द्वितीया = "zweite Kasusendung")
 
 ::: grammar-box
 Der Akkusativ (dvitīyā f. = द्वितीया) bezeichnet:
