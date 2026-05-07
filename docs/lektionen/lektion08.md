@@ -1,5 +1,9 @@
 ---
+title: "Lektion 8"
+subtitle: "Bildung von Nomina & 8. Präsensklasse"
 lesson_id: 8
+category: "Grammatik"
+status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
@@ -12,6 +16,8 @@ last_reconstructed: 2026-05-07
 - Die 8. Präsensklasse (tanādi)
 - Die Konjugation von **kṛ** (tun, machen)
 :::
+
+---
 
 ## 8.1. Zur Bildung von Nomina
 
@@ -53,6 +59,8 @@ In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mi
 
 ## 8.3. Einige wichtige Nominalsuffixe
 
+---
+
 ### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
@@ -69,9 +77,9 @@ In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mi
 | **kup** 4 P (कुप्) "zürnen" | **kopa** m. (कोप) | "Zorn" |
 | **lubh** 4 P (लुभ्) "begehren" | **lobha** m. (लोभ) | "Begierde" |
 | **labh** 1 Ā (लभ्) "bekommen" | **lābha** m. (लाभ) | "das Bekommen, Gewinn" |
-| **sṛj** 6 P (सृज्) "loslassen" | **sarga** m. (सर्ग) | "Emanation, Schöpfung" |
+| **sṛj** 6 P (सृज्) "loslassen, emanieren lassen" | **sarga** m. (सर्ग) | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
 | **śru** 5 P (श्रु) "hören" | **śrava** m. (श्रव) | "das Hören" |
-| **bhū** 1 P (भू) "werden" | **bhāva** m. (भाव) | "das Werden, Sein, Natur, Charakter" |
+| **bhū** 1 P (भू) "werden, sein" | **bhāva** m. (भाव) | "das Werden, das (etwas) Sein, Natur, Charakter" |
 | **yudh** 4 Ā (युध्) "kämpfen" | **yodha** m. (योध) | "Kämpfer, Krieger, Soldat" |
 
 ---
@@ -87,16 +95,16 @@ In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mi
 | Wurzel | + -ana (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
 | **gam** 1 P (गम्) "gehen" | **gamana** n. (गमन) | "das Gehen" |
-| **nī** 1 U (नी) "führen" | **nayana** n. (नयन) | "(Werkzeug des Führens:) Auge" |
-| **śru** 5 P (श्रु) "hören" | **śravaṇa** n. (श्रवण) | "(Hörwerkzeug:) Ohr" |
-| **kṛ** 8 U (कृ) "tun" | **kāraṇa** n. (कारण) | "Ursache, Grund" |
+| **nī** 1 U (नी) "führen" | **nayana** n. (नयन) | "(das Werkzeug des Führens, d.h.) Auge" |
+| **śru** 5 P (श्रु) "hören" | **śravaṇa** n. (श्रवण) | "(Hörwerkzeug =) Ohr" |
+| **kṛ** 8 U (कृ) "tun" | **kāraṇa** n. (कारण) | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
 | **bhū** 1 P (भू) "werden" | **bhavana** n. (भवन) | "das Werden, Entstehen" |
-| **dṛś** 4 P (दृश्) "sehen" | **darśana** n. (दर्शन) | "das Sehen, Sichtweise, phil. System, Erscheinung" |
+| **dṛś** 4 P (दृश्) "sehen" | **darśana** n. (दर्शन) | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
 
 ::: media
 ![](/images/lekt0801.jpg)
-Abb.: Maa Batakali Darshan, Puri, Orissa.
-(Bildquelle: savia, Flickr, CC-BY-NC-ND 2.0)
+Abb.: Maa Batakali Darshan, Puri, Orissa
+(Bildquelle: [Details](/licenses#lekt0801))
 :::
 
 > [!NOTE]
@@ -117,34 +125,22 @@ Abb.: Maa Batakali Darshan, Puri, Orissa.
 
 | Wurzel | + -tra (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
-| **nī** 1 U (नी) "führen" | **netra** n. (नेत्र) | "(Mittel des Führens:) Auge" |
-| **śru** 5 P (श्रु) "hören" | **śrotra** n. (श्रोत्र) | "(Hörwerkzeug:) Ohr" |
+| **nī** 1 U (नी) "führen" | **netra** n. (नेत्र) | "(Mittel des Führens =) Auge" |
+| **śru** 5 P (श्रु) "hören" | **śrotra** n. (श्रोत्र) | "(Hörwerkzeug=) Ohr" |
 | **man** 4 Ā (मन्) "denken" | **mantra** **m. (!)** (मन्त्र) | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
 | **tan** 8 U (तन्) "aufspannen" | **tantra** n. (तन्त्र) | "Webkette" |
 
 ::: media
 **Das Ur-Mantra Oṃ (ॐ) in verschiedenen indischen Schriften**
 
-````carousel
-![In Devanāgarī](/images/lekt0803.jpg)
-देवानागरी
-<!-- slide -->
-![In Bengali](/images/lekt0807.jpg)
-বাংলা লিপি
-<!-- slide -->
-![In Kannada](/images/lekt0802.jpg)
-ಕನ್ನಡ
-<!-- slide -->
-![In Tamil](/images/lekt0804.jpg)
-தமிழ் அரிச்சுவடி
-<!-- slide -->
-![In Malayalam](/images/lekt0805.jpg)
-മലയാളം
-<!-- slide -->
-![Jaina-Oṃ](/images/lekt0808.jpg)
-Jaina-Oṃ
-````
-(Bildquellen: Wikipedia, Public Domain)
+| ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
+| :---: | :---: |
+| In Devanāgarī | In Bengali Schrift |
+| ![](/images/lekt0802.jpg) | ![](/images/lekt0804.jpg) |
+| In Kannaresischer Schrift | In Tamil-Schrift |
+| ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
+| In Malayalam-Schrift | Jaina-Oṃ |
+(Bildquellen: [Details](/licenses#lekt0803))
 :::
 
 ---
@@ -159,15 +155,15 @@ Jaina-Oṃ
 
 | Wurzel | + -ti (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
-| **śru** 5 P (श्रु) | **śruti** f. (श्रुति) | "das Hören, der Veda" |
-| **smṛ** 1 P (स्मृ) | **smṛti** f. (स्मृति) | "Erinnerung, Überlieferung, Achtsamkeit" |
-| **nī** 1 U (नी) | **nīti** f. (नीति) | "das Führen, Führung, Betragen" |
-| **sṛj** 6 P (सृज्) | **sṛṣṭi** f. (सृष्टि) | "Emanation, Schöpfung" |
-| **dṛś** 4 P (दृश्) | **dṛṣṭi** f. (दृष्टि) | "Blick, Gesicht, Sehweise" |
-| **gam** 1 P (गम्) | **gati** f. (गति) | "Gang, Laufbahn, Ziel" (aus *gm » ga + -ti) |
-| **man** 4 Ā (मन्) | **mati** f. (मति) | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
+| **śru** 5 P (श्रु) "hören" | **śruti** f. (श्रुति) | "das Hören, der Veda" |
+| **smṛ** 1 P (स्मृ) "vergegenwärtigen" | **smṛti** f. (स्मृति) | "Das Vergegenwärtigen, Erinnerung, Überlieferung, Achtsamkeit" |
+| **nī** 1 U (नी) "führen" | **nīti** f. (नीति) | "das Führen, Führung, Betragen" |
+| **sṛj** 6 P (सृज्) "emanieren lassen" | **sṛṣṭi** f. (सृष्टि) | "Emanation, Schöpfung" |
+| **dṛś** 4 P (दृश्) "sehen" | **dṛṣṭi** f. (दृष्टि) | "Blick, Gesicht, Sehweise" |
+| **gam** 1 P (गम्) "gehen" | **gati** f. (गति) | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
+| **man** 4 Ā (मन्) "denken" | **mati** f. (मति) | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
 
-*Anmerkung: \* vor einer Form bedeutet, dass diese Form im Sanskrit nicht vorkommt. Die Tiefstufe von **gam** ist gṃ = \*gm, das m wird als nasalis sonans durch **a** ersetzt » **ga**. Analoges gilt für **man** » **ma**.
+*Anmerkung: \* vor einer Form bedeutet, dass diese Form im Sanskrit nicht vorkommt, sondern theoretisch erschlossen ist als Voraussetzung für eine bestimmte Bildung. Die Tiefstufe von **gam** ist gṃ = \*gm, das m wird als sogenannte nasalis sonans durch **a** ersetzt » **ga**. Analoges gilt für **man** » **ma**.
 
 ---
 
@@ -181,9 +177,9 @@ Jaina-Oṃ
 
 | Nominalstamm | + -tva n. (taddhita) | + -tā f. (taddhita) | Bedeutung |
 | :--- | :--- | :--- | :--- |
-| **guru** (गुरु) "Meister" | **gurutva** n. (गुरुत्व) | **gurutā** f. (गुरुता) | "Lehrersein, Wesen eines Lehrers" |
-| **brāhmaṇa** m. (ब्राह्मण) | **brāhmaṇatva** n. (ब्राह्मणत्व) | **brāhmaṇatā** f. (ब्राह्मणता) | "Brahmane-sein, Wesen eines Brahmanen" |
-| **deva** m. (देव) | — | **devatā** f. (देवता) | "Gottheit" |
+| **guru** (गुरु) 3 "schwer, würdig, m. Meister" | **gurutva** n. (गुरुत्व) | **gurutā** f. (गुरुता) | "Schwere, Ehrwürdigkeit, Das Lehrersein (Wesen oder Natur eines Lehrers)" |
+| **brāhmaṇa** m. (ब्राह्मण) "Brahmane" | **brāhmaṇatva** n. (ब्राह्मणत्व) | **brāhmaṇatā** f. (ब्राह्मणता) | "das Brahmane-sein, was einen Brahmanen zum Brahmanen macht, Wesen / Natur eines Brahmanen" |
+| **deva** m. (देव) "Himmlischer, Gott" | — | **devatā** f. (देवता) | "Gottheit" |
 
 Diese Bildungen können praktisch zu jedem Nomen gebildet werden und sind in wissenschaftlichen Sanskritwerken sehr häufig.
 
@@ -197,22 +193,22 @@ Diese Bildungen können praktisch zu jedem Nomen gebildet werden und sind in wis
 - **Schwacher Stamm: Wurzel + -u- (vor Vokal: -v-)**
 
 Beispiel **tan** 8 U (तन्) "dehnen":
-- 3. sg. P. **tanoti** = तनाेति
-- 3. pl. P. **tanvanti** = तन्वन्ति
-- 3. sg. Ā. **tanute** = तनुते
-- 3. pl. Ā. **tanvate** = तन्वते
+- 3\. sg. P. **tanoti** = तनोति
+- 3\. pl. P. **tanvanti** = तन्वन्ति
+- 3\. sg. Ā. **tanute** = तनुते
+- 3\. pl. Ā. **tanvate** = तन्वते
 :::
 
-Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild.
+Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
 Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (कृ) "tun, machen". Ihre Konjugation ist unregelmäßig:
 
 ::: grammar-box
 **kṛ 8 U (कृ) "machen, tun"**
-- 3. sg. P. **karoti** = कराेति
-- 3. pl. P. **kurvanti** = कुर्वन्ति
-- 3. sg. Ā. **kurute** = कुरुते
-- 3. pl. Ā. **kurvate** = कुर्वते
+- 3\. sg. P. **karoti** = करोति
+- 3\. pl. P. **kurvanti** = कुर्वन्ति
+- 3\. sg. Ā. **kurute** = कुरुते
+- 3\. pl. Ā. **kurvate** = कुर्वते
 :::
 
 ---
@@ -223,27 +219,32 @@ Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (कृ) "tun, machen". Ihr
 
 - **ji** 1 P (jayati) जि जयति : siegen, besiegen, ersiegen
 - **labh** 1 Ā (labhate) लभ् लभते : fassen, erhalten, ergreifen
-- **tu** तु : aber (nach dem ersten Wort des entgegengesetzten Satzes)
-- **paś** 4 P (paśyati) पश् पश्यति : sehen, erblicken (Präsensstamm statt **dṛś**)
-- **kṛ** 8 U (karoti) कृ कराेति : machen, tun
-- **tan** 8 U (tanoti) तन् तनाेति : dehnen
+- **tu** तु : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils)
+- **paś** 4 P (paśyati) पश् पश्यति : sehen, erblicken (wird als Präsensstamm statt der Wurzel **dṛś** 0 "sehen, erblicken" verwendet)
+- **kṛ** 8 U (karoti) कृ करोति : machen, tun
+- **tan** 8 U (tanoti) तन् तनोति : dehnen
 - **rakṣ** 1 P (rakṣati) रक्ष् रक्षति : hüten
 - **sārathi** m. सारथि : Wagenlenker, Fuhrmann
 - **kapi** m. कपि : Affe
 - **kumārī** f. कुमारी : das Mädchen, die Jungfrau
-- **nāga** m. नाग : der Nackte, der Elefant, die Schlange
+- **nāga** m. नाग : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch)
 - **gaja** m. गज : Elefant
-- **śuc** 1 P (śocati) शुच् शाेचति : trauern
+- **śuc** 1 P (śocati) शुच् शोचति : trauern
 - **śuka** m. शुक : Papagei
 - **pat** 1 P (patati) पत् पतति : fallen, fliegen
 - **patrikā** f. पत्रिका : Brief
-- **likh** 1 P (likhati) लिख् लिखति : ritzen, schreiben
+- **likh** 1 P (likhati) लिख् लिखति : ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein)
 
 ::: media
 ![](/images/lekt0809.jpg)
+Abb.: **likh** (लिख्) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
+(Bildquelle: [Details](/licenses#lekt0809))
+:::
+
+::: media
 ![](/images/lekt0810.jpg)
-Abb.: **likh** (लिख्) : Indischer Schreibgriffel aus Stahl und Schreibstöckchen der Batak (Sumatra).
-(Bildquelle: Meyers Konversationslexikon 1905, Gemeinfrei)
+Abb.: **likh** (लिख्) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
+(Bildquelle: [Details](/licenses#lekt0809))
 :::
 
 - **sukha** n. सुख : Glück, Wohlsein
@@ -253,10 +254,37 @@ Abb.: **likh** (लिख्) : Indischer Schreibgriffel aus Stahl und Schreibst
 
 ## 8.6. Übung
 
-**A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, des Suffixes, Geschlecht und Bedeutung:**
-1. lobha, 2. rakṣa, 3. śrotra, 4. mati, 5. savana, 6. yodha, 7. lābha, 8. kāraṇa, 9. gati, 10. khādana, 11. smara, 12. sṛṣṭi, 13. tantra, 14. bhāva, 15. darśana, 16. netra, 17. veśana, 18. kopa, 19. sarga, 20. yajana, 21. moha, 22. śrava, 23. bhavana, 24. nīti, 25. nartana, 26. jaya, 27. nayana, 28. śravaṇa.
+**A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:**
+1. lobha
+2. rakṣa
+3. śrotra
+4. mati
+5. savana
+6. yodha
+7. lābha
+8. kāraṇa
+9. gati
+10. khādana
+11. smara
+12. sṛṣṭi
+13. tantra
+14. bhāva
+15. darśana
+16. netra
+17. veśana
+18. kopa
+19. sarga
+20. yajana
+21. moha
+22. śrava
+23. bhavana
+24. nīti
+25. nartana
+26. jaya
+27. nayana
+28. śravaṇa
 
-**B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina (mündlich).**
+**B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina und überlegen Sie deren Bedeutung (mündlich).**
 
 **C) Setzen Sie als direktes Objekt im Singular und Plural ein:**
 - kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
@@ -289,7 +317,7 @@ Abb.: **likh** (लिख्) : Indischer Schreibgriffel aus Stahl und Schreibst
 9. बाला भवति |
 10. सारथी रथं नयति |
 11. कपयः फलानि खादन्ति |
-12. बाला लिखति |
+12. बाला लिखati |
 13. कुमारी गृहं विशति |
 14. देवो नागं सृजति |
 15. बालो गजं नयति |
