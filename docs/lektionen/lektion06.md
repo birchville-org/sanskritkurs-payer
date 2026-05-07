@@ -31,37 +31,34 @@ Wird der Agens (**kartṛ** m. = कर्तृ) in einem Verbalsatz genannt, d
 
 ## 6.2. Zur Bildung der Verbalformen
 
-::: grammar-box
-**Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sanskrit Folgendes aus:**
+Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sanskrit Folgendes aus:
 
-1. **Bedeutung** (artha m. अर्थ)
-2. **Person** und **Numerus** (Zahl, vacana n. = वचन) (ich, du, er <sie, es>, wir beide, ihr beide, sie beide, wir, ihr, sie)
-3. **Verhaltensweise** (genus verbi):
-   - **Parasmaipada** (n. = परस्मैपद) ("Wortform mit Bezug auf einen anderen"): Aktivum. z.B. **yajati** = यजति = "Er verehrt mit einem Opfer" (nämlich der Priester, der für jemanden anderen das Opfer vollzieht).
-   - **Ātmanepada** (n. = आत्मनेपद) ("Wortform mit Bezug auf sich selbst"): Medium. z.B. **yajate** = यजते = "Er verehrt mit einem Opfer im eigenen Interesse" (nämlich der Opferherr, der für sich und seine Familie opfert).
-   - **Passiv** (karman n. = कर्मन्). z.B. **ijyate** = इज्यते = "Es wird mit einem Opfer verehrt".
+1. **Bedeutung** (**artha** m. अर्थ)
+2. **Person** und **Numerus** (Zahl, **vacana** n. = वचन) (ich, du, er <sie, es>, wir beide, ihr beide, sie beide, wir, ihr, sie)
+3. Verhaltensweise (genus verbi):
+   1. **Parasmaipada** (n. = परस्मैपद) ("Wortform mit Bezug auf einen anderen"): Aktivum. z.B. **yajati** = यजति = "Er verehrt mit einem Opfer" (nämlich der Priester, der für jemanden anderen das Opfer vollzieht)
+   2. **Ātmanepada** (n. = आत्मनेपद) ("Wortform mit Bezug auf sich selbst"): Medium. z.B. **yajate** = यजते = "Er verehrt mit einem Opfer im eigenen Interesse" (nämlich der Opferherr, der für sich und seine Familie opfert)
+   3. **Passiv** (**karman** n. = कर्मन्). z.B. **ijyate** = इज्यते = "Es wird mit einem Opfer verehrt"
+
+   In vielen Fällen lässt sich die Bedeutungsnuance des Ātmanepada nicht mehr erkennen; auch verwenden selbst Kunstdichter oft das Ātmanepada ohne Bedeutungsunterschied zum Parasmaipada. Dennoch ist bei der Übersetzung immer genau zu beachten, ob nicht eine solche Bedeutungsnuance vorliegt.
+
+   Verben, die im Parasmaipada und Ātmanepada (in der spezifischen Ātmanepada-Bedeutung) verwendet werden, nennt man **Ubhayapada**-Verben (**ubhayapada** n. = उभयपद = "beide Wortformen").
+
+   Manche Verben werden entweder nur im Parasmaipada oder nur im Ātmanepada gebraucht. Bei diesen Verben hat das Ātmanepada bzw. Parasmaipada keine spezifische Bedeutung. z.B. **manyate** = मन्यते = "er (sie, es) denkt" (ohne spezifische Ātmanepadabedeutung).
+
 4. **Aussageweise** (Modus):
-   - **Indikativ**: Aussageform
-   - **Optativ**: Wunschform und Möglichkeitsform
-   - **Imperativ**: Befehlsform
+   1. **Indikativ**: Aussageform
+   2. **Optativ**: Wunschform und Möglichkeitsform
+   3. **Imperativ**: Befehlsform
 5. **Zeit** (Tempus):
-   - **Präsens**: Gegenwart
-   - **Imperfekt**
-   - **Perfekt**
-   - **Aorist**
-   - **Futur**: Zukunft
-   - **Konditional**
-:::
+   1. **Präsens**: Gegenwart
+   2. **Imperfekt**
+   3. **Perfekt**
+   4. **Aorist**
+   5. **Futur**: Zukunft
+   6. **Konditional**
 
-In vielen Fällen lässt sich die Bedeutungsnuance des Ātmanepada nicht mehr erkennen; auch verwenden selbst Kunstdichter oft das Ātmanepada ohne Bedeutungsunterschied zum Parasmaipada. Dennoch ist bei der Übersetzung immer genau zu beachten, ob nicht eine solche Bedeutungsnuance vorliegt.
-
-::: grammar-box
-Man spricht von **"Ubhayapada"** ("beide Wortformen"), wenn eine Wurzel sowohl im Parasmaipada als auch im Ātmanepada verwendet wird.
-:::
-
-Manche Verben werden entweder nur im Parasmaipada oder nur im Ātmanepada gebraucht. Bei diesen Verben hat das Ātmanepada bzw. Parasmaipada keine spezifische Bedeutung. z.B. **manyate** = मन्यते = "er (sie, es) denkt" (ohne spezifische Ātmanepadabedeutung).
-
-Die Zeiten werden von Tempusstämmen gebildet: Präsensstamm, Aoriststamm, Perfektstamm, Futurstamm.
+   Die Zeiten werden von Tempusstämmen gebildet: Präsensstamm, Aoriststamm, Perfektstamm, Futurstamm.
 
 ---
 
