@@ -57,11 +57,12 @@ html {
 /* Typografie */
 h1, h2, h3, h4, h5, h6, .VPHero .name, .VPHero .text, blockquote {
   font-family: "Source Serif 4", serif !important;
+  font-style: normal !important;
 }
 
 h2, h3 {
-  font-style: italic;
   font-weight: 500;
+  font-style: normal !important;
 }
 
 .VPNavBar, .VPSidebar, .VPNav, .VPDocFooter, .outline-link, .outline-title, .badge, .VPLink, .VPButton {
@@ -71,6 +72,18 @@ h2, h3 {
 .vp-doc p, .vp-doc li, .vp-doc table {
   font-size: 1.1rem;
   line-height: 1.7;
+}
+
+/* Lists Refinement */
+.vp-doc ul li, .vp-doc ol li {
+  margin-top: 0.35rem !important;
+  line-height: 1.6 !important;
+}
+
+.vp-doc ul ul li, .vp-doc ol ol li, .vp-doc ul ol li, .vp-doc ol ul li {
+  list-style-type: circle !important;
+  line-height: 1.4 !important;
+  margin-top: 0.1rem !important;
 }
 
 /* Tabellen */
@@ -132,6 +145,133 @@ h2, h3 {
   padding-left: 1.5rem;
   margin: 0.2rem 0;
   background-color: transparent;
+}
+
+/* Devanagari Scholarly Styling */
+.sanskrit-dev {
+  color: #b22222; /* Scholastic Red */
+  font-family: "Sanskrit2003", "ITR Vijay", serif;
+  font-size: 1.15em;
+  font-weight: 400;
+  margin: 0 0.2em; /* Spacing between language groups */
+}
+
+/* Custom Blocks (Grammar, Media, etc.) */
+.vp-doc .custom-block.grammar-box {
+  background-color: #fefce8 !important; /* Light yellow parity with original */
+  border: none !important;
+  border-left: 5px solid #eab308 !important; /* Golden Yellow */
+  margin: 1.5rem 0;
+  padding: 1.25rem;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.dark .vp-doc .custom-block.grammar-box {
+  background-color: #241500 !important; /* Tertiary 'Burnt Umber' background */
+  border-left-color: #eab308 !important;
+  color: rgba(252, 249, 242, 0.7) !important; /* Muted parchment text */
+}
+
+.vp-doc .custom-block.grammar-box .custom-block-title {
+  display: none; /* We handle titles manually or leave them blank */
+}
+
+/* Media & Image Alignment */
+.vp-doc .custom-block.media,
+.vp-doc .media {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  margin: 2.5rem 0 !important;
+  width: 100% !important;
+}
+
+.vp-doc img,
+.vp-doc .media img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-bottom: 0 !important; /* Force zero margin to close gap to caption */
+  max-width: 100% !important;
+  height: auto !important;
+  border-radius: 4px;
+}
+
+.vp-doc .custom-block.media p,
+.vp-doc .media p {
+  text-align: center !important;
+  width: 100% !important;
+  margin-top: 0 !important; /* Zero margin for absolute proximity */
+  margin-bottom: 0 !important; /* Added: Zero margin to collapse gap between image-p and caption-p */
+  line-height: 1.3 !important;
+  font-size: 0.95rem !important;
+  color: var(--vp-c-text-2) !important;
+  font-style: normal !important;
+}
+
+/* Center Container (for Prayers, etc.) */
+.vp-doc .center,
+.vp-doc .custom-block.center {
+  width: 100% !important;
+  text-align: center !important;
+  margin: 2.5rem 0 !important;
+  display: block !important;
+}
+
+.vp-doc .center p,
+.vp-doc .custom-block.center p {
+  text-align: center !important;
+  white-space: pre-line !important;
+  display: block !important;
+  width: 100% !important;
+  margin: 0 auto 1.5rem auto !important;
+}
+
+.vp-doc .custom-block.center .custom-block-title {
+  display: none;
+}
+
+/* Important Box (Violet with Traffic Sign) */
+.vp-doc .custom-block.important {
+  background-color: #f5f3ff !important; /* Light violet */
+  border: none !important;
+  border-left: 5px solid #8b5cf6 !important; /* Violet */
+  margin: 1.5rem 0;
+  padding: 1.25rem 1.25rem 1.25rem 4.5rem !important;
+  border-radius: 0 8px 8px 0;
+  position: relative;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.dark .vp-doc .custom-block.important {
+  background-color: #2e1065 !important; /* Deeper violet for dark mode */
+  border-left-color: #a78bfa !important;
+  color: rgba(252, 249, 242, 0.8) !important;
+}
+
+.vp-doc .custom-block.important::before {
+  content: "";
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2.8rem;
+  height: 2.8rem;
+  background-image: url('/images/lekt1001.jpg');
+  background-color: #f5f3ff;
+  background-blend-mode: multiply;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.dark .vp-doc .custom-block.important::before {
+  background-color: #2e1065;
+}
+
+.vp-doc .custom-block.important .custom-block-title {
+  display: none;
 }
 
 /* Verstecke INFO-Block auf Einzelseiten */

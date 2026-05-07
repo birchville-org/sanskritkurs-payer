@@ -1,41 +1,42 @@
 ---
-title: "Lektion 3"
-subtitle: "Nominativ Singular (Fortsetzung) und Nominativ Plural"
 lesson_id: 3
-category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+last_reconstructed: 2026-05-07
 ---
 
-# Lektion 3
+# 3. Lektion 3
 
-::: info Zitierweise & Rechte
-Dieses Kapitel ist Teil des Sanskritkurses von Alois Payer. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+::: info
+**In dieser Lektion lernen Sie:**
+- den Nominativ Singular des Femininums
+- den Nominativ Plural des Maskulinums und Femininums
+- die Bildung des Femininums zu Maskulina
+- Vokalsandhi
+- Satzsandhi von -ās
 :::
 
-## 3.1. Nominativ Singular (Fortsetzung)
+## 3.1. Nominativ Singular des Femininums
 
-**prathamā ekavacanam = <span class="sanskrit-dev">प्रथमा एकवचनम्</span>**
+### 3.1.1. Nominativ Singular auf -s
 
-**3.1.1. Nominativ Singular auf -s (Fortsetzung)**
-
-::: grammar-box
 Auch folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
 
-- **Feminina auf -i**: z.B. _śruti_ f. "das Hören" -- Nom. sg.: _śrutis_ = <span class="sanskrit-dev">श्रुतिस्</span>
-- **Feminina auf -u**: z.B. _dhenu_ f. "Milchkuh" -- Nom. sg.: _dhenus_ = <span class="sanskrit-dev">धेनुस्</span>
+::: grammar-box
+- **Feminina auf -i**: z.B. **śruti** f. "das Hören" -- Nom. sg.: **śrutis** = श्रुतिस्
+- **Feminina auf -u**: z.B. **dhenu** f. "Milchkuh" -- Nom. sg.: **dhenus** = धेनुस्
 :::
 
-**3.1.2. Nominativ Singular ohne Endung**
+### 3.1.2. Nominativ Singular ohne Endung
 
-::: grammar-box
 Den Nominativ Singular bilden ohne Endung:
 
-- **Feminina auf -ā**: z.B. _devatā_ f. "Gottheit" -- Nom. sg.: _devatā_ = <span class="sanskrit-dev">देवता</span>
-- **Feminina auf -ī**: z.B. _devī_ f. "Göttin" -- Nom. sg.: _devī_ = <span class="sanskrit-dev">देवी</span>
+::: grammar-box
+- **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = देवता
+- **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = देवी
 :::
 
-**Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf _-ī_, deren Nominativ Singular auf _-s_ endet: z.B. _dhī_ f. "Gedanke" -- Nom. sg.: _dhīs_ = <span class="sanskrit-dev">धीस्</span>. Auch _lakṣmī_ (<span class="sanskrit-dev">लक्ष्मी</span>) f., _tarī_ (<span class="sanskrit-dev">तरी</span>) f. "Boot" und _tantrī_ (<span class="sanskrit-dev">तन्त्री</span>) f. "Saite" bilden unregelmäßig den Nominativ Singular auf _-s_: _lakṣmīs_ = <span class="sanskrit-dev">लक्ष्मीस्</span>.
+::: important
+**Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = धीस्. Auch lakṣmī (लक्ष्मी) f., tarī (तरी) f. "Boot" und tantrī (तन्त्री) f. "Saite" bilden unregelmäßig den Nominativ Singular auf -s: lakṣmīs = लक्ष्मीस्.
+:::
 
 ---
 
@@ -43,144 +44,207 @@ Den Nominativ Singular bilden ohne Endung:
 
 ::: grammar-box
 **Maskulina auf -a:**
-- **Femininum auf -ā**: z.B. _kṣatriya_ m. » _kṣatriyā_ f. "Kṣatriyafrau" = <span class="sanskrit-dev">क्षत्रिया</span>
-- **Femininum auf -ī**: z.B. _brāhmaṇa_ m. » _brāhmaṇī_ f. "Brahmanin" = <span class="sanskrit-dev">ब्राह्मणी</span>
+- **Femininum auf -ā**: z.B. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriyafrau" = क्षत्रिया
+- **Femininum auf -ī**: z.B. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ब्राह्मणी
 
 **Maskulina auf -u:**
-- **Femininum auf -ī**: z.B. _sādhu_ m. » _sādhvī_ f. (gut, Heilige) = <span class="sanskrit-dev">साध्वी</span>
-  (_-u-_ wird vor Vokal zu _-v-_, daher _-u- + -ī_ » _-vī_)
+- **Femininum auf -ī**: z.B. **sādhu** m. » **sādhvī** f. (gut, Heilige) = साध्वी
+  (**-u-** wird vor Vokal zu **-v-**, daher **-u- + -ī** » **-vī**)
 :::
 
 ---
 
-## 3.3. Nominativ Plural
-
-**prathamā bahuvacanam = <span class="sanskrit-dev">प्रथमा बहुवचनम्</span>**
+## 3.3. Nominativ Plural Maskulinum und Femininum
 
 ::: grammar-box
 Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**.
 
-- **Maskulina auf -a**: _deva- + -as_ » _devās_ = <span class="sanskrit-dev">देवास्</span>
-- **Feminina auf -ā**: _devatā- + -as_ » _devatās_ = <span class="sanskrit-dev">देवतास्</span>
-- **Maskulina auf -i**: _kavi-_ » _kave- + -as_ » _kavayas_ = <span class="sanskrit-dev">कवयस्</span>
-- **Feminina auf -i**: _śruti-_ » _śrute- + -as_ » _śrutayas_ = <span class="sanskrit-dev">श्रुतयस्</span>
-- **Feminina auf -ī**: _devī- + -as_ » _devyas_ = <span class="sanskrit-dev">देव्यस्</span>
-- **Maskulina auf -u**: _guru-_ » _guro- + -as_ » _guravas_ = <span class="sanskrit-dev">गुरवस्</span>
-- **Feminina auf -u**: _dhenu-_ » _dheno- + -as_ » _dhenavas_ = <span class="sanskrit-dev">धेनवस्</span>
+- **Maskulina auf -a**: **deva- + -as** » **devās** = देवास्
+- **Feminina auf -ā**: **devatā- + -as** » **devatās** = देवतास्
+- **Maskulina auf -i**: **kavi-** » **kave- + -as** » **kavayas** = कवयस्
+- **Feminina auf -i**: **śruti-** » **śrute- + -as** » **śrutayas** = श्रutayas
+- **Feminina auf -ī**: **devī- + -as** » **devyas** = देव्यस्
+- **Maskulina auf -u**: **guru-** » **guro- + -as** » **guravas** = गुरवस्
+- **Feminina auf -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्
 :::
 
-_Anmerkung:_ _e_ ist Hochstufe (_guṇa_) zu _i_, _o_ ist Hochstufe zu _u_.
+Anmerkung: **e** ist Hochstufe (**guṇa**) zu **i**, **o** ist Hochstufe zu **u**.
 
 ---
 
 ## 3.4. Vokalsandhi
 
 ::: grammar-box
-Einfache Vokale gleicher Art verschmelzen zum entsprechenden langen Vokal:
-- _-a / -ā + a- / ā-_ » **-ā-**
-- _-i / -ī + i- / ī-_ » **-ī-**
-- _-u / -ū + u- / ū-_ » **-ū-**
+**Einfache Vokale, die sich nicht oder nur in ihrer Länge unterscheiden, "verschmelzen" zum entsprechenden langen Vokal:**
+- -a / -ā + a- / ā- » **-ā-**
+- -i / -ī + i- / ī- » **-ī-**
+- -u / -ū + u- / ū- » **-ū-**
+- (-ṛ + ṛ- » **-ṝ-**)
 :::
 
-Beispiele:
-- _devatā + annapūrṇā_ » _devatānnapūrṇā_ = <span class="sanskrit-dev">देवतान्नपूर्णा</span> ("Annapūrṇā ist eine Gottheit")
-- _devī + indrāṇī_ » _devīndrāṇī_ = <span class="sanskrit-dev">देवीन्द्राणी</span> ("Indrāṇī ist eine Göttin")
+z.B.
 
-<div align="center">
-  <img src="/images/lekt0301.jpg" alt="Indra und Indrāṇī">
-  <p>Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80. [Bildquelle: Wikipedia, Public domain]</p>
-</div>
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = देवतान्नपूर्णा
+
+> (Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.)
+
+devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = देवीन्द्राणी
+
+> (Indrāṇī ist die Gattin des Gottes Indra.)
+
+::: media
+![](/images/lekt0301.jpg)
+Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80
+(Bildquelle: [Details](/licenses#lekt0301))
+:::
 
 ::: grammar-box
-Einfache Vokale (außer _-a / -ā_) werden vor unähnlichen Vokalen durch den Halbvokal ersetzt:
-- _-i / -ī_ » **-y-**
-- _-u / -ū_ » **-v-**
-- _-ṛ_ » **-r-**
+**Einfache Vokale (außer -a / -ā) werden vor unähnlichen Vokalen durch den entsprechenden Halbvokal ersetzt:**
+- -i / -ī » **-y-**
+- -u / -ū » **-v-**
+- -ṛ » **-r-**
+(!! Zu dieser Regel gibt es insbesondere für Dualformen Ausnahmen !!)
 :::
 
-Beispiel: _devī + umā_ » _devy umā_ = <span class="sanskrit-dev">देव्युमा</span> ("Umā ist eine Göttin")
+z.B.
+
+devī + umā » devy umā "Umā ist eine / die Göttin" = देव्युमा
+
+> (Umā ist ein Name für Pārvatī, die Gattin Śivas)
 
 ::: grammar-box
 **-a / -ā vor unähnlichem Vokal:**
-- _-a / -ā + i- / ī-_ » **-e-**
-- _-a / -ā + ṛ-_ » **-ar-**
-- _-a / -ā + e- / ai-_ » **-ai-**
-- _-a / -ā + o- / au-_ » **-au-**
+- -a / -ā + i- / ī- » **-e-**
+- -a / -ā + ṛ- » **-ar-**
+- -a / -ā + e- / ai- » **-ai-**
+- -a / -ā + o- / au- » **-au-**
 :::
 
-Schema der Stammabstufung:
-<div align="center">
-  <img src="/images/lekt0302.jpg" alt="Vokalsandhi Schema">
-</div>
+Für diesen Sandhi gilt also folgendes Schema:
+
+::: media
+![](/images/lekt0302.jpg)
+(Bildquelle: [Details](/licenses#lekt0302))
+:::
+
+Zu dieser sog. Stammabstufung siehe später!
+
+z.B.
+
+śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = शूद्रेतरा
 
 ---
 
 ## 3.5. Satzsandhi von -ās
 
 ::: grammar-box
-**-ās** wird vor allen stimmhaften Lauten durch **-ā** ersetzt.
+**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
 
-Beispiel: _dvijās + vaiśyāḥ_ » _dvijā vaiśyāḥ_ = <span class="sanskrit-dev">द्विजा वैश्याः</span> ("Vaiśyas sind Zweimalgeborene")
+z.B.
+
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = द्विजा वैश्याः
 
 ---
 
 ## 3.6. Wortliste
 
-**śruti** f. = <span class="sanskrit-dev">श्रुति</span> : das Hören, die ewige Überlieferung (Veden).
+**śruti** f. = श्रुति : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
 
-**smṛti** f. = <span class="sanskrit-dev">स्मृति</span> : Erinnerung, Überlieferung (Gegenbegriff zu _śruti_). Umfasst:
-- die sechs **vedāṅga** (<span class="sanskrit-dev">वेदाङ्ग</span>):
-  1. _śikṣā_ (<span class="sanskrit-dev">शिक्षा</span>): Aussprache
-  2. _chandas_ (<span class="sanskrit-dev">छन्दस्</span>): Metrum
-  3. _vyākaraṇa_ (<span class="sanskrit-dev">व्याकरण</span>): Grammatik
-  4. _nirukta_ (<span class="sanskrit-dev">निरुक्त</span>): Etymologie
-  5. _jyotiṣa_ (<span class="sanskrit-dev">ज्योतिष</span>): Astronomie
-  6. _kalpa_ (<span class="sanskrit-dev">कल्प</span>): Zeremoniell
-- Epen: _Mahābhārata_ (<span class="sanskrit-dev">महाभारत</span>) und _Rāmāyaṇa_ (<span class="sanskrit-dev">रामायण</span>).
+**smṛti** f. = स्मृति : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst:
+- die sechs **vedāṅga** n. (वेदाङ्ग)
+  1. **śikṣā** f. (शिक्षा): rechte Aussprache
+  2. **chandas** n. (छन्दस्): Metrum
+  3. **vyākaraṇa** n. (व्याकरण): Grammatik
+  4. **nirukta** n. (निरुक्त) : Worterklärung, Etymologie
+  5. **jyotiṣa** n. (ज्योतिष) : Astronomie, Kalenderlehre
+  6. **kalpa** m. (कल्प) : Zeremoniell
+- **śrautasūtra** n. (श्रौतसूत्र) : Lehrwerke für den Vollzug der großen Opfer
+- **gṛhyasūtra** n. (गृह्यसूत्र) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
+- **dharmasūtra** n. (धर्मसूत्र) und **dharmaśāstra** n. (धर्मशास्त्र) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
+- die großen Epen **mahābhārata** n. (महाभारत) und **rāmāyaṇa** n. (रामायण)
+- die **purāṇa** n. (पुराण)
+- **nītiśāstra** n. (नीतिशास्त्र) : Lehrwerke der Lebensklugheit
 
-**dhenu** f. = <span class="sanskrit-dev">धेनु</span> : (Milch-)kuh.
+**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke.
 
-**paśu** m. = <span class="sanskrit-dev">पशु</span> : Nutztier, Vieh.
+**dhenu** f. = धेनु : (Milch-)kuh.
 
-**devatā** f. = <span class="sanskrit-dev">देवता</span> : Gottheit.
+**paśu** m. = पशु : domestiziertes Nutztier, Vieh (Kollektivum).
 
-**devī** f. = <span class="sanskrit-dev">देवी</span> : Göttin, insbes. Durgā (<span class="sanskrit-dev">दुर्गा</span>).
+**devatā** f. = देवता : Gottheit (abstrakt und konkret).
 
-<div align="center">
-  <img src="/images/lekt0303.jpg" alt="Durgā">
-  <p>Abb.: Durgā (<span class="sanskrit-dev">दुर्गा</span>), Orissa. [Bildquelle: Wikipedia, GNU FDL]</p>
-</div>
+**brāhmaṇī** f. = ब्राह्मणी : Brahmanin.
 
-**asmitā** f. = <span class="sanskrit-dev">अस्मिता</span> : "Ich-bin-heit".
+**kṣatriyā** f. = क्षत्रिया : weibliche Kṣatriya.
 
-**ānvīkṣikī** f. = <span class="sanskrit-dev">आन्वीक्षिकी</span> : Philosophie (Logik).
+**kṣatriyī** f. = क्षत्रियी : Frau eines Kṣatriya.
 
-**upekṣā** f. = <span class="sanskrit-dev">उपेक्षा</span> : Gleichmut.
+**vaiśyā** f. = वैश्या : weibliche Vaiśya.
 
-**karuṇā** f. = <span class="sanskrit-dev">करुणा</span> : Mitgefühl.
+**śūdrā** f. = शूद्रा : weibliche Śūdra.
 
-**muditā** f. = <span class="sanskrit-dev">मुदिता</span> : Mitfreude.
+**śūdrī** f. / **śūdrāṇī** f. = शूद्री शूद्राणी : Frau eines Śūdra.
+
+**devī** f. = देवी : Göttin, insbes. Durgā f. = दुर्गा, die Gattin Śiva's = शिव.
+
+::: media
+![](/images/lekt0303.jpg)
+Abb.: Durgā = दुर्गा, Orissa
+(Bildquelle: [Details](/images/lekt0303))
+:::
+
+**sādhvī** f. = साध्वी : fem. zu sādhu.
+
+**gurvī** f. = गुर्वी : fem. zu guru.
+
+**asmitā** f. = अस्मिता : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw.
+
+**ānvīkṣikī** f. = आन्वीक्षिकी : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt).
+
+**upekṣā** f. = उपेक्षा : Nichtbeachtung, Gleichmut.
+
+**karuṇā** f. = करुणा : Mitgefühl, Mitleid.
+
+**muditā** f. = मुदिता : Freude, insbesondere Mitfreude (Gegensatz zu Neid).
 
 ---
 
 ## 3.7. Übung
 
-**A) Setzen Sie in den Plural:**
-1. _dvijo brāhmaṇaḥ_ = <span class="sanskrit-dev">द्विजो ब्राह्मणः</span>
-2. _sādhur guruḥ_ = <span class="sanskrit-dev">साधुर्गुरुः</span>
-3. _paśur dhenuḥ_ = <span class="sanskrit-dev">पशुर्धेनुः</span>
+**A) Setzen Sie folgende Sätze in den Plural:**
 
-**B) Bilden Sie Nominalsätze:**
-1. _śrutis ... (veda)_ = <span class="sanskrit-dev">श्रुतिस् ... वेद</span>
-2. _devī ... (durgā, umā)_ = <span class="sanskrit-dev">देवी ... दुर्गा, उमा</span>
+1. dvijo brāhmaṇaḥ = द्विजो ब्राह्मणः
+2. dvijaḥ kṣatriyaḥ = द्विजः क्षत्रियः
+3. dvijo vaiśyaḥ = द्विजो वैश्यः
+4. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
+5. sādhur guruḥ = साधुर्गुरुः
+6. guruḥ kaviḥ = गुरुः कविः
+7. sādhvī brāhmaṇī = साध्वी ब्राह्मणी
+8. devatā guruḥ = देवता गुरुः
+9. paśur dhenuḥ = पशुर्धेनुः
+10. gurvī sādhvī = गुर्वी साध्वी
+
+**B) Bilden Sie durch Einsetzen Nominalsätze:**
+
+1. śrutis ... (veda) = श्रुतिस् ... वेद
+2. paśus ... (dhenu) = पशुस् ... धेनु
+3. devī ... (durgā, umā, indrāṇī) = देवी ... दुर्गा, उमा, इन्द्राणी
+4. devatā ... (mīnākṣī, annapūrṇā) = देवता ... मीनाक्षी, अन्नपूर्णा
+5. śūdrā ... (itarā) = शूद्रा ... इतरा
 
 **C) Übertragen Sie ins Femininum:**
-1. _gurur brāhmaṇaḥ_ = <span class="sanskrit-dev">गुरुर्ब्राह्मणः</span>
-2. _sādhur guruḥ_ = <span class="sanskrit-dev">साधुर्गुरुः</span>
+
+1. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
+2. sādhur guruḥ = साधुर्गुरुः
+3. kṣatriyaḥ sādhuḥ = क्षत्रियः साधुः
 
 **D) Übersetzen Sie ins Sanskrit:**
+
 1. Umā ist eine Göttin.
-2. Der Veda ist _śruti_.
-3. Dichter sind Lehrer.
-4. Kṣatriyas sind Zweimalgeborene.
+2. Der Veda ist śruti.
+3. Die Lehrerinnen sind Göttinnen.
+4. Milchkühe sind domestizierte Tiere.
+5. Dichter sind Lehrer.
+6. Kṣatriyas sind Zweimalgeborene.
+7. Die heiligen Männer sind Śūdras.

@@ -18,7 +18,7 @@ Dieses Kapitel ist Teil des Sanskritkurses von Alois Payer. Details zum Copyrigh
 ::: grammar-box
 **Schema: Prädikatsnomen - Subjekt**
 
-z.B. **devo viṣṇuḥ** = देवो विष्णुः = "Viṣṇu ist ein Gott."
+z.B. devo viṣṇuḥ = देवो विष्णुः = "Viṣṇu ist ein Gott."
 :::
 
 Eine verbale Kopula ("ist", "sind", "bin", "bist", "seid") ist nicht nötig, kann aber manchmal vorkommen.
@@ -62,7 +62,7 @@ In Sanskritwörterbüchern werden Nomina im **Nominalstamm** angeführt:
 **Nominativ Singular = prathamā ekavacanam = प्रथमा एकवचनम्**
 
 ::: grammar-box
-Der Nominativ Singular endet auf **-s = -स्** bzw. ist endungsfrei.
+**Der Nominativ Singular endet auf -s = -स् bzw. ist endungsfrei.**
 :::
 
 **2.3.1. Nominativ Singular auf -s**
@@ -70,9 +70,9 @@ Der Nominativ Singular endet auf **-s = -स्** bzw. ist endungsfrei.
 Folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
 
 ::: grammar-box
-- **Maskulina auf -a**: z.B. **deva** m. = देव "Gott" -- Nom. sg.: **devas** = देवस्
-- **Maskulina auf -i**: z.B. **kavi** m. = कवि "Dichter" -- Nom. sg.: **kavis** = कविस्
-- **Maskulina auf -u**: z.B. **guru** m. = गुरु "Lehrer" -- Nom. sg.: **gurus** = गुरुस्
+**Maskulina auf -a:** z.B. deva m. = देव "Gott" -- Nom. sg.: devas = देवस्
+**Maskulina auf -i:** z.B. kavi m. = कवि "Dichter" -- Nom. sg.: kavis = कविस्
+**Maskulina auf -u:** z.B. guru m. = गुरु "Lehrer" -- Nom. sg.: gurus = गुरुस्
 :::
 
 ---
