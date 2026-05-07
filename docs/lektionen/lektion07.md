@@ -50,7 +50,7 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 
 ---
 
-## 7.2. Der Akkusativ (Wenfall, dvitīyā f. = द्वितीया)
+## 7.2. Der Akkusativ (Wenfall, dvitīyā f. = द्वितीया = "zweite Kasusendung")
 
 ::: grammar-box
 **Endung des Akkusativ Singular Maskulinum und Femininum nach Vokal: -m**
