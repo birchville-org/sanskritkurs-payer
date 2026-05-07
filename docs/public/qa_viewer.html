@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sanskrit Course - Side-by-Side QA Viewer</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap');
+        
+        * { box-sizing: border-box; }
+        
+        :root { 
+            --color-ink: #03192e; 
+            --color-slate: #48626e; 
+            --color-parchment: #fcf9f2; 
+            --color-parchment-dark: #f1eee7;
+            --color-gold: #eab308;
+        }
+        
+        body, html { 
+            margin: 0; 
+            padding: 0; 
+            height: 100vh; 
+            width: 100vw;
+            overflow: hidden; 
+            font-family: 'Inter', sans-serif; 
+            background: var(--color-parchment); 
+            color: var(--color-ink); 
+        }
+        
+        .header { 
+            height: 70px; 
+            background: var(--color-ink); 
+            color: white; 
+            display: flex; 
+            align-items: center; 
+            justify-content: space-between; 
+            padding: 0 40px; 
+            font-weight: 600; 
+            z-index: 100; 
+            position: relative; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        
+        .controls-group {
+            display: flex;
+            align-items: center;
+            gap: 25px;
+        }
+        
+        .group-left { flex: 1; justify-content: flex-start; }
+        .group-center { flex: 0 0 auto; justify-content: center; gap: 15px; }
+        .group-right { flex: 1; justify-content: flex-end; }
+
+        .btn-group {
+            display: flex;
+            background: var(--color-slate);
+            padding: 4px;
+            border-radius: 10px;
+            gap: 4px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .control-btn {
+            padding: 6px 16px;
+            border-radius: 7px;
+            cursor: pointer;
+            font-size: 11px;
+            text-transform: uppercase;
+            transition: all 0.2s;
+            border: none;
+            color: rgba(255,255,255,0.7);
+            background: transparent;
+            font-weight: 600;
+            letter-spacing: 0.03em;
+        }
+        
+        .control-btn.active {
+            background: var(--color-parchment);
+            color: var(--color-ink);
+            box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+        }
+        
+        .control-btn:hover:not(.active) {
+            color: white;
+            background: rgba(255,255,255,0.15);
+        }
+        
+        select, input { 
+            padding: 8px 14px; 
+            border-radius: 6px; 
+            border: none; 
+            font-family: 'Inter', sans-serif; 
+            background: var(--color-parchment); 
+            color: var(--color-ink); 
+            font-weight: 600;
+            box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+            outline: none;
+        }
+        
+        select:focus, input:focus {
+            box-shadow: 0 0 0 2px var(--color-gold);
+        }
+
+        .container { 
+            display: flex; 
+            height: calc(100vh - 70px); 
+            width: 100vw; 
+            position: relative; 
+            background: var(--color-parchment-dark);
+        }
+        
+        .pane { 
+            height: 100%; 
+            overflow: hidden; 
+            position: relative; 
+            background: white; 
+            display: flex;
+            flex-direction: column;
+        }
+        
+        #left-pane { width: 50%; }
+        #right-pane { flex: 1; }
+        
+        iframe { 
+            width: 100%; 
+            height: 100%; 
+            flex-grow: 1;
+            border: none; 
+            background: white; 
+            display: block; 
+        }
+
+        .raw-viewer {
+            display: none;
+            flex-grow: 1;
+            margin: 0;
+            padding: 30px;
+            background: var(--color-parchment);
+            color: var(--color-ink);
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 14px;
+            line-height: 1.5;
+            overflow: auto;
+            white-space: pre-wrap;
+            border: none;
+            width: 100%;
+            height: 100%;
+            resize: none;
+            outline: none;
+        }
+        
+        .resizer { 
+            width: 8px; 
+            height: 100%;
+            background: var(--color-slate); 
+            cursor: col-resize; 
+            z-index: 10; 
+            transition: background 0.3s; 
+            flex-shrink: 0;
+        }
+        .resizer:hover { background: var(--color-gold); }
+        .dragging iframe { pointer-events: none; }
+        
+        .lesson-label { font-size: 11px; opacity: 0.7; text-transform: uppercase; letter-spacing: 0.05em; margin-right: -15px; }
+        
+        .home-link {
+            color: white; 
+            text-decoration: none; 
+            font-size: 20px;
+            transition: transform 0.2s;
+            display: inline-block;
+        }
+        .home-link:hover { transform: scale(1.1); }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="controls-group group-left">
+            <a href="/" class="home-link" title="Home">🏛️</a>
+            <select id="left-lang" onchange="updateFrames()">
+                <option value="qa/lektion01.html" selected>Original HTML</option>
+                <option value="lektionen/lektion01">Deutsch (DE)</option>
+                <option value="en/lektionen/lektion01">English (EN)</option>
+                <option value="it/lektionen/lektion01">Italiano (IT)</option>
+                <option value="es/lektionen/lektion01">Español (ES)</option>
+                <option value="bg/lektionen/lektion01">Bulgarisch (BG)</option>
+                <option value="uk/lektionen/lektion01">Ukrainisch (UK)</option>
+                <option value="ru/lektionen/lektion01">Russisch (RU)</option>
+                <option value="lektionen/wortliste">Wortliste (DE)</option>
+            </select>
+        </div>
+
+        <div class="controls-group group-center">
+            <div class="btn-group" id="sync-controls">
+                <button class="control-btn active" onclick="setSyncMode('header')" id="btn-header">Sync Titel</button>
+                <button class="control-btn" onclick="setSyncMode('pct')" id="btn-pct">Sync %</button>
+                <button class="control-btn" onclick="setSyncMode('off')" id="btn-off">Sync OFF</button>
+            </div>
+            <div class="btn-group" id="view-controls">
+                <button class="control-btn active" onclick="setViewMode('rendered')" id="btn-rendered">Rendered</button>
+                <button class="control-btn" onclick="setViewMode('raw')" id="btn-raw">Raw Source</button>
+            </div>
+        </div>
+
+        <div class="controls-group group-right">
+            <select id="right-lang" onchange="updateFrames()">
+                <option value="qa/lektion01.html">Original HTML</option>
+                <option value="lektionen/lektion01" selected>Deutsch (DE)</option>
+                <option value="en/lektionen/lektion01">English (EN)</option>
+                <option value="it/lektionen/lektion01">Italiano (IT)</option>
+                <option value="es/lektionen/lektion01">Español (ES)</option>
+                <option value="bg/lektionen/lektion01">Bulgarisch (BG)</option>
+                <option value="uk/lektionen/lektion01">Ukrainisch (UK)</option>
+                <option value="ru/lektionen/lektion01">Russisch (RU)</option>
+                <option value="lektionen/wortliste">Wortliste (DE)</option>
+            </select>
+            <span class="lesson-label">Lektion</span>
+            <input type="number" id="lesson-num" value="1" min="1" max="61" style="width: 55px;" onchange="updateLesson()">
+        </div>
+    </div>
+    <div class="container" id="main-container">
+        <div class="pane" id="left-pane">
+            <iframe id="left-frame" src="about:blank"></iframe>
+            <pre id="left-raw" class="raw-viewer"></pre>
+        </div>
+        <div class="resizer" id="drag-bar"></div>
+        <div class="pane" id="right-pane">
+            <iframe id="right-frame" src="about:blank"></iframe>
+            <pre id="right-raw" class="raw-viewer"></pre>
+        </div>
+    </div>
+
+    <script>
+        const baseUrl = window.location.origin + "/";
+        const leftFrame = document.getElementById('left-frame');
+        const rightFrame = document.getElementById('right-frame');
+        const leftRaw = document.getElementById('left-raw');
+        const rightRaw = document.getElementById('right-raw');
+        const lessonInput = document.getElementById('lesson-num');
+        const leftPane = document.getElementById('left-pane');
+        const container = document.getElementById('main-container');
+        const dragBar = document.getElementById('drag-bar');
+
+        let masterSource = null;
+        let syncMode = 'header'; 
+        let viewMode = 'rendered';
+        let isSyncing = false;
+
+        // --- Mouse Tracking ---
+        document.getElementById('left-pane').onmouseenter = () => { masterSource = 'left'; };
+        document.getElementById('right-pane').onmouseenter = () => { masterSource = 'right'; };
+
+        // --- Sync Mode Control ---
+        function setSyncMode(mode) {
+            syncMode = mode;
+            document.querySelectorAll('#sync-controls .control-btn').forEach(btn => btn.classList.remove('active'));
+            document.getElementById('btn-' + mode).classList.add('active');
+        }
+
+        // --- View Mode Control ---
+        function setViewMode(mode) {
+            viewMode = mode;
+            document.querySelectorAll('#view-controls .control-btn').forEach(btn => btn.classList.remove('active'));
+            document.getElementById('btn-' + mode).classList.add('active');
+            updateFrames();
+        }
+
+        // --- Header Sync Logic ---
+        function scrollToMatch(targetWin, searchText) {
+            if (!searchText || isSyncing || viewMode === 'raw') return;
+            isSyncing = true;
+            
+            try {
+                const doc = targetWin.document;
+                const headers = Array.from(doc.querySelectorAll('h1, h2, h3, h4, b, .grammar-box strong, strong, .custom-block.media p'));
+                
+                const clean = (t) => t.toLowerCase()
+                                      .replace(/^\d+(\.\d+)*\.\s*/, '') 
+                                      .replace(/[\s\W_]/gu, '');       
+
+                const searchClean = clean(searchText);
+                if (searchClean.length < 3) { isSyncing = false; return; }
+
+                let bestMatch = null;
+                for (const h of headers) {
+                    const hText = h.innerText.trim();
+                    if (!hText) continue;
+                    const hClean = clean(hText);
+                    if (hClean && (hClean.includes(searchClean) || searchClean.includes(hClean))) {
+                        bestMatch = h;
+                        break;
+                    }
+                }
+
+                if (bestMatch) {
+                    const rect = bestMatch.getBoundingClientRect();
+                    // If the header is already effectively at the top (within 30px), don't jump.
+                    if (Math.abs(rect.top) < 30) {
+                        isSyncing = false;
+                        return;
+                    }
+                    bestMatch.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            } catch (e) {
+                console.error("Sync error", e);
+            } finally {
+                // Longer lockout to allow smooth scroll animation to finish
+                setTimeout(() => { isSyncing = false; }, 800);
+            }
+        }
+
+        let lastSyncedHeader = null;
+
+        // --- PostMessage Listener ---
+        window.addEventListener('message', (e) => {
+            if (syncMode === 'off' || viewMode === 'raw') return;
+            
+            // Allow child to claim mastery on interaction
+            if (e.data.type === 'claimMaster') {
+                masterSource = e.data.id || ((e.source === leftFrame.contentWindow) ? 'left' : 'right');
+                return;
+            }
+
+            if (e.data.type === 'scroll' || e.data.type === 'clickSync') {
+                const sender = e.data.id || ((e.source === leftFrame.contentWindow) ? 'left' : (e.source === rightFrame.contentWindow ? 'right' : null));
+                if (!sender || isSyncing) return;
+                
+                if (sender === masterSource || e.data.type === 'clickSync') {
+                    const target = (sender === 'left') ? rightFrame : leftFrame;
+                    
+                    if (syncMode === 'pct' && e.data.pct !== undefined) {
+                        target.contentWindow.postMessage({ type: 'setScroll', pct: e.data.pct }, '*');
+                    } else if (e.data.activeHeader) {
+                        // Prevent jumping to the same header repeatedly
+                        if (e.data.activeHeader === lastSyncedHeader && e.data.type !== 'clickSync') return;
+                        lastSyncedHeader = e.data.activeHeader;
+                        scrollToMatch(target.contentWindow, e.data.activeHeader);
+                    }
+                }
+            }
+        });
+
+        // --- Resizer ---
+        let isDragging = false;
+        dragBar.addEventListener('mousedown', () => { isDragging = true; document.body.classList.add('dragging'); });
+        document.addEventListener('mousemove', (e) => {
+            if (!isDragging) return;
+            const pct = (e.clientX / container.offsetWidth) * 100;
+            if (pct > 5 && pct < 95) leftPane.style.width = pct + '%';
+        });
+        document.addEventListener('mouseup', () => { isDragging = false; document.body.classList.remove('dragging'); });
+
+        const noEquivalentMsg = 'data:text/html;charset=utf-8,' + encodeURIComponent('<body style="font-family:sans-serif; background:#fcf9f2; display:flex; align-items:center; justify-content:center; height:100vh; margin:0; color:#48626e;"><div style="text-align:center;"><p style="font-size:1.2rem; font-weight:600;">Keine Entsprechung im Original</p><p style="font-size:0.9rem;">Die Wortliste ist eine konsolidierte Ressource.</p></div></body>');
+
+        async function fetchRaw(url, targetPre, targetIframe) {
+            let fetchUrl = url;
+            
+            // If it's a rendered VitePress page without extension, assume .md source
+            if (url.includes('lektionen') && !url.includes('qa/') && !url.endsWith('.md') && !url.endsWith('.html')) {
+                fetchUrl = url + '.md';
+            }
+            
+            try {
+                const response = await fetch(fetchUrl);
+                if (response.ok) {
+                    const text = await response.text();
+                    targetPre.textContent = text;
+                    targetPre.style.display = 'block';
+                    targetIframe.style.display = 'none';
+                } else {
+                    throw new Error('Not found');
+                }
+            } catch (e) {
+                targetPre.textContent = "Raw source not available for: " + fetchUrl;
+                targetPre.style.display = 'block';
+                targetIframe.style.display = 'none';
+            }
+        }
+
+        function updateFrames() {
+            const num = lessonInput.value.padStart(2, '0');
+            const leftVal = document.getElementById('left-lang').value;
+            const rightVal = document.getElementById('right-lang').value;
+
+            let lUrl = leftVal.includes('lektion') ? baseUrl + leftVal.replace(/lektion\d+/, 'lektion' + num) : baseUrl + leftVal;
+            let rUrl = rightVal.includes('lektion') ? baseUrl + rightVal.replace(/lektion\d+/, 'lektion' + num) : baseUrl + rightVal;
+
+            if (rUrl.includes('wortliste')) lUrl = noEquivalentMsg;
+
+            if (viewMode === 'raw') {
+                fetchRaw(lUrl, leftRaw, leftFrame);
+                fetchRaw(rUrl, rightRaw, rightFrame);
+            } else {
+                leftRaw.style.display = 'none';
+                rightRaw.style.display = 'none';
+                leftFrame.style.display = 'block';
+                rightFrame.style.display = 'block';
+                
+                if (leftFrame.src !== lUrl) leftFrame.src = lUrl;
+                if (rightFrame.src !== rUrl) rightFrame.src = rUrl;
+            }
+        }
+
+        function injectSync(frame) {
+            try {
+                const win = frame.contentWindow;
+                const doc = win.document;
+                if (!doc || !doc.body) return;
+                
+                if (doc.getElementById('pro-sync-script')) return;
+
+                const script = doc.createElement('script');
+                script.id = 'pro-sync-script';
+                script.textContent = `
+                        // Claim mastery on user interaction
+                        const claimMaster = () => window.parent.postMessage({ type: 'claimMaster', id: frameId }, '*');
+                        window.addEventListener('wheel', claimMaster, { passive: true });
+                        window.addEventListener('mousedown', claimMaster, { passive: true });
+                        window.addEventListener('touchstart', claimMaster, { passive: true });
+
+                        window.addEventListener('scroll', () => {
+                            if (isRemoteScroll) {
+                                isRemoteScroll = false;
+                                return;
+                            }
+                            
+                            clearTimeout(debounceTimer);
+                            debounceTimer = setTimeout(() => {
+                                const headers = Array.from(document.querySelectorAll('h1, h2, h3, h4, b, strong, .custom-block.media p'));
+                                let activeHeader = null;
+                                const viewportMiddle = window.innerHeight / 3;
+                                
+                                for (const h of headers) {
+                                    const rect = h.getBoundingClientRect();
+                                    if (rect.top >= -100 && rect.top <= viewportMiddle) {
+                                        activeHeader = h.innerText.trim();
+                                        break; 
+                                    }
+                                }
+
+                                if (activeHeader && activeHeader !== lastHeader) {
+                                    lastHeader = activeHeader;
+                                    window.parent.postMessage({
+                                        type: 'scroll',
+                                        id: frameId,
+                                        pct: scroller.scrollTop / (scroller.scrollHeight - window.innerHeight),
+                                        activeHeader: activeHeader
+                                    }, '*');
+                                }
+                            }, 250); // Wait for scroll to settle
+                        }, { passive: true });
+
+                        document.addEventListener('click', (e) => {
+                            const h = e.target.closest('h1, h2, h3, h4, b, strong, .custom-block.media p');
+                            if (h) {
+                                sendSync('clickSync', h.innerText.trim());
+                            }
+                        });
+
+                        window.addEventListener('message', (e) => {
+                            if (e.data.type === 'setScroll') {
+                                isRemoteScroll = true;
+                                const scroller = document.scrollingElement || document.documentElement;
+                                const targetTop = e.data.pct * (scroller.scrollHeight - window.innerHeight);
+                                window.scrollTo({ top: targetTop, behavior: 'auto' });
+                            }
+                        });
+                    })();
+                `;
+                doc.body.appendChild(script);
+            } catch (e) {}
+        }
+
+        leftFrame.onload = () => { injectSync(leftFrame); };
+        rightFrame.onload = () => { injectSync(rightFrame); };
+
+        setInterval(() => {
+            if (viewMode === 'rendered') {
+                injectSync(leftFrame);
+                injectSync(rightFrame);
+            }
+        }, 5000);
+
+        function updateLesson() { updateFrames(); }
+
+        let lastPath = "";
+        setInterval(() => {
+            try {
+                const currentPath = rightFrame.contentWindow.location.pathname;
+                if (currentPath && currentPath !== lastPath && currentPath !== "about:blank") {
+                    lastPath = currentPath;
+                    const match = currentPath.match(/lektion(\d+)/);
+                    if (match) {
+                        const num = parseInt(match[1]);
+                        if (lessonInput.value != num) {
+                            lessonInput.value = num;
+                            updateFrames();
+                        }
+                    }
+                }
+            } catch (e) {}
+        }, 1000);
+
+        // Explicit initial call
+        updateFrames();
+    </script>
+</body>
+</html>
