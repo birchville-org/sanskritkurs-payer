@@ -95,7 +95,7 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 ### 7.2.1. Akkusativ Singular und Plural der Frage- und Demonstrativpronomina
 
 ::: grammar-box
-| Pronomen | Numerus | Maskulinum | Femininum | Neutrum |
+| | | Maskulinum | Femininum | Neutrum |
 | :--- | :--- | :--- | :--- | :--- |
 | **kim** (wer/was) | sg. | **kam** (कम्) | **kām** (काम्) | **kim** (किम्) |
 | | pl. | **kān** (कान्) | **kās** (कास्) | **kāni** (कानि) |
