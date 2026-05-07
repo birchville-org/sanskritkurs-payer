@@ -17,10 +17,10 @@ last_reconstructed: 2026-05-07
 ## Wochenspruch
 
 ::: center
-<span class="sanskrit-dev">धर्माे जयति नाधर्माे</span>
+<span class="sanskrit-dev">धर्मो जयति नधर्मः</span>
 <span class="sanskrit-dev">सत्यं जयति नानृतम् |</span>
-<span class="sanskrit-dev">क्षमा जयति न क्राेधाे</span>
-<span class="sanskrit-dev">देवाे जयति नासुरः ||</span>
+<span class="sanskrit-dev">क्षमा जयति न क्रोधो</span>
+<span class="sanskrit-dev">देवो जयति नासुरः ||</span>
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
@@ -227,20 +227,20 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 - **kup** 4 P (kupyati) <span class="sanskrit-dev">कुप् कुप्यति</span> : zürnen
 - **krudh** 4 P (krudhyati) <span class="sanskrit-dev">क्रुध् क्रुध्यति</span> : zürnen
 - **khād** 1 P (khādati) <span class="sanskrit-dev">खाद् खादति</span> : kauen, essen
-- **śru** 5 P (śṛṇoti) <span class="sanskrit-dev">श्रु शृणोति</span> : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
-- **su** 5 U (sunoti) <span class="sanskrit-dev">सु सुनोति</span> : auspressen
-- **soma** m. <span class="sanskrit-dev">सोम</span> : Presstrank, Soma; Mond.
+- **śru** 5 P (śṛṇoti !) <span class="sanskrit-dev">श्रु शृणोति</span> : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
+- **su** 5 U (sunoti) <span class="sanskrit-dev">सु सुनोti</span> : auspressen
+- **soma** m. <span class="sanskrit-dev">सोम</span> : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
 - **phala** n. <span class="sanskrit-dev">फल</span> : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
 - **nṛtya** n. <span class="sanskrit-dev">नृत्य</span> : Tanz
 - **svarga** m. <span class="sanskrit-dev">स्वर्ग</span> : Himmel
-- **naraka** m. <span class="sanskrit-dev">नरक</span> : Hölle
-- **aṅga** n. <span class="sanskrit-dev">अङ्ग</span> : Glied des Körpers, Bestandteil; auch = **vedāṅga** (<span class="sanskrit-dev">वेदाङ्ग</span>)
-- **gam** 1 P (gacchati) <span class="sanskrit-dev">गम् गच्छति</span> : gehen (gm » ga-ccha-ti)
+- **naraka** m. <span class="sanskrit-dev">नरक</span> : Hölle (nach einer Hinduauffassung hat das Universum die Form eines Eis (**Brahmāṇḍa** m.n. = <span class="sanskrit-dev">ब्रह्माण्ड</span> = "Ei Brahmās"): oberhalb der Erde sind sechs Himmel mit ansteigender Glückseligkeit, unterhalb der Erde sind sieben sog. **pātāla** n. = <span class="sanskrit-dev">पाताल</span>, Wohnstätten der **nāga** m. = <span class="sanskrit-dev">नाग</span> (Schlangen) und anderer mythischer Wesen, darunter kommen 7 Höllen mit steigenden Qualen)
+- **aṅga** n. <span class="sanskrit-dev">अङ्ग</span> : Glied des Körpers, Bestandteil; auch = **vedāṅga** = <span class="sanskrit-dev">वेदाङ्ग</span>
+- **gam** 1 P (gacchati) <span class="sanskrit-dev">गम् गच्छति</span> : gehen (Gehört nach der einheimischen Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit einem Präsensstammbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**)
 
 ::: media
 ![](/images/lekt0701.jpg)
-Abb.: War das die vedische Somapflanze? Fliegenpilz (*Amanita muscaria*).
-(Bildquelle: Wikipedia, GNU FDL)
+Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
+(Bildquelle: Wikipedia, GNU FDLizenz)
 :::
 
 ---
@@ -306,7 +306,7 @@ Vedisches Opfer = **yajña** m. = यज्ञ
 1. narakāṃś ca svargāṃś ca gacchanti.
    नरकांश्च स्वर्गांश्च गच्छन्ति |
 2. gurūṃs tu śṛṇvanti.
-   गुरूंतु शृण्वन्ति |
+   गुरूूंस्तु शृण्वन्ति |
 3. Śūdras erlangen einen Himmel.
 4. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern.
 5. Vaiśyafrauen verehren Gottheiten mit Opfern.
