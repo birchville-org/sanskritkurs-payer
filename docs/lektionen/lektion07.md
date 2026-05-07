@@ -16,12 +16,11 @@ last_reconstructed: 2026-05-07
 
 ## Wochenspruch
 
-<p align="center">
-धर्माे जयati नाधर्माे<br>
-सत्यं जयति नानृतम् |<br>
-क्षमा जयति न क्राेधाे<br>
-देवाे जयति नासुरः ||
-</p>
+::: center
+<span class="sanskrit-dev">धर्माे जयति नाधर्माे</span>
+<span class="sanskrit-dev">सत्यं जयति नानृतम् |</span>
+<span class="sanskrit-dev">क्षमा जयति न क्राेधाे</span>
+<span class="sanskrit-dev">देवाे जयति नासुरः ||</span>
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
@@ -32,6 +31,7 @@ Das Recht siegt, nicht das Unrecht,
 Die Wahrheit siegt, nicht die Unwahrheit,
 Nachsicht siegt, nicht Zorn,
 Gott siegt, nicht der Widergott.
+:::
 
 ---
 
