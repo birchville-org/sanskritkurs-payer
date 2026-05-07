@@ -1,184 +1,151 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+---
+lesson_id: 11
+last_reconstructed: 2026-05-07
+---
 
-# Lektion 11
+# 11. Lektion 11
+
+::: info
+**In dieser Lektion lernen Sie:**
+- Den doppelten Akkusativ (Akkusativ der Person und der Sache)
+- Den Gebrauch der Partikel **iti**, **evam** und **na**
+- Grundlegende Begriffe wie **dharma**, **adharma** und **putra**
+- Die Bildung von Nomina zu den Wurzeln **vad**, **prach** und **iṣ**
+:::
 
 ## 11.1. Doppelter Akkusativ
 
-Einige Verben können einen doppelten Akkusativ (dvitīyā) regieren:
+::: grammar-box
+**Einige Verben können einen doppelten Akkusativ (dvitīyā) regieren: Akkusativ der Person und Akkusativ der Sache.**
 
-Akkusativ der Person und Akkusativ der Sache
+**Hierzu gehören:**
+- **Verben des Sprechens**: spreche zu jemandem (Akkusativ) über etwas (Akkusativ); jemandem (Akkusativ) etwas (Akkusativ) sagen
+- **Verben des Fragens**: jemanden (Akkusativ) nach etwas (Akkusativ) fragen
+- **Verben des Lehrens**: jemanden (Akkusativ) etwas (Akkusativ) lehren
+- einige weitere Verben, bei denen es in den Wortlisten vermerkt wird
 
-Hierzu gehören:
+**Wird eine solche Konstruktion ins Passiv gesetzt, wird die Person (die gefragt wird usw.) in den Nominativ (prathamā) gesetzt, die Sache (nach der gefragt wird usw.) bleibt im Akkusativ.**
 
-*   Verben des Sprechens: spreche zu jemandem (Akkusativ) über etwas (Akkusativ); jemandem (Akkusativ) etwas (Akkusativ) sagen
-    
-*   Verben des Fragens: jemanden (Akkusativ) nach etwas (Akkusativ) fragen
-    
-*   Verben des Lehrens: jemanden (Akkusativ) etwas (Akkusativ) lehren
-    
-*   einige weitere Verben, bei denen es in den Wortlisten vermerkt wird
-    
+z.B. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = रामो ब्राह्मणं धर्मं पृच्छति = "Rāma fragt den Brahmanen nach dem Dharma."
+» Passiv: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = रामेण ब्राह्मणो धर्मं पृच्छयते
 
-Wird eine solche Konstruktion ins Passiv gesetzt, wird die Person (die gefragt wird usw.) in den Nominativ (prathamā) gesetzt, die Sache (nach der gefragt wird usw.) bleibt im Akkusativ.
+**Diese Regel gilt nur, wenn sowohl Person als auch Sache Objekt sind. Ist eine Sache das einzige Objekt, steht diese nach dem Grundschema des Passivsatzes im Nominativ (prathamā):**
 
-z.B.
+z.B. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्छति = "Rāma fragt nach dem Dharma."
+» Passiv: **rāmeṇa dharmaḥ pṛcchyate** = रामेण धर्मः पृच्छयते
+:::
 
-rāmo brāhmaṇaṃ dharmaṃ pṛcchati =  रामो ब्राह्मणं धर्मं पृच्छति = "Rāma fragt den Brahmanen nach dem Dharma."
-
-» Passiv: rāmeṇa brāhmaṇo dharmaṃ pṛcchyate = रामेण ब्राह्मणो धर्मं पृच्छ्यते = "Rāma fragt den Brahmanen nach dem Dharma."
-
-Diese Regel gilt nur, wenn sowohl als auch eine Sache Objekt sind. Ist eine Sache das einzige Objekt, steht diese nach dem Grundschema des Passivsatzes im Nominativ (prathamā):
-
-z.B.
-
-rāmo dharmaṃ pṛcchati = रामो धर्मं पृच्छति = "Rāma fragt nach dem Dharma."
-
-» Passiv: rāmeṇa dharmaḥ pṛcchyate =  रामेण धर्मः पृच्छ्यते = "Rāma fragt nach dem Dharma." 
+---
 
 ## 11.2. Wortliste
 
-iti इति : so
+**Lernen Sie folgende Wörter:**
 
-(steht nach der Formulierung eines Gedankens, Wunsches, Ausspruchs. Zitates gleichsam als Anführungszeichen ("). z.B. साधवः स्वर्गं गच्छन्तीति ब्राह्मणा वदन्ति "Brahmanen sagen: "Heilige kommen in den Himmel"" = "Brahmanen sagen, dass Heilige in den Himmel kommen". Für die Übersetzung ist zu beachten, dass es im Sanskrit keine indirekte Rede gibt, dass darum Bildungen mit iti im Deutschen oft in indirekter Rede wiedergegeben werden müssen (alles andere ist schlechte Übersetzung!).
+- **iti** इति : so
+  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
+  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
+  - Im Sanskrit gibt es keine indirekte Rede; Bildungen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
+  - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
+  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
 
-... (Zitat) ... इति श्रुतिः = "so der Veda"
+- **evam** एवम् : so (adverbiell, z.B. **evaṃ jayati** "so siegt er").
+- **na** न : nicht
+  - Verneint einzelne Worte (steht unmittelbar davor: **na sādhuḥ** "ein nicht guter") oder ganze Sätze (steht zu Beginn oder unmittelbar vor dem Verb).
 
-Oft ist nach iti ein Verb des Denkens hinzuzudenken: ... iti tut er das und das = "denkend: "..." tut er das und das" "weil ... tut er das und das". Dies ist eine Möglichkeit Motive für Handlungen auszudrücken. Im Deutschen müssen solche Ausdrücke in idiomatischem deutsch wiedergegeben werden und nicht in sanskritischem Deutsch (Übersetzungen wie "Denkend: "ich habe Hunger" geht er ins Restaurant" sind falsch, richtig: "Weil er Hunger hat, geht er ins Restaurant".)
+- **putra** m. पुत्र : Sohn (In Indien war es notwendig, einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.)
+- **dharma** m. धर्म : ("das, was fest ist", d.h.) Recht, Gesetz, Sitte, Charakter.
+  - Entspricht am ehesten dem Naturgesetz/Sittengesetz. Jeder hat nach **varṇa** und **āśrama** (Lebensstadium) seine eigenen Pflichten (**svadharma**).
+- **adharma** m. अधर्म : Unrecht (Gegensatz zu **dharma**).
+- **iṣ** 6 P (icchati) इष् इच्छति : wünschen (**iṣ-ccha-ti**).
 
-evam एवम् : so (adverbiell, z.B. एवं जयति "so siegt er". Beachten Sie den Unterschied im Gebrauch von iti und evam!)
+**Einige Nominalbildungen:**
 
-na न : nicht
+- **vad** 1 P वद् : sagen
+  - **vāda** m. वाद : Ausspruch, Aussage, Wort
+  - **vadana** n. वदन : das Sprechen; Sprechwerkzeug: Mund, Gesicht
 
-(verneint einzelne Worte oder auch ganze Sätze. Beim Verneinen einzelner Worte steht na unmittelbar vor dem verneinten Wort: न साधुः "ein nicht guter". Wird ein satz verneint, steht na entweder zu Beginn des Satzes -- so, wenn man einen Gegensatz betonen will und bei betonten Verneinungen -- oder unmittelbar vor dem Verb.)
+::: media
+![](/images/lekt1102.jpg)
+Abb.: **vadanāni** = वदनानि, Jamalpur district, Bangladesh.
+(Bildquelle: Juan Blazquez, Flickr, CC-BY-NC-ND 2.0)
+:::
 
-putra m. पुत्र : Sohn
+- **prach** 6 P प्रच्छ् : fragen
+  - **praśna** m. प्रश्न : Frage (Suffix **-na** wie in **yaj-ña**)
 
-(In Indien war es notwendig einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.)
+- **iṣ** 6 P इष् : wünschen
+  - **iṣṭi** f. इष्टि : Wunsch (**iṣ** + **-ti**)
 
-dharma m. धर्म : ("das, was fest ist" d.h.) Recht, Gesetz, Sitte, Charakter
-
-(entspricht am ehesten dem mittelalterlichen lex naturae = Naturgesetz, Sittengesetz und rechte Sozialordnung. dharma ist für Hindus nicht für alle gleich, sondern jeder hat nach varṇa und āśrama (Lebensstadium, dazu Basham, Wonder S. 159f.) seine je eigenen Pflichten: svadharma)
-
-Gegensatz zu dharma:
-
-adharma m. अधर्म : Unrecht
-
-iṣ 6 P (icchati) इष् इच्छति : wünschen (iṣ-ccha-ti) (wird von den einheimischen Grammatikern zur 6. Präsensklasse gerechnet, obwohl es eine Bildung mit einem Präsensstammsuffix -ccha- ist wie gam ga-ccha-ti
-
-Einige Nominalbildungen:
-
-vad 1 P वद् : sagen
-
-> vāda m. वाद : Ausspruch, Aussage, Wort
-> 
-> vadana n. वदन : das Sprechen ; Sprechwerkzeug: Mund, Gesicht
-> 
-> ![](/images/lekt1102.jpg)  
-> Abb.: वदनानि, Jamalpur district (জামালপুর জেলা), Bangladesh (বাংলাদেশ)   
-> \[Bildquelle: Juan Blazquez. -- [http://www.flickr.com/photos/juanblazquez/261690111/](http://www.flickr.com/photos/juanblazquez/261690111/). -- Zugriff am 2008-11-28. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-
-prach 6 P प्रछ् : fragen
-
-> praśna m. प्रश्न : Frage (Suffix -na wie in yaj-na)
-
-iṣ 6 P इष् : wünschen
-
-> iṣṭi f. इष्टि : Wunsch (iṣ + -ti)
+---
 
 ## 11.3. Übung
 
-A) Übersetzen Sie untenstehende Sätze
+**A) Übersetzen Sie untenstehende Sätze:**
 
-१. ऋषिः सत्यं वदति ।
+1. <span class="sanskrit-dev">ऋषिः सत्यं वदति |</span>
+2. <span class="sanskrit-dev">ब्राह्मणः पुत्रमिच्छति |</span>
+3. <span class="sanskrit-dev">साधुः स्वर्गं गच्छति |</span>
+4. <span class="sanskrit-dev">ब्राह्मणो ऽनृतं न वदतीति स्मृतिः |</span>
+5. <span class="sanskrit-dev">क्षत्रियो ब्राह्मणं धर्मं पृच्छति |</span>
+6. <span class="sanskrit-dev">एवं ब्राह्मणो यज्ञेन देवं यजति |</span>
+7. <span class="sanskrit-dev">पुत्रः पापं करोतीति वैश्या मन्यते |</span>
+8. <span class="sanskrit-dev">क्षत्रियः क्षत्रियेण सह युध्यते</span>
+9. <span class="sanskrit-dev">अधर्मो ऽनृतमिति पुत्रः पापं न करोति |</span>
+10. <span class="sanskrit-dev">अयं क्षत्रियो धर्मं रक्षति |</span>
+11. <span class="sanskrit-dev">को ऽग्निं यजते |</span>
+12. <span class="sanskrit-dev">स श्रावको बुद्धं धर्मं पृच्छति ||</span>
 
-२. ब्राह्मणः पुत्रमिच्छति ।
+**B) Setzen Sie die Sätze von A) in Passivkonstruktion.**
 
-३. साधुः स्वर्गं गच्छति ।
+**C) Setzen Sie in den Sätzen A), wo es sinnvoll ist, Subjekt, Objekt und Prädikat in den Plural.**
 
-४. ब्राह्मणो ऽनृतं न वदतीति स्मृतिः ।
+**D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion.**
 
-५. क्षत्रियो ब्राह्मणं धर्मं पृच्छति ।
+::: media
+![](/images/lekt1101.jpg)
+Abb.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
+(Bildquelle: Wikipedia, Public domain)
+:::
 
-६. एवं ब्राह्मणो यज्ञेन देवं यजति ।
-
-७. पुत्रः पापं करोतीति वैश्या मन्यते ।
-
-८. क्षत्रियः क्षत्रियेण सह युध्यते
-
-९. अधर्मो ऽनृतमिति पुत्रः पापं न करोति ।
-
-१०. अयं क्षत्रियो धर्मं रक्षति ।
-
-११. को ऽग्निं यजते ।
-
-१२. स श्रावको बुद्धं धर्मं पृच्छति ॥
-
-B) Setzen Sie die Sätze von A) in Passivkonstruktion
-
-C) Setzen Sie in den Sätzen A), wo es sinnvoll ist, Subjekt, Objekt und Prädikat in den Plural
-
-D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion
-
-![](/images/lekt1101.jpg)  
-Abb.: श्रावको महाकाश्यपः  
-War unter Buddha Guatamas Jüngern der Spezialist für Vinaya (Ordensdisziplin)  
-\[Bildquelle: Wikipedia, Public domain\]
+---
 
 ## 11.4. Wiederholungsübung
 
-A) Übersetzen Sie ins Sanskrit mit Passivkonstruktionen:
+**A) Übersetzen Sie ins Sanskrit mit Passivkonstruktionen:**
+1. Vaiśyafrauen fragen Brahmanen nach dem Dharma.
+2. Der Lehrer spricht ein Mantra.
+3. Heilige Frauen gelangen in einen Himmel.
+4. Ein vedischer Weiser tut nichts Böses.
+5. Brahmanen verehren als Opferpriester die Göttin mit Opfern.
+6. Die Śūdrafrau geht ins Dorf.
+7. Wer sieht die Wahrheit?
 
-1\. Vaiśyafrauen fragen Brahmanen nach dem Dharma.
+**B)**
+1. Geben Sie mit einem Dvandva die Aufgaben aller Zweimalgeborenen an. Lösen Sie das Kompositum in Sanskrit auf.
+2. Geben Sie mit einem Dvandva die Aufgaben der Vaiśyas an. Lösen Sie das Kompositum in Sanskrit auf.
 
-2\. Der Lehrer spricht ein Mantra.
+**C) Übersetzen Sie:**
 
-3\. Heilige Frauen gelangen in einen Himmel.
+1. <span class="sanskrit-dev">श्रवणेन श्रूयते |</span>
+2. <span class="sanskrit-dev">कर्ष़कैः कृष्यते |</span>
+3. <span class="sanskrit-dev">श्रावकेणेश्वरो नेज्यते |</span>
+4. <span class="sanskrit-dev">रक्षिक्या गुरू रक्ष्यते |</span>
+5. <span class="sanskrit-dev">ब्राह्मणेनानृतं नोद्यते |</span>
+6. <span class="sanskrit-dev">शूद्रेतरा |</span>
+7. <span class="sanskrit-dev">शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि |</span>
+8. <span class="sanskrit-dev">आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ||</span>
 
-4\. Ein vedischer Weiser tut nichts Böses.
+**D) Übersetzen Sie und setzen Sie in Sanskrit Agens, Objekt und Verb in den Plural:**
 
-5\. Brahmanen verehren als Opferpriester die Göttin mit Opfern.
+1. <span class="sanskrit-dev">फलमश्नुते |</span>
+2. <span class="sanskrit-dev">गुरुणा सत्यमुद्यते |</span>
+3. <span class="sanskrit-dev">वैश्यः पशुं लभते |</span>
+4. <span class="sanskrit-dev">पुत्रः पुण्यं करोति ||</span>
 
-6\. Die Śūdrafrau geht ins Dorf.
+**E) Verwandeln Sie die Sätze C) 1-5 in Aktivkonstruktionen.**
 
-7\. Wer sieht die  Wahrheit?
-
-B)
-
-1\. Geben Sie mit einem Dvandva die Aufgaben aller Zweimalgeborenen an. Lösen Sie das Kompositum in Sanskrit auf.
-
-2\. Geben Sie mit einem Dvandva die Aufgaben der Vaiśyas an. Lösen Sie das Kompositum in Sanskrit auf.
-
-C) Übersetzen Sie:
-
-१. श्रवणेन श्रूयते ।
-
-२. कर्षकैः कृष्यते ।
-
-३. श्रावकेणेश्वरो नेज्यते ।
-
-४. रक्षिक्या गुरू रक्ष्यते ।
-
-५. ब्राह्मणेनानृतं नोद्यते ।
-
-६. शूद्रेतरा ।
-
-७. शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि ।
-
-८. आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ॥
-
-D) Übersetzen Sie und setzen Sie in Sanskrit Agens, Objekt und Verb in den Plural:
-
-१. फलमश्नुते ।
-
-२. गुरुणा सत्यमुद्यते ।
-
-३. वैश्यः पशुं लभते ।
-
-४. पुत्रः पुण्यं करोति ॥
-
-E) Verwandeln Sie die Sätze C)1-5 in Aktivkonstruktionen.
-
-![](/images/lekt1103.jpg)  
-Abb.: कर्षकेण कृष्यते  
-\[Bildquelle: Ray Witlin / World Bank. -- [http://www.flickr.com/photos/worldbank/2183019617/](http://www.flickr.com/photos/worldbank/2183019617/). -- Zugriff am 2008-11-18. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt1103.jpg)
+Abb.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
+(Bildquelle: Ray Witlin / World Bank, Flickr, CC-BY-NC-ND 2.0)
+:::
