@@ -168,6 +168,7 @@ Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikatio
 
 ### 1.2.1. Zur Aussprache einzelner Laute
 
+::: laut-table
 | Laut | Beschreibung |
 | :--- | :--- |
 | **a - अ** | "kurzes a" wird bei den Indern -- schon seit alter Zeit -- oft wie ə ausgesprochen. In Europa spricht man es als kurzes a, in Bengalen als kurzes dunkles o. |
@@ -179,6 +180,7 @@ Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikatio
 | **h - ह्** | Hauchlaut, nie Dehnungszeichen. |
 | **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
 | **ṃ** | **Anusvara** -- अनुस्वर. Vor Zischlauten, h, l: Nasalierung des Vokals. Im Auslaut = m. Im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- संधि = sandhi -- सन्धि |
+:::
 
 Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest.
 

@@ -101,6 +101,16 @@ export default defineConfig({
           }
         }
       });
+
+      md.use(container, 'laut-table', {
+        render: (tokens, idx) => {
+          if (tokens[idx].nesting === 1) {
+            return `<div class="laut-table custom-block">\n`;
+          } else {
+            return `</div>\n`;
+          }
+        }
+      });
       
       // Auto-styling for Devanagari characters (Scholarly Red)
       md.core.ruler.after('linkify', 'devanagari_styling', (state) => {

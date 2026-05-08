@@ -115,6 +115,13 @@ h2, h3 {
   border: 1px solid #94a3b8 !important;
 }
 
+/* Phonetic Tables (Lektion 1, etc.) */
+.vp-doc .custom-block.laut-table table td:first-child {
+  white-space: nowrap;
+  min-width: 9rem;
+  font-weight: 600;
+}
+
 
 
 
