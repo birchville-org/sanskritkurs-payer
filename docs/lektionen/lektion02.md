@@ -50,7 +50,6 @@ Zur Deklination treten die Kasusendungen (**sup** = सुप्) an den sogenan
 Beispiel: **devas** = देवस् (Nominativ Singular Maskulinum) "der/ein Gott" = **deva-** -- देव- (Nominalstamm) + **-s** -- -स् (Kasusendung).
 
 In Sanskritwörterbüchern werden Nomina im **Nominalstamm** angeführt:
-In Sanskritwörterbüchern werden Nomina im **Nominalstamm** angeführt:
 - **deva** m. -- देव m. (maskulin)
 - **vacana** n. -- वचन n. (neutrum)
 - **vyakti** f. -- व्यक्ति f. (femininum)
