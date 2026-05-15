@@ -1,0 +1,83 @@
+import fs from 'fs'
+import path from 'path'
+
+const filePath = 'docs/bg/lektionen/lektion18.md'
+let content = fs.readFileSync(filePath, 'utf8')
+
+const fragments = [
+    { from: /verwendet werden\. Solche Tatpurua gehören meist zur Klasse Nityasamāsa = नित्यसमास \(m\. "постоянен композит"\), т\.е\. композити, тези man überhaupt nicht или nicht nur mittels im композит selbst vorkommenden Wörter auflösen kann\./g, to: 'се използват. Такива татпуруша спадат предимно към класа Nityasamāsa = नित्यसमास (м. „постоянен композит“), т.е. композити, които изобщо не могат да бъдат разложени или не само чрез думите, които се срещат в самия композит.' },
+    { from: /überaus schwer, überaus gewichtig/gi, to: 'изключително тежък, изключително важен' },
+    { from: /überragender Mann, Superman, Held/gi, to: 'превъзходен човек, супермен, герой' },
+    { from: /übermäßiges Lob/gi, to: 'прекомерна похвала' },
+    { from: /übermäßiges Sprechen, Übertreibung/gi, to: 'прекомерно говорене, преувеличение' },
+    { from: /Unwahrheit, Lüge/gi, to: 'неистина, лъжа' },
+    { from: /nicht getan, ungetan/gi, to: 'ненаправено' },
+    { from: /Nichtbrahmanin, Unbrahmanin/gi, to: 'не-брахманка' },
+    { from: /Nichtgott, Ungott/gi, to: 'не-бог' },
+    { from: /wird при разлагане Kompositums от Kommentatoren durch Adjektiv с Bedeutung "gut" \(напр\. सुष्टु 3, शोभн 3\) ersetzt\./g, to: 'при разлагането на композита се заменя от коментаторите с прилагателно със значение „добър“ (напр. सुष्टु 3, शोभн 3).' },
+    { from: /guter Dichter/gi, to: 'добър поет' },
+    { from: /gute Tat/gi, to: 'добро дело' },
+    { from: /gut gekaut/gi, to: 'добре сдъвкан' },
+    { from: /groß Leid/gi, to: 'голямо страдание' },
+    { from: /сандхи beachten!/gi, to: 'вземете предвид сандхи!' },
+    { from: /schlechte Tat, schwierige Tat/gi, to: 'лошо дело, трудно дело' },
+    { from: /leicht към tun/gi, to: 'лесно за изпълнение' },
+    { from: /schwer към gehen/gi, to: 'трудно за минаване' },
+    { from: /sehr schwer към gehen/gi, to: 'много трудно за минаване' },
+    { from: /Ähnlichkeit/gi, to: 'Сходство' },
+    { from: /Kṣatriya или Vaiśya, тези heilige Schnur \(यज्ञोपवीत n\.\) trägt и soс един Brahmanen ähnelt, ohne към sein/g, to: 'кшатрия или вайшя, който носи свещения шнур (यज्ञोपवीत n.) и така прилича на брахман, без да е такъв' },
+    { from: /Fehlen, Nichtvvorhandensein/gi, to: 'Липса, отсъствие' },
+    { from: /Unwissenheit \(Fehlen от Wissen\)/g, to: 'невежество (липса на знание)' },
+    { from: /Andersheit/gi, to: 'Другост' },
+    { from: /etwas, kein Stoff \/ Gewand \(Gewebe, Gewand\) е/g, to: 'нещо, което не е плат / дреха (тъкан, дреха)' },
+    { from: /Kleinheit/gi, to: 'Малкост' },
+    { from: /klr Bauch \( Nicht-Bauch\)/g, to: 'малко коремче (не-корем)' },
+    { from: /Missbilligung/gi, to: 'Неодобрение' },
+    { from: /Feindschaft/gi, to: 'Вражда' },
+    { from: /след falschen Etymologie a-sura/g, to: 'според погрешната етимология а-сура' },
+    { from: /Man nennt sechs Bedeutungen от nañ \( = a-\/an-\)\.\.\.\./g, to: 'Назовават се шест значения на нан (= a-/an-)....' },
+    { from: /hingehen, darangehen/gi, to: 'отивам там, подхождам' },
+    { from: /hinweisen, belehren, anraten/gi, to: 'посочвам, поучавам, съветвам' },
+    { from: /hingelangen/gi, to: 'достигам' },
+    { from: /ausgestattet с \(Творителен падеж\)/g, to: 'снабден с (творителен падеж)' },
+    { from: /erfassen, erlangen/gi, to: 'обхващам, постигам' },
+    { from: /erlangen/gi, to: 'постигам' },
+    { from: /zeigen/gi, to: 'показвам' },
+    { from: /aufwachen, erkennen/gi, to: 'събуждам се, разпознавам' },
+    { from: /hervorkommen, herausragen, Macht haben über/gi, to: 'произлизам, изпъквам, имам власт над' },
+    { from: /erklären, mitteilen, aussprechen/gi, to: 'обяснявам, съобщавам, изричам' },
+    { from: /aussprechen, bezeichnen като, erklären за/gi, to: 'изричам, обозначавам като, обявявам за' },
+    { from: /preisen пред, laut preisen, върху etwas към sprechen kommen, beginnen/g, to: 'възхвалявам пред, възхвалявам силно, заговарям за нещо, започвам' },
+    { from: /vergessen/gi, to: 'забравям' },
+    { from: /besiegen/gi, to: 'побеждавам' },
+    { from: /ablösen, befreien/gi, to: 'откъсвам, освобождавам' },
+    { from: /disputieren, auseinandersetzen, erzählen/gi, to: 'споря, разяснявам, разказвам' },
+    { from: /zusammensitzen, sich aufhalten, wohnen/gi, to: 'седя заедно, пребивавам, живея' },
+    { from: /zusammenkommen, aufeinandertreffen \(freundlich или feindlich\), Geschlechtsverkehr haben с/g, to: 'събирам се, срещам се (приятелски или враждебно), имам полов акт с' },
+    { from: /vollständig erwachen \(zur Wahrheit\)/g, to: 'събуждам се напълно (за истината)' },
+    { from: /geboren, entstanden, geworden/gi, to: 'роден, възникнал, станал' },
+    { from: /jemandem zuteil werden, gelingen/gi, to: 'падам се на някого, успявам' },
+    { from: /versehen с \(Instr\.\)/g, to: 'снабден с (творителен падеж)' },
+    { from: /корен कृ "правя" zeigt в Verbindung с PräГлаголи सम् । उप । अप । परि  auch тези Форма स्कृ/g, to: 'коренът कृ „правя“ в съчетание с превербите सम् । उप । अप । परि приема и формата स्कृ' },
+    { from: /zubereiten, fürs Opfer zubereiten, weihen/gi, to: 'приготвям, приготвям за жертва, посвещавам' },
+    { from: /fürs Opfer zubereitet/gi, to: 'приготвен за жертва' },
+    { from: /Sanskrit: тези fürs Opfer geeignete Sprache ; Gegenstück प्राकृत 3: gewöhnlich, ordinär ; प्राकृत n.: gewöhnliche Sprache, Prakrit \(Bezeichnung за тези Volks- и Verkehrssprachen, тези с Sanskrit verwandt са\)/g, to: 'санскрит: езикът, подходящ за жертва; негово съответствие е प्राकृत 3: обикновен, прост; пракрит н.: обикновен език, пракрит (обозначение за народните и разговорните езици, които са свързани със санскрит)' },
+    { from: /zerschlagen, zerstören, vernichten/gi, to: 'разбивам, разрушавам, унищожавам' },
+    { from: /Hochzeit = विवाह् m\., wichtiger संस्कारः/g, to: 'сватба = विवाह m., важен санскара (संस्कारः)' },
+    { from: /Heranführen \(ans Opferfeuer\) = Zeremonie, при männlichen Angehörigen drei oberen Stände тези heilige Schnur \(यज्ञोपवीत n\.\) angelegt wird както и hl\. Vers सावित्री ins Ohr geflüstert wird, sie от nun an täglich при Sonnenauf- и Sonnenuntergang rezitieren\. за тези Brahmanen е Ṛgveda III\.62\.10:/g, to: 'довеждането (до жертвения огън) = церемония, при която на мъжете от трите висши съсловия се слага свещения шнур (यज्ञोपवीत n.) и в ухото им се прошепва свещения стих савитри (सावित्री), който оттогава нататък рецитират ежедневно при изгрев и залез слънце. За брахманите това е Ригведа III.62.10:' },
+    { from: /Mögen wir vorzüglichen Glanz Gottes 'Antreiber' empfangen, unsere Gedanken в Bewegung setzen möge/g, to: '„Нека приемем превъзходния блясък на бог Савитар (Стимулатор), нека той подтикне нашите мисли към движение“' },
+    { from: /Durch Upanayana geschieht тези Втори Geburt, deshalb: द्विज । द्विजाति/g, to: 'Чрез упанаяна става второто раждане, затова: द्विज । द्विजाति' },
+    { from: /"A young boy is seen during upanayana ritual\. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta\. Also note the girdle of munja grass around the waist\. The twig в the right hand \(usually from peepa treel\) siginifies his entry в to Brahmacharya\."/g, to: '„Вижда се младо момче по време на ритуала упанаяна. Жълтият, тънък шнур, минаващ от лявото рамо до кръста, е Яджнопавита. Обърнете внимание и на пояса от трева мунджа около кръста. Клонката в дясната ръка (обикновено от дърво пипал) символизира встъпването му в брахмачаря.“' },
+    { from: /Betrüger/gi, to: 'измамник' },
+    { from: /Anfang/gi, to: 'начало' },
+    { from: /Stock, Prügel, Strafe/gi, to: 'тояга, бой, наказание' },
+    { from: /Maß, Begrenzung/gi, to: 'мярка, ограничение' },
+    { from: /vereinigt, versehen с/gi, to: 'обединен, снабден с' },
+];
+
+fragments.forEach(f => {
+    content = content.replace(f.from, f.to);
+});
+
+fs.writeFileSync(filePath, content, 'utf8');
+console.log('Fixed BG Lektion 18');

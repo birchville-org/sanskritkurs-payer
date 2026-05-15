@@ -8,7 +8,7 @@ title: Credits & Citation
 *The following text was moved from the lesson files during conversion to improve reading flow.*
 
 ## Citation | cite as:
-**Payer, Alois <1944 - >:** Sanskritkurs. -- 2010 Version. -- URL: http://www.payer.de/sanskritkurs/
+**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- 2010 Version. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Context
 Created for courses held between 1980 - 1984.

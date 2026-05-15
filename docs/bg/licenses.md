@@ -426,7 +426,7 @@
 | `schrift028.jpg` | Не са намерени специални лицензи/източници на изображения в текста |
 | `uebung002.jpg` | Фигура: īśvaraḥ śivaḥ = ईश्वरः शिवः Śiva als Adrdhnārīśvara (अर्धनारीश्वर), d.h. in der Gestalt von halb Mann, halb  Frau [Източник на изображението: Wikipedia, обществено достояние] |
 | `uebung001.jpg` | paśur dhenuḥ =  पशुर्धेनुः Indische Zeburinder bei Bangalore [Източник на изображението: mckaysavage. --  http://www.flickr.com/photos/mckaysavage/529395270/. -- достъп на  2008-11-27. --   Creative  Commons лиценз (Namensnennung) ] |
-| `uebung003.jpg` | Фигура: etat kim? eṣa kākaḥ.  एतत्किम् | एष काकः || Glanzkrähen (Corvus splendens), Rājasthān (राजस्थान) [Източник на изображението: Duncan Wright / Wikipedia. -- GNU FDлиценз] |
+| `uebung003.jpg` | Фигура: etat kim? eṣa kākaḥ.  एतत्किम् \| एष काकः \|\| Glanzkrähen (Corvus splendens), Rājasthān (राजस्थान) [Източник на изображението: Duncan Wright / Wikipedia. -- GNU FDлиценз] |
 | `uebung010.jpg` | Фигура: abhiniveśo na vā ? = अभ्निवेशो न  वा । Körperbezogenheit oder nicht ? -- das ist hier dies Frage "Schöne mit dem Spiegel", Belur (ಬೇಲೂರು),  Karnataka (ಕರ್ನಾಟಕ)  [Източник на изображението: ~Panache. --  http://www.flickr.com/photos/enamor/278398152/. -- достъп на 2008-11-28. --   Creative  Commons лиценз (Namensnennung, keine kommerzielle Nutzung)] |
 | `uebung009.jpg` | Фигура: ṛgvedaḥ = ऋग्वेदः Ṛgveda-Manuskript, frühes 19. Jhdt. n. Chr. [Източник на изображението: Wikipedia. обществено достояние] |
 | `uebung004.jpg` | Фигура: kā nṛtyati? = का नृत्यति । [Източник на изображението: Wikipedia, GNU FDLicense] |

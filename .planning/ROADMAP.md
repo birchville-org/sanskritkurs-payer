@@ -9,7 +9,7 @@
 ## Phasen
 
 <details open>
-<summary>📋 v1.2 Search, Index & I18n Expansion (Phasen 10-12)</summary>
+<summary>📋 v1.2 Search, Index & I18n Expansion (Phasen 10-13)</summary>
 
 ### Phase 10: Search Optimization & Core Infrastructure
 Fokus auf linguistischer Präzision und technischer Skalierbarkeit.
@@ -30,12 +30,29 @@ Vertikale Erschließung der Inhalte durch Querverweise.
 ### Phase 12: Multilingual Expansion (V1.2 Final)
 Horizontale Erweiterung um IT, ES, BG sowie neu UK und RU.
 - [x] **Plan 12.1**: Setup der Verzeichnisstrukturen für `/it/` und `/es/`.
-- [/] **Plan 12.2**: Durchführung der Massenübersetzung via AI (UK & RU hinzugefügt).
+- [x] **Plan 12.2**: Durchführung der Massenübersetzung via AI (UK & RU hinzugefügt).
 - [x] **Plan 12.3**: Integration der neuen Locales in die VitePress-Config.
 - [x] **Plan 12.4**: Quality-Sync & Visual Remediation (DE Struktur & Icons vereinheitlicht).
 - **Erfolgskriterien**:
     - Alle 61 Lektionen sind in EN, IT, ES, BG, UK, RU verfügbar.
     - Die Homepage bietet alle 7 Sprachen zur Auswahl an.
+
+### Phase 13: QA Infrastructure Restoration
+High-fidelity restoration and standardization of the Sanskrit QA viewer.
+- [x] **Plan 13.1**: Completed.
+- **Erfolgskriterien**:
+    - Viewer resolve routing 404s.
+    - Strict visual parity with "Scholarly Synthesis" design.
+
+### Phase 14: Lektion 27 Fidelity & Review
+High-fidelity manual reconstruction and validation of Sanskrit Lesson 27.
+- [ ] **Plan 14.1**: Surgical correction of paradigm tables (27.7.12) and missing Devanāgarī.
+- [ ] **Plan 14.2**: Standardization of wordlist images and captions in 27.5.
+- [ ] **Plan 14.3**: Verification against original HTML and license auditing.
+- **Erfolgskriterien**:
+    - 1:1 structural parity with original L27 HTML.
+    - Zero-HTML in all sections.
+    - Paradigm tables correctly formatted with all script entries.
 
 </details>
 
@@ -101,4 +118,6 @@ Plans:
 | 5-9 | v1.1 | 5/5 | Complete | 2026-04-19 |
 | 10 | v1.2 | 2/2 | Complete | 2026-04-26 |
 | 11 | v1.2 | 2/2 | Complete | 2026-04-26 |
-| 12 | v1.2 | 3/3 | Complete | 2026-04-26 |
+| 12 | v1.2 | 4/4 | Complete | 2026-04-26 |
+| 13 | v1.2 | 1/1 | Complete | 2026-05-08 |
+| 14 | v1.2 | 0/3 | Planned | - |

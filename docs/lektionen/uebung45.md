@@ -1,91 +1,68 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Wie lautet der Vokativ Singular von „pitṛ“ (Vater) (Übung A.5)?',
-    options: ['pitah', 'pitar', 'pitā', 'pitare'],
-    answer: 0,
-    explanation: 'Der Vokativ Singular von pitṛ ist pitah (oder pitar vor Vokalen) (Übung 45.26).'
-  },
-  {
-    question: 'Was bedeutet der Ausdruck „yodhyam“ in der Antwort zur Bhagavadgītā (Übung B.1)?',
-    options: ['Es soll gekämpft werden (Notwendigkeit)', 'Kämpfe!', 'Ich werde kämpfen', 'Er kämpft'],
-    answer: 0,
-    explanation: 'yodhyam ist das Gerundivum (kṛtya) von yudh und drückt eine Notwendigkeit aus (Übung 45.50).'
-  },
-  {
-    question: 'Wie lautet der Vokativ Singular von „bhagavat“ (Erhabener)?',
-    options: ['bhagavan', 'bhagavat', 'bhagavān', 'bhagavate'],
-    answer: 0,
-    explanation: 'Stämme auf -mant/vant bilden den Vokativ auf -man/van, z.B. bhagavan (Lektion 45.109).'
-  }
-]
-</script>
+---
+title: "Übung 45"
+uebung_id: 45
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 45
+::: deleteme-box Zitierweise & Rechte
 
-A) Übersetzen Sie ins Sanskrit (für Vergangenheitsformen bitte das Imperfekt &lt;लङ्&gt; verwenden):
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
-1\. Du spaltest die (buddhistische) Gemeinde.
+# Übung 45
 
-> सङ्घं भिनत्सि ॥१॥
+A) Übersetzen Sie ins Sanskrit (verwenden Sie für die Vergangenheit das Imperfekt):
 
-2\. Habt ihr die Erde genossen?
+१. **सङ्घं भिनत्सि ॥ १ ॥**
+Du spaltest die (buddhistische) Gemeinde.
 
-> किं महीमभुङ्क्त ॥२॥
+२. **किं महीमभुङ्क्त ॥ २ ॥**
+Habt ihr die Erde genossen?
 
-3\. Hast du vom König eine Gabe empfangen?
+३. **किं राज्ञो दानमादत्थाः ॥ ३ ॥** (Oder: **... राज्ञा ...**)
+Hast du vom König eine Gabe empfangen?
 
-> किं राज्ञो / राज्ञा दानमादत्थाः ॥३॥
+४. **साधो कस्माद्भयेभ्यो न बिभेषि ॥ ४ ॥**
+Heiliger Mann, warum fürchtest du dich nicht vor Gefahren?
 
-4\. Heiliger Mann, warum fürchtest du dich nicht vor Gefahren?
+५. **पितः कुत्र गच्छन्कुलं जहासि ॥ ५ ॥**
+Vater, wohin gehend verlässt du die Familie?
 
-> साधो कस्माद्भयेभ्यो न बिभेषि ॥४॥
+६. **शूद्रे ऽपि धनिनो ब्राह्मणस्य गृहं भारमबिभः ॥ ६ ॥**
+Śūdra-Frau, hast du etwa die Last in das Haus des reichen Brahmanen getragen?
 
-5\. Vater, wohin verlässt du die Familie?
+७. **देवि कृतपुण्यस्य वैश्यस्य सुखेष्टिं पिपूर्याः ॥ ७ ॥**
+Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen.
 
-> पितः कुत्र गच्छन्कुलं जहासि ॥५॥
+८. **हस्तिनो बन्धनानि न भञ्ज्यात ॥ ८ ॥** (Oder: **... न भिन्द्यात ॥**)
+Elefanten, ihr solltet die Fesseln nicht zerbrechen.
 
-6\. Śūdrafrau, hast du die Last ins Haus des reichen Brahmanen getragen?
+९. **नरसिंह कस्माद्ब्रह्मणि न समादधासि ॥ ९ ॥**
+Du löwengleicher Mann, warum richtest du deine Aufmerksamkeit nicht ganz auf das Absolute?
 
-> शूद्रे ऽपि धनवतो / धनिनो ब्राह्मणस्य गृहं भारमबिभः ॥६॥
+१०. **कवे कच्चिल्लोकानमिमीथाः ॥ १० ॥**
+Hast du, o Dichter, etwa die Welten gemessen?
 
-7\. Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen.
+---
 
-> देवि कृतपुण्यस्य वैश्यस्य सुखेष्टिं पिपूर्याः ॥७॥
-
-8\. Elefanten, ihr solltet die Fesseln nicht zerbrechen.
-
-> हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात ॥८॥
-
-9\. Du löwengleicher Mann, warum richtest du nicht deine ganze Aufmerksamkeit auf das Absolute (Brahman)?
-
-> नरसिंह कस्माद्ब्रह्मणि न समादधासि ॥९॥
-
-10\. Hast du, Dichter, die Welten gemessen?
-
-> कवे कच्चिल्लोकानमिमीथाः ॥१०॥
+## Übungstexte
 
 B) Übersetzen Sie:
 
-अर्जुन हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीं । तस्माद्भवता योध्यम् ॥१॥
+१. **अर्जुन हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीं । तस्माद्भवता योध्यम् ॥ १ ॥**
+Arjuna, entweder wirst du getötet und den Himmel erreichen, oder du wirst siegen und die Erde genießen. Deshalb ist von dir zu kämpfen (musst du kämpfen).
 
-> Arjuna!, entweder wirst du getötet und kommst in den Himmel, oder du siegst und wirst die Erde genießen. Deshalb sollst du kämpfen.
+२. **भवति कथमनन्तदुःखमरुणत् ॥ २ ॥**
+Ehrwürdige, wie haben Sie das unendliche Leiden beendet?
 
-भवति कथमनन्तदुःखमरुणत् ॥२॥
+३. **ब्राह्मण किमग्नौ घृतमजुहोः ॥ ३ ॥**
+Brahmane, hast du Ghee ins Opferfeuer gegossen?
 
-> Ehrwürdige, wie haben Sie das unendliche Leiden beendet?
+४. **शत्रो शस्तेण जीवं न छिनत्सि ॥ ४ ॥**
+Feind, mit dem Schwert spaltest du nicht die Seele (das Leben).
 
-ब्राह्मण किमग्नौ घृतमजुहोः ॥३॥
-
-> Brahmane, hast du Ghee zum Opfer ins Feuer gegossen?
-
-शत्रो शस्तेण जीवं न छिनत्सि ॥४॥
-
-> Feind!, mit dem Schwert spaltest du nicht die Seele.
-
-![](/images/uebung074.jpg)  
-Abb.: हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात  
-Dubare Elephant Camp, Kodagu \= ಕೊಡಗು  
-\[Bildquelle: anaxila. -- [http://www.flickr.com/photos/anaxila/412541806/](http://www.flickr.com/photos/anaxila/412541806/). -- Zugriff am 2009-01-22. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-
-Zu den [Lösungen der Übungen 46 - 52](uebung46.md)
+::: media
+![](/images/uebung074.jpg)
+Abb.: हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात
+(Bildquelle: [Details](/licenses#uebung074))
+:::

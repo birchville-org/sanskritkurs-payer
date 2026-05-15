@@ -8,7 +8,7 @@ title: Note legali & Citazione
 *Il seguente testo è stato estratto durante la conversione dai file delle lezioni per migliorare la fluidità della lettura.*
 
 ## Modalità di citazione | cite as:
-**Payer, Alois &lt;1944 - >:** Sanskritkurs. -- Versione del 2010. -- URL: http://www.payer.de/sanskritkurs/
+**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- Versione del 2010. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Occasione
 Creato per i corsi di insegnamento 1980 - 1984

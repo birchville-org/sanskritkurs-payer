@@ -7,11 +7,11 @@ outline: false
 
 L'indice degli argomenti viene generato automaticamente dai titoli di tutte le lezioni. Consente un accesso rapido a specifici fenomeni grammaticali.
 
-<PayerTopicIndex />
+&lt;PayerTopicIndex /&gt;
 
-<style>
+&lt;style&gt;
 /* Adjust layout for full width index */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }
-</style>
+&lt;/style&gt;

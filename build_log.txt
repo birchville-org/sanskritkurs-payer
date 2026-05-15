@@ -6,14 +6,14 @@
   vitepress v1.6.4
 
 - building client + server bundles...
-x Build failed in 1.15s
+x Build failed in 5.19s
 [31m✖[0m building client + server bundles...
 build error:
-[vite]: Rollup failed to resolve import "/images/lekt0_02.jpg" from "/Volumes/SanDisk1TB/proj/Payer/docs/it/lektionen/lektion09.md".
+[vite]: Rollup failed to resolve import "/images/lekt0001.jpg" from "/Volumes/SanDisk1TB/proj/Payer/docs/bg/lektionen/lektion09.md".
 This is most likely unintended because it can break your application at runtime.
 If you do want to externalize this module explicitly add it to
 `build.rollupOptions.external`
-[vite]: Rollup failed to resolve import "/images/lekt0_02.jpg" from "/Volumes/SanDisk1TB/proj/Payer/docs/it/lektionen/lektion09.md".
+[vite]: Rollup failed to resolve import "/images/lekt0001.jpg" from "/Volumes/SanDisk1TB/proj/Payer/docs/bg/lektionen/lektion09.md".
 This is most likely unintended because it can break your application at runtime.
 If you do want to externalize this module explicitly add it to
 `build.rollupOptions.external`

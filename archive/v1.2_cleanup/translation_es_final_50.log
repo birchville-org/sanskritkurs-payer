@@ -1,0 +1,3 @@
+Found 138 files to translate. Using concurrency: 1
+Translating lektion32.md (18.9 KB) to Español using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777171744\": unexpected EOF"}

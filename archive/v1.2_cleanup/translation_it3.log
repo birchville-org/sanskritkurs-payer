@@ -1,0 +1,59 @@
+Limiting to first 10 files.
+Found 10 files to translate. Using concurrency: 1
+Translating themen.md (0.3 KB) to Italiano (Nyx Opti) using gemma4:26b-optimized4nyx...
+Saved to docs/it3/themen.md
+Translating schrift02.md (0.3 KB) to Italiano (Nyx Opti) using gemma4:26b-optimized4nyx...
+Saved to docs/it3/lektionen/schrift02.md
+Translating schrift05.md (0.4 KB) to Italiano (Nyx Opti) using gemma4:26b-optimized4nyx...
+Saved to docs/it3/lektionen/schrift05.md
+Translating schrift03.md (0.5 KB) to Italiano (Nyx Opti) using gemma4:26b-optimized4nyx...
+Attempt 1 failed: read ETIMEDOUT
+Attempt 2 failed: 
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: read ETIMEDOUT
+Final failure for docs/lektionen/schrift03.md: read ETIMEDOUT
+Translating schrift11.md (0.6 KB) to Italiano (Nyx Opti) using gemma4:26b-optimized4nyx...
+Attempt 1 failed: read ETIMEDOUT
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: read ETIMEDOUT
+Final failure for docs/lektionen/schrift11.md: read ETIMEDOUT
+Translating impressum.md (0.9 KB) to Italiano (Nyx Opti) using gemma4:26b-optimized4nyx...
+Attempt 1 failed: read ETIMEDOUT
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: read ETIMEDOUT
+Final failure for docs/impressum.md: read ETIMEDOUT
+Translating schrift04.md (0.6 KB) to Italiano (Nyx Opti) using gemma4:26b-optimized4nyx...
+Attempt 1 failed: read ETIMEDOUT
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: read ETIMEDOUT
+Final failure for docs/lektionen/schrift04.md: read ETIMEDOUT
+Translating schrift09.md (1.3 KB) to Italiano (Nyx Opti) using gemma4:26b-optimized4nyx...
+Attempt 1 failed: read ETIMEDOUT
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: read ETIMEDOUT
+Final failure for docs/lektionen/schrift09.md: read ETIMEDOUT
+Translating schrift06.md (1.0 KB) to Italiano (Nyx Opti) using gemma4:26b-optimized4nyx...
+Attempt 1 failed: read ETIMEDOUT
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: read ETIMEDOUT
+Final failure for docs/lektionen/schrift06.md: read ETIMEDOUT
+Translating schrift07.md (1.3 KB) to Italiano (Nyx Opti) using gemma4:26b-optimized4nyx...
+Attempt 1 failed: read ETIMEDOUT
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: read ETIMEDOUT
+Final failure for docs/lektionen/schrift07.md: read ETIMEDOUT
+Finished translating Italiano (Nyx Opti). Running link fixer...
+Fixing links, escaping HTML, and closing tags for it3...

@@ -1,173 +1,139 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet das Adverb „akasmāt“?',
-    options: ['Plötzlich, unerwartet', 'Immer', 'Vielleicht', 'Deshalb'],
-    answer: 0,
-    explanation: 'akasmāt (Ablativ von katarat/kiṃ?) bedeutet „unerwartet“ oder „ohne ein Warum“ (Lektion 37.2.4).'
-  },
-  {
-    question: 'Was bedeutet das Avyayībhāva-Kompositum „anuganggam“?',
-    options: ['Entlang des Ganges', 'Im Ganges', 'Hinter dem Ganges', 'Gegen den Ganges'],
-    answer: 0,
-    explanation: 'anu bedeutet „entlang“ oder „gemäß“. anuganggam = entlang des Ganges.'
-  },
-  {
-    question: 'Wie lautet das Indefinitpronomen für „irgendjemand“ (Maskulinum)?',
-    options: ['kaścit', 'kadāpi', 'kiñcit', 'kutrapi'],
-    answer: 0,
-    explanation: 'kaścit wird aus kaḥ (wer?) + cit gebildet (Lektion 37.7).'
-  }
-]
-</script>
+---
+title: "Übung 37"
+uebung_id: 37
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 37
+::: deleteme-box Zitierweise & Rechte
 
-A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter. Übersetzen Sie die Fragesätze.
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
-Beispiel: क आगच्छति (राम) । » राम आगच्छति ।
+# Übung 37
 
-कस्मै ब्राह्मण्यन्नं ददौ ॥१॥ (भिक्षु, बाला, दास, भगवन्त्)
+A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter:
 
-> भिक्षवे । भिक्षुभ्यो । बालायै । बालाभ्यो । दासाय । दासेभ्यो । भगवते । भगद्भ्यो  ब्राह्मण्यन्नं ददौ ॥१॥
+१. **कस्मै ब्राह्मण्यन्नं ददौ ॥ १ ॥** (भिक्षु, बाला, दास, भगवन्त्)
+- **भिक्षवे ब्राह्मण्यन्नं ददौ ।** (Bzw. Plural: **भिक्षुभ्यो ...**)
+- **बालायै ब्राह्मण्यन्नं ददौ ।**
+- **दासाय ब्राह्मण्यन्नं ददौ ।**
+- **भगवते ब्राह्मण्यन्नं ददौ ।**
 
-क आर्यसत्यान्यजानात् ॥२॥ (बुद्ध, शाक्यमुनि)
+२. **क आर्यसत्यान्यजानात् ॥ २ ॥** (बुद्ध, शाक्यमुनि)
+- **बुद्ध आर्यसत्यान्यजानात् ।**
+- **शाक्यमुनिरार्यसत्यान्यजानात् ।**
 
-> बुद्ध आर्यसत्यान्यजानात् । शाक्यमुनिरार्यसत्यान्यजानात् ॥२॥
+३. **कुत्राग्निश्चीयते ॥ ३ ॥** (यज्ञस्थान, मही)
+- **यज्ञस्थाने ऽग्निश्चीयते ।**
+- **मह्यामग्निश्चीयते ।**
 
-कुत्राग्निश्चीयते ॥३॥ (यज्ञस्थान, मही)
+४. **कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥ ४ ॥** (यज्ञकाल, देवान् स्तुत्वा)
+- **यज्ञकले ब्राह्माणा घृतमग्नौ जुह्वति ।**
+- **देवान्स्तुत्वा ब्राह्माणा घृतमग्नौ जुह्वति ।**
 
-> यज्ञस्थाने ऽग्निश्चीयते । मह्यामग्निश्चीयते ॥३॥
+५. **कस्मान्मतिमतयः पुण्यं चक्रुः ॥ ५ ॥** (स्वर्गलोभ, नरकभय, भीतनरकता)
+- **स्वर्गलोभान्मतिमतयः पुण्यं चक्रुः ।**
+- **नरकभयान्मतिमतयः पुण्यं चक्रुः ।**
+- **भीतनरकताया मतिमतयः पुण्यं चक्रुः ।**
 
-कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥ (यज्ञकाल, देवान् स्तु &lt;Absolutiv&gt;)
+६. **किमेव शस्त्रं छिनत्ति ॥ ६ ॥** (शरीर, अजीव)
+- **शरीरमेव शस्त्रं छिनत्ति ।**
+- **अजीवमेव शस्त्रं छिनत्ति ।**
 
-> यज्ञकले ब्राह्माणा घृतमग्नौ जुह्वति । देवान्स्तुत्वा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥
+७. **किंकामः शत्रुरार्यैः सह युयुधे ॥ ७ ॥** (धनं जि)
+- **धनं जेतुकामः शत्रुरार्यैः सह युयुधे ।**
 
-कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥ (स्वर्गलोभ, नरकभय, भीतनरकता)
+८. **कया भिक्षुरादितः ॥ ८ ॥** (गुणवती शूद्रा)
+- **गुणवत्या शूद्रया भिक्षुरादितः ।**
 
-> स्वर्गलोभान्मतिमतयः पुण्यं चक्रुः । नरकभयान्मतिमतयः पुण्यं चक्रुः । भीतनरकताया मतिमतयः पुण्यं चक्रुः ॥५॥
+९. **कुतः सुपुनर्भवं गम्यते ॥ ९ ॥** (कृतपुण्यत्व, सुनीति)
+- **कृतपुण्यत्वात्सुपुनर्भवं गम्यते ।**
+- **सुनीतेः सुपुनर्भवं गम्यते ।**
 
-किमेव शस्त्रं छिनत्ति ॥६॥ (शरीर, अजीव)
+१०. **केन शूद्रा न काम्येत ॥ १० ॥** (द्विजाति, ब्राह्मण, साधु)
+- **द्विजातिना / ब्राह्मणेन / साधुना शूद्रा न काम्येत ।**
 
-> शरीरमेव शस्त्रं छिनत्ति । अजीवमेव शस्त्रं छिनत्ति ॥६॥
+११. **किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥ ११ ॥** (दुःखमोक्ष, मोक्षनयन्ती प्रज्ञा)
+- **दुःखमोक्षार्थं सुगतो ऽगारादनगार्यं प्रवव्राज ।**
 
-किंकामः शत्रुरार्यैः सह युयुधे ॥७॥ (धनं जि)
+१२. **कस्याः पुत्रः कृष्ण आसीत् ॥ १२ ॥** (देवकी)
+- **देवक्याः पुत्रः कृष्ण आसीत् ।**
 
-> धनं जेतुकामः शत्रुरार्यैः सह युयुधे ॥७॥
+१३. **क्व मर्तुं सज्जना इच्छन्ति ॥ १३ ॥** (काशी = वाराणसी)
+- **काश्यां / वाराणस्यां मर्तुं सज्जना इच्छन्ति ।**
 
-कया भिक्षुरादितः ॥८॥ (गुणवती शूद्रा)
+१४. **केषां धर्मो वेदाध्ययनम् ॥ १४ ॥** (द्विज, द्विजाति, आर्य)
+- **द्विजानां / द्विजातीनां / आर्याणां धर्मो वेदाध्ययनम् ।**
 
-> गुणवत्या शूद्रया भिक्षुरादितः ॥७॥
+१५. **कैर्वेदः प्रोक्तः ॥ १५ ॥** (ऋषि)
+- **ऋषिभिर्वेदः प्रोक्तः ।**
 
-कुतः सुपुनर्भवं गम्यते ॥९॥ (कृतपुण्यत्व, सुनीति)
+१६. **कस्मिञ्जात आर्यः सुखमाप्नोति ॥ १६ ॥** (पुत्र)
+- **पुत्रे जात आर्यः सुखमाप्नोति ।**
 
-> कृतपुण्यत्वात्सुपुनर्भवं गम्यते । सुनीतेः । सुनीत्याः । सुनीतितः सुपुनर्भवं गम्यते ॥९॥
+१७. **का नरा लुभ्यन्ति ॥ १७ ॥** (सुरूपशरीरा, देवीरूपा)
+- **सुरूपशरीरा नरा लुभ्यन्ति ।**
 
-केन शूद्रा न काम्येत ॥१०॥ (द्विजाति, ब्राह्मण, साधु)
+१८. **के नराः सुरूपा लुभ्यन्ति ॥ १८ ॥** (समोह, बुद्धिमन्त्)
+- **समोहा नराः सुरूपा लुभ्यन्ति ।**
 
-> द्विजातिना । ब्राह्मणेन । साधुना शूद्रा न काम्येत ॥१०॥
+१९. **कस्या इन्द्रः पुत्रं दास्यति ॥ १९ ॥** (सुमतिब्राह्मणी)
+- **सुमत्यै ब्राह्मण्या इन्द्रः पुत्रं दास्यति ।**
 
-किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥ (दुःखमोक्ष, मोक्षनयन्ती प्रज्ञा)
+---
 
-> दुःखमोक्षस्यार्थं । दुःखमोक्षार्थं सुगतो ऽगारादनगार्यं प्रवव्राज । मोक्षनयन्त्याः प्रज्ञाया अर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥
-
-कस्याः पुत्रः कृष्ण आसीत् ॥१२॥ (देवकी)
-
-> देवक्याः पुत्रः कृष्ण आसीत् ॥१२॥
-
-क्व मर्तुं सज्जना इच्छन्ति ॥१३॥ (काशी = वाराणसी)
-
-> काश्यां । वाराणस्यां मर्तुं सज्जना इच्छन्ति ॥१३॥
-
-केषां धर्मो वेदाध्ययनम् ॥१४॥ (द्विज, द्विजाति, आर्य)
-
-> द्विजानां । द्विजातीनां । आर्याणां धर्मो वेदाध्ययनम् ॥१४॥
-
-कैर्वेदः प्रोक्तः ॥१५॥ (ऋषि)
-
-> ऋषिभिर्वेदः प्रोक्तः ॥१५॥
-
-कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥ (पुत)
-
-> पुत्रे जात आर्यः सुखमाप्नोति ॥१६॥
-
-का नरा लुभ्यन्ति ॥१७॥ (सुरूपशरीरा, देवीरूपा)
-
-> सुरूपशरीरा । देवीरूपा नरा लुभ्यन्ति ॥१७॥
-
-के नराः सुरूपा लुभ्यन्ति ॥१८॥ (समोह, बुद्धिमन्त्)
-
-> समोहा । बुद्धिमन्तो नराः सुरूपा लुभ्यन्ति ॥१८॥
-
-कस्या इन्द्रः पुत्रं दास्यति ॥१९॥ (कृतव्रता पुण्यवती सुमतिब्राह्मणी)
-
-> कृतव्रतायै पुण्यवतै सुमतये । सुमत्यै । ब्राह्मण्या इन्द्रः पुत्रं दास्यति । ... ब्राह्मण्यायिन्द्रः पुत्रं दास्यति ॥१९॥
+## Interrogativsätze
 
 B) Übersetzen Sie:
 
- किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्रेषु वसेत् ॥१॥
+१. **किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्रेषु वसेत् ॥ १ ॥**
+Soll jemand, dessen Einsicht festgegründet ist, in die Heimlosigkeit gehen oder soll er daheim bei seinen Söhnen bleiben?
 
-> Soll jemand, des Einsicht festgegründet ist, in die Heimlosigkeit gehen oder soll er daheim bei seinen Söhnen bleiben?
+२. **अपि गुरुः सत्यं जानाति ॥ २ ॥**
+Kennt der Meister auch die Wahrheit?
 
-अपि गुरुः सत्यं जानाति ॥२॥
+३. **कच्चिच्छुद्रा द्विजदासाः ॥ ३ ॥**
+Sind die Śūdras etwa Diener der Zweimalgeborenen?
 
-> Kennt der Meister auch die Wahrheit?
+४. **कच्छिच्छुद्रो भारमाबिभः ॥ ४ ॥**
+Hat der Śūdra etwa die Last getragen?
 
-कच्चिच्छुद्रा द्विजदासाः ॥३॥
+---
 
-> Ist der Śūdra Leibeigener der Zweimalgeborenen?
+## Avyayībhāva (Indeklinable Komposita)
 
-कच्छिच्छुद्रो भारमाबिभः ॥४॥
+C) Bestimmen und übersetzen Sie folgende Komposita:
 
-> Hat der Śūdra die Last gebracht?
+::: grammar-box
+| Kompositum | Bedeutung | Erläuterung |
+| :--- | :--- | :--- |
+| **अतिमात्रम्** | übermäßig | मात्रामतीत्य (über das Maß hinaus) |
+| **अतिवसन्तम्** | nach dem Frühling | वसन्तमतीत्य (nach Ende des Frühlings) |
+| **अधिहरि** | in Hari | हरौ (in Hari) |
+| **अधिकेरलम्** | in Kerala | केरेलेषु (in Kerala) |
+| **अनुरूपम्** | entsprechend | रूपस्य योग्यम् (der Form angemessen) |
+| **अनुदिनम्** | täglich | दिने दिने (Tag für Tag) |
+| **अनुगङ्गम्** | entlang des Ganges | गङ्गाया अनु (entlang des Ganges) |
+| **अनुविष्णुम्** | nach Viṣṇu | विष्णोः पश्चात् (hinter/nach Viṣṇu) |
+| **अपविष्णुम्** | ohne Viṣṇu | विष्णोः पृथक् (fern von Viṣṇu) |
+| **अभिमुखम्** | gegenüber | मुखमभि (auf das Gesicht zu) |
+| **अभ्यग्नि** | zum Feuer hin | अग्निमभि (in Richtung des Feuers) |
+| **आबालवृद्धम्** | von Kindern bis zu Greisen | आ बालेभ्यश्च वृद्धेभ्यश्च (einschließlich...) |
+| **आमरणम्** | bis zum Tod | आ मरणात् (bis zum Sterben) |
+| **उपवृक्षम्** | beim Baum | वृक्षस्य समीपे (nahe beim Baum) |
+| **यथास्थानम्** | am rechten Ort | स्थानमनतिक्रम्य (den Ort nicht überschreitend) |
+:::
 
-C) Übersetzen Sie folgende अव्ययीभाव :
+::: media
+![](/images/uebung062.jpg)
+Abb.: पुत्रे जात आर्यः सुखमाप्नोति
+(Bildquelle: [Details](/licenses#uebung062))
+:::
 
-1\. अति Postposition mit Akk.: "über ... hinaus"
+---
 
-1.  अतिमात्रम् । मात्रामतीत्य "jenseits eines Maßes, übermäßig"
-2.  अतिवसन्तम् । वसन्तमतीत्य "nach dem Frühling"
+## Narratives Perfekt (Die Geschichte vom Greis)
 
-2\. अधि "in"
+Übersetzen Sie ins Sanskrit, indem Sie ausschließlich Verbformen des Perfekt verwenden:
 
-1.  अधिहरि "in Hari"
-2.  अधिकेरलम् "in Kerala"
-
-3\. अनु "entsprechend, entlang, nach"
-
-1.  अनुरूपम् "entsprechend"
-2.  अनुदिनम् "täglich"
-3.  अनुगङ्गम् "entlang des Ganges"
-4.  अनुविष्णुम् "nach Viṣṇu"
-
-4\. अप "ohne"
-
-1.  अपविष्णुम् "ohne Viṣṇu"
-
-5\. अभि "in Richtung auf"
-
-1.  अभिमुखम् "vorn, gegenüber"
-2.  अभ्यग्नि "zum Feuer"
-
-6\. आ "seit, bis, einschließlich"
-
-1.  आबालवृद्धम् "einschließlich Kinder und Greise"
-2.  आमरणम् "bis zum Tod"
-
-. उप "nahe"
-
-1.  उपवृक्षम् "in der Nähe des Baums"
-
-8\. यथा
-
-1.  यथास्थानम् "am rechten Ort"
-
-![](/images/uebung062.jpg)  
-Abb.: पुत्रे जात आर्यः सुखमाप्नोति  
-\[Bildquelle: [amee@work](mailto:amee@work). -- [http://www.flickr.com/photos/amee\_photo/3122658519/in/photostream/](http://www.flickr.com/photos/amee_photo/3122658519/in/photostream/). -- Zugriff am 2009-01-20. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-
-Übersetzen Sie ins Sanskrit indem Sie ausschließlich Verbformen des Perfekt verwenden:
-
-Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuß eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte fraßen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises!
-
-एकदा कश्चिद्वृद्धो ग्रामान्तरं गच्छन्पथि श्रान्तो ऽभवत् । अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमगच्छत् ॥ तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त । वृद्धस्य तेषु स्पृहा जाता । परं स वृक्षमारुह्य तानि ग्रहीtuṃ नाशक्नोत् ॥ दिष्ट्या तस्मिन् तरौ केचिद्वानराः फलानि खादन्तः स्थिताः । तानवलोक्य वृद्धः प्रहर्षं गतः । स किमकरोत् । स कतिचिदुपलानादाय वानरांल्लक्ष्यीकृत्य प्राक्षिपत् । वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् । वृद्धः सहर्षं तान्यादाय स्वाभीष्टदेशं गतः ॥ अहो वृद्धस्य कौशलम् ॥
+**एकदा कश्चिद्वृद्धो ग्रामान्तरं गच्छन्पथि श्रान्तो बभूव । अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलं जगाम ॥ तस्मिन्वृक्षे पचेलिमानि फलानि ववृतिरे । वृद्धस्य तेषु स्पृहा जज्ञे । परं स वृक्षमारुह्य तानि ग्रहीतुं न शेकुः ॥ दिष्ट्या तस्मिन् तरौ केचिद्वानराः फलानि खादन्तः तस्थुः । तानवलोक्य वृद्धः प्रहर्षं जगाम । स किमकरोत् । स कतिचिदुपलानादाय वानरांल्लक्ष्यीकृत्य प्रसिसिषे । वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्रसिसिषुः । वृद्धः सहर्षं तान्यादाय स्वाभीष्टदेशं जगाम ॥ अहो वृद्धस्य कौशलम् ॥**

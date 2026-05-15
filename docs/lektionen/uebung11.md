@@ -1,47 +1,53 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Wie drückt man „die Smṛti sagt“ (als Zitatquelle) im Sanskrit aus?',
-    options: ['iti smṛtiḥ', 'smṛtir iti', 'vadyate smṛtiḥ', 'smṛtiḥ vadati'],
-    answer: 1,
-    explanation: 'Zitate oder Lehrsprüche werden im Sanskrit häufig mit „iti“ beendet, gefolgt von der Quelle (z.B. smṛtir iti).'
-  },
-  {
-    question: 'Wie lautet die Passiv-Form der Wurzel „vad“ (sagen/sprechen)?',
-    options: ['vadyate', 'vadyati', 'udyate', 'vadyaḥ'],
-    answer: 2,
-    explanation: 'Die Wurzel „vad“ bildet das Passiv unter Samprasāraṇa (Vokalisierung des Halbvokals v zu u): udyate.'
-  }
-]
-</script>
+---
+title: "Übung 11"
+uebung_id: 11
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 11
+::: deleteme-box Zitierweise & Rechte
+
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+
+# Übung 11
 
 A) Übersetzen Sie untenstehende Sätze
 
-१. ऋषिः सत्यं वदति । Der vedische Weise spricht die Wahrheit.
+१. ऋषिः सत्यं वदति ।
+Der vedische Weise spricht die Wahrheit.
 
-२. ब्राह्मणः पुत्रमिच्छति । Ein Brahmane wünscht sich einen Sohn.
+२. ब्राह्मणः पुत्रमिच्छति ।
+Ein Brahmane wünscht sich einen Sohn.
 
-३. साधुः स्वर्गं गच्छति । Ein Heiliger kommt in den Himmel.
+३. साधुः स्वर्गं गच्छति ।
+Ein Heiliger kommt in den Himmel.
 
-४. ब्राह्मणो ऽनृतं न वदतीति स्मृतिः । Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+४. ब्राह्मणो ऽनृतं न वदतीति स्मृतिः ।
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
 
-५. क्षत्रियो ब्राह्मणं धर्मं पृच्छति । Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+५. क्षत्रियो ब्राह्मणं धर्मं पृच्छति ।
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
 
-६. एवं ब्राह्मणो यज्ञेन देवं यजति । So bringt der Brahmane dem Gott ein Opfer dar.
+६. एवं ब्राह्मणो यज्ञेन देवं यजति ।
+So bringt der Brahmane dem Gott ein Opfer dar.
 
-७. पुत्रः पापं करोतीति वैश्या मन्यते । Die Vaiśyafrau meint, dass ihr Sohn Böses tut.
+७. पुत्रः पापं करोतीति वैश्या मन्यते ।
+Die Vaiśyafrau meint, dass ihr Sohn Böses tut.
 
-८. क्षत्रियः क्षत्रियेण सह युध्यते । Kṣatriya kämpft mit Kṣatriya.
+८. क्षत्रियः क्षत्रियेण सह युध्यते ।
+Kṣatriya kämpft mit Kṣatriya.
 
-९. अधर्मो ऽनृतमिति पुत्रः पापं न करोति । Da Unwahrheit Unrecht ist, begeht der Sohn keine Übeltat.
+९. अधर्मो ऽनृतमिति पुत्रः पापं न करोति ।
+Da Unwahrheit Unrecht ist, begeht der Sohn keine Übeltat.
 
-१०. अयं क्षत्रियो धर्मं रक्षति । Dieser Kṣatriya behütet den Dharma.
+१०. अयं क्षत्रियो धर्मं रक्षति ।
+Dieser Kṣatriya behütet den Dharma.
 
-११. को ऽग्निं यजते । Wer verehrt das Feuer (Gott Agni) mit einem Opfer?
+११. को ऽग्निं यजते ।
+Wer verehrt das Feuer (Gott Agni) mit einem Opfer?
 
-१२. स श्रावको बुद्धं धर्मं पृच्छति ॥ Dieser Jünger befragt den Buddha über seine Lehre.
+१२. स श्रावको बुद्धं धर्मं पृच्छति ॥
+Dieser Jünger befragt den Buddha über seine Lehre.
 
 B) Setzen Sie die Sätze von A) in Passivkonstruktion
 
@@ -61,7 +67,7 @@ B) Setzen Sie die Sätze von A) in Passivkonstruktion
 
 ८. क्षत्रियेण क्षत्रियेण सह युध्यते ।
 
-९. अधर्मो ऽनृतमिति पुत्रेण पापं न क्रियते ।
+९. अधर्मो ऽनृतमिति पुत्रेण पापं n क्रियते ।
 
 १०. अनेन क्षत्रियेण धर्मो रक्ष्यते ।
 
@@ -121,10 +127,15 @@ D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion
 
 १२. तैः श्रावकैर्बुद्धो धर्मं प्र्च्छ्यते ॥
 
-![](/images/uebung022.jpg)  
-Abb.: केनाग्निरिज्यते ।  
- Opfer, Shiva ashram, Kothavala, Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt  
-\[Bildquelle: Dey. -- [http://www.flickr.com/photos/dey/466769475/](http://www.flickr.com/photos/dey/466769475/).  -- Zugriff am 2008-12-06. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Comons Lizenz (Namensnennung, keine kommerzielle Nutzung, Share alike)\]
+::: media
+![](/images/uebung022.jpg)
+Abb.: केनाग्निरिज्यते ।
+(Bildquelle: [Details](/licenses#uebung022))
+:::
+
+---
+
+## Zusätzliche Übungen
 
 A) Übersetzen Sie ins Sanskrit mit Passivkonstruktionen:
 
@@ -150,7 +161,9 @@ A) Übersetzen Sie ins Sanskrit mit Passivkonstruktionen:
 
 6\. Die Śūdrafrau geht ins Dorf.
 
-7\. Wer sieht die  Wahrheit?
+शूद्रया ग्रामो गम्यते ।
+
+7\. Wer sieht die Wahrheit?
 
 केन सत्यं दृश्यते ॥
 
@@ -166,37 +179,53 @@ B)
 
 C) Übersetzen Sie:
 
-१. श्रवणेन श्रूयते । Das Ohr hört. Mit dem Ohr hört man.
+१. श्रवणेन श्रूयते ।
+Das Ohr hört. Mit dem Ohr hört man.
 
-२. कर्षकैः कृष्यते । Ackerbauern pflügen.
+२. कर्षकैः कृष्यते ।
+Ackerbauern pflügen.
 
-३. श्रावकेणेश्वरो नेज्यते । Ein Buddhaanhänger opfert keinem HERRN.
+३. श्रावकेणेश्वरो नेज्यते ।
+Ein Buddhaanhänger opfert keinem HERRN.
 
-४. रक्षिक्या गुरू रक्ष्यते । Das Amulett beschützt den Meister.
+४. रक्षिक्या गुरू रक्ष्यते ।
+Das Amulett beschützt den Meister.
 
-५. ब्राह्मणेनानृतं नोद्यते । Ein Brahmane spricht keine Unwahrheit
+५. ब्राह्मणेनानृतं नोद्यते ।
+Ein Brahmane spricht keine Unwahrheit.
 
-६. शूद्रेतरा । Itarā ist eine Śūdrafrau.
+६. शूद्रेतरा ।
+Itarā ist eine Śūdrafrau.
 
-७. शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि । Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Wortbedeutungslehre, Metrik und Kalenderlehre
+७. शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि ।
+Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Wortbedeutungslehre, Metrik und Kalenderlehre.
 
-८. आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ॥ Wissenschaften sind: Philosophie, Vedistik, Ökonomie und Politologie.
+८. आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ॥
+Wissenschaften sind: Philosophie, Vedistik, Ökonomie und Politologie.
 
 D) Übersetzen Sie und setzen Sie in Sanskrit Agens, Objekt und Verb in den Plural:
 
-१. फलमश्नुते । Er bekommt eine Frucht. फलान्यश्नुवन्ते ।
+१. फलमश्नुते ।
+Er bekommt eine Frucht.
+फलान्यश्नुवन्ते ।
 
-२. गुरुणा सत्यमुद्यते । Der Meister spricht die Wahrheit. गुरुभिः सत्यान्युद्यन्ते ।
+२. गुरुणा सत्यमुद्यते ।
+Der Meister spricht die Wahrheit.
+गुरुभिः सत्यान्युद्यन्ते ।
 
-३. वैश्यः पशुं लभते । Der Vaiśya erhält Vieh. वैश्याः पशुंल्लभन्ते ।
+३. वैश्यः पशुं लभते ।
+Der Vaiśya erhält Vieh.
+वैश्याः पशुंल्लभन्ते ।
 
-४. पुत्रः पुण्यं करोति ॥ Mein Sohn tut Verdienstvolles. पुत्राः पुण्यानि कुर्वन्ति ॥
+४. पुत्रः पुण्यं करोति ॥
+Mein Sohn tut Verdienstvolles.
+पुत्राः पुण्यानि कुर्वन्ति ॥
 
 E) Verwandeln Sie die Sätze C)1-5 in Aktivkonstruktionen.
 
 १. श्रवणं शृणोति ।
 
-२. कर्षकाः कृषन्ति ।
+२. कर्षkaः कृषन्ति ।
 
 ३. श्रावक ईश्वरं न यजते ।
 
@@ -204,7 +233,8 @@ E) Verwandeln Sie die Sätze C)1-5 in Aktivkonstruktionen.
 
 ५. ब्राह्मनो ऽनृतं न वदति ॥
 
-![](/images/uebung021.jpg)  
-Abb.: फलान्यश्नुते  
-Mysore = ಮೈಸೂರು  
-\[Bildquelle: PnP!. -- [http://www.flickr.com/photos/pnp/1596379612/](http://www.flickr.com/photos/pnp/1596379612/). -- Zugriff am 2008-12-06. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/uebung021.jpg)
+Abb.: फलान्यश्नुते
+(Bildquelle: [Details](/licenses#uebung021))
+:::

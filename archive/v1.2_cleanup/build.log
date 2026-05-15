@@ -1,0 +1,29 @@
+
+> sanskritkurs-pipeline@1.1.2 docs:build
+> vitepress build docs
+
+
+  vitepress v1.6.4
+
+- building client + server bundles...
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+[32m✓[0m building client + server bundles...
+- rendering pages...
+[31m✖[0m rendering pages...
+build error:
+Cannot read properties of undefined (reading 'question')
+TypeError: Cannot read properties of undefined (reading 'question')
+    at file:///Volumes/SanDisk1TB/proj/Payer/docs/.vitepress/.temp/app.js:4890:399
+    at renderComponentSubTree (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/server-renderer/dist/server-renderer.cjs.prod.js:470:9)
+    at renderComponentVNode (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/server-renderer/dist/server-renderer.cjs.prod.js:420:12)
+    at ssrRenderComponent (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/server-renderer/dist/server-renderer.cjs.prod.js:104:10)
+    at _sfc_ssrRender (file:///Volumes/SanDisk1TB/proj/Payer/docs/.vitepress/.temp/en_lektionen_uebung02.md.js:9:9)
+    at renderComponentSubTree (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/server-renderer/dist/server-renderer.cjs.prod.js:470:9)
+    at renderComponentVNode (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/server-renderer/dist/server-renderer.cjs.prod.js:420:12)
+    at renderVNode (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/server-renderer/dist/server-renderer.cjs.prod.js:533:14)
+    at renderVNodeChildren (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/server-renderer/dist/server-renderer.cjs.prod.js:549:5)
+    at renderElementVNode (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/server-renderer/dist/server-renderer.cjs.prod.js:593:9)

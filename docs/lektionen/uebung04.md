@@ -1,27 +1,15 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was ist das korrekte Fragepronomen für „peṭikā“ (f. Schachtel)?',
-    options: ['eṣa kaḥ?', 'eṣā kā?', 'etat kim?', 'eṣā kaḥ?'],
-    answer: 1,
-    explanation: 'peṭikā ist feminin, daher wird „eṣā kā?“ (für Personen/Dinge) verwendet.'
-  },
-  {
-    question: 'Wie lautet die maskuline Antwort auf „ayaṃ kaḥ?“, wenn es sich um einen Vogel (śukaḥ) handelt?',
-    options: ['ayaṃ śukaḥ', 'iyaṃ śukaḥ', 'idam śukaḥ', 'ayaṃ śukaṃ'],
-    answer: 0,
-    explanation: 'śukaḥ ist maskulin, daher wird das maskuline Pronomen „ayaṃ“ verwendet.'
-  },
-  {
-    question: 'Welcher Demonstrativstamm bezieht sich im Sanskrit auf bereits Erwähntes?',
-    options: ['etad', 'idam', 'tad', 'adaḥ'],
-    answer: 2,
-    explanation: 'tad wird typischerweise für bereits im Text eingeführte Personen oder Dinge verwendet.'
-  }
-]
-</script>
+---
+title: "Übung 4"
+uebung_id: 4
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 4
+::: deleteme-box Zitierweise & Rechte
+
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+
+# Übung 4
 
 A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇuḥ kaḥ (विष्णुः कः) und beantworten Sie die Fragen auf Sanskrit:
 
@@ -63,7 +51,11 @@ kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 
 B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (एतत्किम्) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (एष बालः):
 
+::: media
 ![](/images/lekt0401.jpg)
+Abb.: एष कः । एष गजः । अयं गजः । स गजः । एषा का । एषा बाला । इयं बाला । सा बाला ।
+(Bildquelle: [Details](/licenses#lekt0401))
+:::
 
 eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
 
@@ -101,7 +93,8 @@ etat kim? eṣā pipīlikā.
 
 एतत्किम् । एषा पिपीलिका ॥
 
-![](/images/uebung003.jpg)  
-Abb.: etat kim? eṣa kākaḥ.  एतत्किम् | एष काकः ||  
-Glanzkrähen (_Corvus splendens_), Rājasthān (राजस्थान)  
-\[Bildquelle: Duncan Wright / Wikipedia. -- GNU FDLizenz\]
+::: media
+![](/images/uebung003.jpg)
+Abb.: एतत्किम् । एष काकः ।
+(Bildquelle: [Details](/licenses#uebung003))
+:::

@@ -1,5 +1,3 @@
-import { getSidebarItems } from '../utils.mjs'
-
 export const de = {
   label: 'DE',
   lang: 'de-DE',
@@ -11,6 +9,7 @@ export const de = {
       { text: 'Home', link: '/' },
       { text: 'Inhaltsverzeichnis', link: '/lektionen/inhaltsverzeichnis' },
       { text: 'Themen-Index', link: '/grammatik' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Impressum', link: '/impressum' }
     ],
     docFooter: {
@@ -21,9 +20,9 @@ export const de = {
       { text: 'Inhaltsverzeichnis', link: '/lektionen/inhaltsverzeichnis' },
       { text: 'Grammatik Themen (Index)', link: '/grammatik' },
       { text: 'Wortliste', link: '/lektionen/wortliste' },
-      { text: 'Lektionen', collapsed: false, items: getSidebarItems('lektion', 'Lektion', 'root', 10) },
-      { text: 'Schrift (Einführung)', collapsed: true, items: getSidebarItems('schrift', 'Schrift', 'root') },
-      { text: 'Übungen', collapsed: true, items: getSidebarItems('uebung', 'Übung', 'root', 10) },
+      { text: 'Lektionen', collapsed: false, items: [] },
+      { text: 'Schrift (Einführung)', collapsed: true, items: [] },
+      { text: 'Übungen', collapsed: true, items: [] },
       { text: 'Rechtliches', collapsed: true, items: [
           { text: 'Impressum & Zitieren', link: '/impressum' },
           { text: 'Bildlizenzen (Audit)', link: '/licenses' }

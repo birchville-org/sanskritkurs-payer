@@ -9,6 +9,37 @@ import { uk } from './locales/uk.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
 const container = require('markdown-it-container')
+const multimd_table = require('markdown-it-multimd-table')
+import { getSidebarItems } from './utils.mjs'
+
+// Populate sidebars dynamically
+de.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lektion', 'root', 10)
+de.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Schrift', 'root')
+de.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Übung', 'root', 10)
+
+en.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lesson', 'en', 10)
+en.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Script', 'en')
+en.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Exercise', 'en', 10)
+
+it.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lezione', 'it', 10)
+it.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Scrittura', 'it')
+it.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Esercizio', 'it', 10)
+
+es.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lección', 'es', 10)
+es.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Escritura', 'es')
+es.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ejercicio', 'es', 10)
+
+bg.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Урок', 'bg', 10)
+bg.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Писмо', 'bg')
+bg.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Упражнение', 'bg', 10)
+
+ru.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Лекция', 'ru', 10)
+ru.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Письмо', 'ru')
+ru.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Упражнение', 'ru', 10)
+
+uk.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Лекція', 'uk', 10)
+uk.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Письмо', 'uk')
+uk.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Вправа', 'uk', 10)
 
 export default defineConfig({
   title: "Sanskritkurs",
@@ -64,6 +95,13 @@ export default defineConfig({
     lineNumbers: true,
     breaks: true,
     config: (md) => {
+      md.use(multimd_table, {
+        multiline: true,
+        rowspan: true,
+        headerless: true,
+        multiscript: true,
+        colspans: true
+      });
       md.use(container, 'grammar-box', {
         render: (tokens, idx) => {
           if (tokens[idx].nesting === 1) {
@@ -102,6 +140,16 @@ export default defineConfig({
         }
       });
 
+      md.use(container, 'deleteme-box', {
+        render: (tokens, idx) => {
+          if (tokens[idx].nesting === 1) {
+            return `<div class="deleteme-box custom-block">\n`;
+          } else {
+            return `</div>\n`;
+          }
+        }
+      });
+
       md.use(container, 'laut-table', {
         render: (tokens, idx) => {
           if (tokens[idx].nesting === 1) {
@@ -112,33 +160,48 @@ export default defineConfig({
         }
       });
       
-      // Auto-styling for Devanagari characters (Scholarly Red)
-      md.core.ruler.after('linkify', 'devanagari_styling', (state) => {
+      // Auto-styling for Devanagari characters and [[br]] replacement
+      md.core.ruler.after('linkify', 'scholarly_fixes', (state) => {
         state.tokens.forEach(token => {
           if (token.type === 'inline') {
             let newChildren = [];
             token.children.forEach(child => {
               if (child.type === 'text') {
-                // Regex for Devanagari range (U+0900-U+097F)
-                const parts = child.content.split(/([\u0900-\u097F]+)/g);
-                parts.forEach(part => {
-                  if (/[\u0900-\u097F]/.test(part)) {
-                    const span = new state.Token('span_open', 'span', 1);
-                    span.attrs = [['class', 'sanskrit-dev']];
-                    newChildren.push(span);
-                    
-                    const text = new state.Token('text', '', 0);
-                    text.content = part;
-                    newChildren.push(text);
-                    
-                    newChildren.push(new state.Token('span_close', 'span', -1));
-                  } else if (part) {
-                    const text = new state.Token('text', '', 0);
-                    text.content = part;
-                    newChildren.push(text);
+                // Combined processing for [[br]] and Devanagari
+                let segments = [child.content];
+                if (child.content.includes('[[br]]')) {
+                  segments = child.content.split('[[br]]');
+                }
+
+                segments.forEach((segment, index) => {
+                  // 1. Process Devanagari in this segment
+                  const deParts = segment.split(/([\u0900-\u097F]+)/g);
+                  deParts.forEach(part => {
+                    if (/[\u0900-\u097F]/.test(part)) {
+                      const span = new state.Token('span_open', 'span', 1);
+                      span.attrs = [['class', 'sanskrit-dev']];
+                      newChildren.push(span);
+                      
+                      const text = new state.Token('text', '', 0);
+                      text.content = part;
+                      newChildren.push(text);
+                      
+                      newChildren.push(new state.Token('span_close', 'span', -1));
+                    } else if (part) {
+                      const text = new state.Token('text', '', 0);
+                      text.content = part;
+                      newChildren.push(text);
+                    }
+                  });
+
+                  // 2. Add break if not the last segment
+                  if (index < segments.length - 1) {
+                    newChildren.push(new state.Token('hardbreak', 'br', 0));
                   }
                 });
-              } else {
+                return;
+              }
+ else {
                 newChildren.push(child);
               }
             });

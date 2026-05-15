@@ -1,106 +1,94 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet der Satz „ekasminneva kāle kṣatriyo mahān yaṣṭum upacakrame“?',
-    options: ['Zu eben derselben Zeit begann ein großer Kṣatriya zu opfern', 'Ein Kṣatriya kämpfte gegen den König', 'Der Kṣatriya gab den Brahmanen Geschenke', 'Ein Kṣatriya wurde geboren'],
-    answer: 0,
-    explanation: 'upacakrame ist die 3. Person Singular Perfekt Ātmanepada von upa-kram (beginnen). yaṣṭum ist der Infinitiv von yaj (opfern).'
-  },
-  {
-    question: 'Wie lautet die 3. Person Plural Perfekt Parasmaipada von „śru“ (hören)?',
-    options: ['śṛṇvanti', 'śuśruvuḥ', 'śuśrāva', 'aśṛṇvan'],
-    answer: 1,
-    explanation: 'śru bildet das Perfekt śuśrāva (Singular) und śuśruvuḥ (Plural).'
-  },
-  {
-    question: 'Was bedeutet „arhentaḥ kulabandhanaṃ bibhiduḥ“?',
-    options: ['Die Arhats haben die Familienbande gespalten/zerbrochen', 'Die Arhats ehren ihre Familie', 'Die Arhats essen zusammen', 'Die Arhats sind weise'],
-    answer: 0,
-    explanation: 'bibhiduḥ ist die 3. Person Plural Perfekt von bhid (spalten).'
-  }
-]
-</script>
+---
+title: "Übung 35"
+uebung_id: 35
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 35
+::: deleteme-box Zitierweise & Rechte
+
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+
+# Übung 35
 
 A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 
-1.  गायन्ति । जगुर्
-2.  स्मरन्ति । सस्मरुर्
-3.  एष्यति । इयाय
-4.  गच्छन्ति । जग्मुर्
-5.  कुरुते । चक्रे
-6.  नेष्यन्ते । निन्यिरे
-7.  जायते । जज्ञे
-8.  जानाति । जज्ञौ
-9.  संस्करोति । सञ्चस्कार
-10.  पुनीते । पुपुवे
-11.  बिभ्यति । बिभ्युर्
-12.  पिपुरति । पपरुर् । पुपूरुर्
-13.  दत्ते । ददे
-14.  यजन्ते । ईजिरे
-15.  भजन्ति unregelmäßig, nach Typ Vb! भेजुर्
-16.  वक्ति । उवाच
-17.  अदधुः । दधुर्
-18.  बिभ्रते । बभ्रिरे
-19.  मरिष्यन्ति । मम्रुर्
-20.  अशक्नुवन् । शेकुर्
-21.  अवदन् । ऊदुर्
-22.  अपिबत् । पपौ
-23.  अपान् । पपुर्
-24.  अलभत । लेभे
-25.  अहन् । जघान
-26.  मन्यन्ते । मेनिरे
-27.  अक्रामन् । चक्रमुर्
-28.  अशृण्वन् । शुश्रुवुर्
-29.  मिमते । ममिरे
-     
-30.  अपद्यत । पेदे
-     
-31.  सुनोति ।  सुषाव
-32.  अतिष्ठत् । तस्थौ
-33.  पतिष्यन्ति । पेतुर्
-34.  अपचत् । पपाच
-35.  अजहुर् । जहुर्
-36.  धक्ष्यन्ति । देहिरे
-37.  स्तौति । तुष्टाव
-38.  तनुते । तेने
-39.  अचरत् । चचार
-40.  जुह्वति । जुहुवुर्
-41.  अहरत् । जहार
+::: grammar-box
+| Präsens / Imperfekt | Perfekt |
+| :--- | :--- |
+| १. **गायन्ति** | जगुः |
+| २. **स्मरन्ति** | सस्मरुः |
+| ३. **एष्यति** | इयाय |
+| ४. **गच्छन्ति** | जग्मुः |
+| ५. **कुरुते** | चक्रे |
+| ६. **नेष्यन्ते** | निन्यिरे |
+| ७. **जायते** | जज्ञे |
+| ८. **जानाति** | जज्ञौ |
+| ९. **संस्करोति** | सञ्चस्कार |
+| १०. **पुनीते** | पुपुवे |
+| ११. **बिभ्यति** | बिभ्युः |
+| १२. **पिपुरति** | पपरुः / पुपूरुः |
+| १३. **दत्ते** | ददे |
+| १४. **यजन्ते** | ईजिरे |
+| १५. **भजन्ति** | भेजुः |
+| १६. **वक्ति** | उवाच |
+| १७. **अदधुः** | दधुः |
+| १८. **बिभ्रते** | बभ्रिरे |
+| १९. **मरिष्यन्ति** | मम्रुः |
+| २०. **अशक्नुवन्** | शेकुः |
+| २१. **अवदन्** | ऊदुः |
+| २२. **अपिबत्** | पपौ |
+| २३. **अपान्** | पपुः |
+| २४. **अलभत** | लेभे |
+| २५. **अहन्** | जघान |
+| २६. **मन्यन्ते** | मेनिरे |
+| २७. **अक्रामन्** | चक्रमुः |
+| २८. **अशृण्वन्** | शुश्रुवुः |
+| २९. **मिमते** | ममिरे |
+| ३०. **अपद्यत** | पेदे |
+| ३१. **सुनोति** | सुषाव |
+| ३२. **अतिष्ठत्** | तस्थौ |
+| ३३. **पतिष्यन्ति** | पेतुः |
+| ३४. **अपचत्** | पपाच |
+| ३५. **अजहुः** | जहुः |
+| ३६. **धक्ष्यन्ति** | देहिरे |
+| ३७. **स्तौति** | तुष्टाव |
+| ३८. **तनुते** | तेने |
+| ३९. **अचरत्** | चचार |
+| ४०. **जुह्वति** | जुहुवुः |
+| ४१. **अहरत्** | जहार |
+:::
 
 B) Übersetzen Sie:
 
-एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥
+१. **एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥**
+Einstmals begann ein großer Kṣatriya zu opfern. Indra entführte (nahm) sein Opfertier. Als aber das Tier verschwunden war, sprach ein böser Brahmane zum Kṣatriya: "Das Tier ist wegen des schlechten Betragens des Kṣatriya verschwunden."
 
-Einstmals ging ein großer Kṣatriya, um zu opfern. Indra nahm sein Opfertier an. Als aber das Tier verschwunden war sprach ein böser Brahmane zum Kṣatriya: "Das Tier ist wegen des schlechten Betragens des Kṣatriya verschwunden."
+२. **रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवू रामाय चेष्टपुत्रं ददुः ॥२॥**
+Rāma war sohnlos. Er wünschte sich einen Sohn, bekam aber keinen. Deshalb opferte er den Göttern und vollzog Gelübde wie sexuelle Enthaltsamkeit und dergleichen. Die Götter hörten Rāmas Wunsch und schenkten ihm den gewünschten Sohn.
 
-रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवू रामाय चेष्टपुत्रं ददुः ॥२॥
+३. **ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥**
+Die Brahmaninnen kochten Ghee für das Opfer. Während die Brahmaninnen kochten, bereiteten die Brahmanen den Opferplatz. Dann opferten die Kṣatriyas Śiva und den anderen Göttern als Opferherren, und die Brahmanen vollzogen das Opfer (im Auftrag).
 
-Rāma hatte keinen Sohn. Er wünschte sich einen Sohn, bekam aber keinen. Deshalb opferte er den Götter und hielt Gelübde wie sexuelle Enthaltsamkeit und ähnliche. Die Götter hörten Rāmas Wunsch und schenkten ihm den gewünschten Sohn.
+४. **अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥**
+Arhats haben die Familienbande zerbrochen, Gier, Hass und Verblendung beendet, die Wahrheit erkannt und — vom Leiden befreit — das Glück der Erlösung erreicht.
 
-ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥
+---
 
-Die Brahmaninnen kochten für das Opfer Ghee. Während die Brahmaninnen kochten breiteten die Brahmanen den Opferplatz. Dann opferte die Kṣatriyas Śiva und den anderen Göttern als Opferherren und die Brahmanen vollzogen das Opfer im Auftrag der Kṣatriyas.
+## Syntaktische Variation (Perfekt zu Imperfekt)
 
-अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥
+C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen:
 
-Arhants haben das familiäre Band zerbrochen, Gier, Hass und Verblendung beendet, die Wahrheit erkannt und vom Leiden Befreit das Glück der Erlösung erreicht.।
+१. एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपाक्रामत । तस्य यज्ञपशुमिन्द्रो ऽहरत् ॥
 
-C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen.
+२. रामो ऽपुत्र आसीत् । स पुत्रमैच्छन्न त्वलभत । तस्माद्देवानयजत ब्रह्मचर्यादिव्रतानि चाचरत् । देवा रामस्येष्टिमशृण्वन्रामाय चेष्टपुत्रमददुः ॥
 
-एकस्मिन्नेव काले क्षत्रियो महान्यष्टु्मुपाक्रामत । तस्य यज्ञपशुमिन्द्रो ऽहरत् ॥१॥
+३. ब्राह्मण्यो यज्ञाय घृतमपचन् । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं समस्कुर्वन् । ततः क्षत्रियाः शिवादिदेवानयजन्त ब्राह्मणाश्चायजन् ॥
 
-रामो ऽपुत्र आसीत् । स पुत्रमैच्छन्न् त्वलभत । तस्माद्देवानयजत ब्रह्मचर्यादिव्रतानि चाचरत् । देवा रामस्येष्टिमशृण्वन्रामाय चेष्टपुत्रमददुः ॥२॥
+४. अर्हन्तः कुलबन्धनमभिन्दंल्लोभं च क्रोधं च मोहं चारुन्धन्सत्यमजानन्दुःखान्मुक्ता मोक्षसुखमाप्नुवन् ॥
 
-ब्राह्मण्यो यज्ञाय घृतमपचन् । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं समस्कुर्वन् । ततः क्षत्रियाः शिवादिदेवानयजन्त ब्राह्मणाश्चायजन् ॥३॥
-
-अर्हन्तः कुलबन्धनमभिन्दंल्लोभं च क्रोधं च मोहं चारुन्धन्सत्यमजानन्दुःखान्मुक्ता मोक्षसुखमाप्नुवन् ॥४॥
-
-![](/images/uebung058.jpg)  
-Abb.: ब्राह्मणीषु पचन्तीषु ...  
-In der Nähe von Thiruvananthapuram \= തിരുവനന്തപുരം  
-\[Bildquelle: FriskoDude. -- http://www.flickr.com/photos/friskodude/1177242/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
- 
-
-Zu den [Lösungen der Übungen 36 - 40](uebung36.md)
+::: media
+![](/images/uebung058.jpg)
+Abb.: ब्राह्मणीषु पचन्तीषु ...
+(Bildquelle: [Details](/licenses#uebung058))
+:::

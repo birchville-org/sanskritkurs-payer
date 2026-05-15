@@ -1,0 +1,3 @@
+Found 138 files to translate. Using concurrency: 1
+Translating lektion27.md (20.0 KB) to Български using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777176663\": unexpected EOF"}

@@ -1,200 +1,165 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet das Subhāṣita „satyaṃ vada“ (Übung 48.8)?',
-    options: ['Sprich die Wahrheit!', 'Geh den Weg!', 'Sei geduldig!', 'Lerne fleißig!'],
-    answer: 0,
-    explanation: 'satyam (Wahrheit) vada (sprich!) (Übung 48.10).'
-  },
-  {
-    question: 'Welcher Vers der Manusmṛti besagt, dass eine Frau niemals eigenständig sein sollte (Übung 48.146)?',
-    options: ['pitā rakṣati kaumāre...', 'asvatantrāḥ striyaḥ kāryāḥ...', 'kāle \'dātā pitā vācyo...', 'patir bhāryāṃ saṃpraviśya...'],
-    answer: 0,
-    explanation: '„pitā rakṣati kaumāre... na strī svātantryam arhati“ (Übung 48.146-147).'
-  },
-  {
-    question: 'Was ist die Bedeutung von „lāghavam“ in Bezug auf die Grammatik (Übung 48.33)?',
-    options: ['Kürze / Ökonomie', 'Schönheit', 'Vielseitigkeit', 'Schwere'],
-    answer: 0,
-    explanation: 'lāghavam bedeutet Kürze oder Leichtigkeit und gilt als Ideal der indischen Grammatiker (Übung 48.35).'
-  }
-]
-</script>
+---
+title: "Übung 48"
+uebung_id: 48
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 48
+::: deleteme-box Zitierweise & Rechte
 
-A) Übersetzen Sie die सुभाषितानि zu Beginn der Lektion.
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
-सत्यम् वद ॥१॥
+# Übung 48
 
-> Sprich die Wahrheit!
+A) Übersetzen Sie die **सुभाषितानि** zu Beginn der Lektion:
 
-धर्मं चर ॥२॥
+१. **सत्यं वद ॥ १ ॥**
+Sprich die Wahrheit!
 
-> Halte dich an Recht und Sitte!
+२. **धर्मं चर ॥ २ ॥**
+Wandle nach Recht und Sitte!
 
-मातृदेवो भव ॥३॥
+३. **मातृदेवो भव ॥ ३ ॥**
+Betrachte deine Mutter als Gottheit!
 
-> Halte Deine Mutter wie eine Göttin!
+४. **गौरवं प्राप्यते दानात् ॥ ४ ॥**
+Würde wird durch Freigebigkeit erlangt.
 
-गौरवं प्राप्यते दानात् ॥४॥
+५. **श्वः कार्यमद्य कुर्वीit ॥ ५ ॥**
+Was morgen zu tun ist, soll man heute tun. (Verschiebe nicht auf morgen, was du heute kannst besorgen!)
 
-> Freigebigkeit verleiht Würde.
+६. **विद्याविहीनः पशुः ॥ ६ ॥**
+Ein Mensch ohne Bildung ist ein Vieh.
 
-श्वः कार्यमद्य कुर्वीत ॥५॥
+७. **लाघवं वैयाकरणस्य भूषणम् ॥ ७ ॥**
+Die Kürze ist der Schmuck des Grammatikers.
 
-> Tu heute, was morgen zu tun ist!  
-> Verschiebe nicht auf morgen, was du heute kannst besorgen!
+::: media
+![](/images/uebung083.jpg)
+Abb.: विद्याविहीनः पशुः
+(Bildquelle: [Details](/licenses#uebung083))
+:::
 
-विद्याविहीनः पशुः ॥६॥
+---
 
-> Vieh ist ohne Wissen.
+## Übersetzungen ins Sanskrit (Imperativ)
 
-लाघवं वैयाकरणस्य भूषणम् ॥७॥
+B) Übersetzen Sie ins Sanskrit unter Verwendung des Imperativs (vorzugsweise Wurzeln der 2. und 3. Klasse):
 
-> Kürze ist der Schmuck des Grammatikers.
+१. **पुत्रं लब्ध्वा कुलं जहाहि ॥ १ ॥** (Oder: **... जहीहि / जहिहि ॥**)
+Nachdem du einen Sohn bekommen hast, verlasse die Familie!
 
-![](/images/uebung083.jpg)  
-Abb.: विद्याविहीनः पशुः  
-ca. 1900  
-\[Bildquelle: whatsthatpicture. -- [http://www.flickr.com/photos/whatsthatpicture/3011403804/in/set-72157608574746511/](http://www.flickr.com/photos/whatsthatpicture/3011403804/in/set-72157608574746511/)  -- Zugriff am 2009-01-24. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+२. **पौरवाः कृतपापेभ्यो बिभीत ॥ २ ॥**
+Nachkommen des Puru, fürchtet euch vor denen, die Böses getan haben!
 
-B) Übersetzen Sie ins Sanskrit (verwenden Sie dabei den Imperativ und möglichst Wurzeln der 2. und 3. Präsensklasse):
+३. **कन्या भिक्षुभ्यो ऽन्नं ददतु ॥ ३ ॥**
+Die Mädchen sollen den Bettlern Speise geben.
 
-1\. Nachdem du einen Sohn bekommen hast, verlasse die Familie!
+४. **ब्रवाम ॥ ४ ॥** (Oder: **वचाम ॥**)
+Wir wollen sprechen.
 
-> पुत्रं लब्ध्वा कुलं जहाहि । जहीहि । जहिहि ॥१॥
+::: media
+![](/images/uebung085.jpg)
+Abb.: वचाम
+(Bildquelle: [Details](/licenses#uebung085))
+:::
 
-2\. Nachkommen des Puru, fürchtet euch vor denen, die Böses getan haben!
+५. **"एहि भिक्ष" इति बुद्धो नरमुपसमपादयत् ॥ ५ ॥**
+Mit den Worten "Komm, Mönch!" nahm der Buddha den Mann in den Orden auf.
 
-> पैरवाः कृतपापेभ्यो बिभीत ॥२॥
+६. **सन्मानवाः स्त ॥ ६ ॥**
+Seid wahre Menschen (Nachfahren Manus)!
 
-3\. Die Mädchen sollen den Bettlern Speise geben.
+७. **शिवादिदेवान्स्तवानि ॥ ७ ॥**
+Ich will Śiva und die anderen Götter preisen.
 
-> कन्या भिक्षुभ्यो ऽन्नं ददतु ॥३॥
+८. **आख्याहि ॥ ८ ॥**
+Erzähle!
 
-4\. Wir wollen sprechen.
+९. **नरकान्मिमीष्व ॥ ९ ॥**
+Miss die Höllen aus!
 
-> ब्रवाम । वचाम ॥४॥
+१०. **एतेषु शयनेषु शेरताम् ॥ १० ॥**
+Sie sollen auf diesen Lagern liegen.
 
-![](/images/uebung085.jpg)  
-Abb.: वचाम  
-"Musicians Preachers", ca. 1900  
-\[Bildquelle: whatsthatpicture. -- [http://www.flickr.com/photos/whatsthatpicture/2995927204/in/set-72157608574746511/](http://www.flickr.com/photos/whatsthatpicture/2995927204/in/set-72157608574746511/). -- Zugriff am 2009-01-24. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+११. **पुरुषव्याघ्रा इन्द्रशत्रून्घ्नन्तु ॥ ११ ॥**
+Die tigergleichen Männer sollen die Feinde Indras töten.
 
-5\. Mit den Worten "Komm Mönch!" nahm Buddha den Mann in den Mönchsorden auf (उपसम्पद् Kausativ).
+१२. **समाधेहि ॥ १२ ॥** (Oder: **समाधत्स्व ॥**)
+Konzentriere dich!
 
-> एहि भिक्ष इति बुद्धो नरमुपसमपादयत् ॥५॥
+१३. **अत्राध्वम् ॥ १३ ॥**
+Sitzt hier!
 
-6\. Seid wahre Nachfahren Manus!
+१४. **तानि फलान्यदाम ॥ १४ ॥**
+Wir wollen diese Früchte essen.
 
-> सद्मानवाः स्त । सन्मानवाः स्त ॥६॥
+१५. **दासो धेनुं दोग्धु ॥ १५ ॥**
+Der Diener soll die Kuh melken.
 
-7\. Ich will शिव und die anderen Götter preisen.
+१६. **राजन्धर्मं जनांश्च पाहि ॥ १६ ॥**
+König, schütze das Recht und die Leute!
 
-> शिवादिदेवान्स्तवानि ॥७॥
+१७. **शिष्याञ्शाधि वेदम् ॥ १७ ॥** (Oder: **... शाधि ...**)
+Lehre die Schüler den Veda!
 
-8\. Erzähle!
+१८. **नवानि वस्त्राणि वस्ताम् ॥ १८ ॥**
+Er soll neue Kleider anziehen.
 
-> आख्याहि ॥८॥
+१९. **मम गृह आसताम् ॥ १९ ॥**
+Sie sollen in meinem Haus sitzen.
 
-9\. Miss die Höllen aus!
+२०. **भर्तारो भार्या बिभ्रतु ॥ २० ॥**
+Ehemänner sollen ihre Gattinnen erhalten.
 
-> नरकान्मिमीष्व ॥९॥
+::: media
+![](/images/uebung076.jpg)
+Abb.: तानि फलान्यदाम
+(Bildquelle: [Details](/licenses#uebung076))
+:::
 
-10\. Sie (pl.) sollen auf diesen Liegen liegen.
+---
 
-> एतेषु शयनेषु शेरताम् ॥१०॥
+## Dharma der Frauen (स्त्रीधर्मः)
 
-11\. Die tigergleichen Männer sollen die töten, die Indra feind sind.
+Aus der **मनुस्मृति ९**:
 
-> पुरुषव्याघ्रा इन्द्रशत्रून्घ्नन्तु ॥११॥
+**अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।**  
+**विषयेषु च सज्जन्त्यः संस्थाप्या आत्मनो वशे ॥ २ ॥**  
+Die Männer müssen ihre Frauen Tag und Nacht abhängig machen. Frauen, die an den Sinnesobjekten haften, müssen unter die eigene Kontrolle gebracht werden.
 
-12\. Konzentriere dich!
+**पिता रक्षति कौमारे भर्ता रक्षति यौवने ।**  
+**रक्षन्ति स्थाविरे पुत्रा न स्त्री स्वातन्त्र्यमर्हति ॥ ३ ॥**  
+Der Vater behütet sie in der Kindheit, der Gatte in der Jugend, und die Söhne behüten sie im Alter; eine Frau ist nicht für die Eigenständigkeit geeignet.
 
-> समाधेहि । समाधत्स्व ॥१२॥
+**काले ऽदाता पिता वाच्यो वाच्यश्चानुपनयन्पतिः ।**  
+**मृते भर्तरि पुत्रस्तु वाच्यो मातुररक्षिता ॥ ४ ॥**  
+Tadelnswert ist der Vater, der sie nicht zur rechten Zeit verheiratet; tadelnswert ist der Gatte, der sich ihr nicht zur rechten Zeit nähert; und tadelnswert ist der Sohn, der seine Mutter nach dem Tod des Vaters nicht beschützt.
 
-13\. Sitzt hier!
+**सूक्ष्मेभ्यो ऽपि प्रसङ्गेभ्यः स्त्रियो रक्ष्या विशेषतः ।**  
+**द्वयोर्हि कुलयोः शोकमावहेयुररक्षिताः ॥ ५ ॥**  
+Besonders vor geringfügigen Anlässen sind Frauen zu schützen; denn ungeschützt würden sie zwei Familien in Kummer stürzen.
 
-> अत्राध्वम् ॥१२॥
+**इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम् ।**  
+**यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥ ६ ॥**  
+Da sie dies als die höchste Pflicht aller Stände erkennen, bemühen sich selbst schwache Gatten, ihre Ehefrau zu beschützen.
 
-14\. Wir wollen diese Früchte essen.
+**स्वां प्रसूतिं चरित्रं च कुलमात्मानमेव च ।**  
+**स्वं च धर्मं प्रयत्नेन जायां रक्षन्हि रक्षति ॥ ७ ॥**  
+Wer seine Frau sorgsam behütet, der behütet wahrlich seine Nachkommenschaft, seinen Lebenswandel, seine Familie, sich selbst und seine religiöse Pflicht.
 
-> तानि फलान्यदाम ॥१४॥
+**पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते ।**  
+**जायायास्तद्धि जायात्वं यद् अस्यां जायते पुनः ॥ ८ ॥**  
+Der Gatte tritt in seine Gattin ein, wird zum Embryo und wird dann hier geboren; darin besteht das "Gattinnensein" (**जायात्वम्**) der Gattin, dass der Gatte in ihr wiedergeboren wird.
 
-15\. Der Diener soll die Kuh melken.
+::: media
+![](/images/uebung084.jpg)
+Abb.: अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।
+(Bildquelle: [Details](/licenses#uebung084))
+:::
 
-> दासो धेनुं दोग्धु ॥१५॥
-
-16\. König, hüte den Dharma und die Leute!
-
-> राजन्धर्मं जनांश्च पाहि ॥१६॥
-
-17\. Lehre die Schüler den Veda!
-
-> शिष्याञ्शाधि वेदम् । शिष्याञ्छाधि वेदम् ॥१७॥
-
-18\. Er soll neue Kleider anziehen.
-
-> नवानि वस्त्राणि वस्ताम् ॥१८॥
-
-19\. Sie (pl.) sollen in meinem Haus sitzen.
-
-> मम गृह आसताम् ॥१९॥
-
-20\. Ehemänner sollen ihre Gattinnen erhalten (i. S. v. Unterhalt).
-
-> भर्तारो भार्या बिभ्रतु ॥२०॥
-
-![](/images/uebung076.jpg)  
-Abb.: तानि फलान्यदाम  
-āmalaka = Ambla = _Phyllanthus emblica_ L.  
-\[Bildquelle: Harshad Sharma. -- [http://www.flickr.com/photos/harshadsharma/66105376/](http://www.flickr.com/photos/harshadsharma/66105376/). -- Zugriff am 2009-01-23. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-
-![](/images/uebung084.jpg)  
-Abb.: अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।  
-"Hindu woman", ca. 1900  
-\[Bildquelle: whatsthatpicture. -- [http://www.flickr.com/photos/whatsthatpicture/2993550296/in/set-72157608574746511/](http://www.flickr.com/photos/whatsthatpicture/2993550296/in/set-72157608574746511/). -- Zugriff am 2009-01-24. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
-
-मनुस्मृति ९ (स्त्रीधर्मः):
-
-अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।  
-विषयेषु च सज्जन्त्यः संस्थाप्या आत्मनो वशे ॥२॥
-
-> Die Männer müssen ihre Frauen Tag und Nacht abhängig machen. Die Frauen, die an Sinnesobjekten haften, müssen unter die Kontrolle ihrer Männer gebracht werden.
-
-पिता र्क्षति कौमरे भर्ता रक्षति यौवने ।  
-रक्षन्ति स्थाविरे पुत्रा न स्त्री स्वातन्त्र्यमर्हति ॥३॥
-
-> Ihr Vater behütet sie zur Zeit ihrer Jungfernschaft, ihr Gatte behütet sie in ihrer Jugend, ihre Söhne behüten sie im Alter. Nicht ist eine Frau fähig zur Eigenständigkeit.
-
-काले ऽदाता पिता वाच्यो वाच्यश्चानुपनयन्पतिः ।  
-मृते भर्तरि पुत्रस्तु वाच्यो मातुररक्षिता ॥४॥
-
-> Tadelnswert ist der Vater, der seine Tochter nicht zur rechten Zeit zur Hochzeit verspricht. Tadelnswert ist auch der Gatte, der nicht zur rechten Zeit mit ihr Geschlechtsverkehr hat. Der Sohn ist aber zu tadeln, der nach dem Tod ihres Gatten kein Behüter seiner Mutter ist.
-
-सूक्ष्मेभ्यो ऽपि प्रसङ्गेभ्यः स्त्रियो रक्ष्या विशेषतः ।  
-द्वयोर्हि कुलयोः शोकमावहेयुररक्षिताः ॥५॥
-
-> Besonders behüten muss man Frauen vor auch geringfügigen Gelegenheiten. Unbehütet würden sie Kummer in zwei Familien bringen.
-
-इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम् ।  
-यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥६॥
-
-> Dies als höchste Aufgabe aller Stände sehend, bemühen sich auch schwache Gatten, ihre Gattinnen zu behüten.
-
-स्वां प्रसूतिं चरित्रं च कुलमात्मानमेव च ।  
-स्वं च धर्मं प्रयत्नेन जायां रक्षन्हि रक्षति ॥७॥
-
-> Wer seine Frau sorgsam behütet, behütet nämlich seine Nachkommenschaft, seinen Lebenswandel, seine Familie, sich selbst und seine religiöse Pflicht.
-
-पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते ।  
-जायायास्तद्धि जायात्वं यद् अस्यां जायते पुनः ॥८॥
-
-> Der Gatte tritt in seine Gattin ein, wird zum Embryo und wird dann auf dieser Welt geboren. Es ist das Frausein der Frau (jâyâ), dass ihr Mann von ihr wiedergeboren wird.
-
-Zur Erklärung dieses Textes siehe:
-
-![](/images/uebung077.jpg)  
-Abb.: पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते  
-\[Bildquelle: Henna Sooq. -- http://www.flickr.com/photos/hennasooq/458793530/. -- Zugriff am 2009-01-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/uebung077.jpg)
+Abb.: पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते
+(Bildquelle: [Details](/licenses#uebung077))
+:::

@@ -7,11 +7,11 @@ outline: false
 
 El índice de temas se genera automáticamente a partir de los encabezados de todas las lecciones. Permite un acceso rápido a fenómenos gramaticales específicos.
 
-<PayerTopicIndex />
+&lt;PayerTopicIndex /&gt;
 
-<style>
+&lt;style&gt;
 /* Adjust layout for full width index */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }
-</style>
+&lt;/style&gt;

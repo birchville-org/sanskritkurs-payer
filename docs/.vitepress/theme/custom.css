@@ -55,14 +55,31 @@ html {
 
 
 /* Typografie */
-h1, h2, h3, h4, h5, h6, .VPHero .name, .VPHero .text, blockquote {
+.vp-doc h1, .vp-doc h2, .vp-doc h3, .vp-doc h4, .vp-doc h5, .vp-doc h6, .VPHero .name, .VPHero .text, blockquote {
   font-family: "Source Serif 4", serif !important;
   font-style: normal !important;
 }
 
-h2, h3 {
+.vp-doc h1 {
+  border-top: 1px solid var(--vp-c-divider) !important;
+  padding-top: 1.5rem;
+  margin-top: 2rem !important;
+}
+
+.vp-doc h2 {
   font-weight: 500;
   font-style: normal !important;
+  margin-top: 3.5rem !important;
+  border-top: 1px solid var(--vp-c-divider) !important;
+  padding-top: 1.5rem;
+}
+
+.vp-doc h3 {
+  font-weight: 500;
+  font-style: normal !important;
+  margin-top: 2.5rem !important;
+  border-top: 1px solid var(--vp-c-divider) !important;
+  padding-top: 1rem;
 }
 
 .VPNavBar, .VPSidebar, .VPNav, .VPDocFooter, .outline-link, .outline-title, .badge, .VPLink, .VPButton {
@@ -108,6 +125,16 @@ h2, h3 {
   font-weight: 600;
   text-align: left;
   border-bottom: 1px solid var(--vp-c-divider) !important;
+}
+
+/* Spezialregel für Tabellen ohne Kopfzeile (explizit via ::: no-header) */
+.vp-doc .no-header table thead {
+  display: none !important;
+}
+
+.vp-doc .no-header table {
+  border-top: 1px solid #94a3b8 !important;
+  margin-top: 0 !important;
 }
 
 .vp-doc td, .vp-doc th {
@@ -159,8 +186,8 @@ h2, h3 {
   color: #b22222; /* Scholastic Red */
   font-family: "Sanskrit2003", "ITR Vijay", serif;
   font-size: 1.15em;
-  font-weight: 400;
-  margin: 0 0.2em; /* Spacing between language groups */
+  font-weight: 600;
+  margin: 0;
 }
 
 /* Custom Blocks (Grammar, Media, etc.) */
@@ -296,3 +323,92 @@ h2, h3 {
   display: none;
 }
 
+/* Hellrot-Hervorhebung (Explizit via ***word*** oder <strong><em>) */
+.vp-doc strong em,
+.vp-doc em strong {
+  color: #ff0000 !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+}
+
+.dark .vp-doc strong em,
+.dark .vp-doc em strong {
+  color: #ff3333 !important;
+}
+
+/* Erlaube Hellrot (strong em) auch in der grammar-box explizit */
+.vp-doc .grammar-box strong em,
+.vp-doc .grammar-box em strong {
+  color: #ff0000 !important;
+  font-style: normal !important;
+}
+
+.vp-doc .grammar-box strong em .sanskrit-dev,
+.vp-doc .grammar-box em strong .sanskrit-dev {
+  color: #ff0000 !important;
+}
+
+.dark .vp-doc .grammar-box strong .sanskrit-dev {
+  color: #f87171 !important;
+}
+
+.dark .vp-doc .grammar-box strong em .sanskrit-dev,
+.dark .vp-doc .grammar-box em strong .sanskrit-dev {
+  color: #ff3333 !important;
+}
+
+/* Verstecke deleteme-box (Inhalt nur für Redaktion/QA relevant) */
+.vp-doc .custom-block.deleteme-box {
+  display: none !important;
+}
+
+/* Split Viewer / Embedded Mode Fixes */
+html.is-embedded .VPNav,
+html.is-embedded .VPSidebar,
+html.is-embedded .VPLocalNav,
+html.is-embedded .VPDocFooter,
+html.is-embedded .VPFooter {
+  display: none !important;
+}
+
+html.is-embedded .VPDoc {
+  padding: 0 !important;
+}
+
+/* Wide Mode & Embedded Mode Layout Overrides */
+html.is-wide,
+html.is-embedded {
+  --vp-layout-max-width: 100% !important;
+  --vp-content-width: 100% !important;
+  --vp-content-max-width: 100% !important;
+}
+
+html.is-wide .VPDoc .container,
+html.is-embedded .VPDoc .container {
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 32px !important;
+}
+
+html.is-wide .VPDoc .content,
+html.is-embedded .VPDoc .content {
+  max-width: 100% !important;
+}
+
+/* Korrektur für zentrierten Rand im Split Viewer */
+html.is-embedded .VPContent {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* License Audit Highlighting */
+.license-page tr:target {
+  background-color: #fefce8 !important; /* Light yellow highlight */
+  outline: 2px solid #eab308;
+  transition: background-color 0.5s ease;
+}
+
+.dark .license-page tr:target {
+  background-color: #422006 !important; /* Dark brown highlight */
+  outline: 2px solid #eab308;
+}

@@ -1,5 +1,5 @@
 ---
-title: "Lektion 8"
+title: Lektion 8
 subtitle: "Bildung von Nomina & 8. Präsensklasse"
 lesson_id: 8
 category: "Grammatik"
@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# 8. Lektion 8
+# Lektion 8
 
 ::: info
 **In dieser Lektion lernen Sie:**

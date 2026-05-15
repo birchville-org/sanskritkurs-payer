@@ -1,41 +1,29 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Zu welcher Verbklasse gehört die Wurzel „viś“ (Präsensstamm: viśa-)?',
-    options: ['1. Klasse', '4. Klasse', '6. Klasse', '10. Klasse'],
-    answer: 2,
-    explanation: 'viś gehört zur 6. Klasse (tudādi), die den Themavokal -a an die Schwachstufe anfügt.'
-  },
-  {
-    question: 'Was ist die korrekte 3. Person Plural von „manyate“ (er/sie denkt)?',
-    options: ['manyanti', 'manante', 'manyante', 'manyanti'],
-    answer: 2,
-    explanation: 'manyate ist ein Ātmanepada der 4. Klasse; der Plural lautet manyante.'
-  },
-  {
-    question: 'Was bedeutet das Wort „Ubhayapada“ in der Grammatik?',
-    options: ['Nur im Aktiv gebraucht', 'Nur im Medium gebraucht', 'Sowohl im Aktiv (Parasmaipada) als auch im Medium (Ātmanepada) gebraucht', 'Nur im Passiv gebraucht'],
-    answer: 2,
-    explanation: 'Ubhayapada bedeutet „beide Wortformen“ (Aktiv und Medium).'
-  }
-]
-</script>
+---
+title: "Übung 6"
+uebung_id: 6
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 6
+::: deleteme-box Zitierweise & Rechte
 
-A) Bilden Sie mit den in Klammern angegebenen Wurzeln  durch Einsetzen Verbalsätze:
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+
+# Übung 6
+
+A) Bilden Sie mit den in Klammern angegebenen Wurzeln durch Einsetzen Verbalsätze:
 
 brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
 
-ब्राह्मणस् ... यज्, नृत्, विश्, मन्, युध्, नी, मुह्
+\= ब्राह्मणस् ... यज्, नृत्, विश्, मन्, युध्, नी, मुह्
 
-brāhmaṇo yajati / yajate. brāhmaṇo nṛtyati. brāhmaṇo viśati. brāhmaṇo manyate. brāhmaṇo yudhyate. brāhmaṇo nayati / nayate. brāhmanō muhyati.
+brāhmaṇo yajati / yajate. brāhmaṇo nṛtyati. brāhmaṇo viśati. brāhmaṇo manyate. brāhmaṇo yudhyate. brāhmaṇo nayati / nayate. brāhmaṇo muhyati.
 
-ब्राह्मणो यजति । ब्राह्मणो यजते । ब्राह्मणो नृत्यति । ब्राह्मणो विशति । ब्राह्मणो मन्यते । ब्राह्मणो युध्यते । ब्राह्मणो नयति । ब्राह्मणो नयते । ब्राह्मणो मुह्यति ।
+ब्राह्मणो यजति । ब्राह्मणो यजते । ब्राह्मणो नृत्यति । ब्राह्मणो विशati । ब्राह्मणो मन्यते । ब्राह्मणो युध्यते । ब्राह्मणो नयति । ब्राह्मणो नयते । ब्राह्मणो मुह्यति ।
 
 devas ... (nṛt, yudh, smṛ, sṛj)
 
-देवस् ... नृत्, युध्, स्मृ, सृज्
+\= देवस् ... नृत्, युध्, स्मृ, सृज्
 
 devo nṛtyati. devo yudhyate. devaḥ smarati. devaḥ sṛjati.
 
@@ -43,7 +31,7 @@ devo nṛtyati. devo yudhyate. devaḥ smarati. devaḥ sṛjati.
 
 kavis ... (man, smṛ, viś)
 
-कविस् ... मन्, स्मृ, विश्
+\= कविस् ... मन्, स्मृ, विश्
 
 kavir manyate. kaviḥ smarati. kavir viśati.
 
@@ -51,7 +39,7 @@ kavir manyate. kaviḥ smarati. kavir viśati.
 
 dhenus ... (viś, bhū)
 
-धेनुस् ... विश्, भू
+\= धेनुस् ... विश्, भू
 
 dhenur viśati. dhenur bhavati.
 
@@ -73,7 +61,7 @@ kavayo manyante. kavayaḥ smaranti. kavayo viśanti.
 
 dhenavo viśanti. dhenavo bhavanti.
 
-धेनेवो विशन्ति । धेनवो भवन्ति ॥
+धेनवो विशन्ति । धेनवो भवन्ति ॥
 
 C) Übersetzen Sie ins Sanskrit:
 
@@ -93,7 +81,7 @@ yajati.
 
 rāmo nayati.
 
-रामो नयति ।
+रामों नयति ।
 
 4\. Śudras sind verwirrt.
 
@@ -155,9 +143,15 @@ sā brāhmaṇī nṛtyati.
 
 सा ब्राह्मणी नृत्यति ॥
 
-![](/images/uebung004.jpg)  
-Abb.: kā nṛtyati? = का नृत्यति ।  
-\[Bildquelle: Wikipedia, GNU FDLicense\]
+::: media
+![](/images/uebung004.jpg)
+Abb.: का नृत्यति ।
+(Bildquelle: [Details](/licenses#uebung004))
+:::
+
+---
+
+## Wiederholungsübung Lektion 6
 
 A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die sie nach folgenden Einsetzübungen bilden, antworten sind:
 
@@ -249,11 +243,11 @@ sādhū rāmaḥ.
 
 साधू रामः ॥
 
-B)  Setzen Sie in den Plural:
+B) Setzen Sie in den Plural:
 
 1\. brāhmaṇo yajati.
 
-ब्राह्मणो यजति |
+ब्राह्मणो यजति
 
 brāhmaṇā yajanti.
 
@@ -261,15 +255,15 @@ brāhmaṇā yajanti.
 
 2\. kaiṣā.
 
-कैषा |
+कैषा
 
-kā etāḥ
+kā etāḥ.
 
 का एताः ।
 
 3\. kṣatriyo yajate.
 
-क्षत्रियो यजते |
+क्षत्रियो यजते
 
 kṣatriyā yajante.
 
@@ -277,7 +271,7 @@ kṣatriyā yajante.
 
 4\. sādhvī smarati.
 
-साध्वी स्मरति |
+साध्वी स्मरति
 
 sādhvyaḥ smaranti.
 
@@ -285,7 +279,7 @@ sādhvyaḥ smaranti.
 
 5\. vaiśyā muhyati.
 
-वैशश्या मुह्यति |
+वैश्या मुह्यति
 
 vaiśyā muhyanti.
 
@@ -293,7 +287,7 @@ vaiśyā muhyanti.
 
 6\. sṛjati.
 
-सृजति |
+सृजति
 
 sṛjanti.
 
@@ -301,7 +295,7 @@ sṛjanti.
 
 7\. devī manyate.
 
-देवी मन्यते |
+देवी मन्यते
 
 devyo manyante.
 
@@ -309,7 +303,7 @@ devyo manyante.
 
 8\. gururviśati.
 
-गुरुर्विशति |
+गुरुर्विशति
 
 guravo viśanti.
 
@@ -317,7 +311,7 @@ guravo viśanti.
 
 9\. ko 'yam.
 
-को ऽयम् |
+को ऽयम्
 
 ka ime / kay ime.
 
@@ -325,7 +319,7 @@ ka ime / kay ime.
 
 10\. iyaṃ devī nṛtyati.
 
-इयं देवी नृत्यति |
+इयं देवी नृत्यति
 
 imā devyo nṛtyanti.
 
@@ -333,7 +327,7 @@ imā devyo nṛtyanti.
 
 11\. eṣa devo yudhyate.
 
-एष देवो युध्यते |
+एष देवो युध्यते
 
 ete devā yudhyante.
 
@@ -341,7 +335,7 @@ ete devā yudhyante.
 
 12\. sa sṛjati.
 
-स सृजति |
+स सृजति
 
 te sṛjanti.
 
@@ -349,7 +343,7 @@ te sṛjanti.
 
 13\. paśurdhenuḥ.
 
-पशुर्धेनुः |
+पशुर्धेनुः
 
 paśavo dhenavaḥ.
 
@@ -357,17 +351,17 @@ paśavo dhenavaḥ.
 
 14\. keyam.
 
-केयम् |
+केयम्
 
 kā imāḥ.
 
-का इमाः ॥स्
+का इमाः ॥
 
 C) Bilden Sie das Ātmanepada zu:
 
 1\. rāmo yajati.
 
-रामो यजति |
+रामो यजति
 
 rāmo yajate.
 
@@ -375,7 +369,7 @@ rāmo yajate.
 
 2\. kṣatriyā nayanti.
 
-क्षत्रिया नयन्ति |
+क्षत्रिया नयन्ति
 
 kṣatriyā nayante.
 
@@ -385,15 +379,15 @@ D) Bilden Sie das Femininum zu:
 
 1\. śūdro nayati.
 
-शूद्रो नयति |
+शूद्रो नयति
 
 śūdrā nayati.
 
-शूद्रा नयति.
+शूद्रा नयति ।
 
 2\. sādhurviśati.
 
-साधुर्विशति |
+साधुर्विशति
 
 sādhvī viśati.
 
@@ -401,7 +395,7 @@ sādhvī viśati.
 
 3\. brāhmaṇaḥ smarati.
 
-ब्राह्मणः स्मरति |
+ब्राह्मणः स्मरति
 
 brāhmaṇī smarati.
 
@@ -409,7 +403,7 @@ brāhmaṇī smarati.
 
 4\. kṣatriyo yudhyate.
 
-क्षत्रियो युध्यते |
+क्षत्रियो युध्यते
 
 kṣatriyā yudhyate. kṣatriyī yudhyate.
 
@@ -417,7 +411,7 @@ kṣatriyā yudhyate. kṣatriyī yudhyate.
 
 5\. devo guruḥ.
 
-देवो गुरुः |
+देवो गुरुः
 
 devī gurvī.
 
@@ -427,67 +421,67 @@ E) Übersetzen Sie:
 
 1\. devatānnapūrṇā.
 
-देवतान्नपूर्णा |
+देवतान्नपूर्णा
 
 Annapūrṇā ist eine Gottheit.
 
 2\. śūdretarā.
 
-शूद्रेतरा |
+शूद्रेतरा
 
 Itarā ist eine Śūdrafrau.
 
 3\. vaiśyastulādhāraḥ.
 
-वैश्यस्तुलाधारः |
+वैश्यस्तुलाधारः
 
 Tulādhara ist ein Vaiśya.
 
 4\. kavirmāghaḥ.
 
-कविर्माघः |
+कविर्माघः
 
 Māgha ist ein Dichter.
 
 5\. devyumā.
 
-देव्युमा |
+देव्युमा
 
 Umā ist eine Göttin.
 
 6\. śrutirvedaḥ.
 
-श्रुतिर्वेदः |
+श्रुतिर्वेदः
 
 Der Veda ist Śruti.
 
 7\. dhenurviśati.
 
-धेनुर्विशति |
+धेनुर्विशति
 
 Die Kuh tritt ein.
 
 8\. guruścaitanyaḥ.
 
-गुरुश्चैतन्यः |
+गुरुश्चैतन्यः
 
 Caitanya ist ein Meister.
 
 9\. devīndrāṇī.
 
-देवीन्द्राणी |
+देवीन्द्राणी
 
 Indrāṇī ist eine Göttin.
 
 10\. sādhurguruḥ.
 
-साधुर्गुरुः |
+साधुर्गुरुः
 
 Der Meister ist ein Heiliger.
 
 11\. gururyajate.
 
-गुरुर्यजते ||
+गुरुर्यजते ॥
 
 Der Meister opfert als Opferherr.
 
@@ -509,8 +503,8 @@ devī durgā.
 
 devī mīnākṣī.
 
-देवी मीनाक्षी ।  
-  
+देवी मीनाक्षी ।
+
 4\. Sie sind verwirrt.
 
 muhyanti.
@@ -563,13 +557,13 @@ sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
-साध्व्यीयं देवी । साध्व्येषा देवी । साध्वी सा देवी.
+साध्व्यीयं देवी । साध्व्येषा देवी । साध्वी सा देवी ।
 
 13\. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten)
 
 avidyāsmitārāgadveṣābhniveśāḥ pañca kleśāḥ / avidyāsmitā rāgo dveṣo 'bhiniveśaś ca pañca kleśāḥ.
 
-अविद्यास्मितारागद्वेषाभिनिवेशाः पञ्च क्लेशाः । अविद्यास्मिता रागो द्वेषो ऽभिनिवेशश्च पञ्च क्लेषाः ।
+अविद्यास्मितारागद्वेषाभिनिवेशाः पञ्च क्लेशाः । अविद्यास्मिता रागो द्वेषो ऽभिनिवेषश्च पञ्च क्लेशाः ।
 
 14\. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten)
 
@@ -587,11 +581,11 @@ ete / ime brāhmaṇā yajanti.
 
 dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣatriyā vaiśyāś ca.
 
-द्विजातयो ब्राह्मणक्षत्रियवैश्याः । द्विजातयो ब्राह्मणाः क्षत्रिया वैश्याश्च् ।
+द्विजातयो ब्राह्मणक्षत्रियवैश्याः । द्विजातयो ब्राह्मणाः क्षत्रिया वैश्याश्च ।
 
 17\. Die Wissenschaften (für eine Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten)
 
-ānvīkṣikītrayīvārttādaṇḍanītayo vidyāḥ / ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
+ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ / ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
 
 आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः । आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः ।
 
@@ -607,7 +601,8 @@ sarvathā kuśalam.
 
 सर्वथा कुशलम् ॥
 
-![](/images/uebung005.jpg)  
-Abb.: devatānnapūrṇā = देवतान्नपूर्णा  
-Annapurna (अन्नपूर्ण) I, Nepal (नेपाल)  
-\[Bildquelle: Wolfgang Beyer / Wikipedia. -- GNU FDLicense\]
+::: media
+![](/images/uebung005.jpg)
+Abb.: देवतान्नपूर्णा
+(Bildquelle: [Details](/licenses#uebung005))
+:::

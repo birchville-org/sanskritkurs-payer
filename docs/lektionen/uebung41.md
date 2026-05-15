@@ -1,77 +1,58 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet der Ausdruck „buddhaṃ śaraṇaṃ gacchāmi“?',
-    options: ['Ich nehme Zuflucht zum Buddha', 'Ich gehe zum Haus des Buddha', 'Ich sehe den Buddha', 'Der Buddha ist mein Lehrer'],
-    answer: 0,
-    explanation: 'śaraṇaṃ gam bedeutet „Zuflucht nehmen“.'
-  },
-  {
-    question: 'Welches Gerundivum von „dṛś“ (sehen) bedeutet „sehenswert“?',
-    options: ['draṣṭavya', 'darśanīya', 'dṛśya', 'Alle genannten'],
-    answer: 3,
-    explanation: 'Alle drei Formen (draṣṭavya, darśanīya, dṛśya) können „sehenswert“ oder „zu sehen“ bedeuten (Lektion 41.2.2).'
-  },
-  {
-    question: 'Was drückt der Satz „gurubhiḥ śiṣyāḥ śāsitavyāḥ“ (Übung B.5) aus?',
-    options: ['Lehrer müssen Schüler unterweisen', 'Lehrer lieben ihre Schüler', 'Schüler lehren die Lehrer', 'Lehrer und Schüler lernen gemeinsam'],
-    answer: 0,
-    explanation: 'śāsitavyāḥ (Gerundivum von śās) drückt eine Notwendigkeit/Verpflichtung aus (Lektion 41.2.3).'
-  }
-]
-</script>
+---
+title: "Übung 41"
+uebung_id: 41
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 41
+::: deleteme-box Zitierweise & Rechte
 
-A) Übersetzen Sie die beiden Sprichwörter am Anfang der Lektion.
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
-> पुस्तकस्था च या विद्या  
-> परहस्ते च यद्धनम् ।  
-> कार्यकाले समुत्पन्ने  
-> न सा विद्या न तद्धनम् ॥१॥
-> 
-> Wissen, das in Büchern steht, Geld, das in anderer Hand ist : wenn man es braucht, dann ist das kein Wissen und kein Geld.
-> 
-> उपदेशो हि मूर्खाणां  
-> प्रकोपाय न शान्तये ।  
-> पयःपानं भुजङ्गानां  
-> केवलं विषवर्धनम् ॥२॥
-> 
-> Unterricht von Dummköpfen führt zu Aggression, nicht zu Frieden. Wenn man Schlangen Milch zu trinken gibt, vermehrt das nur ihr Gift.
+# Übung 41
+
+A) Übersetzen Sie die beiden Sprichwörter am Anfang der Lektion:
+
+१. **पुस्तकस्था च या विद्या परहस्ते च यद्धनम् ।**  
+**कार्यकाले समुत्पन्ने न सा विद्या न तद्धनम् ॥ १ ॥**  
+Wissen, das (nur) in Büchern steht, und Geld, das in fremder Hand ist: Wenn der Augenblick des Bedarfs eintritt, ist dieses Wissen kein Wissen und dieses Geld kein Geld.
+
+२. **उपदेशो हि मूर्खाणां प्रकोपाय न शान्तये ।**  
+**पयःपानं भुजङ्गानां केवलं विषवर्धनम् ॥ २ ॥**  
+Unterweisung für Toren führt zur Erbitterung, nicht zum Frieden. Das Trinken von Milch durch Schlangen ist lediglich eine Vermehrung des Giftes.
+
+---
+
+## Übungstexte
 
 B) Übersetzen Sie:
 
-बुद्धम् शरणं गच्छामि धर्मं शरणं गच्छामि सङ्घं शरणं गच्छामीति बुद्धगतैर्वक्तव्यम् ॥१॥
+१. **बुद्धं शरणं गच्छामि धर्मं शरणं गच्छामि सङ्घं शरणं गच्छामीति बुद्धगतैर्वक्तव्यम् ॥ १ ॥**
+"Ich nehme Zuflucht zum Buddha, ich nehme Zuflucht zum Dharma, ich nehme Zuflucht zum Sangha" — dies ist von denen zu sagen, die zum Buddha gegangen sind.
 
-Wer zu Buddha gegangen ist, soll sprechen: "Ich nehme meine Zuflucht zu Buddha, ich nehme meine Zuflucht zur Buddhalehre, ich nehme meine Zuflucht zur Gemeinschaft der durch die Buddhalehre zur Erlösung gelangten."
+::: grammar-box
+### Exkurs: Die drei Zufluchten
+Diese dreifache Zuflucht ist entscheidend, um auf dem Weg zur Erlösung die nötige Motivation und Ausdauer zu besitzen. Da es zahllose Weisheitslehrer gibt, ist es unmöglich, allen einzeln zu folgen. Man muss eine Auswahl treffen. Die Persönlichkeit eines Lehrers muss vertrauenswürdig erscheinen (**Zuflucht zu Buddha**).
 
-> Diese dreifache Zuflucht ist äußerst wichtig, um auf dem Weg zur Erlösung die nötige Motivation, Energie und Ausdauer zu haben.
-> 
-> Es gab und gibt ja eine unüberschaubare Zahl von Weisheitslehrern und Religionsstiftern. Es ist unmöglich, allen einzeln zu folgen, um zu erproben, was ihre Lehren taugen. So muss man eine Auswahl treffen. Die Persönlichkeit eines solchen Lehrers muss als besonders vertrauenswürdig erscheinen, so dass man sich auf ihn einlassen kann und will. Dieses Vertrauen, dieser Glaube ist der Inhalt der ersten Zuflucht, der Zuflucht zu Buddha.
-> 
-> Das Wesentliche für Buddhisten ist aber nicht eine Erlöserpersönlichkeit im Dass ihres Gekommenseins"1, sondern das Wesentliche für Buddhisten ist die Erlösungslehre, die es dem Einzelnen ermöglicht, den Weg zur Erlösung selbst zu gehen und so Erlösung selbst zu verwirklichen. Dazu muss man von dieser Lehre vorläufig  d. h., solange man noch nicht aus eigener Erfahrung weiß, dass sie zum Ziel führt  so überzeugt sein, dass man die Energie aufbringt, diese Lehre auf ihren Wahrheitsgehalt zu testen. Dies ist der Inhalt der zweiten Zuflucht, der Zuflucht zur Lehre Buddhas oder dem Dharma/ Dhamma, wie diese Lehre auf Sanskrit bzw. Pāli heißt.
-> 
-> > 1  Rudolf Bultmann (1884-1976): "Entscheidend ist nur das Daß des Gekommenseins Jesu, nicht das Was, das heißt nicht die historisch verifizierbaren Daten seines Lebens und Wirkens."
-> 
-> Auch der beste Lehrer und die beste Lehre sind für mich nutzlos, wenn sie für einen normalen Sterblichen nicht nachvollziehbar sind. Deshalb ist es wichtig, überzeugt zu sein, dass es auch andere auf diesem Weg geschafft haben. Dies ist der Inhalt der dritten Zuflucht, der Zuflucht zur Gemeinschaft derer, die auf dem Weg Buddhas zur Erlösung gelangt sind, auf Sanskrit bzw. Pāli zum Saṅgha.
+Das Wesentliche ist jedoch nicht die Erlöserpersönlichkeit, sondern die Erlösungslehre, die es dem Einzelnen ermöglicht, den Weg selbst zu gehen. Man muss von der Lehre so überzeugt sein, dass man die Energie aufbringt, sie auf ihren Wahrheitsgehalt zu testen (**Zuflucht zum Dharma**).
 
-काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥२॥
+Zudem muss man überzeugt sein, dass auch andere diesen Weg erfolgreich gegangen sind. Dies ist die **Zuflucht zum Sangha**, der Gemeinschaft derer, die auf dem Weg Buddhas zur Erlösung gelangt sind.
+:::
 
-> "Ich will nach Benares gehen, den Ganges sehen und dort sterben." Mit diesem Gedanken hat der ehrenswerte alte Mann Söhne, Sohnessöhne und Besitz verlassen und ist nach Benares aufgebrochen. Ich denke, dass er so das zu beendene Leiden überwinden wird.
+२. **काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥ २ ॥**
+"Ich werde nach Benares (Kāśī) gehen, den Ganges sehen und dort sterben" — mit diesem Gedanken verließ der ehrenwerte alte Mann Söhne, Enkelsöhne und Besitz und zog nach Benares aus. Ich denke, dass er so das zu beendende Leiden überwinden wird.
 
-कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥३॥
+३. **कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥ ३ ॥**
+"Ich habe ein Mädchen geheiratet, mit ihr einen Sohn gezeugt und großen Reichtum erlangt; so habe ich das Glück erreicht" — in dieser Weise täuschte ich mich in der Vergangenheit. Dann erkannte ich: Aus Glück entsteht Leid; deshalb ist auch das weltliche Glück aufzugeben, und nichts sollte mit den Sinnen berührt werden.
 
-> In der Vergangenheit täuschte ich mich, dass ich das Glück erreicht habe, da ich ein Mädchen geheiratet, mit ihr einen Sohn gezeugt, und großen Reichtum erworben hatte. Dann erkannte ich, dass auch Glück Leiden entsteht und man deshalb auch das Glück der Welt aufgeben und nichts mit seinen Sinnen berühren sollte.
+४. **विक्रेयाणि विक्रीयापुत्रवैश्यो भिक्षुभ्यो विक्रयफलमददाद्दानपुण्यं चादत्त । एतत्कर्म स्तुत्यमिति भिक्षवः प्रोचुर्बुद्धिमन्तस्तु विकल्पयन्ति किमेवं कुर्वाणो वैश्यः पुण्यं चकारेति ॥ ४ ॥**
+Nachdem er die zu verkaufenden Waren veräußert hatte, gab der sohnlose Vaiśya den Erlös den Mönchen und empfing das Verdienst der Gabe. Die Mönche verkündeten: "Diese Tat ist lobenswert." Die Einsichtigen jedoch zweifeln, ob der so handelnde Vaiśya tatsächlich Verdienstvolles getan hat.
 
-विक्रेयाणि विक्रीयापुत्रवैश्यो भिक्षुभ्यो विक्रयफलमददाद्दानपुण्यं चादत्त । एतत्कर्म स्तुत्यमिति भिक्षवः प्रोचुर्बुद्धिमन्तस्तु विकल्पयन्ति किमेवं कुर्वाणो वश्यः पुण्यं चकारेति ॥४॥
+५. **गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥ ५ ॥**
+Von Lehrern sind Schüler zu unterweisen; von Schülern ist das Pensum zu studieren.
 
-> Der sohnlose Vaiśya verkaufte Ware, schenkte Mönchen den Verkaufserlös und erhielt das Verdienst seiner Freigebigkeit. Die Mönche verkündeten, dass diese Tat lobenswert ist, Einsichtige aber bezweifeln, ob der so handelnde Vaiśya Verdienstvolles tat.
-
-गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥५॥
-
-> Lehrer müssen die Schüler unterrichten, Schüler müssen ihr Pensum lernen.
-
-![](/images/uebung067.jpg)  
-Abb.: बुद्धं शरणं गच्छामि  
-Pilger zum angeblichen Fußabdruck Buddhas auf dem Adams Peak (श्रीपाद), Sri Lanka  
-\[Bildquelle: Sailing Nomad. -- http://www.flickr.com/photos/ryanwhisner/3076149134/. -- Zugriff am 2009-01-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/uebung067.jpg)
+Abb.: बुद्धं शरणं गच्छामि
+(Bildquelle: [Details](/licenses#uebung067))
+:::

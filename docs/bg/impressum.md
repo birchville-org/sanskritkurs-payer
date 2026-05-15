@@ -8,7 +8,7 @@ title: Импресум и цитиране
 *Следният текст е изваден при конвертирането от файловете на уроците, за да се подобри четливостта.*
 
 ## Начин на цитиране | cite as:
-**Payer, Alois &lt;1944 - >:** Sanskritkurs. -- Версия от 2010 г. -- URL: http://www.payer.de/sanskritkurs/
+**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- Версия от 2010 г. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Повод
 Създадено за учебните курсове 1980 - 1984

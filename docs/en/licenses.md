@@ -39,7 +39,7 @@
 | `lekt0901.jpg` | Fig.: karṣaka = कर्षक [Source: Ray Witlin / World Bank. --  http://www.flickr.com/photos/worldbank/2183985518/. -- Accessed on  2008-11-23. --   Creative  Commons License (Attribution, non-commercial, no derivatives)] |
 | `lekt1001.jpg` | No specific license/source information found in text |
 | `lekt1003.jpg` | Fig.: Gott Varuṇa = वरुण, 17. century [Source. Wikipedia, public domain] |
-| `lekt1002.jpg` | Fig.: Ein Ṛṣi: Viśvāmitra (विश्वामित्र) / by Rāja Ravi Varmā (राज रवि वर्मा)  <1848 - 1906> [Source: Wikipedia, public domain] |
+| `lekt1002.jpg` | Fig.: Ein Ṛṣi: Viśvāmitra (विश्वामित्र) / by Rāja Ravi Varmā (राज रवि वर्मा)  &lt;1848 - 1906&gt; [Source: Wikipedia, public domain] |
 | `lekt1004.jpg` | Fig.: Weberin, Bangladesh: the Webkette (Kettfäden are the Längsfäden, through  the the Schuss gezogen wird) [Source: USAID / Wikipedia, public domain] |
 | `lekt1102.jpg` | Fig.: वदनानि, Jamalpur district (জামালপুর  	জেলা), Bangladesh (বাংলাদেশ)  	[Source: Juan Blazquez. -- 	 	http://www.flickr.com/photos/juanblazquez/261690111/. -- Accessed on  	2008-11-28. --  	 	Creative  	Commons License (Attribution, non-commercial, keine  	Bearbeitung)] |
 | `lekt1101.jpg` | Fig.: श्रावको महाकाश्यपः War unter Buddha Guatamas Jüngern the Spezialist for Vinaya (Ordensdisziplin) [Source: Wikipedia, public domain] |
@@ -426,7 +426,7 @@
 | `schrift028.jpg` | No specific license/source information found in text |
 | `uebung002.jpg` | Fig.: īśvaraḥ śivaḥ = ईश्वरः शिवः Śiva as Adrdhnārīśvara (अर्धनारीश्वर), d.h. in the form of halb Mann, halb  Frau [Source: Wikipedia, public domain] |
 | `uebung001.jpg` | paśur dhenuḥ =  पशुर्धेनुः Indian Zebu cattle bei Bangalore [Source: mckaysavage. --  http://www.flickr.com/photos/mckaysavage/529395270/. -- Accessed on  2008-11-27. --   Creative  Commons License (Attribution) ] |
-| `uebung003.jpg` | Fig.: etat kim? eṣa kākaḥ.  एतत्किम् | एष काकः || Glanzkrähen (Corvus splendens), Rājasthān (राजस्थान) [Bildquelle: Duncan Wright / Wikipedia. -- GNU FDLizenz] |
+| `uebung003.jpg` | Fig.: etat kim? eṣa kākaḥ.  एतत्किम् \| एष काकः \|\| Glanzkrähen (Corvus splendens), Rājasthān (राजस्थान) [Bildquelle: Duncan Wright / Wikipedia. -- GNU FDLizenz] |
 | `uebung010.jpg` | Fig.: abhiniveśo na vā ? = अभ्निवेशो न  वा । Bodily attachment or not? -- that is the question here "Beauty with the mirror", Belur (ಬೇಲೂರು),  Karnataka (ಕರ್ನಾಟಕ)  [Source: ~Panache. --  http://www.flickr.com/photos/enamor/278398152/. -- Accessed on 2008-11-28. --   Creative  Commons License (Attribution, non-commercial)] |
 | `uebung009.jpg` | Fig.: ṛgvedaḥ = ऋग्वेदः Ṛgveda-Manuskript, frühes 19. century CE [Source: Wikipedia. public domain] |
 | `uebung004.jpg` | Fig.: kā nṛtyati? = का नृत्यति । [Source: Wikipedia, GNU FDL] |

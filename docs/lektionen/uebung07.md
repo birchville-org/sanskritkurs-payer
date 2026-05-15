@@ -1,29 +1,17 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Wie lautet der Akkusativ Plural Maskulinum von „kavi“ (Dichter)?',
-    options: ['kavīn', 'kavān', 'kavayas', 'kavin'],
-    answer: 0,
-    explanation: 'Bei maskulinen i-Stämmen für den Akkusativ Plural wird der Vokal gelängt und -n angefügt: kavīn.'
-  },
-  {
-    question: 'Was ist die korrekte Akkusativ-Singular-Form des Femininums von „etad“ (dieser), wenn es bereits erwähnt wurde?',
-    options: ['etām', 'enām', 'tām', 'enad'],
-    answer: 1,
-    explanation: 'enām ist die anaphorische Form (bei Wiedererwähnung) für den Akkusativ Singular Femininum.'
-  },
-  {
-    question: 'Welche Endung hat der Akkusativ Plural bei neutralen a-Stämmen (z.B. phala)?',
-    options: ['-ān', '-ās', '-āni', '-am'],
-    answer: 2,
-    explanation: 'Neutra auf -a bilden den Nominativ und Akkusativ Plural auf -āni (z.B. phalāni).'
-  }
-]
-</script>
+---
+title: "Übung 7"
+uebung_id: 7
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 7
+::: deleteme-box Zitierweise & Rechte
 
-A) Setzen Sie jeweils im Singular und Plural (sofern es keine Eigennamen sind) das direkte Objekt bzw. den Richtungsakkusativ ein:
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+
+# Übung 7
+
+A) Setzen Sie jeweils im Singular und Plural (sofern es keine Eigennamen sind) das direkte Objekt bzw. den Richtungsakkusativ ein:
 
 1\. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
 
@@ -37,7 +25,7 @@ brāhmaṇo devaṃ / devān yajati. brāhmaṇo devīṃ / devīr yajati. brāh
 
 गुरुस् ... खादति (फल)
 
-guruḥ phalṃ / phalāni khādati.
+guruḥ phalaṃ / phalāni khādati.
 
 गुरुः फलं खादति । गुरुः फलानि खादति ।
 
@@ -71,9 +59,9 @@ sūdro narakaṃ / narakān gacchati.
 
 dhenuṃ labhate. dhenūr labhate. paśuṃ labhate. paśūṃḷ labhate. phalaṃ labhate. phalāni labhate.
 
-धेनुं लभते । धेनूर्लभते । पशुं लभते । पशूंल्लभते । फलं लभते । फलानि लभते॥
+धनुं लभते । धेनूर्लभते । पशुं लभते । पशूंल्लभते । फलं लभते । फलानि लभते ॥
 
-B) Setzen Sie dien entsprechenden Verbformen ein:
+B) Setzen Sie die entsprechenden Verbformen ein:
 
 1\. sādhuḥ svargam ... (āp, gam, aś)
 
@@ -95,7 +83,7 @@ brāhmaṇaḥ somaṃ sunoti / sunute.
 
 साधुर्गुरुम् ... (श्रु)
 
-sādhur guruṃ  śṛṇoti.
+sādhur guruṃ śṛṇoti.
 
 साधुर्गुरुं शृणोति ।
 
@@ -129,33 +117,33 @@ D) Setzen Sie ins Ātmanepada:
 
 1\. sunvanti.
 
-सुन्वन्ति |
+सुन्वन्ति
 
-sunvate
+sunvate.
 
 सुन्वते ।
 
 2\. nayanti.
 
-नयन्ति |
+नयन्ति
 
-nayante
+nayante.
 
 नयन्ते ।
 
 3\. sunoti.
 
-सुनोति |
+सुनोति
 
-sunute
+sunute.
 
 सुनुते ।
 
 4\. yajati.
 
-यजति |
+यजति
 
-yajate
+yajate.
 
 यजते ।
 
@@ -165,13 +153,13 @@ F) Übersetzen Sie:
 
 1\. narakāṃś ca svargāṃś ca gacchanti.
 
-नरकांश्च स्वर्गांश्च गच्छन्ति |
+नरकांश्च स्वर्गांश्च गच्छन्ति
 
 Sie gehen in Himmel und Höllen.
 
 2\. gurūṃs tu śṛṇvanti.
 
-गुरूंस्तु शृण्वन्ति |
+गुरूंस्तु शृण्वन्ति
 
 Sie hören aber auf die Meister.
 
@@ -201,7 +189,7 @@ vaiśyā devatā yajante.
 
 7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Erklärung: chando = Nom,, Akk. sg. zu chandas n.)
 
-शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि |
+शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि
 
 Die Hilfswissenschaften der Vedistik sind: Aussprachelehre, Ritualistik, Grammatik, Worterklärung, Metrik, Kalenderlehre.
 
@@ -215,7 +203,7 @@ ayaṃ brāhmaṇaḥ kaṃ devaṃ yajati / yajate?
 
 ayaṃ sādhuḥ kiṃ khādati?
 
-अयं साधुः किं खादति ।
+अयं साधुः किं खादati ।
 
 10\. Was pressen diese (hier) aus?
 
@@ -229,7 +217,8 @@ sa guruḥ. enaṃ śṛṇvanti.
 
 स गुरुः । एनं शृण्वन्ति ॥
 
-![](/images/uebung006.jpg)  
-Abb.: sa guruḥ. enaṃ śṛṇvanti. = स गुरुः । एनं शृण्वन्ति ॥  
-Svāmī Vivekānanda (স্বামী বিবেকানন্দ) in Chicago, 1893  
-\[Bildquelle: Wikipedia. Public domain\]
+::: media
+![](/images/uebung006.jpg)
+Abb.: स गुरुः । एनं शृण्वन्ति ॥
+(Bildquelle: [Details](/licenses#uebung006))
+:::

@@ -6,6 +6,7 @@ import PayerNavButton from './components/PayerNavButton.vue'
 import PayerDocFooter from './components/PayerDocFooter.vue'
 import PayerTopicIndex from './components/PayerTopicIndex.vue'
 import PayerRelatedLessons from './components/PayerRelatedLessons.vue'
+import PayerWideToggle from './components/PayerWideToggle.vue'
 import './custom.css'
 
 function closeAllExcept(clickedGroup) {
@@ -50,19 +51,84 @@ function closeInactiveGroups() {
     });
 }
 
+function mergeTableCells() {
+    const tables = document.querySelectorAll('.vp-doc table');
+    tables.forEach(table => {
+        const rows = Array.from(table.rows);
+        if (rows.length < 1) return;
+
+        // 1. Horizontal Merging (colspan)
+        rows.forEach(row => {
+            const cells = Array.from(row.cells);
+            for (let i = cells.length - 1; i > 0; i--) {
+                const cell = cells[i];
+                const prev = cells[i-1];
+                if (cell.textContent.trim() === '←' || 
+                    (cell.textContent.trim() === prev.textContent.trim() && cell.textContent.trim() !== '')) {
+                    const colspan = (cell.colSpan || 1) + (prev.colSpan || 1);
+                    prev.colSpan = colspan;
+                    cell.style.display = 'none';
+                    cells.splice(i, 1);
+                }
+            }
+        });
+
+        // 2. Vertical Merging (rowspan)
+        const colCount = rows[0].cells.length;
+        for (let col = 0; col < colCount; col++) {
+            for (let rowIdx = rows.length - 1; rowIdx > 0; rowIdx--) {
+                const cell = rows[rowIdx].cells[col];
+                const prev = rows[rowIdx-1].cells[col];
+                if (!cell || !prev) continue;
+                if (cell.textContent.trim() === '↑' || cell.textContent.trim() === '^^') {
+                    const rowspan = (cell.rowSpan || 1) + (prev.rowSpan || 1);
+                    prev.rowSpan = rowspan;
+                    cell.style.display = 'none';
+                }
+            }
+        }
+    });
+}
+
 export default {
   extends: DefaultTheme,
   Layout: () => h(DefaultTheme.Layout, null, {
-    'doc-footer-before': () => h('div', null, [
-      h(PayerDocFooter)
-    ])
+    'doc-footer-before': () => h(PayerDocFooter),
+    'nav-bar-content-after': () => h(PayerWideToggle)
   }),
   setup() {
     const route = useRoute();
     if (typeof document !== 'undefined') {
-        watch(() => route.path, () => {
-             setTimeout(closeInactiveGroups, 250);
-        });
+        watch(() => route.path, (path) => {
+             setTimeout(() => {
+                 closeInactiveGroups();
+                 mergeTableCells();
+             }, 250);
+             
+             // License Audit ID Migration (Move ID from <a> to <tr> for highlighting)
+             if (path.includes('licenses')) {
+                 setTimeout(() => {
+                     document.querySelectorAll('.license-page tr a[id]').forEach(a => {
+                         const id = a.id;
+                         const tr = a.closest('tr');
+                         if (tr && id) {
+                             tr.id = id;
+                             a.removeAttribute('id');
+                         }
+                     });
+                     // Re-trigger hash targeting without adding history entries
+                     if (window.location.hash) {
+                         const h = window.location.hash;
+                         window.location.replace(h);
+                     }
+                 }, 500);
+             }
+
+             const m = path.match(/(lektion|schrift|uebung)(\d+)/i);
+             if (m) {
+                 localStorage.setItem('payer_last_lesson', m[2]);
+             }
+        }, { immediate: true });
     }
   },
   enhanceApp({ app }) {
@@ -74,13 +140,42 @@ export default {
       if (typeof window !== 'undefined') {
           console.log("Sanskrit-Akkordeon: Aktiviert");
           
-          // Global Scroll Sync für QA Viewer
+          // Automatische Erkennung für Split-Viewer (Embedded Mode)
+          if (window.parent !== window) {
+              document.documentElement.classList.add('is-embedded');
+          }
+
+          const getActiveHeader = () => {
+              const isValid = (el) => {
+                  const t = el.innerText ? el.innerText.replace(/[\u200B\uFEFF]/g, '').trim() : '';
+                  if (/^[1-9]\d*(\.\d+)*\.?(\s|$)/.test(t)) return true;
+                  if (el.tagName.startsWith('H')) return true;
+                  if (/(Wortliste|Übung)/i.test(t)) return true;
+                  return false;
+              };
+              const all = Array.from(document.querySelectorAll('.vp-doc h1, .vp-doc h2, .vp-doc h3, .vp-doc h4, .vp-doc b, .vp-doc strong, .vp-doc p'));
+              const headers = all.filter(isValid);
+              const syncLine = window.scrollY + 80; 
+              let active = null;
+              let minDiff = Infinity;
+              
+              for (const h of headers) {
+                  const diff = Math.abs(h.offsetTop - syncLine);
+                  if (diff < minDiff) {
+                      minDiff = diff;
+                      active = h;
+                  }
+                  if (h.offsetTop > syncLine + 300) break;
+              }
+              return active ? active.innerText.trim() : null;
+          };
+
           window.addEventListener('scroll', () => {
-              if (window.parent !== window) { // Nur senden, wenn im iFrame
+              if (window.parent !== window) { 
                   window.parent.postMessage({
                       type: 'scroll',
                       pct: window.scrollY / (document.documentElement.scrollHeight - window.innerHeight),
-                      top: window.scrollY,
+                      activeHeader: getActiveHeader(),
                       id: window.name || 'left-frame'
                   }, '*');
               }

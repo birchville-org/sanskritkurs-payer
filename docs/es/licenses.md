@@ -39,7 +39,7 @@
 | `lekt0901.jpg` | Figura: karṣaka = कर्षक [Fuente de imagen: Ray Witlin / World Bank. --  http://www.flickr.com/photos/worldbank/2183985518/. -- accedido el  2008-11-23. --   Creative  Commons licencia (Atribución, sin uso comercial, sin obras derivadas)] |
 | `lekt1001.jpg` | No si ha encontrado ninguna licencia especial o fuente de imagen en el texto |
 | `lekt1003.jpg` | Figura: Gott Varuṇa = वरुण, 17. Jhdt. [Fuente de la imagen. Wikipedia, dominio público] |
-| `lekt1002.jpg` | Figura: Ein Ṛṣi: Viśvāmitra (विश्वामित्र) / von Rāja Ravi Varmā (राज रवि वर्मा)  <1848 - 1906> [Fuente de imagen: Wikipedia, dominio público] |
+| `lekt1002.jpg` | Figura: Ein Ṛṣi: Viśvāmitra (विश्वामित्र) / von Rāja Ravi Varmā (राज रवि वर्मा)  &lt;1848 - 1906&gt; [Fuente de imagen: Wikipedia, dominio público] |
 | `lekt1004.jpg` | Figura: Weberin, Bangladesh: die Webkette (Kettfäden sind die Längsfäden, durch  die der Schuss gezogen wird) [Fuente de imagen: USAID / Wikipedia, dominio público] |
 | `lekt1102.jpg` | Figura: वदनानि, Jamalpur district (জামালপুর  	জেলা), Bangladesh (বাংলাদেশ)  	[Fuente de imagen: Juan Blazquez. -- 	 	http://www.flickr.com/photos/juanblazquez/261690111/. -- accedido el  	2008-11-28. --  	 	Creative  	Commons licencia (Atribución, sin uso comercial, sin  	obras derivadas)] |
 | `lekt1101.jpg` | Figura: श्रावको महाकाश्यपः War unter Buddha Guatamas Jüngern der Spezialist für Vinaya (Ordensdisziplin) [Fuente de imagen: Wikipedia, dominio público] |
@@ -426,7 +426,7 @@
 | `schrift028.jpg` | No si ha encontrado ninguna licencia especial o fuente de imagen en el texto |
 | `uebung002.jpg` | Figura: īśvaraḥ śivaḥ = ईश्वरः शिवः Śiva als Adrdhnārīśvara (अर्धनारीश्वर), d.h. in der Gestalt von halb Mann, halb  Frau [Fuente de imagen: Wikipedia, dominio público] |
 | `uebung001.jpg` | paśur dhenuḥ =  पशुर्धेनुः Indische Zeburinder bei Bangalore [Fuente de imagen: mckaysavage. --  http://www.flickr.com/photos/mckaysavage/529395270/. -- accedido el  2008-11-27. --   Creative  Commons licencia (Atribución) ] |
-| `uebung003.jpg` | Figura: etat kim? eṣa kākaḥ.  एतत्किम् | एष काकः || Glanzkrähen (Corvus splendens), Rājasthān (राजस्थान) [Fuente de imagen: Duncan Wright / Wikipedia. -- GNU FDlicencia] |
+| `uebung003.jpg` | Figura: etat kim? eṣa kākaḥ.  एतत्किम् \| एष काकः \|\| Glanzkrähen (Corvus splendens), Rājasthān (राजस्थान) [Fuente de imagen: Duncan Wright / Wikipedia. -- GNU FDlicencia] |
 | `uebung010.jpg` | Figura: abhiniveśo na vā ? = अभ्निवेशो न  वा । Körperbezogenheit oder nicht ? -- das ist hier dies Frage "Schöne mit dem Spiegel", Belur (ಬೇಲೂರು),  Karnataka (ಕರ್ನಾಟಕ)  [Fuente de imagen: ~Panache. --  http://www.flickr.com/photos/enamor/278398152/. -- accedido el 2008-11-28. --   Creative  Commons licencia (Atribución, sin uso comercial)] |
 | `uebung009.jpg` | Figura: ṛgvedaḥ = ऋग्वेदः Ṛgveda-Manuskript, frühes 19. Jhdt. n. Chr. [Fuente de imagen: Wikipedia. dominio público] |
 | `uebung004.jpg` | Figura: kā nṛtyati? = का नृत्यति । [Fuente de imagen: Wikipedia, GNU FDLicense] |

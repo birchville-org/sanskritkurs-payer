@@ -1,27 +1,15 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet das Wort „karṣaka“?',
-    options: ['Pflügend / Ackerbauer', 'Wächter', 'Tänzer', 'Sohn'],
-    answer: 0,
-    explanation: 'karṣaka kommt von der Wurzel kṛṣ (pflügen) + Suffix -aka und bedeutet „Ackerbauer“.'
-  },
-  {
-    question: 'Was ist die spezifische Aufgabe (vārttā) eines Vaiśya laut Übungstext?',
-    options: ['Lehren und Opfern', 'Hüten aller Wesen', 'Ackerbau, Handel und Viehhaltung', 'Dienen der Zweimalgeborenen'],
-    answer: 2,
-    explanation: 'vārttā (Ökonomie) umfasst für Vaiśyas kṛṣi (Ackerbau), vāṇijya (Handel) und pāśupālya (Viehhaltung).'
-  },
-  {
-    question: 'Was ist ein „brāhmaṇaka“?',
-    options: ['Ein hoher Brahmane', 'Ein schlechter Brahmane (der einem Brahmanen nur ähnlich ist)', 'Ein kleiner Brahmane', 'Ein Sohn eines Brahmanen'],
-    answer: 1,
-    explanation: 'Das Suffix -ka kann Ähnlichkeit oder Geringschätzung ausdrücken; brāhmaṇaka ist einer, der einem Brahmanen nur ähnlich ist.'
-  }
-]
-</script>
+---
+title: "Übung 9"
+uebung_id: 9
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 9
+::: deleteme-box Zitierweise & Rechte
+
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+
+# Übung 9
 
 A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:
 
@@ -31,9 +19,9 @@ A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:
 
 3\. śravaṇa श्रवण : n. Ohr
 
-4\. dhenuka m. धेनुक : m. (Koitus) in der Art einer Kuh
+4\. dhenuka धेनुक : m. (Koitus) in der Art einer Kuh
 
-5\. jayaka जयक : 3  siegreich
+5\. jayaka जयक : 3 siegreich
 
 6\. rakṣikā रक्षिका : f. Wächterin, Amulett
 
@@ -43,17 +31,17 @@ A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:
 
 9\. nāyikātva नायिकात्व : n. Zustand einer Geliebten
 
-10\. tantraka तन्त्रक 3 (eben) von der Webkette / dem Webstuhl kommend = neu gewebt
+10\. tantraka तन्त्रक : 3 (eben) von der Webkette / dem Webstuhl kommend = neu gewebt
 
-11\. nartaka (f. nartakī) नर्तक नर्तकी : Tänzer
+11\. nartaka (f. nartakī) नर्तक (नर्तकी) : Tänzer
 
 12\. naraka नरक : m. Hölle
 
-13\. lābhaka लाभक : m. = lābha f.
+13\. lābhaka लाभक : m. = lābha
 
 14\. īśvaratā ईश्वरता : f. HERR-Sein
 
-15\. dhenukā f. धेनुका = dhenu f.
+15\. dhenukā धेनुका : f. = dhenu
 
 16\. yodhaka योधक : m. Kämpfer
 
@@ -108,20 +96,20 @@ dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. द्विज�
 (nach Kauṭilīya-arthaśāstra 1.3.8.)
 
 Erklärung:
-
 dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen")
 
 kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
 
 Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tätigkeit als Handwerker bzw. wandernde Schausteller.
 
-6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. कृषिः पाशुपाल्यं वणिज्या च वार्त्ता |
+6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. कृषिः पाशुपाल्यं वणिज्या च वार्त्ता
 
 (nach Kauṭilīya-arthaśāstra 1.4.1.)
 
 Ökonomie ist Ackerbau, Viehhaltung und Handel.
 
-![](/images/uebung013.jpg)  
-Abb.: rakṣaṇaṃ sarvabhūtānām = रक्षणं सर्वभूतानाम्  
-Dharma Raja Karthika Thirunal Rama Varma (‘ധര്‍മ്മ രാജ‘ കാര്‍ത്തിക തിരുനാള്‍ രാ‍മവര്‍മ്മ), Mahārāja von Travancore (തിരുവിതാങ്കൂര്) 1758 -1798, ein Kṣatriya  
-\[Bildquelle: Wikipedia, GNU FDLizenz\]
+::: media
+![](/images/uebung013.jpg)
+Abb.: रक्षणं सर्वभूतानाम्
+(Bildquelle: [Details](/licenses#uebung013))
+:::

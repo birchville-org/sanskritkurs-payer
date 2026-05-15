@@ -1,4 +1,3 @@
-import { getSidebarItems } from '../utils.mjs'
 
 export const en = {
   label: 'EN',
@@ -12,6 +11,7 @@ export const en = {
       { text: 'Home', link: '/en/' },
       { text: 'TOC', link: '/en/lektionen/inhaltsverzeichnis' },
       { text: 'Index', link: '/en/grammatik' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Credits', link: '/en/impressum' }
     ],
     docFooter: {
@@ -22,9 +22,9 @@ export const en = {
       { text: 'Table of Contents', link: '/en/lektionen/inhaltsverzeichnis' },
       { text: 'Grammar Topics (Index)', link: '/en/grammatik' },
       { text: 'Vocabulary', link: '/en/lektionen/wortliste' },
-      { text: 'Lessons', collapsed: false, items: getSidebarItems('lektion', 'Lesson', 'en', 10) },
-      { text: 'Script (Introduction)', collapsed: true, items: getSidebarItems('schrift', 'Script', 'en') },
-      { text: 'Exercises', collapsed: true, items: getSidebarItems('uebung', 'Exercise', 'en', 10) },
+      { text: 'Lessons', collapsed: false, items: [] },
+      { text: 'Script (Introduction)', collapsed: true, items: [] },
+      { text: 'Exercises', collapsed: true, items: [] },
       { text: 'Legal', collapsed: true, items: [
           { text: 'Legal Notice & Citation', link: '/en/impressum' },
           { text: 'Image Licenses', link: '/en/licenses' }

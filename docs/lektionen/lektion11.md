@@ -3,7 +3,7 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 ---
 
-# 11. Lektion 11
+# Lektion 11
 
 ::: info
 **In dieser Lektion lernen Sie:**

@@ -1,29 +1,17 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet der Satz „kṣitiṃ saśasyāṃ yo dadyāt...“?',
-    options: ['Wer dem Brahmanen die Erde mit der Saat gibt...', 'Das Getreide wächst auf der Erde', 'Brahmanen essen Getreide', 'Die Erde ist rund'],
-    answer: 0,
-    explanation: 'dadyāt ist der Optativ von dā (geben). śasya bedeutet „Saat/Getreide“.'
-  },
-  {
-    question: 'Was ist die Bedeutung von „dvijottama“?',
-    options: ['Letzter der Zweimalgeborenen', 'Bester der Zweimalgeborenen (Brahmane)', 'Zweimalgeborener Sohn', 'Gott der Brahmanen'],
-    answer: 1,
-    explanation: 'uttama bedeutet „höchster/bester“. Ein dvijottama ist ein Brahmane.'
-  },
-  {
-    question: 'Wie lautet die 3. Person Plural Perfekt Parasmaipada von „as“ (sein)?',
-    options: ['āsan', 'āsur', 'asanti', 'babhūvuḥ'],
-    answer: 1,
-    explanation: 'as bildet das Perfekt āsa (Singular) und āsur (Plural).'
-  }
-]
-</script>
+---
+title: "Übung 34"
+uebung_id: 34
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 34
+::: deleteme-box Zitierweise & Rechte
 
-Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entprechenden Perfektformen:
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+
+# Übung 34
+
+A) Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus verbi entsprechenden Perfektformen:
 
 1.  रक्षिष्यन्ति । ररक्षुर्
 2.  स्रक्ष्यति । ससर्ज
@@ -84,7 +72,7 @@ Vokativ sg. der Maskulina / Neutra auf -a lautet auf -a: z.B. देव "Gott!"
 
 सर्व 3 "alle, ganz" (dekliniert nach Pronominaldeklination)
 
-![](/images/uebung057.jpg)  
-Abb.: तिलप्रमाणम्  
-_Sesamum indicum_ L.  
-\[Bildquelle: Soebe / Wikipedia. GNU FDLicense\]
+![](/images/uebung057.jpg)
+Abb.: तिलप्रमाणम्
+(Bildquelle: [Details](/licenses#uebung057))
+:::

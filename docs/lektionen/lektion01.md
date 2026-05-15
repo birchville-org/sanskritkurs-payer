@@ -1,5 +1,5 @@
 ---
-title: "Lektion 1"
+title: Lektion 1
 subtitle: "Die Laute des Sanskrit"
 lesson_id: 1
 category: "Grammatik"
@@ -9,9 +9,6 @@ last_reconstructed: 2026-04-30
 
 # Lektion 1
 
-::: info Zitierweise und Copyright
-Dieser Text ist Teil des Sanskritkurses von Alois Payer. Details zu Urheberrecht und Zitierweise finden Sie unter: [Impressum & Copyright](/impressum)
-:::
 
 ::: center
 गणेशपूजनम्
@@ -84,7 +81,7 @@ Zu Beginn ein Kuriosum:
 "Als William Jones [1746–1794] und Henry Thomas Colebrooke (1765—1857) das Sanskrit erstmalig gründlich studiert, teilweise übersetzt und gefunden hatten, dass es eine reiche Literatur und nicht geringe Verwandtschaft mit den klassischen Sprachen aufwies, stießen sie auf nicht geringen Widerstand. Da sich mit dieser innigen Beziehung des Sanskrits zu den geographisch so weit entlegenen europäischen Sprachen die alten Anschauungen, welche entweder alle Sprachen aus dem Hebräischen ableiteten oder größtenteils von einander isolierten, nicht in Einklang bringen lassen, so ergriff der berühmte Philologe Dugald Steward (1753—1828) den einfachsten Ausweg, indem er die ganze Geschichte mit der Sanskritsprache für eine Lüge erklärte. Er schrieb einen Essay, in dem er zu beweisen suchte, dass sie von den spitzbübischen Brahmanen nach dem Muster des Griechischen und Lateinischen zusammengeschmiedet sei und die Sprache sowohl als auch die Literatur eine Fälschung seien. Diese Ansicht entwickelte noch im Jahre 1840 der Professor in Dublin, Charles William Wall, weitläufig (Göttingische gelehrte Anzeigen 1842 S. 1888)."
 :::
 
-[Quelle: **Kemmerich**, Max <1876-1932>: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
+> [Quelle: **Kemmerich**, Max <1876-1932>: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
 
 ## 1.1. Literatur für Anfänger in Indologie
 

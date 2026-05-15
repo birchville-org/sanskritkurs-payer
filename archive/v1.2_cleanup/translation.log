@@ -1,0 +1,137 @@
+Found 136 files to translate. Using concurrency: 1
+Translating lektion08.md (12.6 KB) to Italiano using gpt-oss:120b-cloud...
+Saved to docs/it/lektionen/lektion08.md
+Translating uebung06.md (9.5 KB) to Italiano using gpt-oss:120b-cloud...
+Saved to docs/it/lektionen/uebung06.md
+Translating lektion30.md (11.7 KB) to Italiano using gpt-oss:120b-cloud...
+Saved to docs/it/lektionen/lektion30.md
+Translating lektion49.md (11.0 KB) to Italiano using gpt-oss:120b-cloud...
+Saved to docs/it/lektionen/lektion49.md
+Translating lektion43.md (11.9 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777036581\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777036671\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777036857\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777036947\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777037037\": unexpected EOF"}
+Final failure for docs/lektionen/lektion43.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777037037\": unexpected EOF"}
+Translating lektion25.md (13.2 KB) to Italiano using gpt-oss:120b-cloud...
+Saved to docs/it/lektionen/lektion25.md
+Translating lektion44.md (13.4 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777037193\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777037369\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777037460\": unexpected EOF"}
+Saved to docs/it/lektionen/lektion44.md
+Translating lektion28.md (15.7 KB) to Italiano using gpt-oss:120b-cloud...
+Saved to docs/it/lektionen/lektion28.md
+Translating lektion36.md (13.8 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777038007\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777038208\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777038298\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777038388\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777038478\": unexpected EOF"}
+Final failure for docs/lektionen/lektion36.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777038478\": unexpected EOF"}
+Translating lektion46.md (14.6 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777038538\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777038629\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777038719\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777038809\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777038944\": unexpected EOF"}
+Final failure for docs/lektionen/lektion46.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777038944\": unexpected EOF"}
+Translating lektion15.md (15.9 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777039051\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777039171\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777039261\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777039352\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777039514\": unexpected EOF"}
+Final failure for docs/lektionen/lektion15.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777039514\": unexpected EOF"}
+Translating uebung20.md (12.6 KB) to Italiano using gpt-oss:120b-cloud...
+Saved to docs/it/lektionen/uebung20.md
+Translating lektion20.md (17.8 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777039659\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777039749\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777039839\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777039929\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777040019\": unexpected EOF"}
+Final failure for docs/lektionen/lektion20.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777040019\": unexpected EOF"}
+Translating lektion38.md (17.6 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777040079\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777040199\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777040289\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777040380\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777040531\": unexpected EOF"}
+Final failure for docs/lektionen/lektion38.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777040531\": unexpected EOF"}
+Translating lektion32.md (18.9 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777040591\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777040711\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777040801\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777040891\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777041053\": unexpected EOF"}
+Final failure for docs/lektionen/lektion32.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777041053\": unexpected EOF"}
+Translating lektion53.md (20.3 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777041113\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777041233\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777041323\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777041413\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777041558\": unexpected EOF"}
+Final failure for docs/lektionen/lektion53.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777041558\": unexpected EOF"}
+Translating lektion27.md (20.0 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777041618\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777041738\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777041828\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777041977\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042067\": unexpected EOF"}
+Final failure for docs/lektionen/lektion27.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042067\": unexpected EOF"}
+Translating lektion51.md (21.2 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042127\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042247\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042337\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042427\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042517\": unexpected EOF"}
+Final failure for docs/lektionen/lektion51.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042517\": unexpected EOF"}
+Translating lektion59.md (18.6 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042577\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042697\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042788\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042878\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042968\": unexpected EOF"}
+Final failure for docs/lektionen/lektion59.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777042968\": unexpected EOF"}
+Translating lektion52.md (23.6 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043028\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043148\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043238\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043328\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043418\": unexpected EOF"}
+Final failure for docs/lektionen/lektion52.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043418\": unexpected EOF"}
+Translating inhaltsverzeichnis.md (30.1 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043478\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043598\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043688\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043778\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043911\": unexpected EOF"}
+Final failure for docs/lektionen/inhaltsverzeichnis.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043911\": unexpected EOF"}
+Translating lektion61.md (26.2 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777043971\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777044091\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777044181\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777044323\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777044413\": unexpected EOF"}
+Final failure for docs/lektionen/lektion61.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777044413\": unexpected EOF"}
+Translating uebung32.md (24.7 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777044473\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777044593\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777044683\": unexpected EOF"}
+Attempt 4 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777044773\": unexpected EOF"}
+Attempt 5 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777044863\": unexpected EOF"}
+Final failure for docs/lektionen/uebung32.md: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777044863\": unexpected EOF"}
+Translating licenses.md (103.0 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777044923\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777045043\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777045133\": unexpected EOF"}
+Saved to docs/it/licenses.md
+Translating wortliste.md (141.9 KB) to Italiano using gpt-oss:120b-cloud...
+Attempt 1 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777045375\": unexpected EOF"}
+Attempt 2 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777045496\": unexpected EOF"}
+Attempt 3 failed: API Status 502: {"error":"Post \"https://ollama.com:443/v1/chat/completions?ts=1777045586\": unexpected EOF"}
+Saved to docs/it/lektionen/wortliste.md
+Finished translating Italiano. Running link fixer...
+Fixing links, escaping HTML, and closing tags for it...

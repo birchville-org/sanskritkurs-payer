@@ -1,0 +1,184 @@
+Translating specific files: docs/lektionen/lektion04.md, docs/lektionen/lektion17.md, docs/lektionen/lektion24.md, docs/lektionen/lektion30.md, docs/lektionen/lektion34.md, docs/lektionen/lektion37.md, docs/lektionen/lektion38.md, docs/lektionen/lektion43.md, docs/lektionen/lektion53.md, docs/lektionen/lektion59.md, docs/lektionen/lektion60.md, docs/lektionen/uebung51.md
+Found 12 files to translate. Using concurrency: 1
+Translating lektion04.md (5.1 KB) to Български using gemma4:26b-optimized4nyx...
+Saved to docs/bg/lektionen/lektion04.md
+Translating lektion17.md (7.4 KB) to Български using gemma4:26b-optimized4nyx...
+Saved to docs/bg/lektionen/lektion17.md
+Translating lektion24.md (12.2 KB) to Български using gemma4:26b-optimized4nyx...
+Attempt 1 failed: read ETIMEDOUT
+Attempt 2 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 3 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: connect ETIMEDOUT 192.168.1.195:11434
+Cloud failed for lektion24.md. Switching to nyx.local fallback...
+Attempt 1 failed: 
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: 
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: 
+Attempt 6 failed: read ETIMEDOUT
+Attempt 7 failed: 
+Attempt 8 failed: read ETIMEDOUT
+Attempt 9 failed: 
+Attempt 10 failed: read ETIMEDOUT
+Final failure for docs/lektionen/lektion24.md even with local fallback: read ETIMEDOUT
+Translating lektion30.md (11.7 KB) to Български using gemma4:26b-optimized4nyx...
+Attempt 1 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 2 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 5 failed: read ETIMEDOUT
+Cloud failed for lektion30.md. Switching to nyx.local fallback...
+Attempt 1 failed: 
+Attempt 2 failed: 
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: 
+Attempt 5 failed: read ETIMEDOUT
+Attempt 6 failed: 
+Saved to docs/bg/lektionen/lektion30.md
+Translating lektion34.md (8.1 KB) to Български using gemma4:26b-optimized4nyx...
+Attempt 1 failed: read ETIMEDOUT
+Attempt 2 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 3 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 4 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 5 failed: read ETIMEDOUT
+Cloud failed for lektion34.md. Switching to nyx.local fallback...
+Attempt 1 failed: 
+Attempt 2 failed: 
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: 
+Attempt 5 failed: read ETIMEDOUT
+Attempt 6 failed: 
+Attempt 7 failed: read ETIMEDOUT
+Attempt 8 failed: 
+Attempt 9 failed: read ETIMEDOUT
+Attempt 10 failed: 
+Final failure for docs/lektionen/lektion34.md even with local fallback: 
+Translating lektion37.md (14.5 KB) to Български using gemma4:26b-optimized4nyx...
+Attempt 1 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: connect ETIMEDOUT 192.168.1.195:11434
+Cloud failed for lektion37.md. Switching to nyx.local fallback...
+Attempt 1 failed: 
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: 
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: 
+Attempt 6 failed: read ETIMEDOUT
+Attempt 7 failed: 
+Attempt 8 failed: read ETIMEDOUT
+Attempt 9 failed: 
+Attempt 10 failed: read ETIMEDOUT
+Final failure for docs/lektionen/lektion37.md even with local fallback: read ETIMEDOUT
+Translating lektion38.md (17.6 KB) to Български using gemma4:26b-optimized4nyx...
+Attempt 1 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 2 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 5 failed: read ETIMEDOUT
+Cloud failed for lektion38.md. Switching to nyx.local fallback...
+Attempt 1 failed: 
+Attempt 2 failed: 
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: 
+Attempt 5 failed: read ETIMEDOUT
+Attempt 6 failed: 
+Attempt 7 failed: read ETIMEDOUT
+Attempt 8 failed: 
+Attempt 9 failed: read ETIMEDOUT
+Attempt 10 failed: 
+Final failure for docs/lektionen/lektion38.md even with local fallback: 
+Translating lektion43.md (11.9 KB) to Български using gemma4:26b-optimized4nyx...
+Attempt 1 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: connect ETIMEDOUT 192.168.1.195:11434
+Cloud failed for lektion43.md. Switching to nyx.local fallback...
+Attempt 1 failed: 
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: 
+Attempt 4 failed: 
+Attempt 5 failed: read ETIMEDOUT
+Attempt 6 failed: 
+Attempt 7 failed: read ETIMEDOUT
+Attempt 8 failed: 
+Attempt 9 failed: read ETIMEDOUT
+Attempt 10 failed: 
+Final failure for docs/lektionen/lektion43.md even with local fallback: 
+Translating lektion53.md (20.3 KB) to Български using gemma4:26b-optimized4nyx...
+Attempt 1 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: connect ETIMEDOUT 192.168.1.195:11434
+Cloud failed for lektion53.md. Switching to nyx.local fallback...
+Attempt 1 failed: 
+Attempt 2 failed: 
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: 
+Attempt 5 failed: read ETIMEDOUT
+Attempt 6 failed: 
+Attempt 7 failed: read ETIMEDOUT
+Attempt 8 failed: 
+Attempt 9 failed: 
+Attempt 10 failed: read ETIMEDOUT
+Final failure for docs/lektionen/lektion53.md even with local fallback: read ETIMEDOUT
+Translating lektion59.md (18.6 KB) to Български using gemma4:26b-optimized4nyx...
+Attempt 1 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 2 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 5 failed: read ETIMEDOUT
+Cloud failed for lektion59.md. Switching to nyx.local fallback...
+Attempt 1 failed: 
+Attempt 2 failed: 
+Attempt 3 failed: read ETIMEDOUT
+Attempt 4 failed: 
+Attempt 5 failed: read ETIMEDOUT
+Attempt 6 failed: 
+Attempt 7 failed: read ETIMEDOUT
+Attempt 8 failed: 
+Attempt 9 failed: read ETIMEDOUT
+Attempt 10 failed: 
+Final failure for docs/lektionen/lektion59.md even with local fallback: 
+Translating lektion60.md (12.1 KB) to Български using gemma4:26b-optimized4nyx...
+Attempt 1 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: connect ETIMEDOUT 192.168.1.195:11434
+Cloud failed for lektion60.md. Switching to nyx.local fallback...
+Attempt 1 failed: 
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: 
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: 
+Attempt 6 failed: read ETIMEDOUT
+Attempt 7 failed: 
+Attempt 8 failed: 
+Attempt 9 failed: read ETIMEDOUT
+Attempt 10 failed: 
+Final failure for docs/lektionen/lektion60.md even with local fallback: 
+Translating uebung51.md (8.0 KB) to Български using gemma4:26b-optimized4nyx...
+Attempt 1 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: connect ETIMEDOUT 192.168.1.195:11434
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: connect ETIMEDOUT 192.168.1.195:11434
+Cloud failed for uebung51.md. Switching to nyx.local fallback...
+Attempt 1 failed: 
+Attempt 2 failed: read ETIMEDOUT
+Attempt 3 failed: 
+Attempt 4 failed: read ETIMEDOUT
+Attempt 5 failed: 
+Attempt 6 failed: read ETIMEDOUT
+Attempt 7 failed: 
+Attempt 8 failed: read ETIMEDOUT
+Attempt 9 failed: 
+Attempt 10 failed: read ETIMEDOUT
+Final failure for docs/lektionen/uebung51.md even with local fallback: read ETIMEDOUT
+Finished translating Български. Running link fixer...
+Fixing links, escaping HTML, and closing tags for bg...

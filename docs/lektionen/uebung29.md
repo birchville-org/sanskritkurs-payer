@@ -1,81 +1,59 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was bedeutet das Wort „mātsyanayāya“ (मात्स्यन्याय) in der indischen Staatstheorie?',
-    options: ['Das Gesetz der Fische (Recht des Stärkeren)', 'Ein buddhistisches Gesetz', 'Die Ordnung der Brahmanen', 'Ein Opferritual'],
-    answer: 0,
-    explanation: 'Es bedeutet, dass die Großen die Kleinen verschlingen (Recht des Stärkeren), wenn keine staatliche Ordnung (daṇḍa) existiert.'
-  },
-  {
-    question: 'Was drückt das Wort „udbhāvayati“ (Kausativ zu ud-bhū) aus?',
-    options: ['Er vernichtet', 'Er bewirkt das Entstehen / bringt hervor', 'Er geht aufwärts', 'Er meditiert'],
-    answer: 1,
-    explanation: 'Kausativ zu ud-bhū (aufstehen/entstehen) = „hervorbringen / entstehen lassen“.'
-  },
-  {
-    question: 'Wer ist ein „Parivrājaka“?',
-    options: ['Ein König', 'Ein Diener', 'Ein umherwandernder Mönch', 'Ein Kaufmann'],
-    answer: 2,
-    explanation: 'Ein Parivrājaka (von pari-vraj) ist ein umherwandernder Asket.'
-  }
-]
-</script>
+---
+title: "Übung 29"
+uebung_id: 29
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 29
+::: deleteme-box Zitierweise & Rechte
+
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+
+# Übung 29
 
 Übersetzen Sie wortgetreu in gutes Deutsch und lernen Sie die Sanskrittexte auswendig:
 
-1\. Definition von अविद्या :
+### १. Definition von अविद्या
 
-अनित्याशुचिदुःखानात्मसु नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २.५॥
-
-Erklärung: आत्मसु = Lok. sg. zu आत्मन् m. "Seele ; das Absolute, insofern es im Individuum verwirklicht wird"
+**अनित्याशुचिदुःखानात्मसु नित्यशुचिसuखात्मख्यातिरविद्या ॥ योगसूत्र २.५ ॥**
 
 Unwissen bedeutet, dass man Unbeständiges, Unreines, Leidvolles und Nicht-Absolutes als beständig, rein, freudvoll bzw. absolut ansieht.
 
-2\. कौटिलीयार्थशास्त्र 1.4. über den rechten Gebrauch des दण्ड :
+::: deleteme-box Erläuterung
+**आत्मसु** = Lok. sg. zu आत्मन् m. "Seele; das Absolute, insofern es im Individuum verwirklicht wird"
+:::
 
-तीक्ष्णदण्डो भूतानामुद्वेजनीयो भवति ।८। मृदुदण्डः परिभूयते ।९। यथार्हदण्डः पूज्यते ।१०। सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति ।११। दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति, किमङ्ग पुनर्गृहस्थान् ।१२। अप्रणीतस्तु मात्स्यन्यायमुद्भावयति ।१३। बलीयानबलं हि ग्रसते दण्डधराभावे ।१४। स तेन गुप्तः प्रभवतीति ।१५।
+### २. Über den rechten Gebrauch des दण्ड (Kautilya Arthaśāstra 1.4)
 
-> चतुर्वर्णाश्रमो लोको  
-> राज्ञा दण्डेन पालितः ।  
-> स्वधर्मकर्माभिरतो  
-> वर्तते स्वेषु वर्त्मसु ॥१६॥
+तीक्ष्णदण्डो भूतानामुद्वेजनीयो भवति । मृदुदण्डः परिभूयते । यथार्हदण्डः पूज्यते । सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति । दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति, किमङ्ग पुनर्गृहस्थान् । अप्रणीतस्तु मात्स्यन्यायमुद्भावयति । बलीयानबलं हि ग्रसते दण्डधराभावे । स तेन गुप्तः प्रभवतीति ।
 
-Vor einem zu strengen Regiment müssen die Wesen schaudern. Ein lasches Regiment wird verachtet. Ein gerade richtiges Regiment wird verehrt. Ein weise geführtes Regiment fördert bei den Untertanen Recht, Gewinn und Lust. Ein wegen Lust und Hass oder Verachtung schlecht geführtes Regiment erzürnt selbst in den Wald zurückgezogene Alte und Wandersasketen, um wieviel mehr Hausväter. Nicht ausgeübtes Regiment bewirkt ein Verhalten wie Fische. Wenn niemand da ist, der das Regiment aufrecht erhält, verschlingt nämlich der Stärkere den Schwachen. Wenn der Schwache vom Regimentsinhaber behütet wird, gedeiht er.
+चतुर्वर्णाश्रमो लोको  
+राज्ञा दण्डेन पालितः ।  
+स्वधर्मकर्माभिरतो  
+वर्तते स्वेषु वर्त्मसु ॥१६॥
+
+Vor einem zu strengen Regiment (daṇḍa) müssen die Wesen schaudern. Ein lasches Regiment wird verachtet. Ein gerade richtiges Regiment wird verehrt. Ein weise geführtes Regiment fördert bei den Untertanen Recht, Gewinn und Lust. Ein wegen Lust und Hass oder Verachtung schlecht geführtes Regiment erzürnt selbst in den Wald zurückgezogene Alte und Wandersasketen, um wieviel mehr Hausväter. Nicht ausgeübtes Regiment bewirkt ein Verhalten wie Fische (mātsyanayāya). Wenn niemand da ist, der das Regiment aufrecht erhält, verschlingt nämlich der Stärkere den Schwachen. Wenn der Schwache vom Regimentsinhaber behütet wird, gedeiht er.
 
 > Die Welt mit ihren vier Ständen und Lebensstadien  
 > Wird vom König durch das Regiment beschützt:  
 > Froh über die Tätigkeit nach eigenem Recht und eigener Sitte  
-> Bewegt sie sich auf ihren eigenen Bahnen.  
->      
+> Bewegt sie sich auf ihren eigenen Bahnen.
 
-Erklärungen:
+::: deleteme-box Glossar & Grammatik
+- **उद्वेजनीय** (3): etwas, vor dem man schaudern muss
+- **विज्ञात** (3): erkannt; n.: Erkennen
+- **योजयति** (Kaus. zu **युज्**): anschirren, verbinden mit
+- **कामक्रोधाभ्याम्**: Instr./Dat./Abl. Dual mask. von **कामक्रोध**
+- **किमङ्ग**: um wieviel mehr
+- **बलीयान्**: Nom. sg. mask. zu **बलीयस्** (stärker)
+- **चतुर्-**: vier (Vorderglied)
+- **राज्ञा**: Instr. sg. mask. zu **राजन्** (König)
+- **स्वेषु**: Lok. plur. mask./neutr. zu **स्व** (eigen)
+- **वर्त्मसु**: Lok. plur neutr. zu **वर्त्मन्** (Bahn, Pfad)
+:::
 
-।८। उद्वेजनीय ३ "etwas (jemand), vor dem man schaudern muss"
-
-।११। विज्ञात ३ "erkannt" ; n.: Erkennen
-
-।११। योजयति (Kaus. zu युज्) "anschirren, verbinden mit, vereinigen mit"
-
-।१२। कामक्रोधाभ्याम् : Instr., Dat. Abl., Dual mask. von कामक्रोध (Dualdvandva)
-
-।१२। किमङ्ग "um wieviel mehr"
-
-।१४। बलीयान् : Nom. sg. mask. zu बलीयस् ३ "stärker"
-
-।१६। चतुर् "vier" als Vorderglied eines Kompositums
-
-राज्ञा Instr. sg. mask. zu राजन् m. "König"
-
-स्वेषु : Lok. plur. mask. / neutr. zu स्व ३ "eigen (mein, dein, sein usw.)"
-
-वर्त्मसु : Lok. plur neutr. zu वर्त्मन् n. "Bahn, Gleis, Pfad"
-
-![](/images/uebung046.jpg)  
-Abb.: चतुर्वर्णाश्रमो लोको  
-राज्ञा दण्डेन पालितः ।  
-स्वधर्मकर्माभिरतो  
-वर्तते स्वेषु वर्त्मसु ॥१६॥  
-Dr. Raman Singh = ड. रमण सिंग, seit 2003 Chief Minister (मुख्यमंत्री) von Chhatisgarh छत्तीसगढ़ = छत्तीसगढ़  
-\[Bildquelle: Amita Sharma. -- http://www.flickr.com/photos/hindibhasha/2593298459/in/set-72157605709733141/. -- Zugriff am 2008-12-29. -- Creative Commons Lizenz (Namensnennung)\]
+::: media
+![](/images/uebung046.jpg)
+Abb.: चतुर्वर्णाश्रमो लोको
+(Bildquelle: [Details](/licenses#uebung046))
+:::

@@ -37,3 +37,9 @@ Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang
 - Beseitigung redundanter H1-Titel und Autoren-Vermerke, die Herr Payer in seinen Original-Dateien verstreut hatte.
 - Vue-AST-Blockade bei unmaskierten `<caption>` und `<colgroup>` Tabs.
 - Visuelles Entfernen alter toter Creative-Commons Bilder aus 2008 von Yahoo/Flickr (Hotlinks wurden neutralisiert).
+Lektion 06: Gold Standard Locked
+Lektion 07: Gold Standard Locked
+Lektion 08: Gold Standard Complete
+Lektion 08: Gold Standard Locked
+Lektion 09: Gold Standard Locked
+Lektion 10: Gold Standard Locked

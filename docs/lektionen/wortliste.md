@@ -1,5 +1,17 @@
+::: deleteme-box
+::: deleteme-box
+::: deleteme-box
 > [!INFO] Zitierweise & Rechte
 > Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+
+
+
+
+:::
+
+:::
+
+:::
 
 # Wortliste (Gesamtübersicht)
 
@@ -53,18 +65,11 @@ varṇa m.-- वर्ण : Farbe, Geburtsstand
 
 Die vier Stände (varṇa m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
 
-![](/images/lekt0201.jpg)  
-Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts)
-
-Beschriftung:
-
-*   Priesterstand (~Brāhmaṇa): Tu supplex ora = Du bete flehend!
-*   Adelsstand (~Kṣatriya): Tu protege = Du schütze!
-*   Bauernstand (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite!
-
-Die drei Stände tragen die jeweilige Standestracht. Über den - damit als gottgewollt bezeichneten - Ständen trohnt Christus.
-
-\[Bildquelle: Meyer, Werner: Hirsebrei und Hellebarde : auf den Spuren des mittelalterlichen Lebens in der Schweiz . -- 2. Aufl. -- Olten  \[u.a.\] : Walter, 1986\. -- ISBN: 3-530-56707-8. -- S. 129\]
+::: media
+![](/images/lekt0201.jpg)
+Abb.: यूरोप-मध्यकाल-वर्णाः
+(Bildquelle: [Details](/licenses#lekt0201))
+:::
 
 Max Weber &lt;1864 - 1920&gt; definiert Stand so
 
@@ -96,17 +101,21 @@ kavi m. -- कवि : Dichter
 
 agni m. -- अग्नि : Feuer, Gott Agni
 
-![](/images/lekt0203.jpg)  
-Abb.: Gott Agni, Miniatur, 18. Jhdt  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt0203.jpg)
+Abb.: अग्निः
+(Bildquelle: [Details](/licenses#lekt0203))
+:::
 
 sādhu 3 -- साधु : richtig, gut
 
 sādhu m. -- साधु : "heiliger" Mann, Sādhu
 
-![](/images/lekt0202.jpg)  
-Abb.: Sādhu (साधु), Pashupatinath Tempel (पशुपतिनाथ मन्दिर), Kathmandu (काठमांडौ), Nepal (नेपाल), 2007  
-\[Bildquelle: Peter Akkermans, Wikipedia, GNU FDLizenz\]
+::: media
+![](/images/lekt0202.jpg)
+Abb.: साधुः पशुपतिनाथमन्दिरम् काठमाण्डौ नेपालम्
+(Bildquelle: [Details](/licenses#lekt0202))
+:::
 
 guru 3 -- गुरु : schwer, bedeutend, verehrenswert
 
@@ -157,10 +166,11 @@ vaiṣyā f. = वैश्या : weibliche Vaiśya
 
 devī f. = देवी : Göttin, insbes. Durgā f. = दुर्गा, die Gattin Śiva's = शिव
 
-![](/images/lekt0303.jpg)  
-Abb.: Durgā = दुर्गा, Orissa (ଓଡ଼ିଶା)  
-\[Bildquelle: Wikipedia, GNU FDLizenz\]
-
+::: media
+![](/images/lekt0303.jpg)
+Abb.: दुर्गा
+(Bildquelle: [Details](/licenses#lekt0303))
+:::
 sādhvī f. = साध्वी : fem. zu sādhu
 
 gurvī f. = गुर्वी : fem. zu guru
@@ -184,9 +194,11 @@ abhiniveṣa m. = अभिनिवेष : Neigung zu, Hartnäckigkeit, Besteh
 
 kāma m. = काम : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma
 
-![](/images/lekt0501.jpg)  
-Abb.: Gott Kāma = kāmadeva = कामदेव, 18. Jhdt.  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt0501.jpg)
+Abb.: कामदेवः
+(Bildquelle: [Details](/licenses#lekt0501))
+:::
 
 krodha m. = क्रोध : Zorn
 
@@ -274,9 +286,11 @@ su 5 U (sunoti) सु सुनोति : auspressen
 
 soma m. सोम : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
 
-![](/images/lekt0701.jpg)  
-Abb.: War das die vedische Somapflanze?: Fliegenpilz: _Amanita muscaria_ (L.) Lam.  
-\[Bildquelle: Wikipedia, GNU FDLizenz\] 
+::: media
+![](/images/lekt0701.jpg)
+Abb.: सोमः
+(Bildquelle: [Details](/licenses#lekt0701))
+:::
 
 phala n. फल : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
 
@@ -329,13 +343,17 @@ patrikā f. पत्रिका : Brief
 
 likh 1 P (likhati) लिख् लिखति: ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein)
 
-![](/images/lekt0809.jpg)  
-Abb.: लिख् : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter  
-\[Bildquelle: Meyers Großes Konversationslexikon 1905. Gemeinfrei\]
+::: media
+![](/images/lekt0809.jpg)
+Abb.: लिख्
+(Bildquelle: [Details](/licenses#lekt0809))
+:::
 
-![](/images/lekt0810.jpg)  
-Abb.: लिख् : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war  
-\[Bildquelle: Meyers Großes Konversationslexikon 1905. Gemeinfrei\]
+::: media
+![](/images/lekt0810.jpg)
+Abb.: लिख्
+(Bildquelle: [Details](/licenses#lekt0810))
+:::
 
 sukha n. सुख : Glück, Wohlsein
 
@@ -348,15 +366,19 @@ Lernen Sie folgende Wörter:
 
 adhyayana n अध्ययन : Lernen, insbes. Vedastudium
 
-![](/images/lekt0903.jpg)  
-Abb.: adhyayana = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai  
-\[Bildquelle: jaroslavd. -- [http://www.flickr.com/photos/jaroslavd/2679883828/](http://www.flickr.com/photos/jaroslavd/2679883828/) . -- Zugriff am 2008-11-23. -- [](http://creativecommons.org/licenses/by-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine Bearbeitung)
+::: media
+![](/images/lekt0903.jpg)
+Abb.: अध्ययनम्
+(Bildquelle: [Details](/licenses#lekt0903))
+:::
 
 kāru m. / kāruka m. कारु कारुक : Handwerker
 
-![](/images/lekt0902.jpg)  
-Abb.: kāru = कारु, Gujarat  
-\[Bildquelle: owenstache. -- [http://www.flickr.com/photos/owen-pics/2331791031/](http://www.flickr.com/photos/owen-pics/2331791031/). -- Zugriff am 2008-11-23. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt0902.jpg)
+Abb.: कारुः
+(Bildquelle: [Details](/licenses#lekt0902))
+:::
 
 kuśīlava m. कुशीलव : (fahrender) Schausteller, Schauspieler, Sänger
 
@@ -413,17 +435,21 @@ satya n. सत्य : Wahrheit (In Indien schrieb man dem wahren Wort Zauberkr
 
 > Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764)
 
-![](/images/lekt1003.jpg)  
-Abb.: Gott Varuṇa = वरुण, 17. Jhdt.  
-\[Bildquelle. Wikipedia, Public domain\]
+::: media
+![](/images/lekt1003.jpg)
+Abb.: वरुणः
+(Bildquelle: [Details](/licenses#lekt1003))
+:::
 
 anṛta n. अनृत : Unwahrheit, Lüge (Gegensatz zu satya) (Wortbildung an- ("un-" + ṛta n., ṛta ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: "Wahrheit" (Lüders, Thieme), "Ordnung" (Renou))
 
 ṛṣi m. ऋषि : vedischer Weiser, Verfasser vedischer Lieder (die Namen dieser ṛṣi's werden in den BRāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen ṛṣi's ab, nach denen ihre gotra गोत्र् benannt sind. Zum Begriff gotra siehe Basham, Wonder, Kap. 5)
 
-![](/images/lekt1002.jpg)  
-Abb.: Ein Ṛṣi: Viśvāmitra (विश्वामित्र) / von Rāja Ravi Varmā (राज रवि वर्मा) &lt;1848 - 1906&gt;  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt1002.jpg)
+Abb.: विश्वामित्रः
+(Bildquelle: [Details](/licenses#lekt1002))
+:::
 
 vad 1 P (vadati) वद् वदति : sagen, sprechen
 
@@ -746,10 +772,11 @@ asura m. असुर : Dämon
 > 
 > \[Quelle: Dowson, John &lt;1820-1881&gt;: A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. \]
 
-![](/images/lekt1301.jpg)  
-Abb.: महिषासुरः = ಮಹಿಷಾಸುರಃ  
-Chamundi Hills, Mysor (ಮೈಸೂರು)  
-\[Bildquelle: Prakash Subbarao / Wikipedia. -- Public domain\]
+::: media
+![](/images/lekt1301.jpg)
+Abb.: महिषासुरः
+(Bildquelle: [Details](/licenses#lekt1301))
+:::
 
 guṇa m. गु्ण :  Faden, Schnur; Eigenschaft, gute Eigenschaft
 
@@ -775,9 +802,11 @@ davon:
 
 anna n. अन्न : Speise (aus PPP: \*ad-na: das Gegessene, das Essen)
 
-![](/images/lekt1304.jpg)  
-Abb.: अन्नम्, Karnataka (ಕರ್ನಾಟಕ), 2005  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt1304.jpg)
+Abb.: अन्नम्
+(Bildquelle: [Details](/licenses#lekt1304))
+:::
 
 Wortbildung:
 
@@ -787,9 +816,11 @@ pad 4 Ā:
 > 
 > pāda m. पाद : Fuß, ein Viertel (da viele Tiere 4 Füße haben), Verszeile (die meisten Verse bestehen aus vier Pādas)
 
-![](/images/lekt1303.jpg)  
-Abb.: चत्वारः पादाः : गजः (_Elephas maximus_)  
-\[Bildquelle: Wikipedia, GNU FDLicense\]
+::: media
+![](/images/lekt1303.jpg)
+Abb.: चत्वारः पादाः
+(Bildquelle: [Details](/licenses#lekt1303))
+:::
 
 dviṣ 2 U:
 
@@ -806,9 +837,11 @@ bhūṣ-aṇa n भूषण : Schmuck
 
 dīpa m. दीप : Lampe
 
-![](/images/lekt1405.jpg)  
-Abb.: दीपाः  
-\[Bildquelle: \[srijith\]. -- [http://www.flickr.com/photos/srijith/1918428547/](http://www.flickr.com/photos/srijith/1918428547/). -- Zugriff am 2008-12-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] 
+::: media
+![](/images/lekt1405.jpg)
+Abb.: दीपाः
+(Bildquelle: [Details](/licenses#lekt1405))
+:::
 
 bala n. बल् : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
 
@@ -861,21 +894,21 @@ davon:
 
 पूजा f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā)
 
-![](/images/lekt1504.jpg)  
-Abb.: पूजा  
-A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India, at the start of a seismic survey contract.  
-\[Bildquelle: Wikiepdia, Public domain\]
+::: media
+![](/images/lekt1504.jpg)
+Abb.: पूजा
+(Bildquelle: [Details](/licenses#lekt1504))
+:::
 
 कुल n.: Herde, Menge, Geschlecht, Abstammung, Familie
 
 इन्द्र m.: Fürst, Erster, Bester unter ; Götterkönig Indra
 
-![](/images/lekt1505.jpg)  
-Abb.: इन्द्
-
-> Indra and Sachi Riding the Divine Elephant Airavata, Folio from a Panchakalyanaka (Five Auspicious Events in the Life of Jina Rishabhanatha \[Adinatha\]), circa 1670-1680 Painting; Watercolor, Opaque watercolor, gold, and silver on paper, Image: 9 1/8 x 15 1/8 in. (23.18 x 38.42 cm); Sheet: 10 5/8 x 16 3/4 in. (26.99 x 42.55 cm. Made in: India, Rajasthan, Amber
-> 
-> \[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt1505.jpg)
+Abb.: इन्द्रः
+(Bildquelle: [Details](/licenses#lekt1505))
+:::
 
 दास m.: Sklave, Leibeigener, Diener
 
@@ -899,16 +932,19 @@ davon:
 
 सिंह m.: Löwe (_Panthera leo persica_)
 
-![](/images/lekt1506.jpg)  
-Abb.: सिंहः  (_Panthera leo persica_)  
-\[Bildquelle: Wikipedia, GNU FDLicense\]
+::: media
+![](/images/lekt1506.jpg)
+Abb.: सिंहः
+(Bildquelle: [Details](/licenses#lekt1506))
+:::
 
 व्याघ्र m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner)
 
-![](/images/lekt1507.jpg)  
-Abb.: व्याघ्रः (_Panthera tigris tigris_)  
-Bandhavgarh National Park (बांधवगढ राष्ट्रीय उद्दान)  
-\[Bildquelle: U.S. Fish and Wildlife Service / Wikipedia, Public domain\]
+::: media
+![](/images/lekt1507.jpg)
+Abb.: व्याघ्रः
+(Bildquelle: [Details](/licenses#lekt1507))
+:::
 
 इव (nachgestellt): gleichsam, wie (in Vergleichen: व्याघ्र इव पुरुषः = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
 
@@ -937,12 +973,11 @@ davon:
 
 अध्यापन n.: Unterrichten, Unterricht
 
-![](/images/lekt1602.jpg)  
+::: media
+![](/images/lekt1602.jpg)
 Abb.: अध्यापनम्
-
-> "This is a special ceremony in a small temple in Satara (सातारा). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
-> 
-> \[Bildquelle: Shrimaitreya. -- [http://www.flickr.com/photos/shrimaitreya/339418301/](http://www.flickr.com/photos/shrimaitreya/339418301/). -- Zugriff am 2008-12-07. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+(Bildquelle: [Details](/licenses#lekt1602))
+:::
 
 अनसूया f.: Nicht-Murren, Neidlosigkeit
 
@@ -970,10 +1005,11 @@ davon:
 
 योग m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga
 
-![](/images/lekt1601.jpg)  
-Abb.: योगी  
-Birla Mandir, Delhi  
-\[Bildquelle: Deepak / Wikipedia ; [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/de/deed.en) (Namensnennung, share alike)\]
+::: media
+![](/images/lekt1601.jpg)
+Abb.: योगी
+(Bildquelle: [Details](/licenses#lekt1601))
+:::
 
 वृत्  1 Ā वर्तते ; Pass. वृत्यते  ; PPP वृत्त : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen
 
@@ -985,10 +1021,11 @@ Birla Mandir, Delhi
 
 अहिंसा f.: das Niemandem-etwas-zu-Leide-Tun, Nichtverletzen, Gewaltlosigkeit
 
-![](/images/lekt1603.jpg)  
-Abb.: अहिंसा  
-"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt1603.jpg)
+Abb.: अहिंसा
+(Bildquelle: [Details](/licenses#lekt1603))
+:::
 
 
 ## Lektion 17
@@ -999,10 +1036,11 @@ davon:
 
 > घात m.: Tötung
 
-![](/images/lekt1703.jpg)  
-Abb.: घाताः  
-Bangalore = ಬೆಂಗಳೂರು  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/143399263/](http://www.flickr.com/photos/mattlogelin/143399263/). -- Zugriff am 2008-12-07. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt1703.jpg)
+Abb.: घाताः
+(Bildquelle: [Details](/licenses#lekt1703))
+:::
 
 आस् 2Ā आस्ते Pass. आस्यते PPP आसित : sitzen
 
@@ -1010,9 +1048,11 @@ davon:
 
 > आसन n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
 
-![](/images/lekt1701.jpg)  
-Abb.: योगासनम्  
-\[Bildquelle: von tlongacre. -- [http://www.flickr.com/photos/tlongacre/2177187487/](http://www.flickr.com/photos/tlongacre/2177187487/). -- Zugriff am 2008-12-07. -- [](http://creativecommons.org/licenses/by-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine Bearbeitung)\]
+::: media
+![](/images/lekt1701.jpg)
+Abb.: योगासनम्
+(Bildquelle: [Details](/licenses#lekt1701))
+:::
 
 रुद् 2 P रोदिति Pass. रुद्यते PPP रुदित : weinen, heulen
 
@@ -1024,9 +1064,11 @@ davon:
 
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : melken
 
-![](/images/lekt1702.jpg)  
-Abb.: दोग्धि  
-\[Bildquelle: Roshnii. -- [http://www.flickr.com/photos/roshnii/110086482/](http://www.flickr.com/photos/roshnii/110086482/). -- Zugriff am 2008-12-07.  -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
+::: media
+![](/images/lekt1702.jpg)
+Abb.: दोग्धि
+(Bildquelle: [Details](/licenses#lekt1702))
+:::
 
 दिश् 6 U दिशति Pass. दिश्यते PPP दिष्ट : zeigen, anweisen, befehlen
 
@@ -1086,10 +1128,11 @@ davon:
 > 
 > काम m.: Sinnenlust, insbes. auch auf sexuellem Gebiet
 
-![](/images/lekt1809.jpg)  
-Abb.: कामः  
-Illustration zum कामसूत्र  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt1809.jpg)
+Abb.: कामः
+(Bildquelle: [Details](/licenses#lekt1809))
+:::
 
 स्था 1 P तिष्ठति Pass. स्थीयते PPP. स्थित : stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie पा 1 पिबति)
 
@@ -1109,15 +1152,19 @@ von स्था :
 > 
 > गर्भगृह n.: der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
 > 
-> ![](/images/lekt1901.jpg)  
-> Abb.: गर्भगृहम्, Badami (ಬದಾಮಿ)  
-> \[Bildquelle: Sudarshan Bhat Khandige / Wikipedia, Public domain\]
+> ::: media
+![](/images/lekt1901.jpg)
+Abb.: गर्भगृहम्
+(Bildquelle: [Details](/licenses#lekt1901))
+:::
 
 वारिद m.: Wassergeber = Regenwolke
 
-![](/images/lekt1902.jpg)  
-Abb.: वारिदः, Goa (गोंय)  
-\[Bildquelle: pichenettes. -- [http://www.flickr.com/photos/\_pichenettes\_/1257016116/](http://www.flickr.com/photos/_pichenettes_/1257016116/). -- Zugriff am 2008-12-08. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]    
+::: media
+![](/images/lekt1902.jpg)
+Abb.: वारिदः
+(Bildquelle: [Details](/licenses#lekt1902))
+:::  
  
 
 वा 2 P वाति Pass. वायते PPP. वान / वात : wehen
@@ -1130,18 +1177,19 @@ davon:
 
 छत्त्र् n.: Sonnenschirm, Schirm
 
-![](/images/lekt1904.jpg)  
+::: media
+![](/images/lekt1904.jpg)
 Abb.: छत्त्रम्
-
-> "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-> 
-> \[Bildquelle: Captain Nidish. -- [http://www.flickr.com/photos/captain\_nidish/280389572/](http://www.flickr.com/photos/captain_nidish/280389572/). -- Zugriff am 2008-12-08. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]  
+(Bildquelle: [Details](/licenses#lekt1904))
+:::
 
 पण्डित m.: Gelehrter, Weiser ; 3: klug, bewandert (in)
 
-![](/images/lekt1903.jpg)  
-Abb.:  पण्डीतः जवाहरलाल नेहरू, १९५९  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt1903.jpg)
+Abb.: जवाहरलाल-नेहरूः
+(Bildquelle: [Details](/licenses#lekt1903))
+:::
 
 सेव् 1 Ā सेवते Pass. सेव्यते PPP सेवित : wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
 
@@ -1172,12 +1220,11 @@ Abb.:  पण्डीतः जवाहरलाल नेहरू, १९�
 
 आश्रम m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ब्रह्मचरिन्, गृहस्त, वनप्रस्थ und evtl. als सन्न्यासिन् ; siehe Basham, Wonder S. 159f.)
 
-![](/images/lekt2008.jpg)  
-Abb.: आश्रमाः  
-Rishikesh = ऋषिकेश  
-\[Bildquelle: von ogimogi. -- [http://www.flickr.com/photos/ogimogi/284517677/](http://www.flickr.com/photos/ogimogi/284517677/). -- Zugriff am 2008-12-11. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
-
-> "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."  
+::: media
+![](/images/lekt2008.jpg)
+Abb.: आश्रमाः
+(Bildquelle: [Details](/licenses#lekt2008))
+:::
 
 कर ३ f. करी । करा : tuend, machend, bewirkend
 
@@ -1284,27 +1331,31 @@ davon:
 > 
 > भगवन्त् 3: Glück-besitzend, Würde-besitzend (Beiname von विष्णु - कृष्ण)
 
-![](/images/lekt2103.jpg)  
-Abb.: भगवान्कृष्णः als जगन्नाथ (rechts) mit seiner Halbschwester सुभद्रा (Mitte) und seinem älteren Bruder बलराम  
-Orissa = ଓଡ଼ିଶା  
-\[Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt2103.jpg)
+Abb.: भगवान्कृष्णः
+(Bildquelle: [Details](/licenses#lekt2103))
+:::
 
 > भगवद्गीता f.: "Gesang (गीता) des Würdigen (कृष्ण)"
 > 
-> ![](/images/lekt2105.jpg)  
-> Abb.: भगवद्गीता - Manuskript, 19. Jhdt.  
-> \[Bildquelle: Wikipedia, Public domain\]
+> ::: media
+![](/images/lekt2105.jpg)
+Abb.: भगवद्गीता
+(Bildquelle: [Details](/licenses#lekt2105))
+:::
 > 
 > भिक्ष् 1 Ā भिक्षते Pass. भिक्ष्यते PPP भिक्षित (eigentlich ein Desiderativum zu भज्: wünschen, dass man teilhat): betteln
 > 
 > davon:
 > 
-> > भिक्षु m.: Bettler, Mönch
+> &gt; भिक्षु m.: Bettler, Mönch
 
-![](/images/lekt2104.jpg)  
-Abb.: भिक्षवः  
-Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ  
-\[Bildquelle: Hanoi Mark. -- [http://www.flickr.com/photos/riverdaleto/112938743/](http://www.flickr.com/photos/riverdaleto/112938743/). -- Zugriff am 2008-12-12. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt2104.jpg)
+Abb.: भिक्षवः
+(Bildquelle: [Details](/licenses#lekt2104))
+:::
 
 दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट : verderben (intransitiv), schlecht werden, zuschande werden
 
@@ -1319,9 +1370,11 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 
 > कामम् Akk. adverbiell: nach Wunsch, nach Herzenslust
 
-![](/images/lekt2202.jpg)  
-Abb.: कामदेवः , 19. Jhdt  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt2202.jpg)
+Abb.: कामदेवः
+(Bildquelle: [Details](/licenses#lekt2202))
+:::
 
 शक् 5 P शक्नोति Pass.शक्यते PPP शक्त Inf. शक्तुम् : fähig sein, können
 
@@ -1331,10 +1384,11 @@ davon:
 > 
 > शक्र m.: der Mächtige (Beiname von इन्द्र)
 
-![](/images/lekt2203.jpg)  
-Abb.: दुर्गाशक्तिः = दुर्गैव शक्तिः  
-Kolkatta = কলকাতা   
-\[Bildquelle: The Eternity. -- [http://www.flickr.com/photos/the\_world\_in\_my\_eyes/2914301330/](http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/). -- Zugriff am 2008-12-12. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt2203.jpg)
+Abb.: दुर्गाशक्तिः
+(Bildquelle: [Details](/licenses#lekt2203))
+:::
 
 अर्ह 1 P अर्हति Pss. अर्ह्यते PPP अर्हित Inf. अर्हितुम् : etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird अर्ह् + Infinitiv oft als milder Befehl verwendest: "Du solltest")
 
@@ -1354,10 +1408,11 @@ davon:
 > 
 > ब्रह्मचर्य n.: Vollzug des Veda (ब्रह्मन्) = Studium des Veda im ersten Lebensstadium (dem des ब्रह्मचारिन्), welches strenge sexuelle Enthaltsamkeit erfordert ; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
 
-![](/images/lekt2201.jpg)  
-Abb.: धेनवश्चरन्ति  
-Goa = गोंय  
-\[Bildquelle: Veebl. -- [http://www.flickr.com/photos/veebl/2322214162/](http://www.flickr.com/photos/veebl/2322214162/). -- Zugriff am 2008-12-12. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt2201.jpg)
+Abb.: धेनवश्चरन्ति
+(Bildquelle: [Details](/licenses#lekt2201))
+:::
 
 
 ## Lektion 23
@@ -1383,18 +1438,21 @@ In gleicher Weise wie अलम् mit Instrumentalis wird verwendet:
 
 > अलंकार m.: Schmuck, Schmuckmittel (in der Dichtung)
 > 
-> ![](/images/lekt2405.jpg)  
-> Abb.: अलंकारः  
-> \[Bildquelle: sarboo. -- [http://www.flickr.com/photos/sarboo/320741523/](http://www.flickr.com/photos/sarboo/320741523/). -- Zugriff am 2008-12-14. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+> ::: media
+![](/images/lekt2405.jpg)
+Abb.: अलंकारः
+(Bildquelle: [Details](/licenses#lekt2405))
+:::
 
 हेतु m.: Antribe, Veranslassung, Ursache, Grund ; हेतुना, हेतोस्, हेतवे mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen"
 
 प्रतिमा f.: Bildnis, Abbild
 
-![](/images/lekt2406.jpg)  
-Abb.: देवीप्रतिमा  
-Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ  
-\[Bildquelle: thaths. -- [http://www.flickr.com/photos/thaths/862012190/](http://www.flickr.com/photos/thaths/862012190/). -- Zugriff am 2008-12-14. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt2406.jpg)
+Abb.: देवीप्रतिमा
+(Bildquelle: [Details](/licenses#lekt2406))
+:::
 
 वृत् + प्र 1Ā प्रवअर्तते : erfolgen, geschehen, entstehen
 
@@ -1424,12 +1482,11 @@ davon
 > 
 > ऊहापोह m.: Diskussion des Für und Wider
 > 
-> ![](/images/lekt2407.jpg)  
-> Abb.: ऊहापोहः
-> 
-> "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi, 16-18 November 2008."
-> 
-> \[Bildquelle: World Economic Forum / Photo by Dana Smillie. --[http://www.flickr.com/photos/worldeconomicforum/3040064901/](http://www.flickr.com/photos/worldeconomicforum/3040064901/). -- Zugriff am 2008-12-14. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\]  
+> ::: media
+![](/images/lekt2407.jpg)
+Abb.: ऊहापोहः
+(Bildquelle: [Details](/licenses#lekt2407))
+:::
 
 औपकारिक 3 f.: -ई : nützlich
 
@@ -1441,20 +1498,19 @@ davon
 > 
 > davon:
 > 
-> > आख्यान n.: Erzählung
+> &gt; आख्यान n.: Erzählung
 > 
-> ![](/images/lekt2408.jpg)  
-> Abb.: आख्यानम्
-> 
-> "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers. "
-> 
-> \[Bildquelle: ereneta. -- [http://www.flickr.com/photos/tereneta/3062024840/](http://www.flickr.com/photos/tereneta/3062024840/). -- Zugriff am 2008-12-14. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+> ::: media
+![](/images/lekt2408.jpg)
+Abb.: आख्यानम्
+(Bildquelle: [Details](/licenses#lekt2408))
+:::
 > 
 > ख्या + सम् 2P संख्याति : zusammenzählen, berechnen
 > 
 > davon:
 > 
-> > संख्य m.: Zählung, Aufzählung ; eines der sechs philosopphischen System (kurz: Basham, Wonder S. 326f.)
+> &gt; संख्य m.: Zählung, Aufzählung ; eines der sechs philosopphischen System (kurz: Basham, Wonder S. 326f.)
 
 ग्रहण n.: Ergreifen
 
@@ -1470,10 +1526,11 @@ davon:
 
 > कृ + नमस् 8 नमस्करोमि : sich verbeugen, verehren, begrüßen
 
-![](/images/lekt2411.jpg)  
-Abb.: जयदेवकविर्विष्णुं नमस्करोति  
-Manuskript des गीतगोविन्द, 1730 n. Chr.  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt2411.jpg)
+Abb.: जयदेवकविर्विष्णुं नमस्करोति
+(Bildquelle: [Details](/licenses#lekt2411))
+:::
 
 स्वागत n.: Willkommen (aus su-ā-gata)
 
@@ -1502,10 +1559,11 @@ Manuskript des गीतगोविन्द, 1730 n. Chr.
 
 धान्य n.:  gedroschenes Getreide
 
-![](/images/lekt2501.jpg)  
-Abb.: धान्यम्  
-Khanna  
-\[Bildquelle: appaji. -- [http://www.flickr.com/photos/appaji/2205110691/](http://www.flickr.com/photos/appaji/2205110691/). -- Zugriff am 2008-12-15. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
+::: media
+![](/images/lekt2501.jpg)
+Abb.: धान्यम्
+(Bildquelle: [Details](/licenses#lekt2501))
+:::
 
 धृ 1U धरति : halten, festhalten
 
@@ -1577,11 +1635,11 @@ Khanna
 
 मूल n.: Wurzel
 
-![](/images/lekt2502.jpg)  
-Abb.: मूलानि  
-Varanasi  
-\[Bildquelle: oceandesetoiles. -- [http://www.flickr.com/photos/ocean\_of\_stars/2544053669/](http://www.flickr.com/photos/ocean_of_stars/2544053669/). -- Zugriff am 2008-12-15. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
-
+::: media
+![](/images/lekt2502.jpg)
+Abb.: मूलानि
+(Bildquelle: [Details](/licenses#lekt2502))
+:::
 लिप् 6U लिम्पति (!): bestreichen, beschmieren
 
 > Fut. लेप्स्यति  
@@ -1593,10 +1651,11 @@ Varanasi
 > 
 > लिप्ति f.: Bestreichen, Schreiben, Schrift
 > 
-> ![](/images/lekt2503.jpg)  
-> Abb.: लिप्तिः  
-> Jaina-Manuskript  
-> \[Bildquelle: Wikipedia, Public domain\]
+> ::: media
+![](/images/lekt2503.jpg)
+Abb.: लिप्तिः
+(Bildquelle: [Details](/licenses#lekt2503))
+:::
 
 वर्ष n.,m.: Regen, Regenzeit, Jahr
 
@@ -1612,12 +1671,13 @@ Varanasi
 > 
 > davon:
 > 
-> > विवाह m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+> &gt; विवाह m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
 
-![](/images/lekt2504.jpg)  
-Abb.: विवाहः  
-मुंबई  
-\[Bildquelle: barnism. -- [http://www.flickr.com/photos/barnism/3079837348/](http://www.flickr.com/photos/barnism/3079837348/). -- Zugriff am 2008-12-15. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt2504.jpg)
+Abb.: विवाहः
+(Bildquelle: [Details](/licenses#lekt2504))
+:::
 
 नी + वि 1U विनयति : wegführen, unterrichten, erziehen
 
@@ -1629,9 +1689,11 @@ Abb.: विवाहः
 
 विष्टि f.: Arbeit, Frondienst
 
-![](/images/lekt2505.jpg)  
-Abb.: विष्टिः  
-\[Bildquelle: Ray Witlin / World Bank. -- [http://www.flickr.com/photos/worldbank/2182943983/](http://www.flickr.com/photos/worldbank/2182943983/). -- Zugriff am 2008-12-15. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)\] 
+::: media
+![](/images/lekt2505.jpg)
+Abb.: विष्टिः
+(Bildquelle: [Details](/licenses#lekt2505))
+:::
 
 वृध् 1Ā वर्धते : wachsen, größer werden
 
@@ -1652,10 +1714,11 @@ Abb.: विष्टिः
 
 हिरण्य ३ : golden ; n.: Gold, Geld, Reichtum
 
-![](/images/lekt2506.jpg)  
-Abb.: हिरण्यम्  
-Chennai = சென்னை  
-\[Bildquelle: Dilip Muralidaran. -- [http://www.flickr.com/photos/dilipm/2423883232/](http://www.flickr.com/photos/dilipm/2423883232/). -- Zugriff am 2008-12-15. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
+::: media
+![](/images/lekt2506.jpg)
+Abb.: हिरण्यम्
+(Bildquelle: [Details](/licenses#lekt2506))
+:::
 
 अणु ३ : dünn, fein, dehr klein ; m.: Atom
 
@@ -1675,7 +1738,7 @@ davon:
 
 > वस्तु n.: Sitz, Ort ; Realie, reales Ding, Wirklichkeit, Gegenstand
 > 
-> > वस्तुतस् : in Wirklichkeit, wirklich
+> &gt; वस्तुतस् : in Wirklichkeit, wirklich
 
 वस् 2Ā वस्ते : anziehen (Kleidung), tragen (Kleidung)
 
@@ -1687,10 +1750,11 @@ davon:
 
 > वस्त्र n.: Mittel, um sich anzuziehen = Kleid, Gewand, Stoff
 
-![](/images/lekt2706.jpg)  
-Abb.: वस्त्राणि  
-Majuli, Assam  
-\[Bildquelle: deepsan. -- [http://www.flickr.com/photos/deepsan/585991890/](http://www.flickr.com/photos/deepsan/585991890/). -- Zugriff am 2008-12-18. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)\]  
+::: media
+![](/images/lekt2706.jpg)
+Abb.: वस्त्राणि
+(Bildquelle: [Details](/licenses#lekt2706))
+:::
 
 वस् 6 उच्छति (!): aufleuchten (diese Wurzel ist wichtig wegen der Nominalbildungen:)
 
@@ -1698,9 +1762,11 @@ Majuli, Assam
 > 
 > वसन्त m.: ("leuchtend" =) Frühling (März bis Mai)
 
-![](/images/lekt2707.jpg)  
-Abb.: वसन्तः  
-कुसुम्भ = _Schleichera oleosa_ (Lour.) Oken_,_ Khopoli = खोपोली, Maharashtra = महाराष्ट्र, 2007-04-07\[Bildquelle: dinesh\_valke. -- [http://www.flickr.com/photos/dinesh\_valke/451989507/](http://www.flickr.com/photos/dinesh_valke/451989507/). -- Zugriff am 2008-12-18. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)\]  
+::: media
+![](/images/lekt2707.jpg)
+Abb.: वसन्तः
+(Bildquelle: [Details](/licenses#lekt2707))
+:::
 
 हृ 1U हरति : halten, tragen; holen, wegnehmen, rauben
 
@@ -1719,16 +1785,17 @@ Gegenstück zu हर :
 
 हरिहर m.: विष्णु und शिव vereint als eine einzige Gottheit.
 
-![](/images/lekt2704.jpg)  
-Abb.: हरिहरः  
-(links: विष्णु, rechts: शिव)  
-\[Bildquelle: Wikipedia. Public domain\]
+::: media
+![](/images/lekt2704.jpg)
+Abb.: हरिहरः
+(Bildquelle: [Details](/licenses#lekt2704))
+:::
 
-![](/images/lekt2705.jpg)  
-Abb.: हरिहरः  
-(links: विष्णु, rechts: शिव)  
-Godrumdwip, West Bengal = পশ্চিমবঙ্গ  
-\[Bildquelle: GourangaUK / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt2705.jpg)
+Abb.: हरिहरः
+(Bildquelle: [Details](/licenses#lekt2705))
+:::
 
 
 ## Lektion 28
@@ -1771,10 +1838,11 @@ Godrumdwip, West Bengal = পশ্চিমবঙ্গ
 > PPP  कान्त (!)  
 > Inf. कामयितुम् / कमितुम्
 
-![](/images/lekt2804.jpg)  
-Abb.: कृष्णो  राधां  कामयति  
-Gemälde von राजा रवि वर्मा (1848 - 1906)  
-\[Bildquelle: Wikipedia. Public domain\]
+::: media
+![](/images/lekt2804.jpg)
+Abb.: कृष्णो राधां कामयति
+(Bildquelle: [Details](/licenses#lekt2804))
+:::
 
 चुर् 10 चोरयति : stehlen
 
@@ -1794,16 +1862,19 @@ Merken Sie sich besonders die Bedeutung der kausativa zu folgenden Verben:
 > 
 > वद्  वादयति : auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
 
-![](/images/lekt2803.jpg)  
-Abb.: वीणां  वादयति  
-\[Bildquelle: Kelvin Kay / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt2803.jpg)
+Abb.: वीणां वादयति
+(Bildquelle: [Details](/licenses#lekt2803))
+:::
 
 भार m.: Last
 
-![](/images/lekt2805.jpg)  
-Abb.: बाला भारं हरति  
-Bei Ahmedabad  
-\[Bildquelle: m-bot. -- [http://www.flickr.com/photos/72494286@N00/2127838811/](http://www.flickr.com/photos/72494286@N00/2127838811/). -- Zugriff am 2008-12-20. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\] 
+::: media
+![](/images/lekt2805.jpg)
+Abb.: बाला भारं हरति
+(Bildquelle: [Details](/licenses#lekt2805))
+::: 
 
 भृत्य m.: Untergebener, Diener
 
@@ -1838,10 +1909,11 @@ Präverbe:
 
 परिव्राजक m.: Umherwanderer, Wandermönch, Pilger
 
-![](/images/lekt2903.jpg)  
-Abb.: परिव्राजकाः  
-Pushkar = पुष्कर  
-\[Bildquelle: pyjama. -- [http://www.flickr.com/photos/rpt/387636532/](http://www.flickr.com/photos/rpt/387636532/). -- Zugriff am 2008-12-20. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
+::: media
+![](/images/lekt2903.jpg)
+Abb.: परिव्राजकाः
+(Bildquelle: [Details](/licenses#lekt2903))
+::: 
 
 पालयति : auch bedeutungsgleich mit  पाति
 
@@ -1855,10 +1927,11 @@ Pushkar = पुष्कर
 > 
 > मात्स्य 3: zum Fisch (zu Fischen) gehörig
 
-![](/images/lekt2901.jpg)  
-Abb.: मत्स्यः  
-रोहू मछली = _Labeo rohita_ Hamilton  
-\[Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt2901.jpg)
+Abb.: मत्स्यः
+(Bildquelle: [Details](/licenses#lekt2901))
+:::
 
 मृदु  3 (f.: मृद्वी): sanft, mild, weich ; langsam, schwach
 
@@ -1894,10 +1967,11 @@ Abb.: मत्स्यः
 
 > Absol. विक्रीय
 
-![](/images/lekt3001.jpg)  
-Abb.: क्रीणन्ति विक्रीनते च  
-Bundi = बुन्दी, Rajasthan = राजस्थान  
-\[Bildquelle: earth2marsh. -- [http://www.flickr.com/photos/earth2marsh/56270619/](http://www.flickr.com/photos/earth2marsh/56270619/). -- Zugriff am 2008-12-21. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt3001.jpg)
+Abb.: क्रीणन्ति विक्रीणते च
+(Bildquelle: [Details](/licenses#lekt3001))
+:::
 
 ज्ञा 9U जानाति : kennen, erkennen, wissen, verstehen
 
@@ -1905,7 +1979,7 @@ Bundi = बुन्दी, Rajasthan = राजस्थान
 > Pass.ज्ञायते  
 > Kaus. ज्ञापयति
 > 
-> > Kaus. PPP ज्ञप्त / ज्ञापित
+> &gt; Kaus. PPP ज्ञप्त / ज्ञापित
 > 
 > PPP ज्ञात  
 > Inf. ज्ञातुम्
@@ -1916,10 +1990,11 @@ Bundi = बुन्दी, Rajasthan = राजस्थान
 > 
 > ज्ञान n.: Erkenntnis, Wissen, Erkennen (bes. der "höheren" Wahrheiten in Religion und Philosophie)
 
-![](/images/lekt3002.jpg)  
-Abb.: ज्ञातयः  
-Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र  
-\[Bildquelle: Robin Murphy / World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555776315/](http://www.flickr.com/photos/worldresourcesinstitute/2555776315/). -- Zugriff am 2008-12-21. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
+::: media
+![](/images/lekt3002.jpg)
+Abb.: ज्ञातयः
+(Bildquelle: [Details](/licenses#lekt3002))
+:::
 
 पू 9U पुनाति : reinigen
 
@@ -1929,9 +2004,11 @@ Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महा�
 > PPP पूत  
 > Inf. पवितुम्
 
-![](/images/lekt3003.jpg)  
-Abb.: श्रोत्राणि पुनाति  
-\[Bildquelle: Karmalize. -- [http://www.flickr.com/photos/agaylon/1799930862/](http://www.flickr.com/photos/agaylon/1799930862/). -- Zugriff am 2008-12-21. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\] 
+::: media
+![](/images/lekt3003.jpg)
+Abb.: श्रोत्राणि पुनाति
+(Bildquelle: [Details](/licenses#lekt3003))
+::: 
 
 अश् 9P अश्नाति : essen, verzehren
 
@@ -1941,16 +2018,19 @@ Abb.: श्रोत्राणि पुनाति
 > PPP अशित  
 > Inf. अशितुम्
 
-![](/images/lekt3005.jpg)  
-Abb.: अश्नीयात्  
-थाली, Südindien  
-\[Bildquelle: Matthew Winterburn. -- [http://www.flickr.com/photos/bezoire/2330831734/](http://www.flickr.com/photos/bezoire/2330831734/). -- Zugriff am 2008-12-21. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
+::: media
+![](/images/lekt3005.jpg)
+Abb.: अश्नीयात्
+(Bildquelle: [Details](/licenses#lekt3005))
+:::
 
 प्रिय ३: lieb, liebend, freundlich
 
-![](/images/lekt3004.jpg)  
-Abb.: प्रिया  
-\[Bildquelle: Mary Wollstonecraft Shelley. -- [http://www.flickr.com/photos/awflicks/3032833609/](http://www.flickr.com/photos/awflicks/3032833609/). -- Zugriff am 2008-12-21. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\] 
+::: media
+![](/images/lekt3004.jpg)
+Abb.: प्रिया
+(Bildquelle: [Details](/licenses#lekt3004))
+::: 
 
 चेत् Konjunktion: wenn; vorausgesetzt, dass (steht nie am Anfang eines Satzes)
 
@@ -1970,9 +2050,11 @@ Abb.: प्रिया
 > 
 > पुनर्भव m.: Wiedergeburt
 
-![](/images/lekt2904.jpg)  
-Abb.: पुनर्भवः  
-\[Bildquelle: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- [Creative Commons](http://en.wikipedia.org/wiki/Creative_Commons "w:Creative Commons") [Attribution ShareAlike 2.5](http://creativecommons.org/licenses/by-sa/2.5/ "http://creativecommons.org/licenses/by-sa/2.5/")\]
+::: media
+![](/images/lekt2904.jpg)
+Abb.: पुनर्भवः
+(Bildquelle: [Details](/licenses#lekt2904))
+:::
 
 जीव् 1P जीवति : leben
 
@@ -2003,18 +2085,20 @@ Abb.: पुनर्भवः
 > 
 > युग n.: Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
 > 
-> > 1.  कृत
-> > 2.  त्रेता
-> > 3.  द्वापर
-> > 4.  कलि
-> > 
-> > Das कलियुग begann um 3102 v. Chr., dem Jahr des  महाभारत-Krieges. Näheres bei Basham, Wonder S. 323)
+> &gt; 1.  कृत
+> &gt; 2.  त्रेता
+> &gt; 3.  द्वापर
+> &gt; 4.  कलि
+> &gt; 
+> &gt; Das कलियुग begann um 3102 v. Chr., dem Jahr des  महाभारत-Krieges. Näheres bei Basham, Wonder S. 323)
 > 
 > योग m.: "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.)
 
-![](/images/lekt3101.jpg)  
-Abb.: योगः  
-\[Bildquelle: [http://www.flickr.com/photos/wricontest/294029791/](http://www.flickr.com/photos/wricontest/294029791/). -- Zugriff am 2008-12-25. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
+::: media
+![](/images/lekt3101.jpg)
+Abb.: योगः
+(Bildquelle: [Details](/licenses#lekt3101))
+:::
 
 रुध् 7U रुणद्धि : stoppen, zum Stillstand bringen, zurückhalten = einschließen, verdecken
 
@@ -2054,10 +2138,11 @@ Abb.: योगः
 > 
 > व्यञ्जन n.: Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden)
 
-![](/images/lekt3102.jpg)  
-Abb.: व्यञ्जनम्  
-Vorbereitung zum Kathakali-Tanz \= കഥകളി, Kochi = കൊച്ചി  
-\[Bildquelle: winchrisabi. -- [http://www.flickr.com/photos/winchrisabi/181399508/](http://www.flickr.com/photos/winchrisabi/181399508/). -- Zugriff am 2008-12-25. --  [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
+::: media
+![](/images/lekt3102.jpg)
+Abb.: व्यञ्जनम्
+(Bildquelle: [Details](/licenses#lekt3102))
+:::
 
 भिद् 7U भिनत्ति : spalten
 
@@ -2097,9 +2182,11 @@ Vorbereitung zum Kathakali-Tanz \= കഥകളി, Kochi = കൊച്ചി
 > 
 > प्रज्ञा f.: Weisheit, Erkenntnis
 
-![](/images/lekt3103.jpg)  
-Abb.: Aus einem प्रज्ञापारमिता-Manuskript  
-\[Bildquelle: zeno.org. -- gemeinfrei\]
+::: media
+![](/images/lekt3103.jpg)
+Abb.: प्रज्ञापारमिता-Manuskript
+(Bildquelle: [Details](/licenses#lekt3103))
+:::
 
 भू + सम् 1P सम्भवति : entstehen, existieren
 
@@ -2128,10 +2215,11 @@ Abb.: Aus einem प्रज्ञापारमिता-Manuskript
 
 चूत
 
-![](/images/lekt3202.jpg)  
-Abb.: चूतः  
-कानपुर, / کان پور  
-\[Bildquelle: AmarChandra / Wikipedia. -- [Creative Commons](http://en.wikipedia.org/wiki/Creative_Commons "w:Creative Commons") [Attribution ShareAlike 2.5](http://creativecommons.org/licenses/by-sa/2.5/ "http://creativecommons.org/licenses/by-sa/2.5/") (Namensnennung, share alike)\]
+::: media
+![](/images/lekt3202.jpg)
+Abb.: चूतः
+(Bildquelle: [Details](/licenses#lekt3202))
+:::
 
 तरु वृक्ष
 
@@ -2161,10 +2249,11 @@ Abb.: चूतः
 
 वानर कपि
 
-![](/images/lekt3203.jpg)  
-Abb.: वानराः  
-Delhi = दहली  
-\[Bildquelle: dewalt. -- [http://www.flickr.com/photos/dewalt/389870377/](http://www.flickr.com/photos/dewalt/389870377/). -- Zugriff am 2008-12-25. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
+::: media
+![](/images/lekt3203.jpg)
+Abb.: वानराः
+(Bildquelle: [Details](/licenses#lekt3203))
+::: 
 
 लोक् लोकयति
 
@@ -2180,19 +2269,19 @@ Delhi = दहली
 
 उपल
 
-![](/images/lekt3204.jpg)  
+::: media
+![](/images/lekt3204.jpg)
 Abb.: उपलाः
-
-> "The boulders here are hard enough that the scavengers who have taken over the abandoned quarry south of downtown prefer not to strike them directly with their hammers.They heat the rocks first  with flaming tires, scrap plastic, even old rubber boots  so that the stones will fracture more easily. At dusk, when three or four blazes spew choking black clouds across the huge pit, the quarry looks like a woodcut out of Dante. At the mouth of this stone quarry in Pune Maharashtra, diminutive women in saris toil 14 hour shifts breaking boulders into cricket-ball sized chunks of stone. Sledgehammers cut through to the air to the sound of splintering stone. Just behind them roared large machines that chewed up stone only to spit out construction gravel. Almost everybodies face was smeared with a white dust. A dust, heavy and suffocating, floating in the air like mist covering everything."
-> 
-> \[Bildquelle: lecercle. -- [http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/](http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/). -- Zugriff am 2008-12-25. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]  
+(Bildquelle: [Details](/licenses#lekt3204))
+:::
 
 लक्ष्य
 
-![](/images/lekt3205.jpg)  
-Abb.: लक्ष्यम्  
-Karnataka = ಕರ್ನಾಟಕ  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/321235900/](http://www.flickr.com/photos/mattlogelin/321235900/). -- Zugriff am 2008-12-25. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Bearbeitung)\]
+::: media
+![](/images/lekt3205.jpg)
+Abb.: लक्ष्यम्
+(Bildquelle: [Details](/licenses#lekt3205))
+:::
 
 क्षिप् क्षिपति
 
@@ -2212,10 +2301,11 @@ Karnataka = ಕರ್ನಾಟಕ
 > \-चित्य  
 > चेतुम्
 
-![](/images/lekt3207.jpg)  
-Abb.: चितं गोमयं दहति (गोमय n.: Kuhmist)  
-Rajasthan  
-\[Bildquelle: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/29862842/](http://www.flickr.com/photos/thebigdurian/29862842/). -- Zugriff am 2008-12-25. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
+::: media
+![](/images/lekt3207.jpg)
+Abb.: चितं गोमयं दहति
+(Bildquelle: [Details](/licenses#lekt3207))
+::: 
 
 चि अव
 
@@ -2225,10 +2315,11 @@ Rajasthan
 
 कौशल कुशल
 
-![](/images/lekt3206.jpg)  
-Abb.: कौशलम्  
-Mehndi = मेहन्दी, Mumbai = मुंबई  
-\[Bildquelle: the\_gman. -- [http://www.flickr.com/photos/thegman/2860162252/](http://www.flickr.com/photos/thegman/2860162252/). -- Zugriff am 2008-12-25. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt3206.jpg)
+Abb.: कौशलम्
+(Bildquelle: [Details](/licenses#lekt3206))
+:::
 
 
 ## Lektion 33
@@ -2245,21 +2336,23 @@ Mehndi = मेहन्दी, Mumbai = मुंबई
 > 
 > दान n.: Geben, Gabe, Freigebigkeit
 
-![](/images/lekt3306.jpg)  
+::: media
+![](/images/lekt3306.jpg)
 Abb.: दानम्
+(Bildquelle: [Details](/licenses#lekt3306))
+:::
 
-> "On August 20th, 2005 in Chennai, India my soon to be in-laws gave us a formal Indian engagement party. It looks like it was a wedding but it wasn't, it's how they do things. Very extravagate. This event was a huge blessing for me. I have never felt so love by another family. I only wish my family could have been there but at least I have a video of the whole thing to share. My soon to be in-laws made the whole thing happen in 3 days. Everything between invitations to a hired photographer. It was fantastic, beyond words can explain the emotions flowing."
-> 
-> \[Quelle von Bild und Text: coral11. -- [http://www.flickr.com/photos/coral/36326932/](http://www.flickr.com/photos/coral/36326932/). -- Zugriff am 2008-12-26. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\]
+
 
 दा + आ 3Ā अदत्ते : (in Empfang) nehmen, in Besitz nehmen, mitnehmen
 
 > Absol. आदाय : mit Akk.: in Begleitung von, mit
 
-![](/images/lekt3307.jpg)  
-Abb.: सा पुत्रमादाय भारं बिभर्ती गच्छति  
-Udaipur = उदयपुर  
-\[Bildquelle: gscottie8. -- [http://www.flickr.com/photos/gscottie/2152543713/](http://www.flickr.com/photos/gscottie/2152543713/). -- Zugriff am 2008-12-27. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt3307.jpg)
+Abb.: सा पुत्रमादाय भारं बिभर्ति
+(Bildquelle: [Details](/licenses#lekt3307))
+:::
 
 धा 3U दधाति : setzen, festsetzen, zuteilen
 
@@ -2275,10 +2368,12 @@ Udaipur = उदयपुर
 > 
 > समाधि m.: innere Sammlung, höchste Aufmerksamkeit
 
-![](/images/lekt3305.jpg)  
-Abb.: समाधि  
-योगिनी, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr.  
-\[Bildquelle: Quadell / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt3305.jpg)
+Abb.: समाधिः
+(Bildquelle: [Details](/licenses#lekt3305))
+:::
+
 
 पॄ 3P पिपर्ति :füllen erfüllen
 
@@ -2308,10 +2403,11 @@ Abb.: समाधि
 > 
 > भय n.: Angst Furcht ; Gefahr (also die subjektive und die objektive Seite)
 
-![](/images/lekt3304.jpg)  
-Abb.: भयम्  
-Mumbai = मुंबई, 2008  
-\[Bildquelle: sameer5678in. -- [http://www.flickr.com/photos/guptasameer/3080350405/](http://www.flickr.com/photos/guptasameer/3080350405/). -- Zugriff am 2008-12-26. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
+::: media
+![](/images/lekt3304.jpg)
+Abb.: भयम्
+(Bildquelle: [Details](/licenses#lekt3304))
+:::
 
 भृ 3U बिभर्ति : tragen, bringen ; erhalten, ernähren
 
@@ -2353,10 +2449,11 @@ Mumbai = मुंबई, 2008
 > 
 > हीनयान n.:  das mangelhafte Fahrzeug (des Budhismus): verächtliche Bezeichnung durch die Vertreter der "großen Fahrzeugs", des महायान ; der mangelhafte Weg (यान zu या 2: gehen, fahren). Der Ausdruck हीनयान sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heißt थेरवाद.
 
-![](/images/lekt3303.jpg)  
-Abb.: हीनयानमेव  
-Thailand  
-\[Bildquelle: grrrrl. -- [http://www.flickr.com/photos/11619899@N00/867938692/](http://www.flickr.com/photos/11619899@N00/867938692/). -- Zugriff am 2008-12-26. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt3303.jpg)
+Abb.: हीनयानमेव
+(Bildquelle: [Details](/licenses#lekt3303))
+:::
 
 हु 3P जुहोति : ins Feuer gießen (als Opfer, bes. Schmelzbutter)
 
@@ -2366,19 +2463,20 @@ Thailand
 > PPP हुत  
 > Inf. होतुम्
 
-![](/images/lekt3302.jpg)  
-Abb.: घृतमग्नौ जुहोति  
-यज्ञ im Shiva ashram, Kothavala, Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt  
-\[Bildquelle: Dey. -- [http://www.flickr.com/photos/dey/466758922/](http://www.flickr.com/photos/dey/466758922/). -- Zugriff am 2008-12-26. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
+::: media
+![](/images/lekt3302.jpg)
+Abb.: घृतमग्नौ जुहोति
+(Bildquelle: [Details](/licenses#lekt3302))
+:::
 
 घृत n.: Schmelzbutter, Ghee = घी / گھی  / ঘী
 
-SAbb.: घृतम्  
-\[Bildquelle: Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt3308.jpg)
+Abb.: घृतम्
+(Bildquelle: [Details](/licenses#lekt3308))
+:::
 
-> "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
-> 
-> \[Quelle: [http://en.wikipedia.org/wiki/Ghee](http://en.wikipedia.org/wiki/Ghee). -- Zugriff am 2008-12-26\]
 
 
 ## Lektion 34
@@ -2387,9 +2485,11 @@ SAbb.: घृतम्
 
 शस्य = सस्य n. sg. u. pl.: Saat, Feldfrucht, Getreide
 
-![](/images/lekt3406.jpg)  
-Abb.: सस्यम्  
-\[Bildquelle: Ray Witlin / World Bank. -- [http://www.flickr.com/photos/worldbank/2183806492/](http://www.flickr.com/photos/worldbank/2183806492/). -- Zugriff am 2008-12-27. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] 
+::: media
+![](/images/lekt3406.jpg)
+Abb.: सस्यम्
+(Bildquelle: [Details](/licenses#lekt3406))
+:::
 
 यावत् : wie lange wie groß
 
@@ -2399,28 +2499,35 @@ Abb.: सस्यम्
 
 द्वीप m.n.: Insel, Kontinent
 
-![](/images/lekt3405.jpg)  
-Abb.: लक्षद्वीपाः = ലക്ഷദ്വീപ് = die 100.000 (लक्ष m.n.) Inseln (Unionsterritorium)  
-\[Bildquelle: CIA. Public domain\]
+::: media
+![](/images/lekt3405.jpg)
+Abb.: लक्षद्वीपाः
+(Bildquelle: [Details](/licenses#lekt3405))
+:::
 
 मर्त्य 3: sterblich (zu मृ)
 
 तिल m.: Sesam(korn) (_Sesamum indicum_ L.)
 
-![](/images/lekt3403.jpg)  
-Abb.: तिलाः  
-\[Bildquelle: Wikipedia. Public domain\]
+::: media
+![](/images/lekt3403.jpg)
+Abb.: तिलाः
+(Bildquelle: [Details](/licenses#lekt3403))
+:::
 
-![](/images/lekt3404.jpg)  
-Abb.: _Sesamum indicum_ L.  
-\[Bildquelle: Franz Xaver / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt3404.jpg)
+Abb.: तिलाः
+(Bildquelle: [Details](/licenses#lekt3404))
+:::
 
 स्वर्ण n.: (schönfarbig =) Gold
 
-![](/images/lekt3402.jpg)  
-Abb.: स्वर्णम्  
-Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿਬ, Amritsar = ਅੰਮ੍ਰਿਤਸਰ  
-\[Bildquelle: Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt3402.jpg)
+Abb.: स्वर्णम्
+(Bildquelle: [Details](/licenses#lekt3402))
+:::
 
 निकेतन n.: Wohnstatt, Tempel
 
@@ -2432,10 +2539,11 @@ Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿਬ, Amritsar = ਅੰਮ੍
 
 ऋषभ m.: Stier
 
-![](/images/lekt3401.jpg)  
-Abb.: ऋषभः  
-Chamundi-Hills  
-\[Bildquelle: Luna Park. -- [http://www.flickr.com/photos/lunapark/2124083737/](http://www.flickr.com/photos/lunapark/2124083737/). -- Zugriff am 2008-12-27. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt3401.jpg)
+Abb.: ऋषभः
+(Bildquelle: [Details](/licenses#lekt3401))
+:::
 
 यम् 1P यच्छति : zurückhalten, halten, darbieten, gewähren
 
@@ -2467,9 +2575,11 @@ Chamundi-Hills
 > Inf. क्रमितुम्  
 > Kaus. क्रमित्वा । क्रन्त्वा । क्रान्त्वा
 
-![](/images/lekt3502.jpg)  
-Abb.: क्रामन्ति  
-\[Bildquelle: Curt Carnemark / World Bank. -- [http://www.flickr.com/photos/worldbank/2182732473/](http://www.flickr.com/photos/worldbank/2182732473/). -- Zugriff am 2008-12-28. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]  
+::: media
+![](/images/lekt3502.jpg)
+Abb.: क्रामन्ति
+(Bildquelle: [Details](/licenses#lekt3502))
+:::
 
 गै 1P यायति (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
 
@@ -2484,10 +2594,11 @@ Abb.: क्रामन्ति
 > 
 > गीता f.: Lied Gesang
 > 
-> ![](/images/lekt3501.jpg)  
-> Abb.: जगुः  
-> Kaadu Malleswara Temple, Bangalore = ಬೆಂಗಳೂರು  
-> \[Bildquelle: Samuelraj @. -- [http://www.flickr.com/photos/samuelraj/2946969732/](http://www.flickr.com/photos/samuelraj/2946969732/). -- Zugriff am 2008-12-28. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+> ::: media
+![](/images/lekt3501.jpg)
+Abb.: जगुः
+(Bildquelle: [Details](/licenses#lekt3501))
+:::
 
 
 ## Lektion 36
@@ -2514,10 +2625,11 @@ Abb.: क्रामन्ति
 > PPP चित  
 > Inf. चेतुम्
 
-![](/images/lekt3601.jpg)  
-Abb.: गोमयं चिकाय  
- Udaipur = उदयपुर  
-\[Bildquelle: whitecat singapore. -- [http://www.flickr.com/photos/whitecatsg/2530543213/](http://www.flickr.com/photos/whitecatsg/2530543213/). -- Zugriff am 2008-12-28. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]  
+::: media
+![](/images/lekt3601.jpg)
+Abb.: गोमयं चिकाय
+(Bildquelle: [Details](/licenses#lekt3601))
+:::  
  
 
 व्रज् 1P व्रजति : schreiten, gehen, weggehen
@@ -2533,19 +2645,21 @@ Abb.: गोमयं चिकाय
 
 अगार n.। आगार n.: Haus, Heim
 
-![](/images/lekt3602.jpg)  
-Abb.: अगारम्  
-Shekawati = शेखावाटी  
-\[Bildquelle: bartvanpoll. -- [http://www.flickr.com/photos/bartvanpoll/1151647344/](http://www.flickr.com/photos/bartvanpoll/1151647344/). -- Zugriff am 2008-12-28. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, shere alike)\]
+::: media
+![](/images/lekt3602.jpg)
+Abb.: अगारम्
+(Bildquelle: [Details](/licenses#lekt3602))
+:::
 
 > davon:
 > 
 > अनगार्य n. । अनगारिका f.: Heimlosigkeit eines buddhistischen Mönchs oder Novizen
 > 
-> ![](/images/lekt3603.jpg)  
-> Abb.: अनगार्यम्  
-> Nordostthailand = อีสาน  
-> \[Bildquelle: Midpath. -- [http://www.flickr.com/photos/midpath/298555436/](http://www.flickr.com/photos/midpath/298555436/). -- Zugriff am 2008-12-28. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+> ::: media
+![](/images/lekt3603.jpg)
+Abb.: अनगार्यम्
+(Bildquelle: [Details](/licenses#lekt3603))
+:::
 
 अञ्जलि m.: Die beiden zur Ehrerbietung hoch zusammengelegten Hände
 
@@ -2618,10 +2732,11 @@ Shekawati = शेखावाटी
 > Inf. स्पर्ष्तुम् । स्प्रष्तुम्  
 > Absol. -स्पृश्य
 
-![](/images/lekt3606.jpg)  
-Abb.:स् सुगतो भूमीं पस्पर्श  
-भूमीस्पर्शमुद्रा  
-\[Bildquelle: Payer\]
+::: media
+![](/images/lekt3606.jpg)
+Abb.: सुगतो भूमीं पस्पर्श
+(Bildquelle: [Details](/licenses#lekt3606))
+:::
 
 हृष् 4P हृष्यति : starr werden: sich sträuben (Haare), sich freuen über (Instr., Akk., Lok.)
 
@@ -2631,9 +2746,11 @@ Abb.:स् सुगतो भूमीं पस्पर्श
 > Kaus. हर्षयति  
 > PPP हृषित
 
-![](/images/lekt3604.jpg)  
-Abb.: लोमहर्षः (लोमन् n. Körperhaar)  
-\[Bildquelle: Socceraholic. -- [http://www.flickr.com/photos/7amanito/2995353459/](http://www.flickr.com/photos/7amanito/2995353459/). -- Zugriff am 2008-12-29. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt3604.jpg)
+Abb.: लोमहर्षः
+(Bildquelle: [Details](/licenses#lekt3604))
+:::
 
 स्वक 3: eigen (mein, dein ...) ; m.: Angehöriger
 
@@ -2646,20 +2763,21 @@ Abb.: लोमहर्षः (लोमन् n. Körperhaar)
 
 > शाक्यमुनि m.: Asket aus dem Geschlecht der शाक्य (Kṣatriyas aus कपिलवस्तु) = Buddha Gautama
 
-![](/images/lekt3705.jpg)  
-Abb.: शाक्यमुनिः  
-Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్   
-\[Bildquelle: .krish.Tipirneni. -- [http://www.flickr.com/photos/krish4u/426497125/](http://www.flickr.com/photos/krish4u/426497125/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]   
+::: media
+![](/images/lekt3705.jpg)
+Abb.: शाक्यमुनिः
+(Bildquelle: [Details](/licenses#lekt3705))
+:::
 
 दिन n.: Tag
 
 वृक्ष m.: Baum
 
-![](/images/lekt3706.jpg)  
-Abb.: वृक्षः  
-जयपुर  
-\[Bildquelle: counterclockwise. -- [http://www.flickr.com/photos/xclockwise/520742595/](http://www.flickr.com/photos/xclockwise/520742595/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
-
+::: media
+![](/images/lekt3706.jpg)
+Abb.: वृक्षः
+(Bildquelle: [Details](/licenses#lekt3706))
+:::
 मुख n.: Mund, Gesicht, Vorderteil, Anfang
 
 
@@ -2667,18 +2785,19 @@ Abb.: वृक्षः
 
 सूर्य m.: Sonne, Sonnengott Sūrya
 
-![](/images/lekt3802.jpg)  
-Abb.: सूर्यः  
-सूर्य मंदिर, Konark = कोनार्क  
-\[Bildquelle: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Zugriff am 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]  
- 
+::: media
+![](/images/lekt3802.jpg)
+Abb.: सूर्यः
+(Bildquelle: [Details](/licenses#lekt3802))
+:::
 
 उदक n.: Wasser
 
-![](/images/lekt3805.jpg)  
-Abb.: उदकम्  
-Darewadi village, Ahmed Nagar District = अहमदनगर, महाराष्ट्र  
-\[Bildquelle: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt3805.jpg)
+Abb.: उदकम्
+(Bildquelle: [Details](/licenses#lekt3805))
+:::
 
 वा 2P वाति : wehen, blasen
 
@@ -2701,10 +2820,11 @@ Darewadi village, Ahmed Nagar District = अहमदनगर, महारा�
 > 
 > परिनिर्वाण n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
 
-![](/images/lekt3804.jpg)  
-Abb.: गौतमबुद्धस्य महापरिनिर्वाणम्  
-Gandhara, 2./3. Jhdt. n. Chr.  
-\[Bildquelle: Wikipedia. Public domain\]
+::: media
+![](/images/lekt3804.jpg)
+Abb.: गौतमबुद्धस्य महापरिनिर्वाणम्
+(Bildquelle: [Details](/licenses#lekt3804))
+:::
 
 मिह् 1P मेहति : pinkeln, pissen, ejakulieren
 
@@ -2740,10 +2860,11 @@ Gandhara, 2./3. Jhdt. n. Chr.
 
 ब्रह्मन् m.: der persönlich gedachte Schöpfergott Brahmā
 
-![](/images/lekt3809.jpg)  
-Abb.: ब्रह्मा  
-Halebidu = ಹಳೆಬೀಡು  
-\[Bildquelle: Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt3809.jpg)
+Abb.: ब्रह्मा
+(Bildquelle: [Details](/licenses#lekt3809))
+:::
 
 कर्मन् n.: zu कृ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt) 
 
@@ -2774,23 +2895,27 @@ Halebidu = ಹಳೆಬೀಡು
 > 
 > अशोक 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (देवानांप्रिय प्रियदर्शी) (ca. 304   232 v.Chr.)
 
-![](/images/lekt3810.jpg)  
-Abb.: Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde  
-Kolkata = কলকাতা   
-\[Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt3810.jpg)
+Abb.: अशोकः
+(Bildquelle: [Details](/licenses#lekt3810))
+:::
 
-![](/images/lekt3811.jpg)  
-Abb.: Größte Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte  
-\[Bildquelle: Wikipedia.GNU FDLicense\]
+::: media
+![](/images/lekt3811.jpg)
+Abb.: अशोकः
+(Bildquelle: [Details](/licenses#lekt3811))
+:::
 
 प्राय  m.: Hauptsache, Instr. प्रायेण : meist, gewöhnlich (zu प्र-इ)
 
 विनोद m.: Zeitvertreib, Unterhaltung, Vergnügen
 
-![](/images/lekt3812.jpg)  
-Abb.: विनोदः  
-Carrom-Spiel  
-\[Bildquelle: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]  
+::: media
+![](/images/lekt3812.jpg)
+Abb.: विनोदः
+(Bildquelle: [Details](/licenses#lekt3812))
+:::
 
 अट् 1P अटति : herumschweifen
 
@@ -2813,9 +2938,11 @@ Carrom-Spiel
 
 तीर n.: Ufer
 
-![](/images/lekt3813.jpg)  
-Abb.: वाराणस्यां गङ्गातीरे  
-\[Bildquelle: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt3813.jpg)
+Abb.: वाराणस्यां गङ्गातीरे
+(Bildquelle: [Details](/licenses#lekt3813))
+:::
 
 एकैकशस् Adv.: je einzeln
 
@@ -2828,11 +2955,11 @@ Abb.: वाराणस्यां गङ्गातीरे
 > Absol. -गणय्य  
 > Inf. गणयितुम्
 
-![](/images/lekt3814.jpg)  
-Abb.: गणयां चक्रुः  
-करणी माता मंदिर, देशनोके  
-\[Bildquelle: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] 
-
+::: media
+![](/images/lekt3814.jpg)
+Abb.: गणयां चक्रुः
+(Bildquelle: [Details](/licenses#lekt3814))
+:::
 क्रुश् 1P क्रोशति : schreien, wehklagen
 
 > Perf. II चुक्रोश  
@@ -2933,15 +3060,19 @@ Abb.: गणयां चक्रुः
 > 
 > तीर्थ n.: Furt, heiliger Badeplatz, Pilgerort
 
-![](/images/lekt4003.jpg)  
-Abb.: हरिद्वारे तीर्थम्  
-\[Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2085710183/](http://www.flickr.com/photos/mckaysavage/2085710183/). -- Zugriff am 2009-01-02. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons lizenz (Namensnennung)\]
+::: media
+![](/images/lekt4003.jpg)
+Abb.: हरिद्वारे तीर्थम्
+(Bildquelle: [Details](/licenses#lekt4003))
+:::
 
 > तीर्थङ्कर m. (aus: तीर्थम्+ कृ): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
 
-![](/images/lekt4002.jpg)  
-Abb.: तीर्थङ्करः  
-\[Bildquelle: wallyg. -- [http://www.flickr.com/photos/wallyg/1657905479/](http://www.flickr.com/photos/wallyg/1657905479/). -- Zugriff am 2009-01-02. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt4002.jpg)
+Abb.: तीर्थङ्करः
+(Bildquelle: [Details](/licenses#lekt4002))
+:::
 
 अव Präverb.: herab, hinab, weg, ab-
 
@@ -2951,9 +3082,11 @@ Abb.: तीर्थङ्करः
 > 
 > अवतार m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
 
-![](/images/lekt4001.jpg)  
-Abb.: विष्णोर्दशावताराः  
-Im Uhrzeigersinn: मत्स्य, कुर्म, वाराह, वामन, कृष्ण, कल्कि, बुद्ध, प्रशुराम, राम, नरसिंह, in der Mitte: कृष्ण\[Bildquelle: Wikipedia. Public domain\]
+::: media
+![](/images/lekt4001.jpg)
+Abb.: विष्णोर्दशावताराः
+(Bildquelle: [Details](/licenses#lekt4001))
+:::
 
 स्वप् 2P स्वपिति,  स्वपन्ति : schlafen, sich schlafen legen
 
@@ -2971,10 +3104,11 @@ Im Uhrzeigersinn: मत्स्य, कुर्म, वाराह, वा�
 > 
 > सुप्ति f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
 
-![](/images/lekt4004.jpg)  
-Abb.: स्वपन्ति  
-Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ  
-\[Bildquelle: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2456084948/](http://www.flickr.com/photos/snapflickr/2456084948/). -- Zugriff am 2009-01-02. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt4004.jpg)
+Abb.: स्वपन्ति
+(Bildquelle: [Details](/licenses#lekt4004))
+:::
 
 
 ## Lektion 41
@@ -2983,19 +3117,21 @@ Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ
 
 भुजङ्ग m.: Schlange
 
-![](/images/lekt4105.jpg)  
-Abb.: भुजङ्गः  
-Banded Krait (_Bungarus fasciatus_)  
-\[Bildquelle: J. Ewart. The poisonous snakes of India, 1878. Public domain\]
+::: media
+![](/images/lekt4105.jpg)
+Abb.: भुजङ्गः
+(Bildquelle: [Details](/licenses#lekt4105))
+:::
 
 केवलम् Adv.: nur, allein, vollständig
 
 विष n.: Gift
 
-![](/images/lekt4104.jpg)  
-Abb.: भुजङ्गस्य विषम्  
-Melken von Schlangengift (Krait), Thailand  
-\[Bildquelle:  TheLawleys. -- [http://www.flickr.com/photos/lawley/4918566/](http://www.flickr.com/photos/lawley/4918566/). -- Zugriff am 2009-01-03. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
+::: media
+![](/images/lekt4104.jpg)
+Abb.: भुजङ्गस्य विषम्
+(Bildquelle: [Details](/licenses#lekt4104))
+:::
 
 शास् 2P शास्ति : zurechtweisen, beherrschen, befehlen, lehren
 
@@ -3012,19 +3148,20 @@ Melken von Schlangengift (Krait), Thailand
 > 
 > शासना f.: königliches Edikt, Lehre, Religion
 
-![](/images/lekt4109.jpg)  
-Abb.: शासना  
-Ashoka-Edikt, Dhauli, Orissa  
-\[Bildquelle: vegdevil. -- [http://www.flickr.com/photos/vegdevil/915850174/](http://www.flickr.com/photos/vegdevil/915850174/). -- Zugriff am 2009-01-03. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] 
-
+::: media
+![](/images/lekt4109.jpg)
+Abb.: शासना
+(Bildquelle: [Details](/licenses#lekt4109))
+:::
 > शास्त्र n.: Lehre, Lehrwerk
 > 
 > शास्त्रिन् m.: gelehrt, Gelehrter
 
-![](/images/lekt4110.jpg)  
-Abb.: शास्त्री  
-Max Müller (1823 - 1900), ca. 1898  
-\[Bildquelle: Wikipedia. Public domain\]  
+::: media
+![](/images/lekt4110.jpg)
+Abb.: शास्त्री
+(Bildquelle: [Details](/licenses#lekt4110))
+:::
  
 
 > शिष्य 3: zu belehrender = Schüler
@@ -3035,7 +3172,7 @@ Max Müller (1823 - 1900), ca. 1898
 
 > s. dazu:
 > 
-> > **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+> &gt; **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 कन्या f.: junges Mädchen, Tochter, Jungfrau
 
@@ -3114,11 +3251,11 @@ Max Müller (1823 - 1900), ca. 1898
 
 ### 42.2.1. Einige Verwandtschaftsbezeichnungen
 
-![](/images/lekt4202.jpg)  
-Abb.: माता, पिता, पुत्रकः  
-The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi.   
-\[Bildquelle: Wen-Yan King. -- [http://www.flickr.com/photos/medapt/430287982/](http://www.flickr.com/photos/medapt/430287982/). -- Zugriff am 2009-01-04. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
-
+::: media
+![](/images/lekt4202.jpg)
+Abb.: माता पिता पुत्रकश्च
+(Bildquelle: [Details](/licenses#lekt4202))
+:::
 भर्तृ m. (zu भृ "tragen, erhalten"): Erhalter, Ernährer, Gatte
 
 भार्या f.,  जाया f.  पत्नी f.: Gattin (भार्या = Gerundiv zu भृ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
@@ -3177,19 +3314,21 @@ Beiden werden Riten vollzogen, sog. श्राद्ध n. Täglich werden je 
 
 आपण m.: Markt
 
-![](/images/lekt4302.jpg)  
-Abb.: आपणः  
-Orissa = ଓଡ଼ିଶା  
-\[Bildquelle: Rita Willaert. -- [http://www.flickr.com/photos/rietje/324020365/](http://www.flickr.com/photos/rietje/324020365/). -- Zugriff am 2009-01-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt4302.jpg)
+Abb.: आपणः
+(Bildquelle: [Details](/licenses#lekt4302))
+:::
 
 सत्वर 3: schnell, eilig
 
 पण्य 3: käuflich; n.: Ware, Handel
 
-![](/images/lekt4303.jpg)  
-Abb.: पण्यानि  
-Jamshedpur = जमशेदपुर  
-\[Bildquelle: amrita b. -- [http://www.flickr.com/photos/amrita\_b/63071274/](http://www.flickr.com/photos/amrita_b/63071274/). -- Zugriff am 2009-01-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt4303.jpg)
+Abb.: पण्यानि
+(Bildquelle: [Details](/licenses#lekt4303))
+:::
 
 आम् : ja
 
@@ -3209,17 +3348,19 @@ Jamshedpur = जमशेदपुर
 
 विपणि f.: Laden
 
-![](/images/lekt4304.jpg)  
-Abb.: विपणिः  
-Haridwar = हरिद्वार  
-\[Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2085721947/](http://www.flickr.com/photos/mckaysavage/2085721947/). -- Zugriff am 2009-01-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]
+::: media
+![](/images/lekt4304.jpg)
+Abb.: विपणिः
+(Bildquelle: [Details](/licenses#lekt4304))
+:::
 
 वणिज् m.: Kaufmann
 
-![](/images/lekt4305.jpg)  
-Abb.: वणिक्  
-Kanchipuram = காஞ்சிபுரம  
-\[Bildquelle: visio. -- [http://www.flickr.com/photos/visio/421217297/](http://www.flickr.com/photos/visio/421217297/). -- Zugriff am 2009-01-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt4305.jpg)
+Abb.: वणिक्
+(Bildquelle: [Details](/licenses#lekt4305))
+:::
 
 वर 3: bester
 
@@ -3227,10 +3368,11 @@ Kanchipuram = காஞ்சிபுரம
 
 वत्स m.: Kalb, Junges, Kind ; Vok.: mein Lieber
 
-![](/images/lekt4306.jpg)  
-Abb.: वत्सः  
-Wasserbüffel (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು  
-\[Bildquelle: wildxplorer. -- [http://www.flickr.com/photos/krayker/2123046126/](http://www.flickr.com/photos/krayker/2123046126/). -- Zugriff am 2009-001-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)\]
+::: media
+![](/images/lekt4306.jpg)
+Abb.: वत्सः
+(Bildquelle: [Details](/licenses#lekt4306))
+:::
 
 उत्तम 3: oberster, bester
 
@@ -3248,9 +3390,11 @@ Wasserbüffel (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು
 
 तुल् 10 तुलयति । तोलयति : wägen
 
-![](/images/lekt4307.jpg)  
-Abb.: तोलन्ति  
-\[Bildquelle: Ray Witlin / World Bank. -- [http://www.flickr.com/photos/worldbank/2183198505/](http://www.flickr.com/photos/worldbank/2183198505/). -- Zugriff am 2009-01-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt4307.jpg)
+Abb.: तोलन्ति
+(Bildquelle: [Details](/licenses#lekt4307))
+:::
 
 कर्गल n.: Papier
 
@@ -3314,10 +3458,11 @@ Abb.: तोलन्ति
 > 
 > यान n.: Gehen, Weg, Fahrzeug
 
-![](/images/lekt4403.jpg)  
-Abb.: रेल्यानम्  
-वाराणआस्याम्, १९७४  
-\[Bildquelle: danielguip. -- [http://www.flickr.com/photos/danielguip/118349247/](http://www.flickr.com/photos/danielguip/118349247/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt4403.jpg)
+Abb.: रेल्यानम्
+(Bildquelle: [Details](/licenses#lekt4403))
+:::
 
 शी 2Ā शेते : liegen. Diese Wurzel hat in allen Formen des Präsensstamms Hochstufe: 1.sg.Ind.Präs.Ā शेये (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā  शेरते , 3.pl.Imperf.Ā अशेरत
 
@@ -3331,9 +3476,11 @@ Abb.: रेल्यानम्
 > 
 > शयन n.: Liege, Bett
 
-![](/images/lekt4404.jpg)  
-Abb.: योगी शयने शेते  
-\[Bildquelle: Gurumustuk Singh. -- [http://www.flickr.com/photos/mrsikhnet/218757195/](http://www.flickr.com/photos/mrsikhnet/218757195/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt4404.jpg)
+Abb.: योगी शयने शेते
+(Bildquelle: [Details](/licenses#lekt4404))
+:::
 
 नन्द् 1P नन्दति : sich freuen an (तृतीयया)
 
@@ -3350,10 +3497,11 @@ Abb.: योगी शयने शेते
 > 
 > नन्दिन् 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (वहन) des शिव (ein Stier)
 
-![](/images/lekt4405.jpg)  
-Abb.: नन्दी  
-Kodagu = ಕೊಡಗು  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/377335641/](http://www.flickr.com/photos/mattlogelin/377335641/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt4405.jpg)
+Abb.: नन्दी
+(Bildquelle: [Details](/licenses#lekt4405))
+:::
 
 नन्द् + अभि 1P (1Ā)  अभिनन्दति : seine Freude haben an (द्वितीयया), jemanden freudig begrüßen, willkommen heißen
 
@@ -3371,10 +3519,11 @@ Kodagu = ಕೊಡಗು
 
 > PPP आयत 3: lang gestreckt
 
-![](/images/lekt4406.jpg)  
-Abb.: आयतो मरुः (मरु m. = "Wüste")  
-थार मरुस्थल  
-\[Bildquelle: Amre Ghiba. -- [http://www.flickr.com/photos/amre/1476216243/](http://www.flickr.com/photos/amre/1476216243/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt4406.jpg)
+Abb.: आयतो मरुः
+(Bildquelle: [Details](/licenses#lekt4406))
+:::
 
 यम् + प्र 1P प्रयच्छति : darreichen, anbieten, übergeben
 
@@ -3393,10 +3542,11 @@ Abb.: आयतो मरुः (मरु m. = "Wüste")
 > 
 > यत्न m.: Bemühung, Anstrengung
 
-![](/images/lekt4407.jpg)  
-Abb.: यत्नेन  
-Kollam = കൊല്ലം  
-\[Bildquelle: MalayalaM. -- [http://www.flickr.com/photos/malayalam/35026906/](http://www.flickr.com/photos/malayalam/35026906/). -- Zugriff am 2009-01-08. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt4407.jpg)
+Abb.: यत्नेन
+(Bildquelle: [Details](/licenses#lekt4407))
+:::
 
 रभ् 1Ā रभते (Nebenform zu लभ्): fassen
 
@@ -3414,12 +3564,13 @@ Kollam = കൊല്ലം
 
 > Siehe:
 > 
-> > **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+> &gt; **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 > 
-> ![](/images/lekt4408.jpg)  
-> Abb.: प्रव्रअज्या / पब्बजा  
-> Thailand = ประเทศไทย  
-> \[Bildquelle: Midpath. -- [http://www.flickr.com/photos/midpath/342678518/](http://www.flickr.com/photos/midpath/342678518/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+> ::: media
+![](/images/lekt4408.jpg)
+Abb.: प्रव्रज्या
+(Bildquelle: [Details](/licenses#lekt4408))
+:::
 
 
 ## Lektion 45
@@ -3467,18 +3618,31 @@ Kollam = കൊല്ലം
 > 
 > Zu राहु und केतु siehe:
 > 
-> > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> &gt; **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 
-![](/images/lekt4602.jpg)  
-सूर्यः = Sonne, चन्द्रः = Mond, मङ्गलः = Mars  
-![](/images/lekt4603.jpg)  
-बुधः = Merkur, बृहस्पतिः = Jupiter
+::: media
+![](/images/lekt4602.jpg)
+Abb.: नवग्रहाः
+(Bildquelle: [Details](/licenses#lekt4602))
+:::
 
-![](/images/lekt4604.jpg)  
-शुक्रः = Venus, शनिः = Saturn  
-![](/images/lekt4605.jpg)  
-राहुः, केतुः  
-\[Bildquelle der नवग्रह : Redtigerxyz / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt4603.jpg)
+Abb.: नवग्रहाः
+(Bildquelle: [Details](/licenses#lekt4603))
+:::
+
+::: media
+![](/images/lekt4604.jpg)
+Abb.: नवग्रहाः
+(Bildquelle: [Details](/licenses#lekt4604))
+:::
+
+::: media
+![](/images/lekt4605.jpg)
+Abb.: नवग्रहाः
+(Bildquelle: [Details](/licenses#lekt4605))
+:::
 
 तुष् 4P तुष्यति : sich zufrieden geben, zufrieden sein mit (षष्ठ्या, चतुर्थ्या, तृतियया, सप्तम्या)
 
@@ -3498,10 +3662,11 @@ Kollam = കൊല്ലം
 > PPP नत  
 > Inf. नन्तुम्
 
-![](/images/lekt4607.jpg)  
-Abb.: नारायण तुभ्यं नमामि  
-नारायनो ऽनन्तशयी, ca. 1870 (अनन्त = शेष = oberster Schlangenkönig)  
-\[Bildquelle: Wikipedia. Public domain\]
+::: media
+![](/images/lekt4607.jpg)
+Abb.: नारायणः
+(Bildquelle: [Details](/licenses#lekt4607))
+:::
 
 रुह् 1P रोहति : ersteigen, besteigen
 
@@ -3512,10 +3677,11 @@ Abb.: नारायण तुभ्यं नमामि
 > PPP. रूढ  
 > Inf. रोढुम्
 
-![](/images/lekt4606.jpg)  
-Abb.: अश्वरोहकः (अश्व m. "Pferd")  
-Pune = पुणे  
-\[Bildquelle: wili\_hybrid. -- [http://www.flickr.com/photos/wili/294411828/](http://www.flickr.com/photos/wili/294411828/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]
+::: media
+![](/images/lekt4606.jpg)
+Abb.: अश्वरोहकः
+(Bildquelle: [Details](/licenses#lekt4606))
+:::
 
 ह्वे । हू 1U ह्वयति : rufen, herbeirufen
 
@@ -3527,10 +3693,11 @@ Pune = पुणे
 > Inf. ह्वातुम्  
 > Absol. -हूय
 
-![](/images/lekt4608.jpg)  
-Abb.: महामात्र कं चरिष्णुदूरशब्देनाह्वयसि1  
-उदयपुर  
-\[Bildquelle: Travel Aficionado. -- [http://www.flickr.com/photos/travel\_aficionado/2200003879/](http://www.flickr.com/photos/travel_aficionado/2200003879/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt4608.jpg)
+Abb.: महामात्रः
+(Bildquelle: [Details](/licenses#lekt4608))
+:::
 
 > 1 महामात्र m. "Mahout"; चरिष्णु 3 "beweglich", दूरशब्द m. "Ferngespräch, Fernsprecher" » चरिष्णुदूरशब्द "Mobiltelefon" (Wortbildung: A. Payer)
 
@@ -3552,10 +3719,11 @@ Abb.: महामात्र कं चरिष्णुदूरशब्द
 > 
 > आश्रम m.n.
 
-![](/images/lekt4609.jpg)  
-Abb.: श्रान्तः  
-Karnataka = ಕರ್ನಾಟಕ  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/188588421/](http://www.flickr.com/photos/mattlogelin/188588421/). -- Zugriff am 2009-01-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt4609.jpg)
+Abb.: श्रान्तः
+(Bildquelle: [Details](/licenses#lekt4609))
+:::
 
 श्रि 1U श्रयति : lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (द्वितीयया, सप्तम्या)
 
@@ -3579,11 +3747,11 @@ Karnataka = ಕರ್ನಾಟಕ
 > 
 > सङ्ग m.: das Anhängen an, Berührung mit (तृतीयया)
 
-![](/images/lekt4610.jpg)  
-Abb.: सङ्गः  
-Kamareddy = కామారెడ్డి  
-\[Bildquelle: Sumanth K. Garakarajula. -- [http://www.flickr.com/photos/photocracy1/2864457448/](http://www.flickr.com/photos/photocracy1/2864457448/). -- Zugriff am 2009-01-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]  
-
+::: media
+![](/images/lekt4610.jpg)
+Abb.: सङ्गः
+(Bildquelle: [Details](/licenses#lekt4610))
+:::
 द्रु 1P द्रवति : laufen, eilen
 
 > Perf IIIa (अनिट्) दुद्राव, दुद्रुवुर्  
@@ -3617,11 +3785,11 @@ Kamareddy = కామారెడ్డి
 > Inf. लम्बितुम्  
 > Absol. -लम्ब्य
 
-![](/images/lekt4601.jpg)  
-Abb.: लम्बोदर नमस्तुभ्यम्  
-उदरं लम्बते यस्य स लम्बोदरः (उदर n. "Bauch")  
-गणेशचतुर्थी, Bangalore = ಬೆಂಗಳೂರು  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/1397759461/](http://www.flickr.com/photos/mattlogelin/1397759461/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt4601.jpg)
+Abb.: लम्बोदरः
+(Bildquelle: [Details](/licenses#lekt4601))
+:::
 
 लम्ब् + आ 1Ā आलम्बते : sich hängen an (द्वितीयया)
 
@@ -3639,10 +3807,11 @@ Abb.: लम्बोदर नमस्तुभ्यम्
 
 भोस् Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er भो.
 
-![](/images/lekt4611.jpg)  
-Abb.: भोः  
-Kutch = कच्छ  
-\[Bildquelle: orange tuesday. -- [http://www.flickr.com/photos/63138333@N00/2162104243/](http://www.flickr.com/photos/63138333@N00/2162104243/). -- Zugriff am 2009-01-09. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt4611.jpg)
+Abb.: भोः
+(Bildquelle: [Details](/licenses#lekt4611))
+:::
 
 
 ## Lektion 48
@@ -3657,15 +3826,17 @@ Kutch = कच्छ
 
 तन्त्र n.: Saite ; Webstuhl, Webkette, Gewebe ; Grundlage, Norm, Regel ; Lehre, Lehrwerk ; Tantra ; Zauberformel ; Mittel, Trick, Arzneimittel ; Regierung, Autorität
 
-![](/images/lekt4802.jpg)  
-Abb.: तन्त्रम्  
-Sualkuchi = সুৱালকুচি, Assam = অসম  
-\[Bildquelle: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt4802.jpg)
+Abb.: तन्त्रम्
+(Bildquelle: [Details](/licenses#lekt4802))
+:::
 
-![](/images/lekt4803.jpg)  
-Abb.: तन्त्री  
-Sitarspieler = सितारवादकः  
-\[Bildquelle: Wikipedia. Public domain\]
+::: media
+![](/images/lekt4803.jpg)
+Abb.: तन्त्री
+(Bildquelle: [Details](/licenses#lekt4803))
+:::
 
 स्त्री f.: Frau, Gattin ; Femininum
 
@@ -3684,10 +3855,11 @@ Sitarspieler = सितारवादकः
 > | सप्तमी | स्त्रियाम् | स्त्रीषु |
 > | आमन्त्रितम् | स्त्रि | स्त्रियस् |
 
-![](/images/lekt4804.jpg)  
-Abb.: स्वतन्त्राः स्त्रियः  
-[Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு  
-\[Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt4804.jpg)
+Abb.: स्वतन्त्राः स्त्रियः
+(Bildquelle: [Details](/licenses#lekt4804))
+:::
 
 दिवानिशम् Adverb: bei Tag und Nacht
 
@@ -3695,17 +3867,19 @@ Abb.: स्वतन्त्राः स्त्रियः
 
 कुमार m.: Kind, Jüngling, Prinz; Beiname des कार्तिकेय / Murugan \= முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
-![](/images/lekt4805.jpg)  
-Abb.: कुमारः / Murugan \= முருகன்  
-Thaipusam-Fest \= தைப்பூசம், Batu Caves, Malaysia  
-\[Bildquelle: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]
+::: media
+![](/images/lekt4805.jpg)
+Abb.: कुमारः
+(Bildquelle: [Details](/licenses#lekt4805))
+:::
 
 कुमारी f.: Mädchen, Tochter
 
-![](/images/lekt4806.jpg)  
-Abb.: [कुमारी](http://en.wikipedia.org/wiki/Kumari)  
-नेपाल  
-\[Bildquelle: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt4806.jpg)
+Abb.: कुमारी
+(Bildquelle: [Details](/licenses#lekt4806))
+:::
 
 कौमर n.: Kindheit
 
@@ -3713,21 +3887,22 @@ Abb.: [कुमारी](http://en.wikipedia.org/wiki/Kumari)
 
 स्थविर 3: alt, betagt
 
-![](/images/lekt4807.jpg)  
-Abb.: स्थविराः  
-जोधपुर  
-\[Bildquelle: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] 
-
+::: media
+![](/images/lekt4807.jpg)
+Abb.: स्थविराः
+(Bildquelle: [Details](/licenses#lekt4807))
+:::
 स्थाविर n.: (hohes) Alter
 
 वाच्य 3: auch: tadelnswert
 
 सूक्ष्म 3: fein, winzig, subtil
 
-![](/images/lekt4808.jpg)  
-Abb.: सूक्ष्मम्  
-Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ  
-\[Bildquelle: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh_kamath/2791791571/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)\]
+::: media
+![](/images/lekt4808.jpg)
+Abb.: सूक्ष्मम्
+(Bildquelle: [Details](/licenses#lekt4808))
+:::
 
 प्रसङ्ग m.:  Anhaftung, Neigung ; Gelegenheit
 
@@ -3739,9 +3914,11 @@ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 
 जाया f.: Ehefrau
 
-![](/images/lekt4809.jpg)  
-Abb.: मम जाया  
-(Bild: Payer)
+::: media
+![](/images/lekt4809.jpg)
+Abb.: जाया
+(Bildquelle: [Details](/licenses#lekt4809))
+:::
 
 
 ## Lektion 49
@@ -3758,7 +3935,7 @@ Abb.: मम जाया
 > 
 > siehe:
 > 
-> > > Carakasaṃhitā: Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer &lt;1944 - &gt;. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+> &gt; &gt; Carakasaṃhitā: Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer &lt;1944 - &gt;. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 
 क्षिप् 6P क्षिपति : werfen, schleudern
 
@@ -3791,9 +3968,11 @@ Abb.: मम जाया
 
 कुलूहल n.: Neugier, Interesse
 
-![](/images/lekt4901.jpg)  
-Abb.: कुलूहलम्  
-\[Bildquelle: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)\]
+::: media
+![](/images/lekt4901.jpg)
+Abb.: कुलूहलम्
+(Bildquelle: [Details](/licenses#lekt4901))
+:::
 
 कृत्स्न 3: ganz, vollständig
 
@@ -3801,10 +3980,11 @@ Abb.: कुलूहलम्
 
 कला f.: Kunst
 
-![](/images/lekt4902.jpg)  
-Abb.: उत्तमा काला  
-शिवो नटराजा, 11. Jhdt.  
-\[Bildquelle: Vassil / Wikipedia. Public domain\]
+::: media
+![](/images/lekt4902.jpg)
+Abb.: कला
+(Bildquelle: [Details](/licenses#lekt4902))
+:::
 
 वर m.n.: Wunsch
 
@@ -3812,26 +3992,29 @@ Abb.: उत्तमा काला
 
 विहंग m.: Vogel ("in den Lufस्traum - विह - gehend")
 
-![](/images/lekt4903.jpg)  
-Abb.: विहंगः  
-\[Bildquelle: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt4903.jpg)
+Abb.: विहंगः
+(Bildquelle: [Details](/licenses#lekt4903))
+:::
 
 वेष m.: Kleid, Aussehen, Äußeres
 
-![](/images/lekt4904.jpg)  
-Abb.: वेषः  
-वाराणस्याम्  
-\[Bildquelle: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt4904.jpg)
+Abb.: वेषः
+(Bildquelle: [Details](/licenses#lekt4904))
+:::
 
 छन्न n.: Decke, Versteck
 
 पञ्जर n.: Käfig
 
-![](/images/lekt4909.jpg)  
-Abb.: पञ्जरम्  
-Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht  
-Mysore  
-\[Bildquelle: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Zugriff am 2009-01-12. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]
+::: media
+![](/images/lekt4909.jpg)
+Abb.: पञ्जरम्
+(Bildquelle: [Details](/licenses#lekt4909))
+:::
 
 चाण्डाल । चण्डाल m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
@@ -3853,10 +4036,11 @@ Mysore
 
 आदर m.: Rücksicht, Beachtung, Respekt
 
-![](/images/lekt4905.jpg)  
-Abb.: सादरः  
-Amritsar = ਅੰਮ੍ਰਿਤਸਰ  
-\[Bildquelle: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]
+::: media
+![](/images/lekt4905.jpg)
+Abb.: सादरः
+(Bildquelle: [Details](/licenses#lekt4905))
+:::
 
 कुतुक n. = कुलूहल n.
 
@@ -3864,10 +4048,11 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 
 शिशु m.: Kind, Junges
 
-![](/images/lekt4906.jpg)  
-Abb.: गजशिशुः  
-Sri Lanka  
-\[Bildquelle: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt4906.jpg)
+Abb.: गजशिशुः
+(Bildquelle: [Details](/licenses#lekt4906))
+:::
 
 
 ## Lektion 50
@@ -3882,11 +4067,11 @@ Sri Lanka
 
 मन्त्रिन् 3: ratgebend ; m.: Berater, Ratsherr, Minister
 
-![](/images/lekt5001.jpg)  
-Abb.: मन्त्री  
-Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)  
-\[Bildquelle: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)\] 
-
+::: media
+![](/images/lekt5001.jpg)
+Abb.: मन्त्री
+(Bildquelle: [Details](/licenses#lekt5001))
+:::
 रहस् n.: Geheimnis, Einsamkeit
 
 रिष् 1P रिषति 4P रिष्यति : geschädigt werden, misslingen, beschädigen
@@ -3920,18 +4105,21 @@ Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and M
 > Absol. वर्षित्वा । वृष्ट्वा  
 > Absol.-वृष्य
 
-![](/images/lekt5002.jpg)  
-Abb.: महामेघो वर्षिष्यति  
-Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು  
-\[Bildquelle: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt5002.jpg)
+Abb.: महामेघो वर्षिष्यति
+(Bildquelle: [Details](/licenses#lekt5002))
+:::
 
 संयक् Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
 
 आदित्य m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse
 
-![](/images/lekt5005.jpg)  
-Abb.: आदित्यः  
-\[Bildquelle: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)\]
+::: media
+![](/images/lekt5005.jpg)
+Abb.: आदित्यः
+(Bildquelle: [Details](/licenses#lekt5005))
+:::
 
 सर्व 3: jeder, alle
 
@@ -3972,16 +4160,19 @@ Deklination wie यद् (Ausnahme: Nom.Akk.sg.Neutrum)
 
 कल्याण 3 (f.: कल्याणी) :schön
 
-![](/images/lekt5003.jpg)  
-Abb.: कल्याणी  
-\[Bildquelle: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt5003.jpg)
+Abb.: कल्याणी
+(Bildquelle: [Details](/licenses#lekt5003))
+:::
 
 कु- : als Vorderglied von Komposita: schlecht
 
-![](/images/lekt5004.jpg)  
-Abb.: कुनगरम्  
-धारावी, मुंबई  
-\[Bildquelle: Kounosu / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt5004.jpg)
+Abb.: कुनगरम्
+(Bildquelle: [Details](/licenses#lekt5004))
+:::
 
 चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : sehen
 
@@ -3999,9 +4190,11 @@ Abb.: कुनगरम्
 
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
 
-![](/images/lekt5105.jpg)  
-Abb.: Hirschziegenantilope -- _Antilope cervicapra_ L., Bock  
-\[Bildquelle: Wikipedia, public domain\]
+::: media
+![](/images/lekt5105.jpg)
+Abb.: कृष्णमृगः
+(Bildquelle: [Details](/licenses#lekt5105))
+:::
 
 अतिथि m.: Gast
 
@@ -4015,18 +4208,21 @@ Abb.: Hirschziegenantilope -- _Antilope cervicapra_ L., Bock
 > 
 > Da der Eisprung 14 Tage vor dem Beginn der Monatsblutung liegt, ist bei dieser Bestimmung der fruchtbaren Periode Fruchtbarkeit beinahe "garantiert" für einen Abstand der Monatsblutungen von 19 bis 30 Tagen. Die verbotenen Tage (11. und 13.) verbessern die Wahrscheinlichkeit für Geschlechtsverkehr am 12. und 14. Tag, d.h. die Empfängniswahrscheinlichkeit bei einem Zyklus von 28. Tagen (die Lebensdauer der Spermien in der Frau beträgt ca. 3 Tage). Diese Bestimmungen sind als sozusagen positiver Einsatz von Knaus-Ogino.
 
+::: media
 ![](/images/lekt5106.jpg)
-
-> Abb.: "Graphische Darstellung für die Berechnung der fruchtbaren Tage nach OGINO bei 26- bis 30tägigen Zyklusintervallen; gelbe Kästchen: maximale Lebensdauer der Spermien; blaue Kästchen: »Ovulationstermin«; a) 26tägiges Zyklusintervall: fruchtbare Tage vom 8. bis 15. Zyklustag; b) 30tägiges Zyklusintervall: fruchtbare Tage vom 12. bis 19. Zyklustag. Der untenstehende Pfeil #(pfb) gibt die fruchtbaren Tage für Zyklusintervalle von 26 bis 30 Tagen an = 8. bis 19. Zyklustag" \[Quelle für Text und Bild: Roche Lexikon Medizin. --  4.Auflage. -- München :  Urban & Fischer Verlag, ©1984. -- Online: [http://www.gesundheit.de/roche/ro20000/r20172.html](http://www.gesundheit.de/roche/ro20000/r20172.html). -- Zugriff am 2003-12-16\]
+Abb.: ऋतुः
+(Bildquelle: [Details](/licenses#lekt5106))
+:::
 
 एकत्र Adv.: an einer Stelle
 
 जटा f.: Haarflechte (Haartracht des Asketen)
 
-![](/images/lekt5107.jpg)  
-Abb.: जटा  
-ऋषिकेश  
-\[Bildquelle: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt5107.jpg)
+Abb.: जटा
+(Bildquelle: [Details](/licenses#lekt5107))
+:::
 
 तुल्य 3: gleich, vergleichbar (तृतीयया)
 
@@ -4078,35 +4274,38 @@ Kolkata = কলকাতা 
 
 मधु n.: Honig, Süßtrank, Met (Honigwein)
 
-![](/images/lekt5109.jpg)  
-Abb.: मधु  
-City Palace, उदयपुर  
-\[Bildquelle: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt5109.jpg)
+Abb.: मधु
+(Bildquelle: [Details](/licenses#lekt5109))
+:::
 
 मांस n.: Fleisch
 
 मृगया f.: Jagd
 
-![](/images/lekt5110.jpg)  
-Abb.: मृगया  
-Jagd mit चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812  
-\[Bildquelle: Wikipedia. Public domain\]
+::: media
+![](/images/lekt5110.jpg)
+Abb.: मृगया
+(Bildquelle: [Details](/licenses#lekt5110))
+:::
 
 शिवा f.: (weibl.) Schakal (Goldschakal = _Canis aureus_)
 
-![](/images/lekt5111.jpg)  
-Abb.: शिवा (Weibchen?)  
-_Canis aureus_, Kalatop Khajjiar Sanctuary  
-\[Bildquelle: gautamnguitar. -- [http://www.flickr.com/photos/gautamnguitar/2181211040/](http://www.flickr.com/photos/gautamnguitar/2181211040/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]   
-
+::: media
+![](/images/lekt5111.jpg)
+Abb.: शिवा
+(Bildquelle: [Details](/licenses#lekt5111))
+:::
 रुत n.: Geschrei
 
 कौशिक m.: Eule
 
-![](/images/lekt5112.jpg)  
-Abb.: कौशिकः  
-Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા  
-\[Bildquelle: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt5112.jpg)
+Abb.: कौशिकः
+(Bildquelle: [Details](/licenses#lekt5112))
+:::
 
 शकुनि m.: Vogel
 
@@ -4116,10 +4315,11 @@ Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
 > schwacher Stamm vor Vokal सुन्  
 > schwacher Stamm vor Konsonant श्व
 
-![](/images/lekt5113.jpg)  
-Abb.: श्वा लिङ्गं च  
-Karnataka = ಕರ್ನಾಟಕ  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt5113.jpg)
+Abb.: श्वा लिङ्गश्च
+(Bildquelle: [Details](/licenses#lekt5113))
+:::
 
 परिचित 3: vertraut, bekannt
 
@@ -4129,13 +4329,11 @@ Karnataka = ಕರ್ನಾಟಕ
 
 आपान(क) n.: Zechgelage
 
-![](/images/lekt5114.jpg)  
-Abb.: आपानकम्  
-जोधपुर
-
-> "These men were sitting and drinking in front of sanctuary of some hindu god (I forgot the name). As they told me they were butchers and it was god of their profession who accepted sacrifices of alcohol only."
-> 
-> \[Quelle von Bild und Text: zz77. -- [http://www.flickr.com/photos/zz77/2255585927/](http://www.flickr.com/photos/zz77/2255585927/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] 
+::: media
+![](/images/lekt5114.jpg)
+Abb.: आपानकम्
+(Bildquelle: [Details](/licenses#lekt5114))
+:::
 
 क्रूर 3: roh, grausam
 
@@ -4149,17 +4347,19 @@ Abb.: आपानकम्
 
 विष n.: Gift
 
-![](/images/lekt5115.jpg)  
-Abb.: मूषिकाविषाणि (मूषिका f. Maus, Ratte)  
-Bangalore = ಬೆಂಗಳೂರು  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/387955362/](http://www.flickr.com/photos/mattlogelin/387955362/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt5115.jpg)
+Abb.: मूषिकाविषाणि
+(Bildquelle: [Details](/licenses#lekt5115))
+:::
 
 भुजंग m.: Schlange
 
-![](/images/lekt5116.jpg)  
-Abb.: भुजंगः  
-Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು  
-\[Bildquelle: teemus. -- [http://www.flickr.com/photos/teemus/455664680/](http://www.flickr.com/photos/teemus/455664680/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt5116.jpg)
+Abb.: भुजङ्गः
+(Bildquelle: [Details](/licenses#lekt5116))
+:::
 
 सायक m.: Pfeil
 
@@ -4181,18 +4381,21 @@ Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 
 मणि m.: Juwel
 
-![](/images/lekt5118.jpg)  
-Abb.: मणिः  
-Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC  
-\[Bildquelle: David Bjorgen / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt5118.jpg)
+Abb.: मणिः
+(Bildquelle: [Details](/licenses#lekt5118))
+:::
 
 वन n.: Wald
 
 मद m.: auch "Brunstsaft" eines Elefanten (im [Musht](http://en.wikipedia.org/wiki/Musth))
 
-![](/images/lekt5117.jpg)  
-Abb.: मदः  
-\[Bildquelle: muzina\_shanghai. -- [http://www.flickr.com/photos/muzina\_shanghai/2408592293/](http://www.flickr.com/photos/muzina_shanghai/2408592293/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt5117.jpg)
+Abb.: मदः
+(Bildquelle: [Details](/licenses#lekt5117))
+:::
 
 राग m.: auch: Farbe, rote Farbe
 
@@ -4221,10 +4424,11 @@ Abb.: मदः
 > 
 > खिल m.: Brachfeld, Ödland
 
-![](/images/lekt5210.jpg)  
-Abb.: खिलः  
-Tambhol, Akole, Ahmednagar = अहमदनगर  
-\[Bildquelle: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]
+::: media
+![](/images/lekt5210.jpg)
+Abb.: खिलः
+(Bildquelle: [Details](/licenses#lekt5210))
+:::
 
 अन्तर् Adv.: innen, im Innern ; Postposition mit Gen. Lok. (षष्टी, सप्तमी): innerhalb, inmitten ; Postposition mit Gen. Abl. (षष्ठी, पञ्चमी): aus ... heraus
 
@@ -4262,10 +4466,11 @@ Tambhol, Akole, Ahmednagar = अहमदनगर
 
 पीड् 10P पीडयति : drücken, quälen ; bedrängen, belagern, plagen
 
-![](/images/lekt5212.jpg)  
-Abb.: पीडिताः  
-Hyderabad = హైదరాబాద్  
-\[Bildquelle: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt5212.jpg)
+Abb.: पीडिताः
+(Bildquelle: [Details](/licenses#lekt5212))
+:::
 
 पर 3: (Deklination wie सर्व) fernstehend, fremd, höher als (पञ्चम्या), äußerster, höchster ; anderer, fremder, feindlich ; m.: Fremder
 
@@ -4277,10 +4482,11 @@ Hyderabad = హైదరాబాద్
 
 प्रधान 3: hauptsächlicher, bester ; n.: Wichtigstes
 
-![](/images/lekt5213.jpg)  
-Abb.: प्रधानः  
-मुंबई  
-\[Bildquelle: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)\]
+::: media
+![](/images/lekt5213.jpg)
+Abb.: प्रधानः
+(Bildquelle: [Details](/licenses#lekt5213))
+:::
 
 लौल्य n.: Gier, Lüsternheit
 
@@ -4372,18 +4578,19 @@ Abb.: प्रधानः
 
 चक्र n.: Rad
 
-![](/images/lekt5214.jpg)  
-Abb.: चक्रम्  
-Konark = कोनार्क  
-\[Bildquelle: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Zugriff am 2009-01-16. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt5214.jpg)
+Abb.: चक्रम्
+(Bildquelle: [Details](/licenses#lekt5214))
+:::
 
 कदली f.: Bananenbaum (_Musa_ sp.)
 
-![](/images/lekt5208.jpg)  
-Abb.: कदली  
-Hampi = ಹಂಪೆ  
-\[Bildquelle: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
-
+::: media
+![](/images/lekt5208.jpg)
+Abb.: कदली
+(Bildquelle: [Details](/licenses#lekt5208))
+:::
 सार m.n.: Kern, Mark, Essenz, Substanz
 
 दिव्य 3: himmlisch, göttlich
@@ -4394,19 +4601,21 @@ Hampi = ಹಂಪೆ
 
 मल m.n.: Schmutz, Makel
 
-![](/images/lekt5215.jpg)  
-Abb.: मलम्  
-मुंबई  
-\[Bildquelle: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]
+::: media
+![](/images/lekt5215.jpg)
+Abb.: मलम्
+(Bildquelle: [Details](/licenses#lekt5215))
+:::
 
 त्रिपिष्टप n.: Indras Himmel
 
 मार m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel
 
-![](/images/lekt5217.jpg)  
-Abb.: Māras Angriff auf Buddha  
-Amaravati = అమరావతి, 2. Jhdt. n. Chr.  
-\[Bildquelle. Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt5217.jpg)
+Abb.: मारः
+(Bildquelle: [Details](/licenses#lekt5217))
+:::
 
 विजिज्ञासु 3: jemand, der völlig erkennen will
 
@@ -4418,3 +4627,362 @@ Amaravati = అమరావతి, 2. Jhdt. n. Chr.
 > Kaus. त्रापयति  
 > PPP त्राण । त्रात  
 > Inf. त्रातुम्
+
+::: deleteme-box
+### Quellen
+
+**lekt0201**: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts). Beschriftung: * Priesterstand (~Brāhmaṇa): Tu supplex ora = Du bete flehend! * Adelsstand (~Kṣatriya): Tu protege = Du schütze! * Bauernstand (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite! Die drei Stände tragen die jeweilige Standestracht. Über den - damit als gottgewollt bezeichneten - Ständen trohnt Christus. [Bildquelle: Meyer, Werner: Hirsebrei und Hellebarde : auf den Spuren des mittelalterlichen Lebens in der Schweiz . -- 2. Aufl. -- Olten [u.a.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- S. 129]
+
+**lekt0203**: Gott Agni, Miniatur, 18. Jhdt [Bildquelle: Wikipedia, Public domain]
+
+**lekt0202**: Sādhu (साधु), Pashupatinath Tempel (पशुपतिनाथ मन्दिर), Kathmandu (काठमांडौ), Nepal (नेपाल), 2007 [Bildquelle: Peter Akkermans, Wikipedia, GNU FDLizenz]
+
+**lekt0303**: Durgā = दुर्गा, Orissa (ଓଡ଼ିଶା) [Bildquelle: Wikipedia, GNU FDLizenz]
+
+**lekt0501**: Gott Kāma = kāmadeva = कामदेव, 18. Jhdt. [Bildquelle: Wikipedia, Public domain]
+
+**lekt0701**: War das die vedische Somapflanze?: Fliegenpilz: Amanita muscaria (L.) Lam. [Bildquelle: Wikipedia, GNU FDLizenz]
+
+**lekt0809**: लिख् : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter [Bildquelle: Meyers Großes Konversationslexikon 1905. Gemeinfrei]
+
+**lekt0810**: लिख् : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war [Bildquelle: Meyers Großes Konversationslexikon 1905. Gemeinfrei]
+
+**lekt0903**: adhyayana = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai [Bildquelle: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
+
+**lekt0902**: kāru = कारु, Gujarat [Bildquelle: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt1003**: Gott Varuṇa = वरुण, 17. Jhdt. [Bildquelle. Wikipedia, Public domain]
+
+**lekt1002**: Ein Ṛṣi: Viśvāmitra (विश्वामित्र) / von Rāja Ravi Varmā (राज रवि वर्मा) <1848 - 1906> [Bildquelle: Wikipedia, Public domain]
+
+**lekt1301**: महिषासुरः = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysor (ಮೈಸೂರು) [Bildquelle: Prakash Subbarao / Wikipedia. -- Public domain]
+
+**lekt1304**: अन्नम्, Karnataka (ಕರ್ನಾಟಕ), 2005 [Bildquelle: Wikipedia, Public domain]
+
+**lekt1303**: चत्वारः पादाः : गजः (Elephas maximus) [Bildquelle: Wikipedia, GNU FDLicense]
+
+**lekt1405**: दीपाः [Bildquelle: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- Zugriff am 2008-12-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt1504**: पूजा A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India, at the start of a seismic survey contract. [Bildquelle: Wikiepdia, Public domain]
+
+**lekt1505**: Indra and Sachi Riding the Divine Elephant Airavata, Folio from a Panchakalyanaka (Five Auspicious Events in the Life of Jina Rishabhanatha [Adinatha]), circa 1670-1680 Painting; Watercolor, Opaque watercolor, gold, and silver on paper, Image: 9 1/8 x 15 1/8 in. (23.18 x 38.42 cm); Sheet: 10 5/8 x 16 3/4 in. (26.99 x 42.55 cm. Made in: India, Rajasthan, Amber [Bildquelle: Wikipedia, Public domain]
+
+**lekt1506**: सिंहः (Panthera leo persica) [Bildquelle: Wikipedia, GNU FDLicense]
+
+**lekt1507**: व्याघ्रः (Panthera tigris tigris) Bandhavgarh National Park (बांधवगढ राष्ट्रीय उद्दान) [Bildquelle: U.S. Fish and Wildlife Service / Wikipedia, Public domain]
+
+**lekt1602**: अध्यापनम् "This is a special ceremony in a small temple in Satara (सातारा). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Bildquelle: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt1601**: योगी Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)]
+
+**lekt1603**: अहिंसा "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Bildquelle: Wikipedia, Public domain]
+
+**lekt1703**: घाताः Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt1701**: योगासनम् [Bildquelle: von tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
+
+**lekt1702**: दोग्धि [Bildquelle: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt1809**: कामः Illustration zum कामसूत्र [Bildquelle: Wikipedia, Public domain]
+
+**lekt1901**: गर्भगृहम्, Badami (ಬದಾಮಿ) [Bildquelle: Sudarshan Bhat Khandige / Wikipedia, Public domain]
+
+**lekt1902**: वारिदः, Goa (गोंय) [Bildquelle: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt1904**: छत्त्रम् "Onappottan (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. Onappottan visists houses during the onam and gives blessings. Off late onappottan has become a rare sight, confined to villages." [Bildquelle: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt1903**: पण्डीतः जवाहरलाल नेहरू, १९५९ [Bildquelle: Wikipedia, Public domain]
+
+**lekt2008**: आश्रमाः Rishikesh = ऋषिकेश "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Bildquelle: von ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt2103**: भगवान्कृष्णः als जगन्नाथ (rechts) mit seiner Halbschwester सुभद्रा (Mitte) und seinem älteren Bruder बलराम Orissa = ଓଡ଼ିଶା [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense]
+
+**lekt2105**: भगवद्गीता - Manuskript, 19. Jhdt. [Bildquelle: Wikipedia, Public domain]
+
+**lekt2104**: भिक्षवः Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Bildquelle: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt2202**: कामदेवः , 19. Jhdt [Bildquelle: Wikipedia, Public domain]
+
+**lekt2203**: दुर्गाशक्तिः = दुर्गैव शक्तिः Kolkatta = কলকাতা [Bildquelle: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2201**: धेनवश्चरन्ति Goa = गोंय [Bildquelle: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2405**: अलंकारः [Bildquelle: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2406**: देवीप्रतिमा Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Bildquelle: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt2407**: ऊहापोहः "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi, 16-18 November 2008." [Bildquelle: World Economic Forum / Photo by Dana Smillie. --http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, share alike)]
+
+**lekt2408**: आख्यानम् "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers. " [Bildquelle: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt2411**: जयदेवकविर्विष्णुं नमस्करोति Manuskript des गीतगोविन्द, 1730 n. Chr. [Bildquelle: Wikipedia, Public domain]
+
+**lekt2501**: धान्यम् Khanna [Bildquelle: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt2502**: मूलानि Varanasi [Bildquelle: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt2503**: लिप्तिः Jaina-Manuskript [Bildquelle: Wikipedia, Public domain]
+
+**lekt2504**: विवाहः मुंबई [Bildquelle: barnism. -- http://www.flickr.com/photos/barnism/3079837348/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2505**: विष्टिः [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2182943983/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2506**: हिरण्यम् Chennai = சென்னை [Bildquelle: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt2706**: वस्त्राणि Majuli, Assam [Bildquelle: deepsan. -- http://www.flickr.com/photos/deepsan/585991890/. -- Zugriff am 2008-12-18. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)]
+
+**lekt2707**: वसन्तः कुसुम्भ = Schleichera oleosa (Lour.) Oken, Khopoli = खोपोली, Maharashtra = महाराष्ट्र, 2007-04-07[Bildquelle: dinesh_valke. -- http://www.flickr.com/photos/dinesh_valke/451989507/. -- Zugriff am 2008-12-18. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)]
+
+**lekt2704**: हरिहरः (links: विष्णु, rechts: शिव) [Bildquelle: Wikipedia. Public domain]
+
+**lekt2705**: हरिहरः (links: विष्णु, rechts: शिव) Godrumdwip, West Bengal = পশ্চিমবঙ্গ [Bildquelle: GourangaUK / Wikipedia. GNU FDLicense]
+
+**lekt2804**: कृष्णो राधां कामयति Gemälde von राजा रवि वर्मा (1848 - 1906) [Bildquelle: Wikipedia. Public domain]
+
+**lekt2803**: वीणां वादयति [Bildquelle: Kelvin Kay / Wikipedia. GNU FDLicense]
+
+**lekt2805**: बाला भारं हरति Bei Ahmedabad [Bildquelle: m-bot. -- http://www.flickr.com/photos/72494286@N00/2127838811/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, share alike)]
+
+**lekt2903**: परिव्राजकाः Pushkar = पुष्कर [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt2901**: मत्स्यः रोहू मछली = _Labeo rohita_ Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense]
+
+**lekt3001**: क्रीणन्ति विक्रीनते च Bundi = बुन्दी, Rajasthan = राजस्थान [Bildquelle: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt3002**: ज्ञातयः Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र [Bildquelle: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt3003**: श्रोत्राणि पुनाति [Bildquelle: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
+
+**lekt3005**: अश्नीयात् थाली, Südindien [Bildquelle: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt3004**: प्रिया [Bildquelle: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
+
+**lekt2904**: पुनर्भवः [Bildquelle: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
+
+**lekt3101**: योगः [Bildquelle: http://www.flickr.com/photos/wricontest/294029791/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt3102**: व्यञ्जनम् Vorbereitung zum Kathakali-Tanz = കഥകളി, Kochi = കൊച്ചി [Bildquelle: winchrisabi. -- http://www.flickr.com/photos/winchrisabi/181399508/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt3103**: Aus einem प्रज्ञापारमिता-Manuskript [Bildquelle: zeno.org. -- gemeinfrei]
+
+**lekt3202**: चूतः कानपुर, / کان پور [Bildquelle: AmarChandra / Wikipedia. -- Creative Commons Attribution ShareAlike 2.5 (Namensnennung, share alike)]
+
+**lekt3203**: वानराः Delhi = दहली [Bildquelle: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt3204**: उपलाः "The boulders here are hard enough that the scavengers who have taken over the abandoned quarry south of downtown prefer not to strike them directly with their hammers.They heat the rocks first — with flaming tires, scrap plastic, even old rubber boots — so that the stones will fracture more easily. At dusk, when three or four blazes spew choking black clouds across the huge pit, the quarry looks like a woodcut out of Dante. At the mouth of this stone quarry in Pune Maharashtra, diminutive women in saris toil 14 hour shifts breaking boulders into cricket-ball sized chunks of stone. Sledgehammers cut through to the air to the sound of splintering stone. Just behind them roared large machines that chewed up stone only to spit out construction gravel. Almost everybodies face was smeared with a white dust. A dust, heavy and suffocating, floating in the air like mist covering everything." [Bildquelle: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt3205**: लक्ष्यम् Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Bearbeitung)]
+
+**lekt3207**: चितं गोमयं दहति (गोमय n.: Kuhmist) Rajasthan [Bildquelle: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt3206**: कौशलम् Mehndi = मेहन्दी, Mumbai = मुंबई [Bildquelle: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt3306**: दानम् "On August 20th, 2005 in Chennai, India my soon to be in-laws gave us a formal Indian engagement party. It looks like it was a wedding but it wasn't, it's how they do things. Very extravagate. This event was a huge blessing for me. I have never felt so love by another family. I only wish my family could have been there but at least I have a video of the whole thing to share. My soon to be in-laws made the whole thing happen in 3 days. Everything between invitations to a hired photographer. It was fantastic, beyond words can explain the emotions flowing." [Quelle von Bild und Text: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, share alike)]
+
+**lekt3307**: सा पुत्रमादाय भारं बिभर्ति Udaipur = उदयपुर [Bildquelle: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt3305**: समाधि योगिनी, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense]
+
+**lekt3304**: भयम् Mumbai = मुंबई, 2008 [Bildquelle: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt3303**: हीनयानमेव Thailand [Bildquelle: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt3302**: घृतमग्नौ जुहोति यज्ञ im Shiva ashram, Kothavala, Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt [Bildquelle: Dey. -- http://www.flickr.com/photos/dey/466758922/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt3308**: घृतम् [Bildquelle: Wikipedia. GNU FDLicense] "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk." [Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
+
+**lekt3406**: सस्यम् [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183806492/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt3405**: लक्षद्वीपाः = ലക്ഷദ്വീപ് = die 100.000 (लक्ष m.n.) Inseln (Unionsterritorium) [Bildquelle: CIA. Public domain]
+
+**lekt3403**: तिलाः [Bildquelle: Wikipedia. Public domain]
+
+**lekt3404**: तिलाः [Bildquelle: Franz Xaver / Wikipedia. GNU FDLicense]
+
+**lekt3402**: स्वर्णम् Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿಬ, Amritsar = ਅੰਮ੍ਰਿਤසር [Bildquelle: Wikipedia. GNU FDLicense]
+
+**lekt3401**: ऋषभः Chamundi-Hills [Bildquelle: Luna Park. -- http://www.flickr.com/photos/lunapark/2124083737/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt3502**: क्रामन्ति [Bildquelle: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2182732473/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt3501**: जगुः Kaadu Malleswara Temple, Bangalore = ಬೆಂಗಳೂರು [Bildquelle: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt3601**: गोमयं चिकाय Udaipur = उदयपुर [Bildquelle: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt3602**: अगारम् Shekawati = शेखावाटी [Bildquelle: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, shere alike)]
+
+**lekt3603**: अनगार्यम् Nordostthailand = อีสาน [Bildquelle: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt3606**: सुगतो भूमीं पस्पर्श भूमीस्पर्शमुद्रा [Bildquelle: Payer]
+
+**lekt3604**: लोमहर्षः (लोमन् n. Körperhaar) [Bildquelle: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- Zugriff am 2008-12-29. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt3705**: शाक्यमुनिः Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్ [Bildquelle: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt3706**: वृक्षः जयपुर [Bildquelle: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt3802**: सूर्यः सूर्य मंदिर, Konark = कोनार्क [Bildquelle: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt3805**: उदकम् Darewadi village, Ahmed Nagar District = अहमदनगर, महाराष्ट्र [Bildquelle: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt3804**: गौतमबुद्धस्य महापरिनिर्वाणम् Gandhara, 2./3. Jhdt. n. Chr. [Bildquelle: Wikipedia. Public domain]
+
+**lekt3809**: ब्रह्मा Halebidu = ಹಳೆಬೀಡು [Bildquelle: Wikipedia. GNU FDLicense]
+
+**lekt3810**: अशोकः _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense]
+
+**lekt3811**: अशोकः Größte Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte [Bildquelle: Wikipedia.GNU FDLicense]
+
+**lekt3812**: विनोदः Carrom-Spiel [Bildquelle: nicolas - نِيقُولاَوُसَ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt3813**: वाराणस्यां गङ्गातीरे [Bildquelle: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt3814**: गणयां चक्रुः करणी माता मंदिर, देशनोके [Bildquelle: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt4003**: हरिद्वारे तीर्थम् [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)]
+
+**lekt4002**: तीर्थङ्करः [Bildquelle: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt4001**: विष्णोर्दशावताराः Im Uhrzeigersinn: मत्स्य, कुर्म, वाराह, वामन, कृष्ण, कल्कि, बुद्ध, प्रशुराम, राम, नरसिंह, in der Mitte: कृष्ण [Bildquelle: Wikipedia. Public domain]
+
+**lekt4004**: स्वपन्ति Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt4105**: भुजङ्गः Banded Krait (_Bungarus fasciatus_) [Bildquelle: J. Ewart. The poisonous snakes of India, 1878. Public domain]
+
+**lekt4104**: भुजङ्गस्य विषम् Melken von Schlangengift (Krait), Thailand [Bildquelle: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt4109**: शासना Ashoka-Edikt, Dhauli, Orissa [Bildquelle: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt4110**: शास्त्री Max Müller (1823 - 1900), ca. 1898 [Bildquelle: Wikipedia. Public domain]
+
+**lekt4202**: माता पिता पुत्रकश्च The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. [Bildquelle: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt4302**: आपणः Orissa = ଓଡ଼ିଶା [Bildquelle: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt4303**: पण्यानि Jamshedpur = जमशेदपुर [Bildquelle: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt4304**: विपणिः Haridwar = हरिद्वार [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt4305**: वणिक् Kanchipuram = காஞ்சிபுரம [Bildquelle: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt4306**: वत्सः Wasserbüffel (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [Bildquelle: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Zugriff am 2009-001-06. -- Creative Commons Lizenz (Namensnennung, share alike)]
+
+**lekt4307**: तोलन्ति [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt4403**: रेल्यानम् वाराणआस्याम्, १९७४ [Bildquelle: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt4404**: योगी शयने शेते [Bildquelle: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt4405**: नन्दी Kodagu = ಕೊಡಗು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt4406**: आयतो मरुः थार मरुस्थल [Bildquelle: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt4407**: यत्नेन Kollam = കൊല്ലം [Bildquelle: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt4408**: प्रव्रज्या Thailand = ประเทศไทย [Bildquelle: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt4602**: नवग्रहाः [Bildquelle der नवग्रह : Redtigerxyz / Wikipedia. GNU FDLicense]
+
+**lekt4603**: नवग्रहाः [Bildquelle der नवग्रह : Redtigerxyz / Wikipedia. GNU FDLicense]
+
+**lekt4604**: नवग्रहाः [Bildquelle der नवग्रह : Redtigerxyz / Wikipedia. GNU FDLicense]
+
+**lekt4605**: नवग्रहाः [Bildquelle der नवग्रह : Redtigerxyz / Wikipedia. GNU FDLicense]
+
+**lekt4607**: नारायणः नारायनो ऽनन्तशयी, ca. 1870 (अनन्त = शेष = oberster Schlangenkönig) [Bildquelle: Wikipedia. Public domain]
+
+**lekt4606**: अश्वरोहकः Pune = पुणे [Bildquelle: wili_hybrid. -- http://www.flickr.com/photos/wili/294411828/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt4608**: महामात्रः उदयपुर [Bildquelle: Travel Aficionado. -- http://www.flickr.com/photos/travel_aficionado/2200003879/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt4609**: श्रान्तः Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt4610**: सङ्गः Kamareddy = కామారెడ్డి [Bildquelle: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt4601**: लम्बोदरः गणेशचतुर्थी, Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt4611**: भोः Kutch = कच्छ [Bildquelle: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt4802**: तन्त्रम् Sualkuchi = সুৱালকুচি, Assam = অসম [Bildquelle: Ken McChesney. -- http://www.flickr.com/photos/kenmak/2083565996/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt4803**: तन्त्री Sitarspieler = सितारवादकः [Bildquelle: Wikipedia. Public domain]
+
+**lekt4804**: स्वतन्त्राः स्त्रियः [Self-help group (SHG)], Tamil Nadu = தமிழ்நாடு [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2229752965/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt4805**: कुमारः Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia [Bildquelle: tajai. -- http://www.flickr.com/photos/cayce/108707865/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt4806**: कुमारी नेपाल [Bildquelle: changhg. -- http://www.flickr.com/photos/changhg/100412648/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt4807**: स्थविराः जोधपुर [Bildquelle: zz77. -- http://www.flickr.com/photos/zz77/2256414024/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt4808**: सूक्ष्मम् Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Bildquelle: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, share alike)]
+
+**lekt4809**: जाया [Bild: Payer]
+
+**lekt4901**: कुलूहलम् [Bildquelle: younee. -- http://www.flickr.com/photos/younee/1708474353/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
+
+**lekt4902**: कला शिवो नटराजा, 11. Jhdt. [Bildquelle: Vassil / Wikipedia. Public domain]
+
+**lekt4903**: विहंगः [Bildquelle: Toji Leon. -- http://www.flickr.com/photos/tojileon/295384395/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt4904**: वेषः वाराणस्याम् [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/319410503/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt4909**: पञ्जरम् Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht. Mysore. [Bildquelle: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt4905**: सादरः Amritsar = ਅੰਮ੍ਰಿತਸਰ [Bildquelle: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt4906**: गजशिशुः Sri Lanka [Bildquelle: Carmelo Aquilina. -- http://www.flickr.com/photos/carmelos-pictures/113895562/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt5001**: मन्त्री Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Bildquelle: World Economic Forum. -- http://www.flickr.com/photos/worldeconomicforum/3038328904/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, share alike)]
+
+**lekt5002**: महामेघो वर्षिष्यति Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು [Bildquelle: vandan desai. -- http://www.flickr.com/photos/vandan/526579892/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt5005**: आदित्यः [Bildquelle: sunder_iyer. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, share alike)]
+
+**lekt5003**: कल्याणी [Bildquelle: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt5004**: कुनगरम् धारावी, मुंबई [Bildquelle: Kounosu / Wikipedia. GNU FDLicense]
+
+**lekt5105**: कृष्णमृगः Hirschziegenantilope -- _Antilope cervicapra_ L., Bock [Bildquelle: Wikipedia, public domain]
+
+**lekt5106**: ऋतुः "Graphische Darstellung für die Berechnung der fruchtbaren Tage nach OGINO bei 26- bis 30tägigen Zyklusintervallen... [Quelle für Text und Bild: Roche Lexikon Medizin. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. Zugriff am 2003-12-16]
+
+**lekt5107**: जटा ऋषिकेश [Bildquelle: EyalNow. -- http://www.flickr.com/photos/eyalnow/351734123/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt5108**: पिशितम् Kolkata = কলকাতা [Bildquelle: nicolas - نِيقُولاَوُسَ. -- http://www.flickr.com/photos/keep-on-moving/2994878670/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt5109**: मधु City Palace, उदयपुर [Bildquelle: abrinsky. -- http://www.flickr.com/photos/abrinsky/457940260/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt5110**: मृगया Jagd mit चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Bildquelle: Wikipedia. Public domain]
+
+**lekt5111**: शिवा _Canis aureus_, Kalatop Khajjiar Sanctuary [Bildquelle: gautamnguitar. -- http://www.flickr.com/photos/gautamnguitar/2181211040/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt5112**: कौशिकः Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt5113**: श्वा लिङ्गश्च Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt5114**: आपानकम् जोधपुर. "These men were sitting and drinking in front of sanctuary of some hindu god (I forgot the name). As they told me they were butchers and it was god of their profession who accepted sacrifices of alcohol only." [Quelle von Bild und Text: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt5115**: मूषिकाविषाणि Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt5116**: भुजङ्गः Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Bildquelle: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt5118**: मणिः Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC [Bildquelle: David Bjorgen / Wikipedia. GNU FDLicense]
+
+**lekt5117**: मदः [Bildquelle: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt5210**: खिलः Tambhol, Akole, Ahmednagar = अहमदनगर [Bildquelle: Dan Tunstall / World Resources Institute Staff. -- http://www.flickr.com/photos/wricontest/291696431/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt5212**: पीडिताः Hyderabad = హైదరాబాద్ [Bildquelle: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt5213**: प्रधानः मुंबई [Bildquelle: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
+
+**lekt5214**: चक्रम् Konark = कोनार्क [Bildquelle: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt5208**: कदली Hampi = ಹಂಪೆ [Bildquelle: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- Zugriff am 2009-01-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt5215**: मलम् मुंबई [Bildquelle: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt5217**: Māras Angriff auf Buddha Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense]
+
+:::

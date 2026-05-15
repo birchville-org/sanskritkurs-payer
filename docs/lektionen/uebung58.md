@@ -1,33 +1,19 @@
-<script setup>
-const quizQuestions = [
-  {
-    question: 'Was ist die Perfekt-Form von arc (verehren) in der 1./3. Person Singular Parasmaipada laut Übung A.4?',
-    options: ['ānarca', 'ānartṭa', 'āriṣam', 'arcyate'],
-    answer: 0,
-    explanation: 'Die Perfektform ist ānarca (Übung 58.15).'
-  },
-  {
-    question: 'Wie lautet der iṣ-Aorist (1. Person Singular) von ūh 1Ā laut Übung A.1?',
-    options: ['auhiṣi', 'auhe', 'auhata', 'auhastha'],
-    answer: 0,
-    explanation: 'Der iṣ-Aorist (Ātmanepada) von ūh ist auhiṣi (Übung 58.12).'
-  },
-  {
-    question: 'Was bedeutet das Wort "purā" (Übung B.27)?',
-    options: ['früher, einst', 'die Stadt', 'vorn', 'vorwärts'],
-    answer: 0,
-    explanation: 'purā bedeutet "früher, einst" (Übung 58.70).'
-  }
-]
-</script>
+---
+title: "Übung 58"
+uebung_id: 58
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
 
-# Übung Lektion 58
+::: deleteme-box Zitierweise & Rechte
 
-_Erstmals hier publiziert:_ 2009-03-12
+::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika wie z.B. Tahoma.
+# Übung 58
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Formen des i-Aorist:
+## A) iṣ-Aorist-Transformationen
+
+Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entsprechenden Formen des **iṣ-Aorists**:
 
 1.  औहे - ऊह्  1Ā 1.sg.Impf.Ā ich schob - औहिषि
 2.  जाग्रति - जागृ 2P 3.pl.Ind.Präs.P sie sind wach - अजागरिषुः
@@ -50,13 +36,19 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie
 18.  ऐक्षध्वम् - ईक्ष् 1Ā 2.pl.Impf.Ā ihr saht - ऐक्षिध्वम्
 19.  अचेतः - चित् 1P 2.sg.Impf.P du nahmst wahr - अचेतीः
 
-![](/images/uebung095.jpg)  
-Abb.: तब्लाः,  अनदिष्ट ॥  
-\[Bildquelle: Kaustav Bhattacharya. -- [http://www.flickr.com/photos/astrolondon/224826916/](http://www.flickr.com/photos/astrolondon/224826916/). -- Zugriff am 2009-03-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+![](/images/uebung095.jpg)
+Abb.: तब्लाः
+(Bildquelle: [Details](/licenses#uebung095))
+:::
 
-B) Übersetzen und bestimmen Sie folgende Formen:
+---
 
-![](/images/uebung097.jpg)  
+## B) Wortbestimmungen
+
+Bestimmen und übersetzen Sie die folgenden Formen:
+
+::: media
+![](/images/uebung097.jpg)
 Abb.: मातुलङ्गविक्रेतायं ना ॥  
 Pune - पुणे  
 \[Bildquelle: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Zugriff am 2009-03-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
@@ -101,7 +93,7 @@ Pune - पुणे
 38.  दद - दा 3U 2.pl.Perf.P ihr gabt
 39.  अञ्ज्वः - अञ्ज् 7P 1.du.Ind.Präs.P wir beide salben
 
-![](/images/uebung096.jpg)  
-Abb.: श्वा श्वानमघ्रात् ॥  
-Hampi - ಹಂಪೆ  
-\[Bildquelle: Laertes. -- [http://www.flickr.com/photos/jonhurd/2367038594/](http://www.flickr.com/photos/jonhurd/2367038594/). -- Zugriff am 2009-03-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]
+![](/images/uebung096.jpg)
+Abb.: श्वा श्वानमघ्रात्
+(Bildquelle: [Details](/licenses#uebung096))
+:::

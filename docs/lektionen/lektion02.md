@@ -1,5 +1,5 @@
 ---
-title: "Lektion 2"
+title: Lektion 2
 subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
 lesson_id: 2
 category: "Grammatik"
@@ -9,9 +9,6 @@ last_reconstructed: 2026-04-30
 
 # Lektion 2
 
-::: info Zitierweise & Rechte
-Dieses Kapitel ist Teil des Sanskritkurses von Alois Payer. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
-:::
 
 ## 2.1. Der Nominalsatz
 

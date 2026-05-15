@@ -1,0 +1,41 @@
+
+> sanskritkurs-pipeline@1.1.2 docs:build
+> vitepress build docs
+
+
+  vitepress v1.6.4
+
+- building client + server bundles...
+x Build failed in 1.93s
+[31m✖[0m building client + server bundles...
+build error:
+[vite:vue] [vue/compiler-sfc] Unexpected token, expected "," (5:17)
+
+/Volumes/SanDisk1TB/proj/Payer/docs/it/lektionen/uebung32.md
+6  |    {
+7  |      question: 'Cosa significa la frase „āsīt kṣatriya upapanno guṇair iṣṭaiḥ“?',
+8  |      options: ['C'era una volta un Kṣatriya, dotato delle virtù desiderate', 'Il Kṣatriya combatte contro i nemici', 'Nasce un Kṣatriya', 'Il Kṣatriya è virtuoso'],
+   |                   ^
+9  |      answer: 0,
+10 |      explanation: 'āsīt (da as) è la 3ª persona singolare dell\'imperfetto („egli era“).'
+file: /Volumes/SanDisk1TB/proj/Payer/docs/it/lektionen/uebung32.md:5:17
+[vite:vue] [vue/compiler-sfc] Unexpected token, expected "," (5:17)
+
+/Volumes/SanDisk1TB/proj/Payer/docs/it/lektionen/uebung32.md
+6  |    {
+7  |      question: 'Cosa significa la frase „āsīt kṣatriya upapanno guṇair iṣṭaiḥ“?',
+8  |      options: ['C'era una volta un Kṣatriya, dotato delle virtù desiderate', 'Il Kṣatriya combatte contro i nemici', 'Nasce un Kṣatriya', 'Il Kṣatriya è virtuoso'],
+   |                   ^
+9  |      answer: 0,
+10 |      explanation: 'āsīt (da as) è la 3ª persona singolare dell\'imperfetto („egli era“).'
+file: /Volumes/SanDisk1TB/proj/Payer/docs/it/lektionen/uebung32.md:5:17
+    at constructor (/Volumes/SanDisk1TB/proj/Payer/node_modules/@babel/parser/lib/index.js:365:19)
+    at Parser.raise (/Volumes/SanDisk1TB/proj/Payer/node_modules/@babel/parser/lib/index.js:6599:19)
+    at Parser.unexpected (/Volumes/SanDisk1TB/proj/Payer/node_modules/@babel/parser/lib/index.js:6619:16)
+    at Parser.expect (/Volumes/SanDisk1TB/proj/Payer/node_modules/@babel/parser/lib/index.js:6899:12)
+    at Parser.parseExprList (/Volumes/SanDisk1TB/proj/Payer/node_modules/@babel/parser/lib/index.js:12141:14)
+    at Parser.parseArrayLike (/Volumes/SanDisk1TB/proj/Payer/node_modules/@babel/parser/lib/index.js:12057:26)
+    at Parser.parseExprAtom (/Volumes/SanDisk1TB/proj/Payer/node_modules/@babel/parser/lib/index.js:11335:23)
+    at Parser.parseExprSubscripts (/Volumes/SanDisk1TB/proj/Payer/node_modules/@babel/parser/lib/index.js:11081:23)
+    at Parser.parseUpdate (/Volumes/SanDisk1TB/proj/Payer/node_modules/@babel/parser/lib/index.js:11066:21)
+    at Parser.parseMaybeUnary (/Volumes/SanDisk1TB/proj/Payer/node_modules/@babel/parser/lib/index.js:11046:23)

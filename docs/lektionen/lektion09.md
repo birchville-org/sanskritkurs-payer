@@ -1,5 +1,5 @@
 ---
-title: "Lektion 9"
+title: Lektion 9
 subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
 lesson_id: 9
 category: "Grammatik"
@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# 9. Lektion 9
+# Lektion 9
 
 ::: info
 **In dieser Lektion lernen Sie:**
