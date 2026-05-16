@@ -22,11 +22,16 @@ Beispiele:
 *   starker Präsensstamm: dveṣ-
 *   schwacher Präsensstamm: dviṣ-
 
-> | 3\. sg. Präs. P | द्वेष्टि (« dveṣ + -ti) |
-> | --- | --- |
-> | 3\. pl. Präs. P | द्विषन्ति (dviṣ-anti) |
-> | 3\. sg. Präs. Ā | द्विष्टे (« dviṣ + -te) |
-> | 3\. pl. Präs. Ā | द्विषते (dviṣ-ate) |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. P | **dveṣṭi**[[br]](द्वेष्टि) (« dveṣ + -ti) |
+| 3\. pl. Präs. P | **dviṣanti**[[br]](द्विषन्ति) (dviṣ-anti) |
+| 3\. sg. Präs. Ā | **dviṣṭe**[[br]](द्विष्टे) (« dviṣ + -te) |
+| 3\. pl. Präs. Ā | **dviṣate**[[br]](द्विषते) (dviṣ-ate) |
+
+::::
 
 Hierbei wirkt folgendes Wortsandhigesetz:
 
@@ -43,22 +48,32 @@ Weitere Beispiele:
     *   vor Konsonant: i-
     *   vor Vokal: y-/iy-
 
-> | 3\. sg. Präs. P | एति (e-ti) |
-> | --- | --- |
-> | 3\. pl. Präs. P | यन्ति (y-anti) |
-> | 3\. sg. Präs. Ā | इते (i-te) |
-> | 3\. pl. Präs. Ā | इयते (iy-ate) |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. P | **eti**[[br]](एति) (e-ti) |
+| 3\. pl. Präs. P | **yanti**[[br]](यन्ति) (y-anti) |
+| 3\. sg. Präs. Ā | **ite**[[br]](इते) (i-te) |
+| 3\. pl. Präs. Ā | **iyate**[[br]](इयते) (iy-ate) |
+
+::::
 
 दुह् 2 U "melken"
 
 *   starker Präsensstamm: doh-
 *   schwacher Präsensstamm: duh-
 
-> | 3\. sg. Präs. P | दोग्धि (« doh- + -ti) |
-> | --- | --- |
-> | 3\. pl. Präs. P | दुहन्ति (duh-anti) |
-> | 3\. sg. Präs. Ā | दुग्धे (« duh- + -te) |
-> | 3\. pl. Präs. Ā | दुहते (duh-ate) |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. P | **dogdhi**[[br]](दोग्धि) (« doh- + -ti) |
+| 3\. pl. Präs. P | **duhanti**[[br]](दुहन्ति) (duh-anti) |
+| 3\. sg. Präs. Ā | **dugdhe**[[br]](दुग्धे) (« duh- + -te) |
+| 3\. pl. Präs. Ā | **duhate**[[br]](दुहते) (duh-ate) |
+
+::::
 
 हन् 2 P "schlagen, erschlagen, töten"
 
@@ -67,20 +82,30 @@ Weitere Beispiele:
     *   vor Konsonant: ha- (« \*hn-)
     *   vor Vokal: ghn-/han-
 
-> | 3\. sg. Präs. P | हन्ति (han-ti) |
-> | --- | --- |
-> | 3\. pl. Präs. P | घ्नन्ति (ghn-anti) |
-> | 3\. sg. Präs. Ā | (हते) (ha-te) |
-> | 3\. pl. Präs. Ā | (घ्नते) (ghn-ate) |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. P | **hanti**[[br]](हन्ति) (han-ti) |
+| 3\. pl. Präs. P | **ghnanti**[[br]](घ्नन्ति) (ghn-anti) |
+| 3\. sg. Präs. Ā | **(hate)**[[br]](हते) (ha-te) |
+| 3\. pl. Präs. Ā | **(ghnate)**[[br]](घ्नते) (ghn-ate) |
+
+::::
 
 अस् 2 P "sein"
 
 *   starker Präsensstamm: as-
 *   schwacher Präsensstamm: s-
 
-> | 3\. sg. Präs. P | अस्ति  (as-ti) |
-> | --- | --- |
-> | 3\. pl. Präs. P | सन्ति (s-anti) |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. P | **asti**[[br]](अस्ति) (as-ti) |
+| 3\. pl. Präs. P | **santi**[[br]](सन्ति) (s-anti) |
+
+::::
 
 ## 17.3. Wurzeln der zweiten Präsensklasse mit Stammabstufung Dehnstufe - Tiefstufe
 
@@ -93,14 +118,16 @@ Beispiel:
     *   vor Konsonant: stu-
     *   vor Vokal: stuv-
 
-> | 3\. sg. Präs. P | स्तौति (stau-ti)
-> oder: स्तवीति siehe unter 5.
-> 
->  |
-> | --- | --- |
-> | 3\. pl. Präs. P | स्तुवन्ति (stuv-anti) |
-> | 3\. sg. Präs. Ā | स्तुते (stu-te) |
-> | 3\. pl. Präs. Ā | स्तुवते (stuv-ate) |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. P | **stauti**[[br]](स्तौति) (stau-ti)[[br]]oder: **stavīti**[[br]](स्तवीति) |
+| 3\. pl. Präs. P | **stuvanti**[[br]](स्तुवन्ति) (stuv-anti) |
+| 3\. sg. Präs. Ā | **stute**[[br]](स्तुते) (stu-te) |
+| 3\. pl. Präs. Ā | **stuvate**[[br]](स्तुवते) (stuv-ate) |
+
+::::
 
 ## 17.4. Wurzeln der zweiten Präsensklasse ohne Stammabstufung
 
@@ -110,9 +137,14 @@ Beispiel:
 
 पा  2 P "schützen, behüten, hüten"
 
-> | 3\. sg. Präs. P | पाति (pā-ti) |
-> | --- | --- |
-> | 3\. pl. Präs. P | पान्ति (« pā- + -anti) |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. P | **pāti**[[br]](पाति) (pā-ti) |
+| 3\. pl. Präs. P | **pānti**[[br]](पान्ति) (« pā- + -anti) |
+
+::::
 
 Auch einige andere Wurzeln der zweiten Klasse haben keine Stammabstufung:
 
@@ -120,21 +152,36 @@ Beispiele:
 
 अद् 2 P "essen"
 
-> | 3\. sg. Präs. P | अत्ति (« ad- + -ti) |
-> | --- | --- |
-> | 3\. pl. Präs. P | अदन्ति (ad-anti) |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. P | **atti**[[br]](अत्ति) (« ad- + -ti) |
+| 3\. pl. Präs. P | **adanti**[[br]](अदन्ति) (ad-anti) |
+
+::::
 
 आस् 2 Ā "sitzen"
 
-> | 3\. sg. Präs. Ā | आस्ते (ās-te) |
-> | --- | --- |
-> | 3\. pl. Präs. Ā | आसते (ās-ate) |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. Ā | **āste**[[br]](आस्ते) (ās-te) |
+| 3\. pl. Präs. Ā | **āsate**[[br]](आसते) (ās-ate) |
+
+::::
 
 वच् 2 P "sagen"
 
-> | 3\. sg. Präs. P | वक्ति (« vac- + -ti) |
-> | --- | --- |
-> | 3\. pl. Präs. P | kommt nicht vor |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. P | **vakti**[[br]](वक्ति) (« vac- + -ti) |
+| 3\. pl. Präs. P | kommt nicht vor |
+
+::::
 
 ## 17.5. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
 
@@ -149,9 +196,14 @@ Beispiele:
     *   vor Konsonant: rudi-
     *   vor Vokal: rud-
 
-> | 3\. sg. Präs. P | रोदिति (rodi-ti) |
-> | --- | --- |
-> | 3\. pl. Präs. P | रुदन्ति (rud-anti) |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. P | **roditi**[[br]](रोदिति) (rodi-ti) |
+| 3\. pl. Präs. P | **rudanti**[[br]](रुदन्ति) (rud-anti) |
+
+::::
 
 ब्रू 2 U "sprechen"
 
@@ -160,22 +212,26 @@ Beispiele:
     *   vor Konsonant: brū-
     *   vor Vokal: bruv-
 
-> | 3\. sg. Präs. P | ब्रवीति (bravī-ti) |
-> | --- | --- |
-> | 3\. pl. Präs. P | ब्रुवन्ति (bruv-anti) |
-> | 3\. sg. Präs. Ā | ब्रूते (brū-te) |
-> | 
-> 3\. pl. Präs. Ā
-> 
->  | ब्रुवते (bruv-ate) |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. P | **bravīti**[[br]](ब्रवीति) (bravī-ti) |
+| 3\. pl. Präs. P | **bruvanti**[[br]](ब्रुवन्ति) (bruv-anti) |
+| 3\. sg. Präs. Ā | **brūte**[[br]](ब्रूते) (brū-te) |
+| 3\. pl. Präs. Ā | **bruvate**[[br]](ब्रुवते) (bruv-ate) |
+
+::::
 
 Auch स्तु 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen nach diesem Muster:
 
-> | 3\. sg. Präs. P | स्तवीति (« sto + ī + ti)
-> oder: स्तौति siehe unter 3.
-> 
->  |
-> | --- | --- |
+:::: grammar-box
+
+| | |
+| :--- | :--- |
+| 3\. sg. Präs. P | **stavīti**[[br]](स्तवीति) (« sto + ī + ti)[[br]]oder: **stauti**[[br]](स्तौति) |
+
+::::
 
 ## 17.6. Wortliste
 
@@ -206,7 +262,7 @@ davon:
 
 > रुद्र m.: (der Heuler =) der Sturmgott Rudra
 
-ब्रू 2 U ब्रवीति Ā ब्रुते kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
+ब्रू 2 U ब्रवीति Ā ब्रूते kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
 
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : melken
 
@@ -226,7 +282,7 @@ davon:
 
 A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
 
-१. ब्राह्मनो ऽनृतं न ... (ब्रू । वच् । वद्)
+१. ब्राह्मणो ऽनृतं न ... (ब्रू । वच् । वद्)
 
 २. क्षत्रियो जनान् ... (पा । रक्ष्)
 
