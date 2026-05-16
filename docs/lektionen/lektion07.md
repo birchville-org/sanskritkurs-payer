@@ -57,16 +57,16 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 
 | Maskulina auf | Akkusativ Singular |
 | :--- | :--- |
-| **-a**: deva | **devam** = देवम् |
-| **-i**: kavi | **kavim** = कविम् |
-| **-u**: guru | **gurum** = गुरुम् |
+| **-a**: deva | **devam**[[br]]देवम् |
+| **-i**: kavi | **kavim**[[br]]कविम् |
+| **-u**: guru | **gurum**[[br]]गुरुम् |
 
 | Feminina auf | Akkusativ Singular |
 | :--- | :--- |
-| **-ā**: devatā | **devatām** = देवताम् |
-| **-i**: śruti | **śrutim** = श्रुतिम् |
-| **-ī**: devī | **devīm** = देवीम् |
-| **-u**: dhenu | **dhenum** = धेनुम् |
+| **-ā**: devatā | **devatām**[[br]]देवताम् |
+| **-i**: śruti | **śrutim**[[br]]श्रुतिम् |
+| **-ī**: devī | **devīm**[[br]]देवीम् |
+| **-u**: dhenu | **dhenum**[[br]]धेनुम् |
 :::
 
 ::: grammar-box
@@ -74,9 +74,9 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 
 | Maskulina auf | Akkusativ Plural |
 | :--- | :--- |
-| **-a**: deva | **devān** = देवान् |
-| **-i**: kavi | **kavīn** = कवीन् |
-| **-u**: guru | **gurūn** = गुरून् |
+| **-a**: deva | **devān**[[br]]देवान् |
+| **-i**: kavi | **kavīn**[[br]]कवीन् |
+| **-u**: guru | **gurūn**[[br]]गुरून् |
 :::
 
 ::: grammar-box
@@ -84,10 +84,10 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 
 | Feminina auf | Akkusativ Plural |
 | :--- | :--- |
-| **-ā**: devatā | **devatās** = देवतास् |
-| **-i**: śruti | **śrutīs** = श्रुतीस् |
-| **-ī**: devī | **devīs** = देवीस् |
-| **-u**: dhenu | **dhenūs** = धेनूस् |
+| **-ā**: devatā | **devatās**[[br]]देवतास् |
+| **-i**: śruti | **śrutīs**[[br]]श्रुतीस् |
+| **-ī**: devī | **devīs**[[br]]देवीस् |
+| **-u**: dhenu | **dhenūs**[[br]]धेनूस् |
 :::
 
 ---
@@ -97,14 +97,14 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 ::: grammar-box
 | | | Maskulinum | Femininum | Neutrum |
 | :--- | :--- | :--- | :--- | :--- |
-| **kim** (wer/was) | sg. | **kam** (कम्) | **kām** (काम्) | **kim** (किम्) |
-| | pl. | **kān** (कान्) | **kās** (कास्) | **kāni** (कानि) |
-| **tad** (er/es/jenes) | sg. | **tam** (तम्) | **tām** (ताम्) | **tad** (तद्) |
-| | pl. | **tān** (तान्) | **tās** (तास्) | **tāni** (तानि) |
-| **etad** (dieses hier) | sg. | **etam / enam** (एतम् / एनम्) | **etām / enām** (एताम् / एनाम्र) | **etad / enad** (एतद् / एनद्) |
-| | pl. | **etān / enān** (एतान् / एनान्) | **etās / enās** (एतास् / एनास्) | **etāni / enāni** (एतानि / एनानि) |
-| **idam** (dieses) | sg. | **imam / enam** (इमम् & एनम्) | **imām / enām** (इमाम् / एनाम्र) | **idam / enad** (इदम् / एनद्) |
-| | pl. | **imān / enān** (इमान् / एनान्) | **imās / enās** (इमास् / एनास्) | **imāni / enāni** (इमानि / एनानि) |
+| **kim**[[br]]wer/was | sg. | **kam**[[br]]कम् | **kām**[[br]]काम् | **kim**[[br]]किम् |
+| | pl. | **kān**[[br]]कान् | **kās**[[br]]कास् | **kāni**[[br]]कानि |
+| **tad**[[br]]er/es/jenes | sg. | **tam**[[br]]तम् | **tām**[[br]]ताम् | **tad**[[br]]तद् |
+| | pl. | **tān**[[br]]तान् | **tās**[[br]]तास् | **tāni**[[br]]तानि |
+| **etad**[[br]]dieses hier | sg. | **etam / enam**[[br]]एतम् / एनम् | **etām / enām**[[br]]एताम् / एनाम् | **etad / enad**[[br]]एतद् / एनद् |
+| | pl. | **etān / enān**[[br]]एतान् / एनान् | **etās / enās**[[br]]एतास् / एनास् | **etāni / enāni**[[br]]एतानि / एनानि |
+| **idam**[[br]]dieses | sg. | **imam / enam**[[br]]इमम् / एनम् | **imām / enām**[[br]]इमाम् / एनाम् | **idam / enad**[[br]]इदम् / एनद् |
+| | pl. | **imān / enān**[[br]]इमान् / एनान् | **imās / enās**[[br]]इमास् / एनास् | **imāni / enāni**[[br]]इमानि / एनानि |
 :::
 
 Die Formen **enam** (एनम्) usw. gehören zum Stamm **enad** (एनद्), der nur in einigen Kasus Formen bildet. Diese werden statt der Formen von **etad** und **idam** dann verwendet, wenn das damit Bezeichnete im Vorhergehenden bereits erwähnt wurde.
@@ -209,12 +209,12 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 
 **Beispiele:**
 
-| Wurzel | Starker Stamm | Schwacher Stamm | Vor Vokal (schwach) |
+| Wurzel[[br]]धातु | Starker Stamm | Schwacher Stamm | Vor Vokal[[br]](schwach) |
 | :--- | :--- | :--- | :--- |
-| **āp** 5 P (आप्) "erreichen" | **āp-no** (3.sg. āpnoti = आप्नोति) | **āp-nu** | **āp-nuv** (3.pl. āpnuvanti = आप्नुवन्ति) |
-| **aś** 5 Ā (अश्) "erreichen" | — | **aś-nu** (3.sg. aśnute = अश्नुते) | **aś-nuv** (3.pl. aśnuvate = अश्नुवते) |
-| **su** 5 U (सु) "auspressen" | **su-no** (3.sg. sunoti = सुनोति) | **su-nu** (3.sg. sunute = सुनुते) | **su-nv** (3.pl. sunvanti = सुन्वन्ति, 3.pl. sunvate = सुन्वते) |
-| **śru** 5 P (श्रु) "hören" | **śṛ-ṇo** (3.sg. śṛṇoti = शृणोति) | **śṛ-ṇu** | **śṛ-ṇv** (3.pl. śṛṇvanti = शृण्वन्ति) |
+| **āp**[[br]]5 P[[br]]आप्[[br]]"erreichen" | **āp-no**[[br]](3.sg. āpnoti = आप्नोति) | **āp-nu** | **āp-nuv**[[br]](3.pl. āpnuvanti = आप्नुवन्ति) |
+| **aś**[[br]]5 Ā[[br]]अश्[[br]]"erreichen" | — | **aś-nu**[[br]](3.sg. aśnute = अश्नुते) | **aś-nuv**[[br]](3.pl. aśnuvate = अश्नुवते) |
+| **su**[[br]]5 U[[br]]सु[[br]]"auspressen" | **su-no**[[br]](3.sg. sunoti = सुनोति) | **su-nu**[[br]](3.sg. sunute = सुनुते) | **su-nv**[[br]](3.pl. sunvanti = सुन्वन्ति,[[br]]3.pl. sunvate = सुन्वते) |
+| **śru**[[br]]5 P[[br]]श्रु[[br]]"hören" | **śṛ-ṇo**[[br]](3.sg. śṛṇoti = शृणोति) | **śṛ-ṇu** | **śṛ-ṇv**[[br]](3.pl. śṛṇvanti = शृण्वन्ति) |
 
 ---
 
@@ -228,7 +228,7 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 - **krudh** 4 P (krudhyati) क्रुध् क्रुध्यति : zürnen
 - **khād** 1 P (khādati) खाद् खादति : kauen, essen
 - **śru** 5 P (śṛṇoti !) श्रु शृणोति : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
-- **su** 5 U (sunoti) सु सुनोti : auspressen
+- **su** 5 U (sunoti) सु सुनोति : auspressen
 - **soma** m. सोम : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
 - **phala** n. फल : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
 - **nṛtya** n. नृत्य : Tanz

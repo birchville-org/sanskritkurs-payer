@@ -87,26 +87,14 @@ Die Ersetzung vor anderen Konsonanten wird später besprochen. Vermeiden Sie vor
 Mittels dieser Pronomina bildet man z.B. folgende Frageformeln:
 
 ::: grammar-box
-| | | | |
+| Numerus | Genus | Frageformeln | Übersetzung |
 | :--- | :--- | :--- | :--- |
-| **Singular** | **Neutrum** | tat kim? / kiṃ tat?[[br]]तत्किम्, किं तत् | "Was ist das?" |
-| | | etat kim? / kim etat?[[br]]एतत्किम्, किमेतत् | "Was ist das?" |
-| | | idaṃ kim? / kim idam[[br]]इदं किम्, किमिदम् | "Was ist das?" |
-| | **Maskulinum** | sa kaḥ? / kaḥ saḥ?[[br]]स कः, कः सः | "Wer ist das?"[[br]]"Was ist der?" |
-| | | eṣa kaḥ? / ka eṣaḥ[[br]]एष कः, क एषः | "Wer ist das?"[[br]]"Was ist der?" |
-| | | ayaṃ kaḥ? / ko 'yam?[[br]]अयं कः, को ऽयम् | "Wer ist das?"[[br]]"Was ist der?" |
-| | **Femininum** | sā kā? / kā sā?[[br]]सा का, का सा | "Wer ist das?"[[br]]"Wer ist die?" |
-| | | eṣā kā? / kaiṣā? (= kā + eṣā)[[br]]एषा का, कैषा | "Wer ist das?"[[br]]"Wer ist die?" |
-| | | iyaṃ kā? / keyam? (= kā + iyam)[[br]]इयं का, केयम् | "Wer ist das?"[[br]]"Wer ist die?" |
-| **Plural** | **Neutrum** | tāni kāni? / kāni tāni?[[br]]तानि कानि, कानि तानि | |
-| | | etāni kāni? / kāny etāni?[[br]]एतानि कानि, कान्येतानि | |
-| | | imāni kāni? / kānīmāni? (= kāni + imāni)[[br]]इमानि कानि, कानीमानि | |
-| | **Maskulinum** | te ke? / ke te?[[br]]ते के, के ते | |
-| | | ete ke? / ka ete?[[br]]एते के, क एते | |
-| | | ime ke? / ka ime?[[br]]इमे के, क इमे | |
-| | **Femininum** | tāḥ kāḥ? / kās tāḥ?[[br]]ताः काः, कास्ताः | |
-| | | etāḥ kāḥ? / kā etāḥ?[[br]]एताः काः, का एताः | |
-| | | imāḥ kāḥ? / kā imāḥ?[[br]]इमाः काः, का इमाः | |
+| **Singular** | **Neutrum** | tat kim? / kiṃ tat?[[br]]तत्किम्, किं तत्[[br]][[br]]etat kim? / kim etat?[[br]]एतत्किम्, किमेतत्[[br]][[br]]idaṃ kim? / kim idam[[br]]इदं किम्, किमिदम् | "Was ist das?" |
+| | **Maskulinum** | sa kaḥ? / kaḥ saḥ?[[br]]स कः, कः सः[[br]][[br]]eṣa kaḥ? / ka eṣaḥ[[br]]एष कः, क एषः[[br]][[br]]ayaṃ kaḥ? / ko 'yam?[[br]]अयं कः, को ऽयम् | "Wer ist das?"[[br]]"Was ist der?" |
+| | **Femininum** | sā kā? / kā sā?[[br]]सा का, का सा[[br]][[br]]eṣā kā? / kaiṣā? (= kā + eṣā)[[br]]एषा का, कैषा[[br]][[br]]iyaṃ kā? / keyam? (= kā + iyam)[[br]]इयं का, केयम् | "Wer ist das?"[[br]]"Wer ist die?" |
+| **Plural** | **Neutrum** | tāni kāni? / kāni tāni?[[br]]तानि कानि, कानि तानि[[br]][[br]]etāni kāni? / kāny etāni?[[br]]एतानि कानि, कान्येतानि[[br]][[br]]imāni kāni? / kānīmāni? (= kāni + imāni)[[br]]इमानि कानि, कानीमानि | |
+| | **Maskulinum** | te ke? / ke te?[[br]]ते के, के ते[[br]][[br]]ete ke? / ka ete?[[br]]एते के, क एते[[br]][[br]]ime ke? / ka ime?[[br]]इमे के, क इमे | |
+| | **Femininum** | tāḥ kāḥ? / kās tāḥ?[[br]]ताः काः, कास्ताः[[br]][[br]]etāḥ kāḥ? / kā etāḥ?[[br]]एताः काः, का एताः[[br]][[br]]imāḥ kāḥ? / kā imāḥ?[[br]]इमाः काः, का इमाः | |
 :::
 
 Ein Beispiel anderer Fragen:
