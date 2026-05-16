@@ -17,7 +17,7 @@ Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstel
 
 1\. Der Agens (कर्तृ) des Satzes wird durch einen Relativsatz näher bestimmt:
 
-> यो नरः पुण्यं करोति स स्वर्गं गच्छति =  यो नरः पुन्यं करोति तेन स्वर्गं गम्यते = येन नरेण पुण्यम् क्रियते तेन स्वर्गं गम्यते u.s.w. = "Ein Mann, der Verdienstvolles tut, kommt in den Himmel."
+> यो नरः पुण्यं करोति स स्वर्गं गच्छति =  यो नरः पुण्यं करोति तेन स्वर्गं गम्यते = येन नरेण पुण्यम् क्रियते तेन स्वर्गं गम्यते u.s.w. = "Ein Mann, der Verdienstvolles tut, kommt in den Himmel."
 
 2\. Das direkte Objekt (कर्म) des Hauptsatzes wird durch den Relativsatz näher bestimmt:
 
@@ -41,7 +41,27 @@ Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstel
 
 ## 19.2. Das Relativpronomen = व्यपेक्षकसर्वनाम n.
 
-**यद् "welcher, welche, welches" dekliniert wie तद्, aber mit regelmäßigem Sandhi.**  Maskulinum पुंस्Neutrum नपुंसकFemininum स्त्री**Singular एकवचन****1. Nominativ प्रथमा**यस्यद्या **2. Akkusativ द्विती्या**यम्यद्याम् **3. Instrumentalis तृतीया**येनयेनयया **6. Genetiv षष्ठी**यस्ययस्ययस्यास्**Plural बहुवचन****1. Nominativ प्रथमा**येयानियास् **2. Akkusativ द्वितीया**यान्यानियास् **3. Instrumentalis तृतीया**यैस्यैस्याभिस् **6. Genetiv षष्ठी**येषाम्येषाम्यासाम्**Als Vorderglied von Kompisita erscheint der Stamm यद् (unter Beachtung des Sandhi).**
+**यद् "welcher, welche, welches" dekliniert wie तद्, aber mit regelmäßigem Sandhi.**
+
+:::: grammar-box
+
+| Singular[[br]]एकवचनम् | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री |
+| :--- | :--- | :--- | :--- |
+| **1. Nominativ**[[br]]प्रथमा | **yaḥ**[[br]]यः | **yat**[[br]]यत् | **yā**[[br]]या |
+| **2. Akkusativ**[[br]]द्वितीया | **yam**[[br]]यम् | **yat**[[br]]यत् | **yām**[[br]]याम् |
+| **3. Instrumentalis**[[br]]तृतीया | **yena**[[br]]येन | **yena**[[br]]येन | **yayā**[[br]]यया |
+| **6. Genetiv**[[br]]षष्ठी | **yasya**[[br]]यस्य | **yasya**[[br]]यस्य | **yasyāḥ**[[br]]यस्याः |
+
+| Plural[[br]]बहुवचनम् | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री |
+| :--- | :--- | :--- | :--- |
+| **1. Nominativ**[[br]]प्रथमा | **ye**[[br]]ये | **yāni**[[br]]यानि | **yāḥ**[[br]]याः |
+| **2. Akkusativ**[[br]]द्वितीया | **yān**[[br]]यान् | **yāni**[[br]]यानि | **yāḥ**[[br]]याः |
+| **3. Instrumentalis**[[br]]तृतीया | **yaiḥ**[[br]]यैः | **yaiḥ**[[br]]यैः | **yābhiḥ**[[br]]याभिः |
+| **6. Genetiv**[[br]]षष्ठी | **yeṣām**[[br]]येषाम् | **yeṣām**[[br]]येषाम् | **yāsām**[[br]]यासाम् |
+
+::::
+
+**Als Vorderglied von Komposita erscheint der Stamm यद् (unter Beachtung des Sandhi).**
 
 ## 19.3. Wortliste
 
@@ -97,7 +117,7 @@ davon:
 
 वह् 1 U वहति Pass. उह्यते PPP ऊढ : führen, fahren (trans.)
 
-छत्त्र् n.: Sonnenschirm, Schirm
+छत्त्र n.: Sonnenschirm, Schirm
 
 ![](/images/lekt1904.jpg)  
 Abb.: छत्त्रम्
@@ -109,7 +129,7 @@ Abb.: छत्त्रम्
 पण्डित m.: Gelehrter, Weiser ; 3: klug, bewandert (in)
 
 ![](/images/lekt1903.jpg)  
-Abb.:  पण्डीतः जवाहरलाल नेहरू, १९५९  
+Abb.:  पण्डितः जवाहरलाल नेहरू, १९५९  
 \[Bildquelle: Wikipedia, Public domain\]
 
 सेव् 1 Ā सेवते Pass. सेव्यते PPP सेवित : wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
@@ -146,7 +166,7 @@ Abb.:  पण्डीतः जवाहरलाल नेहरू, १९�
 
 4\. Feuer verbrennt das Haus des Mannes, der Agni nicht mit einem Opfer verehrt.
 
-5\. Der tigergleiche Mann erschlägt die Kṣatriya-Krieger, die Rāma besieget haben (Passiv).
+5\. Der tigergleiche Mann erschlägt die Kṣatriya-Krieger, die Rāma besiegt haben (Passiv).
 
 ## ५. सुभाषितानि
 
@@ -164,7 +184,7 @@ Erklärung: वारि Nom., Akk. sg. zu वारि n.: Wasser
 धर्मार्थकामसंयोगं  
 सो ऽमुत्रेह च विन्दति ॥२॥
 
-Erklärung: यथाकालम्  Avyayībhavakompositum: zur rechten Zeit ; immer, wenn dafür der rechte Zeitpunkt vorliegt.
+Erklärung: यथाकालम्  Avyayībhāvakompositum: zur rechten Zeit ; immer, wenn dafür der rechte Zeitpunkt vorliegt.
 
 सा भार्या या प्रियं ब्रूते  
 स पुत्रो यस्तु जीवति ।  
