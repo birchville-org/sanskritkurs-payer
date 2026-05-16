@@ -121,3 +121,14 @@ Plans:
 | 12 | v1.2 | 4/4 | Complete | 2026-04-26 |
 | 13 | v1.2 | 1/1 | Complete | 2026-05-08 |
 | 14 | v1.2 | 0/3 | Planned | - |
+
+### Phase ${NEXT}: ${DESCRIPTION} (BACKLOG)
+
+**Goal:** Develop or extend a Neovim plugin (Lua) to support the 'Winning Formula' for complex Sanskrit paradigms, including auto-alignment for || (colspan) and ^^ (rowspan) markers.
+**Requirements:** TBD
+**Plans:** 0 plans
+
+Plans:
+- [ ] Research existing table plugins (e.g., table-next.nvim) for extension points.
+- [ ] Implement grid-aware alignment logic in Lua.
+- [ ] (promote with /gsd-review-backlog when ready)
