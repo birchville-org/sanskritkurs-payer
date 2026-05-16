@@ -11,30 +11,21 @@ Jetzt erkennen Sie den Grund für die Reihenfolge der Kasus (विभक्त�
 
 Ablativ Singular der Maskulina / Neutra auf -a
 
-दव Abl. sg. देवात्
+देव Abl. sg. देवात्
 
 Frage-, Relativ- und Demonstrativpronomina:
 
-|   | Ablativ Singular  
-Maskulinum / Neutrum | Ablativ Singular  
-Femininum |
-| --- | --- | --- |
-| 
-किम्
+:::: grammar-box
 
- | 
+| | Ablativ Singular[[br]]Maskulinum / Neutrum | Ablativ Singular[[br]]Femininum |
+| :--- | :--- | :--- |
+| **kim**[[br]](किम्) | **kasmāt**[[br]](कस्मात्) | **kasyāḥ**[[br]](कस्याः) |
+| **yad**[[br]](यद्) | **yasmāt**[[br]](यस्मात्) | **yasyāḥ**[[br]](यस्याः) |
+| **tad**[[br]](तद्) | **tasmāt**[[br]](तस्मात्) | **tasyāḥ**[[br]](तस्याः) |
+| **etad**[[br]](एतद्) | **etasmāt**[[br]](एतस्मात्) | **etasyāḥ**[[br]](एतस्याः) |
+| **idam**[[br]](इदम्) | **asmāt**[[br]](अस्मात्) | **asyāḥ**[[br]](अस्याः) |
 
-कस्मात्
-
- | 
-
-कस्यास्
-
- |
-| यद् | यस्मात् | यस्यास् |
-| तद् | तस्मात् | तस्यास् |
-| एतद् | एतस्मात् | एतस्यास् |
-| इदम् | अस्मात् | अस्यास् |
+::::
 
 ## 25.2. Gebrauch des Ablativ (पञ्चमी)
 
@@ -78,7 +69,7 @@ Beispiele:
 > 
 > पापकरणान्नरकं गच्छति = "Weil er Böses tut / tat, kommt er in die Hölle"
 
-Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (तृतीया) oder Ablativ (पञ्जमी) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen.
+Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (तृतीया) oder Ablativ (पञ्चमी) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen.
 
 ## 25.3. Das Suffix -तस्
 
@@ -114,7 +105,7 @@ Formen des Relativpronomens, die als kausale Konjunktion dienen:
 
 Beispiel:
 
-> यतो (यस्माद् / येन) धममिच्छति \[ततो (तस्माद् / तेन)\] रामो व्रतं चरति = "Weil Rāma Wohlstand wünscht, praktiziert er das Gelübde"
+> यतो (यस्माद् / येन) धर्ममिच्छति \[ततो (तस्माद् / तेन)\] रामो व्रतं चरति = "Weil Rāma Wohlstand wünscht, praktiziert er das Gelübde"
 
 2\. हि
 
@@ -152,7 +143,7 @@ Beispiel:
 
 Beispiel:
 
-> सत्यसंबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति  = "Weil der Sugata vollkommen zur Wahrheit erwacht ist, fragt Ānanda den Gautama nach seiner Lehre" (« "Denkend "Der Sugata ist vollkommen zur Wahrheit erwacht" ...)
+> सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति  = "Weil der Sugata vollkommen zur Wahrheit erwacht ist, fragt Ānanda den Gautama nach seiner Lehre" (« "Denkend "Der Sugata ist vollkommen zur Wahrheit erwacht" ...)
 
 ## 25.5. Wortliste
 
@@ -329,7 +320,7 @@ Abb.: हिरण्यम्
 Chennai = சென்னை  
 \[Bildquelle: Dilip Muralidaran. -- [http://www.flickr.com/photos/dilipm/2423883232/](http://www.flickr.com/photos/dilipm/2423883232/). -- Zugriff am 2008-12-15. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
 
-अणु ३ : dünn, fein, dehr klein ; m.: Atom
+अणु ३ : dünn, fein, sehr klein ; m.: Atom
 
 गोदान n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein संस्कार)
 
@@ -415,11 +406,11 @@ Abb.: लोकादधिको हरिः
 
 1\. कौटिलीयार्थशास्त्र १.४.१. über den Nutzen der Ökonomie:
 
-वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी ॥
+वार्त्ता धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी ॥
 
 2\. कौटिलीयार्थशास्त्र १.५. über die Ausbildung eines Fürsten:
 
-तस्माद्दण्डमूलास्तिस्रो विद्याः ॥१॥ विनयमूलो दण्डः प्राणभृतां योगक्षेमावहः ॥२॥ कृतकः स्वभाविकश्च विनयः ॥३॥ क्रिया हि द्रव्यं विनयति नाद्रव्यम् ॥४॥ शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं विद्या विनयति नेतरम् ॥५॥ ... ॥ वृत्तचौलकर्मा लिपिं संख्यानं चोपयुन्ञ्जीत ॥७॥ वृत्तोपनयस्त्रयीमान्वीक्षिकीं च शिष्टेभ्यो वार्त्तामध्यक्षेभ्यो दण्डनीतिं वक्तृप्रयोक्तृभ्यः ॥८॥ ब्रह्मचर्यं चा षोडशाद्वर्षाद् ॥९॥ अतो गोदानं दारकर्म चास्य ॥१०॥ नित्यश्च विद्यावृद्धसंयोगो विनयवृद्ध्यर्थम्, तन्मूलत्वाद्विनयस्य ॥११॥ ... ॥ श्रुताद्धि प्रज्ञोपजायते प्रज्ञाया योगो योगादात्मवत्तेति विद्यानां सामर्थ्यम् ॥१६॥ ... ॥ विद्याविनयहेतुरिन्द्रियजयः कामक्रोधलोभमानमदहर्षत्यागात्कार्यः ॥१.६.१.॥
+तस्माद्दण्डमूलास्तिस्रो विद्याः ॥१॥ विनयमूलो दण्डः प्राणभृतां योगक्षेमावहः ॥२॥ कृतकः स्वाभाविकश्च विनयः ॥३॥ क्रिया हि द्रव्यं विनयति नाद्रव्यम् ॥४॥ शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं विद्या विनयति नेतरम् ॥५॥ ... ॥ वृत्तचौलकर्मा लिपिं संख्यानं चोपयुन्ञ्जीत ॥७॥ वृत्तोपनयस्त्रयीमान्वीक्षिकीं च शिष्टेभ्यो वार्त्तामध्यक्षेभ्यो दण्डनीतिं वक्तृप्रयोक्तृभ्यः ॥८॥ ब्रह्मचर्यं चा षोडशाद्वर्षाद् ॥९॥ अतो गोदानं दारकर्म चास्य ॥१०॥ नित्यश्च विद्यावृद्धसंयोगो विनयवृद्ध्यर्थम्, तन्मूलत्वाद्विनयस्य ॥११॥ ... ॥ श्रुताद्धि प्रज्ञोपजायते प्रज्ञाया योगो योगादात्मवत्तेति विद्यानां सामर्थ्यम् ॥१६॥ ... ॥ विद्याविनयहेतुरिन्द्रियजयः कामक्रोधलोभमानमदहर्षत्यागात्कार्यः ॥१.६.१.॥
 
 Erklärung der im obigen Text rot hervorgehobenen Wörter:
 
