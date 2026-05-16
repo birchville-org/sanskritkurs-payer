@@ -62,7 +62,7 @@ Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**.
 - **Maskulina auf -a**: **deva- + -as** » **devās** = देवास्
 - **Feminina auf -ā**: **devatā- + -as** » **devatās** = देवतास्
 - **Maskulina auf -i**: **kavi-** » **kave- + -as** » **kavayas** = कवयस्
-- **Feminina auf -i**: **śruti-** » **śrute- + -as** » **śrutayas** = श्रutayas
+- **Feminina auf -i**: **śruti-** » **śrute- + -as** » **śrutayas** = श्रुतयस्
 - **Feminina auf -ī**: **devī- + -as** » **devyas** = देव्यस्
 - **Maskulina auf -u**: **guru-** » **guro- + -as** » **guravas** = गुरवस्
 - **Feminina auf -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्

@@ -23,32 +23,32 @@ last_reconstructed: 2026-05-07
 ::: grammar-box
 | | Nominativ Singular | Nominativ Plural |
 | :--- | :--- | :--- |
-| **Neutrum** | **kim** = किम् | **kāni** = कानि |
-| **Maskulinum** | **kas** = कस् | **ke** = के |
-| **Femininum** | **kā** = का | **kās** = कास् |
+| **Neutrum** | **kim**[[br]]किम् | **kāni**[[br]]कानि |
+| **Maskulinum** | **kas**[[br]]कस् | **ke**[[br]]के |
+| **Femininum** | **kā**[[br]]का | **kās**[[br]]कास् |
 :::
 
 #### 4.1.1.2. Demonstrativpronomina (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि)
 
 ::: grammar-box
 **Stämme:**
-- **tad** = तद् "er, sie, es; der, die, das" (Erwähnte)
-- **etad** = एतद् "dieser, diese, dieses" (dem Sprechenden sehr nahe)
-- **idam** = इदम् "dieser, diese, dieses" (nahe)
+- **tad**[[br]]तद् "er, sie, es; der, die, das" (Erwähnte)
+- **etad**[[br]]एतद् "dieser, diese, dieses" (dem Sprechenden sehr nahe)
+- **idam**[[br]]इदम् "dieser, diese, dieses" (nahe)
 
 **Nominativ Singular:**
 | | tad | etad | idam |
 | :--- | :--- | :--- | :--- |
-| **Neutrum** | **tad** = तद् | **etad** = एतद् | **idam** = इदम् |
-| **Maskulinum** | **sa, so saḥ** = स सो सः | **eṣa, eṣo, eṣaḥ** = एष एषो एषः | **ayam** = अयम् |
-| **Femininum** | **sā** = सा | **eṣā** = एषा | **iyam** = इयम् |
+| **Neutrum** | **tad**[[br]]तद् | **etad**[[br]]एतद् | **idam**[[br]]इदम् |
+| **Maskulinum** | **sa, so saḥ**[[br]]स सो सः | **eṣa, eṣo, eṣaḥ**[[br]]एष एषो एषः | **ayam**[[br]]अयम् |
+| **Femininum** | **sā**[[br]]सा | **eṣā**[[br]]एषा | **iyam**[[br]]इयम् |
 
 **Nominativ Plural:**
 | | tad | etad | idam |
 | :--- | :--- | :--- | :--- |
-| **Neutrum** | **tāni** = तानि | **etāni** = एतानि | **imāni** = इमानi |
-| **Maskulinum** | **te** = ते | **ete** = एते | **ime** = इमे |
-| **Femininum** | **tās** = तास् | **etās** = एतास् | **imās** = इमास् |
+| **Neutrum** | **tāni**[[br]]तानि | **etāni**[[br]]एतानि | **imāni**[[br]]इमानि |
+| **Maskulinum** | **te**[[br]]ते | **ete**[[br]]एते | **ime**[[br]]इमे |
+| **Femininum** | **tās**[[br]]तास् | **etās**[[br]]एतास् | **imās**[[br]]इमास् |
 :::
 
 **Zum Nom. sg. mask.:**
@@ -87,27 +87,26 @@ Die Ersetzung vor anderen Konsonanten wird später besprochen. Vermeiden Sie vor
 Mittels dieser Pronomina bildet man z.B. folgende Frageformeln:
 
 ::: grammar-box
-**Singular:**
-- **Neutrum**: tat kim? / kiṃ tat? = तत्किम्, किं तत् | "Was ist das?"
-- **Neutrum**: etat kim? / kim etat? = एतत्किम्, किमेतत् | "Was ist das?"
-- **Neutrum**: idaṃ kim? / kim idam = इदं किम्, किमिदम् | "Was ist das?"
-- **Maskulinum**: sa kaḥ? / kaḥ saḥ? = स कः, कः सः | "Wer ist das?" / "Was ist der?"
-- **Maskulinum**: eṣa kaḥ? / ka eṣaḥ = एष कः, क एषः | "Wer ist das?" / "Was ist der?"
-- **Maskulinum**: ayaṃ kaḥ? / ko 'yam? = अयं कः, को ऽयम् | "Wer ist das?" / "Was ist der?"
-- **Femininum**: sā kā? / kā sā? = सा का, का सा | "Wer ist das?" / "Wer ist die?"
-- **Femininum**: eṣā kā? / kaiṣā? (= kā + eṣā) = एषा का, कैषा | "Wer ist das?" / "Wer ist die?"
-- **Femininum**: iyaṃ kā? / keyam? (= kā + iyam) = इयं का, केयम् | "Wer ist das?" / "Wer ist die?"
-
-**Plural:**
-- **Neutrum**: tāni kāni? / kāni tāni? = तानि कानि, कानि तानि
-- **Neutrum**: etāni kāni? / kāny etāni? = एतानि कानि, कान्येतानि
-- **Neutrum**: imāni kāni? / kānīmāni? (= kāni + imāni) = इमानि कानि, कानीमानि
-- **Maskulinum**: te ke? / ke te? = ते के, के ते
-- **Maskulinum**: ete ke? / ka ete? = एते के, क एते
-- **Maskulinum**: ime ke? / ka ime? = इमे के, क इमे
-- **Femininum**: tāḥ kāḥ? / kās tāḥ? = ताः काः, कास्ताः
-- **Femininum**: etāḥ kāḥ? / kā etāḥ? = एताः काः, का एताः
-- **Femininum**: imāḥ kāḥ? / kā imāḥ? = इमाः काः, का इमाः
+| | | | |
+| :--- | :--- | :--- | :--- |
+| **Singular** | **Neutrum** | tat kim? / kiṃ tat?[[br]]तत्किम्, किं तत् | "Was ist das?" |
+| | | etat kim? / kim etat?[[br]]एतत्किम्, किमेतत् | "Was ist das?" |
+| | | idaṃ kim? / kim idam[[br]]इदं किम्, किमिदम् | "Was ist das?" |
+| | **Maskulinum** | sa kaḥ? / kaḥ saḥ?[[br]]स कः, कः सः | "Wer ist das?"[[br]]"Was ist der?" |
+| | | eṣa kaḥ? / ka eṣaḥ[[br]]एष कः, क एषः | "Wer ist das?"[[br]]"Was ist der?" |
+| | | ayaṃ kaḥ? / ko 'yam?[[br]]अयं कः, को ऽयम् | "Wer ist das?"[[br]]"Was ist der?" |
+| | **Femininum** | sā kā? / kā sā?[[br]]सा का, का सा | "Wer ist das?"[[br]]"Wer ist die?" |
+| | | eṣā kā? / kaiṣā? (= kā + eṣā)[[br]]एषा का, कैषा | "Wer ist das?"[[br]]"Wer ist die?" |
+| | | iyaṃ kā? / keyam? (= kā + iyam)[[br]]इयं का, केयम् | "Wer ist das?"[[br]]"Wer ist die?" |
+| **Plural** | **Neutrum** | tāni kāni? / kāni tāni?[[br]]तानि कानि, कानि तानि | |
+| | | etāni kāni? / kāny etāni?[[br]]एतानि कानि, कान्येतानि | |
+| | | imāni kāni? / kānīmāni? (= kāni + imāni)[[br]]इमानि कानि, कानीमानि | |
+| | **Maskulinum** | te ke? / ke te?[[br]]ते के, के ते | |
+| | | ete ke? / ka ete?[[br]]एते के, क एते | |
+| | | ime ke? / ka ime?[[br]]इमे के, क इमे | |
+| | **Femininum** | tāḥ kāḥ? / kās tāḥ?[[br]]ताः काः, कास्ताः | |
+| | | etāḥ kāḥ? / kā etāḥ?[[br]]एताः काः, का एताः | |
+| | | imāḥ kāḥ? / kā imāḥ?[[br]]इमाः काः, का इमाः | |
 :::
 
 Ein Beispiel anderer Fragen:

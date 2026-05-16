@@ -28,7 +28,7 @@ Die wichtigsten Bildungsformen von Komposita sind:
 
 ## 5.2. Zur Sanskrit-Terminologie für Komposita
 
-- **ghaṭakapadāni** n. pl. = घटकपदानi : Glieder eines Kompositums
+- **ghaṭakapadāni** n. pl. = घटकपदानि : Glieder eines Kompositums
 - **vigrahavākyam** n. = विग्रहवाक्यम् : Auflösung eines Kompositums
 - **nityasamāsaḥ** m. = नित्यसमासः : Kompositum, für das es kein vigrahavākya gibt oder dessen vigrahavākya nicht möglich ist mit den Wörtern des Kompositums.
 - **aluksamāsaḥ** m. = अलुक्समासः : Kompositum, in dem das Vorderglied eine Kasusendung behält
@@ -98,7 +98,7 @@ Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen könne
 
 **Lernen Sie folgende Wörter:**
 
-**abhiniveśa** m. = अभिनिवेष : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes.
+**abhiniveṣa** m. = अभिनिवेष : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes.
 
 **kāma** m. = काम : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma.
 
