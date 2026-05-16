@@ -8,22 +8,22 @@ lesson_id: 53
 ## 53.1. Der Dual (द्विवचन n.) der Nomina
 
 ::: grammar-box
-Der Dual (द्विवचनम्) wird verwendet, um "zwei" zu bezeichnen:
+**Der Dual (द्विवचनम्) wird verwendet, um "zwei" zu bezeichnen:**
 
-> अश्विनौ "die beiden Aśvin"
+> **अश्विनौ** "die beiden Aśvin"
 
-Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:
+**Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:**
 
-> हस्तौ "die Hände (eines Individuums)"  
-> पादौ "die Füße (eines Menschen, Affen oder sonstigen Zweifüßers)"
+> **हस्तौ** "die Hände (eines Individuums)"  
+> **पादौ** "die Füße (eines Menschen, Affen oder sonstigen Zweifüßers)"
 
-Manchmal bezeichnet der Dual ein männliches plus ein weibliches Exemplar derselben Klasse (Art, Gattung):
+**Manchmal bezeichnet der Dual ein männliches plus ein weibliches Exemplar derselben Klasse (Art, Gattung):**
 
-> पितरौ "Vater und Mutter = Eltern"
+> **पितरौ** "Vater und Mutter = Eltern"
 
-Wörter, die "ein Paar" bedeuten - z.B. युग n., द्वन्द्व n., द्वय n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:
+**Wörter, die "ein Paar" bedeuten - z.B. युग n., द्वन्द्व n., द्वय n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:**
 
-> बाहुद्वयम् "ein Paar Arme"
+> **बाहुद्वयम्** "ein Paar Arme"
 :::
 
 ::: media
@@ -49,7 +49,7 @@ Abb.: हस्तौ
 :::
 
 ::: grammar-box
-Bei Nomina mit Stammabstufung haben der Nom.Akk.Vok.Dual m.f. den starken Stamm
+**Bei Nomina mit Stammabstufung haben der Nom.Akk.Vok.Dual m.f. den starken Stamm**
 :::
 
 ## 53.3. Der Dual konsonantisch auslautender Stämme
@@ -313,26 +313,28 @@ Abb.: धेनू
 
 Beispiele:
 
-> अर्थधर्मौ "Nutzen (अर्थ) und Dharma"  
-> युधिष्ठिरार्जुनौ "Yudhiṣṭhira und Arjuna"  
-> सुखदुःखे (neben: सुखदुःखम्) "Glück und Leid"  
-> शीतोष्णे "Kälte und Wärme"
+::: grammar-box
+> **अर्थधर्मौ** "Nutzen (अर्थ) und Dharma"  
+> **युधिष्ठिरार्जुनौ** "Yudhiṣṭhira und Arjuna"  
+> **सुखदुःखे** (neben: सुखदुःखम्) "Glück und Leid"  
+> **शीतोष्णे** "Kälte und Wärme"
+:::
 
 ::: grammar-box
-Werden zwei Verwandtschaftswörter auf -ṛ (oder zwei Substantive auf -ṛ, die Bezeichnungen für Opferpriester sind) zu einem Dvandva komponiert, so steht das erste Glied in der Form des Nominativ Singular:
+**Werden zwei Verwandtschaftswörter auf -ṛ (oder zwei Substantive auf -ṛ, die Bezeichnungen für Opferpriester sind) zu einem Dvandva komponiert, so steht das erste Glied in der Form des Nominativ Singular:**
 
-> मातापितरौ "Mutter und Vater"
+> **मातापितरौ** "Mutter und Vater"
 
-Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -पुत्र :
+**Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -पुत्र :**
 
-> पितापुत्रौ "Vater und Sohn"
+> **पितापुत्रौ** "Vater und Sohn"
 
-Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:
+**Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:**
 
-> मित्रावरुणौ "Mitra und Varuṇa"  
-> अग्नीसोमौ "Agni und Soma"
+> **मित्रावरुणौ** "Mitra und Varuṇa"  
+> **अग्नीसोमौ** "Agni und Soma"
 
-Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.
+**Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.**
 :::
 
 ::: media
@@ -388,16 +390,16 @@ Folgende Pronominaladjektive werden wie सर्व dekliniert. Im Abl.Lok.sg.m
 ## 53.8. Unregelmäßige Steigerung
 
 ::: grammar-box
-Eine Anzahl von Adjektiven bildet den Komparativ bzw. Superlativ mit folgenden कृत्-Suffixen (!):
+**Eine Anzahl von Adjektiven bildet den Komparativ bzw. Superlativ mit folgenden कृत्-Suffixen (!):**
 
 *   Komparativ: **-īyas**
 *   Superlativ: **-iṣṭha**
 
-Während die तद्धित-Suffixe -तर und -तम an den Maskulinstamm des Adjektivs treten, werden die Suffixe -ईयस् und -इष्ठ an die **Wurzel** angefügt, von der das Adjektiv abgeleitet ist (sofern es eine solche Wurzel gibt!). Der Wurzelvokal ist hochstufig.
+**Während die तद्धित-Suffixe -तर und -तम an den Maskulinstamm des Adjektivs treten, werden die Suffixe -ईयस् und -इष्ठ an die Wurzel angefügt, von der das Adjektiv abgeleitet ist (sofern es eine solche Wurzel gibt!). Der Wurzelvokal ist hochstufig.**
 
-Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.
+**Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.**
 
-Deklination von -īyas siehe unten.
+**Deklination von -īyas siehe unten.**
 :::
 
 Beispiele:
@@ -409,10 +411,10 @@ Beispiele:
 | स्था 1P "stehen" | स्थिर 3 "beständig, fest" | स्थेयस् 3 "fester" [[br]] स्थिरतर 3 | स्थेष्ठ 3 "am festesten" [[br]] स्थिरतम 3 |
 :::
 
-Besondere Regeln für die Anfügung dieser Suffixe:
+**Besondere Regeln für die Anfügung dieser Suffixe:**
 
 ::: grammar-box
-**Regel 1:** Der auslautende Vokal eines **mehrsilbigen** Maskulinstammes oder der auslautende Vokal und der vorausgehende Vokal fallen ab.
+**Regel 1:** **Der auslautende Vokal eines mehrsilbigen Maskulinstammes oder der auslautende Vokal und der vorausgehende Vokal fallen ab.**
 :::
 
 Beispiele:
@@ -425,7 +427,7 @@ Beispiele:
 :::
 
 ::: grammar-box
-**Regel 2:** **Possessivsuffixe** (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.
+**Regel 2:** **Possessivsuffixe (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.**
 :::
 
 Beispiele:
@@ -439,7 +441,7 @@ Beispiele:
 :::
 
 ::: grammar-box
-**Regel 3:** Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.
+**Regel 3:** **Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.**
 :::
 
 Beispiel:
@@ -450,7 +452,7 @@ Beispiel:
 | पृथु 3 "breit" | प्रथीयस् | प्रथिष्ठ |
 :::
 
-Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:
+**Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:**
 
 ::: grammar-box
 | Adjektiv | Komparativ | Superlativ |
@@ -477,7 +479,7 @@ Abb.: द्राघीयो लिङ्गम्
 (Bildquelle: [Details](/licenses#lekt5309))
 :::
 
-Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:
+**Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:**
 
 ::: grammar-box
 | (Adjektiv) | Komparativ | Superlativ |
@@ -493,22 +495,37 @@ Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grund
 ## 53.9. Deklination der Komparative auf -īyas
 
 ::: grammar-box
-Komparative auf -īyas bilden das Femininum auf -īyasī (Deklination wie देवी). Das maskulinum und Neutrum wird nach folgendem Paradigma dekliniert.
+**Komparative auf -īyas bilden das Femininum auf -īyasī (Deklination wie देवी). Das maskulinum und Neutrum wird nach folgendem Paradigma dekliniert.**
 :::
 
+
 ::: grammar-box
-|   | एकवचनम् || द्विवचनम् || बहुवचनम् ||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+|   | **एकवचनम्** || **द्विवचनम्** || **बहुवचनम्** ||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | **पुमान्** | **नपुंसकम्** | **पुमान्** | **नपुंसकम्** | **पुमान्** | **नपुंसकम्** |
 | **प्रथमा** | गरीयान् | गरीयस् | गरीयांसौ | गरीयसी | गरीयांसस् | गरीयांसि |
-| **द्वितीया** | गरीयांसम् | गरीयस् | गरीयांसौ | गरीयसी | गरीयसस् | गरीयांसि |
-| **तृतीया** | गरीयसा | | गरीयोभ्याम् | | गरीयोभिस् | |
-| **चतुर्थी** | गरीयसे | | गरीयोभ्याम् | | गरीयोभ्यस् | गरीयोभिस् |
-| **पञ्चमी** | गरीयसस् | | गरीयोभ्याम् | | गरीयोभ्यस् | |
-| **षष्ठी** | गरीयसस् | | गरीयसोस् | | गरीयसाम् | |
-| **सप्तमी** | गरीयसि | | गरीयसोस् | | गरीयस्सु [[br]] गरीयःसु | |
-| **आमन्त्रितम्** | गरीयान् | गरीयस् | गरीयांसौ | गरीयसी | गरीयांसस् | गरीयांसि |
+| **द्वितीया** | गरीयांसम् | ^^ | ^^ | ^^ | गरीयसस् | गरीयांसि |
+| **तृतीया** | गरीयसा | गरीयसा | गरीयोभ्याम् | गरीयोभ्याम् | गरीयोभिस् | गरीयोभिस् |
+| **चतुर्थी** | गरीयसे | गरीयसे | गरीयोभ्याम् | गरीयोभ्याम् | गरीयोभ्यस् | गरीयोभ्यस् |
+| **पञ्चमी** | गरीयसस् | गरीयसस् | गरीयोभ्याम् | गरीयोभ्याम् | गरीयोभ्यस् | गरीयोभ्यस् |
+| **षष्ठी** | गरीयसस् | गरीयसस् | गरीयसोस् | गरीयसोस् | गरीयसाम् | गरीयसाम् |
+| **सप्तमी** | गरीयसि | गरीयसि | गरीयसोस् | गरीयसोस् | गरीयस्सु | गरीयस्सु |
+| **आमन्त्रितम्** | **गरीयन्** | **गरीयस्** | **गरीयांसौ** | **गरीयसी** | **गरीयांसस्** | **गरीयांसि** |
 :::
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 53.10. Metrik (Lehre von den Versmaßen)
 
@@ -539,12 +556,12 @@ Abb.: हर्मन्-ओल्डन्बेर्ग्
 ### 53.10.2. Arten von Metren
 
 ::: grammar-box
-Die Inder unterscheiden:
+**Die Inder unterscheiden:**
 
 *   **वृत्त n.:** Metren, bei denen die Zahl der Silben (अक्षर) festgelegt ist
 *   **जाति f.:** Metren, bei denen die Summe der metrischen Längeneinheiten (मात्रा) (Moren) festgelegt ist (zu diesen später)
 
-Bei den Metren, bei denen die Zahl der Silben festgelegt ist (वृत्त) kann man zunächst weiter unterscheiden:
+**Bei den Metren, bei denen die Zahl der Silben festgelegt ist (वृत्त) kann man zunächst weiter unterscheiden:**
 
 *   Metren, bei denen die Zahl der Silben festgelegt ist, die Quantität dieser Silben aber nur teilweise
 *   Metren, bei denen die Zahl der Silben and deren Quantität festgelegt ist
@@ -570,12 +587,12 @@ Bei den Metren, bei denen die Zahl der Silben festgelegt ist (वृत्त) k
 :::
 
 ::: grammar-box
-Eine Silbe ist
+**Eine Silbe ist**
 
 *   entweder **लघु = leicht**
 *   oder **गुरु = schwer**
 
-**लघु = leicht** ist eine Silbe, wenn
+**लघु = leicht ist eine Silbe, wenn**
 
 *   ihr Vokal kurz ist und auf diesen Vokal
 *   kein Anusvāra,
@@ -584,12 +601,12 @@ Eine Silbe ist
 
 Kurze Vokale sind a, i, u, ṛ, ḷ
 
-Alle anderen Silben sind **गुरु = schwer**. Die letzte Silbe eines Versviertels (पाद) gilt immer als गुरु.
+**Alle anderen Silben sind गुरु = schwer. Die letzte Silbe eines Versviertels (पाद) gilt immer als गुरु.**
 
 In der metrischen Analyse bedeutet:
 
-*   **˘** = ल = लघु
-*   **¯** = ग = गुरु
+*   **◡** = ल = लघु
+*   **—** = ग = गुरु
 *   **×** = लघु oder गुरु
 *   **/** = Zäsur (Worttrennung)
 :::
@@ -601,8 +618,12 @@ Beispiel: भगवद्गीता १,१:
 
 Verteilung von लघु und गुरु :
 
-> ¯ ¯ ¯ ¯ ˘ ¯ ¯ ¯ / ˘ ˘ ¯ ¯ ˘ ¯ ˘ ¯  
-> ¯ ˘ ¯ ¯ ˘ ¯ ¯ ¯ / ˘ ˘ ¯ ˘ ˘ ¯ ˘ ¯
+::: metrik-schema
+— — — —   ◡ — — — / ◡ ◡ — —   ◡ — ◡ —
+:::
+::: metrik-schema
+— ◡ — —   ◡ — — — / ◡ ◡ — ◡   ◡ — ◡ —
+:::
 
 ### 53.10.4. Der epische Śloka (श्लोक m.)
 
@@ -621,31 +642,49 @@ Die siebte Silbe ist im zweiten und vierten Pāda kurz, lang in den beiden ander
 
 Das wichtigste Versmaß in den Epen (महाभारत, रामायण) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu श्रु "hören").
 
-::: grammar-box
-Der श्लोक ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (पाद) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (पद्य n.) besteht also aus vier पाद (m. "Fuß, Viertel"). Die vier पाद werden mit a, b, c, (क्, ख्, ग्, घ्) durchgezählt.
+:::: grammar-box
+**Der श्लोक ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (पाद) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (पद्य n.) besteht also aus vier पाद (m. "Fuß, Viertel"). Die vier पाद werden mit a, b, c, (क्, ख्, ग्, घ्) durchgezählt.**
 
-Aufbau des Śloka:
+**Aufbau des Śloka:**
 
 **Grundschema (पथ्या):**
 
-> **a = c:**   **×**   **×**   **×**   **×**   **˘**   **¯**   **¯**   **¯**  
->  
-> **b = d:**   **×**   **×**   **×**   **×**   **˘**   **¯**   **˘**   **¯**
+**a = c:**
+::: metrik-schema
+× × × ×   ◡ — — —
+:::
+
+**b = d:**
+::: metrik-schema
+× × × ×   ◡ — ◡ —
+:::
 
 Die zweite und dritte Silbe eines पाद sollten nicht zugleich लघु sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein.
 
 **Nebenschemata (विपुला) für a und c:**
 
-> **विपुला 1:**   **×**   **×**   **×**   **¯**   **˘**   **˘**   **˘**   **¯**  
->  
-> **विपुला 2:**   **×**   **¯**   **˘**   **¯**   **¯**   **˘**   **˘**   **¯**  
->  
-> **विपुला 3:**   **×**   **¯**   **˘**   **¯**   **¯**   **/**   **¯**   **¯**   **¯**  
->  
-> **विपुला 4:**   **×**   **×**   **×**   **×**   **/**   **¯**   **˘**   **¯**   **¯**
-
-Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. पाद : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.
+**विपुला 1:**
+::: metrik-schema
+× × × —   ◡ ◡ ◡ —
 :::
+
+**विपुला 2:**
+::: metrik-schema
+× — ◡ —   — ◡ ◡ —
+:::
+
+**विपुला 3:**
+::: metrik-schema
+× — ◡ —   — / — — —
+:::
+
+**विपुला 4:**
+::: metrik-schema
+× × × ×   / — ◡ — —
+:::
+
+**Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. पाद : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.**
+::::
 
 ## 53.11. Übung
 
@@ -654,7 +693,7 @@ Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. पाद : dort ist
 :::
 
 ::: deleteme-box
-### Quellen
+**Quellen**
 
 **Payer, Alois <1944 - >:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 

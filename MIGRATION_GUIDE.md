@@ -26,14 +26,20 @@ Das Design-System nutzt CSS-Klassen statt Borders. Folgende Zuordnungen sind ver
 | Violette / Wichtige Hinweise | `::: important` | Hervorhebung pädagogischer Schwerpunkte. |
 | Metadaten / Zitierweise | `::: deleteme-box` | Maschinenlesbar, aber im Frontend ausgeblendet. |
 
-## 3. Tabellen-Konventionen
+## 3. Tabellen-Konventionen: Die Grid-Integrität
 
 In Abweichung von einfachen Listen im Original sind für Grammatik-Inhalte **Markdown-Tabellen** zwingend erforderlich, wenn:
 - Lautgesetze (Sandhi) erklärt werden.
 - Verb-Paradigmen oder Stammbildungen gelistet werden.
 - Vergleiche zwischen verschiedenen Formen (z.B. aniṭ/seṭ) gezogen werden.
 
-**Regel**: Wenn das Original eine HTML-Tabelle nutzt, muss das MD eine Markdown-Tabelle nutzen. Eine Umwandlung in einfache Listen ist eine "unzulässige Verkürzung".
+**Die Goldene Regel**: Markdown-Tabellen in VitePress sind extrem sensibel. Für absolute Stabilität muss jede Zeile die **exakt gleiche Anzahl an Pipes (`|`)** aufweisen, unabhängig von Merges.
+
+### Technische Syntax (Winning Formula)
+- **Horizontale Merges (Colspan)**: Nutzen Sie `Text ||`, um eine Zelle mit der rechts daneben liegenden zu verschmelzen (Spannweite: 2 Spalten).
+- **Vertikale Merges (Rowspan)**: Nutzen Sie `^^`, um den Inhalt der darüber liegenden Zelle zu "ziehen" und vertikal zu zentrieren.
+- **Header-Definition**: Die erste Zeile (Header) definiert das Master-Grid. Alle Folgezeilen müssen gegen diese Spaltenanzahl validiert werden.
+- **Zero-Omission Alignment**: Wenn eine Zelle `||` oder `^^` nutzt, muss der restliche Inhalt der Zeile explizit in die verbleibenden Spalten gemappt werden, um ein "Abschneiden" (Truncation) am rechten Rand zu verhindern.
 
 ## 4. Nummerierung & Konsistenz
 

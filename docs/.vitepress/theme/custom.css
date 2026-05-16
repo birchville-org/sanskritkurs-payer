@@ -190,6 +190,13 @@ html {
   margin: 0;
 }
 
+/* Table-specific overrides for Sanskrit (Default to Scholastic Red unless specified) */
+.vp-doc table strong em .sanskrit-dev,
+.vp-doc table em strong .sanskrit-dev,
+.vp-doc table mark .sanskrit-dev {
+  color: #ff0000 !important; /* Hellrot highlight */
+}
+
 /* Custom Blocks (Grammar, Media, etc.) */
 .vp-doc .custom-block.grammar-box {
   background-color: #fefce8 !important; /* Light yellow parity with original */
@@ -199,16 +206,35 @@ html {
   padding: 1.25rem;
   border-radius: 0 8px 8px 0;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  font-size: 1.1rem !important; /* Standardize font size for the whole box */
+  color: var(--vp-c-text-1) !important; /* Use primary ink color */
 }
 
 .dark .vp-doc .custom-block.grammar-box {
   background-color: #241500 !important; /* Tertiary 'Burnt Umber' background */
   border-left-color: #eab308 !important;
-  color: rgba(252, 249, 242, 0.7) !important; /* Muted parchment text */
+  color: var(--vp-c-text-1) !important; /* Maintain readability in dark mode */
 }
 
 .vp-doc .custom-block.grammar-box .custom-block-title {
   display: none; /* We handle titles manually or leave them blank */
+}
+
+/* Suppress nested blockquote borders/backgrounds in grammar boxes for original parity */
+.vp-doc .grammar-box blockquote {
+  border-left: none !important;
+  background-color: transparent !important;
+  padding-left: 2rem !important;
+  margin: 0.5rem 0 !important;
+  font-size: 1em !important; /* Relative to the 1.1rem parent */
+  color: inherit !important;
+}
+
+.vp-doc .grammar-box blockquote p {
+  font-weight: 500;
+  font-size: 1em !important;
+  line-height: inherit !important;
+  color: inherit !important;
 }
 
 /* Media & Image Alignment */
@@ -360,6 +386,24 @@ html {
 /* Verstecke deleteme-box (Inhalt nur für Redaktion/QA relevant) */
 .vp-doc .custom-block.deleteme-box {
   display: none !important;
+}
+
+/* Metrische Schemata (L16-Ref) */
+.vp-doc .metrik-schema {
+  font-family: var(--vp-font-family-mono) !important;
+  font-size: 2.2rem !important;
+  font-weight: 800 !important;
+  line-height: 1.8 !important;
+  margin: 1.5rem 0 !important;
+  text-align: left;
+  padding-left: 3rem;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.vp-doc .metrik-schema strong {
+  color: var(--vp-c-brand-1);
 }
 
 /* Split Viewer / Embedded Mode Fixes */

@@ -129,6 +129,15 @@ export default defineConfig({
           }
         }
       });
+      md.use(container, 'metrik-schema', {
+        render: (tokens, idx) => {
+          if (tokens[idx].nesting === 1) {
+            return `<div class="metrik-schema custom-block">\n`;
+          } else {
+            return `</div>\n`;
+          }
+        }
+      });
       
       md.use(container, 'important', {
         render: (tokens, idx) => {
