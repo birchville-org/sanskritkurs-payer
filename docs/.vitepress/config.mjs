@@ -159,10 +159,40 @@ export default defineConfig({
         }
       });
 
+      md.use(container, 'note-box', {
+        render: (tokens, idx) => {
+          if (tokens[idx].nesting === 1) {
+            return `<div class="note-box custom-block">\n`;
+          } else {
+            return `</div>\n`;
+          }
+        }
+      });
+
       md.use(container, 'laut-table', {
         render: (tokens, idx) => {
           if (tokens[idx].nesting === 1) {
             return `<div class="laut-table custom-block">\n`;
+          } else {
+            return `</div>\n`;
+          }
+        }
+      });
+
+      md.use(container, 'indent', {
+        render: (tokens, idx) => {
+          if (tokens[idx].nesting === 1) {
+            return `<div class="indent custom-block">\n`;
+          } else {
+            return `</div>\n`;
+          }
+        }
+      });
+
+      md.use(container, 'no-header', {
+        render: (tokens, idx) => {
+          if (tokens[idx].nesting === 1) {
+            return `<div class="no-header custom-block">\n`;
           } else {
             return `</div>\n`;
           }
@@ -183,9 +213,9 @@ export default defineConfig({
                 }
 
                 segments.forEach((segment, index) => {
-                  // 1. Process Devanagari in this segment
-                  const deParts = segment.split(/([\u0900-\u097F]+)/g);
-                  deParts.forEach(part => {
+                  // 1. Process Devanagari and [[indent]] in this segment
+                  const parts = segment.split(/([\u0900-\u097F]+|\[\[indent\]\])/g);
+                  parts.forEach(part => {
                     if (/[\u0900-\u097F]/.test(part)) {
                       const span = new state.Token('span_open', 'span', 1);
                       span.attrs = [['class', 'sanskrit-dev']];
@@ -195,6 +225,11 @@ export default defineConfig({
                       text.content = part;
                       newChildren.push(text);
                       
+                      newChildren.push(new state.Token('span_close', 'span', -1));
+                    } else if (part === '[[indent]]') {
+                      const span = new state.Token('span_open', 'span', 1);
+                      span.attrs = [['class', 'indent-inline']];
+                      newChildren.push(span);
                       newChildren.push(new state.Token('span_close', 'span', -1));
                     } else if (part) {
                       const text = new state.Token('text', '', 0);

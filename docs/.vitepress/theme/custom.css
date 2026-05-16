@@ -216,6 +216,31 @@ html {
   color: var(--vp-c-text-1) !important; /* Maintain readability in dark mode */
 }
 
+/* Note Box (Minimalist scholarly asides) */
+.vp-doc .custom-block.note-box,
+.vp-doc .custom-block.tip {
+  background-color: rgba(72, 98, 110, 0.03) !important; /* Extremely subtle slate tint */
+  border: none !important;
+  border-left: 3px solid var(--vp-c-text-2) !important; /* Thinner Slate Grey border */
+  margin: 1.5rem 0;
+  padding: 0.75rem 1.25rem;
+  border-radius: 0;
+  box-shadow: none !important;
+  font-size: 1.05rem !important;
+  color: var(--vp-c-text-2) !important; /* Slightly softer text color for notes */
+}
+
+.dark .vp-doc .custom-block.note-box,
+.dark .vp-doc .custom-block.tip {
+  background-color: rgba(147, 161, 161, 0.05) !important;
+  border-left-color: #586e75 !important;
+}
+
+.vp-doc .custom-block.note-box .custom-block-title,
+.vp-doc .custom-block.tip .custom-block-title {
+  display: none !important;
+}
+
 .vp-doc .custom-block.grammar-box .custom-block-title {
   display: none; /* We handle titles manually or leave them blank */
 }
@@ -431,12 +456,21 @@ html.is-wide .VPDoc .container,
 html.is-embedded .VPDoc .container {
   max-width: 100% !important;
   margin: 0 !important;
-  padding: 0 32px !important;
+  padding: 0 4rem !important; /* Increased padding for reasonable distance */
 }
 
 html.is-wide .VPDoc .content,
-html.is-embedded .VPDoc .content {
-  max-width: 100% !important;
+html.is-embedded .VPDoc .content,
+html.is-wide .VPDoc .content-container,
+html.is-wide .VPDoc .main {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+/* Ensure the main text area doesn't have a hard max-width in wide mode */
+html.is-wide .vp-doc,
+html.is-wide .VPDoc .content-container {
+  max-width: none !important;
 }
 
 /* Korrektur für zentrierten Rand im Split Viewer */
@@ -455,4 +489,16 @@ html.is-embedded .VPContent {
 .dark .license-page tr:target {
   background-color: #422006 !important; /* Dark brown highlight */
   outline: 2px solid #eab308;
+}
+
+/* Indentation Tools */
+.vp-doc .custom-block.indent {
+  padding-left: 2.5rem !important;
+  margin: 0 !important;
+  margin-top: -0.7rem !important; /* Pull up to match line-height */
+}
+
+.indent-inline {
+  display: inline-block;
+  width: 2rem;
 }
