@@ -230,6 +230,11 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 - **śru** 5 P (śṛṇoti !) श्रु शृणोति : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
 - **su** 5 U (sunoti) सु सुनोति : auspressen
 - **soma** m. सोम : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
+::: media
+![](/images/lekt0701.jpg)
+Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
+(Bildquelle: Wikipedia, GNU FDLizenz)
+:::
 - **phala** n. फल : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
 - **nṛtya** n. नृत्य : Tanz
 - **svarga** m. स्वर्ग : Himmel
@@ -237,11 +242,7 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 - **aṅga** n. अङ्ग : Glied des Körpers, Bestandteil; auch = **vedāṅga** = वेदाङ्ग
 - **gam** 1 P (gacchati) गम् गच्छति : gehen (Gehört nach der einheimischen Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit einem Präsensstammbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**)
 
-::: media
-![](/images/lekt0701.jpg)
-Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
-(Bildquelle: Wikipedia, GNU FDLizenz)
-:::
+
 
 ---
 
