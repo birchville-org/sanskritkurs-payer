@@ -91,9 +91,9 @@ Starke Kasus sind:
 
 ::: center
 
-| Singular **एकवचन** | Dual **द्विवचन** | Plural **बहुवचन** |
+| Singular[[br]]एकवचन | Dual[[br]]द्विवचन | Plural[[br]]बहुवचन |
 | :--- | :--- | :--- |
-| Nominativ **प्रथमा** Akkusativ **द्वितीया** Vokativ **सम्बोधनप्रथमा** | Nominativ **प्रथमा** Akkusativ **द्वितीया** Vokativ **सम्बोधनप्रथमा** | Nominativ **प्रथमा** Vokativ **सम्बोधनप्रथमा** |
+| Nominativ (प्रथमा)[[br]]Akkusativ (द्वितीया)[[br]]Vokativ (सम्बोधनप्रथमा) | Nominativ (प्रथमा)[[br]]Akkusativ (द्वितीया)[[br]]Vokativ (सम्बोधनप्रथमा) | Nominativ (प्रथमा)[[br]]Vokativ (सम्बोधनप्रथमा) |
 
 :::
 
@@ -101,9 +101,9 @@ Starke Kasus sind:
 
 ::: center
 
-| Singular **एकवचन** | Dual **द्विवचन** | Plural **बहुवचन** |
+| Singular[[br]]एकवचन | Dual[[br]]द्विवचन | Plural[[br]]बहुवचन |
 | :--- | :--- | :--- |
-| — | — | Nominativ **प्रथमा** Akkusativ **द्वितीया** Vokativ **सम्बोधनप्रथमा** |
+| — | — | Nominativ (प्रथमा)[[br]]Akkusativ (द्वितीया)[[br]]Vokativ (सम्बोधनप्रथमा) |
 
 :::
 
@@ -157,14 +157,14 @@ Bei konsonantisch auslautenden Stämmen:
 
 ::: center
 
-| | | Maskulinum | | Neutrum | |
+| | | Maskulinum[[br]]पुंस् | | Neutrum[[br]]नपुंसक | |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Singular** | Nom. | paśu-mān **पशुमान्** | guṇa-vān **गुणवान्** | paśu-mat **पशुमत्** | guṇa-vat **गुणवत्** |
-| ^^ | Akk. | paśu-mant-am **पशुमन्तम्** | guṇa-vant-am **गुणवन्तम्** | paśu-mat **पशुमत्** | guṇa-vat **गुणवत्** |
-| ^^ | Inst. | paśu-mat-ā **पशुमता** | guṇa-vat-ā **गुणवता** | paśu-mat-ā **पशुमता** | guṇa-vat-ā **गुणवता** |
-| **Plural** | Nom. | paśu-mant-as **पशुमन्तस्** | guṇa-vant-as **गुणवन्तस्** | paśu-mant-i **पशुमन्ति** | guṇa-vant-i **गुणवन्ति** |
-| ^^ | Akk. | paśu-mat-as **पशुमतस्** | guṇa-vat-as **गुणवतस्** | paśu-mant-i **पशुमन्ति** | guṇa-vant-i **गुणवन्ति** |
-| ^^ | Inst. | paśu-mad-bhis **पशुमद्भिस्** | guṇa-vad-bhis **गुणवद्भिस्** | paśu-mad-bhis **पशुमद्भिस्** | guṇa-vad-bhis **गुणवद्भिस्** |
+| **Singular**[[br]]एकवचन | Nom. | paśu-mān[[br]]**पशुमान्** | guṇa-vān[[br]]**गुणवान्** | paśu-mat[[br]]**पशुमत्** | guṇa-vat[[br]]**गुणवत्** |
+| | Akk. | paśu-mant-am[[br]]**पशुमन्तम्** | guṇa-vant-am[[br]]**गुणवन्तम्** | paśu-mat[[br]]**पशुमत्** | guṇa-vat[[br]]**गुणवत्** |
+| | Inst. | paśu-mat-ā[[br]]**पशुमता** | guṇa-vat-ā[[br]]**गुणवता** | paśu-mat-ā[[br]]**पशुमता** | guṇa-vat-ā[[br]]**गुणवता** |
+| **Plural**[[br]]बहुवचन | Nom. | paśu-mant-as[[br]]**पशुमन्तस्** | guṇa-vant-as[[br]]**गुणवन्तस्** | paśu-mant-i[[br]]**पशुमन्ति** | guṇa-vant-i[[br]]**गुणवन्ति** |
+| | Akk. | paśu-mat-as[[br]]**पशुमतस्** | guṇa-vat-as[[br]]**गुणवतस्** | paśu-mant-i[[br]]**पशुमन्ति** | guṇa-vant-i[[br]]**गुणवन्ति** |
+| | Inst. | paśu-mad-bhis[[br]]**पशुमद्भिस्** | guṇa-vad-bhis[[br]]**गुणवद्भिस्** | paśu-mad-bhis[[br]]**पशुमद्भिस्** | guṇa-vad-bhis[[br]]**गुणवद्भिस्** |
 
 :::
 
