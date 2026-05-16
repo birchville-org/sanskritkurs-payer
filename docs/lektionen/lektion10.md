@@ -127,9 +127,9 @@ Er steht:
 
 ## 10.3. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
 
-::: grammar-box
 **Ein -n-, auf das ein Vokal oder n, m, y, v folgt, wird durch -ṇ- ersetzt, wenn ṛ, ṝ, r, ṣ im Wort dem -n- vorausgehen oder kein anderer Laut als Vokale, Gutturale, Labiale, y, v, h oder Anusvāra zwischen diesen Lauten und dem folgenden -n- im Wort steht.**
 
+::: grammar-box
 **Beispiele für den Instrumentalis Singular:**
 - **guru** (गुरु) → **guruṇā** (गुरुणा)
 - **śūdra** (शूद्र) → **śūdreṇa** (शूद्रेण)
