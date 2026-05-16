@@ -64,44 +64,44 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 
 **Regelmäßige Bildungen:**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
 | :--- | :--- | :--- |
-| **Feminina auf -i**: śruti (श्रुति) | **śrutyā** (श्रुत्या) | **śrutibhis** (श्रुतिभिस्) |
-| **Feminina auf -ī**: devī (देवी) | **devyā** (देव्या) | **devībhis** (देवीभिस्) |
-| **Feminina auf -u**: dhenu (धेनु) | **dhenvā** (धेन्वा) | **dhenubhis** (धेनुभिस्) |
+| **Feminina auf -i**:[[br]]śruti (श्रुति) | **śrutyā**[[br]](श्रुत्या) | **śrutibhis**[[br]](श्रुतिभिस्) |
+| **Feminina auf -ī**:[[br]]devī (देवी) | **devyā**[[br]](देव्या) | **devībhis**[[br]](देवीभिस्) |
+| **Feminina auf -u**:[[br]]dhenu (धेनु) | **dhenvā**[[br]](धेन्वा) | **dhenubhis**[[br]](धेनुभिस्) |
 
 **Unregelmäßige Bildungen (Singular):**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
 | :--- | :--- | :--- |
-| **Maskulina auf -i**: kavi (कवि) | **kavinā** (कविना) | **kavibhis** (कविभिस्) |
-| **Maskulina auf -u**: paśu (पशु) | **paśunā** (पशुना) | **paśubhis** (पशुभिस्) |
-| **Feminina auf -ā**: devatā (देवता) | **devatayā** (देवतया) | **devatābhis** (देवताभिस्) |
+| **Maskulina auf -i**:[[br]]kavi (कवि) | **kavinā**[[br]](कविना) | **kavibhis**[[br]](कविभिस्) |
+| **Maskulina auf -u**:[[br]]paśu (पशु) | **paśunā**[[br]](पशुना) | **paśubhis**[[br]](पशुभिस्) |
+| **Feminina auf -ā**:[[br]]devatā (देवता) | **devatayā**[[br]](देवतया) | **devatābhis**[[br]](देवताभिस्) |
 
 **Maskulina und Neutra auf -a (unregelmäßig in Singular und Plural):**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
 | :--- | :--- | :--- |
-| **Maskulina auf -a**: deva (देव) | **devena** (देवेन) | **devais** (देवैस्) |
-| **Neutra auf -a**: phala (फल) | **phalena** (फलेन) | **phalais** (फलैस्) |
+| **Maskulina auf -a**:[[br]]deva (देव) | **devena**[[br]](देवेन) | **devais**[[br]](देवैस्) |
+| **Neutra auf -a**:[[br]]phala (फल) | **phalena**[[br]](फलेन) | **phalais**[[br]](फलैस्) |
 
 **Fragepronomen kim:**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
 | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **kena** (केन) | **kais** (कैस्) |
-| **Femininum** | **kayā** (कया) | **kābhis** (काभिस्) |
+| **Maskulinum / Neutrum** | **kena**[[br]](केन) | **kais**[[br]](कैस्) |
+| **Femininum** | **kayā**[[br]](कया) | **kābhis**[[br]](काभिस्) |
 
 **Demonstrativpronomina:**
 
-| Pronomen | Genus | Instrumentalis Singular | Instrumentalis Plural |
+| Pronomen | Genus | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
 | :--- | :--- | :--- | :--- |
-| **tad** (er/es/jenes) | M/N | **tena** (तेन) | **tais** (तैस्) |
-| | F | **tayā** (तया) | **tābhis** (ताभिस्) |
-| **etad** (dieses hier) | M/N | **etena / enena** (एतेन / एनेन) | **etais** (एतैस्) |
-| | F | **etayā / enayā** (एतया / एनया) | **etābhis** (एताभिस्) |
-| **idam** (dieses) | M/N | **anena / enena** (अनेन / एनेन) | **ebhis** (एभिस्) |
-| | F | **anayā / enayā** (अनया / एनया) | **ābhis** (आभिस्) |
+| **tad**[[br]](er/es/jenes) | M/N | **tena**[[br]](तेन) | **tais**[[br]](तैस्) |
+| | F | **tayā**[[br]](तया) | **tābhis**[[br]](काभिस्) |
+| **etad**[[br]](dieses hier) | M/N | **etena / enena**[[br]](एतेन / एनेन) | **etais**[[br]](एतैस्) |
+| | F | **etayā / enayā**[[br]](एतया / एनया) | **etābhis**[[br]](एताभिस्) |
+| **idam**[[br]](dieses) | M/N | **anena / enena**[[br]](अनेन / एनेन) | **ebhis**[[br]](एभिस्) |
+| | F | **anayā / enayā**[[br]](अनया / एनया) | **ābhis**[[br]](आभिस्) |
 
 ::: deleteme-box
 Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepronomens und der Demonstrativpronomina mit den Formen des entsprechenden Maskulinums identisch.
@@ -155,11 +155,11 @@ So ist auch das **-ṇ-** zu erklären in:
 
 **Beispiele:**
 
-| Wurzel | 3. sg. Pass. Präs. Indik. | 3. pl. Pass. Präs. Indik. |
+| Wurzel[[br]]धाtu | 3. sg. Pass. Präs. Indik.[[br]]यक् लट् | 3. pl. Pass. Präs. Indik.[[br]]यक् लट् |
 | :--- | :--- | :--- |
-| **nī** 1 U (nayati) | **nīyate** (नीयते) "er wird geführt" | **nīyante** (नीयन्ते) |
-| **man** 4 Ā (manyate) | **manyate** (मन्यते) "er wird gedacht" | **manyante** (मन्यन्ते) |
-| **viś** 6 P (viśati) | **viśyate** (विश्यते) "es wird betreten" | **viśyante** (विश्यन्ते) |
+| **nī**[[br]]1 U[[br]](nayati) | **nīyate**[[br]](नीयते)[[br]]"er wird geführt" | **nīyante**[[br]](नीयन्ते) |
+| **man**[[br]]4 Ā[[br]](manyate) | **manyate**[[br]](मन्यते)[[br]]"er wird gedacht" | **manyante**[[br]](मन्यन्ते) |
+| **viś**[[br]]6 P[[br]](viśati) | **viśyate**[[br]](विश्यते)[[br]]"es wird betreten" | **viśyante**[[br]](विश्यन्ते) |
 
 > [!NOTE]
 > Bei Verben der 4. Präsensklasse haben das Ātmanepada und das Passiv identische Formen! Dies lässt sich nur aus der Satzkonstruktion erschließen.
@@ -170,7 +170,7 @@ So ist auch das **-ṇ-** zu erklären in:
 
 1. **Wurzeln auf -i oder -u** dehnen ihren Vokal:
    - **ji** 1 P: **jīyate** (जीयते)
-   - **śru** 5 P: **śrūyate** (शृूयते)
+   - **śru** 5 P: **śrūyate** (श्रूयते)
    - **su** 5 U: **sūyate** (सूयते)
 
 2. **Wurzeln mit -a- zwischen Konsonanten** (außer Nasalen, y, r, v) bleiben hochstufig:
@@ -249,7 +249,7 @@ Abb.: Ein Ṛṣi: Viśvāmitra (विश्वामित्र) / von Rāja 
 9. **kṣatriyā viṣṇuṃ yajante.** (क्षत्रिया विष्णुं यजन्ते) (2 Möglichkeiten)
 10. **brāhmaṇo 'gniṃ karoti.** (ब्राह्मणो ऽग्निं करोति)
 11. **vaiśyā imaṃ grāmaṃ gacchanti.** (वैश्या इमं ग्रामं गच्छन्ति) (2 Möglichkeiten)
-12. **ete gurūṃstu śṛṇvanti.** (एते गुरूंतु शृण्वन्ति)
+12. **ete gurūṃstu śṛṇvanti.** (एते गुरूंस्तु शृण्वन्ति)
 13. **sādhuḥ svargamāpnoti.** (साधुः स्वर्गमाप्नोति)
 14. **brāhmāṇāḥ somaṃ sunvanti.** (ब्राह्मणाः सोमं सुन्वन्ति)
 15. **paśūllabhate.** (पशूल्लभते)
@@ -321,7 +321,7 @@ Abb.: Weberin, Bangladesh: die Webkette.
 
 २. नरान्सृजति देवः |
 ३. कवयो धनं लुभ्यन्ति |
-४. ऋषयः सूक्तानि पश्यति |
+४. ऋषयः सूक्तानि पश्यन्ति |
 ५. विष्णुमृषिर्यजति |
 ६. गुरूञ्शिष्यांश्च पश्यति |
 ७. स्वर्गं लभन्ते |

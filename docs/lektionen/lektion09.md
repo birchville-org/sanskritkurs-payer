@@ -66,14 +66,14 @@ Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel 
 
 **Beispiele:**
 
-| Wurzel | + -aka / -ikā (kṛt) | Bedeutung |
+| Wurzel[[br]]धातु | + -aka / -ikā (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
-| **kṛ** 8 U (कृ) "machen" | **kāraka** (कारक) | "Bewirker, machend" |
-| **śru** 5 P (श्रु) "hören" | **śrāvaka** m. (श्रावक) | "Hörer, Schüler, buddh.: Anhänger des Buddha" |
-| **nī** 1 U (नी) "führen" | **nāyaka** m. (नायक) / **nāyikā** f. (नायिका) | "Führer, Gebieter, Gatte, Liebhaber / Geliebte, Dame" |
-| **yaj** 1 U (यज्) "opfern" | **yājaka** m. (याजक) | "Opferer, Opferpriester" |
-| **nṛt** 4 P (नृत्) "tanzen" | **nartaka** m. (नर्तक) / **nartakī** f. (नर्तकी) | "Tänzer / Tänzerin" |
-| **ji** 1 P (जि) "siegen" | **jayaka** 3 (जयक) | "siegreich" |
+| **kṛ**[[br]]8 U[[br]]कृ[[br]]"machen" | **kāraka**[[br]](कारक) | "Bewirker, machend" |
+| **śru**[[br]]5 P[[br]]श्रु[[br]]"hören" | **śrāvaka** m.[[br]](श्रावक) | "Hörer, Schüler,[[br]]buddh.: Anhänger des Buddha" |
+| **nī**[[br]]1 U[[br]]नी[[br]]"führen" | **nāyaka** m.[[br]](नायक) /[[br]]**nāyikā** f.[[br]](नायिका) | "Führer, Gebieter, Gatte,[[br]]Liebhaber / Geliebte, Dame" |
+| **yaj**[[br]]1 U[[br]]यज्[[br]]"opfern" | **yājaka** m.[[br]](याजक) | "Opferer, Opferpriester" |
+| **nṛt**[[br]]4 P[[br]]नृत्[[br]]"tanzen" | **nartaka** m.[[br]](नर्तक) /[[br]]**nartakī** f.[[br]](नर्तकी) | "Tänzer / Tänzerin" |
+| **ji**[[br]]1 P[[br]]जि[[br]]"siegen" | **jayaka** 3[[br]](जयक) | "siegreich" |
 
 ::: grammar-box
 **Einige dieser Bildungen haben die engere Bedeutung: "das durch die Wurzel ausgedrückte gewohnheitsmäßig oder als Obliegenheit oder gut vollziehend".**
@@ -83,11 +83,11 @@ siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka**
 
 **Beispiele:**
 
-| Wurzel | + -aka (kṛt) | Bedeutung |
+| Wurzel[[br]]धातु | + -aka (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
-| **kṛṣ** 6 U (कृष्) "pflügen" | **kṛṣaka** m. (कृषक) | "Ackerbauer" (tiefstufig!) |
-| **kliś** 9 P (क्लिशु) "quälen" | **kleśaka** m. (क्लेशक) | "Quäler" |
-| **khād** 1 P (खाद्) "kauen, essen" | **khādaka** m. (खादक) | "Esser, Fresser" |
+| **kṛṣ**[[br]]6 U[[br]]कृष्[[br]]"pflügen" | **kṛṣaka** m.[[br]](कृषक) | "Ackerbauer"[[br]](tiefstufig!) |
+| **kliś**[[br]]9 P[[br]]क्लिशु[[br]]"quälen" | **kleśaka** m.[[br]](क्लेशक) | "Quäler" |
+| **khād**[[br]]1 P[[br]]खाद्[[br]]"kauen, essen" | **khādaka** m.[[br]](खादक) | "Esser, Fresser" |
 
 Daneben gibt es noch einige weniger wichtige Verwendungen des Suffixes **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff.
 
@@ -186,7 +186,7 @@ Abb.: **karṣaka** = कर्षक.
 
 5. Aufgaben eines Śūdra:
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
-   द्विजातींन शुश्रूषा वार्त्ता कारुकुशीलवकर्म च
+   द्विजातीनां शुश्रूषा वार्त्ता कारुकुशीलवकर्म च
    (nach Kauṭilīya-Arthaśāstra 1.3.8.)
    Erklärung: dvijātīnām = Genitiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen"); kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
 
