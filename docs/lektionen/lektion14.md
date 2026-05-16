@@ -11,7 +11,7 @@ Soll das Verhältnis des durch zwei Substantive ausgedrückten bezeichnet werden
 
 कवेः पुत्रः "Des Dichters Sohn"
 
-धन्स्य लोभः "Gier nach Reichtum"
+धनस्य लोभः "Gier nach Reichtum"
 
 नगरस्यार्धम् "Die Hälfte der Stadt"
 
@@ -45,7 +45,7 @@ Selbstverständlich steht bei einem PPP Neutrum Singular, das als Verbalabstrakt
 
 ::::
 
-## 14.2. Bildung der Genetivformen (ṣāṣṭhī f. = षष्ठी)
+## 14.2. Bildung der Genetivformen (ṣaṣṭhī f. = षष्ठी)
 
 Der Genetiv wird bei Verbalstämmen mit Stammabstufung vom schwachen Stamm gebildet.
 
@@ -59,10 +59,10 @@ Nach Konsonant sind die regelmäßigen Genetivendungen:
 
 ::: center
 
-| Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
+| Nominalstamm[[br]]धातु | Schwacher Stamm[[br]]प्रातिपदिक | Genetiv Singular[[br]]षष्ठी एकवचन | Genetiv Plural[[br]]षष्ठी बहुवचन |
 | :--- | :--- | :--- | :--- |
-| guṇa-vant- **गुणवन्त्** | guṇa-vat- **गुणवत्** | guṇa-vat-as **गुणवतस्** | guṇa-vat-ām **गुणवताम्** |
-| paśu-mant- **पशुमन्त्** | paśu-mat- **पशुमत्** | paśu-mat-as **पशुमतस्** | paśu-mat-ām **पशुमताम्** |
+| **guṇa-vant-**[[br]](गुणवन्त्) | **guṇa-vat-**[[br]](गुणवत्) | **guṇa-vat-as**[[br]](गुणवतस्) | **guṇa-vat-ām**[[br]](गुणवताम्) |
+| **paśu-mant-**[[br]](पशुमन्त्) | **paśu-mat-**[[br]](पशुमत्) | **paśu-mat-as**[[br]](पशुमतस्) | **paśu-mat-ām**[[br]](पशुमताम्) |
 
 :::
 
@@ -81,16 +81,16 @@ Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
 
 ::: center
 
-| Nominalstamm | Genetiv Plural |
+| Nominalstamm[[br]]प्रातिपदिक | Genetiv Plural[[br]]षष्ठी बहुवचन |
 | :--- | :--- |
-| deva m. **देव** | devā-nām **देवानाम्** |
-| phala n. **फल** | phalā-nām **फलानाम्** |
-| devatā f. **देवता** | devatā-nām **देवतानाम्** |
-| kavi m. **कवि** | kavī-nām **कवीनाम्** |
-| śruti f. **श्रुति** | śrutī-nām **श्रुतीनाम्** |
-| devī f. **देवी** | devī-nām **देवीनाम्** |
-| paśu m. **पशु** | paśū-nām **पशूनाम्** |
-| dhenu f. **धेनु** | dhenū-nām **धेनूनाम्** |
+| **deva** m. (देव) | **devā-nām**[[br]](देवानाम्) |
+| **phala** n. (फल) | **phalā-nām**[[br]](फलानाम्) |
+| **devatā** f. (देवता) | **devatā-nām**[[br]](देवतानाम्) |
+| **kavi** m. (कवि) | **kavī-nām**[[br]](कवीनाम्) |
+| **śruti** f. (श्रुति) | **śrutī-nām**[[br]](श्रुतीनाम्) |
+| **devī** f. (देवी) | **devī-nām**[[br]](देवीनाम्) |
+| **paśu** m. (पशु) | **paśū-nām**[[br]](पशूनाम्) |
+| **dhenu** f. (धेनु) | **dhenū-nām**[[br]](धेनूनाम्) |
 
 :::
 
@@ -104,16 +104,16 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet
 
 ::: center
 
-| Stamm | Genetiv Singular |
+| Stamm[[br]]प्रातिपदिक | Genetiv Singular[[br]]षष्ठी एकवचन |
 | :--- | :--- |
-| deva m. **देव** | **devasya** **देवस्य** |
-| phala n. **फल** | **phalasya** **फलस्य** |
-| devatā f. **देवता** | **devatāyās** **देवतायास्** |
-| kavi m. **कवि** | **kaves** **कवेस्** |
-| paśu m. **पशु** | **paśos** **पशोस्** |
-| devī f. **देवी** | **devyās** **देव्यास्** |
-| śruti f. **श्रुति** | **śrutes / śrutyās** **श्रुतेस् / श्रुत्यास्** *(entweder wie kavi oder wie devī)* |
-| dhenu f. **धेनु** | **dhenos / dhenvās** **धेनोस् / धेन्वास्** *(entweder wie paśu oder wie mehrsilbige Feminina auf -ū)* |
+| **deva** m. (देव) | **devasya**[[br]](देवस्य) |
+| **phala** n. (फल) | **phalasya**[[br]](फलस्य) |
+| **devatā** f. (देवता) | **devatāyās**[[br]](देवतायास्) |
+| **kavi** m. (कवि) | **kaves**[[br]](कवेस्) |
+| **paśu** m. (पशु) | **paśos**[[br]](पशोस्) |
+| **devī** f. (देवी) | **devyās**[[br]](देव्यास्) |
+| **śruti** f. (श्रुति) | **śrutes / śrutyās**[[br]](श्रुतेस् / श्रुत्यास्) |
+| **dhenu** f. (धेnu) | **dhenos / dhenvās**[[br]](धेनोस् / धेन्वास्) |
 
 :::
 
@@ -127,10 +127,10 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya **कस्य** | tasya **तस्य** | etasya **एतस्य** | asya **अस्य** |
-| ^^ | **Genetiv Plural** | keṣām **केषाम्** | teṣām **तेषाम्** | eteṣām **एतेषाम्** | eṣām **एषाम्** |
-| **Femininum** | **Genetiv Singular** | kasyās **कस्यास्** | tasyās **तस्यास्** | etasyās **एतस्यास्** | asyās **अस्यास्** |
-| ^^ | **Genetiv Plural** | kāsām **कासाम्** | tāsām **तासाम्** | etāsām **एतासाम्** | āsām **आसाम्** |
+| **Maskulinum / Neutrum** | **Genetiv Singular**[[br]]षष्ठी एकवचन | kasya[[br]]**कस्य** | tasya[[br]]**तस्य** | etasya[[br]]**एतस्य** | asya[[br]]**अस्य** |
+| | **Genetiv Plural**[[br]]षष्ठी बहुवचन | keṣām[[br]]**केषाम्** | teṣām[[br]]**तेषाम्** | eteṣām[[br]]**एतेषाम्** | eṣām[[br]]**एषाम्** |
+| **Femininum** | **Genetiv Singular**[[br]]षष्ठी एकवचन | kasyās[[br]]**कस्यास्** | tasyās[[br]]**तस्यास्** | etasyās[[br]]**एतस्यास्** | asyās[[br]]**अस्यास्** |
+| | **Genetiv Plural**[[br]]षष्ठी बहुवचन | kāsām[[br]]**कासाम्** | tāsām[[br]]**तासाम्** | etāsām[[br]]**एतासाम्** | āsām[[br]]**आसाम्** |
 
 :::
 
@@ -184,7 +184,7 @@ Abb.: dīpāḥ = दीपाः (Bildquelle: [Details](/licenses#lekt1405))
 
 :::
 
-* **bala n.** (बल्) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
+* **bala n.** (बल) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
 * **bāla 3** (बाल) : jung, kindlich, töricht; m. Knabe
 * **bālā f.** (बाला) : junges Mädchen
 * **nara m.** (नर) : Mann, Mensch
@@ -202,7 +202,7 @@ Abb.: dīpāḥ = दीपाः (Bildquelle: [Details](/licenses#lekt1405))
 
 Übersetzen Sie folgende Sprichwörter und lernen Sie sie auswendig:
 
-**निचो वदति न कुरुते** **वदति न साधुः करोत्येव ॥१॥**
+**नीचो वदati न कुरुते** **वदति न साधुः करोत्येव ॥१॥**
 
 **शीलं नरस्य भूषणम् ॥२॥**
 
@@ -344,7 +344,7 @@ Abb.: ayaṃ bālaḥ kasyāḥ putraḥ. = अयं बालः कस्य�
 
 २. यज्ञस्याग्निनान्नं दग्धम् ।
 
-३. बुद्धः स्तयस्य बुद्ध्या मुक्तः ।
+३. बुद्धः सत्यस्य बुद्ध्या मुक्तः ।
 
 ४. अधर्मो ऽनृतस्य वदनमित्यृषयो वदन्ति ।
 
