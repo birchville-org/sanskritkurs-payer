@@ -7,7 +7,7 @@ Will man in Sanskrit ausdrücken, dass eine Handlung des Agens (कर्तृ)
 
 > "nachdem er das getan hat, tut er jenes" ; "er tut das, dann tut er jenes" ; "als Folge von diesem tut er jenes" ; "ich kam, sah und siegte" u. ä.
 
-Das Absolutivum ist ein Verbal-Adverb, d.h. es ist weder konjugierbar noch deklinierbar, es hat aber immer - von wenigen Ausnahmen abgesehen - denselben Agens (कर्तृ) wie die Handlung, der die durch das Absolutiv bezeichnete Handlung vorausgeht bzw. die es begleitet. Der Agens des Absolutiv staht also im Nominativ (प्रथमा)  oder Instrumentalis (तृतीया).
+Das Absolutivum ist ein Verbal-Adverb, d.h. es ist weder konjugierbar noch deklinierbar, es hat aber immer - von wenigen Ausnahmen abgesehen - denselben Agens (कर्तृ) wie die Handlung, der die durch das Absolutiv bezeichnete Handlung vorausgeht bzw. die es begleitet. Der Agens des Absolutiv steht also im Nominativ (प्रथमा)  oder Instrumentalis (तृतीया).
 
 Neben den Komposita ist das Absolutiv eines der häufigsten Ausdrucksmittel im Sanskrit.
 
@@ -108,7 +108,7 @@ Beispiel:
 Abb.: कामदेवः , 19. Jhdt  
 \[Bildquelle: Wikipedia, Public domain\]
 
-शक् 5 P शक्नोति Pass.शक्यते PPP शक्त Inf. शक्तुम् : fähig sein, können
+शक् 5 P शक्नोति Pass. शक्यते PPP शक्त Inf. शक्तुम् : fähig sein, können
 
 davon:
 
@@ -121,11 +121,11 @@ Abb.: दुर्गाशक्तिः = दुर्गैव शक्त�
 Kolkatta = কলকাতা   
 \[Bildquelle: The Eternity. -- [http://www.flickr.com/photos/the\_world\_in\_my\_eyes/2914301330/](http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/). -- Zugriff am 2008-12-12. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
 
-अर्ह 1 P अर्हति Pss. अर्ह्यते PPP अर्हित Inf. अर्हितुम् : etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird अर्ह् + Infinitiv oft als milder Befehl verwendest: "Du solltest")
+अर्ह 1 P अर्हति Pass. अर्ह्यते PPP अर्हित Inf. अर्हितुम् : etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird अर्ह् + Infinitiv oft als milder Befehl verwendet: "Du solltest")
 
 > अर्हन्त् 3 Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
 
-व्रत n.: Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (देवदासी) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige व्रत heute: Fasten ; Enthaltsamkeit von Speisen, die man liebt ; sexuelle Enthaltsamkeit ; Lesen heiliger Schriften ; Vollzug bestimmter Riten ; Speisung von Brahmanen u. ä. Kurz zu den व्रत : Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von व्रत und religiösen Festen ("the following list ... does not calim to be thoroughly exhaustive" !!!)
+व्रत n.: Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (देवदासी) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige व्रत heute: Fasten ; Enthaltsamkeit von Speisen, die man liebt ; sexuelle Enthaltsamkeit ; Lesen heiliger Schriften ; Vollzug bestimmter Riten ; Speisung von Brahmanen u. ä. Kurz zu den व्रत : Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von व्रत und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
 
 चर् 1 P चरति Pass. चर्यते PPP चरित Inf. चरितुम् : weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. व्रतं चर् : ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
 
@@ -187,11 +187,11 @@ A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:
 
 B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
-अन्नं पक्त्वा ब्राह्मणदास्यत्ति ॥१॥
+अन्नं पक्त्वा ब्राह्मणदासो ऽत्ति ॥१॥
 
 इष्टदेवतापूजां कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः स्तुवन्ति ॥२॥
 
-प्रस्थाय रामः सपुत्रः सद्गुरुश्रवार्थेन ब्राह्मणग्रामं गच्छति ॥३॥
+प्रस्थाय रामः सपुत्रः सद्गुरुश्रवणार्थेन ब्राह्मणग्रामं गच्छति ॥३॥
 
 अनिष्ट्वा नरो भगवद्भक्तिमात्रेणापि मोक्षमाप्नोति ॥४॥
 
