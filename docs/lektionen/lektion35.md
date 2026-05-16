@@ -32,22 +32,17 @@ Vor vokalisch anlautender Endung wird ersetzt
 
 Beispiele:
 
-> | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P | 3.sg.Perf.Ā | 3.pl.Perf.Ā |
-> | --- | --- | --- | --- | --- |
-> | इ 2P | इयाय  
-> iy-ai + a | ईयुर्  
-> i + iy + ur |   |   |
-> | नी 1U | निनाय | निन्युर्  
-> ni-nī + ur | निन्ये | निन्यिरे |
-> | स्तु 2U | तुष्टाव  
-> tu + stau + a | तुष्टुवुर्  
-> tu + stuv-ur | तुष्टुवे | तुष्टुविरे |
-> | पू | पुपाव  
-> pu-pau + a | पुपुवुर्  
-> pu-puv-ur | पुपुवे | पुपुविरे |
-> | कृ | चकार | चक्रुर्  
-> ca-kr-ur | चक्रे | चक्रिरे |
+:::: grammar-box
 
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **i**[[br]](इ २प) | **iyāya**[[br]](इयाय)[[br]](iy-ai + a) | **īyuḥ**[[br]](ईयुर्)[[br]](i + iy + ur) | | |
+| **nī**[[br]](नी १उ) | **nināya**[[br]](निनाय) | **ninyuḥ**[[br]](निन्युर्)[[br]](ni-nī + ur) | **ninye**[[br]](निन्ये) | **ninyire**[[br]](निन्यिरे) |
+| **stu**[[br]](स्तु २उ) | **tuṣṭāva**[[br]](तुष्टाव)[[br]](tu + stau + a) | **tuṣṭuvuḥ**[[br]](तुष्टुवुर्)[[br]](tu + stuv-ur) | **tuṣṭuve**[[br]](तुष्टुवे) | **tuṣṭuvire**[[br]](तुष्टुविरे) |
+| **pū**[[br]](पू) | **pupāva**[[br]](पुपाव)[[br]](pu-pau + a) | **pupuvuḥ**[[br]](पुपुवुर्)[[br]](pu-puv-ur) | **pupuve**[[br]](पुपुवे) | **pupuvire**[[br]](पुपुविरे) |
+| **kṛ**[[br]](कृ) | **cakāra**[[br]](चकार) | **cakruḥ**[[br]](चक्रुर्)[[br]](ca-kr-ur) | **cakre**[[br]](चक्रे) | **cakrire**[[br]](चक्रिरे) |
+
+::::
 ### 35.1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
 
 Bildung:
@@ -66,13 +61,15 @@ Beispiele:
 > | पॄ 3P | पपार | पपरुर् |   |   |
 > | स्मृ 1P | समार | सस्मरुर् |   |   |
 > | संस्कृ 8U | सञ्चस्कार  
-> sam + ca-skār-a | सञ्चस्करुर् | सञ्चस्करे | सञ्चस्करिरे |
+:::: grammar-box
 
-## 35.2. Perfekt Typ IV: Wurzeln auf -ā / -ai
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **pṝ**[[br]](पॄ ३प) | **papāra**[[br]](पपार) | **paparuḥ**[[br]](पपरुर्) | | |
+| **smṛ**[[br]](स्मृ १प) | **sasāra**[[br]](सस्मार) | **sasmaruḥ**[[br]](सस्मरुर्) | | |
+| **saṃskṛ**[[br]](संस्कृ ८उ) | **sañca-skāra**[[br]](सञ्चस्कार)[[br]](sam + ca-skār-a) | **sañca-skaruḥ**[[br]](सञ्चस्करुर्) | **sañca-skare**[[br]](सञ्चस्करे) | **sañca-skarire**[[br]](सञ्चस्करिरे) |
 
-Bildung:
-
-> starker Stamm:
+::::
 > 
 > *   3./1. sg. P Perfekt endet auf -au
 > *   2\. sg. P : Hochstufe -ā oder Tiefstufe -i
@@ -89,13 +86,13 @@ Beispiel:
 > | Wurzel | 3.sg.Perf.P  
 > 1.sg.Perf.P | 3.pl.Perf.P | 3.sg.Perf.Ā | 3.pl.Perf.Ā |
 > | --- | --- | --- | --- | --- |
-> | दा 3U | ददौ 1 | ददुर्  
-> da-d-ur | ददे | ददिरे  
-> da-d-i-re |
+:::: grammar-box
 
-1 die Form ददौ ist noch nicht befriedigend erklärt (siehe Thumb-Hauschild 1,2 S. 290ff.)
+| Wurzel[[br]]धातु | 3. sg. Perf. P.[[br]]1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **dā**[[br]](दा ३उ) | **dadau**[[br]](ददौ)¹ | **daduḥ**[[br]](ददुर्)[[br]](da-d-ur) | **dade**[[br]](ददे) | **dadire**[[br]](ददिरे)[[br]](da-d-i-re) |
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
+::::
 
 Bildung:
 
@@ -129,20 +126,18 @@ Beispiele:
 > | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P | 3.sg.Perf.Ā | 3.pl.Perf.Ā |
 > | --- | --- | --- | --- | --- |
 > | गम् 1P | जगाम | जग्मुर्  
-> ja-gm-ur |   |   |
-> | हन् 2P | जघान  
-> ja-ghān\-a | जघ्नुर् |   |   |
-> | जन् 4Ā |   |   | जज्ञे  
-> ja-jñ-e | जज्ञिरे |
-> | वच् 2P | उवाच | ऊचुर्  
-> u +ucur |   |   |
-> | वद् 1P | उवाद | ऊदुर् | &lt;उदे&gt; | &lt;उदिरे&gt; |
-> | यज् 1U | इयाज | ईजुर्  
-> i + ij-ur | ईजे | ईजिरे |
+:::: grammar-box
 
-### 35.3.2. Perfekt Typ Vb: Wurzeln Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h. Schwacher Stamm ohne Reduplikation, mit -e-
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **gam**[[br]](गम् १प) | **jagāma**[[br]](जगाम) | **jagmuḥ**[[br]](जग्मुर्)[[br]](ja-gm-ur) | | |
+| **han**[[br]](हन् २प) | **jaghāna**[[br]](जघान)[[br]](ja-ghān-a) | **jaghnuḥ**[[br]](जघ्नुर्) | | |
+| **jan**[[br]](जन् ४आ) | | | **jajñe**[[br]](जज्ञे)[[br]](ja-jñ-e) | **jajñire**[[br]](जज्ञिरे) |
+| **vac**[[br]](वच् २प) | **uvāca**[[br]](उवाच) | **ūcuḥ**[[br]](ऊचुर्)[[br]](u + ucur) | | |
+| **vad**[[br]](वद् १प) | **uvāda**[[br]](उवाद) | **ūduḥ**[[br]](ऊदुर्) | **<ūde>**[[br]](<ऊदे>) | **<ūdire>**[[br]](<ऊदिरे>) |
+| **yaj**[[br]](यज् १उ) | **iyāja**[[br]](इयाज) | **ījuḥ**[[br]](ईजुर्)[[br]](i + ij-ur) | **īje**[[br]](ईजे) | **ījire**[[br]](ईजिरे) |
 
-Bildung:
+::::
 
 > schwacher Stamm: keine Reduplikation. Ersetzung des -a- der Wurzel durch -e-  
 > (zur Erklärung siehe Thumb-Hauschild 1,2 S. 286f.)
@@ -156,10 +151,13 @@ Beispiel:
 > | पव् 1U | पपाच | पेचुर् | पेचे | पेचिरे |
 
 ### 35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
+:::: grammar-box
 
-Bildung:
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **pac**[[br]](पच् १उ) | **papāca**[[br]](पपाच) | **pecuḥ**[[br]](पेचुर्) | **pece**[[br]](पेचे) | **pecire**[[br]](पेचिरे) |
 
-> schwacher Stamm: Hochstufe
+::::
 
 Wird gebildet von allen anderen Wurzeln mit mittlerem -a-, d.h. Wurzeln mit mittlerem -a-
 
@@ -174,10 +172,13 @@ Beispiel:
 
 > | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P | 3.sg.Perf.Ā | 3.pl.Perf.Ā |
 > | --- | --- | --- | --- | --- |
-> | क्रम्  1U | चक्राम | चक्रमुर् | चक्रमे | चक्रमिरे |
+:::: grammar-box
 
-## 35.4. Wortliste
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **kram**[[br]](क्रम् १उ) | **cakrāma**[[br]](चक्राम) | **cakramuḥ**[[br]](चक्रमुर्) | **cakrame**[[br]](चक्रमे) | **cakramire**[[br]](चक्रमिरे) |
 
+::::
 नश् 4P नश्यति : verloren gehen, zugrundegehen, verschwinden
 
 > Perf. Vb ननाश, नेशुर्  
@@ -201,7 +202,7 @@ Beispiel:
 Abb.: क्रामन्ति  
 \[Bildquelle: Curt Carnemark / World Bank. -- [http://www.flickr.com/photos/worldbank/2182732473/](http://www.flickr.com/photos/worldbank/2182732473/). -- Zugriff am 2008-12-28. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]  
 
-गै 1P यायति (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
+गै 1P गायति (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
 
 > Perf. IV जगौ, जगुर्  
 > Fut. गास्यति  
@@ -234,7 +235,7 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 9.  संस्करोति
 10.  पुनीते
 11.  बिभ्यति
-12.  पिपुरति
+12.  पिप्राति
 13.  दत्ते
 14.  यजन्ते
 15.  भजन्ति unregelmäßig, nach Typ Vb!
@@ -273,16 +274,16 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 
 B) Übersetzen Sie:
 
-एकस्मिन्नेव काले क्षत्रियो महान्यष्टु्मुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥
+एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥
 
-रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवू रामाय चेष्टपुत्रं ददुः ॥२॥
+रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवुर् रामाय चेष्टपुत्रं ददुः ॥२॥
 
 ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥
 
 ![](/images/lekt3504.jpg)  
 Abb.: ... ब्राह्मणाश्चेजुः  
 यज्ञ, Shiva ashram, Kothavala, Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt  
-\[Bildquelle: Dey. -- [http://www.flickr.com/photos/dey/462784131/](http://www.flickr.com/photos/dey/462784131/).  -- Zugriff am 2008-12-28. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Comons Lizenz (Namensnennung, keine kommerzielle Nutzung, Share alike)\]  
+\[Bildquelle: Dey. -- [http://www.flickr.com/photos/dey/462784131/](http://www.flickr.com/photos/dey/462784131/).  -- Zugriff am 2008-12-28. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, Share alike)\]  
 
 अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥
 
