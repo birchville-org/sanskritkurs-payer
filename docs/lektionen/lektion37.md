@@ -1,7 +1,7 @@
 
 # Lektion 37
 
-## 37.1. Das Adverb (क्रियाविशेषनम्)
+## 37.1. Das Adverb (क्रियाविशेषणम्)
 
 Adverbien werden im Sanskrit gebildet
 
@@ -113,7 +113,7 @@ Beispiele:
 > \-कृते "um willen"  
 > दूरे "fern"
 
-## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusfomen
+## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen
 
 Beispiele:
 
@@ -135,36 +135,17 @@ Von den Pronominalstämmen तद्, इदम् bzw. अ-, यद्, कि�
 
 entsprechende Pronominaladverbien ableiten.
 
-| Suffix | Pronominalstamm |
-| --- | --- |
-|   | तद् | इदम्  
-अ | यद् | किम्  
-कु |
-| \-तस्  
-Ablativ | ततस्  
-von da, darauf, deshalb | इतस्  
-अतस्  
-von hier, dieserhalb | यतस्  
-woher, wovon | कुतस्  
-woher?, weshalb? |
-| \-त्र  
-Lokativ | तत्र  
-da, dort | अत्र  
-hier | यत्र  
-wo | कुत्र  
-wo? |
-| \-था  
-Art und Weise | तथा  
-so |   | यथा  
-wie |   |
-| \-थम्  
-Art und Weise |   |   |   | कथम्  
-wie? |
-| \-दा  
-Zeit | तदा  
-damals, dann |   | यदा  
-als | कदा  
-wann? |
+:::: grammar-box
+
+| Suffix | तद् | इदम्[[br]]अ- | यद् | किम्[[br]]कु- |
+| :--- | :--- | :--- | :--- | :--- |
+| **-tas**[[br]](Ablativ) | **tatas**[[br]](ततस्)[[br]](von da, darauf, deshalb) | **itas**[[br]](इतस्)[[br]]**atas**[[br]](अतस्)[[br]](von hier, dieserhalb) | **yatas**[[br]](यतस्)[[br]](woher, wovon) | **kutas**[[br]](कुतस्)[[br]](woher?, weshalb?) |
+| **-tra**[[br]](Lokativ) | **tatra**[[br]](तत्र)[[br]](da, dort) | **atra**[[br]](अत्र)[[br]](hier) | **yatra**[[br]](यत्र)[[br]](wo) | **kutra**[[br]](कुत्र)[[br]](wo?) |
+| **-thā**[[br]](Art und Weise) | **tathā**[[br]](तथा)[[br]](so) | | **yathā**[[br]](यथा)[[br]](wie) | |
+| **-tham**[[br]](Art und Weise) | | | | **katham**[[br]](कथम्)[[br]](wie?) |
+| **-dā**[[br]](Zeit) | **tadā**[[br]](तदा)[[br]](damals, dann) | | **yadā**[[br]](यदा)[[br]](als) | **kadā**[[br]](कदा)[[br]](wann?) |
+
+::::
 
 Ein weiteres Frageadverb ist: क्व "wo?"
 
@@ -174,7 +155,7 @@ Abb.: क्व ?
 
  
 
-**Weitere Adverbialsuffixe**-वत्**kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie"**** **z.B. पुत्रवत् "wie ein(en) Sohn"-तस्**an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?"**z.B. आदितस् "von Anfang an"-धा&lt;ol&gt;&lt;li&gt;**Bei Zahladverbien in der Bedeutung "-fach", "-fältig" **z.B. द्विधा "zweifach"  &lt;/li&gt;&lt;li&gt;**in der Bedeutung "in der und der Weise" **z.B. समधा "in gleicher Weise" (zu सम 3 "gleich")&lt;/li&gt;&lt;/ol&gt;
+**Weitere Adverbialsuffixe**-वत्**kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie"**** **z.B. पुत्र्रवत् "wie ein(en) Sohn"-तस्**an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?"**z.B. आदितस् "von Anfang an"-धा&lt;ol&gt;&lt;li&gt;**Bei Zahladverbien in der Bedeutung "-fach", "-fältig" **z.B. द्विधा "zweifach"  &lt;/li&gt;&lt;li&gt;**in der Bedeutung "in der und der Weise" **z.B. समधा "in gleicher Weise" (zu सम 3 "gleich")&lt;/li&gt;&lt;/ol&gt;
 
 ## 37.5. Adverbiale Komposita
 
@@ -190,10 +171,16 @@ Beispiel: रक्षार्थम् "in der Art von jemandem, dessen Zweck 
 
 अव्ययीभाव = "unveränderlich/undeklinierbar gewordene"
 
-Ein अव्ययीभाव ist ein adverbiales Kompositum, dessen Vorderglied ein Indeklinabile (Postposition, Partikel u. ä.) ist, und dessen Hinterglied ein Nomen ist, das die Endung des Akkusativ Singulara Neutrum annnimmt.
+Ein अव्ययीभाव ist ein adverbiales Kompositum, dessen Vorderglied ein Indeklinabile (Postposition, Partikel u. ä.) ist, und dessen Hinterglied ein Nomen ist, das die Endung des Akkusativ Singulars Neutrum annnimmt.
 
 Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren:
+**Weitere Adverbialsuffixe:**
 
+*   **-vat**: kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie" (z.B. **putravat**[[br]]पुत्रवत् "wie ein(en) Sohn")
+*   **-tas**: an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?" (z.B. **āditas**[[br]]आदितस् "von Anfang an")
+*   **-dhā**:
+    1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig" (z.B. **dvidhā**[[br]]द्विधा "zweifach")
+    2. in der Bedeutung "in der und der Weise" (z.B. **samadhā**[[br]]समधा "in gleicher Weise", zu **sama**[[br]]सम 3 "gleich")
 Beispiele:
 
 > प्रत्यग्नि = अग्निं प्रति = "gegen das Feuer"
@@ -220,10 +207,10 @@ Bei den Verben
 
 kann statt eines prädikativen Adjektivs ein prädikatives Adverb stehen:
 
-z.B. तुष्णीं बभूव "er wurde schweigend, er verstummte"
+z.B. तूष्णीं बभूव "er wurde schweigend, er verstummte"
 
 ![](/images/lekt3703.jpg)  
-Abb.: तुष्णीं बभूवुः  
+Abb.: तूष्णीं बभूवुः  
 Chishti (چشتی) Dargah (درگه), Fatehpur Sikri = फतेहपूर सिकरी / فتحپور سیکری   
 \[Bildquelle: Protocollide. -- [http://www.flickr.com/photos/urbanvillage/1980227522/](http://www.flickr.com/photos/urbanvillage/1980227522/). -- Zugriff am 2008-12-30. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]  
 
@@ -261,7 +248,7 @@ Man muss unterscheiden
 *   Wortfragen (Ergänzungsfragen)
 *   Satzfragen
 
-Bei Wortfragen wird nach einem Agens (कर्तृ), einem Objekt, einer Tätigkeit, einem Umstand ü. ä. gefragt, z.B.
+Bei Wortfragen wird nach einem Agens (कर्तृ), einem Objekt, einer Tätigkeit, einem Umstand u. ä. gefragt, z.B.
 
 *   wer kommt?
 *   was tut Rāma?
@@ -309,7 +296,7 @@ Schema II:
 
 Fragepartikel (meist am Satzanfang) - Satz
 
-Die wichtigsten Fragpartikel sind:
+Die wichtigsten Fragepartikel sind:
 
 *   अपि
     
@@ -384,10 +371,10 @@ Beispiel: क आगच्छति (राम) । » राम आगच्छ
 
 किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥ (दुःखमोक्ष, मोक्षनयन्ती प्रज्ञा)
 
-कस्याः पुत्रः कृष्ण आसीत् ॥१२॥ (देवकी)
+कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥ (देवकी)
 
 ![](/images/lekt3707.jpg)  
-Abb.: कृष्ण und बलरा्म besuchen ihre Eltern वसुदेव und देवकी  
+Abb.: कृष्ण und बलराम besuchen ihre Eltern वसुदेव und देवकी  
 Gemälde von राजा रवि वर्मा (1848 - 1906)  
 \[Bildquelle: Wikipedia. Public domain\]
 
@@ -402,17 +389,17 @@ Abb.: क्व मर्तुं सज्जना इच्छन्ति
 
 कैर्वेदः प्रोक्तः ॥१५॥ (ऋषि)
 
-कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥ (पुत)
+कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥ (पुत्र)
 
 का नरा लुभ्यन्ति ॥१७॥ (सुरूपशरीरा, देवीरूपा)
 
 के नराः सुरूपा लुभ्यन्ति ॥१८॥ (समोह, बुद्धिमन्त्)
 
-कस्या इन्द्रः पुत्रं दास्यति ॥१९॥ (कृतव्रता पुण्यवती सुमतिब्राह्मणी)
+कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥ (कृतव्रता पुण्यवती सुमतिब्राह्मणी)
 
 B) Übersetzen Sie:
 
- किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्रेषु वसेत् ॥१॥
+ किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥
 
 अपि गुरुः सत्यं जानाति ॥२॥
 
