@@ -15,11 +15,11 @@
 > 
 > आचार्यात्पादमादत्ते  
 > पादं शिष्यः स्वमेधया ।  
-> पादं सब्रह्मचारिभ्यः  
+> पादं सब्रह्मचारिभ्यःयः  
 > पादं कालक्रमेण च ॥३॥
 
 ![](/images/lekt4005.jpg)  
-Abb.: पादं सब्रह्मचारिभ्  
+Abb.: पादं सब्रह्मचारिभ्यः  
 Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம்  
 \[Bildquelle: kifo. -- [http://www.flickr.com/photos/turningpoint/2209292/](http://www.flickr.com/photos/turningpoint/2209292/). -- Zugriff am 2009-01-02. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\]
 
@@ -27,12 +27,16 @@ Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம
 
 Endungen der ersten Person (तृतीयः) im Perfekt (लिट्)
 
-| परस्मैपदम् | आत्मनेपदम् |
-| --- | --- |
-| एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-| \-a | \-ma | \-e | \-mahe |
+:::: grammar-box
 
-Beachten Sie, dass die Endungen der 1. Personen Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā.
+| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् |
+| :--- | :--- |
+| **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
+| **-a** | **-ma** | **-e** | **-mahe** |
+
+::::
+
+Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā.
 
 Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au.
 
@@ -42,7 +46,7 @@ Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahl
 
 Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-.
 
-Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals treten bei acht Wurzeln auf -ṛ bzw. -u, nämlich
+Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich
 
 1.  कृ 8U (außer संस्कृ)
 2.  भृ 1U
@@ -106,7 +110,7 @@ Verben, die diesem Typ folgen:
     
 *   1.sg.Ā बिभिदे
     
-*   1.pl.Ā बुभिदिमहे
+*   1.pl.Ā बिभिदिमहे
     
 
 मुह् 4P fakultativ अनिट्
@@ -178,7 +182,7 @@ Verben, die diesem Typ folgen:
 
 *   1.sg.P पपार । पपर
     
-*   1.pl.P पपरिम#्
+*   1.pl.P पपरिम
     
 
 स्मृ 1P
@@ -329,7 +333,7 @@ Verben, die diesem Typ folgen:
 
 *   1.sg.P बभूव (= 3.sg.P)
     
-*   1.pl.P बभुविम
+*   1.pl.P बभूविम
     
 
 जि 1P
@@ -375,20 +379,19 @@ Da ein Verbum finitum (konjugiertes Verb) den Agens (कर्तृ) mit ausdr�
 ## 40.5. Personalpronomen (पुरुषार्थकसर्वनाम) der 1. Person Singular und Plural
 
 Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe.
+:::: grammar-box
 
-|   | एकवचनम्  
-"ich" | बहुवचनम्  
-"wir" |
-| --- | --- | --- |
-| प्रथमा | अहम् | वयम् |
-| द्वितीया | माम्  
-मा | अस्मान्  
-नस् |
-| तृतीया | मया | अस्माभिस् |
-| चतुर्थी | मय्हम्  
-मे | अस्मभ्यम्  
-नस् |
-| पञ्चमी | मत् | अस्मत् |
+| Kasus | Singular[[br]]"ich" | Plural[[br]]"wir" |
+| :--- | :--- | :--- |
+| **1. Nominativ** | **aham**[[br]](अहम्) | **vayam**[[br]](वयम्) |
+| **2. Akkusativ** | **mām**[[br]](माम्)[[br]]**mā**[[br]](मा) | **asmān**[[br]](अस्मान्)[[br]]**naḥ**[[br]](नस्) |
+| **3. Instrumentalis** | **mayā**[[br]](मया) | **asmābhiḥ**[[br]](अस्माभिस्) |
+| **4. Dativ** | **mahyam**[[br]](मह्यम्)[[br]]**me**[[br]](मे) | **asmabhyam**[[br]](अस्मभ्यम्)[[br]]**naḥ**[[br]](नस्) |
+| **5. Ablativ** | **mat**[[br]](मत्) | **asmat**[[br]](अस्मत्) |
+| **6. Genetiv** | **mama**[[br]](मम)[[br]]**me**[[br]](मे) | **asmākam**[[br]](अस्माकम्)[[br]]**naḥ**[[br]](नस्) |
+| **7. Lokativ** | **mayi**[[br]](मयि) | **asmāsu**[[br]](अस्मासु) |
+
+::::
 | षष्ठी | मम  
 मे | अस्माकम्  
 नस् |
@@ -481,7 +484,7 @@ Abb.: तीर्थङ्करः
 
 ![](/images/lekt4001.jpg)  
 Abb.: विष्णोर्दशावताराः  
-Im Uhrzeigersinn: मत्स्य, कुर्म, वाराह, वामन, कृष्ण, कल्कि, बुद्ध, प्रशुराम, राम, नरसिंह, in der Mitte: कृष्ण\[Bildquelle: Wikipedia. Public domain\]
+Im Uhrzeigersinn: मत्स्य, कुर्म, वाराह, वामन, कृष्ण, कल्कि, बुद्ध, परशुराम, राम, नरसिंह, in der Mitte: कृष्ण\[Bildquelle: Wikipedia. Public domain\]
 
 स्वप् 2P स्वपिति,  स्वपन्ति : schlafen, sich schlafen legen
 
@@ -553,7 +556,7 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 38.  पामि
 39.  शृणुमः अ
 40.  अतुदम्
-41.  अमिमि
+41.  अमिम
 42.  तिष्ठामि
 43.  अवहाम
 44.  अकुर्महि अ
@@ -570,7 +573,7 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 55.  आसे (periphrast.)
 56.  विन्दामः
 57.  धक्ष्यामः
-58.  शक्नुमह्
+58.  शक्नुमः
 59.  भिनद्मि
 60.  भोत्स्ये
 61.  लभे
