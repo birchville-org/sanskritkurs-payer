@@ -18,43 +18,22 @@ Beispiele:
 
 1\. Präsensklasse:
 
-> यजब्त् "ein mit einem Opfer verehrender"
+> **yajant**[[br]](यजन्त्) "ein mit einem Opfer verehrender"
 &gt;
-> |   |   | Maskulinum  
-> पुंस् | Neutrum  
-> नपुंसक | Femininum  
-> स्त्री |
-> | --- | --- | --- | --- | --- |
-> | Singular  
-> एकवचन | 1\. Nominativ  
-> प्रथमा | यजन्  
-> aus yaja-nt-s | यजत्  
-> yaja-t-Ø | यजन्ती  
-> yaja-ant-ī |
-> |   | 2\. Akkusativ  
-> द्वितीया | यजन्तम्  
-> yaja-nt-am | यजत् | wie देवी |
-> |   | 3\. Instrumentalis  
-> तृतीया | यजता  
-> yaja-t-ā | यजता |   |
-> |   | 6\. Genetiv  
-> षष्ठी | यजतस्  
-> yaja-t-as | यजतस् |   |
-> | Plural  
-> बहुवचन | 1\. Nominativ  
-> प्रथमा | यजन्तस्  
-> yaja-nt-as | यजन्ति  
-> yaja-nt-i  
-> Beachten Sie den Gleichlaut mit der 3. pl. P.! |   |
-> |   | 2\. Akkusativ  
-> द्वितीया | यजतस्  
-> yaja-t-as | यजन्ति |   |
-> |   | 3\. Instrumentalis  
-> तृतीया | यजद्भिस्  
-> aus yaja-t-bhis | यजद्भिस् |   |
-> |   | 6\. Genetiv  
-> षष्ठी | यजताम्  
-> yaja-t-ām | यजताम् |   |
+:::: grammar-box
+
+| | | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री |
+| :--- | :--- | :--- | :--- | :--- |
+| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **yajan**[[br]](यजन्)[[br]](aus yaja-nt-s) | **yajat**[[br]](यजत्)[[br]](yaja-t-Ø) | **yajantī**[[br]](यजन्ती)[[br]](yaja-nt-ī) |
+| | **2. Akkusativ**[[br]]द्वितीया | **yajantam**[[br]](यजन्तम्)[[br]](yaja-nt-am) | **yajat**[[br]](यजत्) | wie देवी |
+| | **3. Instrumentalis**[[br]]तृतीया | **yajatā**[[br]](यजता)[[br]](yaja-t-ā) | **yajatā** | |
+| | **6. Genetiv**[[br]]षष्ठी | **yajatas**[[br]](यजतस्)[[br]](yaja-t-as) | **yajatas** | |
+| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **yajantas**[[br]](यजन्तस्)[[br]](yaja-nt-as) | **yajanti**[[br]](यजन्ति)[[br]](yaja-nt-i) | |
+| | **2. Akkusativ**[[br]]द्वितीया | **yajatas**[[br]](यजतस्)[[br]](yaja-t-as) | **yajanti** | |
+| | **3. Instrumentalis**[[br]]तृतीया | **yajadbhis**[[br]](यजद्भिस्)[[br]](aus yaja-t-bhis) | **yajadbhis** | |
+| | **6. Genetiv**[[br]]षष्ठी | **yajatām**[[br]](यजताम्)[[br]](yaja-t-ām) | **yajatām** | |
+
+::::
 
 4\. Präsensklasse
 
@@ -80,40 +59,20 @@ Beispiele:
 
 > अस् "sein": सन्त् "seiend, echter, guter, wahrer"
 &gt;
-> |   |   | Maskulinum  
-> पुंस् | Neutrum  
-> नपुंसक | Femininum  
-> स्त्री |
-> | --- | --- | --- | --- | --- |
-> | Singular  
-> एकवचन | 1\. Nominativ  
-> प्रथमा | सन्  
-> aus s-ant-s | सत्  
-> s-at-Ø | सती1  
-> s-at-ī |
-> |   | 2\. Akkusativ  
-> द्वितीया | सन्तम्  
-> s-ant-am | सत् | wie देवी |
-> |   | 3\. Instrumentalis  
-> तृतीया | सता  
-> s-at-ā | सता |   |
-> |   | 6\. Genetiv  
-> षष्ठी | सतस्  
-> s-at-as | सतस् |   |
-> | Plural  
-> बहुवचन | 1\. Nominativ  
-> प्रथमा | सन्तस्  
-> s-ant-as | सन्ति  
-> s-ant-i |   |
-> |   | 2\. Akkusativ  
-> द्वितीया | सतस्  
-> s-at-as | सन्ति |   |
-> |   | 3\. Instrumentalis  
-> तृतीया | सद्भिस्  
-> aus s-at-bhis | सद्भिस् |   |
-> |   | 6\. Genetiv  
-> षष्ठी | सताम्  
-> s-at-ām | सताम् |   |
+:::: grammar-box
+
+| | | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री |
+| :--- | :--- | :--- | :--- | :--- |
+| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **san**[[br]](सन्)[[br]](aus s-ant-s) | **sat**[[br]](सत्)[[br]](s-at-Ø) | **satī**[[br]](सती)[[br]](s-at-ī) |
+| | **2. Akkusativ**[[br]]द्वितीया | **santam**[[br]](सन्तम्)[[br]](s-ant-am) | **sat**[[br]](सत्) | wie देवी |
+| | **3. Instrumentalis**[[br]]तृतीया | **satā**[[br]](सता)[[br]](s-at-ā) | **satā** | |
+| | **6. Genetiv**[[br]]षष्ठी | **satas**[[br]](सतस्)[[br]](s-at-as) | **satas** | |
+| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **santas**[[br]](सन्तस्)[[br]](s-ant-as) | **santi**[[br]](सन्ति)[[br]](s-ant-i) | |
+| | **2. Akkusativ**[[br]]द्वितीया | **satas**[[br]](सतस्)[[br]](s-at-as) | **santi** | |
+| | **3. Instrumentalis**[[br]]तृतीया | **sadbhis**[[br]](सद्भिस्)[[br]](aus s-at-bhis) | **sadbhis** | |
+| | **6. Genetiv**[[br]]षष्ठी | **satām**[[br]](सताम्)[[br]](s-at-ām) | **satām** | |
+
+::::
 > 
 > 1 सती "eine gute (treue) Frau (die sich in späterer Zeit nach dem Tod ihres Mannes mit diesem verbrennen lässt)" engl.: sutee
 
@@ -139,50 +98,28 @@ Abb.: सती-Gedenkplatte im Palast von Jodhpur - जोधपुर / Rajast
 
 ### 21.1.2. महान्त् "groß"
 
-| Maskulinum, Neutrum |   |   |
-| --- | --- | --- |
-|   | starker Stamm | महान्त् |
-|   | schwacher Stamm | महत् |
-| Femininum |   |   |
-|   |   | महती  
-wie देवी |
+:::: grammar-box
 
-|   |   | Maskulinum  
-पुंस् | Neutrum  
-नपुंसक | Femininum  
-स्त्री |
-| --- | --- | --- | --- | --- |
-| Singular  
-एकवचन | 1\. Nominativ  
-प्रथमा | महान्  
-aus mahānt-s | महत्  
-mahat-Ø | महती  
-mahat-ī |
-|   | 2\. Akkusativ  
-द्वितीया | महान्तम्  
-mahānt-am | महत् | wie देवी |
-|   | 3\. Instrumentalis  
-तृतीया | महता  
-mahat-ā | महता |   |
-|   | 6\. Genetiv  
-षष्ठी | महतस्  
-mahat-as | महतस् |   |
-| Plural  
-बहुवचन | 1\. Nominativ  
-प्रथमा | महान्तस्  
-mahānt-as | महान्ति  
-mahānt-i |   |
-|   | 2\. Akkusativ  
-द्वितीया | महतस्  
-mahat-as | महान्ति |   |
-|   | 3\. Instrumentalis  
-तृतीया | महद्भिस्  
-aus mahat-bhis | महद्भिस् |   |
-|   | 6\. Genetiv  
-षष्ठी | महताम्  
-mahat-ām | महताम् |   |
+| | | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री |
+| :--- | :--- | :--- | :--- | :--- |
+| | **Starker Stamm** | **mahānt-**[[br]](महान्त्) | | |
+| | **Schwacher Stamm** | **mahat-**[[br]](महत्) | | |
+| | **Femininum** | | | **mahatī**[[br]](महती) |
 
-Als Vorderglied eines Kompisitums steht statt महत् महा:
+| | | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री |
+| :--- | :--- | :--- | :--- | :--- |
+| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **mahān**[[br]](महान्)[[br]](aus mahānt-s) | **mahat**[[br]](महत्)[[br]](mahat-Ø) | **mahatī**[[br]](महती)[[br]](mahat-ī) |
+| | **2. Akkusativ**[[br]]द्वितीया | **mahāntam**[[br]](महान्तम्)[[br]](mahānt-am) | **mahat**[[br]](महत्) | wie देवी |
+| | **3. Instrumentalis**[[br]]तृतीया | **mahatā**[[br]](महता)[[br]](mahat-ā) | **mahatā** | |
+| | **6. Genetiv**[[br]]षष्ठी | **mahatas**[[br]](महतस्)[[br]](mahat-as) | **mahatas** | |
+| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **mahāntas**[[br]](महान्तस्)[[br]](mahānt-as) | **mahānti**[[br]](महान्ति)[[br]](mahānt-i) | |
+| | **2. Akkusativ**[[br]]द्वितीया | **mahatas**[[br]](महतस्)[[br]](mahat-as) | **mahānti** | |
+| | **3. Instrumentalis**[[br]]तृतीया | **mahadbhis**[[br]](महद्भिस्)[[br]](aus mahat-bhis) | **mahadbhis** | |
+| | **6. Genetiv**[[br]]षष्ठी | **mahatām**[[br]](महताम्)[[br]](mahat-ām) | **mahatām** | |
+
+::::
+
+Als Vorderglied eines Kompositums steht statt महत् महा:
 
 z.B.
 
@@ -225,7 +162,7 @@ höflicher:
 
 Femininum:
 
-> किं भवती करोति = किं भव्त्या क्रियते
+> किं भवती करोति = किं भवत्या क्रियते
 > 
 > किं भवत्यः कुर्वन्ति = किं भवतीभिः क्रियते
 
@@ -240,7 +177,7 @@ Will man nicht nur Höflichkeit, sondern auch Verehrung für jemanden ausdrücke
 
 > किमत्रभवत्यत्रभवतां भार्या = "Ist die gnädige (hier anwesende) Frau Ihre Gattin?"
 > 
-> किं तत्रभवतां कुशलवृत्तम् (in einem Brief oder Telefongespräch) = "Geh es Ihnen gut?"
+> किं तत्रभवतां कुशलवृत्तम् (in einem Brief oder Telefongespräch) = "Geht es Ihnen gut?"
 
 ## 21.4. Wortliste
 
@@ -288,7 +225,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 
 A) Übersetzen Sie folgende Komposita:
 
-१. अनादिकालिकसंसरः
+१. अनादिकालिकसंसारः
 
 २. अनादिमध्यान्तः
 
@@ -304,7 +241,7 @@ B) Übersetzen Sie:
 
 महान्ति फलान्यदन्तो बाला जलमापि पिबन्ति ॥३॥
 
-पुजां कुर्वञ्जनो यजते च स्तौति च देवताम् ॥४॥
+पूजां कुर्वञ्जनो यजते च स्तौति च देवताम् ॥४॥
 
 गुरूपनीतनरो द्विजः ॥५॥
 
