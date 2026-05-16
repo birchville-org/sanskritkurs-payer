@@ -60,7 +60,6 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 **Die regulären Endungen des Instrumentalis (tṛtīyā):**
 - **Singular: -ā**
 - **Plural: -bhis**
-:::
 
 **Regelmäßige Bildungen:**
 
@@ -102,6 +101,7 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 | | F | **etayā / enayā**[[br]](एतया / एनया) | **etābhis**[[br]](एताभिस्) |
 | **idam**[[br]](dieses) | M/N | **anena / enena**[[br]](अनेन / एनेन) | **ebhis**[[br]](एभिस्) |
 | | F | **anayā / enayā**[[br]](अनया / एनया) | **ābhis**[[br]](आभिस्) |
+:::
 
 ::: deleteme-box
 Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepronomens und der Demonstrativpronomina mit den Formen des entsprechenden Maskulinums identisch.
