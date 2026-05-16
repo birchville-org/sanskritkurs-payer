@@ -120,7 +120,7 @@ Er steht:
 3. Zur Angabe des **Weges**, auf dem jemand wohin gelangt.
 4. Zum Ausdruck der **Verbindung, Vereinigung, Begleitung**.
 5. Bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. **saha** = सह = "mit" (wird nachgestellt).
-   - z.B. **brāhmaṇena saha** = ब्राह्मणेन सह = "gemeinsam mit dem Brahmanen"
+   - Beispiel: **brāhmaṇena saha** = ब्राह्मणेन सह = "gemeinsam mit dem Brahmanen"
 :::
 
 ---
@@ -129,7 +129,6 @@ Er steht:
 
 ::: grammar-box
 **Ein -n-, auf das ein Vokal oder n, m, y, v folgt, wird durch -ṇ- ersetzt, wenn ṛ, ṝ, r, ṣ im Wort dem -n- vorausgehen oder kein anderer Laut als Vokale, Gutturale, Labiale, y, v, h oder Anusvāra zwischen diesen Lauten und dem folgenden -n- im Wort steht.**
-:::
 
 **Beispiele für den Instrumentalis Singular:**
 - **guru** (गुरु) → **guruṇā** (गुरुणा)
@@ -143,6 +142,7 @@ So ist auch das **-ṇ-** zu erklären in:
 - **śṛṇoti** (शृणोति)
 - **kāraṇa** (कारण)
 - **brāhmaṇa** (ब्राह्मण)
+:::
 
 ---
 
@@ -151,27 +151,28 @@ So ist auch das **-ṇ-** zu erklären in:
 ::: grammar-box
 **Bildung:**
 **(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung**
-:::
 
 **Beispiele:**
 
-| Wurzel[[br]]धाtu | 3. sg. Pass. Präs. Indik.[[br]]यक् लट् | 3. pl. Pass. Präs. Indik.[[br]]यक् लट् |
+| Wurzel[[br]]धातु | 3. sg. Pass. Präs. Indik.[[br]]यक् लट् | 3. pl. Pass. Präs. Indik.[[br]]यक् लट् |
 | :--- | :--- | :--- |
 | **nī**[[br]]1 U[[br]](nayati) | **nīyate**[[br]](नीयते)[[br]]"er wird geführt" | **nīyante**[[br]](नीयन्ते) |
 | **man**[[br]]4 Ā[[br]](manyate) | **manyate**[[br]](मन्यते)[[br]]"er wird gedacht" | **manyante**[[br]](मन्यन्ते) |
 | **viś**[[br]]6 P[[br]](viśati) | **viśyate**[[br]](विश्यते)[[br]]"es wird betreten" | **viśyante**[[br]](विश्यन्ते) |
 
-> [!NOTE]
-> Bei Verben der 4. Präsensklasse haben das Ātmanepada und das Passiv identische Formen! Dies lässt sich nur aus der Satzkonstruktion erschließen.
+::: note-box
+Bei Verben der 4. Präsensklasse haben das Ātmanepada und das Passiv identische Formen! Dies lässt sich nur aus der Satzkonstruktion erschließen.
+:::
 
 ---
 
 ### 10.4.1. Sonderregeln zur Bildung des Passiv
 
+::: grammar-box
 1. **Wurzeln auf -i oder -u** dehnen ihren Vokal:
    - **ji** 1 P: **jīyate** (जीयते)
    - **śru** 5 P: **śrūyate** (श्रूयते)
-   - **su** 5 U: **sūyate** (सूयते)
+   - **su** 5 U: **sūyate** (सूयate)
 
 2. **Wurzeln mit -a- zwischen Konsonanten** (außer Nasalen, y, r, v) bleiben hochstufig:
    - **labh** 1 Ā: **labhyate** (लभ्यते)
@@ -193,6 +194,7 @@ So ist auch das **-ṇ-** zu erklären in:
 6. **Wurzeln auf -an** (z.B. **tan** 8 U) haben alternativ zwei Bildungen:
    - **tanyate** (तन्यते)
    - **tāyate** (तायते)
+:::
 
 ---
 
