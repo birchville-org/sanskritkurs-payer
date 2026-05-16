@@ -94,7 +94,7 @@ davon:
 
 निरोध m.: Stoppen, Zum-Stillstand-Bringen
 
-भुत n. (PPP zu भु): Wesen, Gespenst
+* **bhūta n.** (भूत) (PPP zu bhū): Wesen, Gespenst
 
 योग m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga
 
@@ -174,7 +174,7 @@ B) Lösen Sie in folgenden Sätzen alle Komposita in Sanskrit auf, bilden Sie so
 
 ९. बलवद्योधा ब्राह्मणग्रामं गताः ।
 
-१०. पुण्यवद्वैश्येष्टवेवतापूजां करोति ।
+१०. पुण्यवद्वैश्येष्टदेवतापूजां करोति ।
 
 ## 16.4. Wiederholungsübung
 
@@ -182,12 +182,12 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 
 Verwenden Sie dazu folgendes Schema, das der Reihenfolge der Kasus bei den indischen Grammatikern entspricht und das wegen seiner - später zu besprechenden - Vorzüge auch von den westlichen Grammatikern übernommen wurde:
 
-| एकवचनम् Singular | बहुवचनम् Plural |
+| Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
 | :--- | :--- |
-| **१. प्रथमा Nominativ** | **१. प्रथमा** |
-| **२. द्वितीया Akkusativ** | **२. द्वितीया** |
-| **३. तृतीया Instrumentalis** | **३. तृतीया** |
-| **६. षष्ठी Genetiv** | **६. षष्ठी** |
+| **१. प्रथमा**[[br]]Nominativ | **१. प्रथमा** |
+| **२. द्वितीया**[[br]]Akkusativ | **२. द्वितीया** |
+| **३. तृतीया**[[br]]Instrumentalis | **३. तृतीया** |
+| **६. षष्ठी**[[br]]Genetiv | **६. षष्ठी** |
 
 Lernen Sie die Deklinationsmuster nach diesen Beispielen auswendig!!!
 
