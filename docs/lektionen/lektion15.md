@@ -139,7 +139,7 @@ z.B.
 
 ब्राह्मणक्षत्रियवैश्यधर्मः
 
-> 1\. Stufe: ब्राह्मणक्षत्रियवश्यानां धर्मः (Vorderglied: Itaretaradvandva)
+> 1\. Stufe: ब्राह्मणक्षत्रियवैश्यानां धर्मः (Vorderglied: Itaretaradvandva)
 > 
 > 2\. Stufe: ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः
 > 
@@ -242,7 +242,7 @@ A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆం
 इन्द्र m.: Fürst, Erster, Bester unter ; Götterkönig Indra
 
 ![](/images/lekt1505.jpg)  
-Abb.: इन्द्
+Abb.: इन्द्रः
 
 > Indra and Sachi Riding the Divine Elephant Airavata, Folio from a Panchakalyanaka (Five Auspicious Events in the Life of Jina Rishabhanatha \[Adinatha\]), circa 1670-1680 Painting; Watercolor, Opaque watercolor, gold, and silver on paper, Image: 9 1/8 x 15 1/8 in. (23.18 x 38.42 cm); Sheet: 10 5/8 x 16 3/4 in. (26.99 x 42.55 cm. Made in: India, Rajasthan, Amber
 > 
@@ -459,7 +459,7 @@ Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine
 
 ४४. ऋषिपुत्रः
 
-४५. पुत्र्पुत्राः
+४५. पुत्रपुत्राः
 
 ४६. धर्मवादः
 
@@ -506,7 +506,7 @@ B) Lösen Sie folgende Tatpuruṣa auf:
 
 २. बालधनस्य
 
-३. नरकाकम्
+३. नरककाकम्
 
 ४. लोकगुरोः
 
