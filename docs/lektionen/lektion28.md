@@ -43,7 +43,7 @@ Beispiele:
 > &gt; 
 > &gt; ![](/images/lekt2802.jpg)  
 > &gt; Abb.: स नरान्प्रबन्धविज्ञानमध्यापयति (प्रबन्ध = Management)  
-> &gt; Jadavpur University = যাদবপুর বিশ্ববিদ্যালয়,  Kolkatta = কলকাতা   
+> &gt; Jadavpur University = যাদবপুর বিশ্ববিদ্যালয়,  Kolkata = কলকাতা   
 > &gt; \[Bildquelle: noii's. -- [http://www.flickr.com/photos/noii/2423810775/](http://www.flickr.com/photos/noii/2423810775/). -- Zugriff am 2008-12-19. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\] 
 
 Nach Schema 1 konstruiert u.a. auch die Wurzel दृश्:
@@ -64,7 +64,7 @@ Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusamme
 > Meine Zuflucht und mein Ziel ist Hari,  
 > Der die Feinde in den Himmel schickte,  
 > Der die Seinen die Bedeutung des Veda lehrte,  
-> Der der die Götter mit Unsterblichkeitsspeise speiste,  
+> Der die Götter mit Unsterblichkeitsspeise speiste,  
 > Der den Schöpfer den Veda lehrte,  
 > Der die Erde in das Wasser setzte. 
 
@@ -107,7 +107,7 @@ Beispiele:
 
 > रामो भृत्येन भारं नाययति वाहयति वा = "Rāma lässt den Diener die Last führen bzw. fahren"
 > 
-> &gt; Ergebnis:  भृत्यो भारं नयति वहति वा = "Der Diener führt bzw. fahrt die Last"
+> &gt; Ergebnis:  भृत्यो भारं नयति वहति वा = "Der Diener führt bzw. fährt die Last"
 > 
 > रामो बालेनान्नमादयति खादयति वा = "Rāma lässt den Knaben Speise essen bzw. kauen"
 > 
@@ -117,9 +117,9 @@ Beispiele:
 > 
 > &gt; Ergebnis: रामः स्मरति = Rāma erinnert sich"
 
-Folgende Kausative können sowohl nach Schema 1 als auch nach Schmea 2 konstruieren:
+Folgende Kausative können sowohl nach Schema 1 als auch nach Schema 2 konstruieren:
 
-*   ह्र् "halten, holen"
+*   हृ "halten, holen"
 *   कृ "tun, machen"
 *   Ātmanepadakausativ zu दृश्
 
@@ -173,46 +173,57 @@ Bildungstyp 1:
 
 Beispiele:
 
-> | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
-> | --- | --- | --- |
-> | विश् | वेशयति (veś-aya-ti) | er/sie/es lässt eintreten, führt hinein |
-> | लुभ् | लोभयति | begehren machen, begehrlich machen, verlocken |
-> | दृश् | दर्शयति | sehen machen = zeigen |
-> | वृत् | वर्तयति | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
+:::: grammar-box
 
+| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| :--- | :--- | :--- |
+| **viś**[[br]](विश्) | **veśayati**[[br]](वेशयति)[[br]](veś-aya-ti) | er/sie/es lässt eintreten, führt hinein |
+| **lubh**[[br]](लुभ्) | **lobhayati**[[br]](लोभयति) | begehren machen, begehrlich machen, verlocken |
+| **dṛś**[[br]](दृश्) | **darśayati**[[br]](दर्शयति) | sehen machen = zeigen |
+| **vṛt**[[br]](वृत्) | **vartayati**[[br]](वर्तयति) | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
+
+::::
 Bildungstyp 2:
 
 dehnstufige Wurzel + -aya-
 
 Oft bei Wurzeln, die vokalisch enden, und bei Wurzeln, bei denen auf -a- ein einziger Endkonsonant folgt.
+:::: grammar-box
 
-Beispiele:
+| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| :--- | :--- | :--- |
+| **bhū**[[br]](भू) | **bhāvayati**[[br]](भावयति)[[br]](aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
+| **i**[[br]](इ) | **āyayati**[[br]](आययति)[[br]](aus: ai-aya-ti) | bewirken, dass jemand geht |
+| **nī**[[br]](नी) | **nāyayati**[[br]](नाययति)[[br]](aus: nai-aya-ti) | führen lassen |
+| **kṛ**[[br]](कृ) | **kārayati**[[br]](कारयति)[[br]](kār-aya-ti) | machen lassen |
+| **vac**[[br]](वच्) | **vācayati**[[br]](वाचयति)[[br]](vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
 
-> | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
-> | --- | --- | --- |
-> | भू | भावयति (aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
-> | इ | आययति (aus: ai-aya-ti) | bewirken, dass jemand geht |
-> | नी | नाययति (aus: nai-aya-ti) | führen lassen |
+::::
 > | कृ | कारयति  (kār-aya-ti) | machen lassen |
 > | वच् | वाचयति (vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
 
 Bildungstyp 3:
 
-tiefstufige Wurzel + -aya-
+:::: grammar-box
 
-Kommt vor.
+| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| :--- | :--- | :--- |
+| **duṣ**[[br]](दुष्) | **dūṣayati**[[br]](दूषयति)[[br]](dūṣ-aya-ti) | (jemanden) verderben |
+
+::::
 
 Beispiel:
 
 > | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 > | --- | --- | --- |
-> | दुष् | दूषयति  (dūṣ-aya-ti) | (jemanden)) verderben |
+:::: grammar-box
 
-Bildungstyp 4:
+| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| :--- | :--- | :--- |
+| **sthā**[[br]](स्था) | **sthāpayati**[[br]](स्थापयति)[[br]](sthā-paya-ti) | stehen machen, aufstellen |
+| **i + adhi**[[br]](इ + अधि)[[br]]"studieren" | **adhyāpayati**[[br]](अध्यापयति)[[br]](aus: adhi+ā-paya-ti) | studieren lassen, unterrichten |
 
-Wurzel + -paya-
-
-Bei Wurzeln auf -ā und einigen anderen Wurzeln.
+::::
 
 Beispiele:
 
@@ -268,7 +279,7 @@ Beispiele:
 
 > गम्  गमयति  गमित (gam-i-ta)  "gesendet" (PPP der einfachen Wurzel: गत)
 > 
-> स्था  स्थापयतै  स्थापित (sthāp-i-ta) "aufgestellt"
+> स्था  स्थापयति  स्थापित (sthāp-i-ta) "aufgestellt"
 
 ## 28.7. Bildung des Absolutivs (क्त्वा । ल्यप्) zum Kausativ
 
@@ -311,7 +322,7 @@ In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora
 Beispiele:
 
 1.  Dehnstufige Wurzel + -aya- : कम् 10Ā  कामयते "lieben"
-2.  Hochstufige Wurzel + -aya- : चुर् 10U  चोरयति  "stehlen" ; Futur:  चोर्यिष्यते ; Pass.:  चोर्यते
+2.  Hochstufige Wurzel + -aya- : चुर् 10U  चोरयति  "stehlen" ; Futur:  चोरयिष्यते ; Pass.:  चोर्यते
 
 Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den Formen des einfachen Verbs. Die Entscheidung darüber, ob ein kausativ vorliegt, ist nur aus dem Sinn bzw. manchmal aus der Konstruktion möglich.
 
@@ -331,7 +342,7 @@ Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den
 
 विद् 6U विन्दति (!):  finden
 
-> Fut. वेदिष्यति / वेत्स्यत्   
+> Fut. वेदिष्यति / वेत्स्यति   
 > Pass. विद्यते : es gibt, es ist vorhanden   
 > Kaus. वेदयति   
 > PPP विन्न /  वित्त   
@@ -476,7 +487,7 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und g
 4\. Beachten und lernen Sie besonders folgende Kausativbildungen
 
 1.  दुष् दूषयति
-2.  पा 1 ("trinken2) पाययति (aus: pai-aya-ti)
+2.  पा 1 ("trinken") पाययति (aus: pai-aya-ti)
 3.  पा 2 ("schützen") पालयति
 4.  लभ् लम्भयति
 5.  हन् घातयति
@@ -495,7 +506,7 @@ Beispiel: रामो दासं भारं हारयति » दास
 
 यजन्नग्निनान्नमादयति पानं च पाययति ॥४॥
 
-पुत्रे जाते ब्राह्मणी दासं ब्राह्मनं गमयति । ब्राह्मणस्तं दासं गृहं प्रवेश्य पुत्रं पृच्छति । सुभगः पुत्र इति दासो वक्ति । तच्छ्रुत्वा ब्राह्मणो सुखतां गच्छति ॥५॥
+पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति । ब्राह्मणस्तं दासं गृहं प्रवेश्य पुत्रं पृच्छति । सुभगः पुत्र इति दासो वक्ति । तच्छ्रुत्वा ब्राह्मणो सुखतां गच्छति ॥५॥
 
 स्तुवता नरेण देवा महाकवेः स्तोत्राणि श्राविताः ॥६॥
 
