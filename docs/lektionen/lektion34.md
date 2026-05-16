@@ -44,11 +44,14 @@ Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:
 
 ### 34.2.2. Die Perfektendungen
 
-|   | 3\. Singular | 3\. Plural |
-| --- | --- | --- |
-| Parasmaipada | \-a | \-ur |
-| Ātmanepada | \-e | \-re |
+:::: grammar-box
 
+| | 3. Singular | 3. Plural |
+| :--- | :--- | :--- |
+| **Parasmaipada** | **-a** | **-ur** |
+| **Ātmanepada** | **-e** | **-re** |
+
+::::
 ### 34.2.3. Bindevokal -i-
 
 Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.
@@ -62,36 +65,31 @@ Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvo
 Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.
 
 ṛ,  ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.
+:::: grammar-box
 
-Beispiele:
+| Wurzel[[br]]धातु | 3. sg. Perf. P. |
+| :--- | :--- |
+| **bhid**[[br]](भिद्) | **bibheda**[[br]](बिभेद) |
+| **muc**[[br]](मुच्) | **mumoca**[[br]](मुमोच) |
+| **bhṛ**[[br]](भृ) | **babhāra**[[br]](बभार) |
 
-> | Wurzel | 3.sg.Perf.P |
-> | --- | --- |
-> | भिद् | 
-> बिभेद
-> 
->  |
-> | मुच् | 
-> 
-> मुमोच
-> 
+::::
 >  |
 > | भृ | बभार |
 
-Einige mit y- bzw. v- anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".
+Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".
 
 Beispiele:
 
 > | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P |
-> | --- | --- | --- |
-> | वच् | उवाच  
-> u-vāc-a | ऊचुर्  
-> u + uc-ur |
-> | यज् | इयाज  
-> i-yāj-a | ईजुर्  
-> i + ij-ur |
+:::: grammar-box
 
-### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| **vac**[[br]](वच्) | **uvāca**[[br]](उवाच)[[br]](u-vāc-a) | **ūcuḥ**[[br]](ऊचुर्)[[br]](u + uc-ur) |
+| **yaj**[[br]](यज्) | **iyāja**[[br]](इयाज)[[br]](i-yāj-a) | **ījuḥ**[[br]](ईजुर्)[[br]](i + ij-ur) |
+
+::::
 
 1\. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.
 
@@ -111,18 +109,14 @@ Beispiele:
 
 > | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P |
 > | --- | --- | --- |
-> | इ | 
-> इयाय  
-> iy + ai + a
-> 
->  | ईयुर्  
-> i + iy-ur |
-> | इष् | इयेष  
-> iy-eṣ-a | ईषुर्  
-> i + iṣ-ur |
+:::: grammar-box
 
-3\. Wurzeln die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben als Reduplikationssilbe ān-
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| **i**[[br]](इ) | **iyāya**[[br]](इयाय)[[br]](iy + ai + a) | **īyuḥ**[[br]](ईयुर्)[[br]](i + iy-ur) |
+| **iṣ**[[br]](इष्) | **iyeṣa**[[br]](इयेष)[[br]](iy-eṣ-a) | **īṣuḥ**[[br]](ईषुर्)[[br]](i + iṣ-ur) |
 
+::::
 Beispiele:
 
 > | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P |
@@ -131,11 +125,14 @@ Beispiele:
 > | ऋध् | आनर्ध | आनृधुर् |
 
 ## 34.3. Typen des reduplizierten Perfekts
+:::: grammar-box
 
-Einteilungsprinzip: Besonderheiten der Stammabstufung:
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| **añj**[[br]](अञ्ज्) | **ānañja**[[br]](आनञ्ज) | **ānañjuḥ**[[br]](आनञ्जुर्) |
+| **ṛdh**[[br]](ऋध्) | **ānardha**[[br]](आनर्ध) | **ānṛdhuḥ**[[br]](आनृधुर्) |
 
-*   Perfekt ohne Stammabstufung: Typ I
-*   Perfekt mit Stammabstufung: Typ II - V
+::::
 *   unregelmäßige Perfektbildungen
 
 ## 34.4. Perfekt Typ I: Perfekt ohne Stammabstufung
@@ -152,19 +149,17 @@ Beispiele:
 > | Wurzel | 3.sg.Perf. | 3.pl.Perf. |
 > | --- | --- | --- |
 > | बन्ध् 9P | बबन्ध  
-> ba-bandh-a | बबन्धुर् |
-> | जीव् 1P | जिजीव | जिजीवुर् |
-> | आप् 5P | आप  
-> a + āp-a | आपुर् |
-> | अस् 2P "sein"  
-> अस् 4 "werfen" | आस  
-> a + as-a | आसुर् |
-> | अश् | आनशे  
-> unregelmäßige Reduplikation! | आनशिरे |
+:::: grammar-box
 
-## 34.5. Perfekt II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+| Wurzel[[br]]धातु | 3. sg. Perf. | 3. pl. Perf. |
+| :--- | :--- | :--- |
+| **bandh**[[br]](बन्ध् ९प) | **babandha**[[br]](बबन्ध)[[br]](ba-bandh-a) | **babandhuḥ**[[br]](बबन्धुर्) |
+| **jīv**[[br]](जीव् १प) | **jijīva**[[br]](जिजीव) | **jijīvuḥ**[[br]](जिजीवुर्) |
+| **āp**[[br]](आप् ५प) | **āpa**[[br]](आप)[[br]](a + āp-a) | **āpuḥ**[[br]](आपुर्) |
+| **as**[[br]](अस् २प "sein")[[br]]**as**[[br]](अस् ४ "werfen") | **āsa**[[br]](आस)[[br]](a + as-a) | **āsuḥ**[[br]](आसुर्) |
+| **aś**[[br]](अश्) | **ānaśe**[[br]](आनशे)[[br]](unregelmäßige Reduplikation!) | **ānaśire**[[br]](आनशिरे) |
 
-Gebildet von Verben des Typus:
+::::
 
 *   (Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant
 
@@ -178,22 +173,25 @@ Beispiele:
 > | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P | 3.sg.Perf.Ā | 3.pl.Perf.Ā |
 > | --- | --- | --- | --- | --- |
 > | भिद् | बिभेद | बिभिदुर् | बिभिदे | बिभिदिरे |
-> | इस् | इयेष | ईषुर् |   |   |
+> | इष् | इयेष | ईषुर् |   |   |
 > | मुच् | मुमोच | मुमुचुर् | मुमुचे | मुमुचिरे |
-> | वृत् |   |   | ववृते | ववृतिरे |
-> | कॢप् |   |   | चकॢपे | चकॢपिरे |
+:::: grammar-box
 
-## 34.6. Wortliste
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **bhid**[[br]](भिद्) | **bibheda**[[br]](बिभेद) | **bibhiduḥ**[[br]](बिभिदुर्) | **bibhide**[[br]](बिभिदे) | **bibhidire**[[br]](बिभिदिरे) |
+| **iṣ**[[br]](इष्) | **iyeṣa**[[br]](इयेष) | **īṣuḥ**[[br]](ईषुर्) | | |
+| **muc**[[br]](मुच्) | **mumoca**[[br]](मुमोच) | **mumucuḥ**[[br]](मुमुचुर्) | **mumuce**[[br]](मुमुचे) | **mumucire**[[br]](मुमुचिरे) |
+| **vṛt**[[br]](वृत्) | | | **vavṛte**[[br]](ववृते) | **vavṛtire**[[br]](ववृतिरे) |
+| **kḷp**[[br]](कॢप्) | | | **cakḷpe**[[br]](चकॢपे) | **cakḷpire**[[br]](चकॢपिरे) |
 
-क्षिति f. = पृथ्वी = मही = भूमी
-
-शस्य = सस्य n. sg. u. pl.: Saat, Feldfrucht, Getreide
+::::
 
 ![](/images/lekt3406.jpg)  
 Abb.: सस्यम्  
 \[Bildquelle: Ray Witlin / World Bank. -- [http://www.flickr.com/photos/worldbank/2183806492/](http://www.flickr.com/photos/worldbank/2183806492/). -- Zugriff am 2008-12-27. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] 
 
-यावत् : wie lange wie groß
+यावत् : wie lange, wie groß
 
 तावत् : so lange, so groß
 
@@ -249,7 +247,7 @@ Chamundi-Hills
 
 ## 34.7. Übung
 
-Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entprechenden Perfektformen:
+Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden Perfektformen:
 
 1.  रक्षिष्यन्ति
 2.  स्रक्ष्यति
