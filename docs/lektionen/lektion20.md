@@ -10,13 +10,13 @@ Jodhpur = जोधपुर
 
 बहुव्रीहिः = बहवो व्रीहयो यस्य सः = "einer, der viel Reis besitzt"
 
-Ein Bahuvrīhi bezeichnet im Unterschied zum Tatpurua etwas anderes, als durch seine Glieder ausgedrückt wird: während बालपुत्रः als Tatpuruṣa aufgelöst "ein junger Sohn" bedeutet, also etwas, das durch das Schlussglied des Kompositums (पुत्र) ausgedrückt wird, bedeutet बालपुत्रः als Bahuvrīhi aufgelöst "einer, dessen Sohn jung ist", d.h. das Bezeichnete ist weder der Sohn (पुत्र) noch unbedingt jung (बाल), sondern eine vom jungen Sohn verschiedene Person, nämlich sein Vater.
+Ein Bahuvrīhi bezeichnet im Unterschied zum Tatpuruṣa etwas anderes, als durch seine Glieder ausgedrückt wird: während बालपुत्रः als Tatpuruṣa aufgelöst "ein junger Sohn" bedeutet, also etwas, das durch das Schlussglied des Kompositums (पुत्र) ausgedrückt wird, bedeutet बालपुत्रः als Bahuvrīhi aufgelöst "einer, dessen Sohn jung ist", d.h. das Bezeichnete ist weder der Sohn (पुत्र) noch unbedingt jung (बाल), sondern eine vom jungen Sohn verschiedene Person, nämlich sein Vater.
 
-Possesivkomposita sind zunächst immer Adjektive, die allerdings substantiviert werden können. Deshalb hängt das grammatische Geschlecht eine Bahuvrīhi von dem ab, worauf sich das Bahuvrīhi bezieht, und nicht von Geschlecht des letzten Kompositionsgliedes.
+Possessivkomposita sind zunächst immer Adjektive, die allerdings substantiviert werden können. Deshalb hängt das grammatische Geschlecht eine Bahuvrīhi von dem ab, worauf sich das Bahuvrīhi bezieht, und nicht von Geschlecht des letzten Kompositionsgliedes.
 
 Schema für die Auflösung eines Bahuvrīhi:
 
-1\. Glied meist im Nominativ (प्रथमा) Sing., Dual oder Plural -- 2. Glied im Nominativ Sing., Dual oder Plural -- Relativpronomen in einem anderesn Kasus als Nominativ (meist Genetiv - षष्ठी) und in Geschlecht und Zahl des Gesamtbahuvrīhi -- Demonstrativpronomen in Zahl, Fall und Geschlecht des Gesamtbahuvrīhi.
+1\. Glied meist im Nominativ (प्रथमा) Sing., Dual oder Plural -- 2. Glied im Nominativ Sing., Dual oder Plural -- Relativpronomen in einem anderen Kasus als Nominativ (meist Genetiv - षष्ठी) und in Geschlecht und Zahl des Gesamtbahuvrīhi -- Demonstrativpronomen in Zahl, Fall und Geschlecht des Gesamtbahuvrīhi.
 
 Beispiele:
 
@@ -36,7 +36,7 @@ Beispiele:
 > 
 > प्राप्तोदको ग्रामः = प्राप्तमुदकं यं स ग्रामः = "Ein Dorf, an das das Wasser herangekommen ist" = "ein von der Überschwemmung bedrohtes Dorf"
 > 
-> पुण्यवत्पुत्रः als Bahuvrīhi = पुण्य्अवान्पुत्रो यस्य सः, oder: पुण्यवन्तः पुत्रा यस्य सः = "einer, dessen Sohn Verdienst besitzt" oder: "einer, dessen Söhne Verdienst besitzen"
+> पुण्यवत्पुत्रः als Bahuvrīhi = पुण्यवान्पुत्रो यस्य सः, oder: पुण्यवन्तः पुत्रा यस्य सः = "einer, dessen Sohn Verdienst besitzt" oder: "einer, dessen Söhne Verdienst besitzen"
 
 Das Verhältnis von Vorderglied zu Hinterglied kann bei einem Bahuvrīhi sein:
 
@@ -61,7 +61,7 @@ Adjektiv -- Nomen
 
 Beispiel:
 
-> गुणवत्पुत्रो ब्राह्मणः =  गुण्वान्पुत्रो यस्य स ब्राह्मणाः = "ein Brahmane, dessen Sohn / Söhne gute Eigenschaften besitzt / besitzen"
+> गुणवत्पुत्रो ब्राह्मणः =  गुणवान्पुत्रो यस्य स ब्राह्मणः = "ein Brahmane, dessen Sohn / Söhne gute Eigenschaften besitzt / besitzen"
 
  |
 | --- |
@@ -112,7 +112,7 @@ Beispiel:
  |
 
 ![](/images/lekt2005.jpg)  
-Abb.: देवा येस्वादयः = Jesus und die übrigen Götter  
+Abb.: देवा यीश्वादयः = Jesus und die übrigen Götter  
 Ahmedabad  
 \[Bildquelle: von ganuullu. -- [http://www.flickr.com/photos/ganuullu/373131240/](http://www.flickr.com/photos/ganuullu/373131240/). -- Zugriff am 2008-12-11. --  [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]     
 
@@ -122,7 +122,7 @@ d.h. Bahuvrīhi, deren Vorderglied einen anderen Kasus als den Nominativ (प्
 
 Beispiel:
 
-> देवरूपा = देवस्यैव रूपं यस्याः सा = "eine (Frau), deren gestalt die eines Gottes ist" "eine Frau von göttlichem Aussehen"
+> देवरूपा = देवस्यैव रूपं यस्याः सा = "eine (Frau), deren Gestalt die eines Gottes ist" "eine Frau von göttlichem Aussehen"
 
 Ausnahme zur allgemeinen Regel über die Reihenfolge der Kompositionsglieder:
 
@@ -133,7 +133,7 @@ Beispiel:
 > दण्डहस्तः =  दण्डो हस्ते (Lok. sg.) यस्य सः = "einer, in dessen Hand sich ein Stock befindet" = "einer, der einen Stock in der Hand trägt."
 
 ![](/images/lekt2001.jpg)  
-Abb.: इन्द्रो वज्रपाणिः = पानौ (Lok. sg.) वज्रो यस्य स इन्द्रः = Indra, in dessen Hand sich ein Donnerkeil befindet = Indra mit dem Donnerkeil in der Hand  
+Abb.: इन्द्रो वज्रपाणिः = पाणौ (Lok. sg.) वज्रो यस्य स इन्द्रः = Indra, in dessen Hand sich ein Donnerkeil befindet = Indra mit dem Donnerkeil in der Hand  
 Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr.  
 \[Bildquelle: Wikipedia, Public domain\]
 
@@ -172,7 +172,7 @@ Bei der Adjektivierung werden
 
 Die Beispiele sind hier zur späteren Durcharbeitung gegeben, für einige sind bisher die nötige Grammatik und der Wortschatz noch nicht besprochen
 
-1.  qualifizierendes Wort im Vorderglied -- qualifiziertes Wort im Hinterglied: स्थिरचित्तः = स्तिरं चित्तं यस्य सः
+1.  qualifizierendes Wort im Vorderglied -- qualifiziertes Wort im Hinterglied: स्थिरचित्तः = स्थिरं चित्तं यस्य सः
 2.  Indeklinabile im Vorderglied: उच्चैःश्रवस्
 3.  Vergleich im Vorderglied: कुशाग्रधीः =  कुशाग्र इव धीर्यस्य सः
 4.  Impliziter Vergleich: उष्ट्रमुखः = उष्ट्रस्य मुखमिव मुखं यस्य सः = "kamelmündig" = dessen Mund wie der eines Kamels ist
@@ -207,7 +207,7 @@ Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und b
 
 वा : oder
 
-आश्रम m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ब्रह्मचरिन्, गृहस्त, वनप्रस्थ und evtl. als सन्न्यासिन् ; siehe Basham, Wonder S. 159f.)
+आश्रम m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ und evtl. als सन्न्यासिन् ; siehe Basham, Wonder S. 159f.)
 
 ![](/images/lekt2008.jpg)  
 Abb.: आश्रमाः  
@@ -258,7 +258,7 @@ Rishikesh = ऋषिकेश
 
 सद् 1 P सीदति (!) Pass. सद्यते PPP सन्न : sitzen, sich niederlassen
 
-सद् + प्र 1 P प्रसीदति : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv षष्ठि) gnädig sein
+सद् + प्र 1 P प्रसीदति : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv षष्ठी) gnädig sein
 
 समाधि m.: innere Sammlung, höchste Aufmerksamkeit, meditative "Versenkung"
 
@@ -304,7 +304,7 @@ Rishikesh = ऋषिकेश
 
 विधि m.(!): Anordnung, Gesetz, Vorschrift; Schöpfung, Schicksal
 
-चेष्ट् 1 Ā चेष्तते Pass. चेष्ट्यते PPP चेष्टित : sich regen
+चेष्ट् 1 Ā चेष्टते Pass. चेष्ट्यते PPP चेष्टित : sich regen
 
 ## Übung 1
 
@@ -323,8 +323,8 @@ Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatp
 11.  कृतफलानाम्
 12.  व्याघ्रबलाः
 13.  प्राप्तकाला
-14.  सूरपुत्राम्
-15.  कृतभिषेखः
+14.  शूरपुत्राम्
+15.  कृताभिषेकः
 16.  शूरबलान्
 17.  वीतमोहः
 18.  द्ण्डहस्तस्य
@@ -447,7 +447,7 @@ Gandhara, 2./3. Jhdt.
 
 > Erklärung: त्रिविध ३ : "dreifach"
 
-Definition er Erlösung nach dem Nyāyasystem:
+Definition der Erlösung nach dem Nyāyasystem:
 
 > बाधनालक्षणं दुःखम् ॥न्यायसूत्र १.२१॥  
 > तदत्यन्तविमोक्षो ऽपवर्गः ॥न्यायसूत्र १.२२॥
@@ -469,7 +469,7 @@ Ein सुभाषितम् :
 > Erläuterung: -da am Ende eines Kompositums: "gebend"
 
 ![](/images/lekt2009.jpg)  
-Abb.: लोकानां करदा महीव्  
+Abb.: लोकानां करदा मही  
 Karnataka  
 \[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/188758072/](http://www.flickr.com/photos/mattlogelin/188758072/). -- Zugriff am 2008-12-11. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] 
 
