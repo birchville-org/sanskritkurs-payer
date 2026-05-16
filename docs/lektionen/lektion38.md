@@ -29,9 +29,18 @@ Nach c- und j- wird -n- durch -ñ- ersetzt.
 
 ## 38.3. Deklination der Stämme auf -n
 
-### 38.3.1. Nomina auf -an sowie Nomina -man bzw. -van nach Vokal
+### 38.3.1. Nomina auf -an sowie Nomina auf -man bzw. -van nach Vokal
 
-**Nomina auf -an sowie Nomina -man bzw. -van nach Vokal haben drei Stämme:  ****Starker Stamm****-ān****-mān****-vān****Nom., Akk., Vok. sg. m. f. Nom., Akk., Vok. dual m. f. Nom., Vok. pl. m. f. Nom., Akk. pl. n.  ****Mittlerer Schwacher Stamm****-a aus -*n****-ma aus -*mn****-va aus -*vn****Übrige Kasus vor konsonantisch anlautender Endung Wahlweise auch Lok. sg. m. n. f.****Schwächster Stamm****-n****-mn****-vn****Übrige Kasus vor vokalisch anlautender Endung**** Die Endungen sind regelmäßig.****Der Nominativ Singular m. f. wird ohne auslautendes -n gebildet-**
+Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei Stämme:
+
+*   **Starker Stamm**: **-ān**, **-mān**, **-vān**
+    (Nom., Akk., Vok. sg. m. f.; Nom., Akk., Vok. dual m. f.; Nom., Vok. pl. m. f.; Nom., Akk. pl. n.)
+*   **Mittlerer Schwacher Stamm**: **-a** (aus *-n), **-ma** (aus *-mn), **-va** (aus *-vn)
+    (Übrige Kasus vor konsonantisch anlautender Endung; wahlweise auch Lok. sg. m. n. f.)
+*   **Schwächster Stamm**: **-n**, **-mn**, **-vn**
+    (Übrige Kasus vor vokalisch anlautender Endung)
+
+Die Endungen sind regelmäßig. Der Nominativ Singular m. f. wird ohne auslautendes **-n** gebildet.
 
 Beispiele:
 
@@ -44,36 +53,28 @@ Beispiele:
 सीमन् f. "Grenze"
 
 *   starker Stamm: सीमान्
-*   mittlerer Stamm: सीम
-*   schwächster Stamm: सीम्न्
+:::: grammar-box
 
-नामन् n. "Name"
+| | rājan[[br]](राजन्) m. | sīman[[br]](सीमन्) f. | nāman[[br]](नामन्) n. |
+| :--- | :--- | :--- | :--- |
+| **Singular**[[br]](एकवचनम्) | | | |
+| **1. Nominativ** | **rājā**[[br]](राजा) | **sīmā**[[br]](सीमा) | **nāma**[[br]](नाम) |
+| **2. Akkusativ** | **rājānam**[[br]](राजानम्) | **sīmānam**[[br]](सीमानम्) | **nāma**[[br]](नाम) |
+| **3. Instrumentalis** | **rājñā**[[br]](राज्ञा) | **sīmnā**[[br]](सीम्ना) | **nāmnā**[[br]](नाम्ना) |
+| **4. Dativ** | **rājñe**[[br]](राज्ञे) | **sīmne**[[br]](सीम्ने) | **nāmne**[[br]](नाम्ने) |
+| **5. Ablativ** | **rājñaḥ**[[br]](राज्ञस्) | **sīmnaḥ**[[br]](सीम्नस्) | **nāmnaḥ**[[br]](नाम्नस्) |
+| **6. Genetiv** | **rājñaḥ**[[br]](राज्ञस्) | **sīmnaḥ**[[br]](सीम्नस्) | **nāmnaḥ**[[br]](नाम्नस्) |
+| **7. Lokativ** | **rājñi**[[br]](राज्ञि)[[br]]**rājani**[[br]](राजानि) | **sīmni**[[br]](सीम्नि)[[br]]**sīmani**[[br]](सीमनि) | **nāmni**[[br]](नाम्नि)[[br]]**nāmani**[[br]](नामनि) |
+| **Plural**[[br]](बहुवचनम्) | | | |
+| **1. Nominativ** | **rājānaḥ**[[br]](राजानस्) | **sīmānaḥ**[[br]](सीमानस्) | **nāmāni**[[br]](नामानि) |
+| **2. Akkusativ** | **rājñaḥ**[[br]](राज्ञस्) | **sīmnaḥ**[[br]](सीम्नस्) | **nāmāni**[[br]](नामानि) |
+| **3. Instrumentalis** | **rājabhiḥ**[[br]](राजभिस्) | **sīmanbhiḥ**[[br]](सीम्नभिस्) | **nāmabhiḥ**[[br]](नामभिस्) |
+| **4. Dativ** | **rājabhyaḥ**[[br]](राजभ्यस्) | **sīmanbhyaḥ**[[br]](सीम्नभ्यस्) | **nāmabhyaḥ**[[br]](नामभ्यस्) |
+| **5. Ablativ** | **rājabhyaḥ**[[br]](राजभ्यस्) | **sīmanbhyaḥ**[[br]](सीम्नभ्यस्) | **nāmabhyaḥ**[[br]](नामभ्यस्) |
+| **6. Genetiv** | **rājñām**[[br]](राज्ञाम्) | **sīmnām**[[br]](सीम्नाम्) | **nāmnām**[[br]](नाम्नाम्) |
+| **7. Lokativ** | **rājasu**[[br]](राजसु) | **sīmasu**[[br]](सीमसु) | **nāmasu**[[br]](नामसु) |
 
-*   starker Stamm: नामान्
-*   mittlerer Stamm: नाम
-*   schwächster Stamm: नाम्न्
-
-|   | राजन् | सीमन् | नामन् |
-| --- | --- | --- | --- |
-| 
-एकवचनम्
-
- |   |   |   |
-| प्रथमा | राजा | सीमा | नाम |
-| द्वितिया | राजानम् | सीमानम् | नाम |
-| तृतीया | राज्ञा | सीम्ना | नाम्ना |
-| चतुर्थी | राज्ञे | सीम्ने | नाम्ने |
-| पञ्चमी | राज्ञस् | सीम्नस् | नाम्नस् |
-| षष्ठी | राज्ञस् | सीम्नस् | नाम्नस् |
-| सप्तमी | राज्ञि  
-राजनि | सीम्नि  
-सीमनि | नाम्नि  
-नामनि |
-|   |   |   |   |
-| 
-
-बहुवचनम्
-
+::::
  |   |   |   |
 | प्रथमा | राजानस् | सीमानस् | नामानि |
 | द्वितीया | राज्ञस् | सीम्नस् | नामानि |
@@ -86,7 +87,7 @@ Beispiele:
 ![](/images/lekt3803.jpg)  
 Abb.: सीमा  
 Grenzübergang zwischen Indien und Pakistan in Wagah (वाघा / واہگہ / ਵਾਘਾ)  
-\[Bildquelle: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+\[Bildquelle: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
 
 ### 38.3.2. Nomina auf -man bzw. -van nach Konsonant
 
@@ -112,33 +113,28 @@ Beispiele:
 *   schwacher Stamm:
     *   vor Konsonant: ब्रह्म
     *   vor Vokal: ब्रह्मन्
+:::: grammar-box
 
-|   | आत्मन् | ब्रह्मन् |
-| --- | --- | --- |
-| 
-एकवचनम्
+| | ātman[[br]](आत्मन्) m. | brahman[[br]](ब्रह्मन्) n. |
+| :--- | :--- | :--- |
+| **Singular**[[br]](एकवचनम्) | | |
+| **1. Nominativ** | **ātmā**[[br]](आत्मा) | **brahma**[[br]](ब्रह्म) |
+| **2. Akkusativ** | **ātmānam**[[br]](आत्मानम्) | **brahma**[[br]](ब्रह्म) |
+| **3. Instrumentalis** | **ātmanā**[[br]](आत्मना) | **brahmaṇā**[[br]](ब्रह्मणा) |
+| **4. Dativ** | **ātmane**[[br]](आत्मने) | **brahmaṇe**[[br]](ब्रह्मणे) |
+| **5. Ablativ** | **ātmanaḥ**[[br]](आत्मनस्) | **brahmaṇaḥ**[[br]](ब्रह्मणस्) |
+| **6. Genetiv** | **ātmanaḥ**[[br]](आत्मनस्) | **brahmaṇaḥ**[[br]](ब्रह्मणस्) |
+| **7. Lokativ** | **ātmani**[[br]](आत्मनि) | **brahmaṇi**[[br]](ब्रह्मणि) |
+| **Plural**[[br]](बहुवचनम्) | | |
+| **1. Nominativ** | **ātmānaḥ**[[br]](आत्मानस्) | **brahmāṇi**[[br]](ब्रह्माणि) |
+| **2. Akkusativ** | **ātmanaḥ**[[br]](आत्मनस्) | **brahmāṇi**[[br]](ब्रह्माणि) |
+| **3. Instrumentalis** | **ātmabhiḥ**[[br]](आत्मभिस्) | **brahmabhiḥ**[[br]](ब्रह्मभिस्) |
+| **4. Dativ** | **ātmabhyaḥ**[[br]](आत्मभ्यस्) | **brahmabhyaḥ**[[br]](ब्रह्मभ्यस्) |
+| **5. Ablativ** | **ātmabhyaḥ**[[br]](आत्मभ्यस्) | **brahmabhyaḥ**[[br]](ब्रह्मभ्यस्) |
+| **6. Genetiv** | **ātmanām**[[br]](आत्मनाम्) | **brahmaṇām**[[br]](ब्रह्मणाम) |
+| **7. Lokativ** | **ātmasu**[[br]](आत्मसु) | **brahmasu**[[br]](ब्रह्मसु) |
 
- |   |   |
-| प्रथमा | आत्मा | ब्रह्म |
-| द्वितिया | आत्मानम् | ब्रह्म |
-| तृतीया | आत्मना | ब्रह्मणा |
-| चतुर्थी | आत्मने | ब्रह्मण्E |
-| पञ्चमी | आत्मनस् | ब्रह्मणस् |
-| षष्ठी | आत्मनस् | ब्रह्मणस् |
-| सप्तमी | आत्मनि | ब्रह्मणि |
-|   |   |   |
-| 
-
-बहुवचनम्
-
- |   |   |
-| प्रथमा | आत्मानस् | ब्रह्माणि |
-| द्वितीया | आत्मनस् | ब्रह्माणी |
-| तृतीया | आत्मभिस् | ब्रह्मभिस् |
-| चतुर्थी | आत्मभ्यस् | ब्रह्मभ्यस् |
-| पञ्चमी | आत्मभ्यस् | ब्रह्मभ्यस् |
-| षष्ठी | आत्मनाम् | ब्रह्मणाम् |
-| सप्तमी | आत्मसु | ब्रह्मसु |
+::::
 
 ### 38.3.3. Maskulina und Neutra auf -in, -min, -vin
 
@@ -152,15 +148,36 @@ Beispiel:
 
 बलिन् m.n. "stark, kräftig (durch besonderes बल gekennzeichnet, बल besitzend)"
 
- **पुंस्****नपुंसकम्****एकवचनम्**  **प्रथमा**बलीबलि**द्वितिया**बलिनम्बलि**तृतीया**बलिना**चतुर्थी**बलिने**पञ्चमी**बलिनस्**षष्ठी**बलिनस्**सप्तमी**बलिनि   **बहुवचनम्**  **प्रथमा**बलिनस्बलीनि**द्वितीया**बलिनस्बलीनि**तृतीया**बलिभिस्**चतुर्थी**बलिभ्यस्**पञ्चमी**बलिभ्यस्**षष्ठी**बलिनाम्**सप्तमी**बलिषु
+ **पुंस्****नपुंसकम्****एकवचनम्**  **प्रथमा**बलीबलि**द्वितीया**बलिनम्बलि**तृतीया**बलिना**चतुर्थी**बलिने**पञ्चमी**बलिनस्**षष्ठी**बलिनस्**सप्तमी**बलिनि   **बहुवचनम्**  **प्रथमा**बलिनस्बलीनि**द्वितीया**बलिनस्बलीनि**तृतीया**बलिभिस्**चतुर्थी**बलिभ्यस्**पञ्चमी**बलिभ्यस्**षष्ठी**बलिनाम्**सप्तमी**बलिषु
 
 ## 38.4. Zur Nominalbildung: तद्धित-Suffix -in
 
-Mit dem (sehr wichtigen!) तद्धित-Suffix -in werden aus Substantiven Adjektive gebildet in der Bedeutung:
+:::: grammar-box
+
+| | Maskulinum[[br]]पुंल्लिङ्ग | Neutrum[[br]]नपुंसकलिङ्ग |
+| :--- | :--- | :--- |
+| **Singular**[[br]]एकवचनम् | | |
+| **1. Nominativ** | **balī**[[br]](बली) | **bali**[[br]](बलि) |
+| **2. Akkusativ** | **balinam**[[br]](बलिनम्) | **bali**[[br]](बलि) |
+| **3. Instrumentalis** | **balinā**[[br]](बलिना) | **balinā**[[br]](बलिना) |
+| **4. Dativ** | **baline**[[br]](बलिने) | **baline**[[br]](बलिने) |
+| **5. Ablativ** | **balinaḥ**[[br]](बलिनस्) | **balinaḥ**[[br]](बलिनस्) |
+| **6. Genetiv** | **balinaḥ**[[br]](बलिनस्) | **balinaḥ**[[br]](बलिनस्) |
+| **7. Lokativ** | **balini**[[br]](बलिनि) | **balini**[[br]](बलिनि) |
+| **Plural**[[br]]बहुवचनम् | | |
+| **1. Nominativ** | **balinaḥ**[[br]](बलिनस्) | **balīni**[[br]](बलीni) |
+| **2. Akkusativ** | **balinaḥ**[[br]](बलिनस्) | **balīni**[[br]](बलीni) |
+| **3. Instrumentalis** | **balibhiḥ**[[br]](बलिभिस्) | **balibhiḥ**[[br]](बलिभिस्) |
+| **4. Dativ** | **balibhyaḥ**[[br]](बलिभ्यस्) | **balibhyaḥ**[[br]](बलिभ्यस्) |
+| **5. Ablativ** | **balibhyaḥ**[[br]](बलिभ्यस्) | **balibhyaḥ**[[br]](बलिभ्यस्) |
+| **6. Genetiv** | **balinām**[[br]](बलिनाम्) | **balinām**[[br]](बलिनाम्) |
+| **7. Lokativ** | **baliṣu**[[br]](बलिषु) | **baliṣu**[[br]](बलिषु) |
+
+::::
 
 gekennzeichnet durch, besitzend
 
-Ursprünglich unterschied sich die Bildung mit dem Suffix -इन् von der mit -मन्त्/-वन्त् dadurch, dass -इन् die Kennzeichnung durch etas Besonderes bezeichnete, während -मन्त्/-वन्त् den Besitz von, die Kennzeichnung durch etwas ausdrückte, das gewöhnlich, allgemein ist.
+Ursprünglich unterschied sich die Bildung mit dem Suffix -इन् von der mit -मन्त्/-वन्त् dadurch, dass -इन् die Kennzeichnung durch etwas Besonderes bezeichnete, während -मन्त्/-वन्त् den Besitz von, die Kennzeichnung durch etwas ausdrückte, das gewöhnlich, allgemein ist.
 
 Beispiel:
 
@@ -169,7 +186,7 @@ Beispiel:
 ![](/images/lekt3806.jpg)  
 Abb.: हस्ती  
 Nagarhole National Park = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ  
-\[Bildquelle: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Zugriff am 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+\[Bildquelle: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Zugriff am 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
 
 हस्तवन्त् : einer, der (menschliche) Hände hat
 
@@ -225,7 +242,7 @@ Beispiel:
 
 ## 38.7. Konsonantisch auslautende Stämme als Vorderglieder von Komposita
 
-Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompositums in dem (schachen) Stamm, den sie vor der Endung -su des Lokativ (सप्तमी) Plural annehmen.
+Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompositums in dem (schwachen) Stamm, den sie vor der Endung -su des Lokativ (सप्तमी) Plural annehmen.
 
 Beispiel:
 
@@ -254,7 +271,7 @@ Abb.: सूर्यः
 ![](/images/lekt3805.jpg)  
 Abb.: उदकम्  
 Darewadi village, Ahmed Nagar District = अहमदनगर, महाराष्ट्र  
-\[Bildquelle: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+\[Bildquelle: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
 
 वा 2P वाति : wehen, blasen
 
@@ -298,7 +315,7 @@ Gandhara, 2./3. Jhdt. n. Chr.
 
 राजन् m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. तत्पुरुष) meist: -राज m. (wie देव)
 
-> Feminimum:
+> Femininum:
 > 
 > राज्ञी f.: Königin, Frau eines Königs
 > 
@@ -327,7 +344,7 @@ Halebidu = ಹಳೆಬೀಡು
 
 हस्तिन् m.: Elefant (_Elephas maximus_)
 
-मनु m.: Mensch, Mann; Name des Vaters des menschengeschlechts (zu मन् 4Ā)
+मनु m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu मन् 4Ā)
 
 > davon:
 > 
@@ -365,7 +382,7 @@ A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammer
 
 ... (सप्तमी विभक्तिः) ... धर्मं रक्षत्यभया जनाः ॥१॥ (राजन्)
 
-आसीद्राजपुत्रो गौतमस् ... सुकृतकर्मोप्पन्नो बुध्या रूप्यमितबलः ॥२॥ (नामन्)
+आसीद्राजपुत्रो गौतमस् ... सुकृतकर्मोपपन्नो बुद्ध्या रूपामितबलः ॥२॥ (नामन्)
 
 राज्यस्य ... (सप्तमी बहुवचने) ... अरयो राजानं योद्धुं तिष्ठन्ति ॥३॥ (सीमन्)
 
@@ -383,7 +400,7 @@ A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammer
 
 महीभोगस् ... (शष्ठी बहुवचने) ... धर्मः ॥१०॥ (राजन्)
 
-रज्ञे ... दीयेरन् ॥११॥ (बलिन् हस्तिन्)
+राज्ञे ... दीयेरन् ॥११॥ (बलिन् हस्तिन्)
 
 ... (तृतीया विभक्तिः) ... लोका असृज्यन्त ॥१२॥ (ब्रह्मन् m.)
 
@@ -402,7 +419,7 @@ A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammer
 ![](/images/lekt3812.jpg)  
 Abb.: विनोदः  
 Carrom-Spiel  
-\[Bildquelle: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]  
+\[Bildquelle: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]  
 
 अट् 1P अटति : herumschweifen
 
@@ -516,7 +533,7 @@ Erklärungen:
 
 नव Nom.Akk.pl.m.f.n. zu नवन् "neun"
 
-ययम् Nom.pl. "wir"
+वयम् Nom.pl. "wir"
 
 स्मस् 1.pl.Ind.Präs.P zu अस् 2P
 
