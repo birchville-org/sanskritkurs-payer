@@ -75,7 +75,7 @@ Beispiele:
 | Wurzel (dhātu) | Präsensstamm | 3. Person Singular Indikativ Präsens Parasmaipada |
 | :--- | :--- | :--- |
 | **viś** = विश् | **viśa** = विश | **viśati** = विशति = "er (sie, es) tritt ein" |
-| **bhū** = भू | **bhava** = भव | **bhavati** = bhavati = "er (sie, es) entsteht" |
+| **bhū** = भू | **bhava** = भव | **bhavati** = भवति = "er (sie, es) entsteht" |
 | **nṛt** = नृत् | **nṛtya** = नृत्य | **nṛtyati** = नृत्यति = "er (sie, es) tanzt" |
 
 ---
@@ -83,10 +83,10 @@ Beispiele:
 ## 6.4. Primärendungen der dritten Person (prathama m. = प्रथम = "erste (!) Person")
 
 ::: grammar-box
-| | Singular (Einzahl) ekavacana n. | Plural (Mehrzahl) bahuvacana n. |
+| | Singular (Einzahl)[[br]]ekavacana n.[[br]]एकवचन | Plural (Mehrzahl)[[br]]bahuvacana n.[[br]]बहुवचन |
 | :--- | :--- | :--- |
-| **Parasmaipada n.** | **-ti** = -ति | **-nti** = -न्ति |
-| **Ātmanepada n.** | **-te** = -ते | **-nte** = -न्ते |
+| **Parasmaipada n.**[[br]]परस्मैपद | **-ti**[[br]]-ति | **-nti**[[br]]-न्ति |
+| **Ātmanepada n.**[[br]]आत्मनेपद | **-te**[[br]]-ते | **-nte**[[br]]-न्ते |
 :::
 
 Beispiel **yaj** = यज् = "mit einem Opfer verehren", "opfern":
@@ -105,10 +105,10 @@ Beispiel **yaj** = यज् = "mit einem Opfer verehren", "opfern":
 ::: grammar-box
 **Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + a-**
 
-| Wurzel (dhātu m.) | Präsensstamm |
+| Wurzel (dhātu m.)[[br]]धातु | Präsensstamm |
 | :--- | :--- |
-| **viś** (विश्) | **viśa-** (विश-) |
-| **sṛj** (सृज्) | **sṛja-** (सृज-) |
+| **viś**[[br]]विश् | **viśa-**[[br]]विश- |
+| **sṛj**[[br]]सृज् | **sṛja-**[[br]]सृज- |
 :::
 
 ### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū usw.")
@@ -116,15 +116,15 @@ Beispiel **yaj** = यज् = "mit einem Opfer verehren", "opfern":
 ::: grammar-box
 **Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a-**
 
-| Wurzel (dhātu m.) | Hochstufe | Hochstufe vor a- | Präsensstamm |
+| Wurzel (dhātu m.)[[br]]धातु | Hochstufe | Hochstufe vor a- | Präsensstamm |
 | :--- | :--- | :--- | :--- |
-| **bhū** (भू) | **bho** (भो) | **bhav** (भव्) | **bhava-** (भव-) |
-| **nī** (नी) | **ne** (ने) | **nay** (नय्) | **naya-** (नय-) |
-| **smṛ** (स्मृ) | **smar** (स्मर्) | **smar** (स्मर्) | **smara-** (स्मर-) |
-| **yaj** (यज्) | **yaj** (यज्) | **yaj** (यज्) | **yaja-** (यज-) |
+| **bhū**[[br]]भू | **bho**[[br]]भो | **bhav**[[br]]भव् | **bhava-**[[br]]भव- |
+| **nī**[[br]]नी | **ne**[[br]]ने | **nay**[[br]]नय् | **naya-**[[br]]नय- |
+| **smṛ**[[br]]स्मृ | **smar**[[br]]स्मर् | **smar**[[br]]स्मर् | **smara-**[[br]]स्मर- |
+| **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaja-**[[br]]यज- |
 
 Steht der Vokal in einer langen geschlossenen Silbe (Kurzvokal vor zwei oder mehr Konsonanten), unterbleibt die Bildung der Hochstufe:
-- **nind** (निन्द्) → **ninda-** (निन्द-)
+- **nind**[[br]]निन्द् → **ninda-**[[br]]निन्द-
 :::
 
 #### 6.5.2.1. Wortsandhi von e und o
@@ -133,7 +133,7 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 #### 6.5.2.2. Lautabstufung (Ablaut)
 
 ::: grammar-box
-| Tiefstufe / Schwundstufe | Hochstufe / Vollstufe (Guṇa m. = गुण) | Dehnstufe (Vṛddhi f. = वृद्धि) |
+| Tiefstufe[[br]]Schwundstufe | Hochstufe[[br]]Vollstufe[[br]]Guṇa m.[[br]]गुण | Dehnstufe[[br]]Vṛddhi f.[[br]]वृद्धि |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
 | **i / ī** | **e** | **ai** |
@@ -147,12 +147,12 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 ::: grammar-box
 **Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + ya-**
 
-| Wurzel (dhātu m.) | Präsensstamm |
+| Wurzel (dhātu m.)[[br]]धातु | Präsensstamm |
 | :--- | :--- |
-| **nṛt** (नृत्) | **nṛtya-** (नृत्य-) |
-| **muh** (मुह्) | **muhya-** (muhya-) |
-| **yudh** (युध्) | **yudhya-** (युध्य-) |
-| **man** (मन्) | **manya-** (मन्य-) |
+| **nṛt**[[br]]नृत् | **nṛtya-**[[br]]नृत्य- |
+| **muh**[[br]]मुह् | **muhya-**[[br]]मुह्य- |
+| **yudh**[[br]]युध् | **yudhya-**[[br]]युध्य- |
+| **man**[[br]]मन् | **manya-**[[br]]मन्य- |
 :::
 
 ### 6.5.4. Themavokal, thematische Präsensklassen
@@ -206,7 +206,7 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
    ब्राह्मणस् ... यज्, नृत्, विश्, मन्, युध्, नी, मुह्
 2. devas ... (nṛt, yudh, smṛ, sṛj)
-   देवस् ... नृत्, युध्, smṛ, सृज्
+   देवस् ... नृत्, युध्, स्मृ, सृज्
 3. kavis ... (man, smṛ, viś)
    कविस् ... मन्, स्मृ, विश्
 4. dhenus ... (viś, bhū)
@@ -248,7 +248,7 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 3. (śruti) ... vedaḥ
    श्रुति ... वेदः
 4. (veda) ... śrutiḥ
-   वेद ... श्रutiḥ
+   वेद ... श्रुतिः
 5. (brāhmaṇa, guru) ... yajanti
    ब्राह्मण, गुरु ... यजन्ति
 6. (devī) ... indrāṇī
