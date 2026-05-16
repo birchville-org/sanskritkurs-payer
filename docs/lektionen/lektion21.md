@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 21
 
@@ -14,14 +12,14 @@ Beispiele:
 > "Während Vater liest, raucht er = der lesende Vater raucht"  
 > "ein seiender (= wirklicher, echter) Freund"
 
-<table><tbody><tr><td colspan="3">**Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:** </td></tr><tr><td>**Maskulinum, Neutrum**</td><td> </td><td> </td></tr><tr><td> </td><td>**starker Stamm**</td><td>**Präsensstamm + -nt-**</td></tr><tr><td> </td><td>**schwacher Stamm**</td><td>**Präsensstamm + -t-**</td></tr><tr><td>**Femininum**</td><td> </td><td> </td></tr><tr><td> </td><td> </td><td>**Präsensstamm + -nt- + -ī (Deklination wie देवी)**</td></tr><tr><td> </td><td>**6. Präsensklasse**</td><td>**Präsensstamm + -nt- + -ī****oder:**<br>**Präsensstamm + -t- + -ī**</td></tr></tbody></table>
+**Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:** **Maskulinum, Neutrum**   **starker Stamm****Präsensstamm + -nt-** **schwacher Stamm****Präsensstamm + -t-****Femininum**    **Präsensstamm + -nt- + -ī (Deklination wie देवी)** **6. Präsensklasse****Präsensstamm + -nt- + -ī****oder:** **Präsensstamm + -t- + -ī**
 
 Beispiele:
 
 1\. Präsensklasse:
 
 > यजब्त् "ein mit einem Opfer verehrender"
->
+&gt;
 > |   |   | Maskulinum  
 > पुंस् | Neutrum  
 > नपुंसक | Femininum  
@@ -74,14 +72,14 @@ Beispiele:
 > *   Neutrum Nom. Akk. sg. विशत्
 > *   Femininum Nom. sg. विशन्ती । विशती
 
-<table><tbody><tr><td colspan="3">**Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (außer 3. Präsensklasse):** </td></tr><tr><td>**Maskulinum, Neutrum**</td><td> </td><td> </td></tr><tr><td> </td><td>**starker Stamm**</td><td>**Präsensstamm + -ant-**</td></tr><tr><td> </td><td>**schwacher Stamm**</td><td>**Präsensstamm + -at-****Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P**</td></tr><tr><td>**Femininum**</td><td> </td><td> </td></tr><tr><td> </td><td> </td><td>**Präsensstamm + -at- + -ī (Deklination wie देवी)**</td></tr></tbody></table>
+**Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (außer 3. Präsensklasse):** **Maskulinum, Neutrum**   **starker Stamm****Präsensstamm + -ant-** **schwacher Stamm****Präsensstamm + -at-****Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P****Femininum**    **Präsensstamm + -at- + -ī (Deklination wie देवी)**
 
 Beispiele:
 
 2\. Präsensklasse:
 
 > अस् "sein": सन्त् "seiend, echter, guter, wahrer"
->
+&gt;
 > |   |   | Maskulinum  
 > पुंस् | Neutrum  
 > नपुंसक | Femininum  
@@ -273,7 +271,7 @@ Orissa = ଓଡ଼ିଶା
 > 
 > davon:
 > 
-> > भिक्षु m.: Bettler, Mönch
+> &gt; भिक्षु m.: Bettler, Mönch
 
 ![](/images/lekt2104.jpg)  
 Abb.: भिक्षवः  

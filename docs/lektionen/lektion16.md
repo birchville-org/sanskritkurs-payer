@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 16
 
@@ -9,67 +7,38 @@ Zur Bildung von Komposita, deren Vorderglied konsonantisch auslautende Stämme b
 
 Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. keine Nasale und keine Palatale).
 
-| in Pausa und vor stimmlosen Lauten | Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:
-z.B.
+:::: grammar-box
 
-> \-g + p- » -kp-  
-> \-d + ph- » -tph-  
-> \-dh + p- » -tp-
+::: no-header
 
- |
-| --- | --- |
-| vor stimmhaften nichtnasalen Lauten | Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:
+|   |   |
+| :--- | :--- |
+| **in Pausa und vor stimmlosen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** [[br]] **z.B.** [[br]] [[indent]] -g + p- » -kp- [[br]] [[indent]] -d + ph- » -tph- [[br]] [[indent]] -dh + p- » -tp- |
+| **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** [[br]] **z.B.** [[br]] [[indent]] -t + g- » -dg- [[br]] [[indent]] -k + b- » -gb- [[br]] [[indent]] -dh + d- » -dd- [[br]] [[indent]] -k + a- » -ga- |
+| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** [[br]] **z.B.** [[br]] [[indent]] -t + n- » -nn- [[br]] [[indent]] -p + n- » -mn- |
 
-z.B.
+:::
 
-> \-t + g- » -dg-  
-> \-k + b- » -gb-  
-> \-dh + d- » -dd-  
-> \-k + a- » -ga-
-
- |
-| vor Nasalen | Ersetzung durch den ihnen entsprechenden Nasal:
-
-z.B.
-
-> \-t + n- » -nn-  
-> \-p + n- » -mn-
-
- |
+::::
 
 Ausnahme zu obiger Regel:
 
 Auslautender dentaler Verschlusslaut (nicht Nasal):
 
-| vor Palatal | Ersetzung durch betreffenden unaspirierten Palatal:
-d.h.
+:::: grammar-box
 
-> \-t + c- » -cc-  
-> \-d + c- » -cc-  
-> \-th + c- » -cc-  
-> \-dh + c- » -cc-  
-> \-t/-th/-d/-dh + ch- » -cch-  
-> \-t/-th/-d/-dh + j- » -jj-  
-> \-t/-th/-d/-dh + jh- » -jjh-
+::: no-header
 
- |
-| --- | --- |
-| \+ ś |  » -cś- oder -cch- |
-| vor Retroflex | Ersetzung durch betreffenden unaspirierten Retroflex:
+|   |   |
+| :--- | :--- |
+| **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** [[br]] **d.h.** [[br]] [[indent]] -t + c- » -cc- [[br]] [[indent]] -d + c- » -cc- [[br]] [[indent]] -th + c- » -cc- [[br]] [[indent]] -dh + c- » -cc- [[br]] [[indent]] -t/-th/-d/-dh + ch- » -cch- [[br]] [[indent]] -t/-th/-d/-dh + j- » -jj- [[br]] [[indent]] -t/-th/-d/-dh + jh- » -jjh- |
+| **+ ś** | **» -cś- oder -cch-** |
+| **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** [[br]] **d.h.** [[br]] [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- [[br]] [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **vor l-** | **Ersetzung durch -l:** [[br]] **d.h.** [[br]] [[indent]] -t/-th/-d/-dh + l- » -ll- |
 
-d.h.
+:::
 
-> \-t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)-  
-> \-t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- 
-
- |
-| vor l- | Ersetzung durch -l:
-
-d.h.
-
-> \-t/-th/-d/-dh + l- » -ll-
-
- |
+::::
 
 Beispiele:
 
@@ -93,12 +62,11 @@ Beispiele:
 
 अध्यापन n.: Unterrichten, Unterricht
 
-![](/images/lekt1602.jpg)  
+::: media
+![](/images/lekt1602.jpg)
 Abb.: अध्यापनम्
-
-> "This is a special ceremony in a small temple in Satara (सातारा). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
-> 
-> \[Bildquelle: Shrimaitreya. -- [http://www.flickr.com/photos/shrimaitreya/339418301/](http://www.flickr.com/photos/shrimaitreya/339418301/). -- Zugriff am 2008-12-07. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+(Bildquelle: [Details](/licenses#lekt1602))
+:::
 
 अनसूया f.: Nicht-Murren, Neidlosigkeit
 
@@ -106,13 +74,17 @@ Abb.: अध्यापनम्
 
 davon:
 
-> अनृशंस्य n.: Nicht-Boshaftigkeit
+::: indent
+अनृशंस्य n.: Nicht-Boshaftigkeit
+:::
 
 जीव् 1 P जीवति ; Pass. जीव्यते ; PPP जीवित : leben
 
 davon:
 
-> आजीव m.: Lebensunterhalt
+::: indent
+आजीव m.: Lebensunterhalt
+:::
 
 क्षमा f.: Geduld, Langmut, Nachsicht
 
@@ -126,12 +98,13 @@ davon:
 
 योग m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga
 
-![](/images/lekt1601.jpg)  
-Abb.: योगी  
-Birla Mandir, Delhi  
-\[Bildquelle: Deepak / Wikipedia ; [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/de/deed.en) (Namensnennung, share alike)\]
+::: media
+![](/images/lekt1601.jpg)
+Abb.: योगी
+(Bildquelle: [Details](/licenses#lekt1601))
+:::
 
-वृत्  1 Ā वर्तते ; Pass. वृत्यते  ; PPP वृत्त : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen
+वृत् 1 Ā वर्तते ; Pass. वृत्यते ; PPP वृत्त : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen
 
 शस्त्र (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe
 
@@ -141,10 +114,11 @@ Birla Mandir, Delhi
 
 अहिंसा f.: das Niemandem-etwas-zu-Leide-Tun, Nichtverletzen, Gewaltlosigkeit
 
-![](/images/lekt1603.jpg)  
-Abb.: अहिंसा  
-"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt1603.jpg)
+Abb.: अहिंसा
+(Bildquelle: [Details](/licenses#lekt1603))
+:::
 
 ## 16.3. Übung
 
@@ -158,10 +132,11 @@ A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie:
 
 ४. पशुमन्तो जनाः ।
 
-![](/images/lekt1604.jpg)  
-Abb.: पशुमन्तो जनाः  
-हरियाणा / ਹਰਿਆਣਾ  
-\[Bildquelle: mksfoto. -- [http://www.flickr.com/photos/mksfoto/583024679/](http://www.flickr.com/photos/mksfoto/583024679/). -- Zugriff am 2008-12-07. --  [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt1604.jpg)
+Abb.: पशुमन्तो जनाः
+(Bildquelle: [Details](/licenses#lekt1604))
+:::
 
 ५. सुखवान्वैश्यायाः पुत्रः ।
 
@@ -208,11 +183,11 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 Verwenden Sie dazu folgendes Schema, das der Reihenfolge der Kasus bei den indischen Grammatikern entspricht und das wegen seiner - später zu besprechenden - Vorzüge auch von den westlichen Grammatikern übernommen wurde:
 
 | एकवचनम् Singular | बहुवचनम् Plural |
-| --- | --- |
-| १. प्रथमा Nominativ | १. प्रथमा |
-| २. द्वितीया Akkusativ | २. द्वितीया |
-| ३. तृतीया Instrumentalis | ३. तृतीया |
-| ६. षष्ठी Genetiv | ६. षष्ठी |
+| :--- | :--- |
+| **१. प्रथमा Nominativ** | **१. प्रथमा** |
+| **२. द्वितीया Akkusativ** | **२. द्वितीया** |
+| **३. तृतीया Instrumentalis** | **३. तृतीया** |
+| **६. षष्ठी Genetiv** | **६. षष्ठी** |
 
 Lernen Sie die Deklinationsmuster nach diesen Beispielen auswendig!!!
 
@@ -258,12 +233,26 @@ B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf:
 
 (कौटिलीयार्थशास्त्र १.३.५-८, १३)
 
-> Erklärungen;
-> 
-> Satz 7: कृषिपाशुपाल्ये Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet
-> 
-> Satz 8: कर्म Nom., Akk. sg. Neutrum zu कर्मन् "Tat"
-> 
-> Satz 13: सर्वेषाम् Gen. pl. mask. zu सर्व "jeder, alle" (Pronomen, dekliniert nicht wie deva)
+::: info
+Erklärungen:
+
+**Satz 7:** कृषिपाशुपाल्ये Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet
+
+**Satz 8:** कर्म Nom., Akk. sg. Neutrum zu कर्मन् "Tat"
+
+**Satz 13:** सर्वेषाम् Gen. pl. mask. zu सर्व "jeder, alle" (Pronomen, dekliniert nicht wie deva)
+:::
 
 ३. आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः, तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १.४.३॥
+
+### Quellen
+
+::: deleteme-box
+**lekt1601:** Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)]
+
+**lekt1602:** "This is a special ceremony in a small temple in Satara (सातारा). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Bildquelle: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt1603:** "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Bildquelle: Wikipedia, Public domain]
+
+**lekt1604:** हरियाणा / ਹਰਿਆਣਾ [Bildquelle: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)]
+:::

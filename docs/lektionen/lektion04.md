@@ -5,7 +5,7 @@ last_reconstructed: 2026-05-07
 
 # Lektion 4
 
-::: info
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Fragepronomina und Demonstrativpronomina im Nominativ
 - Sandhi von auslautendem -m

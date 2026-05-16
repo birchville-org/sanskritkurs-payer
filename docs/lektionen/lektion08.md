@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-07
 
 # Lektion 8
 
-::: info
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Die Bildung von Nomina (kṛt- und taddhita-Suffixe)
 - Wichtige Nominalsuffixe (-a, -ana, -tra, -ti, -tva, -tā)
@@ -109,7 +109,7 @@ Abb.: Maa Batakali Darshan, Puri, Orissa
 
 > [!NOTE]
 > **"Darshan"** oder **"Darshana"** ist ein Begriff aus dem Hinduismus für die Sicht und Vision des Heiligen und Göttlichen. Unter *Darshana* wird z.B. das offizielle Treffen von Schüler und Meister verstanden, bei dem der Schüler vom Meister geladen wurde. Es kann aber auch das *sich Versenken* beim Betrachten eines Götterbildes bedeuten. Letztere Bedeutung ist diejenige, die im heutigen Sprachgebrauch des Hindi die häufigste ist. Im Zusammenhang mit Mata Amritanandamayi bedeutet Darshan die Umarmung durch den Guru.
->
+&gt;
 > Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine Statue, in der die geistige Anwesenheit der Gottheit angenommen wird, zu erlangen. In diesem Sinne auch eine Segnung durch die Gottheit. Darshan kann jedoch auch durch eine Vision der Gottheit bei Gebet oder der Meditation empfangen werden. Auch eine lebendige Person, die als Inkarnation der Gottheit angesehen wird, wie z. Bsp. ein Avatara, kann Darshan geben.
 > (Quelle: Wikipedia)
 

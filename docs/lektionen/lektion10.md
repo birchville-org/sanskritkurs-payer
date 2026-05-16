@@ -5,7 +5,7 @@ last_reconstructed: 2026-05-07
 
 # Lektion 10
 
-::: info
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Den Passivsatz (Instrumentalis des Agens)
 - Die Deklination des Instrumentalis (tṛtīyā)
@@ -103,7 +103,7 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 | **idam** (dieses) | M/N | **anena / enena** (अनेन / एनेन) | **ebhis** (एभिस्) |
 | | F | **anayā / enayā** (अनया / एनया) | **ābhis** (आभिस्) |
 
-::: info
+::: deleteme-box
 Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepronomens und der Demonstrativpronomina mit den Formen des entsprechenden Maskulinums identisch.
 :::
 

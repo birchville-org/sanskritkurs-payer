@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 30
 
@@ -20,14 +18,14 @@ Beispiel:
 
 > क्री 9U "kaufen"
 > 
-> > |   | Singular | Plural |
-> > | --- | --- | --- |
-> > | 3\. Person Parasmaipada | क्रीणाति  
-> > (krī + nā + ti) | क्रीणन्ति  
-> > (krī + n + anti) |
-> > | 3\. Person Ātmanepada | क्रीणीते  
-> > (krī + nī + te) | क्रीणते  
-> > (krī + n + ate) |
+> &gt; |   | Singular | Plural |
+> &gt; | --- | --- | --- |
+> &gt; | 3\. Person Parasmaipada | क्रीणाति  
+> &gt; (krī + nā + ti) | क्रीणन्ति  
+> &gt; (krī + n + anti) |
+> &gt; | 3\. Person Ātmanepada | क्रीणीते  
+> &gt; (krī + nī + te) | क्रीणते  
+> &gt; (krī + n + ate) |
 
 Bei dieser Präsensklasse ist besonders zu beachten die Bildung des Präsensstamms zur Wurzel ज्ञा 9U "erkennen, wissen":
 
@@ -285,7 +283,7 @@ Bundi = बुन्दी, Rajasthan = राजस्थान
 > Pass.ज्ञायते  
 > Kaus. ज्ञापयति
 > 
-> > Kaus. PPP ज्ञप्त / ज्ञापित
+> &gt; Kaus. PPP ज्ञप्त / ज्ञापित
 > 
 > PPP ज्ञात  
 > Inf. ज्ञातुम्

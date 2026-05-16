@@ -5,7 +5,7 @@ last_reconstructed: 2026-05-07
 
 # Lektion 3
 
-::: info
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - den Nominativ Singular des Femininums
 - den Nominativ Plural des Maskulinums und Femininums

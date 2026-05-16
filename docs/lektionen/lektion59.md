@@ -1,11 +1,9 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 59
 
 ## 59.1. Die Sekundärendungen und Imperativendungen des Dual (द्विवचनम्)
 
-<table><tbody><tr><td> </td><th colspan="2">**परस्मैपदम्**</th><th colspan="3">आत्मनेपदम्</th></tr><tr><td> </td><th>sekundär</th><th>Imperativ (लोट्)</th><th>sekundär thematisch</th><th>sekundär athematisch<br>Optativ (विधिलिङ्)</th><th>Imperativ (लोट्)</th></tr><tr><td>**1. तृतीयः**</td><td>-va</td><td>-āva</td><td colspan="2">-vahi</td><td>-āvahai</td></tr><tr><td>**2. मध्यमः**</td><td colspan="2" rowspan="2">-tam-tām</td><td>-īthām</td><td>-āthām</td><td>-īthām / āthām</td></tr><tr><td>**3. प्रथमः**</td><td>-ītām</td><td>-ātām</td><td>-ītām / -ātām</td></tr></tbody></table>
+ **परस्मैपदम्**आत्मनेपदम् sekundärImperativ (लोट्)sekundär thematischsekundär athematisch Optativ (विधिलिङ्)Imperativ (लोट्)**1. तृतीयः**-va-āva-vahi-āvahai**2. मध्यमः**-tam-tām-īthām-āthām-īthām / āthām**3. प्रथमः**-ītām-ātām-ītām / -ātām
 
 ## 59.2. Der Dual thematischer Präsensklassen: Optativ (विधिलिङ्), Imperfekt (लङ्), Imperativ (लोट्)
 
@@ -57,7 +55,7 @@ Imperfekt (लङ्)
 > | --- | --- | --- |
 > | 1\. तृतीयः | अनृत्याव | &lt;अनृत्यावहि&gt; |
 > | 2\. मध्यमः | अनृत्यतम् | &lt;अनृत्येथाम्&gt; |
-> | 3\. प्रथमः | अनृत्यताम् | नृत्येताम्> |
+> | 3\. प्रथमः | अनृत्यताम् | नृत्येताम्&gt; |
 
 Imperativ (लोट्)
 
@@ -600,13 +598,13 @@ Augment + hochstufige Wurzel + s + i + ṣ + athematische Sekundärendung (wie i
 
 Stammbildungssuffix + Endungen  des siṣ-Aorist lauten also:
 
-<table><tbody><tr><td> </td><th colspan="3">परस्मैपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>द्विवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>**-siṣam**</td><td>**-siṣva**</td><td>**-siṣma**</td></tr><tr><td>**2. द्वितीयः**</td><td>**-sīs**</td><td>**-siṣṭam**</td><td>**-siṣṭa**</td></tr><tr><td>**3. प्रथमः**</td><td>**-sīt**</td><td>**-siṣṭām**</td><td>**-siṣur**</td></tr></tbody></table>
+ परस्मैपदम् एकवचनम्द्विवचनम्बहुवचनम्**1. तृतीयः****-siṣam****-siṣva****-siṣma****2. द्वितीयः****-sīs****-siṣṭam****-siṣṭa****3. प्रथमः****-sīt****-siṣṭām****-siṣur**
 
 Paradigma:
 
 या 2P "gehen"
 
-> <table><tbody><tr><td> </td><th colspan="3">परस्मैपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>द्विवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>अयासिषम्</td><td>अयासिष्व</td><td>अयासिष्म</td></tr><tr><td>**2. द्वितीयः**</td><td>अयासीस्</td><td>अयासिष्टम्</td><td>अयासिष्ट</td></tr><tr><td>**3. प्रथमः**</td><td>अयासीत्</td><td>अयासिष्टाम्</td><td>अयासिषुर्</td></tr></tbody></table>
+>  परस्मैपदम् एकवचनम्द्विवचनम्बहुवचनम्**1. तृतीयः**अयासिषम्अयासिष्वअयासिष्म**2. द्वितीयः**अयासीस्अयासिष्टम्अयासिष्ट**3. प्रथमः**अयासीत्अयासिष्टाम्अयासिषुर्
 
 ## 59.6. Aorist (लुङ्) 7: sa-Aorist (thematischer s-Aorist)
 
@@ -620,13 +618,13 @@ Die 1.sg.2.3.du.Ā werden vom s-Aorist, d.h. athematisch gebildet.
 
 Stammbildungssuffix + Endungen  des sa-Aorist lauten also:
 
-<table><tbody><tr><td> </td><th colspan="3">परस्मैपदम्</th><th colspan="3">आत्मनेपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>द्विवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>द्विवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>**-sam**</td><td>**-sāva**</td><td>**-sāma**</td><td>**-si**</td><td>**-sāvahī**</td><td>**-sāmahi**</td></tr><tr><td>**2. द्वितीयः**</td><td>**-sas**</td><td>**-satam**</td><td>**-sata**</td><td>**-sathās**</td><td>**-sāthām**</td><td>**-sadhvam**</td></tr><tr><td>**3. प्रथमः**</td><td>**-sat**</td><td>**-satām**</td><td>**-san**</td><td>**-sata**</td><td>**-sātām**</td><td>**-santa**</td></tr></tbody></table>
+ परस्मैपदम्आत्मनेपदम् एकवचनम्द्विवचनम्बहुवचनम्एकवचनम्द्विवचनम्बहुवचनम्**1. तृतीयः****-sam****-sāva****-sāma****-si****-sāvahī****-sāmahi****2. द्वितीयः****-sas****-satam****-sata****-sathās****-sāthām****-sadhvam****3. प्रथमः****-sat****-satām****-san****-sata****-sātām****-santa**
 
 Paradigma:
 
 दिश् 6U "zeigen"
 
-> <table><tbody><tr><td> </td><th colspan="3">परस्मैपदम्</th><th colspan="3">आत्मनेपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>द्विवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>द्विवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>अदिक्षम्</td><td>अदिक्षाव</td><td>अदिक्षाम</td><td>अदिक्षि</td><td>अदिक्षावहि</td><td>अदिक्षामहि</td></tr><tr><td>**2. द्वितीयः**</td><td>अदिक्षस्</td><td>अदिक्षतम्</td><td>अदिक्षत</td><td>अदिक्षथास्</td><td>अदिक्षाथाम्</td><td>अदिक्षध्वम्</td></tr><tr><td>**3. प्रथमः**</td><td>अदिक्षत्</td><td>अदिक्षताम्</td><td>अदिक्षन्</td><td>अदिक्षत</td><td>अदिक्षाताम्</td><td>अदिक्षन्त</td></tr></tbody></table>
+>  परस्मैपदम्आत्मनेपदम् एकवचनम्द्विवचनम्बहुवचनम्एकवचनम्द्विवचनम्बहुवचनम्**1. तृतीयः**अदिक्षम्अदिक्षावअदिक्षामअदिक्षिअदिक्षावहिअदिक्षामहि**2. द्वितीयः**अदिक्षस्अदिक्षतम्अदिक्षतअदिक्षथास्अदिक्षाथाम्अदिक्षध्वम्**3. प्रथमः**अदिक्षत्अदिक्षताम्अदिक्षन्अदिक्षतअदिक्षाताम्अदिक्षन्त
 
 Besonderheiten:
 
@@ -636,7 +634,7 @@ Paradigma:
 
 दिह् 2U "bestreichen"
 
-> <table><tbody><tr><td> </td><th colspan="3">आत्मनेपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>द्विवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>अधिक्षि</td><td>अधिक्षावहै / अदिह्वहि</td><td>अधिक्षामहि</td></tr><tr><td>**2. द्वितीयः**</td><td>अधिक्षथास् / अधिग्धास्</td><td>अधिक्षथाम्</td><td>अधिक्षध्वम् / अधिग्ध्वम्</td></tr><tr><td>**3. प्रथमः**</td><td>अधिक्षत / अदिग्ध</td><td>अधिक्षताम्</td><td>अधिक्षन्त</td></tr></tbody></table>
+>  आत्मनेपदम् एकवचनम्द्विवचनम्बहुवचनम्**1. तृतीयः**अधिक्षिअधिक्षावहै / अदिह्वहिअधिक्षामहि**2. द्वितीयः**अधिक्षथास् / अधिग्धास्अधिक्षथाम्अधिक्षध्वम् / अधिग्ध्वम्**3. प्रथमः**अधिक्षत / अदिग्धअधिक्षताम्अधिक्षन्त
 
 ## 59.7. Übung
 

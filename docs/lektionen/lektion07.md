@@ -5,7 +5,7 @@ last_reconstructed: 2026-05-07
 
 # Lektion 7
 
-::: info
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Den Verbalsatz mit direktem Objekt
 - Den Akkusativ der Nomina und Pronomina

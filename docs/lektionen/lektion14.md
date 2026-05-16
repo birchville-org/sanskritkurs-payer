@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 14
 
@@ -37,9 +35,9 @@ Nach Pāṇini 2.3.67 steht beim PPP der Genetiv, wenn das PPP präsentische Bed
 
 ::: center
 
-रामस्येष्टं फलम्<br>"Die von Rāma gewünschte Frucht = Die Frucht, die Rāma gegenwärtig wünscht"
+रामस्येष्टं फलम् "Die von Rāma gewünschte Frucht = Die Frucht, die Rāma gegenwärtig wünscht"
 
-रामेणेष्टं फलम्<br>"Die Frucht, die Rāma gewünscht hat"
+रामेणेष्टं फलम् "Die Frucht, die Rāma gewünscht hat"
 
 :::
 
@@ -63,8 +61,8 @@ Nach Konsonant sind die regelmäßigen Genetivendungen:
 
 | Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
 | :--- | :--- | :--- | :--- |
-| guṇa-vant-<br>**गुणवन्त्** | guṇa-vat-<br>**गुणवत्** | guṇa-vat-as<br>**गुणवतस्** | guṇa-vat-ām<br>**गुणवताम्** |
-| paśu-mant-<br>**पशुमन्त्** | paśu-mat-<br>**पशुमत्** | paśu-mat-as<br>**पशुमतस्** | paśu-mat-ām<br>**पशुमताम्** |
+| guṇa-vant- **गुणवन्त्** | guṇa-vat- **गुणवत्** | guṇa-vat-as **गुणवतस्** | guṇa-vat-ām **गुणवताम्** |
+| paśu-mant- **पशुमन्त्** | paśu-mat- **पशुमत्** | paśu-mat-as **पशुमतस्** | paśu-mat-ām **पशुमताम्** |
 
 :::
 
@@ -85,14 +83,14 @@ Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
 
 | Nominalstamm | Genetiv Plural |
 | :--- | :--- |
-| deva m.<br>**देव** | devā-nām<br>**देवानाम्** |
-| phala n.<br>**फल** | phalā-nām<br>**फलानाम्** |
-| devatā f.<br>**देवता** | devatā-nām<br>**देवतानाम्** |
-| kavi m.<br>**कवि** | kavī-nām<br>**कवीनाम्** |
-| śruti f.<br>**श्रुति** | śrutī-nām<br>**श्रुतीनाम्** |
-| devī f.<br>**देवी** | devī-nām<br>**देवीनाम्** |
-| paśu m.<br>**पशु** | paśū-nām<br>**पशूनाम्** |
-| dhenu f.<br>**धेनु** | dhenū-nām<br>**धेनूनाम्** |
+| deva m. **देव** | devā-nām **देवानाम्** |
+| phala n. **फल** | phalā-nām **फलानाम्** |
+| devatā f. **देवता** | devatā-nām **देवतानाम्** |
+| kavi m. **कवि** | kavī-nām **कवीनाम्** |
+| śruti f. **श्रुति** | śrutī-nām **श्रुतीनाम्** |
+| devī f. **देवी** | devī-nām **देवीनाम्** |
+| paśu m. **पशु** | paśū-nām **पशूनाम्** |
+| dhenu f. **धेनु** | dhenū-nām **धेनूनाम्** |
 
 :::
 
@@ -108,14 +106,14 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet
 
 | Stamm | Genetiv Singular |
 | :--- | :--- |
-| deva m.<br>**देव** | **devasya**<br>**देवस्य** |
-| phala n.<br>**फल** | **phalasya**<br>**फलस्य** |
-| devatā f.<br>**देवता** | **devatāyās**<br>**देवतायास्** |
-| kavi m.<br>**कवि** | **kaves**<br>**कवेस्** |
-| paśu m.<br>**पशु** | **paśos**<br>**पशोस्** |
-| devī f.<br>**देवी** | **devyās**<br>**देव्यास्** |
-| śruti f.<br>**श्रुति** | **śrutes / śrutyās**<br>**श्रुतेस् / श्रुत्यास्**<br>*(entweder wie kavi oder wie devī)* |
-| dhenu f.<br>**धेनु** | **dhenos / dhenvās**<br>**धेनोस् / धेन्वास्**<br>*(entweder wie paśu oder wie mehrsilbige Feminina auf -ū)* |
+| deva m. **देव** | **devasya** **देवस्य** |
+| phala n. **फल** | **phalasya** **फलस्य** |
+| devatā f. **देवता** | **devatāyās** **देवतायास्** |
+| kavi m. **कवि** | **kaves** **कवेस्** |
+| paśu m. **पशु** | **paśos** **पशोस्** |
+| devī f. **देवी** | **devyās** **देव्यास्** |
+| śruti f. **श्रुति** | **śrutes / śrutyās** **श्रुतेस् / श्रुत्यास्** *(entweder wie kavi oder wie devī)* |
+| dhenu f. **धेनु** | **dhenos / dhenvās** **धेनोस् / धेन्वास्** *(entweder wie paśu oder wie mehrsilbige Feminina auf -ū)* |
 
 :::
 
@@ -129,10 +127,10 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya<br>**कस्य** | tasya<br>**तस्य** | etasya<br>**एतस्य** | asya<br>**अस्य** |
-| ^^ | **Genetiv Plural** | keṣām<br>**केषाम्** | teṣām<br>**तेषाम्** | eteṣām<br>**एतेषाम्** | eṣām<br>**एषाम्** |
-| **Femininum** | **Genetiv Singular** | kasyās<br>**कस्यास्** | tasyās<br>**तस्यास्** | etasyās<br>**एतस्यास्** | asyās<br>**अस्यास्** |
-| ^^ | **Genetiv Plural** | kāsām<br>**कासाम्** | tāsām<br>**तासाम्** | etāsām<br>**एतासाम्** | āsām<br>**आसाम्** |
+| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya **कस्य** | tasya **तस्य** | etasya **एतस्य** | asya **अस्य** |
+| ^^ | **Genetiv Plural** | keṣām **केषाम्** | teṣām **तेषाम्** | eteṣām **एतेषाम्** | eṣām **एषाम्** |
+| **Femininum** | **Genetiv Singular** | kasyās **कस्यास्** | tasyās **तस्यास्** | etasyās **एतस्यास्** | asyās **अस्यास्** |
+| ^^ | **Genetiv Plural** | kāsām **कासाम्** | tāsām **तासाम्** | etāsām **एतासाम्** | āsām **आसाम्** |
 
 :::
 
@@ -204,7 +202,7 @@ Abb.: dīpāḥ = दीपाः (Bildquelle: [Details](/licenses#lekt1405))
 
 Übersetzen Sie folgende Sprichwörter und lernen Sie sie auswendig:
 
-**निचो वदति न कुरुते**<br>**वदति न साधुः करोत्येव ॥१॥**
+**निचो वदति न कुरुते** **वदति न साधुः करोत्येव ॥१॥**
 
 **शीलं नरस्य भूषणम् ॥२॥**
 

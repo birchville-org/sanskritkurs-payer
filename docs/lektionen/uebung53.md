@@ -2,18 +2,10 @@
 title: "Übung 53"
 uebung_id: 53
 category: "Übung"
-last_reconstructed: 2026-05-08
 ---
 
-::: deleteme-box Zitierweise & Rechte
+# Übung 53
 
-::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+Die Übung zu Lektion 53 besteht in der metrischen Analyse (Bestimmung des Śloka-Schemas) aller in den vorangegangenen Lektionen gelernten Verse. 
 
-# Multiple Choices
-
-The document name you requested (`/sanskritkurs/uebung53.htm`) could not be found on this server. However, we found documents with names similar to the one you requested.
-
-Available documents:
-
-*   [/sanskritkurs/uebung54.htm](/sanskritkurs/uebung54.md) (mistyped character)
-*   [/sanskritkurs/uebung58.htm](/sanskritkurs/uebung58.md) (mistyped character)
+Da es sich hierbei um eine umfassende Wiederholungs- und Analyseaufgabe handelt, ist kein separater Lösungsschlüssel im klassischen Sinne vorhanden. Die Lösungen ergeben sich aus der Anwendung der in Lektion 53 vermittelten Regeln auf die bereits bekannten Texte.

@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 56
 
@@ -19,7 +17,7 @@ Paradigma:
 
 श्रि 1U "sich begeben zu, sich anlehnen"
 
-> <table><tbody><tr><td> </td><th colspan="2">परस्मैपदम्</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>अशिश्रियम्<br>(अ-शि-श्रिय्-अम्)</td><td>अशिश्रियाम</td><td>अशिश्रिये</td><td>अशिश्रियामहि</td></tr><tr><td>**2. द्वितीयः**</td><td>अशिश्रियस्</td><td>अशिश्रियत</td><td>अशिश्रियथास्</td><td>अशिश्रियध्वम्</td></tr><tr><td>**3. प्रथमः**</td><td>अशिश्रियत्</td><td>अशिश्रियन्</td><td>अशिश्रियत</td><td>अशिश्रियन्त</td></tr></tbody></table>
+>  परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः**अशिश्रियम् (अ-शि-श्रिय्-अम्)अशिश्रियामअशिश्रियेअशिश्रियामहि**2. द्वितीयः**अशिश्रियस्अशिश्रियतअशिश्रियथास्अशिश्रियध्वम्**3. प्रथमः**अशिश्रियत्अशिश्रियन्अशिश्रियतअशिश्रियन्त
 
 Diese Form des Aorist bilden u.a.:
 

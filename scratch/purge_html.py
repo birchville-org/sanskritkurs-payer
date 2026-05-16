@@ -5,8 +5,7 @@ import sys
 directory = 'docs/lektionen'
 
 def purge_html(content):
-    # 1. First, convert ::: info and > [!INFO] to ::: deleteme-box
-    content = re.sub(r'::: info', '::: deleteme-box', content, flags=re.I)
+    # 1. First, preserve info boxes (previously converted to deleteme-box)
     # Target the blockquote style: > [!INFO] ... till end of paragraph or next empty line
     content = re.sub(r'>\s*\[!INFO\].*?(\n\s*\n|\Z)', '::: deleteme-box\n\\g<0>\n:::\n\n', content, flags=re.I | re.S)
     

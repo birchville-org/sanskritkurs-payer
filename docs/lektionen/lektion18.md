@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 18
 
@@ -142,7 +140,7 @@ Beispiele:
 > 
 > उपपद् 4 Ā उपपद्यते : hingelangen
 > 
-> > PPP उपपन्न 3: ausgestattet mit (Instrumentalis)
+> &gt; PPP उपपन्न 3: ausgestattet mit (Instrumentalis)
 > 
 > उपलभ् 1 Ā उपलभते : erfassen, erlangen
 
@@ -192,13 +190,13 @@ Beispiele:
 > 
 > संजन् 4 Ā संजायते : entstehen
 > 
-> > PPP संजात 3: geboren, entstanden, geworden
+> &gt; PPP संजात 3: geboren, entstanden, geworden
 > 
 > सम्बुध् 4 Ā सम्बुध्यते : vollständig erwachen (zur Wahrheit)
 > 
 > सम्पद् 4 Ā सम्पद्यते : jemandem zuteil werden, gelingen
 > 
-> > PPP सम्पन्न 3: versehen mit (Instr.)
+> &gt; PPP सम्पन्न 3: versehen mit (Instr.)
 
 Die Wurzel कृ "tun" zeigt in Verbindung mit den Präverben सम् । उप । अप । परि  auch die Form स्कृ
 
@@ -206,7 +204,7 @@ Beispiel:
 
 > sam-kṛ 8 संस्करोति : zubereiten, fürs Opfer zubereiten, weihen
 > 
-> > PPP संस्कृत 3: fürs Opfer zubereitet ; संस्कृत n.: Sanskrit: die fürs Opfer geeignete Sprache ; Gegenstück प्राकृत 3: gewöhnlich, ordinär ; प्राकृत n.: gewöhnliche Sprache, Prakrit (Bezeichnung für die Volks- und Verkehrssprachen, die mit dem Sanskrit verwandt sind)
+> &gt; PPP संस्कृत 3: fürs Opfer zubereitet ; संस्कृत n.: Sanskrit: die fürs Opfer geeignete Sprache ; Gegenstück प्राकृत 3: gewöhnlich, ordinär ; प्राकृत n.: gewöhnliche Sprache, Prakrit (Bezeichnung für die Volks- und Verkehrssprachen, die mit dem Sanskrit verwandt sind)
 
 ### 18.3.1. Nominalbildungen zu Verbalkomposita
 

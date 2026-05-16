@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 48
 
@@ -51,7 +49,7 @@
 
 Anm.: 1 Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll. -tāt tritt (auch in der 3.sg.P) an den schwachen Stamm.
 
-<table><tbody><tr><td colspan="2">**Zur Form der Endung der 2.sg.Imperativ.P:**</td></tr><tr><td>**-ø**</td><td>**Wurzeln der 5. und 8. Klasse, bei denen dem auslautenden -u nur ein Konsonant vorausgeht.**</td></tr><tr><td>**&lt;nobr&gt;-āna&lt;/nobr&gt;**</td><td>**Wurzeln der 9. Klasse, die auf Konsonant enden, substituieren für -nī+Endung -āna**</td></tr><tr><td>**-hi**</td><td>**alle übrigen Präsensstämme, die auf Vokal oder Halbvokal enden<br>Ausnahme: जुहुधि zu हु 3**</td></tr><tr><td>**-dhi**</td><td>**Alle übrigen Fälle**</td></tr></tbody></table>
+**Zur Form der Endung der 2.sg.Imperativ.P:****-ø****Wurzeln der 5. und 8. Klasse, bei denen dem auslautenden -u nur ein Konsonant vorausgeht.****&lt;nobr&gt;-āna&lt;/nobr&gt;****Wurzeln der 9. Klasse, die auf Konsonant enden, substituieren für -nī+Endung -āna****-hi****alle übrigen Präsensstämme, die auf Vokal oder Halbvokal enden Ausnahme: जुहुधि zu हु 3****-dhi****Alle übrigen Fälle**
 
 ### 48.2.2. Form des Präsensstamms
 
@@ -292,7 +290,7 @@ Beispiele:
 > | देव m. "Himmlischer, Gott" | दैव्य 3 "himmlisch" |
 > | ग्राम m. "Dorf" | ग्राम्य 3 "dörfisch" |
 
-<table><tbody><tr><td colspan="2">**Behandlung des Stammauslautes vor dem Suffix -a:**</td></tr><tr><td>**Stämme auf:**</td><td> </td></tr><tr><td>**-ṛ**</td><td>**-a tritt in der Regel an den Auslaut -r:**&lt;blockquote&gt;z.B. जेतृ "Sieger" » जैत्र 3 "siegreich"<br>&lt;/blockquote&gt;</td></tr><tr><td>**-a**</td><td>**Ersatz des -a des Grundwortes durch das neue Suffix -a.**Beispiele siehe oben.</td></tr><tr><td>**-i**</td><td>**Wegfall des -i**&lt;blockquote&gt;z.B. प्रकृति f. "Natur" » प्राकृत 3 "natürlich, normal, üblich, vulgär"<br>&lt;/blockquote&gt;</td></tr><tr><td>**-u**</td><td>**meistens: -av-a**&lt;blockquote&gt;z.B. गुरु 3 "schwer" ; m. "Meister, Lehrer" » गौरव 3 "zum Meister gehörig, vom Meister stammend" ; n. "Gewicht, Schwere, Würde"<br>&lt;/blockquote&gt;</td></tr><tr><td colspan="2">**andere Deklinationsstämme: s. Wackernagel, Altind. Grammatik II,2 § 38**</td></tr></tbody></table>
+**Behandlung des Stammauslautes vor dem Suffix -a:****Stämme auf:** **-ṛ****-a tritt in der Regel an den Auslaut -r:**&lt;blockquote&gt;z.B. जेतृ "Sieger" » जैत्र 3 "siegreich" &lt;/blockquote&gt;**-a****Ersatz des -a des Grundwortes durch das neue Suffix -a.**Beispiele siehe oben.**-i****Wegfall des -i**&lt;blockquote&gt;z.B. प्रकृति f. "Natur" » प्राकृत 3 "natürlich, normal, üblich, vulgär" &lt;/blockquote&gt;**-u****meistens: -av-a**&lt;blockquote&gt;z.B. गुरु 3 "schwer" ; m. "Meister, Lehrer" » गौरव 3 "zum Meister gehörig, vom Meister stammend" ; n. "Gewicht, Schwere, Würde" &lt;/blockquote&gt;**andere Deklinationsstämme: s. Wackernagel, Altind. Grammatik II,2 § 38**
 
 Vor dem Suffix -ya wird der Stammauslaut ähnlich wie vor dem Suffix -a behandelt.
 

@@ -5,7 +5,7 @@ last_reconstructed: 2026-05-07
 
 # Lektion 5
 
-::: info
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Grundlagen der Nominalkomposita (samāsa)
 - Fachterminologie für Komposita

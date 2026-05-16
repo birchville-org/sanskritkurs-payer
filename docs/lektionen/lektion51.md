@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 51
 
@@ -41,15 +39,15 @@ b) कृत्-Suffix -t
 
 > \-कृत् 3 "machend" z. B.
 > 
-> > कुलक्षयकृत् 3 "Vernichtung der Familie bewirkend"
-> > 
-> > पापकृत् 3 "Böses tuend, Übeltäter"
+> &gt; कुलक्षयकृत् 3 "Vernichtung der Familie bewirkend"
+> &gt; 
+> &gt; पापकृत् 3 "Böses tuend, Übeltäter"
 > 
 > \-जित् 3 "besiegend", z. B.
 > 
-> > शत्रुजित् 3 "die Feinde besiegend"
-> > 
-> > पुरुजित् 3 "viele besiegend" (पुरु 3 "viel, reichlich")
+> &gt; शत्रुजित् 3 "die Feinde besiegend"
+> &gt; 
+> &gt; पुरुजित् 3 "viele besiegend" (पुरु 3 "viel, reichlich")
 > 
 > \-भृत् 3 "tragend" z. B.  भूमिभृत् m. "König"
 
@@ -106,21 +104,21 @@ Beispiele:
 
 > Maskulinum, Femininum:
 > 
-> > Singular:
-> > 
-> > > Nom.Vok. शत्रुजित् (śatrujit + s)  
-> > > Akk. शत्रुजितम्
-> > 
-> > Plural:
-> > 
-> > > Nom.Akk.Vok. शत्रुजितस्  
-> > > Instr. शत्रुजिद्भिस्  
-> > > Lok. शत्रुजित्सु
+> &gt; Singular:
+> &gt; 
+> &gt; &gt; Nom.Vok. शत्रुजित् (śatrujit + s)  
+> &gt; &gt; Akk. शत्रुजितम्
+> &gt; 
+> &gt; Plural:
+> &gt; 
+> &gt; &gt; Nom.Akk.Vok. शत्रुजितस्  
+> &gt; &gt; Instr. शत्रुजिद्भिस्  
+> &gt; &gt; Lok. शत्रुजित्सु
 > 
 > Neutrum
 > 
-> > Singular Nom.Akk.Vok.  शत्रुजित्  
-> > Plural Nom.Akk.Vok. शत्रुजिन्ति
+> &gt; Singular Nom.Akk.Vok.  शत्रुजित्  
+> &gt; Plural Nom.Akk.Vok. शत्रुजिन्ति
 
 सुयुध् 3 "gut kämpfend"
 
@@ -154,54 +152,54 @@ Beispiele:
 
 > Maskulinum, Femininum:
 > 
-> > Singular:
-> > 
-> > > Nom.Vok. सत्यवाक्  
-> > > Akk. सत्यवाचम्  
-> > > Instr. सत्यवाचा
-> > 
-> > Plural:
-> > 
-> > > Instr. सत्यवाग्भिस्  
-> > > Lok. सत्यवाक्षु
+> &gt; Singular:
+> &gt; 
+> &gt; &gt; Nom.Vok. सत्यवाक्  
+> &gt; &gt; Akk. सत्यवाचम्  
+> &gt; &gt; Instr. सत्यवाचा
+> &gt; 
+> &gt; Plural:
+> &gt; 
+> &gt; &gt; Instr. सत्यवाग्भिस्  
+> &gt; &gt; Lok. सत्यवाक्षु
 > 
 > Neutrum
 > 
-> > Singular Nom.Akk.Vok. सत्यवाक्   
-> > Plural Nom.Akk.Vok. सत्यवाञ्चि
+> &gt; Singular Nom.Akk.Vok. सत्यवाक्   
+> &gt; Plural Nom.Akk.Vok. सत्यवाञ्चि
 
 शेषभुज् 3 "Speisereste essend"
 
 > Maskulinum, Femininum:
 > 
-> > Singular:
-> > 
-> > > Nom.Vok. शेषभुक्  
-> > > Akk. शेषभुजम्
-> > 
-> > Plural:
-> > 
-> > > Instr. शेषभुग्भिस्  
-> > > Lok. शेषभुक्षु
+> &gt; Singular:
+> &gt; 
+> &gt; &gt; Nom.Vok. शेषभुक्  
+> &gt; &gt; Akk. शेषभुजम्
+> &gt; 
+> &gt; Plural:
+> &gt; 
+> &gt; &gt; Instr. शेषभुग्भिस्  
+> &gt; &gt; Lok. शेषभुक्षु
 > 
 > Neutrum
 > 
-> > Singular Nom.Akk.Vok. शेषभुक्   
-> > Plural Nom.Akk.Vok. शेषभुञ्जि
+> &gt; Singular Nom.Akk.Vok. शेषभुक्   
+> &gt; Plural Nom.Akk.Vok. शेषभुञ्जि
 
 परिव्राज् m. "Wandermönch"
 
 > Maskulinum, Femininum:
 > 
-> > Singular:
-> > 
-> > > Nom.Vok. परिव्राट्  
-> > > Akk. परिव्राजम्
-> > 
-> > Plural:
-> > 
-> > > Instr. परिव्राड्भिस्  
-> > > Lok. परिव्राट्सु
+> &gt; Singular:
+> &gt; 
+> &gt; &gt; Nom.Vok. परिव्राट्  
+> &gt; &gt; Akk. परिव्राजम्
+> &gt; 
+> &gt; Plural:
+> &gt; 
+> &gt; &gt; Instr. परिव्राड्भिस्  
+> &gt; &gt; Lok. परिव्राट्सु
 
 ![](/images/lekt5104.jpg)  
 Abb.: परिव्राट्  
@@ -226,31 +224,31 @@ Beispiele:
 
 > गुह् 3 "verbergend"
 > 
-> > Maskulinum, Femininum:
-> > 
-> > > Singular:
-> > > 
-> > > > Nom.Vok. घुट् (Grassmannsches Hauchdissimilationsgesetz: गुढ् + s)  
-> > > > Akk. गुहम्
-> > > 
-> > > Plural:
-> > > 
-> > > > Instr. घुड्भिस्  
-> > > > Lok. घुट्सु
+> &gt; Maskulinum, Femininum:
+> &gt; 
+> &gt; &gt; Singular:
+> &gt; &gt; 
+> &gt; &gt; &gt; Nom.Vok. घुट् (Grassmannsches Hauchdissimilationsgesetz: गुढ् + s)  
+> &gt; &gt; &gt; Akk. गुहम्
+> &gt; &gt; 
+> &gt; &gt; Plural:
+> &gt; &gt; 
+> &gt; &gt; &gt; Instr. घुड्भिस्  
+> &gt; &gt; &gt; Lok. घुट्सु
 > 
 > द्रुह् "schädigend, hassend" (wahlweise -ḍh/-gh)
 > 
-> > Maskulinum, Femininum:
-> > 
-> > > Singular:
-> > > 
-> > > > Nom.Vok. ध्रुट् । ध्रुक्  
-> > > > Akk. द्रुहम्
-> > > 
-> > > Plural:
-> > > 
-> > > > Instr. ध्रुड्भिस् । ध्रुग्भिस्  
-> > > > Lok. ध्रुट्सु । ध्रुक्षु
+> &gt; Maskulinum, Femininum:
+> &gt; 
+> &gt; &gt; Singular:
+> &gt; &gt; 
+> &gt; &gt; &gt; Nom.Vok. ध्रुट् । ध्रुक्  
+> &gt; &gt; &gt; Akk. द्रुहम्
+> &gt; &gt; 
+> &gt; &gt; Plural:
+> &gt; &gt; 
+> &gt; &gt; &gt; Instr. ध्रुड्भिस् । ध्रुग्भिस्  
+> &gt; &gt; &gt; Lok. ध्रुट्सु । ध्रुक्षु
 
 ## 51.3. Sandhi von anlautendem h-
 

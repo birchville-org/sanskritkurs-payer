@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 38
 
@@ -33,7 +31,7 @@ Nach c- und j- wird -n- durch -ñ- ersetzt.
 
 ### 38.3.1. Nomina auf -an sowie Nomina -man bzw. -van nach Vokal
 
-<table><tbody><tr><td colspan="5">**Nomina auf -an sowie Nomina -man bzw. -van nach Vokal haben drei Stämme:<br> **</td></tr><tr><td>**Starker Stamm**</td><td>**-ān**</td><td>**-mān**</td><td>**-vān**</td><td>**Nom., Akk., Vok. sg. m. f.<br>Nom., Akk., Vok. dual m. f.<br>Nom., Vok. pl. m. f.<br>Nom., Akk. pl. n.<br> **</td></tr><tr><td>**Mittlerer Schwacher Stamm**</td><td>**-a<br>aus -*n**</td><td>**-ma<br>aus -*mn**</td><td>**-va<br>aus -*vn**</td><td>**Übrige Kasus vor konsonantisch anlautender Endung<br>Wahlweise auch Lok. sg. m. n. f.**</td></tr><tr><td>**Schwächster Stamm**</td><td>**-n**</td><td>**-mn**</td><td>**-vn**</td><td>**Übrige Kasus vor vokalisch anlautender Endung**</td></tr><tr><td colspan="5">**<br>Die Endungen sind regelmäßig.****Der Nominativ Singular m. f. wird ohne auslautendes -n gebildet-**</td></tr></tbody></table>
+**Nomina auf -an sowie Nomina -man bzw. -van nach Vokal haben drei Stämme:  ****Starker Stamm****-ān****-mān****-vān****Nom., Akk., Vok. sg. m. f. Nom., Akk., Vok. dual m. f. Nom., Vok. pl. m. f. Nom., Akk. pl. n.  ****Mittlerer Schwacher Stamm****-a aus -*n****-ma aus -*mn****-va aus -*vn****Übrige Kasus vor konsonantisch anlautender Endung Wahlweise auch Lok. sg. m. n. f.****Schwächster Stamm****-n****-mn****-vn****Übrige Kasus vor vokalisch anlautender Endung**** Die Endungen sind regelmäßig.****Der Nominativ Singular m. f. wird ohne auslautendes -n gebildet-**
 
 Beispiele:
 
@@ -154,7 +152,7 @@ Beispiel:
 
 बलिन् m.n. "stark, kräftig (durch besonderes बल gekennzeichnet, बल besitzend)"
 
-<table><tbody><tr><td> </td><td>**पुंस्**</td><td>**नपुंसकम्**</td></tr><tr><td>**एकवचनम्**</td><td> </td><td> </td></tr><tr><td>**प्रथमा**</td><td>बली</td><td>बलि</td></tr><tr><td>**द्वितिया**</td><td>बलिनम्</td><td>बलि</td></tr><tr><td>**तृतीया**</td><td colspan="2">बलिना</td></tr><tr><td>**चतुर्थी**</td><td colspan="2">बलिने</td></tr><tr><td>**पञ्चमी**</td><td colspan="2">बलिनस्</td></tr><tr><td>**षष्ठी**</td><td colspan="2">बलिनस्</td></tr><tr><td>**सप्तमी**</td><td colspan="2">बलिनि</td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td>**बहुवचनम्**</td><td> </td><td> </td></tr><tr><td>**प्रथमा**</td><td>बलिनस्</td><td>बलीनि</td></tr><tr><td>**द्वितीया**</td><td>बलिनस्</td><td>बलीनि</td></tr><tr><td>**तृतीया**</td><td colspan="2">बलिभिस्</td></tr><tr><td>**चतुर्थी**</td><td colspan="2">बलिभ्यस्</td></tr><tr><td>**पञ्चमी**</td><td colspan="2">बलिभ्यस्</td></tr><tr><td>**षष्ठी**</td><td colspan="2">बलिनाम्</td></tr><tr><td>**सप्तमी**</td><td colspan="2">बलिषु</td></tr></tbody></table>
+ **पुंस्****नपुंसकम्****एकवचनम्**  **प्रथमा**बलीबलि**द्वितिया**बलिनम्बलि**तृतीया**बलिना**चतुर्थी**बलिने**पञ्चमी**बलिनस्**षष्ठी**बलिनस्**सप्तमी**बलिनि   **बहुवचनम्**  **प्रथमा**बलिनस्बलीनि**द्वितीया**बलिनस्बलीनि**तृतीया**बलिभिस्**चतुर्थी**बलिभ्यस्**पञ्चमी**बलिभ्यस्**षष्ठी**बलिनाम्**सप्तमी**बलिषु
 
 ## 38.4. Zur Nominalbildung: तद्धित-Suffix -in
 

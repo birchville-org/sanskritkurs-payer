@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 13
 
@@ -95,7 +93,7 @@ Starke Kasus sind:
 
 | Singular **एकवचन** | Dual **द्विवचन** | Plural **बहुवचन** |
 | :--- | :--- | :--- |
-| Nominativ **प्रथमा**<br>Akkusativ **द्वितीया**<br>Vokativ **सम्बोधनप्रथमा** | Nominativ **प्रथमा**<br>Akkusativ **द्वितीया**<br>Vokativ **सम्बोधनप्रथमा** | Nominativ **प्रथमा**<br>Vokativ **सम्बोधनप्रथमा** |
+| Nominativ **प्रथमा** Akkusativ **द्वितीया** Vokativ **सम्बोधनप्रथमा** | Nominativ **प्रथमा** Akkusativ **द्वितीया** Vokativ **सम्बोधनप्रथमा** | Nominativ **प्रथमा** Vokativ **सम्बोधनप्रथमा** |
 
 :::
 
@@ -105,7 +103,7 @@ Starke Kasus sind:
 
 | Singular **एकवचन** | Dual **द्विवचन** | Plural **बहुवचन** |
 | :--- | :--- | :--- |
-| — | — | Nominativ **प्रथमा**<br>Akkusativ **द्वितीया**<br>Vokativ **सम्बोधनप्रथमा** |
+| — | — | Nominativ **प्रथमा** Akkusativ **द्वितीया** Vokativ **सम्बोधनप्रथमा** |
 
 :::
 
@@ -161,12 +159,12 @@ Bei konsonantisch auslautenden Stämmen:
 
 | | | Maskulinum | | Neutrum | |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Singular** | Nom. | paśu-mān<br>**पशुमान्** | guṇa-vān<br>**गुणवान्** | paśu-mat<br>**पशुमत्** | guṇa-vat<br>**गुणवत्** |
-| ^^ | Akk. | paśu-mant-am<br>**पशुमन्तम्** | guṇa-vant-am<br>**गुणवन्तम्** | paśu-mat<br>**पशुमत्** | guṇa-vat<br>**गुणवत्** |
-| ^^ | Inst. | paśu-mat-ā<br>**पशुमता** | guṇa-vat-ā<br>**गुणवता** | paśu-mat-ā<br>**पशुमता** | guṇa-vat-ā<br>**गुणवता** |
-| **Plural** | Nom. | paśu-mant-as<br>**पशुमन्तस्** | guṇa-vant-as<br>**गुणवन्तस्** | paśu-mant-i<br>**पशुमन्ति** | guṇa-vant-i<br>**गुणवन्ति** |
-| ^^ | Akk. | paśu-mat-as<br>**पशुमतस्** | guṇa-vat-as<br>**गुणवतस्** | paśu-mant-i<br>**पशुमन्ति** | guṇa-vant-i<br>**गुणवन्ति** |
-| ^^ | Inst. | paśu-mad-bhis<br>**पशुमद्भिस्** | guṇa-vad-bhis<br>**गुणवद्भिस्** | paśu-mad-bhis<br>**पशुमद्भिस्** | guṇa-vad-bhis<br>**गुणवद्भिस्** |
+| **Singular** | Nom. | paśu-mān **पशुमान्** | guṇa-vān **गुणवान्** | paśu-mat **पशुमत्** | guṇa-vat **गुणवत्** |
+| ^^ | Akk. | paśu-mant-am **पशुमन्तम्** | guṇa-vant-am **गुणवन्तम्** | paśu-mat **पशुमत्** | guṇa-vat **गुणवत्** |
+| ^^ | Inst. | paśu-mat-ā **पशुमता** | guṇa-vat-ā **गुणवता** | paśu-mat-ā **पशुमता** | guṇa-vat-ā **गुणवता** |
+| **Plural** | Nom. | paśu-mant-as **पशुमन्तस्** | guṇa-vant-as **गुणवन्तस्** | paśu-mant-i **पशुमन्ति** | guṇa-vant-i **गुणवन्ति** |
+| ^^ | Akk. | paśu-mat-as **पशुमतस्** | guṇa-vat-as **गुणवतस्** | paśu-mant-i **पशुमन्ति** | guṇa-vant-i **गुणवन्ति** |
+| ^^ | Inst. | paśu-mad-bhis **पशुमद्भिस्** | guṇa-vad-bhis **गुणवद्भिस्** | paśu-mad-bhis **पशुमद्भिस्** | guṇa-vad-bhis **गुणवद्भिस्** |
 
 :::
 
@@ -200,7 +198,7 @@ According to the Viṣṇu Purāṇa, they were produced from the groin of Brahm
 
 In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
 
-[Quelle: **Dowson, John <1820-1881>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+[Quelle: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::::
 

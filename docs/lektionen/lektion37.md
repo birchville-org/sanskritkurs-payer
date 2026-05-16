@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 37
 
@@ -176,7 +174,7 @@ Abb.: क्व ?
 
  
 
-<table><tbody><tr><td colspan="2">**Weitere Adverbialsuffixe**</td></tr><tr><td>-वत्</td><td>**kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie"**** **z.B. पुत्रवत् "wie ein(en) Sohn"</td></tr><tr><td>-तस्</td><td>**an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?"**z.B. आदितस् "von Anfang an"</td></tr><tr><td>-धा</td><td><ol><li>**Bei Zahladverbien in der Bedeutung "-fach", "-fältig"<br>**z.B. द्विधा "zweifach"<br> </li><li>**in der Bedeutung "in der und der Weise"<br>**z.B. समधा "in gleicher Weise" (zu सम 3 "gleich")</li></ol></td></tr></tbody></table>
+**Weitere Adverbialsuffixe**-वत्**kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie"**** **z.B. पुत्रवत् "wie ein(en) Sohn"-तस्**an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?"**z.B. आदितस् "von Anfang an"-धा&lt;ol&gt;&lt;li&gt;**Bei Zahladverbien in der Bedeutung "-fach", "-fältig" **z.B. द्विधा "zweifach"  &lt;/li&gt;&lt;li&gt;**in der Bedeutung "in der und der Weise" **z.B. समधा "in gleicher Weise" (zu सम 3 "gleich")&lt;/li&gt;&lt;/ol&gt;
 
 ## 37.5. Adverbiale Komposita
 

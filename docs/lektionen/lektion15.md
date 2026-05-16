@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 15
 
@@ -45,8 +43,8 @@ z.B.
 
 > गुणवत्पुत्रः = गुणवान्पुत्रः = "ein Sohn mit guten Eigenschaften"
 > 
-> > Akk. sg. गुणवत्पुत्रम्  
-> > Nom pl. गुणवत्पुत्राः
+> &gt; Akk. sg. गुणवत्पुत्रम्  
+> &gt; Nom pl. गुणवत्पुत्राः
 > 
 > पुण्यवत्क्षत्रिया = पुण्यवती क्षत्रिया = "eine verdienstreiche Kṣatriyafrau"
 > 
@@ -85,9 +83,9 @@ z.B.
 
 > क्षत्रियपुत्रः = क्षत्रियस्य पुत्रः = "der Sohn eines Kṣatriya", "ein junger Kṣatriya", "ein  Angehöriger der Gruppe der Kṣatriyas"
 > 
-> > Akk. sg. क्षत्रियपुत्रम्  
-> > Gen. sg. क्षत्रियपुत्रस्य  
-> > u.s.w.
+> &gt; Akk. sg. क्षत्रियपुत्रम्  
+> &gt; Gen. sg. क्षत्रियपुत्रस्य  
+> &gt; u.s.w.
 > 
 > गुरुभावः =  गुरोर्भावः  = "die Natur eines Lehrers"
 > 

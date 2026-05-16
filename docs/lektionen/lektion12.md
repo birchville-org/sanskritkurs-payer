@@ -5,7 +5,7 @@ last_reconstructed: 2026-05-07
 
 # Lektion 12
 
-::: info
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Das Partizip Perfekt Passiv (PPP)
 - Die Bedeutung des PPP
@@ -164,7 +164,7 @@ z.B.
 
 ## 12.5. Wortliste
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (<u>nicht:</u> der Erleuchtete)
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
 
 ::: media
 ![](/images/lekt1201.jpg)

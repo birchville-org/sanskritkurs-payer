@@ -1,8 +1,6 @@
 ---
 next: false
 ---
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 61
 
@@ -213,7 +211,7 @@ Paradigma:
 > |   | एकवचनम् | द्विवचनम् | बहुवचनम् | एकवचनम् | द्विवचनम् | बहुवचनम् |
 > | 1\. तृतीयः | दातास्मि | दातास्वस् | दातास्मस् | दाताहे | दातास्वहे | दातास्महे |
 > | 2\. मध्यमः | दातासि | दातास्थस् | दातास्थ | दातासे | दातासथे | दाताध्वे |
-> | 3\. प्रथम> | दाता | दातारौ | दातारस् | दाता | दातारौ | दातारस् |
+> | 3\. प्रथम&gt; | दाता | दातारौ | दातारस् | दाता | दातारौ | दातारस् |
 
 Nur ganz selten wird das Verb अस् vom Nominalstamm getrennt.
 
@@ -649,7 +647,7 @@ Abb.: श्रीगणनाथः
 Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.  
 \[Bildquelle: Quadell / Wikipedia. GNU FDLicense\]
 
-<table><tbody><tr><td>ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ<br>ಕರುಣಾಸಾಗರ ಕರಿವದನ&lt;blockquote&gt;ಲಮ್ಬೋದರ ಲಕುಮೀಕರ<br>ಅಮ್ಬಾಸುತ ಅಮರವಿನುತ<br>ಲಮ್ಬೋದರ ಲಕುಮೀಕರ<br>&lt;/blockquote&gt;ಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ<br>ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ<br>&lt;blockquote&gt;ಲಮ್ಬೋದರ ಲಕುಮೀಕರ<br>ಅಮ್ಬಾಸುತ ಅಮರವಿನುತ<br>ಲಮ್ಬೋದರ ಲಕುಮೀಕರ<br>&lt;/blockquote&gt;ಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ<br>ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ<br>&lt;blockquote&gt;ಲಮ್ಬೋದರ ಲಕುಮೀಕರ<br>ಅಮ್ಬಾಸುತ ಅಮರವಿನುತ<br>ಲಮ್ಬೋದರ ಲಕುಮೀಕರ<br>&lt;/blockquote&gt;</td><td>श्रीगणनाथ सिन्धुरवर्ण<br>करुणासागर करिवदन&lt;blockquote&gt;लम्बोदर लकुमीकर<br>अम्बासुत अमरविनुत<br>लम्बोदर लकुमीकर <sup>१</sup><br>&lt;/blockquote&gt;सिद्धचारण गणसेवित<br>सिद्धिविनायक ते नमो नमो<br>&lt;blockquote&gt;लम्बोदर लकुमीकर<br>अम्बासुत अमरविनुत<br>लम्बोदर लकुमीकर<br>&lt;/blockquote&gt;सकलविद्यादिपूजित<br>सर्वोत्तम ते नमो नमो<br>&lt;blockquote&gt;लम्बोदर लकुमीकर<br>अम्बासुत अमरविनुत<br>लम्बोदर लकुमीकर<br>&lt;/blockquote&gt;<sup>१</sup> लकुमीकर ≈ लक्ष्मीकर</td></tr><tr><td colspan="2">**ಶ್ರೀಗಣನಾಥ** / श्रीगणनाथ von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)</td></tr></tbody></table>
+ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ&lt;blockquote&gt;ಲಮ್ಬೋದರ ಲಕುಮೀಕರ ಅಮ್ಬಾಸುತ ಅಮರವಿನುತ ಲಮ್ಬೋದರ ಲಕುಮೀಕರ &lt;/blockquote&gt;ಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ &lt;blockquote&gt;ಲಮ್ಬೋದರ ಲಕುಮೀಕರ ಅಮ್ಬಾಸುತ ಅಮರವಿನುತ ಲಮ್ಬೋದರ ಲಕುಮೀಕರ &lt;/blockquote&gt;ಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ &lt;blockquote&gt;ಲಮ್ಬೋದರ ಲಕುಮೀಕರ ಅಮ್ಬಾಸುತ ಅಮರವಿನುತ ಲಮ್ಬೋದರ ಲಕುಮೀಕರ &lt;/blockquote&gt;श्रीगणनाथ सिन्धुरवर्ण करुणासागर करिवदन&lt;blockquote&gt;लम्बोदर लकुमीकर अम्बासुत अमरविनुत लम्बोदर लकुमीकर १ &lt;/blockquote&gt;सिद्धचारण गणसेवित सिद्धिविनायक ते नमो नमो &lt;blockquote&gt;लम्बोदर लकुमीकर अम्बासुत अमरविनुत लम्बोदर लकुमीकर &lt;/blockquote&gt;सकलविद्यादिपूजित सर्वोत्तम ते नमो नमो &lt;blockquote&gt;लम्बोदर लकुमीकर अम्बासुत अमरविनुत लम्बोदर लकुमीकर &lt;/blockquote&gt;१ लकुमीकर ≈ लक्ष्मीकर**ಶ್ರೀಗಣನಾಥ** / श्रीगणनाथ von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
 Komponist und Dichter: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 

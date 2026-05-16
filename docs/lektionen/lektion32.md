@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 32
 
@@ -75,7 +73,7 @@ Beispiele:
 
 ## 32.4. Beispiele für die Imperfektbildung der einzelnen Präsensklassen
 
-![](/images/lekt3201.jpg) Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen <>.
+![](/images/lekt3201.jpg) Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen &lt;&gt;.
 
 ### 32.4.1. Thematische Präsensklassen
 

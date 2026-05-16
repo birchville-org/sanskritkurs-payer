@@ -1,15 +1,5 @@
 ::: deleteme-box
-::: deleteme-box
-::: deleteme-box
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
-
-
-
-
-:::
-
-:::
+**Zitierweise & Rechte**
 
 :::
 
@@ -4653,7 +4643,7 @@ Abb.: मारः
 
 **lekt1003**: Gott Varuṇa = वरुण, 17. Jhdt. [Bildquelle. Wikipedia, Public domain]
 
-**lekt1002**: Ein Ṛṣi: Viśvāmitra (विश्वामित्र) / von Rāja Ravi Varmā (राज रवि वर्मा) <1848 - 1906> [Bildquelle: Wikipedia, Public domain]
+**lekt1002**: Ein Ṛṣi: Viśvāmitra (विश्वामित्र) / von Rāja Ravi Varmā (राज रवि वर्मा) &lt;1848 - 1906&gt; [Bildquelle: Wikipedia, Public domain]
 
 **lekt1301**: महिषासुरः = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysor (ಮೈಸೂರು) [Bildquelle: Prakash Subbarao / Wikipedia. -- Public domain]
 

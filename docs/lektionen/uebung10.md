@@ -5,9 +5,6 @@ category: "Übung"
 last_reconstructed: 2026-05-15
 ---
 
-::: deleteme-box Zitierweise & Rechte
-
-::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Übung 10
 
@@ -229,7 +226,7 @@ Lesen und übersetzen Sie und setzen Sie ins Passiv:
 > धनमिच्छन्ति पार्थिवाः |
 > नीचाः कलहमिच्छन्ति
 > शान्तिमिच्छन्ति साधवः ||
->
+&gt;
 > मक्षिकाभिर्व्रण इष्यते
 > धनमिष्यते पार्थिवैः ।
 > नीचैः कलह इष्यते

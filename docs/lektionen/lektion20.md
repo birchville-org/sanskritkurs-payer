@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 20
 
@@ -24,15 +22,15 @@ Beispiele:
 
 > गतपापः = गतं पापं यस्य सः = "einer, dessen Böses gegangen ist" = "einer, der frei von Übeltaten ist"
 > 
-> > Akk. sg. गतपापम् =  गतं पापं यस्य तम्
-> > 
-> > Inst. sg. गतपापेन = गतं पापं यस्य तेन
-> > 
-> > Gen. sg. गतपापस्य = गतं पापं यस्य तस्य
-> > 
-> > Nom. pl. गतपापाः = गतानि पापानि येषां ते
-> > 
-> > usw.
+> &gt; Akk. sg. गतपापम् =  गतं पापं यस्य तम्
+> &gt; 
+> &gt; Inst. sg. गतपापेन = गतं पापं यस्य तेन
+> &gt; 
+> &gt; Gen. sg. गतपापस्य = गतं पापं यस्य तस्य
+> &gt; 
+> &gt; Nom. pl. गतपापाः = गतानि पापानि येषां ते
+> &gt; 
+> &gt; usw.
 > 
 > अस्तमोहा = अस्तो मोहो यया सा = "eine (Frau), die die Verblendung abgeworfen hat"
 > 

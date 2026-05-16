@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-07
 
 # Lektion 9
 
-::: info
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Das Samāhāradvandva ("Zusammenfassungsdvandva")
 - Die Bildung von Nominalstämmen mit den Suffixen **-ka** (taddhita) und **-aka** (kṛt)

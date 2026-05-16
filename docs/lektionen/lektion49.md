@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 49
 
@@ -210,7 +208,7 @@ Abb.: नमस्ते
 > 
 > siehe:
 > 
-> > > Carakasaṃhitā: Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer &lt;1944 - &gt;. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+> &gt; &gt; Carakasaṃhitā: Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer &lt;1944 - &gt;. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 
 क्षिप् 6P क्षिपति : werfen, schleudern
 

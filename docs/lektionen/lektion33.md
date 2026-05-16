@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 33
 
@@ -26,15 +24,15 @@ Beispiele:
 
 > दा 3 "geben"
 > 
-> > 3.sg.P.Ind.Präs. ददाति
+> &gt; 3.sg.P.Ind.Präs. ददाति
 > 
 > पॄ 3 "füllen"
 > 
-> > 3.sg.P.Ind.Präs. पिपर्ति
+> &gt; 3.sg.P.Ind.Präs. पिपर्ति
 > 
 > मा 3Ā "messen"
 > 
-> > 3.sg.Ā.Ind.Präs. मिमीते
+> &gt; 3.sg.Ā.Ind.Präs. मिमीते
 
 2\. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.
 
@@ -42,11 +40,11 @@ Beispiele:
 
 > धा 3 "setzen"
 > 
-> > 3.sg.P.Ind.Präs. दधाति
+> &gt; 3.sg.P.Ind.Präs. दधाति
 > 
 > भी  3 "fürchten"
 > 
-> > 3.sg.P.Ind.Präs. बिभेति
+> &gt; 3.sg.P.Ind.Präs. बिभेति
 
 3\. Ein Guttural wird durch den ihm entsprechenden nicht-aspirierten Palatal redupliziert:
 
@@ -59,7 +57,7 @@ Beispiele:
 
 > हु 3 "(zum Opfer) ins Feuer gießen"
 > 
-> > 3.sg.P.Ind.Präs. जुहोति
+> &gt; 3.sg.P.Ind.Präs. जुहोति
 
 4\. Beginnt eine Wurzel mit mehreren Konsonanten, so wird nur der erste (gegebenenfalls unter Anwendung von Regel 2 bzw. 3) wiederholt.
 
@@ -69,7 +67,7 @@ Beispiel:
 
 > स्था 1 "stehen"
 > 
-> > 3.sg.P.Ind.Präs. तिष्ठति
+> &gt; 3.sg.P.Ind.Präs. तिष्ठति
 
 ## 33.2. Die dritte Präsensklasse (जुहोत्यादि = "जुहोति u.s.w.")
 
@@ -95,8 +93,8 @@ Beispiele:
 
 > हु 3P "(zum Opfer) ins Feuer gießen"
 > 
-> > *   starker Stamm: जुहो
-> > *   schwacher Stamm: जुहु
+> &gt; *   starker Stamm: जुहो
+> &gt; *   schwacher Stamm: जुहु
 > 
 > |   | 3.sg.P | 3.pl.P | 3.sg.Ā | 3.pl.Ā |
 > | --- | --- | --- | --- | --- |
@@ -136,8 +134,8 @@ Hierher gehört z.B. auch:
 
 > स्था् 1
 > 
-> > PPP स्थित (sthi-ta)  
-> > 3.sg.P.Fut. स्थास्यति (sthā-sya-ti)
+> &gt; PPP स्थित (sthi-ta)  
+> &gt; 3.sg.P.Fut. स्थास्यति (sthā-sya-ti)
 
 B.
 

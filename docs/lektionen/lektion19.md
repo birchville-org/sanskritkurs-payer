@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 19
 
@@ -43,7 +41,7 @@ Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstel
 
 ## 19.2. Das Relativpronomen = व्यपेक्षकसर्वनाम n.
 
-<table><tbody><tr><td colspan="5">**यद् "welcher, welche, welches" dekliniert wie तद्, aber mit regelmäßigem Sandhi.**</td></tr><tr><th> </th><th> </th><th>Maskulinum<br>पुंस्</th><th>Neutrum<br>नपुंसक</th><th>Femininum<br>स्त्री</th></tr><tr><td>**Singular<br>एकवचन**</td><td>**1. Nominativ<br>प्रथमा**</td><th>यस्</th><th>यद्</th><th>या</th></tr><tr><td> </td><td>**2. Akkusativ<br>द्विती्या**</td><th>यम्</th><th>यद्</th><th>याम्</th></tr><tr><td> </td><td>**3. Instrumentalis<br>तृतीया**</td><th>येन</th><th>येन</th><th>यया</th></tr><tr><td> </td><td>**6. Genetiv<br>षष्ठी**</td><th>यस्य</th><th>यस्य</th><th>यस्यास्</th></tr><tr><td>**Plural<br>बहुवचन**</td><td>**1. Nominativ<br>प्रथमा**</td><th>ये</th><th>यानि</th><th>यास्</th></tr><tr><td> </td><td>**2. Akkusativ<br>द्वितीया**</td><th>यान्</th><th>यानि</th><th>यास्</th></tr><tr><td> </td><td>**3. Instrumentalis<br>तृतीया**</td><th>यैस्</th><th>यैस्</th><th>याभिस्</th></tr><tr><td> </td><td>**6. Genetiv<br>षष्ठी**</td><th>येषाम्</th><th>येषाम्</th><th>यासाम्</th></tr><tr><td colspan="5">**Als Vorderglied von Kompisita erscheint der Stamm यद् (unter Beachtung des Sandhi).**</td></tr></tbody></table>
+**यद् "welcher, welche, welches" dekliniert wie तद्, aber mit regelmäßigem Sandhi.**  Maskulinum पुंस्Neutrum नपुंसकFemininum स्त्री**Singular एकवचन****1. Nominativ प्रथमा**यस्यद्या **2. Akkusativ द्विती्या**यम्यद्याम् **3. Instrumentalis तृतीया**येनयेनयया **6. Genetiv षष्ठी**यस्ययस्ययस्यास्**Plural बहुवचन****1. Nominativ प्रथमा**येयानियास् **2. Akkusativ द्वितीया**यान्यानियास् **3. Instrumentalis तृतीया**यैस्यैस्याभिस् **6. Genetiv षष्ठी**येषाम्येषाम्यासाम्**Als Vorderglied von Kompisita erscheint der Stamm यद् (unter Beachtung des Sandhi).**
 
 ## 19.3. Wortliste
 

@@ -5,7 +5,7 @@ last_reconstructed: 2026-05-07
 
 # Lektion 11
 
-::: info
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Den doppelten Akkusativ (Akkusativ der Person und der Sache)
 - Den Gebrauch der Partikel **iti**, **evam** und **na**

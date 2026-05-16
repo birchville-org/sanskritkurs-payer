@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 27
 
@@ -188,7 +186,7 @@ davon:
 
 > वस्तु n.: Sitz, Ort ; Realie, reales Ding, Wirklichkeit, Gegenstand
 > 
-> > वस्तुतस् : in Wirklichkeit, wirklich
+> &gt; वस्तुतस् : in Wirklichkeit, wirklich
 
 वस् 2Ā वस्ते : anziehen (Kleidung), tragen (Kleidung)
 

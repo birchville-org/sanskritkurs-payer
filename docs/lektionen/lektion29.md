@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 29
 
@@ -19,7 +17,7 @@ Im Kausativum wird das Ātmanepada verwendet:
 
 > विष्णुर्भक्तान्दर्शयते = "Viṣṇu zeigt sich seinen Verehrern"
 > 
-> > Ergebnis: भक्ता विष्णुं पश्यन्ति = "Die Gläubigen sehen Viṣṇu"
+> &gt; Ergebnis: भक्ता विष्णुं पश्यन्ति = "Die Gläubigen sehen Viṣṇu"
 
 Die Regeln entsprechen also i.A. den Regeln für die Verwendung des Ātmanepada bei Ubhayapada-Verben.
 

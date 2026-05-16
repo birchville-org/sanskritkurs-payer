@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 57
 
@@ -18,7 +16,7 @@ Augment + Wurzel + s + athematische Sekundärendung
 
 Tabelle der Endungen mit Stammbildungssuffix
 
-<table><tbody><tr><td> </td><th colspan="2">परस्मैपदम्</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>**-sam**</td><td>**-sma**</td><td>**-si**</td><td>**-smahi**</td></tr><tr><td>**2. द्वितीयः**</td><td>**-sīs**</td><td>**-sta**</td><td>**-sthās**</td><td>**-dhvam**</td></tr><tr><td>**3. प्रथमः**</td><td>**-sīt**</td><td>**-sur**</td><td>**-sta**</td><td>**-sata**</td></tr></tbody></table>
+ परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः****-sam****-sma****-si****-smahi****2. द्वितीयः****-sīs****-sta****-sthās****-dhvam****3. प्रथमः****-sīt****-sur****-sta****-sata**
 
 Es wird das allgemeine Lautgesetz angewendet, dass ein Zischlaut zwischen zwei Verschlusslauten ausfällt (vgl. उद् + स्थित » उत्थित), d.h. das Stammbildungssuffix -s- vor Endungen, die mit -t- oder -th- beginnen, entfällt (nicht aber nach Nasalen oder r-).
 
@@ -100,7 +98,7 @@ Paradigmen:
 
 नी 1U "führen"
 
-> <table><tbody><tr><td> </td><th colspan="2">परस्मैपदम्</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>अनैषम्</td><td>अनैष्म</td><td>अनेषि</td><td>अनेष्महि</td></tr><tr><td>**2. द्वितीयः**</td><td>अनैषीस्</td><td>अनैष्ट</td><td>अनेष्ठास्</td><td>अनेढ्वम्</td></tr><tr><td>**3. प्रथमः**</td><td>अनैषीत्</td><td>अनैषुर्</td><td>नेष्ट</td><td>अनेषत</td></tr></tbody></table>
+>  परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः**अनैषम्अनैष्मअनेषिअनेष्महि**2. द्वितीयः**अनैषीस्अनैष्टअनेष्ठास्अनेढ्वम्**3. प्रथमः**अनैषीत्अनैषुर्नेष्टअनेषत
 
 ![](/images/lekt5701.jpg)  
 Abb.: भीमराव रामजी आंबेडकर (१८९१ - १९५६) । सो ऽनैषीद्दलितान् ॥  
@@ -108,11 +106,11 @@ Abb.: भीमराव रामजी आंबेडकर (१८९१ - �
 
 कृ 8U "tun"
 
-> <table><tbody><tr><td> </td><th colspan="2">परस्मैपदम्</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>अकार्षम्</td><td>अकार्ष्म</td><td>अकृषि</td><td>अकृष्महि</td></tr><tr><td>**2. द्वितीयः**</td><td>अकार्षीस्</td><td>अकार्ष्ट</td><td>अकृथास्</td><td>अकृढ्वम्</td></tr><tr><td>**3. प्रथमः**</td><td>अकार्षीत्</td><td>अकार्षुर्</td><td>अकृत</td><td>अकृषत</td></tr></tbody></table>
+>  परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः**अकार्षम्अकार्ष्मअकृषिअकृष्महि**2. द्वितीयः**अकार्षीस्अकार्ष्टअकृथास्अकृढ्वम्**3. प्रथमः**अकार्षीत्अकार्षुर्अकृतअकृषत
 
 तुद् 6U "schlagen"
 
-> <table><tbody><tr><td> </td><th colspan="2">परस्मैपदम्</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>अतौत्सम्</td><td>अतौत्स्म</td><td>अतुत्सि</td><td>अतुत्स्महि</td></tr><tr><td>**2. द्वितीयः**</td><td>अतौत्सीस्</td><td>अतौत्त<br>aus: a-taut + s + ta</td><td>अतुत्थास्</td><td>अतुद्ध्वम्</td></tr><tr><td>**3. प्रथमः**</td><td>अतौत्सीत्</td><td>अतौत्सुर्</td><td>अतुत्त</td><td>अतुत्सत</td></tr></tbody></table>
+>  परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः**अतौत्सम्अतौत्स्मअतुत्सिअतुत्स्महि**2. द्वितीयः**अतौत्सीस्अतौत्त aus: a-taut + s + taअतुत्थास्अतुद्ध्वम्**3. प्रथमः**अतौत्सीत्अतौत्सुर्अतुत्तअतुत्सत
 
 Unregelmäßige Formen:
 

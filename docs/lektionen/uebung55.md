@@ -5,9 +5,6 @@ category: "Übung"
 last_reconstructed: 2026-05-15
 ---
 
-::: deleteme-box Zitierweise & Rechte
-
-::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Übung 55
 

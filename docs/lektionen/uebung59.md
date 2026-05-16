@@ -5,9 +5,6 @@ category: "Übung"
 last_reconstructed: 2026-05-15
 ---
 
-::: deleteme-box Zitierweise & Rechte
-
-::: Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Übung 59
 
@@ -33,18 +30,18 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 प्रातिष्ठिपच्च बोधार्थं कुम्भकर्णस्य राक्षसान् ॥१॥
 
 > Darauf fürchtete sich der Dämonenfürst. Er blickte in der Stadt rundherum und schickte die Rākṣasas, um Kumbhakarṇa¹ zu wecken.
->
+&gt;
 > अभैषीत् -  भी Aor. 4 P  
 > ऐक्षिष्ट - ईक्ष् Aor. 5 Ā  
 > प्रातिष्ठिपत् - प्र-स्था unregelm. (siehe Pāṇini 7.4.5) Aor. 3
->
+&gt;
 > 1 Kumbhkarṇa, der Bruder Rāvaṇas, liegt als Strafe für seine Übeltaten im Dauerschlaf
 
 ते ऽभ्यगुर्भवनं तस्य सुप्तं चैक्षिषताथ तम् ।  
 व्याहार्षुस्तुमुलाञ्छब्दान्दण्डैश्चावधिषुर्द्रुतम् ॥२॥
 
 > Diese gingen zu dessen Haus und erblickten diesen schlafend. Sie stießen tumultöse Laute aus und schlugen schnell mit Stöcken.
->
+&gt;
 > अभ्यगुर् - अभि-गा (für इ) Aor. 1 P  
 > अक्षिषत - ईक्ष् Aor. 5 Ā (3.pl.)  
 > व्याहार्षुर् - वि-आ-हृ aussprechen, sagen Aor. 4 P  
@@ -54,7 +51,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 शीतैरभ्यषिचंस्तोयैरलातैश्चाप्यदम्भिषुः ॥३॥
 
 > Sie zerrten seine Haare, ließen Elefanten auf seinen Gliedern herumirren; sie besprengten ihn mit kaltem Wasser und verletzten ihn mit Feuern.
->
+&gt;
 > अलुञ्चिषुर् - लुञ्च् Aor. 5  
 > अबिभ्रमन् - भ्रम् Kaus. Aor. 3  
 > अभ्यषिचन् - सिच् Aor. 2  
@@ -64,7 +61,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 शितैरतौत्सुः शूलैश्च भेरीश्चावीवदञ्छुभाः ॥४॥
 
 > Sie schnitten ihn mit scharfen Fingernägeln und sie bissen ihn mit den Zähnen, sie schlugen ihn mit scharfen Spießen und sie ließen helle Trommeln ertönen.
->
+&gt;
 > अकर्तिषुर् - कृत् Aor. 5  
 > अदाङ्क्षुर् - दंश् Aor. 4  
 > अतौत्सुर् - तुद् Aor. 4  
@@ -74,7 +71,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 अबूबुधत कस्मान्मामप्राक्षीच्च निशाचरान् ॥५॥
 
 > Er beachtete diese alle nicht, durch eigenen Wunsch erwachte er selbst und er fragte die Nachtwandler: "Warum habt ihr mich geweckt?"
->
+&gt;
 > अजीगणत् - गण् 10 Aor 3  
 > अबुद्ध - बुध् Aor 4 (neben अबोधि)  
 > अबुबूधत - बुध् Kaus. Aor. 3 (2.pl.P)  
@@ -84,7 +81,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 सो ऽस्नासीद्व्यलिपन्मांसमप्सासीद्वारुणीमपात् ॥६॥
 
 > Diese sprachen: "Der König ist begierig, dich zu sehen, Nachtwandler!" Er badete, cremte sich ein, verschlang Fleisch, trank Palmschnaps;
->
+&gt;
 > अभाषिषत - भाष् Ā Aor. 5  
 > अस्नासीत् - स्ना Aor. 6  
 > व्यलिपत् - वि-लिप् Aor. 2  
@@ -95,7 +92,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 राजायान्तं तमद्राक्षीदुदस्थाच्चेषदासनात् ॥७॥
 
 > Er zog sich an, dann ging er von zuhause weg, um Rāvaṇa zu sehen. Der König sah ihn kommen und erhob sich ein wenig von seinem Sitz.
->
+&gt;
 > न्यवसिष्ट - नि-वस् 2Ā Aor. 5  
 > प्रावृतत् - प्र-वृत् Ā Aor. 2 P (im Aor. auch P!)  
 > अद्राक्षीत् - दृश्  Aor. 4  
@@ -105,7 +102,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 अस्मेष्ट कुम्भकर्णो ऽल्पमुपाविक्षदथान्तिके ॥८॥
 
 > Er war zufrieden und wies ihm einen goldenen Stuhl in der Nähe an. Kumbhkarṇa lächelte ein wenig und setzte sich dann in die Nähe.
->
+&gt;
 > अतुषत् - तुष् Aor. 2  
 > निरदिक्षत् - निर्-दिश् Aor. 7  
 > अस्मेष्ट - स्मि Ā Aor. 4  
@@ -115,7 +112,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 नाज्ञासीस्त्वं सुखी रामो यदकार्षीत्स रक्षसाम् ॥९॥
 
 > Er sprach: "Warum hast du mich gerufen?" Ihm wurde vom König geantwortet: "Du Glücklicher hast nicht erkannt, was Rāma den Dämonen getan hat.
->
+&gt;
 > अवादीत् - वद् Aor. 5  
 > आह्वस् - आ-ह्वे Aor. 2  
 > प्रत्यवादि - प्रति-वद् Passivaorist  
@@ -126,7 +123,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 व्यद्योतिष्ट रणे शस्त्रैरनैषीद्राक्षसान्क्षयम् ॥१०॥
 
 > Er hat den Ozean überquert, unsere Stadt ringsherum blockiert, er hat in der Schlacht mit Schneidewaffen aufgeleuchtet, er führte die Dämonen zur Vernichtung.
->
+&gt;
 > उदतारीत् - उद्-तॄ Aor. 5  
 > अरुधत् - रुध् Aor. 2  
 > व्यद्योतिष्ट - वि-द्युत्  Aor. 5  
@@ -136,7 +133,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 बन्धुस्त्वमर्चितः स्नेहान्मा द्विषो न वधीर्मम ॥११॥
 
 > Ich habe, solange ich lebte, keine Schmeichelei gesagt. Du bist mein aus Liebe verehrter Verwandter. Unterlasse es nicht, meine Feinde zu erschlagen!
->
+&gt;
 > प्रावोचम् - प्र-वच् Aor. 3  
 > अजीविषम् - जीव् Aor. 5  
 > वधीस् - वध् Injunktiv Aor. 5
@@ -145,7 +142,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 तवाद्राक्ष्म वयं वीर्यं त्वमजैषीः पुरा सुरान् ॥१२॥
 
 > Unterlasse es nicht, deine Manneskraft zu zeigen, unterlasse es nicht, die verletzte Stadt zu retten! Wir haben deine Manneskraft gesehen. Du hast früher die Götter besiegt."
->
+&gt;
 > ददर्शस् - दृश् Kaus. Injunktiv Aor. 3  
 > त्रास्थास् - त्रै Ā Injunktiv. Aor. 4  
 > अद्राक्ष्म - दृश् Aor. 4  
@@ -155,7 +152,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 न त्वं सर्वं तदश्रौषीः फलं तस्येदमागमत् ॥१३॥
 
 > Kumbhakarṇa sprach zu ihm: "Was wir bei der Beratung dargelegt haben, auf all dies hast du nicht gehört. Dies ist als Frucht davon gekommen.
->
+&gt;
 > अवोचत् - वच् Aor. 3  
 > अभ्यधाम - अभि-धा Aor. 1  
 > अश्रौषीस् - श्रु Aor. 4  
@@ -165,7 +162,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 अध्यगीष्ठाश्च शास्त्राणि प्रत्यपत्था हितं न च ॥१४॥
 
 > Du hast die Worte der Weisen verachtet, du hast dich auf Worte von Dummen verlassen, du hast die Lehrwerke studiert und bist [trotzdem] nicht zum Heilsamen gelangt.
->
+&gt;
 > अवामामंस्थास् - अव-मन् Aor. 4  
 > अवास्थिथास् - अव-स्था Aor. 4  
 > अध्यगीष्ठास् - अधि-इ (अधि-गा) Aor. 4  
@@ -175,32 +172,32 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 अभाणीन्माल्यवान्युक्तमक्षंस्थास्त्वं न तन्मदात् ॥१५॥
 
 > Die Dummen, die den Zwist bewirkten, haben dich getäuscht. Mālyavant¹ sprach das Passende. Du hast ihm nicht verziehen aufgrund deines Rausches.
->
+&gt;
 > अववञ्चन्त - वञ्च् Kaus. Aor. 3  
 > अचीकरन् - कृ Aor. 3  
 > अभाणीत् - भण् Aor. 5  
 > अक्षंस्थास् - क्षम् Aor. 4
->
+&gt;
 > 1 ein Rākṣasa
 
 राघवस्यामुषः कान्तामाप्तैरुक्तो न चार्पिपः ।  
 मा नानुभूः स्वकान्दोषान्मा मुहो मा रुषो ऽधुना ॥१६॥
 
 > Du hast die Geliebte des Raghunachkommen¹ gestohlen. Obwohl es dir von Autoritätspersonen gesagt wurde, hast du sie nicht zurückgeschickt. Hör auf, deine eigenen Fehler nicht wahrzunehmen! Sei nicht wirr, zürne jetzt nicht!
->
+&gt;
 > अमुषस् - मुष् Aor. 2  
 > आर्पि्पस् - ऋ Kaus. Aor. 3  
 > अनुभूस् - अनु-भू Injunktiv Aor. 1  
 > मुहस् - मुह् Injunktiv Aor. 2  
 > रुषस् - रुष् Injunktiv Aor. 2
->
+&gt;
 > 1 Rāma
 
 तस्याप्यत्यक्रमीत्कालो यत्तदाहमवादिषम् ।  
 अघानिषत रक्षांसि परैः कोशांस्त्वमव्ययीः ॥१७॥
 
 > Für das, was ich dir damals sagte, ist der rechte Zeitpunkt vergangen. Die Rākṣasas wurden von den Feinden getötet. Du hast die Schätze verloren.
->
+&gt;
 > अत्यक्रमीत् - क्रम् Aor. 5  
 > अवादिषम् - वद् Aor. 5  
 > अघानिषत - हन् Passivaorist 3.pl.  
@@ -210,7 +207,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 यत्त्वं वैराणि कोशं च सहदण्डमजिग्लपः ॥१८॥
 
 > Deine Macht, die Grundlage für ein Bündnis, ist geschwunden. Du hast so gehandelt, dass du deine Heere und deinen Schatz samt der politischen Macht dahinschwinden ließest."
->
+&gt;
 > अभूत् - भू Aor. 1  
 > अकृथास् - कृ Aor. 4/1  
 > अजिग्लपस् - ग्लै Kaus. Aor. 3

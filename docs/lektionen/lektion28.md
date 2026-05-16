@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 28
 
@@ -25,28 +23,28 @@ Beispiele:
 
 > दुर्जनो रामं मोहयति = "ein böser Mensch bewirkt, dass Rāma verwirrt ist = verwirrt den Rāma = bewirkt, dass Rāma irrt"
 > 
-> > Ergebnis: रामो मुह्यति = "Rāma ist verwirrt / verblendet / irrt."
+> &gt; Ergebnis: रामो मुह्यति = "Rāma ist verwirrt / verblendet / irrt."
 > 
 > रामः शत्रून्स्वर्गं गमयति = "Rāma macht die Feinde in den Himmel gehen = schickt die Feinde in den Himmel"
 > 
-> > Ergebnis: शत्रवः स्वर्गं गच्छन्ति = "die Feinde gehen zum Himmel / kommen in den Himmel"
+> &gt; Ergebnis: शत्रवः स्वर्गं गच्छन्ति = "die Feinde gehen zum Himmel / kommen in den Himmel"
 > 
 > गुरू रामं वेदार्थं वेदयति = "Der Meister macht Rāma den Sinn des Veda wissen = erklärt / lehrt Rāma den Sinn des Veda"
 > 
-> > Ergebnis: रामो वेदार्थं वेत्ति = "Rāma kennt / versteht den Sinn des Veda"
+> &gt; Ergebnis: रामो वेदार्थं वेत्ति = "Rāma kennt / versteht den Sinn des Veda"
 > 
 > स रामं वेदमध्यापयति = "er lehrt Rāma den Veda"
 > 
-> > Ergebnis: रामो वेदमधीते "Rāma studiert den Veda"
+> &gt; Ergebnis: रामो वेदमधीते "Rāma studiert den Veda"
 > 
 > रामो देवानमृतमाशयति = "Rāma lässt die Götter Unsterblichkeitsspeise essen = gibt den Göttern Unsterblichkeitsspeise zu essen" (अश् 9 "essen")
 > 
-> > Ergebnis: देवा अमृतमश्नन्ति "Die Götter essen Unsterblichkeitsspeise"
-> > 
-> > ![](/images/lekt2802.jpg)  
-> > Abb.: स नरान्प्रबन्धविज्ञानमध्यापयति (प्रबन्ध = Management)  
-> > Jadavpur University = যাদবপুর বিশ্ববিদ্যালয়,  Kolkatta = কলকাতা   
-> > \[Bildquelle: noii's. -- [http://www.flickr.com/photos/noii/2423810775/](http://www.flickr.com/photos/noii/2423810775/). -- Zugriff am 2008-12-19. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\] 
+> &gt; Ergebnis: देवा अमृतमश्नन्ति "Die Götter essen Unsterblichkeitsspeise"
+> &gt; 
+> &gt; ![](/images/lekt2802.jpg)  
+> &gt; Abb.: स नरान्प्रबन्धविज्ञानमध्यापयति (प्रबन्ध = Management)  
+> &gt; Jadavpur University = যাদবপুর বিশ্ববিদ্যালয়,  Kolkatta = কলকাতা   
+> &gt; \[Bildquelle: noii's. -- [http://www.flickr.com/photos/noii/2423810775/](http://www.flickr.com/photos/noii/2423810775/). -- Zugriff am 2008-12-19. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\] 
 
 Nach Schema 1 konstruiert u.a. auch die Wurzel दृश्:
 
@@ -79,19 +77,19 @@ Schema 2:
 
 Bei transitiven Verben (außer den unter Schema 1 genannten). Ebenfalls bei allen Verben, wenn das durch das Kausativ Bezeichnete veranlasst wird (wenn das Kausativ also ein Kausativ zum Kausativ ist):
 
-> > Agens (कर्तृ) des Kausativums im Nominativ (प्रथमा) -- Agens der veranlassten Handlung im Instrumentalis (तृतीया) -- Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) -- Verb im Kausativum
+> &gt; Agens (कर्तृ) des Kausativums im Nominativ (प्रथमा) -- Agens der veranlassten Handlung im Instrumentalis (तृतीया) -- Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) -- Verb im Kausativum
 
 Beispiele:
 
 > (स) रामेण भार्यां त्याजयति = "Er veranlasst den Rāma, seine Frau zu verlassen"
 > 
-> > Ergebnis: रामो भार्यां त्यजति = "Rāma verlässt seine Frau"
+> &gt; Ergebnis: रामो भार्यां त्यजति = "Rāma verlässt seine Frau"
 > 
 > विष्णुमित्रो रामेण गोविन्दं गमयति = "Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken"
 > 
-> > Ergebnis: रामो गोविन्दम् गमयति = "Rāma schickt den Govinda fort"
-> > 
-> > > Ergebnis dieses Ergebnisses: गोविन्दो गच्छति = "Govinda geht"
+> &gt; Ergebnis: रामो गोविन्दम् गमयति = "Rāma schickt den Govinda fort"
+> &gt; 
+> &gt; &gt; Ergebnis dieses Ergebnisses: गोविन्दो गच्छति = "Govinda geht"
 
 Ausnahmen zu Schema 1:
 
@@ -109,15 +107,15 @@ Beispiele:
 
 > रामो भृत्येन भारं नाययति वाहयति वा = "Rāma lässt den Diener die Last führen bzw. fahren"
 > 
-> > Ergebnis:  भृत्यो भारं नयति वहति वा = "Der Diener führt bzw. fahrt die Last"
+> &gt; Ergebnis:  भृत्यो भारं नयति वहति वा = "Der Diener führt bzw. fahrt die Last"
 > 
 > रामो बालेनान्नमादयति खादयति वा = "Rāma lässt den Knaben Speise essen bzw. kauen"
 > 
-> > Ergebnis: बालो ऽन्नमत्ति खादति वा = "der Knabe isst oder kaut Speise"
+> &gt; Ergebnis: बालो ऽन्नमत्ति खादति वा = "der Knabe isst oder kaut Speise"
 > 
 > (स) रामेण स्मारयति = "Er bewirkt, dass Rāma sich erinnert"
 > 
-> > Ergebnis: रामः स्मरति = Rāma erinnert sich"
+> &gt; Ergebnis: रामः स्मरति = Rāma erinnert sich"
 
 Folgende Kausative können sowohl nach Schema 1 als auch nach Schmea 2 konstruieren:
 
@@ -133,7 +131,7 @@ Beispiele:
 > 
 > रामो भृत्येन कटं कारयति हारयति वा
 > 
-> > Ergebnis: भृत्यः कटं करोति हरति वा = "Der Diener macht bzw. holt eine Matte"
+> &gt; Ergebnis: भृत्यः कटं करोति हरति वा = "Der Diener macht bzw. holt eine Matte"
 > 
 > रामो बालं प्रतिमां दर्शयते = "Rāma lässt den Knaben das Bildnis sehen = zeigt dem Knaben das Bildnis (im eigenen Interesse)"
 > 
@@ -141,7 +139,7 @@ Beispiele:
 > 
 > रामो बालेन प्रतिमां दर्शयते
 > 
-> > Ergebnis: बालः प्रतिमां पश्यति = "der Knabe sieht das Bildnis"
+> &gt; Ergebnis: बालः प्रतिमां पश्यति = "der Knabe sieht das Bildnis"
 
 Wird das Kausativum in einer Passivkonstruktion verwendet, so findet fast immer folgendes Schema Anwendung:
 
@@ -153,15 +151,15 @@ Beispiele:
 
 > गुरुणा रामो ग्रामं गम्यते = "Der Meister schickt Rāma ins Dorf"
 > 
-> > Ergebnis: रामो ग्रामं गच्छति = "Rāma geht ins Dorf"
+> &gt; Ergebnis: रामो ग्रामं गच्छति = "Rāma geht ins Dorf"
 > 
 > रामेण भृत्यः कतं कार्यते = "Rāma lässt den Diener eine Matte machen"
 > 
-> > Ergebnis: भृत्यः कटं करोति = "Der Diener macht eine Matte"
+> &gt; Ergebnis: भृत्यः कटं करोति = "Der Diener macht eine Matte"
 > 
 > रामेण भृत्यो भारं हार्यते = "Rāma lässt den Diener die Last holen"
 > 
-> > Ergebnis: भृत्यो भारं हरति = "Der Diener holt die Last"
+> &gt; Ergebnis: भृत्यो भारं हरति = "Der Diener holt die Last"
 
 ## 28.3. Bildung des Präsensstamms zum Kausativ (णि, णिच्, कारित)
 

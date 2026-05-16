@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 24
 
@@ -225,7 +223,7 @@ davon
 > 
 > davon:
 > 
-> > आख्यान n.: Erzählung
+> &gt; आख्यान n.: Erzählung
 > 
 > ![](/images/lekt2408.jpg)  
 > Abb.: आख्यानम्
@@ -238,7 +236,7 @@ davon
 > 
 > davon:
 > 
-> > संख्य m.: Zählung, Aufzählung ; eines der sechs philosopphischen System (kurz: Basham, Wonder S. 326f.)
+> &gt; संख्य m.: Zählung, Aufzählung ; eines der sechs philosopphischen System (kurz: Basham, Wonder S. 326f.)
 
 ग्रहण n.: Ergreifen
 

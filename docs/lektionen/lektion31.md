@@ -1,5 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 31
 
@@ -97,12 +95,12 @@ Beispiel:
 > 
 > युग n.: Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
 > 
-> > 1.  कृत
-> > 2.  त्रेता
-> > 3.  द्वापर
-> > 4.  कलि
-> > 
-> > Das कलियुग begann um 3102 v. Chr., dem Jahr des  महाभारत-Krieges. Näheres bei Basham, Wonder S. 323)
+> &gt; 1.  कृत
+> &gt; 2.  त्रेता
+> &gt; 3.  द्वापर
+> &gt; 4.  कलि
+> &gt; 
+> &gt; Das कलियुग begann um 3102 v. Chr., dem Jahr des  महाभारत-Krieges. Näheres bei Basham, Wonder S. 323)
 > 
 > योग m.: "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.)
 
