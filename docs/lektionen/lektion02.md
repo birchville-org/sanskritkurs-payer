@@ -61,7 +61,7 @@ In Sanskritwörterbüchern werden Nomina im **Nominalstamm** angeführt:
 **Der Nominativ Singular endet auf -s = -स् bzw. ist endungsfrei.**
 :::
 
-**2.3.1. Nominativ Singular auf -s**
+### 2.3.1. Nominativ Singular auf -s
 
 Folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
 
@@ -77,7 +77,7 @@ Folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singula
 
 Der Auslaut eines Wortes richtet sich im Sanskrit auch nach dem Anlaut des darauffolgenden Wortes. Diese Erscheinung nennt man **Sandhi** (m.) = सन्धि ("Verbindung").
 
-**2.4.1. Sandhi von auslautendem -s**
+### 2.4.1. Sandhi von auslautendem -s
 
 Auslautendes **-s**:
 
@@ -144,10 +144,15 @@ Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben vert
   - Geldverleih
   - für sich opfern
   - Gaben (an Brahmanen) geben
+  - für sich opfern
   - Vedastudium
 - **der Śūdras**
   - den drei oberen Klassen dienen
 :::
+
+**dvija** m. -- द्विज : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya).
+
+**varṇa** m. -- वर्ण : Farbe, Geburtsstand (Strebung).
 
 Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
 
@@ -164,9 +169,9 @@ Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschn
 
 Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus.
 
-Max Weber <1864 – 1920> definiert Stand so:
+Max Weber &lt;1864 – 1920&gt; definiert Stand so:
 
-::: grammar-box
+::: note-box
 »**Stand**« soll eine Vielheit von Menschen heißen, die innerhalb eines Verbandes wirksam
 a) eine ständische Sonderschätzung, - eventuell also auch
 b) ständische Sondermonopole in Anspruch nehmen.
@@ -184,14 +189,10 @@ Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, 
 
 Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
 
-[**Weber, Max <1864 – 1920>:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max &lt;1864 – 1920&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 
 Varṇas sind demgemäß Geburtsstände.
-
-**dvija** m. -- द्विज : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya).
-
-**varṇa** m. -- वर्ण : Farbe, Geburtsstand (Strebung).
 
 **kavi** m. -- कवि : Dichter.
 

@@ -82,6 +82,15 @@ html {
   padding-top: 1rem;
 }
 
+.vp-doc h4 {
+  font-weight: 600;
+  font-style: normal !important;
+  margin-top: 2rem !important;
+  border-top: 1px solid var(--vp-c-divider) !important;
+  padding-top: 0.75rem;
+  font-size: 1.1rem;
+}
+
 .VPNavBar, .VPSidebar, .VPNav, .VPDocFooter, .outline-link, .outline-title, .badge, .VPLink, .VPButton {
   font-family: "Inter", sans-serif !important;
 }
