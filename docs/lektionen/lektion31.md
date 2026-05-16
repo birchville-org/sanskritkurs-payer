@@ -16,31 +16,17 @@ Beispiele:
 
 युज् 7U "verbinden, anschirren"
 
-> |   |   | Parasmaipada | 
-> Ātmanepada
-> 
->  |
-> | --- | --- | --- | --- |
-> | Indikativ |   |   |   |
-> |   | 3\. sg. | युनक्ति  
-> yu-na-j + -ti | युङ्क्ते  
-> yu + n + j + te  
-> (vor Guttural im Wortinnen werden Nasale durch -ṅ- ersetzt) |
-> |   | 3\. pl. | युञ्जन्ति  
-> yu + n + j-anti | युञ्जते  
-> yu + n + j-ate |
-> | Optativ |   |   |   |
-> |   | 3\. sg. | युञ्ज्यात्  
-> yu + n + j-yā-t | युञ्जीत  
-> yu + n + j-ī-ta  
->   |
-> |   | 3\. pl. | युञ्ज्युर्  
-> yu + n + j-y-ur | युञ्जीरन्  
-> yu + n + j-ī-ran |
-> | Partizip Präsens |   | युञ्जन्त्-  
-> yu + n + j-ant-  
-> fem.: युञ्जती  
-> yu + n + j-at-ī |   |
+:::: grammar-box
+
+| | | Parasmaipada | Ātmanepada |
+| :--- | :--- | :--- | :--- |
+| **Indikativ** | **3. sg.** | **yunakti**[[br]](युनक्ति)[[br]](yu-na-j + -ti) | **yuṅkte**[[br]](युङ्क्ते)[[br]](yu + n + j + te)[[br]](vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
+| | **3. pl.** | **yuñjanti**[[br]](युञ्जन्ति)[[br]](yu + n + j-anti) | **yuñjate**[[br]](युञ्जते)[[br]](yu + n + j-ate) |
+| **Optativ** | **3. sg.** | **yuñjyāt**[[br]](युञ्ज्यात्)[[br]](yu + n + j-yā-t) | **yuñjīta**[[br]](युञ्जीत)[[br]](yu + n + j-ī-ta) |
+| | **3. pl.** | **yuñjyuḥ**[[br]](युञ्ज्युर्)[[br]](yu + n + j-y-ur) | **yuñjīran**[[br]](युञ्जीरन्)[[br]](yu + n + j-ī-ran) |
+| **Partizip Präsens** | | **yuñjant-**[[br]](युञ्जन्त्-)[[br]](yu + n + j-ant-)[[br]]fem.: **yuñjatī**[[br]](युञ्जती)[[br]](yu + n + j-at-ī) | |
+
+::::
 
 रुध् 7U "stoppen, zum Stillstand bringen"
 
@@ -58,29 +44,17 @@ ru-n-dh-anti | रुन्धते
 ru-n-dh-ate |
 | Optativ |   |   |   |
 |   | 3\. sg. | रुन्ध्यात्  
-ru-n-dh-yā-t | रुन्धीत  
-ru-n-dh-ī-ta |
-|   | 3\. pl. | रुन्ध्युर्  
-ru-n-dh-y-ur | रुन्धीरन्  
-ru-n-dh-ī-ran |
-| Partizip Präsens |   | रुन्धन्त्-  
-ru-n-dh-ant-  
-रुन्धती  
-ru-n-dh-at-ī |   |
+:::: grammar-box
 
-Bei einigen Wurzeln ist das -n- des schwachen Präsensstamms auch in außerpräsentische Tempora eingedrungen, sodass diese Wurzeln mit infigiertem Nasal angesetzt werden.
+| | | Parasmaipada | Ātmanepada |
+| :--- | :--- | :--- | :--- |
+| **Indikativ** | **3. sg.** | **ruṇaddhi**[[br]](रुणद्धि)[[br]](ru + na + dh + ti) | **runddhe**[[br]](रुन्द्धे)[[br]](ru-n + dh + te) |
+| | **3. pl.** | **rundhanti**[[br]](रुन्धन्ति)[[br]](ru-n-dh-anti) | **rundhate**[[br]](रुन्धते)[[br]](ru-n-dh-ate) |
+| **Optativ** | **3. sg.** | **rundhyāt**[[br]](रुन्ध्यात्)[[br]](ru-n-dh-yā-t) | **rundhīta**[[br]](रुन्धीत)[[br]](ru-n-dh-ī-ta) |
+| | **3. pl.** | **rundhyuḥ**[[br]](रुन्ध्युर्)[[br]](ru-n-dh-y-ur) | **rundhīran**[[br]](रुन्धीरन्)[[br]](ru-n-dh-ī-ran) |
+| **Partizip Präsens** | | **rundhant-**[[br]](रुन्धन्त्-)[[br]](ru-n-dh-ant-)[[br]]fem.: **rundhatī**[[br]](रुन्धती)[[br]](ru-n-dh-at-ī) | |
 
-Beispiel:
-
-भञ्ज्  7P "brechen
-
-*   Indikativ Präsens
-    *   3.sg.P. भनक्ति (bha-na + j + ti)
-    *   3.pl.P. भञ्जन्ति (bha + n + j-anti)
-*   Futur: भङ्क्ष्यति (bha + n + j + sya + ti)
-*   Passiv: भज्यते (entwerder aus ursprünglicher Wurzel भज् oder aus \*bhñj-ya-te)
-*   PPP: भग्न (evtl. aus \*bhñj + na)
-
+::::
 ## 31.2. Wortliste
 
 युज् 7U युनक्ति : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, सप्तमी)
@@ -177,7 +151,7 @@ Vorbereitung zum Kathakali-Tanz \= കഥകളി, Kochi = കൊച്ചി
 > Pass. बध्यते  
 > Kaus. बन्धयति  
 > PPP बद्ध  
-> Inf. बन्द्धुम्
+> Inf. बद्धुम्
 > 
 > davon:
 > 
@@ -203,10 +177,10 @@ A) Übersetzen Sie folgende Sätze und lösen Sie die Komposita auf:
 
 प्रज्ञा दुःखसम्भवं रुन्ध्यादिति बुद्धिमानार्यबुद्धमार्गेण गच्छेत् ॥१॥
 
-शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगव्द्गीतायां भगवतोच्यते ॥२॥
+शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते ॥२॥
 
 ![](/images/lekt3105.jpg)  
-Abb.: शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगव्द्गीटायां भगवतोच्यते  
+Abb.: शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते  
 "Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War."  
 \[Bildquelle: Hari Singh Deora / Wikipedia. -- Public domain\]
 
