@@ -32,28 +32,20 @@ Beispiele:
 
 ## 32.3. Regeln für das Augment
 
-1\. Tritt das Augment a- vor eine vokalisch anlautende Wurzel, so verschmelzen das Augment un der Wurzelanlaut zur वृद्धि des Wurzelvokals.
+1\. Tritt das Augment a- vor eine vokalisch anlautende Wurzel, so verschmelzen das Augment und der Wurzelanlaut zur वृद्धि des Wurzelvokals.
 
 Beispiele:
 
-> |   | 
-> 3.sg.Impf.
-> 
->  | 3.pl.Impf |
-> | --- | --- | --- |
-> | इष् | 
-> 
-> ऐच्छत्  
-> (a- + iccha-t)
-> 
->  |   |
-> | इ | ऐत्  
-> (a- + e + t) | आयन्  
-> (a + i + an) |
-> | आस् | आस्त  
-> (a + ās-ta) |   |
+:::: grammar-box
 
-2\. Stehen Präverbe vor einer Wurzel, so tritt das Augment a- hinter die Präverbe unmittelbar vor die Wurzel.
+| | 3. sg. Impf. | 3. pl. Impf. |
+| :--- | :--- | :--- |
+| **iṣ**[[br]](इष्) | **aicchat**[[br]](ऐच्छत्)[[br]](a- + iccha-t) | |
+| **i**[[br]](इ) | **ait**[[br]](ऐत्)[[br]](a- + e + t) | **āyan**[[br]](आयन्)[[br]](a + i + an) |
+| **ās**[[br]](आस्) | **āsta**[[br]](आस्त)[[br]](a + ās-ta) | |
+
+::::
+2\. Stehen Präverben vor einer Wurzel, so tritt das Augment a- hinter die Präverben unmittelbar vor die Wurzel.
 
 Beispiele:
 
@@ -65,20 +57,16 @@ Beispiele:
 > 
 >  |
 > | संगम् | समगच्छत्  
-> (sam-a-gaccha-t) |
-> | उपगम् | उपागच्छत्  
-> (upa + a + gaccha-t) |
-> | उपागम् | उपागच्छत्  
-> (upa + ā + a +gaccha-t) |
+:::: grammar-box
 
-## 32.4. Beispiele für die Imperfektbildung der einzelnen Präsensklassen
+| | 3. sg. Impf. |
+| :--- | :--- |
+| **āgam**[[br]](आगम्) | **āgacchat**[[br]](आगच्छत्)[[br]](ā + a + gaccha-t) |
+| **saṃgam**[[br]](संगम्) | **samagacchat**[[br]](समगच्छत्)[[br]](sam-a-gaccha-t) |
+| **upagam**[[br]](उपगम्) | **upāgacchat**[[br]](उपागच्छत्)[[br]](upa + a + gaccha-t) |
+| **upāgam**[[br]](उपागम्) | **upāgacchat**[[br]](उपागच्छत्)[[br]](upa + ā + a + gaccha-t) |
 
-![](/images/lekt3201.jpg) Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen &lt;&gt;.
-
-### 32.4.1. Thematische Präsensklassen
-
-| Präsensklasse | Wurzel | 3\. sg.P | 3.pl.P | 3.sg.Ā | 3.pl.Ā |
-| --- | --- | --- | --- | --- | --- |
+::::
 | 
 1.
 
@@ -89,37 +77,17 @@ Beispiele:
  | 
 
 अभवत्
+:::: grammar-box
 
- | 
+| Präsensklasse | Wurzel[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1.** | **bhū**[[br]](भू) | **abhavat**[[br]](अभवत्) | **abhavan**[[br]](अभवन्) | **<abhavata>**[[br]](<अभवत>) | **<abhavanta>**[[br]](<अभवन्त>) |
+| **4.** | **nṛt**[[br]](नृत्) | **anṛtyat**[[br]](अनृत्यत्) | **anṛtyan**[[br]](अनृत्यन्) | **<anṛtyata>**[[br]](<अनृत्यत>) | **<anṛtyanta>**[[br]](<अनृत्यन्त>) |
+| **6.** | **viś**[[br]](विश्) | **aviśat**[[br]](अविशत्) | **aviśan**[[br]](अविशन्) | **<aviśata>**[[br]](<अविशत>) | **<aviśanta>**[[br]](<अविशन्त>) |
+| **10. / Kaus.** | **cur**[[br]](चुर्) | **acorayat**[[br]](अचोरयत्) | **acorayan**[[br]](अचोरयन्) | **acorayata**[[br]](अचोरयत) | **acorayanta**[[br]](अचोरयन्त) |
+| **Passiv** | **gam**[[br]](गम्) | **agamyata**[[br]](अगम्यत) | **agamyanta**[[br]](अगम्यन्त) | | |
 
-अभवन्
-
- | 
-
-&lt;अभवत&gt;
-
- | 
-
-&lt;अभवन्त&gt;
-
- |
-| 4. | नृत् | अनृत्यत् | अनृत्यन् | &lt;अनृत्यत&gt; | &lt;अनृत्यन्त&gt; |
-| 6. | विश् | अविशत् | अविशन् | &lt;अविशत&gt; | &lt;अविशन्त&gt; |
-| 10\. und Kaus. | चुर् | अचोरयत् | अचोरयन् | अचोरयत | अचोरयन्त |
-| Passiv |   | 3.sg.Passiv | 3.pl.Passiv |   |   |
-|   | गम् | अगम्यत | अगम्यन्त |   |   |
-
-### 32.4.2. Athematische Präsensklassen
-
-| Präsensklasse | Wurzel | 3\. sg.P | 3.pl.P | 3.sg.Ā | 3.pl.Ā |
-| --- | --- | --- | --- | --- | --- |
-| 
-2.
-
- | द्विष् | अद्वेट्  
-(adveṣṭ » adveṣ »  adveṭ) | अद्विषन्  
-अद्विषुर् | अद्विष्ट | अद्विषत |
-| 2. | दुह् | अधोक्  
+::::
 (a + doh +t » adogdh » adhok) | अदुहन् | अदुग्ध | अदुहत |
 | 2. | इ | ऐत् | आयन् |   |   |
 | 2. | हन् | अहन्  
@@ -132,8 +100,8 @@ Beispiele:
 | 8. | तन् | अतनोत् | अतन्वन् | अतनुत | अतन्वत |
 | 8. | कृ | अकरोत् | अकुर्वन् | अकुरुत | अकुर्वत |
 | 7. | युज् | अयुनक्  
-(a-yunaj + t » ayunakt » ayunak) | अयुञ्जन् | अजुङ्क्त  
-(a-yuñj + ta) | अजुञ्जत |
+(a-yunaj + t » ayunakt » ayunak) | अयुञ्जन् | अयुङ्क्त  
+(a-yuñj + ta) | अयुञ्जत |
 | 7. | रुध् | अरुणत्  
 (a-ruṇadh + t » aruṇaddh » aruṇat) | अरुन्धन् | अरुन्द्ध | अरुन्धत |
 | 9. | क्री | अक्रीणात्  
@@ -143,36 +111,25 @@ Beispiele:
 (a-krīṇ-ata) |
 
 ## 32.5. Wortliste
+:::: grammar-box
 
-अग्र n.: Spitze, äußerstes Ende
+| Präsensklasse | Wurzel[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **2.** | **dviṣ**[[br]](द्विष्) | **adveṭ**[[br]](अद्वेट्)[[br]](adveṣṭ > adveṣ > adveṭ) | **adviṣan**[[br]](अद्विषन्)[[br]]**adviṣuḥ**[[br]](अद्विषुर्) | **adviṣṭa**[[br]](अद्विष्ट) | **adviṣata**[[br]](अद्विषत) |
+| **2.** | **duh**[[br]](दुह्) | **adhok**[[br]](अधोक्)[[br]](a + doh + t > adogdh > adhok) | **aduhan**[[br]](अदुहन्) | **adugdha**[[br]](अदुग्ध) | **aduhta**[[br]](अदुहत) |
+| **2.** | **i**[[br]](इ) | **ait**[[br]](ऐत्) | **āyan**[[br]](आयन्) | | |
+| **2.** | **han**[[br]](हन्) | **ahan**[[br]](अहन्)[[br]](aus *ahant) | **aghnan**[[br]](अघ्नन्) | | |
+| **2.** | **stu**[[br]](स्तु) | **astaut**[[br]](अस्तौत्)[[br]]**astavīt**[[br]](अस्तवीत्) | **astuvan**[[br]](अस्तुवन्) | **astuta**[[br]](अस्तुत) | **astuvata**[[br]](अस्तुवत) |
+| **2.** | **as**[[br]](अस्) | **āsīt**[[br]](आसीत्) | **āsan**[[br]](आसन्) | | |
+| **5.** | **su**[[br]](सु) | **asunot**[[br]](असुनोत्) | **asunvan**[[br]](असुन्वन्) | **asunuta**[[br]](असुनुत) | **asunvata**[[br]](असुन्वत) |
+| **5.** | **āp**[[br]](आप्) | **āpnot**[[br]](आप्नोत्) | **āpnuvan**[[br]](आप्नुवन्) | **<āpnutata>**[[br]](<आप्नुत>) | **<āpnuvata>**[[br]](<आप्नुवत>) |
+| **8.** | **tan**[[br]](तन्) | **atanot**[[br]](अतनोत्) | **atanvan**[[br]](अतन्वन्) | **atanuta**[[br]](अतनुत) | **atanvata**[[br]](अतन्वत) |
+| **8.** | **kṛ**[[br]](कृ) | **akarot**[[br]](अकरोत्) | **akurvan**[[br]](अकुर्वन्) | **akuruta**[[br]](अकुरुत) | **akurvata**[[br]](अकुर्वत) |
+| **7.** | **yuj**[[br]](युज्) | **ayunak**[[br]](अयुनक्)[[br]](a-yunaj + t > ayunakt > ayunak) | **ayuñjan**[[br]](अयुञ्जन्) | **ayuṅkta**[[br]](अयुङ्क्त)[[br]](a-yuñj + ta) | **ayuñjata**[[br]](अयुञ्जत) |
+| **7.** | **rudh**[[br]](रुध्) | **aruṇat**[[br]](अरुणत्)[[br]](a-ruṇadh + t > aruṇaddh > aruṇat) | **arundhan**[[br]](अरुन्धन्) | **arunddha**[[br]](अरुन्द्ध) | **arundhata**[[br]](अरुन्धत) |
+| **9.** | **krī**[[br]](क्री) | **akrīṇāt**[[br]](अक्रीणात्)[[br]](a-krīṇā-t) | **akrīṇan**[[br]](अक्रीणन्)[[br]](a-krīṇ-an) | **akrīṇīta**[[br]](अक्रीणीत)[[br]](a-krīṇī-ta) | **akrīṇata**[[br]](अक्रीणत)[[br]](a-krīṇ-ata) |
 
-मही f.: Erde, Grund und Boden (wörtl.: die Große)
-
-एकदा
-
-श्रम् श्राम्यते
-
-> श्रमिष्यते  
-> श्रम्यते  
-> श्रमयति  
-> श्रान्त  
-> श्रमित्वा । श्रान्त्वा  
-> \-श्रम्य  
-> श्रमितुम्
-
-पार्श्व
-
-चूत
-
-![](/images/lekt3202.jpg)  
-Abb.: चूतः  
-कानपुर, / کان پور  
-\[Bildquelle: AmarChandra / Wikipedia. -- [Creative Commons](http://en.wikipedia.org/wiki/Creative_Commons "w:Creative Commons") [Attribution ShareAlike 2.5](http://creativecommons.org/licenses/by-sa/2.5/ "http://creativecommons.org/licenses/by-sa/2.5/") (Namensnennung, share alike)\]
-
-तरु वृक्ष
-
-पचेलिम
-
+::::
 स्पृहा
 
 परम्
@@ -219,7 +176,7 @@ Delhi = दहली
 ![](/images/lekt3204.jpg)  
 Abb.: उपलाः
 
-> "The boulders here are hard enough that the scavengers who have taken over the abandoned quarry south of downtown prefer not to strike them directly with their hammers.They heat the rocks first  with flaming tires, scrap plastic, even old rubber boots  so that the stones will fracture more easily. At dusk, when three or four blazes spew choking black clouds across the huge pit, the quarry looks like a woodcut out of Dante. At the mouth of this stone quarry in Pune Maharashtra, diminutive women in saris toil 14 hour shifts breaking boulders into cricket-ball sized chunks of stone. Sledgehammers cut through to the air to the sound of splintering stone. Just behind them roared large machines that chewed up stone only to spit out construction gravel. Almost everybodies face was smeared with a white dust. A dust, heavy and suffocating, floating in the air like mist covering everything."
+> "The boulders here are hard enough that the scavengers who have taken over the abandoned quarry south of downtown prefer not to strike them directly with their hammers.They heat the rocks first  with flaming tires, scrap plastic, even old rubber boots  so that the stones will fracture more easily. At dusk, when three or four blazes spew choking black clouds across the huge pit, the quarry looks like a woodcut out of Dante. At the mouth of this stone quarry in Pune Maharashtra, diminutive women in saris toil 14 hour shifts breaking boulders into cricket-ball sized chunks of stone. Sledgehammers cut through to the air to the sound of splintering stone. Just behind them roared large machines that chewed up stone only to spit out construction gravel. Almost everybody\'s face was smeared with a white dust. A dust, heavy and suffocating, floating in the air like mist covering everything."
 > 
 > \[Bildquelle: lecercle. -- [http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/](http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/). -- Zugriff am 2008-12-25. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]  
 
@@ -476,7 +433,7 @@ B) Übung zum Sandhi: Setzen Sie in folgenden Sätzen die Wörter in den Klammer
 
 C) Übersetzen Sie ins Sanskrit:
 
-1.) Nachdem der Sohn qeboren ist , schickt die Brahmanin einen Diener zum Brahmanen. Der Brahmane lässt diesen Diener ins Haus eintreten und fragt dann nach dem Sohn. Der Diener sagt, dass der Sohn wohlauf ist. Als er das qehört hat, wird der Brahmane glücklich.
+1.) Nachdem der Sohn geboren ist , schickt die Brahmanin einen Diener zum Brahmanen. Der Brahmane lässt diesen Diener ins Haus eintreten und fragt dann nach dem Sohn. Der Diener sagt, dass der Sohn wohlauf ist. Als er das gehört hat, wird der Brahmane glücklich.
 
 2.) Der Heilige hat das (ihm) getane Böse ertragen.
 
@@ -486,13 +443,13 @@ C) Übersetzen Sie ins Sanskrit:
 
 5.) Das Mädchen weint.
 
-6.) Es gibt keine Krankheit gleich wie die Wohllust, es qibt keinen Feind wie die Verwirrung, es gibt kein Feuer wie den Zorn, es gibt kein Glück wie die Erkenntnis.
+6.) Es gibt keine Krankheit gleich wie die Wohllust, es gibt keinen Feind wie die Verwirrung, es gibt kein Feuer wie den Zorn, es gibt kein Glück wie die Erkenntnis.
 
 7.) Ein Mann, den die Göttin behütet, ist glücklich.
 
 8.) Mit welchem Wind auch immer eine Wolke Wasser (वारि n.) lässt, mit dem Wind bewegt ein Gelehrter seinen Schirm.
 
-9.) Es qibt keine fruchtbringenden Tätigkeiten von Ständen, Lebensstadien usw.
+9.) Es gibt keine fruchtbringenden Tätigkeiten von Ständen, Lebensstadien usw.
 
 10) Der Kreislauf der Wiedergeburten hat keinen Anfang.
 
@@ -502,11 +459,11 @@ C) Übersetzen Sie ins Sanskrit:
 
 13) Um der Himmel Willen tun die Menschen Verdienstvolles.
 
-14) Ein Mann, der aus Überheblichkeit, Gier, Zorn, oder Furcht ein Gerichtsurteil fälschlich spricht, qeht in eine Hölle.
+14) Ein Mann, der aus Überheblichkeit, Gier, Zorn, oder Furcht ein Gerichtsurteil fälschlich spricht, geht in eine Hölle.
 
 15) Rāma ging auf Anweisung der Lehrers aus dem Dorf in die Stadt, betrat das Haus des heiligen Mannes, trat ehrerbietig vor den Heiligen und spricht: "Lass ab vom Zorn!"
 
-16) Immer (sei seine) Verbindung mit solchen, die in den Wissenschaften gewachsen sind, auf dass seine Erziehunq/qutes Verhalten wachse. (Dies) weil die Erziehunq/gutes Verhalten als Wurzel dieses (die Verbindung mit solchen) hat.
+16) Immer (sei seine) Verbindung mit solchen, die in den Wissenschaften gewachsen sind, auf dass seine Erziehung/gutes Verhalten wachse. (Dies) weil die Erziehung/gutes Verhalten als Wurzel dieses (die Verbindung mit solchen) hat.
 
 17) Während der Lehrer steht, darf der Knabe nicht sitzen.
 
@@ -534,7 +491,7 @@ C) Übersetzen Sie ins Sanskrit:
 
 29) Der Götterfürst besiegt die Nichtarier, die Feinde des Indra sind. (Passiv)
 
-30) Yoga der Tat sind Askese (tapas n.), (Veda)rezitation, Dienstfertigkeit qegenüber dem HERRN. Er dient der Entfaltung der meditativen Versenkung und der Schwächung der kleśas.
+30) Yoga der Tat sind Askese (tapas n.), (Veda)rezitation, Dienstfertigkeit gegenüber dem HERRN. Er dient der Entfaltung der meditativen Versenkung und der Schwächung der kleśas.
 
 31) Nahrungsaufnahme, Schlaf, Furcht und Paarung: dies ist eine Gemeinsamkeit der Menschen mit den Tieren. Im Dharma (liegt) nämlich deren hinzukommende Besonderheit. Vom Dharma verlassen sind sie den Tieren (Instr.) gleich.
 
@@ -544,23 +501,23 @@ C) Übersetzen Sie ins Sanskrit:
 
 34) Es ist Dharma der Kṣatriyas, dass die Kṣatriyas die Leute vor den Feinden schützen.
 
-35) Deshalb haben die drei (tisras) Wissenschaften das Regiment als Wurzel. Das Reqiment , das Erziehunq/qutes Verhalten als Wurzel hat, bringt den Lebewesen (प्राणभृत्) Gewinn und sicheren Besitz.
+35) Deshalb haben die drei (tisras) Wissenschaften das Regiment als Wurzel. Das Regiment , das Erziehung/gutes Verhalten als Wurzel hat, bringt den Lebewesen (प्राणभृत्) Gewinn und sicheren Besitz.
 
 36) Böse Leute hören nicht (zu), wenn der Lehrer über den Dharma spricht.
 
 37) Diesem Rāma sei Verehrunq!
 
-38) Der hehre Hari ist mein Weq/Ziel, der (seine) Feinde in einen Himmel schickte, die Seinen den Sinn des Veda wissen ließ, den Göttern Unsterblichkeitsspeise zu essen qab, den Schöpfer (विधि) den Veda lehrte, die Erde im Wasser (fest )setzte.
+38) Der hehre Hari ist mein Weg/Ziel, der (seine) Feinde in einen Himmel schickte, die Seinen den Sinn des Veda wissen ließ, den Göttern Unsterblichkeitsspeise zu essen gab, den Schöpfer (विधि) den Veda lehrte, die Erde im Wasser (fest )setzte.
 
-39) Viṣṇu zeiqt sich seinen Gläubiqen.
+39) Viṣṇu zeigt sich seinen Gläubigen.
 
-40) Ein Reqiment, das nicht ausgeübt wird, bewirkt die Norm der Fische.
+40) Ein Regiment, das nicht ausgeübt wird, bewirkt die Norm der Fische.
 
 41) Wer Reichtümer besitzt, der hat Freunde: wer Reichtümer besitzt, der hat Verwandte; wer Reichtümer besitzt, der ist ein Mann (पुमान् Nom.sq.) in der Welt; wer Reichtümer besitzt, der ist nämlich ein Gelehrter.
 
 42) Das Feuer, das den Verstorbenen verbrennt, verbrennt auch die qute Witwe.
 
-43) Die Dienerin des Brahmanen hat die Speise qekocht und isst sie (nun).
+43) Die Dienerin des Brahmanen hat die Speise gekocht und isst sie (nun).
 
 44) Jetzt reicht's !
 
@@ -572,11 +529,11 @@ C) Übersetzen Sie ins Sanskrit:
 
 48) Weil er einen Fehler beim Opfer gemacht hat, ist der Brahmane nicht würdig, Reichtümer zu empfangen.
 
-49) Wenn die Initiationszeremonie stattqefunden hat, soll er sich den Veda und die Philosophie von Gelehrten, die Ökonomie von Departementsvorstehern aneignen (उपयुज्).
+49) Wenn die Initiationszeremonie stattgefunden hat, soll er sich den Veda und die Philosophie von Gelehrten, die Ökonomie von Departementsvorstehern aneignen (उपयुज्).
 
 50) Vaiśyadharma ist, dass die Vaiśyas von Kauf und Verkauf leben. Da es so ist, kaufen und verkaufen die Vaiśyasöhne.
 
-51) Man soll die Wahrheit saqen, man soll Anqenehmes sagen; man soll nicht eine unanqenehrne Wahrheit saqen und man soll auch keine unangenehme Unwahrheit saqen. Dies ist der ewige Dharma.
+51) Man soll die Wahrheit sagen, man soll Anqenehmes sagen; man soll nicht eine unangenehme Wahrheit sagen und man soll auch keine unangenehme Unwahrheit sagen. Dies ist der ewige Dharma.
 
 52) Auf Wiedersehen!
 
@@ -637,7 +594,7 @@ Erklärungen:
 
 पथि Lok. sg. zu पथ् m. "Weg" (unregelmäßige Deklination)
 
-लक्ष्यीकृ च्विऽ-षुffइx अन् लक्स्य + कृ : etwas zum लक्ष्य machen, was vorher nicht लक्ष्य war
+लक्ष्यीकृ च्विऽ-Suffix अन् लक्स्य + कृ : etwas zum लक्ष्य machen, was vorher nicht लक्ष्य war
 
 आदाय Absolutiv zu आ-दा (3. Präsensklasse) "nehmen"
 
