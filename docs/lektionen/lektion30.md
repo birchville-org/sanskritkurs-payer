@@ -18,27 +18,27 @@ Beispiel:
 
 > क्री 9U "kaufen"
 > 
-> &gt; |   | Singular | Plural |
-> &gt; | --- | --- | --- |
-> &gt; | 3\. Person Parasmaipada | क्रीणाति  
-> &gt; (krī + nā + ti) | क्रीणन्ति  
-> &gt; (krī + n + anti) |
-> &gt; | 3\. Person Ātmanepada | क्रीणीते  
-> &gt; (krī + nī + te) | क्रीणते  
-> &gt; (krī + n + ate) |
+:::: grammar-box
+
+| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- |
+| **3. Person[[br]]Parasmaipada** | **krīṇāti**[[br]](क्रीणाति)[[br]](krī + nā + ti) | **krīṇanti**[[br]](क्रीणन्ति)[[br]](krī + n + anti) |
+| **3. Person[[br]]Ātmanepada** | **krīṇīte**[[br]](क्रीणीते)[[br]](krī + nī + te) | **krīṇate**[[br]](क्रीणते)[[br]](krī + n + ate) |
+
+::::
 
 Bei dieser Präsensklasse ist besonders zu beachten die Bildung des Präsensstamms zur Wurzel ज्ञा 9U "erkennen, wissen":
 
-> |   | Singular | Plural |
-> | --- | --- | --- |
-> | 3\. Person Parasmaipada | जानाति  
-> (jā-na-ti) | जानन्ति  
-> (jā-n-anti) |
-> | 3\. Person Ātmanepada | जानीते  
-> (jā-nī-te) | जानते  
-> (jā-n-ate) |
+:::: grammar-box
+
+| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- |
+| **3. Person[[br]]Parasmaipada** | **jānāti**[[br]](जानाति)[[br]](jā-nā-ti) | **jānanti**[[br]](जानन्ति)[[br]](jā-n-anti) |
+| **3. Person[[br]]Ātmanepada** | **jānīte**[[br]](जानीते)[[br]](jā-nī-te) | **jānate**[[br]](जानते)[[br]](jā-n-ate) |
+
+::::
 > 
-> Die Form जा die, dem Präsensstamm von ज्ञा zugrundeliegt, ist entweder durch eine Ablautreihe -ā (Tiefstufe) -nā (Hochstufe) zu erklären, oder durch Dissimilation aus \*jñā-nā-ti.
+> Die Form जा die dem Präsensstamm von ज्ञा zugrundeliegt, ist entweder durch eine Ablautreihe -ā (Tiefstufe) -nā (Hochstufe) zu erklären, oder durch Dissimilation aus \*jñā-nā-ti.
 
 Einige Wurzeln auf langen Vokal verkürzen diesen vor dem Präsensstammsuffix der 9. Klasse:
 
@@ -46,14 +46,14 @@ Beispiel:
 
 > पू 9U "reinigen"
 > 
-> |   | Singular | Plural |
-> | --- | --- | --- |
-> | 3\. Person Parasmaipada | पुनाति  
-> (pu-nā-ti) | पुनन्ति  
-> (pu-n-anti) |
-> | 3\. Person Ātmanepada | पुनीते  
-> (pu-nī-te | पुनते  
-> (pu-n-ate) |
+:::: grammar-box
+
+| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- |
+| **3. Person[[br]]Parasmaipada** | **punāti**[[br]](पुनाति)[[br]](pu-nā-ti) | **punanti**[[br]](पुनन्ति)[[br]](pu-n-anti) |
+| **3. Person[[br]]Ātmanepada** | **punīte**[[br]](पुनीते)[[br]](pu-nī-te) | **punate**[[br]](पुनते)[[br]](pu-n-ate) |
+
+::::
 
 Bildung des Partizip Präsens Parasmaipada:
 
@@ -99,14 +99,14 @@ Beispiel:
 
 Der Optativ (लिङ्), das Imperfekt (लङ्), der Aorist (लुङ्), Prekativ (आशिर्लिङ्) und Konditionalis haben die sog. Sekundärendungen:
 
-|   | 3\. Person Singular | 3\. Person Plural |
-| --- | --- | --- |
-| Parasmaipada | \-t | \-n  
-athematische Klassen: -an oder -ur  
-Optativ: -ur |
-| Ātmanepada | \-ta | \-nta  
-athematische Klassen: -ata (aus \*nta)  
-Optativ: -ran |
+:::: grammar-box
+
+| | 3. Person Singular | 3. Person Plural |
+| :--- | :--- | :--- |
+| **Parasmaipada** | **-t** | **-n**[[br]]athematische Klassen: **-an** oder **-ur**[[br]]Optativ: **-ur** |
+| **Ātmanepada** | **-ta** | **-nta**[[br]]athematische Klassen: **-ata** (aus *nta)[[br]]Optativ: **-ran** |
+
+::::
 
 ## 30.4. Bildung des Optativ Präsens (लिङ्)
 
@@ -126,53 +126,53 @@ Beispiele:
 
 > भू
 > 
-> |   | Singular | Plural |
-> | --- | --- | --- |
-> | 3\. Person Parasmaipada | भवेत्  
-> bhava + i + t | भवेयुर्  
-> bhava + i + y + ur |
-> | 3\. Person Ātmanepada | भवेत  
-> bhava + i + ta | भवेरन्  
-> bhava + i + ran |
+:::: grammar-box
+
+| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- |
+| **3. Person[[br]]Parasmaipada** | **bhavet**[[br]](भवेत्)[[br]](bhava + i + t) | **bhaveyuḥ**[[br]](भवेयुर्)[[br]](bhava + i + y + ur) |
+| **3. Person[[br]]Ātmanepada** | **bhaveta**[[br]](भवेत)[[br]](bhava + i + ta) | **bhaveran**[[br]](भवेरन्)[[br]](bhava + i + ran) |
+
+::::
 
 4\. Präsensklasse:
 
 > नृत्
 > 
-> |   | Singular | Plural |
-> | --- | --- | --- |
-> | 3\. Person Parasmaipada | नृत्येत्  
-> nṛtya + i + t | नृत्येयुर्  
-> nṛtya + i + y + ur |
-> | 3\. Person Ātmanepada | नृत्येत  
-> nṛtya + i + ta | नृत्येरन्  
-> nṛtya + i + ran |
+:::: grammar-box
+
+| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- |
+| **3. Person[[br]]Parasmaipada** | **nṛtyet**[[br]](नृत्येत्)[[br]](nṛtya + i + t) | **nṛtyeyuḥ**[[br]](नृत्येयुर्)[[br]](nṛtya + i + y + ur) |
+| **3. Person[[br]]Ātmanepada** | **nṛtyeta**[[br]](नृत्येत)[[br]](nṛtya + i + ta) | **nṛtyeran**[[br]](नृत्येरन्)[[br]](nṛtya + i + ran) |
+
+::::
 
 6\. Präsensklasse
 
 > विश्
 > 
-> |   | Singular | Plural |
-> | --- | --- | --- |
-> | 3\. Person Parasmaipada | विशेत्  
-> viśa + i + t | विशेयुर्  
-> viśa + i + y + ur |
-> | 3\. Person Ātmanepada | विशेत  
-> viśa + i + ta | विशेरन्  
-> viśa + i + ran |
+:::: grammar-box
+
+| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- |
+| **3. Person[[br]]Parasmaipada** | **viśet**[[br]](विशेत्)[[br]](viśa + i + t) | **viśeyuḥ**[[br]](विशेयुर्)[[br]](viśa + i + y + ur) |
+| **3. Person[[br]]Ātmanepada** | **viśeta**[[br]](विशेत)[[br]](viśa + i + ta) | **viśeran**[[br]](विशेरन्)[[br]](viśa + i + ran) |
+
+::::
 
 10\. Präsensklasse und Kausative
 
 > चुर्
 > 
-> |   | Singular | Plural |
-> | --- | --- | --- |
-> | 3\. Person Parasmaipada | चोरयेत्  
-> coryaya + i +t | चोरयेयुर्  
-> coraya + i + y + ur |
-> | 3\. Person Ātmanepada | चोरयेत  
-> coraya + i + ta | चोरयेरन्  
-> coraya + i + ran |
+:::: grammar-box
+
+| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- |
+| **3. Person[[br]]Parasmaipada** | **corayet**[[br]](चोरयेत्)[[br]](coraya + i + t) | **corayeyuḥ**[[br]](चोरयेयुर्)[[br]](coraya + i + y + ur) |
+| **3. Person[[br]]Ātmanepada** | **corayeta**[[br]](चोरयेत)[[br]](coraya + i + ta) | **corayeran**[[br]](चोरयेरन्)[[br]](coraya + i + ran) |
+
+::::
 
 ### 30.4.2. Athematische Präsensklassen
 
@@ -190,56 +190,60 @@ Beispiele:
 
 > द्विष्
 > 
-> |   | Singular | Plural |
-> | --- | --- | --- |
-> | 3\. Person Parasmaipada | द्विष्यात्  
-> dviṣ-yā-t | द्विष्युर्  
-> dviṣ-y-ur |
-> | 3\. Person Ātmanepada | द्विषीत  
-> dviṣ-ī-ta | द्विषीरन्  
-> dviṣ-ī-ran |
+:::: grammar-box
+
+| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- |
+| **3. Person[[br]]Parasmaipada** | **dviṣyāt**[[br]](द्विष्यात्)[[br]](dviṣ-yā-t) | **dviṣyuḥ**[[br]](द्विष्युर्)[[br]](dviṣ-y-ur) |
+| **3. Person[[br]]Ātmanepada** | **dviṣīta**[[br]](द्विषीत)[[br]](dviṣ-ī-ta) | **dviṣīran**[[br]](द्विषीरन्)[[br]](dviṣ-ī-ran) |
+
+::::
 
 5\. Präsensklasse
 
 > सु
 > 
-> |   | Singular | Plural |
-> | --- | --- | --- |
-> | 3\. Person Parasmaipada | सुनुयात्  
-> sunu-yā-t | सुनुयुर्  
-> sunu-y-ur |
-> | 3\. Person Ātmanepada | सुन्वीत  
-> sunu + ī + ta | सुन्वीरन्  
-> sunu + ī + ran |
+:::: grammar-box
+
+| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- |
+| **3. Person[[br]]Parasmaipada** | **sunuyāt**[[br]](सुनुयात्)[[br]](sunu-yā-t) | **sunuyuḥ**[[br]](सुनुयुर्)[[br]](sunu-y-ur) |
+| **3. Person[[br]]Ātmanepada** | **sunvīta**[[br]](सुन्वीत)[[br]](sunu + ī + ta) | **sunvīran**[[br]](सुन्वीरन्)[[br]](sunu + ī + ran) |
+
+::::
 
 8\. Präsensklasse
 
 > तन्
 > 
-> |   | Singular | Plural |
-> | --- | --- | --- |
-> | 3\. Person Parasmaipada | तनुयात्  
-> tanu-yā-t | तनुयुर्  
-> tanu-y-ur |
-> | 3\. Person Ātmanepada | तन्वीत  
-> tanu + ī + ta | तन्वीरन्  
-> tanu + ī + ran |
-> 
-> कृ
-> 
-> |   | Singular | Plural |
-> | --- | --- | --- |
-> | 3\. Person Parasmaipada | कुर्यात् | कुर्युर् |
-> | 3\. Person Ātmanepada | कुर्वीत | कुर्वीरन् |
+:::: grammar-box
 
-9\. Präsensklasse
+| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- |
+| **3. Person[[br]]Parasmaipada** | **tanuyāt**[[br]](तनुयात्)[[br]](tanu-yā-t) | **tanuyuḥ**[[br]](तनुयुर्)[[br]](tanu-y-ur) |
+| **3. Person[[br]]Ātmanepada** | **tanvīta**[[br]](तन्वीत)[[br]](tanu + ī + ta) | **tanvīran**[[br]](तन्वीरन्)[[br]](tanu + ī + ran) |
 
-> क्री
-> 
-> |   | Singular | Plural |
-> | --- | --- | --- |
-> | 3\. Person Parasmaipada | क्रीणीयात्  
-> krīṇī-yā-t | क्रीणीयुर्  
+::::
+
+> **kṛ**[[br]](कृ)
+
+:::: grammar-box
+
+| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- |
+| **3. Person[[br]]Parasmaipada** | **kuryāt**[[br]](कुर्यात्) | **kuryuḥ**[[br]](कुर्युर्) |
+| **3. Person[[br]]Ātmanepada** | **kurvīta**[[br]](कुर्वीत) | **kurvīran**[[br]](कुर्वीरन्) |
+
+::::
+
+:::: grammar-box
+
+| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- |
+| **3. Person[[br]]Parasmaipada** | **krīṇīyāt**[[br]](क्रीणीयात्)[[br]](krīṇī-yā-t) | **krīṇīyuḥ**[[br]](क्रीणीयुर्)[[br]](krīṇī-y-ur) |
+| **3. Person[[br]]Ātmanepada** | **krīṇīta**[[br]](क्रीणीत)[[br]](krīṇ-ī-ta) | **krīṇīran**[[br]](क्रीणीरन्)[[br]](krīṇ-ī-ran) |
+
+::::
 > krīṇī-y-ur |
 > | 3\. Person Ātmanepada | क्रीणीत  
 > krīṇ-ī-ta | क्रीणीरन्  
@@ -273,7 +277,7 @@ Beispiele:
 > Absol. विक्रीय
 
 ![](/images/lekt3001.jpg)  
-Abb.: क्रीणन्ति विक्रीनते च  
+Abb.: क्रीणन्ति विक्रीणते च  
 Bundi = बुन्दी, Rajasthan = राजस्थान  
 \[Bildquelle: earth2marsh. -- [http://www.flickr.com/photos/earth2marsh/56270619/](http://www.flickr.com/photos/earth2marsh/56270619/). -- Zugriff am 2008-12-21. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
 
@@ -301,7 +305,7 @@ Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महा�
 
 पू 9U पुनाति : reinigen
 
-> Fur. पविष्यति  
+> Fut. पविष्यति  
 > Pass. पूयते  
 > Kaus. पावयति  
 > PPP पूत  
@@ -440,7 +444,7 @@ B) Überrsetzen Sie die folgenden Sätze und lösen Sie die Komposita auf Sanskr
 
 जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥
 
-ये नरा देवान्न यजेरन्व्रतानि च न चरेयुरनृतं च वदेयुरधर्मं च कुर्युस्ते स्सुखं नाप्नुयुर्मृत्वा च नरकं पतेयुः ॥२॥
+ये नरा देवान्न यजेरन्व्रतानि च न चरेयुरनृतं च वदेयुरधर्मं च कुर्युस्ते सुखं नाप्नुयुर्मृत्वा च नरकं पतेयुः ॥२॥
 
 ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो ज्ञातिं दासमाययति ॥३॥
 
@@ -491,7 +495,7 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 28.  मृतिः
 29.  द्विजातये
 30.  जातिभिः
-31.  व्वाघ्रान्
+31.  व्याघ्रान्
 32.  पूजाः
 33.  शत्रोः
 34.  उक्तिभ्यः
