@@ -96,20 +96,15 @@ Beispiele:
 > &gt; *   starker Stamm: जुहो
 > &gt; *   schwacher Stamm: जुहु
 > 
-> |   | 3.sg.P | 3.pl.P | 3.sg.Ā | 3.pl.Ā |
-> | --- | --- | --- | --- | --- |
-> | Indikativ Präsens | जुहोति | जुह्वति  
-> juhu + ati | &lt;जुहुते&gt; | &lt;जुह्वते&gt;  
-> juhu + ate |
-> | Imperfekt | अजुहोत्  
-> a-juho-t | जुहवुर्  
-> a-juho + ur | &lt;अजुहुत&gt; | &lt;अजुह्वत&gt;  
-> a-juhu + ata |
-> | Optativ | जुहुयात्  
-> juhu-yā-t | जुहुयुर्  
-> juhu-y-ur | &lt;जुह्वीत&gt;  
-> juhu + ī-ta | &lt;जुह्वीरन्&gt;  
-> juhu + ī-ran |
+:::: grammar-box
+
+| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **Indikativ Präsens** | **juhoti**[[br]](जुहोति) | **juhvati**[[br]](जुह्वति)[[br]](juhu + ati) | **<juhute>**[[br]](<जुहुते>) | **<juhvate>**[[br]](<जुह्वते>)[[br]](juhu + ate) |
+| **Imperfekt** | **ajuhot**[[br]](अजुहोत्)[[br]](a-juho-t) | **ajuhavuḥ**[[br]](अजुहवुर्)[[br]](a-juho + ur) | **<ajuhuta>**[[br]](<अजुहुत>) | **<ajuhvata>**[[br]](<अजुह्वत>)[[br]](a-juhu + ata) |
+| **Optativ** | **juhuyāt**[[br]](जुहुयात्)[[br]](juhu-yā-t) | **juhuyuḥ**[[br]](जुहुयुर्)[[br]](juhu-y-ur) | **<juhvīta>**[[br]](<जुह्वीत>)[[br]](juhu + ī-ta) | **<juhvīran>**[[br]](<जुह्वीरन्>)[[br]](juhu + ī-ran) |
+
+::::
 
 ## 33.3. Zum Ablaut von ā
 
@@ -132,7 +127,7 @@ A.
 
 Hierher gehört z.B. auch:
 
-> स्था् 1
+> स्था 1
 > 
 > &gt; PPP स्थित (sthi-ta)  
 > &gt; 3.sg.P.Fut. स्थास्यति (sthā-sya-ti)
@@ -157,28 +152,28 @@ Beispiele:
 > | Indikativ Präsens | मिमीते  
 > mimī-te | मिमते  
 > mim-ate |
-> | Imperfekt | अमिमीत | अमिमत |
-> | Optativ | मिमीत  
-> mim-ī-ta ! | मिमीरन्  
-> mim-ī-ran |
-> 
-> हा 3P "verlassen"
-> 
-> |   | 3.sg.P | 3.pl.P |
-> | --- | --- | --- |
+:::: grammar-box
+
+| | 3. sg. Ā. | 3. pl. Ā. |
+| :--- | :--- | :--- |
+| **Indikativ Präsens** | **mimīte**[[br]](मिमीते)[[br]](mimī-te) | **mimate**[[br]](मिमते)[[br]](mim-ate) |
+| **Imperfekt** | **amimīta**[[br]](अमिमीत) | **amimata**[[br]](अमिमत) |
+| **Optativ** | **mimīta**[[br]](मिमीत)[[br]](mim-ī-ta !) | **mimīran**[[br]](मिमीरन्)[[br]](mim-ī-ran) |
+
+::::
 > | Indikativ Präsens | जहाति | जहति  
 > jah-ati |
 > | Imperfekt | अजहात् | अजहुर् |
-> | Optativ | जह्यात्  
-> jah-yā-t  
-> Die Wurzel हा hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen! | जह्युर्  
-> jah-y-ur |
+:::: grammar-box
 
-### 33.4.1. Die Wurzeln दा und धा
+| | 3. sg. P. | 3. pl. P. |
+| :--- | :--- | :--- |
+| **Indikativ Präsens** | **jahāti**[[br]](जहाति) | **jahati**[[br]](जहति)[[br]](jah-ati) |
+| **Imperfekt** | **ajahāt**[[br]](अजहात्) | **ajahuḥ**[[br]](अजहुर्) |
+| **Optativ** | **jahyāt**[[br]](जह्यात्)[[br]](jah-yā-t) | **jahyuḥ**[[br]](जह्युर्)[[br]](jah-y-ur) |
 
-Die Wurzeln दा und धा reduplizieren mit dem Vokal -a- und verlieren im schwachen Stamm den Wurzelvokal.
-
-Beachten Sie bei धा das hauchdissimilationsgesetz!
+::::
+Beachten Sie bei धा das Hauchdissimilationsgesetz!
 
 धा 3U "setzen, festsetzen, zuteilen"
 
@@ -187,18 +182,15 @@ Beachten Sie bei धा das hauchdissimilationsgesetz!
 > | Indikativ Präsens | दधाति | दधति  
 > dadh-ati | धत्ते  
 > dadh-te  
-> (Erklärung: Thumb-Hauschild 1,1 S. 302f.) | दधते  
-> dadh-ate |
-> | Imperfekt | अदधात् | अदधुर् | अधत्त  
-> a + dadh + ta | अदधत |
-> | Optativ | दध्यात्  
-> dadh-yā-t | दध्युर् | दधीत  
-> dadh-ī-ta | दधीरन् |
+:::: grammar-box
 
-Die Formen von दा erhält man, indem man im Paradigma von धा dh durch d ersetzt. Also:
+| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **Indikativ Präsens** | **dadhāti**[[br]](दधाति) | **dadhati**[[br]](दधति)[[br]](dadh-ati) | **dhatte**[[br]](धत्ते)[[br]](dadh-te) | **dadhate**[[br]](दधते)[[br]](dadh-ate) |
+| **Imperfekt** | **adadhāt**[[br]](अदधात्) | **adadhuḥ**[[br]](अदधुर्) | **adhatta**[[br]](धत्त)[[br]](a + dadh + ta) | **adadhata**[[br]](अदधत) |
+| **Optativ** | **dadhyāt**[[br]](दध्यात्)[[br]](dadh-yā-t) | **dadhyuḥ**[[br]](दध्युर्) | **dadhīta**[[br]](दधीत)[[br]](dadh-ī-ta) | **dadhīran**[[br]](दधीरन्) |
 
-दा 3U "geben"
-
+::::
 > |   | 3.sg.P | 3.pl.P | 3.sg.Ā | 3.pl.Ā |
 > | --- | --- | --- | --- | --- |
 > | Indikativ Präsens | ददाति | ददति | दत्ते | ददते |
@@ -207,11 +199,15 @@ Die Formen von दा erhält man, indem man im Paradigma von धा dh durch d 
 
 ## 33.5. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
 
-Die Verben der 3. Klasse bilden alle Formen des Partizip Präsens Parasmaipada vom schwachen Stamm.
+:::: grammar-box
 
-Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.
+| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **Indikativ Präsens** | **dadāti**[[br]](ददाति) | **dadati**[[br]](ददति) | **datte**[[br]](दत्ते) | **dadate**[[br]](ददते) |
+| **Imperfekt** | **adadāt**[[br]](अददात्) | **adaduḥ**[[br]](अददुर्) | **adatta**[[br]](अदत्त) | **adadata**[[br]](अददत) |
+| **Optativ** | **dadyāt**[[br]](दद्यात्) | **dadyuḥ**[[br]](दद्युर्) | **dadīta**[[br]](ददीत) | **dadīran**[[br]](ददीरन्) |
 
-Beispiel:
+::::
 
 दा Partizip Präsens Parasmaipada:
 
@@ -219,21 +215,18 @@ Beispiel:
 > | --- | --- | --- | --- |
 > | Singular |   |   |   |
 > | 1\. Nominativ | ददत्  
-> dad-at + s | ददत्  
-> dad-at-Ø | ददती |
-> | 2\. Akkusativ | ददतम्  
-> dad-at-am | ददत् |   |
-> | Plural |   |   |   |
-> | 1\. Nominativ | ददतस् | ददति  
-> das-at-i  
-> ददन्ति  
-> dad-ant-i |   |
-> | 2\. Akkusativ | ददतस् | ददति  
-> ददन्ति |   |
+:::: grammar-box
 
-Ähnlich जुह्वत् (juhu-at + s)
+| | Maskulinum[[br]]पुंल्लिङ्ग | Neutrum[[br]]नपुंसकलिङ्ग | Femininum[[br]]स्त्रीलिङ्ग |
+| :--- | :--- | :--- | :--- |
+| **Singular** | | | |
+| **1. Nominativ** | **dadat**[[br]](ददत्)[[br]](dad-at + s) | **dadat**[[br]](ददत्)[[br]](dad-at-Ø) | **dadatī**[[br]](ददती) |
+| **2. Akkusativ** | **dadatam**[[br]](ददतम्)[[br]](dad-at-am) | **dadat**[[br]](ददत्) | |
+| **Plural** | | | |
+| **1. Nominativ** | **dadataḥ**[[br]](ददतस्) | **dadati**[[br]](ददति)[[br]](dad-at-i)[[br]]**dadanti**[[br]](ददन्ति)[[br]](dad-ant-i) | |
+| **2. Akkusativ** | **dadataḥ**[[br]](ददतस्) | **dadati**[[br]](ददति)[[br]]**dadanti**[[br]](ददन्ति) | |
 
-## 33.6. Wortliste
+::::
 
 दा 3U ददाति : geben
 
@@ -259,7 +252,7 @@ Abb.: दानम्
 > Absol. आदाय : mit Akk.: in Begleitung von, mit
 
 ![](/images/lekt3307.jpg)  
-Abb.: सा पुत्रमादाय भारं बिभर्ती गच्छति  
+Abb.: सा पुत्रमादाय भारं बिभ्रती गच्छति  
 Udaipur = उदयपुर  
 \[Bildquelle: gscottie8. -- [http://www.flickr.com/photos/gscottie/2152543713/](http://www.flickr.com/photos/gscottie/2152543713/). -- Zugriff am 2008-12-27. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
 
@@ -282,11 +275,11 @@ Abb.: समाधि
 योगिनी, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr.  
 \[Bildquelle: Quadell / Wikipedia. GNU FDLicense\]
 
-पॄ 3P पिपर्ति :füllen erfüllen
+पॄ 3P पिपर्ति :füllen, erfüllen
 
 > Merke:
 > 
-> 3.pl.P पिपुरति  
+> 3.pl.P पिप्राति  
 > 3.sg.Impf.P अपिपर् (aus: \*apipart)  
 > 3.pl.Impf.P अपिपरुर्  
 > 3.sg.Opt.P पिपूर्यात्
@@ -353,7 +346,7 @@ Mumbai = मुंबई, 2008
 > 
 > von PPP हीन :
 > 
-> हीनयान n.:  das mangelhafte Fahrzeug (des Budhismus): verächtliche Bezeichnung durch die Vertreter der "großen Fahrzeugs", des महायान ; der mangelhafte Weg (यान zu या 2: gehen, fahren). Der Ausdruck हीनयान sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heißt थेरवाद.
+> हीनयान n.:  das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter der "großen Fahrzeugs", des महायान ; der mangelhafte Weg (यान zu या 2: gehen, fahren). Der Ausdruck हीनयान sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heißt थेरवाद.
 
 ![](/images/lekt3303.jpg)  
 Abb.: हीनयानमेव  
@@ -375,7 +368,7 @@ Abb.: घृतमग्नौ जुहोति
 
 घृत n.: Schmelzbutter, Ghee = घी / گھی  / ঘী
 
-SAbb.: घृतम्  
+Abb.: घृतम्  
 \[Bildquelle: Wikipedia. GNU FDLicense\]
 
 > "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
@@ -390,7 +383,7 @@ A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in d
 
 B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein:
 
-ब्राह्मनो घृतमग्नौ ... (हु) ॥१॥
+ब्राह्मणो घृतमग्नौ ... (हु) ॥१॥
 
 बुद्धगता भयान्न ... (भी) ॥२॥
 
@@ -410,7 +403,7 @@ C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekeh
 
 योगयुक्तो मतिं दुःखमक्षनयन्त्यां प्रज्ञायां समाधत्ते ॥१॥
 
-यो भिक्षवे दानानि द्द्यात्सो ऽपि दानपुण्यमाददीत ॥२॥
+यो भिक्षवे दानानि दद्यात्सो ऽपि दानपुण्यमाददीत ॥२॥
 
 ब्राह्मणा भारं न बिभ्रतीति ब्राह्मणदासो भारं गृहमबिभः ॥३॥
 
@@ -419,7 +412,7 @@ Abb.: पुरुषा भारं न बिभ्रतीति स्त�
 Delhi = दहली / دہلی  
 \[Bildquelle: Ondrej Jaura. -- [http://www.flickr.com/photos/ondrejj/2073900069/](http://www.flickr.com/photos/ondrejj/2073900069/). -- Zugriff am 2008-12-27. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
 
-क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हीत्वा पनर्भवमैत् ॥४॥
+क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥
 
 देवदत्तमपि सुखं दुःखमोक्षेष्टिं न पिपर्ति । सेष्टिः प्रज्ञयैव सम्पूर्यते ॥५॥
 
