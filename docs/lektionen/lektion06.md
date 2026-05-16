@@ -120,8 +120,8 @@ Beispiel **yaj** = यज् = "mit einem Opfer verehren", "opfern":
 | :--- | :--- | :--- | :--- |
 | **bhū**[[br]]भू | **bho**[[br]]भो | **bhav**[[br]]भव् | **bhava-**[[br]]भव- |
 | **nī**[[br]]नी | **ne**[[br]]ने | **nay**[[br]]नय् | **naya-**[[br]]नय- |
-| **smṛ**[[br]]स्मृ | **smar**[[br]]स्मर् | **smar**[[br]]स्मर् | **smara-**[[br]]स्मर- |
-| **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaja-**[[br]]यज- |
+| **smṛ**[[br]]स्मृ | **smar**[[br]]स्मर् | | **smara-**[[br]]स्मर- |
+| **yaj**[[br]]यज् | | | **yaja-**[[br]]यज- |
 
 Steht der Vokal in einer langen geschlossenen Silbe (Kurzvokal vor zwei oder mehr Konsonanten), unterbleibt die Bildung der Hochstufe:
 - **nind**[[br]]निन्द् → **ninda-**[[br]]निन्द-
