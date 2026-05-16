@@ -9,7 +9,7 @@ Beispiel:
 
 anstatt:
 
-> रामो गुरुव्चनं श्रोतुं गतः ।
+> रामो गुरुवचनं श्रोतुं गतः ।
 
 kann man auch sagen:
 
@@ -38,7 +38,7 @@ Beispiel:
 > यज्ञायान्नम् = "Speise zum Zweck eines Opfers = Speise für ein Opfer"
 
 ![](/images/lekt2401.jpg)  
-Abb.: यज्ञायान्नम
+Abb.: यज्ञायान्नम्
 
 > "'Annakut' \[अन्नकूट = गोवर्धन पूजा\] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS \[બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા \= Bochasanwasi Akshar Purushottam Swaminarayan Sanstha\] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan \[સ્વામિનારાયણ\] on this day. All these dishes are made to offer devotion towards GOD. They are nicely decorated and placed on a decorated display set up."
 > 
@@ -51,7 +51,7 @@ Beispiel:
 > रामाय फलं ददाति = "Er gibt dem Rāma eine Frucht." (Wurzel दा 3. Präsensklasse)
 
 ![](/images/lekt2402.jpg)  
-Abb.: बाला बलाय रक्षबन्धनं ददाति
+Abb.: बाला बालाय रक्षबन्धनं ददाति
 
 > "Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters. The festival is marked by the tying of a rakhi, or holy thread by the sister on the wrist of her brother. The brother in return offers a gift to his sister and vows to look after her. The brother and sister traditionally feed each other sweets."
 > 
@@ -82,30 +82,40 @@ Die regelmäßigen Endungen des Dativ sind:
 
 ### 24.2.1. Konsonantische Stämme
 
-|   | Dativ Singular | Dativ Plural |
-| --- | --- | --- |
-| यजन्त् | यजते  
-yaja-t-e | यजद्भ्यस्  
-aus yaja-t-bhyas |
-| महान्त् | मह्ते | महद्भ्यस् |
-| पशुमन्त् | पशुमते | पशुमद्भ्यस् |
-| गुणवन्त् | गुणवते | गुणवद्भ्यस् |
+:::: grammar-box
+
+| | Dativ Singular[[br]]चतुर्थी एकवचन | Dativ Plural[[br]]चतुर्थी बहुवचन |
+| :--- | :--- | :--- |
+| **yajant**[[br]](यजन्त्) | **yajate**[[br]](यजते)[[br]](yaja-t-e) | **yajadbhyas**[[br]](यजद्भ्यस्)[[br]](aus yaja-t-bhyas) |
+| **mahānt**[[br]](महान्त्) | **mahate**[[br]](महते) | **mahadbhyas**[[br]](महद्भ्यस्) |
+| **paśumant**[[br]](पशुमन्त्) | **paśumate**[[br]](पशुमते) | **paśumadbhyas**[[br]](पशुमद्भ्यस्) |
+| **guṇavant**[[br]](गुणवन्त्) | **guṇavate**[[br]](गुणवते) | **guṇavadbhyas**[[br]](गुणवद्भ्यस्) |
+
+::::
 
 ### 24.2.2. Fragepronomen
 
-|   | Maskulinum / Neutrum | Femininum |
-| --- | --- | --- |
-| Dativ Singular | कस्मै | कस्यै |
-| Dativ Plural | केभ्यस् | काभ्यस् |
+:::: grammar-box
+
+| | Maskulinum / Neutrum[[br]]पुंस् / नपुंसक | Femininum[[br]]स्त्री |
+| :--- | :--- | :--- |
+| **Dativ Singular**[[br]]एकवचन | **kasmai**[[br]](कस्मै) | **kasyai**[[br]](कस्यै) |
+| **Dativ Plural**[[br]]बहुवचन | **kebhyas**[[br]](केभ्यस्) | **kābhyas**[[br]](काभ्यस्) |
+
+::::
 
 ### 24.2.3. Demonstrativpronomina
 
-|   |   | तद् | एतद् | इदम् |
-| --- | --- | --- | --- | --- |
-| Maskulinum / Neutrum | Dativ Singular | तस्मै | एतस्मै | अस्मै |
-|   | Dativ Plural | तेभ्यस् | एतेभ्यस् | एभ्यस् |
-| Femininum | Dativ Singular | तस्यै | एतस्यै | अस्यै |
-|   | Dativ Plural | ताभ्यस् | एताभ्यस् | आभ्यस् |
+:::: grammar-box
+
+| | | **tad**[[br]](तद्) | **etad**[[br]](एतद्) | **idam**[[br]](इदम्) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Maskulinum[[br]]/ Neutrum** | **Dat. sg.** | **tasmai**[[br]](तस्मै) | **etasmai**[[br]](एतस्मै) | **asmai**[[br]](अस्मै) |
+| | **Dat. pl.** | **tebhyas**[[br]](तेभ्यस्) | **etebhyas**[[br]](एतेभ्यस्) | **ebhyas**[[br]](एभ्यस्) |
+| **Femininum** | **Dat. sg.** | **tasyai**[[br]](तस्यै) | **etasyai**[[br]](एतस्यै) | **asyai**[[br]](अस्यै) |
+| | **Dat. pl.** | **tābhyas**[[br]](ताभ्यस्) | **etābhyas**[[br]](एताभ्यस्) | **ābhyas**[[br]](आभ्यस्) |
+
+::::
 
 ### 24.2.4. Vokalische Stämme
 
@@ -178,7 +188,7 @@ Abb.: देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ  
 \[Bildquelle: thaths. -- [http://www.flickr.com/photos/thaths/862012190/](http://www.flickr.com/photos/thaths/862012190/). -- Zugriff am 2008-12-14. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
 
-वृत् + प्र 1Ā प्रवअर्तते : erfolgen, geschehen, entstehen
+वृत् + प्र 1Ā प्रवर्तते : erfolgen, geschehen, entstehen
 
 Von वृत्:
 
@@ -236,7 +246,7 @@ davon
 > 
 > davon:
 > 
-> &gt; संख्य m.: Zählung, Aufzählung ; eines der sechs philosopphischen System (kurz: Basham, Wonder S. 326f.)
+> &gt; संख्या f.: Zählung, Aufzählung ; सांख्य n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.)
 
 ग्रहण n.: Ergreifen
 
@@ -313,7 +323,7 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 मोक्षार्थं बुद्धगता बुद्ध्याप्तिमिच्छन्ति ॥७॥
 
-देवास्तेभ्यो ऽकृतपुजाब्रामणेभ्यः क्रुध्यन्ति ॥८॥
+देवास्तेभ्यो ऽकृतपूजाब्राह्मणेभ्यः क्रुध्यन्ति ॥८॥
 
 मरणाय जना जायन्ते ॥९॥
 
@@ -355,7 +365,7 @@ Abb.: श्रीगणेशाय नमः
 
 ![](/images/lekt2410.jpg)  
 Abb.: नरो नरसिंहाय नमस्करोति  
-नरसिंह zerfleischt हिरण्यकशिपु, Blatt aus einem Manuskript des भगवतपुराण  
+नरसिंह zerfleischt हिरण्यकशिपु, Blatt aus einem Manuskript des भागवतपुराण  
 \[Bildquelle: Wikipedia, Public domain\]
 
 11\. Willkommen (स्वागतम्)  Ihnen. Willkommen der Königin.
