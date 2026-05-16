@@ -30,13 +30,13 @@ Auch mit Wörtern in der Bedeutung "Zeit" kann der Infinitiv verwendet werden in
 
 Der Infinitiv kann aktivisch und passivisch verwendet werden. Ein passiver Infinitiv im Deutschen wird im Sanskrit dadurch wiedergegeben, dass das Verb (besonders häufig शक् "fähig sein, können"), von dem der Infinitiv abhängt, ins Passiv gesetzt wird.
 
-Bezüglich des Objekts verhält sich der Infinitiv wie eine Verbalform, d.h. das direkte Objekt (कर्मन्) steht bei aktivisch gebrauchtem Infinitiv im Akkustaiv (द्वितीया), bzw. dem Kasus, den das betr. Verb verlangt ; bei passivisch gebrauchtem Infinitiv steht das direkte Objekt im Nominativ.
+Bezüglich des Objekts verhält sich der Infinitiv wie eine Verbalform, d.h. das direkte Objekt (कर्मन्) steht bei aktivisch gebrauchtem Infinitiv im Akkusativ (द्वितीया), bzw. dem Kasus, den das betr. Verb verlangt ; bei passivisch gebrauchtem Infinitiv steht das direkte Objekt im Nominativ.
 
 z.B.
 
-> साधुरधर्मं कर्तुं न शक्नोति = साधुनाधर्मो कर्तुं न शक्यते = "Ein Heiliger kann kein Unrecht tun."
+> साधुरधर्मं कर्तुं न शक्नोति = साधुनाधर्मः कर्तुं न शक्यते = "Ein Heiliger kann kein Unrecht tun."
 
-In der 2. Person wird अर्ह् + Infinitiv oft als milder Befehl verwendest: "Du solltest".
+In der 2. Person wird अर्ह् + Infinitiv oft als milder Befehl verwendet: "Du solltest".
 
 Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied काम oder मनस् ist:
 
@@ -269,14 +269,14 @@ C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal:
 
 D) Übersetzen Sie und lösen Sie die Komposita auf:
 
-नराः स्वर्गं लब्धुं देवान्यज्ञ्नैर्यष्टुमिच्छन्ति ॥१॥
+नराः स्वर्गं लब्धुं देवान्यज्ञैर्यष्टुमिच्छन्ति ॥१॥
 
 महापुण्यं कृत्वा गतपापजनेन नरकं गन्तुं न शक्यते ॥२॥
 
 फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥
 
 ![](/images/lekt2303.jpg)  
-Abb.: फल्वन्ति पुण्यानीति ...  
+Abb.: फलवन्ति पुण्यानीति ...  
 ทำบุญ = पुण्यकरणम्, Thailand = ประเทศไทย   
 \[Bildquelle: Y-Not ?. -- [http://www.flickr.com/photos/36716657@N00/519798246/](http://www.flickr.com/photos/36716657@N00/519798246/). -- Zugriff am 2008-12-13. --  [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine Bearbeitung)\]
 
@@ -299,7 +299,7 @@ C) Übersetzen Sie folgendes सुभाषितम्
 
 आहारनिद्राभयमैथुनं च  
 सामान्यमेतत्पशुभिर्नराणाम् ।  
-धर्मे हि तेषा्मधिको विशेषो  
+धर्मे हि तेषामधिको विशेषो  
 धर्मेण हीनाः पशुभिः समानाः ॥
 
 Erklärung: हीन ३: PPP zu हा 3: verlassen ; धर्मे = Lokativ sg. "im ..."
@@ -319,11 +319,11 @@ Bitte keine Hilfsmittel benutzen!
 
 A) Übersetzen Sie ins Sanskrit:
 
-1\. Die fünf (पञ्च) "Qualen" sind: Unwissenheit, der falsche Glaube ans Ich, Zuneigung, Abneigung und Anhänglichkeit an den leib.
+1\. Die fünf (पञ्च) "Qualen" sind: Unwissenheit, der falsche Glaube ans Ich, Zuneigung, Abneigung und Anhänglichkeit an den Leib.
 
 2\. Wissen gibt es für Gehorsam gegenüber einem Lehrer oder für viel Geld oder im Austausch gegen Wissen. Eine vierte Art von Wissenserwerb gibt es nicht.
 
-3\. Ein Niedriger spricht, handelt aber nicht ; ein Guter sprich nicht, sondern handelt nur.
+3\. Ein Niedriger spricht, handelt aber nicht ; ein Guter spricht nicht, sondern handelt nur.
 
 4\. Die Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Bedeutungslehre, Metrik (छन्दस्) und Kalenderlehre.
 
@@ -348,7 +348,7 @@ Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिं�
 
 12\. Arme haben viele Söhne, obwohl sie sie nicht wünschen. Reiche haben keinen Sohn. Seltsam ist die Regung des Schicksals.
 
-14\. Wen erschlägt nicht ein Frauenkörper (वपुस् n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten.
+13\. Wen erschlägt nicht ein Frauenkörper (वपुस् n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten.
 
 B) Deklinieren Sie in allen Ihnen bekannten Kasus क्षत्रिया f.
 
