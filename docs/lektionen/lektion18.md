@@ -17,7 +17,7 @@ Als adverbiales (nichtdeklinierbares) Vorderglied können
 *   Partikel
 *   andere Indeklinabilia
 
-> verwendet werden. Solche Tatpurua gehören meist zur Klasse der Nityasamāsa = नित्यसमास (m. "ständiges Kompisitum"), d.h. der Komposita, die man überhaupt nicht oder nicht nur mittels der im Kompositum selbst vorkommenden Wörter auflösen kann.
+> verwendet werden. Solche Tatpuruṣa gehören meist zur Klasse der Nityasamāsa = नित्यसमास (m. "ständiges Kompisitum"), d.h. der Komposita, die man überhaupt nicht oder nicht nur mittels der im Kompositum selbst vorkommenden Wörter auflösen kann.
 
 Beipiele:
 
@@ -41,7 +41,7 @@ Beispiele:
 > 
 > अकृत 3 = न कृत 3: nicht getan, ungetan
 > 
-> अब्रआह्मणी f. = न ब्राह्मणी : eine Nichtbrahmanin, Unbrahmanin
+> अब्राह्मणी f. = न ब्राह्मणी : eine Nichtbrahmanin, Unbrahmanin
 > 
 > अदेव m. = न देवः : ein Nichtgott, Ungott
 
@@ -95,7 +95,7 @@ Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
 
 1.  Ähnlichkeit (तत्सादृश्यम्):  
     अब्राह्मणः = ein Kṣatriya oder Vaiśya, der die heilige Schnur (यज्ञोपवीत n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein
-2.  Fehlen, Nichtvvorhandensein (तदभावः):  
+2.  Fehlen, Nichtvorhandensein (तदभावः):  
     अज्ञानम् = Unwissenheit (Fehlen von Wissen)
 3.  Andersheit (तदन्यत्वम्):  
     अपटम् = etwas, das kein Stoff / Gewand (पट m: Gewebe, Gewand) ist
@@ -111,7 +111,7 @@ Folgender Vers fasst diese Bedeutungen zusammen:
 > तत्सादृश्यमभावश्च  
 > तदन्यत्वं तदल्पता ।  
 > अप्राशास्त्यं निरोधश्च  
-> नजर्थाः षत्प्रकीर्तिताः ॥
+> नजर्थाः षट्प्रकीर्तिताः ॥
 > 
 > Man nennt sechs Bedeutungen von nañ (= a-/an-) ....
 
@@ -212,10 +212,10 @@ Von Wurzeln mit Präverben können mittels kṛt-Suffixen Nomina gebildet werden
 
 Beispiele:
 
-sam-kṛ + -a = संस्कार m.: Weihe, Zubereitung ; Übergangsrituale = Bezeichnung für die Zeremonien, die die verschiedenen Lebensabschnitte von der Empfängnis bis zum Tod begleiten (s. dazu die ausgezeichnete Zusammenfassung bei Basha, Wonder S. 160 - 170!)
+sam-kṛ + -a = संस्कार m.: Weihe, Zubereitung ; Übergangsrituale = Bezeichnung für die Zeremonien, die die verschiedenen Lebensabschnitte von der Empfängnis bis zum Tod begleiten (s. dazu die ausgezeichnete Zusammenfassung bei Basham, Wonder S. 160 - 170!)
 
 ![](/images/lekt1804.jpg)  
-Abb.: Hochzeit = विवाह् m., ein wichtiger संस्कारः  
+Abb.: Hochzeit = विवाह m., ein wichtiger संस्कारः  
 \[Bildquelle: Saad.Akhtar. -- [http://www.flickr.com/photos/saad/64770385/](http://www.flickr.com/photos/saad/64770385/). -- Zugriff am 2008-12-08. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]  
 
 upa-nī + -ana = उपनयन n.: das Heranführen (ans Opferfeuer) = Zeremonie, bei der den männlichen Angehörigen der drei oberen Stände die heilige Schnur (यज्ञोपवीत n.) angelegt wird sowie der hl. Vers सावित्री ins Ohr geflüstert wird, den sie von nun an täglich bei Sonnenauf- und Sonnenuntergang rezitieren. Für die Brahmanen ist das Ṛgveda III.62.10:
