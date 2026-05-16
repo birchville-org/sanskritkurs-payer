@@ -7,19 +7,15 @@
 
 Beispiele:
 
-> | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P | 3.sg.Perf.Ā | 3.pl.Perf.Ā |
-> | --- | --- | --- | --- | --- |
-> | जि 1P  
-> Perf. IIIa | जिगाय | जिग्युर्  
-> ji-gi + ur |   |   |
-> | चि 5U  
-> Perf. IIIa | चिकाय  
-> चिचाय | चिक्युर्  
-> चिच्युर् | चिक्ये  
-> चिच्ये | चिक्यिरे  
-> चिच्यिरे |
-> | हन् 2P  
-> Perf. Va | जघान | जघ्नुर् |   |   |
+:::: grammar-box
+
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **ji**[[br]](जि १प)[[br]]Perf. IIIa | **jigāya**[[br]](जिगाय) | **jigyuḥ**[[br]](जिग्युर्)[[br]](ji-gi + ur) | | |
+| **ci**[[br]](चि ५उ)[[br]]Perf. IIIa | **cikāya**[[br]](चिकाय)[[br]]**cicāya**[[br]](चिचाय) | **cikyuḥ**[[br]](चिक्युर्)[[br]]**cicyuḥ**[[br]](चिच्युर्) | **cikye**[[br]](चिक्ये)[[br]]**cicye**[[br]](चिच्ये) | **cikyire**[[br]](चिक्यिरे)[[br]]**cicyire**[[br]](चिच्यिरे) |
+| **han**[[br]](हन् २प)[[br]]Perf. Va | **jaghāna**[[br]](जघान) | **jaghnuḥ**[[br]](जघ्नुर्) | | |
+
+::::
 
 2\. Die Wurzel विद् 2P "wissen" hat ein Perfekt mit präsentischer Bedeutung.
 
@@ -27,23 +23,30 @@ Beispiele:
 > | --- | --- | --- |
 > | विद् 2P | वेद  
 > er/sie/es weiß | विदुर्  
-> sie wissen |
+:::: grammar-box
 
-3\. Die Wurzel अह् "sagen" hat nur Perfektformen: Perfekt I. Diese haben präsentische Bedeutung
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| **vid**[[br]](विद् २प) | **veda**[[br]](वेद)[[br]](er/sie/es weiß) | **viduḥ**[[br]](विदुर्)[[br]](sie wissen) |
+
+::::
+> | --- | --- | --- |
+:::: grammar-box
+
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| **ah**[[br]](अह्)[[br]]Perf. I | **āha**[[br]](आह)[[br]](er/sie/es sagt) | **āhuḥ**[[br]](आहुर्)[[br]](sie sagen) |
+
+::::
 
 > | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P |
-> | --- | --- | --- |
-> | अह्  
-> Perf. I | आह  
-> er/sie/es sagt | आहुर्  
-> sie sagen |
+:::: grammar-box
 
-4\. Die Wurzel भू 1P hat den Perfektastamm बभू, vor Vokalen बभूव्
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| **bhū**[[br]](भू १प) | **babhūva**[[br]](बभूव) | **babhūvuḥ**[[br]](बभूवुर्) |
 
-> | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P |
-> | --- | --- | --- |
-> | भू 1P | बभूव | बभूवुर् |
-
+::::
 ## 36.2. Das periphrastische Perfekt (अनुप्रयोगलिट्)
 
 Das periphrastische Perfekt (अनुप्रयोगलिट्) wird gebraucht:
@@ -56,35 +59,30 @@ Das periphrastische Perfekt (अनुप्रयोगलिट्) wird gebra
 
 Bildung:
 
-(schwacher) Präsensstamm + -ām + enstprechende Perfektform von कृ, अस् oder भू
+(schwacher) Präsensstamm + -ām + entsprechende Perfektform von कृ, अस् oder भू
 
 Auslautender Stammvokal wird vor -ām guṇiert.
 
 अस् und भू werden auch bei Ātmanepada-Verben im Parasmaipada konjugiert.
 
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomans auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+:::: grammar-box
 
-Beispiele:
+| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **īkṣ**[[br]](ईक्ष् १आ) | | | **īkṣāṃ cakre**[[br]](ईक्षां चकre)[[br]]**īkṣām āsa**[[br]](ईक्षामास)[[br]]**īkṣāṃ babhūva**[[br]](ईक्षां बभूव) | **īkṣāṃ cakrire**[[br]](ईक्षां चक्रिरे)[[br]]**īkṣām āsuḥ**[[br]](ईक्षामासुर्)[[br]]**īkṣāṃ babhūvuḥ**[[br]](ईक्षां बभूवुर्) |
+| **bandh**[[br]]Kausativ: **bandhaya-**[[br]]"binden lassen" | **bandhayāṃ cakāra**[[br]](बन्धयां चकार)[[br]]**bandhayām āsa**[[br]](बन्धयामास)[[br]]**bandhayāṃ babhūva**[[br]](बन्धयां बभूव) | **bandhayāṃ cakruḥ**[[br]](बन्धयां चक्रुर्)[[br]]**bandhayām āsuḥ**[[br]](बन्धयामासुर्)[[br]]**bandhayāṃ babhūvuḥ**[[br]](बन्धयां बभूवुर्) | | |
 
-> | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P | 3.sg.Perf.Ā | 3.pl.Perf.Ā |
-> | --- | --- | --- | --- | --- |
-> | ईक्ष् 1Ā |   |   | ईक्षां चक्रे  
-> ईक्षामास  
-> ईक्षां बभूव | ईक्षां चक्रिरे  
-> ईक्षामासुर्  
-> ईक्षां बभूवुर् |
-> | भन्ध् Kausativ: भन्धय-  
-> "binden lassen" | बन्धयां चकार  
-> बन्धयामास  
-> बन्धयां बभूव | बन्ध्यां चक्रुर्  
+::::
+> बन्धयां बभूव | बन्धयां चक्रुर्  
 > बन्धयामासुर्  
-> बन्धयां बभुवुर् |   |   |
+> बन्धयां बभूवुर् |   |   |
 
 ## 36.3. Perfekt Passiv
 
 Im Perfekt werden für das Passiv die Formen des Ātmanepada verwendet. Bevorzugt wird demgegenüber die Verwendung des PPP. Die Konstruktion ist in beiden Fällen die der Passivsätze:
 
-> तेन पूण्यं चक्रे =  तेन पुण्यं कृतम् = "Er tat ein verdienstvolles Werk"
+> तेन पुण्यं चक्रे =  तेन पुण्यं कृतम् = "Er tat ein verdienstvolles Werk"
 
 ## 36.4. Wortliste
 
@@ -215,7 +213,7 @@ Shekawati = शेखावाटी
 > Absol. -स्पृश्य
 
 ![](/images/lekt3606.jpg)  
-Abb.:स् सुगतो भूमीं पस्पर्श  
+Abb.:सुगतो भूमीं पस्पर्श  
 भूमीस्पर्शमुद्रा  
 \[Bildquelle: Payer\]
 
@@ -288,7 +286,9 @@ Gandhara, 1./2. Jhdt. n. Chr.
 
 > | Wurzel | Perfektklasse | Perfekt (लिट्) |
 > | --- | --- | --- |
-> | 
+:::: grammar-box
+
+| Wurzel | Perfektklasse | Perfekt (लिट्) |
 > अञ्ज् 7P
 > 
 >  | I | आनञ्ज |
@@ -334,7 +334,7 @@ Gandhara, 1./2. Jhdt. n. Chr.
 > | दुष् 4P | II | दुदोष, दुदुषुर् |
 > | दुह् 2U | II | दुदोह, दुदुहे |
 > | दृश् | II | ददर्श, ददृशुर् |
-> | द्विष् 2U | II | दिवेष, दिद्विषे |
+> | द्विष् 2U | II | दिद्वेष, दिद्विषे |
 > | धा 3U | IV | दधौ, दधे |
 > | धृ 1U | IIIa | दधार, दध्रे |
 > | नी 1U | IIIa | निनाय, निन्युर् |
@@ -352,7 +352,7 @@ Gandhara, 1./2. Jhdt. n. Chr.
 > | ब्रू 2U | \-- | \-- |
 > | भज् 1U | Vb (!) | बभाज, भेजे |
 > | भञ्ज् 7P | I | बभञ्ज, बभञ्जुर् |
-> | भिद् 7U | II | बिभेदे, बिभिदे |
+> | भिद् 7U | II | बिभेद, बिभिदे |
 > | भी 3P | IIIa  
 > Periphr. | बिभाय, बिभ्युर्  
 > बिभयां चकार |
@@ -405,7 +405,9 @@ Gandhara, 1./2. Jhdt. n. Chr.
 > | हु 3P | IIIa  
 > Periphr. | जुहाव, जुहुवुर्  
 > जुहवां चकार |
-> | हृ 1U | IIIa | जहार, जह्रे |
+| हृ 1U | IIIa | जहार, जह्रे |
+
+::::
 
 ## 36.7. Übersetzungsübung
 
@@ -462,7 +464,7 @@ Abb.: येन प्रीणात्युपाध्यायं
 > 
 > Erklärungen:
 > 
-> In diesem Vers ist ब्रू mit dem Genetiv konstruieren
+> In diesem Vers ist ब्रू mit dem Genetiv konstruiert
 > 
 > मेधावी : Nom. sg. mask. zu मेधाविन् ३ "verständig, klug"
 > 
@@ -505,7 +507,7 @@ Bestimmen und übersetzen Sie folgende Wortformen auf alle möglichen Weisen:
 31.  तायेत
 32.  तया
 33.  लेभिरे
-34.  ओषुः
+34.  ऊषुः
 35.  व्यानक्
 36.  युङ्क्ते
 37.  युक्ते
