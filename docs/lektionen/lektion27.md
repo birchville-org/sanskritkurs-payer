@@ -1,7 +1,7 @@
 
 # Lektion 27
 
-## 27.1. Gebrauch des Lokativ (सप्तमी f. = "siebte Kasusendung)
+## 27.1. Gebrauch des Lokativ (सप्तमी f. = "siebte Kasusendung")
 
 Der Lokativ (सप्तमी) steht auf die Fragen:
 
@@ -54,7 +54,7 @@ Abb.: अस्ति तस्य पुत्रे स्नेहः
 
 4\. Der Lokativ dient in den einheimischen Lexika und bei Kommentatoren zur Angabe der Bedeutung eines Worts:
 
-> भूउ  सत्तायाम् = "die Wurzel भू in der Bedeutung 'Seiendheit' (sat-tā)" (धातुपाठ १.१)
+> भू  सत्तायाम् = "die Wurzel भू in der Bedeutung 'Seiendheit' (sat-tā)" (धातुपाठ १.१)
 
 Weiteres zum Gebrauch des Lokativ später.
 
@@ -69,42 +69,25 @@ Beachten Sie die Lautveränderungen vor -su sowie die eventuelle Cerebralisation
 
 ### 27.2.1. Konsonatische Stämme
 
-|   | Lokativ Singular | Lokativ Plural |
-| --- | --- | --- |
-| यजन्त् | यजति (yaj-at-i) | यजत्सु |
-| महान्त् | महति | महत्सु |
-| पशुमन्त् | पशुमति | पशुमत्सु |
-| गुणवन्त् | गूनवति | गूनवत्सु |
+:::: grammar-box
 
-### 27.2.2. Frage, Demonstrativ- und Relativpronomina
+| | Lokativ Singular[[br]]सप्तमी एकवचन | Lokativ Plural[[br]]सप्तमी बहुवचन |
+| :--- | :--- | :--- |
+| **yajant**[[br]](यजन्त्) | **yajati**[[br]](यजति)[[br]](yaj-at-i) | **yajatsu**[[br]](यजत्सु) |
+| **mahānt**[[br]](महान्त्) | **mahati**[[br]](महति) | **mahatsu**[[br]](महत्su) |
+| **paśumant**[[br]](पशुमन्त्) | **paśumati**[[br]](पशुमति) | **paśumatsu**[[br]](पशुमत्सु) |
+| **guṇavant**[[br]](गुणवन्त्) | **guṇavati**[[br]](गुणवति) | **guṇavatsu**[[br]](गुणवत्सु) |
 
-|   | किम् | यद् | तद् | एतद् | इदम् |
-| --- | --- | --- | --- | --- | --- |
-| 
-Maskulinum / Neutrum
+:::: grammar-box
 
- |   |   |   |   |   |
-| 
+| | **kim**[[br]](किम्) | **yad**[[br]](यद्) | **tad**[[br]](तद्) | **etad**[[br]](एतद्) | **idam**[[br]](इदम्) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Maskulinum[[br]]/ Neutrum** | **Loc. sg.** | **kasmin**[[br]](कस्मिन्) | **yasmin**[[br]](यस्मिन्) | **tasmin**[[br]](तस्मिन्) | **etasmin**[[br]](एतस्मिन्) | **asmin**[[br]](अस्मिन्) |
+| | **Loc. pl.** | **keṣu**[[br]](केषु) | **yeṣu**[[br]](येषु) | **teṣu**[[br]](तेषु) | **eteṣu**[[br]](एतेषु) | **eṣu**[[br]](एषु) |
+| **Femininum** | **Loc. sg.** | **kasyām**[[br]](कस्याम्) | **yasyām**[[br]](यस्याम्) | **tasyām**[[br]](तस्याम्) | **etasyām**[[br]](एतस्याम्) | **asyām**[[br]](अस्याम्) |
+| | **Loc. pl.** | **kāsu**[[br]](कासु) | **yāsu**[[br]](यासु) | **tāsu**[[br]](तासु) | **etāsu**[[br]](एतासु) | **āsu**[[br]](आसु) |
 
-> Lokativ Singular
-
- | कस्मिन् | यस्मिन् | तस्मिन् | एतस्मिन् | अस्मिन् |
-| 
-
-> Lokativ Plural
-
- | केषु | येषु | तेषु | एतेषु | एषु |
-| 
-
-Femininum
-
- |   |   |   |   |   |
-| 
-
-> Lokativ Singular
-
- | कस्याम् | यस्याम् | तस्याम् | एत्तस्याम् | अस्याम् |
-| 
+::::
 
 > Lokativ Plural
 
@@ -115,39 +98,33 @@ Femininum
 |   | Lokativ Singular | Lokativ Plural |
 | --- | --- | --- |
 | देव m. | देवे (« deva + -i) | देवेषु |
-| कवि m. | कौवौ | कविषु |
+| कवि m. | कवौ | कविषु |
 | पशु m. | पशौ | पशुषु |
-| देदता f. | देव्तायाम् | देवतासु |
+| देवता f. | देवतायाम् | देवतासु |
 | देवी f. | देव्याम् | देवीषु |
-| श्रुति f. | श्र्तुतौ oder श्रुत्याम्  
+| श्रुति f. | श्रुतौ oder श्रुत्याम्  
 (d.h. entweder wie कवि oder wie देवी) | श्रुतिषु |
 | धेनु f. | धेनौ oder धेन्वाम् | धेनुषु |
 
 ## 27.3. Übersicht über die regulären Kasusendungen (विभक्ति) des Singular und Plural
 
-|   | Singular  
-एकवचनम् | Plural  
-द्विवचनम् |
-| --- | --- | --- |
-|   | Maskulinum / Femininum  
-पुंस् / स्त्री | Neutrum  
-नपुंसकम् | Maskulinum / Femininum  
-पुंस् / स्त्री | Neutrum  
-नपुंसकम् |
-| 1\. Nominativ  
-१. प्रथमा | \-s | \-Ø | \-as | \-i |
-| 2\. Akkusativ  
-२. द्वितीया | \-am | \-Ø | \-as | \-i |
-| 3\. Instrumentalis  
-३. तृतीया | \-ā | \-bhis |
-| 4\. Dativ  
-४. चतुर्थी | \-e | \-bhyas |
-| 5\. Ablativ  
-५. पञ्चमी | \-as | \-bhyas |
-| ६. 6. Genetiv  
-६. षष्ठी | \-as | \-ām |
-| 7\. Lokativ  
-७. सप्तमी | \-i | \-su |
+:::: grammar-box
+
+| | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
+| :--- | :--- | :--- |
+:::: grammar-box
+
+| | Lokativ Singular[[br]]सप्तमी एकvachan | Lokativ Plural[[br]]सप्तमी बहुvachan |
+| :--- | :--- | :--- |
+| **deva** (m.) | **deve**[[br]](देवे)[[br]](deva + -i) | **deveṣu**[[br]](देवेषु) |
+| **kavi** (m.) | **kavau**[[br]](कवौ) | **kaviṣu**[[br]](कविषu) |
+| **paśu** (m.) | **paśau**[[br]](पशौ) | **paśuṣu**[[br]](पशुषु) |
+| **devatā** (f.) | **devatāyām**[[br]](देवतायाम्) | **devatāsu**[[br]](देवतासु) |
+| **devī** (f.) | **devyām**[[br]](देव्याम्) | **devīṣu**[[br]](देवीषु) |
+| **śruti** (f.) | **śrutau**[[br]](श्रुतौ)[[br]]oder **śrutyām**[[br]](श्रुत्याम्) | **śrutiṣu**[[br]](श्रुतिषु) |
+| **dhenu** (f.) | **dhenau**[[br]](धेनौ)[[br]]oder **dhenvām**[[br]](धेन्वाम्) | **dhenuṣu**[[br]](धेनुषु) |
+
+::::
 
 Unterstrichen: starke Kasus (bei Stammabstufung)
 
@@ -165,7 +142,7 @@ Abb.: रामे चित्तलयः सदा भवतु मे भो
 Übersetzung:
 
 1.  प्रथमा : Rāma, das Juwel (मणि m.) unter den Königen (राजन् m.) siegt immer (सदा).
-2.  द्वितिया : Ich liebe (भज् 1U) den Rāma, den Gebieter und Gatten (ईश m.) der Ramā (= Lakṣmī).
+2.  द्वितीया : Ich liebe (भज् 1U) den Rāma, den Gebieter und Gatten (ईश m.) der Ramā (= Lakṣmī).
 3.  तृतीया : Rāma hat das Heer (चमू f.) der Nachtstreuner (= Dämonen) (निशा f. = Nacht) getötet.
 4.  चतुर्थी : Diesem Rāma sei Verehrung!
 5.  पञ्चमी : Es gibt keine bessere (परतर ३) Zuflucht (परायण n.) als Rāma.
@@ -280,24 +257,19 @@ Lernen Sie die Deklination der verschiedenen Klassen nach diesen Paradigmen AUSW
 
 ### 27.7.1. Maskulina auf -a: नर
 
-|   | Singular  
-एकवचनम् | Plural  
-बहुवचनम् |
-| --- | --- | --- |
-| 1\. Nominativ  
-१. प्रथमा | नरस् | नरास् |
-| 2\. Akkusativ  
-२. द्वितीया | नरम् | नरान् |
-| 3\. Instrumentalis  
-३. तृतीया | नरेण | नरैस् |
-| 4\. Dativ  
-४. चतुर्थी | नराय | नरेभ्यस् |
-| 5\. Ablativ  
-५. पञ्चमी | नरात् | नरेभ्यस् |
-| 6\. Genetiv  
-६. षष्ठी | नरस्य | नराणाम् |
-| 7\. Lokativ  
-७. सप्तमी | नरे | नरेषु |
+:::: grammar-box
+
+| | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
+| :--- | :--- | :--- |
+| **1. Nom.** | **naraḥ**[[br]](नरः) | **narāḥ**[[br]](नराः) |
+| **2. Acc.** | **naram**[[br]](नरम्) | **narān**[[br]](नरान्) |
+| **3. Instr.** | **nareṇa**[[br]](नरेण) | **naraiḥ**[[br]](नरैः) |
+| **4. Dat.** | **narāya**[[br]](नराय) | **narebhyaḥ**[[br]](नरेभ्यः) |
+| **5. Abl.** | **narāt**[[br]](नरात्) | **narebhyaḥ**[[br]](नरेभ्यः) |
+| **6. Gen.** | **narasya**[[br]](नरस्य) | **narāṇām**[[br]](नराणाम्) |
+| **7. Loc.** | **nare**[[br]](नरे) | **nareṣu**[[br]](नरेषु) |
+
+::::
 
 ![](/images/lekt2711.jpg)  
 Abb.: नराः  
@@ -306,24 +278,19 @@ Abb.: नराः
 
 ### 27.7.2. Neutra auf -a: फल
 
-|   | Singular  
-एकवचनम् | Plural  
-बहुवचनम् |
-| --- | --- | --- |
-| 1\. Nominativ  
-१. प्रथमा | फलम् | फलानि |
-| 2\. Akkusativ  
-२. द्वितीया | फलम् | फलानि |
-| 3\. Instrumentalis  
-३. तृतीया | फलेन | फलैस् |
-| 4\. Dativ  
-४. चतुर्थी | फलाय | फलेभ्यस् |
-| 5\. Ablativ  
-५. पञ्चमी | फलात् | फलेभ्यस् |
-| 6\. Genetiv  
-६. षष्ठी | फलस्य | फलानाम् |
-| 7\. Lokativ  
-७. सप्तमी | फले | फलेषु |
+:::: grammar-box
+
+| | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
+| :--- | :--- | :--- |
+| **1. Nom.** | **phalam**[[br]](फलम्) | **phalāni**[[br]](फलानि) |
+| **2. Acc.** | **phalam**[[br]](फलम्) | **phalāni**[[br]](फलानि) |
+| **3. Instr.** | **phalena**[[br]](फलेन) | **phalaiḥ**[[br]](फलैः) |
+| **4. Dat.** | **phalāya**[[br]](फलाय) | **phalebhyaḥ**[[br]](फलेभ्यः) |
+| **5. Abl.** | **phalāt**[[br]](फलात्) | **phalebhyaḥ**[[br]](फलेभ्यः) |
+| **6. Gen.** | **phalasya**[[br]](फलस्य) | **phalānām**[[br]](फलानाम्) |
+| **7. Loc.** | **phale**[[br]](फले) | **phaleṣu**[[br]](फलेषु) |
+
+::::
 
 ![](/images/lekt2710.jpg)  
 Abb.: फलानि  
@@ -338,46 +305,40 @@ Bangalore = ಬೆಂಗಳೂರು
 | --- | --- | --- |
 | 1\. Nominativ  
 १. प्रथमा | क्षत्रिया | क्षत्रियास् |
-| 
-### 27.2. Akkusativ  
-२. द्वितीया
+:::: grammar-box
 
- | क्षत्रियाम् | क्षत्रियास् |
-| 3\. Instrumentalis  
-३. तृतीया | क्षत्रियया | क्षत्रियाभिस् |
-| 4\. Dativ  
-४. चतुर्थी | क्षत्रियायै | क्षत्रियाभ्यस् |
-| 5\. Ablativ  
-५. पञ्चमी | क्षत्रियायास् | क्षत्रियाभ्यस् |
-| 6\. Genetiv  
-६. षष्ठी | क्षत्रियायास् | क्षत्रियाणाम् |
-| 7\. Lokativ  
-७. सप्तमी | क्षत्रियायाम् | क्षत्रियासु |
+| | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
+| :--- | :--- | :--- |
+| **1. Nom.** | **phalam**[[br]](फलम्) | **phalāni**[[br]](फलानि) |
+| **2. Acc.** | **phalam**[[br]](फलम्) | **phalāni**[[br]](फलानि) |
+| **3. Instr.** | **phalena**[[br]](फलेन) | **phalaiḥ**[[br]](फलैः) |
+| **4. Dat.** | **phalāya**[[br]](फलाय) | **phalebhyaḥ**[[br]](फलेभ्यः) |
+| **5. Abl.** | **phalāt**[[br]](फलात्) | **phalebhyaḥ**[[br]](फलेभ्यः) |
+| **6. Gen.** | **phalasya**[[br]](फलस्य) | **phalānām**[[br]](फलानाम्) |
+| **7. Loc.** | **phale**[[br]](फले) | **phaleṣu**[[br]](फलेषु) |
 
-![](/images/lekt2718.jpg)  
-Abb.: क्षत्रिया : Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore = ಮೈಸೂರು  
+::::
+| **7. Loc.** | **guṇavati**[[br]](गुणवति) | | **guṇavatsu**[[br]](गुणवत्सु) | |
+
+::::
+66 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore = ಮೈಸೂರು  
 \[Bildquelle: Wikipedia. Public domain\]
 
 ### 27.7.4. Maskulina auf -i: अरि
 
-|   | Singular  
-एकवचनम् | Plural  
-बहुवचनम् |
-| --- | --- | --- |
-| 1\. Nominativ  
-१. प्रथमा | अरिस् | अरयस् |
-| 2\. Akkusativ  
-२. द्वितीया | अरिम् | अरीन् |
-| 3\. Instrumentalis  
-३. तृतीया | अरिणा | अरिभिस् |
-| 4\. Dativ  
-४. चतुर्थी | अरये | अरिभ्यस् |
-| 5\. Ablativ  
-५. पञ्चमी | अरेस् | अरिभ्यस् |
-| 6\. Genetiv  
-६. षष्ठी | अरेस् | अरीणाम् |
-| 7\. Lokativ  
-७. सप्तमी | अरौ | अरिषु |
+:::: grammar-box
+
+| | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
+| :--- | :--- | :--- |
+| **1. Nom.** | **ariḥ**[[br]](अरिः) | **arayaḥ**[[br]](अरयः) |
+| **2. Acc.** | **arim**[[br]](अरिम्) | **arīn**[[br]](अरीन्) |
+| **3. Instr.** | **ariṇā**[[br]](अरिणा) | **aribhiḥ**[[br]](अरिभिः) |
+| **4. Dat.** | **araye**[[br]](अरये) | **aribhyaḥ**[[br]](अरिभ्यः) |
+| **5. Abl.** | **areḥ**[[br]](अरेः) | **aribhyaḥ**[[br]](अरिभ्यः) |
+| **6. Gen.** | **areḥ**[[br]](अरेः) | **arīṇām**[[br]](अरीणाम्) |
+| **7. Loc.** | **arau**[[br]](अरौ) | **ariṣu**[[br]](अरिषु) |
+
+::::
 
 ![](/images/lekt2712.jpg)  
 Abb.: अरयः  
@@ -387,49 +348,35 @@ Fotographie von Felice Beato (1833/1834 - ca. 1907)
 
 ### 27.7.5. Feminina auf -i: मति
 
-|   | Singular  
-एकवचनम् | Plural  
-बहुवचनम् |
-| --- | --- | --- |
-| 1\. Nominativ  
-१. प्रथमा | मतिस् | मतयस् |
-| 2\. Akkusativ  
-२. द्वितीया | मतिम् | मतीस् |
-| 3\. Instrumentalis  
-३. तृतीया | मत्या | मतिभिस् |
-| 4\. Dativ  
-४. चतुर्थी | मतये  
-मत्यै | मतिभ्यस् |
-| 5\. Ablativ  
-५. पञ्चमी | मतेस्  
-मत्यास् | मतिभ्यस् |
-| 6\. Genetiv  
-६. षष्ठी | मतेस्  
-मत्यास् | मतीनाम् |
-| 7\. Lokativ  
-७. सप्तमी | मतौ  
-मत्याम् | मतिषु |
+:::: grammar-box
+
+| | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
+| :--- | :--- | :--- |
+| **1. Nom.** | **matiḥ**[[br]](मतिः) | **matayaḥ**[[br]](मतयः) |
+| **2. Acc.** | **matim**[[br]](मतिम्) | **matīḥ**[[br]](मतीः) |
+| **3. Instr.** | **matyā**[[br]](मत्या) | **matibhiḥ**[[br]](मतिभिः) |
+| **4. Dat.** | **mataye**[[br]](मतये)[[br]]oder **matyai**[[br]](मत्यै) | **matibhyaḥ**[[br]](मतिभ्यः) |
+| **5. Abl.** | **mateḥ**[[br]](मतेः)[[br]]oder **matyāḥ**[[br]](मत्याः) | **matibhyaḥ**[[br]](मतिभ्यः) |
+| **6. Gen.** | **mateḥ**[[br]](मतेः)[[br]]oder **matyāḥ**[[br]](मत्याः) | **matīnām**[[br]](मतीणाम्) |
+| **7. Loc.** | **matau**[[br]](मतौ)[[br]]oder **matyām**[[br]](मत्याम्) | **matiṣu**[[br]](मतिषु) |
+
+::::
 
 ### 27.7.6. Maskulina auf -u: गुरु
 
-|   | Singular  
-एकवचनम् | Plural  
-बहुवचनम् |
-| --- | --- | --- |
-| 1\. Nominativ  
-१. प्रथमा | गुरुस् | गुरवस् |
-| 2\. Akkusativ  
-२. द्वितीया | गुरुम् | गुरून् |
-| 3\. Instrumentalis  
-३. तृतीया | गुरुणा | गुरुभिस् |
-| 4\. Dativ  
-४. चतुर्थी | गुरवे | गुरुभ्यस् |
-| 5\. Ablativ  
-५. पञ्चमी | गुरोस् | गुरुभ्यस् |
-| 6\. Genetiv  
-६. षष्ठी | गुरोस् | गुरूणाम् |
-| 7\. Lokativ  
-७. सप्तमी | गौरौ | गुरुषु |
+:::: grammar-box
+
+| | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
+| :--- | :--- | :--- |
+| **1. Nom.** | **guruḥ**[[br]](गुरुः) | **guravaḥ**[[br]](गुरवः) |
+| **2. Acc.** | **gurum**[[br]](गुरुम्) | **gurūn**[[br]](गुरून्) |
+| **3. Instr.** | **guruṇā**[[br]](गुरुणा) | **gurubhiḥ**[[br]](गुरुभिः) |
+| **4. Dat.** | **gurave**[[br]](गुरवे) | **gurubhyaḥ**[[br]](गुरुभ्यः) |
+| **5. Abl.** | **guroḥ**[[br]](गुरोः) | **gurubhyaḥ**[[br]](गुरुभ्यः) |
+| **6. Gen.** | **guroḥ**[[br]](गुरोः) | **gurūṇām**[[br]](गुरूणाम्) |
+| **7. Loc.** | **gurau**[[br]](गुरau) | **guruṣu**[[br]](गुरुषु) |
+
+::::
 
 ![](/images/lekt2713.jpg)  
 Abb.: महर्षि महेश योगी (1917 - 2008) गुरुः  
@@ -437,28 +384,19 @@ Abb.: महर्षि महेश योगी (1917 - 2008) गुरुः
 
 ### 27.7.7. Feminina auf -u: धेनु
 
-|   | Singular  
-एकवचनम् | Plural  
-बहुवचनम् |
-| --- | --- | --- |
-| 1\. Nominativ  
-१. प्रथमा | धेनुस् | धेनवस् |
-| 2\. Akkusativ  
-२. द्वितीया | धेनुम् | धेनूस् |
-| 3\. Instrumentalis  
-३. तृतीया | धेन्वा | धेनुभिस् |
-| 4\. Dativ  
-४. चतुर्थी | धेनवे  
-धेन्वै | धेनुभ्यस् |
-| 5\. Ablativ  
-५. पञ्चमी | धेनोस्  
-धेन्वास् | धेनुभ्यस् |
-| 6\. Genetiv  
-६. षष्ठी | धेनोस्  
-धेन्वास् | धेनूनाम् |
-| 7\. Lokativ  
-७. सप्तमी | धेनौ  
-धेन्वाम् | धेनुषु |
+:::: grammar-box
+
+| | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
+| :--- | :--- | :--- |
+| **1. Nom.** | **dhenuḥ**[[br]](धेनुः) | **dhenavaḥ**[[br]](धेनवः) |
+| **2. Acc.** | **dhenum**[[br]](धेनुम्) | **dhenūs**[[br]](धेनूस) |
+| **3. Instr.** | **dhenvā**[[br]](धेन्वा) | **dhenubhiḥ**[[br]](धेनुभिः) |
+| **4. Dat.** | **dhenave**[[br]](धेनवे)[[br]]oder **dhenvai**[[br]](धेन्वै) | **dhenubhyaḥ**[[br]](धेनुभ्यः) |
+| **5. Abl.** | **dhenoḥ**[[br]](धेनोः)[[br]]oder **dhenvāḥ**[[br]](धेन्वाः) | **dhenubhyaḥ**[[br]](धेनुभ्यः) |
+| **6. Gen.** | **dhenoḥ**[[br]](धेनोः)[[br]]oder **dhenvāḥ**[[br]](धेन्वाः) | **dhenūnām**[[br]](धेनूणाम्) |
+| **7. Loc.** | **dhenau**[[br]](धेनौ)[[br]]oder **dhenvām**[[br]](धेन्वाम्) | **dhenuṣu**[[br]](धेनुषु) |
+
+::::
 
 ![](/images/lekt2714.jpg)  
 Abb.: धेनुरुदयपुरे  
@@ -466,24 +404,19 @@ Abb.: धेनुरुदयपुरे
 
 ### 27.7.8. Mehrsilbige Feminina auf -ī: देवी
 
-|   | Singular  
-एकवचनम् | Plural  
-बहुवचनम् |
-| --- | --- | --- |
-| 1\. Nominativ  
-१. प्रथमा | देवी | देव्यस् |
-| 2\. Akkusativ  
-२. द्वितीया | देवीम् | देवीस् |
-| 3\. Instrumentalis  
-३. तृतीया | देव्या | देवीभिस् |
-| 4\. Dativ  
-४. चतुर्थी | देव्यै | देवीभ्यस् |
-| 5\. Ablativ  
-५. पञ्चमी | देव्यास् | देवीभ्यस् |
-| 6\. Genetiv  
-६. षष्ठी | देव्यास् | देवीनाम् |
-| 7\. Lokativ  
-७. सप्तमी | देव्याम् | देवीषु |
+:::: grammar-box
+
+| | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
+| :--- | :--- | :--- |
+| **1. Nom.** | **devī**[[br]](देवी) | **devyaḥ**[[br]](देव्यः) |
+| **2. Acc.** | **devīm**[[br]](देवीम्) | **devīs**[[br]](देवीस) |
+| **3. Instr.** | **devyā**[[br]](देव्या) | **devībhiḥ**[[br]](देवीभिः) |
+| **4. Dat.** | **devyai**[[br]](देव्यै) | **devībhyaḥ**[[br]](देवीभ्यः) |
+| **5. Abl.** | **devyāḥ**[[br]](देव्याः) | **devībhyaḥ**[[br]](देवीभ्यः) |
+| **6. Gen.** | **devyāḥ**[[br]](देव्याः) | **devīnām**[[br]](देवीणाम्) |
+| **7. Loc.** | **devyām**[[br]](देव्याम्) | **devīṣu**[[br]](देवीषु) |
+
+::::
 
 ![](/images/lekt2715.jpg)  
 Abb.: त्रिदेवी : लक्ष्मी पार्वती सरस्वती च  
@@ -491,29 +424,20 @@ Abb.: त्रिदेवी : लक्ष्मी पार्वती स
 
 ### 27.7.9. Partizip Präsens Parasmaipada auf -ant: सन्त्
 
-|   | Singular  
-एकवचनम् | Plural  
-बहुवचनम् |
-| --- | --- | --- |
-| Maskulinum  
-पुंस् | Neutrum  
-नपुंसकम् | Maskulinum  
-पुंस् | Neutrum  
-नपुंसकम् |
-| 1\. Nominativ  
-१. प्रथमा | सन् | सत् | सन्तस् | सन्ति |
-| 2\. Akkusativ  
-२. द्वितीया | सन्तम् | सत् | सतस् | सन्ति |
-| 3\. Instrumentalis  
-३. तृतीया | सता | सद्भिस् |
-| 4\. Dativ  
-४. चतुर्थी | सते | सद्भ्यस् |
-| 5\. Ablativ  
-५. पञ्चमी | सतस् | सद्भ्यस् |
-| 6\. Genetiv  
-६. षष्ठी | सतस् | सताम् |
-| 7\. Lokativ  
-७. सप्तमी | सति | सत्सु |
+:::: grammar-box
+
+| | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
+| :--- | :--- | :--- |
+| | **Maskulinum**[[br]]पुंस् | **Neutrum**[[br]]नपुंसकम् | **Maskulinum**[[br]]पुंस् | **Neutrum**[[br]]नपुंसकम् |
+| **1. Nom.** | **san**[[br]](सन्) | **sat**[[br]](सत्) | **santaḥ**[[br]](सन्तः) | **santi**[[br]](सन्ति) |
+| **2. Acc.** | **santam**[[br]](सन्तम्) | **sat**[[br]](सत्) | **sataḥ**[[br]](सतः) | **santi**[[br]](सन्ति) |
+| **3. Instr.** | **satā**[[br]](सता) | | **sadbhiḥ**[[br]](सद्भिः) | |
+| **4. Dat.** | **sate**[[br]](सते) | | **sadbhyaḥ**[[br]](सद्भ्यः) | |
+| **5. Abl.** | **sataḥ**[[br]](सतः) | | **sadbhyaḥ**[[br]](सद्भ्यः) | |
+| **6. Gen.** | **sataḥ**[[br]](सतः) | | **satām**[[br]](सताम्) | |
+| **7. Loc.** | **sati**[[br]](सति) | | **satsu**[[br]](सत्सु) | |
+
+::::
 
 ![](/images/lekt2716.jpg)  
 Abb.: सद्गुरुः Sai Baba of Shirdi (1835 - 1918)  
@@ -521,29 +445,20 @@ Abb.: सद्गुरुः Sai Baba of Shirdi (1835 - 1918)
 
 ### 27.7.10. महान्त्
 
-|   | Singular  
-एकवचनम् | Plural  
-बहुवचनम् |
-| --- | --- | --- |
-| Maskulinum  
-पुंस् | Neutrum  
-नपुंसकम् | Maskulinum  
-पुंस् | Neutrum  
-नपुंसकम् |
-| 1\. Nominativ  
-१. प्रथमा | महान् | महत् | महान्तस् | महान्ति |
-| 2\. Akkusativ  
-२. द्वितीया | महान्तम् | महत् | महतस् | महान्ति |
-| 3\. Instrumentalis  
-३. तृतीया | महता | महद्भिस् |
-| 4\. Dativ  
-४. चतुर्थी | महते | महद्भ्यस् |
-| 5\. Ablativ  
-५. पञ्चमी | महतस् | महद्भ्यस् |
-| 6\. Genetiv  
-६. षष्ठी | महतस् | महताम् |
-| 7\. Lokativ  
-७. सप्तमी | महति | महत्सु |
+:::: grammar-box
+
+| | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
+| :--- | :--- | :--- |
+| | **Maskulinum**[[br]]पुंस् | **Neutrum**[[br]]नपुंसकम् | **Maskulinum**[[br]]पुंस् | **Neutrum**[[br]]नपुंसकम् |
+| **1. Nom.** | **mahān**[[br]](महान्) | **mahat**[[br]](महत्) | **mahāntaḥ**[[br]](महान्तः) | **mahānti**[[br]](महान्ति) |
+| **2. Acc.** | **mahāntam**[[br]](महान्तम्) | **mahat**[[br]](महत्) | **mahataḥ**[[br]](महतः) | **mahānti**[[br]](महान्ति) |
+| **3. Instr.** | **mahatā**[[br]](महता) | | **mahadbhiḥ**[[br]](महद्भिः) | |
+| **4. Dat.** | **mahate**[[br]](महते) | | **mahadbhyaḥ**[[br]](महद्भ्यः) | |
+| **5. Abl.** | **mahataḥ**[[br]](महतः) | | **mahadbhyaḥ**[[br]](महद्भ्यः) | |
+| **6. Gen.** | **mahataḥ**[[br]](महतः) | | **mahatām**[[br]](महताम्) | |
+| **7. Loc.** | **mahati**[[br]](महति) | | **mahatsu**[[br]](महत्su) | |
+
+::::
 
 ### 27.7.11. Maskulina und Neutra auf -vant / -mant: गुणवन्त्
 
@@ -573,33 +488,20 @@ Abb.: सद्गुरुः Sai Baba of Shirdi (1835 - 1918)
 
 ### 27.7.12. Demonstrativpronomina: तद् । एतद् । इदम्
 
-|   | Singular  
-एकवचनम् | Plural  
-बहुवचनम् |
-| --- | --- | --- |
-| Maskulinum  
-पुंस् | Neutrum  
-नपुंसकम् | Femininum  
-स्त्री | Maskulinum  
-पुंस् | Neutrum  
-नपुंसकम् | Femininum  
-स्त्री |
-| सस्  
-स | तत् | सा | ते | तानि | तास् |
-| 1\. Nominativ  
-१. प्रथमा |
-| 2\. Akkusativ  
-२. द्वितीया | तम् | तत् | ताम् | तान् | तानि | तास् |
-| 3\. Instrumentalis  
-३. तृतीया | तेन | तया | तैस् | ताभिस् |
-| 4\. Dativ  
-४. चतुर्थी | तस्मै | तस्यै | तेभ्यस् | ताभ्यस् |
-| 5\. Ablativ  
-५. पञ्चमी | तस्मात् | तस्यास् | तेभ्यस् | ताभ्यस् |
-| 6\. Genetiv  
-६. षष्ठी | तस्य | तस्यास् | तेषाम् | तासाम् |
-| 7\. Lokativ  
-७. सप्तमी | तस्मिन् | तस्याम् | तेषु | तासु |
+:::: grammar-box
+
+| | | **Singular**[[br]]एकवचनम् | **Plural**[[br]]बहुवचनम् |
+| :--- | :--- | :--- | :--- |
+| | | **Masculine**[[br]]पुंस् | **Neuter**[[br]]नपुंसकम् | **Feminine**[[br]]स्त्री | **Masculine**[[br]]पुंस् | **Neuter**[[br]]नपुंसकम् | **Feminine**[[br]]स्त्री |
+| **1. Nom.** | | **saḥ**[[br]](सः) | **tat**[[br]](तत्) | **sā**[[br]](सा) | **te**[[br]](ते) | **tāni**[[br]](तानि) | **tāḥ**[[br]](ताः) |
+| **2. Acc.** | | **tam**[[br]](तम्) | **tat**[[br]](तत्) | **tām**[[br]](ताम्) | **tān**[[br]](तान्) | **tāni**[[br]](तानि) | **tāḥ**[[br]](ताः) |
+| **3. Instr.** | | **tena**[[br]](तेन) | | **tayā**[[br]](तया) | **taiḥ**[[br]](तैः) | | **tābhiḥ**[[br]](ताभिः) |
+| **4. Dat.** | | **tasmai**[[br]](तस्मै) | | **tasyai**[[br]](तस्यै) | **tebhyaḥ**[[br]](तेभ्यः) | | **tābhyaḥ**[[br]](ताभ्यः) |
+| **5. Abl.** | | **tasmāt**[[br]](तस्मात्) | | **tasyāḥ**[[br]](तस्याः) | **tebhyaḥ**[[br]](तेभ्यः) | | **tābhyaḥ**[[br]](ताभ्यः) |
+| **6. Gen.** | | **tasya**[[br]](तस्य) | | **tasyāḥ**[[br]](तस्याः) | **teṣām**[[br]](तेषाम्) | | **tāsām**[[br]](तासाम्) |
+| **7. Loc.** | | **tasmin**[[br]](तस्मिन्) | | **tasyām**[[br]](तस्याम्) | **teṣu**[[br]](तेषु) | | **tāsu**[[br]](तासु) |
+
+::::
 
 |   | Singular  
 एकवचनम् | Plural  
@@ -699,36 +601,17 @@ Abb.: सद्गुरुः Sai Baba of Shirdi (1835 - 1918)
 | 7\. Lokativ  
 ७. सप्तमी | यस्मिन् | यस्याम् | येषु | यासु |
 
-### 27.7.14. Fragepronomen: किम्
+:::: grammar-box
 
-|   | Singular  
-एकवचनम् | Plural  
-बहुवचनम् |
-| --- | --- | --- |
-| Maskulinum  
-पुंस् | Neutrum  
-नपुंसकम् | Femininum  
-स्त्री | Maskulinum  
-पुंस् | Neutrum  
-नपुंसकम् | Femininum  
-स्त्री |
-| कस् | किम् | का | के | कानि | कास् |
-| 1\. Nominativ  
-१. प्रथमा |
-| 2\. Akkusativ  
-२. द्वितीया | कम् | किम् | काम् | कान् | कानि | कास् |
-| 3\. Instrumentalis  
-३. तृतीया | केन | कया | कैस् | काभिस् |
-| 4\. Dativ  
-४. चतुर्थी | कस्मै | कस्यै | केभ्यस् | काभ्यस् |
-| 5\. Ablativ  
-५. पञ्चमी | कस्मात् | कस्यास् | केभ्यस् | काभ्यस् |
-| 6\. Genetiv  
-६. षष्ठी | कस्य | कस्यास् | केषाम् | कासाम् |
-| 7\. Lokativ  
-७. सप्तमी | कस्मिन् | कस्याम् | केषु | कासु |
+| | | **Singular**[[br]]एकवचनम् | **Plural**[[br]]बहुवचनम् |
+| :--- | :--- | :--- | :--- |
+| | | **Masculine**[[br]]पुंस् | **Neuter**[[br]]नपुंसकम् | **Feminine**[[br]]स्त्री | **Masculine**[[br]]पुंस् | **Neuter**[[br]]नपुंसकम् | **Feminine**[[br]]स्त्री |
+| **1. Nom.** | | **eṣaḥ**[[br]](एषः) | **etat**[[br]](एतत्) | **eṣā**[[br]](एषा) | **ete**[[br]](एते) | **etāni**[[br]](एतानि) | **etāḥ**[[br]](एताः) |
+| **2. Acc.** | | **etam**[[br]](एतम्)[[br]]**enam**[[br]](एनम्) | **etat**[[br]](एतत्)[[br]]**enat**[[br]](एनत्) | **etām**[[br]](एताम्)[[br]]**enām**[[br]](एनाम्) | **etān**[[br]](एतान्)[[br]]**enān**[[br]](एनान्) | **etāni**[[br]](एतानि) | **etāḥ**[[br]](एताः)[[br]]**enāḥ**[[br]](एनाः) |
+| **3. Instr.** | | **etena**[[br]](एतेन)[[br]]**enena**[[br]](एनेन) | | **etayā**[[br]](एतया)[[br]]**enayā**[[br]](एनया) | **etaiḥ**[[br]](एतैः) | | **etābhiḥ**[[br]](एताभिः) |
+| **4. Dat.** | | **etasmai**[[br]](एतस्मै) | | **etasyai**[[br]](एतस्यै) | **etebhyaḥ**[[br]](एतेभ्यः) | | **etābhyaḥ**[[br]](एताभ्यः) |
+| **5. Abl.** | | **etasmāt**[[br]](एतस्मात्) | | **etasyāḥ**[[br]](एतस्याः) | **etebhyaḥ**[[br]](एतेभ्यः) | | **etābhyaḥ**[[br]](एताभ्यः) |
+| **6. Gen.** | | **etasy**[[br]](एतस्य) | | **etasyāḥ**[[br]](एतस्याः) | **eteṣām**[[br]](तेषाम्) | | **etāsām**[[br]](तासाम्) |
+| **7. Loc.** | | **etasmin**[[br]](एतस्मिन्) | | **etasyām**[[br]](एतस्याम्) | **eteṣu**[[br]](एतेषु) | | **etāsu**[[br]](तासु) |
 
-![](/images/lekt2717.jpg)  
-Abb.: कस्मात् ?  
-Tsunami 2005, Sri Lanka  
-\[Bildquelle: Hjálparstarf. -- [http://www.flickr.com/photos/help/6248954/](http://www.flickr.com/photos/help/6248954/). -- Zugriff am 2008-12-19. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::::
