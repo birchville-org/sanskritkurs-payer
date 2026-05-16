@@ -18,7 +18,7 @@ Beispiel:
 ## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
 
   
-Dentale Versclusslaute werden nach Retroflexen (inklusive -ṣ-) durch die entsprechenden Retroflexe ersetzt:  
+Dentale Verschlusslaute werden nach Retroflexen (inklusive -ṣ-) durch die entsprechenden Retroflexe ersetzt:  
 
 *   iṣ + -ta  = इष्ट
 *   ti + sth +a + ti = तिष्ठति (ṣ wegen des vorangehenden i, ṭh wegen des dann vorausgehenden ṣ)  
@@ -35,7 +35,7 @@ Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Ve
 Beispiel:  
 \*dhu(gh) » du(g)h  
 Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.  
-Beispiele: siehen unten Futur von दुह् und  बुध्  
+Beispiele: siehe unten Futur von दुह् und  बुध्  
 
 ![](/images/lekt2601.jpg)  
 Abb.: Hermann Graßmann (1809 - 1877)  
@@ -83,25 +83,29 @@ Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv üb
 Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.  
 Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:
 
-> क्रृ :  करिष्यन्त्, करिष्यन्ती / करिष्यती
+> **kṛ**[[br]](कृ) :  **kariṣyant-**[[br]](करिष्यन्त्), **kariṣyantī**[[br]](करिष्यन्ती) / **kariṣyatī**[[br]](करिष्यती)
 
 Beispiele:
 
-> | Wurzel | Futur 3. sg. P (Ā) |
-> | --- | --- |
-> | नी | नेष्यति |
-> | भू | भविष्यति (भो +  इ + स्य + ति) |
-> | दिश् | देक्ष्यति (देश् + स्य + ति) |
-> | द्र्श् | द्रक्ष्यति |
-> | पच् | पक्ष्यति |
-> | प्रच्छ् | प्रक्ष्यति |
-> | यज् | यक्ष्यत् |
-> | सृज् | स्रक्ष्यति |
-> | पद् | पत्स्यति |
-> | अद् | अत्स्यति |
-> | दुह् | धोक्ष्यति (दोघ् +  स्य + ति) |
-> | बुध् | भोत्स्यते (बोध् vor Stimmlosem = भोत् |
-> | मन् | मंस्यते (मन् + स्य + ते) |
+:::: grammar-box
+
+| Wurzel | Futur 3. sg. P (Ā) |
+| :--- | :--- |
+| **nī**[[br]](नी) | **neṣyati**[[br]](नेष्यति) |
+| **bhū**[[br]](भू) | **bhaviṣyati**[[br]](भविष्यति)[[br]](bho + i + sya + ti) |
+| **diś**[[br]](दिश्) | **dekṣyati**[[br]](देक्ष्यति)[[br]](deś + sya + ti) |
+| **dṛś**[[br]](द्र्श्) | **drakṣyati**[[br]](द्रक्ष्यति) |
+| **pac**[[br]](पच्) | **pakṣyati**[[br]](पक्ष्यति) |
+| **praccha**[[br]](प्रच्छ्) | **prakṣyati**[[br]](प्रक्ष्यति) |
+| **yaj**[[br]](यज्) | **yakṣyati**[[br]](यक्ष्यति) |
+| **sṛj**[[br]](सृज्) | **srakṣyati**[[br]](स्रक्ष्यति) |
+| **pad**[[br]](पद्) | **patsyati**[[br]](पत्स्यति) |
+| **ad**[[br]](अद्) | **atsyati**[[br]](अत्स्यति) |
+| **duh**[[br]](दुह्) | **dhokṣyati**[[br]](धोक्ष्यति)[[br]](dogh + sya + ti) |
+| **budh**[[br]](बुध्) | **bhotsyate**[[br]](भोत्स्यते)[[br]](bodh vor Stimmlosem = bhot) |
+| **man**[[br]](मन्) | **maṃsyate**[[br]](मंस्यते)[[br]](man + sya + te) |
+
+::::
 
 ## 26.8. Übung
 
