@@ -75,10 +75,12 @@ Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstel
 > 
 > काम m.: Sinnenlust, insbes. auch auf sexuellem Gebiet
 
-![](/images/lekt1809.jpg)  
-Abb.: कामः  
-Illustration zum कामसूत्र  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt1809.jpg)
+Abb.: कामः
+(Bildquelle: [Details](/licenses#lekt1809))
+:::
+
 
 स्था 1 P तिष्ठति Pass. स्थीयते PPP. स्थित : stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie पा 1 पिबति)
 
@@ -98,15 +100,19 @@ von स्था :
 > 
 > गर्भगृह n.: der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
 > 
-> ![](/images/lekt1901.jpg)  
-> Abb.: गर्भगृहम्, Badami (ಬದಾಮಿ)  
-> \[Bildquelle: Sudarshan Bhat Khandige / Wikipedia, Public domain\]
+> ::: media
+![](/images/lekt1901.jpg)
+Abb.: गर्भगृहम्
+:::
+
 
 वारिद m.: Wassergeber = Regenwolke
 
-![](/images/lekt1902.jpg)  
-Abb.: वारिदः, Goa (गोंय)  
-\[Bildquelle: pichenettes. -- [http://www.flickr.com/photos/\_pichenettes\_/1257016116/](http://www.flickr.com/photos/_pichenettes_/1257016116/). -- Zugriff am 2008-12-08. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]    
+::: media
+![](/images/lekt1902.jpg)
+Abb.: वारिदः
+:::
+  
  
 
 वा 2 P वाति Pass. वायते PPP. वान / वात : wehen
@@ -119,18 +125,20 @@ davon:
 
 छत्त्र n.: Sonnenschirm, Schirm
 
-![](/images/lekt1904.jpg)  
+::: media
+![](/images/lekt1904.jpg)
 Abb.: छत्त्रम्
+:::
 
-> "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-> 
-> \[Bildquelle: Captain Nidish. -- [http://www.flickr.com/photos/captain\_nidish/280389572/](http://www.flickr.com/photos/captain_nidish/280389572/). -- Zugriff am 2008-12-08. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]  
 
 पण्डित m.: Gelehrter, Weiser ; 3: klug, bewandert (in)
 
-![](/images/lekt1903.jpg)  
-Abb.:  पण्डितः जवाहरलाल नेहरू, १९५९  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt1903.jpg)
+Abb.: पण्डितः जवाहरलाल नेहरू
+(Bildquelle: [Details](/licenses#lekt1903))
+:::
+
 
 सेव् 1 Ā सेवते Pass. सेव्यते PPP सेवित : wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
 
@@ -195,5 +203,20 @@ Erklärung: यथाकालम्  Avyayībhāvakompositum: zur rechten Zeit
 यस्यार्थास्तस्य बान्धवाः ।  
 यस्यार्थाः स पुमांल्लोके  
 यस्यार्थाः स हि पण्डितः ॥४॥
+
+### Quellen
+
+::: deleteme-box
+**lekt1809:** Illustration zum कामसूत्र [Bildquelle: Wikipedia, Public domain]
+
+**lekt1901:** Badami (ಬದಾಮಿ) [Bildquelle: Sudarshan Bhat Khandige / Wikipedia, Public domain]
+
+**lekt1902:** Goa (गोंय) [Bildquelle: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt1903:** १९५९ [Bildquelle: Wikipedia, Public domain]
+
+**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages." [Bildquelle: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung)]
+:::
+
 
 Erklärung: पुमान् Nom. sg. zu पुंस् "Mann" ; लोके Lokativ sg. zu लोक m.: in der ...

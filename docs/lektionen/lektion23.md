@@ -42,13 +42,13 @@ Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem K
 
 > वक्तुकामः = वक्तुं कामो यस्य सः = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht".
 
-## 23.2. Bildung des Infinitiv (तुमुन्)
+::: grammar-box
+**Bildung des Infinitiv (तुमुन्)**
 
-hochstufige Wurzel + -tum
+*   hochstufige Wurzel + **-tum**
+*   hochstufige Wurzel + **-i-** + **-tum**
+:::
 
-bzw.
-
-hochstufige Wurzel + -i- + -tum
 
 Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.
 
@@ -75,127 +75,71 @@ Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten:
 
 Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
-## 23.3. Der Infinitiv (तुमुन्) zu den bisher gelernten Wurzeln
+::: grammar-box
+**Der Infinitiv (तुमुन्) zu den bisher gelernten Wurzeln**
 
-अद् 2P अत्तुम्
+- **ad** (अद्) 2P → **attum** (अत्तुम्)
+- **aś** (अश्) 5Ā → **aśitum** (अशितुम्) / **aṣṭum** (अष्टुम्)
+- **as** (अस्) 2P → —
+- **as** (अस्) 4P → **asitum** (असितुम्)
+- **āp** (आप्) 5P → **āptum** (आप्तुम्)
+- **ās** (आस्) 2Ā → **āsitum** (आसितुम्)
+- **i** (इ) 2P → **etum** (एतुम्)
+- **iṣ** (इष्) 6P → **eṣṭum** (एष्टुम्) / **eṣitum** (एषितुम्)
+- **kup** (कुप्) 4P → **kopitum** (कोपितुम्)
+- **kṛ** (कृ) 8U → **kartum** (कर्तुम्)
+- **kṛṣ** (कृष्) 1P → **karṣṭum** (कर्ष्टुम्) / **krāṣṭum** (क्राष्टुम्)
+- **kṛṣ** (कृष्) 6U → **karṣṭum** (कर्ष्टुम्) / **krāṣṭum** (क्राष्टुम्)
+- **krudh** (क्रुध्) 4P → **koddhum** (कोद्धुम्)
+- **khād** (खाद्) 1P → **khāditum** (खादितुम्)
+- **gam** (गम्) 1P → **gantum** (गन्तुम्)
+- **jan** (जन्) 4Ā → **janitum** (जनितुम्)
+- **ji** (जि) 1P → **jetum** (जेतुम्)
+- **jīv** (जीव्) 1P → **jīvitum** (जीवितुम्)
+- **tan** (तन्) 8U → **tanitum** (तनितुम्)
+- **dah** (दह्) 1P → **dagdhum** (दग्धुम्)
+- **diś** (दिश्) 6U → **deṣṭum** (देष्टुम्)
+- **duṣ** (दुष्) 4P → —
+- **duh** (दुह्) 2U → **dogdhum** (दोग्धुम्)
+- **dṛś** (दृश्) → **draṣṭum** (द्रष्टुम्)
+- **dviṣ** (द्विष्) 2U → **dveṣṭum** (द्वेष्टुम्)
+- **nī** (नी) 1U → **netum** (नेतुम्)
+- **nṛt** (नृत्) 4P → **nartitum** (नर्तितुम्)
+- **pac** (पच्) 1U → **paktum** (पक्तुम्)
+- **pad** (पद्) 4Ā → **pattum** (पत्तुम्)
+- **pā** (पा) 1P → **pātum** (पातुम्)
+- **pā** (पा) 2P → **pātum** (पातुम्)
+- **prach** (प्रच्छ्) 6P → **praṣṭum** (प्रष्टुम्)
+- **budh** (बुध्) 1U, 4Ā → **bodhitum** (बोधितुम्) / **boddhum** (बोद्धुम्)
+- **brū** (ब्रू) 2U → —
+- **bhaj** (भज्) 1U → **bhaktum** (भक्तुम्)
+- **bhū** (भू) 1P → **bhavitum** (भवितुम्)
+- **man** (मन्) 4Ā → **mantum** (मन्तुम्)
+- **muc** (मुच्) 6U → **moktum** (मोक्तुम्)
+- **muh** (मुह्) 4P → **mohitum** (मोहितुम्) / **mogdhum** (मोग्धुम्) / **moḍhum** (मोढुम्)
+- **mṛ** (मृ) 4Ā → **martum** (मर्तुम्)
+- **yaj** (यज्) 1U → **yaṣṭum** (यष्टुम्)
+- **yudh** (युध्) 4Ā → **yoddhum** (योद्धुम्)
+- **rakṣ** (रक्ष्) 1P → **rakṣitum** (रक्षितुम्)
+- **rud** (रुद्) 2P → **roditum** (रोदितुम्)
+- **labh** (लभ्) 1Ā → **labdhum** (लब्धुम्)
+- **lubh** (लुभ्) 4P → **lobhitum** (लोभितुम्)
+- **vac** (वच्) 2P → **vaktum** (वक्तुम्)
+- **vad** (वद्) 1P → **vaditum** (वदितुम्)
+- **viś** (विश्) 6P → **veṣṭum** (वेष्टुम्)
+- **vṛt** (वृत्) 1Ā → **vartitum** (वर्तितुम्)
+- **śru** (श्रु) 5P → **śrotum** (श्रोतुम्)
+- **sad** (सद्) 1P → **sattum** (सत्तुम्)
+- **sah** (सह्) 1Ā → **sahitum** (सहितुम्) / **soḍhum** (सोढुम्)
+- **sic** (सिच्) 6U → **sektum** (सेक्तुम्)
+- **su** (सु) 5U → **sotum** (सोतुम्)
+- **sṛj** (सृज्) 6P → **sraṣṭum** (स्रष्टुम्)
+- **stu** (स्तु) 2U → **stotum** (स्तोतुम्)
+- **sthā** (स्था) 1P → **sthātum** (स्थातुम्)
+- **smṛ** (स्मृ) 1P → **smartum** (स्मर्तुम्)
+- **han** (हन्) 2P → **hantum** (हन्तुम्)
+:::
 
-अश् 5Ā अशितुम् । अष्टुम्
-
-अस् 2P --
-
-अस् 4P असितुम्
-
-आप् 5P आप्तुम्
-
-आस् 2Ā आसितुम्
-
-इ 2P एतुम्
-
-इष् 6P एष्टुम् । एषितुम्
-
-कुप् 4P कोपितुम्
-
-कृ 8U कर्तुम्
-
-कृष् 1P कर्ष्टुम् । क्राष्टुम्
-
-कृष् 6U कर्ष्टुम् । क्राष्टुम्
-
-क्रुध् 4P कोद्धुम्
-
-खाद् 1P खादितुम्
-
-गम् 1P गन्तुम्
-
-जन् 4Ā जनितुम्
-
-जि 1P जेतुम्
-
-जीव् 1P जीवितुम्
-
-तन् 8U तनितुम्
-
-दह् 1P दग्धुम्
-
-दिश् 6U देष्टुम्
-
-दुष् 4P --
-
-दुह् 2U दोग्धुम्
-
-दृश् द्रष्टुम्
-
-द्विष् 2U द्वेष्टुम्
-
-नी 1U नेतुम्
-
-नृत् 4P नर्तितुम्
-
-पच् 1U पक्तुम्
-
-पद् 4Ā पत्तुम्
-
-पा 1P पातुम्
-
-पा 2P पातुम्
-
-प्रच्छ् 6P प्रष्टुम्
-
-बुध् 1U, 4Ā बोधितुम् । बोद्धुम्
-
-ब्रू 2U --
-
-भज् 1U भक्तुम्
-
-भू 1P भवितुम्
-
-मन् 4Ā मन्तुम्
-
-मुच् 6U मोक्तुम्
-
-मुह् 4P मोहितुम् । मोग्धुम् । मोढुम्
-
-मृ 4Ā मर्तुम्
-
-यज् 1U यष्टुम्
-
-युध् 4Ā योद्धुम्
-
-रक्ष् 1P रक्षितुम्
-
-रुद् 2P रोदितुम्
-
-लभ् 1Ā लब्धुम्
-
-लुभ् 4P लोभितुम्
-
-वच् 2P वक्तुम्
-
-वद् 1P वदितुम्
-
-विश् 6P वेष्टुम्
-
-वृत् 1Ā वर्तितुम्
-
-श्रु 5P श्रोतुम्
-
-सद् 1P सत्तुम्
-
-सह् 1Ā सहितुम् सोढुम्
-
-सिच् 6U सेक्तुम्
-
-सु 5U सोतुम्
-
-सृज् 6P स्रष्टुम्
-
-स्तु 2U स्तोतुम्
-
-स्था 1P स्थातुम्
-
-स्मृ 1P स्मर्तुम्
-
-हन् 2P हन्तुम्
 
 ## 23.4. Wortliste
 
@@ -275,17 +219,21 @@ D) Übersetzen Sie und lösen Sie die Komposita auf:
 
 फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥
 
-![](/images/lekt2303.jpg)  
-Abb.: फलवन्ति पुण्यानीति ...  
-ทำบุญ = पुण्यकरणम्, Thailand = ประเทศไทย   
-\[Bildquelle: Y-Not ?. -- [http://www.flickr.com/photos/36716657@N00/519798246/](http://www.flickr.com/photos/36716657@N00/519798246/). -- Zugriff am 2008-12-13. --  [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine Bearbeitung)\]
+::: media
+![](/images/lekt2303.jpg)
+Abb.: फलवन्ति पुण्यानीति
+(Bildquelle: [Details](/licenses#lekt2303))
+:::
+
 
 सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
 
-![](/images/lekt2301.jpg)  
-Abb.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति  
-Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย   
-\[Bildquelle: Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt2301.jpg)
+Abb.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
+(Bildquelle: [Details](/licenses#lekt2301))
+:::
+
 
 शूद्रजनो ब्राह्मणेन सहात्तुं नार्हति ॥५॥
 
@@ -304,14 +252,12 @@ C) Übersetzen Sie folgendes सुभाषितम्
 
 Erklärung: हीन ३: PPP zu हा 3: verlassen ; धर्मे = Lokativ sg. "im ..."
 
-![](/images/lekt2302.jpg)  
-Abb.:  
-आहारनिद्राभयमैथुनं च  
-सामान्यमेतत्पशुभिर्नराणाम् ।
+::: media
+![](/images/lekt2302.jpg)
+Abb.: आहारनिद्राभयमैथुनं च
+(Bildquelle: [Details](/licenses#lekt2302))
+:::
 
-Chittorgarh = चित्तौडगढ
-
-\[Bildquelle: von zz77. -- [http://www.flickr.com/photos/zz77/2256200876/](http://www.flickr.com/photos/zz77/2256200876/). -- Zugriff am 2008-12-13. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
 
 ## 23.6. Wiederholungsübung
 
@@ -333,10 +279,13 @@ A) Übersetzen Sie ins Sanskrit:
 
 7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik.
 
-![](/images/lekt2304.jpg)  
-Abb.: दण्डनीतिः  
-Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Prime Minister of India = भारत के प्रधानमन्त्री, seit 2004  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt2304.jpg)
+Abb.: दण्डनीतिः
+(Bildquelle: [Details](/licenses#lekt2304))
+:::
+
+
 
 8\. Gattin, Sohn und Sklave, diese drei (त्रयस्) sind gemäß der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
 
@@ -360,4 +309,17 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 
 ३. वच्
 
-४. हन्
+४. हन् ॥
+
+### Quellen
+
+::: deleteme-box
+**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Bildquelle: Wikipedia. GNU FDLicense]
+
+**lekt2302:** Chittorgarh = चित्तौडगढ [Bildquelle: von zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Zugriff am 2008-12-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2303:** ทำบุญ = पुण्यकरणम्, Thailand = ประเทศไทย [Bildquelle: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Zugriff am 2008-12-13. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
+
+**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Prime Minister of India = भारत के प्रधानमन्त्री, seit 2004 [Bildquelle: Wikipedia, Public domain]
+:::
+

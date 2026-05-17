@@ -25,8 +25,13 @@ Beispiele:
 
 ## 22.2. Bildung des Absolutivums
 
-*   Verben ohne Präverb: Absolutiv auf -tvā
-*   Verben mit Präverb: Absolutiv auf -ya bzw. -tya
+::: grammar-box
+**Bildung des Absolutivums**
+
+*   Verben ohne Präverb: Absolutiv auf **-tvā**
+*   Verben mit Präverb: Absolutiv auf **-ya** bzw. **-tya**
+:::
+
 
 ### 22.2.1. Verben ohne Präverb: Absolutiv auf -त्वा
 
@@ -104,9 +109,12 @@ Beispiel:
 
 > कामम् Akk. adverbiell: nach Wunsch, nach Herzenslust
 
-![](/images/lekt2202.jpg)  
-Abb.: कामदेवः , 19. Jhdt  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt2202.jpg)
+Abb.: कामदेवः
+(Bildquelle: [Details](/licenses#lekt2202))
+:::
+
 
 शक् 5 P शक्नोति Pass. शक्यते PPP शक्त Inf. शक्तुम् : fähig sein, können
 
@@ -116,10 +124,12 @@ davon:
 > 
 > शक्र m.: der Mächtige (Beiname von इन्द्र)
 
-![](/images/lekt2203.jpg)  
-Abb.: दुर्गाशक्तिः = दुर्गैव शक्तिः  
-Kolkatta = কলকাতা   
-\[Bildquelle: The Eternity. -- [http://www.flickr.com/photos/the\_world\_in\_my\_eyes/2914301330/](http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/). -- Zugriff am 2008-12-12. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt2203.jpg)
+Abb.: दुर्गाशक्तिः
+(Bildquelle: [Details](/licenses#lekt2203))
+:::
+
 
 अर्ह 1 P अर्हति Pass. अर्ह्यते PPP अर्हित Inf. अर्हितुम् : etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird अर्ह् + Infinitiv oft als milder Befehl verwendet: "Du solltest")
 
@@ -139,10 +149,12 @@ davon:
 > 
 > ब्रह्मचर्य n.: Vollzug des Veda (ब्रह्मन्) = Studium des Veda im ersten Lebensstadium (dem des ब्रह्मचारिन्), welches strenge sexuelle Enthaltsamkeit erfordert ; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
 
-![](/images/lekt2201.jpg)  
-Abb.: धेनवश्चरन्ति  
-Goa = गोंय  
-\[Bildquelle: Veebl. -- [http://www.flickr.com/photos/veebl/2322214162/](http://www.flickr.com/photos/veebl/2322214162/). -- Zugriff am 2008-12-12. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt2201.jpg)
+Abb.: धेनवश्चरन्ति
+(Bildquelle: [Details](/licenses#lekt2201))
+:::
+
 
 ## 22.4. Übung
 
@@ -209,6 +221,21 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 C) Machen Sie aus obigen Sätzen (außer Sätze 8 und 10) Passivkonstruktionen
 
-![](/images/lekt2204.jpg)  
-Abb.: अन्नं पक्त्वा ...  
-\[Bildquelle: Curt Carnemark / World Bank. -- [http://www.flickr.com/photos/worldbank/2183558378/](http://www.flickr.com/photos/worldbank/2183558378/). -- Zugriff am 2008-12-12. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt2204.jpg)
+Abb.: अन्नं पक्त्वा
+(Bildquelle: [Details](/licenses#lekt2204))
+:::
+
+### Quellen
+
+::: deleteme-box
+**lekt2201:** Goa = गोंय [Bildquelle: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2202:** 19. Jhdt [Bildquelle: Wikipedia, Public domain]
+
+**lekt2203:** Kolkatta = কলকাতা [Bildquelle: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2204:** [Bildquelle: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+:::
+

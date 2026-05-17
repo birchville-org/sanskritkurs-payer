@@ -127,7 +127,7 @@ Er steht:
 
 ## 10.3. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
 
-**Ein -n-, auf das ein Vokal oder n, m, y, v folgt, wird durch -ṇ- ersetzt, wenn ṛ, ṝ, r, ṣ im Wort dem -n- vorausgehen oder kein anderer Laut als Vokale, Gutturale, Labiale, y, v, h oder Anusvāra zwischen diesen Lauten und dem folgenden -n- im Wort steht.**
+Ein -n-, auf das ein Vokal oder n, m, y, v folgt, wird durch -ṇ- ersetzt, wenn ṛ, ṝ, r, ṣ im Wort dem -n- vorausgehen oder kein anderer Laut als Vokale, Gutturale, Labiale, y, v, h oder Anusvāra zwischen diesen Lauten und dem folgenden -n- im Wort steht.
 
 ::: grammar-box
 **Beispiele für den Instrumentalis Singular:**
@@ -212,18 +212,20 @@ Bei Verben der 4. Präsensklasse haben das Ātmanepada und das Passiv identische
 
 ::: media
 ![](/images/lekt1003.jpg)
-Abb.: Gott Varuṇa = वरुण, 17. Jahrhundert.
-(Bildquelle: Wikipedia, Public Domain)
+Abb.: वरुणः
+(Bildquelle: [Details](/licenses#lekt1003))
 :::
+
 
 - **anṛta** n. अनृत : Unwahrheit, Lüge (an- + ṛta)
 - **ṛṣi** m. ऋषि : vedischer Weiser
 
 ::: media
 ![](/images/lekt1002.jpg)
-Abb.: Ein Ṛṣi: Viśvāmitra (विश्वामित्र) / von Rāja Ravi Varmā (राज रवि वर्मा).
-(Bildquelle: Wikipedia, Public Domain)
+Abb.: विश्वामित्रः
+(Bildquelle: [Details](/licenses#lekt1002))
 :::
+
 
 - **vad** 1 P (vadati) वद् वदति : sagen, sprechen
 - **prach** 6 P (pṛcchati !) प्रच्छ् पृच्छति : fragen
@@ -265,9 +267,10 @@ Abb.: Ein Ṛṣi: Viśvāmitra (विश्वामित्र) / von Rāja 
 
 ::: media
 ![](/images/lekt1004.jpg)
-Abb.: Weberin, Bangladesh: die Webkette.
-(Bildquelle: USAID / Wikipedia, Public Domain)
+Abb.: तन्तुवायः
+(Bildquelle: [Details](/licenses#lekt1004))
 :::
+
 
 5. Lehrer fragen. (Passivkonstruktion)
 6. Das Auge führt. (Passivkonstruktion)

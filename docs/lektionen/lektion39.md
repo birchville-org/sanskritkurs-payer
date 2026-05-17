@@ -32,9 +32,9 @@ Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!
 | bhū[[br]](भू १प) | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् |
 | :--- | :--- | :--- |
 | | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
-| **Indikativ Präsens (लट्)** | **bhavāmi**[[br]](भवामि) | **bhavāmaḥ**[[br]](भवामस्) | **<bhave>**[[br]](<भवे>)[[br]](bhava + i > bhave) | **<bhavāmahe>**[[br]](<भवामहे>) |
-| **Imperfekt (लङ्)** | **abhavam**[[br]](अभवम्) | **abhavāma**[[br]](अभवाम) | **<abhave>**[[br]](<अभवे>) | **<abhavāmahi>**[[br]](<अभवामहि>) |
-| **Optativ (विधिलिङ्)** | **bhaveyam**[[br]](भवेयम्)[[br]](bhava + iy-am) | **bhavema**[[br]](भवेम)[[br]](bhava + i-ma) | **<bhaveya>**[[br]](<भवेय>)[[br]](bhava + iy-a) | **<bhavemahi>**[[br]](<भवेमहि>)[[br]](bhava + i-mahi) |
+| **Indikativ Präsens (लट्)** | **bhavāmi**[[br]](भवामि) | **bhavāmaḥ**[[br]](भवामस्) | **&lt;bhave&gt;**[[br]](&lt;भवे&gt;)[[br]](bhava + i > bhave) | **&lt;bhavāmahe&gt;**[[br]](&lt;भवामहे&gt;) |
+| **Imperfekt (लङ्)** | **abhavam**[[br]](अभवम्) | **abhavāma**[[br]](अभवाम) | **&lt;abhave&gt;**[[br]](&lt;अभवे&gt;) | **&lt;abhavāmahi&gt;**[[br]](&lt;अभवामहि&gt;) |
+| **Optativ (विधिलिङ्)** | **bhaveyam**[[br]](भवेयम्)[[br]](bhava + iy-am) | **bhavema**[[br]](भवेम)[[br]](bhava + i-ma) | **&lt;bhaveya&gt;**[[br]](&lt;भवेय&gt;)[[br]](bhava + iy-a) | **&lt;bhavemahi&gt;**[[br]](&lt;भवेमहि&gt;)[[br]](bhava + i-mahi) |
 
 ::::
 bhava + iy-a | &lt;भवेमहि&gt;  
@@ -49,9 +49,9 @@ bhava + i-mahi |
 | viś[[br]](विश् १प) | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् |
 | :--- | :--- | :--- |
 | | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
-| **Indikativ Präsens (लट्)** | **viśāmi**[[br]](विशामि) | **viśāmaḥ**[[br]](विशामस्) | **<viśe>**[[br]](<विशे>) | **<viśāmahe>**[[br]](<विशामहे>) |
-| **Imperfekt (लङ्)** | **aviśam**[[br]](अविशम्) | **aviśāma**[[br]](विशाम) | **<aviśe>**[[br]](<अविशे>) | **<aviśāmahi>**[[br]](<अविशामहि>) |
-| **Optativ (विधिलिङ्)** | **viśeyam**[[br]](विशेयम्) | **viśema**[[br]](विशेम) | **<viśeya>**[[br]](<विशेय>) | **<viśemahi>**[[br]](<विशेमहि>) |
+| **Indikativ Präsens (लट्)** | **viśāmi**[[br]](विशामि) | **viśāmaḥ**[[br]](विशामस्) | **&lt;viśe&gt;**[[br]](&lt;विशे&gt;) | **&lt;viśāmahe&gt;**[[br]](&lt;विशामहे&gt;) |
+| **Imperfekt (लङ्)** | **aviśam**[[br]](अविशम्) | **aviśāma**[[br]](विशाम) | **&lt;aviśe&gt;**[[br]](&lt;अविशे&gt;) | **&lt;aviśāmahi&gt;**[[br]](&lt;अविशामहि&gt;) |
+| **Optativ (विधिलिङ्)** | **viśeyam**[[br]](विशेयम्) | **viśema**[[br]](विशेम) | **&lt;viśeya&gt;**[[br]](&lt;विशेय&gt;) | **&lt;viśemahi&gt;**[[br]](&lt;विशेमहि&gt;) |
 
 ::::
 ### 39.2.3. Vierte Präsensklasse (दिवादि)
@@ -60,9 +60,9 @@ bhava + i-mahi |
 | nṛt[[br]](नृत् १प) | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् |
 | :--- | :--- | :--- |
 | | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
-| **Indikativ Präsens (लट्)** | **nṛtyāmi**[[br]](नृत्यामि) | **nṛtyāmaḥ**[[br]](नृत्यामस्) | **<nṛtye>**[[br]](<नृत्ये>) | **<nṛtyāmahe>**[[br]](<नृत्यामहे>) |
-| **Imperfekt (लङ्)** | **anṛtyam**[[br]](अनृत्यम्) | **anṛtyāma**[[br]](अनृत्याम) | **<anṛtye>**[[br]](<अनृत्ये>) | **<anṛtyāmahi>**[[br]](<अनृत्यामहि>) |
-| **Optativ (विधिलिङ्)** | **nṛtyeyam**[[br]](नृत्येयम्) | **nṛtyema**[[br]](नृत्येम) | **<nṛtyeya>**[[br]](<नृत्येय>) | **<nṛtyemahi>**[[br]](<नृत्येमहि>) |
+| **Indikativ Präsens (लट्)** | **nṛtyāmi**[[br]](नृत्यामि) | **nṛtyāmaḥ**[[br]](नृत्यामस्) | **&lt;nṛtye&gt;**[[br]](&lt;नृत्ये&gt;) | **&lt;nṛtyāmahe&gt;**[[br]](&lt;नृत्यामहे&gt;) |
+| **Imperfekt (लङ्)** | **anṛtyam**[[br]](अनृत्यम्) | **anṛtyāma**[[br]](अनृत्याम) | **&lt;anṛtye&gt;**[[br]](&lt;अनृत्ये&gt;) | **&lt;anṛtyāmahi&gt;**[[br]](&lt;अनृत्यामहि&gt;) |
+| **Optativ (विधिलिङ्)** | **nṛtyeyam**[[br]](नृत्येयम्) | **nṛtyema**[[br]](नृत्येम) | **&lt;nṛtyeya&gt;**[[br]](&lt;नृत्येय&gt;) | **&lt;nṛtyemahi&gt;**[[br]](&lt;नृत्येमहि&gt;) |
 
 ::::
 | Imperfekt (लङ्) | अनृत्यम् | अनृत्याम | &lt;अनृत्ये&gt; | &lt;अनृत्यामहि&gt; |
@@ -112,7 +112,7 @@ a + īkṣ-ya + i | ऐक्ष्यामहि |
 | bhū[[br]](भू १प) | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् |
 | :--- | :--- | :--- |
 | | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
-| **Futur (ऌत्)** | **bhaviṣyāmi**[[br]](भविष्यामि)[[br]](bho + i + syā + mi) | **bhaviṣyāmaḥ**[[br]](भविष्यामस्) | **<bhaviṣye>**[[br]](<भविष्ये>) | **<bhaviṣyāmahe>**[[br]](<भविष्यामहे>) |
+| **Futur (ऌत्)** | **bhaviṣyāmi**[[br]](भविष्यामि)[[br]](bho + i + syā + mi) | **bhaviṣyāmaḥ**[[br]](भविष्यामस्) | **&lt;bhaviṣye&gt;**[[br]](&lt;भविष्ये&gt;) | **&lt;bhaviṣyāmahe&gt;**[[br]](&lt;भविष्यामहे&gt;) |
 
 ::::
 
@@ -164,9 +164,9 @@ s-mas |
 | hu[[br]](हु ३प) | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् |
 | :--- | :--- | :--- |
 | | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
-| **Indikativ Präsens (लट्)** | **juhomi**[[br]](जुहोमि) | **juhumaḥ**[[br]](जुहुमस्) | **<juhve>**[[br]](<जुह्वे>)[[br]](ju-hu + e) | **<juhumahe>**[[br]](<जुहुमहे>) |
-| **Imperfekt (लङ्)** | **ajuhavam**[[br]](अजुहवम्)[[br]](a-juho + am) | **juhuma**[[br]](जुहुम) | **<ajuhavi>**[[br]](<अजुहवि>) | **<ajuhumahi>**[[br]](<अजुहुमहि>) |
-| **Optativ (विधिलिङ्)** | **juhuyām**[[br]](जुहुयाम्) | **juhuyāma**[[br]](जुहुयाm) | **<juhvīya>**[[br]](<जुह्वीय>)[[br]](juhu + īy-a) | **<juhvīmahi>**[[br]](<जुह्वीमहि>) |
+| **Indikativ Präsens (लट्)** | **juhomi**[[br]](जुहोमि) | **juhumaḥ**[[br]](जुहुमस्) | **&lt;juhve&gt;**[[br]](&lt;जुह्वे&gt;)[[br]](ju-hu + e) | **&lt;juhumahe&gt;**[[br]](&lt;जुहुमहे&gt;) |
+| **Imperfekt (लङ्)** | **ajuhavam**[[br]](अजुहवम्)[[br]](a-juho + am) | **juhuma**[[br]](जुहुम) | **&lt;ajuhavi&gt;**[[br]](&lt;अजुहवि&gt;) | **&lt;ajuhumahi&gt;**[[br]](&lt;अजुहुमहि&gt;) |
+| **Optativ (विधिलिङ्)** | **juhuyām**[[br]](जुहुयाम्) | **juhuyāma**[[br]](जुहुयाm) | **&lt;juhvīya&gt;**[[br]](&lt;जुह्वीय&gt;)[[br]](juhu + īy-a) | **&lt;juhvīmahi&gt;**[[br]](&lt;जुह्वीमहि&gt;) |
 
 ::::
 

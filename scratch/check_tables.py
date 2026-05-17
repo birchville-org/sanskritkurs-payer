@@ -1,51 +1,44 @@
-import sys
+import os
+import re
 
-def check_tables(filename):
-    with open(filename, 'r') as f:
+def check_tables(file_path):
+    with open(file_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     
     in_table = False
     table_lines = []
+    errors = []
     
     for i, line in enumerate(lines):
-        stripped = line.strip()
-        if '|' in stripped:
+        if '|' in line:
             if not in_table:
                 in_table = True
-                table_start = i + 1
-            table_lines.append((i + 1, stripped))
+                table_lines = []
+            table_lines.append((i + 1, line))
         else:
             if in_table:
-                validate_table(table_start, table_lines)
+                # End of table, validate it
+                if len(table_lines) > 1:
+                    # Count pipes in each line (excluding escaped ones maybe, but simple count first)
+                    counts = [l.count('|') for _, l in table_lines]
+                    # Filter out the separator line (usually has many | but it must match header)
+                    # Actually, all lines in a valid markdown table must have the same structure
+                    if len(set(counts)) > 1:
+                        # Check if it's just the separator line being weird or a real mismatch
+                        # Actually, commonmark/gfm requires same column count
+                        # We ignore lines that are clearly not part of the table body/header if they just happen to have a pipe
+                        # but usually in this project they are strict.
+                        errors.append(f"Table at lines {table_lines[0][0]}-{table_lines[-1][0]} has mismatched columns: {counts}")
                 in_table = False
-                table_lines = []
     
-    if in_table:
-        validate_table(table_start, table_lines)
+    return errors
 
-def validate_table(start_line, lines):
-    print(f"Checking table starting at line {start_line}")
-    col_counts = []
-    for line_num, content in lines:
-        # Simple count of pipes
-        pipes = content.count('|')
-        col_counts.append((line_num, pipes, content))
-    
-    if not col_counts:
-        return
-
-    # Check if header separator exists
-    has_sep = any('---' in c[2] for c in col_counts)
-    if not has_sep:
-        # Might not be a standard GFM table, maybe a grid table or something else
-        # But we mostly use GFM tables
-        pass
-
-    counts = [c[1] for c in col_counts]
-    if len(set(counts)) > 1:
-        print(f"  [!] Inconsistent pipe counts found in table at line {start_line}:")
-        for line_num, count, content in col_counts:
-            print(f"    Line {line_num:4}: {count} pipes | {content}")
-
-if __name__ == "__main__":
-    check_tables(sys.argv[1])
+lektionen_dir = 'docs/lektionen'
+for filename in os.listdir(lektionen_dir):
+    if filename.endswith('.md'):
+        path = os.path.join(lektionen_dir, filename)
+        errs = check_tables(path)
+        if errs:
+            print(f"File: {path}")
+            for e in errs:
+                print(f"  {e}")

@@ -46,9 +46,9 @@ High-fidelity restoration and standardization of the Sanskrit QA viewer.
 
 ### Phase 14: Lektion 27 Fidelity & Review
 High-fidelity manual reconstruction and validation of Sanskrit Lesson 27.
-- [ ] **Plan 14.1**: Surgical correction of paradigm tables (27.7.12) and missing Devanāgarī.
-- [ ] **Plan 14.2**: Standardization of wordlist images and captions in 27.5.
-- [ ] **Plan 14.3**: Verification against original HTML and license auditing.
+- [x] **Plan 14.1**: Surgical correction of paradigm tables (27.7.12) and missing Devanāgarī.
+- [x] **Plan 14.2**: Standardization of wordlist images and captions in 27.5.
+- [x] **Plan 14.3**: Verification against original HTML and license auditing.
 - **Erfolgskriterien**:
     - 1:1 structural parity with original L27 HTML.
     - Zero-HTML in all sections.
@@ -120,7 +120,7 @@ Plans:
 | 11 | v1.2 | 2/2 | Complete | 2026-04-26 |
 | 12 | v1.2 | 4/4 | Complete | 2026-04-26 |
 | 13 | v1.2 | 1/1 | Complete | 2026-05-08 |
-| 14 | v1.2 | 0/3 | Planned | - |
+| 14 | v1.2 | 3/3 | Complete | 2026-05-16 |
 
 ### Phase ${NEXT}: ${DESCRIPTION} (BACKLOG)
 

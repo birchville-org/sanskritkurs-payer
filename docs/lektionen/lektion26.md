@@ -1,33 +1,35 @@
 
 # Lektion 26
 
-## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
+::: grammar-box
+**Cerebralisationsgesetz für -s- im Wortinnern**
 
-\-s- wird durch -ṣ- ersetzt, wenn k, r, l oder ein Vokal - außer a, ā - unmittelbar oder nur durch अनुस्वार oder विसर्ग getrennt vorausgeht und ein anderer Laut als ṛ, r folgt.  
-  
-Diesem Sandhi folgt auch दुस्- vor tonlosen Gutturalen und Labialen in Komposita.  
-  
-Beispiel:  
+**-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — außer **a, ā** — unmittelbar oder nur durch **Anusvāra** oder **Visarga** getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt.
 
-> तेषाम् (aus: te-sām)
-> 
-> aber:
-> 
-> तासाम् (tā-sām)
+Diesem Sandhi folgt auch **dus-** vor tonlosen Gutturalen und Labialen in Komposita.
 
-## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
+*Beispiele:*
+- **teṣām** (aus: *te-sām*)
+- aber: **tāsām** (*tā-sām*)
+:::
 
-  
-Dentale Verschlusslaute werden nach Retroflexen (inklusive -ṣ-) durch die entsprechenden Retroflexe ersetzt:  
 
-*   iṣ + -ta  = इष्ट
-*   ti + sth +a + ti = तिष्ठति (ṣ wegen des vorangehenden i, ṭh wegen des dann vorausgehenden ṣ)  
-    
+::: grammar-box
+**Cerebralisationsgesetz für Dentale im Wortinnern**
 
-## 26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
+Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die entsprechenden Retroflexe ersetzt:
 
-\-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h + s- » -kṣ  
-Beispiele siehe unten
+- **iṣ** + **-ta** = **iṣṭa** (इष्ट)
+- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (तिष्ठति)
+  *(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)*
+:::
+
+::: grammar-box
+**Wortsandhi für Palatal, Guttural, ṣ, h + -s**
+
+**-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
+:::
+
 
 ## 26.4. Grassmannsches Hauchdissimilationsgesetz
 
@@ -37,9 +39,12 @@ Beispiel:
 Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.  
 Beispiele: siehe unten Futur von दुह् und  बुध्  
 
-![](/images/lekt2601.jpg)  
-Abb.: Hermann Graßmann (1809 - 1877)  
-Mathematiker und Indologe
+::: media
+![](/images/lekt2601.jpg)
+Abb.: Hermann Graßmann
+(Bildquelle: [Details](/licenses#lekt2601))
+:::
+
 
 ## 26.5. Wortsandhi für -m, -n vor Zischlaut
 
@@ -64,10 +69,12 @@ z. B.
 व्रतं करिष्यन्देवगृहं गच्छति = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel,."
 
   
-![](/images/lekt2602.jpg)  
-Abb.: व्रतं करिष्यन्देवगृहं गच्छति  
-Hampi = ಹಂಪೆ  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/159113586/](http://www.flickr.com/photos/mattlogelin/159113586/). -- Zugriff am 2008-12-18. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt2602.jpg)
+Abb.: व्रतं करिष्यन्देवगृहं गच्छति
+(Bildquelle: [Details](/licenses#lekt2602))
+:::
+
 
 ## 26.7. Bildung des einfachen Futurs (ऌत्, भविष्यन्ती  f.)
 
@@ -180,3 +187,12 @@ C) Futur optionell mit und ohne -i-:
 1.  मुह्यन्ति
 2.  वर्तते
 3.  अश्नुवते (im Futur Parasmaipada)
+
+### Quellen
+
+::: deleteme-box
+**lekt2601:** Hermann Graßmann (1809 - 1877) Mathematiker und Indologe [Bildquelle: Wikipedia, Public domain]
+
+**lekt2602:** Hampi = ಹಂಪೆ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/159113586/. -- Zugriff am 2008-12-18. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+:::
+

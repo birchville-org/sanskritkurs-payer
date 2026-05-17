@@ -3,7 +3,8 @@
 
 ## 30.1. Die 9. Präsensklasse (क्र्यादि = "क्री u.s.w.")
 
-Bildung:
+::: grammar-box
+**Bildung:**
 
 *   starker Stamm: tiefstufige Wurzel + -nā-
     
@@ -12,31 +13,32 @@ Bildung:
     *   vor Konsonant: Tiefstufige Wurzel + -nī-
         
     *   vor Vokal: tiefstufige Wurzel + -n-
+:::
         
 
 Beispiel:
 
 > क्री 9U "kaufen"
 > 
-:::: grammar-box
+::: grammar-box
 
-| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3. Person[[br]]Parasmaipada** | **krīṇāti**[[br]](क्रीणाति)[[br]](krī + nā + ti) | **krīṇanti**[[br]](क्रीणन्ति)[[br]](krī + n + anti) |
-| **3. Person[[br]]Ātmanepada** | **krīṇīte**[[br]](क्रीणीते)[[br]](krī + nī + te) | **krīṇate**[[br]](क्रीणते)[[br]](krī + n + ate) |
+|**3. Person[[br]]Parasmaipada**|क्रीणाति[[br]](krī + nā + ti)|क्रीणन्ति[[br]](krī + n + anti)|
+|**3. Person[[br]]Ātmanepada**|क्रीणीते[[br]](krī + nī + te)|क्रीणते[[br]](krī + n + ate)|
 
-::::
+:::
 
 Bei dieser Präsensklasse ist besonders zu beachten die Bildung des Präsensstamms zur Wurzel ज्ञा 9U "erkennen, wissen":
 
-:::: grammar-box
+::: grammar-box
 
-| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3. Person[[br]]Parasmaipada** | **jānāti**[[br]](जानाति)[[br]](jā-nā-ti) | **jānanti**[[br]](जानन्ति)[[br]](jā-n-anti) |
-| **3. Person[[br]]Ātmanepada** | **jānīte**[[br]](जानीते)[[br]](jā-nī-te) | **jānate**[[br]](जानते)[[br]](jā-n-ate) |
+|**3. Person[[br]]Parasmaipada**|जानाति[[br]](jā-nā-ti)|जानन्ति[[br]](jā-n-anti)|
+|**3. Person[[br]]Ātmanepada**|जानीते[[br]](jā-nī-te)|जानते[[br]](jā-n-ate)|
 
-::::
+:::
 > 
 > Die Form जा die dem Präsensstamm von ज्ञा zugrundeliegt, ist entweder durch eine Ablautreihe -ā (Tiefstufe) -nā (Hochstufe) zu erklären, oder durch Dissimilation aus \*jñā-nā-ti.
 
@@ -45,15 +47,14 @@ Einige Wurzeln auf langen Vokal verkürzen diesen vor dem Präsensstammsuffix de
 Beispiel:
 
 > पू 9U "reinigen"
-> 
-:::: grammar-box
+::: grammar-box
 
-| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3. Person[[br]]Parasmaipada** | **punāti**[[br]](पुनाति)[[br]](pu-nā-ti) | **punanti**[[br]](पुनन्ति)[[br]](pu-n-anti) |
-| **3. Person[[br]]Ātmanepada** | **punīte**[[br]](पुनीते)[[br]](pu-nī-te) | **punate**[[br]](पुनते)[[br]](pu-n-ate) |
+|**3. Person[[br]]Parasmaipada**|पुनाति[[br]](pu-nā-ti)|पुनन्ति[[br]](pu-n-anti)|
+|**3. Person[[br]]Ātmanepada**|पुनीते[[br]](pu-nī-te)|पुनते[[br]](pu-n-ate)|
 
-::::
+:::
 
 Bildung des Partizip Präsens Parasmaipada:
 
@@ -99,14 +100,14 @@ Beispiel:
 
 Der Optativ (लिङ्), das Imperfekt (लङ्), der Aorist (लुङ्), Prekativ (आशिर्लिङ्) und Konditionalis haben die sog. Sekundärendungen:
 
-:::: grammar-box
+::: grammar-box
 
-| | 3. Person Singular | 3. Person Plural |
+| |3. Person Singular|3. Person Plural|
 | :--- | :--- | :--- |
-| **Parasmaipada** | **-t** | **-n**[[br]]athematische Klassen: **-an** oder **-ur**[[br]]Optativ: **-ur** |
-| **Ātmanepada** | **-ta** | **-nta**[[br]]athematische Klassen: **-ata** (aus *nta)[[br]]Optativ: **-ran** |
+|**Parasmaipada**|**-t**|athematische Klassen: **-an** oder **-ur**[[br]]Optativ: **-ur**|
+|**Ātmanepada**|**-ta**|athematische Klassen: **-ata** (aus *nta)[[br]]Optativ: **-ran**|
 
-::::
+:::
 
 ## 30.4. Bildung des Optativ Präsens (लिङ्)
 
@@ -125,54 +126,50 @@ Beispiele:
 1\. Präsensklasse:
 
 > भू
-> 
-:::: grammar-box
+::: grammar-box
 
-| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3. Person[[br]]Parasmaipada** | **bhavet**[[br]](भवेत्)[[br]](bhava + i + t) | **bhaveyuḥ**[[br]](भवेयुर्)[[br]](bhava + i + y + ur) |
-| **3. Person[[br]]Ātmanepada** | **bhaveta**[[br]](भवेत)[[br]](bhava + i + ta) | **bhaveran**[[br]](भवेरन्)[[br]](bhava + i + ran) |
+|**3. Person[[br]]Parasmaipada**|भवेत्[[br]](bhava + i + t)|भवेयुर्[[br]](bhava + i + y + ur)|
+|**3. Person[[br]]Ātmanepada**|भवेत[[br]](bhava + i + ta)|भवेरन्[[br]](bhava + i + ran)|
 
-::::
+:::
 
 4\. Präsensklasse:
 
 > नृत्
-> 
-:::: grammar-box
+::: grammar-box
 
-| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3. Person[[br]]Parasmaipada** | **nṛtyet**[[br]](नृत्येत्)[[br]](nṛtya + i + t) | **nṛtyeyuḥ**[[br]](नृत्येयुर्)[[br]](nṛtya + i + y + ur) |
-| **3. Person[[br]]Ātmanepada** | **nṛtyeta**[[br]](नृत्येत)[[br]](nṛtya + i + ta) | **nṛtyeran**[[br]](नृत्येरन्)[[br]](nṛtya + i + ran) |
+|**3. Person[[br]]Parasmaipada**|नृत्येत्[[br]](nṛtya + i + t)|नृत्येयुर्[[br]](nṛtya + i + y + ur)|
+|**3. Person[[br]]Ātmanepada**|नृत्येत[[br]](nṛtya + i + ta)|नृत्येरन्[[br]](nṛtya + i + ran)|
 
-::::
+:::
 
 6\. Präsensklasse
 
 > विश्
-> 
-:::: grammar-box
+::: grammar-box
 
-| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3. Person[[br]]Parasmaipada** | **viśet**[[br]](विशेत्)[[br]](viśa + i + t) | **viśeyuḥ**[[br]](विशेयुर्)[[br]](viśa + i + y + ur) |
-| **3. Person[[br]]Ātmanepada** | **viśeta**[[br]](विशेत)[[br]](viśa + i + ta) | **viśeran**[[br]](विशेरन्)[[br]](viśa + i + ran) |
+|**3. Person[[br]]Parasmaipada**|विशेत्[[br]](viśa + i + t)|विशेयुर्[[br]](viśa + i + y + ur)|
+|**3. Person[[br]]Ātmanepada**|विशेत[[br]](viśa + i + ta)|विशेरन्[[br]](viśa + i + ran)|
 
-::::
+:::
 
 10\. Präsensklasse und Kausative
 
 > चुर्
-> 
-:::: grammar-box
+::: grammar-box
 
-| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3. Person[[br]]Parasmaipada** | **corayet**[[br]](चोरयेत्)[[br]](coraya + i + t) | **corayeyuḥ**[[br]](चोरयेयुर्)[[br]](coraya + i + y + ur) |
-| **3. Person[[br]]Ātmanepada** | **corayeta**[[br]](चोरयेत)[[br]](coraya + i + ta) | **corayeran**[[br]](चोरयेरन्)[[br]](coraya + i + ran) |
+|**3. Person[[br]]Parasmaipada**|चोरयेत्[[br]](coraya + i + t)|चोरयेयुर्[[br]](coraya + i + y + ur)|
+|**3. Person[[br]]Ātmanepada**|चोरयेत[[br]](coraya + i + ta)|चोरयेरन्[[br]](coraya + i + ran)|
 
-::::
+:::
 
 ### 30.4.2. Athematische Präsensklassen
 
@@ -189,71 +186,67 @@ Beispiele:
 2\. Präsensklasse:
 
 > द्विष्
-> 
-:::: grammar-box
+::: grammar-box
 
-| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3. Person[[br]]Parasmaipada** | **dviṣyāt**[[br]](द्विष्यात्)[[br]](dviṣ-yā-t) | **dviṣyuḥ**[[br]](द्विष्युर्)[[br]](dviṣ-y-ur) |
-| **3. Person[[br]]Ātmanepada** | **dviṣīta**[[br]](द्विषीत)[[br]](dviṣ-ī-ta) | **dviṣīran**[[br]](द्विषीरन्)[[br]](dviṣ-ī-ran) |
+|**3. Person[[br]]Parasmaipada**|द्विष्यात्[[br]](dviṣ-yā-t)|द्विष्युर्[[br]](dviṣ-y-ur)|
+|**3. Person[[br]]Ātmanepada**|द्विषीत[[br]](dviṣ-ī-ta)|द्विषीरन्[[br]](dviṣ-ī-ran)|
 
-::::
+:::
 
 5\. Präsensklasse
 
 > सु
-> 
-:::: grammar-box
+::: grammar-box
 
-| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3. Person[[br]]Parasmaipada** | **sunuyāt**[[br]](सुनुयात्)[[br]](sunu-yā-t) | **sunuyuḥ**[[br]](सुनुयुर्)[[br]](sunu-y-ur) |
-| **3. Person[[br]]Ātmanepada** | **sunvīta**[[br]](सुन्वीत)[[br]](sunu + ī + ta) | **sunvīran**[[br]](सुन्वीरन्)[[br]](sunu + ī + ran) |
+|**3. Person[[br]]Parasmaipada**|सुनुयात्[[br]](sunu-yā-t)|सुनुयुर्[[br]](sunu-y-ur)|
+|**3. Person[[br]]Ātmanepada**|सुन्वीत[[br]](sunu + ī + ta)|सुन्वीरन्[[br]](sunu + ī + ran)|
 
-::::
+:::
 
 8\. Präsensklasse
 
 > तन्
-> 
-:::: grammar-box
+::: grammar-box
 
-| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3. Person[[br]]Parasmaipada** | **tanuyāt**[[br]](तनुयात्)[[br]](tanu-yā-t) | **tanuyuḥ**[[br]](तनुयुर्)[[br]](tanu-y-ur) |
-| **3. Person[[br]]Ātmanepada** | **tanvīta**[[br]](तन्वीत)[[br]](tanu + ī + ta) | **tanvīran**[[br]](तन्वीरन्)[[br]](tanu + ī + ran) |
+|**3. Person[[br]]Parasmaipada**|तनुयात्[[br]](tanu-yā-t)|तनुयुर्[[br]](tanu-y-ur)|
+|**3. Person[[br]]Ātmanepada**|तन्वीत[[br]](tanu + ī + ta)|तन्वीरन्[[br]](tanu + ī + ran)|
 
-::::
+:::
 
 > **kṛ**[[br]](कृ)
 
-:::: grammar-box
+::: grammar-box
 
-| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3. Person[[br]]Parasmaipada** | **kuryāt**[[br]](कुर्यात्) | **kuryuḥ**[[br]](कुर्युर्) |
-| **3. Person[[br]]Ātmanepada** | **kurvīta**[[br]](कुर्वीत) | **kurvīran**[[br]](कुर्वीरन्) |
+|**3. Person[[br]]Parasmaipada**|कुर्यात्|कुर्युर्|
+|**3. Person[[br]]Ātmanepada**|कुर्वीत|कुर्वीरन्|
 
-::::
+:::
 
-:::: grammar-box
+::: grammar-box
 
-| | Singular[[br]]एकवचन | Plural[[br]]बहुवचन |
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3. Person[[br]]Parasmaipada** | **krīṇīyāt**[[br]](क्रीणीयात्)[[br]](krīṇī-yā-t) | **krīṇīyuḥ**[[br]](क्रीणीयुर्)[[br]](krīṇī-y-ur) |
-| **3. Person[[br]]Ātmanepada** | **krīṇīta**[[br]](क्रीणीत)[[br]](krīṇ-ī-ta) | **krīṇīran**[[br]](क्रीणीरन्)[[br]](krīṇ-ī-ran) |
+|**3. Person Parasmaipada**|क्रीणीयात्[[br]](krīṇī-yā-t)|क्रीणीयुर्[[br]](krīṇī-y-ur)|
+|**3. Person Ātmanepada**|क्रीणीत[[br]](krīṇ-ī-ta)|क्रीणीरन्[[br]](krīṇ-ī-ran)|
 
-::::
-> krīṇī-y-ur |
-> | 3\. Person Ātmanepada | क्रीणीत  
-> krīṇ-ī-ta | क्रीणीरन्  
-> krīṇ-ī-ran |
+:::
 
 ## 30.5. Sandhi von auslautendem -r
 
+::: grammar-box
 Außer für -ar gelten für auslautendes -r dieselben Sandhiregeln wie für auslautendes -s.
 
-\-ar vor tönenden Lauten bleibt -ar, vor r- aber fällt das -r aus und das -a- wird durch -ā- ersetzt.
+-ar vor tönenden Lauten bleibt -ar, vor r- aber fällt das -r aus und das -a- wird durch -ā- ersetzt.
+:::
+
 
 Beispiele:
 
@@ -276,10 +269,11 @@ Beispiele:
 
 > Absol. विक्रीय
 
-![](/images/lekt3001.jpg)  
-Abb.: क्रीणन्ति विक्रीणते च  
-Bundi = बुन्दी, Rajasthan = राजस्थान  
-\[Bildquelle: earth2marsh. -- [http://www.flickr.com/photos/earth2marsh/56270619/](http://www.flickr.com/photos/earth2marsh/56270619/). -- Zugriff am 2008-12-21. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt3001.jpg)
+Abb.: क्रीणन्ति विक्रीणते च
+(Bildquelle: [Details](/licenses#lekt3001))
+:::
 
 ज्ञा 9U जानाति : kennen, erkennen, wissen, verstehen
 
@@ -287,7 +281,7 @@ Bundi = बुन्दी, Rajasthan = राजस्थान
 > Pass.ज्ञायते  
 > Kaus. ज्ञापयति
 > 
-> &gt; Kaus. PPP ज्ञप्त / ज्ञापित
+> > Kaus. PPP ज्ञप्त / ज्ञापित
 > 
 > PPP ज्ञात  
 > Inf. ज्ञातुम्
@@ -298,10 +292,11 @@ Bundi = बुन्दी, Rajasthan = राजस्थान
 > 
 > ज्ञान n.: Erkenntnis, Wissen, Erkennen (bes. der "höheren" Wahrheiten in Religion und Philosophie)
 
-![](/images/lekt3002.jpg)  
-Abb.: ज्ञातयः  
-Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र  
-\[Bildquelle: Robin Murphy / World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555776315/](http://www.flickr.com/photos/worldresourcesinstitute/2555776315/). -- Zugriff am 2008-12-21. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
+::: media
+![](/images/lekt3002.jpg)
+Abb.: ज्ञातयः
+(Bildquelle: [Details](/licenses#lekt3002))
+:::
 
 पू 9U पुनाति : reinigen
 
@@ -311,9 +306,11 @@ Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महा�
 > PPP पूत  
 > Inf. पवितुम्
 
-![](/images/lekt3003.jpg)  
-Abb.: श्रोत्राणि पुनाति  
-\[Bildquelle: Karmalize. -- [http://www.flickr.com/photos/agaylon/1799930862/](http://www.flickr.com/photos/agaylon/1799930862/). -- Zugriff am 2008-12-21. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\] 
+::: media
+![](/images/lekt3003.jpg)
+Abb.: श्रोत्राणि पुनाति
+(Bildquelle: [Details](/licenses#lekt3003))
+:::
 
 अश् 9P अश्नाति : essen, verzehren
 
@@ -323,16 +320,19 @@ Abb.: श्रोत्राणि पुनाति
 > PPP अशित  
 > Inf. अशितुम्
 
-![](/images/lekt3005.jpg)  
-Abb.: अश्नीयात्  
-थाली, Südindien  
-\[Bildquelle: Matthew Winterburn. -- [http://www.flickr.com/photos/bezoire/2330831734/](http://www.flickr.com/photos/bezoire/2330831734/). -- Zugriff am 2008-12-21. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
+::: media
+![](/images/lekt3005.jpg)
+Abb.: अश्नीयात्
+(Bildquelle: [Details](/licenses#lekt3005))
+:::
 
 प्रिय ३: lieb, liebend, freundlich
 
-![](/images/lekt3004.jpg)  
-Abb.: प्रिया  
-\[Bildquelle: Mary Wollstonecraft Shelley. -- [http://www.flickr.com/photos/awflicks/3032833609/](http://www.flickr.com/photos/awflicks/3032833609/). -- Zugriff am 2008-12-21. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\] 
+::: media
+![](/images/lekt3004.jpg)
+Abb.: प्रिया
+(Bildquelle: [Details](/licenses#lekt3004))
+:::
 
 चेत् Konjunktion: wenn; vorausgesetzt, dass (steht nie am Anfang eines Satzes)
 
@@ -352,9 +352,11 @@ Abb.: प्रिया
 > 
 > पुनर्भव m.: Wiedergeburt
 
-![](/images/lekt2904.jpg)  
-Abb.: पुनर्भवः  
-\[Bildquelle: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- [Creative Commons](http://en.wikipedia.org/wiki/Creative_Commons "w:Creative Commons") [Attribution ShareAlike 2.5](http://creativecommons.org/licenses/by-sa/2.5/ "http://creativecommons.org/licenses/by-sa/2.5/")\]
+::: media
+![](/images/lekt2904.jpg)
+Abb.: पुनर्भवः
+(Bildquelle: [Details](/licenses#lekt2904))
+:::
 
 जीव् 1P जीवति : leben
 
@@ -505,3 +507,14 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 38.  तस्यै
 39.  तस्मिन्
 40.  सते
+
+### Quellen
+
+::: deleteme-box
+**lekt3001:** Bundi = बुन्दी, Rajasthan = राजस्थान [Bildquelle: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt3002:** Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र [Bildquelle: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+**lekt3003:** [Bildquelle: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
+**lekt3005:** थाली, Südindien [Bildquelle: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+**lekt3004:** [Bildquelle: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
+**lekt2904:** [Bildquelle: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
+:::

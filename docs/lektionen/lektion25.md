@@ -9,9 +9,12 @@ Außer bei den Personalpronomina sind in allen Deklinationen im Plural die Forme
 
 Jetzt erkennen Sie den Grund für die Reihenfolge der Kasus (विभक्ति) im Sanskrit: sie sind so angeordnet, dass gleichlautende Formen möglichst beieinander - bzw. untereinander - stehen.
 
-Ablativ Singular der Maskulina / Neutra auf -a
+::: grammar-box
+**Ablativ Singular der Maskulina / Neutra auf -a**
 
-देव Abl. sg. देवात्
+- **deva** (देव) → **devāt** (देवात्)
+:::
+
 
 Frage-, Relativ- und Demonstrativpronomina:
 
@@ -165,10 +168,12 @@ Beispiel:
 
 धान्य n.:  gedroschenes Getreide
 
-![](/images/lekt2501.jpg)  
-Abb.: धान्यम्  
-Khanna  
-\[Bildquelle: appaji. -- [http://www.flickr.com/photos/appaji/2205110691/](http://www.flickr.com/photos/appaji/2205110691/). -- Zugriff am 2008-12-15. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
+::: media
+![](/images/lekt2501.jpg)
+Abb.: धान्यम्
+(Bildquelle: [Details](/licenses#lekt2501))
+:::
+
 
 धृ 1U धरति : halten, festhalten
 
@@ -240,10 +245,12 @@ Khanna
 
 मूल n.: Wurzel
 
-![](/images/lekt2502.jpg)  
-Abb.: मूलानि  
-Varanasi  
-\[Bildquelle: oceandesetoiles. -- [http://www.flickr.com/photos/ocean\_of\_stars/2544053669/](http://www.flickr.com/photos/ocean_of_stars/2544053669/). -- Zugriff am 2008-12-15. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
+::: media
+![](/images/lekt2502.jpg)
+Abb.: मूलानि
+(Bildquelle: [Details](/licenses#lekt2502))
+:::
+
 
 लिप् 6U लिम्पति (!): bestreichen, beschmieren
 
@@ -256,10 +263,12 @@ Varanasi
 > 
 > लिप्ति f.: Bestreichen, Schreiben, Schrift
 > 
-> ![](/images/lekt2503.jpg)  
-> Abb.: लिप्तिः  
-> Jaina-Manuskript  
-> \[Bildquelle: Wikipedia, Public domain\]
+> ::: media
+> ![](/images/lekt2503.jpg)
+> Abb.: लिप्तिः
+> (Bildquelle: [Details](/licenses#lekt2503))
+> :::
+
 
 वर्ष n.,m.: Regen, Regenzeit, Jahr
 
@@ -275,12 +284,14 @@ Varanasi
 > 
 > davon:
 > 
-> &gt; विवाह m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+> > विवाह m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
 
-![](/images/lekt2504.jpg)  
-Abb.: विवाहः  
-मुंबई  
-\[Bildquelle: barnism. -- [http://www.flickr.com/photos/barnism/3079837348/](http://www.flickr.com/photos/barnism/3079837348/). -- Zugriff am 2008-12-15. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt2504.jpg)
+Abb.: विवाहः
+(Bildquelle: [Details](/licenses#lekt2504))
+:::
+
 
 नी + वि 1U विनयति : wegführen, unterrichten, erziehen
 
@@ -292,9 +303,12 @@ Abb.: विवाहः
 
 विष्टि f.: Arbeit, Frondienst
 
-![](/images/lekt2505.jpg)  
-Abb.: विष्टिः  
-\[Bildquelle: Ray Witlin / World Bank. -- [http://www.flickr.com/photos/worldbank/2182943983/](http://www.flickr.com/photos/worldbank/2182943983/). -- Zugriff am 2008-12-15. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)\] 
+::: media
+![](/images/lekt2505.jpg)
+Abb.: विष्टिः
+(Bildquelle: [Details](/licenses#lekt2505))
+:::
+
 
 वृध् 1Ā वर्धते : wachsen, größer werden
 
@@ -315,10 +329,12 @@ Abb.: विष्टिः
 
 हिरण्य ३ : golden ; n.: Gold, Geld, Reichtum
 
-![](/images/lekt2506.jpg)  
-Abb.: हिरण्यम्  
-Chennai = சென்னை  
-\[Bildquelle: Dilip Muralidaran. -- [http://www.flickr.com/photos/dilipm/2423883232/](http://www.flickr.com/photos/dilipm/2423883232/). -- Zugriff am 2008-12-15. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
+::: media
+![](/images/lekt2506.jpg)
+Abb.: हिरण्यम्
+(Bildquelle: [Details](/licenses#lekt2506))
+:::
+
 
 अणु ३ : dünn, fein, sehr klein ; m.: Atom
 
@@ -370,12 +386,13 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 अलं भयेन ॥१६॥
 
-लोकादधिको हरिः ॥१७॥ (हरि m. = विष्णु / कृष्ण)
+लोकादधिको हरिः ॥१७॥ (हरi m. = विष्णु / कृष्ण)
 
-![](/images/lekt2507.jpg)  
-Abb.: लोकादधिको हरिः  
-श्रीकृष्णः  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt2507.jpg)
+Abb.: लोकादधिको हरिः
+:::
+
 
 ## 25.7. सुभाषितानि
 
@@ -410,7 +427,26 @@ Abb.: लोकादधिको हरिः
 
 2\. कौटिलीयार्थशास्त्र १.५. über die Ausbildung eines Fürsten:
 
-तस्माद्दण्डमूलास्तिस्रो विद्याः ॥१॥ विनयमूलो दण्डः प्राणभृतां योगक्षेमावहः ॥२॥ कृतकः स्वाभाविकश्च विनयः ॥३॥ क्रिया हि द्रव्यं विनयति नाद्रव्यम् ॥४॥ शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं विद्या विनयति नेतरम् ॥५॥ ... ॥ वृत्तचौलकर्मा लिपिं संख्यानं चोपयुन्ञ्जीत ॥७॥ वृत्तोपनयस्त्रयीमान्वीक्षिकीं च शिष्टेभ्यो वार्त्तामध्यक्षेभ्यो दण्डनीतिं वक्तृप्रयोक्तृभ्यः ॥८॥ ब्रह्मचर्यं चा षोडशाद्वर्षाद् ॥९॥ अतो गोदानं दारकर्म चास्य ॥१०॥ नित्यश्च विद्यावृद्धसंयोगो विनयवृद्ध्यर्थम्, तन्मूलत्वाद्विनयस्य ॥११॥ ... ॥ श्रुताद्धि प्रज्ञोपजायते प्रज्ञाया योगो योगादात्मवत्तेति विद्यानां सामर्थ्यम् ॥१६॥ ... ॥ विद्याविनयहेतुरिन्द्रियजयः कामक्रोधलोभमानमदहर्षत्यागात्कार्यः ॥१.६.१.॥
+तस्माद्दण्डमूलास्तिस्रो विद्याः ॥१॥ विनयमूलो दण्डः प्राणभृतां योगक्षेमावहः ॥२॥ कृतकः स्वाभाविकश्च विनयः ॥३॥ क्रिया हि द्रव्यं विनयति नाद्रव्यम् ॥४॥ शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं विद्या विनयति नेतरम् ॥५॥ ... ॥ वृत्तचौलकर्मा लिपिं संख्यानं चोपयुन्ञ्जीत ॥७॥ वृत्तोपनयस्त्रयीमान्वीक्षिकीं च शिष्टेभ्यो वार्त्तामध्यक्षेभ्यो दण्डनीतिं वक्तृप्रयोक्तृभ्यः ॥८॥ ब्रह्मचर्यं चा षोडशाद्वर्षाद् ॥९॥ अतो गोदानं दारकर्म चास्य ॥१०॥ नित्यश्च विद्यावृद्धसंयोगो विनयवृद्ध्यर्थम्, तन्मूलत्वाद्विनयस्य ॥११॥ ... ॥ श्रुताद्धि प्रज्ञोपजायते प्रज्ञाया योगो योगादात्मवत्तेति विद्यानां सामर्थ्यम् ॥१६॥ ... ॥ कार्यः ॥१.६.१.॥
+
+### Quellen
+
+::: deleteme-box
+**lekt2501:** Khanna [Bildquelle: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt2502:** Varanasi [Bildquelle: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt2503:** Jaina-Manuskript [Bildquelle: Wikipedia, Public domain]
+
+**lekt2504:** मुंबई [Bildquelle: barnism. -- http://www.flickr.com/photos/barnism/3079837348/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2505:** [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2182943983/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2506:** Chennai = சென்னை [Bildquelle: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt2507:** श्रीकृष्णः [Bildquelle: Wikipedia, Public domain]
+:::
+
 
 Erklärung der im obigen Text rot hervorgehobenen Wörter:
 

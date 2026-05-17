@@ -100,9 +100,9 @@ Beispiele:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | **juhoti**[[br]](जुहोति) | **juhvati**[[br]](जुह्वति)[[br]](juhu + ati) | **<juhute>**[[br]](<जुहुते>) | **<juhvate>**[[br]](<जुह्वते>)[[br]](juhu + ate) |
-| **Imperfekt** | **ajuhot**[[br]](अजुहोत्)[[br]](a-juho-t) | **ajuhavuḥ**[[br]](अजुहवुर्)[[br]](a-juho + ur) | **<ajuhuta>**[[br]](<अजुहुत>) | **<ajuhvata>**[[br]](<अजुह्वत>)[[br]](a-juhu + ata) |
-| **Optativ** | **juhuyāt**[[br]](जुहुयात्)[[br]](juhu-yā-t) | **juhuyuḥ**[[br]](जुहुयुर्)[[br]](juhu-y-ur) | **<juhvīta>**[[br]](<जुह्वीत>)[[br]](juhu + ī-ta) | **<juhvīran>**[[br]](<जुह्वीरन्>)[[br]](juhu + ī-ran) |
+| **Indikativ Präsens** | **juhoti**[[br]](जुहोति) | **juhvati**[[br]](जुह्वति)[[br]](juhu + ati) | **&lt;juhute&gt;**[[br]](&lt;जुहुते&gt;) | **&lt;juhvate&gt;**[[br]](&lt;जुह्वते&gt;)[[br]](juhu + ate) |
+| **Imperfekt** | **ajuhot**[[br]](अजुहोत्)[[br]](a-juho-t) | **ajuhavuḥ**[[br]](अजुहवुर्)[[br]](a-juho + ur) | **&lt;ajuhuta&gt;**[[br]](&lt;अजुहुत&gt;) | **&lt;ajuhvata&gt;**[[br]](&lt;अजुह्वत&gt;)[[br]](a-juhu + ata) |
+| **Optativ** | **juhuyāt**[[br]](जुहुयात्)[[br]](juhu-yā-t) | **juhuyuḥ**[[br]](जुहुयुर्)[[br]](juhu-y-ur) | **&lt;juhvīta&gt;**[[br]](&lt;जुह्वीत&gt;)[[br]](juhu + ī-ta) | **&lt;juhvīran&gt;**[[br]](&lt;जुह्वीरन्&gt;)[[br]](juhu + ī-ran) |
 
 ::::
 

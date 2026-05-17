@@ -3,10 +3,12 @@
 
 ## 20.1. Possesivkomposita = बहुव्रीहि m.
 
-![](/images/lekt2004.jpg)  
-Abb.: बहुव्रीहिः पुरुषः  
-Jodhpur = जोधपुर  
-\[Bildquelle: Jared Zimmerman. -- [http://www.flickr.com/photos/spoinknet/35414570/](http://www.flickr.com/photos/spoinknet/35414570/). -- Zugriff am 2008-12-11. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]     
+::: media
+![](/images/lekt2004.jpg)
+Abb.: बहुव्रीहिः पुरुषः
+(Bildquelle: [Details](/licenses#lekt2004))
+:::
+
 
 बहुव्रीहिः = बहवो व्रीहयो यस्य सः = "einer, der viel Reis besitzt"
 
@@ -111,10 +113,12 @@ Beispiel:
 
  |
 
-![](/images/lekt2005.jpg)  
-Abb.: देवा यीश्वादयः = Jesus und die übrigen Götter  
-Ahmedabad  
-\[Bildquelle: von ganuullu. -- [http://www.flickr.com/photos/ganuullu/373131240/](http://www.flickr.com/photos/ganuullu/373131240/). -- Zugriff am 2008-12-11. --  [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]     
+::: media
+![](/images/lekt2005.jpg)
+Abb.: देवा यीश्वादयः
+(Bildquelle: [Details](/licenses#lekt2005))
+:::
+
 
 ## 20.4. Bahuvrīhi mit kasuellem Vorderglied
 
@@ -132,10 +136,12 @@ Beispiel:
 
 > दण्डहस्तः =  दण्डो हस्ते (Lok. sg.) यस्य सः = "einer, in dessen Hand sich ein Stock befindet" = "einer, der einen Stock in der Hand trägt."
 
-![](/images/lekt2001.jpg)  
-Abb.: इन्द्रो वज्रपाणिः = पाणौ (Lok. sg.) वज्रो यस्य स इन्द्रः = Indra, in dessen Hand sich ein Donnerkeil befindet = Indra mit dem Donnerkeil in der Hand  
-Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr.  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt2001.jpg)
+Abb.: इन्द्रो वज्रपाणिः
+(Bildquelle: [Details](/licenses#lekt2001))
+:::
+
 
 ## 20.5. Bahuvrīhi mit adverbiellem Vorderglied
 
@@ -153,10 +159,12 @@ Beispiel:
 
 > सपुत्रः = सहपुत्रः = पुत्रेण सहितः । पुत्रेण सह् = "mit einem Sohn", "von einem Sohn begleitet"
 
-![](/images/lekt2006.jpg)  
-Abb.: सपुत्रा  
-Madhya Pradesh  
-\[Bildquelle: dhyanji. -- [http://www.flickr.com/photos/dhyanji/147056147/](http://www.flickr.com/photos/dhyanji/147056147/). -- Zugriff am 2008-12-11. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]     
+::: media
+![](/images/lekt2006.jpg)
+Abb.: सपुत्रा
+(Bildquelle: [Details](/licenses#lekt2006))
+:::
+
 
 ## 20.6. Flexion des Schlussglieds eines Bahuvrīhi
 
@@ -186,10 +194,12 @@ Die Beispiele sind hier zur späteren Durcharbeitung gegeben, für einige sind b
 12.  PPP als Vorderglied: कृतकटः = कृतः कटो येन सः
 13.  und andere
 
-![](/images/lekt2007.jpg)  
-Abb.: कृतकटा (कट m. "Matte")  
-Chennai = சென்னை  
-\[Bildquelle: calamur. -- [http://www.flickr.com/photos/gargi/162477734/](http://www.flickr.com/photos/gargi/162477734/). -- Zugriff am 2008-12-11. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]     
+::: media
+![](/images/lekt2007.jpg)
+Abb.: कृतकटा
+(Bildquelle: [Details](/licenses#lekt2007))
+:::
+
 
 ## 20.8. Verhältnis von Bahuvrīhi und Relativsatz
 
@@ -197,9 +207,12 @@ Obwohl jedes Bahuvrīhi durch einen Relativsatz aufgelöst wird, kann nicht jede
 
 > "Wenn man aus dem Deutschen oder einer anderen modernen Sprache ins Sanskrit übersetzt, dürfen nicht alle Nebensätze durch Composita wiedergegeben werden, sondern nur die ausschmückenden und beschreibenden; diejenigen aber, welche eine begrifflich notwendige oder wichtige Bestimmung enthalten, erscheinen auch im Sanskrit als Relativsätze."
 
-![](/images/lekt2002.jpg)  
-Abb.: Hermann Jacobi  
-\[Bildquelle: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926\]
+::: media
+![](/images/lekt2002.jpg)
+Abb.: Hermann Jacobi
+(Bildquelle: [Details](/licenses#lekt2002))
+:::
+
 
 Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und beschreibend an, was wir als "begrifflich notwendig oder wichtig" ansehen würden.
 
@@ -209,12 +222,12 @@ Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und b
 
 आश्रम m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ und evtl. als सन्न्यासिन् ; siehe Basham, Wonder S. 159f.)
 
-![](/images/lekt2008.jpg)  
-Abb.: आश्रमाः  
-Rishikesh = ऋषिकेश  
-\[Bildquelle: von ogimogi. -- [http://www.flickr.com/photos/ogimogi/284517677/](http://www.flickr.com/photos/ogimogi/284517677/). -- Zugriff am 2008-12-11. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
+::: media
+![](/images/lekt2008.jpg)
+Abb.: आश्रmaः
+(Bildquelle: [Details](/licenses#lekt2008))
+:::
 
-> "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."  
 
 कर ३ f. करी । करा : tuend, machend, bewirkend
 
@@ -437,11 +450,12 @@ B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit:
 
 > Erklärung: तपस् n. (Deklination später): Glut, Hitze, Qual ; Askeseglut, Kasteiung
 
-![](/images/lekt2010.jpg)  
-Abb.: तपस्  
-Buddha als Asket vor seiner erlösenden Einsicht  
-Gandhara, 2./3. Jhdt.  
-\[Bildquelle: Wikipedia, GNU FDLicense\]
+::: media
+![](/images/lekt2010.jpg)
+Abb.: तपस्
+(Bildquelle: [Details](/licenses#lekt2010))
+:::
+
 
 त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः ॥सांख्यसूत्र १.१॥ (Zum Sāṃkhyasystem siehe Basham, Wonder S. 324f.)
 
@@ -468,10 +482,12 @@ Ein सुभाषितम् :
 > 
 > Erläuterung: -da am Ende eines Kompositums: "gebend"
 
-![](/images/lekt2009.jpg)  
-Abb.: लोकानां करदा मही  
-Karnataka  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/188758072/](http://www.flickr.com/photos/mattlogelin/188758072/). -- Zugriff am 2008-12-11. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] 
+::: media
+![](/images/lekt2009.jpg)
+Abb.: लोकानां करदा मही
+(Bildquelle: [Details](/licenses#lekt2009))
+:::
+
 
 Über Besitzverhältnisse:
 
@@ -491,14 +507,12 @@ Ein सुभाषितम् über weibliche Schönheit:
 > 
 > Erklärung: alle Formen außer कं und स्त्रीणाम् sind Nom. sg. neut. und beziehen sich auf वपुस्.
 
-![](/images/lekt2003.jpg)  
-तनुमध्यं पृथुश्रोणि  
-रक्तौष्ठमसितेक्षणम् ।  
-नतनाभि वपुः स्त्रीणां  
-कं न हन्त्युन्नतस्तनम् ॥
+::: media
+![](/images/lekt2003.jpg)
+Abb.: तनुमध्यं पृथुश्रोणि
+(Bildquelle: [Details](/licenses#lekt2003))
+:::
 
-Sanchi = सांची  
-\[Bildquelle Wikipedia, Public domain\]
 
 Noch ein सुभाषितम् :
 
@@ -506,5 +520,30 @@ Noch ein सुभाषितम् :
 > दरिद्राणामनिच्छताम् ।  
 > नास्ति पुत्रः समृद्धानां  
 > विचित्रं विधिचेष्टितम् ॥
+
+### Quellen
+
+::: deleteme-box
+**lekt2001:** Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr. [Bildquelle: Wikipedia, Public domain]
+
+**lekt2002:** [Bildquelle: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926]
+
+**lekt2003:** Sanchi = सांची [Bildquelle Wikipedia, Public domain]
+
+**lekt2004:** Jodhpur = जोधपुर [Bildquelle: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2005:** Jesus und die übrigen Götter, Ahmedabad [Bildquelle: von ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2006:** Madhya Pradesh [Bildquelle: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2007:** Chennai = சென்னை [Bildquelle: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt2008:** Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Bildquelle: von ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung)]
+
+**lekt2009:** Karnataka [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt2010:** Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt. [Bildquelle: Wikipedia, GNU FDLicense]
+:::
+
 > 
 > Erklärung: इच्छताम् = gen. Pl. Part Präs. P zu इष् : der wünschenden

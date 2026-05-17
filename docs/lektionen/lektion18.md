@@ -23,13 +23,15 @@ Beipiele:
 
 अति "darüber hinaus":
 
-> अतिगुरु 3: überaus schwer, überaus gewichtig
-> 
-> अतिपुरुष m.: überragender Mann, Superman, Held
-> 
-> अतिस्तुति f.: übermäßiges Lob
-> 
-> अत्युक्ति f.: übermäßiges Sprechen, Übertreibung
+:::: grammar-box
+
+अतिगुरु 3: überaus schwer, überaus gewichtig [[br]]
+अतिपुरुष m.: überragender Mann, Superman, Held [[br]]
+अतिस्तुति f.: übermäßiges Lob [[br]]
+अत्युक्ति f.: übermäßiges Sprechen, Übertreibung
+
+::::
+
 
 Die wichtigsten adverbialen Vorderglieder sind a-/an-, su-, dus-.
 
@@ -214,9 +216,12 @@ Beispiele:
 
 sam-kṛ + -a = संस्कार m.: Weihe, Zubereitung ; Übergangsrituale = Bezeichnung für die Zeremonien, die die verschiedenen Lebensabschnitte von der Empfängnis bis zum Tod begleiten (s. dazu die ausgezeichnete Zusammenfassung bei Basham, Wonder S. 160 - 170!)
 
-![](/images/lekt1804.jpg)  
-Abb.: Hochzeit = विवाह m., ein wichtiger संस्कारः  
-\[Bildquelle: Saad.Akhtar. -- [http://www.flickr.com/photos/saad/64770385/](http://www.flickr.com/photos/saad/64770385/). -- Zugriff am 2008-12-08. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]  
+::: media
+![](/images/lekt1804.jpg)
+Abb.: विवाहः
+(Bildquelle: [Details](/licenses#lekt1804))
+:::
+
 
 upa-nī + -ana = उपनयन n.: das Heranführen (ans Opferfeuer) = Zeremonie, bei der den männlichen Angehörigen der drei oberen Stände die heilige Schnur (यज्ञोपवीत n.) angelegt wird sowie der hl. Vers सावित्री ins Ohr geflüstert wird, den sie von nun an täglich bei Sonnenauf- und Sonnenuntergang rezitieren. Für die Brahmanen ist das Ṛgveda III.62.10:
 
@@ -224,12 +229,12 @@ upa-nī + -ana = उपनयन n.: das Heranführen (ans Opferfeuer) = Zeremon
 
 Durch das Upanayana geschieht die zweite Geburt, deshalb: द्विज । द्विजाति
 
-![](/images/lekt1801.jpg)  
+::: media
+![](/images/lekt1801.jpg)
 Abb.: उपनयनम्
+:::
 
 > "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
-> 
-> \[Bildquelle: Nagesh Rao / Wikipedia, GNU FDLicense\]
 
 ## 18.4. Wortliste
 
@@ -359,10 +364,12 @@ A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvors
 
 ९. कुलोपदेश m.
 
-![](/images/lekt1802.jpg)  
-Abb.: मृतिसाधनी काली  
-1770 Print  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt1802.jpg)
+Abb.: मृतिसाधनी काली
+(Bildquelle: [Details](/licenses#lekt1802))
+:::
+
 
 B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
 
@@ -378,13 +385,28 @@ B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
 
 6\. So spricht der, der \[den Weg durch die Wiedergeburten\] gut gegangen ist zum Jünger.
 
-![](/images/lekt1803.jpg)  
-Abb.: सुगतः  
-गन्धार 1./2. Jhdt. n. Chr.  
-\[Bildquelle: Wikipedia, Public domain\]
+::: media
+![](/images/lekt1803.jpg)
+Abb.: सुगतः
+(Bildquelle: [Details](/licenses#lekt1803))
+:::
+
 
 C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
 
 D) Übersetzen Sie:
 
 (धर्मः) सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥
+
+### Quellen
+
+::: deleteme-box
+**lekt1801:** "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya." [Bildquelle: Nagesh Rao / Wikipedia, GNU FDLicense]
+
+**lekt1802:** 1770 Print [Bildquelle: Wikipedia, Public domain]
+
+**lekt1803:** गन्धार 1./2. Jhdt. n. Chr. [Bildquelle: Wikipedia, Public domain]
+
+**lekt1804:** Hochzeit = विवाह m., ein wichtiger संस्कारः [Bildquelle: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+:::
+

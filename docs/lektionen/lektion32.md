@@ -81,9 +81,9 @@ Beispiele:
 
 | Präsensklasse | Wurzel[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1.** | **bhū**[[br]](भू) | **abhavat**[[br]](अभवत्) | **abhavan**[[br]](अभवन्) | **<abhavata>**[[br]](<अभवत>) | **<abhavanta>**[[br]](<अभवन्त>) |
-| **4.** | **nṛt**[[br]](नृत्) | **anṛtyat**[[br]](अनृत्यत्) | **anṛtyan**[[br]](अनृत्यन्) | **<anṛtyata>**[[br]](<अनृत्यत>) | **<anṛtyanta>**[[br]](<अनृत्यन्त>) |
-| **6.** | **viś**[[br]](विश्) | **aviśat**[[br]](अविशत्) | **aviśan**[[br]](अविशन्) | **<aviśata>**[[br]](<अविशत>) | **<aviśanta>**[[br]](<अविशन्त>) |
+| **1.** | **bhū**[[br]](भू) | **abhavat**[[br]](अभवत्) | **abhavan**[[br]](अभवन्) | **&lt;abhavata&gt;**[[br]](&lt;अभवत&gt;) | **&lt;abhavanta&gt;**[[br]](&lt;अभवन्त&gt;) |
+| **4.** | **nṛt**[[br]](नृत्) | **anṛtyat**[[br]](अनृत्यत्) | **anṛtyan**[[br]](अनृत्यन्) | **&lt;anṛtyata&gt;**[[br]](&lt;अनृत्यत&gt;) | **&lt;anṛtyanta&gt;**[[br]](&lt;अनृत्यन्त&gt;) |
+| **6.** | **viś**[[br]](विश्) | **aviśat**[[br]](अविशत्) | **aviśan**[[br]](अविशन्) | **&lt;aviśata&gt;**[[br]](&lt;अविशत&gt;) | **&lt;aviśanta&gt;**[[br]](&lt;अविशन्त&gt;) |
 | **10. / Kaus.** | **cur**[[br]](चुर्) | **acorayat**[[br]](अचोरयत्) | **acorayan**[[br]](अचोरयन्) | **acorayata**[[br]](अचोरयत) | **acorayanta**[[br]](अचोरयन्त) |
 | **Passiv** | **gam**[[br]](गम्) | **agamyata**[[br]](अगम्यत) | **agamyanta**[[br]](अगम्यन्त) | | |
 
@@ -122,7 +122,7 @@ Beispiele:
 | **2.** | **stu**[[br]](स्तु) | **astaut**[[br]](अस्तौत्)[[br]]**astavīt**[[br]](अस्तवीत्) | **astuvan**[[br]](अस्तुवन्) | **astuta**[[br]](अस्तुत) | **astuvata**[[br]](अस्तुवत) |
 | **2.** | **as**[[br]](अस्) | **āsīt**[[br]](आसीत्) | **āsan**[[br]](आसन्) | | |
 | **5.** | **su**[[br]](सु) | **asunot**[[br]](असुनोत्) | **asunvan**[[br]](असुन्वन्) | **asunuta**[[br]](असुनुत) | **asunvata**[[br]](असुन्वत) |
-| **5.** | **āp**[[br]](आप्) | **āpnot**[[br]](आप्नोत्) | **āpnuvan**[[br]](आप्नुवन्) | **<āpnutata>**[[br]](<आप्नुत>) | **<āpnuvata>**[[br]](<आप्नुवत>) |
+| **5.** | **āp**[[br]](आप्) | **āpnot**[[br]](आप्नोत्) | **āpnuvan**[[br]](आप्नुवन्) | **&lt;āpnutata&gt;**[[br]](&lt;आप्नुत&gt;) | **&lt;āpnuvata&gt;**[[br]](&lt;आप्नुवत&gt;) |
 | **8.** | **tan**[[br]](तन्) | **atanot**[[br]](अतनोत्) | **atanvan**[[br]](अतन्वन्) | **atanuta**[[br]](अतनुत) | **atanvata**[[br]](अतन्वत) |
 | **8.** | **kṛ**[[br]](कृ) | **akarot**[[br]](अकरोत्) | **akurvan**[[br]](अकुर्वन्) | **akuruta**[[br]](अकुरुत) | **akurvata**[[br]](अकुर्वत) |
 | **7.** | **yuj**[[br]](युज्) | **ayunak**[[br]](अयुनक्)[[br]](a-yunaj + t > ayunakt > ayunak) | **ayuñjan**[[br]](अयुञ्जन्) | **ayuṅkta**[[br]](अयुङ्क्त)[[br]](a-yuñj + ta) | **ayuñjata**[[br]](अयुञ्जत) |

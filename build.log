@@ -2,6 +2,24 @@
 > sanskritkurs-pipeline@1.1.2 docs:build
 > vitepress build docs
 
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/en/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/en/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/en/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/it/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/it/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/it/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/es/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/es/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/es/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/bg/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/bg/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/bg/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/ru/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/ru/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/ru/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/uk/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/uk/lektionen
+[Sidebar Error] Directory not found: /Volumes/SanDisk1TB/proj/Payer/docs/uk/lektionen
 
   vitepress v1.6.4
 
@@ -54,6 +72,8 @@ TypeError: Cannot read properties of null (reading 'colsnum')
     at file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:36656:21
     at Object.transform (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:44996:55)
     at file:///Volumes/SanDisk1TB/proj/Payer/node_modules/rollup/dist/es/shared/node-entry.js:22967:40
+x Build failed in 532ms
+[31m✖[0m building client + server bundles...
 markdown-it-attrs: Error in pattern 'tables tbody calculate': Cannot read properties of null (reading 'colsnum')
 TypeError: Cannot read properties of null (reading 'colsnum')
     at Object.transform (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32195:40)
@@ -63,99 +83,22 @@ TypeError: Cannot read properties of null (reading 'colsnum')
     at MarkdownIt.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31663:36)
     at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23141:12)
     at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23194:22)
-    at render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40458:23)
-    at async indexFile (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40509:18)
-    at async file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:4505:20
-markdown-it-attrs: Error in pattern 'tables tbody calculate': Cannot read properties of null (reading 'colsnum')
-TypeError: Cannot read properties of null (reading 'colsnum')
-    at Object.transform (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32195:40)
-    at Array.curlyAttrs (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32631:22)
-    at Core.process (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:26368:13)
-    at MarkdownIt.parse (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31644:13)
-    at MarkdownIt.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31663:36)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23141:12)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23194:22)
-    at render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40458:23)
-    at async indexFile (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40509:18)
-    at async file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:4505:20
-markdown-it-attrs: Error in pattern 'tables tbody calculate': Cannot read properties of null (reading 'colsnum')
-TypeError: Cannot read properties of null (reading 'colsnum')
-    at Object.transform (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32195:40)
-    at Array.curlyAttrs (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32631:22)
-    at Core.process (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:26368:13)
-    at MarkdownIt.parse (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31644:13)
-    at MarkdownIt.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31663:36)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23141:12)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23194:22)
-    at render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40458:23)
-    at async indexFile (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40509:18)
-    at async file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:4505:20
-markdown-it-attrs: Error in pattern 'tables tbody calculate': Cannot read properties of null (reading 'colsnum')
-TypeError: Cannot read properties of null (reading 'colsnum')
-    at Object.transform (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32195:40)
-    at Array.curlyAttrs (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32631:22)
-    at Core.process (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:26368:13)
-    at MarkdownIt.parse (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31644:13)
-    at MarkdownIt.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31663:36)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23141:12)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23194:22)
-    at render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40458:23)
-    at async indexFile (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40509:18)
-    at async file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:4505:20
-
-(!) Some chunks are larger than 500 kB after minification. Consider:
-- Using dynamic import() to code-split the application
-- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
-- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
-markdown-it-attrs: Error in pattern 'tables tbody calculate': Cannot read properties of null (reading 'colsnum')
-TypeError: Cannot read properties of null (reading 'colsnum')
-    at Object.transform (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32195:40)
-    at Array.curlyAttrs (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32631:22)
-    at Core.process (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:26368:13)
-    at MarkdownIt.parse (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31644:13)
-    at MarkdownIt.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31663:36)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23141:12)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23194:22)
-    at render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40458:23)
-    at async indexFile (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40509:18)
-    at async file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:4505:20
-markdown-it-attrs: Error in pattern 'tables tbody calculate': Cannot read properties of null (reading 'colsnum')
-TypeError: Cannot read properties of null (reading 'colsnum')
-    at Object.transform (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32195:40)
-    at Array.curlyAttrs (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32631:22)
-    at Core.process (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:26368:13)
-    at MarkdownIt.parse (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31644:13)
-    at MarkdownIt.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31663:36)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23141:12)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23194:22)
-    at render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40458:23)
-    at async indexFile (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40509:18)
-    at async file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:4505:20
-markdown-it-attrs: Error in pattern 'tables tbody calculate': Cannot read properties of null (reading 'colsnum')
-TypeError: Cannot read properties of null (reading 'colsnum')
-    at Object.transform (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32195:40)
-    at Array.curlyAttrs (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32631:22)
-    at Core.process (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:26368:13)
-    at MarkdownIt.parse (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31644:13)
-    at MarkdownIt.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31663:36)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23141:12)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23194:22)
-    at render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40458:23)
-    at async indexFile (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40509:18)
-    at async file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:4505:20
-markdown-it-attrs: Error in pattern 'tables tbody calculate': Cannot read properties of null (reading 'colsnum')
-TypeError: Cannot read properties of null (reading 'colsnum')
-    at Object.transform (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32195:40)
-    at Array.curlyAttrs (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:32631:22)
-    at Core.process (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:26368:13)
-    at MarkdownIt.parse (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31644:13)
-    at MarkdownIt.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:31663:36)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23141:12)
-    at md.render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:23194:22)
-    at render (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40458:23)
-    at async indexFile (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:40509:18)
-    at async file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:4505:20
-[32m✓[0m building client + server bundles...
-- rendering pages...
-[32m✓[0m rendering pages...
-build complete in 7.57s.
+    at file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:36656:21
+    at Object.transform (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:44996:55)
+    at file:///Volumes/SanDisk1TB/proj/Payer/node_modules/rollup/dist/es/shared/node-entry.js:22967:40
+build error:
+[vite:vue] [plugin vite:vue] docs/lektionen/lektion32.md (139:37): Element is missing end tag.
+file: /Volumes/SanDisk1TB/proj/Payer/docs/lektionen/lektion32.md:139:37
+[vite:vue] [plugin vite:vue] docs/lektionen/lektion32.md (139:37): Element is missing end tag.
+file: /Volumes/SanDisk1TB/proj/Payer/docs/lektionen/lektion32.md:139:37
+SyntaxError: [plugin vite:vue] docs/lektionen/lektion32.md (139:37): Element is missing end tag.
+    at createCompilerError (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/compiler-core/dist/compiler-core.cjs.prod.js:1374:17)
+    at emitError (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/compiler-core/dist/compiler-core.cjs.prod.js:2980:5)
+    at Object.onclosetag (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/compiler-core/dist/compiler-core.cjs.prod.js:2377:13)
+    at Tokenizer.stateInClosingTagName (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/compiler-core/dist/compiler-core.cjs.prod.js:799:16)
+    at Tokenizer.parse (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/compiler-core/dist/compiler-core.cjs.prod.js:1157:16)
+    at Object.baseParse (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/compiler-core/dist/compiler-core.cjs.prod.js:3012:13)
+    at Object.parse (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/compiler-dom/dist/compiler-dom.cjs.prod.js:665:23)
+    at Object.parse$1 [as parse] (/Volumes/SanDisk1TB/proj/Payer/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:1824:24)
+    at createDescriptor (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/@vitejs/plugin-vue/dist/index.mjs:71:43)
+    at transformMain (file:///Volumes/SanDisk1TB/proj/Payer/node_modules/@vitejs/plugin-vue/dist/index.mjs:2421:34)

@@ -182,12 +182,16 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 
 Verwenden Sie dazu folgendes Schema, das der Reihenfolge der Kasus bei den indischen Grammatikern entspricht und das wegen seiner - später zu besprechenden - Vorzüge auch von den westlichen Grammatikern übernommen wurde:
 
+:::: grammar-box
+
 | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
 | :--- | :--- |
 | **१. प्रथमा**[[br]]Nominativ | **१. प्रथमा** |
 | **२. द्वितीया**[[br]]Akkusativ | **२. द्वितीया** |
 | **३. तृतीया**[[br]]Instrumentalis | **३. तृतीया** |
 | **६. षष्ठी**[[br]]Genetiv | **६. षष्ठी** |
+
+::::
 
 Lernen Sie die Deklinationsmuster nach diesen Beispielen auswendig!!!
 

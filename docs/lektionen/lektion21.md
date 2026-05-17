@@ -12,7 +12,16 @@ Beispiele:
 > "Während Vater liest, raucht er = der lesende Vater raucht"  
 > "ein seiender (= wirklicher, echter) Freund"
 
-**Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:** **Maskulinum, Neutrum**   **starker Stamm****Präsensstamm + -nt-** **schwacher Stamm****Präsensstamm + -t-****Femininum**    **Präsensstamm + -nt- + -ī (Deklination wie देवी)** **6. Präsensklasse****Präsensstamm + -nt- + -ī****oder:** **Präsensstamm + -t- + -ī**
+::: grammar-box
+**Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:**
+
+| | Maskulinum, Neutrum | Femininum |
+| :--- | :--- | :--- |
+| **starker Stamm** | Präsensstamm + **-nt-** | Präsensstamm + **-nt-** + **-ī** |
+| **schwacher Stamm** | Präsensstamm + **-t-** | (Deklination wie **devī**) |
+| **6. Präsensklasse** | | Präsensstamm + **-nt-** + **-ī**[[br]]oder: Präsensstamm + **-t-** + **-ī** |
+:::
+
 
 Beispiele:
 
@@ -51,7 +60,17 @@ Beispiele:
 > *   Neutrum Nom. Akk. sg. विशत्
 > *   Femininum Nom. sg. विशन्ती । विशती
 
-**Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (außer 3. Präsensklasse):** **Maskulinum, Neutrum**   **starker Stamm****Präsensstamm + -ant-** **schwacher Stamm****Präsensstamm + -at-****Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P****Femininum**    **Präsensstamm + -at- + -ī (Deklination wie देवी)**
+::: grammar-box
+**Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (außer 3. Präsensklasse):**
+
+| | Maskulinum, Neutrum | Femininum |
+| :--- | :--- | :--- |
+| **starker Stamm** | Präsensstamm + **-ant-** | Präsensstamm + **-at-** + **-ī** |
+| **schwacher Stamm** | Präsensstamm + **-at-** | (Deklination wie **devī**) |
+
+*Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P.*
+:::
+
 
 Beispiele:
 
@@ -76,9 +95,12 @@ Beispiele:
 > 
 > 1 सती "eine gute (treue) Frau (die sich in späterer Zeit nach dem Tod ihres Mannes mit diesem verbrennen lässt)" engl.: sutee
 
-![](/images/lekt2101.jpg)  
-Abb.: सती-Gedenkplatte im Palast von Jodhpur - जोधपुर / Rajasthan - राजस्थान  
-\[Bildquelle: Flicka / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt2101.jpg)
+Abb.: सती-Gedenkplatte
+(Bildquelle: [Details](/licenses#lekt2101))
+:::
+
 
 5\. Präsensklasse:
 
@@ -127,9 +149,12 @@ z.B.
 > 
 > महादेवी "die große Göttin, die Hauptfrau eines Königs (देव)"
 
-![](/images/lekt2102.jpg)  
-Abb.: महादेवो विष्णुः  
-\[Bildquelle: PHGCOM / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt2102.jpg)
+Abb.: महादेवो विष्णुः
+(Bildquelle: [Details](/licenses#lekt2102))
+:::
+
 
 > "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".  
 >  
@@ -193,16 +218,20 @@ davon:
 > 
 > भगवन्त् 3: Glück-besitzend, Würde-besitzend (Beiname von विष्णु - कृष्ण)
 
-![](/images/lekt2103.jpg)  
-Abb.: भगवान्कृष्णः als जगन्नाथ (rechts) mit seiner Halbschwester सुभद्रा (Mitte) und seinem älteren Bruder बलराम  
-Orissa = ଓଡ଼ିଶା  
-\[Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt2103.jpg)
+Abb.: भगवान्कृष्णः
+(Bildquelle: [Details](/licenses#lekt2103))
+:::
+
 
 > भगवद्गीता f.: "Gesang (गीता) des Würdigen (कृष्ण)"
 > 
-> ![](/images/lekt2105.jpg)  
-> Abb.: भगवद्गीता - Manuskript, 19. Jhdt.  
-> \[Bildquelle: Wikipedia, Public domain\]
+> ::: media
+![](/images/lekt2105.jpg)
+Abb.: भगवद्गीता
+(Bildquelle: [Details](/licenses#lekt2105))
+:::
 > 
 > भिक्ष् 1 Ā भिक्षते Pass. भिक्ष्यते PPP भिक्षित (eigentlich ein Desiderativum zu भज्: wünschen, dass man teilhat): betteln
 > 
@@ -210,10 +239,12 @@ Orissa = ଓଡ଼ିଶା
 > 
 > &gt; भिक्षु m.: Bettler, Mönch
 
-![](/images/lekt2104.jpg)  
-Abb.: भिक्षवः  
-Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ  
-\[Bildquelle: Hanoi Mark. -- [http://www.flickr.com/photos/riverdaleto/112938743/](http://www.flickr.com/photos/riverdaleto/112938743/). -- Zugriff am 2008-12-12. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt2104.jpg)
+Abb.: भिक्षवः
+(Bildquelle: [Details](/licenses#lekt2104))
+:::
+
 
 दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट : verderben (intransitiv), schlecht werden, zuschande werden
 
@@ -246,3 +277,17 @@ B) Übersetzen Sie:
 गुरूपनीतनरो द्विजः ॥५॥
 
 जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥६॥
+
+### Quellen
+
+::: deleteme-box
+**lekt2101:** सती-Gedenkplatte im Palast von Jodhpur - जोधपुर / Rajasthan - राजस्थान [Bildquelle: Flicka / Wikipedia. GNU FDLicense]
+
+**lekt2102:** "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva". [Bildquelle: PHGCOM / Wikipedia. GNU FDLicense]
+
+**lekt2103:** भगवान्कृष्णः als जगन्नाथ (rechts) mit seiner Halbschwester सुभद्रा (Mitte) und seinem älteren Bruder बलराम, Orissa = ଓଡ଼િଶा [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense]
+
+**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ [Bildquelle: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+
+**lekt2105:** भगवद्गीता - Manuskript, 19. Jhdt. [Bildquelle: Wikipedia, Public domain]
+:::

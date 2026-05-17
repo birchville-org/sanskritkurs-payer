@@ -241,10 +241,12 @@ davon:
 
 > घात m.: Tötung
 
-![](/images/lekt1703.jpg)  
-Abb.: घाताः  
-Bangalore = ಬೆಂಗಳೂರು  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/143399263/](http://www.flickr.com/photos/mattlogelin/143399263/). -- Zugriff am 2008-12-07. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt1703.jpg)
+Abb.: घाताः
+(Bildquelle: [Details](/licenses#lekt1703))
+:::
+
 
 आस् 2Ā आस्ते Pass. आस्यते PPP आसित : sitzen
 
@@ -252,9 +254,12 @@ davon:
 
 > आसन n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
 
-![](/images/lekt1701.jpg)  
-Abb.: योगासनम्  
-\[Bildquelle: von tlongacre. -- [http://www.flickr.com/photos/tlongacre/2177187487/](http://www.flickr.com/photos/tlongacre/2177187487/). -- Zugriff am 2008-12-07. -- [](http://creativecommons.org/licenses/by-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine Bearbeitung)\]
+::: media
+![](/images/lekt1701.jpg)
+Abb.: योगासनम्
+(Bildquelle: [Details](/licenses#lekt1701))
+:::
+
 
 रुद् 2 P रोदिति Pass. रुद्यते PPP रुदित : weinen, heulen
 
@@ -266,9 +271,12 @@ davon:
 
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : melken
 
-![](/images/lekt1702.jpg)  
-Abb.: दोग्धि  
-\[Bildquelle: Roshnii. -- [http://www.flickr.com/photos/roshnii/110086482/](http://www.flickr.com/photos/roshnii/110086482/). -- Zugriff am 2008-12-07.  -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
+::: media
+![](/images/lekt1702.jpg)
+Abb.: दोग्धि
+(Bildquelle: [Details](/licenses#lekt1702))
+:::
+ 
 
 दिश् 6 U दिशति Pass. दिश्यते PPP दिष्ट : zeigen, anweisen, befehlen
 
@@ -399,3 +407,14 @@ B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
 ४५. जीव्यते
 
 ४६. दिश्यन्ते
+
+### Quellen
+
+::: deleteme-box
+**lekt1701:** [Bildquelle: von tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
+
+**lekt1702:** [Bildquelle: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+
+**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+:::
+
