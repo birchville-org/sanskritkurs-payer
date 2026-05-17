@@ -70,10 +70,13 @@ def main():
                 print(f"Source not found: {source_path}")
                 continue
             
-            # Smart check: skip if file already successfully translated (size > 500 bytes)
+            # Smart check: skip only if target exists, is valid (>500 bytes), and is newer than source
             if os.path.exists(target_path) and os.path.getsize(target_path) > 500:
-                print(f"[{lang}] Skipping {filename} (already translated).")
-                continue
+                if os.path.getmtime(target_path) > os.path.getmtime(source_path):
+                    print(f"[{lang}] Skipping {filename} (already up to date).")
+                    continue
+                else:
+                    print(f"[{lang}] Outdated translation detected for {filename} (source modified). Re-translating...")
             
             print(f"[{lang}] Translating {filename}...")
             with open(source_path, 'r', encoding='utf-8') as f:
