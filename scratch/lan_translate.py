@@ -43,7 +43,7 @@ German Source:
             headers={'Content-Type': 'application/json'}
         )
         try:
-            with urllib.request.urlopen(req, timeout=120) as response:
+            with urllib.request.urlopen(req, timeout=600) as response:
                 res_data = json.loads(response.read().decode('utf-8'))
                 return res_data['choices'][0]['message']['content']
         except Exception as e:
