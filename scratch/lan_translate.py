@@ -8,7 +8,7 @@ import sys
 API_URL = "http://192.168.1.22:8000/v1/chat/completions"
 MODEL = "mlx-community/Qwen3.6-35B-A3B-4bit"
 LANGUAGES = ["it", "es", "en", "ru", "uk", "bg"]
-LESSONS = list(range(1, 11))
+LESSONS = list(range(1, 62))
 BASE_DIR = "/Volumes/SanDisk1TB/proj/Payer/docs"
 SOURCE_DIR = os.path.join(BASE_DIR, "lektionen")
 
