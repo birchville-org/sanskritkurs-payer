@@ -149,9 +149,9 @@ Beispiele:
 > 
 > |   | 3.sg.Ā | 3.pl.Ā |
 > | --- | --- | --- |
-> | Indikativ Präsens | मिमीते  
-> mimī-te | मिमते  
-> mim-ate |
+> | Indikativ Präsens | मिमीते   | |
+> mimī-te | मिमते   | | |
+> mim-ate | | | |
 :::: grammar-box
 
 | | 3. sg. Ā. | 3. pl. Ā. |
@@ -161,8 +161,8 @@ Beispiele:
 | **Optativ** | **mimīta**[[br]](मिमीत)[[br]](mim-ī-ta !) | **mimīran**[[br]](मिमीरन्)[[br]](mim-ī-ran) |
 
 ::::
-> | Indikativ Präsens | जहाति | जहति  
-> jah-ati |
+> | Indikativ Präsens | जहाति | जहति   |
+> jah-ati | | | |
 > | Imperfekt | अजहात् | अजहुर् |
 :::: grammar-box
 
@@ -179,8 +179,8 @@ Beachten Sie bei धा das Hauchdissimilationsgesetz!
 
 > |   | 3.sg.P | 3.pl.P | 3.sg.Ā | 3.pl.Ā |
 > | --- | --- | --- | --- | --- |
-> | Indikativ Präsens | दधाति | दधति  
-> dadh-ati | धत्ते  
+> | Indikativ Präsens | दधाति | दधति   | | |
+> dadh-ati | धत्ते   | | | | |
 > dadh-te  
 :::: grammar-box
 
@@ -214,7 +214,7 @@ Beachten Sie bei धा das Hauchdissimilationsgesetz!
 > |   | Maskulinum | Neutrum | Femininum |
 > | --- | --- | --- | --- |
 > | Singular |   |   |   |
-> | 1\. Nominativ | ददत्  
+> | 1\. Nominativ | ददत्   | | |
 :::: grammar-box
 
 | | Maskulinum[[br]]पुंल्लिङ्ग | Neutrum[[br]]नपुंसकलिङ्ग | Femininum[[br]]स्त्रीलिङ्ग |

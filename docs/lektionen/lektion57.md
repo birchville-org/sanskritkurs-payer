@@ -6,9 +6,9 @@
 | Der s-Aorist wird zu den meisten अनिट्-Wurzeln gebildet, sofern sie nicht ausschließlich eine andere Aoristform haben. Fakultative अनिट्-Wurzeln können im allgemeinen wahlweise diesen oder den iṣ-Aorist bilden.
 Auch अनिट्-Wurzeln, die das परस्मैपद nach der 1.,2. oder 6. Form des Aorist bilden, bilden das आत्मनेपद nach dem s-Aorist.
 
- |
+ | --- |
 | --- |
-| Bildung:
+| Bildung: |
 
 Augment + Wurzel + s + athematische Sekundärendung
 
@@ -53,13 +53,13 @@ Beispiele:
 > |   | 
 > 3.sg.P
 > 
->  |
+>  | | |
 > | --- | --- |
-> | चि 5U | 
+> | चि 5U |  |
 > 
 > अचैषीत्
 > 
->  |
+>  | | |
 > | श्रु 5P | अश्रौषीत् |
 > | कृ 8U | अकार्षीत् |
 > | भज् 1U | अभाक्षीत् |
@@ -69,19 +69,19 @@ Beispiele:
 > |   | 
 > 3.sg.Ā
 > 
->  |
+>  | | |
 > | --- | --- |
-> | चि 5U | 
+> | चि 5U |  |
 > 
 > अचेष्ट
 > 
->  |
+>  | | |
 > | नी 1U | अनेष्ट |
 > | सू 2/4 | असोष्ट |
 > |   | sg.Ā |
-> | दा 3U | अदिषि  
+> | दा 3U | अदिषि   |
 > अदिथास्  
-> अदित |
+> अदित | | |
 > |   | 1.sg.Ā |
 > | कृ 8U | अकृषि |
 > | पच् 1U | अपक्षि |

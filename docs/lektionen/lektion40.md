@@ -29,8 +29,8 @@ Endungen der ersten Person (तृतीयः) im Perfekt (लिट्)
 
 :::: grammar-box
 
-| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् |
-| :--- | :--- |
+| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+| :--- | :--- | --- | --- |
 | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
 | **-a** | **-ma** | **-e** | **-mahe** |
 
@@ -392,9 +392,9 @@ Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlech
 | **7. Lokativ** | **mayi**[[br]](मयि) | **asmāsu**[[br]](अस्मासु) |
 
 ::::
-| षष्ठी | मम  
-मे | अस्माकम्  
-नस् |
+| षष्ठी | मम   | |
+मे | अस्माकम्   | | |
+नस् | | | |
 | सप्तमी | मयि | अस्मासु |
 
 Die kürzeren Formen, die oben an zweiter Stelle stehen (मा, मे, नस्) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden.

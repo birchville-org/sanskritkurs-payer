@@ -60,7 +60,7 @@ Beispiele:
 > | --- | --- | --- | --- | --- |
 > | पॄ 3P | पपार | पपरुर् |   |   |
 > | स्मृ 1P | समार | सस्मरुर् |   |   |
-> | संस्कृ 8U | सञ्चस्कार  
+> | संस्कृ 8U | सञ्चस्कार   | | | |
 :::: grammar-box
 
 | Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
@@ -83,8 +83,8 @@ Wird gebildet von Wurzeln auf -ā / -āi
 
 Beispiel:
 
-> | Wurzel | 3.sg.Perf.P  
-> 1.sg.Perf.P | 3.pl.Perf.P | 3.sg.Perf.Ā | 3.pl.Perf.Ā |
+> | Wurzel | 3.sg.Perf.P   | | | |
+> 1.sg.Perf.P | 3.pl.Perf.P | 3.sg.Perf.Ā | 3.pl.Perf.Ā | | |
 > | --- | --- | --- | --- | --- |
 :::: grammar-box
 
@@ -125,7 +125,7 @@ Beispiele:
 
 > | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P | 3.sg.Perf.Ā | 3.pl.Perf.Ā |
 > | --- | --- | --- | --- | --- |
-> | गम् 1P | जगाम | जग्मुर्  
+> | गम् 1P | जगाम | जग्मुर्   | | |
 :::: grammar-box
 
 | Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |

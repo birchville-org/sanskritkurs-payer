@@ -52,34 +52,34 @@ Beispiele:
 
 > |   | Pert.Präs.Ā |
 > | --- | --- |
-> | द्विष् 2U | 
+> | द्विष् 2U |  |
 > द्वि्षाण
 > 
->  |
+>  | |
 > | हु 3P | 
 > 
 > &lt;जुह्वान&gt;  
 > ju-hu + āna
 > 
->  |
+>  | |
 > | सु 5U | 
 > 
 > सुन्वान  
 > su-nu + āna
 > 
->  |
+>  | |
 > | रुध् | 
 > 
 > रुन्धान  
 > ru-n-dh-āna
 > 
->  |
+>  | |
 > | तन् | 
 > 
 > तन्वान  
 > tan-u + āna
 > 
->  |
+>  | |
 > | क्री | 
 > 
 > क्रीणान  
@@ -134,10 +134,10 @@ Beispiele:
 > | जि 1P | जयनीय 3 | "zu besiegender" |
 > | कृ 8U | करणीय 3 | "zu tuendes" |
 > | दृश् | दर्शनीय 3 | "was man sehen muss; sehenswertes" |
-> | बुध् Kaus. | बोधनीय 3  
-> bodh-aya - aya + -anīya | "ein zu weckender" |
-> | दा Kaus. | दापनीय 3  
-> dā-paya - aya + -anīya | "was man geben lassen muss" |
+> | बुध् Kaus. | बोधनीय 3   | |
+> bodh-aya - aya + -anīya | "ein zu weckender" | | |
+> | दा Kaus. | दापनीय 3   | |
+> dā-paya - aya + -anīya | "was man geben lassen muss" | | |
 
 #### 41.2.2.3. Das Suffix -य / -या
 
@@ -220,7 +220,7 @@ Beispiel:
 > मान्य 3  
 > mān-aya - aya + ya
 > 
->  | "zu ehrender, hochverehrter" |
+>  | "zu ehrender, hochverehrter" | | |
 > | --- | --- | --- |
 > 
 > 1 eigentl. Denominativ zu मान

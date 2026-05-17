@@ -33,17 +33,17 @@ Beispiele:
 |   |   | Parasmaipada | 
 Ātmanepada
 
- |
+ | --- | --- | --- | --- |
 | --- | --- | --- | --- |
 | Indikativ |   |   |   |
-|   | 3\. sg. | रुणद्धि  
-ru + na + dh + ti | रुन्द्धे  
-ru-n + dh + te |
-|   | 3\. pl. | रुन्धन्ति  
-ru-n-dh-anti | रुन्धते  
-ru-n-dh-ate |
+|   | 3\. sg. | रुणद्धि   | |
+ru + na + dh + ti | रुन्द्धे   | | | |
+ru-n + dh + te | | | | |
+|   | 3\. pl. | रुन्धन्ति   | |
+ru-n-dh-anti | रुन्धते   | | | |
+ru-n-dh-ate | | | | |
 | Optativ |   |   |   |
-|   | 3\. sg. | रुन्ध्यात्  
+|   | 3\. sg. | रुन्ध्यात्   | |
 :::: grammar-box
 
 | | | Parasmaipada | Ātmanepada |

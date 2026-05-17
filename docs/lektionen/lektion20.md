@@ -65,9 +65,9 @@ Beispiel:
 
 > गुणवत्पुत्रो ब्राह्मणः =  गुणवान्पुत्रो यस्य स ब्राह्मणः = "ein Brahmane, dessen Sohn / Söhne gute Eigenschaften besitzt / besitzen"
 
- |
+ | --- |
 | --- |
-| Besonders häufig ist die -- bei Tatpuruṣa seltene -- Attributivbestimmung durch ein PPP. Das Relativpronomen steht dann bei der Auflösung meist im Instrumentalis (तृतीया) (seltener im Genetiv / षष्ठी).
+| Besonders häufig ist die -- bei Tatpuruṣa seltene -- Attributivbestimmung durch ein PPP. Das Relativpronomen steht dann bei der Auflösung meist im Instrumentalis (तृतीया) (seltener im Genetiv / षष्ठी). |
 
 Faustregel:
 
@@ -97,9 +97,9 @@ Beispiel:
 
 > देवा इन्द्रादयः = इन्द्र आदिर्येषां ते देवाः = "Die Götter, deren Anfang Indra ist" = "die Götter Indra u.s.w." = "Indra und die übrigen Götter"
 
- |
+ | --- |
 | --- |
-| Zum Ausdruck von "nur" kann man bahuvrīhis mit मात्रा f. "Maß, Begrenzung" als Hinterglied verwenden:
+| Zum Ausdruck von "nur" kann man bahuvrīhis mit मात्रा f. "Maß, Begrenzung" als Hinterglied verwenden: |
 
 Beispiel:
 

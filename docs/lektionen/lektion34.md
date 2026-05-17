@@ -74,7 +74,7 @@ Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal r
 | **bhṛ**[[br]](भृ) | **babhāra**[[br]](बभार) |
 
 ::::
->  |
+>  | | |
 > | भृ | बभार |
 
 Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".
@@ -97,7 +97,7 @@ Beispiele:
 
 > | Wurzel | 3.sg.Perf.P |
 > | --- | --- |
-> | अस् 2 "sein" und अस् 4 "werfen" | 
+> | अस् 2 "sein" und अस् 4 "werfen" |  |
 > आस  
 > a + as-a
 > 
@@ -148,7 +148,7 @@ Beispiele:
 
 > | Wurzel | 3.sg.Perf. | 3.pl.Perf. |
 > | --- | --- | --- |
-> | बन्ध् 9P | बबन्ध  
+> | बन्ध् 9P | बबन्ध   | |
 :::: grammar-box
 
 | Wurzel[[br]]धातु | 3. sg. Perf. | 3. pl. Perf. |
