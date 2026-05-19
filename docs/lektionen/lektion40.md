@@ -18,10 +18,11 @@
 > पादं सब्रह्मचारिभ्यःयः  
 > पादं कालक्रमेण च ॥३॥
 
-![](/images/lekt4005.jpg)  
-Abb.: पादं सब्रह्मचारिभ्यः  
-Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம்  
-\[Bildquelle: kifo. -- [http://www.flickr.com/photos/turningpoint/2209292/](http://www.flickr.com/photos/turningpoint/2209292/). -- Zugriff am 2009-01-02. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\]
+::: media
+![lekt4005.jpg](/images/lekt4005.jpg)
+Abb.: पादं सब्रह्मचारिभ्यः
+(Bildquelle: [Details](/licenses#lekt4005))
+:::
 
 ## 40.2. Bildung der Verbformen der ersten Person Perfekt (लिट्)
 
@@ -29,9 +30,9 @@ Endungen der ersten Person (तृतीयः) im Perfekt (लिट्)
 
 :::: grammar-box
 
-| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
-| :--- | :--- | --- | --- |
-| **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
+| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+| :--- | :--- | :--- | :--- |
+| **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 | **-a** | **-ma** | **-e** | **-mahe** |
 
 ::::
@@ -381,21 +382,17 @@ Da ein Verbum finitum (konjugiertes Verb) den Agens (कर्तृ) mit ausdr�
 Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe.
 :::: grammar-box
 
-| Kasus | Singular[[br]]"ich" | Plural[[br]]"wir" |
+| **विभक्तिः**[[br]]Kasus | **एकवचनम्**[[br]]Singular ("ich") | **बहुवचनम्**[[br]]Plural ("wir") |
 | :--- | :--- | :--- |
-| **1. Nominativ** | **aham**[[br]](अहम्) | **vayam**[[br]](वयम्) |
-| **2. Akkusativ** | **mām**[[br]](माम्)[[br]]**mā**[[br]](मा) | **asmān**[[br]](अस्मान्)[[br]]**naḥ**[[br]](नस्) |
-| **3. Instrumentalis** | **mayā**[[br]](मया) | **asmābhiḥ**[[br]](अस्माभिस्) |
-| **4. Dativ** | **mahyam**[[br]](मह्यम्)[[br]]**me**[[br]](मे) | **asmabhyam**[[br]](अस्मभ्यम्)[[br]]**naḥ**[[br]](नस्) |
-| **5. Ablativ** | **mat**[[br]](मत्) | **asmat**[[br]](अस्मत्) |
-| **6. Genetiv** | **mama**[[br]](मम)[[br]]**me**[[br]](मे) | **asmākam**[[br]](अस्माकम्)[[br]]**naḥ**[[br]](नस्) |
-| **7. Lokativ** | **mayi**[[br]](मयि) | **asmāsu**[[br]](अस्मासु) |
+| **प्रथमा**[[br]]1. Nominativ | **अहम्** | **वयम्** |
+| **द्वितीया**[[br]]2. Akkusativ | **माम्** / **मा** | **अस्मान्** / **नस्** |
+| **तृतीया**[[br]]3. Instrumentalis | **मया** | **अस्माभिस्** |
+| **चतुर्थी**[[br]]4. Dativ | **मह्यम्** / **मे** | **अस्मभ्यम्** / **नस्** |
+| **पञ्चमी**[[br]]5. Ablativ | **मत्** | **अस्मत्** |
+| **षष्ठी**[[br]]6. Genetiv | **मम** / **मे** | **अस्माकम्** / **नस्** |
+| **सप्तमी**[[br]]7. Lokativ | **मयि** | **अस्मासु** |
 
 ::::
-| षष्ठी | मम   | |
-मे | अस्माकम्   | | |
-नस् | | | |
-| सप्तमी | मयि | अस्मासु |
 
 Die kürzeren Formen, die oben an zweiter Stelle stehen (मा, मे, नस्) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden.
 
@@ -464,15 +461,19 @@ z.B. मत्पुस्तकम् "mein Buch" ; अस्मद्पुस
 > 
 > तीर्थ n.: Furt, heiliger Badeplatz, Pilgerort
 
-![](/images/lekt4003.jpg)  
-Abb.: हरिद्वारे तीर्थम्  
-\[Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2085710183/](http://www.flickr.com/photos/mckaysavage/2085710183/). -- Zugriff am 2009-01-02. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons lizenz (Namensnennung)\]
+::: media
+![lekt4003.jpg](/images/lekt4003.jpg)
+Abb.: हरिद्वारे तीर्थम्
+(Bildquelle: [Details](/licenses#lekt4003))
+:::
 
 > तीर्थङ्कर m. (aus: तीर्थम्+ कृ): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
 
-![](/images/lekt4002.jpg)  
-Abb.: तीर्थङ्करः  
-\[Bildquelle: wallyg. -- [http://www.flickr.com/photos/wallyg/1657905479/](http://www.flickr.com/photos/wallyg/1657905479/). -- Zugriff am 2009-01-02. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![lekt4002.jpg](/images/lekt4002.jpg)
+Abb.: तीर्थङ्करः
+(Bildquelle: [Details](/licenses#lekt4002))
+:::
 
 अव Präverb.: herab, hinab, weg, ab-
 
@@ -482,9 +483,11 @@ Abb.: तीर्थङ्करः
 > 
 > अवतार m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
 
-![](/images/lekt4001.jpg)  
-Abb.: विष्णोर्दशावताराः  
-Im Uhrzeigersinn: मत्स्य, कुर्म, वाराह, वामन, कृष्ण, कल्कि, बुद्ध, परशुराम, राम, नरसिंह, in der Mitte: कृष्ण\[Bildquelle: Wikipedia. Public domain\]
+::: media
+![lekt4001.jpg](/images/lekt4001.jpg)
+Abb.: विष्णोर्दशावताराः
+(Bildquelle: [Details](/licenses#lekt4001))
+:::
 
 स्वप् 2P स्वपिति,  स्वपन्ति : schlafen, sich schlafen legen
 
@@ -502,11 +505,11 @@ Im Uhrzeigersinn: मत्स्य, कुर्म, वाराह, वा�
 > 
 > सुप्ति f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
 
-![](/images/lekt4004.jpg)  
-Abb.: स्वपन्ति  
-Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ  
-\[Bildquelle: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2456084948/](http://www.flickr.com/photos/snapflickr/2456084948/). -- Zugriff am 2009-01-02. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]   
- 
+::: media
+![lekt4004.jpg](/images/lekt4004.jpg)
+Abb.: स्वपन्ति
+(Bildquelle: [Details](/licenses#lekt4004))
+:::
 
 ## 40.7. Übung
 
@@ -626,3 +629,13 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 36.  ऐक्षे
 37.  आह
 38.  आहन्
+
+::: deleteme-box
+### Quellen
+
+- **Image lekt4005.jpg** (Abb.: पादं सब्रह्मचारिभ्यः): Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம் [Bildquelle: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, share alike)]
+- **Image lekt4003.jpg** (Abb.: हरिद्वारे तीर्थम्): [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)]
+- **Image lekt4002.jpg** (Abb.: तीर्थङ्करः): [Bildquelle: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+- **Image lekt4001.jpg** (Abb.: विष्णोर्दशावताराः): Im Uhrzeigersinn: मत्स्य, कुर्म, वाराह, वामन, कृष्ण, कल्कि, बुद्ध, परशुराम, राम, नरसिंह, in der Mitte: कृष्ण [Bildquelle: Wikipedia. Public domain]
+- **Image lekt4004.jpg** (Abb.: स्वपन्ति): Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+:::
