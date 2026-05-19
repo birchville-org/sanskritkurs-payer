@@ -1,4 +1,3 @@
-
 # Lektion 20
 
 ## 20.1. Possesivkomposita = बहुव्रीहि m.
@@ -12,42 +11,57 @@ Abb.: बहुव्रीहिः पुरुषः
 
 बहुव्रीहिः = बहवो व्रीहयो यस्य सः = "einer, der viel Reis besitzt"
 
-Ein Bahuvrīhi bezeichnet im Unterschied zum Tatpuruṣa etwas anderes, als durch seine Glieder ausgedrückt wird: während बालपुत्रः als Tatpuruṣa aufgelöst "ein junger Sohn" bedeutet, also etwas, das durch das Schlussglied des Kompositums (पुत्र) ausgedrückt wird, bedeutet बालपुत्रः als Bahuvrīhi aufgelöst "einer, dessen Sohn jung ist", d.h. das Bezeichnete ist weder der Sohn (पुत्र) noch unbedingt jung (बाल), sondern eine vom jungen Sohn verschiedene Person, nämlich sein Vater.
+:::: grammar-box
 
-Possessivkomposita sind zunächst immer Adjektive, die allerdings substantiviert werden können. Deshalb hängt das grammatische Geschlecht eine Bahuvrīhi von dem ab, worauf sich das Bahuvrīhi bezieht, und nicht von Geschlecht des letzten Kompositionsgliedes.
+**Ein Bahuvrīhi bezeichnet im Unterschied zum Tatpuruṣa etwas anderes, als durch seine Glieder ausgedrückt wird: während बालपुत्रः als Tatpuruṣa aufgelöst "ein junger Sohn" bedeutet, also etwas, das durch das Schlussglied des Kompositums (पुत्र) ausgedrückt wird, bedeutet बालपुत्रः als Bahuvrīhi aufgelöst "einer, dessen Sohn jung ist", d.h. das Bezeichnete ist weder der Sohn (पुत्र) noch unbedingt jung (बाल), sondern eine vom jungen Sohn verschiedene Person, nämlich sein Vater.**
 
-Schema für die Auflösung eines Bahuvrīhi:
+**Possessivkomposita sind zunächst immer Adjektive, die allerdings substantiviert werden können. Deshalb hängt das grammatische Geschlecht eine Bahuvrīhi von dem ab, worauf sich das Bahuvrīhi bezieht, und nicht von Geschlecht des letzten Kompositionsgliedes.**
 
-1\. Glied meist im Nominativ (प्रथमा) Sing., Dual oder Plural -- 2. Glied im Nominativ Sing., Dual oder Plural -- Relativpronomen in einem anderen Kasus als Nominativ (meist Genetiv - षष्ठी) und in Geschlecht und Zahl des Gesamtbahuvrīhi -- Demonstrativpronomen in Zahl, Fall und Geschlecht des Gesamtbahuvrīhi.
+::::
+
+:::: grammar-box
+
+**Schema für die Auflösung eines Bahuvrīhi:**
+
+**1. Glied meist im Nominativ (प्रथमा) Sing., Dual oder Plural -- 2. Glied im Nominativ Sing., Dual oder Plural -- Relativpronomen in einem anderen Kasus als Nominativ (meist Genetiv - षष्ठी) und in Geschlecht und Zahl des Gesamtbahuvrīhi -- Demonstrativpronomen in Zahl, Fall und Geschlecht des Gesamtbahuvrīhi.**
+
+::::
 
 Beispiele:
 
-> गतपापः = गतं पापं यस्य सः = "einer, dessen Böses gegangen ist" = "einer, der frei von Übeltaten ist"
-> 
-> &gt; Akk. sg. गतपापम् =  गतं पापं यस्य तम्
-> &gt; 
-> &gt; Inst. sg. गतपापेन = गतं पापं यस्य तेन
-> &gt; 
-> &gt; Gen. sg. गतपापस्य = गतं पापं यस्य तस्य
-> &gt; 
-> &gt; Nom. pl. गतपापाः = गतानि पापानि येषां ते
-> &gt; 
-> &gt; usw.
-> 
-> अस्तमोहा = अस्तो मोहो यया सा = "eine (Frau), die die Verblendung abgeworfen hat"
-> 
-> प्राप्तोदको ग्रामः = प्राप्तमुदकं यं स ग्रामः = "Ein Dorf, an das das Wasser herangekommen ist" = "ein von der Überschwemmung bedrohtes Dorf"
-> 
-> पुण्यवत्पुत्रः als Bahuvrīhi = पुण्यवान्पुत्रो यस्य सः, oder: पुण्यवन्तः पुत्रा यस्य सः = "einer, dessen Sohn Verdienst besitzt" oder: "einer, dessen Söhne Verdienst besitzen"
 
-Das Verhältnis von Vorderglied zu Hinterglied kann bei einem Bahuvrīhi sein:
+::: indent
+गतपापः = गतं पापं यस्य सः = "einer, dessen Böses gegangen ist" = "einer, der frei von Übeltaten ist"
 
-*   attributiv
-*   appositionell
-*   kasuell
-*   adverbial
+Akk. sg. गतपापम् = गतं पापं यस्य तम्
 
-Wie beim Tatpuruṣa steht das näher bestimmte Glied meist an zweiter Stelle.
+Inst. sg. गतपापेन = गतं पापं यस्य तेन
+
+Gen. sg. गतपापस्य = गतं पापं यस्य तस्य
+
+Nom. pl. गतपापाः = गतानि पापानि yeषां ते
+
+usw.
+
+अस्तमोहा = अस्तो मोहो यया सा = "eine (Frau), die die Verblendung abgeworfen hat"
+
+प्राप्तोदको ग्रामः = प्राप्तमुदकं यं s ग्रामः = "Ein Dorf, an das das Wasser herangekommen ist" = "ein von der Überschwemmung bedrohtes Dorf"
+
+पुण्यवत्पुत्रः als Bahuvrīhi = पुण्यवान्पुत्रो यस्य सः, oder: पुण्यवन्तः पुत्रा यस्य सः = "einer, dessen Sohn Verdienst besitzt" oder: "einer, dessen Söhne Verdienst besitzen"
+:::
+
+:::: grammar-box
+
+**Das Verhältnis von Vorderglied zu Hinterglied kann bei einem Bahuvrīhi sein:**
+
+*   **attributiv**
+*   **appositionell**
+*   **kasuell**
+*   **adverbial**
+
+**Wie beim Tatpuruṣa steht das näher bestimmte Glied meist an zweiter Stelle.**
+
+::::
 
 Traditionell unterscheidet man:
 
@@ -58,60 +72,82 @@ Traditionell unterscheidet man:
 
 ## 20.2. Bahuvrīhi mit attributivem Vorderglied
 
-| Schema:
-Adjektiv -- Nomen
+:::: grammar-box
 
-Beispiel:
+**Schema:**
 
-> गुणवत्पुत्रो ब्राह्मणः =  गुणवान्पुत्रो यस्य स ब्राह्मणः = "ein Brahmane, dessen Sohn / Söhne gute Eigenschaften besitzt / besitzen"
+::: indent
+**Adjektiv -- Nomen**
+:::
 
- | --- |
-| --- |
-| Besonders häufig ist die -- bei Tatpuruṣa seltene -- Attributivbestimmung durch ein PPP. Das Relativpronomen steht dann bei der Auflösung meist im Instrumentalis (तृतीया) (seltener im Genetiv / षष्ठी). |
+**Beispiel:**
 
-Faustregel:
+::: indent
+गुणवत्पुत्रो ब्राह्मणः =  गुणवान्पुत्रो यस्य स ब्राह्मणः = "ein Brahmane, dessen Sohn / Söhne gute Eigenschaften besitzt / besitzen"
+:::
 
-*   PPP - Substantiv = meistens Bahuvrīhi
-*   Substantiv -- PPP = meistens Tatpuruṣa
+**Besonders häufig ist die -- bei Tatpuruṣa seltene -- Attributivbestimmung durch ein PPP. Das Relativpronomen steht dann bei der Auflösung meist im Instrumentalis (तृतीया) (seltener im Genetiv / षष्ठी).**
 
-Beispiel:
+**Faustregel:**
 
-> कृतफल 3 = कृतं फलं येन सः । यया सा । येन तत् = "einer / eine /eines, der / die /das ein Ergebnis hervorgebracht hat, jemand / etwas effektives"
+*   **PPP - Substantiv = meistens Bahuvrīhi**
+*   **Substantiv -- PPP = meistens Tatpuruṣa**
 
- |
+**Beispiel:**
+
+::: indent
+कृतफल ३ = कृतं फलं yeन सः । यया सा । yeन तत् = "einer / eine / eines, der / die / das ein Ergebnis hervorgebracht hat, jemand / etwas effektives"
+:::
+
+::::
 
 ## 20.3. Bahuvrīhi mit appositionellem Vorderglied
 
-Schema:
+:::: grammar-box
 
-Substantiv -- Substantiv
+**Schema:**
 
-Beispiele:
+::: indent
+**Substantiv -- Substantiv**
+:::
 
-> शूरपुत्रो नरः = शूरा एव पुत्रा यस्य स नरः = "ein Mann, dessen Söhne Helden Sind"
-> 
-> तदन्त ३ = सो ऽन्तो यस्य सः । यस्याः सा । यस्य तत् = "der / die / das, dessen Ende dieses ist" = "damit endender"
+**Beispiele:**
 
-| Sehr wichtig sind appositionelle Bahuvrīhi mit den Endgliedern आदि । आदिक । आद्य "erster, Anfang",  seltener प्रभृति "Anfang". Solche Komposita entsprechen dem "u.s.w.":
-Beispiel:
+::: indent
+शूरपुत्रो नरः = शूरा एव पुत्रा यस्य स नरः = "ein Mann, dessen Söhne Helden sind"
 
-> देवा इन्द्रादयः = इन्द्र आदिर्येषां ते देवाः = "Die Götter, deren Anfang Indra ist" = "die Götter Indra u.s.w." = "Indra und die übrigen Götter"
+तदन्त ३ = सो ऽन्तो यस्य सः । यस्याः सा । यस्य तत् = "der / die / das, dessen Ende dieses ist" = "damit endender"
+:::
 
- | --- |
-| --- |
-| Zum Ausdruck von "nur" kann man bahuvrīhis mit मात्रा f. "Maß, Begrenzung" als Hinterglied verwenden: |
+::::
 
-Beispiel:
+:::: grammar-box
 
-> शब्दमात्रम् = शब्दो मात्रा यस्य तत् = "das, dessen Maß ein Wort ist" = "nur ein Wort"
+**Sehr wichtig sind appositionelle Bahuvrīhi mit den Endgliedern आदि । आदिक । आद्य "erster, Anfang", seltener प्रभृति "Anfang". Solche Komposita entsprechen dem "u.s.w.":**
 
-मात्र nach einem PPP ist mit "sobald als" zu übersetzen:
+**Beispiel:**
 
-Beispiel:
+::: indent
+देवा इन्द्रादयः =  इन्द्र आदिर्येषां ते देवाः = "Die Götter, deren Anfang Indra ist" = "die Götter Indra u.s.w." = "Indra und die übrigen Götter"
+:::
 
-> जातमात्रं शत्रुं घ्नन्ति = जातं मात्रा यस्य तं शत्रुं घ्नन्ति = "sie erschlagen einen Feind, dessen Maß das Entstehen ist" = "sie erschlagen den feind, sobald er entstanden ist"
+**Zum Ausdruck von "nur" kann man bahuvrīhis mit मात्रा f. "Maß, Begrenzung" als Hinterglied verwenden:**
 
- |
+**Beispiel:**
+
+::: indent
+शब्दमात्रम् = शब्दो मात्रा यस्य तत् = "das, dessen Maß ein Wort ist" = "nur ein Wort"
+:::
+
+**मात्र nach einem PPP ist mit "sobald als" zu übersetzen:**
+
+**Beispiel:**
+
+::: indent
+जातमात्रं शत्रुं घ्नन्ति = जातं मात्रा यस्य तं शत्रुं घ्नन्ति = "sie erschlagen einen Feind, dessen Maß das Entstehen ist" = "sie erschlagen den Feind, sobald er entstanden ist"
+:::
+
+::::
 
 ::: media
 ![](/images/lekt2005.jpg)
@@ -126,15 +162,23 @@ d.h. Bahuvrīhi, deren Vorderglied einen anderen Kasus als den Nominativ (प्
 
 Beispiel:
 
-> देवरूपा = देवस्यैव रूपं यस्याः सा = "eine (Frau), deren Gestalt die eines Gottes ist" "eine Frau von göttlichem Aussehen"
+::: indent
+देवरूपा = देवस्यैव रूपं यस्याः सा = "eine (Frau), deren Gestalt die eines Gottes ist" "eine Frau von göttlichem Aussehen"
+:::
 
-Ausnahme zur allgemeinen Regel über die Reihenfolge der Kompositionsglieder:
+:::: grammar-box
 
-Das kasuelle Glied steht an zweiter Stelle, wenn es einen Körperteil (bes. die Hand) bezeichnet:
+**Ausnahme zur allgemeinen Regel über die Reihenfolge der Kompositionsglieder:**
 
-Beispiel:
+**Das kasuelle Glied steht an zweiter Stelle, wenn es einen Körperteil (bes. die Hand) bezeichnet:**
 
-> दण्डहस्तः =  दण्डो हस्ते (Lok. sg.) यस्य सः = "einer, in dessen Hand sich ein Stock befindet" = "einer, der einen Stock in der Hand trägt."
+**Beispiel:**
+
+::: indent
+दण्डहस्तः =  दण्डो हस्ते (Lok. sg.) यस्य सः = "einer, in dessen Hand sich ein Stock befindet" = "einer, der einen Stock in der Hand trägt."
+:::
+
+::::
 
 ::: media
 ![](/images/lekt2001.jpg)
@@ -149,15 +193,23 @@ Im Vorderglied steht ein Adverb, eine Präposition, ein Präverb oder ein andere
 
 Beispiele:
 
-> अपुत्रो नरः = पुत्रो यस्य नास्ति स नरः = "ein Mann, der keinen Sohn hat" = "ein sohnloser Mann"
-> 
-> दुर्बल ३ = "jemand / etwas, dessen Kraft schlecht ist" = "kraftlos, schwach"
+::: indent
+अपुत्रो नरः = पुत्रो यस्य नास्ति स नरः = "ein Mann, der keinen Sohn hat" = "ein sohnloser Mann"
 
-सह "mit" als Vorderglied eines Bahuvrīhi wird oft durch स ersetzt.
+दुर्बल ३ = "jemand / etwas, dessen Kraft schlecht ist" = "kraftlos, schwach"
+:::
 
-Beispiel:
+:::: grammar-box
 
-> सपुत्रः = सहपुत्रः = पुत्रेण सहितः । पुत्रेण सह् = "mit einem Sohn", "von einem Sohn begleitet"
+**सह "mit" als Vorderglied eines Bahuvrīhi wird oft durch स ersetzt.**
+
+**Beispiel:**
+
+::: indent
+सपुत्रः =  सहपुत्रः =  पुत्रेण सहितः । पुत्रेण सह् = "mit einem Sohn", "von einem Sohn begleitet"
+:::
+
+::::
 
 ::: media
 ![](/images/lekt2006.jpg)
@@ -168,13 +220,17 @@ Abb.: सपुत्रा
 
 ## 20.6. Flexion des Schlussglieds eines Bahuvrīhi
 
-Das Schlussglied eines Bahuvrīhi wird unabhängig von seinem ursprünglichen Geschlecht als mehrgeschlechtliches Adjektiv flektiert. Hat also in einem Kompositum das Schlussglied einanderes als sein ursprüngliches Geschlecht, so muss es ein Bahuvrīhi sein, wenn es kein Samāhāradvanva (Neutrum sing.) ist.
+:::: grammar-box
 
-Bei der Adjektivierung werden
+**Das Schlussglied eines Bahuvrīhi wird unabhängig von seinem ursprünglichen Geschlecht als mehrgeschlechtliches Adjektiv flektiert. Hat also in einem Kompositum das Schlussglied ein anderes als sein ursprüngliches Geschlecht, so muss es ein Bahuvrīhi sein, wenn es kein Samāhāradvanva (Neutrum sing.) ist.**
 
-*   \-ā-Stämme im Maskulinum und Neutrum zu -a-Stämmen
-*   \-a-Stämme (m., n.) bilden ihr Femininum auf -ā oder -ī
-*   \-ī-Stämme (f.) müssen am Ende von bahuvrīhis das Suffix -ka, -kā, -ka (n.) annehmen; dieses Suffix können bzw. müssen auch viele andere Bahuvrīhi annehmen
+**Bei der Adjektivierung werden**
+
+*   **-ā-Stämme im Maskulinum und Neutrum zu -a-Stämmen**
+*   **-a-Stämme (m., n.) bilden ihr Femininum auf -ā oder -ī**
+*   **-ī-Stämme (f.) müssen am Ende von Bahuvrīhis das Suffix -ka, -kā, -ka (n.) annehmen; dieses Suffix können bzw. müssen auch viele andere Bahuvrīhi annehmen**
+
+::::
 
 ## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
 
@@ -205,7 +261,9 @@ Abb.: कृतकटा
 
 Obwohl jedes Bahuvrīhi durch einen Relativsatz aufgelöst wird, kann nicht jeder Relativsatz durch ein Bahuvrīhi ersetzt werden. Hermann Georg Jacobi (1850 - 1937), der das Verhältnis beider näher untersucht hat (Compositum und Nebensatz, 1897), schreibt:
 
-> "Wenn man aus dem Deutschen oder einer anderen modernen Sprache ins Sanskrit übersetzt, dürfen nicht alle Nebensätze durch Composita wiedergegeben werden, sondern nur die ausschmückenden und beschreibenden; diejenigen aber, welche eine begrifflich notwendige oder wichtige Bestimmung enthalten, erscheinen auch im Sanskrit als Relativsätze."
+::: indent
+"Wenn man aus dem Deutschen oder einer anderen modernen Sprache ins Sanskrit übersetzt, dürfen nicht alle Nebensätze durch Composita wiedergegeben werden, sondern nur die ausschmückenden und beschreibenden; diejenigen aber, welche eine begrifflich notwendige oder wichtige Bestimmung enthalten, erscheinen auch im Sanskrit als Relativsätze."
+:::
 
 ::: media
 ![](/images/lekt2002.jpg)
@@ -224,7 +282,7 @@ Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und b
 
 ::: media
 ![](/images/lekt2008.jpg)
-Abb.: आश्रmaः
+Abb.: आश्रमः
 (Bildquelle: [Details](/licenses#lekt2008))
 :::
 
@@ -443,12 +501,16 @@ B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit:
 
 मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनतश्चित्तप्रसादनम् ॥योगसूत्र १.३३॥
 
-> Erklärung: भाव्नातस् = भावना + Suffix -tas, das ablativische Bedeutung hat. Übersetzen Sie: "aufgrund von ..." oder ähnlich.
+::: indent
+Erklärung: भाव्नातस् = भावना + Suffix -tas, das ablativische Bedeutung hat. Übersetzen Sie: "aufgrund von ..." oder ähnlich.
+:::
 
 तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः ॥योगसूत्र २.१॥  
 समाधिभावनार्थः क्लेशतनूकरणार्थश्च ॥योगसूत्र २.२॥
 
-> Erklärung: तपस् n. (Deklination später): Glut, Hitze, Qual ; Askeseglut, Kasteiung
+::: indent
+Erklärung: तपस् n. (Deklination später): Glut, Hitze, Qual ; Askeseglut, Kasteiung
+:::
 
 ::: media
 ![](/images/lekt2010.jpg)
@@ -459,28 +521,37 @@ Abb.: तपस्
 
 त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः ॥सांख्यसूत्र १.१॥ (Zum Sāṃkhyasystem siehe Basham, Wonder S. 324f.)
 
-> Erklärung: त्रिविध ३ : "dreifach"
+::: indent
+Erklärung: त्रिविध ३ : "dreifach"
+:::
 
 Definition der Erlösung nach dem Nyāyasystem:
 
-> बाधनालक्षणं दुःखम् ॥न्यायसूत्र १.२१॥  
-> तदत्यन्तविमोक्षो ऽपवर्गः ॥न्यायसूत्र १.२२॥
+::: indent
+बाधनालक्षणं दुःखम् ॥न्यायसूत्र १.२१॥
+
+तदत्यन्तविमोक्षो ऽपवर्गः ॥न्यायसूत्र १.२२॥
+:::
 
 Ausspruch der Materialisten nach dem सर्वदर्शनसंग्रह :
 
-> न स्वर्गो नापवर्गो वा नैवात्मा पारलौकिकः ।  
-> नैव वर्णाश्रमादीनां क्रियाश्च फलदायिकाः ॥
-> 
-> Erklärung:  अत्मा = Nom.sg. mask. zu आत्मन् m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird"
+::: indent
+न स्वर्गो नापवर्गो वा नैवात्मा पारलौकिकः ।
+नैव वर्णाश्रमादीnaं क्रियाश्च फलदायिकाः ॥
+
+Erklärung: अत्मा = Nom.sg. mask. zu आत्मन् m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird"
+:::
 
 Ein सुभाषितम् :
 
-> देवानां करदा विप्रा  
-> विप्राणां करदा नृपाः ।  
-> नृपाणां करदा लोका  
-> लोकानां करदा मही ॥
-> 
-> Erläuterung: -da am Ende eines Kompositums: "gebend"
+::: indent
+देवानां करदा विप्रा  
+विप्राणां करदा नृपाः ।  
+नृपाणां करदा लोका  
+लोकानां करदा मही ॥
+
+Erläuterung: -da am Ende eines Kompositums: "gebend"
+:::
 
 ::: media
 ![](/images/lekt2009.jpg)
@@ -491,21 +562,25 @@ Abb.: लोकानां करदा मही
 
 Über Besitzverhältnisse:
 
-> भार्या पुत्रश्च दासश्च  
-> त्रय एवाधनाः स्मृताः ।  
-> यत्ते समधिगच्छन्ति  
-> यस्य ते तस्य तद्धनम् ॥मनुस्मृति ८.४१६॥
-> 
-> Erklärung: त्रयस् = Nom. mask. pl. zu त्रि "drei"
+::: indent
+भार्या पुत्रश्च दासश्च
+त्रय एवाधनाः स्मृताः ।
+यत्ते समधिगच्छन्ति
+यस्य ते तस्य तद्धनम् ॥मनुस्मृति ८.४१६॥
+
+Erklärung: त्रयस् = Nom. mask. pl. zu त्रि "drei"
+:::
 
 Ein सुभाषितम् über weibliche Schönheit:
 
-> तनुमध्यं पृथुश्रोणि  
-> रक्तौष्ठमसितेक्षणम् ।  
-> नतनाभि वपुः स्त्रीणां  
-> कं न हन्त्युन्नतस्तनम् ॥
-> 
-> Erklärung: alle Formen außer कं und स्त्रीणाम् sind Nom. sg. neut. und beziehen sich auf वपुस्.
+::: indent
+तनुमध्यं पृथुश्रोणि
+रक्तौष्ठमसितेक्षणम् ।
+नतनाभि वपुः स्त्रीणां
+कं न हन्त्युन्नतस्तनम् ॥
+
+Erklärung: alle Formen außer कं und स्त्रीणाम् sind Nom. sg. neut. und beziehen sich auf वपुस्.
+:::
 
 ::: media
 ![](/images/lekt2003.jpg)
@@ -516,14 +591,17 @@ Abb.: तनुमध्यं पृथुश्रोणि
 
 Noch ein सुभाषितम् :
 
-> सन्ति पुत्राः सुबहवो  
-> दरिद्राणामनिच्छताम् ।  
-> नास्ति पुत्रः समृद्धानां  
-> विचित्रं विधिचेष्टितम् ॥
+::: indent
+सन्ति पुत्राः सुबहवो
+दरिद्राणामनिच्छताम् ।
+नास्ति पुत्रः समृद्धानां
+विचित्रं विधिचेष्टितम् ॥
 
-### Quellen
+Erklärung: इच्छताम् = gen. Pl. Part Präs. P zu इष् : der wünschenden
+:::
 
 ::: deleteme-box
+### Quellen
 **lekt2001:** Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr. [Bildquelle: Wikipedia, Public domain]
 
 **lekt2002:** [Bildquelle: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926]
@@ -544,6 +622,3 @@ Noch ein सुभाषितम् :
 
 **lekt2010:** Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt. [Bildquelle: Wikipedia, GNU FDLicense]
 :::
-
-> 
-> Erklärung: इच्छताम् = gen. Pl. Part Präs. P zu इष् : der wünschenden

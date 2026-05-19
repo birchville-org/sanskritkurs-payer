@@ -1,3 +1,8 @@
+---
+title: Lektion 34
+lesson_id: 34
+status: stable
+---
 
 # Lektion 34
 
@@ -5,43 +10,39 @@
 
 Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 
-Es gibt zwei Arten der Perfektbildung:
-
-*   das reduplizierte Perfekt = द्वित्वलिट्
-*   das periphrastische Perfekt = अनुप्रयोगलिट्
-
- Das periphrastische Perfekt (अनुप्रयोगलिट्) wird gebraucht:
-
-1.  bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa)
-2.  bei Wurzeln, die mit einem langen Vokal (außer ā-) beginnen, bzw. mit einem Vokal (außer a-) vor zwei Konsonanten
-    
-3.  bei einigen sonstigen Wurzeln
-    
-
+::: grammar-box
+**Es gibt zwei Arten der Perfektbildung:**
+*   **das reduplizierte Perfekt = द्वित्वलिट्**
+*   **das periphrastische Perfekt = अनुप्रयोगलिट्**
+:::
+::: grammar-box
+**Das periphrastische Perfekt (अनुप्रयोगलिट्) wird gebraucht:**
+1. **bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa)**
+2. **bei Wurzeln, die mit einem langen Vokal (außer ā-) beginnen, bzw. mit einem Vokal (außer a-) vor zwei Konsonanten**
+3. **bei einigen sonstigen Wurzeln**
+:::
 ## 34.2. Das reduplizierte Perfekt (द्वित्वलिट्)
 
 ### 34.2.1. Stammabstufung
 
-Bildung:
+::: grammar-box
+**Bildung:**
 
-starker Stamm: Singular Parasmaipada
+**starker Stamm:** Singular Parasmaipada
+*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung**
 
-reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung
+**schwacher Stamm:** alle übrigen Formen
+*   **reduplizierte tiefstufige Wurzel + Perfektendung**
+:::
+::: grammar-box
+**Generell (auch außerhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:**
+*   **(Konsonant)-Konsonant-Langvokal-Konsonant**
+*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
 
-schwacher Stamm: alle übrigen Formen
-
-reduplizierte tiefstufige Wurzel + Perfektendung
-
-Generell (auch außerhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:
-
-*   (Konsonant)-Konsonant-Langvokal-Konsonant
-*   (Konsonant)-Konsonant-Vokal-Konsonant-Konsonant
-
-Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:
-
-*   a-Konsonant
-*   ā-Konsonant
-
+**Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:**
+*   **a-Konsonant**
+*   **ā-Konsonant**
+:::
 ### 34.2.2. Die Perfektendungen
 
 :::: grammar-box
@@ -52,263 +53,312 @@ Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:
 | **Ātmanepada** | **-e** | **-re** |
 
 ::::
+
 ### 34.2.3. Bindevokal -i-
 
-Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.
-
+::: grammar-box
+**Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.**
+:::
 ### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
 
-Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.
+::: grammar-box
+**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.**
 
-Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.
+**Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.**
 
-Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.
+**Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.**
 
-ṛ,  ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.
+**ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.**
+:::
+
+Beispiele:
+
 :::: grammar-box
 
-| Wurzel[[br]]धातु | 3. sg. Perf. P. |
+| Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| **bhid**[[br]](भिद्) | **bibheda**[[br]](बिभेद) |
-| **muc**[[br]](मुच्) | **mumoca**[[br]](मुमोच) |
-| **bhṛ**[[br]](भृ) | **babhāra**[[br]](बभार) |
+| भिद् | बिभेद |
+| मुच् | मुमोच |
+| भृ | बभार |
 
 ::::
->  | | |
-> | भृ | बभार |
 
-Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".
+::: grammar-box
+**Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".**
+:::
 
 Beispiele:
 
-> | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P |
 :::: grammar-box
 
-| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| **vac**[[br]](वच्) | **uvāca**[[br]](उवाच)[[br]](u-vāc-a) | **ūcuḥ**[[br]](ऊचुर्)[[br]](u + uc-ur) |
-| **yaj**[[br]](यज्) | **iyāja**[[br]](इयाज)[[br]](i-yāj-a) | **ījuḥ**[[br]](ईजुर्)[[br]](i + ij-ur) |
+| वच् | उवाच[[br]]u-vāc-a | ऊचुर्[[br]]u + uc-ur |
+| यज् | इयाज[[br]]i-yāj-a | ईजुर्[[br]]i + ij-ur |
 
 ::::
 
-1\. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.
+### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
+
+::: grammar-box
+**1. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.**
+:::
 
 Beispiele:
 
-> | Wurzel | 3.sg.Perf.P |
-> | --- | --- |
-> | अस् 2 "sein" und अस् 4 "werfen" |  |
-> आस  
-> a + as-a
-> 
->  |
-
-2. Wurzeln mit anlautendem i- haben als Reduplikationssilbe im starken Stamm iy-, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- "verschmilzt. Analoges gilt für anlautendes u-.
-
-Beispiele:
-
-> | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P |
-> | --- | --- | --- |
 :::: grammar-box
 
-| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
-| :--- | :--- | :--- |
-| **i**[[br]](इ) | **iyāya**[[br]](इयाय)[[br]](iy + ai + a) | **īyuḥ**[[br]](ईयुर्)[[br]](i + iy-ur) |
-| **iṣ**[[br]](इष्) | **iyeṣa**[[br]](इयेष)[[br]](iy-eṣ-a) | **īṣuḥ**[[br]](ईषुर्)[[br]](i + iṣ-ur) |
+| Wurzel | 3. sg. Perf. P. |
+| :--- | :--- |
+| अस् 2 "sein" und अस् 4 "werfen" | आस[[br]]a + as-a |
 
 ::::
+
+::: grammar-box
+**2. Wurzeln mit anlautendem i- haben als Reduplikationssilbe im starken Stamm iy-, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- "verschmilzt. Analoges gilt für anlautendes u-.**
+:::
+
 Beispiele:
 
-> | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P |
-> | --- | --- | --- |
-> | अञ्ज् | आनञ्ज | आनञ्जुर् |
-> | ऋध् | आनर्ध | आनृधुर् |
+:::: grammar-box
+
+| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| इ | इयाय[[br]]iy + ai + a | ईयुर्[[br]]i + iy-ur |
+| इष् | इयेष[[br]]iy-eṣ-a | ईषुर्[[br]]i + iṣ-ur |
+
+::::
+
+::: grammar-box
+**3. Wurzeln die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben als Reduplikationssilbe ān-**
+:::
+
+Beispiele:
+
+:::: grammar-box
+
+| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| अञ्ज् | आनञ्ज | आनञ्जुर् |
+| एध् | आनर्ध | आनृधुर् |
+
+::::
 
 ## 34.3. Typen des reduplizierten Perfekts
-:::: grammar-box
 
-| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
-| :--- | :--- | :--- |
-| **añj**[[br]](अञ्ज्) | **ānañja**[[br]](आनञ्ज) | **ānañjuḥ**[[br]](आनञ्जुर्) |
-| **ṛdh**[[br]](ऋध्) | **ānardha**[[br]](आनर्ध) | **ānṛdhuḥ**[[br]](आनृधुर्) |
-
-::::
+Einteilungsprinzip: Besonderheiten der Stammabstufung:
+*   Perfekt ohne Stammabstufung: Typ I
+*   Perfekt mit Stammabstufung: Typ II - V
 *   unregelmäßige Perfektbildungen
 
 ## 34.4. Perfekt Typ I: Perfekt ohne Stammabstufung
 
-Perfekt Typ I (ohne Stammabstufung) haben Wurzeln der Typen:
-
-*   (Konsonant)-Konsonant-Langvokal-Konsonant
-*   (Konsonant)-Konsonant-Vokal-Konsonant-Konsonant
-*   a-Konsonant
-*   ā-Konsonant
+::: grammar-box
+**Perfekt Typ I (ohne Stammabstufung) haben Wurzeln der Typen:**
+*   **(Konsonant)-Konsonant-Langvokal-Konsonant**
+*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
+*   **a-Konsonant**
+*   **ā-Konsonant**
+:::
 
 Beispiele:
 
-> | Wurzel | 3.sg.Perf. | 3.pl.Perf. |
-> | --- | --- | --- |
-> | बन्ध् 9P | बबन्ध   | |
 :::: grammar-box
 
-| Wurzel[[br]]धातु | 3. sg. Perf. | 3. pl. Perf. |
+| Wurzel | 3. sg. Perf. | 3. pl. Perf. |
 | :--- | :--- | :--- |
-| **bandh**[[br]](बन्ध् ९प) | **babandha**[[br]](बबन्ध)[[br]](ba-bandh-a) | **babandhuḥ**[[br]](बबन्धुर्) |
-| **jīv**[[br]](जीव् १प) | **jijīva**[[br]](जिजीव) | **jijīvuḥ**[[br]](जिजीवुर्) |
-| **āp**[[br]](आप् ५प) | **āpa**[[br]](आप)[[br]](a + āp-a) | **āpuḥ**[[br]](आपुर्) |
-| **as**[[br]](अस् २प "sein")[[br]]**as**[[br]](अस् ४ "werfen") | **āsa**[[br]](आस)[[br]](a + as-a) | **āsuḥ**[[br]](आसुर्) |
-| **aś**[[br]](अश्) | **ānaśe**[[br]](आनशे)[[br]](unregelmäßige Reduplikation!) | **ānaśire**[[br]](आनशिरे) |
+| बन्ध् 9P | बबन्ध[[br]]ba-bandh-a | बबन्धुर् |
+| जीव् 1P | जिजीव | जिजीवुर् |
+| आप् 5P | आप[[br]]a + āp-a | आपुर् |
+| अस् 2P "sein"[[br]]अस् 4 "werfen" | आस[[br]]a + as-a | आसुर् |
+| अश् | आनशे[[br]]unregelmäßige Reduplikation! | आनशिरे |
 
 ::::
 
-*   (Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant
+## 34.5. Perfekt Typ II: Starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
-Bildung:
+::: grammar-box
+**Wird gebildet von Wurzeln der Form:**
+*   **(Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant**
 
-*   starker Stamm: Hochstufe
-*   schwacher Stamm: Tiefstufe
+**Bildung:**
+*   **starker Stamm: Hochstufe**
+*   **schwacher Stamm: Tiefstufe**
+:::
 
 Beispiele:
 
-> | Wurzel | 3.sg.Perf.P | 3.pl.Perf.P | 3.sg.Perf.Ā | 3.pl.Perf.Ā |
-> | --- | --- | --- | --- | --- |
-> | भिद् | बिभेद | बिभिदुर् | बिभिदे | बिभिदिरे |
-> | इष् | इयेष | ईषुर् |   |   |
-> | मुच् | मुमोच | मुमुचुर् | मुमुचे | मुमुचिरे |
 :::: grammar-box
 
-| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **bhid**[[br]](भिद्) | **bibheda**[[br]](बिभेद) | **bibhiduḥ**[[br]](बिभिदुर्) | **bibhide**[[br]](बिभिदे) | **bibhidire**[[br]](बिभिदिरे) |
-| **iṣ**[[br]](इष्) | **iyeṣa**[[br]](इयेष) | **īṣuḥ**[[br]](ईषुर्) | | |
-| **muc**[[br]](मुच्) | **mumoca**[[br]](मुमोच) | **mumucuḥ**[[br]](मुमुचुर्) | **mumuce**[[br]](मुमुचे) | **mumucire**[[br]](मुमुचिरे) |
-| **vṛt**[[br]](वृत्) | | | **vavṛte**[[br]](ववृते) | **vavṛtire**[[br]](ववृतिरे) |
-| **kḷp**[[br]](कॢप्) | | | **cakḷpe**[[br]](चकॢपे) | **cakḷpire**[[br]](चकॢपिरे) |
+| भिद् | बिभेद | बिभिदुर् | बिभिदे | बिभिदिरे |
+| इष् | इयेष | ईषुर् | | |
+| मुच् | मुमोच | मुमुचुर् | मुमुचे | मुमुचिरे |
+| वृत् | | | ववृते | ववृतिरे |
+| कॢप् | | | चकॢपे | चकॢपिरे |
 
 ::::
 
-![](/images/lekt3406.jpg)  
-Abb.: सस्यम्  
-\[Bildquelle: Ray Witlin / World Bank. -- [http://www.flickr.com/photos/worldbank/2183806492/](http://www.flickr.com/photos/worldbank/2183806492/). -- Zugriff am 2008-12-27. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] 
+## 34.6. Wortliste
 
-यावत् : wie lange, wie groß
+**क्षिति f. = पृथ्वी = मही = भूमी**
 
-तावत् : so lange, so groß
+**शस्य = सस्य n. sg. u. pl.:** Saat, Feldfrucht, Getreide
 
-उत्तम 3: höchster
+::: media
+![](/images/lekt3406.jpg)
+Abb.: सस्यम्
+(Bildquelle: [Details](/licenses#lekt3406))
+:::
 
-द्वीप m.n.: Insel, Kontinent
+**यावत् :** wie lange, wie groß
 
-![](/images/lekt3405.jpg)  
-Abb.: लक्षद्वीपाः = ലക്ഷദ്വീപ് = die 100.000 (लक्ष m.n.) Inseln (Unionsterritorium)  
-\[Bildquelle: CIA. Public domain\]
+**तावत् :** so lange, so groß
 
-मर्त्य 3: sterblich (zu मृ)
+**उत्तम 3:** höchster
 
-तिल m.: Sesam(korn) (_Sesamum indicum_ L.)
+**द्वीप m.n.:** Insel, Kontinent
 
-![](/images/lekt3403.jpg)  
-Abb.: तिलाः  
-\[Bildquelle: Wikipedia. Public domain\]
+::: media
+![](/images/lekt3405.jpg)
+Abb.: लक्षद्वीपाः
+(Bildquelle: [Details](/licenses#lekt3405))
+:::
 
-![](/images/lekt3404.jpg)  
-Abb.: _Sesamum indicum_ L.  
-\[Bildquelle: Franz Xaver / Wikipedia. GNU FDLicense\]
+**मर्त्य 3:** sterblich (zu **मृ**)
 
-स्वर्ण n.: (schönfarbig =) Gold
+**तिल m.:** Sesam(korn) (*Sesamum indicum* L.)
 
-![](/images/lekt3402.jpg)  
-Abb.: स्वर्णम्  
-Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿਬ, Amritsar = ਅੰਮ੍ਰਿਤਸਰ  
-\[Bildquelle: Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt3403.jpg)
+Abb.: तिलाः
+(Bildquelle: [Details](/licenses#lekt3403))
+:::
 
-निकेतन n.: Wohnstatt, Tempel
+::: media
+![](/images/lekt3404.jpg)
+Abb.: *Sesamum indicum* L.
+(Bildquelle: [Details](/licenses#lekt3404))
+:::
 
-कोटि f.: Spitze; 10 Millionen
+**स्वर्ण n.:** (schönfarbig =) Gold
 
-श्रेष्ठ 3: bester
+::: media
+![](/images/lekt3402.jpg)
+Abb.: स्वर्णम्
+(Bildquelle: [Details](/licenses#lekt3402))
+:::
 
-तल m.n.: Ebene, Fläche
+**निकेतन n.:** Wohnstatt, Tempel
 
-ऋषभ m.: Stier
+**कोटि f.:** Spitze; 10 Millionen
 
-![](/images/lekt3401.jpg)  
-Abb.: ऋषभः  
-Chamundi-Hills  
-\[Bildquelle: Luna Park. -- [http://www.flickr.com/photos/lunapark/2124083737/](http://www.flickr.com/photos/lunapark/2124083737/). -- Zugriff am 2008-12-27. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+**श्रेष्ठ 3:** bester
 
-यम् 1P यच्छति : zurückhalten, halten, darbieten, gewähren
+**तल m.n.:** Ebene, Fläche
 
-यम् प्र 1 P प्रयच्छति : hinhalten, anbieten, abliefern
+**ऋषभ m.:** Stier
 
-या 2P याति : gehen, fahren
+::: media
+![](/images/lekt3401.jpg)
+Abb.: ऋषभः
+(Bildquelle: [Details](/licenses#lekt3401))
+:::
 
-कन्या f.: Mädchen, Jungfrau
+**यम् 1P यच्छति :** zurückhalten, halten, darbieten, gewähren
+
+**यम् + प्र 1P प्रयच्छति :** hinhalten, anbieten, abliefern
+
+**या 2P याति :** gehen, fahren
+
+**कन्या f.:** Mädchen, Jungfrau
 
 ## 34.7. Übung
 
 Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden Perfektformen:
 
-1.  रक्षिष्यन्ति
-2.  स्रक्ष्यति
-3.  सिञ्चते
-4.  वर्तते
-5.  प्रवेक्ष्यति
-6.  भनक्ति
-7.  लुभ्यन्ति
-8.  रुन्धते
-9.  रोदिति
-10.  बध्नाति
-11.  युध्यन्ते
-12.  युङ्क्ते
-13.  मुह्यन्ति
-14.  मुञ्चते
-15.  जीवन्ति
-16.  भोक्ष्यते
-17.  आप्नुवन्ति
-18.  भिन्त्ते
-19.  भोत्स्यन्ते
-20.  नर्तिष्यति
-21.  अश्नाति
-22.  द्वेष्टि
-23.  पश्यन्ति
-24.  दुग्धे
-25.  सन्ति
-26.  आदेक्ष्यन्ति
-27.  छिनत्ति
-28.  क्रुध्यति
-29.  अस्यति
-30.  कुप्यन्ति
-31.  इच्छन्ति
+1. रक्षिष्यन्ति
+2. स्रक्ष्यति
+3. सिञ्चते
+4. वर्तते
+5. प्रवेक्ष्यति
+6. भनक्ति
+7. लुभ्यन्ति
+8. रुन्धते
+9. रोदितi -> रोदिति
+10. बध्नाति
+11. युध्यन्ते
+12. युङ्क्ते
+13. मुह्यन्ति
+14. मुञ्चते
+15. जीवन्ति
+16. भोक्ष्यते
+17. आप्नुवन्ति
+18. भिन्त्ते
+19. भोत्स्यन्ते
+20. नर्तिष्यति
+21. अश्नाति
+22. द्वेष्टि
+23. पश्यन्ति
+24. दुग्धे
+25. सन्ति
+26. आदेक्ष्यन्ति
+27. छिनत्ति
+28. क्रुध्यति
+29. अस्यति
+30. कुप्यन्ति
+31. इच्छन्ति
 
 ## 34.8. Übersetzungsübung
 
 Übersetzen Sie folgenden Text aus dem पद्मपुराण über Gaben an Brahmanen:
 
-क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजोत्तम ।  
-विष्णुलोके सुखं भुङ्क्ते यावदिन्द्राश्चतुर्दश ॥१॥  
-सप्तद्वीपां महीं दत्त्वा यत्पुण्यं प्राप्यते द्विज ।  
+क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजो***त्तम*** ।  
+विष्णुलोके सुखं भुङ्क्ते यावदिन्द्रा***श्चतुर्दश*** ॥१॥  
+***सप्त***द्वीपां महीं दत्त्वा यत्पुण्यं प्राप्यते द्विज ।  
 तत्पुण्यं प्राप्नुयान्मर्त्यो धेनुं यच्छन्द्विजातये ॥२॥  
 तिलप्रमाणं स्वर्णं यो ब्राह्मणाय प्रयच्छति ।  
 हरिनिकेतनं याति युक्तं कोटिकुलैरपि ॥३॥  
 सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः ।  
-स गच्छेद्ब्रह्मसदनं पुनर्जन्म न विद्यते ॥४॥  
-अन्नं वारि द्विजश्रेष्ठ येन दत्तम् महीतले ।  
+स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥  
+अन्नं वारि द्विजश्रेष्ठ येन दत्तं महीतले ।  
 तेन दत्तानि दानानि सर्वाणि च द्विजर्षभ ॥५॥
 
 Erklärungen:
 
-Vokativ sg. der Maskulina / Neutra auf -a lautet auf -a: z.B. देव "Gott!"
+::: indent
+**Vokativ sg.** der Maskulina / Neutra auf -a lautet auf -a: z.B. **देव** "Gott!"
 
-चतुर्दश vierzehn
+**चतुर्दश** vierzehn
 
-सप्त sieben
+**सप्त** sieben
 
-जन्म Nom./Akk. sg. zu जन्मन् n. Geburt
+**जन्म** Nom./Akk. sg. zu **जन्मन् n.** Geburt
 
-सर्व 3 "alle, ganz" (dekliniert nach Pronominaldeklination)
+**सर्व 3** "alle, ganz" (dekliniert nach Pronominaldeklination)
+:::
 
-![](/images/lekt3407.jpg)  
-Abb.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः ।  
-स गच्छेद्ब्रह्मसदनं पुनर्जन्म न विद्यते ॥४॥  
-\[Bildquelle: BriceFR. -- [http://www.flickr.com/photos/bricecanonne/1350452995/](http://www.flickr.com/photos/bricecanonne/1350452995/). -- Zugriff am 2008-12-27. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt3407.jpg)
+Abb.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
+(Bildquelle: [Details](/licenses#lekt3407))
+:::
+
+::: deleteme-box
+### Quellen
+
+**lekt3401:** Nandi Bull statue, Chamundi Hills, Mysore. [Bildquelle: Luna Park / Flickr. CC BY-NC-ND]
+
+**lekt3402:** Golden Temple (Harmandir Sahib), Amritsar. [Bildquelle: Wikipedia. GNU FDL]
+
+**lekt3403:** Sesame seeds. [Bildquelle: Wikipedia. Public domain]
+
+**lekt3404:** Sesame plant flowering. [Bildquelle: Franz Xaver / Wikipedia. GNU FDL]
+
+**lekt3405:** Lakshadweep Islands Map. [Bildquelle: CIA World Factbook. Public domain]
+
+**lekt3406:** Rice field in India. [Bildquelle: Ray Witlin / World Bank. CC BY-NC-ND]
+
+**lekt3407:** Hindu wedding ritual. [Bildquelle: BriceFR / Flickr. CC BY-NC-SA]
+:::

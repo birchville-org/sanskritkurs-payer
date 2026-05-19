@@ -56,6 +56,31 @@ German Source:
             
     return f"ERROR: Failed to translate after {max_retries} attempts."
 
+def chunk_content(content):
+    # Splits content into safe, manageable chunks of max ~3000 characters
+    # respecting markdown boundaries (headers, containers) to avoid LLM context issues.
+    lines = content.split('\n')
+    chunks = []
+    current_chunk = []
+    current_size = 0
+    
+    for line in lines:
+        is_header = line.startswith('## ') or line.startswith('### ')
+        is_break_point = (current_size > 3000 and (not line.strip() or line.startswith(':::') or line.startswith('|')))
+        
+        if (is_header or is_break_point) and current_chunk:
+            chunks.append('\n'.join(current_chunk))
+            current_chunk = []
+            current_size = 0
+            
+        current_chunk.append(line)
+        current_size += len(line) + 1
+        
+    if current_chunk:
+        chunks.append('\n'.join(current_chunk))
+        
+    return chunks
+
 def main():
     print(f"Starting translation process using {MODEL} at {API_URL}...")
     for lang in LANGUAGES:
@@ -83,31 +108,27 @@ def main():
             with open(source_path, 'r', encoding='utf-8') as f:
                 content = f.read()
             
-            # Split content by major H2 headers (## ) to translate section by section
-            # This prevents local LLM generation token cap truncation and maintains absolute high-fidelity
-            lines = content.split('\n')
-            chunks = []
-            current_chunk = []
-            
-            for line in lines:
-                if line.startswith('## '):
-                    if current_chunk:
-                        chunks.append('\n'.join(current_chunk))
-                    current_chunk = [line]
-                else:
-                    current_chunk.append(line)
-            if current_chunk:
-                chunks.append('\n'.join(current_chunk))
+            # Smart chunking to prevent LLM generation token limits
+            chunks = chunk_content(content)
                 
             translated_chunks = []
             total_chunks = len(chunks)
+            failed = False
             for i, chunk in enumerate(chunks, 1):
                 if chunk.strip():
                     print(f"  -> Translating section {i}/{total_chunks}...")
                     translated_chunk = translate_text(chunk, lang)
+                    if translated_chunk.startswith("ERROR:"):
+                        print(f"  [!] Translation failed for chunk {i}: {translated_chunk}")
+                        failed = True
+                        break
                     translated_chunks.append(translated_chunk)
                 else:
                     translated_chunks.append(chunk)
+            
+            if failed:
+                print(f"[{lang}] Skipping write for {filename} due to translation errors.")
+                continue
                     
             translated_content = '\n\n'.join(translated_chunks)
             

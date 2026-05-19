@@ -1,9 +1,9 @@
 
 # Lektion 26
 
-::: grammar-box
-**Cerebralisationsgesetz für -s- im Wortinnern**
+## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
 
+::: grammar-box
 **-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — außer **a, ā** — unmittelbar oder nur durch **Anusvāra** oder **Visarga** getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt.
 
 Diesem Sandhi folgt auch **dus-** vor tonlosen Gutturalen und Labialen in Komposita.
@@ -14,9 +14,9 @@ Diesem Sandhi folgt auch **dus-** vor tonlosen Gutturalen und Labialen in Kompos
 :::
 
 
-::: grammar-box
-**Cerebralisationsgesetz für Dentale im Wortinnern**
+## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
 
+::: grammar-box
 Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die entsprechenden Retroflexe ersetzt:
 
 - **iṣ** + **-ta** = **iṣṭa** (इष्ट)
@@ -24,20 +24,26 @@ Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die 
   *(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)*
 :::
 
-::: grammar-box
-**Wortsandhi für Palatal, Guttural, ṣ, h + -s**
+## 26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
 
+::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 :::
 
 
 ## 26.4. Grassmannsches Hauchdissimilationsgesetz
 
-Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:  
-Beispiel:  
-\*dhu(gh) » du(g)h  
-Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.  
-Beispiele: siehe unten Futur von दुह् und  बुध्  
+::: grammar-box
+**Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:**
+
+Beispiel:
+
+> \*dhu(gh) » du(g)h
+
+**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.**
+
+Beispiele: siehe unten Futur von  दुह् und  बुध्
+:::
 
 ::: media
 ![](/images/lekt2601.jpg)
@@ -48,27 +54,32 @@ Abb.: Hermann Graßmann
 
 ## 26.5. Wortsandhi für -m, -n vor Zischlaut
 
-Vor Zischlauten werden -n und -m durch -ṃ- ersetzt:  
+::: grammar-box
+**Vor Zischlauten werden -n und -m durch -ṃ- ersetzt:**
+
 Beispiel: s. unten Futur von मन्
+:::
 
 ## 26.6. Gebrauch des einfachen Futurs (ऌत्, भविष्यन्ती f.)
 
-Das Einfache Futur (ऌत्, भविष्यन्ती f.) drückt aus  
+::: grammar-box
+**Das Einfache Futur (ऌत्, भविष्यन्ती f.) drückt aus:**
 
-*   die Zukunft
-*   eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")
-*   eine Erwartung ("es wird so geschehen")
-*   Hoffnung
-*   Befürchtung
-*   Wahrscheinlichkeit
-*   Meinung des Sprechenden
-*   Befehl
+- **die Zukunft**
+- **eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")**
+- **eine Erwartung ("es wird so geschehen")**
+- **Hoffnung**
+- **Befürchtung**
+- **Wahrscheinlichkeit**
+- **Meinung des Sprechenden**
+- **Befehl**
 
-Das Futur steht teilweise in Konkurrenz zum Optativ (siehe später).  
-z. B.  
-व्रतं करिष्यन्देवगृहं गच्छति = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel,."
+**Das Futur steht teilweise in Konkurrenz zum Optativ (siehe später).**
+:::
 
-  
+z. B. व्रतं करिष्यन्देवगृहं गच्छति = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel."
+
+
 ::: media
 ![](/images/lekt2602.jpg)
 Abb.: व्रतं करिष्यन्देवगृहं गच्छति
@@ -76,21 +87,28 @@ Abb.: व्रतं करिष्यन्देवगृहं गच्छ
 :::
 
 
-## 26.7. Bildung des einfachen Futurs (ऌत्, भविष्यन्ती  f.)
+## 26.7. Bildung des einfachen Futurs (ऌत्, भविष्यन्ती  f.)
 
-Einfaches Futur:  
-Futursstamm + Primärendung  
+::: grammar-box
+**Einfaches Futur:**
 
-Futurstamm:  
-(meist) hochstufige Wurzel + -sya  
-oder  
-(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)  
-Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!  
-Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv überein.  
-Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.  
-Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:
+> **Futursstamm + Primärendung**
 
-> **kṛ**[[br]](कृ) :  **kariṣyant-**[[br]](करिष्यन्त्), **kariṣyantī**[[br]](करिष्यन्ती) / **kariṣyatī**[[br]](करिष्यती)
+---
+
+**Futurstamm:**
+
+> **(meist) hochstufige Wurzel + -sya**  
+> **oder**  
+> **(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)**
+
+**Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!**  
+**Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv überein.**  
+**Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.**  
+**Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:**
+
+> कृ :  करिष्यन्त्, करिष्यन्ती / करिष्यती
+:::
 
 Beispiele:
 
@@ -98,19 +116,19 @@ Beispiele:
 
 | Wurzel | Futur 3. sg. P (Ā) |
 | :--- | :--- |
-| **nī**[[br]](नी) | **neṣyati**[[br]](नेष्यति) |
-| **bhū**[[br]](भू) | **bhaviṣyati**[[br]](भविष्यति)[[br]](bho + i + sya + ti) |
-| **diś**[[br]](दिश्) | **dekṣyati**[[br]](देक्ष्यति)[[br]](deś + sya + ti) |
-| **dṛś**[[br]](द्र्श्) | **drakṣyati**[[br]](द्रक्ष्यति) |
-| **pac**[[br]](पच्) | **pakṣyati**[[br]](पक्ष्यति) |
-| **praccha**[[br]](प्रच्छ्) | **prakṣyati**[[br]](प्रक्ष्यति) |
-| **yaj**[[br]](यज्) | **yakṣyati**[[br]](यक्ष्यति) |
-| **sṛj**[[br]](सृज्) | **srakṣyati**[[br]](स्रक्ष्यति) |
-| **pad**[[br]](पद्) | **patsyati**[[br]](पत्स्यति) |
-| **ad**[[br]](अद्) | **atsyati**[[br]](अत्स्यति) |
-| **duh**[[br]](दुह्) | **dhokṣyati**[[br]](धोक्ष्यति)[[br]](dogh + sya + ti) |
-| **budh**[[br]](बुध्) | **bhotsyate**[[br]](भोत्स्यते)[[br]](bodh vor Stimmlosem = bhot) |
-| **man**[[br]](मन्) | **maṃsyate**[[br]](मंस्यते)[[br]](man + sya + te) |
+| नी | नेष्यति |
+| भू | भविष्यति (भो +  इ + स्य + ति) |
+| दिश् | देक्ष्यति (देश् + स्य + ति) |
+| दृश् | द्रक्ष्यति |
+| पच् | पक्ष्यति |
+| प्रच्छ् | प्रक्ष्यति |
+| यज् | यक्ष्यति |
+| सृज् | स्रक्ष्यति |
+| पद् | पत्स्यति |
+| अद् | अत्स्यति |
+| दुह् | धोक्ष्यति (दोग् +  स्य + ति) |
+| बुध् | भोत्स्यते (बोध् vor Stimmlosem = भोत्) |
+| मन् | मंस्यते (मन् + स्य + ते) |
 
 ::::
 
@@ -188,11 +206,5 @@ C) Futur optionell mit und ohne -i-:
 2.  वर्तते
 3.  अश्नुवते (im Futur Parasmaipada)
 
-### Quellen
 
-::: deleteme-box
-**lekt2601:** Hermann Graßmann (1809 - 1877) Mathematiker und Indologe [Bildquelle: Wikipedia, Public domain]
-
-**lekt2602:** Hampi = ಹಂಪೆ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/159113586/. -- Zugriff am 2008-12-18. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-:::
 

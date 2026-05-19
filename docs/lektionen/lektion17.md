@@ -3,15 +3,19 @@
 
 ## 17.1. Zweite Präsensklasse (अदादि = अद् usw.)
 
-Die Verbalendungen treten direkt an die Wurzel. Dabei sind die aus dem Wortsandhi resultierenden Lautveränderungen zu beachte.
+Die Verbalendungen treten direkt an die Wurzel. Dabei sind die aus dem Wortsandhi resultierenden Lautveränderungen zu beachten.
 
-Es gibt folgende Bildungsformen in der zweiten präsensklasse:
+:::: grammar-box
+
+Es gibt folgende Bildungsformen in der zweiten Präsensklasse:
 
 1.  Wurzeln mit Stammabstufung 
     *   meistens: Hochstufe - Tiefstufe
     *   einige Wurzeln: Dehnstufe - Tiefstufe 
 2.  Wurzeln ohne Stammabstufung 
-3.  zweisilbige Wurzeln auf -i/-ī mit Stammabastufung
+3.  zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
+
+::::
 
 ## 17.2. Wurzeln der zweiten Präsensklasse mit Stammabstufung Hochstufe - Tiefstufe
 
@@ -24,12 +28,16 @@ Beispiele:
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | **dveṣṭi**[[br]](द्वेष्टि) (« dveṣ + -ti) |
-| 3\. pl. Präs. P | **dviṣanti**[[br]](द्विषन्ति) (dviṣ-anti) |
-| 3\. sg. Präs. Ā | **dviṣṭe**[[br]](द्विष्टे) (« dviṣ + -te) |
-| 3\. pl. Präs. Ā | **dviṣate**[[br]](द्विषते) (dviṣ-ate) |
+| 3\. sg. Präs. P | द्वेष्टि (« dveṣ + -ti) |
+| 3\. pl. Präs. P | द्विषन्ति (dviṣ-anti) |
+| 3\. sg. Präs. Ā | द्विष्टे (« dviṣ + -te) |
+| 3\. pl. Präs. Ā | द्विषते (dviṣ-ate) |
+
+:::
 
 ::::
 
@@ -50,12 +58,16 @@ Weitere Beispiele:
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | **eti**[[br]](एति) (e-ti) |
-| 3\. pl. Präs. P | **yanti**[[br]](यन्ति) (y-anti) |
-| 3\. sg. Präs. Ā | **ite**[[br]](इते) (i-te) |
-| 3\. pl. Präs. Ā | **iyate**[[br]](इयते) (iy-ate) |
+| 3\. sg. Präs. P | एति (e-ti) |
+| 3\. pl. Präs. P | यन्ति (y-anti) |
+| 3\. sg. Präs. Ā | इते (i-te) |
+| 3\. pl. Präs. Ā | इयते (iy-ate) |
+
+:::
 
 ::::
 
@@ -66,12 +78,16 @@ Weitere Beispiele:
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | **dogdhi**[[br]](दोग्धि) (« doh- + -ti) |
-| 3\. pl. Präs. P | **duhanti**[[br]](दुहन्ति) (duh-anti) |
-| 3\. sg. Präs. Ā | **dugdhe**[[br]](दुग्धे) (« duh- + -te) |
-| 3\. pl. Präs. Ā | **duhate**[[br]](दुहते) (duh-ate) |
+| 3\. sg. Präs. P | दोग्धि (« doh- + -ti) |
+| 3\. pl. Präs. P | दुहन्ति (duh-anti) |
+| 3\. sg. Präs. Ā | दुग्धे (« duh- + -te) |
+| 3\. pl. Präs. Ā | दुहते (duh-ate) |
+
+:::
 
 ::::
 
@@ -84,12 +100,16 @@ Weitere Beispiele:
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | **hanti**[[br]](हन्ति) (han-ti) |
-| 3\. pl. Präs. P | **ghnanti**[[br]](घ्नन्ति) (ghn-anti) |
-| 3\. sg. Präs. Ā | **(hate)**[[br]](हते) (ha-te) |
-| 3\. pl. Präs. Ā | **(ghnate)**[[br]](घ्नते) (ghn-ate) |
+| 3\. sg. Präs. P | हन्ति (han-ti) |
+| 3\. pl. Präs. P | घ्नन्ति (ghn-anti) |
+| 3\. sg. Präs. Ā | हते (ha-te) |
+| 3\. pl. Präs. Ā | घ्नते (ghn-ate) |
+
+:::
 
 ::::
 
@@ -100,10 +120,14 @@ Weitere Beispiele:
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | **asti**[[br]](अस्ति) (as-ti) |
-| 3\. pl. Präs. P | **santi**[[br]](सन्ति) (s-anti) |
+| 3\. sg. Präs. P | अस्ति (as-ti) |
+| 3\. pl. Präs. P | सन्ति (s-anti) |
+
+:::
 
 ::::
 
@@ -114,18 +138,22 @@ Beispiel:
 स्तु 2 U "preisen"
 
 *   starker Präsensstamm: stau-
-*   schwacher Präsesnsstamm:
+*   schwacher Präsensstamm:
     *   vor Konsonant: stu-
     *   vor Vokal: stuv-
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | **stauti**[[br]](स्तौति) (stau-ti)[[br]]oder: **stavīti**[[br]](स्तवीति) |
-| 3\. pl. Präs. P | **stuvanti**[[br]](स्तुवन्ति) (stuv-anti) |
-| 3\. sg. Präs. Ā | **stute**[[br]](स्तुते) (stu-te) |
-| 3\. pl. Präs. Ā | **stuvate**[[br]](स्तुवते) (stuv-ate) |
+| 3\. sg. Präs. P | स्तौति (stau-ti)[[br]]oder: स्तवीति |
+| 3\. pl. Präs. P | स्तुवन्ति (stuv-anti) |
+| 3\. sg. Präs. Ā | स्तुते (stu-te) |
+| 3\. pl. Präs. Ā | स्तुवते (stuv-ate) |
+
+:::
 
 ::::
 
@@ -139,10 +167,14 @@ Beispiel:
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | **pāti**[[br]](पाति) (pā-ti) |
-| 3\. pl. Präs. P | **pānti**[[br]](पान्ति) (« pā- + -anti) |
+| 3\. sg. Präs. P | पाति (pā-ti) |
+| 3\. pl. Präs. P | पान्ति (« pā- + -anti) |
+
+:::
 
 ::::
 
@@ -154,10 +186,14 @@ Beispiele:
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | **atti**[[br]](अत्ति) (« ad- + -ti) |
-| 3\. pl. Präs. P | **adanti**[[br]](अदन्ति) (ad-anti) |
+| 3\. sg. Präs. P | अत्ति (« ad- + -ti) |
+| 3\. pl. Präs. P | अदन्ति (ad-anti) |
+
+:::
 
 ::::
 
@@ -165,10 +201,14 @@ Beispiele:
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. Ā | **āste**[[br]](आस्ते) (ās-te) |
-| 3\. pl. Präs. Ā | **āsate**[[br]](आसते) (ās-ate) |
+| 3\. sg. Präs. Ā | आस्ते (ās-te) |
+| 3\. pl. Präs. Ā | आसते (ās-ate) |
+
+:::
 
 ::::
 
@@ -176,10 +216,14 @@ Beispiele:
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | **vakti**[[br]](वक्ति) (« vac- + -ti) |
+| 3\. sg. Präs. P | वक्ति (« vac- + -ti) |
 | 3\. pl. Präs. P | kommt nicht vor |
+
+:::
 
 ::::
 
@@ -198,10 +242,14 @@ Beispiele:
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | **roditi**[[br]](रोदिति) (rodi-ti) |
-| 3\. pl. Präs. P | **rudanti**[[br]](रुदन्ति) (rud-anti) |
+| 3\. sg. Präs. P | रोदिति (rodi-ti) |
+| 3\. pl. Präs. P | रुदन्ति (rud-anti) |
+
+:::
 
 ::::
 
@@ -214,12 +262,16 @@ Beispiele:
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | **bravīti**[[br]](ब्रवीति) (bravī-ti) |
-| 3\. pl. Präs. P | **bruvanti**[[br]](ब्रुवन्ति) (bruv-anti) |
-| 3\. sg. Präs. Ā | **brūte**[[br]](ब्रूते) (brū-te) |
-| 3\. pl. Präs. Ā | **bruvate**[[br]](ब्रुवते) (bruv-ate) |
+| 3\. sg. Präs. P | ब्रवीति (bravī-ti) |
+| 3\. pl. Präs. P | ब्रुवन्ति (bruv-anti) |
+| 3\. sg. Präs. Ā | ब्रूते (brū-te) |
+| 3\. pl. Präs. Ā | ब्रुवते (bruv-ate) |
+
+:::
 
 ::::
 
@@ -227,9 +279,13 @@ Auch स्तु 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen
 
 :::: grammar-box
 
+::: no-header
+
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | **stavīti**[[br]](स्तवीति) (« sto + ī + ti)[[br]]oder: **stauti**[[br]](स्तौति) |
+| 3\. sg. Präs. P | स्तवीति (« sto + ī + ti)[[br]]oder: स्तौति |
+
+:::
 
 ::::
 
@@ -239,7 +295,9 @@ Auch स्तु 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen
 
 davon:
 
-> घात m.: Tötung
+::: indent
+घात m.: Tötung
+:::
 
 ::: media
 ![](/images/lekt1703.jpg)
@@ -252,7 +310,9 @@ Abb.: घाताः
 
 davon:
 
-> आसन n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
+::: indent
+आसन n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
+:::
 
 ::: media
 ![](/images/lekt1701.jpg)
@@ -265,7 +325,9 @@ Abb.: योगासनम्
 
 davon:
 
-> रुद्र m.: (der Heuler =) der Sturmgott Rudra
+::: indent
+रुद्र m.: (der Heuler =) der Sturmgott Rudra
+:::
 
 ब्रू 2 U ब्रवीति Ā ब्रूते kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
 
@@ -282,11 +344,13 @@ Abb.: दोग्धि
 
 davon:
 
-> दिष्टि f.: Anweisung, glückliche Fügung
-> 
-> दिष्ट्या Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
+::: indent
+दिष्टि f.: Anweisung, glückliche Fügung
 
-## Übung 1
+दिष्ट्या Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
+:::
+
+## 17.7. Übung 1
 
 A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
 
@@ -312,7 +376,7 @@ A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
 
 B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
 
-## Übung 2
+## 17.8. Übung 2
 
 Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an:
 
@@ -408,13 +472,12 @@ B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
 
 ४६. दिश्यन्ते
 
+::: deleteme-box
 ### Quellen
 
-::: deleteme-box
 **lekt1701:** [Bildquelle: von tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
 
 **lekt1702:** [Bildquelle: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 
 **lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
 :::
-

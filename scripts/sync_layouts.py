@@ -473,54 +473,86 @@ def align_and_merge_blocks(german_blocks, target_blocks, lang):
             t_cells = [c.strip() for c in t_block['content'].split('|')]
             
             merged_cells = []
-            for col_idx, g_cell in enumerate(g_cells):
-                if not g_cell:
-                    merged_cells.append('')
+            g_raw_cells = g_block['content'].split('|')
+            
+            for col_idx, g_raw_cell in enumerate(g_raw_cells):
+                if not g_raw_cell.strip():
+                    merged_cells.append(g_raw_cell)
                     continue
+                
+                g_cell = g_raw_cell.strip()
+                t_cell = ""
+                if col_idx < len(t_cells):
+                    t_cell = t_cells[col_idx].strip()
                 
                 # Check if cell has Devanagari or IAST and is identical
                 g_anchors = extract_sanskrit_anchors(g_cell)
                 
+                cell_val = ""
+                # If German cell is pure Devanagari, propagate it directly
+                g_cell_clean = g_cell.replace('[[br]]', '')
+                has_deva = any(c for c in g_cell_clean if '\u0900' <= c <= '\u097f')
+                has_latin = any(c for c in g_cell_clean if 'a' <= c.lower() <= 'z')
+                if has_deva and not has_latin:
+                    cell_val = g_cell
+                # If the cell has [[br]] and contains Devanagari script (bilingual headers/cases), translate grammar terms and preserve Devanagari
+                elif '[[br]]' in g_cell and any(c for c in g_cell if '\u0900' <= c <= '\u097f'):
+                    cell_val = translate_phrase(g_cell, lang)
                 # If cell is purely grammatical (like 'Singular', 'Dativ'), translate it
-                if not g_anchors and any(k in g_cell for k in GRAMMAR_DICT[lang].keys()):
-                    merged_cells.append(translate_phrase(g_cell, lang))
+                elif not g_anchors and any(k in g_cell for k in GRAMMAR_DICT[lang].keys()):
+                    cell_val = translate_phrase(g_cell, lang)
+                # If cell is a Sanskrit grammatical ending or placeholder, keep the German master's style
+                elif '-' in g_cell or 'Ø' in g_cell:
+                    cell_val = g_cell
                 # If target cell exists at the same index, use it
-                elif col_idx < len(t_cells) and t_cells[col_idx]:
-                    # Keep translated content but align layout (like [[br]])
-                    merged_cells.append(t_cells[col_idx])
+                elif t_cell:
+                    cell_val = t_cell
                 else:
-                    merged_cells.append(translate_phrase(g_cell, lang))
-                    
-            merged_content = ' | '.join(merged_cells).strip()
-            # Ensure outer pipes are kept
-            if g_block['content'].startswith('|') and not merged_content.startswith('|'):
-                merged_content = '| ' + merged_content
-            if g_block['content'].endswith('|') and not merged_content.endswith('|'):
-                merged_content = merged_content + ' |'
+                    cell_val = translate_phrase(g_cell, lang)
                 
+                # Pad the non-empty cell with spaces
+                merged_cells.append(f" {cell_val} ")
+                
+            merged_content = '|'.join(merged_cells)
+            
             merged_blocks.append({
                 'type': 'table_row',
                 'content': merged_content
             })
             
         elif g_block['type'] == 'list_item':
+            g_cell = g_block['content']
+            g_cell_clean = g_cell.replace('[[br]]', '')
+            has_deva = any(c for c in g_cell_clean if '\u0900' <= c <= '\u097f')
+            has_latin = any(c for c in g_cell_clean if 'a' <= c.lower() <= 'z')
+            content = g_cell if (has_deva and not has_latin) else t_block['content']
             merged_blocks.append({
                 'type': 'list_item',
                 'prefix': g_block['prefix'],
-                'content': t_block['content']
+                'content': content
             })
             
         elif g_block['type'] == 'blockquote':
+            g_cell = g_block['content']
+            g_cell_clean = g_cell.replace('[[br]]', '')
+            has_deva = any(c for c in g_cell_clean if '\u0900' <= c <= '\u097f')
+            has_latin = any(c for c in g_cell_clean if 'a' <= c.lower() <= 'z')
+            content = g_cell if (has_deva and not has_latin) else t_block['content']
             merged_blocks.append({
                 'type': 'blockquote',
                 'prefix': g_block['prefix'],
-                'content': t_block['content']
+                'content': content
             })
             
         else: # paragraph
+            g_cell = g_block['content']
+            g_cell_clean = g_cell.replace('[[br]]', '')
+            has_deva = any(c for c in g_cell_clean if '\u0900' <= c <= '\u097f')
+            has_latin = any(c for c in g_cell_clean if 'a' <= c.lower() <= 'z')
+            content = g_cell if (has_deva and not has_latin) else t_block['content']
             merged_blocks.append({
                 'type': 'paragraph',
-                'content': t_block['content']
+                'content': content
             })
             
     return merged_blocks
@@ -608,9 +640,22 @@ def sync_lesson(lesson_num, lang):
     # Post-process: ensure proper VitePress newlines and formatting
     synced_content = re.sub(r'\n{3,}', '\n\n', synced_content)
     
+    # Preserve original mtime if it exists so we don't block lan_translate from detecting updates.
+    # If the target file is new, set its mtime to be older than the source file so the translator will process it.
+    orig_mtime = None
+    if os.path.exists(target_path):
+        orig_mtime = os.path.getmtime(target_path)
+        orig_atime = os.path.getatime(target_path)
+    else:
+        orig_mtime = os.path.getmtime(source_path) - 3600
+        orig_atime = orig_mtime
+
     os.makedirs(target_dir, exist_ok=True)
     with open(target_path, 'w', encoding='utf-8') as f:
         f.write(synced_content)
+        
+    if orig_mtime is not None:
+        os.utime(target_path, (orig_atime, orig_mtime))
         
     print(f"[{lang}] Finished layout sync for {filename}.")
     return True

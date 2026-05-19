@@ -3,25 +3,37 @@
 
 ## 22.1. Das Absolutivum (क्त्वा । ल्यप्)
 
+:::: grammar-box
+
 Will man in Sanskrit ausdrücken, dass eine Handlung des Agens (कर्तृ) einer anderen Handlung des Agens vorausgeht oder mit ihr als begleitender Umstand einhergeht, verwendet man das Absolutivum (क्त्वा । ल्यप्). Also
 
-> "nachdem er das getan hat, tut er jenes" ; "er tut das, dann tut er jenes" ; "als Folge von diesem tut er jenes" ; "ich kam, sah und siegte" u. ä.
+::: indent
+"nachdem er das getan hat, tut er jenes" ; "er tut das, dann tut er jenes" ; "als Folge von diesem tut er jenes" ; "ich kam, sah und siegte" u. ä.
+:::
 
-Das Absolutivum ist ein Verbal-Adverb, d.h. es ist weder konjugierbar noch deklinierbar, es hat aber immer - von wenigen Ausnahmen abgesehen - denselben Agens (कर्तृ) wie die Handlung, der die durch das Absolutiv bezeichnete Handlung vorausgeht bzw. die es begleitet. Der Agens des Absolutiv steht also im Nominativ (प्रथमा)  oder Instrumentalis (तृतीया).
+Das Absolutivum ist ein Verbal-Adverb, d.h. es ist weder konjugierbar noch deklinierbar, es hat aber immer - von wenigen Ausnahmen abgesehen - denselben Agens (कर्तृ) wie die Handlung, der die durch das Absolutiv bezeichnete Handlung vorausgeht bzw. die es begleitet. Der Agens des Absolutiv steht also im Nominativ (प्रथमा)  oder Instrumentalis (तृतीया).
 
 Neben den Komposita ist das Absolutiv eines der häufigsten Ausdrucksmittel im Sanskrit.
 
 Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung.
 
-Schema:
+**Schema:**
 
+::: indent
 (nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv)
+:::
 
-Beispiele:
+::::
 
-> गृहं प्रविश्य बालां दृष्ट्वा नरो वदति = Passivkonstruktion: गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते = "Der Mann betritt das Haus, sieht das kleine Mädchen und spricht es an."
-> 
-> Plural: गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।
+**Beispiele:**
+
+::: indent
+**गृहं प्रविश्य बालां दृष्ट्वा नरो वदति** = Passivkonstruktion: **गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते**  
+"Der Mann betritt das Haus, sieht das kleine Mädchen und spricht es an."
+
+Plural: **गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।**
+:::
+
 
 ## 22.2. Bildung des Absolutivums
 
@@ -35,79 +47,123 @@ Beispiele:
 
 ### 22.2.1. Verben ohne Präverb: Absolutiv auf -त्वा
 
-Bildung:
+:::: grammar-box
 
-(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + -tvā (-त्वा)
+**Bildung:**
 
-Nur das verneinende a- / an- verträgt sich mit dem Suffix -त्वा : अकृत्वा "ohne getan zu haben"
+::: indent
+(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-त्वा**)
+:::
 
-Beispiele:
+Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-त्वा** : **अकृत्वा** "ohne getan zu haben"
 
-> आप्त्वा "nachdem er / sie / es / ich / du / wir / ihr / sie / wir beide / ihr beide / sie beide erreicht hat / hatte / haben / hatten"
-> 
-> आसित्वा "nachdem er (...) gesessen war / ist"
-> 
-> इत्वा "nachdem er (...) gegangen war / ist"
-> 
-> स्थित्वा "nachdem er (...) gestanden war / ist"
-> 
-> जित्वा "nachdem er (...) gesiegt hat / hatte"
-> 
-> उक्त्वा "nachdem er (...) gesprochen hat / hatte"
+::::
+
+**Beispiele:**
+
+::: indent
+**आप्त्वा** "nachdem er / sie / es / ich / du / wir / ihr / sie / wir beide / ihr beide / sie beide erreicht hat / hatte / haben / hatten"
+
+**आसित्वा** "nachdem er (...) gesessen war / ist"
+
+**इत्वा** "nachdem er (...) gegangen war / ist"
+
+**स्थित्वा** "nachdem er (...) gestanden war / ist"
+
+**जित्वा** "nachdem er (...) gesiegt hat / hatte"
+
+**उक्त्वा** "nachdem er (...) gesprochen hat / hatte"
+:::
 
 ### 22.2.2. Verben mit Präverb
 
 #### 22.2.2.1. Wurzeln auf langen Vokal (außer -ā) oder auf Konsonant
 
-(meist) tiefstufige Wurzel + -ya
+:::: grammar-box
 
-Beispiele:
+::: indent
+(meist) tiefstufige Wurzel + **-ya**
+:::
 
-> उपनीय "nachdem er (...) herangeführt hat / hatte"
-> 
-> प्रभूय "nachdem er (...) herausgeragt ist / war" "nachdem er (...) Macht hatte"
-> 
-> प्राप्य "nachdem er (...) erlangt hat / hatte"
+::::
+
+**Beispiele:**
+
+::: indent
+**उपनीय** "nachdem er (...) herangeführt hat / hatte"
+
+**प्रभूय** "nachdem er (...) herausgeragt ist / war" "nachdem er (...) Macht hatte"
+
+**प्राप्य** "nachdem er (...) erlangt hat / hatte"
+:::
 
 #### 22.2.2.2. Wurzeln auf -ā
 
-unverändert hochstufige Wurzel + -ya
+:::: grammar-box
 
-Beispiel:
+::: indent
+unverändert hochstufige Wurzel + **-ya**
+:::
 
-> उपस्थाय "nachdem er (...) hingetreten war / ist" ; (aber ohne Präverb: स्थित्वा)
+::::
+
+**Beispiel:**
+
+::: indent
+**उपस्थाय** "nachdem er (...) hingetreten war / ist" ; (aber ohne Präverb: **स्थित्वा**)
+:::
 
 #### 22.2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
 
-tiefstufige Wurzel + -tya
+:::: grammar-box
 
-Beispiele:
+::: indent
+tiefstufige Wurzel + **-tya**
+:::
 
-> प्रस्तुत्य "nachdem er (...) laut gepriesen hat / hatte"
-> 
-> विस्मृत्य "nachdem er (...) vergessen hat / hatte"
-> 
-> संस्कृत्य "nachdem er (...) fürs Opfer zubereitet hat / hatte"
+::::
+
+**Beispiele:**
+
+::: indent
+**प्रस्तुत्य** "nachdem er (...) laut gepriesen hat / hatte"
+
+**विस्मृत्य** "nachdem er (...) vergessen hat / hatte"
+
+**संस्कृत्य** "nachdem er (...) fürs Opfer zubereitet hat / hatte"
+:::
 
 #### 22.2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
 
-Optionell:
+:::: grammar-box
 
-Wurzel auf -am / -an + -ya
+**Optionell:**
+
+::: indent
+Wurzel auf **-am** / **-an** + **-ya**
+:::
 
 oder:
 
-Wurzel auf -a + tya
+::: indent
+Wurzel auf **-a** + **-tya**
+:::
 
-Beispiel:
+::::
 
-> विगम्य oder  विगत्य "nachdem er (...) vergangen ist / war"
+**Beispiel:**
+
+::: indent
+**विगम्य** oder **विगत्य** "nachdem er (...) vergangen ist / war"
+:::
 
 ## 22.3. Wortliste
 
-काम m.: Wunsch, Begehren ; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
+**काम m.:** Wunsch, Begehren; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
 
-> कामम् Akk. adverbiell: nach Wunsch, nach Herzenslust
+::: indent
+**कामम्** Akk. adverbiell: nach Wunsch, nach Herzenslust
+:::
 
 ::: media
 ![](/images/lekt2202.jpg)
@@ -116,13 +172,15 @@ Abb.: कामदेवः
 :::
 
 
-शक् 5 P शक्नोति Pass. शक्यते PPP शक्त Inf. शक्तुम् : fähig sein, können
+**शक् 5 P  शक्नोति Pass.  शक्यते PPP  शक्त Inf.  शक्तुम् :** fähig sein, können
 
 davon:
 
-> शक्ति f.: das Können, Vermögen, Fähigkeit, Kraft ; auch: göttliche Kraft, personifiziert als weibliche Begleiterin insbes. von शिव
-> 
-> शक्र m.: der Mächtige (Beiname von इन्द्र)
+::: indent
+**शक्ति f.:** das Können, Vermögen, Fähigkeit, Kraft; auch: göttliche Kraft, personifiziert als weibliche Begleiterin insbes. von **शिव**
+
+**शक्र m.:** der Mächtige (Beiname von **इन्द्र**)
+:::
 
 ::: media
 ![](/images/lekt2203.jpg)
@@ -131,23 +189,27 @@ Abb.: दुर्गाशक्तिः
 :::
 
 
-अर्ह 1 P अर्हति Pass. अर्ह्यते PPP अर्हित Inf. अर्हितुम् : etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird अर्ह् + Infinitiv oft als milder Befehl verwendet: "Du solltest")
+**अर्ह 1 P  अर्हति Pass.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird **अर्ह्** + Infinitiv oft als milder Befehl verwendet: "Du solltest")
 
-> अर्हन्त् 3 Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
+::: indent
+**अर्हन्त् 3** Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
+:::
 
-व्रत n.: Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (देवदासी) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige व्रत heute: Fasten ; Enthaltsamkeit von Speisen, die man liebt ; sexuelle Enthaltsamkeit ; Lesen heiliger Schriften ; Vollzug bestimmter Riten ; Speisung von Brahmanen u. ä. Kurz zu den व्रत : Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von व्रत und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**व्रत n.:** Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (**देवदासी**) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige **व्रत** heute: Fasten; Enthaltsamkeit von Speisen, die man liebt; sexuelle Enthaltsamkeit; Lesen heiliger Schriften; Vollzug bestimmter Riten; Speisung von Brahmanen u. ä. Kurz zu den **व्रत**: Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von **व्रत** und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
 
-चर् 1 P चरति Pass. चर्यते PPP चरित Inf. चरितुम् : weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. व्रतं चर् : ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
+**चर् 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: चर् 1 P चरति Pass.  चर्यते PPP  चरित Inf.  चरितुम्) :** weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. **व्रतं चर्**: ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
 
 davon:
 
-> चर ३: beweglich ; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen)
-> 
-> चरण n.,m.: Fuß
-> 
-> चरित n.: Lebenswandel, Lebenstaten
-> 
-> ब्रह्मचर्य n.: Vollzug des Veda (ब्रह्मन्) = Studium des Veda im ersten Lebensstadium (dem des ब्रह्मचारिन्), welches strenge sexuelle Enthaltsamkeit erfordert ; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
+::: indent
+**चर ३:** beweglich; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen)
+
+**चरण n., m.:** Fuß
+
+**चरित n.:** Lebenswandel, Lebenstaten
+
+**ब्रह्मचर्य n.:** Vollzug des Veda (**ब्रह्मन्**) = Studium des Veda im ersten Lebensstadium (dem des **ब्रह्मचारिन्**), welches strenge sexuelle Enthaltsamkeit erfordert; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
+:::
 
 ::: media
 ![](/images/lekt2201.jpg)
@@ -158,7 +220,7 @@ Abb.: धेनवश्चरन्ति
 
 ## 22.4. Übung
 
-A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:
+**A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:**
 
 1.  आप्
 2.  प्राप्
@@ -197,7 +259,7 @@ A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:
 35.  प्रवद्
 36.  हन्
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+**B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:**
 
 अन्नं पक्त्वा ब्राह्मणदासो ऽत्ति ॥१॥
 
@@ -219,7 +281,7 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥
 
-C) Machen Sie aus obigen Sätzen (außer Sätze 8 und 10) Passivkonstruktionen
+**C) Machen Sie aus obigen Sätzen (außer Sätze 8 und 10) Passivkonstruktionen**
 
 ::: media
 ![](/images/lekt2204.jpg)
@@ -227,9 +289,8 @@ Abb.: अन्नं पक्त्वा
 (Bildquelle: [Details](/licenses#lekt2204))
 :::
 
-### Quellen
-
 ::: deleteme-box
+### Quellen
 **lekt2201:** Goa = गोंय [Bildquelle: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 
 **lekt2202:** 19. Jhdt [Bildquelle: Wikipedia, Public domain]

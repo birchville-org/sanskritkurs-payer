@@ -3,23 +3,29 @@
 
 ## 24.1. Der Dativ (चतुर्थी = "vierte Kasusendung")
 
-1\. Um den Zweck oder eine Absicht ("um zu") einer handlung wiederzugeben, kann man statt des Infinitivs (तुमुन्) auch ein Nomen mit kṛt-Suffix, das eine Handlung oder einen Zustand bezeichnet, im Dativ (चतुर्थी = "vierte Kasusendung") verwenden.
+:::: grammar-box
+**1. Um den Zweck oder eine Absicht ("um zu") einer Handlung wiederzugeben, kann man statt des Infinitivs (तुमुन्) auch ein Nomen mit kṛt-Suffix, das eine Handlung oder einen Zustand bezeichnet, im Dativ (चतुर्थी = "vierte Kasusendung") verwenden.**
 
 Beispiel:
 
 anstatt:
 
-> रामो गुरुवचनं श्रोतुं गतः ।
+::: indent
+रामो गुरुवचनं श्रोतुं गतः ।
+:::
 
 kann man auch sagen:
 
-> रामो गुरुवचनस्य श्रवणाय गतः ।
+::: indent
+रामो गुरुवचनस्य श्रवणाय गतः ।
 
 oder:
 
-> रामो गुरुवचनश्रवणाय गतः ।
+रामो गुरुवचनश्रवणाय गतः ।
+:::
 
-\= "Rāma ist gegangen, um die Rede des Lehrers zu hören."
+= "Rāma ist gegangen, um die Rede des Lehrers zu hören."
+::::
 
 ::: media
 ![](/images/lekt2404.jpg)
@@ -27,18 +33,23 @@ Abb.: बाला गुरुश्रवणाय गताः
 (Bildquelle: [Details](/licenses#lekt2404))
 :::
 
-
- 2\. Der Dativ (चतुर्थी) kann auch das Objekt eines zu ergänzenden Infinitivs des Zweckes bezeichnen:
-
-Beispiel:
-
-> फलेभ्यो ग्रामं गच्छति = "Er geht zum Zweck von Früchten ins Dorf = Er geht ins Dorf, um Früchte zu holen."
-
-In gleicher weise bezeichnet der Dativ (चतुर्थी) den Zweck eines Dinges oder einer Handlung:
+:::: grammar-box
+**2. Der Dativ (चतुर्थी) kann auch das Objekt eines zu ergänzenden Infinitivs des Zweckes bezeichnen:**
 
 Beispiel:
 
-> यज्ञायान्नम् = "Speise zum Zweck eines Opfers = Speise für ein Opfer"
+::: indent
+फलेभ्यो ग्रामं गच्छति = "Er geht zum Zweck von Früchten ins Dorf = Er geht ins Dorf, um Früchte zu holen."
+:::
+
+**In gleicher Weise bezeichnet der Dativ (चतुर्थी) den Zweck eines Dinges oder einer Handlung:**
+
+Beispiel:
+
+::: indent
+यज्ञायान्नम् = "Speise zum Zweck eines Opfers = Speise für ein Opfer"
+:::
+::::
 
 ::: media
 ![](/images/lekt2401.jpg)
@@ -46,12 +57,15 @@ Abb.: यज्ञायान्नम्
 (Bildquelle: [Details](/licenses#lekt2401))
 :::
 
-
-3\. Der Dativ (चतुर्थी) bezeichnet auch die Person oder Sache, für die das Objekt einer Handlung bestimmt ist (indirektes Objekt ; Frage: wem?). (Beachten Sie aber die Verben mit doppeltem Akkusativ (द्वितीया)!)
+:::: grammar-box
+**3. Der Dativ (चतुर्थी) bezeichnet auch die Person oder Sache, für die das Objekt einer Handlung bestimmt ist (indirektes Objekt ; Frage: wem?). (Beachten Sie aber die Verben mit doppeltem Akkusativ (द्वितीया)!)**
 
 Beispiel:
 
-> रामाय फलं ददाति = "Er gibt dem Rāma eine Frucht." (Wurzel दा 3. Präsensklasse)
+::: indent
+रामाय फलं ददाति = "Er gibt dem Rāma eine Frucht." (Wurzel दा 3. Präsensklasse)
+:::
+::::
 
 ::: media
 ![](/images/lekt2402.jpg)
@@ -59,14 +73,17 @@ Abb.: बाला बालाय रक्षबन्धनं ददात�
 (Bildquelle: [Details](/licenses#lekt2402))
 :::
 
-
-4\. Der Dativ steht bei einigen Verben (und einigen anderen Wörtern) ähnlich wie im Deutschen auf die Frage "wem?":
+:::: grammar-box
+**4. Der Dativ steht bei einigen Verben (und einigen anderen Wörtern) ähnlich wie im Deutschen auf die Frage "wem?":**
 
 Beispiele:
 
-> क्रुध् : देवो नरेभ्यो क्रुध्यति = "Der Gott zürnt den Männern."
-> 
-> अलम् Adverb: "genug, hinreichend, gewachsen": अलं योधो योधाय = "ein Krieger ist dem anderen Krieger gewachsen"
+::: indent
+क्रुध् : देवो नरेभ्यो क्रुध्यति = "Der Gott zürnt den Männern."
+
+अलम् Adverb: "genug, hinreichend, gewachsen": अलं योधो योधाय = "ein Krieger ist dem anderen Krieger gewachsen"
+:::
+::::
 
 ::: media
 ![](/images/lekt2403.jpg)
@@ -74,15 +91,16 @@ Abb.: अलं योधो योधाय
 (Bildquelle: [Details](/licenses#lekt2403))
 :::
 
-
 Weitere Verwendungen des Dativ später.
 
 ## 24.2. Bildung des Dativ (चतुर्थी)
 
-Die regelmäßigen Endungen des Dativ sind:
+::: grammar-box
+**Die regelmäßigen Endungen des Dativ sind:**
 
-> *   Singular: -e ; vokalisch endende Femininstämme: -ai
-> *   Plural: Dativ und Ablativ (पञ्चमी): -bhyas
+* **Singular: -e ; vokalisch endende Femininstämme: -ai**
+* **Plural: Dativ und Ablativ (पञ्चमी): -bhyas**
+:::
 
 ### 24.2.1. Konsonantische Stämme
 
@@ -90,10 +108,10 @@ Die regelmäßigen Endungen des Dativ sind:
 
 | | Dativ Singular[[br]]चतुर्थी एकवचन | Dativ Plural[[br]]चतुर्थी बहुवचन |
 | :--- | :--- | :--- |
-| **yajant**[[br]](यजन्त्) | **yajate**[[br]](यजते)[[br]](yaja-t-e) | **yajadbhyas**[[br]](यजद्भ्यस्)[[br]](aus yaja-t-bhyas) |
-| **mahānt**[[br]](महान्त्) | **mahate**[[br]](महते) | **mahadbhyas**[[br]](महद्भ्यस्) |
-| **paśumant**[[br]](पशुमन्त्) | **paśumate**[[br]](पशुमते) | **paśumadbhyas**[[br]](पशुमद्भ्यस्) |
-| **guṇavant**[[br]](गुणवन्त्) | **guṇavate**[[br]](गुणवते) | **guṇavadbhyas**[[br]](गुणवद्भ्यस्) |
+| **yajant**[[br]]यजन्त् | **yajate**[[br]]यजते[[br]](yaja-t-e) | **yajadbhyas**[[br]]यजद्भ्यस्[[br]](aus yaja-t-bhyas) |
+| **mahānt**[[br]]महान्त् | **mahate**[[br]]महते | **mahadbhyas**[[br]]महद्भ्यस् |
+| **paśumant**[[br]]पशुमन्त् | **paśumate**[[br]]पशुमते | **paśumadbhyas**[[br]]पशुमद्भ्यस् |
+| **guṇavant**[[br]]गुणवन्त् | **guṇavate**[[br]]गुणवते | **guṇavadbhyas**[[br]]गुणवद्भ्यस् |
 
 ::::
 
@@ -103,8 +121,8 @@ Die regelmäßigen Endungen des Dativ sind:
 
 | | Maskulinum / Neutrum[[br]]पुंस् / नपुंसक | Femininum[[br]]स्त्री |
 | :--- | :--- | :--- |
-| **Dativ Singular**[[br]]एकवचन | **kasmai**[[br]](कस्मै) | **kasyai**[[br]](कस्यै) |
-| **Dativ Plural**[[br]]बहुवचन | **kebhyas**[[br]](केभ्यस्) | **kābhyas**[[br]](काभ्यस्) |
+| **Dativ Singular**[[br]]एकवचन | **kasmai**[[br]]कस्मै | **kasyai**[[br]]कस्यै |
+| **Dativ Plural**[[br]]बहुवचन | **kebhyas**[[br]]केभ्यस् | **kābhyas**[[br]]काभ्यस् |
 
 ::::
 
@@ -112,12 +130,12 @@ Die regelmäßigen Endungen des Dativ sind:
 
 :::: grammar-box
 
-| | | **tad**[[br]](तद्) | **etad**[[br]](एतद्) | **idam**[[br]](इदम्) |
+| | | **tad**[[br]]तद् | **etad**[[br]]एतद् | **idam**[[br]]इदम् |
 | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum[[br]]/ Neutrum** | **Dat. sg.** | **tasmai**[[br]](तस्मै) | **etasmai**[[br]](एतस्मै) | **asmai**[[br]](अस्मै) |
-| | **Dat. pl.** | **tebhyas**[[br]](तेभ्यस्) | **etebhyas**[[br]](एतेभ्यस्) | **ebhyas**[[br]](एभ्यस्) |
-| **Femininum** | **Dat. sg.** | **tasyai**[[br]](तस्यै) | **etasyai**[[br]](एतस्यै) | **asyai**[[br]](अस्यै) |
-| | **Dat. pl.** | **tābhyas**[[br]](ताभ्यस्) | **etābhyas**[[br]](एताभ्यस्) | **ābhyas**[[br]](आभ्यस्) |
+| **Maskulinum[[br]]/ Neutrum** | **Dat. sg.** | **tasmai**[[br]]तस्मै | **etasmai**[[br]]एतस्मै | **asmai**[[br]]अस्मै |
+| | **Dat. pl.** | **tebhyas**[[br]]तेभ्यस् | **etebhyas**[[br]]एतेभ्यस् | **ebhyas**[[br]]एभ्यस् |
+| **Femininum** | **Dat. sg.** | **tasyai**[[br]]तस्यै | **etasyai**[[br]]एतस्यै | **asyai**[[br]]अस्यै |
+| | **Dat. pl.** | **tābhyas**[[br]]ताभ्यस् | **etābhyas**[[br]]एताभ्यस् | **ābhyas**[[br]]आभ्यस् |
 
 ::::
 
@@ -126,43 +144,43 @@ Die regelmäßigen Endungen des Dativ sind:
 ::: grammar-box
 **Vokalische Stämme**
 
-**Maskulina / Neutra auf -a: deva (देव)**
-- Dat. sg. **devāya** (देवाय)
-- Dat. pl. **devebhyas** (देवेभ्यस्)
-
-**Maskulina auf -i: kavi (कवि)**
-- Dat. sg. **kavaye** (कवये)
-- Dat. pl. **kavibhyas** (कविभ्यस्)
-
-**Maskulina auf -u: paśu (पशु)**
-- Dat. sg. **paśave** (पशवे)
-- Dat. pl. **paśubhyas** (पशुभ्यस्)
-
-**Feminina auf -ā: devatā (देवता)**
-- Dat. sg. **devatāyai** (देवतायै)
-- Dat. pl. **devatābhyas** (देवताभ्यस्)
-
-**Feminina auf -ī: devī (देवी)**
-- Dat. sg. **devyai** (देव्यै)
-- Dat. pl. **devībhyas** (देवीभ्यस्)
-
-**Feminina auf -i: śruti (श्रुति)**
-- Dat. sg. **śrutaye** (श्रुतये) oder **śrutyai** (श्रुत्यै)
-- Dat. pl. **śrutibhyas** (श्रुतिभ्यस्)
-
-**Feminina auf -u: dhenu (धेनु)**
-- Dat. sg. **dhenave** (धेनवे) oder **dhenvai** (धेन्वै)
-- Dat. pl. **dhenubhyas** (धेनुभ्यस्)
+* **Maskulina / Neutra auf -a: deva (देव)**
+  * **Dat. sg. devāya (देवाय)**
+  * **Dat. pl. devebhyas (देवेभ्यस्)**
+* **Maskulina auf -i: kavi (कवि)**
+  * **Dat. sg. kavaye (कवये)**
+  * **Dat. pl. kavibhyas (कविभ्यस्)**
+* **Maskulina auf -u: paśu (पशु)**
+  * **Dat. sg. paśave (पशवे)**
+  * **Dat. pl. paśubhyas (पशुभ्यस्)**
+* **Feminina auf -ā: devatā (देवता)**
+  * **Dat. sg. devatāyai (देवतायै)**
+  * **Dat. pl. devatābhyas (देवताभ्यस्)**
+* **Feminina auf -ī: devī (देवी)**
+  * **Dat. sg. devyai (देव्यै)**
+  * **Dat. pl. devībhyas (देवीभ्यस्)**
+* **Feminina auf -i: śruti (श्रुति)**
+  * **Dat. sg. śrutaye (श्रुतये) oder śrutyai (श्रुत्यै)**
+  * **Dat. pl. śrutibhyas (श्रुतिभ्यस्)**
+* **Feminina auf -u: dhenu (धेनु)**
+  * **Dat. sg. dhenave (धेनवे) oder dhenvai (धेन्वै)**
+  * **Dat. pl. dhenubhyas (धेनुभ्यस्)**
 :::
 
 ## 24.3. Sandhi von auslautendem -ai und -au
 
-*   \-ai vor anlautendem Vokal wird in der Regel durch -ā ersetzt (seltener durch -āy wie im Wortinneren 
-*   \-au vor Vokal wird in der Regel durch -āv ersetzt (seltener durch -ā)
+::: grammar-box
+**Sandhi von auslautendem -ai und -au**
+
+* **-ai vor anlautendem Vokal wird in der Regel durch -ā ersetzt (seltener durch -āy wie im Wortinneren)**
+* **-au vor Vokal wird in der Regel durch -āv ersetzt (seltener durch -ā)**
 
 Beispiel:
 
-> तस्मै + अग्नये » तस्मा अग्नये = "diesem Feuer"
+::: indent
+तस्मै + अग्नये » तस्मा अग्नये = "diesem Feuer"
+:::
+:::
 
 ## 24.4. Wortliste
 
@@ -174,9 +192,11 @@ In gleicher Weise wie अलम् mit Instrumentalis wird verwendet:
 
 अलम् + कृ 8U अलंकरोति : schmücken
 
-> अलंकार m.: Schmuck, Schmuckmittel (in der Dichtung)
-> 
-> ::: media
+::: indent
+अलंकार m.: Schmuck, Schmuckmittel (in der Dichtung)
+:::
+
+::: media
 ![](/images/lekt2405.jpg)
 Abb.: अलंकारः
 (Bildquelle: [Details](/licenses#lekt2405))
@@ -198,9 +218,11 @@ Abb.: देवीप्रतिमा
 
 Von वृत्:
 
-> वृत्ति f.: Benehmen, Tätigkeit, Lebensweise
-> 
-> वृत्त n.: Benehmen
+::: indent
+वृत्ति f.: Benehmen, Tätigkeit, Lebensweise
+
+वृत्त n.: Benehmen
+:::
 
 अभि Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
 
@@ -218,11 +240,13 @@ Von वृत्:
 
 davon
 
-> अपोह m.: Negierung (अप + ऊह)
-> 
-> ऊहापोह m.: Diskussion des Für und Wider
-> 
-> ::: media
+::: indent
+अपोह m.: Negierung (अप + ऊह)
+
+ऊहापोह m.: Diskussion des Für und Wider
+:::
+
+::: media
 ![](/images/lekt2407.jpg)
 Abb.: ऊहापोहः
 (Bildquelle: [Details](/licenses#lekt2407))
@@ -235,24 +259,28 @@ Abb.: ऊहापोहः
 
 ख्या 2P ख्याति PPP ख्यात : sehen, sichtbar werden ; nennen, erklären, mitteilen
 
-> ख्या + आ 2P आख्यात : erzählen
-> 
-> davon:
-> 
-> &gt; आख्यान n.: Erzählung
-> 
-> ::: media
+::: indent
+ख्या + आ 2P आख्यात : erzählen
+
+davon:
+
+आख्यान n.: Erzählung
+:::
+
+::: media
 ![](/images/lekt2408.jpg)
 Abb.: आख्यानम्
 (Bildquelle: [Details](/licenses#lekt2408))
 :::
 
 
-> ख्या + सम् 2P संख्याति : zusammenzählen, berechnen
-> 
-> davon:
-> 
-> &gt; संख्या f.: Zählung, Aufzählung ; सांख्य n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.)
+::: indent
+ख्या + सम् 2P संख्याति : zusammenzählen, berechnen
+
+davon:
+
+संख्या f.: Zählung, Aufzählung ; सांख्य n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.)
+:::
 
 ग्रहण n.: Ergreifen
 
@@ -266,7 +294,9 @@ Abb.: आख्यानम्
 
 davon:
 
-> कृ + नमस् 8 नमस्करोमि : sich verbeugen, verehren, begrüßen
+::: indent
+कृ + नमस् 8 नमस्करोमि : sich verbeugen, verehren, begrüßen
+:::
 
 ::: media
 ![](/images/lekt2411.jpg)
@@ -372,7 +402,9 @@ Abb.: श्रीगणेशाय नमः
 
 10\. Nachdem ich mich vor den drei Weisen (Akk.) verbeugt habe (नमस्कृ)... Er verbeugt sich vor Narasiṃha (Dat.)
 
-> Erklärung:  मुनित्रयम् "die Dreiheit der Weisen = die drei Weisen" = die Grammatiker पाणिनि, कात्यायन, पतञ्जलि
+::: indent
+Erklärung: मुनित्रयम् "die Dreiheit der Weisen = die drei Weisen" = die Grammatiker पाणिनि, कात्यायन, पतञ्जलि
+:::
 
 ::: media
 ![](/images/lekt2410.jpg)
@@ -391,6 +423,7 @@ Abb.: नरो नरसिंहाय नमस्करोति
 
 15१५. Auf Widersehen! (Neusanskrit: पुनर्दर्शनाय)
 
+::: deleteme-box
 ### Quellen
 
 **lekt2401:** 'Annakut' [अन्नकूट = गोवर्धन पूजा] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day. [Bildquelle: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
@@ -414,3 +447,4 @@ Abb.: नरो नरसिंहाय नमस्करोति
 **lekt2410:** नरसिंह zerfleischt हिरण्यकशिपु, Blatt aus einem Manuskript des भागवतपुराण [Bildquelle: Wikipedia, Public domain]
 
 **lekt2411:** Manuskript des गीतगोविन्द, 1730 n. Chr. [Bildquelle: Wikipedia, Public domain]
+:::

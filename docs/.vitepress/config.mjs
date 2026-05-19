@@ -95,6 +95,9 @@ export default defineConfig({
     lineNumbers: true,
     breaks: true,
     config: (md) => {
+      md.core.ruler.before('normalize', 'prevent_br_link', (state) => {
+        state.src = state.src.replace(/\[\[br\]\]\(/g, '[[br]] (');
+      });
       md.use(multimd_table, {
         multiline: true,
         rowspan: true,
@@ -106,6 +109,15 @@ export default defineConfig({
         render: (tokens, idx) => {
           if (tokens[idx].nesting === 1) {
             return `<div class="grammar-box custom-block">\n`;
+          } else {
+            return `</div>\n`;
+          }
+        }
+      });
+      md.use(container, 'grammar-box2', {
+        render: (tokens, idx) => {
+          if (tokens[idx].nesting === 1) {
+            return `<div class="grammar-box2 custom-block">\n`;
           } else {
             return `</div>\n`;
           }
@@ -189,12 +201,43 @@ export default defineConfig({
         }
       });
 
+      md.use(container, 'compact', {
+        render: (tokens, idx) => {
+          if (tokens[idx].nesting === 1) {
+            return `<div class="compact custom-block">\n`;
+          } else {
+            return `</div>\n`;
+          }
+        }
+      });
+
       md.use(container, 'no-header', {
         render: (tokens, idx) => {
           if (tokens[idx].nesting === 1) {
             return `<div class="no-header custom-block">\n`;
           } else {
             return `</div>\n`;
+          }
+        }
+      });
+      
+      // Fix for markdown-it-attrs tables tbody calculate error with markdown-it-multimd-table:
+      // Temporarily rename tbody_close to bypass the buggy calculate rule
+      md.core.ruler.before('curly_attributes', 'table_meta_fix', (state) => {
+        for (let i = 0; i < state.tokens.length; i++) {
+          const token = state.tokens[i];
+          if (token.type === 'tbody_close') {
+            token.type = 'tbody_close_temp';
+          }
+        }
+      });
+
+      // Restore tbody_close after curly_attributes has finished
+      md.core.ruler.after('curly_attributes', 'table_meta_restore', (state) => {
+        for (let i = 0; i < state.tokens.length; i++) {
+          const token = state.tokens[i];
+          if (token.type === 'tbody_close_temp') {
+            token.type = 'tbody_close';
           }
         }
       });

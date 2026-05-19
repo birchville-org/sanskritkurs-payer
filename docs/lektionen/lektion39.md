@@ -7,8 +7,8 @@ Die Endungen der ersten Person (तृतीयः पुरुषः = "dritte 
 
 :::: grammar-box
 
-| | **परस्मैपदम्**[[br]]Parasmaipada | **आत्मनेपदम्**[[br]]Ātmanepada | | |
-| :--- | :--- | :--- | :--- | :--- |
+| | **परस्मैपदम्**[[br]]Parasmaipada || **आत्मनेपदम्**[[br]]Ātmanepada ||
+| :--- | :---: | :---: | :---: | :---: |
 | | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 | **Primärendung thematische Stämme** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
 | **Primärendung athematische Stämme** | | | **-e** | |
@@ -29,8 +29,8 @@ Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!
 ### 39.2.1. Erste Präsensklasse (भ्वादि)
 :::: grammar-box
 
-| **भू**[[br]]1P | **परस्मैपदम्** | | **आत्मनेपदम्** | |
-| :--- | :--- | :--- | :--- | :--- |
+| **भू**[[br]]1P | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
 | | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 | **Indikativ Präsens (लट्)** | **भवामि** | **भवामस्** | **\<भवे\>**[[br]](bhava + i \> bhave) | **\<भवामहे\>** |
 | **Imperfekt (लङ्)** | **अभवम्** | **अभवाम** | **\<अभवे\>** | **\<अभवामहि\>** |
@@ -40,12 +40,12 @@ Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!
 
 ### 39.2.2. Sechste Präsensklasse (तुदादि)
 
-विश् 1P
+विश् 6P
 
 :::: grammar-box
 
-| **विश्**[[br]]6P | **परस्मैपदम्** | | **आत्मनेपदम्** | |
-| :--- | :--- | :--- | :--- | :--- |
+| **विश्**[[br]]6P | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
 | | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 | **Indikativ Präsens (लट्)** | **विशामि** | **विशामस्** | **\<विशे\>** | **\<विशामहे\>** |
 | **Imperfekt (लङ्)** | **अविशम्** | **अविशाम** | **\<अविशे\>** | **\<अविशामहि\>** |
@@ -82,7 +82,7 @@ Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!
 :::: grammar-box
 
 | **ईक्ष्**[[br]]1Ā | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | **Indikativ Präsens (लट्)** | **ईक्ष्ये**[[br]](īkṣ-ya + i) | **ईक्ष्यामहे** |
 | **Imperfekt (लङ्)** | **ऐक्ष्ये**[[br]](a + īkṣ-ya + i) | **ऐक्ष्यामहि** |
 | **Optativ (विधिलिङ्)** | **ईक्ष्येय**[[br]](īkṣ-ya + iy-a) | **ईक्ष्येमहि**[[br]](īkṣ-ya + i-mahi) |

@@ -8,8 +8,8 @@ Las desinencias de la primera persona (तृतीयः पुरुषः = �
 
 :::: grammar-box
 
-| | **परस्मैपदम्**[[br]]Parasmaipada | **आत्मनेपदम्**[[br]]Ātmanepada | | |
-| :--- | :--- | :--- | :--- | :--- |
+| | **परस्मैपदम्**[[br]]Parasmaipada || **आत्मनेपदम्**[[br]]Ātmanepada ||
+| :--- | :---: | :---: | :---: | :---: |
 | | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 | **Desinencia primaria de temas temáticos** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
 | **Desinencia primaria de temas atemáticos** | | | **-e** | |
@@ -30,8 +30,8 @@ Ante -mi, -mas, -ma, -māhe, -mahi, la vocal temática -a- se reemplaza por -ā-
 ### 39.2.1. Erste Presenteklasse (भ्वादि)
 :::: grammar-box
 
-| **भू**[[br]]1P | **परस्मैपदम्** | | **आत्मनेपदम्** | |
-| :--- | :--- | :--- | :--- | :--- |
+| **भू**[[br]]1P | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
 | | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | <!-- TODO: Fallback translation -->
 | **Indikativ Präsens (लट्)** | **भवामि** | **भवामस्** | **\<भवे\>**[[br]](bhava + i \> bhave) | **\<भवामहे\>** | <!-- TODO: Fallback translation -->
 | **Imperfekt (लङ्)** | **अभवम्** | **अभवाम** | **\<अभवे\>** | **\<अभवामहि\>** | <!-- TODO: Fallback translation -->
@@ -45,8 +45,8 @@ Regla:
 
 :::: grammar-box
 
-| **विश्**[[br]]6P | **परस्मैपदम्** | | **आत्मनेपदम्** | |
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
+| **विश्**[[br]]6P | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
 | | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | <!-- TODO: Fallback translation -->
 | **Indikativ Präsens (लट्)** | **विशामि** | **विशामस्** | **\<विशे\>** | **\<विशामहे\>** | <!-- TODO: Fallback translation -->
 | **Imperfekt (लङ्)** | **अविशम्** | **अविशाम** | **\<अविशे\>** | **\<अविशामहि\>** | <!-- TODO: Fallback translation -->
@@ -84,10 +84,10 @@ Regla:
 :::: grammar-box
 
 | **ईक्ष्**[[br]]1Ā | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens (लट्)** | **ईक्ष्ये**[[br]](īkṣ-ya + i) | **ईक्ष्यामहे** | <!-- TODO: Fallback translation -->
-| **Imperfekt (लङ्)** | **ऐक्ष्ये**[[br]](a + īkṣ-ya + i) | **ऐक्ष्यामहि** | <!-- TODO: Fallback translation -->
-| **Optativ (विधिलिङ्)** | **ईक्ष्येय**[[br]](īkṣ-ya + iy-a) | **ईक्ष्येमहि**[[br]](īkṣ-ya + i-mahi) | <!-- TODO: Fallback translation -->
+| :--- | :---: | :---: |
+| **Indikativ Präsens (लट्)** | **ईक्ष्ये**[[br]](īkṣ-ya + i) | **ईक्ष्यामहे** |
+| **Imperfekt (लङ्)** | **ऐक्ष्ये**[[br]](a + īkṣ-ya + i) | **ऐक्ष्यामहि** |
+| **Optativ (विधिलिङ्)** | **ईक्ष्येय**[[br]](īkṣ-ya + iy-a) | **ईक्ष्येमहि**[[br]](īkṣ-ya + i-mahi) |
 
 ::::
 

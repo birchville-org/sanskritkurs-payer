@@ -1,25 +1,26 @@
 
 # Lektion 15
 
-## १. सुभाषितम्
+## 15.1. सुभाषितम्
 
-> गुरुशुश्रूषया विद्या  
-> पुष्कलेन धनेन वा ।  
-> अथवा विद्यया विद्या  
-> चतुर्थी नैव विद्यते ॥
+गुरुशुश्रूषया विद्या  
+पुष्कलेन धनेन वा ।  
+अथवा विद्यया विद्या  
+चतुर्थी नैव विद्यते ॥
 
 ## 15.2. Determinativkomposita = Tatpuruṣa m. = तत्पुरुष
 
 Das Verhältnis von durch Nomina (Substantive und Adjektive) Bezeichnetem zueinander kann man außer durch eine Genetivkonstruktion auch durch ein Tatpuruṣa (तत्पुरुष) ausdrücken. Ebenso kann man attributive Beiordnungen von Adjektiven oder appositionelle Beiordnung von Substantiven durch eine bestimmte Art von Tatpuruṣa, nämlich durch sog. Karmadhāraya (m.) = कर्मधारय ausdrücken.
 
 तत्पुरुषः =  तस्य पुरुषः "sein Knecht", d.h. als Bezeichnung dieser Art von Komposita dient ein Beispiel solcher Komposita.
+::: grammar-box
 
-In determinativen Komposita (Tatpuruṣa) wird ein Nomen (Substantiv oder Adjektiv)  durch ein anderes Nomen oder Adverb näher bestimmt. Das näher bestimmte Wort bildet in der Regel das Hinterglied des Kompositum.
+In determinativen Komposita (Tatpuruṣa) wird ein Nomen (Substantiv oder Adjektiv) durch ein anderes Nomen oder Adverb näher bestimmt. Das näher bestimmte Wort bildet in der Regel das Hinterglied des Kompositum.
 
 Das Verhältnis der Vorderglieds (determinierendes Glied) zum Hinterglied (determiniertes Glied) kann sein:
 
-*   attributiv bzw. appositionell: bei Auflösung des Kompositums bildet das Vorderglied zum Hinterglied eine nähere Bestimmung im selben Kasus (d.h. außerhalb eines Satzzusammenhangs im Nominativ (प्रथमा), im Satz im syntaktisch geforderten Kasus) 
-*   kasuell: das Vorderglied steht bei der Auflösung der Kompositums in einem anderen Kasus als das Hinterglied (d.h. nicht im Nominativ - प्रथमा) 
+*   attributiv bzw. appositionell: bei Auflösung des Kompositums bildet das Vorderglied zum Hinterglied eine nähere Bestimmung im selben Kasus (d.h. außerhalb eines Satzzusammenhangs im Nominativ (प्रथमा), im Satz im syntaktisch geforderten Kasus)
+*   kasuell: das Vorderglied steht bei der Auflösung der Kompositums in einem anderen Kasus als das Hinterglied (d.h. nicht im Nominativ - प्रथमा)
 *   adverbial: das Vorderglied ist ein nicht-deklinierbares Wort
 
 Das Kasusverhältnis beider Glieder eines Kompositums ist unabhängig davon, in welchem Kasus das Kompositum steht: das Kompositum ist ja ein einziges deklinierbares Wort:
@@ -35,85 +36,104 @@ z. B.
 
 Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
+:::
+
 ## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = कर्मधारय
+::: grammar-box
 
 Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus.
 
+:::
+
 z.B.
 
-> गुणवत्पुत्रः = गुणवान्पुत्रः = "ein Sohn mit guten Eigenschaften"
-> 
-> &gt; Akk. sg. गुणवत्पुत्रम्  
-> &gt; Nom pl. गुणवत्पुत्राः
-> 
-> पुण्यवत्क्षत्रिया = पुण्यवती क्षत्रिया = "eine verdienstreiche Kṣatriyafrau"
-> 
-> साधुजनाः = साधवो जनाः = "gute Leute"
-> 
-> इष्टदेवता = इष्टा देवता = "die gewünschte Gottheit = die Gottheit, zu der man ein besonderes Andachts- und Zufluchtsverhältnis hat"
-> 
-> ![](/images/lekt1501.jpg)  
-> Abb.: लक्ष्मी, die Göttin des Wohlstandes, eine इष्टदेवता mancher Inder  
-> Gemälde von राजा रवि वर्मा (1848 - 1906)  
-> \[Bildquelle: Wikipedia, Public domain\]
+गुणवत्पुत्रः = गुणवान्पुत्रः = "ein Sohn mit guten Eigenschaften"  
+Akk. sg. गुणवत्पुत्रम्  
+Nom pl. गुणवत्पुत्राः  
+
+पुण्यवत्क्षत्रिया = पुण्यवती क्षत्रिया = "eine verdienstreiche Kṣatriyafrau"  
+
+साधुजनाः = साधवो जनाः = "gute Leute"  
+
+इष्टदेवता = इष्टा देवता = "die gewünschte Gottheit = die Gottheit, zu der man ein besonderes Andachts- und Zufluchtsverhältnis hat"
+
+::: media
+![](/images/lekt1501.jpg)
+Abb.: लक्ष्मी
+(Bildquelle: [Details](/licenses#lekt1501))
+:::
+
+::: grammar-box
 
 Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
 *   drückt ein Karmadhāraya einen VERGLEICH aus, dann steht das, womit verglichen wird, im Hinterglied des Kompositums:
     
-    नरसिंहः = सिंह इव नरः = "ein Mann wie ein Löwe"पुरुषव्याघ्रः = व्याघ्र इव पुरुषः = "ein Mann wie ein Tiger" 
+    नरसिंहः = सिंह इव नरः = "ein Mann wie ein Löwe"  
+    पुरुषव्याघ्रः = व्याघ्र इव पुरुषः = "ein Mann wie ein Tiger"
     
 *   drückt ein Karmadhāraya aber eine Apposition (nähere Bestimmung des Hinterglieds durch ein Substantiv) aus, so steht das näher Bestimmende im Vorderglied, wie es auch die allgemeine Regel für die Reihenfolge für die Glieder in einem Tatpuruṣa fordert:
     
-    नरसिंहः  kann auch aufgelöst werden: नर एव सिंहः \= "Ein Löwe, der (in Wirklichkeit) ein Mann ist.  
+    नरसिंहः kann auch aufgelöst werden: नर एव सिंहः = "Ein Löwe, der (in Wirklichkeit) ein Mann ist."
       
     Solche appositionelle Karmadhāraya werden in den einheimischen Kommentaren wie im obigen Beispiel mittels एव aufgelöst.
-    
 
-![](/images/lekt1503.jpg)  
-Abb.:  नरसिंह, ein अवतार Viṣṇus  
-Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ)  
-\[Bildquelle: Wikipedia, Public domain\]
+:::
+    
+::: media
+![](/images/lekt1503.jpg)
+Abb.: नरसिंहः
+(Bildquelle: [Details](/licenses#lekt1503))
+:::
 
 ## 15.4. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn
 
+::: grammar-box
+
 Tatpuruṣaverbindungen sind möglich für Verbindungen von Nomina (Substantive und Adjektive), bei denen das Vorderglied - den Regeln der Syntax entsprechend - in jedem Kasus stehen kann. Erwartungsgemäß vertritt das Vorderglied am häufigsten einen Genetiv (षष्ठी), da dies ja der Kasus ist, um das Verhältnis von Nomina auszudrücken.
+
+:::
 
 z.B.
 
-> क्षत्रियपुत्रः = क्षत्रियस्य पुत्रः = "der Sohn eines Kṣatriya", "ein junger Kṣatriya", "ein  Angehöriger der Gruppe der Kṣatriyas"
-> 
-> &gt; Akk. sg. क्षत्रियपुत्रम्  
-> &gt; Gen. sg. क्षत्रियपुत्रस्य  
-> &gt; u.s.w.
-> 
-> गुरुभावः =  गुरोर्भावः  = "die Natur eines Lehrers"
-> 
-> धनलोभः = धनस्य लोभः = "Begierde nach Reichtum, Habsucht"
-> 
-> लोकगतिः = लोकस्य गतिः = "der Gang der Welt, das Verhalten der Leute"
+क्षत्रियपुत्रः = क्षत्रियस्य पुत्रः = "der Sohn eines Kṣatriya", "ein junger Kṣatriya", "ein  Angehöriger der Gruppe der Kṣatriyas"  
+Akk. sg. क्षत्रियपुत्रम्  
+Gen. sg. क्षत्रियपुत्रस्य  
+u.s.w.  
+
+गुरुभावः =  गुरोर्भावः  = "die Natur eines Lehrers"
+
+धनलोभः = धनस्य  लोभः = "Begierde nach Reichtum, Habsucht"
+
+लोकगतिः =  लोकस्य गतिः = "der Gang der Welt, das Verhalten der Leute"
 
 Fast jedes Genetivverhältnis kann durch ein Tatpuruṣa ersetzt werden. Die Wenigen Ausnahmen siehe z.B. bei Kale, A higher Sanskrit grammar § 211, dort auch die entsprechenden Stellen bei Pāṇini.
 
 Das Vorderglied eines Tatpuruṣa kann aber prinzipiell jeden Kasus vertreten. Allerdings können nicht alle syntaktisch möglichen Kasusverhältnisse durch ein Tatpuruṣa ersetzt werden. Die entsprechenden regeln findet man im Zweifelsfall bei Kale, A higher Sanskrit grammar § 203 - 217 bzw. Pāṇini 2,1,22 - 2,2,22.
 
+::: grammar-box
+
 Das Vorderglied kann bei der Auflösung des Kompositums im Singular, Dual oder Plural stehen. Welche Möglichkeit vorliegt, muss aus Bedeutung und Kontext erschlossen werden.
+
+:::
 
 Beispiele:
 
 Das Vorderglied vertritt den Akkusativ (द्वितीया): z.B. bei gewissen PPP zu Verben der Bewegung (Pāṇini 2,1,24):
 
-> ग्रामगतः = ग्रामं गतः = "einer, der ins Dorf gegangen ist"  
-> नरकपतिता = नरकं पतिता = "eine, die in eine Hölle gefallen ist"
+ग्रामगतः = ग्रामं गतः = "einer, der ins Dorf gegangen ist"  
+नरकपतिता = नरकं पतिता = "eine, die in eine Hölle gefallen ist"
 
 Das Vorderglied vertritt den Instrumentalis (तृतीया): z.B. häufig der Agens (कर्तृ) von Nominalbildungen mit kṛt-Suffixen (z.B. PPP):
 
-> देवकृतम् = देवेन / देवैः कृतम् = "von einem Gott / von Göttern gemacht"  
-> Wäre auch auflösbar: देवस्य / देवानां कृतम् = "Tat / Tun eines Gottes / von Göttern ; Gottestat, Göttertat"
-> 
-> बुद्धरक्षिता  = बुद्धेन रक्षिता = "die, die von Buddha behütet wurde" (ein Eigenname)
+देवकृतम् = देवेन / देवैः कृतम् = "von einem Gott / von Göttern gemacht"  
+Wäre auch auflösbar: देवस्य / देवानां कृतम् = "Tat / Tun eines Gottes / von Göttern ; Gottestat, Göttertat"  
+
+बुद्धरक्षिता  = बुद्धेन रक्षिता = "die, die von Buddha behütet wurde" (ein Eigenname)
 
 ## 15.5. Zerlegung von Komposita (außer Dvandvas)
+
+::: grammar-box
 
 Obwohl im Sanskrit Komposita beliebiger Länge gebildet werden können und auch sehr häufig gebildet werden (Komposita aus 10 bis 30 Gliedern sind keine Seltenheit!), so sind doch - mit Ausnahme der Dvandvas - alle Komposita fortschreitend hierarchisch in je zwei Teile zu zerlegen:
 
@@ -131,7 +151,7 @@ z.B.
 > 
 > 3\. Stufe (2. Nebenzäsur): गुणवता॥३॥ पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
 > 
-> \= "die verdienstvolle Tat (das Verdienst), die mein tugendhafter Sohn getan hat"
+> = "die verdienstvolle Tat (das Verdienst), die mein tugendhafter Sohn getan hat"
 
 Dabei können verschiedene Arten von Komposita gemischt werden, z.B. Vorderglied: Bahuvrīhi (बहुव्रीहि) - Hinterglied: Tatpuruṣa usw.
 
@@ -143,7 +163,7 @@ z.B.
 > 
 > 2\. Stufe: ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः
 > 
-> \= "der Dharma von Brahmanen, Kṣatriyas und Vaiśyas"
+> = "der Dharma von Brahmanen, Kṣatriyas und Vaiśyas"
 
 Sehr oft gibt es für ein Kompositum verschiedene Möglichkeiten der Auflösung. Welches die richtige oder zumindest die beste ist, kann nur aus dem Kontext und dem Inhalt des Textes entschieden werden. Manchmal ist eine solche Entscheidung nicht möglich. Oft sind zwei Auflösungsmöglichkeiten vermutlich vom Autor intendiert. Dann muss man in der Übersetzung beide Auflösungsmöglichkeiten wiedergeben (verbunden mit "und", "oder" "bzw." und dergleichen.
 
@@ -153,32 +173,31 @@ z.B.
 
 > 1\. Stufe: entweder - oder
 > 
-> 1.  पुण्यवत्पुत्रेण कृतम्
->     
-> 2.  पुण्यवत्पुत्रस्य कृतम्
->     
-> 3.  पुण्यवत् पुत्रकृतम्
->     
+> 1. पुण्यवत्पुत्रेण कृतम्
+> 2. पुण्यवत्पुत्रस्य कृतम्
+> 3. पुण्यवत् पुत्रकृतम्
 > 
 > 2\. Stufe: entsprechend
 > 
-> 1.  पुण्यवता पुत्रेण कृतम् = "das von meinem verdienstreichen Sohn Getane"
->     
-> 2.  पुण्यवतः पुत्रस्य कृतम् = "die Tat meines verdienstreichen Sohnes"
->     
-> 3.  1.  पुण्यवत् पुत्रेण कृतम् = "das verdienstvolle, von meinem Sohn Getane"
->         
->     2.  पुण्यवत् पुत्रस्य कृतम् = "die verdienstvolle Tat meines Sohnes"
->         
+> 1. पुण्यवता पुत्रेण कृतम् = "das von meinem verdienstreichen Sohn Getane"
+> 2. पुण्यवतः पुत्रस्य कृतम् = "die Tat meines verdienstreichen Sohnes"
+> 3. 1. पुण्यवत्  पुत्रेण कृतम् = "das verdienstvolle, von meinem Sohn Getane"
+>    2. पुण्यवत्  पुत्रस्य कृतम् = "die verdienstvolle Tat meines Sohnes"
+
+:::
+
 
 ## 15.6. Die Form des Vorderglieds in Komposita (समास m.)
+::: grammar-box
 
 In allen Arten von Komposita ist das Vorderglied in der Regel der unveränderte Wortstamm. Zweistämmige Nomina stehen im schwachen Stamm. Feminine Adjektive, die ein folgendes Glied im Kompositum näher bestimmen, stehen im Allgemeinen in maskulinen Stamm:
 
 z.B.
 
-पुण्यवत्क्षत्रिया =  पुण्यवती क्षत्रिया = "eine Kṣatriyafrau, die Verdienst besitzt"  
+पुण्यवत्क्षत्रिया = पुण्यवती क्षत्रिया = "eine Kṣatriyafrau, die Verdienst besitzt"  
 गुणवत्पुत्रः = गुणवान् पुत्रः = "ein Sohn mit guten Eigenschaften"
+
+:::
 
 ## 15.7. Einteilung der तत्पुरुष
 
@@ -231,22 +250,20 @@ z.B.
 अर्ध 3: halb, m.n. Hälfte
 
 पूजा f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā)
-
-![](/images/lekt1504.jpg)  
-Abb.: पूजा  
-A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India, at the start of a seismic survey contract.  
-\[Bildquelle: Wikiepdia, Public domain\]
+::: media
+![](/images/lekt1504.jpg)
+Abb.: पूजा
+(Bildquelle: [Details](/licenses#lekt1504))
+:::
 
 कुल n.: Herde, Menge, Geschlecht, Abstammung, Familie
 
 इन्द्र m.: Fürst, Erster, Bester unter ; Götterkönig Indra
-
-![](/images/lekt1505.jpg)  
+::: media
+![](/images/lekt1505.jpg)
 Abb.: इन्द्रः
-
-> Indra and Sachi Riding the Divine Elephant Airavata, Folio from a Panchakalyanaka (Five Auspicious Events in the Life of Jina Rishabhanatha \[Adinatha\]), circa 1670-1680 Painting; Watercolor, Opaque watercolor, gold, and silver on paper, Image: 9 1/8 x 15 1/8 in. (23.18 x 38.42 cm); Sheet: 10 5/8 x 16 3/4 in. (26.99 x 42.55 cm. Made in: India, Rajasthan, Amber
-> 
-> \[Bildquelle: Wikipedia, Public domain\]
+(Bildquelle: [Details](/licenses#lekt1505))
+:::
 
 दास m.: Sklave, Leibeigener, Diener
 
@@ -264,46 +281,55 @@ Abb.: इन्द्रः
 
 davon:
 
-> स्तुति f.: Lobpreis, Loblied
-> 
-> स्तोत्र n.: (Mittel zum Preisen =) Loblied, Hymnus
+::: indent
+स्तुति f.: Lobpreis, Loblied
+
+स्तोत्र n.: (Mittel zum Preisen =) Loblied, Hymnus
+:::
 
 सिंह m.: Löwe (_Panthera leo persica_)
-
-![](/images/lekt1506.jpg)  
-Abb.: सिंहः  (_Panthera leo persica_)  
-\[Bildquelle: Wikipedia, GNU FDLicense\]
+::: media
+![](/images/lekt1506.jpg)
+Abb.: सिंहः
+(Bildquelle: [Details](/licenses#lekt1506))
+:::
 
 व्याघ्र m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner)
-
-![](/images/lekt1507.jpg)  
-Abb.: व्याघ्रः (_Panthera tigris tigris_)  
-Bandhavgarh National Park (बांधवगढ राष्ट्रीय उद्दान)  
-\[Bildquelle: U.S. Fish and Wildlife Service / Wikipedia, Public domain\]
+::: media
+![](/images/lekt1507.jpg)
+Abb.: व्याघ्रः
+(Bildquelle: [Details](/licenses#lekt1507))
+:::
 
 इव (nachgestellt): gleichsam, wie (in Vergleichen: व्याघ्र इव पुरुषः = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
 
-एव (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `&lt;!&gt;, z.B. सत्यमेव जयति "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"`
+एव (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `<!>`, z.B. सत्यमेव जयति "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
 
 अरि m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling)
 
-> आर्य 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann
+::: indent
+आर्य 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann
+:::
 
 zu जन्
 
-> जाति f.: Geburt, Art, Kaste (zu जाति als Kaste siehe Basham, Wonder, S. 148ff.)
+::: indent
+जाति f.: Geburt, Art, Kaste (zu जाति als Kaste siehe Basham, Wonder, S. 148ff.)
+:::
 
 मृ 4 Ā म्रियते ; Pass. म्रियते ; PPP मृत : sterben (nach indischen Grammatikern: 6 Ā)
 
 davon:
 
-> मरण n.: Sterben, Tod
-> 
-> मृति f.: Sterben, Tod
-> 
-> मृत्यु m.: Tod ; personifiziert: Todesgott
+::: indent
+मरण n.: Sterben, Tod
 
-## Übung 1
+मृति f.: Sterben, Tod
+
+मृत्यु m.: Tod ; personifiziert: Todesgott
+:::
+
+## 15.9. Übung 1
 
 Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine deutsche Übersetzung. Geben Sie jeweils alle Auflösungen und Übersetzungen, die Ihnen möglich erscheinen. Geben Sie auch an, um welchen Kasus und welche Zahl es sich beim Gesamtkompositum handelt.
 
@@ -367,9 +393,9 @@ Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine
 
 ३०. सत्यवदनम्
 
-## Übung 2
+## 15.10. Übung 2
 
-## Lösen Sie wie bei Übung 1 folgende Tatpuruṣa auf:
+Lösen Sie wie bei Übung 1 folgende Tatpuruṣa auf:
 
 १. देवतागृहम्
 
@@ -490,13 +516,13 @@ Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine
 ५९. कारुकुशीलवकृतम्
 
 ६०. द्विजातिशुश्रूषया
+::: media
+![](/images/lekt1508.jpg)
+Abb.: ग्रामदेवता
+(Bildquelle: [Details](/licenses#lekt1508))
+:::
 
-![](/images/lekt1508.jpg)  
-Abb.: ग्रामदेवता  
-Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India  
-\[Bildquelle: ganuullu. --  [http://www.flickr.com/photos/ganuullu/2745983608/](http://www.flickr.com/photos/ganuullu/2745983608/). -- Zugriff am 2008-12-05. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-
-## Übung 3
+## 15.11. Übung 3
 
 A) Übersetzen Sie das Sprichwort zu Beginn der Lektion
 
@@ -553,8 +579,22 @@ B) Lösen Sie folgende Tatpuruṣa auf:
 २५. वर्णधर्मः
 
 २६. श्रुत्युदितम्
+::: media
+![](/images/lekt1509.jpg)
+Abb.: नागदेवाः
+(Bildquelle: [Details](/licenses#lekt1509))
+:::
 
-![](/images/lekt1509.jpg)  
-Abb.: नागदेवाः  
-Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ)  
-\[Bildquelle: Dineshkannambadi / Wikipedia, GNU FDLicense\]
+::: deleteme-box
+### Quellen
+
+- **Abb.: लक्ष्मी** (Lakshmi): Gemälde von राजा रवि वर्मा (1848 - 1906). Bildquelle: Wikipedia, Public domain.
+- **Abb.: नरसिंहः** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Bildquelle: Wikipedia, Public domain.
+- **Diagramm** (lekt1502.jpg): Diagramm zur Zerlegung von Komposita. Bildquelle: Alois Payer / Original-Kursgrafik.
+- **Abb.: पूजा** (Puja): A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Bildquelle: Wikipedia, Public domain.
+- **Abb.:  इन्द्रः** (Indra): Folio from a Panchakalyanaka, Rajasthan, Amber. Bildquelle: Wikipedia, Public domain.
+- **Abb.: सिंहः** (Lion): Panthera leo persica. Bildquelle: Wikipedia, GNU FDLicense.
+- **Abb.: व्याघ्रः** (Tiger): Bandhavgarh National Park (बांधवगढ राष्ट्रीय उद्दान). Bildquelle: U.S. Fish and Wildlife Service / Wikipedia, Public domain.
+- **Abb.: ग्रामदेवता** (Gramadevata): Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India. Bildquelle: ganuullu (Flickr), Creative Commons Lizenz.
+- **Abb.: नागदेवाः** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Bildquelle: Dineshkannambadi / Wikipedia, GNU FDLicense.
+:::

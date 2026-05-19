@@ -182,16 +182,12 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 
 Verwenden Sie dazu folgendes Schema, das der Reihenfolge der Kasus bei den indischen Grammatikern entspricht und das wegen seiner - später zu besprechenden - Vorzüge auch von den westlichen Grammatikern übernommen wurde:
 
-:::: grammar-box
-
 | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
 | :--- | :--- |
 | **१. प्रथमा**[[br]]Nominativ | **१. प्रथमा** |
 | **२. द्वितीया**[[br]]Akkusativ | **२. द्वितीया** |
 | **३. तृतीया**[[br]]Instrumentalis | **३. तृतीया** |
 | **६. षष्ठी**[[br]]Genetiv | **६. षष्ठी** |
-
-::::
 
 Lernen Sie die Deklinationsmuster nach diesen Beispielen auswendig!!!
 
@@ -237,21 +233,21 @@ B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf:
 
 (कौटिलीयार्थशास्त्र १.३.५-८, १३)
 
-::: info
-Erklärungen:
+::: indent
+Erklärungen;
 
-**Satz 7:** कृषिपाशुपाल्ये Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet
+Satz 7: कृषिपाशुपाल्ये Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet
 
-**Satz 8:** कर्म Nom., Akk. sg. Neutrum zu कर्मन् "Tat"
+Satz 8: कर्म Nom., Akk. sg. Neutrum zu कर्मन् "Tat"
 
-**Satz 13:** सर्वेषाम् Gen. pl. mask. zu सर्व "jeder, alle" (Pronomen, dekliniert nicht wie deva)
+Satz 13: सर्वेषाम् Gen. pl. mask. zu सर्व "jeder, alle" (Pronomen, dekliniert nicht wie deva)
 :::
 
 ३. आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः, तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १.४.३॥
 
+::: deleteme-box
 ### Quellen
 
-::: deleteme-box
 **lekt1601:** Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)]
 
 **lekt1602:** "This is a special ceremony in a small temple in Satara (सातारा). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Bildquelle: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]

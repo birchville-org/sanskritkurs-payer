@@ -1,14 +1,15 @@
-
 # Lektion 38
 
 ## 38.1. Losung der Woche
 
 मनुस्मृति ४.३२ über rechtes Urinieren:
 
-> प्रत्यग्नि प्रतिसूर्यं च  
-> प्रतिसोमोदकद्विजम् ।  
-> प्रतिगु प्रतिवातं च  
-> प्रज्ञा नश्यति मेहतः ॥
+::: indent
+प्रत्य***ग्नि*** प्रतिसूर्यं च  
+प्रतिसोमोदकद्विजम् ।  
+प्रति***गु*** प्रतिवातं च  
+प्रज्ञा नश्यति मेहतः ॥
+:::
 
 Erklärungen:
 
@@ -16,31 +17,74 @@ Erklärungen:
 
 \-गु Neutrum Nom.Akk.sg. zu गो m.f. "Rind, Kuh"
 
-![](/images/lekt3801.jpg)  
-Abb.: ... प्रज्ञा नश्यति मेहतः  
-Bangalore = ಬೆಂಗಳೂರು  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt3801.jpg)
+Abb.: प्रज्ञा नश्यति मेहतः
+(Bildquelle: [Details](/licenses#lekt3801))
+:::
 
 ## 38.2. Lautwandel von Nasalen im Wort
 
+::: grammar-box
 Nasale im Wort werden darauffolgenden Konsonanten assimiliert, d. h. sie werden durch den diesen Konsonanten entsprechenden Nasal ersetzt.
 
 Nach c- und j- wird -n- durch -ñ- ersetzt.
+:::
 
 ## 38.3. Deklination der Stämme auf -n
 
 ### 38.3.1. Nomina auf -an sowie Nomina auf -man bzw. -van nach Vokal
 
+::: grammar-box
 Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei Stämme:
 
-*   **Starker Stamm**: **-ān**, **-mān**, **-vān**
-    (Nom., Akk., Vok. sg. m. f.; Nom., Akk., Vok. dual m. f.; Nom., Vok. pl. m. f.; Nom., Akk. pl. n.)
-*   **Mittlerer Schwacher Stamm**: **-a** (aus *-n), **-ma** (aus *-mn), **-va** (aus *-vn)
-    (Übrige Kasus vor konsonantisch anlautender Endung; wahlweise auch Lok. sg. m. n. f.)
-*   **Schwächster Stamm**: **-n**, **-mn**, **-vn**
-    (Übrige Kasus vor vokalisch anlautender Endung)
+<table style="width: 100%; border-collapse: collapse; border: 1px solid var(--vp-c-divider);">
+  <tbody>
+    <tr>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px;"><strong>Starker Stamm</strong></td>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;"><strong>-ān</strong></td>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;"><strong>-mān</strong></td>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;"><strong>-vān</strong></td>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px;">
+        Nom., Akk., Vok. sg. m. f.<br>
+        Nom., Akk., Vok. dual m. f.<br>
+        Nom., Vok. pl. m. f.<br>
+        Nom., Akk. pl. n.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px;"><strong>Mittlerer Schwacher Stamm</strong></td>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;">
+        <strong>-a</strong><br>
+        (aus -*n)
+      </td>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;">
+        <strong>-ma</strong><br>
+        (aus -*mn)
+      </td>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;">
+        <strong>-va</strong><br>
+        (aus -*vn)
+      </td>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px;">
+        Übrige Kasus vor konsonantisch anlautender Endung<br>
+        Wahlweise auch Lok. sg. m. n. f.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px;"><strong>Schwächster Stamm</strong></td>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;"><strong>-n</strong></td>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;"><strong>-mn</strong></td>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;"><strong>-vn</strong></td>
+      <td style="border: 1px solid var(--vp-c-divider); padding: 8px;">
+        Übrige Kasus vor vokalisch anlautender Endung
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Die Endungen sind regelmäßig. Der Nominativ Singular m. f. wird ohne auslautendes **-n** gebildet.
+:::
 
 Beispiele:
 
@@ -53,50 +97,53 @@ Beispiele:
 सीमन् f. "Grenze"
 
 *   starker Stamm: सीमान्
+*   mittlerer Stamm: सीम
+*   schwächster Stamm: सीम्न्
+
+नामन् n. "Name"
+
+*   starker Stamm: नामान्
+*   mittlerer Stamm: नाम
+*   schwächster Stamm: नाम्न्
 :::: grammar-box
 
-| | rājan[[br]](राजन्) m. | sīman[[br]](सीमन्) f. | nāman[[br]](नामन्) n. |
-| :--- | :--- | :--- | :--- |
-| **Singular**[[br]](एकवचनम्) | | | |
-| **1. Nominativ** | **rājā**[[br]](राजा) | **sīmā**[[br]](सीमा) | **nāma**[[br]](नाम) |
-| **2. Akkusativ** | **rājānam**[[br]](राजानम्) | **sīmānam**[[br]](सीमानम्) | **nāma**[[br]](नाम) |
-| **3. Instrumentalis** | **rājñā**[[br]](राज्ञा) | **sīmnā**[[br]](सीम्ना) | **nāmnā**[[br]](नाम्ना) |
-| **4. Dativ** | **rājñe**[[br]](राज्ञे) | **sīmne**[[br]](सीम्ने) | **nāmne**[[br]](नाम्ने) |
-| **5. Ablativ** | **rājñaḥ**[[br]](राज्ञस्) | **sīmnaḥ**[[br]](सीम्नस्) | **nāmnaḥ**[[br]](नाम्नस्) |
-| **6. Genetiv** | **rājñaḥ**[[br]](राज्ञस्) | **sīmnaḥ**[[br]](सीम्नस्) | **nāmnaḥ**[[br]](नाम्नस्) |
-| **7. Lokativ** | **rājñi**[[br]](राज्ञि)[[br]]**rājani**[[br]](राजानि) | **sīmni**[[br]](सीम्नि)[[br]]**sīmani**[[br]](सीमनि) | **nāmni**[[br]](नाम्नि)[[br]]**nāmani**[[br]](नामनि) |
-| **Plural**[[br]](बहुवचनम्) | | | |
-| **1. Nominativ** | **rājānaḥ**[[br]](राजानस्) | **sīmānaḥ**[[br]](सीमानस्) | **nāmāni**[[br]](नामानि) |
-| **2. Akkusativ** | **rājñaḥ**[[br]](राज्ञस्) | **sīmnaḥ**[[br]](सीम्नस्) | **nāmāni**[[br]](नामानि) |
-| **3. Instrumentalis** | **rājabhiḥ**[[br]](राजभिस्) | **sīmanbhiḥ**[[br]](सीम्नभिस्) | **nāmabhiḥ**[[br]](नामभिस्) |
-| **4. Dativ** | **rājabhyaḥ**[[br]](राजभ्यस्) | **sīmanbhyaḥ**[[br]](सीम्नभ्यस्) | **nāmabhyaḥ**[[br]](नामभ्यस्) |
-| **5. Ablativ** | **rājabhyaḥ**[[br]](राजभ्यस्) | **sīmanbhyaḥ**[[br]](सीम्नभ्यस्) | **nāmabhyaḥ**[[br]](नामभ्यस्) |
-| **6. Genetiv** | **rājñām**[[br]](राज्ञाम्) | **sīmnām**[[br]](सीम्नाम्) | **nāmnām**[[br]](नाम्नाम्) |
-| **7. Lokativ** | **rājasu**[[br]](राजसु) | **sīmasu**[[br]](सीमसु) | **nāmasu**[[br]](नामसु) |
+| | **राजन्** | **सीमन्** | **नामन्** |
+| :--- | :---: | :---: | :---: |
+| **एकवचनम्** | | | |
+| **प्रथमा** | **राजा** | **सीमा** | **नाम** |
+| **द्वितीया** | **राजानम्** | **सीमानम्** | **नाम** |
+| **तृतीया** | **राज्ञा** | **सीम्ना** | **नाम्ना** |
+| **चतुर्थी** | **राज्ञे** | **सीम्ने** | **नाम्ने** |
+| **पञ्चमी** | **राज्ञस्** | **सीम्नस्** | **नाम्नस्** |
+| **षष्ठी** | **राज्ञस्** | **सीम्नस्** | **नाम्नस्** |
+| **सप्तमी** | **राज्ञि** / **राजानि** | **सीम्नि** / **सीमनि** | **नाम्नि** / **नामनि** |
+| **बहुवचनम्** | | | |
+| **प्रथमा** | **राजानस्** | **सीमानस्** | **नामानि** |
+| **द्वितीया** | **राज्ञस्** | **सीम्नस्** | **नामानि** |
+| **तृतीया** | **राजभिस्** | **सीम्नभिस्** | **नामभिस्** |
+| **चतुर्थी** | **राजभ्यस्** | **सीम्नभ्यस्** | **नामभ्यस्** |
+| **पञ्चमी** | **राजभ्यस्** | **सीम्नभ्यस्** | **नामभ्यस्** |
+| **षष्ठी** | **राज्ञाम्** | **सीम्नाम्** | **नाम्नाम्** |
+| **सप्तमी** | **राजसु** | **सीमसु** | **नामसु** |
 
 ::::
- |   |   |   | |
-| प्रथमा | राजानस् | सीमानस् | नामानि |
-| द्वितीया | राज्ञस् | सीम्नस् | नामानि |
-| तृतीया | राजभिस् | सीम्नभिस् | नामभिस् |
-| चतुर्थी | राजभ्यस् | सीम्नभ्यस् | नामभ्यस् |
-| पञ्चमी | राजभ्यस् | सीम्नभ्यस् | नामभ्यस् |
-| षष्ठी | राज्ञाम् | सीम्नाम् | नाम्नाम् |
-| सप्तमी | राजसु | सीमसु | नामसु |
 
-![](/images/lekt3803.jpg)  
-Abb.: सीमा  
-Grenzübergang zwischen Indien und Pakistan in Wagah (वाघा / واہگہ / ਵਾਘਾ)  
-\[Bildquelle: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt3803.jpg)
+Abb.: सीमा
+(Bildquelle: [Details](/licenses#lekt3803))
+:::
 
 ### 38.3.2. Nomina auf -man bzw. -van nach Konsonant
 
+::: grammar-box
 *   Starker Stamm: -mān, -vān
 *   Schwacher Stamm:
     *   vor konsonantisch anlautenden Endungen: -ma, -va (aus -\*mn, -\*vn)
-    *   vor vokalisch anlautenden Endungen: \-man, -van
+    *   vor vokalisch anlautenden Endungen: ***\-man, -van***
 
 Sonst Bildung wie unter 3.1.
+:::
 
 Beispiele:
 
@@ -115,87 +162,95 @@ Beispiele:
     *   vor Vokal: ब्रह्मन्
 :::: grammar-box
 
-| | ātman[[br]](आत्मन्) m. | brahman[[br]](ब्रह्मन्) n. |
-| :--- | :--- | :--- |
-| **Singular**[[br]](एकवचनम्) | | |
-| **1. Nominativ** | **ātmā**[[br]](आत्मा) | **brahma**[[br]](ब्रह्म) |
-| **2. Akkusativ** | **ātmānam**[[br]](आत्मानम्) | **brahma**[[br]](ब्रह्म) |
-| **3. Instrumentalis** | **ātmanā**[[br]](आत्मना) | **brahmaṇā**[[br]](ब्रह्मणा) |
-| **4. Dativ** | **ātmane**[[br]](आत्मने) | **brahmaṇe**[[br]](ब्रह्मणे) |
-| **5. Ablativ** | **ātmanaḥ**[[br]](आत्मनस्) | **brahmaṇaḥ**[[br]](ब्रह्मणस्) |
-| **6. Genetiv** | **ātmanaḥ**[[br]](आत्मनस्) | **brahmaṇaḥ**[[br]](ब्रह्मणस्) |
-| **7. Lokativ** | **ātmani**[[br]](आत्मनि) | **brahmaṇi**[[br]](ब्रह्मणि) |
-| **Plural**[[br]](बहुवचनम्) | | |
-| **1. Nominativ** | **ātmānaḥ**[[br]](आत्मानस्) | **brahmāṇi**[[br]](ब्रह्माणि) |
-| **2. Akkusativ** | **ātmanaḥ**[[br]](आत्मनस्) | **brahmāṇi**[[br]](ब्रह्माणि) |
-| **3. Instrumentalis** | **ātmabhiḥ**[[br]](आत्मभिस्) | **brahmabhiḥ**[[br]](ब्रह्मभिस्) |
-| **4. Dativ** | **ātmabhyaḥ**[[br]](आत्मभ्यस्) | **brahmabhyaḥ**[[br]](ब्रह्मभ्यस्) |
-| **5. Ablativ** | **ātmabhyaḥ**[[br]](आत्मभ्यस्) | **brahmabhyaḥ**[[br]](ब्रह्मभ्यस्) |
-| **6. Genetiv** | **ātmanām**[[br]](आत्मनाम्) | **brahmaṇām**[[br]](ब्रह्मणाम) |
-| **7. Lokativ** | **ātmasu**[[br]](आत्मसु) | **brahmasu**[[br]](ब्रह्मसु) |
+| | **आत्मन्** | **ब्रह्मन्** |
+| :--- | :---: | :---: |
+| **एकवचनम्** | | |
+| **प्रथमा** | **आत्मा** | **ब्रह्म** |
+| **द्वितीया** | **आत्मानम्** | **ब्रह्म** |
+| **तृतीया** | **आत्मना** | **ब्रह्मणा** |
+| **चतुर्थी** | **आत्मने** | **ब्रह्मणे** |
+| **पञ्चमी** | **आत्मनस्** | **ब्रह्मणस्** |
+| **षष्ठी** | **आत्मनस्** | **ब्रह्मणस्** |
+| **सप्तमी** | **आत्मनि** | **ब्रह्मणि** |
+| **बहुवचनम्** | | |
+| **प्रथमा** | **आत्मानस्** | **ब्रह्माणि** |
+| **द्वितीया** | **आत्मनस्** | **ब्रह्माणि** |
+| **तृतीया** | **आत्मभिस्** | **ब्रह्मभिस्** |
+| **चतुर्थी** | **आत्मभ्यस्** | **ब्रह्मभ्यस्** |
+| **पञ्चमी** | **आत्मभ्यस्** | **ब्रह्मभ्यस्** |
+| **षष्ठी** | **आत्मनाम्** | **ब्रह्मणाम्** |
+| **सप्तमी** | **आत्मसु** | **ब्रह्मसु** |
 
 ::::
 
 ### 38.3.3. Maskulina und Neutra auf -in, -min, -vin
 
-Diese Nomina haben keine Stammabstufung.
+::: grammar-box
+Diese Nomina haben ***keine*** Stammabstufung.
 
-Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf \-i- vor konsonantischer Endung.
+Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf ***\-i-*** vor konsonantischer Endung.
 
 Das Femininum wird mit dem Suffix -ī gebildet: z.B. बलिनी
+:::
 
 Beispiel:
 
 बलिन् m.n. "stark, kräftig (durch besonderes बल gekennzeichnet, बल besitzend)"
 
- **पुंस्****नपुंसकम्****एकवचनम्**  **प्रथमा**बलीबलि**द्वितीया**बलिनम्बलि**तृतीया**बलिना**चतुर्थी**बलिने**पञ्चमी**बलिनस्**षष्ठी**बलिनस्**सप्तमी**बलिनि   **बहुवचनम्**  **प्रथमा**बलिनस्बलीनि**द्वितीया**बलिनस्बलीनि**तृतीया**बलिभिस्**चतुर्थी**बलिभ्यस्**पञ्चमी**बलिभ्यस्**षष्ठी**बलिनाम्**सप्तमी**बलिषु
-
-## 38.4. Zur Nominalbildung: तद्धित-Suffix -in
-
 :::: grammar-box
 
-| | Maskulinum[[br]]पुंल्लिङ्ग | Neutrum[[br]]नपुंसकलिङ्ग |
-| :--- | :--- | :--- |
-| **Singular**[[br]]एकवचनम् | | |
-| **1. Nominativ** | **balī**[[br]](बली) | **bali**[[br]](बलि) |
-| **2. Akkusativ** | **balinam**[[br]](बलिनम्) | **bali**[[br]](बलि) |
-| **3. Instrumentalis** | **balinā**[[br]](बलिना) | **balinā**[[br]](बलिना) |
-| **4. Dativ** | **baline**[[br]](बलिने) | **baline**[[br]](बलिने) |
-| **5. Ablativ** | **balinaḥ**[[br]](बलिनस्) | **balinaḥ**[[br]](बलिनस्) |
-| **6. Genetiv** | **balinaḥ**[[br]](बलिनस्) | **balinaḥ**[[br]](बलिनस्) |
-| **7. Lokativ** | **balini**[[br]](बलिनि) | **balini**[[br]](बलिनि) |
-| **Plural**[[br]]बहुवचनम् | | |
-| **1. Nominativ** | **balinaḥ**[[br]](बलिनस्) | **balīni**[[br]](बलीni) |
-| **2. Akkusativ** | **balinaḥ**[[br]](बलिनस्) | **balīni**[[br]](बलीni) |
-| **3. Instrumentalis** | **balibhiḥ**[[br]](बलिभिस्) | **balibhiḥ**[[br]](बलिभिस्) |
-| **4. Dativ** | **balibhyaḥ**[[br]](बलिभ्यस्) | **balibhyaḥ**[[br]](बलिभ्यस्) |
-| **5. Ablativ** | **balibhyaḥ**[[br]](बलिभ्यस्) | **balibhyaḥ**[[br]](बलिभ्यस्) |
-| **6. Genetiv** | **balinām**[[br]](बलिनाम्) | **balinām**[[br]](बलिनाम्) |
-| **7. Lokativ** | **baliṣu**[[br]](बलिषु) | **baliṣu**[[br]](बलिषु) |
+| | **पुंस्** | **नपुंसकम्** |
+| :--- | :---: | :---: |
+| **एकवचनम्** | | |
+| **प्रथमा** | **बली** | **बलि** |
+| **द्वितीया** | **बलिनम्** | **बलि** |
+| **तृतीया** | **बलिना**||
+| **चतुर्थी** | **बलिने**||
+| **पञ्चमी** | **बलिनस्**||
+| **षष्ठी** | **बलिनस्**||
+| **सप्तमी** | **बलिनि**||
+| **बहुवचनम्** | | |
+| **प्रथमा** | **बलिनस्** | **बलीनि** |
+| **द्वितीया** | **बलिनस्** | **बलीनि** |
+| **तृतीया** | **बलिभिस्**||
+| **चतुर्थी** | **बलिभ्यस्**||
+| **पञ्चमी** | **बलिभ्यस्**||
+| **षष्ठी** | **बलिनाम्**||
+| **सप्तमी** | **बलिषु**||
 
 ::::
 
-gekennzeichnet durch, besitzend
+## 38.4. Zur Nominalbildung: तद्धित-Suffix -in
 
-Ursprünglich unterschied sich die Bildung mit dem Suffix -इन् von der mit -मन्त्/-वन्त् dadurch, dass -इन् die Kennzeichnung durch etwas Besonderes bezeichnete, während -मन्त्/-वन्त् den Besitz von, die Kennzeichnung durch etwas ausdrückte, das gewöhnlich, allgemein ist.
+::: grammar-box
+Mit dem (sehr wichtigen!) तद्धित-Suffix **-in** werden aus Substantiven Adjektive gebildet in der Bedeutung:
+
+**gekennzeichnet durch, besitzend**
+
+Ursprünglich unterschied sich die Bildung mit dem Suffix **-इन्** von der mit **-मन्त्/-वन्त्** dadurch, dass **-इन्** die Kennzeichnung durch etwas Besonderes bezeichnete, während **-मन्त्/-वन्त्** den Besitz von, die Kennzeichnung durch etwas ausdrückte, das gewöhnlich, allgemein ist.
+:::
 
 Beispiel:
 
 हस्तिन् m.: der durch eine besondere Hand gekennzeichnete = der Elefant (seine Hand ist ja keine gewöhnliche Hand, sondern ein Rüssel)
 
-![](/images/lekt3806.jpg)  
-Abb.: हस्ती  
-Nagarhole National Park = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ  
-\[Bildquelle: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Zugriff am 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt3806.jpg)
+Abb.: हस्ती
+(Bildquelle: [Details](/licenses#lekt3806))
+:::
 
 हस्तवन्त् : einer, der (menschliche) Hände hat
 
-![](/images/lekt3807.jpg)  
-Abb.: हस्तवान्  
-जयपुर  
-\[Bildquelle: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt3807.jpg)
+Abb.: हस्तवान्
+(Bildquelle: [Details](/licenses#lekt3807))
+:::
 
-Adjektive auf -इन् werden gerne zu Komposita gebildet.
+::: grammar-box
+Adjektive auf **-इन्** werden gerne zu Komposita gebildet.
+:::
 
 Beispiel:
 
@@ -203,125 +258,159 @@ Beispiel:
 
 ## 38.5. Syntaktisches zu नामन्
 
+::: grammar-box
 Um auszudrücken "jemand namens N. N.", konstruiert man:
 
-N.N. (im Nominativ) नाम
+**N.N. (im Nominativ) नाम**
 
 Wörtlich: "der Name ist/war N.N". Es handelt sich also um einen zwischengeschobenen Nominalsatz.
+:::
 
 Beispiel:
 
-> आसीद्राजा नलो नाम वीरसेनसुतो बली । "Es war einmal ein König namens Nala, der starke Sohn Vīrasenas."
+::: indent
+आसीद्राजा नलो नाम वीरसेनसुतो बली । "Es war einmal ein König ***namens Nala***, der starke Sohn Vīrasenas."
+:::
 
 Selbstverständlich kann man dasselbe mit einem बहुव्रीहि ausdrücken:
 
-> देवदत्तनामा पुरुषः "ein Mann, dessen Name Devadatta ist"
-> 
-> मदयन्तिकानाम्नी बाला "ein Mädchen, dessen Name Madayantika ist"
+::: indent
+देवदत्तनामा पुरुषः "ein Mann, dessen Name Devadatta ist"
 
-![](/images/lekt3808.jpg)  
-Abb.: आसीन्महात्मा गन्धी नाम  
-1930er Jahre  
-\[Bildquelle: Wikipedia. Public domain\]
+मदयन्तिकानाम्नी बाला "ein Mädchen, dessen Name Madayantika ist"
+:::
+
+::: media
+![](/images/lekt3808.jpg)
+Abb.: आसीन्महात्मा गन्धी नाम
+(Bildquelle: [Details](/licenses#lekt3808))
+:::
 
 ## 38.6. Syntaktisches zu आत्मन्
 
-आत्मन् maskulinum kann im Singular als rückbezügliches Fürwort (Reflexivpronomen) für alle drei Geschlechter, Zahlen (auch Dual und Plural) und Personen gebraucht werden.
+::: grammar-box
+**आत्मन्** ***maskulinum*** kann im ***Singular*** als rückbezügliches Fürwort (Reflexivpronomen) für alle drei Geschlechter, Zahlen (auch Dual und Plural) und Personen gebraucht werden.
+:::
 
 Beispiele:
 
-> आत्मन्येषा दोषं न पश्यति । "Sie sieht keinen Fehler an ihr selbst"
-> 
-> आत्मानं स्तुवन्ति । "Sie rühmen sich selbst"
+::: indent
+आत्मन्येषा दोषं न पश्यति । "Sie sieht keinen Fehler an ihr selbst"
 
-Der Genetiv (षष्ठी) आत्मनस् kann deswegen stehen für "mein/dein/sein/... eigenes"
+आत्मानं स्तुवन्ति । "Sie rühmen sich selbst"
+:::
+
+::: grammar-box
+Der Genetiv (षष्ठी) **आत्मनस्** kann deswegen stehen für "mein/dein/sein/... eigenes"
+:::
 
 Beispiel:
 
-> आत्मनो गृहं प्रविशति । "Er betritt sein eigenes Haus."
+::: indent
+आत्मनो गृहं प्रविशति । "Er betritt sein eigenes Haus."
+:::
 
 ## 38.7. Konsonantisch auslautende Stämme als Vorderglieder von Komposita
 
+::: grammar-box
 Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompositums in dem (schwachen) Stamm, den sie vor der Endung -su des Lokativ (सप्तमी) Plural annehmen.
+:::
 
 Beispiel:
 
-> राजपुत्र "Königssohn"
+::: indent
+***राज***पुत्र "Königssohn"
+:::
 
 ## 38.8. Stämme auf -an als Hinterglied eines बहुव्रीहि
 
+::: grammar-box
 Als Hinterglied eines बहुव्रीहि kann ein -an-Stamm für alle drei Geschlechter verwendet werden. In der Regel wird aber das Femininum mit dem Suffix -ī vom schwächsten Maskulinstamm gebildet.
+:::
 
 Beispiel:
 
-> दुर्णाम्नी "eine, deren Name böse ist ; Krankheitsdämonin"
+::: indent
+दुर्णाम्नी "eine, deren Name böse ist ; Krankheitsdämonin"
+:::
 
 ## 38.9. Wortliste
 
 सूर्य m.: Sonne, Sonnengott Sūrya
 
-![](/images/lekt3802.jpg)  
-Abb.: सूर्यः  
-सूर्य मंदिर, Konark = कोनार्क  
-\[Bildquelle: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Zugriff am 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]  
+::: media
+![](/images/lekt3802.jpg)
+Abb.: सूर्यः
+(Bildquelle: [Details](/licenses#lekt3802))
+:::
  
 
 उदक n.: Wasser
 
-![](/images/lekt3805.jpg)  
-Abb.: उदकम्  
-Darewadi village, Ahmed Nagar District = अहमदनगर, महाराष्ट्र  
-\[Bildquelle: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt3805.jpg)
+Abb.: उदकम्
+(Bildquelle: [Details](/licenses#lekt3805))
+:::
 
 वा 2P वाति : wehen, blasen
 
-> Fut. वास्यति  
-> Perf. IV ववौ  
-> Pass. वायते  
-> Kaus. वापयति  
-> PPP वान । वात  
-> Inf. वातुम्
-> 
-> davon:
-> 
-> वात m.: Wind
+::: indent
+Fut. वास्यति
+Perf. IV ववौ
+Pass. वायते
+Kaus. वापयति
+PPP वान । वात
+Inf. वातुम्
+
+davon:
+
+वात m.: Wind
+:::
 
 वा + निस् 2P निर्वाति : wehen, verwehen, erlöschen
 
-> davon:
-> 
-> निर्वाण n.: Erlöschen, Nirvana
-> 
-> परिनिर्वाण n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
+::: indent
+davon:
 
-![](/images/lekt3804.jpg)  
-Abb.: गौतमबुद्धस्य महापरिनिर्वाणम्  
-Gandhara, 2./3. Jhdt. n. Chr.  
-\[Bildquelle: Wikipedia. Public domain\]
+निर्वाण n.: Erlöschen, Nirvana
+
+परिनिर्वाण n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
+:::
+
+::: media
+![](/images/lekt3804.jpg)
+Abb.: गौतमबुद्धस्य महापरिनिर्वाणम्
+(Bildquelle: [Details](/licenses#lekt3804))
+:::
 
 मिह् 1P मेहति : pinkeln, pissen, ejakulieren
 
-> Fut. मेक्ष्यति  
-> Perf. II मिमेह, मिमिहुर्  
-> Pass. मिह्यते  
-> Kaus. मेहयति  
-> PPP मीढ
-> 
-> davon:
-> 
-> मेघ m.: Wolke ("Seicher")
+::: indent
+Fut. मेक्ष्यति
+Perf. II मिमेह, मिमिहुर्
+Pass. मिह्यते
+Kaus. मेहयति
+PPP मीढ
+
+davon:
+
+मेघ m.: Wolke ("Seicher")
+:::
 
 सुत m.: Sohn
 
 राजन् m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. तत्पुरुष) meist: -राज m. (wie देव)
 
-> Femininum:
-> 
-> राज्ञी f.: Königin, Frau eines Königs
-> 
-> von राज :
-> 
-> राज्य 3: königlich; n. Königreich, Königtum, Herrschaft
+::: indent
+Femininum:
+
+राज्ञी f.: Königin, Frau eines Königs
+
+von राज :
+
+राज्य 3: königlich; n. Königreich, Königtum, Herrschaft
+:::
 
 नामन् n.: Name
 
@@ -333,48 +422,58 @@ Gandhara, 2./3. Jhdt. n. Chr.
 
 ब्रह्मन् m.: der persönlich gedachte Schöpfergott Brahmā
 
-![](/images/lekt3809.jpg)  
-Abb.: ब्रह्मा  
-Halebidu = ಹಳೆಬೀಡು  
-\[Bildquelle: Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt3809.jpg)
+Abb.: ब्रह्मा
+(Bildquelle: [Details](/licenses#lekt3809))
+:::
 
 कर्मन् n.: zu कृ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt) 
 
-> कर्मविपाक m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu वि-पच्)
+::: indent
+कर्मविपाक m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu वि-पच्)
+:::
 
 हस्तिन् m.: Elefant (_Elephas maximus_)
 
 मनु m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu मन् 4Ā)
 
-> davon:
-> 
-> मनुष्य m.: Mensch
+::: indent
+davon:
+
+मनुष्य m.: Mensch
+:::
 
 शुच् 1P शोचति : (flammen, leuchten) ; trauern, betrauern
 
-> Perf II शुशोच, शुशुचुर्  
-> Fut. शोचिष्यति  
-> Pass. शुच्यते  
-> Kaus. शोचयति  
-> Inf. शुचितुम्  
-> Absol. शोचित्वा । शुचित्वा
-> 
-> davon:
-> 
-> शुचि 3: leuchtend, rein, klar
-> 
-> शोक m.: Trauer, Gram
-> 
-> अशोक 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (देवानांप्रिय प्रियदर्शी) (ca. 304   232 v.Chr.)
+::: indent
+Perf II शुशोच, शुशुचुर्
+Fut. शोचिष्यति
+Pass. शुच्यते
+Kaus. शोचयति
+Inf. शुचितुम्
+Absol. शोचित्वा । शुचित्वा
 
-![](/images/lekt3810.jpg)  
-Abb.: Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde  
-Kolkata = কলকাতা   
-\[Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense\]
+davon:
 
-![](/images/lekt3811.jpg)  
-Abb.: Größte Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte  
-\[Bildquelle: Wikipedia.GNU FDLicense\]
+शुचि 3: leuchtend, rein, klar
+
+शोक m.: Trauer, Gram
+
+अशोक 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (देवानांप्रिय प्रियदर्शी) (ca. 304   232 v.Chr.)
+:::
+
+::: media
+![](/images/lekt3810.jpg)
+Abb.: अशोकवृक्षः
+(Bildquelle: [Details](/licenses#lekt3810))
+:::
+
+::: media
+![](/images/lekt3811.jpg)
+Abb.: अशोकसाम्राज्यम्
+(Bildquelle: [Details](/licenses#lekt3811))
+:::
 
 ## 38.10. Übung
 
@@ -416,59 +515,71 @@ A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammer
 
 विनोद m.: Zeitvertreib, Unterhaltung, Vergnügen
 
-![](/images/lekt3812.jpg)  
-Abb.: विनोदः  
-Carrom-Spiel  
-\[Bildquelle: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]  
+::: media
+![](/images/lekt3812.jpg)
+Abb.: विनोदः
+(Bildquelle: [Details](/licenses#lekt3812))
+:::
 
 अट् 1P अटति : herumschweifen
 
-> Perf. I आट, आटुः  
-> Fut. अटिष्यति  
-> Kaus. आटयति
+::: indent
+Perf. I आट, आटुः
+Fut. अटिष्यति
+Kaus. आटयति
+:::
 
 गाध 3: seicht
 
 तॄ 1P तरति : überqueren, sich retten vor (Akk.)
 
-> Perf. IIIb ततार, तेरुः  
-> Fut. तरिष्यति । तरीष्यति  
-> Pass. तीर्यते  
-> Kaus. टारयति  
-> PPP तीर्ण  
-> Inf. तरितुम् । तरीतुम्
+::: indent
+Perf. IIIb ततार, तेरुः
+Fut. तरिष्यति । तरीष्यति
+Pass. तीर्यते
+Kaus. टारयति
+PPP तीर्ण
+Inf. तरितुम् । तरीतुम्
+:::
 
 पार n.(m.): jenseitiges Ufer, Grenze, Ziel
 
 तीर n.: Ufer
 
-![](/images/lekt3813.jpg)  
-Abb.: वाराणस्यां गङ्गातीरे  
-\[Bildquelle: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt3813.jpg)
+Abb.: वाराणस्यां गङ्गातीरे
+(Bildquelle: [Details](/licenses#lekt3813))
+:::
 
 एकैकशस् Adv.: je einzeln
 
 गण् 10P गणयति : zählen
 
-> Perf. गणयां चकार  
-> Fut. गणयिष्यति  
-> Pass. गण्यते  
-> PPP गणित  
-> Absol. -गणय्य  
-> Inf. गणयितुम्
+::: indent
+Perf. गणयां चकार
+Fut. गणयिष्यति
+Pass. गण्यते
+PPP गणित
+Absol. -गणय्य
+Inf. गणयितुम्
+:::
 
-![](/images/lekt3814.jpg)  
-Abb.: गणयां चक्रुः  
-करणी माता मंदिर, देशनोके  
-\[Bildquelle: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] 
+::: media
+![](/images/lekt3814.jpg)
+Abb.: गणयां चक्रुः
+(Bildquelle: [Details](/licenses#lekt3814))
+:::
 
 क्रुश् 1P क्रोशति : schreien, wehklagen
 
-> Perf. II चुक्रोश  
-> Fut. क्रोक्ष्यति  
-> Pass. क्रुश्यते  
-> Kaus. क्रोशयति  
-> PPP क्रुष्ट
+::: indent
+Perf. II चुक्रोश
+Fut. क्रोक्ष्यति
+Pass. क्रुश्यते
+Kaus. क्रोशयति
+PPP क्रुष्ट
+:::
 
 इदानीम् Adv.: jetzt
 
@@ -476,11 +587,13 @@ Abb.: गणयां चक्रुः
 
 मज्ज् 6P मज्जति : sinken, tauchen
 
-> PPP ममज्ज  
-> Fut. मङ्क्ष्यति  
-> Kaus. मज्जयति  
-> PPP मग्न  
-> Absol. मङ्क्त्वा । मक्त्वा
+::: indent
+PPP ममज्ज
+Fut. मङ्क्ष्यति
+Kaus. मज्जयति
+PPP मग्न
+Absol. मङ्क्त्वा । मक्त्वा
+:::
 
 गवेषयति Denominativ: suchen
 
@@ -492,20 +605,24 @@ Abb.: गणयां चक्रुः
 
 हस् 1P हसति : lachen
 
-> Perf. Vc जहास, जहसुर्  
-> Fut. हसिष्यति  
-> Pass. हस्यते  
-> Kaus. हासयति  
-> PPP हसित
+::: indent
+Perf. Vc जहास, जहसुर्
+Fut. हसिष्यति
+Pass. हस्यते
+Kaus. हासयति
+PPP हसित
+:::
 
 सृ 1P सरति : laufen
 
-> Perf. ससार, सस्रुर्  
-> Fut. सरिष्यति  
-> Pass. स्रियते  
-> Kaus. सारयति  
-> PPP सृत  
-> Inf. सर्तुम्
+::: indent
+Perf. ससार, सस्रुर्
+Fut. सरिष्यति
+Pass. स्रियते
+Kaus. सारयति
+PPP सृत
+Inf. सर्तुम्
+:::
 
 कर्णयति Denominativ: hören (zu कर्ण m. "Ohr")
 
@@ -515,11 +632,11 @@ Abb.: गणयां चक्रुः
 
 ## 38.12. Übersetzungsübung
 
-दश मूढाः
+***दश*** मूढाः
 
-मूढानां चेष्टितानि प्रायेण विनोदावहानि । यथा हि -- एकदा दश मूढा देशाटनाय प्रस्थिताः । किञ्चिद्दूरं गतानां तेषामुपस्थिता काचिदगाधा नदी । बाहुभ्यां तरन्तस्ते कथमपि नदीं तीर्त्वा पारं गताः ॥
+मूढानां चेष्टितानि प्रायेण विनोदावहानि । यथा हि -- एकदा दश मूढा देशाटनाय प्रस्थिताः । किञ्चिद्दूरं गतानां तेषामुपस्थिता काचिदगाधा नदी । ***बाहुभ्यां*** तरन्तस्ते कथमपि नदीं तीर्त्वा पारं गताः ॥
 
-आसीत्तेषां मध्ये कश्चन वृद्धः । स किं सर्वे तीरमनुप्राप्ता ईति जिज्ञासमानस्तानेकैकशो गणयामास । परं नवैव परिगणितास्तेन । ततः स आक्रोशत् । अहो वयम् दश प्रस्थिताः । इदानीं नवैव स्मः । नूनमस्माकमेको नद्यां निमग्नः । गवेषयत तमिति । ततस्तेषामेकैको ऽपि गणनां चकार । परं नवैव दृश्यन्ते । ततस्तेषां व्याकुलीभूतानां महान्कोलाहलः समजनि । तत्रैव नातिदूरे कस्यचिदृषेराश्रमो ऽवर्तत । तत्र वसन्नृषिस्तेषां विवेष्टितमवलोक्योच्चैर्जहास । तस्य हासशब्दं श्रुत्वा मूढास्तरसा समुपसृत्य हासकारणमपृच्छन् । ऋषिराह । अहो । अनात्मज्ञा यूयम् । युष्माकमेकैको ऽपि नात्मानमगणयत् । तेनायं व्यामोहः संजात इति । तदाकर्ण्य ते मूढाः सलज्जमधोमुखाः प्रययुः ॥ (संस्कृतप्रथमादर्शः)
+आसीत्तेषां मध्ये कश्चन वृद्धः । स किं ***सर्वे*** तीरमनुप्राप्ता ईति ***जिज्ञासमान***स्तानेकैकशो गणयामास । परं ***नवै***व परिगणितास्तेन । ततः स आक्रोशत् । अहो ***वयम्*** दश प्रस्थिताः । इदानीं नवैव ***स्मः*** । नूनमस्माकमेको नद्यां निमग्नः । ***गवेषयत*** तमिति । ततस्तेषा***मेकैको*** ऽपि गणनां चकार । परं नवैव दृश्यन्ते । ततस्तेषां व्याकुलीभूतानां महान्कोलाहलः ***समजनि*** । तत्रैव नातिदूरे कस्यचिदृषेराश्रमो ऽवर्तत । तत्र वसन्नृषिस्तेषां विवेष्टितमवलोक्योच्चैर्जहास । तस्य हासशब्दं श्रुत्वा मूढा***स्तरसा*** समुपसृत्य हासकारणमपृच्छन् । ऋषिराह । अहो । अनात्मज्ञा ***यूयम्*** । ***युष्माकमे***कैको ऽपि नात्मानमगणयत् । तेनायं व्यामोहः संजात इति । तदाकर्ण्य ते मूढाः सलज्जमधोमुखाः प्रययुः ॥ (संस्कृतप्रथमादर्शः)
 
 Erklärungen:
 
@@ -548,3 +665,22 @@ Erklärungen:
 यूयम् Nom.pl. "ihr"
 
 युष्माकम् Gen.pl. zu यूयम्
+
+::: deleteme-box
+### Quellen
+
+- **lekt3801.jpg**: Abb.: ... प्रज्ञा नश्यति मेहतः  Bangalore = ಬೆಂಗಳೂರು \[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+- **lekt3802.jpg**: Abb.: सूर्यः  सूर्य मंदिर, Konark = कोनार्क \[Bildquelle: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Zugriff am 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+- **lekt3803.jpg**: Abb.: सीमा  Grenzübergang zwischen Indien und Pakistan in Wagah (वाघा / واہگہ / ਵਾਘਾ) \[Bildquelle: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+- **lekt3804.jpg**: Abb.: गौतमबुद्धस्य महापरिनिर्वाणम्  Gandhara, 2./3. Jhdt. n. Chr. \[Bildquelle: Wikipedia. Public domain\]
+- **lekt3805.jpg**: Abb.: उदकम्  Darewadi village, Ahmed Nagar District = अहमदनगर, महाराष्ट्र \[Bildquelle: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+- **lekt3806.jpg**: Abb.: हस्ती  Nagarhole National Park = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Bildquelle: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Zugriff am 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+- **lekt3807.jpg**: Abb.: हस्तवान्  जयपुर \[Bildquelle: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+- **lekt3808.jpg**: Abb.: आसीन्महात्मा गन्धी नाम  1930er Jahre \[Bildquelle: Wikipedia. Public domain\]
+- **lekt3809.jpg**: Abb.: ब्रह्मा  Halebidu = ಹಳೆಬೀಡು \[Bildquelle: Wikipedia. GNU FDLicense\]
+- **lekt3810.jpg**: Abb.: Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde  Kolkata = কলকাতা \[Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense\]
+- **lekt3811.jpg**: Abb.: Größte Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte \[Bildquelle: Wikipedia.GNU FDLicense\]
+- **lekt3812.jpg**: Abb.: विनोदः  Carrom-Spiel \[Bildquelle: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+- **lekt3813.jpg**: Abb.: वाराणस्यां गङ्गातीरे \[Bildquelle: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+- **lekt3814.jpg**: Abb.: गणयां चक्रुः  करणी माता मंदिर, देशनोके \[Bildquelle: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+:::

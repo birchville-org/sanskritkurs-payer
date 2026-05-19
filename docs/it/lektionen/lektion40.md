@@ -65,10 +65,10 @@ Nelle cosiddette radici अनिट् anīṭ facoltative, la vocale di congiu
 
 Desinenze della prima persona (तृतीयः tṛtīyaḥ) nel Perfetto (लिट् lit)
 
-| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-*   | :--- | :--- | --- | --- |
-*   | **Singolare**[[br]](एकवचनम्) | **Plurale**[[br]](बहुवचनम्) | **Singolare**[[br]](एकवचनम्) | **Plurale**[[br]](बहुवचनम्) |
+*   | :--- | :--- | :--- | :--- |
+*   | **एकवचनम्**[[br]]Singolare | **बहुवचनम्**[[br]]Plurale | **एकवचनम्**[[br]]Singolare | **बहुवचनम्**[[br]]Plurale |
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 *   Si noti che le desinenze della prima persona singolare P,Ā sono identiche a quelle della terza persona singolare. Pertanto, in tutti i tipi di Perfetto tranne il Tipo III(a,b) e il Tipo V(a,b,c), le forme della prima singolare P e Ā sono sempre identiche a quelle della terza singolare P e Ā.
 
@@ -99,11 +99,11 @@ Davanti a desinenze che iniziano per consonante, la maggior parte delle radici i
 
 Desinenze della prima persona (तृतीयः tṛtīyaḥ) nel Perfetto (लिट् lit)
 
-*   | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-| :--- | :--- | --- | --- |
+| :--- | :--- | :--- | :--- |
 
-*   | **Singolare**[[br]](एकवचनम्) | **Plurale**[[br]](बहुवचनम्) | **Singolare**[[br]](एकवचनम्) | **Plurale**[[br]](बहुवचनम्) |
+*   | **एकवचनम्**[[br]]Singolare | **बहुवचनम्**[[br]]Plurale | **एकवचनम्**[[br]]Singolare | **बहुवचनम्**[[br]]Plurale |
 
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 
@@ -121,11 +121,11 @@ Nelle cosiddette radici अनिट् anīṭ facoltative, la vocale di congiu
 
 Desinenze della prima persona (तृतीयः tṛtīyaḥ) nel Perfetto (लिट् lit)
 
-| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-| :--- | :--- | --- | --- |
+| :--- | :--- | :--- | :--- |
 
-*   | **Singolare**[[br]](एकवचनम्) | **Plurale**[[br]](बहुवचनम्) | **Singolare**[[br]](एकवचनम्) | **Plurale**[[br]](बहुवचनम्) |
+*   | **एकवचनम्**[[br]]Singolare | **बहुवचनम्**[[br]]Plurale | **एकवचनम्**[[br]]Singolare | **बहुवचनम्**[[br]]Plurale |
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 
 Si noti che le desinenze della prima persona singolare P,Ā sono identiche a quelle della terza persona singolare. Pertanto, in tutti i tipi di Perfetto tranne il Tipo III(a,b) e il Tipo V(a,b,c), le forme della prima singolare P e Ā sono sempre identiche a quelle della terza singolare P e Ā.
@@ -196,9 +196,9 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 ### 40.2.4. Perfekt Typ IV: Radicen auf -ā / -ai
 
 *   Desinenze della prima persona (तृतीयः tṛtīyaḥ) nel Perfetto (लिट् lit)
-    *   | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
-*   | :--- | :--- | --- | --- |
-    *   | **Singolare**[[br]](एकवचनम्) | **Plurale**[[br]](बहुवचनम्) | **Singolare**[[br]](एकवचनम्) | **Plurale**[[br]](बहुवचनम्) |
+    *   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+*   | :--- | :--- | :--- | :--- |
+    *   | **एकवचनम्**[[br]]Singolare | **बहुवचनम्**[[br]]Plurale | **एकवचनम्**[[br]]Singolare | **बहुवचनम्**[[br]]Plurale |
     *   | **-a** | **-ma** | **-e** | **-mahe** |
 
 Si noti che le desinenze della prima persona singolare P,Ā sono identiche a quelle della terza persona singolare. Pertanto, in tutti i tipi di Perfetto tranne il Tipo III(a,b) e il Tipo V(a,b,c), le forme della prima singolare P e Ā sono sempre identiche a quelle della terza singolare P e Ā.
@@ -303,11 +303,11 @@ Fanno eccezione le desinenze -re, davanti alle quali deve sempre comparire -i-; 
 
 Desinenze della prima persona (तृतीयः tṛtīyaḥ) nel Perfetto (लिट् lit)
 
-*   | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-*   | :--- | :--- | --- | --- |
+*   | :--- | :--- | :--- | :--- |
 
-| **Singolare**[[br]](एकवचनम्) | **Plurale**[[br]](बहुवचनम्) | **Singolare**[[br]](एकवचनम्) | **Plurale**[[br]](बहुवचनम्) |
+| **एकवचनम्**[[br]]Singolare | **बहुवचनम्**[[br]]Plurale | **एकवचनम्**[[br]]Singolare | **बहुवचनम्**[[br]]Plurale |
 
 | **-a** | **-ma** | **-e** | **-mahe** |
 

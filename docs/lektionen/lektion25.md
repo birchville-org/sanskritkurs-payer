@@ -401,7 +401,9 @@ Abb.: लोकादधिको हरिः
 निवर्तनाद्धि सर्वतो  
 न वेत्ति दुःखमण्वपि ॥१॥
 
-> Erklärung: सर्वतस् = sarva "jeder, alle" + -tas ; अणु = Nom., Akk. sg. neutr.
+::: indent
+Erklärung: सर्वतस् = sarva "jeder, alle" + -tas ; अणु = Nom., Akk. sg. neutr.
+:::
 
 मानाद्वा यदि वा लोभात्  
 क्रोधाद्वा यदि वा भयात् ।  
@@ -417,7 +419,9 @@ Abb.: लोकादधिको हरिः
 अशासित्वा तु तं राजा  
 स्तेनस्याप्नोति किल्बिषम् ॥मनुस्मृति ८.३१६॥ ॥४॥
 
-> Erklärung: राजा = Nom. sg. zu राजन् m. = नृप
+::: indent
+Erklärung: राजा = Nom. sg. zu राजन् m. = नृप
+:::
 
 ## 25.8. Übersetzungsübung
 
@@ -427,25 +431,21 @@ Abb.: लोकादधिको हरिः
 
 2\. कौटिलीयार्थशास्त्र १.५. über die Ausbildung eines Fürsten:
 
-तस्माद्दण्डमूलास्तिस्रो विद्याः ॥१॥ विनयमूलो दण्डः प्राणभृतां योगक्षेमावहः ॥२॥ कृतकः स्वाभाविकश्च विनयः ॥३॥ क्रिया हि द्रव्यं विनयति नाद्रव्यम् ॥४॥ शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं विद्या विनयति नेतरम् ॥५॥ ... ॥ वृत्तचौलकर्मा लिपिं संख्यानं चोपयुन्ञ्जीत ॥७॥ वृत्तोपनयस्त्रयीमान्वीक्षिकीं च शिष्टेभ्यो वार्त्तामध्यक्षेभ्यो दण्डनीतिं वक्तृप्रयोक्तृभ्यः ॥८॥ ब्रह्मचर्यं चा षोडशाद्वर्षाद् ॥९॥ अतो गोदानं दारकर्म चास्य ॥१०॥ नित्यश्च विद्यावृद्धसंयोगो विनयवृद्ध्यर्थम्, तन्मूलत्वाद्विनयस्य ॥११॥ ... ॥ श्रुताद्धि प्रज्ञोपजायते प्रज्ञाया योगो योगादात्मवत्तेति विद्यानां सामर्थ्यम् ॥१६॥ ... ॥ कार्यः ॥१.६.१.॥
-
-### Quellen
-
-::: deleteme-box
-**lekt2501:** Khanna [Bildquelle: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2502:** Varanasi [Bildquelle: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt2503:** Jaina-Manuskript [Bildquelle: Wikipedia, Public domain]
-
-**lekt2504:** मुंबई [Bildquelle: barnism. -- http://www.flickr.com/photos/barnism/3079837348/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2505:** [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2182943983/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2506:** Chennai = சென்னை [Bildquelle: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2507:** श्रीकृष्णः [Bildquelle: Wikipedia, Public domain]
-:::
+तस्माद्दण्डमूला***स्तिस्रो*** विद्याः ॥१॥  
+विनयमूलो दण्डः ***प्राणभृतां*** योगक्षेमावहः ॥२॥  
+कृतकः स्वाभाविकश्च विनयः ॥३॥  
+क्रिया हि द्रव्यं विनयति नाद्रव्यम् ॥४॥  
+शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं विद्या विनयति ***नेतरम्*** ॥५॥  
+... ॥  
+वृत्तचौल***कर्मा*** लिपिं संख्यानं चो***पयुन्ञ्जीत*** ॥७॥  
+वृत्तोपनयस्त्रयीमान्वीक्षिकीं च शिष्टेभ्यो वार्त्तामध्यक्षेभ्यो दण्डनीतिं ***वक्तृप्रयोक्तृभ्यः*** ॥८॥  
+ब्रह्मचर्यं चा ***षोडशाद्व***र्षाद् ॥९॥  
+अतो गोदानं दार***कर्म*** चास्य ॥१०॥  
+नित्यश्च विद्यावृद्धसंयोगो विनयवृद्ध्यर्थम्, तन्मूलत्वाद्विनयस्य ॥११॥  
+... ॥  
+श्रुता***द्धि*** प्रज्ञोपजायते प्रज्ञाया योगो योगा***दात्मवत्ते***ति विद्यानां सामर्थ्यम् ॥१६॥  
+... ॥  
+कामक्रोधलोभमानमदहर्षत्यागा***त्कार्यः*** ॥१.६.१.॥
 
 
 Erklärung der im obigen Text rot hervorgehobenen Wörter:

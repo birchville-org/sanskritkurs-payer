@@ -16,11 +16,11 @@ html {
   --vp-c-bg-soft: #f1eee7;
 
   --vp-c-text-1: #03192e;
-  --vp-c-text-2: #48626e;
+  --vp-c-text-2: #1e2d37;
   --vp-c-text-3: #241500;
 
   --vp-c-brand-1: #03192e;
-  --vp-c-brand-2: #48626e;
+  --vp-c-brand-2: #1e2d37;
   --vp-c-brand-3: #241500; 
   --vp-c-brand-soft: rgba(3, 25, 46, 0.05);
 
@@ -97,13 +97,13 @@ html {
 
 .vp-doc p, .vp-doc li, .vp-doc table {
   font-size: 1.1rem;
-  line-height: 1.7;
+  line-height: 1.55;
 }
 
 /* Lists Refinement */
 .vp-doc ul li, .vp-doc ol li {
   margin-top: 0.35rem !important;
-  line-height: 1.6 !important;
+  line-height: 1.5 !important;
 }
 
 .vp-doc ul ul li, .vp-doc ol ol li, .vp-doc ul ol li, .vp-doc ol ul li {
@@ -190,6 +190,11 @@ html {
   background-color: transparent;
 }
 
+.vp-doc blockquote p {
+  margin: 0.2rem 0 !important;
+  line-height: 1.45 !important;
+}
+
 /* Devanagari Scholarly Styling */
 .sanskrit-dev {
   color: #b22222; /* Scholastic Red */
@@ -205,6 +210,12 @@ html {
 .vp-doc table mark .sanskrit-dev {
   color: #ff0000 !important; /* Hellrot highlight */
 }
+
+/* Make Devanagari inside tables larger for better legibility */
+.vp-doc table .sanskrit-dev {
+  font-size: 1.35em !important;
+}
+
 
 /* Custom Blocks (Grammar, Media, etc.) */
 .vp-doc .custom-block.grammar-box {
@@ -223,6 +234,46 @@ html {
   background-color: #241500 !important; /* Tertiary 'Burnt Umber' background */
   border-left-color: #eab308 !important;
   color: var(--vp-c-text-1) !important; /* Maintain readability in dark mode */
+}
+
+/* Custom Block: Grammar-Box 2 (Orange background, bold styling) */
+.vp-doc .custom-block.grammar-box2 {
+  background-color: #ffedd5 !important; /* Light orange / warm peach parity with original #FFCC66 */
+  border: none !important;
+  border-left: 5px solid #ea580c !important; /* Deep Orange */
+  margin: 1.5rem 0;
+  padding: 1.25rem;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  font-size: 1.1rem !important;
+  color: var(--vp-c-text-1) !important;
+  font-weight: 600 !important; /* Bold styling - wie im original */
+}
+
+.dark .vp-doc .custom-block.grammar-box2 {
+  background-color: #361e04 !important; /* Deep burnt orange background for dark mode */
+  border-left-color: #ea580c !important;
+  color: var(--vp-c-text-1) !important;
+}
+
+.vp-doc .custom-block.grammar-box2 .custom-block-title {
+  display: none;
+}
+
+.vp-doc .grammar-box2 blockquote {
+  border-left: none !important;
+  background-color: transparent !important;
+  padding-left: 2rem !important;
+  margin: 0.5rem 0 !important;
+  font-size: 1em !important;
+  color: inherit !important;
+}
+
+.vp-doc .grammar-box2 blockquote p {
+  font-weight: inherit !important;
+  font-size: 1em !important;
+  line-height: inherit !important;
+  color: inherit !important;
 }
 
 /* Note Box (Minimalist scholarly asides) */
@@ -396,6 +447,16 @@ html {
   color: #ff3333 !important;
 }
 
+.vp-doc strong em .sanskrit-dev,
+.vp-doc em strong .sanskrit-dev {
+  color: #ff0000 !important;
+}
+
+.dark .vp-doc strong em .sanskrit-dev,
+.dark .vp-doc em strong .sanskrit-dev {
+  color: #ff3333 !important;
+}
+
 /* Erlaube Hellrot (strong em) auch in der grammar-box explizit */
 .vp-doc .grammar-box strong em,
 .vp-doc .grammar-box em strong {
@@ -507,7 +568,26 @@ html.is-embedded .VPContent {
   margin-top: -0.7rem !important; /* Pull up to match line-height */
 }
 
+.vp-doc .custom-block.indent p {
+  margin: 0.25rem 0 !important;
+  line-height: 1.45 !important;
+}
+
 .indent-inline {
   display: inline-block;
   width: 2rem;
+}
+
+/* Compact line height custom block */
+.vp-doc .custom-block.compact {
+  line-height: 1.15 !important;
+  margin: 1rem 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  background-color: transparent !important;
+}
+
+.vp-doc .custom-block.compact p {
+  line-height: 1.15 !important;
+  margin: 0 !important;
 }

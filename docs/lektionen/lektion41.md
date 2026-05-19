@@ -10,10 +10,11 @@
 
 Erklärung: पर "anderer"
 
-![](/images/lekt4102.jpg)  
-Abb.: पुस्तकस्था च या विद्या ...  
-Bhubaneswar = ଭୁବନେଶ୍ବର  
-\[Bildquelle: souravdas. -- [http://www.flickr.com/photos/souravdas/2786531408/](http://www.flickr.com/photos/souravdas/2786531408/). -- Zugriff am 2009-01-02. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![lekt4102.jpg](/images/lekt4102.jpg)
+Abb.: पुस्तकस्था च या विद्या ...
+(Bildquelle: [Details](/licenses#lekt4102))
+:::
 
 > उपदेशो हि मूर्खाणां  
 > प्रकोपाय न शान्तये ।  
@@ -112,10 +113,17 @@ Im Kausativ:
 
 Beispiele:
 
-> | जि 1P | जेतव्य 3 | "jemand, der besiegt werden muss; ein zu  besiegender" |
-> | --- | --- | --- |
-> | वृत् 1Ā | वर्तितव्य 3 | "das, wo man sich befinden soll" |
-> | बुध् Kaus. | बोधयितव्य | "jemand, der geweckt werden soll; ein zu erweckender" |
+::: grammar-box
+::: no-header
+
+| | | |
+| :--- | :--- | :--- |
+| जि 1P | जेतव्य 3 | "jemand, der besiegt werden muss; ein zu besiegender" |
+| वृत् 1Ā | वर्तितव्य 3 | "das, wo man sich befinden soll" |
+| बुध् Kaus. | बोधयितव्य | "jemand, der geweckt werden soll; ein zu erweckender" |
+
+:::
+:::
 
 #### 41.2.2.2. Das Suffix -अनीय / -अनीया
 
@@ -129,15 +137,20 @@ Wurzel, wie sie im Kausativstamm erscheint, ohne -aya- + -अनीय / -अन
 
 Beispiele:
 
-> | दा 3U | दानीय 3 | "zu gebendes; was gegeben werden muss" |
-> | --- | --- | --- |
-> | जि 1P | जयनीय 3 | "zu besiegender" |
-> | कृ 8U | करणीय 3 | "zu tuendes" |
-> | दृश् | दर्शनीय 3 | "was man sehen muss; sehenswertes" |
-> | बुध् Kaus. | बोधनीय 3   | |
-> bodh-aya - aya + -anīya | "ein zu weckender" | | |
-> | दा Kaus. | दापनीय 3   | |
-> dā-paya - aya + -anīya | "was man geben lassen muss" | | |
+::: grammar-box
+::: no-header
+
+| | | |
+| :--- | :--- | :--- |
+| दा 3U | दानीय 3 | "zu gebendes; was gegeben werden muss" |
+| जि 1P | जयनीय 3 | "zu besiegender" |
+| कृ 8U | करणीय 3 | "zu tuendes" |
+| दृश् | दर्शनीय 3 | "was man sehen muss; sehenswertes" |
+| बुध् Kaus. | बोधनीय 3[[br]]bodh-aya - aya + -anīya | "ein zu weckender" |
+| दा Kaus. | दापनीय 3[[br]]dā-paya - aya + -anīya | "was man geben lassen muss" |
+
+:::
+:::
 
 #### 41.2.2.3. Das Suffix -य / -या
 
@@ -153,37 +166,66 @@ Behandlung auslautender Vokale:
 
 Beispiele:
 
-> | ज्ञा 9U | ज्ञेय 3 | "zu wissendes; was erkannt werden muss" |
-> | --- | --- | --- |
-> | दा 3U | देय 3 | "was gegeben werden muss" |
+::: grammar-box
+::: no-header
+
+| | | |
+| :--- | :--- | :--- |
+| ज्ञा 9U | ज्ञेय 3 | "zu wissendes; was erkannt werden muss" |
+| दा 3U | देय 3 | "was gegeben werden muss" |
+
+:::
+:::
 
 2\. Wurzeln auf -i /-ī / -u / -ū /-ṛ haben in der Regel Hoch- oder Dehnstufe, es sei denn sie gehören zu denjenigen Wurzeln auf -i / -u /-ṛ, die ein Gerundiv mit dem Suffix -त्य (fem. -त्या) bilden (Liste dieser Wurzeln bei Kielhorn, Grammatik §537).
 
 Beispiel:
 
-> | स्मृ 1P | स्मर्य 3 | "woran man sich erinnern muss" |
-> | --- | --- | --- |
+::: grammar-box
+::: no-header
+
+| | | |
+| :--- | :--- | :--- |
+| स्मृ 1P |  स्मर्य 3 | "woran man sich erinnern muss" |
+
+:::
+:::
 
 2a. Wurzeln auf -i/-ī haben Hochstufe
 
 Beispiele:
 
-> | विक्री 9Ā | विक्रेय 3 | "zu verkaufen; verkäuflich" |
-> | --- | --- | --- |
-> | नी 1U | नेय 3 | "zu führender" |
+::: grammar-box
+::: no-header
 
-![](/images/lekt4103.jpg)  
-Abb.: विक्रेयाणि पुष्पानि  
-महाराष्ट्रे  
-\[Bildquelle: Harshad Sharma. -- [http://www.flickr.com/photos/harshadsharma/57609357/](http://www.flickr.com/photos/harshadsharma/57609357/). -- Zugriff am 2009-01-03. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+| | | |
+| :--- | :--- | :--- |
+| विक्री 9Ā | विक्रेय 3 | "zu verkaufen; verkäuflich" |
+| नी 1U | नेय 3 | "zu führender" |
+
+:::
+:::
+
+::: media
+![lekt4103.jpg](/images/lekt4103.jpg)
+Abb.: विक्रेयाणि पुष्पानि
+(Bildquelle: [Details](/licenses#lekt4103))
+:::
 
 2b. Wurzeln auf -u /-ū ersetzen das hochstufige -o vor dem -ya durch -av, das dehnstufige -au durch -āv. Dehnstufige Bildung bedeutet in diesem Fall Notwendigkeit.
 
 Beispiel:
 
-> | स्तु 2U | स्तव्य 3 | "was gepriesen werden soll" |
-> | --- | --- | --- |
-> |   | स्ताव्य 3 | "was notwendig gepriesen werden muss" |
+::: grammar-box
+::: no-header
+
+| | | |
+| :--- | :--- | :--- |
+| स्तु 2U | स्तव्य 3 | "was gepriesen werden soll" |
+|   | स्ताव्य 3 | "was notwendig gepriesen werden muss" |
+
+:::
+:::
 
 Beispiele für konsonantisch auslautende Wurzeln (Regeln s. Kielhorn, Grammatik § 533ff.):
 
@@ -191,22 +233,37 @@ Tiefstufige Bildung:
 
 Beispiele:
 
-> | दृश् | दृश्य 3 | "sehenswert" |
-> | --- | --- | --- |
-> | शास् 2P | शिष्य 3 | "jemand, der zu belehren ist = Schüler" |
+::: grammar-box
+::: no-header
 
-![](/images/lekt4106.jpg)  
-Abb.: दृश्यो मन्दिरः  
-Bahá'í House of Worship, Delhi  
-\[Bildquelle: Ray KOH. -- [http://www.flickr.com/photos/raykoh/1497654220/](http://www.flickr.com/photos/raykoh/1497654220/). -- Zugriff am 2009-01-03. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+| | | |
+| :--- | :--- | :--- |
+| दृश् | दृश्य 3 | "sehenswert" |
+| शास् 2P | शिष्य 3 | "jemand, der zu belehren ist = Schüler" |
+
+:::
+:::
+
+::: media
+![lekt4106.jpg](/images/lekt4106.jpg)
+Abb.: दृश्यो मन्दिरः
+(Bildquelle: [Details](/licenses#lekt4106))
+:::
 
 Hochstufige Bildung:
 
 Beispiele:
 
-> | द्विष् 2U | द्वेष्य 3 | "zu hassender = Feind" |
-> | --- | --- | --- |
-> | भिद् 7U | भेद्य 3 | "zu spaltender" |
+::: grammar-box
+::: no-header
+
+| | | |
+| :--- | :--- | :--- |
+| द्विष् 2U | द्वेष्य 3 | "zu hassender = Feind" |
+| भिद् 7U | भेद्य 3 | "zu spaltender" |
+
+:::
+:::
 
 Kausative und Verben der 10. Präsensklasse (चुरादि)
 
@@ -216,19 +273,23 @@ Kausativ-/Präsensstamm ohne -aya- + -य
 
 Beispiel:
 
-> | मन् Kausativ1 | 
-> मान्य 3  
-> mān-aya - aya + ya
-> 
->  | "zu ehrender, hochverehrter" | | |
-> | --- | --- | --- |
+::: grammar-box
+::: no-header
+
+| | | |
+| :--- | :--- | :--- |
+| मन् Kausativ¹ | मान्य 3[[br]]mān-aya - aya + ya | "zu ehrender, hochverehrter" |
+
+:::
+:::
 > 
 > 1 eigentl. Denominativ zu मान
 
-![](/images/lekt4107.jpg)  
-Abb.: मान्यः  
-Dr. Bhimrao Ramji Ambedkar  = डॊ.भीमराव रामजी आंबेडकर (1891 - 1956)  
-\[Bildquelle: Wikipedia. Public domain\]
+::: media
+![lekt4107.jpg](/images/lekt4107.jpg)
+Abb.: मान्यः
+(Bildquelle: [Details](/licenses#lekt4107))
+:::
 
 #### 41.2.2.4. Das Suffix -त्य / त्या (statt -य / -या)
 
@@ -240,10 +301,17 @@ tiefstufige Wurzel + -त्य् / -त्या
 
 Beispiele:
 
-> | इ 2P | इत्य 3 | "zu gehender" |
-> | --- | --- | --- |
-> | श्रु 5P | श्रुत्य 3 | "zu hörender" |
-> | कृ 8U | कृत्य 3 | "zu tuender" |
+::: grammar-box
+::: no-header
+
+| | | |
+| :--- | :--- | :--- |
+| इ 2P | इत्य 3 | "zu gehender" |
+| श्रु 5P | श्रुत्य 3 | "zu hörender" |
+| कृ 8U | कृत्य 3 | "zu tuender" |
+
+:::
+:::
 
 ### 41.2.3. Syntaktisches zum "Partizip" der passiven Notwendigkeit (Gerundivum) (कृत्य)
 
@@ -255,11 +323,11 @@ Das Gerundiv kann auch als Prädikatsnomen in Sätzen mit Passivkonstruktion ver
 
 > काशी द्विजैर्द्रष्टवया = "Zweimalgeborene müssen Benares sehen"
 
-![](/images/lekt4108.jpg)  
-Abb.: दर्शनीयं नगरं काशी  
-काशी द्विजैर्द्रष्टवया  
-मणिकर्णिका घाट, 1922  
-\[Bildquelle LoC/Wikipedia. Public domain\]
+::: media
+![lekt4108.jpg](/images/lekt4108.jpg)
+Abb.: दर्शनीयं नगरं काशी
+(Bildquelle: [Details](/licenses#lekt4108))
+:::
 
 ### 41.2.4. Unterschiede im Gebrauch der Gerundiv-Suffixe
 
@@ -278,19 +346,21 @@ Mit सु- und दुस्- in der Bedeutung "leicht" bzw. "schwer" dürfen Ge
 
 भुजङ्ग m.: Schlange
 
-![](/images/lekt4105.jpg)  
-Abb.: भुजङ्गः  
-Banded Krait (_Bungarus fasciatus_)  
-\[Bildquelle: J. Ewart. The poisonous snakes of India, 1878. Public domain\]
+::: media
+![lekt4105.jpg](/images/lekt4105.jpg)
+Abb.: भुजङ्गः
+(Bildquelle: [Details](/licenses#lekt4105))
+:::
 
 केवलम् Adv.: nur, allein, vollständig
 
 विष n.: Gift
 
-![](/images/lekt4104.jpg)  
-Abb.: भुजङ्गस्य विषम्  
-Melken von Schlangengift (Krait), Thailand  
-\[Bildquelle:  TheLawleys. -- [http://www.flickr.com/photos/lawley/4918566/](http://www.flickr.com/photos/lawley/4918566/). -- Zugriff am 2009-01-03. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
+::: media
+![lekt4104.jpg](/images/lekt4104.jpg)
+Abb.: भुजङ्गस्य विषम्
+(Bildquelle: [Details](/licenses#lekt4104))
+:::
 
 शास् 2P शास्ति : zurechtweisen, beherrschen, befehlen, lehren
 
@@ -307,20 +377,21 @@ Melken von Schlangengift (Krait), Thailand
 > 
 > शासना f.: königliches Edikt, Lehre, Religion
 
-![](/images/lekt4109.jpg)  
-Abb.: शासना  
-Ashoka-Edikt, Dhauli, Orissa  
-\[Bildquelle: vegdevil. -- [http://www.flickr.com/photos/vegdevil/915850174/](http://www.flickr.com/photos/vegdevil/915850174/). -- Zugriff am 2009-01-03. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] 
+::: media
+![lekt4109.jpg](/images/lekt4109.jpg)
+Abb.: शासना
+(Bildquelle: [Details](/licenses#lekt4109))
+:::
 
 > शास्त्र n.: Lehre, Lehrwerk
 > 
 > शास्त्रिन् m.: gelehrt, Gelehrter
 
-![](/images/lekt4110.jpg)  
-Abb.: शास्त्री  
-Max Müller (1823 - 1900), ca. 1898  
-\[Bildquelle: Wikipedia. Public domain\]  
- 
+::: media
+![lekt4110.jpg](/images/lekt4110.jpg)
+Abb.: शास्त्री
+(Bildquelle: [Details](/licenses#lekt4110))
+:::
 
 > शिष्य 3: zu belehrender = Schüler
 
@@ -350,12 +421,29 @@ B) Übersetzen Sie:
 
 काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥२॥
 
-![](/images/lekt4111.jpg)  
-Abb.: काशीं पत्स्ये गङ्गां द्रक्ष्यामि ...  
-\[Bildquelle: jpereira\_net. -- [http://www.flickr.com/photos/jpereira\_net/2914877721/](http://www.flickr.com/photos/jpereira_net/2914877721/). -- Zugriff am 2009-01-04. -- [](http://creativecommons.org/licenses/by-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine Bearbeitung)\]
+::: media
+![lekt4111.jpg](/images/lekt4111.jpg)
+Abb.: काशीं पत्स्ये गङ्गां द्रक्ष्यामि ...
+(Bildquelle: [Details](/licenses#lekt4111))
+:::
 
 कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥३॥
 
 विक्रेयाणि विक्रीयापुत्रवैश्यो भिक्षुभ्यो विक्रयफलमददाद्दानपुण्यं चादत्त । एतत्कर्म स्तुत्यमिति भिक्षवः प्रोचुर्बुद्धिमन्तस्तु विकल्पयन्ति किमेवं कुर्वाणो वश्यः पुण्यं चकारेति ॥४॥
 
 गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥५॥
+
+::: deleteme-box
+### Quellen
+
+- **Image lekt4102.jpg** (Abb.: पुस्तकस्था च या विद्या ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Bildquelle: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+- **Image lekt4103.jpg** (Abb.: विक्रेयाणि पुष्पानि): महाराष्टre [Bildquelle: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+- **Image lekt4106.jpg** (Abb.: दृश्यो मन्दिरः): Bahá'í House of Worship, Delhi [Bildquelle: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+- **Image lekt4107.jpg** (Abb.: मान्यः): Dr. Bhimrao Ramji Ambedkar = डॊ.भीमराव रामजी आंबेडकर (1891 - 1956) [Bildquelle: Wikipedia. Public domain]
+- **Image lekt4108.jpg** (Abb.: दर्शनीयं नगरं काशी): काशी द्विजैर्द्रष्टवया, मणिकर्णिका घाट, 1922 [Bildquelle LoC/Wikipedia. Public domain]
+- **Image lekt4105.jpg** (Abb.: भुजङ्गः): Banded Krait (_Bungarus fasciatus_) [Bildquelle: J. Ewart. The poisonous snakes of India, 1878. Public domain]
+- **Image lekt4104.jpg** (Abb.: भुजङ्गस्य विषम्): Melken von Schlangengift (Krait), Thailand [Bildquelle: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung)]
+- **Image lekt4109.jpg** (Abb.: शासना): Ashoka-Edikt, Dhauli, Orissa [Bildquelle: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Zugriff am 2009-01-03. -- Creative commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+- **Image lekt4110.jpg** (Abb.: शास्त्री): Max Müller (1823 - 1900), ca. 1898 [Bildquelle: Wikipedia. Public domain]
+- **Image lekt4111.jpg** (Abb.: काशीं पत्स्ये गङ्गां द्रक्ष्याมิ ...): [Bildquelle: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
+:::

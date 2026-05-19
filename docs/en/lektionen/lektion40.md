@@ -63,10 +63,10 @@ With so-called facultative अनिट् roots, the connecting vowel may optio
 
 Endings of the first person (तृतीयः) in the Perfect (लिट्)
 
-| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-*   | :--- | :--- | --- | --- |
-*   | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
+*   | :--- | :--- | :--- | :--- |
+*   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 *   Note that the endings of the 1st person singular P, Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except Type III(a,b) and Type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā, respectively.
 
@@ -97,11 +97,11 @@ Before consonant-initial endings, the connecting vowel -i- occurs with the major
 
 Endings of the first person (तृतीयः) in the Perfect (लिट्)
 
-*   | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-| :--- | :--- | --- | --- |
+| :--- | :--- | :--- | :--- |
 
-*   | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
+*   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 
@@ -119,11 +119,11 @@ With so-called facultative अनिट् roots, the connecting vowel may optio
 
 Endings of the first person (तृतीयः) in the Perfect (लिट्)
 
-| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-| :--- | :--- | --- | --- |
+| :--- | :--- | :--- | :--- |
 
-*   | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
+*   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 
 Note that the endings of the 1st person singular P, Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except Type III(a,b) and Type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā, respectively.
@@ -194,9 +194,9 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 ### 40.2.4. Perfekt Typ IV: Rootn auf -ā / -ai
 
 *   Endings of the first person (तृतीयः) in the Perfect (लिट्)
-    *   | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
-*   | :--- | :--- | --- | --- |
-    *   | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
+    *   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+*   | :--- | :--- | :--- | :--- |
+    *   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
     *   | **-a** | **-ma** | **-e** | **-mahe** |
 
 Note that the endings of the 1st person singular P, Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except Type III(a,b) and Type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā, respectively.
@@ -301,11 +301,11 @@ Except before the ending -re, before which -i- must always occur, the connecting
 
 Endings of the first person (तृतीयः) in the Perfect (लिट्)
 
-*   | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-*   | :--- | :--- | --- | --- |
+*   | :--- | :--- | :--- | :--- |
 
-| **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
+| **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 
 | **-a** | **-ma** | **-e** | **-mahe** |
 

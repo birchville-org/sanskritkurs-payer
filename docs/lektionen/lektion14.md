@@ -3,11 +3,11 @@
 
 ## 14.1. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = षष्टी = sechste Kasusendung)
 
-:::: grammar-box
+::: grammar-box
+Soll das Verhältnis des durch zwei Substantive ausgedrückten bezeichnet werden, verwendet man den Genetiv (ṣaṣṭhī f. "sechste Kasusendung"). Der Genetiv unterscheidet sich von allen übrigen Kasus dadurch, dass er -- mit wenigen Ausnahmen -- nicht zur näheren Bestimmung der durch das Verb ausgedrückten Handlung dient, sondern zum Ausdruck des Verhältnisses zwischen Personen oder Sachen, die durch Substantive bezeichnet werden. Häufig steht der Genetiv auf die Frage: Wessen?
+:::
 
-Soll das Verhältnis des durch zwei Substantive ausgedrückten bezeichnet werden, verwendet man den Genetiv (ṣaṣṭī f. "sechste Kasusendung"). Der Genetiv unterscheidet sich von allen übrigen Kasus dadurch, dass er -- mit wenigen Ausnahmen -- nicht zur näheren Bestimmung der durch das Verb ausgedrückten Handlung dient, sondern zum Ausdruck des Verhältnisses zwischen Personen oder Sachen, die durch Substantive bezeichnet werden. Häufig steht der Genetiv auf die Frage: Wessen?
-
-::: center
+Beispiele:
 
 कवेः पुत्रः "Des Dichters Sohn"
 
@@ -17,33 +17,25 @@ Soll das Verhältnis des durch zwei Substantive ausgedrückten bezeichnet werden
 
 रामस्य कृतम् "Die / Eine Tat Rāmas"
 
-:::
-
+::: grammar-box
 Die normale Wortstellung ist:
 
-::: center
-
-**Bestimmendes Wort im Genativ — Näher bestimmtes Substantiv in einem anderen Kasus**
-
+> **Bestimmendes Wort im Genetiv — Näher bestimmtes Substantiv in einem anderen Kasus**
 :::
 
 **Genetiv und PPP:**
 
+::: grammar-box
 Bei PPPs kann der Genetiv statt des Instrumentalis (tṛtīyā) für den Agens (kartṛ) stehen; In der Konstruktion mit dem Instrumentalis wird das PPP als passive Verbalform betrachtet (das im Instrumentalis Stehende bezeichnet den Agens), in der Konstruktion mit dem Genetiv wird das PPP als Substantiv bzw. Adjektiv betrachtet (das im Genetiv Stehende also nicht eigentlich als Agens).
 
 Nach Pāṇini 2.3.67 steht beim PPP der Genetiv, wenn das PPP präsentische Bedeutung hat (siehe oben), der Instrumentalis, wenn das PPP Vergangenheitsbedeutung hat:
 
-::: center
-
-रामस्येष्टं फलम् "Die von Rāma gewünschte Frucht = Die Frucht, die Rāma gegenwärtig wünscht"
-
-रामेणेष्टं फलम् "Die Frucht, die Rāma gewünscht hat"
-
-:::
+> रामस्येष्टं फलम् "Die von Rāma gewünschte Frucht = Die Frucht, die Rāma gegenwärtig wünscht"
+> 
+> रामेणेष्टं फलम् "Die Frucht, die Rāma gewünscht hat"
 
 Selbstverständlich steht bei einem PPP Neutrum Singular, das als Verbalabstraktum - also als Substantiv - gebraucht wird, der Genetiv.
-
-::::
+:::
 
 ## 14.2. Bildung der Genetivformen (ṣaṣṭhī f. = षष्ठी)
 
@@ -59,10 +51,10 @@ Nach Konsonant sind die regelmäßigen Genetivendungen:
 
 ::: center
 
-| Nominalstamm[[br]]धातु | Schwacher Stamm[[br]]प्रातिपदिक | Genetiv Singular[[br]]षष्ठी एकवचन | Genetiv Plural[[br]]षष्ठी बहुवचन |
+| Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
 | :--- | :--- | :--- | :--- |
-| **guṇa-vant-**[[br]](गुणवन्त्) | **guṇa-vat-**[[br]](गुणवत्) | **guṇa-vat-as**[[br]](गुणवतस्) | **guṇa-vat-ām**[[br]](गुणवताम्) |
-| **paśu-mant-**[[br]](पशुमन्त्) | **paśu-mat-**[[br]](पशुमत्) | **paśu-mat-as**[[br]](पशुमतस्) | **paśu-mat-ām**[[br]](पशुमताम्) |
+| **guṇa-vant-**[[br]]**गुणवन्त्** | **guṇa-vat-**[[br]]**गुणवत्** | **guṇa-vat-as**[[br]]**गुणवतस्** | **guṇa-vat-ām**[[br]]**गुणवताम्** |
+| **paśu-mant-**[[br]]**पशुमन्त्** | **paśu-mat-**[[br]]**पशुमत्** | **paśu-mat-as**[[br]]**पशुमतस्** | **paśu-mat-ām**[[br]]**पशुमताम्** |
 
 :::
 
@@ -75,22 +67,21 @@ Nach Konsonant sind die regelmäßigen Genetivendungen:
 :::: grammar-box
 
 Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
-::: center
-**-langer auslautender Vokal des Stammes + -nām**
-:::
+
+> **-langer auslautender Vokal des Stammes + -nām**
 
 ::: center
 
-| Nominalstamm[[br]]प्रातिपदिक | Genetiv Plural[[br]]षष्ठी बहुवचन |
+| Nominalstamm | Genetiv Plural |
 | :--- | :--- |
-| **deva** m. (देव) | **devā-nām**[[br]](देवानाम्) |
-| **phala** n. (फल) | **phalā-nām**[[br]](फलानाम्) |
-| **devatā** f. (देवता) | **devatā-nām**[[br]](देवतानाम्) |
-| **kavi** m. (कवि) | **kavī-nām**[[br]](कवीनाम्) |
-| **śruti** f. (श्रुति) | **śrutī-nām**[[br]](श्रुतीनाम्) |
-| **devī** f. (देवी) | **devī-nām**[[br]](देवीनाम्) |
-| **paśu** m. (पशु) | **paśū-nām**[[br]](पशूनाम्) |
-| **dhenu** f. (धेनु) | **dhenū-nām**[[br]](धेनूनाम्) |
+| **deva** m.[[br]]**देव** | **devā-nām**[[br]]**देवानाम्** |
+| **phala** n.[[br]]**फल** | **phalā-nām**[[br]]**फलानाम्** |
+| **devatā** f.[[br]]**देवता** | **devatā-nām**[[br]]**देवतानाम्** |
+| **kavi** m.[[br]]**कवि** | **kavī-nām**[[br]]**कवीनाम्** |
+| **śruti** f.[[br]]**श्रुति** | **śrutī-nām**[[br]]**श्रुतीनाम्** |
+| **devī** f.[[br]]**देवी** | **devī-nām**[[br]]**देवीनाम्** |
+| **paśu** m.[[br]]**पशु** | **paśū-nām**[[br]]**पशूनाम्** |
+| **dhenu** f.[[br]]**धेनु** | **dhenū-nām**[[br]]**धेनूनाम्** |
 
 :::
 
@@ -104,16 +95,16 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet
 
 ::: center
 
-| Stamm[[br]]प्रातिपदिक | Genetiv Singular[[br]]षष्ठी एकवचन |
+| Stamm | Genetiv Singular |
 | :--- | :--- |
-| **deva** m. (देव) | **devasya**[[br]](देवस्य) |
-| **phala** n. (फल) | **phalasya**[[br]](फलस्य) |
-| **devatā** f. (देवता) | **devatāyās**[[br]](देवतायास्) |
-| **kavi** m. (कवि) | **kaves**[[br]](कवेस्) |
-| **paśu** m. (पशु) | **paśos**[[br]](पशोस्) |
-| **devī** f. (देवी) | **devyās**[[br]](देव्यास्) |
-| **śruti** f. (श्रुति) | **śrutes / śrutyās**[[br]](श्रुतेस् / श्रुत्यास्) |
-| **dhenu** f. (धेnu) | **dhenos / dhenvās**[[br]](धेनोस् / धेन्वास्) |
+| **deva** m.[[br]]**देव** | **devasya**[[br]]**देवस्य** |
+| **phala** n.[[br]]**फल** | **phalasya**[[br]]**फलस्य** |
+| **devatā** f.[[br]]**देवता** | **devatāyās**[[br]]**देवतायास्** |
+| **kavi** m.[[br]]**कवि** | **kaves**[[br]]**कवेस्** |
+| **paśu** m.[[br]]**पशु** | **paśos**[[br]]**पशोस्** |
+| **devī** f.[[br]]**देवी** | **devyās**[[br]]**देव्यास्** |
+| **śruti** f.[[br]]**श्रुति** | **śrutes / śrutyās**[[br]]**श्रुतेस् / श्रुत्यास्**[[br]](d.h. entweder wir kavi oder wie devī) |
+| **dhenu** f.[[br]]**धेनु** | **dhenos / dhenvās**[[br]]**धेनोस् / धेन्वास्**[[br]](d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
 
@@ -127,10 +118,10 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Genetiv Singular**[[br]]षष्ठी एकवचन | kasya[[br]]**कस्य** | tasya[[br]]**तस्य** | etasya[[br]]**एतस्य** | asya[[br]]**अस्य** |
-| | **Genetiv Plural**[[br]]षष्ठी बहुवचन | keṣām[[br]]**केषाम्** | teṣām[[br]]**तेषाम्** | eteṣām[[br]]**एतेषाम्** | eṣām[[br]]**एषाम्** |
-| **Femininum** | **Genetiv Singular**[[br]]षष्ठी एकवचन | kasyās[[br]]**कस्यास्** | tasyās[[br]]**तस्यास्** | etasyās[[br]]**एतस्यास्** | asyās[[br]]**अस्यास्** |
-| | **Genetiv Plural**[[br]]षष्ठी बहुवचन | kāsām[[br]]**कासाम्** | tāsām[[br]]**तासाम्** | etāsām[[br]]**एतासाम्** | āsām[[br]]**आसाम्** |
+| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya[[br]]**कस्य** | tasya[[br]]**तस्य** | etasya[[br]]**एतस्य** | asya[[br]]**अस्य** |
+| | **Genetiv Plural** | keṣām[[br]]**केषाम्** | teṣām[[br]]**तेषाम्** | eteṣām[[br]]**एतेषाम्** | eṣām[[br]]**एषाम्** |
+| **Femininum** | **Genetiv Singular** | kasyās[[br]]**कस्यास्** | tasyās[[br]]**तस्यास्** | etasyās[[br]]**एतस्यास्** | asyās[[br]]**अस्यास्** |
+| | **Genetiv Plural** | kāsām[[br]]**कासाम्** | tāsām[[br]]**तासाम्** | etāsām[[br]]**एतासाम्** | āsām[[br]]**आसाम्** |
 
 :::
 
@@ -148,27 +139,17 @@ Beachten Sie, dass bei konsonantisch auslautenden Stämmen Ablativ und Genetiv S
 
 ## 14.3. Weiteres zum Gebrauch des Genetiv (षष्ठी)
 
-:::: grammar-box
+::: grammar-box
+Entgegen obiger Grundregel wird der Genetiv verwendet, um das Objekt einiger Verben auszudrücken, z.B. bei Verben des Gedenkens:
 
-Entgegen obiger Grundregel wird der genetiv verwendet, um das Objekt einiger Verben auszudrücken, z.B. bei Verben des Gedenkens:
+> देवानां स्मरति "Er gedenkt der Götter"
 
-::: center
+Bei all diesen Verben kann das Objekt aber auch im Akkusativ stehen:
 
-देवानां स्मरति "Er gedenkt der Götter"
-
-:::
-
-Bei all diesen verben kann das Objekt aber auch im Akkusativ stehen:
-
-::: center
-
-देवान्स्मरति "Er gedenkt der Götter"
-
-:::
+> देवान्स्मरति "Er gedenkt der Götter"
 
 Weiteres später.
-
-::::
+:::
 
 ## 14.4. Wortliste
 

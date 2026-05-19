@@ -13,17 +13,22 @@ Regeln für die Verwendung des Ātmanepada im Kausativum:
 
 ::: grammar-box
 **Im Kausativum wird das Ātmanepada verwendet:**
-
 1. Wenn die Frucht der veranlassten Handlung dem Veranlasser zugute kommt:
-
-> रामः कटं कारयते = "Rāma lässt für sich (im eigenen Interesse) eine Matte machen"
-
-2. Wenn das Kausativum transitiver Verben reflexiv gebraucht wird ("sich zeigen" "sich hören lassen" u.ä.), bzw. wenn das Objekt des einfachen Verbs Agens (कर्तृ) des Kausativs ist:
-
-> विष्णुर्भक्तान्दर्शयते = "Viṣṇu zeigt sich seinen Verehrern"
-> 
-> Ergebnis: भक्ता विष्णुं पश्यन्ति = "Die Gläubigen sehen Viṣṇu"
 :::
+
+Beispiel:
+
+रामः कटं कारयते = "Rāma lässt für sich (im eigenen Interesse) eine Matte machen"
+
+::: grammar-box
+2. Wenn das Kausativum transitiver Verben reflexiv gebraucht wird ("sich zeigen" "sich hören lassen" u.ä.), bzw. wenn das Objekt des einfachen Verbs Agens (कर्तृ) des Kausativs ist:
+:::
+
+Beispiel:
+
+विष्णुर्भक्तान्दर्शयते = "Viṣṇu zeigt sich seinen Verehrern"
+
+Ergebnis: भक्ता विष्णुं पश्यन्ति = "Die Gläubigen sehen Viṣṇu"
 
 
 Die Regeln entsprechen also i.A. den Regeln für die Verwendung des Ātmanepada bei Ubhayapada-Verben.
@@ -76,7 +81,7 @@ Abb.: परिव्राजकाः
 
 मत्स्य m.: Fisch
 
-> davon:
+davon:
 ::: indent
 मात्स्य 3: zum Fisch (zu Fischen) gehörig
 :::
@@ -117,19 +122,32 @@ PPP पूजित
 
 1\. Definition von अविद्या :
 
-अनित्याशुचिदुःखानात्मसु नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २.५॥
+अनित्याशुचिदुःखा<span style="color: #cc2200">**नात्मसु**</span> नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २.५॥
 
 Erklärung: आत्मसु = Lok. sg. zu आत्मन् m. "Seele ; das Absolute, insofern es im Individuum verwirklicht wird"
 
 2\. कौटिलीयार्थशास्त्र 1.4. über den rechten Gebrauch des दण्ड :
 
-तीक्ष्णदण्डो भूतानामुद्वेजनीयो भवति ।८। मृदुदण्डः परिभूयते ।९। यथार्हदण्डः पूज्यते ।१०। सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति ।११। दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति, किमङ्ग पुनर्गृहस्थान् ।१२। अप्रणीतस्तु मात्स्यन्यायमुद्भावयति ।१३। बलीयानबलं हि ग्रसते दण्डधराभावे ।१४। स तेन गुप्तः प्रभवतीति ।१५।
+तीक्ष्णदण्डो भूताना<span style="color: #cc2200">**मुद्वेजनीयो**</span> भवति ।८।
 
+मृदुदण्डः परिभूयते ।९।
+
+यथार्हदण्डः पूज्यते ।१०।
+
+सु<span style="color: #cc2200">**विज्ञात**</span>प्रणीतो हि दण्डः प्रजा धर्मार्थकामै**र्योजयति** ।११।
+
+दुष्प्रणीतः <span style="color: #cc2200">**कामक्रोधाभ्याम**</span>वज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति, <span style="color: #cc2200">**किमङ्ग**</span> पुनर्गृहस्थान् ।१२।
+
+अप्रणीतस्तु मात्स्यन्यायमुद्भावयति ।१३।
+
+<span style="color: #cc2200">**बलीयान**</span>अबलं हि ग्रसते दण्डधराभावे ।१४।
+
+स तेन गुप्तः प्रभवतीति ।१५।
 ::: indent
-चतुर्वर्णाश्रमो लोको  
-राज्ञा दण्डेन पालितः ।  
+<span style="color: #cc2200">**चतुर्व**</span>र्णाश्रमो लोको  
+<span style="color: #cc2200">**राज्ञा**</span> दण्डेन पालितः ।  
 स्वधर्मकर्माभिरतो  
-वर्तते स्वेषु वर्त्मसु ॥१६॥
+वर्तते <span style="color: #cc2200">**स्वेषु वर्त्मसु**</span> ॥१६॥
 :::
 
 ::: media
@@ -253,9 +271,8 @@ Erklärungen:
 
 :::
 
-### Quellen
-
 ::: deleteme-box
+### Quellen
 **lekt2903:** Pushkar = पुष्कर [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 **lekt2901:** रोहू मछली = Labeo rohita Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense]
 **lekt2902:** (Zeichnung: Namcha Payer, 2002-11)

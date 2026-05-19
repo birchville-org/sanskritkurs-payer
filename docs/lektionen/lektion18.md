@@ -1,12 +1,24 @@
+---
+title: Lektion 18
+lesson_id: 18
+---
 
 # Lektion 18
 
-## १. सुभाषितम्
+## 18.1. सुभाषितम्
 
-> नास्ति कामसमो व्याधिर्  
-> नास्ति मोहसमो रिपुः ।  
-> नास्ति क्रोधसमो वह्निर्  
-> नास्ति ज्ञानसमं सुखम् ॥
+:::: grammar-box
+
+::: indent
+नास्ति कामसमो व्याधिर्  
+नास्ति मोहसमो रिपुः ।  
+नास्ति क्रोधसमो वह्निर्  
+नास्ति ज्ञानसमं सुखम् ॥
+:::
+
+चाणक्य
+
+::::
 
 ## 18.2. Determinativkomposita (तत्पुरुष) mit adverbialem Vorderglied
 
@@ -17,21 +29,23 @@ Als adverbiales (nichtdeklinierbares) Vorderglied können
 *   Partikel
 *   andere Indeklinabilia
 
-> verwendet werden. Solche Tatpuruṣa gehören meist zur Klasse der Nityasamāsa = नित्यसमास (m. "ständiges Kompisitum"), d.h. der Komposita, die man überhaupt nicht oder nicht nur mittels der im Kompositum selbst vorkommenden Wörter auflösen kann.
+::: indent
+verwendet werden. Solche Tatpuruṣa gehören meist zur Klasse der Nityasamāsa = नित्यसमास (m. "ständiges Kompositum"), d.h. der Komposita, die man überhaupt nicht oder nicht nur mittels der im Kompositum selbst vorkommenden Wörter auflösen kann.
+:::
 
-Beipiele:
+Beispiele:
 
 अति "darüber hinaus":
 
-:::: grammar-box
+::: indent
+अतिगुरु 3: überaus schwer, überaus gewichtig
 
-अतिगुरु 3: überaus schwer, überaus gewichtig [[br]]
-अतिपुरुष m.: überragender Mann, Superman, Held [[br]]
-अतिस्तुति f.: übermäßiges Lob [[br]]
+अतिपुरुष m.: überragender Mann, Superman, Held
+
+अतिस्तुति f.: übermäßiges Lob
+
 अत्युक्ति f.: übermäßiges Sprechen, Übertreibung
-
-::::
-
+:::
 
 Die wichtigsten adverbialen Vorderglieder sind a-/an-, su-, dus-.
 
@@ -39,35 +53,43 @@ Die wichtigsten adverbialen Vorderglieder sind a-/an-, su-, dus-.
 
 Beispiele:
 
-> अनृत n. = नर्तम् (= न + ऋतम्): Unwahrheit, Lüge
-> 
-> अकृत 3 = न कृत 3: nicht getan, ungetan
-> 
-> अब्राह्मणी f. = न ब्राह्मणी : eine Nichtbrahmanin, Unbrahmanin
-> 
-> अदेव m. = न देवः : ein Nichtgott, Ungott
+::: indent
+अनृत n. = नर्तम् (= न + ऋतम्): Unwahrheit, Lüge
 
-सु "wohl, gut";  wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. सुष्टु 3, शोभन 3) ersetzt.
+अकृत 3 = न कृत 3: nicht getan, ungetan
 
- Beispiele:
+अब्राह्मणी f. = न ब्राह्मणी : eine Nichtbrahmanin, Unbrahmanin
 
-> सुकवि m.: ein guter Dichter
-> 
-> सुकृत n.: gute Tat
-> 
-> सुखादित 3: gut gekaut
-> 
-> सुदुःख n.: großes Leid
+अदेव m. = न देवः : ein Nichtgott, Ungott
+:::
+
+सु "wohl, gut"; wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. सुष्टु 3, शोभन 3) ersetzt.
+
+Beispiele:
+
+::: indent
+सुकवि m.: ein guter Dichter
+
+सुकृत n.: gute Tat
+
+सुखादित 3: gut gekaut
+
+सुदुःख n.: großes Leid
+:::
 
 दुस् "übel, schlecht" (Sandhi beachten!).
 
 Beispiele:
 
-> दुर्नय m.: schlechte Führung, schlechtes Betragen
-> 
-> दुष्करण n.: schlechte Tat, schwierige Tat
+::: indent
+दुर्नय m.: schlechte Führung, schlechtes Betragen
+
+दुष्करण n.: schlechte Tat, schwierige Tat
+:::
 
 Dabei gilt folgendes Gesetz:
+
+:::: grammar-box
 
 Lautveränderung von -s in Komposita
 
@@ -77,19 +99,27 @@ Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita:
 
 Deshalb: दुष्करण
 
+::::
+
 ### 18.2.1. Komposita vom Typ सुकर / दुष्कर
+
+:::: grammar-box
 
 Komposita vom Typ सुकर / दुष्कर haben hauptsächlich die Bedeutung der passiven Möglichkeit:
 
 Beispiele:
 
-> सुकर 3: leicht zu tun
-> 
-> सुगम 3: leicht zu gehen
-> 
-> दुर्गम 3: schwer zu gehen
-> 
-> सुदुर्गम 3: sehr schwer zu gehen
+::: indent
+सुकर 3: leicht zu tun
+
+सुगम 3: leicht zu gehen
+
+दुर्गम 3: schwer zu gehen
+
+सुदुर्गम 3: sehr schwer zu gehen
+:::
+
+::::
 
 ### 18.2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
 
@@ -110,25 +140,37 @@ Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
 
 Folgender Vers fasst diese Bedeutungen zusammen:
 
-> तत्सादृश्यमभावश्च  
-> तदन्यत्वं तदल्पता ।  
-> अप्राशास्त्यं निरोधश्च  
-> नजर्थाः षट्प्रकीर्तिताः ॥
-> 
-> Man nennt sechs Bedeutungen von nañ (= a-/an-) ....
+::: indent
+तत्सादृश्यमभावश्च  
+तदन्यत्वं तदल्पता ।  
+अप्राशास्त्यं निरोधश्च  
+नजर्थाः षट्प्रकीर्तिताः ॥
+
+Man nennt sechs Bedeutungen von nañ (= a-/an-) ....
+:::
 
 ## 18.3. Verbalkomposita
 
-> उपसर्गेण धात्वर्थो  
-> बलादन्यत्र नीयते ।  
-> गङ्गासलिलमाधुर्यं  
-> सागरेण यथाम्भसा ॥
+:::: grammar-box
+
+::: indent
+उपसर्गेण धात्वर्थो  
+बलादन्यत्र नीयते ।  
+गङ्गासलिलमाधुर्यं  
+सागरेण यथाम्भसा ॥
+:::
 
 चन्द्रकीर्ति : प्रसन्नपदा S. 2 Zl. 14f.
 
 Durch ein Präverb wird die Bedeutung einer Wurzel gewaltsam verändert, so wie die Süße des Gangeswassers durch Meerwasser.
 
+::::
+
+:::: grammar-box
+
 Verben können im Sanskrit mit Präverben (उपसर्ग m.) verbunden werden. Dabei gilt meist der Satzsandhi. Präverbe können die Bedeutung der Wurzel u. U. bedeutend modifizieren, sodass in vielen Fällen die Bedeutung einer Wurzel mit Präverb gesondert gelernt werden muss. Verben mit Präverb können einen anderen Modus (P, Ā) haben als die einfache Wurzel. Vor eine Wurzel können gleichzeitig mehrere Präverbe gesetzt werden.
+
+::::
 
 Einige wichtige Präverbe sind:
 
@@ -136,81 +178,99 @@ Einige wichtige Präverbe sind:
 
 Beispiele:
 
-> उपगम् 1 उपगच्छति : hingehen, darangehen
-> 
-> उपदिश् 6 उपदिशति : hinweisen, belehren, anraten
-> 
-> उपपद् 4 Ā उपपद्यते : hingelangen
-> 
-> &gt; PPP उपपन्न 3: ausgestattet mit (Instrumentalis)
-> 
-> उपलभ् 1 Ā उपलभते : erfassen, erlangen
+::: indent
+उपगम् 1 उपगच्छति : hingehen, darangehen
+
+उपदिश् 6 उपदिशति : hinweisen, belehren, anraten
+
+उपपद् 4 Ā उपपद्यते : hingelangen
+
+*   PPP उपपन्न 3: ausgestattet mit (Instrumentalis)
+
+उपलभ् 1 Ā उपलभते : erfassen, erlangen
+:::
 
 प्र "vorwärts, hervor"
 
 Beispiele:
 
-> प्राप्  (pra-āp) 5 प्राप्नोति : erlangen
-> 
-> प्रदिश् 6 प्रदिशति : zeigen
-> 
-> प्रबुध् 4 Ā प्रबुध्यते : aufwachen, erkennen
-> 
-> प्रभू 1 प्रभवति : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.)
-> 
-> प्रवच् 2 प्रवक्ति PPP प्रोक्त (« pra + ukta) : erklären, mitteilen, aussprechen
-> 
-> प्रवद् 1 प्रवदति : aussprechen, bezeichnen als, erklären für
-> 
-> प्रस्तु 2 प्रस्तौति : preisen vor, laut preisen, auf etwas zu sprechen kommen, beginnen
+::: indent
+प्राप् (pra-āp) 5 प्राप्नोति : erlangen
+
+प्रदिश् 6 प्रदिशति : zeigen
+
+प्रबुध् 4 Ā प्रबुध्यते : aufwachen, erkennen
+
+प्रभू 1 प्रभवति : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.)
+
+प्रवच् 2 प्रवक्ति PPP प्रोक्त (« pra + ukta) : erklären, mitteilen, aussprechen
+
+प्रवद् 1 प्रवदति : aussprechen, bezeichnen als, erklären für
+
+प्रस्तु 2 प्रस्तौति : preisen vor, laut preisen, auf etwas zu sprechen kommen, beginnen
+:::
 
 वि "auseinander, weg, zer-, ver-"
 
 Beispiele:
 
-> विगम् 1 विगच्छति : auseinandergehen, vergehen, verschwinden
-> 
-> विजि 1 Ā (!) विजयते : besiegen
-> 
-> विमुच् 6 विमुञ्चति : ablösen, befreien
-> 
-> विवद् 1 विवदति : disputieren, auseinandersetzen, erzählen
-> 
-> विस्मृ 1 विस्मरति : vergessen
-> 
-> विहन् 2 विहन्ति : zerschlagen, zerstören, vernichten
+::: indent
+विगम् 1 विगच्छति : auseinandergehen, vergehen, verschwinden
+
+विजि 1 Ā (!) विजयते : besiegen
+
+विमुच् 6 विमुञ्चति : ablösen, befreien
+
+विवद् 1 विवदति : disputieren, auseinandersetzen, erzählen
+
+विस्मृ 1 विस्मरति : vergessen
+
+विहन् 2 विहन्ति : zerschlagen, zerstören, vernichten
+:::
 
 सम् "zusammen, mit"
 
 Beispiele:
 
-> समास्  2 Ā समास्ते : zusammensitzen, sich aufhalten, wohnen
-> 
-> समि 2 समेति : zusammenkommen, sich vereinigen
-> 
-> संगम् 1 Ā (!) संगच्छते : zusammenkommen, aufeinandertreffen (freundlich oder feindlich), Geschlechtsverkehr haben mit (Akk.)
-> 
-> संजन् 4 Ā संजायते : entstehen
-> 
-> &gt; PPP संजात 3: geboren, entstanden, geworden
-> 
-> सम्बुध् 4 Ā सम्बुध्यते : vollständig erwachen (zur Wahrheit)
-> 
-> सम्पद् 4 Ā सम्पद्यते : jemandem zuteil werden, gelingen
-> 
-> &gt; PPP सम्पन्न 3: versehen mit (Instr.)
+::: indent
+समास् 2 Ā समास्ते : zusammensitzen, sich aufhalten, wohnen
 
-Die Wurzel कृ "tun" zeigt in Verbindung mit den Präverben सम् । उप । अप । परि  auch die Form स्कृ
+समि 2 समेति : zusammenkommen, sich vereinigen
+
+संगम् 1 Ā (!) संगच्छते : zusammenkommen, aufeinandertreffen (freundlich oder feindlich), Geschlechtsverkehr haben mit (Akk.)
+
+संजन् 4 Ā संजायते : entstehen
+
+*   PPP संजात 3: geboren, entstanden, geworden
+
+सम्बुध् 4 Ā सम्बुध्यते : vollständig erwachen (zur Wahrheit)
+
+सम्पद् 4 Ā सम्पद्यते : jemandem zuteil werden, gelingen
+
+*   PPP सम्पन्न 3: versehen mit (Instr.)
+:::
+
+:::: grammar-box
+
+Die Wurzel कृ "tun" zeigt in Verbindung mit den Präverben सम् । उप । अप । परि auch die Form स्कृ
+
+::::
 
 Beispiel:
 
-> sam-kṛ 8 संस्करोति : zubereiten, fürs Opfer zubereiten, weihen
-> 
-> &gt; PPP संस्कृत 3: fürs Opfer zubereitet ; संस्कृत n.: Sanskrit: die fürs Opfer geeignete Sprache ; Gegenstück प्राकृत 3: gewöhnlich, ordinär ; प्राकृत n.: gewöhnliche Sprache, Prakrit (Bezeichnung für die Volks- und Verkehrssprachen, die mit dem Sanskrit verwandt sind)
+::: indent
+sam-kṛ 8 संस्करोति : zubereiten, fürs Opfer zubereiten, weihen
+
+*   PPP संस्कृत 3: fürs Opfer zubereitet ; संस्कृत n.: Sanskrit: die fürs Opfer geeignete Sprache ; Gegenstück प्राकृत 3: gewöhnlich, ordinär ; प्राकृत n.: gewöhnliche Sprache, Prakrit (Bezeichnung für die Volks- und Verkehrssprachen, die mit dem Sanskrit verwandt sind)
+:::
 
 ### 18.3.1. Nominalbildungen zu Verbalkomposita
 
+:::: grammar-box
+
 Von Wurzeln mit Präverben können mittels kṛt-Suffixen Nomina gebildet werden.
+
+::::
 
 Beispiele:
 
@@ -222,19 +282,19 @@ Abb.: विवाहः
 (Bildquelle: [Details](/licenses#lekt1804))
 :::
 
-
 upa-nī + -ana = उपनयन n.: das Heranführen (ans Opferfeuer) = Zeremonie, bei der den männlichen Angehörigen der drei oberen Stände die heilige Schnur (यज्ञोपवीत n.) angelegt wird sowie der hl. Vers सावित्री ins Ohr geflüstert wird, den sie von nun an täglich bei Sonnenauf- und Sonnenuntergang rezitieren. Für die Brahmanen ist das Ṛgveda III.62.10:
 
-> "Mögen wir den vorzüglichen Glanz des Gottes 'Antreiber' empfangen, der unsere Gedanken in Bewegung setzen möge."
+::: indent
+"Mögen wir den vorzüglichen Glanz des Gottes 'Antreiber' empfangen, der unsere Gedanken in Bewegung setzen möge."
+:::
 
 Durch das Upanayana geschieht die zweite Geburt, deshalb: द्विज । द्विजाति
 
 ::: media
 ![](/images/lekt1801.jpg)
 Abb.: उपनयनम्
+(Bildquelle: [Details](/licenses#lekt1801))
 :::
-
-> "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
 
 ## 18.4. Wortliste
 
@@ -246,7 +306,7 @@ Abb.: उपनयनम्
 
 व्याधि m.: Krankheit
 
-रिपु m. =  शत्रु , Betrüger
+रिपु m. = शत्रु , Betrüger
 
 वह्नि m. = अग्नि
 
@@ -282,7 +342,7 @@ B) Übersetzen Sie folgende Tatpuruṣa:
 
 २. सुकुल n.
 
-३. सुकृति f.
+३. सुकृती f.
 
 ४. अकरण n.
 
@@ -370,7 +430,6 @@ Abb.: मृतिसाधनी काली
 (Bildquelle: [Details](/licenses#lekt1802))
 :::
 
-
 B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
 
 1\. Der Brahmane preist die Göttinnen.
@@ -383,7 +442,7 @@ B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
 
 5\. Ein Gespenst isst keine Früchte.
 
-6\. So spricht der, der \[den Weg durch die Wiedergeburten\] gut gegangen ist zum Jünger.
+6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger.
 
 ::: media
 ![](/images/lekt1803.jpg)
@@ -391,16 +450,15 @@ Abb.: सुगतः
 (Bildquelle: [Details](/licenses#lekt1803))
 :::
 
-
 C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
 
 D) Übersetzen Sie:
 
 (धर्मः) सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥
 
+::: deleteme-box
 ### Quellen
 
-::: deleteme-box
 **lekt1801:** "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya." [Bildquelle: Nagesh Rao / Wikipedia, GNU FDLicense]
 
 **lekt1802:** 1770 Print [Bildquelle: Wikipedia, Public domain]
@@ -409,4 +467,3 @@ D) Übersetzen Sie:
 
 **lekt1804:** Hochzeit = विवाह m., ein wichtiger संस्कारः [Bildquelle: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 :::
-

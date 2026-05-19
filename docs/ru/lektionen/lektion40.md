@@ -65,11 +65,11 @@ Bei sog. fakultativen अनिट्-Wurzeln kann der Bindevokal wahlweise eing
 
 Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
 
-| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | | <!-- TODO: Fallback translation -->
+| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-*   | :--- | :--- | --- | --- | <!-- TODO: Fallback translation -->
-*   | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | <!-- TODO: Fallback translation -->
-*   | **-a** | **-ma** | **-e** | **-mahe** | <!-- TODO: Fallback translation -->
+*   | :--- | :--- | :--- | :--- |
+*   | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число |
+*   | **-a** | **-ma** | **-e** | **-mahe** |
 *   Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
 
 Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
@@ -99,13 +99,13 @@ Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bin
 
 Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
 
-*   | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | | <!-- TODO: Fallback translation -->
+*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-| :--- | :--- | --- | --- | <!-- TODO: Fallback translation -->
+| :--- | :--- | :--- | :--- |
 
-*   | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | <!-- TODO: Fallback translation -->
+*   | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число |
 
-*   | **-a** | **-ma** | **-e** | **-mahe** | <!-- TODO: Fallback translation -->
+*   | **-a** | **-ma** | **-e** | **-mahe** |
 
 *   Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
 
@@ -121,12 +121,12 @@ Bei sog. fakultativen अनिट्-Wurzeln kann der Bindevokal wahlweise eing
 
 Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
 
-| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | | <!-- TODO: Fallback translation -->
+| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-| :--- | :--- | --- | --- | <!-- TODO: Fallback translation -->
+| :--- | :--- | :--- | :--- |
 
-*   | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | <!-- TODO: Fallback translation -->
-*   | **-a** | **-ma** | **-e** | **-mahe** | <!-- TODO: Fallback translation -->
+*   | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число |
+*   | **-a** | **-ma** | **-e** | **-mahe** |
 
 Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
 
@@ -196,10 +196,10 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 ### 40.2.4. Perfekt Typ IV: Кореньn auf -ā / -ai
 
 *   Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
-    *   | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | | <!-- TODO: Fallback translation -->
-*   | :--- | :--- | --- | --- | <!-- TODO: Fallback translation -->
-    *   | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | <!-- TODO: Fallback translation -->
-    *   | **-a** | **-ma** | **-e** | **-mahe** | <!-- TODO: Fallback translation -->
+    *   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+*   | :--- | :--- | :--- | :--- |
+    *   | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число |
+    *   | **-a** | **-ma** | **-e** | **-mahe** |
 
 Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
 
@@ -303,13 +303,13 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
 
-*   | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | | <!-- TODO: Fallback translation -->
+*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-*   | :--- | :--- | --- | --- | <!-- TODO: Fallback translation -->
+*   | :--- | :--- | :--- | :--- |
 
-| **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | <!-- TODO: Fallback translation -->
+| **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число |
 
-| **-a** | **-ma** | **-e** | **-mahe** | <!-- TODO: Fallback translation -->
+| **-a** | **-ma** | **-e** | **-mahe** |
 
 *   Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
 

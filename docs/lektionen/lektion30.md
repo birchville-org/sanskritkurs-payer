@@ -18,8 +18,10 @@
 
 Beispiel:
 
-> क्री 9U "kaufen"
-> 
+::: indent
+क्री 9U "kaufen"
+:::
+
 ::: grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
@@ -39,14 +41,16 @@ Bei dieser Präsensklasse ist besonders zu beachten die Bildung des Präsensstam
 |**3. Person[[br]]Ātmanepada**|जानीते[[br]](jā-nī-te)|जानते[[br]](jā-n-ate)|
 
 :::
-> 
-> Die Form जा die dem Präsensstamm von ज्ञा zugrundeliegt, ist entweder durch eine Ablautreihe -ā (Tiefstufe) -nā (Hochstufe) zu erklären, oder durch Dissimilation aus \*jñā-nā-ti.
+Die Form जा die dem Präsensstamm von ज्ञा zugrundeliegt, ist entweder durch eine Ablautreihe -ā (Tiefstufe) -nā (Hochstufe) zu erklären, oder durch Dissimilation aus *jñā-nā-ti.
 
 Einige Wurzeln auf langen Vokal verkürzen diesen vor dem Präsensstammsuffix der 9. Klasse:
 
 Beispiel:
 
-> पू 9U "reinigen"
+::: indent
+पू 9U "reinigen"
+:::
+
 ::: grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
@@ -60,41 +64,55 @@ Bildung des Partizip Präsens Parasmaipada:
 
 Beispiel:
 
-> क्रीणन्त् (krī + n + ant) ; fem.: क्रीणती (krī + n + at + ī)
+::: indent
+क्रीणन्त् (krī + n + ant) ; fem.: क्रीणती (krī + n + at + ī)
+:::
 
 ## 30.2. Gebrauch des Optativ (लिङ्)
 
 Der Optativ wird gebraucht:
 
-1\. zur Bezeichnung
+::: grammar-box
+**1. zur Bezeichnung**
 
-*   eines Wunsches
-*   einer Bitte
-*   eines gemilderten Befehls
+*   **eines Wunsches**
+*   **einer Bitte**
+*   **eines gemilderten Befehls**
 
-(hierbei überschneidet sich der Optativ - लिङ् - mit dem Imperativ - लोट्)
-
-Beispiel:
-
-> दासो ग्राममागच्छेत् = "Der Leibeigene möge ins Dorf kommen"
-
-2\. Wenn etwas als
-
-*   möglich
-*   wahrscheinlich
-*   vermutlich
-
-dargestellt werden soll.
+**(hierbei überschneidet sich der Optativ - लिङ् - mit dem Imperativ - लोट्)**
+:::
 
 Beispiel:
 
-> ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात् = "Wenn er aus dem Dorf ginge, würde er den Meister nicht hören"
+::: indent
+दासो ग्राममागच्छेत् = "Der Leibeigene möge ins Dorf kommen"
+:::
 
-3\. Relativsätze mit Optativ haben manchmal die Bedeutung: "Wenn jemand ..."
+::: grammar-box
+**2. Wenn etwas als**
+
+*   **möglich**
+*   **wahrscheinlich**
+*   **vermutlich**
+
+**dargestellt werden soll.**
+:::
 
 Beispiel:
 
-> यो नृतं वदेत्स नरकं पतेत् = "Wenn jemand die Unwahrheit sagen würde, würde er in die Hölle fallen = Wenn jemand Unwahrheit sagt, fällt er in die Hölle"
+::: indent
+ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात् = "Wenn er aus dem Dorf ginge, würde er den Meister nicht hören"
+:::
+
+::: grammar-box
+**3. Relativsätze mit Optativ haben manchmal die Bedeutung: "Wenn jemand ..."**
+:::
+
+Beispiel:
+
+::: indent
+यो नृतं वदेत्स नरकं पतेत् = "Wenn jemand die Unwahrheit sagen würde, würde er in die Hölle fallen = Wenn jemand Unwahrheit sagt, fällt er in die Hölle"
+:::
 
 ## 30.3. Sekundärendungen der 3. Personen Singular und Plural
 
@@ -113,19 +131,21 @@ Der Optativ (लिङ्), das Imperfekt (लङ्), der Aorist (लुङ्)
 
 ### 30.4.1. Thematische Präsensklassen
 
-vor konsonantische anlautenden Endungen:
+::: grammar-box
+**vor konsonantisch anlautenden Endungen:**
 
-Präsensstamm + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen
+**Präsensstamm + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen**
 
-vor vokalisch anlautenden Endungen:
+**vor vokalisch anlautenden Endungen:**
 
-Präsensstamm + -i- (» -e-) + -y- + Sekundärendung
+**Präsensstamm + -i- (» -e-) + -y- + Sekundärendung**
+:::
 
 Beispiele:
 
 1\. Präsensklasse:
 
-> भू
+भू
 ::: grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
@@ -137,7 +157,7 @@ Beispiele:
 
 4\. Präsensklasse:
 
-> नृत्
+नृत्
 ::: grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
@@ -149,7 +169,7 @@ Beispiele:
 
 6\. Präsensklasse
 
-> विश्
+विश्
 ::: grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
@@ -161,7 +181,7 @@ Beispiele:
 
 10\. Präsensklasse und Kausative
 
-> चुर्
+चुर्
 ::: grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
@@ -173,19 +193,21 @@ Beispiele:
 
 ### 30.4.2. Athematische Präsensklassen
 
-Parasmaipada:
+::: grammar-box
+**Parasmaipada:**
 
-schwacher Präsensstamm + -yā- (vor -ur: -y-) + Sekundärendung
+**schwacher Präsensstamm + -yā- (vor -ur: -y-) + Sekundärendung**
 
-Ātmanepada:
+**Ātmanepada:**
 
-schwacher Präsensstamm + -ī- + Sekundärendung
+**schwacher Präsensstamm + -ī- + Sekundärendung**
+:::
 
 Beispiele:
 
 2\. Präsensklasse:
 
-> द्विष्
+द्विष्
 ::: grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
@@ -197,7 +219,7 @@ Beispiele:
 
 5\. Präsensklasse
 
-> सु
+सु
 ::: grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
@@ -209,7 +231,7 @@ Beispiele:
 
 8\. Präsensklasse
 
-> तन्
+तन्
 ::: grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
@@ -219,7 +241,7 @@ Beispiele:
 
 :::
 
-> **kṛ**[[br]](कृ)
+**kṛ**[[br]](कृ)
 
 ::: grammar-box
 
@@ -242,32 +264,38 @@ Beispiele:
 ## 30.5. Sandhi von auslautendem -r
 
 ::: grammar-box
-Außer für -ar gelten für auslautendes -r dieselben Sandhiregeln wie für auslautendes -s.
+**Außer für -ar gelten für auslautendes -r dieselben Sandhiregeln wie für auslautendes -s.**
 
--ar vor tönenden Lauten bleibt -ar, vor r- aber fällt das -r aus und das -a- wird durch -ā- ersetzt.
+**-ar vor tönenden Lauten bleibt -ar, vor r- aber fällt das -r aus und das -a- wird durch -ā- ersetzt.**
 :::
 
 
 Beispiele:
 
-> भवेयुर् + च » भवेयुश्च
-> 
-> पुनर् + अग्निः » पुनरग्निः
-> 
-> पुनर् +  रोदिति » पुना रोदिति
+::: indent
+भवेयुर् + च » भवेयुश्च
+
+पुनर् + अग्निः » पुनरग्निः
+
+पुनर् + रोदिति » पुना रोदिति
+:::
 
 ## 30.6. Wortliste
 
 क्री 9U क्रीणाति : kaufen
 
-> Fut. क्रेष्यति  
-> Pass. क्रीयते  
-> PPP क्रीत  
-> Inf. क्रेतुम्
+::: indent
+Fut. क्रेष्यति  
+Pass. क्रीयते  
+PPP क्रीत  
+Inf. क्रेतुम्
+:::
 
 क्री + वि 9Ā विक्रीणीते : verkaufen
 
-> Absol. विक्रीय
+::: indent
+Absol. विक्रीय
+:::
 
 ::: media
 ![](/images/lekt3001.jpg)
@@ -277,20 +305,20 @@ Abb.: क्रीणन्ति विक्रीणते च
 
 ज्ञा 9U जानाति : kennen, erkennen, wissen, verstehen
 
-> Fut. ज्ञास्यति  
-> Pass.ज्ञायते  
-> Kaus. ज्ञापयति
-> 
-> > Kaus. PPP ज्ञप्त / ज्ञापित
-> 
-> PPP ज्ञात  
-> Inf. ज्ञातुम्
-> 
-> davon:
-> 
-> ज्ञाति m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!)
-> 
-> ज्ञान n.: Erkenntnis, Wissen, Erkennen (bes. der "höheren" Wahrheiten in Religion und Philosophie)
+::: indent
+Fut. ज्ञास्यति  
+Pass. ज्ञायते  
+Kaus. ज्ञापयति  
+Kaus. PPP ज्ञप्त / ज्ञापित  
+PPP ज्ञात  
+Inf. ज्ञातुम्
+
+davon:
+
+ज्ञाति m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!)
+
+ज्ञान n.: Erkenntnis, Wissen, Erkennen (bes. der "höheren" Wahrheiten in Religion und Philosophie)
+:::
 
 ::: media
 ![](/images/lekt3002.jpg)
@@ -300,11 +328,13 @@ Abb.: ज्ञातयः
 
 पू 9U पुनाति : reinigen
 
-> Fut. पविष्यति  
-> Pass. पूयते  
-> Kaus. पावयति  
-> PPP पूत  
-> Inf. पवितुम्
+::: indent
+Fut. पविष्यति  
+Pass. पूयते  
+Kaus. पावयति  
+PPP पूत  
+Inf. पवितुम्
+:::
 
 ::: media
 ![](/images/lekt3003.jpg)
@@ -314,11 +344,13 @@ Abb.: श्रोत्राणि पुनाति
 
 अश् 9P अश्नाति : essen, verzehren
 
-> Fut. अशिष्यति  
-> Pass. अश्यते  
-> Kaus. आशयति  
-> PPP अशित  
-> Inf. अशितुम्
+::: indent
+Fut. अशिष्यति  
+Pass. अश्यते  
+Kaus. आशयति  
+PPP अशित  
+Inf. अशितुम्
+:::
 
 ::: media
 ![](/images/lekt3005.jpg)
@@ -336,21 +368,27 @@ Abb.: प्रिया
 
 चेत् Konjunktion: wenn; vorausgesetzt, dass (steht nie am Anfang eines Satzes)
 
-> न चेत् : wenn nicht
+::: indent
+न चेत् : wenn nicht
+:::
 
 यदि Konjunktion: wenn
 
-> यद्यपि : wenn auch, selbst wenn, obgleich
-> 
-> यद्येवम् : wenn es so ist, unter diesen Umständen
+::: indent
+यद्यपि : wenn auch, selbst wenn, obgleich
+
+यद्येवम् : wenn es so ist, unter diesen Umständen
+:::
 
 पुनर् : wieder, immer wieder, zurück, noch einmal, dagegen, aber
 
-> पुनः पुनर् : immer wieder
-> 
-> davon:
-> 
-> पुनर्भव m.: Wiedergeburt
+::: indent
+पुनः पुनर् : immer wieder
+
+davon:
+
+पुनर्भव m.: Wiedergeburt
+:::
 
 ::: media
 ![](/images/lekt2904.jpg)
@@ -360,15 +398,17 @@ Abb.: पुनर्भवः
 
 जीव् 1P जीवति : leben
 
-> Fut. जीविष्यति  
-> Pass. जीव्यते  
-> Kaus. जीवयति  
-> PPP जीवित : lebend  
-> Inf. जीवितुम्
-> 
-> davon:
-> 
-> जीव m./n.: Leben, individuelle Seele
+::: indent
+Fut. जीविष्यति  
+Pass. जीव्यते  
+Kaus. जीवयति  
+PPP जीवित : lebend  
+Inf. जीवितुम्
+
+davon:
+
+जीव m./n.: Leben, individuelle Seele
+:::
 
 सनातन ३ fem.: सनातनी : ewig, unvergänglich, beständig
 
@@ -508,9 +548,8 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 39.  तस्मिन्
 40.  सते
 
-### Quellen
-
 ::: deleteme-box
+### Quellen
 **lekt3001:** Bundi = बुन्दी, Rajasthan = राजस्थान [Bildquelle: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 **lekt3002:** Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र [Bildquelle: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 **lekt3003:** [Bildquelle: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]

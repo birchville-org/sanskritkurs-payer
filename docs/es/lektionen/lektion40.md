@@ -65,10 +65,10 @@ En las denominadas raíces अनिट् facultativas, la vocal de unión pued
 
 Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट्)
 
-| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-*   | :--- | :--- | --- | --- |
-*   | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
+*   | :--- | :--- | :--- | :--- |
+*   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 *   Obsérvese que las desinencias de la primera persona singular de P y Ā son idénticas a las de la tercera persona singular. Por consiguiente, en todos los tipos de perfecto excepto los tipos III(a,b) y V(a,b,c), las formas de la primera persona singular de P y Ā son siempre idénticas a las de la tercera persona singular de P y Ā, respectivamente.
 
@@ -99,11 +99,11 @@ Ante desinencias que comienzan por consonante, la mayoría de las raíces insert
 
 Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट्)
 
-*   | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-| :--- | :--- | --- | --- |
+| :--- | :--- | :--- | :--- |
 
-*   | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
+*   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 
@@ -121,11 +121,11 @@ En las denominadas raíces अनिट् facultativas, la vocal de unión pued
 
 Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट्)
 
-| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-| :--- | :--- | --- | --- |
+| :--- | :--- | :--- | :--- |
 
-*   | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
+*   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 
 Obsérvese que las desinencias de la primera persona singular de P y Ā son idénticas a las de la tercera persona singular. Por consiguiente, en todos los tipos de perfecto excepto los tipos III(a,b) y V(a,b,c), las formas de la primera persona singular de P y Ā son siempre idénticas a las de la tercera persona singular de P y Ā, respectivamente.
@@ -196,9 +196,9 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 ### 40.2.4. Perfekt Typ IV: Raízn auf -ā / -ai
 
 *   Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट्)
-    *   | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
-*   | :--- | :--- | --- | --- |
-    *   | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
+    *   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+*   | :--- | :--- | :--- | :--- |
+    *   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
     *   | **-a** | **-ma** | **-e** | **-mahe** |
 
 Obsérvese que las desinencias de la primera persona singular de P y Ā son idénticas a las de la tercera persona singular. Por consiguiente, en todos los tipos de perfecto excepto los tipos III(a,b) y V(a,b,c), las formas de la primera persona singular de P y Ā son siempre idénticas a las de la tercera persona singular de P y Ā, respectivamente.
@@ -229,31 +229,31 @@ Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट
 
 Excepto ante la desinencia -re, ante la cual debe insertarse siempre -i-, la vocal de unión ante desinencias que comienzan por consonante no aparece en ocho raíces que terminan en -ṛ o -u, a saber:
 
+*   1.sg.P उवाच । उवच <!-- TODO: Fallback translation -->
+
 *   कृ 8U (excepto संस्कृ)
 
-*   भृ 1U
+भृ 1U
 
-वृ 9U "elegir"
+*   1.sg.P उवाद । उवद <!-- TODO: Fallback translation -->
+
+*   वृ 9U "elegir"
+
+जन् 4Ā
 
 *   सृ 1P
 
 *   द्रु 1p "correr"
 
-जन् 4Ā
+स्तु 2U
 
-*   स्तु 2U
-
-*   स्रु 1P "fluir"
-
-En las denominadas raíces अनिट् facultativas, la vocal de unión puede insertarse opcionalmente o no. (Listado de estas raíces en Kielhorn, Grammatik p. 92 § 298b,2,3)
-
-*   1.sg.P उवाच । उवच <!-- TODO: Fallback translation -->
+*   1.sg.P इयाज । इयज <!-- TODO: Fallback translation -->
 
 *   1.pl.P ऊचिम (u + uc-ima) <!-- TODO: Fallback translation -->
 
 वद् 1P (Ā) <!-- TODO: Fallback translation -->
 
-*   1.sg.P उवाद । उवद <!-- TODO: Fallback translation -->
+*   1.sg.P पपाच । पपच <!-- TODO: Fallback translation -->
 
 *   1.pl.P ऊदिम <!-- TODO: Fallback translation -->
 
@@ -263,7 +263,7 @@ En las denominadas raíces अनिट् facultativas, la vocal de unión pued
 
 यज् 1U <!-- TODO: Fallback translation -->
 
-*   1.sg.P इयाज । इयज <!-- TODO: Fallback translation -->
+*   1.sg.P चक्राम । चक्रम <!-- TODO: Fallback translation -->
 
 *   1.pl.P ईजिम <!-- TODO: Fallback translation -->
 
@@ -271,11 +271,11 @@ En las denominadas raíces अनिट् facultativas, la vocal de unión pued
 
 *   1.pl.Ā ईजिमहे <!-- TODO: Fallback translation -->
 
-#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e- <!-- TODO: Fallback translation -->
+स्रु 1P "fluir"
 
 पच् 1U <!-- TODO: Fallback translation -->
 
-*   1.sg.P पपाच । पपच <!-- TODO: Fallback translation -->
+*   En las denominadas raíces अनिट् facultativas, la vocal de unión puede insertarse opcionalmente o no. (Listado de estas raíces en Kielhorn, Grammatik p. 92 § 298b,2,3)
 
 *   1.pl.P पेचिम <!-- TODO: Fallback translation -->
 
@@ -283,15 +283,15 @@ En las denominadas raíces अनिट् facultativas, la vocal de unión pued
 
 *   1.pl.Ā पेचिमहे <!-- TODO: Fallback translation -->
 
+#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e- <!-- TODO: Fallback translation -->
+
 #### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
-
-*   Alle übrigen Raízn mit mittlerem -a- <!-- TODO: Fallback translation -->
+*   Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 क्रम् 1U <!-- TODO: Fallback translation -->
 
-*   1.sg.P चक्राम । चक्रम <!-- TODO: Fallback translation -->
+*   Alle übrigen Raízn mit mittlerem -a- <!-- TODO: Fallback translation -->
 
 *   1.pl.P चक्रमिम <!-- TODO: Fallback translation -->
 
@@ -303,11 +303,11 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट्)
 
-*   | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
+*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
 
-*   | :--- | :--- | --- | --- |
+*   | :--- | :--- | :--- | :--- |
 
-| **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
+| **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
 
 | **-a** | **-ma** | **-e** | **-mahe** |
 

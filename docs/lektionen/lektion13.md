@@ -81,37 +81,23 @@ Beispiele:
 
 Die Stämme auf -mant bzw. -vant gehören zu den Nominalstämmen mit Stammabstufung.
 
-:::: grammar-box
-
+::: grammar-box
 Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und schwachen Kasus (Fällen). In den starken Kasus hat das stammbildende Suffix — bei Wurzelnomina der wurzelhafte Bestandteil — Hochstufe bzw. Dehnstufe, in den schwachen Kasus Tiefstufe.
-
-Starke Kasus sind:
-
-**Bei Maskulina und Feminina पुंस् स्त्री**
-
-::: center
-
-| Singular[[br]]एकवचन | Dual[[br]]द्विवचन | Plural[[br]]बहुवचन |
-| :--- | :--- | :--- |
-| Nominativ (प्रथमा)[[br]]Akkusativ (द्वितीया)[[br]]Vokativ (सम्बोधनप्रथमा) | Nominativ (प्रथमा)[[br]]Akkusativ (द्वितीया)[[br]]Vokativ (सम्बोधनप्रथमा) | Nominativ (प्रथमा)[[br]]Vokativ (सम्बोधनप्रथमा) |
-
 :::
 
-**Bei Neutra नपुंसक**
+**Starke Kasus sind:**
 
-::: center
+| | Singular[[br]]एकवचन | Dual[[br]]द्विवचन | Plural[[br]]बहुवचन |
+| :--- | :--- | :--- | :--- |
+| **Bei Maskulina und Feminina**[[br]]पुंस्, स्त्री | Nominativ[[br]]प्रथमा[[br]]Akkusativ[[br]]द्वितीया[[br]]Vokativ[[br]]सम्बोधनप्रथमा | Nominativ[[br]]प्रथमा[[br]]Akkusativ[[br]]द्वितीया[[br]]Vokativ[[br]]सम्बोधनप्रथमा | Nominativ[[br]]प्रथमा[[br]][[br]]Vokativ[[br]]सम्बोधनप्रथमा |
+| **Bei Neutra**[[br]]नपुंसक | — | — | Nominativ[[br]]प्रथमा[[br]]Akkusativ[[br]]द्वितीया[[br]]Vokativ[[br]]सम्बोधनप्रथमा |
 
-| Singular[[br]]एकवचन | Dual[[br]]द्विवचन | Plural[[br]]बहुवचन |
-| :--- | :--- | :--- |
-| — | — | Nominativ (प्रथमा)[[br]]Akkusativ (द्वितीया)[[br]]Vokativ (सम्बोधनप्रथमा) |
+**Alle übrigen Kasus sind schwach.**
 
-:::
-
-Alle übrigen Kasus sind schwach.
-
+::: grammar-box
 Als Vorderglied eines Kompositums steht ein Nomen mit Stammabstufung im schwachen Stamm (bei dreistämmigen Nomina im sog. mittleren).
+:::
 
-::::
 
 ---
 
@@ -155,18 +141,65 @@ Bei konsonantisch auslautenden Stämmen:
 * starker Stamm: Nomen + -mant- / -vant-
 * schwacher Stamm: Nomen + -mat- / -vat- (aus: *-mnt- / *-vnt-)
 
-::: center
-
-| | | Maskulinum[[br]]पुंस् | | Neutrum[[br]]नपुंसक | |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Singular**[[br]]एकवचन | Nom. | paśu-mān[[br]]**पशुमान्** | guṇa-vān[[br]]**गुणवान्** | paśu-mat[[br]]**पशुमत्** | guṇa-vat[[br]]**गुणवत्** |
-| | Akk. | paśu-mant-am[[br]]**पशुमन्तम्** | guṇa-vant-am[[br]]**गुणवन्तम्** | paśu-mat[[br]]**पशुमत्** | guṇa-vat[[br]]**गुणवत्** |
-| | Inst. | paśu-mat-ā[[br]]**पशुमता** | guṇa-vat-ā[[br]]**गुणवता** | paśu-mat-ā[[br]]**पशुमता** | guṇa-vat-ā[[br]]**गुणवता** |
-| **Plural**[[br]]बहुवचन | Nom. | paśu-mant-as[[br]]**पशुमन्तस्** | guṇa-vant-as[[br]]**गुणवन्तस्** | paśu-mant-i[[br]]**पशुमन्ति** | guṇa-vant-i[[br]]**गुणवन्ति** |
-| | Akk. | paśu-mat-as[[br]]**पशुमतस्** | guṇa-vat-as[[br]]**गुणवतस्** | paśu-mant-i[[br]]**पशुमन्ति** | guṇa-vant-i[[br]]**गुणवन्ति** |
-| | Inst. | paśu-mad-bhis[[br]]**पशुमद्भिस्** | guṇa-vad-bhis[[br]]**गुणवद्भिस्** | paśu-mad-bhis[[br]]**पशुमद्भिस्** | guṇa-vad-bhis[[br]]**गुणवद्भिस्** |
-
-:::
+<table>
+  <thead>
+    <tr>
+      <th colspan="2"></th>
+      <th colspan="2">Maskulinum<br><span class="sanskrit-dev">पुंस्</span></th>
+      <th colspan="2">Neutrum<br><span class="sanskrit-dev">नपुंसक</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Singular</strong><br><span class="sanskrit-dev">एकवचन</span></td>
+      <td>Nominativ<br><span class="sanskrit-dev">प्रथमा</span></td>
+      <td>paśu-mān<br><strong><span class="sanskrit-dev">पशुमान्</span></strong></td>
+      <td>guṇa-vān<br><strong><span class="sanskrit-dev">गुणवान्</span></strong></td>
+      <td>paśu-mat<br><strong><span class="sanskrit-dev">पशुमत्</span></strong></td>
+      <td>guṇa-vat<br><strong><span class="sanskrit-dev">गुणवत्</span></strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Akkusativ<br><span class="sanskrit-dev">द्वितीया</span></td>
+      <td>paśu-mant-am<br><strong><span class="sanskrit-dev">पशुमन्तम्</span></strong></td>
+      <td>guṇa-vant-am<br><strong><span class="sanskrit-dev">गुणवन्तम्</span></strong></td>
+      <td>paśu-mat<br><strong><span class="sanskrit-dev">पशुमत्</span></strong></td>
+      <td>guṇa-vat<br><strong><span class="sanskrit-dev">गुणवत्</span></strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Instrumentalis<br><span class="sanskrit-dev">तृतीया</span></td>
+      <td>paśu-mat-ā<br><strong><span class="sanskrit-dev">पशुमता</span></strong></td>
+      <td>guṇa-vat-ā<br><strong><span class="sanskrit-dev">गुणवता</span></strong></td>
+      <td>paśu-mat-ā<br><strong><span class="sanskrit-dev">पशुमता</span></strong></td>
+      <td>guṇa-vat-ā<br><strong><span class="sanskrit-dev">गुणवता</span></strong></td>
+    </tr>
+    <tr>
+      <td><strong>Plural</strong><br><span class="sanskrit-dev">बहुवचन</span></td>
+      <td>Nominativ<br><span class="sanskrit-dev">प्रथमा</span></td>
+      <td>paśu-mant-as<br><strong><span class="sanskrit-dev">पशुमन्तस्</span></strong></td>
+      <td>guṇa-vant-as<br><strong><span class="sanskrit-dev">गुणवन्तस्</span></strong></td>
+      <td>paśu-mant-i<br><strong><span class="sanskrit-dev">पशुमन्ति</span></strong></td>
+      <td>guṇa-vant-i<br><strong><span class="sanskrit-dev">गुणवन्ति</span></strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Akkusativ<br><span class="sanskrit-dev">द्वितीया</span></td>
+      <td>paśu-mat-as<br><strong><span class="sanskrit-dev">पशुमतस्</span></strong></td>
+      <td>guṇa-vat-as<br><strong><span class="sanskrit-dev">गुणवतस्</span></strong></td>
+      <td>paśu-mant-i<br><strong><span class="sanskrit-dev">पशुमन्ति</span></strong></td>
+      <td>guṇa-vant-i<br><strong><span class="sanskrit-dev">गुणवन्ति</span></strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Instrumentalis<br><span class="sanskrit-dev">तृतीया</span></td>
+      <td>paśu-mad-bhis<br><strong><span class="sanskrit-dev">पशुमद्भिस्</span></strong></td>
+      <td>guṇa-vad-bhis<br><strong><span class="sanskrit-dev">गुणवद्भिस्</span></strong></td>
+      <td>paśu-mad-bhis<br><strong><span class="sanskrit-dev">पशुमद्भिस्</span></strong></td>
+      <td>guṇa-vad-bhis<br><strong><span class="sanskrit-dev">गुणवद्भिस्</span></strong></td>
+    </tr>
+  </tbody>
+</table>
 
 Femininum:
 
@@ -186,8 +219,6 @@ Lernen Sie folgende Wörter:
 * eva (एव) : betont vorhergehendes Wort
 * asura m. (असुर) : Dämon
 
-:::: grammar-box
-
 **ASURA.** 'Spiritual, divine.'
 
 In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
@@ -199,8 +230,6 @@ According to the Viṣṇu Purāṇa, they were produced from the groin of Brahm
 In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
 
 [Quelle: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
-
-::::
 
 ::: center
 
@@ -252,9 +281,9 @@ dviṣ 2 U:
 
 A) Übersetzen Sie und verwandeln Sie in aktive Präsenssätze:
 
-* १. अग्निना गृहं दग्धम् ।
-* २. बुद्धेन सत्यं बुद्धम् ।
-* ३. बोध्या गौतमो मुक्तः ।
+१. अग्निना गृहं दग्धम् ।
+२. बुद्धेन सत्यं बुद्धम् ।
+३. बोध्या गौतमो मुक्तः ।
 
 ::: center
 
@@ -264,33 +293,33 @@ Abb.: atra gautamo buddho bodhyā muktaḥ = अत्र गौतमो बु
 
 :::
 
-* ४. शूद्रा मूढाः । (2 Möglichkeiten)
-* ५. ब्राह्मणेन मोक्ष इष्टः ।
-* ६. रामेण पुण्यं कृतम् ।
-* ७. ऋषिभिः सत्यमेवोदितमित्युदितम् ।
-* ८. धर्मेण स्वर्गं नीतम् ।
-* ९. साधुनाधर्मो न कृतम् ।
-* १०. मन्त्रेण मोक्षो लब्धः ।
-* ११. कया रक्षिकयेयं बाला रक्षिता ॥
+४. शूद्रा मूढाः । (2 Möglichkeiten)
+५. ब्राह्मणेन मोक्ष इष्टः ।
+६. रामेण पुण्यं कृतम् ।
+७. ऋषिभिः सत्यमेवोदितमित्युदितम् ।
+८. धर्मेण स्वर्गं नीतम् ।
+९. साधुनाधर्मो न कृतम् ।
+१०. मन्त्रेण मोक्षो लब्धः ।
+११. कया रक्षिकयेयं बाला रक्षिता ॥
 
 B) Übersetzen Sie und verwandeln Sie in Passivsätze der Vergangenheit:
 
-* १. राम इष्टमपि मोक्षं न लभते ।
-* २. योद्धा न मुञ्चति ।
-* ३. साधवो देवान्स्मरन्ति ।
-* ४. पुण्यवान्पुत्रो देवान् यजते ।
-* ५. सुखवान्क्षत्रियो धर्मं रक्षति ।
-* ६. पुत्रवान्नरकं न गच्छति ।
-* ७. धर्मवती पापं न करोतीति गुरुर्वदति ।
-* ८. बुद्धिमन्तः सत्यवतो धर्मं पृच्छन्ति ।
-* ९. धर्मवन्तः फलवत्पुण्यं कुर्वन्ति ।
-* १०. ब्राह्मणा गुणवतः पुत्रानिच्छन्ति ।
-* ११. कयर्ग्वेदं शृण्वन्ति ।
-* १२. किमीश्वरः सृजति ।
-* १३. साधुः कृतं पापं सहते ।
-* १४. पार्थिवो धनमिच्छतीति नीचा मन्यन्ते ।
-* १५. नैवासुरो जयतीत्यृषयः पश्यन्ति ।
-* १६. ब्राह्मणाः किं पिबन्ति खादन्ति च ॥
+१. राम इष्टमपि मोक्षं न लभते ।
+२. योद्धा न मुञ्चति ।
+३. साधवो देवान्स्मरन्ति ।
+४. पुण्यवान्पुत्रो देवान् यजते ।
+५. सुखवान्क्षत्रियो धर्मं रक्षति ।
+६. पुत्रवान्नरकं न गच्छति ।
+७. धर्मवती पापं न करोतीति गुरुर्वदति ।
+८. बुद्धिमन्तः सत्यवतो धर्मं पृच्छन्ति ।
+९. धर्मवन्तः फलवत्पुण्यं कुर्वन्ति ।
+१०. ब्राह्मणा गुणवतः पुत्रानिच्छन्ति ।
+११. कयर्ग्वेदं शृण्वन्ति ।
+१२. किमीश्वरः सृजति ।
+१३. साधुः कृतं पापं सहते ।
+१४. पार्थिवो धनमिच्छतीति नीचा मन्यन्ते ।
+१५. नैवासुरो जयतीत्यृषयः पश्यन्ति ।
+१६. ब्राह्मणाः किं पिबन्ति खादन्ति च ॥
 
 ---
 
@@ -298,20 +327,20 @@ B) Übersetzen Sie und verwandeln Sie in Passivsätze der Vergangenheit:
 
 A) Übersetzen Sie folgende Sätze:
 
-* १. रामो मार्गेण ग्रामं गच्छति ।
-* २. नरा धनेन सुखमिच्छन्ति ।
-* ३. नरः पुत्रेण नगरं पद्यते ।
-* ४. देवो लोकान्सृजति ।
-* ५. बाला जलं पिबति ।
-* ६. कवयो धनं लुभ्यन्ति ।
-* ७. बलवान्क्षत्रियः शूद्राञ्जयति ।
-* ८. गुणवान् द्विष्टमपि शत्रुं न युध्यते ।
-* ९. अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिर्वदति ।
-* १०. बाला अन्नेन बलमाप्नुवन्ति ।
-* ११. बुद्धिमन्तः सत्येन मोक्षं लभन्ते ।
-* १२. इमाः साध्व्यः पापं सहन्ते ।
-* १३. कां देवतामृषिः पश्यति ।
-* १४. कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।
+१. रामो मार्गेण ग्रामं गच्छति ।
+२. नरा धनेन सुखमिच्छन्ति ।
+३. नरः पुत्रेण नगरं पद्यते ।
+४. देवो लोकान्सृजति ।
+५. बाला जलं पिबति ।
+६. कवयो धनं लुभ्यन्ति ।
+७. बलवान्क्षत्रियः शूद्राञ्जयति ।
+८. गुणवान् द्विष्टमपि शत्रुं न युध्यते ।
+९. अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिर्वदति ।
+१०. बाला अन्नेन बलमाप्नुवन्ति ।
+११. बुद्धिमन्तः सत्येन मोक्षं लभन्ते ।
+१२. इमाः साध्व्यः पापं सहन्ते ।
+१३. कां देवतामृषिः पश्यति ।
+१४. कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।
 
 B) Setzen Sie die Sätze Übung A) ins Passiv.
 

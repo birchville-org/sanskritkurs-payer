@@ -65,42 +65,42 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 
 | | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
 | :--- | :--- | :--- |
-| **Feminina auf -i**:[[br]]śruti (श्रुति) | **śrutyā**[[br]](श्रुत्या) | **śrutibhis**[[br]](श्रुतिभिस्) |
-| **Feminina auf -ī**:[[br]]devī (देवी) | **devyā**[[br]](देव्या) | **devībhis**[[br]](देवीभिस्) |
-| **Feminina auf -u**:[[br]]dhenu (धेनु) | **dhenvā**[[br]](धेन्वा) | **dhenubhis**[[br]](धेनुभिस्) |
+| **Feminina auf -i**:[[br]]śruti[[br]]श्रुति | **śruty-ā**[[br]]श्रुत्या | **śruti-bhis**[[br]]श्रुतिभिस् |
+| **Feminina auf -ī**:[[br]]devī[[br]]देवी | **devy-ā**[[br]]देव्या | **devī-bhis**[[br]]देवीभिस् |
+| **Feminina auf -u**:[[br]]dhenu[[br]]धेनु | **dhenv-ā**[[br]]धेन्वा | **dhenu-bhis**[[br]]धेनुभिस् |
 
 **Unregelmäßige Bildungen (Singular):**
 
 | | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
 | :--- | :--- | :--- |
-| **Maskulina auf -i**:[[br]]kavi (कवि) | **kavinā**[[br]](कविना) | **kavibhis**[[br]](कविभिस्) |
-| **Maskulina auf -u**:[[br]]paśu (पशु) | **paśunā**[[br]](पशुना) | **paśubhis**[[br]](पशुभिस्) |
-| **Feminina auf -ā**:[[br]]devatā (देवता) | **devatayā**[[br]](देवतया) | **devatābhis**[[br]](देवताभिस्) |
+| **Maskulina auf -i**:[[br]]kavi[[br]]कवि | **kavi-n-ā**[[br]]कविना | **kavi-bhis**[[br]]कविभिस् |
+| **Maskulina auf -u**:[[br]]paśu[[br]]पशु | **paśu-n-ā**[[br]]पशुना | **paśu-bhis**[[br]]पशुभिस् |
+| **Feminina auf -ā**:[[br]]devatā[[br]]देवता | **devat-ay-ā**[[br]]देवतया | **devatā-bhis**[[br]]देवताभिस् |
 
 **Maskulina und Neutra auf -a (unregelmäßig in Singular und Plural):**
 
 | | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
 | :--- | :--- | :--- |
-| **Maskulina auf -a**:[[br]]deva (देव) | **devena**[[br]](देवेन) | **devais**[[br]](देवैस्) |
-| **Neutra auf -a**:[[br]]phala (फल) | **phalena**[[br]](फलेन) | **phalais**[[br]](फलैस्) |
+| **Maskulina auf -a**:[[br]]deva[[br]]देव | **devena**[[br]]देवेन | **devais**[[br]]देवैस् |
+| **Neutra auf -a**:[[br]]phala[[br]]फल | **phalena**[[br]]फलेन | **phalais**[[br]]फलैस् |
 
 **Fragepronomen kim:**
 
 | | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
 | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **kena**[[br]](केन) | **kais**[[br]](कैस्) |
-| **Femininum** | **kayā**[[br]](कया) | **kābhis**[[br]](काभिस्) |
+| **Maskulinum / Neutrum** | **kena**[[br]]केन | **kais**[[br]]कैस् |
+| **Femininum** | **kayā**[[br]]कया | **kābhis**[[br]]काभिस् |
 
 **Demonstrativpronomina:**
 
 | Pronomen | Genus | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
 | :--- | :--- | :--- | :--- |
-| **tad**[[br]](er/es/jenes) | M/N | **tena**[[br]](तेन) | **tais**[[br]](तैस्) |
-| | F | **tayā**[[br]](तया) | **tābhis**[[br]](काभिस्) |
-| **etad**[[br]](dieses hier) | M/N | **etena / enena**[[br]](एतेन / एनेन) | **etais**[[br]](एतैस्) |
-| | F | **etayā / enayā**[[br]](एतया / एनया) | **etābhis**[[br]](एताभिस्) |
-| **idam**[[br]](dieses) | M/N | **anena / enena**[[br]](अनेन / एनेन) | **ebhis**[[br]](एभिस्) |
-| | F | **anayā / enayā**[[br]](अनया / एनया) | **ābhis**[[br]](आभिस्) |
+| **tad**[[br]]"er, sie, es; der, die, das" (Erwähnte)[[br]]तद् | M/N | **tena**[[br]]तेन | **tais**[[br]]तैस् |
+| | F | **tayā**[[br]]तया | **tābhis**[[br]]ताभिस् |
+| **etad**[[br]]"dieser, diese, dieses" (dem Sprechenden sehr Nahe)[[br]]एतद् | M/N | **etena / enena**[[br]]एतेन / एनेन | **etais**[[br]]एतैस् |
+| | F | **etayā / enayā**[[br]]एतया / एनया | **etābhis**[[br]]एताभिस् |
+| **idam**[[br]]"dieser, diese, dieses" (Nahe)[[br]]इदम् | M/N | **anena / enena**[[br]]अनेन / एनेन | **ebhis**[[br]]एभिस् |
+| | F | **anayā / enayā**[[br]]अनया / एनया | **ābhis**[[br]]आभिस् |
 :::
 
 ::: deleteme-box
@@ -127,22 +127,32 @@ Er steht:
 
 ## 10.3. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
 
-Ein -n-, auf das ein Vokal oder n, m, y, v folgt, wird durch -ṇ- ersetzt, wenn ṛ, ṝ, r, ṣ im Wort dem -n- vorausgehen oder kein anderer Laut als Vokale, Gutturale, Labiale, y, v, h oder Anusvāra zwischen diesen Lauten und dem folgenden -n- im Wort steht.
+::: grammar-box
+Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** ersetzt, wenn **ṛ, ṝ, r, ṣ** im Wort dem **-n-** vorausgehen oder kein anderer Laut als Vokale, Gutturale, Labiale, **y, v, h** oder Anusvāra zwischen diesen Lauten und dem folgenden **-n-** im Wort steht.
+:::
+
+**Deshalb:**
 
 ::: grammar-box
-**Beispiele für den Instrumentalis Singular:**
-- **guru** (गुरु) → **guruṇā** (गुरुणा)
-- **śūdra** (शूद्र) → **śūdreṇa** (शूद्रेण)
-- **īśvara** (ईश्वर) → **īśvereṇa** (ईश्वरेण)
-- **kṣatriya** (क्षत्रिय) → **kṣatriyeṇa** (क्षत्रियेण)
-- **naraka** (नरक) → **narakeṇa** (नरकेण)
-
-So ist auch das **-ṇ-** zu erklären in:
-- **śravaṇa** (श्रवण)
-- **śṛṇoti** (शृणोति)
-- **kāraṇa** (कारण)
-- **brāhmaṇa** (ब्राह्मण)
+| | Instrumentalis Singular[[br]]तृतीया एकवचन |
+| :--- | :--- |
+| **guru**[[br]]गुरु | **guruṇā**[[br]]गुरुणा |
+| **śūdra**[[br]]शूद्र | **śūdreṇa**[[br]]शूद्रेण |
+| **īśvara**[[br]]ईश्वर | **īśvereṇa**[[br]]ईश्वरेण |
+| **kṣatriya**[[br]]क्षत्रिय | **kṣatriyeṇa**[[br]]क्षत्रियेण |
+| **naraka**[[br]]नरक | **narakeṇa**[[br]]नरकेण |
 :::
+
+**So ist auch das -ṇ- zu erklären in:**
+
+> **śravaṇa** श्रवण
+>
+> **śṛṇoti** शृणोति
+>
+> **kāraṇa** कारण
+>
+> **brāhmaṇa** ब्राह्मण
+
 
 ---
 
@@ -169,31 +179,40 @@ Bei Verben der 4. Präsensklasse haben das Ātmanepada und das Passiv identische
 ### 10.4.1. Sonderregeln zur Bildung des Passiv
 
 ::: grammar-box
-1. **Wurzeln auf -i oder -u** dehnen ihren Vokal:
-   - **ji** 1 P: **jīyate** (जीयते)
-   - **śru** 5 P: **śrūyate** (श्रूयते)
-   - **su** 5 U: **sūyate** (सूयate)
+1. **Wurzeln auf -i oder -u** dehnen ihren Vokal vor dem Passivsuffix **-ya-**:
+   * **ji** 1 P: **jīyate**, **jīyante**[[br]]जीयते, जीयन्ते
+   * **śru** 5 P: **śrūyate**, **śrūyante**[[br]]श्रूयते, श्रूयन्ते
+   * **su** 5 U: **sūyate**, **sūyante**[[br]]सूयते, सूयन्ते
 
 2. **Wurzeln mit -a- zwischen Konsonanten** (außer Nasalen, y, r, v) bleiben hochstufig:
-   - **labh** 1 Ā: **labhyate** (लभ्यते)
+   * **labh** 1 Ā: **labhyate**, **labhyante**[[br]]लभ्यते, लभ्यन्ते
 
 3. **Einige Wurzeln bilden ihr Passiv hochstufig** (oder in der Ablautstufe des Präsensstamms):
-   - **āp** 5 P: **āpyate** (आप्यते)
-   - **khād** 1 P: **khādyate** (खाद्यते)
-   - **smṛ** 1 P: **smaryate** (स्मर्यते)
+   * **āp** 5 P: **āpyate**, **āpyante**[[br]]आप्यते, आप्यन्ते
+   * **khād** 1 P: **khādyate**, **khādyante**[[br]]खाद्यते, खाद्यन्ते
+   * **smṛ** 1 P: **smaryate**, **smaryante**[[br]]स्मर्यते, स्मर्यन्ते
 
-4. **Samprasāraṇa (सम्प्रसारण):** Tiefstufe von Verben mit ya, va, ra:
-   - **yaj** 1 U: **ijyate** (इज्यते) (3.pl. **ijyante** = इज्यन्ते)
-   - **vad** 1 P: **udyate** (उद्यते) (3.pl. **udyante** = उद्यन्ते)
-   - **prach** 6 P: **pṛcchyate** (पृच्छ्यते) (3.pl. **pṛcchyante** = पृच्छ्यन्ते)
+4. **Tiefstufe von Verben, die mit ya, va, ra beginnen, bzw. bei denen diese Laute nach einem anderen Konsonanten stehen (Samprasāraṇa = सम्प्रसारण):**
 
-5. **Auslautendes -ṛ** nach einem Konsonanten wird zu **-ri**:
-   - **kṛ** 8 U: **kriyate** (क्रियते) (3.pl. **kriyante** = क्रियन्ते)
-   - Aber: **smṛ** 1 P: **smaryate** (स्मर्यते)
+   | Wurzel[[br]]धातु | Tiefstufe[[br]]सम्प्रसारण | Passiv[[br]]यक् |
+   | :--- | :--- | :--- |
+   | **yaj** 1 U[[br]]यज् | \*yj &raquo; ij | **ijyate**[[br]]इज्यते[[br]]**ijyante**[[br]]इज्यन्ते |
+   | **vad** 1 P[[br]]वद् | \*vd &raquo; ud | **udyate**[[br]]उद्यते[[br]]**udyante**[[br]]उद्यन्ते |
+   | **prach** 6 P[[br]]प्रच्छ् | \*prcch &raquo; pṛcch | **pṛcchyate**[[br]]पृच्छ्यते[[br]]**pṛcchyante**[[br]]पृच्छ्यन्ते |
 
-6. **Wurzeln auf -an** (z.B. **tan** 8 U) haben alternativ zwei Bildungen:
-   - **tanyate** (तन्यते)
-   - **tāyate** (तायते)
+   Die traditionelle einheimische Bezeichnung für diese Bildung der Tiefstufe bei Verben mit **ya** bzw. **va** ist **Samprasāraṇa** (नपुंसकम् = सम्प्रसारण).
+
+5. **Auslautendes -ṛ** nach einem einzigen Konsonanten wird vor dem Passivsuffix **-ya-** durch **-ri-** ersetzt:
+   * **kṛ** 8 U: **kriyate**, **kriyante**[[br]]क्रियते, क्रियन्ते
+   * Aber: **smṛ** 1 P: **smaryate**[[br]]स्मर्यते
+
+6. **Einige Wurzeln auf -an haben alternativ zwei Passivstamm-Bildungen:**
+   * eine **-an-ya**
+   * eine **-ā-ya-** (das lange **ā** ist ein Vertreter für einen hypothetischen langen Nasal)
+
+   z.B. **tan** 8 U.
+   * **tan-ya-te**, **tan-ya-nte**[[br]]तन्यते, तन्यन्ते
+   * **tā-ya-te**, **tā-ya-nte**[[br]]तायते, तायन्ते (aus \*tn-ya-nte)
 :::
 
 ---
@@ -205,10 +224,33 @@ Bei Verben der 4. Präsensklasse haben das Ātmanepada und das Passiv identische
 - **gṛha** n. गृह : Haus
 - **grāma** m. ग्राम : Dorf
 - **nagara** n. नगर : Stadt
-- **yajña** m. यज्ञ : Opfer (Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**)
+
+  ::: note-box
+  Zum Stadt- und Dorfleben siehe Basham, *Wonder*, Kap. 6.
+  :::
+
+- **yajña** m. यज्ञ : Opfer
+
+  ::: note-box
+  Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit.
+  
+  Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**.
+  :::
+
 - **puṇya** n. पुण्य : gutes Werk, Verdienst
-- **pāpa** n. पाप : Übeltat, Böses
+
+  ::: note-box
+  Wodurch man sich Wohlergehen und gute Wiedergeburten verdient.
+  :::
+
+- **pāpa** n. पाप : Übeltat, Böses (Gegensatz zu **puṇya**)
 - **satya** n. सत्य : Wahrheit
+
+::: note-box
+In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
+
+Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+:::
 
 ::: media
 ![](/images/lekt1003.jpg)
@@ -217,8 +259,19 @@ Abb.: वरुणः
 :::
 
 
-- **anṛta** n. अनृत : Unwahrheit, Lüge (an- + ṛta)
-- **ṛṣi** m. ऋषि : vedischer Weiser
+- **anṛta** n. अनृत : Unwahrheit, Lüge (Gegensatz zu **satya**)
+
+  ::: note-box
+  Wortbildung **an-** („un-“) + **ṛta** n.
+  
+  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
+  :::
+
+- **ṛṣi** m. ऋषि : vedischer Weiser, Verfasser vedischer Lieder
+
+  ::: note-box
+  Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (गोत्र) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
+  :::
 
 ::: media
 ![](/images/lekt1002.jpg)
@@ -228,8 +281,8 @@ Abb.: विश्वामित्रः
 
 
 - **vad** 1 P (vadati) वद् वदति : sagen, sprechen
-- **prach** 6 P (pṛcchati !) प्रच्छ् पृच्छति : fragen
-- **saha** सह : zusammen mit (Postposition mit Instrumentalis)
+- **prach** 6 P (pṛcchati !) प्रच्छ् पृच्छति : fragen (jemanden: Akk.; nach etwas: Akk.)
+- **saha** सह : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
 
 ---
 
@@ -237,7 +290,28 @@ Abb.: विश्वामित्रः
 
 **A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform):**
 
-1. **sṛjati** (सृजति), 2. **yudhyate** (युध्यते), 3. **bhavanti** (भवन्ति), 4. **yajati** (यजति), 5. **nṛtyati** (नृत्यति), 6. **nayanti** (नयन्ति), 7. **smarati** (स्मरति), 8. **śṛṇvanti** (शृण्वन्ति), 9. **paśyati** (पश्यति) (Passiv von **dṛś**!), 10. **jayanti** (जयन्ति), 11. **kurvate** (कुर्वते), 12. **āpnuvanti** (आप्नुवन्ति), 13. **viśati** (विशति), 14. **khādanti** (खादन्ति), 15. **sunoti** (सुनोति), 16. **gacchati** (गच्छति), 17. **manyante** (मन्यन्ते), 18. **labhante** (लभन्ते), 19. **rakṣanti** (रक्षन्ति), 20. **vadanti** (वदन्ति), 21. **pṛcchanti** (पृच्छन्ति), 22. **tanvanti** (तन्वन्ति) (2 Formen!).
+1. **sṛjati** (सृजति)
+2. **yudhyate** (युध्यते)
+3. **bhavanti** (भवन्ति)
+4. **yajati** (यजति)
+5. **nṛtyati** (नृत्यति)
+6. **nayanti** (नयन्ति)
+7. **smarati** (स्मरति)
+8. **śṛṇvanti** (शृण्वन्ति)
+9. **paśyati** (पश्यति) (Passiv wird von **dṛś** gebildet!)
+10. **jayanti** (जयन्ति)
+11. **kurvate** (कुर्वते)
+12. **āpnuvanti** (आप्नुवन्ति)
+13. **viśati** (विशति)
+14. **khādanti** (खादन्ति)
+15. **sunoti** (सुनोति)
+16. **gacchati** (गच्छति)
+17. **manyante** (मन्यन्ते)
+18. **labhante** (लभन्ते)
+19. **rakṣanti** (रक्षन्ति)
+20. **vadanti** (वदन्ति)
+21. **pṛcchanti** (पृच्छन्ति)
+22. **tanvanti** (तन्वन्ति) (2 Formen!)
 
 **B) Bilden Sie den Instrumentalis Singular und Plural zu allen bisher gelernten Nomina.**
 
