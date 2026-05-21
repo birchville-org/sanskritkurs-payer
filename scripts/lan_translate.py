@@ -8,29 +8,26 @@ import sys
 API_URL = "http://192.168.1.22:8000/v1/chat/completions"
 MODEL = "mlx-community/Qwen3.6-35B-A3B-4bit"
 LANGUAGES = ["en", "it", "es", "ru", "uk", "bg"]
+LANG_NAMES = {
+    "en": "English", "it": "Italian", "es": "Spanish",
+    "ru": "Russian", "uk": "Ukrainian", "bg": "Bulgarian",
+}
 LESSONS = list(range(1, 62))
 BASE_DIR = "/Volumes/SanDisk1TB/proj/Payer/docs"
 SOURCE_DIR = os.path.join(BASE_DIR, "lektionen")
 
 def translate_text(text, target_lang):
-    prompt = f"""You are a professional scholarly translator. Translate the following Sanskrit course material from German into {target_lang}.
-STRICT RULES:
-1. PRESERVE all Markdown syntax (headers, lists, tables).
-2. PRESERVE all VitePress containers (::: grammar-box, ::: media, ::: deleteme-box).
-3. DO NOT translate Sanskrit text in Devanagari script.
-4. DO NOT translate Sanskrit transliteration (IAST).
-5. DO NOT translate technical identifiers in YAML frontmatter (like lesson_id, status).
-6. Maintain the editorial, scholarly tone of the 'Scholarly Synthesis' design system.
-
-German Source:
-{text}
-"""
-    
+    lang_name = LANG_NAMES.get(target_lang, target_lang)
+    system = (
+        f"You are a scholarly translator. Translate German Sanskrit-education markdown to {lang_name}. "
+        "Rules: preserve all Markdown syntax, VitePress containers (:::), Devanāgarī script, IAST transliterations, "
+        "and YAML frontmatter keys unchanged. Keep the editorial scholarly tone."
+    )
     data = {
         "model": MODEL,
         "messages": [
-            {"role": "system", "content": f"You are a professional translator specializing in scholarly Sanskrit education materials. You translate from German to {target_lang}."},
-            {"role": "user", "content": prompt}
+            {"role": "system", "content": system},
+            {"role": "user", "content": text}
         ],
         "temperature": 0.3,
         "max_tokens": 4096
