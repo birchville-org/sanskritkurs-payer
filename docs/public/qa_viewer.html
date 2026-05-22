@@ -61,7 +61,7 @@
             border-bottom: 1px solid rgba(255, 255, 255, 0.1);
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
         }
-        
+
         .controls-group {
             display: flex;
             align-items: center;
@@ -339,10 +339,10 @@
         }
     </style>
 </head>
-<body class="light"> <!-- Default class, will be synced -->
+<body class="light">
     <div class="header">
         <div class="controls-group group-left">
-            <a href="/" class="home-link" title="Home">🏛️</a>
+            <a href="/" class="home-link" title="Home">&#127963;&#65039;</a>
             <select id="left-lang" onchange="updateFrames()">
                 <option value="qa/lektion01.html" selected>Original HTML</option>
                 <option value="lektionen/lektion01">Deutsch (DE)</option>
@@ -412,234 +412,159 @@
         const container = document.getElementById('main-container');
         const dragBar = document.getElementById('drag-bar');
 
-        let masterSource = null;
         let syncMode = 'header';
         let viewMode = 'rendered';
         let isSyncing = false;
+        let lastSyncedHeader = null;
 
-        // --- Theme Toggle Logic ---
+        // --- Theme ---
         function toggleTheme() {
             const isDark = document.documentElement.classList.toggle('dark');
             localStorage.setItem('vitepress-theme-appearance', isDark ? 'dark' : 'light');
             syncThemeToFrames();
         }
-
         function syncThemeToFrames() {
             const isDark = document.documentElement.classList.contains('dark');
             const msg = { type: 'setTheme', theme: isDark ? 'dark' : 'light' };
-            
-            // Only sync theme if it's NOT an original Payer page (they should stay light)
             const lSrc = leftFrame.src.toLowerCase();
             const rSrc = rightFrame.src.toLowerCase();
-
-            if (leftFrame.contentWindow && !lSrc.includes('/qa/')) {
-                leftFrame.contentWindow.postMessage(msg, '*');
-            }
-            if (rightFrame.contentWindow && !rSrc.includes('/qa/')) {
-                rightFrame.contentWindow.postMessage(msg, '*');
-            }
+            if (leftFrame.contentWindow && !lSrc.includes('/qa/')) leftFrame.contentWindow.postMessage(msg, '*');
+            if (rightFrame.contentWindow && !rSrc.includes('/qa/')) rightFrame.contentWindow.postMessage(msg, '*');
         }
-
-        // Initialize theme from VitePress storage
         const savedTheme = localStorage.getItem('vitepress-theme-appearance') || 'light';
-        if (savedTheme === 'dark') {
-            document.documentElement.classList.add('dark');
-        }
+        if (savedTheme === 'dark') document.documentElement.classList.add('dark');
 
         // --- Lesson Auto-Detection ---
         function detectInitialLesson() {
             const params = new URLSearchParams(window.location.search);
-            const urlLesson = params.get('lesson');
-            if (urlLesson) return urlLesson;
-
+            if (params.get('lesson')) return params.get('lesson');
             const ref = document.referrer;
-            if (ref) {
-                const match = ref.match(/lektion(\d+)/);
-                if (match) return match[1];
-            }
-
-            // Fallback: localStorage sync vom Main-Theme
-            try {
-                const stored = localStorage.getItem('payer_last_lesson');
-                if (stored) return stored;
-            } catch (e) {}
-
+            if (ref) { const m = ref.match(/lektion(\d+)/); if (m) return m[1]; }
+            try { const s = localStorage.getItem('payer_last_lesson'); if (s) return s; } catch(e) {}
             return null;
         }
-
         const initialLesson = detectInitialLesson();
-        if (initialLesson) {
-            console.log("QA Viewer: Initial Lesson detected:", initialLesson);
-            lessonInput.value = initialLesson;
-        } else {
-            console.log("QA Viewer: No initial lesson detected, defaulting to 1.");
-        }
+        if (initialLesson) lessonInput.value = initialLesson;
 
-        // --- Mouse Tracking ---
-        document.getElementById('left-pane').onmouseenter = () => { masterSource = 'left'; };
-        document.getElementById('right-pane').onmouseenter = () => { masterSource = 'right'; };
-
-        // --- Sync Mode Control ---
+        // --- Sync Mode ---
         function setSyncMode(mode) {
             syncMode = mode;
-            document.querySelectorAll('#sync-controls .control-btn').forEach(btn => btn.classList.remove('active'));
+            document.querySelectorAll('#sync-controls .control-btn').forEach(b => b.classList.remove('active'));
             document.getElementById('btn-' + mode).classList.add('active');
         }
 
-        // --- View Mode Control ---
+        // --- View Mode ---
         function setViewMode(mode) {
             viewMode = mode;
-            document.querySelectorAll('#view-controls .control-btn').forEach(btn => btn.classList.remove('active'));
+            document.querySelectorAll('#view-controls .control-btn').forEach(b => b.classList.remove('active'));
             document.getElementById('btn-' + mode).classList.add('active');
             updateFrames();
         }
 
-        // --- Header Sync Logic ---
+        // --- Header matching utilities ---
+
+        // Strip leading section number: "41.2.1. Foo" -> "Foo", "2. Foo" -> "Foo"
+        function stripPrefix(text) {
+            return text.replace(/^\d+(\.\d+)*\.?\s*/, '').trim();
+        }
+
+        // Extract number parts as array: "41.2.1. Foo" -> [41, 2, 1]
+        function numParts(text) {
+            const m = text.trim().match(/^(\d+(?:\.\d+)*)\.?\s/);
+            if (!m) return [];
+            return m[1].split('.').map(Number);
+        }
+
+        // True if `short` is a trailing suffix of `long`: [2,1] is suffix of [41,2,1]
+        function isSuffix(short, long) {
+            if (!short.length || short.length > long.length) return false;
+            const off = long.length - short.length;
+            return short.every((v, i) => v === long[off + i]);
+        }
+
+        // Normalize for fuzzy text comparison
+        function norm(text) {
+            const MAP = {a:'ā',i:'ī',u:'ū',r:'ṛ',r:'ṝ',l:'ḷ',n:'ṅ',n:'ñ',t:'ṭ',d:'ḍ',n:'ṇ',s:'ś',s:'ṣ',h:'ḥ'};
+            return text.toLowerCase()
+                .replace(/[āīūṛṝḷṅñṭḍṇśṣḥ]/g,
+                    c => ({ 'ā':'a','ī':'i','ū':'u','ṛ':'r','ṝ':'r','ḷ':'l','ṅ':'n','ñ':'n','ṭ':'t','ḍ':'d','ṇ':'n','ś':'s','ṣ':'s','ḥ':'h' }[c] || c))
+                .replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+        }
+
+        // --- scrollToMatch: find best h1-h6 in right frame for given source heading text ---
         function scrollToMatch(targetWin, searchText) {
             if (!searchText || isSyncing || viewMode === 'raw') return;
             isSyncing = true;
-
             try {
                 const doc = targetWin.document;
-                
-                const isValidHeader = (el) => {
-                    if (!el) return false;
-                    if (el.tagName && el.tagName.startsWith('H')) return true;
-                    if (el.tagName === 'P' && el.parentElement && el.parentElement.classList.contains('media')) return true;
-                    if (el.tagName === 'P' && el.innerText.trim().startsWith('Abb.:')) return true;
-                    
-                    const t = el.innerText ? el.innerText.replace(/[\u200B\uFEFF]/g, '').trim() : '';
-                    if (/^\d+(\.\d+)*\.?/.test(t)) return true; // Matches "5.", "6.5.", "41.2.1.", "0.1" etc.
-                    if (/(Wortliste|Übung)/i.test(t)) return true;
-                    return false;
-                };
+                const headers = Array.from(doc.querySelectorAll('h1, h2, h3, h4, h5, h6'));
+                if (!headers.length) return;
 
-                // Inclusive selector but filtered!
-                const allElements = Array.from(doc.querySelectorAll('h1, h2, h3, h4, h5, h6, b, strong, .custom-block.media p, p'));
-                const headers = allElements.filter(isValidHeader);
+                const sNums = numParts(searchText);
+                const sStripped = norm(stripPrefix(searchText));
 
-                const normalize = (t) => {
-                    const cleanT = t.toLowerCase()
-                        .replace(/[āīūṛṝḷṅñṭḍṇśṣḥ]/g, m => ({'ā':'a','ī':'i','ū':'u','ṛ':'r','ṝ':'r','ḷ':'l','ṅ':'n','ñ':'n','ṭ':'t','ḍ':'d','ṇ':'n','ś':'s','ṣ':'s','ḥ':'h'}[m] || m))
-                        .replace(/[^\p{L}\d.]/gu, ' ')
-                        .trim();
-                    return cleanT;
-                };
-
-                const searchNorm = normalize(searchText);
-                
-                // Helper to extract the local number (last part of the prefix)
-                const extractLocalNum = (t) => {
-                    const match = t.trim().match(/^(\d+(\.\d+)*)\.?/);
-                    if (!match) return null;
-                    const parts = match[1].split('.').filter(Boolean);
-                    return parts[parts.length - 1]; 
-                };
-
-                const targetLocalNum = extractLocalNum(searchText);
-                let bestMatch = null;
-                let bestScore = -1;
-
-                console.log(`Sync Start. Target: "${searchText}" (LocalNum: ${targetLocalNum}, Norm: "${searchNorm}")`);
+                let best = null, bestScore = -Infinity;
 
                 for (const h of headers) {
                     const hText = h.innerText.trim();
                     if (!hText) continue;
-                    
-                    const hNorm = normalize(hText);
-                    const hNum = extractLocalNum(hText);
-                    
-                    let currentScore = 0;
+                    const hNums = numParts(hText);
+                    const hStripped = norm(stripPrefix(hText));
+                    let score = 0;
 
-                    // 1. Strict Number Match at Start of Line (Highest Priority)
-                    if (targetLocalNum && hNum === targetLocalNum) {
-                        currentScore += 1000; 
-                    } else if (targetLocalNum && hNum) {
-                        currentScore -= 200; 
-                    }
-                    
-                    // 2. Semantic Text Match
-                    if (searchNorm && hNorm) {
-                        if (hNorm === searchNorm) {
-                            currentScore += 500;
-                        } else if (hNorm.includes(searchNorm) || searchNorm.includes(hNorm)) {
-                            currentScore += 100;
-                        }
+                    // Text match after stripping number prefix
+                    if (sStripped && hStripped) {
+                        if (hStripped === sStripped)                                              score += 100;
+                        else if (hStripped.startsWith(sStripped) || sStripped.startsWith(hStripped)) score += 60;
+                        else if (hStripped.includes(sStripped) || sStripped.includes(hStripped))     score += 30;
                     }
 
-                    // 3. Tag Hierarchy Bonus
-                    if (h.tagName.startsWith('H')) {
-                        currentScore += 50;
+                    // Number-suffix match (bridges "2.1." vs "41.2.1." difference)
+                    if (sNums.length && hNums.length) {
+                        if (isSuffix(sNums, hNums) || isSuffix(hNums, sNums)) score += 80;
+                        // Penalise if last digits differ
+                        if (sNums[sNums.length - 1] !== hNums[hNums.length - 1]) score -= 40;
                     }
 
-                    if (currentScore > 100) {
-                        // console.debug(`  Candidate: "${hText}" (hNum: ${hNum}, hNorm: "${hNorm}", Score: ${currentScore})`);
-                    }
-
-                    if (currentScore > bestScore) {
-                        bestScore = currentScore;
-                        bestMatch = h;
-                    }
+                    if (score > bestScore) { bestScore = score; best = h; }
                 }
 
-                if (bestMatch && bestScore > 100) {
-                    console.log(`Sync Result: "${searchText}" -> "${bestMatch.innerText.trim()}" (Score: ${bestScore})`);
-                    const rect = bestMatch.getBoundingClientRect();
-                    if (Math.abs(rect.top) < 10) { 
-                        isSyncing = false;
-                        return;
-                    }
-                    bestMatch.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                if (best && bestScore >= 30) {
+                    const rect = best.getBoundingClientRect();
+                    if (Math.abs(rect.top) < 20) return; // already at top
+                    console.log('[QA] "' + searchText + '" -> "' + best.innerText.trim() + '" (score ' + bestScore + ')');
+                    best.scrollIntoView({ behavior: 'smooth', block: 'start' });
                 } else {
-                    console.warn(`Sync Failed. No match for "${searchText}" above threshold.`);
+                    console.warn('[QA] No match for "' + searchText + '" (best ' + bestScore + ')');
                 }
-            } catch (e) {
-                console.error("Sync error", e);
+            } catch(e) {
+                console.error('[QA] scrollToMatch error', e);
             } finally {
-                setTimeout(() => { isSyncing = false; }, 800);
+                setTimeout(() => { isSyncing = false; }, 700);
             }
         }
 
-        let lastSyncedHeader = null;
-
-        // --- PostMessage Listener ---
+        // --- PostMessage handler: Phase 1 – only LEFT controls RIGHT ---
         window.addEventListener('message', (e) => {
-            if (e.data.type === 'getTheme') {
-                syncThemeToFrames();
-                return;
-            }
+            if (e.data.type === 'getTheme') { syncThemeToFrames(); return; }
             if (syncMode === 'off' || viewMode === 'raw') return;
+            if (e.source !== leftFrame.contentWindow) return; // ignore right frame
 
-            // Allow child to claim mastery on interaction
-            if (e.data.type === 'claimMaster') {
-                masterSource = e.data.id || ((e.source === leftFrame.contentWindow) ? 'left' : 'right');
-                return;
-            }
-
-            if (e.data.type === 'scroll' || e.data.type === 'clickSync') {
-                const sender = e.data.id || ((e.source === leftFrame.contentWindow) ? 'left' : (e.source === rightFrame.contentWindow ? 'right' : null));
-                if (!sender || isSyncing) return;
-
-                if (sender === masterSource || e.data.type === 'clickSync') {
-                    const target = (sender === 'left') ? rightFrame : leftFrame;
-
-                    // End of page detection: if sender is at bottom, force target to bottom
-                    if (e.data.atBottom) {
-                        target.contentWindow.scrollTo({ 
-                            top: target.contentWindow.document.documentElement.scrollHeight, 
-                            behavior: 'smooth' 
-                        });
-                        return;
-                    }
-
-                    if (syncMode === 'pct' && e.data.pct !== undefined) {
-                        target.contentWindow.postMessage({ type: 'setScroll', pct: e.data.pct }, '*');
-                    } else if (e.data.activeHeader) {
-                        // Prevent jumping to the same header repeatedly
-                        if (e.data.activeHeader === lastSyncedHeader && e.data.type !== 'clickSync') return;
-                        lastSyncedHeader = e.data.activeHeader;
-                        scrollToMatch(target.contentWindow, e.data.activeHeader);
-                    }
+            if (e.data.type === 'scroll') {
+                if (isSyncing) return;
+                if (e.data.atBottom) {
+                    try {
+                        const rw = rightFrame.contentWindow;
+                        rw.scrollTo({ top: rw.document.documentElement.scrollHeight, behavior: 'smooth' });
+                    } catch(_) {}
+                    return;
+                }
+                if (syncMode === 'pct' && e.data.pct !== undefined) {
+                    try { rightFrame.contentWindow.postMessage({ type: 'setScroll', pct: e.data.pct }, '*'); } catch(_) {}
+                } else if (syncMode === 'header' && e.data.activeHeader) {
+                    if (e.data.activeHeader === lastSyncedHeader) return;
+                    lastSyncedHeader = e.data.activeHeader;
+                    scrollToMatch(rightFrame.contentWindow, e.data.activeHeader);
                 }
             }
         });
@@ -658,231 +583,154 @@
 
         async function fetchRaw(url, targetPre, targetIframe) {
             let fetchUrl = url;
-
-            if (url.includes('lektionen') && !url.includes('qa/') && !url.endsWith('.md') && !url.endsWith('.html')) {
-                fetchUrl = url + '.md';
-            }
-
+            if (url.includes('lektionen') && !url.includes('qa/') && !url.endsWith('.md') && !url.endsWith('.html')) fetchUrl += '.md';
             try {
-                const response = await fetch(fetchUrl);
-                if (response.ok) {
-                    const text = await response.text();
-                    targetPre.value = text;
-                    targetPre.style.display = 'block';
-                    targetIframe.style.display = 'none';
-                } else {
-                    throw new Error('Not found');
-                }
-            } catch (e) {
-                targetPre.value = "Raw source not available for: " + fetchUrl;
+                const r = await fetch(fetchUrl);
+                if (!r.ok) throw new Error();
+                targetPre.value = await r.text();
+                targetPre.style.display = 'block';
+                targetIframe.style.display = 'none';
+            } catch(_) {
+                targetPre.value = 'Raw source not available for: ' + fetchUrl;
                 targetPre.style.display = 'block';
                 targetIframe.style.display = 'none';
             }
         }
 
         function updateFrames() {
+            lastSyncedHeader = null;
             const num = lessonInput.value.padStart(2, '0');
             const leftVal = document.getElementById('left-lang').value;
             const rightVal = document.getElementById('right-lang').value;
-
             let lUrl = leftVal.includes('lektion') ? baseUrl + leftVal.replace(/lektion\d+/, 'lektion' + num) : baseUrl + leftVal;
             let rUrl = rightVal.includes('lektion') ? baseUrl + rightVal.replace(/lektion\d+/, 'lektion' + num) : baseUrl + rightVal;
-
             if (rUrl.includes('wortliste')) lUrl = noEquivalentMsg;
-
-            // Update Pane classes for CSS targeting
             document.getElementById('left-pane').classList.toggle('is-original', lUrl.toLowerCase().includes('/qa/'));
             document.getElementById('right-pane').classList.toggle('is-original', rUrl.toLowerCase().includes('/qa/'));
-
             if (viewMode === 'raw') {
                 fetchRaw(lUrl, leftRaw, leftFrame);
                 fetchRaw(rUrl, rightRaw, rightFrame);
             } else {
-                leftRaw.style.display = 'none';
-                rightRaw.style.display = 'none';
-                leftFrame.style.display = 'block';
-                rightFrame.style.display = 'block'; 
-
-                // Use location.replace to avoid polluting browser history
-                if (!leftFrame.src || !leftFrame.src.includes(lUrl)) {
-                    leftFrame.contentWindow.location.replace(lUrl);
-                }
-                if (!rightFrame.src || !rightFrame.src.includes(rUrl)) {
-                    rightFrame.contentWindow.location.replace(rUrl);
-                }
+                leftRaw.style.display = 'none'; rightRaw.style.display = 'none';
+                leftFrame.style.display = 'block'; rightFrame.style.display = 'block';
+                if (!leftFrame.src || !leftFrame.src.includes(lUrl)) leftFrame.contentWindow.location.replace(lUrl);
+                if (!rightFrame.src || !rightFrame.src.includes(rUrl)) rightFrame.contentWindow.location.replace(rUrl);
             }
-            
-            // Re-sync theme after frame change
             setTimeout(syncThemeToFrames, 300);
         }
 
-        function injectSync(frame) {
+        // --- injectSender: LEFT frame only – detects active heading, reports upward ---
+        // Active heading = last h1-h6 (or numbered b/strong for Payer originals)
+        // whose absolute top <= scrollY + THRESHOLD.
+        function injectSender(frame) {
             try {
                 const win = frame.contentWindow;
                 const doc = win.document;
-                if (!doc || !doc.body) return;
-
-                // Check if already injected and healthy
-                if (win.__PRO_SYNC_ACTIVE__) {
-                    // Periodic theme sync reinforcement
-                    const isDark = document.documentElement.classList.contains('dark');
-                    win.postMessage({ type: 'setTheme', theme: isDark ? 'dark' : 'light' }, '*');
-                    return;
-                }
-
-                const frameId = (frame === leftFrame) ? 'left' : 'right';
-                const script = doc.createElement('script');
-                script.id = 'pro-sync-script';
-                script.textContent = `
-                    (function() {
-                        const frameId = "${frameId}";
-                        window.__PRO_SYNC_ACTIVE__ = true;
-                        document.documentElement.classList.add('is-embedded');
-                        
-                        // Heartbeat/Theme Request
-                        window.parent.postMessage({ type: 'getTheme' }, '*');
-
-                        let isRemoteScroll = false;
-                        let lastHeader = null;
-                        let debounceTimer = null;
-                        const scroller = document.documentElement;
-
-                        const claimMaster = () => window.parent.postMessage({ type: 'claimMaster', id: frameId }, '*');
-                        window.addEventListener('wheel', claimMaster, { passive: true });
-                        window.addEventListener('mousedown', claimMaster, { passive: true });
-                        window.addEventListener('touchstart', claimMaster, { passive: true });
-
-                        const isValidHeader = (el) => {
-                            if (!el) return false;
-                            if (el.tagName && el.tagName.startsWith('H')) return true;
-                            if (el.tagName === 'P' && el.parentElement && el.parentElement.classList.contains('media')) return true;
-                            if (el.tagName === 'P' && el.innerText.trim().startsWith('Abb.:')) return true;
-                            
-                            const t = el.innerText ? el.innerText.replace(/[\u200B\uFEFF]/g, '').trim() : '';
-                            if (/^\d+(\.\d+)*\.?/.test(t)) return true;
-                            if (/(Wortliste|Übung)/i.test(t)) return true;
-                            return false;
-                        };
-
-                        const sendSync = (type, header) => {
+                if (!doc || !doc.body || win.__QA_SENDER__) return;
+                // Flag is set by the injected script itself, not here
+                const s = doc.createElement('script');
+                s.textContent = `(function(){
+                    if (window.__QA_SENDER__) return;
+                    window.__QA_SENDER__ = true;
+                    window.parent.postMessage({ type: 'getTheme' }, '*');
+                    const THRESHOLD = 70;
+                    let debounce = null, lastHeader = null;
+                    function getHeaders() {
+                        const h = Array.from(document.querySelectorAll('h1,h2,h3,h4,h5,h6'));
+                        if (h.length >= 2) return h;
+                        return Array.from(document.querySelectorAll('b,strong')).filter(el =>
+                            /^\\d+(\\.\\d+)*\\.?\\s+\\S/.test((el.innerText||'').trim())
+                        );
+                    }
+                    window.addEventListener('scroll', () => {
+                        clearTimeout(debounce);
+                        debounce = setTimeout(() => {
+                            const headers = getHeaders();
+                            let active = null;
+                            for (const h of headers) {
+                                const absTop = window.scrollY + h.getBoundingClientRect().top;
+                                if (absTop <= window.scrollY + THRESHOLD) active = h.innerText.trim();
+                                else break;
+                            }
+                            if (!active && headers.length) active = headers[0].innerText.trim();
+                            if (!active || active === lastHeader) return;
+                            lastHeader = active;
+                            const scrollH = document.documentElement.scrollHeight;
+                            const atBottom = (window.innerHeight + window.scrollY) >= (scrollH - 60);
                             window.parent.postMessage({
-                                type: type,
-                                id: frameId,
-                                pct: window.scrollY / (scroller.scrollHeight - window.innerHeight),
-                                activeHeader: header
-                             }, '*');
-                        };
-
-                        window.addEventListener('scroll', () => {
-                            if (isRemoteScroll) {
-                                isRemoteScroll = false;
-                                return;
-                            }
-                            
-                            clearTimeout(debounceTimer);
-                            debounceTimer = setTimeout(() => {
-                                const isAtBottom = (window.innerHeight + window.scrollY) >= (scroller.scrollHeight - 60);
-
-                                const allElements = Array.from(document.querySelectorAll('h1, h2, h3, h4, h5, h6, b, strong, .custom-block.media p, p'));
-                                const headers = allElements.filter(isValidHeader);
-                                let activeHeader = null;
-                                const syncLine = window.scrollY + 80;
-                                let minDiff = Infinity;
-
-                                for (const h of headers) {
-                                    const rect = h.getBoundingClientRect();
-                                    const absTop = window.scrollY + rect.top;
-                                    const diff = Math.abs(absTop - syncLine);
-                                    if (diff < minDiff) {
-                                        minDiff = diff;
-                                        activeHeader = h.innerText.trim();
-                                    }
-                                    if (absTop > syncLine + 300) break;
-                                }
-
-                                window.parent.postMessage({
-                                    type: 'scroll',
-                                    id: frameId,
-                                    pct: window.scrollY / (scroller.scrollHeight - window.innerHeight),
-                                    activeHeader: activeHeader,
-                                    atBottom: isAtBottom
-                                 }, '*');
-
-                                if (activeHeader) lastHeader = activeHeader;
-                            }, 250); 
-                        }, { passive: true });
-
-                        document.addEventListener('click', (e) => {
-                            const h = e.target.closest('h1, h2, h3, h4, h5, h6, b, strong, p');
-                            if (h && isValidHeader(h)) {
-                                sendSync('clickSync', h.innerText.trim());
-                            }
-                        });
-
-                        window.addEventListener('message', (e) => {
-                            if (e.data.type === 'setScroll') {
-                                isRemoteScroll = true;
-                                const targetTop = e.data.pct * (scroller.scrollHeight - window.innerHeight);
-                                window.scrollTo({ top: targetTop, behavior: 'auto' });
-                            } else if (e.data.type === 'setTheme') {
-                                if (window.location.pathname.toLowerCase().includes('/qa/')) return;
-                                if (e.data.theme === 'dark') {
-                                    document.documentElement.classList.add('dark');
-                                } else {
-                                    document.documentElement.classList.remove('dark');
-                                }
-                            }
-                        });
-
-                        // Re-trigger sync on internal navigation (VitePress/Vue Router)
-                        let lastPath = window.location.pathname;
-                        setInterval(() => {
-                            if (window.location.pathname !== lastPath) {
-                                lastPath = window.location.pathname;
-                                lastHeader = null; // Force re-sync
-                                sendSync('scroll', null);
-                            }
-                        }, 500);
-                    })();
-                `;
-                // Append to head for better persistence across body re-renders
-                (doc.head || doc.body).appendChild(script);
+                                type: 'scroll',
+                                pct: window.scrollY / Math.max(1, scrollH - window.innerHeight),
+                                activeHeader: active,
+                                atBottom: atBottom
+                            }, '*');
+                        }, 200);
+                    }, { passive: true });
+                    window.addEventListener('message', (e) => {
+                        if (e.data.type === 'setTheme') {
+                            if (window.location.pathname.toLowerCase().includes('/qa/')) return;
+                            document.documentElement.classList.toggle('dark', e.data.theme === 'dark');
+                        }
+                    });
+                })();`;
+                (doc.head || doc.body).appendChild(s);
                 syncThemeToFrames();
-            } catch (e) { }
+            } catch(_) {}
         }
 
-        leftFrame.onload = () => { injectSync(leftFrame); };
-        rightFrame.onload = () => { injectSync(rightFrame); };
+        // --- injectReceiver: RIGHT frame only – receives scroll/theme commands ---
+        function injectReceiver(frame) {
+            try {
+                const win = frame.contentWindow;
+                const doc = win.document;
+                if (!doc || !doc.body || win.__QA_RECEIVER__) return;
+                // Flag is set by the injected script itself, not here
+                const s = doc.createElement('script');
+                s.textContent = `(function(){
+                    if (window.__QA_RECEIVER__) return;
+                    window.__QA_RECEIVER__ = true;
+                    window.parent.postMessage({ type: 'getTheme' }, '*');
+                    window.addEventListener('message', (e) => {
+                        if (e.data.type === 'setScroll') {
+                            const scrollH = document.documentElement.scrollHeight;
+                            window.scrollTo({ top: e.data.pct * Math.max(0, scrollH - window.innerHeight), behavior: 'auto' });
+                        } else if (e.data.type === 'setTheme') {
+                            if (window.location.pathname.toLowerCase().includes('/qa/')) return;
+                            document.documentElement.classList.toggle('dark', e.data.theme === 'dark');
+                        }
+                    });
+                })();`;
+                (doc.head || doc.body).appendChild(s);
+                syncThemeToFrames();
+            } catch(_) {}
+        }
 
-        // Increased frequency to catch back-button or router navigation quickly
+        leftFrame.onload = () => { lastSyncedHeader = null; injectSender(leftFrame); };
+        rightFrame.onload = () => { injectReceiver(rightFrame); };
+
         setInterval(() => {
             if (viewMode === 'rendered') {
-                injectSync(leftFrame);
-                injectSync(rightFrame);
+                injectSender(leftFrame);
+                injectReceiver(rightFrame);
             }
         }, 2000);
 
         function updateLesson() { updateFrames(); }
 
-        let lastPathRight = "";
+        let lastPathRight = '';
         setInterval(() => {
             try {
-                const currentPath = rightFrame.contentWindow.location.pathname;
-                if (currentPath && currentPath !== lastPathRight && currentPath !== "about:blank") {
-                    lastPathRight = currentPath;
-                    const match = currentPath.match(/lektion(\d+)/);
-                    if (match) {
-                        const num = parseInt(match[1]);
-                        if (lessonInput.value != num) {
-                            lessonInput.value = num;
-                            updateFrames();
-                        }
+                const p = rightFrame.contentWindow.location.pathname;
+                if (p && p !== lastPathRight && p !== 'about:blank') {
+                    lastPathRight = p;
+                    const m = p.match(/lektion(\d+)/);
+                    if (m && lessonInput.value != parseInt(m[1])) {
+                        lessonInput.value = parseInt(m[1]);
+                        updateFrames();
                     }
                 }
-            } catch (e) { }
+            } catch(_) {}
         }, 1000);
 
-        // Explicit initial call
         updateFrames();
     </script>
 </body>
