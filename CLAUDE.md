@@ -8,6 +8,7 @@
 - **Build Gate**: Every session ends with `npm run docs:build`. A task is only done if the build passes.
 - **Zero-HTML**: No raw HTML in Markdown. Use `scripts/purge_html.py` to sanitize.
 - **German is immutable**: Files in `docs/lektionen/` are the reference. Never modify them via automation.
+- **Devanāgarī is always red**: The CSS renders all `.sanskrit-dev` spans in `#ff0000`. This applies everywhere — inside tables, grammar-boxes, plain text. Never add a CSS rule that overrides Devanāgarī color to `inherit` or any non-red value.
 - **No Parentheses for Devanāgarī in tables**: Write `**dveṣṭi**[[br]]द्वेष्टि`, not `**dveṣṭi**[[br]](द्वेष्टि)`.
 - **Single-line image captions**: `Abb.: ऊहापोहः` — pure Devanāgarī, no line breaks.
 - **Table rows = single markdown line**: Use `[[br]]` for in-cell line breaks. Never split a row across lines.

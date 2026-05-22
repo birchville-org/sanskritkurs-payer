@@ -216,18 +216,7 @@ html {
   font-size: 1.35em !important;
 }
 
-/* Paradigm tables inside grammar-boxes: plain verb forms use primary text color, not scholastic red */
-.vp-doc .custom-block.grammar-box table td .sanskrit-dev,
-.vp-doc .custom-block.grammar-box table th .sanskrit-dev {
-  color: inherit !important;
-}
-/* Restore signalrot for forms explicitly marked ***...*** (strong em) */
-.vp-doc .custom-block.grammar-box table td strong em .sanskrit-dev,
-.vp-doc .custom-block.grammar-box table td em strong .sanskrit-dev,
-.vp-doc .custom-block.grammar-box table th strong em .sanskrit-dev,
-.vp-doc .custom-block.grammar-box table th em strong .sanskrit-dev {
-  color: #ff0000 !important;
-}
+/* Devanagari in grammar-box tables: same red as everywhere else */
 
 
 /* Custom Blocks (Grammar, Media, etc.) */
