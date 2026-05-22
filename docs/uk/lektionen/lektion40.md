@@ -4,165 +4,188 @@
 
 ## 40.1. सुभाषितानि
 
-> विद्या ददाति विनयं  
-> विनयाद्याति पात्रताम् ।  
-> पात्रत्वाद्धनमाप्नोति  
-> धनाद्धर्मं ततः सुखम् ॥१॥
-> <!-- TODO: Fallback translation -->
-> सुखार्थी चेत्त्यजेद्विद्यां  
-> विद्यार्थी चेत्त्यजेत्सुखम् ।  
-> सुखार्थिनः कुतो विद्या  
-> कुतो विद्यार्थिनः सुखम् ॥२॥
-> <!-- TODO: Fallback translation -->
-> आचार्यात्पादमादत्ते  
-> पादं शिष्यः स्वमेधया ।  
-> पादं सब्रह्मचारिभ्यःयः  
-> पादं कालक्रमेण च ॥३॥
+::: indent
+विद्या ददाति विनयं  
+विनयाद्याति पात्रताम् ।  
+पात्रत्वाद्धनमाप्नोति  
+धनाद्धर्मं ततः सुखम् ॥१॥
+
+सुखार्थी चेत्त्यजेद्विद्यां  
+विद्यार्थी चेत्त्यजेत्सुखम् ।  
+सुखार्थिनः कुतो विद्या  
+कुतो विद्यार्थिनः सुखम् ॥२॥
+
+आचार्यात्पादमादत्ते  
+पादं शिष्यः स्वमेधया ।  
+पादं सब्रह्मचारिभ्यः  
+पादं कालक्रमेण च ॥३॥
+:::
 
 ::: media
 ![lekt4005.jpg](/images/lekt4005.jpg)
 Abb.: पादं सब्रह्मचारिभ्यः
-(Bildquelle: [Details](/licenses#lekt4005)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4005)) &lt;!-- TODO: Fallback translation --&gt;
 :::
 
 ## 40.2. Утворення der Verbformen der ersten Person Perfekt (लिट्)
 
-Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
+Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) &lt;!-- TODO: Fallback translation --&gt;
 
 :::: grammar-box
 
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-| :--- | :--- | :--- | :--- |
-| **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
+| **परस्मैपदम्** | ← | **आत्मनेपदम्** | ← |
+| :---: | :---: | :---: | :---: |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **-a** | **-ma** | **-e** | **-mahe** |
 
 ::::
 
-Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
+::: grammar-box
+Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. &lt;!-- TODO: Fallback translation --&gt;
 
-Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
+Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. &lt;!-- TODO: Fallback translation --&gt;
 
-Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
+Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. &lt;!-- TODO: Fallback translation --&gt;
 
-Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
+Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. <!-- TODO: Fallback translation -->
+::: grammar-box
+Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. &lt;!-- TODO: Fallback translation --&gt;
 
-Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich <!-- TODO: Fallback translation -->
+Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich &lt;!-- TODO: Fallback translation --&gt;
 
-1.  कृ 8U (außer संस्कृ) <!-- TODO: Fallback translation -->
-2.  भृ 1U <!-- TODO: Fallback translation -->
-3.  वृ 9U "wählen" <!-- TODO: Fallback translation -->
-4.  सृ 1P <!-- TODO: Fallback translation -->
-5.  द्रु 1p "rennen" <!-- TODO: Fallback translation -->
-6.  श्रु 5P <!-- TODO: Fallback translation -->
-7.  स्तु 2U <!-- TODO: Fallback translation -->
-8.  स्रु 1P "fließen" <!-- TODO: Fallback translation -->
+1.  कृ 8U (außer संस्कृ) &lt;!-- TODO: Fallback translation --&gt;
+2.  भृ 1U &lt;!-- TODO: Fallback translation --&gt;
+3.  वृ 9U "wählen" &lt;!-- TODO: Fallback translation --&gt;
+4.  सृ 1P &lt;!-- TODO: Fallback translation --&gt;
+5.  द्रु 1p "rennen" &lt;!-- TODO: Fallback translation --&gt;
+6.  श्रु 5P &lt;!-- TODO: Fallback translation --&gt;
+7.  स्तु 2U &lt;!-- TODO: Fallback translation --&gt;
+8.  स्रु 1P "fließen" &lt;!-- TODO: Fallback translation --&gt;
 
-Bei sog. fakultativen अनिट्-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3) <!-- TODO: Fallback translation -->
+Bei sog. fakultativen अनिट्-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3) &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ### 40.2.1. Perfekt Typ I: keine Основаabstufung
 
-Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
+Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) &lt;!-- TODO: Fallback translation --&gt;
 
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+| **परस्मैपदम्** | ← | **आत्मनेपदम्** | ← |
 
-*   | :--- | :--- | :--- | :--- |
-*   | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
+*   | :---: | :---: | :---: | :---: |
+*   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 *   | **-a** | **-ma** | **-e** | **-mahe** |
-*   Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
+*   Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. &lt;!-- TODO: Fallback translation --&gt;
 
-Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
+Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
-*   Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
+::: indent
+*   Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. &lt;!-- TODO: Fallback translation --&gt;
+*   Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. <!-- TODO: Fallback translation -->
+Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich <!-- TODO: Fallback translation -->
-
-*   कृ 8U (außer संस्कृ) <!-- TODO: Fallback translation -->
+::: indent
+*   Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich &lt;!-- TODO: Fallback translation --&gt;
+*   कृ 8U (außer संस्कृ) &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 अश् 5Ā
 
-*   वृ 9U "wählen" <!-- TODO: Fallback translation -->
+::: indent
+*   वृ 9U "wählen" &lt;!-- TODO: Fallback translation --&gt;
+*   सृ 1P &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-*   सृ 1P <!-- TODO: Fallback translation -->
+द्रु 1p "rennen" &lt;!-- TODO: Fallback translation --&gt;
 
-द्रु 1p "rennen" <!-- TODO: Fallback translation -->
-
-*   श्रु 5P <!-- TODO: Fallback translation -->
-
-*   स्तु 2U <!-- TODO: Fallback translation -->
+::: indent
+*   श्रु 5P &lt;!-- TODO: Fallback translation --&gt;
+*   स्तु 2U &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ### 40.2.2. Perfekt Typ II: starker Основа Hochstufe, schwacher Основа Tiefstufe
 
-Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
+Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) &lt;!-- TODO: Fallback translation --&gt;
 
-*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+*   | **परस्मैपदम्** | ← | **आत्मनेपदम्** | ← |
 
-| :--- | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: |
 
-*   | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
+::: indent
+*   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 
-*   Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
+*   Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
+*   Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-Bei sog. fakultativen अनिट्-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3) <!-- TODO: Fallback translation -->
+Bei sog. fakultativen अनिट्-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3) &lt;!-- TODO: Fallback translation --&gt;
 
-*   Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
+::: indent
+*   Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
+*   Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ### 40.2.3. Perfekt Typ III: Starker Основа Hochstufe/Dehnstufe
 
-Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
+Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) &lt;!-- TODO: Fallback translation --&gt;
 
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+| **परस्मैपदम्** | ← | **आत्मनेपदम्** | ← |
 
-| :--- | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: |
 
-*   | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
+*   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 
-Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
+Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
+::: indent
+*   Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
+*   Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
+Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. <!-- TODO: Fallback translation -->
+::: indent
+*   Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich <!-- TODO: Fallback translation -->
+*   Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich &lt;!-- TODO: Fallback translation --&gt;
 
-*   भृ 1U <!-- TODO: Fallback translation -->
+*   भृ 1U &lt;!-- TODO: Fallback translation --&gt;
 
-*   वृ 9U "wählen" <!-- TODO: Fallback translation -->
+*   वृ 9U "wählen" &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-स्तु 2U <!-- TODO: Fallback translation -->
+स्तु 2U &lt;!-- TODO: Fallback translation --&gt;
 
-*   सृ 1P <!-- TODO: Fallback translation -->
+::: indent
+*   सृ 1P &lt;!-- TODO: Fallback translation --&gt;
 
-*   द्रु 1p "rennen" <!-- TODO: Fallback translation -->
+*   द्रु 1p "rennen" &lt;!-- TODO: Fallback translation --&gt;
 
-*   श्रु 5P <!-- TODO: Fallback translation -->
+*   श्रु 5P &lt;!-- TODO: Fallback translation --&gt;
 
-*   स्रु 1P "fließen" <!-- TODO: Fallback translation -->
+*   स्रु 1P "fließen" &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-कृ 8U (außer संस्कृ) <!-- TODO: Fallback translation -->
+कृ 8U (außer संस्कृ) &lt;!-- TODO: Fallback translation --&gt;
 
-*   Bei sog. fakultativen अनिट्-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3) <!-- TODO: Fallback translation -->
+::: indent
+*   Bei sog. fakultativen अनिट्-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3) &lt;!-- TODO: Fallback translation --&gt;
 
 *   1.pl.P चकृम <!-- TODO: Fallback translation -->
 
 *   1.sg.Ā चक्रे <!-- TODO: Fallback translation -->
 
 *   1.pl.Ā चकृमहे <!-- TODO: Fallback translation -->
+:::
 
 #### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
 
@@ -173,18 +196,23 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 पॄ 3P <!-- TODO: Fallback translation -->
 
+::: indent
 *   1.sg.P पपार । पपर <!-- TODO: Fallback translation -->
 
 *   1.pl.P पपरिम <!-- TODO: Fallback translation -->
+:::
 
 स्मृ 1P <!-- TODO: Fallback translation -->
 
+::: indent
 *   1.sg.P सस्मार । सस्मर <!-- TODO: Fallback translation -->
 
 *   1.pl.P सस्मरिम <!-- TODO: Fallback translation -->
+:::
 
 संस्कृ 8U <!-- TODO: Fallback translation -->
 
+::: indent
 *   1.sg.P सञ्चस्कार । सञ्चस्कर <!-- TODO: Fallback translation -->
 
 *   1.pl.P सञ्चस्करिम <!-- TODO: Fallback translation -->
@@ -192,307 +220,343 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 *   1.sg.Ā सञ्चस्करे <!-- TODO: Fallback translation -->
 
 *   1.pl.Ā सञ्चस्करिमहे <!-- TODO: Fallback translation -->
+:::
 
 ### 40.2.4. Perfekt Typ IV: Коріньn auf -ā / -ai
 
-*   Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
-    *   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-*   | :--- | :--- | :--- | :--- |
-    *   | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
+*   Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) &lt;!-- TODO: Fallback translation --&gt;
+    *   | **परस्मैपदम्** | ← | **आत्मनेपदम्** | ← |
+*   | :---: | :---: | :---: | :---: |
+    *   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
     *   | **-a** | **-ma** | **-e** | **-mahe** |
 
-Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
+Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
+::: indent
+*   Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
+*   Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
+*   Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. <!-- TODO: Fallback translation -->
+*   Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
 
-1.sg.P. wahlweise hochstufig oder dehnstufig <!-- TODO: Fallback translation -->
+1.sg.P. wahlweise hochstufig oder dehnstufig &lt;!-- TODO: Fallback translation --&gt;
 
-#### 40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
+#### 40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe &lt;!-- TODO: Fallback translation --&gt;
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen: &lt;!-- TODO: Fallback translation --&gt;
 
-> 1.  gam "gehen" <!-- TODO: Fallback translation -->
-> 2.  han (»ghan) "erschlagen" <!-- TODO: Fallback translation -->
-> 3.  jan "geboren werden" <!-- TODO: Fallback translation -->
-> 4.  vac "sprechen" <!-- TODO: Fallback translation -->
-> 5.  vad "sprechen" <!-- TODO: Fallback translation -->
-> 6.  yaj "opfern" <!-- TODO: Fallback translation -->
-> 7.  u.a. <!-- TODO: Fallback translation -->
+::: indent
+1.  1.  gam "gehen" &lt;!-- TODO: Fallback translation --&gt;
+2.  2.  han (»ghan) "erschlagen" &lt;!-- TODO: Fallback translation --&gt;
+3.  3.  jan "geboren werden" &lt;!-- TODO: Fallback translation --&gt;
+4.  4.  vac "sprechen" &lt;!-- TODO: Fallback translation --&gt;
+5.  5.  vad "sprechen" &lt;!-- TODO: Fallback translation --&gt;
+6.  6.  yaj "opfern" &lt;!-- TODO: Fallback translation --&gt;
+7.  7.  u.a. &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-गम् 1P <!-- TODO: Fallback translation -->
+गम् 1P &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.sg.P जगाम । जगम <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P जगाम । जगम &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.P जग्मिम (ja-gm-i-ma) <!-- TODO: Fallback translation -->
+*   1.pl.P जग्मिम (ja-gm-i-ma) &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-हन् 2P <!-- TODO: Fallback translation -->
+हन् 2P &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.sg.P जघान । जघन <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P जघान । जघन &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.P जघ्निम <!-- TODO: Fallback translation -->
+*   1.pl.P जघ्निम &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 जन् 4Ā
 
-*   1.sg.Ā जज्ञे <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.Ā जज्ञे &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.Ā जज्ञिमहे <!-- TODO: Fallback translation -->
+*   1.pl.Ā जज्ञिमहे &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-वच् 2P <!-- TODO: Fallback translation -->
+वच् 2P &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.sg.P उवाच । उवच <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P उवाच । उवच &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.P ऊचिम (u + uc-ima) <!-- TODO: Fallback translation -->
+*   1.pl.P ऊचिम (u + uc-ima) &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-वद् 1P (Ā) <!-- TODO: Fallback translation -->
+वद् 1P (Ā) &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.sg.P उवाद । उवद <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P उवाद । उवद &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.P ऊदिम <!-- TODO: Fallback translation -->
+*   1.pl.P ऊदिम &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.sg.Ā ऊदे <!-- TODO: Fallback translation -->
+*   1.sg.Ā ऊदे &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.Ā  ऊदिमहे <!-- TODO: Fallback translation -->
+*   1.pl.Ā  ऊदिमहे &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-यज् 1U <!-- TODO: Fallback translation -->
+यज् 1U &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.sg.P इयाज । इयज <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P इयाज । इयज &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.P ईजिम <!-- TODO: Fallback translation -->
+*   1.pl.P ईजिम &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.sg.Ā ईजे <!-- TODO: Fallback translation -->
+*   1.sg.Ā ईजे &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.Ā ईजिमहे <!-- TODO: Fallback translation -->
+*   1.pl.Ā ईजिमहे &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e- <!-- TODO: Fallback translation -->
+#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e- &lt;!-- TODO: Fallback translation --&gt;
 
-पच् 1U <!-- TODO: Fallback translation -->
+पच् 1U &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.sg.P पपाच । पपच <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P पपाच । पपच &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.P पेचिम <!-- TODO: Fallback translation -->
+*   1.pl.P पेचिम &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.sg.Ā पेचे <!-- TODO: Fallback translation -->
+*   1.sg.Ā पेचे &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.Ā पेचिमहे <!-- TODO: Fallback translation -->
+*   1.pl.Ā पेचिमहे &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
+#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe &lt;!-- TODO: Fallback translation --&gt;
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen: &lt;!-- TODO: Fallback translation --&gt;
 
-*   Alle übrigen Коріньn mit mittlerem -a- <!-- TODO: Fallback translation -->
+*   Alle übrigen Коріньn mit mittlerem -a- &lt;!-- TODO: Fallback translation --&gt;
 
-क्रम् 1U <!-- TODO: Fallback translation -->
+क्रम् 1U &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.sg.P चक्राम । चक्रम <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P चक्राम । चक्रम &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.P चक्रमिम <!-- TODO: Fallback translation -->
+*   1.pl.P चक्रमिम &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.sg.Ā चक्रमे <!-- TODO: Fallback translation -->
+*   1.sg.Ā चक्रमे &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.Ā चक्रमिमहे <!-- TODO: Fallback translation -->
+*   1.pl.Ā चक्रमिमहे &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ### 40.2.6. Besondere Perfekt-Утворенняen
 
-Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
+Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) &lt;!-- TODO: Fallback translation --&gt;
 
-*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+::: indent
+*   | **परस्मैपदम्** | ← | **आत्मनेपदम्** | ← |
 
-*   | :--- | :--- | :--- | :--- |
+*   | :---: | :---: | :---: | :---: |
+:::
 
-| **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 
 | **-a** | **-ma** | **-e** | **-mahe** |
 
-*   Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
+::: indent
+*   Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
+*   Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
+Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
+::: indent
+*   Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. &lt;!-- TODO: Fallback translation --&gt;
 
-*   Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. <!-- TODO: Fallback translation -->
+*   Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ## 40.3. Утворення der Verbformen der ersten Person des periphrastischen Perfekt (अनुप्रयोगलिट्)
 
-Das periphrastische Perfekt wird gebildet von: <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt wird gebildet von: &lt;!-- TODO: Fallback translation --&gt;
 
-*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ <!-- TODO: Fallback translation -->
-*   Коріньn, die mit langem Vokal (außer ā) beginnen <!-- TODO: Fallback translation -->
-*   Коріньn: Vokal (außer a-)-Konsonant-Konsonant <!-- TODO: Fallback translation -->
-*   einigen anderen <!-- TODO: Fallback translation -->
-*   bei einigen Коріньn können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein" <!-- TODO: Fallback translation -->
-*   bei folgende Коріньn  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Основа презенсуs: <!-- TODO: Fallback translation -->
-    *   bhī "sich fürchten" <!-- TODO: Fallback translation -->
-    *   bhṛ "tragen" <!-- TODO: Fallback translation -->
-    *   hu "opfern" <!-- TODO: Fallback translation -->
-    *   hrī "sich schämen" <!-- TODO: Fallback translation -->
+*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ &lt;!-- TODO: Fallback translation --&gt;
+*   Коріньn, die mit langem Vokal (außer ā) beginnen &lt;!-- TODO: Fallback translation --&gt;
+*   Коріньn: Vokal (außer a-)-Konsonant-Konsonant &lt;!-- TODO: Fallback translation --&gt;
+*   einigen anderen &lt;!-- TODO: Fallback translation --&gt;
+*   bei einigen Коріньn können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein" &lt;!-- TODO: Fallback translation --&gt;
+*   bei folgende Коріньn  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Основа презенсуs: &lt;!-- TODO: Fallback translation --&gt;
+    *   bhī "sich fürchten" &lt;!-- TODO: Fallback translation --&gt;
+    *   bhṛ "tragen" &lt;!-- TODO: Fallback translation --&gt;
+    *   hu "opfern" &lt;!-- TODO: Fallback translation --&gt;
+    *   hrī "sich schämen" &lt;!-- TODO: Fallback translation --&gt;
 
 ईक्ष् 1Ā
 
-*   1.sg.Ā ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.Ā ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.Ā ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम <!-- TODO: Fallback translation -->
+*   1.pl.Ā ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-बन्ध् Kausativum P: बन्धयति <!-- TODO: Fallback translation -->
+बन्ध् Kausativum P: बन्धयति &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.sg.P बन्धयां चकर । बन्धयां चकार (= 3.sg.P) । बन्धयामास (= 3.sg.P) । बन्धयां बभूव (= 3.sg.P) <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P बन्धयां चकर । बन्धयां चकार (= 3.sg.P) । बन्धयामास (= 3.sg.P) । बन्धयां बभूव (= 3.sg.P) &lt;!-- TODO: Fallback translation --&gt;
 
-*   1.pl.P बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम <!-- TODO: Fallback translation -->
+*   1.pl.P बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ## 40.4. Syntaktisches zur ersten Person (तृतीयः)
 
-Da ein Verbum finitum (konjugiertes Verb) den Agens (कर्तृ) mit ausdrückt, braucht das "ich", "wir" in nicht-passiven Verbalsätzen mit Verbum finitum nicht extra durch ein Personalpronomen ausgedrückt werden <!-- TODO: Fallback translation -->
+::: grammar-box
+Da ein Verbum finitum (konjugiertes Verb) den Agens (कर्तृ) mit ausdrückt, braucht das "ich", "wir" in nicht-passiven Verbalsätzen mit Verbum finitum nicht extra durch ein Personalpronomen ausgedrückt werden &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ## 40.5. Personalpronomen (पुरुषार्थकसर्वनाम) der 1. Person Однина und Множина
 
-Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe. <!-- TODO: Fallback translation -->
+::: grammar-box
+Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe. &lt;!-- TODO: Fallback translation --&gt;
+:::
+
 :::: grammar-box
 
-| **विभक्तिः**[[br]]Kasus | **एकवचनम्**[[br]]Однина ("ich") | **बहुवचनम्**[[br]]Множина ("wir") |
-| :--- | :--- | :--- |
-| **प्रथमा**[[br]]1. Називний відмінок | **अहम्** | **वयम्** |
-| **द्वितीया**[[br]]2. Знахідний відмінок | **माम्** / **मा** | **अस्मान्** / **नस्** |
-| **तृतीया**[[br]]3. Орудний відмінок | **मया** | **अस्माभिस्** |
-| **चतुर्थी**[[br]]4. Давальний відмінок | **मह्यम्** / **मे** | **अस्मभ्यम्** / **नस्** |
-| **पञ्चमी**[[br]]5. Аблатив | **मत्** | **अस्मत्** |
-| **षष्ठी**[[br]]6. Родовий відмінок | **मम** / **मे** | **अस्माकम्** / **नस्** |
-| **सप्तमी**[[br]]7. Місцевий відмінок | **मयि** | **अस्मासु** |
+| | **एकवचनम्**[[br]]"ich" | **बहुवचनम्**[[br]]"wir" |
+| :---: | :---: | :---: |
+| **प्रथमा** | **अहम्** | **वयम्** |
+| **द्वितीया** | **माम्** / **मा** | **अस्मान्** / **नस्** |
+| **तृतीया** | **मया** | **अस्माभिस्** |
+| **चतुर्थी** | **मह्यम्** / **मे** | **अस्मभ्यम्** / **नस्** |
+| **पञ्चमी** | **मत्** | **अस्मत्** |
+| **षष्ठी** | **मम** / **मे** | **अस्माकम्** / **नस्** |
+| **सप्तमी** | **मयि** | **अस्मासु** |
 
 ::::
 
-Die kürzeren Formen, die oben an zweiter Stelle stehen (मा, मे, नस्) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden. <!-- TODO: Fallback translation -->
+::: grammar-box
+Die kürzeren Formen, die oben an zweiter Stelle stehen (मा, मे, नस्) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden. &lt;!-- TODO: Fallback translation --&gt;
 
-Vor den Partikeln च, वा, एव dürfen diese sog. enklitischen Formen ebenfalls nicht gebraucht werden: <!-- TODO: Fallback translation -->
+Vor den Partikeln च, वा, एव dürfen diese sog. enklitischen Formen ebenfalls nicht gebraucht werden: &lt;!-- TODO: Fallback translation --&gt;
 
-nur: ... मां च ... "und mich" <!-- TODO: Fallback translation -->
+nur: ... मां च ... "und mich" &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-| षष्ठी | मम   | | <!-- TODO: Fallback translation -->
+::: grammar-box
+| षष्ठी | मम   | | &lt;!-- TODO: Fallback translation --&gt;
 
-मम । मे = "mein" <!-- TODO: Fallback translation -->
+मम । मे = "mein" &lt;!-- TODO: Fallback translation --&gt;
 
-अस्माकम् । नस् = "unser" <!-- TODO: Fallback translation -->
+अस्माकम् । नस् = "unser" &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-| **7. Lokativ** | **mayi**[[br]](मयि) | **asmāsu**[[br]](अस्मासु) | <!-- TODO: Fallback translation -->
+::: grammar-box
+| **7. Lokativ** | **mayi**[[br]](मयि) | **asmāsu**[[br]](अस्मासु) | &lt;!-- TODO: Fallback translation --&gt;
 
-*   sg. मद् <!-- TODO: Fallback translation -->
-*   pl. अस्मद् <!-- TODO: Fallback translation -->
+*   sg. मद् &lt;!-- TODO: Fallback translation --&gt;
+*   pl. अस्मद् &lt;!-- TODO: Fallback translation --&gt;
 
-z.B. मत्पुस्तकम् "mein Buch" ; अस्मद्पुस्तकानि "unsere Bücher" <!-- TODO: Fallback translation -->
+z.B. मत्पुस्तकम् "mein Buch" ; अस्मद्पुस्तकानि "unsere Bücher" &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ## 40.6. Словник
 
-पात्र n.: Ehrwürdiger, Meister, Würdiger <!-- TODO: Fallback translation -->
+पात्र n.: Ehrwürdiger, Meister, Würdiger &lt;!-- TODO: Fallback translation --&gt;
 
-मेधा f.: Weisheit, Verstand, Gedanke <!-- TODO: Fallback translation -->
+मेधा f.: Weisheit, Verstand, Gedanke &lt;!-- TODO: Fallback translation --&gt;
 
-पुस्तक m.n.: Manuskript, Buch <!-- TODO: Fallback translation -->
+पुस्तक m.n.: Manuskript, Buch &lt;!-- TODO: Fallback translation --&gt;
 
-कॢप् 1Ā कल्पते : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschließen zu, sich bequemen zu (Dativ) <!-- TODO: Fallback translation -->
+कॢप् 1Ā कल्पते : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschließen zu, sich bequemen zu (Dativ) &lt;!-- TODO: Fallback translation --&gt;
 
-> Perf. II चकॢपे fakultativ अनिट्   <!-- TODO: Fallback translation -->
-> Fut. कल्पिष्यते । कल्प्स्यते   <!-- TODO: Fallback translation -->
-> Kaus. कल्पयति : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden   <!-- TODO: Fallback translation -->
-> PPP कॢप्त   <!-- TODO: Fallback translation -->
-> Inf. कल्पितुम् । कल्प्तुम् <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> कल्पना f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion <!-- TODO: Fallback translation -->
+::: indent
+Fut. कल्पिष्यते । कल्प्स्यते   &lt;!-- TODO: Fallback translation --&gt;
 
-कॢप् + वि Kaus. विकल्पयति : (sich verschieden vorstellen =) in Frage stellen, bezweifeln <!-- TODO: Fallback translation -->
+Perf. II चकॢपे fakultativ अनिट्   &lt;!-- TODO: Fallback translation --&gt;
 
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> विक्ल्प m.: Alternative, Zweifel <!-- TODO: Fallback translation -->
+कल्पना f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-तुद् 6U तुदति : schlagen <!-- TODO: Fallback translation -->
+कॢप् + वि Kaus. विकल्पयति : (sich verschieden vorstellen =) in Frage stellen, bezweifeln &lt;!-- TODO: Fallback translation --&gt;
 
-> Perf. II तुतोद, तुतुदुर्   <!-- TODO: Fallback translation -->
-> Fut. तोत्स्यति   <!-- TODO: Fallback translation -->
-> Pass. तुद्यते   <!-- TODO: Fallback translation -->
-> Kaus. तोदयति   <!-- TODO: Fallback translation -->
-> PPP तुन्न (tud + na)   <!-- TODO: Fallback translation -->
-> Inf. तोत्तुम् <!-- TODO: Fallback translation -->
+::: indent
+Kaus. कल्पयति : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden   &lt;!-- TODO: Fallback translation --&gt;
 
-तॄ 1P तरति :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten) <!-- TODO: Fallback translation -->
+विक्ल्प m.: Alternative, Zweifel &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-> Perf. IIIb ततार, ततरुर् । तेरुर्   <!-- TODO: Fallback translation -->
-> Fut. तरिष्यति । तरीष्यति   <!-- TODO: Fallback translation -->
-> Pass. तीर्यते   <!-- TODO: Fallback translation -->
-> Kaus. तारयति   <!-- TODO: Fallback translation -->
-> PPP तीर्ण   <!-- TODO: Fallback translation -->
-> Inf. तरितुम् । तरीतुम् <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> तीर्थ n.: Furt, heiliger Badeplatz, Pilgerort <!-- TODO: Fallback translation -->
+तुद् 6U तुदति : schlagen &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+Perf. II तुतोद, तुतुदुर्   &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+तॄ 1P तरति :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten) &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+Perf. IIIb ततार, ततरुर् । तेरुर्   &lt;!-- TODO: Fallback translation --&gt;
+
+PPP कॢप्त   &lt;!-- TODO: Fallback translation --&gt;
+
+तीर्थ n.: Furt, heiliger Badeplatz, Pilgerort &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ::: media
 ![lekt4003.jpg](/images/lekt4003.jpg)
 Abb.: हरिद्वारे तीर्थम्
-(Bildquelle: [Details](/licenses#lekt4003)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4003)) &lt;!-- TODO: Fallback translation --&gt;
 :::
 
-> तीर्थङ्कर m. (aus: तीर्थम्+ कृ): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina <!-- TODO: Fallback translation -->
+::: indent
+तीर्थङ्कर m. (aus: तीर्थम्+ कृ): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ::: media
 ![lekt4002.jpg](/images/lekt4002.jpg)
 Abb.: तीर्थङ्करः
-(Bildquelle: [Details](/licenses#lekt4002)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4002)) &lt;!-- TODO: Fallback translation --&gt;
 :::
 
-अव Präverb.: herab, hinab, weg, ab- <!-- TODO: Fallback translation -->
+अव Präverb.: herab, hinab, weg, ab- &lt;!-- TODO: Fallback translation --&gt;
 
-तॄ + अव 1P अवतरति : herabsteigen <!-- TODO: Fallback translation -->
+तॄ + अव 1P अवतरति : herabsteigen &lt;!-- TODO: Fallback translation --&gt;
 
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> अवतार m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309) <!-- TODO: Fallback translation -->
+::: indent
+Inf. कल्पितुम् । कल्प्तुम् &lt;!-- TODO: Fallback translation --&gt;
+
+अवतार m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309) &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ::: media
 ![lekt4001.jpg](/images/lekt4001.jpg)
 Abb.: विष्णोर्दशावताराः
-(Bildquelle: [Details](/licenses#lekt4001)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4001)) &lt;!-- TODO: Fallback translation --&gt;
 :::
 
-स्वप् 2P स्वपिति,  स्वपन्ति : schlafen, sich schlafen legen <!-- TODO: Fallback translation -->
+स्वप् 2P स्वपिति,  स्वपन्ति : schlafen, sich schlafen legen &lt;!-- TODO: Fallback translation --&gt;
 
-> Impf. अस्वपीत् । अस्वपत्   <!-- TODO: Fallback translation -->
-> Perf. सुष्वाप, सुषुपुर्   <!-- TODO: Fallback translation -->
-> Fut. स्वप्स्यति   <!-- TODO: Fallback translation -->
-> Pass. सुप्यते (aus \*svp-ya-te)   <!-- TODO: Fallback translation -->
-> Kaus. स्वापयति   <!-- TODO: Fallback translation -->
-> PPP सुप्त   <!-- TODO: Fallback translation -->
-> Inf. स्वप्तुम् <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> स्वप्न m.: Schlaf, Traum <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> सुप्ति f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf <!-- TODO: Fallback translation -->
+::: indent
+Impf. अस्वपीत् । अस्वपत्   &lt;!-- TODO: Fallback translation --&gt;
+
+&lt;!-- TODO: Fallback translation --&gt;
+
+स्वप्न m.: Schlaf, Traum &lt;!-- TODO: Fallback translation --&gt;
+
+सुप्ति f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf &lt;!-- TODO: Fallback translation --&gt;
+:::
 
 ::: media
 ![lekt4004.jpg](/images/lekt4004.jpg)
 Abb.: स्वपन्ति
-(Bildquelle: [Details](/licenses#lekt4004)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4004)) &lt;!-- TODO: Fallback translation --&gt;
 :::
 
 ## 40.7. Вправа
 
-A) Übersetzen sie die सुभाषितानि am Beginn der Lektion. <!-- TODO: Fallback translation -->
+A) Übersetzen sie die सुभाषितानि am Beginn der Lektion. &lt;!-- TODO: Fallback translation --&gt;
 
-B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei mehreren Möglichkeiten, geben Sie bitte alle Möglichkeiten an. <!-- TODO: Fallback translation -->
+B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei mehreren Möglichkeiten, geben Sie bitte alle Möglichkeiten an. &lt;!-- TODO: Fallback translation --&gt;
 
-(Zeichenerklärung: अ = अनिट्, इ = fakultativ अनिट्) <!-- TODO: Fallback translation -->
+(Zeichenerklärung: अ = अनिट्, इ = fakultativ अनिट्) &lt;!-- TODO: Fallback translation --&gt;
 
 1.  अश्नीमः
 2.  स्मः
@@ -546,9 +610,9 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 50.  पुने
 51.  भुञ्ज्मः
 52.  स्मरिष्यामः
-53.  अभजाम (geht nach Typ Vb) <!-- TODO: Fallback translation -->
+53.  अभजाम (geht nach Typ Vb) &lt;!-- TODO: Fallback translation --&gt;
 54.  जेष्यामः
-55.  आसे (periphrast.) <!-- TODO: Fallback translation -->
+55.  आसे (periphrast.) &lt;!-- TODO: Fallback translation --&gt;
 56.  विन्दामः
 57.  धक्ष्यामः
 58.  शक्नुमः

@@ -1,0 +1,207 @@
+---
+lesson_id: 26
+last_reconstructed: 2026-05-21
+---
+
+# Lección 26
+
+## 26.1. Ley de cerebralización de -s- en interior de palabra
+
+::: grammar-box
+**-s-** se reemplaza por **-ṣ-**, cuando **k, r, l** o una **vocal** — excepto **a, ā** — preceden inmediatamente o solo separadas por **Anusvāra** o **Visarga**, y sigue otro sonido que no sea **ṛ, r**.
+
+Este Sandhi también se aplica a **dus-** antes de guturales y labiales sordas en compuestos.
+
+*Ejemplos:*
+- **teṣām** (de: *te-sām*)
+- pero: **tāsām** (*tā-sām*)
+:::
+
+## 26.2. Ley de cerebralización de las oclusivas dentales en interior de palabra
+
+::: grammar-box
+Las oclusivas dentales son reemplazadas por sus correspondientes retroflejas tras las retroflejas (incluyendo **-ṣ-**):
+
+- **iṣ** + **-ta** = **iṣṭa** (इष्ट)
+- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (तिष्ठति)
+  *(**ṣ** debido a la **i** precedente, **ṭh** debido a la **ṣ** que sigue entonces)*
+:::
+
+## 26.3. Sandhi léxico para palatales, guturales, ṣ, h + -s
+
+::: grammar-box
+**-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
+:::
+
+## 26.4. La ley de la disimilación de la aspiración de Grassmann
+
+::: grammar-box
+**Una consecuencia inmediata de la presencia de dos aspiradas (Aspirada - Vocal - Aspirada) es la pérdida de la aspiración en la primera consonante:**
+
+Ejemplo:
+
+> \*dhu(gh) » du(g)h
+
+**Si, por efecto de las leyes fonéticas, la segunda consonante pierde su aspiración, entonces la primera consonante recupera la aspiración.**
+
+Ejemplos: véase más abajo el futuro de  दुह् y  बुध्
+:::
+
+::: media
+![](/images/lekt2601.jpg)
+Fig.: Hermann Grassmann
+(Fuente de la imagen: [Detalles](/licenses#lekt2601))
+:::
+
+## 26.5. Sandhi de palabras para -m, -n antes de sonidos sibilantes
+
+::: grammar-box
+**Antes de sonidos sibilantes, -n y -m se reemplazan por -ṃ-:**
+
+Ejemplo: ver Futuro de मन् a continuación
+:::
+
+## 26.6. Uso del futuro simple (ऌत्, भविष्यन्ती f.)
+
+::: grammar-box
+**El Futuro Simple (ऌत्, भविष्यन्ती f.) expresa:**
+
+- **el futuro**
+- **una acción intencionada o deseada («iré», «quiero ir»)**
+- **una expectativa («así sucederá»)**
+- **esperanza**
+- **temor**
+- **probabilidad**
+- **opinión del hablante**
+- **orden**
+
+**El futuro entra en competencia parcial con el optativo (véase más adelante).**
+:::
+
+p. ej. व्रतं करिष्यन्देवगृहं गच्छति = «Alguien que desea hacer un voto va al templo.»
+
+
+::: media
+![](/images/lekt2602.jpg)
+Fig.: व्रतं करिष्यन्देवगृहं गच्छति
+(Fuente de la imagen: [Detalles](/licenses#lekt2602))
+:::
+
+## 26.7. Formación del futuro simple (ऌत्, भविष्यन्ती f.)
+
+::: grammar-box
+**Futuro simple:**
+
+> **Tema del futuro + terminaciones primarias**
+
+---
+
+**Tema del futuro:**
+
+> **(por lo general) raíz en grado pleno (guṇa) + -sya**  
+> **o bien**  
+> **(por lo general) raíz en grado pleno (guṇa) + -i- + -sya (= - iṣya)**
+
+¡Es necesario aprender con las formas temáticas qué raíz emplea qué formación del tema del futuro!  
+**En general, la forma de la raíz y la vocal de unión del futuro coinciden con las del infinitivo.**  
+**Algunas raíces pueden formar el futuro opcionalmente con y sin la vocal de unión -i-.**  
+**El participio en voz activa (Parasmaipada) del futuro se forma añadiendo el sufijo -nt- al tema del futuro; el femenino opcionalmente termina en -ntī o -tī:**
+
+> कृ :  करिष्यन्त्, करिष्यन्ती / करिष्यती
+:::
+
+Ejemplos:
+
+:::: grammar-box
+
+| Raíz | Futuro 3. sg. P (Ā) |
+| :--- | :--- |
+| नी | नेष्यति |
+| भू | भविष्यति (भो +  इ + स्य + ति) |
+| दिश् | देक्ष्यति (देश् + स्य + ति) |
+| दृश् | द्रक्ष्यति |
+| पच् | पक्ष्यति |
+| प्रच्छ् | प्रक्ष्यति |
+| यज् | यक्ष्यति |
+| सृज् | स्रक्ष्यति |
+| पद् | पत्स्यति |
+| अद् | अत्स्यति |
+| दुह् | धोक्ष्यति (दोग् +  स्य + ति) |
+| बुध् | भोत्स्यते (बोध् ante sorda = भोत्) |
+| मन् | मंस्यते (मन् + स्य + ते) |
+
+::::
+
+## 26.8. Ejercicio
+
+Forme las correspondientes formas de futuro en número, persona y género verbal (Parasmaipada, Ātmanepada):
+
+A) Sin vocal de unión *-i-*:
+
+1.  अत्ति
+2.  प्राप्नुवन्ति
+3.  सम्यन्ति
+4.  विजयन्ते
+5.  दहन्
+6.  आदिशन्ति
+7.  दोग्धि
+8.  पश्यति (Formar el futuro de दृश्)
+9.  उपानयन्ति
+10.  पचति
+11.  उपपद्यन्ते
+12.  पिबति
+13.  पृच्छति
+14.  बुध्यन्ते
+15.  मन्यते
+16.  मुञ्चति
+17.  यजते
+18.  युध्यन्ते
+19.  भजति
+20.  कृषति
+21.  क्रुध्यन्ति
+22.  दुष्यति
+23.  द्वेष्टि
+24.  पान्ति
+25.  सीदति
+26.  लभते
+27.  वक्ति
+28.  प्रविशन्ति
+29.  शक्नोति
+30.  शृणोति
+31.  सिञ्चति
+32.  सुन्वन्ति
+33.  सृजति
+34.  स्तौति
+35.  तिष्ठति
+
+B) Con vocal de unión *-i-*:
+
+1.  अस्यति
+2.  आसते
+3.  इच्छति
+4.  संस्करोति
+5.  खादति
+6.  लुभ्यति
+7.  तनुते
+8.  उपागच्छन्ति
+9.  चरति
+10.  जायन्ते
+11.  नृत्यति
+12.  सहते
+13.  पतन्ति
+14.  रोदिति
+15.  प्रभवति
+16.  म्रियन्ते (en futuro Parasmaipada)
+17.  जीवन्ति
+18.  रक्षति
+19.  वदति
+20.  स्मरति
+21.  घ्नन्ति
+22.  अर्हन्ति
+23.  कुप्यन्ति
+
+C) Futuro opcionalmente con y sin *-i-*:
+
+1.  मुह्यन्ति
+2.  वर्तते
+3.  अश्नुवते (en futuro Parasmaipada)

@@ -4,165 +4,188 @@
 
 ## 40.1. सुभाषितानि
 
-> विद्या ददाति विनयं  
-> विनयाद्याति पात्रताम् ।  
-> पात्रत्वाद्धनमाप्नोति  
-> धनाद्धर्मं ततः सुखम् ॥१॥
-> <!-- TODO: Fallback translation -->
-> सुखार्थी चेत्त्यजेद्विद्यां  
-> विद्यार्थी चेत्त्यजेत्सुखम् ।  
-> सुखार्थिनः कुतो विद्या  
-> कुतो विद्यार्थिनः सुखम् ॥२॥
-> <!-- TODO: Fallback translation -->
-> आचार्यात्पादमादत्ते  
-> पादं शिष्यः स्वमेधया ।  
-> पादं सब्रह्मचारिभ्यःयः  
-> पादं कालक्रमेण च ॥३॥
+::: indent
+विद्या ददाति विनयं  
+विनयाद्याति पात्रताम् ।  
+पात्रत्वाद्धनमाप्नोति  
+धनाद्धर्मं ततः सुखम् ॥१॥
+
+सुखार्थी चेत्त्यजेद्विद्यां  
+विद्यार्थी चेत्त्यजेत्सुखम् ।  
+सुखार्थिनः कुतो विद्या  
+कुतो विद्यार्थिनः सुखम् ॥२॥
+
+आचार्यात्पादमादत्ते  
+पादं शिष्यः स्वमेधया ।  
+पादं सब्रह्मचारिभ्यः  
+पादं कालक्रमेण च ॥३॥
+:::
 
 ::: media
 ![lekt4005.jpg](/images/lekt4005.jpg)
-Abb.: पादं सब्रह्मचारिभ्यः
-(Bildquelle: [Details](/licenses#lekt4005)) <!-- TODO: Fallback translation -->
+Рис.: पादं सब्रह्मचारिभ्यः
+(Источник изображения: [Подробнее](/licenses#lekt4005))
 :::
 
 ## 40.2. Образование der Verbformen der ersten Person Perfekt (लिट्)
 
-Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
+Окончания первого лица (тритий) в совершенном времени (лит)
 
 :::: grammar-box
 
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-| :--- | :--- | :--- | :--- |
-| **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число |
+| **परस्मैपदम्** | ← | **आत्मनेपदम्** | ← |
+| :---: | :---: | :---: | :---: |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **-a** | **-ma** | **-e** | **-mahe** |
 
 ::::
 
-Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
+::: grammar-box
+Обратите внимание, что окончания первого лица единственного числа парасмаипадама и атменепадама совпадают с окончаниями третьего лица единственного числа. Поэтому во всех типах совершенного времени, кроме типов III(a,b) и V(a,b,c), формы первого лица единственного числа парасмаипадама и атменепадама всегда тождественны формам третьего лица единственного числа парасмаипадама и атменепадама соответственно.
 
-Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
+В типе IV первое лицо единственного числа парасмаипадама оканчивается на -au, как и третье лицо единственного числа парасмаипадама.
 
-Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
+В типах совершенного времени III и V первое лицо единственного числа атменепадама всегда тождественно третьему лицу единственного числа атменепадама.
 
-Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
+В типах совершенного времени III и V первое лицо единственного числа парасмаипадама и третье лицо единственного числа парасмаипадама могут быть тождественными: третье лицо единственного числа парасмаипадама в этих типах образования всегда должно быть в усиленной степени (дхана-гуна), тогда как первое лицо единственного числа парасмаипадама может быть либо в сильной степени (хья-гуна), либо в усиленной степени (дхана-гуна).
+:::
 
-Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. <!-- TODO: Fallback translation -->
+::: grammar-box
+Перед окончаниями, начинающимися с согласной, у большинства корней вставляется связующий гласный -i-.
 
-Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich <!-- TODO: Fallback translation -->
+За исключением окончания -re, перед которым всегда должно стоять -i-, связующий гласный перед окончаниями, начинающимися с согласной, никогда не вставляется у восьми корней на -ṛ или -u, а именно:
 
-1.  कृ 8U (außer संस्कृ) <!-- TODO: Fallback translation -->
-2.  भृ 1U <!-- TODO: Fallback translation -->
-3.  वृ 9U "wählen" <!-- TODO: Fallback translation -->
-4.  सृ 1P <!-- TODO: Fallback translation -->
-5.  द्रु 1p "rennen" <!-- TODO: Fallback translation -->
-6.  श्रु 5P <!-- TODO: Fallback translation -->
-7.  स्तु 2U <!-- TODO: Fallback translation -->
-8.  स्रु 1P "fließen" <!-- TODO: Fallback translation -->
+1.  कृ 8U (кроме संस्कृ)
+2.  भृ 1U
+3.  वृ 9U «выбирать»
+4.  सृ 1P
+5.  द्रु 1p «бежать»
+6.  श्रु 5P
+7.  स्तु 2U
+8.  स्रु 1P «течь»
 
-Bei sog. fakultativen अनिट्-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3) <!-- TODO: Fallback translation -->
+У так называемых факультативных अनит-корней связующий гласный может вставляться по выбору или не вставляться. (Перечень этих корней см. у Киельгорна, Грамматика, стр. 92, § 298b,2,3)
+:::
 
 ### 40.2.1. Perfekt Typ I: keine Основаabstufung
 
-Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
+Окончания первого лица (тритий) в совершенном времени (лит)
 
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+| **парасмаипадaм** | ← | **атменепадаm** | ← |
 
-*   | :--- | :--- | :--- | :--- |
-*   | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число |
+*   | :---: | :---: | :---: | :---: |
+*   | **экавачанaм** | **бахувачанaм** | **экавачанaм** | **бахувачанaм** |
 *   | **-a** | **-ma** | **-e** | **-mahe** |
-*   Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
+*   Обратите внимание, что окончания первого лица единственного числа парасмаипадама и атменепадама совпадают с окончаниями третьего лица единственного числа. Поэтому во всех типах совершенного времени, кроме типов III(a,b) и V(a,b,c), формы первого лица единственного числа парасмаипадама и атменепадама всегда тождественны формам третьего лица единственного числа парасмаипадама и атменепадама соответственно.
 
-Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
+В типе IV первое лицо единственного числа парасмаипадама оканчивается на -au, как и третье лицо единственного числа парасмаипадама.
 
-*   Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
-*   Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
+::: indent
+*   В типах совершенного времени III и V первое лицо единственного числа атменепадама всегда тождественно третьему лицу единственного числа атменепадама.
+*   В типах совершенного времени III и V первое лицо единственного числа парасмаипадама и третье лицо единственного числа парасмаипадама могут быть тождественными: третье лицо единственного числа парасмаипадама в этих типах образования всегда должно быть в усиленной степени (дхана-гуна), тогда как первое лицо единственного числа парасмаипадама может быть либо в сильной степени (хья-гуна), либо в усиленной степени (дхана-гуна).
+:::
 
-Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. <!-- TODO: Fallback translation -->
+Перед окончаниями, начинающимися с согласной, у большинства корней вставляется связующий гласный -i-.
 
-*   Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich <!-- TODO: Fallback translation -->
-
-*   कृ 8U (außer संस्कृ) <!-- TODO: Fallback translation -->
+::: indent
+*   За исключением окончания -re, перед которым всегда должно стоять -i-, связующий гласный перед окончаниями, начинающимися с согласной, никогда не вставляется у восьми корней на -ṛ или -u, а именно:
+*   कृ 8U (кроме संस्कृ)
+:::
 
 अश् 5Ā
 
-*   वृ 9U "wählen" <!-- TODO: Fallback translation -->
+::: indent
+*   वृ 9U «выбирать»
+*   सृ 1P
+:::
 
-*   सृ 1P <!-- TODO: Fallback translation -->
+द्रु 1p «бежать»
 
-द्रु 1p "rennen" <!-- TODO: Fallback translation -->
-
-*   श्रु 5P <!-- TODO: Fallback translation -->
-
-*   स्तु 2U <!-- TODO: Fallback translation -->
+::: indent
+*   श्रु 5P
+*   स्तु 2U
+:::
 
 ### 40.2.2. Perfekt Typ II: starker Основа Hochstufe, schwacher Основа Tiefstufe
 
-Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
+Окончания первого лица (тритий) в совершенном времени (лит)
 
-*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+*   | **парасмаипадaм** | ← | **атменепадаm** | ← |
 
-| :--- | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: |
 
-*   | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число |
+::: indent
+*   | **экавачанaм** | **бахувачанaм** | **экавачанaм** | **бахувачанaм** |
 
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 
-*   Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
+*   Обратите внимание, что окончания первого лица единственного числа парасмаипадама и атменепадама совпадают с окончаниями третьего лица единственного числа. Поэтому во всех типах совершенного времени, кроме типов III(a,b) и V(a,b,c), формы первого лица единственного числа парасмаипадама и атменепадама всегда тождественны формам третьего лица единственного числа парасмаипадама и атменепадама соответственно.
 
-*   Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
+*   В типе IV первое лицо единственного числа парасмаипадама оканчивается на -au, как и третье лицо единственного числа парасмаипадама.
+:::
 
-Bei sog. fakultativen अनिट्-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3) <!-- TODO: Fallback translation -->
+В типах совершенного времени III и V первое лицо единственного числа атменепадама всегда тождественно третьему лицу единственного числа атменепадама.
 
-*   Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
+::: indent
+*   В типах совершенного времени III и V первое лицо единственного числа парасмаипадама и третье лицо единственного числа парасмаипадама могут быть тождественными: третье лицо единственного числа парасмаипадама в этих типах образования всегда должно быть в усиленной степени (дхана-гуна), тогда как первое лицо единственного числа парасмаипадама может быть либо в сильной степени (хья-гуна), либо в усиленной степени (дхана-гуна).
 
-*   Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
+*   Перед окончаниями, начинающимися с согласной, у большинства корней вставляется связующий гласный -i-.
+:::
 
 ### 40.2.3. Perfekt Typ III: Starker Основа Hochstufe/Dehnstufe
 
-Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
+Окончания первого лица (тритий) в совершенном времени (лит)
 
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+| **парасмаипадaм** | ← | **атменепадаm** | ← |
 
-| :--- | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: |
 
-*   | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число |
+*   | **экавачанaм** | **бахувачанaм** | **экавачанaм** | **бахувачанaм** |
 *   | **-a** | **-ma** | **-e** | **-mahe** |
 
-Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
+Обратите внимание, что окончания первого лица единственного числа парасмаипадама и атменепадама совпадают с окончаниями третьего лица единственного числа. Поэтому во всех типах совершенного времени, кроме типов III(a,b) и V(a,b,c), формы первого лица единственного числа парасмаипадама и атменепадама всегда тождественны формам третьего лица единственного числа парасмаипадама и атменепадама соответственно.
 
-*   Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
+::: indent
+*   В типе IV первое лицо единственного числа парасмаипадама оканчивается на -au, как и третье лицо единственного числа парасмаипадама.
 
-*   Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
+*   В типах совершенного времени III и V первое лицо единственного числа атменепадама всегда тождественно третьему лицу единственного числа атменепадама.
+:::
 
-Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
+В типах совершенного времени III и V первое лицо единственного числа парасмаипадама и третье лицо единственного числа парасмаипадама могут быть тождественными: третье лицо единственного числа парасмаипадама в этих типах образования всегда должно быть в усиленной степени (дхана-гуна), тогда как первое лицо единственного числа парасмаипадама может быть либо в сильной степени (хья-гуна), либо в усиленной степени (дхана-гуна).
 
-*   Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. <!-- TODO: Fallback translation -->
+::: indent
+*   Перед окончаниями, начинающимися с согласной, у большинства корней вставляется связующий гласный -i-.
 
-*   Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich <!-- TODO: Fallback translation -->
+*   За исключением окончания -re, перед которым всегда должно стоять -i-, связующий гласный перед окончаниями, начинающимися с согласной, никогда не вставляется у восьми корней на -ṛ или -u, а именно:
 
-*   भृ 1U <!-- TODO: Fallback translation -->
+*   भृ 1U
 
-*   वृ 9U "wählen" <!-- TODO: Fallback translation -->
+*   वृ 9U «выбирать»
+:::
 
-स्तु 2U <!-- TODO: Fallback translation -->
+स्तु 2U
 
-*   सृ 1P <!-- TODO: Fallback translation -->
+::: indent
+*   सृ 1P
 
-*   द्रु 1p "rennen" <!-- TODO: Fallback translation -->
+*   द्रु 1p «бежать»
 
-*   श्रु 5P <!-- TODO: Fallback translation -->
+*   श्रु 5P
 
-*   स्रु 1P "fließen" <!-- TODO: Fallback translation -->
+*   स्रु 1P «течь»
+:::
 
-कृ 8U (außer संस्कृ) <!-- TODO: Fallback translation -->
+कृ 8U (кроме संस्कृ)
 
-*   Bei sog. fakultativen अनिट्-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3) <!-- TODO: Fallback translation -->
+::: indent
+*   У так называемых факультативных अनит-корней связующий гласный может вставляться по выбору или не вставляться. (Перечень этих корней см. у Киельгорна, Грамматика, стр. 92, § 298b,2,3)
 
 *   1.pl.P चकृम <!-- TODO: Fallback translation -->
 
 *   1.sg.Ā चक्रे <!-- TODO: Fallback translation -->
 
 *   1.pl.Ā चकृमहे <!-- TODO: Fallback translation -->
+:::
 
 #### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
 
@@ -173,18 +196,23 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 पॄ 3P <!-- TODO: Fallback translation -->
 
+::: indent
 *   1.sg.P पपार । पपर <!-- TODO: Fallback translation -->
 
 *   1.pl.P पपरिम <!-- TODO: Fallback translation -->
+:::
 
 स्मृ 1P <!-- TODO: Fallback translation -->
 
+::: indent
 *   1.sg.P सस्मार । सस्मर <!-- TODO: Fallback translation -->
 
 *   1.pl.P सस्मरिम <!-- TODO: Fallback translation -->
+:::
 
 संस्कृ 8U <!-- TODO: Fallback translation -->
 
+::: indent
 *   1.sg.P सञ्चस्कार । सञ्चस्कर <!-- TODO: Fallback translation -->
 
 *   1.pl.P सञ्चस्करिम <!-- TODO: Fallback translation -->
@@ -192,67 +220,81 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 *   1.sg.Ā सञ्चस्करे <!-- TODO: Fallback translation -->
 
 *   1.pl.Ā सञ्चस्करिमहे <!-- TODO: Fallback translation -->
+:::
 
 ### 40.2.4. Perfekt Typ IV: Кореньn auf -ā / -ai
 
-*   Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
-    *   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-*   | :--- | :--- | :--- | :--- |
-    *   | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число |
+*   Окончания первого лица (тритий) в совершенном времени (лит)
+    *   | **парасмаипадaм** | ← | **атменепадаm** | ← |
+*   | :---: | :---: | :---: | :---: |
+    *   | **экавачанaм** | **бахувачанaм** | **экавачанaм** | **бахувачанaм** |
     *   | **-a** | **-ma** | **-e** | **-mahe** |
 
-Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
+Обратите внимание, что окончания первого лица единственного числа парасмаипадама и атменепадама совпадают с окончаниями третьего лица единственного числа. Поэтому во всех типах совершенного времени, кроме типов III(a,b) и V(a,b,c), формы первого лица единственного числа парасмаипадама и атменепадама всегда тождественны формам третьего лица единственного числа парасмаипадама и атменепадама соответственно.
 
-*   Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
+::: indent
+*   В типе IV первое лицо единственного числа парасмаипадама оканчивается на -au, как и третье лицо единственного числа парасмаипадама.
 
-*   Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
+*   В типах совершенного времени III и V первое лицо единственного числа атменепадама всегда тождественно третьему лицу единственного числа атменепадама.
 
-*   Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
+*   В типах совершенного времени III и V первое лицо единственного числа парасмаипадама и третье лицо единственного числа парасмаипадама могут быть тождественными: третье лицо единственного числа парасмаипадама в этих типах образования всегда должно быть в усиленной степени (дхана-гуна), тогда как первое лицо единственного числа парасмаипадама может быть либо в сильной степени (хья-гуна), либо в усиленной степени (дхана-гуна).
 
-*   Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. <!-- TODO: Fallback translation -->
+*   Перед окончаниями, начинающимися с согласной, у большинства корней вставляется связующий гласный -i-.
+:::
 
 ### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
 
-1.sg.P. wahlweise hochstufig oder dehnstufig <!-- TODO: Fallback translation -->
+Окончания первого лица (тритий) в совершенном времени (лит)
 
-#### 40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
+| **парасмаипадaм** | ← | **атменепадаm** | ← |
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+| :---: | :---: | :---: | :---: |
 
-> 1.  gam "gehen" <!-- TODO: Fallback translation -->
-> 2.  han (»ghan) "erschlagen" <!-- TODO: Fallback translation -->
-> 3.  jan "geboren werden" <!-- TODO: Fallback translation -->
-> 4.  vac "sprechen" <!-- TODO: Fallback translation -->
-> 5.  vad "sprechen" <!-- TODO: Fallback translation -->
-> 6.  yaj "opfern" <!-- TODO: Fallback translation -->
-> 7.  u.a. <!-- TODO: Fallback translation -->
+::: indent
+1.  | **экавачанaм** | **бахувачанaм** | **экавачанaм** | **бахувачанaм** |
+2.  | **-a** | **-ma** | **-e** | **-mahe** |
+3.  Обратите внимание, что окончания первого лица единственного числа парасмаипадама и атменепадама совпадают с окончаниями третьего лица единственного числа. Поэтому во всех типах совершенного времени, кроме типов III(a,b) и V(a,b,c), формы первого лица единственного числа парасмаипадама и атменепадама всегда тождественны формам третьего лица единственного числа парасмаипадама и атменепадама соответственно.
+4.  В типе IV первое лицо единственного числа парасмаипадама оканчивается на -au, как и третье лицо единственного числа парасмаипадама.
+5.  В типах совершенного времени III и V первое лицо единственного числа атменепадама всегда тождественно третьему лицу единственного числа атменепадама.
+6.  В типах совершенного времени III и V первое лицо единственного числа парасмаипадама и третье лицо единственного числа парасмаипадама могут быть тождественными: третье лицо единственного числа парасмаипадама в этих типах образования всегда должно быть в усиленной степени (дхана-гуна), тогда как первое лицо единственного числа парасмаипадама может быть либо в сильной степени (хья-гуна), либо в усиленной степени (дхана-гуна).
+7.  Перед окончаниями, начинающимися с согласной, у большинства корней вставляется связующий гласный -i-.
+:::
 
-गम् 1P <!-- TODO: Fallback translation -->
+За исключением окончания -re, перед которым всегда должно стоять -i-, связующий гласный перед окончаниями, начинающимися с согласной, никогда не вставляется у восьми корней на -ṛ или -u, а именно:
 
-*   1.sg.P जगाम । जगम <!-- TODO: Fallback translation -->
+::: indent
+*   कृ 8U (кроме संस्कृ)
 
-*   1.pl.P जग्मिम (ja-gm-i-ma) <!-- TODO: Fallback translation -->
+*   भृ 1U
+:::
 
-हन् 2P <!-- TODO: Fallback translation -->
+वृ 9U «выбирать»
 
-*   1.sg.P जघान । जघन <!-- TODO: Fallback translation -->
+::: indent
+*   सृ 1P
 
-*   1.pl.P जघ्निम <!-- TODO: Fallback translation -->
+*   द्रु 1p «бежать»
+:::
 
 जन् 4Ā
 
-*   1.sg.Ā जज्ञे <!-- TODO: Fallback translation -->
+::: indent
+*   स्तु 2U
 
-*   1.pl.Ā जज्ञिमहे <!-- TODO: Fallback translation -->
+*   स्रु 1P «течь»
+:::
 
-वच् 2P <!-- TODO: Fallback translation -->
+У так называемых факультативных अनит-корней связующий гласный может вставляться по выбору или не вставляться. (Перечень этих корней см. у Киельгорна, Грамматика, стр. 92, § 298b,2,3)
 
+::: indent
 *   1.sg.P उवाच । उवच <!-- TODO: Fallback translation -->
 
 *   1.pl.P ऊचिम (u + uc-ima) <!-- TODO: Fallback translation -->
+:::
 
 वद् 1P (Ā) <!-- TODO: Fallback translation -->
 
+::: indent
 *   1.sg.P उवाद । उवद <!-- TODO: Fallback translation -->
 
 *   1.pl.P ऊदिम <!-- TODO: Fallback translation -->
@@ -260,9 +302,11 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 *   1.sg.Ā ऊदे <!-- TODO: Fallback translation -->
 
 *   1.pl.Ā  ऊदिमहे <!-- TODO: Fallback translation -->
+:::
 
 यज् 1U <!-- TODO: Fallback translation -->
 
+::: indent
 *   1.sg.P इयाज । इयज <!-- TODO: Fallback translation -->
 
 *   1.pl.P ईजिम <!-- TODO: Fallback translation -->
@@ -270,11 +314,13 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 *   1.sg.Ā ईजे <!-- TODO: Fallback translation -->
 
 *   1.pl.Ā ईजिमहे <!-- TODO: Fallback translation -->
+:::
 
 #### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e- <!-- TODO: Fallback translation -->
 
 पच् 1U <!-- TODO: Fallback translation -->
 
+::: indent
 *   1.sg.P पपाच । पपच <!-- TODO: Fallback translation -->
 
 *   1.pl.P पेचिम <!-- TODO: Fallback translation -->
@@ -282,6 +328,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 *   1.sg.Ā पेचे <!-- TODO: Fallback translation -->
 
 *   1.pl.Ā पेचिमहे <!-- TODO: Fallback translation -->
+:::
 
 #### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
 
@@ -291,6 +338,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 क्रम् 1U <!-- TODO: Fallback translation -->
 
+::: indent
 *   1.sg.P चक्राम । चक्रम <!-- TODO: Fallback translation -->
 
 *   1.pl.P चक्रमिम <!-- TODO: Fallback translation -->
@@ -298,201 +346,237 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 *   1.sg.Ā चक्रमे <!-- TODO: Fallback translation -->
 
 *   1.pl.Ā चक्रमिमहे <!-- TODO: Fallback translation -->
+:::
 
 ### 40.2.6. Besondere Perfekt-Образованиеen
 
-Endungen der ersten Person (तृतीयः) im Perfekt (लिट्) <!-- TODO: Fallback translation -->
+Окончания первого лица (тритий) в совершенном времени (лит)
 
-*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+::: indent
+*   | **парасмаипадaм** | ← | **атменепадаm** | ← |
 
-*   | :--- | :--- | :--- | :--- |
+*   | :---: | :---: | :---: | :---: |
+:::
 
-| **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число | **एकवचनम्**[[br]]Единственное число | **बहुवचनम्**[[br]]Множественное число |
+| **экавачанaм** | **бахувачанaм** | **экавачанaм** | **бахувачанaм** |
 
 | **-a** | **-ma** | **-e** | **-mahe** |
 
-*   Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
+::: indent
+*   Обратите внимание, что окончания первого лица единственного числа парасмаипадама и атменепадама совпадают с окончаниями третьего лица единственного числа. Поэтому во всех типах совершенного времени, кроме типов III(a,b) и V(a,b,c), формы первого лица единственного числа парасмаипадама и атменепадама всегда тождественны формам третьего лица единственного числа парасмаипадама и атменепадама соответственно.
 
-*   Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
+*   В типе IV первое лицо единственного числа парасмаипадама оканчивается на -au, как и третье лицо единственного числа парасмаипадама.
+:::
 
-Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
+В типах совершенного времени III и V первое лицо единственного числа атменепадама всегда тождественно третьему лицу единственного числа атменепадама.
 
-*   Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
+::: indent
+*   В типах совершенного времени III и V первое лицо единственного числа парасмаипадама и третье лицо единственного числа парасмаипадама могут быть тождественными: третье лицо единственного числа парасмаипадама в этих типах образования всегда должно быть в усиленной степени (дхана-гуна), тогда как первое лицо единственного числа парасмаипадама может быть либо в сильной степени (хья-гуна), либо в усиленной степени (дхана-гуна).
 
-*   Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. <!-- TODO: Fallback translation -->
+*   Перед окончаниями, начинающимися с согласной, у большинства корней вставляется связующий гласный -i-.
+:::
 
 ## 40.3. Образование der Verbformen der ersten Person des periphrastischen Perfekt (अनुप्रयोगलिट्)
 
-Das periphrastische Perfekt wird gebildet von: <!-- TODO: Fallback translation -->
+Перифрастический перфект образуется от:
 
-*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ <!-- TODO: Fallback translation -->
-*   Кореньn, die mit langem Vokal (außer ā) beginnen <!-- TODO: Fallback translation -->
-*   Кореньn: Vokal (außer a-)-Konsonant-Konsonant <!-- TODO: Fallback translation -->
-*   einigen anderen <!-- TODO: Fallback translation -->
-*   bei einigen Кореньn können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein" <!-- TODO: Fallback translation -->
-*   bei folgende Кореньn  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Презенс-основаs: <!-- TODO: Fallback translation -->
-    *   bhī "sich fürchten" <!-- TODO: Fallback translation -->
-    *   bhṛ "tragen" <!-- TODO: Fallback translation -->
-    *   hu "opfern" <!-- TODO: Fallback translation -->
-    *   hrī "sich schämen" <!-- TODO: Fallback translation -->
+*   производных глагольных основ (каузатив, десидератив, фрекватив, номинальные глаголы), в частности каузатив
+*   корней, начинающихся с длинного гласного (кроме ā)
+*   корней: гласный (кроме a-)-согласный-согласный
+*   некоторых других
+*   у некоторых корней могут опционально образовываться оба перфекта: uṣ «гореть», vid «знать», jāgṛ «бодрствовать», daridrā «быть бедным»
+*   у следующих корней могут опционально образовываться оба перфекта, а также перифрастический перфект является редуплицированным, а именно с редупликационным слогом настоящего времени:
+    *   bhī «бояться»
+    *   bhṛ «нести»
+    *   hu «жертвовать»
+    *   hrī «стыдиться»
 
 ईक्ष् 1Ā
 
-*   1.sg.Ā ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.Ā ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव
 
-*   1.pl.Ā ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम <!-- TODO: Fallback translation -->
+*   1.pl.Ā ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम
+:::
 
-बन्ध् Kausativum P: बन्धयति <!-- TODO: Fallback translation -->
+बन्ध् Каузатив P: बन्धयति
 
-*   1.sg.P बन्धयां चकर । बन्धयां चकार (= 3.sg.P) । बन्धयामास (= 3.sg.P) । बन्धयां बभूव (= 3.sg.P) <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P बन्धयां चकर । बन्धयां चकार (= 3.sg.P) । बन्धयामास (= 3.sg.P) । बन्धयां बभूव (= 3.sg.P)
 
-*   1.pl.P बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम <!-- TODO: Fallback translation -->
+*   1.pl.P बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम
+:::
 
 ## 40.4. Syntaktisches zur ersten Person (तृतीयः)
 
-Da ein Verbum finitum (konjugiertes Verb) den Agens (कर्तृ) mit ausdrückt, braucht das "ich", "wir" in nicht-passiven Verbalsätzen mit Verbum finitum nicht extra durch ein Personalpronomen ausgedrückt werden <!-- TODO: Fallback translation -->
+::: grammar-box
+Поскольку конечная форма глагола (conjugated verb) выражает агенса (कर्तृ), местоимения «я» и «мы» в непассивных глагольных предложениях с конечной формой глагола не требуют дополнительного выражения личным местоимением.
+:::
 
 ## 40.5. Personalpronomen (पुरुषार्थकसर्वनाम) der 1. Person Единственное число und Множественное число
 
-Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe. <!-- TODO: Fallback translation -->
+::: grammar-box
+Форма личного местоимения (личного местоимения) одинакова для всех родов.
+:::
+
 :::: grammar-box
 
-| **विभक्तिः**[[br]]Kasus | **एकवचनम्**[[br]]Единственное число ("ich") | **बहुवचनम्**[[br]]Множественное число ("wir") |
-| :--- | :--- | :--- |
-| **प्रथमा**[[br]]1. Именительный падеж | **अहम्** | **वयम्** |
-| **द्वितीया**[[br]]2. Винительный падеж | **माम्** / **मा** | **अस्मान्** / **नस्** |
-| **तृतीया**[[br]]3. Творительный падеж | **मया** | **अस्माभिस्** |
-| **चतुर्थी**[[br]]4. Дательный падеж | **मह्यम्** / **मे** | **अस्मभ्यम्** / **नस्** |
-| **पञ्चमी**[[br]]5. Отложительный падеж | **मत्** | **अस्मत्** |
-| **षष्ठी**[[br]]6. Родительный падеж | **मम** / **मे** | **अस्माकम्** / **नस्** |
-| **सप्तमी**[[br]]7. Местный падеж | **मयि** | **अस्मासु** |
+| | **एकवचनम्**[[br]]"ich" | **बहुवचनम्**[[br]]"wir" |
+| :---: | :---: | :---: |
+| **प्रथमा** | **अहम्** | **वयम्** |
+| **द्वितीया** | **माम्** / **मा** | **अस्मान्** / **नस्** |
+| **तृतीया** | **मया** | **अस्माभिस्** |
+| **चतुर्थी** | **मह्यम्** / **मे** | **अस्मभ्यम्** / **नस्** |
+| **पञ्चमी** | **मत्** | **अस्मत्** |
+| **षष्ठी** | **मम** / **मे** | **अस्माकम्** / **नस्** |
+| **सप्तमी** | **मयि** | **अस्मासु** |
 
 ::::
 
-Die kürzeren Formen, die oben an zweiter Stelle stehen (मा, मे, नस्) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden. <!-- TODO: Fallback translation -->
+::: grammar-box
+Более короткие формы, указанные выше на втором месте (ма, ме, нас), никогда не могут использоваться в начале предложения или стиха.
 
-Vor den Partikeln च, वा, एव dürfen diese sog. enklitischen Formen ebenfalls nicht gebraucht werden: <!-- TODO: Fallback translation -->
+Перед частицами ча, ва, эва также нельзя использовать так называемые энклитические формы:
 
-nur: ... मां च ... "und mich" <!-- TODO: Fallback translation -->
+только: ... мам ча ... «и меня»
+:::
 
-| षष्ठी | मम   | | <!-- TODO: Fallback translation -->
+::: grammar-box
+Родительный падеж (шашти) личных местоимений используется как притяжательное местоимение:
 
-मम । मे = "mein" <!-- TODO: Fallback translation -->
+мама | ме = «мой»
 
-अस्माकम् । नस् = "unser" <!-- TODO: Fallback translation -->
+асмакам | нас = «наш»
+:::
 
-| **7. Lokativ** | **mayi**[[br]](मयि) | **asmāsu**[[br]](अस्मासु) | <!-- TODO: Fallback translation -->
+::: grammar-box
+В качестве первого компонента составных слов для этих местоимений используются основы:
 
-*   sg. मद् <!-- TODO: Fallback translation -->
-*   pl. अस्मद् <!-- TODO: Fallback translation -->
+*   ед. ч. мад
+*   мн. ч. асмад
 
-z.B. मत्पुस्तकम् "mein Buch" ; अस्मद्पुस्तकानि "unsere Bücher" <!-- TODO: Fallback translation -->
+напр. матпустакам «моя книга»; асмдапустакани «наши книги»
+:::
 
 ## 40.6. Словарь
 
-पात्र n.: Ehrwürdiger, Meister, Würdiger <!-- TODO: Fallback translation -->
+पात्र n.: Достопочтенный, учитель, достойный
 
-मेधा f.: Weisheit, Verstand, Gedanke <!-- TODO: Fallback translation -->
+मेधा f.: Мудрость, разум, мысль
 
-पुस्तक m.n.: Manuskript, Buch <!-- TODO: Fallback translation -->
+पुस्तक m.n.: Рукопись, книга
 
-कॢप् 1Ā कल्पते : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschließen zu, sich bequemen zu (Dativ) <!-- TODO: Fallback translation -->
+कॢप् 1Ā कल्पते : быть в правильном порядке, подходить к (локатив); формироваться, образовываться; решаться на что-либо, соглашаться на что-либо (датив)
 
-> Perf. II चकॢपे fakultativ अनिट्   <!-- TODO: Fallback translation -->
-> Fut. कल्पिष्यते । कल्प्स्यते   <!-- TODO: Fallback translation -->
-> Kaus. कल्पयति : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden   <!-- TODO: Fallback translation -->
-> PPP कॢप्त   <!-- TODO: Fallback translation -->
-> Inf. कल्पितुम् । कल्प्तुम् <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> कल्पना f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion <!-- TODO: Fallback translation -->
+::: indent
+Перфект II चकॢपе факультативно анит  
+Фьютур कल्पिष्यते । कल्प्स्यते  
+Каузатив कल्पयति : приводить в порядок, создавать, создавать в воображении, вообразить  
+PPP कॢप्त  
+Инфинитив कल्पितुम् । कल्प्तुम्
 
-कॢप् + वि Kaus. विकल्पयति : (sich verschieden vorstellen =) in Frage stellen, bezweifeln <!-- TODO: Fallback translation -->
+от этого:
 
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> विक्ल्प m.: Alternative, Zweifel <!-- TODO: Fallback translation -->
+कल्पना f.: Мысленное создание, предположение о чем-либо не существующем в действительности, фикция
+:::
 
-तुद् 6U तुदति : schlagen <!-- TODO: Fallback translation -->
+कॢप् + वि Каузатив विकल्पयति : (представлять себе по-разному =) ставить под вопрос, сомневаться
 
-> Perf. II तुतोद, तुतुदुर्   <!-- TODO: Fallback translation -->
-> Fut. तोत्स्यति   <!-- TODO: Fallback translation -->
-> Pass. तुद्यते   <!-- TODO: Fallback translation -->
-> Kaus. तोदयति   <!-- TODO: Fallback translation -->
-> PPP तुन्न (tud + na)   <!-- TODO: Fallback translation -->
-> Inf. तोत्तुम् <!-- TODO: Fallback translation -->
+::: indent
+от этого:
 
-तॄ 1P तरति :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten) <!-- TODO: Fallback translation -->
+विक्ल्प m.: Альтернатива, сомнение
+:::
 
-> Perf. IIIb ततार, ततरुर् । तेरुर्   <!-- TODO: Fallback translation -->
-> Fut. तरिष्यति । तरीष्यति   <!-- TODO: Fallback translation -->
-> Pass. तीर्यते   <!-- TODO: Fallback translation -->
-> Kaus. तारयति   <!-- TODO: Fallback translation -->
-> PPP तीर्ण   <!-- TODO: Fallback translation -->
-> Inf. तरितुम् । तरीतुम् <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> तीर्थ n.: Furt, heiliger Badeplatz, Pilgerort <!-- TODO: Fallback translation -->
+तुद् 6U तुदति : бить
+
+::: indent
+Перфект II तुतोद, तुतुदुर्  
+Фьютур तोत्स्यति  
+Пассив туद्यते  
+Каузатив तोदयति  
+PPP तुन्न (tud + na)  
+Инфинитив तोत्तुम्
+:::
+
+तॄ 1P तरति : переходить, пересекать, спасаться от кого-либо (акк. = пересекать кого-либо)
+
+::: indent
+Перфект IIIb ततार, ततरुर् । तेरुर्  
+Фьюतर तरिष्यति । तरीष्यति  
+Пассив तीर्यते  
+Каузатив तारयति  
+PPP तीर्ण  
+Инфинитив तरितुम् । तरीतुम्
+
+от этого:
+
+तीर्थ n.: Брод, священное место для омовения, место паломничества
+:::
 
 ::: media
 ![lekt4003.jpg](/images/lekt4003.jpg)
-Abb.: हरिद्वारे तीर्थम्
-(Bildquelle: [Details](/licenses#lekt4003)) <!-- TODO: Fallback translation -->
+Рис.: हरिद्वारे तीर्थम्
+(Источник изображения: [Детали](/licenses#lekt4003))
 :::
 
-> तीर्थङ्कर m. (aus: तीर्थम्+ कृ): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina <!-- TODO: Fallback translation -->
+::: indent
+तीर्थङ्कर m. (от: तीर्थम्+ कृ): создатель брода (через страдание) = 24 учителя джайнов
+:::
 
 ::: media
 ![lekt4002.jpg](/images/lekt4002.jpg)
-Abb.: तीर्थङ्करः
-(Bildquelle: [Details](/licenses#lekt4002)) <!-- TODO: Fallback translation -->
+Рис.: तीर्थङ्करः
+(Источник изображения: [Детали](/licenses#lekt4002))
 :::
 
-अव Präverb.: herab, hinab, weg, ab- <!-- TODO: Fallback translation -->
+अव Предлог: вниз, прочь, с-
 
-तॄ + अव 1P अवतरति : herabsteigen <!-- TODO: Fallback translation -->
+तॄ + अव 1P अवतरति : спускаться
 
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> अवतार m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309) <!-- TODO: Fallback translation -->
+::: indent
+от этого:
+
+अवतार m.: (спускающийся, спуск) воплощение бога, особенно Вишну 10 воплощений (см. Башам, Чудо стр. 304 - 309)
+:::
 
 ::: media
 ![lekt4001.jpg](/images/lekt4001.jpg)
-Abb.: विष्णोर्दशावताराः
-(Bildquelle: [Details](/licenses#lekt4001)) <!-- TODO: Fallback translation -->
+Рис.: विष्णोर्दशावताराः
+(Источник изображения: [Детали](/licenses#lekt4001))
 :::
 
-स्वप् 2P स्वपिति,  स्वपन्ति : schlafen, sich schlafen legen <!-- TODO: Fallback translation -->
+स्वप् 2P स्वपिति,  स्वपन्ति : спать, ложиться спать
 
-> Impf. अस्वपीत् । अस्वपत्   <!-- TODO: Fallback translation -->
-> Perf. सुष्वाप, सुषुपुर्   <!-- TODO: Fallback translation -->
-> Fut. स्वप्स्यति   <!-- TODO: Fallback translation -->
-> Pass. सुप्यते (aus \*svp-ya-te)   <!-- TODO: Fallback translation -->
-> Kaus. स्वापयति   <!-- TODO: Fallback translation -->
-> PPP सुप्त   <!-- TODO: Fallback translation -->
-> Inf. स्वप्तुम् <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> स्वप्न m.: Schlaf, Traum <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> सुप्ति f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf <!-- TODO: Fallback translation -->
+::: indent
+Имперфект अस्वपीत् । अस्वपत्  
+Перфект सुष्वाप, सुषुपुर्  
+Фьютур स्वप्स्यति  
+Пассив सुप्यते (от \*svp-ya-te)  
+Каузатив स्वापयति  
+PPP सुप्त  
+Инфинитив स्वप्तुम्
+
+от этого:
+
+स्वप्न m.: Сон, сон (во сне)
+
+सुप्ति f. (от \*svp-ti): Сон, особенно глубокий сон
+:::
 
 ::: media
 ![lekt4004.jpg](/images/lekt4004.jpg)
-Abb.: स्वपन्ति
-(Bildquelle: [Details](/licenses#lekt4004)) <!-- TODO: Fallback translation -->
+Рис.: स्वपन्ति
+(Источник изображения: [Детали](/licenses#lekt4004))
 :::
 
 ## 40.7. Упражнение
 
-A) Übersetzen sie die सुभाषितानि am Beginn der Lektion. <!-- TODO: Fallback translation -->
+A) Переведите सुभाषитāни в начале урока.
 
-B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei mehreren Möglichkeiten, geben Sie bitte alle Möglichkeiten an. <!-- TODO: Fallback translation -->
+B) Преобразуйте следующие глагольные формы в соответствующие формы перфекта. При наличии нескольких вариантов укажите, пожалуйста, все возможные варианты.
 
-(Zeichenerklärung: अ = अनिट्, इ = fakultativ अनिट्) <!-- TODO: Fallback translation -->
+(Обозначения: अ = анит, и = факультативно анит)
 
 1.  अश्नीमः
 2.  स्मः
@@ -546,9 +630,9 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 50.  पुने
 51.  भुञ्ज्मः
 52.  स्मरिष्यामः
-53.  अभजाम (geht nach Typ Vb) <!-- TODO: Fallback translation -->
+53.  अभजाम (подчиняется типу Vb)
 54.  जेष्यामः
-55.  आसे (periphrast.) <!-- TODO: Fallback translation -->
+55.  आसे (перифрастическая форма)
 56.  विन्दामः
 57.  धक्ष्यामः
 58.  शक्नुमः

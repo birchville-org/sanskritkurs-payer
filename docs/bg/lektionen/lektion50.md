@@ -1,0 +1,319 @@
+
+
+# Lektion 50
+
+## 50.1. Nominalbildung: regelmäßige Steigerung
+
+Die regelmäßige Steigerung erfolgt im Sanskrit mit den तद्धित-Suffixen &lt;!-- TODO: Fallback translation --&gt;
+
+*   \-तर (fem.: तरा) im "Komparativ" &lt;!-- TODO: Fallback translation --&gt;
+*   तम (fem.: तमा) im "Superlativ" &lt;!-- TODO: Fallback translation --&gt;
+
+Diese Suffixe werden bei Adjektiven an den Maskulinstamm angefügt. Bei Nomina mit Stammabstufung werden sie an den schwachen Stamm angefügt, die die form hat wie vor der Endung -su des Lokativ (पञ्चमी) Plural. &lt;!-- TODO: Fallback translation --&gt;
+
+::: media
+![]/images/lekt5007.jpg
+Abb.: लोकस्योत्तमो गिरिः  
+Abb.: सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest  
+\[Bildquelle: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\] &lt;!-- TODO: Fallback translation --&gt;
+:::
+Bedeutung: &lt;!-- TODO: Fallback translation --&gt;
+
+Der "Komparativ" bedeutet, wenn kein verglichener Gegenstand ausgedrückt wird: "ziemlich, sehr, zu": &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+z.B. सुचितर 3 "ziemlich rein", "sehr rein", "zu rein" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Ablativ (पञ्चमी). Komparativ + Ablativ entspricht der Steigerung mit "als" im Deutschen. &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+z.B. देवदत्ताद्रामो धीमत्तरः = wörtl.: "von Devadatta aus gesehen ist Rāma einsichtiger" = "Rāma ist einsichtiger als Devadatta" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äußerst, sehr": &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+z.B. सत्तम 3 (zu सन्त्) "äußerst gut, sehr gut" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Genetiv (षष्ठी) ("von", "unter") und der Superlativ entspricht dem deutschen Superlativ (Höchststufe): &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+z.B. द्विजानां सत्तमः = "der beste der Zweimalgeborenen" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+Die Suffixe -तर und -तम können nicht nur an Adjektive treten, sondern auch an Substantive, Indeklinabilia und sogar Verbalformen: &lt;!-- TODO: Fallback translation --&gt;
+
+Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+गजतम m. "der beste Elefant" (गज) (auch Bezeichnung Buddhas) &lt;!-- TODO: Fallback translation --&gt;
+
+गोतम m. "der größte Ochse" (गो) oder: "am reichsten an Rindern" &lt;!-- TODO: Fallback translation --&gt;
+
+उद् Indekl. "auf", "hinauf" » उत्तर 3 "höherer" » उत्तम 3 "höchster" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+&lt;!-- TODO: Fallback translation --&gt;
+
+*   \-तराम्
+*   \-तमाम्
+
+&lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+पचतितराम् "er/sie/es kocht besser" &lt;!-- TODO: Fallback translation --&gt;
+
+पचतितमाम् "er/sie/es kocht am besten" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+Treten diese Suffixe an eine Verbalform, so erscheinen sie stets in der adverbialen Form: &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+z.B. सुतराम् (zu सु) "auf bessere Weise" (adverbial) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: media
+![]/images/lekt5006.jpg
+Abb.: का पचतितमाम्  
+Lisu = 傈僳族, अरुणाचल प्रदेश  
+\[Bildquelle: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]   &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+## 50.2. Речник
+
+ध्रुव 3: fest, unveränderlich &lt;!-- TODO: Fallback translation --&gt;
+
+निषेक m.: Besprengung, Befruchtung, Flüssigkeit, Ejakulat, Zeremonie bei der Zeugung &lt;!-- TODO: Fallback translation --&gt;
+
+पण्डित 3: klug, weise, gelehrt &lt;!-- TODO: Fallback translation --&gt;
+
+मन् + अव 4Ā अवमन्यते : missachten, verachten &lt;!-- TODO: Fallback translation --&gt;
+
+मन्त्रिन् 3: ratgebend ; m.: Berater, Ratsherr, Minister &lt;!-- TODO: Fallback translation --&gt;
+
+::: media
+![]/images/lekt5001.jpg
+Abb.: मन्त्री  
+Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)  
+\[Bildquelle: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)\]  &lt;!-- TODO: Fallback translation --&gt;
+:::
+रहस् n.: Geheimnis, Einsamkeit &lt;!-- TODO: Fallback translation --&gt;
+
+रिष् 1P रिषति 4P रिष्यति : geschädigt werden, misslingen, beschädigen &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+Perf. II रिरेष, रिरिषुर्   &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+लुप् 6U लुम्पति : brechen, zerstören &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+Gerundiv लुप्य । लोप्य &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+विधि m.: auch: Schicksal (zu विधा) &lt;!-- TODO: Fallback translation --&gt;
+
+वृष् 1P वर्षति : regnen (meist mit einem कर्तृ -- einem Gott oder einer Wolke) &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+Absol. वर्षित्वा । वृष्ट्वा   &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: media
+![]/images/lekt5002.jpg
+Abb.: महामेघो वर्षिष्यति  
+Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು  
+\[Bildquelle: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
+:::
+संयक् Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig &lt;!-- TODO: Fallback translation --&gt;
+
+आदित्य m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse &lt;!-- TODO: Fallback translation --&gt;
+
+::: media
+![]/images/lekt5005.jpg
+Abb.: आदित्यः  
+\[Bildquelle: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+:::
+सर्व 3: jeder, alle &lt;!-- TODO: Fallback translation --&gt;
+
+Deklination wie यद् (Ausnahme: Nom.Akk.sg.Neutrum) &lt;!-- TODO: Fallback translation --&gt;
+
+|   | Единствено число | | | | |
+एकवचनम् | Plural   | | | | | |
+बहुवचनम् | | | | | | | &lt;!-- TODO: Fallback translation --&gt;
+| --- | --- | --- | --- | --- | --- |
+| Мъжки род | | | | | |
+पुंस् | Neutrum   | | | | | |
+नपुंसकम् | Femininum   | | | | | |
+स्त्री | Maskulinum   | | | | | |
+पुंस् | Neutrum   | | | | | |
+नपुंसकम् | Femininum   | | | | | |
+स्त्री | | | | | | | &lt;!-- TODO: Fallback translation --&gt;
+| सर्वस् | सर्वम् | सर्वा | सर्वे | सर्वाणि | सर्वास् |
+| 1\. Номинатив | | | | | |
+१. प्रथमा | | | | | | |
+| 2\. Акузатив | | | | | |
+२. द्वितीया | सर्वम् | सर्वम् | सर्वाम् | सर्वान् | सर्वाणि | सर्वास् |
+| 3\. Инструменталис | | | | | |
+३. तृतीया | सर्वेण | सर्वया | सर्वैस् | सर्वाभिस् | | |
+| 4\. Датив | | | | | |
+४. चतुर्थी | सर्वस्मै | सर्वस्यै | सर्वेभ्यस् | सर्वाभ्यस् | | |
+| 5\. Аблатив | | | | | |
+५. पञ्चमी | सर्वस्मात् | सर्वस्यास् | सर्वेभ्यस् | सर्वाभ्यस् | | |
+| 6\. Генетив | | | | | |
+६. षष्ठी | सर्वस्य | सर्वस्यास् | सर्वेषाम् | सर्वासाम् | | |
+| 7\. Локатив | | | | | |
+७. सप्तमी | सर्वस्मिन् | सर्वस्याम् | सर्वेषु | सर्वासु | | |
+
+वै : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber &lt;!-- TODO: Fallback translation --&gt;
+
+इह Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (षष्ठी) gleichbedeutend mit अस्मिन्, अस्याम् &lt;!-- TODO: Fallback translation --&gt;
+
+कल्प m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu कॢप्) &lt;!-- TODO: Fallback translation --&gt;
+
+कल्याण 3 (f.: कल्याणी) :schön &lt;!-- TODO: Fallback translation --&gt;
+
+::: media
+![]/images/lekt5003.jpg
+Abb.: कल्याणी  
+\[Bildquelle: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
+:::
+कु- : als Vorderglied von Komposita: schlecht &lt;!-- TODO: Fallback translation --&gt;
+
+::: media
+![]/images/lekt5004.jpg
+Abb.: कुनगरम्  
+धारावी, मुंबई  
+\[Bildquelle: Kounosu / Wikipedia. GNU FDLicense\] &lt;!-- TODO: Fallback translation --&gt;
+:::
+चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : sehen &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+Perf. चचक्षे   &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+चक्ष् + प्र 2Ā प्रचष्टे : erzählen, halten für, nennen &lt;!-- TODO: Fallback translation --&gt;
+
+देश m.: Ort, Platz, Land, Gegend &lt;!-- TODO: Fallback translation --&gt;
+
+## 50.3. Упражнение за превод
+
+A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsformen im Singular zu गुरु m.: &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+गुरुरेव गतिर्गुरुमेव भजे
+गुरुणैव सहास्मि नमो गुरवे ।
+न गुरोः परमं शिशुरस्मि गुरोर्
+मतिरस्ति गुरौ मम पाहि गुरो ॥
+:::
+
+::: media
+![]/images/lekt5008.jpg
+Abb.: गुरुमेव भजे  
+Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt  
+\[Bildquelle: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+:::
+गुरुरेव गतिर्गुरुमेव भजे  
+
+मनुस्मृति ४, १७८
+
+::: indent
+येनास्य पितरो याता
+येन याताः पितामहाः ।
+तेन यायात्सतां मार्गम्
+तेन गच्छन्न रिष्यते ॥१॥
+:::
+
+मनुस्मृति ३, ६३
+
+::: indent
+कुविवाहैः क्रियालोपैर्
+वेदानध्ययनेन च ।
+कुलान्यकुलतां यान्ति
+ब्राह्मणातिक्रमेण च ॥२॥
+:::
+
+मनुस्मृति ३, ६०
+
+::: indent
+संतुष्टो भार्यया भर्ता
+भर्त्रा भार्या तथैव च ।
+यस्मिन्नेव कुले नित्यम्
+कल्याणं तत्र वै ध्रुवम् ॥३॥
+:::
+
+मनुस्मृति ३, ७५ - ७६: Über die Notwendigkeit des Opfers &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+स्वाध्याये नित्ययुक्तः स्याद्
+दैवे चैवेह कर्मणि ।
+दैवे कर्मणि युक्तो हि
+बिभर्तीदं चराचरम् ॥४॥
+अग्नौ प्रास्ताहुतिः सम्यग्
+आदित्यमुपतिष्ठते ।
+आदित्याज्जायते वृष्टिर्
+वृष्टेरन्नं ततः प्रजाः ॥५॥
+:::
+
+योगसूत्र २, १६ - १७
+
+::: indent
+हेयं दुःखमनागतम् ॥६॥
+द्रष्टृदृश्ययोः संयोगो हेयहेतुः ॥७॥
+
+द्रष्टृदृश्ययोः : Gen.Lok.m.n.f.Dual (Dualdvandva) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+कौटिलीयार्थशास्त्र १, १५: Über Ratgeber des Königs &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+न किंचिदवमन्येत
+सर्वस्य शृणुयानमतम् ।
+बालस्याप्यर्थवद्वाक्यम्
+उपयुन्जीत पाण्डितः ॥८॥
+:::
+
+मनुस्मृति २, १४० - १४२: Definition von आचार्य, उपाध्याय, गुरु &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+उपनीय तु यः शिष्यं
+वेदमधापयेत्द्द्विजः ।
+सकल्पं सरहस्यं च
+तमाचार्यां प्रचक्षते ॥९॥
+
+एकदेशं तु वेदस्य
+वेदाङ्गान्यपि वा पुनः ।
+यो ऽध्यापयति वृत्त्यर्थम्
+उपाध्यायः स उच्यते ॥१०॥
+
+निषेकादीनि कर्माणि
+यः करोति यथाविधि ।
+संभावयति चान्नेन
+स विप्रो गुरुरुच्यते ॥११॥
+
+निषेकादीनि कर्माणि  
+:::
+
+::: deleteme-box
+
+### Източници
+
+**lekt5007:** Abb.: सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Bildquelle: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+
+**lekt5006:** Lisu = 傈僳族, अरुणाचल प्रदेश [Bildquelle: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+
+**lekt5001:** Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Bildquelle: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+
+**lekt5002:** Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು [Bildquelle: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+
+**lekt5005:** [Bildquelle: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+
+**lekt5003:** [Bildquelle: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+
+**lekt5004:** धारावी, मुंबई [Bildquelle: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+
+**lekt5008:** Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt [Bildquelle: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+
+:::

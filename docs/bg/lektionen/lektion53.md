@@ -1,0 +1,726 @@
+---
+title: Lektion 53
+lesson_id: 53
+--- &lt;!-- TODO: Fallback translation --&gt;
+
+# Lektion 53
+
+## 53.1. Der Двойствено число (द्विवचन n.) der Nomina
+
+::: grammar-box
+**Der Dual (द्विवचनम्) wird verwendet, um "zwei" zu bezeichnen:** &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**अश्विनौ** "die beiden Aśvin" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:** &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**हस्तौ** "die Hände (eines Individuums)"   &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**पादौ** "die Füße (eines Menschen, Affen oder sonstigen Zweifüßers)" &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**पितरौ** "Vater und Mutter = Eltern" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**Wörter, die "ein Paar" bedeuten - z.B. युग n., द्वन्द्व n., द्वय n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:** &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**बाहुद्वयम्** "ein Paar Arme" &lt;!-- TODO: Fallback translation --&gt;
+:::
+:::
+
+::: media
+![](/images/lekt5301.jpg)
+Abb.: मार्जारयुगम्
+(Bildquelle: [Details](/licenses#lekt5301)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: media
+![](/images/lekt5302.jpg)
+Abb.: हस्तौ
+(Bildquelle: [Details](/licenses#lekt5302)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+## 53.2. Двойствено числоendungen des Nomen
+
+::: grammar-box
+|   | Maskulininum/Женски род [[br]] पुंस्/स्त्री | Среден род [[br]] नपुंसक | |
+| :---: | :---: | :---: | --- |
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | -au | -ī | |
+| **तृतीया, चतुर्थी, पञ्चमी** | -bhyām || |
+| **षष्ठी, सप्तमी** | -os || |
+:::
+
+::: grammar-box
+**Bei Nomina mit Stammabstufung haben der Nom.Akk.Vok.Dual m.f. den starken Stamm** &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+## 53.3. Der Двойствено число konsonantisch auslautender Stämme
+
+### 53.3.1. Stämme ohne Основаabstufung
+
+सत्यवाच् 3 "die Wahrheit sprechend" <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Maskulininum/Femininum [[br]] पुंस्/स्त्री | Neutrum [[br]] नपुंसक | | <!-- TODO: Fallback translation -->
+| :---: | :---: | :---: | --- | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | सत्यवाचौ | सत्यवाची | | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | सत्यवाग्भ्याम् || | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | सत्यवाचोस् || | <!-- TODO: Fallback translation -->
+:::
+
+बलिन 3 "(besonders) stark" <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Maskulininum [[br]] पुंस् | Neutrum [[br]] नपुंसक | | <!-- TODO: Fallback translation -->
+| :---: | :---: | :---: | --- | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | बलिनौ | बलिनी | | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | बलिभ्याम् || | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | बलिनोस् || | <!-- TODO: Fallback translation -->
+:::
+
+सुमनस् 3 "wohlgesinnt" <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Maskulininum/Femininum [[br]] पुंस्/स्त्री | Neutrum [[br]] नपुंसक | | <!-- TODO: Fallback translation -->
+| :---: | :---: | :---: | --- | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | सुमनसौ | सुमनसी | | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | सुमनोभ्याम् || | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | सुमनसोस् || | <!-- TODO: Fallback translation -->
+:::
+
+हविस् n. "Opfergabe" <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Neutrum [[br]] नपुंसक | <!-- TODO: Fallback translation -->
+| :---: | :---: | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | हविषी | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | हविर्भ्याम् | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | हविषोस् | <!-- TODO: Fallback translation -->
+:::
+
+दीर्घायुस् 3 "langlebig" <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Maskulininum/Femininum [[br]] पुंस्/स्त्री | Neutrum [[br]] नपुंसक | | <!-- TODO: Fallback translation -->
+| :---: | :---: | :---: | --- | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | दीर्घायुषौ | दीर्घायुषी | | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | दीर्घायुर्भ्याम् || | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | दीर्घायुषोस् || | <!-- TODO: Fallback translation -->
+:::
+
+### 53.3.2. Stämme mit Основаabstufung
+
+**Partizip Präsens Parasmaipada** <!-- TODO: Fallback translation -->
+
+भरन्त् 3 "tragend" <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Maskulininum [[br]] पुंस् | Neutrum [[br]] नपुंसक | | <!-- TODO: Fallback translation -->
+| :---: | :---: | :---: | --- | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | भरन्तौ | भरन्ती (!) | | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | भरद्भ्याम् || | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | भरतोस् || | <!-- TODO: Fallback translation -->
+:::
+
+::: media
+![](/images/lekt5305.jpg)
+Abb.: भरन्तौ
+(Bildquelle: [Details](/licenses#lekt5305)) <!-- TODO: Fallback translation -->
+:::
+
+ददत् 3 "gebend" <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Maskulininum [[br]] पुंस् | Neutrum [[br]] नपुंसक | | <!-- TODO: Fallback translation -->
+| :---: | :---: | :---: | --- | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | ददतौ | ददती | | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | ददद्भ्याम् || | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | ददतोस् || | <!-- TODO: Fallback translation -->
+:::
+
+**Stämme auf -mant/-vant** <!-- TODO: Fallback translation -->
+
+पशुमन्त् 3 "Vieh besitzend" <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Maskulininum [[br]] पुंस् | Neutrum [[br]] नपुंसक | | <!-- TODO: Fallback translation -->
+| :---: | :---: | :---: | --- | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | पशुमन्तौ | पशुमती | | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | पशुमद्भ्याम् || | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | पशुमतोस् || | <!-- TODO: Fallback translation -->
+:::
+
+महान्त् 3 "groß" <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Maskulininum [[br]] पुंस् | Neutrum [[br]] नपुंसक | | <!-- TODO: Fallback translation -->
+| :---: | :---: | :---: | --- | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | महान्तौ | महती | | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | महद्भ्याम् || | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | महतोस् || | <!-- TODO: Fallback translation -->
+:::
+
+आत्मन् m. <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Maskulininum [[br]] पुंस् | <!-- TODO: Fallback translation -->
+| :---: | :---: | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | आत्मानौ | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | आत्मभ्याम् | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | आत्मनोस् | <!-- TODO: Fallback translation -->
+:::
+
+ब्रह्मन् n. <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Neutrum [[br]] नपुंसक | <!-- TODO: Fallback translation -->
+| :---: | :---: | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | ब्रह्मणी | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | ब्रह्मभ्याम् | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | ब्रह्मणोस् | <!-- TODO: Fallback translation -->
+:::
+
+राजन् m. "König" <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Maskulininum [[br]] पुंस् | <!-- TODO: Fallback translation -->
+| :---: | :---: | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | राजानौ | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | राजभ्याम् | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | राज्ञोस् | <!-- TODO: Fallback translation -->
+:::
+
+सीमन् f. "Grenze" <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Femininum [[br]] स्त्री | <!-- TODO: Fallback translation -->
+| :---: | :---: | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | सीमानौ | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | सीमभ्याम् | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | सीम्नोस् | <!-- TODO: Fallback translation -->
+:::
+
+नामन् n. "Name" <!-- TODO: Fallback translation -->
+
+::: grammar-box
+|   | Neutrum [[br]] नपुंसक | <!-- TODO: Fallback translation -->
+| :---: | :---: | <!-- TODO: Fallback translation -->
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | नाम्नी [[br]] नामानी | <!-- TODO: Fallback translation -->
+| **तृतीया, चतुर्थी, पञ्चमी** | नामभ्याम् | <!-- TODO: Fallback translation -->
+| **षष्ठी, सप्तमी** | नाम्नोस् | <!-- TODO: Fallback translation -->
+:::
+
+## 53.4. Der Двойствено число vokalisch auslautender Stämme
+
+**Stämme auf -a** &lt;!-- TODO: Fallback translation --&gt;
+
+देव m. "Gott"  
+फल n. "Frucht" &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+|   | Maskulininum [[br]] पुंस् | Среден род [[br]] नपुंसक |
+| :---: | :---: | :---: |
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | देवौ | फले |
+| **तृतीया, चतुर्थी, पञ्चमी** | देवाभ्याम् | फलाभ्याम् |
+| **षष्ठी, सप्तमी** | देवयोस् | फलयोस् |
+:::
+
+::: media
+![](/images/lekt5306.jpg)
+Abb.: फले
+(Bildquelle: [Details](/licenses#lekt5306)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**Stämme auf -i** &lt;!-- TODO: Fallback translation --&gt;
+
+अग्नि m. "Feuer"  
+वारि n. "Wasser"  
+मति f. "Gedanke" &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+|   | Maskulininum [[br]] पुंस् | Женски род [[br]] स्त्री | Среден род [[br]] नपुंसक |
+| :---: | :---: | :---: | :---: |
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | अग्नी | मती | वारिणी |
+| **तृतीया, चतुर्थी, पञ्चमी** | अग्निभ्याम् | मतिभ्याम् | वारिभ्याम् |
+| **षष्ठी, सप्तमी** | अग्न्योस् | मत्योस् | वारिणोस् |
+:::
+
+**Stämme auf -u** &lt;!-- TODO: Fallback translation --&gt;
+
+शत्रु m.  
+धिनु f.  
+मधु n. &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+|   | Maskulininum [[br]] पुंस् | Женски род [[br]] स्त्री | Среден род [[br]] नपुंसक |
+| :---: | :---: | :---: | :---: |
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | शत्रू | धेनू | मधुनी |
+| **तृतीया, चतुर्थी, पञ्चमी** | शत्रुभ्याम् | धेनुभ्याम् | मधुभ्याम् |
+| **षष्ठी, सप्तमी** | शत्र्वोस् | धेन्वोस् | मधुनोस् |
+:::
+
+::: media
+![](/images/lekt5307.jpg)
+Abb.: धेनू
+(Bildquelle: [Details](/licenses#lekt5307)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**Stämme auf -ā** &lt;!-- TODO: Fallback translation --&gt;
+
+कन्या f. "Mädchen" &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+|   | Женски род [[br]] स्त्री |
+| :---: | :---: |
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | कन्ये |
+| **तृतीया, चतुर्थी, पञ्चमी** | कन्याभ्याम् |
+| **षष्ठी, सप्तमी** | कन्ययोस् |
+:::
+
+**Mehrsilbige Stämme auf -ī** &lt;!-- TODO: Fallback translation --&gt;
+
+देवी f. "Göttin" &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+|   | Женски род [[br]] स्त्री |
+| :---: | :---: |
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | देव्यौ |
+| **तृतीया, चतुर्थी, पञ्चमी** | देवीभ्याम् |
+| **षष्ठी, सप्तमी** | देव्योस् |
+:::
+
+**Stämme auf -ṛ** &lt;!-- TODO: Fallback translation --&gt;
+
+दातृ 3 "Geber" &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+|   | Maskulininum/Женски род [[br]] पुंस्/स्त्री | Среден род [[br]] नपुंसक | |
+| :---: | :---: | :---: | --- |
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | दातारौ | दातरिणी | |
+| **तृतीया, चतुर्थी, पञ्चमी** | दातृभ्याम् || |
+| **षष्ठी, सप्तमी** | दात्रोस् || |
+:::
+
+पितृ m. "Vater" &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+|   | Maskulininum [[br]] पुंस् |
+| :---: | :---: |
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | पितरौ |
+| **तृतीया, चतुर्थी, पञ्चमी** | पितृभ्याम् |
+| **षष्ठी, सप्तमी** | पित्रोस् |
+:::
+
+## 53.5. Двойствено числоdvandva
+
+Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+::: indent
+**अर्थधर्मौ** "Nutzen (अर्थ) und Dharma"   &lt;!-- TODO: Fallback translation --&gt;
+:::
+:::
+
+::: grammar-box
+**युधिष्ठिरार्जुनौ** "Yudhiṣṭhira und Arjuna"   &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**मातापितरौ** "Mutter und Vater" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -पुत्र :** &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**पितापुत्रौ** "Vater und Sohn" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**सुखदुःखे** (neben: सुखदुःखम्) "Glück und Leid"   &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**मित्रावरुणौ** "Mitra und Varuṇa"   &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**शीतोष्णे** "Kälte und Wärme" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: media
+![](/images/lekt5308.jpg)
+Abb.: पितापुत्रौ
+(Bildquelle: [Details](/licenses#lekt5308)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+## 53.6. Der Двойствено число von Pronomina
+
+::: grammar-box
+|   | तद् | एतद् | इदम् | यद् | किम् | |
+| :--- | :---: | :---: | :---: | :---: | :---: | --- |
+| **Maskulinum** |   |   |   |   |   | |
+| **प्रथमा** | तौ | एतौ | इमौ | यौ | कौ | |
+| **द्वितीया** | तौ | एतौ [[br]] एनौ | इमौ [[br]] एनौ | यौ | कौ | |
+| **तृतीया, चतुर्थी, पञ्चमी** | ताभ्याम् | एताभ्याम् | आभ्याम् | याभ्याम् | काभ्याम् | |
+| **षष्ठी, सप्तमी** | तयोस् | एतयोस् [[br]] एनयोस् | अनयोस् [[br]] एनयोस् | ययोस् | कयोस् | |
+|   |   || || | |
+| **Neutrum** |   |   |   |   |   | |
+| **प्रथमा** | ते | एते | इमे | ये | के | |
+| **द्वितीया** | ते | एते [[br]] एने | इमे [[br]] एने | ये | के | |
+|   | Rest wie Мъжки род || || | |
+|   |   || || | |
+| **Femininum** |   |   |   |   |   | |
+| **प्रथमा** | ते | एते | इमे | ये | के | |
+| **द्वितीया** | ते | एते [[br]] एने | इमे [[br]] एने | ये | के | |
+|   | Rest wie Мъжки род || || | |
+:::
+
+कतर 3 "wer von beiden" und कतम 3 "wer von mehreren" werden in allen Kasus wie यद् dekliniert. &lt;!-- TODO: Fallback translation --&gt;
+
+## 53.7. Pronominaladjektive
+
+Folgende Pronominaladjektive werden in allen Kasus wie यद् dekliniert: &lt;!-- TODO: Fallback translation --&gt;
+
+*   अन्य 3 "ein anderer" &lt;!-- TODO: Fallback translation --&gt;
+*   अन्यतर 3 "einer von zweien" &lt;!-- TODO: Fallback translation --&gt;
+*   इतर 3 "der andere" &lt;!-- TODO: Fallback translation --&gt;
+
+*   सर्व 3 "jeder, alle" wird in allen Kasus außer dem Nom.Akk.sg.n (सर्वम्) wie यद् dekliniert. &lt;!-- TODO: Fallback translation --&gt;
+*   उभय 3 "beide" hat keinen Двойствено число. Im Единствено число und Множествено число mask. und neutr. wird es wie सर्व dekliniert. Женски род: उभयी (wie देवी). &lt;!-- TODO: Fallback translation --&gt;
+*   उभ 3 "beide" wird nur im Двойствено число gebraucht und wird wie देव m., फल n. bzw. देवता f. dekliniert. &lt;!-- TODO: Fallback translation --&gt;
+
+Folgende Pronominaladjektive werden wie सर्व dekliniert. Im Abl.Lok.sg.m.n sowie in im Nom.pl. können sie nach der -a- bzw. -ā-Deklination dekliniert werden: &lt;!-- TODO: Fallback translation --&gt;
+
+*   अपर 3 "ein anderer" &lt;!-- TODO: Fallback translation --&gt;
+*   उत्तर 3 "der obere, nördliche, nachfolgende" &lt;!-- TODO: Fallback translation --&gt;
+*   पर 3 "der folgende, spätere" &lt;!-- TODO: Fallback translation --&gt;
+*   पूर्व 3 "der vorausgehende, östliche" &lt;!-- TODO: Fallback translation --&gt;
+*   स्व 3 "eigen (mein, dein, sein ...)" &lt;!-- TODO: Fallback translation --&gt;
+
+## 53.8. Unregelmäßige Steigerung
+
+::: grammar-box
+**Eine Anzahl von Adjektiven bildet den Komparativ bzw. Superlativ mit folgenden कृत्-Suffixen (!):** &lt;!-- TODO: Fallback translation --&gt;
+
+*   Komparativ: **-īyas** &lt;!-- TODO: Fallback translation --&gt;
+*   Superlativ: **-iṣṭha** &lt;!-- TODO: Fallback translation --&gt;
+
+**Während die तद्धित-Suffixe -तर und -तम an den Maskulinstamm des Adjektivs treten, werden die Suffixe -ईयस् und -इष्ठ an die Wurzel angefügt, von der das Adjektiv abgeleitet ist (sofern es eine solche Wurzel gibt!). Der Wurzelvokal ist hochstufig.** &lt;!-- TODO: Fallback translation --&gt;
+
+**Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.** &lt;!-- TODO: Fallback translation --&gt;
+
+**Deklination von -īyas siehe unten.** &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+| Корен | Adjektiv | Komparativ | Superlativ |
+| --- | --- | --- | --- |
+| क्षिप् 6P "werfen" | क्षिप्र 3 "schnell" | क्षेपीयस् 3 "schneller" [[br]] क्षिप्रतर 3 | क्षेपिष्ठ 3 "am schnellsten" [[br]] क्षिप्रतम 3 |
+| स्था 1P "stehen" | स्थिर 3 "beständig, fest" | स्थेयस् 3 "fester" [[br]] स्थिरतर 3 | स्थेष्ठ 3 "am festesten" [[br]] स्थिरतम 3 |
+:::
+
+**Besondere Regeln für die Anfügung dieser Suffixe:** &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+**Regel 1:** **Der auslautende Vokal eines mehrsilbigen Maskulinstammes oder der auslautende Vokal und der vorausgehende Vokal fallen ab.** &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+| Adjektiv | Komparativ | Superlativ |
+| --- | --- | --- |
+| पाप 3 "böse" | पापीयस् | पापिष्ठ |
+| महान्त् 3 "groß" | महीयस् | महिष्ठ |
+:::
+
+::: grammar-box
+**Regel 2:** **Possessivsuffixe (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.** &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+| Adjektiv | Komparativ | Superlativ |
+| --- | --- | --- |
+| धनवन्त् 3 "reich" | धनीयस् | धनिष्ठ |
+| बलिन् 3 "(besonders) stark" | बलीयस् | बलिष्ठ |
+| वसुमन्त् "Güter besitzend" | वसीयस् | वसिष्ठ |
+:::
+
+::: grammar-box
+**Regel 3:** **Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.** &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+| Adjektiv | Komparativ | Superlativ |
+| --- | --- | --- |
+| पृथु 3 "breit" | प्रथीयस् | प्रथिष्ठ |
+:::
+
+**Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:** &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+| Adjektiv | Komparativ | Superlativ |
+| --- | --- | --- |
+| अल्प 3 "klein, wenig" | अल्पीयस् | अल्पिष्ठ |
+| क्षिप्र 3 "schnell" [[br]] (zu क्षिप्) | क्षेपीयस् | क्षेपिष्ठ |
+| गुरु 3 "schwer" [[br]] (zu *गृ) | गरीयस् | गरिष्ठ |
+| दीर्घ 3 "lang" [[br]] (zu *दृघ्) | द्राघीयस् | द्राघिष्ठ |
+| दूर 3 "fern" [[br]] (zu *दु/*दू) | दवीयस् | दविष्ठ |
+| धनवन्त् 3 "reich" | धनीयस् | धनिष्ठ |
+| पाप 3 "böse" | पापीयस् | पापिष्ठ |
+| पृथु 3 "breit" | प्रथीयस् | प्रथीष्ठ |
+| प्रिय 3 "lieb" | प्रेयस् | प्रेष्ठ |
+| बलिन् 3 "(besonders) stark" | बलीयस् | बलिष्ठ |
+| महान्त् 3 "groß" | महीयस् | महिष्ठ |
+| युवन् 3 "jung" | यवीयस् | यविष्ठ |
+| स्थिर 3 "fest" [[br]] (zu स्था) | स्थेयस् | स्थेष्ठ |
+| ह्रस्व 3 "kurz" | ह्रसीयस् | ह्रसिष्ठ |
+:::
+
+::: media
+![](/images/lekt5309.jpg)
+Abb.: द्राघीयो लिङ्गम्
+(Bildquelle: [Details](/licenses#lekt5309)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:** &lt;!-- TODO: Fallback translation --&gt;
+
+::: grammar-box
+| (Adjektiv) | Komparativ | Superlativ |
+| --- | --- | --- |
+| (अल्प 3 "klein, wenig") | कनीयस् [[br]] vgl. कन्या f. "Mädchen = die Kleine" | कनिष्ठ |
+| (प्रशस्य 3 "lobenswert, gut") | श्रेयस् [[br]] zu श्री f. "Glanz" | श्रेष्ठ |
+| (प्रशस्य 3 "lobenswert, gut") | ज्यायस् [[br]] auch: "älter" [[br]] zu ज्या f. "Übergewalt" | ज्येष्ठ [[br]] auch: "am ältesten" |
+| (बहु 3 "viel") | भूयस् | भूयिष्ठ |
+| (वृद्ध 3 "alt") | वर्षीयस् [[br]] zu वर्ष n.m. "Regenzeit, Jahr" | वर्षिष्ठ |
+| (वृद्ध 3 "alt") | ज्यायस् [[br]] auch: "besser" [[br]] zu ज्या f. "Übergewalt" | ज्येष्ठ [[br]] auch: "bester" |
+:::
+
+## 53.9. Deklination der Komparative auf -īyas
+
+::: grammar-box
+**Komparative auf -īyas bilden das Femininum auf -īyasī (Deklination wie देवी). Das maskulinum und Neutrum wird nach folgendem Paradigma dekliniert.** &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: grammar-box
+
+|   | **एकवचनम्** || **द्विवचनम्** || **बहुवचनम्** ||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | **पुमान्** | **नपुंसकम्** | **पुमान्** | **नपुंसकम्** | **पुमान्** | **नपुंसकम्** |
+| **प्रथमा** | गरीयान् | गरीयस् | गरीयांसौ | गरीयसी | गरीयांसस् | गरीयांसि |
+| **द्वितीया** | गरीयांसम् | ^^ | ^^ | ^^ | गरीयसस् | गरीयांसि |
+| **तृतीया** | गरीयसा | गरीयसा | गरीयोभ्याम् | गरीयोभ्याम् | गरीयोभिस् | गरीयोभिस् |
+| **चतुर्थी** | गरीयसे | गरीयसे | गरीयोभ्याम् | गरीयोभ्याम् | गरीयोभ्यस् | गरीयोभ्यस् |
+| **पञ्चमी** | गरीयसस् | गरीयसस् | गरीयोभ्याम् | गरीयोभ्याम् | गरीयोभ्यस् | गरीयोभ्यस् |
+| **षष्ठी** | गरीयसस् | गरीयसस् | गरीयसोस् | गरीयसोस् | गरीयसाम् | गरीयसाम् |
+| **सप्तमी** | गरीयसि | गरीयसि | गरीयसोस् | गरीयसोस् | गरीयस्सु | गरीयस्सु |
+| **आमन्त्रितम्** | **गरीयन्** | **गरीयस्** | **गरीयांसौ** | **गरीयसी** | **गरीयांसस्** | **गरीयांसि** |
+:::
+
+::: media
+![](/images/lekt5310.jpg)
+Abb.: गरीयस्
+(Bildquelle: [Details](/licenses#lekt5310)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: tip
+Originaltabelle, Markdown Syntax muss noch verbessert werden. &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+## 53.10. Metrik (Lehre von den Versmaßen)
+
+::: media
+![](/images/lekt5303.jpg)
+Abb.: क्रिश्चियन-मोर्गन्स्टर्न्
+(Bildquelle: [Details](/licenses#lekt5303)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+Siehe auch: &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**Payer, Alois &lt;1944 - &gt;:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+### 53.10.1. Bedeutung der Bestimmung des Metrums
+
+Die Bestimmung des Metrums ist aus folgenden Gründen wichtig: &lt;!-- TODO: Fallback translation --&gt;
+
+1.  **Ästhetisch:** das Versmaß macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmaße u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (वर्ण) zugeordnet. Die verschiedenen Versmaße werden je verschieden rezitiert. [[br]] Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des शिवताण्डवस्तोत्र (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58) &lt;!-- TODO: Fallback translation --&gt;
+2.  **Textkritisch:** Fehler im Versmaß können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmaß hilft, Textverbesserungen vorzunehmen. &lt;!-- TODO: Fallback translation --&gt;
+3.  **Chronologisch:** gewisse Versmaße gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann &lt;1854 - 1920&gt;:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: [[br]] **Oldenberg, Hermann &lt;1854 - 1920&gt;:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255. &lt;!-- TODO: Fallback translation --&gt;
+
+::: media
+![](/images/lekt5304.jpg)
+Abb.: हर्मन्-ओल्डन्बेर्ग्
+(Bildquelle: [Details](/licenses#lekt5304)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+### 53.10.2. Arten von Metren
+
+::: grammar-box
+**Die Inder unterscheiden:** &lt;!-- TODO: Fallback translation --&gt;
+
+*   **वृत्त n.:** Metren, bei denen die Zahl der Silben (अक्षर) festgelegt ist &lt;!-- TODO: Fallback translation --&gt;
+*   **जाति f.:** Metren, bei denen die Summe der metrischen Längeneinheiten (मात्रा) (Moren) festgelegt ist (zu diesen später) &lt;!-- TODO: Fallback translation --&gt;
+
+**Bei den Metren, bei denen die Zahl der Silben festgelegt ist (वृत्त) kann man zunächst weiter unterscheiden:** &lt;!-- TODO: Fallback translation --&gt;
+
+*   Metren, bei denen die Zahl der Silben festgelegt ist, die Quantität dieser Silben aber nur teilweise &lt;!-- TODO: Fallback translation --&gt;
+*   Metren, bei denen die Zahl der Silben and deren Quantität festgelegt ist &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+### 53.10.3. Die metrische Quantität von Silben
+
+::: grammar-box
+**Merkvers** &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+सानुस्वारश्च दीर्घश्च
+विसर्गी च गुरुर्भवेत् ।
+वर्णः संयोगपूर्वश्च
+तथा पादान्तगो ऽपि वा ॥
+:::
+
+सानुस्वारश्च दीर्घश्च  
+
+*   विसर्गी च गुरुर्भवेत् ।  
+*   वर्णः संयोगपूर्वश्च  
+*   "Eine Silber ist schwer, &lt;!-- TODO: Fallback translation --&gt;
+*   wenn ihr Vokal einen Anusvāra hat, &lt;!-- TODO: Fallback translation --&gt;
+*   lang ist, &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: grammar-box
+einen Visarga hat, &lt;!-- TODO: Fallback translation --&gt;
+
+*   entweder **लघु = leicht** &lt;!-- TODO: Fallback translation --&gt;
+*   oder **गुरु = schwer** &lt;!-- TODO: Fallback translation --&gt;
+
+**लघु = leicht ist eine Silbe, wenn** &lt;!-- TODO: Fallback translation --&gt;
+
+*   ebenso wenn er vor einer Konsonantenverbindung steht &lt;!-- TODO: Fallback translation --&gt;
+*   sowie wenn die Silbe am Schluss eines Viertelverses (Pāda) steht." &lt;!-- TODO: Fallback translation --&gt;
+*   **Eine Silbe ist** &lt;!-- TODO: Fallback translation --&gt;
+*   ihr Vokal kurz ist und auf diesen Vokal &lt;!-- TODO: Fallback translation --&gt;
+
+kein Anusvāra, &lt;!-- TODO: Fallback translation --&gt;
+
+**Alle anderen Silben sind गुरु = schwer. Die letzte Silbe eines Versviertels (पाद) gilt immer als गुरु.** &lt;!-- TODO: Fallback translation --&gt;
+
+kein Visarga, &lt;!-- TODO: Fallback translation --&gt;
+
+*   **◡** = ल = लघु
+*   **—** = ग = गुरु
+*   **×** = लघु oder गुरु &lt;!-- TODO: Fallback translation --&gt;
+*   nicht zwei Konsonanten folgen. &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+Beispiel: भगवद्गीता १,१: &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।
+मामकाः पाण्डवाश्चैव किम् अकुर्वत संजय ॥१॥
+:::
+
+Verteilung von लघु und गुरु : &lt;!-- TODO: Fallback translation --&gt;
+
+::: metrik-schema
+Kurze Vokale sind a, i, u, ṛ, ḷ &lt;!-- TODO: Fallback translation --&gt;
+:::
+::: metrik-schema
+In der metrischen Analyse bedeutet: &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+### 53.10.4. Der epische Śloka (श्लोक m.)
+
+::: grammar-box
+**Merkvers:** &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+श्लोके षष्ठं गुरु ज्ञेयं
+सर्वत्र लघु पञ्चमम् ।
+द्विचतुष्पादयोर्ह्रस्वं
+सप्तमं दीर्घमन्ययोः ॥
+:::
+
+सर्वत्र लघु पञ्चमम् ।  
+:::
+
+Das wichtigste Versmaß in den Epen (महाभारत, रामायण) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu श्रु "hören"). &lt;!-- TODO: Fallback translation --&gt;
+
+:::: grammar-box
+**Der श्लोक ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (पाद) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (पद्य n.) besteht also aus vier पाद (m. "Fuß, Viertel"). Die vier पाद werden mit a, b, c, (क्, ख्, ग्, घ्) durchgezählt.** &lt;!-- TODO: Fallback translation --&gt;
+
+द्विचतुष्पादयोर्ह्रस्वं  
+
+**Grundschema (पथ्या):** &lt;!-- TODO: Fallback translation --&gt;
+
+सप्तमं दीर्घमन्ययोः ॥
+::: metrik-schema
+"Im Śloka ist die sechste Silbe eines Pāda schwer,  
+die fünfte in allen Pādas leicht  
+Die siebte Silbe ist im zweiten und vierten Pāda kurz, lang in den beiden anderen." &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**Aufbau des Śloka:** &lt;!-- TODO: Fallback translation --&gt;
+::: metrik-schema
+**a = c:** &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+Die zweite und dritte Silbe eines पाद sollten nicht zugleich लघु sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein. &lt;!-- TODO: Fallback translation --&gt;
+
+**Nebenschemata (विपुला) für a und c:** &lt;!-- TODO: Fallback translation --&gt;
+
+**विपुला 1:**
+::: metrik-schema
+× × × ×   ◡ — — — &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**विपुला 2:**
+::: metrik-schema
+**b = d:** &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**विपुला 3:**
+::: metrik-schema
+× × × ×   ◡ — ◡ — &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**विपुला 4:**
+::: metrik-schema
+× × × —   ◡ ◡ ◡ — &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. पाद : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.** &lt;!-- TODO: Fallback translation --&gt;
+::::
+
+## 53.11. Упражнение
+
+::: grammar-box
+**Bestimmen sie unter allen bisher gelernten Versen die Ślokas. Machen Sie zu diesen schriftlich das metrische Schema. Weisen Sie auf eventuelle Unregelmäßigkeiten bzw. Vipulāformen hin.** &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: deleteme-box
+**Quellen** &lt;!-- TODO: Fallback translation --&gt;
+
+**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) &lt;!-- TODO: Fallback translation --&gt;
+
+Finitum feliciter 1984-02-15  
+Editio interretialis feliciter finita 2009-01-19  
+Alois Maria Payer  
+श्रीगणेशाय नमः &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: deleteme-box
+
+### Източници
+
+**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer). <!-- TODO: Fallback translation -->
+:::

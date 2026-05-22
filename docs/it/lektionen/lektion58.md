@@ -1,0 +1,485 @@
+---
+lesson_id: 58
+last_reconstructed: 2026-05-21
+---
+
+# Lezione 58
+
+## 58.1. Le desinenze primarie del duale (द्विवचनम्)
+
+::: grammar-box
+|   | **परस्मैपदम्** | **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: |
+|   |   | tematico | atematico |
+| **1. तृतीयः** | -vas | -vahe ||
+| **2. मध्यमः** | -thas | -***ī***the | -***ā***the |
+| **3. प्रथमः** | -tas | -***ī***te | -***ā***te |
+:::
+
+## 58.2. Il duale delle classi tematiche di presente: Indicativo presente (लट्)
+
+Prima di -vas e -vahe, la vocale tematica -a- viene sostituita da -ā-.
+
+### 58.2.1. Prima classe del presente (भ्वादिगणः)
+
+भू 1P "diventare, essere"
+
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | भवावस्[[br]]"noi due diventiamo" | &lt;भवावहे&gt; |
+| **2. मध्यमः** | भवथस्[[br]]"voi due diventate" | &lt;भवेथे&gt;[[br]]bhav-a + īthe |
+| **3. प्रथमः** | भवतस्[[br]]"loro due diventano" | &lt;भवेते&gt; |
+
+### 58.2.2. Quarta classe del presente (दिवादिगणः)
+
+नृत् 4P "ballare"
+
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | नृत्यावस् | नृत्यावहे |
+| **2. मध्यमः** | नृत्यथस् | नृत्येथे |
+| **3. प्रथमः** | नृत्यतस् | नृत्येते् |
+
+::: media
+![](/images/lekt5802.jpg)
+Fig.: नृत्यतः
+(Fonte dell'immagine: [Dettagli](/licenses#lekt5802))
+:::
+
+### 58.2.3. Sesta classe del presente (तुदादिगणः)
+
+तुद् 6U "spingere, colpire"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तुदावस् | तुदावहे |
+| 2\. मध्यमः | तुदथस् | तुदेथे |
+| 3\. प्रथमः | तुदतस् | तुदेते |
+:::
+
+### 58.2.4. Decima classe del presente (चुरादिगणः) e causativi (णिजन्त)
+
+चुर् 10U "rubare"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | चोरयावस् | चोरयावहे |
+| 2\. मध्यमः | चोरयथस् | चोरयेथे |
+| 3\. प्रथमः | चोरयतस् | चोरयेते |
+:::
+
+::: media
+![](/images/lekt5803.jpg)
+Fig.: वानरौ रथाद्भाण्डानि चोरयतः
+(Fonte dell'immagine: [Dettagli](/licenses#lekt5803))
+:::
+
+## 58.3. Il duale del futuro semplice (ऌत्)
+
+### 58.3.1. अनिट्
+
+दा 3U "dare"
+
+::: grammar-box
+| | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दास्यावस् | दास्यावहे |
+| 2\. मध्यमः | दास्यथस् | दास्येथे |
+| 3\. प्रथमः | दास्यतस् | दास्येते |
+:::
+
+### 58.3.2. Seṭ
+
+भू 1P "divenire, essere"
+
+::: grammar-box
+|   | Parasmaipada | Ātmanepada |
+| --- | --- | --- |
+| 1\. Terza persona | bhaviṣyāvas | bhaviṣyāvah |
+| 2\. Seconda persona | bhaviṣyathas | bhaviṣyethe |
+| 3\. Prima persona | bhaviṣyatas | bhaviṣyete |
+:::
+
+## 58.4. Il duale del passivo (suffisso -यक्)
+
+तुद् 6U "spingere, colpire"
+
+::: grammar-box
+| 1\. तृतीयः | तुद्यवाहे |
+| --- | --- |
+| 2\. मध्यमः | तुद्येथे |
+| 3\. प्रथमः | तुद्येते |
+:::
+
+## 58.5. Il duale delle classi di presente atematico: Indicativo presente (लट्)
+
+### 58.5.1. Seconda classe del presente (अदादिगणः)
+
+द्विष् 2U "odiare"
+
+::: grammar-box
+|   | parasmāipadam | ātmanepadam |
+| --- | --- | --- |
+| 1\. terza persona | द्विष्वस् | द्विष्वहे |
+| 2\. seconda persona | द्विष्ठस् | द्विषाथे |
+| 3\. prima persona | द्विष्टस् | द्विषाते |
+:::
+
+दुह् 2U "mungere"
+
+::: grammar-box
+|   | parasmāipadam | ātmanepadam |
+| --- | --- | --- |
+| 1\. terza persona | दुह्वस् | दुह्वहे |
+| 2\. seconda persona | ***दुग्धस्*** | दुहाथे |
+| 3\. prima persona | ***दुग्धस्*** | दुहाते |
+:::
+
+इ 2P "andare"
+
+::: grammar-box
+|   | parasmāipadam |
+| --- | --- |
+| 1\. terza persona | इवस् |
+| 2\. seconda persona | इथस् |
+| 3\. prima persona | इतस् |
+:::
+
+::: media
+![](/images/lekt5806.jpg)
+Fig.: उष्ट्रौ मरावितः
+(Fonte dell'immagine: [Dettagli](/licenses#lekt5806))
+:::
+इ + अधि 2Ā "studiare"
+
+::: grammar-box
+|   | ātmanepadam |
+| --- | --- |
+| 1\. terza persona | अधीवहे |
+| 2\. seconda persona | अधी***या***थे |
+| 3\. prima persona | अधी***य***ते |
+:::
+
+::: media
+![](/images/lekt5804.jpg)
+Fig.: कन्ये अधीयते
+(Fonte dell'immagine: [Dettagli](/licenses#lekt5804))
+:::
+
+
+हन् 2P "uccidere"
+
+::: grammar-box
+|   | **parasmāipadam** |
+| :--- | :---: |
+| **1. terza persona** | हन्वस् |
+| **2. seconda persona** | ***हथस्***[[br]]*hn-thas |
+| **3. prima persona** | ***हतस्*** |
+:::
+
+अस् 2P "essere"
+
+::: grammar-box
+|   | **parasmāipadam** |
+| :--- | :---: |
+| **1. terza persona** | ***स्वस्***[[br]]s-vas |
+| **2. seconda persona** | ***स्थस्*** |
+| **3. prima persona** | ***स्तस्*** |
+:::
+
+::: media
+![](/images/lekt5805.jpg)
+Fig.: भगिन्यौ स्वः
+(Fonte dell'immagine: [Dettagli](/licenses#lekt5805))
+:::
+
+### 58.5.2. Terza classe del presente (जुहोत्यादिगणः)
+
+हु 3P "versare nel fuoco dell'offerta"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | जुहुवस् | &lt;जुहुवहे&gt; |
+| 2\. मध्यमः | जुहुथस् | &lt;जुह्वाथे&gt; |
+| 3\. प्रथमः | जुहुतस् | &lt;जुह्वाते&gt; |
+:::
+
+धा 3U "porre, deporre, collocare"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दध्वस् | दध्वहे |
+| 2\. मध्यमः | धत्थस् | दधाथे |
+| 3\. प्रथमः | धत्तस् | दधाते |
+:::
+
+### 58.5.3. Quinta classe del presente (स्वादिगणः)
+
+सु 5U "spremere"
+
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | सुनुवस् / सुन्वस् | सुनुवहे / सुन्वहे |
+| **2. मध्यमः** | सुनुथस् | सुन्वाथे |
+| **3. प्रथमः** | सुनुतस् | सुन्वाते |
+
+::: media
+![](/images/lekt5807.jpg)
+Fig.: शर्कराम्बु सुनुतः
+(Fonte dell'immagine: [Dettagli](/licenses#lekt5807))
+:::
+
+### 58.5.4. Ottava classe del presente (तनादिगणः)
+
+तन् 8U "tendere, stendere"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तनुवस् / तन्वस् | तनुवहे / तन्वहे |
+| 2\. मध्यमः | तनुथस् | तन्वाथे |
+| 3\. प्रथमः | तनुतस् | तन्वाते |
+:::
+
+कृ 8U "fare, fare"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | कुर्वस् | कुर्वहे |
+| 2\. मध्यमः | कुरुथस् | कुर्वाथे |
+| 3\. प्रथमः | कुरुतस् | कुर्वाते |
+:::
+
+### 58.5.5. Settima classe del presente (रुधादिगणः)
+
+रुध् 7U "bloccare"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | रुन्ध्वस् | रुन्ध्वहे |
+| 2\. मध्यमः | ***रुन्द्धस्*** | रुन्धाथे |
+| 3\. प्रथमः | रुन्द्धस् | रुन्धाते |
+:::
+
+युज् 7U "imbracare"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | युञ्ज्वस् | युञ्ज्वहे |
+| 2\. मध्यमः | युङ्क्थस् | युञ्जाथे |
+| 3\. प्रथमः | युङ्क्तस् | युञ्जाते |
+:::
+
+### 58.5.6. Nona classe del presente (क्र्यादिगणः)
+
+क्री 9U "comprare"
+
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | क्रीणीवस् | क्रीणीवहे |
+| **2. मध्यमः** | क्रीणीथस् | क्रीणाथे[[br]]krī-ṇ-āthe |
+| **3. प्रथमः** | क्रीणीतस् | क्रीणाते |
+
+::: media
+![](/images/lekt5801.jpg)
+Abb.: स्त्रियौ शाकं क्रीणाते
+(Fonte dell'immagine: [Dettagli](/licenses#lekt5801))
+:::
+
+## 58.6. Aoristo 5: Aoristo iṣ
+
+::: grammar-box
+**L’Aoristo iṣ viene formato da tutte le radici seṭ per le quali non viene esplicitamente insegnata esclusivamente un’altra forma di aoristo.**
+
+**Formazione:**
+
+**Augmento + Radice + i + s + desinenza secondatica atematica**
+
+***!!!*** La 2.sg.P e la 3.sg.P derivano da ***-***īs e da -īt rispettivamente ***!!!*** (Questo è risultato da una trasposizione dell’imperfetto di radici del tipo अब्रवीत्; si tratta quindi in realtà di forme di aoristo radicale).
+:::
+
+Il suffisso di formazione del tema + le desinenze dell’Aoristo iṣ sono quindi:
+
+::: grammar-box
+
+|   | **Parasmaipādam** || **Ātmanepādam** ||
+| :--- | :---: | :---: | :---: |
+|   | **Singolare** | **Plurale** | **Singolare** | **Plurale** |
+| **1. Terza persona** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
+| **2. Seconda persona** | ***-īs*** | **-iṣṭa** | **-iṣṭhās** | ***-***idhvam / [[br]]-iḍhvam[[br]](facoltativo secondo -h o semivocale) |
+| **3. Prima persona** | ***-īt*** | **-iṣur** | **-iṣṭa** | **-iṣata** |
+
+:::
+
+::: grammar-box
+**Forma della radice:**
+
+*   **Radici con vocale breve prima di consonante singola: grado forte nel Parasmaipādam e Ā**  
+    Esempi:  
+    बुध् 1U: 1.sg.P अबोधिषम्  
+    कॢप् 1Ā: 1.sg.Ā अकल्पिषि
+
+*   **Radici con vocale finale:**
+    *   **P: grado allungato**
+    *   **Ā: grado forte**
+
+    Esempi:  
+    पू 9U: 1.sg.P अपाविषम् ; 1. sg.Ā अपविषि
+
+*   **Radici in -ar., -al nonché वद् 1P "dire", व्रज् 1P "andare via": P: grado allungato**  
+    Esempi:  
+    चर् 1P: 1.sg.P अचारिषम्  
+    वद् 1P: 1.sg.P अवादिषम्
+
+*   **Altre radici della forma (Cons.-)Cons.-a-Cons.: nel P facoltativamente grado allungato (non vale per le radici in -h, -m, -y nonché alcune altre radici)**  
+    Esempio:  
+    तन् 8U: 1.sg.P अतनिषम् / अतानिषम्  
+    ma:  
+    क्रम् 1U: 1.sg.P अक्रमिषम्
+:::
+
+Paradigmi:
+
+पू 9U "purificare"
+
+::: indent
+|   | **Parasmaipādam** || **Ātmanepādam** ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | **Singolare** | **Plurale** | **Singolare** | **Plurale** |
+| **1. Terza persona** | अपाविषम् | पाविष्म | अपविषि | अपविष्महि |
+| **2. Seconda persona** | अपावीस् | अपाविष्ट | अपविष्ठास् | अपविध्वम् / [[br]]अपविढ्वम् |
+| **3. Prima persona** | अपावीत् | अपाविषुर् | अपविष्ट | पविषत |
+:::
+
+बुध् 1U "svegliarsi, riconoscere"
+
+::: indent
+|   | **Parasmaipādam** ||
+| :--- | :---: | :---: |
+|   | **Singolare** | **Plurale** |
+| **1. Terza persona** | अबोधिषम् | अबोधिष्म |
+| **2. Seconda persona** | अबोधीस् | अबोधिष्ट |
+| **3. Prima persona** | अबोधीत् | अबोधिषुर् |
+:::
+
+कॢप् 1Ā "essere appropriato"
+
+::: indent
+|   | **Ātmanepādam** ||
+| :--- | :---: | :---: |
+|   | **Singolare** | **Plurale** |
+| **1. Terza persona** | अकल्पिषि | अकल्पिष्महि |
+| **2. Seconda persona** | अकल्पिष्ठास् | अकल्पिध्वम् |
+| **3. Prima persona** | अकल्पिष्ट | अकल्पिषत |
+:::
+
+::: grammar-box
+**Particolarità:**
+
+1.  In alcune radici la vocale di giunzione -i- nell’Ātmanepādam può essere sostituita da -ī-. Dopo ग्रह् 9U "afferrare" questa sostituzione deve avvenire nel P e nell’Ā:  
+    अग्र***ही***षम् , अग्र***ही***षि
+
+2.  Le radici della 8ª classe di presente in -n (o -ṇ) possono essere di grado debole nella 2.3.sg.Ā:  
+    तन् 8U: 2.sg.Ā अतनिष्ठास् / अतथस् (aoristo radicale) ; 3. sg. Ā अतनिष्ट / अतत
+
+3.  दीप् 4Ā, जन् 4Ā ecc. possono assumere, al posto della 3.sg. Ā, anche la forma del perfetto passivo:  
+    अदीपिष्ट / अदीपि ; अजनिष्ट / अजनि
+
+4.  विज् 7P non presenta ablaut:  
+    अविजीत्
+:::
+
+::: media
+![](/images/lekt5808.jpg)
+Fig.: दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥
+(Fonte dell’immagine: [Dettagli](/licenses#lekt5808))
+:::
+
+## 58.7. Esercitazione
+
+A) Determinare e tradurre le seguenti forme senza ausili, e formare le corrispondenti forme dell’aoristo in *-i*:
+
+1.  औहे
+2.  जाग्रति
+3.  जीर्यन्ति
+4.  आनर्च
+5.  खादामः
+6.  नेद
+7.  आश्नीत
+8.  पुनते
+9.  अशेरत
+10.  इयेषिथ
+11.  आर्च्छत्
+12.  अर्हन्ति
+13.  ऊदुः
+14.  इन्त्से
+15.  आध्वे
+16.  कल्पे
+17.  आनीत्
+18.  ऐक्षध्वम्
+19.  अचेतः
+
+B) Tradurre e determinare le seguenti forme:
+
+1.  अनेढ्वम्
+2.  एनयोः
+3.  अष्टौ
+4.  चक्रम
+5.  ना
+6.  अत्तः
+7.  अधृत
+8.  ईहेरन्
+9.  अधिजगे
+10.  जग्म
+11.  अघ्रात्
+12.  अद्राक्ष्म
+13.  अस्थाः
+14.  अधमः
+15.  आनर्ध
+16.  पथोः
+17.  जेता
+18.  श्वा
+19.  स्वः
+20.  यदृच्छया
+21.  अकार्षम्
+22.  क्रीणीथः
+23.  क्रीणीथ
+24.  जानानि
+25.  भोः
+26.  अजैष्त
+27.  पुरा
+28.  देवा
+29.  गन्धी
+30.  ईय
+31.  नाना
+32.  देह
+33.  अतत
+34.  आप्स्यावः
+35.  अतौत्त
+36.  इमे
+37.  इतः
+38.  दद
+39.  अञ्ज्वः
+
+::: deleteme-box
+
+### Fonti
+
+**lekt5802:** Odyssee [Fonte dell'immagine: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Accesso effettuato il 2009-03-02. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuzione)]
+
+**lekt5803:** Parco Nazionale di Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
+
+**lekt5806:** [Fonte dell'immagine: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- Accesso effettuato il 2009-03-02. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
+
+**lekt5807:** Pune
+
+**lekt5801:** [Fonte dell'immagine: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Accesso effettuato il 2009-03-02. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
+
+:::

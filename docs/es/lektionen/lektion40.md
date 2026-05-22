@@ -1,54 +1,62 @@
+---
+lesson_id: 40
+last_reconstructed: 2026-05-21
+---
 
-
-# Lektion 40
+# Lección 40
 
 ## 40.1. सुभाषितानि
 
-> विद्या ददाति विनयं  
-> विनयाद्याति पात्रताम् ।  
-> पात्रत्वाद्धनमाप्नोति  
-> धनाद्धर्मं ततः सुखम् ॥१॥
-> 
-> सुखार्थी चेत्त्यजेद्विद्यां  
-> विद्यार्थी चेत्त्यजेत्सुखम् ।  
-> सुखार्थिनः कुतो विद्या  
-> कुतो विद्यार्थिनः सुखम् ॥२॥
-> 
-> आचार्यात्पादमादत्ते  
-> पादं शिष्यः स्वमेधया ।  
-> पादं सब्रह्मचारिभ्यःयः  
-> पादं कालक्रमेण च ॥३॥
+::: indent
+विद्या ददाति विनयं  
+विनयाद्याति पात्रताम् ।  
+पात्रत्वाद्धनमाप्नोति  
+धनाद्धर्मं ततः सुखम् ॥१॥
+
+सुखार्थी चेत्त्यजेद्विद्यां  
+विद्यार्थी चेत्त्यजेत्सुखम् ।  
+सुखार्थिनः कुतो विद्या  
+कुतो विद्यार्थिनः सुखम् ॥२॥
+
+आचार्यात्पादमादत्ते  
+पादं शिष्यः स्वमेधया ।  
+पादं सब्रह्मचारिभ्यः  
+पादं कालक्रमेण च ॥३॥
+:::
 
 ::: media
 ![lekt4005.jpg](/images/lekt4005.jpg)
-Fig.: पादं सब्रह्मचारिभ्यः
+Abb.: पादं सब्रह्मचारिभ्यः
 (Fuente de la imagen: [Detalles](/licenses#lekt4005))
 :::
 
-## 40.2. Formación der Verbformen der ersten Person Perfekt (लिट्)
+## 40.2. Formación de las formas verbales de la primera persona del perfecto (लिट्)
 
-Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट्)
+Desinencias de la primera persona (तृतीयः) en el perfecto (लिट्)
 
 :::: grammar-box
 
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-| :--- | :--- | :--- | :--- |
-| **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
+| **परस्मैपदम्** | ← | **आत्मनेपदम्** | ← |
+| :---: | :---: | :---: | :---: |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **-a** | **-ma** | **-e** | **-mahe** |
 
 ::::
 
-Obsérvese que las desinencias de la primera persona singular de P y Ā son idénticas a las de la tercera persona singular. Por consiguiente, en todos los tipos de perfecto excepto los tipos III(a,b) y V(a,b,c), las formas de la primera persona singular de P y Ā son siempre idénticas a las de la tercera persona singular de P y Ā, respectivamente.
+::: grammar-box
+Obsérvese que las desinencias de la primera persona singular P,Ā son idénticas a las de la tercera persona singular. Por consiguiente, en todos los tipos de perfecto excepto los tipos III(a,b) y V(a,b,c), las formas de la primera persona singular P y Ā son siempre idénticas a las de la tercera persona singular P y Ā, respectivamente.
 
-En el tipo IV, la primera persona singular de P termina en -au, al igual que la tercera persona singular de P.
+En el tipo IV, la primera persona singular P termina en -au, igual que la tercera persona singular P.
 
-En los tipos de perfecto III y V, la primera persona singular de Ā es siempre idéntica a la tercera persona singular de Ā.
+En los tipos de perfecto III y V, la primera persona singular Ā es siempre idéntica a la tercera persona singular Ā.
 
-En los tipos de perfecto III y V, la primera persona singular de P y la tercera persona singular de P son opcionalmente idénticas: la tercera persona singular de P debe ser siempre del grado de extensión (dehnstufig) en estos tipos de formación, mientras que la primera persona singular de P puede ser opcionalmente del grado elevado (hochstufig) o del grado de extensión (dehnstufig).
+En los tipos de perfecto III y V, la primera persona singular P y la tercera persona singular P son opcionalmente idénticas: la tercera persona singular P debe estar siempre en grado de extensión (dehnstufig) en estos tipos de formación, mientras que la primera persona singular P puede estar opcionalmente en grado alto (hochstufig) o en grado de extensión.
+:::
 
+::: grammar-box
 Ante desinencias que comienzan por consonante, la mayoría de las raíces insertan la vocal de unión -i-.
 
-Excepto ante la desinencia -re, ante la cual debe insertarse siempre -i-, la vocal de unión ante desinencias que comienzan por consonante no aparece en ocho raíces que terminan en -ṛ o -u, a saber:
+Excepto ante la desinencia -re, ante la cual debe insertarse siempre -i-, la vocal de unión ante desinencias que comienzan por consonante no aparece en ocho raíces terminadas en -ṛ o -u, a saber:
 
 1.  कृ 8U (excepto संस्कृ)
 2.  भृ 1U
@@ -59,382 +67,455 @@ Excepto ante la desinencia -re, ante la cual debe insertarse siempre -i-, la voc
 7.  स्तु 2U
 8.  स्रु 1P "fluir"
 
-En las denominadas raíces अनिट् facultativas, la vocal de unión puede insertarse opcionalmente o no. (Listado de estas raíces en Kielhorn, Grammatik p. 92 § 298b,2,3)
+En las denominadas raíces अनिट् facultativas, la vocal de unión puede insertarse opcionalmente o no. (Véase la lista de estas raíces en Kielhorn, Grammatik, p. 92, § 298b,2,3).
+:::
 
-### 40.2.1. Perfekt Typ I: keine Temaabstufung
+### 40.2.1. Tipo de perfecto I: sin ablaut de la raíz
 
-Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट्)
+1.sg. = 3.sg.
 
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+Verbos que siguen este tipo:
 
-*   | :--- | :--- | :--- | :--- |
-*   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
-*   | **-a** | **-ma** | **-e** | **-mahe** |
-*   Obsérvese que las desinencias de la primera persona singular de P y Ā son idénticas a las de la tercera persona singular. Por consiguiente, en todos los tipos de perfecto excepto los tipos III(a,b) y V(a,b,c), las formas de la primera persona singular de P y Ā son siempre idénticas a las de la tercera persona singular de P y Ā, respectivamente.
+*   Consonante-vocal larga-consonante
+*   Consonante-vocal-consonante-consonante
+*   a-Consonante(-Consonante)
+*   ā-Consonante
 
-En el tipo IV, la primera persona singular de P termina en -au, al igual que la tercera persona singular de P.
+बन्ध् 9P
 
-*   En los tipos de perfecto III y V, la primera persona singular de Ā es siempre idéntica a la tercera persona singular de Ā.
-*   En los tipos de perfecto III y V, la primera persona singular de P y la tercera persona singular de P son opcionalmente idénticas: la tercera persona singular de P debe ser siempre del grado de extensión (dehnstufig) en estos tipos de formación, mientras que la primera persona singular de P puede ser opcionalmente del grado elevado (hochstufig) o del grado de extensión (dehnstufig).
+::: indent
+*   1.sg.P बबन्ध
+*   1.pl.P बबन्धिम
+:::
 
-Ante desinencias que comienzan por consonante, la mayoría de las raíces insertan la vocal de unión -i-.
+जीव् 1P
 
-*   Excepto ante la desinencia -re, ante la cual debe insertarse siempre -i-, la vocal de unión ante desinencias que comienzan por consonante no aparece en ocho raíces que terminan en -ṛ o -u, a saber:
-
-*   कृ 8U (excepto संस्कृ)
+::: indent
+*   1.sg.P जिजीव
+*   1.pl.P जिजिविम
+:::
 
 अश् 5Ā
 
-*   वृ 9U "elegir"
+::: indent
+*   1.sg.Ā आनशे
+*   1.pl.Ā आनशिमहे
+:::
 
-*   सृ 1P
+अस् 2P y अस् 4P
 
-द्रु 1p "correr"
+::: indent
+*   1.sg.P आस
+*   1.pl.P आसिम (a + as-i-ma)
+:::
 
-*   श्रु 5P
+### 40.2.2. Tipo de perfecto II: raíz fuerte en grado alto, raíz débil en grado bajo
 
-*   स्तु 2U
+Verbos que siguen este tipo:
 
-### 40.2.2. Perfekt Typ II: starker Tema Hochstufe, schwacher Tema Tiefstufe
+*   (Consonante)i/u/ṛ/ḷ-Consonante
 
-Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट्)
+भिद् 7U
 
-*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+::: indent
+*   1.sg.P बिभेद
+    
+*   1.pl.P बिभिदिम
+    
+*   1.sg.Ā बिभिदे
+    
+*   1.pl.Ā बिभिदिमहे
+:::
+
+मुह् 4P facultativo अनिट्
 
-| :--- | :--- | :--- | :--- |
+::: indent
+*   1.sg.P मुमोह
+    
+*   1.pl.P मुमुहिम । मुमुह्म
+:::
+
+### 40.2.3. Tipo de Perfecto III: Raíz fuerte en grado pleno/gradación larga
 
-*   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
+1.sg.P grado pleno o grado largo, opcionalmente
+
+#### 40.2.3.1. Tipo de Perfecto IIIa: Raíz fuerte en grado pleno/gradación larga, raíz débil en grado reducido
+
+Verbos que siguen este tipo:
+
+*   (Consonante-)(Consonante-)i/ī/u/ū
+*   (Consonante-)-ṛ
+
+इ 2P
+
+::: indent
+*   1.sg.P इयाय । इयय (i+e+a)
+    
+*   1.pl.P ईयिम (i+iy+i+ma)
+:::
 
-*   | **-a** | **-ma** | **-e** | **-mahe** |
+नी 1U
 
-*   Obsérvese que las desinencias de la primera persona singular de P y Ā son idénticas a las de la tercera persona singular. Por consiguiente, en todos los tipos de perfecto excepto los tipos III(a,b) y V(a,b,c), las formas de la primera persona singular de P y Ā son siempre idénticas a las de la tercera persona singular de P y Ā, respectivamente.
+::: indent
+*   1.sg.P निनाय । निनय
+    
+*   1.pl.P निन्यिम (ni-nī + i + ma !!!)
+    
+*   1.sg.Ā निन्ये
+    
+*   1.pl.Ā निन्यिमहे
+:::
 
-*   En el tipo IV, la primera persona singular de P termina en -au, al igual que la tercera persona singular de P.
-
-En las denominadas raíces अनिट् facultativas, la vocal de unión puede insertarse opcionalmente o no. (Listado de estas raíces en Kielhorn, Grammatik p. 92 § 298b,2,3)
-
-*   En los tipos de perfecto III y V, la primera persona singular de Ā es siempre idéntica a la tercera persona singular de Ā.
-
-*   En los tipos de perfecto III y V, la primera persona singular de P y la tercera persona singular de P son opcionalmente idénticas: la tercera persona singular de P debe ser siempre del grado de extensión (dehnstufig) en estos tipos de formación, mientras que la primera persona singular de P puede ser opcionalmente del grado elevado (hochstufig) o del grado de extensión (dehnstufig).
-
-### 40.2.3. Perfekt Typ III: Starker Tema Hochstufe/Dehnstufe
-
-Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट्)
-
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-
-| :--- | :--- | :--- | :--- |
-
-*   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
-*   | **-a** | **-ma** | **-e** | **-mahe** |
-
-Obsérvese que las desinencias de la primera persona singular de P y Ā son idénticas a las de la tercera persona singular. Por consiguiente, en todos los tipos de perfecto excepto los tipos III(a,b) y V(a,b,c), las formas de la primera persona singular de P y Ā son siempre idénticas a las de la tercera persona singular de P y Ā, respectivamente.
-
-*   En el tipo IV, la primera persona singular de P termina en -au, al igual que la tercera persona singular de P.
-
-*   En los tipos de perfecto III y V, la primera persona singular de Ā es siempre idéntica a la tercera persona singular de Ā.
-
-En los tipos de perfecto III y V, la primera persona singular de P y la tercera persona singular de P son opcionalmente idénticas: la tercera persona singular de P debe ser siempre del grado de extensión (dehnstufig) en estos tipos de formación, mientras que la primera persona singular de P puede ser opcionalmente del grado elevado (hochstufig) o del grado de extensión (dehnstufig).
-
-*   Ante desinencias que comienzan por consonante, la mayoría de las raíces insertan la vocal de unión -i-.
-
-*   Excepto ante la desinencia -re, ante la cual debe insertarse siempre -i-, la vocal de unión ante desinencias que comienzan por consonante no aparece en ocho raíces que terminan en -ṛ o -u, a saber:
-
-*   भृ 1U
-
-*   वृ 9U "elegir"
-
-स्तु 2U
-
-*   सृ 1P
-
-*   द्रु 1p "correr"
-
-*   श्रु 5P
-
-*   स्रु 1P "fluir"
-
-कृ 8U (excepto संस्कृ)
-
-*   En las denominadas raíces अनिट् facultativas, la vocal de unión puede insertarse opcionalmente o no. (Listado de estas raíces en Kielhorn, Grammatik p. 92 § 298b,2,3)
-
-*   1.pl.P चकृम <!-- TODO: Fallback translation -->
-
-*   1.sg.Ā चक्रे <!-- TODO: Fallback translation -->
-
-*   1.pl.Ā चकृमहे <!-- TODO: Fallback translation -->
-
-#### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
-
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
-
-*   (Konsonant-)(Konsonant-)-ṝ <!-- TODO: Fallback translation -->
-*   Konsonant-Konsonant-ṛ <!-- TODO: Fallback translation -->
-
-पॄ 3P <!-- TODO: Fallback translation -->
-
-*   1.sg.P पपार । पपर <!-- TODO: Fallback translation -->
-
-*   1.pl.P पपरिम <!-- TODO: Fallback translation -->
-
-स्मृ 1P <!-- TODO: Fallback translation -->
-
-*   1.sg.P सस्मार । सस्मर <!-- TODO: Fallback translation -->
-
-*   1.pl.P सस्मरिम <!-- TODO: Fallback translation -->
-
-संस्कृ 8U <!-- TODO: Fallback translation -->
-
-*   1.sg.P सञ्चस्कार । सञ्चस्कर <!-- TODO: Fallback translation -->
-
-*   1.pl.P सञ्चस्करिम <!-- TODO: Fallback translation -->
-
-*   1.sg.Ā सञ्चस्करे <!-- TODO: Fallback translation -->
-
-*   1.pl.Ā सञ्चस्करिमहे <!-- TODO: Fallback translation -->
-
-### 40.2.4. Perfekt Typ IV: Raízn auf -ā / -ai
-
-*   Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट्)
-    *   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-*   | :--- | :--- | :--- | :--- |
-    *   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
-    *   | **-a** | **-ma** | **-e** | **-mahe** |
-
-Obsérvese que las desinencias de la primera persona singular de P y Ā son idénticas a las de la tercera persona singular. Por consiguiente, en todos los tipos de perfecto excepto los tipos III(a,b) y V(a,b,c), las formas de la primera persona singular de P y Ā son siempre idénticas a las de la tercera persona singular de P y Ā, respectivamente.
-
-*   En el tipo IV, la primera persona singular de P termina en -au, al igual que la tercera persona singular de P.
-
-*   En los tipos de perfecto III y V, la primera persona singular de Ā es siempre idéntica a la tercera persona singular de Ā.
-
-*   En los tipos de perfecto III y V, la primera persona singular de P y la tercera persona singular de P son opcionalmente idénticas: la tercera persona singular de P debe ser siempre del grado de extensión (dehnstufig) en estos tipos de formación, mientras que la primera persona singular de P puede ser opcionalmente del grado elevado (hochstufig) o del grado de extensión (dehnstufig).
-
-*   Ante desinencias que comienzan por consonante, la mayoría de las raíces insertan la vocal de unión -i-.
-
-### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
-
-Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट्)
-
-| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
-
-| :--- | :--- | --- | --- |
-
-> | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
-> | **-a** | **-ma** | **-e** | **-mahe** |
-> Obsérvese que las desinencias de la primera persona singular de P y Ā son idénticas a las de la tercera persona singular. Por consiguiente, en todos los tipos de perfecto excepto los tipos III(a,b) y V(a,b,c), las formas de la primera persona singular de P y Ā son siempre idénticas a las de la tercera persona singular de P y Ā, respectivamente.
-> En el tipo IV, la primera persona singular de P termina en -au, al igual que la tercera persona singular de P.
-> En los tipos de perfecto III y V, la primera persona singular de Ā es siempre idéntica a la tercera persona singular de Ā.
-> En los tipos de perfecto III y V, la primera persona singular de P y la tercera persona singular de P son opcionalmente idénticas: la tercera persona singular de P debe ser siempre del grado de extensión (dehnstufig) en estos tipos de formación, mientras que la primera persona singular de P puede ser opcionalmente del grado elevado (hochstufig) o del grado de extensión (dehnstufig).
-> Ante desinencias que comienzan por consonante, la mayoría de las raíces insertan la vocal de unión -i-.
-
-Excepto ante la desinencia -re, ante la cual debe insertarse siempre -i-, la vocal de unión ante desinencias que comienzan por consonante no aparece en ocho raíces que terminan en -ṛ o -u, a saber:
-
-*   1.sg.P उवाच । उवच <!-- TODO: Fallback translation -->
-
-*   कृ 8U (excepto संस्कृ)
-
-भृ 1U
-
-*   1.sg.P उवाद । उवद <!-- TODO: Fallback translation -->
-
-*   वृ 9U "elegir"
+स्तु 2U estrictamente अनिट्
+
+::: indent
+*   1.sg.P तुष्टाव । तुष्टव (tu-sto + a)
+    
+*   1.pl.P तुष्टुम
+    
+*   1.sg.Ā तुष्टुवे
+    
+*   1.pl.Ā तुष्टुमहे
+:::
+
+कृ 8U estrictamente अनिट्
+
+::: indent
+*   1.sg.P चकार । चकर
+    
+*   1.pl.P चकृम
+    
+*   1.sg.Ā चक्रे
+    
+*   1.pl.Ā चकृमहे
+:::
+
+#### 40.2.3.2. Tipo de Perfecto IIIb: Raíz fuerte en grado pleno/gradación larga, raíz fuerte en grado pleno
+
+Verbos que siguen este tipo:
+
+*   (Consonante-)(Consonante-)-ṝ
+*   Consonante-Consonante-ṛ
+
+पॄ 3P
+
+::: indent
+*   1.sg.P पपार । पपर
+    
+*   1.pl.P पपरिम
+:::
+
+स्मृ 1P
+
+::: indent
+*   1.sg.P सस्मार । सस्मर
+    
+*   1.pl.P सस्मरिम
+:::
+
+संस्कृ 8U
+
+::: indent
+*   1.sg.P सञ्चस्कार । सञ्चस्कर
+    
+*   1.pl.P सञ्चस्करिम
+    
+*   1.sg.Ā सञ्चस्करे
+    
+*   1.pl.Ā सञ्चस्करिमहे
+:::
+
+### 40.2.4. Tipo IV del perfecto: raíces terminadas en -ā / -ai
+
+*   Forma fuerte:
+    *   1.ª y 3.ª sg. Parasemaipático: -au
+*   Forma débil:
+    *   ante consonante: grado reducido -i
+    *   ante vocal: grado reducido -ø
+
+दा 3U
+
+::: indent
+*   1.sg.P ददौ
+    
+*   1.pl.P ददिम (da-d-i-ma)
+    
+*   1.sg.Ā ददे
+    
+*   1.pl.Ā ददिमहे
+:::
+
+### 40.2.5. Tipo V del Perfecto: Consonante-a-Consonante
+
+1.sg.P. opcionalmente en grado fuerte (high-grade) o en grado prolongado (lengthened-grade)
+
+#### 40.2.5.1. Tipo Va del Perfecto: Consonante-a-Consonante, raíz débil en grado bajo (Tiefstufe)
+
+Verbos que siguen este tipo:
+
+::: indent
+1.  gam "ir"
+2.  han (»ghan) "golpear"
+3.  jan "nacer"
+4.  vac "hablar"
+5.  vad "hablar"
+6.  yaj "sacrificar"
+7.  etc.
+:::
+
+गम् 1P
+
+::: indent
+*   1.sg.P जगाम । जगम
+    
+*   1.pl.P जग्मिम (ja-gm-i-ma)
+:::
+
+हन् 2P
+
+::: indent
+*   1.sg.P जघान । जघन
+    
+*   1.pl.P जघ्निम
+:::
 
 जन् 4Ā
 
-*   सृ 1P
+::: indent
+*   1.sg.Ā जज्ञे
+    
+*   1.pl.Ā जज्ञिमहे
+:::
 
-*   द्रु 1p "correr"
+वच् 2P
 
-स्तु 2U
+::: indent
+*   1.sg.P उवाच । उवच
+    
+*   1.pl.P ऊचिम (u + uc-ima)
+:::
 
-*   1.sg.P इयाज । इयज <!-- TODO: Fallback translation -->
+वद् 1P (Ā)
 
-*   1.pl.P ऊचिम (u + uc-ima) <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P उवाद । उवद
+    
+*   1.pl.P ऊदिम
+    
+*   1.sg.Ā ऊदे
+    
+*   1.pl.Ā  ऊदिमहे
+:::
 
-वद् 1P (Ā) <!-- TODO: Fallback translation -->
+यज् 1U
 
-*   1.sg.P पपाच । पपच <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P इयाज । इयज
+    
+*   1.pl.P ईजिम
+    
+*   1.sg.Ā ईजे
+    
+*   1.pl.Ā ईजिमहे
+:::
 
-*   1.pl.P ऊदिम <!-- TODO: Fallback translation -->
+#### 40.2.5.2. Tipo Vb del Perfecto: Consonante-a-Consonante, consonante inicial no gutural, no aspirada, no h, raíz débil sin reduplicación, con -e-
 
-*   1.sg.Ā ऊदे <!-- TODO: Fallback translation -->
+पच् 1U
 
-*   1.pl.Ā  ऊदिमहे <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P पपाच । पपच
+    
+*   1.pl.P पेचिम
+    
+*   1.sg.Ā पेचे
+    
+*   1.pl.Ā पेचिमहे
+:::
 
-यज् 1U <!-- TODO: Fallback translation -->
+#### 40.2.5.3. Tipo Vc del Perfecto: Consonante-a-Consonante, raíz débil en grado fuerte (Hochstufe)
 
-*   1.sg.P चक्राम । चक्रम <!-- TODO: Fallback translation -->
+Verbos que siguen este tipo:
 
-*   1.pl.P ईजिम <!-- TODO: Fallback translation -->
+*   Todas las demás raíces con la vocal intermedia -a-
 
-*   1.sg.Ā ईजे <!-- TODO: Fallback translation -->
+क्रम् 1U
 
-*   1.pl.Ā ईजिमहे <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P चक्राम । चक्रम
+    
+*   1.pl.P चक्रमिम
+    
+*   1.sg.Ā चक्रमे
+    
+*   1.pl.Ā चक्रमिमहे
+:::
 
-स्रु 1P "fluir"
+### 40.2.6. Formaciones especiales del perfecto
 
-पच् 1U <!-- TODO: Fallback translation -->
+विद् 2P perfecto presente:
 
-*   En las denominadas raíces अनिट् facultativas, la vocal de unión puede insertarse opcionalmente o no. (Listado de estas raíces en Kielhorn, Grammatik p. 92 § 298b,2,3)
+::: indent
+*   1.sg.P वेद (= 3.sg.P)
+    
+*   1.pl.P विद्म
+:::
 
-*   1.pl.P पेचिम <!-- TODO: Fallback translation -->
+अह् 1ª persona no es de uso común.
 
-*   1.sg.Ā पेचे <!-- TODO: Fallback translation -->
+भू 1P
 
-*   1.pl.Ā पेचिमहे <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P बभूव (= 3.sg.P)
+    
+*   1.pl.P बभूविम
+:::
 
-#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e- <!-- TODO: Fallback translation -->
+जि 1P
 
-#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P जिगाय (= 3.sg.P) । जिगय
+    
+*   1.pl.P जिग्यिम (ji-gi + i + ma !)
+:::
 
-*   Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
-
-क्रम् 1U <!-- TODO: Fallback translation -->
-
-*   Alle übrigen Raízn mit mittlerem -a- <!-- TODO: Fallback translation -->
-
-*   1.pl.P चक्रमिम <!-- TODO: Fallback translation -->
-
-*   1.sg.Ā चक्रमे <!-- TODO: Fallback translation -->
-
-*   1.pl.Ā चक्रमिमहे <!-- TODO: Fallback translation -->
-
-### 40.2.6. Besondere Perfekt-Formaciónen
-
-Desinencias de la primera persona (तृतीयः) en el Perfecto (लिट्)
-
-*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-
-*   | :--- | :--- | :--- | :--- |
-
-| **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
-
-| **-a** | **-ma** | **-e** | **-mahe** |
-
-*   Obsérvese que las desinencias de la primera persona singular de P y Ā son idénticas a las de la tercera persona singular. Por consiguiente, en todos los tipos de perfecto excepto los tipos III(a,b) y V(a,b,c), las formas de la primera persona singular de P y Ā son siempre idénticas a las de la tercera persona singular de P y Ā, respectivamente.
-
-*   En el tipo IV, la primera persona singular de P termina en -au, al igual que la tercera persona singular de P.
-
-En los tipos de perfecto III y V, la primera persona singular de Ā es siempre idéntica a la tercera persona singular de Ā.
-
-*   En los tipos de perfecto III y V, la primera persona singular de P y la tercera persona singular de P son opcionalmente idénticas: la tercera persona singular de P debe ser siempre del grado de extensión (dehnstufig) en estos tipos de formación, mientras que la primera persona singular de P puede ser opcionalmente del grado elevado (hochstufig) o del grado de extensión (dehnstufig).
-
-*   Ante desinencias que comienzan por consonante, la mayoría de las raíces insertan la vocal de unión -i-.
-
-## 40.3. Formación der Verbformen der ersten Person des periphrastischen Perfekt (अनुप्रयोगलिट्)
+## 40.3. Formación de las formas verbales de la primera persona del perfecto perifrástico (अनुप्रयोगलिट्)
 
 El perfecto perifrástico se forma a partir de:
 
-*   raíces verbales derivadas (causativo, desiderativo, frecuentativo, denominativos), en particular el causativo
-*   raíces que comienzan con una vocal larga (excepto ā)
+*   raíces verbales derivadas (causativo, desiderativo, frecuentativo, denominativos), en especial el causativo
+*   raíces que comienzan con vocal larga (excepto ā)
 *   raíces: vocal (excepto a)-consonante-consonante
 *   algunas otras
 *   en el caso de algunas raíces, pueden formarse opcionalmente ambos perfectos: uṣ "arder", vid "saber", jāgṛ "velar", daridrā "ser pobre"
-*   en el caso de las siguientes raíces, pueden formarse opcionalmente ambos perfectos, y además el perfecto perifrástico es reduplicado, utilizando la sílaba de reduplicación del tema del presente:
+*   en el caso de las siguientes raíces, pueden formarse opcionalmente ambos perfectos y además el perfecto perifrástico es reduplicado, utilizando la sílaba de reduplicación del tema del presente:
     *   bhī "temer"
     *   bhṛ "llevar"
-    *   hu "ofrecer"
+    *   hu "ofrendar"
     *   hrī "avergonzarse"
 
 ईक्ष् 1Ā
 
+::: indent
 *   1.sg.Ā ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव
-
+    
 *   1.pl.Ā ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम
+:::
 
 बन्ध् Causativo P: बन्धयति
 
+::: indent
 *   1.sg.P बन्धयां चकर । बन्धयां चकार (= 3.sg.P) । बन्धयामास (= 3.sg.P) । बन्धयां बभूव (= 3.sg.P)
-
+    
 *   1.pl.P बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम
+:::
 
-## 40.4. Syntaktisches zur ersten Person (तृतीयः)
+## 40.4. Aspectos sintácticos sobre la primera persona (तृतीयः)
 
-Dado que un verbo finito (verbo conjugado) expresa también al agente (कर्तृ), el «yo» o el «nosotros» en oraciones verbales no pasivas con verbo finito no necesitan ser expresados adicionalmente mediante un pronombre personal.
+::: grammar-box
+Dado que un verbo finito (verbo conjugado) expresa por sí mismo el Agente (कर्तृ), no es necesario añadir un pronombre personal para expresar "yo" o "nosotros" en oraciones verbales no pasivas con verbo finito.
+:::
 
-## 40.5. Personalpronomen (पुरुषार्थकसर्वनाम) der 1. Person Singular und Plural
+## 40.5. Pronombres personales (पुरुषार्थकसर्वनाम) de la primera persona, singular y plural
 
-La forma del pronombre personal (pronomine personal) es la misma para todos los géneros.
+::: grammar-box
+La forma del pronombre personal (pronombre personal) es la misma para todos los géneros.
+:::
+
 :::: grammar-box
 
-| **विभक्तिः**[[br]]Kasus | **एकवचनम्**[[br]]Singular ("ich") | **बहुवचनम्**[[br]]Plural ("wir") |
-| :--- | :--- | :--- |
-| **प्रथमा**[[br]]1. Nominativo | **अहम्** | **वयम्** |
-| **द्वितीया**[[br]]2. Acusativo | **माम्** / **मा** | **अस्मान्** / **नस्** |
-| **तृतीया**[[br]]3. Instrumental | **मया** | **अस्माभिस्** |
-| **चतुर्थी**[[br]]4. Dativo | **मह्यम्** / **मे** | **अस्मभ्यम्** / **नस्** |
-| **पञ्चमी**[[br]]5. Ablativo | **मत्** | **अस्मत्** |
-| **षष्ठी**[[br]]6. Genitivo | **मम** / **मे** | **अस्माकम्** / **नस्** |
-| **सप्तमी**[[br]]7. Locativo | **मयि** | **अस्मासु** |
+| | **एकवचनम्**[[br]]"yo" | **बहुवचनम्**[[br]]"nosotros" |
+| :---: | :---: | :---: |
+| **प्रथमा** | **अहम्** | **वयम्** |
+| **द्वितीया** | **माम्** / **मा** | **अस्मान्** / **नस्** |
+| **तृतीया** | **मया** | **अस्माभिस्** |
+| **चतुर्थी** | **मह्यम्** / **मे** | **अस्मभ्यम्** / **नस्** |
+| **पञ्चमी** | **मत्** | **अस्मत्** |
+| **षष्ठी** | **मम** / **मे** | **अस्माकम्** / **नस्** |
+| **सप्तमी** | **मयि** | **अस्मासु** |
 
 ::::
 
-Las formas más breves, que aparecen en segundo lugar en la tabla anterior (मा, मे, नस्), nunca deben utilizarse al inicio de una oración o verso.
+::: grammar-box
+Las formas más cortas, que aparecen en segundo lugar en la tabla anterior (मा, मे, नस्), nunca deben utilizarse al inicio de una oración o verso.
 
 Ante las partículas च, वा, एव, tampoco se pueden emplear estas denominadas formas enclíticas:
 
 solo: ... मां च ... "y a mí"
+:::
 
-| षष्ठी | मम   | |
+::: grammar-box
+El genitivo (षष्ठी) de los pronombres personales se utiliza como pronombre posesivo:
 
-मम । मे = "mi/mío"
+मम । मे = "mi"
 
 अस्माकम् । नस् = "nuestro"
+:::
 
-| **7. Locativo** | **mayi**[[br]](मयि) | **asmāsu**[[br]](अस्मासु) |
+::: grammar-box
+Como primer miembro de compuestos, estos pronombres tienen las siguientes raíces:
 
 *   sg. मद्
 *   pl. अस्मद्
 
-p.ej. मत्पुस्तकम् "mi libro" ; अस्मद्पुस्तकानि "nuestros libros"
+p. ej. मत्पुस्तकम् "mi libro" ; अस्मद्पुस्तकानि "nuestros libros"
+:::
 
-## 40.6. Vocabulario
+## 40.6. Lista de vocabulario
 
 पात्र n.: Venerable, maestro, digno
 
-मेधा f.: Sabiduría, intelecto, pensamiento
+मेधा f.: Sabiduría, entendimiento, pensamiento
 
 पुस्तक m.n.: Manuscrito, libro
 
-कॢप् 1Ā कल्पते: estar en orden correcto, corresponder a (Loc.); formarse, constituirse; decidirse por, complacerse en (Dat.)
+कॢप् 1Ā कल्पते: estar en orden correcto, corresponder a (Loc.); formarse, constituirse; decidirse por, conformarse con (Dat.)
 
-> Perf. II चकॢपे facultativo अनिट्  
-> Fut. कल्पिष्यते । कल्प्स्यते  
-> Caus. कल्पयति: poner en orden, crear, formar en la fantasía, imaginarse  
-> PPP कॢप्त  
-> Inf. कल्पितुम् । कल्प्तुम्
-> 
-> de ello:
-> 
-> कल्पना f.: La formación en el pensamiento, suposición de algo que no existe en la realidad, ficción
+::: indent
+Perf. II चकॢपé facultativo अनिट्  
+Fut. कल्पिष्यते । कल्प्स्यते  
+Caus. कल्पयति: poner en orden, crear, formar en la fantasía, imaginarse  
+PPP कॢप्त  
+Inf. कल्पितुम् । कल्प्तुम्
+
+de ello:
+
+कल्पना f.: La formación en pensamientos, la suposición de algo que no existe en la realidad, ficción
+:::
 
 कॢप् + वि Caus. विकल्पयति: (imaginarse de diversas maneras =) cuestionar, dudar
 
-> de ello:
-> 
-> विक्ल्प m.: Alternativa, duda
+::: indent
+de ello:
+
+विक्ल्प m.: Alternativa, duda
+:::
 
 तुद् 6U तुदति: golpear
 
-> Perf. II तुतोद, तुतुदुर्  
-> Fut. तोत्स्यति  
-> Pass. तुद्यते  
-> Caus. तोदयति  
-> PPP तुन्न (tud + na)  
-> Inf. तोत्तुम्
+::: indent
+Perf. II तुतोद, तुतुदुर्  
+Fut. तोत्स्यति  
+Pass. तुद्यते  
+Caus. तोदयति  
+PPP तुन्न (tud + na)  
+Inf. तोत्तुम्
+:::
 
 तॄ 1P तरति: cruzar, sobrepasar, salvarse de alguien (Akk. = sobrepasar a alguien)
 
-> Perf. IIIb ततार, ततरुर् । तेरुर्  
-> Fut. तरिष्यति । तरीष्यति  
-> Pass. तीर्यते  
-> Caus. तारयति  
-> PPP तीर्ण  
-> Inf. तरितुम् । तरीतुम्
-> 
-> de ello:
-> 
-> तीर्थ n.: Vado, lugar sagrado de baños, lugar de peregrinación
+::: indent
+Perf. IIIb ततार, ततरुर् । तेरुर्  
+Fut. तरिष्यति । तरीष्यति  
+Pass. तीर्यते  
+Caus. तारयति  
+PPP तीर्ण  
+Inf. तरितुम् । तरीतुम्
+
+de ello:
+
+तीर्थ n.: Vado, lugar sagrado de baños, lugar de peregrinaje
+:::
 
 ::: media
 ![lekt4003.jpg](/images/lekt4003.jpg)
@@ -442,7 +523,9 @@ Fig.: हरिद्वारे तीर्थम्
 (Fuente de la imagen: [Detalles](/licenses#lekt4003))
 :::
 
-> तीर्थङ्कर m. (de: तीर्थम्+ कृ): Hacedor de vados (a través del sufrimiento) = los 24 maestros de los Jaina
+::: indent
+तीर्थङ्कर m. (de: तीर्थम्+ कृ): Hacedor de vados (a través del sufrimiento) = los 24 maestros de los jainistas
+:::
 
 ::: media
 ![lekt4002.jpg](/images/lekt4002.jpg)
@@ -450,13 +533,15 @@ Fig.: तीर्थङ्करः
 (Fuente de la imagen: [Detalles](/licenses#lekt4002))
 :::
 
-अव Prefijo verbal: abajo, hacia abajo, lejos, ab-
+अव Prefijo verbal: hacia abajo, abajo, lejos, ab-
 
 तॄ + अव 1P अवतरति: descender
 
-> de ello:
-> 
-> अवतार m.: (Descendedor, descenso) Encarnación de un dios, especialmente de Viṣṇu 10 encarnaciones (véase Basham, Maravillas pág. 304 - 309)
+::: indent
+de ello:
+
+अवतार m.: (Descendedor, descenso) Encarnación de un dios, especialmente las 10 encarnaciones de Viṣṇu (véase Basham, Maravillas, págs. 304 - 309)
+:::
 
 ::: media
 ![lekt4001.jpg](/images/lekt4001.jpg)
@@ -466,19 +551,21 @@ Fig.: विष्णोर्दशावताराः
 
 स्वप् 2P स्वपिति,  स्वपन्ति: dormir, acostarse a dormir
 
-> Impf. अस्वपीत् । अस्वपत्  
-> Perf. सुष्वाप, सुषुपुर्  
-> Fut. स्वप्स्यति  
-> Pass. सुप्यते (de \*svp-ya-te)  
-> Caus. स्वापयति  
-> PPP सुप्त  
-> Inf. स्वप्तुम्
-> 
-> de ello:
-> 
-> स्वप्न m.: Sueño, sueño (en el sentido de visión onírica)
-> 
-> सुप्ति f. (de \*svp-ti): Sueño, especialmente sueño profundo
+::: indent
+Impf. अस्वपीत् । अस्वपत्  
+Perf. सुष्वाप, सुषुपुर्  
+Fut. स्वप्स्यति  
+Pass. सुप्यते (de \*svp-ya-te)  
+Caus. स्वापयति  
+PPP सुप्त  
+Inf. स्वप्तुम्
+
+de ello:
+
+स्वप्न m.: Sueño, sueño onírico
+
+सुप्ति f. (de \*svp-ti): Sueño, especialmente sueño profundo
+:::
 
 ::: media
 ![lekt4004.jpg](/images/lekt4004.jpg)
@@ -488,11 +575,11 @@ Fig.: स्वपन्ति
 
 ## 40.7. Ejercicio
 
-A) Traduzca los *subhāṣitāni* al inicio de la lección.
+A) Traduzca los सुभाषितानi al inicio de la lección.
 
-B) Transforme las siguientes formas verbales en sus correspondientes formas del perfecto. En caso de existir múltiples posibilidades, indique por favor todas ellas.
+B) Transforme las siguientes formas verbales en sus correspondientes formas de perfecto (aoristo perfecto). Si existen varias posibilidades, indique por favor todas ellas.
 
-(Leyenda de signos: अ = anit, इ = opcionalmente anit)
+(Leyenda de signos: अ = अनिट् [anīḍ], इ = opcionalmente अनिट् [anīḍ])
 
 1.  अश्नीमः
 2.  स्मः
@@ -546,9 +633,9 @@ B) Transforme las siguientes formas verbales en sus correspondientes formas del 
 50.  पुने
 51.  भुञ्ज्मः
 52.  स्मरिष्यामः
-53.  abhajāma (sigue el tipo Vb)
+53.  अभजाम (sigue el tipo Vb)
 54.  जेष्यामः
-55.  āse (perifrástico)
+55.  आसे (perifrástico)
 56.  विन्दामः
 57.  धक्ष्यामः
 58.  शक्नुमः
@@ -564,7 +651,7 @@ B) Transforme las siguientes formas verbales en sus correspondientes formas del 
 68.  पश्यामः
 69.  ईक्षे
 
-## 40.8. Wiederholungsübung zur Formenlehre
+## 40.8. Ejercicio de repaso sobre la morfología
 
 1.  ददे
 2.  ददते
@@ -609,9 +696,9 @@ B) Transforme las siguientes formas verbales en sus correspondientes formas del 
 
 ### Fuentes
 
-- **Image lekt4005.jpg** (Ilustración: पादं सब्रह्मचारिभ्यः): Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம் [Origen de la imagen: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
-- **Image lekt4003.jpg** (Ilustración: हरिद्वारे तीर्थम्): [Origen de la imagen: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
-- **Image lekt4002.jpg** (Ilustración: तीर्थङ्करः): [Origen de la imagen: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt4001.jpg** (Ilustración: विष्णोर्दशावताराः): Im Uhrzeigersinn: मत्स्य, कुर्म, वाराह, वामन, कृष्ण, कल्कि, बुद्ध, परशुराम, राम, नरसिंह, in der Mitte: कृष्ण [Origen de la imagen: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-- **Image lekt4004.jpg** (Ilustración: स्वपन्ति): Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Origen de la imagen: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+- **Image lekt4005.jpg** (Fig.: पादं सब्रह्मचारिभ्यः): Vadaseri, Distrito de Thanjavur = தஞ்சாவூர் மாவட்டam [Fuente de la imagen: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución, Compartir Igual)]
+- **Image lekt4003.jpg** (Fig.: हरिद्वारे तीर्थम्): [Fuente de la imagen: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución)]
+- **Image lekt4002.jpg** (Fig.: तीर्थङ्करः): [Fuente de la imagen: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución, No Comercial, Sin Obras Derivadas)]
+- **Image lekt4001.jpg** (Fig.: विष्णोर्दशावताराः): En sentido horario: मत्स्य, कुर्म, वाराह, वामन, कृष्ण, कल्कि, बुद्ध, परशुराम, राम, नरसिंह, en el centro: कृष्ण [Fuente de la imagen: Wikipedia. Dominio público]
+- **Image lekt4004.jpg** (Fig.: स्वपन्ति): Murciélagos frugívoros indios (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Fuente de la imagen: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución, No Comercial, Sin Obras Derivadas)]
 :::

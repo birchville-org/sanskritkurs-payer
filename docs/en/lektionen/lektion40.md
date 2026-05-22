@@ -1,52 +1,62 @@
+---
+lesson_id: 40
+last_reconstructed: 2026-05-21
+---
 
+# Lesson 40
 
-# Lektion 40
+## 40.1. Subhāṣitāni
 
-## 40.1. सुभाषितानि
+::: indent
+vidyā dadāti vinayaṃ  
+vinayād yāti pātratām |  
+pātratvād dhana māpnoti  
+dhana dharmaṃ tataḥ sukham ||1||
 
-> विद्या ददाति विनयं  
-> विनयाद्याति पात्रताम् ।  
-> पात्रत्वाद्धनमाप्नोति  
-> धनाद्धर्मं ततः सुखम् ॥१॥
-> 
-> सुखार्थी चेत्त्यजेद्विद्यां  
-> विद्यार्थी चेत्त्यजेत्सुखम् ।  
-> सुखार्थिनः कुतो विद्या  
-> कुतो विद्यार्थिनः सुखम् ॥२॥
-> 
-> आचार्यात्पादमादत्ते  
-> पादं शिष्यः स्वमेधया ।  
-> पादं सब्रह्मचारिभ्यःयः  
-> पादं कालक्रमेण च ॥३॥
+sukhārthī cet tyajed vidyāṃ  
+vidyārthī cet tyajet sukham |  
+sukhārthinaḥ kuto vidyā  
+kuto vidyārthinaḥ sukham ||2||
 
-::: media
-pādaṃ sabrahmacāribhyaḥyaḥ  
+ācāryāt pādam ādatte  
+pādaṃ śiṣyaḥ svam edhayā |  
+pādaṃ sabrahmacāribhyaḥ  
+pādaṃ kālakrameṇa ca ||3||
 :::
 
-## 40.2. Formation der Verbformen der ersten Person Perfekt (लिट्)
+::: media
+![lekt4005.jpg](/images/lekt4005.jpg)
+Fig.: pādaṃ sabrahmacāribhyaḥ
+(Image source: [Details](/licenses#lekt4005))
+:::
 
-Endings of the first person (तृतीयः) in the Perfect (लिट्)
+## 40.2. Formation of the First Person Perfect (लिट्)
+
+Endings of the First Person (तृतीयः) in the Perfect (लिट्)
 
 :::: grammar-box
 
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-| :--- | :--- | :--- | :--- |
-| **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
+| **परस्मैपदम्** | ← | **आत्मनेपदम्** | ← |
+| :---: | :---: | :---: | :---: |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **-a** | **-ma** | **-e** | **-mahe** |
 
 ::::
 
-Note that the endings of the 1st person singular P, Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except Type III(a,b) and Type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā, respectively.
+::: grammar-box
+Note that the endings of the First Person Singular P. and Ā. are identical to those of the Third Person Singular. Therefore, in all Perfect types except Type III(a,b) and Type V(a,b,c), the forms of the First Person Singular P. and Ā. are always identical to those of the Third Person Singular P. and Ā., respectively.
 
-In Type IV, the 1st sg. P ends like the 3rd sg. P in -au.
+In Type IV, the First Person Singular P. ends in -au, just like the Third Person Singular P.
 
-In perfect types III and V, the 1st singular Ā is always identical to the 3rd singular Ā.
+In Perfect Types III and V, the First Person Singular Ā. is always identical to the Third Person Singular Ā.
 
-In perfect types III and V, the 1st singular P and the 3rd singular P are optionally identical: the 3rd sg. P must always be in the guṇa grade for these formation types, while the 1st sg. P can be optionally in the vṛddhi or guṇa grade.
+In Perfect Types III and V, the First Person Singular P. and the Third Person Singular P. are optionally identical: the Third Person Singular P. must always be in the guṇa-grade for these formation types, while the First Person Singular P. can optionally be in the strong grade or the guṇa-grade.
+:::
 
-Before consonant-initial endings, the connecting vowel -i- occurs with the majority of roots.
+::: grammar-box
+For the majority of roots, the connecting vowel -i- appears before consonant-initial endings.
 
-Except before the ending -re, before which -i- must always occur, the connecting vowel before consonant-initial endings never occurs with eight roots ending in -ṛ or -u, namely:
+Except before the ending -re, which always requires -i-, the connecting vowel before consonant-initial endings never appears with eight roots ending in -ṛ or -u, namely:
 
 1.  कृ 8U (except संस्कृ)
 2.  भृ 1U
@@ -57,512 +67,591 @@ Except before the ending -re, before which -i- must always occur, the connecting
 7.  स्तु 2U
 8.  स्रु 1P "to flow"
 
-With so-called facultative अनिट् roots, the connecting vowel may optionally be inserted or not. (List of these roots in Kielhorn, Grammar p. 92 § 298b, 2, 3)
+With so-called facultative अनिट्-roots, the connecting vowel may optionally be inserted or omitted. (For a listing of these roots, see Kielhorn, Grammar, p. 92, § 298b,2,3.)
+:::
 
-### 40.2.1. Perfekt Typ I: keine Stemabstufung
+### 40.2.1. Perfect Type I: No Stem Gradation
 
-Endings of the first person (तृतीयः) in the Perfect (लिट्)
+1st sg. = 3rd sg.
 
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+Verbs following this type:
 
-*   | :--- | :--- | :--- | :--- |
-*   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
-*   | **-a** | **-ma** | **-e** | **-mahe** |
-*   Note that the endings of the 1st person singular P, Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except Type III(a,b) and Type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā, respectively.
+*   Consonant-Long Vowel-Consonant
+*   Consonant-Vowel-Consonant-Consonant
+*   a-Consonant(-Consonant)
+*   ā-Consonant
 
-In Type IV, the 1st sg. P ends like the 3rd sg. P in -au.
+बन्ध् 9P
 
-*   In perfect types III and V, the 1st singular Ā is always identical to the 3rd singular Ā.
-*   In perfect types III and V, the 1st singular P and the 3rd singular P are optionally identical: the 3rd sg. P must always be in the guṇa grade for these formation types, while the 1st sg. P can be optionally in the vṛddhi or guṇa grade.
+::: indent
+*   1.sg.P बबन्ध
+*   1.pl.P बबन्धिम
+:::
 
-Before consonant-initial endings, the connecting vowel -i- occurs with the majority of roots.
+जीव् 1P
 
-*   Except before the ending -re, before which -i- must always occur, the connecting vowel before consonant-initial endings never occurs with eight roots ending in -ṛ or -u, namely:
-
-*   कृ 8U (except संस्कृ)
+::: indent
+*   1.sg.P जिजीव
+*   1.pl.P जिजिविम
+:::
 
 अश् 5Ā
 
-*   वृ 9U "to choose"
+::: indent
+*   1.sg.Ā आनशे
+*   1.pl.Ā आनशिमहे
+:::
 
-*   सृ 1P
+अस् 2P and अस् 4P
 
-द्रु 1p "to run"
+::: indent
+*   1.sg.P आस
+*   1.pl.P आसिम (a + as-i-ma)
+:::
 
-*   श्रु 5P
+### 40.2.2. Perfect Type II: Strong stem in guṇa, weak stem in zero-grade
 
-*   स्तु 2U
+Verbs following this type:
 
-### 40.2.2. Perfekt Typ II: starker Stem Hochstufe, schwacher Stem Tiefstufe
+*   (Consonant-)i/u/ṛ/ḷ-consonant
 
-Endings of the first person (तृतीयः) in the Perfect (लिट्)
+भिद् 7U
 
-*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
+::: indent
+*   1.sg.P बिभेद
+    
+*   1.pl.P बिभिदिम
+    
+*   1.sg.Ā बिभिदे
+    
+*   1.pl.Ā बिभिदिमहे
+:::
+
+मुह् 4P optionally अनिट्
 
-| :--- | :--- | :--- | :--- |
+::: indent
+*   1.sg.P मुमोह
+    
+*   1.pl.P मुमुहिम । मुमुह्म
+:::
+
+### 40.2.3. Perfect Type III: Strong Stem in Guṇa/Long Grade / Vṛddhi Grade
 
-*   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
+1.sg.P optionally in Guṇa grade or Vṛddhi grade
+
+#### 40.2.3.1. Perfect Type IIIa: Strong Stem in Guṇa/Long Grade, Weak Stem in Low Grade
+
+Verbs following this type:
+
+*   (Consonant-)(Consonant-)i/ī/u/ū
+*   (Consonant-)-ṛ
+
+इ 2P
+
+::: indent
+*   1.sg.P इयाय । इयय (i+e+a)
+    
+*   1.pl.P ईयिम (i+iy+i+ma)
+:::
 
-*   | **-a** | **-ma** | **-e** | **-mahe** |
+नी 1U
 
-*   Note that the endings of the 1st person singular P, Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except Type III(a,b) and Type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā, respectively.
+::: indent
+*   1.sg.P निनाय । निनय
+    
+*   1.pl.P निन्यिम (ni-nī + i + ma !!!)
+    
+*   1.sg.Ā निन्ये
+    
+*   1.pl.Ā निन्यिमहे
+:::
 
-*   In Type IV, the 1st sg. P ends like the 3rd sg. P in -au.
-
-With so-called facultative अनिट् roots, the connecting vowel may optionally be inserted or not. (List of these roots in Kielhorn, Grammar p. 92 § 298b, 2, 3)
-
-*   In perfect types III and V, the 1st singular Ā is always identical to the 3rd singular Ā.
-
-*   In perfect types III and V, the 1st singular P and the 3rd singular P are optionally identical: the 3rd sg. P must always be in the guṇa grade for these formation types, while the 1st sg. P can be optionally in the vṛddhi or guṇa grade.
-
-### 40.2.3. Perfekt Typ III: Starker Stem Hochstufe/Dehnstufe
-
-Endings of the first person (तृतीयः) in the Perfect (लिट्)
-
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-
-| :--- | :--- | :--- | :--- |
-
-*   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
-*   | **-a** | **-ma** | **-e** | **-mahe** |
-
-Note that the endings of the 1st person singular P, Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except Type III(a,b) and Type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā, respectively.
-
-*   In Type IV, the 1st sg. P ends like the 3rd sg. P in -au.
-
-*   In perfect types III and V, the 1st singular Ā is always identical to the 3rd singular Ā.
-
-In perfect types III and V, the 1st singular P and the 3rd singular P are optionally identical: the 3rd sg. P must always be in the guṇa grade for these formation types, while the 1st sg. P can be optionally in the vṛddhi or guṇa grade.
-
-*   Before consonant-initial endings, the connecting vowel -i- occurs with the majority of roots.
-
-*   Except before the ending -re, before which -i- must always occur, the connecting vowel before consonant-initial endings never occurs with eight roots ending in -ṛ or -u, namely:
-
-*   भृ 1U
-
-*   वृ 9U "to choose"
-
-स्तु 2U
-
-*   सृ 1P
-
-*   द्रु 1p "to run"
-
-*   श्रु 5P
-
-*   स्रु 1P "to flow"
-
-कृ 8U (except संस्कृ)
-
-*   With so-called facultative अनिट् roots, the connecting vowel may optionally be inserted or not. (List of these roots in Kielhorn, Grammar p. 92 § 298b, 2, 3)
-
-*   1.pl.P चकृम <!-- TODO: Fallback translation -->
-
-*   1.sg.Ā चक्रे <!-- TODO: Fallback translation -->
-
-*   1.pl.Ā चकृमहे <!-- TODO: Fallback translation -->
-
-#### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
-
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
-
-*   (Konsonant-)(Konsonant-)-ṝ <!-- TODO: Fallback translation -->
-*   Konsonant-Konsonant-ṛ <!-- TODO: Fallback translation -->
-
-पॄ 3P <!-- TODO: Fallback translation -->
-
-*   1.sg.P पपार । पपर <!-- TODO: Fallback translation -->
-
-*   1.pl.P पपरिम <!-- TODO: Fallback translation -->
-
-स्मृ 1P <!-- TODO: Fallback translation -->
-
-*   1.sg.P सस्मार । सस्मर <!-- TODO: Fallback translation -->
-
-*   1.pl.P सस्मरिम <!-- TODO: Fallback translation -->
-
-संस्कृ 8U <!-- TODO: Fallback translation -->
-
-*   1.sg.P सञ्चस्कार । सञ्चस्कर <!-- TODO: Fallback translation -->
-
-*   1.pl.P सञ्चस्करिम <!-- TODO: Fallback translation -->
-
-*   1.sg.Ā सञ्चस्करे <!-- TODO: Fallback translation -->
-
-*   1.pl.Ā सञ्चस्करिमहे <!-- TODO: Fallback translation -->
-
-### 40.2.4. Perfekt Typ IV: Rootn auf -ā / -ai
-
-*   Endings of the first person (तृतीयः) in the Perfect (लिट्)
-    *   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-*   | :--- | :--- | :--- | :--- |
-    *   | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
-    *   | **-a** | **-ma** | **-e** | **-mahe** |
-
-Note that the endings of the 1st person singular P, Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except Type III(a,b) and Type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā, respectively.
-
-*   In Type IV, the 1st sg. P ends like the 3rd sg. P in -au.
-
-*   In perfect types III and V, the 1st singular Ā is always identical to the 3rd singular Ā.
-
-*   In perfect types III and V, the 1st singular P and the 3rd singular P are optionally identical: the 3rd sg. P must always be in the guṇa grade for these formation types, while the 1st sg. P can be optionally in the vṛddhi or guṇa grade.
-
-*   Before consonant-initial endings, the connecting vowel -i- occurs with the majority of roots.
-
-### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
-
-Endings of the first person (तृतीयः) in the Perfect (लिट्)
-
-| Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
-
-| :--- | :--- | --- | --- |
-
-> | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) |
-> | **-a** | **-ma** | **-e** | **-mahe** |
-> Note that the endings of the 1st person singular P, Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except Type III(a,b) and Type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā, respectively.
-> In Type IV, the 1st sg. P ends like the 3rd sg. P in -au.
-> In perfect types III and V, the 1st singular Ā is always identical to the 3rd singular Ā.
-> In perfect types III and V, the 1st singular P and the 3rd singular P are optionally identical: the 3rd sg. P must always be in the guṇa grade for these formation types, while the 1st sg. P can be optionally in the vṛddhi or guṇa grade.
-> Before consonant-initial endings, the connecting vowel -i- occurs with the majority of roots.
-
-Except before the ending -re, before which -i- must always occur, the connecting vowel before consonant-initial endings never occurs with eight roots ending in -ṛ or -u, namely:
-
-*   1.sg.P उवाच । उवच <!-- TODO: Fallback translation -->
-
-*   कृ 8U (except संस्कृ)
-
-भृ 1U
-
-*   1.sg.P उवाद । उवद <!-- TODO: Fallback translation -->
-
-*   वृ 9U "to choose"
+स्तु 2U strictly anit
+
+::: indent
+*   1.sg.P तुष्टाव । तुष्टव (tu-sto + a)
+    
+*   1.pl.P तुष्टुम
+    
+*   1.sg.Ā तुष्टुवे
+    
+*   1.pl.Ā तुष्टुमहे
+:::
+
+कृ 8U strictly anit
+
+::: indent
+*   1.sg.P चकार । चकर
+    
+*   1.pl.P चकृम
+    
+*   1.sg.Ā चक्रे
+    
+*   1.pl.Ā चकृमहे
+:::
+
+#### 40.2.3.2. Perfect Type IIIb: Strong Stem in Guṇa/Long Grade, Weak Stem in High Grade
+
+Verbs following this type:
+
+*   (Consonant-)(Consonant-)-ṝ
+*   Consonant-Consonant-ṛ
+
+पॄ 3P
+
+::: indent
+*   1.sg.P पपार । पपर
+    
+*   1.pl.P पपरिम
+:::
+
+स्मृ 1P
+
+::: indent
+*   1.sg.P सस्मार । सस्मर
+    
+*   1.pl.P सस्मरिम
+:::
+
+संस्कृ 8U
+
+::: indent
+*   1.sg.P सञ्चस्कार । सञ्चस्कर
+    
+*   1.pl.P सञ्चस्करिम
+    
+*   1.sg.Ā सञ्चस्करे
+    
+*   1.pl.Ā सञ्चस्करिमहे
+:::
+
+### 40.2.4. Perfect Type IV: Roots ending in -ā / -ai
+
+*   Strong stem:
+    *   1st and 3rd sg. Parasmaipada: -au
+*   Weak stem:
+    *   before consonant: Guṇa-stage -i
+    *   before vowel: Guṇa-stage -Ø
+
+दा 3U
+
+::: indent
+*   1.sg.P ददौ
+    
+*   1.pl.P ददिम (da-d-i-ma)
+    
+*   1.sg.Ā ददे
+    
+*   1.pl.Ā ददिमहे
+:::
+
+### 40.2.5. Perfect Class V: Consonant-a-Consonant
+
+1st sg. Pres. optionally strong-grade or lengthened-grade
+
+#### 40.2.5.1. Perfect Class Va: Consonant-a-Consonant, weak stem low-grade
+
+Verbs following this class:
+
+::: indent
+1.  gam "to go"
+2.  han (»ghan) "to strike down"
+3.  jan "to be born"
+4.  vac "to speak"
+5.  vad "to speak"
+6.  yaj "to sacrifice"
+7.  et al.
+:::
+
+गम् 1P
+
+::: indent
+*   1.sg.P जगाम । जगम
+    
+*   1.pl.P जग्मिम (ja-gm-i-ma)
+:::
+
+हन् 2P
+
+::: indent
+*   1.sg.P जघान । जघन
+    
+*   1.pl.P जघ्निम
+:::
 
 जन् 4Ā
 
-*   सृ 1P
+::: indent
+*   1.sg.Ā जज्ञे
+    
+*   1.pl.Ā जज्ञिमहे
+:::
 
-*   द्रु 1p "to run"
+वच् 2P
 
-स्तु 2U
+::: indent
+*   1.sg.P उवाच । उवच
+    
+*   1.pl.P ऊचिम (u + uc-ima)
+:::
 
-*   1.sg.P इयाज । इयज <!-- TODO: Fallback translation -->
+वद् 1P (Ā)
 
-*   1.pl.P ऊचिम (u + uc-ima) <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P उवाद । उवद
+    
+*   1.pl.P ऊदिम
+    
+*   1.sg.Ā ऊदे
+    
+*   1.pl.Ā  ऊदिमहे
+:::
 
-वद् 1P (Ā) <!-- TODO: Fallback translation -->
+यज् 1U
 
-*   1.sg.P पपाच । पपच <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P इयाज । इयज
+    
+*   1.pl.P ईजिम
+    
+*   1.sg.Ā ईजे
+    
+*   1.pl.Ā ईजिमहे
+:::
 
-*   1.pl.P ऊदिम <!-- TODO: Fallback translation -->
+#### 40.2.5.2. Perfect Class Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, or h, weak stem without reduplication, with -e-
 
-*   1.sg.Ā ऊदे <!-- TODO: Fallback translation -->
+पच् 1U
 
-*   1.pl.Ā  ऊदिमहे <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P पपाच । पपच
+    
+*   1.pl.P पेचिम
+    
+*   1.sg.Ā पेचे
+    
+*   1.pl.Ā पेचिमहे
+:::
 
-यज् 1U <!-- TODO: Fallback translation -->
+#### 40.2.5.3. Perfect Class Vc: Consonant-a-Consonant, weak stem strong-grade
 
-*   1.sg.P चक्राम । चक्रम <!-- TODO: Fallback translation -->
+Verbs following this class:
 
-*   1.pl.P ईजिम <!-- TODO: Fallback translation -->
+*   All remaining roots with medial -a-
 
-*   1.sg.Ā ईजे <!-- TODO: Fallback translation -->
+क्रम् 1U
 
-*   1.pl.Ā ईजिमहे <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P चक्राम । चक्रम
+    
+*   1.pl.P चक्रमिम
+    
+*   1.sg.Ā चक्रमे
+    
+*   1.pl.Ā चक्रमिमहे
+:::
 
-स्रु 1P "to flow"
+### 40.2.6. Special Perfect Forms
 
-पच् 1U <!-- TODO: Fallback translation -->
+विद् (vid) 2P present perfect:
 
-*   With so-called facultative अनिट् roots, the connecting vowel may optionally be inserted or not. (List of these roots in Kielhorn, Grammar p. 92 § 298b, 2, 3)
+::: indent
+*   1.sg.P वेद (veda = 3.sg.P)
+    
+*   1.pl.P विद्म (vidma)
+:::
 
-*   1.pl.P पेचिम <!-- TODO: Fallback translation -->
+अह् (ah) 1st person not commonly used!
 
-*   1.sg.Ā पेचे <!-- TODO: Fallback translation -->
+भू (bhū) 1P
 
-*   1.pl.Ā पेचिमहे <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P बभूव (babhūva = 3.sg.P)
+    
+*   1.pl.P बभूविम (babhūvim)
+:::
 
-#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e- <!-- TODO: Fallback translation -->
+जि (ji) 1P
 
-#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P जिगाय (jigāya = 3.sg.P) । जिगय (jigaya)
+    
+*   1.pl.P जिग्यिम (jigyima) (ji-gi + i + ma !)
+:::
 
-*   Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+## 40.3. Formation of the First Person Forms of the Periphrastic Perfect (अनुप्रयोगलिट्)
 
-क्रम् 1U <!-- TODO: Fallback translation -->
+The periphrastic perfect is formed from:
 
-*   Alle übrigen Rootn mit mittlerem -a- <!-- TODO: Fallback translation -->
-
-*   1.pl.P चक्रमिम <!-- TODO: Fallback translation -->
-
-*   1.sg.Ā चक्रमे <!-- TODO: Fallback translation -->
-
-*   1.pl.Ā चक्रमिमहे <!-- TODO: Fallback translation -->
-
-### 40.2.6. Besondere Perfekt-Formationen
-
-Endings of the first person (तृतीयः) in the Perfect (लिट्)
-
-*   | **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-
-*   | :--- | :--- | :--- | :--- |
-
-| **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
-
-| **-a** | **-ma** | **-e** | **-mahe** |
-
-*   Note that the endings of the 1st person singular P, Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except Type III(a,b) and Type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā, respectively.
-
-*   In Type IV, the 1st sg. P ends like the 3rd sg. P in -au.
-
-In perfect types III and V, the 1st singular Ā is always identical to the 3rd singular Ā.
-
-*   In perfect types III and V, the 1st singular P and the 3rd singular P are optionally identical: the 3rd sg. P must always be in the guṇa grade for these formation types, while the 1st sg. P can be optionally in the vṛddhi or guṇa grade.
-
-*   Before consonant-initial endings, the connecting vowel -i- occurs with the majority of roots.
-
-## 40.3. Formation der Verbformen der ersten Person des periphrastischen Perfekt (अनुप्रयोगलिट्)
-
-Das periphrastische Perfekt wird gebildet von: <!-- TODO: Fallback translation -->
-
-*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ <!-- TODO: Fallback translation -->
-*   Rootn, die mit langem Vokal (außer ā) beginnen <!-- TODO: Fallback translation -->
-*   Rootn: Vokal (außer a-)-Konsonant-Konsonant <!-- TODO: Fallback translation -->
-*   einigen anderen <!-- TODO: Fallback translation -->
-*   bei einigen Rootn können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein" <!-- TODO: Fallback translation -->
-*   bei folgende Rootn  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Present Stems: <!-- TODO: Fallback translation -->
-    *   bhī "sich fürchten" <!-- TODO: Fallback translation -->
-    *   bhṛ "tragen" <!-- TODO: Fallback translation -->
-    *   hu "opfern" <!-- TODO: Fallback translation -->
-    *   hrī "sich schämen" <!-- TODO: Fallback translation -->
+*   Derived verbal stems (causative, desiderative, frequentative, denominative), particularly the causative
+*   Roots beginning with a long vowel (except ā)
+*   Roots: Vowel (except a)-Consonant-Consonant
+*   Some others
+*   For some roots, both perfects can optionally be formed: uṣ "to burn", vid "to know", jāgṛ "to be awake", daridrā "to be poor"
+*   For the following roots, both perfects can optionally be formed, and the periphrastic perfect is also reduplicated, namely with the reduplication syllable of the present stem:
+    *   bhī "to fear"
+    *   bhṛ "to carry"
+    *   hu "to sacrifice"
+    *   hrī "to be ashamed"
 
 ईक्ष् 1Ā
 
-*   1.sg.Ā ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.Ā ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव
+    
+*   1.pl.Ā ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम
+:::
 
-*   1.pl.Ā ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम <!-- TODO: Fallback translation -->
+बन्ध् Causative P: बन्धयति
 
-बन्ध् Kausativum P: बन्धयति <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P बन्धयां चकर । बन्धयां चकार (= 3.sg.P) । बन्धयामास (= 3.sg.P) । बन्धयां बभूव (= 3.sg.P)
+    
+*   1.pl.P बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम
+:::
 
-*   1.sg.P बन्धयां चकर । बन्धयां चकार (= 3.sg.P) । बन्धयामास (= 3.sg.P) । बन्धयां बभूव (= 3.sg.P) <!-- TODO: Fallback translation -->
+## 40.4. Syntactic Notes on the First Person (तृतीयः)
 
-*   1.pl.P बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम <!-- TODO: Fallback translation -->
+::: grammar-box
+Since a finite verb (conjugated verb) inherently expresses the agent (कर्तृ), the pronouns "I" or "we" do not need to be explicitly stated via a personal pronoun in non-passive verbal sentences containing a finite verb.
+:::
 
-## 40.4. Syntaktisches zur ersten Person (तृतीयः)
+## 40.5. Personalpronouns (पुरुषार्थकसर्वनाम) of the First Person Singular and Plural
 
-Da ein Verbum finitum (konjugiertes Verb) den Agens (कर्तृ) mit ausdrückt, braucht das "ich", "wir" in nicht-passiven Verbalsätzen mit Verbum finitum nicht extra durch ein Personalpronomen ausgedrückt werden <!-- TODO: Fallback translation -->
+::: grammar-box
+The form of the personal pronoun (personal pronominal word) is the same for all genders.
+:::
 
-## 40.5. Personalpronomen (पुरुषार्थकसर्वनाम) der 1. Person Singular und Plural
-
-Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe. <!-- TODO: Fallback translation -->
 :::: grammar-box
 
-| **विभक्तिः**[[br]]Kasus | **एकवचनम्**[[br]]Singular ("ich") | **बहुवचनम्**[[br]]Plural ("wir") |
-| :--- | :--- | :--- |
-| **प्रथमा**[[br]]1. Nominative | **अहम्** | **वयम्** |
-| **द्वितीया**[[br]]2. Accusative | **माम्** / **मा** | **अस्मान्** / **नस्** |
-| **तृतीया**[[br]]3. Instrumental | **मया** | **अस्माभिस्** |
-| **चतुर्थी**[[br]]4. Dative | **मह्यम्** / **मे** | **अस्मभ्यम्** / **नस्** |
-| **पञ्चमी**[[br]]5. Ablative | **मत्** | **अस्मत्** |
-| **षष्ठी**[[br]]6. Genitive | **मम** / **मे** | **अस्माकम्** / **नस्** |
-| **सप्तमी**[[br]]7. Locative | **मयि** | **अस्मासु** |
+| | **एकवचनम्**[[br]]"I" | **बहुवचनम्**[[br]]"we" |
+| :---: | :---: | :---: |
+| **प्रथमा** | **अहम्** | **वयम्** |
+| **द्वितीया** | **माम्** / **मा** | **अस्मान्** / **नस्** |
+| **तृतीया** | **मया** | **अस्माभिस्** |
+| **चतुर्थी** | **मह्यम्** / **मे** | **अस्मभ्यम्** / **नस्** |
+| **पञ्चमी** | **मत्** | **अस्मत्** |
+| **षष्ठी** | **मम** / **मे** | **अस्माकम्** / **नस्** |
+| **सप्तमी** | **मयि** | **अस्मासु** |
 
 ::::
 
-Die kürzeren Formen, die oben an zweiter Stelle stehen (मा, मे, नस्) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden. <!-- TODO: Fallback translation -->
+::: grammar-box
+The shorter forms, which appear second in the table above (मा, मे, नस्), must never be used at the beginning of a sentence or verse.
 
-Vor den Partikeln च, वा, एव dürfen diese sog. enklitischen Formen ebenfalls nicht gebraucht werden: <!-- TODO: Fallback translation -->
+Furthermore, these so-called enclitic forms cannot be used before the particles च, वा, and एव:
 
-nur: ... मां च ... "und mich" <!-- TODO: Fallback translation -->
+only: ... मां च ... "and me"
+:::
 
-| षष्ठी | मम   | | <!-- TODO: Fallback translation -->
+::: grammar-box
+The genitive case (षष्ठी) of the personal pronouns is used as a possessive pronoun:
 
-मम । मे = "mein" <!-- TODO: Fallback translation -->
+मम । मे = "my"
 
-अस्माकम् । नस् = "unser" <!-- TODO: Fallback translation -->
+अस्माकम् । नस् = "our"
+:::
 
-| **7. Lokativ** | **mayi**[[br]](मयि) | **asmāsu**[[br]](अस्मासु) | <!-- TODO: Fallback translation -->
+::: grammar-box
+As the first member of compounds, these pronouns take the following stems:
 
-*   sg. मद् <!-- TODO: Fallback translation -->
-*   pl. अस्मद् <!-- TODO: Fallback translation -->
+*   sg. मद्
+*   pl. अस्मद्
 
-z.B. मत्पुस्तकम् "mein Buch" ; अस्मद्पुस्तकानि "unsere Bücher" <!-- TODO: Fallback translation -->
+e.g., मत्पुस्तकम् "my book" ; अस्मद्पुस्तकानि "our books"
+:::
 
-## 40.6. Vocabulary List
+## 40.6. Word List
 
-पात्र n.: Ehrwürdiger, Meister, Würdiger <!-- TODO: Fallback translation -->
+pātra n.: Venerable, Master, Worthy one
 
-मेधा f.: Weisheit, Verstand, Gedanke <!-- TODO: Fallback translation -->
+medhā f.: Wisdom, intellect, thought
 
-पुस्तक m.n.: Manuskript, Buch <!-- TODO: Fallback translation -->
+pustaka m.n.: Manuscript, book
 
-कॢप् 1Ā कल्पते : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschließen zu, sich bequemen zu (Dativ) <!-- TODO: Fallback translation -->
+kalp 1Ā kalpate: to be in proper order, to fit (Loc.); to take shape, to form; to resolve to, to condescend to (Dat.)
 
-> Perf. II चकॢपे fakultativ अनिट्   <!-- TODO: Fallback translation -->
-> Fut. कल्पिष्यते । कल्प्स्यते   <!-- TODO: Fallback translation -->
-> Kaus. कल्पयति : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden   <!-- TODO: Fallback translation -->
-> PPP कॢप्त   <!-- TODO: Fallback translation -->
-> Inf. कल्पितुम् । कल्प्तुम् <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> कल्पना f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion <!-- TODO: Fallback translation -->
+::: indent
+Perf. II cakalpe optional anit  
+Fut. kalpiṣyate | kalpsyate  
+Caus. kalpayati: to put in order, to create, to form in the imagination, to imagine  
+PPP kalpta  
+Inf. kalpitum | kalptum
 
-कॢप् + वि Kaus. विकल्पयति : (sich verschieden vorstellen =) in Frage stellen, bezweifeln <!-- TODO: Fallback translation -->
+from this:
 
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> विक्ल्प m.: Alternative, Zweifel <!-- TODO: Fallback translation -->
+kalpanā f.: The forming in thought, the assumption of something that does not exist in reality, fiction
+:::
 
-तुद् 6U तुदति : schlagen <!-- TODO: Fallback translation -->
+kalp + vi Caus. vikalpayati: (to imagine differently =) to call into question, to doubt
 
-> Perf. II तुतोद, तुतुदुर्   <!-- TODO: Fallback translation -->
-> Fut. तोत्स्यति   <!-- TODO: Fallback translation -->
-> Pass. तुद्यते   <!-- TODO: Fallback translation -->
-> Kaus. तोदयति   <!-- TODO: Fallback translation -->
-> PPP तुन्न (tud + na)   <!-- TODO: Fallback translation -->
-> Inf. तोत्तुम् <!-- TODO: Fallback translation -->
+::: indent
+from this:
 
-तॄ 1P तरति :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten) <!-- TODO: Fallback translation -->
+vikalpa m.: Alternative, doubt
+:::
 
-> Perf. IIIb ततार, ततरुर् । तेरुर्   <!-- TODO: Fallback translation -->
-> Fut. तरिष्यति । तरीष्यति   <!-- TODO: Fallback translation -->
-> Pass. तीर्यते   <!-- TODO: Fallback translation -->
-> Kaus. तारयति   <!-- TODO: Fallback translation -->
-> PPP तीर्ण   <!-- TODO: Fallback translation -->
-> Inf. तरितुम् । तरीतुम् <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> तीर्थ n.: Furt, heiliger Badeplatz, Pilgerort <!-- TODO: Fallback translation -->
+tud 6U tudati: to strike
+
+::: indent
+Perf. II tutoda, tutudur  
+Fut. totsya  
+Pass. tudyate  
+Caus. todayati  
+PPP tunna (tud + na)  
+Inf. tottum
+:::
+
+tṛ 1P tarati: to cross over, to cross, to save oneself from someone (Acc. = to cross over someone)
+
+::: indent
+Perf. IIIb tatāra, tatatur | terur  
+Fut. tariṣyati | tīriṣyati  
+Pass. tīryate  
+Caus. tārayati  
+PPP tīrṇa  
+Inf. taritum | tīritum
+
+from this:
+
+tīrtha n.: Ford, sacred bathing place, pilgrimage site
+:::
 
 ::: media
 ![lekt4003.jpg](/images/lekt4003.jpg)
-Abb.: हरिद्वारे तीर्थम्
-(Bildquelle: [Details](/licenses#lekt4003)) <!-- TODO: Fallback translation -->
+Fig.: Haridvāre tīrtham
+(Image source: [Details](/licenses#lekt4003))
 :::
 
-> तीर्थङ्कर m. (aus: तीर्थम्+ कृ): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina <!-- TODO: Fallback translation -->
+::: indent
+tīrthaṅkara m. (from: tīrtham + kṛ): Ford-maker (across suffering) = the 24 teachers of the Jains
+:::
 
 ::: media
 ![lekt4002.jpg](/images/lekt4002.jpg)
-Abb.: तीर्थङ्करः
-(Bildquelle: [Details](/licenses#lekt4002)) <!-- TODO: Fallback translation -->
+Fig.: Tīrthaṅkaraḥ
+(Image source: [Details](/licenses#lekt4002))
 :::
 
-अव Präverb.: herab, hinab, weg, ab- <!-- TODO: Fallback translation -->
+ava Prefix: down, downward, away, ab-
 
-तॄ + अव 1P अवतरति : herabsteigen <!-- TODO: Fallback translation -->
+tṛ + ava 1P avataraṭi: to descend
 
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> अवतार m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309) <!-- TODO: Fallback translation -->
+::: indent
+from this:
+
+avatāra m.: (Descender, Descent) Incarnation of a god, esp. of Viṣṇu’s 10 incarnations (see Basham, Wonder pp. 304–309)
+:::
 
 ::: media
 ![lekt4001.jpg](/images/lekt4001.jpg)
-Abb.: विष्णोर्दशावताराः
-(Bildquelle: [Details](/licenses#lekt4001)) <!-- TODO: Fallback translation -->
+Fig.: Viṣṇor daśāvatārāḥ
+(Image source: [Details](/licenses#lekt4001))
 :::
 
-स्वप् 2P स्वपिति,  स्वपन्ति : schlafen, sich schlafen legen <!-- TODO: Fallback translation -->
+svap 2P svapiti, svapanti: to sleep, to go to sleep
 
-> Impf. अस्वपीत् । अस्वपत्   <!-- TODO: Fallback translation -->
-> Perf. सुष्वाप, सुषुपुर्   <!-- TODO: Fallback translation -->
-> Fut. स्वप्स्यति   <!-- TODO: Fallback translation -->
-> Pass. सुप्यते (aus \*svp-ya-te)   <!-- TODO: Fallback translation -->
-> Kaus. स्वापयति   <!-- TODO: Fallback translation -->
-> PPP सुप्त   <!-- TODO: Fallback translation -->
-> Inf. स्वप्तुम् <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> davon: <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> स्वप्न m.: Schlaf, Traum <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> सुप्ति f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf <!-- TODO: Fallback translation -->
+::: indent
+Impf. asvapīt | asvapāt  
+Perf. suṣvāpa, suṣupur  
+Fut. svapsya  
+Pass. supyate (from *svp-ya-te)  
+Caus. svāpayati  
+PPP supta  
+Inf. svaptum
+
+from this:
+
+svapna m.: Sleep, dream
+
+supati f. (from *svp-ti): Sleep, esp. deep sleep
+:::
 
 ::: media
 ![lekt4004.jpg](/images/lekt4004.jpg)
-Abb.: स्वपन्ति
-(Bildquelle: [Details](/licenses#lekt4004)) <!-- TODO: Fallback translation -->
+Fig.: Svapanti
+(Image source: [Details](/licenses#lekt4004))
 :::
 
-## 40.7. Exercise
+## 40.7. Exercises
 
-A) Übersetzen sie die सुभाषितानि am Beginn der Lektion. <!-- TODO: Fallback translation -->
+A) Translate the सुभाषितानि (subhāṣitāni) at the beginning of the lesson.
 
-B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei mehreren Möglichkeiten, geben Sie bitte alle Möglichkeiten an. <!-- TODO: Fallback translation -->
+B) Convert the following verbal forms into their corresponding Perfect (aorist/perfect stem) forms. Where multiple possibilities exist, please provide all options.
 
-(Zeichenerklärung: अ = अनिट्, इ = fakultativ अनिट्) <!-- TODO: Fallback translation -->
+(Explanation of symbols: अ = anit, इ = optionally anit)
 
-1.  अश्नीमः
-2.  स्मः
-3.  स्रक्ष्यामि
-4.  स्तुमहे अ
-5.  वर्धामहे
-6.  आवर्ते
-7.  सेक्ष्यामि
-8.  अलुभ्याम
-9.  रुन्धे
-10.  रोदिमि
-11.  अयुध्यामहि
-12.  युञ्ज्मः
-13.  अजानीम
-14.  ददामि
-15.  अबिभयम्
-16.  वच्मः
-17.  कामये
-18.  वसामः
-19.  अभवाम
-20.  अस्यामि
-21.  अबिभ्रि अ
-22.  कल्पामहे इ
-23.  त्यज्यामि
-24.  अतरम्
-25.  चिन्मः
-26.  पृच्छामः
-27.  अनश्याम इ
-28.  चरामः
-29.  अवदाम
-30.  शोचयामः
-31.  दध्महे
-32.  पिबामि
-33.  धरामः
-34.  म्रिये
-35.  दूषयामः
-36.  मन्ये
-37.  स्वपिमः
-38.  पामि
-39.  शृणुमः अ
-40.  अतुदम्
-41.  अमिम
-42.  तिष्ठामि
-43.  अवहाम
-44.  अकुर्महि अ
-45.  जहीमः
-46.  अस्पृशम्
-47.  नेष्यामः
-48.  तन्महे
-49.  अक्रीणि
-50.  पुने
-51.  भुञ्ज्मः
-52.  स्मरिष्यामः
-53.  अभजाम (geht nach Typ Vb) <!-- TODO: Fallback translation -->
-54.  जेष्यामः
-55.  आसे (periphrast.) <!-- TODO: Fallback translation -->
-56.  विन्दामः
-57.  धक्ष्यामः
-58.  शक्नुमः
-59.  भिनद्मि
-60.  भोत्स्ये
-61.  लभे
-62.  नर्तिष्यामि
-63.  अगमयम्
-64.  द्विष्महे
-65.  चोरये
-66.  अजुहुम
-67.  अहनम्
-68.  पश्यामः
-69.  ईक्षे
+1.  अश्नीमः (aśnīmaḥ)
+2.  स्मः (smah)
+3.  स्रक्ष्यामि (sraṣyāmi)
+4.  स्तुमहे अ (stumahi a)
+5.  वर्धामहे (vardhāmahe)
+6.  आवर्ते (āvar te)
+7.  सेक्ष्यामि (seṣyāmi)
+8.  अलुभ्याम (alubhyām)
+9.  रुन्धे (rundhe)
+10.  रोदिमि (rodimi)
+11.  अयुध्यामहि (ayudhyāma hi)
+12.  युञ्ज्मः (yuñjmaḥ)
+13.  अजानीम (ajānīma)
+14.  ददामि (dadāmi)
+15.  अबिभयम् (abibhayam)
+16.  वच्मः (vacmaḥ)
+17.  कामये (kāmye)
+18.  वसामः (vasāmaḥ)
+19.  अभवाम (abhavām)
+20.  अस्यामि (aśyāmi)
+21.  अबिभ्रि अ (abibhri a)
+22.  कल्पामहे इ (kalpāmahe i)
+23.  त्यज्यामि (tyajyāmi)
+24.  अतरम् (atarām)
+25.  चिन्मः (cinmaḥ)
+26.  पृच्छामः (pṛchchhāmaḥ)
+27.  अनश्याम इ (anaśyām i)
+28.  चरामः (carāmaḥ)
+29.  अवदाम (avadām)
+30.  शोचयामः (śocayāmaḥ)
+31.  दध्महे (dadhmahe)
+32.  पिबामि (pibāmi)
+33.  धरामः (dhāra maḥ) *[Note: Likely typo for धरामः (dhāramah) or similar; context implies present stem]*
+34.  म्रिये (mriye)
+35.  दूषयामः (dūṣayāmaḥ)
+36.  मन्ये (many e)
+37.  स्वपिमः (svapimaḥ)
+38.  पामि (pāmi)
+39.  शृणुमः अ (śṛṇumaḥ a)
+40.  अतुदम् (atudam)
+41.  अमिम (amima)
+42.  तिष्ठामि (tiṣṭhāmi)
+43.  अवहाम (avahām)
+44.  अकुर्महि अ (akurma hi a)
+45.  जहीमः (jahīmaḥ)
+46.  अस्पृशम् (aspṛśam)
+47.  नेष्यामः (neṣyāmaḥ)
+48.  तन्महे (tanmahe)
+49.  अक्रीणि (akrīṇi)
+50.  पुने (pune)
+51.  भुञ्ज्मः (bhuñjmaḥ)
+52.  स्मरिष्यामः (smariṣyāmaḥ)
+53.  अभजाम (abhajām) (follows Type Vb)
+54.  जेष्यामः (jeṣyāmaḥ)
+55.  आसे (āse) (periphrastic)
+56.  विन्दामः (vindāmaḥ)
+57.  धक्ष्यामः (dhaṣyāmaḥ)
+58.  शक्नुमः (śaknumaḥ)
+59.  भिनद्मि (bhinadmi)
+60.  भोत्स्ये (bhotsye)
+61.  लभे (labhe)
+62.  नर्तिष्यामि (nartiṣyāmi)
+63.  अगमयम् (agamayam)
+64.  द्विष्महे (dviṣmahe)
+65.  चोरये (coraye)
+66.  अजुहुम (ajuhuma)
+67.  अहनम् (ahanam)
+68.  पश्यामः (paśyāmaḥ)
+69.  ईक्षे (īkṣe)
 
-## 40.8. Wiederholungsübung zur Formenlehre
+## 40.8. Morphology Review Exercises
 
 1.  ददे
 2.  ददते
@@ -607,9 +696,9 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 
 ### Sources
 
-- **Image lekt4005.jpg** (Fig.: पादं सब्रह्मचारिभ्यः): Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம் [Image source: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
-- **Image lekt4003.jpg** (Fig.: हरिद्वारे तीर्थम्): [Image source: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
-- **Image lekt4002.jpg** (Fig.: तीर्थङ्करः): [Image source: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt4001.jpg** (Fig.: विष्णोर्दशावताराः): Im Uhrzeigersinn: मत्स्य, कुर्म, वाराह, वामन, कृष्ण, कल्कि, बुद्ध, परशुराम, राम, नरसिंह, in der Mitte: कृष्ण [Image source: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-- **Image lekt4004.jpg** (Fig.: स्वपन्ति): Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Image source: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+- **Image lekt4005.jpg** (Fig.: पादं सब्रह्मचारिभ्यः): Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டם [Image source: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, ShareAlike)]
+- **Image lekt4003.jpg** (Fig.: हरिद्वारे तीर्थम्): [Image source: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution)]
+- **Image lekt4002.jpg** (Fig.: तीर्थङ्करः): [Image source: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, Non-Commercial, No Derivative Works)]
+- **Image lekt4001.jpg** (Fig.: विष्णोर्दशावताराः): Clockwise: मत्स्य, कुर्म, वाराह, वामन, कृष्ण, कल्कि, बुद्ध, परशुराम, राम, नरसिंह, center: कृष्ण [Image source: Wikipedia. Public domain]
+- **Image lekt4004.jpg** (Fig.: स्वपन्ति): Indian flying foxes (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Image source: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, Non-Commercial, No Derivative Works)]
 :::

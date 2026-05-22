@@ -3,15 +3,15 @@ aside: false
 outline: false
 ---
 
-# Indice degli Argomenti
+# Registro degli argomenti
 
-L'indice degli argomenti viene generato automaticamente dai titoli di tutte le lezioni. Consente un accesso rapido a specifici fenomeni grammaticali.
+Il registro degli argomenti viene generato automaticamente a partire dai titoli di tutte le lezioni. Consente un accesso rapido a specifici fenomeni grammaticali.
 
-&lt;PayerTopicIndex /&gt;
+<PayerTopicIndex />
 
-&lt;style&gt;
+<style>
 /* Adjust layout for full width index */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }
-&lt;/style&gt;
+</style>

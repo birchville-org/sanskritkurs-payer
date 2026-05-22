@@ -2,78 +2,88 @@
 
 # Lektion 39
 
-## 39.1. Die Personalendungen der ersten Person (तृतीयः पुरुषः = "dritte Person")
+## 39.1. Die Personalendungen der ersten Person (***तृतीयः*** पुरुषः = "***dritte*** Person")
 
-Die Endungen der ersten Person (तृतीयः पुरुषः = "dritte Person") sind: <!-- TODO: Fallback translation -->
+Die Endungen der ersten Person (तृतीयः पुरुषः = "dritte Person") sind: &lt;!-- TODO: Fallback translation --&gt;
 
 :::: grammar-box
 
-| | **परस्मैपदम्**[[br]]Parasmaipada || **आत्मनेपदम्**[[br]]Ātmanepada ||
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
-| | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Primärendung thematische Stämme** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
-| **Primärendung athematische Stämme** | | | **-e** | |
+| **Primärendung athematische Stämme** | **-mi** | **-mas** | **-e** | **-mahe** |
 | **Sekundärendung thematische Stämme** | **-m** | **-ma** | **-i** | **-mahi** |
-| **Sekundärendung athematische Stämme** | **-am** | | | |
-| **Optativendung** | **-a** | | | |
-| **Perfektendung** | **-a** | | **-e** | **-mahe** |
+| **Sekundärendung athematische Stämme** | **-am** | **-ma** | **-i** | **-mahi** |
+| **Optativendung** | **-am** | **-ma** | **-a** | **-mahi** |
+| **Perfektendung** | **-a** | **-ma** | **-e** | **-mahe** |
 
 ::::
-1 Anmerkung: eigentlich ist die Primärendung Ā thematischer Stämme auch als -e anzusetzen, vor dem der Themavokal -a- aus Analogiegründen wegfällt. Der Effekt ist aber so, als ob die Endung -i an den Themavokal -a- treten würde: a + i » e. <!-- TODO: Fallback translation -->
+1 Anmerkung: eigentlich ist die Primärendung Ā thematischer Stämme auch als -e anzusetzen, vor dem der Themavokal -a- aus Analogiegründen wegfällt. Der Effekt ist aber so, als ob die Endung -i an den Themavokal -a- treten würde: a + i » e. &lt;!-- TODO: Fallback translation --&gt;
 
 ## 39.2. Утворення der Verbformen der ersten Person thematischer Теперішній часstämme
 
-Regel: <!-- TODO: Fallback translation -->
-
-Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!! <!-- TODO: Fallback translation -->
+::: grammar-box
+| **Regel:**[[br]]**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!** |
+:::
 
 ### 39.2.1. Erste Теперішній часklasse (भ्वादि)
+
+| **Regel:**[[br]]**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!** |
+
 :::: grammar-box
 
-| **भू**[[br]]1P | **परस्मैपदम्** || **आत्मनेपदम्** ||
-| :--- | :---: | :---: | :---: | :---: |
-| | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens (लट्)** | **भवामि** | **भवामस्** | **\<भवे\>**[[br]](bhava + i \> bhave) | **\<भवामहे\>** | <!-- TODO: Fallback translation -->
-| **Imperfekt (लङ्)** | **अभवम्** | **अभवाम** | **\<अभवे\>** | **\<अभवामहि\>** | <!-- TODO: Fallback translation -->
-| **Optativ (विधिलिङ्)** | **भवेयम्**[[br]](bhava + iy-am) | **भवेम**[[br]](bhava + i-ma) | **\<भवेय\>**[[br]](bhava + iy-a) | **\<भवेमहि\>**[[br]](bhava + i-mahi) | <!-- TODO: Fallback translation -->
+| | **परस्मैपदम्** || **आत्मनेपदम्** || <!-- TODO: Fallback translation -->
+| :--- | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
+| **Indikativ Präsens  - लट्** | **भवामि** | **भवामस्** | **\&lt;भवे\&gt;**[[br]]bhava + i[[br]]richtig: bhav-e | **\&lt;भवामहे\&gt;** | <!-- TODO: Fallback translation -->
+| **Imperfekt  - लङ्** | **अभवम्** | **अभवाम** | **\&lt;अभवे\&gt;** | **\&lt;अभवामहि\&gt;** | <!-- TODO: Fallback translation -->
+| **Optativ  - विधिलिङ्** | **भवेयम्**[[br]]bhava + iy-am | **भवेम**[[br]]bhava + i-ma | **\&lt;भवेय\&gt;**[[br]]bhava + iy-a | **\&lt;भवेमहि\&gt;**[[br]]bhava + i-mahi | <!-- TODO: Fallback translation -->
 
 ::::
 
 ### 39.2.2. Sechste Теперішній часklasse (तुदादि)
 
-Regel: <!-- TODO: Fallback translation -->
+| **Regel:**[[br]]**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!** |
 
 :::: grammar-box
 
-| **विश्**[[br]]6P | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| | **परस्मैपदम्** || **आत्मनेपदम्** || <!-- TODO: Fallback translation -->
 | :--- | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens (लट्)** | **विशामि** | **विशामस्** | **\<विशे\>** | **\<विशामहे\>** | <!-- TODO: Fallback translation -->
-| **Imperfekt (लङ्)** | **अविशम्** | **अविशाम** | **\<अविशे\>** | **\<अविशामहि\>** | <!-- TODO: Fallback translation -->
-| **Optativ (विधिलिङ्)** | **विशेयम्** | **विशेम** | **\<विशेय\>** | **\<विशेमहि\>** | <!-- TODO: Fallback translation -->
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
+| **Indikativ Präsens  - लट्** | **विशामि** | **विशामस्** | **\&lt;विशे\&gt;** | **\&lt;विशामहे\&gt;** | <!-- TODO: Fallback translation -->
+| **Imperfekt  - लङ्** | **अविशम्** | **अविशाम** | **\&lt;अविशे\&gt;** | **\&lt;अविशामहि\&gt;** | <!-- TODO: Fallback translation -->
+| **Optativ  - विधिलिङ्** | **विशेयम्** | **विशेम** | **\&lt;विशेय\&gt;** | **\&lt;विशेमहि\&gt;** | <!-- TODO: Fallback translation -->
 
 ::::
 
 ### 39.2.3. Vierte Теперішній часklasse (दिवादि)
+
+| **Regel:**[[br]]**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!** |
+
 :::: grammar-box
 
-| nṛt[[br]](नृत् १प) | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
-| :--- | :--- | :--- | --- | --- |
-| | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | **Singular**[[br]](एकवचनम्) | **Plural**[[br]](बहुवचनम्) | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens (लट्)** | **nṛtyāmi**[[br]](नृत्यामि) | **nṛtyāmaḥ**[[br]](नृत्यामस्) | **&lt;nṛtye&gt;**[[br]](&lt;नृत्ये&gt;) | **&lt;nṛtyāmahe&gt;**[[br]](&lt;नृत्यामहे&gt;) | <!-- TODO: Fallback translation -->
-| **Imperfekt (लङ्)** | **anṛtyam**[[br]](अनृत्यम्) | **anṛtyāma**[[br]](अनृत्याम) | **&lt;anṛtye&gt;**[[br]](&lt;अनृत्ये&gt;) | **&lt;anṛtyāmahi&gt;**[[br]](&lt;अनृत्यामहि&gt;) | <!-- TODO: Fallback translation -->
-| **Optativ (विधिलिङ्)** | **nṛtyeyam**[[br]](नृत्येयम्) | **nṛtyema**[[br]](नृत्येम) | **&lt;nṛtyeya&gt;**[[br]](&lt;नृत्येय&gt;) | **&lt;nṛtyemahi&gt;**[[br]](&lt;नृत्येमहि&gt;) | <!-- TODO: Fallback translation -->
+| | **परस्मैपदम्** || **आत्मनेपदम्** || <!-- TODO: Fallback translation -->
+| :--- | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
+| **Indikativ Präsens  - लट्** | **नृत्यामि** | **नृत्यामस्** | **\&lt;नृत्ये\&gt;** | **\&lt;नृत्यामहे\&gt;** | <!-- TODO: Fallback translation -->
+| **Imperfekt  - लङ्** | **अनृत्यम्** | **अनृत्याम** | **\&lt;अनृत्ये\&gt;** | **\&lt;अनृत्यामहि\&gt;** | <!-- TODO: Fallback translation -->
+| **Optativ  - विधिलिङ्** | **नृत्येयम्** | **नृत्येम** | **\&lt;नृत्येय\&gt;** | **\&lt;नृत्येमहि\&gt;** | <!-- TODO: Fallback translation -->
 
 ::::
-| Imperfekt (लङ्) | अनृत्यम् | अनृत्याम | &lt;अनृत्ये&gt; | &lt;अनृत्यामहि&gt; | <!-- TODO: Fallback translation -->
+
+### 39.2.4. Zehnte Теперішній часklasse (चुраदि) und Kausative (णिजन्त)
+
+| **Regel:**[[br]]**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!** |
+
 :::: grammar-box
 
-| **चुर्**[[br]]10U | **परस्मैपदम्** | | **आत्मनेपदम्** | | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens (लट्)** | **चोरयामि** | **चोरयामस्** | **चोरये** | **चोरयामहे** | <!-- TODO: Fallback translation -->
-| **Imperfekt (लङ्)** | **अचोरयम्** | **अचोरयाम** | **अचोरये** | **अचोरयामहि** | <!-- TODO: Fallback translation -->
-| **Optativ (विधिलिङ्)** | **चोरयेयम्** | **चोरयेम** | **चोरयेय** | **चोरयेमहि** | <!-- TODO: Fallback translation -->
+| | **परस्मैपदम्** || **आत्मनेपदम्** || <!-- TODO: Fallback translation -->
+| :--- | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
+| **Indikativ Präsens  - लट्** | **चोरयामि** | **चोरयामस्** | **चोरये** | **चोरयामहे** | <!-- TODO: Fallback translation -->
+| **Imperfekt  - लङ्** | **अचोरयम्** | **अचोरयाम** | **अचोरये** | **अचोरयामहि** | <!-- TODO: Fallback translation -->
+| **Optativ  - विधिलिङ्** | **चोरयेयम्** | **चोरयेम** | **चोरयेय** | **चोरयेमहि** | <!-- TODO: Fallback translation -->
 
 ::::
 
@@ -83,57 +93,73 @@ Regel: <!-- TODO: Fallback translation -->
 
 :::: grammar-box
 
-| **ईक्ष्**[[br]]1Ā | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
+| | **एकवचनम्** | **बहुवचनम्** |
 | :--- | :---: | :---: |
-| **Indikativ Präsens (लट्)** | **ईक्ष्ये**[[br]](īkṣ-ya + i) | **ईक्ष्यामहे** |
-| **Imperfekt (लङ्)** | **ऐक्ष्ये**[[br]](a + īkṣ-ya + i) | **ऐक्ष्यामहि** |
-| **Optativ (विधिलिङ्)** | **ईक्ष्येय**[[br]](īkṣ-ya + iy-a) | **ईक्ष्येमहि**[[br]](īkṣ-ya + i-mahi) |
+| **Indikativ Präsens  - लट्** | **ईक्ष्ये**[[br]]īkṣ-ya + i | **ईक्ष्यामहे** |
+| **Imperfekt  - लङ्** | **ऐक्ष्ये**[[br]]a + īkṣ-ya + i | **ऐक्ष्यामहि** |
+| **Optativ  - विधिलिङ्** | **ईक्ष्येय**[[br]]īkṣ-ya + iy-a | **ईक्ष्येमहि**[[br]]īkṣ-ya + i-mahi |
 
 ::::
 
-## 39.3. Утворення der Verbformen der ersten Person des einfachen Майбутній час (ऌत्)
+## 39.3. Утворення der Verbformen der ersten Person des einfachen Майбутній час  - ऌत्
+
+::: grammar-box
+| **Das Майбутній час hat thematische Утворення. Deshalb gilt auch die Regel für thematische Stämme:**[[br]]**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!** |
+
+| :--- |
+:::
+
+### 39.3.1. अनिट्-Утворення
+
+| **Das Майбутній час hat thematische Утворення. Deshalb gilt auch die Regel für thematische Stämme:**[[br]]**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!** |
+
 :::: grammar-box
 
-| dā[[br]](दा ३उ) | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
-| :--- | :--- | :--- | --- | --- |
-| | **Однина**[[br]](एकवचनम्) | **Множина**[[br]](बहुवचनम्) | **Однина**[[br]](एकवचनम्) | **Множина**[[br]](बहुवचनम्) |
-| **Futur (ऌत्)** | **dāsyāmi**[[br]](दास्यामि)[[br]](dā-syā-mi) | **dāsyāmaḥ**[[br]](दास्यामस्) | **dāsye**[[br]](दास्ये) | **dāsyāmahe**[[br]](दास्यामहे) |
-
-::::
-
-दा 3U <!-- TODO: Fallback translation -->
-:::: grammar-box
-
-| bhū[[br]](भू १प) | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
-| :--- | :--- | :--- | --- | --- |
-| | **Однина**[[br]](एकवचनम्) | **Множина**[[br]](बहुवचनम्) | **Однина**[[br]](एकवचनम्) | **Множина**[[br]](बहुवचनम्) |
-| **Futur (ऌत्)** | **bhaviṣyāmi**[[br]](भविष्यामि)[[br]](bho + i + syā + mi) | **bhaviṣyāmaḥ**[[br]](भविष्यामस्) | **&lt;bhaviṣye&gt;**[[br]](&lt;भविष्ये&gt;) | **&lt;bhaviṣyāmahe&gt;**[[br]](&lt;भविष्यामहे&gt;) |
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
+| **Futur  - ऌत्** | **दास्यामि**[[br]]dā-syā-mi | **दास्यामस्** | **दास्ये** | **दास्यामहे** | <!-- TODO: Fallback translation -->
 
 ::::
 
 ### 39.3.2. सेट्-Утворення
 
-| bhū[[br]](भू १प) | Parasmaipada[[br]]परस्मैपदम् | Ātmanepada[[br]]आत्मनेपदम् | | |
-
-|   | परस्मैपदम् | आत्मनेपदम् | | |
-| --- | --- | --- | --- | --- |
-|   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-| **Futur (ऌत्)** | भविष्यामि | | | |
-| **Futur (ऌत्)** | **dāsyāmi**[[br]](दास्यामि)[[br]](dā-syā-mi) | **dāsyāmaḥ**[[br]](दास्यामस्) | **dāsye**[[br]](दास्ये) | **dāsyāmahe**[[br]](दास्यामहे) |
-
-## 39.4. Утворення der Verbformen der ersten Person athematischer Теперішній часstämme
-
-Beachten Sie, dass im Wortinnern - im Gegensatz zum Satzsandhi - vor Endungen, die mit
-द्विष् 2U <!-- TODO: Fallback translation -->
+| **Das Майбутній час hat thematische Утворення. Deshalb gilt auch die Regel für thematische Stämme:**[[br]]**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!** |
 
 :::: grammar-box
 
-| **द्विष्**[[br]]2U | **परस्मैपदम्** | | **आत्मनेपदम्** | |
-| :--- | :--- | :--- | :--- | :--- |
-| | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
-| **Indikativ Präsens (लट्)** | **द्वेष्मि** | **द्विष्मस्** | **द्विषे**[[br]](dviṣ-e) | **द्विष्महे** |
-| **Imperfekt (लङ्)** | **अद्वेषम्** | **अद्विष्म** | **अद्विषि** | **अद्विष्महि** |
-| **Optativ (विधिलिङ्)** | **द्विष्याम्**[[br]](dviṣ-yā + m) | **द्विष्याम** | **द्विषीय**[[br]](dviṣ-īy-a) | **द्विषीमहि** |
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
+| **Futur  - ऌत्** | **भविष्यामि**[[br]]bho + i + syā + mi | **भविष्यामस्** | **\&lt;भविष्ये\&gt;** | **\&lt;भविष्यामहे\&gt;** | <!-- TODO: Fallback translation -->
+
+::::
+
+## 39.4. Утворення der Verbformen der ersten Person athematischer Теперішній часstämme
+
+::: grammar-box
+| :--- |
+* **Vokal** &lt;!-- TODO: Fallback translation --&gt;
+* **Halbvokal** &lt;!-- TODO: Fallback translation --&gt;
+* **Nasal** &lt;!-- TODO: Fallback translation --&gt;
+
+**beginnen, Konsonanten in der Regel unverändert bleiben.** &lt;!-- TODO: Fallback translation --&gt;
+
+| Beachten Sie, dass im Wortinnern - im Gegensatz zum Satzsandhi - vor Закінченняen, die mit[[br]]* Vokal[[br]]* Halbvokal[[br]]* Nasal[[br]]beginnen, Konsonanten in der Regel unverändert bleiben.[[br]]z. B. वच् 1.sg.Ind.Präs.P वच्मि |
+:::
+
+### 39.4.1. Zweite Теперішній часklasse (अदादि)
+
+| :--- |
+
+:::: grammar-box
+
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens  - लट्** | **द्वेष्मि** | **द्विष्मस्** | **द्विषे**[[br]]dviṣ-e | **द्विष्महे** |
+| **Imperfekt  - लङ्** | **अद्वेषम्** | **अद्विष्म** | **अद्विषि** | **अद्विष्महि** |
+| **Optativ  - विधिलिङ्** | **द्विष्याम्**[[br]]dviṣ-yā + m | **द्विष्याम** | **द्विषीय**[[br]]dviṣ-īy-a | **द्विषीमहि** | <!-- TODO: Fallback translation -->
 
 ::::
 
@@ -141,37 +167,33 @@ Beachten Sie, dass im Wortinnern - im Gegensatz zum Satzsandhi - vor Endungen, d
 
 :::: grammar-box
 
-| **अस्**[[br]]2P | **परस्मैपदम्** | |
-| :--- | :--- | :--- |
-| | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
-| **Indikativ Präsens (लट्)** | **अस्मि** | **स्मस्**[[br]](s-mas) |
-| **Imperfekt (लङ्)** | **आसाम्**[[br]](a + as-am) | **आस्म** |
-| **Optativ (विधिलिङ्)** | **स्याम्**[[br]](s-yā + m) | **स्याम** |
-
-::::
-हु 3P <!-- TODO: Fallback translation -->
-
-:::: grammar-box
-
-| **हु**[[br]]3P | **परस्मैपदम्** | | **आत्मनेपदम्** | |
-| :--- | :--- | :--- | :--- | :--- |
-| | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
-| **Indikativ Präsens (लट्)** | **जुहोमि** | **जुहुमस्** | **\<जुह्वे\>**[[br]](ju-hu + e) | **\<जुहुमहे\>** |
-| **Imperfekt (लङ्)** | **अजुहवम्**[[br]](a-juho + am) | **अजुहुम** | **\<अजुहवि\>** | **\<अजुहुमहि\>** |
-| **Optativ (विधिलिङ्)** | **जुहुयाम्** | **जुहुयाम** | **\<जुह्वीय\>**[[br]](juhu + īy-a) | **\<जुह्वीमहि\>** |
+| | **परस्मैपदम्** || <!-- TODO: Fallback translation -->
+| :--- | :---: | :---: | <!-- TODO: Fallback translation -->
+| | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
+| **Indikativ Präsens  - लट्** | **अस्मि** | **स्मस्**[[br]]s-mas | <!-- TODO: Fallback translation -->
+| **Imperfekt  - लङ्** | **आसाम्**[[br]]a + as-am | **आस्म** | <!-- TODO: Fallback translation -->
+| **Optativ  - विधिलिङ्** | **स्याम्**[[br]]s-yā + m | **स्याम** | <!-- TODO: Fallback translation -->
 
 ::::
 
-धा 3U <!-- TODO: Fallback translation -->
+::: media
+![lekt3901.jpg](/images/lekt3901.jpg)
+Abb.: सो ऽस्मि
+(Bildquelle: [Details](/licenses#lekt3901)) <!-- TODO: Fallback translation -->
+:::
+
+### 39.4.2. Dritte Теперішній часklasse (जुहोत्यादि)
+
+| :--- |
 
 :::: grammar-box
 
-| **धा**[[br]]3U | **परस्मैपदम्** | | **आत्मनेपदम्** | |
-| :--- | :--- | :--- | :--- | :--- |
-| | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
-| **Indikativ Präsens (लट्)** | **दधामि** | **दध्मस्** | **दधे**[[br]](dadh-e) | **दध्महे** |
-| **Imperfekt (लङ्)** | **अदधाम्**[[br]](a-dadh + am) | **अदध्म** | **अदधि** | **अदध्महि** |
-| **Optativ (विधिलिङ्)** | **दध्याम्** | **दध्याम** | **दधीय** | **दधीमहि** |
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens  - लट्** | **जुहोमि** | **जुहुमस्** | **\&lt;जुह्वे\&gt;**[[br]]ju-hu + e | **\&lt;जुहुमहे\&gt;** |
+| **Imperfekt  - लङ्** | **अजुहवम्**[[br]]a-juho + am | **अजुहुम** | **\&lt;अजुहवि\&gt;** | **\&lt;अजुहुमहि\&gt;** |
+| **Optativ  - विधिलिङ्** | **जुहुयाम्** | **जुहुयाम** | **\&lt;जुह्वीय\&gt;**[[br]]juhu + īy-a | **\&lt;जुह्वीमहि\&gt;** | <!-- TODO: Fallback translation -->
 
 ::::
 
@@ -179,26 +201,46 @@ Beachten Sie, dass im Wortinnern - im Gegensatz zum Satzsandhi - vor Endungen, d
 
 :::: grammar-box
 
-| **सु**[[br]]5U | **परस्मैपदम्** | | **आत्मनेपदम्** | |
-| :--- | :--- | :--- | :--- | :--- |
-| | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
-| **Indikativ Präsens (लट्)** | **सुनोमि** | **सुनुमस्** / **सुन्मस्** | **सुन्वे** | **सुनुमहे** / **सुन्महे** |
-| **Imperfekt (लङ्)** | **असुनवम्** | **असुनुम** / **असुन्म** | **असुन्वि** | **असुनुमहि** / **असुन्महि** |
-| **Optativ (विधिलिङ्)** | **सुनुयाम्** | **सुनुयाम** | **सुन्वीय** | **सुन्वीमहि** |
+| | **परस्मैपदम्** || **आत्मनेपदम्** || <!-- TODO: Fallback translation -->
+| :--- | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
+| **Indikativ Präsens  - लट्** | **दधामि** | **दध्मस्** | **दधे**[[br]]dadh-e | **दध्महे** | <!-- TODO: Fallback translation -->
+| **Imperfekt  - लङ्** | **अदधाम्**[[br]]a-dadh + am | **अदध्म** | **अदधि** | **अदध्महि** | <!-- TODO: Fallback translation -->
+| **Optativ  - विधिलिङ्** | **दध्याम्** | **दध्याम** | **दधीय** | **दधीमहि** | <!-- TODO: Fallback translation -->
 
 ::::
 
-सु 5U --- |
-तन् 8U <!-- TODO: Fallback translation -->
+### 39.4.3. Fünfte Теперішній часklasse (स्वादि)
+
+::: grammar-box
+| :--- |
+:::
+
+**Vokal** &lt;!-- TODO: Fallback translation --&gt;
 
 :::: grammar-box
 
-| **तन्**[[br]]8U | **परस्मैपदम्** | | **आत्मनेपदम्** | |
-| :--- | :--- | :--- | :--- | :--- |
-| | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
-| **Indikativ Präsens (लट्)** | **तनोमि** | **तनुमस्** / **तन्मस्** | **तन्वे** | **तनुमहे** / **तन्महे** |
-| **Imperfekt (लङ्)** | **अतनवम्** | **अतनुम** / **अतन्म** | **अतन्वि** | **अतनुमहि** / **अतन्महि** |
-| **Optativ (विधिलिङ्)** | **तनुयाम्** | **तनुयाम** | **तन्वीय** | **तन्वीमहि** |
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens  - लट्** | **सुनोमि** | **सुनुमस्** / **सुन्मस्** | **सुन्वे** | **सुनुमहे** / **सुन्महे** |
+| **Imperfekt  - लङ्** | **असुनवम्** | **असुनुम** / **असुन्म** | **असुन्वि** | **असुनुमहि** / **असुन्महि** | <!-- TODO: Fallback translation -->
+| **Optativ  - विधिलिङ्** | **सुनुयाम्** | **सुनुयाम** | **सुन्वीय** | **सुन्वीमहि** | <!-- TODO: Fallback translation -->
+
+::::
+
+### 39.4.4. Achte Теперішній часklasse (तनादि)
+
+| :--- |
+
+:::: grammar-box
+
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens  - लट्** | **तनोमि** | **तनुमस्** / **तन्मस्** | **तन्वे** | **तनुमहे** / **तन्महे** |
+| **Imperfekt  - लङ्** | **अतनवम्** | **अतनुम** / **अतन्म** | **अतन्वि** | **अतनुमहि** / **अतन्महि** |
+| **Optativ  - विधिलिङ्** | **तनुयाम्** | **तनुयाम** | **तन्वीय** | **तन्वीमहि** | <!-- TODO: Fallback translation -->
 
 ::::
 
@@ -206,40 +248,50 @@ Beachten Sie, dass im Wortinnern - im Gegensatz zum Satzsandhi - vor Endungen, d
 
 :::: grammar-box
 
-| **कृ**[[br]]8U | **परस्मैपदम्** | | **आत्मनेपदम्** | |
-| :--- | :--- | :--- | :--- | :--- |
-| | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
-| **Indikativ Präsens (लट्)** | **करोमि** | **कुर्मस्** | **कुर्वे** | **कुर्महे** |
-| **Imperfekt (लङ्)** | **अकरवम्** | **अकुर्म** | **अकुर्वि** | **अकुर्महि** |
-| **Optativ (विधिलिङ्)** | **कुर्याम्** | **कुर्याम** | **कुर्वीय** | **कुर्वीमहि** |
-
-::::  
-:::: grammar-box
-
-| **युज्**[[br]]7U | **परस्मैपदम्** | | **आत्मनेपदम्** | |
-| :--- | :--- | :--- | :--- | :--- |
-| | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
-| **Indikativ Präsens (लट्)** | **युनज्मि**[[br]](yu-na-j-mi) | **युञ्ज्मस्**[[br]](yu + n + j-mas) | **युञ्जे** | **युञ्ज्महे** |
-| **Imperfekt (लङ्)** | **अयुनजम्** | **अयुञ्ज्म** | **अयुञ्जि** | **अयुञ्ज्महि** |
-| **Optativ (विधिलिङ्)** | **युञ्ज्याम्** | **युञ्ज्याम** | **युञ्जीय** | **युञ्जीमहि** |
+| | **परस्मैपदम्** || **आत्मनेपदम्** || <!-- TODO: Fallback translation -->
+| :--- | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
+| **Indikativ Präsens  - लट्** | **करोमि** | **कुर्मस्** | **कुर्वे** | **कुर्महे** | <!-- TODO: Fallback translation -->
+| **Imperfekt  - लङ्** | **अकरवम्** | **अकुर्म** | **अकुर्वि** | **अकुर्महि** | <!-- TODO: Fallback translation -->
+| **Optativ  - विधिलिङ्** | **कुर्याम्** | **कुर्याम** | **कुर्वीय** | **कुर्वीमहि** | <!-- TODO: Fallback translation -->
 
 ::::
+
+### 39.4.5. Siebte Теперішній часklasse (रुधादि)
+
+| :--- |
+
 :::: grammar-box
 
-| **क्री**[[br]]9U | **परस्मैपदम्** | | **आत्मनेपदम्** | |
-| :--- | :--- | :--- | :--- | :--- |
-| | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина | **एकवचनम्**[[br]]Однина | **बहुवचनम्**[[br]]Множина |
-| **Indikativ Präsens (लट्)** | **क्रीणामि** | **क्रीणीमस्** | **क्रीणे**[[br]](krī + n-e) | **क्रीणीमहे** |
-| **Imperfekt (लङ्)** | **अक्रीणाम्**[[br]](a-krī + nā + am) | **अक्रीणीम** | **अक्रीणि** | **अक्रीणीमहि** |
-| **Optativ (विधिलिङ्)** | **क्रीणीयाम्** | **क्रीणीयाम** | **क्रीणीय**[[br]](krī + n-īy-a) | **क्रीणीमहि** |
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens  - लट्** | **युनज्मि**[[br]]yu-na-j-mi | **युञ्ज्मस्**[[br]]yu + n + j-mas | **युञ्जे** | **युञ्ज्महे** |
+| **Imperfekt  - लङ्** | **अयुनजम्** | **अयुञ्ज्म** | **अयुञ्जि** | **अयुञ्ज्महि** |
+| **Optativ  - विधिलिङ्** | **युञ्ज्याम्** | **युञ्ज्याम** | **युञ्जीय** | **युञ्जीमहि** | <!-- TODO: Fallback translation -->
+
+::::
+
+### 39.4.6. Neunte Теперішній часklasse (क्र्यादि)
+
+| :--- |
+
+:::: grammar-box
+
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens  - लट्** | **क्रीणामि** | **क्रीणीमस्** | **क्रीणे**[[br]]krī + n-e | **क्रीणीमहे** |
+| **Imperfekt  - लङ्** | **अक्रीणाम्**[[br]]a-krī + nā + am | **अक्रीणीम** | **अक्रीणि** | **अक्रीणीमहि** |
+| **Optativ  - विधिलिङ्** | **क्रीणीयाम्** | **क्रीणीयाम** | **क्रीणीय**[[br]]krī + n-īy-a | **क्रीणीमहि** | <!-- TODO: Fallback translation -->
 
 ::::
 
 ## 39.5. Вправа
 
-Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen. <!-- TODO: Fallback translation -->
+Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen. &lt;!-- TODO: Fallback translation --&gt;
 
-Beispiel: गच्छन्ति » गच्छामस् <!-- TODO: Fallback translation -->
+Beispiel: गच्छन्ति » गच्छामस् &lt;!-- TODO: Fallback translation --&gt;
 
 1.  अदन्ति
 2.  आसन्

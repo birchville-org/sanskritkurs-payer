@@ -1,0 +1,342 @@
+
+
+# Lektion 21
+
+## 21.1. Weitere Сегашно времеstämme auf -nt
+
+### 21.1.1. Partizip Сегашно време (लडादेशः) Parasmaipada
+
+:::: grammar-box
+Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes Partizip. Es ist ein Adjektiv, das angibt, dass jemand oder etwas das durch die Verbalwurzel (+ Präverb) Ausgedrückte gerade tut, während etwas anderes geschieht. Auch ein dauernder Zustand kann damit ausgedrückt werden. <!-- TODO: Fallback translation -->
+
+**Beispiele:** <!-- TODO: Fallback translation -->
+
+::: indent
+"Während Vater liest, raucht er = der lesende Vater raucht"  
+"ein seiender (= wirklicher, echter) Freund" <!-- TODO: Fallback translation -->
+:::
+::::
+
+:::: grammar-box
+
+| **Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:** ||| <!-- TODO: Fallback translation -->
+| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
+| **Maskulinum, Neutrum** | | | <!-- TODO: Fallback translation -->
+| | **starker Stamm** | Präsensstamm + **-nt-** | <!-- TODO: Fallback translation -->
+| | **schwacher Stamm** | Präsensstamm + **-t-** | <!-- TODO: Fallback translation -->
+| **Femininum** | | | <!-- TODO: Fallback translation -->
+| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī**[[br]]देवी) | <!-- TODO: Fallback translation -->
+| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī**[[br]]oder:[[br]]Präsensstamm + **-t-** + **-ī** | <!-- TODO: Fallback translation -->
+
+::::
+
+Beispiele: <!-- TODO: Fallback translation -->
+
+1\. Präsensklasse: <!-- TODO: Fallback translation -->
+
+::: indent
+**yajant**[[br]]यजन्त् "ein mit einem Opfer verehrender" <!-- TODO: Fallback translation -->
+:::
+
+:::: grammar-box
+
+| | | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री | <!-- TODO: Fallback translation -->
+| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
+| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **यजन्**[[br]](aus yaja-nt-s) | **यजत्**[[br]](yaja-t-Ø) | **यजन्ती**[[br]](yaja-nt-ī) | <!-- TODO: Fallback translation -->
+| | **2. Akkusativ**[[br]]द्वितीया | **यजन्तम्**[[br]](yaja-nt-am) | **यजत्** | wie **devī**[[br]]देवी | <!-- TODO: Fallback translation -->
+| | **3. Instrumentalis**[[br]]तृतीया | **यजता**[[br]](yaja-t-ā) | **यजता** | | <!-- TODO: Fallback translation -->
+| | **6. Genetiv**[[br]]षष्ठी | **यजतस्**[[br]](yaja-t-as) | **यजतस्** | | <!-- TODO: Fallback translation -->
+| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **यजन्तस्**[[br]](yaja-nt-as) | **यजन्ति**[[br]](yaja-nt-i)[[br]](Beachten Sie den Gleichlaut mit der 3. pl. P.!) | | <!-- TODO: Fallback translation -->
+| | **2. Akkusativ**[[br]]द्वितीया | **यजतस्**[[br]](yaja-t-as) | **यजन्ति** | | <!-- TODO: Fallback translation -->
+| | **3. Instrumentalis**[[br]]तृतीया | **यजद्भिस्**[[br]](aus yaja-t-bhis) | **यजद्भिस्** | | <!-- TODO: Fallback translation -->
+| | **6. Genetiv**[[br]]षष्ठी | **यजताम्**[[br]](yaja-t-ām) | **यजताम्** | | <!-- TODO: Fallback translation -->
+
+::::
+
+4\. Präsensklasse <!-- TODO: Fallback translation -->
+
+::: indent
+**नृत्यन्त्** "tanzend" <!-- TODO: Fallback translation -->
+
+*   Мъжки род Nom. sg. **नृत्यन्** <!-- TODO: Fallback translation -->
+*   Среден род Nom. Akk. sg. **नृत्यत्** <!-- TODO: Fallback translation -->
+*   Женски род Nom. sg. **नृत्यन्ती** <!-- TODO: Fallback translation -->
+:::
+
+6\. Präsensklasse <!-- TODO: Fallback translation -->
+
+::: indent
+**विशन्त्** "eintretend" <!-- TODO: Fallback translation -->
+
+*   Мъжки род Nom. sg. **विशन्** <!-- TODO: Fallback translation -->
+*   Среден род Nom. Akk. sg. **विशत्** <!-- TODO: Fallback translation -->
+*   Женски род Nom. sg. **विशन्ती** । **विशती** <!-- TODO: Fallback translation -->
+:::
+
+:::: grammar-box
+
+| **Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (außer 3. Präsensklasse):** ||| <!-- TODO: Fallback translation -->
+| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
+| **Maskulinum, Neutrum** | | | <!-- TODO: Fallback translation -->
+| | **starker Stamm** | Präsensstamm + **-ant-** | <!-- TODO: Fallback translation -->
+| | **schwacher Stamm** | Präsensstamm + **-at-**[[br]](Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P.) | <!-- TODO: Fallback translation -->
+| **Femininum** | | | <!-- TODO: Fallback translation -->
+| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī**[[br]]देवी) | <!-- TODO: Fallback translation -->
+
+::::
+
+2\. Präsensklasse: <!-- TODO: Fallback translation -->
+
+::: indent
+**अस्** "sein": **सन्त्** "seiend, echter, guter, wahrer" <!-- TODO: Fallback translation -->
+:::
+
+:::: grammar-box
+
+| | | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री | <!-- TODO: Fallback translation -->
+| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
+| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **सन्**[[br]](aus s-ant-s) | **सत्**[[br]](s-at-Ø) | **सती**[[br]](s-at-ī) | <!-- TODO: Fallback translation -->
+| | **2. Akkusativ**[[br]]द्वितीया | **सन्तम्**[[br]](s-ant-am) | **सत्** | wie **devī**[[br]]देवी | <!-- TODO: Fallback translation -->
+| | **3. Instrumentalis**[[br]]तृतीया | **सता**[[br]](s-at-ā) | **सता** | | <!-- TODO: Fallback translation -->
+| | **6. Genetiv**[[br]]षष्ठी | **सतस्**[[br]](s-at-as) | **सतस्** | | <!-- TODO: Fallback translation -->
+| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **सन्तस्**[[br]](s-ant-as) | **सन्ति**[[br]](s-ant-i) | | <!-- TODO: Fallback translation -->
+| | **2. Akkusativ**[[br]]द्वितीया | **सतस्**[[br]](s-at-as) | **सन्ति** | | <!-- TODO: Fallback translation -->
+| | **3. Instrumentalis**[[br]]तृतीया | **सद्भिस्**[[br]](aus s-at-bhis) | **सद्भिस्** | | <!-- TODO: Fallback translation -->
+| | **6. Genetiv**[[br]]षष्ठी | **सताम्**[[br]](s-at-ām) | **सताम्** | | <!-- TODO: Fallback translation -->
+
+::::
+
+::: indent
+¹ **सती** "eine gute (treue) Frau (die sich in späterer Zeit nach dem Tod ihres Mannes mit diesem verbrennen lässt)" engl.: sutee <!-- TODO: Fallback translation -->
+:::
+
+::: media
+![](/images/lekt2101.jpg)
+Abb.: सती-Gedenkplatte
+(Bildquelle: [Details](/licenses#lekt2101)) <!-- TODO: Fallback translation -->
+:::
+
+5\. Präsensklasse: <!-- TODO: Fallback translation -->
+
+::: indent
+**सु** "pressen": **सुन्वन्त्** <!-- TODO: Fallback translation -->
+
+*   Мъжки род Nom. sg. **सुन्वन्** <!-- TODO: Fallback translation -->
+*   Среден род Nom. Akk. sg. **सुन्वत्** <!-- TODO: Fallback translation -->
+*   Женски род Nom. sg. **सुन्वती** <!-- TODO: Fallback translation -->
+:::
+
+8\. Präsensklasse <!-- TODO: Fallback translation -->
+
+::: indent
+**कृ** "tun": **कुर्वन्त्** <!-- TODO: Fallback translation -->
+
+*   Мъжки род Nom. sg. **कुर्वन्** <!-- TODO: Fallback translation -->
+*   Среден род Nom. Akk. sg. **कुर्वत्** <!-- TODO: Fallback translation -->
+*   Женски род Nom. sg. **कुर्वती** <!-- TODO: Fallback translation -->
+:::
+
+### 21.1.2. महान्त् "groß"
+
+:::: grammar-box
+
+::: no-header
+
+| | | |
+| :--- | :--- | :--- |
+| **Мъжки род, Среден род** | | |
+| | **starker Основа** | **mahānt-**[[br]]महान्त् |
+| | **schwacher Основа** | **mahat-**[[br]]महत् |
+| **Femininum** | | |
+| | | **mahatī**[[br]]महती (wie **devī**[[br]]देवी) |
+
+:::
+
+::::
+
+:::: grammar-box
+
+| | | Мъжки род[[br]]पुंस् | Среден род[[br]]नपुंसक | Женски род[[br]]स्त्री |
+| :--- | :--- | :--- | :--- | :--- |
+| **Единствено число**[[br]]एकवचन | **1. Номинатив**[[br]]प्रथमा | **महान्**[[br]](aus mahānt-s) | **महत्**[[br]](mahat-Ø) | **महती**[[br]](mahat-ī) |
+| | **2. Акузатив**[[br]]द्वितीया | **महान्तम्**[[br]](mahānt-am) | **महत्** | wie **devī**[[br]]देवी |
+| | **3. Инструменталис**[[br]]तृतीया | **महता**[[br]](mahat-ā) | **महता** | |
+| | **6. Генетив**[[br]]षष्ठी | **महतस्**[[br]](mahat-as) | **महतस्** | |
+| **Множествено число**[[br]]बहुवचन | **1. Номинатив**[[br]]प्रथमा | **महान्तस्**[[br]](mahānt-as) | **महान्ति**[[br]](mahānt-i) | |
+| | **2. Акузатив**[[br]]द्वितीया | **महतस्**[[br]](mahat-as) | **महान्ति** | |
+| | **3. Инструменталис**[[br]]तृतीया | **महद्भिस्**[[br]](aus mahat-bhis) | **महद्भिस्** | |
+| | **6. Генетив**[[br]]षष्ठी | **महताम्**[[br]](mahat-ām) | **महताम्** | |
+
+::::
+
+:::: grammar-box
+**Als Vorderglied eines Kompositums steht statt महत् महा:** &lt;!-- TODO: Fallback translation --&gt;
+
+**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**महादेव** "der große Gott" (z.B. शिव)  
+**महादेवी** "die große Göttin, die Hauptfrau eines Königs (देव)" &lt;!-- TODO: Fallback translation --&gt;
+:::
+::::
+
+::: media
+![](/images/lekt2102.jpg)
+Abb.: महादेवो विष्णुः
+(Bildquelle: [Details](/licenses#lekt2102)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: indent
+"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: 'Mihira, Vishnu and Shiva'." &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+## 21.2. Sandhi für auslautende Nasale
+
+:::: grammar-box
+**Nach kurzem Vokal werden auslautende Nasale – außer -m – vor anlautendem Vokal verdoppelt.** &lt;!-- TODO: Fallback translation --&gt;
+
+**Beispiel:** &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**जयन् + अरिः** » **जयन्नरिः** "der siegende Feind" &lt;!-- TODO: Fallback translation --&gt;
+:::
+::::
+
+## 21.3. Höfliche Formen der Anrede
+
+:::: grammar-box
+**Man kann im Sanskrit, ohne unhöflich zu sein, jemanden in der 2. Person Singular ansprechen. Will man aber höflich sein, kann man ein Nomen verwenden, dessen Bedeutung "Ehrwürdiger" und dergleichen ist, und das Verb in die 3. Person sg. oder pl. setzen bzw. eine Passivkonstruktion verwenden. Die Steigerung der Höflichkeit im Gebrauch der Person bei der Anrede ist etwa folgende:** &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**2. sg. » 2. pl. » 3. sg. mit entsprechendem Nomen » 3. pl. mit entspr. Nomen** &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**Das wichtigste solche Höflichkeitsnomen ist भवन्त् , fem.: भवती . Es entspricht in seiner Verwendung unserem höflichen "Sie".** &lt;!-- TODO: Fallback translation --&gt;
+::::
+
+Dieses **भवन्त्** ist eine Zusammenziehung aus **भगवन्त्**, seine Deklination ist die der Nomina auf **-vant** (siehe [Lektion 13](lektion13.md)). Dieses **भवन्त्** ist zu unterscheiden vom Partizip Präsens P von **भू** "werden" **भवन्त्** : der Nom sg. mask. von **भवन्त्** "Sie" lautet **भवान्**, der des Partizips **भवन्**.  &lt;!-- TODO: Fallback translation --&gt;
+
+**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**किं भवान्करोति** = **किं भवता क्रियते** = "Was tun Sie?" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+höflicher: &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**किं भवन्तः कुर्वन्ति** = **किं भवद्भिः क्रियते**
+:::
+
+Femininum: &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**किं भवती करोति** = **किं भवत्या क्रियते**  
+**किं भवत्यः कुर्वन्ति** = **किं भवतीभिः क्रियते**
+:::
+
+Weitere Wörter, die ähnlich wie **भवन्त्** verwendet werden können: &lt;!-- TODO: Fallback translation --&gt;
+
+*   **आर्य** (f.: **आर्या**) "Edler". z.B. **यदार्य इच्छति** "Was Sie wünschen" &lt;!-- TODO: Fallback translation --&gt;
+*   **महाभाग** "der dessen Anteil / Glück groß ist = Vornehmer". Oft verwendet von Frauen bei der Anrede oder beim Sprechen über Männer von gutem Stand. In modernem gesprochenem Sanskrit sehr häufig. &lt;!-- TODO: Fallback translation --&gt;
+
+Will man nicht nur Höflichkeit, sondern auch Verehrung für jemanden ausdrücken, verwendet man bei jemandem, der anwesend oder in der Nähe ist, anstelle von **भवन्त्** **अत्रभवन्त्** , für jemanden Abwesenden oder Entfernten **तत्रभवन्त्**. **अत्रभवन्त्** und **तत्रभवन्त्** kann man mit "Sie", "Ehrwürden", "Hochwürden" usw. übersetzen: &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**किमत्रभवत्यत्रभवतां भार्या** = "Ist die gnädige (hier anwesende) Frau Ihre Gattin?"  
+**किं तत्रभवतां कुशलवृत्तम्** (in einem Brief oder Telefongespräch) = "Geht es Ihnen gut?" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+## 21.4. Речник
+
+**भज् 1 U भजति Pass. भज्यते PPP भक्त :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren &lt;!-- TODO: Fallback translation --&gt;
+
+davon: &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**भक्ति f.:** Ergebenheit, Treue, Liebe (im religiösen Bereich: Liebe und Respekt zu einem persönlichen Gott. siehe dazu Basham, Wonder S. 332f.)  
+**भाग m.:** Anteil, Teil  
+**भग m.:** (guter) Anteil, Glück, Wohlergehen, Würde  
+**भगवन्त् 3:** Glück-besitzend, Würde-besitzend (Beiname von विष्णु – कृष्ण) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: media
+![](/images/lekt2103.jpg)
+Abb.: भगवान्कृष्णः
+(Bildquelle: [Details](/licenses#lekt2103)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: indent
+**भगवद्गीता f.:** "Gesang (गीता) des Würdigen (कृष्ण)" &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: media
+![](/images/lekt2105.jpg)
+Abb.: भगवद्गीता
+(Bildquelle: [Details](/licenses#lekt2105)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: indent
+**भिक्ष् 1 Ā भिक्षते Pass. भिक्ष्यते PPP भिक्षित** (eigentlich ein Desiderativum zu भज्: wünschen, dass man teilhat): betteln &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+davon: &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**भिक्षु m.:** Bettler, Mönch &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+::: media
+![](/images/lekt2104.jpg)
+Abb.: भिक्षवः
+(Bildquelle: [Details](/licenses#lekt2104)) &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट :** verderben (intransitiv), schlecht werden, zuschande werden &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+**दोष m.:** Fehler &lt;!-- TODO: Fallback translation --&gt;
+:::
+
+**पच् 1 U पचति Pass. पच्यते (kein PPP, dafür पक्व 3: gekocht, gegart) Absol. पक्त्वा :** garen (transitiv) = kochen, braten, rösten usw. &lt;!-- TODO: Fallback translation --&gt;
+
+## 21.5. Упражнение
+
+A) Übersetzen Sie folgende Komposita: &lt;!-- TODO: Fallback translation --&gt;
+
+१. अनादिकालिकसंसारः
+
+२. अनादिमध्यान्तः
+
+३. महामैत्रीकरुणाचित्तः
+
+४. सर्वहतान्धकारः
+
+B) Übersetzen Sie: &lt;!-- TODO: Fallback translation --&gt;
+
+मृतं दहन्नग्निः सतीमपि दहति ॥१॥
+
+सद्गुरुर्महाकविस्तोत्रैर्महादेवं स्तौति ॥२॥
+
+महान्ति फलान्यदन्तो बाला जलमापि पिबन्ति ॥३॥
+
+पूजां कुर्वञ्जनो यजते च स्तौति च देवताम् ॥४॥
+
+गुरूपनीतनरो द्विजः ॥५॥
+
+जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥६॥
+
+::: deleteme-box
+
+### Източници
+
+**lekt2101:** सती-Gedenkplatte im Palast von Jodhpur - जोधपुर / Rajasthan - राजस्थान [Bildquelle: Flicka / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+
+**lekt2102:** "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva". [Bildquelle: PHGCOM / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+
+**lekt2103:** भगवान्कृष्णः als जगन्नाथ (rechts) mit seiner Halbschwester सुभद्रा (Mitte) und seinem älteren Bruder बलराम, Orissa = ଓଡ଼ିଶा [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+
+**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ [Bildquelle: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+
+**lekt2105:** भगवद्गीता - Manuskript, 19. Jhdt. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+:::
