@@ -1,3 +1,8 @@
+---
+lesson_id: 36
+last_reconstructed: 2026-05-21
+---
+
 # Lektion 36
 
 ## 36.1. Besondere Bildungen des Perfekts

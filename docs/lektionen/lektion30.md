@@ -1,3 +1,7 @@
+---
+lesson_id: 30
+last_reconstructed: 2026-05-21
+---
 
 # Lektion 30
 

@@ -52,11 +52,12 @@
 - **Strict Table Cell Content Parity**: Never add external, logically assumed, or standardized translations, grammatical labels, genders (e.g., `m.`, `f.`, `n.`, `maskulinum`), case indices (e.g., `1. Nominativ / प्रथमा` if the original had only `प्रथमा`), or transliterations to any table cell unless they were explicitly written in that specific table's cell or header in Payer's original HTML. The exact historical text structure of Payer's tables takes absolute priority over logical enhancements.
 - **No Italics inside Tables**: Do not italicize parenthetical comments or grammatical/morphological explanation text inside table cells (e.g. write `(aus yaja-nt-s)` instead of `*(aus yaja-nt-s)*`).
 - **Devanāgarī Over Pure IAST in Tables**: For cross-references to other paradigms inside table cells (like `wie devī`), always include the Devanāgarī form alongside it (`wie **devī**[[br]]देवी`) rather than presenting Roman script in isolation.
+- **Absolute Table Integrity**: Never tear, split, or corrupt table lines during markdown editing or migration. Multi-line table cell inputs MUST use clean markdown syntax with `[[br]]` for line breaks, ensuring that every table row remains exactly on a single markdown line `| cell1 | cell2 | ... |`.
 - **No Manual Port/Nav**: Use default port 5173. Use `PayerDocFooter.vue` for navigation; no manual links in content.
 
 ## 7. Final QA Checklist (Schlussüberprüfung)
 Before concluding a lesson migration, verify:
-- **Image Captions**: Are all image captions strictly one line, using pure Devanagari? (e.g. `Abb.: ऊहापोहः`)
+- **Image Captions**: Are all image captions strictly one line, using pure Devanāgarī? (e.g. `Abb.: ऊहापोहः`)
 - **License Integrity**: Have all image descriptions and accompanying text (German or English) that were stripped from the markdown been safely appended to the `licenses.md` file?
 - **Grammar Boxes**: Are all pedagogical rules enclosed in `::: grammar-box` without internal tables using the `no-header` class improperly?
 - **Zero-HTML**: Are all blockquotes rendered purely with `>` and properly formatted without legacy HTML tags?
@@ -66,8 +67,9 @@ Before concluding a lesson migration, verify:
 
 ## 8. Grammar-Box Boundaries (Structural Parity)
 - **Strict Visual Mapping**: The `::: grammar-box` must strictly mirror the *indentation* in Payer's original HTML. Do not group elements logically into a single box if they were separated by unindented text in the original.
+- **No Blockquotes for Tables**: Never wrap paradigm or grammatical tables in standard markdown blockquotes (`>`). They must be placed directly inside a `::: grammar-box` (or `::: no-header` nested inside a `::: grammar-box`) without any `>` prefix.
 - **Authorial Asides**: Direct speech from the author to the student (e.g., "Jetzt erkennen Sie den Grund...", "Beachten Sie:") is almost always unindented in the original and MUST remain **outside** the `grammar-box`.
 - **Headings & Introductions**: Introductory phrases (e.g., "Frage-, Relativ- und Demonstrativpronomina:", "1. Relativsätze") must be outside the box unless they were explicitly indented in the original.
-- **Examples**: The headings "Beispiel:" / "Beispiele:" and the blockquoted examples that follow them MUST ALWAYS be included **inside** the `grammar-box` of the grammatical rule they illustrate. Never close a box before its examples.
+- **Examples**: The headings "Beispiel:" / "Beispiele:" and the examples that follow them MUST ALWAYS be placed **outside** any `grammar-box` and wrapped in a `::: indent` container. Do not use standard markdown blockquotes (`>`) for examples, as VitePress styles them with borders and backgrounds that look like boxes.
 - **Fragmented Elements**: If a rule, a paradigm, and a table are separated by unindented text, they each get their **own separate** `grammar-box`. Do not merge them.
 - **Nested Container Colons**: If a `grammar-box` container contains nested custom containers (such as `::: indent`), the outer container **MUST** use exactly **four colons** (`:::: grammar-box` and `::::`) instead of three to prevent parsing conflicts. If there is an even deeper level of nesting, increment the colon count by one for each level.

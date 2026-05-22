@@ -14,7 +14,7 @@ last_reconstructed: 2026-05-16
 
 Beispiel:
 गम् "gehen" » Kausativ: गमयति "er veranlasst, dass jemand geht; er schickt"
->
+&gt;
 दृश् "sehen" » Kausativ: दर्शयति "er macht sehen = er zeigt"
 :::
 
@@ -71,7 +71,7 @@ Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusamme
 वेदमध्यापयद्विधिम् ।
 आसयत्सलिलै पृथ्वीं
 यः स मे श्रीहरिगतिः ॥
->
+&gt;
 Meine Zuflucht und mein Ziel ist Hari,
 Der die Feinde in den Himmel schickte,
 Der die Seinen die Bedeutung des Veda lehrte,
@@ -97,10 +97,10 @@ Beispiele:
 
 (स) रामेण भार्यां त्याजयति = "Er veranlasst den Rāma, seine Frau zu verlassen"
 > Ergebnis: रामो भार्यां त्यजति = "Rāma verlässt seine Frau"
->
+&gt;
 विष्णुमित्रो रामेण गोविन्दं गमयति = "Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken"
 > Ergebnis: रामो गोविन्दं गमयति = "Rāma schickt den Govinda fort"
-> > Ergebnis dieses Ergebnisses: गोविन्दो गच्छति = "Govinda geht"
+> &gt; Ergebnis dieses Ergebnisses: गोविन्दो गच्छति = "Govinda geht"
 
 ::: grammar-box
 **Ausnahmen zu Schema 1:**
@@ -254,7 +254,7 @@ Anmerkungen:
 
 Beispiele:
 **bhāvyate** (bhāv-ya-te) "er/sie/es wird hervorgebracht"
->
+&gt;
 **sthāpyate** (sthāp-ya-te) "er/sie/es wird aufgestellt"
 
 Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird.
@@ -282,7 +282,7 @@ Beispiel:
 
 Beispiele:
 **gam** — **gamayati** — **gamita** (gam-i-ta) "gesendet" (PPP der einfachen Wurzel: **gata**)
->
+&gt;
 **sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt"
 
 ---
@@ -304,7 +304,7 @@ Beispiel:
 
 Beispiele:
 **prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "nachdem er aufgeweckt hat"
->
+&gt;
 **ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat"
 
 ::: grammar-box

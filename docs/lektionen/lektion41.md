@@ -1,12 +1,18 @@
+---
+lesson_id: 41
+last_reconstructed: 2026-05-21
+---
 
 # Lektion 41
 
 ## 41.1. सुभाषिते  (zwei Sprichwörter)
 
-> पुस्तकस्था च या विद्या  
-> परहस्ते च यद्धनम् ।  
-> कार्यकाले समुत्पन्ने  
-> न सा विद्या न तद्धनम् ॥१॥
+::: indent
+पुस्तकस्था च या विद्या  
+परहस्ते च यद्धनम् ।  
+कार्यकाले समुत्पन्ने  
+न सा विद्या न तद्धनम् ॥१॥
+:::
 
 Erklärung: पर "anderer"
 
@@ -16,10 +22,12 @@ Abb.: पुस्तकस्था च या विद्या ...
 (Bildquelle: [Details](/licenses#lekt4102))
 :::
 
-> उपदेशो हि मूर्खाणां  
-> प्रकोपाय न शान्तये ।  
-> पयःपानं भुजङ्गानां  
-> केवलं विषवर्धनम् ॥२॥
+::: indent
+उपदेशो हि मूर्खाणां  
+प्रकोपाय न शान्तये ।  
+पयःपानं भुजङ्गानां  
+केवलं विषवर्धनम् ॥२॥
+:::
 
 Erklärung: पयस् n. = दुग्धम्
 
@@ -29,9 +37,11 @@ Erklärung: पयस् n. = दुग्धम्
 
 #### 41.2.1.1. Thematische Präsensstämme, Passiv und Futur
 
-Bildung:
+::: grammar-box
+**Bildung:**
 
 Präsensstamm / Passivstamm / Futurstamm + -māna (fem. mānā)
+:::
 
 Beispiele:
 
@@ -45,75 +55,54 @@ Beispiele:
 
 #### 41.2.1.2. Athematische Präsensklassen
 
-Bildung:
+::: grammar-box
+**Bildung:**
 
 Schwacher Präsensstamm (in der Form, die er vor der Endung -ate der 3.pl.Ā hat) + -āna (fem. -ānā)
-
-Beispiele:
-
-> |   | Pert.Präs.Ā |
-> | --- | --- |
-> | द्विष् 2U |  |
-> द्वि्षाण
-> 
->  | |
-> | हु 3P | 
-> 
-> &lt;जुह्वान&gt;  
-> ju-hu + āna
-> 
->  | |
-> | सु 5U | 
-> 
-> सुन्वान  
-> su-nu + āna
-> 
->  | |
-> | रुध् | 
-> 
-> रुन्धान  
-> ru-n-dh-āna
-> 
->  | |
-> | तन् | 
-> 
-> तन्वान  
-> tan-u + āna
-> 
->  | |
-> | क्री | 
-> 
-> क्रीणान  
-> krī + n-āna
-> 
->  |
-
-### 41.2.2. "Partizip" der passiven Notwendigkeit (Gerundivum) (कृत्य)
-
-Um die passive Notwendigkeit auszudrücken ("was getan werden muss/soll"), kann man Adjektive aus Wurzeln und abgeleiteten Verbalstämmen wahlweise mit folgenden Suffixen bilden:
-
-*   \-तव्य (fem. -तव्या)
-*   \-अनीय (fem. -अनिईया)
-*   \-य (fem. -या)
-*   \-त्य (fem. -त्या) (statt -य/-या)
-
-#### 41.2.2.1. Das Suffix -तव्य / -तव्या
-
-Das Suffix -तव्य / -तव्या wird an Wurzeln und abgeleitete Verbalstämme (z.B. Kausativ) auf dieselbe Weise angefügt wie das Infinitivsuffix -तुम् (s. [Lektion 23](lektion23.md)), d.h.
-
-*   hochstufige Wurzel + तव्य
-
-oder
-
-*   hochstufige Wurzel + -i- + तव्य
-
-Im Kausativ:
-
-*   Kasusativstamm auf -ay + -i- + तव्य
+:::
 
 Beispiele:
 
 ::: grammar-box
+| Wurzel / Klasse | Partizip Präsens Ā |
+| :--- | :--- |
+| **द्विष्** 2U | द्विषाण |
+| **हु** 3P | &lt;जुह्वान&gt;[[br]]ju-hu + āna |
+| **सु** 5U | सुन्वान[[br]]su-nu + āna |
+| **रुध्** 7U | रुन्धान[[br]]ru-n-dh-āna |
+| **तन्** 8U | तन्वान[[br]]tan-u + āna |
+| **क्री** 9U | क्रीणान[[br]]krī + n-āna |
+:::
+
+### 41.2.2. "Partizip" der passiven Notwendigkeit (Gerundivum) (कृत्य)
+
+::: grammar-box
+**Um die passive Notwendigkeit auszudrücken ("was getan werden muss/soll"), kann man Adjektive aus Wurzeln und abgeleiteten Verbalstämmen wahlweise mit folgenden Suffixen bilden:**
+
+* **-तव्य** (fem. **-तव्या**)
+* **-अनीय** (fem. **-अनीया**)
+* **-य** (fem. **-या**)
+* **-त्य** (fem. **-त्या**) (statt **-य**/**-या**)
+:::
+
+#### 41.2.2.1. Das Suffix -तव्य / -तव्या
+
+::: grammar-box
+**Das Suffix -तव्य / -तव्या wird an Wurzeln und abgeleitete Verbalstämme (z.B. Kausativ) auf dieselbe Weise angefügt wie das Infinitivsuffix -तुम् (s. [Lektion 23](lektion23.md)), d.h.**
+
+* **hochstufige Wurzel + तव्य**
+
+oder
+
+* **hochstufige Wurzel + -i- + तव्य**
+
+**Im Kausativ:**
+
+* **Kausativstamm auf -ay + -i- + तव्य**
+:::
+
+Beispiele:
+
 ::: no-header
 
 | | | |
@@ -123,21 +112,21 @@ Beispiele:
 | बुध् Kaus. | बोधयितव्य | "jemand, der geweckt werden soll; ein zu erweckender" |
 
 :::
-:::
 
 #### 41.2.2.2. Das Suffix -अनीय / -अनीया
 
-Bildung:
+::: grammar-box
+**Bildung:**
 
 Hochstufige Wurzel + -अनीय / -अनीया
 
-Kausativ und 10. Präsensklasse:
+**Kausativ und 10. Präsensklasse:**
 
 Wurzel, wie sie im Kausativstamm erscheint, ohne -aya- + -अनीय / -अनीया
+:::
 
 Beispiele:
 
-::: grammar-box
 ::: no-header
 
 | | | |
@@ -150,23 +139,25 @@ Beispiele:
 | दा Kaus. | दापनीय 3[[br]]dā-paya - aya + -anīya | "was man geben lassen muss" |
 
 :::
-:::
 
 #### 41.2.2.3. Das Suffix -य / -या
 
-Bildung:
+::: grammar-box
+**Bildung:**
 
 Wurzel (in Tief-, Hoch- oder Dehnstufe) + -य
 
 Die genauen Regeln siehe bei Kielhorn, Grammatik der Sanskrit-Sprache, S. 195 - 197!
+:::
 
 Behandlung auslautender Vokale:
 
-1\. Wurzeln auf -ā bilden dieses Gerundiv auf -eya
+::: grammar-box
+**1. Wurzeln auf -ā bilden dieses Gerundiv auf -eya**
+:::
 
 Beispiele:
 
-::: grammar-box
 ::: no-header
 
 | | | |
@@ -175,13 +166,13 @@ Beispiele:
 | दा 3U | देय 3 | "was gegeben werden muss" |
 
 :::
-:::
 
-2\. Wurzeln auf -i /-ī / -u / -ū /-ṛ haben in der Regel Hoch- oder Dehnstufe, es sei denn sie gehören zu denjenigen Wurzeln auf -i / -u /-ṛ, die ein Gerundiv mit dem Suffix -त्य (fem. -त्या) bilden (Liste dieser Wurzeln bei Kielhorn, Grammatik §537).
+::: grammar-box
+**2. Wurzeln auf -i /-ī / -u / -ū /-ṛ haben in der Regel Hoch- oder Dehnstufe, es sei denn sie gehören zu denjenigen Wurzeln auf -i / -u /-ṛ, die ein Gerundiv mit dem Suffix -त्य (fem. -त्या) bilden (Liste dieser Wurzeln bei Kielhorn, Grammatik §537).**
+:::
 
 Beispiel:
 
-::: grammar-box
 ::: no-header
 
 | | | |
@@ -189,13 +180,13 @@ Beispiel:
 | स्मृ 1P |  स्मर्य 3 | "woran man sich erinnern muss" |
 
 :::
-:::
 
-2a. Wurzeln auf -i/-ī haben Hochstufe
+::: grammar-box
+**2a. Wurzeln auf -i/-ī haben Hochstufe**
+:::
 
 Beispiele:
 
-::: grammar-box
 ::: no-header
 
 | | | |
@@ -204,7 +195,6 @@ Beispiele:
 | नी 1U | नेय 3 | "zu führender" |
 
 :::
-:::
 
 ::: media
 ![lekt4103.jpg](/images/lekt4103.jpg)
@@ -212,11 +202,12 @@ Abb.: विक्रेयाणि पुष्पानि
 (Bildquelle: [Details](/licenses#lekt4103))
 :::
 
-2b. Wurzeln auf -u /-ū ersetzen das hochstufige -o vor dem -ya durch -av, das dehnstufige -au durch -āv. Dehnstufige Bildung bedeutet in diesem Fall Notwendigkeit.
+::: grammar-box
+**2b. Wurzeln auf -u /-ū ersetzen das hochstufige -o vor dem -ya durch -av, das dehnstufige -au durch -āv. Dehnstufige Bildung bedeutet in diesem Fall Notwendigkeit.**
+:::
 
 Beispiel:
 
-::: grammar-box
 ::: no-header
 
 | | | |
@@ -225,7 +216,6 @@ Beispiel:
 |   | स्ताव्य 3 | "was notwendig gepriesen werden muss" |
 
 :::
-:::
 
 Beispiele für konsonantisch auslautende Wurzeln (Regeln s. Kielhorn, Grammatik § 533ff.):
 
@@ -233,7 +223,6 @@ Tiefstufige Bildung:
 
 Beispiele:
 
-::: grammar-box
 ::: no-header
 
 | | | |
@@ -241,7 +230,6 @@ Beispiele:
 | दृश् | दृश्य 3 | "sehenswert" |
 | शास् 2P | शिष्य 3 | "jemand, der zu belehren ist = Schüler" |
 
-:::
 :::
 
 ::: media
@@ -254,7 +242,6 @@ Hochstufige Bildung:
 
 Beispiele:
 
-::: grammar-box
 ::: no-header
 
 | | | |
@@ -263,17 +250,17 @@ Beispiele:
 | भिद् 7U | भेद्य 3 | "zu spaltender" |
 
 :::
-:::
 
-Kausative und Verben der 10. Präsensklasse (चुरादि)
+::: grammar-box
+**Kausative und Verben der 10. Präsensklasse (चुरादि)**
 
-Bildung:
+**Bildung:**
 
 Kausativ-/Präsensstamm ohne -aya- + -य
+:::
 
 Beispiel:
 
-::: grammar-box
 ::: no-header
 
 | | | |
@@ -281,9 +268,9 @@ Beispiel:
 | मन् Kausativ¹ | मान्य 3[[br]]mān-aya - aya + ya | "zu ehrender, hochverehrter" |
 
 :::
+::: indent
+¹ eigentl. Denominativ zu **मान**
 :::
-> 
-> 1 eigentl. Denominativ zu मान
 
 ::: media
 ![lekt4107.jpg](/images/lekt4107.jpg)
@@ -293,35 +280,41 @@ Abb.: मान्यः
 
 #### 41.2.2.4. Das Suffix -त्य / त्या (statt -य / -या)
 
+::: grammar-box
 Liste der Wurzeln auf -i / -u /-ṛ, die ein Gerundiv statt mit -य / -या mit dem Suffix -त्य (fem. -त्या) bilden, bei Kielhorn, Grammatik §537.
 
-Bildung:
+**Bildung:**
 
-tiefstufige Wurzel + -त्य् / -त्या
+tiefstufige Wurzel + -त्य / -त्या
+:::
 
 Beispiele:
 
-::: grammar-box
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
 | इ 2P | इत्य 3 | "zu gehender" |
-| श्रु 5P | श्रुत्य 3 | "zu hörender" |
+|  श्रु 5P |  श्रुत्य 3 | "zu hörender" |
 | कृ 8U | कृत्य 3 | "zu tuender" |
 
-:::
 :::
 
 ### 41.2.3. Syntaktisches zum "Partizip" der passiven Notwendigkeit (Gerundivum) (कृत्य)
 
-Das Gerundiv kann atttributiv verwendet werden:
+:::: grammar-box
+Das Gerundiv kann attributiv verwendet werden:
 
-> दर्शनीयं बगरम् = "eine Stadt, die man sehen muss; eine sehenswerte Stadt"
+::: indent
+**दर्शनीयं नगरम्** = "eine Stadt, die man sehen muss; eine sehenswerte Stadt"
+:::
 
 Das Gerundiv kann auch als Prädikatsnomen in Sätzen mit Passivkonstruktion verwendet werden, die eine Verpflichtung oder einen Befehl ausdrücken (mit न ein Verbot, eine Unmöglichkeit):
 
-> काशी द्विजैर्द्रष्टवया = "Zweimalgeborene müssen Benares sehen"
+::: indent
+**काशी द्विजैर्द्रष्टव्या** = "Zweimalgeborene müssen Benares sehen"
+:::
+::::
 
 ::: media
 ![lekt4108.jpg](/images/lekt4108.jpg)
@@ -331,14 +324,18 @@ Abb.: दर्शनीयं नगरं काशी
 
 ### 41.2.4. Unterschiede im Gebrauch der Gerundiv-Suffixe
 
+::: grammar-box
 Weitgehend überschneidet sich der Gebrauch dieser Suffixe
 
-*   \-तव्य (fem. -तव्या): drückt immer eine Notwendigkeit aus und wird bevorzugt prädikativ gebraucht (seltener attributiv). Bildungen mit diesem Suffix sollen nicht in Nominalkomposita verwendet werden. 
-*   \-अनीय (fem. -अनिईया) und -य (fem. -या) / -त्य (fem. -त्या) (statt -य/-या) können eine weitere Bedeutung haben (bes. -य) im Sinne des deutschen "-wert" (z.B. "sehenswert") oder nur einer Möglichkeit "-bar" (दृश्य "sichtbar"). Bildungen mit diesen Suffixen können mit अ-/-अन्- verneint werden (nicht aber Bildungen mit -तव्य) und es gibt तत्पुरुष als deren Hintergleid sie vorkommen
+* **-तव्य (fem. -तव्या):** drückt immer eine Notwendigkeit aus und wird bevorzugt prädikativ gebraucht (seltener attributiv). Bildungen mit diesem Suffix sollen nicht in Nominalkomposita verwendet werden.
+* **-अनीय (fem. -अनीया) und -य (fem. -या) / -त्य (fem. -त्या) (statt -य/-या):** können eine weitere Bedeutung haben (bes. -य) im Sinne des deutschen "-wert" (z.B. "sehenswert") oder nur einer Möglichkeit "-bar" (दृश्य "sichtbar"). Bildungen mit diesen Suffixen können mit अ-/-अन्- verneint werden (nicht aber Bildungen mit -तव्य) und es gibt तत्पुरुष als deren Hinterglied sie vorkommen.
+:::
 
 ### 41.2.5. Keine Verbindung mit सु- und दुस्-
 
-Mit सु- und दुस्- in der Bedeutung "leicht" bzw. "schwer" dürfen Gerundive nicht verbunden werden. Statt dessen stehen तत्पुरुष vom Typ सुकर 3 ("leicht zu tun") (s. [Lektion 18](lektion18.md))
+::: grammar-box
+Mit  सु- und दुस्- in der Bedeutung "leicht" bzw. "schwer" dürfen Gerundive nicht verbunden werden. Statt dessen stehen तत्पुरुष vom Typ  सुकर 3 ("leicht zu tun") (s. [Lektion 18](lektion18.md)).
+:::
 
 ## 41.3. Wortliste
 
@@ -364,18 +361,20 @@ Abb.: भुजङ्गस्य विषम्
 
 शास् 2P शास्ति : zurechtweisen, beherrschen, befehlen, lehren
 
-> hat den schwachen Präsensstamm शिष् : शिष्मस् , die 3.Pl. P. hat aber Starken Stamm: शासति (!! Endung -ati) neben gelegentlich शासन्ति. अशासुर्. Auch das ganze आत्मनेपद hat, soweit es vorkommt, den starken Stamm: शास्ते
-> 
-> Perf I शशास, शशासुर्  
-> Fut. शासिष्यति  
-> Pass. -शास्यते । शिष्यते  
-> PPP शिष्ट : gelehrt, weise  
-> Inf. शासितुम्  
-> Absol. -शिष्य । -शास्य
-> 
-> davon:
-> 
-> शासना f.: königliches Edikt, Lehre, Religion
+::: indent
+hat den schwachen Präsensstamm **शिष्** : **शिष्मस्**, die 3.Pl. P. hat aber starken Stamm: **शासति** (!! Endung -ati) neben gelegentlich **शासन्ति**. **अशासुर्**. Auch das ganze आत्मनेपद hat, soweit es vorkommt, den starken Stamm: **शास्ते**
+
+Perf I **शशास**, **शशासुर्**  
+Fut. **शासिष्यति**  
+Pass. **-शास्यते** । **शिष्यते**  
+PPP **शिष्ट** : gelehrt, weise  
+Inf. **शासितुम्**  
+Absol. **-शिष्य** । **-शास्य**
+
+davon:
+
+**शासना** f.: königliches Edikt, Lehre, Religion
+:::
 
 ::: media
 ![lekt4109.jpg](/images/lekt4109.jpg)
@@ -383,9 +382,11 @@ Abb.: शासना
 (Bildquelle: [Details](/licenses#lekt4109))
 :::
 
-> शास्त्र n.: Lehre, Lehrwerk
-> 
-> शास्त्रिन् m.: gelehrt, Gelehrter
+::: indent
+**शास्त्र** n.: Lehre, Lehrwerk
+
+**शास्त्रिन्** m.: gelehrt, Gelehrter
+:::
 
 ::: media
 ![lekt4110.jpg](/images/lekt4110.jpg)
@@ -393,15 +394,19 @@ Abb.: शास्त्री
 (Bildquelle: [Details](/licenses#lekt4110))
 :::
 
-> शिष्य 3: zu belehrender = Schüler
+::: indent
+**शिष्य** 3: zu belehrender = Schüler
+:::
 
 शरण 3: schützend, schirmend ; n. Schutz, Zuflucht, das Zufluchnehmen zu
 
 सङ्घ n.: (zu सम्-हन् : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische)
 
-> s. dazu:
-> 
-> &gt; **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+::: deleteme-box
+s. dazu:
+
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+:::
 
 कन्या f.: junges Mädchen, Tochter, Jungfrau
 
@@ -409,7 +414,9 @@ Abb.: शास्त्री
 
 इ + अति 2P अत्येति : vorübergehen
 
-> PPP अतीत : n. Vergangenheit
+::: indent
+PPP **अतीत** : n. Vergangenheit
+:::
 
 ## 41.4. Übung
 

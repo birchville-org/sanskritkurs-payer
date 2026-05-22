@@ -1,3 +1,7 @@
+---
+lesson_id: 13
+last_reconstructed: 2026-05-21
+---
 
 # Lektion 13
 
@@ -141,65 +145,65 @@ Bei konsonantisch auslautenden Stämmen:
 * starker Stamm: Nomen + -mant- / -vant-
 * schwacher Stamm: Nomen + -mat- / -vat- (aus: *-mnt- / *-vnt-)
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="2"></th>
-      <th colspan="2">Maskulinum<br><span class="sanskrit-dev">पुंस्</span></th>
-      <th colspan="2">Neutrum<br><span class="sanskrit-dev">नपुंसक</span></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Singular</strong><br><span class="sanskrit-dev">एकवचन</span></td>
-      <td>Nominativ<br><span class="sanskrit-dev">प्रथमा</span></td>
-      <td>paśu-mān<br><strong><span class="sanskrit-dev">पशुमान्</span></strong></td>
-      <td>guṇa-vān<br><strong><span class="sanskrit-dev">गुणवान्</span></strong></td>
-      <td>paśu-mat<br><strong><span class="sanskrit-dev">पशुमत्</span></strong></td>
-      <td>guṇa-vat<br><strong><span class="sanskrit-dev">गुणवत्</span></strong></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Akkusativ<br><span class="sanskrit-dev">द्वितीया</span></td>
-      <td>paśu-mant-am<br><strong><span class="sanskrit-dev">पशुमन्तम्</span></strong></td>
-      <td>guṇa-vant-am<br><strong><span class="sanskrit-dev">गुणवन्तम्</span></strong></td>
-      <td>paśu-mat<br><strong><span class="sanskrit-dev">पशुमत्</span></strong></td>
-      <td>guṇa-vat<br><strong><span class="sanskrit-dev">गुणवत्</span></strong></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Instrumentalis<br><span class="sanskrit-dev">तृतीया</span></td>
-      <td>paśu-mat-ā<br><strong><span class="sanskrit-dev">पशुमता</span></strong></td>
-      <td>guṇa-vat-ā<br><strong><span class="sanskrit-dev">गुणवता</span></strong></td>
-      <td>paśu-mat-ā<br><strong><span class="sanskrit-dev">पशुमता</span></strong></td>
-      <td>guṇa-vat-ā<br><strong><span class="sanskrit-dev">गुणवता</span></strong></td>
-    </tr>
-    <tr>
-      <td><strong>Plural</strong><br><span class="sanskrit-dev">बहुवचन</span></td>
-      <td>Nominativ<br><span class="sanskrit-dev">प्रथमा</span></td>
-      <td>paśu-mant-as<br><strong><span class="sanskrit-dev">पशुमन्तस्</span></strong></td>
-      <td>guṇa-vant-as<br><strong><span class="sanskrit-dev">गुणवन्तस्</span></strong></td>
-      <td>paśu-mant-i<br><strong><span class="sanskrit-dev">पशुमन्ति</span></strong></td>
-      <td>guṇa-vant-i<br><strong><span class="sanskrit-dev">गुणवन्ति</span></strong></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Akkusativ<br><span class="sanskrit-dev">द्वितीया</span></td>
-      <td>paśu-mat-as<br><strong><span class="sanskrit-dev">पशुमतस्</span></strong></td>
-      <td>guṇa-vat-as<br><strong><span class="sanskrit-dev">गुणवतस्</span></strong></td>
-      <td>paśu-mant-i<br><strong><span class="sanskrit-dev">पशुमन्ति</span></strong></td>
-      <td>guṇa-vant-i<br><strong><span class="sanskrit-dev">गुणवन्ति</span></strong></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Instrumentalis<br><span class="sanskrit-dev">तृतीया</span></td>
-      <td>paśu-mad-bhis<br><strong><span class="sanskrit-dev">पशुमद्भिस्</span></strong></td>
-      <td>guṇa-vad-bhis<br><strong><span class="sanskrit-dev">गुणवद्भिस्</span></strong></td>
-      <td>paśu-mad-bhis<br><strong><span class="sanskrit-dev">पशुमद्भिस्</span></strong></td>
-      <td>guṇa-vad-bhis<br><strong><span class="sanskrit-dev">गुणवद्भिस्</span></strong></td>
-    </tr>
-  </tbody>
-</table>
+
+  
+    
+      
+      Maskulinum पुंस्
+      Neutrum नपुंसक
+    
+  
+  
+    
+      Singular एकवचन
+      Nominativ प्रथमा
+      paśu-mān पशुमान्
+      guṇa-vān गुणवान्
+      paśu-mat पशुमत्
+      guṇa-vat गुणवत्
+    
+    
+      
+      Akkusativ द्वितीया
+      paśu-mant-am पशुमन्तम्
+      guṇa-vant-am गुणवन्तम्
+      paśu-mat पशुमत्
+      guṇa-vat गुणवत्
+    
+    
+      
+      Instrumentalis तृतीया
+      paśu-mat-ā पशुमता
+      guṇa-vat-ā गुणवता
+      paśu-mat-ā पशुमता
+      guṇa-vat-ā गुणवता
+    
+    
+      Plural बहुवचन
+      Nominativ प्रथमा
+      paśu-mant-as पशुमन्तस्
+      guṇa-vant-as गुणवन्तस्
+      paśu-mant-i पशुमन्ति
+      guṇa-vant-i गुणवन्ति
+    
+    
+      
+      Akkusativ द्वितीया
+      paśu-mat-as पशुमतस्
+      guṇa-vat-as गुणवतस्
+      paśu-mant-i पशुमन्ति
+      guṇa-vant-i गुणवन्ति
+    
+    
+      
+      Instrumentalis तृतीया
+      paśu-mad-bhis पशुमद्भिस्
+      guṇa-vad-bhis गुणवद्भिस्
+      paśu-mad-bhis पशुमद्भिस्
+      guṇa-vad-bhis गुणवद्भिस्
+    
+  
+
 
 Femininum:
 
@@ -233,10 +237,11 @@ In this sense a different derivation has been found for it: the source is no lon
 
 ::: center
 
-![](/images/lekt1301.jpg)
-
-Abb.: mahiṣāsuraḥ = महिषासुरः, Chamundi Hills, Mysor (Bildquelle: [Details](/licenses#lekt1301))
-
+::: media
+![]/images/lekt1301.jpg
+Abb.: महिषासुरः,
+(Bildquelle: [Details](/licenses#lekt1301))
+:::
 :::
 
 * guṇa m. (गुण) : Faden, Schnur; Eigenschaft, gute Eigenschaft
@@ -252,10 +257,11 @@ Abb.: mahiṣāsuraḥ = महिषासुरः, Chamundi Hills, Mysor (Bil
 
 ::: center
 
-![](/images/lekt1304.jpg)
-
-Abb.: annam = अन्नम्, Karnataka, 2005 (Bildquelle: [Details](/licenses#lekt1304))
-
+::: media
+![]/images/lekt1304.jpg
+Abb.: अन्नम्,
+(Bildquelle: [Details](/licenses#lekt1304))
+:::
 :::
 
 Wortbildung:
@@ -266,10 +272,11 @@ pad 4 Ā:
 
 ::: center
 
-![](/images/lekt1303.jpg)
-
-Abb.: catvāraḥ pādāḥ: gajaḥ = चत्वारः पादाः : गजः (Bildquelle: [Details](/licenses#lekt1303))
-
+::: media
+![]/images/lekt1303.jpg
+Abb.: चत्वारः पादाः : गजः)
+(Bildquelle: [Details](/licenses#lekt1303))
+:::
 :::
 
 dviṣ 2 U:
@@ -287,10 +294,11 @@ A) Übersetzen Sie und verwandeln Sie in aktive Präsenssätze:
 
 ::: center
 
-![](/images/lekt1305.jpg)
-
-Abb.: atra gautamo buddho bodhyā muktaḥ = अत्र गौतमो बुद्धो बोध्या मुक्तः (Bildquelle: [Details](/licenses#lekt1305))
-
+::: media
+![]/images/lekt1305.jpg
+Abb.: अत्र गौतमो बुद्धो बोध्या मुक्तः)
+(Bildquelle: [Details](/licenses#lekt1305))
+:::
 :::
 
 ४. शूद्रा मूढाः । (2 Möglichkeiten)
@@ -348,10 +356,11 @@ C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion.
 
 ::: center
 
-![](/images/lekt1302.jpg)
-
-Abb.: satyameva jayate = सत्यमेव जयते (Bildquelle: [Details](/licenses#lekt1302))
-
+::: media
+![]/images/lekt1302.jpg
+Abb.: सत्यमेव जयते)
+(Bildquelle: [Details](/licenses#lekt1302))
+:::
 :::
 
 D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:

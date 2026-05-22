@@ -216,6 +216,19 @@ html {
   font-size: 1.35em !important;
 }
 
+/* Paradigm tables inside grammar-boxes: plain verb forms use primary text color, not scholastic red */
+.vp-doc .custom-block.grammar-box table td .sanskrit-dev,
+.vp-doc .custom-block.grammar-box table th .sanskrit-dev {
+  color: inherit !important;
+}
+/* Restore signalrot for forms explicitly marked ***...*** (strong em) */
+.vp-doc .custom-block.grammar-box table td strong em .sanskrit-dev,
+.vp-doc .custom-block.grammar-box table td em strong .sanskrit-dev,
+.vp-doc .custom-block.grammar-box table th strong em .sanskrit-dev,
+.vp-doc .custom-block.grammar-box table th em strong .sanskrit-dev {
+  color: #ff0000 !important;
+}
+
 
 /* Custom Blocks (Grammar, Media, etc.) */
 .vp-doc .custom-block.grammar-box {
@@ -378,6 +391,14 @@ html {
   display: none;
 }
 
+/* OM Signet: signalrot strong em inside center container renders larger */
+.vp-doc .custom-block.center p strong em,
+.vp-doc .custom-block.center p em strong {
+  font-size: 4rem !important;
+  line-height: 1.2 !important;
+  display: block !important;
+}
+
 /* Important Box (Violet with Traffic Sign) */
 .vp-doc .custom-block.important {
   background-color: #f5f3ff !important; /* Light violet */
@@ -486,7 +507,7 @@ html {
 /* Metrische Schemata (L16-Ref) */
 .vp-doc .metrik-schema {
   font-family: var(--vp-font-family-mono) !important;
-  font-size: 2.2rem !important;
+  font-size: 1.8rem !important;
   font-weight: 800 !important;
   line-height: 1.8 !important;
   margin: 1.5rem 0 !important;
@@ -497,8 +518,27 @@ html {
   overflow-y: hidden;
 }
 
+.vp-doc .metrik-schema p {
+  font-size: inherit !important;
+  line-height: inherit !important;
+}
+
 .vp-doc .metrik-schema strong {
   color: var(--vp-c-brand-1);
+}
+
+.vp-doc .metrik-schema strong em,
+.vp-doc .metrik-schema em strong {
+  color: #ff0000 !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: inherit !important;
+  font-family: var(--vp-font-family-mono) !important;
+}
+
+.dark .vp-doc .metrik-schema strong em,
+.dark .vp-doc .metrik-schema em strong {
+  color: #ff3333 !important;
 }
 
 /* Split Viewer / Embedded Mode Fixes */

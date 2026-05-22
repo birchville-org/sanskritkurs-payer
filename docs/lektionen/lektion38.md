@@ -1,3 +1,8 @@
+---
+lesson_id: 38
+last_reconstructed: 2026-05-21
+---
+
 # Lektion 38
 
 ## 38.1. Losung der Woche
@@ -38,50 +43,50 @@ Nach c- und j- wird -n- durch -ñ- ersetzt.
 ::: grammar-box
 Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei Stämme:
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid var(--vp-c-divider);">
-  <tbody>
-    <tr>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px;"><strong>Starker Stamm</strong></td>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;"><strong>-ān</strong></td>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;"><strong>-mān</strong></td>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;"><strong>-vān</strong></td>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px;">
-        Nom., Akk., Vok. sg. m. f.<br>
-        Nom., Akk., Vok. dual m. f.<br>
-        Nom., Vok. pl. m. f.<br>
+
+  
+    
+      Starker Stamm
+      -ān
+      -mān
+      -vān
+      
+        Nom., Akk., Vok. sg. m. f. 
+        Nom., Akk., Vok. dual m. f. 
+        Nom., Vok. pl. m. f. 
         Nom., Akk. pl. n.
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px;"><strong>Mittlerer Schwacher Stamm</strong></td>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;">
-        <strong>-a</strong><br>
+      
+    
+    
+      Mittlerer Schwacher Stamm
+      
+        -a 
         (aus -*n)
-      </td>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;">
-        <strong>-ma</strong><br>
+      
+      
+        -ma 
         (aus -*mn)
-      </td>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;">
-        <strong>-va</strong><br>
+      
+      
+        -va 
         (aus -*vn)
-      </td>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px;">
-        Übrige Kasus vor konsonantisch anlautender Endung<br>
+      
+      
+        Übrige Kasus vor konsonantisch anlautender Endung 
         Wahlweise auch Lok. sg. m. n. f.
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px;"><strong>Schwächster Stamm</strong></td>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;"><strong>-n</strong></td>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;"><strong>-mn</strong></td>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px; text-align: center;"><strong>-vn</strong></td>
-      <td style="border: 1px solid var(--vp-c-divider); padding: 8px;">
+      
+    
+    
+      Schwächster Stamm
+      -n
+      -mn
+      -vn
+      
         Übrige Kasus vor vokalisch anlautender Endung
-      </td>
-    </tr>
-  </tbody>
-</table>
+      
+    
+  
+
 
 Die Endungen sind regelmäßig. Der Nominativ Singular m. f. wird ohne auslautendes **-n** gebildet.
 :::

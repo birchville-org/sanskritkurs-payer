@@ -1,3 +1,7 @@
+---
+lesson_id: 25
+last_reconstructed: 2026-05-21
+---
 
 # Lektion 25
 
@@ -284,7 +288,7 @@ Abb.: मूलानि
 > 
 > davon:
 > 
-> > विवाह m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+> &gt; विवाह m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
 
 ::: media
 ![](/images/lekt2504.jpg)

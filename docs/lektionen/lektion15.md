@@ -1,3 +1,7 @@
+---
+lesson_id: 15
+last_reconstructed: 2026-05-21
+---
 
 # Lektion 15
 
@@ -137,8 +141,10 @@ Wäre auch auflösbar: देवस्य / देवानां कृतम�
 
 Obwohl im Sanskrit Komposita beliebiger Länge gebildet werden können und auch sehr häufig gebildet werden (Komposita aus 10 bis 30 Gliedern sind keine Seltenheit!), so sind doch - mit Ausnahme der Dvandvas - alle Komposita fortschreitend hierarchisch in je zwei Teile zu zerlegen:
 
-![](/images/lekt1502.jpg)
-
+::: media
+![]/images/lekt1502.jpg
+(Bildquelle: [Details](/licenses#lekt1502))
+:::
 u.s.w. bis man zu den einzelnen Wortstämmen kommt.
 
 z.B.
@@ -303,7 +309,7 @@ Abb.: व्याघ्रः
 
 इव (nachgestellt): gleichsam, wie (in Vergleichen: व्याघ्र इव पुरुषः = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
 
-एव (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `<!>`, z.B. सत्यमेव जयति "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
+एव (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `&lt;!&gt;`, z.B. सत्यमेव जयति "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
 
 अरि m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling)
 

@@ -1,9 +1,20 @@
+---
+lesson_id: 58
+last_reconstructed: 2026-05-21
+---
 
 # Lektion 58
 
 ## 58.1. Die Primärendungen des Dual (द्विवचनम्)
 
- **परस्मैपदम्**आत्मनेपदम्  thematischathematisch**1. तृतीयः**-vas-vahe**2. मध्यमः**-thas-īthe-āthe**3. प्रथमः**-tas-īte-āte
+::: grammar-box
+|   | **परस्मैपदम्** | **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: |
+|   |   | thematisch | athematisch |
+| **1. तृतीयः** | -vas | -vahe ||
+| **2. मध्यमः** | -thas | -***ī***the | -***ā***the |
+| **3. प्रथमः** | -tas | -***ī***te | -***ā***te |
+:::
 
 ## 58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (लट्)
 
@@ -13,56 +24,58 @@ Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt.
 
 भू 1P "werden, sein"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | भवावस्   | |
-> "wir beide werden" | &lt;भवावहे&gt; | | |
-> | 2\. मध्यमः | भवथस्   | |
-> "ihr beide werdet | &lt;भवेथे&gt;   | | |
-> bhav-a + īthe | | | |
-> | 3\. प्रथमः | भवतस्   | |
-> "sie beide werden" | &lt;भवेते&gt; | | |
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | भवावस्[[br]]"wir beide werden" | &lt;भवावहे&gt; |
+| **2. मध्यमः** | भवथस्[[br]]"ihr beide werdet" | &lt;भवेथे&gt;[[br]]bhav-a + īthe |
+| **3. प्रथमः** | भवतस्[[br]]"sie beide werden" | &lt;भवेते&gt; |
 
 ### 58.2.2. Vierte Präsensklasse (दिवादिगणः)
 
 नृत् 4P "tanzen"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | नृत्यावस् | नृत्यावहे |
-> | 2\. मध्यमः | नृत्यथस् | नृत्येथे |
-> | 3\. प्रथमः | नृत्यतस् | नृत्येते् |
-> 
-> ![](/images/lekt5802.jpg)  
-> Abb.: नृत्यतः  
-> ओडिसी  
-> \[Bildquelle: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | नृत्यावस् | नृत्यावहे |
+| **2. मध्यमः** | नृत्यथस् | नृत्येथे |
+| **3. प्रथमः** | नृत्यतस् | नृत्येते् |
+
+::: media
+![](/images/lekt5802.jpg)
+Abb.: नृत्यतः
+(Bildquelle: [Details](/licenses#lekt5802))
+:::
 
 ### 58.2.3. Sechste Präsensklasse (तुदादिगणः)
 
 तुद् 6U "stoßen, schlagen"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | तुदावस् | तुदावहे |
-> | 2\. मध्यमः | तुदथस् | तुदेथे |
-> | 3\. प्रथमः | तुदतस् | तुदेते |
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तुदावस् | तुदावहे |
+| 2\. मध्यमः | तुदथस् | तुदेथे |
+| 3\. प्रथमः | तुदतस् | तुदेते |
+:::
 
 ### 58.2.4. Zehnte Präsensklasse (चुरादिगणः) und Kausative (णिजन्त)
 
 चुर् 10U "stehlen"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | चोरयावस् | चोरयावहे |
-> | 2\. मध्यमः | चोरयथस् | चोरयेथे |
-> | 3\. प्रथमः | चोरयतस् | चोरयेते |
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | चोरयावस् | चोरयावहे |
+| 2\. मध्यमः | चोरयथस् | चोरयेथे |
+| 3\. प्रथमः | चोरयतस् | चोरयेते |
+:::
 
-![](/images/lekt5803.jpg)  
-Abb.: वानरौ रथाद्भाण्डानि चोरयतः  
-Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
+::: media
+![](/images/lekt5803.jpg)
+Abb.: वानरौ रथाद्भाण्डानि चोरयतः
+(Bildquelle: [Details](/licenses#lekt5803))
+:::
 
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/362253669/](http://www.flickr.com/photos/mattlogelin/362253669/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
 
 ## 58.3. Der Dual des einfachen Futurs (ऌत्)
 
@@ -70,30 +83,36 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 
 दा 3U "geben"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | दास्यावस् | दास्यावहे |
-> | 2\. मध्यमः | दास्यथस् | दास्येथे |
-> | 3\. प्रथमः | दास्यतस् | दास्येते |
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दास्यावस् | दास्यावहे |
+| 2\. मध्यमः | दास्यथस् | दास्येथे |
+| 3\. प्रथमः | दास्यतस् | दास्येते |
+:::
 
 ### 58.3.2. सेट्
 
 भू 1P "werden, sein"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | भविष्यावस् | भविष्यावहे |
-> | 2\. मध्यमः | भविष्यथस् | भविष्येथे |
-> | 3\. प्रथमः | भविष्यतस् | भविष्येते |
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | भविष्यावस् | भविष्यावहे |
+| 2\. मध्यमः | भविष्यथस् | भविष्येथे |
+| 3\. प्रथमः | भविष्यतस् | भविष्येते |
+:::
 
 ## 58.4. Der Dual Passiv (Suffix -यक्)
 
 तुद् 6U "stoßen, schlagen"
 
-> | 1\. तृतीयः | तुद्यवाहे |
-> | --- | --- |
-> | 2\. मध्यमः | तुद्येथे |
-> | 3\. प्रथमः | तुद्येते |
+::: grammar-box
+| 1\. तृतीयः | तुद्यवाहे |
+| --- | --- |
+| 2\. मध्यमः | तुद्येथे |
+| 3\. प्रथमः | तुद्येते |
+:::
 
 ## 58.5. Der Dual athematischer Präsensklassen: Indikativ Präsens (लट्)
 
@@ -101,229 +120,289 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 
 द्विष् 2U "hassen"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | द्विष्वस् | द्विष्वहे |
-> | 2\. मध्यमः | द्विष्ठस् | द्विषाथे |
-> | 3\. प्रथमः | द्विष्टस् | द्विषाते |
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | द्विष्वस् | द्विष्वहे |
+| 2\. मध्यमः | द्विष्ठस् | द्विषाथे |
+| 3\. प्रथमः | द्विष्टस् | द्विषाते |
+:::
 
 दुह् 2U "melken"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | दुह्वस् | दुह्वहे |
-> | 2\. मध्यमः | दुग्धस् | दुहाथे |
-> | 3\. प्रथमः | दुग्धस् | दुहाते |
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दुह्वस् | दुह्वहे |
+| 2\. मध्यमः | ***दुग्धस्*** | दुहाथे |
+| 3\. प्रथमः | ***दुग्धस्*** | दुहाते |
+:::
 
 इ 2P "gehen"
 
-> |   | परस्मैपदम् |
-> | --- | --- |
-> | 1\. तृतीयः | इवस् |
-> | 2\. मध्यमः | इथस् |
-> | 3\. प्रथमः | इतस् |
+::: grammar-box
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | इवस् |
+| 2\. मध्यमः | इथस् |
+| 3\. प्रथमः | इतस् |
+:::
 
-![](/images/lekt5806.jpg)  
-Abb.: उष्ट्रौ मरावितः  
-\[Bildquelle: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). --  Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine Kommerzielle Nutzung, keine Bearbeitung)\]
-
+::: media
+![](/images/lekt5806.jpg)
+Abb.: उष्ट्रौ मरावितः
+(Bildquelle: [Details](/licenses#lekt5806))
+:::
 इ + अधि 2Ā "studieren"
 
-> |   | आत्मनेपदम् |
-> | --- | --- |
-> | 1\. तृतीयः | अधीवहे |
-> | 2\. मध्यमः | अधीयाथे |
-> | 3\. प्रथमः | अधीयते |
+::: grammar-box
+|   | आत्मनेपदम् |
+| --- | --- |
+| 1\. तृतीयः | अधीवहे |
+| 2\. मध्यमः | अधी***या***थे |
+| 3\. प्रथमः | अधी***य***ते |
+:::
 
-![](/images/lekt5804.jpg)  
+::: media
+![](/images/lekt5804.jpg)
 Abb.: कन्ये अधीयते
+(Bildquelle: [Details](/licenses#lekt5804))
+:::
 
-\[Bildquelle: One Laptop per Child. -- [http://www.flickr.com/photos/olpc/3080618518/](http://www.flickr.com/photos/olpc/3080618518/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]
 
 हन् 2P "erschlagen"
 
-> |   | परस्मैपदम् |
-> | --- | --- |
-> | 1\. तृतीयः | हन्वस् |
-> | 2\. मध्यमः | हथस्   |
-> \*hn-thas | | |
-> | 3\. प्रथमः | हतस् |
+::: grammar-box
+|   | **परस्मैपदम्** |
+| :--- | :---: |
+| **1. तृतीयः** | हन्वस् |
+| **2. मध्यमः** | ***हथस्***[[br]]*hn-thas |
+| **3. प्रथमः** | ***हतस्*** |
+:::
 
 अस् 2P "sein"
 
-> |   | परस्मैपदम् |
-> | --- | --- |
-> | 1\. तृतीयः | स्वस्   |
-> s-vas | | |
-> | 2\. मध्यमः | स्थस् |
-> | 3\. प्रथमः | स्तस् |
+::: grammar-box
+|   | **परस्मैपदम्** |
+| :--- | :---: |
+| **1. तृतीयः** | ***स्वस्***[[br]]s-vas |
+| **2. मध्यमः** | ***स्थस्*** |
+| **3. प्रथमः** | ***स्तस्*** |
+:::
 
-![](/images/lekt5805.jpg)  
+::: media
+![](/images/lekt5805.jpg)
 Abb.: भगिन्यौ स्वः
+(Bildquelle: [Details](/licenses#lekt5805))
+:::
 
-\[Bildquelle: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/332951412/](http://www.flickr.com/photos/saibotregeel/332951412/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)\] 
 
 ### 58.5.2. Dritte Präsensklasse (जुहोत्यादिगणः)
 
 हु 3P "ins Opferfeuer gießen"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | जुहुवस् | &lt;जुहुवहे&gt; |
-> | 2\. मध्यमः | जुहुथस् | &lt;जुह्वाथे&gt; |
-> | 3\. प्रथमः | जुहुतस् | &lt;जुह्वाते&gt; |
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | जुहुवस् | &lt;जुहुवहे&gt; |
+| 2\. मध्यमः | जुहुथस् | &lt;जुह्वाथे&gt; |
+| 3\. प्रथमः | जुहुतस् | &lt;जुह्वाते&gt; |
+:::
 
 धा 3U "setzen, legen, stellen"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | दध्वस् | दध्वहे |
-> | 2\. मध्यमः | धत्थस् | दधाथे |
-> | 3\. प्रथमः | धत्तस् | दधाते |
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दध्वस् | दध्वहे |
+| 2\. मध्यमः | धत्थस् | दधाथे |
+| 3\. प्रथमः | धत्तस् | दधाते |
+:::
 
 ### 58.5.3. Fünfte Präsensklasse (स्वादिगणः)
 
 सु 5U "auspressen"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | सुनुवस् / सुन्वस् | सुनुवहे / सुन्वहे |
-> | 2\. मध्यमः | सुनुथस् | सुन्वाथे |
-> | 3\. प्रथमः | सुनुतस् | सुन्वाते |
-> 
-> ![](/images/lekt5807.jpg)  
-> Abb.: शर्कराम्बु सुनुतः  
-> पुणेनगरे
-> 
-> \[Bildquelle: FredMikeRudy. -- [http://www.flickr.com/photos/fredmikerudy/2090687162/](http://www.flickr.com/photos/fredmikerudy/2090687162/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)\]
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | सुनुवस् / सुन्वस् | सुनुवहे / सुन्वहे |
+| **2. मध्यमः** | सुनुथस् | सुन्वाथे |
+| **3. प्रथमः** | सुनुतस् | सुन्वाते |
+
+::: media
+![](/images/lekt5807.jpg)
+Abb.: शर्कराम्बु सुनुतः
+(Bildquelle: [Details](/licenses#lekt5807))
+:::
 
 ### 58.5.4. Achte Präsensklasse (तनादिगणः)
 
 तन् 8U "aufspannen"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | तनुवस् / तन्वस् | तनुवहे / तन्वहे |
-> | 2\. मध्यमः | तनुथस् | तन्वाथे |
-> | 3\. प्रथमः | तनुतस् | तन्वाते |
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तनुवस् / तन्वस् | तनुवहे / तन्वहे |
+| 2\. मध्यमः | तनुथस् | तन्वाथे |
+| 3\. प्रथमः | तनुतस् | तन्वाते |
+:::
 
 कृ 8U "tun, machen"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | कुर्वस् | कुर्वहे |
-> | 2\. मध्यमः | कुरुथस् | कुर्वाथे |
-> | 3\. प्रथमः | कुरुतस् | कुर्वाते |
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | कुर्वस् | कुर्वहे |
+| 2\. मध्यमः | कुरुथस् | कुर्वाथे |
+| 3\. प्रथमः | कुरुतस् | कुर्वाते |
+:::
 
 ### 58.5.5. Siebte Präsensklasse (रुधादिगणः)
 
 रुध् 7U "stoppen"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | रुन्ध्वस् | रुन्ध्वहे |
-> | 2\. मध्यमः | रुन्द्धस् | रुन्धाथे |
-> | 3\. प्रथमः | रुन्द्धस् | रुन्धाते |
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | रुन्ध्वस् | रुन्ध्वहे |
+| 2\. मध्यमः | ***रुन्द्धस्*** | रुन्धाथे |
+| 3\. प्रथमः | रुन्द्धस् | रुन्धाते |
+:::
 
 युज् 7U "anschirren"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | युञ्ज्वस् | युञ्ज्वहे |
-> | 2\. मध्यमः | युङ्क्थस् | युञ्जाथे |
-> | 3\. प्रथमः | युङ्क्तस् | युञ्जाते |
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | युञ्ज्वस् | युञ्ज्वहे |
+| 2\. मध्यमः | युङ्क्थस् | युञ्जाथे |
+| 3\. प्रथमः | युङ्क्तस् | युञ्जाते |
+:::
 
 ### 58.5.6. Neunte Präsensklasse (क्र्यादिगणः)
 
 क्री 9U "kaufen"
 
-> |   | परस्मैपदम् | आत्मनेपदम् |
-> | --- | --- | --- |
-> | 1\. तृतीयः | क्रीणीवस् | क्रीणीवहे |
-> | 2\. मध्यमः | क्रीणीथस् | क्रीणाथे   |
-> krī-ṇ-āthe | | | |
-> | 3\. प्रथमः | क्रीणीतस् | क्रीणाते |
-> 
-> ![](/images/lekt5801.jpg)  
-> Abb.: स्त्रियौ शाकं क्रीणाते  
-> \[Bildquelle: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | क्रीणीवस् | क्रीणीवहे |
+| **2. मध्यमः** | क्रीणीथस् | क्रीणाथे[[br]]krī-ṇ-āthe |
+| **3. प्रथमः** | क्रीणीतस् | क्रीणाते |
+
+::: media
+![](/images/lekt5801.jpg)
+Abb.: स्त्रियौ शाकं क्रीणाते
+(Bildquelle: [Details](/licenses#lekt5801))
+:::
 
 ## 58.6. Aorist 5: iṣ-Aorist
 
-Der iṣ-Aorist wird von allen seṭ-Wurzeln gebildet, für die nicht ausdrücklich ausschließlich eine andere Form des Aorist gelehrt wird.
+::: grammar-box
+**Der iṣ-Aorist wird von allen seṭ-Wurzeln gebildet, für die nicht ausdrücklich ausschließlich eine andere Form des Aorist gelehrt wird.**
 
-Bildung:
+**Bildung:**
 
-Augment + Wurzel + i + s + athematische Sekundärendung
+**Augment + Wurzel + i + s + athematische Sekundärendung**
 
-!!! Die 2.sg.P bzw. 3.sg.P gehen auf -īs bzw. -īt aus !!! (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs अब्रवीत्; es sind also eigentlich Wurzelaorist-Formen).
+***!!!*** Die 2.sg.P bzw. 3.sg.P gehen auf ***-***īs bzw. -īt aus ***!!!*** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs अब्रवीत्; es sind also eigentlich Wurzelaorist-Formen).
+:::
 
-Stammbildungssuffix + Endungen  des iṣ-Aorist lauten also:
+Stammbildungssuffix + Endungen des iṣ-Aorist lauten also:
 
- परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः****-iṣam****-iṣma****-iṣi****-iṣmahi****2. द्वितीयः****-īs****-iṣṭa****-iṣṭhās****-idhvam / -iḍhvam **(wahlweise nach -h oder Halbvokal)**3. प्रथमः****-īt****-iṣur****-iṣṭa****-iṣata**
+::: grammar-box
 
-Form der Wurzel:
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
+| **2. द्वितीयः** | ***-īs*** | **-iṣṭa** | **-iṣṭhās** | ***-***idhvam / [[br]]-iḍhvam[[br]](wahlweise nach -h oder Halbvokal) |
+| **3. प्रथमः** | ***-īt*** | **-iṣur** | **-iṣṭa** | **-iṣata** |
 
-*   Wurzeln mit kurzem Vokal vor einfachem Konsonanten: Hochstufe im P und Ā  
+:::
+
+::: grammar-box
+**Form der Wurzel:**
+
+*   **Wurzeln mit kurzem Vokal vor einfachem Konsonanten: Hochstufe im P und Ā**  
     Beispiele:  
     बुध् 1U: 1.sg.P अबोधिषम्  
-    कॢप् 1Ā: 1.sg.Ā अकल्पिषि  
-     
-*   Wurzeln mit auslautendem Vokal:
-    
-    *   P: Dehnstufe
-    *   Ā: Hochstufe
-    
+    कॢप् 1Ā: 1.sg.Ā अकल्पिषि
+
+*   **Wurzeln mit auslautendem Vokal:**
+    *   **P: Dehnstufe**
+    *   **Ā: Hochstufe**
+
     Beispiele:  
-    पू 9U: 1.sg.P अपाविषम् ; 1. sg.Ā अपविषि  
-     
-    
-*   Wurzeln auf -ar., -al sowie वद् 1P "sagen", व्रज् 1P "weggehen": P: Dehnstufe  
+    पू 9U: 1.sg.P अपाविषम् ; 1. sg.Ā अपविषि
+
+*   **Wurzeln auf -ar., -al sowie वद् 1P "sagen", व्रज् 1P "weggehen": P: Dehnstufe**  
     Beispiele:  
     चर् 1P: 1.sg.P अचारिषम्  
-    वद् 1P: 1.sg.P अवादिषम्  
-     
-*   Andere Wurzeln der Form (Kons.-)Kons.-a-Kons.: im P wahlweise Dehnstufe (gilt nicht für Wurzeln auf -h, -m, -y sowie einige weitere Wurzeln)  
+    वद् 1P: 1.sg.P अवादिषम्
+
+*   **Andere Wurzeln der Form (Kons.-)Kons.-a-Kons.: im P wahlweise Dehnstufe (gilt nicht für Wurzeln auf -h, -m, -y sowie einige weitere Wurzeln)**  
     Beispiel:  
     तन् 8U: 1.sg.P अतनिषम् / अतानिषम्  
     aber:  
     क्रम् 1U: 1.sg.P अक्रमिषम्
+:::
 
 Paradigmen:
 
 पू 9U "reinigen"
 
->  परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः**अपाविषम्पाविष्मअपविषिअपविष्महि**2. द्वितीयः**अपावीस्अपाविष्टअपविष्ठास्अपविध्वम् / अपविढ्वम्**3. प्रथमः**अपावीत्अपाविषुर्अपविष्टपविषत
+::: indent
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अपाविषम् | पाविष्म | अपविषि | अपविष्महि |
+| **2. द्वितीयः** | अपावीस् | अपाविष्ट | अपविष्ठास् | अपविध्वम् / [[br]]अपविढ्वम् |
+| **3. प्रथमः** | अपावीत् | अपाविषुर् | अपविष्ट | पविषत |
+:::
 
-बुध् 1U  "erwachen, erkennen"
+बुध् 1U "erwachen, erkennen"
 
->  परस्मैपदम् एकवचनम्बहुवचनम्**1. तृतीयः**अबोधिषम्अबोधिष्म**2. द्वितीयः**अबोधीस्अबोधिष्ट**3. प्रथमः**अबोधीत्अबोधिषुर्
+::: indent
+|   | **परस्मैपदम्** ||
+| :--- | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अबोधिषम् | अबोधिष्म |
+| **2. द्वितीयः** | अबोधीस् | अबोधिष्ट |
+| **3. प्रथमः** | अबोधीत् | अबोधिषुर् |
+:::
 
 कॢप् 1Ā "passend sein"
 
->  आत्मनेपदम् एकवचनम्बहुवचनम्**1. तृतीयः**अकल्पिषिअकल्पिष्महि**2. द्वितीयः**अकल्पिष्ठास्अकल्पिध्वम्**3. प्रथमः**अकल्पिष्टअकल्पिषत
+::: indent
+|   | **आत्मनेपदम्** ||
+| :--- | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अकल्पिषि | अकल्पिष्महि |
+| **2. द्वितीयः** | अकल्पिष्ठास् | अकल्पिध्वम् |
+| **3. प्रथमः** | अकल्पिष्ट | अकल्पिषत |
+:::
 
-Besonderheiten:
+::: grammar-box
+**Besonderheiten:**
 
 1.  Bei einigen Wurzeln kann der Bindevokal -i- im आत्मनेपद durch -ī- ersetzt werden. Nach ग्रह् 9U "ergreifen" muss diese Ersetzung im P und Ā erfolgen:  
-    अग्रहीषम् , अग्रहीषि  
-     
-    
+    अग्र***ही***षम् , अग्र***ही***षि
+
 2.  Wurzeln der 8. Präsensklasse auf -n (oder -ṇ) können in der 2.3.sg.Ā tiefstufig sein:  
-    तन् 8U: 2.sg.Ā अतनिष्ठास् / अतथस् (Wurzelaorist) ; 3. sg. Ā अतनिष्ट / अतत  
-     
-    
+    तन् 8U: 2.sg.Ā अतनिष्ठास् / अतथस् (Wurzelaorist) ; 3. sg. Ā अतनिष्ट / अतत
+
 3.  दीप् 4Ā, जन् 4Ā u.a. können statt der 3.sg. Ā auch die Form des Passivaorists annehmen:  
-    अदीपिष्ट / अदीपि ; अजनिष्ट / अजनि  
-     
-    
+    अदीपिष्ट / अदीपि ; अजनिष्ट / अजनि
+
 4.  विज् 7P hat keinen Ablaut:  
     अविजीत्
-    
+:::
 
-![](/images/lekt5808.jpg)  
-Abb.: दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट / चादीपि ॥
-
+::: media
+![](/images/lekt5808.jpg)
+Abb.: दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥
+(Bildquelle: [Details](/licenses#lekt5808))
+:::
 ## 58.7. Übung
 
 A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Formen des i-Aorist:
@@ -389,3 +468,18 @@ B) Übersetzen und bestimmen Sie folgende Formen:
 37.  इतः
 38.  दद
 39.  अञ्ज्वः
+
+::: deleteme-box
+### Quellen
+
+**lekt5802:** ओडिसी [Bildquelle: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)]
+
+**lekt5803:** Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
+
+**lekt5806:** [Bildquelle: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). --  Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine Kommerzielle Nutzung, keine Bearbeitung)]
+
+**lekt5807:** पुणेनगरे
+
+**lekt5801:** [Bildquelle: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+
+:::

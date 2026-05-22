@@ -146,11 +146,11 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 **So ist auch das -ṇ- zu erklären in:**
 
 > **śravaṇa** श्रवण
->
+&gt;
 > **śṛṇoti** शृणोति
->
+&gt;
 > **kāraṇa** कारण
->
+&gt;
 > **brāhmaṇa** ब्राह्मण
 
 

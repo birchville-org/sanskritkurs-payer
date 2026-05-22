@@ -119,11 +119,11 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **nī** 1 U[[br]](नी) | **nī-ta**[[br]](नीत) |
 | **man** 4 Ā[[br]](मन्) | **ma-ta** (\*mn-ta)[[br]](मत) |
 | **su** 5 U[[br]](सु) | **su-ta**[[br]](सुत) |
-| **gam** 1 P[[br]](गम्) | **ga-ta** (< \*gm-ta)[[br]](गत) |
+| **gam** 1 P[[br]](गम्) | **ga-ta** (&lt; \*gm-ta)[[br]](गत) |
 | **ji** 1 P[[br]](जि) | **ji-ta**[[br]](जित) |
 | **śru** 5 P[[br]](श्रु) | **śru-ta**[[br]](श्रुत) |
 | **kṛ** 8 U[[br]](कृ) | **kṛ-ta**[[br]](कृत) |
-| **tan** 8 U[[br]](तन्) | **ta-ta** (< \*tn-ta)[[br]](तत) |
+| **tan** 8 U[[br]](तन्) | **ta-ta** (&lt; \*tn-ta)[[br]](तत) |
 | **iṣ** 6 P[[br]](इष्) | **iṣ-ṭa**[[br]](इष्ट) |
 :::
 
@@ -139,7 +139,7 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **kup** 4 P[[br]](कुप्) | **kup-i-ta**[[br]](कुपित) |
 | **khād** 1 P[[br]](खाद्) | **khād-i-ta**[[br]](खादित) |
 | **rakṣ** 1 P[[br]](रक्ष्) | **rakṣ-i-ta**[[br]](रक्षित) |
-| **vad** 1 P[[br]](वद्) | **ud-i-ta** (< \*vd-i-ta)[[br]](उदित) |
+| **vad** 1 P[[br]](वद्) | **ud-i-ta** (&lt; \*vd-i-ta)[[br]](उदित) |
 :::
 
 ---
@@ -150,39 +150,39 @@ Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beach
 
 ::: grammar-box
 1. **k, t, p vor stimmlosem Verschlusslaut (z.B. t, th) bleiben unverändert:**
-   > **pt, tt, kt** = **प्त्, त्त्, क्त्**
+   &gt; **pt, tt, kt** = **प्त्, त्त्, क्त्**
 
 2. **ct wird durch kt = क्त् ersetzt:**
-   > **muc + ta » muk-ta** = **मुक्त**
+   &gt; **muc + ta » muk-ta** = **मुक्त**
 
 3. **śt wird durch ṣṭ = ष्ट् ersetzt:**
-   > **dṛś + ti » dṛṣṭi** = **दृष्टि**
-   > **dṛś + ta » dṛṣṭa** = **दृष्ट**
-   > **viś + ta » viṣṭa** = **विष्ट**
+   &gt; **dṛś + ti » dṛṣṭi** = **दृष्टि**
+   &gt; **dṛś + ta » dṛṣṭa** = **दृष्ट**
+   &gt; **viś + ta » viṣṭa** = **विष्ट**
 
 4. **Stimmhafter unaspirierter Verschlusslaut – außer j – wird vor stimmlosem Laut durch den ihm entsprechenden stimmlosen unaspirierten Laut ersetzt:**
-   > **d + t(h) » tt(h)** = **त्त्, त्थ्** (wichtig für die 2. Präsensklasse)
+   &gt; **d + t(h) » tt(h)** = **त्त्, त्थ्** (wichtig für die 2. Präsensklasse)
 
 5. **jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):**
-   > **yuj + ta » yuk-ta** = **युक्त**
-   > **yaj + ta » iṣ-ṭa** = **इष्ट** (< \*yj-ta)
-   > **sṛj + ta » sṛṣ-ṭa** = **सृष्ट**
-   > **sṛj + ti » sṛṣ-ṭi** = **सृष्टि**
+   &gt; **yuj + ta » yuk-ta** = **युक्त**
+   &gt; **yaj + ta » iṣ-ṭa** = **इष्ट** (&lt; \*yj-ta)
+   &gt; **sṛj + ta » sṛṣ-ṭa** = **सृष्ट**
+   &gt; **sṛj + ti » sṛṣ-ṭi** = **सृष्टि**
 
 6. **Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):**
-   > **bh-t » b-dh**
-   > - **labh + ta » lab-dha** = **लब्ध**
-   > 
-   > **dh-t » d-dh**
-   > - **budh + ta » bud-dha** = **बुद्ध**
-   > - **yudh + ta » yud-dha** = **युद्ध**
-   > - **krudh + ta » krud-dha** = **क्रुद्ध**
+   &gt; **bh-t » b-dh**
+   &gt; - **labh + ta » lab-dha** = **लब्ध**
+   &gt; 
+   &gt; **dh-t » d-dh**
+   &gt; - **budh + ta » bud-dha** = **बुद्ध**
+   &gt; - **yudh + ta » yud-dha** = **युद्ध**
+   &gt; - **krudh + ta » krud-dha** = **क्रुद्ध**
 
 7. **h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:**
-   > **dah + ta » dag-dha** = **दग्ध**
-   > **guh + ta » gūḍha** = **गूढ** (guh 1 (gūhati) „etwas verbergen“)
-   > **muh + ta » mug-dha / mūḍha** = **मुग्ध / मूढ**
-   > **sah + ta » soḍha** = **सोढ**
+   &gt; **dah + ta » dag-dha** = **दग्ध**
+   &gt; **guh + ta » gūḍha** = **गूढ** (guh 1 (gūhati) „etwas verbergen“)
+   &gt; **muh + ta » mug-dha / mūḍha** = **मुग्ध / मूढ**
+   &gt; **sah + ta » soḍha** = **सोढ**
 :::
 
 ---

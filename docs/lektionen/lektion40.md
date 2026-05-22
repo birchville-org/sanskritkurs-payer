@@ -1,22 +1,28 @@
+---
+lesson_id: 40
+last_reconstructed: 2026-05-21
+---
 
 # Lektion 40
 
 ## 40.1. सुभाषितानि
 
-> विद्या ददाति विनयं  
-> विनयाद्याति पात्रताम् ।  
-> पात्रत्वाद्धनमाप्नोति  
-> धनाद्धर्मं ततः सुखम् ॥१॥
-> 
-> सुखार्थी चेत्त्यजेद्विद्यां  
-> विद्यार्थी चेत्त्यजेत्सुखम् ।  
-> सुखार्थिनः कुतो विद्या  
-> कुतो विद्यार्थिनः सुखम् ॥२॥
-> 
-> आचार्यात्पादमादत्ते  
-> पादं शिष्यः स्वमेधया ।  
-> पादं सब्रह्मचारिभ्यःयः  
-> पादं कालक्रमेण च ॥३॥
+::: indent
+विद्या ददाति विनयं  
+विनयाद्याति पात्रताम् ।  
+पात्रत्वाद्धनमाप्नोति  
+धनाद्धर्मं ततः सुखम् ॥१॥
+
+सुखार्थी चेत्त्यजेद्विद्यां  
+विद्यार्थी चेत्त्यजेत्सुखम् ।  
+सुखार्थिनः कुतो विद्या  
+कुतो विद्यार्थिनः सुखम् ॥२॥
+
+आचार्यात्पादमादत्ते  
+पादं शिष्यः स्वमेधया ।  
+पादं सब्रह्मचारिभ्यः  
+पादं कालक्रमेण च ॥३॥
+:::
 
 ::: media
 ![lekt4005.jpg](/images/lekt4005.jpg)
@@ -30,13 +36,14 @@ Endungen der ersten Person (तृतीयः) im Perfekt (लिट्)
 
 :::: grammar-box
 
-| **परस्मैपदम्**[[br]]Parasmaipada | | **आत्मनेपदम्**[[br]]Ātmanepada | |
-| :--- | :--- | :--- | :--- |
-| **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural | **एकवचनम्**[[br]]Singular | **बहुवचनम्**[[br]]Plural |
+| **परस्मैपदम्** | ← | **आत्मनेपदम्** | ← |
+| :---: | :---: | :---: | :---: |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **-a** | **-ma** | **-e** | **-mahe** |
 
 ::::
 
+::: grammar-box
 Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā.
 
 Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au.
@@ -44,7 +51,9 @@ Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au.
 Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā.
 
 Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein.
+:::
 
+::: grammar-box
 Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-.
 
 Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich
@@ -59,6 +68,7 @@ Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor
 8.  स्रु 1P "fließen"
 
 Bei sog. fakultativen अनिट्-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3)
+:::
 
 ### 40.2.1. Perfekt Typ I: keine Stammabstufung
 
@@ -73,29 +83,31 @@ Verben, die diesem Typ folgen:
 
 बन्ध् 9P
 
+::: indent
 *   1.sg.P बबन्ध
 *   1.pl.P बबन्धिम
+:::
 
 जीव् 1P
 
+::: indent
 *   1.sg.P जिजीव
-    
 *   1.pl.P जिजिविम
-    
+:::
 
 अश् 5Ā
 
+::: indent
 *   1.sg.Ā आनशे
-    
 *   1.pl.Ā आनशिमहे
-    
+:::
 
 अस् 2P und अस् 4P
 
+::: indent
 *   1.sg.P आस
-    
 *   1.pl.P आसिम (a + as-i-ma)
-    
+:::
 
 ### 40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
@@ -105,6 +117,7 @@ Verben, die diesem Typ folgen:
 
 भिद् 7U
 
+::: indent
 *   1.sg.P बिभेद
     
 *   1.pl.P बिभिदिम
@@ -112,14 +125,15 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā बिभिदे
     
 *   1.pl.Ā बिभिदिमहे
-    
+:::
 
 मुह् 4P fakultativ अनिट्
 
+::: indent
 *   1.sg.P मुमोह
     
 *   1.pl.P मुमुहिम । मुमुह्म
-    
+:::
 
 ### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
 
@@ -134,13 +148,15 @@ Verben, die diesem Typ folgen:
 
 इ 2P
 
+::: indent
 *   1.sg.P इयाय । इयय (i+e+a)
     
 *   1.pl.P ईयिम (i+iy+i+ma)
-    
+:::
 
 नी 1U
 
+::: indent
 *   1.sg.P निनाय । निनय
     
 *   1.pl.P निन्यिम (ni-nī + i + ma !!!)
@@ -148,10 +164,11 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā निन्ये
     
 *   1.pl.Ā निन्यिमहे
-    
+:::
 
 स्तु 2U strikt अनिट्
 
+::: indent
 *   1.sg.P तुष्टाव । तुष्टव (tu-sto + a)
     
 *   1.pl.P तुष्टुम
@@ -159,10 +176,11 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā तुष्टुवे
     
 *   1.pl.Ā तुष्टुमहे
-    
+:::
 
 कृ 8U strikt अनिट्
 
+::: indent
 *   1.sg.P चकार । चकर
     
 *   1.pl.P चकृम
@@ -170,7 +188,7 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā चक्रे
     
 *   1.pl.Ā चकृमहे
-    
+:::
 
 #### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
 
@@ -181,20 +199,23 @@ Verben, die diesem Typ folgen:
 
 पॄ 3P
 
+::: indent
 *   1.sg.P पपार । पपर
     
 *   1.pl.P पपरिम
-    
+:::
 
 स्मृ 1P
 
+::: indent
 *   1.sg.P सस्मार । सस्मर
     
 *   1.pl.P सस्मरिम
-    
+:::
 
 संस्कृ 8U
 
+::: indent
 *   1.sg.P सञ्चस्कार । सञ्चस्कर
     
 *   1.pl.P सञ्चस्करिम
@@ -202,7 +223,7 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā सञ्चस्करे
     
 *   1.pl.Ā सञ्चस्करिमहे
-    
+:::
 
 ### 40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
 
@@ -214,6 +235,7 @@ Verben, die diesem Typ folgen:
 
 दा 3U
 
+::: indent
 *   1.sg.P ददौ
     
 *   1.pl.P ददिम (da-d-i-ma)
@@ -221,7 +243,7 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ददे
     
 *   1.pl.Ā ददिमहे
-    
+:::
 
 ### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
 
@@ -231,44 +253,51 @@ Verben, die diesem Typ folgen:
 
 Verben, die diesem Typ folgen:
 
-> 1.  gam "gehen"
-> 2.  han (»ghan) "erschlagen"
-> 3.  jan "geboren werden"
-> 4.  vac "sprechen"
-> 5.  vad "sprechen"
-> 6.  yaj "opfern"
-> 7.  u.a.
+::: indent
+1.  gam "gehen"
+2.  han (»ghan) "erschlagen"
+3.  jan "geboren werden"
+4.  vac "sprechen"
+5.  vad "sprechen"
+6.  yaj "opfern"
+7.  u.a.
+:::
 
 गम् 1P
 
+::: indent
 *   1.sg.P जगाम । जगम
     
 *   1.pl.P जग्मिम (ja-gm-i-ma)
-    
+:::
 
 हन् 2P
 
+::: indent
 *   1.sg.P जघान । जघन
     
 *   1.pl.P जघ्निम
-    
+:::
 
 जन् 4Ā
 
+::: indent
 *   1.sg.Ā जज्ञे
     
 *   1.pl.Ā जज्ञिमहे
-    
+:::
 
 वच् 2P
 
+::: indent
 *   1.sg.P उवाच । उवच
     
 *   1.pl.P ऊचिम (u + uc-ima)
-    
+:::
 
 वद् 1P (Ā)
 
+::: indent
 *   1.sg.P उवाद । उवद
     
 *   1.pl.P ऊदिम
@@ -276,10 +305,11 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ऊदे
     
 *   1.pl.Ā  ऊदिमहे
-    
+:::
 
 यज् 1U
 
+::: indent
 *   1.sg.P इयाज । इयज
     
 *   1.pl.P ईजिम
@@ -287,12 +317,13 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ईजे
     
 *   1.pl.Ā ईजिमहे
-    
+:::
 
 #### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
 
 पच् 1U
 
+::: indent
 *   1.sg.P पपाच । पपच
     
 *   1.pl.P पेचिम
@@ -300,7 +331,7 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā पेचे
     
 *   1.pl.Ā पेचिमहे
-    
+:::
 
 #### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
 
@@ -310,6 +341,7 @@ Verben, die diesem Typ folgen:
 
 क्रम् 1U
 
+::: indent
 *   1.sg.P चक्राम । चक्रम
     
 *   1.pl.P चक्रमिम
@@ -317,32 +349,35 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā चक्रमे
     
 *   1.pl.Ā चक्रमिमहे
-    
+:::
 
 ### 40.2.6. Besondere Perfekt-Bildungen
 
 विद् 2P präsentisches Perfekt:
 
+::: indent
 *   1.sg.P वेद (= 3.sg.P)
     
 *   1.pl.P विद्म
-    
+:::
 
 अह् 1. Person nicht gebräuchlich!
 
 भू 1P
 
+::: indent
 *   1.sg.P बभूव (= 3.sg.P)
     
 *   1.pl.P बभूविम
-    
+:::
 
 जि 1P
 
+::: indent
 *   1.sg.P जिगाय (= 3.sg.P) । जिगय
     
 *   1.pl.P जिग्यिम (ji-gi + i + ma !)
-    
+:::
 
 ## 40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (अनुप्रयोगलिट्)
 
@@ -361,57 +396,70 @@ Das periphrastische Perfekt wird gebildet von:
 
 ईक्ष् 1Ā
 
+::: indent
 *   1.sg.Ā ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव
     
 *   1.pl.Ā ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम
-    
+:::
 
 बन्ध् Kausativum P: बन्धयति
 
+::: indent
 *   1.sg.P बन्धयां चकर । बन्धयां चकार (= 3.sg.P) । बन्धयामास (= 3.sg.P) । बन्धयां बभूव (= 3.sg.P)
     
 *   1.pl.P बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम
-    
+:::
 
 ## 40.4. Syntaktisches zur ersten Person (तृतीयः)
 
+::: grammar-box
 Da ein Verbum finitum (konjugiertes Verb) den Agens (कर्तृ) mit ausdrückt, braucht das "ich", "wir" in nicht-passiven Verbalsätzen mit Verbum finitum nicht extra durch ein Personalpronomen ausgedrückt werden
+:::
 
 ## 40.5. Personalpronomen (पुरुषार्थकसर्वनाम) der 1. Person Singular und Plural
 
+::: grammar-box
 Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe.
+:::
+
 :::: grammar-box
 
-| **विभक्तिः**[[br]]Kasus | **एकवचनम्**[[br]]Singular ("ich") | **बहुवचनम्**[[br]]Plural ("wir") |
-| :--- | :--- | :--- |
-| **प्रथमा**[[br]]1. Nominativ | **अहम्** | **वयम्** |
-| **द्वितीया**[[br]]2. Akkusativ | **माम्** / **मा** | **अस्मान्** / **नस्** |
-| **तृतीया**[[br]]3. Instrumentalis | **मया** | **अस्माभिस्** |
-| **चतुर्थी**[[br]]4. Dativ | **मह्यम्** / **मे** | **अस्मभ्यम्** / **नस्** |
-| **पञ्चमी**[[br]]5. Ablativ | **मत्** | **अस्मत्** |
-| **षष्ठी**[[br]]6. Genetiv | **मम** / **मे** | **अस्माकम्** / **नस्** |
-| **सप्तमी**[[br]]7. Lokativ | **मयि** | **अस्मासु** |
+| | **एकवचनम्**[[br]]"ich" | **बहुवचनम्**[[br]]"wir" |
+| :---: | :---: | :---: |
+| **प्रथमा** | **अहम्** | **वयम्** |
+| **द्वितीया** | **माम्** / **मा** | **अस्मान्** / **नस्** |
+| **तृतीया** | **मया** | **अस्माभिस्** |
+| **चतुर्थी** | **मह्यम्** / **मे** | **अस्मभ्यम्** / **नस्** |
+| **पञ्चमी** | **मत्** | **अस्मत्** |
+| **षष्ठी** | **मम** / **मे** | **अस्माकम्** / **नस्** |
+| **सप्तमी** | **मयि** | **अस्मासु** |
 
 ::::
 
+::: grammar-box
 Die kürzeren Formen, die oben an zweiter Stelle stehen (मा, मे, नस्) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden.
 
 Vor den Partikeln च, वा, एव dürfen diese sog. enklitischen Formen ebenfalls nicht gebraucht werden:
 
 nur: ... मां च ... "und mich"
+:::
 
+::: grammar-box
 Der Genetiv (षष्ठी) der Personalpronomina wird als besitzanzeigendes Fürwort verwendet:
 
 मम । मे = "mein"
 
 अस्माकम् । नस् = "unser"
+:::
 
+::: grammar-box
 Als Vorderglied von Komposita stehen für diese Pronomina die Stämme:
 
 *   sg. मद्
 *   pl. अस्मद्
 
 z.B. मत्पुस्तकम् "mein Buch" ; अस्मद्पुस्तकानि "unsere Bücher"
+:::
 
 ## 40.6. Wortliste
 
@@ -423,43 +471,51 @@ z.B. मत्पुस्तकम् "mein Buch" ; अस्मद्पुस
 
 कॢप् 1Ā कल्पते : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschließen zu, sich bequemen zu (Dativ)
 
-> Perf. II चकॢपे fakultativ अनिट्  
-> Fut. कल्पिष्यते । कल्प्स्यते  
-> Kaus. कल्पयति : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden  
-> PPP कॢप्त  
-> Inf. कल्पितुम् । कल्प्तुम्
-> 
-> davon:
-> 
-> कल्पना f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion
+::: indent
+Perf. II चकॢपे fakultativ अनिट्  
+Fut. कल्पिष्यते । कल्प्स्यते  
+Kaus. कल्पयति : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden  
+PPP कॢप्त  
+Inf. कल्पितुम् । कल्प्तुम्
+
+davon:
+
+कल्पना f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion
+:::
 
 कॢप् + वि Kaus. विकल्पयति : (sich verschieden vorstellen =) in Frage stellen, bezweifeln
 
-> davon:
-> 
-> विक्ल्प m.: Alternative, Zweifel
+::: indent
+davon:
+
+विक्ल्प m.: Alternative, Zweifel
+:::
 
 तुद् 6U तुदति : schlagen
 
-> Perf. II तुतोद, तुतुदुर्  
-> Fut. तोत्स्यति  
-> Pass. तुद्यते  
-> Kaus. तोदयति  
-> PPP तुन्न (tud + na)  
-> Inf. तोत्तुम्
+::: indent
+Perf. II तुतोद, तुतुदुर्  
+Fut. तोत्स्यति  
+Pass. तुद्यते  
+Kaus. तोदयति  
+PPP तुन्न (tud + na)  
+Inf. तोत्तुम्
+:::
 
 तॄ 1P तरति :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten)
 
-> Perf. IIIb ततार, ततरुर् । तेरुर्  
-> Fut. तरिष्यति । तरीष्यति  
-> Pass. तीर्यते  
-> Kaus. तारयति  
-> PPP तीर्ण  
-> Inf. तरितुम् । तरीतुम्
-> 
-> davon:
-> 
-> तीर्थ n.: Furt, heiliger Badeplatz, Pilgerort
+::: indent
+Perf. IIIb ततार, ततरुर् । तेरुर्  
+Fut. तरिष्यति । तरीष्यति  
+Pass. तीर्यते  
+Kaus. तारयति  
+PPP तीर्ण  
+Inf. तरितुम् । तरीतुम्
+
+davon:
+
+तीर्थ n.: Furt, heiliger Badeplatz, Pilgerort
+:::
 
 ::: media
 ![lekt4003.jpg](/images/lekt4003.jpg)
@@ -467,7 +523,9 @@ Abb.: हरिद्वारे तीर्थम्
 (Bildquelle: [Details](/licenses#lekt4003))
 :::
 
-> तीर्थङ्कर m. (aus: तीर्थम्+ कृ): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
+::: indent
+तीर्थङ्कर m. (aus: तीर्थम्+ कृ): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
+:::
 
 ::: media
 ![lekt4002.jpg](/images/lekt4002.jpg)
@@ -479,9 +537,11 @@ Abb.: तीर्थङ्करः
 
 तॄ + अव 1P अवतरति : herabsteigen
 
-> davon:
-> 
-> अवतार m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+::: indent
+davon:
+
+अवतार m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+:::
 
 ::: media
 ![lekt4001.jpg](/images/lekt4001.jpg)
@@ -491,19 +551,21 @@ Abb.: विष्णोर्दशावताराः
 
 स्वप् 2P स्वपिति,  स्वपन्ति : schlafen, sich schlafen legen
 
-> Impf. अस्वपीत् । अस्वपत्  
-> Perf. सुष्वाप, सुषुपुर्  
-> Fut. स्वप्स्यति  
-> Pass. सुप्यते (aus \*svp-ya-te)  
-> Kaus. स्वापयति  
-> PPP सुप्त  
-> Inf. स्वप्तुम्
-> 
-> davon:
-> 
-> स्वप्न m.: Schlaf, Traum
-> 
-> सुप्ति f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
+::: indent
+Impf. अस्वपीत् । अस्वपत्  
+Perf. सुष्वाप, सुषुपुर्  
+Fut. स्वप्स्यति  
+Pass. सुप्यते (aus \*svp-ya-te)  
+Kaus. स्वापयति  
+PPP सुप्त  
+Inf. स्वप्तुम्
+
+davon:
+
+स्वप्न m.: Schlaf, Traum
+
+सुप्ति f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
+:::
 
 ::: media
 ![lekt4004.jpg](/images/lekt4004.jpg)

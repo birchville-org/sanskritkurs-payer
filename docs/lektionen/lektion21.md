@@ -1,3 +1,7 @@
+---
+lesson_id: 21
+last_reconstructed: 2026-05-21
+---
 
 # Lektion 21
 

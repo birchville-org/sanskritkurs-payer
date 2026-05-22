@@ -1,3 +1,8 @@
+---
+lesson_id: 20
+last_reconstructed: 2026-05-21
+---
+
 # Lektion 20
 
 ## 20.1. Possesivkomposita = बहुव्रीहि m.

@@ -1,3 +1,8 @@
+---
+lesson_id: 27
+last_reconstructed: 2026-05-21
+---
+
 # Lektion 27
 
 ## 27.1. Gebrauch des Lokativ (सप्तमी f. = "siebte Kasusendung")
@@ -37,7 +42,7 @@ Abb.: जयपुरनगरे
 **Bestimmt die Handlung oder der Zustand einer Person oder Sache die Zeit, zu welcher - oder die Umstände, unter denen - eine ANDERE Person oder Sache eine Handlung vollbringt oder sich in einem bestimmten Zustand befindet, so tritt das die erste Person oder Sache bezeichnende Wort zusammen mit dem dasselbe näher bestimmenden Wort (das häufig ein Partizip ist) in den Lokativ (सप्तमी):**
 
 > एवं गच्छति काले = "während die Zeit so vergeht..."
->
+&gt;
 > तस्मिन्गते = "als er gegangen war..."
 
 **Manchmal wird der Agens (कर्ता) nicht extra bezeichnet:**

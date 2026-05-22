@@ -3,6 +3,7 @@ import json
 import urllib.request
 import time
 import sys
+import re
 
 # Configuration
 API_URL = "http://192.168.1.22:8000/v1/chat/completions"
@@ -13,6 +14,7 @@ LANG_NAMES = {
     "ru": "Russian", "uk": "Ukrainian", "bg": "Bulgarian",
 }
 LESSONS = list(range(1, 62))
+MAIN_PAGES = ["index.md", "grammatik.md", "themen.md", "impressum.md", "licenses.md"]
 BASE_DIR = "/Volumes/SanDisk1TB/proj/Payer/docs"
 SOURCE_DIR = os.path.join(BASE_DIR, "lektionen")
 
@@ -53,6 +55,64 @@ def translate_text(text, target_lang):
             
     return f"ERROR: Failed to translate after {max_retries} attempts."
 
+def escape_angle_brackets_in_tables(text):
+    # LLMs sometimes convert &lt;form&gt; → <form>, breaking Vue (HTML is forbidden).
+    # Fix: re-escape raw <...> on all lines, skipping already-escaped entities.
+    lines = text.split('\n')
+    result = []
+    for line in lines:
+        line = line.replace('&lt;', '\x00LT\x00').replace('&gt;', '\x00GT\x00')
+        line = re.sub(r'<([^>\s][^>]*)>', r'&lt;\1&gt;', line)
+        line = line.replace('\x00LT\x00', '&lt;').replace('\x00GT\x00', '&gt;')
+        result.append(line)
+    return '\n'.join(result)
+
+def fix_home_links(content, lang):
+    """Prefix bare absolute links in index.md YAML frontmatter with /lang/."""
+    def replace_link(m):
+        path = m.group(1)
+        if path.startswith(f'/{lang}/'):
+            return m.group(0)
+        return f'link: /{lang}{path}'
+    return re.sub(r'link:\s*(/[^\s\n]+)', replace_link, content)
+
+
+def translate_file(source_path, target_path, lang, post_process=None):
+    """Translate a single file with mtime-based skip and chunking. Returns True on success."""
+    filename = os.path.basename(source_path)
+    if os.path.exists(target_path) and os.path.getsize(target_path) > 500:
+        if os.path.getmtime(target_path) > os.path.getmtime(source_path):
+            print(f"[{lang}] Skipping {filename} (up to date).")
+            return True
+        print(f"[{lang}] Outdated {filename} — re-translating...")
+
+    print(f"[{lang}] Translating {filename}...")
+    with open(source_path, encoding="utf-8") as f:
+        content = f.read()
+
+    chunks = chunk_content(content)
+    translated_chunks = []
+    for i, chunk in enumerate(chunks, 1):
+        if not chunk.strip():
+            translated_chunks.append(chunk)
+            continue
+        print(f"  -> section {i}/{len(chunks)}...")
+        result = translate_text(chunk, lang)
+        if result.startswith("ERROR:"):
+            print(f"  [!] Failed chunk {i}: {result}")
+            return False
+        translated_chunks.append(result)
+
+    translated = escape_angle_brackets_in_tables('\n\n'.join(translated_chunks))
+    if post_process:
+        translated = post_process(translated)
+    with open(target_path, "w", encoding="utf-8") as f:
+        f.write(translated)
+    print(f"[{lang}] Done {filename}.")
+    time.sleep(2)
+    return True
+
+
 def chunk_content(content):
     # Splits content into safe, manageable chunks of max ~3000 characters
     # respecting markdown boundaries (headers, containers) to avoid LLM context issues.
@@ -81,59 +141,26 @@ def chunk_content(content):
 def main():
     print(f"Starting translation process using {MODEL} at {API_URL}...")
     for lang in LANGUAGES:
-        target_dir = os.path.join(BASE_DIR, lang, "lektionen")
-        os.makedirs(target_dir, exist_ok=True)
-        
+        # ── Lektionen ────────────────────────────────────────────────────────
+        lesson_dir = os.path.join(BASE_DIR, lang, "lektionen")
+        os.makedirs(lesson_dir, exist_ok=True)
         for l_num in LESSONS:
             filename = f"lektion{l_num:02d}.md"
             source_path = os.path.join(SOURCE_DIR, filename)
-            target_path = os.path.join(target_dir, filename)
-            
             if not os.path.exists(source_path):
                 print(f"Source not found: {source_path}")
                 continue
-            
-            # Smart check: skip only if target exists, is valid (>500 bytes), and is newer than source
-            if os.path.exists(target_path) and os.path.getsize(target_path) > 500:
-                if os.path.getmtime(target_path) > os.path.getmtime(source_path):
-                    print(f"[{lang}] Skipping {filename} (already up to date).")
-                    continue
-                else:
-                    print(f"[{lang}] Outdated translation detected for {filename} (source modified). Re-translating...")
-            
-            print(f"[{lang}] Translating {filename}...")
-            with open(source_path, 'r', encoding='utf-8') as f:
-                content = f.read()
-            
-            # Smart chunking to prevent LLM generation token limits
-            chunks = chunk_content(content)
-                
-            translated_chunks = []
-            total_chunks = len(chunks)
-            failed = False
-            for i, chunk in enumerate(chunks, 1):
-                if chunk.strip():
-                    print(f"  -> Translating section {i}/{total_chunks}...")
-                    translated_chunk = translate_text(chunk, lang)
-                    if translated_chunk.startswith("ERROR:"):
-                        print(f"  [!] Translation failed for chunk {i}: {translated_chunk}")
-                        failed = True
-                        break
-                    translated_chunks.append(translated_chunk)
-                else:
-                    translated_chunks.append(chunk)
-            
-            if failed:
-                print(f"[{lang}] Skipping write for {filename} due to translation errors.")
+            translate_file(source_path, os.path.join(lesson_dir, filename), lang)
+
+        # ── Hauptseiten ──────────────────────────────────────────────────────
+        lang_dir = os.path.join(BASE_DIR, lang)
+        os.makedirs(lang_dir, exist_ok=True)
+        for filename in MAIN_PAGES:
+            source_path = os.path.join(BASE_DIR, filename)
+            if not os.path.exists(source_path):
                 continue
-                    
-            translated_content = '\n\n'.join(translated_chunks)
-            
-            with open(target_path, 'w', encoding='utf-8') as f:
-                f.write(translated_content)
-            
-            print(f"[{lang}] Finished {filename}.")
-            time.sleep(2) # Safe delay between files
+            post = (lambda t: fix_home_links(t, lang)) if filename == "index.md" else None
+            translate_file(source_path, os.path.join(lang_dir, filename), lang, post_process=post)
 
 if __name__ == "__main__":
     main()

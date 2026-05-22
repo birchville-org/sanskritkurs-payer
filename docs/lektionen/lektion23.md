@@ -1,3 +1,8 @@
+---
+lesson_id: 23
+last_reconstructed: 2026-05-21
+---
+
 # Lektion 23
 
 ## 23.1. Der Infinitiv (तुमुन्)

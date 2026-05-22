@@ -1,3 +1,7 @@
+---
+lesson_id: 45
+last_reconstructed: 2026-05-21
+---
 
 # Lektion 45
 
@@ -7,82 +11,69 @@
 
 हु 3P
 
-> |   | परस्मैपदम् | आत्मनेपदम् | | |
-> | --- | --- | --- | | |
-> |   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-> | Indikativ Präsens   | | | | |
-> लट् | जुहोषि | जुहुथ | &lt;जुहुषे&gt; | &lt;जुहुध्वे&gt; | |
-> | Imperfekt   | | | | |
-> लङ् | अजुहोस् | अजुहुत | &lt;अजुहुथास्&gt; | &lt;अजुहुध्वम्&gt; | |
-> | Optativ   | | | | |
-> विधिलिङ् | जुहुयास् | जुहुयात | &lt;जुह्वीथास्&gt; | &lt;जुह्वीध्वम्&gt; | |
+::: grammar-box
+| | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens**[[br]]लट् | जुहोषि | जुहुथ | &lt;जुहुषे&gt; | &lt;जुहुध्वे&gt; |
+| **Imperfekt**[[br]]लङ् | अजुहोस् | अजुहुत | &lt;अजुहुथास्&gt; | &lt;अजुहुध्वम्&gt; |
+| **Optativ**[[br]]विधिलिङ् | जुहुयास् | जुहुयात | &lt;जुह्वीथास्&gt; | &lt;जुह्वीध्वम्&gt; |
+:::
 
 धा 2U
 
-> |   | परस्मैपदम् | आत्मनेपदम् | | |
-> | --- | --- | --- | | |
-> |   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-> | Indikativ Präsens   | | | | |
-> लट् | दधासि | धत्थ   | | | |
-> aus: dadh + tha | धत्से | धद्ध्वे | | | |
-> | Imperfekt   | | | | |
-> लङ् | अदधास् | अधत्त | अधत्थास् | अधद्ध्वम् | |
-> | Optativ   | | | | |
-> विधिलिङ् | दध्यास् | दध्यात | दधीथास् | दधीध्वम् | |
+::: grammar-box
+| | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens**[[br]]लट् | दधासि | धत्थ[[br]]aus: dadh + tha | धत्से | धद्ध्वे |
+| **Imperfekt**[[br]]लङ् | अदधास् | अधत्त | अधत्थास् | अधद्ध्वम् |
+| **Optativ**[[br]]विधिलिङ् | दध्यास् | दध्यात | दधीथास् | दधीध्वम् |
+:::
 
 ### 45.1.2. Siebte Präsensklasse (रुधादि)
 
-Wenn auslautendes k/g der Wurzel zwischen den Nasal ṅ und einen Dental der Endung zu stehen kommt, so kann wahlweise das k/g wegfallen
+::: grammar-box
+**Wenn auslautendes k/g der Wurzel zwischen den Nasal ṅ und einen Dental der Endung zu stehen kommt, so kann wahlweise das k/g wegfallen**
 
-z.B. युज् 3.sg.Ind.Präs.Ā युङ्क्ते oder युङ्ते
+z.B. **युज्** 3.sg.Ind.Präs.Ā युङ्क्ते oder युङ्ते
+:::
 
 युज् 7U
 
-> |   | परस्मैपदम् | आत्मनेपदम् | | |
-> | --- | --- | --- | | |
-> |   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-> | Indikativ Präsens   | | | | |
-> लट् | युनक्षि   | | | | |
-> yu-na-j + si | युङ्क्थ   | | | | |
-> युङ्थ | युङ्क्षे | युङ्ग्ध्वे   | | | |
-> युङ्ध्वे | | | | | |
-> | Imperfekt   | | | | |
-> लङ् | अयुनक्   | | | | |
-> aus: a-yu-na-j + s | युङ्क्त   | | | | |
-> अयुङ्त | अयुङ्क्थास्   | | | | |
-> अयुङ्थास् | अयुङ्ग्ध्वम्   | | | | |
-> अयुङ्ध्वम् | | | | | |
-> | Optativ   | | | | |
-> विधिलिङ् | युञ्ज्यास् | युञ्ज्यात | युञ्जीथास् | युञ्जीध्वम् | |
+::: grammar-box
+| | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens**[[br]]लट् | युनक्षि[[br]]yu-na-j + si | युङ्क्थ[[br]]युङ्थ | युङ्क्षे | युङ्ग्ध्वे[[br]]युङ्ध्वे |
+| **Imperfekt**[[br]]लङ् | अयुनक्[[br]]aus: a-yu-na-j + s | युङ्क्त[[br]]अयुङ्त | अयुङ्क्थास्[[br]]अयुङ्थास् | अयुङ्ग्ध्वम्[[br]]अयुङ्ध्वम् |
+| **Optativ**[[br]]विधिलिङ् | युञ्ज्यास् | युञ्ज्यात | युञ्जीथास् | युञ्जीध्वम् |
+:::
 
 रुध् 7U
 
-> |   | परस्मैपदम् | आत्मनेपदम् | | |
-> | --- | --- | --- | | |
-> |   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-> | Indikativ Präsens   | | | | |
-> लट् | रुणत्सि   | | | | |
-> ru + na + dh + si | रुन्द्ध   | | | | |
-> ru-n-dh + tha | रुन्त्से | रुन्द्ध्वे | | | |
-> | Imperfekt   | | | | |
-> लङ् | अरुणत्   | | | | |
-> aus a-ru-ṇa-dh + s  
-> अरुण्स् (unregelm.!) | अरुन्द्ध   | | | |
-> a-ru-n-dh + ta | अरुन्द्धास् | अरुन्द्ध्वम् | | |
-> | Optativ   | | | |
-> विधिलिङ् | रुन्ध्यास् | रुन्ध्यात | रुन्धीथास् | रुन्धीध्वम् |
+::: grammar-box
+| | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens**[[br]]लट् | रुणत्सि[[br]]ru + na + dh + si | रुन्द्ध[[br]]ru-n-dh + tha | रुन्त्से | रुन्द्ध्वे |
+| **Imperfekt**[[br]]लङ् | अरुणत्[[br]]aus a-ru-ṇa-dh + s[[br]] अरुण्स् (unregelm.!) | अरुन्द्ध[[br]]a-ru-n-dh + ta | अरुन्द्धास् | अरुन्द्ध्वम् |
+| **Optativ**[[br]]विधिलिङ् | रुन्ध्यास् | रुन्ध्यात | रुन्धीथास् | रुन्धीध्वम् |
+:::
 
 ## 45.2. Der Vokativ Singular (आमन्त्रितमेकवचने)
 
-Die meisten Vokative des Singular sind
+::: grammar-box
+**Die meisten Vokative des Singular sind der Stamm mit hochstufigem Auslaut.**
 
-der Stamm mit hochstufigem Auslaut.
+z.B. **देव, कवे, शत्रो, राजन्, पितर्** u.s.w.
 
-z.B. देव, कवे, शत्रो, राजन्, पितर् u.s.w.
+**Ausnahmen sind die Feminina auf -ā und -ī sowie die Stämme auf -in, deren Vokativ sg. besonders zu merken ist.**
+:::
 
-Ausnahmen sind die Feminina auf -ā und -ī sowie die Stämme auf -in, deren Vokativ sg. besonders zu merken ist.
-
-|   | Vokativ Singular |
+:::: grammar-box
+::: no-header
+| | Vokativ Singular |
 | --- | --- |
 | Maskulina auf -a | देव |
 | Neutra auf -a | फल |
@@ -95,24 +86,23 @@ Ausnahmen sind die Feminina auf -ā und -ī sowie die Stämme auf -in, deren Vok
 | Maskulina auf -ṛ | पितर् |
 | Feminina auf -ṛ | मातर् |
 | Maskulina auf -an | राजन् |
-| Neutra auf -an | नामन्   |
-नाम | | |
+| Neutra auf -an | नामन्[[br]]नाम |
 | Maskulina auf -man/-van | आत्मन् |
 | Maskulina auf -in | बलिन् |
-| Maskulina auf -ant | बलिन्   |
-बलि | | |
+| Maskulina auf -ant | बलिन्[[br]]बलि |
 | mahānt m. | महन् |
-| mahānt n. | महत्   |
-\= Nominativ | | |
+| mahānt n. | महत्[[br]]= Nominativ |
 | Maskulina auf -mant/-vant | गुणवन् |
-| Neutra auf -mant/-vant | गुणवत्   |
-\= Nominativ | | |
+| Neutra auf -mant/-vant | गुणवत्[[br]]= Nominativ |
 | Pronomina | ein Vokativ wird nicht gebildet |
+:::
+::::
 
-![](/images/lekt4501.jpg)  
-Abb.: भवति किं करोषि  
-Textil-Blockdruck, Ahmedabad  
-\[Bildquelle: Daveybot. -- [http://www.flickr.com/photos/davemorris/316429534/](http://www.flickr.com/photos/davemorris/316429534/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt4501.jpg)
+Abb.: भवति किं करोषि
+(Bildquelle: [Details](/licenses#lekt4501))
+:::
 
 ## 45.3. Wortliste
 
@@ -124,9 +114,11 @@ A) Übersetzen Sie ins Sanskrit (für Vergangenheitsformen bitte das Imperfekt &
 
 1\. Du spaltest die (buddhistische) Gemeinde.
 
-> zur Gemeindespaltung (सङ्घभेद) siehe:
-> 
-> &gt; **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+::: indent
+zur Gemeindespaltung (सङ्घभेद) siehe:
+
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+:::
 
 2\. Habt ihr die Erde genossen?
 
@@ -156,6 +148,17 @@ B) Übersetzen Sie:
 
 शत्रो शस्तेण जीवं न छिनत्सि ॥४॥
 
-![](/images/lekt4502.jpg)  
-Abb.: कन्ये किं लिखसि  
-\[Bildquelle: John Isaac / World Bank. -- [http://www.flickr.com/photos/worldbank/2348425672/](http://www.flickr.com/photos/worldbank/2348425672/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt4502.jpg)
+Abb.: कन्ये किं लिखसि
+(Bildquelle: [Details](/licenses#lekt4502))
+:::
+
+
+::: deleteme-box
+### Quellen
+
+**lekt4501.jpg**: Textil-Blockdruck, Ahmedabad. -- Bildquelle: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)
+
+**lekt4502.jpg**: Bildquelle: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)
+:::

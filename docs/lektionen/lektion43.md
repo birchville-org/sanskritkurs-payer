@@ -1,14 +1,20 @@
+---
+lesson_id: 43
+last_reconstructed: 2026-05-21
+---
 
 # Lektion 43
 
 ## 43.1. Personalendungen der 2. Person (मध्यमः = "mittlere &lt;Person&gt;")
 
-|   | परस्मैपदम् | आत्मनेपदम् | | |
+::: grammar-box
+| | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-|   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-| Primärendungen | \-si | \-tha | \-se | \-dhve |
-| Sekundärendungen | \-s | \-ta | \-thās | \-dhvam |
-| Perfektendungen | \-tha | \-a | \-se | \-dhve |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Primärendungen** | -si | -tha | -se | -dhve |
+| **Sekundärendungen** | -s | -ta | -thās | -dhvam |
+| **Perfektendungen** | -tha | -a | -se | -dhve |
+:::
 
 Beachten Sie, dass die Sekundärendung der 2.pl.P. identisch ist mit der Sekundärendung der 3.sg.Ā.
 
@@ -21,7 +27,9 @@ Beachten Sie, dass die Sekundärendung der 2.pl.P. identisch ist mit der Sekund�
 
 ### 43.2.1. Thematische Stämme
 
+::: media
 ![](/images/lekt4301.jpg)
+:::
 
 Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. Optativ!
 
@@ -29,72 +37,55 @@ Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. 
 
 भू 1P
 
-> |   | परस्मैपदम् | आत्मनेपदम् | | |
-> | --- | --- | --- | | |
-> |   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-> | Indikativ Präsens   | | | | |
-> लट् | भवसि   | | | | |
-> bho + a + si | भवथ | &lt;भवसे&gt; | &lt;भवद्ग्वे&gt; | | |
-> | Imperfekt   | | | | |
-> लङ् | अभवस् | अभवत | &lt;अभवथास्&gt; | &lt;अभवध्वम्&gt; | |
-> | Optativ   | | | | |
-> विधिलिङ् | भवेस् | भवेत | &lt;भवेथास्&gt; | &lt;भवेध्वम्&gt; | |
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :--- | :--- | :--- | :--- | :--- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens**[[br]]लट् | भवसि[[br]]bho + a + si | भवथ | &lt;भवसे&gt; | &lt;भवध्वे&gt; |
+| **Imperfekt**[[br]]लङ् | अभवस् | अभवत | &lt;अभवथास्&gt; | &lt;अभवध्वम्&gt; |
+| **Optativ**[[br]]विधिलिङ् | भवेस् | भवेत | &lt;भवेथास्&gt; | &lt;भवेध्वम्&gt; |
 
 #### 43.2.1.2. Sechste Präsensklasse (तुदादि)
 
 विश् 6P
 
-> |   | परस्मैपदम् | आत्मनेपदम् | | |
-> | --- | --- | --- | | |
-> |   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-> | Indikativ Präsens   | | | | |
-> लट् | विशसि | विशथ | &lt;विशसे&gt; | &lt;विशध्वे&gt; | |
-> | Imperfekt   | | | | |
-> लङ् | अविशस् | अविशत | &lt;अविशथास्&gt; | &lt;अविशध्वम्&gt; | |
-> | Optativ   | | | | |
-> विधिलिङ् | विशेस् | विशेत | &lt;विशेथास्&gt; | &lt;विशेध्वम्&gt; | |
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :--- | :--- | :--- | :--- | :--- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens**[[br]]लट् | विशसि | विशथ | &lt;विशसे&gt; | &lt;विशध्वे&gt; |
+| **Imperfekt**[[br]]लङ् | अविशस् | अविशत | &lt;अविशथास्&gt; | &lt;अविशध्वम्&gt; |
+| **Optativ**[[br]]विधिलिङ् | विशेस् | विशेत | &lt;विशेथास्&gt; | &lt;विशेध्वम्&gt; |
 
 #### 43.2.1.3. Vierte Präsensklasse (दिवादि)
 
 नृत् 4P
 
-> |   | परस्मैपदम् | आत्मनेपदम् | | |
-> | --- | --- | --- | | |
-> |   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-> | Indikativ Präsens   | | | | |
-> लट् | नृत्यसि | नृत्यथ | &lt;नृत्यसे&gt; | &lt;नृत्यध्वे&gt; | |
-> | Imperfekt   | | | | |
-> लङ् | अनृत्यस् | अनृत्यत | &lt;अनृत्यथास्&gt; | &lt;अनृत्यध्वम्&gt; | |
-> | Optativ   | | | | |
-> विधिलिङ् | नृत्येस् | नृत्येत | &lt;नृत्येथास्&gt; | &lt;नृत्येध्वम्&gt; | |
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :--- | :--- | :--- | :--- | :--- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens**[[br]]लट् | नृत्यसि | नृत्यथ | &lt;नृत्यसे&gt; | &lt;नृत्यध्वे&gt; |
+| **Imperfekt**[[br]]लङ् | अनृत्यस् | अनृत्यत | &lt;अनृत्यथास्&gt; | &lt;अनृत्यध्वम्&gt; |
+| **Optativ**[[br]]विधिलिङ् | नृत्येस् | नृत्येत | &lt;नृत्येथास्&gt; | &lt;नृत्येध्वम्&gt; |
 
 #### 43.2.1.4. Zehnte Präsensklasse (चुरादि) und Kausative
 
 चुर् 10U
 
-> |   | परस्मैपदम् | आत्मनेपदम् | | |
-> | --- | --- | --- | | |
-> |   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-> | Indikativ Präsens   | | | | |
-> लट् | चोरयसि | चोरयथ | चोरयसे | चोरयध्वे | |
-> | Imperfekt   | | | | |
-> लङ् | अचोरयस् | अचोरयत | अचोरयथास् | अचोरयध्वम् | |
-> | Optativ   | | | | |
-> विधिलिङ् | चोरयेस् | चोरयेत | चोरयेथास् | चोरयेध्वम् | |
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :--- | :--- | :--- | :--- | :--- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indikativ Präsens**[[br]]लट् | चोरयसि | चोरयथ | चोरयसे | चोरयध्वे |
+| **Imperfekt**[[br]]लङ् | अचोरयस् | अचोरयत | अचोरयथास् | अचोरयध्वम् |
+| **Optativ**[[br]]विधिलिङ् | चोरयेस् | चोरयेत | चोरयेथास् | चोरयेध्वम् |
 
 #### 43.2.1.5. Passiv
 
 ईक्ष् 1Ā
 
-> |   | एकवचनम् | बहुवचनम् |
-> | --- | --- | --- |
-> | Indikativ Präsens   | | |
-> लट् | ईक्ष्यसे   | | |
-> īkṣ-ya-se | ईक्ष्यध्वे | | |
-> | Imperfekt   | | |
-> लङ् | ऐक्ष्यथास् | ऐक्ष्यध्वम् | |
-> | Optativ   | | |
-> विधिलिङ् | ईक्ष्येथास् | ईक्ष्येध्वम् | |
+| | एकवचनम् | बहुवचनम् |
+| --- | --- | --- |
+| **Indikativ Präsens** लट् | ईक्ष्यसे īkṣ-ya-se | ईक्ष्यध्वे |
+| **Imperfekt** लङ् | ऐक्ष्यथास् | ऐक्ष्यध्वम् |
+| **Optativ** विधिलिङ् | ईक्ष्येथास् | ईक्ष्येध्वम् |
 
 #### 43.2.1.6. Futur (ऌट्)
 
@@ -102,46 +93,42 @@ Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. 
 
 दा 3U
 
-> | परस्मैपदम् | आत्मनेपदम् | | |
-> | --- | --- | | |
-> | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-> | दास्यसि | दास्यथ | दास्यसे | दास्यध्वे |
+| परस्मैपदम् || आत्मनेपदम् ||
+| :--- | :--- | :--- | :--- |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| दास्यसि | दास्यथ | दास्यसे | दास्यध्वे |
 
 #### 43.2.1.6.2. सेट्-Bildungen
 
 भू 1P
 
-> | परस्मैपदम् | आत्मनेपदम् | | |
-> | --- | --- | | |
-> | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
-> | भविष्यसि | भविष्यथ | &lt;भविष्यसे&gt; | &lt;भविष्यध्वे&gt; |
+| परस्मैपदम् || आत्मनेपदम् ||
+| :--- | :--- | :--- | :--- |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| भविष्यसि | भविष्यथ | &lt;भविष्यसे&gt; | &lt;भविष्यध्वे&gt; |
 
 ## 43.3. Das Personalpronomen der zweiten Person
 
 *   Singular: त्वद् "du"
 *   Plural: युष्मद् "ihr"
 
-> |   | एकवचनम्   | |
-> त्वद् | बहुवचनम्   | | |
-> युष्मद् | | | |
-> | --- | --- | --- |
-> | प्रथमा | त्वम् | यूयम् |
-> | द्वितीया | त्वाम्   | |
-> त्वा | युष्मान्   | | |
-> वस् | | | |
-> | तृतीया | त्वया | युष्माभिस् |
-> | चतुर्थी | तुभ्यम्   | |
-> ते | युष्मभ्यम्   | | |
-> वस् | | | |
-> | पञ्चमी | त्वत् | युष्मत् |
-> | षष्ठी | तव   | |
-> ते | युष्माकम्   | | |
-> वस् | | | |
-> | सप्तमी | त्वयि | युष्मासु |
+::: grammar-box
+| | एकवचनम् (त्वद्) | बहुवचनम् (युष्मद्) |
+| --- | --- | --- |
+| **प्रथमा** | त्वम् | यूयम् |
+| **द्वितीया** | त्वाम् त्वा | युष्मान् वस् |
+| **तृतीया** | त्वया | युष्माभिस् |
+| **चतुर्थी** | तुभ्यम् ते | युष्मभ्यम् वस् |
+| **पञ्चमी** | त्वत् | युष्मत् |
+| **षष्ठी** | तव ते | युष्माकम् वस् |
+| **सप्तमी** | त्वयि | युष्मासु |
+:::
 
 Die Formen त्वा, ते, वस् dürfen nicht an erster Stelle eines Satzes oder einer Vershälfte gebraucht werden. Auch vor च, वा, एव und einigen anderen Partikeln dürfen sie nicht verwendet werden:
 
-> त्वां मां च "dich und mich"
+::: indent
+त्वां मां च "dich und mich"
+:::
 
 ## 43.4. Wortliste
 
@@ -149,20 +136,21 @@ Die Formen त्वा, ते, वस् dürfen nicht an erster Stelle eines 
 
 आपण m.: Markt
 
-![](/images/lekt4302.jpg)  
-Abb.: आपणः  
-Orissa = ଓଡ଼ିଶା  
-\[Bildquelle: Rita Willaert. -- [http://www.flickr.com/photos/rietje/324020365/](http://www.flickr.com/photos/rietje/324020365/). -- Zugriff am 2009-01-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+::: media
+![](/images/lekt4302.jpg)
+Abb.: आपणः
+(Bildquelle: [Details](/licenses#lekt4302))
+:::
 
 सत्वर 3: schnell, eilig
 
 पण्य 3: käuflich; n.: Ware, Handel
 
-![](/images/lekt4303.jpg)  
-Abb.: पण्यानि  
-Jamshedpur = जमशेदपुर  
-\[Bildquelle: amrita b. -- [http://www.flickr.com/photos/amrita\_b/63071274/](http://www.flickr.com/photos/amrita_b/63071274/). -- Zugriff am 2009-01-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
-
+::: media
+![]/images/lekt4303.jpg
+Abb.: पण्यानि
+(Bildquelle: [Details](/licenses#lekt4303))
+:::
 आम् : ja
 
 सम m. = वर्ष n.
@@ -181,17 +169,19 @@ Jamshedpur = जमशेदपुर
 
 विपणि f.: Laden
 
-![](/images/lekt4304.jpg)  
-Abb.: विपणिः  
-Haridwar = हरिद्वार  
-\[Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2085721947/](http://www.flickr.com/photos/mckaysavage/2085721947/). -- Zugriff am 2009-01-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]
+::: media
+![](/images/lekt4304.jpg)
+Abb.: विपणिः
+(Bildquelle: [Details](/licenses#lekt4304))
+:::
 
 वणिज् m.: Kaufmann
 
-![](/images/lekt4305.jpg)  
-Abb.: वणिक्  
-Kanchipuram = காஞ்சிபுரம  
-\[Bildquelle: visio. -- [http://www.flickr.com/photos/visio/421217297/](http://www.flickr.com/photos/visio/421217297/). -- Zugriff am 2009-01-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+::: media
+![](/images/lekt4305.jpg)
+Abb.: वणिक्
+(Bildquelle: [Details](/licenses#lekt4305))
+:::
 
 वर 3: bester
 
@@ -199,10 +189,11 @@ Kanchipuram = காஞ்சிபுரம
 
 वत्स m.: Kalb, Junges, Kind ; Vok.: mein Lieber
 
-![](/images/lekt4306.jpg)  
-Abb.: वत्सः  
-Wasserbüffel (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು  
-\[Bildquelle: wildxplorer. -- [http://www.flickr.com/photos/krayker/2123046126/](http://www.flickr.com/photos/krayker/2123046126/). -- Zugriff am 2009-001-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)\]
+::: media
+![](/images/lekt4306.jpg)
+Abb.: वत्सः
+(Bildquelle: [Details](/licenses#lekt4306))
+:::
 
 उत्तम 3: oberster, bester
 
@@ -220,9 +211,11 @@ Wasserbüffel (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು
 
 तुल् 10 तुलयति । तोलयति : wägen
 
-![](/images/lekt4307.jpg)  
-Abb.: तोलन्ति  
-\[Bildquelle: Ray Witlin / World Bank. -- [http://www.flickr.com/photos/worldbank/2183198505/](http://www.flickr.com/photos/worldbank/2183198505/). -- Zugriff am 2009-01-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+::: media
+![](/images/lekt4307.jpg)
+Abb.: तोलन्ति
+(Bildquelle: [Details](/licenses#lekt4307))
+:::
 
 कर्गल n.: Papier
 
@@ -236,13 +229,15 @@ Abb.: तोलन्ति
 
 द्रु 1P द्रवति rennen
 
-> Perf. IIIa दुद्राव, दुद्रुवुर्  
-> Fut. द्रोष्यति  
-> Pass. द्रूयते  
-> Kaus. द्रावयति  
-> PPP द्रुत  
-> Absol. -द्रुत्य  
-> Inf. द्रोतुम्
+::: indent
+Perf. IIIa दुद्राव, दुद्रुवुर्  
+Fut. द्रोष्यति  
+Pass. द्रूयते  
+Kaus. द्रावयति  
+PPP द्रुत  
+Absol. -द्रुत्य  
+Inf. द्रोतुम्
+:::
 
 रे Interjektion: He! Du da!
 
@@ -339,87 +334,64 @@ B) Übersetzen Sie ins Sanskrit:
 
 10\. Wie rettest du dich (überschreitest) vor dem Feind?
 
-![](/images/lekt4308.jpg)  
-Abb.: कदा पूराववर्तथाः ।  
-रथयात्रा २००७, पूरि  
-\[Bildquelle: G.-U. Tolkiehn / Wikipedia. GNU FDLicense\]
+::: media
+![](/images/lekt4308.jpg)
+Abb.: कदा पूराववर्तथाः ।
+(Bildquelle: [Details](/licenses#lekt4308))
+:::
 
 ## 43.6. संवादः = Gespräch
 
 | संवादः | Erklärungen |
 | --- | --- |
-| सुरेशः : अशोक१ क्व गच्छसीदानीम् ॥ | 1 Vokativ sg. |
-| अशोकः : आपणे गच्छामि । सत्वरमेव कानिचित्पण्यानि क्रीत्वा निवर्तिष्ये ॥ |   |
-| सुरेशः : किं कश्चिदुत्सवो ऽद्य तव गृहे ॥ |   |
-| अशोकः : आम् । अद्य पितृपादानां२ जन्मदिनोत्सवः ॥ | 2 -पाद pl. kann an Namen, Titel usw. angefügt werden, um Respekt auszudrücken |
-| सुरेशः : किं वयस्तव३ पितृचरणानाम् ॥ | 3 Nom.Akk.sg zu वयस् n. "Alter" |
-| अशोकः : पञ्चषष्टिसमायुतं४ मम पितुर्वयः । अद्य मम गृहे बहवः संबन्धिनो मित्राणि चागमिष्यन्ति । त्वयाप्यागब्तव्यम् ॥ | 4 पञ्चषष्ति  fünfundsechzig |
-| सुरेशः : भद्र५ कतिवादन५क् आगमिष्यन्ति जनाः ॥ | 5 Vokativ sg. |
-5k वादन n. "-Uhr"
+| **सुरेशः** : अशोक1 क्व गच्छसीदानीम् ॥ | 1 Vokativ sg. |
+| **अशोकः** : आपणे गच्छामि । सत्वरमेव कानिचित्पण्यानि क्रीत्वा निवर्तिष्ये ॥ | |
+| **सुरेशः** : किं कश्चिदुत्सवो ऽद्य तव गृहे ॥ | |
+| **अशोकः** : आम् । अद्य पितृपादानां2 जन्मदिनोत्सवः ॥ | 2 -पाद pl. kann an Namen, Titel usw. angefügt werden, um Respekt auszudrücken |
+| **सुरेशः** : किं वयस्तव3 पितृचरणानाम् ॥ | 3 Nom.Akk.sg zu वयस् n. "Alter" |
+| **अशोकः** : पञ्चषष्टिसमायुतं4 मम पितुर्वयः । अद्य मम गृहे बहवः संबन्धिनो मित्राणि चागमिष्यन्ति । त्वयाप्यागन्तव्यम् ॥ | 4 पञ्चषष्टि fünfundsechzig |
+| **सुरेशः** : भद्र5 कतिवादन5k आगमिष्यन्ति जनाः ॥ | 5 Vokativ sg. 5k वादन n. "-Uhr" |
+| **अशोकः** : समयं किं पृच्छसि । षड्वादनं6 यावदागच्छ7 ॥ | 6 षड् "sechs" 7 2.sg.Imperativ |
+| **सुरेशः** : सार्धषड्वादनं यावदागच्छामि चेत् ॥ | |
+| **अशोकः** : नैव षड्वादन एव निश्चितरूपेणागन्तव्यं त्वया ॥ | |
+| **सुरेशः** : अस्तु8 । तर्हि गच्छ त्वं । नोचेद्विलम्बो भविष्यति ॥ | 8 3.sg.Imperativ zu अस् 2P |
+| **अशोकः** : (विपण्यां प्रविशति वणिजमुपसृत्य वदति च) अयि वणिग्वर9 काниचित्पण्यानि क्रेतुमागतो ऽहम् । देहि10 शीघ्रं मह्यम् ॥ | 9 Vokativ sg. 10 2.sg.Imperativ P zu दा 3U |
+| **वणिक्**11 : वत्स त्वं किंकिं क्रेतुमिच्छसि । मम विपणौ बहून्युत्तमोत्तमानि पण्यानि सन्ति तानि च स्वल्पमूल्यानि । वद12 कियत्परिमाणं किं क्रेतुमिच्छसि ॥ | 11 Nom.sg. zu वणिज् m. 12 2.sg.Imperativ |
+| **अशोकः** : सेरभारा13 शर्करा कियता मूल्येन विक्रीयते ॥ | 13 सेर = Seer (= 0.93310 kg) |
+| **वणिक्** : नाधिक्यं मूल्यम् । केवलमष्टाणकेन14 दास्यामि सेरभारां शर्कराम् ॥ | 14 आणक = Anna = 1/16 Rupee |
+| **अशोकः** : तर्हि तोलयित्वा शीघ्रं सेरपरिमितां शर्करां देहि15 ॥ | 15 2.sg.Imperativ P zu दा 3U |
+| **वणिक्** : (शर्करां कर्गले संपुटीकृत्य) बाल16 गृहाण17 शर्कराम् । देहि च मह्यमाणकाष्टकम्18 । सत्वरं देहि ॥ | 16 Vokativ sg. 17 2.sg.Imperativ 18 अष्ट "acht" |
+| **अशोकः** : (आदाय हस्ते तस्य भारं चाल्पं विलोक्य) भो वणिक् । नैषा सेरभारा शर्करा दृश्यते । पुनः सम्यक्तोलयित्वा19 देहि ॥ | 19 सम्यक् Adv. "richtig" |
+| **वणिक्** : (सहासम्) किमनेन । अकिञ्चिद्करमेतत् । तव भारवहनक्लेशो ऽल्पो भविष्यति ॥ | |
+| **अशोकः** : (मनसि20 किंचिद्विचार्याणकचतुष्टयं21 च तस्य पुरत उपस्थाप्य) भो श्रेष्ठिन् गृहाण22 मूल्यम् । मया हि शीघ्रं गृहं गन्तव्यम् ॥ (इत्युक्त्वा ततः प्रस्थितः) | 20 Lok.sg. zu मनस् n. "Geist" 21 -चतुष्टय "Anzahl von vier" 22 Imperativ.sg. |
+| **वणिक्** : रे बालक23 । एह्येहि24 शृणु25 तावत् । अल्पमेव मूल्यं दत्त्वा क्व व्रजसि । आणकचतुष्टयमन्यदपि देहि ॥ | 23 Vokativ sg. 24 2.g.Imperativ P zu इ+आ 25 2.sg.Imperativ P |
+| **अशोकः** : श्रेष्ठिन्26 । किमनेन । अकिंचित्करमेतत् । नाणकगणनाक्लेशस्ते ऽल्पीयान्भविष्यति27 ॥ (इत्युक्त्वा ततो जवेन द्रवति) | 26 Vokativ sg. 27 Nom.sg.m. Komparativ zu अल्प = "ganz gering" |
+| (विपणिस्थो वञ्चको वणिग्28 किमपि कर्तुमशक्नोत् केवलं तस्य मनसि29 पश्चात्ताप एवासीत्) | 28 वणिक् Nom.sg. zu वणिज् 29 Lok.sg. zu मनस् n. "Geist" |
+| अशोको गृहमागत्य सर्वमपीतिवृत्तमकथयत् । तत्रस्था सर्वे ऽपि बान्धवा मित्राणि च परमानन्दं प्रापुः । इत्थं जन्मोत्सवः सानन्दं समाप्तिं यातः ॥ | |
+| (Nach: Saral Sanskrit Shikshak III, S. 4f.) | |
 
- | --- |
-| अशोकः : समयं किं पृच्छसि । षड्वादनं६ यावदागच्छ७॥ | 6 षड् "sechs"
+::: media
+![](/images/lekt4309.jpg)
+Abb.: शर्करा
+(Bildquelle: [Details](/licenses#lekt4309))
+:::
 
-7 2.sg.Imperativ
+::: deleteme-box
+### Quellen
 
- | --- | --- |
-| सुरेशः : सार्धषड्वादनं यावदागच्छामि चेत् ॥ |   |
-| अशोकः : नैव षड्वादन एव निश्चितरूपेणागन्तव्यं त्वया ॥ |   |
-| सुरेशः : अस्तु८ । तर्हि गच्छ त्वं । नोचेद्विलम्बो भविष्यति ॥ | 8 3.sg.Imperativ zu अस् 2P |
-| अशोकः :  (विपण्यां प्रविशति वणिजमुपसृत्य वदति च) अयि वणिग्वर९ कानिचित्पण्यानि क्रेतुमागतो ऽहम् । देहि१० शीघ्रं मय्हम् ॥ | 9 Vokativ sg. |
+**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)
 
-10 2.sg.Imperativ P zu दा 3U
+**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)
 
- | --- |
-| वणिक्११ : वत्स त्वं किंकिं क्रेतुमिच्छसि । मम विपणौ बहून्युत्तमोत्तमानि पण्यानि सन्ति तानि च स्वल्पमूल्यानि । वद१२ कियत्परिमाणं किं क्रेतुमिच्छसि ॥ | 11 Nom.sg. zu वणिज् m.
+**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung)
 
-12 2.sg.Imperativ
+**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)
 
- | --- | --- |
-| अशोकः :  सेरभारा१३ शर्करा कियता मूल्येन विक्रीयते ॥ | 13 सेर = Seer (= 0.93310 kg) |
-| वणिक् :  नाधिक्यं मूल्यम् । केवलमष्टाणकेन१४ दास्यामि सेरभारां शर्कराम् ॥ | 14 आणक = Anna = 1/16 Rupee |
-| अशोकः :  तर्हि तोलयित्वा शीघ्रं सेरपरिमितां शर्करां देहि१५ ॥ | 15 2.sg.Imperativ P zu दा 3U |
-| वणिक् :  (शर्करां कर्गले संपुटीकृत्य) बाल१६ गृहाण१७ शर्कराम् । देहि च मह्यमाणकाष्टकम्१८ । सत्वरं देहि ॥ | 16 Vokativ sg. |
+**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Zugriff am 2009-001-06. -- Creative Commons Lizenz (Namensnennung, share alike)
 
-17 2.sg.Imperativ
+**lekt4307.jpg**: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)
 
-18 अष्ट "acht"
+**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense
 
- | --- | --- |
-| अशोकः : (आदाय हस्ते तस्य भारं चाल्पं विलोक्य) भो वनिक् । नैषा सेरभारा शर्करा दृश्यते । पुनः सम्यक्तोलयित्वा१९ देहि ॥ | 19 सम्यक् Adv. "richtig" |
-| वणिक् : (सहासम्) किमनेन । अकिञ्चिद्करमेतत् । तव भारवहनक्लेशो ऽल्पो भविष्यति ॥ |   |
-| अशोकः :  (मनसि२० किंचिद्विचार्याणकचतुष्टयं२१ च तस्य पुरत उपस्थाप्य) भो श्रेष्ठिन्गृहाण२२ मूल्यम् । मया हि शीघ्रं गृहं गन्तव्यम् ॥ (इत्युक्त्वा ततः प्रस्थितः) | 20 Lok.sg. zu मनस् n. "Geist" |
-
-21 चतुष्टय "Anzahl von vier"
-
-22 Imperativ.sg.
-
- | --- |
-| वणिक् :  रे बालक२३ । एह्येहि२४ शृणु२५ तावत् ।  अल्पमेव मूल्यं दत्त्वा क्व व्रजसि । आणकचतुष्टयमन्यदपि देहि ॥ | 23 Vokativ sg.
-
-24 2.g.Imperativ P zu इ+आ
-
-25 2.sg.Imperativ P
-
- |
-| अशोकः : श्रेष्ठिन्२६ । किमनेन । अकिंचित्करमेतत् । नाणकगणनाक्लेशस्ते ऽल्पीयान्भविष्यति२७ ॥ (इत्युक्त्वा ततो जवेन द्रवति)
-
-(विपणिस्थो वञ्चको वनिग्न२८ किमपि कर्तुमशक्नोत्केवलं तस्य मनसि२९ पश्चात्ताप एवासीत्)
-
-अशोको गृहमागत्य सर्वमपीतिवृत्तमकथयत् । तत्रस्था सर्वे ऽपि बान्धवा मित्राणि च परमानन्दं प्रापुः । इत्थं जन्मोत्सवः सानन्दं समाप्तिं यातः ॥
-
- | 26 Vokativ sg.
-
-27 Nom.sg.m. Komparativ zu अल्प = "ganz gering"
-
-28 वणिक्  Nom.sg. zu वणिज्
-
-29 Lok.sg. zu मनस् n. "Geist"
-
- | --- | --- |
-| (Nach: Saral Sanskrit Shikshak III, S. 4f.) |   |
-
-![](/images/lekt4309.jpg)  
-Abb.: शर्करा  
-गुड़ (शक्कर),  
-\[Bildquelle: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2178184852/](http://www.flickr.com/photos/webethere/2178184852/). -- Zugriff am 2009-01-07. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)\]
+**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Zugriff am 2009-01-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)
+:::

@@ -1,3 +1,7 @@
+---
+lesson_id: 16
+last_reconstructed: 2026-05-21
+---
 
 # Lektion 16
 

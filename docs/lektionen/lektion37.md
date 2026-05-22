@@ -1,3 +1,7 @@
+---
+lesson_id: 37
+last_reconstructed: 2026-05-21
+---
 
 # Lektion 37
 
@@ -177,48 +181,48 @@ Abb.: क्व
 
 :::: grammar-box
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="2">Weitere Adverbialsuffixe</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="white-space: nowrap;"><strong>-वत्</strong><br>-vat</td>
-      <td>
-        <strong>kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie"</strong><br>
-        z.B. <strong>putravat</strong><br>
+
+  
+    
+      Weitere Adverbialsuffixe
+    
+  
+  
+    
+      -वत् -vat
+      
+        kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie" 
+        z.B. putravat 
         पुत्रवत् "wie ein(en) Sohn"
-      </td>
-    </tr>
-    <tr>
-      <td style="white-space: nowrap;"><strong>-तस्</strong><br>-tas</td>
-      <td>
-        <strong>an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?"</strong><br>
-        z.B. <strong>āditas</strong><br>
+      
+    
+    
+      -तस् -tas
+      
+        an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?" 
+        z.B. āditas 
         आदितस् "von Anfang an"
-      </td>
-    </tr>
-    <tr>
-      <td style="white-space: nowrap;"><strong>-धा</strong><br>-dhā</td>
-      <td>
-        <ol>
-          <li>
-            <strong>Bei Zahladverbien in der Bedeutung "-fach", "-fältig"</strong><br>
-            z.B. <strong>dvidhā</strong><br>
+      
+    
+    
+      -धा -dhā
+      
+        &lt;ol&gt;
+          &lt;li&gt;
+            Bei Zahladverbien in der Bedeutung "-fach", "-fältig" 
+            z.B. dvidhā 
             द्विधा "zweifach"
-          </li>
-          <li>
-            <strong>in der Bedeutung "in der und der Weise"</strong><br>
-            z.B. <strong>samadhā</strong><br>
-            समधा "in gleicher Weise" (zu <strong>sama</strong><br>सम 3 "gleich")
-          </li>
-        </ol>
-      </td>
-    </tr>
-  </tbody>
-</table>
+          &lt;/li&gt;
+          &lt;li&gt;
+            in der Bedeutung "in der und der Weise" 
+            z.B. samadhā 
+            समधा "in gleicher Weise" (zu sama सम 3 "gleich")
+          &lt;/li&gt;
+        &lt;/ol&gt;
+      
+    
+  
+
 
 ::::
 

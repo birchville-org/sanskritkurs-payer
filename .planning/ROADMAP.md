@@ -91,10 +91,14 @@ Plans:
 
 ### Phase 999.13: VitePress-aware Markdown Editor (BACKLOG)
 
-**Goal:** Build or configure a Markdown editor that supports project-specific extensions like `::: grammar-box`, `^^` rowspans, and `{.sanskrit-dev}` for seamless content creation.
+**Goal:** Build a QA-Viewer-style split-pane editor: left pane edits Markdown, right pane renders live preview with full VitePress-specific syntax support.
 **Implementation Options:**
-- **Option A (Web-based):** An integrated `/editor` page in VitePress using Monaco Editor + project-specific `markdown-it` plugins for 1:1 parity.
+- **Option A (Web-based, preferred):** Standalone `/editor.html` page (like `qa_viewer.html`) with `<textarea>` or CodeMirror on the left; right pane uses client-side `markdown-it` + same plugins as `config.mjs` (`markdown-it-container`, `markdown-it-multimd-table`) for 1:1 preview parity. `[[br]]` substitution and CSS containers replicated client-side.
 - **Option B (VS Code):** A dedicated extension that injects our `config.mjs` logic into the native Markdown preview.
+**Notes from discussion:**
+- Simple textarea + marked.js gives basic preview but misses VitePress-specific syntax.
+- Accurate preview requires bundling the same markdown-it plugins used in `config.mjs` — feasible via CDN or small build step.
+- Separate search per pane also discussed as a QA-viewer enhancement (see Phase 999.15).
 **Requirements:** TBD
 **Plans:** 0 plans
 

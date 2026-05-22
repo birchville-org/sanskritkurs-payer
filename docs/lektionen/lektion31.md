@@ -43,7 +43,7 @@ Beispiele:
 | :--- | :--- | :--- | :--- |
 | **Indikativ** | **3. sg.** | रुणद्धि[[br]](ru + na + dh + ti) | रुन्द्धे[[br]](ru-n + dh + te) |
 | | **3. pl.** | रुन्धन्ति[[br]](ru-n-dh-anti) | रुन्धते[[br]](ru-n-dh-ate) |
-| **Optativ** | **3. sg.** | रुन्ध्यात्[[br]](ru-n-dh-yā-t) | रुन्धीt[[br]](ru-n-dh-ī-ta) | -> | रुन्धीत[[br]](ru-n-dh-ī-ta) |
+| **Optativ** | **3. sg.** | रुन्ध्यात्[[br]](ru-n-dh-yā-t) | रुन्धीt[[br]](ru-n-dh-ī-ta) | -&gt; | रुन्धीत[[br]](ru-n-dh-ī-ta) |
 | | **3. pl.** | रुन्ध्युर्[[br]](ru-n-dh-y-ur) | रुन्धीरन्[[br]](ru-n-dh-ī-ran) |
 | **Partizip Präsens** | | रुन्धन्त्-[[br]](ru-n-dh-ant-)[[br]]fem.: रुन्धती[[br]](ru-n-dh-at-ī) | |
 
@@ -77,7 +77,7 @@ Beispiel:
 **Inf. योक्तुम्**
 
 davon:
-**युг n. -> युग n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
+**युг n. -&gt; युग n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
 1. **कृत**
 2. **त्रेता**
 3. **द्वापर**
@@ -128,7 +128,7 @@ Abb.: योगः
 **Inf. अञ्जितुम् । अङ्क्तुम्**
 :::
 
-**अञ्ज् + vi -> अञ्ज् + वि** 7Ā **व्यङ्क्ते** : auseinanderschmieren = sich schminken, sich unterschieden machen
+**अञ्ज् + vi -&gt; अञ्ज् + वि** 7Ā **व्यङ्क्ते** : auseinanderschmieren = sich schminken, sich unterschieden machen
 ::: indent
 **PPP व्यक्त :** unterschieden, entfaltet
 
@@ -156,7 +156,7 @@ Abb.: व्यञ्जनम्
 **Fut. भोक्ष्यति**
 **Pass. भुज्यते**
 **Kaus. भोजयति**
-**PPP bhukt -> PPP भुक्त**
+**PPP bhukt -&gt; PPP भुक्त**
 **Inf. भोक्तुम्**
 
 davon:
