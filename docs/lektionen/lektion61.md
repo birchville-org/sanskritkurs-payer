@@ -192,17 +192,15 @@ Abb.: वध्वौ
 **Bildung:**
 
 **Das periphrastische Futur wird gebildet durch die Verbindung eines nomen agentis auf -tṛ mit dem Präsens von अस् 2. Als dritte Person dient das einfache Nomen in der entsprechenden Zahl, ohne Unterscheidung im grammatischen Geschlecht. Bei den Verbindungen mit अस् hat das Nomen in allen Personen und Numeri die Form des Nom.sg. auf -tā.**
-
-**Die Endungen des periphrastischen Futur lauten also:**
 :::
 
 ::: grammar-box
-|   | परस्मैपदम् | | | आत्मनेपदम् | | |
+|   | परस्मैपदम् || || आत्मनेपदम् || ||
 | --- | --- | --- | --- | --- | --- | --- |
-|   | एकवचनम् | द्विवचनम् | बहुवचनम् | एकवचनम् | द्विवचनम् | बहुवचनम् |
-| 1\. तृतीयः[[br]](-tā + asmi)[[br]](-tā smas) | \-tāsmi | \-tāsvas | \-tāsmas | ***\-tāhe*** | \-tāsvahe | \-tāsmahe |
-| 2\. मध्यमः | \-tāsi | \-tāsthas | \-tāstha | \-tāse | \-tāsāthe | \-tādhve |
-| 3\. प्रथमः | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
+|   | एकवचनम् | द्विवचनम् | बहुवचनम् | एकवचनम् | द्विवचनम् | बहुवचनम् |
+| **1\. तृतीयः** | \-tāsmi[[br]](-tā + asmi) | \-tāsvas | \-tāsmas[[br]](-tā smas) | ***\-tāhe*** | \-tāsvahe | \-tāsmahe |
+| **2\. मध्यमः** | \-tāsi | \-tāsthas | \-tāstha | \-tāse | \-tāsāthe | \-tādhve |
+| **3\. प्रथमः** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
 :::
 
 ::: grammar-box
@@ -222,12 +220,12 @@ Paradigma:
 दा 3U
 
 ::: grammar-box
-|   | परस्मैपदम् | | | आत्मनेपदम् | | |
+|   | परस्मैपदम् || || आत्मनेपदम् || ||
 | --- | --- | --- | --- | --- | --- | --- |
-|   | एकवचनम् | द्विवचनम् | बहुवचनम् | एकवचनम् | द्विवचनम् | बहुवचनम् |
-| 1\. तृतीयः | दातास्मि | दातास्वस् | दातास्मस् | ***दाताहे*** | दातास्वहे | दातास्महे |
-| 2\. मध्यमः | दातासि | दातास्थस् | दातास्थ | दातासे | दातासथे | दाताध्वे |
-| 3\. प्रथमः | दाता | दातारौ | दातारस् | दाता | दातारौ | दातारस् |
+|   | एकवचनम् | द्विवचनम् | बहुवचनम् | एकवचनम् | द्विवचनम् | बहुवचनम् |
+| **1\. तृतीयः** | दातास्मि | दातास्वस् | दातास्मस् | ***दाताहे*** | दातास्वहे | दातास्महे |
+| **2\. मध्यमः** | दातासि | दातास्थस् | दातास्थ | दातासे | दातासथे | दाताध्वे |
+| **3\. प्रथमः** | दाता | दातारौ | दातारस् | दाता | दातारौ | दातारस् |
 :::
 
 ::: grammar-box
