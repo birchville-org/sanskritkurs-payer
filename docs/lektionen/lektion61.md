@@ -194,6 +194,8 @@ Abb.: वध्वौ
 **Das periphrastische Futur wird gebildet durch die Verbindung eines nomen agentis auf -tṛ mit dem Präsens von अस् 2. Als dritte Person dient das einfache Nomen in der entsprechenden Zahl, ohne Unterscheidung im grammatischen Geschlecht. Bei den Verbindungen mit अस् hat das Nomen in allen Personen und Numeri die Form des Nom.sg. auf -tā.**
 :::
 
+Die Endungen des periphrastischen Futur lauten also:
+
 ::: grammar-box
 |   | परस्मैपदम् || || आत्मनेपदम् || ||
 | --- | --- | --- | --- | --- | --- | --- |
