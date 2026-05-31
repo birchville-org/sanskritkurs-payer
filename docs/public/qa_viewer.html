@@ -735,6 +735,117 @@
 
         updateFrames();
     </script>
+
+    <script type="module">
+        // html: true — intentional for author-only preview tool; mirrors VitePress internal default (see RESEARCH.md A1)
+        import markdownit from 'https://esm.sh/markdown-it@14.2.0';
+        import container  from 'https://esm.sh/markdown-it-container@4.0.0';
+        import multimd    from 'https://esm.sh/markdown-it-multimd-table@4.2.3';
+
+        function buildRenderer() {
+            const md = markdownit({ html: true, breaks: true, linkify: false });
+
+            // 1. prevent_br_link — mirrors config.mjs line 223-225
+            //    Transforms [[br]]( to [[br]] ( before block parsing, preventing [[br]] from
+            //    being interpreted as a Markdown link by the tokenizer.
+            md.core.ruler.before('normalize', 'prevent_br_link', (state) => {
+                state.src = state.src.replace(/\[\[br\]\]\(/g, '[[br]] (');
+            });
+
+            // 2. MultiMD table — must be registered BEFORE container plugins (Pitfall 2)
+            //    Options mirror config.mjs lines 226-232 exactly.
+            md.use(multimd, {
+                multiline: true,
+                rowspan: true,
+                headerless: true,
+                multiscript: true,
+                colspans: true
+            });
+
+            // 3. Container plugins — all 12 in the order from config.mjs
+            const CONTAINERS = [
+                'grammar-box', 'grammar-box2', 'media', 'center', 'metrik-schema',
+                'important', 'deleteme-box', 'note-box', 'laut-table',
+                'indent', 'compact', 'no-header'
+            ];
+            for (const name of CONTAINERS) {
+                md.use(container, name, {
+                    render(tokens, idx) {
+                        return tokens[idx].nesting === 1
+                            ? `<div class="${name} custom-block">\n`
+                            : '</div>\n';
+                    }
+                });
+            }
+
+            // 4. scholarly_fixes — mirrors config.mjs lines 371-433 (Token API approach,
+            //    not post-render regex, to correctly handle [[br]] inside table cells,
+            //    see RESEARCH.md Pitfall 4 and must_haves key_links).
+            md.core.ruler.after('linkify', 'scholarly_fixes', (state) => {
+                state.tokens.forEach(token => {
+                    if (token.type !== 'inline') return;
+                    let newChildren = [];
+                    token.children.forEach(child => {
+                        if (child.type !== 'text') {
+                            newChildren.push(child);
+                            return;
+                        }
+
+                        // Split on [[br]] — each split produces a segment; hardbreak between segments
+                        const segments = child.content.includes('[[br]]')
+                            ? child.content.split('[[br]]')
+                            : [child.content];
+
+                        segments.forEach((segment, index) => {
+                            // Split on ⟪ Devanagari ⟫, bare Devanagari runs, and [[indent]]
+                            const parts = segment.split(
+                                /(⟪[ऀ-ॿ]+⟫|[ऀ-ॿ]+|\[\[indent\]\])/g
+                            );
+
+                            parts.forEach(part => {
+                                if (!part) return;
+
+                                if (part.startsWith('⟪') && part.endsWith('⟫')) {
+                                    // Explicitly marked Sanskrit -- strip wrappers, always sanskrit-dev
+                                    const span = new state.Token('html_inline', '', 0);
+                                    span.content = '<span class="sanskrit-dev">' + part.slice(1, -1) + '</span>';
+                                    newChildren.push(span);
+                                } else if (/[ऀ-ॿ]/.test(part)) {
+                                    // Bare Devanagari -- always sanskrit-dev (editor has no locale)
+                                    const span = new state.Token('html_inline', '', 0);
+                                    span.content = '<span class="sanskrit-dev">' + part + '</span>';
+                                    newChildren.push(span);
+                                } else if (part === '[[indent]]') {
+                                    // [[indent]] -- empty inline span
+                                    const span = new state.Token('html_inline', '', 0);
+                                    span.content = '<span class="indent-inline"></span>';
+                                    newChildren.push(span);
+                                } else {
+                                    const text = new state.Token('text', '', 0);
+                                    text.content = part;
+                                    newChildren.push(text);
+                                }
+                            });
+
+                            // Insert hardbreak between [[br]]-segments (not after the last)
+                            if (index < segments.length - 1) {
+                                newChildren.push(new state.Token('hardbreak', 'br', 0));
+                            }
+                        });
+                    });
+                    token.children = newChildren;
+                });
+            });
+
+            return md;
+        }
+
+        // Expose to the non-module script block so it can use buildRenderer()
+        window.buildRenderer = buildRenderer;
+
+        // Exported convenience wrapper for direct render calls
+        window.render = (text) => buildRenderer().render(text);
+    </script>
 </body>
 
 </html>
