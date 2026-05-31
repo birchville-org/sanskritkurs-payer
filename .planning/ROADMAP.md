@@ -29,15 +29,21 @@ Vertikale Erschließung der Inhalte durch Querverweise.
     - Eine zentrale Seite listet alle Lektionen nach Themen (z.B. Sandhi) auf.
     - Am Ende jeder Lektion erscheinen passende Themen-Vorschläge.
 
-### Phase 12: Multilingual Expansion (V1.2 Final)
-Horizontale Erweiterung um IT, ES, BG sowie neu UK und RU.
-- [x] **Plan 12.1**: Setup der Verzeichnisstrukturen für `/it/` und `/es/`.
-- [x] **Plan 12.2**: Durchführung der Massenübersetzung via AI (UK & RU hinzugefügt).
-- [x] **Plan 12.3**: Integration der neuen Locales in die VitePress-Config.
-- [x] **Plan 12.4**: Quality-Sync & Visual Remediation (DE Struktur & Icons vereinheitlicht).
+### Phase 12: I18n Expansion V1.3 — ES-Vervollständigung, Tamil (TA), Punjabi (PA)
+Horizontale Erweiterung um drei neue Sprachen: ES vervollständigt (Übungen/Schriften), TA und PA neu.
+**Plans:** 4 plans
+
+- [x] **Plan 12.0**: GUI-Aktivierung — config.mjs, pa.mjs Locale, Verzeichnisstrukturen (2026-05-31).
+- [ ] 12-1-PLAN.md — Übersetzungsabschluss: Vollständigkeitsprüfung und Nachhol-Jobs für ES/TA/PA
+- [ ] 12-2-PLAN.md — Wortlisten und licenses.md für ES, TA, PA generieren
+- [ ] 12-3-PLAN.md — QA: HTML-Bereinigung, Platzhalter-Suche, Layout-Synchronisation
+- [ ] 12-4-PLAN.md — Build-Gate (npm run docs:build) und Git-Commit
+
 - **Erfolgskriterien**:
-    - Alle 61 Lektionen sind in EN, IT, ES, BG, UK, RU verfügbar.
-    - Die Homepage bietet alle 7 Sprachen zur Auswahl an.
+    - ES: alle 61 Lektionen + 11 Schriften + 61 Übungen + wortliste verfügbar.
+    - TA und PA: alle 61 Lektionen + 11 Schriften + 61 Übungen + wortliste verfügbar.
+    - Homepage bietet 11 Sprachen zur Auswahl (DE, EN, IT, BG, RU, UK, HI, FR, ES, TA, PA).
+    - Build: `npm run docs:build` erfolgreich.
 
 ### Phase 13: QA Infrastructure Restoration
 High-fidelity restoration and standardization of the Sanskrit QA viewer.
