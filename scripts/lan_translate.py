@@ -9,15 +9,15 @@ import re
 API_URL = "http://nyx.local:8000/v1/chat/completions"
 MODEL = "mlx-community/Qwen3.6-35B-A3B-4bit"
 LANGUAGES = [
-#    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm", "ta",
+#    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm",
 #    "ar", "arc", "he", "zh", "la", "grc", "el", "fa", "akk", "cop",
-    "en", "it", "es", "ru", "uk", "bg", "hi", "fr",
+    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "ta", "pa",
 ]
 LANG_NAMES = {
     "en": "English", "it": "Italian", "es": "Spanish",
     "ru": "Russian", "uk": "Ukrainian", "bg": "Bulgarian",
-    "hi": "Hindi", "fr": "French",
-#    "hi": "Hindi", "fr": "French", "rm": "Romansh Grischun", "ta": "Tamil",
+    "hi": "Hindi", "fr": "French", "ta": "Tamil", "pa": "Punjabi (Gurmukhi)",
+#    "rm": "Romansh Grischun",
 #    "ar": "Arabic", "arc": "Aramaic", "he": "Hebrew",
 #    "zh": "Mandarin Chinese", "la": "Latin",
 #    "grc": "Ancient Greek", "el": "Modern Greek",
@@ -78,6 +78,11 @@ LICENSES_LABELS = {
         "title": "படப் உரிம தணிக்கை",
         "col1": "கோப்பு", "col2": "கண்டறியப்பட்ட மூல தகவல்", "col3": "முன்னோட்டம்",
         "no_license": "உரையில் குறிப்பிட்ட உரிமம்/படத்தின் மூலம் காணப்படவில்லை",
+    },
+    "pa": {
+        "title": "ਚਿੱਤਰ ਲਾਇਸੈਂਸ ਆਡਿਟ",
+        "col1": "ਫ਼ਾਇਲ", "col2": "ਮਿਲੀ ਸਰੋਤ ਜਾਣਕਾਰੀ", "col3": "ਝਲਕ",
+        "no_license": "ਪਾਠ ਵਿੱਚ ਕੋਈ ਖਾਸ ਲਾਇਸੈਂਸ/ਚਿੱਤਰ ਸਰੋਤ ਨਹੀਂ ਮਿਲਿਆ",
     },
     "ar": {
         "title": "تدقيق تراخيص الصور",
@@ -351,6 +356,28 @@ LICENSES_PHRASES = {
         "Unbekannt": "தெரியாத",
         "Beschriftung:": "தலைப்பு:",
         "Lehrgangsmaterial": "பாட திட்ட பொருள்",
+    },
+    "pa": {
+        "Abb.:": "ਚਿੱਤ.:",
+        "Bildquelle:": "ਚਿੱਤਰ ਸਰੋਤ:",
+        "Bildquelle.": "ਚਿੱਤਰ ਸਰੋਤ.",
+        "Bildquelle ": "ਚਿੱਤਰ ਸਰੋਤ ",
+        "gemeinfrei": "ਜਨਤਕ ਡੋਮੇਨ",
+        "Jhdt.": "ਸਦੀ.",
+        "Zugriff am": "ਪਹੁੰਚ ਦੀ ਮਿਤੀ",
+        "Namensnennung": "ਨਾਮਕਰਨ",
+        "keine kommerzielle Nutzung": "ਗੈਰ-ਵਪਾਰਕ",
+        "keine kommerzielle Nuttzung": "ਗੈਰ-ਵਪਾਰਕ",
+        "keine kommerzielle Bearbeitung": "ਗੈਰ-ਵਪਾਰਕ, ਕੋਈ ਡੈਰੀਵੇਟਿਵ ਨਹੀਂ",
+        "keine Bearbeitung": "ਕੋਈ ਡੈਰੀਵੇਟਿਵ ਨਹੀਂ",
+        "GNU FDLizenz": "GNU FD ਲਾਇਸੈਂਸ",
+        "FDLicense": "FD License",
+        "Creative  Commons Lizenz": "Creative Commons ਲਾਇਸੈਂਸ",
+        "Creative Commons Lizenz": "Creative Commons ਲਾਇਸੈਂਸ",
+        "Creative Commons lizenz": "Creative Commons ਲਾਇਸੈਂਸ",
+        "Unbekannt": "ਅਣਜਾਣ",
+        "Beschriftung:": "ਕੈਪਸ਼ਨ:",
+        "Lehrgangsmaterial": "ਕੋਰਸ ਸਮੱਗਰੀ",
     },
     "ar": {
         "Abb.:": "شكل.:",
@@ -656,7 +683,7 @@ def translate_text(text, target_lang):
         "Rules: "
         "(1) Translate every German word — including captions, image descriptions, verse translations, and prose. "
         "(2) Preserve unchanged: Markdown syntax, VitePress containers (:::), IAST transliterations, YAML frontmatter keys, HTML comments, ⟨DEVA_N⟩ placeholders, ⟨IAST_L_N⟩ placeholders, and ⟨BR⟩ placeholders. "
-        f"(3) Translate '# Lektion N' headings to the target-language equivalent (e.g. '# Lesson N' in English, '# Lezione N' in Italian, '# Lección N' in Spanish, '# Урок N' in Russian/Ukrainian/Bulgarian, '# पाठ N' in Hindi, '# Leçon N' in French, '# Lecziun N' in Romansh Grischun, '# பாடம் N' in Tamil, '# الدرس N' in Arabic, '# ܡܠܦܢܘܬܐ N' in Aramaic, '# שיעור N' in Hebrew, '# 第N课' in Mandarin Chinese, '# Lectio N' in Latin, '# Μάθημα N' in Ancient Greek, '# Μάθημα N' in Modern Greek, '# درس N' in Persian, '# Ṭupšarru N' in Akkadian, '# ⲙⲁⲑⲏⲙⲁ N' in Coptic). "
+        f"(3) Translate '# Lektion N' headings to the target-language equivalent (e.g. '# Lesson N' in English, '# Lezione N' in Italian, '# Lección N' in Spanish, '# Урок N' in Russian/Ukrainian/Bulgarian, '# पाठ N' in Hindi, '# Leçon N' in French, '# Lecziun N' in Romansh Grischun, '# பாடம் N' in Tamil, '# ਪਾਠ N' in Punjabi, '# الدرس N' in Arabic, '# ܡܠܦܢܘܬܐ N' in Aramaic, '# שיעור N' in Hebrew, '# 第N课' in Mandarin Chinese, '# Lectio N' in Latin, '# Μάθημα N' in Ancient Greek, '# Μάθημα N' in Modern Greek, '# درس N' in Persian, '# Ṭupšarru N' in Akkadian, '# ⲙⲁⲑⲏⲙⲁ N' in Coptic). "
         "(4) NEVER add TODO comments, fallback markers, or any annotations of your own. If unsure how to translate something, translate it as best you can. "
         "(5) Keep the scholarly editorial tone throughout. "
         "(6) CRITICAL: Preserve the exact line count of the source. Every source line must appear as exactly one output line. NEVER delete, merge, or collapse lines. "

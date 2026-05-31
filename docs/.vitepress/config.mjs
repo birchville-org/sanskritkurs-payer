@@ -8,10 +8,12 @@ import { bg } from './locales/bg.mjs'
 import { ru } from './locales/ru.mjs'
 import { uk } from './locales/uk.mjs'
 import { hi } from './locales/hi.mjs'
+// ── v1.3 languages ────────────────────────────────────────────────────────────
+import { es } from './locales/es.mjs'
+import { ta } from './locales/ta.mjs'
+import { pa } from './locales/pa.mjs'
 // ── hidden (planned for later versions) ───────────────────────────────────────
-// import { es } from './locales/es.mjs'
 // import { rm } from './locales/rm.mjs'
-// import { ta } from './locales/ta.mjs'
 // import { ar } from './locales/ar.mjs'
 // import { arc } from './locales/arc.mjs'
 // import { he } from './locales/he.mjs'
@@ -41,9 +43,17 @@ it.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lezione', 'it', 10
 it.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Scrittura', 'it')
 it.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Esercizio', 'it', 10)
 
-// es.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lección', 'es', 10)
-// es.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Escritura', 'es')
-// es.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ejercicio', 'es', 10)
+es.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lección', 'es', 10)
+es.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Escritura', 'es')
+es.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ejercicio', 'es', 10)
+
+ta.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'பாடம்', 'ta', 10)
+ta.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'எழுத்து', 'ta')
+ta.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'பயிற்சி', 'ta', 10)
+
+pa.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'ਪਾਠ', 'pa', 10)
+pa.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'ਲਿਪੀ', 'pa')
+pa.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'ਅਭਿਆਸ', 'pa', 10)
 
 bg.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Урок', 'bg', 10)
 bg.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Писмо', 'bg')
@@ -120,10 +130,12 @@ export default defineConfig({
     uk: { ...uk },
     hi: { ...hi },
     fr: { ...fr },
+    // ── v1.3 languages ───────────────────────────────────────────────────────────
+    es: { ...es },
+    ta: { ...ta },
+    pa: { ...pa },
     // ── hidden (planned for later versions) ─────────────────────────────────────
-    // es: { ...es },
     // rm: { ...rm },
-    // ta: { ...ta },
     // ar: { ...ar },
     // arc: { ...arc },
     // he: { ...he },
@@ -162,7 +174,7 @@ export default defineConfig({
             prefix: function(term) { return term.length >= 4; },
             boost: { title: 5, text: 1, titles: 3 },
             filter: function(result) {
-              const ACTIVE = ['en','it','bg','ru','uk','hi','fr'];
+              const ACTIVE = ['en','it','bg','ru','uk','hi','fr','es','ta','pa'];
               const seg = (typeof window !== 'undefined' ? window.location.pathname : '/').split('/').filter(Boolean)[0] || '';
               if (ACTIVE.includes(seg)) {
                 // Sprachseite: nur Ergebnisse dieser Sprache
@@ -183,10 +195,12 @@ export default defineConfig({
           uk: { translations: { button: { buttonText: 'Пошук' } } },
           hi: { translations: { button: { buttonText: 'खोज' } } },
           fr: { translations: { button: { buttonText: 'Rechercher' } } },
+          // ── v1.3 languages ────────────────────────────────────────────────────
+          es: { translations: { button: { buttonText: 'Buscar' } } },
+          ta: { translations: { button: { buttonText: 'தேடு' } } },
+          pa: { translations: { button: { buttonText: 'ਖੋਜ' } } },
           // ── hidden (planned for later versions) ───────────────────────────────
-          // es: { translations: { button: { buttonText: 'Buscar' } } },
           // rm: { translations: { button: { buttonText: 'Tschertgar' } } },
-          // ta: { translations: { button: { buttonText: 'தேடு' } } },
           // ar: { translations: { button: { buttonText: 'بحث' } } },
           // arc: { translations: { button: { buttonText: 'ܒܥܬܐ' } } },
           // he: { translations: { button: { buttonText: 'חיפוש' } } },

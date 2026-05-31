@@ -81,9 +81,23 @@ LANG_CONFIG = {
         "subtitle": "*पाठ्यक्रम के सभी नए शब्द उनके परिचय के क्रम में, विषयगत व्याख्याओं के साथ।*",
         "frontmatter": "---\noutline: 2\n---\n",
     },
+    "ta": {
+        "section_keywords": ["சொற்பட்டியல்", "சொல் பட்டியல்", "Wortliste"],
+        "lektion_heading": "பாடம்",
+        "title": "சொற்பட்டியல் (முழுமையான கண்ணோட்டம்)",
+        "subtitle": "*பாடநெறியின் அனைத்து புதிய சொற்களும் அவை அறிமுகப்படுத்தப்பட்ட வரிசையில், கருப்பொருள் விளக்கங்களுடன்.*",
+        "frontmatter": "---\noutline: 2\n---\n",
+    },
+    "pa": {
+        "section_keywords": ["ਸ਼ਬਦ ਸੂਚੀ", "ਸ਼ਬਦਾਵਲੀ", "Wortliste"],
+        "lektion_heading": "ਪਾਠ",
+        "title": "ਸ਼ਬਦ ਸੂਚੀ (ਸੰਪੂਰਨ ਸੰਖੇਪ)",
+        "subtitle": "*ਕੋਰਸ ਦੇ ਸਾਰੇ ਨਵੇਂ ਸ਼ਬਦ ਉਹਨਾਂ ਦੀ ਜਾਣਕਾਰੀ ਦੇ ਕ੍ਰਮ ਵਿੱਚ, ਵਿਸ਼ੇਸ਼ ਵਿਆਖਿਆਵਾਂ ਸਮੇਤ।*",
+        "frontmatter": "---\noutline: 2\n---\n",
+    },
 }
 
-ACTIVE_LANGS = ["en", "fr", "it", "es", "ru", "uk", "bg", "hi"]
+ACTIVE_LANGS = ["en", "fr", "it", "es", "ru", "uk", "bg", "hi", "ta", "pa"]
 
 
 def extract_wortliste_sections(lektion_path: Path, keywords: list[str]) -> list[str]:
