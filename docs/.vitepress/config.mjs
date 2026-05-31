@@ -432,5 +432,23 @@ export default defineConfig({
         });
       });
     }
+  },
+
+  buildEnd: async (siteConfig) => {
+    const fs = require('fs')
+    const path = require('path')
+    function copyMdFiles(src, out) {
+      if (!fs.existsSync(src)) return
+      for (const e of fs.readdirSync(src, { withFileTypes: true })) {
+        if (e.name === '.vitepress') continue
+        const s = path.join(src, e.name), d = path.join(out, e.name)
+        if (e.isDirectory()) copyMdFiles(s, d)
+        else if (e.name.endsWith('.md')) {
+          fs.mkdirSync(path.dirname(d), { recursive: true })
+          fs.copyFileSync(s, d)
+        }
+      }
+    }
+    copyMdFiles(siteConfig.srcDir, siteConfig.outDir)
   }
 })
