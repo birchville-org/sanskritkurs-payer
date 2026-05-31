@@ -1,11 +1,11 @@
 # Anforderungen (Requirements) - Milestone v1.3
 
 ## 1. VitePress-aware Markdown Editor (EDIT) ⭐ PRIORITY
-- [ ] **EDIT-01**: Client-seitiger Markdown-Renderer mit markdown-it + VitePress-Container-Plugins (grammar-box, indent, deleteme-box, media, no-header).
-- [ ] **EDIT-02**: Split-Pane UI: Editor (CodeMirror/Textarea) links, Live-Vorschau rechts.
-- [ ] **EDIT-03**: `[[br]]` Line-Break-Substitution im Renderer.
-- [ ] **EDIT-04**: MultiMD-Table-Rendering (markdown-it-multimd-table).
-- [ ] **EDIT-05**: Integration in QA-Viewer (`qa_viewer.html`) als eigener Tab/Modus.
+- [x] **EDIT-01**: Client-seitiger Markdown-Renderer mit markdown-it + VitePress-Container-Plugins (grammar-box, indent, deleteme-box, media, no-header).
+- [x] **EDIT-02**: Split-Pane UI: Editor (CodeMirror/Textarea) links, Live-Vorschau rechts.
+- [x] **EDIT-03**: `[[br]]` Line-Break-Substitution im Renderer.
+- [x] **EDIT-04**: MultiMD-Table-Rendering (markdown-it-multimd-table).
+- [x] **EDIT-05**: Integration in QA-Viewer (`qa_viewer.html`) als eigener Tab/Modus.
 
 ## 2. Internationale Expansion (I18N) — sekundär
 - [ ] **I18N-06**: Einrichtung der spanischen Sprachversion (`/es/`) inkl. Sidebar-Struktur.
@@ -24,11 +24,11 @@
 
 | ID | Beschreibung | Phase | Status |
 |----|--------------|-------|--------|
-| EDIT-01 | Client Renderer | 15 | Pending |
-| EDIT-02 | Split-Pane UI | 15 | Pending |
-| EDIT-03 | [[br]] Handling | 15 | Pending |
-| EDIT-04 | MultiMD Tables | 15 | Pending |
-| EDIT-05 | QA-Viewer Integration | 15 | Pending |
+| EDIT-01 | Client Renderer | 15 | Done |
+| EDIT-02 | Split-Pane UI | 15 | Done |
+| EDIT-03 | [[br]] Handling | 15 | Done |
+| EDIT-04 | MultiMD Tables | 15 | Done |
+| EDIT-05 | QA-Viewer Integration | 15 | Done |
 | I18N-06 | Spanish Setup | 16 | Pending |
 | I18N-07 | Latin Setup | 16 | Pending |
 | I18N-08 | Romansh Setup | 16 | Pending |
