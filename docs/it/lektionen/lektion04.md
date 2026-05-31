@@ -110,13 +110,13 @@ NOTA: Le risposte che si possono dare a tali domande con le conoscenze sanscrite
 
 ## 4.2. Esercizio
 
-**A) Formulate orally questions using the following words according to the pattern viṣṇuḥ kaḥ (विष्णुः कः) and answer the questions in Sanskrit:**
+**A) Formulate oralmente domande con le seguenti parole secondo lo schema viṣṇuḥ kaḥ (विष्णुः कः) e rispondete alle domande in sanscrito:**
 
 śruti, śiva, brāhmaṇa, dvija (Plural), indrāṇī, dhenu, tulādhara, kālidāsa
 
 = श्रुति, शिव, ब्राह्मण, द्विज (बहुवचनम्), इन्द्राणी, धेनु, तुलाधर, कालिदास
 
-**B) Formulate questions for the following reading exercise according to the pattern etat kim (एतत्किम्) and answer the questions with the specified words and demonstrative pronouns, e.g. eṣa bālaḥ (एष बालः):**
+**B) Formulate domande per il seguente esercizio di lettura secondo lo schema etat kim (एतत्किम्) e rispondete alle domande con le parole indicate e i pronomi dimostrativi, ad es. eṣa bālaḥ (एष बालः):**
 
 ::: media
 ![](/images/lekt0401.jpg)
