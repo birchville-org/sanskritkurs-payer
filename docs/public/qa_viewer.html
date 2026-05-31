@@ -261,6 +261,58 @@
             flex: 1;
         }
 
+        /* Syntax-Referenz-Panel (nur im Editor-Modus sichtbar) */
+        #syntax-pane {
+            display: none;
+            width: 240px;
+            min-width: 200px;
+            flex-shrink: 0;
+            height: 100%;
+            overflow-y: auto;
+            padding: 1rem 1rem;
+            background: var(--color-parchment-dark);
+            border-right: 1px solid rgba(0,0,0,0.08);
+            font-size: 0.78rem;
+            line-height: 1.5;
+        }
+        .dark #syntax-pane { border-right-color: rgba(255,255,255,0.08); }
+        #syntax-pane h4 {
+            font-size: 0.68rem;
+            text-transform: uppercase;
+            letter-spacing: 0.07em;
+            opacity: 0.45;
+            margin: 1.1rem 0 0.35rem;
+            font-family: 'Inter', sans-serif;
+            font-weight: 600;
+        }
+        #syntax-pane h4:first-child { margin-top: 0; }
+        #syntax-pane .syn-row {
+            display: flex;
+            justify-content: space-between;
+            gap: 0.4rem;
+            padding: 0.1rem 0;
+            border-bottom: 1px solid rgba(0,0,0,0.04);
+        }
+        .dark #syntax-pane .syn-row { border-bottom-color: rgba(255,255,255,0.04); }
+        #syntax-pane code {
+            font-family: monospace;
+            font-size: 0.75rem;
+            background: rgba(0,0,0,0.06);
+            padding: 0.05em 0.25em;
+            border-radius: 3px;
+            white-space: nowrap;
+        }
+        .dark #syntax-pane code { background: rgba(255,255,255,0.1); }
+        #syntax-pane .syn-desc {
+            opacity: 0.55;
+            font-size: 0.72rem;
+            text-align: right;
+            flex-shrink: 0;
+        }
+
+        /* RESET / SAVE Buttons — nur im Editor-Modus */
+        #editor-actions { display: none; }
+
         iframe {
             width: 100%;
             height: 100%;
@@ -452,6 +504,9 @@
     <div class="header">
         <div class="controls-group group-left">
             <a href="/" class="home-link" title="Home">&#127963;&#65039;</a>
+            <span class="lesson-label">Lektion</span>
+            <input type="number" id="lesson-num" value="1" min="1" max="61" style="width: 65px;"
+                onchange="updateLesson()">
             <select id="left-lang" onchange="updateFrames()">
                 <option value="qa/lektion01.html" selected>Original HTML</option>
                 <option value="lektionen/lektion01">Deutsch (DE)</option>
@@ -476,6 +531,10 @@
                 <button class="control-btn" onclick="setViewMode('raw')" id="btn-raw">Raw Source</button>
                 <button class="control-btn" onclick="setViewMode('editor')" id="btn-editor">Editor</button>
             </div>
+            <div class="btn-group" id="editor-actions">
+                <button class="control-btn" onclick="resetEditor()" id="btn-reset">Reset</button>
+                <button class="control-btn" onclick="saveEditor()" id="btn-save">Save</button>
+            </div>
         </div>
 
         <div class="controls-group group-right">
@@ -496,12 +555,49 @@
                 <option value="hi/lektionen/lektion01">हिन्दी (HI)</option>
                 <option value="fr/lektionen/lektion01">Français (FR)</option>
             </select>
-            <span class="lesson-label">Lektion</span>
-            <input type="number" id="lesson-num" value="1" min="1" max="61" style="width: 65px;"
-                onchange="updateLesson()">
         </div>
     </div>
     <div class="container" id="main-container">
+        <div id="syntax-pane">
+            <h4>Standard Markdown</h4>
+            <div class="syn-row"><code># Titel</code><span class="syn-desc">H1–H6</span></div>
+            <div class="syn-row"><code>**fett**</code><span class="syn-desc">Fettdruck</span></div>
+            <div class="syn-row"><code>*kursiv*</code><span class="syn-desc">Kursiv</span></div>
+            <div class="syn-row"><code>`code`</code><span class="syn-desc">Inline-Code</span></div>
+            <div class="syn-row"><code>> Text</code><span class="syn-desc">Blockquote</span></div>
+            <div class="syn-row"><code>- Item</code><span class="syn-desc">Liste</span></div>
+            <div class="syn-row"><code>[Text](url)</code><span class="syn-desc">Link</span></div>
+            <div class="syn-row"><code>![Alt](pfad)</code><span class="syn-desc">Bild</span></div>
+            <div class="syn-row"><code>| A | B |</code><span class="syn-desc">Tabelle</span></div>
+            <div class="syn-row"><code>|---|---|</code><span class="syn-desc">Trennzeile</span></div>
+            <div class="syn-row"><code>---</code><span class="syn-desc">Linie</span></div>
+
+            <h4>Erweiterungen (markdown-it)</h4>
+            <div class="syn-row"><code>[[br]]</code><span class="syn-desc">Zeilenumbruch</span></div>
+            <div class="syn-row"><code>[[indent]]</code><span class="syn-desc">Einzug inline</span></div>
+
+            <h4>MultiMD-Tabellen</h4>
+            <div class="syn-row"><code>| A || B |</code><span class="syn-desc">Colspan</span></div>
+            <div class="syn-row"><code>| ^^ |</code><span class="syn-desc">Rowspan</span></div>
+
+            <h4>Container-Blöcke</h4>
+            <div class="syn-row"><code>::: grammar-box</code><span class="syn-desc">gelb</span></div>
+            <div class="syn-row"><code>::: grammar-box2</code><span class="syn-desc">orange</span></div>
+            <div class="syn-row"><code>::: important</code><span class="syn-desc">violett</span></div>
+            <div class="syn-row"><code>::: note-box</code><span class="syn-desc">grau</span></div>
+            <div class="syn-row"><code>::: indent</code><span class="syn-desc">eingerückt</span></div>
+            <div class="syn-row"><code>::: center</code><span class="syn-desc">zentriert</span></div>
+            <div class="syn-row"><code>::: media</code><span class="syn-desc">Bild-Block</span></div>
+            <div class="syn-row"><code>::: deleteme-box</code><span class="syn-desc">unsichtbar</span></div>
+            <div class="syn-row"><code>::: no-header</code><span class="syn-desc">Tabelle o. Kopf</span></div>
+            <div class="syn-row"><code>::: compact</code><span class="syn-desc">enge Tabelle</span></div>
+            <div class="syn-row"><code>::: laut-table</code><span class="syn-desc">Laut-Tabelle</span></div>
+            <div class="syn-row"><code>::: metrik-schema</code><span class="syn-desc">Metrik</span></div>
+
+            <h4>Devanāgarī</h4>
+            <div class="syn-row"><code>नमस्ते</code><span class="syn-desc">→ automatisch rot</span></div>
+            <div class="syn-row"><code>⟪text⟫</code><span class="syn-desc">explizit Sanskrit</span></div>
+        </div>
         <div class="pane" id="left-pane">
             <iframe id="left-frame" src="about:blank"></iframe>
             <textarea id="left-raw" class="raw-viewer" readonly></textarea>
@@ -638,22 +734,61 @@
             document.getElementById('btn-' + mode).classList.add('active');
             const editorInput = document.getElementById('editor-input');
             const editorPreview = document.getElementById('editor-preview');
-            if (mode === 'editor') {
-                // Bestehende vier Elemente ausblenden
+            const syntaxPane = document.getElementById('syntax-pane');
+            const editorActions = document.getElementById('editor-actions');
+            const isEditor = mode === 'editor';
+            // Sync-controls und Rendered/Raw ausgrauen wenn Editor aktiv
+            document.getElementById('sync-controls').style.opacity = isEditor ? '0.3' : '';
+            document.getElementById('sync-controls').style.pointerEvents = isEditor ? 'none' : '';
+            document.getElementById('btn-rendered').style.opacity = isEditor ? '0.3' : '';
+            document.getElementById('btn-rendered').style.pointerEvents = isEditor ? 'none' : '';
+            document.getElementById('btn-raw').style.opacity = isEditor ? '0.3' : '';
+            document.getElementById('btn-raw').style.pointerEvents = isEditor ? 'none' : '';
+            // Syntax-Panel und Editor-Aktionen ein-/ausblenden
+            syntaxPane.style.display = isEditor ? 'block' : 'none';
+            editorActions.style.display = isEditor ? 'flex' : 'none';
+            if (isEditor) {
                 leftFrame.style.display = 'none';
                 rightFrame.style.display = 'none';
                 leftRaw.style.display = 'none';
                 rightRaw.style.display = 'none';
-                // Editor-Elemente einblenden
                 editorInput.style.display = 'block';
                 editorPreview.style.display = 'block';
                 loadEditorContent();
             } else {
-                // Editor-Elemente ausblenden
                 editorInput.style.display = 'none';
                 editorPreview.style.display = 'none';
                 updateFrames();
             }
+        }
+
+        function resetEditor() {
+            loadEditorContent();
+        }
+
+        function saveEditor() {
+            const editorInput = document.getElementById('editor-input');
+            const btn = document.getElementById('btn-save');
+            const text = editorInput.value;
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(text).then(() => {
+                    btn.textContent = '✓ Kopiert';
+                    setTimeout(() => { btn.textContent = 'Save'; }, 1800);
+                }).catch(() => { fallbackSave(text, btn); });
+            } else {
+                fallbackSave(text, btn);
+            }
+        }
+
+        function fallbackSave(text, btn) {
+            const a = document.createElement('a');
+            const num = document.getElementById('lesson-num').value.padStart(2, '0');
+            a.download = 'lektion' + num + '.md';
+            a.href = URL.createObjectURL(new Blob([text], { type: 'text/markdown' }));
+            a.click();
+            URL.revokeObjectURL(a.href);
+            btn.textContent = '✓ Download';
+            setTimeout(() => { btn.textContent = 'Save'; }, 1800);
         }
 
         // --- Header matching utilities ---
