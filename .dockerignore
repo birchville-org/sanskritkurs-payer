@@ -1,8 +1,6 @@
 node_modules
 .git
 .github
-# WICHTIG: Wir ignorieren deinen lokalen dist-Ordner!
-docs/.vitepress/dist
-# Und alles andere, was nicht Code ist
+# dist/ wird vom Workflow nativ gebaut und dann in Docker kopiert — NICHT ignorieren
 *.log
 .DS_Store

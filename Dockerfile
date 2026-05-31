@@ -1,23 +1,7 @@
-# Stage 1: Build
-FROM node:20-alpine AS builder
-WORKDIR /app
-
-# Neu: npm global auf die aktuellster Version bringen
-RUN npm install -g npm@latest
-
-# Nur Package-Dateien kopieren für schnellen Cache
-COPY package*.json ./
-RUN npm install
-
-# Den Rest kopieren und bauen
-COPY . .
-RUN npm run docs:build
-
-# Stage 2: Serve
+# VitePress wird nativ im GitHub Actions Workflow gebaut (AMD64, schnell).
+# Dieses Dockerfile kopiert nur das fertige dist/ — kein Node.js via QEMU.
 FROM nginx:alpine
-# Hier kopieren wir das Ergebnis aus dem Builder-Schritt
-COPY --from=builder /app/docs/.vitepress/dist /usr/share/nginx/html
+COPY docs/.vitepress/dist /usr/share/nginx/html
 COPY nginx.conf /etc/nginx/conf.d/default.conf
-
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
