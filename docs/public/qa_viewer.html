@@ -581,7 +581,10 @@
                     return;
                 }
             }
-            editorPreview.innerHTML = window.md.render(editorInput.value);
+            let html = window.md.render(editorInput.value);
+            // Fallback: convert any remaining [[br]] literals to <br> (safe inside <td>/<th>)
+            html = html.replace(/\[\[br\]\]/g, '<br>');
+            editorPreview.innerHTML = html;
         }
 
         async function loadEditorContent() {
@@ -926,11 +929,14 @@
         updateFrames();
     </script>
 
+    <!-- multimd loaded as UMD global — more reliable than esm.sh CJS→ESM conversion -->
+    <script src="https://unpkg.com/markdown-it-multimd-table@4.2.3/dist/markdown-it-multimd-table.min.js"></script>
+
     <script type="module">
         // html: true — intentional for author-only preview tool; mirrors VitePress internal default (see RESEARCH.md A1)
         import markdownit from 'https://esm.sh/markdown-it@14.2.0';
         import container  from 'https://esm.sh/markdown-it-container@4.0.0';
-        import multimd    from 'https://esm.sh/markdown-it-multimd-table@4.2.3';
+        const multimd = window.markdownItMultimdTable;
 
         function buildRenderer() {
             const md = markdownit({ html: true, breaks: true, linkify: false });
