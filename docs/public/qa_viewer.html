@@ -337,6 +337,38 @@
         .home-link:hover {
             transform: scale(1.1);
         }
+
+        .editor-input {
+            display: none;
+            width: 100%;
+            height: 100%;
+            resize: none;
+            border: none;
+            outline: none;
+            padding: 1.5rem;
+            font-family: 'Source Serif 4', serif;
+            font-size: 1rem;
+            line-height: 1.6;
+            background: var(--color-parchment);
+            color: var(--color-ink);
+            box-sizing: border-box;
+        }
+
+        .dark .editor-input {
+            background: var(--color-parchment);
+            color: var(--color-ink);
+        }
+
+        .editor-preview {
+            display: none;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            padding: 1.5rem;
+            background: var(--color-parchment);
+            color: var(--color-ink);
+            box-sizing: border-box;
+        }
     </style>
 </head>
 <body class="light">
@@ -365,6 +397,7 @@
             <div class="btn-group" id="view-controls">
                 <button class="control-btn active" onclick="setViewMode('rendered')" id="btn-rendered">Rendered</button>
                 <button class="control-btn" onclick="setViewMode('raw')" id="btn-raw">Raw Source</button>
+                <button class="control-btn" onclick="setViewMode('editor')" id="btn-editor">Editor</button>
             </div>
         </div>
 
@@ -395,11 +428,13 @@
         <div class="pane" id="left-pane">
             <iframe id="left-frame" src="about:blank"></iframe>
             <textarea id="left-raw" class="raw-viewer" readonly></textarea>
+            <textarea id="editor-input" class="editor-input" spellcheck="false" placeholder="Markdown hier eingeben..." style="display:none"></textarea>
         </div>
         <div class="resizer" id="drag-bar"></div>
         <div class="pane" id="right-pane">
             <iframe id="right-frame" src="about:blank"></iframe>
             <textarea id="right-raw" class="raw-viewer" readonly></textarea>
+            <div id="editor-preview" class="editor-preview" style="display:none"></div>
         </div>
     </div>
 
@@ -455,12 +490,90 @@
             document.getElementById('btn-' + mode).classList.add('active');
         }
 
+        // --- Editor ---
+        window.md = null;
+
+        function renderPreview() {
+            const editorInput = document.getElementById('editor-input');
+            const editorPreview = document.getElementById('editor-preview');
+            if (!window.md) {
+                if (typeof window.buildRenderer === 'function') {
+                    window.md = window.buildRenderer();
+                } else {
+                    editorPreview.innerHTML = '<p style="opacity:0.5">Renderer wird geladen…</p>';
+                    return;
+                }
+            }
+            editorPreview.innerHTML = window.md.render(editorInput.value);
+        }
+
+        async function loadEditorContent() {
+            const editorInput = document.getElementById('editor-input');
+            const num = lessonInput.value.padStart(2, '0');
+            const leftVal = document.getElementById('left-lang').value;
+            let mdUrl;
+            if (leftVal.includes('lektionen')) {
+                const path = leftVal.replace(/lektion\d+/, 'lektion' + num);
+                mdUrl = baseUrl + path + '.md';
+            } else {
+                // Pfad ist kein Lektionen-Pfad (z.B. qa/lektion01.html) — leere Textarea
+                editorInput.value = '';
+                renderPreview();
+                return;
+            }
+            try {
+                const r = await fetch(mdUrl);
+                if (!r.ok) throw new Error('HTTP ' + r.status);
+                editorInput.value = await r.text();
+            } catch(_) {
+                editorInput.value = '';
+            }
+            renderPreview();
+        }
+
+        let editorDebounce = null;
+        document.addEventListener('DOMContentLoaded', () => {
+            const editorInput = document.getElementById('editor-input');
+            editorInput.addEventListener('input', () => {
+                clearTimeout(editorDebounce);
+                editorDebounce = setTimeout(renderPreview, 300);
+            });
+        });
+        // Fallback: register immediately if DOM already loaded
+        (function() {
+            const editorInput = document.getElementById('editor-input');
+            if (editorInput && !editorInput._debounceRegistered) {
+                editorInput._debounceRegistered = true;
+                editorInput.addEventListener('input', () => {
+                    clearTimeout(editorDebounce);
+                    editorDebounce = setTimeout(renderPreview, 300);
+                });
+            }
+        })();
+
         // --- View Mode ---
         function setViewMode(mode) {
             viewMode = mode;
             document.querySelectorAll('#view-controls .control-btn').forEach(b => b.classList.remove('active'));
             document.getElementById('btn-' + mode).classList.add('active');
-            updateFrames();
+            const editorInput = document.getElementById('editor-input');
+            const editorPreview = document.getElementById('editor-preview');
+            if (mode === 'editor') {
+                // Bestehende vier Elemente ausblenden
+                leftFrame.style.display = 'none';
+                rightFrame.style.display = 'none';
+                leftRaw.style.display = 'none';
+                rightRaw.style.display = 'none';
+                // Editor-Elemente einblenden
+                editorInput.style.display = 'block';
+                editorPreview.style.display = 'block';
+                loadEditorContent();
+            } else {
+                // Editor-Elemente ausblenden
+                editorInput.style.display = 'none';
+                editorPreview.style.display = 'none';
+                updateFrames();
+            }
         }
 
         // --- Header matching utilities ---
