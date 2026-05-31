@@ -337,6 +337,38 @@
         .home-link:hover {
             transform: scale(1.1);
         }
+
+        .editor-input {
+            display: none;
+            width: 100%;
+            height: 100%;
+            resize: none;
+            border: none;
+            outline: none;
+            padding: 1.5rem;
+            font-family: 'Source Serif 4', serif;
+            font-size: 1rem;
+            line-height: 1.6;
+            background: var(--color-parchment);
+            color: var(--color-ink);
+            box-sizing: border-box;
+        }
+
+        .dark .editor-input {
+            background: var(--color-parchment);
+            color: var(--color-ink);
+        }
+
+        .editor-preview {
+            display: none;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            padding: 1.5rem;
+            background: var(--color-parchment);
+            color: var(--color-ink);
+            box-sizing: border-box;
+        }
     </style>
 </head>
 <body class="light">
@@ -365,6 +397,7 @@
             <div class="btn-group" id="view-controls">
                 <button class="control-btn active" onclick="setViewMode('rendered')" id="btn-rendered">Rendered</button>
                 <button class="control-btn" onclick="setViewMode('raw')" id="btn-raw">Raw Source</button>
+                <button class="control-btn" onclick="setViewMode('editor')" id="btn-editor">Editor</button>
             </div>
         </div>
 
@@ -395,11 +428,13 @@
         <div class="pane" id="left-pane">
             <iframe id="left-frame" src="about:blank"></iframe>
             <textarea id="left-raw" class="raw-viewer" readonly></textarea>
+            <textarea id="editor-input" class="editor-input" spellcheck="false" placeholder="Markdown hier eingeben..." style="display:none"></textarea>
         </div>
         <div class="resizer" id="drag-bar"></div>
         <div class="pane" id="right-pane">
             <iframe id="right-frame" src="about:blank"></iframe>
             <textarea id="right-raw" class="raw-viewer" readonly></textarea>
+            <div id="editor-preview" class="editor-preview" style="display:none"></div>
         </div>
     </div>
 
