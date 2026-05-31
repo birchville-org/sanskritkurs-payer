@@ -370,6 +370,83 @@
             box-sizing: border-box;
         }
     </style>
+    <style id="editor-preview-styles">
+        /* === Editor-Preview Container Styles ===
+           All rules scoped to .editor-preview to prevent CSS leaking into qa_viewer UI (Pitfall 3).
+           Source values from docs/.vitepress/theme/custom.css
+        */
+
+        /* LAYOUT */
+        .editor-preview { font-family: 'Source Serif 4', serif; font-size: 1.1rem; line-height: 1.55;
+            color: var(--color-ink); background: var(--color-parchment); padding: 2rem;
+            overflow-y: auto; height: 100%; box-sizing: border-box; }
+
+        /* TYPOGRAFIE */
+        .editor-preview h1, .editor-preview h2, .editor-preview h3 { font-family: 'Source Serif 4', serif; }
+        .editor-preview p, .editor-preview li { font-size: 1.1rem; line-height: 1.55; }
+
+        /* DEVANAGARI — Hard Rule CLAUDE.md: always red */
+        .editor-preview .sanskrit-dev { color: #b22222; font-size: 1.15em; font-weight: 600; }
+        .editor-preview table .sanskrit-dev { font-size: 1.35em; }
+
+        /* GRAMMAR-BOX */
+        .editor-preview .grammar-box { background-color: #fefce8; border-left: 5px solid #eab308;
+            padding: 1.25rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0; font-size: 1.1rem; }
+        .dark .editor-preview .grammar-box { background-color: #241500; border-left-color: #eab308; }
+
+        /* GRAMMAR-BOX2 */
+        .editor-preview .grammar-box2 { background-color: #ffedd5; border-left: 5px solid #ea580c;
+            padding: 1.25rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0; font-weight: 600; }
+        .dark .editor-preview .grammar-box2 { background-color: #361e04; border-left-color: #ea580c; }
+
+        /* DELETEME-BOX — invisible per RESEARCH.md */
+        .editor-preview .deleteme-box { display: none !important; }
+
+        /* NOTE-BOX */
+        .editor-preview .note-box { background-color: rgba(72,98,110,0.03);
+            border-left: 3px solid #48626e; padding: 0.75rem 1.25rem; margin: 1.5rem 0; }
+
+        /* IMPORTANT */
+        .editor-preview .important { background-color: #f5f3ff; border-left: 5px solid #8b5cf6;
+            padding: 1.25rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0; }
+
+        /* INDENT */
+        .editor-preview .indent { padding-left: 2.5rem; margin: 0; }
+
+        /* CENTER */
+        .editor-preview .center { text-align: center; margin: 2.5rem 0; }
+        .editor-preview .center p { text-align: center; }
+
+        /* MEDIA */
+        .editor-preview .media { display: flex; flex-direction: column; align-items: center; margin: 2.5rem 0; }
+        .editor-preview .media p { text-align: center; font-size: 0.95rem; }
+
+        /* METRIK-SCHEMA */
+        .editor-preview .metrik-schema { font-family: monospace; letter-spacing: 0.1em; }
+
+        /* TABELLEN */
+        .editor-preview table { border-collapse: collapse; border: 1px solid #94a3b8; margin: 1rem 0; width: auto; max-width: 100%; }
+        .editor-preview td, .editor-preview th { padding: 0.6rem 0.8rem; border: 1px solid #94a3b8; }
+        .editor-preview tr:nth-child(even) { background-color: #f1eee7; }
+        .dark .editor-preview tr:nth-child(even) { background-color: #0f1e35; }
+        .editor-preview th { font-weight: 600; }
+
+        /* NO-HEADER — hide thead */
+        .editor-preview .no-header table thead { display: none !important; }
+        .editor-preview .no-header table { border-top: 1px solid #94a3b8; }
+
+        /* COMPACT — tighter cell padding */
+        .editor-preview .compact table td, .editor-preview .compact table th { padding: 0.2rem 0.5rem; }
+
+        /* LAUT-TABLE */
+        .editor-preview .laut-table table td:first-child { white-space: nowrap; min-width: 9rem; font-weight: 600; }
+
+        /* BLOCKQUOTES inside grammar-box — no separate border */
+        .editor-preview .grammar-box blockquote { border-left: none; background-color: transparent;
+            padding-left: 2rem; margin: 0.5rem 0; }
+        .editor-preview .grammar-box2 blockquote { border-left: none; background-color: transparent;
+            padding-left: 2rem; }
+    </style>
 </head>
 <body class="light">
     <div class="header">
