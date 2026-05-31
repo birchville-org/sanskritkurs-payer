@@ -69,11 +69,13 @@ High-fidelity manual reconstruction and validation of Sanskrit Lesson 27.
 
 ### Phase 15: VitePress-aware Markdown Editor ⭐ PRIORITY
 Der Kern von v1.3: ein Split-Pane-Editor mit Live-Vorschau, der VitePress-Containersyntax korrekt rendert.
-- [ ] **Plan 15.1**: Architektur-Design — Client-seitiger Renderer mit markdown-it + VitePress-Plugins.
-- [ ] **Plan 15.2**: Editor-UI — Split-Pane (CodeMirror/Textarea links, Live-Preview rechts).
-- [ ] **Plan 15.3**: Container-Support — `::: grammar-box`, `::: indent`, `::: deleteme-box`, `::: media`, `::: no-header`.
-- [ ] **Plan 15.4**: `[[br]]` Line-Break Handling & MultiMD-Table-Rendering.
-- [ ] **Plan 15.5**: Integration in QA-Viewer (`qa_viewer.html`) als eigener Tab/Modus.
+**Plans:** 4 plans
+
+- [ ] 15-01-PLAN.md — buildRenderer-Modul: markdown-it + alle 12 Container + scholarly_fixes in qa_viewer.html
+- [ ] 15-02-PLAN.md — Editor-Tab UI: Button, Textarea, Preview-Div, setViewMode, Debounce, Lesson-Preload
+- [ ] 15-03-PLAN.md — Container-CSS: alle Stile gescoped auf .editor-preview, Dark-Mode-Overrides
+- [ ] 15-04-PLAN.md — Integration & Build-Gate: [[br]]-Tabellen-Verifikation, visuelle QA, npm run docs:build
+
 - **Erfolgskriterien**:
     - Editor rendert alle VitePress-Container 1:1 wie der Produktions-Build.
     - Änderungen sind sofort in der Vorschau sichtbar.
@@ -169,7 +171,7 @@ Plans:
 | 12 | v1.2 | 4/4 | Complete | 2026-04-26 |
 | 13 | v1.2 | 1/1 | Complete | 2026-05-08 |
 | 14 | v1.2 | 3/3 | Complete | 2026-05-16 |
-| 15 | v1.3 | 0/5 | Pending | — |
+| 15 | v1.3 | 0/4 | Pending | — |
 | 16 | v1.3 | 0/4 | Pending | — |
 | 17 | v1.3 | 0/3 | Pending | — |
 
