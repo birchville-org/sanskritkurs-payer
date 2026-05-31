@@ -687,22 +687,17 @@
             const editorInput = document.getElementById('editor-input');
             const num = lessonInput.value.padStart(2, '0');
             const leftVal = document.getElementById('left-lang').value;
-            let mdUrl;
-            if (leftVal.includes('lektionen')) {
-                const path = leftVal.replace(/lektion\d+/, 'lektion' + num);
-                mdUrl = baseUrl + path + '.md';
-            } else {
-                // Pfad ist kein Lektionen-Pfad (z.B. qa/lektion01.html) — leere Textarea
-                editorInput.value = '';
-                renderPreview();
-                return;
-            }
+            // Construct .md URL — fall back to German source for non-lektionen paths (e.g. Original HTML)
+            let mdPath = leftVal.includes('lektionen')
+                ? leftVal.replace(/lektion\d+/, 'lektion' + num)
+                : 'lektionen/lektion' + num;
+            const mdUrl = baseUrl + mdPath + '.md';
             try {
                 const r = await fetch(mdUrl);
                 if (!r.ok) throw new Error('HTTP ' + r.status);
                 editorInput.value = await r.text();
-            } catch(_) {
-                editorInput.value = '';
+            } catch(e) {
+                editorInput.value = '<!-- Fehler: Raw Source konnte nicht geladen werden.\n    ' + mdUrl + ' -->';
             }
             renderPreview();
         }
