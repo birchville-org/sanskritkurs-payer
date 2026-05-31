@@ -69,12 +69,12 @@ High-fidelity manual reconstruction and validation of Sanskrit Lesson 27.
 
 ### Phase 15: VitePress-aware Markdown Editor ⭐ PRIORITY
 Der Kern von v1.3: ein Split-Pane-Editor mit Live-Vorschau, der VitePress-Containersyntax korrekt rendert.
-**Plans:** 3/4 plans executed
+**Plans:** 4/4 plans complete
 
 - [x] 15-01-PLAN.md — buildRenderer-Modul: markdown-it + alle 12 Container + scholarly_fixes in qa_viewer.html
 - [x] 15-02-PLAN.md — Editor-Tab UI: Button, Textarea, Preview-Div, setViewMode, Debounce, Lesson-Preload
 - [x] 15-03-PLAN.md — Container-CSS: alle Stile gescoped auf .editor-preview, Dark-Mode-Overrides
-- [ ] 15-04-PLAN.md — Integration & Build-Gate: [[br]]-Tabellen-Verifikation, visuelle QA, npm run docs:build
+- [x] 15-04-PLAN.md — Integration & Build-Gate: [[br]]-Tabellen-Verifikation, visuelle QA, npm run docs:build
 
 - **Erfolgskriterien**:
     - Editor rendert alle VitePress-Container 1:1 wie der Produktions-Build.
@@ -171,7 +171,7 @@ Plans:
 | 12 | v1.2 | 4/4 | Complete | 2026-04-26 |
 | 13 | v1.2 | 1/1 | Complete | 2026-05-08 |
 | 14 | v1.2 | 3/3 | Complete | 2026-05-16 |
-| 15 | v1.3 | 3/4 | In Progress|  |
+| 15 | v1.3 | 4/4 | Complete   | 2026-05-31 |
 | 16 | v1.3 | 0/4 | Pending | — |
 | 17 | v1.3 | 0/3 | Pending | — |
 
