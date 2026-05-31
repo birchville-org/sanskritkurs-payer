@@ -13,6 +13,7 @@
 - [ ] **I18N-08**: Einrichtung der rätoromanischen Sprachversion (`/rm/`) inkl. Sidebar-Struktur.
 - [ ] **I18N-09**: Einrichtung der tamilischen Sprachversion (`/ta/`) inkl. Sidebar-Struktur.
 - [ ] **I18N-10**: Massenübersetzung aller 61 Lektionen via lan_translate.py → nyx.local:8000.
+- [ ] **I18N-11**: Einrichtung der Punjabi-Sprachversion (`/pa/`) inkl. Gurmukhi-Locale und Sidebar-Struktur.
 
 ## 3. Scholarly Polish & Developer Tools (POLISH) — sekundär
 - [ ] **POLISH-01**: Standardisierung aller Bildunterschriften auf L16-Ref Format (einzeilig, Devanāgarī, Lizenzlink).
@@ -33,6 +34,7 @@
 | I18N-08 | Romansh Setup | 16 | Pending |
 | I18N-09 | Tamil Setup | 16 | Pending |
 | I18N-10 | Mass Translation | 16 | Pending |
+| I18N-11 | Punjabi Setup | 12 | Pending |
 | POLISH-01 | Image Captions | 17 | Pending |
 | POLISH-02 | License Audit | 17 | Pending |
 | POLISH-03 | Comparison Mode | 17 | Pending |

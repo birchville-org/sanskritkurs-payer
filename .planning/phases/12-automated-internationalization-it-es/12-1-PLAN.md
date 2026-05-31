@@ -20,6 +20,7 @@ autonomous: true
 requirements:
   - I18N-09
   - I18N-10
+  - I18N-11
 
 must_haves:
   truths:

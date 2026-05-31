@@ -18,6 +18,7 @@ requirements:
   - I18N-06
   - I18N-09
   - I18N-10
+  - I18N-11
 
 must_haves:
   truths:
@@ -125,7 +126,7 @@ head -50 /Volumes/SanDisk1TB/proj/Payer/docs/pa/lektionen/lektion01.md
 
   <verify>
     <automated>
-grep -rn "<div\|<span\|<table\|<br>\|<p>" /Volumes/SanDisk1TB/proj/Payer/docs/es/lektionen/ /Volumes/SanDisk1TB/proj/Payer/docs/ta/lektionen/ /Volumes/SanDisk1TB/proj/Payer/docs/pa/lektionen/ 2>/dev/null | wc -l
+grep -rn "<div\|<span\|<table\|<br>\|<p>" /Volumes/SanDisk1TB/proj/Payer/docs/es/lektionen/ /Volumes/SanDisk1TB/proj/Payer/docs/ta/lektionen/ /Volumes/SanDisk1TB/proj/Payer/docs/pa/lektionen/ 2>/dev/null | wc -l | tr -d ' ' | grep -x "0"
     </automated>
   </verify>
 
