@@ -490,12 +490,90 @@
             document.getElementById('btn-' + mode).classList.add('active');
         }
 
+        // --- Editor ---
+        window.md = null;
+
+        function renderPreview() {
+            const editorInput = document.getElementById('editor-input');
+            const editorPreview = document.getElementById('editor-preview');
+            if (!window.md) {
+                if (typeof window.buildRenderer === 'function') {
+                    window.md = window.buildRenderer();
+                } else {
+                    editorPreview.innerHTML = '<p style="opacity:0.5">Renderer wird geladen…</p>';
+                    return;
+                }
+            }
+            editorPreview.innerHTML = window.md.render(editorInput.value);
+        }
+
+        async function loadEditorContent() {
+            const editorInput = document.getElementById('editor-input');
+            const num = lessonInput.value.padStart(2, '0');
+            const leftVal = document.getElementById('left-lang').value;
+            let mdUrl;
+            if (leftVal.includes('lektionen')) {
+                const path = leftVal.replace(/lektion\d+/, 'lektion' + num);
+                mdUrl = baseUrl + path + '.md';
+            } else {
+                // Pfad ist kein Lektionen-Pfad (z.B. qa/lektion01.html) — leere Textarea
+                editorInput.value = '';
+                renderPreview();
+                return;
+            }
+            try {
+                const r = await fetch(mdUrl);
+                if (!r.ok) throw new Error('HTTP ' + r.status);
+                editorInput.value = await r.text();
+            } catch(_) {
+                editorInput.value = '';
+            }
+            renderPreview();
+        }
+
+        let editorDebounce = null;
+        document.addEventListener('DOMContentLoaded', () => {
+            const editorInput = document.getElementById('editor-input');
+            editorInput.addEventListener('input', () => {
+                clearTimeout(editorDebounce);
+                editorDebounce = setTimeout(renderPreview, 300);
+            });
+        });
+        // Fallback: register immediately if DOM already loaded
+        (function() {
+            const editorInput = document.getElementById('editor-input');
+            if (editorInput && !editorInput._debounceRegistered) {
+                editorInput._debounceRegistered = true;
+                editorInput.addEventListener('input', () => {
+                    clearTimeout(editorDebounce);
+                    editorDebounce = setTimeout(renderPreview, 300);
+                });
+            }
+        })();
+
         // --- View Mode ---
         function setViewMode(mode) {
             viewMode = mode;
             document.querySelectorAll('#view-controls .control-btn').forEach(b => b.classList.remove('active'));
             document.getElementById('btn-' + mode).classList.add('active');
-            updateFrames();
+            const editorInput = document.getElementById('editor-input');
+            const editorPreview = document.getElementById('editor-preview');
+            if (mode === 'editor') {
+                // Bestehende vier Elemente ausblenden
+                leftFrame.style.display = 'none';
+                rightFrame.style.display = 'none';
+                leftRaw.style.display = 'none';
+                rightRaw.style.display = 'none';
+                // Editor-Elemente einblenden
+                editorInput.style.display = 'block';
+                editorPreview.style.display = 'block';
+                loadEditorContent();
+            } else {
+                // Editor-Elemente ausblenden
+                editorInput.style.display = 'none';
+                editorPreview.style.display = 'none';
+                updateFrames();
+            }
         }
 
         // --- Header matching utilities ---
