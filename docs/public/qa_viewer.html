@@ -936,7 +936,7 @@
         // html: true — intentional for author-only preview tool; mirrors VitePress internal default (see RESEARCH.md A1)
         import markdownit from 'https://esm.sh/markdown-it@14.2.0';
         import container  from 'https://esm.sh/markdown-it-container@4.0.0';
-        const multimd = window.markdownItMultimdTable;
+        const multimd = window.markdownitMultimdTable;
 
         function buildRenderer() {
             const md = markdownit({ html: true, breaks: true, linkify: false });
