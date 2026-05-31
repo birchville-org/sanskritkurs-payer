@@ -1,116 +1,137 @@
+---
+title: Урок 26
+subtitle: "Закон за церебрализация на -s- вътре в думата"
+lesson_id: 26
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 26
 
-# Lektion 26
-
-## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
-
-::: grammar-box
-**-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — außer **a, ā** — unmittelbar oder nur durch **Anusvāra** oder **Visarga** getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt. &lt;!-- TODO: Fallback translation --&gt;
-
-Diesem Sandhi folgt auch **dus-** vor tonlosen Gutturalen und Labialen in Komposita. &lt;!-- TODO: Fallback translation --&gt;
-
-*Beispiele:* &lt;!-- TODO: Fallback translation --&gt;
-- **teṣām** (aus: *te-sām*) &lt;!-- TODO: Fallback translation --&gt;
-- aber: **tāsām** (*tā-sām*) &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
+## 26.1. Закон за церебрализация на -s- в средата на думата
 
 ::: grammar-box
-Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die entsprechenden Retroflexe ersetzt: &lt;!-- TODO: Fallback translation --&gt;
+**-s-** се заменя с **-ṣ-**, когато **k, r, l** или **гласна** — с изключение на **a, ā** — предхождат непосредствено или само разделени от **अनुस्वार** или **विसर्ग** и следва друг звук, различен от **ṛ, r**.
 
-- **iṣ** + **-ta** = **iṣṭa** (इष्ट) &lt;!-- TODO: Fallback translation --&gt;
-- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (तिष्ठति) &lt;!-- TODO: Fallback translation --&gt;
-  *(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)* &lt;!-- TODO: Fallback translation --&gt;
+На този санхи се подчинява и **दुस्-** пред беззвучни гърлени и устни съгласни в съставни думи.
 :::
 
-## 26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
+*Примери:*
+::: indent
+**तेषाम्** (от: *te-sām*)
+
+но: **तासाम्** (*tā-sām*)
+:::
+
+## 26.2. Закон за церебрализация на дентални в средата на думата
 
 ::: grammar-box
-**-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ** &lt;!-- TODO: Fallback translation --&gt;
+Денталните спирачни звуци се заменят с съответните ретрофлексни след ретрофлексни (включително **-ṣ-**):
+
+- **iṣ** + **-ta** = **iṣṭa** (इष्ट)
+- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (तिष्ठति)
+  *(**ṣ** поради предхождащото **i**, **ṭh** поради следващото **ṣ**)*
 :::
 
-## 26.4. Grassmannsches Hauchdissimilationsgesetz
+## 26.3. Вортсандхи за палатални, гутурални, ṣ, h + -s
 
 ::: grammar-box
-**Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:** &lt;!-- TODO: Fallback translation --&gt;
+**-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
-
-> \*dhu(gh) » du(g)h &lt;!-- TODO: Fallback translation --&gt;
-
-**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.** &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiele: siehe unten Futur von  दुह् und  बुध् &lt;!-- TODO: Fallback translation --&gt;
+Примери вижте по-долу
 :::
+
+## 26.4. Закон за диссимиляция на дъха на Грасман
+
+:::: grammar-box
+**Непосредствено следствие от две аспирати (аспирата - гласна - аспирата) е загубата на дъха на първия звук:**
+
+Пример:
+
+::: indent
+\*dhu(gh) » du(g)h
+:::
+
+**Ако поради звукови закони вторият звук загуби дъха си, тогава дъхът се появява отново при първия звук.**
+
+Примери: вижте по-долу бъдеще време на  दुह् и  बुध्
+::::
 
 ::: media
 ![](/images/lekt2601.jpg)
-Abb.: Hermann Graßmann
-(Bildquelle: [Details](/licenses#lekt2601)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Херман Грасман
+(Източник на изображението: [Подробности](/bg/licenses#lekt2601))
 :::
 
-## 26.5. Wortsandhi für -m, -n vor Zischlaut
+## 26.5. Вортсандхи за -m, -n пред швиращи съгласни
 
 ::: grammar-box
-**Vor Zischlauten werden -n und -m durch -ṃ- ersetzt:** &lt;!-- TODO: Fallback translation --&gt;
+**Пред швиращи съгласни -n и -m се заменят с -ṃ-:**
 
-Beispiel: s. unten Futur von मन् &lt;!-- TODO: Fallback translation --&gt;
+Пример: вж. по-долу бъдеще време на मन्
 :::
 
-## 26.6. Употреба des einfachen Бъдеще времеs (ऌत्, भविष्यन्ती f.)
+## 26.6. Употребление на простото бъдеще време (ऌत्, भविष्यन्ती f.)
 
 ::: grammar-box
-**Das Einfache Futur (ऌत्, भविष्यन्ती f.) drückt aus:** &lt;!-- TODO: Fallback translation --&gt;
+**Простото бъдеще време (ऌत्, भविष्यन्ती f.) изразява:**
 
-- **die Zukunft** &lt;!-- TODO: Fallback translation --&gt;
-- **eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")** &lt;!-- TODO: Fallback translation --&gt;
-- **eine Erwartung ("es wird so geschehen")** &lt;!-- TODO: Fallback translation --&gt;
-- **Hoffnung** &lt;!-- TODO: Fallback translation --&gt;
-- **Befürchtung** &lt;!-- TODO: Fallback translation --&gt;
-- **Wahrscheinlichkeit** &lt;!-- TODO: Fallback translation --&gt;
-- **Meinung des Sprechenden** &lt;!-- TODO: Fallback translation --&gt;
-- **Befehl** &lt;!-- TODO: Fallback translation --&gt;
+- **бъдещето**
+- **предполагаемо или желано действие („аз ще отидя“, „аз искам да отидя“)**
+- **очакване („така ще се случи“)**
+- **надежда**
+- **притеснение**
+- **вероятност**
+- **мнение на говорещия**
+- **заповед**
 
-**Das Futur steht teilweise in Konkurrenz zum Optativ (siehe später).** &lt;!-- TODO: Fallback translation --&gt;
+**Бъдещето време частично конкурира оптива (вж. по-късно).**
 :::
 
-z. B. व्रतं करिष्यन्देवगृहं गच्छति = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel." &lt;!-- TODO: Fallback translation --&gt;
+напр. व्रतं करिष्यन्देवगृहं गच्छति = „Онзи, който иска да даде обет, отива в храма.“
+
 
 ::: media
 ![](/images/lekt2602.jpg)
-Abb.: व्रतं करिष्यन्देवगृहं गच्छति
-(Bildquelle: [Details](/licenses#lekt2602)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: व्रतं करिष्यन्देवगृहं गच्छति
+(Източник на изображението: [Подробности](/bg/licenses#lekt2602))
 :::
 
-## 26.7. Образоване des einfachen Бъдеще времеs (ऌत्, भविष्यन्ती  f.)
+## 26.7. Образуване на просто бъдеще време (ऌत्, भविष्यन्ती  ж.)
 
-::: grammar-box
-**Einfaches Futur:** &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+**Просто бъдеще време:**
 
-> **Futursstamm + Primärendung** &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+**Бъдещоосновна форма + първични окончания**
+:::
+::::
 
----
+:::: grammar-box
+**Бъдещоосновна форма:**
 
-**Futurstamm:** &lt;!-- TODO: Fallback translation --&gt;
-
-> **(meist) hochstufige Wurzel + -sya**   &lt;!-- TODO: Fallback translation --&gt;
-> **oder**   &lt;!-- TODO: Fallback translation --&gt;
-> **(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)** &lt;!-- TODO: Fallback translation --&gt;
-
-**Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!**  
-**Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv überein.**  
-**Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.**  
-**Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:** &lt;!-- TODO: Fallback translation --&gt;
-
-> कृ :  करिष्यन्त्, करिष्यन्ती / करिष्यती
+::: indent
+**(обикновено) силна степен на корена + -sya**  
+**или**  
+**(обикновено) силна степен на корена + -i- + -sya (= - iṣya)**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+**Кой корен има каква форма на бъдещоосновна форма, трябва да се учи заедно с основните форми!**  
+**Обикновено формата на корена и свързващата гласна на бъдещето съвпадат с инфинитива.**  
+**Някои корени могат по избор да образуват бъдеще време с и без свързваща гласна -i-.**  
+**Причастие Parasmaipada на бъдещето време се образува чрез добавяне на суфикса -nt- към бъдещоосновната форма, женски род факултативно на -ntī или -tī:**
+
+::: indent
+कृ :  करिष्यन्त्, करिष्यन्ती / करिष्यती
+:::
+::::
+
+Примери:
 
 :::: grammar-box
 
-| Корен | Бъдеще време 3. sg. P (Ā) |
+| Корен | Бъдеще време 3. ед. ч. P (Ā) |
 | :--- | :--- |
 | नी | नेष्यति |
 | भू | भविष्यति (भो +  इ + स्य + ति) |
@@ -123,16 +144,16 @@ Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 | पद् | पत्स्यति |
 | अद् | अत्स्यति |
 | दुह् | धोक्ष्यति (दोग् +  स्य + ति) |
-| बुध् | भोत्स्यते (बोध् vor Stimmlosem = भोत्) |
+| बुध् | भोत्स्यते (बोध् пред глухи = भोत्) |
 | मन् | मंस्यते (मन् + स्य + ते) |
 
 ::::
 
 ## 26.8. Упражнение
 
-Bilden Sie die in Zahl, Person und Genus verbi (Parasmaipada, Ātmanepada) entsprechenden Futurformen:   &lt;!-- TODO: Fallback translation --&gt;
-
-A) ohne Bindevokal -i-: &lt;!-- TODO: Fallback translation --&gt;
+Образувате съответните форми на бъдещето време по число, лице и род (Парасмайпада, Āтманепада):
+  
+A) без свързващ гласен -i-:
 
 1.  अत्ति
 2.  प्राप्नुवन्ति
@@ -141,7 +162,7 @@ A) ohne Bindevokal -i-: &lt;!-- TODO: Fallback translation --&gt;
 5.  दहन्
 6.  आदिशन्ति
 7.  दोग्धि
-8.  पश्यति (Бъдеще време von दृश् bilden) &lt;!-- TODO: Fallback translation --&gt;
+8.  पश्यति (образувайте бъдеще време от दृश्)
 9.  उपानयन्ति
 10.  पचति
 11.  उपपद्यन्ते
@@ -170,7 +191,7 @@ A) ohne Bindevokal -i-: &lt;!-- TODO: Fallback translation --&gt;
 34.  स्तौति
 35.  तिष्ठति
 
-B) Mit Bindevokal -i-: &lt;!-- TODO: Fallback translation --&gt;
+B) С свързващ гласен -i-:
 
 1.  अस्यति
 2.  आसते
@@ -187,7 +208,7 @@ B) Mit Bindevokal -i-: &lt;!-- TODO: Fallback translation --&gt;
 13.  पतन्ति
 14.  रोदिति
 15.  प्रभवति
-16.  म्रियन्ते (im Бъдеще време Parasmaipada) &lt;!-- TODO: Fallback translation --&gt;
+16.  म्रियन्ते (в бъдеще време Парасмайпада)
 17.  जीवन्ति
 18.  रक्षति
 19.  वदति
@@ -196,9 +217,8 @@ B) Mit Bindevokal -i-: &lt;!-- TODO: Fallback translation --&gt;
 22.  अर्हन्ति
 23.  कुप्यन्ति
 
-C) Futur optionell mit und ohne -i-: &lt;!-- TODO: Fallback translation --&gt;
+C) Бъдеще време по избор с и без -i-:
 
 1.  मुह्यन्ति
 2.  वर्तते
-3.  अश्नुवते (im Бъдеще време Parasmaipada) &lt;!-- TODO: Fallback translation --&gt;
-
+3.  अश्नुवते (в бъдеще време Парасмайпада)

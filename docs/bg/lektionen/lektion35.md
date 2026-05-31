@@ -1,256 +1,259 @@
 ---
-title: Lektion 35
+title: Урок 35
 lesson_id: 35
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+---
 
-# Lektion 35
+# Урок 35
 
-## 35.1. Perfekt Typ III: Starker Основа Hochstufe/Dehnstufe
-
-::: grammar-box
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
-
-**starker Stamm:** &lt;!-- TODO: Fallback translation --&gt;
-*   3.sg.P: Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
-*   2.sg.P: Hochstufe &lt;!-- TODO: Fallback translation --&gt;
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
-
-**schwacher Stamm:** siehe bei den Untertypen &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-### 35.1.1. Perfekt Typ IIIa: Starker Основа Hochstufe/Dehnstufe, schwacher Основа Tiefstufe
-
-:::: grammar-box
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-**starker Stamm:** &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-3.sg.P: Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
-*   2.sg.P: Hochstufe &lt;!-- TODO: Fallback translation --&gt;
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
-
-**schwacher Stamm:** siehe bei den Untertypen &lt;!-- TODO: Fallback translation --&gt;
-*   -i/-ī durch -iy <!-- TODO: Fallback translation -->
-*   -u/-ū durch -uv <!-- TODO: Fallback translation -->
-*   -ṛ durch r <!-- TODO: Fallback translation -->
-::::
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::: grammar-box
-
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| इ 2P | इयाय[[br]]iy-ai + a | ईयुर्[[br]]i + iy + ur | | | <!-- TODO: Fallback translation -->
-| नी 1U | निनाय | निन्युर्[[br]]ni-nī + ur | निन्ये | निन्यिरे | <!-- TODO: Fallback translation -->
-| स्तु 2U | तुष्टाव[[br]]tu + stau + a | तुष्टुवुर्[[br]]tu + stuv-ur | तुष्टुवे | तुष्टुविरे | <!-- TODO: Fallback translation -->
-| पू | पुपाव[[br]]pu-pau + a | पुपुवुर्[[br]]pu-puv-ur | पुपुवे | पुपुविरे | <!-- TODO: Fallback translation -->
-| कृ | चकार | चक्रुर्[[br]]ca-kr-ur | चक्रे | चक्रिरे | <!-- TODO: Fallback translation -->
-
-::::
-
-### 35.1.2. Perfekt Typ IIIb: Starker Основа Hochstufe/Dehnstufe, schwacher Основа Hochstufe
-
-:::: grammar-box
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-**starker Stamm:** &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-3.sg.P: Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
-*   2.sg.P: Hochstufe &lt;!-- TODO: Fallback translation --&gt;
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
-::::
-
-**schwacher Stamm:** siehe bei den Untertypen &lt;!-- TODO: Fallback translation --&gt;
-
-:::: grammar-box
-
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| पॄ 3P | पपार | पपरुर् | | | <!-- TODO: Fallback translation -->
-| स्मृ 1P | सस्मार | सस्मरुर् | | | <!-- TODO: Fallback translation -->
-| संस्कृ 8U | सञ्चस्कार[[br]]sam + ca-skār-a | सञ्चस्करुर् | सञ्चस्करे | सञ्चस्करिरे | <!-- TODO: Fallback translation -->
-
-::::
-
-## 35.2. Perfekt Typ IV: Коренn auf -ā / -āi
+## 35.1. Перфект тип III: Силен корен в степен/дълъг степен
 
 ::: grammar-box
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+**Образуване:**
 
-**starker Stamm:** &lt;!-- TODO: Fallback translation --&gt;
-*   3./1. sg. P Perfekt endet auf -au &lt;!-- TODO: Fallback translation --&gt;
-*   2\. sg. P : Hochstufe -ā oder Tiefstufe -i &lt;!-- TODO: Fallback translation --&gt;
+**силен корен:**
+*   3.ед.ч.П: Дълъг степен
+*   2.ед.ч.П: Висок степен
+*   1.ед.ч.П: По избор висок степен или дълъг степен
 
-**schwacher Stamm:** &lt;!-- TODO: Fallback translation --&gt;
-*   vor Konsonant: Tiefstufe -i &lt;!-- TODO: Fallback translation --&gt;
-*   vor Vokal: Tiefstufe Ø &lt;!-- TODO: Fallback translation --&gt;
-
-Wird gebildet von Wurzeln auf -ā / -āi &lt;!-- TODO: Fallback translation --&gt;
+**слаб корен:** виж подтиповете
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+### 35.1.1. Перфект тип IIIa: Силен корен в степен на засилване/удължаване, слаб корен в степен на отслабване
+
+:::: grammar-box
+**Образуване:**
+
+::: indent
+**слаб корен:** степен на отслабване
+:::
+
+Образува се от корени от типовете:
+*   (Съгласен)-(Съгласен) - i/ī/u/ū
+*   (Съгласен) - ṛ
+
+Пред вокално започващо окончание се заменя:
+*   -i/-ī с -iy
+*   -u/-ū с -uv
+*   -ṛ durch r
+::::
+
+Примери:
 
 :::: grammar-box
 
-| Корен | 3. sg. Perf. P.[[br]]1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Корен | 3. ед. перф. пр. | 3. мн. перф. пр. | 3. ед. перф. св. | 3. мн. перф. св. |
 | :--- | :--- | :--- | :--- | :--- |
-| **dā**[[br]]दा ३उ | ददौ | ददुर्[[br]]da-d-ur | ददे | ददिरे[[br]]da-d-i-re |
+| इ 2P | इयाय[[br]]iy-ai + a | ईयुर्[[br]]i + iy + ur | | |
+| नी 1U | निनाय | निन्युर्[[br]]ni-nī + ur | निन्ये | निन्यिरे |
+| स्तु 2U | तुष्टाव[[br]]tu + stau + a | तुष्टुवुर्[[br]]tu + stuv-ur | तुष्टुवे | तुष्टुविरे |
+| पू | पुपाव[[br]]pu-pau + a | पुपुवुर्[[br]]pu-puv-ur | पुपुवे | पुपुविरे |
+| कृ | चकार | चक्रुर्[[br]]ca-kr-ur | चक्रे | चक्रिरे |
 
 ::::
 
-## 35.3. Perfekt Typ V: Коренn Konsonant-a-Konsonant
-
-::: grammar-box
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
-
-**starker Stamm:** &lt;!-- TODO: Fallback translation --&gt;
-*   3.sg.P: Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
-*   2.sg.P: Hochstufe &lt;!-- TODO: Fallback translation --&gt;
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
-
-**schwacher Stamm:** siehe Untertypen &lt;!-- TODO: Fallback translation --&gt;
-
-Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-### 35.3.1. Perfekt Typ Va: schwacher Основа Tiefstufe
+### 35.1.2. Перфект тип IIIb: Силен корен в висока/удължена степен, слаб корен в висока степен
 
 :::: grammar-box
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+**Образуване:**
 
 ::: indent
-**starker Stamm:** &lt;!-- TODO: Fallback translation --&gt;
+**слаб корен:** висока степен
 :::
 
-3.sg.P: Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
+Образува се от корени от типовете:
+*   (Съгласна)-(Съгласна)-ṝ
+*   Съгласна-Съгласна-ṛ (т.е. корени на -ṛ, когато предшестващи няколко съгласни)
+::::
+
+Примери:
+
+:::: grammar-box
+
+| Корен | 3. ед. перф. инд. | 3. мн. перф. инд. | 3. ед. перф. атен. | 3. мн. перф. атен. |
+| :--- | :--- | :--- | :--- | :--- |
+| पॄ 3П | पपार | पपरुर् | | |
+| स्मृ 1П | सस्मार | सस्मरुर् | | |
+| संस्कृ 8У | सञ्चस्कार[[br]]sam + ca-skār-a | सञ्चस्करुर् | सञ्चस्करे | सञ्चस्करिरे |
+
+::::
+
+## 35.2. Перфект тип IV: Корени на -ā / -āi
+
+::: grammar-box
+**Образуване:**
+
+**силен корен:**
+*   3./1. л. ед. ч. перфект актив завършва на -au
+*   2\. л. ед. ч. перфект актив : Висока степен -ā или Ниска степен -i
+
+**слаб корен:**
+*   пред съгласна: Ниска степен -i
+*   пред гласна: Ниска степен Ø
+
+Образува се от корени на -ā / -āi
+:::
+
+Пример:
+
+:::: grammar-box
+
+| Корен | 3. л. ед. ч. перф. акт.[[br]]1. л. ед. ч. перф. акт. | 3. мн. ч. перф. акт. | 3. л. ед. ч. перф. страд. | 3. мн. ч. перф. страд. |
+| :--- | :--- | :--- | :--- | :--- |
+| दा 3U | ददौ | ददुर्[[br]]da-d-ur | ददे | ददिरे[[br]]da-d-i-re |
+
+::::
+
+## 35.3. Перфект тип V: Корени с консонант-а-консонант
+
+::: grammar-box
+**Образуване:**
+
+**силен корен:**
+*   3.l.P: Дълга степен
+*   2.l.P: Висока степен
+*   1.l.P: по избор висока или дълга степен
+
+**слаб корен:** виж подтипове
+
+Образува се от корени от типа (консонант)-консонант-а-консонант
+:::
+
+### 35.3.1. Перфект тип Ва: слаб корен, ниска степен
+
+:::: grammar-box
+**Образуване:**
+
+::: indent
+**слаб корен:** ниска степен
+:::
+
+Образува се между другото от корените:
 *   गम्
 *   हन्
 *   जन्
 *   वच्
-*   वद् <!-- TODO: Fallback translation -->
-*   यज् <!-- TODO: Fallback translation -->
+*   वद्
+*   यज्
 ::::
 
-Beispiele: <!-- TODO: Fallback translation -->
+Примери:
 
 :::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| गम् 1P | जगाम | जग्मुर्[[br]]ja-gm-ur | | | <!-- TODO: Fallback translation -->
-| हन् 2P | ***जघान***[[br]]ja-***ghān***-a | ***जघ्नुर्*** | | | <!-- TODO: Fallback translation -->
-| जन् 4Ā | | | जज्ञे[[br]]ja-jñ-e | जज्ञिरे | <!-- TODO: Fallback translation -->
-| वच् 2P | उवाच | ऊचुर्[[br]]u + uc-ur | | | <!-- TODO: Fallback translation -->
-| वद् 1P | उवाद | ऊदुर् | &lt;ऊदे&gt; | &lt;ऊदिरे&gt; | <!-- TODO: Fallback translation -->
-| यज् 1U | इयाज | ईजुर्[[br]]i + ij-ur | ईजे | ईजिरे | <!-- TODO: Fallback translation -->
+| Корен | 3. ед. перф. пас. | 3. мн. перф. пас. | 3. ед. перф. сре́д. | 3. мн. перф. сре́д. |
+| :--- | :--- | :--- | :--- | :--- |
+| गम् 1P | जगाम | जग्मुर्[[br]]ja-gm-ur | | |
+| हन् 2P | ***जघान***[[br]]ja-***ghān***-a | ***जघ्नुर्*** | | |
+| जन् 4Ā | | | जज्ञे[[br]]ja-jñ-e | जज्ञिरे |
+| वच् 2P | उवाच | ऊचुर्[[br]]u + uc-ur | | |
+| वद् 1P | उवाद | ऊदुर् | &lt;ऊदे&gt; | &lt;ऊदिरे&gt; |
+| यज् 1U | इयाज | ईजुर्[[br]]i + ij-ur | ईजे | ईजिरे |
 
 ::::
 
-### 35.3.2. Perfekt Typ Vb: schwacher Основа Kontraktion (e-Typ)
+### 35.3.2. Перфект тип Vb: слаб корен, контракция (e-тип)
 
 :::: grammar-box
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+**Образуване:**
 
 ::: indent
-**starker Stamm:** &lt;!-- TODO: Fallback translation --&gt;
+**слаб корен:** без редупликация. Заместване на -a- на корена с -e-  
+(за обяснение виж Thumb-Hauschild 1,2 стр. 286 сл.)
 :::
 
-3.sg.P: Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
+Образува се от корени с -a- между две прости съгласни, чиято начална съгласна в сричката на редупликация не се променя (т.е. началната им съгласна не е гутурална, аспирата или h).
 ::::
 
-2.sg.P: Hochstufe &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
 :::: grammar-box
 
-| Корен | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Корен | 3. ед. перф. пас. | 3. мн. перф. пас. | 3. ед. перф. сред. | 3. мн. перф. сред. |
 | :--- | :--- | :--- | :--- | :--- |
 | पच् 1U | पपाच | ***पे***चुर् | ***पे***चे | ***पे***चिरे |
 
 ::::
 
-### 35.3.3. Perfekt Typ Vc: Коренn Konsonant-a-Konsonant. Schwacher Основа Hochstufe
+### 35.3.3. Перфект тип Vc: Корени съгласна-а-съгласна. Слаба основа висока степен
 
 ::: grammar-box
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+**Образуване:**
 
-**starker Stamm:** &lt;!-- TODO: Fallback translation --&gt;
+**слаба основа:** висока степен
 
-3.sg.P: Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
-*   2.sg.P: Hochstufe &lt;!-- TODO: Fallback translation --&gt;
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
-*   **schwacher Stamm:** siehe Untertypen &lt;!-- TODO: Fallback translation --&gt;
-*   Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant &lt;!-- TODO: Fallback translation --&gt;
+Образува се от всички други корени със средно -a-, т.е. корени със средно -a-
+*   които започват с два съгласни
+*   които започват с гърлени
+*   които започват с аспирати
+*   които започват с h
 
-sofern sie nicht zu Perfekt Typ Va gehören. <!-- TODO: Fallback translation -->
+освен ако не принадлежат към перфект тип Va.
 :::
 
-Beispiel: <!-- TODO: Fallback translation -->
+Пример:
 
 :::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| क्रम् 1U | चक्राम | चक्रमुर् | चक्रमे | चक्रमिरे | <!-- TODO: Fallback translation -->
+| Корен | 3. ед. перф. пр. | 3. мн. перф. пр. | 3. ед. перф. св. | 3. мн. перф. св. |
+| :--- | :--- | :--- | :--- | :--- |
+| क्रम् 1U | चक्राम | चक्रमुर् | चक्रमे | चक्रमिरे |
 
 ::::
 
 ## 35.4. Речник
 
-**नश्** 4P **नश्यति** : verloren gehen, zugrundegehen, verschwinden &lt;!-- TODO: Fallback translation --&gt;
+**नश्** 4P **नश्यति** : изгубявам се, загивам, изчезвам
 ::: indent
-**Perf. Vb ननाश, नेशुर्**[[br]]
-**Fut. नशिष्यति । नङ्क्ष्यति**[[br]]
-**Kaus. नाशयति**[[br]]
-**PPP नष्ट** &lt;!-- TODO: Fallback translation --&gt;
+**Перф. Гл. ननाश, नेशुर्**[[br]]
+**Фут. नशिष्यति । नङ्क्ष्यति**[[br]]
+**Кауз. नाशयति**[[br]]
+**PPP नष्ट**
 :::
 
-**नश् + प्र** 4P **प्रणश्यति** : verschwinden, verloren gehen, zugrundegehen &lt;!-- TODO: Fallback translation --&gt;
+**नश् + प्र** 4P **प्र***ण*श्यति** : изчезвам, изгубявам се, загивам
 
-**क्रम्** 1U **क्रामति**, 4P **क्राम्यति** : schreiten, gehen &lt;!-- TODO: Fallback translation --&gt;
+**क्रम्** 1U *****क्रा*****मति**, 4P *****क्रा*****म्यति** : стъпвам, вървя
 ::: indent
-**Perf. Vc चक्राम, चक्रmuर्** -&gt; **Perf. Vc चक्राम, चक्रमुर्**[[br]]
-**Fut. क्रमिष्यति**[[br]]
-**Pass. क्रम्यते**[[br]]
-**Kaus. क्रमयति**[[br]]
-**PPP क्रान्त**[[br]]
-**Inf. क्रमितुम्**[[br]]
-**Absol. क्रमित्वा । क्रन्त्वा । क्रान्त्वा** &lt;!-- TODO: Fallback translation --&gt;
+**Перф. Vc चक्राम, चक्रमुर्**[[br]]
+**Фут. क्रमिष्यति**[[br]]
+**Страд. क्रम्यते**[[br]]
+**Кауз. क्रमयति**[[br]]
+**PPP ***क्रा***न्त**[[br]]
+**Инф. क्रमितुम्**[[br]]
+**Абсол. क्रमित्वा । क्रन्त्वा । क्रान्त्वा**
 :::
 
 ::: media
 ![](/images/lekt3502.jpg)
-Abb.: क्रामन्ति
-(Bildquelle: [Details](/licenses#lekt3502)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: क्रामन्ति
+Хора, ходещи, Сенегал.
+(Източник на изображението: [Подробности](/bg/licenses#lekt3502))
 :::
 
-**गै** 1P **गायति** (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden &lt;!-- TODO: Fallback translation --&gt;
+**गै** 1P **गायति** (gai + a-ti): пея, декламирам в песенен тон, обявявам в свързан реч
 ::: indent
-**Perf. IV जगौ, जगुर्**[[br]]
-**Fut. गास्यति**[[br]]
-**Pass. गीयते**[[br]]
-**Kaus. गापयति**[[br]]
+**Перф. IV जगौ, जगुर्**[[br]]
+**Фут. गास्यति**[[br]]
+**Страд. गीयते**[[br]]
+**Кауз. गापयति**[[br]]
 **PPP गीत**[[br]]
-**Inf. गातुम्** &lt;!-- TODO: Fallback translation --&gt;
+**Инф. गातुम्**
 
-davon:
-**गीता f.:** Lied, Gesang &lt;!-- TODO: Fallback translation --&gt;
+от това:
+**गीता ж.р.:** песен, пение
 :::
 
 ::: media
 ![](/images/lekt3501.jpg)
-Abb.: जगुः
-(Bildquelle: [Details](/licenses#lekt3501)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: जगुः
+Храмовеви музиканти в храма Каду Маллесвар, Бангалор.
+(Източник на изображението: [Подробности](/bg/licenses#lekt3501))
 :::
 
 ## 35.5. Упражнение
 
-A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen: &lt;!-- TODO: Fallback translation --&gt;
+A) Образувайте съответните перфектни форми за следните глаголни форми:
 
 1. गायन्ति
 2. स्मरन्ति
@@ -266,7 +269,7 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen: &lt;
 12. पिपुरति
 13. दत्ते
 14. यजन्ते
-15. भजन्ति unregelmäßig, nach Typ Vb! &lt;!-- TODO: Fallback translation --&gt;
+15. भजन्ति неправилна, по тип Vb!
 16. वक्ति
 17. अदधुः
 18. बिभ्रते
@@ -283,8 +286,9 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen: &lt;
 29. मिमति  
     ::: media
     ![](/images/lekt3503.jpg)
-    Abb.: मिमते
-    (Bildquelle: [Details](/licenses#lekt3503)) &lt;!-- TODO: Fallback translation --&gt;
+    Ил.: मिमति
+Пазар в Вадасери, Тамил Наду.
+    (Източник на изображението: [Подробности](/bg/licenses#lekt3503))
     :::
 30. अपद्यत
 31. सुनोति
@@ -299,7 +303,7 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen: &lt;
 40. जुह्वति
 41. अहरत्
 
-B) Übersetzen Sie: &lt;!-- TODO: Fallback translation --&gt;
+B) Преведете:
 
 एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥
 
@@ -309,23 +313,22 @@ B) Übersetzen Sie: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt3504.jpg)
-Abb.: ... ब्राह्मणाश्चेजुः
-(Bildquelle: [Details](/licenses#lekt3504)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: ... ब्राह्मणाश्चेजुः
+Церемония Яджня, Шивашрам, Ганешпури.
+(Източник на изображението: [Подробности](/bg/licenses#lekt3504))
 :::
 
 अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥
 
-C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen. &lt;!-- TODO: Fallback translation --&gt;
+C) Преобразувайте изреченията от упражнение B), като замените перфектните форми с имперфектни.
 
 ::: deleteme-box
 
-### Източници
+**lekt3501:** Храмовеви музиканти в храма Каду Маллесвар, Бангалор. [Източник на изображението: Samuelraj / Flickr. CC BY-NC]
 
-**lekt3501:** Temple musicians Kaadu Malleswara Temple Bangalore. [Bildquelle: Samuelraj / Flickr. CC BY-NC] <!-- TODO: Fallback translation -->
+**lekt3502:** Хора, ходещи, Сенегал. [Източник на изображението: Curt Carnemark / Световна банка. CC BY-NC-ND]
 
-**lekt3502:** People walking, Senegal. [Bildquelle: Curt Carnemark / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
+**lekt3503:** Пазар в Вадасери, Тамил Наду. [Източник на изображението: kifo / Flickr. CC BY-SA]
 
-**lekt3503:** Market in Vadaseri, Tamil Nadu. [Bildquelle: kifo / Flickr. CC BY-SA] <!-- TODO: Fallback translation -->
-
-**lekt3504:** Yajña ceremony, Shiva ashram, Ganeshpuri. [Bildquelle: Dey / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3504:** Церемония Яджня, Шивашрам, Ганешпури. [Източник на изображението: Dey / Flickr. CC BY-NC-SA]
 :::

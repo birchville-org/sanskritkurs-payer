@@ -1,56 +1,56 @@
 ---
-title: Lektion 32
+title: Урок 32
 lesson_id: 32
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+---
 
-# Lektion 32
+# Урок 32
 
-## 32.1. Die Vergangenheitstempora
-
-:::: grammar-box
-**In der älteren Sanskritliteratur und von den einheimischen Grammatikern werden die drei Tempora der Vergangenheit in ihrem Gebrauch klar unterschieden:** &lt;!-- TODO: Fallback translation --&gt;
-
-*   **der Aorist (लुङ् , अद्यतनी) bezeichnet entweder einfach die Vollendung einer Handlung oder er bezeichnet, was sich am laufenden Tag ereignet hat, die nahe Vergangenheit** &lt;!-- TODO: Fallback translation --&gt;
-*   **das Имперфект (लङ्) bezeichnet, was sich vor dem laufenden Tage ereignet hat, die entfernte Vergangenheit** &lt;!-- TODO: Fallback translation --&gt;
-*   **das Perfekt (लिट्) bezeichnet wie das Имперфект die entfernte Vergangenheit, wird aber, im Gegensatz zum Имперфект, nur von Ereignissen gebraucht, die der Sprechende selbst nicht gesehen hat** &lt;!-- TODO: Fallback translation --&gt;
-
-**In der klassischen Sanskritliteratur werden die drei Vergangenheitstempora ohne Bedeutungsunterschied gebraucht (Ausnahme: भारवि's Kunstgedicht किरातार्जुनीय).** &lt;!-- TODO: Fallback translation --&gt;
-::::
-
-## 32.2. Das Имперфект (लङ्)
+## 32.1. Миналите времена
 
 :::: grammar-box
-**Bildung:** &lt;!-- TODO: Fallback translation --&gt;
+**В по-старата санскритска литература и от местните грамматици трите минали времена се различават ясно в употребата си:**
 
-**Augment a- + Präsensstamm + Sekundärendung** &lt;!-- TODO: Fallback translation --&gt;
+*   **аористът (लुङ्, अद्यतनी) обозначава или просто завършването на действие, или това, което се е случило в текущия ден, близкото минало**
+*   **имперфектът (लङ्) обозначава това, което се е случило преди текущия ден, отдалеченото минало**
+*   **перфектът (लिट्) обозначава, както и имперфектът, отдалеченото минало, но за разлика от имперфекта, се използва само за събития, които говорящият сам не е видял**
 
-**Die drei Personen des Singular Parasmaipada Imperfekt werden bei athematischen Stämmen vom starken Präsensstamm gebildet, alle übrigen Formen vom schwachen Präsensstamm.** &lt;!-- TODO: Fallback translation --&gt;
-
-**Das Imperfekt hat nur den Indikativ.** &lt;!-- TODO: Fallback translation --&gt;
+**В класическата санскритска литература трите минали времена се използват без семантична разлика (изключение: भारवि'с поетически труд किरातार्जुनीय).**
 ::::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+## 32.2. Имперфект (लङ्)
+
+:::: grammar-box
+**Образуване:**
+
+**Авгмент a- + настоящ основа + вторично окончание**
+
+**Трите лица на едствено число на Parasmaipada в имперфект се образуват от силната настояща основа за атематични основи, всички останали форми от слабата настояща основа.**
+
+**Имперфектът има само указателно наклонение.**
+::::
+
+Примери:
 
 ::: indent
-**भू** 3. sg. Impf. P. **अभवत्** (a-bhava-t) &lt;!-- TODO: Fallback translation --&gt;
+**भू** 3. л. ед. ч. имперф. пар. **अभवत्** (a-bhava-t)
 
 **सु**
-*   3. sg. Impf. P. **असुनोत्** (a-suno-t) &lt;!-- TODO: Fallback translation --&gt;
-*   3. pl. Impf. P. **असुन्वन्** (a + sunu + an) &lt;!-- TODO: Fallback translation --&gt;
+*   3. л. ед. ч. имперф. пар. **असुनोत्** (a-suno-t)
+*   3. мн. ч. имперф. пар. **असुन्वन्** (a + sunu + an)
 :::
 
-## 32.3. Regeln für das Augment
+## 32.3. Правила заaugment-а
 
 :::: grammar-box
-**1. Tritt das Augment a- vor eine vokalisch anlautende Wurzel, so verschmelzen das Augment und der Wurzelanlaut zur वृद्धि des Wurzelvokals.** &lt;!-- TODO: Fallback translation --&gt;
+**1. Когатоaugment-ът a- предхожда корен, започващ с гласна, тоaugment-ът и началният гласен на корена се сливат в वृद्धि на гласния на корена.**
 ::::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
 :::: grammar-box
 
-| | 3. sg. Impf. | 3. pl. Impf. |
+| | 3. л. ед.ч. мин.вр. | 3. л. мн.ч. мин.вр. |
 | :--- | :--- | :--- |
 | इष् | ऐच्छत्[[br]](a- + iccha-t) | |
 | इ | ऐत्[[br]](a- + e + t) | आयन्[[br]](a + i + an) |
@@ -59,14 +59,14 @@ Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 ::::
 
 :::: grammar-box
-**2. Stehen Präverben vor einer Wurzel, so tritt das Augment a- hinter die Präverben unmittelbar vor die Wurzel.** &lt;!-- TODO: Fallback translation --&gt;
+**2. Когато предлози предхождат корен, тоaugment-ът a- се поставя след предлозите, непосредствено преди корена.**
 ::::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
 :::: grammar-box
 
-| | 3. sg. Impf. |
+| | 3. л. ед.ч. мин.вр. |
 | :--- | :--- |
 | आगम् | आगच्छत्[[br]](ā + a + gaccha-t) |
 | संगम् | समगच्छत्[[br]](sam-a-gaccha-t) |
@@ -75,53 +75,53 @@ Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 ::::
 
-## 32.4. Примери für die Имперфектbildung
+## 32.4. Примери за образуване на имперфект
 
 ::: important
-Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen &lt; &gt;. &lt;!-- TODO: Fallback translation --&gt;
+**За да се демонстрира образуването на формите, тук също се образуват форми на Ātmanepada към корени на Parasmaipada! Тези изкуствени форми са между &lt; &gt;.**
 :::
 
-### 32.4.1. Thematische Сегашно времеklassen
+### 32.4.1. Тематични класове на сегашно време
 
 :::: grammar-box
 
-| Сегашно времеklasse | Корен[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
-| :--- | :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| 1. | भू | अभवत् | अभवन् | &lt;अभवत&gt; | &lt;अभवन्त&gt; | <!-- TODO: Fallback translation -->
-| 4. | नृत् | अनृत्यत् | अनृत्यन् | &lt;अनृत्यत&gt; | &lt;अनृत्यन्त&gt; | <!-- TODO: Fallback translation -->
-| 6. | विश् | अविशत् | अविशन् | &lt;अविशत&gt; | &lt;अविशन्त&gt; | <!-- TODO: Fallback translation -->
-| 10. / Kaus. | चुर् | अचोरयत् | अचोरयन् | अचोरयत | अचोरयन्त | <!-- TODO: Fallback translation -->
-| Passiv | गम् | अगम्यत | अगम्यन्त | | | <!-- TODO: Fallback translation -->
+| Класа на сегашното време | Корен[[br]]धातु | 3. л. ед. ч. нар. | 3. л. мн. ч. нар. | 3. л. ед. ч. страд. | 3. л. мн. ч. страд. |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1. | भू | अभवत् | अभवन् | &lt;अभवत&gt; | &lt;अभवन्त&gt; |
+| 4. | नृत् | अनृत्यत् | अनृत्यन् | &lt;अनृत्यत&gt; | &lt;अनृत्यन्त&gt; |
+| 6. | विश् | अविशत् | अविशन् | &lt;अविशत&gt; | &lt;अविशन्त&gt; |
+| 10. / Кауз. | चुर् | अचोरयत् | अचोरयन् | अचोरयत | अचोरयन्त |
+| Страдателен залог | गम् | अगम्यत | अगम्यन्त | | |
 
 ::::
 
-### 32.4.2. Athematische Сегашно времеklassen
+### 32.4.2. Атматични настоящие класове
 
 :::: grammar-box
 
-| Сегашно времеklasse | Корен[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
-| :--- | :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| 2. | द्विष् | अद्वेट्[[br]](adveṣṭ &gt; adveṣ &gt; adveṭ) | अद्विषन्[[br]]अद्विषुर् | अद्विष्ट | अद्विषत | <!-- TODO: Fallback translation -->
-| 2. | दुह् | अधोक्[[br]](a + doh + t &gt; adogdh &gt; adhok) | अदुहन् | अदुग्ध | अदुहत | <!-- TODO: Fallback translation -->
-| 2. | इ | ऐत् | आयन् | | | <!-- TODO: Fallback translation -->
-| 2. | हन् | अहन्[[br]](aus *ahant) | अघ्नन् | | | <!-- TODO: Fallback translation -->
-| 2. | स्तु | अस्तौत्[[br]]अस्तवीत् | अस्तुवन् | अस्तुत | अस्तुवत | <!-- TODO: Fallback translation -->
-| 2. | अस् | आसीत् | आसन् | | | <!-- TODO: Fallback translation -->
-| 5. | सु | असुनोत् | असुन्वन् | असुनुत | असुन्वत | <!-- TODO: Fallback translation -->
-| 5. | आप् | आप्नोत् | आप्नुवन् | &lt;आप्नुत&gt; | &lt;आप्नुवत&gt; | <!-- TODO: Fallback translation -->
-| 8. | तन् | अतनोत् | अतन्वन् | अतनुत | अतन्वत | <!-- TODO: Fallback translation -->
-| 8. | कृ | अकरोत् | अकुर्वन् | अकुरुत | अकुर्वत | <!-- TODO: Fallback translation -->
-| 7. | युज् | अयुनक्[[br]](a-yunaj + t &gt; ayunakt &gt; ayunak) | अयुञ्जन् | अयुङ्क्त[[br]](a-yuñj + ta) | अयुञ्जत | <!-- TODO: Fallback translation -->
-| 7. | रुध् | अरुणत्[[br]](a-ruṇadh + t &gt; aruṇaddh &gt; aruṇat) | अरुन्धन् | अरुन्द्ध | अरुन्धत | <!-- TODO: Fallback translation -->
-| 9. | क्री | अक्रीणात्[[br]](a-krīṇā-t) | अक्रीणन्[[br]](a-krīṇ-an) | अक्रीणीत[[br]](a-krīṇī-ta) | अक्रीणत[[br]](a-krīṇ-ata) | <!-- TODO: Fallback translation -->
+| Настояща клас | Корен[[br]]धातु | 3. ед. Н. | 3. мн. Н. | 3. ед. А. | 3. мн. А. |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 2. | द्विष् | अद्वेट्[[br]](adveṣṭ &gt; adveṣ &gt; adveṭ) | अद्विषन्[[br]]अद्विषुर् | अद्विष्ट | अद्विषत |
+| 2. | दुह् | अधोक्[[br]](a + doh + t &gt; adogdh &gt; adhok) | अदुहन् | अदुग्ध | अदुहत |
+| 2. | इ | ऐत् | आयन् | | |
+| 2. | हन् | अहन्[[br]](от *ahant) | अघ्नन् | | |
+| 2. | स्तु | अस्तौत्[[br]]अस्तवीत् | अस्तुवन् | अस्तुत | अस्तुवत |
+| 2. | अस् | आसीत् | आसन् | | |
+| 5. | सु | असुनोत् | असुन्वन् | असुनुत | असुन्वत |
+| 5. | आप् | आप्नोत् | आप्नुवन् | &lt;आप्नुत&gt; | &lt;आप्नुवत&gt; |
+| 8. | तन् | अतनोत् | अतन्वन् | अतनुत | अतन्वत |
+| 8. | कृ | अकरोत् | अकुर्वन् | अकुरुत | अकुर्वत |
+| 7. | युज् | अयुनक्[[br]](a-yunaj + t &gt; ayunakt &gt; ayunak) | अयुञ्जन् | अयुङ्क्त[[br]](a-yuñj + ta) | अयुञ्जत |
+| 7. | रुध् | अरुणत्[[br]](a-ruṇadh + t &gt; aruṇaddh &gt; aruṇat) | अरुन्धन् | अरुन्द्ध | अरुन्धत |
+| 9. | क्री | अक्रीणात्[[br]](a-krīṇā-t) | अक्रीणन्[[br]](a-krīṇ-an) | अक्रीणीत[[br]](a-krīṇī-ta) | अक्रीणत[[br]](a-krīṇ-ata) |
 
 ::::
 
 ## 32.5. Речник
 
-**अग्र n.:** Spitze, äußerstes Ende &lt;!-- TODO: Fallback translation --&gt;
+**अग्र n.:** връх, крайно крайче
 
-**मही f.:** Erde, Grund und Boden (wörtl.: die Große) &lt;!-- TODO: Fallback translation --&gt;
+**मही f.:** земя, основи и почва (букв.: Голямата)
 
 **एकदा**
 
@@ -142,8 +142,9 @@ Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wur
 
 ::: media
 ![](/images/lekt3202.jpg)
-Abb.: चूतः
-(Bildquelle: [Details](/licenses#lekt3202)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: चूतः
+Мангово дърво, Канпур.
+(Източник на изображението: [Подробности](/bg/licenses#lekt3202))
 :::
 
 **तरु** **वृक्ष**
@@ -178,8 +179,9 @@ Abb.: चूतः
 
 ::: media
 ![](/images/lekt3203.jpg)
-Abb.: वानराः
-(Bildquelle: [Details](/licenses#lekt3203)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: वानराः
+Маймуни (резуски макак) в Делхи.
+(Източник на изображението: [Подробности](/bg/licenses#lekt3203))
 :::
 
 **लोक् लोकयति**
@@ -199,16 +201,18 @@ Abb.: वानराः
 
 ::: media
 ![](/images/lekt3204.jpg)
-Abb.: उपलाः
-(Bildquelle: [Details](/licenses#lekt3204)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: उपलाः
+Камъноломна южно от Пуна, Махараштра.
+(Източник на изображението: [Подробности](/bg/licenses#lekt3204))
 :::
 
 **लक्ष्य**
 
 ::: media
 ![](/images/lekt3205.jpg)
-Abb.: लक्ष्यम्
-(Bildquelle: [Details](/licenses#lekt3205)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: लक्ष्यम्
+Стрелба с цел / мишена за стрела, Карнатака.
+(Източник на изображението: [Подробности](/bg/licenses#lekt3205))
 :::
 
 **क्षिप् क्षिपति**
@@ -233,8 +237,9 @@ Abb.: लक्ष्यम्
 
 ::: media
 ![](/images/lekt3207.jpg)
-Abb.: चितं गोमयं दहति
-(Bildquelle: [Details](/licenses#lekt3207)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: चितं गोमयं दहति
+Горещи кравешки торфени тухли в Раджастхан.
+(Източник на изображението: [Подробности](/bg/licenses#lekt3207))
 :::
 
 **चि अव**
@@ -247,13 +252,14 @@ Abb.: चितं गोमयं दहति
 
 ::: media
 ![](/images/lekt3206.jpg)
-Abb.: कौशलम्
-(Bildquelle: [Details](/licenses#lekt3206)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: कौशलम्
+Мехнди рисунка по ръце в Мумбай.
+(Източник на изображението: [Подробности](/bg/licenses#lekt3206))
 :::
 
 ## 32.6. Упражнение
 
-A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbis entsprechenden Imperfektformen: &lt;!-- TODO: Fallback translation --&gt;
+A) Определете следните глаголни форми и образувате съответните форми на минало несвършено време спрямо лице, число и род на глагола:
 
 1. हरि्ष्यन्ते
 2. घातयति
@@ -331,7 +337,7 @@ A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genu
 74. प्रजानीते
 75. जीवन्ति
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: &lt;!-- TODO: Fallback translation --&gt;
+B) Преведете и разгледайте санскритските съставни думи:
 
 आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥
 
@@ -339,21 +345,22 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: &lt;!-- TODO: F
 
 राम आचार्यमुपसंगम्य वचनमब्रवीत् ॥३॥
 
-ब्राह्मणा वेदमध्यैyet चाध्यापयंश्च देवांश्चायजन्नयजन्त च क्षत्रियाः श्रुतिमध्यैyet जनानरक्षन्महीमभुञ्जन्देवानयजन्त वैश्या वेदमध्यैyet देवानयजन्ताक्रीणन्व्यक्रीणत च द्विजदासास्तु शूद्रा आसन् ॥४॥ &lt;!-- TODO: Fallback translation --&gt;
+ब्राह्मणा वेदमध्यैयन् चाध्यापयंश्च देवांश्चायजन्नयजन्त च क्षत्रियाः श्रुतिमध्यैyet जनानरक्षन्महीमभुञ्जन्देवानयजन्त वैश्या वेदमध्यैयन् देवानयजन्ताक्रीणन्व्यक्रीणत च द्विजदासास्तु शूद्रा आसन् ॥४॥
 
 बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥
 
 ::: media
 ![](/images/lekt3208.jpg)
-Abb.: बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
-(Bildquelle: [Details](/licenses#lekt3208)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
+Будаистки монах в Шри Ланка.
+(Източник на изображението: [Подробности](/bg/licenses#lekt3208))
 :::
 
-## 32.7. Упражнение zur Wiederholung über die Weihnachtsferien
+## 32.7. Упражнение за повторение през коледните ваканции
 
-Anmerkung: ursprünglich wurde dieser an der Universität Tübingen jeweils im Wintersemester gehalten. Bei Lektion 32 begannen die zweiwöchigen Weihnachtsferien. &lt;!-- TODO: Fallback translation --&gt;
+Забележка: по-рано този курс се четеше във Факултета по санскрит на Тюбингенския университет всяка зима. При Урок 32 започнаха двете седмични коледни ваканции.
 
-A) Bestimmen und übersetzen Sie folgende Wörter: &lt;!-- TODO: Fallback translation --&gt;
+А) Определете и преведете следните думи:
 
 1. देवस्य
 2. उषितायाः
@@ -440,7 +447,7 @@ A) Bestimmen und übersetzen Sie folgende Wörter: &lt;!-- TODO: Fallback transl
 83. अध्यापयति
 84. वाचयन्ति
 
-B) Übung zum Sandhi: Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein. Achten Sie dabei besonders auf den Sandhi: &lt;!-- TODO: Fallback translation --&gt;
+Б) Упражнение по Сандхи: Поставете думите в скобите в следните изречения. Обърнете особено внимание на Сандхи:
 
 १. रामो ग्रामात् ... (द्वितीया विभक्तिः) ... गच्छति । (नगर । आर्यग्राम । महानगर । शत्रुग्राम । जयनगर । लोकेश्वरनगर । कविगृह )
 
@@ -460,121 +467,122 @@ B) Übung zum Sandhi: Setzen Sie in folgenden Sätzen die Wörter in den Klammer
 
 ९. रामस् ... (द्वितीया विभक्तिः) ... गच्छति । (कवि । गृह । आर्यग्राम । अरिनगर । सुखता । तन्नगर । शूद्रग्राम । चन्द्रकीर्ति । ट्युबिङ्गन्नगर)
 
-C) Übersetzen Sie ins Sanskrit: &lt;!-- TODO: Fallback translation --&gt;
+В) Преведете на санскрит:
 
-1. 1.) Nachdem der Sohn geboren ist, schickt die Brahmanin einen Diener zum Brahmanen. Der Brahmane lässt diesen Diener ins Haus eintreten und fragt dann nach dem Sohn. Der Diener sagt, dass der Sohn wohlauf ist. Als er das gehört hat, wird der Brahmane glücklich. &lt;!-- TODO: Fallback translation --&gt;
+1. След като синът е роден, брахманката изпраща слуга при брахмана. Брахманът позволява на този слуга да влезе в къщата и след това пита за сина. Слугата казва, че синът е здрав. Когато чул това, брахманът се зарадва.
 
-2. 2.) Der Heilige hat das (ihm) getane Böse ertragen. &lt;!-- TODO: Fallback translation --&gt;
+2. Свещеният човек понася зло (направено на него).
 
-3. 3.) Sittlichkeit ist des Mannes Zier. &lt;!-- TODO: Fallback translation --&gt;
+3. Добродетелта е украшение на мъжа.
 
-4. 4.) Die mächtigen Krieger sind ins Brahmanendorf gegangen. &lt;!-- TODO: Fallback translation --&gt;
+4. Могъщите воини отидоха в брахманското село.
 
-5. 5.) Das Mädchen weint. &lt;!-- TODO: Fallback translation --&gt;
+5. Девойката плаче.
 
-6. 6.) Es gibt keine Krankheit gleich wie die Wohllust, es gibt keinen Feind wie die Verwirrung, es gibt kein Feuer wie den Zorn, es gibt kein Glück wie die Erkenntnis. &lt;!-- TODO: Fallback translation --&gt;
+6. Няма болест, равна на чувственото удоволствие; няма враг, по-голям от объркването; няма огън, по-силен от гнева; няма щастие, по-голямо от знанието.
 
-7. 7.) Ein Mann, den die Göttin behütet, ist glücklich. &lt;!-- TODO: Fallback translation --&gt;
+7. Мъж, когото пази богинята, е щастлив.
 
-8. 8.) Mit welchem Wind auch immer eine Wolke Wasser (वारि n.) lässt, mit dem Wind bewegt ein Gelehrter seinen Schirm. &lt;!-- TODO: Fallback translation --&gt;
+8. С какъвто и да е вятър облакът дава вода (वारि ж.р.), с този вятър учен移动 своята сенка.
 
-9. 9.) Es gibt keine fruchtbringenden Tätigkeiten von Ständen, Lebensstadien usw. &lt;!-- TODO: Fallback translation --&gt;
+9. Няма плодотворни дейности на кастите, житейските етапи и т.н.
 
-10. 10) Der Kreislauf der Wiedergeburten hat keinen Anfang. &lt;!-- TODO: Fallback translation --&gt;
+10. Кръговратът на преражданятията няма начало.
 
-11. 11) Es ist Zeit, sich dem Essen zu widmen. &lt;!-- TODO: Fallback translation --&gt;
+11. Настъпил е моментът да се посветим на храната.
 
-12. 12) Willkommen der Königin. &lt;!-- TODO: Fallback translation --&gt;
+12. Добре дошла кралицата.
 
-13. 13) Um der Himmel Willen tun die Menschen Verdienstvolles. &lt;!-- TODO: Fallback translation --&gt;
+13. Ради небесата хората извършват заслужени дела.
 
-14. 14) Ein Mann, der aus Überheblichkeit, Gier, Zorn, oder Furcht ein Gerichtsurteil fälschlich spricht, geht in eine Hölle. &lt;!-- TODO: Fallback translation --&gt;
+14. Човек, който от гордост, алчност, гняв или страх издава неоснователен съдебен акт, отива в ад.
 
-15. 15) Rāma ging auf Anweisung der Lehrers aus dem Dorf in die Stadt, betrat das Haus des heiligen Mannes, trat ehrerbietig vor den Heiligen und spricht: "Lass ab vom Zorn!" &lt;!-- TODO: Fallback translation --&gt;
+15. Рама по заповед на учителя напусна селото и отиде в града, влезе в дома на светия човек, се поклонително пред светеца и каза: „Остави гнева!“
 
-16. 16) Immer (sei seine) Verbindung mit solchen, die in den Wissenschaften gewachsen sind, auf dass seine Erziehung/gutes Verhalten wachse. (Dies) weil die Erziehung/gutes Verhalten als Wurzel dieses (die Verbindung mit solchen) hat. &lt;!-- TODO: Fallback translation --&gt;
+16. Винаги (да бъде) връзката му с такива, които са нараснали в науките, за да нарасне неговото възпитание/добро поведение. (Това) защото възпитанието/доброто поведение има корен в това (връзката с такива).
 
-17. 17) Während der Lehrer steht, darf der Knabe nicht sitzen. &lt;!-- TODO: Fallback translation --&gt;
+17. Докато учителят стои, момчето не трябва да седи.
 
-18. 18) Es gibt keine bessere Zuflucht als Rāma. &lt;!-- TODO: Fallback translation --&gt;
+18. Няма по-добра защита от Рама.
 
-19. 19) Viṣṇumitra lässt den Rāma den Govinda ins Dorf schicken. &lt;!-- TODO: Fallback translation --&gt;
+19. Вишнумитра изпраща Рама да изпрати Говинда в селото.
 
-20. 20) Govinda lässt den Devadatta Reis kochen. &lt;!-- TODO: Fallback translation --&gt;
+20. Говинда кара Девадата да вари ориз.
 
-21. 21) Dharma der Arier ist, dass junge Brahmanen die Abschnitte des Veda und der Smṛti immer wieder studieren. &lt;!-- TODO: Fallback translation --&gt;
+21. Дхармата на ариите е младите брахмани да изучават отново и отново разделите на Ведата и Смрити.
 
-22. 22) Der Lehrer lehrte die Knaben den Veda und ging dann ins Haus. &lt;!-- TODO: Fallback translation --&gt;
+22. Учителят преподаде на момчетата Ведата и след това отиде в дома.
 
-23. 23) Welches Amulett hat das Mädchen beschützt? &lt;!-- TODO: Fallback translation --&gt;
+23. Кой амулет защити момичето?
 
-24. 24) Wahrheit ist die Leuchte der Welt. &lt;!-- TODO: Fallback translation --&gt;
+24. Истината е лампата на света.
 
-25. 25) Wem gehören diese Häuser? &lt;!-- TODO: Fallback translation --&gt;
+25. На кого принадлежат тези къщи?
 
-26. 26) Dharma aller ist: Nichtverletzen, Wahrheit, Reinheit, Neidlosigkeit, Nicht-Boshaftigkeit und Geduld. &lt;!-- TODO: Fallback translation --&gt;
+26. Дхармата на всички е: ненасилие, истина, чистота, липса на завист, злонамереност и търпение.
 
-27. 27) Die Kṣatriyas, die die Feinde besiegt haben, sitzen im Haus. &lt;!-- TODO: Fallback translation --&gt;
+27. Кшатриите, които са победили враговете, седят в дома.
 
-28. 28) Die ist eine (wirkliche) Gattin, die Liebes spricht; der aber ist ein (echter) Sohn, der lebt. Der lebt, der gute Eigenschaften besitzt; der lebt, der Dharma besitzt. &lt;!-- TODO: Fallback translation --&gt;
+28. Тя е (истинска) съпруга, която говори любов; а той е (истински) син, който живее. Живее този, който притежава добри качества; живее този, който притежава дхарма.
 
-29. 29) Der Götterfürst besiegt die Nichtarier, die Feinde des Indra sind. (Passiv) &lt;!-- TODO: Fallback translation --&gt;
+29. Върховният бог побеждава не-ариите, които са врагове на Индра. (Страдателен залог)
 
-30. 30) Yoga der Tat sind Askese (tapas n.), (Veda)rezitation, Dienstfertigkeit gegenüber dem HERRN. Er dient der Entfaltung der meditativen Versenkung und der Schwächung der kleśas. &lt;!-- TODO: Fallback translation --&gt;
+30. Йогата на действието е аскеза (тапас, същ. ж.), (редакция на) Ведата, услужливост към ГОСПОДА. Той служи на развитието на медитативното потапяне и отслабването на клешите.
 
-31. 31) Nahrungsaufnahme, Schlaf, Furcht und Paarung: dies ist eine Gemeinsamkeit der Menschen mit den Tieren. Im Dharma (liegt) nämlich deren hinzukommende Besonderheit. Vom Dharma verlassen sind sie den Tieren (Instr.) gleich. &lt;!-- TODO: Fallback translation --&gt;
+31. Хранене, сън, страх и спарване: това е общото между хората и животните. В дхармата (лежи) всъщност тяхната допълнителна особеност. Напуснати от дхарма, те са равни на животните (творителен падеж).
 
-32. 32) Die Leute werden geboren, um zu sterben. &lt;!-- TODO: Fallback translation --&gt;
+32. Хората се раждат, за да умрат.
 
-33. 33) Höllen sind wegen des Bösen. Das Böse hat als Ursprung Armut. Armut entsteht durch Nicht-Geben. &lt;!-- TODO: Fallback translation --&gt;
+33. Адите са заради злото. Злото има като начало бедността. Бедността възниква от не-даването.
 
-34. 34) Es ist Dharma der Kṣatriyas, dass die Kṣatriyas die Leute vor den Feinden schützen. &lt;!-- TODO: Fallback translation --&gt;
+34. Дхармата на кшатриите е кшатриите да предпазват хората от враговете.
 
-35. 35) Deshalb haben die drei (tisras) Wissenschaften das Regiment als Wurzel. Das Regiment, das Erziehung/gutes Verhalten als Wurzel hat, bringt den Lebewesen (प्राणभृत्) Gewinn und sicheren Besitz. &lt;!-- TODO: Fallback translation --&gt;
+35. Затова трите (тисрас) науки имат управлението като корен. Управлението, което има възпитанието/доброто поведение като корен, носи полза на живите същества (प्राणभृत्) и сигурна собственост.
 
-36. 36) Böse Leute hören nicht (zu), wenn der Lehrer über den Dharma spricht. &lt;!-- TODO: Fallback translation --&gt;
+36. Злите хора не слушат (накрай), когато учителят говори за дхарма.
 
-37. 37) Diesem Rāma sei Verehrung! &lt;!-- TODO: Fallback translation --&gt;
+37. На този Рама да бъде поклонение!
 
-38. 38) Der hehre Hari ist mein Weg/Ziel, der (seine) Feinde in einen Himmel schickte, die Seinen den Sinn des Veda wissen ließ, den Göttern Unsterblichkeitsspeise zu essen gab, den Schöpfer (विधि) den Veda lehrte, die Erde im Wasser (fest) setzte. &lt;!-- TODO: Fallback translation --&gt;
+38. Великият Хари е моят път/цел, който (изпрати) враговете си в небе, на своите показа смисъла на Ведата, на боговете даде безсмъртна храна да яде, на твореца (विधि) преподаде Ведата, постави земята във водата (твърдо).
 
-39. 39) Viṣṇu shows himself to his devotees. &lt;!-- TODO: Fallback translation --&gt;
+39. Вишну се показва на своите почитатели.
 
-40. 40) Ein Regiment, das nicht ausgeübt wird, bewirkt die Norm der Fische. &lt;!-- TODO: Fallback translation --&gt;
+40. Управление, което не се упражнява, причинява нормата на рибите.
 
-41. 41) Wer Reichtümer besitzt, der hat Freunde; wer Reichtümer besitzt, der hat Verwandte; wer Reichtümer besitzt, der ist ein Mann (पुमान् Nom. sq.) in der Welt; wer Reichtümer besitzt, der ist nämlich ein Gelehrter. &lt;!-- TODO: Fallback translation --&gt;
+41. Който притежава богатства, има приятели; който притежава богатства, има роднини; който притежава богатства, е човек (पुमान् Nom. sq.) в света; който притежава богатства, всъщност е учен.
 
-42. 42) Das Feuer, das den Verstorbenen verbrennt, verbrennt auch die gute Witwe. &lt;!-- TODO: Fallback translation --&gt;
+42. Огънят, който изгаря починалия, изгаря и добрата вдовица.
 
-43. 43) Die Dienerin des Brahmanen hat die Speise gekocht und isst sie (nun). &lt;!-- TODO: Fallback translation --&gt;
+43. Служничката на брахман е приготвила храната и я яде (сега).
 
-44. 44) Jetzt reicht's! &lt;!-- TODO: Fallback translation --&gt;
+44. Сега стига!
 
-45. 45) Diese Frucht reicht ihm zum Essen. &lt;!-- TODO: Fallback translation --&gt;
+45. Този плод му стига за храна.
 
-46. 46) Der innerste Tempelschrein ist ein haus für das Bildnis des Gottes. &lt;!-- TODO: Fallback translation --&gt;
+46. Най-вътрешната светилищна стая е дом за образа на божеството.
 
-47. 47) Ein Dieb wird vom Diebstahl befreit durch Strafe oder durch Freilassung. Wenn aber der König (राजा Nom. sg.) den (Dieb) nicht bestraft, erhält er die Schuld des Diebes. &lt;!-- TODO: Fallback translation --&gt;
+47. Крадецът се освобождава от кражбата чрез наказание или чрез освобождаване. Ако обаче царят (राजा Nom. sg.) не накара (крадеца), той поема вината на крадеца.
 
-48. 48) Weil er einen Fehler beim Opfer gemacht hat, ist der Brahmane nicht würdig, Reichtümer zu empfangen. &lt;!-- TODO: Fallback translation --&gt;
+48. Тъй като е допуснал грешка при жертвоприношението, брахманът не е достоен да приема богатства.
 
-49. 49) Wenn die Initiationszeremonie stattgefunden hat, soll er sich den Veda und die Philosophie von Gelehrten, die Ökonomie von Departementsvorstehern aneignen (उपयुज्). &lt;!-- TODO: Fallback translation --&gt;
+49. След като е извършена церемонията по инициацията, той трябва да си присвои Ведата и философията от учени, и икономиката от ръководители на департаменти (उपयुज्).
 
-50. 50) Vaiśyadharma ist, dass die Vaiśyas von Kauf und Verkauf leben. Da es so ist, kaufen und verkaufen die Vaiśyasöhne. &lt;!-- TODO: Fallback translation --&gt;
+50. Дхармата на вайшите е, че вайшите живеят от купуване и продажба. Тъй като е така, синовете на вайшите купуват и продават.
 
-51. 51) Man soll die Wahrheit sagen, man soll Angenehmes sagen; man soll nicht eine unangenehme Wahrheit sagen und man soll auch keine unangenehme Unwahrheit sagen. Dies ist der ewige Dharma. &lt;!-- TODO: Fallback translation --&gt;
+51. Трябва да се казва истината, трябва да се казва приятно; не трябва да се казва неприятна истина и не трябва да се казва неприятна неистина. Това е вечната дхарма.
 
-52. 52) Auf Wiedersehen! &lt;!-- TODO: Fallback translation --&gt;
+52. Довиждане!
 
 ::: media
 ![](/images/lekt3209.jpg)
-Abb.: पुनर्दर्शनाय
-(Bildquelle: [Details](/licenses#lekt3209)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: पुनर्दर्शनाय
+Индийско поздравление / сбогуване.
+(Източник на изображението: [Подробности](/bg/licenses#lekt3209))
 :::
 
-## 32.8. Упражнение zur Wiederholung
+## 32.8. Упражнение за повторение
 
-Übersetzen und bestimmen Sie folgende Wortformen: &lt;!-- TODO: Fallback translation --&gt;
+Преводайте и определете следните словоформи:
 
 1. अदुग्ध
 2. स्युः
@@ -634,42 +642,43 @@ Abb.: पुनर्दर्शनाय
 अहो वृद्धस्य कौशलम् ॥
 :::
 
-(aus: संस्कृतबालादर्श) &lt;!-- TODO: Fallback translation --&gt;
+(от: संस्कृतबालादर्श)
 
-एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छन्पथि श्रान्तो ऽभवत् ।
+
+Обяснения:
 
 ::: indent
-**पथि** Lok. sg. zu **पथ् m.** "Weg" (unregelmäßige Deklination) &lt;!-- TODO: Fallback translation --&gt;
+**पथि** Локатив ед.ч. към **पथ् м.р.** "път" (неправилно склонение)
 
-**लक्ष्यीकृ** च्विऽ-Suffix अन् **लक्ष्य + कृ** : etwas zum लक्ष्य machen, was vorher nicht लक्ष्य war &lt;!-- TODO: Fallback translation --&gt;
+**लक्ष्यीकृ** च्विऽ-суфикс अन् **लक्ष्य + कृ** : да направя нещо, което преди не е било लक्ष्य
 
-**आदाय** Absolutiv zu **आ-दा** (3. Präsensklasse) "nehmen" &lt;!-- TODO: Fallback translation --&gt;
+**आदाय** Абсолутив към **आ-दा** (3-та класа на настоящето време) "вземам"
 :::
 
 ::: media
 ![](/images/lekt3210.jpg)
-तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।
+Ил.: तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
+Маймуни в мангови дървета.
+(Източник на изображението: [Подробности](/bg/licenses#lekt3210))
 :::
 
 ::: deleteme-box
 
-### Източници
+**lekt3202:** Мангово дърво, Канпур. [Източник на изображението: AmarChandra / Уикипедия. CC BY-SA]
 
-**lekt3202:** Mangobaum, Kanpur. [Bildquelle: AmarChandra / Wikipedia. CC BY-SA] <!-- TODO: Fallback translation -->
+**lekt3203:** Маймуни (резуски макак) в Делхи. [Източник на изображението: dewalt / Flickr. CC BY-NC-SA]
 
-**lekt3203:** Affen (rhesus macaques) in Delhi. [Bildquelle: dewalt / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3204:** Камъноломна южно от Пуна, Махараштра. [Източник на изображението: lecercle / Flickr. CC BY-NC-SA]
 
-**lekt3204:** Stone quarry south of Pune, Maharashtra. [Bildquelle: lecercle / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3205:** Стрелба с цел / мишена за стрела, Карнатака. [Източник на изображението: mattlogelin / Flickr. CC BY-NC]
 
-**lekt3205:** Target practice / arrow target, Karnataka. [Bildquelle: mattlogelin / Flickr. CC BY-NC] <!-- TODO: Fallback translation -->
+**lekt3207:** Горещи кравешки торфени тухли в Раджастхан. [Източник на изображението: thebigdurian / Flickr. CC BY-NC-SA]
 
-**lekt3207:** Burning cowdung patties in Rajasthan. [Bildquelle: thebigdurian / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3206:** Мехнди рисунка по ръце в Мумбай. [Източник на изображението: the_gman / Flickr. CC BY-NC-SA]
 
-**lekt3206:** Mehndi painting on hands in Mumbai. [Bildquelle: the_gman / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3208:** Будаистки монах в Шри Ланка. [Източник на изображението: Trollderella / Уикипедия. GNU FDL]
 
-**lekt3208:** Buddhist monk in Sri Lanka. [Bildquelle: Trollderella / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3209:** Индийско поздравление / сбогуване. [Източник на изображението: dhyanji / Flickr. CC BY-NC-ND]
 
-**lekt3209:** Indian greeting / farewell. [Bildquelle: dhyanji / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3210:** Monkeys in mango trees. [Bildquelle: Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3210:** Маймуни в мангови дървета. [Източник на изображението: Уикипедия. GNU FDL]
 :::

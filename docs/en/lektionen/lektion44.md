@@ -1,18 +1,22 @@
 ---
+title: Lesson 44
+subtitle: "Formation of the verbal forms of the 2nd person (मध्यमः) athematic stems with a vocally ending suffix"
 lesson_id: 44
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 44
 
-## 44.1. Formation of the Second Person (मध्यमः) Verb Forms of Athematic Stems with Vowel-Ending Suffix
+## 44.1. Formation of the verbal forms of the 2nd person (मध्यमः) athematic stems with vocally ending suffix
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
 
 ::: grammar-box
-**The 3rd singular imperfect is formally identical to the 2nd plural imperfect!!!**
+**The 3.sg.Ā.Imperfect is formally identical with the 2.pl.P.Imperfect!!!**
 :::
 
 ### 44.1.1. Fifth Present Class (स्वादि)
@@ -20,22 +24,22 @@ last_reconstructed: 2026-05-21
 सु 5U
 
 ::: grammar-box
-| | Parasmaipada || Ātmanepada ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | sunoṣi[[br]]Cerebralisation! | sunuta | sunuṣe[[br]]Cerebralisation! | sunudhvam |
-| **Imperfect**[[br]]laṅ | asunos | asunuta | asunuthās | sunudhvam |
-| **Optative**[[br]]vidhilin | sunuyās | sunuyāt | sunvīthās | sunvīdhvam |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | सुनोषि[[br]]Cerebralisation! | सुनुथ | सुनुषे[[br]]Cerebralisation! | सुनुध्वे |
+| **Imperfect**[[br]]लङ् | असुनोस् | असुनुत | असुनुथास् | सुनुध्वम् |
+| **Optative**[[br]]विधिलिङ् | सुनुयास् | सुनुयात | सुन्वीथास् | सुन्वीध्वम् |
 :::
 
-### 44.1.2. The Eighth Class of Present Stems (तनादि)
+### 44.1.2. Eighth Present Class (तनादि)
 
 तन् 8U
 
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicative Present**[[br]]लट् | तनोषि | तनुथ | तनुषे | तनुध्वे |
 | **Imperfect**[[br]]लङ् | अतनोस् | अतनुत | अतनुथास् | अतनुध्वम् |
 | **Optative**[[br]]विधिलिङ् | तनुयास् | तनुयात | तन्वीथास् | तन्वीध्वम् |
@@ -46,7 +50,7 @@ last_reconstructed: 2026-05-21
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicative Present**[[br]]लट् | करोषि | कुरुथ | कुरुषे | कुरुध्वे |
 | **Imperfect**[[br]]लङ् | अकरोस् | अकुरुत | अकुरुथास् | अकुरुध्वम् |
 | **Optative**[[br]]विधिलिङ् | कुर्यास् | कुर्यात | कुर्वीथास् | कुर्वीध्वम् |
@@ -57,7 +61,7 @@ last_reconstructed: 2026-05-21
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicative Present**[[br]]लट् | क्रीणासि | क्रीणीथ | क्रीणीषे[[br]]Cerebralisation! | क्रीणीध्वे |
 | **Imperfect**[[br]]लङ् | अक्रीणास् | अक्रीणीत | अक्रीणीथास् | अक्रीणीध्वम् |
 | **Optative**[[br]]विधिलिङ् | क्रीणीयास् | क्रीणीयात | क्रीणीथास्[[br]]krī + n + ī-thās | क्रीणीध्वम्[[br]]krī + n + ī-dhvam |
@@ -65,26 +69,26 @@ last_reconstructed: 2026-05-21
 
 ## 44.2. On Word-Sandhi
 
-For present stems ending in a consonant, the previously discussed rules of word-sandhi must be observed.
+For present stems ending in a consonant, the already discussed rules of word-sandhi must be observed.
 
-Furthermore, the following rules of word-sandhi apply:
+Furthermore, the following rules of word-sandhi apply.
 
-(A comprehensive compilation of all phonological changes pertaining to this topic can be found in Kielhorn, *Grammar*, pp. 76f.)
+(A comprehensive compilation of all phonetic changes pertaining here can be found in Kielhorn, Grammar, pp. 76f.)
 
 ### 44.2.1. On Word-Sandhi for dh-
 
 ::: grammar-box
-1. **An aspirate is replaced by the corresponding non-aspirate before an aspirate:**
-   e.g., **रुध्** 7U: रुन्ध् + ध्वे » **रुन्द्ध्वे** (runddhve)
+1. **An aspirate before an aspirate is replaced by the corresponding non-aspirate:**
+   e.g. **रुध्** 7U: रुन्ध् + ध्वे » **रुन्द्ध्वे** (run***ddh***ve)
 2. **-h + dh- » -gdh-**
-   e.g., **दुह्** 2U: दुह् + ध्वे » **धुग्ध्वे** (dhugdhve)
+   e.g. **दुह्** 2U: दुह् + ध्वे » **धुग्ध्वे** (dhu***gdh***ve)
 3. **-ṣ + dh- » -ḍḍh-** (This rule applies only to conjugation!)
-   e.g., **द्विष्** 2U: द्विष् + ध्वे » **द्विड्ढ्वे** (dviḍḍhve)
-4. **-s + dh- » -dh-** (Deletion of -s)
-   e.g., **आस्** 2Ā: आस् + ध्वे » **आध्वे** (ādhve)
+   e.g. **द्विष्** 2U: द्विष् + ध्वे » **द्विड्ढ्वे** (dvi***ḍḍh***ve)
+4. **-s + dh- » -dh-** (Loss of -s)
+   e.g. **आस्** 2Ā: आस् + ध्वे » **आध्वे** (ādhve)
 :::
 
-### 44.2.2. On Word-Sandhi for s-
+### 44.2.2. On s-Sandhi
 
 ::: grammar-box
 1. **-s + s- » -ts- or (not optionally!) -ss-** (as in the 2nd Present class)
@@ -92,104 +96,104 @@ Furthermore, the following rules of word-sandhi apply:
    * **वस्** 1P: Future: वस् + स्य + ति » **वत्स्यति** (va***ts***yati)
    * **वस्** 2Ā: वस् + से » **वस्से** (va***ss***e)
 2. **-ṣ + s- » -kṣ-**
-   e.g., **द्विष्** 2U: द्वेष् + सि » **द्वेक्षि** (dve***kṣ***i)
+   e.g. **द्विष्** 2U: द्वेष् + सि » **द्वेक्षि** (dve***kṣ***i)
 :::
 
-## 44.3. Formation of the Second Person (मध्यमः) Verbal Forms of Athematic Stems without Vowel-Ending Suffix
+## 44.3. Formation of the verbal forms of the 2nd person (मध्यमः) athematic stems without a vocally ending suffix
 
 ### 44.3.1. Second Present Class (अदादि)
 
 ::: grammar-box
-| | Parasmaipada || Ātmanepada ||
-| --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | dveṣi | dviṣṭha | dvikṣe | dviḍdhdve |
-| **Imperfect**[[br]]laṅ | adveṭ[[br]]a-dveṣ + s | adviṣṭa | adviṣṭhās | dviḍdhdham |
-| **Optative**[[br]]vidhilinṅ | dviṣyās | dviṣyāt | dviṣīthās | dviṣīdhvam |
+| | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | द्वेक्षि | द्विष्ठ | द्विक्षे | द्विड्ढ्वे |
+| **Imperfect**[[br]]लङ् | अद्वेट्[[br]]a-dveṣ + s | अद्विष्ट | अद्विष्ठास् | द्विड्ढ्वम् |
+| **Optative**[[br]]विधिलिङ् | द्विष्यास् | द्विष्यात | द्विषीथास् | द्विषीध्वम् |
 :::
 
-āst 2Ā
+आस् 2Ā
 
 ::: grammar-box
-| | Ātmanepada ||
-| --- | --- |
-| | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | āsse | ādhve |
-| **Imperfect**[[br]]laṅ | āsthās | ādhvam |
-| **Optative**[[br]]vidhilinṅ | āsīthās | āsīdhvam |
+| | आत्मनेपदम् ||
+| --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | आस्से | आध्वे |
+| **Imperfect**[[br]]लङ् | आस्थास् | आध्वम् |
+| **Optative**[[br]]विधिलिङ् | आसीथास् | आसीध्वम् |
 :::
 
-duh 2U
+दुह् 2U
 
 ::: grammar-box
-| | Parasmaipada || Ātmanepada ||
-| --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | dhokṣi | dugdha | dhukṣe | dhukdhdve |
-| **Imperfect**[[br]]laṅ | adhokṣ[[br]]from: adhokṣa | adugdha | adugdhhās | adhukdhdham |
-| **Optative**[[br]]vidhilinṅ | duhyās | duhyāt | duhīthās | duhīdhvam |
+| | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | धोक्षि | दुग्ध | धुक्षे | धुग्ध्वे |
+| **Imperfect**[[br]]लङ् | अधोक्[[br]]from: adhokṣ | अदुग्ध | अदुग्धास् | अधुग्ध्वम् |
+| **Optative**[[br]]विधिलिङ् | दुह्यास् | दुह्यात | दुहीथास् | दुहीध्वम् |
 :::
 
-i 2P
+इ 2P
 
 ::: grammar-box
-| | Parasmaipada || Ātmanepada ||
-| --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | eṣi | itha | &lt;iṣe&gt; | &lt;idhve&gt; |
-| **Imperfect**[[br]]laṅ | ais[[br]]a + e + s | ait[[br]]a + i + ta | | |
-| **Optative**[[br]]vidhilinṅ | iyās | iyāt | iyīthās[[br]]iy-ī-thās | iyīdhvam |
-:::
-
-::: grammar-box
-| | Parasmaipada ||
-| --- | --- |
-| | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | hanṣi[[br]]han + si | hatha[[br]]from: *hn + ta |
-| **Imperfect**[[br]]laṅ | ahan[[br]]from: a-han + s | ahat[[br]]from: a-*hn + ta |
-| **Optative**[[br]]vidhilinṅ | hanyās | hanyāt |
-:::
-
-stu 2U
-
-::: grammar-box
-| | Parasmaipada || Ātmanepada ||
-| --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | stauṣi[[br]]stavīṣi | stutha[[br]]stuvītha | stuṣe[[br]]stuvīṣe | studhve[[br]]stuvīdhve |
-| **Imperfect**[[br]]laṅ | astaus[[br]]astavīs | stuta[[br]]astuvīta | astuthās[[br]]astuvīthās | studhvam[[br]]astuvīdhvam |
-| **Optative**[[br]]vidhilinṅ | stuyās[[br]]stuvīyās | stuyāt[[br]]stuvīyāt | stuvīthās[[br]]stu + ī-thās | stuvīdhvam |
-:::
-
-as 2P (especially noteworthy!)
-
-::: grammar-box
-| | Parasmaipada ||
-| --- | --- |
-| | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | ***asi*** | ***stha*** |
-| **Imperfect**[[br]]laṅ | ***āsīs*** | ***āsta*** |
-| **Optative**[[br]]vidhilinṅ | ***syās*** | ***syāt*** |
-:::
-
-tattvamasi
-
-śās 2P
-
-::: grammar-box
-| | Parasmaipada ||
-| --- | --- |
-| | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | śāssi | śiṣṭha |
-| **Imperfect**[[br]]laṅ | aśās | aśiṣṭa |
-| **Optative**[[br]]vidhilinṅ | śiṣyās | śiṣyāt |
+| | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | एषि | इथ | &lt;इषे&gt; | &lt;इध्वे&gt; |
+| **Imperfect**[[br]]लङ् | ऐस्[[br]]a + e + s | ऐत[[br]]a + i + ta | | |
+| **Optative**[[br]]विधिलिङ् |  इयास् |  इयात |  इयीथास्[[br]]iy-ī-thās |  इयीध्वम् |
 :::
 
 ::: grammar-box
-| | Parasmaipada ||
-| --- | --- |
-| | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | atsī | attha |
+| | परस्मैपदम् ||
+| --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | हंसि[[br]]han + si | हथ[[br]]from: *hn + ta |
+| **Imperfect**[[br]]लङ् | अहन्[[br]]from: a-han + s | अहत[[br]]from: a-*hn + ta |
+| **Optative**[[br]]विधिलिङ् | हन्यास् | हन्यात |
+:::
+
+स्तु 2U
+
+::: grammar-box
+| | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | स्तौषि[[br]]स्तवीषि | स्तुथ[[br]]स्तुवीथ | स्तुषे[[br]]स्तुवीषे | स्तुध्वे[[br]]स्तुवीध्वे |
+| **Imperfect**[[br]]लङ् | अस्तौस्[[br]]अस्तवीस् | स्तुत[[br]]अस्तुवीत | अस्तुथास्[[br]]अस्तुवीथास् | स्तुध्वम्[[br]]अस्तुवीध्वम् |
+| **Optative**[[br]]विधिलिङ् | स्तुयास्[[br]]स्तुवीयास् | स्तुयात[[br]]स्तुवीयात | स्तुवीथास्[[br]]stu + ī-thās | स्तुवीध्वम् |
+:::
+
+अस् 2P (especially to be remembered!)
+
+::: grammar-box
+| | परस्मैपदम् ||
+| --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | ***असि*** | ***स्थ*** |
+| **Imperfect**[[br]]लङ् | ***आसीस्*** | ***आस्त*** |
+| **Optative**[[br]]विधिलिङ् | ***स्यास्*** | ***स्यात*** |
+:::
+
+तत्त्वमसि
+
+शास् 2P
+
+::: grammar-box
+| | परस्मैपदम् ||
+| --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | शास्सि | शिष्ठ |
+| **Imperfect**[[br]]लङ् | अशास् | अशिष्ट |
+| **Optative**[[br]]विधिलिङ् | शिष्यास् | शिष्यात |
+:::
+
+::: grammar-box
+| | परस्मैपदम् ||
+| --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | अत्सि | अत्थ |
 
 | **Imperfect**[[br]]लङ् | 2.sg. आदस्[[br]]3.sg. आदत् | अत्त |
 | **Optative**[[br]]विधिलिङ् | अद्यास् | द्यात |
@@ -197,12 +201,12 @@ tattvamasi
 
 ## 44.4. The Vocative (आमन्त्रितम्)
 
-Indigenous grammarians do not consider the vocative (आमन्त्रितम्) to be an independent case, but rather only a modification of the nominative (प्रथमा).
+The native grammarians do not consider the vocative (आमन्त्रितम्) as an independent case, but only as a modification of the nominative (प्रथमा).
 
 :::: important
-**The vocative serves for calling out to or addressing someone and stands outside the syntactic connection with the rest of the sentence; thus, it differs from other cases, which express a relationship to the verb or to another noun.**
+**The vocative serves for calling out, addressing, and stands outside the context of the rest of the sentence, thus differing from the other cases that express a relationship to the verb or to another noun.**
 
-**The vocative is usually placed at the beginning of the sentence:**
+**Mostly, the vocative is placed at the beginning of the sentence:**
 
 ::: indent
 बाल किं वदसि = "Child, what are you saying?"
@@ -210,31 +214,31 @@ Indigenous grammarians do not consider the vocative (आमन्त्रित
 ::::
 
 ::: important
-**Avoid translating the vocative with "*O* ..." We use vocatives constantly in German, for example when we say: "Darling, what are we cooking today?" No one would say in this sense: "*O* Darling, what are we cooking today?"**
+**Avoid translating the vocative with "***O*** ...". We constantly use vocatives in German when we say, for example: "Darling, what are we cooking today?". Nobody would say in this meaning: "***O*** Darling, what are we cooking today?"**
 :::
 
 ::: media
 ![](/images/lekt4402.jpg)
-Fig.: On the proper use of "O" in German: "O Man!"
-(Image source: [Details](/licenses#lekt4402))
+Fig.: On the correct use of "O" in German: ***"O man!"***
+(Image source: [Details](/en/licenses#lekt4402))
 :::
 
 ::: grammar-box
-**The forms of the vocative plural and dual are identical to those of the nominative (प्रथमा) plural and dual, respectively.**
+**The forms of the vocative plural and dual are identical to those of the nominative (प्रथमा) plural and dual.**
 
-**The forms of the vocative singular are presented in [Lesson 45](lektion45.md).**
+**The forms of the vocative singular are given in [Lesson 45](lektion45.md).**
 :::
 
 ## 44.5. Word List
 
-प्रति (Preverb): back, against, toward – in the direction of
+प्रति Preverb: back, against, toward - away
 
 ::: indent
-For example:
+e.g.
 
 **हन् + प्रति** 2P प्रतिहन्ति : to strike back
 
-**वद् + प्रति** 1P प्रतिवदति : to speak back = to answer
+**वद् + प्रति** 1P प्रतिवदति : to say back = to answer
 
 **ख्या + प्रति + आ** 2P प्रत्याख्याति : to reject, to spurn
 :::
@@ -249,7 +253,7 @@ Caus. यापयति
 PPP यात  
 Inf. यातुम्  
 
-Derived from this:
+therefrom:
 
 **यान** n.: going, path, vehicle
 :::
@@ -257,10 +261,10 @@ Derived from this:
 ::: media
 ![](/images/lekt4403.jpg)
 Fig.: रेल्यानम्
-(Image source: [Details](/licenses#lekt4403))
+(Image source: [Details](/en/licenses#lekt4403))
 :::
 
-**शी** 2Ā शेते : to lie down. This root exhibits the ***strong grade:*** 1.sg.Ind.Pres.Ā ***शेये*** (śe + e) in all forms of the present stem. The following forms are particularly noteworthy: 3.pl.Ind.Pres.Ā ***शेरते***, 3.pl.Impf.Ā ***अशेरत***
+**शी** 2Ā शेते : to lie. This root has in all forms of the present stem ***Strong Grade:*** 1.sg.Ind.Pres.Ā ***शेये*** (śe + e). The following forms are particularly noteworthy: 3.pl.Ind.Pres.Ā ***शेरते***, 3.pl.Impf.Ā ***अशेरत***
 
 ::: indent
 Perf. IIIa शिश्ये (śi-śī + e)  
@@ -269,18 +273,18 @@ Caus. शापयति
 PPP शयित  
 Inf. शयितुम्  
 
-Derived from this:
+therefrom:
 
-**शयन** n.: place to lie, bed
+**शयन** n.: couch, bed
 :::
 
 ::: media
 ![](/images/lekt4404.jpg)
 Fig.: योगी शयने शेते
-(Image source: [Details](/licenses#lekt4404))
+(Image source: [Details](/en/licenses#lekt4404))
 :::
 
-नन्द् 1P नन्दति : to rejoice in (dative case)
+नन्द् 1P नन्दति : to rejoice in (तृतीयया)
 
 ::: indent
 Perf. I ननन्द  
@@ -292,20 +296,20 @@ Inf. नन्दितुम्
 Absol. -नन्द्य  
 Gerundive नन्द्य  
 
-Derived from this:
+therefrom:
 
-**नन्दिन्** 3: characterized by (special) joy, joyful; m. name of the mount (वहन) of शिव (a bull)
+**नन्दिन्** 3: characterized by (special) joy, joyful; m. name of the mount (वहन) of the शिव (a bull)
 :::
 
 ::: media
 ![](/images/lekt4405.jpg)
 Fig.: नन्दी
-(Image source: [Details](/licenses#lekt4405))
+(Image source: [Details](/en/licenses#lekt4405))
 :::
 
-नन्द् + अभि 1P (1Ā)  अभिनन्दति : to take pleasure in (accusative case), to greet someone joyfully, to welcome
+नन्द् + अभि 1P (1Ā)  अभिनन्दति : to take pleasure in (द्वितीयया), to greet someone joyfully, to welcome
 
-**यम्** 1P ***यच्छति*** : to hold, to carry; to grant, to bestow; to hold together, to restrain, to bridle, to subdue
+**यम्** 1P ***यच्छति*** : to hold, to carry; to offer, to grant; to hold together, to restrain, to bridle, to conquer
 
 ::: indent
 Perf. Vb ययाम, येमुर्  
@@ -317,23 +321,23 @@ Inf. यन्तुम्
 Absol. -यम्य
 :::
 
-**यम् + आ** 1U आयच्छति : to stretch, to extend
+**यम् + आ** 1***U*** आयच्छति : to extend, to stretch out
 
 ::: indent
-PPP आयत 3: long-stretched
+PPP आयत 3: long stretched out
 :::
 
 ::: media
 ![](/images/lekt4406.jpg)
 Fig.: आयतो मरुः
-(Image source: [Details](/licenses#lekt4406))
+(Image source: [Details](/en/licenses#lekt4406))
 :::
 
-यम् + प्र 1P प्रयच्छति : to grant, to offer, to hand over
+यम् + प्र 1P प्रयच्छति : to offer, to present, to hand over
 
-यम् + सम् 1P संयच्छति : to bind together, to tie up, to subdue
+यम् + सम् 1P संयच्छति : to bind together, to tie up, to restrain
 
-यत् 1Ā यतते : to strive for (locative, instrumental, accusative)
+यत् 1Ā यतते : to strive for (सप्तमी, चतुर्थी, द्वितीया)
 
 ::: indent
 Perf. Vb येते  
@@ -343,7 +347,7 @@ Caus. यातयति
 PPP यत्त  
 Inf. यतितुम्  
 
-Derived from this:
+therefrom:
 
 **यत्न** m.: effort, exertion
 :::
@@ -351,10 +355,10 @@ Derived from this:
 ::: media
 ![](/images/lekt4407.jpg)
 Fig.: यत्नेन
-(Image source: [Details](/licenses#lekt4407))
+(Image source: [Details](/en/licenses#lekt4407))
 :::
 
-**रभ्** 1Ā रभते (variant form of लभ्): to grasp
+**रभ्** 1Ā रभते (variant form to लभ्): to grasp
 
 ::: indent
 Perf. Vb रेभे  
@@ -368,7 +372,7 @@ Absol. -रभ्य
 
 रभ् + आ 1Ā आरभते : to touch, to begin, to undertake
 
-प्रव्रज्या f. (from प्र-व्रज्): the act of leaving home for homelessness; the ceremony by which one becomes a Buddhist novice (Pali: पब्बजा)
+प्रव्रज्या f. (to प्र-व्रज्): the going out from home into homelessness; ceremony with which one becomes a Buddhist novice (Pali: पब्बजा)
 
 ::: deleteme-box
 See:
@@ -380,7 +384,7 @@ See:
 ::: media
 ![](/images/lekt4408.jpg)
 Fig.: प्रव्रअज्या / पब्बजा
-(Image source: [Details](/licenses#lekt4408))
+(Image source: [Details](/en/licenses#lekt4408))
 :::
 
 ## 44.6. Exercise
@@ -443,10 +447,10 @@ A) Identify and translate the following forms:
 ::: media
 ![](/images/lekt4409.jpg)
 Fig.: कस्माद्रोदिषि
-(Image source: [Details](/licenses#lekt4409))
+(Image source: [Details](/en/licenses#lekt4409))
 :::
 
-B) Translate the following:
+B) Translate:
 
 अक्रोधेन जयेत्क्रोधमसाधुं सधुना जयेज्जयेत्सत्येन चानृतम् ॥१॥
 
@@ -465,9 +469,9 @@ B) Translate the following:
 अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः ।  
 मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥८॥
 
-## 44.7. Repetition Exercise on Morphology
+## 44.7. Form Review Exercise
 
-Identify the following forms:
+Determine the following forms:
 
 1.  वदिता
 2.  उदिता
@@ -513,25 +517,23 @@ Identify the following forms:
 
 ::: deleteme-box
 
-### Sources
-
 **lekt4301.jpg**: Details in licenses.md
 
 **lekt4401.jpg**: No specific license/image source found in the text
 
-**lekt4402.jpg**: Drawing by Henri Gerbault (1863–1930) (Public domain)
+**lekt4402.jpg**: Drawing by Henri Gerbault (1863 - 1930) (Public domain)
 
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-Commercial, No Derivatives)
+**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial, No derivatives)
 
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-Commercial, Share Alike)
+**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial, Share alike)
 
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-Commercial)
+**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial)
 
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-Commercial)
+**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial)
 
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-Commercial, Share Alike)
+**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial, Share alike)
 
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-Commercial, No Derivatives)
+**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial, No derivatives)
 
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-Commercial, No Derivatives)
+**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial, No derivatives)
 :::

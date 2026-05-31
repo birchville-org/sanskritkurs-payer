@@ -1,6 +1,10 @@
 ---
+title: Lektion 14
+subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = षष्टी = sechste Kasusendung)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 14
@@ -161,13 +165,10 @@ Weiteres später.
 * **bhūṣ-aṇa n** (भूषण) : Schmuck
 * **dīpa m.** (दीप) : Lampe
 
-::: center
-
 ::: media
-![]/images/lekt1405.jpg
-Abb.: दीपाः)
+![](/images/lekt1405.jpg)
+Abb.: दीपाः
 (Bildquelle: [Details](/licenses#lekt1405))
-:::
 :::
 
 * **bala n.** (बल) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
@@ -252,13 +253,10 @@ Abb.: दीपाः)
 
 २५. पुत्रवती
 
-::: center
-
 ::: media
-![]/images/lekt1404.jpg
-Abb.: पुत्रवती)
+![](/images/lekt1404.jpg)
+Abb.: पुत्रवती
 (Bildquelle: [Details](/licenses#lekt1404))
-:::
 :::
 
 २६. जल
@@ -317,13 +315,10 @@ Abb.: पुत्रवती)
 
 ५३. किम्
 
-::: center
-
 ::: media
-![]/images/lekt1403.jpg
-Abb.: अयं बालः कस्याः पुत्रः ।)
+![](/images/lekt1403.jpg)
+Abb.: अयं बालः कस्याः पुत्रः ।
 (Bildquelle: [Details](/licenses#lekt1403))
-:::
 :::
 
 **B) Übersetzen Sie:**
@@ -354,11 +349,8 @@ Abb.: अयं बालः कस्याः पुत्रः ।)
 
 १३. कस्यान्नमनेनर्षिणेष्टम् ।
 
-::: center
-
 ::: media
-![]/images/lekt1402.jpg
-Abb.: केषामिमानि गृहाणि ।)
+![](/images/lekt1402.jpg)
+Abb.: केषामिमानि गृहाणि ।
 (Bildquelle: [Details](/licenses#lekt1402))
-:::
 :::

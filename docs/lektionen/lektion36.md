@@ -1,6 +1,10 @@
 ---
+title: Lektion 36
+subtitle: "Besondere Bildungen des Perfekts"
 lesson_id: 36
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 36
@@ -15,9 +19,9 @@ Beispiele:
 
 | Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **जि** 1P[[br]]Perf. IIIa | **जिगाय** | **जिग्युर्**[[br]]ji-gi + ur | | |
-| **चि** 5U[[br]]Perf. IIIa | **चिकाय**[[br]]**चिचाय** | **चिक्युर्**[[br]]**चिच्युर्** | **चिक्ये**[[br]]**चिच्ये** | **चिक्यिरे**[[br]]**चिच्यिरे** |
-| **हन्** 2P[[br]]Perf. Va | **जघान** | **जघ्नुर्** | | |
+| **जि** 1P[[br]]Perf. IIIa | जि***गा***य | जि***ग्यु***र्[[br]]ji-gi + ur | | |
+| **चि** 5U[[br]]Perf. IIIa | चि***का***य[[br]]**चिचाय** | चि***क्यु***र्[[br]]**चिच्युर्** | चि***क्ये***[[br]]**चिच्ये** | चि***क्यि***रे[[br]]**चिच्यिरे** |
+| **हन्** 2P[[br]]Perf. Va | ज***घा***न | ज***घ्नु***र् | | |
 
 :::: grammar-box
 2\. Die Wurzel विद् 2P "wissen" hat ein Perfekt mit präsentischer Bedeutung.
@@ -197,7 +201,7 @@ PPP ग्लान
 Inf. ग्लातुम्  
 Absol. -ग्लाय
 :::
-घ्रा 1P जिघ्रति : etwas riechen
+घ्रा 1P ***जिघ्रति*** : etwas riechen
 
 ::: indent
 Perf. IV जघ्रौ  
@@ -216,7 +220,7 @@ Absol. -घ्राय
 Perf. IIIa पिप्राय, पिप्रिये  
 Fut. प्रेष्यति  
 Pass. प्रीयते  
-Kaus. प्रीणयति  
+Kaus. ***प्रीणयति***  
 PPP प्रीत  
 Inf. प्रेतुम्
 :::
@@ -418,16 +422,16 @@ Abb.: पुत्रे जाते सुगतः कुलं धनं च
 1\. महाभारत १३.७.२५-२६
 
 ::: indent
-येन प्रीणति पितरं
+येन प्रीणति ***पितरं***
 तेन प्रीतः प्रजापतिः ।
-प्रीणति मातरं येन
+प्रीणति ***मातरं*** येन
 पृथिवी तेन पूजिता ।
 येन प्रीणात्युपाध्यायं
-तेन स्याद्ब्रह्म पूजितम् ।
-सर्वे तस्यादृता धर्मा
-यस्यैते त्रय आदृताः ।
+तेन स्या***द्ब्रह्म*** पूजितम् ।
+***सर्वे*** तस्यादृता धर्मा
+यस्यैते ***त्रय*** आदृताः ।
 अनादृतास्तु यस्यैते
-सर्वास्तस्याफलाः क्रियाः ॥
+***सर्वास्त***स्याफलाः क्रियाः ॥
 
 Erklärungen:
 
@@ -461,7 +465,7 @@ Abb.: येन प्रीणात्युपाध्यायं तेन
 
 ::: indent
 श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च भुक्त्वा घ्रात्वा च यो नरः ।
-न हृष्यति ग्लायति वा स विज्ञेयो जितेन्द्रियः ॥
+न हृष्यति ग्लायति वा स ***विज्ञेयो*** जितेन्द्रियः ॥
 
 Erklärung: विज्ञेय ३: einer, der zu erkennen ist; einer, der zu wissen ist (als)
 :::
@@ -527,13 +531,12 @@ Bestimmen und übersetzen Sie folgende Wortformen auf alle möglichen Weisen:
 40.  अपिबत्
 
 ::: deleteme-box
-### Quellen
 
 - **lekt3601.jpg**: Abb.: गोमयं चिकाय  Udaipur = उदयपुर [Bildquelle: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Zugriff am  2008-12-28. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
 - **lekt3602.jpg**: Abb.: अगारम् Shekawati = शेखावाटी [Bildquelle: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Zugriff am  2008-12-28. --   Creative  Commons Lizenz (Namensnennung, shere alike)]
 - **lekt3603.jpg**: Abb.: अनगार्यम् 	Nordostthailand = อีสาน 	[Bildquelle: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Zugriff am  	2008-12-28. --  	 	Creative  	Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine  	Bearbeitung)]
 - **lekt3604.jpg**: Abb.: लोमहर्षः (लोमन् n. Körperhaar) [Bildquelle: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Zugriff am 2008-12-29.  --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
 - **lekt3605.jpg**: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज Gandhara, 1./2. Jhdt. n. Chr. [Bildquelle: Wikipedia. GNU FDLicense]
-- **lekt3606.jpg**: Abb.:स् सुगतो भूमीं पस्पर्श भूमीस्पर्शмудра [Bildquelle: Payer]
+- **lekt3606.jpg**: Abb.:स् सुगतो भूमीं पस्पर्श भूमीस्पर्शMudrā [Bildquelle: Payer]
 - **lekt3607.jpg**: Abb.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् । [Bildquelle: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Zugriff am  2008-12-29. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 :::

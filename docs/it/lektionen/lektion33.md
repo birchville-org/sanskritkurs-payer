@@ -1,231 +1,230 @@
 ---
-title: Lektion 33
+title: Lezione 33
 lesson_id: 33
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+---
 
-# Lektion 33
+# Lezione 33
 
-## 33.1. Die Reduplikation (अभ्यास m.)
+## 33.1. La reduplicazione (अभ्यास m.)
 
 * La terza classe del presente
-* (così come alcuni verbi di altre classi del presente),
-* il perfetto
-* l’aoristo reduplicato
-* il frequentativo
-* e il desiderativo
+* (nonché alcuni verbi di altre classi del presente),
+* il perfetto,
+* l’aoristo reduplicato,
+* il frequentativo e
+* il desiderativo
 
-vengono formati mediante reduplicazione. La parte di una forma reduplicata che viene collocata prima della radice è detta sillaba di reduplicazione.
+si formano mediante reduplicazione. La parte di una forma reduplicata, che viene posta prima della radice, è detta sillaba di reduplicazione.
 
 La sillaba di reduplicazione è composta da (una consonante e) una vocale.
 
-### 33.1.1. Der Reduplikationskonsonant
+### 33.1.1. La consonante di reduplicazione
 
 ::: grammar-box
-La terza classe del presente
+**1. Abitualmente:**  
+**Ripetizione della prima consonante della radice**
 :::
 
-(così come alcuni verbi di altre classi del presente),
+Esempi:
 
 ::: indent
-il perfetto
-* l’aoristo reduplicato
+**दा** 3 "dare"
+* 3.sg.P.Ind.Pres. **ददाति**
 
-il frequentativo
-* e il desiderativo
+**पॄ** 3 "riempire"
+* 3.sg.P.Ind.Pres. ***पि***पर्ति
 
-vengono formati mediante reduplicazione. La parte di una forma reduplicata che viene collocata prima della radice è detta sillaba di reduplicazione.
-* La sillaba di reduplicazione è composta da (una consonante e) una vocale.
+**मा** 3Ā "misurare"
+* 3.sg.Ā.Ind.Pres. ***मि***मीते
 :::
 
 ::: grammar-box
-**2. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.** &lt;!-- TODO: Fallback translation --&gt;
+**2. Un consonante iniziale aspirata di una radice viene reduplicata dalla corrispondente consonante non aspirata.**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Esempi:
 
 ::: indent
-**धा** 3 "setzen" &lt;!-- TODO: Fallback translation --&gt;
-* 3.sg.P.Ind.Präs. **दधाति** &lt;!-- TODO: Fallback translation --&gt;
+**धा** 3 "porre"
+* 3.sg.P.Ind.Pres. **दधाति**
 
-**भी** 3 "fürchten" &lt;!-- TODO: Fallback translation --&gt;
-* 3.sg.P.Ind.Präs. **बिभेति** &lt;!-- TODO: Fallback translation --&gt;
+**भी** 3 "temere"
+* 3.sg.P.Ind.Pres. ***बि***भेति
 :::
 
 :::: grammar-box
-**3. Ein Guttural wird durch den ihm entsprechenden nicht-aspirierten Palatal redupliziert:** &lt;!-- TODO: Fallback translation --&gt;
+**3. Una gutturale viene reduplicata dalla corrispondente palatale non aspirata:**
 
 ::: indent
-**क्**, **ख्** durch **च्**  
-**ग्**, **घ्** durch **ज्** &lt;!-- TODO: Fallback translation --&gt;
+**क्**, **ख्** attraverso **च्**  
+**ग्**, **घ्** attraverso **ज्**
 :::
 
-**ह् wird immer durch ज् redupliziert.** &lt;!-- TODO: Fallback translation --&gt;
+**ह् viene sempre reduplicato da ज्.**
 ::::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Esempi:
 
 ::: indent
-**हु** 3 "(zum Opfer) ins Feuer gießen" &lt;!-- TODO: Fallback translation --&gt;
-* 3.sg.P.Ind.Präs. **जुहोति** &lt;!-- TODO: Fallback translation --&gt;
+**हु** 3 "(sacrificare) versare nel fuoco"
+* 3.sg.P.Ind.Pres. **जुहोति**
 :::
 
 ::: grammar-box
-**4. Beginnt eine Wurzel mit mehreren Konsonanten, so wird nur der erste (gegebenenfalls unter Anwendung von Regel 2 bzw. 3) wiederholt.** &lt;!-- TODO: Fallback translation --&gt;
+**4. Se una radice inizia con più consonanti, viene ripetuta solo la prima (eventualmente applicando la regola 2 o 3).**
 :::
 
 ::: grammar-box
-**5. Beginnt eine Wurzel mit einer Konsonantengruppe Zischlaut + tonloser Konsonant, so wird nicht der Zischlaut, sondern der darauf folgende tonlose Konsonant gemäß obigen Regeln redupliziert.** &lt;!-- TODO: Fallback translation --&gt;
+**5. Se una radice inizia con un gruppo di consonanti fricativa + consonante sorda, non viene reduplicata la fricativa, ma la consonante sorda seguente secondo le regole precedenti.**
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Esempio:
 
 ::: indent
-**स्था** 1 "stehen" &lt;!-- TODO: Fallback translation --&gt;
-* 3.sg.P.Ind.Präs. **तिष्ठति** &lt;!-- TODO: Fallback translation --&gt;
+**स्था** 1 "stare"
+* 3.sg.P.Ind.Pres. **तिष्ठति**
 :::
 
-## 33.2. Die dritte Presenteklasse (जुहोत्यादि = "जुहोति u.s.w.")
+## 33.2. La terza classe del presente (जुहोत्यादि = "जुहोति ecc.")
 
 ::: grammar-box
 **Formazione:**
 
 **radice forte:**  
-**radice in grado pieno + desinenza reduplicata**
+**radice accentata con alto tono + desinenza**
 
 **radice debole:**  
-**radice in grado ridotto + desinenza reduplicata**
+**radice accentata con basso tono + desinenza**
 
-**Per la consonante di reduplicazione valgono le regole fornite sopra.**
+**Per la consonante di reduplicazione valgono le regole date sopra.**
 :::
 
-### 33.2.1. Der Reduplikationsvokal der 3. Presenteklasse
+### 33.2.1. La vocale di reduplicazione della 3. classe di presente
 
 ::: grammar-box
-* **Formazione:**
-* **radice forte:**  
-**radice in grado pieno + desinenza reduplicata**
-* **radice debole:**  
-**radice in grado ridotto + desinenza reduplicata**
+* **La vocale di reduplicazione regolare è -i-**
+* **Le radici contenenti -u reduplicano con -u-**
+* **le radici दा, धा, हा con -a-**
 :::
 
-**Per la consonante di reduplicazione valgono le regole fornite sopra.**
+Esempi:
 
 :::: grammar-box
-**हु** 3P "(zum Opfer) ins Feuer gießen" <!-- TODO: Fallback translation -->
+**हु** 3P "(versare) nel fuoco (dell'offerta)"
 
-* **starker Tema:** जुहो <!-- TODO: Fallback translation -->
-* **schwacher Tema:** जुहु <!-- TODO: Fallback translation -->
+* **radice forte:** जुहो
+* **radice debole:** जुहु
 
-| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** | जुहोति | जुह्वति[[br]](juhu + ati) | &lt;जुहुते&gt; | &lt;जुह्वते&gt;[[br]](juhu + ate) | <!-- TODO: Fallback translation -->
-| **Imperfekt** | अजुहोत्[[br]](a-juho-t) | जुहवुर्[[br]](a-juho + ur) | &lt;अजुहुत&gt; | &lt;अजुह्वत&gt;[[br]](a-juhu + ata) | <!-- TODO: Fallback translation -->
-| **Optativ** | जुहुयात्[[br]](juhu-yā-t) | जुहुयुर्[[br]](juhu-y-ur) | &lt;जुह्वीत&gt;[[br]](juhu + ī-ta) | &lt;जुह्वीरन्&gt;[[br]](juhu + ī-ran) | <!-- TODO: Fallback translation -->
+| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **Indicativo Presente** | जुहोति | जुह्वति[[br]]juhu + ati | &lt;जुहुते&gt; | &lt;जुह्वते&gt;[[br]]juhu + ate |
+| **Imperfetto** | अजुहोत्[[br]]a-juho-t | जुहवुर्[[br]]a-juho + ur | &lt;अजुहुत&gt; | &lt;अजुह्वत&gt;[[br]]a-juhu + ata |
+| **Optativo** | जुहुयात्[[br]]juhu-yā-t | जुहुयुर्[[br]]juhu-y-ur | &lt;जुह्वीत&gt;[[br]]juhu + ī-ta | &lt;जुह्वीरन्&gt;[[br]]juhu + ī-ran |
 ::::
 
-## 33.3. Zum Ablaut von ā
+## 33.3. Sul mutamento vocalico (Ablaut) di ā
 
-ā può
+ā kann
 
-* da una parte essere il grado allungato di una delle serie di ablaut con -a-
-* dall’altra parte essere il grado elevato (grado acuto) in una serie di ablaut del gruppo ā-
+* da un lato, grado allungato di una delle serie di ablaut con -a-
+* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
 
-Le due serie di ablaut più importanti del gruppo ā- sono:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 ::: grammar-box
 **A.**
 
-* **Grado debole**
+* **Grado ridotto**
   * **davanti a consonante: -i-**  
-        es. **धा** PPP: **हित** (hi-ta)
+    es. **धा** PPP: **हित** (hi-ta)
   * **davanti a vocale: Ø**  
-        es. **धा** 3.pl.P.Ind.Präs. **दधति** (dadh-ati)
-* **Grado elevato: -ā-**  
-    es. **धा** 3.sg.P.Ind.Präs. **दधाति**
+    es. **धा** 3.pl.P.Ind.Präs. **दधति** (dadh-ati)
+* **Grado pieno: -ā-**  
+  es. **धा** 3.sg.P.Ind.Präs. **दधाति**
 :::
 
-A questa categoria appartiene, ad esempio:
+Qui appartiene, ad esempio, anche:
 
 ::: indent
 **स्था** 1
-* &gt; PPP स्थित (sthi-ta)  
-* &gt; 3.sg.P.Fut. स्थास्यति (sthā-sya-ti)
+* PPP **स्थित** (sthi-ta)
+* 3.sg.P.Fut. **स्थास्यति** (sthā-sya-ti)
 :::
 
 :::: grammar-box
 **B.**
 
-* **Grado debole: -ī-**  
-    es. **पा** 1: PPP **पीत** (pī-ta)
-* **Hochstufe: -ā-**   &lt;!-- TODO: Fallback translation --&gt;
-    es. **पा** 1: Inf. **पातुम्**
+* **Grado ridotto: -ī-**  
+  es. **पा** 1: PPP **पीत** (pī-ta)
+* **Grado pieno: -ā-**  
+  es. **पा** 1: Inf. **पातुम्**
 ::::
 
-## 33.4. Radicen auf -ā der dritten Presenteklasse
+## 33.4. Radici in -ā della terza classe di presente
 
 ::: grammar-box
-**Le radici in -ā (eccetto दा e धा) al debole presentano solitamente la desinenza -ī-** (si veda Thumb-Hauschild Vol. 1,1 pag. 271. Probabilmente in questo caso ha fatto da modello la serie di ablaut B sopra menzionata, sebbene queste radici seguano altrimenti la serie A), **prima delle desinenze vocaliche la vocale radicale scompare completamente (si veda la serie di ablaut A).**
+**Le radici in -ā (tranne दा e धा) nel debole hanno solitamente la desinenza -ī-** (vedi Thumb-Hauschild Vol. 1,1 p. 271. Probabilmente la serie di ablaut B sopra menzionata agì da modello, sebbene queste radici altrimenti seguano la serie A), **davanti a desinenze vocaliche la vocale radicale scompare completamente (vedi serie di ablaut A).**
 :::
 
 Esempi:
 
 :::: grammar-box
-मा 3Ā "misurare"
+**मा** 3Ā "misurare"
 
 | | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- |
-| **Indikativ Presente** | मिमीते[[br]](mimī-te) | मिमते[[br]](mim-ate) |
+| **Indicativo Presente** | मिमीते[[br]]mimī-te | मिमते[[br]]mim-ate |
 | **Imperfetto** | अमिमीत | अमिमत |
-| **Optativo** | मिमीत[[br]](mim-ī-ta !) | मिमीरन्[[br]](mim-ī-ran) |
+| **Optativo** | मिमीत[[br]]mim-ī-ta ! | मिमीरन्[[br]]mim-ī-ran |
 ::::
 
 :::: grammar-box
-हा 3P "abbandonare"
+**हा** 3P "abbandonare"
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
-| **Indikativ Presente** | जहाति | जहति[[br]](jah-ati) |
+| **Indicativo Presente** | जहाति | जहति[[br]]jah-ati |
 | **Imperfetto** | अजहात् | अजहुर् |
-| **Optativo** | जह्यात्[[br]](jah-yā-t)[[br]](Die Radice **हा** hat vor dem Ottativo-yā/y die gleiche Form wie vor Vokalen!) | जह्युर्[[br]](jah-y-ur) |
+| **Optativo** | जह्यात्[[br]]jah-yā-t[[br]](La radice **हा** ha prima dell'Optativo-yā/y la stessa forma che davanti alle vocali!) | जह्युर्[[br]]jah-y-ur |
 ::::
 
-### 33.4.1. Die Radicen **दा** und **धा**
+### 33.4.1. Le radici **दा** e **धा**
 
 ::: grammar-box
-**Le radici in -ā (eccetto दा e धा) al debole presentano solitamente la desinenza -ī-** (si veda Thumb-Hauschild Vol. 1,1 pag. 271. Probabilmente in questo caso ha fatto da modello la serie di ablaut B sopra menzionata, sebbene queste radici seguano altrimenti la serie A), **prima delle desinenze vocaliche la vocale radicale scompare completamente (si veda la serie di ablaut A).**
+**Le radici दा e धा reduplicano con la vocale -a- e perdono la vocale radicale nella forma debole.**
 
-Esempi:
+**Si osservi per धा la legge della dissimilazione dell'aspirazione!**
 :::
 
 :::: grammar-box
-मा 3Ā "misurare"
+**धा** 3U "porre, stabilire, assegnare"
 
-| | 3. sg. Ā. | 3. pl. Ā. | 3. sg. Ā. | 3. pl. Ā. |
+| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Presente** | दधाति | दधति[[br]](dadh-ati) | धत्ते[[br]](dadh-te)[[br]](Spiegazione: Thumb-Hauschild 1,1 S. 302f.) | दधते[[br]](dadh-ate) |
-| **Imperfetto** | अदधात् | अदधुर् | अधत्त[[br]](a + dadh + ta) | अदधत |
-| **Optativo** | दध्यात्[[br]](dadh-yā-t) | दध्युर् | दधीत[[br]](dadh-ī-ta) | दधीरन् |
+| **Indicativo Presente** | दधाति | दधति[[br]]dadh-ati | धत्ते[[br]]dadh-te[[br]](Spiegazione: Thumb-Hauschild 1,1 pag. 302s.) | दधते[[br]]dadh-ate |
+| **Imperfetto** | अदधात् | अदधुर् | अधत्त[[br]]a + dadh + ta | अदधत |
+| **Optativo** | दध्यात्[[br]]dadh-yā-t | दध्युर् | दधीत[[br]]dadh-ī-ta | दधीरन् |
 ::::
 
-हा 3P "abbandonare"
+Le forme di **दा** si ottengono sostituendo **dh** con **d** nel paradigma di **धा**. Quindi:
 
 :::: grammar-box
-| | 3. sg. P. | 3. pl. P. |
+**दा** 3U "dare"
 
-| | :--- | :--- | 3. sg. Ā. | 3. pl. Ā. |
+| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Presente** | ददाति | ददति | दत्ते | ददते |
-| **Optativo** | अददात् | अददुर् | अदत्त | अददत |
-| **Optativ** | दद्यात् | दद्युर् | ददीत | ददीरन् | <!-- TODO: Fallback translation -->
+| **Indicativo Presente** | ददाति | ददति | दत्ते | ददते |
+| **Imperfetto** | अददात् | अददुर् | अदत्त | अददत |
+| **Optativo** | दद्यात् | दद्युर् | ददीत | ददीरन् |
 ::::
 
-## 33.5. Das Partizip Presente Parasmaipada der Radicen der 3. Presenteklasse
+## 33.5. Il participio presente Parasmaipada delle radici della 3. classe di presente
 
 ::: grammar-box
-**I verbi della 3ª classe formano tutte le forme del participio presente Parasmaipada dal tema debole.**
+**I verbi della 3. classe formano tutte le forme del participio presente Parasmaipada dalla forma debole.**
 
-**Eccezione: il Nominativo/Accusativo Plurale Neutro può essere formato facoltativamente dal tema forte o dal tema debole.**
+**Eccezione: il Nominativo/Accusativo Plurale Neutro può essere formato opzionalmente dalla forma forte o debole.**
 :::
 
 **दा** Participio presente Parasmaipada:
@@ -234,194 +233,195 @@ Esempi:
 | | Maschile[[br]]पुंल्लिङ्ग | Neutro[[br]]नपुंसकलिङ्ग | Femminile[[br]]स्त्रीलिङ्ग |
 | :--- | :--- | :--- | :--- |
 | **Singolare** | | | |
-| **1. Nominativo** | ददत्[[br]](dad-at + s) | ददत्[[br]](dad-at-Ø) | ददती |
-| **2. Accusativo** | ददतम्[[br]](dad-at-am) | ददत् | |
+| **1. Nominativo** | ददत्[[br]]dad-at + s | ददत्[[br]]dad-at-Ø | ददती |
+| **2. Accusativo** | ददतम्[[br]]dad-at-am | ददत् | |
 | **Plurale** | | | |
-| **1. Nominativo** | ददतस् | ददति[[br]](dad-at-i)[[br]]ददन्ति[[br]](dad-ant-i) | |
+| **1. Nominativo** | ददतस् | ददति[[br]]dad-at-i[[br]]ददन्ति[[br]]dad-ant-i | |
 | **2. Accusativo** | ददतस् | ददति[[br]]ददन्ति | |
 ::::
 
-Fut. दास्यति  
+Simile a **जुह्वत्** (juhu-at + s)
 
-## 33.6. Lessico
+## 33.6. Elenco di parole
 
-**दा** 3U **ददाति**: geben &lt;!-- TODO: Fallback translation --&gt;
+**दा** 3U **ददाति**: dare
 
 ::: indent
 **Fut.**  दास्यति  
 **Pass.** दीयते  
 **Kaus.** दापयति  
 **PPP** दत्त  
-**Inf.** दातुम् &lt;!-- TODO: Fallback translation --&gt;
+**Inf.** दातुम्
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+di cui:
 
-**दान** n.: Geben, Gabe, Freigebigkeit &lt;!-- TODO: Fallback translation --&gt;
+**दान** n.: dare, dono, generosità
 :::
 
 ::: media
 ![](/images/lekt3306.jpg)
-Abb.: दानम्
-(Bildquelle: [Details](/licenses#lekt3306)) &lt;!-- TODO: Fallback translation --&gt;
+Fig.: दानम्
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3306))
 :::
 
-**दा** + **आ** 3Ā **अदत्ते**: (in Empfang) nehmen, in Besitz nehmen, mitnehmen &lt;!-- TODO: Fallback translation --&gt;
+**दा** + **आ** 3Ā **अदत्ते**: (in ricezione) prendere, prendere in possesso, portare via
 
 ::: indent
-**Absol.** आदाय: mit Akk.: in Begleitung von, mit &lt;!-- TODO: Fallback translation --&gt;
+**Assol.** आदाय: con Acc.: in compagnia di, con
 :::
 
 ::: media
 ![](/images/lekt3307.jpg)
-Abb.: सा पुत्रमादाय भारं बिभ्रती गच्छति
-(Bildquelle: [Details](/licenses#lekt3307)) &lt;!-- TODO: Fallback translation --&gt;
+Fig.: सा पुत्रमादाय भारं बिभ्रती गच्छति
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3307))
 :::
 
-**धा** 3U **दधाति**: setzen, festsetzen, zuteilen &lt;!-- TODO: Fallback translation --&gt;
+***धा*** 3U ***दधाति***: porre, stabilire, assegnare
 
 ::: indent
-**Fut.** धास्यति  
-**Pass.** धीयते  
-**Kaus.** धापयति  
-**PPP** हित (!!)  
-**Inf.** धातुम् &lt;!-- TODO: Fallback translation --&gt;
+**Fut.** ***धास्यति***  
+**Pass.** ***धीयते***  
+**Kaus.** ***धापयति***  
+**PPP** ***हित*** (!!)  
+**Inf.** ***धातुम्***
 :::
 
-**धा** + **सम्** + **आ** 3U **समादधाति**: die ganze Aufmerksamkeit auf etwas richten, sich sammeln &lt;!-- TODO: Fallback translation --&gt;
+**धा** + **सम्** + **आ** 3U **समादधाति**: concentrare tutta l'attenzione su qualcosa, raccogliersi
 
 ::: indent
-davon: &lt;!-- TODO: Fallback translation --&gt;
+di cui:
 
-**समाधि** m.: innere Sammlung, höchste Aufmerksamkeit &lt;!-- TODO: Fallback translation --&gt;
+**समाधि** m.: raccoglimento interiore, massima attenzione
 :::
 
 ::: media
 ![](/images/lekt3305.jpg)
-Abb.: समाधि
-(Bildquelle: [Details](/licenses#lekt3305)) &lt;!-- TODO: Fallback translation --&gt;
+Fig.: समाधि
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3305))
 :::
 
-**पॄ** 3P **पिपर्ति**: füllen, erfüllen &lt;!-- TODO: Fallback translation --&gt;
+**पॄ** 3P **पिपर्ति**: riempire, soddisfare
 
 ::: indent
-Merke:
-3.pl.P **पिप्राति**  
-3.sg.Impf.P **अपिपर्** (aus: \*apipart)  
-3.pl.Impf.P **अपिपरुर्**  
-3.sg.Opt.P **पिपूर्यात्** &lt;!-- TODO: Fallback translation --&gt;
+Nota:
+3.pl.P ***पिपुरति***  
+3.sg.Impf.P ***अपिपर्*** (da: \*apipart)  
+3.pl.Impf.P ***अपिपरुर्***  
+3.sg.Opt.P ***पिपूर्यात्***
 
 **Fut.** परिष्यति / परीष्यति  
 **Pass.** पूर्यते  
 **Kaus.** पूरयति / पारयति  
-**PPP** पूर्ण / पूर्त / पूरित &lt;!-- TODO: Fallback translation --&gt;
+**PPP** पूर्ण / पूर्त / पूरित
 :::
 
-**पॄ** + **सम्** nur **Pass.** सम्पूर्यते und **Kaus.**: gänzlich füllen &lt;!-- TODO: Fallback translation --&gt;
+**पॄ** + **सम्** solo **Pass.** सम्पूर्यते e **Kaus.** : riempire completamente
 
-**भी** 3P **बिभेति**: sich fürchten vor (Abl., Gen.) &lt;!-- TODO: Fallback translation --&gt;
+**भी** 3P **बिभेति**: temere, aver paura di (Abl., Gen.)
 
 ::: indent
 **Fut.** भेष्यति  
 **Pass.** भीयते  
 **Kaus.** भाययति  
 **PPP** भीत  
-**Inf.** भेतुम् &lt;!-- TODO: Fallback translation --&gt;
+**Inf.** भेतुम्
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+di cui:
 
-**भय** n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite) &lt;!-- TODO: Fallback translation --&gt;
+**भय** n.: paura, timore; pericolo (il lato soggettivo e quello oggettivo)
 :::
 
 ::: media
 ![](/images/lekt3304.jpg)
-Abb.: भयम्
-(Bildquelle: [Details](/licenses#lekt3304)) &lt;!-- TODO: Fallback translation --&gt;
+Fig.: भयम्
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3304))
 :::
 
-**भृ** 3U **बिभर्ति**: tragen, bringen; erhalten, ernähren &lt;!-- TODO: Fallback translation --&gt;
+**भृ** 3U **बिभर्ति**: portare, recare; mantenere, nutrire
 
 ::: indent
 **Fut.** भरिष्यति  
 **Pass.** भ्रियते  
 **Kaus.** भारयति  
 **PPP** भृत  
-**Inf.** भर्तुम् &lt;!-- TODO: Fallback translation --&gt;
+**Inf.** भर्तुम्
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+di cui:
 
-**भार** m.: Last &lt;!-- TODO: Fallback translation --&gt;
+**भार** m.: carico
 :::
 
-**मा** 3Ā **मिमीते**: messen &lt;!-- TODO: Fallback translation --&gt;
+**मा** 3Ā **मिमीते**: misurare
 
 ::: indent
 **Fut.** मास्यति / मास्यते  
 **Pass.** मीयते  
 **Kaus.** मापयति  
 **PPP** मित  
-**Inf.** मातुम् &lt;!-- TODO: Fallback translation --&gt;
+**Inf.** मातुम्
 :::
 
-**मा** + **उप** 3Ā **उपमिमीते**: vergleichen &lt;!-- TODO: Fallback translation --&gt;
+**मा** + **उप** 3Ā **उपमिमीते**: confrontare
 
 ::: indent
-davon: &lt;!-- TODO: Fallback translation --&gt;
+di cui:
 
-**उपमा** f.: Vergleich &lt;!-- TODO: Fallback translation --&gt;
+**उपमा** f.: confronto
 
-**प्रतिमा** f.: Abbild &lt;!-- TODO: Fallback translation --&gt;
+**प्रतिमा** f.: immagine
 :::
 
-**हा** 3P **जहाति**: verlassen &lt;!-- TODO: Fallback translation --&gt;
+**हा** 3P **जहाति**: lasciare
 
 ::: indent
 **Fut.** हास्यति  
 **Pass.** हीयते  
 **Kaus.** हापयति  
-**PPP** हीन: verlassen von, ermangelnd, mangelhaft  
+**PPP** हीन: lasciato da, privo, difettoso  
 **Inf.** हातुम्
-von PPP **हीन**: &lt;!-- TODO: Fallback translation --&gt;
+da PPP **हीन**:
 
-**हीनयान** n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "großen Fahrzeugs", des **महायान**; der mangelhafte Weg (**यान** zu **या** 2: gehen, fahren). Der Ausdruck हीनयान sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heißt **थेरवाद**. &lt;!-- TODO: Fallback translation --&gt;
+**हीनयान** n.: il veicolo difettoso (del Buddhismo): termine dispregiativo usato dai rappresentanti del "grande veicolo", del **महायान**; la via difettosa (**यान** a **या** 2: andare, viaggiare). L'espressione हीनयान non dovrebbe più essere utilizzata. La forma ancora esistente oggi dell'antico Buddhismo si chiama **थेरवाद**.
 :::
 
 ::: media
 ![](/images/lekt3303.jpg)
-Abb.: हीनयानमेव
-(Bildquelle: [Details](/licenses#lekt3303)) &lt;!-- TODO: Fallback translation --&gt;
+Fig.: हीनयानमेव
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3303))
 :::
 
-**हु** 3P **जुहोति**: ins Feuer gießen (als Opfer, bes. Schmelzbutter) &lt;!-- TODO: Fallback translation --&gt;
+**हु** 3P **जुहोति**: versare nel fuoco (come offerta, specialmente burro fuso)
 
 ::: indent
 **Fut.** होष्यति  
 **Pass.** हूयते  
 **Kaus.** हावयति  
 **PPP** हुत  
-**Inf.** होतुम् &lt;!-- TODO: Fallback translation --&gt;
+**Inf.** होतुम्
 :::
 
 ::: media
 ![](/images/lekt3302.jpg)
-Abb.: घृतमग्नौ जुहोति
-(Bildquelle: [Details](/licenses#lekt3302)) &lt;!-- TODO: Fallback translation --&gt;
+Fig.: घृतमग्नौ जुहोति
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3302))
+
 :::
 
-**घृत** n.: Schmelzbutter, Ghee (घी / گھی / ঘী) &lt;!-- TODO: Fallback translation --&gt;
+**घृत** n.: Burro chiarificato, ghee (घी / گھی / ঘী)
 
 ::: note-box
-"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk." &lt;!-- TODO: Fallback translation --&gt;
+"Il ghee si ottiene cuocendo a fuoco lento burro non salato in una pentola capiente finché tutta l'acqua non è evaporata e le proteine non si sono depositate sul fondo. Il burro cotto e chiarificato viene poi rimosso con un cucchiaio per evitare di disturbare i solidi del latte sul fondo della padella. A differenza del burro, il ghee può essere conservato per periodi prolungati senza refrigerazione, purché sia conservato in un contenitore ermetico per prevenire l'ossidazione e rimanga privo di umidità. La consistenza, il colore o il gusto del ghee dipendono dalla fonte del latte da cui è stato prodotto il burro. In India, il ghee è solitamente prodotto con latte di bufala, poiché tende ad essere più bianco del latte di mucca."
 
-[Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26] &lt;!-- TODO: Fallback translation --&gt;
+[Sorgente: http://en.wikipedia.org/wiki/Ghee. -- Accesso il 2008-12-26]
 :::
 
-## 33.7. Esercizio
+## 33.7. Esercitazione
 
-A) Inserire nelle seguenti strutture frastiche le forme corrispondenti delle parole tra parentesi:
+A) Inserire nelle seguenti frasi le forme corrispondenti delle parole tra parentesi:
 
 रामस् ... (चतुर्थ्येकवचने बहुवचने च) ... अन्नं ददाति । (भिक्षु । अग्नि । शूद्रा । गुनवान्पुत्र । देवान्स्तुवन्कवि । ब्राह्मणी । महान्साधु । धेनु)
 
-B) Inserire le forme corrispondenti dei verbi indicati tra parentesi nell’Indicativo Presente, Imperfetto e Ottativo:
+B) Inserire le forme corrispondenti dei verbi indicati tra parentesi, all'indicativo presente, imperfetto e ottativo:
 
 ब्राह्मणो घृतमग्नौ ... (हु) ॥१॥
 
@@ -439,7 +439,7 @@ B) Inserire le forme corrispondenti dei verbi indicati tra parentesi nell’Indi
 
 ब्राह्मणी पात्रं जलेन ... (पॄ) ॥८॥
 
-C) Tradurre e convertire le frasi singolari in frasi plurali e viceversa:
+C) Tradurre e trasformare le frasi singolari in plurali e viceversa:
 
 योगयुक्तो मतिं दुःखमक्षनयन्त्यां प्रज्ञायां समाधत्ते ॥१॥
 
@@ -449,9 +449,8 @@ C) Tradurre e convertire le frasi singolari in frasi plurali e viceversa:
 
 ::: media
 ![](/images/lekt3308.jpg)
-Fig.: पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः  
-Delhi = दहली / دہلی  
-\[Fonte dell'immagine: Ondrej Jaura. -- [http://www.flickr.com/photos/ondrejj/2073900069/](http://www.flickr.com/photos/ondrejj/2073900069/). -- Accesso il 27-12-2008. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licenza Creative Commons (Attribuzione, Uso non commerciale, Nessuna opera derivata)\]
+Fig.: पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3308))
 :::
 
 क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥
@@ -464,17 +463,16 @@ Delhi = दहली / دہلی
 
 ::: deleteme-box
 
-### Fonti
+**Definizione e dettagli del ghee:**
+* Fonte: http://en.wikipedia.org/wiki/Ghee (Accesso: 2008-12-26)
 
-**Ghee Definition & Details:** <!-- TODO: Fallback translation -->
-* Quelle: http://en.wikipedia.org/wiki/Ghee (Zugriff: 2008-12-26) <!-- TODO: Fallback translation -->
-
-**Abbildungsverzeichnis & Lizenzen:** <!-- TODO: Fallback translation -->
-* **Abb. lekt3306 (wedding party, Chennai):** Fonte dell'immagine: http://www.pbase.com/chandra/image/62118318 (Zugriff am 2008-12-27). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike). <!-- TODO: Fallback translation -->
-* **Abb. lekt3307 (Udaipur carrier):** Fonte dell'immagine: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, Zugriff am 2008-12-27). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung). <!-- TODO: Fallback translation -->
-* **Abb. lekt3305 (Samadhi yogini, Kaveripakkam):** Fonte dell'immagine: Quadell / Wikipedia (GNU FDLicense). <!-- TODO: Fallback translation -->
-* **Abb. lekt3304 (bhaya carrier, Mumbai):** Fonte dell'immagine: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, Zugriff am 2008-12-26). Creative Commons Lizenz (Namensnennung). <!-- TODO: Fallback translation -->
-* **Abb. lekt3303 (Hinayana Thailand):** Fonte dell'immagine: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Zugriff am 2008-12-26). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung). <!-- TODO: Fallback translation -->
-* **Abb. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Fonte dell'immagine: Dey (http://www.flickr.com/photos/dey/466758922/, Zugriff am 2008-12-26). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike). <!-- TODO: Fallback translation -->
-* **Abb. lekt3308 (woman carrier, Delhi):** Fonte dell'immagine: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Zugriff am 2008-12-27). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung). <!-- TODO: Fallback translation -->
+**Elenco delle illustrazioni e licenze:**
+* **Fig. lekt3306 (festa nuziale, Chennai):** Fonte dell'immagine: http://www.pbase.com/chandra/image/62118318 (Accesso il 2008-12-27). Licenza Creative Commons (Attribuzione, uso non commerciale, share alike).
+* **Fig. lekt3307 (portatore di Udaipur):** Fonte dell'immagine: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, accesso il 2008-12-27). Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica).
+* **Fig. lekt3305 (Samadhi yogini, Kaveripakkam):** Fonte dell'immagine: Quadell / Wikipedia (GNU FDLicense).
+* **Fig. lekt3304 (portatore bhaya, Mumbai):** Fonte dell'immagine: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, accesso il 2008-12-26). Licenza Creative Commons (Attribuzione).
+* **Fig. lekt3303 (Hinayana Thailandia):** Fonte dell'immagine: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, accesso il 2008-12-26). Licenza Creative Commons (Attribuzione, uso non commerciale).
+* **Fig. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Fonte dell'immagine: Dey (http://www.flickr.com/photos/dey/466758922/, accesso il 2008-12-26). Licenza Creative Commons (Attribuzione, uso non commerciale, share alike).
+* **Fig. lekt3308 (portatrice, Delhi):** Fonte dell'immagine: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, accesso il 2008-12-27). Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica).
 :::
+

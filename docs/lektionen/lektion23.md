@@ -1,6 +1,10 @@
 ---
+title: Lektion 23
+subtitle: "Der Infinitiv (तुमुन्)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 23
@@ -238,6 +242,7 @@ D) Übersetzen Sie und lösen Sie die Komposita auf:
 ::: media
 ![](/images/lekt2303.jpg)
 Abb.: फलवन्ति पुण्यानीति
+ทำบุญ = पुण्यकरणम्, Thailand = ประเทศไทย
 (Bildquelle: [Details](/licenses#lekt2303))
 :::
 
@@ -247,6 +252,7 @@ Abb.: फलवन्ति पुण्यानीति
 ::: media
 ![](/images/lekt2301.jpg)
 Abb.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
+Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
 (Bildquelle: [Details](/licenses#lekt2301))
 :::
 
@@ -271,6 +277,7 @@ Erklärung: हीन ३: PPP zu हा 3: verlassen ; धर्मे = Lokati
 ::: media
 ![](/images/lekt2302.jpg)
 Abb.: आहारनिद्राभयमैथुनं च
+Chittorgarh = चित्तौडगढ
 (Bildquelle: [Details](/licenses#lekt2302))
 :::
 
@@ -298,6 +305,7 @@ A) Übersetzen Sie ins Sanskrit:
 ::: media
 ![](/images/lekt2304.jpg)
 Abb.: दण्डनीतिः
+Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Prime Minister of India = भारत के प्रधानमन्त्री, seit 2004
 (Bildquelle: [Details](/licenses#lekt2304))
 :::
 
@@ -328,7 +336,6 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 ४. हन् ॥
 
 ::: deleteme-box
-### Quellen
 
 **lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Bildquelle: Wikipedia. GNU FDLicense]
 

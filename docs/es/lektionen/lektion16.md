@@ -69,7 +69,8 @@ Ejemplos:
 ::: media
 ![](/images/lekt1602.jpg)
 Fig.: अध्यापनम्
-(Fuente de la imagen: [Detalles](/licenses#lekt1602))
+«Esta es una ceremonia especial en un pequeño templo de Satara (सातारा). Es realizada por los estudiantes de la Swami Muktananda Vedashala en la celebración de Mahāśivarātri. Esta es una escuela védica, donde los niños memorizan los textos sagrados llamados los Vedas. Esta escuela enseña el Krishna Yajurveda y algunas porciones del Samaveda. Estoy realizando mi tesis de máster sobre esta escuela».
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1602))
 :::
 
 अनसूया f.: Ausencia de murmuración, falta de envidia
@@ -105,7 +106,8 @@ de ello:
 ::: media
 ![](/images/lekt1601.jpg)
 Fig.: योगी
-(Fuente de la imagen: [Detalles](/licenses#lekt1601))
+Birla Mandir, Delhi
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1601))
 :::
 
 वृत् 1 Ā वर्तते ; Pass. वृत्यते ; PPP वृत्त : girar, volverse, encontrarse (en algún lugar), residir
@@ -133,7 +135,8 @@ A) Transforme las siguientes expresiones en *Tatpuruṣa* y tradúzcalas:
 ::: media
 ![](/images/lekt1604.jpg)
 Fig.: पशुमन्तो जनाः
-(Fuente de la imagen: [Detalles](/licenses#lekt1604))
+हरियाणा / ਹਰਿਆਣा
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1604))
 :::
 
 ५. सुखवान्वैश्यायाः पुत्रः ।
@@ -245,7 +248,6 @@ Oración 13: सर्वेषाम Gen. pl. masc. de सर्व "cada uno, 
 
 ::: deleteme-box
 
-### Fuentes
 
 **lekt1601:** Birla Mandir, Delhi [Fuente de la imagen: Deepak / Wikipedia; Licencia Creative Commons (Atribución, Compartir igual)]
 

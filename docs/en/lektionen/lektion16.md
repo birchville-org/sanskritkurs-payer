@@ -1,6 +1,10 @@
 ---
+title: Lesson 16
+subtitle: "On the sandhi of final consonants"
 lesson_id: 16
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 16
@@ -69,7 +73,8 @@ Examples:
 ::: media
 ![](/images/lekt1602.jpg)
 Fig.: अध्यापनम्
-(Image source: [Details](/licenses#lekt1602))
+"This is a special ceremony in a small temple in Satara (सातारा). It is performed by the students of the Swami Muktananda Vedashala on the occasion of Mahāśivarātri. This is a Vedic school where children memorize the sacred texts known as the Vedas. The school teaches the Krishna Yajurveda and certain portions of the Samaveda. I am writing my master’s thesis on this school."
+(Image source: [Details](/en/licenses#lekt1602))
 :::
 
 अनसूया f.: Absence of grumbling, freedom from envy
@@ -105,7 +110,8 @@ from this:
 ::: media
 ![](/images/lekt1601.jpg)
 Fig.: योगी
-(Image source: [Details](/licenses#lekt1601))
+Birla Mandir, Delhi
+(Image source: [Details](/en/licenses#lekt1601))
 :::
 
 वृत् 1 Ā वर्तते ; Pass. वृत्यते ; PPP वृत्त : to turn, to turn oneself, to be (somewhere), to dwell
@@ -121,7 +127,8 @@ Fig.: योगी
 ::: media
 ![](/images/lekt1603.jpg)
 Fig.: अहिंसा
-(Image source: [Details](/licenses#lekt1603))
+"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the center is 'ahimsa.' The wheel represents the dharmacakra, which stands for the resolve to halt the cycle of reincarnation through the relentless pursuit of truth and non-violence."
+(Image source: [Details](/en/licenses#lekt1603))
 :::
 
 ## 16.3. Exercise
@@ -139,7 +146,8 @@ A) Transform the following expressions into Tatpuruṣa compounds and translate 
 ::: media
 ![](/images/lekt1604.jpg)
 Fig.: पशुमन्तो जनाः
-(Image source: [Details](/licenses#lekt1604))
+हरियाणा / ਹਰਿਆਣਾ
+(Image source: [Details](/en/licenses#lekt1604))
 :::
 
 ५. सुखवान्वैश्यायाः पुत्रः ।
@@ -251,7 +259,6 @@ Sentence 13: सर्वेषाम् Gen. pl. masc. from सर्व "every
 
 ::: deleteme-box
 
-### Sources
 
 **lekt1601:** Birla Mandir, Delhi [Image source: Deepak / Wikipedia; Creative Commons License (Attribution, ShareAlike)]
 

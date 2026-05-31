@@ -2,30 +2,31 @@
 layout: home
 
 hero:
-  name: Sanskritkurs
-  text: Ein vollständiger Lehrgang
-  tagline: von Alois Payer (Tüpfli's Global Village Library)
+  name: Санскритський курс
+  text: Повний навчальний курс
+  tagline: від Алоїса Пайєра (Бібліотека Глобальної Села Тьопфлі)
   actions:
     - theme: brand
-      text: Kurs Starten
-      link: /lektionen/lektion01
+      text: Почати курс
+      link: /uk/lektionen/lektion01
     - theme: alt
-      text: Grammatik Themen
-      link: /grammatik
+      text: Теми граматики
+      link: /uk/grammatik
 
 features:
   - title: Devanāgarī ready
-    details: Perfekte, integrierte Typografie für indische Schriften.
-  - title: Leicht Durchsuchbar
-    details: Eine tiefgreifende lokale Volltextsuche hält das Wissen auf Knopfdruck bereit.
-  - title: Moderne Architektur
-    details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
+    details: Ідеальна, інтегрована типографія для індійських писемностей.
+  - title: Легко пошуковий
+    details: Глибокий локальний повнотекстовий пошук тримає знання на відстані одного натискання.
+  - title: Сучасна архітектура
+    details: Побудований на основі VitePress для максимальної швидкості.
 ---
 
 ::: tip BETA-TEST
-Diese Webseite stellt einen Beta-Test dar, der untersuchen soll, wie hoch die Qualität KI-generierter Übersetzungen ist. 
+Ця веб-сторінка є бета-тестом, який має досліджувати, якою є якість штучно згенерованих перекладів.
 
-**Bemerkungen und Fehlermeldungen jeglicher Art sind erbeten an:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Коментарі та повідомлення про помилки будь-якого типу бажано надсилати на:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 
-**Test Setup:** Google Antigravity mit Gemini 3 Flash (cloud) und Massenübersetzung mit lokalem Gemma 4:26b (ollama) auf M4/32 GB.
+**Тестове налаштування:** Google Antigravity з Gemini 3 Flash та масовий переклад за допомогою Gemma 4:26b (ollama, локально) на M4/32 ГБ.
+Згодом: перехід на Claude Sonnet 4.6 (Gemini Flash 3.5 зі стрімким зростанням витрат) та локальний mlx-community/Qwen3.6-35B-A3B-4bit (кращі переклади).
 :::

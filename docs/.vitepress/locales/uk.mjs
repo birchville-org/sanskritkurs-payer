@@ -7,11 +7,16 @@ export const uk = {
   description: 'Підручник граматики Алоїза Пайєра',
   themeConfig: {
     outline: { level: [2, 3], label: 'На цій сторінці' },
+    returnToTopLabel: 'Повернутися вгору',
+    sidebarMenuLabel: 'Меню',
+    darkModeSwitchLabel: 'Вигляд',
+    lightModeSwitchTitle: 'Перейти на світлу тему',
+    darkModeSwitchTitle: 'Перейти на темну тему',
+    langMenuLabel: 'Змінити мову',
     nav: [
       { text: 'Головна', link: '/uk/' },
       { text: 'Зміст', link: '/uk/lektionen/inhaltsverzeichnis' },
       { text: 'Покажчик', link: '/uk/grammatik' },
-      { text: 'QA', link: '/qa/viewer' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Автори', link: '/uk/impressum' }
     ],

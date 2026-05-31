@@ -1,6 +1,10 @@
 ---
+title: Lektion 50
+subtitle: "Nominalbildung: regelmäßige Steigerung"
 lesson_id: 50
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 50
@@ -18,6 +22,7 @@ last_reconstructed: 2026-05-21
 ::: media
 ![](/images/lekt5007.jpg)
 Abb.: लोकस्योत्तमो गिरिः
+सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
 (Bildquelle: [Details](/licenses#lekt5007))
 :::
 
@@ -83,6 +88,7 @@ z.B. सुतराम् (zu सु) "auf bessere Weise" (adverbial)
 ::: media
 ![](/images/lekt5006.jpg)
 Abb.: का पचतितमाम्
+Lisu = 傈僳族, अरुणाचल प्रदेश
 (Bildquelle: [Details](/licenses#lekt5006))
 :::
 ## 50.2. Wortliste
@@ -100,6 +106,7 @@ Abb.: का पचतितमाम्
 ::: media
 ![](/images/lekt5001.jpg)
 Abb.: मन्त्री
+Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
 (Bildquelle: [Details](/licenses#lekt5001))
 :::
 रहस् n.: Geheimnis, Einsamkeit
@@ -144,6 +151,7 @@ Absol.-वृष्य
 ::: media
 ![](/images/lekt5002.jpg)
 Abb.: महामेघो वर्षिष्यति
+Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt5002))
 :::
 संयक् Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
@@ -190,6 +198,7 @@ Abb.: कल्याणी
 ::: media
 ![](/images/lekt5004.jpg)
 Abb.: कुनगरम्
+धारावी, मुंबई
 (Bildquelle: [Details](/licenses#lekt5004))
 :::
 चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : sehen
@@ -217,6 +226,7 @@ A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsfo
 ::: media
 ![](/images/lekt5008.jpg)
 Abb.: गुरुमेव भजे
+Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt
 (Bildquelle: [Details](/licenses#lekt5008))
 :::
 B) Übersetzen Sie:
@@ -303,7 +313,6 @@ Erklärungen:
 :::
 
 ::: deleteme-box
-### Quellen
 
 **lekt5007:** Abb.: सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Bildquelle: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)]
 

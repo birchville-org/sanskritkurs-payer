@@ -1,6 +1,10 @@
 ---
+title: Lektion 57
+subtitle: "Aorist 4: s-Aorist"
 lesson_id: 57
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 57
@@ -242,7 +246,6 @@ B) Übersetzen und bestimmen Sie folgende Formen:
 56.  अस्प्राक्षम्
 
 ::: deleteme-box
-### Quellen
 
 **lekt5701:** [Bildquelle: Wikipedia. Public Domain]
 

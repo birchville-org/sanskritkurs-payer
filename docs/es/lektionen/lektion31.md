@@ -4,38 +4,38 @@ lesson_id: 31
 status: stable
 ---
 
-# Lektion 31
+# Lección 31
 
-## 31.1. Die 7. Presenteklasse (रुधादि = "रुध् u.s.w.")
+## 31.1. La 7. clase de presente (रुधादि = "रुध् etc.")
 
 :::: grammar-box
 **Formación:**
 
-**Ante las consonantes finales de la raíz de nivel grave (título bajo), se inserta lo que se denomina infix nasal (-na- o -n-):**
+**Ante las consonantes finales de la raíz de nivel profundo se inserta un llamado infix nasal (-na- o -n-):**
 
 *   **en la raíz fuerte: -na-**
 *   **en la raíz débil: -n-**
 
-**Para la unión de las consonantes finales de la raíz con las terminaciones que comienzan por consonante, se aplican las mismas reglas que para la 2.ª clase de presente.**
+**Para la conexión de las consonantes finales de la raíz con terminaciones que comienzan con consonante se aplican las mismas reglas que para la 2. clase de presente.**
 ::::
 
 Ejemplos:
 
-युज् 7U "unir, engalar"
+युज् 7U "conectar, engarzar"
 
 :::: grammar-box
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **Indicativo** | **3. sg.** | युनक्ति[[br]](yu-na-j + -ti) | युङ्क्ते[[br]](yu + n + j + te)[[br]](vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
+| **Indicativo** | **3. sg.** | युनक्ति[[br]](yu-na-j + -ti) | युङ्क्ते[[br]](yu + n + j + te)[[br]](ante guturales en interior de palabra, las nasales se reemplazan por -ṅ-) |
 | | **3. pl.** | युञ्जन्ति[[br]](yu + n + j-anti) | युञ्जते[[br]](yu + n + j-ate) |
 | **Optativo** | **3. sg.** | युञ्ज्यात्[[br]](yu + n + j-yā-t) | युञ्जीत[[br]](yu + n + j-ī-ta) |
 | | **3. pl.** | युञ्ज्युर्[[br]](yu + n + j-y-ur) | युञ्जीरन्[[br]](yu + n + j-ī-ran) |
-| **Partizip Presente** | | युञ्जन्त्-[[br]](yu + n + j-ant-)[[br]]fem.: युञ्जती[[br]](yu + n + j-at-ī) | |
+| **Participio Presente** | | युञ्जन्त्-[[br]](yu + n + j-ant-)[[br]]fem.: युञ्जती[[br]](yu + n + j-at-ī) | |
 
 ::::
 
-रुध् 7U "detener, llevar al estado de quietud"
+रुध् 7U "detener, llevar a la inmovilidad"
 
 :::: grammar-box
 
@@ -45,12 +45,12 @@ Ejemplos:
 | | **3. pl.** | रुन्धन्ति[[br]](ru-n-dh-anti) | रुन्धते[[br]](ru-n-dh-ate) |
 | **Optativo** | **3. sg.** | रुन्ध्यात्[[br]](ru-n-dh-yā-t) | रुन्धीt[[br]](ru-n-dh-ī-ta) | -&gt; | रुन्धीत[[br]](ru-n-dh-ī-ta) |
 | | **3. pl.** | रुन्ध्युर्[[br]](ru-n-dh-y-ur) | रुन्धीरन्[[br]](ru-n-dh-ī-ran) |
-| **Partizip Presente** | | रुन्धन्त्-[[br]](ru-n-dh-ant-)[[br]]fem.: रुन्धती[[br]](ru-n-dh-at-ī) | |
+| **Participio Presente** | | रुन्धन्त्-[[br]](ru-n-dh-ant-)[[br]]fem.: रुन्धती[[br]](ru-n-dh-at-ī) | |
 
 ::::
 
 :::: grammar-box
-**En algunas raíces, la -n- de la raíz de presente débil ha penetrado también en tiempos no presentes, por lo que estas raíces se plantean con el infix nasal.**
+**En algunas raíces, la -n- de la raíz de presente débil ha penetrado también en tiempos no presentes, de modo que estas raíces se establecen con infix nasal.**
 ::::
 
 Ejemplo:
@@ -62,13 +62,13 @@ Ejemplo:
     *   3.sg.P. **भनक्ति** (bha-na + j + ti)
     *   3.pl.P. **भञ्जन्ति** (bha + n + j-anti)
 *   Futuro: **भङ्क्ष्यति** (bha + n + j + sya + ti)
-*   Pasiva: **भज्यते** (ya sea de la raíz original **भज्** o de *bhñj-ya-te)
+*   Pasivo: **भज्यते** (ya sea de la raíz original **भज्** o de *bhñj-ya-te)
 *   PPP: **भग्न** (posiblemente de *bhñj + na)
 :::
 
-## 31.2. Vocabulario
+## 31.2. Lista de palabras
 
-**युज्** 7U **युनक्ति** : engarzarse, acollarar, tensar, fijar; Ā también: esforzarse (= esforzarse), unirse con, concentrarse en (Locativo, सप्तमी)
+**युज्** 7U **युनक्ति** : engancher, acollarar, tensar, fijar; Ā también: tensarse (= esforzarse), unirse con, concentrarse en (Locativo, सप्तमी)
 ::: indent
 **Fut. योक्ष्यति**
 **Pass. युज्यते**
@@ -83,18 +83,19 @@ de ello:
 3. **द्वापर**
 4. **कलि**
 
-El **कलियुग** comenzó alrededor del 3102 a.C., el año de la guerra del **महाभारत**. Más detalles en Basham, Wonder p. 323)
+La **कलियुग** comenzó alrededor del 3102 a. C., el año de la guerra de **महाभारत**. Más detalles en Basham, Wonder p. 323)
 
-**योग m.:** "engarzamiento, tensión", esfuerzo, unión, Yoga (véase al respecto Basham, Wonder pp. 327ss.)
+**योग m.:** "enganche, tensión", esfuerzo, unión, yoga (ver al respecto Basham, Wonder p. 327ss.)
 :::
 
 ::: media
 ![](/images/lekt3101.jpg)
 Fig.: योगः
-(Fuente de la imagen: [Detalles](/licenses#lekt3101))
+Representación del yoga.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3101))
 :::
 
-**रुध्** 7U **रुणद्धि** : detener, llevar al reposo, contener = encerrar, cubrir
+**रुध्** 7U **रुणद्धि** : detener, llevar a un estado de quietud, retener = encerrar, cubrir
 ::: indent
 **Fut. रोत्स्यति**
 **Pass. रुध्यते**
@@ -128,18 +129,19 @@ Fig.: योगः
 **Inf. अञ्जितुम् । अङ्क्तुम्**
 :::
 
-**अञ्ज् + vi -&gt; अञ्ज् + वि** 7Ā **व्यङ्क्ते** : untar por separado = maquillarse, distinguirse
+**अञ्ज् + vi -&gt; अञ्ज् + वि** 7Ā **व्यङ्क्ते** : untar por separado = maquillarse, diferenciarse
 ::: indent
-**PPP व्यक्त :** distinguido, desarrollado
+**PPP व्यक्त :** diferenciado, desplegado
 
 de ello:
-**व्यञ्जन n.:** medio de distinción = cosmético, especia, signo característico, consonante (lo por lo cual se distinguen los significados)
+**व्यञ्जन n.:** medio de diferenciación = cosmético, especia, signo, consonante (lo mediante lo cual se diferencian los significados)
 :::
 
 ::: media
 ![](/images/lekt3102.jpg)
 Fig.: व्यञ्जनम्
-(Fuente de la imagen: [Detalles](/licenses#lekt3102))
+Preparación para el baile Kathakali, Kochi.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3102))
 :::
 
 **भिद्** 7U **भिनत्ति** : dividir
@@ -151,7 +153,7 @@ Fig.: व्यञ्जनम्
 **Inf. भेत्तुम्**
 :::
 
-**भुज्** 7U **भुनक्ति** : disfrutar (p. ej., la comida; "disfrutar de la tierra" = dominar la tierra)
+**भुज्** 7U **भुनक्ति** : disfrutar (p. ej. comida; "disfrutar de la tierra" = dominar la tierra)
 ::: indent
 **Fut. भोक्ष्यति**
 **Pass. भुज्यते**
@@ -172,7 +174,7 @@ de ello:
 **Inf. बद्धुम्**
 
 de ello:
-**बन्धन n.:** atar, cadena
+**बन्धन n.:** atadura, cadena
 :::
 
 **ज्ञा + प्र** 9U **प्रजानाति** : reconocer, comprender
@@ -184,16 +186,17 @@ de ello:
 ::: media
 ![](/images/lekt3103.jpg)
 Fig.: प्रज्ञापारमिता
-(Fuente de la imagen: [Detalles](/licenses#lekt3103))
+De un manuscrito de Prajñāpāramitā.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3103))
 :::
 
 **भू + सम्** 1P **सम्भवति** : surgir, existir
 
-**शरीर n.:** cuerpo físico, cuerpo
+**शरीर n.:** cuerpo, físico
 
 ## 31.3. Ejercicio
 
-A) Traduzieren Sie los siguientes enunciados y analice los compuestos (Samāsa):
+A) Traduzca las siguientes oraciones y descomponga los compuestos:
 
 प्रज्ञा दुःखसम्भवं रुन्ध्यादिति बुद्धिमानार्यबुद्धमार्गेण गच्छेत् ॥१॥
 
@@ -201,8 +204,9 @@ A) Traduzieren Sie los siguientes enunciados y analice los compuestos (Samāsa):
 
 ::: media
 ![](/images/lekt3105.jpg)
-Abb.: शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते
-(Fuente de la imagen: [Detalles](/licenses#lekt3105))
+Fig.: शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते
+Tanques del 18.º Regimiento de Caballería (Ejército indio) en movimiento durante la guerra indo-pakistaní de 1965.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3105))
 :::
 
 बुद्ध्या युक्तो दुःखान्मुच्यते तस्मान्मोक्षमिच्छन्नरो योगेन युञ्जीत ॥३॥
@@ -211,13 +215,14 @@ Abb.: शस्त्राणि शरीरमेव छिन्दन्त
 
 ::: media
 ![](/images/lekt3104.jpg)
-Abb.: राहुलो जातो बन्धनं जातम्
-(Fuente de la imagen: [Detalles](/licenses#lekt3104))
+Fig.: राहुलो जातो बन्धनं जातम्
+Rāhula, hijo de Buda, Laos.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3104))
 :::
 
 समोहः स्वन्नानि च सुरूपाश्च भुङ्क्ते वीतमोहस्त्वन्नं च सम्पन्नरूपशरीरां च न लुभ्यति । स हि लोभं च क्रोधं च रुणद्धि प्रज्ञायां च युङ्क्ते ॥५॥
 
-B) Forme para las siguientes raíces de la 7.ª clase todas las formas de tercera persona del singular y plural, voz activa (P) y media (Ā), del presente de indicativo y optativo:
+B) Forme para las siguientes raíces de la 7. clase todas las formas de tercera persona singular y plural, P y Ā, del Indicativo y Optativo Presente:
 
 १. छिद्
 
@@ -231,15 +236,14 @@ B) Forme para las siguientes raíces de la 7.ª clase todas las formas de tercer
 
 ::: deleteme-box
 
-### Fuentes
 
-**lekt3101:** Yoga-Darstellung. [Bildquelle: Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
+**lekt3101:** Representación del yoga. [Fuente de la imagen: Flickr, 2008-12-25. CC BY]
 
-**lekt3102:** Vorbereitung zum Kathakali-Tanz, Kochi. [Bildquelle: winchrisabi. Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
+**lekt3102:** Preparación para el baile Kathakali, Kochi. [Fuente de la imagen: winchrisabi. Flickr, 2008-12-25. CC BY]
 
-**lekt3103:** Aus einem Prajñāpāramitā-Manuskript. [Bildquelle: zeno.org. Gemeinfrei] <!-- TODO: Fallback translation -->
+**lekt3103:** De un manuscrito de Prajñāpāramitā. [Fuente de la imagen: zeno.org. Dominio público]
 
-**lekt3105:** Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War. [Bildquelle: Hari Singh Deora / Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt3105:** Tanques del 18.º Regimiento de Caballería (Ejército indio) en movimiento durante la guerra indo-pakistaní de 1965. [Fuente de la imagen: Hari Singh Deora / Wikipedia. Dominio público]
 
-**lekt3104:** Rāhula, der Sohn Buddhas, Laos. [Bildquelle: Sacca / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3104:** Rāhula, hijo de Buda, Laos. [Fuente de la imagen: Sacca / Wikipedia. GNU FDL]
 :::

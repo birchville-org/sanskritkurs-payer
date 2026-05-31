@@ -1,24 +1,28 @@
 ---
+title: Lesson 55
+subtitle: "The a-Aorist (Aorist with thematic vowel)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 55
 
-## 55.1. The a-Aorist (Thematic Aorist)
+## 55.1. The a-aorist (Aorist with thematic vowel)
 
 ::: grammar-box
-**The a-Aorist is formed like an imperfect (लङ्) of the 6th present class (तुदादि), i.e.:**
+**The a-aorist is formed like an imperfect (लङ्) of the 6th present class (तुदादि), i.e.:**
 
-**Augment + weak-grade root + a + secondary endings**
+**Augment + zero-grade root + a + secondary ending**
 
 **The -a- is replaced by -ā- in the same cases as in the imperfect.**
 
-**No nasal infixes.**
+**No nasal infix.**
 
-**The Ātmanepada is rare; for Ubhayapada roots, it is usually formed according to other aorist classes (see Kielhorn, Grammar §340, and below under the respective aorist classes).**
+**The Ātmanepada is rare; for Ubhayapada roots it is mostly formed according to other aorist classes (see Kielhorn, Grammar §340 and below under the corresponding aorist classes).**
 
-**List of roots that take this aorist: see Kielhorn, Grammar §340.**
+**List of roots that have this aorist, in Kielhorn, Grammar §340.**
 :::
 
 Example:
@@ -26,12 +30,12 @@ Example:
 सिच् 6U "to sprinkle"
 
 ::: indent
-|   | Parasmaipadam || Ātmanepadam ||
+|   | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-|   | Singular | Plural | Singular | Plural |
-| 1\. Third person | असिचम् | असिचाम | असिचे | असिचामहि |
-| 2\. Middle person | असिचस् | असिचत | असिचथास् | असिचध्वम् |
-| 3\. First person | असिचत् | असिचन् | असिचत | असिचन्त |
+|   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
+| 1\. तृतीयः | असिचम् | असिचाम | असिचे | असिचामहि |
+| 2\. मध्यमः | असिचस् | असिचत | असिचथास् | असिचध्वम् |
+| 3\. प्रथमः | असिचत् | असिचन् | असिचत | असिचन्त |
 :::
 
 Irregular formations:
@@ -47,12 +51,12 @@ Irregular formations:
 Note:
 
 ::: indent
-शास् 2P "to command": अशिषत् (regular weak-grade!)
+शास् 2P "to command": अशिषत् (regular zero-grade!)
 :::
 
 ## 55.2. Exercise
 
-Determine and translate the following forms in writing, and form the corresponding **aorist** (a-Aorist) forms:
+Determine and translate the following forms in writing, and form the corresponding aorist forms:
 
 1.  दोक्ष्यन्ति
 2.  बुबोध
@@ -74,29 +78,28 @@ Determine and translate the following forms in writing, and form the correspondi
 18.  श्राम्यन्ति
 19.  विन्दथ
 20.  असीदन्
-21.  वर्तामहे (a-Aor.: P)
+21.  वर्तामहे (aorist: P)
 22.  अशात्
 23.  सेक्ष्यसे
 24.  अयुनक्
 25.  आरिथ
 26.  अक्लिद्यन्
-27.  अजीर्यम् (Aor.: strong grade)
+27.  अजीर्यम् (aorist: strong grade)
 28.  लुम्पति
 29.  अशाम्यत
-30.  अशोभथाः  (a-Aor.: P)
+30.  अशोभथाः  (aorist: P)
 31.  अशुष्याम
 32.  सिष्णेह
 
 ::: media
 ![](/images/lekt5501.jpg)
 Fig.: अजीर्यमिति
-(Image source: [Details](/licenses#lekt5501))
+'Inâyat Khân on his deathbed, sketch for a miniature of a manuscript for Jahângîr = جهانگير, ca. 1618
+(Image source: [Details](/en/licenses#lekt5501))
 :::
 
 ::: deleteme-box
 
-### Sources
-
-**lekt5501:** 'Inâyat Khân on his deathbed, draft for a miniature from a manuscript for Jahângîr = جهانگير, ca. 1618 [Image source: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accessed on 2009-01-28. Public domain]
+**lekt5501:** 'Inâyat Khân on his deathbed, sketch for a miniature of a manuscript for Jahângîr = جهانگير, ca. 1618 [Image source: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accessed on 2009-01-28. Public domain]
 
 :::

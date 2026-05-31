@@ -1,6 +1,10 @@
 ---
+title: Lektion 16
+subtitle: "Zum Sandhi auslautender Konsonanten"
 lesson_id: 16
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 16
@@ -69,6 +73,7 @@ Beispiele:
 ::: media
 ![](/images/lekt1602.jpg)
 Abb.: अध्यापनम्
+"This is a special ceremony in a small temple in Satara (सातारा). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
 (Bildquelle: [Details](/licenses#lekt1602))
 :::
 
@@ -105,6 +110,7 @@ davon:
 ::: media
 ![](/images/lekt1601.jpg)
 Abb.: योगी
+Birla Mandir, Delhi
 (Bildquelle: [Details](/licenses#lekt1601))
 :::
 
@@ -121,6 +127,7 @@ Abb.: योगी
 ::: media
 ![](/images/lekt1603.jpg)
 Abb.: अहिंसा
+"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
 (Bildquelle: [Details](/licenses#lekt1603))
 :::
 
@@ -139,6 +146,7 @@ A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie:
 ::: media
 ![](/images/lekt1604.jpg)
 Abb.: पशुमन्तो जनाः
+हरियाणा / ਹਰਿਆਣਾ
 (Bildquelle: [Details](/licenses#lekt1604))
 :::
 
@@ -250,7 +258,6 @@ Satz 13: सर्वेषाम् Gen. pl. mask. zu सर्व "jeder, alle
 ३. आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः, तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १.४.३॥
 
 ::: deleteme-box
-### Quellen
 
 **lekt1601:** Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)]
 

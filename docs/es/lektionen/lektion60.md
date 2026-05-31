@@ -5,108 +5,108 @@ last_reconstructed: 2026-05-21
 
 # Lección 60
 
-## 60.1. Las desinencias del perfecto en dual (द्विवचनम्)
+## 60.1. Las desinencias del dual del perfecto (द्विवचनम्)
 
-| | परस्मैपदम् | आत्मनेपदम् |
+|   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | \-va | \-vahe |
 | 2\. मध्यमः | \-athur | \-āthe |
 | 3\. प्रथमः | \-atur | \-āte |
 
-## 60.2. El dual del perfecto con reduplicación (द्वित्वलिट्)
+## 60.2. El dual del perfecto reduplicado (द्वित्वलिट्)
 
 ### 60.2.1. Tipo 1: sin ablaut de la raíz
 
 बन्ध् 9P "atar"
 
 ::: grammar-box
-|   | parasmaipada |
+|   | परस्मैपदम् |
 | --- | --- |
-| 1\. tercera persona | babandhiva |
-| 2\. segunda persona | babandhaur |
-| 3\. primera persona | babandhatuḥ |
+| 1\. तृतीयः | बबन्धिव |
+| 2\. मध्यमः | बबन्धथुर् |
+| 3\. प्रथमः | बबन्धतुर् |
 :::
 
 भाष् 1Ā "hablar"
 
 ::: grammar-box
-|   | ātmanepada |
+|   | आत्मनेपदम् |
 | --- | --- |
-| 1\. tercera persona | babāṣivahē |
-| 2\. segunda persona | babāṣāthē |
-| 3\. primera persona | babāṣātē |
+| 1\. तृतीयः | बभाषिवहे |
+| 2\. मध्यमः | बभाषाथे |
+| 3\. प्रथमः | बभाषाते |
 :::
 
 ### 60.2.2. Tipo 2: raíz fuerte en grado pleno, raíz débil en grado reducido
 
-भिद् 7U "partir, dividir"
+भिद् 7U "partir"
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् |
+|   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
-| 1\. tercera persona | बिभिदिव | बिभिदिवहे |
-| 2\. segunda persona | बिभिदथुर् | बिभिदाथे |
-| 3\. primera persona | बिभिदतुर् | बिभिदाते |
+| 1\. तृतीयः | बिभिदिव | बिभिदिवहे |
+| 2\. मध्यमः | बिभिदथुर् | बिभिदाथे |
+| 3\. प्रथमः | बिभिदतुर् | बिभिदाते |
 :::
 
-### 60.2.3. Tipo 3: Raíz fuerte en grado pleno/gradación larga
+### 60.2.3. Tipo 3: Raíz fuerte nivel alto/gradación larga
 
-#### 60.2.3.1. Tipo 3a: Raíz fuerte en grado pleno/gradación larga, raíz débil en grado reducido
+#### 60.2.3.1. Tipo 3a: Raíz fuerte nivel alto/gradación larga, raíz débil nivel bajo
 
-नी 1U "dirigir, guiar"
+नी 1U "conducir"
 
 ::: grammar-box
-|   | Parasmaipada | Ātmanepada |
+|   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
-| 1\. Tercera persona | nin yiva | nin yivah e |
-| 2\. Segunda persona | nin yathur | nin yāthe |
-| 3\. Primera persona | nin yatur | nin yāte |
+| 1\. तृतीयः | निन्यिव | निन्यिवहे |
+| 2\. मध्यमः | निन्यथुर् | निन्याथे |
+| 3\. प्रथमः | निन्यतुर् | निन्याते |
 :::
 
-स्तु 2U (an iṭ) "alabar"
+स्तु 2U (अनिट्) "alabar"
 
 ::: grammar-box
-|   | Parasmaipada | Ātmanepada |
+|   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
-| 1\. Tercera persona | tuṣṭ uva | tuṣṭ uvah e |
-| 2\. Segunda persona | tuṣṭ uva thur | tuṣṭ uva āthe |
-| 3\. Primera persona | tuṣṭ uva tur | tuṣṭ uva āte |
+| 1\. तृतीयः | तुष्टुव | तुष्तुवहे |
+| 2\. मध्यमः | तुष्टुवथुर् | तुष्टुवाथे |
+| 3\. प्रथमः | तुष्टुवतुर् | तुष्टुवाते |
 :::
 
-कृ 8U (an iṭ) "hacer, realizar"
+कृ 8U (अनिट्) "hacer"
 
 ::: grammar-box
-|   | Parasmaipada | Ātmanepada |
+|   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
-| 1\. Tercera persona | ca kṛ va | ca kṛ vah e |
-| 2\. Segunda persona | ca kra tha ur | ca kra āthe |
-| 3\. Primera persona | ca kra tu r | ca kra āte |
+| 1\. तृतीयः | चकृव | चकृवहे |
+| 2\. मध्यमः | चक्रथुर् | चक्राथे |
+| 3\. प्रथमः | चक्रतुर् | चक्राते |
 :::
 
-#### 60.2.3.2. Tipo 3b: Raíz fuerte en grado pleno/gradación larga, raíz débil en grado pleno
+#### 60.2.3.2. Tipo 3b: Raíz fuerte nivel alto/gradación larga, raíz débil nivel alto
 
-स्मृ 1P "presentar, evocar"
+स्मृ 1P "presentar"
 
 ::: grammar-box
-|   | Parasmaipada |
+|   | परस्मैपदम् |
 | --- | --- |
-| 1\. Tercera persona | sa sma ri va |
-| 2\. Segunda persona | sa sma ra tha ur |
-| 3\. Primera persona | sa sma ra tu r |
+| 1\. तृतीयः | सस्मरिव |
+| 2\. मध्यमः | सस्मरथुर् |
+| 3\. प्रथमः | सस्मरतुर् |
 :::
 
-### 60.2.4. Tipo 4: Raíces que terminan en -ā / -ai
+### 60.2.4. Tipo 4: Raíces en -ā / -ai
 
 दा 3U "dar"
 
 ::: grammar-box
-| | parasmaipadam | ātmanepadam |
+|   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
-| 1. tercera persona | dadiva | dadivahé |
-| 2. segunda persona | dadathur | dadāthe \* |
-| 3. primera persona | dadatur | dadāte \* |
+| 1\. तृतीयः | ददिव | ददिवहे |
+| 2\. मध्यमः | ददथुर् | ददाथे \* |
+| 3\. प्रथमः | ददतुर् | ददाते \* |
 
-\* idéntico a las formas correspondientes del indicativo presente.
+\* ¡idéntico a las formas correspondientes del Indicativo Presente!
 :::
 
 ### 60.2.5. Tipo 5: Consonante-a-Consonante
@@ -135,9 +135,9 @@ last_reconstructed: 2026-05-21
 | 3\. प्रथमः | पेचतुर् | पेचाते |
 :::
 
-#### 60.2.5.3. Tipo 5c: Consonante-a-Consonante, raíz débil, grado elevado
+#### 60.2.5.3. Tipo 5c: Consonante-a-Consonante, raíz débil, grado alto
 
-क्रम् 1U "avanzar"
+क्रम् 1U "caminar"
 
 ::: grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
@@ -174,9 +174,9 @@ last_reconstructed: 2026-05-21
 ::: grammar-box
 **Formación:**
 
-**raíz de perfecto débil + vāṃs**
+**raíz débil del perfecto + vāṃs**
 
-**Si la raíz de perfecto débil consta únicamente de una sílaba, se añade la vocal de unión -i-. En algunos perfectos, la vocal de unión es opcional.**
+**Si la raíz débil del perfecto consta de una sola sílaba, se añade la vocal de unión -i-. En algunos perfectos, la vocal de unión es opcional.**
 :::
 
 Ejemplos:
@@ -196,7 +196,7 @@ Ejemplos:
     *   **antes de consonante:** ***-vat*** **(!)**
     *   **antes de vocal: -uṣ**
 
-**Ante uṣ, la vocal de unión -i- se omite.**
+**Antes de uṣ, la vocal de unión -i- se omite.**
 
 **Femenino:**
 
@@ -205,21 +205,22 @@ Ejemplos:
 Ejemplo: विदुषी "una sabia"
 :::
 
-Ver los paradigmas en Kielhorn, Gramática § 124:
+
+Ver paradigmas en Kielhorn, Gramática § 124:
 
 ::: media
 ![](/images/lekt6001.jpg)
-(Fuente de la imagen: [Detalles](/licenses#lekt6001))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt6001))
 :::
 ::: media
 ![](/images/lekt6002.jpg)
-(Fuente de la imagen: [Detalles](/licenses#lekt6002))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt6002))
 :::
 
 ## 60.5. Declinación de las raíces en -añc (-ac)
 
 ::: grammar-box
-**Las raíces en -añc/-ac son combinaciones de prefijos verbales, etc., con el sustantivo de raíz de la raíz अञ्च् / अच् 1U "moverse".**
+**Las raíces en -añc/-ac son combinaciones de prefijos, etc., con el nombre de raíz de la raíz अञ्च् / अच् 1U "moverse".**
 :::
 
 ### 60.5.1. Troncos trisilábicos en -añc
@@ -231,89 +232,90 @@ Ver los paradigmas en Kielhorn, Gramática § 124:
 *   **tema débil:**
     *   **ante consonante: -ac**
     *   **ante vocal:**
-        *   **la -a- del tema débil -ac se elide y, si hay una semivocal precedente, se sustituye por la vocal larga correspondiente:**  
+        *   **la -a- del tema débil -ac se elide y se sustituye por una vocal larga correspondiente a una semivocal precedente:**  
             प्रत्यच् » प्रतीच्  
             अन्वच् » अनूच्
-        *   **Si no precede ninguna semivocal a -ac, esta se reemplaza por -īc:**  
+        *   **Si no precede una semivocal a -ac, -ac se sustituye por -īc:**  
             उदच् » उदीच्
         *   तिर्यञ्च् » तिरश्
 
 **Femenino:**
 
-**tema débil ante vocal + -ī (declinación como देवी)**
+**tema débil ante vocal + -ī (declinado como देवी)**
 
 Ejemplo: प्रतीची
 :::
 
-#### Véanse los paradigmas en Kielhorn, Gramática § 128:
+####  Véanse paradigmas en Kielhorn, Gramática § 128:
 
 ::: media
 ![](/images/lekt6003.jpg)
-(Fuente de la imagen: [Detalles](/licenses#lekt6003))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt6003))
 :::
 ::: media
 ![](/images/lekt6004.jpg)
-(Fuente de la imagen: [Detalles](/licenses#lekt6004))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt6004))
 :::
-A esta categoría pertenecen:
+Pertenecen a esta categoría:
 
-*   प्रत्यञ्च् 3 «hacia atrás, occidental»
+*   प्रत्यञ्च् 3 "hacia atrás, occidental"
     
-*   अन्वञ्च् 3 «siguiente»
+*   अन्वञ्च् 3 "siguiente"
     
-*   उदञ्च् 3 «dirigido hacia arriba, septentrional»
+*   उदञ्च् 3 "dirigido hacia arriba, septentrional"
     
-*   तिर्यञ्च् 3 «que se desplaza horizontalmente (de animales)»
+*   तिर्यञ्च् 3 "que se mueve horizontalmente (de animales)"
     
-*   सम्यञ्च् 3 «correcto»
+*   सम्यञ्च् 3 "correcto"
     
-*   न्यञ्च् 3 «bajo»
+*   न्यञ्च् 3 "bajo"
     
-*   विष्वञ्च् 3 «que se extiende en todas direcciones»
+*   विष्वञ्च् 3 "que se mueve en todas direcciones"
 
-### 60.5.2. Raíces de dos raíces en -añc
+### 60.5.2. Stemmas de dos raíces en -añc
 
 ::: grammar-box
 **Formación:**
 
-*   **raíz fuerte: -añc**
-*   **raíz débil ante consonante o vocal: -ac**
+*   **fuerte: -añc**
+*   **débil ante consonante o vocal: -ac**
 :::
 
-Pertenecen a esta categoría:
 
-*   प्राञ्च् 3 «dirigido hacia adelante, oriental»
-*   अवाञ्च् 3 «dirigido hacia abajo»
+Aquí pertenecen:
 
-¡Véase el paradigma de प्राञ्च् más arriba!
+*   प्राञ्च् 3 "hacia adelante, oriental"
+*   अवाञ्च् 3 "hacia abajo"
 
-Las direcciones cardinales principales
+¡Ver paradigma de प्राञ्च् arriba!
 
-|   | उदञ्च् 3[[br]]«dirigido hacia arriba,[[br]]septentrional» |   |
+Las direcciones cardinales
+
+|   | उदञ्च् 3[[br]]"hacia arriba,[[br]]norte" |   |
 | :---: | :---: | :---: |
-| प्रत्यञ्च् 3[[br]]«hacia atrás,[[br]]occidental» | ![](/images/lekt6005.jpg) | प्राञ्च् 3[[br]]«dirigido hacia adelante,[[br]]oriental» |
-|   | दक्षिण 3[[br]]a la derecha,[[br]]meridional |   |
+| प्रत्यञ्च् 3[[br]]"hacia atrás,[[br]]occidente" | ![](/images/lekt6005.jpg) | प्राञ्च् 3[[br]]"hacia adelante,[[br]]oriente" |
+|   | दक्षिण 3[[br]]derecha,[[br]]sur |   |
 
-(Fuente de la imagen: [Detalles](/licenses#lekt6005))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt6005))
 
 ## 60.6. El desiderativo (सन्)
 
 ::: grammar-box
-**De cada raíz, así como del causativo, puede formarse un desiderativo (सन्). El desiderativo puede conjugarse en todos los tiempos y modos de la voz activa (P), media (Ā) y pasiva. Sin embargo, las formas desiderativas fuera del tema de presente son muy raras.**
+**De cualquier raíz, así como del causativo, puede formarse un desiderativo (सन्). El desiderativo puede conjugarse en todos los tiempos y modos del P, Ā y pasivo. Sin embargo, las formas desiderativas fuera del tema de presente son muy raras.**
 
 **Significado:**
 
-*   **una persona o cosa desea hacer o experimentar lo que es expresado por la raíz o el causativo**
-*   **con menos frecuencia: alguien o algo está a punto de hacer lo que es expresado por la raíz o el causativo**
+*   **una persona o cosa desea hacer o sufrir lo que expresa la raíz o el causativo**
+*   **con menor frecuencia: alguien o algo está a punto de hacer lo que expresa la raíz o el causativo**
 :::
 
 ####  Ejemplos:
 
-| कृ 8U | चिकीर्षति «él desea hacer» |
+| कृ 8U | चिकीर्षति "él desea hacer" |
 | --- | --- |
-| पत् 1P | पिपतिषति «él está a punto de caer» |
-| चुर् 10U | चुचोरयिषति «él desea robar» |
-| बुध् Caus. | बुबोधयिषति «él desea instruir (despertar al conocimiento)» |
+| पत् 1P | पिपतिषति "él está a punto de caer" |
+| चुर् 10U | चुचोरयिषति "él desea robar" |
+| बुध् Caus. | बुबोधयिषति "él desea instruir (despertar al conocimiento)" |
 
 ### 60.6.1. Formación del tema desiderativo
 
@@ -326,7 +328,7 @@ Las direcciones cardinales principales
 
 **raíz reduplicada + i + ṣa**
 
-Para las reglas sobre el uso de la vocal de unión -i-, véase Kielhorn, *Gramática* §§ 443 - 445.
+Ver las reglas para el uso de la vocal de unión -i- en Kielhorn, Gramática §§ 443 - 445.
 
 **Raíces de la 10. clase de presente y causativos:**
 
@@ -336,9 +338,9 @@ Para las reglas sobre el uso de la vocal de unión -i-, véase Kielhorn, *Gramá
 ::: grammar-box
 **Forma de la raíz:**
 
-1.  La raíz es generalmente en grado bajo (guṇa/vṛddhi no aplicado, es decir, grado cero o *zero-grade*): जीव् » जिजीविष-  
+1.  La raíz suele estar en grado reducido: जीव् » जिजीविष-  
      
-    1.  la -i, -u final se reemplaza por -ī o -ū respectivamente, si no sigue una vocal de unión:  
+    1.  la -i, -u final se reemplaza por -ī o -ū, si no sigue una vocal de unión:  
         जि » जि***गी***ष- "desear ganar"  
         द्रु » दु***द्रू***ष- "desear correr"  
          
@@ -347,12 +349,12 @@ Para las reglas sobre el uso de la vocal de unión -i-, véase Kielhorn, *Gramá
         मृ » मु***मूर्ष***\- "estar a punto de morir"  
         पॄ » पु***पूर्ष***\- "desear llenar"  
          
-    3.  दा, धा, मा y algunas otras raíces en -ā, -e, -o tienen grado cero (Ø):  
+    3.  दा, धा, मा y algunas otras raíces en -ā, -e, -o tienen grado reducido Ø:  
         दा » दित्स- (di-***d*** + sa)  
         धा » धित्स-  
         मा » मित्स-  
          
-2.  Las raíces en grado alto (guṇa/vṛddhi) tienen en el desiderativo: 
+2.  Las raíces en grado pleno tienen en el desiderativo: 
     1.  la mayoría de las raíces en -ā (-e, -ai, etc.):  
         गै » जिगास- "desear cantar"  
         पा » पिपास- "desear beber, tener sed"  
@@ -361,24 +363,24 @@ Para las reglas sobre el uso de la vocal de unión -i-, véase Kielhorn, *Gramá
         दह् » दिधक्ष- "desear quemar"  
         खाद् » चिखादिष- "desear masticar"  
          
-    3.  al añadir la vocal de unión -i-: 
+    3.  al añadirse la vocal de unión -i-: 
         1.  obligatorio: raíces de la forma i/u - consonante y también (consonante -) ṛ/ḷ - consonante:  
-            इष् » एषिषिष- "desear intensamente"  
-            कॢप् » चिकल्पिष- "desear ser apropiado"  
+            इष् » एषिषिष- "desear desear"  
+            कॢप् » चिकल्पिष- "desear ser adecuado"  
             स्मि » सि***स्म***यिष- "desear sonreír"  
              
-        2.  opcional: raíces de la forma consonante - (consonante -) i/u - consonante, excepto -v\_  
-            द्युत् » दिद्योतिष- / दिद्युतिष- "desear relucir"
+        2.  opcional: raíces de la forma consonante - (consonante -) i/u - consonante excepto -v\_  
+            द्युत् » दिद्योतिष- / दिद्युतिष- "desear centellear"
 :::
 
 ::: grammar-box
 **Sobre la reduplicación:**
 
-1.  Las raíces que comienzan con consonante: la reduplicación se aplica a las raíces modificadas según las reglas anteriores, siguiendo las reglas habituales. En lugar de la vocal *a* como vocal de reduplicación, aparece la vocal *i*:  
+1.  Raíces que comienzan con consonante: La reduplicación se aplica a las raíces modificadas según las reglas anteriores, siguiendo las reglas habituales. En lugar de a como vocal de reduplicación aparece i:  
     पा » पिपास-  
     त्यज् » तित्यज-  
     चुर् » चुचोरयिष-  
-    No ocurre la cerebralización tras i/u de la -s final de la raíz cuando la *s* del sufijo desiderativo se cerebra liza:  
+    No se produce la cerebralización tras i/u de la -s final de la raíz, si se cerebraliza la -s del sufijo desiderativo:  
     स्मि » सिस्मयिष-  
      
 2.  Las raíces que comienzan con vocal se reduplican según las reglas correspondientes para el aoristo reduplicado ([Lección 56](lektion56.md)):  
@@ -386,42 +388,42 @@ Para las reglas sobre el uso de la vocal de unión -i-, véase Kielhorn, *Gramá
     ईक्ष » ईचिक्षिष- (ī-c-i-kṣ-i-ṣa)  
     ऋ » अरिरिष-  
      
-3.  Para la formación especial del desiderativo de ciertas raíces, véase Kielhorn, *Gramática* § 451.
+3.  Para la formación desiderativa especial de ciertas raíces, véase Kielhorn, Gramática § 451.
 :::
 
 ::: grammar-box
-**Se forman desiderativos para ciertas raíces sin significado desiderativo. Para estos desiderativos pueden formarse otros desiderativos con significado desiderativo.**
+**Para ciertas raíces se forman desiderativos sin significado desiderativo. Para estos desiderativos pueden formarse desiderativos con significado desiderativo.**
 :::
 
-Lista en Kielhorn, *Gramática* § 452:
+Lista en Kielhorn, Gramática § 452:
 
 ::: media
 ![](/images/lekt6006.jpg)
-(Fuente de la imagen: [Detalles](/licenses#lekt6006))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt6006))
 :::
 
-### 60.6.2. Conjugación del desiderativo (सन्)
+### 60.6.2. Conjugación del Desiderativo (सन्)
 
 :::: grammar-box
-**El desiderativo es, con pocas excepciones, P, Ā o U, dependiendo de si la raíz subyacente (o el tema verbal subyacente) es P, Ā o U.**
+**El Desiderativo es, con pocas excepciones, P, Ā o U, dependiendo de si la raíz subyacente (o el tema verbal subyacente) es P, Ā o U.**
 
-**Tema de presente: conjugación como un tema temático:**
+**Tema del presente: conjugación como un tema temático:**
 
 यज् 1U:
 
 ::: indent
-P: यियक्षति «quiere sacrificar por otra persona»
-Ā: यियक्षते «quiere sacrificar por sí mismo (como patrón del sacrificio)»
-Pasivo: यियक्ष्यते «se desea sacrificar»
+P: यियक्षति "él desea, sacrificar para otra persona"
+Ā: यियक्षते "él desea, sacrificar para sí mismo (como dueño de la ofrenda)"
+Pasivo: यियक्ष्यते "se desea sacrificar"
 :::
 
-**Perfecto: perífrasticamente:**
+**Perfecto: perifrástico:**
 
 ::: indent
-आप् » ईप्स- » ईप्सां चकार «quiso obtener»
+आप् » ईप्स- » ईप्सां चकार "él deseó obtener"
 :::
 
-**Aoristo: aoristo iṣ:**
+**Aoristo: Aoristo iṣ:**
 
 ::: indent
 आप् » ऐप्सिषम् (a + īps-i-ṣ-am)
@@ -439,21 +441,21 @@ Para la formación de nombres de agente en -u a partir del tema desiderativo, v�
 
 ## 60.7. Ejercicio
 
-A) Estudie en Kielhorn, Gramática § 451 las formaciones irregulares del desiderativo correspondientes a los verbos aprendidos hasta ahora:
+A) Estudie en Kielhorn, Gramática § 451 las formaciones irregulares del desiderativo de los verbos aprendidos hasta ahora:
 
 ::: media
 ![](/images/lekt6007.jpg)
-(Fuente de la imagen: [Detalles](/licenses#lekt6007))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt6007))
 :::
 ::: media
 ![](/images/lekt6008.jpg)
-(Fuente de la imagen: [Detalles](/licenses#lekt6008))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt6008))
 :::
 ::: media
 ![](/images/lekt6009.jpg)
-(Fuente de la imagen: [Detalles](/licenses#lekt6009))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt6009))
 :::
-B) Determine y traduzca las siguientes formas sin utilizar herramientas auxiliares:
+B) Determine y traduzca sin ayudas las siguientes formas:
 
 1.  ददुषोः
     

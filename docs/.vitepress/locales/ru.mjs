@@ -7,11 +7,16 @@ export const ru = {
   description: 'Учебник грамматики Алоиза Пайера',
   themeConfig: {
     outline: { level: [2, 3], label: 'На этой странице' },
+    returnToTopLabel: 'Вернуться наверх',
+    sidebarMenuLabel: 'Меню',
+    darkModeSwitchLabel: 'Оформление',
+    lightModeSwitchTitle: 'Переключить на светлую тему',
+    darkModeSwitchTitle: 'Переключить на тёмную тему',
+    langMenuLabel: 'Сменить язык',
     nav: [
       { text: 'Главная', link: '/ru/' },
       { text: 'Содержание', link: '/ru/lektionen/inhaltsverzeichnis' },
       { text: 'Указатель', link: '/ru/grammatik' },
-      { text: 'QA', link: '/qa/viewer' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Авторы', link: '/ru/impressum' }
     ],

@@ -1,6 +1,10 @@
 ---
+title: Lektion 46
+subtitle: "Bildung der Verbalformen der 2. Person (मध्यमः) Perfekt (लिट्)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 46
@@ -698,7 +702,6 @@ Abb.: [क्रोधाद्भवति संमोहः संमोह�
 :::
 
 ::: deleteme-box
-### Quellen
 
 Navagraha images source: Redtigerxyz / Wikipedia. GNU FDLicense
 

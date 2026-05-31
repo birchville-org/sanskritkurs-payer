@@ -1,206 +1,235 @@
+---
+title: Урок 56
+subtitle: "Повторящият се аорист"
+lesson_id: 56
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 56
 
-# Lektion 56
+## 56.1. Дуплицираният аорист
 
-## 56.1. Der reduplizierte Aorist
+::: grammar-box
+**Образуване:**
 
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+**Авгмент + дуплицирана основа + a + тематична вторична окончание**
 
-Augment + reduplizierte Wurzel + a + thematische Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
+**Слогът на основата може да бъде с нисък или висок тон. При основи на -i или -u ниският тон е правилото.**
 
-Die Wurzelsilbe kann tief- oder hochstufig sein. Bei Wurzeln auf -i oder -u ist Tiefstufe die Regel. &lt;!-- TODO: Fallback translation --&gt;
+**Изходното -i, -u се заменя с -iy съответно -uv.**
 
-Auslautendes -i, -u wird durch -iy bzw. -uv ersetzt. &lt;!-- TODO: Fallback translation --&gt;
-
-Auslautendes -ā (für -e) fällt ab. &lt;!-- TODO: Fallback translation --&gt;
-
-Paradigma: &lt;!-- TODO: Fallback translation --&gt;
-
-श्रि 1U "sich begeben zu, sich anlehnen" &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः**अशिश्रियम् (अ-शि-श्रिय्-अम्)अशिश्रियामअशिश्रियेअशिश्रियामहि**2. द्वितीयः**अशिश्रियस्अशिश्रियतअशिश्रियथास्अशिश्रियध्वम्**3. प्रथमः**अशिश्रियत्अशिश्रियन्अशिश्रियतअशिश्रियन्त
+**Изходното -ā (за -e) отпада.**
 :::
 
-Diese Form des Aorist bilden u.a.: &lt;!-- TODO: Fallback translation --&gt;
+Парадигма:
 
-*   श्रि 1U "sich begeben zu" &lt;!-- TODO: Fallback translation --&gt;
-*   द्रु 1P "rennen" &lt;!-- TODO: Fallback translation --&gt;
-*   कम् 1Ā "lieben": अचकमत / अचीकमत (siehe unten!) &lt;!-- TODO: Fallback translation --&gt;
-*   पत् 1P "fallen": अपप्तत् (a-pa-pt-a-t; pt = Tiefstufe zu pat) &lt;!-- TODO: Fallback translation --&gt;
-*   वच् 2P "sagen": अवोचत् (a-va + uc-a-t) &lt;!-- TODO: Fallback translation --&gt;
+श्रि 1U "отива при, обръща се към"
 
-Alle Wurzeln der 10. Präsensklasse sowie alle Kausative bilden stets den reduplizierten Aorist. &lt;!-- TODO: Fallback translation --&gt;
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अशिश्रियम्[[br]](अ-शि-श्रिय्-अम्) | अशिश्रियाम | अशिश्रिये | अशिश्रियामहि |
+| **2. द्वितीयः** | अशिश्रियस् | अशिश्रियत | अशिश्रियथास् | अशिश्रियध्वम् |
+| **3. प्रथमः** | अशिश्रियत् | अशिश्रियन् | अशिश्रियत | अशिश्रियन्त |
 
-### 56.1.1. Образоване des Aorist der Kausative und der Коренn der 10. Сегашно времеklasse
+Тази форма на аорист образуват между другото:
 
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+*   श्रि 1U "отива при"
+*   द्रु 1P "бяга"
+*   कम् 1Ā "обича": अचकमत / अचीकमत (вж. по-долу!)
+*   पत् 1P "пада": अपप्तत् (a-pa-pt-a-t; pt = нисък тон на pat)
+*   वच् 2P "казва": अवोचत् (a-va + uc-a-t)
 
-Augment + reduplizierte Wurzel + a + thematische Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
-
-Die Wurzelsilbe kann tief- oder hochstufig sein. Bei Wurzeln auf -i oder -u ist Tiefstufe die Regel. &lt;!-- TODO: Fallback translation --&gt;
-
-*   Auslautendes -i, -u wird durch -iy bzw. -uv ersetzt. &lt;!-- TODO: Fallback translation --&gt;
-द्रु 1P "rennen" &lt;!-- TODO: Fallback translation --&gt;
-
-*   Auslautendes -ā (für -e) fällt ab. &lt;!-- TODO: Fallback translation --&gt;
-Paradigma: &lt;!-- TODO: Fallback translation --&gt;
-
-*   श्रि 1U "sich begeben zu, sich anlehnen" &lt;!-- TODO: Fallback translation --&gt;
-परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः**अशिश्रियम् (अ-शि-श्रिय्-अम्)अशिश्रियामअशिश्रियेअशिश्रियामहि**2. द्वितीयः**अशिश्रियस्अशिश्रियतअशिश्रियथास्अशिश्रियध्वम्**3. प्रथमः**अशिश्रियत्अशिश्रियन्अशिश्रियतअशिश्रियन्त
-
-Diese Form des Aorist bilden u.a.: &lt;!-- TODO: Fallback translation --&gt;
-
-*   श्रि 1U "sich begeben zu" &lt;!-- TODO: Fallback translation --&gt;
-कम् 1Ā "lieben": अचकमत / अचीकमत (siehe unten!) &lt;!-- TODO: Fallback translation --&gt;
-
-पत् 1P "fallen": अपप्तत् (a-pa-pt-a-t; pt = Tiefstufe zu pat) &lt;!-- TODO: Fallback translation --&gt;
-
-वच् 2P "sagen": अवोचत् (a-va + uc-a-t) &lt;!-- TODO: Fallback translation --&gt;
-
-Alle Wurzeln der 10. Präsensklasse sowie alle Kausative bilden stets den reduplizierten Aorist. &lt;!-- TODO: Fallback translation --&gt;
-
-*   a für a, ā, ṛ,  ṝ, ḷ <!-- TODO: Fallback translation -->
-*   i für i, ī, e, ai <!-- TODO: Fallback translation -->
-*   u für u, ū, o, au <!-- TODO: Fallback translation -->
-
-Dieser Reduplikationsvokal unterliegt folgenden Veränderungen: <!-- TODO: Fallback translation -->
-
-*   i, u wird durch ī, ū ersetzt, wenn die Основаsilbe mit nur einem Konsonanten anfängt und metrisch kurz ist:   <!-- TODO: Fallback translation -->
-    भिद् 7U: Kaus. भेदयति, Aor. अबीभिदत्  
-    तुद् 6U: Kaus. तोदयति, Aor. अतूतुदत्   <!-- TODO: Fallback translation -->
-
-*   a wird durch ī ersetzt, wenn die Основаsilbe metrisch kurz ist und mit nur einem Konsonanten beginnt. Ist die Основаsilbe metrisch kurz und beginnt mit mehr als einem Konsonanten, wird das a der Reduplikationssilbe durch i ersetzt. Ist die Основаsilbe metrisch lang, bleibt das a erhalten:   <!-- TODO: Fallback translation -->
-    नी 1U: Kaus. नाययति, Stammsilbe des Aor. नय्, Aor. अनीनयत्  
-    कृ 8U: Kaus. कारयति, Stammsilbe des Aor. कर्, Aor. अचीकरत्  
-    त्यज् 1P: Kaus. त्याजयति, Stammsilbe des Aor. त्यज्, Aor. अतित्यजत्  
-    भू 1P: Kaus. भावयति, Stammsilbe des Aor. भव्, Aor. अबीभवत् <!-- TODO: Fallback translation -->
-
-Besonderheiten bestimmter Wurzeln bei Kielhorn, Grammatik § 435c ff. <!-- TODO: Fallback translation -->
-
-Vokalisch anlautende Stammsilben werden nach folgenden Regeln redupliziert: <!-- TODO: Fallback translation -->
-
-*   Folgt dem anlautenden Vokal nur ein einziger Konsonant oder eine Konsonantengruppe, deren erstes Glied weder Nasal noch d oder r ist, so lautet die reduplizierte Silbe: <!-- TODO: Fallback translation -->
-
-Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - i \- alle Konsonanten <!-- TODO: Fallback translation -->
-
-::: indent
-अश् 9P: Kaus. आशयति, reduplizierte Silbe आशिश्, Aor. आशिशत्
-इष् 6P: Kaus. एषयति, reduplizierte Silbe एषिष्, Aor. ऐषिषत्
-ईक्ष् 1Ā: Kaus. ईक्षयति, reduplizierte Silbe ईचिक्ष्, Aor. ऐचिक्षत् <!-- TODO: Fallback translation -->
+::: grammar-box
+**Всички основи на 10-тия клас на настоящето време, както и всички каузативни форми, винаги образуват дуплициран аорист.**
 :::
 
-*   Folgt dem anlautenden Vokal eine mit einem Nasal oder d oder r anfangende Konsonantengruppe, so wird der zweite Konsonant der Gruppe (oder sein Stellvertreter) mit i nach folgendem schema eingeschoben: <!-- TODO: Fallback translation -->
+### 56.1.1. Образуване на аориста на каузативите и корените на 10-та класа на настоящето време
 
-Vokal - erster Konsonant - zweiter Konsonant (Stellvertreter) - i - zweiter Konsonant <!-- TODO: Fallback translation -->
+Основаваща сричка:
 
-::: indent
-अञ्ज् 7P: Kaus. अञ्जयति, reduplizierte Silbe अञ्जिज्, Aor. आञ्जिजत्
-ऋ 1P: Kaus. अर्पयति, reduplizierte Silbe अर्पिप्, Aor. आर्पिपत्
-अर्ह् 1P: Kaus. अर्हयति, reduplizierte Silbe अर्जिह्, Aor. आर्जिहत् <!-- TODO: Fallback translation -->
+::: grammar-box
+**Отправна точка е формата на настоящия корен или на каузативния корен, която той има след отпадането на образуващия елемент -aya- (т.е. корен на -p при каузативи на -paya-).**
+
+**Гласната на тази т.нар. основаваща сричка се определя в аориста според следните правила:**
+
+*   **\-ā- пред прост съгласен се заменя с -a-:**  
+    पॄ 3Л: Кауз. ***पार***यति, Аор. अपि***पर***त्  
+    द्रु 1Л: Кауз. ***द्राव***यति, Аор. अदु***द्रव***त् / अदि***द्रव***त्  
+    नी 1У: Кауз. ***नाय***यति, Аор. अनी***नय***त्  
+    ज्ञा 9У: Кауз. ***ज्ञाप***यति, Аор. अजि***ज्ञप***त्  
+     
+*   **\-ī-, -e-, -ai- пред прост съгласен се заменя с -i-:**  
+    चित् 1Л: Кауз. ***चेत***यति, Аор. (Ā) अची***चित***त  
+     
+*   **\-u-, -o-, -au- пред прост съгласен се заменя с -u-:**  
+    चुर् 10У: ***चोर***यति, Аор. अचू***चुर***त्
+
+**При някои корени досегашните промени са по избор или трябва да бъдат пропуснати:**
+
+*   **на предния на крайния съгласен на основаващата сричка непосредствено предхождащо ar, ār, īr, al, заменящо ṛ, ṝ, ḷ, остава по избор непроменено или се заменя с ṛ съответно ḷ:**  
+    कॢप् 1А: Кауз. ***कल्प***यति, Аор. अच***कल्प***त् / अची***कॢ***पत्  
+    कृष् 1Л/6У: Кауз. ***कर्ष***यति, Аор. अच***कर्ष***त् / अची***कृ***षत्
 :::
 
-Diese Form der Reduplikation vokalisch anlautender abgeleiteter Stämme (Kausative) nennt man "attische Reduplikation". <!-- TODO: Fallback translation -->
+Гласна на сричката за редупликация:
 
-## 56.2. Der Injunktiv
+След като горепосочените правила са приложени към основаващата сричка, трябва да се спазват следните правила за гласната на сричката за редупликация:
 
-Der Injunktiv ist die augmentlose Form zu Augmentformen, d.h. seine Formen sind identisch mit den augmentlosen Formen des Indikativ Imperfekt oder Aorist. Die einheimische indische Grammatik hat den Injunktiv nicht als besondere grammatische Kategorie erkannt. &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+**Отправна точка е редовната гласна за редупликация, т.е.**
 
-Gemäß der grundlegenden Arbeit: &lt;!-- TODO: Fallback translation --&gt;
+*   a за a, ā, ṛ, ṝ, ḷ
+*   i за i, ī, e, ai
+*   u за u, ū, o, au
+
+**Тази гласна за редупликация подлежи на следните промени:**
+
+*   **i, u се заменя с ī, ū, ако основаващата сричка започва само с един съгласен и е метрично кратка:**  
+    भिद् 7У: Кауз. भेदयति, Аор. अ***बी***भिदत्  
+    तुद् 6У: Кауз. तोदयति, Аор. अ***तू***तुदत्  
+     
+*   **a се заменя с ī, ако основаващата сричка е метрично кратка и започва само с един съгласен. Ако основаващата сричка е метрично кратка и започва с повече от един съгласен, гласната a на сричката за редупликация се заменя с i. Ако основаващата сричка е метрично дълга, gласната a се запазва:**  
+    नी 1У: Кауз. नाययति, Основаваща сричка на аориста नय्, Аор. अ***नी***नयत्  
+    कृ 8У: Кауз. कारयति, Основаваща сричка на аориста कर्, Аор. अ***ची***करत्  
+    त्यज् 1Л: Кауз. त्याजयति, Основаваща сричка на аориста त्यज्, Аор. अ***ति***त्यजत्  
+    भू 1Л: Кауз. भावयति, Основаваща сричка на аориста भव्, Аор. अ***बी***भवत्
+
+Особености на определени корени при Килхорн, Граматика § 435c сл.
+
+**Гласоначалните основаващи срички се редуплицират според следните правила:**
+
+*   **Ако след началната гласна следва само един съгласен или група от съгласни, чийто първи елемент не е нито носов, нито d, нито r, то редуплицираната сричка е:**
+
+Гласна - първият следващ съгласен (съответно неговият представител, изискван в сричка за редупликация) - ***i*** - всички съгласни
+
+::: indent
+अश् 9P: Кaus. आशयति, дуплицирана сричка आशिश्, Аор. आशिशत्
+इष् 6P: Кaus. एषयति, дуплицирана сричка एषिष्, Аор. ऐषिषत्
+ईक्ष् 1Ā: Кaus. ईक्षयति, дуплицирана сричка ईचिक्ष्, Аор. ऐचिक्षत्
+:::
+
+*   **Ако след началния глас следва съгласна група, започваща с назал или d или r, то втората съгласна на групата (или нейният заместник) се вмъква с i според следната схема:**
+    
+
+Гласен - първа съгласна - втора съгласна (заместник) - i - втора съгласна
+
+::: indent
+अञ्ज् 7P: Кaus. अञ्जयति, дуплицирана сричка अञ्जिज्, Аор. आञ्जिजत्
+ऋ 1P: Кaus. अर्पयति, дуплицирана сричка अर्पिप्, Аор. आर्पिपत्
+अर्ह् 1P: Кaus. अर्हयति, дуплицирана сричка अर्जिह्, Аор. आर्जिहत्
+:::
+
+Тази форма на дупликация на гласно започващи производни корени (каузативи) се нарича „атишка дупликация“.
+::::
+
+## 56.2. Инюнктивът
+
+::: grammar-box
+**Инюнктивът е форма без аугмент към форми с аугмент, т.е. неговите форми са идентични с аугмент-безформите на индикативния имперфект или аорист. Домашната индийска граматика не е разпознала инюнктива като отделна граматическа категория.**
+:::
+
+Според основната работа:
 
 ::: media
-![]/images/lekt5601.jpg
-Abb.: Karl Hoffmann (1915 - 1996)  
-Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983)  
-\[Bildquelle: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Zugriff am 2009-02-27\]   &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5601.jpg)
+Ил.:
+Професор по сравнително езикознание, Университет в Ерланген-Нюрнберг (1955 - 1983)
+(Източник на изображението: [Подробности](/bg/licenses#lekt5601))
 :::
 
 ::: indent
-Hoffmann, Karl &lt;1915 - 1996&gt;: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen) &lt;!-- TODO: Fallback translation --&gt;
+Хофман, Карл &lt;1915 - 1996&gt;: Инюнктивът във Ведата: синхронно функционално изследване / от Карл Хофман. -- Хайделберг : Винтер, 1967. -- 298 стр. -- (Индогерманска библиотека : 3. серия, Изследвания)
 :::
 
-hat der Injunktiv im Veda folgende Eigenschaften: &lt;!-- TODO: Fallback translation --&gt;
+инюнктивът във Ведата следните свойства:
 
-*   er ist nicht berichtend, sondern erwähnend &lt;!-- TODO: Fallback translation --&gt;
-*   er ist zeitstufenlos &lt;!-- TODO: Fallback translation --&gt;
-*   der Injunktiv Сегашно време (= augmentloses Имперфект) bezeichnet den unvollendeten Aspekt &lt;!-- TODO: Fallback translation --&gt;
-*   der Injunktiv Aorist bezeichnet den vollendeten Aspekt. &lt;!-- TODO: Fallback translation --&gt;
+*   той не е разказващ, а споменателен
+*   той е извънвремеви
+*   инюнктивът сегашно време (= аугмент-без имперфект) обозначава незавершения аспект
+*   инюнктивът аорист обозначава завершения аспект.
 
-Im nachvedischen Sanskrit kommt der Injunktiv nur noch in Verbindung mit der Verbotspartikel मा (+ Injunktiv Aorist) bzw. मा स्म (+ Injunktiv Präsens oder Aorist) vor, der unterschiedliche Aspekt kommt meist nicht mehr zum Tragen. &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**В постведическия санскрит инюнктивът се среща само в комбинация с частицата за забрана मा (+ инюнктив аорист) или मा स्म (+ инюнктив сегашно време или аорист), като различният аспект обикновено вече не се отчита.**
 
-(mit Aspekt &lt;!-- TODO: Fallback translation --&gt;
+(с аспект
 
-*   würde मा + Injunktiv Aorist einen Prohibitivsatz bezeichnen: "Beginne nicht zu ...!", "Tu nicht ...!" &lt;!-- TODO: Fallback translation --&gt;
-*   würde मा स्म + Injunktiv Сегашно време einen Inhibitivsatz bezeichnen, d.h. eine schon verlaufende Handlung oder ein schon bestehender Zustand wird verboten: "Höre auf, zu ...!", "Lass ab von ...!" &lt;!-- TODO: Fallback translation --&gt;
+*   मा + инюнктив аорист би обозначил прохибитивно изречение: "Не започвай да ...!", "Не правиш ...!"
+*   मा स्म + инюнктив сегашно време би обозначил инхибитивно изречение, т.е. вече протичащо действие или вече съществуващо състояние е забранено: "Спри да ...!", "Откажи се от ...!"
 
-Dieser Unterschied wird jedoch im klassischen Sanskrit meist nicht gemacht.) &lt;!-- TODO: Fallback translation --&gt;
+Това различие обаче в класическия санскрит обикновено не се прави.)
+:::
 
-## 56.3. Der Verbotssatz
+## 56.3. Заповедта за забрана
 
-Hauptform: &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Основна форма:**
 
-मा + Injunktiv Aorist &lt;!-- TODO: Fallback translation --&gt;
+**मा + Инюнктив Аорист**
 
-मा स्म + Injunktiv Aorist oder Injunktiv Präsens &lt;!-- TODO: Fallback translation --&gt;
+**मा स्म + Инюнктив Аорист или Инюнктив Презенс**
+:::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
 ::: indent
-मा कर्महेतुर्भूः "Werde nicht einer, der durch die Frucht einer Tat motiviert wird!" (Injunktiv Aorist) (भगवद्गीता 2,47c) &lt;!-- TODO: Fallback translation --&gt;
+मा कर्महेतुर्भूः „Не ставай този, който е мотивиран от плода на действието!“ (Инюнктив Аорист) (भगवद्गीता 2,47c)
 
-क्लैब्यं मा स्म गमः "Werde nicht unmännlich!" (Injunktiv Aorist) (भगवद्गीता 2,3a) &lt;!-- TODO: Fallback translation --&gt;
+क्लैब्यं मा स्म गमः „Не ставай немъжествен!“ (Инюнктив Аорист) (भगवद्गीता 2,3a)
 :::
 
 ::: media
-![]/images/lekt5602.jpg
-Abb.: क्लैब्यं मा स्म गमः (भगवद्गीता 2,3a)  
-Poster (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍).  
-"Rough translation of what is written on it would be:  
-Martyrdom is a fascinating experience for a revolutionary.  
-And a daunting resort to a dastard.  
-Che is not a role model for cowards."  
-\[Bildquelle: Hari\_Menon. -- [http://www.flickr.com/photos/me\_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]   &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5602.jpg)
+Ил.: क्लैब्यं मा स्म गमः
+Плакат (Ернесто Че Гевара) на политическа партия в Валлачира (വാല്ലചിര), Триссур (തൃശ്ശൂര്‍). "Приблизителен превод на това, което е написано върху него, би бил: Мъченичеството е увлекателно преживяване за революционер. И отчаяна мярка за трус. Че не е ролев модел за трусовете."
+(Източник на изображението: [Подробности](/bg/licenses#lekt5602))
 :::
 
-&lt;!-- TODO: Fallback translation --&gt;
+И двата примера имат забранителен смисъл. Инюнктивът Аорист е тук използван в своето първоначално значение. (Преобладаването на Инюнктив Аорист в такива изречения може би се обяснява с преобладаването на забранителните изречения пред инхибитивните изречения, но този въпрос все още трябва да бъде изследван за класическия санскрит.)
 
-Beide Beispiele haben prohibitiven Sinn. Der Injunktiv Aorist ist hier also in seiner ursprünglichen Bedeutung gebraucht. (Das Überwiegen des Injunktiv Aorist in solchen Sätzen erklärt sich vielleicht aus dem Überwiegen der Prohibitivsätze gegenüber Inhibitivsätzen, doch müsste diese Frage für das klassische Sanskrit noch untersucht werden.) &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+**Други форми на забранителни изречения:**
 
-*   मा + (स्म) + Императив (selten)   &lt;!-- TODO: Fallback translation --&gt;
-    z.B.  मा ते सङ्गो ऽस्त्वकर्मणि   &lt;!-- TODO: Fallback translation --&gt;
+*   **मा + (स्म) + Императив (рядко)  **
+**напр.  मा ते सङ्गो ऽस्त्वकर्मणि**
 
-*   अलम् oder कृतम्  = Инструменталис im Inhibitivsatz   &lt;!-- TODO: Fallback translation --&gt;
-    z.B. अलं  विषादेन "Genug mit dem Verzagen! = Hör auf, verzagt zu sein! = Kopf hoch!"   &lt;!-- TODO: Fallback translation --&gt;
+*   अलम् или कृतम्  = Инструментал в инхибитивното изречение  
+    напр. अलं  विषादेन „Доволно от отчаянието! = Престани да бъдеш отчаян! = Дръж се!“  
 
-*   न + Gerundiv (Partizip der Notwendigkeit) &lt;!-- TODO: Fallback translation --&gt;
+*   न + Герундив (причастие на необходимостта)
 
-Andere Formen von Verbotssätzen: &lt;!-- TODO: Fallback translation --&gt;
+Освен това има и други, по-редки форми на забранителни изречения, вижте напр.
 
 ::: indent
-Daneben gibt es noch weitere, seltenere Formen von Verbotssätzen, siehe z.B. &lt;!-- TODO: Fallback translation --&gt;
+Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
 :::
+::::
 
 ::: media
-![]/images/lekt5603.jpg
-Abb.:  अलं  विषादेन  
-\[Bildquelle: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]  &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5603.jpg)
+Ил.: अलं  विषादेन
+(Източник на изображението: [Подробности](/bg/licenses#lekt5603))
 :::
 
 ## 56.4. स्म
 
-स्म hebt hervor: "wahrlich, allerdings, gewiss, gerade" &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+**स्म подчертава: „наистина, всъщност, сигурно, точно“**
 
-Außerdem ist folgende Konstruktion sehr wichtig: &lt;!-- TODO: Fallback translation --&gt;
+**Освен това следната конструкция е много важна:**
 
 ::: indent
-स्म + Indikativ Präsens dient zum Erzählen in der Vergangenheit, vor allem um eine Dauer in der Vergangenheit zu bezeichnen: &lt;!-- TODO: Fallback translation --&gt;
+स्म + Индикатив сегашно време служи за разказване в миналото, предимно за обозначаване на продължителност в миналото:
 
-z.B. वसति स्म "es wohnte einmal" (स्म kann manchmal auch fehlen). &lt;!-- TODO: Fallback translation --&gt;
+напр. वसति स्म „един път живеел“ (स्म понякога може да липсва).
 :::
+::::
 
 ## 56.5. Упражнение
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen: &lt;!-- TODO: Fallback translation --&gt;
+A) Определете и преведете без помощни средства (!) следните форми:
 
 1.  अस्मत्
 2.  अस्मात्
@@ -285,12 +314,10 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen: &lt;!-- T
 
 ::: deleteme-box
 
-### Източници
+**lekt5601:** Професор по сравнително езикознание, Университет в Ерланген-Нюрнберг (1955 - 1983) [Източник на изображението: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Достъп на 2009-02-27]
 
-**lekt5601:** Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983) [Bildquelle: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Zugriff am 2009-02-27] <!-- TODO: Fallback translation -->
+**lekt5602:** Плакат (Ернесто Че Гевара) на политическа партия в Валлачира (വാല്ലചിര), Триссур (തൃശ്ശൂര്‍). "Приблизителен превод на това, което е написано върху него, би бил: Мъченичеството е увлекателно преживяване за революционер. И отчаяна мярка за трус. Че не е ролев модел за трусовете." [Източник на изображението: Hari_Menon. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Достъп на 2009-02-27. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Приписване, некомърсиално използване, споделено еднакво)]
 
-**lekt5602:** Poster (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards." [Bildquelle: Hari\_Menon. -- [http://www.flickr.com/photos/me\_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt5603:** [Bildquelle: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5603:** [Източник на изображението: Световна банка / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Достъп на 2009-02-27. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, некомърсиално използване, без производни)]
 
 :::

@@ -33,6 +33,7 @@ Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entspreche
 18.  ऐक्षध्वम् - ईक्ष् 1Ā 2.pl.Impf.Ā ihr saht - ऐक्षिध्वम्
 19.  अचेतः - चित् 1P 2.sg.Impf.P du nahmst wahr - अचेतीः
 
+:::: media
 ![](/images/uebung095.jpg)
 Abb.: तब्लाः
 (Bildquelle: [Details](/licenses#uebung095))

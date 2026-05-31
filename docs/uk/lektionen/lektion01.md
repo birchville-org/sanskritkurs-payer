@@ -2,40 +2,41 @@
 title: Урок 1
 subtitle: "Звуки санскриту"
 lesson_id: 1
-category: "Грамматика"
+category: "Граматика"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 1
+# Урок 1
+
 
 ::: center
 गणेशपूजनम्
 gaṇeśapūjanam
-Verehrung des Gaṇeśa <!-- TODO: Fallback translation -->
+Шанування Ґанеші
 :::
 
 ::: media
 ![](/images/lekt0102.jpg)
-Abb.: Gaṇeśa, Adamspeak, Sri Lanka
-(Bildquelle: [Details](/licenses#lekt0102)) <!-- TODO: Fallback translation -->
+Мал.: Ґанеша, Адамспік, Шрі-Ланка
+(Джерело зображення: [Деталі](/uk/licenses#lekt0102))
 :::
 
 ::: center
 लम्बोदर नमस् तुभ्यं
 सततं मोदकप्रिय |
 निर्विघ्नं कुरु मे देव
-सर्वकार्येषु सर्वदा | <!-- TODO: Fallback translation -->
+सर्वकार्येषु सर्वदा |
 
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
 nirvighnaṃ kuru me deva
-sarvakāryeṣu sarvadā |** <!-- TODO: Fallback translation -->
+sarvakāryeṣu sarvadā |**
 
-Du Hängebauch, Du Naschkatze,
-Stets sei Dir Verehrung!
-Gott, mache all meine Unternehmungen
-Frei von Hindernissen! <!-- TODO: Fallback translation -->
+О, з великим черевом, о, ласунчику,
+Нехай завжди буде шанування!
+Боже, зроби всі мої справи
+Вільними від перешкод!
 :::
 
 ---
@@ -43,109 +44,109 @@ Frei von Hindernissen! <!-- TODO: Fallback translation -->
 ::: center
 मङ्गलचरणम्
 maṅgalacaraṇam
-"Glückbringender Anfang" <!-- TODO: Fallback translation -->
+"Щасливий початок"
 :::
 
 ::: media
 ![](/images/lekt0101.jpg)
-Abb.: Ardhanarīśvara
-(Bildquelle: [Details](/licenses#lekt0101)) <!-- TODO: Fallback translation -->
+Мал.: Ардханарішвара
+(Джерело зображення: [Деталі](/uk/licenses#lekt0101))
 :::
 
 ::: center
 वागर्थाविव संपृक्तौ
 वागर्थप्रतिपत्तये |
 जगतः पितरौ वन्दे
-पार्वतीपरमेश्वरौ | <!-- TODO: Fallback translation -->
+पार्वतीपरमेश्वरौ |
 
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
 jagataḥ pitarau vande
-pārvatīparameśvarau |** <!-- TODO: Fallback translation -->
+pārvatīparameśvarau |**
 
-(Kālidāsa: Raghuvaṃśa 1.1) <!-- TODO: Fallback translation -->
+(Калідаса: Раґхувамша 1.1)
 
-Ich grüße die Eltern der Welt,
-Pārvatī und Śiva,
-Die so fest miteinander verbunden sind
-Wie Wort und Sinn zum Verständnis
-Des Wortsinns. <!-- TODO: Fallback translation -->
+Склоняюся перед батьками світу,
+Парваті та Шівою,
+Які так міцно пов'язані між собою,
+Як слово і зміст для розуміння
+Сенсу слова.
 :::
 
 ---
 
-Zu Beginn ein Kuriosum: <!-- TODO: Fallback translation -->
+Спочатку дивність:
 
 ::: note-box
-"Als William Jones [1746–1794] und Henry Thomas Colebrooke (1765—1857) das Sanskrit erstmalig gründlich studiert, teilweise übersetzt und gefunden hatten, dass es eine reiche Literatur und nicht geringe Verwandtschaft mit den klassischen Sprachen aufwies, stießen sie auf nicht geringen Widerstand. Da sich mit dieser innigen Beziehung des Sanskrits zu den geographisch so weit entlegenen europäischen Sprachen die alten Anschauungen, welche entweder alle Sprachen aus dem Hebräischen ableiteten oder größtenteils von einander isolierten, nicht in Einklang bringen lassen, so ergriff der berühmte Philologe Dugald Steward (1753—1828) den einfachsten Ausweg, indem er die ganze Geschichte mit der Sanskritsprache für eine Lüge erklärte. Er schrieb einen Essay, in dem er zu beweisen suchte, dass sie von den spitzbübischen Brahmanen nach dem Muster des Griechischen und Lateinischen zusammengeschmiedet sei und die Sprache sowohl als auch die Literatur eine Fälschung seien. Diese Ansicht entwickelte noch im Jahre 1840 der Professor in Dublin, Charles William Wall, weitläufig (Göttingische gelehrte Anzeigen 1842 S. 1888)." <!-- TODO: Fallback translation -->
+"Коли Вільям Джонс [1746–1794] та Генрі Томас Колбрук (1765—1857) вперше ретельно вивчали санскрит, частково перекладали його і виявили, що він має багату літературу та не малу спорідненість із класичними мовами, вони зіткнулися з серйозним опором. Оскільки ця тісна спорідненість санскриту з географічно так далеко віддаленими європейськими мовами не могла узгоджуватися зі старими поглядами, які або виводили всі мови з івриту, або вважали їх більшою мірою ізольованими одна від одної, відомий філолог Дугалд Стюарт (1753—1828) обрав найпростіший вихід, оголосивши всю історію мови санскрит брехнею. Він написав есе, намагаючись довести, що вона була змайстрована брехливими браманами за зразком грецької та латинської мов, і що як мова, так і література є підробкою. Цю точку зору ще в 1840 році широко розвинув професор у Дубліні Чарльз Вільям Волл (Геттінгенські вчені відомості 1842, с. 1888)."
 :::
 
-> [Quelle: **Kemmerich**, Max &lt;1876-1932&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+> [Джерело: **Кеммеріх**, Макс &lt;1876-1932&gt;: Культурні дивності. -- Мюнхен : Ланген. -- Т. 2. -- 1923. -- С. 74. -- Онлайн: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Доступ отримано 2010-01-10]
 
-## 1.1. Literatur für Anfänger in Indologie
+## 1.1. Література для початківців з індології
 
 ::: media
 ![](/images/lekt0103.jpg)
 Рис.: Обкладинка книжкового видання
-(Джерело зображення: [Деталі](/licenses#lekt0103))
+(Джерело зображення: [Деталі](/uk/licenses#lekt0103))
 :::
 
-> **Башам**, А. Л. (Артур Льюеллін) &lt;1914-1986&gt; _The wonder that was India_ Частина: Огляд культури індійського субконтиненту до приходу мусульман. -- Лондон : Sidgwick & Jackson, 1954. -- Відтоді випущено багато видань, включаючи книжкові. -- **Обов’язкова література.** Гарний огляд життя, історії та культури доісламської Індії. Загальний огляд різних галузей класичної індології.
+> **Башам**, А. Л. (Артур Льюеллін) &lt;1914-1986&gt; _The wonder that was India_ Частина: Огляд культури індійського субконтиненту до приходу мусульман. -- Лондон : Sidgwick & Jackson, 1954. -- З тих пір багато видань, також книжкові видання. -- **Обов'язкова література.** Гарний огляд життя, історії та культури доісламської Індії. Загальний огляд різних галузей класичної індології.
 
 ::: media
 ![](/images/lekt0104.jpg)
 Рис.: Титульна сторінка
-(Джерело зображення: [Деталі](/licenses#lekt0104))
+(Джерело зображення: [Деталі](/uk/licenses#lekt0104))
 :::
 
 **Найкраща систематична граматика**
 
-> **Кільгорн**, Франц &lt;1840-1908&gt;: Граматика санскритської мови / Переклад з англійської мови В. Зольф [1862 - 1936]. -- Берлін : Dümmler, 1888. -- XIII, 238 с. -- Оригінальна назва: A grammar of the Sanscrit language
+> **Кільгорн**, Франц &lt;1840-1908&gt;: Граматика санскритської мови / Переклад з англійської мови В. Зольф [1862 - 1936]. -- Берлін : Дюмлер, 1888. -- XIII, 238 с. -- Оригінальна назва: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.jpg)
-Рис.: Назва на обкладинці
-(Джерело зображення: [Деталі](/licenses#lekt0105))
+Рис.: Титульна обкладинка
+(Джерело зображення: [Деталі](/uk/licenses#lekt0105))
 :::
 
-**Гарна систематична граматика, що базується на працях місцевих граматиків, а водночас є вступом до Пāніні:**
+**Гарна систематична граматика на основі місцевої граматичної традиції та водночас вступ до Пāніні:**
 
-> **Куннаппаллі, Джон:** Prakriyā bhāshyam : Граматика санскриту / Спочатку написано малайялам. Перекладено англійською мовою К.В.Р. Пай. -- Паратhode : Самвидавництво, 1983. -- 818 с. ; 23 см.
+> **Куннаппаллі, Джон:** Prakriyā bhāshyam : Граматика санскриту / Спочатку написано мовою малаялам. Перекладено англійською мовою К.В.Р. Пай. -- Паратhode : Власне видання, 1983. -- 818 с. ; 23 см.
 
 ::: media
 ![](/images/lekt0107.jpg)
-Рис.: Назва на обкладинці
-(Джерело зображення: [Деталі](/licenses#lekt0107))
+Рис.: Обкладинка книжкового видання
+(Джерело зображення: [Деталі](/uk/licenses#lekt0107))
 :::
 
-Гарний, стислий виклад європейської термінології мовознавства можна знайти в:
+Гарний, стислий виклад європейської лінгвістичної термінології можна знайти в:
 
-> **Етимологічний словник німецької мови** / [Фрідріх] Клюге &lt;1856 - 1926&gt;. Підгот. Ельмар Зеебольд. -- 24., перегл. і доп. вид.. -- Берлін [та ін.] : de Gruyter, 2002. - LXXXIX, 1023 с. : 24 см. -- ISBN 3-11-017473-1 Тверда обкладинка. -- С. XIII - XLVII.
+> **Етимологічний словник німецької мови** / [Фрідріх] Клюге &lt;1856 - 1926&gt;. Підгот. Ельмар Зеебольд. -- 24., перегл. і доп. вид.. -- Берлін [та ін.] : de Gruyter, 2002. - LXXXIX, 1023 с. : 24 см. -- ISBN 3-11-017473-1 М'яка обкладинка. -- С. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)
-Рис.: Назва на обкладинці
-(Джерело зображення: [Деталі](/licenses#lekt0108))
+Рис.: Титульна обкладинка
+(Джерело зображення: [Деталі](/uk/licenses#lekt0108))
 :::
 
 Для допитливих довідкове видання:
 
-> **Лексикон мовознавства** / Під ред. Хадумод Бусман. -- 4., перегл. і бібліогр. доп. вид. / за сприяння Гартмута Лауфера. -- Штутгарт : Kröner, 2008. -- 816 с. ; 22 см. -- ISBN 978-3-520-45204-7
+> **Словник мовознавства** / Під ред. Хадумод Буссман. -- 4., перегл. і бібліогр. доп. вид. / за участю Гартмута Лауфера. -- Штутгарт : Kröner, 2008. -- 816 с. ; 22 см. -- ISBN 978-3-520-45204-7
 
 ---
 
-## 1.2. Die Laute des Sanskrit
+## 1.2. Голоси санскриту
 
-Звуки санскриту згідно з традиційною індійською класифікацією та їх наукова транскрипція.
+Голоси санскриту згідно з традиційною індійською класифікацією та їх наукова транскрипція.
 
 ::: media
 ![](/images/lekt0106.jpg)
-(Джерело зображення: [Деталі](/licenses#lekt0106))
+(Джерело зображення: [Деталі](/uk/licenses#lekt0106))
 :::
 
-Сучасні словники санскриту впорядковані згідно з цією класифікацією. Ця класифікація та порядок звуків є необхідними для розуміння граматики санскриту, тому їх необхідно знати напам’ять:
+Сучасні словники санскриту впорядковані згідно з цією класифікацією. Ця класифікація та порядок голосних є необхідними для розуміння граматики санскриту, тому їх необхідно знати напам’ять:
 
-::: tip Klassifikation
+::: tip Класифікація
 
 - **прості голосні** (samānākṣara -- समानाक्षर):
   अ a, आ ā, इ i, ई ī, उ u, ऊ ū, ऋ ṛ, ॠ ṝ, ऌ ḷ
@@ -162,23 +163,23 @@ Zu Beginn ein Kuriosum: <!-- TODO: Fallback translation -->
   ह ha
 :::
 
-### 1.2.1. Zur Aussprache einzelner Laute
+### 1.2.1. Про вимову окремих звуків
 
 ::: laut-table
-| Laut | Beschreibung |
+| Звук | Опис |
 | :--- | :--- |
-| **a - अ** | "kurzes a" wird bei den Indern -- schon seit alter Zeit -- oft wie ə ausgesprochen. In Europa spricht man es als kurzes a, in Bengalen als kurzes dunkles o. |
-| **ṛ - ऋ** | wie böhmisches vokalisiertes r. Leichter Nachklang von i. |
-| **ṝ - ॠ** | wie böhmisches vokalisiertes r. Leichter Nachklang von u. |
-| **jñ - ज्ञ्** | auch wie dny (Marāṭhī) oder gy (Nordindisch). |
-| **ś - श्** | sch-Laut mit nach unten gebogener Zungenspitze. Ähnlich wie sch in "mischen". |
-| **ṣ - ष्** | ach-Laut mit zurückgebogener Zungenspitze. Öfters so weit hinten im Rachen artikuliert, dass es fast wie kh klingt. |
-| **h - ह्** | Hauchlaut, nie Dehnungszeichen. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu | <!-- TODO: Fallback translation -->
-| **ṃ** | **Anusvara** -- अनुस्वर. Vor Zischlauten, h, l: Nasalierung des Vokals. Im Auslaut = m. Im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- संधि = sandhi -- सन्धि | <!-- TODO: Fallback translation -->
+| **a - अ** | "коротке a" індійці -- вже з давніх часів -- часто вимовляють як ə. В Європі його вимовляють як коротке a, в Бенгалії -- як коротке темне o. |
+| **ṛ - ऋ** | як чеське вокалізоване r. Легкий відлуння i. |
+| **ṝ - ॠ** | як чеське вокалізоване r. Легкий відлуння u. |
+| **jñ - ज्ञ्** | також як dny (маратхі) або gy (північноіндійський). |
+| **ś - श्** | звук sch з кінчиком язика, спрямованим вниз. Подібно до sch у слові "мішати". |
+| **ṣ - ष्** | звук ach з кінчиком язика, загнутим назад. Частіше артикулюється так далеко в горлі, що звучить майже як kh. |
+| **h - ह्** | глухий звук, ніколи знак подовження. |
+| **ḥ - :** | **Вісarga (Вісарджанія)** -- विसर्ग / विसर्जनीय. Глухий звук з відлунням попереднього голосного або другої частини попереднього дифтонга: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
+| **ṃ** | **Анусвара** -- अनुस्वर. Перед шиплячими, h, l: назалізація голосного. В кінці слова = m. В середині слова перед приголосними: назальний, що відповідає наступному приголосному: saṃdhi -- संधि = sandhi -- सन्धि |
 :::
 
-Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest. <!-- TODO: Fallback translation -->
+Найкращої вимови можна досягти, якщо читати речення, вірші або слова досить повільно і монотонно, точно дотримуючись довжини голосних.
 
 ---
 
@@ -197,4 +198,4 @@ Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter zieml
 9. pitṝn — पितॄन्
 10. saṃskṛta — संस्कृत
 
-**Б) Прочитайте санскритські вирази згідно з наведеною вище класифікацією звуків.**
+**Б) Прочитайте санскритські вирази згідно з наведеною класифікацією звуків.**

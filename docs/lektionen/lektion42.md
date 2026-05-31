@@ -1,6 +1,10 @@
 ---
+title: Lektion 42
+subtitle: "Stämme auf -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 42
@@ -24,7 +28,7 @@ Den Großteil der hierhergehörigen Nomina bilden Nomina agentis auf das कृ�
     *   **vor Vokal: -r**
     *   **vor Konsonant: -ṛ**
 
-Beachten Sie die unregelmäßigen Bildungen (durch rot gekennzeichnet)!
+Beachten Sie die unregelmäßigen Bildungen (durch ***rot*** gekennzeichnet)!
 :::
 
 Maskulinum:
@@ -165,7 +169,7 @@ PPP अवस्थित 3: dastehend, befindlich
 
 दूत m.: Bote, Gesandter
 
-इष् (1,4,9) Kaus. ***इष्***यति : senden
+इष् (1,4,9) Kaus. ***इष***यति : senden
 
 सकाश m.: Anwesenheit, Gegenwart
 
@@ -320,7 +324,7 @@ Abb.: अर्जुनो रथे सीदति । कृष्णो ऽ
 
 तां तस्य प्रतिज्ञां श्रुत्वा ***शतशो*** राजकुमाराः समाजग्मुः । परं नैको ऽपि तेषां तद्धनुश्चलयितुमपि शशाक । ***लङ्का***धिपती ***रावणो*** ऽपि साटोपं समेत्य सलज्जं प्रतिनिवृत्त इति ज्ञायते ॥
 
-सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे ***ऽयोध्या***धिपते***र्दशरथस्य*** पुत्रः श्री***रामः*** स***लक्ष्मणो*** ***विश्वामित्रेण*** तत्रानीयत । श्री***रामो*** महर्षेर्***विश्वामित्र***स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥
+सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे ***ऽयोध्या***धिपते***र्दशरथस्य*** पुत्रः श्री***रामः*** ***सलक्ष्मणो*** ***विश्वामित्रेण*** तत्रानीयत । श्री***रामो*** महर्षेर्***विश्वामित्र***स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥
 
 ::: media
 ![lekt4208.jpg](/images/lekt4208.jpg)
@@ -334,7 +338,7 @@ Abb.: धनुर्द्वेधा भग्नं बभूव
 
 (संस्कृतप्रथमादर्शे)
 
-Erklärung der rot hervorgehobenen Ausdrücke:
+Erklärung der ***rot*** hervorgehobenen Ausdrücke:
 
 सीता f. Eigenname: Tochter des Königs जनक von विदेह. Sie war aus der Erde herausgekommen, als der König einst den Acker pflügte, deshalb ihr Name: सीता f. "Ackerfurche"
 
@@ -383,7 +387,6 @@ Abb.: रावणः
 सीतारामयोस् Gen.Lok.Dual zu सीताराम
 
 ::: deleteme-box
-### Quellen
 
 * **Abb. lekt4201**: अयं बोधयिता. (Bildquelle: Wikipedia. Public domain)
 * **Abb. lekt4202**: माता, पिता, पुत्रकः. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Bildquelle: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike))

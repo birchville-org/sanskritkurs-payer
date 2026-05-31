@@ -1,8 +1,15 @@
+---
+title: Урок 60
+subtitle: "Окончания на перфекта за двойка (द्विवचनम्)"
+lesson_id: 60
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 60
 
-# Lektion 60
-
-## 60.1. Die Perfektendungen des Двойствено число (द्विवचनम्)
+## 60.1. Окончанията на перфекта за двойствено число (द्विवचनम्)
 
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
@@ -10,107 +17,107 @@
 | 2\. मध्यमः | \-athur | \-āthe |
 | 3\. प्रथमः | \-atur | \-āte |
 
-## 60.2. Der Двойствено число des reduplizierten Perfekt (द्वित्वलिट्)
+## 60.2. Двойствено число на червеното перфектно време (द्वित्वलिट्)
 
-### 60.2.1. Typ 1: keine Основаabstufung
+### 60.2.1. Тип 1: липсва степенуване на корена
 
-बन्ध् 9P "binden" <!-- TODO: Fallback translation -->
-
-::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | बबन्धिव | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | बबन्धथुर् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | बबन्धतुर् | <!-- TODO: Fallback translation -->
-:::
-
-भाष् 1Ā "sprechen" <!-- TODO: Fallback translation -->
+बन्ध् 9P „свързвам“
 
 ::: grammar-box
-|   | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | बभाषिवहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | बभाषाथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | बभाषाते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | बबन्धिव |
+| 2\. मध्यमः | बबन्धथुर् |
+| 3\. प्रथमः | बबन्धतुर् |
 :::
 
-### 60.2.2. Typ 2: starker Основа Hochstufe, schwacher Основа Tiefstufe
-
-भिद् 7U "spalten" <!-- TODO: Fallback translation -->
+भाष् 1Ā „говоря“
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | बिभिदिव | बिभिदिवहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | बिभिदथुर् | बिभिदाथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | बिभिदतुर् | बिभिदाते | <!-- TODO: Fallback translation -->
+|   | आत्मनेपदम् |
+| --- | --- |
+| 1\. तृतीयः | बभाषिवहे |
+| 2\. मध्यमः | बभाषाथे |
+| 3\. प्रथमः | बभाषाते |
 :::
 
-### 60.2.3. Typ 3: Starker Основа Hochstufe/Dehnstufe
+### 60.2.2. Тип 2: силна основа в висока степен, слаба основа в ниска степен
 
-#### 60.2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
-
-नी 1U "führen" <!-- TODO: Fallback translation -->
+भिद् 7U "разделям"
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | निन्यिव | निन्यिवहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | निन्यथुर् | निन्याथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | निन्यतुर् | निन्याते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | बिभिदिव | बिभिदिवहे |
+| 2\. मध्यमः | बिभिदथुर् | बिभिदाथे |
+| 3\. प्रथमः | बिभिदतुर् | बिभिदाते |
 :::
 
-स्तु 2U (अनिट्) "loben" <!-- TODO: Fallback translation -->
+### 60.2.3. Тип 3: Силно основа висока степен/удължена степен
+
+#### 60.2.3.1. Тип 3a: Силно основа висока степен/удължена степен, слабо основа ниска степен
+
+नी 1U „воден“
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | तुष्टुव | तुष्तुवहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | तुष्टुवथुर् | तुष्टुवाथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | तुष्टुवतुर् | तुष्टुवाते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | निन्यिव | निन्यिवहे |
+| 2\. मध्यमः | निन्यथुर् | निन्याथे |
+| 3\. प्रथमः | निन्यतुर् | निन्याते |
 :::
 
-कृ 8U (अनिट्) "tun, machen" <!-- TODO: Fallback translation -->
+स्तु 2U (अनिट्) „хвал“
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | चकृव | चकृवहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | चक्रथुर् | चक्राथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | चक्रतुर् | चक्राते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तुष्टुव | तुष्तुवहे |
+| 2\. मध्यमः | तुष्टुवथुर् | तुष्टुवाथे |
+| 3\. प्रथमः | तुष्टुवतुर् | तुष्टुवाते |
 :::
 
-#### 60.2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
-
-स्मृ 1P "vergegenwärtigen" <!-- TODO: Fallback translation -->
+कृ 8U (अनिट्) „правя, извършвам“
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | सस्मरिव | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | सस्मरथुर् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | सस्मरतुर् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | चकृव | चकृवहे |
+| 2\. मध्यमः | चक्रथुर् | चक्राथे |
+| 3\. प्रथमः | चक्रतुर् | चक्राते |
 :::
 
-### 60.2.4. Typ 4: Коренn auf -ā / -ai
+#### 60.2.3.2. Тип 3b: Силно основа висока степен/удължена степен, слабо основа висока степен
 
-दा 3U "geben" <!-- TODO: Fallback translation -->
+स्मृ 1P „представям“
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | ददिव | ददिवहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | ददथुर् | ददाथे \* | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | ददतुर् | ददाते \* | <!-- TODO: Fallback translation -->
-
-\* identisch mit den entsprechenden Formen des Indikativ Präsens! <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | सस्मरिव |
+| 2\. मध्यमः | सस्मरथुर् |
+| 3\. प्रथमः | सस्मरतुर् |
 :::
 
-### 60.2.5. Typ 5: Konsonant-a-Konsonant
+### 60.2.4. Тип 4: Корени на -ā / -ai
 
-#### 60.2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe &lt;!-- TODO: Fallback translation --&gt;
+दा 3U "давам"
 
-गम् 1U "gehen" &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | ददिव | ददिवहे |
+| 2\. मध्यमः | ददथुर् | ददाथे \* |
+| 3\. प्रथमः | ददतुर् | ददाते \* |
+
+\* идентични с съответните форми на Указателно наклонение, сегашно време!
+:::
+
+### 60.2.5. Тип 5: Съгласна-a-Съгласна
+
+#### 60.2.5.1. Тип 5a: Съгласна-a-Съгласна, слаб корен, ниска степен
+
+गम् 1U „отивам“
 
 ::: grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
@@ -120,9 +127,9 @@
 | 3\. प्रथमः | जग्मतुर् | जग्माते |
 :::
 
-#### 60.2.5.2. Typ 5b: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e- &lt;!-- TODO: Fallback translation --&gt;
+#### 60.2.5.2. Тип 5b: Съгласна-a-Съгласна, начална съгласна не е кинтална, аспирата, h, слаб корен без редупликация, с -e-
 
-पच् 1U "garen" &lt;!-- TODO: Fallback translation --&gt;
+पच् 1U „варя“
 
 ::: grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
@@ -132,9 +139,9 @@
 | 3\. प्रथमः | पेचतुर् | पेचाते |
 :::
 
-#### 60.2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe &lt;!-- TODO: Fallback translation --&gt;
+#### 60.2.5.3. Тип 5c: Съгласна-a-Съгласна, слаб корен, висока степен
 
-क्रम् 1U "schreiten" &lt;!-- TODO: Fallback translation --&gt;
+क्रम् 1U „стъпвам“
 
 ::: grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
@@ -144,407 +151,416 @@
 | 3\. प्रथमः | चक्रमतुर् | चक्रमाते |
 :::
 
-## 60.3. Der Двойствено число des periphrastischen Perfekt (अनुप्रयोगलिट्)
+## 60.3. Двойствено число на перифрастичното перфектно време (अनुप्रयोगलिट्)
 
-गण् 10P "zählen" &lt;!-- TODO: Fallback translation --&gt;
-
-::: grammar-box
-|   | परस्मैपदम् |
-| --- | --- |
-| 1\. तृतीयः | गणयां चकृव |
-गणयामासिव
-| गणयां बभूविव | |
-| 2\. मध्यमः | गणयां चक्रथुर् |
-गणयामासथुर्
-| गणयां बभूवथुर् | |
-| 3\. प्रथमः | गणयां चक्रतुर् |
-गणयामासतुर्
-| गणयां बभूवतुर् |
-:::
-
-आस् 2Ā "sitzen" &lt;!-- TODO: Fallback translation --&gt;
+गण् 10P "брой"
 
 ::: grammar-box
-|   | आत्मनेपदम् |
+|   | **परस्मैपदम्** |
 | --- | --- |
-| 1\. तृतीयः | आसां चकृवहे |
-आसामासिव
-| आसां बभूविवव् | |
-| 2\. मध्यमः | आसांव् चक्राथे |
-आसामासथुर्
-| आसां बभूवथुर् | |
-| 3\. प्रथमः | आसां चक्राते |
-आसामासतुर्
-| आसां बभूवतुर्व् |
+| 1\. तृतीयः | गणयां चकृव[[br]]गणयामासिव[[br]]गणयां बभूविव |
+| 2\. मध्यमः | गणयां चक्रथुर्[[br]]गणयामासथुर्[[br]]गणयां बभूवथुर् |
+| 3\. प्रथमः | गणयां चक्रतुर्[[br]]गणयामासतुर्[[br]]गणयां बभूवतुर् |
 :::
 
-## 60.4. Das Partizip परस्मैपद des reduplizierten Perfekt (द्वित्वलिट्)
-
-::: indent
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
-
-&lt;!-- TODO: Fallback translation --&gt;
-
-schwacher Perfektstamm + vāṃs &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-&lt;!-- TODO: Fallback translation --&gt;
+आस् 2Ā "седя"
 
 ::: grammar-box
-| भिद् 7U | बिभिद्वांस् "jemand, der gespalten hat" |
+|   | **आत्मनेपदम्** |
 | --- | --- |
-| अस् 2P; 4P | आसिवांस् "jemand, der gewesen ist" ; "jemand, der geworfen hat" |
-| दा 3U | ददिवांस् (da-d-i-vāṃs) "jemand, der gegeben hat" |
-| पच् 1U | पेचिवांस् "jemand, der gegart hat" |
-| गम् 1U | जग्मिवांस् / जगन्वांस् "jemand, der gegangen ist" |
+| 1\. तृतीयः | आसां चकृवहे[[br]]आसामासिव[[br]]आसां बभूविवव् |
+| 2\. मध्यमः | आसांव् चक्राथे[[br]]आसामासथुर्[[br]]आसां बभूवथुर् |
+| 3\. प्रथमः | आसां चक्राते[[br]]आसामासतुर्[[br]]आसां बभूवतुर्व् |
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+## 60.4. Причастие परस्मैपद от черпалното перфектно време (द्वित्वलिट्)
 
-*   | --- | --- | &lt;!-- TODO: Fallback translation --&gt;
-*   Deklination: &lt;!-- TODO: Fallback translation --&gt;
-    *   starker Основа: -vāṃs &lt;!-- TODO: Fallback translation --&gt;
-    *   schwacher Основа: &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Образуване:**
 
-vor Konsonant: \-vat (!) &lt;!-- TODO: Fallback translation --&gt;
+**слаб перфектен корен + vāṃs**
 
-vor Vokal: -uṣ &lt;!-- TODO: Fallback translation --&gt;
+**Ако слабият перфектен корен се състои само от една сричка, се добавя свързващ гласен -i-. При някои перфектни форми свързващият гласен е по избор.**
+:::
 
-schwacher Stamm vor Vokal + -ī (wie देवी dekliniert) &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-Beispiel: विदुषी "eine Wissende" &lt;!-- TODO: Fallback translation --&gt;
+| भिद् 7U | बिभिद्वांस् "онзи, който е разделил" |
+| --- | --- |
+| अस् 2P; 4P | आसिवांस् "онзи, който е бил" ; "онзи, който е хвърлил" |
+| दा 3U | ददिवांस् (da-d-i-vāṃs) "онзи, който е дал" |
+| पच् 1U | पेचिवांस् "онзи, който е варил" |
+| गम् 1U | जग्मिवांस् / जगन्वांस् "онзи, който е отишъл" |
 
-Vor uṣ entfällt der Bindevokal -i-. &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Склонение:**
+
+*   **силен корен: -vāṃs**
+*   **слаб корен:**
+    *   **пред съгласна:** ***-vat*** **(!)**
+    *   **пред гласна: -uṣ**
+
+**Пред uṣ свързващият гласен -i- отпада.**
+
+**Женски род:**
+
+**слаб корен пред гласна + -ī (склонява се като देवी)**
+
+Пример: विदुषी "знаеща жена"
+:::
+
+
+Параметри вижте Kielhorn, Граматика § 124:
 
 ::: media
-![]/images/lekt6001.jpg
-(Bildquelle: [Details](/licenses#lekt6001)) <!-- TODO: Fallback translation -->
+![](/images/lekt6001.jpg)
+(Източник на изображението: [Подробности](/bg/licenses#lekt6001))
 :::
 ::: media
-![]/images/lekt6002.jpg
-(Bildquelle: [Details](/licenses#lekt6002)) <!-- TODO: Fallback translation -->
+![](/images/lekt6002.jpg)
+(Източник на изображението: [Подробности](/bg/licenses#lekt6002))
 :::
 
-## 60.5. Deklination der Stämme auf -añc (-ac)
+## 60.5. Склонение на корените на -añc (-ac)
 
-Die Stämme auf -añc/-ac sind Verbindungen von Präverbien usw. mit dem Wurzelnomen der Wurzel अञ्च् / अच् 1U "sich bewegen". &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Корените на -añc/-ac са съединения на предлози и т.н. с кореновото име на корена अञ्च् / अच् 1U "да се движи".**
+:::
 
-### 60.5.1. Dreistämmige Stämme auf -añc
+### 60.5.1. Триоснови племена на -añc
 
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Образуване:**
 
-*   starker Основа: -añc &lt;!-- TODO: Fallback translation --&gt;
-*   schwacher Основа: &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Konsonant: -ac &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Vokal: &lt;!-- TODO: Fallback translation --&gt;
-        *   das -a- des schwachen Основаs -ac entfällt und für einen vorangehenden Halbvokal wird der diesem entsprechende lange Vokal substituiert:   &lt;!-- TODO: Fallback translation --&gt;
+*   **силен корен: -añc**
+*   **слаб корен:**
+    *   **пред съгласна: -ac**
+    *   **пред гласна:**
+        *   **-a- на слабия корен -ac отпада и вместо предходния полугласен се замества с дългия съответстващ гласен:**  
             प्रत्यच् » प्रतीच्  
             अन्वच् » अनूच्
-        *   Geht dem -ac kein Halbvokal voraus, wird -ac durch -īc ersetzt:   &lt;!-- TODO: Fallback translation --&gt;
+        *   **Ако пред -ac няма предходен полугласен, -ac се заменя с -īc:**  
             उदच् » उदीच्
         *   तिर्यञ्च् » तिरश्
 
-Femininum: &lt;!-- TODO: Fallback translation --&gt;
+**Женски род:**
 
-schwacher Stamm vor Vokal + -ī (wie देवी dekliniert) &lt;!-- TODO: Fallback translation --&gt;
+**слаб корен пред гласна + -ī (декланира се като देवी)**
 
-Beispiel: प्रतीची &lt;!-- TODO: Fallback translation --&gt;
+Пример: प्रतीची
+:::
 
-####  Paradigmen siehe Kielhorn, Grammatik § 128: &lt;!-- TODO: Fallback translation --&gt;
+####  Парадигми вижте Киелхорн, Граматика § 128:
 
 ::: media
-![]/images/lekt6003.jpg
-Hierher gehören: &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt6003.jpg)
+(Източник на изображението: [Подробности](/bg/licenses#lekt6003))
 :::
 ::: media
-![]/images/lekt6004.jpg
-(Bildquelle: [Details](/licenses#lekt6004)) <!-- TODO: Fallback translation -->
+![](/images/lekt6004.jpg)
+(Източник на изображението: [Подробности](/bg/licenses#lekt6004))
 :::
-Hierher gehören: <!-- TODO: Fallback translation -->
+Тук принадлежат:
 
-*   प्रत्यञ्च् 3 "rückwärts, westlich" &lt;!-- TODO: Fallback translation --&gt;
+*   प्रत्यञ्च् 3 „назад, западно“
+    
+*   अन्वञ्च् 3 „следващ“
+    
+*   उदञ्च् 3 „насочен нагоре, северно“
+    
+*   तिर्यञ्च् 3 „движещ се хоризонтално (на животни“
+    
+*   सम्यञ्च् 3 „правилно“
+    
+*   न्यञ्च् 3 „нисък“
+    
+*   विष्वञ्च् 3 „движещ се във всички посоки“
 
-*   अन्वञ्च् 3 "folgend" &lt;!-- TODO: Fallback translation --&gt;
-
-*   उदञ्च् 3 "nach oben gerichtet, nördlich" &lt;!-- TODO: Fallback translation --&gt;
-
-*   तिर्यञ्च् 3 "wagrecht gehend (von Tieren" &lt;!-- TODO: Fallback translation --&gt;
-
-*   सम्यञ्च् 3 "richtig" &lt;!-- TODO: Fallback translation --&gt;
-
-*   न्यञ्च् 3 "niedrig" &lt;!-- TODO: Fallback translation --&gt;
-
-*   विष्वञ्च् 3 "nach allen Seiten gehend" &lt;!-- TODO: Fallback translation --&gt;
-
-### 60.5.2. Zweistämmige Stämme auf -añc
-
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
-
-*   starker Основа: -añc &lt;!-- TODO: Fallback translation --&gt;
-*   schwacher Основа vor Konsonant bzw. Vokal: -ac &lt;!-- TODO: Fallback translation --&gt;
-
-Hierher gehören: &lt;!-- TODO: Fallback translation --&gt;
-
-*   प्राञ्च् 3 "vorwärts gerichtet, östlich" &lt;!-- TODO: Fallback translation --&gt;
-*   अवाञ्च् 3 "abwärts gerichtet" &lt;!-- TODO: Fallback translation --&gt;
-
-Paradigma प्राञ्च् siehe oben! &lt;!-- TODO: Fallback translation --&gt;
-
-|   | उदञ्च् 3 
-"nach oben gerichtet,  
-nördlich" |   | | | &lt;!-- TODO: Fallback translation --&gt;
-| --- | --- | --- | Die Haupthimmelsrichtungen &lt;!-- TODO: Fallback translation --&gt; 
-| प्रत्यञ्च् 3 | | |
-"rückwärts,  
-westlich" | ![](/images/lekt6005.jpg) | प्राञ्च् 3  
-"vorwärts gerichtet,  
-östlich" | | &lt;!-- TODO: Fallback translation --&gt;
-|   | दक्षिण 3 
-rechts,  
-südlich |   | &lt;!-- TODO: Fallback translation --&gt;
-
-\[Bildquelle: paul adrian. -- [http://www.flickr.com/photos/81189455@N00/114519366/](http://www.flickr.com/photos/81189455@N00/114519366/). -- Zugriff am 2009-03-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
-
-## 60.6. Das Desiderativum (सन्)
-
-Von jeder Wurzel sowie vom Kausativum kann ein Desiderativum (सन्) gebildet werden. Das Desiderativum kann in allen Zeiten und Modi des P, Ā und Passiv konjugiert werde. Desiderativformen außerhalb des Präsensstamms sind aber sehr selten. &lt;!-- TODO: Fallback translation --&gt;
-
-Bedeutung: &lt;!-- TODO: Fallback translation --&gt;
-
-*   eine Person oder Sache wünscht zu tun oder zu erleiden, was durch die Корен oder das Kausativum ausgedrückt wird &lt;!-- TODO: Fallback translation --&gt;
-*   seltener: jemand oder etwas ist im Begriffe, zu tun, was durch die Корен oder das Kausativum ausgedrückt wird &lt;!-- TODO: Fallback translation --&gt;
-
-####  Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+### 60.5.2. Двукоренни племена на -añc
 
 ::: grammar-box
-| कृ 8U | चिकीर्षति "er wünscht zu tun" |
-| --- | --- |
-| पत् 1P | पिपतिषति "er ist im Begriffe, zu fallen" |
-| चुर् 10U | चुचोरयिषति "er wünscht zu stehlen" |
-| बुध् Kaus. | बुबोधयिषति "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
+**Образуване:**
+
+*   **силен корен: -añc**
+*   **слаб корен пред съгласна или гласна: -ac**
 :::
 
-### 60.6.1. Образоване des Desiderativstammes
 
-Von jeder Wurzel sowie vom Kausativum kann ein Desiderativum (सन्) gebildet werden. Das Desiderativum kann in allen Zeiten und Modi des P, Ā und Passiv konjugiert werde. Desiderativformen außerhalb des Präsensstamms sind aber sehr selten. &lt;!-- TODO: Fallback translation --&gt;
+Тук попадат:
 
-Bedeutung: &lt;!-- TODO: Fallback translation --&gt;
+*   प्राञ्च् 3 „насочен напред, източен“
+*   अवाञ्च् 3 „насочен надолу“
 
-eine Person oder Sache wünscht zu tun oder zu erleiden, was durch die Корен oder das Kausativum ausgedrückt wird &lt;!-- TODO: Fallback translation --&gt;
+Парадигма प्राञ्च् виж по-горе!
 
-seltener: jemand oder etwas ist im Begriffe, zu tun, was durch die Корен oder das Kausativum ausgedrückt wird &lt;!-- TODO: Fallback translation --&gt;
+Основните светови посоки
 
-####  Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+|   | उदञ्च् 3[[br]]„насочен нагоре,[[br]]северен“ |   |
+| :---: | :---: | :---: |
+| प्रत्यञ्च् 3[[br]]„назад,[[br]]западен“ | ![](/images/lekt6005.jpg) | प्राञ्च् 3[[br]]„насочен напред,[[br]]източен“ |
+|   | दक्षिण 3[[br]]дясно,[[br]]южен |   |
 
+(Източник на изображението: [Подробности](/bg/licenses#lekt6005))
+
+## 60.6. Десидеративът (सन्)
+
+::: grammar-box
+**От всеки корен, както и от каузатива, може да бъде образуван десидератив (सन्). Десидеративът може да се спряга във всички времена и наклонения на P, Ā и страдателен залог. Десидативни форми извън настоящия корен обаче са много редки.**
+
+**Значение:**
+
+*   **лицето или обектът желае да направи или претърпи това, което се изразява от корена или каузатива**
+*   **по-рядко: някой или нещо е в процес на това да направи това, което се изразява от корена или каузатива**
+:::
+
+####  Примери:
+
+| कृ 8U | चिकीर्षति „той желае да направи“ |
 | --- | --- |
+| पत् 1P | पिपतिषति „той е в процес на това да падне“ |
+| चुर् 10U | चुचोरयिषति „той желае да краде“ |
+| बुध् Кауз. | बुबोधयिषति „той желае да учи (да събуди познанието)“ |
 
-| पत् 1P | पिपतिषति "er ist im Begriffe, zu fallen" |
+### 60.6.1. Образуване на темата на десидатива
 
-| बुध् Kaus. | बुबोधयिषति "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
+::: grammar-box
+**Корени на класовете 1 - 9 на настоящето време:**
 
-1.  Die Корен ist meist tiefstufig: जीव् » जिजीविष-   <!-- TODO: Fallback translation -->
+**редуплициран корен + sa**
 
-    1.  auslautendes -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:   <!-- TODO: Fallback translation -->
-        जि » जिगीष- "zu siegen wünschen"  
-        द्रु » दुद्रूष- "zu laufen wünschen"   <!-- TODO: Fallback translation -->
+**или:**
 
-    2.  auslautendes -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:   <!-- TODO: Fallback translation -->
-| कृ 8U | चिकीर्षति "er wünscht zu tun" |
+**редуплициран корен + i + ṣa**
 
-    3.  दा, धा, मा und einige andere Коренn auf -ā, -e, -o haben Tiefstufe Ø:   <!-- TODO: Fallback translation -->
-        दा » दित्स- (di-d + sa)  
+Правилата за използване на свързващия гласен -i- вижте при Киелхорн, Граматика § 443 - 445.
+
+**Корени на 10-ия клас на настоящето време и каузативите:**
+
+**редуплицирана тема на настоящето време + i + ṣa**
+:::
+
+::: grammar-box
+**Форма на корена:**
+
+1.  Коренът е обикновено в слаба степен: जीव् » जिजीविष-  
+     
+    1.  крайното -i, -u се заменя с -ī съответно -ū, ако не следва свързващ гласен:  
+        जि » जि***गी***ष- "да желае да победи"  
+        द्रु » दु***द्रू***ष- "да желае да бяга"  
+         
+    2.  крайното -ṛ, -ṝ се заменя с -īr, след лабиали с -ūr, ако не следва свързващ гласен:  
+        कृ » चि***कीर्ष***\- "да желае да направи"  
+        मृ » मु***मूर्ष***\- "да е в процес на умиране"  
+        पॄ » पु***पूर्ष***\- "да желае да запълни"  
+         
+    3.  दा, धा, मा и някои други корени на -ā, -e, -o имат слаба степен Ø:  
+        दा » दित्स- (di-***d*** + sa)  
         धा » धित्स-  
-        मा » मित्स-   <!-- TODO: Fallback translation -->
+        मा » मित्स-  
+         
+2.  Корени в силна степен имат в десидатива: 
+    1.  повечето корени на -ā (-e, -ai и т.н.):  
+        गै » जिगास- "да желае да пее"  
+        पा » पिपास- "да желае да пие, да жадува"  
+         
+    2.  повечето корени от формата (съгласна -) a / ā - съгласна:  
+        दह् » दिधक्ष- "да желае да изгори"  
+        खाद् » चिखादिष- "да желае да дъвче"  
+         
+    3.  при присъединяване на свързващия гласен -i-: 
+        1.  задължително: корени от формата i/u - съгласна и (съгласна -) ṛ/ḷ - съгласна:  
+            इष् » एषिषिष- "да желае да поиска"  
+            कॢप् » चिकल्पिष- "да желае да бъде подходящ"  
+            स्मि » सि***स्म***यिष- "да желае да се усмихне"  
+             
+        2.  по избор: корени от формата съгласна - (съгласна -) i/u - съгласна, с изключение на -v\_  
+            द्युत् » दिद्योतिष- / दिद्युतिष- "да желае да блесне"
+:::
 
-2.  Hochstufige Корен haben im Desiderativ:  <!-- TODO: Fallback translation -->
-    1.  die meisten Коренn auf -ā (-e, -ai usw.):   <!-- TODO: Fallback translation -->
-        गै » जिगास- "zu singen wünschen"  
-        पा » पिपास- "zu trinken wünschen, dürsten"   <!-- TODO: Fallback translation -->
+::: grammar-box
+**За редупликацията:**
 
-    2.  die meisten Коренn der Form (Konsonant -) a / ā - Konsonant:   <!-- TODO: Fallback translation -->
-        दह् » दिधक्ष- "zu verbrennen wünschen"  
-        खाद् » चिखादिष- "zu kauen wünschen"   <!-- TODO: Fallback translation -->
-
-    3.  bei Antreten des Bindevokals -i-:  <!-- TODO: Fallback translation -->
-        1.  obligatorisch: Коренn der Form i/u - Konsonant sowie (Konsonant -) ṛ/ḷ - Konsonant:   <!-- TODO: Fallback translation -->
-            इष् » एषिषिष- "zu wünschen verlangen"  
-            कॢप् » चिकल्पिष- "passend zu sein wünschen"  
-            स्मि » सिस्मयिष- "zu lächeln wünschen"   <!-- TODO: Fallback translation -->
-
-        2.  wahlweise: Коренn der Form Konsonant - (Konsonant -) i/u - Konsonant außer -v\_   <!-- TODO: Fallback translation -->
-            द्युत् » दिद्योतिष- / दिद्युतिष- "aufzublitzen wünschen" <!-- TODO: Fallback translation -->
-
-Zur Reduplikation: <!-- TODO: Fallback translation -->
-
-1.  Konsonantisch anlautende Коренn: Die Reduplikation erfolgt an den nach obigen Regeln veränderten Коренn nach den üblichen Regeln. Statt a als Reduplikationsvokal erschein aber i:   <!-- TODO: Fallback translation -->
-| चुर् 10U | चुचोरयिषति "er wünscht zu stehlen" |
-
-2.  Vokalisch anlautende Коренn werden nach den entsprechenden Regeln für den reduplizierten Aorist ([Lektion 56](lektion56.md)) redupliziert:   <!-- TODO: Fallback translation -->
+1.  Корени, започващи със съгласна: Редупликацията се извършва върху корените, променени според горните правила, според обичайните правила. Вместо a като редупликативен гласен се появява i:  
+    पा » पिपास-  
+    त्यज् » तित्यज-  
+    चुर् » चुचोरयिष-  
+    Церебрализацията след i/u на крайното -s на корена не се извършва, ако s на десидативния суфикс се церебрализира:  
+    स्मि » सिस्मयिष-  
+     
+2.  Корени, започващи с гласен, се редуплицират според съответните правила за редуплицирания аорист ([Урок 56](lektion56.md)):  
     इष् » एषिषिष- (eṣ-i-ṣ-i-ṣa)  
     ईक्ष » ईचिक्षिष- (ī-c-i-kṣ-i-ṣa)  
-    ऋ » अरिरिष-   <!-- TODO: Fallback translation -->
+    ऋ » अरिरिष-  
+     
+3.  Специалното образуване на десидатива на определени корени вижте при Киелхорн, Граматика § 451.
+:::
 
-3.  Die besondere Desiderativbildung bestimmter Коренn siehe bei Kielhorn, Grammatik § 451. <!-- TODO: Fallback translation -->
+::: grammar-box
+**За някои корени се образуват десидативи без десидативно значение. Към тези десидативи могат да се образуват десидативи с десидативно значение.**
+:::
 
- Zu einigen Wurzeln werden Desiderative ohne desiderative Bedeutung gebildet. Zu diesen Desiderativen können Desiderative mit desiderativer Bedeutung gebildet werden. <!-- TODO: Fallback translation -->
-
-Liste bei Kielhorn, Grammatik § 452: <!-- TODO: Fallback translation -->
+Списък при Киелхорн, Граматика § 452:
 
 ::: media
-![]/images/lekt6006.jpg
-(Bildquelle: [Details](/licenses#lekt6006)) <!-- TODO: Fallback translation -->
+![](/images/lekt6006.jpg)
+(Източник на изображението: [Подробности](/bg/licenses#lekt6006))
 :::
 
-### 60.6.2. Konjugation des Desiderativs (सन्)
+### 60.6.2. Спрягане на желателното наклонение (सन्)
 
-Das Desiderativ ist - mit wenigen Ausnahmen - P, Ā bzw. U, je nachdem, ob die zugrundeliegende Wurzel (bzw. der zugrundeligende Verbalstamm) P, Ā oder U ist. &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+**Желателното наклонение е - с малки изключения - P, Ā или U, в зависимост от това дали основният корен (или глаголният корен) е P, Ā или U.**
 
-Präsensstamm: Konjugation wie ein thematischer Stamm: &lt;!-- TODO: Fallback translation --&gt;
+**Презентен корен: Спрягане като тематичен корен:**
 
-यज् 1U: &lt;!-- TODO: Fallback translation --&gt;
+यज् 1U:
 
 ::: indent
-P: यियक्षति "er wünscht, für jemand anderen zu opfern"   &lt;!-- TODO: Fallback translation --&gt;
+P: यियक्षति "той желае да принася жертва за друг"
+Ā: यियक्षते "той желае да принася жертва за себе си (като господар на жертвата)"
+Страдателен залог: यियक्ष्यते "желае се да се принася жертва"
 :::
 
-Ā: यियक्षते "er wünscht, für sich selbst (als Opferherr) zu opfern"   &lt;!-- TODO: Fallback translation --&gt;
+**Перфект: перифрастично:**
 
 ::: indent
-आप् » ईप्स- » ईप्सां चकार "er wünschte zu erlangen" &lt;!-- TODO: Fallback translation --&gt;
+आप् » ईप्स- » ईप्सां चकार "той пожела да постигне"
 :::
 
-Passiv: यियक्ष्यते "es wird zu opfern gewünscht" &lt;!-- TODO: Fallback translation --&gt;
+**Aorist: iṣ-Aorist:**
 
 ::: indent
-आप् » ऐप्सिषम् (a + īps-i-ṣ-am) &lt;!-- TODO: Fallback translation --&gt;
+आप् » ऐप्सिषम् (a + īps-i-ṣ-am)
 :::
 
-Futur: सेट् &lt;!-- TODO: Fallback translation --&gt;
+**Бъдеще: सेट्**
 
 ::: indent
 आप् » ईप्सिष्यामि
 :::
 
-Perfekt: periphrastisch: &lt;!-- TODO: Fallback translation --&gt;
+::::
+
+За образуване на съществителни от деятелен род на -u от желателния корен вижте [Урок 54](lektion54.md).
 
 ## 60.7. Упражнение
 
-A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmäßigen Desiderativbildungen zu bisher gelernten Verben: &lt;!-- TODO: Fallback translation --&gt;
+A) Научете в Kielhorn, Граматика § 451 неправилните форми на желателното наклонение за досегашните изучавани глаголи:
 
 ::: media
-![]/images/lekt6007.jpg
-B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen: &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt6007.jpg)
+(Източник на изображението: [Подробности](/bg/licenses#lekt6007))
 :::
 ::: media
-![]/images/lekt6008.jpg
-(Bildquelle: [Details](/licenses#lekt6008)) <!-- TODO: Fallback translation -->
+![](/images/lekt6008.jpg)
+(Източник на изображението: [Подробности](/bg/licenses#lekt6008))
 :::
 ::: media
-![]/images/lekt6009.jpg
-(Bildquelle: [Details](/licenses#lekt6009)) <!-- TODO: Fallback translation -->
+![](/images/lekt6009.jpg)
+(Източник на изображението: [Подробности](/bg/licenses#lekt6009))
 :::
-B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen: <!-- TODO: Fallback translation -->
+B) Определете и преведете без помощни средства следните форми:
 
 1.  ददुषोः
-
+    
 2.  अहिंसीः
-
+    
 3.  देमथुः
-
+    
 4.  वक्त्वा
-
+    
 5.  अक्षथाः
-
+    
 6.  मुमुषिषिष्यतः
-
+    
 7.  अचिक्षंसेथाम्
-
+    
 8.  अस्नाः
-
+    
 9.  जिहिंसुषि
-
+    
 10.  जिहिंसिषुणा
-
+     
 11.  द्युभिः
-
+     
 12.  जग्लिव
-
+     
 13.  अतिस्तीर्षम्
-
+     
 14.  अस्मेष्ठाः
-
+     
 15.  ईशिष्व
-
+     
 16.  रुरुषतुः
-
+     
 17.  रुरुषुः
-
+     
 18.  रुरुषिषुः
-
+     
 19.  अपिप्रीणताम्
-
+     
 20.  अपिप्रीषतम्
-
+     
 21.  पिप्रियतुः
-
+     
 22.  तिस्रः
-
+     
 23.  अदांक्ष्टाम्
-
+     
 24.  असिसीर्ष्यत
-
+     
 25.  बभासाते
-
+     
 26.  बिभासिषेथे
-
+     
 27.  अबीभणत
-
+     
 28.  चकर्त
-
+     
 29.  चकर्थ
-
+     
 30.  दिद्युते
-
+     
 31.  दिद्युतिषे
-
+     
 32.  चुच्यूषवे
-
+     
 33.  दित्सामि
-
+     
 34.  अचीकृतम्
-
+     
 35.  विजिगीषौ
-
+     
 36.  पित्सेथे
-
+     
 37.  उदीचि
-
+     
 38.  संगणय्य
-
+     
 39.  अतिस्तराव
-
+     
 40.  त्रिलोक्याः
-
+     
 41.  अहः
-
+     
 42.  जग्मुषः
-
+     
 43.  अताप्स्व
-
+     
 44.  ईशिशिषाञ्चक्रे
-
+     
 45.  ईशाञ्चक्रे
-
+     
 46.  ईशयाञ्चक्रे
-
+     
 47.  षण्णाम्
-
+     
 48.  अघुक्षम्
-
+     
 49.  अष्टौ
-
+     
 50.  प्साथः
-
+     
 51.  अवाचः
-
+     
 52.  ईयुषे

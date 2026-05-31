@@ -1,10 +1,12 @@
-# Project Roadmap - Milestone v1.2
+# Project Roadmap - Milestone v1.3
 
 ## Milestones
 
 - ✅ **v1.0 Initial MVP** — Phasen 1-4 (shipped 2026-04-14)
 - ✅ **v1.1 Interaktion & Flexibilität** — Phasen 5-9 (shipped 2026-04-19)
-- [ ] **v1.2 Search, Index & I18n Expansion** — Phasen 10-12 (REPAIR REQUIRED)
+- ✅ **v1.2 Search, Index & I18n Expansion** — Phasen 10-14 (shipped 2026-05-27)
+  - ⚠ Known gaps: BG (23/61), UK (31/61), RU Übungen (0/61) — handled out-of-band via lan_translate.py
+- [ ] **v1.3 Polyglot & Polish** — Phasen 15-17
 
 ## Phasen
 
@@ -53,6 +55,42 @@ High-fidelity manual reconstruction and validation of Sanskrit Lesson 27.
     - 1:1 structural parity with original L27 HTML.
     - Zero-HTML in all sections.
     - Paradigm tables correctly formatted with all script entries.
+
+</details>
+
+<details open>
+<summary>📋 v1.3 Editor First (Phasen 15-17)</summary>
+
+### Phase 15: VitePress-aware Markdown Editor ⭐ PRIORITY
+Der Kern von v1.3: ein Split-Pane-Editor mit Live-Vorschau, der VitePress-Containersyntax korrekt rendert.
+- [ ] **Plan 15.1**: Architektur-Design — Client-seitiger Renderer mit markdown-it + VitePress-Plugins.
+- [ ] **Plan 15.2**: Editor-UI — Split-Pane (CodeMirror/Textarea links, Live-Preview rechts).
+- [ ] **Plan 15.3**: Container-Support — `::: grammar-box`, `::: indent`, `::: deleteme-box`, `::: media`, `::: no-header`.
+- [ ] **Plan 15.4**: `[[br]]` Line-Break Handling & MultiMD-Table-Rendering.
+- [ ] **Plan 15.5**: Integration in QA-Viewer (`qa_viewer.html`) als eigener Tab/Modus.
+- **Erfolgskriterien**:
+    - Editor rendert alle VitePress-Container 1:1 wie der Produktions-Build.
+    - Änderungen sind sofort in der Vorschau sichtbar.
+    - `[[br]]` und MultiMD-Tabellen werden korrekt dargestellt.
+
+### Phase 16: I18n Completion — ES, LA, RM, TA (sekundär)
+Horizontale Erweiterung um die verbleibenden vier Sprachen.
+- [ ] **Plan 16.1**: Setup der Verzeichnisstrukturen für `/es/`, `/la/`, `/rm/`, `/ta/`.
+- [ ] **Plan 16.2**: Massenübersetzung via AI (lan_translate.py → nyx.local:8000).
+- [ ] **Plan 16.3**: Integration der neuen Locales in die VitePress-Config.
+- [ ] **Plan 16.4**: Quality-Sync & Visual Remediation (Layout-Synchronisation via sync_layouts.py).
+- **Erfolgskriterien**:
+    - Alle 61 Lektionen sind in ES, LA, RM, TA verfügbar.
+    - Die Homepage bietet 11 Sprachen zur Auswahl an.
+
+### Phase 17: Scholarly Polish — Captions, Metadata & Comparison (sekundär)
+Standardisierung der Metadaten und Legacy-Vergleichswerkzeug.
+- [ ] **Plan 17.1**: Standardisierung aller Bildunterschriften (999.14) — minimalistisches Format.
+- [ ] **Plan 17.2**: Audit und Vervollständigung der licenses.md.
+- [ ] **Plan 17.3**: Historical Comparison Mode (999.12) — Side-by-Side Legacy-HTML vs Modern-Markdown.
+- **Erfolgskriterien**:
+    - Alle Bildunterschriften folgen dem L16-Ref Standard.
+    - Vergleichsmodus über QA-Viewer erreichbar.
 
 </details>
 
@@ -125,6 +163,9 @@ Plans:
 | 12 | v1.2 | 4/4 | Complete | 2026-04-26 |
 | 13 | v1.2 | 1/1 | Complete | 2026-05-08 |
 | 14 | v1.2 | 3/3 | Complete | 2026-05-16 |
+| 15 | v1.3 | 0/5 | Pending | — |
+| 16 | v1.3 | 0/4 | Pending | — |
+| 17 | v1.3 | 0/3 | Pending | — |
 
 ### Phase ${NEXT}: ${DESCRIPTION} (BACKLOG)
 

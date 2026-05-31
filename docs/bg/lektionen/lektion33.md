@@ -1,422 +1,427 @@
 ---
-title: Lektion 33
+title: Урок 33
 lesson_id: 33
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+---
 
-# Lektion 33
+# Урок 33
 
-## 33.1. Die Reduplikation (अभ्यास m.)
+## 33.1. Повтарянето (अभ्यास м.р.)
 
-* Die dritte Сегашно времеklasse &lt;!-- TODO: Fallback translation --&gt;
-* (sowie einige Verben anderer Сегашно времеklassen), &lt;!-- TODO: Fallback translation --&gt;
-* das Perfekt, &lt;!-- TODO: Fallback translation --&gt;
-* der reduplizierte Aorist, &lt;!-- TODO: Fallback translation --&gt;
-* das Frequentativum und &lt;!-- TODO: Fallback translation --&gt;
-* das Desiderativum &lt;!-- TODO: Fallback translation --&gt;
+* Третата класа на настоящето време
+* (както и някои глаголи от други класи на настоящето време),
+* перфектът,
+* повтарящият се аорист,
+* честотният глагол и
+* желателният глагол
 
-werden mittels Reduplikation gebildet. Der Teil einer reduplizierten Form, der vor die Wurzel gesetzt wird, heißt Reduplikationssilbe. &lt;!-- TODO: Fallback translation --&gt;
+се образуват чрез повтаряне. Частта от повтарящата се форма, която се поставя преди корена, се нарича слог за повтаряне.
 
-Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal. &lt;!-- TODO: Fallback translation --&gt;
+Слогът за повтаряне се състои от (един съгласен и) гласен.
 
-### 33.1.1. Der Reduplikationskonsonant
-
-::: grammar-box
-1\. Gewöhnlich: Wiederholung des ersten Konsonanten der Wurzel. &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-**दा** 3 "geben" &lt;!-- TODO: Fallback translation --&gt;
-* 3.sg.P.Ind.Präs. **ददाति** &lt;!-- TODO: Fallback translation --&gt;
-
-**पॄ** 3 "füllen" &lt;!-- TODO: Fallback translation --&gt;
-* 3.sg.P.Ind.Präs. **पिपर्ति** &lt;!-- TODO: Fallback translation --&gt;
-
-**मा** 3Ā "messen" &lt;!-- TODO: Fallback translation --&gt;
-* 3.sg.Ā.Ind.Präs. **मिमीते** &lt;!-- TODO: Fallback translation --&gt;
-:::
+### 33.1.1. Редупликационният съгласен
 
 ::: grammar-box
-2\. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert. &lt;!-- TODO: Fallback translation --&gt;
+**1. Обикновено:**  
+**Повтаряне на първия съгласен на корена**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
 ::: indent
-**धा** 3 "setzen" &lt;!-- TODO: Fallback translation --&gt;
-* 3.sg.P.Ind.Präs. **दधाति** &lt;!-- TODO: Fallback translation --&gt;
+**दा** 3 "давам"
+* 3.ед.Н.Наст.Наст. **ददाति**
 
-**भी** 3 "fürchten" &lt;!-- TODO: Fallback translation --&gt;
-* 3.sg.P.Ind.Präs. **बिभेति** &lt;!-- TODO: Fallback translation --&gt;
+**पॄ** 3 "пълня"
+* 3.ед.Н.Наст.Наст. ***पि***पर्ति
+
+**मा** 3Ā "меря"
+* 3.ед.Ā.Наст.Наст. ***मि***मीते
+:::
+
+::: grammar-box
+**2. Аспириран начален съгласен на корен се редуплицира чрез съответния неаспириран съгласен.**
+:::
+
+Примери:
+
+::: indent
+**धा** 3 "поставям"
+* 3.ед.Н.Наст.Наст. **दधाति**
+
+**भी** 3 "боя се"
+* 3.ед.Н.Наст.Наст. ***बि***भेति
 :::
 
 :::: grammar-box
-3\. Ein Guttural wird durch den ihm entsprechenden nicht-aspirierten Palatal redupliziert: &lt;!-- TODO: Fallback translation --&gt;
+**3. Гутурален се редуплицира чрез съответния неаспириран палатален:**
 
 ::: indent
-**क्**, **ख्** durch **च्**  
+**क्**, **ख्** чрез **च्**  
+**ग्**, **घ्** чрез **ज्**
 :::
 
-**ह्** wird immer durch **ज्** redupliziert. &lt;!-- TODO: Fallback translation --&gt;
+**ह् винаги се редуплицира чрез ज्.**
 ::::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
 ::: indent
-**हु** 3 "(zum Opfer) ins Feuer gießen" &lt;!-- TODO: Fallback translation --&gt;
-* 3.sg.P.Ind.Präs. **जुहोति** &lt;!-- TODO: Fallback translation --&gt;
+**हु** 3 "(за жертвоприношение) изливам в огъня"
+* 3.ед.Н.Наст.Наст. **जुहोति**
 :::
 
 ::: grammar-box
-4\. Beginnt eine Wurzel mit mehreren Konsonanten, so wird nur der erste (gegebenenfalls unter Anwendung von Regel 2 bzw. 3) wiederholt. &lt;!-- TODO: Fallback translation --&gt;
+**4. Ако коренът започва с няколко съгласни, се повтаря само първият (съответно при прилагане на правило 2 или 3).**
 :::
 
 ::: grammar-box
-5\. Beginnt eine Wurzel mit einer Konsonantengruppe Zischlaut + tonloser Konsonant, so wird nicht der Zischlaut, sondern der darauf folgende tonlose Konsonant gemäß obigen Regeln redupliziert. &lt;!-- TODO: Fallback translation --&gt;
+**5. Ако коренът започва с група съгласни шипящ + беззвучен, не шипящият, а следващият беззвучен съгласен се редуплицира според горните правила.**
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
 ::: indent
-**स्था** 1 "stehen" &lt;!-- TODO: Fallback translation --&gt;
-* 3.sg.P.Ind.Präs. **तिष्ठति** &lt;!-- TODO: Fallback translation --&gt;
+**स्था** 1 "стои"
+* 3.ед.Н.Наст.Наст. **तिष्ठति**
 :::
 
-## 33.2. Die dritte Сегашно времеklasse (जुहोत्यादि = "जुहोति u.s.w.")
+## 33.2. Третият клас на настоящето време (जुहोत्यादि = "जुहोति и т.н.")
 
 ::: grammar-box
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+**Образуване:**
 
-**starker Stamm:** reduplizierte hochstufige Wurzel + Endung &lt;!-- TODO: Fallback translation --&gt;
+**силен корен:**  
+**редуплицирана висока степен на корена + наставка**
 
-**schwacher Stamm:** reduplizierte tiefstufige Wurzel + Endung &lt;!-- TODO: Fallback translation --&gt;
+**слаб корен:**  
+**редуплицирана ниска степен на корена + наставка**
 
-Für den Reduplikationskonsonanten gelten die oben gegebenen Regeln. &lt;!-- TODO: Fallback translation --&gt;
+**За редупликационната съгласна важат горните правила.**
 :::
 
-### 33.2.1. Der Reduplikationsvokal der 3. Сегашно времеklasse
+### 33.2.1. Гласката за редупликация на 3-та класа на настоящето време
 
 ::: grammar-box
-* Bildung: &lt;!-- TODO: Fallback translation --&gt;
-* **starker Stamm:** reduplizierte hochstufige Wurzel + Endung &lt;!-- TODO: Fallback translation --&gt;
-* **schwacher Stamm:** reduplizierte tiefstufige Wurzel + Endung &lt;!-- TODO: Fallback translation --&gt;
+* **Правилната гласка за редупликация е -i-**
+* **Корените, съдържащи u, редуплицират с -u-**
+* **корените दा, धा, हा с -a-**
 :::
 
-Für den Reduplikationskonsonanten gelten die oben gegebenen Regeln. &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
 :::: grammar-box
-**हु** 3P "(zum Opfer) ins Feuer gießen" <!-- TODO: Fallback translation -->
+**हु** 3-то л. ед. ч. „влива в огъня (за жертвоприношение)“
 
-* **starker Основа:** जुहो <!-- TODO: Fallback translation -->
-* **schwacher Основа:** जुहु <!-- TODO: Fallback translation -->
+* **силен корен:** जुहो
+* **слаб корен:** जुहु
 
-| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** | जुहोति | जुह्वति[[br]](juhu + ati) | &lt;जुहुते&gt; | &lt;जुह्वते&gt;[[br]](juhu + ate) | <!-- TODO: Fallback translation -->
-| **Imperfekt** | अजुहोत्[[br]](a-juho-t) | जुहवुर्[[br]](a-juho + ur) | &lt;अजुहुत&gt; | &lt;अजुह्वत&gt;[[br]](a-juhu + ata) | <!-- TODO: Fallback translation -->
-| **Optativ** | जुहुयात्[[br]](juhu-yā-t) | जुहुयुर्[[br]](juhu-y-ur) | &lt;जुह्वीत&gt;[[br]](juhu + ī-ta) | &lt;जुह्वीरन्&gt;[[br]](juhu + ī-ran) | <!-- TODO: Fallback translation -->
+| | 3-то л. ед. ч. Н. | 3-то л. мн. ч. Н. | 3-то л. ед. ч. А. | 3-то л. мн. ч. А. |
+| :--- | :--- | :--- | :--- | :--- |
+| **Индикатив, Настоящо време** | जुहोति | जुह्वति[[br]]juhu + ati | &lt;जुहुते&gt; | &lt;जुह्वते&gt;[[br]]juhu + ate |
+| **Аорист** | अजुहोत्[[br]]a-juho-t | जुहवुर्[[br]]a-juho + ur | &lt;अजुहुत&gt; | &lt;अजुह्वत&gt;[[br]]a-juhu + ata |
+| **Оптим** | जुहुयात्[[br]]juhu-yā-t | जुहुयुर्[[br]]juhu-y-ur | &lt;जुह्वीत&gt;[[br]]juhu + ī-ta | &lt;जुह्वीरन्&gt;[[br]]juhu + ī-ran |
 ::::
 
-## 33.3. Zum Ablaut von ā
+## 33.3. За аблаута на ā
 
-**ā** kann: &lt;!-- TODO: Fallback translation --&gt;
+ā kann
 
-* einerseits Dehnstufe einer der Ablautreihen mit **-a-** sein &lt;!-- TODO: Fallback translation --&gt;
-* andrerseits Hochstufe in einer Ablautreihe der **ā**-Gruppe sein &lt;!-- TODO: Fallback translation --&gt;
+* от една страна удължена степен на една от аблаутните серии с -a-
+* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
 
-Die beiden wichtigsten Ablautreihen der **ā**-Gruppe sind: &lt;!-- TODO: Fallback translation --&gt;
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 ::: grammar-box
-**A.** &lt;!-- TODO: Fallback translation --&gt;
+**А.**
 
-* **Tiefstufe** &lt;!-- TODO: Fallback translation --&gt;
-  * vor Konsonant: **-i-**   &lt;!-- TODO: Fallback translation --&gt;
-        z.B. **धा** PPP: **हित** (hi-ta) &lt;!-- TODO: Fallback translation --&gt;
-  * vor Vokal: **Ø**   &lt;!-- TODO: Fallback translation --&gt;
-        z.B. **धा** 3.pl.P.Ind.Präs. **दधति** (dadh-ati) &lt;!-- TODO: Fallback translation --&gt;
-* **Hochstufe:** **-ā-**   &lt;!-- TODO: Fallback translation --&gt;
-    z.B. **धा** 3.sg.P.Ind.Präs. **दधाति** &lt;!-- TODO: Fallback translation --&gt;
+* **Ниска степен**
+  * **пред съгласна: -i-**  
+    напр. **धा** прич. мин. страд. настрад: **हित** (hi-ta)
+  * **пред гласна: Ø**  
+    напр. **धा** 3.л.мн.ч.нар.наст. **दधति** (dadh-ati)
+* **Висока степен: -ā-**  
+  напр. **धा** 3.л.ед.ч.нар.наст. **दधाति**
 :::
 
-Hierher gehört z.B. auch: &lt;!-- TODO: Fallback translation --&gt;
+Тук принадлежи например също:
 
 ::: indent
 **स्था** 1
-* PPP **स्थित** (sthi-ta)   &lt;!-- TODO: Fallback translation --&gt;
-* 3.sg.P.Fut. **स्थास्यति** (sthā-sya-ti) &lt;!-- TODO: Fallback translation --&gt;
+* прич. мин. страд. настрад **स्थित** (sthi-ta)
+* 3.л.ед.ч.нар.бъд. **स्थास्यति** (sthā-sya-ti)
 :::
 
 :::: grammar-box
-**B.** &lt;!-- TODO: Fallback translation --&gt;
+**Б.**
 
-* **Tiefstufe:** **-ī-**   &lt;!-- TODO: Fallback translation --&gt;
-    z.B. **पा** 1: PPP **पीत** (pī-ta) &lt;!-- TODO: Fallback translation --&gt;
-* **Hochstufe:** **-ā-**   &lt;!-- TODO: Fallback translation --&gt;
-    z.B. **पा** 1: Inf. **पातुम्** &lt;!-- TODO: Fallback translation --&gt;
+* **Ниска степен: -ī-**  
+  напр. **पा** 1: прич. мин. страд. настрад **पीत** (pī-ta)
+* **Висока степен: -ā-**  
+  напр. **पा** 1: инф. **पातुम्**
 ::::
 
-## 33.4. Коренn auf -ā der dritten Сегашно времеklasse
+## 33.4. Корени на -ā от третия клас на настоящето време
 
 ::: grammar-box
-Wurzeln auf **-ā** (außer **दा** und **धा**) lauten im schwachen Stamm gewöhnlich auf **-ī-** ab (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271), vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A). &lt;!-- TODO: Fallback translation --&gt;
+**Корените на -ā (с изключение на दा и धा) обикновено завършват на -ī- в слабия корен** (вж. Thumb-Hauschild, том 1,1, стр. 271. Вероятно горепосочената аблаутна серия B е служила за образец, въпреки че тези корени иначе следват серия A), **пред гласови окончания кореновият глас изчезва напълно (вж. аблаутна серия A).**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
 :::: grammar-box
-**मा** 3Ā "messen" &lt;!-- TODO: Fallback translation --&gt;
+**मा** 3Ā "меря"
 
-| | 3. sg. Ā. | 3. pl. Ā. |
+| | 3. ед. ч. Ā. | 3. мн. ч. Ā. |
 | :--- | :--- | :--- |
-| **Indikativ Сегашно време** | मिमीते[[br]](mimī-te) | मिमते[[br]](mim-ate) |
-| **Imperfekt** | अमिमीत | अमिमत |
-| **Optativ** | मिमीत[[br]](mim-ī-ta !) | मिमीरन्[[br]](mim-ī-ran) |
+| **Индикатив настоящо време** | मिमीते[[br]]mimī-te | मिमते[[br]]mim-ate |
+| **Имперфект** | अमिमीत | अमिमत |
+| **Оптив** | मिमीत[[br]]mim-ī-ta ! | मिमीरन्[[br]]mim-ī-ran |
 ::::
 
 :::: grammar-box
-**हा** 3P "verlassen" &lt;!-- TODO: Fallback translation --&gt;
+**हा** 3P "напускам"
 
-| | 3. sg. P. | 3. pl. P. |
+| | 3. ед. ч. P. | 3. мн. ч. P. |
 | :--- | :--- | :--- |
-| **Indikativ Сегашно време** | जहाति | जहति[[br]](jah-ati) |
-| **Imperfekt** | अजहात् | अजहुर् |
-| **Optativ** | जह्यात्[[br]](jah-yā-t)[[br]](Die Корен **हा** hat vor dem Оптатив-yā/y die gleiche Form wie vor Vokalen!) | जह्युर्[[br]](jah-y-ur) |
+| **Индикатив настоящо време** | जहाति | जहति[[br]]jah-ati |
+| **Имперфект** | अजहात् | अजहुर् |
+| **Оптив** | जह्यात्[[br]]jah-yā-t[[br]](Коренът **हा** има преди оптивното -yā/y същата форма, както преди гласови окончания!) | जह्युर्[[br]]jah-y-ur |
 ::::
 
-### 33.4.1. Die Коренn **दा** und **धा**
+### 33.4.1. Корените **दा** и **धा**
 
 ::: grammar-box
-Wurzeln auf **-ā** (außer **दा** und **धा**) lauten im schwachen Stamm gewöhnlich auf **-ī-** ab (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271), vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A). &lt;!-- TODO: Fallback translation --&gt;
+**Корените दा и धा редуплицират с гласния -a- и губят коренния глас в слабия корен.**
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+**Обърнете внимание на закона за диссимиляция на дихавието при धा!**
 :::
 
 :::: grammar-box
-**मा** 3Ā "messen" &lt;!-- TODO: Fallback translation --&gt;
+**धा** 3U "поставям, установявам, разпределям"
 
-| | 3. sg. Ā. | 3. pl. Ā. | 3. sg. Ā. | 3. pl. Ā. |
+| | 3. л. ед. нар. | 3. л. мн. нар. | 3. л. ед. страд. | 3. л. мн. страд. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Сегашно време** | दधाति | दधति[[br]](dadh-ati) | धत्ते[[br]](dadh-te)[[br]](Обяснение: Thumb-Hauschild 1,1 S. 302f.) | दधते[[br]](dadh-ate) |
-| **Imperfekt** | अदधात् | अदधुर् | अधत्त[[br]](a + dadh + ta) | अदधत |
-| **Optativ** | दध्यात्[[br]](dadh-yā-t) | दध्युर् | दधीत[[br]](dadh-ī-ta) | दधीरन् |
+| **Индикатив сегашно време** | दधाति | दधति[[br]]dadh-ati | धत्ते[[br]]dadh-te[[br]](Обяснение: Thumb-Hauschild 1,1 стр. 302 сл.) | दधते[[br]]dadh-ate |
+| **Имперфект** | अदधात् | अदधुर् | अधत्त[[br]]a + dadh + ta | अदधत |
+| **Оптив** | दध्यात्[[br]]dadh-yā-t | दध्युर् | दधीत[[br]]dadh-ī-ta | दधीरन् |
 ::::
 
-**हा** 3P "verlassen" &lt;!-- TODO: Fallback translation --&gt;
+Формите на **दा** се получават, като в парадигмата на **धा** **dh** се замени с **d**. Тоест:
 
 :::: grammar-box
-| | 3. sg. P. | 3. pl. P. |
+**दा** 3U "давам"
 
-| | :--- | :--- | 3. sg. Ā. | 3. pl. Ā. |
+| | 3. л. ед. нар. | 3. л. мн. нар. | 3. л. ед. страд. | 3. л. мн. страд. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ददाति | ददति | दत्ते | ददते | <!-- TODO: Fallback translation -->
-| **Imperfekt** | अददात् | अददुर् | अदत्त | अददत |
-| **Optativ** | दद्यात् | दद्युर् | ददीत | ददीरन् |
+| **Индикатив сегашно време** | ददाति | ददति | दत्ते | ददते |
+| **Имперфект** | अददात् | अददुर् | अदत्त | अददत |
+| **Оптив** | दद्यात् | दद्युर् | ददीत | ददीरन् |
 ::::
 
-## 33.5. Das Partizip Сегашно време Parasmaipada der Коренn der 3. Сегашно времеklasse
+## 33.5. Причастие сегашно време Parasmaipada на корените от 3-тия клас на присъствие
 
 ::: grammar-box
-| :--- | :--- | :--- | :--- |
+**Глаголите от 3-тия клас образуват всички форми на причастие сегашно време Parasmaipada от слабия корен.**
 
-**Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.** &lt;!-- TODO: Fallback translation --&gt;
+**Изключение: Именителен/Обвинителен множествено число, среден род, може по избор да бъде образуван от силния или слабия корен.**
 :::
 
-**दा** Partizip Präsens Parasmaipada: &lt;!-- TODO: Fallback translation --&gt;
+**दा** Причастие сегашно време Parasmaipada:
 
 :::: grammar-box
 | | Мъжки род[[br]]पुंल्लिङ्ग | Среден род[[br]]नपुंसकलिङ्ग | Женски род[[br]]स्त्रीलिङ्ग |
 | :--- | :--- | :--- | :--- |
-| **Singular** | | | |
-| **1. Номинатив** | ददत्[[br]](dad-at + s) | ददत्[[br]](dad-at-Ø) | ददती |
-| **2. Акузатив** | ददतम्[[br]](dad-at-am) | ददत् | |
-| **Plural** | | | |
-| **1. Номинатив** | ददतस् | ददति[[br]](dad-at-i)[[br]]ददन्ति[[br]](dad-ant-i) | |
-| **2. Акузатив** | ददतस् | ददति[[br]]ददन्ति | |
+| **Единствено число** | | | |
+| **1. Именителен** | ददत्[[br]]dad-at + s | ददत्[[br]]dad-at-Ø | ददती |
+| **2. Обвинителен** | ददतम्[[br]]dad-at-am | ददत् | |
+| **Множествено число** | | | |
+| **1. Именителен** | ददतस् | ददति[[br]]dad-at-i[[br]]ददन्ति[[br]]dad-ant-i | |
+| **2. Обвинителен** | ददतस् | ददति[[br]]ददन्ति | |
 ::::
 
-Fut. दास्यति   &lt;!-- TODO: Fallback translation --&gt;
+Подобно **जुह्वत्** (juhu-at + s)
 
 ## 33.6. Речник
 
-**दा** 3U **ददाति**: geben &lt;!-- TODO: Fallback translation --&gt;
+**दा** 3U **ददाति**: давам
 
 ::: indent
-**Fut.**  दास्यति  
-**Pass.** दीयते  
-**Kaus.** दापयति  
+**Бъд.** दास्यति  
+**Страд.** दीयते  
+**Кавз.** दापयति  
 **PPP** दत्त  
-**Inf.** दातुम् &lt;!-- TODO: Fallback translation --&gt;
+**Инф.** दातुम्
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
-**दान** n.: Geben, Gabe, Freigebigkeit &lt;!-- TODO: Fallback translation --&gt;
+**दान** n.: даване, дар, щедrost
 :::
 
 ::: media
 ![](/images/lekt3306.jpg)
-Abb.: दानम्
-(Bildquelle: [Details](/licenses#lekt3306)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: दानम्
+(Източник на изображението: [Подробности](/bg/licenses#lekt3306))
 :::
 
-**दा** + **आ** 3Ā **अदत्ते**: (in Empfang) nehmen, in Besitz nehmen, mitnehmen &lt;!-- TODO: Fallback translation --&gt;
+**दा** + **आ** 3Ā **अदत्ते**: (в приемане) вземам, притежавам, вземам със себе си
 
 ::: indent
-**Absol.** आदाय: mit Akk.: in Begleitung von, mit &lt;!-- TODO: Fallback translation --&gt;
+**Абсол.** आदाय: с акузатив: в съпровод на, с
 :::
 
 ::: media
 ![](/images/lekt3307.jpg)
-Abb.: सा पुत्रमादाय भारं बिभ्रती गच्छति
-(Bildquelle: [Details](/licenses#lekt3307)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: सा पुत्रमादाय भारं बिभ्रती गच्छति
+(Източник на изображението: [Подробности](/bg/licenses#lekt3307))
 :::
 
-**धा** 3U **दधाति**: setzen, festsetzen, zuteilen &lt;!-- TODO: Fallback translation --&gt;
+***धा*** 3U ***दधाति***: поставям, установявам, разпределям
 
 ::: indent
-**Fut.** धास्यति  
-**Pass.** धीयते  
-**Kaus.** धापयति  
-**PPP** हित (!!)  
-**Inf.** धातुम् &lt;!-- TODO: Fallback translation --&gt;
+**Бъд.** ***धास्यति***  
+**Страд.** ***धीयते***  
+**Кавз.** ***धापयति***  
+**PPP** ***हित*** (!!)  
+**Инф.** ***धातुम्***
 :::
 
-**धा** + **सम्** + **आ** 3U **समादधाति**: die ganze Aufmerksamkeit auf etwas richten, sich sammeln &lt;!-- TODO: Fallback translation --&gt;
+**धा** + **सम्** + **आ** 3U **समादधाति**: насочвам цялото внимание към нещо, събирам се
 
 ::: indent
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
-**समाधि** m.: innere Sammlung, höchste Aufmerksamkeit &lt;!-- TODO: Fallback translation --&gt;
+**समाधि** m.: вътрешно събиране, най-високо внимание
 :::
 
 ::: media
 ![](/images/lekt3305.jpg)
-Abb.: समाधि
-(Bildquelle: [Details](/licenses#lekt3305)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: समाधि
+(Източник на изображението: [Подробности](/bg/licenses#lekt3305))
 :::
 
-**पॄ** 3P **पिपर्ति**: füllen, erfüllen &lt;!-- TODO: Fallback translation --&gt;
+**पॄ** 3P **पिपर्ति**: пълня, изпълнявам
 
 ::: indent
-Merke:
-3.pl.P **पिप्राति**  
-3.sg.Impf.P **अपिपर्** (aus: \*apipart)  
-3.pl.Impf.P **अपिपरुर्**  
-3.sg.Opt.P **पिपूर्यात्** &lt;!-- TODO: Fallback translation --&gt;
+Запомни:
+3.mn.Ind.P ***पिपुरति***  
+3.sg.Impf.P ***अपिपर्*** (от: \*apipart)  
+3.mn.Impf.P ***अपिपरुर्***  
+3.sg.Opt.P ***पिपूर्यात्***
 
-**Fut.** परिष्यति / परीष्यति  
-**Pass.** पूर्यते  
-**Kaus.** पूरयति / पारयति  
-**PPP** पूर्ण / पूर्त / पूरित &lt;!-- TODO: Fallback translation --&gt;
+**Бъд.** परिष्यति / परीष्यति  
+**Страд.** पूर्यते  
+**Кавз.** पूरयति / पारयति  
+**PPP** पूर्ण / पूर्त / पूरित
 :::
 
-**पॄ** + **सम्** nur **Pass.** सम्पूर्यते und **Kaus.**: gänzlich füllen &lt;!-- TODO: Fallback translation --&gt;
+**पॄ** + **सम्** само **Страд.** सम्पूर्यते и **Кавз.:** пълня напълно
 
-**भी** 3P **बिभेति**: sich fürchten vor (Abl., Gen.) &lt;!-- TODO: Fallback translation --&gt;
+**भी** 3P **बिभेति**: бои се от (аблатив, генитив)
 
 ::: indent
-**Fut.** भेष्यति  
-**Pass.** भीयते  
-**Kaus.** भाययति  
+**Бъд.** भेष्यति  
+**Страд.** भीयते  
+**Кавз.** भाययति  
 **PPP** भीत  
-**Inf.** भेतुम् &lt;!-- TODO: Fallback translation --&gt;
+**Инф.** भेतुम्
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
-**भय** n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite) &lt;!-- TODO: Fallback translation --&gt;
+**भय** n.: страх, ужас; опасност (субективната и обективната страна)
 :::
 
 ::: media
 ![](/images/lekt3304.jpg)
-Abb.: भयम्
-(Bildquelle: [Details](/licenses#lekt3304)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: भयम्
+(Източник на изображението: [Подробности](/bg/licenses#lekt3304))
 :::
 
-**भृ** 3U **बिभर्ति**: tragen, bringen; erhalten, ernähren &lt;!-- TODO: Fallback translation --&gt;
+**भृ** 3U **बिभर्ति**: нося, пренасям; поддържам, отглеждам
 
 ::: indent
-**Fut.** भरिष्यति  
-**Pass.** भ्रियते  
-**Kaus.** भारयति  
+**Бъд.** भरिष्यति  
+**Страд.** भ्रियते  
+**Кавз.** भारयति  
 **PPP** भृत  
-**Inf.** भर्तुम् &lt;!-- TODO: Fallback translation --&gt;
+**Инф.** भर्तुम्
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
-**भार** m.: Last &lt;!-- TODO: Fallback translation --&gt;
+**भार** m.: товар
 :::
 
-**मा** 3Ā **मिमीते**: messen &lt;!-- TODO: Fallback translation --&gt;
+**मा** 3Ā **मिमीते**: меря
 
 ::: indent
-**Fut.** मास्यति / मास्यते  
-**Pass.** मीयते  
-**Kaus.** मापयति  
+**Бъд.** मास्यति / मास्यते  
+**Страд.** मीयते  
+**Кавз.** मापयति  
 **PPP** मित  
-**Inf.** मातुम् &lt;!-- TODO: Fallback translation --&gt;
+**Инф.** मातुम्
 :::
 
-**मा** + **उप** 3Ā **उपमिमीते**: vergleichen &lt;!-- TODO: Fallback translation --&gt;
+**मा** + **उप** 3Ā **उपमिमीते**: сравнявам
 
 ::: indent
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
-**उपमा** f.: Vergleich &lt;!-- TODO: Fallback translation --&gt;
+**उपमा** f.: сравнение
 
-**प्रतिमा** f.: Abbild &lt;!-- TODO: Fallback translation --&gt;
+**प्रतिमा** f.: изображение
 :::
 
-**हा** 3P **जहाति**: verlassen &lt;!-- TODO: Fallback translation --&gt;
+**हा** 3P **जहाति**: напускам
 
 ::: indent
-**Fut.** हास्यति  
-**Pass.** हीयते  
-**Kaus.** हापयति  
-**PPP** हीन: verlassen von, ermangelnd, mangelhaft  
-**Inf.** हातुम्
-von PPP **हीन**: &lt;!-- TODO: Fallback translation --&gt;
+**Бъд.** हास्यति  
+**Страд.** हीयते  
+**Кавз.** हापयति  
+**PPP** हीन: напуснат от, лишен, недостатъчен  
+**Инф.** हातुम्
+от PPP **हीन**:
 
-**हीनयान** n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "großen Fahrzeugs", des **महायान**; der mangelhafte Weg (**यान** zu **या** 2: gehen, fahren). Der Ausdruck हीनयान sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heißt **थेरवाद**. &lt;!-- TODO: Fallback translation --&gt;
+**हीनयान** n.: недостатъчното превозно средство (на будизма): пренебрежително название от представителите на "голямото превозно средство", **महायान**; недостатъчният път (**यान** към **या** 2: отивам, пътувам). Изразът हीनयान не трябва да се използва повече. Днешната все още съществуваща форма на стария будизъм се нарича **थेरवाद**.
 :::
 
 ::: media
 ![](/images/lekt3303.jpg)
-Abb.: हीनयानमेव
-(Bildquelle: [Details](/licenses#lekt3303)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: हीनयानमेव
+(Източник на изображението: [Подробности](/bg/licenses#lekt3303))
 :::
 
-**हु** 3P **जुहोति**: ins Feuer gießen (als Opfer, bes. Schmelzbutter) &lt;!-- TODO: Fallback translation --&gt;
+**हु** 3P **जुहोति**: изливам в огъня (като жертва, особено разтопено масло)
 
 ::: indent
-**Fut.** होष्यति  
-**Pass.** हूयते  
-**Kaus.** हावयति  
+**Бъд.** होष्यति  
+**Страд.** हूयते  
+**Кавз.** हावयति  
 **PPP** हुत  
-**Inf.** होतुम् &lt;!-- TODO: Fallback translation --&gt;
+**Инф.** होतुम्
 :::
 
 ::: media
 ![](/images/lekt3302.jpg)
-Abb.: घृतमग्नौ जुहोति
-(Bildquelle: [Details](/licenses#lekt3302)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: घृतमग्नौ जुहोति
+(Източник на изображението: [Подробности](/bg/licenses#lekt3302))
+
 :::
 
-**घृत** n.: Schmelzbutter, Ghee (घी / گھی / ঘী) &lt;!-- TODO: Fallback translation --&gt;
+**घृत** n.: разтопено масло, гхи (घी / گھی / ঘী)
 
 ::: note-box
-"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk." &lt;!-- TODO: Fallback translation --&gt;
+„Гхи се приготвя чрез кърение на несолено масло в голям съд, докато цялата вода изкипи и протеините се утаят на дъното. Готвеното и пречистено масло се черпи с лъжица, за да не се разбъркват млечните твърди частици на дъното на тигана. За разлика от маслото, гхи може да се съхранява за продължителни периоди без хладилник, при условие че се пази във въздухоплътен съд, за да се предотврати окислението, и остане без влага. Текстурата, цветът или вкусът на гхи зависят от източника на млякото, от което е направено маслото. В Индия гхи обикновено се приготвя от краве мляко, тъй като обикновено е по-бяло от кравешкото мляко.“
 
-[Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26] &lt;!-- TODO: Fallback translation --&gt;
+[Източник: http://en.wikipedia.org/wiki/Ghee. -- Посетен на 2008-12-26]
 :::
 
 ## 33.7. Упражнение
 
-A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in der Klammer ein: &lt;!-- TODO: Fallback translation --&gt;
+A) Вградете съответните форми на думите в скобите в следния модел на изречението:
 
 रामस् ... (चतुर्थ्येकवचने बहुवचने च) ... अन्नं ददाति । (भिक्षु । अग्नि । शूद्रा । गुनवान्पुत्र । देवान्स्तुवन्कवि । ब्राह्मणी । महान्साधु । धेनु)
 
-B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein: &lt;!-- TODO: Fallback translation --&gt;
+B) Вградете съответните форми на посочените в скобите глаголи в Indikativ Präsens, Imperfekt и Optativ:
 
 ब्राह्मणो घृतमग्नौ ... (हु) ॥१॥
 
@@ -434,7 +439,7 @@ B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im In
 
 ब्राह्मणी पात्रं जलेन ... (पॄ) ॥८॥
 
-C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekehrt: &lt;!-- TODO: Fallback translation --&gt;
+C) Преведете и превърнете едствени изречения в множествени и обратно:
 
 योगयुक्तो मतिं दुःखमक्षनयन्त्यां प्रज्ञायां समाधत्ते ॥१॥
 
@@ -444,8 +449,8 @@ C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekeh
 
 ::: media
 ![](/images/lekt3308.jpg)
-Abb.: पुरुषा भारं n. बिभ्रतीति स्त्री भारं गृहमबिभः
-(Bildquelle: [Details](/licenses#lekt3308)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः
+(Източник на изображението: [Подробности](/bg/licenses#lekt3308))
 :::
 
 क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥
@@ -458,17 +463,16 @@ Abb.: पुरुषा भारं n. बिभ्रतीति स्त�
 
 ::: deleteme-box
 
-### Източници
+**Дефиниция и подробности за Гхи:**
+* Източник: http://en.wikipedia.org/wiki/Ghee (Достъп: 2008-12-26)
 
-**Ghee Definition & Details:** <!-- TODO: Fallback translation -->
-* Quelle: http://en.wikipedia.org/wiki/Ghee (Zugriff: 2008-12-26) <!-- TODO: Fallback translation -->
-
-**Abbildungsverzeichnis & Lizenzen:** <!-- TODO: Fallback translation -->
-* **Abb. lekt3306 (wedding party, Chennai):** Източник на изображението: http://www.pbase.com/chandra/image/62118318 (Zugriff am 2008-12-27). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike). <!-- TODO: Fallback translation -->
-* **Abb. lekt3307 (Udaipur carrier):** Източник на изображението: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, Zugriff am 2008-12-27). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung). <!-- TODO: Fallback translation -->
-* **Abb. lekt3305 (Samadhi yogini, Kaveripakkam):** Източник на изображението: Quadell / Wikipedia (GNU FDLicense). <!-- TODO: Fallback translation -->
-* **Abb. lekt3304 (bhaya carrier, Mumbai):** Източник на изображението: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, Zugriff am 2008-12-26). Creative Commons Lizenz (Namensnennung). <!-- TODO: Fallback translation -->
-* **Abb. lekt3303 (Hinayana Thailand):** Източник на изображението: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Zugriff am 2008-12-26). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung). <!-- TODO: Fallback translation -->
-* **Abb. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Източник на изображението: Dey (http://www.flickr.com/photos/dey/466758922/, Zugriff am 2008-12-26). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike). <!-- TODO: Fallback translation -->
-* **Abb. lekt3308 (woman carrier, Delhi):** Източник на изображението: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Zugriff am 2008-12-27). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung). <!-- TODO: Fallback translation -->
+**Списък с илюстрации и лицензи:**
+* **Ил. lekt3306 (сватба, Ченнай):** Източник на изображението: http://www.pbase.com/chandra/image/62118318 (Достъп на 2008-12-27). Лиценз Creative Commons (Attribution, Noncommercial, Share Alike).
+* **Ил. lekt3307 (носач в Удайпур):** Източник на изображението: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, Достъп на 2008-12-27). Лиценз Creative Commons (Attribution, Noncommercial, No Derivative Works).
+* **Ил. lekt3305 (Самади йодини, Каверипаккам):** Източник на изображението: Quadell / Wikipedia (GNU FDL).
+* **Ил. lekt3304 (носач за страх, Мумбай):** Източник на изображението: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, Достъп на 2008-12-26). Лиценз Creative Commons (Attribution).
+* **Ил. lekt3303 (Хинаяна Тайланд):** Източник на изображението: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Достъп на 2008-12-26). Лиценз Creative Commons (Attribution, Noncommercial).
+* **Ил. lekt3302 (Яджна, Шив Ашрам, Ганешпури):** Източник на изображението: Dey (http://www.flickr.com/photos/dey/466758922/, Достъп на 2008-12-26). Лиценз Creative Commons (Attribution, Noncommercial, Share Alike).
+* **Ил. lekt3308 (носач за жени, Делхи):** Източник на изображението: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Достъп на 2008-12-27). Лиценз Creative Commons (Attribution, Noncommercial, No Derivative Works).
 :::
+

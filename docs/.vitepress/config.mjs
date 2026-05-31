@@ -1,11 +1,27 @@
 import { defineConfig } from 'vitepress'
+// ── v1.2 languages ────────────────────────────────────────────────────────────
 import { de } from './locales/de.mjs'
 import { en } from './locales/en.mjs'
+import { fr } from './locales/fr.mjs'
 import { it } from './locales/it.mjs'
-import { es } from './locales/es.mjs'
 import { bg } from './locales/bg.mjs'
 import { ru } from './locales/ru.mjs'
 import { uk } from './locales/uk.mjs'
+import { hi } from './locales/hi.mjs'
+// ── hidden (planned for later versions) ───────────────────────────────────────
+// import { es } from './locales/es.mjs'
+// import { rm } from './locales/rm.mjs'
+// import { ta } from './locales/ta.mjs'
+// import { ar } from './locales/ar.mjs'
+// import { arc } from './locales/arc.mjs'
+// import { he } from './locales/he.mjs'
+// import { zh } from './locales/zh.mjs'
+// import { la } from './locales/la.mjs'
+// import { grc } from './locales/grc.mjs'
+// import { el } from './locales/el.mjs'
+// import { fa } from './locales/fa.mjs'
+// import { akk } from './locales/akk.mjs'
+// import { cop } from './locales/cop.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
 const container = require('markdown-it-container')
@@ -25,9 +41,9 @@ it.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lezione', 'it', 10
 it.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Scrittura', 'it')
 it.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Esercizio', 'it', 10)
 
-es.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lección', 'es', 10)
-es.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Escritura', 'es')
-es.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ejercicio', 'es', 10)
+// es.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lección', 'es', 10)
+// es.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Escritura', 'es')
+// es.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ejercicio', 'es', 10)
 
 bg.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Урок', 'bg', 10)
 bg.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Писмо', 'bg')
@@ -41,6 +57,51 @@ uk.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Лекція', 'uk
 uk.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Письмо', 'uk')
 uk.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Вправа', 'uk', 10)
 
+hi.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'पाठ', 'hi', 10)
+hi.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'लिपि', 'hi')
+hi.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'अभ्यास', 'hi', 10)
+
+fr.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Leçon', 'fr', 10)
+fr.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Écriture', 'fr')
+fr.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Exercice', 'fr', 10)
+
+// rm.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lecziun', 'rm', 10)
+// rm.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Scrittira', 'rm')
+// rm.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Exercizi', 'rm', 10)
+// ta.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'பாடம்', 'ta', 10)
+// ta.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'எழுத்து', 'ta')
+// ta.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'பயிற்சி', 'ta', 10)
+// ar.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'الدرس', 'ar', 10)
+// ar.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'الكتابة', 'ar')
+// ar.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'التمرين', 'ar', 10)
+// arc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'ܡܠܦܢܘܬܐ', 'arc', 10)
+// arc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'ܟܬܒܬܐ', 'arc')
+// arc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'ܬܪܓܘܡܐ', 'arc', 10)
+// he.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'שיעור', 'he', 10)
+// he.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'כתב', 'he')
+// he.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'תרגיל', 'he', 10)
+// zh.themeConfig.sidebar[3].items = getSidebarItems('lektion', '第', 'zh', 10)
+// zh.themeConfig.sidebar[4].items = getSidebarItems('schrift', '书写', 'zh')
+// zh.themeConfig.sidebar[5].items = getSidebarItems('uebung', '练习', 'zh', 10)
+// la.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lectio', 'la', 10)
+// la.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Scriptura', 'la')
+// la.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Exercitatio', 'la', 10)
+// grc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Μάθημα', 'grc', 10)
+// grc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'grc')
+// grc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ἄσκησις', 'grc', 10)
+// el.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Μάθημα', 'el', 10)
+// el.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'el')
+// el.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Άσκηση', 'el', 10)
+// fa.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'درس', 'fa', 10)
+// fa.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'خط', 'fa')
+// fa.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'تمرین', 'fa', 10)
+// akk.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Ṭupšarru', 'akk', 10)
+// akk.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Šiṭru', 'akk')
+// akk.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Birku', 'akk', 10)
+// cop.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'ⲙⲁⲑⲏⲙⲁ', 'cop', 10)
+// cop.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'ⲥϧⲁⲓ', 'cop')
+// cop.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'ⲙⲉⲗⲉⲧⲏ', 'cop', 10)
+
 export default defineConfig({
   title: "Sanskritkurs",
   description: "Grammatik Lehrbuch von Alois Payer",
@@ -50,19 +111,36 @@ export default defineConfig({
   cleanUrls: true,
 
   locales: {
+    // ── v1.2 languages ──────────────────────────────────────────────────────────
     root: { ...de },
     en: { ...en },
     it: { ...it },
-    es: { ...es },
     bg: { ...bg },
     ru: { ...ru },
-    uk: { ...uk }
+    uk: { ...uk },
+    hi: { ...hi },
+    fr: { ...fr },
+    // ── hidden (planned for later versions) ─────────────────────────────────────
+    // es: { ...es },
+    // rm: { ...rm },
+    // ta: { ...ta },
+    // ar: { ...ar },
+    // arc: { ...arc },
+    // he: { ...he },
+    // zh: { ...zh },
+    // la: { ...la },
+    // grc: { ...grc },
+    // el: { ...el },
+    // fa: { ...fa },
+    // akk: { ...akk },
+    // cop: { ...cop },
   },
   
   themeConfig: {
     search: { 
       provider: 'local', 
-      options: { 
+      options: {
+        detailedView: true,
         miniSearch: {
           options: {
             processTerm: function(term) {
@@ -78,15 +156,48 @@ export default defineConfig({
               }
               return n;
             }
+          },
+          searchOptions: {
+            fuzzy: false,
+            prefix: function(term) { return term.length >= 4; },
+            boost: { title: 5, text: 1, titles: 3 },
+            filter: function(result) {
+              const ACTIVE = ['en','it','bg','ru','uk','hi','fr'];
+              const seg = (typeof window !== 'undefined' ? window.location.pathname : '/').split('/').filter(Boolean)[0] || '';
+              if (ACTIVE.includes(seg)) {
+                // Sprachseite: nur Ergebnisse dieser Sprache
+                return result.id.startsWith('/' + seg + '/');
+              }
+              // Root/DE: nur Seiten ohne Sprachpräfix (kein /xx/ am Anfang)
+              return !result.id.match(/^\/[a-z]{2,3}\//);
+            }
           }
         },
-        locales: { 
+        locales: {
+          // ── v1.2 languages ────────────────────────────────────────────────────
           root: { translations: { button: { buttonText: 'Suchen' } } },
           en: { translations: { button: { buttonText: 'Search' } } },
           it: { translations: { button: { buttonText: 'Cerca' } } },
-          es: { translations: { button: { buttonText: 'Buscar' } } },
-          bg: { translations: { button: { buttonText: 'Търсене' } } }
-        } 
+          bg: { translations: { button: { buttonText: 'Търсене' } } },
+          ru: { translations: { button: { buttonText: 'Поиск' } } },
+          uk: { translations: { button: { buttonText: 'Пошук' } } },
+          hi: { translations: { button: { buttonText: 'खोज' } } },
+          fr: { translations: { button: { buttonText: 'Rechercher' } } },
+          // ── hidden (planned for later versions) ───────────────────────────────
+          // es: { translations: { button: { buttonText: 'Buscar' } } },
+          // rm: { translations: { button: { buttonText: 'Tschertgar' } } },
+          // ta: { translations: { button: { buttonText: 'தேடு' } } },
+          // ar: { translations: { button: { buttonText: 'بحث' } } },
+          // arc: { translations: { button: { buttonText: 'ܒܥܬܐ' } } },
+          // he: { translations: { button: { buttonText: 'חיפוש' } } },
+          // zh: { translations: { button: { buttonText: '搜索' } } },
+          // la: { translations: { button: { buttonText: 'Quaerere' } } },
+          // grc: { translations: { button: { buttonText: 'Ζητεῖν' } } },
+          // el: { translations: { button: { buttonText: 'Αναζήτηση' } } },
+          // fa: { translations: { button: { buttonText: 'جستجو' } } },
+          // akk: { translations: { button: { buttonText: 'Šâlu' } } },
+          // cop: { translations: { button: { buttonText: 'ϣⲓⲛⲓ' } } },
+        }
       }
     }
   },
@@ -244,6 +355,7 @@ export default defineConfig({
       
       // Auto-styling for Devanagari characters and [[br]] replacement
       md.core.ruler.after('linkify', 'scholarly_fixes', (state) => {
+        const isHindiPage = state.env?.relativePath?.startsWith('hi/');
         state.tokens.forEach(token => {
           if (token.type === 'inline') {
             let newChildren = [];
@@ -256,18 +368,27 @@ export default defineConfig({
                 }
 
                 segments.forEach((segment, index) => {
-                  // 1. Process Devanagari and [[indent]] in this segment
-                  const parts = segment.split(/([\u0900-\u097F]+|\[\[indent\]\])/g);
+                  // 1. Process Devanagari (\u27EAmarked\u27EB = Sanskrit, bare = locale-dependent) and [[indent]]
+                  const parts = segment.split(/(\u27EA[\u0900-\u097F]+\u27EB|[\u0900-\u097F]+|\[\[indent\]\])/g);
                   parts.forEach(part => {
-                    if (/[\u0900-\u097F]/.test(part)) {
+                    if (part.startsWith('\u27EA') && part.endsWith('\u27EB')) {
+                      // Explicitly marked Sanskrit \u2014 always red, strip \u27EA\u27EB wrappers
                       const span = new state.Token('span_open', 'span', 1);
                       span.attrs = [['class', 'sanskrit-dev']];
                       newChildren.push(span);
-                      
+                      const text = new state.Token('text', '', 0);
+                      text.content = part.slice(1, -1);
+                      newChildren.push(text);
+                      newChildren.push(new state.Token('span_close', 'span', -1));
+                    } else if (/[\u0900-\u097F]/.test(part)) {
+                      const span = new state.Token('span_open', 'span', 1);
+                      span.attrs = [['class', isHindiPage ? 'hindi-dev' : 'sanskrit-dev']];
+                      newChildren.push(span);
+
                       const text = new state.Token('text', '', 0);
                       text.content = part;
                       newChildren.push(text);
-                      
+
                       newChildren.push(new state.Token('span_close', 'span', -1));
                     } else if (part === '[[indent]]') {
                       const span = new state.Token('span_open', 'span', 1);

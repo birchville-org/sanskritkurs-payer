@@ -1,114 +1,124 @@
 ---
+title: Lesson 4
+subtitle: "Interrogative and demonstrative pronouns in the nominative"
 lesson_id: 4
 last_reconstructed: 2026-05-07
+category: "Grammar"
+status: stable
 ---
 
-# Lektion 4
+# Lesson 4
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Fragepronomina und Demonstrativpronomina im Nominative <!-- TODO: Fallback translation -->
-- Sandhi von auslautendem -m <!-- TODO: Fallback translation -->
-- Sandhi von auslautendem -e <!-- TODO: Fallback translation -->
-- Sandhi von auslautendem -d <!-- TODO: Fallback translation -->
-- Einfache Frageformeln <!-- TODO: Fallback translation -->
+**In this lesson you will learn:**
+- Interrogative and demonstrative pronouns in the nominative case
+- Sandhi of final -m
+- Sandhi of final -e
+- Sandhi of final -d
+- Simple question formulas
 :::
 
-## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
+## 4.1. Simple Complement Questions (Word Questions) and Answers
 
-### 4.1.1. Fragepronomina und Demonstrativpronomina
+### 4.1.1. Interrogative and Demonstrative Pronouns
 
-#### 4.1.1.1. Fragepronomen (praśnārthakasarvanāma n. = प्रश्नार्थकसर्वनामन्) <!-- TODO: Fallback translation -->
+#### 4.1.1.1. Interrogative Pronouns (praśnārthakasarvanāma n. = प्रश्नार्थकसर्वनामन्)
 
 ::: grammar-box
 | | Nominative singular | Nominative plural |
 | :--- | :--- | :--- |
-| **Neutrum** | **kim = किम्** | **kāni = कानि** |
-| **Maskulinum** | **kas = कस्** | **ke = के** |
-| **Feminimum** | **kā = का** | **kās = कास्** |
+| **Neuter** | **kim = किम्** | **kāni = कानि** |
+| **Masculine** | **kas = कस्** | **ke = के** |
+| **Feminine** | **kā = का** | **kās = कास्** |
 :::
 
-#### 4.1.1.2. Demonstrativpronomina (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि) <!-- TODO: Fallback translation -->
+
+#### 4.1.1.2. Demonstrative Pronouns (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि)
 
 ::: grammar-box
-| | **tad = तद्[[br]]"er, sie, es; der, die, das"[[br]](Erwähnte)** | **etad = एतद्[[br]]"dieser, diese, dieses"[[br]](dem Sprechenden sehr Nahe)** | **idam = इदम्[[br]]"dieser, diese, dieses"[[br]](Nahe)** |
+| **Stems** ||||
 | :--- | :---: | :---: | :---: |
-| | **Stämme** | | |
-| | **NOMINATIV SINGULAR** | | |
-| **Neutrum** | **tad = तद्** | **etad = एतद्** | **idam = इदम्** |
-| **Maskulinum** | **sa, so saḥ = स सो सः** | **eṣa, eṣo, eṣaḥ = एष एषो एषः** | **ayam = अयम्** |
-| **Femininum** | **sā = सा** | **eṣā = एषा** | **iyam = इयम्** |
-| | **NOMINATIV PLURAL** | | |
-| **Neutrum** | **tāni = तानि** | **etāni = एतानि** | **imāni = इमानि** |
-| **Maskulinum** | **te = ते** | **ete = एते** | **ime = इमे** |
-| **Femininum** | **tās = तास्** | **etās = एतास्** | **imās इमास्** |
+| | **tad = तद्[[br]]"he, she, it; the, the, the"[[br]](Mentioned)** | **etad = एतद्[[br]]"this, this, this"[[br]](Very close to the speaker)** | **idam = इदम्[[br]]"this, this, this"[[br]](Close)** |
+| **Nominative singular** ||||
+| **Neuter** | **tad = तद्** | **etad = एतद्** | **idam = इदम्** |
+| **Masculine** | **sa, so saḥ = स सो सः** | **eṣa, eṣo, eṣaḥ = एष एषो एषः** | **ayam = अयम्** |
+| **Feminine** | **sā = सा** | **eṣā = एषा** | **iyam = इयम्** |
+| | | | |
+| **Nominative plural** ||||
+| **Neuter** | **tāni = तानि** | **etāni = एतानि** | **imāni = इमानि** |
+| **Masculine** | **te = ते** | **ete = एते** | **ime = इमे** |
+| **Feminine** | **tās = तास्** | **etās = एतास्** | **imās इमास्** |
 :::
 
-**Zum Nom. sg. mask.:** <!-- TODO: Fallback translation -->
-- **sa, eṣa** (स एष) steht vor allen Lauten außer kurzem **-a** <!-- TODO: Fallback translation -->
-- **so, eṣo** (सो एषो) steht vor **-a**, welches mit Avagraha elidiert (ausfällt) <!-- TODO: Fallback translation -->
-- **saḥ, eṣaḥ** (सः एषः) steht nur in Pausa (Satzende, Versende) <!-- TODO: Fallback translation -->
 
-Um mit diesen Pronomina (sarvanāman n.) Sätze bilden zu können, ist noch die Kenntnis folgender Sandhiregeln nötig: <!-- TODO: Fallback translation -->
+**Regarding Nom. sg. masc.:**
+- **sa, eṣa** (स एष) stands before all sounds except short **-a**
+- **so, eṣo** (सो एषो) stands before **-a**, which is elided (omitted) with Avagraha
+- **saḥ, eṣaḥ** (सः एषः) stands only in pause (end of sentence, end of verse)
 
-### 4.1.2. Sandhi von auslautendem -m
+In order to be able to form sentences with these pronouns (sarvanāman n.), knowledge of the following Sandhi rules is still necessary:
+
+### 4.1.2. Sandhi of final -m
 
 ::: grammar-box
-**Auslautendes -m wird vor Konsonanten durch Anusvāra (-ṃ) ersetzt. Am Satz- bzw. Versende und vor Vokalen bleibt -m erhalten.** <!-- TODO: Fallback translation -->
+**Final -m is replaced by Anusvāra (-ṃ) before consonants. At the end of a sentence or verse and before vowels, -m remains unchanged.**
 :::
 
-### 4.1.3. Sandhi von auslautendem -e
+### 4.1.3. Sandhi of final -e
 
 ::: grammar-box
-1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:** <!-- TODO: Fallback translation -->
-   z.B. ete + agnayas » ete 'gnayaḥ = एते ऽग्नयः "Diese Feuer" <!-- TODO: Fallback translation -->
+1. **before a- final -e remains unchanged: the initial a- elides with Avagraha:**
+   e.g. ete + agnayas » ete 'gnayaḥ = एते ऽग्नयः "These fires"
 
-2. **Vor anderen Vokalen als kurzem a- wird -e gewöhnlich durch -a mit Hiatus ersetzt. Auch die Ersetzung durch -ay kommt vor:** <!-- TODO: Fallback translation -->
-   z.B. ime + īśvarās » ima īśvarāḥ = इम ईश्वराः (selten: imay īśvarāh = इमयीश्वराः) "Diese HERREN" <!-- TODO: Fallback translation -->
+2. **Before vowels other than short a- final -e is usually replaced by -a with hiatus. Replacement by -ay also occurs:**
+   e.g. ime + īśvarās » ima īśvarāḥ = इम ईश्वराः (rare: imay īśvarāh = इमयीश्वराः) "These LORDS"
 :::
 
-### 4.1.4. Sandhi von auslautendem -d
+### 4.1.4. Sandhi of final -d
 
 ::: grammar-box
-**Auslautendes -d wird in Pausa sowie vor stimmlosen Gutturalen (k, kh) und Labialen (p, ph) durch -t ersetzt.** <!-- TODO: Fallback translation -->
+**Final -d is replaced by -t in pause as well as before voiceless gutturals (k, kh) and labials (p, ph).**
 
-Die Ersetzung vor anderen Konsonanten wird später besprochen. Vermeiden Sie vorläufig solche Lautzusammenstöße! <!-- TODO: Fallback translation -->
+The replacement before other consonants will be discussed later. Avoid such sound collisions for now!
 :::
 
-### 4.1.5. Frageformeln
+### 4.1.5. Question Formulas
 
-Mittels dieser Pronomina bildet man z.B. folgende Frageformeln: <!-- TODO: Fallback translation -->
+Using these pronouns, one forms, for example, the following question formulas:
 
-::: grammar-box
+:::: grammar-box
+::: no-header
 | | | | |
 | :--- | :--- | :--- | :--- |
-| **Singular** | **Neutrum** | tat kim? /kiṃ tat?[[br]]तत्किम्, किं तत्[[br]][[br]]etat kim? /kim etat?[[br]]एतत्किम्, किमेतत्[[br]][[br]]idaṃ kim? / kim idam[[br]]इदं किम्, किमिदम् | "Was ist das?" |
-| | **Maskulinum** | sa kaḥ? / kaḥ saḥ?[[br]]स कः, कः सः[[br]][[br]]eṣa kaḥ? / ka eṣaḥ[[br]]एष कः, क एषः[[br]][[br]]ayaṃ kaḥ? / ko 'yam?[[br]]अयं कः, को ऽयम् | "Wer ist das?"[[br]]"Was ist der?" |
-| | **Femininum** | sā kā? / kā sā?[[br]]सा का, का सा[[br]][[br]]eṣā kā? / kaiṣā? (= kā + eṣā)[[br]]एषा का, कैषा[[br]][[br]]iyaṃ kā? / keyam? (= kā + iyam)[[br]]इयं का, केयम् | "Wer ist das?"[[br]]"Wer ist die?" |
-| **Plural** | **Neutrum** | tāni kāni? / kāni tāni?[[br]]तानि कानि, कानि तानि[[br]][[br]]etāni kāni? / kāny etāni?[[br]]एतानि कानि, कान्येतानि[[br]][[br]]imāni kāni? / kānīmāni? (= kāni + imāni)[[br]]इमानि कानि, कानीमानि | |
-| | **Maskulinum** | te ke? / ke te?[[br]]ते के, के ते[[br]][[br]]ete ke? / ka ete?[[br]]एते के, क एते[[br]][[br]]ime ke? / ka ime?[[br]]इमे के, क इमे | |
-| | **Femininum** | tāḥ kāḥ? / kās tāḥ?[[br]]ताः काः, कास्ताः[[br]][[br]]etāḥ kāḥ? / kā etāḥ?[[br]]एताः काः, का एताः[[br]][[br]]imāḥ kāḥ? / kā imāḥ?[[br]]इमाः काः, का इमाः | |
+| **Singular** | **Neuter** | tat kim? / kiṃ tat?[[br]]तत्किम्, किं तत्[[br]][[br]]etat kim? / kim etat?[[br]]एतत्किम्, किमेतत्[[br]][[br]]idaṃ kim? / kim idam[[br]]इदं किम्, किमिदम् | "What is that?" |
+| | **Masculine** | sa kaḥ? / kaḥ saḥ?[[br]]स कः, कः सः[[br]][[br]]eṣa kaḥ? / ka eṣaḥ[[br]]एष कः, क एषः[[br]][[br]]ayaṃ kaḥ? / ko 'yam?[[br]]अयं कः, को ऽयम् | "Who is that?"[[br]]"What is he?" |
+| | **Feminine** | sā kā? / kā sā?[[br]]सा का, का सा[[br]][[br]]eṣā kā? / kaiṣā? (= kā + eṣā)[[br]]एषा का, कैषा[[br]][[br]]iyaṃ kā? / keyam? (= kā + iyam)[[br]]इयं का, केयम् | "Who is that?"[[br]]"Who is she?" |
+| **Plural** | **Neuter** | tāni kāni? / kāni tāni?[[br]]तानि कानि, कानि तानि[[br]][[br]]etāni kāni? / kāny etāni?[[br]]एतानि कानि, कान्येतानि[[br]][[br]]imāni kāni? / kānīmāni? (= kāni + imāni)[[br]]इमानि कानि, कानीमानि | |
+| | **Masculine** | te ke? / ke te?[[br]]ते के, के ते[[br]][[br]]ete ke? / ka ete?[[br]]एते के, क एते[[br]][[br]]ime ke? / ka ime?[[br]]इमे के, क इमे | |
+| | **Feminine** | tāḥ kāḥ? / kās tāḥ?[[br]]ताः काः, कास्ताः[[br]][[br]]etāḥ kāḥ? / kā etāḥ?[[br]]एताः काः, का एताः[[br]][[br]]imāḥ kāḥ? / kā imāḥ?[[br]]इमाः काः, का इमाः | |
 :::
+::::
 
-Ein Beispiel anderer Fragen: <!-- TODO: Fallback translation -->
 
-> viṣṇuḥ kaḥ? = विष्णुः कः Antwort: viṣṇur īśvaraḥ = विष्णुरीश्वरः. (Hier kann man im Nominalsatz das Subjekt z.B. an den Anfang stellen, um den Anschluss an die Frage zu betonen.) <!-- TODO: Fallback translation -->
+An example of other questions:
 
-ANMERKUNG: Die Antworten, die Sie mit Ihren bisherigen Sanskritkenntnissen auf solche Fragen geben können, entsprechen selbstverständlich noch nicht in jeder Hinsicht idiomatisch gutem Sanskrit. <!-- TODO: Fallback translation -->
+> viṣṇuḥ kaḥ? = विष्णुः कः Answer: viṣṇur īśvaraḥ = विष्णुरीश्वरः. (Here, one can place the subject, for example, at the beginning of the nominal sentence, to emphasize the connection to the question.)
+
+NOTE: The answers you can give to such questions with your current Sanskrit knowledge do not, of course, yet correspond in every respect to idiomatic good Sanskrit.
 
 ---
 
 ## 4.2. Exercise
 
-**A) Formulate oral questions using the following words according to the pattern *viṣṇuḥ kaḥ* (विष्णुः कः) and answer the questions in Sanskrit:**
+**A) Form questions orally using the following words according to the pattern viṣṇuḥ kaḥ (विष्णुः कः) and answer the questions in Sanskrit:**
 
-śruti, śiva, brāhmaṇa, dvija (Plural), indrāṇī, dhenu, tulādhara, kālidāsa
+śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa
 
 = श्रुति, शिव, ब्राह्मण, द्विज (बहुवचनम्), इन्द्राणी, धेनु, तुलाधर, कालिदास
 
-**B) Formulate questions for the following reading exercise according to the pattern *etat kim* (एतत्किम्) and answer the questions using the specified words and demonstrative pronouns, e.g., *eṣa bālaḥ* (एष बालः):**
+**B) Form questions for the following reading exercise according to the pattern etat kim (एतत्किम्) and answer the questions using the specified words and demonstrative pronouns, e.g. eṣa bālaḥ (एष बालः):**
 
 ::: media
 ![](/images/lekt0401.jpg)
-(Image source: [Details](/licenses#lekt0401))
+(Image source: [Details](/en/licenses#lekt0401))
 :::

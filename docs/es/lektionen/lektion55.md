@@ -90,12 +90,12 @@ Determinar y traducir por escrito las siguientes formas, y formar las correspond
 ::: media
 ![](/images/lekt5501.jpg)
 Fig.: अजीर्यमिति
-(Fuente de la imagen: [Detalles](/licenses#lekt5501))
+'Inâyat Khân en su lecho de muerte, esbozo para una miniatura de un manuscrito dedicado a Jahângîr = جهانگير, hacia 1618
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5501))
 :::
 
 ::: deleteme-box
 
-### Fuentes
 
 **lekt5501:** 'Inâyat Khân en su lecho de muerte, esbozo para una miniatura de un manuscrito dedicado a Jahângîr = جهانگير, hacia 1618 [Fuente de la imagen: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Acceso el 28-01-2009. De dominio público]
 

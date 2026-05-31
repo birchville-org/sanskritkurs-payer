@@ -175,7 +175,7 @@ Otro adverbio interrogativo es: क्व "¿dónde?"
 ::: media
 ![lekt3701.jpg](/images/lekt3701.jpg)
 Fig.: क्व
-(Fuente de la imagen: [Detalles](/licenses#lekt3701))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3701))
 :::
 
 :::: grammar-box
@@ -261,7 +261,7 @@ p. ej. यथाकामम् = कामो यथास्ति = "como es 
 ::: media
 ![lekt3702.jpg](/images/lekt3702.jpg)
 Fig.: यथाशक्ति
-(Fuente de la imagen: [Detalles](/licenses#lekt3702))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3702))
 :::
 
 ## 37.6. Sintaxis
@@ -281,7 +281,7 @@ p. ej. तूष्णीं बभूव «se hizo silencioso, guardó silencio
 ::: media
 ![lekt3703.jpg](/images/lekt3703.jpg)
 Fig.: तूष्णीं बभूवुः
-(Fuente de la imagen: [Detalles](/licenses#lekt3703))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3703))
 :::
 
 ## 37.7. Pronombres indefinidos
@@ -356,7 +356,7 @@ Ejemplos:
 ::: media
 ![lekt3704.jpg](/images/lekt3704.jpg)
 Fig.: किं बाला अधीयीरन्
-(Fuente de la imagen: [Detalles](/licenses#lekt3704))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3704))
 :::
 
 ### 37.8.2. Preguntas de oración
@@ -420,7 +420,7 @@ Nota: किम् puede significar además "¿qué?" y como partícula interrog
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Fig.: शाक्यमुनिः
-(Fuente de la imagen: [Detalles](/licenses#lekt3705))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3705))
 :::
 
 दिन n.: Día
@@ -430,7 +430,7 @@ Fig.: शाक्यमुनिः
 ::: media
 ![lekt3706.jpg](/images/lekt3706.jpg)
 Fig.: वृक्षः
-(Fuente de la imagen: [Detalles](/licenses/lekt3706))
+(Fuente de la imagen: [Detalles](/es/licenses/lekt3706))
 :::
 
 मुख n.: Boca, rostro, parte frontal, comienzo
@@ -468,7 +468,7 @@ Ejemplo: क आगच्छति (राम) । » राम आगच्छ�
 ::: media
 ![lekt3707.jpg](/images/lekt3707.jpg)
 Fig.: कृष्णः बलरामश्च
-(Fuente de la imagen: [Detalles](/licenses#lekt3707))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3707))
 :::
 
 क्व मर्तुं सज्जना इच्छन्ति ॥१३॥ (काशी = वाराणसी)
@@ -476,7 +476,7 @@ Fig.: कृष्णः बलरामश्च
 ::: media
 ![lekt3708.jpg](/images/lekt3708.jpg)
 Fig.: क्व मर्तुं सज्जना इच्छन्ति
-(Fuente de la imagen: [Detalles](/licenses#lekt3708))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3708))
 :::
 
 केषां धर्मो वेदाध्ययनम् ॥१४॥ (द्विज, द्विजाति, आर्य)
@@ -520,7 +520,7 @@ C) Traduzca las siguientes अव्ययीभाव (compostos indeclinables)
 ::: media
 ![lekt3709.jpg](/images/lekt3709.jpg)
 Fig.: अधिकेरलं वर्तन्ते
-(Fuente de la imagen: [Detalles](/licenses#lekt3709))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3709))
 :::
 
 3\. अनु "según, a lo largo de, hacia"
@@ -555,7 +555,7 @@ Fig.: अधिकेरलं वर्तन्ते
 ::: media
 ![lekt3710.jpg](/images/lekt3710.jpg)
 Fig.: आबालवृद्धं लंदननगरे ववृतिरे
-(Fuente de la imagen: [Detalles](/licenses#lekt3710))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3710))
 :::
 
 7\. उप "cerca de"
@@ -567,7 +567,7 @@ Fig.: आबालवृद्धं लंदननगरे ववृतिर
 ::: media
 ![lekt3711.jpg](/images/lekt3711.jpg)
 Fig.: उपवृक्षं सीदन्ति
-(Fuente de la imagen: [Detalles](/licenses#lekt3711))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3711))
 :::
 
 8\. यथा
@@ -584,7 +584,6 @@ Cuando un anciano fue a otro pueblo, se cansó en el camino. Entonces, para desc
 
 ::: deleteme-box
 
-### Fuentes
 
 - **Image lekt3701.jpg** (Fig.: क्व): [Fuente de la imagen: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Acceso el 2008-12-30. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
 - **Image lekt3702.jpg** (Fig.: यथाशक्ति): [Fuente de la imagen: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Acceso el 2008-12-30. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
@@ -596,5 +595,5 @@ Cuando un anciano fue a otro pueblo, se cansó en el camino. Entonces, para desc
 - **Image lekt3708.jpg** (Fig.: क्व मर्तुं सज्जना इच्छन्ति): काशी = वाराणसी [Fuente de la imagen: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Acceso el 2008-12-31. -- Licencia Creative Commons (Atribución)]
 - **Image lekt3709.jpg** (Fig.: अधिकेरलं वर्तन्ते): [Fuente de la imagen: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Acceso el 2008-12-31. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
 - **Image lekt3710.jpg** (Fig.: आबालवृद्धं लंदननगरे ववृतिरे): [Fuente de la imagen: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Acceso el 2008-12-31. -- Licencia Creative Commons (Atribución, No comercial, Compartir igual)]
-- **Image lekt3711.jpg** (Fig.: उपवृक्षं सीdन्ति): Delhi = दहली / دہلی [Fuente de la imagen: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Acceso el 2008-12-31. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
+- **Image lekt3711.jpg** (Fig.: उपवृक्षं सीदन्ति): Delhi = दहली / دہلی [Fuente de la imagen: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Acceso el 2008-12-31. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
 :::

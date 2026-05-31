@@ -1,140 +1,148 @@
 ---
+title: Урок 10
+subtitle: "Страдателен залог (инструментален падеж на агента)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
---- &lt;!-- TODO: Fallback translation --&gt;
+category: "Граматика"
+status: stable
+---
 
-# Lektion 10
+# Урок 10
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- Den Passivsatz (Инструменталис des Agens) &lt;!-- TODO: Fallback translation --&gt;
-- Die Deklination des Инструменталис (tṛtīyā) &lt;!-- TODO: Fallback translation --&gt;
-- Das Cerebralisationsgesetz für -n- (Wortsandhi) &lt;!-- TODO: Fallback translation --&gt;
-- Die Образоване des Passivs (yak) im Indikativ Сегашно време &lt;!-- TODO: Fallback translation --&gt;
-- Vokabular zu Opfer, Wahrheit und gesellschaftlichen Rollen &lt;!-- TODO: Fallback translation --&gt;
+**В този урок ще научите:**
+- Страдателното изречение (Инструментал на агенса)
+- Склонението на инструментала (tṛtīyā)
+- Закона за церебрализация на -n- (Сандхи на думите)
+- Образуванието на страдателното наклонение (yak) в Indicativ Präsens
+- Речник за жертвоприношение, истина и социални роли
 :::
 
-## 10.1. Der Passivsatz
+## 10.1. Страдателното изречение
 
 ::: grammar-box
-**Schema:**
-**(Agens - kartṛ - im Instrumentalis (tṛtīyā)) - (direktes Objekt - karman - im Nominativ) - passive Verbalform** &lt;!-- TODO: Fallback translation --&gt;
+**Схема:**
+**(Агент - kartṛ - в инструментал (tṛtīyā)) - (директен обект - karman - в номинатив) - страдателна глаголна форма**
 
-z.B. **brāhmaṇena deva ijyate** = ब्राह्मणेन देव इज्यते = "Ein Brahmane verehrt einen Gott mit einem Opfer" (wörtlich: "Ein Gott wird von einem Brahmanen mit einem Opfer verehrt.") &lt;!-- TODO: Fallback translation --&gt;
+напр. **brāhmaṇena deva ijyate** = ब्राह्मणेन देव इज्यते = „Брахман почита бог с жертвоприношение“ (буквално: „Бог е почитан от брахман с жертвоприношение.“)
 
-Dieser Satz ist **völlig (!) bedeutungsgleich** mit dem Satz:
-**brāhmaṇo devaṃ yajati / yajate** = ब्राह्मणो देवं यजति / यजते &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-::: grammar-box
-- Im Passivsatz steht der Agens (**kartṛ**) im **Инструменталис** (tṛtīyā f. "dritte Kasusendung"), das direkte Objekt (**karman** n.) im **Номинатив** (prathamā f.). &lt;!-- TODO: Fallback translation --&gt;
-- Passivsätze, in denen der Agens nicht bezeichnet wird, haben meist unpersönliche Bedeutung ("man"): &lt;!-- TODO: Fallback translation --&gt;
-  z.B. **ijyate** = इज्यते "Man opfert" (wörtlich: "es wird mit einem Opfer verehrt"). &lt;!-- TODO: Fallback translation --&gt;
+Това изречение е **напълно (!) еквивалентно по значение** на изречението:
+**brāhmaṇo devaṃ yajati / yajate** = ब्राह्मणो देवं यजति / यजते
 :::
 
 ::: grammar-box
-**Auch wenn der entsprechende aktive Satz einen Akkusativ (dvitīyā) des Zieles enthalten würde, kann dieser im Passivsatz in den Nominativ (prathamā) gesetzt werden:** &lt;!-- TODO: Fallback translation --&gt;
-
-Dem Aktivsatz **rāmo grāmaṃ gacchati** = रामो ग्रामं गच्छति = "Rāma geht ins Dorf." entsprechen die Passivsätze: &lt;!-- TODO: Fallback translation --&gt;
-- **rāmeṇa grāmaṃ gamyate** = रामेण ग्रामं गम्यते &lt;!-- TODO: Fallback translation --&gt;
-- alternativ: **rāmeṇa grāmo gamyate** = रामेण ग्रामो गम्यते &lt;!-- TODO: Fallback translation --&gt;
+- В страдателното изречение агентът (**kartṛ**) е в **инструтал** (tṛtīyā ж. „трета падежна форма“), а директният обект (**karman** м.) е в **номинатив** (prathamā ж.).
+- Страдателни изречения, в които агентът не е посочен, обикновено имат безличен смисъл („се“):
+  напр. **ijyate** = इज्यते „Жертвопринася се“ (буквално: „почита се с жертвоприношение“).
 :::
 
 ::: grammar-box
-**Intransitive Verben (Verben ohne direktes Objekt) haben häufig Passivkonstruktionen, bes. auch in höflichen Aufforderungen:** &lt;!-- TODO: Fallback translation --&gt;
-- **praviśyatām** = प्रविश्यताम् = "Man möge eintreten = Bitte treten Sie ein = Herein!" &lt;!-- TODO: Fallback translation --&gt;
-- **niṣadyatām** = निषद्यताम् = "Man möge sich setzen = Bitte setzen Sie sich = Bitte nehmen Sie Platz" &lt;!-- TODO: Fallback translation --&gt;
+**Дори ако съответното активно изречение би съдържало акузатив (dvitīyā) на целта, този може да бъде поставен в номинатив (prathamā) в страдателното изречение:**
+
+На активното изречение **rāmo grāmaṃ gacchati** = रामो ग्रामं गच्छति = „Рама отива в селото“ отговарят страдателните изречения:
+- **rāmeṇa grāmaṃ gamyate** = रामेण ग्रामं गम्यते
+- алтернативно: **rāmeṇa grāmo gamyate** = रामेण ग्रामो गम्यते
 :::
 
-Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch leichter bildbar als z.B. zahlreiche Präsensstämme. &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Непреминимите глаголи (глаголи без директен обект) често имат страдателни конструкции, особено в учтиви заповеди:**
+- **praviśyatām** = प्रविश्यताम् = „Може да влезе = Моля, влезте = Влезте!“
+- **niṣadyatām** = निषद्यताम् = „Може да седне = Моля, седнете = Моля, заемайте място“
+:::
+
+Санскритските страдателни конструкции са изключително чести: страдателното наистина е по-лесно за образуване от например много настоящи корени.
 
 ::: important
-**Sanskrit-Passivsätze dürfen im Allgemeinen im Deutschen nicht durch einen Passivsatz wiedergegeben werden, da das deutsche Passiv eine ganz andere stilistische Funktion hat.** &lt;!-- TODO: Fallback translation --&gt;
+**Санскритските страдателни изречения обикновено не трябва да се предават на немски чрез страдателно изречение, тъй като немското страдателно има напълно различна стилистична функция.**
 :::
 
 ---
 
-## 10.2. Der Инструменталис (tṛtīyā f. = तृतीया = "dritte Kasusendung")
+## 10.2. Инструменталът (tṛtīyā f. = तृतीया = "трета падежна окончание")
 
 ::: grammar-box
-**Die regulären Endungen des Instrumentalis (tṛtīyā):** &lt;!-- TODO: Fallback translation --&gt;
-- **Единствено число: -ā** &lt;!-- TODO: Fallback translation --&gt;
-- **Множествено число: -bhis** &lt;!-- TODO: Fallback translation --&gt;
+**Редовните окончания на инструментала (tṛtīyā):**
+- **Ед. число: -ā**
+- **Мн. число: -bhis**
 
-**Regelmäßige Bildungen:** &lt;!-- TODO: Fallback translation --&gt;
+**Редовни форми:**
 
-| | Инструменталис Единствено число[[br]]तृतीया एकवचन | Инструменталис Множествено число[[br]]तृतीया बहुवचन |
+| | Инструментал единствено число | Инструментал множествено число |
 | :--- | :--- | :--- |
-| **Feminina auf -i**:[[br]]śruti[[br]]श्रुति | **śruty-ā**[[br]]श्रुत्या | **śruti-bhis**[[br]]श्रुतिभिस् |
-| **Feminina auf -ī**:[[br]]devī[[br]]देवी | **devy-ā**[[br]]देव्या | **devī-bhis**[[br]]देवीभिस् |
-| **Feminina auf -u**:[[br]]dhenu[[br]]धेनु | **dhenv-ā**[[br]]धेन्वा | **dhenu-bhis**[[br]]धेनुभिस् |
+| **Женски род на -i**:[[br]]śruti[[br]]श्रुति | **śruty-ā**[[br]]श्रुत्या | **śruti-bhis**[[br]]श्रुतिभिस् |
+| **Женски род на -ī**:[[br]]devī[[br]]देवी | **devy-ā**[[br]]देव्या | **devī-bhis**[[br]]देवीभिस् |
+| **Женски род на -u**:[[br]]dhenu[[br]]धेनु | **dhenv-ā**[[br]]धेन्वा | **dhenu-bhis**[[br]]धेनुभिस् |
 
-**Unregelmäßige Bildungen (Singular):** &lt;!-- TODO: Fallback translation --&gt;
+**Нередовни форми (единствено число):**
 
-| | Инструменталис Единствено число[[br]]तृतीया एकवचन | Инструменталис Множествено число[[br]]तृतीया बहुवचन |
+| | Инструментал единствено число | Инструментал множествено число |
 | :--- | :--- | :--- |
-| **Maskulina auf -i**:[[br]]kavi[[br]]कवि | **kavi-n-ā**[[br]]कविना | **kavi-bhis**[[br]]कविभिस् |
-| **Maskulina auf -u**:[[br]]paśu[[br]]पशु | **paśu-n-ā**[[br]]पशुना | **paśu-bhis**[[br]]पशुभिस् |
-| **Feminina auf -ā**:[[br]]devatā[[br]]देवता | **devat-ay-ā**[[br]]देवतया | **devatā-bhis**[[br]]देवताभिस् |
+| **Мъжки род на -i**:[[br]]kavi[[br]]कवि | **kavi-n-ā**[[br]]कविना | **kavi-bhis**[[br]]कविभिस् |
+| **Мъжки род на -u**:[[br]]paśu[[br]]पशु | **paśu-n-ā**[[br]]पशुना | **paśu-bhis**[[br]]पशुभिस् |
+| **Женски род на -ā**:[[br]]devatā[[br]]देवता | **devat-ay-ā**[[br]]देवतया | **devatā-bhis**[[br]]देवताभिस् |
 
-**Maskulina und Neutra auf -a (unregelmäßig in Singular und Plural):** &lt;!-- TODO: Fallback translation --&gt;
+**Мъжки и среден род на -a (нередовни в единствено и множествено число):**
 
-| | Инструменталис Единствено число[[br]]तृतीया एकवचन | Инструменталис Множествено число[[br]]तृतीया बहुवचन |
+| | Инструментал единствено число | Инструментал множествено число |
 | :--- | :--- | :--- |
-| **Maskulina auf -a**:[[br]]deva[[br]]देव | **devena**[[br]]देवेन | **devais**[[br]]देवैस् |
-| **Neutra auf -a**:[[br]]phala[[br]]फल | **phalena**[[br]]फलेन | **phalais**[[br]]फलैस् |
+| **Мъжки род на -a**:[[br]]deva[[br]]देव | **devena**[[br]]देवेन | **devais**[[br]]देवैस् |
+| **Среден род на -a**:[[br]]phala[[br]]फल | **phalena**[[br]]फलेन | **phalais**[[br]]फलैस् |
 
-**Fragepronomen kim:** &lt;!-- TODO: Fallback translation --&gt;
+**Въпросително местоимение kim:**
 
-| | Инструменталис Единствено число[[br]]तृतीया एकवचन | Инструменталис Множествено число[[br]]तृतीया बहुवचन |
+| | Инструментал единствено число | Инструментал множествено число |
 | :--- | :--- | :--- |
 | **Мъжки род / Среден род** | **kena**[[br]]केन | **kais**[[br]]कैस् |
-| **Femininum** | **kayā**[[br]]कया | **kābhis**[[br]]काभिस् |
+| **Женски род** | **kayā**[[br]]कया | **kābhis**[[br]]काभिस् |
 
-**Demonstrativpronomina:** &lt;!-- TODO: Fallback translation --&gt;
+**Указателни местоимения:**
 
-| Pronomen | Genus | Инструменталис Единствено число[[br]]तृतीया एकवचन | Инструменталис Множествено число[[br]]तृतीया बहुवचन |
+| Местоимение | Род | Инструментал единствено число | Инструментал множествено число |
 | :--- | :--- | :--- | :--- |
-| **tad**[[br]]"er, sie, es; der, die, das" (Erwähnte)[[br]]तद् | M/N | **tena**[[br]]तेन | **tais**[[br]]तैस् |
-| | F | **tayā**[[br]]तया | **tābhis**[[br]]ताभिस् |
-| **etad**[[br]]"dieser, diese, dieses" (dem Sprechenden sehr Nahe)[[br]]एतद् | M/N | **etena / enena**[[br]]एतेन / एनेन | **etais**[[br]]एतैस् |
-| | F | **etayā / enayā**[[br]]एतया / एनया | **etābhis**[[br]]एताभिस् |
-| **idam**[[br]]"dieser, diese, dieses" (Nahe)[[br]]इदम् | M/N | **anena / enena**[[br]]अनेन / एनेन | **ebhis**[[br]]एभिस् |
-| | F | **anayā / enayā**[[br]]अनया / एनया | **ābhis**[[br]]आभिस् |
+| **tad**[[br]]"той, тя, то; този, тази, това" (споменати)[[br]]तद् | М/С | **tena**[[br]]तेन | **tais**[[br]]तैस् |
+| | Ж | **tayā**[[br]]तया | **tābhis**[[br]]ताभिस् |
+| **etad**[[br]]"този, тази, това" (много близо до говорещия)[[br]]एतद् | М/С | **etena / enena**[[br]]एतेन / एनेन | **etais**[[br]]एतैस् |
+| | Ж | **etayā / enayā**[[br]]एतया / एनया | **etābhis**[[br]]एताभिस् |
+| **idam**[[br]]"този, тази, това" (близо)[[br]]इदम् | М/С | **anena / enena**[[br]]अनेन / एनेन | **ebhis**[[br]]एभिस् |
+| | Ж | **anayā / enayā**[[br]]अनया / एनया | **ābhis**[[br]]आभिस् |
 :::
 
 ::: deleteme-box
-Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepronomens und der Demonstrativpronomina mit den Formen des entsprechenden Maskulinums identisch. &lt;!-- TODO: Fallback translation --&gt;
+С изключение на именителния и винителен падеж, формите на среден род на -a, на въпросителното местоимение и на указателните местоимения са идентични с формите на съответния мъжки род.
 :::
 
 ---
 
-### 10.2.1. Zum Употреба des Инструменталис (tṛtīyā = तृतीया)
+### 10.2.1. За употреба на инструментала (tṛtīyā = तृतीया)
 
 ::: grammar-box
-**Die regulären Endungen des Instrumentalis (tṛtīyā):** &lt;!-- TODO: Fallback translation --&gt;
+**Инструменталът (tṛtīyā) се използва основно на въпросите:**
+- **С какво?**
+- **С каквото?**
+- **С кого?**
 
-**Единствено число: -ā** &lt;!-- TODO: Fallback translation --&gt;
-1. **Множествено число: -bhis** &lt;!-- TODO: Fallback translation --&gt;
-2. **Regelmäßige Bildungen:** &lt;!-- TODO: Fallback translation --&gt;
-3. | | Инструменталис Единствено число[[br]]तृतीया एकवचन | Инструменталис Множествено число[[br]]तृतीया बहुवचन |
-4. | :--- | :--- | :--- |
-5. | **Feminina auf -i**:[[br]]śruti[[br]]श्रुति | **śruty-ā**[[br]]श्रुत्या | **śruti-bhis**[[br]]श्रुतिभिस् |
-   - | **Feminina auf -ī**:[[br]]devī[[br]]देवी | **devy-ā**[[br]]देव्या | **devī-bhis**[[br]]देवीभिस् |
+**Той се използва**
+1. **в страдателни изречения: агент (kartṛ) в инструментал**
+2. **за посочване на средството или инструмента, с който се извършва нещо**
+3. **за посочване на пътя, по който някой стига до някъде**
+4. **за изразяване на връзка, обединение, придружение от**
+5. **при постпозиции в значението „заедно с, с“; напр. saha = सह = „с“**[[br]]напр.[[br]]**brāhmaṇena saha** = ब्राह्मणेन सह = „заедно с брахман“
 :::
+
+Останалите употреби на инструментала (tṛtīyā) следват по-късно.
 
 ---
 
-## 10.3. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
+## 10.3. Т.нар. закон за церебрализация на -n- (словосъединение)
 
 ::: grammar-box
-Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** ersetzt, wenn **ṛ, ṝ, r, ṣ** im Wort dem **-n-** vorausgehen oder kein anderer Laut als Vokale, Gutturale, Labiale, **y, v, h** oder Anusvāra zwischen diesen Lauten und dem folgenden **-n-** im Wort steht. &lt;!-- TODO: Fallback translation --&gt;
+**-n-**, следвано от гласна или **n, m, y, v**, се заменя с **-ṇ-**, ако **ṛ, ṝ, r, ṣ** предхождат **-n-** в думата, или ако между тези звуци и следващото **-n-** в думата няма друг звук, освен гласни, гърлени, устни, **y, v, h** или анусвара.
 :::
 
-**Deshalb:** &lt;!-- TODO: Fallback translation --&gt;
+**Затова:**
 
 ::: grammar-box
-| | Инструменталис Единствено число[[br]]तृतीया एकवचन |
+| | Единствено число, творителен падеж |
 | :--- | :--- |
 | **guru**[[br]]गुरु | **guruṇā**[[br]]गुरुणा |
 | **śūdra**[[br]]शूद्र | **śūdreṇa**[[br]]शूद्रेण |
@@ -143,247 +151,249 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 | **naraka**[[br]]नरक | **narakeṇa**[[br]]नरकेण |
 :::
 
-**So ist auch das -ṇ- zu erklären in:** &lt;!-- TODO: Fallback translation --&gt;
+**Също така -ṇ- се обяснява в:**
 
-> **śravaṇa** श्रवण &lt;!-- TODO: Fallback translation --&gt;
-&gt;&lt;!-- TODO: Fallback translation --&gt;
-> **śṛṇoti** शृणोति &lt;!-- TODO: Fallback translation --&gt;
-&gt;&lt;!-- TODO: Fallback translation --&gt;
-> **kāraṇa** कारण &lt;!-- TODO: Fallback translation --&gt;
-&gt;&lt;!-- TODO: Fallback translation --&gt;
-> **brāhmaṇa** ब्राह्मण &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+**śravaṇa** श्रवण
+
+**śṛṇoti** शृणोति
+
+**kāraṇa** कारण
+
+**brāhmaṇa** ब्राह्मण
+:::
+
 
 ---
 
-## 10.4. Das Passiv, Indikativ Сегашно време (yak = यक्)
+## 10.4. Страдателен залог, Наречие Настояще време (yak = यक्)
 
 ::: grammar-box
-**Bildung:**
-**(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung** &lt;!-- TODO: Fallback translation --&gt;
+**Образуване:**
+**(повечето случаи) корен в дълбока степен + -ya- + Ātmanepada-наставка**
+:::
 
-**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
+напр.
 
-| Корен[[br]]धातु | 3. sg. Pass. Präs. Indik.[[br]]यक् लट् | 3. pl. Pass. Präs. Indik.[[br]]यक् लट् |
+| Корен[[br]]धातु | 3. ед. ч. Страд. Наст. Нар.[[br]]यक् लट् | 3. мн. ч. Страд. Наст. Нар.[[br]]यक् लट् |
 | :--- | :--- | :--- |
-| **nī**[[br]]1 U[[br]](nayati) | **nīyate**[[br]](नीयते)[[br]]"er wird geführt" | **nīyante**[[br]](नीयन्ते) |
-| **man**[[br]]4 Ā[[br]](manyate) | **manyate**[[br]](मन्यते)[[br]]"er wird gedacht" | **manyante**[[br]](मन्यन्ते) |
-| **viś**[[br]]6 P[[br]](viśati) | **viśyate**[[br]](विश्यते)[[br]]"es wird betreten" | **viśyante**[[br]](विश्यन्ते) |
+| **nī**[[br]]1 U[[br]](nayati) | **nīyate**[[br]](नीयते)[[br]]"той бъде воден" | **nīyante**[[br]](नीयन्ते) |
+| **man**[[br]]4 Ā[[br]](manyate) | **manyate**[[br]](मन्यते)[[br]]"той бъде мислен" | **manyante**[[br]](मन्यन्ते) |
+| **viś**[[br]]6 P[[br]](viśati) | **viśyate**[[br]](विश्यते)[[br]]"то бъде влезено" | **viśyante**[[br]](विश्यन्ते) |
 
-::: note-box
-Bei Verben der 4. Präsensklasse haben das Ātmanepada und das Passiv identische Formen! Dies lässt sich nur aus der Satzkonstruktion erschließen. &lt;!-- TODO: Fallback translation --&gt;
-:::
+**Обърнете внимание, че при глаголи от 4-тия клас на настоящето време Ātmanepada и страдателният залог имат идентични форми! В този случай само от конструкцията на изречението може да се заключи дали става въпрос за Ātmanepada, или за страдателен залог.**
 
 ---
 
-### 10.4.1. Sonderregeln zur Образоване des Passiv
+### 10.4.1. Специални правила за образуване на страдателен залог
 
-::: grammar-box
-1. **Bildung:**
-**(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung** &lt;!-- TODO: Fallback translation --&gt;
-   * **Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
-   * | :--- | :--- | :--- |
-   * | **nī**[[br]]1 U[[br]](nayati) | **nīyate**[[br]](नीयते)[[br]]"er wird geführt" | **nīyante**[[br]](नीयन्ते) |
+1. **Корени на -i или -u удължават гласната си пред страдателния суфикс -ya-**:
+   * **ji** 1 Л: **jīyate**, **jīyante**[[br]]जीयते, जीयन्ते
+   * **śru** 5 Л: **śrūyate**, **śrūyante**[[br]]श्रूयते, श्रूयन्ते
+   * **su** 5 П: **sūyate**, **sūyante**[[br]]सूयते, सूयन्ते
 
-2. | **man**[[br]]4 Ā[[br]](manyate) | **manyate**[[br]](मन्यते)[[br]]"er wird gedacht" | **manyante**[[br]](मन्यन्ते) |
-   * | **viś**[[br]]6 P[[br]](viśati) | **viśyate**[[br]](विश्यते)[[br]]"es wird betreten" | **viśyante**[[br]](विश्यन्ते) |
+2. **Корени с -a- между съгласни** (с изключение на носови, y, r, v) остават на висока степен:
+   * **labh** 1 А: **labhyate**, **labhyante**[[br]]लभ्यते, लभ्यन्ते
 
-3. Bei Verben der 4. Präsensklasse haben das Ātmanepada und das Passiv identische Formen! Dies lässt sich nur aus der Satzkonstruktion erschließen. &lt;!-- TODO: Fallback translation --&gt;
-   * **āp** 5 P: **āpyate**, **āpyante**[[br]]आप्यते, आप्यन्ते <!-- TODO: Fallback translation -->
-   * **khād** 1 P: **khādyate**, **khādyante**[[br]]खाद्यते, खाद्यन्ते <!-- TODO: Fallback translation -->
-   * **smṛ** 1 P: **smaryate**, **smaryante**[[br]]स्मर्यते, स्मर्यन्ते <!-- TODO: Fallback translation -->
+3. **Някои корени образуват страдателен залог на висока степен** (или в степен на абхут на настоящия корен):
+   * **āp** 5 Л: **āpyate**, **āpyante**[[br]]आप्यते, आप्यन्ते
+   * **khād** 1 Л: **khādyate**, **khādyante**[[br]]खाद्यते, खाद्यन्ते
+   * **smṛ** 1 Л: **smaryate**, **smaryante**[[br]]स्मर्यते, स्मर्यन्ते
 
-4. **Tiefstufe von Verben, die mit ya, va, ra beginnen, bzw. bei denen diese Laute nach einem anderen Konsonanten stehen (Samprasāraṇa = सम्प्रसारण):** <!-- TODO: Fallback translation -->
+4. **Ниска степен на глаголи, започващи с ya, va, ra, или при които тези звуци следват след друга съгласна (Сампрашарана = सम्प्रसारण):**
 
-   | Корен[[br]]धातु | Tiefstufe[[br]]सम्प्रसारण | Passiv[[br]]यक् |
-   | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-   | **yaj** 1 U[[br]]यज् | \*yj &raquo; ij | **ijyate**[[br]]इज्यते[[br]]**ijyante**[[br]]इज्यन्ते | <!-- TODO: Fallback translation -->
-   | **vad** 1 P[[br]]वद् | \*vd &raquo; ud | **udyate**[[br]]उद्यते[[br]]**udyante**[[br]]उद्यन्ते | <!-- TODO: Fallback translation -->
-   | **prach** 6 P[[br]]प्रच्छ् | \*prcch &raquo; pṛcch | **pṛcchyate**[[br]]पृच्छ्यते[[br]]**pṛcchyante**[[br]]पृच्छ्यन्ते | <!-- TODO: Fallback translation -->
+   | Корен[[br]]धातु | Ниска степен[[br]]सम्प्रसारण | Страдателен залог[[br]]यक् |
+   | :--- | :--- | :--- |
+   | **yaj** 1 П[[br]]यज् | \*yj &raquo; ij | **ijyate**[[br]]इज्यते[[br]]**ijyante**[[br]]इज्यन्ते |
+   | **vad** 1 Л[[br]]वद् | \*vd &raquo; ud | **udyate**[[br]]उद्यते[[br]]**udyante**[[br]]उद्यन्ते |
+   | **prach** 6 Л[[br]]प्रच्छ् | \*prcch &raquo; pṛcch | **pṛcchyate**[[br]]पृच्छ्यते[[br]]**pṛcchyante**[[br]]पृच्छ्यन्ते |
 
-   Die traditionelle einheimische Bezeichnung für diese Bildung der Tiefstufe bei Verben mit **ya** bzw. **va** ist **Samprasāraṇa** (नपुंसकम् = सम्प्रसारण). <!-- TODO: Fallback translation -->
+   Традиционното местно название за този вид образуване на ниска степен при глаголи с **ya** или **va** е **Сампрашарана** (नपुंसकम् = सम्प्रसारण).
 
-5. **Auslautendes -ṛ** nach einem einzigen Konsonanten wird vor dem Passivsuffix **-ya-** durch **-ri-** ersetzt: <!-- TODO: Fallback translation -->
-   * **kṛ** 8 U: **kriyate**, **kriyante**[[br]]क्रियते, क्रियन्ते <!-- TODO: Fallback translation -->
-   * Aber: **smṛ** 1 P: **smaryate**[[br]]स्मर्यते <!-- TODO: Fallback translation -->
+5. **Изходното -ṛ** след единствена съгласна се заменя с **-ri-** пред страдателния суфикс **-ya-**:
+   * **kṛ** 8 П: **kriyate**, **kriyante**[[br]]क्रियते, क्रियन्ते
+   * Но: **smṛ** 1 Л: **smaryate**[[br]]स्मर्यते
 
-6. **Einige Коренn auf -an haben alternativ zwei Passivstamm-Образованеen:** <!-- TODO: Fallback translation -->
-   * eine **-an-ya** <!-- TODO: Fallback translation -->
-   * eine **-ā-ya-** (das lange **ā** ist ein Vertreter für einen hypothetischen langen Nasal) <!-- TODO: Fallback translation -->
+6. **Някои корени на -an имат алтернативно две форми за образуване на страдателен корен:**
+   * една **-an-ya**
+   * една **-ā-ya-** (дългото **ā** е представител на хипотетичен дълъг носов гласен)
 
-   z.B. **tan** 8 U. <!-- TODO: Fallback translation -->
-   * **tan-ya-te**, **tan-ya-nte**[[br]]तन्यते, तन्यन्ते <!-- TODO: Fallback translation -->
-   * **tā-ya-te**, **tā-ya-nte**[[br]]तायते, तायन्ते (aus \*tn-ya-nte) <!-- TODO: Fallback translation -->
-:::
+   напр. **tan** 8 П.
+   * **tan-ya-te**, **tan-ya-nte**[[br]]तन्यते, तन्यन्ते
+   * **tā-ya-te**, **tā-ya-nte**[[br]]तायते, तायन्ते (от \*tn-ya-nte)
 
 ---
 
 ## 10.5. Речник
 
-**Lernen Sie folgende Wörter:** &lt;!-- TODO: Fallback translation --&gt;
+**Запознайте се със следните думи:**
 
-- **gṛha** n. गृह : Haus &lt;!-- TODO: Fallback translation --&gt;
-- **grāma** m. ग्राम : Dorf &lt;!-- TODO: Fallback translation --&gt;
-- **nagara** n. नगर : Stadt &lt;!-- TODO: Fallback translation --&gt;
-
-  ::: note-box
-  Zum Stadt- und Dorfleben siehe Basham, *Wonder*, Kap. 6. &lt;!-- TODO: Fallback translation --&gt;
-  :::
-
-- **yajña** m. यज्ञ : Opfer &lt;!-- TODO: Fallback translation --&gt;
+- **gṛha** n. गृह : къща
+- **grāma** m. ग्राम : село
+- **nagara** n. नगर : град
 
   ::: note-box
-  Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit. &lt;!-- TODO: Fallback translation --&gt;
-
-  Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**. &lt;!-- TODO: Fallback translation --&gt;
+  За градския и селския живот вижте Basham, *Wonder*, гл. 6.
   :::
 
-- **puṇya** n. पुण्य : gutes Werk, Verdienst &lt;!-- TODO: Fallback translation --&gt;
+- **yajña** m. यज्ञ : жертвоприношение
 
   ::: note-box
-  Wodurch man sich Wohlergehen und gute Wiedergeburten verdient. &lt;!-- TODO: Fallback translation --&gt;
+  Жертвоприношението в Индия е преди всичко почитане на божеството като гост. По този начин се ангажирате с божеството.
+  
+  Образуване на думата: **yaj** 1 U + kṛt-суфикс **-na-**.
   :::
 
-- **pāpa** n. पाप : Übeltat, Böses (Gegensatz zu **puṇya**) &lt;!-- TODO: Fallback translation --&gt;
-- **satya** n. सत्य : Wahrheit &lt;!-- TODO: Fallback translation --&gt;
+- **puṇya** n. पुण्य : добро дело, заслуга
+
+  ::: note-box
+  Чрез което се заслужават благополучие и добри прераждания.
+  :::
+
+- **pāpa** n. पाप : злодеяние, зло (противоположност на **puṇya**)
+- **satya** n. सत्य : истина
 
 ::: note-box
-In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk: &lt;!-- TODO: Fallback translation --&gt;
+В Индия се е приписвала на истинската дума магическа сила, дори цялата световна система се поддържа и създава от истинската дума. За тази важна представа вижте основното произведение:
 
-Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764 &lt;!-- TODO: Fallback translation --&gt;
+Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Изд. от наследството от Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII стр., стр. 340 - 764
 :::
 
 ::: media
 ![](/images/lekt1003.jpg)
-Abb.: वरुणः
-(Bildquelle: [Details](/licenses#lekt1003)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: वरुणः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1003))
 :::
 
-- **anṛta** n. अनृत : Unwahrheit, Lüge (Gegensatz zu **satya**) &lt;!-- TODO: Fallback translation --&gt;
+
+- **anṛta** n. अनृत : неистина, лъжа (противоположност на **satya**)
 
   ::: note-box
-  Wortbildung **an-** („un-“) + **ṛta** n. &lt;!-- TODO: Fallback translation --&gt;
-
-  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou). &lt;!-- TODO: Fallback translation --&gt;
+  Образуване на думата **an-** („не-“) + **ṛta** n.
+  
+  **ṛta** е централно понятие във Ведите, чието превеждане е спорно: „истина” (Lüders, Thieme), „порядък” (Renou).
   :::
 
-- **ṛṣi** m. ऋषि : vedischer Weiser, Verfasser vedischer Lieder &lt;!-- TODO: Fallback translation --&gt;
+- **ṛṣi** m. ऋषि : ведически мъдрец, автор на ведически песни
 
   ::: note-box
-  Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (गोत्र) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5. &lt;!-- TODO: Fallback translation --&gt;
+  Имената на тези **ṛṣi**-и се споменават в Brāhmaṇas както и в собствени списъци към Ведите. Всички брахмани извеждат произхода си от такива **ṛṣi**-и, по чиито имена са наречени техните **gotra** (गोत्र). За понятието **gotra** вижте Basham, *Wonder*, гл. 5.
   :::
 
 ::: media
 ![](/images/lekt1002.jpg)
-Abb.: विश्वामित्रः
-(Bildquelle: [Details](/licenses#lekt1002)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: विश्वामित्रः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1002))
 :::
 
-- **vad** 1 P (vadati) वद् वदति : sagen, sprechen &lt;!-- TODO: Fallback translation --&gt;
-- **prach** 6 P (pṛcchati !) प्रच्छ् पृच्छति : fragen (jemanden: Akk.; nach etwas: Akk.) &lt;!-- TODO: Fallback translation --&gt;
-- **saha** सह : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Инструменталис) &lt;!-- TODO: Fallback translation --&gt;
+
+- **vad** 1 P (vadati) वद् वदति : казвам, говоря
+- **prach** 6 P (pṛcchati !) प्रच्छ् पृच्छति : питам (някого: Вин. п.; за нещо: Вин. п.)
+- **saha** सह : заедно с, заедно с (дори при „боря се с“ и т.н.) (постпозиция с инструментал)
 
 ---
 
 ## 10.6. Упражнение
 
-**A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform):** &lt;!-- TODO: Fallback translation --&gt;
+**А) Образувате страдателен залог (пасив) за следните глаголни форми (с превод на глаголната форма):**
 
-1. **sṛjati** (सृजति) &lt;!-- TODO: Fallback translation --&gt;
-2. **yudhyate** (युध्यते) &lt;!-- TODO: Fallback translation --&gt;
-3. **bhavanti** (भवन्ति) &lt;!-- TODO: Fallback translation --&gt;
-4. **yajati** (यजति) &lt;!-- TODO: Fallback translation --&gt;
-5. **nṛtyati** (नृत्यति) &lt;!-- TODO: Fallback translation --&gt;
-6. **nayanti** (नयन्ति) &lt;!-- TODO: Fallback translation --&gt;
-7. **smarati** (स्मरति) &lt;!-- TODO: Fallback translation --&gt;
-8. **śṛṇvanti** (शृण्वन्ति) &lt;!-- TODO: Fallback translation --&gt;
-9. **paśyati** (पश्यति) (Passiv wird von **dṛś** gebildet!) &lt;!-- TODO: Fallback translation --&gt;
-10. **jayanti** (जयन्ति) &lt;!-- TODO: Fallback translation --&gt;
-11. **kurvate** (कुर्वते) &lt;!-- TODO: Fallback translation --&gt;
-12. **āpnuvanti** (आप्नुवन्ति) &lt;!-- TODO: Fallback translation --&gt;
-13. **viśati** (विशति) &lt;!-- TODO: Fallback translation --&gt;
-14. **khādanti** (खादन्ति) &lt;!-- TODO: Fallback translation --&gt;
-15. **sunoti** (सुनोति) &lt;!-- TODO: Fallback translation --&gt;
-16. **gacchati** (गच्छति) &lt;!-- TODO: Fallback translation --&gt;
-17. **manyante** (मन्यन्ते) &lt;!-- TODO: Fallback translation --&gt;
-18. **labhante** (लभन्ते) &lt;!-- TODO: Fallback translation --&gt;
-19. **rakṣanti** (रक्षन्ति) &lt;!-- TODO: Fallback translation --&gt;
-20. **vadanti** (वदन्ति) &lt;!-- TODO: Fallback translation --&gt;
-21. **pṛcchanti** (पृच्छन्ति) &lt;!-- TODO: Fallback translation --&gt;
-22. **tanvanti** (तन्वन्ति) (2 Formen!) &lt;!-- TODO: Fallback translation --&gt;
+1. **sṛjati** (सृजति)
+2. **yudhyate** (युध्यते)
+3. **bhavanti** (भवन्ति)
+4. **yajati** (यजति)
+5. **nṛtyati** (नृत्यति)
+6. **nayanti** (नयन्ति)
+7. **smarati** (स्मरति)
+8. **śṛṇvanti** (शृण्वन्ति)
+9. **paśyati** (पश्यति) (Страдателният залог се образува от **dṛś**!)
+10. **jayanti** (जयन्ति)
+11. **kurvate** (कुर्वते)
+12. **āpnuvanti** (आप्नुवन्ति)
+13. **viśati** (विशति)
+14. **khādanti** (खादन्ति)
+15. **sunoti** (सुनोति)
+16. **gacchati** (गच्छति)
+17. **manyante** (मन्यन्ते)
+18. **labhante** (लभन्ते)
+19. **rakṣanti** (रक्षन्ति)
+20. **vadanti** (वदन्ति)
+21. **pṛcchanti** (पृच्छन्ति)
+22. **tanvanti** (तन्वन्ति) (2 форми!)
 
-**B) Bilden Sie den Instrumentalis Singular und Plural zu allen bisher gelernten Nomina.** &lt;!-- TODO: Fallback translation --&gt;
+**Б) Образувате инструментален единствен и множествен число за всички досегашни изучени съществителни имена.**
 
-**C) Setzen Sie folgende Sätze ins Passiv und übersetzen Sie sie:** &lt;!-- TODO: Fallback translation --&gt;
-1. **brāhmaṇo devīm yajati.** (ब्राह्मणो देवीं यजति) &lt;!-- TODO: Fallback translation --&gt;
-2. **sādhuḥ svargaṃ gacchati.** (साधुः स्वर्गं गच्छति) &lt;!-- TODO: Fallback translation --&gt;
-3. **śūdraṃ jayati.** (शूद्रं जयति) &lt;!-- TODO: Fallback translation --&gt;
-4. **guruḥ phalāni khādati.** (गुरुः फलानि खादति) &lt;!-- TODO: Fallback translation --&gt;
-5. **gurūñchṛṇoti.** (गुरूञ्छृणोति) &lt;!-- TODO: Fallback translation --&gt;
-6. **ko 'gniṃ paśyati.** (को ऽग्निं पश्यति) &lt;!-- TODO: Fallback translation --&gt;
-7. **ayaṃ kavirmantraṃ smarati.** (अयं कविर्मन्त्रं स्मरति) &lt;!-- TODO: Fallback translation --&gt;
-8. **iyaṃ devī kṣatriyā rakṣati.** (इयं देवी क्षत्रिया रक्षति) &lt;!-- TODO: Fallback translation --&gt;
-9. **kṣatriyā viṣṇuṃ yajante.** (क्षत्रिया विष्णुं यजन्ते) (2 Möglichkeiten) &lt;!-- TODO: Fallback translation --&gt;
-10. **brāhmaṇo 'gniṃ karoti.** (ब्राह्मणो ऽग्निं करोति) &lt;!-- TODO: Fallback translation --&gt;
-11. **vaiśyā imaṃ grāmaṃ gacchanti.** (वैश्या इमं ग्रामं गच्छन्ति) (2 Möglichkeiten) &lt;!-- TODO: Fallback translation --&gt;
-12. **ete gurūṃstu śṛṇvanti.** (एते गुरूंस्तु शृण्वन्ति) &lt;!-- TODO: Fallback translation --&gt;
-13. **sādhuḥ svargamāpnoti.** (साधुः स्वर्गमाप्नोति) &lt;!-- TODO: Fallback translation --&gt;
-14. **brāhmāṇāḥ somaṃ sunvanti.** (ब्राह्मणाः सोमं सुन्वन्ति) &lt;!-- TODO: Fallback translation --&gt;
-15. **paśūllabhate.** (पशूल्लभते) &lt;!-- TODO: Fallback translation --&gt;
-16. **ke yodhāḥ kṣatriyaiḥ saha yudhyante.** (के योधाः क्षत्रियैः सह युध्यन्ते) &lt;!-- TODO: Fallback translation --&gt;
+**В) Преведете следните изречения в страдателен залог и ги преведете:**
+1. **brāhmaṇo devīm yajati.** (ब्राह्मणो देवीं यजति)
+2. **sādhuḥ svargaṃ gacchati.** (साधुः स्वर्गं गच्छति)
+3. **śūdraṃ jayati.** (शूद्रं जयति)
+4. **guruḥ phalāni khādati.** (गुरुः फलानि खादति)
+5. **gurūñchṛṇoti.** (गुरूञ्छृणोति)
+6. **ko 'gniṃ paśyati.** (को ऽग्निं पश्यति)
+7. **ayaṃ kavirmantraṃ smarati.** (अयं कविर्मन्त्रं स्मरति)
+8. **iyaṃ devī kṣatriyā rakṣati.** (इयं देवी क्षत्रिया रक्षति)
+9. **kṣatriyā viṣṇuṃ yajante.** (क्षत्रिया विष्णुं यजन्ते) (2 възможности)
+10. **brāhmaṇo 'gniṃ karoti.** (ब्राह्मणो ऽग्निं करोति)
+11. **vaiśyā imaṃ grāmaṃ gacchanti.** (वैश्या इमं ग्रामं गच्छन्ति) (2 възможности)
+12. **ete gurūṃstu śṛṇvanti.** (एते गुरूंस्तु शृण्वन्ति)
+13. **sādhuḥ svargamāpnoti.** (साधुः स्वर्गमाप्नोति)
+14. **brāhmāṇāḥ somaṃ sunvanti.** (ब्राह्मणाः सोमं सुन्वन्ति)
+15. **paśūllabhate.** (पशूल्लभते)
+16. **ke yodhāḥ kṣatriyaiḥ saha yudhyante.** (के योधाः क्षत्रियैः सह युध्यन्ते)
 
-**D) Übersetzen Sie ins Sanskrit:** &lt;!-- TODO: Fallback translation --&gt;
-1. Ein Brahmane geht mit einem Vaiśya ins Dorf. &lt;!-- TODO: Fallback translation --&gt;
-2. Er verehrt Viṣṇu mit einem Opfer. (Opfer **yajña** ausdrücken!) &lt;!-- TODO: Fallback translation --&gt;
-3. Der Veda wird śruti genannt. (**vad**) &lt;!-- TODO: Fallback translation --&gt;
-4. Man spannt die Webkette auf. (2 Möglichkeiten) &lt;!-- TODO: Fallback translation --&gt;
+**Г) Преведете на санскрит:**
+1. Един брахман отива с един вайшя в селото.
+2. Той почита Вишну с жертвоприношение. (Изразете жертвоприношение **yajña**!)
+3. Ведата се нарича шрути. (**vad**)
+4. Натягва се тъкачният стан. (2 възможности)
 
 ::: media
 ![](/images/lekt1004.jpg)
-Abb.: तन्तुवायः
-(Bildquelle: [Details](/licenses#lekt1004)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: तन्तुवायः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1004))
 :::
 
-5. Lehrer fragen. (Passivkonstruktion) &lt;!-- TODO: Fallback translation --&gt;
-6. Das Auge führt. (Passivkonstruktion) &lt;!-- TODO: Fallback translation --&gt;
-7. Der Dichter sieht eine Gottheit. (Passivkonstruktion) &lt;!-- TODO: Fallback translation --&gt;
-8. Wer (fem.) hütet das Mädchen? (Passivkonstruktion) &lt;!-- TODO: Fallback translation --&gt;
-9. Der Kṣatriya verehrt den HERRN mit einem Opfer. (Passivkonstruktion, ohne das Wort **yajña** zu verwenden) &lt;!-- TODO: Fallback translation --&gt;
-10. Durch Freigebigkeit erreicht ein Anhänger des Buddha einen Himmel. &lt;!-- TODO: Fallback translation --&gt;
+
+5. Учителите питат. (Страдателна конструкция)
+6. Очите водят. (Страдателна конструкция)
+7. Поетът вижда божество. (Страдателна конструкция)
+8. Кой (женски род) пази момичето? (Страдателна конструкция)
+9. Кшатрият почита ГОСПОДА с жертвоприношение. (Страдателна конструкция, без да се използва думата **yajña**)
+10. Чрез щедрост един последовател на Буда постига небе.
 
 ---
 
 ## 10.7. Речник 2
 
-- **makṣikā** f. मक्षिका : Fliege, Biene &lt;!-- TODO: Fallback translation --&gt;
-- **vraṇa** m. व्रण : Wunde, Fehler, Schaden &lt;!-- TODO: Fallback translation --&gt;
-- **dhana** n. धन : Lohn, Geld, Reichtum, Besitz &lt;!-- TODO: Fallback translation --&gt;
-- **iṣ** 6 P (icchati) इष् इच्छति : wünschen &lt;!-- TODO: Fallback translation --&gt;
-- **pārthiva** m. पार्थिव : König &lt;!-- TODO: Fallback translation --&gt;
-- **nīca** 3 नीच : niedrig, tief &lt;!-- TODO: Fallback translation --&gt;
-- **kalaha** m. कलह : Streit, Zank &lt;!-- TODO: Fallback translation --&gt;
-- **śānti** f. शान्ति : Aufhören, Ruhe, Frieden &lt;!-- TODO: Fallback translation --&gt;
-- **śam** 4 P (śāmyati !) शम् शाम्यति : ruhig sein, ruhig werden &lt;!-- TODO: Fallback translation --&gt;
-- **nara** m. नर : Mann, Mensch &lt;!-- TODO: Fallback translation --&gt;
-- **lubh** 4 P (lubhyati) लुभ् लुभ्यति : begehren &lt;!-- TODO: Fallback translation --&gt;
-- **sūkta** 3 सूक्त : gut gesagt, schön gesprochen; n. Lied &lt;!-- TODO: Fallback translation --&gt;
-- **śiṣya** m. शिष्य : Schüler &lt;!-- TODO: Fallback translation --&gt;
-- **atra** अत्र : hier &lt;!-- TODO: Fallback translation --&gt;
-- **tatra** तत्र : dort &lt;!-- TODO: Fallback translation --&gt;
-- **bhānu** m. भानु : Glanz, Sonne &lt;!-- TODO: Fallback translation --&gt;
-- **vand** 1 Ā (vandate) वन्द् वन्दते : grüßen, ehren &lt;!-- TODO: Fallback translation --&gt;
-- **vṛṣ** 1 P (varṣati) वृष् वर्षति : regnen &lt;!-- TODO: Fallback translation --&gt;
-- **nṛpa** m. नृप : König, Fürst &lt;!-- TODO: Fallback translation --&gt;
-- **kṣīra** n. क्षीर : Milch &lt;!-- TODO: Fallback translation --&gt;
-- **mārga** m. मार्ग : Weg &lt;!-- TODO: Fallback translation --&gt;
-- **evam** एवम् : so &lt;!-- TODO: Fallback translation --&gt;
-- **iha** इह : hier &lt;!-- TODO: Fallback translation --&gt;
-- **śubh** 1 Ā (śobhate) शुभ् शोभते : schön sein, glänzen &lt;!-- TODO: Fallback translation --&gt;
+- **makṣikā** ж. मक्षिका : муха, пчела
+- **vraṇa** м. व्रण : рана, грешка, щета
+- **dhana** с. धन : възнаграждение, пари, богатство, собственост
+- **iṣ** 6 П (icchati) इष् इच्छति : желая
+- **pārthiva** м. पार्थिव : цар
+- **nīca** 3 नीच : нисък, дълбок
+- **kalaha** м. कलह : спор, препирня
+- **śānti** ж. शान्ति : прекратяване, покой, мир
+- **śam** 4 П (śāmyati !) शम् शाम्यति : да бъде спокоен, да се успокои
+- **nara** м. नर : мъж, човек
+- **lubh** 4 П (lubhyati) लुभ् लुभ्यति : жадувам
+- **sūkta** 3 सूक्त : добре казано, красиво изречено; с. песен
+- **śiṣya** м. शिष्य : ученик
+- **atra** अत्र : тук
+- **tatra** तत्र : там
+- **bhānu** м. भानु : блясък, слънце
+- **vand** 1 А (vandate) वन्द् वन्दते : поздравявам, почитам
+- **vṛṣ** 1 П (varṣati) वृष् वर्षति : дава дъжд
+- **nṛpa** м. नृप : цар, владетел
+- **kṣīra** с. क्षीर : мляко
+- **mārga** м. मार्ग : път
+- **evam** एवम् : така
+- **iha** इह : тук
+- **śubh** 1 А (śobhate) शुभ् शोभते : да бъде красив, да блести
 
 ---
 
-## 10.8. Lese- und Упражнение за превод
+## 10.8. Упражнение за четене и превод
 
-**Lesen und übersetzen Sie und setzen Sie ins Passiv:** &lt;!-- TODO: Fallback translation --&gt;
+**Прочетете и преведете, като преобразувате в страдателен залог:**
 
 **क**
 

@@ -1,6 +1,10 @@
 ---
+title: Lektion 21
+subtitle: "Weitere Präsensstämme auf -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 21
@@ -46,16 +50,18 @@ Beispiele:
 
 | | | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **यजन्**[[br]](aus yaja-nt-s) | **यजत्**[[br]](yaja-t-Ø) | **यजन्ती**[[br]](yaja-nt-ī) |
-| | **2. Akkusativ**[[br]]द्वितीया | **यजन्तम्**[[br]](yaja-nt-am) | **यजत्** | wie **devī**[[br]]देवी |
-| | **3. Instrumentalis**[[br]]तृतीया | **यजता**[[br]](yaja-t-ā) | **यजता** | |
-| | **6. Genetiv**[[br]]षष्ठी | **यजतस्**[[br]](yaja-t-as) | **यजतस्** | |
-| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **यजन्तस्**[[br]](yaja-nt-as) | **यजन्ति**[[br]](yaja-nt-i)[[br]](Beachten Sie den Gleichlaut mit der 3. pl. P.!) | |
-| | **2. Akkusativ**[[br]]द्वितीया | **यजतस्**[[br]](yaja-t-as) | **यजन्ति** | |
-| | **3. Instrumentalis**[[br]]तृतीया | **यजद्भिस्**[[br]](aus yaja-t-bhis) | **यजद्भिस्** | |
-| | **6. Genetiv**[[br]]षष्ठी | **यजताम्**[[br]](yaja-t-ām) | **यजताम्** | |
+| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **यजन्**[[br]]aus yaja-nt-s | **यजत्**[[br]]yaja-t-Ø | **यजन्ती**[[br]]yaja-ant-ī |
+| | **2. Akkusativ**[[br]]द्वितीया | **यजन्तम्**[[br]]yaja-nt-am | **यजत्** | wie **devī**[[br]]देवी |
+| | **3. Instrumentalis**[[br]]तृतीया | **यजता**[[br]]yaja-t-ā | **यजता** | |
+| | **6. Genetiv**[[br]]षष्ठी | **यजतस्**[[br]]yaja-t-as | **यजतस्** | |
+| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **यजन्तस्**[[br]]yaja-nt-as | **यजन्ति**[[br]]yaja-nt-i | |
+| | **2. Akkusativ**[[br]]द्वितीया | **यजतस्**[[br]]yaja-t-as | **यजन्ति** | |
+| | **3. Instrumentalis**[[br]]तृतीया | **यजद्भिस्**[[br]]aus yaja-t-bhis | **यजद्भिस्** | |
+| | **6. Genetiv**[[br]]षष्ठी | **यजताम्**[[br]]yaja-t-ām | **यजताम्** | |
 
 ::::
+
+Beachten Sie den Gleichlaut von **यजन्ति** (Nom. pl. Neutrum) mit der 3. pl. P.!
 
 4\. Präsensklasse
 
@@ -100,14 +106,14 @@ Beispiele:
 
 | | | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **सन्**[[br]](aus s-ant-s) | **सत्**[[br]](s-at-Ø) | **सती**[[br]](s-at-ī) |
-| | **2. Akkusativ**[[br]]द्वितीया | **सन्तम्**[[br]](s-ant-am) | **सत्** | wie **devī**[[br]]देवी |
-| | **3. Instrumentalis**[[br]]तृतीया | **सता**[[br]](s-at-ā) | **सता** | |
-| | **6. Genetiv**[[br]]षष्ठी | **सतस्**[[br]](s-at-as) | **सतस्** | |
-| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **सन्तस्**[[br]](s-ant-as) | **सन्ति**[[br]](s-ant-i) | |
-| | **2. Akkusativ**[[br]]द्वितीया | **सतस्**[[br]](s-at-as) | **सन्ति** | |
-| | **3. Instrumentalis**[[br]]तृतीया | **सद्भिस्**[[br]](aus s-at-bhis) | **सद्भिस्** | |
-| | **6. Genetiv**[[br]]षष्ठी | **सताम्**[[br]](s-at-ām) | **सताम्** | |
+| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **सन्**[[br]]aus s-ant-s | **सत्**[[br]]s-at-Ø | **सती**[[br]]s-at-ī |
+| | **2. Akkusativ**[[br]]द्वितीया | **सन्तम्**[[br]]s-ant-am | **सत्** | wie **devī**[[br]]देवी |
+| | **3. Instrumentalis**[[br]]तृतीया | **सता**[[br]]s-at-ā | **सता** | |
+| | **6. Genetiv**[[br]]षष्ठी | **सतस्**[[br]]s-at-as | **सतस्** | |
+| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **सन्तस्**[[br]]s-ant-as | **सन्ति**[[br]]s-ant-i | |
+| | **2. Akkusativ**[[br]]द्वितीया | **सतस्**[[br]]s-at-as | **सन्ति** | |
+| | **3. Instrumentalis**[[br]]तृतीया | **सद्भिस्**[[br]]aus s-at-bhis | **सद्भिस्** | |
+| | **6. Genetiv**[[br]]षष्ठी | **सताम्**[[br]]s-at-ām | **सताम्** | |
 
 ::::
 
@@ -118,6 +124,7 @@ Beispiele:
 ::: media
 ![](/images/lekt2101.jpg)
 Abb.: सती-Gedenkplatte
+सती-Gedenkplatte im Palast von Jodhpur - जोधपुर / Rajasthan - राजस्थान
 (Bildquelle: [Details](/licenses#lekt2101))
 :::
 
@@ -151,10 +158,10 @@ Abb.: सती-Gedenkplatte
 | | | |
 | :--- | :--- | :--- |
 | **Maskulinum, Neutrum** | | |
-| | **starker Stamm** | **mahānt-**[[br]]महान्त् |
-| | **schwacher Stamm** | **mahat-**[[br]]महत् |
+| | **starker Stamm** | **महान्त्** |
+| | **schwacher Stamm** | **महत्** |
 | **Femininum** | | |
-| | | **mahatī**[[br]]महती (wie **devī**[[br]]देवी) |
+| | | **महती**[[br]]wie **devī**[[br]]देवी |
 
 :::
 
@@ -164,14 +171,14 @@ Abb.: सती-Gedenkplatte
 
 | | | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **महान्**[[br]](aus mahānt-s) | **महत्**[[br]](mahat-Ø) | **महती**[[br]](mahat-ī) |
-| | **2. Akkusativ**[[br]]द्वितीया | **महान्तम्**[[br]](mahānt-am) | **महत्** | wie **devī**[[br]]देवी |
-| | **3. Instrumentalis**[[br]]तृतीया | **महता**[[br]](mahat-ā) | **महता** | |
-| | **6. Genetiv**[[br]]षष्ठी | **महतस्**[[br]](mahat-as) | **महतस्** | |
-| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **महान्तस्**[[br]](mahānt-as) | **महान्ति**[[br]](mahānt-i) | |
-| | **2. Akkusativ**[[br]]द्वितीया | **महतस्**[[br]](mahat-as) | **महान्ति** | |
-| | **3. Instrumentalis**[[br]]तृतीया | **महद्भिस्**[[br]](aus mahat-bhis) | **महद्भिस्** | |
-| | **6. Genetiv**[[br]]षष्ठी | **महताम्**[[br]](mahat-ām) | **महताम्** | |
+| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **महान्**[[br]]aus mahānt-s | **महत्**[[br]]mahat-Ø | **महती**[[br]]mahat-ī |
+| | **2. Akkusativ**[[br]]द्वितीया | **महान्तम्**[[br]]mahānt-am | **महत्** | wie **devī**[[br]]देवी |
+| | **3. Instrumentalis**[[br]]तृतीया | **महता**[[br]]mahat-ā | **महता** | |
+| | **6. Genetiv**[[br]]षष्ठी | **महतस्**[[br]]mahat-as | **महतस्** | |
+| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **महान्तस्**[[br]]mahānt-as | **महान्ति**[[br]]mahānt-i | |
+| | **2. Akkusativ**[[br]]द्वितीया | **महतस्**[[br]]mahat-as | **महान्ति** | |
+| | **3. Instrumentalis**[[br]]तृतीया | **महद्भिस्**[[br]]aus mahat-bhis | **महद्भिस्** | |
+| | **6. Genetiv**[[br]]षष्ठी | **महताम्**[[br]]mahat-ām | **महताम्** | |
 
 ::::
 
@@ -189,6 +196,7 @@ Abb.: सती-Gedenkplatte
 ::: media
 ![](/images/lekt2102.jpg)
 Abb.: महादेवो विष्णुः
+"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
 (Bildquelle: [Details](/licenses#lekt2102))
 :::
 
@@ -270,6 +278,7 @@ davon:
 ::: media
 ![](/images/lekt2103.jpg)
 Abb.: भगवान्कृष्णः
+भगवान्कृष्णः als जगन्नाथ (rechts) mit seiner Halbschwester सुभद्रा (Mitte) und seinem älteren Bruder बलराम, Orissa = ଓଡ଼ିଶा
 (Bildquelle: [Details](/licenses#lekt2103))
 :::
 
@@ -280,6 +289,7 @@ Abb.: भगवान्कृष्णः
 ::: media
 ![](/images/lekt2105.jpg)
 Abb.: भगवद्गीता
+भगवद्गीता - Manuskript, 19. Jhdt.
 (Bildquelle: [Details](/licenses#lekt2105))
 :::
 
@@ -296,6 +306,7 @@ davon:
 ::: media
 ![](/images/lekt2104.jpg)
 Abb.: भिक्षवः
+Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
 (Bildquelle: [Details](/licenses#lekt2104))
 :::
 
@@ -334,7 +345,6 @@ B) Übersetzen Sie:
 जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥६॥
 
 ::: deleteme-box
-### Quellen
 
 **lekt2101:** सती-Gedenkplatte im Palast von Jodhpur - जोधपुर / Rajasthan - राजस्थान [Bildquelle: Flicka / Wikipedia. GNU FDLicense]
 

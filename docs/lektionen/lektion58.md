@@ -1,6 +1,10 @@
 ---
+title: Lektion 58
+subtitle: "Die Primärendungen des Dual (द्विवचनम्)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 58
@@ -43,6 +47,7 @@ Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt.
 ::: media
 ![](/images/lekt5802.jpg)
 Abb.: नृत्यतः
+ओडिसी
 (Bildquelle: [Details](/licenses#lekt5802))
 :::
 
@@ -73,6 +78,7 @@ Abb.: नृत्यतः
 ::: media
 ![](/images/lekt5803.jpg)
 Abb.: वानरौ रथाद्भाण्डानि चोरयतः
+Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 (Bildquelle: [Details](/licenses#lekt5803))
 :::
 
@@ -232,6 +238,7 @@ Abb.: भगिन्यौ स्वः
 ::: media
 ![](/images/lekt5807.jpg)
 Abb.: शर्कराम्बु सुनुतः
+पुणेनगरे
 (Bildquelle: [Details](/licenses#lekt5807))
 :::
 
@@ -470,7 +477,6 @@ B) Übersetzen und bestimmen Sie folgende Formen:
 39.  अञ्ज्वः
 
 ::: deleteme-box
-### Quellen
 
 **lekt5802:** ओडिसी [Bildquelle: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)]
 

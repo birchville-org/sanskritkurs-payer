@@ -73,7 +73,6 @@ Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstel
 | | **2. Akkusativ**[[br]]**द्वितीया** | **yam**[[br]]**यम्** | **yad**[[br]]**यद्** | **yām**[[br]]**याम्** |
 | | **3. Instrumentalis**[[br]]**तृतीया** | **yena**[[br]]**येन** | **yena**[[br]]**येन** | **yayā**[[br]]**यया** |
 | | **6. Genetiv**[[br]]**षष्ठी** | **yasya**[[br]]**यस्य** | **yasya**[[br]]**यस्य** | **yasyās**[[br]]**यस्यास्** |
-| | | | | |
 | **Plural**[[br]]**बहुवचन** | **1. Nominativ**[[br]]**प्रथमा** | **ye**[[br]]**ये** | **yāni**[[br]]**यानि** | **yās**[[br]]**यास्** |
 | | **2. Akkusativ**[[br]]**द्वितीया** | **yān**[[br]]**यान्** | **yāni**[[br]]**यानि** | **yās**[[br]]**यास्** |
 | | **3. Instrumentalis**[[br]]**तृतीया** | **yais**[[br]]**यैस्** | **yais**[[br]]**यैस्** | **yābhis**[[br]]**याभिस्** |
@@ -100,6 +99,7 @@ Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstel
 ::: media
 ![](/images/lekt1809.jpg)
 Abb.: कामः
+Illustration zum कामसूत्र
 (Bildquelle: [Details](/licenses#lekt1809))
 :::
 
@@ -129,6 +129,7 @@ von **स्था** :
 ::: media
 ![](/images/lekt1901.jpg)
 Abb.: गर्भगृहम्
+Badami (ಬದಾಮಿ)
 (Bildquelle: [Details](/licenses#lekt1901))
 :::
 
@@ -138,6 +139,7 @@ Abb.: गर्भगृहम्
 ::: media
 ![](/images/lekt1902.jpg)
 Abb.: वारिदः
+Goa (गोंय)
 (Bildquelle: [Details](/licenses#lekt1902))
 :::
   
@@ -158,6 +160,7 @@ davon:
 ::: media
 ![](/images/lekt1904.jpg)
 Abb.: छत्त्रम्
+"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
 (Bildquelle: [Details](/licenses#lekt1904))
 :::
 
@@ -167,6 +170,7 @@ Abb.: छत्त्रम्
 ::: media
 ![](/images/lekt1903.jpg)
 Abb.: पण्डितः जवाहरलाल नेहरू
+१९५९
 (Bildquelle: [Details](/licenses#lekt1903))
 :::
 
@@ -246,7 +250,6 @@ Erklärung: यथाकालम् Avyayībhāvakompositum: zur rechten Zeit ;
 Erklärung: पुमान् Nom. sg. zu पुंस् "Mann" ; लोके Lokativ sg. zu लोक m.: in der ...
 
 ::: deleteme-box
-### Quellen
 
 **lekt1809:** Illustration zum कामसूत्र [Bildquelle: Wikipedia, Public domain]
 

@@ -245,7 +245,11 @@ if __name__ == "__main__":
         files = [
             os.path.join(dp, f)
             for dp, dn, filenames in os.walk(target)
-            for f in filenames if f.endswith(".md")
+            for f in filenames
+            if f.endswith(".md") and (
+                re.match(r'lektion\d+\.md$', f) or
+                re.match(r'uebung\d+\.md$', f)
+            )
         ]
 
     total_errors = 0

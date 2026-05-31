@@ -182,7 +182,7 @@ por ejemplo, वच् 1.sg.Ind.Prés **व***च्मि***
 ::: media
 ![lekt3901.jpg](/images/lekt3901.jpg)
 Fig.: सो ऽस्मि
-(Fuente de la imagen: [Detalles](/licenses#lekt3901))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3901))
 :::
 
 ### 39.4.2. Tercera clase de presente (जुहोत्यादि)

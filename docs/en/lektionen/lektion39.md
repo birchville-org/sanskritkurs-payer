@@ -1,19 +1,23 @@
 ---
+title: Lesson 39
+subtitle: "The personal endings of the first person (***तृतीयः*** पुरुषः = \"***third*** person\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 39
 
-## 39.1. The Personal Endings of the First Person (***तृतीयः*** puruṣaḥ = "***third*** person")
+## 39.1. The Personal Endings of the First Person (***तृतीयः*** पुरुषः = "***third*** Person")
 
-The endings of the first person (***तृतीयः*** puruṣaḥ = "***third*** person") are:
+The endings of the first person (***तृतीयः*** पुरुषः = "***third*** Person") are:
 
 :::: grammar-box
 
-| | **parasmaipadam** || **ātmnepadam** ||
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
-| | **ekavacanam** | **bahuvacanam** | **ekavacanam** | **bahuvacanam** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Primary endings thematic stems** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
 | **Primary endings athematic stems** | ^^ | ^^ | **-e** | ^^ |
 | **Secondary endings thematic stems** | **-m** | **-ma** | **-i** | **-mahi** |
@@ -22,13 +26,13 @@ The endings of the first person (***तृतीयः*** puruṣaḥ = "***thir
 | **Perfect ending** | **-a** | ^^ | **-e** | **-mahe** |
 
 ::::
-1 Note: Actually, the primary ending Ā of thematic stems should also be posited as -e, before which the thematic vowel -a- drops for reasons of analogy. However, the effect is as if the ending -i were added to the thematic vowel -a-: a + i » e.
+1 Note: actually, the primary ending Ā of thematic stems is also to be assumed as -e, before which the thematic vowel -a- falls away for reasons of analogy. However, the effect is as if the ending -i were to attach to the thematic vowel -a-: a + i » e.
 
-## 39.2. Formation of the First Person Verb Forms of Thematic Present Stems
+## 39.2. Formation of the verb forms of the first person thematic present stems
 
 ::: grammar-box
 **Rule:**
-**Before the endings -mi, -mas, -ma, -māhe, -mahi, the thematic vowel -a- is replaced by -ā- !!!**
+**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
 
 ### 39.2.1. First Present Class (भ्वादि)
@@ -37,12 +41,12 @@ The endings of the first person (***तृतीयः*** puruṣaḥ = "***thir
 
 :::: grammar-box
 
-| | **Parasmaipada** || **Ātmanepada** ||
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present - लट्** | **भवामि** | **भवामस्** | **\&lt;भवे\&gt;**[[br]]bhava + i[[br]]correct: bhav-e | **\&lt;भवामहे\&gt;** |
-| **Imperfect - लङ्** | **अभवम्** | **अभवाम** | **\&lt;अभवे\&gt;** | **\&lt;अभवामहि\&gt;** |
-| **Optative - विधिलिङ्** | **भवेयम्**[[br]]bhava + iy-am | **भवेम**[[br]]bhava + i-ma | **\&lt;भवेय\&gt;**[[br]]bhava + iy-a | **\&lt;भवेमहि\&gt;**[[br]]bhava + i-mahi |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present  - लट्** | **भवामि** | **भवामस्** | **&lt;भवे&gt;**[[br]]bhava + i[[br]]correct: bhav-e | **&lt;भवामहे&gt;** |
+| **Imperfect  - लङ्** | **अभवम्** | **अभवाम** | **&lt;अभवे&gt;** | **&lt;अभवामहि&gt;** |
+| **Optative  - विधिलिङ्** | **भवेयम्**[[br]]bhava + iy-am | **भवेम**[[br]]bhava + i-ma | **&lt;भवेय&gt;**[[br]]bhava + iy-a | **&lt;भवेमहि&gt;**[[br]]bhava + i-mahi |
 
 ::::
 
@@ -53,7 +57,7 @@ The endings of the first person (***तृतीयः*** puruṣaḥ = "***thir
 :::: grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicative Present - लट्** | **विशामि** | **विशामस्** | **&lt;विशे&gt;** | **&lt;विशामहे&gt;** |
 | **Imperfect - लङ्** | **अविशम्** | **अविशाम** | **&lt;अविशे&gt;** | **&lt;अविशामहि&gt;** |
@@ -67,12 +71,12 @@ The endings of the first person (***तृतीयः*** puruṣaḥ = "***thir
 
 :::: grammar-box
 
-| | **Parasmaipada** || **Ātmanepada** ||
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present - लट्** | **नृत्यामि** | **नृत्यामस्** | **&lt;नृत्ये&gt;** | **&lt;नृत्यामहे&gt;** |
-| **Imperfect - लङ्** | **अनृत्यम्** | **अनृत्याम** | **&lt;अनृत्ये&gt;** | **&lt;अनृत्यामहि&gt;** |
-| **Optative - विधिलिङ्** | **नृत्येयम्** | **नृत्येम** | **&lt;नृत्येय&gt;** | **&lt;नृत्येमहि&gt;** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present  - लट्** | **नृत्यामि** | **नृत्यामस्** | **&lt;नृत्ये&gt;** | **&lt;नृत्यामहे&gt;** |
+| **Imperfect  - लङ्** | **अनृत्यम्** | **अनृत्याम** | **&lt;अनृत्ये&gt;** | **&lt;अनृत्यामहि&gt;** |
+| **Optative  - विधिलिङ्** | **नृत्येयम्** | **नृत्येम** | **&lt;नृत्येय&gt;** | **&lt;नृत्येमहि&gt;** |
 
 ::::
 
@@ -97,7 +101,7 @@ The endings of the first person (***तृतीयः*** puruṣaḥ = "***thir
 
 :::: grammar-box
 
-| | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** |
 | :--- | :---: | :---: |
 | **Indicative Present  - लट्** | **ईक्ष्ये**[[br]]īkṣ-ya + i | **ईक्ष्यामहे** |
 | **Imperfect  - लङ्** | **ऐक्ष्ये**[[br]]a + īkṣ-ya + i | **ऐक्ष्यामहि** |
@@ -105,49 +109,49 @@ The endings of the first person (***तृतीयः*** puruṣaḥ = "***thir
 
 ::::
 
-## 39.3. Formation of the First Person Singular and Plural Forms of the Simple Future — लट्
+## 39.3. Formation of the verb forms of the first person of the simple future - ऌत्
 
 ::: grammar-box
-**The Future tense is thematically formed. Therefore, the rule for thematic stems applies:**
+**The future has thematic formation. Therefore, the rule for thematic stems also applies:**
 
-**Before the endings -mi, -mas, and -mahe, the thematic vowel -a- is replaced by -ā- !!!**
+**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
 
-### 39.3.1. Formation of Anit
+### 39.3.1. अनिट्-Formation
 
-da 3U
-
-:::: grammar-box
-
-| | **Parasmaipada** || **Ātmanepada** ||
-| :--- | :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Futur - luṭ** | **dāsyāmi**[[br]]dā-syā-mi | **dāsyāmas** | **dāsyé** | **dāsyāmahe** |
-
-::::
-
-### 39.3.2. Set-Formation
-
-bhū 1P
+दा 3U
 
 :::: grammar-box
 
-| | **Parasmaipada** || **Ātmanepada** ||
-| :--- | :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Futur - luṭ** | **bhaviṣyāmi**[[br]]bho + i + syā + mi | **bhaviṣyāmas** | **&lt;bhaviṣye&gt;** | **&lt;bhaviṣyāmah&gt;** |
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Future - ऌत्** | **दास्यामि**[[br]]dā-syā-mi | **दास्यामस्** | **दास्ये** | **दास्यामहे** |
 
 ::::
 
-## 39.4. Formation of the First Person Verb Forms of Athematic Present Stems
+### 39.3.2. Formation of सेट्
+
+भू 1st person singular
+
+:::: grammar-box
+
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Future - ऌत्** | **भविष्यामि**[[br]]bho + i + syā + mi | **भविष्यामस्** | **&lt;भविष्ये&gt;** | **&lt;भविष्यामहे&gt;** |
+
+::::
+
+## 39.4. Formation of the verb forms of the first person athematic present stems
 
 ::: grammar-box
-**Note that within the word—in contrast to sentence-level Sandhi—consonants generally remain unchanged before endings that begin with**
-* **a vowel**
-* **a semivowel**
-* **a nasal**
+**Note that within the word — in contrast to sentence sandhi — consonants generally remain unchanged before endings that begin with**
+* **Vowel**
+* **Semi-vowel**
+* **Nasal**
 
-**For example:** वच् 1.sg.Ind.Prés **व***च्मि***
+**e.g. वच् 1.sg.Ind.Pres. **व***च्मि***
 :::
 
 ### 39.4.1. Second Present Class (अदादि)
@@ -156,9 +160,9 @@ bhū 1P
 
 :::: grammar-box
 
-| | **Parasmaipada** || **Ātmanepada** ||
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicative Present  - लट्** | **द्वेष्मि** | **द्विष्मस्** | **द्विषे**[[br]]dviṣ-e | **द्विष्महे** |
 | **Imperfect  - लङ्** | **अद्वेषम्** | **अद्विष्म** | **अद्विषि** | **अद्विष्महि** |
 | **Optative  - विधिलिङ्** | **द्विष्याम्**[[br]]dviṣ-yā + m | **द्विष्याम** | **द्विषीय**[[br]]dviṣ-īy-a | **द्विषीमहि** |
@@ -169,9 +173,9 @@ bhū 1P
 
 :::: grammar-box
 
-| | **Parasmaipada** ||
+| | **परस्मैपदम्** ||
 | :--- | :---: | :---: |
-| | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** |
 | **Indicative Present  - लट्** | **अस्मि** | **स्मस्**[[br]]s-mas |
 | **Imperfect  - लङ्** | **आसाम्**[[br]]a + as-am | **आस्म** |
 | **Optative  - विधिलिङ्** | **स्याम्**[[br]]s-yā + m | **स्याम** |
@@ -181,7 +185,7 @@ bhū 1P
 ::: media
 ![lekt3901.jpg](/images/lekt3901.jpg)
 Fig.: सो ऽस्मि
-(Image source: [Details](/licenses#lekt3901))
+(Image source: [Details](/en/licenses#lekt3901))
 :::
 
 ### 39.4.2. Third Present Class (जुहोत्यादि)
@@ -191,11 +195,11 @@ Fig.: सो ऽस्मि
 :::: grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **Indikativ Präsens  - लट्** | **जुहोमि** | **जुहुमस्** | **\&lt;जुह्वे\&gt;**[[br]]ju-hu + e | **\&lt;जुहुमहे\&gt;** |
-| **Imperfekt  - लङ्** | **अजुहवम्**[[br]]a-juho + am | **अजुहुम** | **\&lt;अजुहवि\&gt;** | **\&lt;अजुहुमहि\&gt;** |
-| **Optativ  - विधिलिङ्** | **जुहुयाम्** | **जुहुयाम** | **\&lt;जुह्वीय\&gt;**[[br]]juhu + īy-a | **\&lt;जुह्वीमहि\&gt;** |
+| **Indicative Present  - लट्** | **जुहोमि** | **जुहुमस्** | **&lt;जुह्वे&gt;**[[br]]ju-hu + e | **&lt;जुहुमहे&gt;** |
+| **Imperfect  - लङ्** | **अजुहवम्**[[br]]a-juho + am | **अजुहुम** | **&lt;अजुहवि&gt;** | **&lt;अजुहुमहि&gt;** |
+| **Optative  - विधिलिङ्** | **जुहुयाम्** | **जुहुयाम** | **&lt;जुह्वीय&gt;**[[br]]juhu + īy-a | **&lt;जुह्वीमहि&gt;** |
 
 ::::
 
@@ -204,18 +208,18 @@ Fig.: सो ऽस्मि
 :::: grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **Indikativ Präsens  - लट्** | **दधामि** | **दध्मस्** | **दधे**[[br]]dadh-e | **दध्महे** |
-| **Imperfekt  - लङ्** | **अदधाम्**[[br]]a-dadh + am | **अदध्म** | **अदधि** | **अदध्महि** |
-| **Optativ  - विधिलिङ्** | **दध्याम्** | **दध्याम** | **दधीय** | **दधीमहि** |
+| **Indicative Present  - लट्** | **दधामि** | **दध्मस्** | **दधे**[[br]]dadh-e | **दध्महे** |
+| **Imperfect  - लङ्** | **अदधाम्**[[br]]a-dadh + am | **अदध्म** | **अदधि** | **अदध्महि** |
+| **Optative  - विधिलिङ्** | **दध्याम्** | **दध्याम** | **दधीय** | **दधीमहि** |
 
 ::::
 
 ### 39.4.3. Fifth Present Class (स्वादि)
 
 ::: grammar-box
-**For roots ending in a vowel, the -u of the stem-forming suffix (-nu) may optionally be elided before endings beginning with m-.**
+**In the case of roots ending in a vowel, the -u of the stem-forming suffix (-nu) may optionally be dropped before endings beginning with m-.**
 :::
 
 सु 5U
@@ -223,11 +227,11 @@ Fig.: सो ऽस्मि
 :::: grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **Indicative Present  - लट्** | **सुनोमि** | **सुनुमस्** / **सुन्मस्** | **सुन्वे** | **सुनुमहे** / **सुन्महे** |
-| **Imperfect  - लङ्** | **असुनवम्** | **असुनुम** / **असुन्म** | **असुन्वि** | **असुनुमहि** / **असुन्महि** |
-| **Optative  - विधिलिङ्** | **सुनुयाम्** | **सुनुयाम** | **सुन्वीय** | **सुन्वीमहि** |
+| **Indicative Present - लट्** | **सुनोमि** | **सुनुमस्** / **सुन्मस्** | **सुन्वे** | **सुनुमहे** / **सुन्महे** |
+| **Imperfect - लङ्** | **असुनवम्** | **असुनुम** / **असुन्म** | **असुन्वि** | **असुनुमहि** / **असुन्महि** |
+| **Optative - विधिलिङ्** | **सुनुयाम्** | **सुनुयाम** | **सुन्वीय** | **सुन्वीमहि** |
 
 ::::
 
@@ -237,12 +241,12 @@ Fig.: सो ऽस्मि
 
 :::: grammar-box
 
-| | **Parasmaipada** || **Ātmanepada** ||
-| :--- | :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present  - laṭ** | **tanomi** | **tanumas** / **tanmas** | **tanve** | **tanumahi** / **tanmahi** |
-| **Imperfect  - laṅ** | **atanavam** | **atanum** / **atantm** | **atantvi** | **atanumahi** / **atantmahi** |
-| **Optative  - vidhiliṅ** | **tanuyām** | **tanuyām** | **tanvīya** | **tanvīmahi** |
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present  - लट्** | **तनोमि** | **तनुमस्** / **तन्मस्** | **तन्वे** | **तनुमहे** / **तन्महे** |
+| **Imperfect  - लङ्** | **अतनवम्** | **अतनुम** / **अतन्म** | **अतन्वि** | **अतनुमहि** / **अतन्महि** |
+| **Optative  - विधिलिङ्** | **तनुयाम्** | **तनुयाम** | **तन्वीय** | **तन्वीमहि** |
 
 ::::
 
@@ -250,12 +254,12 @@ Fig.: सो ऽस्मि
 
 :::: grammar-box
 
-| | **Parasmaipada** || **Ātmanepada** ||
-| :--- | :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present  - laṭ** | **karomi** | **kurmas** | **kurve** | **kurmahi** |
-| **Imperfect  - laṅ** | **akaram** | **akurm** | **akurvi** | **akurmahi** |
-| **Optative  - vidhiliṅ** | **kuryām** | **kuryām** | **kurvīya** | **kurvīmahi** |
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present  - लट्** | **करोमि** | **कुर्मस्** | **कुर्वे** | **कुर्महे** |
+| **Imperfect  - लङ्** | **अकरवम्** | **अकुर्म** | **अकुर्वि** | **अकुर्महि** |
+| **Optative  - विधिलिङ्** | **कुर्याम्** | **कुर्याम** | **कुर्वीय** | **कुर्वीमहि** |
 
 ::::
 
@@ -268,9 +272,9 @@ Fig.: सो ऽस्मि
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **Indikativ Präsens  - लट्** | **युनज्मि**[[br]]yu-na-j-mi | **युञ्ज्मस्**[[br]]yu + n + j-mas | **युञ्जे** | **युञ्ज्महे** |
-| **Imperfekt  - लङ्** | **अयुनजम्** | **अयुञ्ज्म** | **अयुञ्जि** | **अयुञ्ज्महि** |
-| **Optativ  - विधिलिङ्** | **युञ्ज्याम्** | **युञ्ज्याम** | **युञ्जीय** | **युञ्जीमहि** |
+| **Indicative Present  - लट्** | **युनज्मि**[[br]]yu-na-j-mi | **युञ्ज्मस्**[[br]]yu + n + j-mas | **युञ्जे** | **युञ्ज्महे** |
+| **Imperfect  - लङ्** | **अयुनजम्** | **अयुञ्ज्म** | **अयुञ्जि** | **अयुञ्ज्महि** |
+| **Optative  - विधिलिङ्** | **युञ्ज्याम्** | **युञ्ज्याम** | **युञ्जीय** | **युञ्जीमहि** |
 
 ::::
 
@@ -281,17 +285,17 @@ Fig.: सो ऽस्मि
 :::: grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **Indicative Present  - लट्** | **क्रीणामि** | **क्रीणीमस्** | **क्रीणे**[[br]]krī + n-e | **क्रीणीमहे** |
-| **Imperfect  - लङ्** | **अक्रीणाम्**[[br]]a-krī + nā + am | **अक्रीणीम** | **अक्रीणि** | **अक्रीणीमहि** |
-| **Optative  - विधिलिङ्** | **क्रीणीयाम्** | **क्रीणीयाम** | **क्रीणीय**[[br]]krī + n-īy-a | **क्रीणीमहि** |
+| **Indicative Present - लट्** | **क्रीणामि** | **क्रीणीमस्** | **क्रीणे**[[br]]krī + n-e | **क्रीणीमहे** |
+| **Imperfect - लङ्** | **अक्रीणाम्**[[br]]a-krī + nā + am | **अक्रीणीम** | **अक्रीणि** | **अक्रीणीमहि** |
+| **Optative - विधिलिङ्** | **क्रीणीयाम्** | **क्रीणीयाम** | **क्रीणीय**[[br]]krī + n-īy-a | **क्रीणीमहि** |
 
 ::::
 
 ## 39.5. Exercise
 
-Form the first-person singular or plural forms corresponding to the following verb forms, matching them in number, tense, mood (Indicative, Optative), and voice (Active, Middle, Passive).
+Form the first-person forms corresponding to the following verb forms in number, tense, mood (indicative, optative), and diathesis (P, Ā, passive).
 
 Example: गच्छन्ति » गच्छामस्
 

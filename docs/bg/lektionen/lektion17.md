@@ -1,31 +1,38 @@
+---
+title: Урок 17
+subtitle: "Второ присъствено време класа (अदादि = अद् и т.н.)"
+lesson_id: 17
+last_reconstructed: 2026-05-21
+category: "Граматика"
+status: stable
+---
 
+# Урок 17
 
-# Lektion 17
+## 17.1. Втори клас на настоящето време (अदादि = अद् и т.н.)
 
-## 17.1. Zweite Сегашно времеklasse (अदादि = अद् usw.)
-
-Die Verbalendungen treten direkt an die Wurzel. Dabei sind die aus dem Wortsandhi resultierenden Lautveränderungen zu beachten. &lt;!-- TODO: Fallback translation --&gt;
+Глаголните окончания се присъединяват директно към корена. При това трябва да се вземат предвид звуковите промени, произтичащи от словния сандхи.
 
 :::: grammar-box
 
-Es gibt folgende Bildungsformen in der zweiten Präsensklasse: &lt;!-- TODO: Fallback translation --&gt;
+Съществуват следните форми на образуване във втория клас на настоящето време:
 
-1.  Коренn mit Основаabstufung  &lt;!-- TODO: Fallback translation --&gt;
-    *   meistens: Hochstufe - Tiefstufe &lt;!-- TODO: Fallback translation --&gt;
-    *   einige Коренn: Dehnstufe - Tiefstufe  &lt;!-- TODO: Fallback translation --&gt;
-2.  Коренn ohne Основаabstufung  &lt;!-- TODO: Fallback translation --&gt;
-3.  zweisilbige Коренn auf -i/-ī mit Основаabstufung &lt;!-- TODO: Fallback translation --&gt;
+1.  Корени с промяна на основата
+    *   най-често: висока степен – ниска степен
+    *   някои корени: удължена степен – ниска степен
+2.  Корени без промяна на основата
+3.  Двусложни корени на -i/-ī с промяна на основата
 
 ::::
 
-## 17.2. Коренn der zweiten Сегашно времеklasse mit Основаabstufung Hochstufe - Tiefstufe
+## 17.2. Корени на втория клас на настоящето време с коренова алтернатива висока степен - ниска степен
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-द्विष् 2 U "hassen" &lt;!-- TODO: Fallback translation --&gt;
+द्विष् 2 У „мразя“
 
-*   starker Сегашна основа: dveṣ- &lt;!-- TODO: Fallback translation --&gt;
-*   schwacher Сегашна основа: dviṣ- &lt;!-- TODO: Fallback translation --&gt;
+*   силен настоящ корен: dveṣ-
+*   слаб настоящ корен: dviṣ-
 
 :::: grammar-box
 
@@ -33,29 +40,31 @@ Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | द्वेष्टि (« dveṣ + -ti) |
-| 3\. pl. Präs. P | द्विषन्ति (dviṣ-anti) |
-| 3\. sg. Präs. Ā | द्विष्टे (« dviṣ + -te) |
-| 3\. pl. Präs. Ā | द्विषते (dviṣ-ate) |
+| 3\. ед.ч. наст. P | द्वेष्टि (« dveṣ + -ti) |
+| 3\. мн.ч. наст. P | द्विषन्ति (dviṣ-anti) |
+| 3\. ед.ч. наст. Ā | द्विष्टे (« dviṣ + -te) |
+| 3\. мн.ч. наст. Ā | द्विषते (dviṣ-ate) |
 
 :::
 
 ::::
 
-Hierbei wirkt folgendes Wortsandhigesetz: &lt;!-- TODO: Fallback translation --&gt;
+Тук действа следният закон за словния сандхи:
 
-Wortsandhi von -ṣ + t(h)- &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+Словен сандхи на -ṣ + t(h)-
 
-\-ṣ + t(h)- » -ṣṭ(h)- &lt;!-- TODO: Fallback translation --&gt;
+\-ṣ + t(h)- » -ṣṭ(h)-
+:::
 
-Weitere Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Други примери:
 
-इ 2 P "gehen" (Ā nach bestimmten Präverbien) &lt;!-- TODO: Fallback translation --&gt;
+इ 2 P „отивам“ (Ā след определени префикси)
 
-*   starker Сегашна основа: e- &lt;!-- TODO: Fallback translation --&gt;
-*   schwacher Сегашна основа: &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Konsonant: i- &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Vokal: y-/iy- &lt;!-- TODO: Fallback translation --&gt;
+*   силен настоящ корен: e-
+*   слаб настоящ корен:
+    *   пред съгласна: i-
+    *   пред гласна: y-/iy-
 
 :::: grammar-box
 
@@ -63,19 +72,19 @@ Weitere Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | एति (e-ti) |
-| 3\. pl. Präs. P | यन्ति (y-anti) |
-| 3\. sg. Präs. Ā | इते (i-te) |
-| 3\. pl. Präs. Ā | इयते (iy-ate) |
+| 3\. ед.ч. наст. P | एति (e-ti) |
+| 3\. мн.ч. наст. P | यन्ति (y-anti) |
+| 3\. ед.ч. наст. Ā | इते (i-te) |
+| 3\. мн.ч. наст. Ā | इयते (iy-ate) |
 
 :::
 
 ::::
 
-दुह् 2 U "melken" &lt;!-- TODO: Fallback translation --&gt;
+दुह् 2 У „доене“
 
-*   starker Сегашна основа: doh- &lt;!-- TODO: Fallback translation --&gt;
-*   schwacher Сегашна основа: duh- &lt;!-- TODO: Fallback translation --&gt;
+*   силен настоящ корен: doh-
+*   слаб настоящ корен: duh-
 
 :::: grammar-box
 
@@ -83,21 +92,21 @@ Weitere Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | दोग्धि (« doh- + -ti) |
-| 3\. pl. Präs. P | दुहन्ति (duh-anti) |
-| 3\. sg. Präs. Ā | दुग्धे (« duh- + -te) |
-| 3\. pl. Präs. Ā | दुहते (duh-ate) |
+| 3\. ед.ч. наст. P | दोग्धि (« doh- + -ti) |
+| 3\. мн.ч. наст. P | दुहन्ति (duh-anti) |
+| 3\. ед.ч. наст. Ā | दुग्धे (« duh- + -te) |
+| 3\. мн.ч. наст. Ā | दुहते (duh-ate) |
 
 :::
 
 ::::
 
-हन् 2 P "schlagen, erschlagen, töten" &lt;!-- TODO: Fallback translation --&gt;
+हन् 2 P „бия, убивам, застрелвам“
 
-*   starker Сегашна основа: han- &lt;!-- TODO: Fallback translation --&gt;
-*   schwacher Сегашна основа: &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Konsonant: ha- (« \*hn-) &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Vokal: ghn-/han- &lt;!-- TODO: Fallback translation --&gt;
+*   силен настоящ корен: han-
+*   слаб настоящ корен:
+    *   пред съгласна: ha- (« \*hn-)
+    *   пред гласна: ghn-/han-
 
 :::: grammar-box
 
@@ -105,19 +114,19 @@ Weitere Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | हन्ति (han-ti) |
-| 3\. pl. Präs. P | घ्नन्ति (ghn-anti) |
-| 3\. sg. Präs. Ā | हते (ha-te) |
-| 3\. pl. Präs. Ā | घ्नते (ghn-ate) |
+| 3\. ед.ч. наст. P | हन्ति (han-ti) |
+| 3\. мн.ч. наст. P | घ्नन्ति (ghn-anti) |
+| 3\. ед.ч. наст. Ā | हते (ha-te) |
+| 3\. мн.ч. наст. Ā | घ्नते (ghn-ate) |
 
 :::
 
 ::::
 
-अस् 2 P "sein" &lt;!-- TODO: Fallback translation --&gt;
+अस् 2 P „съм“
 
-*   starker Сегашна основа: as- &lt;!-- TODO: Fallback translation --&gt;
-*   schwacher Сегашна основа: s- &lt;!-- TODO: Fallback translation --&gt;
+*   силен настоящ корен: as-
+*   слаб настоящ корен: s-
 
 :::: grammar-box
 
@@ -125,23 +134,23 @@ Weitere Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | अस्ति (as-ti) |
-| 3\. pl. Präs. P | सन्ति (s-anti) |
+| 3\. ед.ч. наст. P | अस्ति (as-ti) |
+| 3\. мн.ч. наст. P | सन्ति (s-anti) |
 
 :::
 
 ::::
 
-## 17.3. Коренn der zweiten Сегашно времеklasse mit Основаabstufung Dehnstufe - Tiefstufe
+## 17.3. Корени на втория клас на настоящето с промяна на основата удължена степен - ниска степен
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
-स्तु 2 U "preisen" &lt;!-- TODO: Fallback translation --&gt;
+स्तु 2 „славя“
 
-*   starker Сегашна основа: stau- &lt;!-- TODO: Fallback translation --&gt;
-*   schwacher Сегашна основа: &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Konsonant: stu- &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Vokal: stuv- &lt;!-- TODO: Fallback translation --&gt;
+*   силен настоящ корен: stau-
+*   слаб настоящ корен:
+    *   пред съгласна: stu-
+    *   пред гласна: stuv-
 
 :::: grammar-box
 
@@ -149,22 +158,24 @@ Beispiel: &lt;!-- TODO: Fallback translation --&gt;
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | स्तौति (stau-ti)[[br]]oder: स्तवीति |
-| 3\. pl. Präs. P | स्तुवन्ति (stuv-anti) |
-| 3\. sg. Präs. Ā | स्तुते (stu-te) |
-| 3\. pl. Präs. Ā | स्तुवते (stuv-ate) |
+| 3\. ед.ч. наст. P | स्तौति (stau-ti)[[br]]или: स्तवीति |
+| 3\. мн.ч. наст. P | स्तुवन्ति (stuv-anti) |
+| 3\. ед.ч. наст. Ā | स्तुते (stu-te) |
+| 3\. мн.ч. наст. Ā | स्तुवते (stuv-ate) |
 
 :::
 
 ::::
 
-## 17.4. Коренn der zweiten Сегашно времеklasse ohne Основаabstufung
+## 17.4. Корени на втория клас на настоящето време без редукция на корена
 
-Ohne Stammabstufung sind Wurzeln der zweiten Präsensklasse auf -ā &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+Без редукция на корена са корените на втория клас на настоящето време, завършващи на -ā
+:::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
-पा  2 P "schützen, behüten, hüten" &lt;!-- TODO: Fallback translation --&gt;
+पा 2 П „защитава, пази, охранява“
 
 :::: grammar-box
 
@@ -172,18 +183,18 @@ Beispiel: &lt;!-- TODO: Fallback translation --&gt;
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | पाति (pā-ti) |
-| 3\. pl. Präs. P | पान्ति (« pā- + -anti) |
+| 3\. ед.ч. наст. П | पाति (pā-ti) |
+| 3\. мн.ч. наст. П | पान्ति (« pā- + -anti) |
 
 :::
 
 ::::
 
-Auch einige andere Wurzeln der zweiten Klasse haben keine Stammabstufung: &lt;!-- TODO: Fallback translation --&gt;
+Някои други корени от втория клас също нямат редукция на корена:
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-अद् 2 P "essen" &lt;!-- TODO: Fallback translation --&gt;
+अद् 2 П „яде“
 
 :::: grammar-box
 
@@ -191,14 +202,14 @@ Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | अत्ति (« ad- + -ti) |
-| 3\. pl. Präs. P | अदन्ति (ad-anti) |
+| 3\. ед.ч. наст. П | अत्ति (« ad- + -ti) |
+| 3\. мн.ч. наст. П | अदन्ति (ad-anti) |
 
 :::
 
 ::::
 
-आस् 2 Ā "sitzen" &lt;!-- TODO: Fallback translation --&gt;
+आस् 2 А „седи“
 
 :::: grammar-box
 
@@ -206,14 +217,14 @@ Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. Ā | आस्ते (ās-te) |
-| 3\. pl. Präs. Ā | आसते (ās-ate) |
+| 3\. ед.ч. наст. А | आस्ते (ās-te) |
+| 3\. мн.ч. наст. А | आसते (ās-ate) |
 
 :::
 
 ::::
 
-वच् 2 P "sagen" &lt;!-- TODO: Fallback translation --&gt;
+वच् 2 П „казва“
 
 :::: grammar-box
 
@@ -221,25 +232,25 @@ Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | वक्ति (« vac- + -ti) |
-| 3\. pl. Präs. P | kommt nicht vor |
+| 3\. ед.ч. наст. П | वक्ति (« vac- + -ti) |
+| 3\. мн.ч. наст. П | не се среща |
 
 :::
 
 ::::
 
-## 17.5. Zweisilbige Коренn auf -i/-ī mit Основаabstufung
+## 17.5. Двусложни корени на -i/-ī с редукция на основата
 
-Mehrere Wurzeln sind in einer Reihe von Formen zweisilbig, d.h. sie haben vor konsonantischer Endung ein -i (bzw. vor einigen Endungen -ī). Diese Wurzeln werden aber trotzdem von den einheimischen Grammatikern und in Wörterbüchern usw. als einsilbig angesetzt. &lt;!-- TODO: Fallback translation --&gt;
+Няколко корена са в редица от форми двусложни, т.е. те имат пред съгласна крайна форма -i (съответно пред някои крайни форми -ī). Тези корени обаче все пак се разглеждат от местните грамматици и в речници и т.н. като едносложни.
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-रुद् 2 P "weinen, heulen" &lt;!-- TODO: Fallback translation --&gt;
+रुद् 2 П „плача, викам“
 
-*   starker Сегашна основа: rodi- &lt;!-- TODO: Fallback translation --&gt;
-*   schwacher Сегашна основа: &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Konsonant: rudi- &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Vokal: rud- &lt;!-- TODO: Fallback translation --&gt;
+*   силен настоящ корен: rodi-
+*   слаб настоящ корен:
+    *   пред съгласна: rudi-
+    *   пред гласна: rud-
 
 :::: grammar-box
 
@@ -247,19 +258,19 @@ Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | रोदिति (rodi-ti) |
-| 3\. pl. Präs. P | रुदन्ति (rud-anti) |
+| 3\. ед.ч. наст. П | रोदिति (rodi-ti) |
+| 3\. мн.ч. наст. П | रुदन्ति (rud-anti) |
 
 :::
 
 ::::
 
-ब्रू 2 U "sprechen" &lt;!-- TODO: Fallback translation --&gt;
+ब्रू 2 У „говор“
 
-*   starker Сегашна основа: bravī- (« bro- + -ī) &lt;!-- TODO: Fallback translation --&gt;
-*   schwacher Сегашна основа: &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Konsonant: brū- &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Vokal: bruv- &lt;!-- TODO: Fallback translation --&gt;
+*   силен настоящ корен: bravī- („bro- + -ī)
+*   слаб настоящ корен:
+    *   vor Konsonant: brū-
+    *   пред гласна: bruv-
 
 :::: grammar-box
 
@@ -267,16 +278,16 @@ Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ब्रवीति (bravī-ti) |
-| 3\. pl. Präs. P | ब्रुवन्ति (bruv-anti) |
-| 3\. sg. Präs. Ā | ब्रूते (brū-te) |
-| 3\. pl. Präs. Ā | ब्रुवते (bruv-ate) |
+| 3\. ед.ч. наст. П | ब्रवीति (bravī-ti) |
+| 3\. мн.ч. наст. П | ब्रुवन्ति (bruv-anti) |
+| 3\. ед.ч. наст. А | ब्रूते (brū-te) |
+| 3\. мн.ч. наст. А | ब्रुवते (bruv-ate) |
 
 :::
 
 ::::
 
-Auch स्तु 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen nach diesem Muster: &lt;!-- TODO: Fallback translation --&gt;
+Също स्तु 2 У „хвал“ има освен посочените под 3. форми форми по този модел:
 
 :::: grammar-box
 
@@ -284,7 +295,7 @@ Auch स्तु 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | स्तवीति (« sto + ī + ti)[[br]]oder: स्तौति |
+| 3\. ед.ч. наст. П | स्तवीति („sto + ī + ti)[[br]]или: स्तौति |
 
 :::
 
@@ -292,65 +303,69 @@ Auch स्तु 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen
 
 ## 17.6. Речник
 
-हन् 2 P हन्ति, घ्नन्ति Pass. हन्यते  PPP हत : schlagen, erschlagen, töten &lt;!-- TODO: Fallback translation --&gt;
+हन् 2 P हन्ति, घ्नन्ति Pass. हन्यते  PPP हत : бия, убивам, застрелвам
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
 ::: indent
-घात m.: Tötung &lt;!-- TODO: Fallback translation --&gt;
+घात m.: убийство
 :::
 
 ::: media
 ![](/images/lekt1703.jpg)
-Abb.: घाताः
-(Bildquelle: [Details](/licenses#lekt1703)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: घाताः
+Бангалор = ಬೆಂಗಳೂರು
+(Източник на изображението: [Подробности](/bg/licenses#lekt1703))
 :::
 
-आस् 2Ā आस्ते Pass. आस्यते PPP आसित : sitzen &lt;!-- TODO: Fallback translation --&gt;
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+आस् 2Ā आस्ते Pass. आस्यते PPP आसित : седя
+
+от това:
 
 ::: indent
-आसन n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin &lt;!-- TODO: Fallback translation --&gt;
+आसन n.: седене, стол ; също: позиции за седене на йога
 :::
 
 ::: media
 ![](/images/lekt1701.jpg)
-Abb.: योगासनम्
-(Bildquelle: [Details](/licenses#lekt1701)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: योगासनम्
+(Източник на изображението: [Подробности](/bg/licenses#lekt1701))
 :::
 
-रुद् 2 P रोदिति Pass. रुद्यते PPP रुदित : weinen, heulen &lt;!-- TODO: Fallback translation --&gt;
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+रुद् 2 P रोदिति Pass. रुद्यते PPP रुदित : плача, викам
+
+от това:
 
 ::: indent
-रुद्र m.: (der Heuler =) der Sturmgott Rudra &lt;!-- TODO: Fallback translation --&gt;
+रुद्र m.: (викащият =) богът на бурята Рудра
 :::
 
-ब्रू 2 U ब्रवीति Ā ब्रूते kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ) &lt;!-- TODO: Fallback translation --&gt;
+ब्रू 2 U ब्रवीति Ā ब्रूते без страдателен залог и PPP: говоря, казвам (нещо на някого: двоен винителен падеж)
 
-दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : melken &lt;!-- TODO: Fallback translation --&gt;
+दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : доя
 
 ::: media
 ![](/images/lekt1702.jpg)
-Abb.: दोग्धि
-(Bildquelle: [Details](/licenses#lekt1702)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: दोग्धि
+(Източник на изображението: [Подробности](/bg/licenses#lekt1702))
 :::
+ 
 
-दिश् 6 U दिशति Pass. दिश्यते PPP दिष्ट : zeigen, anweisen, befehlen &lt;!-- TODO: Fallback translation --&gt;
+दिश् 6 U दिशति Pass. दिश्यते PPP दिष्ट : показвам, нареждам, заповядвам
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
 ::: indent
-दिष्टि f.: Anweisung, glückliche Fügung &lt;!-- TODO: Fallback translation --&gt;
+दिष्टि f.: наредба, щастливо съвпадение
 
-दिष्ट्या Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung) &lt;!-- TODO: Fallback translation --&gt;
+दिष्ट्या Instr.: (букв.: чрез щастливо съвпадение) О щастливо съвпадение (извик на радост и благоденствие)
 :::
 
 ## 17.7. Упражнение 1
 
-A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie: &lt;!-- TODO: Fallback translation --&gt;
+A) Вметнете глагола в следните изречения и преведете:
 
 १. ब्राह्मणो ऽनृतं न ... (ब्रू । वच् । वद्)
 
@@ -372,11 +387,11 @@ A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie: &lt;!-- TOD
 
 १०. साधुजनो ऽधर्मम् ... (द्विष् । न कृ)
 
-B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural &lt;!-- TODO: Fallback translation --&gt;
+B) Вметнете агенса и глагола в множествено число в изреченията, образувани в част А)
 
 ## 17.8. Упражнение 2
 
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an: &lt;!-- TODO: Fallback translation --&gt;
+Превода на следните глаголни форми и посочване на съответстващия корен:
 
 १. अदन्ति
 
@@ -472,11 +487,9 @@ B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural &lt;!
 
 ::: deleteme-box
 
-### Източници
+**lekt1701:** [Източник на изображението: от tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Достъп на 2008-12-07. -- Лиценз Creative Commons (Приписване, без промени)]
 
-**lekt1701:** [Bildquelle: von tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt1702:** [Източник на изображението: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Достъп на 2008-12-07. -- Лиценз Creative Commons (Приписване, без търговска употреба, споделяне на равни условия)]
 
-**lekt1702:** [Bildquelle: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt1703:** Бангалор = ಬೆಂಗಳೂರು [Източник на изображението: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Достъп на 2008-12-07. -- Лиценз Creative Commons (Приписване, без търговска употреба)]
 :::

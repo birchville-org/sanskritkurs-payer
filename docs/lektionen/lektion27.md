@@ -1,6 +1,10 @@
 ---
+title: Lektion 27
+subtitle: "Gebrauch des Lokativ (सप्तमी f. = \"siebte Kasusendung\")"
 lesson_id: 27
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 27
@@ -28,6 +32,7 @@ last_reconstructed: 2026-05-21
 ::: media
 ![](/images/lekt2701.jpg)
 Abb.: जयपुरनगरे
+Jaipur, 1875.
 (Bildquelle: [Details](/licenses#lekt2701))
 :::
 
@@ -58,6 +63,7 @@ Abb.: जयपुरनगरे
 ::: media
 ![](/images/lekt2702.jpg)
 Abb.: एवं गच्छति कालयुष्ट्रः स्वपितi
+Rajasthan.
 (Bildquelle: [Details](/licenses#lekt2702))
 :::
 
@@ -72,6 +78,7 @@ Abb.: एवं गच्छति कालयुष्ट्रः स्व�
 ::: media
 ![](/images/lekt2703.jpg)
 Abb.: अस्ति तस्य पुत्रे स्नेहः
+Holi.
 (Bildquelle: [Details](/licenses#lekt2703))
 :::
 
@@ -163,10 +170,11 @@ Weiteres zum Gebrauch des Lokativ später.
 ::: media
 ![](/images/lekt2708.jpg)
 Abb.: रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥
+Rāma-Satz.
 (Bildquelle: [Details](/licenses#lekt2708))
 :::
 
-***रामो*** राजमणिः सदा विजयते ***रामं*** रमेशं भजे[[br]]***रामेणा***भिहता निशाचरचमू ***रामाय*** तस्मै नमः ।[[br]]***रामान्***नास्ति परायणम् परतरं ***रामस्य*** दासोऽस्म्यहम्[[br]]***रामे*** चित्तलयः सदा भवतु मे भो ***राम*** मामुद्धर ॥
+***रामो*** राजमणिः सदा विजयते ***रामं*** रमेशं भजे[[br]]***रामेणा***भिहता निशाचरचमू ***रामाय*** तस्मै नमः ।[[br]]***रामान्ना***स्ति परायणम् परतरं ***रामस्य*** दासोऽस्म्यहम्[[br]]***रामे*** चित्तलयः सदा भवतु मे भो ***राम*** मामुद्धर ॥
 
 **Übersetzung:**
 1. **Nominativ:** Rāma, das Juwel (मणि m.) unter den Königen (राजन् m.) siegt immer (सदा).
@@ -211,6 +219,7 @@ davon:
 ::: media
 ![](/images/lekt2706.jpg)
 Abb.: वस्त्राणि
+Vastrāṇi. Majuli, Assam.
 (Bildquelle: [Details](/licenses#lekt2706))
 :::
 
@@ -225,6 +234,7 @@ Abb.: वस्त्राणि
 ::: media
 ![](/images/lekt2707.jpg)
 Abb.: वसन्तः
+Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Bildquelle: [Details](/licenses#lekt2707))
 :::
 
@@ -249,12 +259,14 @@ Gegenstück zu **हर**:
 ::: media
 ![](/images/lekt2704.jpg)
 Abb.: हरिहरः
+Harihara (links: Viṣṇu, rechts: Śiva).
 (Bildquelle: [Details](/licenses#lekt2704))
 :::
 
 ::: media
 ![](/images/lekt2705.jpg)
 Abb.: हरिहरः
+Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
 (Bildquelle: [Details](/licenses#lekt2705))
 :::
 
@@ -275,6 +287,7 @@ Abb.: हरिहरः
 ::: media
 ![](/images/lekt2709.jpg)
 Abb.: वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥
+Gemälde von Rāja Ravi Varmā (1848 - 1906).
 (Bildquelle: [Details](/licenses#lekt2709))
 :::
 
@@ -313,6 +326,7 @@ Abb.: वसितसुवस्त्रां नरा लुभ्यन्
 ::: media
 ![](/images/lekt2711.jpg)
 Abb.: नराः
+Naran. Udaipur.
 (Bildquelle: [Details](/licenses#lekt2711))
 :::
 
@@ -335,6 +349,7 @@ Abb.: नराः
 ::: media
 ![](/images/lekt2710.jpg)
 Abb.: फलानि
+Früchte. Bangalore.
 (Bildquelle: [Details](/licenses#lekt2710))
 :::
 
@@ -357,6 +372,7 @@ Abb.: फलानि
 ::: media
 ![](/images/lekt2718.jpg)
 Abb.: क्षत्रिया
+Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore.
 (Bildquelle: [Details](/licenses#lekt2718))
 :::
 
@@ -379,6 +395,7 @@ Abb.: क्षत्रिया
 ::: media
 ![](/images/lekt2712.jpg)
 Abb.: अरयः
+Erhängen von zwei Teilnehmern der Rebellion von 1857. Fotografie von Felice Beato (1833/1834 - ca. 1907).
 (Bildquelle: [Details](/licenses#lekt2712))
 :::
 
@@ -417,6 +434,7 @@ Abb.: अरयः
 ::: media
 ![](/images/lekt2713.jpg)
 Abb.: गुरुः
+Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Bildquelle: [Details](/licenses#lekt2713))
 :::
 
@@ -439,6 +457,7 @@ Abb.: गुरुः
 ::: media
 ![](/images/lekt2714.jpg)
 Abb.: धेनुः
+Kuh in Udaipur.
 (Bildquelle: [Details](/licenses#lekt2714))
 :::
 
@@ -461,6 +480,7 @@ Abb.: धेनुः
 ::: media
 ![](/images/lekt2715.jpg)
 Abb.: त्रिदेवी
+Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Bildquelle: [Details](/licenses#lekt2715))
 :::
 
@@ -483,6 +503,7 @@ Abb.: त्रिदेवी
 ::: media
 ![](/images/lekt2716.jpg)
 Abb.: सद्गुरुः
+Sai Baba of Shirdi (1835 - 1918).
 (Bildquelle: [Details](/licenses#lekt2716))
 :::
 
@@ -599,12 +620,12 @@ Abb.: सद्गुरुः
 ::: media
 ![](/images/lekt2717.jpg)
 Abb.: कस्मात् ?
+Tsunami 2005, Sri Lanka.
 (Bildquelle: [Details](/licenses#lekt2717))
 :::
 
 ::: deleteme-box
 
-### Quellen
 
 **lekt2701:** Jaipur, 1875. [Bildquelle: Wikipedia. Public domain]
 **lekt2702:** Rajasthan. [Bildquelle: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]

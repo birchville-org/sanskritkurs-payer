@@ -1,6 +1,10 @@
 ---
+title: Lektion 11
+subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 11
@@ -66,8 +70,8 @@ z.B. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्�
 
 ::: media
 ![](/images/lekt1102.jpg)
-Abb.: **vadanāni** = वदनानि, Jamalpur district, Bangladesh.
-(Bildquelle: Juan Blazquez, Flickr, CC-BY-NC-ND 2.0)
+Abb.: **vadanāni** = वदनानि
+(Bildquelle: [Details](/licenses#lekt1102))
 :::
 
 - **prach** 6 P प्रच्छ् : fragen
@@ -104,7 +108,7 @@ Abb.: **vadanāni** = वदनानि, Jamalpur district, Bangladesh.
 ::: media
 ![](/images/lekt1101.jpg)
 Abb.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
-(Bildquelle: Wikipedia, Public domain)
+(Bildquelle: [Details](/licenses#lekt1101))
 :::
 
 ---
@@ -147,5 +151,5 @@ Abb.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 ::: media
 ![](/images/lekt1103.jpg)
 Abb.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
-(Bildquelle: Ray Witlin / World Bank, Flickr, CC-BY-NC-ND 2.0)
+(Bildquelle: [Details](/licenses#lekt1103))
 :::

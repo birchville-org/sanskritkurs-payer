@@ -3,15 +3,15 @@ aside: false
 outline: false
 ---
 
-# Índice temático
+# Índice de temas
 
-El índice temático se genera automáticamente a partir de los títulos de todas las lecciones. Permite un acceso rápido a fenómenos gramaticales específicos.
+El índice de temas se genera automáticamente a partir de los títulos de todas las lecciones. Permite un acceso rápido a fenómenos gramaticales específicos.
 
-<PayerTopicIndex />
+&lt;PayerTopicIndex /&gt;
 
-<style>
+&lt;style&gt;
 /* Ajustar el diseño para el índice de ancho completo */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }
-</style>
+&lt;/style&gt;

@@ -5,51 +5,51 @@ last_reconstructed: 2026-05-21
 
 # Lección 14
 
-## 14.1. La expresión de la relación entre entidades designadas por sustantivos: el genitivo (ṣaṣṭhī f. = षष्टी = sexta terminación casuál)
+## 14.1. La expresión de la relación de lo designado por sustantivos: el genitivo (ṣaṣṭhī f. = षष्टी = sexta terminación casual)
 
 ::: grammar-box
-Si se desea expresar la relación entre dos entidades designadas por sustantivos, se utiliza el genitivo (ṣaṣṭhī f. «sexta terminación casuál»). El genitivo se distingue de todos los demás casos en que —con pocas excepciones— no sirve para determinar más estrechamente la acción expresada por el verbo, sino para expresar la relación entre personas o cosas designadas por sustantivos. Frecuentemente, el genitivo responde a la pregunta: ¿De quién?
+Si se desea expresar la relación de lo designado por dos sustantivos, se utiliza el genitivo (ṣaṣṭhī f. "sexta terminación casuál"). El genitivo se distingue de todos los demás casos en que, con pocas excepciones, no sirve para una determinación más precisa de la acción expresada por el verbo, sino para expresar la relación entre personas o cosas designadas por sustantivos. Frecuentemente, el genitivo responde a la pregunta: ¿De quién?
 :::
 
 Ejemplos:
 
-कवेः पुत्रः «El hijo del poeta»
+कवेः पुत्रः "El hijo del poeta"
 
-धनस्य लोभः «Codicia por la riqueza»
+धनस्य लोभः "El deseo de riqueza"
 
-नगरस्यार्धम् «La mitad de la ciudad»
+नगरस्यार्धम् "La mitad de la ciudad"
 
-रामस्य कृतम् «La / Una acción de Rāma»
+रामस्य कृतम् "La / Una acción de Rāma"
 
 ::: grammar-box
 El orden normal de las palabras es:
 
-> **Palabra determinativa en genitivo — Sustantivo determinado en otro caso**
+> **Palabra determinativa en genitivo — Sustantivo más precisamente determinado en otro caso**
 :::
 
-**Genitivo y participio pasado pasivo (PPP):**
+**Genitivo y participio de pasado pasivo (PPP):**
 
 ::: grammar-box
-En el caso de los PPP, el genitivo puede ocupar el lugar del instrumental (tṛtīyā) para designar al agente (kartṛ). En la construcción con el instrumental, el PPP se considera una forma verbal pasiva (lo que está en instrumental designa al agente); en la construcción con el genitivo, el PPP se considera un sustantivo o adjetivo (por lo tanto, lo que está en genitivo no actúa propiamente como agente).
+En el caso de los PPP, el genitivo puede ocupar el lugar del instrumental (tṛtīyā) para el agente (kartṛ); en la construcción con el instrumental, el PPP se considera una forma verbal pasiva (lo que está en el instrumental designa al agente), mientras que en la construcción con el genitivo, el PPP se considera un sustantivo o adjetivo (por lo tanto, lo que está en el genitivo no actúa realmente como agente).
 
-Según Pāṇini 2.3.67, cuando el PPP tiene significado presente, se emplea el genitivo; si el PPP tiene significado pasado, se emplea el instrumental:
+Según Pāṇini 2.3.67, cuando el PPP tiene un significado presente, se emplea el genitivo (véase arriba); si el PPP tiene un significado pasado, se emplea el instrumental:
 
-> रामस्येष्टं फलम् «La fruta deseada por Rāma = La fruta que Rāma desea actualmente»
+> रामस्येष्टं फलम् "La fruta deseada por Rāma = La fruta que Rāma desea actualmente"
 > 
-> रामेणेष्टं फलम् «La fruta que Rāma ha deseado»
+> रामेणेष्टं फलम् "La fruta que Rāma ha deseado"
 
-Por supuesto, cuando un PPP neutro singular se utiliza como abstracción verbal —es decir, como sustantivo—, se emplea el genitivo.
+Por supuesto, cuando un PPP en neutro singular se utiliza como un abstracto verbal, es decir, como sustantivo, se emplea el genitivo.
 :::
 
 ## 14.2. Formación de las formas genitivas (ṣaṣṭhī f. = षष्ठी)
 
-El genitivo se forma en las raíces verbales con ablaut (variación vocálica) a partir de la raíz débil.
+El genitivo se forma en las raíces verbales con ablautación a partir de la raíz débil.
 
-**Genitivo de raíces terminadas en consonante:**
+**Genitivo de raíces que terminan en consonante:**
 
 :::: grammar-box
 
-Después de una consonante, las terminaciones regulares del genitivo son:
+Después de una consonante, las terminaciones genitivas regulares son:
 * Singular: **-as**
 * Plural: **-ām**
 
@@ -64,15 +64,15 @@ Después de una consonante, las terminaciones regulares del genitivo son:
 
 ::::
 
-**Genitivo de raíces terminadas en vocal, excepto los nombres radicales monosílabos y las raíces terminadas en diptongo:**
+**Genitivo de raíces que terminan en vocal, excepto los nombres radicales monosílabos y las raíces que terminan en diptongo:**
 
 **Plural:**
 
 :::: grammar-box
 
-El genitivo plural de las raíces terminadas en vocal se forma de la siguiente manera:
+El genitivo plural de las raíces que terminan en vocal se forma así:
 
-> **-Vocal larga final de la raíz + -nām**
+> **-vocal larga final de la raíz + -nām**
 
 ::: center
 
@@ -91,11 +91,11 @@ El genitivo plural de las raíces terminadas en vocal se forma de la siguiente m
 
 ::::
 
-**Genitivo singular de las raíces terminadas en vocal:**
+**Genitivo singular de raíces que terminan en vocal:**
 
 :::: grammar-box
 
-El genitivo singular de las raíces terminadas en vocal se forma de manera irregular y debe aprenderse de memoria.
+El genitivo singular de las raíces que terminan en vocal se forma de manera irregular y debe aprenderse de memoria.
 
 ::: center
 
@@ -107,8 +107,8 @@ El genitivo singular de las raíces terminadas en vocal se forma de manera irreg
 | **kavi** m.[[br]]**कवि** | **kaves**[[br]]**कवेस्** |
 | **paśu** m.[[br]]**पशु** | **paśos**[[br]]**पशोस्** |
 | **devī** f.[[br]]**देवी** | **devyās**[[br]]**देव्यास्** |
-| **śruti** f.[[br]]**श्रुति** | **śrutes / śrutyās**[[br]]**श्रुतेस् / श्रुत्यास्**[[br]](es decir, ya sea como *kavi* o como *devī*) |
-| **dhenu** f.[[br]]**धेनु** | **dhenos / dhenvās**[[br]]**धेनोस् / धेन्वास्**[[br]](es decir, ya sea como *paśu* o como los femeninos polisílabos terminados en -ū) |
+| **śruti** f.[[br]]**श्रुति** | **śrutes / śrutyās**[[br]]**श्रुतेस् / श्रुत्यास्**[[br]](es decir, ya sea como kavi o como devī) |
+| **dhenu** f.[[br]]**धेनु** | **dhenos / dhenvās**[[br]]**धेनोस् / धेन्वास्**[[br]](es decir, ya sea como paśu o como los femeninos polisílabos en -ū) |
 
 :::
 
@@ -132,46 +132,43 @@ El genitivo singular de las raíces terminadas en vocal se forma de manera irreg
 
 ::::
 
-**Identidad formal:**
+**Identidad de formas:**
 
 ::: important
 
-En todos los temas nominales, excepto los masculinos y neutros en -a y los pronombres, la forma del genitivo singular es idéntica a la del ablativo (pañcamī, "quinta terminación casual") singular.
+En todas las raíces nominales, excepto los masculinos y neutros en -a y los pronombres, la forma del genitivo singular es idéntica a la forma del ablativo (pañcamī "quinta terminación casual") singular.
 
-Tenga en cuenta que, en los temas que terminan en consonante, el ablativo y el genitivo singular suenan igual que el acusativo plural de masculino y femenino.
+Tenga en cuenta que en las raíces que terminan en consonante, el ablativo y el genitivo singular suenan igual que el acusativo plural masculino y femenino.
 
 :::
 
 ## 14.3. Más sobre el uso del genitivo (षष्ठी)
 
 ::: grammar-box
-Contrario a la regla general anterior, se utiliza el genitivo para expresar el objeto de ciertos verbos, por ejemplo, en los verbos que denotan recuerdo o memoria:
+Contrario a la regla anterior, se usa el genitivo para expresar el objeto de ciertos verbos, por ejemplo, verbos de recuerdo:
 
 > देवानां स्मरति "Él recuerda a los dioses"
 
-Sin embargo, en todos estos verbos, el objeto también puede aparecer en acusativo:
+Sin embargo, con todos estos verbos, el objeto también puede estar en acusativo:
 
 > देवान्स्मरति "Él recuerda a los dioses"
 
-Más detalles más adelante.
+Más adelante se tratará este tema.
 :::
 
-## 14.4. Glosario
+## 14.4. Lista de palabras
 
-* **śīla n.** (शील) : (bueno) carácter, moralidad
-* **bhūṣ-aṇa n** (भूषण) : adorno
-* **dīpa m.** (दीप) : lámpara
-
-::: center
+* **śīla n.** (शील) : (bueno) Carácter, Moralidad
+* **bhūṣ-aṇa n** (भूषण) : Joyas
+* **dīpa m.** (दीप) : Lámpara
 
 ::: media
-![]/images/lekt1405.jpg
-Fig.: दीपाः)
-(Fuente de la imagen: [Detalles](/licenses#lekt1405))
-:::
+![](/images/lekt1405.jpg)
+Fig.: दीपाः
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1405))
 :::
 
-* **bala n.** (बल) : fuerza, poder, fuerza; fuerza militar, ejército
+* **bala n.** (बल) : Violencia, Fuerza, Poder; Poderío militar, Ejército
 * **bāla 3** (बाल) : joven, infantil, insensato; m. muchacho
 * **bālā f.** (बाला) : muchacha joven
 * **nara m.** (नर) : hombre, ser humano
@@ -185,11 +182,11 @@ Fig.: दीपाः)
   * **vac-ana n.** (वचन) : el hablar, la palabra
   * **vāk-ya n.** (वाक्य) : palabra, discurso
 
-## 14.5. Subhāṣitāni = सुभाषितानि = Proverbios
+## 14.5. Subhāṣitāni = सुभाषितानि = Refranes
 
-Traduzca los siguientes proverbios y memorícelos:
+Traduzca los siguientes refranes y memorícelos:
 
-**नीचो वदति न कुरुते** **वदति न साधुः करोत्येव ॥१॥**
+**नीचो वदati न कुरुते** **वदति न साधुः करोत्येव ॥१॥**
 
 **शीलं नरस्य भूषणम् ॥२॥**
 
@@ -201,7 +198,7 @@ Traduzca los siguientes proverbios y memorícelos:
 
 ## 14.6. Ejercicio
 
-**A) Forme el genitivo singular y plural de las siguientes palabras. Indique el significado y el género de las palabras:**
+**A) Forme el genitivo singular y plural de las siguientes palabras. Indica el significado y el género de las palabras:**
 
 १. अनृत
 
@@ -253,13 +250,10 @@ Traduzca los siguientes proverbios y memorícelos:
 
 २५. पुत्रवती
 
-::: center
-
 ::: media
-![]/images/lekt1404.jpg
-Fig.: पुत्रवती)
-(Fuente de la imagen: [Detalles](/licenses#lekt1404))
-:::
+![](/images/lekt1404.jpg)
+Fig.: पुत्रवती
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1404))
 :::
 
 २६. जल
@@ -318,16 +312,13 @@ Fig.: पुत्रवती)
 
 ५३. किम्
 
-::: center
-
 ::: media
-![]/images/lekt1403.jpg
-Fig.: अयं बालः कस्याः पुत्रः ।)
-(Fuente de la imagen: [Detalles](/licenses#lekt1403))
-:::
+![](/images/lekt1403.jpg)
+Fig.: अयं बालः कस्याः पुत्रः ।
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1403))
 :::
 
-**B) Traduzca:**
+**B) Traduce:**
 
 १. ब्राह्मणस्य पुत्रो ब्राह्मण्या ग्रामं गतः । (2 posibilidades)
 
@@ -355,11 +346,8 @@ Fig.: अयं बालः कस्याः पुत्रः ।)
 
 १३. कस्यान्नमनेनर्षिणेष्टम् ।
 
-::: center
-
 ::: media
-![]/images/lekt1402.jpg
-Fig.: केषामिमानि गृहाणि ।)
-(Fuente de la imagen: [Detalles](/licenses#lekt1402))
-:::
+![](/images/lekt1402.jpg)
+Fig.: केषामिमानि गृहाणि ।
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1402))
 :::

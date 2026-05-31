@@ -1,114 +1,118 @@
 ---
+title: Урок 12
+subtitle: "Причастие минало време страдателен залог (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
---- &lt;!-- TODO: Fallback translation --&gt;
+category: "Граматика"
+status: stable
+---
 
-# Lektion 12
+# Урок 12
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- Das Partizip Perfekt Passiv (PPP) &lt;!-- TODO: Fallback translation --&gt;
-- Die Bedeutung des PPP &lt;!-- TODO: Fallback translation --&gt;
-- Die Образоване des PPP &lt;!-- TODO: Fallback translation --&gt;
-- Gesetze der Lautverbindung im Wort &lt;!-- TODO: Fallback translation --&gt;
-- Passiv und PPP der bisher gelernten Коренn &lt;!-- TODO: Fallback translation --&gt;
+**В този урок ще научите:**
+- Причастие минало време страдателен залог (PPP)
+- Значението на PPP
+- Образуванието на PPP
+- Закони за звуковата комбинация в думата
+- Страдателен залог и PPP на досегашните изучени корени
 :::
 
 ---
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. Причастие на минало време страдателен залог (PPP)
 
-Eine Möglichkeit, Passivsätze der Vergangenheit zu bilden, ist die Konstruktion mit dem sog. Partizip Perfekt Passiv (PPP). &lt;!-- TODO: Fallback translation --&gt;
+Един начин за образуване на изказвания в минало време страдателен залог е конструкцията с т.нар. Причастие на минало време страдателен залог (PPP).
 
 ::: grammar-box
-**In Wirklichkeit ist das PPP kein echtes Partizip, da es nicht von einem Tempusstamm gebildet wird. Es ist vielmehr eine Nominalbildung zur Wurzel mit dem Primärsuffix -ta bzw. -na. Deshalb spricht man in der indischen Grammatik vom Suffix kta.** &lt;!-- TODO: Fallback translation --&gt;
+**В действителност PPP не е истинско причастие, тъй като не се образува от тематичен корен за време. По-скоро това е номинална форма, образувана от корена с първичния суфикс -ta или -na. Затова в индийската граматика се говори за суфикс kta.**
 :::
 
 ---
 
-### 12.1.1. Schema für transitive Verben
+### 12.1.1. Схема за транзитивни глаголи
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- direktes Objekt (karman) im Nominativ (prathamā) -- Partizip Perfekt Passiv** &lt;!-- TODO: Fallback translation --&gt;
+**Агент (kartṛ) в инструментал (tṛtīyā) -- директен обект (karman) в номинатив (prathamā) -- причастие минало време страдателен залог**
 
-Das PPP stimmt in diesem Fall mit dem Objekt in Zahl, Fall und Geschlecht überein. &lt;!-- TODO: Fallback translation --&gt;
+PPP-то в този случай съвпада с обекта по число, падеж и род.
 
-Ein Hilfsverb („sein“) ist nicht nötig. &lt;!-- TODO: Fallback translation --&gt;
+Не е необходимо помощен глагол („да бъде“).
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-> **sādhunā svarga āptaḥ** = साधुना स्वर्ग आप्तः = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“ &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> **brāhmaṇena devīṣṭā** = ब्राह्मणेन देवीष्टा = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“ &lt;!-- TODO: Fallback translation --&gt;
+Примери:
+> **sādhunā svarga āptaḥ** = साधुना स्वर्ग आप्तः = „(От светия е бил постигнат рай) = Светият е постигнал рай.“
+> 
+> **brāhmaṇena devīṣṭā** = ब्राह्मणेन देवीष्टा = „(От брахман е била почитана богинята с жертвоприношение) = Брахманът е почитал богинята с жертвоприношение.“
 :::
 
 ---
 
-### 12.1.2. Schema I für intransitive Verben und Verben der Bewegung
+### 12.1.2. Схема I за непереходни глаголи и глаголи на движение
 
 ::: grammar-box
-**Agens (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv** &lt;!-- TODO: Fallback translation --&gt;
+**Агент (картр) в именителен падеж (пратхама) -- Причастие минало време страдателен залог**
 
-In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung. &lt;!-- TODO: Fallback translation --&gt;
+В този случай PPP-то съвпада с агента по число, падеж и род. Причастието минало време „страдателен залог“ при непереходните глаголи (глаголи без пряко допълнение) и глаголи на движение има активно значение.
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
-> **kṣatriyā nagaraṃ gatā** = क्षत्रिया नगरं गता = „Die Kṣatriyafrau ist in die Stadt gegangen.“ &lt;!-- TODO: Fallback translation --&gt;
+Пример:
+> **kṣatriyā nagaraṃ gatā** = क्षत्रिया नगरं गता = „Кшатрийската жена отиде в града.“
 :::
 
 ---
 
-### 12.1.3. Schema II für intransitive Verben und Verben der Bewegung
+### 12.1.3. Схема II за непереходни глаголи и глаголи на движението
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum** &lt;!-- TODO: Fallback translation --&gt;
+**Агент (картр) в инструментал (трития) -- PPP в именителен единствено число среден род**
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
-> **kṣatriyeṇa (nagaraṃ) gatam** = क्षत्रियेण (नगरं) गतम् = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“ &lt;!-- TODO: Fallback translation --&gt;
+Пример:
+> **kṣatriyeṇa (nagaraṃ) gatam** = क्षत्रियेण (नगरं) गतम् = „(От кшатрия беше (в града) отидено) = Кшатрията е (в града) отишла.“
 
-Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I. &lt;!-- TODO: Fallback translation --&gt;
+Конструкцията по Схема II е много по-рядка от конструкцията по Схема I.
 :::
 
 ---
 
-## 12.2. Zur Bedeutung des PPP
+## 12.2. За значението на PPP
 
-Während also das sog. „Partizip Perfekt Passiv“ für transitive Verben in erster Linie passive Bedeutung hat (**āpta** = „erreicht (worden)“) und für intransitive Verben und Verben der Bewegung aktive Bedeutung (**gata** = „gegangen“), gibt es einige Verben, bei denen das PPP sowohl aktive als auch passive Bedeutung haben kann: &lt;!-- TODO: Fallback translation --&gt;
+Следователно, така нареченото „Participium Perfektum Passivum“ при транзитивните глаголи има предимно пасивно значение (**āpta** = „достигнат (бидейки)“) и при нетранзитивните глаголи и глаголите на движение активно значение (**gata** = „отишъл“), но има някои глаголи, при които PPP може да има както активно, така и пасивно значение:
 
-z.B. &lt;!-- TODO: Fallback translation --&gt;
-- **gata** = गत = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = गतो मार्गः = „ein gegangener Weg“ (passiv) &lt;!-- TODO: Fallback translation --&gt;
-- **āpta** = आप्त = „erreicht worden“ (passiv), „erreicht habend“ (aktiv) &lt;!-- TODO: Fallback translation --&gt;
+напр.
+- **gata** = गत = „отишъл“ (активно); но също: **gato mārgaḥ** = गतो मार्गः = „един отишъл път“ (пасивно)
+- **āpta** = आप्त = „достигнат (бидейки)“ (пасивно), „достигащ“ (активно)
 
 ---
 
-## 12.3. Образоване des PPP
+## 12.3. Образуване на PPP
 
 ::: grammar-box
-Es kommen folgende Bildungsweisen vor (zu jeder Wurzel ist jeweils ihr PPP zu lernen!): &lt;!-- TODO: Fallback translation --&gt;
+Срещат се следните начини на образуване (за всеки корен трябва да се научи неговият PPP!):
 
-**(meist) tiefstufige Wurzel** &lt;!-- TODO: Fallback translation --&gt;
+**(най-често) корен в дълбок степенен ред**
 
-- **+ -ta** &lt;!-- TODO: Fallback translation --&gt;
-  - mit Bindevokal **-i-** davor: **-ita** &lt;!-- TODO: Fallback translation --&gt;
-  - ohne Bindevokal: **-ta** &lt;!-- TODO: Fallback translation --&gt;
-- **+ -na** &lt;!-- TODO: Fallback translation --&gt;
+- **+ -ta**
+  - със свързващ гласен звук **-i-** преди него: **-ita**
+  - без свързващ гласен звук: **-ta**
+- **+ -na**
 
-Die Femininstämme lauten: **-tā**, **-itā**, **-nā**; das Neutrum flektiert wie **phala** n. &lt;!-- TODO: Fallback translation --&gt;
+Женските основи са: **-tā**, **-itā**, **-nā**; средният род се спряга като **phala** n.
 :::
 
 ---
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP на -ta (kta)
 
-#### 12.3.1.1. Ohne Bindevokal -i- (aniṭ) &lt;!-- TODO: Fallback translation --&gt;
+#### 12.3.1.1. Без свързващ гласен -i- (aniṭ)
 
-*aniṭ* = „ohne (*an-*) dem Suffix vorangestelltes (*-i-*) *t*“ (d.h. ohne den Bindevokal *i*). &lt;!-- TODO: Fallback translation --&gt;
+*aniṭ* = „без (*an-*) предшествуващ суфикса (*-i-*) *t*“ (т.е. без свързващия гласен *i*).
 
 ::: grammar-box
-Ohne Bindevokal bildet man das PPP im Allgemeinen von vokalisch auslautenden Wurzeln sowie vielen anderen Wurzeln, ohne dass man eine feste Regel dafür angeben könnte, bei wie strukturierten Wurzeln der Bindevokal auftritt oder nicht. &lt;!-- TODO: Fallback translation --&gt;
+Без свързващ гласен действителното причастие на миналото време (PPP) се образува обикновено от корени, завършващи на гласен, както и от много други корени, без да може да се посочи твърда правилна зависимост за това при какви структурирани корени се появява или не се появява свързващият гласен.
 
-Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298. &lt;!-- TODO: Fallback translation --&gt;
+Списък на *aniṭ*-корените се намира при Kielhorn, *Grammatik* § 298.
 :::
 
-**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
+**Примери:**
 
 ::: grammar-box
 | Корен | PPP (kta) |
@@ -127,11 +131,11 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298. &l
 | **iṣ** 6 P[[br]](इष्) | **iṣ-ṭa**[[br]](इष्ट) |
 :::
 
-#### 12.3.1.2. Mit Bindevokal -i- (seṭ) &lt;!-- TODO: Fallback translation --&gt;
+#### 12.3.1.2. С свързващ гласен -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*). &lt;!-- TODO: Fallback translation --&gt;
+*seṭ* = *sa-iṭ* = „с (*sa-*) предшествуващ суфикса (*-i-*) *t*“ (т.е. със свързващия гласен *i*).
 
-**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
+**Примери:**
 
 ::: grammar-box
 | Корен | PPP (kta) |
@@ -144,96 +148,75 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298. &l
 
 ---
 
-## 12.4. Gesetze der Lautverbindung im Wort
+## 12.4. Закони за звуковата връзка в думата
 
-Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beachten. **Diese Gesetze sind für das Verständnis der gesamten Sanskrit-Formenlehre sehr wichtig.** &lt;!-- TODO: Fallback translation --&gt;
+При *aniṭ*-образувания трябва да се спазват следните закони за звуковата връзка в думата. **Тези закони са много важни за разбирането на цялата санскритска морфология.**
 
-::: grammar-box
-1. **k, t, p vor stimmlosem Verschlusslaut (z.B. t, th) bleiben unverändert:** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **pt, tt, kt** = **प्त्, त्त्, क्त्** &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
 
-2. **ct wird durch kt = क्त् ersetzt:** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **muc + ta » muk-ta** = **मुक्त** &lt;!-- TODO: Fallback translation --&gt;
-
-3. **śt wird durch ṣṭ = ष्ट् ersetzt:** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **dṛś + ti » dṛṣṭi** = **दृष्टि** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **dṛś + ta » dṛṣṭa** = **दृष्ट** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **viś + ta » viṣṭa** = **विष्ट** &lt;!-- TODO: Fallback translation --&gt;
-
-4. **Stimmhafter unaspirierter Verschlusslaut – außer j – wird vor stimmlosem Laut durch den ihm entsprechenden stimmlosen unaspirierten Laut ersetzt:** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **d + t(h) » tt(h)** = **त्त्, त्थ्** (wichtig für die 2. Präsensklasse) &lt;!-- TODO: Fallback translation --&gt;
-
-5. **jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **yuj + ta » yuk-ta** = **युक्त** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **yaj + ta » iṣ-ṭa** = **इष्ट** (&lt; \*yj-ta) &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **sṛj + ta » sṛṣ-ṭa** = **सृष्ट** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **sṛj + ti » sṛṣ-ṭi** = **सृष्टि** &lt;!-- TODO: Fallback translation --&gt;
-
-6. **Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **bh-t » b-dh** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; - **labh + ta » lab-dha** = **लब्ध** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **dh-t » d-dh** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; - **budh + ta » bud-dha** = **बुद्ध** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; - **yudh + ta » yud-dha** = **युद्ध** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; - **krudh + ta » krud-dha** = **क्रुद्ध** &lt;!-- TODO: Fallback translation --&gt;
-
-7. **h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **dah + ta » dag-dha** = **दग्ध** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **guh + ta » gūḍha** = **गूढ** (guh 1 (gūhati) „etwas verbergen“) &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **muh + ta » mug-dha / mūḍha** = **मुग्ध / मूढ** &lt;!-- TODO: Fallback translation --&gt;
-   &gt; **sah + ta » soḍha** = **सोढ** &lt;!-- TODO: Fallback translation --&gt;
+::: no-header
+| | |
+| :--- | :--- |
+| **1. k, t, p пред гласен беззвучен придъхател (напр. t, th) остават непроменени:** | **pt, tt, kt** = **प्त्, त्त्, क्त्** |
+| **2. ct се заменя с kt = क्त्:** | **muc + ta » muk-ta** = **मुक्त** |
+| **3. śt се заменя с ṣṭ = ष्ट्:** | **dṛś + ti » dṛṣṭi** = **दृष्टि**[[br]]**dṛś + ta » dṛṣṭa** = **दृष्ट**[[br]]**viś + ta » viṣṭa** = **विष्ट** |
+| **4. Звучен безпридъхателен придъхател – с изключение на j – се заменя пред беззвучен звук с съответния му беззвучен безпридъхателен звук:** | **d + t(h) » tt(h)** = **त्त्, त्थ्** (важно за 2-ри клас на присъствие) |
+| **5. jt се заменя с kt или ṣṭ (не факултативно!):** | **yuj + ta » yuk-ta** = **युक्त**[[br]]**yaj + ta » iṣ-ṭa** = **इष्ट** (&lt; \*yj-ta)[[br]]**sṛj + ta » sṛṣ-ṭa** = **सृष्ट**[[br]]**sṛj + ti » sṛṣ-ṭi** = **सृष्टि** |
+| **6. Звучен придъхателен придъхател + беззвучен придъхател » звучен безпридъхателен придъхател + звучен придъхателен придъхател (Закон за придъхателите на Бартоломе):** | **bh-t » b-dh:**[[br]]**labh + ta » lab-dha** = **लब्ध**[[br]]**dh-t » d-dh:**[[br]]**budh + ta » bud-dha** = **बुद्ध**[[br]]**yudh + ta » yud-dha** = **युद्ध**[[br]]**krudh + ta » krud-dha** = **क्रुद्ध** |
+| **7. h-t се заменя с ḍh с удължаване на предхождащо i или u; или с gdh. Пред такъв ḍh, a се заменя с o, рядко с ā:** | **dah + ta » dag-dha** = **दग्ध**[[br]]**guh + ta » gūḍha** = **गूढ** (guh 1 (gūhati) „скривам нещо”)[[br]]**muh + ta » mug-dha / mūḍha** = **मुग्ध / मूढ**[[br]]**sah + ta » soḍha** = **सोढ** |
 :::
+
+::::
 
 ---
 
 ## 12.5. Речник
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete) &lt;!-- TODO: Fallback translation --&gt;
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : пробужда се, пробужда се към познанието, разпознава; PPP **buddha** 3 пробуден, следователно **Buddha** = „Пробуденият“ (не: „Просветленият“)
 
 ::: media
 ![](/images/lekt1201.jpg)
-Abb.: गौतमो बुद्धः
-(Bildquelle: [Details](/licenses#lekt1201)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: गौतमो बुद्धः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1201))
 :::
 
-- **dah** 1 P (dahati), PPP **dagdha** दह् दहति दग्ध : (etwas) verbrennen &lt;!-- TODO: Fallback translation --&gt;
-- **sah** 1 Ā (sahate), PPP **soḍha** सह् sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen &lt;!-- TODO: Fallback translation --&gt;
-- **mṛga** m. मृग : Wildtier &lt;!-- TODO: Fallback translation --&gt;
-- **mārga** m. मार्ग : Weg (Wege waren oft die Wildwechsel) &lt;!-- TODO: Fallback translation --&gt;
+- **dah** 1 P (dahati), PPP **dagdha** दह् दहति दग्ध : (нещо) изгаря
+- **sah** 1 Ā (sahate), PPP **soḍha** सह् sahate soḍha : преодолява, понася, търпеливо понася = прощава
+- **mṛga** m. मृग : див звяр
+- **mārga** m. मार्ग : път (пътят често е бил дива пътека)
 
 ::: media
 ![](/images/lekt1202.jpg)
-Abb.: मार्गः
-(Bildquelle: [Details](/licenses#lekt1202)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: मार्गः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1202))
 :::
 
-- **api** अपि : auch (nachgestellt) &lt;!-- TODO: Fallback translation --&gt;
+- **api** अपि : също (поставено след)
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.: &lt;!-- TODO: Fallback translation --&gt;
+Към шестата класа на настоящето време някои местни грамматици причисляват някои корени, които образуват настоящата основа с назален инфикс и тематичен гласен a, напр.:
 
-- **muc** 6 U (muñcati), PPP **mukta** मुच् मुञ्चति मुक्त : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen &lt;!-- TODO: Fallback translation --&gt;
-- **sic** 6 U (siñcati), PPP **sikta** सिच् सिञ्चति सिक्त : beträufeln &lt;!-- TODO: Fallback translation --&gt;
+- **muc** 6 U (muñcati), PPP **mukta** मुच् मुञ्चति मुक्त : освобождава, оставя, избавя; от кръга на прераждането (**saṃsāra** m.) избавя = спасява
+- **sic** 6 U (siñcati), PPP **sikta** सिच् सिञ्चति सिक्त : поръсва
 
-Zur Wortbildung: &lt;!-- TODO: Fallback translation --&gt;
+Към образуването на думите:
 
-- **muc**: **mokṣa** m. मोक्ष : Loslösung, Befreiung, Erlösung &lt;!-- TODO: Fallback translation --&gt;
-- **sic** + **abhi-**: **abhiṣeka** m. अभिषेक : Besprengung eines Königs bei der Königsweihe, Königsweihe &lt;!-- TODO: Fallback translation --&gt;
-- **budh**: **bodhi** m./f. बोधि : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt) &lt;!-- TODO: Fallback translation --&gt;
+- **muc**: **mokṣa** m. मोक्ष : освобождение, избавление, спасение
+- **sic** + **abhi-**: **abhiṣeka** m. अभिषेक : поръсване на крал при коронацията, коронация
+- **budh**: **bodhi** m./f. बोधि : пробуждането (чрез което един Buddha или Jina достига до спасителното прозрение)
 
 ::: media
 ![](/images/lekt1203.jpg)
-Abb.: महावीरो जिनः
-(Bildquelle: [Details](/licenses#lekt1203)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: महावीरो जिनः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1203))
 :::
 
-- **buddhi** f. (**budh** + **-ti**) बुद्धि : Erkenntnis, Erkenntnisorgan. &lt;!-- TODO: Fallback translation --&gt;
+- **buddhi** f. (**budh** + **-ti**) बुद्धि : познание, орган на познанието.
 
 ---
 
-### 12.5.1. Passiv und PPP der bisher gelernten Коренn
+### 12.5.1. Страдателен залог и PPP на досегашните изучени корени
 
-| Корен[[br]]धातु | Passiv Сегашно време 3. sg. Indikativ[[br]]यक् लट् | PPP[[br]]क्त |
+| Корен[[br]]धातु | Страдателен сегашно време 3. л. ед. ч. обичаен[[br]]यक् लट् | PPP[[br]]क्त |
 | :--- | :--- | :--- |
 | **aś** 5 Ā[[br]]अश् | **aśyate**[[br]]अश्यते | **aṣṭa**[[br]]अष्ट |
 | **āp** 5 P[[br]]आप् | **āpyate**[[br]]आप्यते | **āpta**[[br]]आप्त |
@@ -247,45 +230,46 @@ Abb.: महावीरो जिनः
 | **gam** 1 P[[br]]गम् | **gamyate**[[br]]गम्यते | **gata**[[br]]गत |
 | **grah** 9 U[[br]]ग्रह् | **gṛhyate**[[br]]गृह्यते | **gṛhīta**[[br]]गृहीत |
 | **hṛ** 1 U[[br]]हृ | **hriyate**[[br]]ह्रियते | **hṛta**[[br]]हृत |
-| **i** 2 P[[br]]इ | **īyate**[[br]]ईयते | **ita**[[br]]इत | <!-- TODO: Fallback translation -->
-| **iṣ** 6 P[[br]]इष् | **iṣyate**[[br]]इष्यते | **iṣṭa**[[br]]इष्ट | <!-- TODO: Fallback translation -->
-| **jan** 4 Ā[[br]]जन् | **janyate**[[br]]जन्यते | **jāta**[[br]]जात | <!-- TODO: Fallback translation -->
-| **ji** 1 P[[br]]जि | **jīyate**[[br]]जीयते | **jita**[[br]]जित | <!-- TODO: Fallback translation -->
-| **kath** 10 U[[br]]कथ् | **kathyate**[[br]]कथ्यते | **kathita**[[br]]कथित | <!-- TODO: Fallback translation -->
-| **khād** 1 P[[br]]खाद् | **khādyate**[[br]]खाद्यते | **khādita**[[br]]खादित | <!-- TODO: Fallback translation -->
-| **kṛ** 8 U[[br]]कृ | **kriyate**[[br]]क्रियते | **kṛta**[[br]]कृत | <!-- TODO: Fallback translation -->
-| **krudh** 4 P[[br]]क्रुध् | **krudhyate**[[br]]क्रुध्यते | **kruddha**[[br]]क्रुद्ध | <!-- TODO: Fallback translation -->
-| **kup** 4 P[[br]]कुप् | **kupyate**[[br]]कुप्यते | **kupita**[[br]]कुपित | <!-- TODO: Fallback translation -->
-| **labh** 1 Ā[[br]]लभ् | **labhyate**[[br]]लभ्यते | **labdha**[[br]]लब्ध | <!-- TODO: Fallback translation -->
-| **man** 4 Ā[[br]]मन् | **manyate**[[br]]मन्यते | **mata**[[br]]मत | <!-- TODO: Fallback translation -->
-| **mṛ** 6 Ā[[br]]मृ | **mriyate**[[br]]म्रियते | **mṛta**[[br]]मृत | <!-- TODO: Fallback translation -->
+| **i** 2 P[[br]]इ | **īyate**[[br]]ईयते | **ita**[[br]]इत |
+| **iṣ** 6 P[[br]]इष् | **iṣyate**[[br]]इष्यते | **iṣṭa**[[br]]इष्ट |
+| **jan** 4 Ā[[br]]जन् | **janyate**[[br]]जन्यते | **jāta**[[br]]जात |
+| **ji** 1 P[[br]]जि | **jīyate**[[br]]जीयते | **jita**[[br]]जित |
+| **kath** 10 U[[br]]कथ् | **kathyate**[[br]]कथ्यते | **kathita**[[br]]कथित |
+| **khād** 1 P[[br]]खाद् | **khādyate**[[br]]खाद्यते | **khādita**[[br]]खादित |
+| **kṛ** 8 U[[br]]कृ | **kriyate**[[br]]क्रियते | **kṛta**[[br]]कृत |
+| **krudh** 4 P[[br]]क्रुध् | **krudhyate**[[br]]क्रुध्यते | **kruddha**[[br]]क्रुद्ध |
+| **kup** 4 P[[br]]कुप् | **kupyate**[[br]]कुप्यते | **kupita**[[br]]कुपित |
+| **labh** 1 Ā[[br]]लभ् | **labhyate**[[br]]लभ्यते | **labdha**[[br]]लब्ध |
+| **man** 4 Ā[[br]]मन् | **manyate**[[br]]मन्यते | **mata**[[br]]मत |
+| **mṛ** 6 Ā[[br]]मृ | **mriyate**[[br]]म्रियते | **mṛta**[[br]]मृत |
 | **muc** 6 U[[br]]मुच् | **mucyate**[[br]]मुच्यते | **mukta**[[br]]मुक्त |
-| **nī** 1 U[[br]]नी | **nīyate**[[br]]नीयते | **nīta**[[br]]नीत | <!-- TODO: Fallback translation -->
-| **paś**[[br]]पश् | **(dṛśyate)**[[br]]दृश्यते | **(dṛṣṭa)**[[br]]दृष्ट | <!-- TODO: Fallback translation -->
-| **pat** 1 P[[br]]पत् | **patyate**[[br]]पत्यते | **patita**[[br]]पतित | <!-- TODO: Fallback translation -->
-| **prach** 6 P[[br]]प्रच्छ् | **pṛcchyate**[[br]]पृच्छ्यते | **pṛṣṭa**[[br]]पृष्ट | <!-- TODO: Fallback translation -->
-| **pūj** 10 U[[br]]पूज् | **pūjyate**[[br]]पूज्यते | **pūjita**[[br]]पूजित | <!-- TODO: Fallback translation -->
-| **rakṣ** 1 P[[br]]रक्ष् | **rakṣyate**[[br]]रक्ष्यते | **rakṣita**[[br]]रक्षित | <!-- TODO: Fallback translation -->
-| **ram** 1 Ā[[br]]रम् | **ramyate**[[br]]रम्यते | **rata**[[br]]रत | <!-- TODO: Fallback translation -->
+| **nī** 1 U[[br]]नी | **nīyate**[[br]]नीयते | **nīta**[[br]]नीत |
+| **paś**[[br]]पश् | **(dṛśyate)**[[br]]दृश्यते | **(dṛṣṭa)**[[br]]दृष्ट |
+| **pat** 1 P[[br]]पत् | **patyate**[[br]]पत्यते | **patita**[[br]]पतित |
+| **prach** 6 P[[br]]प्रच्छ् | **pṛcchyate**[[br]]पृच्छ्यते | **pṛṣṭa**[[br]]पृष्ट |
+| **pūj** 10 U[[br]]पूज् | **pūjyate**[[br]]पूज्यते | **pūjita**[[br]]पूजित |
+| **rakṣ** 1 P[[br]]रक्ष् | **rakṣyate**[[br]]रक्ष्यते | **rakṣita**[[br]]रक्षित |
+| **ram** 1 Ā[[br]]रम् | **ramyate**[[br]]रम्यते | **rata**[[br]]रत |
 | **sah** 1 Ā[[br]]सह् | **sahyate**[[br]]सह्यते | **soḍha**[[br]]सोढ |
 | **sic** 6 U[[br]]सिच् | **sicyate**[[br]]सिच्यते | **sikta**[[br]]सिक्त |
-| **śru** 5 P[[br]]श्रु | **śrūyate**[[br]]श्रूयते | **śruta**[[br]]श्रुत | <!-- TODO: Fallback translation -->
-| **su** 5 U[[br]]सु | **sūyate**[[br]]सूयते | **suta**[[br]]सुत | <!-- TODO: Fallback translation -->
-| **svap** 2 P[[br]]स्वप् | **supyate**[[br]]सुप्यते | **supta**[[br]]सुप्त | <!-- TODO: Fallback translation -->
-| **tyaj** 1 P[[br]]त्यज् | **tyajyate**[[br]]त्यज्यते | **tyakta**[[br]]त्यक्त | <!-- TODO: Fallback translation -->
-| **uch**[[br]]उछ् | — | **uṣita**[[br]]उषित | <!-- TODO: Fallback translation -->
-| **vad** 1 P[[br]]वद् | **udyate**[[br]]उद्यते | **udita**[[br]]उदित | <!-- TODO: Fallback translation -->
-| **vas** 1 P[[br]]वस् | **uṣyate**[[br]]उष्यते | **uṣita**[[br]]उषित | <!-- TODO: Fallback translation -->
-| **vadh**[[br]]वध् | **vadyate**[[br]]वद्यते | **hata**[[br]]हत | <!-- TODO: Fallback translation -->
-| **yaj** 1 U[[br]]यज् | **ijyate**[[br]]इज्यते | **iṣṭa**[[br]]इष्ट | <!-- TODO: Fallback translation -->
-| **yudh** 4 Ā[[br]]युध् | **yudhyate**[[br]]युध्यते | **yuddha**[[br]]युद्ध | <!-- TODO: Fallback translation -->
+| **śru** 5 P[[br]]श्रु | **śrūyate**[[br]]श्रूयते | **śruta**[[br]]श्रुत |
+| **su** 5 U[[br]]सु | **sūyate**[[br]]सूयते | **suta**[[br]]सुत |
+| **svap** 2 P[[br]]स्वप् | **supyate**[[br]]सुप्यते | **supta**[[br]]सुप्त |
+| **tyaj** 1 P[[br]]त्यज् | **tyajyate**[[br]]त्यज्यते | **tyakta**[[br]]त्यक्त |
+| **uch**[[br]]उछ् | — | **uṣita**[[br]]उषित |
+
+| **vad** 1 P[[br]]वद् | **udyate**[[br]]उद्यते | **udita**[[br]]उदित |
+| **vas** 1 P[[br]]वस् | **uṣyate**[[br]]उष्यते | **uṣita**[[br]]उषित |
+| **vadh**[[br]]वध् | **vadyate**[[br]]वद्यते | **hata**[[br]]हत |
+| **yaj** 1 U[[br]]यज् | **ijyate**[[br]]इज्यते | **iṣṭa**[[br]]इष्ट |
+| **yudh** 4 Ā[[br]]युध् | **yudhyate**[[br]]युध्यते | **yuddha**[[br]]युद्ध |
 
 ---
 
 ## 12.6. Упражнение
 
-**A) Bilden Sie aus den Aktivsätzen von [Lektion 7](/lektionen/lektion07), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.** &lt;!-- TODO: Fallback translation --&gt;
+**A) Образувайте от активните изречения от [Лекция 7](/lektionen/lektion07), упражнение А, страдателни изречения в минало време с използване на PPP, при неизявени глаголи и глаголи на движение образувате активни изречения в минало време.**
 
-**B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.** &lt;!-- TODO: Fallback translation --&gt;
+**B) Образувайте съответните PPP за глаголните форми от [Лекция 10](/lektionen/lektion10), упражнение А. Имайте предвид, че на форма като sṛjati съответстват PPP във всички три рода.**
 
-**C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.** &lt;!-- TODO: Fallback translation --&gt;
+**C) Преобразувайте изреченията от [Лекция 10](/lektionen/lektion10), упражнение С, в страдателен залог в минало време.**

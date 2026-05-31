@@ -1,0 +1,11 @@
+---
+title: "Esercizio 61"
+uebung_id: 61
+category: "Esercizio"
+---
+
+# Esercizio 61
+
+La Lezione 61 costituisce la conclusione del corso di sanscrito e non contiene ulteriori esercizi scritti.
+
+Con lo studio dei nomi radicali, del futuro perifrastico e dei nomi denominativi, sono poste le basi per la lettura di testi originali in sanscrito. Il corso si conclude con l'invocazione tradizionale a Gaṇeśa (श्रीगणनाथ), che segna il passaggio dal libro di testo alla lettura autonoma.

@@ -1,52 +1,70 @@
 ---
+title: Lesson 13
+subtitle: "PPP in -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 13
 
 ---
 
-## 13.1. PPPs on -na-
+## 13.1. PPP on -na-
 
-No fixed rules can be established for the distribution of participles in the perfect passive (PPPs) between the suffixes *-ta-* and *-na-*. However:
+No fixed rules can be established for the distribution of PPPs on -ta- or -na-. However:
 
-:::: grammar-box
+::: grammar-box
 
-Virtually all roots ending in *-d* form their PPP with the suffix *-na-*. In this case, the sequence *-d-n-* is replaced by *-n-n-*, a substitution that does not otherwise occur in word-internal sandhi but rather imitates sentence-level sandhi.
+Almost all roots ending in -d form the PPP on -na-. In this case, -d-n- is replaced by -n-n-, which otherwise does not occur in word sandhi, but is an imitation of sentence sandhi.
 
-Example:  
-pad 4 Ā → PPP: panna 3 = पन्न
+Example:
+pad 4 Ā PPP: panna 3 = पन्न
 
-::::
+:::
 
 ---
 
-## 13.2. Further Notes on the Usage of the PPP
+## 13.2. Further on the Use of the PPP
 
 :::: grammar-box
 
-1. The PPP of verbs meaning "to think," "to wish," "to know," "to revere," as well as certain other verbs marked with ñi in the Dhātupāṭha (the root list of Pāṇini), does not only carry a past-tense meaning but can also be used with a present-tense meaning:
+1. The PPP of verbs meaning "to think," "to wish," "to know," "to know (be acquainted with)," "to revere," as well as certain other verbs marked in the Dhātupāṭha, the root list for Pāṇini, by ñi, does not only have past-tense meaning, but can also be used with present-tense meaning:
 
-    Examples:
-    * iṣṭa = इष्ट "desired" (i.e., not only desired in the past, but also in the present)
-    * tvarita = त्वरित "hastening, eager" (PPP of tvar 1 Ā "to hasten"; Dhātupāṭha: ñitvárā)
+    e.g.
+
+    ::: indent
+    इष्ट "desired" (i.e., not only wished for in the past, but also in the present)
+
+    त्वरित "hastening, hurried" (PPP to tvar 1 Ā "to hasten"; Dhātupāṭha: ñitvárā)
+    :::
 
 2. The PPP can be used attributively as an adjective:
 
-    Example:
-    * iṣṭaṃ phalam = इष्टं फलम् "the desired fruit (e.g., of actions)"
+    e.g.
 
-    In this case, if api (अपि) follows the PPP, api carries the meaning "although":
+    ::: indent
+    इष्टं फलम् "the desired fruit (e.g., of actions)"
+    :::
 
-    Example:
-    * iṣṭamapi phalaṃ na labhate = इष्टमपि फलं न लभते = "Although he desires the fruit, he does not obtain it."
+    If अपि follows the PPP in this case, अपि has the meaning "although":
 
-3. The neuter singular of the PPP of any verb can also be used as a verbal abstract noun:
+    e.g.
 
-    Examples:
-    * gata n. = गत : "the going, the walk"
-    * nṛtta n. = नृत्त : "the dancing, the dance"
+    ::: indent
+    इष्टमपि फलं न लभते = "Although he desires the fruit, he does not obtain it."
+    :::
+
+3. The neuter singular of the PPP of any verb can also be used as a verbal abstract:
+
+    e.g.
+
+    ::: indent
+    गत n.: "the going, the gait"
+
+    नृत्त n.: "the dancing, the dance"
+    :::
 
 ::::
 
@@ -56,10 +74,13 @@ pad 4 Ā → PPP: panna 3 = पन्न
 
 :::: grammar-box
 
-Attributive modifiers (appositions) in prose follow the standard word order, appearing before the noun they modify. Adjectival attributes agree with the noun in number, case, and gender:
+Attributes (modifiers) appear in prose in the normal word order before the word they modify. Adjectival attributes agree with the noun in number, case, and gender:
 
 Example:
-* sādhur iṣṭaṃ phalaṃ paśyati = साधुरिष्टं फलं पश्यति = "A saint sees the desired fruit (of his actions)."
+
+::: indent
+साधुरिष्टं फलं पश्यति = "A holy person sees the desired fruit (of their deeds)."
+:::
 
 ::::
 
@@ -69,147 +90,108 @@ Example:
 
 :::: grammar-box
 
-The taddhita suffixes *-mant* and *-vant* are used to form possessive adjectives from nouns. Their meaning is: "possessing that which is denoted by the underlying noun."
+Possessive adjectives are formed from nouns using the taddhita suffixes -mant or -vant. Their meaning is: "possessing that which is denoted by the underlying noun."
 
-*-vant* is attached to nouns whose final or penultimate sound is *a*, *ā*, or *m*, as well as to nouns ending in a stop consonant; to other nouns, *-mant* is generally attached.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
 
 Examples:
-* paśumant = पशुमन्त् "possessing cattle"
-* guṇavant = गुणवन्त् "possessing good qualities / virtue"
+
+::: indent
+पशुमन्त् "possessing cattle"
+
+गुणवन्त् "possessing good qualities / virtue"
+:::
 
 ::::
 
 ---
 
-## 13.5. Stem Gradation of Nouns
+## 13.5. Stem Inflection of Nouns
 
-Stems ending in *-mant* or *-vant* belong to the class of nominal stems exhibiting stem gradation.
+Stems ending in -mant or -vant belong to the nominal stems with stem gradation.
 
 ::: grammar-box
-For nominal stems with stem gradation, a distinction is made between strong and weak cases (cases). In the strong cases, the stem-forming suffix — in the case of root nouns, the root-like component — appears in the strong grade (guṇa) or lengthened grade (vṛddhi), whereas in the weak cases, it appears in the weak grade (zero grade).
+In nominal stems with stem gradation, one distinguishes between strong and weak cases (cases). In the strong cases, the stem-forming suffix — in the case of root nouns, the root-like component — has the strong grade or lengthened grade, in the weak cases the weak grade.
 :::
 
-**The strong cases are:**
+**Strong cases are:**
 
 | | Singular[[br]]एकवचन | Dual[[br]]द्विवचन | Plural[[br]]बहुवचन |
 | :--- | :--- | :--- | :--- |
-| **For Masculine and Feminine Nouns**[[br]]पुंस्, स्त्री | Nominative[[br]]प्रथमा[[br]]Accusative[[br]]द्वितीया[[br]]Vocative[[br]]सम्बोधनप्रथमा | Nominative[[br]]प्रथमा[[br]]Accusative[[br]]द्वितीया[[br]]Vocative[[br]]सम्बोधनप्रथमा | Nominative[[br]]प्रथमा[[br]][[br]]Vocative[[br]]सम्बोधनप्रथमा |
-| **For Neuter Nouns**[[br]]नपुंसक | — | — | Nominative[[br]]प्रथमा[[br]]Accusative[[br]]द्वितीया[[br]]Vocative[[br]]सम्बोधनप्रथमा |
+| **For Masculine and Feminine**[[br]]पुंस्, स्त्री | Nominative[[br]]प्रथमा[[br]]Accusative[[br]]द्वितीया[[br]]Vocative[[br]]सम्बोधनप्रथमा | Nominative[[br]]प्रथमा[[br]]Accusative[[br]]द्वितीया[[br]]Vocative[[br]]सम्बोधनप्रथमा | Nominative[[br]]प्रथमा[[br]][[br]]Vocative[[br]]सम्बोधनप्रथमा |
+| **For Neuter**[[br]]नपुंसक | — | — | Nominative[[br]]प्रथमा[[br]]Accusative[[br]]द्वितीया[[br]]Vocative[[br]]सम्बोधनप्रथमा |
 
 **All other cases are weak.**
 
 ::: grammar-box
-As the prior member (purva-pada) of a compound, a noun with stem gradation appears in the weak stem (in the case of three-grade nouns, in the so-called middle grade).
+As the first member of a compound, a noun with stem gradation stands in the weak stem (in the case of three-stemmed nouns, in the so-called middle stem).
 :::
 
-## 13.6. On Word-Sandhi
+---
 
-To understand the individual forms of the declension of nouns ending in *-mant* and *-vant*, the following rules of word-sandhi are necessary:
+## 13.6. On Word Sandhi
+
+To understand the individual forms of the declension of nouns ending in -mant and -vant, the following laws of word sandhi are necessary:
 
 :::: grammar-box
 
-1. **Number of final consonants**: If a word would end in two or more consonants, only the first consonant is retained; the others are dropped. The combination *-r-* + consonant is permitted.
+1. Number of final consonants of a word: If a word ends in two or more consonants, only the first consonant is retained, the others are dropped. The combination -r- + consonant is permitted.
 
-2. **A voiceless stop before a voiced stop (other than a nasal) is replaced by the corresponding voiced stop**:
+2. A voiceless stop is replaced by the corresponding voiced stop before a voiced stop (not a nasal):
 
     Examples:
-    * *-t* + *bh-* » *-d-bh-* द्भ्
-    * *-k* + *bh-* » *-g-bh-* ग्भ्
-    * *-c* + *bh-* » *-g-bh-* ग्भ्
-    * *-c* + *dh-* » *-g-dh-* ग्ध्
+
+    ::: indent
+    -t + bh- » -d-bh- द्भ्
+
+    -k + bh- » -g-bh- ग्भ्
+
+    -c + bh- » -g-bh- ग्भ्
+
+    -c + dh- » -g-dh- ग्ध्
+    :::
 
 ::::
 
 ---
 
-## 13.7. Case Endings of Consonant Stems
+## 13.7. Case endings of consonant stems
 
-:::: grammar-box
+::: grammar-box
 
 For consonant-ending stems:
-* The ending of the Accusative (dvitīyā) Plural Masculine and Feminine is -as.
-* For regularly formed stems, the Neuter in Nominative (prathamā) and Accusative (dvitīyā) Singular is without an ending.
-* For regularly formed stems, the Neuter has the ending of the Nominative and Accusative Plural as -i.
+* the ending of the accusative (dvitīyā) plural masculine and feminine is -as.
+* for regularly formed stems, the neuter in nominative (prathamā) and accusative (dvitīyā) singular is without ending.
+* for regularly formed stems, the neuter has the ending of the nominative and accusative plural -i.
 
-::::
+:::
 
 ---
 
-## 13.8. Declension of Stems in -mant and -vant
+## 13.8. Declension of stems in -mant and -vant
 
-:::: grammar-box
+::: grammar-box
 
 * strong stem: Noun + -mant- / -vant-
 * weak stem: Noun + -mat- / -vat- (from: *-mnt- / *-vnt-)
 
-
-  
-    
-      
-      Masculine पुंस्
-      Neuter नपुंसक
-    
-  
-  
-    
-      Singular एकवचन
-      Nominative प्रथमा
-      paśu-mān पशुमान्
-      guṇa-vān गुणवान्
-      paśu-mat पशुमत्
-      guṇa-vat गुणवत्
-    
-    
-      
-      Accusative द्वितीया
-      paśu-mant-am पशुमन्तम्
-      guṇa-vant-am गुणवन्तम्
-      paśu-mat पशुमत्
-      guṇa-vat गुणवत्
-    
-    
-      
-      Instrumental तृतीया
-      paśu-mat-ā पशुमता
-      guṇa-vat-ā गुणवता
-      paśu-mat-ā पशुमता
-      guṇa-vat-ā गुणवता
-    
-      
-      Plural बहुवचन
-      Nominative प्रथमा
-      paśu-mant-as पशुमन्तस्
-      guṇa-vant-as गुणवन्तस्
-      paśu-mant-i पशुमन्ति
-      guṇa-vant-i गुणवन्ति
-    
-    
-      
-      Accusative द्वितीया
-      paśu-mat-as पशुमतस्
-      guṇa-vat-as गुणवतस्
-      paśu-mant-i पशुमन्ति
-      guṇa-vant-i गुणवन्ति
-    
-    
-      
-      Instrumental तृतीया
-      paśu-mad-bhis पशुमद्भिस्
-      guṇa-vad-bhis गुणवद्भिस्
-      paśu-mad-bhis पशुमद्भिस्
-      guṇa-vad-bhis गुणवद्भिस्
-    
-  
-
+| | | Masculine || Neuter ||
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| Singular[[br]]एकवचन | Nominative[[br]]प्रथमा | paśu-mān[[br]]पशुमान् | guṇa-vān[[br]]गुणवान् | paśu-mat[[br]]पशुमत् | guṇa-vat[[br]]गुणवत् |
+| | Accusative[[br]]द्वितीया | paśu-mant-am[[br]]पशुमन्तम् | guṇa-vant-am[[br]]गुणवन्तम् | paśu-mat[[br]]पशुमत् | guṇa-vat[[br]]गुणवत् |
+| | Instrumental[[br]]तृतीया | paśu-mat-ā[[br]]पशुमता | guṇa-vat-ā[[br]]गुणवता | paśu-mat-ā[[br]]पशुमता | guṇa-vat-ā[[br]]गुणवता |
+| Plural[[br]]बहुवचन | Nominative[[br]]प्रथमा | paśu-mant-as[[br]]पशुमन्तस् | guṇa-vant-as[[br]]गुणवन्तस् | paśu-mant-i[[br]]पशुमन्ति | guṇa-vant-i[[br]]गुणवन्ति |
+| | Accusative[[br]]द्वितीया | paśu-mat-as[[br]]पशुमतस् | guṇa-vat-as[[br]]गुणवतस् | paśu-mant-i[[br]]पशुमन्ति | guṇa-vant-i[[br]]गुणवन्ति |
+| | Instrumental[[br]]तृतीया | paśu-mad-bhis[[br]]पशुमद्भिस् | guṇa-vad-bhis[[br]]गुणवद्भिस् | paśu-mad-bhis[[br]]पशुमद्भिस् | guṇa-vad-bhis[[br]]गुणवद्भिस् |
 
 Feminine:
 
-The feminine stem of stems in -mant- and -vant- ends in -mat-ī or -vat-ī. The declension follows that of devī, meaning there is no stem alternation.
+The feminine stem of stems in -mant- and -vant- ends in -mat-ī or -vat-ī. The declension follows that of devī, i.e., there is no stem gradation.
 
 Example:
-* paśumatī, guṇavatī (पशुमती गुणवती)
+* paśumatī, guṇavatī पशुमती गुणवती
 
-::::
+:::
 
 ---
 
@@ -217,67 +199,69 @@ Example:
 
 Learn the following words:
 
-* eva (एव) : emphasizes the preceding word
-* asura m. (असुर) : demon
+- **eva** एव : emphasizes the preceding word
+- **asura** m. असुर : demon
 
-**ASURA.** 'Spiritual, divine.'
-
-In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
-
-The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
-
-According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
-
-In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
-
-[Source: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
-
-::: center
+> **ASURA.** 'Spiritual, divine.'
+>
+> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
+>
+> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
+>
+> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+>
+> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+>
+> [Source: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
-![]/images/lekt1301.jpg
-Fig.: महिषासुरः,
-(Image source: [Details](/licenses#lekt1301))
-:::
+![](/images/lekt1301.jpg)
+Fig.: महिषासुरः
+(Image source: [Details](/en/licenses#lekt1301))
 :::
 
-* guṇa m. (गुण) : thread, cord; quality, good quality
-* pad 4 Ā (padyate), Pass.: padyate, PPP panna (पद् पद्यते पद्यते पन्न) : to go, to enter into
-* as 2 P (asti) (अस् अस्ति) : to be, to exist
-* as 4 P (asyati), Pass.: asyate, PPP asta (अस् अस्यति अस्यते अस्त) : to throw, (away-)cast
-* i 2 P (eti), Pass.: īyate, PPP ita (इ एति ईयते इत) : to go
-* pā 2 P (pāti), Pass. pāyate, PPP pāta (पा पाति पायते पात) : to protect, to guard
-* pā 1 P (pibati), Pass. pīyate, PPP pīta (पा पिबति पीयते पीत) : to drink (traditionally counted in the 1st class)
-* dviṣ 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa (द्विष् द्वेष्टि द्विष्यते द्विष्ट) : to hate, to oppose
-* ad 2 P (atti), Pass. adyate, PPP anna (अद् अत्ति अद्यते अन्न) : to eat, to consume
-* anna n. (अन्न) : food (from PPP: *ad-na: that which is eaten)
+- **guṇa** m. गुण : thread, cord; quality, good quality
+- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna पद् पद्यते पद्यते पन्न : to go, to fall into
+- **as** 2 P (asti) अस् अस्ति : to be, to exist
+- **as** 4 P (asyati), Pass.: asyate, PPP asta अस् अस्यति अस्यते अस्त : to throw, (away-)cast
+- **i** 2 P (eti), Pass.: īyate, PPP ita इ एति ईयते इत : to go
+- **pā** 2 P (pāti), Pass. pāyate, PPP pāta पा पाति पायते पात : to protect, to guard
 
-::: center
+::: indent
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta पा पिबति पीयते पीत : to drink (traditionally counted among the 1st class)
+:::
+
+- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa द्विष् द्वेष्टि द्विष्यते द्विष्ट : to hate, to be hostile to
+- **ad** 2 P (atti), Pass. adyate, PPP anna अद् अत्ति अद्यते अन्न : to eat, to consume
+- **anna** n. अन्न : food (from PPP: *ad-na: that which is eaten)
 
 ::: media
-![]/images/lekt1304.jpg
-Fig.: अन्नम्,
-(Image source: [Details](/licenses#lekt1304))
-:::
+![](/images/lekt1304.jpg)
+Fig.: अन्नम्
+(Image source: [Details](/en/licenses#lekt1304))
 :::
 
-Word Formation:
+Word formation:
 
 pad 4 Ā:
-* pada n. (पद) : step, position, place
-* pāda m. (पाद) : foot, a quarter, verse line
 
-::: center
+::: indent
+**pada** n. पद : step, location, place
+
+**pāda** m. पाद : foot, a quarter, verse line
+:::
 
 ::: media
-![]/images/lekt1303.jpg
-Fig.: चत्वारः पादाः : गजः)
-(Image source: [Details](/licenses#lekt1303))
-:::
+![](/images/lekt1303.jpg)
+Fig.: चत्वारः पादाः : गजः
+(Image source: [Details](/en/licenses#lekt1303))
 :::
 
 dviṣ 2 U:
-* dveṣa (द्वेष) : hatred
+
+::: indent
+**dveṣa** द्वेष : hatred
+:::
 
 ---
 
@@ -289,13 +273,10 @@ A) Translate and convert into active present tense sentences:
 २. बुद्धेन सत्यं बुद्धम् ।
 ३. बोध्या गौतमो मुक्तः ।
 
-::: center
-
 ::: media
-![]/images/lekt1305.jpg
-Fig.: अत्र गौतमो बुद्धो बोध्या मुक्तः)
-(Image source: [Details](/licenses#lekt1305))
-:::
+![](/images/lekt1305.jpg)
+Fig.: अत्र गौतमो बुद्धो बोध्या मुक्तः
+(Image source: [Details](/en/licenses#lekt1305))
 :::
 
 ४. शूद्रा मूढाः । (2 possibilities)
@@ -326,7 +307,9 @@ B) Translate and convert into passive sentences of the past tense:
 १५. नैवासुरो जयतीत्यृषयः पश्यन्ति ।
 १६. ब्राह्मणाः किं पिबन्ति खादन्ति च ॥
 
-## 13.11. Review Exercises
+---
+
+## 13.11. Review Exercise
 
 A) Translate the following sentences:
 
@@ -347,18 +330,15 @@ A) Translate the following sentences:
 
 B) Convert the sentences from Exercise A) into the passive voice.
 
-C) Form a PPP (Past Participle) construction for the sentences from Exercise A).
-
-::: center
+C) Form a PPP construction for the sentences from Exercise A).
 
 ::: media
-![]/images/lekt1302.jpg
-Fig.: सत्यमेव जयते)
-(Image source: [Details](/licenses#lekt1302))
-:::
+![](/images/lekt1302.jpg)
+Fig.: सत्यमेव जयते
+(Image source: [Details](/en/licenses#lekt1302))
 :::
 
-D) From which phonetic combinations could the following Sandhi forms have arisen? Provide all possibilities:
+D) From which sound combinations could the following Sandhi forms have arisen? Provide all possibilities:
 
 1. -a before a vowel (except a-)
 2. -ā-
@@ -380,14 +360,14 @@ D) From which phonetic combinations could the following Sandhi forms have arisen
 18. -ay before a vowel
 19. -av before a vowel
 20. -ar-
-21. -ir before a vowel or voiced consonant
-22. -īr before a vowel or voiced consonant
-23. -ur before a vowel or voiced consonant
-24. -ūr before a vowel or voiced consonant
-25. -er before a vowel or voiced consonant
-26. -or before a vowel or voiced consonant
-27. -air before a vowel or voiced consonant
-28. -aur before a vowel or voiced consonant
+21. -ir before a vowel or a voiced consonant
+22. -īr before a vowel or a voiced consonant
+23. -ur before a vowel or a voiced consonant
+24. -ūr before a vowel or a voiced consonant
+25. -er before a vowel or a voiced consonant
+26. -or before a vowel or a voiced consonant
+27. -air before a vowel or a voiced consonant
+28. -aur before a vowel or a voiced consonant
 29. -ñj-
 30. -ñś-
 31. -ñch-
@@ -402,14 +382,14 @@ D) From which phonetic combinations could the following Sandhi forms have arisen
 
 E) Translate into Sanskrit:
 
-1. The goddess was angry.
-2. Śūdras have gone to heaven.
-3. The farmers have gone the way.
-4. The people were liberated by the Buddha’s teaching.
+1. The goddess was angered.
+2. Śūdras have reached a heaven.
+3. The farmers have walked the path.
+4. The people were liberated by the Buddha's teaching.
 5. The son danced.
-6. The amulet protected the teacher.
-7. A Brahmin did not tell an untruth.
-8. Śūdra women worshipped the goddess with offerings.
+6. The amulet has protected the teacher.
+7. A Brāhmaṇa has not spoken an untruth.
+8. Śūdra women have honored the goddess with offerings.
 9. Buddha has awakened to the truth = Buddha has recognized the truth.
 10. The Vedic sages have heard the Śruti.
 11. The sacrificial priests have pressed the Soma.

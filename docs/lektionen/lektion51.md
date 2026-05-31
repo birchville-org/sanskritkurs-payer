@@ -1,6 +1,10 @@
 ---
+title: Lektion 51
+subtitle: "उपपद-Komposita"
 lesson_id: 51
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 51
@@ -41,6 +45,7 @@ a) कृत्-Suffix \-Ø
 ::: media
 ![](/images/lekt5101.jpg)
 Abb.: भूमिभुज्
+ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008)
 (Bildquelle: [Details](/licenses#lekt5101))
 :::
 
@@ -69,6 +74,7 @@ b) कृत्-Suffix -t
 ::: media
 ![](/images/lekt5103.jpg)
 Abb.: पापकृत्
+भरतपुर, राजस्थान
 (Bildquelle: [Details](/licenses#lekt5103))
 :::
 c) कृत्-Suffix -a
@@ -98,6 +104,7 @@ c) कृत्-Suffix -a
 ::: media
 ![](/images/lekt5102.jpg)
 Abb.: द्विपो द्विर्पिबति : हस्तेन च मुखेन च
+नेपाल
 (Bildquelle: [Details](/licenses#lekt5102))
 :::
 
@@ -266,6 +273,7 @@ Lok. परिव्राट्सु
 ::: media
 ![](/images/lekt5104.jpg)
 Abb.: परिव्राट्
+पुष्कर
 (Bildquelle: [Details](/licenses#lekt5104))
 :::
 ### 51.2.3. Stämme auf -h
@@ -399,6 +407,7 @@ Abb.: ऋतुः
 ::: media
 ![](/images/lekt5107.jpg)
 Abb.: जटा
+ऋषिकेश
 (Bildquelle: [Details](/licenses#lekt5107))
 :::
 तुल्य 3: gleich, vergleichbar (तृतीयया)
@@ -453,6 +462,7 @@ PPP गर्हित
 ::: media
 ![](/images/lekt5108.jpg)
 Abb.: पिशितम्
+Kolkata = কলকাতা
 (Bildquelle: [Details](/licenses#lekt5108))
 :::
 उपहार m.: Darbringung, Opfer, Geschenk
@@ -462,6 +472,7 @@ Abb.: पिशितम्
 ::: media
 ![](/images/lekt5109.jpg)
 Abb.: मधु
+City Palace, उदयपुर
 (Bildquelle: [Details](/licenses#lekt5109))
 :::
 मांस n.: Fleisch
@@ -471,6 +482,7 @@ Abb.: मधु
 ::: media
 ![](/images/lekt5110.jpg)
 Abb.: मृगया
+Jagd mit चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Bildquelle: [Details](/licenses#lekt5110))
 :::
 शिवा f.: (weibl.) Schakal (Goldschakal = _Canis aureus_)
@@ -478,6 +490,7 @@ Abb.: मृगया
 ::: media
 ![](/images/lekt5111.jpg)
 Abb.: शिवा
+_Canis aureus_, Kalatop Khajjiar Sanctuary
 (Bildquelle: [Details](/licenses#lekt5111))
 :::
 रुत n.: Geschrei
@@ -487,6 +500,7 @@ Abb.: शिवा
 ::: media
 ![](/images/lekt5112.jpg)
 Abb.: कौशिकः
+Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
 (Bildquelle: [Details](/licenses#lekt5112))
 :::
 शकुनि m.: Vogel
@@ -502,6 +516,7 @@ schwacher Stamm vor Konsonant श्व
 ::: media
 ![](/images/lekt5113.jpg)
 Abb.: श्वा लिङ्गं च
+Karnataka = ಕರ್ನಾಟಕ
 (Bildquelle: [Details](/licenses#lekt5113))
 :::
 परिचित 3: vertraut, bekannt
@@ -515,6 +530,7 @@ Abb.: श्वा लिङ्गं च
 ::: media
 ![](/images/lekt5114.jpg)
 Abb.: आपानकम्
+जोधपुर
 (Bildquelle: [Details](/licenses#lekt5114))
 :::
 क्रूर 3: roh, grausam
@@ -534,6 +550,7 @@ PPP दिग्ध
 ::: media
 ![](/images/lekt5115.jpg)
 Abb.: मूषिकाविषाणि
+Bangalore = ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt5115))
 :::
 भुजंग m.: Schlange
@@ -541,6 +558,7 @@ Abb.: मूषिकाविषाणि
 ::: media
 ![](/images/lekt5116.jpg)
 Abb.: भुजंगः
+Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt5116))
 :::
 सायक m.: Pfeil
@@ -566,6 +584,7 @@ Abb.: भुजंगः
 ::: media
 ![](/images/lekt5118.jpg)
 Abb.: मणिः
+Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC
 (Bildquelle: [Details](/licenses#lekt5118))
 :::
 वन n.: Wald
@@ -628,7 +647,6 @@ Erklärung: -अभिषेकौ Nom.Akk.Vok.Dual.mask. (Dualdvandva)
 आसीच्चेति । मे मम मनसि चित्त आसीद्बभूव । खेद इति शेषः । तदेव दर्शयति -- अहो इत्यादिना । अहो इत्याश्चर्ये । एतेषां भिल्लानां जीवितं प्राणितं मोहो ऽज्ञानं प्रायं प्रचुरं यत्र तादृशम् । चः पुनरर्थे । चरितमाचरणं साधुजनैः सज्जनजनैर्गर्हितं निन्दितम् । तदेव विशेषतो दर्शयति -- तथा हीति । पुरुषेति । पुरुषस्य पुंसो यत्पिशितं मांसं तस्य य उपहारो भगवत्यै नैवेद्यदर्शनं तस्मिन्धर्मबुद्धिः श्रेयोधीः । आहार इति । आहारः प्रत्यवसानं साधुजनैर्गर्हितो निन्दितो मधुमांसादिर्मधुः मद्यं माक्षिकं वा । मांसं प्रतीतम् । ते आदौ यस्येति बहुव्रीहिः । आदिशब्दात्कन्दादिपरिग्रहः । श्रम इति । श्रमः शक्तिसाधनायासो मृगयाखेटकः । शास्त्रमिति । शिवा सृगाली तस्य रुतं शब्दितं शास्त्रमुच्चस्वरवेदपाठः । प्रबोधजनकत्वसाम्यात्तदुपमानम् । सदिति । सदसतां शुभाशुभानां समुपदेष्टारो बोधकाः कौशिका उलूकाः । प्रज्ञेति । शकुनयः पत्त्रिणस्तेषां स्थूलमहत्त्वादिना ज्ञानं तदेव प्रज्ञा विवेकबुद्धिः । परीति । श्वानः सारमेयाः परिचिता विश्वासपालत्राणि । राज्यमिति । शून्यासु जनरहितासु विन्ध्याटवीषु राज्यं स्वामित्वम् । आपानकेति । उत्सवः संतुष्टिकार्यं तदेवापानमेवापानकम् । स्वार्थे कः । पानगोष्ठिका । मित्राणीति । क्रूरं यत्कर्म तत्साधनानि तद्धेतुभूतानि धनूंष्येव चापान्येव मित्राणि सहृदः । हितचिन्तकानीति यावत् । सहाया इति । विषेण दिग्धं मुखमाननं येषामेवंविधाः सायका बाणास्त एव सहाया इष्टकार्यकर्तृत्वात्साहाय्यकारिणः । क इव । भुजंगाः सर्पा इव । एतेषां विषदिग्धमुखत्वं स्वाभाविकम् । तेषामौपाधिकमिति भावः । गीतमिति । मुग्धा अनभिज्ञा ये मृगा हरिणास्तेषामुत्साहकारि स्तब्धताविधायि गीतं गानम् । कलत्रेति । परयोषितो ऽन्यस्त्रिय एव बन्दी ग्रहकस्तद्रूपत्वेन गृहीताः स्त्रीकृताः कलत्राणि स्वपत्न्यः । क्रूरेति । क्रूरात्मभिर्दुष्टात्मभिः शार्दुलैश्चित्रकैः समं संवासः सहावस्थानम् । पश्वेति । पशवो महिषास्तेषां रुधिरेण रक्तेन देवतार्चनं देवपूजनम् । मांसेनेति । मांसेन पिशितेन बलिर्हन्तकरस्तत्कर्म तत्कृत्यम् । चौर्येणेति । चौर्येण परद्रव्यापहारेण जीवनं प्राणधारणम् । भूषणनीति । भूषणान्याभरणानि भुजंगमणयः सर्परत्नानि । पर्वतवासित्वात्तेषां ते सुलभा इति भावः । वनेति । वनकरिणामरण्यहस्तिनां मदैर्दानवारिभिरङ्गरागो विलेपनम् । यस्मिन्निति । अनिर्दिष्टनामनि कानने वने निवसन्ति निवासं कुर्वन्ति तदेव काननमशेषतः समग्रत उत्खातमुत्पाटितं मूलं मध्यभागो यस्यैवंभूतं कुर्वते विदधत इति पूर्वोक्तप्रकारेण मयि चन्तयति ध्यायति सत्येव ... ॥
 
 ::: deleteme-box
-### Quellen
 
 **lekt5101:** ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008) [Bildquelle: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)]
 

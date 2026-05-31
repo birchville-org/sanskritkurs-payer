@@ -1,3 +1,7 @@
+---
+outline: 2
+---
+
 ::: deleteme-box
 **Zitierweise & Rechte**
 
@@ -10,420 +14,408 @@
 
 ## Lektion 2
 
-Lernen Sie folgende Wörter:
 
-deva m. -- देव : Himmlischer, Gott ; Fürst, König (besonders in Anrede)
 
-īśvara m. -- ईश्वर : Herr, Herrscher, oberste Gottheit, Gott (im monotheistischen Sinn)
+**deva** m. -- देव : Himmlischer, Gott; Fürst, König.
 
-brāhmaṇa m. -- ब्राह्मण : Brahmane, Angehöriger des ersten Stands (varṇa m.), des geistlichen Stands -- Priesterstands -- und Lehrstands.
+**īśvara** m. -- ईश्वर : Herr, Herrscher, Gott (monotheistisch).
 
-kṣatriya m. -- क्षत्रिय : Kṣatriya, Angehöriger des zweiten Stands (varṇa m.), des Fürstenstands und Wehrstands
+**brāhmaṇa** m. -- ब्राह्मण : Brahmane (geistlicher Stand).
 
-vaiśya m. -- वैश्य : Vaiṣya, Angehöriger des dritten Stands (varṇa m.), des Nährstands und Händlerstands
+**kṣatriya** m. -- क्षत्रिय : Kṣatriya (Fürsten- und Wehrstand).
 
-śūdra m. -- शूद्र : Śūdra, Angehöriger des vierten Stands (varṇa m.), des Knechtstands und Dienstleistungsstands (Handwerker usw.)
+**vaiśya** m. -- वैश्य : Vaiśya (Nähr- und Händlerstand).
 
-> Nach der klassischen Theorie (z.B. Manusmṛti i, 88-91) ist Aufgabe
-> 
-> *   der Brahmanen
->     *   Vedastudium
->     *   Lehre
->     *   Opfer für sich
->     *   Opfer für andere
->     *   Geben
->     *   Empfangen von Gaben
-> *   der Kṣatriyas
->     *   das Volk schützen
->     *   Gaben (an Brahmanen) geben
->     *   für sich opfern
->     *   Vedastudium
-> *   der Vaiśyas
->     *   Viehhaltung
->     *   Landwirtschaft
->     *   Handel
->     *   Geldverleih
->     *   für sich opfern
->     *   Gaben (an Brahmanen) geben
->     *   Vedastudium
-> *   der Śūdras
->     *   den drei oberen Klassen dienen
+**śūdra** m. -- शूद्र : Śūdra (Dienstleistungsstand).
 
-dvija m. -- द्विज : Zweimalgeborener: Angehöriger eines der drei ersten Stände (varṇa m.); zweimal geboren: einmal natürliche Geburt, das zweite Mal durch die Zeremonie des upanayana (n.), bei der der Knabe initiiert wird; insbesondere: dvija = Brahmane ; dvija auch = Vogel oder ein anderes eigeborenes Lebewesen: sie erscheinen in einer ersten Geburt als Ei, in einer zweiten beim Schlüpfen.
+::: tip Die vier Stände (varna)
+Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt:
 
-varṇa m.-- वर्ण : Farbe, Geburtsstand
+- **der Brahmanen**
+  - Vedastudium
+  - Lehre
+  - Opfer für sich
+  - Opfer für andere
+  - Geben
+  - Empfangen von Gaben
+- **der Kṣatriyas**
+  - das Volk schützen
+  - Gaben (an Brahmanen) geben
+  - für sich opfern
+  - Vedastudium
+- **der Vaiśyas**
+  - Viehhaltung
+  - Landwirtschaft
+  - Handel
+  - Geldverleih
+  - für sich opfern
+  - Gaben (an Brahmanen) geben
+  - für sich opfern
+  - Vedastudium
+- **der Śūdras**
+  - den drei oberen Klassen dienen
+:::
 
-Die vier Stände (varṇa m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
+**dvija** m. -- द्विज : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya).
+
+**varṇa** m. -- वर्ण : Farbe, Geburtsstand (Strebung).
+
+Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
 
 ::: media
 ![](/images/lekt0201.jpg)
-Abb.: यूरोप-मध्यकाल-वर्णाः
+Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
 (Bildquelle: [Details](/licenses#lekt0201))
 :::
 
-Max Weber &lt;1864 - 1920&gt; definiert Stand so
+**Beschriftung:**
+- **Priesterstand** (~Brāhmaṇa): Tu supplex ora = Du bete flehend!
+- **Adelsstand** (~Kṣatriya): Tu protege = Du schütze!
+- **Bauernstand** (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite!
 
-> »Stand« soll eine Vielheit von Menschen heißen, die innerhalb eines Verbandes wirksam
-> 
-> 1.  eine ständische Sonderschätzung, - eventuell also auch
-> 2.  ständische Sondermonopole in Anspruch nehmen.
-> 
-> Stände können entstehen
-> 
-> 1.  primär, durch eigene ständische Lebensführung, darunter insbesondere durch die Art des Berufs (Lebensführungs- bzw. Berufsstände),
-> 2.  sekundär, erbcharismatisch, durch erfolgreiche Prestigeansprüche kraft ständischer Abstammung (Geburtsstände),
-> 3.  durch ständische Appropriation von politischen oder hierokratischen Herrengewalten als Monopole (politische bzw. hierokratische Stände).
-> 
->   
-> Die geburtsständische Entwicklung ist regelmäßig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere \[von\] Herren \[gewalten oder Erwerbs\] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen.
-> 
-> Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, entstehen und bestehen Stände vorzugsweise auf dem Boden der monopolistisch leiturgischen oder der feudalen oder der ständisch patrimonialen Bedarfsdeckung von Verbänden.
-> 
-> »Ständisch« soll eine Gesellschaft heißen, wenn die soziale Gliederung vorzugsweise nach Ständen, »klassenmäßig«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet.
-> 
-> Jede ständische Gesellschaft ist _konventional_, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung."
-> 
-> \[Weber, Max &lt;1864 - 1920&gt;: Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. -- 5., revidierte Aufl., Studienausgabe. --  Tübingen : Mohr, 1976. -- ISBN: 3-16-538521-1. -- S. 625 f.\]
+Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus.
+
+Max Weber &lt;1864 – 1920&gt; definiert Stand so:
+
+::: note-box
+»**Stand**« soll eine Vielheit von Menschen heißen, die innerhalb eines Verbandes wirksam
+a) eine ständische Sonderschätzung, - eventuell also auch
+b) ständische Sondermonopole in Anspruch nehmen.
+
+Stände können entstehen
+a) primär, durch eigene ständische Lebensführung, darunter insbesondere durch die Art des **Berufs** (**Lebensführungs- bzw. Berufsstände**),
+b) sekundär, erbcharismatisch, durch erfolgreiche Prestigeansprüche kraft ständischer **Abstammung** (**Geburtsstände**),
+c) durch ständische **Appropriation** von politischen oder hierokratischen Herrengewalten als Monopole (**politische bzw. hierokratische Stände**).
+
+Die geburtsständische Entwicklung ist regelmäßig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere [von] Herren [gewalten oder Erwerbs] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen.
+
+Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, entstehen und bestehen Stände vorzugsweise auf dem Boden der monopolistisch leiturgischen oder der feudalen oder der ständisch patrimonialen Bedarfsdeckung von Verbänden.
+
+»**Ständisch**« soll eine Gesellschaft heißen, wenn die soziale Gliederung vorzugsweise nach Ständen, »**klassenmäßig**«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet.
+
+Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
+
+[**Weber, Max &lt;1864 – 1920&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+:::
 
 Varṇas sind demgemäß Geburtsstände.
 
-kavi m. -- कवि : Dichter
+**kavi** m. -- कवि : Dichter.
 
-agni m. -- अग्नि : Feuer, Gott Agni
+**agni** m. -- अग्नि : Feuer, Gott Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Abb.: अग्निः
+Abb.: Gott Agni, Miniatur, 18. Jh.
 (Bildquelle: [Details](/licenses#lekt0203))
 :::
 
-sādhu 3 -- साधु : richtig, gut
+**sādhu** 3 -- साधु : richtig, gut.
 
-sādhu m. -- साधु : "heiliger" Mann, Sādhu
+**sādhu** m. -- साधु : "heiliger" Mann, Sādhu.
 
 ::: media
 ![](/images/lekt0202.jpg)
-Abb.: साधुः पशुपतिनाथमन्दिरम् काठमाण्डौ नेपालम्
+Abb.: Sādhu (साधु), Pashupatinath Tempel, Kathmandu.
 (Bildquelle: [Details](/licenses#lekt0202))
 :::
 
-guru 3 -- गुरु : schwer, bedeutend, verehrenswert
+**guru** 3 -- गुरु : schwer, bedeutend, verehrenswert
 
-guru m. -- गुरु : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister
+**guru** m. -- गुरु : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister
 
+---
 
 ## Lektion 3
 
-Lernen Sie folgende Wörter:
 
-śruti f. = श्रुति:  das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's)
 
-smṛti f. = स्मृति: Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu śruti. Umfasst:
+**Lernen Sie folgende Wörter:**
 
-*   die sechs vedāṅga n. = वेदाङ्ग
-    1.  śikṣā f. = शिक्षा: rechte Aussprache
-    2.  chandas n. = छन्दस्  Metrum
-    3.  vyākaraṇa n. = व्याकरण: Grammatik
-    4.  nirukta n. = निरुक्त : Worterklärung, Etymologie
-    5.  jyotiṣa n. =ज्योतिष : Astronomie, Kalenderlehre
-    6.  kalpa m. = कल्प : Zeremoniell
-*   śrautasūtra n. = श्रौतसूत्र : Lehrwerke für den Vollzug der großen Opfer
-*   gṛhyasūtra n. = गृह्यसूत्र : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
-*   dharmasūtra n. = धर्मसूत्र und dharmaśāstra n. = धर्मशास्त्र : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
-*   die großen Epen mahābhārata n. = महाभारत und rāmāyaṇa n. = रामायण
-*   die purāṇa n. = पुराण
-*   nītiśāstra n = नीतिशास्त्र : Lehrwerke der Lebensklugheit
+**śruti** f. = श्रुति : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
 
-smṛti ist besonders auch Bezeichnung für Dharmalehrwerke
+**smṛti** f. = स्मृति : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst:
+- die sechs **vedāṅga** n. (वेदाङ्ग)
+  1. **śikṣā** f. (शिक्षा): rechte Aussprache
+  2. **chandas** n. (छन्दस्): Metrum
+  3. **vyākaraṇa** n. (व्याकरण): Grammatik
+  4. **nirukta** n. (निरुक्त) : Worterklärung, Etymologie
+  5. **jyotiṣa** n. (ज्योतिष) : Astronomie, Kalenderlehre
+  6. **kalpa** m. (कल्प) : Zeremoniell
+- **śrautasūtra** n. (श्रौतसूत्र) : Lehrwerke für den Vollzug der großen Opfer
+- **gṛhyasūtra** n. (गृह्यसूत्र) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
+- **dharmasūtra** n. (धर्मसूत्र) und **dharmaśāstra** n. (धर्मशास्त्र) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
+- die großen Epen **mahābhārata** n. (महाभारत) und **rāmāyaṇa** n. (रामायण)
+- die **purāṇa** n. (पुराण)
+- **nītiśāstra** n. (नीतिशास्त्र) : Lehrwerke der Lebensklugheit
 
-dhenu f. = धेनु : (Milch-)kuh
+**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke.
 
-paśu m. =पशु : domestiziertes Nutztier, Vieh (Kollektivum)
+**dhenu** f. = धेनु : (Milch-)kuh.
 
-devatā f. = देवता : Gottheit (abstrakt und konkret)
+**paśu** m. = पशु : domestiziertes Nutztier, Vieh (Kollektivum).
 
-brāhmaṇī f. = ब्राह्मणी : Brahmanin
+**devatā** f. = देवता : Gottheit (abstrakt und konkret).
 
-kṣatriyā f. = क्षत्रिया : weibliche Kṣatriya
+**brāhmaṇī** f. = ब्राह्मणी : Brahmanin.
 
-kṣatriyī f. = क्षत्रियी : Frau eines Kṣatriya
+**kṣatriyā** f. = क्षत्रिया : weibliche Kṣatriya.
 
-vaiṣyā f. = वैश्या : weibliche Vaiśya
+**kṣatriyī** f. = क्षत्रियी : Frau eines Kṣatriya.
 
-śūdrā f. = शूद्रा : weibliche Śūdra
+**vaiśyā** f. = वैश्या : weibliche Vaiśya.
 
-śūdrī f. / śūdrāṇī f. = शूद्री शूद्राणी : Frau eines Śūdra
+**śūdrā** f. = शूद्रा : weibliche Śūdra.
 
-devī f. = देवी : Göttin, insbes. Durgā f. = दुर्गा, die Gattin Śiva's = शिव
+**śūdrī** f. / **śūdrāṇī** f. = शूद्री शूद्राणी : Frau eines Śūdra.
+
+**devī** f. = देवी : Göttin, insbes. Durgā f. = दुर्गा, die Gattin Śiva's = शिव.
 
 ::: media
 ![](/images/lekt0303.jpg)
-Abb.: दुर्गा
-(Bildquelle: [Details](/licenses#lekt0303))
+Abb.: Durgā = दुर्गा, Orissa
+(Bildquelle: [Details](/images/lekt0303))
 :::
-sādhvī f. = साध्वी : fem. zu sādhu
 
-gurvī f. = गुर्वी : fem. zu guru
+**sādhvī** f. = साध्वी : fem. zu sādhu.
 
-asmitā f. = अस्मिता : "Ich-bin-heit", d.h. der (falsche) Glaube: Ich bin es, der sieht usw.
+**gurvī** f. = गुर्वी : fem. zu guru.
 
-ānvīkṣikī f. = आन्वीक्षिकी : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt)
+**asmitā** f. = अस्मिता : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw.
 
-upekṣā f. = उपेक्षा : Nichtbeachtung, Gleichmut
+**ānvīkṣikī** f. = आन्वीक्षिकी : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt).
 
-karuṇā f. = करुणा : Mitgefühl, Mitleid
+**upekṣā** f. = उपेक्षा : Nichtbeachtung, Gleichmut.
 
-muditā f. = मुदिता : Freude, insbesondere Mitfreude (Gegensatz zu Neid)
+**karuṇā** f. = करुणा : Mitgefühl, Mitleid.
 
+**muditā** f. = मुदिता : Freude, insbesondere Mitfreude (Gegensatz zu Neid).
+
+---
 
 ## Lektion 5
 
-Lernen Sie folgende Wörter:
 
-abhiniveṣa m. = अभिनिवेष : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes
 
-kāma m. = काम : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma
+**Lernen Sie folgende Wörter:**
+
+**abhiniveṣa** m. = अभिनिवेष : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes.
+
+**kāma** m. = काम : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma.
 
 ::: media
 ![](/images/lekt0501.jpg)
-Abb.: कामदेवः
-(Bildquelle: [Details](/licenses#lekt0501))
+Abb.: Gott Kāma = kāmadeva = कामदेव, 18. Jhdt.
+(Bildquelle: Wikipedia, Public domain)
 :::
 
-krodha m. = क्रोध : Zorn
+**krodha** m. = क्रोध : Zorn.
 
-kleśa m. = क्लेश : Qual, Plage
+**kleśa** m. = क्लेश : Qual, Plage.
 
-trayī f. = त्रयी : Dreizahl; insbes. die drei Veden (Ṛgveda, Sāmaveda, Yajurveda)
+**trayī** f. = त्रयी : Dreizahl; insbes. die drei Veden (Ṛgveda, Sāmaveda, Yajurveda).
 
-daṇḍanīti f. = दण्डनीति : Politik (ein Tatpuruṣa aus daṇḍa m. = = "Stock, Macht, Herrschaft, Strafe" und nīti f. "(rechte) Führung")
+**daṇḍanīti** f. = दण्डनीति : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung").
 
-dvijāti 3 = द्विजाति = dvija 3 = द्विज
+**dvijāti** 3 / **dvija** 3 = द्विजाति / द्विज : Zweimalgeborener.
 
-dveṣa m. = द्वेष : Hass
+**dveṣa** m. = द्वेष : Hass.
 
-maitrī f. = मैत्री : Freundschaft, Freundlichkeit, freundliches Wohlwollen
+**maitrī** f. = मैत्री : Freundschaft, Freundlichkeit, freundliches Wohlwollen.
 
-rāga m. = राग : (rote) Farbe, Leidenschaft, Liebe
+**rāga** m. = राग : (rote) Farbe, Leidenschaft, Liebe.
 
-lobha m. = लोभ : Gier, Habsucht
+**lobha** m. = लोभ : Gier, Habsucht.
 
-varṇa m. = वर्ण : Farbe, Gattung, Stand
+**varṇa** m. = वर्ण : Farbe, Gattung, Stand.
 
-vārttā f. = वार्त्ता : Erwerb, Ökonomie (Wirtschaft)
+**vārttā** f. = वार्त्ता : Erwerb, Ökonomie (Wirtschaft).
 
-vidyā f. = विद्या : Wissen, Wissenschaft
+**vidyā** f. = विद्या : Wissen, Wissenschaft.
 
-dazu: avidyā f. = अविद्या : Unwissenheit, Nichtwissen
+**avidyā** f. = अविद्या : Unwissenheit, Nichtwissen.
 
-ca \= च : und (wird dem Wort, welches es anknüpft, nachgestellt; werden mehrere Wörter durch ca angeknüpft, steht es hinter dem ersten Wort dieses Wortkomplexes; werden mehrere Wörter verknüpft., kann ca hinter jedem einzelnen stehen, besser aber nur hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च)
+**ca** = च : und.
+(Wird dem Wort, welches es anknüpft, nachgestellt. Werden mehrere Wörter verknüpft, steht es idealerweise hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च).
 
-ca ... ca = च ... च : sowohl als auch
+**ca ... ca** = च ... च : sowohl ... als auch.
 
+---
 
 ## Lektion 6
 
-Im Sanskrit werden die Verben in der Wurzel\-Form angeführt. Die Zahl nach der Wurzel bedeutet die Konjugationsklasse.
 
-P: Wurzel ist nur Parasmaipada
 
-Ā: Wurzel ist nur Ātmanepada
+::: grammar-box
+Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach der Wurzel bedeutet die **Konjugationsklasse**.
 
-U: Ubhayapada ("beide Wortformen"): Wurzel wird im Parasmaipada und Ātmanepada verwendet, im Ātmanepada im spezifischen Ātmanepada-Sinn (wenn etwas im eigenen Interesse geschieht)
+- **P:** Wurzel ist nur Parasmaipada
+- **Ā:** Wurzel ist nur Ātmanepada
+- **U:** Ubhayapada ("beide Wortformen"): Wurzel wird im Parasmaipada und Ātmanepada verwendet.
+- **():** In Klammern steht die 3. Person Singular Präsens Indikativ (laṭ).
+:::
 
-(): In Klammern steht in den Wortlisten die 3. Person (prathama) Singular Präsens Indikativ (laṭ)
+**Lernen Sie folgende Wörter:**
+- **yaj** 1 U (yajati) यज् यजति : mit einem Opfer verehren, opfern
+- **bhū** 1 P (bhavati) भू भवति : werden, entstehen, sein
+- **smṛ** 1 P (smarati) स्मृ स्मरति : vergegenwärtigen, sich erinnern
+- **nṛt** 4 P (nṛtyati) नृत् नृत्यति : tanzen
+- **nī** 1 U (nayati) नी नयति : führen
+- **man** 4 Ā (manyate) मन् मन्यते : denken
+- **muh** 4 P (muhyati) मुह् मुह्यति : verwirrt sein
+- **yudh** 4 Ā (yudhyate) युध् युध्यते : kämpfen
+- **viś** 6 P (viśati) विश् विशति : eintreten
+- **sṛj** 6 P (sṛjati) सृज् सृजति : loslassen, aus sich entlassen, emanieren lassen
 
-Lernen Sie folgende Wörter:
-
-yaj 1 U (yajati)  यज् यजति : mit einem Opfer verehren, opfern
-
-bhū 1 P (bhavati)  भू भवति : werden, entstehen, sein
-
-smṛ 1 P (smarati) स्मृ स्मरति : vergegenwärtigen, sich erinnern
-
-nṛt 4 P (nṛtyati) नृत् नृत्यति : tanzen
-
-nī 1 U (nayati) नी नयति: führen
-
-man 4 Ā (manyate) मन् मन्यते: denken
-
-muh 4 P (muhyati) मुह् मुह्यति : verwirrt sein
-
-yudh 4 Ā (yudhyate) युध् युध्यते : kämpfen
-
-viś 6 P (viśati) विश् विशति : eintreten
-
-sṛj 6 P (sṛjati) सृज् सृजति : loslassen, aus sich entlassen: emanieren lassen
-
+---
 
 ## Lektion 7
 
-Lernen Sie folgende Wörter:
 
-aś 5 Ā (aśnute) अश् अश्नुते : erreichen, gelangen zu, erlangen
 
-āp 5 P (āpnoti) आप् आप्नोति : erreichen, erlangen
+**Lernen Sie folgende Wörter:**
 
-kup 4 P (kupyati) कुप् कुप्यति : zürnen
-
-krudh 4 P (krudhyati) क्रुध् क्रुध्यति : zürnen
-
-khād 1 P (khādati) खाद् खादति : kauen, essen
-
-śru 5 P (śṛṇoti !) श्रु शृणोति : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
-
-su 5 U (sunoti) सु सुनोति : auspressen
-
-soma m. सोम : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
-
+- **aś** 5 Ā (aśnute) अश् अश्नुते : erreichen, gelangen zu, erlangen
+- **āp** 5 P (āpnoti) आप् आप्नोति : erreichen, erlangen
+- **kup** 4 P (kupyati) कुप् कुप्यति : zürnen
+- **krudh** 4 P (krudhyati) क्रुध् क्रुध्यति : zürnen
+- **khād** 1 P (khādati) खाद् खादति : kauen, essen
+- **śru** 5 P (śṛṇoti !) श्रु शृणोति : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
+- **su** 5 U (sunoti) सु सुनोति : auspressen
+- **soma** m. सोम : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
 ::: media
 ![](/images/lekt0701.jpg)
-Abb.: सोमः
+Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
 (Bildquelle: [Details](/licenses#lekt0701))
 :::
+- **phala** n. फल : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
+- **nṛtya** n. नृत्य : Tanz
+- **svarga** m. स्वर्ग : Himmel
+- **naraka** m. नरक : Hölle (nach einer Hinduauffassung hat das Universum die Form eines Eis (**Brahmāṇḍa** m.n. = ब्रह्माण्ड = "Ei Brahmās"): oberhalb der Erde sind sechs Himmel mit ansteigender Glückseligkeit, unterhalb der Erde sind sieben sog. **pātāla** n. = पाताल, Wohnstätten der **nāga** m. = नाग (Schlangen) und anderer mythischer Wesen, darunter kommen 7 Höllen mit steigenden Qualen)
+- **aṅga** n. अङ्ग : Glied des Körpers, Bestandteil; auch = **vedāṅga** = वेदाङ्ग
+- **gam** 1 P (gacchati) गम् गच्छति : gehen (Gehört nach der einheimischen Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit einem Präsensstammbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**)
 
-phala n. फल : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
 
-nṛtya n. नृत्य : Tanz
 
-svarga m. स्वर्ग : Himmel
-
-naraka m. नरक : Hölle (nach einer Hinduauffassung hat das Universum die Form eines Eis (Brahmāṇḍa m.n. ) ब्रह्माण्ड = "Ei Brahmā's): oberhalb der Erde sind sechs Himmel mit ansteigender Glückseligkeit, unterhalb der Erde sind sieben sog. pātāla n. ) पाताल, Wohnstätten der nāga m. ) नाग (Schlangen) und anderer mythischer wesen, darunter kommen 7 Höllen mit steigenden Qualen)
-
-aṅga n. अङ्ग : Glied des Körpers, Bestandteil; auch = vedāṅga = वेदाङ्ग
-
-gam 1 P (gacchati) गम् गच्छति : gehen (Gehört nach der einheimischeb Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit einem Präsensstammbildungssuffix -ccha-: gam » Tiefstufe (gm ») ga-ccha-ti)
-
+---
 
 ## Lektion 8
 
-Lernen Sie folgende Wörter:
 
-ji 1 P (jayati) जि जयति : siegen, besiegen, ersiegen
 
-labh 1 Ā (labhate) लभ् लभते : fassen, erhalten, ergreifen
+**Lernen Sie folgende Wörter:**
 
-tu तु : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils)
-
-paś 4 P (paśyati) पश् पश्यति : sehen, erblicken (wird als Präsensstamm statt der Wurzel dṛś 0 "sehen, erblicken" verwendet)
-
-kṛ 8 U (karoti) कृ करोति : machen, tun
-
-tan 8 U (tanoti) तन् तनोति : dehnen
-
-rakṣ 1 P (rakṣati) रक्ष् रक्षति : hüten
-
-sārathi m. सारथि : Wagenlenker, Fuhrmann
-
-kapi m. कपि : Affe
-
-kumārī f. कुमारी : das Mädchen, die Jungfrau
-
-nāga m. नाग : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch)
-
-gaja m. गज : Elefant
-
-śuc 1 P (śocati) शुच् शोचति : trauern
-
-śuka m. शुक : Papagei
-
-pat 1 P (patati) पत् पतति: fallen, fliegen
-
-patrikā f. पत्रिका : Brief
-
-likh 1 P (likhati) लिख् लिखति: ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein)
+- **ji** 1 P (jayati) जि जयति : siegen, besiegen, ersiegen
+- **labh** 1 Ā (labhate) लभ् लभते : fassen, erhalten, ergreifen
+- **tu** तु : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils)
+- **paś** 4 P (paśyati) पश् पश्यति : sehen, erblicken (wird als Präsensstamm statt der Wurzel **dṛś** 0 "sehen, erblicken" verwendet)
+- **kṛ** 8 U (karoti) कृ करोति : machen, tun
+- **tan** 8 U (tanoti) तन् तनोति : dehnen
+- **rakṣ** 1 P (rakṣati) रक्ष् रक्षति : hüten
+- **sārathi** m. सारथि : Wagenlenker, Fuhrmann
+- **kapi** m. कपि : Affe
+- **kumārī** f. कुमारी : das Mädchen, die Jungfrau
+- **nāga** m. नाग : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch)
+- **gaja** m. गज : Elefant
+- **śuc** 1 P (śocati) शुच् शोचति : trauern
+- **śuka** m. शुक : Papagei
+- **pat** 1 P (patati) पत् पतति : fallen, fliegen
+- **patrikā** f. पत्रिका : Brief
+- **likh** 1 P (likhati) लिख् लिखति : ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein)
 
 ::: media
 ![](/images/lekt0809.jpg)
-Abb.: लिख्
+Abb.: **likh** (लिख्) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
 (Bildquelle: [Details](/licenses#lekt0809))
 :::
 
 ::: media
 ![](/images/lekt0810.jpg)
-Abb.: लिख्
-(Bildquelle: [Details](/licenses#lekt0810))
+Abb.: **likh** (लिख्) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
+(Bildquelle: [Details](/licenses#lekt0809))
 :::
 
-sukha n. सुख : Glück, Wohlsein
+- **sukha** n. सुख : Glück, Wohlsein
+- **duḥkha** n. दुःख : Unglück, Leid
 
-duḥkha n. दुःख : Unglück, Leid
-
+---
 
 ## Lektion 9
 
-Lernen Sie folgende Wörter:
 
-adhyayana n अध्ययन : Lernen, insbes. Vedastudium
+
+**Lernen Sie folgende Wörter:**
+
+- **adhyayana** n. (अध्ययन) : Lernen, insbes. Vedastudium
 
 ::: media
 ![](/images/lekt0903.jpg)
-Abb.: अध्ययनम्
+Abb.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
 (Bildquelle: [Details](/licenses#lekt0903))
 :::
 
-kāru m. / kāruka m. कारु कारुक : Handwerker
+- **kāru** m. / **kāruka** m. (कारु / कारुक) : Handwerker
 
 ::: media
 ![](/images/lekt0902.jpg)
-Abb.: कारुः
+Abb.: **kāru** = कारु, Gujarat.
 (Bildquelle: [Details](/licenses#lekt0902))
 :::
 
-kuśīlava m. कुशीलव : (fahrender) Schausteller, Schauspieler, Sänger
+- **kuśīlava** m. (कुशीलव) : (fahrender) Schausteller, Schauspieler, Sänger
+- **kusīda** n. (कुसीद) : Wucher
+- **kṛṣ** 1 P (karṣati) कृष् कर्षति : ziehen
+- **kṛṣ** 6 U (kṛṣati) कृष् कृषति : pflügen
+  - davon: **kṛṣi** f. / **kṛṣikā** f. (कृषि / कृषिका) : Ackerbau
+- **dāna** n. (दान) : Geben, Gabe, Freigebigkeit
+- **pratigraha** m. (प्रतिग्रह) : Empfangen, Geschenk
+- **pravacana** n. (प्रवचन) : Rede, (mündlicher) Unterricht
+- **pāśupālya** n. (पाशुपाल्य) : Viehhaltung, Viehzucht
+- zu **yaj** 1 U:
+  - **ijyā** f. (इज्या) : Opfer (aus \*yj » ij + Suffix **yā**)
+  - **yajana** n. (यजन) : Opfer im Auftrag von jemand anderem
+- **rūpa** n. (रूप) : Aussehen, Form, schöne Form, Natur, Wesen
+- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (वाणिज्य / वाणिज्या / वणिज्या) : Handel
+- **śuśrūṣā** f. (शुश्रूषा) : Gehorsam, gehorsamer Dienst
 
-kusīda n. कुसीद : Wucher
-
-kṛṣ 1 P (karṣati) कृष् कर्षति : ziehen
-
-kṛṣ 6 U (kṛṣati) कृष् कृषति : pflügen
-
-davon:
-
-kṛṣi f. / kṛṣikā f. कृषि कृषिका : Ackerbau
-
-dāna n. दान : Geben, Gabe, Freigebigkeit
-
-pratigraha m. प्रतिग्रह : Empfangen, Geschenk
-
-pravacana n. प्रवचन : Rede, (mündlicher) Unterricht
-
-pāśupālya n. पाशुपाल्य : Viehhaltung, Viehzucht
-
-zu yaj 1 U:
-
-ijyā f. इज्या : Opfer (aus \*yj » ij + Suffix yā)
-
-yajana n. यजन : Opfer im Auftrag von jemand anderem
-
-rūpa n. रूप : Aussehen, Form, schöne Form, Natur, Wesen
-
-vāṇijya n. / vāṇijyā f. / vaṇijyā f. वाणिज्य वाणिज्या वणिज्या : Handel
-
-śuśrūṣā f. शुश्रूषा : Gehorsam, gehorsamer Dienst
-
+---
 
 ## Lektion 10
 
-Lernen Sie folgende Wörter:
 
-gṛha n. गृह : Haus
 
-grāma m. ग्राम : Dorf
+**Lernen Sie folgende Wörter:**
 
-nagara n. नगर : Stadt
+- **gṛha** n. गृह : Haus
+- **grāma** m. ग्राम : Dorf
+- **nagara** n. नगर : Stadt
 
-(Zum Stadt- und Dorfleben siehe Basham, Wonder, Kap. 6)
+  ::: note-box
+  Zum Stadt- und Dorfleben siehe Basham, *Wonder*, Kap. 6.
+  :::
 
-yajña m. यज्ञ : Opfer (Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit) (Wortbildung: yaj 1 U + kṛt-Suffix -na-)
+- **yajña** m. यज्ञ : Opfer
 
-puṇya n. पुण्य : gutes Werk, Verdienst (wodurch man sich Wohlergehen und gute Wiedergeburten verdient)
+  ::: note-box
+  Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit.
+  
+  Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**.
+  :::
 
-pāpa n. पाप : Übeltat, Böses (Gegensatz zu puṇya)
+- **puṇya** n. पुण्य : gutes Werk, Verdienst
 
-satya n. सत्य : Wahrheit (In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und Geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
+  ::: note-box
+  Wodurch man sich Wohlergehen und gute Wiedergeburten verdient.
+  :::
 
-> Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764)
+- **pāpa** n. पाप : Übeltat, Böses (Gegensatz zu **puṇya**)
+- **satya** n. सत्य : Wahrheit
+
+::: note-box
+In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
+
+Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+:::
 
 ::: media
 ![](/images/lekt1003.jpg)
@@ -431,9 +423,20 @@ Abb.: वरुणः
 (Bildquelle: [Details](/licenses#lekt1003))
 :::
 
-anṛta n. अनृत : Unwahrheit, Lüge (Gegensatz zu satya) (Wortbildung an- ("un-" + ṛta n., ṛta ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: "Wahrheit" (Lüders, Thieme), "Ordnung" (Renou))
 
-ṛṣi m. ऋषि : vedischer Weiser, Verfasser vedischer Lieder (die Namen dieser ṛṣi's werden in den BRāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen ṛṣi's ab, nach denen ihre gotra गोत्र् benannt sind. Zum Begriff gotra siehe Basham, Wonder, Kap. 5)
+- **anṛta** n. अनृत : Unwahrheit, Lüge (Gegensatz zu **satya**)
+
+  ::: note-box
+  Wortbildung **an-** („un-“) + **ṛta** n.
+  
+  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
+  :::
+
+- **ṛṣi** m. ऋषि : vedischer Weiser, Verfasser vedischer Lieder
+
+  ::: note-box
+  Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (गोत्र) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
+  :::
 
 ::: media
 ![](/images/lekt1002.jpg)
@@ -441,326 +444,173 @@ Abb.: विश्वामित्रः
 (Bildquelle: [Details](/licenses#lekt1002))
 :::
 
-vad 1 P (vadati) वद् वदति : sagen, sprechen
 
-prach 6 P (pṛcchati !) प्रछ् पृच्छति : fragen (jemanden;: Akk.; nach etwas: Akk.)
+- **vad** 1 P (vadati) वद् वदति : sagen, sprechen
+- **prach** 6 P (pṛcchati !) प्रच्छ् पृच्छति : fragen (jemanden: Akk.; nach etwas: Akk.)
+- **saha** सह : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
 
-saha सह : zusammen mit, gemeinsam mit (auch bei kämpfen usw. mit): Postposition (wird nachgestellt) mit dem Instrumentalis.
-
-Lernen Sie folgende Wörter:
-
-makṣikā f. मक्षिका : Fliege, Biene
-
-vraṇa m. व्रण : Wunde, Fehler, Schaden
-
-dhana n. धन : Preis im Wettkampf; Lohn, Geld, Reichtum, Besitz
-
-iṣ 6 P (icchati) (\*iṣ-ccha-ti) इष् इच्छति : wünschen
-
-pārthiva m. पार्थिव: Erdbeherrscher, König
-
-nīca 3 नीच : niedrig tief
-
-kalaha m. कलह : Streit, Zank
-
-śānti f. शान्ति : Aufhören, Ruhe, Frieden
-
-śam 4 P (śāmyati !) शम् शाम्यति : ruhig sein, ruhig werden
-
-nara m. नर : Mann, Mensch
-
-lubh 4 P (lubhyati) लुभ् लुभ्यति : begehren
-
-sūkta 3 (= \*su-ukta) सूक्त : gut gesagt, schön gesprochen; n. (vedisches) Lied
-
-śiṣya m शिष्य : Schüler
-
-atra अत्र : hier
-
-tatra तत्र : dort
-
-bhānu m. भानु : Glanz, Sonne
-
-vand 1 Ā (vandate) वन्द् वन्दते : grüßen, ehren, verehren, preisen
-
-vṛṣ 1 P (varṣati) वृष् वर्षति: regnen, beregnen (hat im Sanskrit einen kartṛ)
-
-nṛpa m. नृप : Hüter der Männer: König, Fürst
-
-kṣīra n. क्षीर : Milch
-
-mārga m. मार्ग :  Wildwechsel: Weg
-
-evam एवम् : so
-
-iha इह : hier
-
-śubh 1 Ā (śobhate) शुभ् शोभते : schön sein, glänzen
-
+---
 
 ## Lektion 11
 
-iti इति : so
 
-(steht nach der Formulierung eines Gedankens, Wunsches, Ausspruchs. Zitates gleichsam als Anführungszeichen ("). z.B. साधवः स्वर्गं गच्छन्तीति ब्राह्मणा वदन्ति "Brahmanen sagen: "Heilige kommen in den Himmel"" = "Brahmanen sagen, dass Heilige in den Himmel kommen". Für die Übersetzung ist zu beachten, dass es im Sanskrit keine indirekte Rede gibt, dass darum Bildungen mit iti im Deutschen oft in indirekter Rede wiedergegeben werden müssen (alles andere ist schlechte Übersetzung!).
 
-... (Zitat) ... इति श्रुतिः = "so der Veda"
+**Lernen Sie folgende Wörter:**
 
-Oft ist nach iti ein Verb des Denkens hinzuzudenken: ... iti tut er das und das = "denkend: "..." tut er das und das" "weil ... tut er das und das". Dies ist eine Möglichkeit Motive für Handlungen auszudrücken. Im Deutschen müssen solche Ausdrücke in idiomatischem deutsch wiedergegeben werden und nicht in sanskritischem Deutsch (Übersetzungen wie "Denkend: "ich habe Hunger" geht er ins Restaurant" sind falsch, richtig: "Weil er Hunger hat, geht er ins Restaurant".)
+- **iti** इति : so
+  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
+  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
+  - Im Sanskrit gibt es keine indirekte Rede; Bildungen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
+  - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
+  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
 
-evam एवम् : so (adverbiell, z.B. एवं जयति "so siegt er". Beachten Sie den Unterschied im Gebrauch von iti und evam!)
+- **evam** एवम् : so (adverbiell, z.B. **evaṃ jayati** "so siegt er").
+- **na** न : nicht
+  - Verneint einzelne Worte (steht unmittelbar davor: **na sādhuḥ** "ein nicht guter") oder ganze Sätze (steht zu Beginn oder unmittelbar vor dem Verb).
 
-na न : nicht
+- **putra** m. पुत्र : Sohn (In Indien war es notwendig, einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.)
+- **dharma** m. धर्म : ("das, was fest ist", d.h.) Recht, Gesetz, Sitte, Charakter.
+  - Entspricht am ehesten dem Naturgesetz/Sittengesetz. Jeder hat nach **varṇa** und **āśrama** (Lebensstadium) seine eigenen Pflichten (**svadharma**).
+- **adharma** m. अधर्म : Unrecht (Gegensatz zu **dharma**).
+- **iṣ** 6 P (icchati) इष् इच्छति : wünschen (**iṣ-ccha-ti**).
 
-(verneint einzelne Worte oder auch ganze Sätze. Beim Verneinen einzelner Worte steht na unmittelbar vor dem verneinten Wort: न साधुः "ein nicht guter". Wird ein satz verneint, steht na entweder zu Beginn des Satzes -- so, wenn man einen Gegensatz betonen will und bei betonten Verneinungen -- oder unmittelbar vor dem Verb.)
+**Einige Nominalbildungen:**
 
-putra m. पुत्र : Sohn
+- **vad** 1 P वद् : sagen
+  - **vāda** m. वाद : Ausspruch, Aussage, Wort
+  - **vadana** n. वदन : das Sprechen; Sprechwerkzeug: Mund, Gesicht
 
-(In Indien war es notwendig einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.)
+::: media
+![](/images/lekt1102.jpg)
+Abb.: **vadanāni** = वदनानि
+(Bildquelle: [Details](/licenses#lekt1102))
+:::
 
-dharma m. धर्म : ("das, was fest ist" d.h.) Recht, Gesetz, Sitte, Charakter
+- **prach** 6 P प्रच्छ् : fragen
+  - **praśna** m. प्रश्न : Frage (Suffix **-na** wie in **yaj-ña**)
 
-(entspricht am ehesten dem mittelalterlichen lex naturae = Naturgesetz, Sittengesetz und rechte Sozialordnung. dharma ist für Hindus nicht für alle gleich, sondern jeder hat nach varṇa und āśrama (Lebensstadium, dazu Basham, Wonder S. 159f.) seine je eigenen Pflichten: svadharma)
+- **iṣ** 6 P इष् : wünschen
+  - **iṣṭi** f. इष्टि : Wunsch (**iṣ** + **-ti**)
 
-Gegensatz zu dharma:
-
-adharma m. अधर्म : Unrecht
-
-iṣ 6 P (icchati) इष् इच्छति : wünschen (iṣ-ccha-ti) (wird von den einheimischen Grammatikern zur 6. Präsensklasse gerechnet, obwohl es eine Bildung mit einem Präsensstammsuffix -ccha- ist wie gam ga-ccha-ti
-
-Einige Nominalbildungen:
-
-vad 1 P वद् : sagen
-
-> vāda m. वाद : Ausspruch, Aussage, Wort
-> 
-> vadana n. वदन : das Sprechen ; Sprechwerkzeug: Mund, Gesicht
-> 
-> ![](/images/lekt1102.jpg)  
-> Abb.: वदनानि, Jamalpur district (জামালপুর জেলা), Bangladesh (বাংলাদেশ)   
-> \[Bildquelle: Juan Blazquez. -- [http://www.flickr.com/photos/juanblazquez/261690111/](http://www.flickr.com/photos/juanblazquez/261690111/). -- Zugriff am 2008-11-28. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-
-prach 6 P प्रछ् : fragen
-
-> praśna m. प्रश्न : Frage (Suffix -na wie in yaj-na)
-
-iṣ 6 P इष् : wünschen
-
-> iṣṭi f. इष्टि : Wunsch (iṣ + -ti)
-
+---
 
 ## Lektion 12
 
-budh 4 Ā (budhyate) / 1 U (bodhati), PPP buddha बुध् बुध्यते बोधति बुद्ध : erwachen, zur Erkenntnis erwachen, erkennen; PPP buddha 3 erwacht, daher Buddha = "der Erwachte" (nicht: der Erleuchtete)
 
-![](/images/lekt1201.jpg)  
-Abb.: गौतमो बुद्धः  
-Gandhāra (गन्धार), 1./2. Jhdt n. Chr.  
-\[Bildquelle: Wikipedia, GNU FDLicense\]
 
-dah 1 P (dahati), PPP dagdha दह् दहति दग्ध : (etwas) verbrennen
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
 
-sah 1 Ā (sahate), PPP soḍha सह् सहते सोढ : bewältigen, ertragen, geduldig ertragen = verzeihen
+::: media
+![](/images/lekt1201.jpg)
+Abb.: गौतमो बुद्धः
+(Bildquelle: [Details](/licenses#lekt1201))
+:::
 
-mṛga m. मृग : Wildtier
+- **dah** 1 P (dahati), PPP **dagdha** दह् दहति दग्ध : (etwas) verbrennen
+- **sah** 1 Ā (sahate), PPP **soḍha** सह् sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
+- **mṛga** m. मृग : Wildtier
+- **mārga** m. मार्ग : Weg (Wege waren oft die Wildwechsel)
 
-davon:
+::: media
+![](/images/lekt1202.jpg)
+Abb.: मार्गः
+(Bildquelle: [Details](/licenses#lekt1202))
+:::
 
-mārga m. मार्ग : Weg (Wege waren oft die Wildwechsel)
-
-![](/images/lekt1202.jpg)  
-Abb.: मार्गः, Goa (गोंय)  
-\[Bildquelle: vm2827. -- [http://www.flickr.com/photos/vm2827/2536957533/](http://www.flickr.com/photos/vm2827/2536957533/). -- Zugriff am 2008-11-30. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz Share alike (Namensnennung)\]
-
-api अपि : auch (nachgestellt)
+- **api** अपि : auch (nachgestellt)
 
 Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
 
-muc 6 U (mu-ñ-c-a-ti), PPP mukta मुच् मुञ्चति मुक्त : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (saṃsāra m.) befreien = erlösen
-
-sic 6 U (si-ñ-c-a-ti), PPP sikta सिच् सिञ्चति सिक्त : beträufeln
+- **muc** 6 U (muñcati), PPP **mukta** मुच् मुञ्चति मुक्त : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen
+- **sic** 6 U (siñcati), PPP **sikta** सिच् सिञ्चति सिक्त : beträufeln
 
 Zur Wortbildung:
 
-muc: mokṣa m. मोक्ष : Loslösung, Befreiung, Erlösung
+- **muc**: **mokṣa** m. मोक्ष : Loslösung, Befreiung, Erlösung
+- **sic** + **abhi-**: **abhiṣeka** m. अभिषेक : Besprengung eines Königs bei der Königsweihe, Königsweihe
+- **budh**: **bodhi** m./f. बोधि : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
 
-sic + abhi-: abhiṣeka m. अभिषेक : Besprengung eines Königs bei der Königsweihe, Königsweihe
+::: media
+![](/images/lekt1203.jpg)
+Abb.: महावीरो जिनः
+(Bildquelle: [Details](/licenses#lekt1203))
+:::
 
-budh:
+- **buddhi** f. (**budh** + **-ti**) बुद्धि : Erkenntnis, Erkenntnisorgan.
 
-bodhi m./f. बोधि : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
-
-![](/images/lekt1203.jpg)  
-Abb.: महावीरो जिनः  
-manuskript, Gujarat (ગુજરાત), ca. 1411 n. Chr.  
-\[Bildquelle: Wikipedia, Public domain\]
-
-buddhi f. (budh + -ti) बुद्धि : Erkenntnis, Erkenntnisorgan.
+---
 
 ### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln
 
-> | Wurzel | Passiv Präsens   | |
-> 3\. sg. Indikativ | PPP | | |
-> | --- | --- | --- |
-> | aś 5Ā   | | |
-> अश् | aśyate   | | |
-> अश्यते | aṣṭa   | | |
-> अष्ट | | | |
-> | āp 5P   | | |
-> आप् | āpyate   | | |
-> आप्यते | āpta   | | |
-> आप्त | | | |
-> | iṣ 6P   | | |
-> इष् | iṣyate   | | |
-> इष्यते | iṣṭa   | | |
-> इष्ट | | | |
-> | kup 4P   | | |
-> कुप् | kupyate   | | |
-> कुप्यते | kupita   | | |
-> कुपित | | | |
-> | kṛ 8U   | | |
-> कृ | kriyate   | | |
-> क्रियते | kṛta   | | |
-> कृत | | | |
-> | kṛṣ 1P, kṛṣ 6U   | | |
-> कृष् | kṛṣyate   | | |
-> कृष्यते | kṛṣṭa   | | |
-> कृष्ट | | | |
-> | krudh 4P   | | |
-> क्रुध् | krudhyate   | | |
-> क्रुध्यते | kruddha   | | |
-> क्रुद्ध | | | |
-> | khād 1P   | | |
-> खाद् | khādyate   | | |
-> खाद्यते | khādita   | | |
-> खादित | | | |
-> | gam 1P   | | |
-> गम् | gamyate   | | |
-> गम्यते | gata   | | |
-> गत | | | |
-> | ji 1P   | | |
-> जि | jīyate   | | |
-> जीयते | jita   | | |
-> जित | | | |
-> | tan 8U   | | |
-> तन् | tāyate / tanyate   | | |
-> तायते तन्यते | tata   | | |
-> तत | | | |
-> | dah 1P   | | |
-> दह् | dahyate   | | |
-> दह्यते | dagdha   | | |
-> दग्ध | | | |
-> | dṛś   | | |
-> दृश् | dṛśyate   | | |
-> दृश्यते | dṛṣṭa   | | |
-> दृष्ट | | | |
-> | nī 1U   | | |
-> नी | nīyate   | | |
-> नीयते | nīta   | | |
-> नीत | | | |
-> | nṛt 4P   | | |
-> नृत् | nṛtyate   | | |
-> नृत्यते | nṛtta   | | |
-> नृत्त | | | |
-> | paś 4P   | | |
-> पश् | (dṛśyate)   | | |
-> दृश्यते | (dṛṣṭa)   | | |
-> दृष्ट | | | |
-> | pracch 6P (eigtl. praś)   | | |
-> प्रच्छ् प्रश् | pṛcchyate   | | |
-> पृच्छ्यते | pṛṣ-ṭa   | | |
-> पृष्ट | | | |
-> | budh 1U, 4Ā   | | |
-> बुध् | budhyate   | | |
-> बुध्यते | buddha   | | |
-> बुद्ध | | | |
-> | bhū 1P   | | |
-> भू | bhūyate   | | |
-> भूयते | bhūta   | | |
-> भूत | | | |
-> | man 4Ā   | | |
-> मन् | manyate   | | |
-> मन्यते | mata   | | |
-> मत | | | |
-> | muc 6U   | | |
-> मुच् | mucyate   | | |
-> मुच्यते | mukta   | | |
-> मुक्त | | | |
-> | muh 4P   | | |
-> मुह् | muhyate   | | |
-> मुह्यते | mugdha / mūḍha   | | |
-> मुग्ध मूढ | | | |
-> | yaj 1U   | | |
-> यज् | ijyate   | | |
-> इज्यते | iṣṭa   | | |
-> इष्ट | | | |
-> | yudh 4Ā   | | |
-> युध् | yudhyate   | | |
-> युध्यते | yuddha   | | |
-> युद्ध | | | |
-> | rakṣ 1P   | | |
-> रक्ष् | rakṣyate   | | |
-> रक्ष्यते | rakṣita   | | |
-> रक्षित | | | |
-> | labh 1Ā   | | |
-> लभ् | labhyate   | | |
-> लभ्यते | labdha   | | |
-> लब्ध | | | |
-> | lubh 4P   | | |
-> लुभ् | lubhyate   | | |
-> लुभ्यते | lubdha   | | |
-> लुब्ध | | | |
-> | vad 1P   | | |
-> वद् | udyate   | | |
-> उद्यते | udita   | | |
-> उदित | | | |
-> | viś 6P   | | |
-> विश् | viśyate   | | |
-> विश्यते | viṣṭa   | | |
-> विष्ट | | | |
-> | śru 5P   | | |
-> श्रु | śrūyate   | | |
-> श्रूयते | śruta   | | |
-> श्रुत | | | |
-> | sah 1Ā   | | |
-> सह् | sahyate   | | |
-> सह्यते | soḍha   | | |
-> सोढ | | | |
-> | sic 6U   | | |
-> सिच् | sicyate   | | |
-> सिच्यते | sikta   | | |
-> सिक्त | | | |
-> | su 5U   | | |
-> सु | sūyate   | | |
-> सूयते | suta   | | |
-> सुत | | | |
-> | sṛj 6P   | | |
-> सृज् | sṛjyate   | | |
-> सृज्यते | sṛṣṭa   | | |
-> सृष्ट | | | |
-> | smṛ 1P   | | |
-> स्मृ | smaryate   | | |
-> स्मर्यते | smṛta   | | |
-> स्मृत | | | |
+| Wurzel[[br]]धातु | Passiv Präsens 3. sg. Indikativ[[br]]यक् लट् | PPP[[br]]क्त |
+| :--- | :--- | :--- |
+| **aś** 5 Ā[[br]]अश् | **aśyate**[[br]]अश्यते | **aṣṭa**[[br]]अष्ट |
+| **āp** 5 P[[br]]आप् | **āpyate**[[br]]आप्यते | **āpta**[[br]]आप्त |
+| **as** 2 P[[br]]अस् | — | **bhūta**[[br]]भूत |
+| **bhaj** 1 U[[br]]भज् | **bhajyate**[[br]]भज्यते | **bhakta**[[br]]भक्त |
+| **bhū** 1 P[[br]]भू | **bhūyate**[[br]]भूयते | **bhūta**[[br]]भूत |
+| **budh** 4 Ā / 1 U[[br]]बुध् | **budhyate**[[br]]बुध्यते | **buddha**[[br]]बुद्ध |
+| **dah** 1 P[[br]]दह् | **dahyate**[[br]]दह्यते | **dagdha**[[br]]दग्ध |
+| **div** 4 P[[br]]दिव् | **dīvyate**[[br]]दीव्यते | **dyūta**[[br]]द्यूत |
+| **dṛś**[[br]]दृश् | **dṛśyate**[[br]]दृश्यते | **dṛṣṭa**[[br]]दृष्ट |
+| **gam** 1 P[[br]]गम् | **gamyate**[[br]]गम्यते | **gata**[[br]]गत |
+| **grah** 9 U[[br]]ग्रह् | **gṛhyate**[[br]]गृह्यते | **gṛhīta**[[br]]गृहीत |
+| **hṛ** 1 U[[br]]हृ | **hriyate**[[br]]ह्रियते | **hṛta**[[br]]हृत |
+| **i** 2 P[[br]]इ | **īyate**[[br]]ईयते | **ita**[[br]]इत |
+| **iṣ** 6 P[[br]]इष् | **iṣyate**[[br]]इष्यते | **iṣṭa**[[br]]इष्ट |
+| **jan** 4 Ā[[br]]जन् | **janyate**[[br]]जन्यते | **jāta**[[br]]जात |
+| **ji** 1 P[[br]]जि | **jīyate**[[br]]जीयते | **jita**[[br]]जित |
+| **kath** 10 U[[br]]कथ् | **kathyate**[[br]]कथ्यते | **kathita**[[br]]कथित |
+| **khād** 1 P[[br]]खाद् | **khādyate**[[br]]खाद्यते | **khādita**[[br]]खादित |
+| **kṛ** 8 U[[br]]कृ | **kriyate**[[br]]क्रियते | **kṛta**[[br]]कृत |
+| **krudh** 4 P[[br]]क्रुध् | **krudhyate**[[br]]क्रुध्यते | **kruddha**[[br]]क्रुद्ध |
+| **kup** 4 P[[br]]कुप् | **kupyate**[[br]]कुप्यते | **kupita**[[br]]कुपित |
+| **labh** 1 Ā[[br]]लभ् | **labhyate**[[br]]लभ्यते | **labdha**[[br]]लब्ध |
+| **man** 4 Ā[[br]]मन् | **manyate**[[br]]मन्यते | **mata**[[br]]मत |
+| **mṛ** 6 Ā[[br]]मृ | **mriyate**[[br]]म्रियते | **mṛta**[[br]]मृत |
+| **muc** 6 U[[br]]मुच् | **mucyate**[[br]]मुच्यते | **mukta**[[br]]मुक्त |
+| **nī** 1 U[[br]]नी | **nīyate**[[br]]नीयते | **nīta**[[br]]नीत |
+| **paś**[[br]]पश् | **(dṛśyate)**[[br]]दृश्यते | **(dṛṣṭa)**[[br]]दृष्ट |
+| **pat** 1 P[[br]]पत् | **patyate**[[br]]पत्यते | **patita**[[br]]पतित |
+| **prach** 6 P[[br]]प्रच्छ् | **pṛcchyate**[[br]]पृच्छ्यते | **pṛṣṭa**[[br]]पृष्ट |
+| **pūj** 10 U[[br]]पूज् | **pūjyate**[[br]]पूज्यते | **pūjita**[[br]]पूजित |
+| **rakṣ** 1 P[[br]]रक्ष् | **rakṣyate**[[br]]रक्ष्यते | **rakṣita**[[br]]रक्षित |
+| **ram** 1 Ā[[br]]रम् | **ramyate**[[br]]रम्यते | **rata**[[br]]रत |
+| **sah** 1 Ā[[br]]सह् | **sahyate**[[br]]सह्यते | **soḍha**[[br]]सोढ |
+| **sic** 6 U[[br]]सिच् | **sicyate**[[br]]सिच्यते | **sikta**[[br]]सिक्त |
+| **śru** 5 P[[br]]श्रु | **śrūyate**[[br]]श्रूयते | **śruta**[[br]]श्रुत |
+| **su** 5 U[[br]]सु | **sūyate**[[br]]सूयते | **suta**[[br]]सुत |
+| **svap** 2 P[[br]]स्वप् | **supyate**[[br]]सुप्यते | **supta**[[br]]सुप्त |
+| **tyaj** 1 P[[br]]त्यज् | **tyajyate**[[br]]त्यज्यते | **tyakta**[[br]]त्यक्त |
+| **uch**[[br]]उछ् | — | **uṣita**[[br]]उषित |
+| **vad** 1 P[[br]]वद् | **udyate**[[br]]उद्यते | **udita**[[br]]उदित |
+| **vas** 1 P[[br]]वस् | **uṣyate**[[br]]उष्यते | **uṣita**[[br]]उषित |
+| **vadh**[[br]]वध् | **vadyate**[[br]]वद्यते | **hata**[[br]]हत |
+| **yaj** 1 U[[br]]यज् | **ijyate**[[br]]इज्यते | **iṣṭa**[[br]]इष्ट |
+| **yudh** 4 Ā[[br]]युध् | **yudhyate**[[br]]युध्यते | **yuddha**[[br]]युद्ध |
 
+---
 
 ## Lektion 13
 
-eva एव : betont vorhergehendes Wort, entspricht oft der emphatischen Betonung in gesprochenem Deutsch, muss oft nicht übersetzt werden, sondern ist eine Art "Emoticon"
 
-asura m. असुर : Dämon
 
-> "**ASURA**. 'Spiritual, divine.'
-> 
+Lernen Sie folgende Wörter:
+
+- **eva** एव : betont vorhergehendes Wort
+- **asura** m. असुर : Dämon
+
+> **ASURA.** 'Spiritual, divine.'
+&gt;
 > In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
-> 
-> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath _(asu)_ of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
-> 
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. _Asu_ is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
-> 
-> In this sense a different derivation has been found for it: the source is no longer asu, \`breath,' but the initial _a_ is taken as the negative prefix, and _asura_ signifies 'not a god;' hence, according to some, arose the word _sura,_ commonly used for 'a god.'"
-> 
-> \[Quelle: Dowson, John &lt;1820-1881&gt;: A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. \]
+&gt;
+> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
+&gt;
+> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+&gt;
+> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+&gt;
+> [Quelle: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.jpg)
@@ -768,29 +618,20 @@ Abb.: महिषासुरः
 (Bildquelle: [Details](/licenses#lekt1301))
 :::
 
-guṇa m. गु्ण :  Faden, Schnur; Eigenschaft, gute Eigenschaft
+- **guṇa** m. गुण : Faden, Schnur; Eigenschaft, gute Eigenschaft
+- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna पद् पद्यते पद्यते पन्न : gehen, geraten in
+- **as** 2 P (asti) अस् अस्ति : sein, da sein
+- **as** 4 P (asyati), Pass.: asyate, PPP asta अस् अस्यति अस्यते अस्त : schleudern, (weg-)werfen
+- **i** 2 P (eti), Pass.: īyate, PPP ita इ एति ईयते इत : gehen
+- **pā** 2 P (pāti), Pass. pāyate, PPP pāta पा पाति पायते पात : schützen, behüten
 
-pad 4 Ā (padyate), Pass.: padyate, PPP panna पद् पद्यते पद्यते पन्न : gehen, geraten in
+::: indent
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta पा पिबति पीयते पीत : trinken (traditionell zur 1. Klasse gerechnet)
+:::
 
-as 2 P1 (asti) अस् अस्ति : sein, da sein
-
-as 4 P (asyati), Pass.: asyate, PPP asta अस् अस्यति अस्यते अस्त : schleudern, (weg-)werfen
-
-i 2 P1 (eti), Pass.: īyate, PPP ita इ एति ईयते इत : gehen
-
-pā 2 P1 (pāti), Pass. pāyate, PPP pāta पा पाति पायते पात : schützen, behüten
-
-Zur ersten Präsensklasse rechnet man traditionell folgende reduplizierende Wurzel:
-
-> pā 1 P (pibati), Pass. pīyate, PPP pīta पा पिबति पीयते पीत : trinken (zum Ablaut von pīta später)
-
-dviṣ 2 U1 (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa द्विष् द्वेष्टि द्विष्यते द्विष्ट : hassen, anfeinden
-
-ad 2 P1 (atti), Pass. adyate, PPP anna अद् अत्ति अद्यते अन्न : essen, verzehren
-
-davon:
-
-anna n. अन्न : Speise (aus PPP: \*ad-na: das Gegessene, das Essen)
+- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa द्विष् द्वेष्टि द्विष्यते द्विष्ट : hassen, anfeinden
+- **ad** 2 P (atti), Pass. adyate, PPP anna अद् अत्ति अद्यते अन्न : essen, verzehren
+- **anna** n. अन्न : Speise (aus PPP: *ad-na: das Gegessene)
 
 ::: media
 ![](/images/lekt1304.jpg)
@@ -802,30 +643,33 @@ Wortbildung:
 
 pad 4 Ā:
 
-> pada n. पद : Schritt, Standort, Stätte
-> 
-> pāda m. पाद : Fuß, ein Viertel (da viele Tiere 4 Füße haben), Verszeile (die meisten Verse bestehen aus vier Pādas)
+::: indent
+**pada** n. पद : Schritt, Standort, Stätte
+
+**pāda** m. पाद : Fuß, ein Viertel, Verszeile
+:::
 
 ::: media
 ![](/images/lekt1303.jpg)
-Abb.: चत्वारः पादाः
+Abb.: चत्वारः पादाः : गजः
 (Bildquelle: [Details](/licenses#lekt1303))
 :::
 
 dviṣ 2 U:
 
-> dveṣa द्वेष : Hass
+::: indent
+**dveṣa** द्वेष : Hass
+:::
 
-1 Anm.: die Konjugation der 2. Präsensklasse folgt später.
-
+---
 
 ## Lektion 14
 
-śīla n. शील : (guter) Charakter, Sittlichkeit
 
-bhūṣ-aṇa n भूषण : Schmuck
 
-dīpa m. दीप : Lampe
+* **śīla n.** (शील) : (guter) Charakter, Sittlichkeit
+* **bhūṣ-aṇa n** (भूषण) : Schmuck
+* **dīpa m.** (दीप) : Lampe
 
 ::: media
 ![](/images/lekt1405.jpg)
@@ -833,38 +677,23 @@ Abb.: दीपाः
 (Bildquelle: [Details](/licenses#lekt1405))
 :::
 
-bala n. बल् : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
-
-bāla 3 बाल : jung, kindlich, töricht ; m. Knabe
-
-bālā f. बाला : junges Mädchen
-
-nara m. नर : Mann, Mensch
-
-śatru m. शत्रु : Feind
-
-loka m. लोक : Welt; Sing. u. Plur.: die Leute, die Menschen, das Volk
-
-jala n. जल : Wasser
-
-jan 4 Ā (jāyate), Pass. janyate / jāyate, PPP jāta जन् जायते जन्यते जायते जात : geboren werden, entstehen, auftreten
-
-davon:
-
-> jan-a m. जन : Geschöpf, Mensch, Leute
-
-vac 2 P (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta वच् वक्ति उच्यते उक्त : sagen, sprechen zu (dvitīyā)
-
-davon:
-
-> uk-ti f. उक्ति : Ausspruch, Wort
-> 
-> vac-ana n. वचन : das Sprechen, das Wort
-> 
-> vāk-ya n. वाक्य : Wort, Rede
-
+* **bala n.** (बल) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
+* **bāla 3** (बाल) : jung, kindlich, töricht; m. Knabe
+* **bālā f.** (बाला) : junges Mädchen
+* **nara m.** (नर) : Mann, Mensch
+* **śatru m.** (शत्रु) : Feind
+* **loka m.** (लोक) : Welt; Sing. u. Plur.: die Leute, die Menschen, das Volk
+* **jala n.** (जल) : Wasser
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (जन् जायते जन्यते जायते जात) : geboren werden, entstehen, auftreten
+  * **jan-a m.** (जन) : Geschöpf, Mensch, Leute
+* **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (वच् वक्ति उच्यते उक्त) : sagen, sprechen zu (dvitīyā)
+  * **uk-ti f.** (उक्ति) : Ausspruch, Wort
+  * **vac-ana n.** (वचन) : das Sprechen, das Wort
+  * **vāk-ya n.** (वाक्य) : Wort, Rede
 
 ## Lektion 15
+
+
 
 पुष्कल 3: herrlich, prächtig, reichlich
 
@@ -883,7 +712,6 @@ davon:
 अर्ध 3: halb, m.n. Hälfte
 
 पूजा f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā)
-
 ::: media
 ![](/images/lekt1504.jpg)
 Abb.: पूजा
@@ -893,7 +721,6 @@ Abb.: पूजा
 कुल n.: Herde, Menge, Geschlecht, Abstammung, Familie
 
 इन्द्र m.: Fürst, Erster, Bester unter ; Götterkönig Indra
-
 ::: media
 ![](/images/lekt1505.jpg)
 Abb.: इन्द्रः
@@ -916,12 +743,13 @@ Abb.: इन्द्रः
 
 davon:
 
-> स्तुति f.: Lobpreis, Loblied
-> 
-> स्तोत्र n.: (Mittel zum Preisen =) Loblied, Hymnus
+::: indent
+स्तुति f.: Lobpreis, Loblied
+
+स्तोत्र n.: (Mittel zum Preisen =) Loblied, Hymnus
+:::
 
 सिंह m.: Löwe (_Panthera leo persica_)
-
 ::: media
 ![](/images/lekt1506.jpg)
 Abb.: सिंहः
@@ -929,7 +757,6 @@ Abb.: सिंहः
 :::
 
 व्याघ्र m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner)
-
 ::: media
 ![](/images/lekt1507.jpg)
 Abb.: व्याघ्रः
@@ -938,28 +765,35 @@ Abb.: व्याघ्रः
 
 इव (nachgestellt): gleichsam, wie (in Vergleichen: व्याघ्र इव पुरुषः = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
 
-एव (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `&lt;!&gt;, z.B. सत्यमेव जयति "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"`
+एव (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `&lt;!&gt;`, z.B. सत्यमेव जयति "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
 
 अरि m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling)
 
-> आर्य 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann
+::: indent
+आर्य 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann
+:::
 
 zu जन्
 
-> जाति f.: Geburt, Art, Kaste (zu जाति als Kaste siehe Basham, Wonder, S. 148ff.)
+::: indent
+जाति f.: Geburt, Art, Kaste (zu जाति als Kaste siehe Basham, Wonder, S. 148ff.)
+:::
 
 मृ 4 Ā म्रियते ; Pass. म्रियते ; PPP मृत : sterben (nach indischen Grammatikern: 6 Ā)
 
 davon:
 
-> मरण n.: Sterben, Tod
-> 
-> मृति f.: Sterben, Tod
-> 
-> मृत्यु m.: Tod ; personifiziert: Todesgott
+::: indent
+मरण n.: Sterben, Tod
 
+मृति f.: Sterben, Tod
+
+मृत्यु m.: Tod ; personifiziert: Todesgott
+:::
 
 ## Lektion 16
+
+
 
 अध्यापन n.: Unterrichten, Unterricht
 
@@ -975,13 +809,17 @@ Abb.: अध्यापनम्
 
 davon:
 
-> अनृशंस्य n.: Nicht-Boshaftigkeit
+::: indent
+अनृशंस्य n.: Nicht-Boshaftigkeit
+:::
 
 जीव् 1 P जीवति ; Pass. जीव्यते ; PPP जीवित : leben
 
 davon:
 
-> आजीव m.: Lebensunterhalt
+::: indent
+आजीव m.: Lebensunterhalt
+:::
 
 क्षमा f.: Geduld, Langmut, Nachsicht
 
@@ -991,7 +829,7 @@ davon:
 
 निरोध m.: Stoppen, Zum-Stillstand-Bringen
 
-भुत n. (PPP zu भु): Wesen, Gespenst
+* **bhūta n.** (भूत) (PPP zu bhū): Wesen, Gespenst
 
 योग m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga
 
@@ -1001,7 +839,7 @@ Abb.: योगी
 (Bildquelle: [Details](/licenses#lekt1601))
 :::
 
-वृत्  1 Ā वर्तते ; Pass. वृत्यते  ; PPP वृत्त : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen
+वृत् 1 Ā वर्तते ; Pass. वृत्यते ; PPP वृत्त : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen
 
 शस्त्र (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe
 
@@ -1017,14 +855,17 @@ Abb.: अहिंसा
 (Bildquelle: [Details](/licenses#lekt1603))
 :::
 
-
 ## Lektion 17
+
+
 
 हन् 2 P हन्ति, घ्नन्ति Pass. हन्यते  PPP हत : schlagen, erschlagen, töten
 
 davon:
 
-> घात m.: Tötung
+::: indent
+घात m.: Tötung
+:::
 
 ::: media
 ![](/images/lekt1703.jpg)
@@ -1032,11 +873,14 @@ Abb.: घाताः
 (Bildquelle: [Details](/licenses#lekt1703))
 :::
 
+
 आस् 2Ā आस्ते Pass. आस्यते PPP आसित : sitzen
 
 davon:
 
-> आसन n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
+::: indent
+आसन n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
+:::
 
 ::: media
 ![](/images/lekt1701.jpg)
@@ -1044,13 +888,16 @@ Abb.: योगासनम्
 (Bildquelle: [Details](/licenses#lekt1701))
 :::
 
+
 रुद् 2 P रोदिति Pass. रुद्यते PPP रुदित : weinen, heulen
 
 davon:
 
-> रुद्र m.: (der Heuler =) der Sturmgott Rudra
+::: indent
+रुद्र m.: (der Heuler =) der Sturmgott Rudra
+:::
 
-ब्रू 2 U ब्रवीति Ā ब्रुते kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
+ब्रू 2 U ब्रवीति Ā ब्रूते kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
 
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : melken
 
@@ -1059,17 +906,21 @@ davon:
 Abb.: दोग्धि
 (Bildquelle: [Details](/licenses#lekt1702))
 :::
+ 
 
 दिश् 6 U दिशति Pass. दिश्यते PPP दिष्ट : zeigen, anweisen, befehlen
 
 davon:
 
-> दिष्टि f.: Anweisung, glückliche Fügung
-> 
-> दिष्ट्या Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
+::: indent
+दिष्टि f.: Anweisung, glückliche Fügung
 
+दिष्ट्या Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
+:::
 
 ## Lektion 18
+
+
 
 सुष्टु 3: hochgepriesen, ausgezeichnet, gut
 
@@ -1079,7 +930,7 @@ davon:
 
 व्याधि m.: Krankheit
 
-रिपु m. =  शत्रु , Betrüger
+रिपु m. = शत्रु , Betrüger
 
 वह्नि m. = अग्नि
 
@@ -1105,18 +956,21 @@ davon:
 
 प्रभृति f.: Anfang
 
-
 ## Lektion 19
 
-अर्थ m.: Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. अर्थम् (Akk.), अर्थेन (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
 
-अर्थ ist einer der drei Lebenszwecke (पुरुषार्थ), wie sie in der weltlichen und religiösen Literatur beschrieben werden:
 
-> धर्म m.: Erlangung von Verdienst durch das Tun, was für einen Recht ist, bzw. zumindest Vermeiden von Übel, welches aus der Nichtbefolgung des Dharma folgen würde
-> 
-> अर्थ m.: zweckrationales Verhalten, Erlangung von Wohlstand
-> 
-> काम m.: Sinnenlust, insbes. auch auf sexuellem Gebiet
+**अर्थ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. **अर्थम्** (Akk.), **अर्थेन** (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
+
+**अर्थ** ist einer der drei Lebenszwecke (**पुरुषार्थ**), wie sie in der weltlichen und religiösen Literatur beschrieben werden:
+
+::: indent
+**धर्म m.:** Erlangung von Verdienst durch das Tun, was für einen Recht ist, bzw. zumindest Vermeiden von Übel, welches aus der Nichtbefolgung des Dharma folgen würde
+
+**अर्थ m.:** zweckrationales Verhalten, Erlangung von Wohlstand
+
+**काम m.:** Sinnenlust, insbes. auch auf sexuellem Gebiet
+:::
 
 ::: media
 ![](/images/lekt1809.jpg)
@@ -1124,48 +978,57 @@ Abb.: कामः
 (Bildquelle: [Details](/licenses#lekt1809))
 :::
 
-स्था 1 P तिष्ठति Pass. स्थीयते PPP. स्थित : stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie पा 1 पिबति)
 
-स्था + उप 1 U उपतिष्ठति : hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen
+**स्था 1 P तिष्ठति Pass. स्थीयते PPP. स्थित :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie पा 1 पिबति)
 
-स्था + प्र 1 Ā प्रतिष्ठते : aufbrechen, davongehen
+**स्था + उप 1 U उपतिष्ठति :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen
 
-von स्था :
+**स्था + प्र 1 Ā प्रतिष्ठते :** aufbrechen, davongehen
 
-> स्थान n.: Stelle, (rechter) Ort, Standort
-> 
-> स्थिति f.: Verweilen, Standhaftigkeit, Beharren
+von **स्था** :
 
-गर्भ m.: Gebärmutter, Schoß, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+::: indent
+**स्थान n.:** Stelle, (rechter) Ort, Standort
 
-> धनगर्भ 3: "dessen Inneres Geld ist = in dem sich Geld befindet"
-> 
-> गर्भगृह n.: der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
-> 
-> ::: media
+**स्थिति f.:** Verweilen, Standhaftigkeit, Beharren
+:::
+
+**गर्भ m.:** Gebärmutter, Schoß, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+
+::: indent
+**धनगर्भ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet"
+
+**गर्भगृह n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
+:::
+
+::: media
 ![](/images/lekt1901.jpg)
 Abb.: गर्भगृहम्
 (Bildquelle: [Details](/licenses#lekt1901))
 :::
 
-वारिद m.: Wassergeber = Regenwolke
+
+**वारिद m.:** Wassergeber = Regenwolke
 
 ::: media
 ![](/images/lekt1902.jpg)
 Abb.: वारिदः
 (Bildquelle: [Details](/licenses#lekt1902))
-:::  
+:::
+  
  
 
-वा 2 P वाति Pass. वायते PPP. वान / वात : wehen
+**वा 2 P वाति Pass. वायते PPP. वान / वात :** wehen
 
 davon:
 
-> वात m.: Wind
+::: indent
+**वात m.:** Wind
+:::
 
-वह् 1 U वहति Pass. उह्यते PPP ऊढ : führen, fahren (trans.)
+**वह् 1 U वहति Pass. उह्यते PPP ऊढ :** führen, fahren (trans.)
 
-छत्त्र् n.: Sonnenschirm, Schirm
+**छत्त्र n.:** Sonnenschirm, Schirm
 
 ::: media
 ![](/images/lekt1904.jpg)
@@ -1173,48 +1036,52 @@ Abb.: छत्त्रम्
 (Bildquelle: [Details](/licenses#lekt1904))
 :::
 
-पण्डित m.: Gelehrter, Weiser ; 3: klug, bewandert (in)
+
+**पण्डित m.:** Gelehrter, Weiser ; 3: klug, bewandert (in)
 
 ::: media
 ![](/images/lekt1903.jpg)
-Abb.: जवाहरलाल-नेहरूः
+Abb.: पण्डितः जवाहरलाल नेहरू
 (Bildquelle: [Details](/licenses#lekt1903))
 :::
 
-सेव् 1 Ā सेवते Pass. सेव्यते PPP सेवित : wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
 
-नि Präverb: nieder, hinein
+**सेव् 1 Ā सेवते Pass. सेव्यते PPP सेवित :** wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
 
-सेव् + नि  1 Ā निषेवते : wohnen bei, bewohnen, besuchen
+**नि Präverb:** nieder, hinein
 
-अमुत्र : dort, im Jenseits
+**सेव् + नि  1 Ā निषेवते :** wohnen bei, bewohnen, besuchen
 
-इह : hier, im Diesseits
+**अमुत्र :** dort, im Jenseits
 
-विद् 6 U विन्दति Pass. विद्यते PPP विन्न / वित्त : finden
+**इह :** hier, im Diesseits
 
-भार्या f.: zu Erhaltende = Gattin
+**विद् 6 U विन्दति Pass. विद्यते PPP विन्न / वित्त :** finden
 
-प्रिय 3: lieb, angenehm
+**भार्या f.:** zu Erhaltende = Gattin
 
-मित्र n. (!): Freund
+**प्रिय 3:** lieb, angenehm
 
-बान्धव m.: Verwandter
+**मित्र n. (!):** Freund
 
-हि : denn, ja nämlich (darf nie am Satzanfang stehen)
+**बान्धव m.:** Verwandter
 
+**हि :** denn, ja nämlich (darf nie am Satzanfang stehen)
 
 ## Lektion 20
 
+
+
 वा : oder
 
-आश्रम m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ब्रह्मचरिन्, गृहस्त, वनप्रस्थ und evtl. als सन्न्यासिन् ; siehe Basham, Wonder S. 159f.)
+आश्रम m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ und evtl. als सन्न्यासिन् ; siehe Basham, Wonder S. 159f.)
 
 ::: media
 ![](/images/lekt2008.jpg)
-Abb.: आश्रमाः
+Abb.: आश्रमः
 (Bildquelle: [Details](/licenses#lekt2008))
 :::
+
 
 कर ३ f. करी । करा : tuend, machend, bewirkend
 
@@ -1258,7 +1125,7 @@ Abb.: आश्रमाः
 
 सद् 1 P सीदति (!) Pass. सद्यते PPP सन्न : sitzen, sich niederlassen
 
-सद् + प्र 1 P प्रसीदति : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv षष्ठि) gnädig sein
+सद् + प्र 1 P प्रसीदति : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv षष्ठी) gnädig sein
 
 समाधि m.: innere Sammlung, höchste Aufmerksamkeit, meditative "Versenkung"
 
@@ -1304,22 +1171,22 @@ Abb.: आश्रमाः
 
 विधि m.(!): Anordnung, Gesetz, Vorschrift; Schöpfung, Schicksal
 
-चेष्ट् 1 Ā चेष्तते Pass. चेष्ट्यते PPP चेष्टित : sich regen
-
+चेष्ट् 1 Ā चेष्टते Pass. चेष्ट्यते PPP चेष्टित : sich regen
 
 ## Lektion 21
 
-भज् 1 U भजति Pass. भज्यते PPP भक्त : jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
+
+
+**भज् 1 U भजति Pass. भज्यते PPP भक्त :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
 
 davon:
 
-> भक्ति f.: Ergebenheit, Treue, Liebe (im religiösen Bereich: Liebe und Respekt zu einem persönlichen Gott. siehe dazu Basham, Wonder S. 332f.)
-> 
-> भाग m.: Anteil, Teil
-> 
-> भग m.: (guter) Anteil, Glück, Wohlergehen, Würde
-> 
-> भगवन्त् 3: Glück-besitzend, Würde-besitzend (Beiname von विष्णु - कृष्ण)
+::: indent
+**भक्ति f.:** Ergebenheit, Treue, Liebe (im religiösen Bereich: Liebe und Respekt zu einem persönlichen Gott. siehe dazu Basham, Wonder S. 332f.)  
+**भाग m.:** Anteil, Teil  
+**भग m.:** (guter) Anteil, Glück, Wohlergehen, Würde  
+**भगवन्त् 3:** Glück-besitzend, Würde-besitzend (Beiname von विष्णु – कृष्ण)
+:::
 
 ::: media
 ![](/images/lekt2103.jpg)
@@ -1327,19 +1194,25 @@ Abb.: भगवान्कृष्णः
 (Bildquelle: [Details](/licenses#lekt2103))
 :::
 
-> भगवद्गीता f.: "Gesang (गीता) des Würdigen (कृष्ण)"
-> 
-> ::: media
+::: indent
+**भगवद्गीता f.:** "Gesang (गीता) des Würdigen (कृष्ण)"
+:::
+
+::: media
 ![](/images/lekt2105.jpg)
 Abb.: भगवद्गीता
 (Bildquelle: [Details](/licenses#lekt2105))
 :::
-> 
-> भिक्ष् 1 Ā भिक्षते Pass. भिक्ष्यते PPP भिक्षित (eigentlich ein Desiderativum zu भज्: wünschen, dass man teilhat): betteln
-> 
-> davon:
-> 
-> &gt; भिक्षु m.: Bettler, Mönch
+
+::: indent
+**भिक्ष् 1 Ā भिक्षते Pass. भिक्ष्यते PPP भिक्षित** (eigentlich ein Desiderativum zu भज्: wünschen, dass man teilhat): betteln
+:::
+
+davon:
+
+::: indent
+**भिक्षु m.:** Bettler, Mönch
+:::
 
 ::: media
 ![](/images/lekt2104.jpg)
@@ -1347,18 +1220,23 @@ Abb.: भिक्षवः
 (Bildquelle: [Details](/licenses#lekt2104))
 :::
 
-दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट : verderben (intransitiv), schlecht werden, zuschande werden
+**दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट :** verderben (intransitiv), schlecht werden, zuschande werden
 
-> दोष m.: Fehler
+::: indent
+**दोष m.:** Fehler
+:::
 
-पच् 1 U पचति Pass. पच्यते (kein PPP, dafür पक्व 3: gekocht, gegart) Absol. पक्त्वा : garen (transitiv) = kochen, braten, rösten usw.
-
+**पच् 1 U पचति Pass. पच्यते (kein PPP, dafür पक्व 3: gekocht, gegart) Absol. पक्त्वा :** garen (transitiv) = kochen, braten, rösten usw.
 
 ## Lektion 22
 
-काम m.: Wunsch, Begehren ; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
 
-> कामम् Akk. adverbiell: nach Wunsch, nach Herzenslust
+
+**काम m.:** Wunsch, Begehren; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
+
+::: indent
+**कामम्** Akk. adverbiell: nach Wunsch, nach Herzenslust
+:::
 
 ::: media
 ![](/images/lekt2202.jpg)
@@ -1366,13 +1244,16 @@ Abb.: कामदेवः
 (Bildquelle: [Details](/licenses#lekt2202))
 :::
 
-शक् 5 P शक्नोति Pass.शक्यते PPP शक्त Inf. शक्तुम् : fähig sein, können
+
+**शक् 5 P  शक्नोति Pass.  शक्यते PPP  शक्त Inf.  शक्तुम् :** fähig sein, können
 
 davon:
 
-> शक्ति f.: das Können, Vermögen, Fähigkeit, Kraft ; auch: göttliche Kraft, personifiziert als weibliche Begleiterin insbes. von शिव
-> 
-> शक्र m.: der Mächtige (Beiname von इन्द्र)
+::: indent
+**शक्ति f.:** das Können, Vermögen, Fähigkeit, Kraft; auch: göttliche Kraft, personifiziert als weibliche Begleiterin insbes. von **शिव**
+
+**शक्र m.:** der Mächtige (Beiname von **इन्द्र**)
+:::
 
 ::: media
 ![](/images/lekt2203.jpg)
@@ -1380,23 +1261,28 @@ Abb.: दुर्गाशक्तिः
 (Bildquelle: [Details](/licenses#lekt2203))
 :::
 
-अर्ह 1 P अर्हति Pss. अर्ह्यते PPP अर्हित Inf. अर्हितुम् : etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird अर्ह् + Infinitiv oft als milder Befehl verwendest: "Du solltest")
 
-> अर्हन्त् 3 Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
+**अर्ह 1 P  अर्हति Pass.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird **अर्ह्** + Infinitiv oft als milder Befehl verwendet: "Du solltest")
 
-व्रत n.: Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (देवदासी) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige व्रत heute: Fasten ; Enthaltsamkeit von Speisen, die man liebt ; sexuelle Enthaltsamkeit ; Lesen heiliger Schriften ; Vollzug bestimmter Riten ; Speisung von Brahmanen u. ä. Kurz zu den व्रत : Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von व्रत und religiösen Festen ("the following list ... does not calim to be thoroughly exhaustive" !!!)
+::: indent
+**अर्हन्त् 3** Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
+:::
 
-चर् 1 P चरति Pass. चर्यते PPP चरित Inf. चरितुम् : weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. व्रतं चर् : ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
+**व्रत n.:** Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (**देवदासी**) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige **व्रत** heute: Fasten; Enthaltsamkeit von Speisen, die man liebt; sexuelle Enthaltsamkeit; Lesen heiliger Schriften; Vollzug bestimmter Riten; Speisung von Brahmanen u. ä. Kurz zu den **व्रत**: Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von **व्रत** und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+
+**चर् 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: चर् 1 P चरति Pass.  चर्यते PPP  चरित Inf.  चरितुम्) :** weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. **व्रतं चर्**: ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
 
 davon:
 
-> चर ३: beweglich ; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen)
-> 
-> चरण n.,m.: Fuß
-> 
-> चरित n.: Lebenswandel, Lebenstaten
-> 
-> ब्रह्मचर्य n.: Vollzug des Veda (ब्रह्मन्) = Studium des Veda im ersten Lebensstadium (dem des ब्रह्मचारिन्), welches strenge sexuelle Enthaltsamkeit erfordert ; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
+::: indent
+**चर ३:** beweglich; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen)
+
+**चरण n., m.:** Fuß
+
+**चरित n.:** Lebenswandel, Lebenstaten
+
+**ब्रह्मचर्य n.:** Vollzug des Veda (**ब्रह्मन्**) = Studium des Veda im ersten Lebensstadium (dem des **ब्रह्मचारिन्**), welches strenge sexuelle Enthaltsamkeit erfordert; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
+:::
 
 ::: media
 ![](/images/lekt2201.jpg)
@@ -1404,8 +1290,9 @@ Abb.: धेनवश्चरन्ति
 (Bildquelle: [Details](/licenses#lekt2201))
 :::
 
-
 ## Lektion 23
+
+
 
 समान ३: gleich
 
@@ -1415,8 +1302,9 @@ Abb.: धेनवश्चरन्ति
 
 विशेष m.: Besonderheit, Spezifikation, differentia specifica
 
-
 ## Lektion 24
+
+
 
 अलम् Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. अलं क्रोधेन = "genug mit dem Zorn = lass ab vom Zorn!"
 
@@ -1426,13 +1314,16 @@ In gleicher Weise wie अलम् mit Instrumentalis wird verwendet:
 
 अलम् + कृ 8U अलंकरोति : schmücken
 
-> अलंकार m.: Schmuck, Schmuckmittel (in der Dichtung)
-> 
-> ::: media
+::: indent
+अलंकार m.: Schmuck, Schmuckmittel (in der Dichtung)
+:::
+
+::: media
 ![](/images/lekt2405.jpg)
 Abb.: अलंकारः
 (Bildquelle: [Details](/licenses#lekt2405))
 :::
+
 
 हेतु m.: Antribe, Veranslassung, Ursache, Grund ; हेतुना, हेतोस्, हेतवे mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen"
 
@@ -1444,13 +1335,16 @@ Abb.: देवीप्रतिमा
 (Bildquelle: [Details](/licenses#lekt2406))
 :::
 
-वृत् + प्र 1Ā प्रवअर्तते : erfolgen, geschehen, entstehen
+
+वृत् + प्र 1Ā प्रवर्तते : erfolgen, geschehen, entstehen
 
 Von वृत्:
 
-> वृत्ति f.: Benehmen, Tätigkeit, Lebensweise
-> 
-> वृत्त n.: Benehmen
+::: indent
+वृत्ति f.: Benehmen, Tätigkeit, Lebensweise
+
+वृत्त n.: Benehmen
+:::
 
 अभि Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
 
@@ -1468,15 +1362,18 @@ Von वृत्:
 
 davon
 
-> अपोह m.: Negierung (अप + ऊह)
-> 
-> ऊहापोह m.: Diskussion des Für und Wider
-> 
-> ::: media
+::: indent
+अपोह m.: Negierung (अप + ऊह)
+
+ऊहापोह m.: Diskussion des Für und Wider
+:::
+
+::: media
 ![](/images/lekt2407.jpg)
 Abb.: ऊहापोहः
 (Bildquelle: [Details](/licenses#lekt2407))
 :::
+
 
 औपकारिक 3 f.: -ई : nützlich
 
@@ -1484,23 +1381,28 @@ Abb.: ऊहापोहः
 
 ख्या 2P ख्याति PPP ख्यात : sehen, sichtbar werden ; nennen, erklären, mitteilen
 
-> ख्या + आ 2P आख्यात : erzählen
-> 
-> davon:
-> 
-> &gt; आख्यान n.: Erzählung
-> 
-> ::: media
+::: indent
+ख्या + आ 2P आख्यात : erzählen
+
+davon:
+
+आख्यान n.: Erzählung
+:::
+
+::: media
 ![](/images/lekt2408.jpg)
 Abb.: आख्यानम्
 (Bildquelle: [Details](/licenses#lekt2408))
 :::
-> 
-> ख्या + सम् 2P संख्याति : zusammenzählen, berechnen
-> 
-> davon:
-> 
-> &gt; संख्य m.: Zählung, Aufzählung ; eines der sechs philosopphischen System (kurz: Basham, Wonder S. 326f.)
+
+
+::: indent
+ख्या + सम् 2P संख्याति : zusammenzählen, berechnen
+
+davon:
+
+संख्या f.: Zählung, Aufzählung ; सांख्य n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.)
+:::
 
 ग्रहण n.: Ergreifen
 
@@ -1514,7 +1416,9 @@ Abb.: आख्यानम्
 
 davon:
 
-> कृ + नमस् 8 नमस्करोमि : sich verbeugen, verehren, begrüßen
+::: indent
+कृ + नमस् 8 नमस्करोमि : sich verbeugen, verehren, begrüßen
+:::
 
 ::: media
 ![](/images/lekt2411.jpg)
@@ -1522,14 +1426,16 @@ Abb.: जयदेवकविर्विष्णुं नमस्करो�
 (Bildquelle: [Details](/licenses#lekt2411))
 :::
 
+
 स्वागत n.: Willkommen (aus su-ā-gata)
 
 तृण n.: Grashalm
 
 पुनर् Adverb: wiederum, wieder, zurück, aber
 
-
 ## Lektion 25
+
+
 
 त्यज् 1P त्यजति  verlassen, aufgeben, im Stich lassen
 
@@ -1554,6 +1460,7 @@ Abb.: जयदेवकविर्विष्णुं नमस्करो�
 Abb.: धान्यम्
 (Bildquelle: [Details](/licenses#lekt2501))
 :::
+
 
 धृ 1U धरति : halten, festhalten
 
@@ -1630,6 +1537,8 @@ Abb.: धान्यम्
 Abb.: मूलानि
 (Bildquelle: [Details](/licenses#lekt2502))
 :::
+
+
 लिप् 6U लिम्पति (!): bestreichen, beschmieren
 
 > Fut. लेप्स्यति  
@@ -1642,10 +1551,11 @@ Abb.: मूलानि
 > लिप्ति f.: Bestreichen, Schreiben, Schrift
 > 
 > ::: media
-![](/images/lekt2503.jpg)
-Abb.: लिप्तिः
-(Bildquelle: [Details](/licenses#lekt2503))
-:::
+> ![](/images/lekt2503.jpg)
+> Abb.: लिप्तिः
+> (Bildquelle: [Details](/licenses#lekt2503))
+> :::
+
 
 वर्ष n.,m.: Regen, Regenzeit, Jahr
 
@@ -1669,6 +1579,7 @@ Abb.: विवाहः
 (Bildquelle: [Details](/licenses#lekt2504))
 :::
 
+
 नी + वि 1U विनयति : wegführen, unterrichten, erziehen
 
 > davon:
@@ -1684,6 +1595,7 @@ Abb.: विवाहः
 Abb.: विष्टिः
 (Bildquelle: [Details](/licenses#lekt2505))
 :::
+
 
 वृध् 1Ā वर्धते : wachsen, größer werden
 
@@ -1710,35 +1622,42 @@ Abb.: हिरण्यम्
 (Bildquelle: [Details](/licenses#lekt2506))
 :::
 
-अणु ३ : dünn, fein, dehr klein ; m.: Atom
+
+अणु ३ : dünn, fein, sehr klein ; m.: Atom
 
 गोदान n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein संस्कार)
 
-
 ## Lektion 27
 
-वस्  1P वसति : verweilen, wohnen (mit Lokativ der Person, bei der man wohnt)
 
-> Fut. वत्स्यति  
-> Pass. उष्यते  
-> PPP उषित  
-> Inf. वस्तुम्
 
-davon:
+**वस्** 1P (वसति): verweilen, wohnen (mit Lokativ der Person, bei der man wohnt)
 
-> वस्तु n.: Sitz, Ort ; Realie, reales Ding, Wirklichkeit, Gegenstand
-> 
-> &gt; वस्तुतस् : in Wirklichkeit, wirklich
-
-वस् 2Ā वस्ते : anziehen (Kleidung), tragen (Kleidung)
-
-> Fut. वसिष्यते  
-> PPP वसित  
-> Inf. वसितुम्
+::: indent
+**Fut.:** वत्स्यति[[br]]**Pass.:** उष्यते[[br]]**PPP:** उषित[[br]]**Inf.:** वस्तुम्
+:::
 
 davon:
 
-> वस्त्र n.: Mittel, um sich anzuziehen = Kleid, Gewand, Stoff
+:::: indent
+**वस्तु** n.: Sitz, Ort; Realie, reales Ding, Wirklichkeit, Gegenstand
+
+::: indent
+**वस्तुतस्**: in Wirklichkeit, wirklich
+:::
+::::
+
+**वस्** 2Ā (वस्ते): anziehen (Kleidung), tragen (Kleidung)
+
+::: indent
+**Fut.:** वसिष्यते[[br]]**PPP:** वसित[[br]]**Inf.:** वसितुम्
+:::
+
+davon:
+
+::: indent
+**वस्त्र** n.: Mittel, um sich anzuziehen = Kleid, Gewand, Stoff
+:::
 
 ::: media
 ![](/images/lekt2706.jpg)
@@ -1746,11 +1665,13 @@ Abb.: वस्त्राणि
 (Bildquelle: [Details](/licenses#lekt2706))
 :::
 
-वस् 6 उच्छति (!): aufleuchten (diese Wurzel ist wichtig wegen der Nominalbildungen:)
+**वस्** 6P (उच्छति): aufleuchten (diese Wurzel ist wichtig wegen der Nominalbildungen:)
 
-> वसु n.: Reichtum, Schatz, Habe, Besitz
-> 
-> वसन्त m.: ("leuchtend" =) Frühling (März bis Mai)
+::: indent
+**वसु** n.: Reichtum, Schatz, Habe, Besitz
+
+**वसन्त** m.: ("leuchtend" =) Frühling (März bis Mai)
+:::
 
 ::: media
 ![](/images/lekt2707.jpg)
@@ -1758,22 +1679,23 @@ Abb.: वसन्तः
 (Bildquelle: [Details](/licenses#lekt2707))
 :::
 
-हृ 1U हरति : halten, tragen; holen, wegnehmen, rauben
+**हृ** 1U (हरति): halten, tragen; holen, wegnehmen, rauben
 
-> Fut. हरिष्यति  
-> Pas. ह्रियते  
-> PPP हृत  
-> Inf. हर्तुम्
+::: indent
+**Fut.:** हरिष्यति[[br]]**Pass.:** ह्रियते[[br]]**PPP:** हृत[[br]]**Inf.:** हर्तुम्
+:::
 
 davon:
 
-> हर 3: wegnehmend ; m.: der Zerstörer = Beiname von शिव
+::: indent
+**हर** 3: wegnehmend; m.: der Zerstörer = Beiname von Śiva
+:::
 
-Gegenstück zu हर :
+Gegenstück zu **हर**:
 
-हरि 3: blond, gelb, grün ; m. Beiname des विष्णु (gehört nicht zur Wurzel हृ 1)
+**हरि** 3: blond, gelb, grün; m. Beiname des Viṣṇu (gehört nicht zur Wurzel हृ 1)
 
-हरिहर m.: विष्णु und शिव vereint als eine einzige Gottheit.
+**हरिहर** m.: Viṣṇu und Śiva vereint als eine einzige Gottheit.
 
 ::: media
 ![](/images/lekt2704.jpg)
@@ -1787,70 +1709,55 @@ Abb.: हरिहरः
 (Bildquelle: [Details](/licenses#lekt2705))
 :::
 
-
 ## Lektion 28
 
-विद् 2P वेत्ति , विदन्ति : wissen, kennen
 
-> Fut. वेदिष्यति   
-> Pass. विद्यते   
-> Kaus. वेदयति   
-> PPP विदित   
-> Inf. वेदितुम्
-> 
-> davon:
-> 
-> विद्या f.,  वेद m.
 
-विद् 6U विन्दति (!):  finden
+**विद्** 2P **वेत्ति**, **विदन्ति**: wissen, kennen
+Fut. **vediṣyati**
+Pass. **vidyate**
+Kaus. **vedayati**
+PPP **vidita**
+Inf. **vediṣyum**
+davon: **vidyā** f., **veda** m.
 
-> Fut. वेदिष्यति / वेत्स्यत्   
-> Pass. विद्यते : es gibt, es ist vorhanden   
-> Kaus. वेदयति   
-> PPP विन्न /  वित्त   
-> Inf. वेदितुम्  वेत्तुम्
+**विद्** 6U **विन्दति** (!): finden
+Fut. **vediṣyati** / **vetsyat**
+Pass. **vidyate**: es gibt, es ist vorhanden
+Kaus. **vedayati**
+PPP **vinna** / **vitta**
+Inf. **vediṣtum** / **vettum**
 
-इ + अधि 2Ā  अधीते , अधीयते : studieren, auswendig lernen
+**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
+Kaus. **adhyāpayati**: studieren lassen, unterrichten
+davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
 
-> Kaus. अध्यापयति : studieren lassen, unterrichten
-> 
-> davon:
-> 
-> अध्ययन n.:  Studium (bes. des Veda)
-> 
-> अध्याय m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
-
-कम् 10Ā  कामयते : lieben
-
-> Fut. कामयिष्यते /  कमिष्यते   
-> Pass. काम्यते   
-> Kaus. कामयति   
-> PPP  कान्त (!)  
-> Inf. कामयितुम् / कमितुम्
+**कम्** 10Ā **कामयते**: lieben
+Fut. **kāmayiṣyate** / **kamiṣyate**
+Pass. **kāmyate**
+Kaus. **kāmayati**
+PPP **kānta** (!)
+Inf. **kāmayitum** / **kamitum**
 
 ::: media
 ![](/images/lekt2804.jpg)
 Abb.: कृष्णो राधां कामयति
+Gemälde von राजा रवि वर्मा (1848 - 1906)
 (Bildquelle: [Details](/licenses#lekt2804))
 :::
 
-चुर् 10 चोरयति : stehlen
+**चुर्** 10 **चोरयति**: stehlen
+Fut. **corayiṣyati**
+Pass. **coryate**
+Kaus. **corayati**
+PPP **corita**
+Inf. **coritum**
 
-> Fut. चोरयिष्यति   
-> Pass. चोर्यते   
-> Kaus. चोरयति   
-> PPP चोरित   
-> Inf. चोरितुम्
-
-Merken Sie sich besonders die Bedeutung der kausativa zu folgenden Verben:
-
-> दृश्  दर्शयति : zeigen
-> 
-> मन्  मानयति : hochschätzen, ehren (ist vermutlich aber ein Denominativ zu मान "Ehre")
-> 
-> वच्  वाचयति : auch: laut lesen (einen Text sprechen machen)
-> 
-> वद्  वादयति : auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
+**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
+**dṛś** — **darśayati**: zeigen
+**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
+**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
+**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
 
 ::: media
 ![](/images/lekt2803.jpg)
@@ -1858,24 +1765,29 @@ Abb.: वीणां वादयति
 (Bildquelle: [Details](/licenses#lekt2803))
 :::
 
-भार m.: Last
+**भार** m.: Last
 
 ::: media
 ![](/images/lekt2805.jpg)
 Abb.: बाला भारं हरति
 (Bildquelle: [Details](/licenses#lekt2805))
-::: 
+:::
 
-भृत्य m.: Untergebener, Diener
+**भृत्य** m.: Untergebener, Diener
 
+---
 
 ## Lektion 29
 
-Präverbe:
 
-> उद्° : auf, hinauf, empor, hinaus, aus, aus-
-> 
-> परि° : herum, um (Ort, Zeit), umher
+
+Präverben:
+
+::: indent
+उद्° : auf, hinauf, empor, hinaus, aus, aus-
+
+परि° : herum, um (Ort, Zeit), umher
+:::
 
 भू + परि 1P परिभवति : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten
 
@@ -1887,11 +1799,13 @@ Präverbe:
 
 ग्रस् 1Ā ग्रसते : verzehren, fressen
 
-> Fut. ग्रसिष्यते  
-> Pass. ग्रस्यते  
-> Kaus. ग्रासयति  
-> PPP ग्रस्त  
-> Inf. ग्रसितुम्
+::: indent
+Fut. ग्रसिष्यते  
+Pass. ग्रस्यते  
+Kaus. ग्रासयति  
+PPP ग्रस्त  
+Inf. ग्रसितुम्
+:::
 
 तीक्ष्ण 3: "wild", scharf, spitz, streng, heftig, scharfzüngig
 
@@ -1903,7 +1817,7 @@ Präverbe:
 ![](/images/lekt2903.jpg)
 Abb.: परिव्राजकाः
 (Bildquelle: [Details](/licenses#lekt2903))
-::: 
+:::
 
 पालयति : auch bedeutungsgleich mit  पाति
 
@@ -1913,9 +1827,10 @@ Abb.: परिव्राजकाः
 
 मत्स्य m.: Fisch
 
-> davon:
-> 
-> मात्स्य 3: zum Fisch (zu Fischen) gehörig
+davon:
+::: indent
+मात्स्य 3: zum Fisch (zu Fischen) gehörig
+:::
 
 ::: media
 ![](/images/lekt2901.jpg)
@@ -1929,33 +1844,42 @@ Abb.: मत्स्यः
 
 रम् 1Ā रमते : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
 
-> Fut. रंस्यते  
-> Pass. रम्यते  
-> Kaus. रमयति  
-> PPP रत  
-> Inf. रन्तुम्
+::: indent
+Fut. रंस्यते  
+Pass. रम्यते  
+Kaus. रमयति  
+PPP रत  
+Inf. रन्तुम्
+:::
 
 वानप्रस्थ m.: Waldeinsiedler (jemand, der sich im 3. आश्रम befindet)
 
-सुचि 3: leuchtend, glänzend, fein ; m.: Reinheit
+शुचि 3: leuchtend, glänzend, fein ; m.: Reinheit
 
 पूज् 10P पूजयति : ehren, verehren
 
-> PPP पूजित
-
+::: indent
+PPP पूजित
+:::
 
 ## Lektion 30
 
+
+
 क्री 9U क्रीणाति : kaufen
 
-> Fut. क्रेष्यति  
-> Pass. क्रीयते  
-> PPP क्रीत  
-> Inf. क्रेतुम्
+::: indent
+Fut. क्रेष्यति  
+Pass. क्रीयते  
+PPP क्रीत  
+Inf. क्रेतुम्
+:::
 
 क्री + वि 9Ā विक्रीणीते : verkaufen
 
-> Absol. विक्रीय
+::: indent
+Absol. विक्रीय
+:::
 
 ::: media
 ![](/images/lekt3001.jpg)
@@ -1965,20 +1889,20 @@ Abb.: क्रीणन्ति विक्रीणते च
 
 ज्ञा 9U जानाति : kennen, erkennen, wissen, verstehen
 
-> Fut. ज्ञास्यति  
-> Pass.ज्ञायते  
-> Kaus. ज्ञापयति
-> 
-> &gt; Kaus. PPP ज्ञप्त / ज्ञापित
-> 
-> PPP ज्ञात  
-> Inf. ज्ञातुम्
-> 
-> davon:
-> 
-> ज्ञाति m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!)
-> 
-> ज्ञान n.: Erkenntnis, Wissen, Erkennen (bes. der "höheren" Wahrheiten in Religion und Philosophie)
+::: indent
+Fut. ज्ञास्यति  
+Pass. ज्ञायते  
+Kaus. ज्ञापयति  
+Kaus. PPP ज्ञप्त / ज्ञापित  
+PPP ज्ञात  
+Inf. ज्ञातुम्
+
+davon:
+
+ज्ञाति m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!)
+
+ज्ञान n.: Erkenntnis, Wissen, Erkennen (bes. der "höheren" Wahrheiten in Religion und Philosophie)
+:::
 
 ::: media
 ![](/images/lekt3002.jpg)
@@ -1988,25 +1912,29 @@ Abb.: ज्ञातयः
 
 पू 9U पुनाति : reinigen
 
-> Fur. पविष्यति  
-> Pass. पूयते  
-> Kaus. पावयति  
-> PPP पूत  
-> Inf. पवितुम्
+::: indent
+Fut. पविष्यति  
+Pass. पूयते  
+Kaus. पावयति  
+PPP पूत  
+Inf. पवितुम्
+:::
 
 ::: media
 ![](/images/lekt3003.jpg)
 Abb.: श्रोत्राणि पुनाति
 (Bildquelle: [Details](/licenses#lekt3003))
-::: 
+:::
 
 अश् 9P अश्नाति : essen, verzehren
 
-> Fut. अशिष्यति  
-> Pass. अश्यते  
-> Kaus. आशयति  
-> PPP अशित  
-> Inf. अशितुम्
+::: indent
+Fut. अशिष्यति  
+Pass. अश्यते  
+Kaus. आशयति  
+PPP अशित  
+Inf. अशितुम्
+:::
 
 ::: media
 ![](/images/lekt3005.jpg)
@@ -2020,25 +1948,31 @@ Abb.: अश्नीयात्
 ![](/images/lekt3004.jpg)
 Abb.: प्रिया
 (Bildquelle: [Details](/licenses#lekt3004))
-::: 
+:::
 
 चेत् Konjunktion: wenn; vorausgesetzt, dass (steht nie am Anfang eines Satzes)
 
-> न चेत् : wenn nicht
+::: indent
+न चेत् : wenn nicht
+:::
 
 यदि Konjunktion: wenn
 
-> यद्यपि : wenn auch, selbst wenn, obgleich
-> 
-> यद्येवम् : wenn es so ist, unter diesen Umständen
+::: indent
+यद्यपि : wenn auch, selbst wenn, obgleich
+
+यद्येवम् : wenn es so ist, unter diesen Umständen
+:::
 
 पुनर् : wieder, immer wieder, zurück, noch einmal, dagegen, aber
 
-> पुनः पुनर् : immer wieder
-> 
-> davon:
-> 
-> पुनर्भव m.: Wiedergeburt
+::: indent
+पुनः पुनर् : immer wieder
+
+davon:
+
+पुनर्भव m.: Wiedergeburt
+:::
 
 ::: media
 ![](/images/lekt2904.jpg)
@@ -2048,41 +1982,43 @@ Abb.: पुनर्भवः
 
 जीव् 1P जीवति : leben
 
-> Fut. जीविष्यति  
-> Pass. जीव्यते  
-> Kaus. जीवयति  
-> PPP जीवित : lebend  
-> Inf. जीवितुम्
-> 
-> davon:
-> 
-> जीव m./n.: Leben, individuelle Seele
+::: indent
+Fut. जीविष्यति  
+Pass. जीव्यते  
+Kaus. जीवयति  
+PPP जीवित : lebend  
+Inf. जीवितुम्
+
+davon:
+
+जीव m./n.: Leben, individuelle Seele
+:::
 
 सनातन ३ fem.: सनातनी : ewig, unvergänglich, beständig
 
-
 ## Lektion 31
 
-युज् 7U युनक्ति : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, सप्तमी)
 
-> Fut. योक्ष्यति  
-> Pass. युज्यते  
-> Kaus. योजयति  
-> PPP युक्त  
-> Inf. योक्तुम्
-> 
-> davon:
-> 
-> युग n.: Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
-> 
-> &gt; 1.  कृत
-> &gt; 2.  त्रेता
-> &gt; 3.  द्वापर
-> &gt; 4.  कलि
-> &gt; 
-> &gt; Das कलियुग begann um 3102 v. Chr., dem Jahr des  महाभारत-Krieges. Näheres bei Basham, Wonder S. 323)
-> 
-> योग m.: "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.)
+
+**युज्** 7U **युनक्ति** : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, सप्तमी)
+::: indent
+**Fut. योक्ष्यति**
+**Pass. युज्यते**
+**Kaus. योजयति**
+**PPP युक्त**
+**Inf. योक्तुम्**
+
+davon:
+**युग n. -&gt; युग n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
+1. **कृत**
+2. **त्रेता**
+3. **द्वापर**
+4. **कलि**
+
+Das **कलियुग** begann um 3102 v. Chr., dem Jahr des **महाभारत**-Krieges. Näheres bei Basham, Wonder S. 323)
+
+**योग m.:** "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.)
+:::
 
 ::: media
 ![](/images/lekt3101.jpg)
@@ -2090,43 +2026,47 @@ Abb.: योगः
 (Bildquelle: [Details](/licenses#lekt3101))
 :::
 
-रुध् 7U रुणद्धि : stoppen, zum Stillstand bringen, zurückhalten = einschließen, verdecken
+**रुध्** 7U **रुणद्धि** : stoppen, zum Stillstand bringen, zurückhalten = einschließen, verdecken
+::: indent
+**Fut. रोत्स्यति**
+**Pass. रुध्यते**
+**Kaus. रोधयति**
+**PPP रुद्ध**
+**Inf. रोद्धुम्**
+:::
 
-> Fut. रोत्स्यति  
-> Pass. रुध्यते  
-> Kaus. रोधयति  
-> PPP रुद्ध  
-> Inf. रोद्धुम्
+**छिद्** 7U **छिनत्ति** : abschneiden
+::: indent
+**Fut. छेत्स्यति**
+**Pass. छिद्यते**
+**Kaus. छेदयति**
+**PPP छिन्न**
+**Inf. छेत्तुम्**
+:::
 
-छिद् 7U छिनत्ति : abschneiden
+**भञ्ज्** 7P **भनक्ति** : (etwas) zerbrechen
+::: indent
+**Fut. भङ्क्ष्यति**
+**Pass. भज्यते**
+**PPP भग्न**
+:::
 
-> Fut. छेत्स्यति  
-> Pass. छिद्यते  
-> Kaus. छेदयति  
-> PPP छिन्न  
-> Inf. छेत्तुम्
+**अञ्ज्** 7P **अनक्ति** : salben, beschmieren
+::: indent
+**Fut. अङ्क्ष्यति । अञ्जिष्यति**
+**Pass. अज्यते**
+**Kaus. अञ्जयति**
+**PPP अक्त**
+**Inf. अञ्जितुम् । अङ्क्तुम्**
+:::
 
-भञ्ज्  7P भनक्ति : (etwas) zerbrechen
+**अञ्ज् + vi -&gt; अञ्ज् + वि** 7Ā **व्यङ्क्ते** : auseinanderschmieren = sich schminken, sich unterschieden machen
+::: indent
+**PPP व्यक्त :** unterschieden, entfaltet
 
-> Fut. भङ्क्ष्यति  
-> Pass. भज्यते  
-> PPP भग्न
-
-अञ्ज् 7P अनक्ति : salben, beschmieren
-
-> Fut. अङ्क्ष्यति । अञ्जिष्यति  
-> Pass. अज्यते  
-> Kaus. अञ्जयति  
-> PPP अक्त  
-> Inf. अञ्जितुम् । अङ्क्तुम्
-
-अञ्ज् +  वि 7Ā व्यङ्क्ते : auseinanderschmieren = sich schminken, sich unterschieden machen
-
-> PPP व्यक्त : unterschieden, entfaltet
-> 
-> davon
-> 
-> व्यञ्जन n.: Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden)
+davon:
+**व्यञ्जन n.:** Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden)
+:::
 
 ::: media
 ![](/images/lekt3102.jpg)
@@ -2134,76 +2074,79 @@ Abb.: व्यञ्जनम्
 (Bildquelle: [Details](/licenses#lekt3102))
 :::
 
-भिद् 7U भिनत्ति : spalten
+**भिद्** 7U **भिनत्ति** : spalten
+::: indent
+**Fut. भेत्स्यति**
+**Pass. भिद्यते**
+**Kaus. भेदयति**
+**PPP भिन्न**
+**Inf. भेत्तुम्**
+:::
 
-> Fut. भेत्स्यति  
-> Pass. भिद्यते  
-> Kaus. भेदयति  
-> PPP भिन्न  
-> Inf. भेत्तुम्
+**भुज्** 7U **भुनक्ति** : genießen (z.B. Essen ; "die Erde genießen" = die Erde beherrschen)
+::: indent
+**Fut. भोक्ष्यति**
+**Pass. भुज्यते**
+**Kaus. भोजयति**
+**PPP bhukt -&gt; PPP भुक्त**
+**Inf. भोक्तुम्**
 
-भुज् 7U भुनक्ति : genießen (z.B. Essen ; "die Erde genießen" = die Erde beherrschen)
+davon:
+**भोग m.:** Genuss, Essen, Lust, Nutzen, Steuer, Abgabe
+:::
 
-> Fut. भोक्ष्यति  
-> Pass. भुज्यते  
-> Kaus. भोजयति  
-> PPP भुक्त  
-> Inf. भोक्तुम्
-> 
-> davon
-> 
-> भोग m.: Genuss, Essen, Lust, Nutzen, Steuer, Abgabe
+**बन्ध्** 9P **बध्नाति** (!): binden, anbinden
+::: indent
+**Fut. भन्त्स्यति**
+**Pass. बध्यते**
+**Kaus. बन्धयति**
+**PPP बद्ध**
+**Inf. बद्धुम्**
 
-बन्ध् 9P बध्नाति (!): binden, anbinden
+davon:
+**बन्धन n.:** Binden, Fessel
+:::
 
-> Fut. भन्त्स्यति  
-> Pass. बध्यते  
-> Kaus. बन्धयति  
-> PPP बद्ध  
-> Inf. बन्द्धुम्
-> 
-> davon:
-> 
-> बन्धन n.: Binden, Fessel
-
-ज्ञा + प्र 9U प्रजानाति : erkennen, verstehen
-
-> davon:
-> 
-> प्रज्ञा f.: Weisheit, Erkenntnis
+**ज्ञा + प्र** 9U **प्रजानाति** : erkennen, verstehen
+::: indent
+davon:
+**प्रज्ञा f.:** Weisheit, Erkenntnis
+:::
 
 ::: media
 ![](/images/lekt3103.jpg)
-Abb.: प्रज्ञापारमिता-Manuskript
+Abb.: प्रज्ञापारमिता
 (Bildquelle: [Details](/licenses#lekt3103))
 :::
 
-भू + सम् 1P सम्भवति : entstehen, existieren
+**भू + सम्** 1P **सम्भवति** : entstehen, existieren
 
-शरीर n.: Leib, Körper
-
+**शरीर n.:** Leib, Körper
 
 ## Lektion 32
 
-अग्र n.: Spitze, äußerstes Ende
 
-मही f.: Erde, Grund und Boden (wörtl.: die Große)
 
-एकदा
+**अग्र n.:** Spitze, äußerstes Ende
 
-श्रम् श्राम्यते
+**मही f.:** Erde, Grund und Boden (wörtl.: die Große)
 
-> श्रमिष्यते  
-> श्रम्यते  
-> श्रमयति  
-> श्रान्त  
-> श्रमित्वा । श्रान्त्वा  
-> \-श्रम्य  
-> श्रमितुम्
+**एकदा**
 
-पार्श्व
+**श्रम् श्राम्यते**
+::: indent
+श्रमिष्यते[[br]]
+श्रम्यते[[br]]
+श्रमयति[[br]]
+श्रान्त[[br]]
+श्रमित्वा । श्रान्त्वा[[br]]
+-श्रम्य[[br]]
+श्रमितुम्
+:::
 
-चूत
+**पार्श्व**
+
+**चूत**
 
 ::: media
 ![](/images/lekt3202.jpg)
@@ -2211,53 +2154,56 @@ Abb.: चूतः
 (Bildquelle: [Details](/licenses#lekt3202))
 :::
 
-तरु वृक्ष
+**तरु** **वृक्ष**
 
-पचेलिम
+**पचेलिम**
 
-स्पृहा
+**स्पृहा**
 
-परम्
+**परम्**
 
-रुह् रोहति
+**रुह् रोहति**
+::: indent
+रोक्ष्यति[[br]]
+रुह्यते[[br]]
+रोहयति । रोपयति[[br]]
+रूढ[[br]]
+-रुह्य[[br]]
+रोढुम्
+:::
 
-> रोक्ष्यति  
-> रुह्यते  
-> रोहयति । रोपयति  
-> रूढ  
-> \-रुह्य  
-> रोढुम्
+**ग्रह् गृह्णाति**
+::: indent
+ग्रहीष्यति (!)[[br]]
+गृह्यते[[br]]
+ग्राहयति[[br]]
+गृहीत[[br]]
+-गृह्य[[br]]
+ग्रहीतुम् (!)
+:::
 
-ग्रह् गृह्णति
-
-> ग्रहीष्यति (!)  
-> गृह्यते  
-> ग्राहयति  
-> गृहीत  
-> \-गृह्य  
-> ग्रहीतुम् (!)
-
-वानर कपि
+**वानर कपि**
 
 ::: media
 ![](/images/lekt3203.jpg)
 Abb.: वानराः
 (Bildquelle: [Details](/licenses#lekt3203))
-::: 
+:::
 
-लोक् लोकयति
+**लोक् लोकयति**
+::: indent
+लोकयिष्यति[[br]]
+लोक्यते[[br]]
+लोकित[[br]]
+-लोक्य[[br]]
+लोकितुम्
+:::
 
-> लोकयिष्यति  
-> लोक्यते  
-> लोकित  
-> \-लोक्य  
-> लोकितुम्
+**प्रहर्ष**
 
-प्रहर्ष
+**कति**
 
-कति
-
-उपल
+**उपल**
 
 ::: media
 ![](/images/lekt3204.jpg)
@@ -2265,7 +2211,7 @@ Abb.: उपलाः
 (Bildquelle: [Details](/licenses#lekt3204))
 :::
 
-लक्ष्य
+**लक्ष्य**
 
 ::: media
 ![](/images/lekt3205.jpg)
@@ -2273,37 +2219,39 @@ Abb.: लक्ष्यम्
 (Bildquelle: [Details](/licenses#lekt3205))
 :::
 
-क्षिप् क्षिपति
+**क्षिप् क्षिपति**
+::: indent
+क्षेप्स्यति[[br]]
+क्षिप्यते[[br]]
+क्षेपयति[[br]]
+क्षिप्त[[br]]
+-क्षिप्य[[br]]
+क्षेप्तुम्
+:::
 
-> क्षेप्स्यति  
-> क्षिप्यते  
-> क्षेपयति  
-> क्षिप्त  
-> \-क्षिप्य  
-> क्षेप्तुम्
-
-चि चिनोति
-
-> चेष्यति  
-> चीयते  
-> चाययति  
-> चित  
-> \-चित्य  
-> चेतुम्
+**चि चिनोति**
+::: indent
+चेष्यति[[br]]
+चीयते[[br]]
+चाययति[[br]]
+चित[[br]]
+-चित्य[[br]]
+चेतुम्
+:::
 
 ::: media
 ![](/images/lekt3207.jpg)
 Abb.: चितं गोमयं दहति
 (Bildquelle: [Details](/licenses#lekt3207))
-::: 
+:::
 
-चि अव
+**चि अव**
 
-प्रति
+**प्रति**
 
-अहो
+**अहो**
 
-कौशल कुशल
+**कौशल कुशल**
 
 ::: media
 ![](/images/lekt3206.jpg)
@@ -2311,20 +2259,23 @@ Abb.: कौशलम्
 (Bildquelle: [Details](/licenses#lekt3206))
 :::
 
-
 ## Lektion 33
 
-दा 3U ददाति : geben
 
-> Fut. दास्यति  
-> Pass. दीयते  
-> Kaus. दापयति  
-> PPP दत्त  
-> Inf. दातुम्
-> 
-> davon:
-> 
-> दान n.: Geben, Gabe, Freigebigkeit
+
+**दा** 3U **ददाति**: geben
+
+::: indent
+**Fut.**  दास्यति  
+**Pass.** दीयते  
+**Kaus.** दापयति  
+**PPP** दत्त  
+**Inf.** दातुम्
+
+davon:
+
+**दान** n.: Geben, Gabe, Freigebigkeit
+:::
 
 ::: media
 ![](/images/lekt3306.jpg)
@@ -2332,66 +2283,72 @@ Abb.: दानम्
 (Bildquelle: [Details](/licenses#lekt3306))
 :::
 
+**दा** + **आ** 3Ā **अदत्ते**: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
 
-
-दा + आ 3Ā अदत्ते : (in Empfang) nehmen, in Besitz nehmen, mitnehmen
-
-> Absol. आदाय : mit Akk.: in Begleitung von, mit
+::: indent
+**Absol.** आदाय: mit Akk.: in Begleitung von, mit
+:::
 
 ::: media
 ![](/images/lekt3307.jpg)
-Abb.: सा पुत्रमादाय भारं बिभर्ति
+Abb.: सा पुत्रमादाय भारं बिभ्रती गच्छति
 (Bildquelle: [Details](/licenses#lekt3307))
 :::
 
-धा 3U दधाति : setzen, festsetzen, zuteilen
+***धा*** 3U ***दधाति***: setzen, festsetzen, zuteilen
 
-> Fut. धास्यति  
-> Pass. धीयते  
-> Kaus. धापयति  
-> PPP हित (!!)  
-> Inf. धातुम्
+::: indent
+**Fut.** ***धास्यति***  
+**Pass.** ***धीयते***  
+**Kaus.** ***धापयति***  
+**PPP** ***हित*** (!!)  
+**Inf.** ***धातुम्***
+:::
 
-धा + सम् + आ 3U समादधाति : die ganze Aufmerksamkeit auf etwas richten, sich sammeln
+**धा** + **सम्** + **आ** 3U **समादधाति**: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
 
-> davon:
-> 
-> समाधि m.: innere Sammlung, höchste Aufmerksamkeit
+::: indent
+davon:
+
+**समाधि** m.: innere Sammlung, höchste Aufmerksamkeit
+:::
 
 ::: media
 ![](/images/lekt3305.jpg)
-Abb.: समाधिः
+Abb.: समाधि
 (Bildquelle: [Details](/licenses#lekt3305))
 :::
 
+**पॄ** 3P **पिपर्ति**: füllen, erfüllen
 
-पॄ 3P पिपर्ति :füllen erfüllen
+::: indent
+Merke:
+3.pl.P ***पिपुरति***  
+3.sg.Impf.P ***अपिपर्*** (aus: \*apipart)  
+3.pl.Impf.P ***अपिपरुर्***  
+3.sg.Opt.P ***पिपूर्यात्***
 
-> Merke:
-> 
-> 3.pl.P पिपुरति  
-> 3.sg.Impf.P अपिपर् (aus: \*apipart)  
-> 3.pl.Impf.P अपिपरुर्  
-> 3.sg.Opt.P पिपूर्यात्
-> 
-> Fut. परिष्यति । परीष्यति  
-> Pass. पूर्यते  
-> Kaus. पूरयति । पारयति  
-> PPP पूर्ण । पूर्त । पूरित
+**Fut.** परिष्यति / परीष्यति  
+**Pass.** पूर्यते  
+**Kaus.** पूरयति / पारयति  
+**PPP** पूर्ण / पूर्त / पूरित
+:::
 
-पॄ + सम् nur Pass. सम्पूर्यते und Kaus.: gänzlich füllen
+**पॄ** + **सम्** nur **Pass.** सम्पूर्यते und **Kaus.**: gänzlich füllen
 
-भी 3P बिभेति : sich fürchten vor (Abl., Gen.)
+**भी** 3P **बिभेति**: sich fürchten vor (Abl., Gen.)
 
-> Fut. भेष्यति  
-> Pass. भीयते  
-> Kaus. भाययति  
-> PPP भीत  
-> Inf. भेतुम्
-> 
-> davon.
-> 
-> भय n.: Angst Furcht ; Gefahr (also die subjektive und die objektive Seite)
+::: indent
+**Fut.** भेष्यति  
+**Pass.** भीयते  
+**Kaus.** भाययति  
+**PPP** भीत  
+**Inf.** भेतुम्
+
+davon:
+
+**भय** n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite)
+:::
 
 ::: media
 ![](/images/lekt3304.jpg)
@@ -2399,45 +2356,52 @@ Abb.: भयम्
 (Bildquelle: [Details](/licenses#lekt3304))
 :::
 
-भृ 3U बिभर्ति : tragen, bringen ; erhalten, ernähren
+**भृ** 3U **बिभर्ति**: tragen, bringen; erhalten, ernähren
 
-> Fut. भरिष्यति  
-> Pass. भ्रियते  
-> Kaus. भारयति  
-> PPP भृत  
-> Inf. भर्तुम्
-> 
-> davon:
-> 
-> भार m.: Last
+::: indent
+**Fut.** भरिष्यति  
+**Pass.** भ्रियते  
+**Kaus.** भारयति  
+**PPP** भृत  
+**Inf.** भर्तुम्
 
-मा 3Ā मिमीते : messen
+davon:
 
-> मास्यति । मास्यते  
-> मीयते  
-> मापयति  
-> मित  
-> मातुम्
+**भार** m.: Last
+:::
 
-मा + उप 3Ā उपमिमीते : vergleichen
+**मा** 3Ā **मिमीते**: messen
 
-> davon:
-> 
-> उपमा f.: Vergleich
-> 
-> प्रतिमा f.: Abbild
+::: indent
+**Fut.** मास्यति / मास्यते  
+**Pass.** मीयते  
+**Kaus.** मापयति  
+**PPP** मित  
+**Inf.** मातुम्
+:::
 
-हा 3P जहाति : verlassen
+**मा** + **उप** 3Ā **उपमिमीते**: vergleichen
 
-> Fut. हास्यति  
-> Pass. हीयते  
-> Kaus. हापयति  
-> PPP हीन : verlassen von, ermangelnd, mangelhaft  
-> Inf. हातुम्
-> 
-> von PPP हीन :
-> 
-> हीनयान n.:  das mangelhafte Fahrzeug (des Budhismus): verächtliche Bezeichnung durch die Vertreter der "großen Fahrzeugs", des महायान ; der mangelhafte Weg (यान zu या 2: gehen, fahren). Der Ausdruck हीनयान sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heißt थेरवाद.
+::: indent
+davon:
+
+**उपमा** f.: Vergleich
+
+**प्रतिमा** f.: Abbild
+:::
+
+**हा** 3P **जहाति**: verlassen
+
+::: indent
+**Fut.** हास्यति  
+**Pass.** हीयते  
+**Kaus.** हापयति  
+**PPP** हीन: verlassen von, ermangelnd, mangelhaft  
+**Inf.** हातुम्
+von PPP **हीन**:
+
+**हीनयान** n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "großen Fahrzeugs", des **महायान**; der mangelhafte Weg (**यान** zu **या** 2: gehen, fahren). Der Ausdruck हीनयान sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heißt **थेरवाद**.
+:::
 
 ::: media
 ![](/images/lekt3303.jpg)
@@ -2445,13 +2409,15 @@ Abb.: हीनयानमेव
 (Bildquelle: [Details](/licenses#lekt3303))
 :::
 
-हु 3P जुहोति : ins Feuer gießen (als Opfer, bes. Schmelzbutter)
+**हु** 3P **जुहोति**: ins Feuer gießen (als Opfer, bes. Schmelzbutter)
 
-> Fut. होष्यति  
-> Pass. हूयते  
-> Kaus. हावयति  
-> PPP हुत  
-> Inf. होतुम्
+::: indent
+**Fut.** होष्यति  
+**Pass.** हूयते  
+**Kaus.** हावयति  
+**PPP** हुत  
+**Inf.** होतुम्
+:::
 
 ::: media
 ![](/images/lekt3302.jpg)
@@ -2459,21 +2425,21 @@ Abb.: घृतमग्नौ जुहोति
 (Bildquelle: [Details](/licenses#lekt3302))
 :::
 
-घृत n.: Schmelzbutter, Ghee = घी / گھی  / ঘী
+**घृत** n.: Schmelzbutter, Ghee (घी / گھی / ঘী)
 
-::: media
-![](/images/lekt3308.jpg)
-Abb.: घृतम्
-(Bildquelle: [Details](/licenses#lekt3308))
+::: note-box
+"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
+
+[Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
 :::
-
-
 
 ## Lektion 34
 
-क्षिति f. = पृथ्वी = मही = भूमी
 
-शस्य = सस्य n. sg. u. pl.: Saat, Feldfrucht, Getreide
+
+**क्षिति f. = पृथ्वी = मही = भूमी**
+
+**शस्य = सस्य n. sg. u. pl.:** Saat, Feldfrucht, Getreide
 
 ::: media
 ![](/images/lekt3406.jpg)
@@ -2481,13 +2447,13 @@ Abb.: सस्यम्
 (Bildquelle: [Details](/licenses#lekt3406))
 :::
 
-यावत् : wie lange wie groß
+**यावत् :** wie lange, wie groß
 
-तावत् : so lange, so groß
+**तावत् :** so lange, so groß
 
-उत्तम 3: höchster
+**उत्तम 3:** höchster
 
-द्वीप m.n.: Insel, Kontinent
+**द्वीप m.n.:** Insel, Kontinent
 
 ::: media
 ![](/images/lekt3405.jpg)
@@ -2495,9 +2461,9 @@ Abb.: लक्षद्वीपाः
 (Bildquelle: [Details](/licenses#lekt3405))
 :::
 
-मर्त्य 3: sterblich (zu मृ)
+**मर्त्य 3:** sterblich (zu **मृ**)
 
-तिल m.: Sesam(korn) (_Sesamum indicum_ L.)
+**तिल m.:** Sesam(korn) (*Sesamum indicum* L.)
 
 ::: media
 ![](/images/lekt3403.jpg)
@@ -2507,11 +2473,11 @@ Abb.: तिलाः
 
 ::: media
 ![](/images/lekt3404.jpg)
-Abb.: तिलाः
+Abb.: *Sesamum indicum* L.
 (Bildquelle: [Details](/licenses#lekt3404))
 :::
 
-स्वर्ण n.: (schönfarbig =) Gold
+**स्वर्ण n.:** (schönfarbig =) Gold
 
 ::: media
 ![](/images/lekt3402.jpg)
@@ -2519,15 +2485,15 @@ Abb.: स्वर्णम्
 (Bildquelle: [Details](/licenses#lekt3402))
 :::
 
-निकेतन n.: Wohnstatt, Tempel
+**निकेतन n.:** Wohnstatt, Tempel
 
-कोटि f.: Spitze; 10 Millionen
+**कोटि f.:** Spitze; 10 Millionen
 
-श्रेष्ठ 3: bester
+**श्रेष्ठ 3:** bester
 
-तल m.n.: Ebene, Fläche
+**तल m.n.:** Ebene, Fläche
 
-ऋषभ m.: Stier
+**ऋषभ m.:** Stier
 
 ::: media
 ![](/images/lekt3401.jpg)
@@ -2535,35 +2501,38 @@ Abb.: ऋषभः
 (Bildquelle: [Details](/licenses#lekt3401))
 :::
 
-यम् 1P यच्छति : zurückhalten, halten, darbieten, gewähren
+**यम् 1P यच्छति :** zurückhalten, halten, darbieten, gewähren
 
-यम् प्र 1 P प्रयच्छति : hinhalten, anbieten, abliefern
+**यम् + प्र 1P प्रयच्छति :** hinhalten, anbieten, abliefern
 
-या 2P याति : gehen, fahren
+**या 2P याति :** gehen, fahren
 
-कन्या f.: Mädchen, Jungfrau
-
+**कन्या f.:** Mädchen, Jungfrau
 
 ## Lektion 35
 
-नश् 4P नश्यति : verloren gehen, zugrundegehen, verschwinden
 
-> Perf. Vb ननाश, नेशुर्  
-> Fut. नशिष्यति । नङ्क्ष्यति  
-> Kaus. नाशयति  
-> PPP नष्ट
 
-नश् + प्र 4P प्रणश्यति : verschwinden, verloren gehen, zugrundegehen
+**नश्** 4P **नश्यति** : verloren gehen, zugrundegehen, verschwinden
+::: indent
+**Perf. Vb ननाश, नेशुर्**[[br]]
+**Fut. नशिष्यति । नङ्क्ष्यति**[[br]]
+**Kaus. नाशयति**[[br]]
+**PPP नष्ट**
+:::
 
-क्रम् 1U क्रामति, 4P क्राम्यति : schreiten, gehen
+**नश् + प्र** 4P **प्र***ण*श्यति** : verschwinden, verloren gehen, zugrundegehen
 
-> Perf. Vc चक्राम, चक्रमुर्  
-> Fut. क्रमिष्यति  
-> Pass. क्रम्यते  
-> Kaus. क्रमयति  
-> PPP क्रान्त  
-> Inf. क्रमितुम्  
-> Kaus. क्रमित्वा । क्रन्त्वा । क्रान्त्वा
+**क्रम्** 1U *****क्रा*****मति**, 4P *****क्रा*****म्यति** : schreiten, gehen
+::: indent
+**Perf. Vc चक्राम, चक्रमुर्**[[br]]
+**Fut. क्रमिष्यति**[[br]]
+**Pass. क्रम्यते**[[br]]
+**Kaus. क्रमयति**[[br]]
+**PPP ***क्रा***न्त**[[br]]
+**Inf. क्रमितुम्**[[br]]
+**Absol. क्रमित्वा । क्रन्त्वा । क्रान्त्वा**
+:::
 
 ::: media
 ![](/images/lekt3502.jpg)
@@ -2571,27 +2540,28 @@ Abb.: क्रामन्ति
 (Bildquelle: [Details](/licenses#lekt3502))
 :::
 
-गै 1P यायति (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
+**गै** 1P **गायति** (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
+::: indent
+**Perf. IV जगौ, जगुर्**[[br]]
+**Fut. गास्यति**[[br]]
+**Pass. गीयते**[[br]]
+**Kaus. गापयति**[[br]]
+**PPP गीत**[[br]]
+**Inf. गातुम्**
 
-> Perf. IV जगौ, जगुर्  
-> Fut. गास्यति  
-> Pass. गीयते  
-> Kaus. गापयति  
-> PPP गीत  
-> Inf. गातुम्
-> 
-> davon:
-> 
-> गीता f.: Lied Gesang
-> 
-> ::: media
+davon:
+**गीता f.:** Lied, Gesang
+:::
+
+::: media
 ![](/images/lekt3501.jpg)
 Abb.: जगुः
 (Bildquelle: [Details](/licenses#lekt3501))
 :::
 
-
 ## Lektion 36
+
+
 
 अह् P nur Perfekt mit Präsensbedeutung आह, आहुर् : sagen, sprechen
 
@@ -2599,38 +2569,40 @@ Abb.: जगुः
 
 ईक्ष् 1Ā ईक्षते : sehen, (er)blicken, betrachten
 
-> Perf. ईक्षां चक्रे  
-> Fut. ईक्षिष्यते  
-> Pass. ईक्ष्यते  
-> Kaus. ईक्षयति  
-> PPP ईक्षित  
-> Inf. ईक्षितुम्
-
+::: indent
+Perf. ईक्षां चक्रे  
+Fut. ईक्षिष्यते  
+Pass. ईक्ष्यते  
+Kaus. ईक्षयति  
+PPP ईक्षित  
+Inf. ईक्षितुम्
+:::
 चि 5U चिनोति : aufschichten, sammeln
 
-> Perf. चिकाय । चिचाय  
-> Fut. चेष्यति  
-> Pass. चीयते  
-> Kaus. चाययति । चापयति  
-> PPP चित  
-> Inf. चेतुम्
-
+::: indent
+Perf. चिकाय । चिचाय  
+Fut. चेष्यति  
+Pass. चीयते  
+Kaus. चाययति । चापयति  
+PPP चित  
+Inf. चेतुम्
+:::
 ::: media
 ![](/images/lekt3601.jpg)
 Abb.: गोमयं चिकाय
 (Bildquelle: [Details](/licenses#lekt3601))
-:::  
- 
+:::
 
 व्रज् 1P व्रजति : schreiten, gehen, weggehen
 
-> Perf. Vc वव्राज, वव्रजुर्  
-> Fut. व्रजिष्यति  
-> Pass. व्रज्यते  
-> Kaus. व्राजयति  
-> PPP व्रजित  
-> Inf. व्रजितुम्
-
+::: indent
+Perf. Vc वव्राज, वव्रजुर्  
+Fut. व्रजिष्यति  
+Pass. व्रज्यते  
+Kaus. व्राजयति  
+PPP व्रजित  
+Inf. व्रजितुम्
+:::
 व्रज् + प्र 1P प्रव्रजति : weggehen (insbes. aus dem Heim in die Heimlosigkeit als Asket = ein Mönch werden)
 
 अगार n.। आगार n.: Haus, Heim
@@ -2641,16 +2613,17 @@ Abb.: अगारम्
 (Bildquelle: [Details](/licenses#lekt3602))
 :::
 
-> davon:
-> 
-> अनगार्य n. । अनगारिका f.: Heimlosigkeit eines buddhistischen Mönchs oder Novizen
-> 
-> ::: media
+::: indent
+davon:
+
+अनगार्य n. । अनगारika f.: Heimlosigkeit eines buddhistischen Mönchs oder Novizen
+:::
+
+::: media
 ![](/images/lekt3603.jpg)
 Abb.: अनगार्यम्
 (Bildquelle: [Details](/licenses#lekt3603))
 :::
-
 अञ्जलि m.: Die beiden zur Ehrerbietung hoch zusammengelegten Hände
 
 आदृत 3: geachtet
@@ -2661,67 +2634,74 @@ Abb.: अनगार्यम्
 
 पृष्ठ n: Rücken, Rückseite
 
-> पृष्ठम् : hinter
-
+::: indent
+पृष्ठम् : hinter
+:::
 प्रजापति m.: Herr der Geschöpfe, Schöpfergott
 
 अनु Präverb: nach, entlang, über - hin, längs, gemäß, hinzu, hinter - her
 
-> z.B.
-> 
-> अनुकृ : nachahmen, nachmachen
-> 
-> अनुगम् : jemandem nachgehen, entlanggehen
+::: indent
+z.B.
 
+अनुकृ : nachahmen, nachmachen
+
+अनुगम् : jemandem nachgehen, entlanggehen
+:::
 अभि : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
 
-> z.B.
-> 
-> अभिगम् : hingehen, sich nähern
-> 
-> वद् + अभि Kausativ Ā अभिवादयते : formell begrüßen, anreden
+::: indent
+z.B.
 
+अभिगम् : hingehen, sich nähern
+
+वद् + अभि Kausativ Ā अभिवादयते : formell begrüßen, anreden
+:::
 ग्लै 1P ग्लायति : Widerwillen empfinden, dahinschwinden
 
-> Perf. IV जग्लौ  
-> Fut. ग्लास्यति  
-> Pass. ग्लायते  
-> Kaus. ग्लापयति । ग्लपयति  
-> PPP ग्लान  
-> Inf. ग्लातुम्  
-> Absol. -ग्लाय
+::: indent
+Perf. IV जग्लौ  
+Fut. ग्लास्यति  
+Pass. ग्लायते  
+Kaus. ग्लापयति । ग्लपयति  
+PPP ग्लान  
+Inf. ग्लातुम्  
+Absol. -ग्लाय
+:::
+घ्रा 1P ***जिघ्रति*** : etwas riechen
 
-घ्रा 1P जिघ्रति : etwas riechen
-
-> Perf. IV जघ्रौ  
-> Fut. घ्रास्यति  
-> Pass. घ्रायते  
-> Kaus. घ्रापयति  
-> PPP घ्रात । घ्राण  
-> Inf. घ्रातुम्  
-> Absol. -घ्राय
-
+::: indent
+Perf. IV जघ्रौ  
+Fut. घ्रास्यति  
+Pass. घ्रायते  
+Kaus. घ्रापयति  
+PPP घ्रात । घ्राण  
+Inf. घ्रातुम्  
+Absol. -घ्राय
+:::
 प्री 9U प्रीणति : ergötzen, erfreuen; lieben, jemandem geneigt sein
 
 प्री 4Ā प्रीयते : sich freuen
 
-> Perf. IIIa पिप्राय, पिप्रिये  
-> Fut. प्रेष्यति  
-> Pass. प्रीयते  
-> Kaus. प्रीणयति  
-> PPP प्रीत  
-> Inf. प्रेतुम्
-
+::: indent
+Perf. IIIa पिप्राय, पिप्रिये  
+Fut. प्रेष्यति  
+Pass. प्रीयते  
+Kaus. ***प्रीणयति***  
+PPP प्रीत  
+Inf. प्रेतुम्
+:::
 स्पृश् 6P स्पृशति : berühren
 
-> Perf IIa पस्पर्श, पस्पृशुर्  
-> Fut. स्पर्क्ष्यति । स्प्रक्ष्यति  
-> Pass. स्पृश्यते  
-> Kaus. स्पर्शयति  
-> PPP स्पृष्ट  
-> Inf. स्पर्ष्तुम् । स्प्रष्तुम्  
-> Absol. -स्पृश्य
-
+::: indent
+Perf IIa पस्पर्श, पस्पृशुर्  
+Fut. स्पर्क्ष्यति । स्प्रक्ष्यति  
+Pass. स्पृश्यते  
+Kaus. स्पर्शयति  
+PPP स्पृष्ट  
+Inf. स्पर्ष्तुम् । स्प्रष्तुम्  
+Absol. -स्पृश्य
+:::
 ::: media
 ![](/images/lekt3606.jpg)
 Abb.: सुगतो भूमीं पस्पर्श
@@ -2730,12 +2710,13 @@ Abb.: सुगतो भूमीं पस्पर्श
 
 हृष् 4P हृष्यति : starr werden: sich sträuben (Haare), sich freuen über (Instr., Akk., Lok.)
 
-> Perf II जहर्ष  
-> Fut. हर्षिष्यति  
-> Pass. हृष्यते  
-> Kaus. हर्षयति  
-> PPP हृषित
-
+::: indent
+Perf II जहर्ष  
+Fut. हर्षिष्यति  
+Pass. हृष्यते  
+Kaus. हर्षयति  
+PPP हृषित
+:::
 ::: media
 ![](/images/lekt3604.jpg)
 Abb.: लोमहर्षः
@@ -2744,17 +2725,20 @@ Abb.: लोमहर्षः
 
 स्वक 3: eigen (mein, dein ...) ; m.: Angehöriger
 
-
 ## Lektion 37
+
+
 
 मूर्ख 3: stumpfsinnig, blöd, dumm m. Dummkopf
 
 मुनि m.: Weiser, (Schweige)asket
 
-> शाक्यमुनि m.: Asket aus dem Geschlecht der शाक्य (Kṣatriyas aus कपिलवस्तु) = Buddha Gautama
+::: indent
+शाक्यमुनि m.: Asket aus dem Geschlecht der शाक्य (Kṣatriyas aus कपिलवस्तु) = Buddha Gautama
+:::
 
 ::: media
-![](/images/lekt3705.jpg)
+![lekt3705.jpg](/images/lekt3705.jpg)
 Abb.: शाक्यमुनिः
 (Bildquelle: [Details](/licenses#lekt3705))
 :::
@@ -2764,14 +2748,16 @@ Abb.: शाक्यमुनिः
 वृक्ष m.: Baum
 
 ::: media
-![](/images/lekt3706.jpg)
+![lekt3706.jpg](/images/lekt3706.jpg)
 Abb.: वृक्षः
 (Bildquelle: [Details](/licenses#lekt3706))
 :::
+
 मुख n.: Mund, Gesicht, Vorderteil, Anfang
 
-
 ## Lektion 38
+
+
 
 सूर्य m.: Sonne, Sonnengott Sūrya
 
@@ -2780,6 +2766,7 @@ Abb.: वृक्षः
 Abb.: सूर्यः
 (Bildquelle: [Details](/licenses#lekt3802))
 :::
+ 
 
 उदक n.: Wasser
 
@@ -2791,24 +2778,28 @@ Abb.: उदकम्
 
 वा 2P वाति : wehen, blasen
 
-> Fut. वास्यति  
-> Perf. IV ववौ  
-> Pass. वायते  
-> Kaus. वापयति  
-> PPP वान । वात  
-> Inf. वातुम्
-> 
-> davon:
-> 
-> वात m.: Wind
+::: indent
+Fut. वास्यति
+Perf. IV ववौ
+Pass. वायते
+Kaus. वापयति
+PPP वान । वात
+Inf. वातुम्
+
+davon:
+
+वात m.: Wind
+:::
 
 वा + निस् 2P निर्वाति : wehen, verwehen, erlöschen
 
-> davon:
-> 
-> निर्वाण n.: Erlöschen, Nirvana
-> 
-> परिनिर्वाण n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
+::: indent
+davon:
+
+निर्वाण n.: Erlöschen, Nirvana
+
+परिनिर्वाण n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
+:::
 
 ::: media
 ![](/images/lekt3804.jpg)
@@ -2818,27 +2809,31 @@ Abb.: गौतमबुद्धस्य महापरिनिर्वा�
 
 मिह् 1P मेहति : pinkeln, pissen, ejakulieren
 
-> Fut. मेक्ष्यति  
-> Perf. II मिमेह, मिमिहुर्  
-> Pass. मिह्यते  
-> Kaus. मेहयति  
-> PPP मीढ
-> 
-> davon:
-> 
-> मेघ m.: Wolke ("Seicher")
+::: indent
+Fut. मेक्ष्यति
+Perf. II मिमेह, मिमिहुर्
+Pass. मिह्यते
+Kaus. मेहयति
+PPP मीढ
+
+davon:
+
+मेघ m.: Wolke ("Seicher")
+:::
 
 सुत m.: Sohn
 
 राजन् m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. तत्पुरुष) meist: -राज m. (wie देव)
 
-> Feminimum:
-> 
-> राज्ञी f.: Königin, Frau eines Königs
-> 
-> von राज :
-> 
-> राज्य 3: königlich; n. Königreich, Königtum, Herrschaft
+::: indent
+Femininum:
+
+राज्ञी f.: Königin, Frau eines Königs
+
+von राज :
+
+राज्य 3: königlich; n. Königreich, Königtum, Herrschaft
+:::
 
 नामन् n.: Name
 
@@ -2858,151 +2853,54 @@ Abb.: ब्रह्मा
 
 कर्मन् n.: zu कृ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt) 
 
-> कर्मविपाक m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu वि-पच्)
+::: indent
+कर्मविपाक m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu वि-पच्)
+:::
 
 हस्तिन् m.: Elefant (_Elephas maximus_)
 
-मनु m.: Mensch, Mann; Name des Vaters des menschengeschlechts (zu मन् 4Ā)
+मनु m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu मन् 4Ā)
 
-> davon:
-> 
-> मनुष्य m.: Mensch
+::: indent
+davon:
+
+मनुष्य m.: Mensch
+:::
 
 शुच् 1P शोचति : (flammen, leuchten) ; trauern, betrauern
 
-> Perf II शुशोच, शुशुचुर्  
-> Fut. शोचिष्यति  
-> Pass. शुच्यते  
-> Kaus. शोचयति  
-> Inf. शुचितुम्  
-> Absol. शोचित्वा । शुचित्वा
-> 
-> davon:
-> 
-> शुचि 3: leuchtend, rein, klar
-> 
-> शोक m.: Trauer, Gram
-> 
-> अशोक 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (देवानांप्रिय प्रियदर्शी) (ca. 304   232 v.Chr.)
+::: indent
+Perf II शुशोच, शुशुचुर्
+Fut. शोचिष्यति
+Pass. शुच्यते
+Kaus. शोचयति
+Inf. शुचितुम्
+Absol. शोचित्वा । शुचित्वा
+
+davon:
+
+शुचि 3: leuchtend, rein, klar
+
+शोक m.: Trauer, Gram
+
+अशोक 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (देवानांप्रिय प्रियदर्शी) (ca. 304   232 v.Chr.)
+:::
 
 ::: media
 ![](/images/lekt3810.jpg)
-Abb.: अशोकः
+Abb.: अशोकवृक्षः
 (Bildquelle: [Details](/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.jpg)
-Abb.: अशोकः
+Abb.: अशोकसाम्राज्यम्
 (Bildquelle: [Details](/licenses#lekt3811))
 :::
 
-प्राय  m.: Hauptsache, Instr. प्रायेण : meist, gewöhnlich (zu प्र-इ)
-
-विनोद m.: Zeitvertreib, Unterhaltung, Vergnügen
-
-::: media
-![](/images/lekt3812.jpg)
-Abb.: विनोदः
-(Bildquelle: [Details](/licenses#lekt3812))
-:::
-
-अट् 1P अटति : herumschweifen
-
-> Perf. I आट, आटुः  
-> Fut. अटिष्यति  
-> Kaus. आटयति
-
-गाध 3: seicht
-
-तॄ 1P तरति : überqueren, sich retten vor (Akk.)
-
-> Perf. IIIb ततार, तेरुः  
-> Fut. तरिष्यति । तरीष्यति  
-> Pass. तीर्यते  
-> Kaus. टारयति  
-> PPP तीर्ण  
-> Inf. तरितुम् । तरीतुम्
-
-पार n.(m.): jenseitiges Ufer, Grenze, Ziel
-
-तीर n.: Ufer
-
-::: media
-![](/images/lekt3813.jpg)
-Abb.: वाराणस्यां गङ्गातीरे
-(Bildquelle: [Details](/licenses#lekt3813))
-:::
-
-एकैकशस् Adv.: je einzeln
-
-गण् 10P गणयति : zählen
-
-> Perf. गणयां चकार  
-> Fut. गणयिष्यति  
-> Pass. गण्यते  
-> PPP गणित  
-> Absol. -गणय्य  
-> Inf. गणयितुम्
-
-::: media
-![](/images/lekt3814.jpg)
-Abb.: गणयां चक्रुः
-(Bildquelle: [Details](/licenses#lekt3814))
-:::
-क्रुश् 1P क्रोशति : schreien, wehklagen
-
-> Perf. II चुक्रोश  
-> Fut. क्रोक्ष्यति  
-> Pass. क्रुश्यते  
-> Kaus. क्रोशयति  
-> PPP क्रुष्ट
-
-इदानीम् Adv.: jetzt
-
-नूनम् Adv.: jetzt; also, darum; gewiss, sicherlich
-
-मज्ज् 6P मज्जति : sinken, tauchen
-
-> PPP ममज्ज  
-> Fut. मङ्क्ष्यति  
-> Kaus. मज्जयति  
-> PPP मग्न  
-> Absol. मङ्क्त्वा । मक्त्वा
-
-गवेषयति Denominativ: suchen
-
-व्याकुल 3: bestürzt, aufgeregt, verwirrt
-
-कोलाहल m.n.: Geschrei, Lärm
-
-विवेष्टित n.: das Rundherum-Suchen
-
-हस् 1P हसति : lachen
-
-> Perf. Vc जहास, जहसुर्  
-> Fut. हसिष्यति  
-> Pass. हस्यते  
-> Kaus. हासयति  
-> PPP हसित
-
-सृ 1P सरति : laufen
-
-> Perf. ससार, सस्रुर्  
-> Fut. सरिष्यति  
-> Pass. स्रियते  
-> Kaus. सारयति  
-> PPP सृत  
-> Inf. सर्तुम्
-
-कर्णयति Denominativ: hören (zu कर्ण m. "Ohr")
-
-लज्जा f.: Scham
-
-अधस् Adv.: nach unten
-
-
 ## Lektion 40
+
+
 
 पात्र n.: Ehrwürdiger, Meister, Würdiger
 
@@ -3012,54 +2910,64 @@ Abb.: गणयां चक्रुः
 
 कॢप् 1Ā कल्पते : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschließen zu, sich bequemen zu (Dativ)
 
-> Perf. II चकॢपे fakultativ अनिट्  
-> Fut. कल्पिष्यते । कल्प्स्यते  
-> Kaus. कल्पयति : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden  
-> PPP कॢप्त  
-> Inf. कल्पितुम् । कल्प्तुम्
-> 
-> davon:
-> 
-> कल्पना f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion
+::: indent
+Perf. II चकॢपे fakultativ अनिट्  
+Fut. कल्पिष्यते । कल्प्स्यते  
+Kaus. कल्पयति : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden  
+PPP कॢप्त  
+Inf. कल्पितुम् । कल्प्तुम्
+
+davon:
+
+कल्पना f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion
+:::
 
 कॢप् + वि Kaus. विकल्पयति : (sich verschieden vorstellen =) in Frage stellen, bezweifeln
 
-> davon:
-> 
-> विक्ल्प m.: Alternative, Zweifel
+::: indent
+davon:
+
+विक्ल्प m.: Alternative, Zweifel
+:::
 
 तुद् 6U तुदति : schlagen
 
-> Perf. II तुतोद, तुतुदुर्  
-> Fut. तोत्स्यति  
-> Pass. तुद्यते  
-> Kaus. तोदयति  
-> PPP तुन्न (tud + na)  
-> Inf. तोत्तुम्
+::: indent
+Perf. II तुतोद, तुतुदुर्  
+Fut. तोत्स्यति  
+Pass. तुद्यते  
+Kaus. तोदयति  
+PPP तुन्न (tud + na)  
+Inf. तोत्तुम्
+:::
 
 तॄ 1P तरति :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten)
 
-> Perf. IIIb ततार, ततरुर् । तेरुर्  
-> Fut. तरिष्यति । तरीष्यति  
-> Pass. तीर्यते  
-> Kaus. तारयति  
-> PPP तीर्ण  
-> Inf. तरितुम् । तरीतुम्
-> 
-> davon:
-> 
-> तीर्थ n.: Furt, heiliger Badeplatz, Pilgerort
+::: indent
+Perf. IIIb ततार, ततरुर् । तेरुर्  
+Fut. तरिष्यति । तरीष्यति  
+Pass. तीर्यते  
+Kaus. तारयति  
+PPP तीर्ण  
+Inf. तरितुम् । तरीतुम्
+
+davon:
+
+तीर्थ n.: Furt, heiliger Badeplatz, Pilgerort
+:::
 
 ::: media
-![](/images/lekt4003.jpg)
+![lekt4003.jpg](/images/lekt4003.jpg)
 Abb.: हरिद्वारे तीर्थम्
 (Bildquelle: [Details](/licenses#lekt4003))
 :::
 
-> तीर्थङ्कर m. (aus: तीर्थम्+ कृ): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
+::: indent
+तीर्थङ्कर m. (aus: तीर्थम्+ कृ): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
+:::
 
 ::: media
-![](/images/lekt4002.jpg)
+![lekt4002.jpg](/images/lekt4002.jpg)
 Abb.: तीर्थङ्करः
 (Bildquelle: [Details](/licenses#lekt4002))
 :::
@@ -3068,47 +2976,52 @@ Abb.: तीर्थङ्करः
 
 तॄ + अव 1P अवतरति : herabsteigen
 
-> davon:
-> 
-> अवतार m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+::: indent
+davon:
+
+अवतार m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+:::
 
 ::: media
-![](/images/lekt4001.jpg)
+![lekt4001.jpg](/images/lekt4001.jpg)
 Abb.: विष्णोर्दशावताराः
 (Bildquelle: [Details](/licenses#lekt4001))
 :::
 
 स्वप् 2P स्वपिति,  स्वपन्ति : schlafen, sich schlafen legen
 
-> Impf. अस्वपीत् । अस्वपत्  
-> Perf. सुष्वाप, सुषुपुर्  
-> Fut. स्वप्स्यति  
-> Pass. सुप्यते (aus \*svp-ya-te)  
-> Kaus. स्वापयति  
-> PPP सुप्त  
-> Inf. स्वप्तुम्
-> 
-> davon:
-> 
-> स्वप्न m.: Schlaf, Traum
-> 
-> सुप्ति f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
+::: indent
+Impf. अस्वपीत् । अस्वपत्  
+Perf. सुष्वाप, सुषुपुर्  
+Fut. स्वप्स्यति  
+Pass. सुप्यते (aus \*svp-ya-te)  
+Kaus. स्वापयति  
+PPP सुप्त  
+Inf. स्वप्तुम्
+
+davon:
+
+स्वप्न m.: Schlaf, Traum
+
+सुप्ति f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
+:::
 
 ::: media
-![](/images/lekt4004.jpg)
+![lekt4004.jpg](/images/lekt4004.jpg)
 Abb.: स्वपन्ति
 (Bildquelle: [Details](/licenses#lekt4004))
 :::
 
-
 ## Lektion 41
+
+
 
 मूर्ख m = मूढ
 
 भुजङ्ग m.: Schlange
 
 ::: media
-![](/images/lekt4105.jpg)
+![lekt4105.jpg](/images/lekt4105.jpg)
 Abb.: भुजङ्गः
 (Bildquelle: [Details](/licenses#lekt4105))
 :::
@@ -3118,51 +3031,59 @@ Abb.: भुजङ्गः
 विष n.: Gift
 
 ::: media
-![](/images/lekt4104.jpg)
+![lekt4104.jpg](/images/lekt4104.jpg)
 Abb.: भुजङ्गस्य विषम्
 (Bildquelle: [Details](/licenses#lekt4104))
 :::
 
 शास् 2P शास्ति : zurechtweisen, beherrschen, befehlen, lehren
 
-> hat den schwachen Präsensstamm शिष् : शिष्मस् , die 3.Pl. P. hat aber Starken Stamm: शासति (!! Endung -ati) neben gelegentlich शासन्ति. अशासुर्. Auch das ganze आत्मनेपद hat, soweit es vorkommt, den starken Stamm: शास्ते
-> 
-> Perf I शशास, शशासुर्  
-> Fut. शासिष्यति  
-> Pass. -शास्यते । शिष्यते  
-> PPP शिष्ट : gelehrt, weise  
-> Inf. शासितुम्  
-> Absol. -शिष्य । -शास्य
-> 
-> davon:
-> 
-> शासना f.: königliches Edikt, Lehre, Religion
+::: indent
+hat den schwachen Präsensstamm **शिष्** : **शिष्मस्**, die 3.Pl. P. hat aber starken Stamm: **शासति** (!! Endung -ati) neben gelegentlich **शासन्ति**. **अशासुर्**. Auch das ganze आत्मनेपद hat, soweit es vorkommt, den starken Stamm: **शास्ते**
+
+Perf I **शशास**, **शशासुर्**  
+Fut. **शासिष्यति**  
+Pass. **-शास्यते** । **शिष्यते**  
+PPP **शिष्ट** : gelehrt, weise  
+Inf. **शासितुम्**  
+Absol. **-शिष्य** । **-शास्य**
+
+davon:
+
+**शासना** f.: königliches Edikt, Lehre, Religion
+:::
 
 ::: media
-![](/images/lekt4109.jpg)
+![lekt4109.jpg](/images/lekt4109.jpg)
 Abb.: शासना
 (Bildquelle: [Details](/licenses#lekt4109))
 :::
-> शास्त्र n.: Lehre, Lehrwerk
-> 
-> शास्त्रिन् m.: gelehrt, Gelehrter
+
+::: indent
+**शास्त्र** n.: Lehre, Lehrwerk
+
+**शास्त्रिन्** m.: gelehrt, Gelehrter
+:::
 
 ::: media
-![](/images/lekt4110.jpg)
+![lekt4110.jpg](/images/lekt4110.jpg)
 Abb.: शास्त्री
 (Bildquelle: [Details](/licenses#lekt4110))
 :::
- 
 
-> शिष्य 3: zu belehrender = Schüler
+::: indent
+**शिष्य** 3: zu belehrender = Schüler
+:::
 
 शरण 3: schützend, schirmend ; n. Schutz, Zuflucht, das Zufluchnehmen zu
 
 सङ्घ n.: (zu सम्-हन् : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische)
 
-> s. dazu:
-> 
-> &gt; **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+::: deleteme-box
+s. dazu:
+
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+:::
 
 कन्या f.: junges Mädchen, Tochter, Jungfrau
 
@@ -3170,10 +3091,13 @@ Abb.: शास्त्री
 
 इ + अति 2P अत्येति : vorübergehen
 
-> PPP अतीत : n. Vergangenheit
-
+::: indent
+PPP **अतीत** : n. Vergangenheit
+:::
 
 ## Lektion 42
+
+
 
 प्रकृति f.: (zu कृ + प्र) Grundform, natürlicher Zustand, Natur; Urmaterie, Urstoff
 
@@ -3181,7 +3105,9 @@ Abb.: शास्त्री
 
 स्था + अव 1Ā अवतिष्ठते : abstehen von, Abstand nehmen von, sich fernhalten, verbleiben, dastehen
 
-> PPP अवस्थित 3: dastehend, befindlich
+::: indent
+PPP अवस्थित 3: dastehend, befindlich
+:::
 
 पुरा Adv.: einst, früher
 
@@ -3191,7 +3117,7 @@ Abb.: शास्त्री
 
 दूत m.: Bote, Gesandter
 
-इष् (1,4,9) Kaus. इषयति : senden
+इष् (1,4,9) Kaus. ***इष***यति : senden
 
 सकाश m.: Anwesenheit, Gegenwart
 
@@ -3203,13 +3129,15 @@ Abb.: शास्त्री
 
 चल् 1P चलति : in Bewegung geraten
 
-> Fut. चलिष्यति  
-> Perf. Vb चचाल, चेलुर्  
-> Pass. चल्यते  
-> Kaus. चलयति । चालयति  
-> PPP चलित  
-> Absol. -चल्य  
-> Inf. चलितुम्
+::: indent
+Fut. चलिष्यति  
+Perf. Vb चचाल, चेलुर्  
+Pass. चल्यते  
+Kaus. चलयति । चालयति  
+PPP चलित  
+Absol. -चल्य  
+Inf. चलितुम्
+:::
 
 अधिपति m. = राजन्
 
@@ -3229,23 +3157,26 @@ Abb.: शास्त्री
 
 शंस् 1P शंसति : loben, gebieten
 
-> Fut. शंसिष्यति  
-> Perf. I शशंस  
-> Pass. शस्यते  
-> Kaus. शंसयति  
-> PPP शस्त  
-> Absol. शसित्वा । शस्त्वा  
-> Inf. शंसितुम्
+::: indent
+Fut. शंसिष्यति  
+Perf. I शशंस  
+Pass. शस्यते  
+Kaus. शंसयति  
+PPP शस्त  
+Absol. शसित्वा । शस्त्वा  
+Inf. शंसितुम्
+:::
 
 हृदय n.: Herz
 
 ### 42.2.1. Einige Verwandtschaftsbezeichnungen
 
 ::: media
-![](/images/lekt4202.jpg)
-Abb.: माता पिता पुत्रकश्च
+![lekt4202.jpg](/images/lekt4202.jpg)
+Abb.: माता, पिता, पुत्रकः
 (Bildquelle: [Details](/licenses#lekt4202))
-:::
+::: 
+
 भर्तृ m. (zu भृ "tragen, erhalten"): Erhalter, Ernährer, Gatte
 
 भार्या f.,  जाया f.  पत्नी f.: Gattin (भार्या = Gerundiv zu भृ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
@@ -3297,8 +3228,9 @@ Beiden werden Riten vollzogen, sog. श्राद्ध n. Täglich werden je 
 
 मातामही f.: Großmutter mütterlicherseits
 
-
 ## Lektion 43
+
+
 
 ज्ञा + आ Kausativ आज्ञापयति : befehlen, anordnen
 
@@ -3315,11 +3247,10 @@ Abb.: आपणः
 पण्य 3: käuflich; n.: Ware, Handel
 
 ::: media
-![](/images/lekt4303.jpg)
+![]/images/lekt4303.jpg
 Abb.: पण्यानि
 (Bildquelle: [Details](/licenses#lekt4303))
 :::
-
 आम् : ja
 
 सम m. = वर्ष n.
@@ -3398,13 +3329,15 @@ Abb.: तोलन्ति
 
 द्रु 1P द्रवति rennen
 
-> Perf. IIIa दुद्राव, दुद्रुवुर्  
-> Fut. द्रोष्यति  
-> Pass. द्रूयते  
-> Kaus. द्रावयति  
-> PPP द्रुत  
-> Absol. -द्रुत्य  
-> Inf. द्रोतुम्
+::: indent
+Perf. IIIa दुद्राव, दुद्रुवुर्  
+Fut. द्रोष्यति  
+Pass. द्रूयते  
+Kaus. द्रावयति  
+PPP द्रुत  
+Absol. -द्रुत्य  
+Inf. द्रोतुम्
+:::
 
 रे Interjektion: He! Du da!
 
@@ -3422,31 +3355,36 @@ Abb.: तोलन्ति
 
 आनन्द m.: Wonne, Freude
 
-
 ## Lektion 44
+
+
 
 प्रति Präverb: zurück, wider, gegen - hin
 
-> z.B.
-> 
-> हन्  + प्रति 2P प्रतिहन्ति : zurückschlagen
-> 
-> वद् + प्रति 1P प्रतिवदति : zurücksagen = antworten
-> 
-> ख्या + प्रति  + आ 2P प्रत्याख्याति : zurückweisen, verschmähen
+::: indent
+z.B.
+
+**हन् + प्रति** 2P प्रतिहन्ति : zurückschlagen
+
+**वद् + प्रति** 1P प्रतिवदति : zurücksagen = antworten
+
+**ख्या + प्रति + आ** 2P प्रत्याख्याति : zurückweisen, verschmähen
+:::
 
 या 2P याति : gehen, fahren
 
-> Perf. IV ययौ  
-> Fut. यास्यति  
-> Pass. यायते  
-> Kaus. यापयति  
-> PPP यात  
-> Inf. यातुम्
-> 
-> davon:
-> 
-> यान n.: Gehen, Weg, Fahrzeug
+::: indent
+Perf. IV ययौ  
+Fut. यास्यति  
+Pass. यायते  
+Kaus. यापयति  
+PPP यात  
+Inf. यातुम्  
+
+davon:
+
+**यान** n.: Gehen, Weg, Fahrzeug
+:::
 
 ::: media
 ![](/images/lekt4403.jpg)
@@ -3454,17 +3392,19 @@ Abb.: रेल्यानम्
 (Bildquelle: [Details](/licenses#lekt4403))
 :::
 
-शी 2Ā शेते : liegen. Diese Wurzel hat in allen Formen des Präsensstamms Hochstufe: 1.sg.Ind.Präs.Ā शेये (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā  शेरते , 3.pl.Imperf.Ā अशेरत
+**शी** 2Ā शेते : liegen. Diese Wurzel hat in allen Formen des Präsensstamms ***Hochstufe:*** 1.sg.Ind.Präs.Ā ***शेये*** (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā ***शेरते***, 3.pl.Imperf.Ā ***अशेरत***
 
-> Perf. IIIa शिश्ये (śi-śī + e)  
-> Fut. शयिष्यते  
-> Kaus. शापयति  
-> PPP शयित  
-> Inf. शयितुम्
-> 
-> davon:
-> 
-> शयन n.: Liege, Bett
+::: indent
+Perf. IIIa शिश्ये (śi-śī + e)  
+Fut. शयिष्यते  
+Kaus. शापयति  
+PPP शयित  
+Inf. शयितुम्  
+
+davon:
+
+**शयन** n.: Liege, Bett
+:::
 
 ::: media
 ![](/images/lekt4404.jpg)
@@ -3474,18 +3414,20 @@ Abb.: योगी शयने शेते
 
 नन्द् 1P नन्दति : sich freuen an (तृतीयया)
 
-> Perf. I ननन्द  
-> Fut. नन्दिष्यति  
-> Pass.: नन्द्यते  
-> Kaus. नन्दयति  
-> PPP नन्दित  
-> Inf. नन्दितुम्  
-> Absol. -नन्द्य  
-> Gerundiv नन्द्य
-> 
-> davon:
-> 
-> नन्दिन् 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (वहन) des शिव (ein Stier)
+::: indent
+Perf. I ननन्द  
+Fut. नन्दिष्यति  
+Pass.: नन्द्यते  
+Kaus. नन्दयति  
+PPP नन्दित  
+Inf. नन्दितुम्  
+Absol. -नन्द्य  
+Gerundiv नन्द्य  
+
+davon:
+
+**नन्दिन्** 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (वहन) des शिव (ein Stier)
+:::
 
 ::: media
 ![](/images/lekt4405.jpg)
@@ -3495,19 +3437,23 @@ Abb.: नन्दी
 
 नन्द् + अभि 1P (1Ā)  अभिनन्दति : seine Freude haben an (द्वितीयया), jemanden freudig begrüßen, willkommen heißen
 
-यम् 1P यच्छति : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen
+**यम्** 1P ***यच्छति*** : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen
 
-> Perf. Vb ययाम, येमुर्  
-> Fut. यंस्यति  
-> Pass. यम्यते  
-> Kaus. यामयति aber: नियमयति  
-> PPP यत  
-> Inf. यन्तुम्  
-> Absol. -यम्य
+::: indent
+Perf. Vb ययाम, येमुर्  
+Fut. यंस्यति  
+Pass. यम्यते  
+Kaus. यामयति aber: नि***यम***यति  
+PPP यत  
+Inf. यन्तुम्  
+Absol. -यम्य
+:::
 
-यम् + आ 1U आयच्छति : dehnen, ausstrecken
+**यम् + आ** 1***U*** आयच्छति : dehnen, ausstrecken
 
-> PPP आयत 3: lang gestreckt
+::: indent
+PPP आयत 3: lang gestreckt
+:::
 
 ::: media
 ![](/images/lekt4406.jpg)
@@ -3521,16 +3467,18 @@ Abb.: आयतो मरुः
 
 यत् 1Ā यतते : streben nach (सप्तमी, चतुर्थी, द्वितीया)
 
-> Perf. Vb येते  
-> Fut. यतिष्यते  
-> Pass. यत्यते  
-> Kaus. यातयति  
-> PPP यत्त  
-> Inf.यतितुम्
-> 
-> davon:
-> 
-> यत्न m.: Bemühung, Anstrengung
+::: indent
+Perf. Vb येते  
+Fut. यतिष्यते  
+Pass. यत्यते  
+Kaus. यातयति  
+PPP यत्त  
+Inf. यतितुम्  
+
+davon:
+
+**यत्न** m.: Bemühung, Anstrengung
+:::
 
 ::: media
 ![](/images/lekt4407.jpg)
@@ -3538,246 +3486,269 @@ Abb.: यत्नेन
 (Bildquelle: [Details](/licenses#lekt4407))
 :::
 
-रभ् 1Ā रभते (Nebenform zu लभ्): fassen
+**रभ्** 1Ā रभते (Nebenform zu लभ्): fassen
 
-> Perf. Vb रेभे  
-> Fut. रप्स्यते  
-> Pass. रभ्यते  
-> Kaus. रम्भयति  
-> PPP रब्ध  
-> Inf. रब्धुम्  
-> Absol. -रभ्य
+::: indent
+Perf. Vb रेभे  
+Fut. रप्स्यते  
+Pass. रभ्यते  
+Kaus. ***रम्भ***यति  
+PPP रब्ध  
+Inf. रब्धुम्  
+Absol. -रभ्य
+:::
 
 रभ् + आ 1Ā आरभते : anfassen, beginnen, unternehmen
 
 प्रव्रज्या f. (zu प्र-व्रज्): das Fortgehen aus dem Heim in die Heimlosigkeit ; Zeremonie, mit der man buddhistischer Novize wird (Pali: पब्बजा)
 
-> Siehe:
-> 
-> &gt; **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-> 
-> ::: media
+::: deleteme-box
+Siehe:
+
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+:::
+
+::: media
 ![](/images/lekt4408.jpg)
-Abb.: प्रव्रज्या
+Abb.: प्रव्रअज्या / पब्बजा
 (Bildquelle: [Details](/licenses#lekt4408))
 :::
 
-
 ## Lektion 45
+
+
 
 वा ... वा : entweder ... oder
 
-
 ## Lektion 46
+
+
 
 सम 3: gleich, eben, ähnlich
 
-> davon:
-> 
-> समम् Adv.: in gleicher Weise, zugleich (तृतीयया), gleichmäßig
-> 
-> समता f.: Gleichmut
-> 
-> विषम 3: ungleich, uneben, böse
+::: indent
+davon:
+समम् Adv.: in gleicher Weise, zugleich (तृतीयया), gleichmäßig
+समता f.: Gleichmut
+विषम 3: ungleich, uneben, böse
 
-ग्रह् 9U गृह्णाति (gṛh-ṇā-ti) : ergreifen, packen, fassen
+:::
+ग्रह् 9U ***गृ***ह्णाति (gṛh-ṇā-ti) : ergreifen, packen, fassen
 
-> Perf Va (!) जग्राह, जगृहुर्  
-> Fut. ग्रहीष्यति  
-> Pass. गृह्यते  
-> Kaus.ग्राहयति  
-> PPP गृहीत  
-> Inf. ग्रहितुम्  
-> Absol. -ग्राह्य
-> 
-> davon:
-> 
-> ग्रह m.: Greifen, Greifer, Krokodil, Wandelstern
-> 
-> नवग्रह m.: die neun Wandelsterne (nicht Planeten!) (s. Basham, Wonder S. 493):
-> 
-> 1.  सूर्यः = Sonne
-> 2.  चन्द्रः = Mond
-> 3.  मङ्गलः = Mars
-> 4.  बुधः = Merkur
-> 5.  बृहस्पतिः = Jupiter
-> 6.  शुक्रः = Venus
-> 7.  शनिः = Saturn
-> 8.  राहुः
-> 9.  केतुः
-> 
-> Zu राहु und केतु siehe:
-> 
-> &gt; **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: indent
+Perf Va (!) जग्राह, जगृहुर्  
+Fut. ग्र***ही***ष्यति  
+Pass. गृह्यते  
+Kaus.ग्राहयति  
+PPP गृ***ही***त  
+Inf. ग्रहितुम्  
+Absol. -ग्राह्य
+davon:
+ग्रह m.: Greifen, Greifer, Krokodil, Wandelstern
+नवग्रह m.: die neun Wandelsterne (nicht Planeten!) (s. Basham, Wonder S. 493):
+1.  सूर्यः = Sonne
+2.  चन्द्रः = Mond
+3.  मङ्गलः = Mars
+4.  बुधः = Merkur
+5.  बृहस्पतिः = Jupiter
+6.  शुक्रः = Venus
+7.  शनिः = Saturn
+8.  राहुः
+9.  केतुः
 
-::: media
-![](/images/lekt4602.jpg)
-Abb.: नवग्रहाः
-(Bildquelle: [Details](/licenses#lekt4602))
 :::
 
+Zu राहु und केतु siehe:
+
+> **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: media
+![](/images/lekt4602.jpg)
+Abb.: [सूर्यः, चन्द्रः, मङ्गलः](/licenses#lekt4602)
+(Bildquelle: [Details](/licenses#lekt4602))
+:::
 ::: media
 ![](/images/lekt4603.jpg)
-Abb.: नवग्रहाः
+Abb.: [बुधः, बृहस्पतिः](/licenses#lekt4603)
 (Bildquelle: [Details](/licenses#lekt4603))
 :::
 
 ::: media
 ![](/images/lekt4604.jpg)
-Abb.: नवग्रहाः
+Abb.: [शुक्रः, शनिः](/licenses#lekt4604)
 (Bildquelle: [Details](/licenses#lekt4604))
 :::
-
 ::: media
 ![](/images/lekt4605.jpg)
-Abb.: नवग्रहाः
+Abb.: [राहुः, केतुः](/licenses#lekt4605)
 (Bildquelle: [Details](/licenses#lekt4605))
 :::
 
+
 तुष् 4P तुष्यति : sich zufrieden geben, zufrieden sein mit (षष्ठ्या, चतुर्थ्या, तृतियया, सप्तम्या)
 
-> Perf. II तुतोष, तुतुषुर्  
-> Fut. तोक्ष्यति  
-> Pass. तुष्यते  
-> Kaus. तोषयति  
-> PPP तुष्ट  
-> Inf. तोष्टुम्
+::: indent
+Perf. II तुतोष, तुतुषुर्  
+Fut. तोक्ष्यति  
+Pass. तुष्यते  
+Kaus. तोषयति  
+PPP तुष्ट  
+Inf. तोष्टुम्
 
+:::
 नम् 1P नमति : sich beugen, sich verbeugen, sich neigen, sich verneigen
 
-> Perf. Vb ननाम, नेमुर्  
-> Fut. नंस्यति  
-> Pass. नम्यते  
-> Kaus. नमयति । नामयति  
-> PPP नत  
-> Inf. नन्तुम्
+::: indent
+Perf. Vb ननाम, नेमुर्  
+Fut. नंस्यति  
+Pass. नम्यते  
+Kaus. नमयति । नामयति  
+PPP नत  
+Inf. नन्तुम्
 
+:::
 ::: media
 ![](/images/lekt4607.jpg)
-Abb.: नारायणः
+Abb.: [नारायण तुभ्यं नमामि](/licenses#lekt4607)
 (Bildquelle: [Details](/licenses#lekt4607))
 :::
 
+
 रुह् 1P रोहति : ersteigen, besteigen
 
-> Perf. II रुरोह, रुरुहे  
-> Fut. रोक्ष्यति  
-> Pass. रुह्यते  
-> Kaus. रोहयति । रोपयति  
-> PPP. रूढ  
-> Inf. रोढुम्
+::: indent
+Perf. II रुरोह, रुरुहे  
+Fut. रोक्ष्यति  
+Pass. रुह्यते  
+Kaus. रोहयति । रो***प***यति  
+PPP. ***रूढ***  
+Inf. रोढुम्
 
+:::
 ::: media
 ![](/images/lekt4606.jpg)
-Abb.: अश्वरोहकः
+Abb.: [अश्वरोहकः](/licenses#lekt4606)
 (Bildquelle: [Details](/licenses#lekt4606))
 :::
 
+
 ह्वे । हू 1U ह्वयति : rufen, herbeirufen
 
-> Perf. IIIa जुहाव, जुहुवे  
-> Fut. ह्वास्यति  
-> Pass. हूयते  
-> Kaus. ह्वाययति  
-> PPP हूत  
-> Inf. ह्वातुम्  
-> Absol. -हूय
+::: indent
+Perf. IIIa जुहाव, जुहुवे  
+Fut. ह्वास्यति  
+Pass. हूयते  
+Kaus. ह्वाययति  
+PPP हूत  
+Inf. ह्वातुम्  
+Absol. -हूय
 
+:::
 ::: media
 ![](/images/lekt4608.jpg)
-Abb.: महामात्रः
+Abb.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/licenses#lekt4608)
 (Bildquelle: [Details](/licenses#lekt4608))
 :::
 
-> 1 महामात्र m. "Mahout"; चरिष्णु 3 "beweglich", दूरशब्द m. "Ferngespräch, Fernsprecher" » चरिष्णुदूरशब्द "Mobiltelefon" (Wortbildung: A. Payer)
 
+::: indent
+1 महामात्र m. "Mahout"; चरिष्णु 3 "beweglich", दूरशब्द m. "Ferngespräch, Fernsprecher" » चरिष्णुदूरशब्द "Mobiltelefon" (Wortbildung: A. Payer)
+
+:::
 विभ्रम m.: das Hin- und Hergehen
 
 भ्रंश m.: das Entfallen
 
-श्रम् 4P श्राम्यति : sich abmühen, müde werden
+श्रम् 4P ***श्रा***म्यति : sich abmühen, müde werden
 
-> Perf. Vc शश्राम, शश्रामुर्  
-> Fut. श्रमिष्यति  
-> Pass. श्रम्यते  
-> Kaus. श्रमयति । श्रामयति  
-> PPP श्रान्त  
-> Inf. श्रमितुम्  
-> Absol. श्रमित्वा । श्रान्त्वा
-> 
-> davon:
-> 
-> आश्रम m.n.
+::: indent
+Perf. Vc शश्राम, शश्रामुर्  
+Fut. श्रमिष्यति  
+Pass. श्रम्यते  
+Kaus. श्रमयति । श्रामयति  
+PPP ***श्रान्***त  
+Inf. श्रमितुम्  
+Absol. श्रमित्वा । श्रान्त्वा
+davon:
+आश्रम m.n.
 
+:::
 ::: media
 ![](/images/lekt4609.jpg)
-Abb.: श्रान्तः
+Abb.: [श्रान्तः](/licenses#lekt4609)
 (Bildquelle: [Details](/licenses#lekt4609))
 :::
 
+
 श्रि 1U श्रयति : lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (द्वितीयया, सप्तम्या)
 
-> Perf. IIIa शिश्राय, शिश्रिये  
-> Fut. श्रयिष्यति  
-> Pass. श्रीयते  
-> Kaus. श्राययति  
-> PPP श्रित  
-> Inf. श्रयितुम्
+::: indent
+Perf. IIIa शिश्राय, शिश्रिये  
+Fut. श्रयिष्यति  
+Pass. श्रीयते  
+Kaus. श्राययति  
+PPP श्रित  
+Inf. श्रयितुम्
 
-सञ्ज् 1P सजति : anhängen, sich heften an (सप्तम्या)
+:::
+सञ्ज् 1P ***सज***ति : anhängen, sich heften an (सप्तम्या)
 
-> Perf. I ससञ्ज, ससञ्जुर्  
-> Fut. संक्ष्यति  
-> Pass. सज्यते  
-> Kaus. सञ्जयति  
-> PPP सक्त  
-> Inf. संक्तुम्
-> 
-> davon:
-> 
-> सङ्ग m.: das Anhängen an, Berührung mit (तृतीयया)
+::: indent
+Perf. I ससञ्ज, ससञ्जुर्  
+Fut. संक्ष्यति  
+Pass. सज्यते  
+Kaus. सञ्जयति  
+PPP सक्त  
+Inf. संक्तुम्
+davon:
+सङ्ग m.: das Anhängen an, Berührung mit (तृतीयया)
 
+:::
 ::: media
 ![](/images/lekt4610.jpg)
-Abb.: सङ्गः
+Abb.: [सङ्गः](/licenses#lekt4610)
 (Bildquelle: [Details](/licenses#lekt4610))
 :::
+
 द्रु 1P द्रवति : laufen, eilen
 
-> Perf IIIa (अनिट्) दुद्राव, दुद्रुवुर्  
-> Fut. द्रोष्यति  
-> Pass. द्रूयते  
-> Kaus. द्रावयति  
-> PPP द्रुत  
-> Inf. द्रोतुम्  
-> Absol. -द्रुत्य
+::: indent
+Perf IIIa (अनिट्) दुद्राव, दुद्रुवुर्  
+Fut. द्रोष्यति  
+Pass. द्रूयते  
+Kaus. द्रावयति  
+PPP द्रुत  
+Inf. द्रोतुम्  
+Absol. -द्रुत्य
 
-भ्रम् 1P भ्रमति । 4P भ्राम्यति : umherirren, umherstreifen
+:::
+भ्रम् 1P भ्रमति । 4P ***भ्रा***म्यति : umherirren, umherstreifen
 
-> Perf. Vc बभ्राम, बभ्रमुर् । Vb भ्रेमुर्  
-> Fut. भ्रमिष्यति  
-> Kaus. भ्रमयति  
-> PPP भ्रान्त  
-> Inf. भ्रमितुम्  
-> Absol. -भ्रम्य
-> 
-> davon:
-> 
-> विभ्रम m.: Umherirren, Verwirrung, Irrtum
+::: indent
+Perf. Vc बभ्राम, बभ्रमुर् । Vb भ्रेमुर्  
+Fut. भ्रमिष्यति  
+Kaus. भ्रमयति  
+PPP ***भ्रा***न्त  
+Inf. भ्रमितुम्  
+Absol. -भ्रम्य
+davon:
+विभ्रम m.: Umherirren, Verwirrung, Irrtum
 
+:::
 लम्ब् 1Ā लम्बते : herabhängen von (सप्तम्या), hängen an (सप्तम्या)
 
-> Perf. I ललम्बे  
-> Fut. लम्बिष्यते  
-> Pass. लम्ब्यते  
-> Kaus. लम्बयति  
-> PPP लम्बित  
-> Inf. लम्बितुम्  
-> Absol. -लम्ब्य
+::: indent
+Perf. I ललम्बे  
+Fut. लम्बिष्यते  
+Pass. लम्ब्यते  
+Kaus. लम्बयति  
+PPP लम्बित  
+Inf. लम्बितुम्  
+Absol. -लम्ब्य
 
+:::
 ::: media
 ![](/images/lekt4601.jpg)
-Abb.: लम्बोदरः
+Abb.: [लम्बोदर नमस्तुभ्यम्](/licenses#lekt4601)
 (Bildquelle: [Details](/licenses#lekt4601))
 :::
 
@@ -3787,24 +3758,28 @@ Abb.: लम्बोदरः
 
 भू + परि 1P परिभवति : einkreisen, bemeistern, besiegen
 
-> PPP परिभूत 3: besiegt, gedemütigt, erniedrigt
+::: indent
+PPP परिभूत 3: besiegt, gedemütigt, erniedrigt
 
+:::
 नि Präverb: niederwärts, hinunter, hinein, rückwärts
 
-> z.B.
-> 
-> सद् + नि 1P निषीदति : sich niedersetzen
+::: indent
+z.B.
+सद् + नि 1P नि***षी***दति : sich niedersetzen
 
-भोस् Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er भो.
+:::
+भोस् Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er ***भो***.
 
 ::: media
 ![](/images/lekt4611.jpg)
-Abb.: भोः
+Abb.: [भोः](/licenses#lekt4611)
 (Bildquelle: [Details](/licenses#lekt4611))
 :::
 
-
 ## Lektion 48
+
+
 
 श्वस् : morgen
 
@@ -3830,20 +3805,20 @@ Abb.: तन्त्री
 
 स्त्री f.: Frau, Gattin ; Femininum
 
-> Deklination:
-> 
-> |   | एकवचनम | बहुवचनम् |
-> | --- | --- | --- |
-> | प्रथमा | स्त्री | स्त्रियस् |
-> | द्वितीया | स्त्रियम्   | |
-> स्त्रीयम् | स्त्रियस्   | | |
-> स्त्रीस् | | | |
-> | तृतीया | स्त्रिया | स्त्रीभिस् |
-> | चतुर्थी | स्त्रियै | स्त्रीभ्यस् |
-> | पञ्चमी | स्त्रियास् | स्त्रीभ्यस् |
-> | षष्ठी | स्त्रियास् | स्त्रीणाम् |
-> | सप्तमी | स्त्रियाम् | स्त्रीषु |
-> | आमन्त्रितम् | स्त्रि | स्त्रियस् |
+Deklination:
+
+::: grammar-box
+| **स्त्री f.** | **एकवचनम्** | **बहुवचनम्** |
+| :---: | :---: | :---: |
+| **प्रथमा** | स्त्री | स्त्रियस् |
+| **द्वितीया** | स्त्रियम्[[br]]स्त्रीयम् | स्त्रियस्[[br]]स्त्रीस् |
+| **तृतीया** | स्त्रिया | स्त्रीभिस् |
+| **चतुर्थी** | स्त्रियै | स्त्रीभ्यस् |
+| **पञ्चमी** | स्त्रियास् | स्त्रीभ्यस् |
+| **षष्ठी** | स्त्रियास् | स्त्रीणाम् |
+| **सप्तमी** | स्त्रियाम् | स्त्रीषु |
+| **आमन्त्रितम्** | स्त्रि | स्त्रियस् |
+:::
 
 ::: media
 ![](/images/lekt4804.jpg)
@@ -3855,7 +3830,7 @@ Abb.: स्वतन्त्राः स्त्रियः
 
 सज्ज् 1P सज्जति : hängen, anhaften
 
-कुमार m.: Kind, Jüngling, Prinz; Beiname des कार्तिकेय / Murugan \= முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
+कुमार m.: Kind, Jüngling, Prinz; Beiname des कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್มಣ್ಯ
 
 ::: media
 ![](/images/lekt4805.jpg)
@@ -3882,6 +3857,7 @@ Abb.: कुमारी
 Abb.: स्थविराः
 (Bildquelle: [Details](/licenses#lekt4807))
 :::
+
 स्थाविर n.: (hohes) Alter
 
 वाच्य 3: auch: tadelnswert
@@ -3894,7 +3870,7 @@ Abb.: सूक्ष्मम्
 (Bildquelle: [Details](/licenses#lekt4808))
 :::
 
-प्रसङ्ग m.:  Anhaftung, Neigung ; Gelegenheit
+प्रसङ्ग m.: Anhaftung, Neigung ; Gelegenheit
 
 विशेष m.: Unterschied, Besonderheit
 
@@ -3906,12 +3882,13 @@ Abb.: सूक्ष्मम्
 
 ::: media
 ![](/images/lekt4809.jpg)
-Abb.: जाया
+Abb.: मम जाया
 (Bildquelle: [Details](/licenses#lekt4809))
 :::
 
-
 ## Lektion 49
+
+
 
 दीर्घ 3: lange
 
@@ -3919,42 +3896,52 @@ Abb.: जाया
 
 आयुस् n.: Lebenszeit (die volle Lebenszeit, die man leben kann, wenn nichts dazwischen kommt) ;
 
-> davon:
-> 
-> आयुर्वेद m.: das traditionelle medizinische System Indiens
-> 
-> siehe:
-> 
-> &gt; &gt; Carakasaṃhitā: Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer &lt;1944 - &gt;. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+:::: indent
+davon:
+
+आयुर्वेद m.: das traditionelle medizinische System Indiens
+
+siehe:
+
+::: indent
+**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer &lt;1944 - &gt;. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+:::
+::::
 
 क्षिप् 6P क्षिपति : werfen, schleudern
 
-> Perf. II चिक्षेप, चिक्षेपिथ, चिक्षिपुर्  
-> Fut. क्षेप्स्यति  
-> Pass. क्षिप्यते  
-> Kaus. क्षेपयति  
-> PPP क्षिप्त  
-> Inf. क्षेप्तुम्  
-> Absol. -क्षिप्य  
-> Gerundiv: क्षेप्य
+::: indent
+Perf. II चिक्षेप, चिक्षेपिथ, चिक्षिपुर्
+Fut. क्षेप्स्यति
+Pass. क्षिप्यते
+Kaus. क्षेपयति
+PPP क्षिप्त
+Inf. क्षेप्तुम्
+Absol. -क्षिप्य
+Gerundiv: क्षेप्य
+:::
 
 त्वर् 1Ā त्वरते : eilen
 
-> Perf. Vc तत्वरे  
-> Fut. त्वरिष्यते  
-> Pass. त्वर्यते  
-> Kaus. त्वरयति  
-> PPP त्वरित । तू्र्ण  
-> Inf. त्वरितुम्
+::: indent
+Perf. Vc तत्वरे
+Fut. त्वरिष्यते
+Pass. त्वर्यते
+Kaus. त्वरयति
+PPP त्वरित । ***तू्र्***ण
+Inf. त्वरितुम्
+:::
 
 द्रुह् 4P द्रुह्यति : schädigen
 
-> Perf. II दुद्रोह, दुद्रुहुर्  
-> Fut. द्रोहिष्यति । ध्रोक्ष्यति  
-> Pass. द्रुह्यते  
-> Kaus. द्रोहयति  
-> PPP द्रुग्ध । द्रूढ  
-> Inf. द्रोग्धुम्
+::: indent
+Perf. II दुद्रोह, दुद्रुहुर्
+Fut. द्रोहिष्यति । ध्रोक्ष्यति
+Pass. द्रुह्यते
+Kaus. द्रोहयति
+PPP द्रुग्ध । द्रूढ
+Inf. द्रोग्धुम्
+:::
 
 कुलूहल n.: Neugier, Interesse
 
@@ -3963,7 +3950,6 @@ Abb.: जाया
 Abb.: कुलूहलम्
 (Bildquelle: [Details](/licenses#lekt4901))
 :::
-
 कृत्स्न 3: ganz, vollständig
 
 परिचय m.: Bekanntschaft
@@ -3972,10 +3958,9 @@ Abb.: कुलूहलम्
 
 ::: media
 ![](/images/lekt4902.jpg)
-Abb.: कला
+Abb.: उत्तमा काला
 (Bildquelle: [Details](/licenses#lekt4902))
 :::
-
 वर m.n.: Wunsch
 
 उत Indekl.: und, auch, oder
@@ -3987,7 +3972,6 @@ Abb.: कला
 Abb.: विहंगः
 (Bildquelle: [Details](/licenses#lekt4903))
 :::
-
 वेष m.: Kleid, Aussehen, Äußeres
 
 ::: media
@@ -3995,7 +3979,6 @@ Abb.: विहंगः
 Abb.: वेषः
 (Bildquelle: [Details](/licenses#lekt4904))
 :::
-
 छन्न n.: Decke, Versteck
 
 पञ्जर n.: Käfig
@@ -4005,7 +3988,6 @@ Abb.: वेषः
 Abb.: पञ्जरम्
 (Bildquelle: [Details](/licenses#lekt4909))
 :::
-
 चाण्डाल । चण्डाल m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
 स्वयम् Indekl.: selbst, von selbst
@@ -4016,13 +3998,15 @@ Abb.: पञ्जरम्
 
 ध्यै 1P ध्यायति : sich vorstellen, denken
 
-> Perf. IV दध्यौ  
-> Fut. ध्यास्यति  
-> Pass. ध्यायते  
-> Kaus. ध्यापयति  
-> PPP ध्यात  
-> Inf. ध्यातुम्  
-> Gerundiv ध्येय
+::: indent
+Perf. IV दध्यौ
+Fut. ध्यास्यति
+Pass. ध्यायते
+Kaus. ध्यापयति
+PPP ध्यात
+Inf. ध्यातुम्
+Gerundiv ध्येय
+:::
 
 आदर m.: Rücksicht, Beachtung, Respekt
 
@@ -4031,7 +4015,6 @@ Abb.: पञ्जरम्
 Abb.: सादरः
 (Bildquelle: [Details](/licenses#lekt4905))
 :::
-
 कुतुक n. = कुलूहल n.
 
 परम 3: fernster, höchster ; पञ्चम्या : besser als, höher als
@@ -4044,8 +4027,9 @@ Abb.: गजशिशुः
 (Bildquelle: [Details](/licenses#lekt4906))
 :::
 
-
 ## Lektion 50
+
+
 
 ध्रुव 3: fest, unveränderlich
 
@@ -4066,41 +4050,46 @@ Abb.: मन्त्री
 
 रिष् 1P रिषति 4P रिष्यति : geschädigt werden, misslingen, beschädigen
 
-> Perf. II रिरेष, रिरिषुर्  
-> Fut. रेषिष्यति  
-> Pass. रिष्यते  
-> Kaus. रेषयति  
-> PPP रिष्ट
+::: indent
+Perf. II रिरेष, रिरिषुर्
+Fut. रेषिष्यति
+Pass. रिष्यते
+Kaus. रेषयति
+PPP रिष्ट
+:::
 
-लुप् 6U लुम्पति : brechen, zerstören
+**लुप् 6U *लुम्प*ति** : brechen, zerstören
 
-> Perf.  II लुलोप, लुलुपे  
-> Fut. लोप्स्यति  
-> Pass. लुप्यते  
-> Kaus. लोपयति  
-> PPP लुप्त  
-> Inf. लोप्तुम्  
-> Gerundiv लुप्य । लोप्य
+::: indent
+Perf.  II लुलोप, लुलुपे
+Fut. लोप्स्यति
+Pass. लुप्यते
+Kaus. लोपयति
+PPP लुप्त
+Inf. लोप्तुम्
+Gerundiv लुप्य । लोप्य
+:::
 
 विधि m.: auch: Schicksal (zu विधा)
 
 वृष् 1P वर्षति : regnen (meist mit einem कर्तृ -- einem Gott oder einer Wolke)
 
-> Perf. II ववर्ष, ववृषुर्  
-> Fut. वर्षिष्यति  
-> Pass. वृष्यते  
-> Kaus. वर्षयति  
-> PPP वृष्ट  
-> Inf. वर्षितुम्  
-> Absol. वर्षित्वा । वृष्ट्वा  
-> Absol.-वृष्य
+::: indent
+Perf. II ववर्ष, ववृषुर्
+Fut. वर्षिष्यति
+Pass. वृष्यते
+Kaus. वर्षयति
+PPP वृष्ट
+Inf. वर्षितुम्
+Absol. वर्षित्वा । वृष्ट्वा
+Absol.-वृष्य
+:::
 
 ::: media
 ![](/images/lekt5002.jpg)
 Abb.: महामेघो वर्षिष्यति
 (Bildquelle: [Details](/licenses#lekt5002))
 :::
-
 संयक् Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
 
 आदित्य m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse
@@ -4110,37 +4099,22 @@ Abb.: महामेघो वर्षिष्यति
 Abb.: आदित्यः
 (Bildquelle: [Details](/licenses#lekt5005))
 :::
-
 सर्व 3: jeder, alle
 
 Deklination wie यद् (Ausnahme: Nom.Akk.sg.Neutrum)
 
-|   | Singular   | | | | |
-एकवचनम् | Plural   | | | | | |
-बहुवचनम् | | | | | | |
-| --- | --- | --- | --- | --- | --- |
-| Maskulinum   | | | | | |
-पुंस् | Neutrum   | | | | | |
-नपुंसकम् | Femininum   | | | | | |
-स्त्री | Maskulinum   | | | | | |
-पुंस् | Neutrum   | | | | | |
-नपुंसकम् | Femininum   | | | | | |
-स्त्री | | | | | | |
-| सर्वस् | सर्वम् | सर्वा | सर्वे | सर्वाणि | सर्वास् |
-| 1\. Nominativ   | | | | | |
-१. प्रथमा | | | | | | |
-| 2\. Akkusativ   | | | | | |
-२. द्वितीया | सर्वम् | सर्वम् | सर्वाम् | सर्वान् | सर्वाणि | सर्वास् |
-| 3\. Instrumentalis   | | | | | |
-३. तृतीया | सर्वेण | सर्वया | सर्वैस् | सर्वाभिस् | | |
-| 4\. Dativ   | | | | | |
-४. चतुर्थी | सर्वस्मै | सर्वस्यै | सर्वेभ्यस् | सर्वाभ्यस् | | |
-| 5\. Ablativ   | | | | | |
-५. पञ्चमी | सर्वस्मात् | सर्वस्यास् | सर्वेभ्यस् | सर्वाभ्यस् | | |
-| 6\. Genetiv   | | | | | |
-६. षष्ठी | सर्वस्य | सर्वस्यास् | सर्वेषाम् | सर्वासाम् | | |
-| 7\. Lokativ   | | | | | |
-७. सप्तमी | सर्वस्मिन् | सर्वस्याम् | सर्वेषु | सर्वासु | | |
+::: grammar-box
+| | Singular[[br]]एकवचनम् || || Plural[[br]]बहुवचनम् || ||
+| | **Maskulinum[[br]]पुंस्** | **Neutrum[[br]]नपुंसकम्** | **Femininum[[br]]स्त्री** | **Maskulinum[[br]]पुंस्** | **Neutrum[[br]]नपुंसकम्** | **Femininum[[br]]स्त्री** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1. Nominativ[[br]]१. प्रथमा** | सर्वस् | ***सर्वम्*** | सर्वा | सर्वे | सर्वाणि | सर्वास् |
+| **2. Akkusativ[[br]]२. द्वितीया** | सर्वम् | ***सर्वम्*** | सर्वाम् | सर्वान् | सर्वाणि | सर्वास् |
+| **3. Instrumentalis[[br]]३. तृतीया** | सर्वेण || सर्वया | सर्वैस् || सर्वाभिस् |
+| **4. Dativ[[br]]४. चतुर्थी** | सर्वस्मै || सर्वस्यै | सर्वेभ्यस् || सर्वाभ्यस् |
+| **5. Ablativ[[br]]५. पञ्चमी** | सर्वस्मात् || सर्वस्यास् | सर्वेभ्यस् || सर्वाभ्यस् |
+| **6. Genetiv[[br]]६. षष्ठी** | सर्वस्य || सर्वस्यास् | सर्वेषाम् || सर्वासाम् |
+| **7. Lokativ[[br]]७. सप्तमी** | सर्वस्मिन् || सर्वस्याम् | सर्वेषु || सर्वासु |
+:::
 
 वै : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
 
@@ -4155,7 +4129,6 @@ Deklination wie यद् (Ausnahme: Nom.Akk.sg.Neutrum)
 Abb.: कल्याणी
 (Bildquelle: [Details](/licenses#lekt5003))
 :::
-
 कु- : als Vorderglied von Komposita: schlecht
 
 ::: media
@@ -4163,18 +4136,20 @@ Abb.: कल्याणी
 Abb.: कुनगरम्
 (Bildquelle: [Details](/licenses#lekt5004))
 :::
-
 चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : sehen
 
-> Perf. चचक्षे  
-> in den übrigen Tempora nicht verwendet
+::: indent
+Perf. चचक्षे
+in den übrigen Tempora nicht verwendet
+:::
 
 चक्ष् + प्र 2Ā प्रचष्टे : erzählen, halten für, nennen
 
 देश m.: Ort, Platz, Land, Gegend
 
-
 ## Lektion 51
+
+
 
 अजिन n.: Antilopenfell, bes. das Fell der schwarzen Antilope (Hirschziegenantilope : _Antilope cervicapra_ L. ). Kam ursprünglich auf dem ganzen indischen Subkontinent vor von Punjab und Sind bis Bengalen und von Nepal bis Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Siehe:
 
@@ -4182,10 +4157,9 @@ Abb.: कुनगरम्
 
 ::: media
 ![](/images/lekt5105.jpg)
-Abb.: कृष्णमृगः
+Abb.:
 (Bildquelle: [Details](/licenses#lekt5105))
 :::
-
 अतिथि m.: Gast
 
 अभ्यन्तर 3: im Inneren befindlich, nächster ; m. der nächste Angehörige, Eingeborener
@@ -4194,9 +4168,11 @@ Abb.: कृष्णमृगः
 
 ऋतु m.: periodischer Vorgang, Jahreszeit, Zeitabschnitt, Menstruation, Zeit, in der die Frau empfängnisbereit ist und ein Anrecht auf Beischlaf ihres Gatten hat.
 
-> Zu ऋतु siehe Manu III, 45-48: danach dauert ऋतु 16 Tage (nach der alternativen Übersetzung: 20 Tage) ab Beginn der Monatsblutung, an den ersten vier Tagen nach Beginn der Blutung ist Geschlechtsverkehr verboten (Nach der alternativen Übersetzung: an den ersten acht (4 + 4) Tagen), ebenso am 11. (bzw. 15.) und 13. (bzw. 18.) Tag. An geraden Tagen empfängt die Frau Söhne, an ungeraden Töchter. Für das Folgende wird ein ऋतु von insgesamt 16 Tagen (nicht die Alternativübersetzung) angenommen, wie es auch die meisten einheimischen Kommentare tun, und was also die vorherrschende Auffassung gewesen ist.
-> 
-> Da der Eisprung 14 Tage vor dem Beginn der Monatsblutung liegt, ist bei dieser Bestimmung der fruchtbaren Periode Fruchtbarkeit beinahe "garantiert" für einen Abstand der Monatsblutungen von 19 bis 30 Tagen. Die verbotenen Tage (11. und 13.) verbessern die Wahrscheinlichkeit für Geschlechtsverkehr am 12. und 14. Tag, d.h. die Empfängniswahrscheinlichkeit bei einem Zyklus von 28. Tagen (die Lebensdauer der Spermien in der Frau beträgt ca. 3 Tage). Diese Bestimmungen sind als sozusagen positiver Einsatz von Knaus-Ogino.
+::: indent
+Zu ऋतु siehe Manu III, 45-48: danach dauert ऋतु 16 Tage (nach der alternativen Übersetzung: 20 Tage) ab Beginn der Monatsblutung, an den ersten vier Tagen nach Beginn der Blutung ist Geschlechtsverkehr verboten (Nach der alternativen Übersetzung: an den ersten acht (4 + 4) Tagen), ebenso am 11. (bzw. 15.) und 13. (bzw. 18.) Tag. An geraden Tagen empfängt die Frau Söhne, an ungeraden Töchter. Für das Folgende wird ein ऋतु von insgesamt 16 Tagen (nicht die Alternativübersetzung) angenommen, wie es auch die meisten einheimischen Kommentare tun, und was also die vorherrschende Auffassung gewesen ist.
+
+Da der Eisprung 14 Tage vor dem Beginn der Monatsblutung liegt, ist bei dieser Bestimmung der fruchtbaren Periode Fruchtbarkeit beinahe "garantiert" für einen Abstand der Monatsblutungen von 19 bis 30 Tagen. Die verbotenen Tage (11. und 13.) verbessern die Wahrscheinlichkeit für Geschlechtsverkehr am 12. und 14. Tag, d.h. die Empfängniswahrscheinlichkeit bei einem Zyklus von 28. Tagen (die Lebensdauer der Spermien in der Frau beträgt ca. 3 Tage). Diese Bestimmungen sind als sozusagen positiver Einsatz von Knaus-Ogino.
+:::
 
 ::: media
 ![](/images/lekt5106.jpg)
@@ -4213,7 +4189,6 @@ Abb.: ऋतुः
 Abb.: जटा
 (Bildquelle: [Details](/licenses#lekt5107))
 :::
-
 तुल्य 3: gleich, vergleichbar (तृतीयया)
 
 तरय 3 (f.: तरयी): dreifältig, aus drei Teilen bestehend
@@ -4228,38 +4203,46 @@ Abb.: जटा
 
 शिष् 7P शिनष्टि : verlassen, übriglassen
 
-> Perf.II शिशेषे, शिशिषुर्  
-> Fut. शेक्ष्यति  
-> Pass. शिष्यते  
-> Kaus. शेषयति  
-> PPPशिष्ट  
-> Absol. -शिष्य
+::: indent
+Perf.II शिशेषे, शिशिषुर्
+Fut. शेक्ष्यति
+Pass. शिष्यते
+Kaus. शेषयति
+PPPशिष्ट
+Absol. -शिष्य
+:::
 
 शिष् + वि 7P विशिनष्टि : unterscheiden
 
-> Pass. विशिष्यते : sich unterscheiden von (पञ्चम्या, तृतीयया), besser sein als (पञ्चम्या, तृतीयया), der beste sein unter (षष्ठ्या, सप्तम्या)
+::: indent
+Pass. विशिष्यते : sich unterscheiden von (पञ्चम्या, तृतीयया), besser sein als (पञ्चम्या, तृतीयया), der beste sein unter (षष्ठ्या, सप्तम्या)
+:::
 
 समान 3: gleichartig, gleich, ähnlich ; m.: Altersgenosse
 
 स्व 3: eigen, sein (mein, dein etc.) Wird wie सर्व dekliniert. Im Abl.Lok.sg.m.n und im Nom.pl.m kann es auch wie देव dekliniert werden:
 
-> Abl.sg.m.n स्वस्मात् । स्वात्  
-> Lok.sg.m.n. स्वस्मिन् । स्वे  
-> Nom.pl.m स्वे । स्वास्
+::: indent
+Abl.sg.m.n स्वस्मात् । ***स्वात्***
+Lok.sg.m.n. स्वस्मिन् । ***स्***वे
+Nom.pl.m स्वे । ***स्वास्***
+:::
 
 गर्ह् 1Ā गर्हते 10P गर्हयति : schelten, tadeln
 
-> Perf I जगर्हे  
-> Fut. गर्हिष्यते  
-> PPP गर्हित
+::: indent
+Perf I जगर्हे
+Fut. गर्हिष्यते
+PPP गर्हित
+:::
 
 पिशित n.: (zubereitetes) Fleisch
 
-![](/images/lekt5108.jpg)  
-Abb.: पिशितम्  
-Kolkata = কলকাতা   
-\[Bildquelle: nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
-
+::: media
+![](/images/lekt5108.jpg)
+Abb.: पिशितम्
+(Bildquelle: [Details](/licenses#lekt5108))
+:::
 उपहार m.: Darbringung, Opfer, Geschenk
 
 मधु n.: Honig, Süßtrank, Met (Honigwein)
@@ -4269,7 +4252,6 @@ Kolkata = কলকাতা 
 Abb.: मधु
 (Bildquelle: [Details](/licenses#lekt5109))
 :::
-
 मांस n.: Fleisch
 
 मृगया f.: Jagd
@@ -4279,7 +4261,6 @@ Abb.: मधु
 Abb.: मृगया
 (Bildquelle: [Details](/licenses#lekt5110))
 :::
-
 शिवा f.: (weibl.) Schakal (Goldschakal = _Canis aureus_)
 
 ::: media
@@ -4296,21 +4277,21 @@ Abb.: शिवा
 Abb.: कौशिकः
 (Bildquelle: [Details](/licenses#lekt5112))
 :::
-
 शकुनि m.: Vogel
 
 श्वन् m.: Hund
 
-> starker Stamm श्वान्  
-> schwacher Stamm vor Vokal सुन्  
-> schwacher Stamm vor Konsonant श्व
+::: indent
+starker Stamm श्वान्
+schwacher Stamm vor Vokal सुन्
+schwacher Stamm vor Konsonant श्व
+:::
 
 ::: media
 ![](/images/lekt5113.jpg)
-Abb.: श्वा लिङ्गश्च
+Abb.: श्वा लिङ्गं च
 (Bildquelle: [Details](/licenses#lekt5113))
 :::
-
 परिचित 3: vertraut, bekannt
 
 अटवी f.: Wald
@@ -4324,16 +4305,17 @@ Abb.: श्वा लिङ्गश्च
 Abb.: आपानकम्
 (Bildquelle: [Details](/licenses#lekt5114))
 :::
-
 क्रूर 3: roh, grausam
 
 दिह् 2U देग्धि, दिग्धे : bestreichen, beschmieren
 
-> Perf. II दिदेह  
-> Fut. धेक्ष्यति  
-> Pass. दिह्यते  
-> Kaus. देहयति  
-> PPP दिग्ध
+::: indent
+Perf. II दिदेह
+Fut. धेक्ष्यति
+Pass. दिह्यते
+Kaus. देहयति
+PPP दिग्ध
+:::
 
 विष n.: Gift
 
@@ -4342,20 +4324,18 @@ Abb.: आपानकम्
 Abb.: मूषिकाविषाणि
 (Bildquelle: [Details](/licenses#lekt5115))
 :::
-
 भुजंग m.: Schlange
 
 ::: media
 ![](/images/lekt5116.jpg)
-Abb.: भुजङ्गः
+Abb.: भुजंगः
 (Bildquelle: [Details](/licenses#lekt5116))
 :::
-
 सायक m.: Pfeil
 
 उत्साद m.: Zugrundegehen
 
-कलत्र Neutrum: Ehefrau, Weibchen
+कलत्र ***Neutrum***: Ehefrau, Weibchen
 
 बन्दी f.: Gefangene, Raub
 
@@ -4376,7 +4356,6 @@ Abb.: भुजङ्गः
 Abb.: मणिः
 (Bildquelle: [Details](/licenses#lekt5118))
 :::
-
 वन n.: Wald
 
 मद m.: auch "Brunstsaft" eines Elefanten (im [Musht](http://en.wikipedia.org/wiki/Musth))
@@ -4386,71 +4365,68 @@ Abb.: मणिः
 Abb.: मदः
 (Bildquelle: [Details](/licenses#lekt5117))
 :::
-
 राग m.: auch: Farbe, rote Farbe
 
 कालन n.: Wald
 
 खन् 1U खनति : graben
 
-> Perf. चखान, चखने  
-> Fut. खनिष्यति  
-> Kaus. खानयति  
-> PPP खात  
-> Absol खनित्वा । खात्वा
+::: indent
+Perf. चखान, चखने
+Fut. खनिष्यति
+Kaus. खानयति
+PPP खात
+Absol खनित्वा । खात्वा
+:::
 
 चिन्त् 10 चिन्तयति : denken, nachdenken
 
 शबर .:  Eigenname eines nichtarischen Stammes
 
-
 ## Lektion 52
+
+
+
+
 
 अखिल 3: lückenlos, ganz
 
 निखिल 3: vollständig, ganz
 
-> von:
-> 
-> खिल m.: Brachfeld, Ödland
+::: indent
+von:
+
+खिल m.: Brachfeld, Ödland
+:::
 
 ::: media
 ![](/images/lekt5210.jpg)
 Abb.: खिलः
 (Bildquelle: [Details](/licenses#lekt5210))
 :::
-
 अन्तर् Adv.: innen, im Innern ; Postposition mit Gen. Lok. (षष्टी, सप्तमी): innerhalb, inmitten ; Postposition mit Gen. Abl. (षष्ठी, पञ्चमी): aus ... heraus
 
 अन्योन्य 3: gegenseitig, einander
 
 इ + वि + परि 2P विपर्येति : fehlschlagen
 
-> PPP विपरीत 3: verkehrt, falsch
+::: indent
+PPP विपरीत 3: verkehrt, falsch
+:::
 
 त्रि 3: drei
 
-> |   | | |
-> | --- | | |
-> | Maskulinum   | | |
-> पुंस् | Neutrum   | | |
-> नपुंसकम् | Femininum   | | |
-> स्त्री | | | |
-> | त्रयस् | त्रीणि | तिस्रस् |
-> | 1\. Nominativ   | | |
-> १. प्रथमा | | | |
-> | 2\. Akkusativ   | | |
-> २. द्वितीया | त्रीन् | त्रीणि | तिस्रस् |
-> | 3\. Instrumentalis   | | |
-> ३. तृतीया | त्रिभिस् | तिसृभिस् | |
-> | 4\. Dativ   | | |
-> ४. चतुर्थी | त्रिभ्यस् | तिसृभ्यस् | |
-> | 5\. Ablativ   | | |
-> ५. पञ्चमी | त्रिभ्यस् | तिसृभ्यस् | |
-> | 6\. Genetiv   | | |
-> ६. षष्ठी | त्रयाणाम् | तिसृणाम् | |
-> | 7\. Lokativ   | | |
-> ७. सप्तमी | त्रिषु | तिसृषु | |
+::: grammar-box
+| | **Maskulinum[[br]]पुंस्** | **Neutrum[[br]]नपुंसकम्** | **Femininum[[br]]स्त्री** |
+| :--- | :---: | :---: | :---: |
+| **1. Nominativ[[br]]१. प्रथमा** | त्रयस् | त्रीणि | तिस्रस् |
+| **2. Akkusativ[[br]]२. द्वितीया** | त्रीन् | त्रीणि | तिस्रस् |
+| **3. Instrumentalis[[br]]३. तृतीया** | त्रिभिस् || तिसृभिस् |
+| **4. Dativ[[br]]४. चतुर्थी** | त्रिभ्यस् || तिसृभ्यस् |
+| **5. Ablativ[[br]]५. पञ्चमी** | त्रिभ्यस् || तिसृभ्यस् |
+| **6. Genetiv[[br]]६. षष्ठी** | त्रयाणाम् || तिसृणाम् |
+| **7. Lokativ[[br]]७. सप्तमी** | त्रिषु || तिसृषु |
+:::
 
 निस् Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von
 
@@ -4461,12 +4437,13 @@ Abb.: खिलः
 Abb.: पीडिताः
 (Bildquelle: [Details](/licenses#lekt5212))
 :::
-
 पर 3: (Deklination wie सर्व) fernstehend, fremd, höher als (पञ्चम्या), äußerster, höchster ; anderer, fremder, feindlich ; m.: Fremder
 
-> davon:
-> 
-> परम् Adv.: in hohem Grade, darauf, später, aber, jedoch
+::: indent
+davon:
+
+परम् Adv.: in hohem Grade, darauf, später, aber, jedoch
+:::
 
 प्रति Postposition (द्वितीयया): zu - hin, nach, in Bezug auf, gegenüber
 
@@ -4477,45 +4454,52 @@ Abb.: पीडिताः
 Abb.: प्रधानः
 (Bildquelle: [Details](/licenses#lekt5213))
 :::
-
 लौल्य n.: Gier, Lüsternheit
 
 वर्ग m.: Abschnitt, Abteilung, Schar
 
-> त्रिवर्ग m.: Dreiergruppe (z.B. धर्मः, अर्थः, कामः ; oder: सत्त्वम्, रजस्, तमस् ; oder: ब्राह्मणाः, क्षत्रियाः, वैश्याः)
+::: indent
+त्रिवर्ग m.: Dreiergruppe (z.B. धर्मः, अर्थः, कामः ; oder: सत्त्वम्, रजस्, तमस् ; oder: ब्राह्मणाः, क्षत्रियाः, वैश्याः)
+:::
 
-वश् 2P वस्टि, उशन्ति, Imperat. 2.sg.: उड्ढि : wollen, gebieten, verlangen nach
+वश् 2P वस्टि, ***उशन्ति,*** Imperat. 2.sg.: ***उड्ढि*** : wollen, gebieten, verlangen nach
 
-> Perf Va उवाश, ऊशुर्  
-> Fut. वशिष्यति  
-> Pass. उष्यते  
-> Kaus. वाशयति  
-> PPP उशित  
-> Inf. वशितुम्  
-> Absol. -वश्य
+::: indent
+Perf Va उवाश, ऊशुर्
+Fut. वशिष्यति
+Pass. उष्यते
+Kaus. वाशयति
+PPP उशित
+Inf. वशितुम्
+Absol. -वश्य
+:::
 
 वा 2P वाति : wehen, blasen
 
-> Perf IV ववौ  
-> Fut. वास्यति  
-> Pass. वायते  
-> Kaus. वापयति  
-> PPP वान । वात  
-> Inf. वातुम्
-> 
-> davon:
-> 
-> वात m.: Wind
+::: indent
+Perf IV ववौ
+Fut. वास्यति
+Pass. वायते
+Kaus. वापयति
+PPP वान । वात
+Inf. वातुम्
+
+davon:
+
+वात m.: Wind
+:::
 
 वृज् 7P वृणक्ति 1P वर्जति : wenden, drehen ; abwehren, ausschließen
 
-> Perf. II ववर्ज, ववृजुर्  
-> Fut. वर्जिष्यति  
-> Pass. वृज्यते  
-> Kaus. वर्जयति : beseitigen  
-> Kaus. PPP वर्जित : einer Sache verlustig, frei von  
-> PPP वृक्त  
-> Inf. वर्जितुम्
+::: indent
+Perf. II ववर्ज, ववृजुर्
+Fut. वर्जिष्यति
+Pass. वृज्यते
+Kaus. वर्जयति : beseitigen
+Kaus. PPP वर्जित : einer Sache verlustig, frei von
+PPP वृक्त
+Inf. वर्जितुम्
+:::
 
 व्यवहार m.: Treiben, Wandel, Umgang, Verkehr, Geschäft, Handel, (Gerichts-)Prozess
 
@@ -4525,28 +4509,32 @@ Abb.: प्रधानः
 
 सेव् 1Ā सेवते : jemandem (द्वितीया) dienen, aufwarten, ehren, lieben
 
-> Perf I सिषेवे  
-> Fut. सेविष्यते  
-> Pass. सेव्यते  
-> Kaus. सेवयति  
-> PPP सेवित  
-> Inf. सेवितुम्  
-> Absol. -सेव्य
-> 
-> davon:
-> 
-> सेवा f.: Dienst, Aufwartung
+::: indent
+Perf I सिषेवे
+Fut. सेविष्यते
+Pass. सेव्यते
+Kaus. सेवयति
+PPP सेवित
+Inf. सेवितुम्
+Absol. -सेव्य
+
+davon:
+
+सेवा f.: Dienst, Aufwartung
+:::
 
 धीर 3: fest, standhaft, kontinuierlich, beharrlich
 
 शम् शाम्यति
 
-> शशाम, शेमुर्  
-> शमिष्यति  
-> शम्यते  
-> शमयति  
-> शान्त  
-> शमित्वा । शान्त्वा
+::: indent
+शशाम, शेमुर्
+शमिष्यति
+शम्यते
+शमयति
+शान्त
+शमित्वा । शान्त्वा
+:::
 
 कोविद 3: erfahren in (षष्ठ्या सप्तम्या वा)
 
@@ -4558,11 +4546,13 @@ Abb.: प्रधानः
 
 च्यु 1Ā च्यवते : sich rühren, sich fortbewegen, herabfallen
 
-> Perf. IIIa चुच्युवे  
-> Fut. च्योष्यते  
-> Pass. च्यूयते  
-> Kaus. च्यावयति  
-> PPP च्युत
+::: indent
+Perf. IIIa चुच्युवे
+Fut. च्योष्यते
+Pass. च्यूयते
+Kaus. च्यावयति
+PPP च्युत
+:::
 
 भू + अनु 1P अनुभवति : erkennen, empfinden, wahrnehmen, erfahren
 
@@ -4573,7 +4563,6 @@ Abb.: प्रधानः
 Abb.: चक्रम्
 (Bildquelle: [Details](/licenses#lekt5214))
 :::
-
 कदली f.: Bananenbaum (_Musa_ sp.)
 
 ::: media
@@ -4596,30 +4585,30 @@ Abb.: कदली
 Abb.: मलम्
 (Bildquelle: [Details](/licenses#lekt5215))
 :::
-
 त्रिपिष्टप n.: Indras Himmel
 
 मार m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel
 
 ::: media
 ![](/images/lekt5217.jpg)
-Abb.: मारः
+Abb.:
 (Bildquelle: [Details](/licenses#lekt5217))
 :::
-
 विजिज्ञासु 3: jemand, der völlig erkennen will
 
 त्रै 1Ā त्रायते : beschützen, retten
 
-> Perf. IV तत्रे  
-> Fut. त्रास्यते  
-> Pass. त्रायते  
-> Kaus. त्रापयति  
-> PPP त्राण । त्रात  
-> Inf. त्रातुम्
+::: indent
+Perf. IV तत्रे
+Fut. त्रास्यते
+Pass. त्रायते
+Kaus. त्रापयति
+PPP त्राण । त्रात
+Inf. त्रातुम्
+:::
 
 ::: deleteme-box
-### Quellen
+#### Quellen
 
 **lekt0201**: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts). Beschriftung: * Priesterstand (~Brāhmaṇa): Tu supplex ora = Du bete flehend! * Adelsstand (~Kṣatriya): Tu protege = Du schütze! * Bauernstand (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite! Die drei Stände tragen die jeweilige Standestracht. Über den - damit als gottgewollt bezeichneten - Ständen trohnt Christus. [Bildquelle: Meyer, Werner: Hirsebrei und Hellebarde : auf den Spuren des mittelalterlichen Lebens in der Schweiz . -- 2. Aufl. -- Olten [u.a.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- S. 129]
 

@@ -731,7 +731,6 @@ Alois Maria Payer
 :::
 
 ::: deleteme-box
-### Quellen
 
 **Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
 :::

@@ -33,10 +33,10 @@ Beispiele:
 * 3.sg.P.Ind.Präs. **ददाति**
 
 **पॄ** 3 "füllen"
-* 3.sg.P.Ind.Präs. **पिपर्ति**
+* 3.sg.P.Ind.Präs. ***पि***पर्ति
 
 **मा** 3Ā "messen"
-* 3.sg.Ā.Ind.Präs. **मिमीते**
+* 3.sg.Ā.Ind.Präs. ***मि***मीते
 :::
 
 ::: grammar-box
@@ -50,7 +50,7 @@ Beispiele:
 * 3.sg.P.Ind.Präs. **दधाति**
 
 **भी** 3 "fürchten"
-* 3.sg.P.Ind.Präs. **बिभेति**
+* 3.sg.P.Ind.Präs. ***बि***भेति
 :::
 
 :::: grammar-box
@@ -118,9 +118,9 @@ Beispiele:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | जुहोति | जुह्वति[[br]](juhu + ati) | &lt;जुहुते&gt; | &lt;जुह्वते&gt;[[br]](juhu + ate) |
-| **Imperfekt** | अजुहोत्[[br]](a-juho-t) | जुहवुर्[[br]](a-juho + ur) | &lt;अजुहुत&gt; | &lt;अजुह्वत&gt;[[br]](a-juhu + ata) |
-| **Optativ** | जुहुयात्[[br]](juhu-yā-t) | जुहुयुर्[[br]](juhu-y-ur) | &lt;जुह्वीत&gt;[[br]](juhu + ī-ta) | &lt;जुह्वीरन्&gt;[[br]](juhu + ī-ran) |
+| **Indikativ Präsens** | जुहोति | जुह्वति[[br]]juhu + ati | &lt;जुहुते&gt; | &lt;जुह्वते&gt;[[br]]juhu + ate |
+| **Imperfekt** | अजुहोत्[[br]]a-juho-t | जुहवुर्[[br]]a-juho + ur | &lt;अजुहुत&gt; | &lt;अजुह्वत&gt;[[br]]a-juhu + ata |
+| **Optativ** | जुहुयात्[[br]]juhu-yā-t | जुहुयुर्[[br]]juhu-y-ur | &lt;जुह्वीत&gt;[[br]]juhu + ī-ta | &lt;जुह्वीरन्&gt;[[br]]juhu + ī-ran |
 ::::
 
 ## 33.3. Zum Ablaut von ā
@@ -174,9 +174,9 @@ Beispiele:
 
 | | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | मिमीते[[br]](mimī-te) | मिमते[[br]](mim-ate) |
+| **Indikativ Präsens** | मिमीते[[br]]mimī-te | मिमते[[br]]mim-ate |
 | **Imperfekt** | अमिमीत | अमिमत |
-| **Optativ** | मिमीत[[br]](mim-ī-ta !) | मिमीरन्[[br]](mim-ī-ran) |
+| **Optativ** | मिमीत[[br]]mim-ī-ta ! | मिमीरन्[[br]]mim-ī-ran |
 ::::
 
 :::: grammar-box
@@ -184,9 +184,9 @@ Beispiele:
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | जहाति | जहति[[br]](jah-ati) |
+| **Indikativ Präsens** | जहाति | जहति[[br]]jah-ati |
 | **Imperfekt** | अजहात् | अजहुर् |
-| **Optativ** | जह्यात्[[br]](jah-yā-t)[[br]](Die Wurzel **हा** hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | जह्युर्[[br]](jah-y-ur) |
+| **Optativ** | जह्यात्[[br]]jah-yā-t[[br]](Die Wurzel **हा** hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | जह्युर्[[br]]jah-y-ur |
 ::::
 ### 33.4.1. Die Wurzeln **दा** und **धा**
 
@@ -201,9 +201,9 @@ Beispiele:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | दधाति | दधति[[br]](dadh-ati) | धत्ते[[br]](dadh-te)[[br]](Erklärung: Thumb-Hauschild 1,1 S. 302f.) | दधते[[br]](dadh-ate) |
-| **Imperfekt** | अदधात् | अदधुर् | अधत्त[[br]](a + dadh + ta) | अदधत |
-| **Optativ** | दध्यात्[[br]](dadh-yā-t) | दध्युर् | दधीत[[br]](dadh-ī-ta) | दधीरन् |
+| **Indikativ Präsens** | दधाति | दधति[[br]]dadh-ati | धत्ते[[br]]dadh-te[[br]](Erklärung: Thumb-Hauschild 1,1 S. 302f.) | दधते[[br]]dadh-ate |
+| **Imperfekt** | अदधात् | अदधुर् | अधत्त[[br]]a + dadh + ta | अदधत |
+| **Optativ** | दध्यात्[[br]]dadh-yā-t | दध्युर् | दधीत[[br]]dadh-ī-ta | दधीरन् |
 ::::
 
 Die Formen von **दा** erhält man, indem man im Paradigma von **धा** **dh** durch **d** ersetzt. Also:
@@ -232,10 +232,10 @@ Die Formen von **दा** erhält man, indem man im Paradigma von **धा** **d
 | | Maskulinum[[br]]पुंल्लिङ्ग | Neutrum[[br]]नपुंसकलिङ्ग | Femininum[[br]]स्त्रीलिङ्ग |
 | :--- | :--- | :--- | :--- |
 | **Singular** | | | |
-| **1. Nominativ** | ददत्[[br]](dad-at + s) | ददत्[[br]](dad-at-Ø) | ददती |
-| **2. Akkusativ** | ददतम्[[br]](dad-at-am) | ददत् | |
+| **1. Nominativ** | ददत्[[br]]dad-at + s | ददत्[[br]]dad-at-Ø | ददती |
+| **2. Akkusativ** | ददतम्[[br]]dad-at-am | ददत् | |
 | **Plural** | | | |
-| **1. Nominativ** | ददतस् | ददति[[br]](dad-at-i)[[br]]ददन्ति[[br]](dad-ant-i) | |
+| **1. Nominativ** | ददतस् | ददति[[br]]dad-at-i[[br]]ददन्ति[[br]]dad-ant-i | |
 | **2. Akkusativ** | ददतस् | ददति[[br]]ददन्ति | |
 ::::
 
@@ -460,7 +460,6 @@ Abb.: पुरुषा भारं न बिभ्रतीति स्त�
 मितमतयो नरकभयात्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति । अमितप्रज्ञाबुद्धा हि नरकेभ्यो न बिभीयुः स्वर्गांश्च न लुभ्येयुः । ते भयं च लोभं चारुन्धन् ॥७॥
 
 ::: deleteme-box
-### Quellen
 
 **Ghee Definition & Details:**
 * Quelle: http://en.wikipedia.org/wiki/Ghee (Zugriff: 2008-12-26)

@@ -1,64 +1,68 @@
 ---
+title: Lesson 45
+subtitle: "Formation of the verbal forms of the 2nd person (मध्यमः) athematic stems without vocally ending suffix (continuation)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 45
 
-## 45.1. Formation of the Second Person (मध्यमः) Verbal Forms of Athematic Stems without Vowel-Ending Suffix (Continuation)
+## 45.1. Formation of the verbal forms of the 2nd person (मध्यमः) athematic stems without vocally ending suffix (continuation)
 
 ### 45.1.1. Third Present Class (जुहोत्यादि)
 
 हु 3P
 
 ::: grammar-box
-| | Parasmaipada || Ātmanepada ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | juhoṣi | juhutha | &lt;juhuṣe&gt; | &lt;juhuḍhwe&gt; |
-| **Imperfect**[[br]]laṅ | ajuhos | ajuhata | &lt;ajuḍhās&gt; | &lt;ajuḍhvam&gt; |
-| **Optative**[[br]]vidhilin | juhu yās | juhu yāt | &lt;juhvīthās&gt; | &lt;juhvīdhvam&gt; |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | जुहोषि | जुहुथ | &lt;जुहुषे&gt; | &lt;जुहुध्वे&gt; |
+| **Imperfect**[[br]]लङ् | अजुहोस् | अजुहुत | &lt;अजुहुथास्&gt; | &lt;अजुहुध्वम्&gt; |
+| **Optative**[[br]]विधिलिङ् | जुहुयास् | जुहुयात | &lt;जुह्वीथास्&gt; | &lt;जुह्वीध्वम्&gt; |
 :::
 
 धा 2U
 
 ::: grammar-box
-| | Parasmaipada || Ātmanepada ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | dadhāsi | dhatta[[br]]from: dadh + tha | dhatsse | dhdhwe |
-| **Imperfect**[[br]]laṅ | adadhās | adhatta | adhatthās | adhdhvam |
-| **Optative**[[br]]vidhilin | dadhyās | dadhyāt | dadhīthās | dadhīdhvam |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | दधासि | धत्थ[[br]]from: dadh + tha | धत्से | धद्ध्वे |
+| **Imperfect**[[br]]लङ् | अदधास् | अधत्त | अधत्थास् | अधद्ध्वम् |
+| **Optative**[[br]]विधिलिङ् | दध्यास् | दध्यात | दधीथास् | दधीध्वम् |
 :::
 
-### 45.1.2. Seventh Class of Present Stems (रुधादि)
+### 45.1.2. Seventh Present Class (रुधादि)
 
 ::: grammar-box
-**When a final k/g of the root stands between the nasal ṅ and a dental of the ending, the k/g may optionally be dropped.**
+**If a final k/g of the root comes between the nasal ṅ and a dental of the ending, then the k/g may optionally drop**
 
-e.g., **युज्** 3.sg.Ind.Prés.Ā युङ्क्ते or युङ्ते
+e.g. **युज्** 3.sg.Ind.Pres.Ā युङ्क्ते or यु***ङ्ते***
 :::
 
 युज् 7U
 
 ::: grammar-box
-| | Parasmaipada || Ātmanepada ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | युनक्षि[[br]]yu-na-j + si | युङ्क्थ[[br]]युङ्थ | युङ्क्षे | युङ्ग्ध्वे[[br]]युङ्ध्वे |
-| **Imperfect**[[br]]laṅ | अयुनक्[[br]]from: a-yu-na-j + s | युङ्क्त[[br]]अयुङ्त | अयुङ्क्थास्[[br]]अयुङ्थास् | अयुङ्ग्ध्वम्[[br]]अयुङ्ध्वम् |
-| **Optative**[[br]]vidhilinṅ | युञ्ज्यास् | युञ्ज्यात | युञ्जीथास् | युञ्जीध्वम् |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | युनक्षि[[br]]yu-na-j + si | युङ्क्थ[[br]]युङ्थ | युङ्क्षे | युङ्ग्ध्वे[[br]]युङ्ध्वे |
+| **Imperfect**[[br]]लङ् | अयुनक्[[br]]from: a-yu-na-j + s | युङ्क्त[[br]]अयुङ्त | अयुङ्क्थास्[[br]]अयुङ्थास् | अयुङ्ग्ध्वम्[[br]]अयुङ्ध्वम् |
+| **Optative**[[br]]विधिलिङ् | युञ्ज्यास् | युञ्ज्यात | युञ्जीथास् | युञ्जीध्वम् |
 :::
 
 रुध् 7U
 
 ::: grammar-box
-| | Parasmaipada || Ātmanepada ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicative Present**[[br]]laṭ | रुणत्सि[[br]]ru + na + dh + si | रुन्द्ध[[br]]ru-n-dh + tha | रुन्त्से | रुन्द्ध्वे |
-| **Imperfect**[[br]]laṅ | अरुणत्[[br]]from a-ru-ṇa-dh + s[[br]] अरुण्स् (irreg.!) | अरुन्द्ध[[br]]a-ru-n-dh + ta | अरुन्द्धास् | अरुन्द्ध्वम् |
-| **Optative**[[br]]vidhilinṅ | रुन्ध्यास् | रुन्ध्यात | रुन्धीथास् | रुन्धीध्वम् |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicative Present**[[br]]लट् | रुणत्सि[[br]]ru + na + dh + si | रुन्द्ध[[br]]ru-n-dh + tha | रुन्त्से | रुन्द्ध्वे |
+| **Imperfect**[[br]]लङ् | अरुणत्[[br]]from a-ru-ṇa-dh + s[[br]] ***अरुण्स्*** (irreg.!) | अरुन्द्ध[[br]]a-ru-n-dh + ta | अरुन्द्धास् | अरुन्द्ध्वम् |
+| **Optative**[[br]]विधिलिङ् | रुन्ध्यास् | रुन्ध्यात | रुन्धीथास् | रुन्धीध्वम् |
 :::
 
 ## 45.2. The Vocative Singular (आमन्त्रितमेकवचने)
@@ -66,42 +70,42 @@ e.g., **युज्** 3.sg.Ind.Prés.Ā युङ्क्ते or युङ�
 ::: grammar-box
 **Most vocatives of the singular are the stem with a high-grade ending.**
 
-e.g., **देव, कवे, शत्रो, राजन्, पितर्** etc.
+e.g. **देव, कवे, शत्रो, राजन्, पितर्** etc.
 
-**Exceptions are the feminine stems ending in -ā and -ī, as well as stems in -in, whose vocative singular must be particularly memorized.**
+**Exceptions are the feminine nouns ending in -ā and -ī, as well as the stems ending in -in, whose vocative sg. must be particularly memorized.**
 :::
 
 :::: grammar-box
 ::: no-header
 | | Vocative Singular |
 | --- | --- |
-| Masculines in -a | देव |
-| Neuters in -a | फल |
-| Feminines in -ā | देवते |
-| Masculines in -i | कवे |
-| Feminines in -i | मते |
-| Masculines in -u | शत्रो |
-| Feminines in -u | धेनो |
-| Feminines in -ī | देवि |
-| Masculines in -ṛ | पितर् |
-| Feminines in -ṛ | मातर् |
-| Masculines in -an | राजन् |
-| Neuters in -an | नामन्[[br]]नाम |
-| Masculines in -man/-van | आत्मन् |
-| Masculines in -in | बलिन् |
-| Masculines in -ant | बलिन्[[br]]बलि |
+| Masculine nouns ending in -a | देव |
+| Neuter nouns ending in -a | फल |
+| Feminine nouns ending in -ā | देवते |
+| Masculine nouns ending in -i | कवे |
+| Feminine nouns ending in -i | मते |
+| Masculine nouns ending in -u | शत्रो |
+| Feminine nouns ending in -u | धेनो |
+| Feminine nouns ending in -ī | देवि |
+| Masculine nouns ending in -ṛ | पितर् |
+| Feminine nouns ending in -ṛ | मातर् |
+| Masculine nouns ending in -an | राजन् |
+| Neuter nouns ending in -an | नामन्[[br]]नाम |
+| Masculine nouns ending in -man/-van | आत्मन् |
+| Masculine nouns ending in -in | बलिन् |
+| Masculine nouns ending in -ant | बलिन्[[br]]बलि |
 | mahānt m. | महन् |
 | mahānt n. | महत्[[br]]= Nominative |
-| Masculines in -mant/-vant | गुणवन् |
-| Neuters in -mant/-vant | गुणवत्[[br]]= Nominative |
-| Pronouns | no vocative is formed |
+| Masculine nouns ending in -mant/-vant | गुणवन् |
+| Neuter nouns ending in -mant/-vant | गुणवत्[[br]]= Nominative |
+| Pronouns | a vocative is not formed |
 :::
 ::::
 
 ::: media
 ![](/images/lekt4501.jpg)
 Fig.: भवति किं करोषि
-(Image source: [Details](/licenses#lekt4501))
+(Image source: [Details](/en/licenses#lekt4501))
 :::
 
 ## 45.3. Word List
@@ -110,33 +114,33 @@ Fig.: भवति किं करोषि
 
 ## 45.4. Exercise
 
-A) Translate into Sanskrit (for past tense forms, please use the Imperfect <लङ्>):
+A) Translate into Sanskrit (for past tense forms, please use the imperfect &lt;लङ्&gt;):
 
 1\. You are dividing the (Buddhist) community.
 
 ::: indent
-For community schism (सङ्घभेद), see:
+regarding the schism of the community (सङ्घभेद) see:
 
-**Payer, Alois <1944 – >:** Vinayamukha : Basic Terms of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Terms of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Basic concepts of the monastic rules and monastic law of the Theravāda. -- Part I. -- (Materials on the basic concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 
-2\. Did you enjoy the earth?
+2\. Have you enjoyed the earth?
 
-3\. Did you receive a gift from the king?
+3\. Have you received a gift from the king?
 
 4\. Holy man, why do you not fear dangers?
 
 5\. Father, where are you leaving the family?
 
-6\. Śūdra woman, did you carry the load into the house of the rich Brāhmaṇa?
+6\. Śūdra woman, have you carried the load into the house of the rich Brahmin?
 
 7\. Goddess, you should fulfill the wish for happiness of the Vaiśya, who has performed meritorious deeds.
 
-8\. Elephants, you should not break the bonds.
+8\. Elephants, you should not break the shackles.
 
 9\. You lion-like man, why do you not direct your entire attention to the Absolute (Brahman)?
 
-10\. Did you, poet, measure the worlds?
+10\. Have you, poet, measured the worlds?
 
 B) Translate:
 
@@ -151,15 +155,13 @@ B) Translate:
 ::: media
 ![](/images/lekt4502.jpg)
 Fig.: कन्ये किं लिखसि
-(Image source: [Details](/licenses#lekt4502))
+(Image source: [Details](/en/licenses#lekt4502))
 :::
 
 
 ::: deleteme-box
 
-### Sources
+**lekt4501.jpg**: Textile block print, Ahmedabad. -- Image source: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, non-commercial use, share alike)
 
-**lekt4501.jpg**: Textile block print, Ahmedabad. -- Image source: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-Commercial, Share Alike)
-
-**lekt4502.jpg**: Image source: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-Commercial, No Derivative Works)
+**lekt4502.jpg**: Image source: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, non-commercial use, no derivatives)
 :::

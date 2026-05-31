@@ -11,7 +11,6 @@ export const es = {
       { text: 'Inicio', link: '/es/' },
       { text: 'Contenido', link: '/es/lektionen/inhaltsverzeichnis' },
       { text: 'Índice', link: '/es/grammatik' },
-      { text: 'QA', link: '/qa/viewer' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Créditos', link: '/es/impressum' }
     ],

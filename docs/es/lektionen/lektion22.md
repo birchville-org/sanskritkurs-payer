@@ -1,39 +1,39 @@
 ---
+title: Lección 22
+subtitle: "El absolutivo (क्त्वा । ल्यप्)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 22
 
 ## 22.1. El absolutivo (क्त्वा । ल्यप्)
 
-:::: grammar-box
+::: grammar-box
 
-Si en sánscrito se desea expresar que una acción del agente (कर्तृ) precede a otra acción del mismo agente, o bien ocurre como circunstancia concomitante, se utiliza el absolutivo (क्त्वा । ल्यप्). Es decir:
+Si se desea expresar en sánscrito que una acción del agente (कर्तृ) precede a otra acción del mismo agente o ocurre como circunstancia concomitante con ella, se utiliza el absolutivo (क्त्वा । ल्यप्). Es decir:
 
-::: indent
-"después de haber hecho eso, hace esto otro"; "hace esto, luego hace aquello"; "como consecuencia de esto, hace aquello"; "llegué, vi y vencí", etc.
-:::
+"después de haber hecho eso, hace aquello"; "hace esto, luego hace aquello"; "como consecuencia de esto hace aquello"; "vine, vi y vencí", etc.
 
-El absolutivo es un adverbio verbal; es decir, no es conjugable ni declinable, pero siempre —con pocas excepciones— comparte el mismo agente (कर्तृ) que la acción principal a la cual precede o acompaña. Por tanto, el agente del absolutivo aparece en nominativo (प्रथमा) o instrumental (तृतीया).
+El absolutivo es un verbo-adverbio, es decir, no es conjugable ni declinable, pero siempre —con pocas excepciones— tiene el mismo agente (कर्तृ) que la acción a la que precede la acción designada por el absolutivo o que la acompaña. Por lo tanto, el agente del absolutivo está en nominativo (प्रथमा) o instrumental (तृतीया).
 
-Además de los compuestos, el absolutivo es uno de los recursos expresivos más frecuentes en el sánscrito.
+Además de los compuestos, el absolutivo es uno de los medios de expresión más frecuentes en el sánscrito.
 
-Al traducir al alemán, evite usar constantemente la conjunción «nachdem» (después de). En su lugar, utilice las expresiones habituales en alemán para indicar la sucesión temporal.
+Al traducir al alemán, evite decir constantemente "después de". En su lugar, utilice las expresiones habituales en alemán para la sucesión temporal.
 
 **Esquema:**
 
-::: indent
-(determinación específica del absolutivo: adjunto circunstancial, objeto, etc.) — Absolutivo — Absolutivo — ... — Absolutivo — ... Agente + oración verbal (en voz activa o pasiva)
-:::
+(determinación del absolutivo: adjunto circunstancial, objeto, etc.) - absolutivo - absolutivo - ... - absolutivo - ... agente + oración verbal (en activo o pasivo)
 
-::::
+:::
 
 **Ejemplos:**
 
 ::: indent
-**गृहं प्रविश्य बालां दृष्ट्वा नरो वदति** = Construcción pasiva: **गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते**  
-«El hombre entra en la casa, ve a la niña pequeña y le habla.»
+**गृहं प्रविश्य बालां दृष्ट्वा नरो वदति** = construcción pasiva: **गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते**  
+"El hombre entra en la casa, ve a la niña pequeña y le habla."
 
 Plural: **गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।**
 :::
@@ -49,128 +49,117 @@ Plural: **गृहं प्रविश्य बालां दृष्ट�
 
 ### 22.2.1. Verbos sin prefijo: Absoluto en -त्वा
 
-:::: grammar-box
+::: grammar-box
 
 **Formación:**
 
-::: indent
-(raíz) en grado profundo (generalmente) en la forma que presenta antes del participio pasado (PPP) + **-tvā** (**-त्वा**)
+(raíz de nivel más bajo) (por lo general) en la forma que tiene antes del PPP + **-tvā** (**-त्वा**)
+
+Solo la negación **a-** / **an-** es compatible con el sufijo **-त्वा** : **अकृत्वा** "sin haber hecho"
+
 :::
-
-Solo la negación **a-** / **an-** es compatible con el sufijo **-त्वा**: **अकृत्वा** "sin haber hecho"
-
-::::
 
 **Ejemplos:**
 
 ::: indent
-**आप्त्वा** "después de que él/ella/ello/yo/tú/nosotros/ustedes/ellos/hablamos/habíamos alcanzado"
+**आप्त्वा** "después de que él / ella / ello / yo / tú / nosotros / vosotros / ellos / nosotros dos / vosotros dos / ellos dos han alcanzado / habían alcanzado"
 
-**आसित्वा** "después de que él/ella/ello (...) se había sentado / está sentado"
+**आसित्वा** "después de que él (...) se había sentado / se ha sentado"
 
-**इत्वा** "después de que él/ella/ello (...) se había ido / se ha ido"
+**इत्वा** "después de que él (...) había ido / ha ido"
 
-**स्थित्वा** "después de que él/ella/ello (...) se había quedado de pie / se ha quedado de pie"
+**स्थित्वा** "después de que él (...) había estado de pie / ha estado de pie"
 
-**जित्वा** "después de que él/ella/ello (...) había ganado / ha ganado"
+**जित्वा** "después de que él (...) ha triunfado / había triunfado"
 
-**उक्त्वा** "después de que él/ella/ello (...) había hablado / ha hablado"
+**उक्त्वा** "después de que él (...) ha hablado / había hablado"
 :::
 
-### 22.2.2. Verbos con prefijo verbal (Préverb)
+### 22.2.2. Verbos con prefijo verbal
 
 #### 22.2.2.1. Raíces con vocal larga (excepto -ā) o con consonante final
 
-:::: grammar-box
+::: grammar-box
 
-::: indent
-Raíz (mayormente) en grado cero (tiefstufige) + **-ya**
+**(por lo general) raíz en grado cero + -ya**
+
 :::
-
-::::
 
 **Ejemplos:**
 
 ::: indent
-**उपनीय** «después de haber (...) conducido hacia aquí / había conducido hacia aquí»
+**उपनीय** "después de que (...) ha conducido / había conducido"
 
-**प्रभूय** «después de haber (...) sobresalido / había sobresalido» «después de haber (...) tenido poder»
+**प्रभूय** "después de que (...) ha sobresalido / había sobresalido" "después de que (...) ha tenido poder"
 
-**प्राप्य** «después de haber (...) obtenido / había obtenido»
+**प्राप्य** "después de que (...) ha obtenido / había obtenido"
 :::
 
-#### 22.2.2.2. Raíces terminadas en -ā
+#### 22.2.2.2. Raíces en -ā
 
-:::: grammar-box
+::: grammar-box
 
-::: indent
-Raíz en grado pleno (hochstufige) inalterada + **-ya**
+**raíz en grado pleno invariable + -ya**
+
 :::
-
-::::
 
 **Ejemplo:**
 
 ::: indent
-**उपस्थाय** «después de haber (...) estado presente / había estado presente»; (pero sin prefijo verbal: **स्थित्वा**)
+**उपस्थाय** "después de que (...) ha entrado / había entrado" ; (pero sin prefijo verbal: **स्थित्वा**)
 :::
 
 #### 22.2.2.3. Raíces que en grado cero terminan en -i, -u, -ṛ breves
 
-:::: grammar-box
+::: grammar-box
 
-::: indent
-Raíz en grado cero + **-tya**
+**raíz en grado cero + -tya**
+
 :::
-
-::::
 
 **Ejemplos:**
 
 ::: indent
-**प्रस्तुत्य** «después de haber (...) alabado en voz alta / había alabado en voz alta»
+**प्रस्तुत्य** "después de que (...) ha alabado en voz alta / había alabado en voz alta"
 
-**विस्मृत्य** «después de haber (...) olvidado / había olvidado»
+**विस्मृत्य** "después de que (...) ha olvidado / había olvidado"
 
-**संस्कृत्य** «después de haber (...) preparado para el sacrificio / había preparado para el sacrificio»
+**संस्कृत्य** "después de que (...) ha preparado para el sacrificio / había preparado para el sacrificio"
 :::
 
-#### 22.2.2.4. Raíces terminadas en -am / -an, que en grado cero terminan en -a
+#### 22.2.2.4. Raíces en -am / -an que en grado cero terminan en -a
 
-:::: grammar-box
+::: grammar-box
 
 **Opcional:**
 
-::: indent
-Raíz terminada en **-am** / **-an** + **-ya**
+Raíz en **-am** / **-an** + **-ya**
+
+o:
+
+Raíz en **-a** + **-tya**
+
 :::
-
-o bien:
-
-::: indent
-Raíz terminada en **-a** + **-tya**
-:::
-
-::::
 
 **Ejemplo:**
 
 ::: indent
-**विगम्य** o **विगत्य** «después de haber (...) pasado / había pasado»
+**विगम्य** o **विगत्य** "después de que (...) ha pasado / había pasado"
 :::
 
-## 22.3. Lista de vocabulario
+## 22.3. Lista de palabras
 
-**काम m.:** deseo, anhelo; don deseado, placer sensual, amor, dios del amor
+**काम m.:** deseo, anhelo; regalo deseado, placer sensual, amor, dios del amor
 
 ::: indent
-**कामम्** Acusivo adverbial: a voluntad, a placer
+**कामम्** Ac. adverbial: a voluntad, a placer
 :::
 
 ::: media
 ![](/images/lekt2202.jpg)
 Fig.: कामदेवः
-(Fuente de la imagen: [Detalles](/licenses#lekt2202))
+Siglo XIX
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2202))
 :::
 
 
@@ -187,19 +176,20 @@ de ello:
 ::: media
 ![](/images/lekt2203.jpg)
 Fig.: दुर्गाशक्तिः
-(Fuente de la imagen: [Detalles](/licenses#lekt2203))
+Calcuta = কলকাতা
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2203))
 :::
 
 
-**अर्ह 1 P  अर्हति Pas.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** merecer algo (ser digno de algo), deber, estar obligado a, deber (en la segunda persona, **अर्ह्** + infinitivo se utiliza a menudo como una orden atenuada: «Deberías»)
+**अर्ह 1 P  अर्हति Pas.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** merecer algo (ser digno de algo), deber, estar obligado a, deber (en la 2.ª persona, **अर्ह्** + infinitivo se usa a menudo como orden suave: "Deberías")
 
 ::: indent
-**अर्हन्त् 3** Part. Pres. P: un digno. En el budismo y el jainismo: alguien que ha alcanzado la liberación definitiva
+**अर्हन्त् 3** Part. Pres. P: un digno. En el budismo y el jainismo: alguien que ha alcanzado la liberación final
 :::
 
-**व्रत n.:** voto, obligación religiosa, observancia religiosa (uno promete algo a la deidad para obtener algo de ella. Ejemplo: una madre promete entregar a su hija como prostituta sagrada (**देवदासी**) si su hija se recupera. **व्रत** importantes hoy en día: ayuno; abstinencia de alimentos que se aman; abstinencia sexual; lectura de escrituras sagradas; realización de ciertos rituales; alimentación de brahmanes, etc. Breve resumen sobre los **व्रत**: Walker, *Hindu World* vol. II, p. 581ss. Detallado: P. V. Kane: *History of Dharmaśāstra* vol. 5,1 p. 1 - 462. Allí, pp. 253 - 462 lista de **व्रत** y festividades religiosas («la siguiente lista ... no pretende ser exhaustiva» !!!)
+**व्रत n.:** voto, obligación religiosa, observancia religiosa (uno promete algo a la deidad para obtener algo de ella. Ejemplo: una madre promete entregar a su hija como prostituta sagrada (**देवदासी**) si su hija se recupera. **व्रत** importantes hoy: ayuno; abstinencia de alimentos que se aman; abstinencia sexual; lectura de escrituras sagradas; realización de ciertos rituales; alimentación de brahmanes, etc. Breve sobre **व्रत**: Walker, Hindu World Vol. II, p. 581ss. Detallado: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. Allí p. 253 - 462 lista de **व्रत** y festividades religiosas ("la siguiente lista ... no pretende ser exhaustiva" !!!)
 
-**चर् 1 P  charati Pas.  charyate PPP  charita Inf.  charitum (Sánscrito: चर् 1 P चरति Pas.  चर्यते PPP  चरित Inf.  चरितुम्) :** pastorear, deambular, moverse, actuar, ejercer, realizar (por ejemplo, **व्रतं चर्**: practicar un voto, especialmente la abstinencia sexual)
+**चर् 1 P  charati Pas.  charyate PPP  charita Inf.  charitum (Sánscrito: चर् 1 P चरति Pas.  चर्यते PPP  चरित Inf.  चरितुम्) :** pastorear, vagar, moverse, actuar, ejercer algo, realizar (por ejemplo, **व्रतं चर्**: practicar un voto, especialmente abstinencia sexual)
 
 de ello:
 
@@ -208,20 +198,21 @@ de ello:
 
 **चरण n., m.:** pie
 
-**चरित n.:** estilo de vida, hazañas vitales
+**चरित n.:** conducta de vida, hazañas de vida
 
-**ब्रह्मचर्य n.:** cumplimiento del Veda (**ब्रह्मन्**) = estudio del Veda en la primera etapa de la vida (la del **ब्रह्मचारिन्**), que requiere estricta abstinencia sexual; por tanto, también: abstinencia sexual, estilo de vida celibatario
+**ब्रह्मचर्य n.:** realización del Veda (**ब्रह्मन्**) = estudio del Veda en la primera etapa de la vida (la del **ब्रह्मचारिन्**), que requiere estricta abstinencia sexual; por lo tanto, también: abstinencia sexual, estilo de vida celibatario
 :::
 
 ::: media
 ![](/images/lekt2201.jpg)
 Fig.: धेनवश्चरन्ति
-(Fuente de la imagen: [Detalles](/licenses#lekt2201))
+Goa = गोंय
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2201))
 :::
 
 ## 22.4. Ejercicio
 
-**A) Forme y traduzca el Absoluto (Gerundio) para los siguientes verbos:**
+**A) Formar y traducir el Absoluto para los siguientes verbos:**
 
 1.  आप्
 2.  प्राप्
@@ -260,7 +251,7 @@ Fig.: धेनवश्चरन्ति
 35.  प्रवद्
 36.  हन्
 
-**B) Traduzca y resuelva las compuestos (Tatpuruṣa/Avyayībhāva, etc.) en sánscrito:**
+**B) Traducir y resolver los compuestos en sánscrito:**
 
 अन्नं पक्त्वा ब्राह्मणदासो ऽत्ति ॥१॥
 
@@ -287,18 +278,16 @@ Fig.: धेनवश्चरन्ति
 ::: media
 ![](/images/lekt2204.jpg)
 Fig.: अन्नं पक्त्वा
-(Fuente de la imagen: [Detalles](/licenses#lekt2204))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2204))
 :::
 
 ::: deleteme-box
 
-### Fuentes
+**lekt2201:** Goa = गोंय [Fuente de la imagen: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Acceso el 2008-12-12. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
 
-**lekt2201:** Goa = गोंय [Fuente de la imagen: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Acceso el 12-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]
+**lekt2202:** Siglo XIX [Fuente de la imagen: Wikipedia, Dominio público]
 
-**lekt2202:** Siglo XIX [Fuente de la imagen: Wikipedia, dominio público]
+**lekt2203:** Calcuta = কলকাতা [Fuente de la imagen: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Acceso el 2008-12-12. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
 
-**lekt2203:** Calcuta = কলকাতা [Fuente de la imagen: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Acceso el 12-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]
-
-**lekt2204:** [Fuente de la imagen: Curt Carnemark / Banco Mundial. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Acceso el 12-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]
+**lekt2204:** [Fuente de la imagen: Curt Carnemark / Banco Mundial. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Acceso el 2008-12-12. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
 :::

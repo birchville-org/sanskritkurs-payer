@@ -37,13 +37,13 @@ lesson_id: 53
 ::: media
 ![](/images/lekt5301.jpg)
 Fig.: मार्जारयुगम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5301))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5301))
 :::
 
 ::: media
 ![](/images/lekt5302.jpg)
 Fig.: हस्तौ
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5302))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5302))
 :::
 
 ## 53.2. Desinenze del duale del nome
@@ -131,7 +131,7 @@ Fig.: हस्तौ
 ::: media
 ![](/images/lekt5305.jpg)
 Fig.: भरन्तौ
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5305))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5305))
 :::
 
 ददत् 3 "che dà"
@@ -234,7 +234,7 @@ Fig.: भरन्तौ
 ::: media
 ![](/images/lekt5306.jpg)
 Fig.: फले
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5306))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5306))
 :::
 
 **Temi in -i**
@@ -268,7 +268,7 @@ Fig.: फले
 ::: media
 ![](/images/lekt5307.jpg)
 Fig.: धेनू
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5307))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5307))
 :::
 
 **Temi in -ā**
@@ -354,7 +354,7 @@ Esempi:
 ::: media
 ![](/images/lekt5308.jpg)
 Fig.: पितापुत्रौ
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5308))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5308))
 :::
 
 ## 53.6. Il duale dei pronomi
@@ -490,7 +490,7 @@ Esempio:
 ::: media
 ![](/images/lekt5309.jpg)
 Fig.: द्राघीयो लिङ्गम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5309))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5309))
 :::
 
 **Alcune forme di comparazione di questo tipo non hanno affatto una forma base etimologicamente affine; sono "defettive". Pertanto, le seguenti serie vanno ricordate in modo particolare:**
@@ -533,12 +533,12 @@ Fig.: द्राघीयो लिङ्गम्
 ::: media
 ![](/images/lekt5303.jpg)
 Fig.: क्रिश्चियन-मोर्गन्स्टर्न्
-(Fonte dell’immagine: [Dettagli](/licenses#lekt5303))
+(Fonte dell’immagine: [Dettagli](/it/licenses#lekt5303))
 :::
 
 Si veda anche:
 
-> **Payer, Alois <1944 - >:** Introduzione all’esegesi dei testi sanscriti : Dispensa. -- Cap. 8: L’esegesi propriamente detta, Parte II: Su singole questioni di comprensione sincronica. -- Appendice B: Sulla metrica dei testi sanscriti. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois &lt;1944 - &gt;:** Introduzione all’esegesi dei testi sanscriti : Dispensa. -- Cap. 8: L’esegesi propriamente detta, Parte II: Su singole questioni di comprensione sincronica. -- Appendice B: Sulla metrica dei testi sanscriti. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Importanza della determinazione del metro
 
@@ -551,7 +551,7 @@ La determinazione del metro è importante per le seguenti ragioni:
 ::: media
 ![](/images/lekt5304.jpg)
 Fig.: हर्मन्-ओल्डन्बेर्ग्
-(Fonte dell’immagine: [Dettagli](/licenses#lekt5304))
+(Fonte dell’immagine: [Dettagli](/it/licenses#lekt5304))
 :::
 
 ### 53.10.2. Tipi di metri
@@ -719,7 +719,6 @@ Alois Maria Payer
 
 ::: deleteme-box
 
-### Fonti
 
 **Payer, Alois &lt;1944 - &gt;:** Corso di sanscrito. -- Lezione 53 (Vacanze semestrali). -- Versione del 19-01-2009. -- Fonte dell'immagine della tabella originale 53.9: screenshot della fonte originale (Payer).
 :::

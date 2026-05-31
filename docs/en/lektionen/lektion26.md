@@ -1,114 +1,131 @@
 ---
+title: Lesson 26
+subtitle: "Law of cerebralisations for -s- within the word"
 lesson_id: 26
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 26
 
-## 26.1. The Law of Cerebralization of Internal -s-
+## 26.1. Rule of Cerebralization for -s- within the Word
 
 ::: grammar-box
-**-s-** is replaced by **-ṣ-** when it is preceded immediately or only by an **Anusvāra** or **Visarga** by **k, r, l**, or a **vowel** — except **a, ā** — and followed by a sound other than **ṛ, r**.
+**-s-** is replaced by **-ṣ-** when **k, r, l** or a **vowel** — except **a, ā** — immediately precedes or is separated only by **अनुस्वार** or **विसर्ग** and another sound than **ṛ, r** follows.
 
-This Sandhi also applies to **dus-** before voiceless gutturals and labials in compounds.
-
-*Examples:*
-- **teṣām** (from: *te-sām*)
-- but: **tāsām** (*tā-sām*)
+This Sandhi also applies to **दुस्-** before voiceless gutturals and labials in compounds.
 :::
 
-## 26.2. The Law of Cerebralization for Interword Dental Stops
+*Examples:*
+::: indent
+**तेषाम्** (from: *te-sām*)
+
+but: **तासाम्** (*tā-sām*)
+:::
+
+## 26.2. Law of Cerebralisations of Dental Stops within Words
 
 ::: grammar-box
-Dental stops are replaced by their corresponding retroflex counterparts when following retroflexes (including **-ṣ-**):
+Dental stops are replaced by the corresponding retroflexes after retroflexes (including **-ṣ-**):
 
 - **iṣ** + **-ta** = **iṣṭa** (इष्ट)
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (तिष्ठति)
-  *(**ṣ** due to the preceding **i**, **ṭh** due to the subsequently following **ṣ**)*
+  *(**ṣ** due to the preceding **i**, **ṭh** due to the subsequently preceding **ṣ**)*
 :::
 
-## 26.3. Word-Sandhi for Palatals, Velars, ṣ, h + -s
+## 26.3. Word Sandhi for Palatals, Velars, ṣ, h + -s
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
+
+See examples below
 :::
 
-## 26.4. Grassmann’s Law of Dissimilation of Aspiration
+## 26.4. Grassmann's Law of Breath Dissimilation
 
-::: grammar-box
-**A sequence of two aspirated consonants (Aspirated – Vowel – Aspirated) results in the loss of aspiration of the first consonant:**
+:::: grammar-box
+**An immediate consequence of two aspirates (aspirate - vowel - aspirate) is the loss of aspiration of the first sound:**
 
 Example:
 
-> \*dhu(gh) » du(g)h
-
-**If, due to phonological laws, the second consonant loses its aspiration, then aspiration reappears on the first consonant.**
-
-Examples: see below the future tense forms of  दुह् and  बुध्
+::: indent
+\*dhu(gh) » du(g)h
 :::
+
+**If, due to sound laws, the second sound loses its aspiration, then aspiration reappears on the first sound.**
+
+Examples: see below Future of  दुह् and  बुध्
+::::
 
 ::: media
 ![](/images/lekt2601.jpg)
 Fig.: Hermann Grassmann
-(Image source: [Details](/licenses#lekt2601))
+(Image source: [Details](/en/licenses#lekt2601))
 :::
 
-## 26.5. Word-Sandhi for -m, -n before Sibilants
+## 26.5. Word Sandhi for -m, -n before Sibilants
 
 ::: grammar-box
 **Before sibilants, -n and -m are replaced by -ṃ-:**
 
-Example: see below, Future tense of मन् (man)
+Example: s. below Future tense of मन्
 :::
 
-## 26.6. Usage of the Simple Future (ऌत्, भविष्यन्ती f.)
+## 26.6. Use of the Simple Future (ऌत्, भविष्यन्ती f.)
 
 ::: grammar-box
 **The Simple Future (ऌत्, भविष्यन्ती f.) expresses:**
 
 - **the future**
-- **an intended or desired action ("I will go," "I want to go")**
+- **an intended or desired action ("I will go", "I want to go")**
 - **an expectation ("it will happen so")**
 - **hope**
-- **fear/concern**
+- **fear**
 - **probability**
-- **the speaker’s opinion**
+- **speaker's opinion**
 - **command**
 
-**The future tense stands in partial competition with the optative (see later).**
+**The future tense partially competes with the optative (see later).**
 :::
 
-e.g., व्रतं करिष्यन्देवगृहं गच्छति = "Someone who wishes to make a vow goes to the temple."
+e.g. व्रतं करिष्यन्देवगृहं गच्छति = "Someone who wishes to make a vow goes to the temple."
 
 
 ::: media
 ![](/images/lekt2602.jpg)
 Fig.: व्रतं करिष्यन्देवगृहं गच्छति
-(Image source: [Details](/licenses#lekt2602))
+(Image source: [Details](/en/licenses#lekt2602))
 :::
 
-## 26.7. Formation of the Simple Future (ऌत्, भविष्यन्ती f.)
+## 26.7. Formation of the simple future (ऌत्, भविष्यन्ती  f.)
 
-::: grammar-box
+:::: grammar-box
 **Simple Future:**
 
-> **Future stem + Primary endings**
+::: indent
+**Future stem + primary endings**
+:::
+::::
 
----
-
+:::: grammar-box
 **Future stem:**
 
-> **(usually) Guṇa-strengthened root + -sya**  
-> **or**  
-> **(usually) Guṇa-strengthened root + -i- + -sya (= -iṣya)**
+::: indent
+**(usually) guṇa-grade root + -sya**  
+**or**  
+**(usually) guṇa-grade root + -i- + -sya (= - iṣya)**
+:::
 
-**One must learn with the stem forms which root takes which formation of the future stem!**  
+**One must learn with the stem forms which root has which formation of the future stem!**  
 **In general, the root form and the connecting vowel of the future correspond to the infinitive.**  
 **Some roots can optionally form the future with and without the connecting vowel -i-.**  
-**The Parasmaipada participle of the future is formed by adding the suffix -nt- to the future stem, the feminine optionally on -ntī or -tī:**
+**The Parasmaipada participle of the future is formed by adding the suffix -nt- to the future stem, feminine optionally on -ntī or -tī:**
 
-> कृ :  करिष्यन्त्, करिष्यन्ती / करिष्यती
+::: indent
+कृ :  करिष्यन्त्, करिष्यन्ती / करिष्यती
 :::
+::::
 
 Examples:
 
@@ -127,7 +144,7 @@ Examples:
 | पद् | पत्स्यति |
 | अद् | अत्स्यति |
 | दुह् | धोक्ष्यति (दोग् +  स्य + ति) |
-| बुध् | भोत्स्यते (बोध् before voiceless consonants = भोत्) |
+| बुध् | भोत्स्यते (बोध् before voiceless = भोत्) |
 | मन् | मंस्यते (मन् + स्य + ते) |
 
 ::::
@@ -136,7 +153,7 @@ Examples:
 
 Form the corresponding future tense forms in number, person, and gender (Parasmaipada, Ātmanepada):
 
-### A) Without the connecting vowel *-i-*:
+A) without connecting vowel -i-:
 
 1.  अत्ति
 2.  प्राप्नुवन्ति
@@ -145,7 +162,7 @@ Form the corresponding future tense forms in number, person, and gender (Parasma
 5.  दहन्
 6.  आदिशन्ति
 7.  दोग्धि
-8.  पश्यति (Form the future of दृश्)
+8.  पश्यति (form the future of दृश्)
 9.  उपानयन्ति
 10.  पचति
 11.  उपपद्यन्ते
@@ -174,7 +191,7 @@ Form the corresponding future tense forms in number, person, and gender (Parasma
 34.  स्तौति
 35.  तिष्ठति
 
-### B) With the connecting vowel *-i-*:
+B) With connecting vowel -i-:
 
 1.  अस्यति
 2.  आसते
@@ -191,7 +208,7 @@ Form the corresponding future tense forms in number, person, and gender (Parasma
 13.  पतन्ति
 14.  रोदिति
 15.  प्रभवति
-16.  म्रियन्ते (in the Future Parasmaipada)
+16.  म्रियन्ते (in the future Parasmaipada)
 17.  जीवन्ति
 18.  रक्षति
 19.  वदति
@@ -200,8 +217,8 @@ Form the corresponding future tense forms in number, person, and gender (Parasma
 22.  अर्हन्ति
 23.  कुप्यन्ति
 
-### C) Future optionally with and without *-i-*:
+C) Future optionally with and without -i-:
 
 1.  मुह्यन्ति
 2.  वर्तते
-3.  अश्नुवते (in the Future Parasmaipada)
+3.  अश्नुवते (in the future Parasmaipada)

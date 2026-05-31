@@ -7,59 +7,76 @@ last_reconstructed: 2026-05-21
 
 ---
 
-## 13.1. Participio pasado perfecto (PPP) con -na-
+## 13.1. PPP en -na-
 
-No es posible establecer reglas fijas para la distribución de los participios pasados perfectos (PPP) con -ta- o con -na-. Sin embargo:
+Para la distribución de los PPP en -ta- o -na-, no se pueden establecer reglas fijas. Sin embargo:
 
-:::: grammar-box
+::: grammar-box
 
-Casi todas las raíces que terminan en -d forman el PPP con -na-. En este caso, la secuencia -d-n- se reemplaza por -n-n-, lo cual no ocurre en el sandhi léxico (wortsandhi), sino que constituye una imitación del sandhi sintáctico (satzsandhi).
-
-Ejemplo:  
-pad 4 Ā → PPP: panna 3 = पन्न
-
-::::
-
----
-
-## 13.2. Más sobre el uso del participio de pasado (PPP)
-
-:::: grammar-box
-
-1. El PPP de verbos con el significado de "pensar", "desear", "conocer", "saber", "venerar", así como de otros verbos marcados en el *Dhātupāṭha* (el índice de raíces de Pāṇini) con la marca ñi, no solo tiene un valor temporal pasado, sino que también puede emplearse con un valor presente:
-
-    Ejemplos:
-    * iṣṭa = इष्ट "deseado" (es decir, no solo deseado en el pasado, sino también en el presente)
-    * tvarita = त्वरित "prisa, apresuradamente" (PPP de tvar 1 Ā "aprisarse"; Dhātupāṭha: ñitvárā)
-
-2. El PPP puede utilizarse como adjetivo atributivo:
-
-    Ejemplo:
-    * iṣṭaṃ phalam = इष्टं फलम् "el fruto deseado (por ejemplo, el fruto de las acciones)"
-
-    Si en este caso la partícula api (अपि) sigue al PPP, api tiene el significado de "aunque":
-
-    Ejemplo:
-    * iṣṭamapi phalaṃ na labhate = इष्टमपि फलं न लभते = "Aunque desea el fruto, no lo obtiene."
-
-3. El neutro singular del PPP de cualquier verbo también puede emplearse como abstracto verbal:
-
-    Ejemplos:
-    * gata n. = गत : "el ir, el caminar"
-    * nṛtta n. = नृत्त : "el bailar, el baile"
-
-::::
-
----
-
-## 13.3. Determinantes atributivas de sustantivos (orden de las palabras)
-
-:::: grammar-box
-
-Los atributos (modificadores) en la prosa siguen el orden de palabras habitual y se colocan antes de la palabra que especifican. Los atributos adjetivos concuerdan con el sustantivo en número, caso y género:
+Casi todas las raíces en -d forman el PPP en -na-. En este caso, -d-n- se reemplaza por -n-n-, lo cual no ocurre en el sandhi de palabras, sino que es una imitación del sandhi de oración.
 
 Ejemplo:
-* sādhur iṣṭaṃ phalaṃ paśyati = साधुरिष्टं फलं पश्यति = "Un santo ve el fruto deseado (de sus obras)."
+pad 4 Ā PPP: panna 3 = पन्न
+
+:::
+
+---
+
+## 13.2. Más sobre el uso del PPP
+
+:::: grammar-box
+
+1. El PPP de verbos con el significado de "pensar", "desear", "conocer", "saber", "adorar" así como de otros verbos marcados en el Dhātupāṭha, el índice de raíces de Pāṇini, con ñi, no solo tiene significado de pasado, sino que también puede usarse con significado presente:
+
+    por ejemplo:
+
+    ::: indent
+    इष्ट "deseado" (es decir, no solo deseado en el pasado, sino también en el presente)
+
+    त्वरित "apresurado, veloz" (PPP de tvar 1 Ā "apresurarse"; Dhātupāṭha: ñitvárā)
+    :::
+
+2. El PPP puede usarse como adjetivo atributivo:
+
+    por ejemplo:
+
+    ::: indent
+    इष्टं फलम् "la fruta deseada (por ejemplo, la de las acciones)"
+    :::
+
+    Si en este caso अपि sigue al PPP, अपि tiene el significado "aunque":
+
+    por ejemplo:
+
+    ::: indent
+    इष्टमपि फलं न लभते = "Aunque el que desea la fruta no la obtiene."
+    :::
+
+3. El neutro singular del PPP de cualquier verbo también puede usarse como un abstracto verbal:
+
+    por ejemplo:
+
+    ::: indent
+    गत n.: "el ir, el andar"
+
+    नृत्त n.: "el bailar, el baile"
+    :::
+
+::::
+
+---
+
+## 13.3. Determinantes atributivas de los nombres (orden de las palabras)
+
+:::: grammar-box
+
+Los atributos (adjuntos) en la prosa se colocan en el orden normal de las palabras antes de la palabra que especifican. Los atributos adjetivos concuerdan con el nombre en número, caso y género:
+
+Ejemplo:
+
+::: indent
+साधुरिष्टं फलं पश्यति = "Un santo ve el fruto deseado (de sus obras)."
+:::
 
 ::::
 
@@ -69,24 +86,28 @@ Ejemplo:
 
 :::: grammar-box
 
-Mediante los sufijos taddhita -mant y -vant se forman adjetivos posesivos a partir de sustantivos. Su significado es: «que posee lo designado por el sustantivo subyacente».
+Mediante los sufijos taddhita -mant o -vant se forman adjetivos posesivos a partir de nombres. Su significado es: "que posee lo designado por el nombre subyacente".
 
--vant se añade a sustantivos cuyo último o penúltimo sonido sea a, ā o m, así como a sustantivos que terminan en una consonante oclusiva; a otros sustantivos se añade generalmente -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
 
 Ejemplos:
-* paśumant = पशुमन्त् «que posee ganado»
-* guṇavant = गुणवन्त् «que posee buenas cualidades / virtud»
+
+::: indent
+पशुमन्त् "que posee ganado"
+
+गुणवन्त् "que posee buenas cualidades / virtud"
+:::
 
 ::::
 
 ---
 
-## 13.5. Flexión de la raíz de los sustantivos
+## 13.5. Descenso de la raíz de los nombres
 
-Las raíces en *-mant* y *-vant* pertenecen a los sustantivos con flexión de la raíz.
+Las raíces en -mant o -vant pertenecen a los nombres con descenso de raíz.
 
 ::: grammar-box
-En los sustantivos con flexión de la raíz, se distingue entre casos fuertes (casus fortis) y casos débiles (casus debilis). En los casos fuertes, el sufijo formador de la raíz —en el caso de los sustantivos radicales, la parte radical de la raíz— presenta la etapa alta (guṇa) o la etapa prolongada (vṛddhi); en los casos débiles, presenta la etapa baja (zero-grade).
+En los nombres con descenso de raíz, se distingue entre casos fuertes (casos) y casos débiles. En los casos fuertes, el sufijo formador de la raíz —en el caso de los nombres radicales, el componente radical— tiene el grado alto o el grado alargado; en los casos débiles, el grado bajo.
 :::
 
 **Los casos fuertes son:**
@@ -99,206 +120,159 @@ En los sustantivos con flexión de la raíz, se distingue entre casos fuertes (c
 **Todos los demás casos son débiles.**
 
 ::: grammar-box
-Como primer miembro de un compuesto, un sustantivo con flexión de la raíz aparece en la forma de la raíz débil (en el caso de los sustantivos de tres etapas, en la llamada etapa media).
+Como prefijo de un compuesto, un nombre con descenso de raíz aparece en la raíz débil (en el caso de los nombres de tres raíces, en la llamada raíz media).
 :::
 
-
 ---
 
-## 13.6. Sobre el sandhi de palabras
+## 13.6. Sobre el Sandhi de palabras
 
-Para comprender las formas individuales de la declinación de los sustantivos terminados en -mant y -vant, son necesarias las siguientes reglas del sandhi de palabras:
+Para comprender las formas individuales de la declinación de los nombres terminados en -mant y -vant, son necesarias las siguientes leyes del sandhi de palabras:
 
 :::: grammar-box
 
-1. Número de consonantes finales de una palabra: Si una palabra termina en dos o más consonantes, solo se conserva la primera consonante; las demás se eliminan. Se permite la combinación -r- + consonante.
+1. Número de consonantes finales de una palabra: De dos o más consonantes con las que una palabra terminaría, solo se conserva la primera consonante; las demás se eliminan. Se permite la combinación -r- + consonante.
 
-2. Una oclusiva sorda se reemplaza por su correspondiente oclusiva sonora cuando va delante de una oclusiva sonora (que no sea nasal):
+2. Una oclusiva sorda se reemplaza por la oclusiva sonora correspondiente ante una oclusiva sonora (no nasal):
 
     Ejemplos:
-    * -t + bh- » -d-bh- द्भ्
-    * -k + bh- » -g-bh- ग्भ्
-    * -c + bh- » -g-bh- ग्भ्
-    * -c + dh- » -g-dh- ग्ध्
+
+    ::: indent
+    -t + bh- » -d-bh- द्भ्
+
+    -k + bh- » -g-bh- ग्भ्
+
+    -c + bh- » -g-bh- ग्भ्
+
+    -c + dh- » -g-dh- ग्ध्
+    :::
 
 ::::
 
 ---
 
-## 13.7. Terminaciones casuales de las raíces consonánticas
+## 13.7. Desinencias casuales de las raíces consonánticas
 
-:::: grammar-box
+::: grammar-box
 
 En el caso de las raíces que terminan en consonante:
-* La terminación del acusativo (dvitīyā) en plural, masculino y femenino, es -as.
-* En las raíces de formación regular, el neutro en nominativo (prathamā) y acusativo (dvitīyā) singular carece de terminación.
-* En las raíces de formación regular, en neutro, la terminación del nominativo y acusativo en plural es -i.
+* la desinencia del acusativo (dvitīyā) en plural, masculino y femenino, es -as.
+* en las raíces de formación regular, el neutro en nominativo (prathamā) y acusativo (dvitīyā) singular carece de desinencia.
+* en las raíces de formación regular, en el neutro, la desinencia del nominativo y acusativo en plural es -i.
 
-::::
+:::
 
 ---
 
 ## 13.8. Declinación de las raíces en -mant y -vant
 
-:::: grammar-box
+::: grammar-box
 
-* raíz fuerte: Sustantivo + -mant- / -vant-
-* raíz débil: Sustantivo + -mat- / -vat- (de: *-mnt- / *-vnt-)
+* raíz fuerte: sustantivo + -mant- / -vant-
+* raíz débil: sustantivo + -mat- / -vat- (de: *-mnt- / *-vnt-)
 
-
-  
-    
-      
-      Masculino पुंस्
-      Neutro नपुंसक
-    
-  
-  
-    
-      Singular एकवचन
-      Nominativo प्रथमा
-      paśu-mān पशुमान्
-      guṇa-vān गुणवान्
-      paśu-mat पशुमत्
-      guṇa-vat गुणवत्
-    
-    
-      
-      Acusativo द्वितीया
-      paśu-mant-am पशुमन्तम्
-      guṇa-vant-am गुणवन्तम्
-      paśu-mat पशुमत्
-      guṇa-vat गुणवत्
-    
-    
-      
-      Instrumental तृतीया
-      paśu-mat-ā पशुमता
-      guṇa-vat-ā गुणवता
-      paśu-mat-ā पशुमता
-      guṇa-vat-ā गुणवता
-    
-      
-      Plural बहुवचन
-      Nominativo प्रथमा
-      paśu-mant-as पशुमन्तस्
-      guṇa-vant-as गुणवन्तस्
-      paśu-mant-i पशुमन्ति
-      guṇa-vant-i गुणवन्ति
-    
-    
-      
-      Acusativo द्वितीया
-      paśu-mat-as पशुमतस्
-      guṇa-vat-as गुणवतस्
-      paśu-mant-i पशुमन्ति
-      guṇa-vant-i गुणवन्ति
-    
-    
-      
-      Instrumental तृतीया
-      paśu-mad-bhis पशुमद्भिस्
-      guṇa-vad-bhis गुणवद्भिस्
-      paśu-mad-bhis पशुमद्भिस्
-      guṇa-vad-bhis गुणवद्भिस्
-    
-  
-
+| | | Masculino || Neutro ||
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| Singular[[br]]एकवचन | Nominativo[[br]]प्रथमा | paśu-mān[[br]]पशुमान् | guṇa-vān[[br]]गुणवान् | paśu-mat[[br]]पशुमत् | guṇa-vat[[br]]गुणवत् |
+| | Acusativo[[br]]द्वितीया | paśu-mant-am[[br]]पशुमन्तम् | guṇa-vant-am[[br]]गुणवन्तम् | paśu-mat[[br]]पशुमत् | guṇa-vat[[br]]गुणवत् |
+| | Instrumental[[br]]तृतीया | paśu-mat-ā[[br]]पशुमता | guṇa-vat-ā[[br]]गुणवता | paśu-mat-ā[[br]]पशुमता | guṇa-vat-ā[[br]]गुणवता |
+| Plural[[br]]बहुवचन | Nominativo[[br]]प्रथमा | paśu-mant-as[[br]]पशुमन्तस् | guṇa-vant-as[[br]]गुणवन्तस् | paśu-mant-i[[br]]पशुमन्ति | guṇa-vant-i[[br]]गुणवन्ति |
+| | Acusativo[[br]]द्वितीया | paśu-mat-as[[br]]पशुमतस् | guṇa-vat-as[[br]]गुणवतस् | paśu-mant-i[[br]]पशुमन्ति | guṇa-vant-i[[br]]गुणवन्ति |
+| | Instrumental[[br]]तृतीया | paśu-mad-bhis[[br]]पशुमद्भिस् | guṇa-vad-bhis[[br]]गुणवद्भिस् | paśu-mad-bhis[[br]]पशुमद्भिस् | guṇa-vad-bhis[[br]]गुणवद्भिस् |
 
 Femenino:
 
-La raíz femenina de las raíces en -mant- y -vant- termina en -mat-ī o -vat-ī. La declinación sigue el modelo de devī, es decir, no hay ablaut (gradación vocálica) de la raíz.
+La raíz femenina de las raíces en -mant- y -vant- termina en -mat-ī o -vat-ī. La declinación sigue el modelo de devī, es decir, no hay ablaut de raíz.
 
 Ejemplo:
-* paśumatī, guṇavatī (पशुमती गुणवती)
+* paśumatī, guṇavatī पशुमती गुणवती
 
-::::
+:::
 
 ---
 
-## 13.9. Lista de vocabulario
+## 13.9. Lista de palabras
 
 Aprenda las siguientes palabras:
 
-* eva (एव) : enfatiza la palabra precedente
-* asura m. (असुर) : demonio
+- **eva** एव : enfatiza la palabra anterior
+- **asura** m. असुर : demonio
 
-**ASURA.** 'Espiritual, divino.'
-
-En las partes más antiguas del Ṛgveda, este término se utiliza para referirse al espíritu supremo, y es lo mismo que el Ahura de los zoroastrianos. En el sentido de 'dios', se aplicó a varias de las deidades principales, como Indra, Agni y Varuṇa. Posteriormente adquirió un significado completamente opuesto, y pasó a significar, como ahora, un demonio o enemigo de los dioses.
-
-Se encuentra esta palabra con esta significación en las partes posteriores del Ṛgveda, particularmente en el último libro, y también en el Atharvaveda. Los Brāhmaṇas le atribuyen el mismo significado y registran numerosos conflictos entre los Asuras y los dioses. Según el Taittirīya Brāhmaṇa, el aliento *(asu)* de Prajapati cobró vida, y "con ese aliento creó a los Asuras". En otra parte de la misma obra se dice que Prajāpati "quedó embarazado. Creó a los Asuras de su abdomen". El Śatapatha Brāhmaṇa coincide con la primera afirmación y establece que "creó a los Asuras de su aliento inferior". El Taittirīya Āraṇyaka representa que Prajāpati creó dioses, hombres, padres, Gandharvas y Apsarases a partir del agua, y que los Asuras, Rakṣasas y piśācas surgieron de las gotas que se derramaron. La afirmación de Manu es que fueron creados por los Prajāpatis.
-
-Según el Viṣṇu Purāṇa, fueron producidos desde la ingle de Brahma (prajāpati). El relato del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos desde su (de Prajāpati) ingle. *Asu* es declarado por los Brāhmaṇas como significado de aliento. De él fueron producidos estos seres; por eso son Asuras". La palabra ha sido utilizada durante mucho tiempo como nombre general para los enemigos de los dioses, incluidos los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluye a los Rakṣasas descendientes de Pulastya.
-
-En este sentido, se ha encontrado una derivación diferente para ella: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios'; por lo tanto, según algunos, surgió la palabra *sura*, comúnmente utilizada para 'un dios'."
-
-[Fuente: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
-
-::: center
+> **ASURA.** 'Espiritual, divino.'
+&gt;
+> En las partes más antiguas del Ṛgveda, este término se utiliza para el espíritu supremo, y es lo mismo que el Ahura de los zoroastrianos. En el sentido de 'dios', se aplicó a varias de las deidades principales, como Indra, Agni y Varuṇa. Posteriormente adquirió un significado completamente opuesto, y pasó a significar, como ahora, un demonio o enemigo de los dioses.
+&gt;
+> La palabra se encuentra con esta significación en las partes posteriores del Ṛgveda, particularmente en el último libro, y también en el Atharvaveda. Los Brāhmaṇas le atribuyen el mismo significado, y registran muchos conflictos entre los Asuras y los dioses. Según el Taittirīya Brāhmaṇa, el aliento *(asu)* de Prajapati se volvió vivo, y "con ese aliento creó a los Asuras". En otra parte de la misma obra se dice que Prajāpati "quedó embarazado. Creó Asuras de su abdomen". El Śatapatha Brāhmaṇa coincide con la declaración anterior, y afirma que "creó Asuras de su aliento inferior". El Taittirīya Āraṇyaka representa que Prajāpati creó dioses, hombres, padres, Gandharvas y Apsarases del agua, y que los Asuras, Rakṣasas y piśācas surgieron de las gotas que se derramaron. La declaración de Manu es que fueron creados por los Prajāpatis.
+&gt;
+> Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). La cuenta del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (Prajāpati) vientre. *Asu* es declarado por el Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras". La palabra ha sido utilizada durante mucho tiempo como un nombre general para los enemigos de los dioses, incluyendo a los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo a los Rakṣasas descendientes de Pulastya.
+&gt;
+> En este sentido, se ha encontrado una derivación diferente para ella: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios;' de ahí, según algunos, surgió la palabra *sura*, comúnmente utilizada para 'un dios'."
+&gt;
+> [Fuente: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
-![]/images/lekt1301.jpg
-Fig.: महिषासुरः,
-(Fuente de la imagen: [Detalles](/licenses#lekt1301))
-:::
+![](/images/lekt1301.jpg)
+Fig.: महिषासुरः
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1301))
 :::
 
-* guṇa m. (गुण) : hilo, cuerda; cualidad, buena cualidad
-* pad 4 Ā (padyate), Pas.: padyate, PPP panna (पद् पद्यते पद्यते पन्न) : ir, entrar en
-* as 2 P (asti) (अस् अस्ति) : ser, estar presente
-* as 4 P (asyati), Pas.: asyate, PPP asta (अस् अस्यति अस्यते अस्त) : lanzar, arrojar (lejos)
-* i 2 P (eti), Pas.: īyate, PPP ita (इ एति ईयते इत) : ir
-* pā 2 P (pāti), Pas. pāyate, PPP pāta (पा पाति पायते पात) : proteger, guardar
-* pā 1 P (pibati), Pas. pīyate, PPP pīta (पा पिबति पीयते पीत) : beber (tradicionalmente clasificado en la 1.ª clase)
-* dviṣ 2 U (dveṣṭi), Pas. dviṣyate, PPP dviṣṭa (द्विष् द्वेष्टि द्विष्यते द्विष्ट) : odiar, hostilizar
-* ad 2 P (atti), Pas. adyate, PPP anna (अद् अत्ति अद्यते अन्न) : comer, consumir
-* anna n. (अन्न) : comida (derivada del PPP: *ad-na: lo comido)
+- **guṇa** m. गुण : hilo, cuerda; propiedad, buena propiedad
+- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna पद् पद्यते पद्यते पन्न : ir, caer en
+- **as** 2 P (asti) अस् अस्ति : ser, estar presente
+- **as** 4 P (asyati), Pass.: asyate, PPP asta अस् अस्यति अस्यते अस्त : lanzar, (arrojar lejos)
+- **i** 2 P (eti), Pass.: īyate, PPP ita इ एति ईयते इत : ir
+- **pā** 2 P (pāti), Pass. pāyate, PPP pāta पा पाति पायते पात : proteger, guardar
 
-::: center
+::: indent
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta पा पिबति पीयते पीत : beber (traditionally counted as class 1)
+:::
+
+- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa द्विष् द्वेष्टि द्विष्यते द्विष्ट : odiar, hostilizar
+- **ad** 2 P (atti), Pass. adyate, PPP anna अद् अत्ति अद्यते अन्न : comer, consumir
+- **anna** n. अन्न : comida (del PPP: *ad-na: lo comido)
 
 ::: media
-![]/images/lekt1304.jpg
-Fig.: अन्नम्,
-(Fuente de la imagen: [Detalles](/licenses#lekt1304))
-:::
+![](/images/lekt1304.jpg)
+Fig.: अन्नम्
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1304))
 :::
 
 Formación de palabras:
 
 pad 4 Ā:
-* pada n. (पद) : paso, lugar, sitio
-* pāda m. (पाद) : pie, una cuarta parte, verso
 
-::: center
+::: indent
+**pada** n. पद : paso, lugar, sitio
+
+**pāda** m. पाद : pie, una cuarta parte, línea de verso
+:::
 
 ::: media
-![]/images/lekt1303.jpg
-Fig.: चत्वारः पादाः : गजः)
-(Fuente de la imagen: [Detalles](/licenses#lekt1303))
-:::
+![](/images/lekt1303.jpg)
+Fig.: चत्वारः पादाः : गजः
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1303))
 :::
 
 dviṣ 2 U:
-* dveṣa (द्वेष) : odio
+
+::: indent
+**dveṣa** द्वेष : odio
+:::
 
 ---
 
 ## 13.10. Ejercicio
 
-A) Traduzca y transforme en oraciones en presente activo:
+A) Traduzca y convierta en oraciones en presente activo:
 
 १. अग्निना गृहं दग्धम् ।
 २. बुद्धेन सत्यं बुद्धम् ।
 ३. बोध्या गौतमो मुक्तः ।
 
-::: center
-
 ::: media
-![]/images/lekt1305.jpg
-Fig.: अत्र गौतमो बुद्धो बोध्या मुक्तः)
-(Fuente de la imagen: [Detalles](/licenses#lekt1305))
-:::
+![](/images/lekt1305.jpg)
+Fig.: अत्र गौतमो बुद्धो बोध्या मुक्तः
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1305))
 :::
 
 ४. शूद्रा मूढाः । (2 posibilidades)
@@ -310,7 +284,7 @@ Fig.: अत्र गौतमो बुद्धो बोध्या मु�
 १०. मन्त्रेण मोक्षो लब्धः ।
 ११. कया रक्षिकयेयं बाला रक्षिता ॥
 
-B) Traduzca y transforme en oraciones en pasado pasivo:
+B) Traduzca y convierta en oraciones en voz pasiva en pasado:
 
 १. राम इष्टमपि मोक्षं न लभते ।
 २. योद्धा न मुञ्चति ।
@@ -350,20 +324,17 @@ A) Traduzca las siguientes oraciones:
 १३. कां देवतामृषिः पश्यति ।
 १४. कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।
 
-B) Conjugue las oraciones del Ejercicio A) en voz pasiva.
+B) Convierta las oraciones del ejercicio A) a voz pasiva.
 
-C) Forme una construcción con Participio de Pasado Pasivo (PPP) para las oraciones del Ejercicio A).
-
-::: center
+C) Forme una construcción de participio pasado pasivo (PPP) para las oraciones del ejercicio A).
 
 ::: media
-![]/images/lekt1302.jpg
-Fig.: सत्यमेव जयते)
-(Fuente de la imagen: [Detalles](/licenses#lekt1302))
-:::
+![](/images/lekt1302.jpg)
+Fig.: सत्यमेव जयते
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1302))
 :::
 
-D) ¿De qué combinaciones de sonidos pueden haber originado las siguientes formas de Sandhi? Indique todas las posibilidades:
+D) ¿De qué combinaciones de sonidos pueden haber surgido las siguientes formas de Sandhi? Indique todas las posibilidades:
 
 1. -a ante vocal (excepto a-)
 2. -ā-
@@ -409,12 +380,12 @@ E) Traduzca al sánscrito:
 
 1. La diosa estaba enfadada.
 2. Los śūdras han llegado a un cielo.
-3. Los campesinos han recorrido el camino.
-4. Por la doctrina budica fueron liberadas las personas.
+3. Los agricultores han recorrido el camino.
+4. Las personas fueron liberadas por la enseñanza de Buda.
 5. El hijo bailó.
 6. El amuleto protegió al maestro.
 7. Un brahmán no dijo una mentira.
-8. Las mujeres śūdra veneraron a la diosa con ofrendas.
+8. Las mujeres śūdra honraron a la diosa con ofrendas.
 9. Buda despertó a la verdad = Buda ha reconocido la verdad.
 10. Los sabios védicos han escuchado la Śruti.
-11. Los sacerdotes sacrificadores han exprimido el soma.
+11. Los sacerdotes sacrificiales han exprimido el soma.

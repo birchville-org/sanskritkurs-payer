@@ -1,76 +1,74 @@
 ---
+title: Lezione 22
+subtitle: "L'Assolutivo (क्त्वा । ल्यप्)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 22
 
-## 22.1. L’Assolutivo (क्त्वा । ल्यप्)
+## 22.1. L'ablativo assoluto (क्त्वा । ल्यप्)
 
-:::: grammar-box
+::: grammar-box
 
-Se si desidera esprimere in sanscrito che un’azione dell’Agente (कर्तृ) precede un’altra azione dell’Agente o ne costituisce una circostanza concomitante, si utilizza l’Assolutivo (क्त्वा । ल्यप्). Cioè
+Se si vuole esprimere in sanscrito che un'azione dell'agente (कर्तृ) precede un'altra azione dell'agente o avviene come circostanza concomitante, si usa l'ablativo assoluto (क्त्वा । ल्यप्). Quindi
 
-::: indent
-"avendo fatto ciò, egli fa quello"; "egli fa ciò, poi fa quello"; "a seguito di ciò, egli fa quello"; "io venni, vidi e trionfai" e simili.
-:::
+"dopo aver fatto ciò, fa quello"; "fa ciò, poi fa quello"; "in conseguenza di questo fa quello"; "sono venuto, ho visto e ho vinto" ecc.
 
-L’Assolutivo è un avverbio verbale, ovvero non è né coniugabile né declinabile; tuttavia, con poche eccezioni, esso condivide sempre lo stesso Agente (कर्तृ) dell’azione principale alla quale l’azione espressa dall’Assolutivo precede o accompagna. L’Agente dell’Assolutivo si trova quindi nel Nominativo (प्रथमा) o nello Strumentale (तृतीया).
+L'ablativo assoluto è un avverbio verbale, cioè non è né coniugabile né declinabile, ma ha sempre — con poche eccezioni — lo stesso agente (कर्तृ) dell'azione alla quale l'azione indicata dall'ablativo assoluto precede o accompagna. L'agente dell'ablativo assoluto è quindi nel nominativo (प्रथमा) o strumentale (तृतीया).
 
-Oltre ai composti, l’Assolutivo è uno dei mezzi espressivi più frequenti nel sanscrito.
+Oltre ai composti, l'ablativo assoluto è uno dei mezzi espressivi più frequenti nel sanscrito.
 
-Nella traduzione in tedesco, si eviti di ripetere costantemente "dopo che" (nachdem); si utilizzino invece le espressioni temporali abitualmente impiegate nella lingua tedesca.
+Nella traduzione in tedesco si eviti di dire costantemente "dopo che". Si usino invece le espressioni comuni in tedesco per l'ordine temporale.
 
 **Schema:**
 
-::: indent
-(determinazione specifica dell’Assolutivo: complemento circostanziale, oggetto, ecc.) - Assolutivo - Assolutivo - ... - Assolutivo - ... Agente + proposizione verbale (in attivo o passivo)
-:::
+(determinazione specifica dell'ablativo assoluto: circostanza, oggetto ecc.) - ablativo assoluto - ablativo assoluto - ... - ablativo assoluto - ... Agente + proposizione verbale (in attivo o passivo)
 
-::::
+:::
 
 **Esempi:**
 
 ::: indent
-**गृहं प्रविश्य बालां दृष्ट्वा नरो वदति** = Costruzione passiva: **गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते**  
-"L’uomo entra nella casa, vede la bambina e le parla."
+**गृहं प्रविश्य बालां दृष्ट्वा नरो वदति** = costruzione passiva: **गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते**  
+"L'uomo entra nella casa, vede la bambina e le parla."
 
 Plurale: **गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।**
 :::
 
-## 22.2. Formazione dell’Assolutivo
+## 22.2. Formazione dell'assolutivo
 
 ::: grammar-box
-**Formazione dell’Assolutivo**
+**Formazione dell'assolutivo**
 
-*   Verbi senza prefisso: Assolutivo in **-tvā**
-*   Verbi con prefisso: Assolutivo in **-ya** o **-tya**
+*   Verbi senza prefisso: assolutivo in **-tvā**
+*   Verbi con prefisso: assolutivo in **-ya** o **-tya**
 :::
 
 ### 22.2.1. Verbi privi di prefisso: Assolutivo in -त्वा
 
-:::: grammar-box
+::: grammar-box
 
 **Formazione:**
 
-::: indent
-(radice) prevalentemente in grado profondo (guṇa zero), nella forma che essa assume prima del participio passato (PPP), + **-tvā** (**-त्वा**)
+(maggiormente) radice di grado ridotto nella forma che precede il PPP + **-tvā** (**-त्वा**)
+
+Solo la negazione **a-** / **an-** tollera il suffisso **-त्वा** : **अकृत्वा** "senza aver fatto"
+
 :::
-
-Solo la negazione **a-** / **an-** è compatibile con il suffisso **-त्वा**: **अकृत्वा** "senza aver fatto"
-
-::::
 
 **Esempi:**
 
 ::: indent
-**आप्त्वा** "dopo che egli/ella/esso/io/tu/essi/noi/voi/loro (dual) ha/hanno raggiunto"
+**आप्त्वा** "dopo che egli / ella / esso / io / tu / noi / voi / essi / noi due / voi due / essi due ha / aveva / hanno / avevano raggiunto"
 
 **आसित्वा** "dopo che egli (...) era seduto / è seduto"
 
 **इत्वा** "dopo che egli (...) era andato / è andato"
 
-**स्थित्वा** "dopo che egli (...) era rimasto in piedi / è rimasto in piedi"
+**स्थित्वा** "dopo che egli (...) era stato in piedi / è stato in piedi"
 
 **जित्वा** "dopo che egli (...) ha vinto / aveva vinto"
 
@@ -81,96 +79,87 @@ Solo la negazione **a-** / **an-** è compatibile con il suffisso **-त्व�
 
 #### 22.2.2.1. Radici con vocale lunga (tranne -ā) o con consonante finale
 
-:::: grammar-box
+::: grammar-box
 
-::: indent
-radice (di solito) in grado debole + **-ya**
+**(di solito) radice in grado basso + -ya**
+
 :::
-
-::::
 
 **Esempi:**
 
 ::: indent
-**उपनीय** "dopo aver (...) condotto qui / aveva condotto"
+**उपनीय** "dopo che (...) ha condotto / aveva condotto"
 
-**प्रभूय** "dopo essere (...) emerso / era emerso" "dopo aver (...) avuto potere"
+**प्रभूय** "dopo che (...) è emerso / era emerso" "dopo che (...) ha avuto potere"
 
-**प्राप्य** "dopo aver (...) ottenuto / aveva ottenuto"
+**प्राप्य** "dopo che (...) ha ottenuto / aveva ottenuto"
 :::
 
-#### 22.2.2.2. Radici con finale -ā
+#### 22.2.2.2. Radici con -ā
 
-:::: grammar-box
+::: grammar-box
 
-::: indent
-radice in grado forte invariata + **-ya**
+**radice in grado alto invariata + -ya**
+
 :::
-
-::::
 
 **Esempio:**
 
 ::: indent
-**उपस्थाय** "dopo essere (...) rimasto in piedi / era rimasto in piedi"; (ma senza prefisso: **स्थित्वा**)
+**उपस्थाय** "dopo che (...) è entrato / era entrato" ; (ma senza prefisso: **स्थित्वा**)
 :::
 
-#### 22.2.2.3. Radici che nel grado debole finiscono con -i, -u, -ṛ breve
+#### 22.2.2.3. Radici che nel grado basso terminano con -i, -u, -ṛ breve
 
-:::: grammar-box
+::: grammar-box
 
-::: indent
-radice in grado debole + **-tya**
+**radice in grado basso + -tya**
+
 :::
-
-::::
 
 **Esempi:**
 
 ::: indent
-**प्रस्तुत्य** "dopo aver (...) lodato ad alta voce / aveva lodato ad alta voce"
+**प्रस्तुत्य** "dopo che (...) ha lodato ad alta voce / aveva lodato ad alta voce"
 
-**विस्मृत्य** "dopo aver (...) dimenticato / aveva dimenticato"
+**विस्मृत्य** "dopo che (...) ha dimenticato / aveva dimenticato"
 
-**संस्कृत्य** "dopo aver (...) preparato per il sacrificio / aveva preparato per il sacrificio"
+**संस्कृत्य** "dopo che (...) ha preparato per il sacrificio / aveva preparato per il sacrificio"
 :::
 
-#### 22.2.2.4. Radici con finale -am / -an, che nel grado debole finiscono con -a
+#### 22.2.2.4. Radici con -am / -an, che nel grado basso terminano con -a
 
-:::: grammar-box
+::: grammar-box
 
 **Opzionale:**
 
-::: indent
-radice con finale **-am** / **-an** + **-ya**
-:::
+Radice con **-am** / **-an** + **-ya**
 
 oppure:
 
-::: indent
-radice con finale **-a** + **-tya**
-:::
+Radice con **-a** + **-tya**
 
-::::
+:::
 
 **Esempio:**
 
 ::: indent
-**विगम्य** oppure **विगत्य** "dopo essere (...) passato / era passato"
+**विगम्य** oppure **विगत्य** "dopo che (...) è passato / era passato"
 :::
 
-## 22.3. Elenco lessicale
+## 22.3. Elenco di parole
 
 **काम m.:** desiderio, brama; dono desiderato, piacere sensuale, amore, dio dell'amore
 
 ::: indent
-**कामम्** Acc. avverbiale: a proprio piacimento, a volontà
+**कामम्** Acc. avverbialmente: a proprio piacimento, a proprio agio
 :::
 
 ::: media
 ![](/images/lekt2202.jpg)
 Fig.: कामदेवः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2202))
+Secolo XIX
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2202))
 :::
 
 
@@ -179,49 +168,51 @@ Fig.: कामदेवः
 da ciò:
 
 ::: indent
-**शक्ति f.:** la capacità, la facoltà, l'abilità, la forza; anche: forza divina, personificata come compagna femminile, in particolare di **शिव**
+**शक्ति f.:** capacità, potere, abilità, forza; anche: forza divina, personificata come compagna femminile in particolare di **शिव**
 
-**शक्र m.:** il Potente (epiteto di **इन्द्र**)
+**शक्र m.:** il potente (epiteto di **इन्द्र**)
 :::
 
 ::: media
 ![](/images/lekt2203.jpg)
 Fig.: दुर्गाशक्तिः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2203))
+Kolkatta = কলকাতা
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2203))
 :::
 
 
-**अर्ह 1 P  अर्हति Pass.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** meritare qualcosa (essere degno di qualcosa), dovere, essere obbligato a, dovere (nella seconda persona, **अर्ह्** + infinito è spesso usato come comando attenuato: "Dovresti")
+**अर्ह 1 P  अर्हति Pass.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** meritare qualcosa (essere degno di qualcosa), avere il diritto, essere obbligato a, dovere (nella seconda persona **अर्ह्** + infinito è spesso usato come un ordine mitigato: "Dovresti")
 
 ::: indent
-**अर्हन्त् 3** Part. Pres. P: un degno. Nel Buddhismo e nel Giainismo: colui che ha raggiunto la liberazione definitiva
+**अर्हन्त् 3** Part. Pres. P: un degno. Nel Buddhismo e nel Giainismo: qualcuno che ha raggiunto la liberazione finale
 :::
 
-**व्रत n.:** voto, obbligo religioso, pratica religiosa (si promette qualcosa alla divinità per ottenere qualcosa in cambio. Esempio: una madre promette di dedicare sua figlia come prostituta sacra (**देवदासी**) se sua figlia guarirà. Importanti **व्रत** oggi: digiuno; astensione da cibi amati; astinenza sessuale; lettura di scritture sacre; esecuzione di specifici riti; distribuzione di cibo ai Bramini, ecc. Breve panoramica sui **व्रत**: Walker, *Hindu World* Vol. II, pp. 581s. Approfondimento: P. V. Kane: *History of Dharmaśāstra* Vol. 5,1 pp. 1 - 462. Lì, pp. 253 - 462 elenco di **व्रत** e festività religiose ("il seguente elenco ... non pretende di essere esaustivo" !!!)
+**व्रत n.:** voto, dovere religioso, osservanza religiosa (si promette qualcosa alla divinità per ottenere qualcosa da lei. Esempio: una madre promette di dedicare sua figlia come prostituta sacra (**देवदासी**) se sua figlia si ammalerà di nuovo. Importanti **व्रत** oggi: digiuno; astinenza da cibi amati; astinenza sessuale; lettura di scritture sacre; esecuzione di certi riti; nutrizione di brahmani e simili. Breve sui **व्रत**: Walker, Hindu World Vol. II, pag. 581ss. Dettagliato: P. V. Kane: History of Dharmaśāstra Vol. 5,1 pag. 1 - 462. Lì pag. 253 - 462 elenco di **व्रत** e feste religiose ("il seguente elenco ... non pretende di essere completamente esaustivo" !!!)
 
-**चर् 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: चर् 1 P चरति Pass.  चर्यते PPP  चरित Inf.  चरितुम्) :** pascolare, vagare, agitarsi, muoversi, agire, esercitare, compiere (ad es. **व्रतं चर्**: praticare un voto, in particolare l'astinenza sessuale)
+**चर् 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: चर् 1 P चरति Pass.  चर्यते PPP  चरित Inf.  चरितुम्) :** pascolare, vagare, agitarsi, muoversi, agire, esercitare qualcosa, compiere (ad esempio **व्रतं चर्**: praticare un voto, in particolare l'astinenza sessuale)
 
 da ciò:
 
 ::: indent
-**चर ३:** mobile; n.: ciò che è mobile = animali (in contrasto con le piante)
+**चर ३:** mobile; n.: il mobile = animali (in contrasto con le piante)
 
 **चरण n., m.:** piede
 
-**चरित n.:** condotta di vita, gesta
+**चरित n.:** stile di vita, azioni della vita
 
-**ब्रह्मचर्य n.:** pratica del Veda (**ब्रह्मन्**) = studio del Veda nella prima fase della vita (quella del **ब्रह्मचारिन्**), che richiede stretta astinenza sessuale; quindi anche: astinenza sessuale, stile di vita casto
+**ब्रह्मचर्य n.:** esecuzione del Veda (**ब्रह्मन्**) = studio del Veda nel primo stadio della vita (quello dello **ब्रह्मचारिन्**), che richiede una rigorosa astinenza sessuale; quindi anche: astinenza sessuale, stile di vita celibataro
 :::
 
 ::: media
 ![](/images/lekt2201.jpg)
 Fig.: धेनवश्चरन्ति
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2201))
+Goa = गोंय
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2201))
 :::
 
 ## 22.4. Esercizio
 
-**A) Formare e tradurre l’Assoluto (Absolutivo) per i seguenti verbi:**
+**A) Formare e tradurre l'Assolutivo per i seguenti verbi:**
 
 1.  आप्
 2.  प्राप्
@@ -260,7 +251,7 @@ Fig.: धेनवश्चरन्ति
 35.  प्रवद्
 36.  हन्
 
-**B) Tradurre e risolvere le composte (Samāsa) in Sanscrito:**
+**B) Tradurre e scomporre i composti in sanscrito:**
 
 अन्नं पक्त्वा ब्राह्मणदासो ऽत्ति ॥१॥
 
@@ -282,23 +273,21 @@ Fig.: धेनवश्चरन्ति
 
 पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥
 
-**C) Trasformare le frasi sopra (eccetto le frasi 8 e 10) in costruzioni passive**
+**C) Trasformare le frasi precedenti (tranne le frasi 8 e 10) in costruzioni passive**
 
 ::: media
 ![](/images/lekt2204.jpg)
 Fig.: अन्नं पक्त्वा
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2204))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2204))
 :::
 
 ::: deleteme-box
 
-### Fonti
+**lekt2201:** Goa = गोंय [Fonte dell'immagine: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
 
-**lekt2201:** Goa = गोंय [Fonte immagine: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accesso il 12-12-2008. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+**lekt2202:** Secolo XIX [Fonte dell'immagine: Wikipedia, dominio pubblico]
 
-**lekt2202:** XIX secolo [Fonte immagine: Wikipedia, di pubblico dominio]
+**lekt2203:** Kolkatta = কলকাতা [Fonte dell'immagine: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
 
-**lekt2203:** Kolkata = কলকাতা [Fonte immagine: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Accesso il 12-12-2008. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-**lekt2204:** [Fonte immagine: Curt Carnemark / Banca Mondiale. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Accesso il 12-12-2008. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+**lekt2204:** [Fonte dell'immagine: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
 :::

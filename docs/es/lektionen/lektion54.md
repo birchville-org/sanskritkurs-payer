@@ -30,7 +30,8 @@ Ejemplo:
 ::: media
 ![](/images/lekt5402.jpg)
 Fig.: अयुयुत्सुरर्जुनः
-(Fuente de la imagen: [Detalles](/licenses#lekt5402))
+भगवद्गीतोपदेशः Tirupati = తిరుపతి
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5402))
 :::
 
 ## 54.3. Métrica II: la épica त्रिष्टुभ् (triṣṭubh) y la जगती (jagatī)
@@ -278,12 +279,12 @@ Traduzca por escrito las siguientes formas y forme las correspondientes formas d
 ::: media
 ![](/images/lekt5401.jpg)
 Fig.: त्रिचक्रेणेश्वरः स्तूयते
-(Fuente de la imagen: [Detalles](/licenses#lekt5401))
+Tamil Nadu
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5401))
 :::
 
 ::: deleteme-box
 
-### Fuentes
 
 **lekt5402:** भगवद्गीतोपदेशः Tirupati = తిరుపతి [Fuente de la imagen: Raji Srinivas / Wikipedia. Licencia GNU FDL]
 

@@ -1,6 +1,10 @@
 ---
+title: Lektion 52
+subtitle: "Neutrum der Stämme auf -i und -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 52
@@ -88,6 +92,7 @@ z.B. अन्नमय n. "Überfluss an Speise"
 ::: media
 ![](/images/lekt5202.jpg)
 Abb.: अन्नमयम्
+विवाहः, Chennai = சென்னை
 (Bildquelle: [Details](/licenses#lekt5202))
 :::
 ### 52.2.3. तद्धित-Suffix -eya
@@ -106,6 +111,7 @@ z.B. कौन्तेय m. "Sohn der कुन्ती"
 ::: media
 ![](/images/lekt5203.jpg)
 Abb.: भीमः कौन्तेयः
+Wayang-Figur, Java, Indonesien
 (Bildquelle: [Details](/licenses#lekt5203))
 :::
 ## 52.3. Adverbialbildung: Adverbialsuffix -śas
@@ -128,6 +134,7 @@ Abb.: भीमः कौन्तेयः
 ::: media
 ![](/images/lekt5204.jpg)
 Abb.: अनुक्रमेणैकशः
+Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Bildquelle: [Details](/licenses#lekt5204))
 :::
 ## 52.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (अभुततद्भावः)
@@ -171,6 +178,7 @@ Der Auslaut des Nomens wird folgendermaßen behandelt:
 ::: media
 ![](/images/lekt5209.jpg)
 Abb.: भस्मीकृतं वनम्
+Brandrodung, Arunachal Pradesh = अरुणाचल प्रदेश
 (Bildquelle: [Details](/licenses#lekt5209))
 :::
 ### 52.4.2. Suffix -sāt
@@ -391,6 +399,7 @@ Daher darf z.B. aus उत्तरा वृक्षाः "nördliche Bäume"
 ::: media
 ![](/images/lekt5206.jpg)
 Abb.: सप्तर्षयः
+Das Siebengestirn = die sieben hellsten Sterne des Großen Bären (Ursa maior)
 (Bildquelle: [Details](/licenses#lekt5206))
 :::
 ::: grammar-box
@@ -413,6 +422,7 @@ Abb.: सप्तर्षयः
 ::: media
 ![](/images/lekt5207.jpg)
 Abb.: षण्मातुरः कार्त्तिकेय:
+Jalakandapuram = ஜலகண்டபுரம்
 (Bildquelle: [Details](/licenses#lekt5207))
 :::
 ::: grammar-box
@@ -456,6 +466,7 @@ von:
 ::: media
 ![](/images/lekt5210.jpg)
 Abb.: खिलः
+Tambhol, Akole, Ahmednagar = अहमदनगर
 (Bildquelle: [Details](/licenses#lekt5210))
 :::
 अन्तर् Adv.: innen, im Innern ; Postposition mit Gen. Lok. (षष्टी, सप्तमी): innerhalb, inmitten ; Postposition mit Gen. Abl. (षष्ठी, पञ्चमी): aus ... heraus
@@ -489,6 +500,7 @@ PPP विपरीत 3: verkehrt, falsch
 ::: media
 ![](/images/lekt5212.jpg)
 Abb.: पीडिताः
+Hyderabad = హైదరాబాద్
 (Bildquelle: [Details](/licenses#lekt5212))
 :::
 पर 3: (Deklination wie सर्व) fernstehend, fremd, höher als (पञ्चम्या), äußerster, höchster ; anderer, fremder, feindlich ; m.: Fremder
@@ -506,6 +518,7 @@ davon:
 ::: media
 ![](/images/lekt5213.jpg)
 Abb.: प्रधानः
+मुंबई
 (Bildquelle: [Details](/licenses#lekt5213))
 :::
 लौल्य n.: Gier, Lüsternheit
@@ -615,6 +628,7 @@ PPP च्युत
 ::: media
 ![](/images/lekt5214.jpg)
 Abb.: चक्रम्
+Konark = कोनार्क
 (Bildquelle: [Details](/licenses#lekt5214))
 :::
 कदली f.: Bananenbaum (_Musa_ sp.)
@@ -622,6 +636,7 @@ Abb.: चक्रम्
 ::: media
 ![](/images/lekt5208.jpg)
 Abb.: कदली
+Hampi = ಹಂಪೆ
 (Bildquelle: [Details](/licenses#lekt5208))
 :::
 सार m.n.: Kern, Mark, Essenz, Substanz
@@ -637,6 +652,7 @@ Abb.: कदली
 ::: media
 ![](/images/lekt5215.jpg)
 Abb.: मलम्
+मुंबई
 (Bildquelle: [Details](/licenses#lekt5215))
 :::
 त्रिपिष्टप n.: Indras Himmel
@@ -646,6 +662,7 @@ Abb.: मलम्
 ::: media
 ![](/images/lekt5217.jpg)
 Abb.:
+Amaravati = అమరావతి, 2. Jhdt. n. Chr.
 (Bildquelle: [Details](/licenses#lekt5217))
 :::
 विजिज्ञासु 3: jemand, der völlig erkennen will
@@ -712,6 +729,7 @@ Erklärungen:
 ::: media
 ![](/images/lekt5216.jpg)
 Abb.: अश्वत्थो महाबोधिवृक्षः
+_Ficus religiosa_ L. बोधगया, ca. 1810
 (Bildquelle: [Details](/licenses#lekt5216))
 :::
 ::: indent
@@ -794,11 +812,11 @@ Während der Semesterferien sollten folgende Aufgaben erfüllt werden:
 ::: media
 ![](/images/lekt5201.jpg)
 Abb.: श्रीगुम्पिः , मम मन्त्री
+(Bild: Payer)
 (Bildquelle: [Details](/licenses#lekt5201))
 :::
 
 ::: deleteme-box
-### Quellen
 
 **lekt5202:** विवाहः, Chennai = சென்னை [Bildquelle: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 

@@ -1,0 +1,38 @@
+
+export const rm = {
+  label: 'RM',
+  lang: 'rm',
+  link: '/rm/',
+  title: 'Cors da sanskrit',
+  description: 'Manual da grammatica dad Alois Payer',
+  themeConfig: {
+    outline: { level: [2, 3], label: 'Sin questa pagina' },
+    nav: [
+      { text: 'Pagina principala', link: '/rm/' },
+      { text: 'Cuntegn', link: '/rm/lektionen/inhaltsverzeichnis' },
+      { text: 'Indici', link: '/rm/grammatik' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
+      { text: 'Credits', link: '/rm/impressum' }
+    ],
+    docFooter: {
+      prev: 'Lecziun precedenta',
+      next: 'Proxima lecziun'
+    },
+    sidebar: [
+      { text: 'Cuntegn', link: '/rm/lektionen/inhaltsverzeichnis' },
+      { text: 'Temas da grammatica (Indici)', link: '/rm/grammatik' },
+      { text: 'Vocabulari', link: '/rm/lektionen/wortliste' },
+      { text: 'Lecziunas', collapsed: false, items: [] },
+      { text: 'Scrittira (Introducziun)', collapsed: true, items: [] },
+      { text: 'Exercizis', collapsed: true, items: [] },
+      { text: 'Infurmaziuns giuridicas', collapsed: true, items: [
+          { text: 'Impressum & citaziun', link: '/rm/impressum' },
+          { text: "Licenzas d'immagins", link: '/rm/licenses' }
+      ]}
+    ],
+    footer: {
+      message: "Part da la Global Village Library da Tüpfli",
+      copyright: 'Copyright © 2008-2010 Alois Payer'
+    }
+  }
+}

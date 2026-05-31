@@ -1,352 +1,430 @@
+---
+title: Урок 25
+subtitle: "Образование аблатива (पञ्चमी = \"пятый падежный окончание\")"
+lesson_id: 25
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 25
 
-# Lektion 25
-
-## 25.1. Образование des Отложительный падеж (पञ्चमी = "fünfte Kasusendung")
-
-Außer bei Maskulina / Neutra auf -a sowie den Pronomina sind im Singular in allen Deklinationsklassen die Formen des Ablativ (पञ्चमी) mit denen des Genetiv (षष्ठी) identisch. &lt;!-- TODO: Fallback translation --&gt;
-
-Außer bei den Personalpronomina sind in allen Deklinationen im Plural die Formen des Ablativ mit denen des Dativ (चतुर्थी) identisch. &lt;!-- TODO: Fallback translation --&gt;
-
-Jetzt erkennen Sie den Grund für die Reihenfolge der Kasus (विभक्ति) im Sanskrit: sie sind so angeordnet, dass gleichlautende Formen möglichst beieinander - bzw. untereinander - stehen. &lt;!-- TODO: Fallback translation --&gt;
+## 25.1. Образование аблатива (पञ्चमी = "пятый падежный окончание")
 
 ::: grammar-box
-**Ablativ Singular der Maskulina / Neutra auf -a** &lt;!-- TODO: Fallback translation --&gt;
+Помимо мужского и среднего рода на -a, а также местоимений, в единственном числе во всех склонениях формы аблатива (पञ्चमी) совпадают с формами генитива (षष्ठी).
 
-- **deva** (देव) → **devāt** (देवात्) &lt;!-- TODO: Fallback translation --&gt;
+Помимо личных местоимений, во всех склонениях во множественном числе формы аблатива совпадают с формами датива (चतुर्थी).
 :::
 
-Frage-, Relativ- und Demonstrativpronomina: &lt;!-- TODO: Fallback translation --&gt;
+Теперь вы понимаете причину порядка падежей (विभक्ति) в санскрите: они расположены так, что тождественные формы находятся как можно ближе друг к другу — или подгруппами.
+
+::: grammar-box
+**Аблатив единственного числа мужского и среднего рода на -a**
+
+- **deva** (देव) → **devāt** (देवात्)
+:::
+
+
+Вопросительные, относительные и указательные местоимения:
 
 :::: grammar-box
 
-| | Отложительный падеж Единственное число[[br]]Мужской род / Средний род | Отложительный падеж Единственное число[[br]]Женский род |
+| | Аблатив единственного числа[[br]]Мужской род / Средний род | Аблатив единственного числа[[br]]Женский род |
 | :--- | :--- | :--- |
-| **kim**[[br]](किम्) | **kasmāt**[[br]](कस्मात्) | **kasyāḥ**[[br]](कस्याः) |
-| **yad**[[br]](यद्) | **yasmāt**[[br]](यस्मात्) | **yasyāḥ**[[br]](यस्याः) |
-| **tad**[[br]](तद्) | **tasmāt**[[br]](तस्मात्) | **tasyāḥ**[[br]](तस्याः) |
-| **etad**[[br]](एतद्) | **etasmāt**[[br]](एतस्मात्) | **etasyāḥ**[[br]](एतस्याः) |
-| **idam**[[br]](इदम्) | **asmāt**[[br]](अस्मात्) | **asyāḥ**[[br]](अस्याः) |
+| **किम्** | **kasmāt**[[br]](कस्मात्) | **kasyāḥ**[[br]](कस्याः) |
+| **यद्** | **yasmāt**[[br]](यस्मात्) | **yasyāḥ**[[br]](यस्याः) |
+| **तद्** | **tasmāt**[[br]](तस्मात्) | **tasyāḥ**[[br]](तस्याः) |
+| **एतद्** | **etasmāt**[[br]](एतस्मात्) | **etasyāḥ**[[br]](एतस्याः) |
+| **इदम्** | **asmāt**[[br]](अस्मात्) | **asyāḥ**[[br]](अस्याः) |
 
 ::::
 
-## 25.2. Употребление des Отложительный падеж (पञ्चमी)
+## 25.2. Использование аблатива (पञ्चमी)
 
-"Der Ablativ bezeichnet dasjenige, das fest bleibt, wenn etwas davon weggeht." &lt;!-- TODO: Fallback translation --&gt;
+«Аблатив обозначает то, что остается на месте, когда что-то от него уходит».
 
-Pāṇini 2,3,28 + 1,4,24 &lt;!-- TODO: Fallback translation --&gt;
+Пāṇини 2,3,28 + 1,4,24
 
-Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?". &lt;!-- TODO: Fallback translation --&gt;
+Аблатив отвечает в основном на вопросы «Откуда?», «Почему?».
 
-1\. Der Ablativ bezeichnet also den Ausgangspunkt, die Herkunft und den Stoff: &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+1\. Аблатив обозначает исходную точку, происхождение и материал.
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Поэтому аблатив может также обозначать лицо, от которого покупают, слышат, желают и т. д.
+:::
 
-> ग्रमादागच्छति = "Er kommt aus dem Dorf" &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> अश्वात्पतितः = "vom Pferde gefallen" &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> तेभ्यो लब्धम् = "von ihnen (her) empfangen" &lt;!-- TODO: Fallback translation --&gt;
+Примеры:
 
-Der Ablativ kann daher auch die Person bezeichnen, von der man etwas kauft, hört, wünscht usw. &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+ग्रमादागच्छति = «Он из деревни»
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+अश्वात्पतितः = «упав с лошади»
 
-> गुरोर्धर्मं शृणोति = "er hört vom Lehrer über den Dharma" &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> ब्राह्मणः क्षत्रियाद्धेनुमिच्छति = "der Brahmane wünscht sich vom Kṣatriya eine Milchkuh" &lt;!-- TODO: Fallback translation --&gt;
+तेभ्यो लब्धम् = «полученный от них (оттуда)»
+:::
 
-2\. Der Ablativ steht bei Verben mit den Bedeutungen "abhalten von", "schützen vor", "verteidigen gegen", "sich fürchten vor": &lt;!-- TODO: Fallback translation --&gt;
+Примеры:
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+गुरोर्धर्मं शृणोति = «он слышит от учителя о дхарме»
 
-> अरिभ्यो रक्षति = "er schützt vor den Feinden" &lt;!-- TODO: Fallback translation --&gt;
+ब्राह्मणः क्षत्रियाद्धेनुमिच्छति = «брахман желает от кшатрия корову, дающую молоко»
+:::
 
-3\. Der Ablativ bezeichnet den Grund oder die Ursache: &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+2\. Аблатив стоит при глаголах со значениями «удерживать от», «защищать от», «защищать от», «бояться перед»:
+:::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
-> क्रोधात्पुत्रं हन्ति = "Er erschlägt seinen Sohn aus Zorn" &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> कृतपापत्वान्नरकं गच्छति = "Weil er Böses getan hat, kommt er in die Hölle" (« Weil er einer ist, durch den Böses getan wurde) &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> पापकरणान्नरकं गच्छति = "Weil er Böses tut / tat, kommt er in die Hölle" &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+अरिभ्यो रक्षति = «он защищает от врагов»
+:::
 
-Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (तृतीया) oder Ablativ (पञ्चमी) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen. &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+3\. Аблатив обозначает причину или основание:
+:::
 
-## 25.3. Das Suffix -तस्
+Примеры:
 
-Will man im Singular (eindeutig) ausdrücken, dass das Wort in ablativischer Bedeutung verwendet wird, kann man an den Wortstamm das Suffix -तस् anhängen, das Adverbien mit meist ablativischer Bedeutung bildet (auf die Frage "Woher?"): &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+क्रोधात्पुत्रं हन्ति = «Он убивает своего сына от гнева»
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+कृतपापत्वान्नरकं गच्छति = «Поскольку он совершил зло, он попадает в ад» («поскольку он тот, через кого было совершено зло»)
 
-> आदितस् = "von Anfang an" &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> धर्मतस् = "wegen des Dharma, aufgrund des Dharma" &lt;!-- TODO: Fallback translation --&gt;
+पापकरणान्नरकं गच्छति = «Поскольку он совершает/совершал зло, он попадает в ад»
+:::
 
-Das Suffix -तस् tritt auch an Pronominalstämme: &lt;!-- TODO: Fallback translation --&gt;
+Существительные, не являющиеся женского рода, могут, чтобы обозначить причину действия, стоять в творительном падеже (तृतीया) или аблативе (पञ्चमी). Существительные женского рода в этом смысле обычно стоят в творительном падеже, но иногда могут стоять и в аблативе.
 
-> तद् : ततस् (« ta-tas) "von dort, dort, dorthin, darauf, dann, darum" &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> यद् : यतस् "von welchem, wovon, woher, wo, wohin, weshalb, weil" (relativ) &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> किम् :  कुतस् "woher?" "warum?" &lt;!-- TODO: Fallback translation --&gt;
+## 25.3. Суффикс -तस्
 
-## 25.4. Andere Möglichkeiten, Begründungen auszudrücken
+::: grammar-box
+Если нужно выразительно указать в единственном числе, что слово используется в значении аблатива, можно присоединить к основе слова суффикс -तस्, который образует наречия, обычно имеющие аблативное значение (отвечающие на вопрос "Откуда?"):
+:::
 
-1\. Relativsätze &lt;!-- TODO: Fallback translation --&gt;
+Примеры:
 
-1\. Relativsätze drücken oft eine kausale (begründende), konsekutive (folgernde) oder finale (bezweckende) Beziehung zum Hauptsatz aus. &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+आदितस् = "с самого начала"
 
-Formen des Relativpronomens, die als kausale Konjunktion dienen: &lt;!-- TODO: Fallback translation --&gt;
+धर्मतस् = "из-за дхармы, по причине дхармы"
+:::
 
-*   ablativisch: &lt;!-- TODO: Fallback translation --&gt;
-    *   यतस् ... Nebensatz ... ततस् ... Hauptsatz ... = "weil ..., deshalb ..." &lt;!-- TODO: Fallback translation --&gt;
-    *   यस्मात् ... Nebensatz ... तस्मात् ... Hauptsatz ... = "weil ..., deshalb ..." &lt;!-- TODO: Fallback translation --&gt;
-*   instrumental: &lt;!-- TODO: Fallback translation --&gt;
-    *   येन ... Nebensatz ... तेन ... Hauptsatz ... = "wodurch/weil ..., dadurch / deswegen ..." &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+Суффикс -तस् также присоединяется к местоименным основам:
+:::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+तद् : ततस् (« та-тас) "оттуда, туда, затем, поэтому"
 
-> यतो (यस्माद् / येन) धर्ममिच्छति \[ततो (तस्माद् / तेन)\] रामो व्रतं चरति = "Weil Rāma Wohlstand wünscht, praktiziert er das Gelübde" &lt;!-- TODO: Fallback translation --&gt;
+यद् : यतस् "от которого, от чего, откуда, куда, почему" (относительное)
 
-2\. हि
+किम् :  कुतस् "откуда?" "почему?"
+:::
 
-Hauptsätze kann man mittels der Partikel हि "denn, weil" miteinander verknüpfen. Ein Satz mit हि (das nicht an erster Stelle stehen darf, sondern in Prosa an zweiter Stelle stehen muss) gibt eine Begründung an entweder für den vorhergehenden Satz oder für den darauffolgenden Satz: &lt;!-- TODO: Fallback translation --&gt;
+## 25.4. Другие способы выражения обоснований
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**1\. Относительные придаточные предложения**
 
-> जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति = "Die Leute tun Verdienstliches. Sie wollen nämlich in den Himmel kommen." &lt;!-- TODO: Fallback translation --&gt;
+Относительные придаточные предложения часто выражают причинную (обосновывающую), следственную (побуждающую) или целевую (направленную на цель) связь с главным предложением.
 
-3\. Instrumentalis (तृतीया) &lt;!-- TODO: Fallback translation --&gt;
+Формы относительного местоимения, служащие в качестве причинного союза:
 
-3.  Neben dem Отложительный падеж (पञ्चमी) wird der Творительный падеж (तृतीया) zur Angabe des Grundes oder der Ursache verwendet. Bei femininen Nomina ist der Творительный падеж im Allgemeinen obligatorisch. &lt;!-- TODO: Fallback translation --&gt;
+*   аблативный:
+    *   यतस् ... придаточное предложение ... ततस् ... главное предложение ... = "поскольку ..., поэтому ..."
+    *   यस्मात् ... придаточное предложение ... तस्मात् ... главное предложение ... = "поскольку ..., поэтому ..."
+*   инструменталис:
+    *   येन ... придаточное предложение ... तेन ... главное предложение ... = "благодаря чему/поскольку ..., тем самым / поэтому ..."
+:::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
-> क्रोधेन पुत्रं हन्ति = "Er erschlägt seinen Sohn aus Zorn" = "Er erschlägt seinen Sohn im Zorn" &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+यतो (यस्माद् / येन) धर्ममिच्छति \[ततो (तस्माद् / तेन)\] रामो व्रतं चरति = "Поскольку Рама желает благополучия, он соблюдает обет"
+:::
 
-4\. Nomina &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**2\. हि**
 
-4\. Daneben kann man selbstverständlich Begründungen auch ausdrücken durch Konstruktionen mit &lt;!-- TODO: Fallback translation --&gt;
+Главные предложения можно связывать друг с другом с помощью частицы हि "ибо, потому что". Предложение с हि (которое не может стоять на первом месте, а в прозе должно стоять на втором месте) указывает на обоснование либо для предыдущего предложения, либо для следующего за ним предложения:
+:::
 
-*   कारण n. "Ursache": कारणात् । कारणेन &lt;!-- TODO: Fallback translation --&gt;
-*   हेतु m. &lt;!-- TODO: Fallback translation --&gt;
-*   andere Nomina in der Bedeutung "Ursache" &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
-\+ Genetiv (षष्ठी) oder als Hinterglied von Komposita: &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति = "Люди совершают заслуженные дела. Они хотят, ведь, попасть на небо."
+:::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**3\. Инструменталис (तृतीया)**
 
-> पुण्यस्य कारणात् (हेतोः u.s.w.) = "wegen des Verdienstes" &lt;!-- TODO: Fallback translation --&gt;
+Наряду с аблативом (पञ्चमी) инструменталис (तृतीया) используется для указания причины или основания. При женских существительных инструменталис, как правило, обязателен.
+:::
 
-5\. इति
+Пример:
 
-5\. Das Motiv für eine Tätigkeit kann man als Gedanken mit इति angeben: &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+क्रोधेन पुत्रं हन्ति = "Он убивает своего сына от гнева" = "Он убивает своего сына в гневе"
+:::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**4\. Существительные**
 
-> सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति  = "Weil der Sugata vollkommen zur Wahrheit erwacht ist, fragt Ānanda den Gautama nach seiner Lehre" (« "Denkend "Der Sugata ist vollkommen zur Wahrheit erwacht" ...) &lt;!-- TODO: Fallback translation --&gt;
+Кроме того, разумеется, можно выражать обоснования также с помощью конструкций с
 
-## 25.5. Словарь
+*   कारण ср. "причина": कारणात् । कारणेन
+*   हेतु м.
+*   другие существительные в значении "причина"
 
-त्यज् 1P त्यजति  verlassen, aufgeben, im Stich lassen &lt;!-- TODO: Fallback translation --&gt;
++ Генетив (षष्ठी) или в качестве второго компонента составных существительных:
+:::
 
-> Fut. त्यक्ष्यति   &lt;!-- TODO: Fallback translation --&gt;
-> Pass. त्यज्यते   &lt;!-- TODO: Fallback translation --&gt;
-> PPP त्यक्त   &lt;!-- TODO: Fallback translation --&gt;
-> Inf. त्यक्तुम्   &lt;!-- TODO: Fallback translation --&gt;
-> Absol. 2: -त्यज्य &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> davon: &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> त्याग m.: Aufgeben, Verzicht, Meiden &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
-दार m. pl. (!!!): Ehefrau &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+पुण्यस्य कारणात् (हेतोः и т.д.) = "из-за заслуги"
+:::
 
-द्रव्य n.: Gegenstand, Habe, materieller Besitz, Geld &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**5\. इति**
 
-धान्य n.:  gedroschenes Getreide &lt;!-- TODO: Fallback translation --&gt;
+Мотив действия можно указать как мысль с помощью इति:
+:::
+
+Пример:
+
+::: indent
+सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति  = "Поскольку Сугата полностью пробудился к истине, Ананда спрашивает Гаутаму о его учении" (« "Думая: 'Сугата полностью пробудился к истине' ..."
+:::
+
+## 25.5. Список слов
+
+त्यज् 1P त्यजति  оставлять, покидать, бросать
+
+::: indent
+Буд. вр. त्यक्ष्यति  
+Страд. залоге त्यज्यते  
+PPP त्यक्त  
+Инфин. त्यक्तुम्  
+Абсолют 2: -त्यज्य
+
+от него:
+
+त्याग м.р.: отказ от чего-л., отказ от притязаний, избегание
+:::
+
+दार м.р. мн.ч. (!!!): жена
+
+द्रव्य ср.р.: предмет, имущество, материальное достояние, деньги
+
+धान्य ср.р.: обмолоченное зерно
 
 ::: media
 ![](/images/lekt2501.jpg)
-Abb.: धान्यम्
-(Bildquelle: [Details](/licenses#lekt2501)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: धान्यम्
+(Источник изображения: [Подробности](/ru/licenses#lekt2501))
 :::
 
-धृ 1U धरति : halten, festhalten &lt;!-- TODO: Fallback translation --&gt;
 
-> Fut. धरिष्यति   &lt;!-- TODO: Fallback translation --&gt;
-> Pass. ध्रियते   &lt;!-- TODO: Fallback translation --&gt;
-> PPP धृत   &lt;!-- TODO: Fallback translation --&gt;
-> Inf. धर्तुम्   &lt;!-- TODO: Fallback translation --&gt;
-> Absol. 2: -धृत्य &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> davon: &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> धर्म m.: das, was fest ist und fest hält = Dharma &lt;!-- TODO: Fallback translation --&gt;
+धृ 1U धरति : держать, удерживать
 
-नित्य ३ : ständig, beständig, ewig &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+Буд. вр. धरिष्यति  
+Страд. залоге ध्रियते  
+PPP धृत  
+Инфин. धर्तुम्  
+Абсолют 2: -धृत्य
 
-> नित्यम् Adv.: stets, beständig immer &lt;!-- TODO: Fallback translation --&gt;
+от него:
 
-प्रज्ञा f.:  Weisheit, Erkenntnis &lt;!-- TODO: Fallback translation --&gt;
+धर्म м.р.: то, что прочно и удерживает = дхарма
+:::
 
-प्रदान n.: Geben, Spenden ; Gabe, Spende &lt;!-- TODO: Fallback translation --&gt;
+नित्य ३ : постоянно, неизменно, вечно
 
-मद् 4 P माद्यति (!) : sich freuen, sich an etwas (Instr., Gen., Lok.) berauschen &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+नित्यम् Нареч.: всегда, неизменно, постоянно
+:::
 
-> Fut. मदिष्यति   &lt;!-- TODO: Fallback translation --&gt;
-> Pass. मद्यते   &lt;!-- TODO: Fallback translation --&gt;
-> PPP मत्त   &lt;!-- TODO: Fallback translation --&gt;
-> Inf. मदितुम् &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> davon: &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> मद m.: Rausch, Sinnenrausch = Sinneslust &lt;!-- TODO: Fallback translation --&gt;
+प्रज्ञा ж.р.: мудрость, знание
 
-मान m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen) &lt;!-- TODO: Fallback translation --&gt;
+प्रदान ср.р.: дарение, пожертвование; дар, пожертвование
 
-यदि Konjunktion: wenn &lt;!-- TODO: Fallback translation --&gt;
+मद् 4 P माद्यति (!) : радоваться, упиваться чем-л. (Тв. п., Р. п., М. п.)
 
-न्याय m.: Regel, Prinzip, Methode, Urteil (jurist.), Logik (aus ni + i +a) &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+Буд. вр. मदिष्यति  
+Страд. залоге मद्यते  
+PPP मत्त  
+Инфин. मदितुम्
 
-अन्यथा Adv.: anders, sonst, fälschlich, unrichtig &lt;!-- TODO: Fallback translation --&gt;
+от него:
 
-या 2P याति, यान्ति = गम् &lt;!-- TODO: Fallback translation --&gt;
+मद м.р.: опьянение, чувственное опьянение = чувственное наслаждение
+:::
 
-> Pass. यायते   &lt;!-- TODO: Fallback translation --&gt;
-> PPP यात   &lt;!-- TODO: Fallback translation --&gt;
-> Inf. यातुम्   &lt;!-- TODO: Fallback translation --&gt;
-> Absol. 2: -याय &lt;!-- TODO: Fallback translation --&gt;
+मान м.р.: оценка, репутация, слава, честь, гордость, высокомерие, чувство неполноценности; (сравнивают себя с другими)
 
-दारिद्र्य n. = दरिद्रस्य भावः &lt;!-- TODO: Fallback translation --&gt;
+यदि Союз: если
 
-प्रदान n. = दान &lt;!-- TODO: Fallback translation --&gt;
+न्याय м.р.: правило, принцип, метод, суждение (юрид.), логика (от ni + i + a)
 
-शास् 2P शास्ति, शासति (3. pl.) : befehlen, lehren, bestrafen &lt;!-- TODO: Fallback translation --&gt;
+अन्यथा Нареч.: иначе, иначе как, ошибочно, неправильно
 
-> Pass. शिष्यते   &lt;!-- TODO: Fallback translation --&gt;
-> PPP शिष्ट ३ : gelehrt   &lt;!-- TODO: Fallback translation --&gt;
-> Absol 1.: शासित्वा / शिष्त्वा &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> davon: &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> शिक्षा f.: Wissenschaft, Unterricht ; Phonetik &lt;!-- TODO: Fallback translation --&gt;
+या 2P याति, यान्ति = गम्
 
-स्तेन m.: Dieb &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+Страд. залоге यायते  
+PPP यात  
+Инфин. यातुम्  
+Абсолют 2: -याय
+:::
 
-स्तेय n.: Diebstahl &lt;!-- TODO: Fallback translation --&gt;
+दारिद्र्य ср.р. = दरिद्रस्य भावः
 
-किल्बिष n.: Schuld, Beleidigung, Sünde &lt;!-- TODO: Fallback translation --&gt;
+प्रदान ср.р. = दान
 
-विना Postposition: ohne, außer (mit  Akk., Instr., Abl.) &lt;!-- TODO: Fallback translation --&gt;
+शास् 2P शास्ति, शासति (3. мн.ч.) : приказывать, учить, наказывать
 
-मूल n.: Wurzel &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+Страд. залоге शिष्यते  
+PPP शिष्ट ३ : обученный  
+Абсолют 1.: शासित्वा / शिष्त्वा
+
+от него:
+
+शिक्षा ж.р.: наука, обучение; фонетика
+:::
+
+स्तेन м.р.: вор
+
+स्तेय ср.р.: кража
+
+किल्बिष ср.р.: вина, оскорбление, грех
+
+विना Послелог: без, кроме (с Вин. п., Тв. п., Отд. п.)
+
+मूल ср.р.: корень
 
 ::: media
 ![](/images/lekt2502.jpg)
-Abb.: मूलानि
-(Bildquelle: [Details](/licenses#lekt2502)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: मूलानि
+(Источник изображения: [Подробности](/ru/licenses#lekt2502))
 :::
 
-लिप् 6U लिम्पति (!): bestreichen, beschmieren &lt;!-- TODO: Fallback translation --&gt;
 
-> Fut. लेप्स्यति   &lt;!-- TODO: Fallback translation --&gt;
-> Pass. लिप्यते   &lt;!-- TODO: Fallback translation --&gt;
-> PPP लिप्त   &lt;!-- TODO: Fallback translation --&gt;
-> Inf. लेप्तुम् &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> davon: &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> लिप्ति f.: Bestreichen, Schreiben, Schrift &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> ::: media &lt;!-- TODO: Fallback translation --&gt;
-> ![](/images/lekt2503.jpg) &lt;!-- TODO: Fallback translation --&gt;
-> Abb.: लिप्तिः &lt;!-- TODO: Fallback translation --&gt;
-> (Bildquelle: [Details](/licenses#lekt2503)) &lt;!-- TODO: Fallback translation --&gt;
-> ::: &lt;!-- TODO: Fallback translation --&gt;
+लिप् 6U लिम्पति (!): намазывать, мазать
 
-वर्ष n.,m.: Regen, Regenzeit, Jahr &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+Буд. вр. लेप्स्यति  
+Страд. залоге लिप्यते  
+PPP लिप्त  
+Инфин. लेप्तुम्
 
-वह् 1U वहति : führen, fahren, wehen (Wind) &lt;!-- TODO: Fallback translation --&gt;
+от него:
 
-> Fut. वक्ष्यति   &lt;!-- TODO: Fallback translation --&gt;
-> Pass. उह्यते   &lt;!-- TODO: Fallback translation --&gt;
-> PPP ऊढ   &lt;!-- TODO: Fallback translation --&gt;
-> Inf. वोढुम्   &lt;!-- TODO: Fallback translation --&gt;
-> Absol 2: -उह्य &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> वह् + वि 1P विवहति : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> davon: &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> &gt; विवाह m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171) &lt;!-- TODO: Fallback translation --&gt;
+लिप्ति ж.р.: намазывание, письмо, письменность
+:::
+
+::: media
+![](/images/lekt2503.jpg)
+Рис.: लिप्तिः
+(Источник изображения: [Подробности](/ru/licenses#lekt2503))
+:::
+
+
+वर्ष ср.р., м.р.: дождь, сезон дождей, год
+
+वह् 1U वहति : вести, ехать, дуть (ветер)
+
+::: indent
+Буд. вр. वक्ष्यति  
+Страд. залоге उह्यते  
+PPP ऊढ  
+Инфин. वोढुम्  
+Абсолют 2: -उह्य
+
+वह् + वि 1P विवहति : уводить (именно невесту из родительского дома) = жениться
+
+от него:
+
+विवाह м.р.: увоз, женитьба женщины (Тв. п., saha) (о женитьбе см. Башам, Чудеса, стр. 166 -171)
+:::
 
 ::: media
 ![](/images/lekt2504.jpg)
-Abb.: विवाहः
-(Bildquelle: [Details](/licenses#lekt2504)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: विवाहः
+(Источник изображения: [Подробности](/ru/licenses#lekt2504))
 :::
 
-नी + वि 1U विनयति : wegführen, unterrichten, erziehen &lt;!-- TODO: Fallback translation --&gt;
 
-> davon: &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> विनय m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht &lt;!-- TODO: Fallback translation --&gt;
+नी + वि 1U विनयति : уводить, обучать, воспитывать
 
-विज्ञान n.: Erkenntnis, Kenntnis &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+от него:
 
-विष्टि f.: Arbeit, Frondienst &lt;!-- TODO: Fallback translation --&gt;
+विनय м.р.: удаление, воспитание, дисциплина, будд.: монашеская дисциплина, монашеское право
+:::
+
+विज्ञान ср.р.: знание, сведение
+
+विष्टि ж.р.: работа, принудительный труд
 
 ::: media
 ![](/images/lekt2505.jpg)
-Abb.: विष्टिः
-(Bildquelle: [Details](/licenses#lekt2505)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: विष्टिः
+(Источник изображения: [Подробности](/ru/licenses#lekt2505))
 :::
 
-वृध् 1Ā वर्धते : wachsen, größer werden &lt;!-- TODO: Fallback translation --&gt;
 
-> Fut. वर्धिष्यते   &lt;!-- TODO: Fallback translation --&gt;
-> Pass. वृध्यते   &lt;!-- TODO: Fallback translation --&gt;
-> PPP वृद्ध : erwachsen, alte, vermehrt   &lt;!-- TODO: Fallback translation --&gt;
-> Inf. वर्धितुम् &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> davon: &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> वृद्धि f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti) &lt;!-- TODO: Fallback translation --&gt;
+वृध् 1Ā वर्धते : расти, становиться больше
 
-सामर्थ्य n.: das seinem Zweck Entsprechen &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+Буд. вр. वर्धिष्यते  
+Страд. залоге वृध्यते  
+PPP वृद्ध : взрослый, старый, увеличенный  
+Инфин. वर्धितुम्
 
-स्वभाव m.: Wesen, Natur, Charakter &lt;!-- TODO: Fallback translation --&gt;
+davon:
 
-हर्ष m.: (Aufrichten der Körperhärchen), Freude &lt;!-- TODO: Fallback translation --&gt;
+वृद्धि ж.р.: рост, развитие, расширение (от: vṛdh-ti)
+:::
 
-हिरण्य ३ : golden ; n.: Gold, Geld, Reichtum &lt;!-- TODO: Fallback translation --&gt;
+सामर्थ्य ср.р.: соответствие цели
+
+स्वभाव м.р.: существо, природа, характер
+
+हर्ष м.р.: (поднятие волос на теле), радость
+
+हिरण्य ३ : золотой ; ср.р.: золото, деньги, богатство
 
 ::: media
 ![](/images/lekt2506.jpg)
-Abb.: हिरण्यम्
-(Bildquelle: [Details](/licenses#lekt2506)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: हिरण्यम्
+(Источник изображения: [Детали](/ru/licenses#lekt2506))
 :::
 
-अणु ३ : dünn, fein, sehr klein ; m.: Atom &lt;!-- TODO: Fallback translation --&gt;
 
-गोदान n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein संस्कार) &lt;!-- TODO: Fallback translation --&gt;
+अणु ३ : тонкий, мелкий, очень маленький ; м.р.: атом
+
+गोदान ср.р.: дарение коров / одной коровы ; вторая церемония стрижки волос (संस्कार)
 
 ## 25.6. Упражнение
 
-A) Ergänzen Sie die Deklinationsbeispiele von [Lektion 16](lektion16.md), Wiederholungsübung A durch Hinzufügen von 4. Dativ (चतुर्थी) und 5. Ablativ (पञ्चमी). Bilden Sie außerdem Deklinationsreihen mit allen bisher gelernten Formen zu &lt;!-- TODO: Fallback translation --&gt;
+A) Дополните примеры склонения из [Урока 16](lektion16.md), повторное упражнение A, добавив 4. Дательный падеж (चतुर्थी) и 5. Аблятив (पञ्चमी). Составьте также ряды склонения со всеми ранее изученными формами для
 
-१. सन्त् (m., n.) &lt;!-- TODO: Fallback translation --&gt;
+१. सन्त् (м.р., ср.р.)
 
-२. महान्त् (m., n.) &lt;!-- TODO: Fallback translation --&gt;
+२. महान्त् (м.р., ср.р.)
 
-३. यद् (m., n., f.) &lt;!-- TODO: Fallback translation --&gt;
+३. यद् (м.р., ср.р., ж.р.)
 
-Lernen Sie diese Deklinationsparadigmen auswendig! &lt;!-- TODO: Fallback translation --&gt;
+Выучите эти парадигмы склонения наизусть!
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: &lt;!-- TODO: Fallback translation --&gt;
+B) Переведите и разложите на компоненты санскритские составные слова:
 
 गुर्वादेशाद्रामो ग्रामान्नगरं गत्वा साधुगृहं प्रविश्य साधुमुपस्थायालं क्रोधेनेति वक्ति ॥१॥
 
@@ -370,7 +448,7 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: &lt;!-- TODO: F
 
 विष्णुर्भक्तान्मरणात्पाति ॥११॥
 
-रामाद्विना =  रामं विना = रामेण विना ॥१२॥
+रामाद्विना =  रामं विना = रामेण विना ॥१२॥
 
 साधोः शिक्षा गुणाय संपद्यते नासाधोः ॥१३॥
 
@@ -380,11 +458,11 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: &lt;!-- TODO: F
 
 अलं भयेन ॥१६॥
 
-लोकादधिको हरिः ॥१७॥ (हरi m. = विष्णु / कृष्ण) &lt;!-- TODO: Fallback translation --&gt;
+लोकादधिको हरिः ॥१७॥ (हरи м.р. = विष्णु / कृष्ण)
 
 ::: media
 ![](/images/lekt2507.jpg)
-Abb.: लोकादधिको हरिः &lt;!-- TODO: Fallback translation --&gt;
+Рис.: लोकादधिको हरिः
 :::
 
 ## 25.7. सुभाषितानि
@@ -395,7 +473,7 @@ Abb.: लोकादधिको हरिः &lt;!-- TODO: Fallback translatio
 न वेत्ति दुःखमण्वपि ॥१॥
 
 ::: indent
-Erklärung: सर्वतस् = sarva "jeder, alle" + -tas ; अणु = Nom., Akk. sg. neutr. &lt;!-- TODO: Fallback translation --&gt;
+Объяснение: सर्वतस् = sarva "каждый, все" + -tas ; अणु = им. п., вин. п. ед. ч. ср. рода
 :::
 
 मानाद्वा यदि वा लोभात्  
@@ -413,16 +491,16 @@ Erklärung: सर्वतस् = sarva "jeder, alle" + -tas ; अणु = Nom
 स्तेनस्याप्नोति किल्बिषम् ॥मनुस्मृति ८.३१६॥ ॥४॥
 
 ::: indent
-Erklärung: राजा = Nom. sg. zu राजन् m. = नृप &lt;!-- TODO: Fallback translation --&gt;
+Объяснение: राजा = им. п. ед. ч. от राजन् м. р. = नृप
 :::
 
 ## 25.8. Упражнение на перевод
 
-1\. कौटिलीयार्थशास्त्र १.४.१. über den Nutzen der Ökonomie: &lt;!-- TODO: Fallback translation --&gt;
+1\. कौटिलीयार्थशास्त्र १.४.१. о пользе экономики:
 
 वार्त्ता धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी ॥
 
-2\. कौटिलीयार्थशास्त्र १.५. über die Ausbildung eines Fürsten: &lt;!-- TODO: Fallback translation --&gt;
+2\. कौटिलीयार्थशास्त्र १.५. об обучении князя:
 
 तस्माद्दण्डमूला***स्तिस्रो*** विद्याः ॥१॥  
 विनयमूलो दण्डः ***प्राणभृतां*** योगक्षेमावहः ॥२॥  
@@ -440,22 +518,23 @@ Erklärung: राजा = Nom. sg. zu राजन् m. = नृप &lt;!-- TO
 ... ॥  
 कामक्रोधलोभमानमदहर्षत्यागा***त्कार्यः*** ॥१.६.१.॥
 
-Erklärung der im obigen Text rot hervorgehobenen Wörter: &lt;!-- TODO: Fallback translation --&gt;
 
-1.5.1. तिस्रस् : Nom, Akk, fem. zu त्रि "drei" &lt;!-- TODO: Fallback translation --&gt;
+Объяснение слов, выделенных красным в приведенном выше тексте:
 
-1.5.2. प्राणभृताम् : Gen. pl. m. zu प्राणभृत् m. "Lebewesen" &lt;!-- TODO: Fallback translation --&gt;
+1.5.1. तिस्रस् : существительное, винительный падеж, женский род, от त्रि "три"
 
-1.5.5.  इतरम् Akk. sg. mask. zu इतर ३ "anderer" &lt;!-- TODO: Fallback translation --&gt;
+1.5.2. प्राणभृताम् : родительный падеж, множественное число, мужской род, от प्राणभृत् м. "живые существа"
 
-1.5.7. कर्मा : Nom. sg. mask. zu कर्मन् neutr. "Tat, Werk" ; उपयुञ्जीत : OPtativ 3. sg. Ā zu upa-yuj 7 "sich aneignen": "er möge sich aneignen" &lt;!-- TODO: Fallback translation --&gt;
+1.5.5.  इतरम् Винительный падеж, единственное число, мужской род, от इतर ३ "другой"
 
-1.5.8. वक्तृप्रयोक्तृभ्यस् Abl., Dat. pl. zu वक्त्र्प्रयोक्तृ (इतरेतरद्वन्द्व) "Theoretiker und Praktiker" &lt;!-- TODO: Fallback translation --&gt;
+1.5.7. कर्मा : Именительный падеж, единственное число, мужской род, от कर्मन् среднего рода "действие, работа"; उपयुञ्जीत : Оптиматив 3. ед. ч. от корня Ā к upa-yuj 7 "присваивать себе": "он пусть присвоит себе"
 
-1.5.9. षोडश ३ : "sechzehnter" &lt;!-- TODO: Fallback translation --&gt;
+1.5.8. वक्तृप्रयोक्तृभ्यस् Аблатив, Датив, множественное число, от वक्त्र्प्रयोक्तृ (इतरेतरद्वन्द्व) "теоретики и практики"
 
-1.5.10. कर्म Nom., Akk. sg. zu कर्मन् n. "Tat" &lt;!-- TODO: Fallback translation --&gt;
+1.5.9. षोडश ३ : "шестнадцатый"
 
-1.5.16. धि Sandhiform zu हि ; आत्मवत्ता f.: "Selbstbesitz" &lt;!-- TODO: Fallback translation --&gt;
+1.5.10. कर्म Именительный, Винительный падеж, единственное число, от कर्मन् ср. "действие"
 
-1.6.1. कार्य ३ "zu tuendes, was getan werden muss" &lt;!-- TODO: Fallback translation --&gt;
+1.5.16. धि Форма сандхи от हि; आत्मवत्ता ж.: "самообладание"
+
+1.6.1. कार्य ३ "то, что должно быть сделано, что необходимо сделать"

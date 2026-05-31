@@ -1,6 +1,10 @@
 ---
+title: Lezione 27
+subtitle: "Uso del locativo (सप्तमी f. = \"settima desinenza casuale\")"
 lesson_id: 27
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 27
@@ -19,7 +23,7 @@ last_reconstructed: 2026-05-21
 
 :::: grammar-box
 
-**1. Il Locativo (सप्तमी) indica, alla domanda "Dove?", lo spazio in (a, su, presso) cui si trova l'Agente (कर्ता) o l'oggetto di un'azione, oppure dove l'azione stessa si svolge.**
+**1. Il Locativo (सप्तमी) indica, alla domanda "Dove?", lo spazio in (su, sopra, presso) cui si trova l'agente (कर्ता) o l'oggetto di un'azione, oppure dove l'azione stessa si svolge.**
 
 > नगरे वसति = "Egli abita nella città"
 
@@ -28,56 +32,59 @@ last_reconstructed: 2026-05-21
 ::: media
 ![](/images/lekt2701.jpg)
 Fig.: जयपुरनगरे
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2701))
+Jaipur, 1875.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2701))
 :::
 
 :::: grammar-box
 
-**2. Il Locativo indica, alla domanda "Quando?", il momento o le circostanze esteriori:**
+**2. Il Locativo indica, alla domanda "Quando?", il momento o le circostanze esterne:**
 
-> तस्मिन्काले = "a quel momento, in quel tempo"
+> तस्मिन्काले = "in quel momento, in quel tempo"
 
-**A questa categoria appartiene anche il cosiddetto *Locativus Absolutus*:**
+**Appartiene a questa categoria anche il cosiddetto Locativus Absolutus:**
 
-**Se l'azione o lo stato di una persona o cosa determina il tempo in cui – o le circostanze in cui – un'altra persona o cosa compie un'azione o si trova in un determinato stato, la parola che designa la prima persona o cosa, insieme alla parola che la specifica più dettagliatamente (spesso un participio), si trova nel Locativo (सप्तमी):**
+**Se un'azione o lo stato di una persona o cosa determina il tempo in cui - o le circostanze in cui - un'altra persona o cosa compie un'azione o si trova in un determinato stato, la parola che designa la prima persona o cosa, insieme alla parola che la specifica più da vicino (che spesso è un participio), entra nel locativo (सप्तमी):**
 
-> एवं गच्छति काले = "mentre il tempo trascorre così..."
+> एवं गच्छति काले = "mentre il tempo scorre così..."
 &gt;
-> तस्मिन्गते = "quando egli era andato..."
+> तस्मिन्गते = "quando egli era andato via..."
 
-**A volte l'Agente (कर्ता) non è esplicitamente indicato:**
+**A volte l'agente (कर्ता) non è esplicitamente indicato:**
 
 > एवं सति = "poiché le cose stanno così"
 
-**Il *Locativus absolutus* deve essere tradotto a seconda del contesto con "mentre" (es. Participio Presente), "dopo che", "quando" (es. PPP), "poiché", "perché", "sebbene", "se" ecc.**
+**Il Locativus absolutus deve essere tradotto a seconda del contesto con "mentre" (ad es. Participio Presente), "dopo che", "quando" (ad es. PPP), "poiché", "perché", "sebbene", "se" ecc.**
 
-**Nota: nell'*Absolutivum* l'Agente dell'Assoluto e l'Agente della proposizione principale devono essere identici; nel *Locativus absolutus* l'Agente del Locativo assoluto e l'Agente del verbo principale devono essere diversi.**
+**Ricorda: nell'Assolutivo, l'agente dell'Assolutivo e l'agente della proposizione principale devono essere identici; nel Locativus absolutus, l'agente del Locativus absolutus e l'agente del verbo principale devono essere diversi.**
 
 ::::
 
 ::: media
 ![](/images/lekt2702.jpg)
 Fig.: एवं गच्छति कालयुष्ट्रः स्वपितi
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2702))
+Rajasthan.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2702))
 :::
 
 :::: grammar-box
 
-**3. Il Locativo si trova anche alla domanda "In relazione a cosa?" e simili:**
+**3. Il Locativo si usa anche alla domanda "In relazione a cosa?" e simili:**
 
-> अस्ति तस्य पुत्रे स्नेहः = "Egli prova affetto per suo figlio" (letteralmente: "In relazione al figlio, presso di lui c'è affetto")
+> अस्ति तस्य पुत्रे स्नेहः = "Egli ha amore per suo figlio" (letteralmente "In relazione al figlio, presso di lui c'è amore")
 
 ::::
 
 ::: media
 ![](/images/lekt2703.jpg)
 Fig.: अस्ति तस्य पुत्रे स्नेहः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2703))
+Holi.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2703))
 :::
 
 :::: grammar-box
 
-**4. Il Locativo è utilizzato nei lessici indigeni e dai commentatori per indicare il significato di una parola:**
+**4. Il Locativo è usato nei lessici indigeni e tra i commentatori per indicare il significato di una parola:**
 
 > भू सत्तायाम् = "la radice भू nel significato di 'essere' (sat-tā)"
 
@@ -85,15 +92,15 @@ Fig.: अस्ति तस्य पुत्रे स्नेहः
 
 Ulteriori informazioni sull'uso del Locativo verranno fornite in seguito.
 
-## 27.2. Formazione del Locativo (सप्तमी)
+## 27.2. Formazione del locativo (सप्तमी)
 
 ::: grammar-box
 
-**Le desinenze regolari del Locativo (सप्तमी) sono:**
+**Le desinenze regolari del locativo (सप्तमी) sono:**
 *   **Singolare: -i**
 *   **Plurale: -su**
 
-**Si prestino attenzione alle variazioni fonetiche prima di -su, nonché alla eventuale cerebralezza di -su in -ṣu!**
+**Si notino le variazioni fonetiche prima di -su, nonché l'eventuale cerebralezza di -su in -ṣu!**
 
 :::
 
@@ -101,7 +108,7 @@ Ulteriori informazioni sull'uso del Locativo verranno fornite in seguito.
 
 ::: grammar-box
 
-| Tema | Locativo Singolare[[br]]सप्तमी एकवचन | Locativo Plurale[[br]]सaptमी बहुवचन |
+| Tema | Locativo Singolare[[br]]सप्तमी एकवचन | Locativo Plurale[[br]]सप्तमी बहुवचन |
 | :--- | :--- | :--- |
 | यजन्त् | यजति (yaj-at-i) | यजत्सु |
 | महान्त् | महति | महत्सु |
@@ -116,10 +123,10 @@ Ulteriori informazioni sull'uso del Locativo verranno fornite in seguito.
 
 | | किम् | यद् | तद् | एतद् | इदम् |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Maschile / Neutro[[br]]Locativo singolare | कस्मिन् | यस्मिन् | तस्मिन् | एतस्मिन् | अस्मिन् |
-| Maschile / Neutro[[br]]Locativo plurale | केषु | येषु | तेषु | एतेषु | एषु |
-| Femminile[[br]]Locativo singolare | कस्याम् | यस्याम् | तस्याम् | एतस्याम् | अस्याम् |
-| Femminile[[br]]Locativo plurale | कासु | यासु | तासु | एतासु | आसु |
+| Maschile / Neutro[[br]]Locativo Singolare | कस्मिन् | यस्मिन् | तस्मिन् | एतस्मिन् | अस्मिन् |
+| Maschile / Neutro[[br]]Locativo Plurale | केषु | येषु | तेषु | एतेषु | एषु |
+| Femminile[[br]]Locativo Singolare | कस्याम् | यस्याम् | तस्याम् | एतस्याम् | अस्याम् |
+| Femminile[[br]]Locativo Plurale | कासु | यासु | तासु | एतासु | आसु |
 
 :::
 
@@ -134,7 +141,7 @@ Ulteriori informazioni sull'uso del Locativo verranno fornite in seguito.
 | **पशु** m. | **पशौ** | **पशुषु** |
 | **देवता** f. | **देवतायाम्** | **देवतासु** |
 | **देवी** f. | **देव्याम्** | **देवीषु** |
-| **श्रुति** f. | **श्रुतौ** oppure **श्रुत्याम्**[[br]](cioè, rispettivamente, come **kavi**[[br]]कवि oppure come **devī**[[br]]देवी) | **श्रुतिषु** |
+| **श्रुति** f. | **श्रुतौ** oppure **श्रुत्याम्**[[br]](cioè o come **kavi**[[br]]कवि o come **devī**[[br]]देवी) | **श्रुतिषु** |
 | **धेनु** f. | **धेनौ** oppure **धेन्वाम्** | **धेनुषु** |
 
 :::
@@ -158,60 +165,62 @@ Ulteriori informazioni sull'uso del Locativo verranno fornite in seguito.
 
 ***Stampato in rosso***: casi forti (con ablaut della radice).
 
-## 27.4. Un verso con tutte le forme declinative (singolare) di राम
+## 27.4. Un verso con tutte le forme declinative (singolare) per राम
 
 ::: media
 ![](/images/lekt2708.jpg)
 Fig.: रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2708))
+Arco di Rāma.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2708))
 :::
 
-***रामो*** राजमणिः सदा विजयते ***रामं*** रमेशं भजे[[br]]***रामेणा***भिहता निशाचरचमू ***रामाय*** तस्मै नमः ।[[br]]***रामान्***नास्ति परायणम् परतरं ***रामस्य*** दासोऽस्म्यहम्[[br]]***रामे*** चित्तलयः सदा भवतु मे भो ***राम*** मामुद्धर ॥
+***रामो*** राजमणिः सदा विजयते ***रामं*** रमेशं भजे[[br]]***रामेणा***भिहता निशाचरचमू ***रामाय*** तस्मै नमः ।[[br]]***रामान्ना***स्ति परायणम् परतरं ***रामस्य*** दासोऽस्म्यहम्[[br]]***रामे*** चित्तलयः सदा भवतु मे भो ***राम*** मामुद्धर ॥
 
 **Traduzione:**
 1. **Nominativo:** Rāma, il gioiello (मणि m.) tra i re (राजन् m.) trionfa sempre (सदा).
-2. **Accusativo:** Io amo (भज् 1U) Rāma, il signore e consorte (ईश m.) di Ramā (= Lakṣmī).
-3. **Strumentale:** Rāma ha ucciso (अभिहता) l'esercito (चमू f.) degli spiriti notturni (= demoni) (निशा f. = notte).
-4. **Dativo:** A questo Rāma sia tributato omaggio!
-5. **Ablativo:** Non vi è rifugio (परायण n.) migliore (परतर 3) di Rāma.
-6. **Genitivo:** Io (अहम्) sono (अस्मि) servo di Rāma.
-7. **Locativo:** In Rāma sia (भवतु) sempre la quiete (लय m.) del mio (मे) cuore.
-8. **Vocativo:** O Rāma, salvami (उद्धर = imperativo di उद् + हृ oppure उद् + धृ) me (माम्)!
+2. **Accusativo:** Amo (भज् 1U) Rāma, il signore e sposo (ईश m.) di Ramā (= Lakṣmī).
+3. **Strumentale:** Rāma ha ucciso l'esercito (चमू f.) dei nottambuli (= demoni) (निशा f. = notte).
+4. **Dativo:** A questo Rāma sia omaggio!
+5. **Ablativo:** Non c'è rifugio (परायण n.) migliore (परतर 3) di Rāma.
+6. **Genitivo:** Io (अहम्) sono (अस्मि) un servo di Rāma.
+7. **Locativo:** In Rāma sia (भवतु) sempre la pace (लय m.) del mio (मे) cuore.
+8. **Vocativo:** O Rāma, salva (उद्धर = Imperativo di उद् + हृ oppure उद् + धृ) me (माम्)!
 
-## 27.5. Glossario
+## 27.5. Elenco di parole
 
-**वस्** 1P (वसति): dimorare, abitare (con il locativo della persona presso la quale si abita)
+**वस्** 1P (वसति): dimorare, abitare (con il locativo della persona presso cui si abita)
 
 ::: indent
 **Fut.:** वत्स्यति[[br]]**Pass.:** उष्यते[[br]]**PPP:** उषित[[br]]**Inf.:** वस्तुम्
 :::
 
-da ciò:
+di cui:
 
 :::: indent
-**वस्तु** n.: sede, luogo; realtà, cosa reale, effettività, oggetto
+**वस्तु** n.: sede, luogo; realtà, cosa reale, realtà, oggetto
 
 ::: indent
-**वस्तुतस्**: in realtà, effettivamente
+**वस्तुतस्**: in realtà, realmente
 :::
 ::::
 
-**वस्** 2Ā (वस्ते): vestire (i vestiti), indossare (i vestiti)
+**वस्** 2Ā (वस्ते): indossare (vestiti), portare (vestiti)
 
 ::: indent
 **Fut.:** वसिष्यते[[br]]**PPP:** वसित[[br]]**Inf.:** वसितुम्
 :::
 
-da ciò:
+di cui:
 
 ::: indent
-**वस्त्र** n.: mezzo per vestirsi = abito, veste, tessuto
+**वस्त्र** n.: mezzo per indossare = vestito, abito, tessuto
 :::
 
 ::: media
 ![](/images/lekt2706.jpg)
 Fig.: वस्त्राणि
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2706))
+Vastrāṇi. Majuli, Assam.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2706))
 :::
 
 **वस्** 6P (उच्छति): brillare (questa radice è importante per le formazioni nominali:)
@@ -219,13 +228,14 @@ Fig.: वस्त्राणि
 ::: indent
 **वसु** n.: ricchezza, tesoro, averi, proprietà
 
-**वसन्त** m.: ("lucente" =) primavera (marzo-maggio)
+**वसन्त** m.: ("lucente" =) primavera (marzo a maggio)
 :::
 
 ::: media
 ![](/images/lekt2707.jpg)
 Fig.: वसन्तः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2707))
+Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2707))
 :::
 
 **हृ** 1U (हरति): tenere, portare; prendere, portare via, rubare
@@ -234,10 +244,10 @@ Fig.: वसन्तः
 **Fut.:** हरिष्यति[[br]]**Pass.:** ह्रियते[[br]]**PPP:** हृत[[br]]**Inf.:** हर्तुम्
 :::
 
-da ciò:
+di cui:
 
 ::: indent
-**हर** 3: che toglie; m.: il Distruttore = epiteto di Śiva
+**हर** 3: che prende via; m.: il distruttore = epiteto di Śiva
 :::
 
 Controparte di **हर**:
@@ -249,22 +259,24 @@ Controparte di **हर**:
 ::: media
 ![](/images/lekt2704.jpg)
 Fig.: हरिहरः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2704))
+Harihara (a sinistra: Viṣṇu, a destra: Śiva).
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2704))
 :::
 
 ::: media
 ![](/images/lekt2705.jpg)
 Fig.: हरिहरः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2705))
+Harihara (a sinistra: Viṣṇu, a destra: Śiva). Godrumdwip, Bengala occidentale.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2705))
 :::
 
 ## 27.6. Esercizio
 
-**A) Inserite nelle frasi seguenti le espressioni tra parentesi al Locativo (सप्तमी) Singolare e, laddove sia sensato, Plurale. Fate attenzione ai diversi Sandhi, cioè scrivete ogni volta la frase completa!**
+**A) Inserisci nelle seguenti frasi le espressioni tra parentesi nel caso locativo (सप्तमी) singolare e, se ha senso, plurale. Nota la diversa sandhi, cioè scrivi ogni volta l'intera frase!**
 
 रामस् ... वसति । (ग्राम । गुरु । सत्यवान्कविः । पुत्रं लब्धुकामा ब्राह्मणी । गृह । तन्नगरम् । मुह्यञ्छत्रुः)
 
-**B) Traducete e sciogliete le composte:**
+**B) Traduci e risolvi le composte:**
 
 धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥
 
@@ -275,7 +287,8 @@ Fig.: हरिहरः
 ::: media
 ![](/images/lekt2709.jpg)
 Fig.: वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2709))
+Dipinto di Rāja Ravi Varma (1848 - 1906).
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2709))
 :::
 
 पुत्रे मृतेऽपुत्रा ब्राह्मणी पुत्रं लब्धुं व्रतं करोति ॥४॥
@@ -313,7 +326,8 @@ Fig.: वसितसुवस्त्रां नरा लुभ्यन्
 ::: media
 ![](/images/lekt2711.jpg)
 Fig.: नराः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2711))
+Naran. Udaipur.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2711))
 :::
 
 ### 27.7.2. Neutri in -a: फल
@@ -335,7 +349,8 @@ Fig.: नराः
 ::: media
 ![](/images/lekt2710.jpg)
 Fig.: फलानि
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2710))
+Frutta. Bangalore.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2710))
 :::
 
 ### 27.7.3. Femminili in -ā: क्षत्रिया
@@ -357,7 +372,8 @@ Fig.: फलानि
 ::: media
 ![](/images/lekt2718.jpg)
 Fig.: क्षत्रिया
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2718))
+Maharani Vani Vilasa Sannidhana (1866 - 1934) con suo nipote Principe Jaya Chamaraja Wadiyar, Mysore.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2718))
 :::
 
 ### 27.7.4. Maschili in -i: अरि
@@ -379,7 +395,8 @@ Fig.: क्षत्रिया
 ::: media
 ![](/images/lekt2712.jpg)
 Fig.: अरयः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2712))
+Impiccagione di due partecipanti alla ribellione del 1857. Fotografia di Felice Beato (1833/1834 - ca. 1907).
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2712))
 :::
 
 ### 27.7.5. Femminili in -i: मति
@@ -417,7 +434,8 @@ Fig.: अरयः
 ::: media
 ![](/images/lekt2713.jpg)
 Fig.: गुरुः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2713))
+Maharishi Mahesh Yogi (1917 - 2008) Guru.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2713))
 :::
 
 ### 27.7.7. Femminili in -u: धेनु
@@ -439,7 +457,8 @@ Fig.: गुरुः
 ::: media
 ![](/images/lekt2714.jpg)
 Fig.: धेनुः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2714))
+Mucca a Udaipur.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2714))
 :::
 
 ### 27.7.8. Femminili polisillabici in -ī: देवी
@@ -461,10 +480,11 @@ Fig.: धेनुः
 ::: media
 ![](/images/lekt2715.jpg)
 Fig.: त्रिदेवी
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2715))
+Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2715))
 :::
 
-### 27.7.9. Participio presente del Parasmaipada in -ant: सन्त्
+### 27.7.9. Participio presente Parasmaipada in -ant: सन्त्
 
 ::: grammar-box
 
@@ -483,10 +503,11 @@ Fig.: त्रिदेवी
 ::: media
 ![](/images/lekt2716.jpg)
 Fig.: सद्गुरुः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2716))
+Sai Baba di Shirdi (1835 - 1918).
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2716))
 :::
 
-### 27.7.10. महान्
+### 27.7.10. महान्त्
 
 ::: grammar-box
 
@@ -502,7 +523,7 @@ Fig.: सद्गुरुः
 
 :::
 
-### 27.7.11. Maschili e Neutri in -vant / -mant: गुणवन्त्
+### 27.7.11. Maschili e neutri in -vant / -mant: गुणवन्त्
 
 ::: grammar-box
 
@@ -538,7 +559,7 @@ Fig.: सद्गुरुः
 
 | | Singolare[[br]]एकवचनम् | | | Plurale[[br]]बहुवचनम् | | |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | Masch. | Neutr. | Femm. | Masch. | Neutr. | Femm. |
+|  | Masc. | Neutr. | Femm. | Masc. | Neutr. | Femm. |
 | **1. Nominativo**[[br]]**१. प्रथमा** | एषस् / एष | एतत् | एषा | एते | एतानि | एतास् |
 | **2. Accusativo**[[br]]**२. द्वितीया** | एतम् / एनम् | एतत् / एनत् | एताम् / एनाम् | एतान् / एनान् | एतानि | एतास् / एनाः |
 | **3. Strumentale**[[br]]**३. तृतीया** | एतेन / एनेन || एतया / एनया | एतैस् || एताभिस् |
@@ -553,7 +574,7 @@ Fig.: सद्गुरुः
 
 | | Singolare[[br]]एकवचनम् | | | Plurale[[br]]बहुवचनम् | | |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | Masch. | Neutr. | Femm. | Masch. | Neutr. | Femm. |
+|  | Masc. | Neutr. | Femm. | Masc. | Neutr. | Femm. |
 | **1. Nominativo**[[br]]**१. प्रथमा** | अयम् | इदम् | इयम् | इमे | इमानि | इमास् |
 | **2. Accusativo**[[br]]**२. द्वितीया** | इमम् / एनम् | इदम् / एनत् | इमाम् / एनाम् | इमान् / एनान् | इमानि / एनानि | इमास् / एनाः |
 | **3. Strumentale**[[br]]**३. तृतीया** | अनेन / एनेन || अनया / एनया | एभिस् || आभिस् |
@@ -564,7 +585,7 @@ Fig.: सद्गुरुः
 
 :::
 
-### 27.7.13. Pronomi relativi: यद्
+### 27.7.13. Pronome relativo: यद्
 
 ::: grammar-box
 
@@ -599,30 +620,30 @@ Fig.: सद्गुरुः
 ::: media
 ![](/images/lekt2717.jpg)
 Fig.: कस्मात् ?
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2717))
+Tsunami 2005, Sri Lanka.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2717))
 :::
 
 ::: deleteme-box
 
-### Fonti
 
 **lekt2701:** Jaipur, 1875. [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-**lekt2702:** Rajasthan. [Fonte dell'immagine: fbloeink su Flickr, 18-12-2008, CC BY-NC-SA]
-**lekt2703:** Holi. [Fonte dell'immagine: S.Raj su Flickr, 18-12-2008, CC BY-NC-ND]
+**lekt2702:** Rajasthan. [Fonte dell'immagine: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
+**lekt2703:** Holi. [Fonte dell'immagine: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
 **lekt2704:** Harihara (a sinistra: Viṣṇu, a destra: Śiva). [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-**lekt2705:** Harihara (a sinistra: Viṣṇu, a destra: Śiva). Godrumdwip, Bengala Occidentale. [Fonte dell'immagine: GourangaUK / Wikipedia. Licenza GNU FDL]
-**lekt2706:** Vastrāṇi. Majuli, Assam. [Fonte dell'immagine: deepsan su Flickr, 18-12-2008, CC BY-NC-ND]
-**lekt2707:** Vasanta (*Schleichera oleosa*), Khopoli, Maharashtra, 07-04-2007. [Fonte dell'immagine: dinesh_valke su Flickr, 18-12-2008, CC BY-NC-ND]
+**lekt2705:** Harihara (a sinistra: Viṣṇu, a destra: Śiva). Godrumdwip, Bengala occidentale. [Fonte dell'immagine: GourangaUK / Wikipedia. Licenza GNU FD]
+**lekt2706:** Vastrāṇi. Majuli, Assam. [Fonte dell'immagine: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
+**lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Fonte dell'immagine: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
 **lekt2708:** Arco di Rāma. [Fonte dell'immagine: Wikipedia. Dominio pubblico]
 **lekt2709:** Dipinto di Rāja Ravi Varma (1848 - 1906). [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-**lekt2710:** Frutti. Bangalore. [Fonte dell'immagine: GflaiG su Flickr, 18-12-2008, CC BY-NC-ND]
-**lekt2711:** Naran. Udaipur. [Fonte dell'immagine: Dey su Flickr, 18-12-2008, CC BY-NC-SA]
-**lekt2712:** Impiccagione di due partecipanti alla Ribellione del 1857. Fotografia di Felice Beato (1833/1834 - ca. 1907). [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008), Guru. [Fonte dell'immagine: Wikipedia, Licenza GNU FDL]
-**lekt2714:** Mucca a Udaipur. [Fonte dell'immagine: Dey su Flickr, 19-12-2008, CC BY-NC-SA]
+**lekt2710:** Frutta. Bangalore. [Fonte dell'immagine: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
+**lekt2711:** Naran. Udaipur. [Fonte dell'immagine: Dey Flickr, 2008-12-18, CC BY-NC-SA]
+**lekt2712:** Impiccagione di due partecipanti alla ribellione del 1857. Fotografia di Felice Beato (1833/1834 - ca. 1907). [Fonte dell'immagine: Wikipedia. Dominio pubblico]
+**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Fonte dell'immagine: Wikipedia, Licenza GNU FD]
+**lekt2714:** Mucca a Udaipur. [Fonte dell'immagine: Dey Flickr, 2008-12-19, CC BY-NC-SA]
 **lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Fonte dell'immagine: Wikipedia. Dominio pubblico]
 **lekt2716:** Sai Baba di Shirdi (1835 - 1918). [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-**lekt2717:** Tsunami 2005, Sri Lanka. [Fonte dell'immagine: Hjálparstarf su Flickr, 19-12-2008, CC BY-NC-SA]
-**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) con suo nipote il Principe Jaya Chamaraja Wadiyar, Mysore. [Fonte dell'immagine: Wikipedia. Dominio pubblico]
+**lekt2717:** Tsunami 2005, Sri Lanka. [Fonte dell'immagine: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
+**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) con suo nipote Principe Jaya Chamaraja Wadiyar, Mysore. [Fonte dell'immagine: Wikipedia. Dominio pubblico]
 
 :::

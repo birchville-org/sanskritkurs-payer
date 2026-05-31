@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Themen-Register
+# Тематический указатель
 
-Das Themen-Register wird automatisch aus den Überschriften aller Lektionen generiert. Es ermöglicht einen schnellen Zugriff auf spezifische grammatikalische Phänomene.
+Тематический указатель автоматически генерируется на основе заголовков всех уроков. Он обеспечивает быстрый доступ к конкретным грамматическим явлениям.
 
 &lt;PayerTopicIndex /&gt;
 

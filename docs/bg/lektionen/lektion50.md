@@ -1,206 +1,220 @@
+---
+title: Урок 50
+subtitle: "Именна формация: редовна степенуване"
+lesson_id: 50
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 50
 
-# Lektion 50
+## 50.1. Именна деривация: редовна степенуване
 
-## 50.1. Nominalbildung: regelmäßige Steigerung
+::: grammar-box
+**Редовната степенуване в санскрит се извършва с तद्धित суфикси**
+* **-तर (ж.р.: तरा) в „компаратив“**
+* **तम (ж.р.: तमा) в „суперлатив“**
 
-Die regelmäßige Steigerung erfolgt im Sanskrit mit den तद्धित-Suffixen &lt;!-- TODO: Fallback translation --&gt;
-
-*   \-तर (fem.: तरा) im "Komparativ" &lt;!-- TODO: Fallback translation --&gt;
-*   तम (fem.: तमा) im "Superlativ" &lt;!-- TODO: Fallback translation --&gt;
-
-Diese Suffixe werden bei Adjektiven an den Maskulinstamm angefügt. Bei Nomina mit Stammabstufung werden sie an den schwachen Stamm angefügt, die die form hat wie vor der Endung -su des Lokativ (पञ्चमी) Plural. &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt5007.jpg
-Abb.: लोकस्योत्तमो गिरिः  
-Abb.: सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest  
-\[Bildquelle: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-Bedeutung: &lt;!-- TODO: Fallback translation --&gt;
-
-Der "Komparativ" bedeutet, wenn kein verglichener Gegenstand ausgedrückt wird: "ziemlich, sehr, zu": &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-z.B. सुचितर 3 "ziemlich rein", "sehr rein", "zu rein" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Ablativ (पञ्चमी). Komparativ + Ablativ entspricht der Steigerung mit "als" im Deutschen. &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-z.B. देवदत्ताद्रामो धीमत्तरः = wörtl.: "von Devadatta aus gesehen ist Rāma einsichtiger" = "Rāma ist einsichtiger als Devadatta" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äußerst, sehr": &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-z.B. सत्तम 3 (zu सन्त्) "äußerst gut, sehr gut" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Genetiv (षष्ठी) ("von", "unter") und der Superlativ entspricht dem deutschen Superlativ (Höchststufe): &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-z.B. द्विजानां सत्तमः = "der beste der Zweimalgeborenen" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Die Suffixe -तर und -तम können nicht nur an Adjektive treten, sondern auch an Substantive, Indeklinabilia und sogar Verbalformen: &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-गजतम m. "der beste Elefant" (गज) (auch Bezeichnung Buddhas) &lt;!-- TODO: Fallback translation --&gt;
-
-गोतम m. "der größte Ochse" (गो) oder: "am reichsten an Rindern" &lt;!-- TODO: Fallback translation --&gt;
-
-उद् Indekl. "auf", "hinauf" » उत्तर 3 "höherer" » उत्तम 3 "höchster" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-&lt;!-- TODO: Fallback translation --&gt;
-
-*   \-तराम्
-*   \-तमाम्
-
-&lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-पचतितराम् "er/sie/es kocht besser" &lt;!-- TODO: Fallback translation --&gt;
-
-पचतितमाम् "er/sie/es kocht am besten" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Treten diese Suffixe an eine Verbalform, so erscheinen sie stets in der adverbialen Form: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-z.B. सुतराम् (zu सु) "auf bessere Weise" (adverbial) &lt;!-- TODO: Fallback translation --&gt;
+**Тези суфикси се добавят към мъжки род основа на прилагателните. При имена с коренна вариация те се добавят към слабата основа, която има формата като преди окончанието -su на локал (पञ्चमी) множествено число.**
 :::
 
 ::: media
-![]/images/lekt5006.jpg
-Abb.: का पचतितमाम्  
-Lisu = 傈僳族, अरुणाचल प्रदेश  
-\[Bildquelle: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]   &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5007.jpg)
+Ил.: लोकस्योत्तमो गिरिः
+सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
+(Източник на изображението: [Подробности](/bg/licenses#lekt5007))
 :::
 
-## 50.2. Речник
+:::: grammar-box
+**Значение:**
 
-ध्रुव 3: fest, unveränderlich &lt;!-- TODO: Fallback translation --&gt;
-
-निषेक m.: Besprengung, Befruchtung, Flüssigkeit, Ejakulat, Zeremonie bei der Zeugung &lt;!-- TODO: Fallback translation --&gt;
-
-पण्डित 3: klug, weise, gelehrt &lt;!-- TODO: Fallback translation --&gt;
-
-मन् + अव 4Ā अवमन्यते : missachten, verachten &lt;!-- TODO: Fallback translation --&gt;
-
-मन्त्रिन् 3: ratgebend ; m.: Berater, Ratsherr, Minister &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt5001.jpg
-Abb.: मन्त्री  
-Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)  
-\[Bildquelle: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)\]  &lt;!-- TODO: Fallback translation --&gt;
-:::
-रहस् n.: Geheimnis, Einsamkeit &lt;!-- TODO: Fallback translation --&gt;
-
-रिष् 1P रिषति 4P रिष्यति : geschädigt werden, misslingen, beschädigen &lt;!-- TODO: Fallback translation --&gt;
+**„Компаративът“ означава, когато не е изразен сравнителен обект: „доволно, много, прекалено“:**
 
 ::: indent
-Perf. II रिरेष, रिरिषुर्   &lt;!-- TODO: Fallback translation --&gt;
+напр. सुचितर 3 „доволно чист“, „много чист“, „прекалено чист“
 :::
 
-लुप् 6U लुम्पति : brechen, zerstören &lt;!-- TODO: Fallback translation --&gt;
+**Ако е изразен сравнителен обект, той е в аблатив (पञ्चमी). Компаратив + аблатив съответства на степенуване с „от“ в немския език.**
 
 ::: indent
-Gerundiv लुप्य । लोप्य &lt;!-- TODO: Fallback translation --&gt;
+напр. देवदत्ताद्रामो धीमत्तरः = букв.: „от гледна точка на Девадата Рама е по-разбираем“ = „Рама е по-разбираем от Девадата“
 :::
 
-विधि m.: auch: Schicksal (zu विधा) &lt;!-- TODO: Fallback translation --&gt;
-
-वृष् 1P वर्षति : regnen (meist mit einem कर्तृ -- einem Gott oder einer Wolke) &lt;!-- TODO: Fallback translation --&gt;
+**„Суперлативът“ означава, когато не е изразен сравнителен обект: „крайно, много“:**
 
 ::: indent
-Absol. वर्षित्वा । वृष्ट्वा   &lt;!-- TODO: Fallback translation --&gt;
+напр. सत्तम 3 (към सन्त्) „крайно добър, много добър“
 :::
 
-::: media
-![]/images/lekt5002.jpg
-Abb.: महामेघो वर्षिष्यति  
-Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು  
-\[Bildquelle: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-संयक् Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig &lt;!-- TODO: Fallback translation --&gt;
-
-आदित्य m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt5005.jpg
-Abb.: आदित्यः  
-\[Bildquelle: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-सर्व 3: jeder, alle &lt;!-- TODO: Fallback translation --&gt;
-
-Deklination wie यद् (Ausnahme: Nom.Akk.sg.Neutrum) &lt;!-- TODO: Fallback translation --&gt;
-
-|   | Единствено число | | | | |
-एकवचनम् | Plural   | | | | | |
-बहुवचनम् | | | | | | | &lt;!-- TODO: Fallback translation --&gt;
-| --- | --- | --- | --- | --- | --- |
-| Мъжки род | | | | | |
-पुंस् | Neutrum   | | | | | |
-नपुंसकम् | Femininum   | | | | | |
-स्त्री | Maskulinum   | | | | | |
-पुंस् | Neutrum   | | | | | |
-नपुंसकम् | Femininum   | | | | | |
-स्त्री | | | | | | | &lt;!-- TODO: Fallback translation --&gt;
-| सर्वस् | सर्वम् | सर्वा | सर्वे | सर्वाणि | सर्वास् |
-| 1\. Номинатив | | | | | |
-१. प्रथमा | | | | | | |
-| 2\. Акузатив | | | | | |
-२. द्वितीया | सर्वम् | सर्वम् | सर्वाम् | सर्वान् | सर्वाणि | सर्वास् |
-| 3\. Инструменталис | | | | | |
-३. तृतीया | सर्वेण | सर्वया | सर्वैस् | सर्वाभिस् | | |
-| 4\. Датив | | | | | |
-४. चतुर्थी | सर्वस्मै | सर्वस्यै | सर्वेभ्यस् | सर्वाभ्यस् | | |
-| 5\. Аблатив | | | | | |
-५. पञ्चमी | सर्वस्मात् | सर्वस्यास् | सर्वेभ्यस् | सर्वाभ्यस् | | |
-| 6\. Генетив | | | | | |
-६. षष्ठी | सर्वस्य | सर्वस्यास् | सर्वेषाम् | सर्वासाम् | | |
-| 7\. Локатив | | | | | |
-७. सप्तमी | सर्वस्मिन् | सर्वस्याम् | सर्वेषु | सर्वासु | | |
-
-वै : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber &lt;!-- TODO: Fallback translation --&gt;
-
-इह Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (षष्ठी) gleichbedeutend mit अस्मिन्, अस्याम् &lt;!-- TODO: Fallback translation --&gt;
-
-कल्प m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu कॢप्) &lt;!-- TODO: Fallback translation --&gt;
-
-कल्याण 3 (f.: कल्याणी) :schön &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt5003.jpg
-Abb.: कल्याणी  
-\[Bildquelle: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-कु- : als Vorderglied von Komposita: schlecht &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt5004.jpg
-Abb.: कुनगरम्  
-धारावी, मुंबई  
-\[Bildquelle: Kounosu / Wikipedia. GNU FDLicense\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : sehen &lt;!-- TODO: Fallback translation --&gt;
+**Ако е изразен сравнителен обект, той е в генитив (षष्ठी) („от“, „под“), а суперлативът съответства на немския суперлатив (висша степен):**
 
 ::: indent
-Perf. चचक्षे   &lt;!-- TODO: Fallback translation --&gt;
+напр. द्विजानां सत्तमः = „най-добрият от дваж родените“
 :::
 
-चक्ष् + प्र 2Ā प्रचष्टे : erzählen, halten für, nennen &lt;!-- TODO: Fallback translation --&gt;
+**Суффиксите -तर и -तम могат да не се присъединяват само към прилагателни, но и към съществителни, индеклинабила и дори глаголни форми:**
 
-देश m.: Ort, Platz, Land, Gegend &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-## 50.3. Упражнение за превод
+::: indent
+गजतम м.р. „най-добрият слон“ (गज) (също обозначение на Буда)
 
-A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsformen im Singular zu गुरु m.: &lt;!-- TODO: Fallback translation --&gt;
+गोतम м.р. „най-големият бик“ (गो) или: „най-богат на крави“
+
+उद् Индекл. „на“, „нагоре“ » उत्तर 3 „по-висок“ » उत्तम 3 „най-висок“
+:::
+
+**Когато тези суфикси се присъединят към глаголна форма, те винаги се появяват в наречна форма:**
+
+* **-तराम्**
+* **-तमाम्**
+
+Примери:
+
+::: indent
+पचतितराम् „той/тя/то готви по-добре“
+
+पचतितमाम् „той/тя/то готви най-добре“
+:::
+
+**Тази форма имат тези суфикси и когато се присъединят към индеклинабило и производното слово се използва наречно:**
+
+::: indent
+напр. सुतराम् (към सु) „по-добър начин“ (наречно)
+:::
+::::
+
+::: media
+![](/images/lekt5006.jpg)
+Ил.: का पचतितमाम्
+Лису = 傈僳族, अरुणाचल प्रदेश
+(Източник на изображението: [Подробности](/bg/licenses#lekt5006))
+:::
+
+## 50.2. Списък на думите
+
+ध्रुव 3: твърд, неизменен
+
+निषेक m.: пръскане, оплождане, течност, еякулат, церемония при зачеването
+
+पण्डित 3: умен, мъдър, учен
+
+मन् + अव 4Ā अवमन्यते: пренебрегвам, гледам с презрение
+
+मन्त्रिन् 3: съветващ; m.: съветник, съветник, министър
+::: media
+![](/images/lekt5001.jpg)
+Ил.: मन्त्री
+Капил Сибал (1948 -), министър в Министерството на науката и технологиите и Министерството на науките за Земята (от 2006 г.)
+(Източник на изображението: [Подробности](/bg/licenses#lekt5001))
+:::
+रहस् n.: тайна, самота
+
+रिष् 1P रिषति 4P रिष्यति: биват увредени, неуспяват, повреждат
+
+::: indent
+Перф. II रिरेष, रिरिषुर्
+Фут. रेषिष्यति
+Пас. रिष्यते
+Кавз. रेषयति
+PPP रिष्ट
+:::
+
+**लुप् 6U *लुम्प*ति**: чупя, разрушавам
+
+::: indent
+Перф. II लुलोप, लुलुपे
+Фут. लोप्स्यति
+Пас. लुप्यते
+Кавз. लोपयति
+PPP लुप्त
+Инф. लोप्तुम्
+Герундив लुप्य । लोप्य
+:::
+
+विधि m.: също: съдба (към विधा)
+
+वृष् 1P वर्षति: вали (повече с कर्तृ -- бог или облак)
+
+::: indent
+Перф. II ववर्ष, ववृषुर्
+Фут. वर्षिष्यति
+Пас. वृष्यते
+Кавз. वर्षयति
+PPP वृष्ट
+Инф. वर्षितुम्
+Абсол. वर्षित्वा । वृष्ट्वा
+Абсол.-वृष्य
+:::
+
+::: media
+![](/images/lekt5002.jpg)
+Ил.: महामेघो वर्षिष्यति
+Пристигане на мусона, Бангалор  ಬೆಂಗಳೂರು
+(Източник на изображението: [Подробности](/bg/licenses#lekt5002))
+:::
+संयक् Adv.: правилно, истински, по подходящ начин; изцяло, напълно
+
+आदित्य m.: Слънце; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya): определена класа богове
+
+::: media
+![](/images/lekt5005.jpg)
+Ил.: आदित्यः
+(Източник на изображението: [Подробности](/bg/licenses#lekt5005))
+:::
+सर्व 3: всеки, всички
+
+Склонение като यद् (изключение: Nom.Akk.sg.Neutrum)
+
+::: grammar-box
+| | Единствено число[[br]]एकवचनम् || || Множествено число[[br]]बहुवचनम् || ||
+| | **Мъжки род[[br]]पुंस्** | **Среден род[[br]]नपुंसकम्** | **Женски род[[br]]स्त्री** | **Мъжки род[[br]]पुंस्** | **Среден род[[br]]नपुंसकम्** | **Женски род[[br]]स्त्री** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1. Наречие[[br]]१. प्रथमा** | सर्वस् | ***सर्वम्*** | सर्वा | सर्वे | सर्वाणि | सर्वास् |
+| **2. Винителен[[br]]२. द्वितीया** | सर्वम् | ***सर्वम्*** | सर्वाम् | सर्वान् | सर्वाणि | सर्वास् |
+| **3. Творителен[[br]]३. तृतीया** | सर्वेण || सर्वया | सर्वैस् || सर्वाभिस् |
+| **4. Дателен[[br]]४. चतुर्थी** | सर्वस्मै || सर्वस्यै | सर्वेभ्यस् || सर्वाभ्यस् |
+| **5. Аблатив[[br]]५. पञ्चमी** | सर्वस्मात् || सर्वस्यास् | सर्वेभ्यस् || सर्वाभ्यस् |
+| **6. Генитив[[br]]६. षष्ठी** | सर्वस्य || सर्वस्यास् | सर्वेषाम् || सर्वासाम् |
+| **7. Локатив[[br]]७. सप्तमी** | सर्वस्मिन् || सर्वस्याम् | सर्वेषु || सर्वासु |
+:::
+
+वै: частица, която подчертава предходната дума: наистина, истински, но
+
+इह Adv.: тук, тук на земята, насам; сега. Пред съществителни в локатив (षष्ठी) с едно значение с अस्मिन्, अस्याम्
+
+कल्प m: установление, обичай, ритуал; [епоха](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (към कॢप्)
+
+कल्याण 3 (f.: कल्याणी): красив
+
+::: media
+![](/images/lekt5003.jpg)
+Ил.: कल्याणी
+(Източник на изображението: [Подробности](/bg/licenses#lekt5003))
+:::
+कु-: като преден компонент на съставни думи: лош
+
+::: media
+![](/images/lekt5004.jpg)
+Ил.: कुनगरम्
+धारावी, मुंबई
+(Източник на изображението: [Подробности](/bg/licenses#lekt5004))
+:::
+चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे: виждам
+
+::: indent
+Св. चचक्षे
+не се използва в останалите времена
+:::
+
+चक्ष् + प्र 2Ā प्रचष्टे : разказвам, смятам за, наричам
+
+देश м.: място, място, страна, област
+
+## 50.3. Преводна практика
+
+A) За повторение на склонението: следният стих съдържа всички форми за склонение в единствено число за गुरु м.р.:
 
 ::: indent
 गुरुरेव गतिर्गुरुमेव भजे
@@ -210,12 +224,12 @@ A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsfo
 :::
 
 ::: media
-![]/images/lekt5008.jpg
-Abb.: गुरुमेव भजे  
-Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt  
-\[Bildquelle: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5008.jpg)
+Ил.: गुरुमेव भजे
+Ганешпури, на 80 км от Мумбай (मुंबई)
+(Източник на изображението: [Подробности](/bg/licenses#lekt5008))
 :::
-गुरुरेव गतिर्गुरुमेव भजे  
+B) Преведете:
 
 मनुस्मृति ४, १७८
 
@@ -244,7 +258,7 @@ Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt
 कल्याणं तत्र वै ध्रुवम् ॥३॥
 :::
 
-मनुस्मृति ३, ७५ - ७६: Über die Notwendigkeit des Opfers &lt;!-- TODO: Fallback translation --&gt;
+मनुस्मृति ३, ७५ - ७६: За необходимостта от жертвоприношението
 
 ::: indent
 स्वाध्याये नित्ययुक्तः स्याद्
@@ -261,12 +275,13 @@ Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt
 
 ::: indent
 हेयं दुःखमनागतम् ॥६॥
-द्रष्टृदृश्ययोः संयोगो हेयहेतुः ॥७॥
+***द्रष्टृदृश्ययोः*** संयोगो हेयहेतुः ॥७॥
 
-द्रष्टृदृश्ययोः : Gen.Lok.m.n.f.Dual (Dualdvandva) &lt;!-- TODO: Fallback translation --&gt;
+Обяснение:
+द्रष्टृदृश्ययोः : Ген.Лок.м.н.дв. (Двоен двандва)
 :::
 
-कौटिलीयार्थशास्त्र १, १५: Über Ratgeber des Königs &lt;!-- TODO: Fallback translation --&gt;
+कौटिलीयार्थशास्त्र १, १५: За съветниците на краля
 
 ::: indent
 न किंचिदवमन्येत
@@ -275,7 +290,7 @@ Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt
 उपयुन्जीत पाण्डितः ॥८॥
 :::
 
-मनुस्मृति २, १४० - १४२: Definition von आचार्य, उपाध्याय, गुरु &lt;!-- TODO: Fallback translation --&gt;
+मनुस्मृति २, १४० - १४२: Дефиниция на आचार्य, उपाध्याय, गुरु
 
 ::: indent
 उपनीय तु यः शिष्यं
@@ -288,32 +303,31 @@ Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt
 यो ऽध्यापयति वृत्त्यर्थम्
 उपाध्यायः स उच्यते ॥१०॥
 
-निषेकादीनि कर्माणि
+निषेका***दीनि*** कर्माणि
 यः करोति यथाविधि ।
 संभावयति चान्नेन
 स विप्रो गुरुरुच्यते ॥११॥
 
-निषेकादीनि कर्माणि  
+Обяснения:
+निषेकादीनि : Имен.Мъж.мн.среден род
 :::
 
 ::: deleteme-box
 
-### Източници
+**lekt5007:** Ил.: सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Източник на изображението: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Посетено на 2009-01-12. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Приписване)]
 
-**lekt5007:** Abb.: सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Bildquelle: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5006:** Лису = 傈僳族, अरुणाचल प्रदेश [Източник на изображението: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Посетено на 2009-01-12. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, некомърсиално използване, без производни произведения)]
 
-**lekt5006:** Lisu = 傈僳族, अरुणाचल प्रदेश [Bildquelle: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5001:** Капил Сибал (1948 -), министър в Министерството на науката и технологиите и Министерството на науките за Земята (от 2006 г.) [Източник на изображението: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Посетено на 2009-01-12. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Приписване, споделяне на еднакво)]
 
-**lekt5001:** Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Bildquelle: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5002:** Пристигане на мусона, Бангалор  ಬೆಂಗಳೂರು [Източник на изображението: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Посетено на 2009-01-12. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, некомърсиално използване, без производни произведения)]
 
-**lekt5002:** Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು [Bildquelle: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5005:** [Източник на изображението: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Посетено на 2009-01-12. -- [Лиценз на Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Приписване, споделено под еднакъв лиценз)]
 
-**lekt5005:** [Bildquelle: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5003:** [Източник на изображението: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Посетено на 2009-01-12. -- [Лиценз на Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, некомърсиално използване, без производни произведения)]
 
-**lekt5003:** [Bildquelle: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5004:** धारावी, मुंबई [Източник на изображението: Kounosu / Wikipedia. GNU FDLicense]
 
-**lekt5004:** धारावी, मुंबई [Bildquelle: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5008:** Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt [Bildquelle: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5008:** Ганешпури, на 80 км от Мумбай (मुंबई) [Източник на изображението: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Посетено на 2009-01-13. -- [Лиценз на Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Приписване, некомърсиално използване, споделено под еднакъв лиценз)]
 
 :::

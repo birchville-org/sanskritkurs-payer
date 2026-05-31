@@ -1,41 +1,45 @@
 ---
+title: Lesson 46
+subtitle: "Formation of the verbal forms of the 2nd person (मध्यमः) Perfect (लिट्)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 46
 
-## 46.1. Formation of the Second Person (मध्यमः) Perfect (लिट्) Verb Forms
+## 46.1. Formation of the verbal forms of the 2nd person (मध्यमः) Perfect (लिट्)
 
 ### 46.1.1. Endings
 
 ::: grammar-box
-| | परस्मैपदम् (Parasmaipada) || आत्मनेपदम् (Ātmanepada) ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Perfect Endings** | **एकवचनम् (Singular)** | **बहुवचनम् (Plural)** | **एकवचनम् (Singular)** | **बहुवचनम् (Plural)** |
+| **Perfect endings** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | ^^ | \-tha | \-a | \-se | \-dhve |
 :::
 
-Note that the ending — though not necessarily the form — of the 2nd person plural (2.pl.P) coincides with that of the 1st and 3rd person singular (1. and 3.sg.P).
+Note that the ending -- mostly but not the form! -- of the 2.pl.P coincides with that of the 1. and 3.sg.P.
 
 ::: grammar-box
-Before \-tha, most roots ending in -ṛ do not take an intervening vowel \-i-. In the case of certain roots, the presence of \-i- before \-tha is optional.
+Before -tha, with most roots ending in -ṛ, no connecting vowel \-i- appears. With some roots, the \-i- before \-tha- is optional.
 :::
 
-### 46.1.2. Sound Change of the Suffix -dhve
+### 46.1.2. Sound Change of the Ending -dhve
 
 ::: grammar-box
-The suffix *-dhve* must be replaced by *-ḍhve* in the perfect tense when a root-final *-u* or *-ṛ* immediately precedes it. This replacement may optionally occur after the connecting vowel *-i-*, provided that a semivowel or *h* immediately precedes this vowel.
+The ending -dhve must be replaced by -ḍhve in the perfect when a root-internal -u or -ṛ immediately precedes it. This replacement can optionally occur after the connecting vowel -i- when a semivowel or h immediately precedes that -i-.
 :::
 
-### 46.1.3. Perfect Type I: No Stem Gradation
+### 46.1.3. Perfect Type I: no stem gradation
 
 Verbs that follow this type:
 
-*   Consonant-Long Vowel-Consonant
+*   Consonant-LongVowel-Consonant
 *   Consonant-Vowel-Consonant-Consonant
 *   a-Consonant(-Consonant)
-*   ā-Consonant
+*   ā-consonant
 
 ::: grammar-box
 1.sg.P = 3.sg.P = 2.pl.P
@@ -68,35 +72,35 @@ Verbs that follow this type:
 | आसिथ | आस | &lt;आसिषे&gt; | &lt;आसिध्वे&gt; |
 :::
 
-### 46.1.4. Perfect Type II: Strong stem in guṇa, weak stem in zero-grade
+### 46.1.4. Perfect Type II: strong stem full grade, weak stem reduced grade
 
-Verbs following this type:
+Verbs that follow this type:
 
 *   (Consonant-)i/u/ṛ/ḷ-consonant
 
-भिद् (bhid) 7U
+भिद् 7U
 
 ::: grammar-box
-| परस्मैपदम् (Parasmaipada) || आत्मनेपदम् (Ātmanepada) ||
+| परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: |
-| **एकवचनम् (Singular)** | **बहुवचनम् (Plural)** | **एकवचनम् (Singular)** | **बहुवचनम् (Plural)** |
-| बिभेदिथ (bibheditha) | बिभिद (bibida) | बिभिदिषे (bibidiṣe) | बिभिदिध्वे (bibididhvam) |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| बिभेदिथ | बिभिद | बिभिदिषे | बिभिदिध्वे |
 :::
 
-मुह् (muh) 4P optionally anit
+मुह् 4P optionally अनिट्
 
 ::: grammar-box
-| परस्मैपदम् (Parasmaipada) ||
+| परस्मैपदम् ||
 | :---: | :---: |
-| **एकवचनम् (Singular)** | **बहुवचनम् (Plural)** |
-| मुमोहिथ[[br]]मुमोढ[[br]]मुमोग्ध (mumohitha[[br]]mumoḍha[[br]]mumogdha) | मुमुह (mumuha) |
+| **एकवचनम्** | **बहुवचनम्** |
+| मुमोहिथ[[br]]मुमोढ[[br]]मुमोग्ध | मुमुह |
 :::
 
-### 46.1.5. Perfect Type III: Strong Stem in Guṇa/Long Grade / Vṛddhi Grade
+### 46.1.5. Perfect Type III: Strong Stem Full/Extended Grade
 
-#### 46.1.5.1. Perfect Type IIIa: Strong Stem in Guṇa/Long Grade, Weak Stem in Low Grade
+#### 46.1.5.1. Perfect Type IIIa: Strong Stem Full/Extended Grade, Weak Stem Low Grade
 
-Verbs following this type:
+Verbs that follow this type:
 
 *   (Consonant-)(Consonant-)i/ī/u/ū
 *   (Consonant-)-ṛ
@@ -137,12 +141,12 @@ Verbs following this type:
 | चकर्थ | चक्र | चकृषे | चकृढ्वे |
 :::
 
-#### 46.1.5.2. Perfect Type IIIb: Strong Stem in Guṇa/Long Grade, Weak Stem in High Grade
+#### 46.1.5.2. Perfect Type IIIb: Strong Stem Full/Extended Grade, Weak Stem Full Grade
 
-Verbs following this type:
+Verbs that follow this type:
 
 *   (Consonant-)(Consonant-)-ṝ
-*   Consonant-Consonant-ṛ
+*   consonant-consonant-ṛ
 
 पॄ 3P
 
@@ -162,11 +166,11 @@ Verbs following this type:
 | सञ्चस्करिथ | सञ्चस्कर | सञ्चस्करिषे | सञ्चस्करिध्वे[[br]]सञ्चसक्रिढ्वे |
 :::
 
-### 46.1.6. Perfect Type IV: Stems ending in -ā / -ai
+### 46.1.6. Perfect Type IV: Roots ending in -ā / -ai
 
 *   Weak stem:
-    *   before consonant: Low-grade -i
-    *   before vowel: Low-grade -ø
+    *   before consonant: Low-grade-i
+    *   before vowel: Low-grade-ø
 
 दा 3U
 
@@ -174,7 +178,7 @@ Verbs following this type:
 | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: |
 | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| ददाथ[[br]]ददिथ[[br]]da-di-tha[[br]]oder:[[br]]da-d-i-tha | दद | ददिषे | ददिध्वे |
+| ददाथ[[br]]ददिथ[[br]]da-di-tha[[br]]or:[[br]]da-d-i-tha | दद | ददिषे | ददिध्वे |
 :::
 
 गै 1P
@@ -188,9 +192,9 @@ Verbs following this type:
 
 ### 46.1.7. Perfect Type V: Consonant-a-Consonant
 
-#### 46.1.7.1. Perfect Type Va: Consonant-a-Consonant, Weak Stem, Low Grade
+#### 46.1.7.1. Perfect Type Va: Consonant-a-Consonant, weak stem strong grade
 
-Verbs following this type:
+Verbs that follow this type:
 
 ::: indent
 1.  gam "to go"
@@ -199,159 +203,159 @@ Verbs following this type:
 4.  vac "to speak"
 5.  vad "to speak"
 6.  yaj "to sacrifice"
-7.  et al.
+7.  etc.
 :::
 
 गम् 1P
 
 ::: grammar-box
-| Parasmaipada ||
+| परस्मैपदम् ||
 | :---: | :---: |
-| **Singular** | **Plural** |
+| **एकवचनम्** | **बहुवचनम्** |
 | जगमिथ[[br]]जगन्थ | जग्म |
 :::
 
 हन् 2P
 
 ::: grammar-box
-| Parasmaipada ||
+| परस्मैपदम् ||
 | :---: | :---: |
-| **Singular** | **Plural** |
+| **एकवचनम्** | **बहुवचनम्** |
 | जघनित[[br]]जगन्थ | जघ्न |
 :::
 
 जन् 4Ā
 
 ::: grammar-box
-| Atmanepada ||
+| आत्मनेपदम् ||
 | :---: | :---: |
-| **Singular** | **Plural** |
+| **एकवचनम्** | **बहुवचनम्** |
 | जज्ञिषे | जज्ञिध्वे |
 :::
 
 यज् 1U
 
 ::: grammar-box
-| Parasmaipada || Atmanepada ||
+| परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: |
-| **Singular** | **Plural** | **Singular** | **Plural** |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | इयजिथ[[br]]इयष्ठ | ईज | ईजिषे | ईजिध्वे |
 :::
 
 वच् 1P
 
 ::: grammar-box
-| Parasmaipada ||
+| परस्मैपदम् ||
 | :---: | :---: |
-| **Singular** | **Plural** |
+| **एकवचनम्** | **बहुवचनम्** |
 | उवचिथ[[br]]उवक्थ | ऊच |
 :::
 
 वह् 1U
 
 ::: grammar-box
-| Parasmaipada || Atmanepada ||
+| परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: |
-| **Singular** | **Plural** | **Singular** | **Plural** |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | उवहिथ[[br]]उवोढ | ऊह | ऊहिषे | ऊहिध्वे[[br]]ऊहिढ्वे |
 :::
 
 वद् 1P
 
 ::: grammar-box
-| Parasmaipada ||
+| परस्मैपदम् ||
 | :---: | :---: |
-| **Singular** | **Plural** |
+| **एकवचनम्** | **बहुवचनम्** |
 | उवदिथ | ऊद |
 :::
 
 स्वप् 2P
 
 ::: grammar-box
-| Parasmaipada ||
+| परस्मैपदम् ||
 | :---: | :---: |
-| **Singular** | **Plural** |
+| **एकवचनम्** | **बहुवचनम्** |
 | सुष्वपिथ[[br]]सुष्वप्थ | सुषुप[[br]]from: su + *svp + a |
 :::
 
-#### 46.1.7.2. Perfect Type Vb: Consonant-a-Consonant, Initial Consonant not a Gutural, Aspirate, or h, Weak Stem without Reduplication, with -e-
+#### 46.1.7.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
 
 ::: grammar-box
-The 2nd person singular Parasmaipada form is derived from the weak stem when the connecting vowel -i- occurs.
+The 2.sg.P. is formed from the weak stem when the connecting vowel -i- occurs.
 :::
 
 पच् 1U
 
 ::: grammar-box
-| Parasmaipada || Atmanepada ||
+| परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: |
-| **Singular** | **Plural** | **Singular** | **Plural** |
-| पपक्थ[[br]]पेचिथ | पेच | पेचिषे | पेचिध्वे |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| पपक्थ[[br]]***पेचिथ*** | पेच | पेचिषे | पेचिध्वे |
 :::
 
-#### 46.1.7.3. Perfect Type Vc: Consonant-a-Consonant, Weak Stem, High Grade
+#### 46.1.7.3. Perfect Type Vc: Consonant-a-Consonant, weak stem strong grade
 
-Verbs following this type:
+Verbs that follow this type:
 
 *   All other roots with medial -a-
 
 क्रम् 1U
 
 ::: grammar-box
-| Parasmaipada || Atmanepada ||
+| परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: |
-| **Singular** | **Plural** | **Singular** | **Plural** |
+| **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | चक्रमिथ | चक्रम | चक्रमिषे | चक्रमिध्वे |
 :::
 
-### 46.1.8. Special Perfect Forms
+### 46.1.8. Special Perfect Conjugations
 
 विद् 2P present perfect
 
 ::: grammar-box
-| Parasmaipada ||
+| परस्मैपदम् ||
 | :---: | :---: |
-| **Singular** | **Plural** |
-| vettha | vid |
+| **एकवचनम्** | **बहुवचनम्** |
+| वेत्थ | विद |
 :::
 
-ah
+अह्
 
 ::: grammar-box
-| Parasmaipada ||
+| परस्मैपदम् ||
 | :---: | :---: |
-| **Singular** | **Plural** |
-| ātta | \--- |
+| **एकवचनम्** | **बहुवचनम्** |
+| आत्थ | \--- |
 :::
 
-bhū 1P
+भू 1P
 
 ::: grammar-box
-| Parasmaipada ||
+| परस्मैपदम् ||
 | :---: | :---: |
-| **Singular** | **Plural** |
-| babhūvitha | babhuv[[br]]= 1.3.sg.P |
+| **एकवचनम्** | **बहुवचनम्** |
+| बभूविथ | बभूव[[br]]= 1.3.sg.P |
 :::
 
-ji 1P
+जि 1P
 
 ::: grammar-box
-| Parasmaipada ||
+| परस्मैपदम् ||
 | :---: | :---: |
-| **Singular** | **Plural** |
-| jigeṭha[[br]]jigayitha | jigya |
+| **एकवचनम्** | **बहुवचनम्** |
+| जिगेथ[[br]]जिगयिथ | जिग्य |
 :::
 
 ### 46.1.9. Periphrastic Perfect (अनुप्रयोगलिट्)
 
 The periphrastic perfect is formed from:
 
-*   Derived verbal stems (causative, desiderative, frequentative, denominative), particularly the causative
-*   Roots beginning with a long vowel (except ā)
-*   Roots: Vowel (except a)-Consonant-Consonant
-*   Some others
-*   For certain roots, both perfect forms may optionally be formed: uṣ "to burn", vid "to know", jāgṛ "to be awake", daridrā "to be poor"
-*   For the following roots, both perfect forms may optionally be formed, and the periphrastic perfect is also reduplicated, specifically with the reduplicating syllable of the present stem:
+*   derived verbal stems (causative, desiderative, frequentative, denominative), especially causative
+*   roots that begin with a long vowel (except ā)
+*   roots: vowel (except a-)-consonant-consonant
+*   a few others
+*   for some roots, both perfects can optionally be formed: uṣ "to burn", vid "to know", jāgṛ "to wake", daridrā "to be poor"
+*   for the following roots, both perfects can optionally be formed and the periphrastic perfect is also reduplicated, namely with the reduplication syllable of the present stem:
     *   bhī "to fear"
     *   bhṛ "to carry"
     *   hu "to sacrifice"
@@ -361,35 +365,35 @@ The periphrastic perfect is formed from:
 
 ::: grammar-box
 | परस्मैपदम् || आत्मनेपदम् ||
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | बन्धयां चकर्थ[[br]]बन्धयामासिथ[[br]]बन्धयां बभूविथ | बन्धयां चक्र[[br]]बन्धयामास[[br]]बन्धयां बभूव | बन्धयां चकृषे[[br]]बन्धयामासिथ[[br]]बन्धयां बभूविथ | बन्धयां चकृढ्वे[[br]]बन्धयामास[[br]]बन्धयां बभूव |
 :::
 
 ## 46.2. Word List
 
-सम 3: equal, same, similar
+सम 3: same, equal, similar
 
 ::: indent
-Derived from:
-समम् Adv.: in the same manner, at the same time (instrumental case), evenly
+from that:
+समम् Adv.: in the same manner, at the same time (तृतीयया), uniformly
 समता f.: equanimity
 विषम 3: unequal, uneven, evil
 
 :::
-ग्रह् 9U गृह्णाति (gṛh-ṇā-ti): to grasp, seize, take hold of
+ग्रह् 9U ***गृ***ह्णाति (gṛh-ṇā-ti) : seize, grasp, catch
 
 ::: indent
-Perfect Va (!) जग्राह, जगृहुर्  
-Future ग्रहीष्यति  
-Passive गृह्यते  
-Causative ग्राहयति  
-PPP गृहीत  
-Infinitive ग्रहितुम्  
-Absolutive -ग्राह्य
-Derived from:
-ग्रह m.: grasping, seizer, crocodile, planet (wandering star)
-नवग्रह m.: the nine planets (not fixed stars!) (see Basham, Wonder p. 493):
+Perf Va (!) जग्राह, जगृहुर्  
+Fut. ग्र***ही***ष्यति  
+Pass. गृह्यते  
+Caus. ग्राहयति  
+PPP गृ***ही***त  
+Inf. ग्रहितुम्  
+Absol. -ग्राह्य
+from that:
+ग्रह m.: seizing, seizer, crocodile, wandering star
+नवग्रह m.: the nine wandering stars (not planets!) (s. Basham, Wonder p. 493):
 1.  सूर्यः = Sun
 2.  चन्द्रः = Moon
 3.  मङ्गलः = Mars
@@ -399,96 +403,98 @@ Derived from:
 7.  शनिः = Saturn
 8.  राहुः
 9.  केतुः
-Regarding राहु and केतु, see:
-&gt; **Payer, Alois &lt;1944 - &gt;:** Dharmashastra: Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the Invisible Planets. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 
 :::
+
+Regarding राहु and केतु see:
+
+> **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.jpg)
-Fig.: [सूर्यः, चन्द्रः, मङ्गलः](/licenses#lekt4602)
-(Image source: [Details](/licenses#lekt4602))
+Fig.: [सूर्यः, चन्द्रः, मङ्गलः](/en/licenses#lekt4602)
+(Image source: [Details](/en/licenses#lekt4602))
 :::
 ::: media
 ![](/images/lekt4603.jpg)
-Fig.: [बुधः, बृहस्पतिः](/licenses#lekt4603)
-(Image source: [Details](/licenses#lekt4603))
+Fig.: [बुधः, बृहस्पतिः](/en/licenses#lekt4603)
+(Image source: [Details](/en/licenses#lekt4603))
 :::
 
 ::: media
 ![](/images/lekt4604.jpg)
-Fig.: [शुक्रः, शनिः](/licenses#lekt4604)
-(Image source: [Details](/licenses#lekt4604))
+Fig.: [शुक्रः, शनिः](/en/licenses#lekt4604)
+(Image source: [Details](/en/licenses#lekt4604))
 :::
 ::: media
 ![](/images/lekt4605.jpg)
-Fig.: [राहुः, केतुः](/licenses#lekt4605)
-(Image source: [Details](/licenses#lekt4605))
+Fig.: [राहुः, केतुः](/en/licenses#lekt4605)
+(Image source: [Details](/en/licenses#lekt4605))
 :::
 
 
-तुष् 4P तुष्यति: to be content, to be satisfied with (genitive, dative, instrumental, locative cases)
+तुष् 4P तुष्यति : be content, be satisfied with (षष्ठ्या, चतुर्थ्या, तृतियया, सप्तम्या)
 
 ::: indent
-Perfect II तुतोष, तुतुषुर्  
-Future तोक्ष्यति  
-Passive तुष्यते  
-Causative तोषयति  
+Perf. II तुतोष, तुतुषुर्  
+Fut. तोक्ष्यति  
+Pass. तुष्यते  
+Caus. तोषयति  
 PPP तुष्ट  
-Infinitive तोष्टुम्
+Inf. तोष्टुम्
 
 :::
-नम् 1P नमति: to bend, bow, incline, prostrate oneself
+नम् 1P नमति : bend, bow, lean, incline
 
 ::: indent
-Perfect Vb ननाम, नेमुर्  
-Future नंस्यति  
-Passive नम्यते  
-Causative नमयति । नामयति  
+Perf. Vb ननाम, नेमुर्  
+Fut. नंस्यति  
+Pass. नम्यते  
+Caus. नमयति । नामयति  
 PPP नत  
-Infinitive नन्तुम्
+Inf. नन्तुम्
 
 :::
 ::: media
 ![](/images/lekt4607.jpg)
-Fig.: [नारायण तुभ्यं नमामि](/licenses#lekt4607)
-(Image source: [Details](/licenses#lekt4607))
+Fig.: [नारायण तुभ्यं नमामि](/en/licenses#lekt4607)
+(Image source: [Details](/en/licenses#lekt4607))
 :::
 
 
-रुह् 1P रोहति: to climb, ascend
+रुह् 1P रोहति : climb, ascend
 
 ::: indent
-Perfect II रुरोह, रुरुहे  
-Future रोक्ष्यति  
-Passive रुह्यते  
-Causative रोहयति । रोपयति  
-PPP. रूढ  
-Infinitive रोढुम्
+Perf. II रुरोह, रुरुहे  
+Fut. रोक्ष्यति  
+Pass. रुह्यते  
+Caus. रोहयति । रो***प***यति  
+PPP. ***रूढ***  
+Inf. रोढुम्
 
 :::
 ::: media
 ![](/images/lekt4606.jpg)
-Fig.: [अश्वरोहकः](/licenses#lekt4606)
-(Image source: [Details](/licenses#lekt4606))
+Fig.: [अश्वरोहकः](/en/licenses#lekt4606)
+(Image source: [Details](/en/licenses#lekt4606))
 :::
 
 
-ह्वे । हू 1U ह्वयति: to call, summon
+ह्वे । हू 1U ह्वयति : call, summon
 
 ::: indent
-Perfect IIIa जुहाव, जुहुवे  
-Future ह्वास्यति  
-Passive हूयते  
-Causative ह्वाययति  
+Perf. IIIa जुहाव, जुहुवे  
+Fut. ह्वास्यति  
+Pass. हूयते  
+Caus. ह्वाययति  
 PPP हूत  
-Infinitive ह्वातुम्  
-Absolutive -हूय
+Inf. ह्वातुम्  
+Absol. -हूय
 
 :::
 ::: media
 ![](/images/lekt4608.jpg)
-Fig.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/licenses#lekt4608)
-(Image source: [Details](/licenses#lekt4608))
+Fig.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/en/licenses#lekt4608)
+(Image source: [Details](/en/licenses#lekt4608))
 :::
 
 
@@ -496,31 +502,32 @@ Fig.: [महामात्र कं चरिष्णुदूरशब्�
 1 महामात्र m. "Mahout"; चरिष्णु 3 "mobile", दूरशब्द m. "long-distance call, telephone" » चरिष्णुदूरशब्द "mobile phone" (word formation: A. Payer)
 
 :::
-विभ्रम m.: the going back and forth
+विभ्रम m.: going back and forth
 
-भ्रंश m.: falling off
+भ्रंश m.: dropping off
 
-श्रम् 4P श्राम्यति: to toil, become tired
+श्रम् 4P ***श्रा***म्यति : toil, become tired
 
 ::: indent
-Perfect Vc शश्राम, शश्रामुर्  
-Future श्रमिष्यति  
-Passive श्रम्यते  
-Causative श्रमयति । श्रामयति  
-PPP श्रान्त  
-Infinitive श्रमितुम्  
-Absolutive श्रमित्वा । श्रान्त्वा
-Derived from:
+Perf. Vc शश्राम, शश्रामुर्  
+Fut. श्रमिष्यति  
+Pass. श्रम्यते  
+Caus. श्रमयति । श्रामयति  
+PPP ***श्रान्***त  
+Inf. श्रमितुम्  
+Absol. श्रमित्वा । श्रान्त्वा
+from that:
 आश्रम m.n.
 
 :::
 ::: media
 ![](/images/lekt4609.jpg)
-Fig.: [श्रान्तः](/licenses#lekt4609)
-(Image source: [Details](/licenses#lekt4609))
+Fig.: [श्रान्तः](/en/licenses#lekt4609)
+(Image source: [Details](/en/licenses#lekt4609))
 :::
 
-श्रि 1U श्रयति : to lean, to lean against, to find support, to resort to someone (dative, ablative)
+
+श्रि 1U श्रयति : to lean, to lean against, to find support, to go to someone (द्वितीयया, सप्तम्या)
 
 ::: indent
 Perf. IIIa शिश्राय, शिश्रिये  
@@ -531,7 +538,7 @@ PPP श्रित
 Inf. श्रयितुम्
 
 :::
-सञ्ज् 1P सजति : to attach, to adhere to (ablative)
+सञ्ज् 1P ***सज***ति : to attach, to adhere to (सप्तम्या)
 
 ::: indent
 Perf. I ससञ्ज, ससञ्जुर्  
@@ -540,20 +547,20 @@ Pass. सज्यते
 Caus. सञ्जयति  
 PPP सक्त  
 Inf. संक्तुम्
-from this:
-सङ्ग m.: attachment to, contact with (instrumental)
+therefrom:
+सङ्ग m.: the attaching to, contact with (तृतीयया)
 
 :::
 ::: media
 ![](/images/lekt4610.jpg)
-Fig.: [सङ्गः](/licenses#lekt4610)
-(Image source: [Details](/licenses#lekt4610))
+Fig.: [सङ्गः](/en/licenses#lekt4610)
+(Image source: [Details](/en/licenses#lekt4610))
 :::
 
 द्रु 1P द्रवति : to run, to hasten
 
 ::: indent
-Perf. IIIa (anitat) दुद्राव, दुद्रुवुर्  
+Perf IIIa (अनिट्) दुद्राव, दुद्रुवुर्  
 Fut. द्रोष्यति  
 Pass. द्रूयते  
 Caus. द्रावयति  
@@ -562,20 +569,20 @@ Inf. द्रोतुम्
 Absol. -द्रुत्य
 
 :::
-भ्रम् 1P भ्रमति । 4P भ्राम्यति : to wander, to roam
+भ्रम् 1P भ्रमति । 4P ***भ्रा***म्यति : to wander about, to roam
 
 ::: indent
 Perf. Vc बभ्राम, बभ्रमुर् । Vb भ्रेमुर्  
 Fut. भ्रमिष्यति  
 Caus. भ्रमयति  
-PPP भ्रान्त  
+PPP ***भ्रा***न्त  
 Inf. भ्रमितुम्  
 Absol. -भ्रम्य
-from this:
-विभ्रम m.: wandering, confusion, error
+therefrom:
+विभ्रम m.: wandering about, confusion, error
 
 :::
-लम्ब् 1Ā लम्बते : to hang down from (ablative), to hang on (ablative)
+लम्ब् 1Ā लम्बते : to hang down from (सप्तम्या), to hang on (सप्तम्या)
 
 ::: indent
 Perf. I ललम्बे  
@@ -589,33 +596,33 @@ Absol. -लम्ब्य
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Fig.: [लम्बोदर नमस्तुभ्यम्](/licenses#lekt4601)
-(Image source: [Details](/licenses#lekt4601))
+Fig.: [लम्बोदर नमस्तुभ्यम्](/en/licenses#lekt4601)
+(Image source: [Details](/en/licenses#lekt4601))
 :::
 
-लम्ब् + आ 1Ā आलम्बते : to hang on (accusative)
+लम्ब् + आ 1Ā आलम्बते : to hang on (द्वितीयया)
 
-यदि conjunction: if
+यदि Conjunction:  if
 
 भू + परि 1P परिभवति : to encircle, to master, to conquer
 
 ::: indent
-PPP परिभूत 3: conquered, humiliated, abased
+PPP परिभूत 3: conquered, humiliated, degraded
 
 :::
-नि prefix: downward, down, into, backward
+नि Pref.: downwards, down, into, backwards
 
 ::: indent
 e.g.
-सद् + नि 1P निषीदति : to sit down
+सद् + नि 1P नि***षी***दति : to sit down
 
 :::
-भोस् vocative particle: an exclamation of address, e.g.: hey, hola, oh, eh, hello, hi! often not translatable. This particle has a special Sandhi: before all voiced sounds, it becomes भो.
+भोस् Vocative particle: exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not translatable. This particle has a special sandhi: before all voiced sounds, it is ***भो***.
 
 ::: media
 ![](/images/lekt4611.jpg)
-Fig.: [भोः](/licenses#lekt4611)
-(Image source: [Details](/licenses#lekt4611))
+Fig.: [भोः](/en/licenses#lekt4611)
+(Image source: [Details](/en/licenses#lekt4611))
 :::
 
 ## 46.3. Exercise
@@ -675,7 +682,7 @@ A) Identify and translate the following forms:
 51.  सुषुपुः
 52.  ऊस
 
-B) Translate the following:
+B) Translate:
 
 प्रजहाति यदा कामानात्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥१॥
 
@@ -690,17 +697,15 @@ B) Translate the following:
 
 ::: media
 ![](/images/lekt4612.jpg)
-Fig.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/licenses#lekt4612)
-(Image source: [Details](/licenses#lekt4612))
+Fig.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/en/licenses#lekt4612)
+(Image source: [Details](/en/licenses#lekt4612))
 :::
 
 ::: deleteme-box
 
-### Sources
+Navagraha images source: Redtigerxyz / Wikipedia. GNU FDLicense
 
-Navagraha images source: Redtigerxyz / Wikipedia. GNU FDL
-
-L4607: नारायण तुभ्यं नमामि (नारायणो ऽनन्तशयी, ca. 1870). Source: Wikipedia. Public domain
+L4607: नारायण तुभ्यं नमामि (नारायनो ऽनन्तशयी, ca. 1870). Source: Wikipedia. Public domain
 
 L4606: अश्वरोहकः, Pune=पुणे. Source: wili_hybrid, Flickr, CC BY 2.0
 
@@ -708,7 +713,7 @@ L4608: Udaipur. Source: Travel Aficionado, Flickr, CC BY-NC 2.0
 
 L4609: Karnataka=ಕರ್ನಾಟಕ. Source: mattlogelin, Flickr, CC BY-NC 2.0
 
-L4610: सङ्गः, Kamareddy=कामारैड्डि. Source: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
+L4610: सङ्गः, Kamareddy=కామారెడ్డి. Source: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
 
 L4601: लम्बोदर नमस्तुभ्यम्, Bangalore=ಬೆಂಗಳೂರು. Source: mattlogelin, Flickr, CC BY-NC 2.0
 

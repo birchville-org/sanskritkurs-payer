@@ -1,20 +1,28 @@
+---
+title: Урок 30
+subtitle: "9-й клас теперішнього часу (क्र्यादि = \"क्री тощо\")"
+lesson_id: 30
+last_reconstructed: 2026-05-21
+category: "Граматика"
+status: stable
+---
 
+# Урок 30
 
-# Lektion 30
-
-## 30.1. Die 9. Теперішній часklasse (क्र्यादि = "क्री u.s.w.")
+## 30.1. 9-й клас теперішнього часу (क्र्यादि = "क्री тощо")
 
 ::: grammar-box
 **Утворення:**
 
-*   сильний корінь: корінь у ступені нижньої інтенсивності (гуна/відмінний ступінь) + -nā-
-
+*   сильний корінь: корінь у слабкому ступені + -nā-
+    
 *   слабкий корінь:
-
-    *   перед приголосним: корінь у ступені нижньої інтенсивності + -nī-
-
-    *   перед голосним: корінь у ступені нижньої інтенсивності + -n-
+    
+    *   перед приголосним: корінь у слабкому ступені + -nī-
+        
+    *   перед голосним: корінь у слабкому ступені + -n-
 :::
+        
 
 Приклад:
 
@@ -24,24 +32,24 @@
 
 ::: grammar-box
 
-| | Однина[[br]]एकवचन | Множина[[br]]बहुवचन |
+| |Однина[[br]]एकवचन|Множина[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3-тя особа[[br]]Parasmaipada** | क्रीणाति[[br]](krī + nā + ti) | क्रीणन्ति[[br]](krī + n + anti) |
-| **3-тя особа[[br]]Ātmanepada** | क्रीणीते[[br]](krī + nī + te) | क्रीणते[[br]](krī + n + ate) |
+|**3-тя особа[[br]]Парасмапада**|क्रीणाति[[br]](krī + nā + ti)|क्रीणन्ति[[br]](krī + n + anti)|
+|**3-тя особа[[br]]Атманепада**|क्रीणीते[[br]](krī + nī + te)|क्रीणते[[br]](krī + n + ate)|
 
 :::
 
-При цьому класі теперішнього часу особливо варто звернути увагу на утворення основи теперішнього часу від кореня ज्ञा 9U "пізнавати, знати":
+У цьому класі теперішнього часу особливо варто звернути увагу на утворення основи теперішнього часу від кореня ज्ञा 9U "пізнавати, знати":
 
 ::: grammar-box
 
-| | Однина[[br]]एकवचन | Множина[[br]]बहुवचन |
+| |Однина[[br]]एकवचन|Множина[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3-тя особа[[br]]Parasmaipada** | जानाति[[br]](jā-nā-ti) | जानन्ति[[br]](jā-n-anti) |
-| **3-тя особа[[br]]Ātmanepada** | जानीते[[br]](jā-nī-te) | जानते[[br]](jā-n-ate) |
+|**3-тя особа[[br]]Парасмапада**|जानाति[[br]](jā-nā-ti)|जानन्ति[[br]](jā-n-anti)|
+|**3-тя особа[[br]]Атманепада**|जानीते[[br]](jā-nī-te)|जानते[[br]](jā-n-ate)|
 
 :::
-Форма जा, яка лежить в основі основи теперішнього часу від кореня ज्ञा, може бути пояснена або як чергування голосних (абґхат) ряду -ā (ступінь нижньої інтенсивності) -nā (високий ступінь), або як дисиміляція від *jñā-nā-ti.
+Форма जा, яка лежить в основі основи теперішнього часу від ज्ञा, може бути пояснена або чергуванням голосних -ā (слабкий ступінь) -nā (сильний ступінь), або дасиміляцією від *jñā-nā-ti.
 
 Деякі корені на довгий голосний спрощують цей голосний перед суфіксом основи теперішнього часу 9-го класу:
 
@@ -53,221 +61,222 @@
 
 ::: grammar-box
 
-| | Однина[[br]]एकवचन | Множина[[br]]बहुवचन |
+| |Однина[[br]]एकवचन|Множина[[br]]बहुवचन|
 | :--- | :--- | :--- |
-| **3-тя особа[[br]]Parasmaipada** | पुनाति[[br]](pu-nā-ti) | पुनन्ति[[br]](pu-n-anti) |
-| **3-тя особа[[br]]Ātmanepada** | पुनीते[[br]](pu-nī-te) | पुनते[[br]](pu-n-ate) |
+|**3-тя особа[[br]]Парасмапада**|पुनाति[[br]](pu-nā-ti)|पुनन्ति[[br]](pu-n-anti)|
+|**3-тя особа[[br]]Атманепада**|पुनीते[[br]](pu-nī-te)|पुनते[[br]](pu-n-ate)|
 
 :::
 
-Утворення дієприкметника теперішнього часу Parasmaipada:
+Утворення дієприкметника теперішнього часу Парасмапада:
 
 Приклад:
 
 ::: indent
-क्रीणन्त् (krī + n + ant) ; жін. рід: क्रीणती (krī + n + at + ī)
+क्रीणन्त् (krī + n + ant) ; ж. рід: क्रीणती (krī + n + at + ī)
 :::
 
-## 30.2. Вживання des Оптатив (लिङ्)
+## 30.2. Вживання оптатива (लिङ्)
 
 Оптатив вживається:
 
 ::: grammar-box
-**1. для вираження**
+**1. для позначення**
 
 *   **бажання**
 *   **прохання**
-*   **пом’якшеної наказовості**
+*   **пом’якшеної наказової форми**
 
-**(в цьому випадку оптатив - लिङ् - перетинається з наказовим відмінком - लोट्)**
+**(тут оптатив - लिङ् - перетинається з наказовим способом - लोट्)**
 :::
 
 Приклад:
 
 ::: indent
-दासो ग्राममागच्छेत् = «Невільник хай прийде до села»
+दासो ग्राममागच्छेत् = "Нехай слуга прийде до села"
 :::
 
 ::: grammar-box
-**2. Коли щось має бути подане як**
+**2. Якщо щось має бути**
 
-*   **можливе**
-*   **ймовірне**
-*   **припустиме**
+*   **можливим**
+*   **ймовірним**
+*   **припустимим**
+
+**представлено.**
+:::
 
 Приклад:
-:::
-
-**3. Відносні речення з оптативом іноді мають значення: «Якби хтось ...»**
 
 ::: indent
-ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात् = «Якби він пішов із села, то не почув би вчителя»
+ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात् = "Якби він вийшов із села, він не почув би господаря"
 :::
 
 ::: grammar-box
+**3. Відносні речення з оптативом іноді мають значення: "Якби хтось ..."**
+:::
+
 Приклад:
-:::
-
-Beispiel: <!-- TODO: Fallback translation -->
 
 ::: indent
-यो नृतं वदेत्स नरकं पतेत् = «Якби хтось говорив неправду, він би впав у пекло = Якщо хтось говорить неправду, він падає в пекло»
+यो नृतं वदेत्स नरकं पतेत् = "Якби хтось сказав неправду, він би впав у пекло = Якщо хтось каже неправду, він падає в пекло"
 :::
 
-## 30.3. Sekundärendungen der 3. Personen Однина und Множина
+## 30.3. Другорядні закінчення 3-ї особи однини та множини
 
-Оптатив (लिङ्), імперфект (लङ्), аорист (लुङ्), прекатив (आशिर्लिङн) і умовний спосіб мають так звані вторинні закінчення:
+Оптат (लिङ्), імперфект (लङ्), аорист (लुङ्), прекатив (आशिर्लिङ्) і кондитіоналіс мають так звані другорядні закінчення:
 
 ::: grammar-box
 
-| | 3. Person Однина | 3. Person Множина |
+| |3-тя особа однина|3-тя особа множина|
 | :--- | :--- | :--- |
-| **Парасмайпада** | **-t** | athematische Klassen: **-an** oder **-ur**[[br]]Оптатив: **-ur** |
-| **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta)[[br]]Оптатив: **-ran** |
+|**Парасмаїпада**|**-t**|атематичні класи: **-an** або **-ur**[[br]]Оптат: **-ur**|
+|**Āтманепада**|**-ta**|атематичні класи: **-ata** (від *nta)[[br]]Оптат: **-ran**|
 
 :::
 
-## 30.4. Утворення des Оптатив Теперішній час (लिङ्)
+## 30.4. Утворення оптива теперішнього часу (लिङ्)
 
-### 30.4.1. Thematische Теперішній часklassen
+### 30.4.1. Тематичні класи теперішнього часу
 
 ::: grammar-box
-**vor konsonantisch anlautenden Endungen:** <!-- TODO: Fallback translation -->
+**перед закінченнями, що починаються на приголосний:**
 
-**Präsensstamm + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen** <!-- TODO: Fallback translation -->
+**основа теперішнього часу + -i- (яка зливається з -a- в -e-) + вторинні закінчення**
 
-**vor vokalisch anlautenden Endungen:** <!-- TODO: Fallback translation -->
+**перед закінченнями, що починаються на голосний:**
 
-**Präsensstamm + -i- (» -e-) + -y- + Sekundärendung** <!-- TODO: Fallback translation -->
+**основа теперішнього часу + -i- (» -e-) + -y- + вторинне закінчення**
 :::
 
-Beispiele: <!-- TODO: Fallback translation -->
+Приклади:
 
-1\. Präsensklasse: <!-- TODO: Fallback translation -->
+1\. Клас теперішнього часу:
 
-भू <!-- TODO: Fallback translation -->
+भू
 ::: grammar-box
 
-| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन| <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Parasmaipada**|भवेत्[[br]](bhava + i + t)|भवेयुर्[[br]](bhava + i + y + ur)| <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Ātmanepada**|भवेत[[br]](bhava + i + ta)|भवेरन्[[br]](bhava + i + ran)| <!-- TODO: Fallback translation -->
+| |Однина[[br]]एकवचन|Множина[[br]]बहुवचन|
+| :--- | :--- | :--- |
+|**3-тя особа[[br]]Парасмайпада**|भवेत्[[br]](bhava + i + t)|भवेयुर्[[br]](bhava + i + y + ur)|
+|**3-тя особа[[br]]Āтманепада**|भवेत[[br]](bhava + i + ta)|भवेरन्[[br]](bhava + i + ran)|
 
 :::
 
-4\. Präsensklasse: <!-- TODO: Fallback translation -->
+4\. Клас теперішнього часу:
 
-नृत् <!-- TODO: Fallback translation -->
+नृत्
 ::: grammar-box
 
-| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन| <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Parasmaipada**|नृत्येत्[[br]](nṛtya + i + t)|नृत्येयुर्[[br]](nṛtya + i + y + ur)| <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Ātmanepada**|नृत्येत[[br]](nṛtya + i + ta)|नृत्येरन्[[br]](nṛtya + i + ran)| <!-- TODO: Fallback translation -->
+| |Однина[[br]]एकवचन|Множина[[br]]बहुवचन|
+| :--- | :--- | :--- |
+|**3-тя особа[[br]]Парасмайпада**|नृत्येत्[[br]](nṛtya + i + t)|नृत्येयुर्[[br]](nṛtya + i + y + ur)|
+|**3-тя особа[[br]]Āтманепада**|नृत्येत[[br]](nṛtya + i + ta)|नृत्येरन्[[br]](nṛtya + i + ran)|
 
 :::
 
-6\. Präsensklasse <!-- TODO: Fallback translation -->
+6\. Клас теперішнього часу
 
-विश् <!-- TODO: Fallback translation -->
+विश्
 ::: grammar-box
 
-| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन| <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Parasmaipada**|विशेत्[[br]](viśa + i + t)|विशेयुर्[[br]](viśa + i + y + ur)| <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Ātmanepada**|विशेत[[br]](viśa + i + ta)|विशेरन्[[br]](viśa + i + ran)| <!-- TODO: Fallback translation -->
+| |Однина[[br]]एकवचन|Множина[[br]]बहुवचन|
+| :--- | :--- | :--- |
+|**3-тя особа[[br]]Парасмайпада**|विशेत्[[br]](viśa + i + t)|विशेयुर्[[br]](viśa + i + y + ur)|
+|**3-тя особа[[br]]Āтманепада**|विशेत[[br]](viśa + i + ta)|विशेरन्[[br]](viśa + i + ran)|
 
 :::
 
-10\. Präsensklasse und Kausative <!-- TODO: Fallback translation -->
+10\. Клас теперішнього часу та каузативи
 
-चुर् <!-- TODO: Fallback translation -->
+चुर्
 ::: grammar-box
 
-| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन| <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Parasmaipada**|चोरयेत्[[br]](coraya + i + t)|चोरयेयुर्[[br]](coraya + i + y + ur)| <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Ātmanepada**|चोरयेत[[br]](coraya + i + ta)|चोरयेरन्[[br]](coraya + i + ran)| <!-- TODO: Fallback translation -->
+| |Однина[[br]]एकवचन|Множина[[br]]बहुवचन|
+| :--- | :--- | :--- |
+|**3-тя особа[[br]]Парасмайпада**|चोरयेत्[[br]](coraya + i + t)|चोरयेयुर्[[br]](coraya + i + y + ur)|
+|**3-тя особа[[br]]Āтманепада**|चोरयेत[[br]](coraya + i + ta)|चोरयेरन्[[br]](coraya + i + ran)|
 
 :::
 
-### 30.4.2. Athematische Теперішній часklassen
+### 30.4.2. Атематичні класи теперішнього часу
 
 ::: grammar-box
-**Parasmaipada:** <!-- TODO: Fallback translation -->
+**Парасмапада:**
 
-**schwacher Präsensstamm + -yā- (vor -ur: -y-) + Sekundärendung** <!-- TODO: Fallback translation -->
+**слабкий теперішній корінь + -yā- (перед -ur: -y-) + вторинне закінчення**
 
-**Ātmanepada:** <!-- TODO: Fallback translation -->
+**Ātmanepada:**
 
-**schwacher Präsensstamm + -ī- + Sekundärendung** <!-- TODO: Fallback translation -->
+**слабкий теперішній корінь + -ī- + вторинне закінчення**
 :::
 
-Beispiele: <!-- TODO: Fallback translation -->
+Приклади:
 
-2\. Präsensklasse: <!-- TODO: Fallback translation -->
+2\. Клас теперішнього часу:
 
-द्विष् <!-- TODO: Fallback translation -->
+द्विष्
 ::: grammar-box
 
-| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन| <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Parasmaipada**|द्विष्यात्[[br]](dviṣ-yā-t)|द्विष्युर्[[br]](dviṣ-y-ur)| <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Ātmanepada**|द्विषीत[[br]](dviṣ-ī-ta)|द्विषीरन्[[br]](dviṣ-ī-ran)| <!-- TODO: Fallback translation -->
+| |Однина[[br]]एकवचन|Множина[[br]]बहुवचन|
+| :--- | :--- | :--- |
+|**3 особа[[br]]Парасмапада**|द्विष्यात्[[br]](dviṣ-yā-t)|द्विष्युर्[[br]](dviṣ-y-ur)|
+|**3 особа[[br]]Āтманепада**|द्विषीत[[br]](dviṣ-ī-ta)|द्विषीरन्[[br]](dviṣ-ī-ran)|
 
 :::
 
-5\. Präsensklasse <!-- TODO: Fallback translation -->
+5\. Клас теперішнього часу
 
-सु <!-- TODO: Fallback translation -->
+सु
 ::: grammar-box
 
-| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन| <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Parasmaipada**|सुनुयात्[[br]](sunu-yā-t)|सुनुयुर्[[br]](sunu-y-ur)| <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Ātmanepada**|सुन्वीत[[br]](sunu + ī + ta)|सुन्वीरन्[[br]](sunu + ī + ran)| <!-- TODO: Fallback translation -->
+| |Однина[[br]]एकवचन|Множина[[br]]बहुवचन|
+| :--- | :--- | :--- |
+|**3 особа[[br]]Парасмапада**|सुनुयात्[[br]](sunu-yā-t)|सुनुयुर्[[br]](sunu-y-ur)|
+|**3 особа[[br]]Āтманепада**|सुन्वीत[[br]](sunu + ī + ta)|सुन्वीरन्[[br]](sunu + ī + ran)|
 
 :::
 
-8\. Präsensklasse <!-- TODO: Fallback translation -->
+8\. Клас теперішнього часу
 
-तन् <!-- TODO: Fallback translation -->
+तन्
 ::: grammar-box
 
-| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन| <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Parasmaipada**|तनुयात्[[br]](tanu-yā-t)|तनुयुर्[[br]](tanu-y-ur)| <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Ātmanepada**|तन्वीत[[br]](tanu + ī + ta)|तन्वीरन्[[br]](tanu + ī + ran)| <!-- TODO: Fallback translation -->
+| |Однина[[br]]एकवचन|Множина[[br]]बहुवचन|
+| :--- | :--- | :--- |
+|**3 особа[[br]]Парасмапада**|तनुयात्[[br]](tanu-yā-t)|तनुयुर्[[br]](tanu-y-ur)|
+|**3 особа[[br]]Āтманепада**|तन्वीत[[br]](tanu + ī + ta)|तन्वीरन्[[br]](tanu + ī + ran)|
 
 :::
 
-**kṛ**[[br]](कृ) <!-- TODO: Fallback translation -->
-
-::: grammar-box
-
-| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन| <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Parasmaipada**|कुर्यात्|कुर्युर्| <!-- TODO: Fallback translation -->
-|**3. Person[[br]]Ātmanepada**|कुर्वीत|कुर्वीरन्| <!-- TODO: Fallback translation -->
-
-:::
+**kṛ**[[br]](कृ)
 
 ::: grammar-box
 
-| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन| <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-|**3. Person Parasmaipada**|क्रीणीयात्[[br]](krīṇī-yā-t)|क्रीणीयुर्[[br]](krīṇī-y-ur)| <!-- TODO: Fallback translation -->
-|**3. Person Ātmanepada**|क्रीणीत[[br]](krīṇ-ī-ta)|क्रीणीरन्[[br]](krīṇ-ī-ran)| <!-- TODO: Fallback translation -->
+| |Однина[[br]]एकवचन|Множина[[br]]बहुवचन|
+| :--- | :--- | :--- |
+|**3 особа[[br]]Парасмапада**|कुर्यात्|कुर्युर्|
+|**3 особа[[br]]Āтманепада**|कुर्वीत|कुर्वीरन्|
 
 :::
-
-## 30.5. Sandhi von auslautendem -r
 
 ::: grammar-box
-**За винятком -ar, до кінцевого -r застосовуються ті самі правила сандхі, що й до кінцевого -s.**
 
-**-ar перед дзвінкими звуками залишається -ar, перед r- однак r випадає, а a- замінюється на ā-.**
+| |Однина[[br]]एकवचन|Множина[[br]]बहुवचन|
+| :--- | :--- | :--- |
+|**3 особа Парасмапада**|क्रीणीयात्[[br]](krīṇī-yā-t)|क्रीणीयुर्[[br]](krīṇī-y-ur)|
+|**3 особа Āтманепада**|क्रीणीत[[br]](krīṇ-ī-ta)|क्रीणीरन्[[br]](krīṇ-ī-ran)|
+
 :::
+
+## 30.5. Санді закінчення -r
+
+::: grammar-box
+**Окрім випадків -ar, до закінчень -r застосовуються ті самі правила санді, що й до закінчень -s.**
+
+**-ar перед дзвінкими звуками залишається -ar, але перед r- закінчення -r випадає, а -a- замінюється на -ā-.**
+:::
+
 
 Приклади:
 
@@ -279,12 +288,12 @@ Beispiele: <!-- TODO: Fallback translation -->
 पुनर् + रोदिति » पुना रोदिति
 :::
 
-## 30.6. Словник
+## 30.6. Словниковий запас
 
 क्री 9U क्रीणाति : купувати
 
 ::: indent
-Fut. क्रेष्यति  
+Фут. क्रेष्यति  
 Pass. क्रीयते  
 PPP क्रीत  
 Inf. क्रेतुम्
@@ -298,37 +307,39 @@ Absol. विक्रीय
 
 ::: media
 ![](/images/lekt3001.jpg)
-Рис.: क्रीणन्ति विक्रीणते च
-(Джерело зображення: [Деталі](/licenses#lekt3001))
+Мал.: क्रीणन्ति विक्रीणते च
+Bundi = बुन्दी, Rajasthan = राजस्थान
+(Джерело зображення: [Деталі](/uk/licenses#lekt3001))
 :::
 
-ज्ञा 9U जानाति : знати, розпізнавати, усвідомлювати, розуміти
+ज्ञा 9U जानाति : знати, розпізнавати, знати, розуміти
 
 ::: indent
-Fut. ज्ञास्यति  
+Фут. ज्ञास्यति  
 Pass. ज्ञायते  
 Kaus. ज्ञापयति  
 Kaus. PPP ज्ञप्त / ज्ञापित  
 PPP ज्ञात  
 Inf. ज्ञातुम्
 
-від них:
+з цього:
 
-ज्ञाति m.: (кровний) родич (родичі — це ті, кого ми знаємо!)
+ज्ञाति m.: (кривавий) родич (родичі — це ті, кого ти знаєш!)
 
-ज्ञान n.: пізнання, знання, усвідомлення (зокрема «вищих» істин у релігії та філософії)
+ज्ञान n.: пізнання, знання, розпізнавання (особливо "вищих" істин у релігії та філософії)
 :::
 
 ::: media
 ![](/images/lekt3002.jpg)
-Рис.: ज्ञातयः
-(Джерело зображення: [Деталі](/licenses#lekt3002))
+Мал.: ज्ञातयः
+Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र
+(Джерело зображення: [Деталі](/uk/licenses#lekt3002))
 :::
 
 पू 9U पुनाति : очищувати
 
 ::: indent
-Fut. पविष्यति  
+Фут. पविष्यति  
 Pass. पूयते  
 Kaus. पावयति  
 PPP पूत  
@@ -337,14 +348,14 @@ Inf. पवितुम्
 
 ::: media
 ![](/images/lekt3003.jpg)
-Рис.: श्रोत्राणि पुनाति
-(Джерело зображення: [Деталі](/licenses#lekt3003))
+Мал.: श्रोत्राणि पुनाति
+(Джерело зображення: [Деталі](/uk/licenses#lekt3003))
 :::
 
 अश् 9P अश्नाति : їсти, споживати
 
 ::: indent
-Fut. अशिष्यति  
+Фут. अशिष्यति  
 Pass. अश्यते  
 Kaus. आशयति  
 PPP अशित  
@@ -353,67 +364,68 @@ Inf. अशितुम्
 
 ::: media
 ![](/images/lekt3005.jpg)
-Рис.: अश्नीयात्
-(Джерело зображення: [Деталі](/licenses#lekt3005))
+Мал.: अश्नीयात्
+थाली, Південна Індія
+(Джерело зображення: [Деталі](/uk/licenses#lekt3005))
 :::
 
-प्रिय ३: милий, той, що любить, дружній
+प्रिय ३: милий, люблячий, дружній
 
 ::: media
 ![](/images/lekt3004.jpg)
-Рис.: प्रिया
-(Джерело зображення: [Деталі](/licenses#lekt3004))
+Мал.: प्रिया
+(Джерело зображення: [Деталі](/uk/licenses#lekt3004))
 :::
 
-चेत् сполучник: якщо; за умови, що (ніколи не стоїть на початку речення)
+चेत् Сполучник: якщо; за умови, що (ніколи не стоїть на початку речення)
 
 ::: indent
 न चेत् : якщо не
 :::
 
-यदि сполучник: якщо
+यदि Сполучник: якщо
 
 ::: indent
-यद्यपि : хоч і, навіть якщо, попри те, що
+यद्यपि : якщо навіть, навіть якщо, хоча
 
 यद्येवम् : якщо так, за цих обставин
 :::
 
-पुनर्: знову, знову і знову, назад, ще раз, натомість, але
+पुनर् : знову, знову і знову, назад, ще раз, навпаки, але
 
 ::: indent
 पुनः पुनर् : знову і знову
 
-від них:
+з цього:
 
 पुनर्भव m.: перевтілення
 :::
 
 ::: media
 ![](/images/lekt2904.jpg)
-Рис.: पुनर्भवः
-(Джерело зображення: [Деталі](/licenses#lekt2904))
+Мал.: पुनर्भवः
+(Джерело зображення: [Деталі](/uk/licenses#lekt2904))
 :::
 
 जीव् 1P जीवति : жити
 
 ::: indent
-Fut. जीविष्यति  
+Фут. जीविष्यति  
 Pass. जीव्यते  
 Kaus. जीवयति  
 PPP जीवित : живий  
 Inf. जीवितुम्
 
-від них:
+з цього:
 
 जीव m./n.: життя, індивідуальна душа
 :::
 
-सनातन ३ fem.: सनातनी : вічний, незгасаючий, незмінний
+सनातन ३ fem.: सनातनी : вічний, незгасний, сталий
 
 ## 30.7. Вправа
 
-А) Перетворіть наведені дієслівні форми на відповідні форми оптітиву за особою, числом та родом дієслова:
+A) Перетворіть наведені дієслівні форми на відповідні форми оптітиву за особою, числом та родом дієслова:
 
 1.  ह्रियते
 2.  ध्नन्ति
@@ -481,7 +493,7 @@ Inf. जीवितुम्
 64.  अदन्ति
 65.  अध्यापयन्ति
 
-Б) Перекладіть наведені речення та розберіть санскритські складні слова (компаунди):
+B) Перекладіть наведені речення та розберіть санскритські складні слова:
 
 जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥
 
@@ -502,9 +514,9 @@ Inf. जीवितुम्
 सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् ।  
 प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥ ॥मनुस्मृति ४.१३८॥
 
-## 30.8. Wiederholungsübung zur Formenlehre
+## 30.8. Повторювальне вправи з морфології
 
-Визначте та перекладіть наведені словоформи:
+Визначте та перекладіть наступні слововиди:
 
 1.  भारे
 2.  अध्ययनम्
@@ -549,11 +561,10 @@ Inf. जीवितुम्
 
 ::: deleteme-box
 
-### Джерела
-**lekt3001:** Bundi = बुन्दी, Rajasthan = राजस्थान [Bildquelle: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-**lekt3002:** Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र [Bildquelle: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-**lekt3003:** [Bildquelle: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
-**lekt3005:** थाली, Südindien [Bildquelle: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-**lekt3004:** [Bildquelle: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
-**lekt2904:** [Bildquelle: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5] <!-- TODO: Fallback translation -->
+**lekt3001:** Бунді = बुन्दी, Раджастан = राजस्थान [Джерело зображення: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Доступ від 2008-12-21. -- Ліцензія Creative Commons (Attribution, Non-commercial, No derivatives)]
+**lekt3002:** Дареваді, район Ахмедагаар = अहमदनगर, Махараштра = महाराष्ट्र [Джерело зображення: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Доступ від 2008-12-21. -- Ліцензія Creative Commons (Attribution, Non-commercial, Share Alike)]
+**lekt3003:** [Джерело зображення: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Доступ від 2008-12-21. -- Ліцензія Creative Commons (Attribution, Share Alike)]
+**lekt3005:** थाली, Південна Індія [Джерело зображення: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Доступ від 2008-12-21. -- Ліцензія Creative Commons (Attribution, Non-commercial, Share Alike)]
+**lekt3004:** [Джерело зображення: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Доступ від 2008-12-21. -- Ліцензія Creative Commons (Attribution, Share Alike)]
+**lekt2904:** [Джерело зображення: Wikipedia / Авторське право належить Himalayan Academy Publications, Каапа, Кауаї, Гаваї. -- Ліцензія Creative Commons Attribution ShareAlike 2.5]
 :::

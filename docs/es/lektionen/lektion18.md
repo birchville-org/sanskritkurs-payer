@@ -3,11 +3,9 @@ title: Lección 18
 lesson_id: 18
 ---
 
-# Lektion 18
+# Lección 18
 
 ## 18.1. सुभाषितम्
-
-:::: grammar-box
 
 ::: indent
 नास्ति कामसमो व्याधिर्  
@@ -16,31 +14,27 @@ lesson_id: 18
 नास्ति ज्ञानसमं सुखम् ॥
 :::
 
-चाणक्य
+## 18.2. Determinativcompuestos (तत्पुरुष) con miembro anterior adverbial
 
-::::
+Como miembro anterior (no declinable) adverbial pueden
 
-## 18.2. Determinativkomposita (तत्पुरुष) mit adverbialem Vorderglied
-
-Como miembro anterior adverbial (indeclinable) pueden utilizarse
-
-*   Adverbios
-*   Preposiciones
-*   Partículas
-*   Otros indeclinables
+*   adverbios
+*   preposiciones
+*   partículas
+*   otros indeclinables
 
 ::: indent
-Se pueden utilizar. Tales Tatpuruṣa pertenecen generalmente a la clase de los Nityasamāsa = नित्यसमास (m. «compuesto fijo»), es decir, a los compuestos que no pueden resolverse en absoluto o no solo mediante las palabras presentes en el propio compuesto.
+ser utilizados. Tales Tatpuruṣa pertenecen generalmente a la clase de Nityasamāsa = नित्यसमास (m. "compuesto fijo"), es decir, a los compuestos que no se pueden resolver en absoluto o no solo mediante las palabras presentes en el propio compuesto.
 :::
 
 Ejemplos:
 
-अति «más allá»:
+अति "más allá":
 
 ::: indent
-अतिगुरु 3: extremadamente pesado, de gran importancia
+अतिगुरु 3: sumamente difícil, sumamente grave
 
-अतिपुरुष m.: hombre sobresaliente, superhombre, héroe
+अतिपुरुष m.: hombre sobresaliente, Superman, héroe
 
 अतिस्तुति f.: elogio excesivo
 
@@ -49,21 +43,21 @@ Ejemplos:
 
 Los miembros anteriores adverbiales más importantes son a-/an-, su-, dus-.
 
-अ (antes de consonante), अन् (antes de vocal): un-: aparece en el compuesto en lugar de न «no».
+अ (antes de consonante), अन् (antes de vocal): un-: aparece en el compuesto en lugar de न "no".
 
 Ejemplos:
 
 ::: indent
-अनृत n. = नर्तम् (= न + ऋतम्): mentira, falsedad
+अनृत n. = नर्तम् (= न + ऋतम्): falsedad, mentira
 
-अकृत 3 = न कृत 3: no hecho, sin hacer
+अकृत 3 = न कृत 3: no hecho, no realizado
 
-अब्राह्मणी f. = न ब्राह्मणी : una no brahmán, mujer no brahmán
+अब्राह्मणी f. = न ब्राह्मणी : una no-brahmana, no-brahmana
 
-अदेव m. = न देवः : un no dios, dios falso
+अदेव m. = न देवः : un no-dios, no-dios
 :::
 
-सु «bien, bueno»; al resolver el compuesto, los comentaristas lo sustituyen por un adjetivo con el significado de «bueno» (por ejemplo, सुष्टु 3, शोभन 3).
+सु "bien, bueno"; se sustituye en la resolución del compuesto por los comentaristas mediante un adjetivo con el significado de "bueno" (por ejemplo, सुष्टु 3, शोभन 3).
 
 Ejemplos:
 
@@ -77,7 +71,7 @@ Ejemplos:
 सुदुःख n.: gran sufrimiento
 :::
 
-दुस् «mal, malo» (¡atención al Sandhi!).
+दुस् "mal, malo" (¡atención al Sandhi!).
 
 Ejemplos:
 
@@ -87,61 +81,58 @@ Ejemplos:
 दुष्करण n.: mala acción, acción difícil
 :::
 
-Rige la siguiente regla:
+Rige la siguiente ley:
 
 :::: grammar-box
 
 Cambio fonético de -s en compuestos
 
-Contrariamente al Sandhi de la oración, en la posición final del miembro anterior de los compuestos rige:
+Contrario al Sandhi de oración, en la posición final del miembro anterior de los compuestos se aplica:
 
 \-s después de -i- o -u- ante gutural sorda o labial » -ṣ
 
-Por ello: दुष्करण
+Por lo tanto: दुष्करण
 
 ::::
 
-### 18.2.1. Komposita vom Typ सुकर / दुष्कर
+### 18.2.1. Compuestos del tipo सुकर / दुष्कर
 
 :::: grammar-box
 
-Como miembro anterior adverbial (indeclinable) pueden utilizarse
+Los compuestos del tipo सुकर / दुष्कर tienen principalmente el significado de posibilidad pasiva:
 
-Adverbios
+Ejemplos:
 
 ::: indent
-Preposiciones
+सुकर 3: fácil de hacer
 
-Partículas
+सुगम 3: fácil de ir
 
-Otros indeclinables
+दुर्गम 3: difícil de ir
 
-Se pueden utilizar. Tales Tatpuruṣa pertenecen generalmente a la clase de los Nityasamāsa = नित्यसमास (m. «compuesto fijo»), es decir, a los compuestos que no pueden resolverse en absoluto o no solo mediante las palabras presentes en el propio compuesto.
+सुदुर्गम 3: muy difícil de ir
 :::
 
 ::::
 
-### 18.2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
+### 18.2.2. Significados de nañ-Tatpuruṣa (a- / an-)
 
-Como miembro anterior adverbial (indeclinable) pueden utilizarse
+Los Tatpuruṣa con a- / an- pueden tener los siguientes significados:
 
-1.  Adverbios
-Preposiciones
-2.  Partículas
-Otros indeclinables
-3.  Se pueden utilizar. Tales Tatpuruṣa pertenecen generalmente a la clase de los Nityasamāsa = नित्यसमास (m. «compuesto fijo»), es decir, a los compuestos que no pueden resolverse en absoluto o no solo mediante las palabras presentes en el propio compuesto.
-Ejemplos:
-4.  तदन्यत्वं तदल्पता ।  
-अप्राशास्त्यं निरोधश्च  
-नजर्थाः षट्प्रकीर्तिताः ॥
-अति «más allá»:
-तत्सादृश्यमभावश्च  
-5.  अतिगुरु 3: extremadamente pesado, de gran importancia
-अतिपुरुष m.: hombre sobresaliente, superhombre, héroe
-6.  अतिस्तुति f.: elogio excesivo
-अत्युक्ति f.: habla excesiva, exageración
+1.  Similitud (तत्सादृश्यम्):  
+    अब्राह्मणः = un Kṣatriya o Vaiśya que lleva el hilo sagrado (यज्ञोपवीत n.) y por lo tanto se asemeja a un Brahman, sin serlo
+2.  Falta, ausencia (तदभावः):  
+    अज्ञानम् = ignorancia (falta de conocimiento)
+3.  Diferencia (तदन्यत्वम्):  
+    अपटम् = algo que no es tela / vestido (पट m: tejido, vestido)
+4.  Pequeñez (तदल्पता):  
+    अनुदरम् = un pequeño vientre (un no-ventre)
+5.  Desaprobación (अप्राशास्त्यम्):  
+    अकालः = tiempo inoportuno
+6.  Hostilidad (निरोधः):  
+    असुरः = dios enemigo (según la falsa etimología a-sura)
 
-Los miembros anteriores adverbiales más importantes son a-/an-, su-, dus-.
+El siguiente verso resume estos significados:
 
 ::: indent
 तत्सादृश्यमभावश्च  
@@ -149,10 +140,10 @@ Los miembros anteriores adverbiales más importantes son a-/an-, su-, dus-.
 अप्राशास्त्यं निरोधश्च  
 नजर्थाः षट्प्रकीर्तिताः ॥
 
-अनृत n. = नर्तम् (= न + ऋतम्): mentira, falsedad
+Se nombran seis significados de nañ (= a-/an-) ....
 :::
 
-## 18.3. Verbalkomposita
+## 18.3. Compuestos verbales
 
 :::: grammar-box
 
@@ -163,21 +154,21 @@ Los miembros anteriores adverbiales más importantes son a-/an-, su-, dus-.
 सागरेण यथाम्भसा ॥
 :::
 
-Chandrakīrti: *Prasannapadā*, p. 2, vv. 14-15.
+चन्द्रकीर्ति : प्रसन्नपदा p. 2 l. 14s.
 
-Mediante un prefijo verbal (upasarga), el significado de una raíz se modifica violentamente, al igual que la dulzura del agua del Ganges se altera por el agua de mar.
+Una prefijación modifica violentamente el significado de una raíz, tal como el agua dulce del Ganges se altera con el agua de mar.
 
 ::::
 
 :::: grammar-box
 
-En sánscrito, los verbos pueden combinarse con prefijos verbales (उपसर्ग m.). Por lo general, se aplica el Sandhi de la oración (satsuṃdhi). Los prefijos verbales pueden modificar significativamente el significado de la raíz; por ello, en muchos casos es necesario aprender por separado el significado de una raíz verbal cuando va acompañada de un prefijo. Los verbos con prefijo pueden tener un modo diferente (P, Ā) que la raíz simple. Es posible anteponer múltiples prefijos verbales a una misma raíz.
+Los verbos en sánscrito pueden combinarse con prefijos (उपसर्ग m.). Por lo general, se aplica el Sandhi de la oración. Los prefijos pueden modificar significativamente el significado de la raíz, por lo que en muchos casos el significado de una raíz con prefijo debe aprenderse por separado. Los verbos con prefijo pueden tener un modo diferente (P, Ā) que la raíz simple. Se pueden colocar varios prefijos simultáneamente antes de una raíz.
 
 ::::
 
-Algunos prefijos verbales importantes son:
+Algunos prefijos importantes son:
 
-उप «a, hacia, contra»
+उप "hacia, hacia, contra"
 
 Ejemplos:
 
@@ -186,14 +177,14 @@ Ejemplos:
 
 उपदिश् 6 उपदिशति : señalar, instruir, aconsejar
 
-उपपद् 4 Ā उपपद्यते : llegar a, alcanzar
+उपपद् 4 Ā उपपद्यते : llegar a
 
-*   PPP उपपन्न 3: dotado de (Instrumental)
+*   PPP उपपन्न 3: equipado con (Instrumental)
 
 उपलभ् 1 Ā उपलभते : captar, obtener
 :::
 
-प्र «hacia adelante, hacia fuera»
+प्र "hacia adelante, hacia fuera"
 
 Ejemplos:
 
@@ -202,111 +193,112 @@ Ejemplos:
 
 प्रदिश् 6 प्रदिशति : mostrar
 
-प्रबुध् 4 Ā प्रबुध्यते : despertar, comprender
+प्रबुध् 4 Ā प्रबुध्यते : despertar, reconocer
 
 प्रभू 1 प्रभवति : salir, sobresalir, tener poder sobre (Gen., Loc. Dat.)
 
-प्रवच् 2 प्रवक्ति PPP प्रोक्त (« pra + ukta) : explicar, comunicar, pronunciar
+प्रवच् 2 प्रवक्ति PPP प्रोक्त (« pra + ukta) : explicar, comunicar, expresar
 
-प्रवद् 1 प्रवदati : pronunciar, designar como, considerar
+प्रवद् 1 प्रवदति : expresar, designar como, considerar como
 
-प्रस्तु 2 प्रस्तौti : alabar ante, alabar en voz alta, mencionar, comenzar
+प्रस्तु 2 प्रस्तौति : alabar ante, alabar en voz alta, mencionar algo, comenzar
 :::
 
-वि «separadamente, lejos, des-, ver-»
+वि "separado, lejos, des-, ver-"
 
 Ejemplos:
 
 ::: indent
-विगम् 1 विगच्छति : separarse, desaparecer, desvanecerse
+विगम् 1 विगच्छति : separarse, pasar, desaparecer
 
 विजि 1 Ā (!) विजयते : vencer
 
-विमुच् 6 विमुञ्चati : soltar, liberar
+विमुच् 6 विमुञ्चति : liberar, liberar
 
-विवद् 1 विवदati : disputar, discutir, narrar
+विवद् 1 विवदति : discutir, exponer, narrar
 
-विस्मृ 1 विस्मरati : olvidar
+विस्मृ 1 विस्मरति : olvidar
 
 विहन् 2 विहन्ति : romper, destruir, aniquilar
 :::
 
-सम् «juntos, con»
+सम् "junto, con"
 
 Ejemplos:
 
 ::: indent
-समास् 2 Ā समास्ते : sentarse juntos, residir, habitar
+समास् 2 Ā समास्ते : sentarse juntos, permanecer, vivir
 
-समि 2 समेti : reunirse, unirse
+समि 2 समेति : reunirse, unirse
 
 संगम् 1 Ā (!) संगच्छते : reunirse, encontrarse (amistosa o hostilmente), tener relaciones sexuales con (Acusativo)
 
-संजन् 4 Ā संजायate : originarse
+संजन् 4 Ā संजायते : surgir
 
-*   PPP संजात 3: nacido, originado, convertido
+*   PPP संजात 3: nacido, surgido, hecho
 
-सम्बुध् 4 Ā सम्बुध्यate : despertar completamente (a la verdad)
+सम्बुध् 4 Ā सम्बुध्यते : despertar completamente (a la verdad)
 
-सम्पद् 4 Ā सम्पद्यate : ocurrir a alguien, tener éxito
+सम्पद् 4 Ā सम्पद्यते : ser concedido a alguien, tener éxito
 
 *   PPP सम्पन्न 3: provisto de (Instrumental)
 :::
 
 :::: grammar-box
 
-La raíz कृ «hacer» muestra, en combinación con los prefijos सम्, उप, अप, परि, también la forma स्कृ.
+La raíz कृ "hacer" muestra, en combinación con los prefijos सम् । उप । अप । परि, también la forma स्कृ
 
 ::::
 
 Ejemplo:
 
 ::: indent
-sam-kṛ 8 संस्करोti : preparar, preparar para el sacrificio, consagrar
+sam-kṛ 8 संस्करोति : preparar, preparar para el sacrificio, consagrar
 
-*   PPP संस्कृत 3: preparado para el sacrificio ; संस्कृत n.: sánscrito: el idioma adecuado para el sacrificio ; contraparte प्राकृत 3: ordinario, vulgar ; प्राकृत n.: lengua común, prakrito (denominación de las lenguas populares y de comunicación, emparentadas con el sánscrito)
+*   PPP संस्कृत 3: preparado para el sacrificio ; संस्कृत n.: sánscrito: el idioma adecuado para el sacrificio ; contraparte प्राकृत 3: ordinario, vulgar ; प्राकृत n.: lenguaje ordinario, Prakrit (término para los idiomas populares y de comunicación, relacionados con el sánscrito)
 :::
 
-### 18.3.1. Nominalbildungen zu Verbalkomposita
+### 18.3.1. Formaciones nominales a partir de compuestos verbales
 
 :::: grammar-box
 
-Chandrakīrti: *Prasannapadā*, p. 2, vv. 14-15.
+De raíces con prefijos pueden formarse mediante sufijos kṛt nombres.
 
 ::::
 
-Mediante un prefijo verbal (upasarga), el significado de una raíz se modifica violentamente, al igual que la dulzura del agua del Ganges se altera por el agua de mar.
+Ejemplos:
 
-En sánscrito, los verbos pueden combinarse con prefijos verbales (उपसर्ग m.). Por lo general, se aplica el Sandhi de la oración (satsuṃdhi). Los prefijos verbales pueden modificar significativamente el significado de la raíz; por ello, en muchos casos es necesario aprender por separado el significado de una raíz verbal cuando va acompañada de un prefijo. Los verbos con prefijo pueden tener un modo diferente (P, Ā) que la raíz simple. Es posible anteponer múltiples prefijos verbales a una misma raíz.
+sam-kṛ + -a = संस्कार m.: consagración, preparación ; Rituales de transición = Designación para las ceremonias que acompañan las diversas etapas de la vida, desde la concepción hasta la muerte (véase al respecto el excelente resumen en Basham, Maravillas, pp. 160 - 170!)
 
 ::: media
 ![](/images/lekt1804.jpg)
-Algunos prefijos verbales importantes son:
+Fig.: विवाहः
+Bodas = विवाह m., un importante संस्कारः
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1804))
 :::
 
-उप «a, hacia, contra»
+upa-nī + -ana = उपनयन n.: el acercamiento (al fuego del sacrificio) = Ceremonia mediante la cual se coloca a los miembros masculinos de las tres clases superiores el hilo sagrado (यज्ञोपवीत n.) y se susurra en su oído el verso sagrado सावित्री, que deben recitar a partir de entonces diariamente al amanecer y al atardecer. Para los brahmanes, el Ṛgveda III.62.10:
 
 ::: indent
-Ejemplos:
+"Que recibamos el brillo excepcional del Dios 'Conductor', que pueda poner en movimiento nuestros pensamientos."
 :::
 
-उपसर्गेण धात्वर्थो  
-बलादन्यत्र नीयते ।  
-गङ्गासलिलमाधुर्यं  
-सागरेण यथाम्भसा ॥
+Mediante el Upanayana ocurre el segundo nacimiento, por lo tanto: द्विज । द्विजाति
 
 ::: media
 ![](/images/lekt1801.jpg)
-उपगम् 1 उपगच्छति : ir hacia, acercarse
+Fig.: उपनयनम्
+"Se ve a un joven niño durante el ritual de upanayana. El hilo amarillento y delgado que va del hombro izquierdo a la cintura es el Yagnopaivta. También se observa el cinturón de hierba munja alrededor de la cintura. La ramita en la mano derecha (generalmente del árbol peepa) significa su entrada en el Brahmacharya."
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1801))
 :::
 
-## 18.4. Vocabulario
+## 18.4. Lista de palabras
 
 सुष्टु 3: alabado, excelente, bueno
 
 शोभन 3: brillante, magnífico, espléndido, hermoso, bueno
 
-सम 3: igual, nivelado, similar (con instrumental)
+सम 3: igual, mismo, similar (con instrumental)
 
 व्याधि m.: enfermedad
 
@@ -322,11 +314,11 @@ Ejemplos:
 
 उदक n.: agua
 
-अन्त m.: fin, límite
+अन्त m.: final, límite
 
 आदि m.: comienzo
 
-दण्ड m.: palo, azote, castigo
+दण्ड m.: palo, garrote, castigo
 
 मात्रा f. मात्र n.: medida, límite
 
@@ -404,11 +396,11 @@ B) Traduzca los siguientes Tatpuruṣa:
 
 ३१. अमृत n.
 
-## 18.6. Wiederholungsübung
+## 18.6. Ejercicio de repaso
 
-¡Por favor, no utilice auxiliares!
+¡Por favor, no utilice ayudas!
 
-A) Descomponga los siguientes compuestos en sánscrito y propóngase una traducción:
+A) Descomponga los siguientes compuestos en sánscrito y propóngase traducciones:
 
 १. अन्तगत 3
 
@@ -431,30 +423,32 @@ A) Descomponga los siguientes compuestos en sánscrito y propóngase una traducc
 ::: media
 ![](/images/lekt1802.jpg)
 Fig.: मृतिसाधनी काली
-(Fuente de la imagen: [Detalles](/licenses#lekt1802))
+Impresión de 1770
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1802))
 :::
 
 B) Traduzca utilizando verbos de la segunda clase de presente:
 
-1\. El brahmán alaba a las diosas.
+1. El brahmán alaba a las diosas.
 
-2\. Los héroes se dirigen al pueblo de los arios por el camino difícilmente transitable.
+2. Los héroes van por el camino difícilmente transitable al pueblo de los arios.
 
-3\. La sirvienta ordeña las vacas.
+3. La sirvienta ordeña las vacas.
 
-4\. Los enemigos de los arios matan a los poderosos kṣatriyas.
+4. Los enemigos de los arios matan a los poderosos kṣatriyas.
 
-5\. Un fantasma no come frutas.
+5. Un fantasma no come frutas.
 
-6\. Así habla el que ha recorrido [bien el camino de las reencarnaciones] al discípulo.
+6. Así habla el que [ha recorrido bien el camino de las reencarnaciones] al discípulo.
 
 ::: media
 ![](/images/lekt1803.jpg)
 Fig.: सुगतः
-(Fuente de la imagen: [Detalles](/licenses#lekt1803))
+गन्धार Siglos I/II d. C.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1803))
 :::
 
-C) Expresé en sánscrito la definición de Yoga de dos maneras: una vez utilizando un compuesto y otra vez descomponiendo el compuesto.
+C) Dé en sánscrito la definición de yoga de dos maneras: una utilizando un compuesto, otra descomponiendo el compuesto.
 
 D) Traduzca:
 
@@ -462,13 +456,12 @@ D) Traduzca:
 
 ::: deleteme-box
 
-### Fuentes
 
-**lekt1801:** "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya." [Bildquelle: Nagesh Rao / Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt1801:** "Se ve a un joven niño durante el ritual de upanayana. El hilo amarillento y delgado que va del hombro izquierdo a la cintura es el Yagnopaivta. También se observa el cinturón de hierba munja alrededor de la cintura. La ramita en la mano derecha (generalmente del árbol peepa) significa su entrada en el Brahmacharya." [Fuente de la imagen: Nagesh Rao / Wikipedia, Licencia GNU FD]
 
-**lekt1802:** 1770 Print [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt1802:** Impresión de 1770 [Fuente de la imagen: Wikipedia, Dominio público]
 
-**lekt1803:** गन्धार 1./2. Jhdt. n. Chr. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt1803:** गन्धार Siglos I/II d. C. [Fuente de la imagen: Wikipedia, Dominio público]
 
-**lekt1804:** Hochzeit = विवाह m., ein wichtiger संस्कारः [Bildquelle: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt1804:** Bodas = विवाह m., un importante संस्कारः [Fuente de la imagen: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Acceso el 2008-12-08. -- Licencia Creative Commons (Atribución, no uso comercial, sin obras derivadas)]
 :::

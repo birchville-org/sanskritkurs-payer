@@ -1,6 +1,10 @@
 ---
+title: Lezione 36
+subtitle: "Formazioni speciali del perfetto"
 lesson_id: 36
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 36
@@ -8,16 +12,16 @@ last_reconstructed: 2026-05-21
 ## 36.1. Formazioni speciali del perfetto
 
 :::: grammar-box
-1\. Alcune radici mostrano, dopo la sillaba di reduplicazione, una modifica dell’iniziale della radice.
+1\. Alcune radici mostrano, dopo la sillaba di reduplicazione, una variazione dell'inizio della radice.
 ::::
 
 Esempi:
 
 | Radice[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **जि** 1P[[br]]Perf. IIIa | **जिगाय** | **जिग्युर्**[[br]]ji-gi + ur | | |
-| **चि** 5U[[br]]Perf. IIIa | **चिकाय**[[br]]**चिचाय** | **चिक्युर्**[[br]]**चिच्युर्** | **चिक्ये**[[br]]**चिच्ये** | **चिक्यिरे**[[br]]**चिच्यिरे** |
-| **हन्** 2P[[br]]Perf. Va | **जघान** | **जघ्नुर्** | | |
+| **जि** 1P[[br]]Perf. IIIa | जि***गा***य | जि***ग्यु***र्[[br]]ji-gi + ur | | |
+| **चि** 5U[[br]]Perf. IIIa | चि***का***य[[br]]**चिचाय** | चि***क्यु***र्[[br]]**चिच्युर्** | चि***क्ये***[[br]]**चिच्ये** | चि***क्यि***रे[[br]]**चिच्यिरे** |
+| **हन्** 2P[[br]]Perf. Va | ज***घा***न | ज***घ्नु***र् | | |
 
 :::: grammar-box
 2\. La radice विद् 2P "sapere" ha un perfetto con significato presente.
@@ -26,7 +30,7 @@ Esempi:
 :::: grammar-box
 | Radice[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| **विद्** 2P | **वेद**[[br]]egli/lei/esso sa | **विदुर्**[[br]]essi sanno |
+| **विद्** 2P | **वेद**[[br]]egli/ella/esso sa | **विदुर्**[[br]]essi sanno |
 ::::
 
 :::: grammar-box
@@ -36,11 +40,11 @@ Esempi:
 :::: grammar-box
 | Radice[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| **अह्**[[br]]Perf. I | **आह**[[br]]egli/lei/esso dice | **आहुर्**[[br]]essi dicono |
+| **अह्**[[br]]Perf. I | **आह**[[br]]egli/ella/esso dice | **आहुर्**[[br]]essi dicono |
 ::::
 
 :::: grammar-box
-4\. La radice भू 1P ha il tema del perfetto बभू, prima di vocali बभूव्.
+4\. La radice भू 1P ha lo stemma del perfetto बभू, davanti a vocali बभूव्.
 ::::
 
 :::: grammar-box
@@ -52,7 +56,7 @@ Esempi:
 ## 36.2. Il perfetto perifrastico (अनुप्रयोगलिट्)
 
 :::: grammar-box
-Il perfetto perifrastico (अनुप्रयोगलिट्) è utilizzato:
+Il perfetto perifrastico (अनुप्रयोगलिट्) è usato:
 
 1. nelle coniugazioni derivate (Causativo, Desiderativo, Frequentativo, Denominativi)
 2. nelle radici che iniziano con una vocale lunga (tranne ā-) o con una vocale (tranne a-) seguita da due consonanti
@@ -62,13 +66,13 @@ Il perfetto perifrastico (अनुप्रयोगलिट्) è utilizzato
 :::: grammar-box
 **Formazione:**
 
-stema del presente (debole) + -ām + la forma corrispondente del perfetto di कृ, अस् o भू
+radice del presente (debole) + -ām + la forma corrispondente del perfetto di कृ, अस् o भू
 
-- La vocale finale del tema viene guṇata prima di -ām.
-- अस् e भू vengono coniugati al Parasmaipada anche nei verbi Ātmanepada.
+- La vocale finale del tema subisce guṇa prima di -ām.
+- अस् e भू sono coniugati anche nel Parasmaipada per i verbi Ātmanepada.
 ::::
 
-Il perfetto perifrastico deriva probabilmente dall’accusativo di un nome verbale in -ā. Questo accusativo viene utilizzato, come spesso accade, in senso avverbiale.
+Il perfetto perifrastico è probabilmente sorto dall'accusativo di un nome verbale in -ā. Questo accusativo viene usato -- come spesso altrove -- avverbialmente.
 
 Esempi:
 
@@ -77,23 +81,23 @@ Esempi:
 | **ईक्ष्** 1Ā | | | **ईक्षां चक्रे**[[br]]**ईक्षामास**[[br]]**ईक्षां बभूव** | **ईक्षां चक्रिरे**[[br]]**ईक्षामासुर्**[[br]]**ईक्षां बभूवुर्** |
 | **बन्ध्**[[br]]Causativo: बन्धय-[[br]]"far legare" | **बन्धयां चकार**[[br]]**बन्धयामास**[[br]]**बन्धयां बभूव** | **बन्धयां चक्रुर्**[[br]]**बन्धयामासुर्**[[br]]**बन्धयां बभूवुर्** | | |
 
-## 36.3. Perfetto Passivo
+## 36.3. Passivo del perfetto
 
 :::: grammar-box
-Nel perfetto, per la formazione del passivo si utilizzano le forme dell’Ātmanepada. Si preferisce tuttavia l’impiego del participio passato (PPP). La costruzione è in entrambi i casi quella tipica delle frasi passive:
+Nel perfetto, per il passivo si utilizzano le forme dell'Ātmanepada. Si preferisce tuttavia l'uso del PPP. La costruzione è in entrambi i casi quella delle frasi passive:
 
 ::: indent
-तेन पुण्यं चक्रे = तेन पुण्यं कृतम् = "Egli compì un’opera meritoria"
+तेन पुण्यं चक्रे = तेन पुण्यं कृतम् = "Egli compì un'opera meritoria"
 :::
 ::::
 
-## 36.4. Elenco lessicale
+## 36.4. Elenco di parole
 
-अह् P solo Perfetto con significato di presente आह, आहुर् : dire, parlare
+अह् P solo perfetto con significato presente आह, आहुर् : dire, parlare
 
-अह् प्र P solo Perfetto con significato di presente प्राह : dire, parlare
+अह् प्र P solo perfetto con significato presente प्राह : dire, parlare
 
-ईक्ष् 1Ā ईक्षते : vedere, (ricon)oscere, contemplare
+ईक्ष् 1Ā ईक्षते : vedere, (er)blickare, esaminare
 
 ::: indent
 Perf. ईक्षां चक्रे  
@@ -103,7 +107,7 @@ Kaus. ईक्षयति
 PPP ईक्षित  
 Inf. ईक्षितुम्
 :::
-चि 5U चिनोति : ammassare, raccogliere
+चि 5U चिनोति : accumulare, raccogliere
 
 ::: indent
 Perf. चिकाय । चिचाय  
@@ -116,10 +120,10 @@ Inf. चेतुम्
 ::: media
 ![](/images/lekt3601.jpg)
 Fig.: गोमयं चिकाय
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3601))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3601))
 :::
 
-व्रज् 1P व्रजति : camminare, andare, allontanarsi
+व्रज् 1P व्रजति : procedere, andare, andarsene
 
 ::: indent
 Perf. Vc वव्राज, वव्रजुर्  
@@ -129,32 +133,32 @@ Kaus. व्राजयति
 PPP व्रजित  
 Inf. व्रजितुम्
 :::
-व्रज् + प्र 1P प्रव्रजति : allontanarsi (in particolare lasciare la propria casa per la "non-famiglia" come asceta = diventare un monaco)
+व्रज् + प्र 1P प्रव्रजति : andarsene (in particolare dalla casa verso l'irrealtà come asceta = diventare un monaco)
 
 अगार n.। आगार n.: casa, focolare
 
 ::: media
 ![](/images/lekt3602.jpg)
 Fig.: अगारम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3602))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3602))
 :::
 
 ::: indent
 da ciò:
 
-अनगार्य n. । अनगारika f.: non-famiglia (stato di monaco o novizio buddhista)
+अनगार्य n. । अनगारika f.: irrealità di un monaco buddista o novizio
 :::
 
 ::: media
 ![](/images/lekt3603.jpg)
 Fig.: अनगार्यम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3603))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3603))
 :::
-अञ्जलि m.: Le mani giunte e sollevate in segno di rispetto
+अञ्जलि m.: Le due mani unite in alto per mostrare rispetto
 
-आदृत 3: stimato, onorato
+आदृत 3: stimato
 
-उपाध्याय m.: maestro
+उपाध्याय m.: insegnante
 
 पृथिवी f.: terra
 
@@ -163,27 +167,27 @@ Fig.: अनगार्यम्
 ::: indent
 पृष्ठम् : dietro
 :::
-प्रजापति m.: signore degli esseri, dio creatore
+प्रजापति m.: signore delle creature, dio creatore
 
-अनु Prefisso verbale: verso, lungo, attraverso, secondo, accanto, dietro
+अनु prefisso: dopo, lungo, sopra - attraverso, lungo, secondo, aggiungere, dietro - attraverso
 
 ::: indent
-es.
+ad esempio
 
 अनुकृ : imitare, fare come
 
-अनुगम् : seguire qualcuno, camminare lungo
+अनुगम् : seguire qualcuno, andare lungo
 :::
-अभि : verso, contro, in direzione di, riguardo a, su, sopra, a
+अभि : -, dopo - attraverso, verso - attraverso, verso - attraverso, contro, in - dentro, in relazione a, su, sopra, a
 
 ::: indent
-es.
+ad esempio
 
 अभिगम् : andare verso, avvicinarsi
 
-वद् + अभि Causativo Ā अभिवादयते : salutare formalmente, rivolgersi a
+वद् + अभि Causativo Ā अभिवादयते : salutare formalmente, rivolgere la parola
 :::
-ग्लै 1P ग्लायति : provare ripugnanza, svanire
+ग्लै 1P ग्लायति : provare avversione, svanire
 
 ::: indent
 Perf. IV जग्लौ  
@@ -194,7 +198,7 @@ PPP ग्लान
 Inf. ग्लातुम्  
 Absol. -ग्लाय
 :::
-घ्रा 1P जिघ्रति : annusare qualcosa
+घ्रा 1P ***जिघ्रति*** : sentire odore di qualcosa
 
 ::: indent
 Perf. IV जघ्रौ  
@@ -205,7 +209,7 @@ PPP घ्रात । घ्राण
 Inf. घ्रातुम्  
 Absol. -घ्राय
 :::
-प्री 9U प्रीणति : rallegrare, divertire; amare, essere favorevole a qualcuno
+प्री 9U प्रीणति : divertire, rallegrare; amare, essere favorevole a qualcuno
 
 प्री 4Ā प्रीयते : rallegrarsi
 
@@ -213,7 +217,7 @@ Absol. -घ्राय
 Perf. IIIa पिप्राय, पिप्रिये  
 Fut. प्रेष्यति  
 Pass. प्रीयते  
-Kaus. प्रीणयति  
+Kaus. ***प्रीणयति***  
 PPP प्रीत  
 Inf. प्रेतुम्
 :::
@@ -231,10 +235,10 @@ Absol. -स्पृश्य
 ::: media
 ![](/images/lekt3606.jpg)
 Fig.: सुगतो भूमीं पस्पर्श
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3606))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3606))
 :::
 
-हृष् 4P हृष्यति : irrigidirsi: rizzarsi (capelli), rallegrarsi per (Istr., Acc., Loc.)
+हृष् 4P हृष्यति : irrigidirsi: drizzarsi (capelli), rallegrarsi per (istr., acc., loc.)
 
 ::: indent
 Perf II जहर्ष  
@@ -246,23 +250,23 @@ PPP हृषित
 ::: media
 ![](/images/lekt3604.jpg)
 Fig.: लोमहर्षः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3604))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3604))
 :::
 
-स्वक 3: proprio (mio, tuo...) ; m.: membro (della famiglia)
+स्वक 3: proprio (mio, tuo ...) ; m.: membro
 
 
 
 ## 36.5. Esercizio
 
-A) Le seguenti radici presentano sia il perfetto reduplicato sia il perfetto perifrastico. Formare le corrispondenti forme di perfetto perifrastico e reduplicato per le seguenti forme:
+A) Le seguenti radici hanno sia il perfetto reduplicato sia il perfetto perifrastico. Formare le corrispondenti forme di perfetto perifrastico e reduplicato per le seguenti forme:
 
 1.  बिभ्रते
 2.  बिभ्यति
 3.  जुहोति
 4.  वेत्ति
 
-B) La radice आस् "stare seduto" ha il perfetto perifrastico. Formare questo perfetto per le seguenti forme:
+B) La radice आस् "sedersi" ha il perfetto perifrastico. Formare questo per le seguenti forme:
 
 1.  आस्ते
 2.  आसते
@@ -276,7 +280,7 @@ C) Formare il corrispondente perfetto per le seguenti forme:
 5.  ऐक्षन्त
 6.  अगापयत्
 7.  अपद्यन्त
-8.  चिनोτι (2 forme)
+8.  चिनोति (2 forme)
 9.  हन्ति
 10.  प्रभविष्यन्ति
 11.  क्रामन्ति
@@ -290,7 +294,7 @@ D) Tradurre:
 ::: media
 ![](/images/lekt3605.jpg)
 Fig.: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3605))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3605))
 :::
 
 ब्राह्मणा महादेवयज्ञायाग्निं चिक्यिरे । ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश । एवं यज्ञेन ब्राह्मणा महादेवैरादयां चक्रुस्तांश्च स्तोत्रानि श्रावयां बभूवुः ॥२॥
@@ -305,7 +309,7 @@ Fig.: पुत्रे जाते सुगतः कुलं धनं च
 
 ब्राह्मणीभिः स्वान्नानि पेचिरे ॥७॥
 
-## 36.6. Il perfetto (लिट) rispetto alle radici finora apprese
+## 36.6. Il perfetto (लिट्) per le radici finora apprese
 
 | Radice[[br]]धातु | Classe del perfetto | Perfetto (लिट्) |
 | :--- | :--- | :--- |
@@ -390,7 +394,7 @@ Fig.: पुत्रे जाते सुगतः कुलं धनं च
 | **वस्** 1P | Va | **उवास**, **ऊषुर्** |
 | **वस्** 2Ā | Vc | **ववसे** |
 | **वह्** 1U | Va | **उवाह**, **ऊहे** |
-| **विद्** 2P | II / Periph. / Présentisch | **विवेद**, **विविदुर्** / **विदां चकार** / **वेद**, **विदुर्** |
+| **विद्** 2P | II / Perif. / Presentico | **विवेद**, **विविदुर्** / **विदां चकार** / **वेद**, **विदुर्** |
 | **विद्** 6U | II | **विवेद**, **विविदे** |
 | **विश्** 6P | II | **विवेश**, **विविशुर्** |
 | **वृत्** 1Ā | II | **ववृते** |
@@ -407,65 +411,65 @@ Fig.: पुत्रे जाते सुगतः कुलं धनं च
 | **स्मृ** 1P | IIIb | **सस्मार**, **सस्मरुर्** |
 | **हन्** 2P | Va | **जघान**, **जघ्नुर्** |
 | **हा** 3P | IV | **जहौ**, **जहुर्** |
-| **हु** 3P | IIIa / Periph. | **जुहाव**, **जुहुवुर्** / **जुहवां चकार** |
+| **हु** 3P | IIIa / Perif. | **जुहाव**, **जुहुवुर्** / **जुहवां चकार** |
 | **हृ** 1U | IIIa | **जहार**, **जह्रे** |
 
 ## 36.7. Esercizio di traduzione
 
 Tradurre:
 
-1\. Mahābhārata 13.7.25-26
+1\. महाभारत १३.७.२५-२६
 
 ::: indent
-येन प्रीणति पितरं
+येन प्रीणति ***पितरं***
 तेन प्रीतः प्रजापतिः ।
-प्रीणति मातरं येन
+प्रीणति ***मातरं*** येन
 पृथिवी तेन पूजिता ।
 येन प्रीणात्युपाध्यायं
-तेन स्याद्ब्रह्म पूजितम् ।
-सर्वे तस्यादृता धर्मा
-यस्यैते त्रय आदृताः ।
+तेन स्या***द्ब्रह्म*** पूजितम् ।
+***सर्वे*** तस्यादृता धर्मा
+यस्यैते ***त्रय*** आदृताः ।
 अनादृतास्तु यस्यैते
-सर्वास्तस्याफलाः क्रियाः ॥
+***सर्वास्त***स्याफलाः क्रियाः ॥
 
 Spiegazioni:
 
-पितरम् : Acc. sing. di पितृ m. "padre"
+पितरम् : Acc. sg. di पितृ m. "Padre"
 
-मातरम् : Acc. sing. di मातृ f. "madre"
+मातरम् : Acc. sg. di मातृ f. "Madre"
 
-ब्रह्म : Nom./Acc. sing. di ब्रह्मन् n. "Assoluto, Veda"
+ब्रह्म : Nom./Acc. sg. di ब्रह्मन् n. "Assoluto, Veda"
 
-सर्वे : Nom. pl. masc. di सर्व "tutti, ciascuno"
+सर्वे : Nom. pl. masch. di सर्व "tutti, ciascuno"
 
-त्रयस् : Nom. pl. masc. di त्रि "tre"
+त्रयस् : Nom. pl. masch. di त्रि "tre"
 
-सर्वास् : Nom./Acc. pl. fem. di सर्व "tutte, ciascuna"
+सर्वास् : Nom./Acc. pl. fem. di सर्व "tutti, ciascuno"
 :::
 
 ::: media
 ![](/images/lekt3607.jpg)
 Fig.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3607))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3607))
 ::: 
 
-2\. Manavadharmasastra 4.154 riguardo al corretto comportamento verso gli anziani:
+2\. मनुस्मृति ४.१५४ sul corretto comportamento verso gli anziani:
 
 ::: indent
 अभिवादयेद्वृद्धांश्च दद्याच्चैवासनं स्वकम् ।
 कृताञ्जलिरुपासीत गच्छतः पृष्ठतो ऽन्वियात् ॥
 :::
 
-3\. Manavadharmasastra 2.98: Chi è जितेन्द्रिय (dominatore dei sensi):
+3\. मनुस्मृति २.९८: Chi è un जितेन्द्रिय :
 
 ::: indent
 श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च भुक्त्वा घ्रात्वा च यो नरः ।
-न हृष्यति ग्लायति वा स विज्ञेयो जितेन्द्रियः ॥
+न हृष्यति ग्लायति वा स ***विज्ञेयो*** जितेन्द्रियः ॥
 
-Spiegazione: विज्ञेय 3: colui che deve essere conosciuto; colui che deve essere conosciuto (come)
+Spiegazione: विज्ञेय ३: uno che è riconoscibile; uno che è conoscibile (come)
 :::
 
-4\. Manavadharmasastra 2.110 riguardo al corretto comportamento di un Brahmano:
+4\. मनुस्मृति २.११० sul corretto comportamento di un Brahmano:
 
 ::: indent
 नापृष्टः कस्यचिद्ब्रूयान्न चान्यायेन पृच्छतः ।
@@ -473,16 +477,16 @@ Spiegazione: विज्ञेय 3: colui che deve essere conosciuto; colui ch
 
 Spiegazioni:
 
-In questo verso, ब्रू è costruito con il genitivo
+In questo verso ब्रू è costruito con il genitivo
 
-मेधावी : Nom. sing. masc. di मेधाविन् 3 "saggio, intelligente"
+मेधावी : Nom. sg. masch. di मेधाविन् ३ "saggio, intelligente"
 
-जडवत् Avv. "alla stregua di uno stupido/ottuso"
+जडवत् Avv. "Alla stregua di uno ottuso/stupido/idiota"
 :::
 
 ## 36.8. Esercizio di ripasso sulla morfologia
 
-Determinare e tradurre le seguenti forme verbali e nominali in tutti i modi possibili:
+Determinare e tradurre le seguenti forme verbali in tutti i modi possibili:
 
 1.  नयति
 2.  समस्कुर्वन्
@@ -527,13 +531,11 @@ Determinare e tradurre le seguenti forme verbali e nominali in tutti i modi poss
 
 ::: deleteme-box
 
-### Fonti
-
-- **lekt3601.jpg**: Fig.: गोमयं चिकाय Udaipur = उदayपुर [Fonte dell'immagine: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Accesso il 28-12-2008. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
-- **lekt3602.jpg**: Fig.: अगारम् Shekawati = शेखावाटी [Fonte dell'immagine: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Accesso il 28-12-2008. -- Licenza Creative Commons (Attribuzione, share alike)]
-- **lekt3603.jpg**: Fig.: अनगार्यम् Nord-est della Thailandia = อีสาน [Fonte dell'immagine: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Accesso il 28-12-2008. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
-- **lekt3604.jpg**: Fig.: लोमहर्षः (लोमन् n. peli del corpo) [Fonte dell'immagine: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- Accesso il 29-12-2008. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
-- **lekt3605.jpg**: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज Gandhara, I/II sec. d.C. [Fonte dell'immagine: Wikipedia. Licenza GNU FDL]
-- **lekt3606.jpg**: Fig.: स् सुगतो भूमीं पस्पर्श भूमीस्पर्शमudra [Fonte dell'immagine: Payer]
-- **lekt3607.jpg**: Fig.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् । [Fonte dell'immagine: Dey. -- http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Accesso il 29-12-2008. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
+- **lekt3601.jpg**: Fig.: गोमयं चिकाय  Udaipur = उदयपुर [Fonte dell'immagine: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Accesso il  2008-12-28. --   Licenza Creative Commons (Attribuzione, uso non commerciale)]
+- **lekt3602.jpg**: Fig.: अगारम् Shekawati = शेखावाटी [Fonte dell'immagine: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Accesso il  2008-12-28. --   Licenza Creative Commons (Attribuzione, condividi allo stesso modo)]
+- **lekt3603.jpg**: Fig.: अनगार्यम् 	Nord-est della Thailandia = อีสาน 	[Fonte dell'immagine: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Accesso il  	2008-12-28. --  	 	Creative  	Commons License (Attribuzione, uso non commerciale, nessuna  	Modifica)]
+- **lekt3604.jpg**: Fig.: लोमहर्षः (लोमन् n. peli del corpo) [Fonte dell'immagine: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Accesso il 2008-12-29.  --   Creative  Commons License (Attribuzione, uso non commerciale)]
+- **lekt3605.jpg**: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज Gandhara, 1./2. sec. d.C. [Fonte dell'immagine: Wikipedia. GNU FDLicense]
+- **lekt3606.jpg**: Fig.:स् सुगतो भूमीं पस्पर्श भूमीस्पर्श Mudrā [Fonte dell'immagine: Payer]
+- **lekt3607.jpg**: Fig.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् । [Fonte dell'immagine: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Accesso il  2008-12-29. --   Creative  Commons License (Attribuzione, uso non commerciale, condividi allo stesso modo)]
 :::

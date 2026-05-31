@@ -132,14 +132,14 @@ Las formas त्वा, te y वस् no deben emplearse al inicio de una orac
 
 ## 43.4. Lista de vocabulario
 
-ज्ञा + आ Kausativ आज्ञापयati : ordenar, disponer
+ज्ञा + आ Caus. आज्ञापयति : ordenar, disponer
 
 आपण m.: mercado
 
 ::: media
 ![](/images/lekt4302.jpg)
 Fig.: आपणः
-(Fuente de la imagen: [Detalles](/licenses#lekt4302))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4302))
 :::
 
 सत्वर 3: rápido, apresurado
@@ -149,7 +149,7 @@ Fig.: आपणः
 ::: media
 ![](/images/lekt4303.jpg)
 Fig.: पण्यानि
-(Fuente de la imagen: [Detalles](/licenses#lekt4303))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4303))
 :::
 
 आम् : sí
@@ -173,7 +173,7 @@ Fig.: पण्यानि
 ::: media
 ![](/images/lekt4304.jpg)
 Fig.: विपणिः
-(Fuente de la imagen: [Detalles](/licenses#lekt4304))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4304))
 :::
 
 वणिज् m.: comerciante
@@ -181,7 +181,7 @@ Fig.: विपणिः
 ::: media
 ![](/images/lekt4305.jpg)
 Fig.: वणिक्
-(Fuente de la imagen: [Detalles](/licenses#lekt4305))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4305))
 :::
 
 वर 3: mejor
@@ -193,7 +193,7 @@ Fig.: वणिक्
 ::: media
 ![](/images/lekt4306.jpg)
 Fig.: वत्सः
-(Fuente de la imagen: [Detalles](/licenses#lekt4306))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4306))
 :::
 
 उत्तम 3: supremo, mejor
@@ -215,7 +215,7 @@ Fig.: वत्सः
 ::: media
 ![](/images/lekt4307.jpg)
 Fig.: तोलन्ति
-(Fuente de la imagen: [Detalles](/licenses#lekt4307))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4307))
 :::
 
 कर्गल n.: papel
@@ -338,7 +338,7 @@ B) Traduzca al sánscrito:
 ::: media
 ![](/images/lekt4308.jpg)
 Fig.: कदा पूराववर्तथाः ।
-(Fuente de la imagen: [Detalles](/licenses#lekt4308))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4308))
 :::
 
 ## 43.6. संवादः = Diálogo
@@ -374,12 +374,11 @@ Fig.: कदा पूराववर्तथाः ।
 ::: media
 ![](/images/lekt4309.jpg)
 Fig.: śarkarā
-(Fuente de la imagen: [Detalles](/licenses#lekt4309))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4309))
 :::
 
 ::: deleteme-box
 
-### Fuentes
 
 **lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Acceso el 2009-01-06. -- Licencia Creative Commons (Atribución, uso no comercial)
 

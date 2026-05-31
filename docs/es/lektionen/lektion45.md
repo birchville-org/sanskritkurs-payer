@@ -101,7 +101,7 @@ p. ej. **देव, कवे, शत्रो, राजन्, पितर्
 ::: media
 ![](/images/lekt4501.jpg)
 Fig.: भवति किं करोषि
-(Fuente de la imagen: [Detalles](/licenses#lekt4501))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4501))
 :::
 
 ## 45.3. Lista de palabras
@@ -110,14 +110,14 @@ Fig.: भवति किं करोषि
 
 ## 45.4. Ejercicio
 
-A) Traduzca al sánscrito (para las formas pasadas, por favor utilice el imperfecto <लङ्>):
+A) Traduzca al sánscrito (para las formas pasadas, por favor utilice el imperfecto &lt;लङ्&gt;):
 
 1\. Tú divides la (comunidad budista).
 
 ::: indent
 Sobre la división de la comunidad (सङ्घभेद), véase:
 
-**Payer, Alois <1944 - >:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 
 2\. ¿Disfrutasteis de la tierra?
@@ -151,13 +151,12 @@ B) Traduzca:
 ::: media
 ![](/images/lekt4502.jpg)
 Fig.: कन्ये किं लिखसि
-(Fuente de la imagen: [Detalles](/licenses#lekt4502))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4502))
 :::
 
 
 ::: deleteme-box
 
-### Fuentes
 
 **lekt4501.jpg**: Impresión textil en bloque, Ahmedabād. -- Fuente de la imagen: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual)
 

@@ -1,6 +1,10 @@
 ---
+title: Lesson 12
+subtitle: "The perfect passive participle (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 12
@@ -10,35 +14,35 @@ last_reconstructed: 2026-05-07
 - The Perfect Passive Participle (PPP)
 - The meaning of the PPP
 - The formation of the PPP
-- Phonotactic rules within words
-- The passive voice and PPP of the roots studied so far
+- Laws of sound combination in words
+- Passive and PPP of the roots learned so far
 :::
 
 ---
 
 ## 12.1. Perfect Passive Participle (PPP)
 
-One method for forming past passive sentences is the construction using the so-called Perfect Passive Participle (PPP).
+One way to form passive sentences of the past is the construction with the so-called Perfect Passive Participle (PPP).
 
 ::: grammar-box
-**In reality, the PPP is not a true participle, as it is not derived from a tense stem. Rather, it is a nominal formation based on the root with the primary suffix -ta or -na. Consequently, Indian grammar refers to this suffix as *kta*.**
+**In reality, the PPP is not a true participle, as it is not formed from a tense stem. Rather, it is a nominal formation from the root with the primary suffix -ta or -na. Therefore, in Indian grammar, one speaks of the suffix kta.**
 :::
 
 ---
 
-### 12.1.1. Schema for Transitive Verbs
+### 12.1.1. Schema for transitive verbs
 
 ::: grammar-box
-**Agent (kartṛ) in the Instrumental (tṛtīyā) -- Direct Object (karman) in the Nominative (prathamā) -- Perfect Passive Participle**
+**Agent (kartṛ) in the Instrumental (tṛtīyā) -- direct object (karman) in the Nominative (prathamā) -- Perfect Passive Participle**
 
 In this case, the PPP agrees with the object in number, case, and gender.
 
-An auxiliary verb (“to be”) is not required.
+An auxiliary verb ("to be") is not necessary.
 
 Examples:
-> **sādhunā svarga āptaḥ** = साधुना स्वर्ग आप्तः = “(A heaven was attained by the righteous one) = The righteous one has attained a heaven.”
+> **sādhunā svarga āptaḥ** = साधुना स्वर्ग आप्तः = "(By the saint, a heaven was attained) = The saint has attained a heaven."
 > 
-> **brāhmaṇena devīṣṭā** = ब्राह्मणेन देवीष्टा = “(The goddess was worshipped by the Brahmin with a sacrifice) = The Brahmin has worshipped the goddess with a sacrifice.”
+> **brāhmaṇena devīṣṭā** = ब्राह्मणेन देवीष्टा = "(By the Brahmin, the goddess was honored with a sacrifice) = The Brahmin has honored the goddess with a sacrifice."
 :::
 
 ---
@@ -48,10 +52,10 @@ Examples:
 ::: grammar-box
 **Agent (kartṛ) in the Nominative (prathamā) -- Perfect Passive Participle**
 
-In this case, the PPP agrees with the agent in number, case, and gender. The Perfect Passive Participle carries an active meaning when used with intransitive verbs (verbs without a direct object) and verbs of motion.
+In this case, the PPP agrees with the agent in number, case, and gender. The Perfect Passive Participle has an active meaning with intransitive verbs (verbs without a direct object) and verbs of motion.
 
 Example:
-> **kṣatriyā nagaraṃ gatā** = क्षत्रिया नगरं गता = “The Kṣatriya woman has gone into the city.”
+> **kṣatriyā nagaraṃ gatā** = क्षत्रिया नगरं गता = "The Kṣatriya woman has gone into the city."
 :::
 
 ---
@@ -59,10 +63,10 @@ Example:
 ### 12.1.3. Schema II for Intransitive Verbs and Verbs of Motion
 
 ::: grammar-box
-**Agent (kartṛ) in the Instrumental case (tṛtīyā) -- Past Passive Participle (PPP) in the Nominative Singular Neuter**
+**Agent (kartṛ) in the Instrumental (tṛtīyā) -- PPP in the Nominative Singular Neuterum**
 
 Example:
-> **kṣatriyeṇa (nagaraṃ) gatam** = क्षत्रियेण (नगरं) गतम् = “(The Kṣatriya) went (into the city)” = “The Kṣatriya has gone (into the city).”
+> **kṣatriyeṇa (nagaraṃ) gatam** = क्षत्रियेण (नगरं) गतम् = „(By the Kṣatriya, (into the city) has been gone) = The Kṣatriya has (gone into the city).“
 
 The construction according to Schema II is much rarer than the construction according to Schema I.
 :::
@@ -71,20 +75,20 @@ The construction according to Schema II is much rarer than the construction acco
 
 ## 12.2. On the Significance of the PPP
 
-Thus, while the so-called “Perfect Passive Participle” (PPP) primarily conveys a passive meaning for transitive verbs (**āpta** = “reached (been)”) and an active meaning for intransitive verbs and verbs of motion (**gata** = “having gone”), there are certain verbs for which the PPP may exhibit both active and passive meanings:
+Thus, while the so-called "Participle Perfect Passive" for transitive verbs has primarily a passive meaning (**āpta** = "reached (been)") and for intransitive verbs and verbs of motion an active meaning (**gata** = "gone"), there are some verbs for which the PPP can have both active and passive meaning:
 
 e.g.
-- **gata** = गत = “having gone” (active); but also: **gato mārgaḥ** = गतो मार्गः = “a path that has been traversed” (passive)
-- **āpta** = आप्त = “having been reached” (passive), “having reached” (active)
+- **gata** = गत = "gone" (active); but also: **gato mārgaḥ** = गतो मार्गः = "a path gone" (passive)
+- **āpta** = आप्त = "reached (been)" (passive), "having reached" (active)
 
 ---
 
-## 12.3. Formation of the Past Participle (PPP)
+## 12.3. Formation of the PPP
 
 ::: grammar-box
-The following formation patterns occur (for each root, its corresponding PPP must be learned!):
+The following formation methods occur (for each root, its PPP must be learned accordingly!):
 
-**(most commonly) Guṇa-grade root**
+**(mostly) guṇa-grade root**
 
 - **+ -ta**
   - with connecting vowel **-i-** before: **-ita**
@@ -98,12 +102,12 @@ The feminine stems are: **-tā**, **-itā**, **-nā**; the neuter declines like 
 
 ### 12.3.1. PPP on -ta (kta)
 
-#### 12.3.1.1. Without the connecting vowel -i- (aniṭ)
+#### 12.3.1.1. Without connecting vowel -i- (aniṭ)
 
-*aniṭ* = “without (*an-*) the suffix-prefixed (*-i-*) *t*” (i.e., without the connecting vowel *i*).
+*aniṭ* = “without (*an-*) the suffix preceding (*-i-*) *t*” (i.e., without the connecting vowel *i*).
 
 ::: grammar-box
-The PPP is generally formed without the connecting vowel from roots ending in a vowel, as well as from many other roots; however, no fixed rule can be stated regarding which structured roots exhibit the connecting vowel and which do not.
+Without a connecting vowel, the PPP is generally formed from roots ending in a vowel, as well as from many other roots, without there being a fixed rule for which structured roots exhibit the connecting vowel and which do not.
 
 A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 :::
@@ -127,9 +131,9 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 | **iṣ** 6 P[[br]](इष्) | **iṣ-ṭa**[[br]](इष्ट) |
 :::
 
-#### 12.3.1.2. With the connecting vowel -i- (seṭ)
+#### 12.3.1.2. With connecting vowel -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = “with (*sa-*) the suffix-prefixed (*-i-*) *t*” (i.e., with the connecting vowel *i*).
+*seṭ* = *sa-iṭ* = “with (*sa-*) the suffix preceding (*-i-*) *t*” (i.e., with the connecting vowel *i*).
 
 **Examples:**
 
@@ -144,57 +148,36 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 
 ---
 
-## 12.4. Laws of Sandhi within the Word
+## 12.4. Laws of Sound Combination in the Word
 
-In the case of *aniṭ* formations, the following laws of internal sandhi must be observed. **These laws are of paramount importance for the understanding of Sanskrit morphology as a whole.**
+In *aniṭ*-formations, the following laws of sound combination in the word must be observed. **These laws are very important for understanding the entire morphology of Sanskrit.**
 
-::: grammar-box
-1. **k, t, p before a voiceless stop (e.g., t, th) remain unchanged:**
-   > **pt, tt, kt** = **प्त्, त्त्, क्त्**
+:::: grammar-box
 
-2. **ct is replaced by kt = क्त्:**
-   > **muc + ta » muk-ta** = **मुक्त**
-
-3. **śt is replaced by ṣṭ = ष्ट्:**
-   > **dṛś + ti » dṛṣṭi** = **दृष्टि**
-   > **dṛś + ta » dṛṣṭa** = **दृष्ट**
-   > **viś + ta » viṣṭa** = **विष्ट**
-
-4. **A voiced unaspirated stop – except j – is replaced by its corresponding voiceless unaspirated stop before a voiceless sound:**
-   > **d + t(h) » tt(h)** = **त्त्, त्थ्** (important for the 2nd class of verbs)
-
-5. **jt is replaced by kt or ṣṭ (not optional!):**
-   > **yuj + ta » yuk-ta** = **युक्त**
-   > **yaj + ta » iṣ-ṭa** = **इष्ट** (&lt; \*yj-ta)
-   &gt; **sṛj + ta » sṛṣ-ṭa** = **सृष्ट**
-   > **sṛj + ti » sṛṣ-ṭi** = **सृष्टि**
-
-6. **A voiced aspirated stop + a voiceless stop » a voiced unaspirated stop + a voiced aspirated stop (Bartholomae’s Aspirate Law):**
-   > **bh-t » b-dh**
-   > - **labh + ta » lab-dha** = **लब्ध**
-   >
-   > **dh-t » d-dh**
-   > - **budh + ta » bud-dha** = **बुद्ध**
-   > - **yudh + ta » yud-dha** = **युद्ध**
-   > - **krudh + ta » krud-dha** = **क्रुद्ध**
-
-7. **h-t is replaced by ḍh with the lengthening of a preceding i or u; or by gdh. Before such a ḍh, a is replaced by o, rarely by ā:**
-   > **dah + ta » dag-dha** = **दग्ध**
-   > **guh + ta » gūḍha** = **गूढ** (guh 1 (gūhati) “to conceal something”)
-   > **muh + ta » mug-dha / mūḍha** = **मुग्ध / मूढ**
-   > **sah + ta » soḍha** = **सोढ**
+::: no-header
+| | |
+| :--- | :--- |
+| **1. k, t, p before a voiceless stop (e.g. t, th) remain unchanged:** | **pt, tt, kt** = **प्त्, त्त्, क्त्** |
+| **2. ct is replaced by kt = क्त्:** | **muc + ta » muk-ta** = **मुक्त** |
+| **3. śt is replaced by ṣṭ = ष्ट्:** | **dṛś + ti » dṛṣṭi** = **दृष्टि**[[br]]**dṛś + ta » dṛṣṭa** = **दृष्ट**[[br]]**viś + ta » viṣṭa** = **विष्ट** |
+| **4. A voiced unaspirated stop – except j – before a voiceless sound is replaced by the corresponding voiceless unaspirated sound:** | **d + t(h) » tt(h)** = **त्त्, त्थ्** (important for the 2nd present class) |
+| **5. jt is replaced by kt or ṣṭ (not optional!):** | **yuj + ta » yuk-ta** = **युक्त**[[br]]**yaj + ta » iṣ-ṭa** = **इष्ट** (&lt; \*yj-ta)[[br]]**sṛj + ta » sṛṣ-ṭa** = **सृष्ट**[[br]]**sṛj + ti » sṛṣ-ṭi** = **सृष्टि** |
+| **6. A voiced aspirated stop + a voiceless stop » a voiced unaspirated stop + a voiced aspirated stop (Bartholomew’s Aspiration Law):** | **bh-t » b-dh:**[[br]]**labh + ta » lab-dha** = **लब्ध**[[br]]**dh-t » d-dh:**[[br]]**budh + ta » bud-dha** = **बुद्ध**[[br]]**yudh + ta » yud-dha** = **युद्ध**[[br]]**krudh + ta » krud-dha** = **क्रुद्ध** |
+| **7. h-t is replaced by ḍh with lengthening of a preceding i or u; or by gdh. Before such a ḍh, a is replaced by o, rarely by ā:** | **dah + ta » dag-dha** = **दग्ध**[[br]]**guh + ta » gūḍha** = **गूढ** (guh 1 (gūhati) “to conceal something”)[[br]]**muh + ta » mug-dha / mūḍha** = **मुग्ध / मूढ**[[br]]**sah + ta » soḍha** = **सोढ** |
 :::
+
+::::
 
 ---
 
 ## 12.5. Word List
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : to awaken, to awaken to knowledge, to recognize; PPP **buddha** 3 awakened, hence **Buddha** = “the Awakened” (not: the Enlightened)
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : to awaken, to awaken to knowledge, to recognize; PPP **buddha** 3 awakened, hence **Buddha** = "the Awakened" (not: the Enlightened)
 
 ::: media
 ![](/images/lekt1201.jpg)
 Fig.: गौतमो बुद्धः
-(Image source: [Details](/licenses#lekt1201))
+(Image source: [Details](/en/licenses#lekt1201))
 :::
 
 - **dah** 1 P (dahati), PPP **dagdha** दह् दहति दग्ध : to burn (something)
@@ -205,35 +188,35 @@ Fig.: गौतमो बुद्धः
 ::: media
 ![](/images/lekt1202.jpg)
 Fig.: मार्गः
-(Image source: [Details](/licenses#lekt1202))
+(Image source: [Details](/en/licenses#lekt1202))
 :::
 
 - **api** अपि : also (postposed)
 
-Some roots are classified by indigenous grammarians into the 6th conjugation class, which form the present stem with a nasal infix and thematic vowel *a*, e.g.:
+Regarding the 6th conjugation class, some roots are counted by indigenous grammarians that form the present stem with nasal infix and thematic vowel a, e.g.:
 
 - **muc** 6 U (muñcati), PPP **mukta** मुच् मुञ्चति मुक्त : to release, to let go, to liberate; to liberate from the cycle of rebirths (**saṃsāra** m.) = to save
 - **sic** 6 U (siñcati), PPP **sikta** सिच् सिञ्चति सिक्त : to sprinkle
 
 Regarding word formation:
 
-- **muc**: **mokṣa** m. मोक्ष : release, liberation, salvation
+- **muc**: **mokṣa** m. मोक्ष : detachment, liberation, salvation
 - **sic** + **abhi-**: **abhiṣeka** m. अभिषेक : anointing of a king during the royal consecration, royal consecration
-- **budh**: **bodhi** m./f. बोधि : awakening (by which a Buddha or Jina attains liberating insight)
+- **budh**: **bodhi** m./f. बोधि : the awakening (through which a Buddha or Jina attains liberating insight)
 
 ::: media
 ![](/images/lekt1203.jpg)
 Fig.: महावीरो जिनः
-(Image source: [Details](/licenses#lekt1203))
+(Image source: [Details](/en/licenses#lekt1203))
 :::
 
-- **buddhi** f. (**budh** + **-ti**) बुद्धि : knowledge, faculty of cognition.
+- **buddhi** f. (**budh** + **-ti**) बुद्धि : knowledge, organ of knowledge.
 
 ---
 
-### 12.5.1. Passive Voice and Past Participle (PPP) of Roots Learned Thus Far
+### 12.5.1. Passive and PPP of the Roots Learned So Far
 
-| Root[[br]]धातु | Passive Present 3rd sg. Indicative[[br]]यक् लट् | PPP[[br]]क्त |
+| Root[[br]]धातु | Passive Present 3. sg. Indicative[[br]]यक् लट् | PPP[[br]]क्त |
 | :--- | :--- | :--- |
 | **aś** 5 Ā[[br]]अश् | **aśyate**[[br]]अश्यते | **aṣṭa**[[br]]अष्ट |
 | **āp** 5 P[[br]]आप् | **āpyate**[[br]]आप्यते | **āpta**[[br]]आप्त |
@@ -285,8 +268,8 @@ Fig.: महावीरो जिनः
 
 ## 12.6. Exercise
 
-**A) Form passive sentences in the past tense from the active sentences of [Lesson 7](/lektionen/lektion07), Exercise A, using the Past Participle (PPP). For intransitive verbs and verbs of motion, form active sentences in the past tense.**
+**A) Form passive sentences in the past tense from the active sentences of [Lesson 7](/lessons/lesson07), Exercise A, and for intransitive verbs and verbs of motion, form active sentences in the past tense.**
 
-**B) Derive the corresponding Past Participles (PPPs) for the verb forms in [Lesson 10](/lektionen/lektion10), Exercise A. Note that a form such as *sṛjati* corresponds to PPPs in all three genders.**
+**B) Form the corresponding PPPs for the verb forms of [Lesson 10](/lessons/lesson10), Exercise A. Note that a form like sṛjati corresponds to PPPs in all three genders.**
 
-**C) Convert the sentences from [Lesson 10](/lektionen/lektion10), Exercise C, into the passive voice in the past tense.**
+**C) Put the sentences of [Lesson 10](/lessons/lesson10), Exercise C, into the passive voice in the past tense.**

@@ -1,283 +1,305 @@
+---
+title: Урок 42
+subtitle: "Становища на -ṛ"
+lesson_id: 42
+last_reconstructed: 2026-05-21
+category: "Граматика"
+status: stable
+---
 
+# Урок 42
 
-# Lektion 42
+## 42.1. Племена на -ṛ
 
-## 42.1. Stämme auf -ṛ
-
-### 42.1.1. Stämme mit Dehnstufe im starken Основа
-
-::: grammar-box
-Alle Maskulina auf -ṛ mit Ausnahme der unter 1.3. angeführten Verwandtschaftsbezeichnungen. Hierher gehören auch die Verwandtschaftsbezeichnungen: <!-- TODO: Fallback translation -->
-
-*   **नप्तृ** m. "Enkel" <!-- TODO: Fallback translation -->
-*   **भर्तृ** m. "Gatte (wörtl. Erhalter)" <!-- TODO: Fallback translation -->
-
-Den Großteil der hierhergehörigen Nomina bilden Nomina agentis auf das कृत्-Suffix -तृ. <!-- TODO: Fallback translation -->
-
-**Bildung:** <!-- TODO: Fallback translation -->
-
-*   **Starker Основа: -ār** <!-- TODO: Fallback translation -->
-*   **Schwacher Основа** <!-- TODO: Fallback translation -->
-    *   **vor Vokal: -r** <!-- TODO: Fallback translation -->
-    *   **vor Konsonant: -ṛ** <!-- TODO: Fallback translation -->
-
-Beachten Sie die unregelmäßigen Bildungen (durch rot gekennzeichnet)! <!-- TODO: Fallback translation -->
-:::
-
-Maskulinum: <!-- TODO: Fallback translation -->
-
-::: indent
-**दातृ** m. "Geber" <!-- TODO: Fallback translation -->
-:::
+### 42.1.1. Племена з подовженою основою в сильному відмінку
 
 ::: grammar-box
+Усі чоловічого роду іменники на -ṛ, за винятком споріднених назв, наведених у пункті 1.3. Сюди також належать назви споріднених:
 
-| | एकवचनम् | बहुवचनम् | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| प्रथमा | ***दाता*** | दातारस् | <!-- TODO: Fallback translation -->
-| द्वितीया | दातारम् | ***दातॄन्*** | <!-- TODO: Fallback translation -->
-| तृतीया | दात्रा | दातृभिस् | <!-- TODO: Fallback translation -->
-| चतुर्थी | दात्रे | दातृभ्यस् | <!-- TODO: Fallback translation -->
-| पञ्चमी | ***दातुस्*** | दातृभ्यस् | <!-- TODO: Fallback translation -->
-| षष्ठी | ***दातुस्*** | ***दातॄणाम्*** | <!-- TODO: Fallback translation -->
-| सप्तमी | ***दातरि*** | दातृषु | <!-- TODO: Fallback translation -->
+*   **नप्तृ** ч.р. "онук"
+*   **भर्तृ** ч.р. "чоловік (досл. той, що підтримує)"
 
+Більшість іменників, що належать до цієї групи, утворюються за допомогою कृत्-суфікса -तृ.
+
+**Утворення:**
+
+*   **Сильний відмінок: -ār**
+*   **Слабкий відмінок**
+    *   **перед голосним: -r**
+    *   **перед приголосним: -ṛ**
+
+Зверніть увагу на нерегулярні утворення (позначені ***червоним*** кольором)!
 :::
 
-Zur Erklärung der unregelmäßigen Bildungen siehe Thumb-Hauschild I,2 S. 76 -81 <!-- TODO: Fallback translation -->
-
-Femininum: <!-- TODO: Fallback translation -->
+Чоловічий рід:
 
 ::: indent
-**स्वसृ** f. wird wie **दातृ** dekliniert mit Ausnahme des Akkusativ (**द्वितीया**) Plural: ***स्वसॄस्***. <!-- TODO: Fallback translation -->
+**दातृ** ч.р. "той, що дає"
 :::
-
-### 42.1.2. Nominalbildung: कृत्-Suffix -तृ
 
 ::: grammar-box
-Mit dem sehr häufig vorkommenden कृत्-Suffix -तृ bildet man Nomina agentis (Bezeichnungen für den कर्तृ) zu fast jeder Wurzel bzw. Kausativstamm. &lt;!-- TODO: Fallback translation --&gt;
 
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+| | एकवचनम् | बहुवचनम् |
+| :--- | :--- | :--- |
+| प्रथमा | ***दाता*** | दातारस् |
+| द्वितीया | दातारम् | ***दातॄन्*** |
+| तृतीया | दात्रा | दातृभिस् |
+| चतुर्थी | दात्रे | दातृभ्यस् |
+| पञ्चमी | ***दातुस्*** | दातृभ्यस् |
+| षष्ठी | ***दातुस्*** | ***दातॄणाम्*** |
+| सप्तमी | ***दातरि*** | दातृषु |
 
-*   hochstufige Корінь + -tṛ &lt;!-- TODO: Fallback translation --&gt;
-
-oder &lt;!-- TODO: Fallback translation --&gt;
-
-*   hochstufige Корінь / Kausativstamm + i + tṛ &lt;!-- TODO: Fallback translation --&gt;
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Щодо пояснення нерегулярних утворень див. Thumb-Hauschild I,2 с. 76 -81
+
+Жіночий рід:
 
 ::: indent
-कर्तृ m. "Täter" &lt;!-- TODO: Fallback translation --&gt;
+**स्वसृ** ж.р. відмінюється так само, як **दातृ**, за винятком знахідного відмінка (**द्वितीया**) множини: ***स्वसॄस्***.
+:::
 
-जेतृ m. "Sieger" &lt;!-- TODO: Fallback translation --&gt;
+### 42.1.2. Утворення іменників: суфікс कृत् -तृ
 
-धातृ m. "Schöpfer" &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+За допомогою дуже поширеного суфікса कृत् -तृ утворюються іменники агента (назви того, хто виконує дію कर्तृ) майже до кожного кореня або каузативного основи.
 
-रक्षितृ m. "Beschützer" &lt;!-- TODO: Fallback translation --&gt;
+**Утворення:**
 
-बोधयितृ m. "Wecker" &lt;!-- TODO: Fallback translation --&gt;
+*   **корінь у ступені піднесення + -tṛ**
+
+або
+
+*   **корінь у ступені піднесення / каузативна основа + i + tṛ**
+:::
+
+Приклади:
+
+::: indent
+**कर्तृ** ч.р. "той, хто діє"
+
+**जेतृ** ч.р. "переможець"
+
+**धातृ** ч.р. "творець"
+
+**रक्षितृ** ч.р. "захисник"
+
+**बोधयितृ** ч.р. "той, хто будить"
 :::
 
 ::: media
-Abb.: अयं बोधयिता   &lt;!-- TODO: Fallback translation --&gt;
+![lekt4201.jpg](/images/lekt4201.jpg)
+Рис.: अयं बोधयिता
+(Джерело зображення: [Деталі](/uk/licenses#lekt4201))
 :::
 
 ::: grammar-box
-Selten vorkommende Neutra auf -तृ haben eine teilweise eigene Deklination (s. Kielhorn, Grammatik § 148. &lt;!-- TODO: Fallback translation --&gt;
+Рідкісні середнього роду іменники на -तृ мають частково власну систему відмінювання (див. Кільгорн, Граматика § 148).
 
-Das Femininum zu den Stämmen auf -तृ lautet auf -त्री (wie देवी) &lt;!-- TODO: Fallback translation --&gt;
+Жіночий рід до основ на -तृ утворюється за допомогою **-त्री** (як **देवी**).
 
-z.B. कर्त्री f. "Täterin" &lt;!-- TODO: Fallback translation --&gt;
+напр. **कर्त्री** ж.р. "та, хто діє"
 :::
 
-### 42.1.3. Stämme mit Hochstufe im starken Основа
+### 42.1.3. Роди з піднесеним ступенем у сильній основі
 
 ::: grammar-box
-Dazu gehören folgende Verwandtschaftsbezeichnungen: <!-- TODO: Fallback translation -->
+До них належать такі назви родичів:
 
-*   **पितृ** m. "Vater" <!-- TODO: Fallback translation -->
-*   **मातृ** f. "Mutter" <!-- TODO: Fallback translation -->
-*   **दुहितृ** f. "Tochter" <!-- TODO: Fallback translation -->
-*   **भ्रातृ** m. "Bruder" <!-- TODO: Fallback translation -->
-*   **देवृ** m. "Gattenbruder (Schwager der Frau)" <!-- TODO: Fallback translation -->
-*   **यातृ** f. "Frau des Gattenbruders" <!-- TODO: Fallback translation -->
-*   **ननान्दृ** f. "Schwester des Gatten (Schwägerin der Frau)" <!-- TODO: Fallback translation -->
+*   **पितृ** m. "батько"
+*   **मातृ** f. "мати"
+*   **दुहितृ** f. "дочка"
+*   **भ्रातृ** m. "брат"
+*   **देवृ** m. "чоловік сестри чоловіка (швагер дружини)"
+*   **यातृ** f. "дружина сестри чоловіка"
+*   **ननान्दृ** f. "сестра чоловіка (шваґерка дружини)"
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**Утворення:**
 
-*   **starker Основа: -ar** <!-- TODO: Fallback translation -->
-*   **schwacher Основа** <!-- TODO: Fallback translation -->
-    *   **vor Vokal: -r** <!-- TODO: Fallback translation -->
-    *   **vor Konsonant: -ṛ** <!-- TODO: Fallback translation -->
+*   **сильна основа: -ar**
+*   **слабка основа**
+    *   **перед голосним: -r**
+    *   **перед приголосним: -ṛ**
 :::
 
-Beispiele: <!-- TODO: Fallback translation -->
+Приклади:
 
 ::: indent
-**पितृ** m. "Vater" <!-- TODO: Fallback translation -->
+**पितृ** m. "батько"
 
-**मातृ** f. "Mutter" <!-- TODO: Fallback translation -->
+**मातृ** f. "мати"
 :::
 
 ::: grammar-box
 
-| | पुंस् (एकवचनम्) | पुंस् (बहुवचनम्) | स्त्री (एकवचनम्) | स्त्री (बहुवचनम्) | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| प्रथमा | पिता | ***पितरस्*** | माता | ***मातरस्*** | <!-- TODO: Fallback translation -->
-| द्वितीया | ***पितरम्*** | पितॄन् | ***मातरम्*** | मातॄस् | <!-- TODO: Fallback translation -->
-| Rest wie दातृ | ← | ← | ← | ← | <!-- TODO: Fallback translation -->
+| | पुंस् (एकवचनम्) | पुंस् (बहुवचनम्) | स्त्री (एकवचनम्) | स्त्री (बहुवचनम्) |
+| :--- | :--- | :--- | :--- | :--- |
+| प्रथमा | पिता | ***पितरस्*** | माता | ***मातरस्*** |
+| द्वितीया | ***पितरम्*** | पितॄन् | ***मातरम्*** | मातॄस् |
+| Решта як दातृ | ← | ← | ← | ← |
 
 :::
 
-### 42.1.4. Stämme auf -ṛ in Komposita
+### 42.1.4. Роди на -ṛ у складних іменників
 
 ::: grammar-box
-Als Vorderglied eines Kompositums stehen Nomina auf -ṛ selbstverständlich in ihrem schwachen Stamm, d.h. &lt;!-- TODO: Fallback translation --&gt;
+Виступаючи першою частиною складного іменника, іменники на -ṛ, звісно, вживаються у своїй слабкій основі, тобто:
 
-*   vor Konsonant: -ṛ &lt;!-- TODO: Fallback translation --&gt;
-*   vor Vokal: -r &lt;!-- TODO: Fallback translation --&gt;
+*   **перед приголосними: -ṛ**
+*   **перед голосними: -r**
 :::
 
 ## 42.2. Словник
 
-प्रकृति f.: (zu कृ + प्र) Grundform, natürlicher Zustand, Natur; Urmaterie, Urstoff &lt;!-- TODO: Fallback translation --&gt;
+प्रकृति ж.р.: (від कृ + प्र) основна форма, природний стан, природа; первинна матерія, першосутність
 
-अर्जुन m. Eigenname: Arjuna, einer der fünf Söhne des पण्डु. Held im महाभारत (siehe Basham, Wonder S. 409 - 414) &lt;!-- TODO: Fallback translation --&gt;
+अर्जुन ч.р. Власна назва: Арджуна, один із п’яти синів पण्डु. Герой у महाभारत (див. Башам, Диво, с. 409 - 414)
 
-स्था + अव 1Ā अवतिष्ठते : abstehen von, Abstand nehmen von, sich fernhalten, verbleiben, dastehen &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-PPP अवस्थित 3: dastehend, befindlich &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-पुरा Adv.: einst, früher &lt;!-- TODO: Fallback translation --&gt;
-
-अनेक 3: viele (nicht einige) &lt;!-- TODO: Fallback translation --&gt;
-
-कुमार m.: Prinz &lt;!-- TODO: Fallback translation --&gt;
-
-दूत m.: Bote, Gesandter &lt;!-- TODO: Fallback translation --&gt;
-
-इष् (1,4,9) Kaus. इषयति : senden &lt;!-- TODO: Fallback translation --&gt;
-
-सकाश m.: Anwesenheit, Gegenwart &lt;!-- TODO: Fallback translation --&gt;
-
-शर m.: Pfeil-Schaft, Pfeil &lt;!-- TODO: Fallback translation --&gt;
-
-बाण m.: Pfeil, Ziel &lt;!-- TODO: Fallback translation --&gt;
-
-ज्ञा + प्रति 9U प्रतिजानाति : billigen, versprechen; Ā: antworten, bestätigen, behaupten, erkennen &lt;!-- TODO: Fallback translation --&gt;
-
-चल् 1P चलति : in Bewegung geraten &lt;!-- TODO: Fallback translation --&gt;
+स्था + अव 1А अवतिष्ठते : утримуватися, відмовлятися, триматися подалі, залишатися, стояти
 
 ::: indent
-Kaus. चलयति । चालयति   &lt;!-- TODO: Fallback translation --&gt;
+ДМЧ अवस्थित 3: що стоїть, що перебуває
 :::
 
-अधिपति m. = राजन् &lt;!-- TODO: Fallback translation --&gt;
+पुरा присл.: колись, раніше
 
-आटोप m.: Eitelkeit, Stolz &lt;!-- TODO: Fallback translation --&gt;
+अनेक 3: багато (не кілька)
 
-चिन्तापर 3: gedankenversunken &lt;!-- TODO: Fallback translation --&gt;
+कुमार ч.р.: принц
 
-अन्तरे Adv.: inzwischen &lt;!-- TODO: Fallback translation --&gt;
+दूत ч.р.: посланець, посланник
 
-लीला f.:  Scherz, Spiel &lt;!-- TODO: Fallback translation --&gt;
+इष् (1,4,9) Кав. ***इष***यति : посилати
 
-यावत् Adv.:  wie lange, während &lt;!-- TODO: Fallback translation --&gt;
+सकाश ч.р.: присутність, наявність
 
-तावत् Adv.: so lange &lt;!-- TODO: Fallback translation --&gt;
+शर ч.р.: стриж стріли, стріла
 
-द्विधा । द्वेधा Adv.: zweifach, in zwei Teilen &lt;!-- TODO: Fallback translation --&gt;
+बाण ч.р.: стріла, ціль
 
-शंस् 1P शंसति : loben, gebieten &lt;!-- TODO: Fallback translation --&gt;
+ज्ञा + प्रति 9У प्रतिजानाति : схвалювати, обіцяти; А: відповідати, підтверджувати, стверджувати, визнавати
+
+चल् 1П चलति : приходити в рух
 
 ::: indent
-Absol. शसित्वा । शस्त्वा   &lt;!-- TODO: Fallback translation --&gt;
+Майб. चलिष्यति  
+Док. Гл चचाल, चेलुर्  
+Страд. चल्यते  
+Кав. चलयति । चालयति  
+ДМЧ चलित  
+Абсол. -चल्य  
+Інф. चलितुम्
 :::
 
-हृदय n.: Herz &lt;!-- TODO: Fallback translation --&gt;
+अधिपति ч.р. = राजन्
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+आटोप ч.р.: марність, гордість
+
+चिन्तापर 3: задуманий, поглинений думками
+
+अन्तरे присл.: тим часом
+
+लीला ж.р.:  гра, розвага
+
+यावत् присл.:  скільки часу, протягом
+
+तावत् присл.: стільки часу
+
+द्विधा । द्वेधा присл.: подвійний, у двох частинах
+
+शंस् 1П शंसति : хвалити, наказувати
+
+::: indent
+Майб. शंसिष्यति  
+Док. І शशंस  
+Страд. शस्यते  
+Кав. शंसयति  
+ДМЧ शस्त  
+Абсол. शसित्वा । शस्त्वा  
+Інф. शंसितुम्
+:::
+
+हृदय с.р.: серце
+
+### 42.2.1. Деякі позначення спорідненості
 
 ::: media
-Abb.: माता, पिता, पुत्रकः  
-The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi.   
-\[Bildquelle: Wen-Yan King. -- [http://www.flickr.com/photos/medapt/430287982/](http://www.flickr.com/photos/medapt/430287982/). -- Zugriff am 2009-01-04. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]  &lt;!-- TODO: Fallback translation --&gt;
+![lekt4202.jpg](/images/lekt4202.jpg)
+Мал.: माता, पिता, पुत्रकः
+(Джерело зображення: [Деталі](/uk/licenses#lekt4202))
 ::: 
 
-भर्तृ m. (zu भृ "tragen, erhalten"): Erhalter, Ernährer, Gatte &lt;!-- TODO: Fallback translation --&gt;
+भर्तृ чол. роду (від भृ "нести, зберігати"): Той, хто зберігає, годувальник, чоловік
 
-भार्या f.,  जाया f.  पत्नी f.: Gattin (भार्या = Gerundiv zu भृ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte) &lt;!-- TODO: Fallback translation --&gt;
+भार्या жін. роду, जाया жін. роду पत्नी жін. роду: Дружина (भार्या = дієприкметник минулого часу пасивного стану до भृ : Та, яку треба нести, Та, яку треба зберігати, Та, яка має право на утримання)
 
-पितृ m.: Vater &lt;!-- TODO: Fallback translation --&gt;
+पितृ чол. роду: Батько
 
-पितृ m. Plural: die verstorbenen männlichen Vorfahren, d.h. &lt;!-- TODO: Fallback translation --&gt;
+पितृ чол. роду, множина: померлі чоловічі предки, тобто
 
-1.  Vater, Großvater, Urgroßvater &lt;!-- TODO: Fallback translation --&gt;
-2.  die Ahnväter der Menschheit &lt;!-- TODO: Fallback translation --&gt;
+1.  Батько, дід, прадід
+2.  праотці людства
 
-Beiden werden Riten vollzogen, sog. श्राद्ध n. Täglich werden je drei männlichen  Vorfahren (väterlicherseits (und mütterlicherseits) Wasser und bei bestimmten Gelegenheiten Reisbällchen bzw. Mehlbällchen (पिण्ड m. "Bällchen") dargebracht. So sollen die Vorfahren Nahrung bekommen. Der Vollzug dieser Zeremonie ist mit ein Grund, warum man als Mann einen Sohn zeugen soll. Diejenigen, die durch diese पिण्ड-Gabe verbunden sind heißen सपिण्ड (denen पिण्ड gemeinsam ist). सपिण्ड umfasst sechs Generationen: drei Rückwärts (bis zum Urgroßvater) und drei vorwärts (bis zum Großenkel). &lt;!-- TODO: Fallback translation --&gt;
+Обом здійснюються ритуали, так звані श्राद्ध серед. роду. Щодня кожному з трьох чоловічих предків (з боку батька та з боку матері) приносять воду та за певних нагод кульки з рису або кульки з борошна (पिण्ड чол. роду "кульки"). Так предки мають отримувати їжу. Здійснення цієї церемонії є однією з причин, чому чоловік повинен зачати сина. Ті, хто пов'язані цією पिण्ड-дарунком, називаються सपिण्ड (яким спільним є पिण्ड). सपिण्ड охоплює шість поколінь: три назад (до прадіда) та три вперед (до правнука).
 
-तात m.: Papa &lt;!-- TODO: Fallback translation --&gt;
+तात чол. роду: Тато
 
-मातृ f.: Mutter &lt;!-- TODO: Fallback translation --&gt;
+मातृ жін. роду: Мати
 
-पुत्र m.:  Sohn &lt;!-- TODO: Fallback translation --&gt;
+पुत्र чол. роду: Син
 
-दुहितृ f. सुता f.: Tochter &lt;!-- TODO: Fallback translation --&gt;
+दुहितृ жін. роду सुता жін. роду: Дочка
 
-नप्तृ m.: Enkel &lt;!-- TODO: Fallback translation --&gt;
+नप्तृ чол. роду: Онук
 
-भ्रातृ m.: Bruder &lt;!-- TODO: Fallback translation --&gt;
+भ्रातृ чол. роду: Брат
 
-स्वसृ f., भगिनी f.: Schwester &lt;!-- TODO: Fallback translation --&gt;
+स्वसृ жін. роду, भगिनी жін. роду: Сестра
 
-देवृ m.: Bruder des Ehemanns (Schwager der Frau) &lt;!-- TODO: Fallback translation --&gt;
+देवृ чол. роду: Брат чоловіка (швагер дружини)
 
-यातृ m.: Gattin des Bruders des Ehemanns &lt;!-- TODO: Fallback translation --&gt;
+यातृ чол. роду: Дружина брата чоловіка
 
-ननान्दृ f.: Schwester des Mannes &lt;!-- TODO: Fallback translation --&gt;
+ननान्दृ жін. роду: Сестра чоловіка
 
-श्वसुर f.: Schwiegervater (in alter Zeit: nur der Frau) &lt;!-- TODO: Fallback translation --&gt;
+श्वसुर жін. роду: Тесть (у давні часи: тільки дружини)
 
-श्वस्रू f.: Schwiegermutter (Deklination folgt später) &lt;!-- TODO: Fallback translation --&gt;
+श्वस्रू жін. роду: Теща (відмінювання буде пізніше)
 
-मातुल m.: Mutterbruder (Onkel mütterlicherseits) &lt;!-- TODO: Fallback translation --&gt;
+मातुल чол. роду: Брат матері (дядько по материній лінії)
 
-मातुलानी f.: Gattin des Mutterbruders (Mutterbruderfrau) &lt;!-- TODO: Fallback translation --&gt;
+मातुलानी жін. роду: Дружина брата матері (дружина дядька по материній лінії)
 
-पितृव्य m.: Vaterbruder (Onkel väterlicherseits) &lt;!-- TODO: Fallback translation --&gt;
+पितृव्य чол. роду: Брат батька (дядько по батьковій лінії)
 
-पितामह m.: Großvater väterlicherseits &lt;!-- TODO: Fallback translation --&gt;
+पितामह чол. роду: Дід по батьковій лінії
 
-पितामही f.: Großmutter väterlicherseits &lt;!-- TODO: Fallback translation --&gt;
+पितामही жін. роду: Баба по батьковій лінії
 
-मातामह m.: Großvater mütterlicherseits &lt;!-- TODO: Fallback translation --&gt;
+मातामह чол. роду: Дід по материній лінії
 
-मातामही f.: Großmutter mütterlicherseits &lt;!-- TODO: Fallback translation --&gt;
+मातामही жін. роду: Баба по материній лінії
 
-## 42.3. Вправа
+## 42.3. Вправи
 
-Übersetzen Sie: &lt;!-- TODO: Fallback translation --&gt;
+Перекладіть:
 
 प्रकृत्यैव यः कर्माणि क्रियमाणानि पश्यति स आत्मानमकर्तरं पश्यति ॥१॥
 
 कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति ॥२॥
 
 ::: media
-Abb.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति  
-Tiruchchirappalli = தி௫ச்சிராப்பள்ளி, ca. 1825  
-\[Bildquelle: Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
+![lekt4203.jpg](/images/lekt4203.jpg)
+Мал.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
+(Джерело зображення: [Деталі](/uk/licenses#lekt4203))
 :::
 
 आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥
 
 ::: media
-Abb.: अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति । (रथ m. Wagen)  
-\[Bildquelle: Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
+![lekt4204.jpg](/images/lekt4204.jpg)
+Мал.: अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति ।
+(Джерело зображення: [Деталі](/uk/licenses#lekt4204))
 :::
 
 कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥
@@ -302,12 +324,12 @@ Abb.: अर्जुनो रथे सीदति । कृष्णो ऽ
 
 तां तस्य प्रतिज्ञां श्रुत्वा ***शतशो*** राजकुमाराः समाजग्मुः । परं नैको ऽपि तेषां तद्धनुश्चलयितुमपि शशाक । ***लङ्का***धिपती ***रावणो*** ऽपि साटोपं समेत्य सलज्जं प्रतिनिवृत्त इति ज्ञायते ॥
 
-सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे ***ऽयोध्या***धिपते***र्दशरथस्य*** पुत्रः श्री***रामः*** स***लक्ष्मणो*** ***विश्वामित्रेण*** तत्रानीयत । श्री***रामो*** महर्षेर्***विश्वामित्र***स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥
+सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे ***ऽयोध्या***धिपते***र्दशरथस्य*** पुत्रः श्री***रामः*** ***सलक्ष्मणो*** ***विश्वामित्रेण*** तत्रानीयत । श्री***रामो*** महर्षेर्***विश्वामित्र***स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥
 
 ::: media
-Abb.: धनुर्द्वेधा भग्नं बभूव  
-Bild von राजा रवि वर्मा (1848 - 1906)  
-\[Bildquelle: Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
+![lekt4208.jpg](/images/lekt4208.jpg)
+Рис.: धनुर्द्वेधा भग्नं बभूव
+(Джерело зображення: [Деталі](/uk/licenses#lekt4208))
 :::
 
 साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥
@@ -316,63 +338,63 @@ Bild von राजा रवि वर्मा (1848 - 1906)
 
 (संस्कृतप्रथमादर्शे)
 
-Erklärung der rot hervorgehobenen Ausdrücke: &lt;!-- TODO: Fallback translation --&gt;
+Пояснення ***червоним*** виділених виразів:
 
-सीता f. Eigenname: Tochter des Königs जनक von विदेह. Sie war aus der Erde herausgekommen, als der König einst den Acker pflügte, deshalb ihr Name: सीता f. "Ackerfurche" &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-Abb.: रामः, सीता, हनुमान्, लक्ष्मनः  
-17\. Jhdt.  
-\[Bildquelle. Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-मिथिला f. Eigenname: Hauptstadt von विदेह &lt;!-- TODO: Fallback translation --&gt;
+सीता ж. власна назва: дочка царя जनक з विदेह. Вона з’явилася з землі, коли цар одного разу орав поле, тому її ім’я: सीता ж. "орна борозна"
 
 ::: media
-Abb.: Lage von मिथिला und विदेह, अयोध्या und कोसल  
-\[Bildquelle: JIJITH NR / Wikipedia. GNU FDLicense\] &lt;!-- TODO: Fallback translation --&gt;
+![lekt4205.jpg](/images/lekt4205.jpg)
+Рис.: रामः, सीता, हनुमान्, लक्ष्मनः
+(Джерело зображення: [Деталі](/uk/licenses#lekt4205))
 :::
 
-जनक m. Eigenname: König von विदेह &lt;!-- TODO: Fallback translation --&gt;
-
-गुरुतर 3: Komparativ zu गुरु 3: schwerer, sehr schwer &lt;!-- TODO: Fallback translation --&gt;
-
-धनुस् Nom.Akk.sg.n. zu धनुस् n. "Bogen" &lt;!-- TODO: Fallback translation --&gt;
-
-शतशस् Adv.: zu hunderten &lt;!-- TODO: Fallback translation --&gt;
-
-लङ्का f. Eigennamen: wird mit dem heutigen Sri Lanka (ශ්‍රී ලංකාව / இலங்கை) identifiziert &lt;!-- TODO: Fallback translation --&gt;
-
-रावण m. Eigennamen; Herrscher von लङ्का, Herrscher der राक्षस. &lt;!-- TODO: Fallback translation --&gt;
+मिथिला ж. власна назва: столиця विदेह
 
 ::: media
-Abb.: रावणः  
-Yakṣagaṇa-Tanzmaske (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ)  
-\[Bildquelle: Manohara Upadhya / Wikipedia. GNU FDLicense\] &lt;!-- TODO: Fallback translation --&gt;
+![lekt4206.jpg](/images/lekt4206.jpg)
+Рис.: मिथिला, विदेहः, अयोध्या, कोसलः
+(Джерело зображення: [Деталі](/uk/licenses#lekt4206))
 :::
 
-अयोध्या f. Eigennamen: Hauptstadt von कोसल (siehe Karte oben!) &lt;!-- TODO: Fallback translation --&gt;
+जनक ч. власна назва: цар विदेह
 
-दशरथ m. Eigenname: König von कोसल &lt;!-- TODO: Fallback translation --&gt;
+गुरुतर 3: ступінь порівняння до गुरु 3: важчий, дуже важкий
 
-राम m. Eigenname: Sohn des दशरथ &lt;!-- TODO: Fallback translation --&gt;
+धनुस् наз./знах. однина серед. роду до धनुस् с. "лук"
 
-लक्ष्मन m. Eigenname: Sohn des दशरथ &lt;!-- TODO: Fallback translation --&gt;
+शतशस् прислівник: сотнями
 
-विश्वामित्र m. Eigenname: ऋषि, zog mir राम und लक्ष्मन aus, um Dämonen zu töten; dafür bekommen die beiden von ihm Zauberwaffen. &lt;!-- TODO: Fallback translation --&gt;
+लङ्का ж. власна назва: ототожнюється з сучасним Шрі-Ланкою (ශ්‍රී ලංකාව / இலங்கை)
 
-सीतारामयोस् Gen.Lok.Dual zu सीताराम &lt;!-- TODO: Fallback translation --&gt;
+रावण ч. власна назва; правитель लङ्का, правитель राक्षस.
+
+::: media
+![lekt4207.jpg](/images/lekt4207.jpg)
+Рис.: रावणः
+(Джерело зображення: [Деталі](/uk/licenses#lekt4207))
+:::
+
+अयोध्या ж. власна назва: столиця कोसल (див. карту вище!)
+
+दशरथ ч. власна назва: цар कोसल
+
+राम ч. власна назва: син दशरथ
+
+लक्ष्मन ч. власна назва: син दशरथ
+
+विश्वामित्र ч. власна назва: ऋषि, взяв до рук राम та लक्ष्मन, щоб вбивати демонів; за це обидва отримали від нього чарівну зброю.
+
+सीतारामयोस् род.-міс. подвійний число до सीताराम
 
 ::: deleteme-box
 
-### Джерела
+* **Рис. лект4201**: अयं बोधयिता. (Джерело зображення: Вікіпедія. Суспільне надбання)
+* **Рис. лект4202**: माता, पिता, पुत्रकः. Діван-і-Хас, або Зала приватних аудієнцій у Лал Кіла (Червоний форт) у Делі. (Джерело зображення: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Доступ 2009-01-04. -- Ліцензія Creative Commons (Attribution, Non-commercial, Share Alike))
+* **Рис. лект4203**: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति. Тіруччіраппаллі =  தி௫ச்சிராப்பள்ளி, бл. 1825. (Джерело зображення: Вікіпедія. Суспільне надбання)
+* **Рис. лект4204**: अर्जुनो रथे सीदті । कृष्णो ऽस्य रथवाहो ऽस्ति । (रथ ч. колісниця). (Джерело зображення: Вікіпедія. Суспільне надбання)
+* **Рис. лект4205**: रामः, सीता, हनुमान्, लक्ष्मनः. 17 ст. (Джерело зображення. Вікіпедія. Суспільне надбання)
+* **Рис. лект4206**: Розташування मिथिला та विदेह, अयोध्या та कोसल. (Джерело зображення: JIJITH NR / Вікіпедія. GNU FDLicense)
+* **Рис. лект4207**: रावणः. Маска танцю Яксаґана (ಯಕ್ಷಗಾನ), Карнатака (ಕರ್ನಾಟಕ). (Джерело зображення: Manohara Upadhya / Вікіпедія. GNU FDLicense)
+* **Рис. лект4208**: धनुर्द्वेधा भग्नं बभूव. Зображення राजा रवि वर्मा (1848 - 1906). (Джерело зображення: Вікіпедія. Суспільне надбання)
 
-* **Abb. lekt4201**: अयं बोधयिता. (Джерело зображення: Wikipedia. Public domain) <!-- TODO: Fallback translation -->
-* **Abb. lekt4202**: माता, पिता, पुत्रकः. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Джерело зображення: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)) <!-- TODO: Fallback translation -->
-* **Abb. lekt4203**: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Джерело зображення: Wikipedia. Public domain) <!-- TODO: Fallback translation -->
-* **Abb. lekt4204**: अर्जुनो रथे सीदti । कृष्णो ऽस्य रथवाहो ऽस्ति । (रथ m. Wagen). (Джерело зображення: Wikipedia. Public domain) <!-- TODO: Fallback translation -->
-* **Abb. lekt4205**: रामः, सीता, हनुमान्, लक्ष्मनः. 17. Jhdt. (Bildquelle. Wikipedia. Public domain) <!-- TODO: Fallback translation -->
-* **Abb. lekt4206**: Lage von मिथिला und विदेह, अयोध्या und कोसल. (Джерело зображення: JIJITH NR / Wikipedia. GNU FDLicense) <!-- TODO: Fallback translation -->
-* **Abb. lekt4207**: रावणः. Yakṣagaṇa-Tanzmaske (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Джерело зображення: Manohara Upadhya / Wikipedia. GNU FDLicense) <!-- TODO: Fallback translation -->
-* **Abb. lekt4208**: धनुर्द्वेधा भग्नं बभूव. Bild von राजा रवि वर्मा (1848 - 1906). (Джерело зображення: Wikipedia. Public domain) <!-- TODO: Fallback translation -->
 :::

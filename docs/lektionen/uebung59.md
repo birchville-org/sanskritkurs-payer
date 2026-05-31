@@ -212,6 +212,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 > अकृथास् - कृ Aor. 4/1  
 > अजिग्लपस् - ग्लै Kaus. Aor. 3
 
+:::: media
 ![](/images/uebung099.jpg)
 Abb.: रामस्य रावणेन युद्धः
 (Bildquelle: [Details](/licenses#uebung099))

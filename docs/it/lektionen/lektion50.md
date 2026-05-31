@@ -1,66 +1,71 @@
 ---
+title: Lezione 50
+subtitle: "Formazione dei sostantivi: comparazione regolare"
 lesson_id: 50
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 50
 
-## 50.1. Formazione dei nomi: grado regolare
+## 50.1. Formazione dei nomi: comparazione regolare
 
 ::: grammar-box
-**Il grado regolare in sanscrito si forma con i suffissi तद्धित**
-* **-तर (fem.: तरा) per il "comparativo"**
-* **तम (fem.: तमा) per il "superlativo"**
+**La comparazione regolare avviene nel sanscrito con i suffissi तद्धित**
+* **-तर (fem.: तरा) nel "comparativo"**
+* **तम (fem.: तमा) nel "superlativo"**
 
-**Questi suffissi vengono aggiunti al tema maschile degli aggettivi. Nei nomi con alternanza vocale (apofonia), vengono aggiunti al tema debole, che ha la stessa forma del tema prima della desinenza -su del Locativo (पञ्चमी) Plurale.**
+**Questi suffissi vengono aggiunti al tema maschile degli aggettivi. Nei nomi con ablaut tematico vengono aggiunti al tema debole, che ha la forma come prima della desinenza -su del locativo (पञ्चमी) plurale.**
 :::
 
 ::: media
 ![](/images/lekt5007.jpg)
 Fig.: लोकस्योत्तमो गिरिः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5007))
+सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Monte Everest
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5007))
 :::
 
 :::: grammar-box
 **Significato:**
 
-**Il "comparativo" significa, quando non è espresso un termine di paragone: "abbastanza, molto, troppo":**
+**Il "comparativo" significa, se non viene espresso un oggetto di confronto: "abbastanza, molto, troppo":**
 
 ::: indent
-Esempio: सुचितर 3 "abbastanza puro", "molto puro", "troppo puro"
+ad es. सुचितर 3 "abbastanza puro", "molto puro", "troppo puro"
 :::
 
-**Quando è espresso un termine di paragone, questo si trova in Ablativo (पञ्चमी). Comparativo + Ablativo corrisponde al grado comparativo con "di" in italiano.**
+**Se viene espresso un oggetto di confronto, questo si trova nell'ablativo (पञ्चमी). Comparativo + ablativo corrisponde alla comparazione con "di" in tedesco.**
 
 ::: indent
-Esempio: देवदत्ताद्रामो धीमत्तरः = letteralmente: "da Devadatta visto, Rāma è più saggio" = "Rāma è più saggio di Devadatta"
+ad es. देवदत्ताद्रामो धीमत्तरः = lett.: "da Devadatta visto Rāma è più saggio" = "Rāma è più saggio di Devadatta"
 :::
 
-**Il "superlativo" significa, quando non è espresso un termine di paragone: "estremamente, molto":**
+**Il "superlativo" significa, se non viene espresso un oggetto di confronto: "estremamente, molto":**
 
 ::: indent
-Esempio: सत्तम 3 (da सन्त्) "estremamente buono, molto buono"
+ad es. सत्तम 3 (a सन्त्) "estremamente buono, molto buono"
 :::
 
-**Quando è espresso un termine di paragone, questo si trova nel Genitivo (षष्ठी) ("di", "tra") e il superlativo corrisponde al superlativo italiano (grado assoluto massimo):**
+**Se viene espresso un oggetto di confronto, questo si trova nel genitivo (षष्ठी) ("di", "tra") e il superlativo corrisponde al superlativo tedesco (superlativo assoluto):**
 
 ::: indent
-Esempio: द्विजानां सत्तमः = "il migliore dei due volte nati"
+ad es. द्विजानां सत्तमः = "il migliore dei due volte nati"
 :::
 
-**I suffissi -तर e -तम possono essere aggiunti non solo agli aggettivi, ma anche ai sostantivi, indeclinabili e persino alle forme verbali:**
+**I suffissi -तर e -तम possono non solo comparire con aggettivi, ma anche con sostantivi, indeclinabili e persino forme verbali:**
 
 Esempi:
 
 ::: indent
-गजतम m. "l'elefante migliore" (गज) (anche titolo del Buddha)
+गजतम m. "il migliore elefante" (गज) (anche designazione del Buddha)
 
-गोतम m. "il bue più grande" (गो) oppure: "il più ricco di bovini"
+गोतम m. "il più grande bue" (गो) o: "il più ricco di bovini"
 
-उद् Indecl. "su", "sopra" » उत्तर 3 "più alto" » उत्तम 3 "il più alto"
+उद् Indec. "sopra", "in alto" » उत्तर 3 "più alto" » उत्तम 3 "il più alto"
 :::
 
-**Quando questi suffissi si aggiungono a una forma verbale, appaiono sempre nella forma avverbiale:**
+**Quando questi suffissi compaiono con una forma verbale, appaiono sempre nella forma avverbiale:**
 
 * **-तराम्**
 * **-तमाम्**
@@ -70,42 +75,44 @@ Esempi:
 ::: indent
 पचतितराम् "egli/ella/esso cuoce meglio"
 
-पचतितमाम् "egli/ella/esso cuoce meglio di tutti"
+पचतितमाम् "egli/ella/esso cuoce al meglio"
 :::
 
-**Questa forma hanno anche questi suffissi quando si aggiungono a un indeclinabile e la parola derivata è usata in senso avverbiale:**
+**Questa forma hanno questi suffissi anche, quando compaiono con un indeclinabile e la parola derivata viene usata avverbialemente:**
 
 ::: indent
-Esempio: सुतराम् (da सु) "in modo migliore" (avverbiale)
+ad es. सुतराम् (a सु) "in modo migliore" (avverbiale)
 :::
 ::::
 
 ::: media
 ![](/images/lekt5006.jpg)
 Fig.: का पचतितमाम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5006))
+Lisu = 傈僳族, अरुणाचल प्रदेश
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5006))
 :::
 
-## 50.2. Elenco lessicale
+## 50.2. Elenco di parole
 
 ध्रुव 3: fisso, immutabile
 
 निषेक m.: aspersione, fecondazione, liquido, eiaculato, cerimonia di concezione
 
-पण्डित 3: saggio, erudito
+पण्डित 3: sagace, saggio, dotto
 
-मन् + अव 4Ā अवमन्यते: disprezzare, trascurare
+मन् + अव 4Ā अवमन्यते : disprezzare, trascurare
 
-मन्त्रिन् 3: consultivo; m.: consigliere, ministro
+मन्त्रिन् 3: che consiglia; m.: consigliere, consigliere comunale, ministro
 
 ::: media
 ![](/images/lekt5001.jpg)
 Fig.: मन्त्री
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5001))
+Kapil Sibal (1948 -), ministro federale nel Ministero della Scienza e della Tecnologia e nel Ministero delle Scienze della Terra (dal 2006)
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5001))
 :::
 रहस् n.: mistero, solitudine
 
-रिष् 1P रिषति 4P रिष्यति: essere danneggiato, fallire, essere leso
+रिष् 1P रिषति 4P रिष्यति : essere danneggiato, fallire, rovinare
 
 ::: indent
 Perf. II रिरेष, रिरिषुर्
@@ -115,10 +122,10 @@ Kaus. रेषयति
 PPP रिष्ट
 :::
 
-**लुप् 6U *लुम्प*ति**: rompere, distruggere
+**लुप् 6U *लुम्प*ति** : rompere, distruggere
 
 ::: indent
-Perf. II लुलोप, लुलुपे
+Perf.  II लुलोप, लुलुपे
 Fut. लोप्स्यति
 Pass. लुप्यते
 Kaus. लोपयति
@@ -127,9 +134,9 @@ Inf. लोप्तुम्
 Gerundiv लुप्य । लोप्य
 :::
 
-विधि m.: anche: destino (da विधा)
+विधि m.: anche: destino (a विधा)
 
-वृष् 1P वर्षति: piovere (di solito con un कर्तृ -- un dio o una nuvola)
+वृष् 1P वर्षति : piovere (di solito con un कर्तृ -- un dio o una nuvola)
 
 ::: indent
 Perf. II ववर्ष, ववृषुर्
@@ -138,27 +145,28 @@ Pass. वृष्यते
 Kaus. वर्षयति
 PPP वृष्ट
 Inf. वर्षितुम्
-Absol. वर्षित्वा । वृष्ट्वा
-Absol.-वृष्य
+Assol. वर्षित्वा । वृष्ट्वा
+Assol.-वृष्य
 :::
 
 ::: media
 ![](/images/lekt5002.jpg)
 Fig.: महामेघो वर्षिष्यति
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5002))
+Arrivo del monsone, Bangalore  ಬೆಂಗಳೂರು
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5002))
 :::
-संयक् Avv.: correttamente, veritiero, nel modo dovuto; assolutamente, completamente
+संयक् Avv.: correttamente, veritiero, nel modo dovuto; del tutto, completamente
 
-आदित्य m.: Sole; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya): una specifica classe divina
+आदित्य m.: Sole; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : una certa classe di dèi
 
 ::: media
 ![](/images/lekt5005.jpg)
 Fig.: आदित्यः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5005))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5005))
 :::
-सर्व 3: ogni, tutti
+सर्व 3: ciascuno, tutti
 
-Declinazione come यद् (eccezione: Nom.Akk.sg.Neutrum)
+Declinazione come यद् (eccezione: Nom.Akk.sg.Neutro)
 
 ::: grammar-box
 | | Singolare[[br]]एकवचनम् || || Plurale[[br]]बहुवचनम् || ||
@@ -173,40 +181,41 @@ Declinazione come यद् (eccezione: Nom.Akk.sg.Neutrum)
 | **7. Locativo[[br]]७. सप्तमी** | सर्वस्मिन् || सर्वस्याम् | सर्वेषु || सर्वासु |
 :::
 
-वै: particella che enfatizza la parola precedente: davvero, veritiero, ma
+वै : particella che enfatizza la parola precedente: davvero, certamente, ma
 
-इह Avv.: qui, qui sulla terra, qui; ora. Prima dei sostantivi in Locativo (षष्ठी) equivalente a अस्मिन्, अस्याम्
+इह Avv.: qui, qui sulla terra, qui; ora. Prima dei sostantivi al Locativo (षष्ठी) equivalente a अस्मिन्, अस्याम्
 
-कल्प m: statuto, usanza, rituale; [Periodo mondiale](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (da कॢप्)
+कल्प m: ordinanza, usanza, rituale; [Epoca mondiale](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (a कॢप्)
 
-कल्याण 3 (f.: कल्याणी): bello
+कल्याण 3 (f.: कल्याणी) :bello
 
 ::: media
 ![](/images/lekt5003.jpg)
 Fig.: कल्याणी
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5003))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5003))
 :::
-कु-: come prefisso di composti: cattivo
+कु- : come elemento iniziale di composti: cattivo
 
 ::: media
 ![](/images/lekt5004.jpg)
 Fig.: कुनगरम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5004))
+धारावी, मुंबई
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5004))
 :::
-चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे: vedere
+चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : vedere
 
 ::: indent
-Perf. चचक्षे  
-non usato negli altri tempi  
+Perf. चचक्षे
+non usato negli altri tempi
 :::
 
-चक्ष् + प्र 2Ā प्रचष्टे : raccontare, considerare, nominare
+चक्ष् + प्र 2Ā प्रचष्टे : raccontare, considerare, chiamare
 
 देश m.: luogo, posto, paese, regione
 
 ## 50.3. Esercizio di traduzione
 
-A) A ripasso della declinazione: il seguente verso contiene tutte le forme declinative al singolare di गुरु m.:
+A) A ripasso della declinazione: il seguente verso contiene tutte le forme declinate al singolare per गुरु m.:
 
 ::: indent
 गुरुरेव गतिर्गुरुमेव भजे
@@ -218,9 +227,9 @@ A) A ripasso della declinazione: il seguente verso contiene tutte le forme decli
 ::: media
 ![](/images/lekt5008.jpg)
 Fig.: गुरुमेव भजे
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5008))
+Ganeshpuri, a 80 km da Mumbai (मुंबई)
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5008))
 :::
-
 B) Tradurre:
 
 मनुस्मृति ४, १७८
@@ -270,10 +279,10 @@ B) Tradurre:
 ***द्रष्टृदृश्ययोः*** संयोगो हेयहेतुः ॥७॥
 
 Spiegazione:
-द्रष्टृदृश्ययोः : Gen.Loc.m.n.f.Dual (Dualdvandva)
+द्रष्टृदृश्ययोः : Gen.Loc.m.n.Dual (Dualdvandva)
 :::
 
-कौटिलीयार्थशास्त्र १, १५: Suggerimenti per i consiglieri del Re
+कौटिलीयार्थशास्त्र १, १५: Sugli consiglieri del Re
 
 ::: indent
 न किंचिदवमन्येत
@@ -306,22 +315,20 @@ Spiegazioni:
 
 ::: deleteme-box
 
-### Fonti
+**lekt5007:** Fig.: सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Monte Everest [Fonte dell'immagine: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuzione)]
 
-**lekt5007:** Fig.: सगरमाथा = ཇོ་མོ་གླང་མ = 珠穆朗玛峰 = Monte Everest [Fonte dell'immagine: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuzione)]
+**lekt5006:** Lisu = 傈僳族, अरुणाचल प्रदेश [Fonte dell'immagine: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
 
-**lekt5006:** Lisu = 傈僳族, अरुणचल प्रदेश [Fonte dell'immagine: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
+**lekt5001:** Kapil Sibal (1948 -), ministro federale nel Ministero della Scienza e della Tecnologia e nel Ministero delle Scienze della Terra (dal 2006) [Fonte dell'immagine: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribuzione, condividi allo stesso modo)]
 
-**lekt5001:** Kapil Sibal (1948 -), Ministro federale presso il Ministero della Scienza e della Tecnologia e il Ministero delle Scienze della Terra (dal 2006) [Fonte dell'immagine: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribuzione, condividi allo stesso modo)]
+**lekt5002:** Arrivo del monsone, Bangalore  ಬೆಂಗಳೂರು [Fonte dell'immagine: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
 
-**lekt5002:** Arrivo del monsone, Bangalore  बेंगळूरू [Fonte dell'immagine: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
+**lekt5005:** [Fonte dell'immagine: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribuzione, share alike)]
 
-**lekt5005:** [Fonte dell'immagine: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribuzione, condividi allo stesso modo)]
-
-**lekt5003:** [Fonte dell'immagine: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
+**lekt5003:** [Fonte dell'immagine: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, nessuna utilizzazione commerciale, nessuna opera derivata)]
 
 **lekt5004:** धारावी, मुंबई [Fonte dell'immagine: Kounosu / Wikipedia. Licenza GNU FDL]
 
-**lekt5008:** Ganeshpuri, a 80 km da Mumbai (मुंबई) [Fonte dell'immagine: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Accesso il 2009-01-13. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, condividi allo stesso modo)]
+**lekt5008:** Ganeshpuri, a 80 km da Mumbai (मुंबई) [Fonte dell'immagine: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Accesso il 2009-01-13. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, nessuna utilizzazione commerciale, share alike)]
 
 :::

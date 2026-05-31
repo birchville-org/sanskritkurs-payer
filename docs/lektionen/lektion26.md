@@ -1,6 +1,10 @@
 ---
+title: Lektion 26
+subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
 lesson_id: 26
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 26
@@ -8,13 +12,16 @@ last_reconstructed: 2026-05-21
 ## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
 
 ::: grammar-box
-**-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — außer **a, ā** — unmittelbar oder nur durch **Anusvāra** oder **Visarga** getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt.
+**-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — außer **a, ā** — unmittelbar oder nur durch **अनुस्वार** oder **विसर्ग** getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt.
 
-Diesem Sandhi folgt auch **dus-** vor tonlosen Gutturalen und Labialen in Komposita.
+Diesem Sandhi folgt auch **दुस्-** vor tonlosen Gutturalen und Labialen in Komposita.
+:::
 
 *Beispiele:*
-- **teṣām** (aus: *te-sām*)
-- aber: **tāsām** (*tā-sām*)
+::: indent
+**तेषाम्** (aus: *te-sām*)
+
+aber: **तासाम्** (*tā-sām*)
 :::
 
 
@@ -32,22 +39,26 @@ Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die 
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
+
+Beispiele siehe unten
 :::
 
 
 ## 26.4. Grassmannsches Hauchdissimilationsgesetz
 
-::: grammar-box
+:::: grammar-box
 **Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:**
 
 Beispiel:
 
-> \*dhu(gh) » du(g)h
+::: indent
+\*dhu(gh) » du(g)h
+:::
 
 **Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.**
 
 Beispiele: siehe unten Futur von  दुह् und  बुध्
-:::
+::::
 
 ::: media
 ![](/images/lekt2601.jpg)
@@ -93,26 +104,32 @@ Abb.: व्रतं करिष्यन्देवगृहं गच्छ
 
 ## 26.7. Bildung des einfachen Futurs (ऌत्, भविष्यन्ती  f.)
 
-::: grammar-box
+:::: grammar-box
 **Einfaches Futur:**
 
-> **Futursstamm + Primärendung**
+::: indent
+**Futursstamm + Primärendung**
+:::
+::::
 
----
-
+:::: grammar-box
 **Futurstamm:**
 
-> **(meist) hochstufige Wurzel + -sya**  
-> **oder**  
-> **(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)**
+::: indent
+**(meist) hochstufige Wurzel + -sya**  
+**oder**  
+**(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)**
+:::
 
 **Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!**  
 **Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv überein.**  
 **Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.**  
 **Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:**
 
-> कृ :  करिष्यन्त्, करिष्यन्ती / करिष्यती
+::: indent
+कृ :  करिष्यन्त्, करिष्यन्ती / करिष्यती
 :::
+::::
 
 Beispiele:
 

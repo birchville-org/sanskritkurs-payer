@@ -1,6 +1,10 @@
 ---
+title: Lektion 24
+subtitle: "Der Dativ (चतुर्थी = \"vierte Kasusendung\")"
 lesson_id: 24
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 24
@@ -58,6 +62,7 @@ Beispiel:
 ::: media
 ![](/images/lekt2401.jpg)
 Abb.: यज्ञायान्नम्
+'Annakut' [अन्नकूट = गोवर्धन पूजा] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
 (Bildquelle: [Details](/licenses#lekt2401))
 :::
 
@@ -74,6 +79,7 @@ Beispiel:
 ::: media
 ![](/images/lekt2402.jpg)
 Abb.: बाला बालाय रक्षबन्धनं ददाति
+Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
 (Bildquelle: [Details](/licenses#lekt2402))
 :::
 
@@ -92,6 +98,7 @@ Beispiele:
 ::: media
 ![](/images/lekt2403.jpg)
 Abb.: अलं योधो योधाय
+"Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
 (Bildquelle: [Details](/licenses#lekt2403))
 :::
 
@@ -103,19 +110,19 @@ Weitere Verwendungen des Dativ später.
 **Die regelmäßigen Endungen des Dativ sind:**
 
 * **Singular: -e ; vokalisch endende Femininstämme: -ai**
-* **Plural: Dativ und Ablativ (पञ्चमी): -bhyas**
+* **Plural: Dativ und Ablativ पञ्चमी: -bhyas**
 :::
 
 ### 24.2.1. Konsonantische Stämme
 
 :::: grammar-box
 
-| | Dativ Singular[[br]]चतुर्थी एकवचन | Dativ Plural[[br]]चतुर्थी बहुवचन |
+| | Dativ Singular | Dativ Plural |
 | :--- | :--- | :--- |
-| **yajant**[[br]]यजन्त् | **yajate**[[br]]यजते[[br]](yaja-t-e) | **yajadbhyas**[[br]]यजद्भ्यस्[[br]](aus yaja-t-bhyas) |
-| **mahānt**[[br]]महान्त् | **mahate**[[br]]महते | **mahadbhyas**[[br]]महद्भ्यस् |
-| **paśumant**[[br]]पशुमन्त् | **paśumate**[[br]]पशुमते | **paśumadbhyas**[[br]]पशुमद्भ्यस् |
-| **guṇavant**[[br]]गुणवन्त् | **guṇavate**[[br]]गुणवते | **guṇavadbhyas**[[br]]गुणवद्भ्यस् |
+| यजन्त् | **यजते**[[br]]yaja-t-e | **यजद्भ्यस्**[[br]]aus yaja-t-bhyas |
+| महान्त् | **महते** | **महद्भ्यस्** |
+| पशुमन्त् | **पशुमते** | **पशुमद्भ्यस्** |
+| गुणवन्त् | **गुणवते** | **गुणवद्भ्यस्** |
 
 ::::
 
@@ -123,10 +130,10 @@ Weitere Verwendungen des Dativ später.
 
 :::: grammar-box
 
-| | Maskulinum / Neutrum[[br]]पुंस् / नपुंसक | Femininum[[br]]स्त्री |
+| | Maskulinum / Neutrum | Femininum |
 | :--- | :--- | :--- |
-| **Dativ Singular**[[br]]एकवचन | **kasmai**[[br]]कस्मै | **kasyai**[[br]]कस्यै |
-| **Dativ Plural**[[br]]बहुवचन | **kebhyas**[[br]]केभ्यस् | **kābhyas**[[br]]काभ्यस् |
+| **Dativ Singular** | **कस्मै** | **कस्यै** |
+| **Dativ Plural** | **केभ्यस्** | **काभ्यस्** |
 
 ::::
 
@@ -134,12 +141,12 @@ Weitere Verwendungen des Dativ später.
 
 :::: grammar-box
 
-| | | **tad**[[br]]तद् | **etad**[[br]]एतद् | **idam**[[br]]इदम् |
+| | | तद् | एतद् | इदम् |
 | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum[[br]]/ Neutrum** | **Dat. sg.** | **tasmai**[[br]]तस्मै | **etasmai**[[br]]एतस्मै | **asmai**[[br]]अस्मै |
-| | **Dat. pl.** | **tebhyas**[[br]]तेभ्यस् | **etebhyas**[[br]]एतेभ्यस् | **ebhyas**[[br]]एभ्यस् |
-| **Femininum** | **Dat. sg.** | **tasyai**[[br]]तस्यै | **etasyai**[[br]]एतस्यै | **asyai**[[br]]अस्यै |
-| | **Dat. pl.** | **tābhyas**[[br]]ताभ्यस् | **etābhyas**[[br]]एताभ्यस् | **ābhyas**[[br]]आभ्यस् |
+| **Maskulinum / Neutrum** | **Dat. sg.** | **तस्मै** | **एतस्मै** | **अस्मै** |
+| | **Dat. pl.** | **तेभ्यस्** | **एतेभ्यस्** | **एभ्यस्** |
+| **Femininum** | **Dat. sg.** | **तस्यै** | **एतस्यै** | **अस्यै** |
+| | **Dat. pl.** | **ताभ्यस्** | **एताभ्यस्** | **आभ्यस्** |
 
 ::::
 
@@ -148,32 +155,32 @@ Weitere Verwendungen des Dativ später.
 ::: grammar-box
 **Vokalische Stämme**
 
-* **Maskulina / Neutra auf -a: deva (देव)**
-  * **Dat. sg. devāya (देवाय)**
-  * **Dat. pl. devebhyas (देवेभ्यस्)**
-* **Maskulina auf -i: kavi (कवि)**
-  * **Dat. sg. kavaye (कवये)**
-  * **Dat. pl. kavibhyas (कविभ्यस्)**
-* **Maskulina auf -u: paśu (पशु)**
-  * **Dat. sg. paśave (पशवे)**
-  * **Dat. pl. paśubhyas (पशुभ्यस्)**
-* **Feminina auf -ā: devatā (देवता)**
-  * **Dat. sg. devatāyai (देवतायै)**
-  * **Dat. pl. devatābhyas (देवताभ्यस्)**
-* **Feminina auf -ī: devī (देवी)**
-  * **Dat. sg. devyai (देव्यै)**
-  * **Dat. pl. devībhyas (देवीभ्यस्)**
-* **Feminina auf -i: śruti (श्रुति)**
-  * **Dat. sg. śrutaye (श्रुतये) oder śrutyai (श्रुत्यै)**
-  * **Dat. pl. śrutibhyas (श्रुतिभ्यस्)**
-* **Feminina auf -u: dhenu (धेनु)**
-  * **Dat. sg. dhenave (धेनवे) oder dhenvai (धेन्वै)**
-  * **Dat. pl. dhenubhyas (धेनुभ्यस्)**
+* **Maskulina / Neutra auf -a:** देव
+  * Dat. sg. **देवाय**
+  * Dat. pl. **देवेभ्यस्**
+* **Maskulina auf -i:** कवि
+  * Dat. sg. **कवये**
+  * Dat. pl. **कविभ्यस्**
+* **Maskulina auf -u:** पशु
+  * Dat. sg. **पशवे**
+  * Dat. pl. **पशुभ्यस्**
+* **Feminina auf -ā:** देवता
+  * Dat. sg. **देवतायै**
+  * Dat. pl. **देवताभ्यस्**
+* **Feminina auf -ī:** देवी
+  * Dat. sg. **देव्यै**
+  * Dat. pl. **देवीभ्यस्**
+* **Feminina auf -i:** श्रुति
+  * Dat. sg. **श्रुतये** oder **श्रुत्यै** (d.h. wie कवि oder wie देवी)
+  * Dat. pl. **श्रुतिभ्यस्**
+* **Feminina auf -u:** धेनु
+  * Dat. sg. **धेनवे** oder **धेन्वै**
+  * Dat. pl. **धेनुभ्यस्**
 :::
 
 ## 24.3. Sandhi von auslautendem -ai und -au
 
-::: grammar-box
+:::: grammar-box
 **Sandhi von auslautendem -ai und -au**
 
 * **-ai vor anlautendem Vokal wird in der Regel durch -ā ersetzt (seltener durch -āy wie im Wortinneren)**
@@ -184,7 +191,7 @@ Beispiel:
 ::: indent
 तस्मै + अग्नये » तस्मा अग्नये = "diesem Feuer"
 :::
-:::
+::::
 
 ## 24.4. Wortliste
 
@@ -214,6 +221,7 @@ Abb.: अलंकारः
 ::: media
 ![](/images/lekt2406.jpg)
 Abb.: देवीप्रतिमा
+Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Bildquelle: [Details](/licenses#lekt2406))
 :::
 
@@ -253,6 +261,7 @@ davon
 ::: media
 ![](/images/lekt2407.jpg)
 Abb.: ऊहापोहः
+"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
 (Bildquelle: [Details](/licenses#lekt2407))
 :::
 
@@ -274,6 +283,7 @@ davon:
 ::: media
 ![](/images/lekt2408.jpg)
 Abb.: आख्यानम्
+"San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
 (Bildquelle: [Details](/licenses#lekt2408))
 :::
 
@@ -305,6 +315,7 @@ davon:
 ::: media
 ![](/images/lekt2411.jpg)
 Abb.: जयदेवकविर्विष्णुं नमस्करोति
+Manuskript des गीतगोविन्द, 1730 n. Chr.
 (Bildquelle: [Details](/licenses#lekt2411))
 :::
 
@@ -413,6 +424,7 @@ Erklärung: मुनित्रयम् "die Dreiheit der Weisen = die drei W
 ::: media
 ![](/images/lekt2410.jpg)
 Abb.: नरो नरसिंहाय नमस्करोति
+नरसिंह zerfleischt हिरण्यकशिपु, Blatt aus einem Manuskript des भागवतपुराण
 (Bildquelle: [Details](/licenses#lekt2410))
 :::
 
@@ -428,7 +440,6 @@ Abb.: नरो नरसिंहाय नमस्करोति
 15१५. Auf Widersehen! (Neusanskrit: पुनर्दर्शनाय)
 
 ::: deleteme-box
-### Quellen
 
 **lekt2401:** 'Annakut' [अन्नकूट = गोवर्धन पूजा] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day. [Bildquelle: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
 

@@ -1,6 +1,10 @@
 ---
+title: Lektion 10
+subtitle: "Den Passivsatz (Instrumentalis des Agens)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 10
@@ -63,7 +67,7 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 
 **Regelmäßige Bildungen:**
 
-| | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
+| | Instrumentalis Singular | Instrumentalis Plural |
 | :--- | :--- | :--- |
 | **Feminina auf -i**:[[br]]śruti[[br]]श्रुति | **śruty-ā**[[br]]श्रुत्या | **śruti-bhis**[[br]]श्रुतिभिस् |
 | **Feminina auf -ī**:[[br]]devī[[br]]देवी | **devy-ā**[[br]]देव्या | **devī-bhis**[[br]]देवीभिस् |
@@ -71,7 +75,7 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 
 **Unregelmäßige Bildungen (Singular):**
 
-| | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
+| | Instrumentalis Singular | Instrumentalis Plural |
 | :--- | :--- | :--- |
 | **Maskulina auf -i**:[[br]]kavi[[br]]कवि | **kavi-n-ā**[[br]]कविना | **kavi-bhis**[[br]]कविभिस् |
 | **Maskulina auf -u**:[[br]]paśu[[br]]पशु | **paśu-n-ā**[[br]]पशुना | **paśu-bhis**[[br]]पशुभिस् |
@@ -79,21 +83,21 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 
 **Maskulina und Neutra auf -a (unregelmäßig in Singular und Plural):**
 
-| | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
+| | Instrumentalis Singular | Instrumentalis Plural |
 | :--- | :--- | :--- |
 | **Maskulina auf -a**:[[br]]deva[[br]]देव | **devena**[[br]]देवेन | **devais**[[br]]देवैस् |
 | **Neutra auf -a**:[[br]]phala[[br]]फल | **phalena**[[br]]फलेन | **phalais**[[br]]फलैस् |
 
 **Fragepronomen kim:**
 
-| | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
+| | Instrumentalis Singular | Instrumentalis Plural |
 | :--- | :--- | :--- |
 | **Maskulinum / Neutrum** | **kena**[[br]]केन | **kais**[[br]]कैस् |
 | **Femininum** | **kayā**[[br]]कया | **kābhis**[[br]]काभिस् |
 
 **Demonstrativpronomina:**
 
-| Pronomen | Genus | Instrumentalis Singular[[br]]तृतीया एकवचन | Instrumentalis Plural[[br]]तृतीया बहुवचन |
+| Pronomen | Genus | Instrumentalis Singular | Instrumentalis Plural |
 | :--- | :--- | :--- | :--- |
 | **tad**[[br]]"er, sie, es; der, die, das" (Erwähnte)[[br]]तद् | M/N | **tena**[[br]]तेन | **tais**[[br]]तैस् |
 | | F | **tayā**[[br]]तया | **tābhis**[[br]]ताभिस् |
@@ -112,16 +116,20 @@ Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepr
 ### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = तृतीया)
 
 ::: grammar-box
-**Der Instrumentalis (tṛtīyā) steht hauptsächlich auf die Fragen: Wodurch? Womit? Mit wem?**
+**Der Instrumentalis (tṛtīyā) steht hauptsächlich auf die Fragen:**
+- **Wodurch?**
+- **Womit?**
+- **Mit wem?**
 
-Er steht:
-1. In Passivsätzen: **Agens (kartṛ) im Instrumentalis**.
-2. Zur Angabe des **Mittels oder Werkzeugs**, mit dem etwas vollbracht wird.
-3. Zur Angabe des **Weges**, auf dem jemand wohin gelangt.
-4. Zum Ausdruck der **Verbindung, Vereinigung, Begleitung**.
-5. Bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. **saha** = सह = "mit" (wird nachgestellt).
-   - Beispiel: **brāhmaṇena saha** = ब्राह्मणेन सह = "gemeinsam mit dem Brahmanen"
+**Er steht**
+1. **in Passivsätzen: Agens (kartṛ) im Instrumentalis**
+2. **zur Angabe des Mittels oder Werkzeugs, mit dem etwas vollbracht wird**
+3. **zur Angabe des Weges, auf dem jemand wohin gelangt**
+4. **zum Ausdruck der Verbindung, Vereinigung, Begleitung von**
+5. **bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. saha = सह = "mit"**[[br]]z.B.[[br]]**brāhmaṇena saha** = ब्राह्मणेन सह = "gemeinsam mit dem Brahmanen"
 :::
+
+Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 
 ---
 
@@ -134,7 +142,7 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 **Deshalb:**
 
 ::: grammar-box
-| | Instrumentalis Singular[[br]]तृतीया एकवचन |
+| | Instrumentalis Singular |
 | :--- | :--- |
 | **guru**[[br]]गुरु | **guruṇā**[[br]]गुरुणा |
 | **śūdra**[[br]]शूद्र | **śūdreṇa**[[br]]शूद्रेण |
@@ -145,13 +153,15 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 
 **So ist auch das -ṇ- zu erklären in:**
 
-> **śravaṇa** श्रवण
-&gt;
-> **śṛṇoti** शृणोति
-&gt;
-> **kāraṇa** कारण
-&gt;
-> **brāhmaṇa** ब्राह्मण
+::: indent
+**śravaṇa** श्रवण
+
+**śṛṇoti** शृणोति
+
+**kāraṇa** कारण
+
+**brāhmaṇa** ब्राह्मण
+:::
 
 
 ---
@@ -161,8 +171,9 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 ::: grammar-box
 **Bildung:**
 **(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung**
+:::
 
-**Beispiele:**
+z.B.
 
 | Wurzel[[br]]धातु | 3. sg. Pass. Präs. Indik.[[br]]यक् लट् | 3. pl. Pass. Präs. Indik.[[br]]यक् लट् |
 | :--- | :--- | :--- |
@@ -170,15 +181,12 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 | **man**[[br]]4 Ā[[br]](manyate) | **manyate**[[br]](मन्यते)[[br]]"er wird gedacht" | **manyante**[[br]](मन्यन्ते) |
 | **viś**[[br]]6 P[[br]](viśati) | **viśyate**[[br]](विश्यते)[[br]]"es wird betreten" | **viśyante**[[br]](विश्यन्ते) |
 
-::: note-box
-Bei Verben der 4. Präsensklasse haben das Ātmanepada und das Passiv identische Formen! Dies lässt sich nur aus der Satzkonstruktion erschließen.
-:::
+**Beachten Sie, dass bei Verben der 4. Präsensklasse das Ātmanepada und das Passiv identische Formen haben! Ob Ātmanepada oder Passiv vorliegt, lässt sich in diesem Fall nur aus der Satzkonstruktion erschließen.**
 
 ---
 
 ### 10.4.1. Sonderregeln zur Bildung des Passiv
 
-::: grammar-box
 1. **Wurzeln auf -i oder -u** dehnen ihren Vokal vor dem Passivsuffix **-ya-**:
    * **ji** 1 P: **jīyate**, **jīyante**[[br]]जीयते, जीयन्ते
    * **śru** 5 P: **śrūyate**, **śrūyante**[[br]]श्रूयते, श्रूयन्ते
@@ -213,7 +221,6 @@ Bei Verben der 4. Präsensklasse haben das Ātmanepada und das Passiv identische
    z.B. **tan** 8 U.
    * **tan-ya-te**, **tan-ya-nte**[[br]]तन्यते, तन्यन्ते
    * **tā-ya-te**, **tā-ya-nte**[[br]]तायते, तायन्ते (aus \*tn-ya-nte)
-:::
 
 ---
 

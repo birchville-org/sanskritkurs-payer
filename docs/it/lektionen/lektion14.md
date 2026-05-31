@@ -1,61 +1,65 @@
 ---
+title: Lezione 14
+subtitle: "L'espressione della relazione di ciò che è designato dai sostantivi: il genitivo (ṣaṣṭhī f. = षष्टी = sesta desinenza casuale)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 14
 
-## 14.1. L'espressione della relazione tra entità designate da sostantivi: il genitivo (ṣaṣṭhī f. = षष्टी = sesta desinenza casuale)
+## 14.1. L'espressione della relazione tra ciò che è designato da sostantivi: il genitivo (ṣaṣṭhī f. = षष्टी = sesta desinenza casuale)
 
 ::: grammar-box
-Qualora si desideri esprimere la relazione tra due entità designate da sostantivi, si utilizza il genitivo (ṣaṣṭhī f. "sesta desinenza casuale"). Il genitivo si distingue dagli altri casi in quanto, con poche eccezioni, non serve a specificare più da vicino l'azione espressa dal verbo, ma a esprimere la relazione tra persone o cose designate da sostantivi. Spesso il genitivo risponde alla domanda: "Di chi?" (Wessen?).
+Se si vuole esprimere la relazione tra due sostantivi, si utilizza il genitivo (ṣaṣṭhī f. "sesta desinenza casuale"). Il genitivo si distingue da tutti gli altri casi in quanto, con poche eccezioni, non serve a determinare più da vicino l'azione espressa dal verbo, ma a esprimere la relazione tra persone o cose designate da sostantivi. Spesso il genitivo risponde alla domanda: Di chi?
 :::
 
 Esempi:
 
 कवेः पुत्रः "Il figlio del poeta"
 
-धनस्य लोभः "Desiderio di ricchezza"
+धनस्य लोभः "La brama della ricchezza"
 
 नगरस्यार्धम् "La metà della città"
 
 रामस्य कृतम् "L'azione / Un'azione di Rāma"
 
 ::: grammar-box
-L'ordine normale delle parole è:
+La normale posizione della parola è:
 
-> **Parola determinante al genitivo — Sostantivo ulteriormente specificato in un altro caso**
+> **Parola determinante al genitivo — Sostantivo ulteriormente determinato in un altro caso**
 :::
 
-**Genitivo e participio passato (PPP):**
+**Genitivo e PPP:**
 
 ::: grammar-box
-Nei participi passati (PPP), il genitivo può sostituire l'ablativo di mezzo (tṛtīyā) per indicare l'agente (kartṛ). Nella costruzione con l'ablativo di mezzo, il PPP è considerato una forma verbale passiva (ciò che è nell'ablativo di mezzo indica l'agente); nella costruzione con il genitivo, il PPP è considerato un sostantivo o un aggettivo (ciò che è nel genitivo non è propriamente considerato un agente).
+Nei PPP il genitivo può sostituire l'ablativo (tṛtīyā) per l'agente (kartṛ); nella costruzione con l'ablativo il PPP è considerato una forma verbale passiva (ciò che è nell'ablativo designa l'agente), nella costruzione con il genitivo il PPP è considerato un sostantivo o aggettivo (ciò che è nel genitivo non è propriamente un agente).
 
-Secondo Pāṇini 2.3.67, quando il PPP ha un significato presente, si usa il genitivo; quando il PPP ha un significato passato, si usa l'ablativo di mezzo:
+Secondo Pāṇini 2.3.67, quando il PPP ha un significato presente, si usa il genitivo; quando il PPP ha un significato passato, si usa l'ablativo:
 
 > रामस्येष्टं फलम् "Il frutto desiderato da Rāma = Il frutto che Rāma desidera attualmente"
 > 
 > रामेणेष्टं फलम् "Il frutto che Rāma ha desiderato"
 
-Naturalmente, quando un PPP neutro singolare è usato come astratto verbale — cioè come sostantivo — si usa il genitivo.
+Naturalmente, quando un PPP neutro singolare è usato come astratto verbale - cioè come sostantivo - si usa il genitivo.
 :::
 
-## 14.2. Formazione delle forme del Genitivo (ṣaṣṭhī f. = षष्ठी)
+## 14.2. Formazione delle forme del genitivo (ṣaṣṭhī f. = षष्ठी)
 
-Il genitivo, nelle radici verbali con ablaut (variazione vocale della radice), si forma a partire dal grado debole della radice.
+Il genitivo viene formato per le radici verbali con ablaut dalla forma debole.
 
-**Genitivo di stemmi consonantici:**
+**Genitivo di radici con desinenza consonantica:**
 
 :::: grammar-box
 
-Dopo una consonante, le desinenze regolari del genitivo sono:
+Dopo una consonante le desinenze regolari del genitivo sono:
 * Singolare: **-as**
 * Plurale: **-ām**
 
 ::: center
 
-| Stemma nominale | Stemma debole | Genitivo Singolare | Genitivo Plurale |
+| Radice nominale | Forma debole | Genitivo singolare | Genitivo plurale |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-**[[br]]**गुणवन्त्** | **guṇa-vat-**[[br]]**गुणवत्** | **guṇa-vat-as**[[br]]**गुणवतस्** | **guṇa-vat-ām**[[br]]**गुणवताम्** |
 | **paśu-mant-**[[br]]**पशुमन्त्** | **paśu-mat-**[[br]]**पशुमत्** | **paśu-mat-as**[[br]]**पशुमतस्** | **paśu-mat-ām**[[br]]**पशुमताम्** |
@@ -64,19 +68,19 @@ Dopo una consonante, le desinenze regolari del genitivo sono:
 
 ::::
 
-**Genitivo di stemmi vocalici, ad eccezione dei nomi radicali monosillabici e degli stemmi con terminazione dittongica:**
+**Genitivo di radici con desinenza vocalica, eccetto nomi radicali monosillabici e radici con desinenza dittongica:**
 
 **Plurale:**
 
 :::: grammar-box
 
-Il genitivo plurale degli stemmi con terminazione vocale si forma come segue:
+Il genitivo plurale di radici con desinenza vocalica si forma come segue:
 
-> **-Vocale lunga terminale dello stemma + -nām**
+> **-vocale lunga della radice + -nām**
 
 ::: center
 
-| Stemma nominale | Genitivo Plurale |
+| Radice nominale | Genitivo plurale |
 | :--- | :--- |
 | **deva** m.[[br]]**देव** | **devā-nām**[[br]]**देवानाम्** |
 | **phala** n.[[br]]**फल** | **phalā-nām**[[br]]**फलानाम्** |
@@ -91,15 +95,15 @@ Il genitivo plurale degli stemmi con terminazione vocale si forma come segue:
 
 ::::
 
-**Genitivo singolare degli stemmi con terminazione vocale:**
+**Genitivo singolare di radici con desinenza vocalica:**
 
 :::: grammar-box
 
-Il genitivo singolare degli stemmi con terminazione vocale si forma in modo irregolare ed è bene memorizzarlo a memoria.
+Il genitivo singolare di radici con desinenza vocalica si forma in modo irregolare ed è bene impararlo a memoria.
 
 ::: center
 
-| Stemma | Genitivo Singolare |
+| Radice | Genitivo singolare |
 | :--- | :--- |
 | **deva** m.[[br]]**देव** | **devasya**[[br]]**देवस्य** |
 | **phala** n.[[br]]**फल** | **phalasya**[[br]]**फलस्य** |
@@ -107,8 +111,8 @@ Il genitivo singolare degli stemmi con terminazione vocale si forma in modo irre
 | **kavi** m.[[br]]**कवि** | **kaves**[[br]]**कवेस्** |
 | **paśu** m.[[br]]**पशु** | **paśos**[[br]]**पशोस्** |
 | **devī** f.[[br]]**देवी** | **devyās**[[br]]**देव्यास्** |
-| **śruti** f.[[br]]**श्रुति** | **śrutes / śrutyās**[[br]]**श्रुतेस् / श्रुत्यास्**[[br]](cioè, o come kavi o come devī) |
-| **dhenu** f.[[br]]**धेनु** | **dhenos / dhenvās**[[br]]**धेनोस् / धेन्वास्**[[br]](cioè, o come paśu o come femminili polisillabici in -ū) |
+| **śruti** f.[[br]]**श्रुति** | **śrutes / śrutyās**[[br]]**श्रुतेस् / श्रुत्यास्**[[br]](cioè o come kavi o come devī) |
+| **dhenu** f.[[br]]**धेनु** | **dhenos / dhenvās**[[br]]**धेनोस् / धेन्वास्**[[br]](cioè o come paśu o come femminili plurisillabici in -ū) |
 
 :::
 
@@ -122,9 +126,9 @@ Il genitivo singolare degli stemmi con terminazione vocale si forma in modo irre
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maschile / Neutro** | **Genitivo Singolare** | kasya[[br]]**कस्य** | tasya[[br]]**तस्य** | etasya[[br]]**एतस्य** | asya[[br]]**अस्य** |
-| | **Genitivo Plurale** | keṣām[[br]]**केषाम्** | teṣām[[br]]**तेषाम्** | eteṣām[[br]]**एतेषाम्** | eṣām[[br]]**एषाम्** |
-| **Femminile** | **Genitivo Singolare** | kasyās[[br]]**कस्यास्** | tasyās[[br]]**तस्यास्** | etasyās[[br]]**एतस्यास्** | asyās[[br]]**अस्यास्** |
+| **Maschile / Neutro** | **Genitivo singolare** | kasya[[br]]**कस्य** | tasya[[br]]**तस्य** | etasya[[br]]**एतस्य** | asya[[br]]**अस्य** |
+| | **Genitivo plurale** | keṣām[[br]]**केषाम्** | teṣām[[br]]**तेषाम्** | eteṣām[[br]]**एतेषाम्** | eṣām[[br]]**एषाम्** |
+| **Femminile** | **Genitivo singolare** | kasyās[[br]]**कस्यास्** | tasyās[[br]]**तस्यास्** | etasyās[[br]]**एतस्यास्** | asyās[[br]]**अस्यास्** |
 
 | | **Genitivo Plurale** | kāsām[[br]]**कासाम्** | tāsām[[br]]**तासाम्** | etāsām[[br]]**एतासाम्** | āsām[[br]]**आसाम्** |
 
@@ -134,54 +138,59 @@ Il genitivo singolare degli stemmi con terminazione vocale si forma in modo irre
 
 **Identità formale:**
 
-::: important
+:::: important
 
-Per tutte le basi nominali, ad eccezione dei maschili e dei neutri in -a e dei pronomi, la forma del Genitivo Singolare è identica a quella dell'Ablativo (pañcamī, "quinta desinenza casuale") Singolare!
-
-Si noti che, nelle basi con terminazione consonantica, l'Ablativo e il Genitivo Singolare hanno la stessa pronuncia dell'Accusativo Plurale di Maschile e Femminile!
-
+::: media
+![](/images/lekt1401.jpg)
 :::
 
-## 14.3. Ulteriori osservazioni sull’uso del genitivo (षष्ठी)
+In tutte le radici nominali, ad eccezione dei maschili e dei neutri in -a e dei pronomi, la forma del genitivo singolare è identica alla forma dell'ablativo (pañcamī "quinta desinenza casuale") singolare!
+
+::: media
+![](/images/lekt1401.jpg)
+:::
+
+Si noti che nelle radici con desinenza consonantica, l'ablativo e il genitivo singolare hanno la stessa pronuncia dell'accusativo plurale maschile e femminile!
+
+::::
+
+## 14.3. Ulteriore sull'uso del genitivo (षष्ठी)
 
 ::: grammar-box
-Contrariamente alla regola generale sopra esposta, il genitivo viene impiegato per esprimere l’oggetto di alcuni verbi, ad esempio nei verbi che indicano il ricordo:
+Contrariamente alla regola generale sopra esposta, il genitivo viene utilizzato per esprimere l'oggetto di alcuni verbi, ad esempio i verbi di ricordo:
 
 > देवानां स्मरति "Egli ricorda gli dèi"
 
-Per tutti questi verbi, tuttavia, l’oggetto può trovarsi anche nell’accusativo:
+Per tutti questi verbi l'oggetto può tuttavia trovarsi anche all'accusativo:
 
 > देवान्स्मरति "Egli ricorda gli dèi"
 
-Ulteriori dettagli verranno forniti in seguito.
+Ulteriore materiale più avanti.
 :::
 
-## 14.4. Glossario
+## 14.4. Elenco delle parole
 
-* **śīla n.** (शील) : (guter) carattere, moralità
+* **śīla n.** (शील) : (buon) carattere, moralità
 * **bhūṣ-aṇa n** (भूषण) : ornamento
 * **dīpa m.** (दीप) : lampada
 
-::: center
-
 ::: media
-![]/images/lekt1405.jpg
-Fig.: दीपाः)
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1405))
-:::
+![](/images/lekt1405.jpg)
+Fig.: दीपाः
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1405))
 :::
 
-* **bala n.** (बल) : forza, potenza, vigore; forza militare, schiera di soldati
+* **bala n.** (बल) : violenza, forza, potenza; forza militare, schiera di guerrieri
 * **bāla 3** (बाल) : giovane, infantile, stolto; m. ragazzo
 * **bālā f.** (बाला) : giovane ragazza
 * **nara m.** (नर) : uomo, essere umano
 * **śatru m.** (शत्रु) : nemico
 * **loka m.** (लोक) : mondo; Sing. e Plur.: le persone, la gente, il popolo
 * **jala n.** (जल) : acqua
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (जन् जायते जन्यते जायते जात) : nascere, sorgere, manifestarsi
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (जन् जायते जन्यते जायते जात) : nascere, sorgere, apparire
   * **jan-a m.** (जन) : creatura, essere umano, persone
-* **vac 2 P** (vakti, nessuna 3. plur.!), Pass. ucyate, PPP ukta (वच् वक्ति उच्यते उक्त) : dire, parlare a (dativo)
-  * **uk-ti f.** (उक्ति) : affermazione, parola
+* **vac 2 P** (vakti, nessuna 3. plur.!), Pass. ucyate, PPP ukta (वच् वक्ति उच्यते उक्त) : dire, parlare a (dvitīyā)
+  * **uk-ti f.** (उक्ति) : espressione, parola
   * **vac-ana n.** (वचन) : il parlare, la parola
   * **vāk-ya n.** (वाक्य) : parola, discorso
 
@@ -189,7 +198,7 @@ Fig.: दीपाः)
 
 Tradurre i seguenti proverbi e impararli a memoria:
 
-**नीचो वदति न कुरुते** **वदति न साधुः करोत्येव ॥१॥**
+**नीचो वदati न कुरुते** **वदति न साधुः करोत्येव ॥१॥**
 
 **शीलं नरस्य भूषणम् ॥२॥**
 
@@ -201,7 +210,7 @@ Tradurre i seguenti proverbi e impararli a memoria:
 
 ## 14.6. Esercizio
 
-**A) Formare il genitivo singolare e plurale per le seguenti parole. Indicare il significato e il genere dei sostantivi:**
+**A) Formare il genitivo singolare e plurale per le seguenti parole. Indicare il significato e il genere delle parole:**
 
 १. अनृत
 
@@ -253,13 +262,10 @@ Tradurre i seguenti proverbi e impararli a memoria:
 
 २५. पुत्रवती
 
-::: center
-
 ::: media
-![]/images/lekt1404.jpg
-Fig.: पुत्रवती)
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1404))
-:::
+![](/images/lekt1404.jpg)
+Fig.: पुत्रवती
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1404))
 :::
 
 २६. जल
@@ -318,13 +324,10 @@ Fig.: पुत्रवती)
 
 ५३. किम्
 
-::: center
-
 ::: media
-![]/images/lekt1403.jpg
-Fig.: अयं बालः कस्याः पुत्रः ।)
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1403))
-:::
+![](/images/lekt1403.jpg)
+Fig.: अयं बालः कस्याः पुत्रः ।
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1403))
 :::
 
 **B) Tradurre:**
@@ -355,11 +358,8 @@ Fig.: अयं बालः कस्याः पुत्रः ।)
 
 १३. कस्यान्नमनेनर्षिणेष्टम् ।
 
-::: center
-
 ::: media
-![]/images/lekt1402.jpg
-Fig.: केषामिमानि गृहाणि ।)
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1402))
-:::
+![](/images/lekt1402.jpg)
+Fig.: केषामिमानि गृहाणि ।
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1402))
 :::

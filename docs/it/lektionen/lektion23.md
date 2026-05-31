@@ -1,65 +1,69 @@
 ---
+title: Lezione 23
+subtitle: "L'Infinito (तुमुन्)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 23
 
-## 23.1. L’Infinito (तुमुन्)
+## 23.1. L'Infinito (तुमुन्)
 
 ::: grammar-box
-**Se si vuole esprimere in sanscrito che un’azione avviene per il fine di un’altra azione ("per" + infinito), si può utilizzare l’infinito (तुमुन्) per l’azione che costituisce il fine. L’infinito indica principalmente lo scopo o l’intenzione:**
+**Se si vuole esprimere in sanscrito che un'azione avviene per un'altra azione ("per"), si può usare l'infinito (तुमुन्) per l'azione per cui avviene. L'infinito indica principalmente lo scopo o l'intenzione:**
 
 > रामो गुरुवचनं श्रोतुं गतः = "Rāma è andato per ascoltare il discorso del maestro."
 
-**Si noti che l’infinito – con alcune eccezioni ben definite – non può fungere da soggetto o da oggetto di un verbo:**
+**Si noti che l'infinito - con alcune eccezioni ben definite - non può fungere da soggetto o oggetto di un verbo:**
 
-> "Impara a ballare" non va quindi tradotto con l’infinito ("ballare"), ma si deve usare un nome verbale, ad esempio: नर्तनमधीते (इ + अधि 2 Ā: "imparare").
+> "Impara a ballare" non si traduce quindi con l'infinito ("ballare"), ma si deve usare un nome verbale, ad esempio: नर्तनमधीते (इ + अधि 2 Ā: "imparare").
 
-**L’infinito è inoltre utilizzato con verbi e sostantivi nel significato di "desiderare" o "bramare", quando l’agens (कर्तृ) dell’infinito e del verbo reggente sono identici:**
+**L'infinito è usato anche con verbi e sostantivi nel significato di "desiderare" o "bramare", quando l'agente (कर्तृ) dell'infinito e del verbo sono identici:**
 
 > रामो गुरुवचनं श्रोतुमिच्छति = "Rāma desidera ascoltare il discorso del maestro."
 
-**L’infinito è altresì impiegato con verbi nei significati di "essere capaci", "esistere", "sapere", "iniziare":**
+**L'infinito è inoltre usato con verbi nei significati di "essere in grado di", "esserci", "sapere", "iniziare":**
 
-> साधुरधर्मं कर्तुं न शक्नोति = "Un santo non può commettere ingiustizia."  
+> साधुरधर्मं कर्तुं न शक्नोति = "Un santo non può fare un torto."  
 > अस्ति भोक्तुमन्नम् = "C'è cibo da mangiare" (भुज् 7: Ā: mangiare, P: governare)
 
-**L’infinito è inoltre utilizzato con parole nei significati di "sufficiente", "capace" e con sostantivi nei significati di "capacità", "potenza", "abilità":**
+**L'infinito è usato anche con parole nei significati di "sufficiente", "capace" e con sostantivi nei significati di "capacità", "forza", "abilità":**
 
 > अस्त्यग्नेर्विभवः सर्वं दग्धुम् = "Il fuoco ha il potere di bruciare tutto."
 
-**Anche con parole nel significato di "tempo" l’infinito può essere utilizzato in espressioni come "È tempo di ...":**
+**Anche con parole nel significato di "tempo" l'infinito può essere usato in espressioni come "È il momento di ...":**
 
-> कालो भोजनं सेवितुम् = "È tempo di dedicarsi al cibo" = "È tempo di mangiare"
+> कालो भोजनं सेवितुम् = "È il momento di dedicarsi al cibo" = "È il momento di mangiare"
 
-**L’infinito può essere usato in forma attiva e passiva. Un infinito passivo in tedesco viene espresso in sanscrito facendo sì che il verbo (spesso शक् "essere capace, potere") dal quale dipende l’infinito sia posto al passivo.**
+**L'infinito può essere usato attivamente e passivamente. Un infinito passivo in tedesco è reso in sanscrito ponendo il verbo (specialmente spesso शक् "essere in grado, potere"), dal quale dipende l'infinito, al passivo.**
 
-**Per quanto riguarda l’oggetto, l’infinito si comporta come una forma verbale, cioè l’oggetto diretto (कर्मन्) si trova nell’accusativo (द्वितीया), o nel caso richiesto dal verbo corrispondente, quando l’infinito è usato attivamente; quando l’infinito è usato passivamente, l’oggetto diretto è al nominativo.**
+**Per quanto riguarda l'oggetto, l'infinito si comporta come una forma verbale, cioè l'oggetto diretto (कर्मन्) sta con l'infinito usato attivamente in accusativo (द्वितीया), o nel caso che il verbo richiesto; con l'infinito usato passivamente l'oggetto diretto è in nominativo.**
 
-Ad esempio:
+ad esempio
 
-> साधुरधर्मं कर्तुं न शक्नोति = साधुनाधर्मः कर्तुं न शक्यते = "Un santo non può commettere ingiustizia."
+> साधुरधर्मं कर्तुं न शक्नोति = साधुनाधर्मः कर्तुं न शक्यते = "Un santo non può fare un torto."
 
-**Al secondo persona, अर्ह् + infinito è spesso usato come comando attenuato: "Dovresti".**
+**Nella 2. persona अर्ह् + infinito è spesso usato come comando gentile: "Dovresti".**
 
-**Quando l’infinito dipende da un nome, non deve essere unito a questo in un composto. Fanno eccezione i Bahuvrīhi, il cui secondo membro è काम o मनस्:**
+**Quando l'infinito dipende da un sostantivo, non può essere unito con questo in un composto. Fanno eccezione i Bahuvrīhi, il cui secondo membro è काम o मनस्:**
 
-> वक्तुकामः = वक्तुं कामो यस्य सः = "colui il cui desiderio è parlare; colui che desidera parlare".
+> वक्तुकामः = वक्तुं कामो यस्य सः = "uno il cui desiderio è parlare; uno che desidera parlare".
 :::
 
-## 23.2. Formazione dell’Infinito (तुमुन्)
+## 23.2. Formazione dell'infinito (तुमुन्)
 
 ::: grammar-box
-**radice in grado forte + -tum**
+**radice in grado superlativo + -tum**
 
 **oppure**
 
-**radice in grado forte + -i- + -tum**
+**radice in grado superlativo + -i- + -tum**
 
-**Le consonanti finali della radice subiscono le stesse modificazioni davanti a -tum che subiscono davanti al suffisso -ta del Participio Passato (PPP).**
+**Le consonanti finali della radice subiscono le stesse modifiche davanti a -tum che subiscono davanti al -ta del PPP.**
 
-**I verbi con prefisso formano l’infinito allo stesso modo delle radici semplici.**
+**I verbi con prefisso formano l'infinito allo stesso modo delle radici semplici.**
 :::
 
 Esempi:
@@ -69,7 +73,7 @@ Esempi:
 रुद् : रोदितुम्
 :::
 
-Non è possibile stabilire regole fisse riguardo all’uso della vocale di giunzione -i-. In linea di principio, la distribuzione della vocale di giunzione nell’infinito corrisponde a quella del futuro.
+Non è possibile stabilire regole fisse riguardo all'uso della vocale di congiunzione -i-. Fondamentalmente, la distribuzione della vocale di congiunzione nell'infinito corrisponde a quella del futuro.
 
 Tra le radici finora studiate, si prestano particolare attenzione i seguenti infiniti:
 
@@ -79,7 +83,7 @@ Tra le radici finora studiate, si prestano particolare attenzione i seguenti inf
 प्रच्छ् : प्रष्टुम्
 :::
 
-I verbi con grado forte -ra- derivato da -ṛ- presentano nell’infinito:
+-ra- come grado alto di -ṛ- hanno nell'infinito:
 
 ::: indent
 दृश् : द्रष्टुम्
@@ -87,9 +91,9 @@ I verbi con grado forte -ra- derivato da -ṛ- presentano nell’infinito:
 सृज् : स्रष्टुम्
 :::
 
-Le altre radici con -ṛ- nella penultima posizione presentano facoltativamente -ra- o -ar- se sono di tipo aniṭ.
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
-## 23.3. L’infinito (तुमुन्) per le radici finora studiate
+## 23.3. L'infinito (तुमुन् rispetto alle radici finora apprese)
 
 अद् 2P अत्तुम्  
 अश् 5Ā अशितुम् । अष्टुम्  
@@ -152,19 +156,19 @@ Le altre radici con -ṛ- nella penultima posizione presentano facoltativamente 
 स्मृ 1P स्मर्तुम्  
 हन् 2P हन्तुम्
 
-## 23.4. Elenco lessicale
+## 23.4. Elenco delle parole
 
 समान ३: uguale
 
 सामान्य n.: uguaglianza, conformità
 
-अधिक ३ : eccedente, aggiuntivo, maggiore, migliore, straordinario
+अधिक ३ : superfluo, aggiuntivo, maggiore, migliore, straordinario
 
 विशेष m.: particolarità, specificazione, differentia specifica
 
 ## 23.5. Esercitazione
 
-A) Le seguenti radici formano l'infinito senza vocale di giunzione -i-. Formare l'infinito tenendo conto delle modificazioni fonetiche per:
+A) Le seguenti radici formano l'infinito senza vocale di collegamento -i-. Formare l'infinito tenendo conto delle variazioni fonetiche per:
 
 1.  आप्
 2.  इ
@@ -204,7 +208,7 @@ A) Le seguenti radici formano l'infinito senza vocale di giunzione -i-. Formare 
 36.  पच्
 37.  सद्
 
-B) Le seguenti radici formano l'infinito con la vocale di giunzione -i-. Formare l'infinito per:
+B) Le seguenti radici formano l'infinito con vocale di collegamento -i-. Formare l'infinito per:
 
 1.  आस्
 2.  नृत्
@@ -214,7 +218,7 @@ B) Le seguenti radici formano l'infinito con la vocale di giunzione -i-. Formare
 6.  वृत्
 7.  कुप्
 
-C) Le seguenti radici, facoltativamente con o senza vocale di giunzione:
+C) Le seguenti radici facoltativamente con o senza vocale di collegamento:
 
 1.  अश्
 2.  इष्
@@ -222,7 +226,7 @@ C) Le seguenti radici, facoltativamente con o senza vocale di giunzione:
 4.  मुह् (3 forme!)
 5.  सह्
 
-D) Tradurre e scomporre i composti:
+D) Tradurre e risolvere le composizioni:
 
 नराः स्वर्गं लब्धुं देवान्यज्ञैर्यष्टुमिच्छन्ति ॥१॥
 
@@ -233,7 +237,8 @@ D) Tradurre e scomporre i composti:
 ::: media
 ![](/images/lekt2303.jpg)
 Fig.: फलवन्ति पुण्यानीति
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2303))
+ทำบุญ = पुण्यकरणम्, Thailandia = ประเทศไทย
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2303))
 :::
 
 
@@ -242,7 +247,8 @@ Fig.: फलवन्ति पुण्यानीति
 ::: media
 ![](/images/lekt2301.jpg)
 Fig.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2301))
+Chiang Mai, Thailandia = เชียงใหม่, ประเทศไทย
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2301))
 :::
 
 
@@ -254,62 +260,66 @@ Fig.: सुगतो लोकान्मोक्तुमार्यसत�
 
 धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥
 
-C) Tradurre il seguente सुभाषितम् (proverbio/saggio):
+C) Tradurre il seguente सुभाषितम्
 
 आहारनिद्राभयमैथुनं च  
 सामान्यमेतत्पशुभिर्नराणाम् ।  
 धर्मे हि तेषामधिको विशेषो  
 धर्मेण हीनाः पशुभिः समानाः ॥
 
-Spiegazione: हीन ३: PPP di हा 3: lasciare; धर्मे = Locativo singolare "nel/nel campo di..."
+Spiegazione: हीन ३: PPP per हा 3: lasciare ; धर्मे = Locativo sing. "nel ..."
 
 ::: media
 ![](/images/lekt2302.jpg)
 Fig.: आहारनिद्राभयमैथुनं च
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2302))
+Chittorgarh = चित्तौडगढ
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2302))
 :::
 
 ## 23.6. Esercizio di ripasso
 
 Si prega di non utilizzare ausili!
 
-A) Tradurre in Sanscrito:
+A) Tradurre in sanscrito:
 
-1\. Le cinque (पञ्च) "sofferenze" sono: l'ignoranza, la falsa credenza nell'Io, l'attaccamento, l'avversione e l'aderenza al corpo.
+1\. I cinque (पञ्च) "tormenti" sono: ignoranza, la falsa credenza nell'Io, attaccamento, avversione e attaccamento al corpo.
 
-2\. La conoscenza si acquisisce mediante l'obbedienza a un maestro, oppure per molto denaro, oppure in cambio di conoscenza. Non esiste un quarto tipo di acquisizione della conoscenza.
+2\. La conoscenza si ottiene per obbedienza a un maestro o per molto denaro o in cambio di conoscenza. Una quarta forma di acquisizione della conoscenza non esiste.
 
-3\. Un uomo di basso rango parla, ma non agisce; un uomo buono non parla, ma agisce soltanto.
+3\. Un basso parla, ma non agisce; un buono non parla, ma agisce solo.
 
-4\. Le scienze ausiliarie al Veda sono: la fonetica, la ritualistica, la grammatica, la semantica, la metrica (छन्दस्) e l'astrologia/calendaristica.
+4\. Le scienze ausiliarie del Veda sono: fonetica, ritualistica, grammatica, semantica, metrica (छन्दस्) e astronomia/calendaristica.
 
-5\. Lo yoga è la cessazione delle attività dell'organo di pensiero (mente).
+5\. Lo yoga è l'arresto delle attività dell'organo di pensiero.
 
-6\. Il diritto prevale, non l'ingiustizia; la verità prevale, non la menzogna; la pazienza prevale, non l'ira; Dio prevale, non un dio rivale. (Voce passiva)
+6\. La giustizia prevale, non l'ingiustizia; la verità prevale, non la menzogna; la pazienza prevale, non l'ira; Dio prevale, non un dio rivale. (Passivo)
 
-7\. Il "bastone" (danda) assicura l'acquisizione e il possesso sicuro di filosofia, Veda ed economia. La gestione di questo bastone è la politica.
+7\. Il "bastone" causa l'acquisizione e il possesso sicuro di filosofia, Veda ed economia. La guida di questo bastone è la politica.
 
 ::: media
 ![](/images/lekt2304.jpg)
 Fig.: दण्डनीतिः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2304))
+Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Primo ministro dell'India = भारत के प्रधानमन्त्री, dal 2004 [fonte immagine: Wikipedia, dominio pubblico]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2304))
 :::
 
-8\. Moglie, figlio e schiavo, questi tre (त्रयस्) sono, secondo la tradizione, privi di proprietà. Ciò a cui essi giungono, appartiene a colui al quale essi (i tre) appartengono.
 
-9\. Le zanzare desiderano una ferita, i sovrani desiderano la proprietà, gli uomini di basso rango desiderano la contesa, gli uomini buoni desiderano la pace.
 
-10\. Il dovere specifico di un Brahmano è: lo studio, l'insegnamento, il sacrificio come capo-officiante, il sacrificio per conto altrui, la donazione e la ricezione; quello di un Kṣatriya è: lo studio, il sacrificio come capo-officiante, la donazione, il sostentamento tramite le armi, la protezione degli esseri; quello di un Vaiśya: lo studio, il sacrificio come capo-officiante, la donazione, l'agricoltura, l'allevamento del bestiame e il commercio; quello di un Śūdra: l'obbedienza ai due volte nati, le attività economiche, l'attività (कर्म) degli artigiani e degli spettacolisti.
+8\. Moglie, figlio e schiavo, questi tre (त्रयस्) sono, secondo la tradizione, privi di proprietà. A ciò a cui essi arrivano, appartiene a colui al quale essi (i tre) appartengono.
 
-11\. La chiarificazione della coscienza avviene mediante lo sviluppo meditativo della benevolenza amichevole, della compassione, della gioia empatica e dell'equanimità, che hanno come oggetto la felicità e il dolore, il bene e il male.
+9\. Le zanzare desiderano una ferita, i sovrani desiderano proprietà, i bassi desiderano contesa, i buoni desiderano pace.
 
-12\. I poveri hanno molti figli, sebbene non li desiderino. I ricchi non hanno figli. Strano è il movimento del destino.
+10\. Il dovere specifico di un Brahmano è: studio, insegnamento, sacrificio come caposacrificio, sacrificio per conto altrui, dare e ricevere; quello di un Kṣatriya è: studio, sacrificio come caposacrificio, dare, sostentamento con le armi, proteggere gli esseri; quello di un Vaiśya: studio, sacrificio come caposacrificio, dare, agricoltura, allevamento e commercio; quello di un Śūdra: obbedienza ai due volte nati, attività economica, attività (कर्म) di artigiani e spettacoli.
 
-13\. Chi non uccide un corpo femminile (वपुस् n.) con vita sottile, fianchi larghi, labbra rosse, occhi neri, ombelico curvo e seni eretti?
+11\. La chiarificazione della coscienza avviene a causa dello sviluppo meditativo della benevolenza amichevole, compassione, gioia empatica ed equanimità, che hanno come oggetto felicità e dolore, bene e male.
+
+12\. I poveri hanno molti figli, sebbene non li desiderino. I ricchi non hanno figli. Strano è il moto del destino.
+
+13\. Chi non uccide un corpo femminile (वपुस् f.) con vita snella, fianchi larghi, labbra rosse, occhi neri, ombelico curvo, seni eretti.
 
 B) Declinare in tutti i casi a voi noti क्षत्रिया f.
 
-C) Fornire le forme base (significato, classe di presente, modo, 3. sg. Presente Indicativo, 3. sg. Passivo, PPP, Assolutivi, Infinito) per i seguenti verbi:
+C) Fornire le forme fondamentali (significato, classe del presente, modo, 3. sg. presente indicativo, 3. sg. passivo, PPP, assolutivi, infinito) ai seguenti verbi:
 
 १. सह्
 
@@ -321,13 +331,11 @@ C) Fornire le forme base (significato, classe di presente, modo, 3. sg. Presente
 
 ::: deleteme-box
 
-### Fonti
+**lekt2301:** Chiang Mai, Thailandia = เชียงใหม่, ประเทศไทย [Fonte dell'immagine: Wikipedia. Licenza GNU FD]
 
-**lekt2301:** Chiang Mai, Thailandia = เชียงใหม่, ประเทศไทย [Fonte dell'immagine: Wikipedia. Licenza GNU FDL]
+**lekt2302:** Chittorgarh = चित्तौडगढ [Fonte dell'immagine: da zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Accesso il 2008-12-13. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
 
-**lekt2302:** Chittorgarh = चित्तौडगढ [Fonte dell'immagine: di zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Accesso il 13-12-2008. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+**lekt2303:** ทำบุญ = पुण्यकरणम्, Thailandia = ประเทศไทย [Fonte dell'immagine: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Accesso il 2008-12-13. -- Licenza Creative Commons (Attribuzione, nessuna modifica)]
 
-**lekt2303:** ทำบุญ = पुण्यकरणम्, Thailandia = ประเทศไทย [Fonte dell'immagine: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Accesso il 13-12-2008. -- Licenza Creative Commons (Attribuzione, nessuna opera derivata)]
-
-**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Primo Ministro dell'India = भारत के प्रधानमन्त्री, dal 2004 [Fonte dell'immagine: Wikipedia, di pubblico dominio]
+**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Primo ministro dell'India = भारत के प्रधानमन्त्री, dal 2004 [fonte immagine: Wikipedia, dominio pubblico]
 :::

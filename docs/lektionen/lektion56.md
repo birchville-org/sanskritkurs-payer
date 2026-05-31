@@ -1,6 +1,10 @@
 ---
+title: Lektion 56
+subtitle: "Der reduplizierte Aorist"
 lesson_id: 56
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 56
@@ -132,6 +136,7 @@ Gemäß der grundlegenden Arbeit:
 ::: media
 ![](/images/lekt5601.jpg)
 Abb.:
+Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983)
 (Bildquelle: [Details](/licenses#lekt5601))
 :::
 
@@ -178,6 +183,7 @@ Beispiele:
 ::: media
 ![](/images/lekt5602.jpg)
 Abb.: क्लैब्यं मा स्म गमः
+Poster (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
 (Bildquelle: [Details](/licenses#lekt5602))
 :::
 
@@ -306,7 +312,6 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen:
 80.  अवोचन्
 
 ::: deleteme-box
-### Quellen
 
 **lekt5601:** Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983) [Bildquelle: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Zugriff am 2009-02-27]
 

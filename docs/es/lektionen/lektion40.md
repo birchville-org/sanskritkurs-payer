@@ -26,8 +26,8 @@ last_reconstructed: 2026-05-21
 
 ::: media
 ![lekt4005.jpg](/images/lekt4005.jpg)
-Abb.: पादं सब्रह्मचारिभ्यः
-(Fuente de la imagen: [Detalles](/licenses#lekt4005))
+Fig.: पादं सब्रह्मचारिभ्यः
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4005))
 :::
 
 ## 40.2. Formación de las formas verbales de la primera persona del perfecto (लिट्)
@@ -520,7 +520,7 @@ de ello:
 ::: media
 ![lekt4003.jpg](/images/lekt4003.jpg)
 Fig.: हरिद्वारे तीर्थम्
-(Fuente de la imagen: [Detalles](/licenses#lekt4003))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4003))
 :::
 
 ::: indent
@@ -530,7 +530,7 @@ Fig.: हरिद्वारे तीर्थम्
 ::: media
 ![lekt4002.jpg](/images/lekt4002.jpg)
 Fig.: तीर्थङ्करः
-(Fuente de la imagen: [Detalles](/licenses#lekt4002))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4002))
 :::
 
 अव Prefijo verbal: hacia abajo, abajo, lejos, ab-
@@ -546,7 +546,7 @@ de ello:
 ::: media
 ![lekt4001.jpg](/images/lekt4001.jpg)
 Fig.: विष्णोर्दशावताराः
-(Fuente de la imagen: [Detalles](/licenses#lekt4001))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4001))
 :::
 
 स्वप् 2P स्वपिति,  स्वपन्ति: dormir, acostarse a dormir
@@ -570,7 +570,7 @@ de ello:
 ::: media
 ![lekt4004.jpg](/images/lekt4004.jpg)
 Fig.: स्वपन्ति
-(Fuente de la imagen: [Detalles](/licenses#lekt4004))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4004))
 :::
 
 ## 40.7. Ejercicio
@@ -694,7 +694,6 @@ B) Transforme las siguientes formas verbales en sus correspondientes formas de p
 
 ::: deleteme-box
 
-### Fuentes
 
 - **Image lekt4005.jpg** (Fig.: पादं सब्रह्मचारिभ्यः): Vadaseri, Distrito de Thanjavur = தஞ்சாவூர் மாவட்டam [Fuente de la imagen: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución, Compartir Igual)]
 - **Image lekt4003.jpg** (Fig.: हरिद्वारे तीर्थम्): [Fuente de la imagen: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución)]

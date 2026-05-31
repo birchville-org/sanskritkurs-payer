@@ -1,6 +1,10 @@
 ---
+title: Lektion 37
+subtitle: "Das Adverb (क्रियाविशेषणम्)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 37
@@ -178,57 +182,17 @@ Ein weiteres Frageadverb ist: क्व "wo?"
 Abb.: क्व
 (Bildquelle: [Details](/licenses#lekt3701))
 :::
-
 :::: grammar-box
 
+**Weitere Adverbialsuffixe**
 
-  
-    
-      Weitere Adverbialsuffixe
-    
-  
-  
-    
-      -वत् -vat
-      
-        kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie" 
-        z.B. putravat 
-        पुत्रवत् "wie ein(en) Sohn"
-      
-    
-    
-      -तस् -tas
-      
-        an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?" 
-        z.B. āditas 
-        आदितस् "von Anfang an"
-      
-    
-    
-      -धा -dhā
-      
-        &lt;ol&gt;
-          &lt;li&gt;
-            Bei Zahladverbien in der Bedeutung "-fach", "-fältig" 
-            z.B. dvidhā 
-            द्विधा "zweifach"
-          &lt;/li&gt;
-          &lt;li&gt;
-            in der Bedeutung "in der und der Weise" 
-            z.B. samadhā 
-            समधा "in gleicher Weise" (zu sama सम 3 "gleich")
-          &lt;/li&gt;
-        &lt;/ol&gt;
-      
-    
-  
-
+| Suffix | |
+| :--- | :--- |
+| **-वत्** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie"[[br]]z.B. **पुत्रवत्** "wie ein(en) Sohn" |
+| **-तस्** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?"[[br]]z.B. **आदितस्** "von Anfang an" |
+| **-धा** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig"[[br]]z.B. **द्विधा** "zweifach"[[br]]2. in der Bedeutung "in der und der Weise"[[br]]z.B. **समधा** "in gleicher Weise" (zu **सम** 3 "gleich") |
 
 ::::
-
- 
-
-
 
 ## 37.5. Adverbiale Komposita
 
@@ -588,7 +552,6 @@ Abb.: उपवृक्षं सीदन्ति
 Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuß eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte fraßen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises!
 
 ::: deleteme-box
-### Quellen
 
 - **Image lekt3701.jpg** (Abb.: क्व): [Bildquelle: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 - **Image lekt3702.jpg** (Abb.: यथाशक्ति): [Bildquelle: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
@@ -600,6 +563,5 @@ Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da 
 - **Image lekt3708.jpg** (Abb.: क्व मर्तुं सज्जना इच्छन्ति): काशी = वाराणसी [Bildquelle: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung)]
 - **Image lekt3709.jpg** (Abb.: अधिकेरलं वर्तन्ते): [Bildquelle: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 - **Image lekt3710.jpg** (Abb.: आबालवृद्धं लंदननगरे ववृतिरे): [Bildquelle: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-- **Image lekt3711.jpg** (Abb.: उपवृक्षं सीdन्ति): Delhi = दहली / دہلی [Bildquelle: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+- **Image lekt3711.jpg** (Abb.: उपवृक्षं सीदन्ति): Delhi = दहली / دہلی [Bildquelle: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 :::
-

@@ -7,18 +7,19 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 1
+# Lección 1
+
 
 ::: center
 गणेशपूजनम्
 gaṇeśapūjanam
-Verehrung des Gaṇeśa &lt;!-- TODO: Fallback translation --&gt;
+Veneración de Gaṇeśa
 :::
 
 ::: media
 ![](/images/lekt0102.jpg)
-Abb.: Gaṇeśa, Adamspeak, Sri Lanka
-(Bildquelle: [Details](/licenses#lekt0102)) &lt;!-- TODO: Fallback translation --&gt;
+Fig.: Gaṇeśa, Adamspeak, Sri Lanka
+(Fuente de la imagen: [Detalles](/es/licenses#lekt0102))
 :::
 
 ::: center
@@ -30,12 +31,12 @@ Abb.: Gaṇeśa, Adamspeak, Sri Lanka
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
 nirvighnaṃ kuru me deva
-sarvakāryeṣu sarvadā |** &lt;!-- TODO: Fallback translation --&gt;
+sarvakāryeṣu sarvadā |**
 
-Du Hängebauch, Du Naschkatze,
-Stets sei Dir Verehrung!
-Gott, mache all meine Unternehmungen
-Frei von Hindernissen! &lt;!-- TODO: Fallback translation --&gt;
+¡Oh de vientre colgante, tú, amante de los modaka,
+siempre sea para ti veneración.
+¡Oh dios, haz mis empresas
+siempre libres de obstáculos!
 :::
 
 ---
@@ -43,13 +44,13 @@ Frei von Hindernissen! &lt;!-- TODO: Fallback translation --&gt;
 ::: center
 मङ्गलचरणम्
 maṅgalacaraṇam
-"Glückbringender Anfang" &lt;!-- TODO: Fallback translation --&gt;
+"Comienzo auspicioso"
 :::
 
 ::: media
 ![](/images/lekt0101.jpg)
-Abb.: Ardhanarīśvara
-(Bildquelle: [Details](/licenses#lekt0101)) &lt;!-- TODO: Fallback translation --&gt;
+Fig.: Ardhanarīśvara
+(Fuente de la imagen: [Detalles](/es/licenses#lekt0101))
 :::
 
 ::: center
@@ -61,41 +62,41 @@ Abb.: Ardhanarīśvara
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
 jagataḥ pitarau vande
-pārvatīparameśvarau |** &lt;!-- TODO: Fallback translation --&gt;
+pārvatīparameśvarau |**
 
-(Kālidāsa: Raghuvaṃśa 1.1) &lt;!-- TODO: Fallback translation --&gt;
+(Kālidāsa: Raghuvaṃśa 1.1)
 
-Ich grüße die Eltern der Welt,
-Pārvatī und Śiva,
-Die so fest miteinander verbunden sind
-Wie Wort und Sinn zum Verständnis
-Des Wortsinns. &lt;!-- TODO: Fallback translation --&gt;
+Saludo a los padres del mundo,
+Pārvatī y Śiva,
+Que están tan firmemente unidos
+Como el significado y el sentido para la comprensión
+Del significado de la palabra.
 :::
 
 ---
 
-Zu Beginn ein Kuriosum: &lt;!-- TODO: Fallback translation --&gt;
+Al principio, una curiosidad:
 
 ::: note-box
-"Als William Jones [1746–1794] und Henry Thomas Colebrooke (1765—1857) das Sanskrit erstmalig gründlich studiert, teilweise übersetzt und gefunden hatten, dass es eine reiche Literatur und nicht geringe Verwandtschaft mit den klassischen Sprachen aufwies, stießen sie auf nicht geringen Widerstand. Da sich mit dieser innigen Beziehung des Sanskrits zu den geographisch so weit entlegenen europäischen Sprachen die alten Anschauungen, welche entweder alle Sprachen aus dem Hebräischen ableiteten oder größtenteils von einander isolierten, nicht in Einklang bringen lassen, so ergriff der berühmte Philologe Dugald Steward (1753—1828) den einfachsten Ausweg, indem er die ganze Geschichte mit der Sanskritsprache für eine Lüge erklärte. Er schrieb einen Essay, in dem er zu beweisen suchte, dass sie von den spitzbübischen Brahmanen nach dem Muster des Griechischen und Lateinischen zusammengeschmiedet sei und die Sprache sowohl als auch die Literatur eine Fälschung seien. Diese Ansicht entwickelte noch im Jahre 1840 der Professor in Dublin, Charles William Wall, weitläufig (Göttingische gelehrte Anzeigen 1842 S. 1888)." &lt;!-- TODO: Fallback translation --&gt;
+"Cuando William Jones [1746–1794] y Henry Thomas Colebrooke (1765—1857) estudiaron por primera vez el sánscrito en profundidad, lo tradujeron en parte y descubrieron que poseía una rica literatura y una notable parentesco con las lenguas clásicas, se toparon con una considerable resistencia. Dado que esta íntima relación del sánscrito con las lenguas europeas geográficamente tan distantes no podía conciliarse con las antiguas concepciones, que o bien derivaban todas las lenguas del hebreo o las mantenían en gran medida aisladas entre sí, el famoso filólogo Dugald Steward (1753—1828) tomó la salida más sencilla, declarando toda la historia con la lengua sánscrita como una mentira. Escribió un ensayo en el que intentó demostrar que había sido forjada por los bribones brahmanes a imitación del griego y el latín, y que tanto la lengua como la literatura eran una falsificación. Esta opinión fue desarrollada aún más ampliamente en 1840 por el profesor de Dublín, Charles William Wall (Anuncios eruditos de Gotinga 1842 p. 1888)."
 :::
 
-> [Quelle: **Kemmerich**, Max &lt;1876-1932&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] &lt;!-- TODO: Fallback translation --&gt;
+> [Fuente: **Kemmerich**, Max &lt;1876-1932&gt;: Kultur-Kuriosa. -- Múnich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- En línea: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Acceso el 2010-01-10]
 
-## 1.1. Literatur für Anfänger in Indologie
+## 1.1. Literatura para principiantes en Estudios de la India
 
 ::: media
 ![](/images/lekt0103.jpg)
 Fig.: Portada de una edición de bolsillo
-(Fuente de la imagen: [Detalles](/licenses#lekt0103))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt0103))
 :::
 
-> **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Parte: Un estudio de la cultura del subcontinente indio antes de la llegada de los musulmanes. -- Londres : Sidgwick & Jackson, 1954. -- Desde entonces, numerosas ediciones, incluidas ediciones de bolsillo. -- **Lectura obligatoria.** Una excelente visión general de la vida, la historia y la cultura de la India preislámica. Resumen general de las diversas áreas de los estudios clásicos de la India.
+> **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Parte: Un estudio de la cultura del subcontinente indio antes de la llegada de los musulmanes. -- Londres : Sidgwick & Jackson, 1954. -- Desde entonces, muchas ediciones, también ediciones de bolsillo. -- **Lectura obligatoria.** Una buena visión general de la vida, la historia y la cultura en la India preislámica. Visión general de las diversas áreas de los estudios clásicos de la India.
 
 ::: media
 ![](/images/lekt0104.jpg)
 Fig.: Página de título
-(Fuente de la imagen: [Detalles](/licenses#lekt0104))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt0104))
 :::
 
 **La mejor gramática sistemática**
@@ -104,8 +105,8 @@ Fig.: Página de título
 
 ::: media
 ![](/images/lekt0105.jpg)
-Fig.: Tapa
-(Fuente de la imagen: [Detalles](/licenses#lekt0105))
+Fig.: Portada
+(Fuente de la imagen: [Detalles](/es/licenses#lekt0105))
 :::
 
 **Buena gramática sistemática basada en los gramáticos nativos y, al mismo tiempo, una introducción a Pāṇini:**
@@ -115,37 +116,37 @@ Fig.: Tapa
 ::: media
 ![](/images/lekt0107.jpg)
 Fig.: Portada
-(Fuente de la imagen: [Detalles](/licenses#lekt0107))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt0107))
 :::
 
 Una buena y concisa exposición de la terminología lingüística europea se encuentra en:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge &lt;1856 - 1926&gt;. Editado por Elmar Seebold. -- 24.ª ed., revisada y ampliada. -- Berlín [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Tapa blanda. -- Págs. XIII - XLVII.
+> **Diccionario Etimológico de la Lengua Alemana** / [Friedrich] Kluge &lt;1856 - 1926&gt;. Editado por Elmar Seebold. -- 24.ª ed. revisada y ampliada. -- Berlín [y otros] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Tapa blanda. -- Págs. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)
-Fig.: Tapa
-(Fuente de la imagen: [Detalles](/licenses#lekt0108))
+Fig.: Portada
+(Fuente de la imagen: [Detalles](/es/licenses#lekt0108))
 :::
 
-Para los curiosos que deseen consultar:
+Para los curiosos que desean consultar:
 
-> **Lexikon der Sprachwissenschaft** / Editado por Hadumod Bußmann. -- 4.ª ed., revisada y completada bibliográficamente / con la colaboración de Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Diccionario de Lingüística** / Editado por Hadumod Bußmann. -- 4.ª ed. revisada y completada bibliográficamente / con la colaboración de Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 ---
 
-## 1.2. Die Laute des Sanskrit
+## 1.2. Los fonemas del sánscrito
 
-Los sonidos del sánscrito según la clasificación india tradicional y su transcripción científica.
+Los fonemas del sánscrito según la clasificación india tradicional y su transcripción científica.
 
 ::: media
 ![](/images/lekt0106.jpg)
-(Fuente de la imagen: [Detalles](/licenses#lekt0106))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt0106))
 :::
 
-Los diccionarios modernos de sánscrito están ordenados según esta clasificación. Esta clasificación y el orden de los sonidos son indispensables para comprender la gramática del sánscrito y, por lo tanto, deben aprenderse de memoria:
+Los diccionarios modernos de sánscrito están ordenados según esta clasificación. Esta clasificación y el orden de los fonemas son esenciales para comprender la gramática del sánscrito y, por lo tanto, deben memorizarse:
 
-::: tip Klassifikation
+::: tip Clasificación
 
 - **vocales simples** (samānākṣara -- समानाक्षर):
   अ a, आ ā, इ i, ई ī, उ u, ऊ ū, ऋ ṛ, ॠ ṝ, ऌ ḷ
@@ -162,23 +163,23 @@ Los diccionarios modernos de sánscrito están ordenados según esta clasificaci
   ह ha
 :::
 
-### 1.2.1. Zur Aussprache einzelner Laute
+### 1.2.1. Sobre la pronunciación de sonidos individuales
 
 ::: laut-table
-| Laut | Beschreibung |
+| Sonido | Descripción |
 | :--- | :--- |
-| **a - अ** | "kurzes a" wird bei den Indern -- schon seit alter Zeit -- oft wie ə ausgesprochen. In Europa spricht man es als kurzes a, in Bengalen als kurzes dunkles o. |
-| **ṛ - ऋ** | wie böhmisches vokalisiertes r. Leichter Nachklang von i. |
-| **ṝ - ॠ** | wie böhmisches vokalisiertes r. Leichter Nachklang von u. |
-| **jñ - ज्ञ्** | auch wie dny (Marāṭhī) oder gy (Nordindisch). |
-| **ś - श्** | sch-Laut mit nach unten gebogener Zungenspitze. Ähnlich wie sch in "mischen". |
-| **ṣ - ष्** | ach-Laut mit zurückgebogener Zungenspitze. Öfters so weit hinten im Rachen artikuliert, dass es fast wie kh klingt. |
-| **h - ह्** | Hauchlaut, nie Dehnungszeichen. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
-| **ṃ** | **Anusvara** -- अनुस्वर. Vor Zischlauten, h, l: Nasalierung des Vokals. Im Auslaut = m. Im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- संधि = sandhi -- सन्धि |
+| **a - अ** | La "a breve" es pronunciada por los indios, ya desde tiempos antiguos, a menudo como ə. En Europa se pronuncia como una a breve, en Bengala como una o breve oscura. |
+| **ṛ - ऋ** | como la r vocálica checa. Ligero resonancia de i. |
+| **ṝ - ॠ** | como la r vocálica checa. Ligera resonancia de u. |
+| **jñ - ज्ञ्** | también como dny (Marāṭhī) o gy (Norte de la India). |
+| **ś - श्** | sonido sch con la punta de la lengua curvada hacia abajo. Similar a sch en "mezclar". |
+| **ṣ - ष्** | sonido ach con la punta de la lengua curvada hacia atrás. A menudo articulado tan atrás en la garganta que suena casi como kh. |
+| **h - ह्** | sonido aspirado, nunca signo de alargamiento. |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Sonido aspirado sordo con resonancia de la vocal precedente o de la segunda parte del diptongo precedente: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
+| **ṃ** | **Anusvara** -- अनुस्वर. Antes de sonidos sibilantes, h, l: nasalización de la vocal. Al final de palabra = m. En medio de palabra antes de consonantes: la nasal correspondiente a la consonante siguiente: saṃdhi -- संधि = sandhi -- सन्धि |
 :::
 
-Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest. &lt;!-- TODO: Fallback translation --&gt;
+La mejor pronunciación se logra cuando se leen las frases, versos o palabras bastante lentamente y de manera monótona, considerando con precisión la longitud de las vocales.
 
 ---
 
@@ -197,4 +198,4 @@ Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter zieml
 9. pitṝn — पितॄन्
 10. saṃskṛta — संस्कृत
 
-**B) Lea las expresiones sánscritas según la clasificación fonética anterior.**
+**B) Lea las expresiones sánscritas en la clasificación fonética anterior.**

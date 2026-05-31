@@ -1,222 +1,218 @@
+---
+title: Урок 22
+subtitle: "Абсолутно (क्त्वा । ल्यप्)"
+lesson_id: 22
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 22
 
-# Lektion 22
-
-## 22.1. Das Absolutivum (क्त्वा । ल्यप्)
-
-:::: grammar-box
-
-Will man in Sanskrit ausdrücken, dass eine Handlung des Agens (कर्तृ) einer anderen Handlung des Agens vorausgeht oder mit ihr als begleitender Umstand einhergeht, verwendet man das Absolutivum (क्त्वा । ल्यप्). Also &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-"nachdem er das getan hat, tut er jenes" ; "er tut das, dann tut er jenes" ; "als Folge von diesem tut er jenes" ; "ich kam, sah und siegte" u. ä. &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Das Absolutivum ist ein Verbal-Adverb, d.h. es ist weder konjugierbar noch deklinierbar, es hat aber immer - von wenigen Ausnahmen abgesehen - denselben Agens (कर्तृ) wie die Handlung, der die durch das Absolutiv bezeichnete Handlung vorausgeht bzw. die es begleitet. Der Agens des Absolutiv steht also im Nominativ (प्रथमा)  oder Instrumentalis (तृतीया). &lt;!-- TODO: Fallback translation --&gt;
-
-Neben den Komposita ist das Absolutiv eines der häufigsten Ausdrucksmittel im Sanskrit. &lt;!-- TODO: Fallback translation --&gt;
-
-Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung. &lt;!-- TODO: Fallback translation --&gt;
-
-**Schema:** &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-(nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv) &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-::::
-
-**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-**गृहं प्रविश्य बालां दृष्ट्वा नरो वदति** = Passivkonstruktion: **गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते**  
-"Der Mann betritt das Haus, sieht das kleine Mädchen und spricht es an." &lt;!-- TODO: Fallback translation --&gt;
-
-Plural: **गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।** &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-## 22.2. Образоване des Absolutivums
+## 22.1. Абсолютивът (क्त्वा । ल्यप्)
 
 ::: grammar-box
-**Bildung des Absolutivums** &lt;!-- TODO: Fallback translation --&gt;
 
-*   Verben ohne Präverb: Absolutiv auf **-tvā** &lt;!-- TODO: Fallback translation --&gt;
-*   Verben mit Präverb: Absolutiv auf **-ya** bzw. **-tya** &lt;!-- TODO: Fallback translation --&gt;
+Ако искаме на санскрит да изразим, че действие на агенса (कर्तृ) предхожда или съпътства друго действие на агенса, използваме абсолютива (क्त्वा । ल्यप्). Тоест
+
+„след като е направил това, той прави онова“; „той прави това, после прави онова“; „вследствие на това той прави онова“; „идох, видях и победих“ и т.н.
+
+Абсолютивът е глаголно наречие, т.е. той не се спряга и не се склонява, но винаги — с малки изключения — има същия агент (कर्तृ) като действието, на което предхожда или което съпътства действието, изразено чрез абсолютива. Агентът на абсолютива е в именителен (प्रथमा) или инструментален падеж (तृतीया).
+
+Сред съставните думи абсолютивът е едно от най-често срещаните изразни средства на санскрита.
+
+При превод на немски език избягвайте постоянно да казвате „след като“. Вместо това използвайте обичайните за немския език изрази за времева последователност.
+
+**Схема:**
+
+(по-точно определение на абсолютива: обстоятелствено определение, обект и пр.) – абсолютив – абсолютив – ... – абсолютив – ... агент + глаголно изречение (в актив или пасив)
+
 :::
 
-### 22.2.1. Verben ohne Präverb: Absolutiv auf -त्वा
-
-:::: grammar-box
-
-**Bildung:** &lt;!-- TODO: Fallback translation --&gt;
+**Примери:**
 
 ::: indent
-(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-त्वा**) &lt;!-- TODO: Fallback translation --&gt;
+**गृहं प्रविश्य बालां दृष्ट्वा नरो वदति** = пасивна конструкция: **गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते**  
+„Мъжът влиза в къщата, вижда малкото момиче и го заговаря.“
+
+Множествено число: **गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।**
 :::
 
-Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-त्वा** : **अकृत्वा** "ohne getan zu haben" &lt;!-- TODO: Fallback translation --&gt;
+## 22.2. Образуване на абсолютива
 
-::::
+::: grammar-box
+**Образуване на абсолютива**
 
-**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-**आप्त्वा** "nachdem er / sie / es / ich / du / wir / ihr / sie / wir beide / ihr beide / sie beide erreicht hat / hatte / haben / hatten" &lt;!-- TODO: Fallback translation --&gt;
-
-**आसित्वा** "nachdem er (...) gesessen war / ist" &lt;!-- TODO: Fallback translation --&gt;
-
-**इत्वा** "nachdem er (...) gegangen war / ist" &lt;!-- TODO: Fallback translation --&gt;
-
-**स्थित्वा** "nachdem er (...) gestanden war / ist" &lt;!-- TODO: Fallback translation --&gt;
-
-**जित्वा** "nachdem er (...) gesiegt hat / hatte" &lt;!-- TODO: Fallback translation --&gt;
-
-**उक्त्वा** "nachdem er (...) gesprochen hat / hatte" &lt;!-- TODO: Fallback translation --&gt;
+*   Глаголи без префикс: абсолютив на **-tvā**
+*   Глаголи с префикс: абсолютив на **-ya** или **-tya**
 :::
 
-### 22.2.2. Verben mit Präverb
+### 22.2.1. Глаголи без префикс: Абсолут на -त्वा
 
-#### 22.2.2.1. Wurzeln auf langen Vokal (außer -ā) oder auf Konsonant &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
 
-:::: grammar-box
+**Образуване:**
 
-::: indent
-(meist) tiefstufige Wurzel + **-ya** &lt;!-- TODO: Fallback translation --&gt;
+(повечето) корен в най-ниската степен на гласовата промяна, в формата, която има преди причастие на минало страдателно време + **-tvā** (**-त्वा**)
+
+Само отрицателната форма **a-** / **an-** се съчетава с афикса **-त्वा** : **अकृत्वा** „без да е направил“
+
 :::
 
-::::
-
-**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
+**Примери:**
 
 ::: indent
-**उपनीय** "nachdem er (...) herangeführt hat / hatte" &lt;!-- TODO: Fallback translation --&gt;
+**आप्त्वा** „след като той / тя / то / аз / ти / ние / вие / те / двамата / вас двамата / те двамата е постигнал / е постигнал / са постигнали“
 
-**प्रभूय** "nachdem er (...) herausgeragt ist / war" "nachdem er (...) Macht hatte" &lt;!-- TODO: Fallback translation --&gt;
+**आसित्वा** „след като той (...) е седял / е“
 
-**प्राप्य** "nachdem er (...) erlangt hat / hatte" &lt;!-- TODO: Fallback translation --&gt;
+**इत्वा** „след като той (...) е отишъл / е“
+
+**स्थित्वा** „след като той (...) е станал / е“
+
+**जित्वा** „след като той (...) е победил / е победил“
+
+**उक्त्वा** „след като той (...) е говорил / е говорил“
 :::
 
-#### 22.2.2.2. Wurzeln auf -ā &lt;!-- TODO: Fallback translation --&gt;
+### 22.2.2. Глаголи с предикат
 
-:::: grammar-box
+#### 22.2.2.1. Корени с дълъг гласен (с изключение на -ā) или с согласен
 
-::: indent
-unverändert hochstufige Wurzel + **-ya** &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+
+**(обикновено) корен в ниска степен + -ya**
+
 :::
 
-::::
-
-**Beispiel:** &lt;!-- TODO: Fallback translation --&gt;
+**Примери:**
 
 ::: indent
-**उपस्थाय** "nachdem er (...) hingetreten war / ist" ; (aber ohne Präverb: **स्थित्वा**) &lt;!-- TODO: Fallback translation --&gt;
+**उपनीय** „след като (...) го е придobil / е придobil“
+
+**प्रभूय** „след като (...) е изпъкнал / е бил“ „след като (...) е имал власт“
+
+**प्राप्य** „след като (...) е придobil / е придobil“
 :::
 
-#### 22.2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten &lt;!-- TODO: Fallback translation --&gt;
+#### 22.2.2.2. Корени с -ā
 
-:::: grammar-box
+::: grammar-box
 
-::: indent
-tiefstufige Wurzel + **-tya** &lt;!-- TODO: Fallback translation --&gt;
+**непроменен корен в висока степен + -ya**
+
 :::
 
-::::
-
-**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
+**Пример:**
 
 ::: indent
-**प्रस्तुत्य** "nachdem er (...) laut gepriesen hat / hatte" &lt;!-- TODO: Fallback translation --&gt;
-
-**विस्मृत्य** "nachdem er (...) vergessen hat / hatte" &lt;!-- TODO: Fallback translation --&gt;
-
-**संस्कृत्य** "nachdem er (...) fürs Opfer zubereitet hat / hatte" &lt;!-- TODO: Fallback translation --&gt;
+**उपस्थाय** „след като (...) е стъпил / е стъпил“ ; (но без предикат: **स्थित्वा**)
 :::
 
-#### 22.2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten &lt;!-- TODO: Fallback translation --&gt;
+#### 22.2.2.3. Корени, които в ниска степен завършват на късо -i, -u, -ṛ
 
-:::: grammar-box
+::: grammar-box
 
-**Optionell:** &lt;!-- TODO: Fallback translation --&gt;
+**корен в ниска степен + -tya**
 
-::: indent
-Wurzel auf **-am** / **-an** + **-ya** &lt;!-- TODO: Fallback translation --&gt;
 :::
 
-oder: &lt;!-- TODO: Fallback translation --&gt;
+**Примери:**
 
 ::: indent
-Wurzel auf **-a** + **-tya** &lt;!-- TODO: Fallback translation --&gt;
+**प्रस्तुत्य** „след като (...) е възпял / е възпял“
+
+**विस्मृत्य** „след като (...) е забравил / е забравил“
+
+**संस्कृत्य** „след като (...) е приготвил / е приготвил за жертвоприношението“
 :::
 
-::::
+#### 22.2.2.4. Корени с -am / -an, които в ниска степен завършват на -a
 
-**Beispiel:** &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
 
-::: indent
-**विगम्य** oder **विगत्य** "nachdem er (...) vergangen ist / war" &lt;!-- TODO: Fallback translation --&gt;
+**По избор:**
+
+Корен с **-am** / **-an** + **-ya**
+
+или:
+
+Корен с **-a** + **-tya**
+
 :::
 
-## 22.3. Речник
-
-**काम m.:** Wunsch, Begehren; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott &lt;!-- TODO: Fallback translation --&gt;
+**Пример:**
 
 ::: indent
-**कामम्** Akk. adverbiell: nach Wunsch, nach Herzenslust &lt;!-- TODO: Fallback translation --&gt;
+**विगम्य** или **विगत्य** „след като (...) е изминал / е бил“
+:::
+
+## 22.3. Списък на думите
+
+**काम м.р.:** желание, желание; желано дарение, удоволствие на сетивата, любов, бог на любовта
+
+::: indent
+**कामम्** Вин. п. наречие: по желание, по свое желание
 :::
 
 ::: media
 ![](/images/lekt2202.jpg)
-Abb.: कामदेवः
-(Bildquelle: [Details](/licenses#lekt2202)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: कामदेवः
+19 век
+(Източник на изображението: [Подробности](/bg/licenses#lekt2202))
 :::
 
-**शक् 5 P  शक्नोति Pass.  शक्यते PPP  शक्त Inf.  शक्तुम् :** fähig sein, können &lt;!-- TODO: Fallback translation --&gt;
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+**शक् 5 P  शक्नोति Pass.  शक्यते PPP  शक्त Inf.  शक्तुम् :** способен да бъде, може
+
+от това:
 
 ::: indent
-**शक्ति f.:** das Können, Vermögen, Fähigkeit, Kraft; auch: göttliche Kraft, personifiziert als weibliche Begleiterin insbes. von **शिव** &lt;!-- TODO: Fallback translation --&gt;
+**शक्ति ж.р.:** способността, могъществото, способността, силата; също: божествена сила, персонифицирана като женски спътник особено на **शिव**
 
-**शक्र m.:** der Mächtige (Beiname von **इन्द्र**) &lt;!-- TODO: Fallback translation --&gt;
+**शक्र м.р.:** могъщият (епитет на **इन्द्र**)
 :::
 
 ::: media
 ![](/images/lekt2203.jpg)
-Abb.: दुर्गाशक्तिः
-(Bildquelle: [Details](/licenses#lekt2203)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: दुर्गाशक्तिः
+Колката = কলকাতা
+(Източник на изображението: [Подробности](/bg/licenses#lekt2203))
 :::
 
-**अर्ह 1 P  अर्हति Pass.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird **अर्ह्** + Infinitiv oft als milder Befehl verwendet: "Du solltest") &lt;!-- TODO: Fallback translation --&gt;
+
+**अर्ह 1 P  अर्हति Pass.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** заслужава нещо (да бъде достоен за нещо), има право, е длъжен да, трябва (във второто лице **अर्ह्** + инфинитив често се използва като мек заповед: "Трябва да")
 
 ::: indent
-**अर्हन्त् 3** Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat &lt;!-- TODO: Fallback translation --&gt;
+**अर्हन्त् 3** прич. наст. време, страдателен залог: достоен. В будизма и джайнизма: човек, който е достигнал окончателното освобождение
 :::
 
-**व्रत n.:** Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (**देवदासी**) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige **व्रत** heute: Fasten; Enthaltsamkeit von Speisen, die man liebt; sexuelle Enthaltsamkeit; Lesen heiliger Schriften; Vollzug bestimmter Riten; Speisung von Brahmanen u. ä. Kurz zu den **व्रत**: Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von **व्रत** und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!) &lt;!-- TODO: Fallback translation --&gt;
+**व्रत ср.р.:** обет, религиозен дълг, религиозно наблюдение (обещавате нещо на божеството, за да получите нещо от него. Пример: майка обещава да даде дъщеря си като храм-проститутка (**देवदासी**), ако дъщеря ѝ оздравее. Важни **व्रत** днес: пост; въздържание от храни, които обичате; сексуално въздържание; четене на свещени писания; извършване на определени ритуали; подхранване на брахмани и т.н. Кратко за **व्रत**: Walker, Hindu World, том II, стр. 581 сл. Подробно: P. V. Kane: History of Dharmaśāstra, том 5,1, стр. 1 - 462. Там стр. 253 - 462 списък на **व्रत** и религиозни празници ("следният списък ... не претендира да бъде изчерпателен" !!!)
 
-**चर् 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: चर् 1 P चरति Pass.  चर्यते PPP  चरित Inf.  चरितुम्) :** weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. **व्रतं चर्**: ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit) &lt;!-- TODO: Fallback translation --&gt;
+**चर् 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Санскрит: चर् 1 P चरति Pass.  चर्यते PPP  चरित Inf.  चरितुम्) :** пася, блуждая, движа се, движа, действа, упражнявам нещо, извършвам (напр. **व्रतं चर्**: практикувам обет, особено сексуално въздържание)
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
 ::: indent
-**चर ३:** beweglich; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen) &lt;!-- TODO: Fallback translation --&gt;
+**चर ३:** подвижен; ср.р.: подвижното = животни (за разлика от растенията)
 
-**चरण n., m.:** Fuß &lt;!-- TODO: Fallback translation --&gt;
+**चरण ср.р., м.р.:** крак
 
-**चरित n.:** Lebenswandel, Lebenstaten &lt;!-- TODO: Fallback translation --&gt;
+**चरित ср.р.:** начин на живот, житейски постижения
 
-**ब्रह्मचर्य n.:** Vollzug des Veda (**ब्रह्मन्**) = Studium des Veda im ersten Lebensstadium (dem des **ब्रह्मचारिन्**), welches strenge sexuelle Enthaltsamkeit erfordert; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel &lt;!-- TODO: Fallback translation --&gt;
+**ब्रह्मचर्य ср.р.:** извършване на Веда (**ब्रह्मन्**) = изучаване на Веда в първия етап на живота (на **ब्रह्मचारिन्**), който изисква строго сексуално въздържание; следователно също: сексуално въздържание, celibatен начин на живот
 :::
 
 ::: media
 ![](/images/lekt2201.jpg)
-Abb.: धेनवश्चरन्ति
-(Bildquelle: [Details](/licenses#lekt2201)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: धेनवश्चरन्ति
+Гоа = गोंय
+(Източник на изображението: [Подробности](/bg/licenses#lekt2201))
 :::
 
 ## 22.4. Упражнение
 
-**A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:** &lt;!-- TODO: Fallback translation --&gt;
+**А) Образувате и преведете абсолутни конструкции към следните глаголи:**
 
 1.  आप्
 2.  प्राप्
@@ -226,7 +222,7 @@ Abb.: धेनवश्चरन्ति
 6.  संस्कृ
 7.  कृ
 8.  गम्
-9.  उपगम् (2 Formen) &lt;!-- TODO: Fallback translation --&gt;
+9.  उपगम् (2 форми)
 10.  जि
 11.  विजि
 12.  तन्
@@ -255,7 +251,7 @@ Abb.: धेनवश्चरन्ति
 35.  प्रवद्
 36.  हन्
 
-**B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:** &lt;!-- TODO: Fallback translation --&gt;
+**Б) Преведете и разложете санскритските съставни думи:**
 
 अन्नं पक्त्वा ब्राह्मणदासो ऽत्ति ॥१॥
 
@@ -277,23 +273,21 @@ Abb.: धेनवश्चरन्ति
 
 पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥
 
-**C) Machen Sie aus obigen Sätzen (außer Sätze 8 und 10) Passivkonstruktionen** &lt;!-- TODO: Fallback translation --&gt;
+**В) Образувате страдателни конструкции от горните изречения (с изключение на изречения 8 и 10)**
 
 ::: media
 ![](/images/lekt2204.jpg)
-Abb.: अन्नं पक्त्वा
-(Bildquelle: [Details](/licenses#lekt2204)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: अन्नं पक्त्वा
+(Източник на изображението: [Подробности](/bg/licenses#lekt2204))
 :::
 
 ::: deleteme-box
 
-### Източници
-**lekt2201:** Goa = गोंय [Bildquelle: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2201:** Goa = गोंय [Източник на изображението: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Посетено на 2008-12-12. -- Лиценз Creative Commons (Attribution, Non-Commercial, No Derivative Works)]
 
-**lekt2202:** 19. Jhdt [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2202:** 19. век [Източник на изображението: Уикипедия, Обществено достояние]
 
-**lekt2203:** Kolkatta = কলকাতা [Bildquelle: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2203:** Калкута = কলকাতা [Източник на изображението: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Посетено на 2008-12-12. -- Лиценз Creative Commons (Attribution, Non-Commercial, No Derivative Works)]
 
-**lekt2204:** [Bildquelle: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2204:** [Източник на изображението: Curt Carnemark / Световна банка. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Посетено на 2008-12-12. -- Лиценз Creative Commons (Attribution, Non-Commercial, No Derivative Works)]
 :::
-

@@ -131,11 +131,12 @@ De acuerdo con la obra fundamental:
 ::: media
 ![](/images/lekt5601.jpg)
 Fig.:
-(Fuente de la imagen: [Detalles](/licenses#lekt5601))
+Profesor de Lingüística Comparada, Universidad de Erlangen-Núremberg (1955 - 1983)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5601))
 :::
 
 ::: indent
-Hoffmann, Karl <1915 - 1996>: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
+Hoffmann, Karl &lt;1915 - 1996&gt;: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
 :::
 
 el injuntivo en el Veda posee las siguientes propiedades:
@@ -177,7 +178,8 @@ Ejemplos:
 ::: media
 ![](/images/lekt5602.jpg)
 Fig.: क्लैब्यं मा स्म गमः
-(Fuente de la imagen: [Detalles](/licenses#lekt5602))
+Póster (Ernesto "Che" Guevara) de un partido político en Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). «La traducción aproximada de lo escrito en él sería: El martirio es una experiencia fascinante para un revolucionario. Y un recurso desalentador para un cobarde. Che no es un modelo a seguir para los cobardes.»
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5602))
 :::
 
 Ambos ejemplos tienen sentido prohibitivo. El Injuntivo Aoristo se emplea aquí en su significado original. (El predominio del Injuntivo Aoristo en este tipo de oraciones quizás se explique por la mayor frecuencia de las oraciones prohibitivas frente a las inhibitivas, aunque esta cuestión debería investigarse aún para el sánscrito clásico.)
@@ -196,14 +198,14 @@ Ambos ejemplos tienen sentido prohibitivo. El Injuntivo Aoristo se emplea aquí 
 Además, existen otras formas menos frecuentes de oraciones prohibitivas; véase, por ejemplo:
 
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) <1849-1913>: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
 :::
 ::::
 
 ::: media
 ![](/images/lekt5603.jpg)
 Fig.: अलं विषादेन
-(Fuente de la imagen: [Detalles](/licenses#lekt5603))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5603))
 :::
 
 ## 56.4. स्म
@@ -307,7 +309,6 @@ A) Determine y traduzca las siguientes formas sin utilizar materiales de ayuda (
 
 ::: deleteme-box
 
-### Fuentes
 
 **lekt5601:** Profesor de Lingüística Comparada, Universidad de Erlangen-Núremberg (1955 - 1983) [Fuente de la imagen: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Acceso el 27-02-2009]
 

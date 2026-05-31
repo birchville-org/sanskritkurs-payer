@@ -1,88 +1,93 @@
 ---
+title: Lección 29
+subtitle: "Uso del Parasmaipada (परस्मैपद) y Ātmanepada (आत्मनेपद) en la Causativa"
 lesson_id: 29
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 29
 
-## 29.1. Uso del Parasmaipada y Ātmanepada en el Causativo
+## 29.1. Uso del Parasmaipada (परस्मैपद) y Ātmanepada (आत्मनेपद) en la Causativa
+
 
 ::: grammar-box
-**El causativo es, con pocas excepciones, Ubhayapada (de doble conjugación)**
+**La Causativa es, con pocas excepciones, Ubhayapada (उभयपद)**
 :::
 
-Reglas para el uso del Ātmanepada en el causativo:
 
 ::: grammar-box
-**En el causativo se utiliza el Ātmanepada:**
-1. Cuando el resultado de la acción causada beneficia al causante:
+**En la Causativa se utiliza el Ātmanepada (आत्मनेपद):**
+
+**1. Cuando el fruto de la acción causada beneficia al causante:**
 :::
 
 Ejemplo:
 
-रामः कटं कारयते = "Rāma hace que se fabrique una estera para sí (en su propio interés)"
+रामः कटं कारयते = "Rāma hace que se haga una estera para sí (en su propio interés)"
 
-::: grammar-box
-2. Cuando el causativo de verbos transitivos se usa en sentido reflexivo ("mostrarse", "dejarse oír", etc.), o bien cuando el objeto del verbo simple es el Agente (कर्तृ) del causativo:
-:::
+**2. Cuando la Causativa de verbos transitivos se usa reflexivamente ("mostrarse", "dejarse oír", etc.), o cuando el objeto del verbo simple es el Agente (कर्तृ) de la Causativa:**
 
 Ejemplo:
 
 विष्णुर्भक्तान्दर्शयते = "Viṣṇu se muestra a sus devotos"
 
-Resultado: भक्ता विष्णुं पश्यन्ति = "Los devotos ven a Viṣṇu"
+Resultado: भक्ता विष्णुं पश्यन्ति = "Los creyentes ven a Viṣṇu"
 
-Las reglas corresponden, por tanto, en general a las reglas para el uso del Ātmanepada en los verbos Ubhayapada (de doble conjugación).
 
-## 29.2. Lista de vocabulario
+Las reglas corresponden, por lo tanto, en general a las reglas para el uso del Ātmanepada (आत्मनेपद) en verbos Ubhayapada (उभयपद).
 
-Prefijos:
+## 29.2. Lista de palabras
+
+Preposiciones:
 
 ::: indent
-उद्° : hacia arriba, en alto, hacia fuera, de-
+उद्° : sobre, hacia arriba, en alto, hacia fuera, de, extraer-
 
-परि° : alrededor, en torno (lugar, tiempo), por todos lados
+परि° : alrededor, por (lugar, tiempo), por ahí
 :::
 
-भू + परि 1P परिभवति : (convertirse alrededor de alguien = cercar =) dominar, vencer; menospreciar, despreciar
+भू + परि 1P परिभवति : (convertirse alrededor de alguien = rodear =) dominar, vencer; ignorar, menospreciar
 
 अवज्ञान n.: menosprecio
 
 गुप्त 3: protegido, resguardado
 
-गृहस्थ 3: que se encuentra en la casa; m. padre de familia (persona que se encuentra en el segundo आश्रम)
+गृहस्थ 3: en la casa; m. padre de familia (alguien que se encuentra en el 2. आश्रम)
 
-ग्रस् 1Ā ग्रसते : devorar, comerse
+ग्रस् 1Ā ग्रसते : consumir, devorar
 
 ::: indent
 Fut. ग्रसिष्यते  
-Pass. ग्रस्यते  
+Pás. ग्रस्यते  
 Caus. ग्रासयति  
 PPP ग्रस्त  
 Inf. ग्रसितुम्
 :::
 
-तीक्ष्ण 3: "salvaje", afilado, puntiagudo, severo, intenso, mordaz
+तीक्ष्ण 3: "salvaje", agudo, afilado, severo, intenso, mordaz
 
-न्याय m.: norma, regla, forma correcta y adecuada; método, lógica (de इ + नि)
+न्याय m.: norma, regla, manera correcta; método, lógica (de इ + नि)
 
 परिव्राजक m.: vagabundo, monje errante, peregrino
 
 ::: media
 ![](/images/lekt2903.jpg)
 Fig.: परिव्राजकाः
-(Fuente de la imagen: [Detalles](/licenses#lekt2903))
+Pushkar = पुष्कर
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2903))
 :::
 
-पालयति : también equivalente en significado con पाति
+पालयति : también sinónimo con  पाति
 
-पुनर् Indekl.: de nuevo, una y otra vez, de vuelta, otra vez; en cambio, pero (antes de sonoras excepto r-: पुनर्)
+पुनर् Indec.: de nuevo, una y otra vez, de vuelta, otra vez; en cambio, pero (antes de sonidos sonoros excepto r-: पुनर्)
 
 प्रजा f.: generación, nacimiento, descendencia
 
 मत्स्य m.: pez
 
-De ello:
+de ello:
 ::: indent
 मात्स्य 3: perteneciente al pez (a los peces)
 :::
@@ -90,26 +95,26 @@ De ello:
 ::: media
 ![](/images/lekt2901.jpg)
 Fig.: मत्स्यः
-(Fuente de la imagen: [Detalles](/licenses#lekt2901))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2901))
 :::
 
 मृदु  3 (f.: मृद्वी): suave, benigno, blando; lento, débil
 
-यथा Adv.: como, por así decirlo
+यथा Adv.: cómo, como si
 
-रम् 1Ā रमते : permanecer quieto, descansar, detenerse; encontrar placer, deleitarse
+रम् 1Ā रमते : permanecer quieto, descansar, permanecer; encontrar placer, deleitarse
 
 ::: indent
 Fut. रंस्यते  
-Pass. रम्यते  
+Pás. रम्यते  
 Caus. रमयति  
 PPP रत  
 Inf. रन्तुम्
 :::
 
-वानप्रस्थ m.: ermitaño del bosque (persona que se encuentra en el tercer आश्रम)
+वानप्रस्थ m.: ermitaño del bosque (alguien que se encuentra en el 3. आश्रम)
 
-शुचि 3: brillante, resplandeciente, fino; m.: pureza
+शुचि 3: resplandeciente, brillante, fino; m.: pureza
 
 पूज् 10P पूजयति : honrar, venerar
 
@@ -119,25 +124,25 @@ PPP पूजित
 
 ## 29.3. Ejercicio de traducción para repaso
 
-Traduzca literalmente a un alemán correcto y memorice los textos en sánscrito:
+Traduzca literalmente a un buen alemán y memorice los textos sánscritos:
 
-1\. Definición de अविद्या (avidyā):
+1\. Definición de अविद्या :
 
-अनित्याशुचिदुःखा**नात्मसु** नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २.५॥
+अनित्याशुचिदुःखा***नात्मसु*** नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २.५॥
 
-Explicación: आत्मसु = Loc. sg. de आत्मन् m. «alma; lo Absoluto, en cuanto se realiza en el individuo».
+Explicación: आत्मसु = Loc. sg. de आत्मन् m. "alma; lo Absoluto, en la medida en que se realiza en el individuo"
 
-2\. कौटिलीयार्थशास्त्र (Kauṭīyārthaśāstra) 1.4. sobre el uso correcto del दण्ड (danda):
+2\. कौटिलीयार्थशास्त्र 1.4. sobre el uso correcto del दण्ड :
 
-तीक्ष्णदण्डो भूताना**मुद्वेजनीयो** भवति ।८।
+तीक्ष्णदण्डो भूताना***मुद्वेजनीयो*** भवति ।८।
 
 मृदुदण्डः परिभूयते ।९।
 
 यथार्हदण्डः पूज्यते ।१०।
 
-सु**विज्ञात**प्रणीतो हि दण्डः प्रजा धर्मार्थकामै**र्योजयति** ।११।
+सु***विज्ञात***प्रणीतो हि दण्डः प्रजा धर्मार्थकामै***र्योजयति*** ।११।
 
-दुष्प्रणीतः **कामक्रोधाभ्याम**वज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति, **किमङ्ग** पुनर्गृहस्थान् ।१२।
+दुष्प्रणीतः ***कामक्रोधाभ्याम***वज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति, ***किमङ्ग*** पुनर्गृहस्थान् ।१२।
 
 अप्रणीतस्तु मात्स्यन्यायमुद्भावयति ।१३।
 
@@ -153,31 +158,31 @@ Explicación: आत्मसु = Loc. sg. de आत्मन् m. «alma; lo 
 
 ::: media
 ![](/images/lekt2902.jpg)
-Fig.: मात्स्यन्याय (Mātsyanyāya):
-(Fuente de la imagen: [Detalles](/licenses#lekt2902))
+Fig.: मात्स्यन्याय:
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2902))
 :::
 
 Explicaciones:
 
-।८। उद्वेजनीय ३ «algo (alguien) ante lo cual se debe temblar».
+।८। उद्वेजनीय ३ "algo (alguien), ante lo cual uno debe temblar"
 
-।११। विज्ञात ॢ «reconocido»; n.: reconocimiento.
+।११। विज्ञात ३ "reconocido"; n.: Reconocimiento
 
-।११। योजयति (Caus. de युज्) «atar, unir con, asociar con».
+।११। योजयति (Caus. de युज्) "engañar, unir con, asociar con"
 
-।१२। कामक्रोधाभ्याम् : Instr., Dat. Abl., Dual masc. de कामक्रोध (Dualdvandva).
+।१२। कामक्रोधाभ्याम् : Instr., Dat. Abl., Dual masc. de कामक्रोध (Dualdvandva)
 
-।१२। किमङ्ग «cuánto más».
+।१२। किमङ्ग "cuánto más"
 
-।१४। बलीयान् : Nom. sg. masc. de बलीयस् ॢ «más fuerte».
+।१४। बलीयान् : Nom. sg. masc. de बलीयस् ३ "más fuerte"
 
-।१६। चतुर् «cuatro» como primer miembro de un compuesto.
+।१६। चतुर् "cuatro" como primer miembro de un compuesto
 
-राज्ञा Instr. sg. masc. de राजन् m. «rey».
+राज्ञा Instr. sg. masc. de राजन् m. "rey"
 
-स्वेषु : Lok. plur. masc. / neutr. de स्व ॢ «propio (mío, tuyo, suyo, etc.)».
+स्वेषु : Loc. plur. masc. / neutr. de स्व ३ "propio (mío, tuyo, suyo, etc.)"
 
-वर्त्मसु : Lok. plur. neutr. de वर्त्मन् n. «camino, vía, senda».
+वर्त्मसु : Loc. plur neutr. de वर्त्मन् n. "camino, vía, sendero"
 
 ## 29.4. Futuro y causativo de las raíces aprendidas hasta ahora
 
@@ -274,12 +279,4 @@ Explicaciones:
 
 ::: deleteme-box
 
-### Fuentes
-
 **lekt2903:** Pushkar = पुष्कर [Fuente de la imagen: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Acceso el 2008-12-20. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual)]
-
-**lekt2901:** रोहू मछली = Labeo rohita Hamilton [Fuente de la imagen: Khalid Mahmood / Wikipedia. Licencia GNU FDL]
-
-**lekt2902:** (Dibujo: Namcha Payer, 2002-11)
-
-:::

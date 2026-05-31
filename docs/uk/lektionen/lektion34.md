@@ -1,199 +1,199 @@
 ---
-title: Lektion 34
+title: Урок 34
 lesson_id: 34
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+---
 
-# Lektion 34
+# Урок 34
 
-## 34.1. Das Perfekt (लिट्)
+## 34.1. Дієслово минулого часу (लिट्)
 
-Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip. &lt;!-- TODO: Fallback translation --&gt;
-
-::: grammar-box
-Es gibt zwei Arten der Perfektbildung: &lt;!-- TODO: Fallback translation --&gt;
-*   das reduplizierte Perfekt = द्वित्वलिट् &lt;!-- TODO: Fallback translation --&gt;
-*   das periphrastische Perfekt = अनुप्रयोगलिट् &lt;!-- TODO: Fallback translation --&gt;
-:::
-::: grammar-box
-Das periphrastische Perfekt (अनुप्रयोगलिट्) wird gebraucht: &lt;!-- TODO: Fallback translation --&gt;
-1. bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa) &lt;!-- TODO: Fallback translation --&gt;
-2. bei Коріньn, die mit einem langen Vokal (außer ā-) beginnen, bzw. mit einem Vokal (außer a-) vor zwei Konsonanten &lt;!-- TODO: Fallback translation --&gt;
-3. bei einigen sonstigen Коріньn &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-## 34.2. Das reduplizierte Perfekt (द्वित्वलिट्)
-
-### 34.2.1. Основаabstufung
+У класичному санскриті від основи минулого часу існують лише форма дійсного способу та дієприкметник.
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
-
-**starker Stamm:** Singular Parasmaipada <!-- TODO: Fallback translation -->
-*   **reduplizierte hochstufige bzw. dehnstufige Корінь + Perfektendung** <!-- TODO: Fallback translation -->
-
-**schwacher Stamm:** alle übrigen Formen <!-- TODO: Fallback translation -->
-*   **reduplizierte tiefstufige Корінь + Perfektendung** <!-- TODO: Fallback translation -->
+**Існує два типи утворення минулого часу:**
+*   **подвоєне минуле час = द्वित्वलिट्**
+*   **перифрастичне минуле час = अनुप्रयोगलिट्**
 :::
 ::: grammar-box
-**Generell (auch außerhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant** <!-- TODO: Fallback translation -->
-
-**Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:** <!-- TODO: Fallback translation -->
-*   **a-Konsonant** <!-- TODO: Fallback translation -->
-*   **ā-Konsonant** <!-- TODO: Fallback translation -->
+**Перифрастичне минуле час (अनुप्रयोगलिट्) вживається:**
+1. **при похідних змаганнях (каузатив, десидератив, фрекентатив, денумінативи)**
+2. **при коренях, що починаються з довгого голосного (окрім ā-) або з голосного (окрім a-) перед двома приголосними**
+3. **при деяких інших коренях**
 :::
 
-### 34.2.2. Die Perfektendungen
+## 34.2. Подвоєне перфектне час (द्वित्वलिट्)
+
+### 34.2.1. Ступенювання кореня
+
+::: grammar-box
+**Утворення:**
+
+**сильний корінь:** однина Parasmaipada
+*   **подвоєний корінь у ступені гайя або діргя + закінчення перфекту**
+
+**слабкий корінь:** усі інші форми
+*   **подвоєний корінь у ступені гуна + закінчення перфекту**
+:::
+::: grammar-box
+**Загалом (навіть поза перфектом) не мають ступенювання корені форми:**
+*   **(співзвучний)-співзвучний-довгий-голосний-співзвучний**
+*   **(співзвучний)-співзвучний-голосний-співзвучний-співзвучний**
+
+**У перфекті також не мають ступенювання корені форми:**
+*   **a-співзвучний**
+*   **ā-співзвучний**
+:::
+
+### 34.2.2. Закінчення перфекту
 
 :::: grammar-box
 
-| | 3. Однина | 3. Множина |
+| | 3. однина | 3. множина |
 | :--- | :--- | :--- |
-| **Parasmaipada** | **-a** | **-ur** |
-| **Ātmanepada** | **-e** | **-re** |
+| **Парасмайпада** | **-a** | **-ur** |
+| **Ātманепада** | **-e** | **-re** |
 
 ::::
 
-### 34.2.3. Bindevokal -i-
+### 34.2.3. Сполучний голосний -i-
 
 ::: grammar-box
-Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln. &lt;!-- TODO: Fallback translation --&gt;
+**Перед закінченням 3-ї ос. pl.Ā (-re) завжди виступає сполучний голосний -i-, перед іншими приголосними на початку закінчень у множині більшості коренів.**
 :::
 
-### 34.2.4. Reduplikation konsonantisch anlautender Коріньn
+### 34.2.4. Подвокальнування коренів, що починаються на приголосний
 
 ::: grammar-box
-**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.** <!-- TODO: Fallback translation -->
+**Для подвокальнування приголосних на початку діють правила, наведені в [Урок 33](lektion33.md).**
 
-**Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.** <!-- TODO: Fallback translation -->
+**Подвокальний голосник при коренях, що починаються на приголосний, є короткий голосник кореня.**
 
-**Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.** <!-- TODO: Fallback translation -->
+**Дифтонги перед приголосним зводяться до відповідного короткого голосника низького ступеня.**
 
-**ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.** <!-- TODO: Fallback translation -->
+**ṛ, ṝ, ḷ та кінцеві дифтонги подвоковуються через -a-.**
 :::
 
-Beispiele: <!-- TODO: Fallback translation -->
+Приклади:
 
 :::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| भिद् | बिभेद | <!-- TODO: Fallback translation -->
-| मुच् | मुमोच | <!-- TODO: Fallback translation -->
-| भृ | बभार | <!-- TODO: Fallback translation -->
-
-::::
-
-::: grammar-box
-**Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".** <!-- TODO: Fallback translation -->
-:::
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::: grammar-box
-
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| वच् | उवाच[[br]]u-vāc-a | ऊचुर्[[br]]u + uc-ur | <!-- TODO: Fallback translation -->
-| यज् | इयाज[[br]]i-yāj-a | ईजुर्[[br]]i + ij-ur | <!-- TODO: Fallback translation -->
-
-::::
-
-### 34.2.5. Reduplikation vokalisch anlautender Коріньn
-
-::: grammar-box
-**1. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.** <!-- TODO: Fallback translation -->
-:::
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::: grammar-box
-
-| Wurzel | 3. sg. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| अस् 2 "sein" und अस् 4 "werfen" | आस[[br]]a + as-a | <!-- TODO: Fallback translation -->
+| Корінь | 3. ос. Perf. P. |
+| :--- | :--- |
+| भिद् | ***बि***भेद |
+| मुच् | ***मु***मोच |
+| भृ | ***ब***भार |
 
 ::::
 
 ::: grammar-box
-**2. Wurzeln mit anlautendem i- haben als Reduplikationssilbe im starken Stamm iy-, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- "verschmilzt. Analoges gilt für anlautendes u-.** <!-- TODO: Fallback translation -->
+**Деякі корені, що починаються на y- або v-, подвоковуються через i- або u-, які в слабких формах "зливається" з голосником кореня.**
 :::
 
-Beispiele: <!-- TODO: Fallback translation -->
+Приклади:
 
 :::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| इ | इयाय[[br]]iy + ai + a | ईयुर्[[br]]i + iy-ur | <!-- TODO: Fallback translation -->
-| इष् | इयेष[[br]]iy-eṣ-a | ईषुर्[[br]]i + iṣ-ur | <!-- TODO: Fallback translation -->
-
-::::
-
-::: grammar-box
-**3. Wurzeln die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben als Reduplikationssilbe ān-** <!-- TODO: Fallback translation -->
-:::
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::: grammar-box
-
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| अञ्ज् | आनञ्ज | आनञ्जुर् | <!-- TODO: Fallback translation -->
-| एध् | आनर्ध | आनृधुर् | <!-- TODO: Fallback translation -->
-
-::::
-
-## 34.3. Typen des reduplizierten Perfekts
-
-| Wurzel[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | &lt;!-- TODO: Fallback translation --&gt;
-*   | :--- | :--- | :--- | &lt;!-- TODO: Fallback translation --&gt;
-*   | **añj**[[br]]अञ्ज् | **ānañja**[[br]]आनञ्ज | **ānañjuḥ**[[br]]आनञ्जुर् | &lt;!-- TODO: Fallback translation --&gt;
-*   | **ṛdh**[[br]]ऋध् | **ānardha**[[br]]आनर्ध | **ānṛdhuḥ**[[br]]आनृधुर् | &lt;!-- TODO: Fallback translation --&gt;
-
-## 34.4. Perfekt Typ I: Perfekt ohne Основаabstufung
-
-::: grammar-box
-Perfekt Typ I (ohne Stammabstufung) haben Wurzeln der Typen: &lt;!-- TODO: Fallback translation --&gt;
-*   (Konsonant)-Konsonant-Langvokal-Konsonant &lt;!-- TODO: Fallback translation --&gt;
-*   (Konsonant)-Konsonant-Vokal-Konsonant-Konsonant &lt;!-- TODO: Fallback translation --&gt;
-*   a-Konsonant &lt;!-- TODO: Fallback translation --&gt;
-*   ā-Konsonant &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-
-:::: grammar-box
-
-| Корінь | 3. sg. Perf. | 3. pl. Perf. |
+| Корінь | 3. ос. Perf. P. | 3. мн. Perf. P. |
 | :--- | :--- | :--- |
-| **bandh**[[br]]बन्ध् ९प | बबन्ध[[br]]ba-bandh-a | बबन्धुर् |
-| **jīv**[[br]]जीव् १प | जिजीव | जिजीवुर् |
-| **āp**[[br]]आप् ५प | आप[[br]]a + āp-a | आपुर् |
-| अस् 2P "sein"[[br]]अस् 4 "werfen" | आस[[br]]a + as-a | आसुर् |
-| अश् | आनशे[[br]]unregelmäßige Reduplikation! | आनशिरे |
+| वच् | उवाच[[br]]u-vāc-a | ऊचुर्[[br]]u + uc-ur |
+| यज् | इयाज[[br]]i-yāj-a | ईजुर्[[br]]i + ij-ur |
 
 ::::
 
-## 34.5. Perfekt Typ II: Starker Основа Hochstufe, schwacher Основа Tiefstufe
+### 34.2.5. Подвокальне повторення коренів, що починаються на голосний
 
 ::: grammar-box
-Wird gebildet von Wurzeln der Form: &lt;!-- TODO: Fallback translation --&gt;
-*   (Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant &lt;!-- TODO: Fallback translation --&gt;
-
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
-*   **starker Основа:** Hochstufe &lt;!-- TODO: Fallback translation --&gt;
-*   **schwacher Основа:** Tiefstufe &lt;!-- TODO: Fallback translation --&gt;
+**1. Початковий a-, ā- повторюється з a-, отже, з’являється ā-.**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Приклади:
 
 :::: grammar-box
 
-| Корінь | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Корінь | 3. os. Perf. P. |
+| :--- | :--- |
+| अस् 2 "бути" та अस् 4 "кидати" | आस[[br]]a + as-a |
+
+::::
+
+::: grammar-box
+**2. Корені з початковим i- мають у сильному стовпі syllabу повторення iy-, у слабкому стовпі i-, яка "зливається" з голосним кореня до ī-. Аналогічно для початкового u-.**
+:::
+
+Приклади:
+
+:::: grammar-box
+
+| Корінь | 3. os. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| इ | इयाय[[br]]iy + ai + a | ईयुर्[[br]]i + iy-ur |
+| इष् | इयेष[[br]]iy-eṣ-a | ईषुर्[[br]]i + iṣ-ur |
+
+::::
+
+::: grammar-box
+**3. Корені, що починаються на a- перед двома приголосними або на ṛ-, мають syllabу повторення ān-**
+:::
+
+Приклади:
+
+:::: grammar-box
+
+| Корінь | 3. os. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| अञ्ज् | आनञ्ज | आनञ्जुर् |
+| एध् | आनर्ध | आनृधुर् |
+
+::::
+
+## 34.3. Типи перфекту з редуплікацією
+
+Принцип класифікації: Особливості чергування кореня:
+*   Перфект без чергування кореня: Тип I
+*   Перфект із чергуванням кореня: Типи II - V
+*   Нерегулярні утворення перфекту
+
+## 34.4. Перфект типу I: Перфект без чергування основи
+
+::: grammar-box
+**Перфект типу I (без чергування основи) мають корені типів:**
+*   **(Співзвук)-Співзвук-Довгийголосний-Співзвук**
+*   **(Співзвук)-Співзвук-Голосний-Співзвук-Співзвук**
+*   **a-Співзвук**
+*   **ā-Співзвук**
+:::
+
+Приклади:
+
+:::: grammar-box
+
+| Корінь | 3. ос. пер. | 3. мн. пер. |
+| :--- | :--- | :--- |
+| बन्ध् 9P | बबन्ध[[br]]ba-bandh-a | बबन्धुर् |
+| जीव् 1P | जिजीव | जिजीवुर् |
+| आप् 5P | आप[[br]]a + āp-a | आपुर् |
+| अस् 2P "бути"[[br]]अस् 4 "кидати" | आस[[br]]a + as-a | आसुर् |
+| अश् | आनशे[[br]]нерегулярна редуплікація! | आनशिरे |
+
+::::
+
+## 34.5. Перфект типу II: сильний корінь у піднесеному ступені, слабкий корінь у зниженому ступені
+
+::: grammar-box
+**Утворюється від коренів форми:**
+*   **(співзвучний)-(співзвучний)-i/u/ṛ/ḷ-співзвучний**
+
+**Утворення:**
+*   **сильний корінь: піднесений ступінь**
+*   **слабкий корінь: знижений ступінь**
+:::
+
+Приклади:
+
+:::: grammar-box
+
+| Корінь | 3. ос. перф. актив | 3. мн. ос. перф. актив | 3. ос. перф. медіпассив | 3. мн. ос. перф. медіпассив |
 | :--- | :--- | :--- | :--- | :--- |
 | भिद् | बिभेद | बिभिदुर् | बिभिदे | बिभिदिरे |
 | इष् | इयेष | ईषुर् | | |
@@ -205,82 +205,87 @@ Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 ## 34.6. Словник
 
-Abb.: Sesamum indicum L.
-(Bildquelle: [Details](/licenses#lekt3404)) &lt;!-- TODO: Fallback translation --&gt;
+**क्षिति ж.р. = पृथ्वी = मही = भूमी**
 
-**शस्य = सस्य n. sg. u. pl.:** Saat, Feldfrucht, Getreide &lt;!-- TODO: Fallback translation --&gt;
+**शस्य = सस्य ч. од. і мн.:** насіння, врожай, зерно
 
 ::: media
 ![](/images/lekt3406.jpg)
-Abb.: सस्यम्
-(Bildquelle: [Details](/licenses#lekt3406)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: सस्यम्
+Рисове поле в Індії.
+(Джерело зображення: [Деталі](/uk/licenses#lekt3406))
 :::
 
-**यावत् :** wie lange, wie groß &lt;!-- TODO: Fallback translation --&gt;
+**यावत् :** скільки, як великий
 
-**तावत् :** so lange, so groß &lt;!-- TODO: Fallback translation --&gt;
+**तावत् :** стільки, так великий
 
-**उत्तम 3:** höchster &lt;!-- TODO: Fallback translation --&gt;
+**उत्तम 3:** найвищий
 
-**द्वीप m.n.:** Insel, Kontinent &lt;!-- TODO: Fallback translation --&gt;
+**द्वीप ч.н.од. і мн.:** острів, континент
 
 ::: media
 ![](/images/lekt3405.jpg)
-Abb.: लक्षद्वीपाः
-(Bildquelle: [Details](/licenses#lekt3405)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: लक्षद्वीपाः
+Карта островів Лакшадвіп.
+(Джерело зображення: [Деталі](/uk/licenses#lekt3405))
 :::
 
-**मर्त्य 3:** sterblich (zu **mṛ**) &lt;!-- TODO: Fallback translation --&gt;
+**मर्त्य 3:** смертний (від **मृ**)
 
-**तिल m.:** Sesam(korn) (*Sesamum indicum* L.) &lt;!-- TODO: Fallback translation --&gt;
+**तिल ч.н.од. і мн.:** кунжут (Sesamum indicum L.)
 
 ::: media
 ![](/images/lekt3403.jpg)
-Abb.: तिलाः
-(Bildquelle: [Details](/licenses#lekt3403)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: तिलाः
+Насіння кунжуту.
+(Джерело зображення: [Деталі](/uk/licenses#lekt3403))
 :::
 
 ::: media
 ![](/images/lekt3404.jpg)
-Abb.: *Sesamum indicum* L.
-(Bildquelle: [Details](/licenses#lekt3404)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: Sesamum indicum L.
+Квітуча рослина кунжуту.
+(Джерело зображення: [Деталі](/uk/licenses#lekt3404))
 :::
 
-**स्वर्ण n.:** (schönfarbig =) Gold &lt;!-- TODO: Fallback translation --&gt;
+**स्वर्ण ч.н.од. і мн.:** (яскраво-барвистий =) золото
 
 ::: media
 ![](/images/lekt3402.jpg)
-Abb.: स्वर्णम्
-(Bildquelle: [Details](/licenses#lekt3402)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: स्वर्णम्
+Золотий храм (Хармандір Сахіб), Амрітсар.
+(Джерело зображення: [Деталі](/uk/licenses#lekt3402))
 :::
 
-**निकeten n. -&gt; निकेतन n.:** Wohnstatt, Tempel &lt;!-- TODO: Fallback translation --&gt;
+**निकेतन ч.н.од. і мн.:** місце проживання, храм
 
-**कोटि f.:** Spitze; 10 Millionen &lt;!-- TODO: Fallback translation --&gt;
+**कोटि ж.р.од. і мн.:** вершина; 10 мільйонів
 
-**श्रेष्ठ 3:** bester &lt;!-- TODO: Fallback translation --&gt;
+**श्रेष्ठ 3:** найкращий
 
-**तल m.n.:** Ebene, Fläche &lt;!-- TODO: Fallback translation --&gt;
+**तल ч.н.од. і мн.:** рівнина, площа
 
-**ऋषभ m.:** Stier &lt;!-- TODO: Fallback translation --&gt;
+**ऋषभ ч.н.од. і мн.: бик**
 
 ::: media
 ![](/images/lekt3401.jpg)
-Abb.: ऋषभः
-(Bildquelle: [Details](/licenses#lekt3401)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: ऋषभः
+Статуя бика Нанді, пагорби Чамунді, Місоре.
+(Джерело зображення: [Деталі](/uk/licenses#lekt3401))
 :::
 
-**यम्** 1P **यच्छति** : zurückhalten, halten, darbieten, gewähren &lt;!-- TODO: Fallback translation --&gt;
+**यम् 1P यच्छति :** стримувати, утримувати, пропонувати, надавати
 
-**यम् + प्र** 1P **प्रयच्छति** : hinhalten, anbieten, abliefern &lt;!-- TODO: Fallback translation --&gt;
+**यम् + प्र 1P प्रयच्छति :** простягати, пропонувати, передавати
 
-**या** 2P **याति** : gehen, fahren &lt;!-- TODO: Fallback translation --&gt;
+**या 2P याति :** йти, їхати
 
-**कन्या f.:** Mädchen, Jungfrau &lt;!-- TODO: Fallback translation --&gt;
+**कन्या ж.р.од. і мн.: дівчина, діва**
 
-## 34.7. Вправа
+## 34.7. Вправи
 
-Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden Perfektformen: &lt;!-- TODO: Fallback translation --&gt;
+Утворіть перфектні форми відповідних осіб, чисел та родів до наведених дієслівних форм:
 
 1. रक्षिष्यन्ति
 2. स्रक्ष्यति
@@ -290,7 +295,7 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 6. भनक्ति
 7. लुभ्यन्ति
 8. रुन्धते
-9. रोदितi -&gt; रोदिति &lt;!-- TODO: Fallback translation --&gt;
+9. रोदितi -&gt; रोदिति
 10. बध्नाति
 11. युध्यन्ते
 12. युङ्क्ते
@@ -316,7 +321,7 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 
 ## 34.8. Вправа на переклад
 
-Übersetzen Sie folgenden Text aus dem पद्मपुराण über Gaben an Brahmanen: &lt;!-- TODO: Fallback translation --&gt;
+Перекладіть наведений текст з पद्मपुराण про дарунки брахманам:
 
 क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजो***त्तम*** ।  
 विष्णुलोके सुखं भुङ्क्ते यावदिन्द्रा***श्चतुर्दश*** ॥१॥  
@@ -329,41 +334,40 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 अन्नं वारि द्विजश्रेष्ठ येन दत्तं महीतले ।  
 तेन दत्तानि दानानि सर्वाणि च द्विजर्षभ ॥५॥
 
-Erklärungen: &lt;!-- TODO: Fallback translation --&gt;
+Пояснення:
 
 ::: indent
-**Vokativ sg.** der Maskulina / Neutra auf -a lautet auf -a: z.B. **देव** "Gott!" &lt;!-- TODO: Fallback translation --&gt;
+**Вокатив однини** чоловічого та середнього роду на -a має закінчення -a: наприклад, **देव** "Боже!"
 
-**चतुर्दश** vierzehn &lt;!-- TODO: Fallback translation --&gt;
+**चतुर्दश** чотирнадцять
 
-**सप्त** sieben &lt;!-- TODO: Fallback translation --&gt;
+**सप्त** сім
 
-**जन्म** Nom./Akk. sg. zu **जन्मन् n.** Geburt &lt;!-- TODO: Fallback translation --&gt;
+**जन्म** Називний/знахідний відмінок однини до **जन्मन् n.** народження
 
-**सर्व 3** "alle, ganz" (dekliniert nach Pronominaldeklination) &lt;!-- TODO: Fallback translation --&gt;
+**सर्व 3** "всі, цілий" (відмінюється за займенниковим відмінюванням)
 :::
 
 ::: media
 ![](/images/lekt3407.jpg)
-Abb.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुनर्जन्म न विद्यते ॥४॥
-(Bildquelle: [Details](/licenses#lekt3407)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
+Індуїстський весільний ритуал.
+(Джерело зображення: [Деталі](/uk/licenses#lekt3407))
 :::
 
 ::: deleteme-box
 
-### Джерела
+**lekt3401:** Статуя бика Нанді, пагорби Чамунді, Місоре. [Джерело зображення: Luna Park / Flickr. CC BY-NC-ND]
 
-**lekt3401:** Nandi Bull statue, Chamundi Hills, Mysore. [Bildquelle: Luna Park / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
+**lekt3402:** Золотий храм (Хармандір Сахіб), Амрітсар. [Джерело зображення: Вікіпедія. GNU FDL]
 
-**lekt3402:** Golden Temple (Harmandir Sahib), Amritsar. [Bildquelle: Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3403:** Насіння кунжуту. [Джерело зображення: Вікіпедія. Суспільне надбання]
 
-**lekt3403:** Sesame seeds. [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt3404:** Квітуча рослина кунжуту. [Джерело зображення: Franz Xaver / Вікіпедія. GNU FDL]
 
-**lekt3404:** Sesame plant flowering. [Bildquelle: Franz Xaver / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3405:** Карта островів Лакшадвіп. [Джерело зображення: ЦРУ World Factbook. Суспільне надбання]
 
-**lekt3405:** Lakshadweep Islands Map. [Bildquelle: CIA World Factbook. Public domain] <!-- TODO: Fallback translation -->
+**lekt3406:** Рисове поле в Індії. [Джерело зображення: Ray Witlin / Світовий банк. CC BY-NC-ND]
 
-**lekt3406:** Rice field in India. [Bildquelle: Ray Witlin / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3407:** Hindu wedding ritual. [Bildquelle: BriceFR / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3407:** Індуїстський весільний ритуал. [Джерело зображення: BriceFR / Flickr. CC BY-NC-SA]
 :::

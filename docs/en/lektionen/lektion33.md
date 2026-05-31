@@ -261,7 +261,7 @@ derived from this:
 ::: media
 ![](/images/lekt3306.jpg)
 Fig.: दानम्
-(Image source: [Details](/licenses#lekt3306))
+(Image source: [Details](/en/licenses#lekt3306))
 :::
 
 **दा** + **आ** 3Ā **अदत्ते**: to take (into receipt), to take possession of, to take along
@@ -273,7 +273,7 @@ Fig.: दानम्
 ::: media
 ![](/images/lekt3307.jpg)
 Fig.: सा पुत्रमादाय भारं बिभ्रती गच्छति
-(Image source: [Details](/licenses#lekt3307))
+(Image source: [Details](/en/licenses#lekt3307))
 :::
 
 ***धा*** 3U ***दधाति***: to place, to fix, to allot
@@ -297,7 +297,7 @@ derived from this:
 ::: media
 ![](/images/lekt3305.jpg)
 Fig.: समाधि
-(Image source: [Details](/licenses#lekt3305))
+(Image source: [Details](/en/licenses#lekt3305))
 :::
 
 **पॄ** 3P **पिपर्ति**: to fill, to fulfill
@@ -334,7 +334,7 @@ derived from this:
 ::: media
 ![](/images/lekt3304.jpg)
 Fig.: भयम्
-(Image source: [Details](/licenses#lekt3304))
+(Image source: [Details](/en/licenses#lekt3304))
 :::
 
 **भृ** 3U **बिभर्ति**: to carry, to bring; to sustain, to nourish
@@ -387,7 +387,7 @@ from PPP **हीन**:
 ::: media
 ![](/images/lekt3303.jpg)
 Fig.: हीनयानमेव
-(Image source: [Details](/licenses#lekt3303))
+(Image source: [Details](/en/licenses#lekt3303))
 :::
 
 **हु** 3P **जुहोति**: to pour into the fire (as an offering, esp. melted butter)
@@ -403,7 +403,7 @@ Fig.: हीनयानमेव
 ::: media
 ![](/images/lekt3302.jpg)
 Fig.: घृतमग्नौ जुहोति
-(Image source: [Details](/licenses#lekt3302))
+(Image source: [Details](/en/licenses#lekt3302))
 
 :::
 
@@ -450,7 +450,7 @@ C) Translate and convert singular sentences into plural sentences and vice versa
 ::: media
 ![](/images/lekt3308.jpg)
 Fig.: पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः
-(Image source: [Details](/licenses#lekt3308))
+(Image source: [Details](/en/licenses#lekt3308))
 :::
 
 क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥

@@ -1,30 +1,34 @@
 ---
+title: Lesson 42
+subtitle: "Stems ending in -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 42
 
-## 42.1. Stems ending in -ṛ
+## 42.1. Tribes ending in -ṛ
 
-### 42.1.1. Stems with Lengthened Grade in the Strong Stem
+### 42.1.1. Tribes with lengthened grade in the strong stem
 
 ::: grammar-box
-All masculine nouns ending in *-ṛ*, with the exception of the kinship terms listed under 1.3. This category also includes the following kinship terms:
+All masculines ending in -ṛ with the exception of the kinship terms listed under 1.3. Included here are also the kinship terms:
 
 *   **नप्तृ** m. "grandson"
-*   **भर्तृ** m. "husband (literally: 'maintainer')"
+*   **भर्तृ** m. "husband (lit. supporter)"
 
-The majority of nouns belonging to this class are agent nouns formed with the *kṛt* suffix *-तृ*.
+The majority of the nouns belonging here are agent nouns formed with the कृत्-suffix -तृ.
 
 **Formation:**
 
 *   **Strong stem: -ār**
 *   **Weak stem**
-    *   **before vowels: -r**
-    *   **before consonants: -ṛ**
+    *   **before vowel: -r**
+    *   **before consonant: -ṛ**
 
-Note the irregular formations (marked in red)!
+Note the irregular formations (marked in ***red***)!
 :::
 
 Masculine:
@@ -35,46 +39,46 @@ Masculine:
 
 ::: grammar-box
 
-| | Singular | Plural |
+| | एकवचनम् | बहुवचनम् |
 | :--- | :--- | :--- |
-| Nominative | ***दाता*** | दातारस् |
-| Accusative | दातारम् | ***दातॄन्*** |
-| Instrumental | दात्रा | दातृभिस् |
-| Dative | दात्रे | दातृभ्यस् |
-| Ablative | ***दातुस्*** | दातृभ्यस् |
-| Genitive | ***दातुस्*** | ***दातॄणाम्*** |
-| Locative | ***दातरि*** | दातृषु |
+| प्रथमा | ***दाता*** | दातारस् |
+| द्वितीया | दातारम् | ***दातॄन्*** |
+| तृतीया | दात्रा | दातृभिस् |
+| चतुर्थी | दात्रे | दातृभ्यस् |
+| पञ्चमी | ***दातुस्*** | दातृभ्यस् |
+| षष्ठी | ***दातुस्*** | ***दातॄणाम्*** |
+| सप्तमी | ***दातरि*** | दातृषु |
 
 :::
 
-For an explanation of the irregular formations, see Thumb-Hauschild I,2, pp. 76–81.
+For an explanation of the irregular formations, see Thumb-Hauschild I,2 pp. 76-81
 
 Feminine:
 
 ::: indent
-**स्वसृ** f. is declined like **दातृ**, with the exception of the Accusative (**द्वितीया**) Plural: ***स्वसॄस्***.
+**स्वसृ** f. is declined like **दातृ** with the exception of the accusative (**द्वितीया**) plural: ***स्वसॄस्***.
 :::
 
 ### 42.1.2. Nominal Derivation: कृत् Suffix -तृ
 
 ::: grammar-box
-The very frequently occurring कृत् suffix -तृ is used to form nomina agentis (terms denoting the कर्तृ, or agent) from almost any root or causative stem.
+The very common कृत् suffix -तृ is used to form nominal agents (designations for the कर्तृ) from almost any root or causative stem.
 
 **Formation:**
 
-*   **Guna-strengthened root + -tṛ**
+*   **strong-grade root + -tṛ**
 
 or
 
-*   **Guna-strengthened root / causative stem + i + tṛ**
+*   **strong-grade root / causative stem + i + tṛ**
 :::
 
 Examples:
 
 ::: indent
-**कर्तृ** m. "doer"
+**कर्तृ** m. "agent"
 
-**जेतृ** m. "conqueror"
+**जेतृ** m. "winner"
 
 **धातृ** m. "creator"
 
@@ -86,29 +90,29 @@ Examples:
 ::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Fig.: अयं बोधयिता
-(Image source: [Details](/licenses#lekt4201))
+(Image source: [Details](/en/licenses#lekt4201))
 :::
 
 ::: grammar-box
-Neuter nouns ending in -तृ, though rare, exhibit a partially distinct declension pattern (see Kielhorn, Grammar § 148).
+Rarely occurring neuters in -तृ have a partially independent declension (see Kielhorn, Grammar § 148).
 
-The feminine form of stems ending in -तृ ends in **-त्री** (cf. **देवी**).
+The feminine of stems in -तृ ends in **-त्री** (cf. **देवी**).
 
-For example: **कर्त्री** f. "female doer"
+e.g. **कर्त्री** f. "female agent"
 :::
 
-### 42.1.3. Stems with Strengthened Grade in the Strong Stem
+### 42.1.3. Tribes with strong stem grade
 
 ::: grammar-box
-These include the following kinship terms:
+The following kinship terms belong to this category:
 
 *   **पितृ** m. "father"
 *   **मातृ** f. "mother"
 *   **दुहितृ** f. "daughter"
 *   **भ्रातृ** m. "brother"
-*   **देवृ** m. "brother-in-law (wife's brother)"
-*   **यातृ** f. "sister-in-law (wife's brother's wife)"
-*   **ननान्दृ** f. "sister-in-law (husband's sister)"
+*   **देवृ** m. "husband's brother (brother-in-law of the wife)"
+*   **यातृ** f. "wife of the husband's brother"
+*   **ननान्दृ** f. "sister of the husband (sister-in-law of the wife)"
 
 **Formation:**
 
@@ -132,26 +136,26 @@ Examples:
 | :--- | :--- | :--- | :--- | :--- |
 | प्रथमा | पिता | ***पितरस्*** | माता | ***मातरस्*** |
 | द्वितीया | ***पितरम्*** | पितॄन् | ***मातरम्*** | मातॄस् |
-| Rest wie दातृ | ← | ← | ← | ← |
+| Rest as दातृ | ← | ← | ← | ← |
 
 :::
 
-### 42.1.4. Stems ending in -ṛ in Compounds
+### 42.1.4. Stems ending in -ṛ in compounds
 
 ::: grammar-box
-As the first member (purva-pada) of a compound, nouns ending in **-ṛ** naturally appear in their weak stem form, i.e.:
+As the first member of a compound, nouns ending in -ṛ naturally stand in their weak stem, i.e.
 
-*   **before a consonant: -ṛ**
-*   **before a vowel: -r**
+*   **before consonants: -ṛ**
+*   **before vowels: -r**
 :::
 
 ## 42.2. Word List
 
-प्रकृति f.: (from कृ + प्र) fundamental form, natural state, nature; prime matter, primordial substance
+प्रकृति f.: (from कृ + प्र) basic form, natural state, nature; primordial matter, prime substance
 
-अर्जुन m. Proper name: Arjuna, one of the five sons of पण्डु. Hero in the महाभारत (see Basham, Wonder pp. 409–414)
+अर्जुन m. Proper name: Arjuna, one of the five sons of पण्डु. Hero in the महाभारत (see Basham, Wonder pp. 409 - 414)
 
-स्था + अव 1Ā अवतिष्ठते : to stand apart, to abstain from, to keep away, to remain, to stand
+स्था + अव 1Ā अवतिष्ठते : to abstain from, to keep away from, to keep distant, to remain, to stand
 
 ::: indent
 PPP अवस्थित 3: standing, located
@@ -165,9 +169,9 @@ PPP अवस्थित 3: standing, located
 
 दूत m.: messenger, envoy
 
-इष् (1,4,9) Caus. ***इष्***यति : to send
+इष् (1,4,9) Caus. ***इष***यति : to send
 
-सकाश m.: presence, vicinity
+सकाश m.: presence, presence
 
 शर m.: arrow shaft, arrow
 
@@ -175,7 +179,7 @@ PPP अवस्थित 3: standing, located
 
 ज्ञा + प्रति 9U प्रतिजानाति : to approve, to promise; Ā: to answer, to confirm, to assert, to recognize
 
-चल् 1P चलति : to come into motion
+चल् 1P चलति : to get into motion
 
 ::: indent
 Fut. चलिष्यति  
@@ -195,13 +199,13 @@ Inf. चलितुम्
 
 अन्तरे Adv.: meanwhile
 
-लीला f.: jest, play
+लीला f.: joke, play
 
 यावत् Adv.: how long, during
 
-तावत् Adv.: as long
+तावत् Adv.: as long as
 
-द्विधा । द्वेधा Adv.: twofold, in two parts
+द्विधा । द्वेधा Adv.: double, in two parts
 
 शंस् 1P शंसति : to praise, to command
 
@@ -222,29 +226,29 @@ Inf. शंसितुम्
 ::: media
 ![lekt4202.jpg](/images/lekt4202.jpg)
 Fig.: माता, पिता, पुत्रकः
-(Image source: [Details](/licenses#lekt4202))
+(Image source: [Details](/en/licenses#lekt4202))
 ::: 
 
-भर्तृ m. (from भृ "to bear, to sustain"): Sustainer, provider, husband
+भर्तृ m. (from भृ "to carry, to sustain"): Sustainer, Nourisher, Husband
 
-भार्या f., जाया f., पत्नी f.: Wife (भार्या = gerundive of भृ: "one to be borne, one to be sustained, one entitled to maintenance")
+भार्या f., जाया f. पत्नी f.: Wife (भार्या = gerundive from भृ : one to be carried, one to be sustained, one entitled to maintenance)
 
 पितृ m.: Father
 
-पितृ m. Plural: deceased male ancestors, i.e.,
+पितृ m. Plural: the deceased male ancestors, i.e.,
 
-1.  father, grandfather, great-grandfather
+1.  Father, Grandfather, Great-grandfather
 2.  the progenitors of humanity
 
-Rituals are performed for both, so-called श्राद्ध n. Every day, water and, on certain occasions, rice balls or flour balls (पिण्ड m. "ball") are offered to three male ancestors on each side (paternal and maternal). Thus, the ancestors receive nourishment. The performance of this ceremony is one reason why a man should beget a son. Those connected through this पिण्ड offering are called सपिण्ड (those who share the पिण्ड). सपिण्ड encompasses six generations: three backward (up to the great-grandfather) and three forward (up to the great-grandson).
+Rites are performed for both, so-called श्राद्ध n. Daily, water and, on specific occasions, rice balls or flour balls (पिण्ड m. "balls") are offered to three male ancestors each (paternal and maternal sides). This is so that the ancestors receive nourishment. The performance of this ceremony is one reason why a man should beget a son. Those connected through this पिण्ड-gift are called सपिण्ड (to whom पिण्ड is common). सपिण्ड encompasses six generations: three backward (up to the great-grandfather) and three forward (up to the great-grandson).
 
-तात m.: Daddy
+तात m.: Papa
 
 मातृ f.: Mother
 
 पुत्र m.: Son
 
-दुहितृ f., सुता f.: Daughter
+दुहितृ f. सुता f.: Daughter
 
 नप्तृ m.: Grandson
 
@@ -252,21 +256,21 @@ Rituals are performed for both, so-called श्राद्ध n. Every day, wa
 
 स्वसृ f., भगिनी f.: Sister
 
-देवृ m.: Husband's brother (wife's brother-in-law)
+देवृ m.: Brother of the husband (brother-in-law to the wife)
 
-यातृ m.: Husband's brother's wife
+यातृ m.: Wife of the husband's brother
 
-ननान्दृ f.: Husband's sister
+ननान्दृ f.: Sister of the husband
 
-श्वसुर f.: Father-in-law (in ancient times: only the woman's)
+श्वसुर f.: Father-in-law (in ancient times: only of the wife)
 
 श्वस्रू f.: Mother-in-law (declension follows later)
 
-मातुल m.: Mother's brother (maternal uncle)
+मातुल m.: Maternal uncle (mother's brother)
 
-मातुलानी f.: Wife of mother's brother (maternal uncle's wife)
+मातुलानी f.: Wife of the maternal uncle (maternal uncle's wife)
 
-पितृव्य m.: Father's brother (paternal uncle)
+पितृव्य m.: Paternal uncle (father's brother)
 
 पितामह m.: Paternal grandfather
 
@@ -278,7 +282,7 @@ Rituals are performed for both, so-called श्राद्ध n. Every day, wa
 
 ## 42.3. Exercise
 
-Translate the following:
+Translate:
 
 प्रकृत्यैव यः कर्माणि क्रियमाणानि पश्यति स आत्मानमकर्तरं पश्यति ॥१॥
 
@@ -287,7 +291,7 @@ Translate the following:
 ::: media
 ![lekt4203.jpg](/images/lekt4203.jpg)
 Fig.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
-(Image source: [Details](/licenses#lekt4203))
+(Image source: [Details](/en/licenses#lekt4203))
 :::
 
 आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥
@@ -295,7 +299,7 @@ Fig.: कृष्णस्तस्य लोकस्य पिता मा�
 ::: media
 ![lekt4204.jpg](/images/lekt4204.jpg)
 Fig.: अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति ।
-(Image source: [Details](/licenses#lekt4204))
+(Image source: [Details](/en/licenses#lekt4204))
 :::
 
 कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥
@@ -312,86 +316,85 @@ Fig.: अर्जुनो रथे सीदति । कृष्णो ऽ
 
 ## 42.4. Translation Exercise
 
-***Sītā’s*** Wedding
+***सीता***विवाहः
 
-In ancient times, there was a king named ***Janaka*** in ***Mithilā***. He had a daughter named Sītā. She was unparalleled in beauty and character. Numerous princes, desiring to marry her, sent envoys to Janaka. ॥
+पुरा ***मिथिलायां*** ***जनको*** नाम राजा बभूव । तस्य सुता सीता नाम । सा रूपे शीले चानुपमा बभूव । तां परिणेतुमिछ्हन्तो ऽनेके राजकुमाराः जनकाय दूतान्प्रेषयामासुः ॥
 
-Janaka, however, wished to give her to a prince endowed with valor. Therefore, he arranged for her to be won through an act of strength. Thus it was -- there was a ***heavy*** ***bow*** in his possession. Whoever could draw this bow and fix an arrow upon it, he would give his daughter in marriage, so Janaka vowed. ॥
+जनकस्तु तां वीर्यसम्पन्नाय क्षत्रियकुमाराय दातुमैच्छत् । अतः स तां वीर्येण क्रेतव्यामकल्पयत् । तथा हि -- तस्य सकाशे ***गुरुतरं*** किमपि ***धनुरा***सीत् । य इदं धनुरुद्धृत्यास्मिन्शरं सन्धत्ते स मम सुतां परिणेष्यतीति जनकः प्रतिजज्ञे ॥
 
-Hearing this vow, hundreds of princes ***by the hundreds*** assembled. Yet, not one of them was able to even move that bow. It is known that ***Rāvaṇa***, the lord of ***Laṅkā***, also approached with great arrogance but returned humiliated. ॥
+तां तस्य प्रतिज्ञां श्रुत्वा ***शतशो*** राजकुमाराः समाजग्मुः । परं नैको ऽपि तेषां तद्धनुश्चलयितुमपि शशाक । ***लङ्का***धिपती ***रावणो*** ऽपि साटोपं समेत्य सलज्जं प्रतिनिवृत्त इति ज्ञायते ॥
 
-Seeing all the princes return unsuccessful, Janaka became anxious, wondering, "Who will become my daughter's husband?" In the meantime, ***Rāma***, the son of ***Daśaratha***, the king of ***Ayodhyā***, accompanied by ***Lakṣmaṇa***, was brought there by ***Vāsiṣṭha*** (Note: The text says *Viśvāmitra*, see below). ***Rāma***, by the word of the great sage ***Viśvāmitra***, effortlessly drew that bow and, as long as he placed an arrow upon it, the bow broke into two pieces. ॥
+सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे ***ऽयोध्या***धिपते***र्दशरथस्य*** पुत्रः श्री***रामः*** ***सलक्ष्मणो*** ***विश्वामित्रेण*** तत्रानीयत । श्री***रामो*** महर्षेर्***विश्वामित्र***स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥
 
 ::: media
 ![lekt4208.jpg](/images/lekt4208.jpg)
-Fig.: धनुर्द्वेधा भग्नं बभूव (The bow broke into two pieces)
-(Image source: [Details](/licenses#lekt4208))
+Fig.: धनुर्द्वेधा भग्नं बभूव
+(Image source: [Details](/en/licenses#lekt4208))
 :::
 
-People praised Rāma’s valor, saying, "Well done, well done!" ॥
+साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥
 
-The heart of King Janaka became overjoyed. Then, having invited Daśaratha and others, he celebrated the ***wedding festival of Sītā and Rāma*** with great splendor. ॥
+जनकस्य राज्ञो हृदयं प्रहृष्टं बभूव । ततः स दशरथादीनानाय्य महता विभवेन ***सीतारामयोर्वि***वाहोत्सवं निरवर्तयन् ॥
 
-*(From Sanskrit First Model)*
+(संस्कृतप्रथमादर्शे)
 
-Explanation of the highlighted expressions:
+Explanation of the ***red*** highlighted expressions:
 
-Sītā f. Proper name: Daughter of King Janaka of Videha. She emerged from the earth when the king was plowing the field, hence her name: Sītā f. "furrow"
+सीता f. proper name: daughter of King जनक from विदेह. She had emerged from the earth when the king once plowed the field, hence her name: सीता f. "furrow of the field"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.jpg)
-Fig.: Rāma, Sītā, Hanumān, Lakṣmaṇa
-(Image source: [Details](/licenses#lekt4205))
+Fig.: रामः, सीता, हनुमान्, लक्ष्मनः
+(Image source: [Details](/en/licenses#lekt4205))
 :::
 
-Mithilā f. Proper name: Capital of Videha
+मिथिला f. proper name: capital of विदेह
 
 ::: media
 ![lekt4206.jpg](/images/lekt4206.jpg)
-Fig.: Mithilā, Videhaḥ, Ayodhyā, Kośala
-(Image source: [Details](/licenses#lekt4206))
+Fig.: मिथिला, विदेहः, अयोध्या, कोसलः
+(Image source: [Details](/en/licenses#lekt4206))
 :::
 
-Janaka m. Proper name: King of Videha
+जनक m. proper name: king of विदेह
 
-gurutara 3: Comparative of guru 3: heavier, very heavy
+गुरुतर 3: comparative of गुरु 3: heavier, very heavy
 
-dhanus Nom.Akk.sg.n. from dhanus n. "bow"
+धनुस् Nom.Akk.sg.n. from धनुस् n. "bow"
 
-śataśas Adv.: by the hundreds
+शतशस् Adv.: by the hundreds
 
-Laṅkā f. Proper name: Identified with modern Sri Lanka (ශ්‍රී ලංකාව / இலங்கை)
+लङ्का f. proper name: identified with modern Sri Lanka (ශ්‍රී ලංකාව / இலங்கை)
 
-Rāvaṇa m. Proper name; Ruler of Laṅkā, ruler of the Rākṣasas.
+रावण m. proper name; ruler of लङ्का, ruler of the राक्षस.
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.jpg)
-Fig.: Rāvaṇaḥ
-(Image source: [Details](/licenses#lekt4207))
+Fig.: रावणः
+(Image source: [Details](/en/licenses#lekt4207))
 :::
 
-Ayodhyā f. Proper name: Capital of Kośala (see map above!)
+अयोध्या f. proper name: capital of कोसल (see map above!)
 
-Daśaratha m. Proper name: King of Kośala
+दशरथ m. proper name: king of कोसल
 
-Rāma m. Proper name: Son of Daśaratha
+राम m. proper name: son of दशरथ
 
-Lakṣmaṇa m. Proper name: Son of Daśaratha
+लक्ष्मन m. proper name: son of दशरथ
 
-Viśvāmitra m. Proper name: Sage, brought Rāma and Lakṣmaṇa out to kill demons; in return, the two received magical weapons from him.
+विश्वामित्र m. proper name: ऋषि, pulled out राम and लक्ष्मन to kill demons; in return, the two receive magical weapons from him.
 
-Sītārāmayoḥ Gen.Lok.Dual from Sītā and Rāma
+सीतारामयोस् Gen.Lok.Dual from सीताराम
 
 ::: deleteme-box
 
-### Sources
-
 * **Fig. lekt4201**: अयं बोधयिता. (Image source: Wikipedia. Public domain)
-* **Fig. lekt4202**: माता, पिता, पुत्रकः. The Diwan-i-Khas, or Hall of Private Audiences, at the Lal Qila (Red Fort) in Delhi. (Image source: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accessed on 2009-01-04. -- Creative Commons License (Attribution, Non-Commercial, ShareAlike))
-* **Fig. lekt4203**: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति. Tiruchchirappalli = தி௫ச்சிராப்பள்ளி, ca. 1825. (Image source: Wikipedia. Public domain)
-* **Fig. lekt4204**: अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति । (रथ m. chariot). (Image source: Wikipedia. Public domain)
-* **Fig. lekt4205**: रामः, सीता, हनुमान्, लक्ष्मणः. 17th century. (Image source: Wikipedia. Public domain)
-* **Fig. lekt4206**: Location of मिथिला and विदेह, अयोध्या and कोसल. (Image source: JIJITH NR / Wikipedia. GNU FDL License)
-* **Fig. lekt4207**: रावणः. Yakṣagaṇa dance mask (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Image source: Manohara Upadhya / Wikipedia. GNU FDL License)
-* **Fig. lekt4208**: धनुर्द्वेधा भग्नं बभूव. Image by राजा रवि वर्मा (1848–1906). (Image source: Wikipedia. Public domain)
+* **Fig. lekt4202**: माता, पिता, पुत्रकः. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Image source: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accessed on 2009-01-04. -- Creative Commons License (Attribution, non-commercial use, share alike))
+* **Fig. lekt4203**: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Image source: Wikipedia. Public domain)
+* **Fig. lekt4204**: अर्जुनो रथे सीदti । कृष्णो ऽस्य रथवाहो ऽस्ति । (रथ m. chariot). (Image source: Wikipedia. Public domain)
+* **Fig. lekt4205**: रामः, सीता, हनुमान्, लक्ष्मनः. 17th century. (Image source: Wikipedia. Public domain)
+* **Fig. lekt4206**: Location of मिथिला and विदेह, अयोध्या and कोसल. (Image source: JIJITH NR / Wikipedia. GNU FDLicense)
+* **Fig. lekt4207**: रावणः. Yakṣagaṇa dance mask (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Image source: Manohara Upadhya / Wikipedia. GNU FDLicense)
+* **Fig. lekt4208**: धनुर्द्वेधा भग्नं बभूव. Image of राजा रवि वर्मा (1848 - 1906). (Image source: Wikipedia. Public domain)
+
 :::

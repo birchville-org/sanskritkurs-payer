@@ -1,6 +1,10 @@
 ---
+title: Lesson 47
+subtitle: "The Imperative (लोट्)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 47
@@ -11,7 +15,7 @@ last_reconstructed: 2026-05-21
 The Imperative (लोट्) denotes
 
 *   **Command** (also expressed by the Gerundive (कृत्य))
-*   **Regulation**
+*   **Rule**
 *   **Demand**
 *   **Wish**
 *   **Request**
@@ -21,10 +25,10 @@ The Imperative (लोट्) denotes
 
 The meanings listed above are shared with the Optative (विधिलिङ्).
 
-The Imperative is also used to express:
+The Imperative also expresses:
 
 *   **Permission**
-*   **That an action is timely** (also expressed by the Gerundive (कृत्य))
+*   **that an action is timely** (also expressed by the Gerundive (कृत्य))
 *   **Blessing**
 :::
 
@@ -33,21 +37,21 @@ Examples:
 ::: indent
 एहि । "Come!"
 
-ग्रामं भवानागच्छतु । or Optative: ग्रामं भवानगच्छेत् । "Let the gentleman come to the village!"
+ग्रामं भवानागच्छतु । or Optative: ग्रामं भवानगच्छेत् । "Come to the village!"
 
-वेदमध्ययै । or Optative: वेदमधीयीय । "I wish to study the Veda."
+वेदमध्ययै । or Optative: वेदमधीयीय । "I want to study the Veda."
 
 इच्छामि भुङ्क्तां भवान् । or Optative:  इच्छामि भुञ्जीत भवान् । "I wish that they may eat."
 
 किं वेदमध्ययै । or Optative: किं वेदमधीयीय । "Should I study the Veda?"
 
-करोतु शस्त्रं भवान् । or Gerundive: भवता शस्त्रं कर्तव्यम् । "Make a weapon!" ; "You may make a weapon." ; "It is time for you to make a weapon."
+करोतु शस्त्रं भवान् । or Gerundive: भवता शस्त्रं कर्तव्यम् । "Make a knife!" ; "You may make a knife." ; "It is time that you make a knife."
 
 चिरं जीवतु भवान् । "May you live long!"
 :::
 
 ::: grammar-box
-Polite commands are frequently expressed through Passive Imperatives.
+Polite commands are often expressed through Passive Imperatives.
 :::
 
 Examples:
@@ -58,31 +62,31 @@ Examples:
 निषद्यताम् । "Please, sit down!"
 :::
 
-In the Imperative of Classical Sanskrit, the forms of the first person are archaic Conjunctive forms. The Vedic Conjunctive is primarily the mood that expresses a wish: "Let us go!" "Let us go!"
+In the Imperative of Classical Sanskrit, the forms of the 1st person are ancient Subjunctive forms. The Vedic Subjunctive is primarily the mood that expresses a wish: "Let us go!" "Let us go!"
 
 ::: grammar-box
 The Imperative is formed from the Present stem.
 :::
 
-## 47.2. Formation of the Imperative (लोट्) in Thematic Present Stems
+## 47.2. Formation of the Imperative (लोट्) of thematic present stems
 
-### 47.2.1. Endings of the Imperative for Thematic Present Stems
+### 47.2.1. Endings of the Imperative for thematic present stems
 
 ::: grammar-box
-| | परस्मैपदम् (Parasmaipada) | | आत्मनेपदम् (Ātmanepada) | |
+| | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Endings** | **एकवचनम्** (Singular) | **बहुवचनम्** (Plural) | **एकवचनम्** (Singular) | **बहुवचनम्** (Plural) |
-| **1st Person**[[br]]तृतीयः (Third) | \-āni | \-āma | \-ai | \-āmahai |
-| **2nd Person**[[br]]मध्यमः (Middle) | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
-| **3rd Person**[[br]]प्रथमः (First) | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
+| **Endings** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1st Person**[[br]]तृतीयः | \-āni | \-āma | \-ai | \-āmahai |
+| **2nd Person**[[br]]मध्यमः | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **3rd Person**[[br]]प्रथमः | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
 
-Note: ¹ The endings for the 2nd and 3rd singular persons can be replaced by *-tāt* when expressing a blessing:
+Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessing is to be expressed:
 
 ::: indent
-भद्रो भवतात् (bhadro bhavatāt) "May you be happy!" "May he be happy!"
+भद्रो भवतात् "May you be happy!" "May he be happy!"
 
-शुभं भवतु (śubhaṃ bhavatu) or शुभं भवतात् (śubhaṃ bhavatāt) "May it be auspicious!" "All auspiciousness!"
+शुभं भवतु or शुभं भवतात् "May it be good!" "All good!"
 :::
 
 ### 47.2.2. First Present Class (भ्वादि)
@@ -91,9 +95,9 @@ Note: ¹ The endings for the 2nd and 3rd singular persons can be replaced by *-t
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | **भू 1P** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **1st Person**[[br]]Third | भवानि | भवाम | &lt;भवै&gt; | &lt;भवामहै&gt; |
-| **2nd Person**[[br]]Middle | भव[[br]](bho + a + ø) | भवत | &lt;भवस्व&gt; | &lt;भवध्वम्&gt; |
-| **3rd Person**[[br]]First | भवतु | भवन्तु | &lt;भ्वताम्&gt; | &lt;भवन्ताम्&gt; |
+| **1st Person**[[br]]तृतीयः | भवानि | भवाम | &lt;भवै&gt; | &lt;भवामहै&gt; |
+| **2nd Person**[[br]]मध्यमः | भव[[br]](bho + a + ø) | भवत | &lt;भवस्व&gt; | &lt;भवध्वम्&gt; |
+| **3rd Person**[[br]]प्रथमः | भवतु | भवन्तु | &lt;भ्वताम्&gt; | &lt;भवन्ताम्&gt; |
 :::
 
 ### 47.2.3. Sixth Present Class (तुदादि)
@@ -102,32 +106,33 @@ Note: ¹ The endings for the 2nd and 3rd singular persons can be replaced by *-t
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | **विश् 6P** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **1. Person**[[br]]तृतीयः | विशानि | विशाम | &lt;विशै&gt;[[br]](viś-a + ai) | &lt;विशामहै&gt; |
-| **2. Person**[[br]]मध्यमः | विश | विशत | &lt;विशस्व&gt; | &lt;विशध्वम्&gt; |
-| **3. Person**[[br]]प्रथमः | विशतु | विशन्तु | &lt;विशताम्&gt; | &lt;विशन्ताम्&gt; |
+| **1st Person**[[br]]तृतीयः | विशानि | विशाम | &lt;विशै&gt;[[br]](viś-a + ai) | &lt;विशामहै&gt; |
+| **2nd Person**[[br]]मध्यमः | विश | विशत | &lt;विशस्व&gt; | &lt;विशध्वम्&gt; |
+| **3rd Person**[[br]]प्रथमः | विशतु | विशन्तु | &lt;विशताम्&gt; | &lt;विशन्ताम्&gt; |
 :::
 
 ::: media
 ![](/images/lekt4702.jpg)
 Fig.: प्रविशत
-(Image source: [Details](/licenses#lekt4702))
+Hanuman Temple, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی
+(Image source: [Details](/en/licenses#lekt4702))
 :::
 
 ### 47.2.4. Fourth Present Class (दिवादि)
 
 ::: grammar-box
-| | Parasmaipada || Ātmanepada ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
-| **nṛt 4P** | **Singular** | **Plural** | **Singular** | **Plural** |
-| **1st Person**[[br]]Third | nṛtyāni | nṛtyāma | &lt;nṛtyai&gt; | &lt;nṛtyāmahai&gt; |
-| **2nd Person**[[br]]Middle | nṛtya | nṛtyata | &lt;nṛtyasva&gt; | &lt;nṛtyadhvam&gt; |
-| **3rd Person**[[br]]First | nṛtyatu | nṛtyantu | &lt;nṛtyatām&gt; | &lt;nṛtyantām&gt; |
+| **नृत् 4P** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1st Person**[[br]]तृतीयः | नृत्यानि | नृत्याम | &lt;नृत्यै&gt; | &lt;नृत्यामहै&gt; |
+| **2nd Person**[[br]]मध्यमः | नृत्य | नृत्यत | &lt;नृत्यस्व&gt; | &lt;नृत्यध्वम्&gt; |
+| **3rd Person**[[br]]प्रथमः | नृत्यतु | नृत्यन्तु | &lt;नृत्यताम्&gt; | &lt;नृत्यन्ताम्&gt; |
 :::
 
 ::: media
 ![](/images/lekt4701.jpg)
-Fig.: nṛtyata
-(Image source: [Details](/licenses#lekt4701))
+Fig.: नृत्यत
+(Image source: [Details](/en/licenses#lekt4701))
 :::
 
 ### 47.2.5. Tenth Present Class (चुरादि) and Causatives
@@ -135,25 +140,25 @@ Fig.: nṛtyata
 चुर् 10U
 
 ::: grammar-box
-| | Parasmaipada || Ātmanepada ||
-| :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **1st Person**[[br]]Third | चोरयानि | चोरयाम | चोरयै | चोरयामहै |
-| **2nd Person**[[br]]Middle | चोरय | चोरयत | चोरयस्व | चोरयध्वम् |
-| **3rd Person**[[br]]First | चोरयतु | चोरयन्तु | चोरयताम् | चोरयन्ताम् |
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1st Person**[[br]]तृतीयः | चोरयानि | चोरयाम | चोरयै | चोरयामहै |
+| **2nd Person**[[br]]मध्यमः | चोरय | चोरयत | चोरयस्व | चोरयध्वम् |
+| **3rd Person**[[br]]प्रथमः | चोरयतु | चोरयन्तु | चोरयताम् | चोरयन्ताम् |
 :::
 
-### 47.2.6. Passive Voice
+### 47.2.6. Passive
 
 ईक्ष् 1Ā
 
 ::: grammar-box
-| | Middle Voice ||
+| | आत्मनेपदम् ||
 | :---: | :---: | :---: |
-| | **Singular** | **Plural** |
-| **1st Person**[[br]]Third Person | ईक्ष्यै[[br]](īks-ya + ai) | ईक्ष्यामहै |
-| **2nd Person**[[br]]Second Person | ईक्ष्यस्व | ईक्ष्यध्वम् |
-| **3rd Person**[[br]]First Person | ईक्ष्यताम् | ईक्ष्यन्ताम् |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **1st Person**[[br]]तृतीयः | ईक्ष्यै[[br]](īks-ya + ai) | ईक्ष्यामहै |
+| **2nd Person**[[br]]मध्यमः | ईक्ष्यस्व | ईक्ष्यध्वम् |
+| **3rd Person**[[br]]प्रथमः | ईक्ष्यताम् | ईक्ष्यन्ताम् |
 :::
 
 ## 47.3. Exercise
@@ -169,9 +174,8 @@ A) Translate:
 ::: media
 ![](/images/lekt4703.jpg)
 Fig.: भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु
-(Image source: [Details](/licenses#lekt4703))
+(Image source: [Details](/en/licenses#lekt4703))
 :::
-
 आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥४॥
 
 प्रसीदत्वार्यः ॥५॥
@@ -181,14 +185,13 @@ Fig.: भो राम यदि मया गन्तवं तदैषा �
 ::: media
 ![](/images/lekt4704.jpg)
 Fig.: आर्ये स्वागतं ते
-(Image source: [Details](/licenses#lekt4704))
+(Image source: [Details](/en/licenses#lekt4704))
 :::
-
 आज्ञापयत्वार्यः किं मया क्रियतामिति ॥७॥
 
 युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥८॥
 
-Question: Why are you afraid? Answer: Because of the qualities of that Rāma. Questioner: What are his qualities, for whom one must not even enter the house while hungry? ॥९॥
+प्रश्नः : कस्मात्त्वं भीतः । प्रतिवचनम् : तस्य रामस्य गुणेभ्यः । प्रष्टा : के तस्य गुणा यस्य गृहं प्रविश्याशितव्यमपि नास्ति ॥९॥
 
 तवैव हस्ते शस्त्रं तिष्ठतु ॥१०॥
 
@@ -196,77 +199,75 @@ Question: Why are you afraid? Answer: Because of the qualities of that Rāma. Qu
 
 B.) Translate into Sanskrit (use the imperative):
 
-1. I want to be saved.
+1. I wish to be obtained.
 
-2. He should be satisfied.
+2. He should be content.
 
-3. We want to call.
+3. We wish to call.
 
-4. I want to bow down to you (using the Dative case).
+4. I wish to bow to you (चतुर्थ्या).
 
 5. This deed should be done.
 
-6. They should sleep (Passive construction).
+6. They should sleep (passive construction).
 
 7. My son, strive for wealth!
 
 8. Begin the study!
 
-9. Offer rice balls to the ancestors (प्र-यम्)!
+9. Give (प्र-यम्) rice balls to the ancestors!
 
 10. They should rejoice!
 
-11. I want to look down upon the world.
+11. I wish to look down upon the world.
 
-12. We want to go to Benares (पद्).
+12. We wish to go to Benares (पद्).
 
-13. They (pl.) should worship the gods with a sacrifice as sacrificers.
+13. They (pl.) should worship the gods with a sacrifice as sacrifice-lords.
 
 14. Sing a hymn of praise!
 
 15. Sons should be born to me!
 
-16. I want to show you my house.
+16. I wish to show you my house.
 
 17. Go away from me!
 
 18. He should be liberated!
 
-19. I want to protect your wife.
+19. I wish to protect your wife.
 
 20. Die, enemy!
 
 21. Fight!
 
-22. They (pl.) should command.
+22. They (pl.) may command.
 
-23. We want to live in your house.
+23. We wish to live in your house.
 
-24. Thus it should happen!
+24. So let it happen!
 
 25. Strike the horse!
 
 26. They (pl.) should wander about.
 
-27. Get intoxicated!
+27. Intoxicate yourselves!
 
-28. The horse should draw the load.
+28. The horse should pull the load.
 
-29. We want to order the worlds.
+29. We wish to set the worlds in order.
 
-30. Drink the draught!
+30. Drink the potion!
 
 31. Think!
 
-32. They (pl.) should be conquered!
+32. They (pl.) should be defeated!
 
-33. We want to be led by you.
+33. We wish to be led by you.
 
-34. May it result in good fortune (happen)! (Blessing)
+34. May it bring good fortune (happen)! (Blessing wish)
 
 ::: deleteme-box
-
-### Sources
 
 **lekt4702:** Hanuman Temple, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی [Image source: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Accessed on 2009-01-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribution, no derivatives)]
 
@@ -274,6 +275,6 @@ B.) Translate into Sanskrit (use the imperative):
 
 **lekt4703:** [Image source: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
 
-**lekt4704:** [Image source: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial, no derivatives)]
+**lekt4704:** [Image source: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
 
 :::

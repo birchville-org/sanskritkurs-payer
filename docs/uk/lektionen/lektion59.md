@@ -1,156 +1,172 @@
+---
+title: Урок 59
+subtitle: "Закінчення вторинні та закінчення наказового способу для подвійного числа (द्विवचनम्)"
+lesson_id: 59
+last_reconstructed: 2026-05-21
+category: "Граматика"
+status: stable
+---
 
+# Урок 59
 
-# Lektion 59
-
-## 59.1. Die Sekundärendungen und Імперативendungen des Двоїна (द्विवचनम्)
-
- **परस्मैपदम्**आत्मनेपदम् sekundärImperativ (लोट्)sekundär thematischsekundär athematisch Optativ (विधिलिङ्)Imperativ (लोट्)**1. तृतीयः**-va-āva-vahi-āvahai**2. मध्यमः**-tam-tām-īthām-āthām-īthām / āthām**3. प्रथमः**-ītām-ātām-ītām / -ātām &lt;!-- TODO: Fallback translation --&gt;
-
-## 59.2. Der Двоїна thematischer Теперішній часklassen: Оптатив (विधिलिङ्), Імперфект (लङ्), Імператив (लोट्)
-
-Vor -va und -vahi wird der Themavokal -a- durch -ā- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
-
-### 59.2.1. Erste Теперішній часklasse (भ्वादिगणः)
-
-Vor -va und -vahi wird der Themavokal -a- durch -ā- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+## 59.1. Закінчення вторинних часів та наказового способу для подвійного числа (द्विवचनम्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | भवेव | &lt;भवेवहि&gt; | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | भवेतम् | &lt;भवेयाथाम्&gt; | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | भवेताम् | &lt;भवेयाताम्&gt; | <!-- TODO: Fallback translation -->
+|   | **परस्मैपदम्** || **आत्मनेपदम्** |||
+| :--- | :---: | :---: | :---: | :---: | :---: |
+|   | вторинний | наказовий спосіб (लोट्) | вторинний тематичний | вторинний атематичний[[br]]оптіатив (विधिलिङ्) | наказовий спосіб (लोट्) |
+| **1. तृतीयः** | -va | -āva | -vahi || -āvahai |
+| **2. मध्यमः** | -tam[[br]]-tām || -īthām | -āthām | -īthām / āthām |
+| **3. प्रथमः** | ^^ || -ītām | -ātām | -ītām / -ātām |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+## 59.2. Подвійна тематичних класів теперішнього часу: оптин (विधिलिङ्), імперфект (लङ्), імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अभवाव | &lt;अभवावहि&gt; | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अभवतम् | &lt;अभवेथाम्&gt; | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अभवताम् | &lt;भभवेताम्&gt; | <!-- TODO: Fallback translation -->
+**Перед -va та -vahi тематичний голосок -a- замінюється на -ā-.**
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+### 59.2.1. Перший клас теперішнього часу (भ्वादिगणः)
+
+भू 1-ша особа "стати, бути"
+
+Оптив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | भवाव | &lt;भवावहै&gt; | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | भवतम् | &lt;भवेथाम्&gt; | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | भवताम् | &lt;भवेताम्&gt; | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | भवेव | &lt;भवेवहि&gt; |
+| 2\. मध्यमः | भवेतम् | &lt;भवेयाथाम्&gt; |
+| 3\. प्रथमः | भवेताम् | &lt;भवेयाताम्&gt; |
 :::
 
-### 59.2.2. Vierte Теперішній часklasse (दिवादिगणः)
-
-Vor -va und -vahi wird der Themavokal -a- durch -ā- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | नृत्येव | &lt;नृत्येवहि&gt; | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | नृत्येतम् | &lt;नृत्येयाथाम्&gt; | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | नृत्येताम् | &lt;नृत्येयाताम्&gt; | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अभवाव | &lt;अभवावहि&gt; |
+| 2\. मध्यमः | अभवतम् | &lt;अभवेथाम्&gt; |
+| 3\. प्रथमः | अभवताम् | &lt;भभवेताम्&gt; |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अनृत्याव | &lt;अनृत्यावहि&gt; | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अनृत्यतम् | &lt;अनृत्येथाम्&gt; | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अनृत्यताम् | नृत्येताम्&gt; | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | भवाव | &lt;भवावहै&gt; |
+| 2\. मध्यमः | भवतम् | &lt;भवेथाम्&gt; |
+| 3\. प्रथमः | भवताम् | &lt;भवेताम्&gt; |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+### 59.2.2. Четвертий клас теперішнього часу (दिवादिगणः)
+
+नृत् 4P "танцювати"
+
+Оптатив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | नृत्याव | &lt;नृत्यावहै&gt; | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | नृत्यतम् | &lt;नृत्येथाम्&gt; | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | नृत्यताम् | &lt;नृत्येताम्&gt; | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | नृत्येव | &lt;नृत्येवहि&gt; |
+| 2\. मध्यमः | नृत्येतम् | &lt;नृत्येयाथाम्&gt; |
+| 3\. प्रथमः | नृत्येताम् | &lt;नृत्येयाताम्&gt; |
 :::
 
-### 59.2.3. Sechste Теперішній часklasse (तुदादिगणः)
-
-Vor -va und -vahi wird der Themavokal -a- durch -ā- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | तुदेव | तुदेवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | तुदेतम् | तुदेयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | तुदेताम् | तुदेयाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अनृत्याव | &lt;अनृत्यावहि&gt; |
+| 2\. मध्यमः | अनृत्यतम् | &lt;अनृत्येथाम्&gt; |
+| 3\. प्रथमः | अनृत्यताम् | &lt;नृत्येताम्&gt; |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अतुदाव | अतुदावहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अतुदतम् | अतुदेथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अतुदताम् | अतुदेताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | नृत्याव | &lt;नृत्यावहै&gt; |
+| 2\. मध्यमः | नृत्यतम् | &lt;नृत्येथाम्&gt; |
+| 3\. प्रथमः | नृत्यताम् | &lt;नृत्येताम्&gt; |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+### 59.2.3. Шоста клас преценсу (तुदादिगणः)
+
+तुद् 6U "штовхати, бити"
+
+Оптив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | तुदाव | तुदावहै | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | तुदतम् | तुदेथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | तुदताम् | तुदेताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तुदेव | तुदेवहि |
+| 2\. मध्यमः | तुदेतम् | तुदेयाथाम् |
+| 3\. प्रथमः | तुदेताम् | तुदेयाताम् |
 :::
 
-### 59.2.4. Zehnte Теперішній часklasse (चुरादिगणः) und Kausative (णिजन्त)
-
-Vor -va und -vahi wird der Themavokal -a- durch -ā- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | चोरयेव | चोरयेवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | चोरयेतम् | चोरयेयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | चोरयेताम् | चोरयेयाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अतुदाव | अतुदावहि |
+| 2\. मध्यमः | अतुदतम् | अतुदेथाम् |
+| 3\. प्रथमः | अतुदताम् | अतुदेताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अचोरयाव | अचोरयावहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अचोरयतम् | अचोरयेथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अचोरयताम् | अचोरयेताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तुदाव | तुदावहै |
+| 2\. मध्यमः | तुदतम् | तुदेथाम् |
+| 3\. प्रथमः | तुदताम् | तुदेताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+### 59.2.4. Десятий клас теперішнього часу (चुरादिगणः) та каузативи (णिजन्त)
+
+चुर् 10U "красти"
+
+Оптив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | चोरयाव | चोरयावहै | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | चोरयतम् | चोरयेथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | चोरयताम् | चोरयेताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | चोरयेव | चोरयेवहि |
+| 2\. मध्यमः | चोरयेतम् | चोरयेयाथाम् |
+| 3\. प्रथमः | चोरयेताम् | चोरयेयाताम् |
 :::
 
-### 59.2.5. Der Passiv (Suffix -यक्)
+Імперфект (लङ्)
 
-तुद् 6U "stoßen, schlagen" &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अचोरयाव | अचोरयावहि |
+| 2\. मध्यमः | अचोरयतम् | अचोरयेथाम् |
+| 3\. प्रथमः | अचोरयताम् | अचोरयेताम् |
+:::
 
-Optativ (विधिलिङ्) &lt;!-- TODO: Fallback translation --&gt;
+Імператив (लोट्)
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | चोरयाव | चोरयावहै |
+| 2\. मध्यमः | चोरयतम् | चोरयेथाम् |
+| 3\. प्रथमः | चोरयताम् | चोरयेताम् |
+:::
+
+### 59.2.5. Стан пасиву (суфікс -यक्)
+
+तुद् 6U "штовхати, бити"
+
+Оптив (विधिलिङ्)
 
 ::: grammar-box
 | 1\. तृतीयः | तुद्येवहि |
@@ -159,7 +175,7 @@ Optativ (विधिलिङ्) &lt;!-- TODO: Fallback translation --&gt;
 | 3\. प्रथमः | तुद्येयाताम् |
 :::
 
-Imperfekt (लङ्) &lt;!-- TODO: Fallback translation --&gt;
+Імперфект (लङ्)
 
 ::: grammar-box
 | 1\. तृतीयः | अतुद्यावहि |
@@ -168,7 +184,7 @@ Imperfekt (लङ्) &lt;!-- TODO: Fallback translation --&gt;
 | 3\. प्रथमः | अतुद्येताम् |
 :::
 
-Imperativ (लोट्) &lt;!-- TODO: Fallback translation --&gt;
+Імператив (लोट्)
 
 ::: grammar-box
 | 1\. तृतीयः | तुद्यावहै |
@@ -177,488 +193,488 @@ Imperativ (लोट्) &lt;!-- TODO: Fallback translation --&gt;
 | 3\. प्रथमः | तुद्येताम् |
 :::
 
-## 59.3. Der Двоїна athematischer Теперішній часklassen: Оптатив (विधिलिङ्), Імперфект (लङ्), Імператив (लोट्)
+## 59.3. Двійник аттематичних класів теперішнього часу: оптин (विधिलिङ्), імперфект (लङ्), імператив (लोट्)
 
-### 59.3.1. Zweite Теперішній часklasse (अदादिगणः)
+### 59.3.1. Другий клас теперішнього часу (अदादिगणः)
 
-द्विष् 2U "hassen" <!-- TODO: Fallback translation -->
+द्विष् 2U "ненадіти"
 
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
-
-::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | द्विष्याव | द्विषीवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | द्विष्यातम् | द्विषीयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | द्विष्याताम् | द्विषीयाताम् | <!-- TODO: Fallback translation -->
-:::
-
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+Оптатив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अद्विष्व | अद्विष्वहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अद्विष्टम् | अद्विषाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अद्विष्टाम् | अद्विषाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | द्विष्याव | द्विषीवहि |
+| 2\. मध्यमः | द्विष्यातम् | द्विषीयाथाम् |
+| 3\. प्रथमः | द्विष्याताम् | द्विषीयाताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | द्वेषाव | द्वेषावहै | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | द्विष्टम् | द्विषाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | द्विष्टाम् | द्विषाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अद्विष्व | अद्विष्वहि |
+| 2\. मध्यमः | अद्विष्टम् | अद्विषाथाम् |
+| 3\. प्रथमः | अद्विष्टाम् | अद्विषाताम् |
 :::
 
-दुह् 2U "melken" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | दुह्याव | दुहीवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | दुह्यातम् | दुहीयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | दुह्याताम् | दुहीयाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | द्वेषाव | द्वेषावहै |
+| 2\. मध्यमः | द्विष्टम् | द्विषाथाम् |
+| 3\. प्रथमः | द्विष्टाम् | द्विषाताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+दुह् 2U "доїти"
+
+Оптатив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अदुह्व | अदुह्वहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अदुग्धम् | अदुहाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अदुग्धाम् | अदुहाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दुह्याव | दुहीवहि |
+| 2\. मध्यमः | दुह्यातम् | दुहीयाथाम् |
+| 3\. प्रथमः | दुह्याताम् | दुहीयाताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | दोहाव | दोहावहै | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | दुग्धम् | दुहाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | दुग्धाम् | दुहाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अदुह्व | अदुह्वहि |
+| 2\. मध्यमः | अदुग्धम् | अदुहाथाम् |
+| 3\. प्रथमः | अदुग्धाम् | अदुहाताम् |
 :::
 
-इ 2P "gehen" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | इयाव | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | इयातम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | इयाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दोहाव | दोहावहै |
+| 2\. मध्यमः | दुग्धम् | दुहाथाम् |
+| 3\. प्रथमः | दुग्धाम् | दुहाताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+इ 2P "йти"
+
+Оптатив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | ऐव | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | ऐतम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | ऐताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | इयाव |
+| 2\. मध्यमः | इयातम् |
+| 3\. प्रथमः | इयाताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अयाव | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | इतम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | इताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | ऐव |
+| 2\. मध्यमः | ऐतम् |
+| 3\. प्रथमः | ऐताम् |
 :::
 
-इ + अधि 2Ā "studieren" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अधीयीवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अधीयीयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अधीयीयाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | अयाव |
+| 2\. मध्यमः | इतम् |
+| 3\. प्रथमः | इताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+इ + अधि 2Ā "вивчати"
+
+Оптатив (विधिलिङ्)
 
 ::: grammar-box
-|   | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अध्यैवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अध्यैयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अध्यैयाताम् | <!-- TODO: Fallback translation -->
+|   | आत्मनेपदम् |
+| --- | --- |
+| 1\. तृतीयः | अधीयीवहि |
+| 2\. मध्यमः | अधीयीयाथाम् |
+| 3\. प्रथमः | अधीयीयाताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अध्यैयावहै | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अधीयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अधीयाताम् | <!-- TODO: Fallback translation -->
+|   | आत्मनेपदम् |
+| --- | --- |
+| 1\. तृतीयः | अध्यैवहि |
+| 2\. मध्यमः | अध्यैयाथाम् |
+| 3\. प्रथमः | अध्यैयाताम् |
 :::
 
-हन् 2P "erschlagen" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | हन्याव | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | हन्यातम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | हन्याताम् | <!-- TODO: Fallback translation -->
+|   | आत्मनेपदम् |
+| --- | --- |
+| 1\. तृतीयः | अध्यैयावहै |
+| 2\. मध्यमः | अधीयाथाम् |
+| 3\. प्रथमः | अधीयाताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+हन् 2P "вбивати"
+
+Оптатив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अहन्व | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अहतम्   | <!-- TODO: Fallback translation -->
-| \*a-hn-tam | | | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अहताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | हन्याव |
+| 2\. मध्यमः | हन्यातम् |
+| 3\. प्रथमः | हन्याताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | हनाव | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | हतम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | हताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | अहन्व |
+| 2\. मध्यमः | अहतम्   |
+| \*a-hn-tam | | |
+| 3\. प्रथमः | अहताम् |
 :::
 
-अस् 2P "sein" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | स्याव | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | स्यातम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | स्याताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | हनाव |
+| 2\. मध्यमः | हतम् |
+| 3\. प्रथमः | हताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+अस् 2P "бути"
+
+Оптатив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | आस्व | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | आस्तम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | आस्ताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | स्याव |
+| 2\. मध्यमः | स्यातम् |
+| 3\. प्रथमः | स्याताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | असाव | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | स्तम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | स्ताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | आस्व |
+| 2\. मध्यमः | आस्तम् |
+
+| 3\. प्रथमः | आस्ताम् |
 :::
 
-### 59.3.2. Dritte Теперішній часklasse (जुहोत्यादिगणः)
-
-हु 3P "ins Opferfeuer gießen" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | जुहुयाव | &lt;जुह्वीवहि&gt; | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | जुहुयातम् | &lt;जुह्वीयाथाम्&gt; | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | जुहुयाताम् | &lt;जुह्वीयाताम्&gt; | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | असाव |
+| 2\. मध्यमः | स्तम् |
+| 3\. प्रथमः | स्ताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+### 59.3.2. Третя клас теперішнього часу (जुहोत्यादिगणः)
+
+हु 3-тя особа множини "лити в вогнище жертвоприношення"
+
+Конъюнктив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अजुहुव | &lt;अजुहुवहि&gt; | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अजुहुतम् | &lt;अजुह्वाथाम्&gt; | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अजुहुताम् | &lt;अजुह्वाताम्&gt; | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | जुहुयाव | &lt;जुह्वीवहि&gt; |
+| 2\. मध्यमः | जुहुयातम् | &lt;जुह्वीयाथाम्&gt; |
+| 3\. प्रथमः | जुहुयाताम् | &lt;जुह्वीयाताम्&gt; |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | जुहवाव | &lt;जुहवावहै&gt; | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | जुहुतम् | &lt;जुह्वाथाम्&gt; | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | जुहुताम् | &lt;जुह्वाताम्&gt; | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अजुहुव | &lt;अजुहुवहि&gt; |
+| 2\. मध्यमः | अजुहुतम् | &lt;अजुह्वाथाम्&gt; |
+| 3\. प्रथमः | अजुहुताम् | &lt;अजुह्वाताम्&gt; |
 :::
 
-धा 3U "setzen, legen, stellen" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | दध्याव | दधीवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | दध्यातम् | दधीयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | दध्याताम् | दधीयाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | जुहवाव | &lt;जुहवावहै&gt; |
+| 2\. मध्यमः | जुहुतम् | &lt;जुह्वाथाम्&gt; |
+| 3\. प्रथमः | जुहुताम् | &lt;जुह्वाताम्&gt; |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+धा 3-тя відміна "ставити, класти, розміщувати"
+
+Конъюнктив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अदध्व | अदध्वहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अधत्तम् | अदधाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अधत्ताम् | अदधाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दध्याव | दधीवहि |
+| 2\. मध्यमः | दध्यातम् | दधीयाथाम् |
+| 3\. प्रथमः | दध्याताम् | दधीयाताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | दधाव | दधावहै   | <!-- TODO: Fallback translation -->
-| da-dhā + āvahai | | | | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | धत्तम् | दधाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | धत्ताम् | दधाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अदध्व | अदध्वहि |
+| 2\. मध्यमः | अधत्तम् | अदधाथाम् |
+| 3\. प्रथमः | अधत्ताम् | अदधाताम् |
 :::
 
-### 59.3.3. Fünfte Теперішній часklasse (स्वादिगणः)
-
-सु 5U "auspressen" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | सुनुयाव | सुन्वीवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | सुनुयातम् | सुन्वीयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | सुनुयाताम् | सुन्वीयाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दधाव | दधावहै   |
+| da-dhā + āvahai | | | |
+| 2\. मध्यमः | धत्तम् | दधाथाम् |
+| 3\. प्रथमः | धत्ताम् | दधाताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+### 59.3.3. П’ята класа преценсу (स्वादिगणः)
+
+सु 5U "вичавлювати"
+
+Оптив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | असुनुव / असुन्व | असुनुवहि / असुन्वहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | असुनुतम् | असुन्वाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | असुनुताम् | असुन्वाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | सुनुयाव | सुन्वीवहि |
+| 2\. मध्यमः | सुनुयातम् | सुन्वीयाथाम् |
+| 3\. प्रथमः | सुनुयाताम् | सुन्वीयाताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | सुनवाव | सुनवावहै | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | सुनुतम् | सुन्वाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | सुनुताम् | सुन्वाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | असुनुव / असुन्व | असुनुवहि / असुन्वहि |
+| 2\. मध्यमः | असुनुतम् | असुन्वाथाम् |
+| 3\. प्रथमः | असुनुताम् | असुन्वाताम् |
 :::
 
-### 59.3.4. Achte Теперішній часklasse (तनादिगणः)
-
-तन् 8U "aufspannen" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | तनुयाव | तन्वीवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | तनुयातम् | तन्वीयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | तनुयाताम् | तन्वीयाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | सुनवाव | सुनवावहै |
+| 2\. मध्यमः | सुनुतम् | सुन्वाथाम् |
+| 3\. प्रथमः | सुनुताम् | सुन्वाताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+### 59.3.4. Восьмий клас теперішнього часу (तनादिगणः)
+
+तन् 8U "напружувати"
+
+Оптив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अतनुव / अतन्व | अतनुवहि / अतन्वहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अतनुतम् | अतन्वाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अतनुताम् | अतन्वताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तनुयाव | तन्वीवहि |
+| 2\. मध्यमः | तनुयातम् | तन्वीयाथाम् |
+| 3\. प्रथमः | तनुयाताम् | तन्वीयाताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | तनवाव | तनवावहै | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | तनुतम् | तन्वाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | तनुताम् | तन्वाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अतनुव / अतन्व | अतनुवहि / अतन्वहि |
+| 2\. मध्यमः | अतनुतम् | अतन्वाथाम् |
+| 3\. प्रथमः | अतनुताम् | अतन्वताम् |
 :::
 
-कृ 8U "tun, machen" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | कुर्याव | कुर्वीवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | कुर्यातम् | कुर्वीयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | कुर्याताम् | कुर्वीयाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तनवाव | तनवावहै |
+| 2\. मध्यमः | तनुतम् | तन्वाथाम् |
+| 3\. प्रथमः | तनुताम् | तन्वाताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+कृ 8U "робити, творити"
+
+Оптив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अकुर्व | अकुर्वहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अकुरुतम् | अकुर्वाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अकुरुताम् | अकुर्वाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | कुर्याव | कुर्वीवहि |
+| 2\. मध्यमः | कुर्यातम् | कुर्वीयाथाम् |
+| 3\. प्रथमः | कुर्याताम् | कुर्वीयाताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | करवाव | करवावहै | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | कुरुतम् | कुर्वाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | कुरुताम् | कुर्वाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अकुर्व | अकुर्वहि |
+| 2\. मध्यमः | अकुरुतम् | अकुर्वाथाम् |
+| 3\. प्रथमः | अकुरुताम् | अकुर्वाताम् |
 :::
 
-### 59.3.5. Siebte Теперішній часklasse (रुधादिगणः)
-
-रुध् 7U "stoppen" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | रुन्ध्याव | रुन्धीवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | रुन्ध्यातम् | रुन्धीयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | रुन्ध्याताम् | रुन्धीयाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | करवाव | करवावहै |
+| 2\. मध्यमः | कुरुतम् | कुर्वाथाम् |
+| 3\. प्रथमः | कुरुताम् | कुर्वाताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+### 59.3.5. Сьома клас теперішнього часу (रुधादिगणः)
+
+रुध् 7U "зупиняти"
+
+Оптив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अरुन्ध्व | अरुन्ध्वहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अरुन्द्धम् | अरुन्धाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अरुन्द्धाम् | अरुन्धाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | रुन्ध्याव | रुन्धीवहि |
+| 2\. मध्यमः | रुन्ध्यातम् | रुन्धीयाथाम् |
+| 3\. प्रथमः | रुन्ध्याताम् | रुन्धीयाताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | रुणधाव | रुणधावहै | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | रुन्द्धम् | रुन्धाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | रुन्द्धाम् | रुन्धाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अरुन्ध्व | अरुन्ध्वहि |
+| 2\. मध्यमः | अरुन्द्धम् | अरुन्धाथाम् |
+| 3\. प्रथमः | अरुन्द्धाम् | अरुन्धाताम् |
 :::
 
-युज् 7U "anschirren" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | युञ्ज्याव | युञ्जीवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | युञ्ज्यातम् | युञ्जीयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | युञ्ज्याताम् | युञ्जीयाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | रुणधाव | रुणधावहै |
+| 2\. मध्यमः | रुन्द्धम् | रुन्धाथाम् |
+| 3\. प्रथमः | रुन्द्धाम् | रुन्धाताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+युज् 7U "зашивати"
+
+Оптив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अयुञ्ज्व | युञ्ज्वहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अयुङ्क्तम् | अयुञ्जाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अयुङ्क्ताम् | युञ्जाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | युञ्ज्याव | युञ्जीवहि |
+| 2\. मध्यमः | युञ्ज्यातम् | युञ्जीयाथाम् |
+| 3\. प्रथमः | युञ्ज्याताम् | युञ्जीयाताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | युनजाव | युनजावहै | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | युङ्क्तम् | युञ्जाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | युङ्क्ताम् | युञ्जाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अयुञ्ज्व | युञ्ज्वहि |
+| 2\. मध्यमः | अयुङ्क्तम् | अयुञ्जाथाम् |
+| 3\. प्रथमः | अयुङ्क्ताम् | युञ्जाताम् |
 :::
 
-### 59.3.6. Neunte Теперішній часklasse (क्र्यादिगणः)
-
-क्री 9U "kaufen" <!-- TODO: Fallback translation -->
-
-Optativ (विधिलिङ्) <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | क्रीणीयाव | क्रीणीवहि   | <!-- TODO: Fallback translation -->
-| krī + n + ī + vahi | | | | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | क्रीणीयातम् | क्रीणीयाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | क्रीणीयाताम् | क्रीणीयाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | युनजाव | युनजावहै |
+| 2\. मध्यमः | युङ्क्तम् | युञ्जाथाम् |
+| 3\. प्रथमः | युङ्क्ताम् | युञ्जाताम् |
 :::
 
-Imperfekt (लङ्) <!-- TODO: Fallback translation -->
+### 59.3.6. Дев’ятий клас теперішнього часу (क्र्यादिगणः)
+
+क्री 9U "купувати"
+
+Оптив (विधिलिङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अक्रीणीव | अक्रीणीवहि | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अक्रीणीतम् | अक्रीणाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अक्रीणीताम् | अक्रीणाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | क्रीणीयाव | क्रीणीवहि[[br]]krī + n + ī + vahi |
+| 2\. मध्यमः | क्रीणीयातम् | क्रीणीयाथाम् |
+| 3\. प्रथमः | क्रीणीयाताम् | क्रीणीयाताम् |
 :::
 
-Imperativ (लोट्) <!-- TODO: Fallback translation -->
+Імперфект (लङ्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | क्रीणाव | क्रीणावहै | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | क्रीणीतम् | क्रीणाथाम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | क्रीणीताम् | क्रीणाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | अक्रीणीव | अक्रीणीवहि |
+| 2\. मध्यमः | अक्रीणीतम् | अक्रीणाथाम् |
+| 3\. प्रथमः | अक्रीणीताम् | अक्रीणाताम् |
 :::
 
-## 59.4. Двоїна (द्विवचनम्) Aorist (लुङ्)
-
-### 59.4.1. Коріньaorist
-
-पा 1P "trinken" <!-- TODO: Fallback translation -->
+Імператив (लोट्)
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अपाव | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अपातम् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अपाताम् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | क्रीणाव | क्रीणावहै |
+| 2\. मध्यमः | क्रीणीतम् | क्रीणाथाम् |
+| 3\. प्रथमः | क्रीणीताम् | क्रीणाताम् |
 :::
 
-### 59.4.2. a-Aorist
+## 59.4. Двійстий (द्विवचनम्) Аорист (लुङ्)
 
-सिच् 6U "beträufeln" &lt;!-- TODO: Fallback translation --&gt;
+### 59.4.1. Основа-оріст
+
+पा 1-ос. "пити"
+
+::: grammar-box
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | अपाव |
+| 2\. मध्यमः | अपातम् |
+| 3\. प्रथमः | अपाताम् |
+:::
+
+### 59.4.2. a-аорист
+
+सिच् 6U "обприскувати"
 
 ::: grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
@@ -668,9 +684,9 @@ Imperativ (लोट्) <!-- TODO: Fallback translation -->
 | 3\. प्रथमः | असिचताम् | असिचेताम् |
 :::
 
-### 59.4.3. Reduplizierter Aorist
+### 59.4.3. Подвоєний аорист
 
-श्रि 1U "sich begeben zu" &lt;!-- TODO: Fallback translation --&gt;
+श्रि 1U "відбуватися до"
 
 ::: grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
@@ -680,9 +696,9 @@ Imperativ (लोट्) <!-- TODO: Fallback translation -->
 | 3\. प्रथमः | शिश्रियताम् | अशिश्रियेताम् |
 :::
 
-### 59.4.4. s-Aorist
+### 59.4.4. s-аорист
 
-नी 1U "führen" &lt;!-- TODO: Fallback translation --&gt;
+नी 1U "вести"
 
 ::: grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
@@ -692,20 +708,20 @@ Imperativ (लोट्) <!-- TODO: Fallback translation -->
 | 3\. प्रथमः | अनैष्टाम् | अनेषाताम् |
 :::
 
-तुद् 6U "stoßen" &lt;!-- TODO: Fallback translation --&gt;
+तुद् 6U "штовхати"
 
 ::: grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अतौत्स्व | अतुत्स्वहि |
-| 2\. मध्यमः | अतौत्तम् | |
-| a-taut+s+tam | अतुत्साथाम् | | |
+| 2\. मध्यमः | अतौत्तम्   | |
+| a-таут+s+там | अतुत्साथाम् | | |
 | 3\. प्रथमः | अतौत्ताम् | अतित्साताम् |
 :::
 
-### 59.4.5. iṣ-Aorist
+### 59.4.5. іш-аорист
 
-पू 9U "reinigen" &lt;!-- TODO: Fallback translation --&gt;
+पू 9U "очищувати"
 
 ::: grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
@@ -715,104 +731,137 @@ Imperativ (लोट्) <!-- TODO: Fallback translation -->
 | 3\. प्रथमः | पाविष्टाम् | अपविषाताम् |
 :::
 
-## 59.5. Aorist (लुङ्) 6: siṣ-Aorist (nur P)
+## 59.5. Аорист (लुङ्) 6: siṣ-аорист (тільки P)
 
-Den siṣ-Aorist bilden im P alle Wurzeln auf -ā, -e, -o, -ai, die nicht auf den 1.,2. oder 3. Aorist beschränkt sind, sowie einige weitere Wurzeln, u.a. नम्, यम्, रम्. Im Ā bilden alle diese Wurzeln den s-Aorist. &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**siṣ-аорист у формі P утворюють усі корені на -ā, -e, -o, -ai, які не обмежені 1., 2. або 3. аористом, а також деякі інші корені, зокрема नम्, यम्, रम्. У формі Ā всі ці корені утворюють s-аорист.**
 
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+**Утворення:**
 
-Augment + hochstufige Wurzel + s + i + ṣ + athematische Sekundärendung (wie iṣ-Aorist) &lt;!-- TODO: Fallback translation --&gt;
+**Авґмент + корінь у ступені посилення + s + i + ṣ + атематичні вторинні закінчення (як у siṣ-аористі)**
+:::
 
-Stammbildungssuffix + Endungen  des siṣ-Aorist lauten also: &lt;!-- TODO: Fallback translation --&gt;
+Суфікс основи та закінчення siṣ-аористу мають такий вигляд:
 
- परस्मैपदम् एकवचनम्द्विवचनम्बहुवचनम्**1. तृतीयः****-siṣam****-siṣva****-siṣma****2. द्वितीयः****-sīs****-siṣṭam****-siṣṭa****3. प्रथमः****-sīt****-siṣṭām****-siṣur** &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+|   | **परस्मैपदम्** |||
+| :--- | :---: | :---: | :---: |
+|   | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | **-siṣam** | **-siṣva** | **-siṣma** |
+| **2. द्वितीयः** | ***-sīs*** | **-siṣṭam** | **-siṣṭa** |
+| **3. प्रथमः** | ***-sīt*** | **-siṣṭām** | **-siṣur** |
+:::
 
-Paradigma: &lt;!-- TODO: Fallback translation --&gt;
+Парадигма:
 
-या 2P "gehen" &lt;!-- TODO: Fallback translation --&gt;
+या 3-тя особа множини числа "йти"
 
 ::: indent
-परस्मैपदम् एकवचनम्द्विवचनम्बहुवचनम्**1. तृतीयः**अयासिषम्अयासिष्वअयासिष्म**2. द्वितीयः**अयासीस्अयासिष्टम्अयासिष्ट**3. प्रथमः**अयासीत्अयासिष्टाम्अयासिषुर्
+|   | **परस्मैपदम्** |||
+| :--- | :---: | :---: | :---: |
+|   | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अयासिषम् | अयासिष्व | अयासिष्म |
+| **2. द्वितीयः** | ***अयासीस्*** | अयासिष्टम् | अयासिष्ट |
+| **3. प्रथमः** | ***अयासीत्*** | अयासिष्टाम् | अयासिषुर् |
 :::
 
-## 59.6. Aorist (लुङ्) 7: sa-Aorist (thematischer s-Aorist)
+## 59.6. Аорист (लुङ्) 7: sa-аорист (тематичний s-аорист)
 
-Den sa-Aorist bilden die meisten अनिट्-Wurzeln, die auf -ś, -ṣ oder -h auslauten und an deren vorletzter Stelle i, u oder ṛ steht. Fakultative अनिट्-Wurzeln dieser Gestalt bilden wahlweise den sa-Aorist oder den iṣ-Aorist. &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**sa-аорист утворюють більшість अनिट्-коренів, що закінчуються на -ś, -ṣ або -h і мають на передостанньому місці i, u або ṛ. Факультативні अनिट्-корені такої форми утворюють за вибором sa-аорист або iṣ-аорист.**
 
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+**Утворення:**
 
-Augment + tiefstufige Wurzel + s + a + thematische Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
+**Авґмент + коренево-нижній ступінь + s + a + тематичне вторинне закінчення**
 
-Die 1.sg.2.3.du.Ā werden vom s-Aorist, d.h. athematisch gebildet. &lt;!-- TODO: Fallback translation --&gt;
+**1.sg.2.3.du.Ā утворюються від s-аориста, тобто атематично.**
+:::
 
-Stammbildungssuffix + Endungen  des sa-Aorist lauten also: &lt;!-- TODO: Fallback translation --&gt;
+Суфікс словотворення основи + закінчення sa-аориста звучать так:
 
- परस्मैपदम्आत्मनेपदम् एकवचनम्द्विवचनम्बहुवचनम्एकवचनम्द्विवचनम्बहुवचनम्**1. तृतीयः****-sam****-sāva****-sāma****-si****-sāvahī****-sāmahi****2. द्वितीयः****-sas****-satam****-sata****-sathās****-sāthām****-sadhvam****3. प्रथमः****-sat****-satām****-san****-sata****-sātām****-santa** &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+|   | **परस्मैपदम्** ||| **आत्मनेपदम्** |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | **-sam** | **-sāva** | **-sāma** | ***-si*** | **-sāvahī** | **-sāmahi** |
+| **2. द्वितीयः** | **-sas** | **-satam** | **-sata** | **-sathās** | ***-sāthām*** | **-sadhvam** |
+| **3. प्रथमः** | **-sat** | **-satām** | **-san** | **-sata** | ***-sātām*** | **-santa** |
+:::
 
-Paradigma: &lt;!-- TODO: Fallback translation --&gt;
+Парадигма:
 
-दिश् 6U "zeigen" &lt;!-- TODO: Fallback translation --&gt;
+दिश् 6U "показувати"
 
 ::: indent
-परस्मैपदम्आत्मनेपदम् एकवचनम्द्विवचनम्बहुवचनम्एकवचनम्द्विवचनम्बहुवचनम्**1. तृतीयः**अदिक्षम्अदिक्षावअदिक्षामअदिक्षिअदिक्षावहिअदिक्षामहि**2. द्वितीयः**अदिक्षस्अदिक्षतम्अदिक्षतअदिक्षथास्अदिक्षाथाम्अदिक्षध्वम्**3. प्रथमः**अदिक्षत्अदिक्षताम्अदिक्षन्अदिक्षतअदिक्षाताम्अदिक्षन्त
+|   | **परस्मैपदम्** ||| **आत्मनेपदम्** |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अदिक्षम् | अदिक्षाव | अदिक्षाम | ***अदिक्षि*** | अदिक्षावहि | अदिक्षामहि |
+| **2. द्वितीयः** | अदिक्षस् | अदिक्षतम् | अदिक्षत | अदिक्षथास् | ***अदिक्षाथाम्*** | अदिक्षध्वम् |
+| **3. प्रथमः** | अदिक्षत् | अदिक्षताम् | अदिक्षन् | अदिक्षत | ***अदिक्षाताम्*** | अदिक्षन्त |
 :::
 
-Besonderheiten: &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Особливості:**
 
-Winige wurzeln auf -h (गुह्, दिह्, दुह्, लिह्) können im Ā die 2.3.sg.1.du.2.pl. wahlweise ohne -sa- bilden. &lt;!-- TODO: Fallback translation --&gt;
+**Кілька коренів на -h (गुह्, दिह्, दुह्, लिह्) можуть у Ā 2.3.sg.1.du.2.pl. утворювати за вибором без -sa-.**
+:::
 
-Paradigma: &lt;!-- TODO: Fallback translation --&gt;
+Парадигма:
 
-दिह् 2U "bestreichen" &lt;!-- TODO: Fallback translation --&gt;
+दिह् 2U "мастити"
 
 ::: indent
-आत्मनेपदम् एकवचनम्द्विवचनम्बहुवचनम्**1. तृतीयः**अधिक्षिअधिक्षावहै / अदिह्वहिअधिक्षामहि**2. द्वितीयः**अधिक्षथास् / अधिग्धास्अधिक्षथाम्अधिक्षध्वम् / अधिग्ध्वम्**3. प्रथमः**अधिक्षत / अदिग्धअधिक्षताम्अधिक्षन्त
+|   | **आत्मनेपदम्** |||
+| :--- | :---: | :---: | :---: |
+|   | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अधिक्षि | अधिक्षावहै / ***अदिह्वहि*** | अधिक्षामहि |
+| **2. द्वितीयः** | अधिक्षथास् / ***अधिग्धास्*** | अधिक्षथाम् | अधिक्षध्वम् / ***अधिग्ध्वम्*** |
+| **3. प्रथमः** | अधिक्षत / ***अदिग्ध*** | अधिक्षताम् | अधिक्षन्त |
 :::
 
-## 59.7. Вправа
+## 59.7. Вправи
 
-A) Übersetzen Sie den folgenden Text und bestimmen Sie alle darin vorkommenden Verbalformen. &lt;!-- TODO: Fallback translation --&gt;
+A) Перекладіть наведений текст та визначте всі граматичні форми дієслів, що в ньому зустрічаються.
 
-_Vorbemerkung:_ &lt;!-- TODO: Fallback translation --&gt;
+_Попередня примітка:_
 
-Der folgende Text stammt aus dem भट्टिकाव्य ("Kunstgedicht des \[Dichters\] Bhaṭṭi"). Das भट्टिकाव्य erzählt in 22 Gesängen die Geschichte von राम, belegt aber gleichzeitig die Regeln der Grammatik und Poetik durch Beispiele. &lt;!-- TODO: Fallback translation --&gt;
+Наступний текст походить з भट्टिकाव्य ("Поетичний твір [поета] Бга́тті"). भट्टिकाव्य розповідає в 22 піснях історію राम, але водночас ілюструє правила граматики та поетики за допомогою прикладів.
 
-Das Gedicht hat vier Abschnitte: &lt;!-- TODO: Fallback translation --&gt;
+Поема складається з чотирьох розділів:
 
-1.  Gesang 1-5: vermischte Regeln &lt;!-- TODO: Fallback translation --&gt;
-2.  Gesang 6-9: Hauptregeln von Pāṇinis Grammatik &lt;!-- TODO: Fallback translation --&gt;
-3.  Gesang 10-13: die wichtigsten poetischen Schmuckmittel &lt;!-- TODO: Fallback translation --&gt;
-4.  Gesang 14-22: Вживання der Tempora und Modi &lt;!-- TODO: Fallback translation --&gt;
+1.  Пісні 1-5: змішані правила
+2.  Пісні 6-9: основні правила граматики Пā́ніні
+3.  Пісні 10-13: найважливіші поетичні прикраси
+4.  Пісні 14-22: вживання часів і способів
 
-Das भट्टिकाव्य ist in der Zeit zwischen 495 und 641 n. Chr. entstanden. &lt;!-- TODO: Fallback translation --&gt;
+भट्टिकाव्य було створено в період між 495 і 641 роками нашої ери.
 
 ::: media
-![]/images/lekt5902.jpg
-Abb.: रावणः  
-\[Bildquelle: Henryart/Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5902.jpg)
+Рис.: रावणः
+(Джерело зображення: [Деталі](/uk/licenses#lekt5902))
 :::
-Der folgende Abschnitt ist der Beginn des 15. Gesangs, der dem Aorist gewidmet ist. रावण, der Dämonenkönig, der dem राम dessen Frau सीता geraubt hat, schickt nach seinem Bruder कुम्भकर्ण ("Topfohr"), der als Strafe für seine Übeltaten in einer Art Dauerschlaf liegt. &lt;!-- TODO: Fallback translation --&gt;
+Наступний уривок є початком 15-ї пісні, присвяченої аористу. रावण, цар демонів, який викрав у राम його дружину सीता, посилає за своїм братом कुम्भकर्ण ("Глево-вухо"), який перебуває в своєрідному стані тривалого сну як покарання за свої злочини.
 
 ::: media
-![]/images/lekt5903.jpg
-Abb.: कुम्भकर्णः  
-Kecak-Tanz, Bali (Indonesien)  
-\[Bildquelle: Flying Pharmacist / Wikipedia. [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/3.0/) (Namensnennung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5903.jpg)
+Рис.: कुम्भकर्णः
+Танець Кечак, Бали (Індонезія)
+(Джерело зображення: [Деталі](/uk/licenses#lekt5903))
 :::
-_Übersetzungshilfe:_ Vers 6: दिदृक्षते \= Desiderativ zu दृश् &lt;!-- TODO: Fallback translation --&gt;
+_Допомога при перекладі:_ Вірш 6: दिदृक्षते \= Дезидатив до दृश्
 
 ::: media
-![]/images/lekt5901.jpg
-Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f. &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5901.jpg)
+(Джерело зображення: [Деталі](/uk/licenses#lekt5901))
 :::
-Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f. <!-- TODO: Fallback translation -->
+Текст взято з: Отто Бёхлінк: Санскритська хрестоматія, с. 127-128.
 
 ::: deleteme-box
 
-### Джерела
+**lekt5902:** [Джерело зображення: Henryart/Wikipedia. Суспільне надбання]
 
-**lekt5902:** [Bildquelle: Henryart/Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
-**lekt5903:** Kecak-Tanz, Bali (Indonesien) [Bildquelle: Flying Pharmacist / Wikipedia. [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/3.0/) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5903:** Танець Кечак, Бали (Індонезія) [Джерело зображення: Flying Pharmacist / Wikipedia. [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) (Ім'я автора, похідні твори)]
 
 :::

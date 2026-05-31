@@ -1,142 +1,148 @@
+---
+title: Урок 45
+subtitle: "Образуване на глаголни форми за 2-то лице (मध्यमः) на тематични корени без вокално завършващ суфикс (продължение)"
+lesson_id: 45
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 45
 
-# Lektion 45
+## 45.1. Образуване на глаголни форми за 2-то лице (मध्यमः) на безгласни основи без вокално завършващ суфикс (продължение)
 
-## 45.1. Образоване der Verbalformen der 2. Person (मध्यमः) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)
+### 45.1.1. Трета клас на настоящето време (जुहोत्यादि)
 
-### 45.1.1. Dritte Сегашно времеklasse (जुहोत्यादि)
-
-हु 3P <!-- TODO: Fallback translation -->
+हु 3P
 
 ::: grammar-box
-| | परस्मैपदम् || आत्मनेपदम् || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens**[[br]]लट् | जुहोषि | जुहुथ | &lt;जुहुषे&gt; | &lt;जुहुध्वे&gt; | <!-- TODO: Fallback translation -->
-| **Imperfekt**[[br]]लङ् | अजुहोस् | अजुहुत | &lt;अजुहुथास्&gt; | &lt;अजुहुध्वम्&gt; | <!-- TODO: Fallback translation -->
-| **Optativ**[[br]]विधिलिङ् | जुहुयास् | जुहुयात | &lt;जुह्वीथास्&gt; | &lt;जुह्वीध्वम्&gt; | <!-- TODO: Fallback translation -->
+| | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Индикатив настоящо време**[[br]]लट् | जुहोषि | जुहुथ | &lt;जुहुषे&gt; | &lt;जुहुध्वे&gt; |
+| **Имперфект**[[br]]लङ् | अजुहोस् | अजुहुत | &lt;अजुहुथास्&gt; | &lt;अजुहुध्वम्&gt; |
+| **Оптив**[[br]]विधिलिङ् | जुहुयास् | जुहुयात | &lt;जुह्वीथास्&gt; | &lt;जुह्वीध्वम्&gt; |
 :::
 
-धा 2U <!-- TODO: Fallback translation -->
+धा 2U
 
 ::: grammar-box
-| | परस्मैपदम् || आत्मनेपदम् || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens**[[br]]लट् | दधासि | धत्थ[[br]]aus: dadh + tha | धत्से | धद्ध्वे | <!-- TODO: Fallback translation -->
-| **Imperfekt**[[br]]लङ् | अदधास् | अधत्त | अधत्थास् | अधद्ध्वम् | <!-- TODO: Fallback translation -->
-| **Optativ**[[br]]विधिलिङ् | दध्यास् | दध्यात | दधीथास् | दधीध्वम् | <!-- TODO: Fallback translation -->
+| | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Индикатив настоящо време**[[br]]लट् | दधासि | धत्थ[[br]]от: dadh + tha | धत्से | धद्ध्वे |
+| **Имперфект**[[br]]लङ् | अदधास् | अधत्त | अधत्थास् | अधद्ध्वम् |
+| **Оптив**[[br]]विधिलिङ् | दध्यास् | दध्यात | दधीथास् | दधीध्वम् |
 :::
 
-### 45.1.2. Siebte Сегашно времеklasse (रुधादि)
+### 45.1.2. Седма класа на настоящето време (रुधादि)
 
 ::: grammar-box
-**Wenn auslautendes k/g der Wurzel zwischen den Nasal ṅ und einen Dental der Endung zu stehen kommt, so kann wahlweise das k/g wegfallen** <!-- TODO: Fallback translation -->
+**Ако крайното k/g на корена се появи между носовата ṅ и назалния край на окончанието, то k/g може да бъде пропуснато по избор**
 
-z.B. **युज्** 3.sg.Ind.Präs.Ā युङ्क्ते oder युङ्ते <!-- TODO: Fallback translation -->
+напр. **युज्** 3.l.Ind.Наст.Ā युङ्क्ते или यु***ङ्ते***
 :::
 
-युज् 7U <!-- TODO: Fallback translation -->
+युज् 7U
 
 ::: grammar-box
-| | परस्मैपदम् || आत्मनेपदम् || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens**[[br]]लट् | युनक्षि[[br]]yu-na-j + si | युङ्क्थ[[br]]युङ्थ | युङ्क्षे | युङ्ग्ध्वे[[br]]युङ्ध्वे | <!-- TODO: Fallback translation -->
-| **Imperfekt**[[br]]लङ् | अयुनक्[[br]]aus: a-yu-na-j + s | युङ्क्त[[br]]अयुङ्त | अयुङ्क्थास्[[br]]अयुङ्थास् | अयुङ्ग्ध्वम्[[br]]अयुङ्ध्वम् | <!-- TODO: Fallback translation -->
-| **Optativ**[[br]]विधिलिङ् | युञ्ज्यास् | युञ्ज्यात | युञ्जीथास् | युञ्जीध्वम् | <!-- TODO: Fallback translation -->
+| | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Индикатив Настоящо**[[br]]लट् | युनक्षि[[br]]yu-na-j + si | युङ्क्थ[[br]]युङ्थ | युङ्क्षे | युङ्ग्ध्वे[[br]]युङ्ध्वे |
+| **Неопределено минало**[[br]]लङ् | अयुनक्[[br]]от: a-yu-na-j + s | युङ्क्त[[br]]अयुङ्त | अयुङ्क्थास्[[br]]अयुङ्थास् | अयुङ्ग्ध्वम्[[br]]अयुङ्ध्वम् |
+| **Оптив**[[br]]विधिलिङ् | युञ्ज्यास् | युञ्ज्यात | युञ्जीथास् | युञ्जीध्वम् |
 :::
 
-रुध् 7U <!-- TODO: Fallback translation -->
+रुध् 7U
 
 ::: grammar-box
-| | परस्मैपदम् || आत्मनेपदम् || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens**[[br]]लट् | रुणत्सि[[br]]ru + na + dh + si | रुन्द्ध[[br]]ru-n-dh + tha | रुन्त्से | रुन्द्ध्वे | <!-- TODO: Fallback translation -->
-| **Imperfekt**[[br]]लङ् | अरुणत्[[br]]aus a-ru-ṇa-dh + s[[br]] अरुण्स् (unregelm.!) | अरुन्द्ध[[br]]a-ru-n-dh + ta | अरुन्द्धास् | अरुन्द्ध्वम् | <!-- TODO: Fallback translation -->
-| **Optativ**[[br]]विधिलिङ् | रुन्ध्यास् | रुन्ध्यात | रुन्धीथास् | रुन्धीध्वम् | <!-- TODO: Fallback translation -->
+| | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Индикатив Настоящо**[[br]]लट् | रुणत्सि[[br]]ru + na + dh + si | रुन्द्ध[[br]]ru-n-dh + tha | रुन्त्से | रुन्द्ध्वे |
+| **Неопределено минало**[[br]]लङ् | अरुणत्[[br]]от a-ru-ṇa-dh + s[[br]] ***अरुण्स्*** (неправилно!) | अरुन्द्ध[[br]]a-ru-n-dh + ta | अरुन्द्धास् | अरुन्द्ध्वम् |
+| **Оптив**[[br]]विधिलिङ् | रुन्ध्यास् | रुन्ध्यात | रुन्धीथास् | रुन्धीध्वम् |
 :::
 
-## 45.2. Der Вокатив Единствено число (आमन्त्रितमेकवचने)
+## 45.2. Звателен падеж, единствено число (आमन्त्रितमेकवचने)
 
 ::: grammar-box
-Die meisten Vokative des Singular sind &lt;!-- TODO: Fallback translation --&gt;
+**Повечето звателни форми за единствено число са основата с високо степенуване на края.**
 
-z.B. देव, कवे, शत्रो, राजन्, पितर् u.s.w. &lt;!-- TODO: Fallback translation --&gt;
+напр. **देव, कवे, शत्रो, राजन्, पितर्** и т.н.
 
-der Stamm mit hochstufigem Auslaut. &lt;!-- TODO: Fallback translation --&gt;
+**Изключения са женския род на -ā и -ī, както и основите на -in, чиито звателни форми за ед.ч. трябва да се запомнят особено внимателно.**
 :::
 
 :::: grammar-box
 ::: no-header
-| | Вокатив Единствено число |
+| | Звателен падеж, единствено число |
 | --- | --- |
-| Maskulina auf -a | देव |
-| Neutra auf -a | फल |
-| Feminina auf -ā | देवते |
-| Maskulina auf -i | कवे |
-| Feminina auf -i | मते |
-| Maskulina auf -u | शत्रो |
-| Feminina auf -u | धेनो |
-| Feminina auf -ī | देवि |
-| Maskulina auf -ṛ | पितर् |
-| Feminina auf -ṛ | मातर् |
-| Maskulina auf -an | राजन् |
-| Neutra auf -an | नामन्[[br]]नाम |
-| Maskulina auf -man/-van | आत्मन् |
-| Maskulina auf -in | बलिन् |
-| Maskulina auf -ant | बलिन्[[br]]बलि |
-| mahānt m. | महन् |
-| mahānt n. | महत्[[br]]= Номинатив |
-| Maskulina auf -mant/-vant | गुणवन् |
-| Neutra auf -mant/-vant | गुणवत्[[br]]= Номинатив |
-| --- | ein Вокатив wird nicht gebildet |
+| Мъжки род на -a | देव |
+| Среден род на -a | फल |
+| Женски род на -ā | देवते |
+| Мъжки род на -i | कवे |
+| Женски род на -i | मते |
+| Мъжки род на -u | शत्रो |
+| Женски род на -u | धेनो |
+| Женски род на -ī | देवि |
+| Мъжки род на -ṛ | पितर् |
+| Женски род на -ṛ | मातर् |
+| Мъжки род на -an | राजन् |
+| Среден род на -an | नामन्[[br]]नाम |
+| Мъжки род на -man/-van | आत्मन् |
+| Мъжки род на -in | बलिन् |
+| Мъжки род на -ant | बलिन्[[br]]बलि |
+| mahānt м. | महन् |
+| mahānt ср. | महत्[[br]]= Звателен падеж |
+| Мъжки род на -mant/-vant | गुणवन् |
+| Среден род на -mant/-vant | गुणवत्[[br]]= Звателен падеж |
+| Местоимения | не се образува звателен падеж |
 :::
 ::::
 
 ::: media
 ![](/images/lekt4501.jpg)
-Abb.: भवति किं करोषि  
-Textil-Blockdruck, Ahmedabad  
-\[Bildquelle: Daveybot. -- [http://www.flickr.com/photos/davemorris/316429534/](http://www.flickr.com/photos/davemorris/316429534/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+Ил.: भवति किं करोषि
+(Източник на изображението: [Подробности](/bg/licenses#lekt4501))
 :::
 
 ## 45.3. Речник
 
-वा ... वा : entweder ... oder &lt;!-- TODO: Fallback translation --&gt;
+वा ... वा : или ... или
 
 ## 45.4. Упражнение
 
-A) Übersetzen Sie ins Sanskrit (für Vergangenheitsformen bitte das Imperfekt &lt;लङ्&gt; verwenden): &lt;!-- TODO: Fallback translation --&gt;
+A) Преведете на санскрит (за минало време моля използвайте имперфект &lt;लङ्&gt;):
 
-1\. Du spaltest die (buddhistische) Gemeinde. &lt;!-- TODO: Fallback translation --&gt;
+1\. Ти разцепваш (будистката) общност.
 
 ::: indent
-zur Gemeindespaltung (सङ्घभेद) siehe: &lt;!-- TODO: Fallback translation --&gt;
+за разцепването на общността (सङ्घभेद) вижте:
 
-&lt;!-- TODO: Fallback translation --&gt;
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Основни понятия на монашеските правила и орденското право на Тхеравада. -- Част I. -- (Материали за основните понятия на будизма). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 
-&gt; **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm) &lt;!-- TODO: Fallback translation --&gt;
+2\. Насладихте ли се на земята?
 
-2\. Habt ihr die Erde genossen? &lt;!-- TODO: Fallback translation --&gt;
+3\. Приехте ли дар от краля?
 
-3\. Hast du vom König eine Gabe empfangen? &lt;!-- TODO: Fallback translation --&gt;
+4\. Свещен мъжо, защо не се страхуваш от опасностите?
 
-4\. Heiliger Mann, warum fürchtest du dich nicht vor Gefahren? &lt;!-- TODO: Fallback translation --&gt;
+5\. Татко, къде оставяш семейството?
 
-5\. Vater, wohin verlässt du die Familie? &lt;!-- TODO: Fallback translation --&gt;
+6\. Шудраженo, ти не носихте ли тежестта в дома на богатия брахман?
 
-6\. Śūdrafrau, hast du die Last ins Haus des reichen Brahmanen getragen? &lt;!-- TODO: Fallback translation --&gt;
+7\. Божествено, ти трябваше да изпълниш желанието за щастие на вайшята, който е извършил заслуги.
 
-7\. Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen. &lt;!-- TODO: Fallback translation --&gt;
+8\. Слоновe, вие не трябваше да разкъсвате оковите.
 
-8\. Elefanten, ihr solltet die Fesseln nicht zerbrechen. &lt;!-- TODO: Fallback translation --&gt;
+9\. Ти, мъже, равен на лъв, защо не насочваш цялото си внимание към Абсолюта (Брахман)?
 
-9\. Du löwengleicher Mann, warum richtest du nicht deine ganze Aufmerksamkeit auf das Absolute (Brahman)? &lt;!-- TODO: Fallback translation --&gt;
+10\. Ти, поет, не измерих ли светове?
 
-10\. Hast du, Dichter, die Welten gemessen? &lt;!-- TODO: Fallback translation --&gt;
+B) Преведете:
 
 अर्जुन हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीं । तस्माद्भवता योध्यम् ॥१॥
 
@@ -148,15 +154,14 @@ zur Gemeindespaltung (सङ्घभेद) siehe: &lt;!-- TODO: Fallback trans
 
 ::: media
 ![](/images/lekt4502.jpg)
-Abb.: कन्ये किं लिखसि  
-\[Bildquelle: John Isaac / World Bank. -- [http://www.flickr.com/photos/worldbank/2348425672/](http://www.flickr.com/photos/worldbank/2348425672/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
+Ил.: कन्ये किं लिखसि
+(Източник на изображението: [Детайли](/bg/licenses#lekt4502))
 :::
+
 
 ::: deleteme-box
 
-### Източници
+**lekt4501.jpg:** Текстилен блокен печат, Ахмедабад. -- Източник на изображението: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Посетен на 2009-01-08. -- Лиценз Creative Commons (Приписване, Нekomмерсиално използване, Споделяне при еднакви условия)
 
-**lekt4501.jpg**: Textil-Blockdruck, Ahmedabad. -- Bildquelle: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
-
-**lekt4502.jpg**: Bildquelle: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
+**lekt4502.jpg:** Източник на изображението: John Isaac / Святна банка. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Посетен на 2009-01-08. -- Лиценз Creative Commons (Приписване, Нekomмерсиално използване, Без промени)
 :::

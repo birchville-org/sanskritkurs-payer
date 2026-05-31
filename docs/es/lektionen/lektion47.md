@@ -110,7 +110,8 @@ Nota: ¹ Las desinencias de la 2. y 3. persona singular pueden sustituirse por *
 ::: media
 ![](/images/lekt4702.jpg)
 Fig.: प्रविशत
-(Fuente de la imagen: [Detalles](/licenses#lekt4702))
+Templo de Hanuman, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4702))
 :::
 
 ### 47.2.4. Cuarta clase de presente (दिवादि)
@@ -127,7 +128,7 @@ Fig.: प्रविशत
 ::: media
 ![](/images/lekt4701.jpg)
 Fig.: नृत्यत
-(Fuente de la imagen: [Detalles](/licenses#lekt4701))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4701))
 :::
 
 ### 47.2.5. Décima clase de presente (चुरादि) y causativos
@@ -169,7 +170,7 @@ A) Traduzca:
 ::: media
 ![](/images/lekt4703.jpg)
 Fig.: भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु
-(Fuente de la imagen: [Detalles](/licenses#lekt4703))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4703))
 :::
 आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥४॥
 
@@ -180,7 +181,7 @@ Fig.: भो राम यदि मया गन्तवं तदैषा �
 ::: media
 ![](/images/lekt4704.jpg)
 Fig.: आर्ये स्वागतं ते
-(Fuente de la imagen: [Detalles](/licenses#lekt4704))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4704))
 :::
 आज्ञापयत्वार्यः किं मया क्रियतामिति ॥७॥
 
@@ -264,7 +265,6 @@ B.) Traduzca al sánscrito (utilice el imperativo):
 
 ::: deleteme-box
 
-### Fuentes
 
 **lekt4702:** Templo de Hanuman, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی [Fuente de la imagen: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Acceso el 2009-01-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribución, sin obras derivadas)]
 

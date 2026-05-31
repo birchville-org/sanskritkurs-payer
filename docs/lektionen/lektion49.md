@@ -1,6 +1,10 @@
 ---
+title: Lektion 49
+subtitle: "Bildung des Imperativs (लोट्) athematischer Präsensstämme (Fortsetzung)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 49
@@ -44,7 +48,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. Person**[[br]]तृतीयः | सुनवानि | सुनवाम | सुनवै | सुनवाम |
-| **2. Person**[[br]]मध्यमः | सुनु | सुनुत | सुनुष्व | सुनुध्वम् |
+| **2. Person**[[br]]मध्यमः | ***सुनु*** | सुनुत | सुनुष्व | सुनुध्वम् |
 | **3. Person**[[br]]प्रथमः | सुनोतु | सुन्वन्तु | सुनुताम् | सुन्वताम्[[br]]su-nu + atām |
 :::
 
@@ -68,7 +72,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. Person**[[br]]तृतीयः | तनवानि | तनवाम | तनवै | तनवामहै |
-| **2. Person**[[br]]मध्यमः | तनु | तनुत | तनुष्व | तनुध्वम् |
+| **2. Person**[[br]]मध्यमः | ***तनु*** | तनुत | तनुष्व | तनुध्वम् |
 | **3. Person**[[br]]प्रथमः | तनोतु | तन्वन्तु | तनुताम् | तन्वताम् |
 :::
 
@@ -79,7 +83,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. Person**[[br]]तृतीयः | करवाणि | करवाम | करवै | करवामहै |
-| **2. Person**[[br]]मध्यमः | कुरु | कुरुत | कुरुष्व | कुरुध्वम् |
+| **2. Person**[[br]]मध्यमः | ***कुरु*** | कुरुत | कुरुष्व | कुरुध्वम् |
 | **3. Person**[[br]]प्रथमः | करोतु | कुर्वन्तु | कुरुताम् | कुर्वताम् |
 :::
 
@@ -107,7 +111,7 @@ Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
 | **1. Person**[[br]]तृतीयः | गृह्णानि | गृह्णाम |
-| **2. Person**[[br]]मध्यमः | गृहाण | गृह्णीत |
+| **2. Person**[[br]]मध्यमः | ***गृहाण*** | गृह्णीत |
 | **3. Person**[[br]]प्रथमः | गृह्णातु | गृहणन्तु |
 :::
 
@@ -225,7 +229,7 @@ Perf. Vc तत्वरे
 Fut. त्वरिष्यते
 Pass. त्वर्यते
 Kaus. त्वरयति
-PPP त्वरित । तू्र्ण
+PPP त्वरित । ***तू्र्***ण
 Inf. त्वरितुम्
 :::
 
@@ -256,6 +260,7 @@ Abb.: कुलूहलम्
 ::: media
 ![](/images/lekt4902.jpg)
 Abb.: उत्तमा काला
+शिवो नटराजा, 11. Jhdt.
 (Bildquelle: [Details](/licenses#lekt4902))
 :::
 वर m.n.: Wunsch
@@ -274,6 +279,7 @@ Abb.: विहंगः
 ::: media
 ![](/images/lekt4904.jpg)
 Abb.: वेषः
+वाराणस्याम्
 (Bildquelle: [Details](/licenses#lekt4904))
 :::
 छन्न n.: Decke, Versteck
@@ -283,6 +289,7 @@ Abb.: वेषः
 ::: media
 ![](/images/lekt4909.jpg)
 Abb.: पञ्जरम्
+Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore
 (Bildquelle: [Details](/licenses#lekt4909))
 :::
 चाण्डाल । चण्डाल m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
@@ -310,6 +317,7 @@ Gerundiv ध्येय
 ::: media
 ![](/images/lekt4905.jpg)
 Abb.: सादरः
+Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Bildquelle: [Details](/licenses#lekt4905))
 :::
 कुतुक n. = कुलूहल n.
@@ -321,6 +329,7 @@ Abb.: सादरः
 ::: media
 ![](/images/lekt4906.jpg)
 Abb.: गजशिशुः
+Sri Lanka
 (Bildquelle: [Details](/licenses#lekt4906))
 :::
 ## 49.5. Wiederholungsübung zur Formenlehre
@@ -380,11 +389,11 @@ Fragen des Königs शूद्रक von विदिशा an den Papagei व�
 ::: media
 ![](/images/lekt4908.jpg)
 Abb.: शुकः
+Pflaumenkopfsittich = Psittacula cyanocephala
 (Bildquelle: [Details](/licenses#lekt4908))
 :::
 
 ::: deleteme-box
-### Quellen
 
 **lekt4907:** [Bildquelle: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Zugriff am 2009-01-10. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)]
 

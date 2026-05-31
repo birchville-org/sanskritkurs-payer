@@ -1,152 +1,165 @@
+---
+title: Урок 57
+subtitle: "Аорист 4: s-аорист"
+lesson_id: 57
+last_reconstructed: 2026-05-21
+category: "Граматика"
+status: stable
+---
 
+# Урок 57
 
-# Lektion 57
-
-## 57.1. Aorist 4: s-Aorist
-
-| Der s-Aorist wird zu den meisten अनिट्-Wurzeln gebildet, sofern sie nicht ausschließlich eine andere Aoristform haben. Fakultative अनिट्-Wurzeln können im allgemeinen wahlweise diesen oder den iṣ-Aorist bilden. 
-Auch अनिट्-Wurzeln, die das परस्मैपद nach der 1.,2. oder 6. Form des Aorist bilden, bilden das आत्मनेपद nach dem s-Aorist. &lt;!-- TODO: Fallback translation --&gt;
-
- | --- |
-| --- |
-| Утворення: |
-
-Augment + Wurzel + s + athematische Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
-
- |
-
-Tabelle der Endungen mit Stammbildungssuffix &lt;!-- TODO: Fallback translation --&gt;
-
- परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः****-sam****-sma****-si****-smahi****2. द्वितीयः****-sīs****-sta****-sthās****-dhvam****3. प्रथमः****-sīt****-sur****-sta****-sata** &lt;!-- TODO: Fallback translation --&gt;
-
-Es wird das allgemeine Lautgesetz angewendet, dass ein Zischlaut zwischen zwei Verschlusslauten ausfällt (vgl. उद् + स्थित » उत्थित), d.h. das Stammbildungssuffix -s- vor Endungen, die mit -t- oder -th- beginnen, entfällt (nicht aber nach Nasalen oder r-). &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-3.sg.Ā a-kṣip + s + ta » अक्षिप्त   &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-2.sg.Ā a-kṣip + s + thās » अक्षिप्थास् &lt;!-- TODO: Fallback translation --&gt;
-
-Die indischen Grammatiker haben auch Formen wie अकृत (3.sg.Ā) zum s-Aorist gerechnet, die eindeutig zum Wurzelaorist gehören. Zu diesem Zweck haben die indischen Grammatiker folgende ad-hoc Lautregel für den s-Aorist erfunden: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-Solche Formen könnten auch zum Wurzelaorist gehören und gehören vermutlich z.T. auch dorthin. &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-"Nach kurzem Vokal verlieren die "Endungen", die mit -st- oder -sth- beginnen, das -s-." &lt;!-- TODO: Fallback translation --&gt;
-
-Sonst sind die Lautregeln für die Verbindung auslautender Konsonanten mit s- zu beachten. &lt;!-- TODO: Fallback translation --&gt;
-
-Für -dhvam gilt: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-z.B. चि 5U: 2.pl.Ā अचेढ्वम् &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Das -dh- von -dhvam wird nach allen Nicht-a/ā-Vokalen sowie nach -r durch -ḍh- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
-
-*   परस्मैपद : Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
-*   आत्मनेपद :
-    *   Form der Wurzel: &lt;!-- TODO: Fallback translation --&gt;
-    *   Коріньn mit auslautendem i/ī/u/ū: Hochstufe &lt;!-- TODO: Fallback translation --&gt;
-    *   auslautendes -ṝ wird durch -īr oder -ūr ersetzt &lt;!-- TODO: Fallback translation --&gt;
-    *   ablautfähige Коріньn auf ā/e/o: Tiefstufe &lt;!-- TODO: Fallback translation --&gt;
-
-andere Коріньvokale: unverändert (d.h. in der Regel tiefstufig) &lt;!-- TODO: Fallback translation --&gt;
+## 57.1. Аорист 4: s-аорист
 
 ::: grammar-box
-|   |
-|   |  &lt;!-- TODO: Fallback translation --&gt;
+**s-аорист утворюється до більшості अनिट्-коренів, якщо вони не мають виключно іншої форми аориста. Факультативні अनिट्-корені зазвичай можуть утворювати або цей, або іш-аорист. Також अनिट्-корені, які утворюють परस्मैपद після 1-, 2- або 6-ї форми аориста, утворюють आत्मनेपद за зразком s-аориста.**
 
-| | |
+**Утворення: Авґент + корінь + s + атематичні вторинні закінчення**
+:::
+
+Таблиця закінчень із суфіксом утворення основи
+
+::: grammar-box
+
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | -sam | -sma | -si | -smahi |
+| **2. द्वितीयः** | ***-sīs*** | -sta | -sthās | ***-dhvam*** |
+| **3. प्रथमः** | ***-sīt*** | -sur | -sta | -sata |
+:::
+
+:::: grammar-box
+**Застосовується загальне фонетичне правило, що фрикативний звук випадає між двома вибушними (пор. उद् + स्थित » उत्थित), тобто суфікс утворення основи -s- перед закінченнями, що починаються на -t- або -th-, випадає (але не після носових або r-).**
+
+Приклади:
+
+::: indent
+3.os.Ā a-kṣip + s + ta » अ***क्षिप्त***
+2.os.Ā a-kṣip + s + thās » अ***क्षिप्था***स्
+:::
+
+Такі форми також могли б належати до кореневого аориста і, ймовірно, частково йому й належать.
+::::
+
+Індійські граматисти також зарахували форми на кш. अकृत (3.os.Ā) до s-аориста, які явно належать до кореневого аориста. З цією метою індійські граматисти винайшли наступне ad-hoc фонетичне правило для s-аориста:
+
+::: indent
+"Після короткого голосу закінчення, що починаються на -st- або -sth-, втрачають -s-."
+:::
+
+Інакше слід дотримуватися фонетичних правил для поєднання вихідних приголосних із s-.
+
+Для -dhvam дійсне:
+
+:::: grammar-box
+**-dh- від -dhvam замінюється на -ḍh- після всіх не a/ā-голосних, а також після -r.**
+
+::: indent
+напр. ***चि*** 5U: 2.mn.Ā ***अचेढ्वम्***
+:::
+::::
+
+::: grammar-box
+**Форма кореня:**
+
+*   **परस्मैपद : подовжена ступінь**
+*   **आत्मनेपद :**
+    *   **Корені з вихідним i/ī/u/ū: піднесена ступінь**
+    *   **вихідне -ṝ замінюється на -īr або -ūr**
+    *   **корені, що підлягають аблауту на ā/e/o: низька ступінь**
+    *   **інші голосні кореня: незмінні (тобто зазвичай низька ступінь)**
+:::
+
+Приклади:
+
+|   | **3.os.P** |
 | --- | --- |
-| चि 5U |  |
-
-अचैषीत्
-
-| | |
+| चि 5U | अचैषीत् |
 | श्रु 5P | अश्रौषीत् |
 | कृ 8U | अकार्षीत् |
 | भज् 1U | अभाक्षीत् |
 | भञ्ज् 7P | अभाङ्क्षीत् |
 | भुज् 7U | अभौक्षीत् |
 
-|   |
-&lt;!-- TODO: Fallback translation --&gt;
-
-| | |
+|   | **3.os.Ā** |
 | --- | --- |
-| चि 5U |  |
-
-अचेष्ट
-
-| | |
+| चि 5U | अचेष्ट |
 | नी 1U | अनेष्ट |
 | सू 2/4 | असोष्ट |
-|   | sg.Ā |
-| दा 3U | अदिषि |
-अदिथास्
-| अदित | | |
-|   | 1.sg.Ā |
+|   | **os.Ā** |
+| दा 3U | अदिषि[[br]]**अदिथास्**[[br]]**अदित** |
+|   | **1.os.Ā** |
 | कृ 8U | अकृषि |
 | पच् 1U | अपक्षि |
-:::
 
-दृश् und सृज् haben im परस्मैपद Dehnstufe mit steigendem Diphton -rā-: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-दृश् 3.sg.P अद्राक्षीत् &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-| | | &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+**दृश् та सृज् мають у परस्मैपद подовжену ступінь із зростаючим дифтонгом -rā-:**
 
 ::: indent
-कृष् 1P/6U 3.sg.P अकार्क्षीत् / अक्राक्षीत् &lt;!-- TODO: Fallback translation --&gt;
+दृश् 3.os.P अ***द्राक्षी***त्
 :::
 
-| --- | --- | &lt;!-- TODO: Fallback translation --&gt;
-
-नी 1U "führen" &lt;!-- TODO: Fallback translation --&gt;
+Аорист інших коренів з -ṛ- на передостанньому місці також може утворюватися таким чином:
 
 ::: indent
-परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः**अनैषम्अनैष्मअनेषिअनेष्महि**2. द्वितीयः**अनैषीस्अनैष्टअनेष्ठास्अनेढ्वम्**3. प्रथमः**अनैषीत्अनैषुर्नेष्टअनेषत
+कृष् 1P/6U 3.os.P अकार्क्षीत् / अ***क्राक्षी***त्
 :::
+::::
+
+Парадигми:
+
+नी 1U "вести"
+
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+
+| :--- | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अनैषम् | अनैष्म | अनेषि | अनेष्महि |
+| **2. द्वितीयः** | अनैषीस् | अनैष्ट | अनेष्ठास् | अने***ढ्वम्*** |
+| **3. प्रथमः** | अनैषीत् | अनैषुर् | नेष्ट | अनेषत |
 
 ::: media
-![]/images/lekt5701.jpg
-Abb.: भीमराव रामजी आंबेडकर (१८९१ - १९५६) । सो ऽनैषीद्दलितान् ॥  
-\[Bildquelle: Wikipedia. Public Domain\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5701.jpg)
+Мал.: भीमराव रामजी आंबेडकर (१८९१ १९५६) । सो ऽनैषीद्दलितान् ॥
+(Джерело зображення: [Деталі](/uk/licenses#lekt5701))
 :::
-कृ 8U "tun" &lt;!-- TODO: Fallback translation --&gt;
+कृ 8U "робити"
 
-::: indent
-परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः**अकार्षम्अकार्ष्मअकृषिअकृष्महि**2. द्वितीयः**अकार्षीस्अकार्ष्टअकृथास्अकृढ्वम्**3. प्रथमः**अकार्षीत्अकार्षुर्अकृतअकृषत
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अकार्षम् | अकार्ष्म | अकृषि | अकृष्महि |
+| **2. द्वितीयः** | अकार्षीस् | अकार्ष्ट | ***अकृथास्*** | अकृढ्वम् |
+| **3. प्रथमः** | अकार्षीत् | अकार्षुर् | ***अकृत*** | अकृषत |
+
+तुद् 6U "битися"
+
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अतौत्सम् | अतौत्स्म | अतुत्सि | अतुत्स्महि |
+| **2. द्वितीयः** | अतौत्सीस् | अतौत्त[[br]]з: a-taut + s + ta | अतुत्थास् | अतुद्ध्वम् |
+| **3. प्रथमः** | अतौत्सीत् | अतौत्सुर् | अतुत्त | अतुत्सत |
+
+::: grammar-box
+**Нерегулярні форми:**
+
+**1. Корені на носовий (गम्, मन्, रम्) утворюють s-аорист високого ступеня:**
+**अगंसि । अमंसि । अरंस्त**
+**Поруч існують для गम् регулярні форми низького ступеня:**
+**अगसि (« \*a-gm-si) । अगथास् । अगत (у P має गम् тематичний аорист)**
+
+2.  पद् 4Ā є регулярним (напр. अपत्सि), в 3.os.Ā він має форму пасивного кореневого аориста:
+    अपादि "він пішов"
+
+3.  बुध् Ā може в 3.os.Ā за бажанням приймати форму пасивного кореневого аориста:
+    अबोधि / अबुद्ध "він впізнав"
 :::
 
-तुद् 6U "schlagen" &lt;!-- TODO: Fallback translation --&gt;
+## 57.2. Вправи
 
-::: indent
-परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः**अतौत्सम्अतौत्स्मअतुत्सिअतुत्स्महि**2. द्वितीयः**अतौत्सीस्अतौत्त aus: a-taut + s + taअतुत्थास्अतुद्ध्वम्**3. प्रथमः**अतौत्सीत्अतौत्सुर्अतुत्तअतुत्सत &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-&lt;!-- TODO: Fallback translation --&gt;
-
-1.  Коріньn auf Nasal (गम्, मन्, रम्) bilden den s-Aorist hochstufig:   &lt;!-- TODO: Fallback translation --&gt;
-    अगंसि । अमंसि । अरंस्त  
-    Daneben gibt es für गम् die regelmäßigen tiefstufigen Formen:  
-    अगसि (« \*a-gm-si) । अगथास् । अगत (im P hat गम् den themavokalischen Aorist)   &lt;!-- TODO: Fallback translation --&gt;
-
-2.  पद् 4Ā ist regelmäßig (z.B. अपत्सि), in der 3.sg.Ā hat es aber die Form des passivischen Коріньaorist:   &lt;!-- TODO: Fallback translation --&gt;
-    अपादि "er ging"   &lt;!-- TODO: Fallback translation --&gt;
-
-3.  बुध् Ā kann in der 3.sg.Ā wahlweise die Form des passiven Коріньaorists annehmen:   &lt;!-- TODO: Fallback translation --&gt;
-    अबोधि / अबुद्ध "er erkannte" &lt;!-- TODO: Fallback translation --&gt;
-
-## 57.2. Вправа
-
-A) Übersetzen und bestimmen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Aoristformen. Außer bei Kausativen und Wurzeln, die den s-Aorist bilden, ist in Klammer die Klasse des entsprechenden Aorists angegeben: &lt;!-- TODO: Fallback translation --&gt;
+A) Перекладіть і визначте без довідкових матеріалів наступні форми та утворіть відповідні форми аориста. За винятком каузативів та коренів, що утворюють s-аорист, у дужках вказано клас відповідного аориста:
 
 1.  पेचिथ
 2.  अवक् (३)
@@ -174,7 +187,7 @@ A) Übersetzen und bestimmen Sie ohne Hilfsmittel folgende Formen und bilden Sie
 24.  कर्षन्ति
 25.  अप्रच्छयन्
 
-B) Übersetzen und bestimmen Sie folgende Formen: &lt;!-- TODO: Fallback translation --&gt;
+B) Перекладіть і визначте наступні форми:
 
 1.  चेलुः
 2.  जन्तुः
@@ -235,8 +248,6 @@ B) Übersetzen und bestimmen Sie folgende Formen: &lt;!-- TODO: Fallback transla
 
 ::: deleteme-box
 
-### Джерела
-
-**lekt5701:** [Bildquelle: Wikipedia. Public Domain] <!-- TODO: Fallback translation -->
+**lekt5701:** [Джерело зображення: Вікіпедія. Суспільне надбання]
 
 :::

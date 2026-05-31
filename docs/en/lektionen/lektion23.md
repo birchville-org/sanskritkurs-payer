@@ -1,6 +1,10 @@
 ---
+title: Lesson 23
+subtitle: "The Infinitive (तुमुन्)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 23
@@ -8,58 +12,58 @@ last_reconstructed: 2026-05-21
 ## 23.1. The Infinitive (तुमुन्)
 
 ::: grammar-box
-**If one wishes to express in Sanskrit that an action is performed for the sake of another action ("in order to"), the infinitive (तुमुन्) can be used for the action for whose sake it is performed. The infinitive primarily denotes purpose or intention:**
+**If one wants to express in Sanskrit that an action is performed for the sake of another action ("in order to"), one can use the infinitive (तुमुन्) for the action for whose sake it is performed. The infinitive primarily denotes purpose or intention:**
 
-> रामो गुरुवचनं श्रोतुं गतः = "Rāma has gone in order to hear the words of the teacher."
+> रामो गुरुवचनं श्रोतुं गतः = "Rāma has gone to listen to the teacher's speech."
 
-**Note that the infinitive – with a few strictly defined exceptions – cannot function as the subject or object of a verb:**
+**Note that the infinitive — with some strictly defined exceptions — cannot stand as the subject or object of a verb:**
 
-> Thus, "He learns to dance" must not be translated using the infinitive ("to dance"), but rather requires a verbal noun, e.g.: नर्तनमधीते (इ + अधि 2 Ā: "to learn").
+> "He learns to dance" must therefore not be translated with the infinitive ("to dance"), but one must use a verbal noun, e.g.: नर्तनमधीते (इ + अधि 2 Ā: "to learn").
 
-**The infinitive is also used with verbs and nouns meaning "to wish" or "to long for," provided that the agent (कर्तृ) of the infinitive and the governing verb are identical:**
+**The infinitive is also used with verbs and nouns meaning "to wish" or "to long for," when the agent (कर्तृ) of the infinitive and the verb are identical:**
 
-> रामो गुरुवचनं श्रोतुमिच्छति = "Rāma wishes to hear the words of the teacher."
+> रामो गुरुवचनं श्रोतुमिच्छति = "Rāma wishes to listen to the teacher's speech."
 
-**The infinitive is furthermore used with verbs in the sense of "to be able," "there is," "to know," and "to begin":**
+**The infinitive is also used, among other things, with verbs in the meanings "to be able," "there is," "to know," "to begin":**
 
-> साधुरधर्मं कर्तुं न शक्नोति = "A righteous person cannot commit injustice."  
+> साधुरधर्मं कर्तुं न शक्नोति = "A saint cannot do wrong."  
 > अस्ति भोक्तुमन्नम् = "There is food to eat" (भुज् 7: Ā: to eat, P: to rule)
 
-**The infinitive is also used with words meaning "sufficient" or "capable," and with nouns meaning "ability," "power," or "skill":**
+**The infinitive is also used with words meaning "sufficient," "able," and with nouns meaning "ability," "power," "skill":**
 
 > अस्त्यग्नेर्विभवः सर्वं दग्धुम् = "Fire has the power to burn everything."
 
 **The infinitive can also be used with words meaning "time" in expressions such as "It is time to ...":**
 
-> कालो भोजनं सेवितुम् = "It is time to partake of food" = "It is time to eat."
+> कालो भोजनं सेवितुम् = "It is time to devote oneself to eating" = "It is time to eat"
 
-**The infinitive can be used in both active and passive constructions. A passive infinitive in German is rendered in Sanskrit by putting the governing verb (especially frequently शक् "to be able, can") into the passive voice.**
+**The infinitive can be used actively and passively. A passive infinitive in German is rendered in Sanskrit by putting the verb (especially frequently शक् "to be able, can") from which the infinitive depends into the passive voice.**
 
-**Regarding the object, the infinitive behaves like a verbal form; that is, the direct object (कर्मन्) stands in the accusative (द्वितीया), or in the case required by the respective verb, when the infinitive is used actively; when the infinitive is used passively, the direct object stands in the nominative.**
+**Regarding the object, the infinitive behaves like a verbal form, i.e., the direct object (कर्मन्) stands in the accusative (द्वितीया) when the infinitive is used actively, or in the case required by the relevant verb; when the infinitive is used passively, the direct object stands in the nominative.**
 
-For example:
+e.g.
 
-> साधुरधर्मं कर्तुं न शक्नोति = साधुनाधर्मः कर्तुं न शक्यते = "A righteous person cannot commit injustice."
+> साधुरधर्मं कर्तुं न शक्नोति = साधुनाधर्मः कर्तुं न शक्यते = "A saint cannot do wrong."
 
-**In the second person, अर्ह् + infinitive is often used as a mild command: "You should."**
+**In the 2nd person, अर्ह् + infinitive is often used as a mild command: "You should."**
 
-**When the infinitive depends on a noun, it must not be compounded with that noun. The exception is Bahuvrīhi compounds, whose second member is काम or मनस्:**
+**When the infinitive depends on a noun, it must not be combined with it into a compound. Exceptions are Bahuvrīhis, whose second member is काम or मनस्:**
 
-> वक्तुकामः = वक्तुं कामो यस्य सः = "one whose desire it is to speak; one who wishes to speak."
+> वक्तुकामः = वक्तुं कामो यस्य सः = "one whose wish it is to speak; one who wishes to speak".
 :::
 
 ## 23.2. Formation of the Infinitive (तुमुन्)
 
 ::: grammar-box
-**Strong-grade root + -tum**
+**guṇa-grade root + -tum**
 
 **or**
 
-**Strong-grade root + -i- + -tum**
+**guṇa-grade root + -i- + -tum**
 
-**Final consonants of the root undergo the same modifications before -tum as they do before the -ta of the Past Participle (PPP).**
+**Final consonants of the root are modified before -tum according to the same rules as before the -ta of the PPP.**
 
-**Verbs with prefixes form the infinitive in the same manner as simple roots.**
+**Verbs with prefixes form the infinitive in the same way as simple roots.**
 :::
 
 Examples:
@@ -71,7 +75,7 @@ Examples:
 
 No fixed rules can be established regarding the use of the connecting vowel -i-. Essentially, the distribution of the connecting vowel in the infinitive corresponds to that in the future tense.
 
-The following infinitives are particularly noteworthy for the roots learned thus far:
+Among the roots learned so far, the following infinitives deserve particular attention:
 
 ::: indent
 गम् : गन्तुम्
@@ -79,7 +83,7 @@ The following infinitives are particularly noteworthy for the roots learned thus
 प्रच्छ् : प्रष्टुम्
 :::
 
-Roots with -ra- as the strong-grade form of -ṛ- have the following infinitives:
+-ra- as strong grade of -ṛ- have in the infinitive:
 
 ::: indent
 दृश् : द्रष्टुम्
@@ -87,9 +91,9 @@ Roots with -ra- as the strong-grade form of -ṛ- have the following infinitives
 सृज् : स्रष्टुम्
 :::
 
-Other roots with -ṛ- in the penultimate position have optional -ra- or -ar- if they are aniṭ (non-semivowel).
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
-## 23.3. The Infinitive (तुमुन्) for the Roots Learned Thus Far
+## 23.3. The Infinitive (तुमुन्) for the roots learned so far
 
 अद् 2P अत्तुम्  
 अश् 5Ā अशितुम् । अष्टुम्  
@@ -158,69 +162,69 @@ Other roots with -ṛ- in the penultimate position have optional -ra- or -ar- if
 
 सामान्य n.: equality, agreement
 
-अधिक ३ : surplus, additional, greater, better, extraordinary
+अधिक ३: superfluous, additional, greater, better, extraordinary
 
-विशेष m.: peculiarity, specification, differentia specifica
+विशेष m.: particularity, specification, differentia specifica
 
 ## 23.5. Exercise
 
-A) The following roots form the infinitive without the connecting vowel *-i-*. Form the infinitive, taking into account the phonetic changes, for:
+A) The following roots form the infinitive without the connecting vowel -i-. Form the infinitive, taking into account the sound changes:
 
-1.  आप् (āp)
-2.  इ (i)
-3.  गम् (gam)
-4.  कृ (kṛ)
-5.  क्रुध् (krodh)
-6.  जि (ji)
-7.  duh (दुह्) (duh)
-8.  दिश् (diś)
-9.  दह् (dah)
-10.  सृज् (sṛj)
-11.  द्विष् (dviṣ)
-12.  नी (nī)
-13.  पद् (pad)
-14.  पा १ (pā 1)
-15.  पा २ (pā 2)
-16.  भज् (bhaj)
-17.  कृष् (kṛṣ)
-18.  सु (su)
-19.  मन् (man)
-20.  मुच् (muc)
-21.  मृ (mṛ)
-22.  यज् (yaj)
-23.  युध् (yudh)
-24.  वच् (vac)
-25.  विश् (viś)
-26.  श्रु (śru)
-27.  प्रच्छ् (pracch)
-28.  सिच् (sic)
-29.  स्तु (stu)
-30.  स्था (stha)
-31.  स्मृ (smṛ)
-32.  हन् (han)
-33.  लभ् (labh)
-34.  अद् (ad)
-35.  दृश् (dṛś)
-36.  पच् (pac)
-37.  सद् (sad)
+1.  आप्
+2.  इ
+3.  गम्
+4.  कृ
+5.  क्रुध्
+6.  जि
+7.  duh (दुह्)
+8.  दिश्
+9.  दह्
+10.  सृज्
+11.  द्विष्
+12.  नी
+13.  पद्
+14.  पा १
+15.  पा २
+16.  भज्
+17.  कृष्
+18.  सु
+19.  मन्
+20.  मुच्
+21.  मृ
+22.  यज्
+23.  युध्
+24.  वच्
+25.  विश्
+26.  श्रु
+27.  प्रच्छ्
+28.  सिच्
+29.  स्तु
+30.  स्था
+31.  स्मृ
+32.  हन्
+33.  लभ्
+34.  अद्
+35.  दृश्
+36.  पच्
+37.  सद्
 
-B) The following roots form the infinitive with the connecting vowel *-i-*. Form the infinitive for:
+B) The following roots form the infinitive with the connecting vowel -i-. Form the infinitive for:
 
-1.  आस् (ās)
-2.  नृत् (nṛt)
-3.  रक्ष् (rakṣ)
-4.  रुद् (rud)
-5.  वद् (vad)
-6.  वृत् (vṛt)
-7.  कुप् (kup)
+1.  आस्
+2.  नृत्
+3.  रक्ष्
+4.  रुद्
+5.  वद्
+6.  वृत्
+7.  कुप्
 
 C) The following roots optionally with or without the connecting vowel:
 
-1.  अश् (aś)
-2.  इष् (iṣ)
-3.  बुध् (budh)
-4.  मुह् (muh) (3 forms!)
-5.  सह् (sah)
+1.  अश्
+2.  इष्
+3.  बुध्
+4.  मुह् (3 forms!)
+5.  सह्
 
 D) Translate and resolve the compounds:
 
@@ -233,7 +237,8 @@ D) Translate and resolve the compounds:
 ::: media
 ![](/images/lekt2303.jpg)
 Fig.: फलवन्ति पुण्यानीति
-(Image source: [Details](/licenses#lekt2303))
+ทำบุญ = पुण्यकरणम्, Thailand = ประเทศไทย
+(Image source: [Details](/en/licenses#lekt2303))
 :::
 
 
@@ -242,7 +247,8 @@ Fig.: फलवन्ति पुण्यानीति
 ::: media
 ![](/images/lekt2301.jpg)
 Fig.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
-(Image source: [Details](/licenses#lekt2301))
+Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
+(Image source: [Details](/en/licenses#lekt2301))
 :::
 
 
@@ -254,19 +260,20 @@ Fig.: सुगतो लोकान्मोक्तुमार्यसत�
 
 धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥
 
-C) Translate the following *subhāṣita* (wise saying):
+C) Translate the following सुभाषितम्
 
 आहारनिद्राभयमैथुनं च  
 सामान्यमेतत्पशुभिर्नराणाम् ।  
 धर्मे हि तेषामधिको विशेषो  
 धर्मेण हीनाः पशुभिः समानाः ॥
 
-Explanation: हीन (hīna) 3: PPP to हा (hā) 3: abandon; धर्मे (dharme) = Locative singular "in/with regard to ..."
+Explanation: हीन ३: PPP to हा 3: to leave; धर्मे = locative sg. "in the ..."
 
 ::: media
 ![](/images/lekt2302.jpg)
 Fig.: आहारनिद्राभयमैथुनं च
-(Image source: [Details](/licenses#lekt2302))
+Chittorgarh = चित्तौडगढ
+(Image source: [Details](/en/licenses#lekt2302))
 :::
 
 ## 23.6. Review Exercise
@@ -275,41 +282,44 @@ Please do not use any aids!
 
 A) Translate into Sanskrit:
 
-1. The five (पञ्च) "afflictions" are: ignorance, false belief in the self, attachment, aversion, and clinging to the body.
+1\. The five (पञ्च) "torments" are: ignorance, false belief in the self, affection, aversion, and attachment to the body.
 
-2. Knowledge is acquired through obedience to a teacher, for a large sum of money, or in exchange for knowledge. A fourth type of acquiring knowledge does not exist.
+2\. Knowledge is acquired through obedience to a teacher, or for a large sum of money, or in exchange for knowledge. A fourth type of acquiring knowledge does not exist.
 
-3. A base person speaks but does not act; a good person does not speak but acts only.
+3\. A low-born person speaks but does not act; a good person does not speak, but acts only.
 
-4. The auxiliary sciences of the Veda are: phonetics, ritualistics, grammar, semantics, meter (छन्दस्), and calendrical science.
+4\. The auxiliary sciences of the Veda are: phonetics, ritualistics, grammar, semantics, metrics (छन्दस्), and calendar science.
 
-5. Yoga is the cessation of the activities of the mind.
+5\. Yoga is the cessation of the activities of the mind.
 
-6. Right prevails, not wrong; truth prevails, not falsehood; patience prevails, not anger; God prevails, not an opposing deity. (Passive)
+6\. Right prevails, not wrong; truth prevails, not falsehood; patience prevails, not anger; God prevails, not an opposing god. (Passive)
 
-7. The "staff" (danda) brings about the acquisition and secure possession of philosophy, the Veda, and economics. The management of this staff is politics.
+7\. The "staff" brings about acquisition and secure possession of philosophy, Veda, and economics. The wielding of this staff is politics.
 
 ::: media
 ![](/images/lekt2304.jpg)
 Fig.: दण्डनीतिः
-(Image source: [Details](/licenses#lekt2304))
+Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Prime Minister of India = भारत के प्रधानमन्त्री, since 2004
+(Image source: [Details](/en/licenses#lekt2304))
 :::
 
-8. Wife, son, and slave, these three (त्रयस्) are, according to tradition, without property. Whatever comes to them belongs to the one to whom these (three) belong.
 
-9. Mosquitoes desire a wound, rulers desire property, base persons desire conflict, good persons desire peace.
 
-10. The specific duty of a Brāhmaṇa is: study, teaching, performing sacrifices as the officiant, performing sacrifices on behalf of others, giving, and receiving; that of a Kṣatriya is: study, performing sacrifices as the officiant, giving, earning a livelihood by means of weapons, and protecting beings; that of a Vaiśya: study, performing sacrifices as the officiant, giving, agriculture, animal husbandry, and trade; that of a Śūdra: obedience to the twice-born, economic activity, and the work (कर्म) of artisans and performers.
+8\. Wife, son, and slave, these three (त्रयस्) are, according to tradition, without property. Whatever comes to them belongs to the one to whom these (three) belong.
 
-11. The clarification of consciousness occurs through the meditative cultivation of loving-kindness, compassion, sympathetic joy, and equanimity, which take happiness and suffering, good and evil, as their objects.
+9\. Mosquitoes desire a wound, rulers desire property, low-born persons desire conflict, good persons desire peace.
 
-12. Poor people have many sons, although they do not wish for them. Rich people have no son. Strange is the stirring of fate.
+10\. The specific duty of a Brāhmaṇa is: study, teaching, sacrificing as the officiant, sacrificing on behalf of others, giving, and receiving; that of a Kṣatriya is: study, sacrificing as the officiant, giving, earning a livelihood through weapons, protecting beings; that of a Vaiśya: study, sacrificing as the officiant, giving, agriculture, animal husbandry, and trade; that of a Śūdra: obedience to the twice-born, economic activity, activity (कर्म) of artisans and performers.
 
-13. Who does not strike down a woman’s body (वपुस् n.) with a slender waist, broad hips, red lips, black eyes, a curved navel, and upright breasts?
+11\. Clarification of consciousness occurs due to the meditative development of loving-kindness, compassion, sympathetic joy, and equanimity, which have happiness and suffering, good and evil, as their objects.
 
-B) Decline क्षत्रिया f. in all cases known to you.
+12\. Poor people have many sons, although they do not wish for them. Rich people have no son. Strange is the stirring of fate.
 
-C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicative, 3rd sg. passive, past passive participle, absolutes, infinitive) for the following verbs:
+13\. Who does not slay a woman's body (वपुस् f.) with a slender waist, broad hips, red lips, black eyes, a curved navel, and upright breasts?
+
+B) Decline in all cases known to you क्षत्रिया f.
+
+C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicative, 3rd sg. passive, PPP, absolutes, infinitive) for the following verbs:
 
 १. सह्
 
@@ -321,13 +331,11 @@ C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicat
 
 ::: deleteme-box
 
-### Sources
-
 **lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Image source: Wikipedia. GNU FDL]
 
-**lekt2302:** Chittorgarh = चित्तौडगढ [Image source: by zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Accessed on 2008-12-13. -- Creative Commons License (Attribution, Non-Commercial, No Derivative Works)]
+**lekt2302:** Chittorgarh = चित्तौडगढ [Image source: by zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Accessed on 2008-12-13. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
 
-**lekt2303:** ทำบุญ = पुण्यकरणम्, Thailand = ประเทศไทย [Image source: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Accessed on 2008-12-13. -- Creative Commons License (Attribution, No Derivative Works)]
+**lekt2303:** ทำบุญ = पुण्यकरणम्, Thailand = ประเทศไทย [Image source: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Accessed on 2008-12-13. -- Creative Commons License (Attribution, no derivatives)]
 
 **lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Prime Minister of India = भारत के प्रधानमन्त्री, since 2004 [Image source: Wikipedia, Public domain]
 :::

@@ -1,6 +1,10 @@
 ---
+title: Lezione 16
+subtitle: "Sul Sandhi delle consonanti finali"
 lesson_id: 16
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 16
@@ -69,7 +73,8 @@ Esempi:
 ::: media
 ![](/images/lekt1602.jpg)
 Fig.: अध्यापनम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1602))
+"Questa è una cerimonia speciale in un piccolo tempio di Satara (सातारा). Viene eseguita dagli studenti della Swami Muktananda Vedashala in occasione della celebrazione di Mahāśivarātri. Si tratta di una scuola vedica, dove i bambini imparano a memoria i testi sacri chiamati Veda. Questa scuola insegna il Krishna Yajurveda e alcune porzioni del Samaveda. Sto svolgendo la mia tesi di master su questa scuola."
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1602))
 :::
 
 अनसूया f.: Assenza di brontolio, assenza di invidia
@@ -105,7 +110,8 @@ da ciò:
 ::: media
 ![](/images/lekt1601.jpg)
 Fig.: योगी
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1601))
+Birla Mandir, Delhi
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1601))
 :::
 
 वृत् 1 Ā वर्तते ; Pass. वृत्यते ; PPP वृत्त : girare, volgersi, trovarsi (da qualche parte), abitare
@@ -133,7 +139,8 @@ A) Trasformare le seguenti espressioni in composti *Tatpuruṣa* e tradurli:
 ::: media
 ![](/images/lekt1604.jpg)
 Fig.: पशुमन्तो जनाः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1604))
+हरियाणा / ਹਰਿਆਣा
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1604))
 :::
 
 ५. सुखवान्वैश्यायाः पुत्रः ।
@@ -245,7 +252,6 @@ Frase 13: सर्वेषाम Gen. pl. masc. derivato da सर्व "ogni
 
 ::: deleteme-box
 
-### Fonti
 
 **lekt1601:** Birla Mandir, Delhi [Fonte dell'immagine: Deepak / Wikipedia ; Licenza Creative Commons (Attribuzione, Condividi allo stesso modo)]
 

@@ -1,0 +1,301 @@
+---
+title: "Exercice 20"
+uebung_id: 20
+category: "Exercice"
+last_reconstructed: 2026-05-15
+---
+
+
+# Leçon 20
+
+A) Traduisez et résolvez les composés en sanskrit :
+
+१. इन्द्रशत्र्वनार्या देवेन्द्रेण जीयन्ते ॥१॥
+इन्द्रः शत्रुर्येषां ते ऽनार्या देवानामिन्द्रेण जीयन्ते । (ou : इन्द्रस्य शत्रव एवानार्या...)
+Le chef des dieux, ennemi d’Indra, vainc les non-Aryas (ou : dont l’ennemi est Indra).
+
+२. शूरबलक्षत्रिययोधः शूरपुत्रमिच्छति ॥२॥
+शूरस्य बलं यस्य स क्षत्रिय एव योधः शूरमेव पुत्रमि्च्छति ॥
+Le guerrier kṣatriya, fort comme un héros, souhaite un fils de héros.
+
+३. सुदुर्गममार्गेण स्वर्गं गम्यते । सुगमस्तु नरकमार्गः ॥३॥
+सुदुर्गमेण मार्गेण स्वर्गं गम्यते । सुगमस्तु नरकस्य मार्गः ॥
+Sur un chemin très pénible, on atteint un ciel. Le chemin vers l’enfer, en revanche, est simple.
+
+४. मृतपुत्रब्राह्मणी रोदिति ॥४॥
+मृतः पुत्रो यस्याः सा ब्राह्मणी रोदिति ॥
+La brahmane, dont le fils est mort, pleure.
+
+५. वीतमोहब्राह्मणः सम्पन्नरूपामपि शूद्रां न लुभ्यति ॥५॥
+वीतो मोहो यस्य स ब्राह्मणः सम्पन्नं रूपं यस्यास्तामपि शूद्रां न लुभ्यति ॥
+Un brahmane, libéré de l’ignorance, ne convoite pas une femme śūdra, même si elle a un corps parfait.
+
+६. सुनीतिपुत्रः प्राप्तमतिदर्शनसाधुं गच्छति ॥६॥
+शोभना नीतिर्यस्य स पुत्रः प्राप्तं मतेर्दर्शनं येन तं साधुं गच्छति ॥
+Le fils poli se rend vers le sage, qui a acquis le pouvoir de lire les pensées.
+
+७. प्राप्तप्रभावक्षत्रिया दृष्टमात्राञ्छत्रून्घन्ति ॥७॥
+प्राप्तः प्रभावो यैस्ते क्षत्रिया दृष्टं मात्रं येषां ताञ्छत्रून्घन्ति ॥
+Les kṣatriyas, parvenus au pouvoir, tuent les ennemis dès qu’ils les aperçoivent.
+
+८. जितशत्रुयोधाः शत्रुजितान्मुञ्चन्ति ॥८॥
+जितः शत्रुर्यैस्ते योधाः शत्रुणा जितान्मुञ्चन्ति । (ou : जिताः शत्रवो यैस्त्ते...)
+Les guerriers, qui avaient vaincu l’ennemi, libèrent les vaincus par l’ennemi.
+
+९. कृतोपनयनबालः शिवादिदेवपूजां करोति ॥९॥
+कृतमुपनयनं यय्स स बालः शिव आदिर्येषां तेषां देवानां पुजां करोति ॥
+Le garçon initié aux Védas vénère Śiva et les autres dieux.
+
+१०. बुद्धगता दुःखादिसत्यानि शृण्वन्ति ॥१०॥
+बुद्धं गता दुःखमादिर्येषां तानि सत्यानि शृण्वन्ति ॥
+Ceux qui sont allés vers Bouddha entendent la vérité sur la souffrance et les autres (nobles) vérités.
+
+B) Traduisez en sanskrit en utilisant des composés :
+
+1\. Un kṣatriya, qui ne tient pas le bâton à la main, ne protège pas le peuple.
+अदण्डहस्तः क्षत्रियो न जनान्पाति । (ou : जनान्रक्षति ।)
+
+2\. Kālidāsa et les autres poètes sont les enseignants en sanskrit.
+संस्कृतगुरवः कालिदासादिक्वयः ।
+
+3\. Un kṣatriya gagne sa vie par les armes.
+शस्त्राजीवः क्षत्रियः ।
+
+4\. Les femmes śūdra ont également, en tant que dharma, la non-violence, la vérité, la pureté, l’absence de murmures, l’absence de méchanceté et la patience.
+अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः शूद्रा अपि ॥
+
+::: media
+![](/images/uebung031.jpg)
+Fig. : शस्त्राजीवः क्षत्रियः
+(Source de l’image : [Détails](/fr/licenses#uebung031))
+:::
+
+---
+
+## Analyse des composés
+
+Résolvez les composés suivants comme Bahuvrīhi et/ou Dvandva et/ou Tatpuruṣa de toutes les manières qui vous semblent possibles en sanskrit.
+
+१. **इन्द्रशत्रवः** । इन्द्रस्य शत्रवः । (ou : इन्द्रः शत्रुर्येषां ते ।)
+
+२. **दुष्कुलायाः** । दुष्टं कुलं यस्यास्तसाः ।
+
+३. **जातिमात्रस्य** । जातेर्मात्रस्य । (ou : जातिरेव मात्रं यस्य तस्य ।)
+
+४. **प्राप्तोदकाः** । प्राप्तमुदकं यैस्ते । (ou : प्राप्तमुदकं याभिस्ताः ।)
+
+५. **सुनीतिभिः** । शोभनाभिर्नीतिभिः । (ou : शोभना नीतिर्येषां तैः ।)
+
+६. **मृतपुत्रः** । मृतः पुत्रः । (ou : मृतः पुत्रो यस्य सः ।)
+
+७. **गतपुण्येन** । गतेन पुण्येन । (ou : गतं पुण्यं यस्य तेन ।)
+
+८. **आर्यरूपम्** । आर्यास्य रूपम् । (ou : आर्यं रूपं यस्य तम् ।)
+
+९. **मुक्तासनया** । मुक्तमासनं यया तया ।
+
+१०. **तद्रूपः** । तद्रूपं यस्य सः । (ou : तस्य रूपं यस्य सः ।)
+
+११. **कृतफलानाम्** । कृतस्य फलानाम् । (ou : कृतं फलं यैस्तेषाम् ।)
+
+१२. **व्याघ्रबलाः** । व्याघ्रस्य बलं येषां ते ।
+
+१३. **प्राप्तकाला** । प्राप्तः कालो यया सा ।
+
+१४. **शूरपुत्राम्** । शूरः पुत्रो यस्यास्ताम् ।
+
+१५. **कृतभिषेखः** । कृतो ऽभिषेखः । (ou : कृतो ऽभिषेखो यस्य सः ।)
+
+१६. **शूरबलान्** । शूरस्य बलं येषां तान् ।
+
+१७. **वीतमोहः** । वीतो मोहः । (ou : वीतो मोहो यस्य सः ।)
+
+१८. **दण्डहस्तस्य** । दण्डस्यैव हस्तस्य । (ou : हस्ते दण्डो यस्य तस्य ।)
+
+१९. **गतमात्रम्** । गतं मात्रम् । (ou : गतं मात्रमेव यस्य तम् ।)
+
+२०. **इन्द्रपुत्रा** । इन्द्रः पुत्रो यस्याः सा । (Mère d'Indra = पृथिवी)
+
+२१. **तद्गुणाः** । तस्य गुणाः । (ou : स गुणो येषां ते ।)
+
+२२. **उपल्ब्धसुखैः** । उपल्ब्धैः सुखैः । (ou : उपलब्धं सुखं यैस्तैः ।)
+
+२३. **प्राप्तप्रभावः** । प्राप्तः प्रभावः । (ou : प्राप्तः प्रभावो येन सः ।)
+
+२४. **तन्मात्राणि** । तस्य मात्राणि । (ou : तन्मात्रं येषां तानि ।)
+
+२५. **प्रभूतरूपा** । प्रभूतं रूपं यस्याः सा । (de forme éminente)
+
+२६. **कृतोपनयनाः** । कृतमुपनयनं येषां ते ।
+
+२७. **विगतनयनम्** । विगतं नयनं यस्य तम् । (aveugle)
+
+२८. **बुद्धमार्गेण** । बुद्धस्य मार्गेण । (ou : बुद्धो मार्गो यस्य तेन ।)
+
+२९. **विजयफलान्** । विजयस्य फलानि येषां तान् ।
+
+३०. **दुर्गमः** । difficile à parcourir
+
+३१. **समयकारः** । समयस्य कारः । (Rendez-vous)
+
+३२. **सम्पन्नरूपाम्** । सम्पन्नं रूपं यस्यास्ताम् ।
+
+३३. **रूपसम्पन्नाम्** । रूपेण सम्पन्नाम् । (parfait de forme)
+
+३४. **अपुण्यानाम्** । न पुण्यं येषां तेषाम् । (sans mérite)
+
+३५. **मृतगृहाणि** । मृतानां गृहाणि । (Maisons des morts)
+
+३६. **अजनस्य** । désert de personnes
+
+३७. **तद्देवतैः** । सा देवता येषां तैः ।
+
+३८. **जातपुत्राः** । जाताः पुत्रा येषां ते ।
+
+३९. **दुरन्ताभिः** । se terminant mal
+
+४०. **भूतसर्गेण** । भूतानां सर्गेण ।
+
+४१. **मतिदर्शनम्** । मतीनां दर्शनम् । (Vision des pensées)
+
+४२. **मुक्तहस्ता** । मुक्तं हस्तं यस्याः सा । (généreux)
+
+४३. **तदन्तः** । तस्यान्तः । (ou : सो ऽन्तो यस्य सः ।)
+
+४४. **जातिमात्रम्** । जातिरेव मात्रं यस्य तम् । (seulement par la naissance)
+
+४५. **तज्जयेन** । तस्य जयेन । (ou : तस्य जयो यस्य तेन ।)
+
+४६. **लब्धधनानाम्** । लब्धं धनं येषां तेषाम् ।
+
+४७. **सुदर्शः** । bon à voir
+
+४८. **सकारणः** । avec une cause
+
+४९. **तनादयः** । तन् etc. (= 8. classe de présent)
+
+५०. **जातमात्राम्** । जातमेव मात्रं यस्यस्ताम् । (tout juste né)
+
+५१. **दुर्जातयः** । de naissance inférieure
+
+५२. **हतपुत्रः** । हतः पुत्रो यस्य सः ।
+
+५३. **दुरासितम्** । mauvaise façon de s’asseoir
+
+५४. **इष्टदेवतया** । इष्टा देवता यस्यास्तया ।
+
+५५. **कृतपुण्याभिः** । कृतं पुण्यं याभिस्ताभिः ।
+
+५६. **श्रुत्युदितम्** । श्रुतेरुदितम् ।
+
+५७. **गतपापैः** । गतं पापं येषां तैः ।
+
+५८. **जितारिणा** । जितो ऽरि येन तेन ।
+
+५९. **जातकोपा** । जातः कोपो यस्याः सा ।
+
+६०. **जातिधर्मः** । जातीनां धर्मः ।
+
+६१. **तत्प्रभृतयः** । सा प्रभृतिर्येषां ते । (etc.)
+
+६२. **सुदुर्जयः** । très difficile à vaincre
+
+६३. **जितक्रोधेन** । जितः क्रोधो यस्य तेन ।
+
+६४. **दुरुपदेशम्** । enseignement difficile
+
+६५. **लब्धलाभा** । लब्धो लाभो यया सा ।
+
+६६. **बुद्धदासः** । बुद्धस्य दासः ।
+
+६७. **मुक्तबुद्धिः** । मुक्ता बुद्धिर्यस्य सः ।
+
+६८. **यज्ञकालम्** । यज्ञस्य कालम् ।
+
+६९. **जितशत्रून्** । जितः शत्रुर्यैस्तान् ।
+
+७०. **शत्रुजितान्** । शत्रुणा जितान् ।
+
+७१. **तत्फलः** । तस्य फलं यस्य सः ।
+
+७२. **सुगुणा** । de bonne qualité
+
+७३. **जातक्रोधः** । जातः क्रोधो यस्य सः ।
+
+७४. **दृष्टमात्रः** । dès qu’il fut vu
+
+७५. **भूतकालः** । passé
+
+७६. **सुनेत्राः** । ayant de bons yeux
+
+७७. **तदादीनाम्** । सादिर्येषां तेषाम् ।
+
+७८. **जातिस्मरणम्** । souvenir des naissances antérieures
+
+७९. **सफलम्** । fertile
+
+८०. **अकरुणस्य** । sans pitié
+
+८१. **सोढदुःखाः** । सोढं दुःखं यैस्ते ।
+
+::: media
+![](/images/uebung030.jpg)
+Fig. : सम्पन्नरूपा रूपसम्पन्ना
+(Source de l’image : [Détails](/fr/licenses#uebung030))
+:::
+
+---
+
+## Fragments savants
+
+मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनतश्चित्तप्रसादनम् ॥ योगसूत्र १.३३ ॥  
+La clarification de l'esprit se fait par le développement de la bienveillance amicale, de la compassion, de la joie sympathique et de l'équanimité, qui ont pour objet le bonheur et la souffrance, le méritoire et le non-méritoire.
+
+तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः ॥ योगसूत्र २.१ ॥  
+समाधिभावनार्थः क्लेशतनूकरणार्थश्च ॥ योगसूत्र २.२ ॥  
+Le yoga de l'action est l'ascèse, l'étude des Védas et le service attentif au SEIGNEUR. Il a pour but le développement de la concentration et l'affaiblissement des "souffrances".
+
+::: deleteme-box Explication
+Les cinq "souffrances" (क्लेश) sont : **अविद्यास्मितारागद्वेषाभ्निवेशाः** (Yoga-Sūtra 2.3) — l'ignorance, l'egoïsme, l'avidité, la haine et l'attachement au corps.
+:::
+
+त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः ॥ सांख्यसूत्र १.१ ॥  
+Le plus haut but de l'homme est que la triple souffrance disparaisse complètement. (*Triple souffrance : venant de soi-même, des objets, des dieux.*)
+
+बाधनालक्षणं दुःखम् ॥ न्यायसूत्र १.२१ ॥  
+तदत्यन्तविमोक्षो ऽपवर्गः ॥ न्यायसूत्र १.२२ ॥  
+La souffrance est caractérisée par la détresse. La libération est la délivrance complète de celle-ci.
+
+न स्वर्गो नापवर्गो वा नैवात्मा पारलौकिकः ।  
+नैव वर्णाश्रमादीनां क्रियाश्च फलदायिकाः ॥  
+Il n'y a pas de ciel, pas de libération, pas d'âme transcendantale, il n'y a pas non plus de rituels et d'actions fructueux pour les castes et les stades de vie. ( सर्वदर्शनसंग्रह )
+
+देवानां करदा विप्रा  
+विप्राणां करदा नृपाः ।  
+नृपाणां करदा लोका  
+लोकानां करदा मही ॥  
+Les Brahmanes donnent des tribut aux dieux, les Brahmanes donnent des tribut aux rois, les rois donnent des tribut au peuple, le peuple donne des tribut à la terre.
+
+भार्या पुत्रश्च दासश्च  
+त्रय एवाधनाः स्मृताः ।  
+यत्ते समधिगच्छन्ति  
+यस्य ते तस्य तद्धनम् ॥ मनुस्मृति ८.४१६ ॥  
+L'épouse, le fils et le servile, ces trois sont par tradition sans possession. Ce qu'ils acquièrent est la possession de celui à qui ils appartiennent.
+
+तनुमध्यं पृथुश्रोणि  
+रक्तौष्ठमसितेक्षणम् ।  
+नतनाभि वपुः स्त्रीणां  
+कं न हन्त्युन्नतस्तनम् ॥  
+Au milieu mince, aux hanches larges, aux lèvres rouges, aux yeux noirs, avec un nombril courbé et des seins plein, quel homme ne tuerait pas un tel corps de femme belle ?
+
+सन्ति पुत्राः सुबहवो  
+दरिद्राणामनिच्छताम् ।  
+नास्ति पुत्रः समृद्धानां  
+विचित्रं विधिचेष्टितम् ॥  
+Les pauvres, qui ne le souhaitent pas, ont beaucoup de fils, les riches n'ont aucun fils. Étrange est le cours de la création.
+
+::: media
+![](/images/uebung032.jpg)
+Fig. : सन्ति पुत्राः सुबहवो दरिद्राणाम्
+(Source de l'image : [Détails](/fr/licenses#uebung032))
+:::

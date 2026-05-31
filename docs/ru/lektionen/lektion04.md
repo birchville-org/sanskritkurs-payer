@@ -1,106 +1,116 @@
 ---
+title: Урок 4
+subtitle: "Вопросительные и указательные местоимения в именительном падеже"
 lesson_id: 4
 last_reconstructed: 2026-05-07
+category: "Грамматика"
+status: stable
 ---
 
-# Lektion 4
+# Урок 4
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- Fragepronomina und Demonstrativpronomina im Именительный падеж &lt;!-- TODO: Fallback translation --&gt;
-- Sandhi von auslautendem -m &lt;!-- TODO: Fallback translation --&gt;
-- Sandhi von auslautendem -e &lt;!-- TODO: Fallback translation --&gt;
-- Sandhi von auslautendem -d &lt;!-- TODO: Fallback translation --&gt;
-- Einfache Frageformeln &lt;!-- TODO: Fallback translation --&gt;
+**На этом уроке вы изучите:**
+- Вопросительные и указательные местоимения в именительном падеже
+- Сандхи конечного -m
+- Сандхи конечного -e
+- Сандхи конечного -d
+- Простые вопросные формулы
 :::
 
-## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
+## 4.1. Простые дополнительные вопросы (словесные вопросы) и ответы
 
-### 4.1.1. Fragepronomina und Demonstrativpronomina
+### 4.1.1. Вопросительные и указательные местоимения
 
-#### 4.1.1.1. Fragepronomen (praśnārthakasarvanāma n. = प्रश्नार्थकसर्वनामन्) &lt;!-- TODO: Fallback translation --&gt;
+#### 4.1.1.1. Вопросительные местоимения (praśnārthakasarvanāma n. = प्रश्नार्थकसर्वनामन्)
 
 ::: grammar-box
-| | Именительный падеж singular | Именительный падеж plural |
+| | Именительный падеж, единственное число | Именительный падеж, множественное число |
 | :--- | :--- | :--- |
-| **Neutrum** | **kim = किम्** | **kāni = कानि** |
-| **Maskulinum** | **kas = कस्** | **ke = के** |
-| **Feminimum** | **kā = का** | **kās = कास्** |
+| **Средний род** | **kim = किम्** | **kāni = कानि** |
+| **Мужской род** | **kas = कस्** | **ke = के** |
+| **Женский род** | **kā = का** | **kās = कास्** |
 :::
 
-#### 4.1.1.2. Demonstrativpronomina (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि) &lt;!-- TODO: Fallback translation --&gt;
+
+#### 4.1.1.2. Указательные местоимения (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि)
 
 ::: grammar-box
-| | **tad = तद्[[br]]"er, sie, es; der, die, das"[[br]](Erwähnte)** | **etad = एतद्[[br]]"dieser, diese, dieses"[[br]](dem Sprechenden sehr Nahe)** | **idam = इदम्[[br]]"dieser, diese, dieses"[[br]](Nahe)** |
+| **Основа** ||||
 | :--- | :---: | :---: | :---: |
-| | **Stämme** | | |
-| | **NOMINATIV SINGULAR** | | |
-| **Neutrum** | **tad = तद्** | **etad = एतद्** | **idam = इदम्** |
-| **Maskulinum** | **sa, so saḥ = स सो सः** | **eṣa, eṣo, eṣaḥ = एष एषो एषः** | **ayam = अयम्** |
-| **Femininum** | **sā = सा** | **eṣā = एषा** | **iyam = इयम्** |
-| | **NOMINATIV PLURAL** | | |
-| **Neutrum** | **tāni = तानि** | **etāni = एतानि** | **imāni = इमानि** |
-| **Maskulinum** | **te = ते** | **ete = एते** | **ime = इमे** |
-| **Femininum** | **tās = तास्** | **etās = एतास्** | **imās इमास्** |
+| | **tad = तद्[[br]]"он, она, оно; тот, та, то"[[br]](упоминаемый)** | **etad = एतद्[[br]]"этот, эта, это"[[br]](очень близко к говорящему)** | **idam = इदम्[[br]]"этот, эта, это"[[br]](близко)** |
+| **Именительный падеж, единственное число** ||||
+| **Средний род** | **tad = तद्** | **etad = एतद्** | **idam = इदम्** |
+| **Мужской род** | **sa, so saḥ = स सो सः** | **eṣa, eṣo, eṣaḥ = एष एषो एषः** | **ayam = अयम्** |
+| **Женский род** | **sā = सा** | **eṣā = एषा** | **iyam = इयम्** |
+| | | | |
+| **Именительный падеж, множественное число** ||||
+| **Средний род** | **tāni = तानि** | **etāni = एतानि** | **imāni = इमानि** |
+| **Мужской род** | **te = ते** | **ete = एते** | **ime = इमे** |
+| **Женский род** | **tās = तास्** | **etās = एतास्** | **imās इमास्** |
 :::
 
-**Zum Nom. sg. mask.:** &lt;!-- TODO: Fallback translation --&gt;
-- **sa, eṣa** (स एष) steht vor allen Lauten außer kurzem **-a** &lt;!-- TODO: Fallback translation --&gt;
-- **so, eṣo** (सो एषो) steht vor **-a**, welches mit Avagraha elidiert (ausfällt) &lt;!-- TODO: Fallback translation --&gt;
-- **saḥ, eṣaḥ** (सः एषः) steht nur in Pausa (Satzende, Versende) &lt;!-- TODO: Fallback translation --&gt;
 
-Um mit diesen Pronomina (sarvanāman n.) Sätze bilden zu können, ist noch die Kenntnis folgender Sandhiregeln nötig: &lt;!-- TODO: Fallback translation --&gt;
+**К именительному падежу, мужской род, единственное число:**
+- **sa, eṣa** (स एष) стоит перед всеми звуками, кроме краткого **-a**
+- **so, eṣo** (सो एषो) стоит перед **-a**, который элидируется (исчезает) с помощью авиграхи
+- **saḥ, eṣaḥ** (सः एषः) стоит только в паузе (конец предложения, конец стиха)
 
-### 4.1.2. Sandhi von auslautendem -m
+Чтобы с помощью этих местоимений (sarvanāman n.) образовывать предложения, необходимо также знание следующих правил сандхи:
+
+### 4.1.2. Сандхи конечного -m
 
 ::: grammar-box
-**Auslautendes -m wird vor Konsonanten durch Anusvāra (-ṃ) ersetzt. Am Satz- bzw. Versende und vor Vokalen bleibt -m erhalten.** &lt;!-- TODO: Fallback translation --&gt;
+**Конечное -m перед согласными заменяется на анусвāру (-ṃ). В конце предложения или стиха, а также перед гласными -m сохраняется.**
 :::
 
-### 4.1.3. Sandhi von auslautendem -e
+### 4.1.3. Сандхи конечного -e
 
 ::: grammar-box
-1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:** &lt;!-- TODO: Fallback translation --&gt;
-   z.B. ete + agnayas » ete 'gnayaḥ = एते ऽग्नयः "Diese Feuer" &lt;!-- TODO: Fallback translation --&gt;
+1. **перед a- окончание -e остается неизменным: начальное a- эллипсирует с авиграхой:**
+   напр. ete + agnayas » ete 'gnayaḥ = एते ऽग्नयः «Эти огни»
 
-2. **Vor anderen Vokalen als kurzem a- wird -e gewöhnlich durch -a mit Hiatus ersetzt. Auch die Ersetzung durch -ay kommt vor:** &lt;!-- TODO: Fallback translation --&gt;
-   z.B. ime + īśvarās » ima īśvarāḥ = इम ईश्वराः (selten: imay īśvarāh = इमयीश्वराः) "Diese HERREN" &lt;!-- TODO: Fallback translation --&gt;
+2. **Перед другими гласными, кроме краткого a-, окончание -e обычно заменяется на -a с хиазмом. Также встречается замена на -ay:**
+   напр. ime + īśvarās » ima īśvarāḥ = इम ईश्वराः (редко: imay īśvarāh = इमयीश्वराः) «Эти ГОСПОДА»
 :::
 
-### 4.1.4. Sandhi von auslautendem -d
+### 4.1.4. Сандхи конечного -d
 
 ::: grammar-box
-**Auslautendes -d wird in Pausa sowie vor stimmlosen Gutturalen (k, kh) und Labialen (p, ph) durch -t ersetzt.** &lt;!-- TODO: Fallback translation --&gt;
+**Конечное -d в паузе, а также перед глухими кавеческими (k, kh) и губными (p, ph) согласными заменяется на -t.**
 
-Die Ersetzung vor anderen Konsonanten wird später besprochen. Vermeiden Sie vorläufig solche Lautzusammenstöße! &lt;!-- TODO: Fallback translation --&gt;
+Замена перед другими согласными будет рассмотрена позже. Временно избегайте таких слияний звуков!
 :::
 
-### 4.1.5. Frageformeln
+### 4.1.5. Вопросительные формулы
 
-Mittels dieser Pronomina bildet man z.B. folgende Frageformeln: &lt;!-- TODO: Fallback translation --&gt;
+С помощью этих местоимений образуются, например, следующие вопросительные формулы:
 
-::: grammar-box
+:::: grammar-box
+::: no-header
 | | | | |
 | :--- | :--- | :--- | :--- |
-| **Singular** | **Neutrum** | tat kim? /kiṃ tat?[[br]]तत्किम्, किं तत्[[br]][[br]]etat kim? /kim etat?[[br]]एतत्किम्, किमेतत्[[br]][[br]]idaṃ kim? / kim idam[[br]]इदं किम्, किमिदम् | "Was ist das?" |
-| | **Maskulinum** | sa kaḥ? / kaḥ saḥ?[[br]]स कः, कः सः[[br]][[br]]eṣa kaḥ? / ka eṣaḥ[[br]]एष कः, क एषः[[br]][[br]]ayaṃ kaḥ? / ko 'yam?[[br]]अयं कः, को ऽयम् | "Wer ist das?"[[br]]"Was ist der?" |
-| | **Femininum** | sā kā? / kā sā?[[br]]सा का, का सा[[br]][[br]]eṣā kā? / kaiṣā? (= kā + eṣā)[[br]]एषा का, कैषा[[br]][[br]]iyaṃ kā? / keyam? (= kā + iyam)[[br]]इयं का, केयम् | "Wer ist das?"[[br]]"Wer ist die?" |
-| **Plural** | **Neutrum** | tāni kāni? / kāni tāni?[[br]]तानि कानि, कानि तानि[[br]][[br]]etāni kāni? / kāny etāni?[[br]]एतानि कानि, कान्येतानि[[br]][[br]]imāni kāni? / kānīmāni? (= kāni + imāni)[[br]]इमानि कानि, कानीमानि | |
-| | **Maskulinum** | te ke? / ke te?[[br]]ते के, के ते[[br]][[br]]ete ke? / ka ete?[[br]]एते के, क एते[[br]][[br]]ime ke? / ka ime?[[br]]इमे के, क इमे | |
-| | **Femininum** | tāḥ kāḥ? / kās tāḥ?[[br]]ताः काः, कास्ताः[[br]][[br]]etāḥ kāḥ? / kā etāḥ?[[br]]एताः काः, का एताः[[br]][[br]]imāḥ kāḥ? / kā imāḥ?[[br]]इमाः काः, का इमाः | |
+| **Единственное число** | **Средний род** | tat kim? / kiṃ tat?[[br]]तत्किम्, किं तत्[[br]][[br]]etat kim? / kim etat?[[br]]एतत्किम्, किमेतत्[[br]][[br]]idaṃ kim? / kim idam[[br]]इदं किम्, किमिदम् | "Что это?" |
+| | **Мужской род** | sa kaḥ? / kaḥ saḥ?[[br]]स कः, कः सः[[br]][[br]]eṣa kaḥ? / ka eṣaḥ[[br]]एष कः, क एषः[[br]][[br]]ayaṃ kaḥ? / ko 'yam?[[br]]अयं कः, को ऽयम् | "Кто это?"[[br]]"Кто тот?" |
+| | **Женский род** | sā kā? / kā sā?[[br]]सा का, का सा[[br]][[br]]eṣā kā? / kaiṣā? (= kā + eṣā)[[br]]एषा का, कैषा[[br]][[br]]iyaṃ kā? / keyam? (= kā + iyam)[[br]]इयं का, केयम् | "Кто это?"[[br]]"Кто та?" |
+| **Множественное число** | **Средний род** | tāni kāni? / kāni tāni?[[br]]तानि कानि, कानि तानि[[br]][[br]]etāni kāni? / kāny etāni?[[br]]एतानि कानि, कान्येतानि[[br]][[br]]imāni kāni? / kānīmāni? (= kāni + imāni)[[br]]इमानि कानि, कानीमानि | |
+| | **Мужской род** | te ke? / ke te?[[br]]ते के, के ते[[br]][[br]]ete ke? / ka ete?[[br]]एते के, क एते[[br]][[br]]ime ke? / ka ime?[[br]]इमे के, क इमे | |
+| | **Женский род** | tāḥ kāḥ? / kās tāḥ?[[br]]ताः काः, कास्ताः[[br]][[br]]etāḥ kāḥ? / kā etāḥ?[[br]]एताः काः, का एताः[[br]][[br]]imāḥ kāḥ? / kā imāḥ?[[br]]इमाः काः, का इमाः | |
 :::
+::::
 
-Ein Beispiel anderer Fragen: &lt;!-- TODO: Fallback translation --&gt;
 
-> viṣṇuḥ kaḥ? = विष्णुः कः Antwort: viṣṇur īśvaraḥ = विष्णुरीश्वरः. (Hier kann man im Nominalsatz das Subjekt z.B. an den Anfang stellen, um den Anschluss an die Frage zu betonen.) &lt;!-- TODO: Fallback translation --&gt;
+Пример других вопросов:
 
-ANMERKUNG: Die Antworten, die Sie mit Ihren bisherigen Sanskritkenntnissen auf solche Fragen geben können, entsprechen selbstverständlich noch nicht in jeder Hinsicht idiomatisch gutem Sanskrit. &lt;!-- TODO: Fallback translation --&gt;
+> viṣṇuḥ kaḥ? = विष्णुः कः Ответ: viṣṇur īśvaraḥ = विष्णुरीश्वरः. (Здесь можно поставить подлежащее в именном предложении, например, в начало, чтобы подчеркнуть связь с вопросом.)
+
+ПРИМЕЧАНИЕ: Ответы, которые вы можете дать на такие вопросы, используя свои текущие знания санскрита, разумеется, ещё не во всех отношениях соответствуют идиоматически хорошему санскриту.
 
 ---
 
 ## 4.2. Упражнение
 
-**A) Устно составьте вопросы по образцу viṣṇuḥ kaḥ (विष्णुः कः) со следующими словами и ответьте на вопросы на санскрите:**
+**A) Составьте устно вопросы по схеме viṣṇuḥ kaḥ (विष्णुः कः) с использованием следующих слов и ответьте на вопросы на санскрите:**
 
 śruti, śiva, brāhmaṇa, dvija (во мн. ч.), indrāṇī, dhenu, tulādhara, kālidāsa
 
@@ -110,5 +120,5 @@ ANMERKUNG: Die Antworten, die Sie mit Ihren bisherigen Sanskritkenntnissen auf s
 
 ::: media
 ![](/images/lekt0401.jpg)
-(Источник изображения: [Детали](/licenses#lekt0401))
+(Источник изображения: [Подробности](/ru/licenses#lekt0401))
 :::

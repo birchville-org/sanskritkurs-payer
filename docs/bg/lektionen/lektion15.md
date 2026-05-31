@@ -1,6 +1,13 @@
+---
+title: Урок 15
+subtitle: "सुभाषितम्"
+lesson_id: 15
+last_reconstructed: 2026-05-21
+category: "Граматика"
+status: stable
+---
 
-
-# Lektion 15
+# Урок 15
 
 ## 15.1. सुभाषितम्
 
@@ -9,331 +16,337 @@
 अथवा विद्यया विद्या  
 चतुर्थी नैव विद्यते ॥
 
-## 15.2. Determinativkomposita = Tatpuruṣa m. = तत्पुरुष
+## 15.2. Детерминативни съставни = Таппуруша м. = तत्पुरुष
 
-Das Verhältnis von durch Nomina (Substantive und Adjektive) Bezeichnetem zueinander kann man außer durch eine Genetivkonstruktion auch durch ein Tatpuruṣa (तत्पुरुष) ausdrücken. Ebenso kann man attributive Beiordnungen von Adjektiven oder appositionelle Beiordnung von Substantiven durch eine bestimmte Art von Tatpuruṣa, nämlich durch sog. Karmadhāraya (m.) = कर्मधारय ausdrücken. &lt;!-- TODO: Fallback translation --&gt;
+Отношението между означеното чрез имена (съществителни и прилагателни) може да се изрази не само чрез генитивна конструкция, но и чрез Таппуруша (तत्पुरुष). По същия начин може да се изрази атрибутивното подчинение на прилагателни или апозитивното подчинение на съществителни чрез определен вид Таппуруша, а именно чрез т.нар. Кармадхараая (м.) = कर्मधारय.
 
-तत्पुरुषः =  तस्य पुरुषः "sein Knecht", d.h. als Bezeichnung dieser Art von Komposita dient ein Beispiel solcher Komposita. &lt;!-- TODO: Fallback translation --&gt;
+तत्पुरुषः = तस्य पुरुषः „неговият слуга“, т.е. като пример за този вид съставни служи пример на такъв вид съставни.
 ::: grammar-box
 
-In determinativen Komposita (Tatpuruṣa) wird ein Nomen (Substantiv oder Adjektiv) durch ein anderes Nomen oder Adverb näher bestimmt. Das näher bestimmte Wort bildet in der Regel das Hinterglied des Kompositum. &lt;!-- TODO: Fallback translation --&gt;
+При детерминативните съставни (Таппуруша) едно име (съществително или прилагателно) се определя по-точно от друго име или наречие. По-точно определената дума обикновено образува задната част на съставната.
 
-Das Verhältnis der Vorderglieds (determinierendes Glied) zum Hinterglied (determiniertes Glied) kann sein: &lt;!-- TODO: Fallback translation --&gt;
+Отношението на предната част (детерминираща част) към задната част (детерминирана част) може да бъде:
 
-*   attributiv bzw. appositionell: bei Auflösung des Kompositums bildet das Vorderglied zum Hinterglied eine nähere Bestimmung im selben Kasus (d.h. außerhalb eines Satzzusammenhangs im Номинатив (प्रथमा), im Satz im syntaktisch geforderten Kasus) &lt;!-- TODO: Fallback translation --&gt;
-*   kasuell: das Vorderglied steht bei der Auflösung der Kompositums in einem anderen Kasus als das Hinterglied (d.h. nicht im Номинатив - प्रथमा) &lt;!-- TODO: Fallback translation --&gt;
-*   adverbial: das Vorderglied ist ein nicht-deklinierbares Wort &lt;!-- TODO: Fallback translation --&gt;
+*   атрибутивно или апозитивно: при разпадането на съставната предната част образува по-точно определение на задната част в един и същ падеж (т.е. извън контекста на изречение в именителен падеж (प्रथमा), в изречение в синтактично изисквания падеж)
+*   казуално: предната част при разпадането на съставната е в друг падеж от този на задната част (т.е. не в именителен падеж - प्रथमा)
+*   адвербиално: предната част е неделима дума
 
-Das Kasusverhältnis beider Glieder eines Kompositums ist unabhängig davon, in welchem Kasus das Kompositum steht: das Kompositum ist ja ein einziges deklinierbares Wort: &lt;!-- TODO: Fallback translation --&gt;
+Падежното отношение на двете части на една съставна е независимо от това в кой падеж е съставната: съставната е една единствена неделима дума:
 
-z. B. &lt;!-- TODO: Fallback translation --&gt;
+напр.
 
-> Nom. sg. तत्पुरुषः = तस्य पुरुषः   &lt;!-- TODO: Fallback translation --&gt;
-> Akk. sg. तत्पुरुषम् = तस्य पुरुषम्   &lt;!-- TODO: Fallback translation --&gt;
-> Instr. sg. तत्पुरुषेण = तस्य पुरुषेण   &lt;!-- TODO: Fallback translation --&gt;
-> Gen. sg. तत्पुरुषस्य = तस्य पुरुषस्य   &lt;!-- TODO: Fallback translation --&gt;
-> Nom. pl. तत्पुरुषाः = तस्य पुरुषाः   &lt;!-- TODO: Fallback translation --&gt;
-> usw. &lt;!-- TODO: Fallback translation --&gt;
+> Имен. ед. तत्पुरुषः = तस्य पुरुषः  
+> Винит. ед. तत्पुरुषम् = तस्य पुरुषम्  
+> Творит. ед. तत्पुरुषेण = तस्य पुरुषेण  
+> Родит. ед. तत्पुरुषस्य = तस्य पुरुषस्य  
+> Имен. мн. तत्पुरुषाः = तस्य पुरुषाः  
+> и т.н.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. &lt;!-- TODO: Fallback translation --&gt;
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
 :::
 
-## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = कर्मधारय
+## 15.3. Детерминативни съставни с атрибутивно / апозитивно предно звено = Кармадхарая м. = कर्मधारय
 ::: grammar-box
 
-Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus. &lt;!-- TODO: Fallback translation --&gt;
+При разлагане на Кармадхарая двете звена на съставното име са в един и същ падеж.
 
 :::
 
-z.B. &lt;!-- TODO: Fallback translation --&gt;
+напр.
 
-गुणवत्पुत्रः = गुणवान्पुत्रः = "ein Sohn mit guten Eigenschaften"  
-Akk. sg. गुणवत्पुत्रम्  
-Nom pl. गुणवत्पुत्राः   &lt;!-- TODO: Fallback translation --&gt;
+गुणवत्पुत्रः = गुणवान्पुत्रः = "син с добри качества"  
+Ак. ед. गुणवत्पुत्रम्  
+Nom мн. गुणवत्पुत्राः  
 
-पुण्यवत्क्षत्रिया = पुण्यवती क्षत्रिया = "eine verdienstreiche Kṣatriyafrau"   &lt;!-- TODO: Fallback translation --&gt;
+पुण्यवत्क्षत्रिया = पुण्यवती क्षत्रिया = "заслужила кшатрийка"  
 
-साधुजनाः = साधवो जनाः = "gute Leute"   &lt;!-- TODO: Fallback translation --&gt;
+साधुजनाः = साधवो जनाः = "добри хора"  
 
-इष्टदेवता = इष्टा देवता = "die gewünschte Gottheit = die Gottheit, zu der man ein besonderes Andachts- und Zufluchtsverhältnis hat" &lt;!-- TODO: Fallback translation --&gt;
+इष्टदेवता = इष्टा देवता = "желаното божество = божеството, към което човек има специално отношение на преданост и прибежище"
 
 ::: media
 ![](/images/lekt1501.jpg)
-Abb.: लक्ष्मी
-(Bildquelle: [Details](/licenses#lekt1501)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: लक्ष्मी
+(Източник на изображението: [Подробности](/bg/licenses#lekt1501))
 :::
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: &lt;!-- TODO: Fallback translation --&gt;
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
-*   drückt ein Karmadhāraya einen VERGLEICH aus, dann steht das, womit verglichen wird, im Hinterglied des Kompositums: &lt;!-- TODO: Fallback translation --&gt;
-
-    नरसिंहः = सिंह इव नरः = "ein Mann wie ein Löwe"  
-    पुरुषव्याघ्रः = व्याघ्र इव पुरुषः = "ein Mann wie ein Tiger" &lt;!-- TODO: Fallback translation --&gt;
-
-*   drückt ein Karmadhāraya aber eine Apposition (nähere Bestimmung des Hinterglieds durch ein Substantiv) aus, so steht das näher Bestimmende im Vorderglied, wie es auch die allgemeine Regel für die Reihenfolge für die Glieder in einem Tatpuruṣa fordert: &lt;!-- TODO: Fallback translation --&gt;
-
-    नरसिंहः kann auch aufgelöst werden: नर एव सिंहः = "Ein Löwe, der (in Wirklichkeit) ein Mann ist." &lt;!-- TODO: Fallback translation --&gt;
-
-    Solche appositionelle Karmadhāraya werden in den einheimischen Kommentaren wie im obigen Beispiel mittels एव aufgelöst. &lt;!-- TODO: Fallback translation --&gt;
+*   ако Кармадхарая изразява СРАВНЕНИЕ, тогава това, с което се сравнява, е в задното звено на съставното име:
+    
+    नरसिंहः = सिंह इव नरः = "човек като лъв"  
+    पुरुषव्याघ्रः = व्याघ्र इव पुरुषः = "човек като тигър"
+    
+*   ако обаче Кармадхарая изразява апозизиция (по-точно определение на задното звено чрез съществително), то по-точно определящото звено е в предното звено, както изисква общото правило за реда на звената в Татпуръша:
+    
+    नरसिंहः може също да се разложи: नर एव सिंहः = "Лъв, който (в действителност) е човек."
+      
+    Такива апозитивни Кармадхарая се разлагат в местните коментари, както в горния пример, чрез एव.
 
 :::
-
+    
 ::: media
 ![](/images/lekt1503.jpg)
-Abb.: नरसिंहः
-(Bildquelle: [Details](/licenses#lekt1503)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: नरसिंहः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1503))
 :::
 
-## 15.4. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn
+## 15.4. Детерминативни съединения с преден член, който стои в неатрибутивно/апозиционно падежно отношение към задния член = Татпуръша в по-тясния смисъл
 
 ::: grammar-box
 
-Tatpuruṣaverbindungen sind möglich für Verbindungen von Nomina (Substantive und Adjektive), bei denen das Vorderglied - den Regeln der Syntax entsprechend - in jedem Kasus stehen kann. Erwartungsgemäß vertritt das Vorderglied am häufigsten einen Genetiv (षष्ठी), da dies ja der Kasus ist, um das Verhältnis von Nomina auszudrücken. &lt;!-- TODO: Fallback translation --&gt;
+Съединенията Татпуръша са възможни за връзки на имена (съществителни и прилагателни), при които предният член – съгласно правилата на синтаксиса – може да стои във всеки падеж. Очаква се предният член най-често да представлява генитив (षष्ठी), тъй като това е падежът, който изразява отношението между имената.
 
 :::
 
-z.B. &lt;!-- TODO: Fallback translation --&gt;
+напр.
 
-क्षत्रियपुत्रः = क्षत्रियस्य पुत्रः = "der Sohn eines Kṣatriya", "ein junger Kṣatriya", "ein  Angehöriger der Gruppe der Kṣatriyas"  
-Akk. sg. क्षत्रियपुत्रम्  
-Gen. sg. क्षत्रियपुत्रस्य  
-u.s.w.   &lt;!-- TODO: Fallback translation --&gt;
+क्षत्रियपुत्रः = क्षत्रियस्य पुत्रः = "син на кшатрий", "млад кшатрий", "член на групата кшатрии"  
+Ак. ед. क्षत्रियपुत्रम्  
+Ген. ед. क्षत्रियपुत्रस्य  
+и т.н.  
 
-गुरुभावः =  गुरोर्भावः  = "die Natur eines Lehrers" &lt;!-- TODO: Fallback translation --&gt;
+गुरुभावः =  गुरोर्भावः  = "природата на учител"
 
-धनलोभः = धनस्य  लोभः = "Begierde nach Reichtum, Habsucht" &lt;!-- TODO: Fallback translation --&gt;
+धनलोभः = धनस्य  लोभः = "страст към богатството, алчност"
 
-लोकगतिः =  लोकस्य गतिः = "der Gang der Welt, das Verhalten der Leute" &lt;!-- TODO: Fallback translation --&gt;
+लोकगतिः =  लोकस्य गतिः = "ходът на света, поведението на хората"
 
-Fast jedes Genetivverhältnis kann durch ein Tatpuruṣa ersetzt werden. Die Wenigen Ausnahmen siehe z.B. bei Kale, A higher Sanskrit grammar § 211, dort auch die entsprechenden Stellen bei Pāṇini. &lt;!-- TODO: Fallback translation --&gt;
+Почти всяко генитивно отношение може да бъде заменено с Татпуръша. Малкото изключения вижте напр. при Кале, A higher Sanskrit grammar § 211, там също съответните места при Панини.
 
-Das Vorderglied eines Tatpuruṣa kann aber prinzipiell jeden Kasus vertreten. Allerdings können nicht alle syntaktisch möglichen Kasusverhältnisse durch ein Tatpuruṣa ersetzt werden. Die entsprechenden regeln findet man im Zweifelsfall bei Kale, A higher Sanskrit grammar § 203 - 217 bzw. Pāṇini 2,1,22 - 2,2,22. &lt;!-- TODO: Fallback translation --&gt;
+Предният член на Татпуръша обаче принципиално може да представлява всеки падеж. Въпреки това не всички синтактично възможни падежни отношения могат да бъдат заменени с Татпуръша. Съответните правила се намират при съмнение при Кале, A higher Sanskrit grammar § 203 - 217 съответно Панини 2,1,22 - 2,2,22.
 
 ::: grammar-box
 
-Das Vorderglied kann bei der Auflösung des Kompositums im Singular, Dual oder Plural stehen. Welche Möglichkeit vorliegt, muss aus Bedeutung und Kontext erschlossen werden. &lt;!-- TODO: Fallback translation --&gt;
+Предният член при разпадането на съединението може да стои в единствено, двойствено или множествено число. Коя възможност е налична, трябва да се заключи от значението и контекста.
 
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-Das Vorderglied vertritt den Akkusativ (द्वितीया): z.B. bei gewissen PPP zu Verben der Bewegung (Pāṇini 2,1,24): &lt;!-- TODO: Fallback translation --&gt;
+Предният член представлява винителен падеж (द्वितीया): напр. при някои причастия на миналото време към глаголи на движение (Панини 2,1,24):
 
-ग्रामगतः = ग्रामं गतः = "einer, der ins Dorf gegangen ist"  
-नरकपतिता = नरकं पतिता = "eine, die in eine Hölle gefallen ist" &lt;!-- TODO: Fallback translation --&gt;
+ग्रामगतः = ग्रामं गतः = "онзи, който е отишъл в селото"  
+नरकपतिता = नरकं पतिता = "она, която е паднала в ад"
 
-Das Vorderglied vertritt den Instrumentalis (तृतीया): z.B. häufig der Agens (कर्तृ) von Nominalbildungen mit kṛt-Suffixen (z.B. PPP): &lt;!-- TODO: Fallback translation --&gt;
+Предният член представлява творителен падеж (तृतीया): напр. често агенса (कर्तृ) на именни образувания с крит-суфикси (напр. причастие на миналото време):
 
-देवकृतम् = देवेन / देवैः कृतम् = "von einem Gott / von Göttern gemacht"  
-Wäre auch auflösbar: देवस्य / देवानां कृतम् = "Tat / Tun eines Gottes / von Göttern ; Gottestat, Göttertat"   &lt;!-- TODO: Fallback translation --&gt;
+देवकृतम् = देवेन / देवैः कृतम् = "направено от бог / от богове"  
+Би било също разпаднамо: देवस्य / देवानां कृतम् = "действие / творение на бог / от богове ; божествено дело, богове дело"  
 
-बुद्धरक्षिता  = बुद्धेन रक्षिता = "die, die von Buddha behütet wurde" (ein Eigenname) &lt;!-- TODO: Fallback translation --&gt;
+बुद्धरक्षिता  = बुद्धेन रक्षिता = "она, която е била пазена от Буда" (име)
 
-## 15.5. Zerlegung von Komposita (außer Dvandvas)
+## 15.5. Разлагане на съставни думи (с изключение на Двандви)
 
-::: grammar-box
-
-Obwohl im Sanskrit Komposita beliebiger Länge gebildet werden können und auch sehr häufig gebildet werden (Komposita aus 10 bis 30 Gliedern sind keine Seltenheit!), so sind doch - mit Ausnahme der Dvandvas - alle Komposita fortschreitend hierarchisch in je zwei Teile zu zerlegen: &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+Въпреки че в санскрит могат да се образуват съставни думи с произволна дължина и те се образуват много често (съставни думи от 10 до 30 члена не са рядкост!), всички съставни думи — с изключение на Двандви — са прогресивно йерархични и се разлагат на по два части:
 
 ::: media
-![]/images/lekt1502.jpg
-u.s.w. bis man zu den einzelnen Wortstämmen kommt. &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt1502.jpg)
+Ил.: समासविच्छेदः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1502))
 :::
-z.B. &lt;!-- TODO: Fallback translation --&gt;
 
-&lt;!-- TODO: Fallback translation --&gt;
+и т.н., докато се стигне до отделните корени на думите.
+
+напр.
 
 गुणवत्पुत्रकृतपुण्यम्
 
-> 1\. Stufe (Hauptzäsur): गुणवत्पुत्रकृतं ॥१॥ पुण्यम् &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> 2\. Stufe (1. Nebenzäsur): गुणवत्पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम् &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> 3\. Stufe (2. Nebenzäsur): गुणवता॥३॥ पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम् &lt;!-- TODO: Fallback translation --&gt;
-> = "die verdienstvolle Tat (das Verdienst), die mein tugendhafter Sohn getan hat" &lt;!-- TODO: Fallback translation --&gt;
-> z.B. &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+1\. степен (основна пауза): गुणवत्पुत्रकृतं ॥१॥ पुण्यम्
 
-Dabei können verschiedene Arten von Komposita gemischt werden, z.B. Vorderglied: Bahuvrīhi (बहुव्रीहि) - Hinterglied: Tatpuruṣa usw. &lt;!-- TODO: Fallback translation --&gt;
+2\. степен (1. вторична пауза): गुणवत्पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
 
-&lt;!-- TODO: Fallback translation --&gt;
+3\. степен (2. вторична пауза): गुणवता॥३॥ पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
+
+= "заслужилата постъпка (заслугата), която добродетелният ми син е извършил"
+:::
+
+При това могат да се смесват различни видове съставни думи, напр. преден член: Бхуврихи (बहुव्रीहि) — заден член: Татпуръша и т.н.
+
+напр.
 
 ब्राह्मणक्षत्रियवैश्यधर्मः
 
-> 1\. Stufe: ब्राह्मणक्षत्रियवैश्यानां धर्मः (Vorderglied: Itaretaradvandva) &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> 2\. Stufe: ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः &lt;!-- TODO: Fallback translation --&gt;
-> = "der Dharma von Brahmanen, Kṣatriyas und Vaiśyas" &lt;!-- TODO: Fallback translation --&gt;
-> Sehr oft gibt es für ein Kompositum verschiedene Möglichkeiten der Auflösung. Welches die richtige oder zumindest die beste ist, kann nur aus dem Kontext und dem Inhalt des Textes entschieden werden. Manchmal ist eine solche Entscheidung nicht möglich. Oft sind zwei Auflösungsmöglichkeiten vermutlich vom Autor intendiert. Dann muss man in der Übersetzung beide Auflösungsmöglichkeiten wiedergeben (verbunden mit "und", "oder" "bzw." und dergleichen. &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+1\. степен: ब्राह्मणक्षत्रियवैश्यानां धर्मः (преден член: Итаретарадвандва)
 
-z.B. &lt;!-- TODO: Fallback translation --&gt;
+2\. степен: ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः
 
-1\. Stufe: entweder - oder &lt;!-- TODO: Fallback translation --&gt;
+= "дхармата на брахмани, кшатрии и вайши"
+:::
+
+Често има различни възможности за разлагане на една съставна дума. Коя е правилната или поне най-добрата, може да се реши само от контекста и съдържанието на текста. Понякога такова решение не е възможно. Често авторът е имал предвид две възможности за разлагане. Тогава трябва да се предадат и двете възможности за разлагане в превода (свързани с "и", "или" "съответно" и подобни).
+
+напр.
 
 पुण्यवत्पुत्रकृतम्
 
-> &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
-> 1. पुण्यवत्पुत्रेण कृतम्
-> 2. पुण्यवत्पुत्रस्य कृतम्
-> 3. पुण्यवत् पुत्रकृतम्
-> 2\. Stufe: entsprechend &lt;!-- TODO: Fallback translation --&gt;
-> &lt;!-- TODO: Fallback translation --&gt;
->  <!-- TODO: Fallback translation -->
-> 1. पुण्यवता पुत्रेण कृतम् = "das von meinem verdienstreichen Sohn Getane" &lt;!-- TODO: Fallback translation --&gt;
-> 2. पुण्यवतः पुत्रस्य कृतम् = "die Tat meines verdienstreichen Sohnes" &lt;!-- TODO: Fallback translation --&gt;
-> 3. 1. पुण्यवत्  पुत्रेण कृतम् = "das verdienstvolle, von meinem Sohn Getane" &lt;!-- TODO: Fallback translation --&gt;
->    2. पुण्यवत्  पुत्रस्य कृतम् = "die verdienstvolle Tat meines Sohnes" &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+1\. степен: или - или
 
+1. पुण्यवत्पुत्रेण कृतम्
+2. पुण्यवत्पुत्रस्य कृतम्
+3. पुण्यवत् पुत्रकृतम्
+
+2\. степен: съответно
+
+1. पुण्यवता पुत्रेण कृतम् = "извършеното от моя заслужил син"
+2. पुण्यवतः पुत्रस्य कृतम् = "постъпката на моя заслужил син"
+3. 1. पुण्यवत्  पुत्रेण कृतम् = "заслужилата, извършената от моя син"
+   2. पुण्यवत्  पुत्रस्य कृतम् = "заслужилата постъпка на моя син"
 :::
+::::
 
-## 15.6. Die Form des Vorderglieds in Komposita (समास m.)
+## 15.6. Формата на предния член в съставни думи (समास м.р.)
 ::: grammar-box
 
-In allen Arten von Komposita ist das Vorderglied in der Regel der unveränderte Wortstamm. Zweistämmige Nomina stehen im schwachen Stamm. Feminine Adjektive, die ein folgendes Glied im Kompositum näher bestimmen, stehen im Allgemeinen in maskulinen Stamm: &lt;!-- TODO: Fallback translation --&gt;
+При всички видове съставни думи предният член обикновено е непроменената коренова форма. Двустемните съществителни имена стоят в слаба форма. Женски род прилагателни, които определят по-нататъшния член в съставната дума, обикновено стоят в мъжка форма:
 
-z.B. &lt;!-- TODO: Fallback translation --&gt;
+напр.
 
-पुण्यवत्क्षत्रिया = पुण्यवती क्षत्रिया = "eine Kṣatriyafrau, die Verdienst besitzt"  
-गुणवत्पुत्रः = गुणवान् पुत्रः = "ein Sohn mit guten Eigenschaften" &lt;!-- TODO: Fallback translation --&gt;
+पुण्यवत्क्षत्रिया = पुण्यवती क्षत्रिया = „кшатрийска жена, която притежава zasluženi“  
+गुणवत्पुत्रः = गुणवान् पुत्रः = „син с добри качества“
 
 :::
 
-## 15.7. Einteilung der तत्पुरुष
+## 15.7. Разпределение на तत्पुरुष
 
-1.  प्रथमातत्पुरुषः : Vorderglied steht in विग्रहवाक्य im Номинатив (प्रथमा) &lt;!-- TODO: Fallback translation --&gt;
-2.  द्वितीयातत्पुरुषः : Vorderglied steht in विग्रहवाक्य im Акузатив (द्वितीया) &lt;!-- TODO: Fallback translation --&gt;
-3.  तृतीयातत्पुरुषः : Vorderglied steht in विग्रहवाक्य im Инструменталис (तृतीया) &lt;!-- TODO: Fallback translation --&gt;
-4.  चतुर्थीतत्पुरुषः : Vorderglied steht in विग्रहवाक्य im Датив (चतुर्थी) &lt;!-- TODO: Fallback translation --&gt;
-5.  पञ्चमीतत्पुरुषः : Vorderglied steht in विग्रहवाक्य im Аблатив (पज्चमी) &lt;!-- TODO: Fallback translation --&gt;
-6.  षष्ठीतत्पुरुषः : Vorderglied steht in विग्रहवाक्य im Генетив (षष्ठी) &lt;!-- TODO: Fallback translation --&gt;
-7.  सप्तमीतत्पुरुषः : Vorderglied steht in विग्रहवाक्य im Локатив (सप्तमी) &lt;!-- TODO: Fallback translation --&gt;
+1.  प्रथमातत्पुरुषः : Първата част стои в विग्रहवाक्य в именителен падеж (प्रथमा)
+2.  द्वितीयातत्पुरुषः : Първата част стои в विग्रहवाक्य в винителен падеж (द्वितीया)
+3.  तृतीयातत्पुरुषः : Първата част стои в विग्रहवाक्य в творителен падеж (तृतीया)
+4.  चतुर्थीतत्पुरुषः : Първата част стои в विग्रहवाक्य в дателен падеж (चतुर्थी)
+5.  पञ्चमीतत्पुरुषः : Първата част стои в विग्रहवाक्य в родителен падеж (पज्चमी)
+6.  षष्ठीतत्पुरुषः : Първата част стои в विग्रहवाक्य в родителен падеж (षष्ठी)
+7.  सप्तमीतत्पुरुषः : Първата част стои в विग्रहवाक्य в местен падеж (सप्तमी)
 
-*   कर्मधारयः : appositioneller Tatpuruṣa, u.a.: &lt;!-- TODO: Fallback translation --&gt;
-    *   उपमानपूर्वपदकर्मधारयः : विग्रहवाक्य mit इव nach erstem Glied &lt;!-- TODO: Fallback translation --&gt;
-    *   उपमानोत्तरपदकर्मधारयः : विग्रहवाक्य mit इव nach zweitem Glied &lt;!-- TODO: Fallback translation --&gt;
-    *   रूपकसमासः : विग्रहवाक्य mit एव &lt;!-- TODO: Fallback translation --&gt;
-    *   द्विगुसमासः : Zahlwort im Vorderglied &lt;!-- TODO: Fallback translation --&gt;
-*   नञ्तत्पुरुषः (निषेधतत्पुरुषः) : mit Verneinung a-, an- im Vorderglied &lt;!-- TODO: Fallback translation --&gt;
-*   गतिसमासः : mit Präposition im Vorderglied &lt;!-- TODO: Fallback translation --&gt;
-*   प्रथमातत्पुरुषः u.s.w. (siehe oben) &lt;!-- TODO: Fallback translation --&gt;
+*   कर्मधारयः : апозитивен татпуръша, между другото:
+    *   उपमानपूर्वपदकर्मधारयः : विग्रहवाक्य с इव след първата част
+    *   उपमानोत्तरपदकर्मधारयः : विग्रहवाक्य с इव след втората част
+    *   रूपकसमासः : विग्रहवाक्य с एव
+    *   द्विगुसमासः : числително в първата част
+*   नञ्तत्पुरुषः (निषेधतत्पुरुषः) : с отрицание a-, an- в първата част
+*   गतिसमासः : с предлог в първата част
+*   प्रथमातत्पुरुषः и т.н. (вж. по-горе)
 
-### 15.7.1. Einteilung der कर्मधारय
+### 15.7.1. Класификация на कर्मधारय
 
-1.  विशेषणपूर्वपदकर्मधारयः : Vorderglied ist Adjektiv (विशेषण) &lt;!-- TODO: Fallback translation --&gt;
-2.  विशेषणोभयपदकर्मधारयः : beide Glieder sind Adjektive, hierher gehören auch Adjektive, die einen Zeitablauf ausdrücken: "zuerst gebadet, dann gesalbt" &lt;!-- TODO: Fallback translation --&gt;
-3.  उपमानपूर्वपदकर्मधारयः (=  उपमासमासः): im Vorderglied Vergleich, im Hinterglied verglichene Eigenschaft: z.B. "schön wie ein Lotus" &lt;!-- TODO: Fallback translation --&gt;
-4.  उपमानोत्तरपदकर्मधारयः (=  उपमितसमासः):  Vergleich im Hinterglied &lt;!-- TODO: Fallback translation --&gt;
-5.  रूपकसमासः : विग्रहवाक्य mit एव nach Vorderglied (Metapher) &lt;!-- TODO: Fallback translation --&gt;
-6.  संभावनपूर्वपदकर्मधारयः : beide Glieder Glieder beziehen sich auf selbe Person oder Sache, z.B. कालिदासकविः = कालिदास इति कविः = "der Dichter Kālidāsa" &lt;!-- TODO: Fallback translation --&gt;
-7.  कर्मधारयः mit कु / कद् als Vorderglied: "schlecht..." &lt;!-- TODO: Fallback translation --&gt;
-8.  कर्मधारयः mit किम् als Vorderglied: Tadel &lt;!-- TODO: Fallback translation --&gt;
-9.  PPP + negiertes PPP: "teilweise", z.B. कृताकृतम् = "teilweise getan" &lt;!-- TODO: Fallback translation --&gt;
-10.  द्विगुसमासः : Zahlwort im Vorderglied &lt;!-- TODO: Fallback translation --&gt;
+1.  विशेषणपूर्वपदकर्मधारयः : Първата част е прилагателно (विशेषण)
+2.  विशेषणोभयपदकर्मधारयः : двете части са прилагателни, тук попадат и прилагателни, които изразяват времева последователност: "първо измит, после намазан"
+3.  उपमानपूर्वपदकर्मधारयः (=  उपमासमासः): в първата част сравнение, във втората част сравнявано свойство: напр. "красив като лотос"
+4.  उपमानोत्तरपदकर्मधारयः (=  उपमितसमासः):  сравнение във втората част
+5.  रूपकसमासः : विग्रहवाक्य с एव след първата част (метафора)
+6.  संभावनपूर्वपदकर्मधारयः : двете части се отнасят за едно и също лице или нещо, напр. कालिदासकविः = कालिदास इति कविः = "поетът Калидаса"
+7.  कर्मधारयः с कु / कद् като първа част: "лош..."
+8.  कर्मधारयः с किम् като първа част: укор
+9.  PPP + отрицателно PPP: "частично", напр. कृताकृतम् = "частично направено"
+10.  द्विगुसमासः : числително в първата част
 
-## 15.8. Речник
+## 15.8. Списък на думите
 
-पुष्कल 3: herrlich, prächtig, reichlich &lt;!-- TODO: Fallback translation --&gt;
+पुष्कल 3: прекрасен, великолепн, обилен
 
-वा : oder (nachgestellt) &lt;!-- TODO: Fallback translation --&gt;
+वा : или (поставен след)
 
-अथवा : oder (vorangestellt) &lt;!-- TODO: Fallback translation --&gt;
+अथवा : или (поставен преди)
 
-चतुर्थ 3 (f.: चतुर्थी): vierter &lt;!-- TODO: Fallback translation --&gt;
+चतुर्थ 3 (ж.: चतुर्थी): четвърти
 
-विद् "finden" 6 U विन्दति ; Pass. विद्यते ; PPP विन्न / वित्त &lt;!-- TODO: Fallback translation --&gt;
+विद् "намеря" 6 U विन्दति ; Страд. विद्यते ; PPP विन्न / वित्त
 
-विद् "wissen" 2 P वेत्ति ; Pass. विद्यते ; PPP विदित &lt;!-- TODO: Fallback translation --&gt;
+विद् "знам" 2 П वेत्ति ; Страд. विद्यते ; PPP विदित
 
-पत् "fliegen, fallen" 1 P पतति ; Pass. पत्यते ; PPP पतित &lt;!-- TODO: Fallback translation --&gt;
+पत् "летя, падам" 1 П पतति ; Страд. पत्यते ; PPP पतित
 
-अर्ध 3: halb, m.n. Hälfte &lt;!-- TODO: Fallback translation --&gt;
+अर्ध 3: половина, м.р. половина
 
-पूजा f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā) &lt;!-- TODO: Fallback translation --&gt;
+पूजा ж.: почит, почтен прием, религиозно обожание (Пуджа)
 ::: media
 ![](/images/lekt1504.jpg)
-Abb.: पूजा
-(Bildquelle: [Details](/licenses#lekt1504)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: पूजा
+(Източник на изображението: [Подробности](/bg/licenses#lekt1504))
 :::
 
-कुल n.: Herde, Menge, Geschlecht, Abstammung, Familie &lt;!-- TODO: Fallback translation --&gt;
+कुल ср.р.: стадо, тълпа, род, произход, семейство
 
-इन्द्र m.: Fürst, Erster, Bester unter ; Götterkönig Indra &lt;!-- TODO: Fallback translation --&gt;
+इन्द्र м.р.: владетел, първи, най-добър ; цар на боговете Индра
 ::: media
 ![](/images/lekt1505.jpg)
-Abb.: इन्द्रः
-(Bildquelle: [Details](/licenses#lekt1505)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: इन्द्रः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1505))
 :::
 
-दास m.: Sklave, Leibeigener, Diener &lt;!-- TODO: Fallback translation --&gt;
+दास м.р.: роб, крепостник, слуга
 
-दासी f.: Sklavin, Leibeigene, Dienerin &lt;!-- TODO: Fallback translation --&gt;
+दासी ж.: робиня, крепостничка, служителка
 
-काल m.: Zeit, (rechter) Zeitpunkt ; Schicksal, Tod ; Todesgott Kāla &lt;!-- TODO: Fallback translation --&gt;
+काल м.р.: време, (правилно) време ; съдба, смърт ; бог на смъртта Кали
 
-काल 3: schwarz, blauschwarz, dunkel &lt;!-- TODO: Fallback translation --&gt;
+काल 3: черен, синьочерен, тъмен
 
-पुरुष m.: Mensch, Mann, Knecht &lt;!-- TODO: Fallback translation --&gt;
+पुरुष м.р.: човек, мъж, слуга
 
-\-जन als zweites Glied von Tatpuruṣas oft Ausdruck des Plurals &lt;!-- TODO: Fallback translation --&gt;
+\-जन като втора част на Татпуруша често израз на множествено число
 
-स्तु 2 स्तौति ; Pass. स्तूयते ; PPP स्तुत : loben, preisen &lt;!-- TODO: Fallback translation --&gt;
+स्तु 2 स्तौति ; Страд. स्तूयते ; PPP स्तुत : възхвалявам, възпявам
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
 ::: indent
-स्तुति f.: Lobpreis, Loblied &lt;!-- TODO: Fallback translation --&gt;
+स्तुति ж.: възхвала, химн
 
-स्तोत्र n.: (Mittel zum Preisen =) Loblied, Hymnus &lt;!-- TODO: Fallback translation --&gt;
+स्तोत्र ср.р.: (средство за възпяване =) химн, гимн
 :::
 
-सिंह m.: Löwe (_Panthera leo persica_) &lt;!-- TODO: Fallback translation --&gt;
+सिंह м.р.: лъв (_Panthera leo persica_)
 ::: media
 ![](/images/lekt1506.jpg)
-Abb.: सिंहः
-(Bildquelle: [Details](/licenses#lekt1506)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: सिंहः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1506))
 :::
 
-व्याघ्र m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner) &lt;!-- TODO: Fallback translation --&gt;
+व्याघ्र м.р.: тигър (_Panthera tigris tigris_) (букв.: зевец)
 ::: media
 ![](/images/lekt1507.jpg)
-Abb.: व्याघ्रः
-(Bildquelle: [Details](/licenses#lekt1507)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: व्याघ्रः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1507))
 :::
 
-इव (nachgestellt): gleichsam, wie (in Vergleichen: व्याघ्र इव पुरुषः = "ein Mann wie ein Tiger", "ein tigergleicher Mann" &lt;!-- TODO: Fallback translation --&gt;
+इव (поставен след): сякаш, като (в сравнения: व्याघ्र इव पुरुषः = "мъж като тигър", "тигър-подобна мъжественост"
 
-एव (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `&lt;!&gt;`, z.B. सत्यमेव जयति "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt" &lt;!-- TODO: Fallback translation --&gt;
+एव (поставен след): подчертава предходното, в немския често съответства на акцента, вид емоционен знак `&lt;!&gt;`, напр. सत्यमेव जयति "само истината побеждава", "точно истината побеждава", "истината побеждава"
 
-अरि m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling) &lt;!-- TODO: Fallback translation --&gt;
+अरि м.р.: враг (съгласно Тиете, Чужденецът в Ригведа: първоначално = чужденец)
 
 ::: indent
-आर्य 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann &lt;!-- TODO: Fallback translation --&gt;
+आर्य 3: арийски, благороден ; м.р. ариец (самоопределение на санскрит говорящите древни индийци, буквално: гостоприимен (Тиете)) ; благороден, честен човек
 :::
 
-zu जन् &lt;!-- TODO: Fallback translation --&gt;
+към जन्
 
 ::: indent
-जाति f.: Geburt, Art, Kaste (zu जाति als Kaste siehe Basham, Wonder, S. 148ff.) &lt;!-- TODO: Fallback translation --&gt;
+जाति ж.: раждане, вид, каста (към जाति като каста виж Башам, Чудото, стр. 148 сл.)
 :::
 
-मृ 4 Ā म्रियते ; Pass. म्रियते ; PPP मृत : sterben (nach indischen Grammatikern: 6 Ā) &lt;!-- TODO: Fallback translation --&gt;
+मृ 4 А म्रियते ; Страд. म्रियते ; PPP मृत : умирам (съгласно индийските грамматици: 6 А)
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
 ::: indent
-मरण n.: Sterben, Tod &lt;!-- TODO: Fallback translation --&gt;
+मरण ср.р.: умиране, смърт
 
-मृति f.: Sterben, Tod &lt;!-- TODO: Fallback translation --&gt;
+मृति ж.: умиране, смърт
 
-मृत्यु m.: Tod ; personifiziert: Todesgott &lt;!-- TODO: Fallback translation --&gt;
+मृत्यु м.р.: смърт ; персонифициран: бог на смъртта
 :::
 
 ## 15.9. Упражнение 1
 
-Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine deutsche Übersetzung. Geben Sie jeweils alle Auflösungen und Übersetzungen, die Ihnen möglich erscheinen. Geben Sie auch an, um welchen Kasus und welche Zahl es sich beim Gesamtkompositum handelt. &lt;!-- TODO: Fallback translation --&gt;
+Разгледайте следните съставни думи като татпуръша на санскрит и предоставете немски превод. Посочете всички възможни разложения и преводи, които смятате за подходящи. Уточнете също кой падеж и число се отнася за цялото съставно.
 
 १. देवेन्द्रस्य
 
@@ -397,7 +410,7 @@ Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine
 
 ## 15.10. Упражнение 2
 
-Lösen Sie wie bei Übung 1 folgende Tatpuruṣa auf: &lt;!-- TODO: Fallback translation --&gt;
+Решете следните Tatpuruṣa, както при Упражнение 1:
 
 १. देवतागृहम्
 
@@ -520,15 +533,15 @@ Lösen Sie wie bei Übung 1 folgende Tatpuruṣa auf: &lt;!-- TODO: Fallback tra
 ६०. द्विजातिशुश्रूषया
 ::: media
 ![](/images/lekt1508.jpg)
-Abb.: ग्रामदेवता
-(Bildquelle: [Details](/licenses#lekt1508)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: ग्रामदेवता
+(Източник на изображението: [Подробности](/bg/licenses#lekt1508))
 :::
 
 ## 15.11. Упражнение 3
 
-A) Übersetzen Sie das Sprichwort zu Beginn der Lektion &lt;!-- TODO: Fallback translation --&gt;
+A) Преведете пословицата в началото на урока
 
-B) Lösen Sie folgende Tatpuruṣa auf: &lt;!-- TODO: Fallback translation --&gt;
+B) Разгледайте следните Tatpuruṣa:
 
 १. बलकृतः
 
@@ -583,21 +596,19 @@ B) Lösen Sie folgende Tatpuruṣa auf: &lt;!-- TODO: Fallback translation --&gt
 २६. श्रुत्युदितम्
 ::: media
 ![](/images/lekt1509.jpg)
-Abb.: नागदेवाः
-(Bildquelle: [Details](/licenses#lekt1509)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: नागदेवाः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1509))
 :::
 
 ::: deleteme-box
 
-### Източници
-
-- **Фиг.: लक्ष्मी** (Lakshmi): Gemälde von राजा रवि वर्मा (1848 - 1906). Източник на изображението: Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Фиг.: नरसिंहः** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Източник на изображението: Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Diagramm** (lekt1502.jpg): Diagramm zur Zerlegung von Komposita. Източник на изображението: Alois Payer / Original-Kursgrafik. <!-- TODO: Fallback translation -->
-- **Фиг.: पूजा** (Puja): A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Източник на изображението: Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Фиг.:  इन्द्रः** (Indra): Folio from a Panchakalyanaka, Rajasthan, Amber. Източник на изображението: Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Фиг.: सिंहः** (Lion): Panthera leo persica. Източник на изображението: Wikipedia, GNU FDLicense. <!-- TODO: Fallback translation -->
-- **Фиг.: व्याघ्रः** (Tiger): Bandhavgarh National Park (बांधवगढ राष्ट्रीय उद्दान). Източник на изображението: U.S. Fish and Wildlife Service / Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Фиг.: ग्रामदेवता** (Gramadevata): Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India. Източник на изображението: ganuullu (Flickr), Creative Commons Lizenz. <!-- TODO: Fallback translation -->
-- **Фиг.: नागदेवाः** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Източник на изображението: Dineshkannambadi / Wikipedia, GNU FDLicense. <!-- TODO: Fallback translation -->
+- **Ил.: लक्ष्मी** (Лакшми): картина от राजा रवि वर्मा (1848 - 1906). Източник на изображението: Уикипедия, Обществен достояние.
+- **Ил.: नरसिंहः** (Нарасимха): Белур (ಬೇಲೂರು), Карнатака (ಕರ್ನಾಟಕ). Източник на изображението: Уикипедия, Обществен достояние.
+- **Диаграма** (lekt1502.jpg): Диаграма за разлагане на съставни думи. Източник на изображението: Alois Payer / Оригинална курсова графика.
+- **Ил.: पूजा** (Пуджа): Церемония по Пуджа, проведена в Какинуда (కాకినాడ), Андхра Прадеш (ఆంధ్ర ప్రదేశ్), Индия. Източник на изображението: Уикипедия, Обществен достояние.
+- **Ил.:  इन्द्रः** (Индра): Лист от Панчкакалианака, Раджастан, Амбер. Източник на изображението: Уикипедия, Обществен достояние.
+- **Ил.: सिंहः** (Лъв): Panthera leo persica. Източник на изображението: Уикипедия, GNU FDLicense.
+- **Ил.: व्याघ्रः** (Тигър): Национален парк Бхатвагар (बांधवगढ राष्ट्रीय उद्दान). Източник на изображението: U.S. Fish and Wildlife Service / Уикипедия, Обществен достояние.
+- **Ил.: ग्रामदेवता** (Грамадевата): Господар Вирпанат @ село Пасвадал, Вадагам, Гуджарат, Индия. Източник на изображението: ganuullu (Flickr), Creative Commons лиценз.
+- **Ил.: नागदेवाः** (Нагадаевати): Хампи (ಹಂಪೆ), Карнатака (ಕರ್ನಾಟಕ). Източник на изображението: Dineshkannambadi / Уикипедия, GNU FDLicense.
 :::

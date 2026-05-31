@@ -1,53 +1,62 @@
+---
+title: Урок 55
+subtitle: "А-аорист (аорист з тематичним голосним)"
+lesson_id: 55
+last_reconstructed: 2026-05-21
+category: "Граматика"
+status: stable
+---
 
+# Урок 55
 
-# Lektion 55
-
-## 55.1. Der a-Aorist (Aorist mit Themavokal)
-
-Der a-Aorist wird gebildet wie ein Imperfekt (लङ्) der 6. Präsensklasse (तुदादि), d.h.: &lt;!-- TODO: Fallback translation --&gt;
-
-Augment + tiefstufige Wurzel + a + Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
-
-Das -a- wird in den gleichen Fällen wie im Imperfekt durch -ā- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
-
-Keine Nasalinfixe. &lt;!-- TODO: Fallback translation --&gt;
-
-Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen). &lt;!-- TODO: Fallback translation --&gt;
-
-Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340. &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
-
-सिच् 6U "beträufeln" &lt;!-- TODO: Fallback translation --&gt;
+## 55.1. a-аорист (аорист з тематичним голосним)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | | |
-| --- | --- | --- | | |
-|   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
+**a-аорист утворюється так само, як імперфект (लङ्) 6-го класу теперішнього часу (तुदादि), тобто:**
+
+**Авґмент + корінь у низькому ступені + a + вторинне закінчення**
+
+**-a- замінюється на -ā- у тих самих відмінках, що й в імперфекті.**
+
+**Без наставника nasal infix.**
+
+**Атманепада є рідкісною; для коренів обох видів (ubhayapada) вона зазвичай утворюється за іншими класами аориста (див. Кільгорн, Граматика §340, а також нижче відповідні класи аориста).**
+
+**Список коренів, що мають цей аорист, у Кільгорні, Граматика §340.**
+:::
+
+Приклад:
+
+सिच् 6U "обприскувати"
+
+::: indent
+|   | परस्मैपदम् || आत्मनेपदम् ||
+| --- | --- | --- | --- | --- |
+|   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
 | 1\. तृतीयः | असिचम् | असिचाम | असिचे | असिचामहि |
 | 2\. मध्यमः | असिचस् | असिचत | असिचथास् | असिचध्वम् |
 | 3\. प्रथमः | असिचत् | असिचन् | असिचत | असिचन्त |
 :::
 
-Unregelmäßige Bildungen: &lt;!-- TODO: Fallback translation --&gt;
+Нерегулярні утворення:
 
 ::: indent
-अस् 4P "werfen": आस्थम्, आस्थत् (Erklärung siehe Thumb-Hauschild §541,4) &lt;!-- TODO: Fallback translation --&gt;
+अस् 4P "кидати": ***आस्थम्, आस्थत्*** (пояснення див. Thumb-Hauschild §541,4)
 
-ख्या + आ 2P "erzählen": अख्यम्, अख्यत् &lt;!-- TODO: Fallback translation --&gt;
+ख्या + आ 2P "розповідати": ***अख्यम्, अख्यत्***
 
-दृश् "sehen": अदर्शम्, अदर्शत् (Hochstufe!) &lt;!-- TODO: Fallback translation --&gt;
+दृश् "бачити": ***अदर्शम्, अदर्शत्*** (високий ступінь!)
 :::
 
-&lt;!-- TODO: Fallback translation --&gt;
+Зверніть увагу:
 
 ::: indent
-शास् 2P "befehlen": अशिषत् (regelmäßige Tiefstufe!) &lt;!-- TODO: Fallback translation --&gt;
+शास् 2P "наказувати": अशिषत् (регулярний низький ступінь!)
 :::
 
-## 55.2. Вправа
+## 55.2. Вправи
 
-Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist: &lt;!-- TODO: Fallback translation --&gt;
+Визначте та письмово перекладіть наведені форми та утворіть відповідні форми a-аориста:
 
 1.  दोक्ष्यन्ति
 2.  बुबोध
@@ -69,30 +78,28 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 18.  श्राम्यन्ति
 19.  विन्दथ
 20.  असीदन्
-21.  वर्तामहे (a-Aor.: P) &lt;!-- TODO: Fallback translation --&gt;
+21.  वर्तामहे (a-аор.: P)
 22.  अशात्
 23.  सेक्ष्यसे
 24.  अयुनक्
 25.  आरिथ
 26.  अक्लिद्यन्
-27.  अजीर्यम् (Aor.: hochstufig) &lt;!-- TODO: Fallback translation --&gt;
+27.  अजीर्यम् (Аор.: високий ступінь)
 28.  लुम्पति
 29.  अशाम्यत
-30.  अशोभथाः  (a-Aor.: P) &lt;!-- TODO: Fallback translation --&gt;
+30.  अशोभथाः  (a-аор.: P)
 31.  अशुष्याम
 32.  सिष्णेह
 
 ::: media
-![]/images/lekt5501.jpg
-Abb.: अजीर्यमिति  
-'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618  
-\[Bildquelle: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Zugriff am 2009-01-28. Gemeinfrei\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5501.jpg)
+Рис.: अजीर्यमिति
+«Інаят-хан на смертному ложі», ескіз мініатюри до рукопису для Джахангіра = جهانگير, близько 1618 року
+(Джерело зображення: [Деталі](/uk/licenses#lekt5501))
 :::
 
 ::: deleteme-box
 
-### Джерела
-
-**lekt5501:** 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618 [Bildquelle: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Zugriff am 2009-01-28. Gemeinfrei] <!-- TODO: Fallback translation -->
+**lekt5501:** «Інаят-хан на смертному ложі», ескіз мініатюри до рукопису для Джахангіра = جهانگير, близько 1618 року [Джерело зображення: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Доступ отримано 2009-01-28. Суспільне надбання]
 
 :::

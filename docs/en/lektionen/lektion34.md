@@ -8,7 +8,7 @@ status: stable
 
 ## 34.1. The Perfect (लिट्)
 
-In Classical Sanskrit, the perfect stem is attested only in the indicative and the participle.
+In Classical Sanskrit, the perfect stem has only indicative and participle forms.
 
 ::: grammar-box
 **There are two types of perfect formation:**
@@ -18,11 +18,11 @@ In Classical Sanskrit, the perfect stem is attested only in the indicative and t
 ::: grammar-box
 **The periphrastic perfect (अनुप्रयोगलिट्) is used:**
 1. **in derived conjugations (causative, desiderative, frequentative, denominative)**
-2. **with roots beginning with a long vowel (except ā-) or with a vowel (except a-) followed by two consonants**
-3. **with certain other roots**
+2. **with roots that begin with a long vowel (except ā-) or with a vowel (except a-) before two consonants**
+3. **with some other roots**
 :::
 
-## 34.2. The Reduplicated Perfect (द्वित्वलिट्)
+## 34.2. The reduplicated perfect (द्वित्वलिट्)
 
 ### 34.2.1. Stem Gradation
 
@@ -30,17 +30,17 @@ In Classical Sanskrit, the perfect stem is attested only in the indicative and t
 **Formation:**
 
 **strong stem:** Singular Parasmaipada
-*   **reduplicated guṇa or vr̥ddhi grade root + perfect ending**
+*   **reduplicated guṇa or vṛddhi stem + perfect ending**
 
 **weak stem:** all other forms
-*   **reduplicated zero-grade root + perfect ending**
+*   **reduplicated zero-grade stem + perfect ending**
 :::
 ::: grammar-box
-**Generally (also outside the perfect), roots of the following forms do not undergo stem gradation:**
+**Generally (also outside the perfect), stems of the following forms do not undergo stem gradation:**
 *   **(Consonant)-Consonant-Long Vowel-Consonant**
 *   **(Consonant)-Consonant-Vowel-Consonant-Consonant**
 
-**In the perfect, additionally, roots of the following forms do not undergo stem gradation:**
+**In the perfect, additionally, stems of the following forms do not undergo stem gradation:**
 *   **a-Consonant**
 *   **ā-Consonant**
 :::
@@ -59,17 +59,17 @@ In Classical Sanskrit, the perfect stem is attested only in the indicative and t
 ### 34.2.3. Connecting Vowel -i-
 
 ::: grammar-box
-**The connecting vowel -i- always precedes the 3rd person plural ending -re, and it precedes other consonant-initial endings for the majority of roots.**
+**The connecting vowel -i- always precedes the 3rd person plural ending -re, and precedes other consonant-initial endings for the majority of roots.**
 :::
 
 ### 34.2.4. Reduplication of roots beginning with a consonant
 
 ::: grammar-box
-**The rules for the reduplication of initial consonants are those given in [Lesson 33](lektion33.md).**
+**For the reduplication of initial consonants, the rules given in [Lesson 33](lektion33.md) apply.**
 
-**The reduplicative vowel in consonant-initial roots is the short root vowel.**
+**The reduplication vowel for roots beginning with a consonant is the short root vowel.**
 
-**Diphthongs preceding a consonant are reduced to the corresponding short low-grade vowel.**
+**Diphthongs before a consonant are reduced to the corresponding short low-grade vowel.**
 
 **ṛ, ṝ, ḷ, and final diphthongs are reduplicated with -a-.**
 :::
@@ -80,14 +80,14 @@ Examples:
 
 | Root | 3. sg. Perf. P. |
 | :--- | :--- |
-| भिद् | बिभेद |
-| मुच् | मुमोच |
-| भृ | बभार |
+| भिद् | ***बि***भेद |
+| मुच् | ***मु***मोच |
+| भृ | ***ब***भार |
 
 ::::
 
 ::: grammar-box
-**Some roots beginning with y- or v- reduplicate with i- or u-, which merges with the root vowel in the weak forms.**
+**Some roots beginning with y- or v- reduplicate with i- or u-, which in the weak forms "merges" with the root vowel.**
 :::
 
 Examples:
@@ -101,7 +101,7 @@ Examples:
 
 ::::
 
-### 34.2.5. Reduplication of roots beginning with a vowel
+### 34.2.5. Reduplication of Vowel-Initial Roots
 
 ::: grammar-box
 **1. Initial a-, ā- is reduplicated with a-, resulting in ā-.**
@@ -118,7 +118,7 @@ Examples:
 ::::
 
 ::: grammar-box
-**2. Roots beginning with i- have iy- as the reduplicating syllable in the strong stem, and i- in the weak stem, which merges with the root vowel to form ī-. The same applies to roots beginning with u-.**
+**2. Roots with initial i- have iy- as the reduplicating syllable in the strong stem, and i- in the weak stem, which merges with the root vowel to form ī-. The same applies to initial u-.**
 :::
 
 Examples:
@@ -133,7 +133,7 @@ Examples:
 ::::
 
 ::: grammar-box
-**3. Roots beginning with a- followed by two consonants, or with ṛ-, have ān- as the reduplicating syllable.**
+**3. Roots that begin with a- followed by two consonants, or with ṛ-, have ān- as the reduplicating syllable.**
 :::
 
 Examples:
@@ -147,18 +147,18 @@ Examples:
 
 ::::
 
-## 34.3. Types of the Reduplicated Perfect
+## 34.3. Types of the reduplicated perfect
 
-Classification Principle: Peculiarities of stem gradation:
+Classification principle: Peculiarities of stem gradation:
 *   Perfect without stem gradation: Type I
-*   Perfect with stem gradation: Types II–V
-*   Irregular perfect formations
+*   Perfect with stem gradation: Types II - V
+*   irregular perfect formations
 
-## 34.4. Perfect Type I: Perfect without Stem Gradation
+## 34.4. Perfect Type I: Perfect without stem gradation
 
 ::: grammar-box
-**Perfect Type I (without stem gradation) comprises roots of the following types:**
-*   **(Consonant)-Consonant-Long Vowel-Consonant**
+**Perfect Type I (without stem gradation) have roots of the types:**
+*   **(Consonant)-Consonant-LongVowel-Consonant**
 *   **(Consonant)-Consonant-Vowel-Consonant-Consonant**
 *   **a-Consonant**
 *   **ā-Consonant**
@@ -178,22 +178,22 @@ Examples:
 
 ::::
 
-## 34.5. Perfect Type II: Strong Stem in Guṇa Grade, Weak Stem in Zero Grade
+## 34.5. Perfect Type II: Strong stem with Vṛddhi grade, weak stem with Guṇa grade
 
 ::: grammar-box
-**Formed from roots of the following structure:**
+**Formed from roots of the form:**
 *   **(Consonant)-(Consonant)-i/u/ṛ/ḷ-Consonant**
 
 **Formation:**
-*   **Strong stem: Guṇa grade**
-*   **Weak stem: Zero grade**
+*   **strong stem: Vṛddhi grade**
+*   **weak stem: Guṇa grade**
 :::
 
 Examples:
 
 :::: grammar-box
 
-| Root | 3rd sg. Perf. Act. | 3rd pl. Perf. Act. | 3rd sg. Perf. Mid. | 3rd pl. Perf. Mid. |
+| Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | भिद् | बिभेद | बिभिदुर् | बिभिदे | बिभिदिरे |
 | इष् | इयेष | ईषुर् | | |
@@ -207,15 +207,16 @@ Examples:
 
 **क्षिति f. = पृथ्वी = मही = भूमी**
 
-**शस्य = सस्य n. sg. u. pl.:** seed, crop, grain
+**शस्य = सस्य n. sg. and pl.:** seed, crop, grain
 
 ::: media
 ![](/images/lekt3406.jpg)
 Fig.: सस्यम्
-(Image source: [Details](/licenses#lekt3406))
+Rice field in India.
+(Image source: [Details](/en/licenses#lekt3406))
 :::
 
-**यावत् :** as long as, as great as
+**यावत् :** how long, how great
 
 **तावत् :** so long, so great
 
@@ -226,7 +227,8 @@ Fig.: सस्यम्
 ::: media
 ![](/images/lekt3405.jpg)
 Fig.: लक्षद्वीपाः
-(Image source: [Details](/licenses#lekt3405))
+Lakshadweep Islands Map.
+(Image source: [Details](/en/licenses#lekt3405))
 :::
 
 **मर्त्य 3:** mortal (from **मृ**)
@@ -236,13 +238,15 @@ Fig.: लक्षद्वीपाः
 ::: media
 ![](/images/lekt3403.jpg)
 Fig.: तिलाः
-(Image source: [Details](/licenses#lekt3403))
+Sesame seeds.
+(Image source: [Details](/en/licenses#lekt3403))
 :::
 
 ::: media
 ![](/images/lekt3404.jpg)
 Fig.: *Sesamum indicum* L.
-(Image source: [Details](/licenses#lekt3404))
+Sesame plant flowering.
+(Image source: [Details](/en/licenses#lekt3404))
 :::
 
 **स्वर्ण n.:** (beautifully colored =) gold
@@ -250,12 +254,13 @@ Fig.: *Sesamum indicum* L.
 ::: media
 ![](/images/lekt3402.jpg)
 Fig.: स्वर्णम्
-(Image source: [Details](/licenses#lekt3402))
+Golden Temple (Harmandir Sahib), Amritsar.
+(Image source: [Details](/en/licenses#lekt3402))
 :::
 
 **निकेतन n.:** dwelling, temple
 
-**कोटि f.:** tip; 10 million
+**कोटि f.:** peak; 10 million
 
 **श्रेष्ठ 3:** best
 
@@ -266,20 +271,21 @@ Fig.: स्वर्णम्
 ::: media
 ![](/images/lekt3401.jpg)
 Fig.: ऋषभः
-(Image source: [Details](/licenses#lekt3401))
+Nandi Bull statue, Chamundi Hills, Mysore.
+(Image source: [Details](/en/licenses#lekt3401))
 :::
 
-**यम् 1P यच्छति :** to hold back, to hold, to offer, to grant
+**यम् 1P यच्छति :** restrain, hold, offer, grant
 
-**यम् + प्र 1P प्रयच्छति :** to hand over, to offer, to deliver
+**यम् + प्र 1P प्रयच्छति :** extend, offer, deliver
 
-**या 2P याति :** to go, to travel
+**या 2P याति :** go, travel
 
 **कन्या f.:** girl, maiden
 
 ## 34.7. Exercise
 
-Form the corresponding perfect tense forms for the following verb forms, matching them in person, number, and gender:
+Form the corresponding perfect forms in person, number, and gender for the following verb forms:
 
 1. रक्षिष्यन्ति
 2. स्रक्ष्यति
@@ -289,7 +295,7 @@ Form the corresponding perfect tense forms for the following verb forms, matchin
 6. भनक्ति
 7. लुभ्यन्ति
 8. रुन्धते
-9. रोदिति -> रोदिति
+9. रोदितi -&gt; रोदिति
 10. बध्नाति
 11. युध्यन्ते
 12. युङ्क्ते
@@ -315,9 +321,9 @@ Form the corresponding perfect tense forms for the following verb forms, matchin
 
 ## 34.8. Translation Exercise
 
-Translate the following text from the *Padma Purana* regarding gifts to Brahmins:
+Translate the following text from the पद्मपुराण regarding gifts to Brahmins:
 
-क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विज***त्तम*** ।  
+क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजो***त्तम*** ।  
 विष्णुलोके सुखं भुङ्क्ते यावदिन्द्रा***श्चतुर्दश*** ॥१॥  
 ***सप्त***द्वीपां महीं दत्त्वा यत्पुण्यं प्राप्यते द्विज ।  
 तत्पुण्यं प्राप्नुयान्मर्त्यो धेनुं यच्छन्द्विजातये ॥२॥  
@@ -331,26 +337,26 @@ Translate the following text from the *Padma Purana* regarding gifts to Brahmins
 Explanations:
 
 ::: indent
-**Vocative singular** of masculines/neuters ending in -a ends in -a: e.g., **देव** "O God!"
+**Vocative singular** of Masculine / Neuter nouns ending in -a ends in -a: e.g. **देव** "God!"
 
 **चतुर्दश** fourteen
 
 **सप्त** seven
 
-**जन्म** Nom./Akk. sg. of **जन्मन् n.** birth
+**जन्म** Nom./Acc. sg. of **जन्मन्** n. birth
 
-**सर्व 3** "all, whole" (declined according to pronominal declension)
+**सर्व 3** "all, entire" (declined according to pronominal declension)
 :::
 
 ::: media
 ![](/images/lekt3407.jpg)
 Fig.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
-(Image source: [Details](/licenses#lekt3407))
+Hindu wedding ritual.
+(Image source: [Details](/en/licenses#lekt3407))
 :::
 
 ::: deleteme-box
 
-### Sources
 
 **lekt3401:** Nandi Bull statue, Chamundi Hills, Mysore. [Image source: Luna Park / Flickr. CC BY-NC-ND]
 

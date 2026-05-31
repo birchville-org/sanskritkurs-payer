@@ -14,7 +14,6 @@ last_reconstructed: 2026-05-16
 
 Beispiel:
 गम् "gehen" » Kausativ: गमयति "er veranlasst, dass jemand geht; er schickt"
-&gt;
 दृश् "sehen" » Kausativ: दर्शयति "er macht sehen = er zeigt"
 :::
 
@@ -50,6 +49,7 @@ Ergebnis: देवा अमृतमश्नन्ति "Die Götter essen U
 ::: media
 ![](/images/lekt2802.jpg)
 Abb.: स नरान्प्रबन्धविज्ञानमध्यापयति
+ISKCON Temple Bangalore.
 (Bildquelle: [Details](/licenses#lekt2801))
 :::
 
@@ -57,11 +57,10 @@ Abb.: स नरान्प्रबन्धविज्ञानमध्य�
 **Nach Schema 1 konstruiert u.a. auch die Wurzel दृश्:**
 
 **Ausnahmen zu Schema 1 siehe unter Schema 2**
-:::
 
 Beispiel:
-
 (स) रामं पुत्रं दर्शयति = "er zeigt dem Rāma den Sohn"
+:::
 
 Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusammen (bei den Verbalformen handelt es sich jeweils um die 3. Person Imperfekt Parasmaipada):
 
@@ -71,17 +70,20 @@ Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusamme
 वेदमध्यापयद्विधिम् ।
 आसयत्सलिलै पृथ्वीं
 यः स मे श्रीहरिगतिः ॥
-&gt;
+
+::: indent
 Meine Zuflucht und mein Ziel ist Hari,
 Der die Feinde in den Himmel schickte,
 Der die Seinen die Bedeutung des Veda lehrte,
 Der die Götter mit Unsterblichkeitsspeise speiste,
 Der den Schöpfer den Veda lehrte,
 Der die Erde in das Wasser setzte.
+:::
 
 ::: media
 ![](/images/lekt2801.jpg)
 Abb.: स मे श्रीहरिगतिः
+Jadavpur University Management building.
 (Bildquelle: [Details](/licenses#lekt2802))
 :::
 
@@ -93,14 +95,15 @@ Abb.: स मे श्रीहरिगतिः
 **Agens (कर्ता) des Kausativums im Nominativ (प्रथमा) — Agens der veranlassten Handlung im Instrumentalis (तृतीया) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum**
 :::
 
+::: indent
 Beispiele:
-
 (स) रामेण भार्यां त्याजयति = "Er veranlasst den Rāma, seine Frau zu verlassen"
-> Ergebnis: रामो भार्यां त्यजति = "Rāma verlässt seine Frau"
-&gt;
+Ergebnis: रामो भार्यां त्यजति = "Rāma verlässt seine Frau"
+
 विष्णुमित्रो रामेण गोविन्दं गमयति = "Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken"
-> Ergebnis: रामो गोविन्दं गमयति = "Rāma schickt den Govinda fort"
-> &gt; Ergebnis dieses Ergebnisses: गोविन्दो गच्छति = "Govinda geht"
+Ergebnis: रामो गोविन्दं गमयति = "Rāma schickt den Govinda fort"
+Ergebnis dieses Ergebnisses: गोविन्दो गच्छति = "Govinda geht"
+:::
 
 ::: grammar-box
 **Ausnahmen zu Schema 1:**
@@ -167,7 +170,7 @@ Ergebnis: भृत्यो भारं हरति = "Der Diener holt die La
 
 ---
 
-## 28.3. Bildung des Präsensstamms zum Kausativ (णि, णिच्, कारit)
+## 28.3. Bildung des Präsensstamms zum Kausativ (णि, णिच्, कारित)
 
 ::: grammar-box
 **An den Kausativstamm treten die thematischen Endungen des Präsensstamms**
@@ -183,7 +186,7 @@ Beispiele:
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
-| विश् | वेशयति (veś-aya-ti) | er/sie/es lässt eintreten, führt hinein |
+| विश् | वेशयति | er/sie/es lässt eintreten, führt hinein |
 | लुभ् | लोभयति | begehren machen, begehrlich machen, verlocken |
 | दृश् | दर्शयति | sehen machen = zeigen |
 | वृत् | वर्तयति | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
@@ -198,11 +201,11 @@ Beispiele:
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
-| **bhū**[[br]](भू) | **bhāvayati**[[br]](भावयति)[[br]](aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
-| **i**[[br]](इ) | **āyayati**[[br]](आययति)[[br]](aus: ai-aya-ti) | bewirken, dass jemand geht |
-| **nī**[[br]](नी) | **nāyayati**[[br]](नाययति)[[br]](aus: nai-aya-ti) | führen lassen |
-| **kṛ**[[br]](कृ) | **kārayati**[[br]](कारयति)[[br]](kār-aya-ti) | machen lassen |
-| **vac**[[br]](वच्) | **vācayati**[[br]](वाचयति)[[br]](vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
+| भू | भावयति[[br]](aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
+| इ | आययति[[br]](aus: ai-aya-ti) | bewirken, dass jemand geht |
+| नी | नाययति[[br]](aus: nai-aya-ti) | führen lassen |
+| कृ | कारयति[[br]](kār-aya-ti) | machen lassen |
+| वच् | वाचयति[[br]](vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
 
 ::: grammar-box
 **Bildungstyp 3: tiefstufige Wurzel + -aya-**
@@ -214,7 +217,7 @@ Beispiel:
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
-| **duṣ**[[br]](दुष्) | **dūṣayati**[[br]](दूषयति)[[br]](dūṣ-aya-ti) | (jemanden) verderben |
+| दुष् | दूषयति[[br]](dūṣ-aya-ti) | (jemanden) verderben |
 
 ::: grammar-box
 **Bildungstyp 4: Wurzel + -paya-**
@@ -226,8 +229,8 @@ Beispiele:
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
-| **sthā**[[br]](स्था) | **sthāpayati**[[br]](स्थापयति)[[br]](sthā-paya-ti) | stehen machen, aufstellen |
-| **i + adhi**[[br]](इ + अधि)[[br]]"studieren" | **adhyāpayati**[[br]](अध्यापयति)[[br]](aus: adhi+ā-paya-ti)[[br]](zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
+| स्था | स्थापयति[[br]](sthā-paya-ti) | stehen machen, aufstellen |
+| इ + अधि[[br]]"studieren" | अध्यापयति[[br]](aus: adhi+ā-paya-ti)[[br]](zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
 
 ::: grammar-box
 **Unregelmäßige Bildungen:**
@@ -250,12 +253,11 @@ Anmerkungen:
 **Das Passiv zum Kausativ wird so gebildet:**
 
 **Kausativstamm OHNE -aya- + Passivsuffix -ya-**
-:::
 
 Beispiele:
 **bhāvyate** (bhāv-ya-te) "er/sie/es wird hervorgebracht"
-&gt;
 **sthāpyate** (sthāp-ya-te) "er/sie/es wird aufgestellt"
+:::
 
 Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird.
 
@@ -267,10 +269,10 @@ Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel
 **Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:**
 
 **-ay-iṣya-**
-:::
 
 Beispiel:
 **budh** Futur-Kausativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "er/sie/es wird aufwecken"
+:::
 
 ---
 
@@ -278,12 +280,11 @@ Beispiel:
 
 ::: grammar-box
 **Kausativstamm auf -ay- (ohne auslautendes a) + -i- + -ta**
-:::
 
 Beispiele:
 **gam** — **gamayati** — **gamita** (gam-i-ta) "gesendet" (PPP der einfachen Wurzel: **gata**)
-&gt;
 **sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt"
+:::
 
 ---
 
@@ -293,26 +294,25 @@ Beispiele:
 **Das Absolutivum auf -tvā wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:**
 
 **Kausativstamm auf -ay- + -i- + -tvā**
-:::
 
 Beispiel:
 **sthāpayitvā** (sthā-pay-i-tvā) "nachdem er aufgestellt hat"
+:::
 
 ::: grammar-box
 **Das Absolutivum auf -ya tritt bei Kausativa mit Präverb in der Regel an Kausativstamm OHNE -aya-**
-:::
 
 Beispiele:
 **prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "nachdem er aufgeweckt hat"
-&gt;
 **ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat"
+:::
 
 ::: grammar-box
 **Enthält jedoch die Wurzelsilbe des Kausativs ein kurzes -a- vor einem einzigen Konsonanten, tritt das -ya des Absolutivums an den Kausativstamm auf -ay- (ohne auslautendes a)**
-:::
 
 Beispiel:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat"
+:::
 
 ---
 
@@ -322,10 +322,10 @@ Beispiel:
 **Der Infinitiv zum Kausativ wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:**
 
 **Kausativstamm auf -ay- + -i- + -tum**
-:::
 
 Beispiel:
 **jan** — **janayati** — **janayitum** (janay-i-tum) "um zu erzeugen"
+:::
 
 ---
 
@@ -333,11 +333,11 @@ Beispiel:
 
 ::: grammar-box
 **In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora) einige Wurzeln der 10. Präsensklasse, ohne Kausativa zu sein.**
-:::
 
 Beispiele:
 1.  Dehnstufige Wurzel + -aya- : **कम्** 10Ā **कामयते** "lieben"
 2.  Hochstufige Wurzel + -aya- : **cur** 10U **corayati** "stehlen"; Futur: **corayiṣyate**; Pass.: **coryate**
+:::
 
 ::: grammar-box
 **Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den Formen des einfachen Verbs. Die Entscheidung darüber, ob ein Kausativ vorliegt, ist nur aus dem Sinn bzw. manchmal aus der Konstruktion möglich.**
@@ -347,6 +347,7 @@ Beispiele:
 
 ## 28.10. Wortliste
 
+::: indent
 **विद्** 2P **वेत्ति**, **विदन्ति**: wissen, kennen
 Fut. **vediṣyati**
 Pass. **vidyate**
@@ -354,24 +355,31 @@ Kaus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
 davon: **vidyā** f., **veda** m.
+:::
 
+::: indent
 **विद्** 6U **विन्दति** (!): finden
 Fut. **vediṣyati** / **vetsyat**
 Pass. **vidyate**: es gibt, es ist vorhanden
 Kaus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
+:::
 
+::: indent
 **i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
 Kaus. **adhyāpayati**: studieren lassen, unterrichten
 davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+:::
 
+::: indent
 **कम्** 10Ā **कामयते**: lieben
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Kaus. **kāmayati**
 PPP **kānta** (!)
 Inf. **kāmayitum** / **kamitum**
+:::
 
 ::: media
 ![](/images/lekt2804.jpg)
@@ -380,22 +388,27 @@ Gemälde von राजा रवि वर्मा (1848 - 1906)
 (Bildquelle: [Details](/licenses#lekt2804))
 :::
 
+::: indent
 **चुर्** 10 **चोरयति**: stehlen
 Fut. **corayiṣyati**
 Pass. **coryate**
 Kaus. **corayati**
 PPP **corita**
 Inf. **coritum**
+:::
 
+::: indent
 **Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
 **dṛś** — **darśayati**: zeigen
 **man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
 **vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
 **vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
+:::
 
 ::: media
 ![](/images/lekt2803.jpg)
 Abb.: वीणां वादयति
+Vīṇā-Spielerin.
 (Bildquelle: [Details](/licenses#lekt2803))
 :::
 
@@ -404,6 +417,7 @@ Abb.: वीणां वादयति
 ::: media
 ![](/images/lekt2805.jpg)
 Abb.: बाला भारं हरति
+Mädchen trägt Last. Bei Ahmedabad.
 (Bildquelle: [Details](/licenses#lekt2805))
 :::
 
@@ -516,7 +530,7 @@ Beispiel: रामो दासं भारं हारयति » दास
 
 
 ::: deleteme-box
-### Quellen
+
 **lekt2801:** Jadavpur University Management building. [Bildquelle: noii's Flickr, 2008-12-19, CC BY-SA]
 **lekt2802:** ISKCON Temple Bangalore. [Bildquelle: Ramki's reflections Flickr, 2008-12-19, CC BY-NC-ND]
 **lekt2803:** Vīṇā-Spielerin. [Bildquelle: Kelvin Kay / Wikipedia. GNU FDLicense]

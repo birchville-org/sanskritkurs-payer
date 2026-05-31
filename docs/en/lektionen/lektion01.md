@@ -7,18 +7,19 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 1
+# Lesson 1
+
 
 ::: center
 गणेशपूजनम्
 gaṇeśapūjanam
-Verehrung des Gaṇeśa <!-- TODO: Fallback translation -->
+Worship of Gaṇeśa
 :::
 
 ::: media
 ![](/images/lekt0102.jpg)
-Abb.: Gaṇeśa, Adamspeak, Sri Lanka
-(Bildquelle: [Details](/licenses#lekt0102)) <!-- TODO: Fallback translation -->
+Fig.: Gaṇeśa, Adamspeak, Sri Lanka
+(Image source: [Details](/en/licenses#lekt0102))
 :::
 
 ::: center
@@ -30,12 +31,12 @@ Abb.: Gaṇeśa, Adamspeak, Sri Lanka
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
 nirvighnaṃ kuru me deva
-sarvakāryeṣu sarvadā |** <!-- TODO: Fallback translation -->
+sarvakāryeṣu sarvadā |**
 
-Du Hängebauch, Du Naschkatze,
-Stets sei Dir Verehrung!
-Gott, mache all meine Unternehmungen
-Frei von Hindernissen! <!-- TODO: Fallback translation -->
+You with the hanging belly, you who delight in modakas,
+May worship always be yours!
+God, make all my undertakings
+Free from obstacles!
 :::
 
 ---
@@ -43,13 +44,13 @@ Frei von Hindernissen! <!-- TODO: Fallback translation -->
 ::: center
 मङ्गलचरणम्
 maṅgalacaraṇam
-"Glückbringender Anfang" <!-- TODO: Fallback translation -->
+"Auspicious Beginning"
 :::
 
 ::: media
 ![](/images/lekt0101.jpg)
-Abb.: Ardhanarīśvara
-(Bildquelle: [Details](/licenses#lekt0101)) <!-- TODO: Fallback translation -->
+Fig.: Ardhanarīśvara
+(Image source: [Details](/en/licenses#lekt0101))
 :::
 
 ::: center
@@ -61,91 +62,91 @@ Abb.: Ardhanarīśvara
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
 jagataḥ pitarau vande
-pārvatīparameśvarau |** <!-- TODO: Fallback translation -->
+pārvatīparameśvarau |**
 
-(Kālidāsa: Raghuvaṃśa 1.1) <!-- TODO: Fallback translation -->
+(Kālidāsa: Raghuvaṃśa 1.1)
 
-Ich grüße die Eltern der Welt,
-Pārvatī und Śiva,
-Die so fest miteinander verbunden sind
-Wie Wort und Sinn zum Verständnis
-Des Wortsinns. <!-- TODO: Fallback translation -->
+I salute the parents of the world,
+Pārvatī and Śiva,
+Who are so firmly united
+As word and meaning for the understanding
+Of the meaning of the word.
 :::
 
 ---
 
-Zu Beginn ein Kuriosum: <!-- TODO: Fallback translation -->
+First, a curiosity:
 
 ::: note-box
-"Als William Jones [1746–1794] und Henry Thomas Colebrooke (1765—1857) das Sanskrit erstmalig gründlich studiert, teilweise übersetzt und gefunden hatten, dass es eine reiche Literatur und nicht geringe Verwandtschaft mit den klassischen Sprachen aufwies, stießen sie auf nicht geringen Widerstand. Da sich mit dieser innigen Beziehung des Sanskrits zu den geographisch so weit entlegenen europäischen Sprachen die alten Anschauungen, welche entweder alle Sprachen aus dem Hebräischen ableiteten oder größtenteils von einander isolierten, nicht in Einklang bringen lassen, so ergriff der berühmte Philologe Dugald Steward (1753—1828) den einfachsten Ausweg, indem er die ganze Geschichte mit der Sanskritsprache für eine Lüge erklärte. Er schrieb einen Essay, in dem er zu beweisen suchte, dass sie von den spitzbübischen Brahmanen nach dem Muster des Griechischen und Lateinischen zusammengeschmiedet sei und die Sprache sowohl als auch die Literatur eine Fälschung seien. Diese Ansicht entwickelte noch im Jahre 1840 der Professor in Dublin, Charles William Wall, weitläufig (Göttingische gelehrte Anzeigen 1842 S. 1888)." <!-- TODO: Fallback translation -->
+"When William Jones [1746–1794] and Henry Thomas Colebrooke (1765—1857) first thoroughly studied Sanskrit, partially translated it, and found that it possessed a rich literature and no insignificant kinship with the classical languages, they encountered no small resistance. Since this intimate relationship of Sanskrit to the geographically so distant European languages could not be reconciled with the old views, which either derived all languages from Hebrew or largely isolated them from one another, the famous philologist Dugald Steward (1753—1828) took the simplest way out by declaring the entire history with the Sanskrit language to be a lie. He wrote an essay in which he sought to prove that it had been forged by the rascally Brahmins according to the pattern of Greek and Latin, and that both the language and the literature were forgeries. This view was further developed in 1840 by the professor in Dublin, Charles William Wall, extensively (Göttingische gelehrte Anzeigen 1842 p. 1888)."
 :::
 
-> [Quelle: **Kemmerich**, Max &lt;1876-1932&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+> [Source: **Kemmerich**, Max &lt;1876-1932&gt;: Kultur-Kuriosa. -- Munich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accessed on 2010-01-10]
 
-## 1.1. Literatur für Anfänger in Indologie
+## 1.1. Literature for Beginners in Indology
 
 ::: media
 ![](/images/lekt0103.jpg)
 Fig.: Cover title of a paperback edition
-(Image source: [Details](/licenses#lekt0103))
+(Image source: [Details](/en/licenses#lekt0103))
 :::
 
-> **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Since then, many editions, including paperback editions. -- **Required reading.** A good overview of life, history, and culture in pre-Islamic India. Comprehensive overview of the various fields of classical Indology.
+> **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Since then many editions, including paperback editions. -- **Mandatory reading.** A good overview of life, history, and culture in pre-Islamic India. Comprehensive overview of the various fields of classical Indology.
 
 ::: media
 ![](/images/lekt0104.jpg)
 Fig.: Title page
-(Image source: [Details](/licenses#lekt0104))
+(Image source: [Details](/en/licenses#lekt0104))
 :::
 
 **Best systematic grammar**
 
-> **Kielhorn**, Franz &lt;1840-1908&gt;: Grammatik der Sanskrit-Sprache / Translated from English by W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Original title: A grammar of the Sanscrit language
+> **Kielhorn**, Franz &lt;1840-1908&gt;: Grammar of the Sanskrit language / Translated from English by W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Original title: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.jpg)
 Fig.: Cover title
-(Image source: [Details](/licenses#lekt0105))
+(Image source: [Details](/en/licenses#lekt0105))
 :::
 
-**Good systematic grammar based on indigenous grammarians and simultaneously an introduction to Pāṇini:**
+**Good systematic grammar based on indigenous grammarians and at the same time an introduction to Pāṇini:**
 
 > **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Self-published, 1983. -- 818 p. ; 23 cm.
 
 ::: media
 ![](/images/lekt0107.jpg)
 Fig.: Cover title
-(Image source: [Details](/licenses#lekt0107))
+(Image source: [Details](/en/licenses#lekt0107))
 :::
 
 A good, concise presentation of European linguistic terminology can be found in:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge &lt;1856 - 1926&gt;. Edited by Elmar Seebold. -- 24th, revised and expanded ed. -- Berlin [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- pp. XIII - XLVII.
+> **Etymological Dictionary of the German Language** / [Friedrich] Kluge &lt;1856 - 1926&gt; Edited by Elmar Seebold. -- 24th, revised and expanded ed. -- Berlin [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- pp. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)
 Fig.: Cover title
-(Image source: [Details](/licenses#lekt0108))
+(Image source: [Details](/en/licenses#lekt0108))
 :::
 
-For the curious, for reference:
+For the curious to look up:
 
-> **Lexikon der Sprachwissenschaft** / edited by Hadumod Bußmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Lexicon of Linguistics** / edited by Hadumod Bußmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 ---
 
-## 1.2. Die Laute des Sanskrit
+## 1.2. The Sounds of Sanskrit
 
 The sounds of Sanskrit according to the traditional Indian classification and their scientific transliteration.
 
 ::: media
 ![](/images/lekt0106.jpg)
-(Image source: [Details](/licenses#lekt0106))
+(Image source: [Details](/en/licenses#lekt0106))
 :::
 
 Modern Sanskrit dictionaries are arranged in the order of this classification. This classification and the order of the sounds are essential for understanding Sanskrit grammar and therefore must be memorized:
 
-::: tip Klassifikation
+::: tip Classification
 
 - **simple vowels** (samānākṣara -- समानाक्षर):
   अ a, आ ā, इ i, ई ī, उ u, ऊ ū, ऋ ṛ, ॠ ṝ, ऌ ḷ
@@ -162,23 +163,23 @@ Modern Sanskrit dictionaries are arranged in the order of this classification. T
   ह ha
 :::
 
-### 1.2.1. Zur Aussprache einzelner Laute
+### 1.2.1. On the Pronunciation of Individual Sounds
 
 ::: laut-table
-| Laut | Beschreibung |
+| Sound | Description |
 | :--- | :--- |
-| **a - अ** | "kurzes a" wird bei den Indern -- schon seit alter Zeit -- oft wie ə ausgesprochen. In Europa spricht man es als kurzes a, in Bengalen als kurzes dunkles o. |
-| **ṛ - ऋ** | wie böhmisches vokalisiertes r. Leichter Nachklang von i. |
-| **ṝ - ॠ** | wie böhmisches vokalisiertes r. Leichter Nachklang von u. |
-| **jñ - ज्ञ्** | auch wie dny (Marāṭhī) oder gy (Nordindisch). |
-| **ś - श्** | sch-Laut mit nach unten gebogener Zungenspitze. Ähnlich wie sch in "mischen". |
-| **ṣ - ष्** | ach-Laut mit zurückgebogener Zungenspitze. Öfters so weit hinten im Rachen artikuliert, dass es fast wie kh klingt. |
-| **h - ह्** | Hauchlaut, nie Dehnungszeichen. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
-| **ṃ** | **Anusvara** -- अनुस्वर. Vor Zischlauten, h, l: Nasalierung des Vokals. Im Auslaut = m. Im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- संधि = sandhi -- सन्धि |
+| **a - अ** | "short a" is often pronounced by Indians -- since ancient times -- as ə. In Europe, it is pronounced as short a, in Bengal as short dark o. |
+| **ṛ - ऋ** | like Czech vocalized r. Slight echo of i. |
+| **ṝ - ॠ** | like Czech vocalized r. Slight echo of u. |
+| **jñ - ज्ञ्** | also like dny (Marāṭhī) or gy (North Indian). |
+| **ś - श्** | sh-sound with tongue tip bent downward. Similar to sh in "mischen". |
+| **ṣ - ष्** | kh-sound with tongue tip curled back. Often articulated so far back in the throat that it sounds almost like kh. |
+| **h - ह्** | aspiration sound, never a lengthening mark. |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Voiceless aspiration with echo of the preceding vowel or the second part of the preceding diphthong: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
+| **ṃ** | **Anusvara** -- अनुस्वर. Before sibilants, h, l: nasalization of the vowel. In final position = m. In medial position before consonants: the nasal corresponding to the following consonant: saṃdhi -- संधि = sandhi -- सन्धि |
 :::
 
-Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest. <!-- TODO: Fallback translation -->
+The best pronunciation is achieved when one reads the sentences, verses, or words quite slowly and monotonously, paying exact attention to the length of the vowels.
 
 ---
 
@@ -197,4 +198,4 @@ Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter zieml
 9. pitṝn — पितॄन्
 10. saṃskṛta — संस्कृत
 
-**B) Read the Sanskrit expressions according to the phonetic classification above.**
+**B) Read the Sanskrit expressions in the phonetic classification above.**

@@ -7,219 +7,223 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 2
+# Lección 2
 
-## 2.1. Der Nominalsatz
+## 2.1. La oración nominal
 
 ::: grammar-box
 **Esquema: Nombre predicativo - Sujeto**
 
-p.ej. devo viṣṇuḥ = देवो विष्णुः = «Viṣṇu es un dios».
+p. ej. devo viṣṇuḥ = देवो विष्णुः = "Viṣṇu es un dios."
 :::
 
-No es necesaria una cópula verbal («es», «son», «soy», «eres», «sois»), aunque en ocasiones puede aparecer.
+No es necesaria una cópula verbal ("es", "son", "soy", "eres", "sois"), pero a veces puede aparecer.
 
-**No existen artículos**: **devaḥ** -- देवः puede significar «el dios» o «un dios».
+**No hay artículos**: **devaḥ** -- देवः puede significar "el dios" o "un dios".
 
-Aunque en sánscrito el orden de los elementos de la oración es bastante libre (especialmente en los versos), al traducir una oración nominal debe considerarse ante todo una traducción conforme al esquema estándar indicado anteriormente.
+Aunque en sánscrito la estructura de la oración es bastante libre (especialmente en versos), al traducir una oración nominal siempre se debe considerar en primer lugar una traducción de acuerdo con el esquema estándar anterior.
 
-En la oración nominal, el sujeto se encuentra en nominativo (primer caso = **prathamā** f. = प्रथमा). El nombre predicativo concuerda con el sujeto en número y caso; si el nombre predicativo es un adjetivo, también concuerda en género.
+En la oración nominal, el sujeto está en nominativo (primer caso = **prathamā** f. = प्रथमा). El nombre predicativo concuerda con el sujeto en número y caso; si el nombre predicativo es un adjetivo, también concuerda en género.
 
 ---
 
-## 2.2. Zur Deklination (Beugung von Nomina)
+## 2.2. Sobre la declinación (flexión de los sustantivos)
 
-En sánscrito existen:
+En sánscrito hay:
 
 - **tres números** (formas de conteo) = **vacana** n. -- वचन
-  - Singular (singular) = **ekavacana** n. -- एकवचन
-  - Dual (dual) = **dvivacana** n. -- द्विवचन
-  - Plural (plural) = **bahuvacana** n. -- बहुवचन
-- **tres géneros** (género gramatical) = **liṅga** n. / **vyakti** f. -- लिङ्ग / व्यक्ति
-  - Masculino = **puṃs** m. -- पुंस्
-  - Femenino = **strī** f. -- स्त्री
-  - Neutro = **napuṃsaka** n. -- नपुंसक
+  - Singular (número singular) = **ekavacana** n. -- एकवचन
+  - Dual (número dual) = **dvivacana** n. -- द्विवचन
+  - Plural (número plural) = **bahuvacana** n. -- बहुवचन
+- **tres géneros** (gégramáticos) = **liṅga** n. / **vyakti** f. -- लिङ्ग / व्यक्ति
+  - Masculino (masculino) = **puṃs** m. -- पुंस्
+  - Femenino (femenino) = **strī** f. -- स्त्री
+  - Neutro (neutro) = **napuṃsaka** n. -- नपुंसक
 - **ocho casos** (casos gramaticales) = **sup** -- सुप् (= terminaciones casuales)
 
-A la declinación se añaden las terminaciones casuales (**sup** = सुप्) al llamado **tema nominal** (forma del sustantivo sin las terminaciones casuales).
+Para la declinación, las terminaciones casuales (**sup** = सुप्) se añaden al llamado **tema nominal** (forma del sustantivo sin terminaciones casuales).
 
-Ejemplo: **devas** = देवस् (Nominativo Singular Masculino) «el/un dios» = **deva-** -- देव- (tema nominal) + **-s** -- -स् (terminación casual).
+Ejemplo: **devas** = देवस् (nominativo singular masculino) "el/un dios" = **deva-** -- देव- (tema nominal) + **-s** -- -स् (terminación casual).
 
-En los diccionarios de sánscrito, los sustantivos se citan en su **tema nominal**:
+En los diccionarios de sánscrito, los sustantivos se listan en su **tema nominal**:
 - **deva** m. -- देव m. (masculino)
 - **vacana** n. -- वचन n. (neutro)
 - **vyakti** f. -- व्यक्ति f. (femenino)
 
 ---
 
-## 2.3. Der Nominativo Singular
+## 2.3. El nominativo singular
 
 **Nominativo singular = prathamā ekavacanam = प्रथमा एकवचनम्**
 
 ::: grammar-box
-**El nominativo singular termina en -s = -स् o bien carece de desinencia.**
+**El nominativo singular termina en -s = -स् o bien es sin terminación.**
 :::
 
-### 2.3.1. Nominativo Singular auf -s
+### 2.3.1. Nominativo singular en -s
 
-**Nominativo singular = prathamā ekavacanam = प्रथमा एकवचनम्**
+Los siguientes stems nominales, que terminan en una vocal, forman el nominativo singular en **-s**:
 
 ::: grammar-box
-**El nominativo singular termina en -s = -स् o bien carece de desinencia.**
+**Masculinos en -a:** p. ej. deva m. = देव "Dios" -- Nom. sg.: devas = देवस्
+**Masculinos en -i:** p. ej. kavi m. = कवि "Poeta" -- Nom. sg.: kavis = कविस्
+**Masculinos en -u:** p. ej. guru m. = गुरु "Maestro" -- Nom. sg.: gurus = गुरुस्
 :::
 
 ---
 
 ## 2.4. Sandhi -- सन्धि
 
-En sánscrito, la consonante final de una palabra también se ve influida por la consonante inicial de la palabra siguiente. Este fenómeno se denomina **Sandhi** (m.) = सन्धि («conexión» o «unión»).
+La terminación de una palabra se ajusta en sánscrito también según la inicial de la palabra siguiente. Este fenómeno se denomina **Sandhi** (m.) = सन्धि ("conexión").
 
-### 2.4.1. Sandhi von auslautendem -s
+### 2.4.1. Sandhi de la -s final
 
-En sánscrito, la consonante final de una palabra también se ve influida por la consonante inicial de la palabra siguiente. Este fenómeno se denomina **Sandhi** (m.) = सन्धि («conexión» o «unión»).
+Véase también el resumen:
 
-- **im absoluten Auslaut** (Satzende) wird es zu **Visarga (-ḥ)**: &lt;!-- TODO: Fallback translation --&gt;
-  - **devas** = देवस् » **devaḥ** = देवः &lt;!-- TODO: Fallback translation --&gt;
-  - **kavis** = कविस् » **kaviḥ** = कविः &lt;!-- TODO: Fallback translation --&gt;
-  - **gurus** = गुरुस् » **guruḥ** = गुरुः &lt;!-- TODO: Fallback translation --&gt;
+> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi de la -s final. -- (Materiales de sánscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-- **vor stimmlosen Lauten**: &lt;!-- TODO: Fallback translation --&gt;
-  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)** &lt;!-- TODO: Fallback translation --&gt;
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = देवः शिवः ("Śiva ist ein Gott") &lt;!-- TODO: Fallback translation --&gt;
-  - vor **c, ch**: wird zu **-ś** &lt;!-- TODO: Fallback translation --&gt;
-  - vor **ṭ, ṭh**: wird zu **-ṣ** &lt;!-- TODO: Fallback translation --&gt;
-  - vor **t, th**: bleibt **-s** &lt;!-- TODO: Fallback translation --&gt;
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = साधुश्चैतन्यः ("Caitanya ist ein Heiliger") &lt;!-- TODO: Fallback translation --&gt;
+La **-s** final:
 
-- **vor stimmhaften Lauten**: &lt;!-- TODO: Fallback translation --&gt;
-  - nach Nicht-a-Vokalen: wird zu **-r** &lt;!-- TODO: Fallback translation --&gt;
-    - **kavis + Māghas** » **kavir māghaḥ** = कविर्माघः ("Māgha ist ein Dichter") &lt;!-- TODO: Fallback translation --&gt;
-  - nach Nicht-a-Vokalen vor **r-**: **-s** fällt aus, der Vokal wird gedehnt. &lt;!-- TODO: Fallback translation --&gt;
-    - **gurus + rāmas** » **gurū rāmaḥ** = गुरू रामः ("Rāma ist ein Lehrer") &lt;!-- TODO: Fallback translation --&gt;
-  - nach **a-**: **-as** &lt;!-- TODO: Fallback translation --&gt;
-    - vor stimmhaften Konsonanten/a: wird zu **-o** (anlautendes a fällt weg » ऽ) &lt;!-- TODO: Fallback translation --&gt;
-      - **devas viṣṇus** » **devo viṣṇuḥ** = देवो विष्णुः &lt;!-- TODO: Fallback translation --&gt;
-      - **devas agnis** » **devo 'gniḥ** = देवो ऽग्निः &lt;!-- TODO: Fallback translation --&gt;
-    - vor anderen Vokalen: wird zu **-a** (Hiatus) &lt;!-- TODO: Fallback translation --&gt;
-      - **devas + indras** » **deva indraḥ** = देव इन्द्रः &lt;!-- TODO: Fallback translation --&gt;
+- **en posición absoluta final** (final de oración) se convierte en **Visarga (-ḥ)**:
+  - **devas** = देवस् » **devaḥ** = देवः
+  - **kavis** = कविस् » **kaviḥ** = कविः
+  - **gurus** = गुरुस् » **guruḥ** = गुरुः
+
+- **antes de sonidos sordos**:
+  - antes de **k, kh, p, ph** y **ś, ṣ, s**: se convierte en **Visarga (-ḥ)**
+    - **devas + śivaḥ** » **devaḥ śivaḥ** = देवः शिवः ("Śiva es un dios")
+  - antes de **c, ch**: se convierte en **-ś**
+  - antes de **ṭ, ṭh**: se convierte en **-ṣ**
+  - antes de **t, th**: se mantiene **-s**
+    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = साधुश्चैतन्यः ("Caitanya es un santo")
+
+- **antes de sonidos sonoros**:
+  - después de vocales distintas de a: se convierte en **-r**
+    - **kavis + Māghas** » **kavir māghaḥ** = कविर्माघः ("Māgha es un poeta")
+  - después de vocales distintas de a antes de **r-**: **-s** se pierde, la vocal se alarga.
+    - **gurus + rāmas** » **gurū rāmaḥ** = गुरू रामः ("Rāma es un maestro")
+  - después de **a-**: **-as**
+    - antes de consonantes sonoras/a: se convierte en **-o** (la a inicial se pierde » ऽ)
+      - **devas viṣṇus** » **devo viṣṇuḥ** = देवो विष्णुः
+      - **devas agnis** » **devo 'gniḥ** = देवो ऽग्निः
+    - antes de otras vocales: se convierte en **-a** (hiato)
+      - **devas + indras** » **deva indraḥ** = देव इन्द्रः
 
 ---
 
-## 2.5. Vocabulario
+## 2.5. Lista de palabras
 
 **deva** m. -- देव : Celestial, dios; príncipe, rey.
 
 **īśvara** m. -- ईश्वर : Señor, soberano, dios (monoteísta).
 
-**brāhmaṇa** m. -- ब्राह्मण : Brahman (estado sacerdotal).
+**brāhmaṇa** m. -- ब्राह्मण : Brahmanes (estado sacerdotal).
 
 **kṣatriya** m. -- क्षत्रिय : Kṣatriya (estado de príncipes y guerreros).
 
-**vaiśya** m. -- वैश्य : Vaiśya (estado de productores y comerciantes).
+**vaiśya** m. -- वैश्य : Vaiśya (estado de ganaderos y comerciantes).
 
 **śūdra** m. -- शूद्र : Śūdra (estado de servicios).
 
-::: tip Die vier Stände (varna)
-Según la teoría clásica (p. ej., Manusmṛti I, 88-91), las tareas se distribuyen de la siguiente manera:
+::: tip Los cuatro estados (varna)
+Según la teoría clásica (p. ej. Manusmṛti I, 88-91), las tareas se distribuyen:
 
 - **de los Brahmanes**
   - Estudio de los Vedas
   - Enseñanza
-  - Sacrificio por sí mismos
+  - Sacrificio para sí mismo
   - Sacrificio por otros
   - Dar
   - Recibir dones
 - **de los Kṣatriyas**
-  - Proteger al pueblo
+  - proteger al pueblo
   - Dar dones (a los Brahmanes)
-  - Sacrificar por sí mismos
+  - Sacrificar para sí mismo
   - Estudio de los Vedas
 - **de los Vaiśyas**
   - Ganadería
   - Agricultura
   - Comercio
-  - Préstamos de dinero
-  - Sacrificar por sí mismos
+  - Préstamo de dinero
+  - Sacrificar para sí mismo
   - Dar dones (a los Brahmanes)
-  - Sacrificar por sí mismos
+  - Sacrificar para sí mismo
   - Estudio de los Vedas
 - **de los Śūdras**
-  - Servir a las tres clases superiores
+  - servir a las tres clases superiores
 :::
 
-**dvija** m. -- द्विज : «Nacido dos veces» (iniciados de los tres estados superiores: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- द्विज : "Dos veces nacido" (iniciados de las tres clases superiores: Brāhmaṇa, Kṣatriya, Vaiśya).
 
 **varṇa** m. -- वर्ण : Color, estado de nacimiento (tendencia).
 
-A menudo se confunden los cuatro estados (**varṇa** m.) con las castas. Sin embargo, los cuatro estados, a diferencia de las castas, no son algo específicamente indio; en Europa también existió un orden estamental (en parte hasta la Primera Guerra Mundial), como demuestra la siguiente ilustración del siglo XV:
+Los cuatro estados (**varṇa** m.) se confunden a menudo con las castas. Sin embargo, los cuatro estados, a diferencia de las castas, no son algo específicamente indio; en Europa también tuvimos un sistema de estados (en parte hasta la Primera Guerra Mundial), como demuestra la siguiente ilustración del siglo XV:
 
 ::: media
 ![](/images/lekt0201.jpg)
-Fig.: Representación de la división estamental de la Europa medieval (xilografía de finales del siglo XV).
-(Fuente de la imagen: [Detalles](/licenses#lekt0201))
+Fig.: Representación de la división de estados de la Europa medieval (grabado en madera de finales del siglo XV).
+(Fuente de la imagen: [Detalles](/es/licenses#lekt0201))
 :::
 
 **Etiquetas:**
-- **Estado sacerdotal** (~Brāhmaṇa): Tu supplex ora = ¡Tú reza suplicante!
-- **Estado noble** (~Kṣatriya): Tu protege = ¡Tú protege!
-- **Estado campesino** (~Vaiśya/Śūdra): Tuque labora = ¡Y tú trabaja!
+- **Estado sacerdotal** (~Brāhmaṇa): Tu supplex ora = ¡Tú, suplicante, ora!
+- **Estado noble** (~Kṣatriya): Tu protege = ¡Tú, protege!
+- **Estado campesino** (~Vaiśya/Śūdra): Tuque labora = ¡Y tú, trabaja!
 
-Los tres estados llevan el traje propio de su respectivo estado. Sobre los estados —denominados así como voluntad divina— trona Cristo.
+Los tres estados llevan el traje correspondiente a su estado. Sobre los estados, designados como voluntad divina, trona Cristo.
 
-Max Weber &lt;1864 – 1920&gt; define «estado» de la siguiente manera:
+Max Weber &lt;1864 – 1920&gt; define estado así:
 
 ::: note-box
-«**Estado**» debe significar una multitud de personas que, dentro de una asociación,
-a) ejercen una estimación especial de estado, —posiblemente también
+"**Estado**" debe significar una multitud de personas que, dentro de una asociación,
+a) ejercen una estimación especial de estado, - posiblemente también
 b) reclaman monopolios especiales de estado.
 
 Los estados pueden surgir
-a) primariamente, mediante una forma de vida propia del estado, incluida particularmente la naturaleza de la **profesión** (**estados de vida o de profesión**),
-b) secundariamente, por carisma hereditario, mediante reclamaciones de prestigio exitosas basadas en el **linaje** (**estados de nacimiento**),
-c) mediante la **apropiación** estatal de poderes políticos o hierocráticos como monopolios (**estados políticos o hierocráticos**).
+a) primariamente, a través de un estilo de vida propio de estado, particularmente por la naturaleza de la **profesión** (**estados de estilo de vida o de profesión**),
+b) secundariamente, por carisma hereditario, a través de reclamaciones de prestigio exitosas gracias al **origen** de estado (**estados de nacimiento**),
+c) mediante la **apropiación** de estado de poderes políticos o hierocráticos como monopolios (**estados políticos o hierocráticos**).
 
-El desarrollo de los estados de nacimiento es regularmente una forma de apropiación (hereditaria) de privilegios a una asociación o a individuos calificados. Toda apropiación firme de oportunidades, en particular [de] poderes [señoriales u oportunidades de obtención], tiende a llevar a la formación de estados. Toda formación de estados tiende a llevar a la apropiación monopolista de poderes señoriales y oportunidades de obtención.
+El desarrollo de estado de nacimiento es regularmente una forma de apropiación (hereditaria) de privilegios a una asociación o a individuos calificados. Toda apropiación firme de oportunidades, en particular [de] poderes [señoriales o de] oportunidades de ganancia, tiende a llevar a la formación de estados. Toda formación de estados tiende a llevar a la apropiación monopolística de poderes señoriales y oportunidades de ganancia.
 
-Mientras que las clases de obtención crecen sobre la base de una economía orientada al mercado, los estados surgen y persisten preferentemente sobre la base de la cobertura de necesidades monopolista-litúrgica, feudal o estamental-patrimonial de las asociaciones.
+Mientras que las clases ocupacionales crecen sobre la base de la economía orientada al mercado, los estamentos surgen y se mantienen preferentemente sobre la base de la cobertura de necesidades monopolísticamente leurgática, feudal o estamental-patrimonial de las asociaciones.
 
-«**Estamental**» debe significar una sociedad cuando la estratificación social se realiza principalmente por estados, «**clasista**», cuando se realiza principalmente por clases. El «estado» está más cerca de la clase «social» que de las «clases», y la «clase de obtención» está más lejos. Los estados suelen formarse, según su punto central, por clases de posesión.
+»**Estamental**« debe significar una sociedad cuando la estratificación social se realiza preferentemente por estamentos, »**clasista**«, cuando se realiza preferentemente por clases. Al «estamento» se encuentra entre las «clases» la clase «social» más cercana, la «clase ocupacional» más lejana. Los estamentos se forman a menudo según su punto central por clases de posesión.
 
-Toda sociedad estamental es convencional, ordenada por reglas de la forma de vida, crea por tanto condiciones de consumo económicamente irracionales y, de esta manera, a través de apropiaciones monopolistas y mediante la exclusión de la libre disposición sobre la propia capacidad de obtención, obstaculiza la libre formación del mercado.
+Cada sociedad estamental es convencional, ordenada por reglas de conducta, crea por tanto condiciones de consumo económicamente irracionales y obstaculiza de esta manera mediante apropiaciones monopolísticas y mediante la exclusión de la libre disposición de la propia capacidad de ganancia la libre formación del mercado.
 
-[**Weber, Max &lt;1864 – 1920&gt;:** Economía y sociedad : Esquema de sociología comprensiva. – 5ª ed. revisada. – Tubinga : Mohr, 1976. – P. 625 ss.]
+[**Weber, Max &lt;1864 – 1920&gt;:** Economía y sociedad : bosquejo de una sociología comprensiva. – 5., revisada ed. – Tubinga : Mohr, 1976. – P. 625 ss.]
 :::
 
-Los varṇas son, por consiguiente, estados de nacimiento.
+Los varṇas son, por consiguiente, estamentos de nacimiento.
 
-**kavi** m. -- कवि : Poeta.
+**kavi** m. -- कवि : poeta.
 
-**agni** m. -- अग्नि : Fuego, dios Agni.
+**agni** m. -- अग्नि : fuego, dios Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Fig.: Dios Agni, miniatura, siglo XVIII.
-(Fuente de la imagen: [Detalles](/licenses#lekt0203))
+Fig.: Dios Agni, miniatura, s. XVIII.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt0203))
 :::
 
 **sādhu** 3 -- साधु : correcto, bueno.
 
-**sādhu** m. -- साधु : Hombre «santo», Sādhu.
+**sādhu** m. -- साधु : hombre «santo», Sādhu.
 
 ::: media
 ![](/images/lekt0202.jpg)
-Fig.: Sādhu (साधu), Templo Pashupatinath, Katmandú.
-(Fuente de la imagen: [Detalles](/licenses#lekt0202))
+Fig.: Sādhu (साधु), Templo Pashupatinath, Katmandú.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt0202))
 :::
 
 **guru** 3 -- गुरु : pesado, importante, digno de veneración
 
-**guru** m. -- गुरु : Persona digna de veneración: padre, madre, pariente mayor, especialmente maestro, maestro espiritual
-
----
+**guru** m. -- गुरु : persona digna de veneración: padre, madre, pariente mayor, especialmente maestro, maestro
 
 ## 2.6. Ejercicio
 
-**A) Forme oraciones nominales aplicando las reglas de Sandhi:**
+**A) Inserte, teniendo en cuenta el sandhi, y forme oraciones nominales:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
    = देवस् ... (शिव, अग्नि, विष्णु, गणेश, कृष्ण, इन्द्र)

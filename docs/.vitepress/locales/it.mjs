@@ -7,11 +7,16 @@ export const it = {
   description: 'Libro di testo di Alois Payer',
   themeConfig: {
     outline: { level: [2, 3], label: 'In questa pagina' },
+    returnToTopLabel: 'Torna su',
+    sidebarMenuLabel: 'Menu',
+    darkModeSwitchLabel: 'Aspetto',
+    lightModeSwitchTitle: 'Passa al tema chiaro',
+    darkModeSwitchTitle: 'Passa al tema scuro',
+    langMenuLabel: 'Cambia lingua',
     nav: [
       { text: 'Home', link: '/it/' },
       { text: 'Sommario', link: '/it/lektionen/inhaltsverzeichnis' },
       { text: 'Indice', link: '/it/grammatik' },
-      { text: 'QA', link: '/qa/viewer' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Crediti', link: '/it/impressum' }
     ],

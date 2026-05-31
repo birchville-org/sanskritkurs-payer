@@ -27,11 +27,11 @@ Beispiele:
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **Indikativ** | **3. sg.** | युनक्ति[[br]](yu-na-j + -ti) | युङ्क्ते[[br]](yu + n + j + te)[[br]](vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
-| | **3. pl.** | युञ्जन्ति[[br]](yu + n + j-anti) | युञ्जते[[br]](yu + n + j-ate) |
-| **Optativ** | **3. sg.** | युञ्ज्यात्[[br]](yu + n + j-yā-t) | युञ्जीत[[br]](yu + n + j-ī-ta) |
-| | **3. pl.** | युञ्ज्युर्[[br]](yu + n + j-y-ur) | युञ्जीरन्[[br]](yu + n + j-ī-ran) |
-| **Partizip Präsens** | | युञ्जन्त्-[[br]](yu + n + j-ant-)[[br]]fem.: युञ्जती[[br]](yu + n + j-at-ī) | |
+| **Indikativ** | **3. sg.** | युनक्ति[[br]]yu-na-j + -ti | युङ्क्ते[[br]]yu + n + j + te[[br]](vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
+| | **3. pl.** | युञ्जन्ति[[br]]yu + n + j-anti | युञ्जते[[br]]yu + n + j-ate |
+| **Optativ** | **3. sg.** | युञ्ज्यात्[[br]]yu + n + j-yā-t | युञ्जीत[[br]]yu + n + j-ī-ta |
+| | **3. pl.** | युञ्ज्युर्[[br]]yu + n + j-y-ur | युञ्जीरन्[[br]]yu + n + j-ī-ran |
+| **Partizip Präsens** | | युञ्जन्त्-[[br]]yu + n + j-ant-[[br]]fem.: युञ्जती[[br]]yu + n + j-at-ī | |
 
 ::::
 
@@ -41,11 +41,11 @@ Beispiele:
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **Indikativ** | **3. sg.** | रुणद्धि[[br]](ru + na + dh + ti) | रुन्द्धे[[br]](ru-n + dh + te) |
-| | **3. pl.** | रुन्धन्ति[[br]](ru-n-dh-anti) | रुन्धते[[br]](ru-n-dh-ate) |
-| **Optativ** | **3. sg.** | रुन्ध्यात्[[br]](ru-n-dh-yā-t) | रुन्धीt[[br]](ru-n-dh-ī-ta) | -&gt; | रुन्धीत[[br]](ru-n-dh-ī-ta) |
-| | **3. pl.** | रुन्ध्युर्[[br]](ru-n-dh-y-ur) | रुन्धीरन्[[br]](ru-n-dh-ī-ran) |
-| **Partizip Präsens** | | रुन्धन्त्-[[br]](ru-n-dh-ant-)[[br]]fem.: रुन्धती[[br]](ru-n-dh-at-ī) | |
+| **Indikativ** | **3. sg.** | रुणद्धि[[br]]ru + na + dh + ti | रुन्द्धे[[br]]ru-n + dh + te |
+| | **3. pl.** | रुन्धन्ति[[br]]ru-n-dh-anti | रुन्धते[[br]]ru-n-dh-ate |
+| **Optativ** | **3. sg.** | रुन्ध्यात्[[br]]ru-n-dh-yā-t | रुन्धीत[[br]]ru-n-dh-ī-ta |
+| | **3. pl.** | रुन्ध्युर्[[br]]ru-n-dh-y-ur | रुन्धीरन्[[br]]ru-n-dh-ī-ran |
+| **Partizip Präsens** | | रुन्धन्त्-[[br]]ru-n-dh-ant-[[br]]fem.: रुन्धती[[br]]ru-n-dh-at-ī | |
 
 ::::
 
@@ -77,7 +77,7 @@ Beispiel:
 **Inf. योक्तुम्**
 
 davon:
-**युг n. -&gt; युग n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
+**युग n. -&gt; युग n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
 1. **कृत**
 2. **त्रेता**
 3. **द्वापर**
@@ -91,6 +91,7 @@ Das **कलियुग** begann um 3102 v. Chr., dem Jahr des **महाभ�
 ::: media
 ![](/images/lekt3101.jpg)
 Abb.: योगः
+Yoga-Darstellung.
 (Bildquelle: [Details](/licenses#lekt3101))
 :::
 
@@ -139,6 +140,7 @@ davon:
 ::: media
 ![](/images/lekt3102.jpg)
 Abb.: व्यञ्जनम्
+Vorbereitung zum Kathakali-Tanz, Kochi.
 (Bildquelle: [Details](/licenses#lekt3102))
 :::
 
@@ -184,6 +186,7 @@ davon:
 ::: media
 ![](/images/lekt3103.jpg)
 Abb.: प्रज्ञापारमिता
+Aus einem Prajñāpāramitā-Manuskript.
 (Bildquelle: [Details](/licenses#lekt3103))
 :::
 
@@ -202,6 +205,7 @@ A) Übersetzen Sie folgende Sätze und lösen Sie die Komposita auf:
 ::: media
 ![](/images/lekt3105.jpg)
 Abb.: शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते
+Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
 (Bildquelle: [Details](/licenses#lekt3105))
 :::
 
@@ -212,6 +216,7 @@ Abb.: शस्त्राणि शरीरमेव छिन्दन्त
 ::: media
 ![](/images/lekt3104.jpg)
 Abb.: राहुलो जातो बन्धनं जातम्
+Rāhula, der Sohn Buddhas, Laos.
 (Bildquelle: [Details](/licenses#lekt3104))
 :::
 
@@ -230,7 +235,6 @@ B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und P
 ५. भञ्ज् (nur P)
 
 ::: deleteme-box
-### Quellen
 
 **lekt3101:** Yoga-Darstellung. [Bildquelle: Flickr, 2008-12-25. CC BY]
 

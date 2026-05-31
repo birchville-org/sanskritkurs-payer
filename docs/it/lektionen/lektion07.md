@@ -1,67 +1,71 @@
 ---
+title: Lezione 7
+subtitle: "La frase verbale con oggetto diretto"
 lesson_id: 7
 last_reconstructed: 2026-05-07
+category: "Grammatica"
+status: stable
 ---
 
-# Lektion 7
+# Lezione 7
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- Den Verbalsatz mit direktem Objekt &lt;!-- TODO: Fallback translation --&gt;
-- Den Accusativo der Nomina und Pronomina &lt;!-- TODO: Fallback translation --&gt;
-- Den Sandhi von auslautendem -n &lt;!-- TODO: Fallback translation --&gt;
-- Das Neutro der a-Stämme &lt;!-- TODO: Fallback translation --&gt;
-- Die athematischen Presenteklassen (am Esempio der 5. Klasse) &lt;!-- TODO: Fallback translation --&gt;
+**In questa lezione imparate:**
+- La frase verbale con oggetto diretto
+- L'accusativo dei nomi e dei pronomi
+- Il Sandhi della finale -n
+- Il neutro delle radici in a
+- Le classi di presente atematiche (esempio della 5ª classe)
 :::
 
-## Verso settimanale
+## Detto della settimana
 
 ::: center
 धर्मो जयति नधर्मः
 सत्यं जयति नानृतम् |
 क्षमा जयति न क्रोधो
-देवो जयति नासुरः || <!-- TODO: Fallback translation -->
+देवो जयति नासुरः ||
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
 **kṣamā jayati na krodho**
-**devo jayati nāsuraḥ ||** <!-- TODO: Fallback translation -->
+**devo jayati nāsuraḥ ||**
 
-Das Recht siegt, nicht das Unrecht,
-Die Wahrheit siegt, nicht die Unwahrheit,
-Nachsicht siegt, nicht Zorn,
-Gott siegt, nicht der Widergott. <!-- TODO: Fallback translation -->
+Il diritto trionfa, non l'ingiustizia,
+La verità trionfa, non la menzogna,
+La pazienza trionfa, non l'ira,
+Dio trionfa, non il demone.
 :::
 
 ---
 
-## 7.1. Der Verbalsatz mit direktem Objekt
+## 7.1. La proposizione verbale con oggetto diretto
 
 ::: grammar-box
 **Schema:**
 **(Agente = kartṛ m. = कर्तृ) – oggetto diretto (karman n. = कर्मन्) – verbo**
 
-Esempi:
-- **rāmaḥ phalaṃ khādati** = रामः फलं खादति : "Rāma mangia (consuma) un frutto."
-- **brāhmaṇo devaṃ yajati** = ब्राह्मणो देवं यजति : "Il brāhmaṇa venera una divinità mediante un sacrificio (per conto di un altro)."
+ad esempio
+- **rāmaḥ phalaṃ khādati** = रामः फलं खादति : "Rāma mangia (mangia) un frutto."
+- **brāhmaṇo devaṃ yajati** = ब्राह्मणो देवं यजति : "Il brāhmaṇo venera una divinità con un sacrificio (per qualcun altro)."
 :::
 
-Quando il verbo è al *parasmaipada* o all’*ātmanepada*, l’oggetto diretto (**karman** n. = कर्मन्) si trova generalmente nell’**accusativo** (seconda declinazione, *dvitīyā* f. = द्वितीया).
+Se il verbo è al Parasmaipada o Ātmanepada, l'oggetto diretto (**karman** n. = कर्मन्) è generalmente in **accusativo** (secondo caso, dvitīyā f. = द्वितीया).
 
 ---
 
-## 7.2. Der Accusativo (Wenfall, dvitīyā f. = द्वितीया = "zweite Kasusendung")
+## 7.2. L'accusativo (caso oggetto, dvitīyā f. = द्वितीया = "seconda desinenza casuale")
 
 ::: grammar-box
 **Desinenza dell'accusativo singolare maschile e femminile dopo vocale: -m**
 
-| Maschili in | Accusativo Singolare |
+| Maschili in | Accusativo singolare |
 | :--- | :--- |
 | **-a**: deva | **devam**[[br]]देवम् |
 | **-i**: kavi | **kavim**[[br]]कविम् |
 | **-u**: guru | **gurum**[[br]]गुरुम् |
 
-| Femminili in | Accusativo Singolare |
+| Femminili in | Accusativo singolare |
 | :--- | :--- |
 | **-ā**: devatā | **devatām**[[br]]देवताम् |
 | **-i**: śruti | **śrutim**[[br]]श्रुतिम् |
@@ -70,9 +74,9 @@ Quando il verbo è al *parasmaipada* o all’*ātmanepada*, l’oggetto diretto 
 :::
 
 ::: grammar-box
-**Accusativo plurale maschile delle radici vocaliche (eccetto le radici monosillabiche con vocale lunga): allungamento della vocale finale + -n**
+**Accusativo plurale maschile delle radici vocaliche (eccezione: radici monosillabiche con vocale lunga): allungamento della vocale finale + -n**
 
-| Maschili in | Accusativo Plurale |
+| Maschili in | Accusativo plurale |
 | :--- | :--- |
 | **-a**: deva | **devān**[[br]]देवान् |
 | **-i**: kavi | **kavīn**[[br]]कवीन् |
@@ -80,9 +84,9 @@ Quando il verbo è al *parasmaipada* o all’*ātmanepada*, l’oggetto diretto 
 :::
 
 ::: grammar-box
-**Accusativo plurale femminile delle radici vocaliche (eccetto le radici monosillabiche con vocale lunga): allungamento della vocale finale + -s**
+**Accusativo plurale femminile delle radici vocaliche (eccezione: radici monosillabiche con vocale lunga): allungamento della vocale finale + -s**
 
-| Femminili in | Accusativo Plurale |
+| Femminili in | Accusativo plurale |
 | :--- | :--- |
 | **-ā**: devatā | **devatās**[[br]]देवतास् |
 | **-i**: śruti | **śrutīs**[[br]]श्रुतीस् |
@@ -92,168 +96,171 @@ Quando il verbo è al *parasmaipada* o all’*ātmanepada*, l’oggetto diretto 
 
 ---
 
-### 7.2.1. Accusativo Singolare und Plurale der Frage- und Demonstrativpronomina
+### 7.2.1. Accusativo singolare e plurale dei pronomi interrogativi e dimostrativi
 
 ::: grammar-box
 | | | Maschile | Femminile | Neutro |
 | :--- | :--- | :--- | :--- | :--- |
-| :--- | :--- | **kam**[[br]]कम् | **kām**[[br]]काम् | **kim**[[br]]किम् |
-| | **devam**[[br]]देवम् | **kān**[[br]]कान् | **kās**[[br]]कास् | **kāni**[[br]]कानि |
-| **-i**: kavi | **kavim**[[br]]कविम् | **tam**[[br]]तम् | **tām**[[br]]ताम् | **tad**[[br]]तद् |
-| | **gurum**[[br]]गुरुम् | **tān**[[br]]तान् | **tās**[[br]]तास् | **tāni**[[br]]तानि |
-| Femminili in | Accusativo Singolare | **etam / enam**[[br]]एतम् / एनम् | **etām / enām**[[br]]एताम् / एनाम् | **etad / enad**[[br]]एतद् / एनद् |
-| | :--- | **etān / enān**[[br]]एतान् / एनान् | **etās / enās**[[br]]एतास् / एनास् | **etāni / enāni**[[br]]एतानि / एनानि |
-| **-ā**: devatā | **devatām**[[br]]देवताम् | **imam / enam**[[br]]इमम् / एनम् | **imām / enām**[[br]]इमाम् / एनाम् | **idam / enad**[[br]]इदम् / एनद् |
-| | **śrutim**[[br]]श्रुतिम् | **imān / enān**[[br]]इमान् / एनान् | **imās / enās**[[br]]इमास् / एनास् | **imāni / enāni**[[br]]इमानि / एनानि |
+| **kim**[[br]]chi/che cosa | sg. | **kam**[[br]]कम् | **kām**[[br]]काम् | **kim**[[br]]किम् |
+| | pl. | **kān**[[br]]कान् | **kās**[[br]]कास् | **kāni**[[br]]कानि |
+| **tad**[[br]]egli/esso/quello | sg. | **tam**[[br]]तम् | **tām**[[br]]ताम् | **tad**[[br]]तद् |
+| | pl. | **tān**[[br]]तान् | **tās**[[br]]तास् | **tāni**[[br]]तानि |
+| **etad**[[br]]questo qui | sg. | **etam / enam**[[br]]एतम् / एनम् | **etām / enām**[[br]]एताम् / एनाम् | **etad / enad**[[br]]एतद् / एनद् |
+| | pl. | **etān / enān**[[br]]एतान् / एनान् | **etās / enās**[[br]]एतास् / एनास् | **etāni / enāni**[[br]]एतानि / एनानि |
+| **idam**[[br]]questo | sg. | **imam / enam**[[br]]इमम् / एनम् | **imām / enām**[[br]]इमाम् / एनाम् | **idam / enad**[[br]]इदम् / एनद् |
+| | pl. | **imān / enān**[[br]]इमान् / एनान् | **imās / enās**[[br]]इमास् / एनास् | **imāni / enāni**[[br]]इमानि / एनानि |
 :::
 
-| **-ī**: devī | **devīm**[[br]]देवीम् |
+Le forme **enam** (एनम्) ecc. appartengono al tema **enad** (एनद्), che forma declinazioni solo in alcuni casi. Esse vengono utilizzate al posto delle forme di **etad** e **idam** quando l'elemento designato è già stato menzionato nel contesto precedente.
+ad es. **ayaṃ devaḥ, enaṃ yajante.** = अयं देवः | एनं यजन्ते || : "Egli è un dio. Gli si offre un sacrificio."
 
 ---
 
-### 7.2.2. Uso des Accusativo (Wenfall, dvitīyā f. = द्वितीया = "zweite Kasusendung")
+### 7.2.2. Uso dell'accusativo (dvitīyā f. = द्वितीया = "seconda desinenza casuale")
 
 ::: grammar-box
-**Desinenza dell'accusativo singolare maschile e femminile dopo vocale: -m**
-1. | Maschili in | Accusativo Singolare |
-| :--- | :--- |
-   - | **-a**: deva | **devam**[[br]]देवम् |
-   - | **-i**: kavi | **kavim**[[br]]कविम् |
-2. | **-u**: guru | **gurum**[[br]]गुरुम् |
-| Femminili in | Accusativo Singolare |
-   - | :--- | :--- |
+L'accusativo (dvitīyā f. = द्वितीया) indica:
+1. Nella proposizione verbale non passiva: l'**oggetto diretto** (karman n. = कर्मन्) dell'azione espressa dal verbo:
+   ad esempio
+   - **devaṃ yajati** = देवं यजति : "Egli venera una divinità con un sacrificio."
+   - **phalam āpnoti** = फलमाप्नोति : "Egli ottiene il frutto (ad esempio della sua azione)."
+2. Con verbi che esprimono un andare, un movimento, un condurre o simili verso qualcosa, l'accusativo indica la meta del movimento:
+   ad esempio
+   - **narakaṃ gacchati** = नरकं गच्छति : "Egli va all'inferno."
 :::
 
-| **-ā**: devatā | **devatām**[[br]]देवताम् |
+Ulteriori usi dell'accusativo saranno trattati in seguito.
 
 ---
 
-## 7.3. Sandhi von auslautendem -n
+## 7.3. Sandhi di -n finale
 
 ::: grammar-box
-**La -n finale:**
+**-n finale:**
 
-1. Viene sostituita da una nasale corrispondente a questi suoni davanti a palatali e retroflesse sonore *sparśa* e davanti a **ś-**:
+1. Viene sostituito da una nasale corrispondente a questi suoni davanti a palatali e retroflesse sonore sparśa e davanti a **ś-**:
    - **-n** davanti a **j-, jh-, ñ-, ś-** » **-ñ**
    - **-n** davanti a **ḍ-, ḍh-, ṇ-, ṣ-** » **-ṇ**
-   Esempio: **kṣatriyān + jayati** » **kṣatriyāñ jayati** = क्षत्रियांञ्जयति : "Egli sconfigge i Kṣatriya."
-   La **ś-** iniziale viene spesso sostituita da **ch-**:
-   **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (accanto a gurūñ śṛṇoti) = गुरूञ्छृणोति (गुरूञ्शृणोति) : "Egli ascolta i maestri." "Egli obbedisce ai maestri."
+   p.es. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = क्षत्रियांञ्जयति : "Egli sconfigge i Kṣatriya."
+   L'iniziale **ś-** viene poi solitamente sostituita da **ch-**:
+   **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (accanto a gurūñ śṛṇoti) = गुरूञ्छृणोति (गुरूञ्शृणोति) : "Egli ascolta gli insegnanti." "Egli presta ascolto agli insegnanti."
 
-2. Viene sostituita da **-l** con Anunāsika (l nasale, nella scrittura **ल्** con Anunāsika **ँ**) davanti a **l-** iniziale:
-   Esempio: **paśūn + labhate** » पशूंल्लभते : "Egli ottiene bestiame."
+2. Viene sostituito da **-l** con Anunāsika (l nasale, nella scrittura **ल्** con Anunāsika **ँ**) davanti a **l-** iniziale:
+   p.es. **paśūn + labhate** » पशूंल्लभते : "Egli ottiene bestiame."
 
-3. Viene sostituita da **Anusvāra** + dalla sibilante corrispondente a questi suoni davanti a una palatale, retroflessa o dentale sorda iniziale:
+3. Viene sostituito da Anusvāra + la sibilante corrispondente a questi suoni davanti a palatale, retroflessa o dentale sorda:
    - **-n** davanti a **c-, ch-** » **-ṃś**
    - **-n** davanti a **ṭ-, ṭh-** » **-ṃṣ**
    - **-n** davanti a **t-, th-** » **-ṃs**
-   Esempio: **devān + ca** » **devāṃś ca** = देवांश्च : "e gli dèi (Acc.)"
+   p.es. **devān + ca** » **devāṃś ca** = देवांश्च : "e gli dèi (Acc.)"
    **devān + tu** » **devāṃs tu** = देवांस्तु : "ma gli dèi (Acc.)"
 
-4. Fuori dal caso della vocale breve (vedi oltre), la **-n** finale rimane invariata in tutti gli altri casi.
+4. Fuori dal caso della vocale breve (vedi oltre), il **-n** finale rimane invariato in tutti gli altri casi.
 :::
 
 ---
 
-## 7.4. Das Neutro (napuṃsaka n. = नपुंसक)
+## 7.4. Il Neutro (napuṃsaka n. = नपुंसक)
 
 ::: grammar-box
-**Nel neutro, le forme del Nominativo (prathamā) e dell’Accusativo (dvitīyā) sono identiche.**
+**Nel neutro, le forme del Nominativo (prathamā) e dell'Accusativo (dvitīyā) sono identiche.**
 :::
 
-### 7.4.1. Neutro der Stämme auf -a
+### 7.4.1. Neutro dei temi in -a
 
 ::: grammar-box
-- **Nel neutro, le forme del Nominativo (prathamā) e dell’Accusativo (dvitīyā) sono identiche.**
-  z.B. **phala** n. = फल = "Frucht": Nom. / Akk. sg. **phalam** = फलम् <!-- TODO: Fallback translation -->
-- **Desinenza Nominativo / Accusativo Plurale: -āni** <!-- TODO: Fallback translation -->
-  z.B. **phala** n. = फल: Nom. / Akk. pl. **phalāni** = फलानि <!-- TODO: Fallback translation -->
+- **Desinenza Nominativo / Accusativo singolare: -m**
+  es. **phala** n. = फल = "frutto": Nom. / Acc. sg. **phalam** = फलम्
+- **Desinenza Nominativo / Accusativo plurale: -āni**
+  es. **phala** n. = फल: Nom. / Acc. pl. **phalāni** = फलानि
 :::
 
 ---
 
-## 7.5. Athematische Presenteklassen
+## 7.5. Classi di presente atematico
 
-La 5ª classe di presente forma un cosiddetto tema di presente atematico, ovvero il tema di presente non termina, a differenza delle classi di presente tematiche (1ª, 4ª, 6ª, 10ª classe), con la "vocale tematica" **-a**.
+La 5ª classe di presente forma un cosiddetto tema di presente atematico, cioè il tema di presente non termina, a differenza delle classi di presente tematiche (1ª, 4ª, 6ª, 10ª classe) con la "vocale tematica" **-a**.
 
 ::: grammar-box
 **Le classi di presente atematico presentano ablazione del tema, cioè esistono due forme del tema di presente:**
-1. **forte**: grado pieno (raramente grado allungato)
-2. **debole**: grado ridotto
+1. **tema forte**: grado pieno (raramente grado allungato)
+2. **tema debole**: grado ridotto
 
 **Il tema forte si trova:**
 - nell'indicativo singolare Parasmaipada presente (laṭ) e imperfetto (laṅ)
 - in tutte le prime persone dell'imperativo (loṭ) Parasmaipada e Ātmanepada
 - nella terza persona singolare dell'imperativo (loṭ) Parasmaipada
 
-**Tutte le altre forme presentano il tema di presente debole.**
+**Tutte le altre forme hanno il tema di presente debole.**
 :::
 
-### 7.5.1. Primärendungen der 3. Person Plurale bei athematischen Stämmen
+### 7.5.1. Desinenze primarie della terza persona plurale nelle radici atematiche
 
 ::: grammar-box
-La 5ª classe di presente forma un cosiddetto tema di presente atematico, ovvero il tema di presente non termina, a differenza delle classi di presente tematiche (1ª, 4ª, 6ª, 10ª classe), con la "vocale tematica" **-a**.
-- **Le classi di presente atematico presentano ablazione del tema, cioè esistono due forme del tema di presente:**
-- **forte**: grado pieno (raramente grado allungato)
+**Nelle radici di presente atematiche, le desinenze primarie della terza persona plurale sono:**
+- **Parasmaipada: -anti**
+- **Ātmanepada: -ate**
 :::
 
-### 7.5.2. Die 5. Presenteklasse (svādi = स्वादि = "su usw.")
+### 7.5.2. La 5. classe del presente (svādi = स्वादि = "su ecc.")
 
 ::: grammar-box
-- La 5ª classe di presente forma un cosiddetto tema di presente atematico, ovvero il tema di presente non termina, a differenza delle classi di presente tematiche (1ª, 4ª, 6ª, 10ª classe), con la "vocale tematica" **-a**.
-- **Le classi di presente atematico presentano ablazione del tema, cioè esistono due forme del tema di presente:**
+- **Radice forte**: (di solito) radice in grado debole (come sopra) + **-no-**
+- **Radice debole**: (di solito) radice in grado debole (come sopra) + **-nu-**
 
-**forte**: grado pieno (raramente grado allungato)
+**Davanti a desinenze vocaliche, nelle radici che terminano per vocale -nu- viene sostituito da -nv-, mentre nelle radici che terminano per consonante, davanti a desinenze vocaliche, -nu- viene sostituito da -nuv-.**
 :::
 
-**debole**: grado ridotto
+**Esempi:**
 
-| Radice[[br]]धातु | Starker Tema | Schwacher Tema | Vor Vokal[[br]](schwach) |
+| Radice[[br]]धातु | Radice forte | Radice debole | Davanti a vocale[[br]](debole) |
 | :--- | :--- | :--- | :--- |
-| **āp**[[br]]5 P[[br]]आप्[[br]]"erreichen" | **āp-no**[[br]](3.sg. āpnoti = आप्नोति) | **āp-nu** | **āp-nuv**[[br]](3.pl. āpnuvanti = आप्नुवन्ति) |
-| **aś**[[br]]5 Ā[[br]]अश्[[br]]"erreichen" | — | **aś-nu**[[br]](3.sg. aśnute = अश्नुते) | **aś-nuv**[[br]](3.pl. aśnuvate = अश्नुवते) |
-| **su**[[br]]5 U[[br]]सु[[br]]"auspressen" | **su-no**[[br]](3.sg. sunoti = सुनोति) | **su-nu**[[br]](3.sg. sunute = सुनुते) | **su-nv**[[br]](3.pl. sunvanti = सुन्वन्ति,[[br]]3.pl. sunvate = सुन्वते) |
-| **śru**[[br]]5 P[[br]]श्रु[[br]]"hören" | **śṛ-ṇo**[[br]](3.sg. śṛṇoti = शृणोति) | **śṛ-ṇu** | **śṛ-ṇv**[[br]](3.pl. śṛṇvanti = शृण्वन्ति) | <!-- TODO: Fallback translation -->
+| **āp**[[br]]5 P[[br]]आप्[[br]]"raggiungere" | **āp-no**[[br]](3.sg. āpnoti = आप्नोति) | **āp-nu** | **āp-nuv**[[br]](3.pl. āpnuvanti = आप्नुवन्ति) |
+| **aś**[[br]]5 Ā[[br]]अश्[[br]]"raggiungere" | — | **aś-nu**[[br]](3.sg. aśnute = अश्नुते) | **aś-nuv**[[br]](3.pl. aśnuvate = अश्नुवते) |
+| **su**[[br]]5 U[[br]]सु[[br]]"spremere" | **su-no**[[br]](3.sg. sunoti = सुनोति) | **su-nu**[[br]](3.sg. sunute = सुनुते) | **su-nv**[[br]](3.pl. sunvanti = सुन्वन्ति,[[br]]3.pl. sunvate = सुन्वते) |
+| **śru**[[br]]5 P[[br]]श्रु[[br]]"sentire" | **śṛ-ṇo**[[br]](3.sg. śṛṇoti = शृणोति) | **śṛ-ṇu** | **śṛ-ṇv**[[br]](3.pl. śṛṇvanti = शृण्वन्ति) |
 
 ---
 
-## 7.6. Lessico
+## 7.6. Elenco di parole
 
-**Imparare le seguenti parole:**
+**Imparate le seguenti parole:**
 
 - **aś** 5 Ā (aśnute) अश् अश्नुते : raggiungere, giungere a, ottenere
 - **āp** 5 P (āpnoti) आप् आप्नोति : raggiungere, ottenere
 - **kup** 4 P (kupyati) कुप् कुप्यति : adirarsi
 - **krudh** 4 P (krudhyati) क्रुध् क्रुध्यति : adirarsi
 - **khād** 1 P (khādati) खाद् खादति : masticare, mangiare
-- **śru** 5 P (śṛṇoti !) श्रु शृणोति : ascoltare (qualcosa: accusativo, qualcuno: genitivo o accusativo; riguardo a: accusativo; da qualcuno: genitivo, ablativo, strumentale)
+- **śru** 5 P (śṛṇoti !) श्रु शृणोति : ascoltare (qualcosa: accusativo, qualcuno: genitivo o accusativo; su: accusativo; da qualcuno: genitivo, ablativo, strumentale)
 - **su** 5 U (sunoti) सु सुनोति : spremere
-- **soma** m. सोम : bevanda spremuta, Soma; Luna (Non è ancora certo da quale pianta sia stato spremuto il Soma).
+- **soma** m. सोम : bevanda spremuta, Soma; Luna (Da quale pianta sia stato spremuto il Soma è ancora oggi oggetto di controversia).
 ::: media
 ![](/images/lekt0701.jpg)
-Fig.: Era questa la pianta vedica del Soma?: fungo mosca: *Amanita muscaria* (L.) Lam.
-(Fonte dell'immagine: Wikipedia, licenza GNU FDL)
+Fig.: Era questa la pianta vedica del Soma?: Fungo mosca: *Amanita muscaria* (L.) Lam.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0701))
 :::
-- **phala** n. फल : frutto (anche in senso figurato: frutto (karmico) di un'azione)
+- **phala** n. फल : frutto (anche in senso figurato: (karmico) frutto di un'azione)
 - **nṛtya** n. नृत्य : danza
 - **svarga** m. स्वर्ग : cielo
-- **naraka** m. नरक : inferno (secondo una concezione induista, l'universo ha la forma di un uovo (**Brahmāṇḍa** m.n. = ब्रह्माण्ड = "Uovo di Brahmā"): al di sopra della terra si trovano sei cieli con beatitudine crescente, al di sotto della terra si trovano sette cosiddette **pātāla** n. = पाताल, dimore dei **nāga** m. = नाग (serpenti) e di altre entità mitiche, tra cui si trovano sette inferni con pene crescenti)
-- **aṅga** n. अङ्ग : membro del corpo, parte; anche = **vedāṅga** = वेदाङ्ग
-- **gam** 1 P (gacchati) गम् गच्छति : andare (Secondo la classificazione verbale indigena appartiene alla classe di presente 1, ma in realtà è una formazione con un suffisso di formazione del tema di presente **-ccha-**: **gam** » forma profonda (**gm** ») **ga-ccha-ti**)
+- **naraka** m. नरक : inferno (secondo una concezione induista, l'universo ha la forma di un uovo (**Brahmāṇḍa** m.n. = ब्रह्माण्ड = "Uovo di Brahmā"): al di sopra della terra vi sono sei cieli con beatitudine crescente, al di sotto della terra vi sono sette cosiddetti **pātāla** n. = पाताल, dimore degli **nāga** m. = नाग (serpenti) e di altre creature mitiche, tra cui vi sono 7 inferni con pene crescenti)
+- **aṅga** n. अङ्ग : membro del corpo, componente; anche = **vedāṅga** = वेदाङ्ग
+- **gam** 1 P (gacchati) गम् गच्छति : andare (Secondo la classificazione locale delle radici verbali appartiene alla classe del presente 1, ma in realtà è una formazione con un suffisso di formazione del tema del presente **-ccha-**: **gam** » forma ridotta (**gm** ») **ga-ccha-ti**)
+
+
 
 ---
 
 ## 7.7. Esercizio
 
-**A) Inserire rispettivamente al singolare e al plurale l’oggetto diretto o l’accusativo di direzione:**
+**A) Inserire rispettivamente al singolare e al plurale l'oggetto diretto o l'accusativo di direzione:**
 
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
    ब्राह्मणस् ... यजति (देव, देवी, विष्णु, अग्नि, देवता)
 
 ::: media
 ![](/images/lekt0704.jpg)
-Fig.: Viṣṇu = विष्णु, VIII/IX secolo.
-(Fonte dell'immagine: Wikipedia, licenza GNU FDL)
+Fig.: Viṣṇu = विष्णु, 8./9. secolo.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0704))
 :::
 
 2. gurus ... khādati (phala)
@@ -267,7 +274,7 @@ Fig.: Viṣṇu = विष्णु, VIII/IX secolo.
 6. ... labhate (dhenu, paśu, phala)
    ... लभते (धेनु, पशु, फल)
 
-**B) Inserire le forme verbali corrispondenti:**
+**B) Inserire le corrispondenti forme verbali:**
 
 1. sādhuḥ svargaṃ ... (āp, gam, aś)
    साधुः स्वर्गम् ... (आप्, गम्, अश्)
@@ -278,9 +285,9 @@ Fig.: Viṣṇu = विष्णु, VIII/IX secolo.
 4. devī ... (kup, krudh)
    देवी ... (कुप्, क्रुध्)
 
-**C) Nelle frasi di esercizio B), trasformare agente, oggetto e verbo al plurale.**
+**C) Inserire nelle frasi di esercizio B) l'agente, l'oggetto e il verbo al plurale.**
 
-**D) Trasformare in Ātmanepada:**
+**D) Inserire nella forma Ātmanepada:**
 
 1. sunvanti.
    सुन्वन्ति |
@@ -293,12 +300,11 @@ Fig.: Viṣṇu = विष्णु, VIII/IX secolo.
 
 ::: media
 ![](/images/lekt0702.jpg)
-Fig.: **yajati** = यजति
-Sacrificio vedico = **yajña** m. = यज्ञ
-(Fonte dell'immagine: Wikipedia, Pubblico Dominio)
+Fig.: **yajati** = यजति — Sacrificio vedico = **yajña** m. = यज्ञ
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0702))
 :::
 
-**E) Formare per tutti i sostantivi appresi finora l’accusativo (dvitīyā) singolare e plurale.**
+**E) Formare per tutti i nomi finora appresi l'accusativo (dvitīyā) sg. e pl.**
 
 **F) Tradurre:**
 
@@ -306,20 +312,20 @@ Sacrificio vedico = **yajña** m. = यज्ञ
    नरकांश्च स्वर्गांश्च गच्छन्ति |
 2. gurūṃs tu śṛṇvanti.
    गुरूूंस्तु शृण्वन्ति |
-3. Śūdras erlangen einen Himmel.
-4. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern.
-5. Vaiśyafrauen verehren Gottheiten mit Opfern.
-6. Der HERR zürnt.
+3. I Śūdra ottengono un cielo.
+4. I Kṣatriya venerano come padroni del sacrificio le dee con sacrifici.
+5. Le donne Vaiśya venerano divinità con sacrifici.
+6. Il SIGNORE si adira.
 7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
    शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि |
-8. Welchem Gott opfert dieser Brahmane?
+8. A quale dio sacrifica questo brāhmaṇa?
 
 ::: media
 ![](/images/lekt0703.jpg)
-Fig.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
-(Fonte dell'immagine: Rajaramraok, Wikipedia, CC-BY 3.0)
+Fig.: A quale dio si sacrifica qui? Risposta: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0703))
 :::
 
-9. Was kaut dieser heilige Mann?
-10. Was pressen diese (hier) aus?
-11. Er ist der Lehrer. Auf ihn hört man (= hören sie).
+9. Cosa masticano questi uomini sacri?
+10. Cosa spremono questi (qui)?
+11. Egli è l'insegnante. Su di lui si ascolta (= ascoltano).

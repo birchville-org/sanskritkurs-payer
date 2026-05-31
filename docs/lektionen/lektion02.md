@@ -79,6 +79,10 @@ Der Auslaut eines Wortes richtet sich im Sanskrit auch nach dem Anlaut des darau
 
 ### 2.4.1. Sandhi von auslautendem -s
 
+Siehe auch die Übersicht:
+
+> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+
 Auslautendes **-s**:
 
 - **im absoluten Auslaut** (Satzende) wird es zu **Visarga (-ḥ)**:

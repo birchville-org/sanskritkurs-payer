@@ -106,6 +106,7 @@ Geistig Beschränkte tun Verdienstvolles und unterlassen Böses, weil sie sich v
 
 मितमतिर्नरकभयात्स्वर्गलोभाच्च पुण्यं करोति पापं च जहाति । अमितप्रज्ञाबुद्धो हि नरकेभ्यो न बिभीयात्स्वर्गांश्च न लुभ्येत् । स भयं च लोभं चारुणत् । ... बिभियात् ... ॥७॥
 
+:::: media
 ![](/images/uebung055.jpg)
 Abb.: मितमतयो नरकभयाद्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति
 (Bildquelle: [Details](/licenses#uebung055))

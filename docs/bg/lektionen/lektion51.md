@@ -1,222 +1,345 @@
+---
+title: Урок 51
+subtitle: "उपपद-композиции"
+lesson_id: 51
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 51
 
-# Lektion 51
+## 51.1. उपपद-композиции
 
-## 51.1. उपपद-Komposita
+:::: grammar-box
+**उपपद-композиции (उपपद m. "сопровождающее слово") — это तत्पुरुष с вербальным существительным в качестве второго компонента, который встречается только как второй компонент в композициях, но не как самостоятельное отдельное слово. उपपद образуются с помощью कृत्-суффиксов**
+* **-Ø**
+* **-a**
+* **-t**
 
-उपपद-Komposita (उपपद n. "Begleitwort") sind तत्पुरुष mit einem Verbalnomen als Hinterglied, das nur als Hinterglied von Komposita auftritt, nicht aber als selbständiges, einzelnes Wort. उपपद werden mit den कृत्-Suffixen &lt;!-- TODO: Fallback translation --&gt;
+**Они являются существительными деятеля (agentis), то есть обозначают агента (कर्तृ), совершающего действие, обозначаемое лежащей в основе основой.**
 
-*   \-Ø &lt;!-- TODO: Fallback translation --&gt;
-*   \-a &lt;!-- TODO: Fallback translation --&gt;
-*   \-t &lt;!-- TODO: Fallback translation --&gt;
+**Такие композиции местными комментаторами не раскладываются на номинальные сочетания, а посредством глагольных форм:**
 
-gebildet. Sie sind Nomina agentis, d. h. sie bezeichnen einen Agens (कर्तृ), der die durch die zugrundeliegende Wurzel bezeichnete Handlung tut. &lt;!-- TODO: Fallback translation --&gt;
-
-Solche Komposita werden von den einheimischen Kommentatoren nicht durch Nominalkombinationen, sondern mittels Verbalformen aufgelöst: &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примеры:
 
 ::: indent
 सुखकरः = सुखं करोतीति सुखकरः
 
-कुलघ्नः =  कुलम्हन्तीति कुलघ्नः
+कुलघ्नः = कुलम्हन्तीति कुलघ्नः
 :::
+::::
 
-&lt;!-- TODO: Fallback translation --&gt;
+Примеры:
 
-a) कृत्-Suffix \-Ø &lt;!-- TODO: Fallback translation --&gt;
+a) कृत्-суффикс \-Ø
 
 ::: indent
-\-नी 3 "führend" z.B. सेनानी m. "Heerführer" (सेना f. "Heer") &lt;!-- TODO: Fallback translation --&gt;
+\-नी 3 "ведущий" напр. सेनानी m. "вождь войска" (सेना f. "войско")
 
-\-भुज् 3 "genießend, essen" z.B. भूमिभुज् m. "König" (भूमि f. "Erde") &lt;!-- TODO: Fallback translation --&gt;
+\-भुज् 3 "вкушающий, едящий" напр. भूमिभुज् m. "царь" (भूमि f. "земля")
 
-\-विद् 3 "wissend" z.B. धर्मविद्  3 "den Dharma kennend" &lt;!-- TODO: Fallback translation --&gt;
+\-विद् 3 "знающий" напр. धर्मविद् 3 "знающий дхарму"
 :::
 
 ::: media
-![]/images/lekt5101.jpg
-Abb.: भूमिभुज्  
-ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008)  
-\[Bildquelle: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]   &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5101.jpg)
+Рис.: भूमिभुज्
+ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008)
+(Источник изображения: [Подробности](/bg/licenses#lekt5101))
 :::
 
-b) कृत्-Suffix -t &lt;!-- TODO: Fallback translation --&gt;
+b) कृत्-суффикс -t
+
+:::: indent
+\-कृत् 3 "делающий" напр.
 
 ::: indent
-\-कृत् 3 "machend" z. B. &lt;!-- TODO: Fallback translation --&gt;
+कुलक्षयकृत् 3 "вызывающий уничтожение рода"
 
-&gt; कुलक्षयकृत् 3 "Vernichtung der Familie bewirkend" &lt;!-- TODO: Fallback translation --&gt;
+पापकृत् 3 "совершающий зло, злодей"
+:::
 
-\-जित् 3 "besiegend", z. B. &lt;!-- TODO: Fallback translation --&gt;
+\-जित् 3 "побеждающий" напр.
 
-&gt; पुरुजित् 3 "viele besiegend" (पुरु 3 "viel, reichlich") &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+शत्रुजित् 3 "побеждающий врагов"
 
-\-भृत् 3 "tragend" z. B.  भूमिभृत् m. "König" &lt;!-- TODO: Fallback translation --&gt;
+पुरुजित् 3 "побеждающий многих" (पुरु 3 "многие, обильные")
+:::
+
+\-भृत् 3 "несущий" напр. भूमिभृत् m. "царь"
+::::
+
+::: media
+![](/images/lekt5103.jpg)
+Рис.: पापकृत्
+भरतपुर, राजस्थान
+(Источник изображения: [Подробности](/bg/licenses#lekt5103))
+:::
+c) कृत्-суффикс -a
+
+::: indent
+\-ग 3 "идущий (в, к)" (вероятно, от корня gā, глубинная форма g + a) напр. खग 3 "летящий" m. "птица, странствующая звезда" (ख n. "отверстие, 'воздушное' пространство")
+
+\-घ्न 3 "убивающий" напр. कुलघ 3 "убивающий (роды)"
+
+\-ज 3 (jña » jā » глубинная форма j + a) "происходящий от, рожденный в" напр. आत्मज "сын"
+
+\-ज्ञ 3 "знающий" (jñ-a) напр. सर्वज्ञ 3 "всезнающий"
+
+\-द 3 "дающий" (d-a) напр. वारिद m. "облако" (वारि n. "вода")
+
+\-प 3 "пьющий" (p-a) напр. द्विप m. "слон (пьющий дважды)"
+
+\-प 3 "защищающий" (p-a) напр. भूप "защищающий землю = царь"
+
+\-स्थ 3 "стоящий в, находящийся в" (sth-a) напр. गृहस्थ m. "управляющий, глава дома"
+
+\-कर 3 "вызывающий, делающий" напр. सुखकर 3 "дарующий счастье"
+
+\-स्मर 3 "вспоминающий" напр. जातिस्मर 3 "вспоминающий прежние рождения"
 :::
 
 ::: media
-![]/images/lekt5103.jpg
-Abb.: पापकृत्  
-भरतपुर, राजस्थान  
-\[Bildquelle: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5102.jpg)
+Рис.: द्विपो द्विर्पिबति : हस्तेन च मुखेन च
+नेपाल
+(Источник изображения: [Подробности](/bg/licenses#lekt5102))
 :::
-c) कृत्-Suffix -a &lt;!-- TODO: Fallback translation --&gt;
+
+## 51.2. Склонение на корени, които завършват на прост съгласен (с изключение на назална, полугласна и -s)
+
+::: grammar-box
+**Корените, които завършват на прост съгласен (с изключение на назална, полугласна и -s), нямат коренова вариация. Склонението става напълно редовно чрез добавяне на редовните падежни окончания.**
+
+**Единственото изключение: в им.вин.мн.среден род се вмъква назална пред кореновия край.**
+:::
+
+### 51.2.1. Племена на непалатални затворени съгласни
+
+::: grammar-box
+**В сила са обичайните звукови закони, т.е.**
+* **на края на думата стои съответният беззвучен неаспириран**
+* **преди -su на локал множествено число крайът на думата първо се заменя със съответния беззвучен неаспириран, след което настъпват съответните звукови промени**
+* **преди звучна съгласна крайът на думата се заменя със съответния звучен неаспириран.**
+:::
+
+Примери:
+
+शत्रुजित् 3 "побеждаващ врагове"
+
+:::: indent
+Мъжки род, Женски род:
+
+:::: indent
+Еднинство:
 
 ::: indent
-\-ग 3 "gehend (in, zu)" (vermutlich zur Wurzel gā, Tiefst. g + a) z.B. खग 3 "fliegend" m. "Vogel, Wandelstern" (ख n. "Loch, 'Luft'raum") &lt;!-- TODO: Fallback translation --&gt;
-
-\-घ्न 3 "erschlagend" z.B. कुलघ 3 "Familie(n) tötend" &lt;!-- TODO: Fallback translation --&gt;
-
-\-ज 3 (jña » jā » Tiefst. j + a) "abstammend von, geboren in" z.B. आत्मज "Sohn" &lt;!-- TODO: Fallback translation --&gt;
-
-\-ज्ञ 3 "kundig" (jñ-a) z.B. सर्वज्ञ 3 "allwissend" &lt;!-- TODO: Fallback translation --&gt;
-
-\-द 3 "gebend" (d-a) z.B. वारिद m. "Wolke" (वारि n. "Wasser") &lt;!-- TODO: Fallback translation --&gt;
-
-\-प 3 "trinkend" (p-a) z.B. द्विप m. "Elefant (zweimal trinkend)" &lt;!-- TODO: Fallback translation --&gt;
-
-\-प 3 "schützend" (p-a) z.B. भूप "die Erde schützend = König" &lt;!-- TODO: Fallback translation --&gt;
-
-\-स्थ 3 "stehend in, befindlich in" (sth-a) z.B. गृहस्थ m. "Haushalter, Hausvater" &lt;!-- TODO: Fallback translation --&gt;
-
-\-कर 3 "bewirkend, tuend" z.B. सुखकर 3 "Glück verschaffend" &lt;!-- TODO: Fallback translation --&gt;
-
-\-स्मर 3 "sich erinnernd" z.B. जातिस्मर 3 "sich früherer Geburten erinnernd" &lt;!-- TODO: Fallback translation --&gt;
+Именителна/Звателна शत्रुजित् (śatrujit + s)
+Мъжителна शत्रुजितम्
 :::
+
+Множествено число:
+
+::: indent
+Именителна/Мъжителна/Звателна शत्रुजितस्
+Творителна शत्रुजिद्भिस्
+Местна शत्रुजित्सु
+:::
+::::
+
+Среден род
+
+::: indent
+Еднинство Именителна/Мъжителна/Звателна शत्रुजित्
+Множествено число Именителна/Мъжителна/Звателна ***शत्रुजिन्ति***
+:::
+::::
+
+सुयुध् 3 "добре воюващ"
+
+::: indent
+Еднинство.Именителна/Звателна.м.ж.ср. सुयुत्
+и т.н.
+:::
+
+Пълни парадигми при Kielhorn, Граматика стр. 16н.
+
+### 51.2.2. Племена на палатални спиранти (c, ch, j), ś, ṣ
+
+::: grammar-box
+**Пред вокално започващ окончание, крайът на корена остава непроменен.**
+
+**Пред останалите окончания важи:**
+
+* **крайното -c и -j се заменят с k и след това коренът се третира така, сякаш завършва на -k**
+* **в някои думи (списък при Kielhorn, Граматика стр. 18) крайното -j се заменя с -ṭ**
+* **крайното -ch се заменя с -ṭ**
+* **крайното -ś и -ṣ се заменят – с някои изключения – с -ṭ. В изключителните случаи -ś и -ṣ се заменят с -k**
+
+**т.е.**
+
+* **-c » -k**
+* **-ch » -ṭ**
+* **-j » -k или -ṭ**
+* **-ś » -ṭ или -k**
+* **-ṣ » -ṭ или -k**
+:::
+
+Примери:
+
+सत्यवाच् 3 "казващ истината" (बहुव्रीहि)
+
+:::: indent
+Мъжки род, Женски род:
+
+:::: indent
+Еднина:
+
+::: indent
+Именителна/Звателна सत्यवाक्
+Указателна सत्यवाचम्
+Творителна सत्यवाचा
+:::
+
+Множина:
+
+::: indent
+Творителна सत्यवाग्भिस्
+Местна सत्यवाक्षु
+:::
+::::
+
+Среден род
+
+::: indent
+Еднина Именителна/Указателна/Звателна सत्यवाक्
+Множина Именителна/Указателна/Звателна सत्यवाञ्चि
+:::
+::::
+
+शेषभुज् 3 "ядещ остатъци от храна"
+
+:::: indent
+Мъжки род, Женски род:
+
+:::: indent
+Еднина:
+
+::: indent
+Именителна/Звателна शेषभुक्
+Указателна शेषभुजम्
+:::
+
+Множина:
+
+::: indent
+Творителна शेषभुग्भिस्
+Местна शेषभुक्षु
+:::
+::::
+
+Среден род
+
+::: indent
+Еднина Именителна/Указателна/Звателна शेषभुक्
+Множина Именителна/Указателна/Звателна शेषभुञ्जि
+:::
+::::
+
+परिव्राज् м. "странстващ монах"
+
+:::: indent
+Мъжки род, Женски род:
+
+:::: indent
+Еднина:
+
+::: indent
+Именителна/Звателна परिव्राट्
+Указателна परिव्राजम्
+:::
+
+Множина:
+
+::: indent
+Творителна परिव्राड्भिस्
+Местна परिव्राट्सु
+:::
+::::
+::::
 
 ::: media
-![]/images/lekt5102.jpg
-Abb.: द्विपो द्विर्पिबति : हस्तेन च मुखेन च  
-नेपाल  
-\[Bildquelle: amanderson2. -- [http://www.flickr.com/photos/amanderson/2420198291/](http://www.flickr.com/photos/amanderson/2420198291/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\]   &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5104.jpg)
+Ил.: परिव्राट्
+पुष्कर
+(Източник на изображението: [Подробности](/bg/licenses#lekt5104))
 :::
 
-## 51.2. Deklination der Stämme, die auf einen einfachen Konsonanten (außer Nasal, Halbvokal, -s) auslauten
+### 51.2.3. Племена на -h
 
-Stämme, die auf einen einfachen Konsonanten (außer Nasal, Halbvokal, -s) auslauten, haben keine Stammabstufung. Die Deklination geschieht völlig regelmäßig durch Anfügung der regulären Kasusendungen. &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Пред вокалично започващ окончание, -h остава непроменено.**
 
-Einzige Unregelmäßigkeit: im Nom.,Akk.,Vok.pl.Neutrum wird vor den Stammauslaut ein Nasal eingeschoben. &lt;!-- TODO: Fallback translation --&gt;
+**Пред останалите окончания**
+* **обикновено -h се заменя с -ḍh**
+* **ако основата започва с d-, -h се заменя с -gh. Също при някои други думи по избор или задължително (обобщение при Kielhorn, Граматика §80,2)**
+* **(накрая на коренното име -h се заменя с -dh)**
 
-### 51.2.1. Stämme auf nichtpalatalen Verschlusslaut
+**След тези замены, племената се третират по-нататък, сякаш завършват на -ḍh, -gh или -dh.**
 
-Es gelten die üblichen Lautveränderungsgesetze, d.h. &lt;!-- TODO: Fallback translation --&gt;
+**Вижте парадигмите при Kielhorn, Граматика, стр. 20f.**
+:::
 
-*   im Auslaut steht der entsprechende stimmlose Nichtaspirat &lt;!-- TODO: Fallback translation --&gt;
-*   vor dem -su des Lok.plur wird der Auslaut zunächst durch den entsprechenden stimmlosen Nichtaspiraten ersetzt, dann treten die entsprechenden Lautveränderungen ein &lt;!-- TODO: Fallback translation --&gt;
-*   vor stimmhaftem Konsonanten wird der Auslaut durch den entsprechenden stimmhaften Nichtaspiraten ersetzt. &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+:::: indent
+गुह् 3 "скриващ"
 
-शत्रुजित् 3 "Feinde besiegend" &lt;!-- TODO: Fallback translation --&gt;
+Мъжки род, Женски род:
+
+:::: indent
+Единствено число:
 
 ::: indent
-Maskulinum, Femininum: &lt;!-- TODO: Fallback translation --&gt;
-
-&gt; &gt; Nom.Vok. शत्रुजित् (śatrujit + s)   &lt;!-- TODO: Fallback translation --&gt;
-
-&lt;!-- TODO: Fallback translation --&gt;
-
-&gt; Singular Nom.Akk.Vok.  शत्रुजित्   &lt;!-- TODO: Fallback translation --&gt;
+Именителна/Звателна घुट् (Закон за диссимиляцията на Grassmann: गुढ् + s)
+Творителна गुहम्
 :::
 
-सुयुध् 3 "gut kämpfend" &lt;!-- TODO: Fallback translation --&gt;
+Множествено число:
 
 ::: indent
-Singular.Nom.Vok.m.f.n. सुयुत्   &lt;!-- TODO: Fallback translation --&gt;
+Творителна घुड्भिस्
+Местна घुट्सु
 :::
+::::
 
-&gt; Singular: &lt;!-- TODO: Fallback translation --&gt;
+द्रुह् "вреден, мразещ" (по избор -ḍh/-gh)
 
-### 51.2.2. Stämme auf palatalen Verschlusslaut (c, ch, j), ś, ṣ
+Мъжки род, Женски род:
 
-Vor vokalisch anlautender Endung bleibt der Auslaut des Stammes unverändert. &lt;!-- TODO: Fallback translation --&gt;
-
-Vor den übrigen Endungen gilt: &lt;!-- TODO: Fallback translation --&gt;
-
-*   auslautendes -c und -j werden durch k ersetzt und der Основа wird dann so behandelt, als ob er auf -k auslautete &lt;!-- TODO: Fallback translation --&gt;
-*   in einigen Wörtern (Liste bei Kielhorn, Grammatik S. 18) wird auslautendes -j durch -ṭ ersetzt &lt;!-- TODO: Fallback translation --&gt;
-*   auslautendes -ch wird durch -ṭ ersetzt &lt;!-- TODO: Fallback translation --&gt;
-*   auslautendes -ś und -ṣ werden - mit einigen Ausnahmen - durch -ṭ ersetzt. In den Ausnahmefällen werden -ś und -ṣ durch -k ersetzt &lt;!-- TODO: Fallback translation --&gt;
-
-d. h. &lt;!-- TODO: Fallback translation --&gt;
-
-*   \-c  » -k &lt;!-- TODO: Fallback translation --&gt;
-*   \-ch » -ṭ &lt;!-- TODO: Fallback translation --&gt;
-*   \-j » -k oder -ṭ &lt;!-- TODO: Fallback translation --&gt;
-*   \-ś » -ṭ oder -k &lt;!-- TODO: Fallback translation --&gt;
-*   \-ṣ » -ṭ oder -k &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-
-सत्यवाच् 3 "die Wahrheit redend" (बहुव्रीहि) &lt;!-- TODO: Fallback translation --&gt;
+:::: indent
+Единствено число:
 
 ::: indent
-Maskulinum, Femininum: &lt;!-- TODO: Fallback translation --&gt;
-
-&gt; &gt; Nom.Vok. सत्यवाक्   &lt;!-- TODO: Fallback translation --&gt;
-
-&lt;!-- TODO: Fallback translation --&gt;
-
-&gt; Singular Nom.Akk.Vok. सत्यवाक्    &lt;!-- TODO: Fallback translation --&gt;
+Именителна/Звателна ध्रुट् । ध्रुक्
+Творителна द्रुहम्
 :::
 
-शेषभुज् 3 "Speisereste essend" &lt;!-- TODO: Fallback translation --&gt;
+Множествено число:
 
 ::: indent
-&gt; Singular: &lt;!-- TODO: Fallback translation --&gt;
-
-&gt; &gt; Nom.Vok. शेषभुक्   &lt;!-- TODO: Fallback translation --&gt;
-
-&gt;  &lt;!-- TODO: Fallback translation --&gt;
-
-&gt; Singular Nom.Akk.Vok. शेषभुक्    &lt;!-- TODO: Fallback translation --&gt;
+Творителна ध्रुड्भिस् । ध्रुग्भिस्
+Местна ध्रुट्सु । ध्रुक्षु
 :::
+::::
+::::
 
-परिव्राज् m. "Wandermönch" &lt;!-- TODO: Fallback translation --&gt;
+## 51.3. Сандхи на начално h-
 
-::: indent
-&gt; &gt; Akk. सत्यवाचम्   &lt;!-- TODO: Fallback translation --&gt;
-
-&gt; &gt; Nom.Vok. परिव्राट्   &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-::: media
-![]/images/lekt5104.jpg
-Abb.: परिव्राट्  
-पुष्कर  
-\[Bildquelle: calamur. -- [http://www.flickr.com/photos/gargi/360186369/](http://www.flickr.com/photos/gargi/360186369/). -- Zugriff am2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-### 51.2.3. Stämme auf -h
-
-Vor vokalisch anlautender Endung bleibt das -h unverändert. &lt;!-- TODO: Fallback translation --&gt;
-
-Vor den übrigen Endungen &lt;!-- TODO: Fallback translation --&gt;
-
-*   wird normalerweise das -h durch -ḍh ersetzt &lt;!-- TODO: Fallback translation --&gt;
-*   lautet die zugrundeliegende Корен mit d- an, wird -h durch -gh ersetzt. Ebenso bei einigen anderen Wörtern wahlweise oder obligatorisch (Zusammenstellung bei Kielhorn, Grammatik §80,2) &lt;!-- TODO: Fallback translation --&gt;
-*   (im Auslaut des Коренnomens wird -h durch -dh ersetzt) &lt;!-- TODO: Fallback translation --&gt;
-
-Nach diesen Ersetzungen wird der Stamm weiter behandelt, als ob  er auf -ḍh, -gh bzw. -dh auslauten würde. &lt;!-- TODO: Fallback translation --&gt;
-
-Siehe die Paradigmen bei Kielhorn, Grammatik, S. 20f. &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-गुह् 3 "verbergend" &lt;!-- TODO: Fallback translation --&gt;
-
-&gt; &gt; &gt; Nom.Vok. घुट् (Grassmannsches Hauchdissimilationsgesetz: गुढ् + s)   &lt;!-- TODO: Fallback translation --&gt;
-
-द्रुह् "schädigend, hassend" (wahlweise -ḍh/-gh) &lt;!-- TODO: Fallback translation --&gt;
-
-&gt; &gt; &gt; Nom.Vok. ध्रुट् । ध्रुक्   &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-## 51.3. Sandhi von anlautendem h-
-
-Vor anlautendem h- wird ein vorausgehender Verschlusslaut durch den entsprechenden stimmhaften Nichtaspiraten ersetzt und das anlautende h- durch den diesem Verschlusslaut entsprechenden stimmhaften Aspiraten: &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+**Преди начално h- предхождащият взривен звук се заменя с відповідния звънък неаспириран, а началното h- се заменя с відповідния звънък аспират:**
 
 ::: indent
 तत् + हि » तद्धि
@@ -225,267 +348,285 @@ Vor anlautendem h- wird ein vorausgehender Verschlusslaut durch den entsprechend
 
 परिव्राट् + हि » परिव्राड्ढि
 :::
+::::
 
-## 51.4. Sandhi von anlautendem ch-
+## 51.4. Сандхи на начално ch-
 
-Anlautendes ch- wird nach kurzem Vokal, nach मा "nicht" und nach आ "zu" durch cch- ersetzt: &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+**Началното ch- се заменя с cch- след кратка гласна, след मा "не" и след आ "да":**
 
 ::: indent
 न + छिन्दति » न च्छिन्दति
 :::
+::::
 
-## 51.5. -ch- im Wortinnern
+## 51.5. -ch- въ вътрешността на думата
 
-Im Wortinnern wird -ch- nach allen Vokalen durch -cch- ersetzt: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-z.B. छिद् » चिच्छेद &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-## 51.6. Речник
-
-अजिन n.: Antilopenfell, bes. das Fell der schwarzen Antilope (Hirschziegenantilope : _Antilope cervicapra_ L. ). Kam ursprünglich auf dem ganzen indischen Subkontinent vor von Punjab und Sind bis Bengalen und von Nepal bis Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Siehe: &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+**Във вътрешността на думата -ch- след всички гласни се заменя с -cch-:**
 
 ::: indent
-**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f. &lt;!-- TODO: Fallback translation --&gt;
+напр. छिद् » चिच्छेद
 :::
+::::
+
+## 51.6. Списък на думите
+
+अजिन n.: кожа на антилопа, особено кожата на черната антилопа (хирц-коза антилопа : _Antilope cervicapra_ L. ). Първоначално е обитавала целия индийски субконтинент от Пенджаб и Синд до Бенгал и от Непал до Кanyakumari (Cape Comorin) (Тамил: கன்னியாகுமரி) Вижте:
+
+> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
 
 ::: media
-![]/images/lekt5105.jpg
-Abb.: Hirschziegenantilope -- _Antilope cervicapra_ L., Bock  
-\[Bildquelle: Wikipedia, public domain\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5105.jpg)
+Ил.:
+(Източник на изображението: [Подробности](/bg/licenses#lekt5105))
 :::
-अतिथि m.: Gast &lt;!-- TODO: Fallback translation --&gt;
+अतिथि m.: гост
 
-अभ्यन्तर 3: im Inneren befindlich, nächster ; m. der nächste Angehörige, Eingeborener &lt;!-- TODO: Fallback translation --&gt;
+अभ्यन्तर 3: намиращ се вътре, най-близък ; m. най-близък роднина, местен жител
 
-अरण्य n.: Wildnis, Wald &lt;!-- TODO: Fallback translation --&gt;
+अरण्य n.: пустош, гора
 
-ऋतु m.: periodischer Vorgang, Jahreszeit, Zeitabschnitt, Menstruation, Zeit, in der die Frau empfängnisbereit ist und ein Anrecht auf Beischlaf ihres Gatten hat. &lt;!-- TODO: Fallback translation --&gt;
+ऋतु m.: периодичен процес, сезон, времеви период, менструация, време, в което жената е плодородна и има право на полов акт с нейния съпруг.
 
 ::: indent
-Zu ऋतु siehe Manu III, 45-48: danach dauert ऋतु 16 Tage (nach der alternativen Übersetzung: 20 Tage) ab Beginn der Monatsblutung, an den ersten vier Tagen nach Beginn der Blutung ist Geschlechtsverkehr verboten (Nach der alternativen Übersetzung: an den ersten acht (4 + 4) Tagen), ebenso am 11. (bzw. 15.) und 13. (bzw. 18.) Tag. An geraden Tagen empfängt die Frau Söhne, an ungeraden Töchter. Für das Folgende wird ein ऋतु von insgesamt 16 Tagen (nicht die Alternativübersetzung) angenommen, wie es auch die meisten einheimischen Kommentare tun, und was also die vorherrschende Auffassung gewesen ist. &lt;!-- TODO: Fallback translation --&gt;
+За ऋतु вижте Ману III, 45-48: след това ऋतु продължава 16 дни (според алтернативния превод: 20 дни) от началото на месечното кървене, през първите четири дни след началото на кървенето е забранен полов акт (Според алтернативния превод: през първите осем (4 + 4) дни), също така и на 11. (съответно 15.) и 13. (съответно 18.) ден. При четни дни жената заченва синове, при нечетни – дъщери. За следващото се приема ऋतु от общо 16 дни (не алтернативният превод), както правят и повечето местни коментари, и което е било преобладаващото мнение.
 
-&lt;!-- TODO: Fallback translation --&gt;
+Тъй като овулацията е 14 дни преди началото на месечното кървене, при това определяне на плодородния период плодородността е почти "гарантирана" за интервал между месечните кървения от 19 до 30 дни. Забранените дни (11. и 13.) подобряват вероятността за полов акт на 12. и 14. ден, т.е. вероятността за зачеване при цикъл от 28 дни (продължителността на живота на сперматозоидите в жената е около 3 дни). Тези разпоредби са като положително приложение на метода на Кнаус-Огино.
 :::
 
 ::: media
 ![](/images/lekt5106.jpg)
-Da der Eisprung 14 Tage vor dem Beginn der Monatsblutung liegt, ist bei dieser Bestimmung der fruchtbaren Periode Fruchtbarkeit beinahe "garantiert" für einen Abstand der Monatsblutungen von 19 bis 30 Tagen. Die verbotenen Tage (11. und 13.) verbessern die Wahrscheinlichkeit für Geschlechtsverkehr am 12. und 14. Tag, d.h. die Empfängniswahrscheinlichkeit bei einem Zyklus von 28. Tagen (die Lebensdauer der Spermien in der Frau beträgt ca. 3 Tage). Diese Bestimmungen sind als sozusagen positiver Einsatz von Knaus-Ogino. &lt;!-- TODO: Fallback translation --&gt;
+Ил.: ऋतुः
+(Източник на изображението: [Подробности](/bg/licenses#lekt5106))
 :::
 
-एकत्र Adv.: an einer Stelle &lt;!-- TODO: Fallback translation --&gt;
+एकत्र Adv.: на едно място
 
-जटा f.: Haarflechte (Haartracht des Asketen) &lt;!-- TODO: Fallback translation --&gt;
+जटा f.: космена опашка (космена прическа на аскет)
 
 ::: media
-![]/images/lekt5107.jpg
-Abb.: जटा  
-ऋषिकेश  
-\[Bildquelle: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5107.jpg)
+Ил.: जटा
+ऋषिकेश
+(Източник на изображението: [Подробности](/bg/licenses#lekt5107))
 :::
-तुल्य 3: gleich, vergleichbar (तृतीयया) &lt;!-- TODO: Fallback translation --&gt;
+तुल्य 3: равен, сравним (तृतीयया)
 
-तरय 3 (f.: तरयी): dreifältig, aus drei Teilen bestehend &lt;!-- TODO: Fallback translation --&gt;
+तरय 3 (f.: तरयी): тричастен, състоящ се от три части
 
-प्राणान्तिक 3 (f.: -ī): tödlich, todbringend, lebenslänglich &lt;!-- TODO: Fallback translation --&gt;
+प्राणान्तिक 3 (f.: -ī): смъртоносен, убиващ, доживотен
 
-बाह्य 3: außerhalb, draußen befindlich, fremd &lt;!-- TODO: Fallback translation --&gt;
+बाह्य 3: намиращ се отвън, навън, чужд
 
-भिक्षा f.: erbetteltes Almosen, Bettelspeise &lt;!-- TODO: Fallback translation --&gt;
+भिक्षा f.: измолено милостиня, храна от милостиня
 
-मार्यादा f.: Grenze &lt;!-- TODO: Fallback translation --&gt;
+मार्यादा f.: граница
 
-शिष् 7P शिनष्टि : verlassen, übriglassen &lt;!-- TODO: Fallback translation --&gt;
+शिष् 7P शिनष्टि : оставен, оставен задълго
 
 ::: indent
-Perf.II शिशेषे, शिशिषुर्   &lt;!-- TODO: Fallback translation --&gt;
+Перф.II शिशेषे, शिशिषुर्
+Фут. शेक्ष्यति
+Пас. शिष्यते
+Каз. शेषयति
+PPPशिष्ट
+Абсол. -शिष्य
 :::
 
-शिष् + वि 7P विशिनष्टि : unterscheiden &lt;!-- TODO: Fallback translation --&gt;
+शिष् + वि 7P विशिनष्टि : различава
 
 ::: indent
-Pass. विशिष्यते : sich unterscheiden von (पञ्चम्या, तृतीयया), besser sein als (पञ्चम्या, तृतीयया), der beste sein unter (षष्ठ्या, सप्तम्या) &lt;!-- TODO: Fallback translation --&gt;
+Пас. विशिष्यते : различава се от (पञ्चम्या, तृतीयया), по-добър от (पञ्चम्या, तृतीयया), най-добър сред (षष्ठ्या, सप्तम्या)
 :::
 
-समान 3: gleichartig, gleich, ähnlich ; m.: Altersgenosse &lt;!-- TODO: Fallback translation --&gt;
+समान 3: еднакъв, равен, подобен ; m.: съровесник
 
-स्व 3: eigen, sein (mein, dein etc.) Wird wie सर्व dekliniert. Im Abl.Lok.sg.m.n und im Nom.pl.m kann es auch wie देव dekliniert werden: &lt;!-- TODO: Fallback translation --&gt;
+स्व 3: собствен, свой (мой, твой и т.н.) Склонява се като सर्व. В аблатив-локатив единствено число m.n и в номинатив множествено число m може да се склонява и като देव:
 
 ::: indent
-Abl.sg.m.n स्वस्मात् । स्वात्   &lt;!-- TODO: Fallback translation --&gt;
+Абл.ед.м.н. स्वस्मात् । ***स्वात्***
+Лок.ед.м.н. स्वस्मिन् । ***स्***वे
+Им.мн.м. स्वे । ***स्वास्***
 :::
 
-गर्ह् 1Ā गर्हते 10P गर्हयति : schelten, tadeln &lt;!-- TODO: Fallback translation --&gt;
+गर्ह् 1А गर्हते 10П गर्हयति : обругавам, порицавам
 
 ::: indent
-Perf I जगर्हे   &lt;!-- TODO: Fallback translation --&gt;
+Перф. I जगर्हे
+Фут. गर्हिष्यते
+PPP गर्हित
 :::
 
-पिशित n.: (zubereitetes) Fleisch &lt;!-- TODO: Fallback translation --&gt;
+पिशित н.: (подготвена) месо
 
 ::: media
-![]/images/lekt5108.jpg
-Abb.: पिशितम्  
-Kolkata = কলকাতা   
-\[Bildquelle: nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]  &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5108.jpg)
+Ик.: पिशितम्
+Калкута = কলকাতা
+(Източник на изображението: [Подробности](/bg/licenses#lekt5108))
 :::
-उपहार m.: Darbringung, Opfer, Geschenk &lt;!-- TODO: Fallback translation --&gt;
+उपहार м.: принасяне, жертвоприношение, дар
 
-मधु n.: Honig, Süßtrank, Met (Honigwein) &lt;!-- TODO: Fallback translation --&gt;
+मधु н.: мед, сладка напитка, медовина (медено вино)
 
 ::: media
-![]/images/lekt5109.jpg
-Abb.: मधु  
-City Palace, उदयपुर  
-\[Bildquelle: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5109.jpg)
+Ик.: मधु
+Дворецът City Palace, उदयपुर
+(Източник на изображението: [Подробности](/bg/licenses#lekt5109))
 :::
-मांस n.: Fleisch &lt;!-- TODO: Fallback translation --&gt;
+मांस н.: месо
 
-मृगया f.: Jagd &lt;!-- TODO: Fallback translation --&gt;
+मृगया ж.: лов
 
 ::: media
-![]/images/lekt5110.jpg
-Abb.: मृगया  
-Jagd mit चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812  
-\[Bildquelle: Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5110.jpg)
+Ик.: मृगया
+Лов с चीता (_Acinonyx jubatus venaticus*) Гуджарат = ગુજરાત, 1812
+(Източник на изображението: [Подробности](/bg/licenses#lekt5110))
 :::
-शिवा f.: (weibl.) Schakal (Goldschakal = _Canis aureus_) &lt;!-- TODO: Fallback translation --&gt;
+शिवा ж.: (женски) шакал (златен шакал = _Canis aureus_)
 
 ::: media
-![]/images/lekt5111.jpg
-Abb.: शिवा (Weibchen?)  
-_Canis aureus_, Kalatop Khajjiar Sanctuary  
-\[Bildquelle: gautamnguitar. -- [http://www.flickr.com/photos/gautamnguitar/2181211040/](http://www.flickr.com/photos/gautamnguitar/2181211040/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]    &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5111.jpg)
+Ик.: शिवा
+_Canis aureus*, Свещен резерват Калатоп Кхаджиар
+(Източник на изображението: [Подробности](/bg/licenses#lekt5111))
 :::
-रुत n.: Geschrei &lt;!-- TODO: Fallback translation --&gt;
+रुत н.: вик, крясък
 
-कौशिक m.: Eule &lt;!-- TODO: Fallback translation --&gt;
+कौशिक м.: сова
 
 ::: media
-![]/images/lekt5112.jpg
-Abb.: कौशिकः  
-Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા  
-\[Bildquelle: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5112.jpg)
+Ик.: कौशिकः
+Браhma-сова (_Athene brama*), Мехесана = મહેસાણા
+(Източник на изображението: [Подробности](/bg/licenses#lekt5112))
 :::
-शकुनि m.: Vogel &lt;!-- TODO: Fallback translation --&gt;
+शकुनि м.: птица
 
-श्वन् m.: Hund &lt;!-- TODO: Fallback translation --&gt;
+श्वन् м.: куче
 
 ::: indent
-starker Stamm श्वान्   &lt;!-- TODO: Fallback translation --&gt;
+силен корен श्वान्
+слаб корен пред гласна सुन्
+слаб корен пред съгласна श्व
 :::
 
 ::: media
-![]/images/lekt5113.jpg
-Abb.: श्वा लिङ्गं च  
-Karnataka = ಕರ್ನಾಟಕ  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5113.jpg)
+Ик.: श्वा लिङ्गं च
+Карнатака = ಕರ್ನಾಟക
+(Източник на изображението: [Подробности](/bg/licenses#lekt5113))
 :::
-परिचित 3: vertraut, bekannt &lt;!-- TODO: Fallback translation --&gt;
+परिचित 3: познат, известен
 
-अटवी f.: Wald &lt;!-- TODO: Fallback translation --&gt;
+अटवी ж.: гора
 
-शून्य 3: leer, öde &lt;!-- TODO: Fallback translation --&gt;
+शून्य 3: празен, пуст
 
-आपान(क) n.: Zechgelage &lt;!-- TODO: Fallback translation --&gt;
+आपान(क) н.: пиянство, пируване
 
 ::: media
-![]/images/lekt5114.jpg
-Abb.: आपानकम्  
-जोधपुर &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5114.jpg)
+Ик.: आपानकम्
+जोधपुर
+(Източник на изображението: [Подробности](/bg/licenses#lekt5114))
 :::
-::: indent
-Abb.: "Graphische Darstellung für die Berechnung der fruchtbaren Tage nach OGINO bei 26- bis 30tägigen Zyklusintervallen; gelbe Kästchen: maximale Lebensdauer der Spermien; blaue Kästchen: »Ovulationstermin«; a) 26tägiges Zyklusintervall: fruchtbare Tage vom 8. bis 15. Zyklustag; b) 30tägiges Zyklusintervall: fruchtbare Tage vom 12. bis 19. Zyklustag. Der untenstehende Pfeil #(pfb) gibt die fruchtbaren Tage für Zyklusintervalle von 26 bis 30 Tagen an = 8. bis 19. Zyklustag" \[Quelle für Text und Bild: Roche Lexikon Medizin. --  4.Auflage. -- München :  Urban & Fischer Verlag, ©1984. -- Online: [http://www.gesundheit.de/roche/ro20000/r20172.html](http://www.gesundheit.de/roche/ro20000/r20172.html). -- Zugriff am 2003-12-16\] &lt;!-- TODO: Fallback translation --&gt;
+क्रूर 3: груб, жесток
 
-Fut. शेक्ष्यति   &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-क्रूर 3: roh, grausam &lt;!-- TODO: Fallback translation --&gt;
-
-दिह् 2U देग्धि, दिग्धे : bestreichen, beschmieren &lt;!-- TODO: Fallback translation --&gt;
+दिह् 2У देग्धि, दिग्धे : намазвам, размазвам
 
 ::: indent
-Perf. II दिदेह   &lt;!-- TODO: Fallback translation --&gt;
+Перф. II दिदेह
+Фут. धेक्ष्यति
+Пас. दिह्यते
+Кауз. देहयति
+PPP दिग्ध
 :::
 
-विष n.: Gift &lt;!-- TODO: Fallback translation --&gt;
+विष н.: отрова
 
 ::: media
-![]/images/lekt5115.jpg
-Abb.: मूषिकाविषाणि (मूषिका f. Maus, Ratte)  
-Bangalore = ಬೆಂಗಳೂರು  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/387955362/](http://www.flickr.com/photos/mattlogelin/387955362/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5115.jpg)
+Ик.: मूषिकाविषाणि
+Бангалор = ಬೆಂಗಳೂರು
+(Източник на изображението: [Подробности](/bg/licenses#lekt5115))
 :::
-भुजंग m.: Schlange &lt;!-- TODO: Fallback translation --&gt;
+भुजंग м.: змия
 
 ::: media
-![]/images/lekt5116.jpg
-Abb.: भुजंगः  
-Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು  
-\[Bildquelle: teemus. -- [http://www.flickr.com/photos/teemus/455664680/](http://www.flickr.com/photos/teemus/455664680/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5116.jpg)
+Ик.: भुजंगः
+Змиевидна отровна змия (_Daboia russelii_), Бангалор = ಬೆಂಗಳೂರು
+(Източник на изображението: [Подробности](/bg/licenses#lekt5116))
 :::
-सायक m.: Pfeil &lt;!-- TODO: Fallback translation --&gt;
+सायक м.: стрела
 
-उत्साद m.: Zugrundegehen &lt;!-- TODO: Fallback translation --&gt;
+उत्साद м.: гибел, загиване
 
-कलत्र Neutrum: Ehefrau, Weibchen &lt;!-- TODO: Fallback translation --&gt;
+कलत्र ***Неутрум***: съпруга, женска
 
-बन्दी f.: Gefangene, Raub &lt;!-- TODO: Fallback translation --&gt;
+बन्दी ж.: пленница, плячка
 
-योषित् f.: junge Frau, Mädchen &lt;!-- TODO: Fallback translation --&gt;
+योषित् ж: млада жена, момиче
 
-शार्दूल m. = व्याघ्र m. &lt;!-- TODO: Fallback translation --&gt;
+शार्दूल м. = व्याघ्र м.
 
-रुधिर n.: Blut &lt;!-- TODO: Fallback translation --&gt;
+रुधिर н.: кръв
 
-अर्चन n.  अर्चना f. = पूजा f. &lt;!-- TODO: Fallback translation --&gt;
+अर्चन н. अर्चना ж. = पूजा ж.
 
-बलि m.:  Abgabe, Spende, Tribut &lt;!-- TODO: Fallback translation --&gt;
+बलि м.:  данък, дар, трибут
 
-मणि m.: Juwel &lt;!-- TODO: Fallback translation --&gt;
+मणि м.: скъпоценен камък
 
 ::: media
-![]/images/lekt5118.jpg
-Abb.: मणिः  
-Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC  
-\[Bildquelle: David Bjorgen / Wikipedia. GNU FDLicense\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5118.jpg)
+Ик.: मणिः
+Тъмносиният диамант от Гунтур = ಗುಂಡೂರು, днес Смитсоновият музей за естествена история, Вашингтон DC
+(Източник на изображението: [Подробности](/bg/licenses#lekt5118))
 :::
-वन n.: Wald &lt;!-- TODO: Fallback translation --&gt;
+वन н.: гора
 
-मद m.: auch "Brunstsaft" eines Elefanten (im [Musht](http://en.wikipedia.org/wiki/Musth)) &lt;!-- TODO: Fallback translation --&gt;
+मद м.: също „секрет“ на слон (в [Муст](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
-![]/images/lekt5117.jpg
-Abb.: मदः  
-\[Bildquelle: muzina\_shanghai. -- [http://www.flickr.com/photos/muzina\_shanghai/2408592293/](http://www.flickr.com/photos/muzina_shanghai/2408592293/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5117.jpg)
+Ик.: मदः
+(Източник на изображението: [Подробности](/bg/licenses#lekt5117))
 :::
-राग m.: auch: Farbe, rote Farbe &lt;!-- TODO: Fallback translation --&gt;
+राग м.: също: цвят, червен цвят
 
-कालन n.: Wald &lt;!-- TODO: Fallback translation --&gt;
+कालन н.: гора
 
-खन् 1U खनति : graben &lt;!-- TODO: Fallback translation --&gt;
+खन् 1У खनति : копаю
 
 ::: indent
-Absol खनित्वा । खात्वा &lt;!-- TODO: Fallback translation --&gt;
+Перф. चखान, चखने
+Фут. खनिष्यति
+Кауз. खानयति
+PPP खात
+Абсол खनित्वा । खात्वा
 :::
 
-चिन्त् 10 चिन्तयति : denken, nachdenken &lt;!-- TODO: Fallback translation --&gt;
+चिन्त् 10 चिन्तयति : мисля, разсъждавам
 
-शबर .:  Eigenname eines nichtarischen Stammes &lt;!-- TODO: Fallback translation --&gt;
+शबर .:  собствено име на неарийски народ
 
 ## 51.7. Упражнение за превод
 
 १. कौटिलीयार्थशास्त्र १, ३, ९ - १२ आश्रमधर्मः
 
 गृहस्तस्य स्वधर्माजीवस्तुल्यैरसमानार्षिभिर्वैवाह्यमृतुगामित्वं देवपित्रातिथिपूजा भृत्येषु त्यागः शेषभोजनं च ।९।  
-ब्रह्मचारिणः स्वाध्यायो ऽग्निकार्याभिषेकौ भैक्षाव्रतित्वमाचार्ये प्राणान्तिकी वृत्तिस्तदभावे गुरुपुत्रे सब्रह्मचारिणि वा ।१०।  
-वानप्रस्थस्य ब्रह्मचर्यं भूमौ शय्या जाटाजिनधारणमग्निहोत्राभिषेकौ देवतापित्रतिथिपूजा वन्यश्चाहारः ।११।  
+ब्रह्मचारिणः स्वाध्यायो ऽग्निकार्याभिषे***कौ*** भैक्षाव्रतित्वमाचार्ये प्राणान्तिकी वृत्तिस्तदभावे गुरुपुत्रे सब्रह्मचारिणि वा ।१०।  
+वानप्रस्थस्य ब्रह्मचर्यं भूमौ शय्या जाटाजिनधारणमग्निहोत्राभिषे***कौ*** देवतापित्रतिथिपूजा वन्यश्चाहारः ।११।  
 प्रव्राजकस्य जितेन्द्रियत्वमनारम्भो निष्किंचनत्वं सङ्गत्यागो भैक्षाव्रतमनेकत्रारण्ये च वासो बाह्याभ्यन्तरं च शौचम् ॥१२॥
 
-Erklärung: -अभिषेकौ Nom.Akk.Vok.Dual.mask. (Dualdvandva) &lt;!-- TODO: Fallback translation --&gt;
+Обяснение: -अभिषेकौ Именител/Обектен/Звателен дуал, мъжки род (дуалдвандва)
 
-२. कौटिलीयार्थशास्त्र १, ३, १६ - १७ Über die Notwendigkeit des Achtens auf den वर्नाश्रमधर्म &lt;!-- TODO: Fallback translation --&gt;
+२. कौटिलीयार्थशास्त्र १, ३, १६ - १७ Относно необходимостта от спазване на वर्नाश्रमधर्म
 
 ::: indent
 तस्मात्स्वधर्मं भूतानाम्
@@ -498,50 +639,48 @@ Erklärung: -अभिषेकौ Nom.Akk.Vok.Dual.mask. (Dualdvandva) &lt;!-- 
 प्रसीदति न सीदति ॥१७॥
 :::
 
-३. बाण (7. Jhdt. n. Chr.): कादम्बरी ed. K.P. Parab, 1896, S. 65ff.: Überlegungen des Papagei वैशम्पायन über das Jägerdasein: &lt;!-- TODO: Fallback translation --&gt;
+३. बाण (VII век сл. Хр.): कादम्बरी изд. К.П. Параб, 1896, стр. 65 сл.: Разсъждения на папагала वैशम्पायन относно живота на ловеца:
 
 आसीच्च मे मनसि -- अहो मोहप्रायमेतेषां जीवितं साधुजनगर्हितं च चरितम् । तथा हि । पुरुषपिशितोपहारे धर्मबुद्धिः , अहारः साधुजनगर्हितो मधुमांसादिः , श्रमो मृगया , शास्त्रं शिवारुतम् , समुपदेष्टारः सद्सतां कौशिकाः , प्रज्ञा शकुनिज्ञानम् , परिचिताः श्वानः , राज्यं शून्यास्वटवीषु , आपानकमुत्सवः , मित्राणि क्रुरकर्मसाधनानि धनूंषि , सहाया विषदिग्धमुखा भुजंगा इव सायकाः , गीतमुत्सादकारि मुग्धमृगाणाम् , कलत्राणि बन्दीगृहीताः परयोषितः , क्रूरात्मभिः शार्दूलैः सह संवासः , पशुरुधिरेण देवतार्चनम् , मांसेन बलिकर्म , चौर्येण जीवनम् , भूषणानि भुजंगमणयः , वनकरिमदैरङ्गरागः , यस्मिन्नेव कानने निवसन्ति तदेवोत्ख्यातमूलमशेषतः कुर्वत इति चिन्तयत्येव मयि शबरसेनापतिः समुपाविशत् ॥
 
-४. Kommentar des भानुचन्द्र (16. Jhdt.) zu vorhergehendem Abschnit der कादम्बरी (diese Упражнение sollte unter Anleitung eines Lehrers übersetzt werden. Ist ein solcher nicht verfügbar, kann man sie übergehen) &lt;!-- TODO: Fallback translation --&gt;
+४. Коментар на भानुचन्द्र (XVI век) към предходния раздел на कादम्बरी (това упражнение трябва да бъде преведено под ръководството на учител. Ако такъв не е наличен, може да бъде пропуснато)
 
 आसीच्चेति । मे मम मनसि चित्त आसीद्बभूव । खेद इति शेषः । तदेव दर्शयति -- अहो इत्यादिना । अहो इत्याश्चर्ये । एतेषां भिल्लानां जीवितं प्राणितं मोहो ऽज्ञानं प्रायं प्रचुरं यत्र तादृशम् । चः पुनरर्थे । चरितमाचरणं साधुजनैः सज्जनजनैर्गर्हितं निन्दितम् । तदेव विशेषतो दर्शयति -- तथा हीति । पुरुषेति । पुरुषस्य पुंसो यत्पिशितं मांसं तस्य य उपहारो भगवत्यै नैवेद्यदर्शनं तस्मिन्धर्मबुद्धिः श्रेयोधीः । आहार इति । आहारः प्रत्यवसानं साधुजनैर्गर्हितो निन्दितो मधुमांसादिर्मधुः मद्यं माक्षिकं वा । मांसं प्रतीतम् । ते आदौ यस्येति बहुव्रीहिः । आदिशब्दात्कन्दादिपरिग्रहः । श्रम इति । श्रमः शक्तिसाधनायासो मृगयाखेटकः । शास्त्रमिति । शिवा सृगाली तस्य रुतं शब्दितं शास्त्रमुच्चस्वरवेदपाठः । प्रबोधजनकत्वसाम्यात्तदुपमानम् । सदिति । सदसतां शुभाशुभानां समुपदेष्टारो बोधकाः कौशिका उलूकाः । प्रज्ञेति । शकुनयः पत्त्रिणस्तेषां स्थूलमहत्त्वादिना ज्ञानं तदेव प्रज्ञा विवेकबुद्धिः । परीति । श्वानः सारमेयाः परिचिता विश्वासपालत्राणि । राज्यमिति । शून्यासु जनरहितासु विन्ध्याटवीषु राज्यं स्वामित्वम् । आपानकेति । उत्सवः संतुष्टिकार्यं तदेवापानमेवापानकम् । स्वार्थे कः । पानगोष्ठिका । मित्राणीति । क्रूरं यत्कर्म तत्साधनानि तद्धेतुभूतानि धनूंष्येव चापान्येव मित्राणि सहृदः । हितचिन्तकानीति यावत् । सहाया इति । विषेण दिग्धं मुखमाननं येषामेवंविधाः सायका बाणास्त एव सहाया इष्टकार्यकर्तृत्वात्साहाय्यकारिणः । क इव । भुजंगाः सर्पा इव । एतेषां विषदिग्धमुखत्वं स्वाभाविकम् । तेषामौपाधिकमिति भावः । गीतमिति । मुग्धा अनभिज्ञा ये मृगा हरिणास्तेषामुत्साहकारि स्तब्धताविधायि गीतं गानम् । कलत्रेति । परयोषितो ऽन्यस्त्रिय एव बन्दी ग्रहकस्तद्रूपत्वेन गृहीताः स्त्रीकृताः कलत्राणि स्वपत्न्यः । क्रूरेति । क्रूरात्मभिर्दुष्टात्मभिः शार्दुलैश्चित्रकैः समं संवासः सहावस्थानम् । पश्वेति । पशवो महिषास्तेषां रुधिरेण रक्तेन देवतार्चनं देवपूजनम् । मांसेनेति । मांसेन पिशितेन बलिर्हन्तकरस्तत्कर्म तत्कृत्यम् । चौर्येणेति । चौर्येण परद्रव्यापहारेण जीवनं प्राणधारणम् । भूषणनीति । भूषणान्याभरणानि भुजंगमणयः सर्परत्नानि । पर्वतवासित्वात्तेषां ते सुलभा इति भावः । वनेति । वनकरिणामरण्यहस्तिनां मदैर्दानवारिभिरङ्गरागो विलेपनम् । यस्मिन्निति । अनिर्दिष्टनामनि कानने वने निवसन्ति निवासं कुर्वन्ति तदेव काननमशेषतः समग्रत उत्खातमुत्पाटितं मूलं मध्यभागो यस्यैवंभूतं कुर्वते विदधत इति पूर्वोक्तप्रकारेण मयि चन्तयति ध्यायति सत्येव ... ॥
 
 ::: deleteme-box
 
-### Източници
+**lekt5101:** ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008) [Източник на изображението: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Достъп на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Приписване)]
 
-**lekt5101:** ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008) [Bildquelle: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5103:** भरतपुर, राजस्थान [Източник на изображението: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- Достъп на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Приписване)]
 
-**lekt5103:** भरतपुर, राजस्थान [Bildquelle: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5102:** नेपाल [Източник на изображението: amanderson2. -- [http://www.flickr.com/photos/amanderson/2420198291/](http://www.flickr.com/photos/amanderson/2420198291/). -- Достъп на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Приписване)]
 
-**lekt5102:** नेपाल [Bildquelle: amanderson2. -- [http://www.flickr.com/photos/amanderson/2420198291/](http://www.flickr.com/photos/amanderson/2420198291/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5104:** पुष्कर [Източник на изображението: calamur. -- [http://www.flickr.com/photos/gargi/360186369/](http://www.flickr.com/photos/gargi/360186369/). -- Достъп на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, некомърсиално използване, без производни произведения)]
 
-**lekt5104:** पुष्कर [Bildquelle: calamur. -- [http://www.flickr.com/photos/gargi/360186369/](http://www.flickr.com/photos/gargi/360186369/). -- Zugriff am2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5105:** [Източник на изображението: Уикипедия, обществено достояние]
 
-**lekt5105:** [Bildquelle: Wikipedia, public domain] <!-- TODO: Fallback translation -->
+**lekt5107:** ऋषिकेश [Източник на изображението: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Достъп на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Приписване, некомърсиално използване, споделяне на споделеното)]
 
-**lekt5107:** ऋषिकेश [Bildquelle: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5108:** Калкута = কলকাতা [Източник на изображението: nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- Достъп на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Приписване, некомърсиално използване, споделяне на споделеното)]
 
-**lekt5108:** Kolkata = কলকাতা [Bildquelle: nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5109:** Дворецът City Palace, उदयपुर [Източник на изображението: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- Достъп на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Приписване, некомърсиално използване, споделяне на споделеното)]
 
-**lekt5109:** City Palace, उदयपुर [Bildquelle: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5110:** Лов с चीता (_Acinonyx jubatus venaticus*) Гуджарат = ગુજરાત, 1812 [Източник на изображението: Уикипедия. Обществено достояние]
 
-**lekt5110:** Jagd mit चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5111:** _Canis aureus*, Свещен резерват Калатоп Кхаджиар [Източник на изображението: gautamnguitar. -- [http://www.flickr.com/photos/gautamnguitar/2181211040/](http://www.flickr.com/photos/gautamnguitar/2181211040/). -- Достъп на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, некомърсиално използване, без производни произведения)]
 
-**lekt5111:** _Canis aureus_, Kalatop Khajjiar Sanctuary [Bildquelle: gautamnguitar. -- [http://www.flickr.com/photos/gautamnguitar/2181211040/](http://www.flickr.com/photos/gautamnguitar/2181211040/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5112:** Браhma-сова (_Athene brama*), Мехесана = મહેસાણા [Източник на изображението: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Достъп на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, некомърсиално използване, без производни произведения)]
 
-**lekt5112:** Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Bildquelle: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5113:** Карнатака = ಕರ್ನಾಟക [Източник на изображението: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Посетено на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Приписване, некомърсиална употреба)]
 
-**lekt5113:** Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt5114:** जोधपुर
 
-**lekt5114:** जोधपुर <!-- TODO: Fallback translation -->
+**lekt5115:** Бангалор = ಬೆಂಗಳೂರು [Източник на изображението: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/387955362/](http://www.flickr.com/photos/mattlogelin/387955362/). -- Посетено на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Приписване, некомърсиална употреба)]
 
-**lekt5115:** Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/387955362/](http://www.flickr.com/photos/mattlogelin/387955362/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt5116:** Змиевидна отровна змия (_Daboia russelii_), Бангалор = ಬೆಂಗಳೂರು [Източник на изображението: teemus. -- [http://www.flickr.com/photos/teemus/455664680/](http://www.flickr.com/photos/teemus/455664680/). -- Посетено на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Приписване, некомърсиална употреба, споделено под еднакъв лиценз)]
 
-**lekt5116:** Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Bildquelle: teemus. -- [http://www.flickr.com/photos/teemus/455664680/](http://www.flickr.com/photos/teemus/455664680/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5118:** Тъмносиният диамант от Гунтур = ಗುಂಡೂರು, днес Смитсоновият музей за естествена история, Вашингтон DC [Източник на изображението: David Bjorgen / Wikipedia. Лиценз GNU FDLicense]
 
-**lekt5118:** Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC [Bildquelle: David Bjorgen / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5117:** [Bildquelle: muzina\_shanghai. -- [http://www.flickr.com/photos/muzina\_shanghai/2408592293/](http://www.flickr.com/photos/muzina_shanghai/2408592293/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5117:** [Източник на изображението: muzina\_shanghai. -- [http://www.flickr.com/photos/muzina\_shanghai/2408592293/](http://www.flickr.com/photos/muzina_shanghai/2408592293/). -- Посетено на 2009-01-13. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Приписване, некомърсиална употреба, споделено под еднакъв лиценз)]
 
 :::

@@ -10,16 +10,18 @@ last_reconstructed: 2026-05-21
 ::: media
 ![](/images/lekt2004.jpg)
 Fig.: बहुव्रीहिः पुरुषः
-(Fuente de la imagen: [Detalles](/licenses#lekt2004))
+Jodhpur = जोधपुर
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2004))
 :::
 
-बहुव्रीहिः = बहवो व्रीहयो यस्य सः = "aquel que posee mucho arroz"
+
+बहुव्रीहिः = बहवो व्रीहयो यस्य सः = "uno que posee mucho arroz"
 
 :::: grammar-box
 
-**Un Bahuvrīhi designa, a diferencia de un Tatpuruṣa, algo distinto de lo que expresan sus miembros: mientras बालपुत्रः como Tatpuruṣa se resuelve en "un hijo joven", es decir, algo expresado por el último miembro del compuesto (पुत्र), बालपुत्रः como Bahuvrīhi se resuelve en "aquel cuyo hijo es joven", es decir, el designado no es ni el hijo (पुत्र) ni necesariamente joven (बाल), sino una persona distinta del hijo joven, a saber, su padre.**
+**Un Bahuvrīhi designa, a diferencia de un Tatpuruṣa, algo distinto de lo que expresan sus miembros: mientras बालपुत्रः como Tatpuruṣa resuelto significa "un hijo joven", es decir, algo expresado por el último miembro del compuesto (पुत्र), बालपुत्रः como Bahuvrīhi resuelto significa "uno cuyo hijo es joven", es decir, lo designado no es ni el hijo (पुत्र) ni necesariamente joven (बाल), sino una persona distinta del hijo joven, a saber, su padre.**
 
-**Los compuestos posesivos son inicialmente siempre adjetivos, aunque pueden sustantivarse. Por ello, el género gramatical de un Bahuvrīhi depende de a qué se refiere el Bahuvrīhi, y no del género del último miembro de la composición.**
+**Los compuestos posesivos son siempre adjetivos, aunque pueden sustantivarse. Por ello, el género gramatical de un Bahuvrīhi depende de a qué se refiere el Bahuvrīhi, y no del género del último miembro de la composición.**
 
 ::::
 
@@ -27,7 +29,7 @@ Fig.: बहुव्रीहिः पुरुषः
 
 **Esquema para la resolución de un Bahuvrīhi:**
 
-**1. Miembro anterior generalmente en nominativo (प्रथमा) singular, dual o plural -- 2. Miembro posterior en nominativo singular, dual o plural -- Pronombre relativo en un caso distinto al nominativo (generalmente genitivo - षष्ठी) y en género y número del Bahuvrīhi total -- Pronombre demostrativo en número, caso y género del Bahuvrīhi total.**
+**1. Miembro anterior generalmente en Nominativo (प्रथमा) Sing., Dual o Pl. -- 2. Miembro posterior en Nominativo Sing., Dual o Pl. -- Pronombre relativo en un caso distinto al Nominativo (generalmente Genitivo - षष्ठी) y en género y número del Bahuvrīhi total -- Pronombre demostrativo en número, caso y género del Bahuvrīhi total.**
 
 ::::
 
@@ -35,7 +37,7 @@ Ejemplos:
 
 
 ::: indent
-गतपापः = गतं पापं यस्य सः = "aquel cuyo mal se ha ido" = "aquel que está libre de malas acciones"
+गतपापः = गतं पापं यस्य सः = "uno cuyo mal se ha ido" = "uno libre de transgresiones"
 
 Ac. sg. गतपापम् = गतं पापं यस्य तम्
 
@@ -51,7 +53,7 @@ etc.
 
 प्राप्तोदको ग्रामः = प्राप्तमुदकं यं s ग्रामः = "Un pueblo al que ha llegado el agua" = "un pueblo amenazado por la inundación"
 
-पुण्यवत्पुत्रः como Bahuvrīhi = पुण्यवान्पुत्रो यस्य सः, o bien: पुण्यवन्तः पुत्रा यस्य सः = "aquel cuyo hijo posee mérito" o bien: "aquel cuyos hijos poseen mérito"
+पुण्यवत्पुत्रः como Bahuvrīhi = पुण्यवान्पुत्रो यस्य सः, o: पुण्यवन्तः पुत्रा यस्य सः = "uno cuyo hijo posee mérito" o: "uno cuyos hijos poseen mérito"
 :::
 
 :::: grammar-box
@@ -63,7 +65,7 @@ etc.
 *   **casual**
 *   **adverbial**
 
-**Al igual que en el Tatpuruṣa, el miembro determinado se encuentra generalmente en segunda posición.**
+**Como en el Tatpuruṣa, el miembro determinado se encuentra generalmente en segunda posición.**
 
 ::::
 
@@ -73,7 +75,7 @@ Tradicionalmente se distingue:
     
 *   व्यधिकरणबहुव्रीहिः : en विग्रहवाक्य el miembro anterior y el posterior están en casos distintos
 
-## 20.2. Bahuvrīhi con miembro anterior atributivo
+## 20.2. Bahuvrīhi con prefijo atributivo
 
 :::: grammar-box
 
@@ -86,10 +88,10 @@ Tradicionalmente se distingue:
 **Ejemplo:**
 
 ::: indent
-गुणवत्पुत्रो ब्राह्मणः = गुणवान्पुत्रो यस्य स ब्राह्मणः = «un brāhmaṇa cuyo hijo / hijos posee / poseen buenas cualidades»
+गुणवत्पुत्रो ब्राह्मणः =  गुणवान्पुत्रो यस्य स ब्राह्मणः = "un brahmán, cuyo hijo / hijos posee / poseen buenas cualidades"
 :::
 
-**Es particularmente frecuente la determinación atributiva mediante un participio pasado (PPP), algo raro en el Tatpuruṣa. Al resolver la composición, el pronombre relativo suele aparecer en instrumental (तृतीया) (menos frecuentemente en genitivo / षष्ठी).**
+**Particularmente frecuente es la determinación atributiva — rara en Tatpuruṣa — mediante un PPP. El pronombre relativo se encuentra entonces en la resolución generalmente en instrumental (तृतीया) (menos frecuentemente en genitivo / षष्ठी).**
 
 **Regla práctica:**
 
@@ -99,7 +101,7 @@ Tradicionalmente se distingue:
 **Ejemplo:**
 
 ::: indent
-कृतफल ३ = कृतं फलं यena सः । यया सा । यena तत् = «uno / una / uno, que / la que / lo que ha producido un resultado, alguien / algo eficaz»
+कृतफल ३ = कृतं फलं yeन सः । यया सा । yeन तत् = "uno / una / uno, que / quien / lo que ha producido un resultado, alguien / algo efectivo"
 :::
 
 ::::
@@ -117,37 +119,37 @@ Tradicionalmente se distingue:
 **Ejemplos:**
 
 ::: indent
-शूरपुत्रो नरः = शूरा एव पुत्रा यस्य स नरः = «un hombre cuyos hijos son héroes»
+शूरपुत्रो नरः = शूरा एव पुत्रा यस्य स नरः = "un hombre, cuyos hijos son héroes"
 
-तदन्त ३ = सो ऽन्तो यस्य सः । यस्याः सा । यस्य तत् = «el / la / lo cuyo final es este» = «que termina con esto»
+तदन्त ३ = सो ऽन्तो यस्य सः । यस्याः सा । यस्य तत् = "el / la / lo, cuyo final es este" = "que termina con esto"
 :::
 
 ::::
 
 :::: grammar-box
 
-**Son muy importantes los bahuvrīhi aposicionales con los miembros finales आदि । आदिक । आद्य «primero, principio», y con menos frecuencia प्रभृति «principio». Tales compuestos equivalen a «etc.»:**
+**Muy importantes son los Bahuvrīhi aposicionales con los miembros finales आदि । आदिक । आद्य "primero, principio", raramente प्रभृति "principio". Tales compuestos equivalen a "etc.":**
 
 **Ejemplo:**
 
 ::: indent
-देवा इन्द्रादयः =  इन्द्र आदिर्येषां ते देवाः = «los dioses cuyo principio es Indra» = «los dioses, Indra, etc.» = «Indra y los demás dioses»
+देवा इन्द्रादयः =  इन्द्र आदिर्येषां ते देवाः = "los dioses, cuyo principio es Indra" = "los dioses Indra etc." = "Indra y los demás dioses"
 :::
 
-**Para expresar «solo», se pueden usar bahuvrīhi con मात्रा f. «medida, límite» como miembro final:**
+**Para expresar "solo" se pueden usar bahuvrīhis con मात्रा f. "medida, límite" como miembro final:**
 
 **Ejemplo:**
 
 ::: indent
-शब्दमात्रम् = शब्दो मात्रा यस्य तत् = «lo cuya medida es una palabra» = «solo una palabra»
+शब्दमात्रम् = शब्दो मात्रा यस्य तत् = "aquello, cuya medida es una palabra" = "solo una palabra"
 :::
 
-**मात्रa continuación de un participio pasado (PPP) debe traducirse como «en cuanto»:**
+**मात्र después de un PPP debe traducirse como "tan pronto como":**
 
 **Ejemplo:**
 
 ::: indent
-जातमात्रं शत्रुं घ्नन्ति = जातं मात्रा यस्य तं शत्रुं घ्नन्ति = «matan a un enemigo cuya medida es el surgir» = «matan al enemigo en cuanto ha surgido»
+जातमात्रं शत्रुं घ्नन्ति = जातं मात्रा यस्य तं शत्रुं घ्नन्ति = "ellos matan a un enemigo, cuya medida es el surgir" = "matan al enemigo tan pronto como ha surgido"
 :::
 
 ::::
@@ -155,29 +157,30 @@ Tradicionalmente se distingue:
 ::: media
 ![](/images/lekt2005.jpg)
 Fig.: देवा यीश्वादयः
-(Fuente de la imagen: [Detalles](/licenses#lekt2005))
+Jesús y los demás dioses, Ahmedabad
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2005))
 :::
 
 ## 20.4. Bahuvrīhi con miembro anterior casual
 
-Es decir, un Bahuvrīhi cuyo primer componente ocupa la función de un caso distinto al nominativo (प्रथमा).
+es decir, Bahuvrīhi cuyo miembro anterior ocupa el caso del Nominativo (प्रथमा).
 
 Ejemplo:
 
 ::: indent
-देवरूपा = देवस्यैव रूपं यस्याः सा = «una (mujer) cuya figura es la de una divinidad» «una mujer de apariencia divina»
+देवरूपा = देवस्यैव रूपं यस्याः सा = "una (mujer), cuya forma es la de una diosa" "una mujer de apariencia divina"
 :::
 
 :::: grammar-box
 
-**Excepción a la regla general sobre el orden de los componentes composicionales:**
+**Excepción a la regla general sobre el orden de los miembros de la composición:**
 
-**El componente casual ocupa la segunda posición cuando designa una parte del cuerpo (especialmente la mano):**
+**El miembro casual ocupa el segundo lugar, cuando designa una parte del cuerpo (especialmente la mano):**
 
 **Ejemplo:**
 
 ::: indent
-दण्डहस्तः =  दण्डो हस्ते (Lok. sg.) यस्य सः = «aquel en cuya mano hay un bastón» = «aquel que lleva un bastón en la mano.»
+दण्डहस्तः =  दण्डो हस्ते (Loc. sg.) यस्य सः = "aquel en cuya mano hay un bastón" = "aquel que lleva un bastón en la mano."
 :::
 
 ::::
@@ -185,29 +188,30 @@ Ejemplo:
 ::: media
 ![](/images/lekt2001.jpg)
 Fig.: इन्द्रो वज्रपाणिः
-(Fuente de la imagen: [Detalles](/licenses#lekt2001))
+Siemreap (ក្រុងសៀមរាប), Camboya, siglo IX d. C.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2001))
 :::
 
-## 20.5. Bahuvrīhi con elemento anterior adverbial
+## 20.5. Bahuvrīhi con prefijo adverbial
 
-En el elemento anterior se encuentra un adverbio, una preposición, un prefijo verbal (préverbio) u otro indeclinable; tales compuestos son por lo general **नित्यसमास** (samāsa perpetuo).
+En el prefijo aparece un adverbio, una preposición, un prefijo verbal u otro indeclinable; tales compuestos son por lo general नित्यसमास.
 
 Ejemplos:
 
 ::: indent
-अपुत्रो नरः = पुत्रो यस्य नास्ति स नरः = «un hombre que no tiene hijo» = «un hombre sin hijos»
+अपुत्रो नरः = पुत्रो यस्य नास्ति स नरः = "un hombre que no tiene hijo" = "un hombre sin hijo"
 
-दुर्बल ३ = «alguien/algo cuya fuerza es deficiente» = «débil, frágil»
+दुर्बल ३ = "alguien / algo cuya fuerza es mala" = "sin fuerza, débil"
 :::
 
 :::: grammar-box
 
-**सह «con» como elemento anterior de un Bahuvrīhi suele sustituirse por स.**
+**सह "con" como prefijo de un Bahuvrīhi a menudo se sustituye por स.**
 
 **Ejemplo:**
 
 ::: indent
-सपुत्रः = सहपुत्रः = पुत्रेण सहितः । पुत्रेण सह् = «con un hijo», «acompañado por un hijo»
+सपुत्रः =  सहपुत्रः =  पुत्रेण सहितः । पुत्रेण सह् = "con un hijo", "acompañado por un hijo"
 :::
 
 ::::
@@ -215,125 +219,128 @@ Ejemplos:
 ::: media
 ![](/images/lekt2006.jpg)
 Fig.: सपुत्रा
-(Fuente de la imagen: [Detalles](/licenses#lekt2006))
+Madhya Pradesh
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2006))
 :::
 
 ## 20.6. Flexión del último miembro de un Bahuvrīhi
 
 :::: grammar-box
 
-**El último miembro de un Bahuvrīhi se declina como un adjetivo de género múltiple, independientemente de su género original. Por lo tanto, si en un compuesto el último miembro tiene un género diferente al suyo original, debe tratarse de un Bahuvrīhi, a menos que sea un Samāhāradvanva (Neutro singular).**
+**El último miembro de un Bahuvrīhi se declina como un adjetivo de género múltiple, independientemente de su género original. Por lo tanto, si en un compuesto el último miembro tiene un género diferente al suyo original, debe ser un Bahuvrīhi, a menos que sea un Samāhāradvanva (Neutro singular).**
 
-**En la adjetivación se producen las siguientes reglas:**
+**En la adjetivación se**
 
-*   **Las raíces en -ā se convierten en raíces en -a en el masculino y neutro.**
-*   **Las raíces en -a (m., n.) forman su femenino en -ā o -ī.**
-*   **Las raíces en -ī (f.) deben tomar el sufijo -ka, -kā, -ka (n.) al final de los Bahuvrīhis; este sufijo también puede o debe ser tomado por muchos otros Bahuvrīhis.**
+*   **las raíces en -ā se convierten en raíces en -a en el masculino y neutro**
+*   **las raíces en -a (m., n.) forman su femenino en -ā o -ī**
+*   **las raíces en -ī (f.) deben tomar el sufijo -ka, -kā, -ka (n.) al final de los Bahuvrīhis; este sufijo pueden o deben tomarlo también muchos otros Bahuvrīhis**
 
 ::::
 
 ## 20.7. Otra clasificación de los tipos de Bahuvrīhis
 
-Aquí se presentan los ejemplos para su posterior estudio; para algunos de ellos aún no se han tratado la gramática y el léxico necesarios.
+Los ejemplos se dan aquí para su posterior estudio; para algunos aún no se han tratado la gramática y el vocabulario necesarios
 
-1.  **Palabra calificativa en el primer miembro — palabra calificada en el segundo miembro:** स्थिरचित्तः = स्थिरं चित्तं यस्य सः
-2.  **Indeclinables en el primer miembro:** उच्चैःश्रवस्
-3.  **Comparación en el primer miembro:** कुशाग्रधीः = कुशाग्र इव धीर्यस्य सः
-4.  **Comparación implícita:** उष्ट्रमुखः = उष्ट्रस्य मुखमिव मुखं यस्य सः = "de boca de camello" = aquel cuya boca es como la de un camello
-5.  **Numerales como segundo miembro indicando cantidad aproximada:** उपसशाः = दशानां समीपे ये सन्ति ते = "aproximadamente diez"
-6.  **Ambos miembros son numerales:** एकद्वाः = एको वा द्वौ वा = "uno o dos"
-7.  **Con sa-/saha- en el primer miembro:** सपुत्रः । सहपुत्रः
-8.  **Con sa- (= समान, "igual") en el primer miembro:** सजनपदः = समानो जनपदो यस्य सः
-9.  **नञ्बहुव्रीहिः (Bahuvrīhi con negación) = con a-/an- en el primer miembro:** अपुत्रः = न विद्यते पुत्रो यस्य सः ; अनङ्गः = न विद्यते अङ्गं यस्य सः
-10. **Con preposición y similares en el primer miembro:** प्रवातः =प्रकृष्टो वातो यस्मिन् सः ; निर्धनः = निर्गतं धनं यस्मात्सः ; सुबुद्धिः = सुष्ठु बुद्धिर्यस्य सः ; दुर्बुद्धिः = दुष्टा बुद्धिर्यस्य सः
-11. **Designaciones direccionales para indicar direcciones intermedias:** पुर्वोत्तरा "noreste"
-12. **Participio pasado (PPP) como primer miembro:** कृतकटः = कृतः कटो येन सः
-13. **Y otros**
+1.  palabra calificativa en el primer miembro -- palabra calificada en el segundo miembro: स्थिरचित्तः = स्थिरं चित्तं यस्य सः
+2.  indeclinables en el primer miembro: उच्चैःश्रवस्
+3.  comparación en el primer miembro: कुशाग्रधीः =  कुशाग्र इव धीर्यस्य सः
+4.  comparación implícita: उष्ट्रमुखः = उष्ट्रस्य मुखमिव मुखं यस्य सः = "de boca de camello" = cuya boca es como la de un camello
+5.  numeral como segundo miembro con número aproximado: उपसशाः = दशानां समीपे ये सन्ति ते = "aproximadamente diez"
+6.  ambos miembros son numerales: एकद्वाः = एको वा द्वौ वा = "uno o dos"
+7.  con sa-/saha- en el primer miembro: सपुत्रः । सहपुत्रः
+8.  con sa- (= समान) en el primer miembro: सजनपदः = समानो जनपदो यस्य सः
+9.  नञ्बहुव्रीहिः = con a-/an- en el primer miembro: अपुत्रः = न विद्यते पुत्रो यस्य सः ; अनङ्गः = न विद्यते अङ्गं यस्य सः
+10.  con preposición y similares en el primer miembro: प्रवातः =प्रकृष्टो वातो यस्मिन् सः ; निर्धनः = निर्गतं धनं यस्मात्सः ; सुबुद्धिः = सुष्ठु बुद्धिर्यस्य सः ; दुर्बुद्धिः = दुष्टा बुद्धिर्यस्य सः
+11.  designaciones direccionales para indicar direcciones intermedias: पुर्वोत्तरा "noreste"
+12.  participio pasado como primer miembro: कृतकटः = कृतः कटो येन सः
+13.  y otros
 
 ::: media
 ![](/images/lekt2007.jpg)
 Fig.: कृतकटा
-(Fuente de la imagen: [Detalles](/licenses#lekt2007))
+Chennai = சென்னை
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2007))
 :::
 
 ## 20.8. Relación entre Bahuvrīhi y oración relativa
 
-Aunque todo Bahuvrīhi puede descomponerse en una oración relativa, no toda oración relativa puede sustituirse por un Bahuvrīhi. Hermann Georg Jacobi (1850-1937), quien estudió más detalladamente la relación entre ambos (Compositum und Nebensatz, 1897), escribe:
+Aunque cada Bahuvrīhi puede resolverse mediante una oración relativa, no toda oración relativa puede ser sustituida por un Bahuvrīhi. Hermann Georg Jacobi (1850 - 1937), quien ha examinado más de cerca la relación entre ambos (Compositum und Nebensatz, 1897), escribe:
 
 ::: indent
-«Al traducir del alemán u otra lengua moderna al sánscrito, no todos los subordinados pueden ser reproducidos mediante compuestos, sino únicamente los ornamentales y descriptivos; aquellos, sin embargo, que contienen una determinación conceptualmente necesaria o importante, aparecen también en el sánscrito como oraciones relativas.»
+"Cuando se traduce del alemán o de otra lengua moderna al sánscrito, no todas las oraciones subordinadas pueden ser expresadas mediante compuestos, sino solo las ornamentales y descriptivas; aquellas, sin embargo, que contienen una determinación conceptualmente necesaria o importante, aparecen también en el sánscrito como oraciones relativas."
 :::
 
 ::: media
 ![](/images/lekt2002.jpg)
 Fig.: Hermann Jacobi
-(Fuente de la imagen: [Detalles](/licenses#lekt2002))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2002))
 :::
 
-Esto puede ser cierto. Sin embargo, los indios consideran entonces muchas cosas como ornamentales y descriptivas, lo que nosotros consideraríamos como «conceptualmente necesario o importante».
+Esto puede ser cierto. Sin embargo, los indios ven entonces muchas cosas como ornamentales y descriptivas, lo que nosotros consideraríamos como "conceptualmente necesario o importante".
 
-## 20.9. Lista de vocabulario
+## 20.9. Lista de palabras
 
 वा : o
 
-आश्रम m., n.: eremitorio, etapa de la vida, fase vital (a saber: como ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ y posiblemente como सन्न्यासिन्; véase Basham, Wonder, p. 159 ss.)
+आश्रम m., n.: eremitorio, etapa de vida, fase de la vida (a saber como ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ y posiblemente como सन्न्यासिन् ; véase Basham, Maravillas p. 159s.)
 
 ::: media
 ![](/images/lekt2008.jpg)
 Fig.: आश्रमः
-(Fuente de la imagen: [Detalles](/licenses#lekt2008))
+Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2008))
 :::
 
 
 कर ३ f. करी । करा : actuando, haciendo, causando
 
-कर m.: mano (relacionado con कृ 8)
+कर m.: mano (para कृ 8)
 
-कर m.: impuesto, tributo, contribución (no relacionado con कृ, sino probablemente un préstamo lingüístico del tamil - தமிழ्)
+कर m.: contribución, tributo, impuesto (no relacionado con कृ, sino probablemente un préstamo del tamil - தமிழ்)
 
-क्रिया f.: acción, acción sagrada, acto ritual, ceremonia (relacionado con कृ 8)
+क्रिया f.: acción, acción sagrada, acto de sacrificio, ceremonia (para कृ 8)
 
-अधि Prefijo verbal: sobre, encima, er-, con relación a
+अधि prefijo verbal: sobre, hacia arriba, er-, con referencia a 
 
 गम् +अधि 1 P अधिगच्छति : encontrar, llegar a, obtener
 
-तनूकृ 8 U तनूकरोति : reducir, debilitar
+तनूकृ 8 U तनूकरोति : disminuir, debilitar
 
 दायक ३ f.: दायिका : dando, concediendo
 
 नृप m.: "protector de los hombres" = rey
 
-प्रणिधान n.: aplicación, esfuerzo, atención hacia, servicialidad, reflexión, voto
+प्रणिधान n.: aplicación, esfuerzo, atención contra, servicialidad, reflexión, voto
 
-बाधना f.: angustia, molestia, tormento
+बाधना f.: angustia, plaga, tormento
 
-भार्या f.: "aquella que debe ser mantenida" = esposa
+भार्या f.: "la que debe ser mantenida" = esposa
 
-भावना f.: desarrollo meditativo (relacionado con भू en causativo)
+भावना f.: expansión meditativa (para भू causativo)
 
-मही f.: tierra, suelo
+मही f.: tierra, suelo y terreno
 
-लक्षण n.: signo, característica, atributo
+लक्षण n.: rasgo, signo, atributo
 
-विप्र m.: "tembloroso" = poeta, cantor, sacerdote, brahmán
+विप्र m.: "el que tiembla" = poeta, cantor, sacerdote, brahmán
 
 विषय m.: territorio, ámbito, objeto, objeto sensorial
 
-अपवर्ग m.: fin, liberación
+अपवर्ग m.: final, liberación
 
-नि Prefijo verbal: hacia abajo, abajo, dentro, hacia atrás
+नि prefijo verbal: hacia abajo, abajo, dentro, hacia atrás
 
-वृत् + नि 1 Ā निवर्तते : volver, regresar
+वृत् + नि 1 Ā निवर्तते : invertir, regresar
 
-सद् 1 P सीदati (!) Pass. सद्यते PPP सन्न : sentarse, instalarse
+सद् 1 P सीदति (!) pas. सद्यते PPP सन्न : sentarse, instalarse
 
 सद् + प्र 1 P प्रसीदति : sentarse, ser sentado (en sentido figurado) = volverse sereno, tranquilo, alegre; ser indulgente con alguien (genitivo षष्ठी)
 
-समाधि m.: concentración interior, máxima atención, "absorción" meditativa
+समाधि m.: concentración interior, máxima atención, "sumersión" meditativa
 
 स्वाध्याय m.: "autoestudio", recitación (especialmente del Veda), estudio védico
 
-परलौकिक ३ : concerniente al más allá, ulterior
+परलौकिक ३ : concerniente al más allá, trascendente
 
 तनु ३ : esbelto
 
@@ -349,15 +356,15 @@ Fig.: आश्रमः
 
 असित ३ : oscuro, negro
 
-ईक्ष् 1 Ā ईक्षते Pass. ईक्ष्यते PPP ईक्षित : ver
+ईक्ष् 1 Ā ईक्षते pas. ईक्ष्यते PPP ईक्षित : ver
 
-नम् 1 P नमति Pass. नम्यते PPP नत : inclinar
+नम् 1 P नमति pas. नम्यते PPP नत : doblar
 
-उद् Prefijo verbal: arriba, hacia arriba, hacia fuera, de, ex-
+उद् prefijo verbal: sobre, hacia arriba, hacia fuera, de, extra-
 
 नाभि f.: ombligo
 
-वपुस् n.: belleza, forma corporal (véase la declinación más adelante)
+वपुस् n.: belleza, forma corporal (para la declinación ver más tarde)
 
 स्त्री f.: mujer
 
@@ -365,19 +372,19 @@ Fig.: आश्रमः
 
 दरैद्र ३ : pobre
 
-ऋध् 5 P ऋध्नोति Pass. ऋध्यते PPP ऋद्ध : prosperar
+ऋध् 5 P ऋध्नोति pas. ऋध्यते PPP ऋद्ध : prosperar
 
 ऋध् + सम् : prosperar; PPP: logrado, rico
 
-विचित्र ३ : multicolor, diverso, hermoso, maravilloso, extraño
+विचित्र ३ : multicolor, variado, hermoso, maravilloso, extraño
 
-विधि m.(!): disposición, ley, norma; creación, destino
+विधि m.(!): orden, ley, norma; creación, destino
 
-चेष्ट् 1 Ā चेष्टते Pass. चेष्ट्यते PPP चेष्टित : moverse
+चेष्ट् 1 Ā चेष्टते pas. चेष्ट्यते PPP चेष्टित : moverse
 
-## Ejercicio 1
+## 20.10. Ejercicio 1
 
-Resuelva los siguientes compuestos (samāsa) como Bahuvrīhi y/o Dvandva y/o Tatpuruṣa, de todas las maneras que le parezcan posibles en sánscrito (excepción: compuestos con un primer miembro adverbial). Traduzca estos compuestos resueltos de distintas maneras al alemán, e indique el género, el caso y el número del compuesto total.
+Descomponga los siguientes compuestos como Bahuvrīhi y/o Dvandva y/o Tatpuruṣa de todas las formas que le parezcan posibles en sánscrito (excepción: compuestos con miembro anterior adverbial). Traduzca estos compuestos descompuestos de diversas maneras al alemán, indique el género, caso y número del compuesto total.
 
 1.  इन्द्रशत्रवः
 2.  दुष्कुलायाः
@@ -461,9 +468,9 @@ Resuelva los siguientes compuestos (samāsa) como Bahuvrīhi y/o Dvandva y/o Tat
 80.  अकरुणस्य
 81.  सोढदुःखाः
 
-## Ejercicio 2
+## 20.11. Ejercicio 2
 
-A) Traduzca y resuelva los compuestos (samāsa) en sánscrito:
+A) Traduzca y descomponga los compuestos en sánscrito:
 
 इन्द्रशत्र्वनार्या देवेन्द्रेण जीयन्ते ॥१॥
 
@@ -485,39 +492,40 @@ A) Traduzca y resuelva los compuestos (samāsa) en sánscrito:
 
 बुद्धगता दुःखादिसत्यानि शृण्वन्ति ॥१०॥
 
-B) Traduzca al sánscrito utilizando compuestos (samāsa):
+B) Traduzca al sánscrito utilizando compuestos:
 
 1. Un kṣatriya que no sostiene el bastón en la mano no protege al pueblo.
 
 2. Kālidāsa y los demás poetas son los maestros en sánscrito.
 
-3. Un kṣatriya sostiene su sustento mediante las armas.
+3. Un kṣatriya tiene su sustento mediante las armas.
 
-4. Las mujeres śūdra también tienen, como dharma, la no violencia, la verdad, la pureza, la no queja, la no malicia y la longanimidad.
+4. Las mujeres śūdra también tienen como dharma la no violencia, la verdad, la pureza, la no queja, la no malicia y la paciencia.
 
 ## 20.12. Ejercicio de traducción
 
 मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनतश्चित्तप्रसादनम् ॥योगसूत्र १.३३॥
 
 ::: indent
-Explicación: भाव्नातस् = भावना + sufijo -tas, que tiene significado ablativo. Traduzca: "a causa de..." o similar.
+Explicación: भाव्नातस् = भावना + sufijo -tas, que tiene significado ablativo. Traduzca: "debido a ..." o similar.
 :::
 
 तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः ॥योगसूत्र २.१॥  
 समाधिभावनार्थः क्लेशतनूकरणार्थश्च ॥योगसूत्र २.२॥
 
 ::: indent
-Explicación: तपस् n. (declinación posterior): ardor, calor, tormento; ardor ascético, austeridad.
+Explicación: तपस् n. (declinación más tarde): brasa, calor, tormento; ardor ascético, castigo
 :::
 
 ::: media
 ![](/images/lekt2010.jpg)
 Fig.: तपस्
-(Fuente de la imagen: [Detalles](/licenses#lekt2010))
+Buda como asceta antes de su iluminación salvadora, Gandhara, siglos II/III.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2010))
 :::
 
 
-त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः ॥सांख्यसूत्र १.१॥ (Véase el sistema Sāṃkhya en Basham, *Wonder*, págs. 324-325.)
+त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः ॥सांख्यसूत्र १.१॥ (Para el sistema Sāṃkhya, véase Basham, Maravillas p. 324s.)
 
 ::: indent
 Explicación: त्रिविध ३ : "triple"
@@ -531,16 +539,16 @@ Definición de la liberación según el sistema Nyāya:
 तदत्यन्तविमोक्षो ऽपवर्गः ॥न्यायसूत्र १.२२॥
 :::
 
-Afirmación de los materialistas según el सर्वदर्शनसंग्रह:
+Afirmación de los materialistas según el सर्वदर्शनसंग्रह :
 
 ::: indent
 न स्वर्गो नापवर्गो वा नैवात्मा पारलौकिकः ।
 नैव वर्णाश्रमादीnaं क्रियाश्च फलदायिकाः ॥
 
-Explicación: अत्मा = Nom. sg. masc. de आत्मन् m. "Sí mismo, alma; lo Absoluto, en la medida en que se realiza en un individuo".
+Explicación: अत्मा = Nom.sg. masc. de आत्मन् m. "Sí mismo, alma; lo Absoluto, en la medida en que se realiza en un individuo"
 :::
 
-Un सुभाषितम् (buen dicho):
+Un सुभाषितम् :
 
 ::: indent
 देवानां करदा विप्रा  
@@ -548,13 +556,14 @@ Un सुभाषितम् (buen dicho):
 नृपाणां करदा लोका  
 लोकानां करदा मही ॥
 
-Explicación: -da al final de un compuesto: "que da"
+Explicación: -da al final de una composición: "dando"
 :::
 
 ::: media
 ![](/images/lekt2009.jpg)
 Fig.: लोकानां करदा मही
-(Fuente de la imagen: [Detalles](/licenses#lekt2009))
+Karnataka
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2009))
 :::
 
 
@@ -583,11 +592,12 @@ Explicación: todas las formas excepto कं y स्त्रीणाम् s
 ::: media
 ![](/images/lekt2003.jpg)
 Fig.: तनुमध्यं पृथुश्रोणि
-(Fuente de la imagen: [Detalles](/licenses/lekt2003))
+Sanchi = सांची
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2003))
 :::
 
 
-Otro सुभाषितम्:
+Aún otro सुभाषितम् :
 
 ::: indent
 सन्ति पुत्राः सुबहवो
@@ -595,30 +605,29 @@ Otro सुभाषितम्:
 नास्ति पुत्रः समृद्धानां
 विचित्रं विधिचेष्टितम् ॥
 
-Explicación: इच्छताम् = gen. pl. Part. Pres. P de इष्: de los que desean
+Explicación: इच्छताम् = gen. pl. Part Pres. P de इष् : el deseante
 :::
 
 ::: deleteme-box
 
-### Fuentes
 
-**lekt2001:** Siem Reap (ក្រុងសៀមរាប), Camboya, siglo IX d. C. [Fuente de la imagen: Wikipedia, Dominio público]
+**lekt2001:** Siemreap (ក្រុងសៀមរាប), Camboya, siglo IX d. C. [Fuente de la imagen: Wikipedia, Dominio público]
 
-**lekt2002:** [Fuente de la imagen: Contribuciones a la literatura y la historia intelectual de la India. -- Bonn, 1926]
+**lekt2002:** [Fuente de la imagen: Contribuciones a la literatura y la historia espiritual de la India. -- Bonn, 1926]
 
-**lekt2003:** Sanchi = सांची [Fuente de la imagen: Wikipedia, Dominio público]
+**lekt2003:** Sanchi = सांची [Fuente de la imagen Wikipedia, Dominio público]
 
-**lekt2004:** Jodhpur = जोधपुर [Fuente de la imagen: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Acceso el 11-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]
+**lekt2004:** Jodhpur = जोधपुर [Fuente de la imagen: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
 
-**lekt2005:** Jesús y los demás dioses, Ahmedabad [Fuente de la imagen: por ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Acceso el 11-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]
+**lekt2005:** Jesús y los demás dioses, Ahmedabad [Fuente de la imagen: de ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
 
-**lekt2006:** Madhya Pradesh [Fuente de la imagen: por dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Acceso el 11-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]
+**lekt2006:** Madhya Pradesh [Fuente de la imagen: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
 
-**lekt2007:** Chennai = சென்னை [Fuente de la imagen: por calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Acceso el 11-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]
+**lekt2007:** Chennai = சென்னை [Fuente de la imagen: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
 
-**lekt2008:** Rishikesh = ऋषिकेश. «En realidad, esta es parte del ashram en Rishikesh donde se alojaron los Beatles. Esta parte específica no existía cuando ellos estuvieron allí, pero tiene un aspecto impresionante». [Fuente de la imagen: por ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Acceso el 11-12-2008. -- Licencia Creative Commons (Atribución)]
+**lekt2008:** Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Fuente de la imagen: de ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución)]
 
-**lekt2009:** Karnataka [Fuente de la imagen: por mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Acceso el 11-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial)]
+**lekt2009:** Karnataka [Fuente de la imagen: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución, sin uso comercial)]
 
-**lekt2010:** Buda como asceta antes de su iluminación salvadora, Gandhara, siglos II-III. [Fuente de la imagen: Wikipedia, Licencia GNU FDL]
+**lekt2010:** Buda como asceta antes de su iluminación salvadora, Gandhara, siglos II/III. [Fuente de la imagen: Wikipedia, Licencia GNU FDLicense]
 :::

@@ -116,7 +116,7 @@ Inf. चेतुम्
 ::: media
 ![](/images/lekt3601.jpg)
 Fig.: गोमयं चिकाय
-(Fuente de la imagen: [Detalles](/licenses#lekt3601))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3601))
 :::
 
 व्रज् 1P व्रजति : caminar, ir, alejarse
@@ -136,7 +136,7 @@ Inf. व्रजितुम्
 ::: media
 ![](/images/lekt3602.jpg)
 Fig.: अगारम्
-(Fuente de la imagen: [Detalles](/licenses#lekt3602))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3602))
 :::
 
 ::: indent
@@ -148,7 +148,7 @@ de ello:
 ::: media
 ![](/images/lekt3603.jpg)
 Fig.: अनगार्यम्
-(Fuente de la imagen: [Detalles](/licenses#lekt3603))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3603))
 :::
 अञ्जलि m.: Las dos manos juntas y levantadas en señal de reverencia
 
@@ -232,7 +232,7 @@ Absol. -स्पृश्य
 ::: media
 ![](/images/lekt3606.jpg)
 Fig.: सुगतो भूमीं पस्पर्श
-(Fuente de la imagen: [Detalles](/licenses#lekt3606))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3606))
 :::
 
 हृष् 4P हृष्यति : ponerse rígido: erizarse (el pelo), alegrarse por (Instr., Acus., Loc.)
@@ -247,7 +247,7 @@ PPP हृषित
 ::: media
 ![](/images/lekt3604.jpg)
 Fig.: लोमहर्षः
-(Fuente de la imagen: [Detalles](/licenses#lekt3604))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3604))
 :::
 
 स्वक 3: propio (mío, tuyo...) ; m.: miembro de la familia
@@ -291,7 +291,7 @@ D) Traduzca:
 ::: media
 ![](/images/lekt3605.jpg)
 Fig.: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज
-(Fuente de la imagen: [Detalles](/licenses#lekt3605))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3605))
 :::
 
 ब्राह्मणा महादेवयज्ञायाग्निं चिक्यिरे । ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश । एवं यज्ञेन ब्राह्मणा महादेवैरादयां चक्रुस्तांश्च स्तोत्रानि श्रावयां बभूवुः ॥२॥
@@ -447,7 +447,7 @@ Explicaciones:
 ::: media
 ![](/images/lekt3607.jpg)
 Fig.: यैन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।
-(Fuente de la imagen: [Detalles](/licenses#lekt3607))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt3607))
 :::
 
 2\. Manavadharmaśāstra 4.154 sobre la conducta correcta hacia los ancianos:
@@ -528,7 +528,6 @@ Determine y traduzca las siguientes formas léxicas de todas las maneras posible
 
 ::: deleteme-box
 
-### Fuentes
 
 - **lekt3601.jpg**: Ilustr.: गोमयं चिकाय Udaipur = उदयपुर [Fuente de la imagen: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Acceso el 28-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial)]
 - **lekt3602.jpg**: Ilustr.: अगारम् Shekawati = शेखावाटी [Fuente de la imagen: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Acceso el 28-12-2008. -- Licencia Creative Commons (Atribución, Compartir Igual)]

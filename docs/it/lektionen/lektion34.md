@@ -4,164 +4,166 @@ lesson_id: 34
 status: stable
 ---
 
-# Lektion 34
+# Lezione 34
 
-## 34.1. Das Perfekt (लिट्)
+## 34.1. Il perfetto (लिट्)
 
-Nel sanscrito classico, dallo stemma del perfetto derivano solo l’indicativo e il participio.
-
-::: grammar-box
-Esistono due tipi di formazione del perfetto:
-*   il perfetto reduplicato = द्वित्वलिट्
-*   il perfetto perifrastico = अनुप्रयोगलिट्
-:::
-::: grammar-box
-Il perfetto perifrastico (अनुप्रयोगलिट्) viene impiegato:
-1. nelle coniugazioni derivate (causativo, desiderativo, frequentativo, denominativi)
-2. nelle radici che iniziano con una vocale lunga (eccetto ā-) oppure con una vocale (eccetto a-) seguita da due consonanti
-3. in alcune altre radici
-:::
-
-## 34.2. Das reduplizierte Perfekt (द्वित्वलिट्)
-
-### 34.2.1. Temaabstufung
+Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e il participio.
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
-
-**starker Stamm:** Singular Parasmaipada <!-- TODO: Fallback translation -->
-*   **reduplizierte hochstufige bzw. dehnstufige Radice + Perfektendung** <!-- TODO: Fallback translation -->
-
-**schwacher Stamm:** alle übrigen Formen <!-- TODO: Fallback translation -->
-*   **reduplizierte tiefstufige Radice + Perfektendung** <!-- TODO: Fallback translation -->
+**Esistono due tipi di formazione del perfetto:**
+*   **il perfetto reduplicato = द्वित्वलिट्**
+*   **il perfetto perifrastico = अनुप्रयोगलिट्**
 :::
 ::: grammar-box
-**Generell (auch außerhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant** <!-- TODO: Fallback translation -->
-
-**Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:** <!-- TODO: Fallback translation -->
-*   **a-Konsonant** <!-- TODO: Fallback translation -->
-*   **ā-Konsonant** <!-- TODO: Fallback translation -->
+**Il perfetto perifrastico (अनुप्रयोगलिट्) è utilizzato:**
+1. **nelle coniugazioni derivate (causativo, desiderativo, frequentativo, denominativi)**
+2. **nelle radici che iniziano con una vocale lunga (tranne ā-) o con una vocale (tranne a-) seguita da due consonanti**
+3. **in alcune altre radici**
 :::
 
-### 34.2.2. Die Perfektendungen
+## 34.2. Il perfetto con reduplicazione (द्वित्वलिट्)
+
+### 34.2.1. Gradazione della radice
+
+::: grammar-box
+**Formazione:**
+
+**radice forte:** Singolare Parasmaipada
+*   **radice reduplicata in grado alto o grado allungato + desinenza del perfetto**
+
+**radice debole:** tutte le altre forme
+*   **radice reduplicata in grado basso + desinenza del perfetto**
+:::
+
+::: grammar-box
+**In generale (anche al di fuori del perfetto), non subiscono gradazione le radici della forma:**
+*   **(Consonante)-Consonante-Vocale lunga-Consonante**
+*   **(Consonante)-Consonante-Vocale-Consonante-Consonante**
+
+**Nel perfetto, inoltre, non subiscono gradazione le radici della forma:**
+*   **a-Consonante**
+*   **ā-Consonante**
+:::
+
+### 34.2.2. Le desinenze del perfetto
 
 :::: grammar-box
 
 | | 3. Singolare | 3. Plurale |
 | :--- | :--- | :--- |
-| **Parasmaipada** | **-a** | **-ur** |
-| **Ātmanepada** | **-e** | **-re** |
+| **Parasmaipāda** | **-a** | **-ur** |
+| **Ātmanepāda** | **-e** | **-re** |
 
 ::::
 
-### 34.2.3. Bindevokal -i-
+### 34.2.3. Vocale di giunzione -i-
 
 ::: grammar-box
-**Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.** &lt;!-- TODO: Fallback translation --&gt;
+**Prima della desinenza della 3.pl.Ā (-re) compare sempre la vocale di giunzione -i-, prima delle altre desinenze che iniziano con una consonante, nella maggioranza delle radici.**
 :::
 
-### 34.2.4. Reduplikation konsonantisch anlautender Radicen
+### 34.2.4. Raddoppiamento delle radici inizianti per consonante
 
 ::: grammar-box
-**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.** <!-- TODO: Fallback translation -->
+**Per il raddoppiamento delle consonanti iniziali valgono le regole fornite nella [Lezione 33](lektion33.md).**
 
-**Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.** <!-- TODO: Fallback translation -->
+**La vocale di raddoppiamento nelle radici inizianti per consonante è la vocale radice breve.**
 
-**Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.** <!-- TODO: Fallback translation -->
+**I dittonghi seguiti da consonante si riducono mediante la corrispondente vocale breve di grado debole (guṇa/zero).**
 
-**ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.** <!-- TODO: Fallback translation -->
+**ṛ, ṝ, ḷ e i dittonghi finali si raddoppiano con -a-.**
 :::
 
-Beispiele: <!-- TODO: Fallback translation -->
+Esempi:
 
 :::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| भिद् | बिभेद | <!-- TODO: Fallback translation -->
-| मुच् | मुमोच | <!-- TODO: Fallback translation -->
-| भृ | बभार | <!-- TODO: Fallback translation -->
+| Radice | 3. sg. Perf. Att. |
+| :--- | :--- |
+| भिद् | ***बि***भेद |
+| मुच् | ***मु***मोच |
+| भृ | ***ब***भार |
 
 ::::
 
 ::: grammar-box
-**Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".** <!-- TODO: Fallback translation -->
+**Alcune radici inizianti per y- o v- si raddoppiano con i- o u-, che nelle forme deboli si "fonde" con la vocale radice.**
 :::
 
-Beispiele: <!-- TODO: Fallback translation -->
+Esempi:
 
 :::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| वच् | उवाच[[br]]u-vāc-a | ऊचुर्[[br]]u + uc-ur | <!-- TODO: Fallback translation -->
-| यज् | इयाज[[br]]i-yāj-a | ईजुर्[[br]]i + ij-ur | <!-- TODO: Fallback translation -->
+| Radice | 3. sg. Perf. Att. | 3. pl. Perf. Att. |
+| :--- | :--- | :--- |
+| वच् | उवाच[[br]]u-vāc-a | ऊचुर्[[br]]u + uc-ur |
+| यज् | इयाज[[br]]i-yāj-a | ईजुर्[[br]]i + ij-ur |
 
 ::::
 
-### 34.2.5. Reduplikation vokalisch anlautender Radicen
+### 34.2.5. Raddoppiamento delle radici inizianti per vocale
 
 ::: grammar-box
-**1. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.** <!-- TODO: Fallback translation -->
+**1. Le radici inizianti con a-, ā- vengono raddoppiate con a-, risultando in ā-.**
 :::
 
-Beispiele: <!-- TODO: Fallback translation -->
+Esempi:
 
 :::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| अस् 2 "sein" und अस् 4 "werfen" | आस[[br]]a + as-a | <!-- TODO: Fallback translation -->
+| Radice | 3. sg. Perf. P. |
+| :--- | :--- |
+| अस् 2 "essere" e अस् 4 "gettare" | आस[[br]]a + as-a |
 
 ::::
 
 ::: grammar-box
-**2. Wurzeln mit anlautendem i- haben als Reduplikationssilbe im starken Stamm iy-, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- "verschmilzt. Analoges gilt für anlautendes u-.** <!-- TODO: Fallback translation -->
+**2. Le radici inizianti con i- presentano come sillaba di raddoppiamento iy- nella forma forte e i- nella forma debole, che si fondono con la vocale radicale dando ī-. Analogamente vale per le radici inizianti con u-.**
 :::
 
-Beispiele: <!-- TODO: Fallback translation -->
+Esempi:
 
 :::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| इ | इयाय[[br]]iy + ai + a | ईयुर्[[br]]i + iy-ur | <!-- TODO: Fallback translation -->
-| इष् | इयेष[[br]]iy-eṣ-a | ईषुर्[[br]]i + iṣ-ur | <!-- TODO: Fallback translation -->
+| Radice | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| इ | इयाय[[br]]iy + ai + a | ईयुर्[[br]]i + iy-ur |
+| इष् | इयेष[[br]]iy-eṣ-a | ईषुर्[[br]]i + iṣ-ur |
 
 ::::
 
 ::: grammar-box
-**3. Wurzeln die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben als Reduplikationssilbe ān-** <!-- TODO: Fallback translation -->
+**3. Le radici che iniziano con a- seguita da due consonanti, oppure con ṛ-, presentano come sillaba di raddoppiamento ān-.**
 :::
 
-Beispiele: <!-- TODO: Fallback translation -->
+Esempi:
 
 :::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| अञ्ज् | आनञ्ज | आनञ्जुर् | <!-- TODO: Fallback translation -->
-| एध् | आनर्ध | आनृधुर् | <!-- TODO: Fallback translation -->
+| Radice | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| अञ्ज् | आनञ्ज | आनञ्जुर् |
+| एध् | आनर्ध | आनृधुर् |
 
 ::::
 
-## 34.3. Typen des reduplizierten Perfekts
+## 34.3. Tipi del perfetto reduplicato
 
-| Radice[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
-*   | :--- | :--- | :--- |
-*   | **añj**[[br]]अञ्ज् | **ānañja**[[br]]आनञ्ज | **ānañjuḥ**[[br]]आनञ्जुर् |
-*   | **ṛdh**[[br]]ऋध् | **ānardha**[[br]]आनर्ध | **ānṛdhuḥ**[[br]]आनृधुर् |
+Criterio di classificazione: particolarità dell'alternanza della radice:
 
-## 34.4. Perfekt Typ I: Perfekt ohne Temaabstufung
+*   Perfetto senza alternanza della radice: Tipo I
+*   Perfetto con alternanza della radice: Tipi II - V
+*   Formazioni di perfetto irregolari
+
+## 34.4. Tipo di Perfetto I: Perfetto senza ablaut della radice
 
 ::: grammar-box
-I verbi del Tipo I del perfetto (senza ablaut della radice) appartengono alle seguenti categorie di radici:
-*   (Consonante)-Consonante-Vocale Lunga-Consonante
-*   (Consonante)-Consonante-Vocale-Consonante-Consonante
-*   a-Consonante
-*   ā-Consonante
+**Il Perfetto di Tipo I (senza ablaut della radice) comprende radici dei seguenti tipi:**
+*   **(Consonante)-Consonante-Vocale Lunga-Consonante**
+*   **(Consonante)-Consonante-Vocale-Consonante-Consonante**
+*   **a-Consonante**
+*   **ā-Consonante**
 :::
 
 Esempi:
@@ -170,30 +172,30 @@ Esempi:
 
 | Radice | 3. sg. Perf. | 3. pl. Perf. |
 | :--- | :--- | :--- |
-| **bandh**[[br]]बन्ध् ९प | बबन्ध[[br]]ba-bandh-a | बबन्धुर् |
-| **jīv**[[br]]जीव् १प | जिजीव | जिजीवुर् |
-| **āp**[[br]]आप् ५प | आप[[br]]a + āp-a | आपुर् |
-| अस् 2P "sein"[[br]]अस् 4 "werfen" | आस[[br]]a + as-a | आसुर् |
-| अश् | आनशे[[br]]unregelmäßige Reduplikation! | आनशिरे |
+| बन्ध् 9P | बबन्ध[[br]]ba-bandh-a | बबन्धुर् |
+| जीव् 1P | जिजीव | जिजीवुर् |
+| आप् 5P | आप[[br]]a + āp-a | आपुर् |
+| अस् 2P "essere"[[br]]अस् 4 "gettare" | आस[[br]]a + as-a | आसुर् |
+| अश् | आनशे[[br]]reduplicazione irregolare! | आनशिरे |
 
 ::::
 
-## 34.5. Perfekt Typ II: Starker Tema Hochstufe, schwacher Tema Tiefstufe
+## 34.5. Tipo II del Perfetto: Radice forte in grado alto, radice debole in grado basso
 
 ::: grammar-box
-Si forma da radici della forma:
-*   (Consonante)-(Consonante)-i/u/ṛ/ḷ-Consonante
+**Si forma da radici della forma:**
+*   **(Consonante)-(Consonante)-i/u/ṛ/ḷ-Consonante**
 
-Formazione:
-*   **radice forte:** grado forte
-*   **radice debole:** grado debole
+**Formazione:**
+*   **radice forte: grado alto (guṇa/vedico)**
+*   **radice debole: grado basso (zero-grade)**
 :::
 
 Esempi:
 
 :::: grammar-box
 
-| Radice | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Radice | 3. sg. Perf. Att. | 3. pl. Perf. Att. | 3. sg. Perf. Med. | 3. pl. Perf. Med. |
 | :--- | :--- | :--- | :--- | :--- |
 | भिद् | बिभेद | बिभिदुर् | बिभिदे | बिभिदिरे |
 | इष् | इयेष | ईषुर् | | |
@@ -203,23 +205,22 @@ Esempi:
 
 ::::
 
-## 34.6. Lessico
+## 34.6. Elenco lessicale
 
-Fig.: Sesamum indicum L.
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3404))
+**क्षिति f. = पृथ्वी = मही = भूमी**
 
-Abb.: Sesamum indicum L.
-(Bildquelle: [Details](/licenses#lekt3404)) &lt;!-- TODO: Fallback translation --&gt;
+**शस्य = सस्य n. sg. e pl.:** semenza, raccolto, cereali
 
 ::: media
 ![](/images/lekt3406.jpg)
 Fig.: सस्यम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3406))
+Campo di riso in India.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3406))
 :::
 
 **यावत् :** quanto a lungo, quanto grande
 
-**तावत् :** so lange, so groß &lt;!-- TODO: Fallback translation --&gt;
+**तावत् :** tanto a lungo, tanto grande
 
 **उत्तम 3:** supremo
 
@@ -228,34 +229,38 @@ Fig.: सस्यम्
 ::: media
 ![](/images/lekt3405.jpg)
 Fig.: लक्षद्वीपाः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3405))
+Mappa delle Isole Lakshadweep.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3405))
 :::
 
-**मर्त्य 3:** mortale (da **mṛ**)
+**मर्त्य 3:** mortale (da **मृ**)
 
 **तिल m.:** sesamo (*Sesamum indicum* L.)
 
 ::: media
 ![](/images/lekt3403.jpg)
 Fig.: तिलाः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3403))
+Semi di sesamo.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3403))
 :::
 
 ::: media
 ![](/images/lekt3404.jpg)
-Abb.: *Sesamum indicum* L.
-(Bildquelle: [Details](/licenses#lekt3404)) &lt;!-- TODO: Fallback translation --&gt;
+Fig.: *Sesamum indicum* L.
+Fioritura della pianta del sesamo.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3404))
 :::
 
-**स्वर्ण n.:** (di bello colore =) oro
+**स्वर्ण n.:** (di bel colore =) oro
 
 ::: media
 ![](/images/lekt3402.jpg)
 Fig.: स्वर्णम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3402))
+Tempio d'Oro (Harmandir Sahib), Amritsar.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3402))
 :::
 
-**निकeten n. -&gt; निकेतन n.:** dimora, tempio
+**निकेतन n.:** dimora, tempio
 
 **कोटि f.:** punta; 10 milioni
 
@@ -268,20 +273,21 @@ Fig.: स्वर्णम्
 ::: media
 ![](/images/lekt3401.jpg)
 Fig.: ऋषभः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3401))
+Statua del toro Nandi, Colline di Chamundi, Mysore.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3401))
 :::
 
-**यम्** 1P **यच्छति :** trattenere, tenere, offrire, concedere
+**यम् 1P यच्छति :** trattenere, tenere, offrire, concedere
 
-**यम् + प्र** 1P **प्रयच्छति :** porre dinanzi, offrire, consegnare
+**यम् + प्र 1P प्रयच्छति :** porgerla, offrire, consegnare
 
-**या** 2P **याति :** andare, viaggiare
+**या 2P याति :** andare, viaggiare
 
 **कन्या f.:** ragazza, vergine
 
 ## 34.7. Esercizio
 
-Formare le forme del perfetto corrispondenti per persona, numero e genere alle seguenti forme verbali:
+Formare le corrispondenti forme del perfetto (aoristo perfetto o perfetto, a seconda del contesto grammaticale sanscrito, qui inteso come *perfectum*) in persona, numero e genere per le seguenti forme verbali:
 
 1. रक्षिष्यन्ति
 2. स्रक्ष्यति
@@ -291,7 +297,7 @@ Formare le forme del perfetto corrispondenti per persona, numero e genere alle s
 6. भनक्ति
 7. लुभ्यन्ति
 8. रुन्धते
-9. रोदितi -&gt; रोदिति
+9. रोदिति -&gt; रोदिति
 10. बध्नाति
 11. युध्यन्ते
 12. युङ्क्ते
@@ -317,9 +323,9 @@ Formare le forme del perfetto corrispondenti per persona, numero e genere alle s
 
 ## 34.8. Esercizio di traduzione
 
-Tradurre il seguente testo tratto dal *Padma-purāṇa* riguardante le offerte ai Brahmani:
+Tradurre il seguente testo tratto dal *Padma Purāṇa* riguardante le offerte ai Brahmani:
 
-क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजो***त्तम*** ।  
+क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विज***ोत्तम*** ।  
 विष्णुलोके सुखं भुङ्क्ते यावदिन्द्रा***श्चतुर्दश*** ॥१॥  
 ***सप्त***द्वीपां महीं दत्त्वा यत्पुण्यं प्राप्यते द्विज ।  
 तत्पुण्यं प्राप्नुयान्मर्त्यो धेनुं यच्छन्द्विजातये ॥२॥  
@@ -346,25 +352,25 @@ Spiegazioni:
 
 ::: media
 ![](/images/lekt3407.jpg)
-Fig.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुनर्जन्म न विद्यते ॥४॥
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3407))
+Fig.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
+Rituale nuziale indù.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3407))
 :::
 
 ::: deleteme-box
 
-### Fonti
 
-**lekt3401:** Nandi Bull statue, Chamundi Hills, Mysore. [Bildquelle: Luna Park / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
+**lekt3401:** Statua del toro Nandi, Colline di Chamundi, Mysore. [Fonte dell'immagine: Luna Park / Flickr. CC BY-NC-ND]
 
-**lekt3402:** Golden Temple (Harmandir Sahib), Amritsar. [Bildquelle: Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3402:** Tempio d'Oro (Harmandir Sahib), Amritsar. [Fonte dell'immagine: Wikipedia. GNU FDL]
 
-**lekt3403:** Sesame seeds. [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt3403:** Semi di sesamo. [Fonte dell'immagine: Wikipedia. Dominio pubblico]
 
-**lekt3404:** Sesame plant flowering. [Bildquelle: Franz Xaver / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3404:** Fioritura della pianta del sesamo. [Fonte dell'immagine: Franz Xaver / Wikipedia. GNU FDL]
 
-**lekt3405:** Lakshadweep Islands Map. [Bildquelle: CIA World Factbook. Public domain] <!-- TODO: Fallback translation -->
+**lekt3405:** Mappa delle Isole Lakshadweep. [Fonte dell'immagine: CIA World Factbook. Dominio pubblico]
 
-**lekt3406:** Rice field in India. [Bildquelle: Ray Witlin / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
+**lekt3406:** Campo di riso in India. [Fonte dell'immagine: Ray Witlin / World Bank. CC BY-NC-ND]
 
-**lekt3407:** Hindu wedding ritual. [Bildquelle: BriceFR / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3407:** Rituale nuziale indù. [Fonte dell'immagine: BriceFR / Flickr. CC BY-NC-SA]
 :::

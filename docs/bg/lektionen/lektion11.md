@@ -1,86 +1,90 @@
 ---
+title: Урок 11
+subtitle: "Двоен винителен падеж (винителен на лицето и на нещата)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
---- &lt;!-- TODO: Fallback translation --&gt;
+category: "Граматика"
+status: stable
+---
 
-# Lektion 11
+# Урок 11
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- Den doppelten Акузатив (Акузатив der Person und der Sache) &lt;!-- TODO: Fallback translation --&gt;
-- Den Употреба der Partikel **iti**, **evam** und **na** &lt;!-- TODO: Fallback translation --&gt;
-- Grundlegende Begriffe wie **dharma**, **adharma** und **putra** &lt;!-- TODO: Fallback translation --&gt;
-- Die Образоване von Nomina zu den Коренn **vad**, **prach** und **iṣ** &lt;!-- TODO: Fallback translation --&gt;
+**В този урок ще научите:**
+- Двоен винителен падеж (винителен на лицето и на нещото)
+- Употребата на частиците **iti**, **evam** и **na**
+- Основни понятия като **dharma**, **adharma** и **putra**
+- Образуванието на съществителни имена от корените **vad**, **prach** и **iṣ**
 :::
 
-## 11.1. Doppelter Акузатив
+## 11.1. Двоен винителен падеж
 
 ::: grammar-box
-**Einige Verben können einen doppelten Akkusativ (dvitīyā) regieren: Akkusativ der Person und Akkusativ der Sache.** &lt;!-- TODO: Fallback translation --&gt;
+**Някои глаголи могат да управляват двоен винителен падеж (dvitīyā): винителен на лицето и винителен на нещата.**
 
-**Hierzu gehören:** &lt;!-- TODO: Fallback translation --&gt;
-- **Verben des Sprechens**: spreche zu jemandem (Акузатив) über etwas (Акузатив); jemandem (Акузатив) etwas (Акузатив) sagen &lt;!-- TODO: Fallback translation --&gt;
-- **Verben des Fragens**: jemanden (Акузатив) nach etwas (Акузатив) fragen &lt;!-- TODO: Fallback translation --&gt;
-- **Verben des Lehrens**: jemanden (Акузатив) etwas (Акузатив) lehren &lt;!-- TODO: Fallback translation --&gt;
-- einige weitere Verben, bei denen es in den Речникn vermerkt wird &lt;!-- TODO: Fallback translation --&gt;
+**Сред тях са:**
+- **Глаголи на говоренето**: говоря на някого (винителен) за нещо (винителен); казвам на някого (винителен) нещо (винителен)
+- **Глаголи на питането**: питам някого (винителен) за нещо (винителен)
+- **Глаголи на преподаването**: преподавам на някого (винителен) нещо (винителен)
+- някои други глаголи, при които е отбелязано в списъците на думите
 
-**Wird eine solche Konstruktion ins Passiv gesetzt, wird die Person (die gefragt wird usw.) in den Nominativ (prathamā) gesetzt, die Sache (nach der gefragt wird usw.) bleibt im Akkusativ.** &lt;!-- TODO: Fallback translation --&gt;
+**Когато такава конструкция се постави в страдателен залог, лицето (питаният и т.н.) се поставя в именителен падеж (prathamā), а нещото (за което се пита и т.н.) остава във винителен падеж.**
 
-z.B. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = रामो ब्राह्मणं धर्मं पृच्छति = "Rāma fragt den Brahmanen nach dem Dharma."
-» Passiv: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = रामेण ब्राह्मणो धर्मं पृच्छयते &lt;!-- TODO: Fallback translation --&gt;
+напр. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = रामो ब्राह्मणं धर्मं पृच्छति = „Рама пита брахмана за дхармата.“
+» Страдателен залог: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = रामेण ब्राह्मणो धर्मं पृच्छयते
 
-**Diese Regel gilt nur, wenn sowohl Person als auch Sache Objekt sind. Ist eine Sache das einzige Objekt, steht diese nach dem Grundschema des Passivsatzes im Nominativ (prathamā):** &lt;!-- TODO: Fallback translation --&gt;
+**Това правило важи само когато и лицето, и нещото са обекти. Ако нещото е единственият обект, то стои според основната схема на страдателното изречение в именителен падеж (prathamā):**
 
-z.B. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्छति = "Rāma fragt nach dem Dharma."
-» Passiv: **rāmeṇa dharmaḥ pṛcchyate** = रामेण धर्मः पृच्छयते &lt;!-- TODO: Fallback translation --&gt;
+напр. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्छति = „Рама пита за дхармата.“
+» Страдателен залог: **rāmeṇa dharmaḥ pṛcchyate** = रामेण धर्मः पृच्छयते
 :::
 
 ---
 
 ## 11.2. Речник
 
-**Lernen Sie folgende Wörter:** &lt;!-- TODO: Fallback translation --&gt;
+**Запознайте се със следните думи:**
 
-- **iti** इति : so &lt;!-- TODO: Fallback translation --&gt;
-  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen ("). &lt;!-- TODO: Fallback translation --&gt;
-  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen". &lt;!-- TODO: Fallback translation --&gt;
-  - Im Sanskrit gibt es keine indirekte Rede; Образованеen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden. &lt;!-- TODO: Fallback translation --&gt;
-  - **... (Zitat) ... iti śrutiḥ** = "so der Veda". &lt;!-- TODO: Fallback translation --&gt;
-  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er..."). &lt;!-- TODO: Fallback translation --&gt;
+- **iti** इति : така
+  - Стои *след* формулирането на мисъл, желание, изказване, цитат, сякаш като кавички (").
+  - напр. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Брахманите казват: 'Светите отиват в небето'" = "Брахманите казват, че светите отиват в небето".
+  - На санскрит няма косвено изказване; конструкции с **iti** често трябва да се предадат на немски като косвено изказване.
+  - **... (цитат) ... iti śrutiḥ** = "така казва Ведата".
+  - Често след **iti** се подразбира глагол на мисленето: "мислейки: '...' той прави това". На немски се предава идиоматично (напр. "Защото гладува, той отива...").
 
-- **evam** एवम् : so (adverbiell, z.B. **evaṃ jayati** "so siegt er"). &lt;!-- TODO: Fallback translation --&gt;
-- **na** न : nicht &lt;!-- TODO: Fallback translation --&gt;
-  - Verneint einzelne Worte (steht unmittelbar davor: **na sādhuḥ** "ein nicht guter") oder ganze Sätze (steht zu Beginn oder unmittelbar vor dem Verb). &lt;!-- TODO: Fallback translation --&gt;
+- **evam** एवम् : така (адвербиално, напр. **evaṃ jayati** "така той побеждава").
+- **na** न : не
+  - Отрица единични думи (стои непосредствено преди тях: **na sādhuḥ** "не добър") или цели изречения (стои в началото или непосредствено преди глагола).
 
-- **putra** m. पुत्र : Sohn (In Indien war es notwendig, einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.) &lt;!-- TODO: Fallback translation --&gt;
-- **dharma** m. धर्म : ("das, was fest ist", d.h.) Recht, Gesetz, Sitte, Charakter. &lt;!-- TODO: Fallback translation --&gt;
-  - Entspricht am ehesten dem Naturgesetz/Sittengesetz. Jeder hat nach **varṇa** und **āśrama** (Lebensstadium) seine eigenen Pflichten (**svadharma**). &lt;!-- TODO: Fallback translation --&gt;
-- **adharma** m. अधर्म : Unrecht (Gegensatz zu **dharma**). &lt;!-- TODO: Fallback translation --&gt;
-- **iṣ** 6 P (icchati) इष् इच्छति : wünschen (**iṣ-ccha-ti**). &lt;!-- TODO: Fallback translation --&gt;
+- **putra** м. पुत्र : син (В Индия е било необходимо да се зачене син, който да може да извършва жертвоприношенията за предците.)
+- **dharma** м. धर्म : ("това, което е твърдо", т.е.) право, закон, обичай, характер.
+  - Най-близко отговаря на природния/морален закон. Всеки има според **varṇa** и **āśrama** (жизнен етап) своите собствени задължения (**svadharma**).
+- **adharma** м. अधर्म : неправда (противоположност на **dharma**).
+- **iṣ** 6 П (icchati) इष् इच्छति : желая (**iṣ-ccha-ti**).
 
-**Einige Nominalbildungen:** &lt;!-- TODO: Fallback translation --&gt;
+**Някои номинални образувания:**
 
-- **vad** 1 P वद् : sagen &lt;!-- TODO: Fallback translation --&gt;
-  - **vāda** m. वाद : Ausspruch, Aussage, Wort &lt;!-- TODO: Fallback translation --&gt;
-  - **vadana** n. वदन : das Sprechen; Sprechwerkzeug: Mund, Gesicht &lt;!-- TODO: Fallback translation --&gt;
+- **vad** 1 П वद् : казвам
+  - **vāda** м. वाद : изказване, твърдение, дума
+  - **vadana** н. वदन : говоренето; говорен инструмент: уста, лице
 
 ::: media
 ![](/images/lekt1102.jpg)
-Abb.: **vadanāni** = वदनानि, Jamalpur district, Bangladesh.
-(Bildquelle: Juan Blazquez, Flickr, CC-BY-NC-ND 2.0) &lt;!-- TODO: Fallback translation --&gt;
+Илистр.: **vadanāni** = वदनानि
+(Източник на изображението: [Подробности](/bg/licenses#lekt1102))
 :::
 
-- **prach** 6 P प्रच्छ् : fragen &lt;!-- TODO: Fallback translation --&gt;
-  - **praśna** m. प्रश्न : Frage (Suffix **-na** wie in **yaj-ña**) &lt;!-- TODO: Fallback translation --&gt;
+- **prach** 6 П प्रच्छ् : питам
+  - **praśna** м. प्रश्न : въпрос (суфикс **-na** както в **yaj-ña**)
 
-- **iṣ** 6 P इष् : wünschen &lt;!-- TODO: Fallback translation --&gt;
-  - **iṣṭi** f. इष्टि : Wunsch (**iṣ** + **-ti**) &lt;!-- TODO: Fallback translation --&gt;
+- **iṣ** 6 П इष् : желая
+  - **iṣṭi** ж. इष्टि : желание (**iṣ** + **-ti**)
 
 ---
 
 ## 11.3. Упражнение
 
-**A) Übersetzen Sie untenstehende Sätze:** &lt;!-- TODO: Fallback translation --&gt;
+**А) Преведете следните изречения:**
 
 1. ऋषिः सत्यं वदति |
 2. ब्राह्मणः पुत्रमिच्छति |
@@ -95,36 +99,36 @@ Abb.: **vadanāni** = वदनानि, Jamalpur district, Bangladesh.
 11. को ऽग्निं यजते | |
 12. स श्रावको बुद्धं धर्मं पृच्छति ||
 
-**B) Setzen Sie die Sätze von A) in Passivkonstruktion.** &lt;!-- TODO: Fallback translation --&gt;
+**Б) Преобразувайте изреченията от А) в страдателен залог.**
 
-**C) Setzen Sie in den Sätzen A), wo es sinnvoll ist, Subjekt, Objekt und Prädikat in den Plural.** &lt;!-- TODO: Fallback translation --&gt;
+**В) Преобразувайте в изреченията от А), където е уместно, подлога, обекта и сказуемото в множествено число.**
 
-**D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion.** &lt;!-- TODO: Fallback translation --&gt;
+**Г) Образувате страдателен залог за изреченията, получени по В).**
 
 ::: media
 ![](/images/lekt1101.jpg)
-Abb.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
-(Bildquelle: Wikipedia, Public domain) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
+(Източник на изображението: [Подробности](/bg/licenses#lekt1101))
 :::
 
 ---
 
-## 11.4. Wiederholungsübung
+## 11.4. Повторителни упражнения
 
-**A) Übersetzen Sie ins Sanskrit mit Passivkonstruktionen:** &lt;!-- TODO: Fallback translation --&gt;
-1. Vaiśyafrauen fragen Brahmanen nach dem Dharma. &lt;!-- TODO: Fallback translation --&gt;
-2. Der Lehrer spricht ein Mantra. &lt;!-- TODO: Fallback translation --&gt;
-3. Heilige Frauen gelangen in einen Himmel. &lt;!-- TODO: Fallback translation --&gt;
-4. Ein vedischer Weiser tut nichts Böses. &lt;!-- TODO: Fallback translation --&gt;
-5. Brahmanen verehren als Opferpriester die Göttin mit Opfern. &lt;!-- TODO: Fallback translation --&gt;
-6. Die Śūdrafrau geht ins Dorf. &lt;!-- TODO: Fallback translation --&gt;
-7. Wer sieht die Wahrheit? &lt;!-- TODO: Fallback translation --&gt;
+**А) Преведете на санскрит с пасивни конструкции:**
+1. Жените от вайшията питат брахманите за дхармата.
+2. Учителят произнася мантра.
+3. Свещените жени достигат до небе.
+4. Един ведически мъдрец не прави нищо лошо.
+5. Брахманите почитат като жертвоприносители богинята с жертвоприношения.
+6. Шудра жената отива в селото.
+7. Кой вижда истината?
 
-**B)** &lt;!-- TODO: Fallback translation --&gt;
-1. Geben Sie mit einem Dvandva die Aufgaben aller Zweimalgeborenen an. Lösen Sie das Kompositum in Sanskrit auf. &lt;!-- TODO: Fallback translation --&gt;
-2. Geben Sie mit einem Dvandva die Aufgaben der Vaiśyas an. Lösen Sie das Kompositum in Sanskrit auf. &lt;!-- TODO: Fallback translation --&gt;
+**Б)**
+1. Посочете с дхвадва задълженията на всички два пъти родени. Разделете сложната дума на санскрит.
+2. Посочете с дхвадва задълженията на вайшията. Разделете сложната дума на санскрит.
 
-**C) Übersetzen Sie:** &lt;!-- TODO: Fallback translation --&gt;
+**В) Преведете:**
 
 1. श्रवणेन श्रूयते | |
 2. कर्षर्कैः कृष्यते | |
@@ -135,17 +139,17 @@ Abb.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 7. शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि | |
 8. आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ||
 
-**D) Übersetzen Sie und setzen Sie in Sanskrit Agens, Objekt und Verb in den Plural:** &lt;!-- TODO: Fallback translation --&gt;
+**Г) Преведете и поставете на санскрит агенса, обекта и глагола в множествено число:**
 
 1. फलमश्नुते | |
 2. गुरुणा सत्यमुद्यते | |
 3. वैश्यः पशुं लभते | |
 4. पुत्रः पुण्यं करोति ||
 
-**E) Verwandeln Sie die Sätze C) 1-5 in Aktivkonstruktionen.** &lt;!-- TODO: Fallback translation --&gt;
+**Д) Преобразувайте изреченията В) 1-5 в активни конструкции.**
 
 ::: media
 ![](/images/lekt1103.jpg)
-Abb.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
-(Bildquelle: Ray Witlin / World Bank, Flickr, CC-BY-NC-ND 2.0) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
+(Източник на изображението: [Подробности](/bg/licenses#lekt1103))
 :::

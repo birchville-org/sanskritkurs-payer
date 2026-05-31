@@ -7,11 +7,16 @@ export const bg = {
   description: 'Граматичен учебник от Алоис Пайер',
   themeConfig: {
     outline: { level: [2, 3], label: 'На тази страница' },
+    returnToTopLabel: 'Обратно към върха',
+    sidebarMenuLabel: 'Меню',
+    darkModeSwitchLabel: 'Изглед',
+    lightModeSwitchTitle: 'Превключване към светла тема',
+    darkModeSwitchTitle: 'Превключване към тъмна тема',
+    langMenuLabel: 'Смяна на езика',
     nav: [
       { text: 'Начало', link: '/bg/' },
       { text: 'Съдържание', link: '/bg/lektionen/inhaltsverzeichnis' },
       { text: 'Индекс', link: '/bg/grammatik' },
-      { text: 'QA', link: '/qa/viewer' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Кредити', link: '/bg/impressum' }
     ],

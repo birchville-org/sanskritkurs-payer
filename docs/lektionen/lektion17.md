@@ -1,6 +1,10 @@
 ---
+title: Lektion 17
+subtitle: "Zweite Präsensklasse (अदादि = अद् usw.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 17
@@ -47,9 +51,11 @@ Beispiele:
 
 Hierbei wirkt folgendes Wortsandhigesetz:
 
+::: grammar-box
 Wortsandhi von -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
+:::
 
 Weitere Beispiele:
 
@@ -163,7 +169,9 @@ Beispiel:
 
 ## 17.4. Wurzeln der zweiten Präsensklasse ohne Stammabstufung
 
+::: grammar-box
 Ohne Stammabstufung sind Wurzeln der zweiten Präsensklasse auf -ā
+:::
 
 Beispiel:
 
@@ -306,6 +314,7 @@ davon:
 ::: media
 ![](/images/lekt1703.jpg)
 Abb.: घाताः
+Bangalore = ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt1703))
 :::
 
@@ -477,7 +486,6 @@ B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
 ४६. दिश्यन्ते
 
 ::: deleteme-box
-### Quellen
 
 **lekt1701:** [Bildquelle: von tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
 

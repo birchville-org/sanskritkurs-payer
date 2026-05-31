@@ -1,193 +1,190 @@
 ---
+title: Lesson 29
+subtitle: "Use of the Parasmaipada (परस्मैपद) and Ātmanepada (आत्मनेपद) in the Causative"
 lesson_id: 29
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 29
 
-## 29.1. Usage of Parasmaipada and Ātmanepada in the Causative
+## 29.1. Use of the Parasmaipada (परस्मैपद) and Ātmanepada (आत्मनेपद) in the Causative
+
 
 ::: grammar-box
-**The Causative is Ubhayapada (both-voice) with few exceptions**
+**The causative is Ubhayapada (उभयपद) with few exceptions**
 :::
 
-Rules for the usage of Ātmanepada in the Causative:
 
 ::: grammar-box
-**Ātmanepada is used in the Causative:**
-1. When the result of the caused action benefits the causer:
+**In the causative, the Ātmanepada (आत्मनेपद) is used:**
+
+**1. When the result of the caused action benefits the causer:**
 :::
 
 Example:
 
 रामः कटं कारयते = "Rāma has a mat made for himself (in his own interest)"
 
-::: grammar-box
-2. When the Causative of transitive verbs is used reflexively ("to show oneself," "to let oneself be heard," etc.), or when the object of the simple verb serves as the agent (कर्तृ) of the Causative:
-:::
+**2. When the causative of transitive verbs is used reflexively ("to show itself", "to make itself heard", etc.), or when the object of the simple verb is the agent (कर्तृ) of the causative:**
 
 Example:
 
 विष्णुर्भक्तान्दर्शयते = "Viṣṇu shows himself to his devotees"
 
-Result: भक्ता विष्णुं पश्यन्ति = "The devotees see Viṣṇu"
+Result: भक्ता विष्णुं पश्यन्ति = "The believers see Viṣṇu"
 
 
-Thus, these rules generally correspond to the rules for the usage of Ātmanepada with Ubhayapada verbs.
+Thus, the rules generally correspond to the rules for the use of the Ātmanepada (आत्मनेपद) with Ubhayapada (उभयपद) verbs.
 
 ## 29.2. Word List
 
 Prefixes:
 
 ::: indent
-ud- : up, upward, aloft, out, out-
+उद्° : up, upward, aloft, out, out-
 
-pari- : around, about (place, time), about
+परि° : around, about (place, time), about
 :::
 
-bhū + pari 1P paribhavati : (to become around someone = to encircle =) to master, to conquer; to disregard, to despise
+भू + परि 1P परिभवति : (to become around someone = to encircle =) to master, to conquer; to disregard, to despise
 
-avajñāna n.: disregard
+अवज्ञान n.: disregard
 
-gupta 3: protected, safeguarded
+गुप्त 3: protected, safeguarded
 
-gṛhastha 3: located in the house; m. householder (one who is in the second āśrama)
+गृहस्थ 3: located in the house; m. householder (someone who is in the 2nd आश्रम)
 
-gras 1Ā grasate : to devour, to eat
+ग्रस् 1Ā ग्रसते : to consume, to devour
 
 ::: indent
-Fut. grasīṣyate  
-Pass. grasyate  
-Caus. grāsayati  
-PPP grasta  
-Inf. grasitum
+Fut. ग्रसिष्यते  
+Pass. ग्रस्यते  
+Caus. ग्रासयति  
+PPP ग्रस्त  
+Inf. ग्रसितुम्
 :::
 
-tīkṣṇa 3: "wild," sharp, pointed, strict, fierce, sharp-tongued
+तीक्ष्ण 3: "wild", sharp, keen, strict, fierce, sharp-tongued
 
-nyāya m.: norm, rule, right manner; method, logic (from i + ni)
+न्याय m.: norm, rule, right manner; method, logic (from इ + नि)
 
-parivrājaka m.: wanderer, wandering monk, pilgrim
+परिव्राजक m.: wanderer, wandering monk, pilgrim
 
 ::: media
 ![](/images/lekt2903.jpg)
-Fig.: parivrājakāḥ
-(Image source: [Details](/licenses#lekt2903))
+Fig.: परिव्राजकाः
+Pushkar = पुष्कर
+(Image source: [Details](/en/licenses#lekt2903))
 :::
 
-pālayati : also synonymous with pāti
+पालयति : also synonymous with  पाति
 
-punar Indecl.: again, repeatedly, back, once more; conversely, but (before voiced sounds except r-: punar)
+पुनर् Indecl.: again, again and again, back, once more; however, but (before voiced sounds except r-: पुनर्)
 
-prajā f.: procreation, birth, offspring
+प्रजा f.: procreation, birth, offspring
 
-matsya m.: fish
+मत्स्य m.: fish
 
 from which:
 ::: indent
-mātsya 3: belonging to the fish (to fish)
+मात्स्य 3: belonging to fish (to fish)
 :::
 
 ::: media
 ![](/images/lekt2901.jpg)
-Fig.: matsyaḥ
-(Image source: [Details](/licenses#lekt2901))
+Fig.: मत्स्यः
+(Image source: [Details](/en/licenses#lekt2901))
 :::
 
-mṛdu 3 (f.: mṛdvī): gentle, mild, soft; slow, weak
+मृदु  3 (f.: मृद्वी): gentle, mild, soft; slow, weak
 
-yathā Adv.: as, as if
+यथा Adv.: how, as if
 
-ram 1Ā ramate : to stand still, to rest, to linger; to take pleasure, to delight
+रम् 1Ā रमते : to stand still, to rest, to linger; to take pleasure, to delight
 
 ::: indent
-Fut. raṃsyate  
-Pass. ramyaṭe  
-Caus. ramayati  
-PPP rata  
-Inf. rantum
+Fut. रंस्यते  
+Pass. रम्यते  
+Caus. रमयति  
+PPP रत  
+Inf. रन्तुम्
 :::
 
-vānaprastha m.: forest hermit (one who is in the third āśrama)
+वानप्रस्थ m.: forest hermit (someone who is in the 3rd आश्रम)
 
-śuci 3: radiant, shining, fine; m.: purity
+शुचि 3: shining, gleaming, fine; m.: purity
 
-pūj 10P pūjayati : to honor, to revere
+पूज् 10P पूजयति : to honor, to revere
 
 ::: indent
-PPP pūjita
+PPP पूजित
 :::
 
 ## 29.3. Translation Exercise for Review
 
-Translate faithfully into good German and memorize the Sanskrit texts:
+Translate word-for-word into good German and memorize the Sanskrit texts:
 
-1\. Definition of **avidyā**:
+1\. Definition of अविद्या :
 
-anityāśuciduḥkhānā**tmasu** nityaśucisukhātmakhyātiravidyā ॥Yogasūtra 2.5॥
+अनित्याशुचिदुःखा***नात्मसु*** नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २.५॥
 
-Explanation: **ātmasu** = Loc. sg. of **ātman** m. "soul; the Absolute, insofar as it is realized in the individual"
+Explanation: आत्मसु = Loc. sg. of आत्मन् m. "soul; the Absolute, insofar as it is realized in the individual"
 
-2\. **Kauṭīyārthaśāstra** 1.4 on the proper use of the **daṇḍa** (rod/punishment):
+2\. कौटिलीयार्थशास्त्र 1.4. on the proper use of the दण्ड :
 
-tīkṣṇadaṇḍo bhūtānā**mudvejanīyo** bhavati ॥8॥
+तीक्ष्णदण्डो भूताना***मुद्वेजनीयो*** भवति ।८।
 
-mṛdudaṇḍaḥ paribhūyate ॥9॥
+मृदुदण्डः परिभूयते ।९।
 
-yathārhadanaḍaḥ pūjyate ॥10॥
+यथार्हदण्डः पूज्यते ।१०।
 
-su**vijñātapṇīto** hi daṇḍaḥ prajā dharmārthakāma**iryojayati** ॥11॥
+सु***विज्ञात***प्रणीतो हि दण्डः प्रजा धर्मार्थकामै***र्योजयति*** ।११।
 
-duṣpraṇītaḥ **kāmakrodhābhyāṃ**vajñānād vā vānaprasthaparivrājakān api kopayati, **kimāṅg** punargṛhasthān ॥12॥
+दुष्प्रणीतः ***कामक्रोधाभ्याम***वज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति, ***किमङ्ग*** पुनर्गृहस्थान् ।१२।
 
-apraṇītas tu mātsyanyāyam udbhāvayati ॥13॥
+अप्रणीतस्तु मात्स्यन्यायमुद्भावयति ।१३।
 
-**balīyān**abalaṃ hi grasate daṇḍadhārābhāve ॥14॥
+**बलीयान**अबलं हि ग्रसते दण्डधराभावे ।१४।
 
-sa tena guptaḥ prabhavatīti ॥15॥
-
+स तेन गुप्तः प्रभवतीति ।१५।
 ::: indent
-
-**caturv**eṇāśramo loko  
-**rājñā** daṇḍena pālitah ॥  
-svadharmakarmābhirato  
-vartate **sveṣu vartmasu** ॥16॥
-
+**चतुर्व**र्णाश्रमो लोको  
+**राज्ञा** दण्डेन पालितः ।  
+स्वधर्मकर्माभिरतो  
+वर्तते **स्वेषु वर्त्मसु** ॥१६॥
 :::
 
 ::: media
-
 ![](/images/lekt2902.jpg)
-
-Fig.: **mātsyanyāya**:
-
-(Image source: [Details](/licenses#lekt2902))
-
+Fig.: मात्स्यन्याय:
+(Image source: [Details](/en/licenses#lekt2902))
 :::
 
 Explanations:
 
-॥8॥ **udvejanīya** 3 "something (someone) before whom one must shudder"
+।८। उद्वेजनीय ३ "something (someone) before whom one must shudder"
 
-॥11॥ **vijñāta** 3 "recognized"; n.: recognition
+।११। विज्ञात ३ "recognized"; n.: recognition
 
-॥11॥ **yojayati** (Caus. from **yuḥ**) "to yoke, connect with, unite with"
+।११। योजयति (Caus. of युज्) "to harness, to connect with, to unite with"
 
-॥12॥ **kāmakrodhābhyām**: Instr., Dat., Abl., Dual masc. of **kāmakrodha** (Dualdvandva)
+।१२। कामक्रोधाभ्याम् : Instr., Dat. Abl., Dual masc. of कामक्रोध (Dualdvandva)
 
-॥12॥ **kimāṅg** "by how much more"
+।१२। किमङ्ग "all the more"
 
-॥14॥ **balīyān**: Nom. sg. masc. of **balīyas** 3 "stronger"
+।१४। बलीयान् : Nom. sg. masc. of बलीयस् ३ "stronger"
 
-॥16॥ **catur** "four" as the first member of a compound
+।१६। चतुर् "four" as the first member of a compound
 
-**rājñā** Instr. sg. masc. of **rājan** m. "king"
+राज्ञा Instr. sg. masc. of राजन् m. "king"
 
-**sveṣu**: Loc. plur. masc./neutr. of **sva** 3 "own (my, your, his, etc.)"
+स्वेषु : Loc. plur. masc. / neut. of स्व ३ "own (my, your, his, etc.)"
 
-**vartmasu**: Loc. plur. neutr. of **vartman** n. "path, track, way"
+वर्त्मसु : Loc. plur. neut. of वर्त्मन् n. "path, track, way"
 
-## 29.4. Future and Causative Forms for the Roots Learned Thus Far
+## 29.4. Future and Causative for the Roots Learned So Far
 
 ::: grammar-box
 
@@ -282,8 +279,4 @@ Explanations:
 
 ::: deleteme-box
 
-### Sources
-**lekt2903:** Pushkar = पुष्कर [Image source: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accessed on 2008-12-20. -- Creative Commons License (Attribution, non-commercial use, share alike)]
-**lekt2901:** Rohu fish = Labeo rohita Hamilton [Image source: Khalid Mahmood / Wikipedia. GNU FDL]
-**lekt2902:** (Drawing: Namcha Payer, 2002-11)
-:::
+**lekt2903:** Pushkar = पुष्कर [Image source: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accessed 2008-12-20. -- Creative Commons License (Attribution, non-commercial use, share alike)]

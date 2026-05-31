@@ -1,266 +1,277 @@
-# Lektion 36
+---
+title: Урок 36
+subtitle: "Особени образувания на перфекта"
+lesson_id: 36
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
-## 36.1. Besondere Образованеen des Perfekts
+# Урок 36
+
+## 36.1. Особени образувания на перфекта
 
 :::: grammar-box
-1\. Einige Wurzeln zeigen nach der Reduplikationssilbe eine Veränderung des Wurzelanlauts. &lt;!-- TODO: Fallback translation --&gt;
+1\. Някои корени показват след сричката за редупликация промяна в началото на корена.
 ::::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-| Корен[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Корен[[br]]धातु | 3. ед. пер. перф. акт. | 3. мн. пер. перф. акт. | 3. ед. пер. перф. мед. | 3. мн. пер. перф. мед. |
 | :--- | :--- | :--- | :--- | :--- |
-| **जि** 1P[[br]]Perf. IIIa | **जिगाय** | **जिग्युर्**[[br]]ji-gi + ur | | |
-| **चि** 5U[[br]]Perf. IIIa | **चिकाय**[[br]]**चिचाय** | **चिक्युर्**[[br]]**चिच्युर्** | **चिक्ये**[[br]]**चिच्ये** | **चिक्यिरे**[[br]]**चिच्यिरे** |
-| **हन्** 2P[[br]]Perf. Va | **जघान** | **जघ्नुर्** | | |
+| **जि** 1P[[br]]Перф. IIIa | जि***गा***य | जि***ग्यु***र्[[br]]ji-gi + ur | | |
+| **चि** 5U[[br]]Перф. IIIa | चि***का***य[[br]]**चिचाय** | चि***क्यु***र्[[br]]**चिच्युर्** | चि***क्ये***[[br]]**चिच्ये** | चि***क्यि***रे[[br]]**चिच्यिरे** |
+| **हन्** 2P[[br]]Перф. Va | ज***घा***न | ज***घ्नु***र् | | |
 
 :::: grammar-box
-2\. Die Wurzel विद् 2P "wissen" hat ein Perfekt mit präsentischer Bedeutung. &lt;!-- TODO: Fallback translation --&gt;
+2\. Коренът विद् 2P „знам“ има перфект с присъстно значение.
 ::::
 
 :::: grammar-box
-| Корен[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Корен[[br]]धातु | 3. ед. пер. перф. акт. | 3. мн. пер. перф. акт. |
 | :--- | :--- | :--- |
-| **विद्** 2P | **वेद**[[br]]er/sie/es weiß | **विदुर्**[[br]]sie wissen |
+| **विद्** 2P | **वेद**[[br]]той/тя/то знае | **विदुर्**[[br]]те знаят |
 ::::
 
 :::: grammar-box
-3\. Die Wurzel अह् "sagen" hat nur Perfektformen (Perfekt I). Diese haben präsentische Bedeutung. &lt;!-- TODO: Fallback translation --&gt;
+3\. Коренът अह् „казвам“ има само перфектни форми (Перфект I). Те имат присъстно значение.
 ::::
 
 :::: grammar-box
-| Корен[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Корен[[br]]धातु | 3. ед. пер. перф. акт. | 3. мн. пер. перф. акт. |
 | :--- | :--- | :--- |
-| **अह्**[[br]]Perf. I | **आह**[[br]]er/sie/es sagt | **आहुर्**[[br]]sie sagen |
+| **अह्**[[br]]Перф. I | **आह**[[br]]той/тя/то казва | **आहुर्**[[br]]те казват |
 ::::
 
 :::: grammar-box
-4\. Die Wurzel भू 1P hat den Perfektstamm बभू, vor Vokalen बभूव्. &lt;!-- TODO: Fallback translation --&gt;
+4\. Коренът भू 1P има перфектен корен बभू, пред гласни बभूव्.
 ::::
 
 :::: grammar-box
-| Корен[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Корен[[br]]धातु | 3. ед. пер. перф. акт. | 3. мн. пер. перф. акт. |
 | :--- | :--- | :--- |
 | **भू** 1P | **बभूव** | **बभूवुर्** |
 ::::
 
-## 36.2. Das periphrastische Perfekt (अनुप्रयोगलिट्)
+## 36.2. Перифрастичното перфектно време (अनुप्रयोगलिट्)
 
 :::: grammar-box
-Das periphrastische Perfekt (अनुप्रयोगलिट्) wird gebraucht: &lt;!-- TODO: Fallback translation --&gt;
+Перифрастичното перфектно време (अनुप्रयोगलिट्) се използва:
 
-1. bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa) &lt;!-- TODO: Fallback translation --&gt;
-2. bei Коренn, die mit einem langen Vokal (außer ā-) beginnen, bzw. mit einem Vokal (außer a-) vor zwei Konsonanten &lt;!-- TODO: Fallback translation --&gt;
-3. bei einigen sonstigen Коренn &lt;!-- TODO: Fallback translation --&gt;
+1. при производните спряжения (каузатив, десидератив, фрекватив, номинални глаголи)
+2. при корени, които започват с дълъг гласен (с изключение на ā-) или с гласен (с изключение на a-) пред две съгласни
+3. при някои други корени
 ::::
 
 :::: grammar-box
-**Bildung:** &lt;!-- TODO: Fallback translation --&gt;
+**Образуване:**
 
-(schwacher) Präsensstamm + -ām + entsprechende Perfektform von कृ, अस् oder भू &lt;!-- TODO: Fallback translation --&gt;
+(слаб) настоящ корен + -ām + съответната перфектна форма на कृ, अस् или भू
 
-- Auslautender Основаvokal wird vor -ām guṇiert. &lt;!-- TODO: Fallback translation --&gt;
-- अस् und भू werden auch bei Ātmanepada-Verben im Parasmaipada konjugiert. &lt;!-- TODO: Fallback translation --&gt;
+- Крайният гласен на основата се гунира преди -ām.
+- अस् и भू се спрягат и при глаголи от Атманапада в Парасмапада.
 ::::
 
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. &lt;!-- TODO: Fallback translation --&gt;
+Перифрастичното перфектно вероятно е възникнало от акузатива на вербалното съществително на -ā. Този акузатив се използва -- както и в много други случаи -- адвербиално.
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-| Корен[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Корен[[br]]धातु | 3. ед. перф. П. | 3. мн. перф. П. | 3. ед. перф. Ā. | 3. мн. перф. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | **ईक्ष्** 1Ā | | | **ईक्षां चक्रे**[[br]]**ईक्षामास**[[br]]**ईक्षां बभूव** | **ईक्षां चक्रिरे**[[br]]**ईक्षामासुर्**[[br]]**ईक्षां बभूवुर्** |
-| **बन्ध्**[[br]]Kausativ: बन्धय-[[br]]"binden lassen" | **बन्धयां चकार**[[br]]**बन्धयामास**[[br]]**बन्धयां बभूव** | **बन्धयां चक्रुर्**[[br]]**बन्धयामासुर्**[[br]]**बन्धयां बभूवुर्** | | |
+| **बन्ध्**[[br]]Каузатив: बन्धय-[[br]]"нека свърже" | **बन्धयां चकार**[[br]]**बन्धयामास**[[br]]**बन्धयां बभूव** | **बन्धयां चक्रुर्**[[br]]**बन्धयामासुर्**[[br]]**बन्धयां बभूवुर्** | | |
 
-## 36.3. Perfekt Passiv
+## 36.3. Перфект страдателен залог
 
 :::: grammar-box
-Im Perfekt werden für das Passiv die Formen des Ātmanepada verwendet. Bevorzugt wird demgegenüber die Verwendung des PPP. Die Konstruktion ist in beiden Fällen die der Passivsätze: &lt;!-- TODO: Fallback translation --&gt;
+При перфекта за страдателния залог се използват формите на Атманепада. Предпочита се използването на PPP. Конструкцията и в двата случая е тази на страдателните изречения:
 
 ::: indent
-तेन पुण्यं चक्रे = तेन पुण्यं कृतम् = "Er tat ein verdienstvolles Werk" &lt;!-- TODO: Fallback translation --&gt;
+तेन पुण्यं चक्रे = तेन पुण्यं कृतम् = „Той извърши достойно дело“
 :::
 ::::
 
 ## 36.4. Речник
 
-अह् P nur Perfekt mit Präsensbedeutung आह, आहुर् : sagen, sprechen &lt;!-- TODO: Fallback translation --&gt;
+अह् P само Перфект с значение на Презент आह, आहुर् : казвам, говоря
 
-अह् प्र P nur Perfekt mit Präsensbedeutung प्राह : sagen, sprechen &lt;!-- TODO: Fallback translation --&gt;
+अह् प्र P само Перфект с значение на Презент प्राह : казвам, говоря
 
-ईक्ष् 1Ā ईक्षते : sehen, (er)blicken, betrachten &lt;!-- TODO: Fallback translation --&gt;
+ईक्ष् 1Ā ईक्षते : виждам, (раз)глеждам, разглеждам
 
 ::: indent
-Perf. ईक्षां चक्रे  
-Fut. ईक्षिष्यते  
-Pass. ईक्ष्यते  
-Kaus. ईक्षयति  
+Перф. ईक्षां चक्रे  
+Фут. ईक्षिष्यते  
+Пас. ईक्ष्यते  
+Кавс. ईक्षयति  
 PPP ईक्षित  
-Inf. ईक्षितुम् &lt;!-- TODO: Fallback translation --&gt;
+Инф. ईक्षितुम्
 :::
-चि 5U चिनोति : aufschichten, sammeln &lt;!-- TODO: Fallback translation --&gt;
+चि 5U चिनोति : насъбирам, събирам
 
 ::: indent
-Perf. चिकाय । चिचाय  
-Fut. चेष्यति  
-Pass. चीयते  
-Kaus. चाययति । चापयति  
+Перф. चिकाय । चिचाय  
+Фут. चेष्यति  
+Пас. चीयते  
+Кавс. चाययति । चापयति  
 PPP चित  
-Inf. चेतुम् &lt;!-- TODO: Fallback translation --&gt;
+Инф. चेतुम्
 :::
 ::: media
 ![](/images/lekt3601.jpg)
-Abb.: गोमयं चिकाय
-(Bildquelle: [Details](/licenses#lekt3601)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: गोमयं चिकाय
+(Източник на изображението: [Подробности](/bg/licenses#lekt3601))
 :::
 
-व्रज् 1P व्रजति : schreiten, gehen, weggehen &lt;!-- TODO: Fallback translation --&gt;
+व्रज् 1P व्रजति : стъпвам, вървя, отивам си
 
 ::: indent
-Perf. Vc वव्राज, वव्रजुर्  
-Fut. व्रजिष्यति  
-Pass. व्रज्यते  
-Kaus. व्राजयति  
+Перф. Vc वव्राज, वव्रजुर्  
+Фут. व्रजिष्यति  
+Пас. व्रज्यते  
+Кавс. व्राजयति  
 PPP व्रजित  
-Inf. व्रजितुम् &lt;!-- TODO: Fallback translation --&gt;
+Инф. व्रजितुम्
 :::
-व्रज् + प्र 1P प्रव्रजति : weggehen (insbes. aus dem Heim in die Heimlosigkeit als Asket = ein Mönch werden) &lt;!-- TODO: Fallback translation --&gt;
+व्रज् + प्र 1P प्रव्रजति : отивам си (особ. от дома в бездомност като аскет = ставам монах)
 
-अगार n.। आगार n.: Haus, Heim &lt;!-- TODO: Fallback translation --&gt;
+अगार n.। आगार n.: дом, жилище
 
 ::: media
 ![](/images/lekt3602.jpg)
-Abb.: अगारम्
-(Bildquelle: [Details](/licenses#lekt3602)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: अगारम्
+(Източник на изображението: [Подробности](/bg/licenses#lekt3602))
 :::
 
 ::: indent
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
-अनगार्य n. । अनगारika f.: Heimlosigkeit eines buddhistischen Mönchs oder Novizen &lt;!-- TODO: Fallback translation --&gt;
+अनगार्य n. । अनगारika f.: бездомност на будистки монах или новобранец
 :::
 
 ::: media
 ![](/images/lekt3603.jpg)
-Abb.: अनगार्यम्
-(Bildquelle: [Details](/licenses#lekt3603)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: अनगार्यम्
+(Източник на изображението: [Подробности](/bg/licenses#lekt3603))
 :::
-अञ्जलि m.: Die beiden zur Ehrerbietung hoch zusammengelegten Hände &lt;!-- TODO: Fallback translation --&gt;
+अञ्जलि m.: Двете ръце, събрани закланени за почит
 
-आदृत 3: geachtet &lt;!-- TODO: Fallback translation --&gt;
+आदृत 3: уважаван
 
-उपाध्याय m.: Lehrer &lt;!-- TODO: Fallback translation --&gt;
+उपाध्याय m.: учител
 
-पृथिवी f.: Erde &lt;!-- TODO: Fallback translation --&gt;
+पृथिवी f.: земя
 
-पृष्ठ n: Rücken, Rückseite &lt;!-- TODO: Fallback translation --&gt;
+पृष्ठ n: гърб, задна страна
 
 ::: indent
-पृष्ठम् : hinter &lt;!-- TODO: Fallback translation --&gt;
+पृष्ठम् : зад
 :::
-प्रजापति m.: Herr der Geschöpfe, Schöpfergott &lt;!-- TODO: Fallback translation --&gt;
+प्रजापति m.: господар на създанията, бог-създател
 
-अनु Präverb: nach, entlang, über - hin, längs, gemäß, hinzu, hinter - her &lt;!-- TODO: Fallback translation --&gt;
+अनु Префикс: след, покрай, над - на, по, според, прибавено, зад - на
 
 ::: indent
-z.B. &lt;!-- TODO: Fallback translation --&gt;
+напр.
 
-अनुकृ : nachahmen, nachmachen &lt;!-- TODO: Fallback translation --&gt;
+अनुकृ : подражавам, правя след
 
-अनुगम् : jemandem nachgehen, entlanggehen &lt;!-- TODO: Fallback translation --&gt;
+अनुगम् : следвам някого, вървя покрай
 :::
-अभि : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an &lt;!-- TODO: Fallback translation --&gt;
+अभि : об-, след - на, към - на, към - на, срещу, в - вътре, по отношение на, върху, върху, при
 
 ::: indent
-z.B. &lt;!-- TODO: Fallback translation --&gt;
+напр.
 
-अभिगम् : hingehen, sich nähern &lt;!-- TODO: Fallback translation --&gt;
+अभिगम् : отивам към, приближавам се
 
-वद् + अभि Kausativ Ā अभिवादयते : formell begrüßen, anreden &lt;!-- TODO: Fallback translation --&gt;
+वद् + अभि Кавсив Ā अभिवादयते : официално поздравявам, адресирам
 :::
-ग्लै 1P ग्लायति : Widerwillen empfinden, dahinschwinden &lt;!-- TODO: Fallback translation --&gt;
+ग्लै 1P ग्लायति : изпитвам отвращение, изчезвам
 
 ::: indent
-Perf. IV जग्लौ  
-Fut. ग्लास्यति  
-Pass. ग्लायते  
-Kaus. ग्लापयति । ग्लपयति  
+Перф. IV जग्लौ  
+Фут. ग्लास्यति  
+Пас. ग्लायते  
+Кавс. ग्लापयति । ग्लपयति  
 PPP ग्लान  
-Inf. ग्लातुम्  
-Absol. -ग्लाय &lt;!-- TODO: Fallback translation --&gt;
+Инф. ग्लातुम्  
+Абсол. -ग्लाय
 :::
-घ्रा 1P जिघ्रति : etwas riechen &lt;!-- TODO: Fallback translation --&gt;
+घ्रा 1P ***जिघ्रति*** : усещам миризма
 
 ::: indent
-Perf. IV जघ्रौ  
-Fut. घ्रास्यति  
-Pass. घ्रायते  
-Kaus. घ्रापयति  
+Перф. IV जघ्रौ  
+Фут. घ्रास्यति  
+Пас. घ्रायते  
+Кавс. घ्रापयति  
 PPP घ्रात । घ्राण  
-Inf. घ्रातुम्  
-Absol. -घ्राय &lt;!-- TODO: Fallback translation --&gt;
+Инф. घ्रातुम्  
+Абсол. -घ्राय
 :::
-प्री 9U प्रीणति : ergötzen, erfreuen; lieben, jemandem geneigt sein &lt;!-- TODO: Fallback translation --&gt;
+प्री 9U प्रीणति : забавлявам, радвам; обичам, благоволя към някого
 
-प्री 4Ā प्रीयते : sich freuen &lt;!-- TODO: Fallback translation --&gt;
+प्री 4Ā प्रीयते : радвам се
 
 ::: indent
-Perf. IIIa पिप्राय, पिप्रिये  
-Fut. प्रेष्यति  
-Pass. प्रीयते  
-Kaus. प्रीणयति  
+Перф. IIIa पिप्राय, पिप्रिये  
+Фут. प्रेष्यति  
+Пас. प्रीयते  
+Кавс. ***प्रीणयति***  
 PPP प्रीत  
-Inf. प्रेतुम् &lt;!-- TODO: Fallback translation --&gt;
+Инф. प्रेतुम्
 :::
-स्पृश् 6P स्पृशति : berühren &lt;!-- TODO: Fallback translation --&gt;
+स्पृश् 6P स्पृशति : докосвам
 
 ::: indent
-Perf IIa पस्पर्श, पस्पृशुर्  
-Fut. स्पर्क्ष्यति । स्प्रक्ष्यति  
-Pass. स्पृश्यते  
-Kaus. स्पर्शयति  
+Перф IIa पस्पर्श, पस्पृशुर्  
+Фут. स्पर्क्ष्यति । स्प्रक्ष्यति  
+Пас. स्पृश्यते  
+Кавс. स्पर्शयति  
 PPP स्पृष्ट  
-Inf. स्पर्ष्तुम् । स्प्रष्तुम्  
-Absol. -स्पृश्य &lt;!-- TODO: Fallback translation --&gt;
+Инф. स्पर्ष्तुम् । स्प्रष्तुम्  
+Абсол. -स्पृश्य
 :::
 ::: media
 ![](/images/lekt3606.jpg)
-Abb.: सुगतो भूमीं पस्पर्श
-(Bildquelle: [Details](/licenses#lekt3606)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: सुगतो भूमीं पस्पर्श
+(Източник на изображението: [Подробности](/bg/licenses#lekt3606))
 :::
 
-हृष् 4P हृष्यति : starr werden: sich sträuben (Haare), sich freuen über (Instr., Akk., Lok.) &lt;!-- TODO: Fallback translation --&gt;
+हृष् 4P हृष्यति : стават неподвижни: изправят се (коса), радват се на (Инст., Акуз., Лок.)
 
 ::: indent
-Perf II जहर्ष  
-Fut. हर्षिष्यति  
-Pass. हृष्यते  
-Kaus. हर्षयति  
-PPP हृषित &lt;!-- TODO: Fallback translation --&gt;
+Перф II जहर्ष  
+Фут. हर्षिष्यति  
+Пас. हृष्यते  
+Кавс. हर्षयति  
+PPP हृषित
 :::
 ::: media
 ![](/images/lekt3604.jpg)
-Abb.: लोमहर्षः
-(Bildquelle: [Details](/licenses#lekt3604)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: लोमहर्षः
+(Източник на изображението: [Подробности](/bg/licenses#lekt3604))
 :::
 
-स्वक 3: eigen (mein, dein ...) ; m.: Angehöriger &lt;!-- TODO: Fallback translation --&gt;
+स्वक 3: собствен (мой, твой ...) ; m.: член
+
+
 
 ## 36.5. Упражнение
 
-A) Folgende Wurzeln haben sowohl redupliziertes wie periphrastisches Perfekt. Bilden Sie zu folgenden Formen die entsprechenden periphrastischen und reduplizierten Perfektformen: &lt;!-- TODO: Fallback translation --&gt;
+А) Следните корени имат както редуплицирано, така и перифрастично перфектно време. Образувате съответните перифрастични и редуплицирани перфектни форми за следните форми:
 
 1.  बिभ्रते
 2.  बिभ्यति
 3.  जुहोति
 4.  वेत्ति
 
-B) Die Wurzel आस् "sitzen" hat periphrastisches Perfekt. Bilden sie dieses zu folgenden Formen: &lt;!-- TODO: Fallback translation --&gt;
+Б) Коренът आस् „седя“ има перифрастично перфектно време. Образувате това за следните форми:
 
 1.  आस्ते
 2.  आसते
 
-C) Bilden Sie das entsprechende Perfekt zu folgenden Formen: &lt;!-- TODO: Fallback translation --&gt;
+В) Образувате съответното перфектно време за следните форми:
 
 1.  जीयते
 2.  विदन्ति
@@ -269,21 +280,21 @@ C) Bilden Sie das entsprechende Perfekt zu folgenden Formen: &lt;!-- TODO: Fallb
 5.  ऐक्षन्त
 6.  अगापयत्
 7.  अपद्यन्त
-8.  चिनोति (2 Formen) &lt;!-- TODO: Fallback translation --&gt;
+8.  चिनोति (2 форми)
 9.  हन्ति
 10.  प्रभविष्यन्ति
 11.  क्रामन्ति
 12.  प्राव्रजन्
 13.  त्यक्ष्यति
 
-D) Übersetzen Sie: &lt;!-- TODO: Fallback translation --&gt;
+Г) Преведете:
 
 पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज । बुद्ध्यार्यसत्यानि प्रज्ञाय प्रज्ञया च दुःखान्मुक्तो मोक्तुकामार्यजनान्बोधयामासेति भिक्षव आहुः ॥१॥
 
 ::: media
 ![](/images/lekt3605.jpg)
-Abb.: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज
-(Bildquelle: [Details](/licenses#lekt3605)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज
+(Източник на изображението: [Подробности](/bg/licenses#lekt3605))
 :::
 
 ब्राह्मणा महादेवयज्ञायाग्निं चिक्यिरे । ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश । एवं यज्ञेन ब्राह्मणा महादेवैरादयां चक्रुस्तांश्च स्तोत्रानि श्रावयां बभूवुः ॥२॥
@@ -298,9 +309,9 @@ Abb.: पुत्रे जाते सुगतः कुलं धनं च
 
 ब्राह्मणीभिः स्वान्नानि पेचिरे ॥७॥
 
-## 36.6. Das Perfekt (लिट्) zu den bisher gelernten Коренn
+## 36.6. Перфектът (लिट्) спрямо досегашните изучени корени
 
-| Корен[[br]]धातु | Perfektklasse | Perfekt (लिट्) |
+| Корен[[br]]धातु | Клас перфект | Перфект (लिट्) |
 | :--- | :--- | :--- |
 | **अञ्ज्** 7P | I | **आनञ्ज** |
 | **अद्** 2P | I | **आद** |
@@ -310,10 +321,10 @@ Abb.: पुत्रे जाते सुगतः कुलं धनं च
 | **अस्** 2P | I | **आस** |
 | **अस्** 4P | I | **आस** |
 | **आप्** 5P | I | **आप** |
-| **आस्** 2Ā | Periph. | **आसां चक्रे** |
+| **आस्** 2Ā | Периф. | **आसां चक्रे** |
 | **इ** 2P | IIIa | **इयाय**, **ईयुर्** |
 | **इष्** 6P | II | **इयेष**, **ईषुर्** |
-| **कम्** 10Ā | Periph. Vc | **कामयां चक्रे** / **चकमे** |
+| **कम्** 10Ā | Периф. Vc | **कामयां चक्रे** / **चकमे** |
 | **कुप्** 4P | II | **चुकोप**, **चुकुपुर्** |
 | **कृ** 8U | IIIa | **चकार**, **चक्रुर्** |
 | **कृ** सम् 8 | IIIb | **सञ्चस्कार**, **सञ्चस्करुर्** |
@@ -325,10 +336,10 @@ Abb.: पुत्रे जाते सुगतः कुलं धनं च
 | **गम्** 1P | Va | **जगाम**, **जग्मुर्** |
 | **ग्रस्** 1Ā | Vc | **जग्रसे** |
 | **चर्** 1P | Vb | **चचार**, **चेरुर्** |
-| **चुर्** 10U | Periph. | **चोरयां चकार** |
+| **चुर्** 10U | Периф. | **चोरयां चकार** |
 | **छिद्** 7U | II | **चिच्छेद**, **चिच्छिदे** |
 | **जन्** 1Ā | Va | **जज्ञे** |
-| **जि** 1P | Unregelm. IIIa | **जिगाय**, **जिग्युर्** |
+| **जि** 1P | Нерег. IIIa | **जिगाय**, **जिग्युर्** |
 | **जीव्** 1P | I | **जजिजीव** |
 | **ज्ञा** 9U | IV | **जज्ञौ**, **जज्ञे** |
 | **तन्** 8U | Vb | **ततान**, **तेने** |
@@ -358,10 +369,10 @@ Abb.: पुत्रे जाते सुगतः कुलं धनं च
 | **भज्** 1U | Vb (!) | **बभाज**, **भेजे** |
 | **भञ्ज्** 7P | I | **बभञ्ज**, **बभञ्जुर्** |
 | **भिद्** 7U | II | **बिभेद**, **बिभिदे** |
-| **भी** 3P | IIIa / Periph. | **बिभाय**, **बिभ्युर्** / **बिभयां चकार** |
+| **भी** 3P | IIIa / Периф. | **बिभाय**, **बिभ्युर्** / **बिभयां चकार** |
 | **भुज्** 7U | II | **बुभोज**, **बुबुजे** |
-| **भू** 1P | Unregelm. | **बभूव**, **बभूवुर्** |
-| **भृ** 1U, 3U | IIIa / Periph. | **बभार**, **बभ्रुर्** / **बिभरां चकार** |
+| **भू** 1P | Нерег. | **बभूव**, **बभूवुर्** |
+| **भृ** 1U, 3U | IIIa / Периф. | **बभार**, **बभ्रुर्** / **बिभरां चकार** |
 | **मद्** 4P | Vb | **ममाद**, **मेदुर्** |
 | **मन्** 4Ā | Vb | **मेने** |
 | **मा** 2P, 3Ā | IV | **ममौ**, **ममे** |
@@ -369,6 +380,7 @@ Abb.: पुत्रे जाते सुगतः कुलं धनं च
 | **मुह्** 4P | II | **मुमोह**, **मुमुहुर्** |
 | **मृ** 4Ā | IIIa | **ममार**, **मम्रुर्** |
 | **यज्** 1U | Va | **इयाज**, **ईजुर्** |
+
 | **युज्** 7U | II | **युयोज**, **युयुजे** |
 | **युध्** 4Ā | II | **युयुधे** |
 | **रक्ष्** 1P | I | **ररक्ष**, **ररक्षुर्** |
@@ -382,7 +394,7 @@ Abb.: पुत्रे जाते सुगतः कुलं धनं च
 | **वस्** 1P | Va | **उवास**, **ऊषुर्** |
 | **वस्** 2Ā | Vc | **ववसे** |
 | **वह्** 1U | Va | **उवाह**, **ऊहे** |
-| **विद्** 2P | II / Periph. / Präsentisch | **विवेद**, **विविदुर्** / **विदां चकार** / **वेद**, **विदुर्** |
+| **विद्** 2P | II / Периферийно / Присентично | **विवेद**, **विविदुर्** / **विदां चकार** / **वेद**, **विदुर्** |
 | **विद्** 6U | II | **विवेद**, **विविदे** |
 | **विश्** 6P | II | **विवेश**, **विविशुर्** |
 | **वृत्** 1Ā | II | **ववृते** |
@@ -399,82 +411,82 @@ Abb.: पुत्रे जाते सुगतः कुलं धनं च
 | **स्मृ** 1P | IIIb | **सस्मार**, **सस्मरुर्** |
 | **हन्** 2P | Va | **जघान**, **जघ्नुर्** |
 | **हा** 3P | IV | **जहौ**, **जहुर्** |
-| **हु** 3P | IIIa / Periph. | **जुहाव**, **जुहुवुर्** / **जुहवां चकार** |
+| **हु** 3P | IIIa / Периферийно | **जुहाव**, **जुहुवुर्** / **जुहवां चकार** |
 | **हृ** 1U | IIIa | **जहार**, **जह्रे** |
 
 ## 36.7. Упражнение за превод
 
-Übersetzen Sie: &lt;!-- TODO: Fallback translation --&gt;
+Преведете:
 
 1\. महाभारत १३.७.२५-२६
 
 ::: indent
-येन प्रीणति पितरं
+येन प्रीणति ***पितरं***
 तेन प्रीतः प्रजापतिः ।
-प्रीणति मातरं येन
+प्रीणति ***मातरं*** येन
 पृथिवी तेन पूजिता ।
 येन प्रीणात्युपाध्यायं
-तेन स्याद्ब्रह्म पूजितम् ।
-सर्वे तस्यादृता धर्मा
-यस्यैते त्रय आदृताः ।
+तेन स्या***द्ब्रह्म*** पूजितम् ।
+***सर्वे*** तस्यादृता धर्मा
+यस्यैते ***त्रय*** आदृताः ।
 अनादृतास्तु यस्यैते
-सर्वास्तस्याफलाः क्रियाः ॥
+***सर्वास्त***स्याफलाः क्रियाः ॥
 
-Erklärungen: &lt;!-- TODO: Fallback translation --&gt;
+Обяснения:
 
-पितरम् : Akk. sg. zu पितृ m. "Vater" &lt;!-- TODO: Fallback translation --&gt;
+पितरम् : Вин. ед. ч. към पितृ м.р. "Баща"
 
-मातरम् : Akk. sg. zu मातृ f. "Mutter" &lt;!-- TODO: Fallback translation --&gt;
+मातरम् : Вин. ед. ч. към मातृ ж.р. "Майка"
 
-ब्रह्म : Nom./Akk. sg. zu ब्रह्मन् n. "Absolutes, Veda" &lt;!-- TODO: Fallback translation --&gt;
+ब्रह्म : Имен./Вин. ед. ч. към ब्रह्मन् ср.р. "Абсолютно, Веда"
 
-सर्वे : Nom. pl. mask. zu सर्व "alle, jeder" &lt;!-- TODO: Fallback translation --&gt;
+सर्वे : Имен. мн. ч. м.р. към सर्व "всички, всеки"
 
-त्रयस् : Nom. pl. mask. zu त्रि "drei" &lt;!-- TODO: Fallback translation --&gt;
+त्रयस् : Имен. мн. ч. м.р. към त्रि "три"
 
-सर्वास् : Nom./Akk. pl. fem. zu सर्व "alle, jeder" &lt;!-- TODO: Fallback translation --&gt;
+सर्वास् : Имен./Вин. мн. ч. ж.р. към सर्व "всички, всеки"
 :::
 
 ::: media
 ![](/images/lekt3607.jpg)
-Abb.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।
-(Bildquelle: [Details](/licenses#lekt3607)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।
+(Източник на изображението: [Подробности](/bg/licenses#lekt3607))
 ::: 
 
-2\. मनुस्मृति ४.१५४ über der rechte Verhalten gegenüber Alten: &lt;!-- TODO: Fallback translation --&gt;
+2\. मनुस्मृति ४.१५४ за правилното поведение спрямо възрастните:
 
 ::: indent
 अभिवादयेद्वृद्धांश्च दद्याच्चैवासनं स्वकम् ।
 कृताञ्जलिरुपासीत गच्छतः पृष्ठतो ऽन्वियात् ॥
 :::
 
-3\. मनुस्मृति २.९८: Wer ein जितेन्द्रिय ist: &lt;!-- TODO: Fallback translation --&gt;
+3\. मनुस्मृति २.९८: Който е जितेन्द्रिय:
 
 ::: indent
 श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च भुक्त्वा घ्रात्वा च यो नरः ।
-न हृष्यति ग्लायति वा स विज्ञेयो जितेन्द्रियः ॥
+न हृष्यति ग्लायति वा स ***विज्ञेयो*** जितेन्द्रियः ॥
 
-Erklärung: विज्ञेय ३: einer, der zu erkennen ist; einer, der zu wissen ist (als) &lt;!-- TODO: Fallback translation --&gt;
+Обяснение: विज्ञेय ३: такъв, който може да бъде разпознат; такъв, който може да бъде познат (като)
 :::
 
-4\. मनुस्मृति २.११० über rechte Verhalten eines Brahmanen: &lt;!-- TODO: Fallback translation --&gt;
+4\. मनुस्मृति २.११० за правилното поведение на брахман:
 
 ::: indent
 नापृष्टः कस्यचिद्ब्रूयान्न चान्यायेन पृच्छतः ।
 जानन्नपि हि मेधावी जडवल्लोक आचरेत् ॥
 
-Erklärungen: &lt;!-- TODO: Fallback translation --&gt;
+Обяснения:
 
-In diesem Vers ist ब्रू mit dem Genetiv konstruiert &lt;!-- TODO: Fallback translation --&gt;
+В този стих ब्रू е конструирано с родителен падеж
 
-मेधावी : Nom. sg. mask. zu मेधाविन् ३ "verständig, klug" &lt;!-- TODO: Fallback translation --&gt;
+मेधावी : Имен. ед. ч. м.р. към मेधाविन् ३ "мъдър, умен"
 
-जडवत् Adv. "In der Art eines Starren/Stumpfen/Dummen" &lt;!-- TODO: Fallback translation --&gt;
+जडवत् Наречие "По начина на глупак/тъпак/дурак"
 :::
 
-## 36.8. Wiederholungsübung zur Formenlehre
+## 36.8. Повторителна практика за морфология
 
-Bestimmen und übersetzen Sie folgende Wortformen auf alle möglichen Weisen: &lt;!-- TODO: Fallback translation --&gt;
+Определете и преведете следните словоформи по всички възможни начини:
 
 1.  नयति
 2.  समस्कुर्वन्
@@ -519,13 +531,11 @@ Bestimmen und übersetzen Sie folgende Wortformen auf alle möglichen Weisen: &l
 
 ::: deleteme-box
 
-### Източници
-
-- **lekt3601.jpg**: Фиг.: गोमयं चिकाय  Udaipur = उदयपुर [Източник на изображението: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Zugriff am  2008-12-28. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
-- **lekt3602.jpg**: Фиг.: अगारम् Shekawati = शेखावाटी [Източник на изображението: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Zugriff am  2008-12-28. --   Creative  Commons Lizenz (Namensnennung, shere alike)] <!-- TODO: Fallback translation -->
-- **lekt3603.jpg**: Фиг.: अनगार्यम् 	Nordostthailand = อีสาน 	[Източник на изображението: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Zugriff am  	2008-12-28. --  	 	Creative  	Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine  	Bearbeitung)] <!-- TODO: Fallback translation -->
-- **lekt3604.jpg**: Фиг.: लोमहर्षः (लोमन् n. Körperhaar) [Източник на изображението: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Zugriff am 2008-12-29.  --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
-- **lekt3605.jpg**: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज Gandhara, 1./2. Jhdt. n. Chr. [Източник на изображението: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-- **lekt3606.jpg**: Фиг.:स् सुगतो भूमीं पस्पर्श भूमीस्पर्शмудра [Източник на изображението: Payer] <!-- TODO: Fallback translation -->
-- **lekt3607.jpg**: Фиг.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् । [Източник на изображението: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Zugriff am  2008-12-29. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+- **lekt3601.jpg**: Ил.: गोमयं चिकाय Удаipur = उदयपुर [Източник на изображението: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Достъп на  2008-12-28. --   Creative  Commons лиценз (приписване, некомърска употреба)]
+- **lekt3602.jpg**: Ил.: अगारम् Shekawati = शेखावाटी [Източник на изображението: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Достъп на  2008-12-28. --   Creative  Commons лиценз (приписване, споделяне на равно)]
+- **lekt3603.jpg**: Ил.: अनगार्यम् 	Североизточен Тайланд = อีสาน 	[Източник на изображението: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Достъп на  	2008-12-28. --  	 	Creative  	Commons лиценз (приписване, некомърска употреба, без  	промени)]
+- **lekt3604.jpg**: Ил.: लोमहर्षः (लोमन् м.р. телесна коса) [Източник на изображението: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Достъп на 2008-12-29.  --   Creative  Commons лиценз (приписване, некомърска употреба)]
+- **lekt3605.jpg**: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज Gandhara, 1./2. век сл. н. е. [Източник на изображението: Wikipedia. GNU FDLicense]
+- **lekt3606.jpg**: Ил.:स् सुगतो भूमीं पस्पर्श भूमीस्पर्शMudrā [Източник на изображението: Payer]
+- **lekt3607.jpg**: Ил.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् । [Източник на изображението: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Достъп на  2008-12-29. --   Creative  Commons лиценз (приписване, некомърска употреба, споделяне на равно)]
 :::

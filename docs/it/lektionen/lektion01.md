@@ -1,24 +1,25 @@
 ---
 title: Lezione 1
-subtitle: "I fonemi del sanscrito"
+subtitle: "I suoni del sanscrito"
 lesson_id: 1
 category: "Grammatica"
-status: "stable"
+status: "stabile"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 1
+# Lezione 1
+
 
 ::: center
 गणेशपूजनम्
 gaṇeśapūjanam
-Verehrung des Gaṇeśa &lt;!-- TODO: Fallback translation --&gt;
+Venerazione di Gaṇeśa
 :::
 
 ::: media
 ![](/images/lekt0102.jpg)
-Abb.: Gaṇeśa, Adamspeak, Sri Lanka
-(Bildquelle: [Details](/licenses#lekt0102)) &lt;!-- TODO: Fallback translation --&gt;
+Fig.: Gaṇeśa, Adamspeak, Sri Lanka
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0102))
 :::
 
 ::: center
@@ -30,12 +31,12 @@ Abb.: Gaṇeśa, Adamspeak, Sri Lanka
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
 nirvighnaṃ kuru me deva
-sarvakāryeṣu sarvadā |** &lt;!-- TODO: Fallback translation --&gt;
+sarvakāryeṣu sarvadā |**
 
-Du Hängebauch, Du Naschkatze,
-Stets sei Dir Verehrung!
-Gott, mache all meine Unternehmungen
-Frei von Hindernissen! &lt;!-- TODO: Fallback translation --&gt;
+O dal ventre pendente, o amante dei modaka,
+Sempre sia a Te venerazione!
+Deva, rendi libere da ostacoli
+Tutte le mie imprese, sempre!
 :::
 
 ---
@@ -43,13 +44,13 @@ Frei von Hindernissen! &lt;!-- TODO: Fallback translation --&gt;
 ::: center
 मङ्गलचरणम्
 maṅgalacaraṇam
-"Glückbringender Anfang" &lt;!-- TODO: Fallback translation --&gt;
+"Inizio auspicioso"
 :::
 
 ::: media
 ![](/images/lekt0101.jpg)
-Abb.: Ardhanarīśvara
-(Bildquelle: [Details](/licenses#lekt0101)) &lt;!-- TODO: Fallback translation --&gt;
+Fig.: Ardhanarīśvara
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0101))
 :::
 
 ::: center
@@ -61,41 +62,41 @@ Abb.: Ardhanarīśvara
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
 jagataḥ pitarau vande
-pārvatīparameśvarau |** &lt;!-- TODO: Fallback translation --&gt;
+pārvatīparameśvarau |**
 
-(Kālidāsa: Raghuvaṃśa 1.1) &lt;!-- TODO: Fallback translation --&gt;
+(Kālidāsa: Raghuvaṃśa 1.1)
 
-Ich grüße die Eltern der Welt,
-Pārvatī und Śiva,
-Die so fest miteinander verbunden sind
-Wie Wort und Sinn zum Verständnis
-Des Wortsinns. &lt;!-- TODO: Fallback translation --&gt;
+Saluto i genitori del mondo,
+Pārvatī e Śiva,
+Che sono così saldamente uniti
+Come parola e significato per la comprensione
+Del significato della parola.
 :::
 
 ---
 
-Zu Beginn ein Kuriosum: &lt;!-- TODO: Fallback translation --&gt;
+Iniziamo con una curiosità:
 
 ::: note-box
-"Als William Jones [1746–1794] und Henry Thomas Colebrooke (1765—1857) das Sanskrit erstmalig gründlich studiert, teilweise übersetzt und gefunden hatten, dass es eine reiche Literatur und nicht geringe Verwandtschaft mit den klassischen Sprachen aufwies, stießen sie auf nicht geringen Widerstand. Da sich mit dieser innigen Beziehung des Sanskrits zu den geographisch so weit entlegenen europäischen Sprachen die alten Anschauungen, welche entweder alle Sprachen aus dem Hebräischen ableiteten oder größtenteils von einander isolierten, nicht in Einklang bringen lassen, so ergriff der berühmte Philologe Dugald Steward (1753—1828) den einfachsten Ausweg, indem er die ganze Geschichte mit der Sanskritsprache für eine Lüge erklärte. Er schrieb einen Essay, in dem er zu beweisen suchte, dass sie von den spitzbübischen Brahmanen nach dem Muster des Griechischen und Lateinischen zusammengeschmiedet sei und die Sprache sowohl als auch die Literatur eine Fälschung seien. Diese Ansicht entwickelte noch im Jahre 1840 der Professor in Dublin, Charles William Wall, weitläufig (Göttingische gelehrte Anzeigen 1842 S. 1888)." &lt;!-- TODO: Fallback translation --&gt;
+"Quando William Jones [1746–1794] e Henry Thomas Colebrooke (1765—1857) studiarono per la prima volta approfonditamente il sanscrito, lo tradussero in parte e scoprirono che possedeva una ricca letteratura e una notevole affinità con le lingue classiche, incontrarono una considerevole opposizione. Poiché questa stretta relazione del sanscrito con le lingue europee geograficamente così distanti non poteva essere conciliata con le vecchie concezioni, che facevano derivare tutte le lingue dall'ebraico o le consideravano in gran parte isolate, il famoso filologo Dugald Steward (1753—1828) adottò la soluzione più semplice, dichiarando l'intera storia con la lingua sanscrita una menzogna. Scrisse un saggio in cui cercava di dimostrare che essa era stata forgiata dai furbi brāhmaṇi su modello del greco e del latino, e che sia la lingua che la letteratura erano un falso. Questa opinione fu sviluppata ulteriormente nel 1840 dal professore di Dublino, Charles William Wall, ampiamente (Göttingische gelehrte Anzeigen 1842 pag. 1888)."
 :::
 
-> [Quelle: **Kemmerich**, Max &lt;1876-1932&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] &lt;!-- TODO: Fallback translation --&gt;
+> [Fonte: **Kemmerich**, Max &lt;1876-1932&gt;: Kultur-Kuriosa. -- Monaco di Baviera : Langen. -- Vol. 2. -- 1923. -- pag. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accesso il 2010-01-10]
 
-## 1.1. Literatur für Anfänger in Indologie
+## 1.1. Letteratura per principianti in Indologia
 
 ::: media
 ![](/images/lekt0103.jpg)
 Fig.: Copertina di un'edizione tascabile
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0103))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0103))
 :::
 
-> **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Parte: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- Londra : Sidgwick & Jackson, 1954. -- Da allora numerose edizioni, anche edizioni tascabili. -- **Lettura obbligatoria.** Una buona panoramica sulla vita, la storia e la cultura dell'India pre-islamica. Panoramica generale delle diverse aree della classica Indologia.
+> **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Parte: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- Londra : Sidgwick & Jackson, 1954. -- Da allora molte edizioni, anche edizioni tascabili. -- **Lettura obbligatoria.** Una buona panoramica sulla vita, la storia e la cultura dell'India pre-islamica. Panoramica completa delle diverse aree della classica Indologia.
 
 ::: media
 ![](/images/lekt0104.jpg)
 Fig.: Frontespizio
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0104))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0104))
 :::
 
 **Migliore grammatica sistematica**
@@ -104,54 +105,54 @@ Fig.: Frontespizio
 
 ::: media
 ![](/images/lekt0105.jpg)
-Fig.: Titolo della copertina
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0105))
+Fig.: Copertina
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0105))
 :::
 
 **Buona grammatica sistematica basata sui grammatici indigeni e al contempo un'introduzione a Pāṇini:**
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originariamente scritto in Malayalam. Tradotto in inglese da K.V.R. Pai. -- Parathode : Autopubblicazione, 1983. -- 818 p. ; 23 cm.
+> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originariamente scritto in malesealam. Tradotto in inglese da K.V.R. Pai. -- Parathode : Edizione autonoma, 1983. -- 818 p. ; 23 cm.
 
 ::: media
 ![](/images/lekt0107.jpg)
 Fig.: Copertina
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0107))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0107))
 :::
 
-Una buona e sintetica esposizione della terminologia linguistica europea si trova in:
+Una buona e concisa esposizione della terminologia linguistica europea si trova in:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge &lt;1856 - 1926&gt;. A cura di Elmar Seebold. -- 24ª ed., riveduta e ampliata. -- Berlino [e altrove] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Copertina flessibile. -- Pagg. XIII - XLVII.
+> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge &lt;1856 - 1926&gt; a cura di Elmar Seebold. -- 24a edizione rivista e ampliata. -- Berlino [e altrove] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Copertina flessibile. -- Pagg. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)
-Fig.: Titolo della copertina
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0108))
+Fig.: Copertina
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0108))
 :::
 
 Per i curiosi da consultare:
 
-> **Lexikon der Sprachwissenschaft** / a cura di Hadumod Bußmann. -- 4ª ed., riveduta e integrata bibliograficamente / con la collaborazione di Hartmut Lauffer. -- Stoccarda : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Lexikon der Sprachwissenschaft** / a cura di Hadumod Bußmann. -- 4a edizione rivista e completata bibliograficamente / con la collaborazione di Hartmut Lauffer. -- Stoccarda : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 ---
 
-## 1.2. Die Laute des Sanskrit
+## 1.2. I suoni del sanscrito
 
-I suoni del Sanscrito secondo la classificazione indiana tradizionale e la loro trascrizione scientifica.
+I suoni del sanscrito secondo la classificazione indiana tradizionale e la loro traslitterazione scientifica.
 
 ::: media
 ![](/images/lekt0106.jpg)
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0106))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0106))
 :::
 
-I moderni dizionari di Sanscrito sono ordinati secondo questa classificazione. Tale classificazione e l'ordine dei suoni sono essenziali per la comprensione della grammatica sanscrita e devono quindi essere appresi a memoria:
+I moderni dizionari di sanscrito sono ordinati secondo questa classificazione. Questa classificazione e l'ordine dei suoni sono essenziali per comprendere la grammatica del sanscrito e devono quindi essere imparati a memoria:
 
-::: tip Klassifikation
+::: tip Classificazione
 
-- **Vocali semplici** (samānākṣara -- समानाक्षर):
+- **vocali semplici** (samānākṣara -- समानाक्षर):
   अ a, आ ā, इ i, ई ī, उ u, ऊ ū, ऋ ṛ, ॠ ṝ, ऌ ḷ
-- **Dittonghi** (sandhyakṣara -- सन्ध्यक्षर):
+- **dittonghi** (sandhyakṣara -- सन्ध्यक्षर):
   ए e, ऐ ai, ओ o, औ au
-- **Consonanti** (vyañjana / hal -- व्यञ्जन / हल्):
+- **consonanti** (vyañjana / hal -- व्यञ्जन / हल्):
   क ka, ख kha, ग ga, घ gha, ङ ṅa
   च ca, छ cha, ज ja, झ jha, ञ ña
   ट ṭa, ठ ṭha, ड ḍa, ढ ḍha, ण ṇa
@@ -162,29 +163,29 @@ I moderni dizionari di Sanscrito sono ordinati secondo questa classificazione. T
   ह ha
 :::
 
-### 1.2.1. Zur Aussprache einzelner Laute
+### 1.2.1. Sulla pronuncia dei singoli suoni
 
 ::: laut-table
-| Laut | Beschreibung |
+| Suono | Descrizione |
 | :--- | :--- |
-| **a - अ** | "kurzes a" wird bei den Indern -- schon seit alter Zeit -- oft wie ə ausgesprochen. In Europa spricht man es als kurzes a, in Bengalen als kurzes dunkles o. |
-| **ṛ - ऋ** | wie böhmisches vokalisiertes r. Leichter Nachklang von i. |
-| **ṝ - ॠ** | wie böhmisches vokalisiertes r. Leichter Nachklang von u. |
-| **jñ - ज्ञ्** | auch wie dny (Marāṭhī) oder gy (Nordindisch). |
-| **ś - श्** | sch-Laut mit nach unten gebogener Zungenspitze. Ähnlich wie sch in "mischen". |
-| **ṣ - ष्** | ach-Laut mit zurückgebogener Zungenspitze. Öfters so weit hinten im Rachen artikuliert, dass es fast wie kh klingt. |
-| **h - ह्** | Hauchlaut, nie Dehnungszeichen. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
-| **ṃ** | **Anusvara** -- अनुस्वर. Vor Zischlauten, h, l: Nasalierung des Vokals. Im Auslaut = m. Im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- संधि = sandhi -- सन्धि |
+| **a - अ** | "a breve" viene dagli indiani -- fin dall'antichità -- spesso pronunciato come ə. In Europa si pronuncia come a breve, in Bengala come o breve scuro. |
+| **ṛ - ऋ** | come la r vocalizzata ceca. Leggera eco di i. |
+| **ṝ - ॠ** | come la r vocalizzata ceca. Leggera eco di u. |
+| **jñ - ज्ञ्** | anche come dny (Marāṭhī) o gy (Nordindiano). |
+| **ś - श्** | suono sch con la punta della lingua curvata verso il basso. Simile a sch in "mischare". |
+| **ṣ - ष्** | suono ach con la punta della lingua ripiegata all'indietro. Spesso articolato così in profondità nella gola da sembrare quasi kh. |
+| **h - ह्** | suono aspirato, mai segno di allungamento. |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Suono aspirato sordo con eco della vocale precedente o della seconda parte del dittongo precedente: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
+| **ṃ** | **Anusvara** -- अनुस्वर. Prima dei suoni sibilanti, h, l: nasalizzazione della vocale. In fine di parola = m. In posizione interna prima di consonanti: la nasale corrispondente alla consonante seguente: saṃdhi -- संधि = sandhi -- सन्धि |
 :::
 
-Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest. &lt;!-- TODO: Fallback translation --&gt;
+La pronuncia migliore si ottiene leggendo le frasi, i versi o le parole piuttosto lentamente e monotono, con precisa considerazione della lunghezza delle vocali.
 
 ---
 
 ## 1.3. Esercizio
 
-**A) Leggere le seguenti parole:**
+**A) Leggete le seguenti parole:**
 
 1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र
 2. brahmā viṣṇu śiva — ब्रह्मा विष्णु शिव
@@ -197,4 +198,4 @@ Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter zieml
 9. pitṝn — पितॄन्
 10. saṃskṛta — संस्कृत
 
-**B) Leggere le espressioni sanscrite secondo la classificazione fonetica indicata sopra.**
+**B) Leggete le espressioni sanscrite nella classificazione fonetica sopra.**

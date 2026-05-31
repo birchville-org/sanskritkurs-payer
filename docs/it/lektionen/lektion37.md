@@ -1,25 +1,29 @@
 ---
+title: Lezione 37
+subtitle: "L'avverbio (क्रियाविशेषणम्)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 37
 
 ## 37.1. L'avverbio (क्रियाविशेषणम्)
 
-In sanscrito, gli avverbi si formano
+Gli avverbi in sanscrito si formano
 
-1.  mediante le forme casiache di sostantivi e pronomi
-2.  mediante l'uso di suffissi e desinenze speciali
+1.  attraverso le forme casiache di nomi e pronomi
+2.  con l'ausilio di suffissi e desinenze speciali
 
-Nel primo caso, il confine tra la forma casiaca viva e l'avverbio è fluido. A questo gruppo appartengono, come caso speciale, gli avverbi che sono forme casiache antiche cristallizzate, mentre nella declinazione si usano altre forme oppure i corrispondenti sostantivi non sono più impiegati come sostantivi.
+Nel primo caso, il confine tra la forma casiaca viva e l'avverbio è fluido. A questo gruppo appartengono, come caso speciale, gli avverbi che sono forme casiache antiche cristallizzate, mentre nella declinazione si usano altre forme oppure i corrispondenti nomi non sono più impiegati come nomi.
 
-## 37.2. Uso avverbiale delle forme casiache
+## 37.2. Uso avverbiale delle forme casiative
 
 ### 37.2.1. Accusativo (द्वितीया)
 
 :::: grammar-box
-L'accusativo (द्वितीया) può essere usato in senso avverbiale, rispondendo alle domande:
+L'accusativo (द्वितीया) può essere usato in senso avverbiale alle domande:
 
 *   in che modo?
 *   per quanto tempo?
@@ -30,8 +34,8 @@ L'accusativo può essere usato in senso avverbiale:
 
 *   da sostantivi  
     Esempi:  
-    कामम् "secondo il desiderio, a piacimento"  
-    अर्थम् "a causa di, per"  
+    कामम् "secondo il desiderio"  
+    अर्थम् "a causa di"  
      
 *   da aggettivi al neutro  
     Esempi:  
@@ -49,29 +53,29 @@ L'accusativo può essere usato in senso avverbiale:
 ### 37.2.2. Strumentale (तृतीया)
 
 :::: grammar-box
-Lo Strumentale (तृतीया) può essere usato in senso avverbiale, rispondendo alle domande:
+Lo Strumentale (तृतीया) può essere usato in senso avverbiale alle domande:
 
 *   da cosa?
-*   con che cosa?
+*   con cosa?
 *   ecc.
 
-Lo Strumentale può essere impiegato in senso avverbiale:
+Lo Strumentale può essere usato in senso avverbiale:
 
-*   con sostantivi  
+*   da sostantivi  
     Esempi:  
     अर्थेन "a causa di"  
-    क्षणेन "nell'istante, subito" (da क्षण m. "istante")  
+    क्षणेन "in questo momento, immediatamente" (da क्षण m. "momento")  
      
-*   con aggettivi, spesso anche al plurale  
+*   da aggettivi, spesso anche al plurale  
     Esempi:  
-    दूरेne "lontano, da lontano" (da दूर 3 "lontano, distante")  
-    उच्चैस् "alto, forte" (da उच्च 3 "alto, elevato, forte, acuto (di voce)")
+    दूरेण "lontano, da lontano" (a दूर 3 "lontano, distante da")  
+    उच्चैस् "alto, forte" (a उच्च 3 "alto, elevato, forte, acuto (di voce)")
 ::::
 
 ### 37.2.3. Dativo (चतुर्थी)
 
 :::: grammar-box
-Raramente il dativo (चतुर्थी) è usato in senso avverbiale, rispondendo alle domande:
+Raramente il dativo (चतुर्थी) è usato in senso avverbiale alle domande:
 
 *   a quale scopo?
 *   ecc.
@@ -85,39 +89,39 @@ Esempio:
 ### 37.2.4. Ablativo (पञ्चमी)
 
 :::: grammar-box
-L’ablativo (पञ्चमी) può essere impiegato in funzione avverbiale, rispondendo alle seguenti domande:
+L'ablativo (पञ्चमी) può essere usato in senso avverbiale alle domande:
 
 *   perché?
-*   a causa di chi/che cosa?
+*   a causa di chi/cosa?
 *   da dove?
 *   ecc.
 
-L’ablativo può essere usato in funzione avverbiale:
+L'ablativo può essere usato in senso avverbiale:
 
-*   con sostantivi  
-    Es.: बलात् "con la forza, violentemente"  
+*   da sostantivi  
+    Es. बलात् "con violenza, con la forza"  
      
-*   con aggettivi  
-    Es.: दूरात् "da lontano"  
+*   da aggettivi  
+    Es. दूरात् "da lontano"  
      
-*   con pronomi  
+*   da pronomi  
     Esempi:  
     कस्मात् "perché"  
-    अकस्मात् "improvvisamente, inaspettatamente"
+    अकस्मात् "inaspettatamente"
 ::::
 
 ### 37.2.5. Genitivo (षष्ठी)
 
 :::: grammar-box
-Raramente il genitivo (षष्ठी) è impiegato con valore avverbiale, rispondendo alla domanda "dopo quanto tempo?".
+Raramente il genitivo (षष्ठी) è usato in senso avverbiale per la domanda "dopo quanto tempo?"
 
-Esempio: चिरस्य "dopo molto tempo" (da चिर 3 "lungo (tempo)")
+ad es. चिरस्य "dopo molto tempo" (riferito a चिर 3 "lungo (tempo)")
 ::::
 
 ### 37.2.6. Locativo (सप्तमी)
 
 :::: grammar-box
-Il locativo (सप्तमी) può essere usato in senso avverbiale, rispondendo alle domande:
+Il locativo (सप्तमी) può essere usato in senso avverbiale alle domande:
 
 *   dove?
 *   in quali circostanze?
@@ -131,21 +135,21 @@ Esempi:
 :::
 ::::
 
-## 37.3. Uso avverbiale di forme casuali non più di uso comune
+## 37.3. Uso avverbiale di forme di caso non più d'uso comune
 
 Esempi:
 ::: indent
-जातु "affatto" (originariamente "di nascita, per natura", accusativo singolare neutro di जातु &lt;non più usato come nome&gt;)
+जातु "in generale" (originariamente "di nascita, per natura", acc.sg.neut. a जातु &lt;non più usato come sostantivo&gt;)
 
-तूष्णीम् "in silenzio" (accusativo singolare di un तूष्णी f. "silenzio" non più di uso comune)
+तूष्णीम् "in silenzio" (acc.sg. a un तूष्णी f. "silenzio" non più d'uso comune)
 
-एवम् "così" (da una radice pronominalle एव "uno, unico" altrimenti perduta)
+एवम् "così" (a una radice pronominali altrimenti perduta एव "uno, unico")
 :::
 
-## 37.4. Formazione degli avverbi con suffissi avverbiali
+## 37.4. Formazione di avverbi con suffissi avverbiali
 
 :::: grammar-box
-Dalle radici pronominali तद्, इदम् e rispettivamente अ-, यद्, किम् e कु si possono derivare, mediante i suffissi avverbiali
+Dalle radici pronominali तद्, इदम् rispettivamente अ-, यद्, किम् rispettivamente कु si possono derivare, mediante i suffissi avverbiali
 
 *   \-तस् (Ablativo)
 *   \-त्र (Locativo)
@@ -161,11 +165,11 @@ i corrispondenti avverbi pronominali.
 | Suffisso | Radice pronominale | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | **तद्** | **इदम्**[[br]]**अ-** | **यद्** | **किम्**[[br]]**कु-** |
-| **-तस्**[[br]](Ablativo) | **ततस्**[[br]]da lì, dopo, perciò | **इतस्**[[br]]**अतस्**[[br]]da qui, per questo motivo | **यतस्**[[br]]da dove, di che cosa | **कुतस्**[[br]]da dove?, perché? |
-| **-त्र**[[br]](Locativo) | **तत्र**[[br]]là, lì | **अत्र**[[br]]qui | **यत्र**[[br]]dove | **कुत्र**[[br]]dove? |
+| **-तस्**[[br]](Ablativo) | **ततस्**[[br]]da lì, su ciò, perciò | **इतस्**[[br]]**अतस्**[[br]]di qui, per questa ragione | **यतस्**[[br]]da dove, di che cosa | **कुतस्**[[br]]da dove?, perché? |
+| **-त्र**[[br]](Locativo) | **तत्र**[[br]]lì, là | **अत्र**[[br]]qui | **यत्र**[[br]]dove | **कुत्र**[[br]]dove? |
 | **-था**[[br]](MODO) | **तथा**[[br]]così | | **यथा**[[br]]come | |
 | **-थम्**[[br]](MODO) | | | | **कथम्**[[br]]come? |
-| **-दा**[[br]](Tempo) | **तदा**[[br]]allora, in quel momento | | **यदा**[[br]]quando | **कदा**[[br]]quando? |
+| **-दा**[[br]](Tempo) | **तदा**[[br]]allora, allora | | **यदा**[[br]]quando | **कदा**[[br]]quando? |
 
 ::::
 
@@ -176,113 +180,77 @@ Un ulteriore avverbio interrogativo è: क्व "dove?"
 ::: media
 ![lekt3701.jpg](/images/lekt3701.jpg)
 Fig.: क्व
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3701))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3701))
 :::
-
 :::: grammar-box
 
+**Altri suffissi avverbiali**
 
-  
-    
-      Altri suffissi avverbiali
-    
-  
-  
-    
-      -वत् -vat
-      
-        può essere aggiunto a qualsiasi sostantivo per esprimere "alla maniera di, come" 
-        Es. putravat 
-        पुत्रवत् "come un figlio"
-      
-    
-    
-      -तस् -tas
-      
-        ai sostantivi e ai pronomi. Solitamente con significato ablativo "da dove?", ma anche "dove?", "verso dove?" 
-        Es. āditas 
-        आदितस् "fin dall'inizio"
-      
-    
-    
-      -धा -dhā
-      
-        &lt;ol&gt;
-          &lt;li&gt;
-            Negli avverbi numerali con il significato "-volte", "-volte" 
-            Es. dvidhā 
-            द्विधा "doppio"
-          &lt;/li&gt;
-          &lt;li&gt;
-            con il significato "in tale e tal modo" 
-            Es. samadhā 
-            समधा "in modo identico" (da sama सम 3 "uguale")
-          &lt;/li&gt;
-        &lt;/ol&gt;
-      
-    
-  
-
+| Suffisso | |
+| :--- | :--- |
+| **-वत्** | può essere attaccato a qualsiasi sostantivo, per esprimere "alla maniera di, come"[[br]]ad es. **पुत्रवत्** "come un figlio" |
+| **-तस्** | a sostantivi e pronomi. Solitamente significato ablativo "da dove?", ma anche "dove?", "dove?"[[br]]ad es. **आदितस्** "fin dall'inizio" |
+| **-धा** | 1. Negli avverbi numerali nel significato "-volte", "-volte"[[br]]ad es. **द्विधा** "doppio"[[br]]2. nel significato "in tale e tale modo"[[br]]ad es. **समधा** "allo stesso modo" (a **सम** 3 "uguale") |
 
 ::::
 
 ## 37.5. Composti avverbiali
 
-### 37.5.1. Composti con un avverbio o un caso usato in funzione avverbiale come secondo membro
+### 37.5.1. Composti con un avverbio o un caso usato in senso avverbiale come secondo membro
 
-Esempio: सुचिरम् "per molto tempo"
+Esempio: सुचिरम् "molto a lungo (tempo)"
 
-### 37.5.2. Uso avverbiale del बहुव्रीहि (bahuvrīhi)
+### 37.5.2. Uso avverbiale di बहुव्रीहि
 
-Esempio: रक्षार्थम् (rakṣārtham) «nel modo di qualcuno il cui scopo è la protezione, allo scopo di proteggere». Può essere considerato anche come appartenente al § 5.1: -अर्थम् (-artham) come componente finale avverbiale.
+Esempio: रक्षार्थम् "nel modo di qualcuno, il cui scopo è la protezione, allo scopo di proteggere". Può anche essere considerato come appartenente a 5.1.1: -अर्थम् come componente avverbiale posteriore.
 
-### 37.5.3. Komposita di tipo अव्ययीभाव (avyayībhāva)
+### 37.5.3. अव्ययीभाव-Komposita
 
-अव्ययीभाव = "divenuto invariabile/indeclinabile"
+अव्ययीभाव = "unveränderlich/undeklinierbar gewordene"
 
 :::: grammar-box
-Un अव्ययीभाव è un composto avverbiale il cui primo elemento (Vorderglied) è un indeclinabile (postposizione, particella, ecc.) e il cui secondo elemento (Hinterglied) è un sostantivo che assume la desinenza dell’accusativo singolare neutro.
+Ein अव्ययीभाव è un composto avverbiale, il cui primo elemento è un indeclinabile (postposizione, particella, ecc.) e il cui secondo elemento è un sostantivo che assume la desinenza dell'accusativo singolare neutro.
 
-Nella risoluzione del composto, il primo elemento regge il secondo:
+Nella risoluzione del composto, il primo elemento reggerebbe il secondo:
 
 Esempi:
 ::: indent
 प्रत्यग्नि = अग्निं प्रति = "contro il fuoco"
 
-यथाशक्ति = शक्तिमनतिक्रम्य = "secondo le proprie forze"
+यथाशक्ति = शक्तिमनतिक्रम्य = "con le proprie forze"
 
-अभिमुखम् = मुखम् अभि = "verso l’avanti, di fronte"
+अभिमुखम् = मुखम् अभि = "in avanti, di fronte"
 :::
 
-Particolarmente importanti sono i composti अव्ययीभाव con यथा ("come") come primo elemento:
+Particolarmente importanti sono अव्ययीभाव con यथा "come" come primo elemento:
 
-ad es. यथाकामम् = कामो यथास्ति = "come è il desiderio, a piacere, arbitrariamente"
+ad esempio यथाकामम् = कामो यथास्ति = "come è il desiderio, a piacere, arbitrariamente"
 ::::
 
 ::: media
 ![lekt3702.jpg](/images/lekt3702.jpg)
 Fig.: यथाशक्ति
-(Fonte dell’immagine: [Dettagli](/licenses#lekt3702))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3702))
 :::
 
-## 37.6. Sintattica
+## 37.6. Sintattico
 
 :::: grammar-box
 Per i verbi
 
-*   अस् 2ª persona "essere"
-*   भू 1ª coniugazione
-*   कृ 8ª coniugazione irregolare
+*   अस् 2P "essere"
+*   भू 1P
+*   कृ 8U
 
-è possibile che, invece di un aggettivo predicativo, compaia un avverbio predicativo:
+invece di un aggettivo predicativo può esserci un avverbio predicativo:
 
-ad es. तूष्णीं बभूव "egli divenne silenzioso, tacque"
+ad es. तूष्णीं बभूव "divenne silenzioso, tacque"
 ::::
 
 ::: media
 ![lekt3703.jpg](/images/lekt3703.jpg)
 Fig.: तूष्णीं बभूवुः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3703))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3703))
 :::
 
 ## 37.7. Pronomi indefiniti
@@ -294,9 +262,9 @@ I pronomi indefiniti (pronomi indefiniti) si formano aggiungendo
 *   \-चन
 *   अपि
 
-alle forme casiache del pronome interrogativo किम्.
+alle forme casi del pronome interrogativo किम्.
 
-Esempio:
+ad esempio:
 ::: indent
 कश्चिद् = कश्चन = को ऽपि = "uno qualsiasi, qualcuno"  
 कस्यचिद् = di qualcuno
@@ -306,38 +274,38 @@ Esempio:
 ## 37.8. La frase interrogativa
 
 :::: grammar-box
-"Chi?, come?, che cosa?, perché?  
-Chi non chiede, resta ignorante."
+"Chi?, come?, cosa, perché? perché? perché?  
+Chi non chiede resta ignorante."
 
 कः कथं किं  
 केन कस्मात्कस्मै ।  
 यो न पृच्छेन्  
 मूर्खस्तिष्ठेत् ॥
 
-Motto della Sesamstraße, che costituisce una buona linea guida per la vita e per lo studio del Sanscrito.
+Motto della Sesamstraße, che è una buona linea guida per la vita e per lo studio del sanscrito
 ::::
 
 Vedi anche [Lezione 4](lektion04.md).
 
-È necessario distinguere tra
+Bisogna distinguere
 
 *   Domande lessicali (domande integrative)
 *   Domande di frase
 
-Nelle domande lessicali si chiede riguardo a un agente (कर्तृ), a un oggetto, a un’azione, a una circostanza, ecc., ad esempio
+Nelle domande lessicali si chiede di un agente (कर्तृ), di un oggetto, di un'azione, di una circostanza ecc., ad esempio
 
 *   chi arriva?
 *   cosa fa Rāma?
 *   chi ascolta?
-*   come parla Sanscrito?
-*   dov’è la madre?
+*   come parla lei sanscrito?
+*   dov'è la madre?
 
-Nelle domande di frase si interroga l’intero contenuto della proposizione, ad esempio
+Nelle domande di frase si chiede l'intero contenuto della frase, ad esempio
 
 *   Rāma va oggi a Ofterdingen?
 *   è corretto che ... ?
 
-### 37.8.1. Domande lessicali (Domande integrative)
+### 37.8.1. Domande sulle parole (Domande integrative)
 
 :::: grammar-box
 Schema:
@@ -357,13 +325,13 @@ Esempi:
 ::: media
 ![lekt3704.jpg](/images/lekt3704.jpg)
 Fig.: किं बाला अधीयीरन्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3704))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3704))
 :::
 
 ### 37.8.2. Domande dirette
 
 :::: grammar-box
-A volte è possibile riconoscere se una frase è una domanda solo dal contesto.
+A volte è evidente solo dal contesto se una frase è una domanda.
 ::::
 
 :::: grammar-box
@@ -374,7 +342,7 @@ Verbo - resto della frase
 
 Esempio:
 ::: indent
-गमिष्यति ब्राह्मणबालो गुरुम् । "Il ragazzo brahmano andrà dal maestro?"
+गमिष्यति ब्राह्मणबालो गुरुम् । "Il giovane brahmano diventerà un maestro?"
 :::
 
 :::: grammar-box
@@ -400,26 +368,28 @@ Esempio:
 
 किं शक्नोति । "Può davvero?"
 
-कच्चित्क्षत्रियेण शत्रवो जिताः । "Forse il Kṣatriya ha sconfitto i nemici?"
+कच्चित्क्षत्रियेण शत्रवो जिताः । "Forse il kṣatriya ha sconfitto i nemici?"
 :::
 
-Nota: किम्, oltre a significare "cosa?" e fungere da particella interrogativa, può anche significare "perché?, a che scopo?". In particolare, con l'ablativo (तृतीया):
+Nota: किम् può significare, oltre a "cosa?", anche "perché?, a che scopo?" come particella interrogativa. Specialmente con l'ablativo (तृतीया):
 ::: indent
-किं क्रोधेन । "A che serve la collera? Che cosa giova la collera? Che cosa deve fare la collera?"
+किं क्रोधेन । "A che serve la rabbia? A che serve la rabbia? Che cosa dovrebbe fare la rabbia?"
 :::
 
-## 37.9. Elenco lessicale
+## 37.9. Elenco di parole
 
 मूर्ख 3: ottuso, stupido, sciocco m. Stupido
 
+मुनि m.: Saggio, (taciturno) asceta
+
 ::: indent
-शाक्यमुनि m.: Asceta appartenente alla stirpe dei शाक्य (Kṣatriya di Kapilavastu) = Buddha Gautama
+शाक्यमुनि m.: Asceta della stirpe di शाक्य (Kṣatriya di कपिलवस्तु) = Buddha Gautama
 :::
 
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Fig.: शाक्यमुनिः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3705))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3705))
 :::
 
 दिन n.: Giorno
@@ -429,14 +399,14 @@ Fig.: शाक्यमुनिः
 ::: media
 ![lekt3706.jpg](/images/lekt3706.jpg)
 Fig.: वृक्षः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3706))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3706))
 :::
 
 मुख n.: Bocca, volto, parte anteriore, inizio
 
-## 37.10. Esercitazione
+## 37.10. Esercizio
 
-A) Rispondete alle seguenti domande in sanscrito utilizzando le parole indicate tra parentesi. Traducete le frasi interrogative.
+A) Rispondere alle seguenti domande in sanscrito utilizzando le parole indicate tra parentesi. Tradurre le frasi interrogative.
 
 Esempio: क आगच्छति (राम) । » राम आगच्छति ।
 
@@ -446,7 +416,7 @@ Esempio: क आगच्छति (राम) । » राम आगच्छ�
 
 कुत्राग्निश्चीयते ॥३॥ (यज्ञस्थान, मही)
 
-कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥ (यज्ञकाल, देवान् स्तु &lt;Absolutiv&gt;)
+कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥ (यज्ञकाल, देवान् स्तु &lt;Assoluto&gt;)
 
 कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥ (स्वर्गलोभ, नरकभय, भीतनरकता)
 
@@ -467,7 +437,7 @@ Esempio: क आगच्छति (राम) । » राम आगच्छ�
 ::: media
 ![lekt3707.jpg](/images/lekt3707.jpg)
 Fig.: कृष्णः बलरामश्च
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3707))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3707))
 :::
 
 क्व मर्तुं सज्जना इच्छन्ति ॥१३॥ (काशी = वाराणसी)
@@ -475,7 +445,7 @@ Fig.: कृष्णः बलरामश्च
 ::: media
 ![lekt3708.jpg](/images/lekt3708.jpg)
 Fig.: क्व मर्तुं सज्जना इच्छन्ति
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3708))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3708))
 :::
 
 केषां धर्मो वेदाध्ययनम् ॥१४॥ (द्विज, द्विजाति, आर्य)
@@ -500,9 +470,9 @@ B) Tradurre:
 
 कच्छिच्छुद्रो भारमाबिभः ॥४॥
 
-C) Tradurre le seguenti **avyayībhāva**:
+C) Tradurre le seguenti अव्ययीभाव :
 
-1\. अति Postposizione con Accusativo: "oltre ..."
+1\. अति Postposizione con Acc.: "oltre ..."
 
 ::: indent
 1.  अतिमात्रम्
@@ -519,10 +489,10 @@ C) Tradurre le seguenti **avyayībhāva**:
 ::: media
 ![lekt3709.jpg](/images/lekt3709.jpg)
 Fig.: अधिकेरलं वर्तन्ते
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3709))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3709))
 :::
 
-3\. अनु "secondo, lungo, verso"
+3\. अनु "secondo, lungo, dopo"
 
 ::: indent
 1.  अनुरूपम्
@@ -544,7 +514,7 @@ Fig.: अधिकेरलं वर्तन्ते
 2.  अभ्यग्नि
 :::
 
-6\. आ "da, fino a, incluso"
+6\. आ "da, fino, compreso"
 
 ::: indent
 1.  आबालवृद्धम्
@@ -554,7 +524,7 @@ Fig.: अधिकेरलं वर्तन्ते
 ::: media
 ![lekt3710.jpg](/images/lekt3710.jpg)
 Fig.: आबालवृद्धं लंदननगरे ववृतिरे
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3710))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3710))
 :::
 
 7\. उप "vicino"
@@ -566,7 +536,7 @@ Fig.: आबालवृद्धं लंदननगरे ववृतिर
 ::: media
 ![lekt3711.jpg](/images/lekt3711.jpg)
 Fig.: उपवृक्षं सीदन्ति
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3711))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3711))
 :::
 
 8\. यथा
@@ -575,25 +545,24 @@ Fig.: उपवृक्षं सीदन्ति
 1.  यथास्थानम्
 :::
 
-## 37.11. Esercizio di ripetizione
+## 37.11. Esercizio di ripasso
 
-Tradurre in sanscrito utilizzando esclusivamente forme verbali del perfetto:
+Tradurre in sanscrito usando esclusivamente forme verbali del perfetto:
 
-Quando un giorno un anziano si recò in un altro villaggio, si stancò lungo il cammino. Andò quindi, per riposarsi, ai piedi di un albero di mango che cresceva sul lato. Su quell’albero vi erano frutti maturi. L’anziano ne ebbe desiderio. Ma non poté salire sull’albero e raccogliere i frutti. Per fortuna su quell’albero vi erano delle scimmie che mangiavano i frutti. Quando le vide, l’anziano si rallegrò. Che cosa fece? Prese alcune pietre, mirò alle scimmie e le lanciò. Le scimmie, infuriate, raccolsero alcuni frutti e li gettarono sull’anziano. L’anziano li accolse con gioia e si diresse verso la meta desiderata. Osservate il destino dell’anziano!
+Quando un giorno un vecchio andò in un altro villaggio, si stancò durante il viaggio. Allora andò a riposare ai piedi di un albero di mango che si trovava sul lato. Su quest'albero c'erano frutti maturi. Il vecchio ebbe voglia di questi. Ma non poteva salire sull'albero e prendere i frutti. Per fortuna su quest'albero c'erano delle scimmie che mangiavano i frutti. Quando le vide, il vecchio si rallegrò. Cosa fece? Prese alcune pietre, mirò alle scimmie e le lanciò. Le scimmie infuriate presero alcuni frutti e li lanciarono sul vecchio. Il vecchio prese questi con gioia e andò nella sua zona desiderata. Vedete, il destino del vecchio!
 
 ::: deleteme-box
 
-### Fonti
+- **Image lekt3701.jpg** (Abb.: क्व): [Fonte immagine: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+- **Image lekt3702.jpg** (Abb.: यथाशक्ति): [Fonte immagine: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+- **Image lekt3703.jpg** (Abb.: तूष्णीं बभूवुः): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Fonte immagine: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+- **Image lekt3704.jpg** (Abb.: किं बाला अधीयीरन्): Kanchipuram = Kanchipuram [Fonte immagine: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione)]
+- **Image lekt3705.jpg** (Abb.: शाक्यमुनिः): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Fonte immagine: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+- **Image lekt3706.jpg** (Abb.: वृक्षः): Jaipur [Fonte immagine: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
+- **Image lekt3707.jpg** (Abb.: कृष्णः बलरामश्च): Dipinto di राजा रवि वर्मा (1848 - 1906) [Fonte immagine: Wikipedia. Dominio pubblico]
+- **Image lekt3708.jpg** (Abb.: क्व मर्तुं सज्जना इच्छन्ति): काशी = वाराणसी [Fonte immagine: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione)]
+- **Image lekt3709.jpg** (Abb.: अधिकेरलं वर्तन्ते): [Fonte immagine: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+- **Image lekt3710.jpg** (Abb.: आबालवृद्धं लंदननगरे ववृतिरे): [Fonte immagine: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
+- **Image lekt3711.jpg** (Abb.: उपवृक्षं सीदन्ति): Delhi = दहली / دہلی [Fonte immagine: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
 
-- **Image lekt3701.jpg** (Fig.: क्व): [Fonte immagine: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione, Non commerciale, Nessuna opera derivata)]
-- **Image lekt3702.jpg** (Fig.: यथाशक्ति): [Fonte immagine: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione, Non commerciale, Nessuna opera derivata)]
-- **Image lekt3703.jpg** (Fig.: तूष्णीं बभूवुः): Dargah di Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Fonte immagine: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione, Non commerciale, Nessuna opera derivata)]
-- **Image lekt3704.jpg** (Fig.: किं बाला अधीयीरन्): Kanchipuram = Kanchipuram [Fonte immagine: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione)]
-- **Image lekt3705.jpg** (Fig.: शाक्यमुनिः): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Fonte immagine: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, Non commerciale, Nessuna opera derivata)]
-- **Image lekt3706.jpg** (Fig.: वृक्षः): Jaipur [Fonte immagine: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, Non commerciale, Condivisione allo stesso modo)]
-- **Image lekt3707.jpg** (Fig.: कृष्णः बलरामश्च): Dipinto di राजा रवि वर्मा (1848 - 1906) [Fonte immagine: Wikipedia. Dominio pubblico]
-- **Image lekt3708.jpg** (Fig.: क्व मर्तुं सज्जना इच्छन्ति): काशी = वाराणसी [Fonte immagine: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione)]
-- **Image lekt3709.jpg** (Fig.: अधिकेरलं वर्तन्ते): [Fonte immagine: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, Non commerciale, Nessuna opera derivata)]
-- **Image lekt3710.jpg** (Fig.: आबालवृद्धं लंदननगरे ववृतिरे): [Fonte immagine: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, Non commerciale, Condivisione allo stesso modo)]
-- **Image lekt3711.jpg** (Fig.: उपवृक्षं सीdन्ति): Delhi = दहली / دہلی [Fonte immagine: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, Non commerciale, Nessuna opera derivata)]
 :::

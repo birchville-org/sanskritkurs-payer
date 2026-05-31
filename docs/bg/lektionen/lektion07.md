@@ -1,67 +1,71 @@
 ---
+title: Урок 7
+subtitle: "Глаголно изречение с директно допълнение"
 lesson_id: 7
 last_reconstructed: 2026-05-07
---- &lt;!-- TODO: Fallback translation --&gt;
+category: "Граматика"
+status: stable
+---
 
-# Lektion 7
+# Урок 7
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- Den Verbalsatz mit direktem Objekt &lt;!-- TODO: Fallback translation --&gt;
-- Den Акузатив der Nomina und Pronomina &lt;!-- TODO: Fallback translation --&gt;
-- Den Sandhi von auslautendem -n &lt;!-- TODO: Fallback translation --&gt;
-- Das Среден род der a-Stämme &lt;!-- TODO: Fallback translation --&gt;
-- Die athematischen Сегашно времеklassen (am Пример der 5. Klasse) &lt;!-- TODO: Fallback translation --&gt;
+**В този урок ще научите:**
+- Глаголното изречение с директно допълнение
+- Винителен падеж на съществителните и местоименията
+- Сандхи на крайното -n
+- Среден род на a-основите
+- Атематичните класове на настоящето време (по примера на 5-та класа)
 :::
 
-## Стих на седмицата
+## Седмичен стих
 
 ::: center
 धर्मो जयति नधर्मः
 सत्यं जयति नानृतम् |
 क्षमा जयति न क्रोधो
-देवो जयति नासुरः || <!-- TODO: Fallback translation -->
+देवो जयति नासुरः ||
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
 **kṣamā jayati na krodho**
-**devo jayati nāsuraḥ ||** <!-- TODO: Fallback translation -->
+**devo jayati nāsuraḥ ||**
 
-Das Recht siegt, nicht das Unrecht,
-Die Wahrheit siegt, nicht die Unwahrheit,
-Nachsicht siegt, nicht Zorn,
-Gott siegt, nicht der Widergott. <!-- TODO: Fallback translation -->
+Правото побеждава, не неправдата,
+Истината побеждава, не лъжата,
+Скръбта побеждава, не гнявът,
+Бог побеждава, не противника на Бога.
 :::
 
 ---
 
-## 7.1. Der Verbalsatz mit direktem Objekt
+## 7.1. Глаголното изречение с директно допълнение
 
 ::: grammar-box
-**Schema:**
-**(Agens = kartṛ m. = कर्तृ) – direktes Objekt (karman n. = कर्मन्) – Verb** &lt;!-- TODO: Fallback translation --&gt;
+**Схема:**
+**(Агент = kartṛ m. = कर्तृ) – директно допълнение (karman n. = कर्मन्) – глагол**
 
-z.B. &lt;!-- TODO: Fallback translation --&gt;
-- **rāmaḥ phalaṃ khādati** = रामः फलं खादति : "Rāma isst (kaut) eine Frucht." &lt;!-- TODO: Fallback translation --&gt;
-- **brāhmaṇo devaṃ yajati** = ब्राह्मणो देवं यजति : "Der Brahmane verehrt einen Gott mit einem Opfer (für jemand anderes)." &lt;!-- TODO: Fallback translation --&gt;
+напр.
+- **rāmaḥ phalaṃ khādati** = रामः फलं खादति : „Рама яде (кълва) една плод.“
+- **brāhmaṇo devaṃ yajati** = ब्राह्मणो देवं यजति : „Брахманът почита един бог с жертвоприношение (за някой друг).“
 :::
 
-Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**karman** n. = कर्मन्) im Allgemeinen im **Akkusativ** (Wenfall, dvitīyā f. = द्वितीया). &lt;!-- TODO: Fallback translation --&gt;
+Ако глаголът е в Parasmaipada или Ātmanepada, то директното допълнение (**karman** n. = कर्मन्) обикновено е в **винителен падеж** (Wenfall, dvitīyā f. = द्वितीया).
 
 ---
 
-## 7.2. Der Акузатив (Wenfall, dvitīyā f. = द्वितीया = "zweite Kasusendung")
+## 7.2. Винителен падеж (Wenfall, dvitīyā f. = द्वितीया = "втора окончание на падежа")
 
 ::: grammar-box
-**Endung des Akkusativ Singular Maskulinum und Femininum nach Vokal: -m** &lt;!-- TODO: Fallback translation --&gt;
+**Окончание на винителен единствено число, мъжки и женски род, след гласен: -m**
 
-| Maskulina auf | Акузатив Единствено число |
+| Мъжки род на | Винителен единствено число |
 | :--- | :--- |
 | **-a**: deva | **devam**[[br]]देवम् |
 | **-i**: kavi | **kavim**[[br]]कविम् |
 | **-u**: guru | **gurum**[[br]]गुरुम् |
 
-| Feminina auf | Акузатив Единствено число |
+| Женски род на | Винителен единствено число |
 | :--- | :--- |
 | **-ā**: devatā | **devatām**[[br]]देवताम् |
 | **-i**: śruti | **śrutim**[[br]]श्रुतिम् |
@@ -70,9 +74,9 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 :::
 
 ::: grammar-box
-**Akkusativ Plural Maskulinum der Stämme auf Vokal (Ausnahme: einsilbige Wurzelstämme auf langen Vokal): Längung des auslautenden Vokals + -n** &lt;!-- TODO: Fallback translation --&gt;
+**Винителен множествено число, мъжки род, на основите на гласен (изключение: едносложни коренови основи с дълъг гласен): Удължаване на крайния гласен + -n**
 
-| Maskulina auf | Акузатив Множествено число |
+| Мъжки род на | Винителен множествено число |
 | :--- | :--- |
 | **-a**: deva | **devān**[[br]]देवान् |
 | **-i**: kavi | **kavīn**[[br]]कवीन् |
@@ -80,9 +84,9 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 :::
 
 ::: grammar-box
-**Akkusativ Plural Femininum der Stämme auf Vokal (Ausnahme: einsilbige Wurzelstämme auf langen Vokal): Längung des auslautenden Vokals + -s** &lt;!-- TODO: Fallback translation --&gt;
+**Винителен множествено число, женски род, на основите на гласен (изключение: едносложни коренови основи с дълъг гласен): Удължаване на крайния гласен + -s**
 
-| Feminina auf | Акузатив Множествено число |
+| Женски род на | Винителен множествено число |
 | :--- | :--- |
 | **-ā**: devatā | **devatās**[[br]]देवतास् |
 | **-i**: śruti | **śrutīs**[[br]]श्रुतीस् |
@@ -92,234 +96,236 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 
 ---
 
-### 7.2.1. Акузатив Единствено число und Множествено число der Frage- und Demonstrativpronomina
+### 7.2.1. Винителен падеж, единствено и множествено число на въпросните и указателните местоимения
 
 ::: grammar-box
 | | | Мъжки род | Женски род | Среден род |
 | :--- | :--- | :--- | :--- | :--- |
-| :--- | :--- | **kam**[[br]]कम् | **kām**[[br]]काम् | **kim**[[br]]किम् |
-| | **devam**[[br]]देवम् | **kān**[[br]]कान् | **kās**[[br]]कास् | **kāni**[[br]]कानि |
-| **-i**: kavi | **kavim**[[br]]कविम् | **tam**[[br]]तम् | **tām**[[br]]ताम् | **tad**[[br]]तद् |
-| | **gurum**[[br]]गुरुम् | **tān**[[br]]तान् | **tās**[[br]]तास् | **tāni**[[br]]तानि |
-| Feminina auf | Акузатив Единствено число | **etam / enam**[[br]]एतम् / एनम् | **etām / enām**[[br]]एताम् / एनाम् | **etad / enad**[[br]]एतद् / एनद् |
-| | :--- | **etān / enān**[[br]]एतान् / एनान् | **etās / enās**[[br]]एतास् / एनास् | **etāni / enāni**[[br]]एतानि / एनानि |
-| **-ā**: devatā | **devatām**[[br]]देवताम् | **imam / enam**[[br]]इमम् / एनम् | **imām / enām**[[br]]इमाम् / एनाम् | **idam / enad**[[br]]इदम् / एनद् |
-| | **śrutim**[[br]]श्रुतिम् | **imān / enān**[[br]]इमान् / एनान् | **imās / enās**[[br]]इमास् / एनास् | **imāni / enāni**[[br]]इमानि / एनानि |
+| **kim**[[br]]кой/какво | ед.ч. | **kam**[[br]]कम् | **kām**[[br]]काम् | **kim**[[br]]किम् |
+| | мн.ч. | **kān**[[br]]कान् | **kās**[[br]]कास् | **kāni**[[br]]कानि |
+| **tad**[[br]]той/то/онзи | ед.ч. | **tam**[[br]]तम् | **tām**[[br]]ताम् | **tad**[[br]]तद् |
+| | мн.ч. | **tān**[[br]]तान् | **tās**[[br]]तास् | **tāni**[[br]]तानि |
+| **etad**[[br]]този тук | ед.ч. | **etam / enam**[[br]]एतम् / एनम् | **etām / enām**[[br]]एताम् / एनाम् | **etad / enad**[[br]]एतद् / एनद् |
+| | мн.ч. | **etān / enān**[[br]]एतान् / एनान् | **etās / enās**[[br]]एतास् / एनास् | **etāni / enāni**[[br]]एतानि / एनानि |
+| **idam**[[br]]този | ед.ч. | **imam / enam**[[br]]इमम् / एनम् | **imām / enām**[[br]]इमाम् / एनाम् | **idam / enad**[[br]]इदम् / एनद् |
+| | мн.ч. | **imān / enān**[[br]]इमान् / एनान् | **imās / enās**[[br]]इमास् / एनास् | **imāni / enāni**[[br]]इमानि / एनानि |
 :::
 
-| **-ī**: devī | **devīm**[[br]]देवीम् |
+Формите **enam** (एनम्) и т.н. принадлежат към основата **enad** (एनद्), която образува форми само в някои падежи. Те се използват вместо формите на **etad** и **idam**, когато означаваното от тях вече е споменато в предхождащия текст.
+напр. **ayaṃ devaḥ, enaṃ yajante.** = अयं देवः | एनं यजन्ते || : „Той е бог. Му се принася жертва.“
 
 ---
 
-### 7.2.2. Употреба des Акузатив (Wenfall, dvitīyā f. = द्वितीया = "zweite Kasusendung")
+### 7.2.2. Употребение на винителен падеж (винителен случай, dvitīyā f. = द्वितीया = "втора окончание на падежа")
 
 ::: grammar-box
-**Endung des Akkusativ Singular Maskulinum und Femininum nach Vokal: -m** &lt;!-- TODO: Fallback translation --&gt;
-1. | Maskulina auf | Акузатив Единствено число |
-| :--- | :--- |
-   - | **-a**: deva | **devam**[[br]]देवम् |
-   - | **-i**: kavi | **kavim**[[br]]कविम् |
-2. | **-u**: guru | **gurum**[[br]]गुरुम् |
-| Feminina auf | Акузатив Единствено число |
-   - | :--- | :--- |
+Винителният падеж (dvitīyā f. = द्वितीया) означава:
+1. В непасивното глаголно изречение: **директния обект** (karman n. = कर्मन्) на действието, изразено чрез глагола:
+   напр.
+   - **devaṃ yajati** = देवं यजति : "Той почита бог с жертвоприношение."
+   - **phalam āpnoti** = फलमाप्नोति : "Той постига плод (напр. от своето действие)."
+2. При глаголи, които изразяват движение, ходене, водене или подобно действие към нещо, винителният падеж означава целта на движението:
+   напр.
+   - **narakaṃ gacchati** = नरकं गच्छति : "Той отива в ада."
 :::
 
-| **-ā**: devatā | **devatām**[[br]]देवताम् |
+Останалите употреби на винителния падеж ще бъдат разгледани по-късно.
 
 ---
 
-## 7.3. Sandhi von auslautendem -n
+## 7.3. Сандхи на крайното -n
 
 ::: grammar-box
-**Auslautendes -n:** &lt;!-- TODO: Fallback translation --&gt;
+**Крайно -n:**
 
-1. Wird vor stimmhaften palatalen und retroflexen sparśa und vor **ś-** durch den diesen Lauten entsprechenden Nasal ersetzt: &lt;!-- TODO: Fallback translation --&gt;
-   - **-n** vor **j-, jh-, ñ-, ś-** » **-ñ** &lt;!-- TODO: Fallback translation --&gt;
-   - **-n** vor **ḍ-, ḍh-, ṇ-, ṣ-** » **-ṇ** &lt;!-- TODO: Fallback translation --&gt;
-   z.B. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = क्षत्रियांञ्जयति : "Er besiegt die Kṣatriyas."
-   Anlautendes **ś-** wird dann meist durch **ch-** ersetzt:
-   **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (neben gurūñ śṛṇoti) = गुरूञ्छृणोति (गुरूञ्शृणोति) : "Er hört die Lehrer." "Er hört auf die Lehrer." &lt;!-- TODO: Fallback translation --&gt;
+1. Преди звънки палатални и ретрофлексни sparśa и пред **ś-** се заменя с назалния, съответстващ на тези звуци:
+   - **-n** пред **j-, jh-, ñ-, ś-** » **-ñ**
+   - **-n** пред **ḍ-, ḍh-, ṇ-, ṣ-** » **-ṇ**
+   напр. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = क्षत्रियांञ्जयति : „Той побеждава кшатриите.“
+   Началното **ś-** обикновено се заменя с **ch-**:
+   **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (вместо gurūñ śṛṇoti) = गुरूञ्छृणोति (गुरूञ्शृणोति) : „Той чува учителите.“ „Слуша учителите.“
 
-2. Wird vor anlautendem **l-** durch **-l** mit Anunāsika (nasaliertes l, in der Schrift **ल्** mit Anunāsika **ँ**) ersetzt: &lt;!-- TODO: Fallback translation --&gt;
-   z.B. **paśūn + labhate** » पशूंल्लभते : "Er erhält Nutztiere." &lt;!-- TODO: Fallback translation --&gt;
+2. Преди начално **l-** се заменя с **-l** с анунасака (назализирано l, в писмеността **ल्** с анунасака **ँ**):
+   напр. **paśūn + labhate** » पशूंल्लभते : „Той получава добитък.“
 
-3. Wird vor anlautendem stimmlosen Palatal, Retroflex oder Dental durch **Anusvāra** + dem diesen Lauten entsprechenden Zischlaut ersetzt: &lt;!-- TODO: Fallback translation --&gt;
-   - **-n** vor **c-, ch-** » **-ṃś** &lt;!-- TODO: Fallback translation --&gt;
-   - **-n** vor **ṭ-, ṭh-** » **-ṃṣ** &lt;!-- TODO: Fallback translation --&gt;
-   - **-n** vor **t-, th-** » **-ṃs** &lt;!-- TODO: Fallback translation --&gt;
-   z.B. **devān + ca** » **devāṃś ca** = देवांश्च : "und die Götter (Akk.)"
-   **devān + tu** » **devāṃs tu** = देवांस्तु : "aber die Götter (Akk.)" &lt;!-- TODO: Fallback translation --&gt;
+3. Преди начални беззвучни палатални, ретрофлексни или дентални се заменя с **анусвара** + съответстващия на тези звуци шипящ звук:
+   - **-n** пред **c-, ch-** » **-ṃś**
+   - **-n** пред **ṭ-, ṭh-** » **-ṃṣ**
+   - **-n** пред **t-, th-** » **-ṃs**
+   напр. **devān + ca** » **devāṃś ca** = देवांश्च : „и боговете (вин. пад.)“
+   **devān + tu** » **devāṃs tu** = देवांस्तु : „но боговете (вин. пад.)“
 
-4. Außer nach kurzem Vokal (siehe später) bleibt auslautendes **-n** in allen übrigen Fällen unverändert. &lt;!-- TODO: Fallback translation --&gt;
-:::
-
----
-
-## 7.4. Das Среден род (napuṃsaka n. = नपुंसक)
-
-::: grammar-box
-**Im Neutrum sind die Formen für Nominativ (prathamā) und Akkusativ (dvitīyā) identisch.** &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-### 7.4.1. Среден род der Stämme auf -a
-
-::: grammar-box
-- **Im Neutrum sind die Formen für Nominativ (prathamā) und Akkusativ (dvitīyā) identisch.** &lt;!-- TODO: Fallback translation --&gt;
-  z.B. **phala** n. = फल = "Frucht": Nom. / Akk. sg. **phalam** = फलम् <!-- TODO: Fallback translation -->
-- **Окончание Номинатив / Акузатив Множествено число: -āni** <!-- TODO: Fallback translation -->
-  z.B. **phala** n. = फल: Nom. / Akk. pl. **phalāni** = फलानि <!-- TODO: Fallback translation -->
+4. Освен след кратка гласка (вж. по-долу) крайното **-n** във всички останали случаи остава непроменено.
 :::
 
 ---
 
-## 7.5. Athematische Сегашно времеklassen
-
-Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h. der Präsensstamm lautet nicht wie bei den thematischen Präsensklassen (1., 4., 6., 10. Klasse) auf den "Themavokal" **-a** aus. &lt;!-- TODO: Fallback translation --&gt;
+## 7.4. Среден род (napuṃsaka n. = नपुंसक)
 
 ::: grammar-box
-**Die athematischen Präsensklassen haben Stammabstufung, d.h. es gibt zwei Formen des Präsensstamms:** &lt;!-- TODO: Fallback translation --&gt;
-1. **starker Основа**: hochstufig (selten dehnstufig) &lt;!-- TODO: Fallback translation --&gt;
-2. **schwacher Основа**: tiefstufig &lt;!-- TODO: Fallback translation --&gt;
-
-**Der starke Stamm steht:** &lt;!-- TODO: Fallback translation --&gt;
-- im Indikativ Единствено число Parasmaipada Сегашно време (laṭ) und Имперфект (laṅ) &lt;!-- TODO: Fallback translation --&gt;
-- allen ersten Personen des Императив (loṭ) Parasmaipada und Ātmanepada &lt;!-- TODO: Fallback translation --&gt;
-- in der dritten Person Единствено число Императив (loṭ) Parasmaipada &lt;!-- TODO: Fallback translation --&gt;
-
-**Alle anderen Formen haben den schwachen Präsensstamm.** &lt;!-- TODO: Fallback translation --&gt;
+**В средния род формите за именителен (prathamā) и винителен (dvitīyā) падеж са идентични.**
 :::
 
-### 7.5.1. Primärendungen der 3. Person Множествено число bei athematischen Stämmen
+### 7.4.1. Среден род на основите на -a
 
 ::: grammar-box
-Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h. der Präsensstamm lautet nicht wie bei den thematischen Präsensklassen (1., 4., 6., 10. Klasse) auf den "Themavokal" **-a** aus. &lt;!-- TODO: Fallback translation --&gt;
-- **Die athematischen Präsensklassen haben Stammabstufung, d.h. es gibt zwei Formen des Präsensstamms:** &lt;!-- TODO: Fallback translation --&gt;
-- **starker Основа**: hochstufig (selten dehnstufig) &lt;!-- TODO: Fallback translation --&gt;
+- **С окончание за именителен / винителен единствено число: -m**
+  напр. **phala** ср. = फल = „плод“: И. / В. ед. **phalam** = फलम्
+- **С окончание за именителен / винителен множествено число: -āni**
+  напр. **phala** ср. = फल: И. / В. мн. **phalāni** = फलानि
 :::
 
-### 7.5.2. Die 5. Сегашно времеklasse (svādi = स्वादि = "su usw.")
+---
+
+## 7.5. Атематични класове на настоящето
+
+5-та класа на настоящето образува т.нар. атематичен корен на настоящето, т.е. коренът на настоящето не завършва на „тематичната гласна“ **-a**, както при тематичните класове на настоящето (1., 4., 6., 10. класа).
 
 ::: grammar-box
-- Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h. der Präsensstamm lautet nicht wie bei den thematischen Präsensklassen (1., 4., 6., 10. Klasse) auf den "Themavokal" **-a** aus. &lt;!-- TODO: Fallback translation --&gt;
-- **Die athematischen Präsensklassen haben Stammabstufung, d.h. es gibt zwei Formen des Präsensstamms:** &lt;!-- TODO: Fallback translation --&gt;
+**Атематичните класове на настоящето имат кореново гласово изменение, т.е. съществуват две форми на корена на настоящето:**
+1. **силен корен**: висока степен (рядко удължена степен)
+2. **слаб корен**: ниска степен
 
-**starker Основа**: hochstufig (selten dehnstufig) &lt;!-- TODO: Fallback translation --&gt;
+**Силният корен се използва:**
+- в индикатив единствено число Parasmaipada за настояще (laṭ) и имперфект (laṅ)
+- във всички първи лица на императив (loṭ) Parasmaipada и Ātmanepada
+- в трето лице единствено число на императив (loṭ) Parasmaipada
+
+**Всички останали форми използват слабия корен на настоящето.**
 :::
 
-**schwacher Основа**: tiefstufig &lt;!-- TODO: Fallback translation --&gt;
+### 7.5.1. Примарни окончания за 3-то лице мн. число при атематични корени
 
-| Корен[[br]]धातु | Starker Основа | Schwacher Основа | Vor Vokal[[br]](schwach) |
+::: grammar-box
+**При атематични настоящи корени примарните окончания за 3-то лице мн. число са:**
+- **Парасмайпада: -анти**
+- **Āтманепада: -ате**
+:::
+
+### 7.5.2. Петият клас на настоящето време (svādi = स्वादि = „su и т.н.“)
+
+::: grammar-box
+- **Силен корен**: (повечето случаи) корен в дълбока степен (както е посочено) + **-no-**
+- **Слаб корен**: (повечето случаи) корен в дълбока степен (както е посочено) + **-nu-**
+
+**Пред гласникови окончания, при корени, завършващи на гласна, -nu- се заменя с -nv-, а при корени, завършващи на съгласна, пред гласникови окончания -nu- се заменя с -nuv-.**
+:::
+
+**Примери:**
+
+| Корен[[br]]धातु | Силен корен | Слаб корен | Пред гласна[[br]](слаб) |
 | :--- | :--- | :--- | :--- |
-| **āp**[[br]]5 P[[br]]आप्[[br]]"erreichen" | **āp-no**[[br]](3.sg. āpnoti = आप्नोति) | **āp-nu** | **āp-nuv**[[br]](3.pl. āpnuvanti = आप्नुवन्ति) |
-| **aś**[[br]]5 Ā[[br]]अश्[[br]]"erreichen" | — | **aś-nu**[[br]](3.sg. aśnute = अश्नुते) | **aś-nuv**[[br]](3.pl. aśnuvate = अश्नुवते) |
-| **su**[[br]]5 U[[br]]सु[[br]]"auspressen" | **su-no**[[br]](3.sg. sunoti = सुनोति) | **su-nu**[[br]](3.sg. sunute = सुनुते) | **su-nv**[[br]](3.pl. sunvanti = सुन्वन्ति,[[br]]3.pl. sunvate = सुन्वते) |
-| **śru**[[br]]5 P[[br]]श्रु[[br]]"hören" | **śṛ-ṇo**[[br]](3.sg. śṛṇoti = शृणोति) | **śṛ-ṇu** | **śṛ-ṇv**[[br]](3.pl. śṛṇvanti = शृण्वन्ति) | <!-- TODO: Fallback translation -->
+| **āp**[[br]]5 П[[br]]आप्[[br]]„достигам“ | **āp-no**[[br]](3.л. ед. āpnoti = आप्नोति) | **āp-nu** | **āp-nuv**[[br]](3.л. мн. āpnuvanti = आप्नुवन्ति) |
+| **aś**[[br]]5 А[[br]]अश्[[br]]„достигам“ | — | **aś-nu**[[br]](3.л. ед. aśnute = अश्नुते) | **aś-nuv**[[br]](3.л. мн. aśnuvate = अश्नुवते) |
+| **su**[[br]]5 У[[br]]सु[[br]]„изцеждам“ | **su-no**[[br]](3.л. ед. sunoti = सुनोति) | **su-nu**[[br]](3.л. ед. sunute = सुनुते) | **su-nv**[[br]](3.л. мн. sunvanti = सुन्वन्ति,[[br]]3.л. мн. sunvate = सुन्वते) |
+| **śru**[[br]]5 П[[br]]श्रु[[br]]„чувам“ | **śṛ-ṇo**[[br]](3.л. ед. śṛṇoti = शृणोति) | **śṛ-ṇu** | **śṛ-ṇv**[[br]](3.л. мн. śṛṇvanti = शृण्वन्ति) |
 
 ---
 
-## 7.6. Речник
+## 7.6. Списък на думите
 
-**Lernen Sie folgende Wörter:** &lt;!-- TODO: Fallback translation --&gt;
+**Запознайте се със следните думи:**
 
-- **aś** 5 Ā (aśnute) अश् अश्नुते : erreichen, gelangen zu, erlangen &lt;!-- TODO: Fallback translation --&gt;
-- **āp** 5 P (āpnoti) आप् आप्नोति : erreichen, erlangen &lt;!-- TODO: Fallback translation --&gt;
-- **kup** 4 P (kupyati) कुप् कुप्यति : zürnen &lt;!-- TODO: Fallback translation --&gt;
-- **krudh** 4 P (krudhyati) क्रुध् क्रुध्यति : zürnen &lt;!-- TODO: Fallback translation --&gt;
-- **khād** 1 P (khādati) खाद् खादति : kauen, essen &lt;!-- TODO: Fallback translation --&gt;
-- **śru** 5 P (śṛṇoti !) श्रु शृणोति : hören (etwas: Акузатив, jemanden: Генетив oder Акузатив; über: Акузатив; von jemandem: Генетив, Аблатив, Инструменталис) &lt;!-- TODO: Fallback translation --&gt;
-- **su** 5 U (sunoti) सु सुनोति : auspressen &lt;!-- TODO: Fallback translation --&gt;
-- **soma** m. सोम : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten). &lt;!-- TODO: Fallback translation --&gt;
+- **aś** 5 Ā (aśnute) अश् अश्नुते : постигна, достигне, придобие
+- **āp** 5 P (āpnoti) आप् आप्नोति : постигна, придобие
+- **kup** 4 P (kupyati) कुप् कुप्यति : гневя
+- **krudh** 4 P (krudhyati) क्रुध् क्रुध्यति : гневя
+- **khād** 1 P (khādati) खाद् खादति : дъвча, ям
+- **śru** 5 P (śṛṇoti !) श्रु शृणोति : чувам (нещо: винителен падеж, някого: родителен или винителен; за: винителен; от някого: родителен, аблатив, инструментал)
+- **su** 5 U (sunoti) सु सुनोति : пресовам
+- **soma** m. सोम : пресована напитка, Сома; Луна (От кое растение е пресован Сома, е спорно до днес).
 ::: media
 ![](/images/lekt0701.jpg)
-Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
-(Bildquelle: Wikipedia, GNU FDLizenz) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Била ли е тази ведическа растителна Сома?: Мухомор: *Amanita muscaria* (L.) Lam.
+(Източник на изображението: [Подробности](/bg/licenses#lekt0701))
 :::
-- **phala** n. फल : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat) &lt;!-- TODO: Fallback translation --&gt;
-- **nṛtya** n. नृत्य : Tanz &lt;!-- TODO: Fallback translation --&gt;
-- **svarga** m. स्वर्ग : Himmel &lt;!-- TODO: Fallback translation --&gt;
-- **naraka** m. नरक : Hölle (nach einer Hinduauffassung hat das Universum die Form eines Eis (**Brahmāṇḍa** m.n. = ब्रह्माण्ड = "Ei Brahmās"): oberhalb der Erde sind sechs Himmel mit ansteigender Glückseligkeit, unterhalb der Erde sind sieben sog. **pātāla** n. = पाताल, Wohnstätten der **nāga** m. = नाग (Schlangen) und anderer mythischer Wesen, darunter kommen 7 Höllen mit steigenden Qualen) &lt;!-- TODO: Fallback translation --&gt;
-- **aṅga** n. अङ्ग : Glied des Körpers, Bestandteil; auch = **vedāṅga** = वेदाङ्ग &lt;!-- TODO: Fallback translation --&gt;
-- **gam** 1 P (gacchati) गम् गच्छति : gehen (Gehört nach der einheimischen Verbklassifikation zur Сегашно времеklasse 1, ist aber in Wirklichkeit eine Образоване mit einem Сегашна основаbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**) &lt;!-- TODO: Fallback translation --&gt;
+- **phala** n. फल : плод (в преносен смисъл: (кармичен) плод на действие)
+- **nṛtya** n. नृत्य : танц
+- **svarga** m. स्वर्ग : небе
+- **naraka** m. नरक : ад (според хиндуистко схващание, вселената има формата на яйце (**Brahmāṇḍa** m.n. = ब्रह्माण्ड = "Яйце на Брахма"): над земята има шест небеса с нарастващо блаженство, под земята има седем т.нар. **pātāla** n. = पाताल, обиталища на **nāga** m. = नाग (змии) и други митични същества, откъдето идват 7 ада с нарастващи мъки)
+- **aṅga** n. अङ्ग : част на тялото, съставна част; също = **vedāṅga** = वेदाङ्ग
+- **gam** 1 P (gacchati) गम् गच्छति : ходя (Според вътрешната класификация на глаголите принадлежи към първия клас на настоящето време, но всъщност е форма с суфикс за образуване на настоящ корен **-ccha-**: **gam** » Ниска степен (**gm** ») **ga-ccha-ti**)
+
+
 
 ---
 
 ## 7.7. Упражнение
 
-**A) Setzen Sie jeweils im Singular und Plural das direkte Objekt bzw. den Richtungsakkusativ ein:** &lt;!-- TODO: Fallback translation --&gt;
+**А) Вземете единствено и множествено число директен обект или винителен падеж на посоката:**
 
-1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā) &lt;!-- TODO: Fallback translation --&gt;
+1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
    ब्राह्मणस् ... यजति (देव, देवी, विष्णु, अग्नि, देवता)
 
 ::: media
 ![](/images/lekt0704.jpg)
-Abb.: Viṣṇu = विष्णु, 8./9. Jahrhundert.
-(Bildquelle: Wikipedia, GNU FDLizenz) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Viṣṇu = विष्णु, 8./9. век.
+(Източник на изображението: [Подробности](/bg/licenses#lekt0704))
 :::
 
-2. gurus ... khādati (phala) &lt;!-- TODO: Fallback translation --&gt;
+2. gurus ... khādati (phala)
    गुरुस् ... खादति (फल)
-3. sādhus ... gacchati (svarga) &lt;!-- TODO: Fallback translation --&gt;
+3. sādhus ... gacchati (svarga)
    साधुस् ... गच्छति (स्वर्ग)
-4. śūdrā ... gacchati (naraka) &lt;!-- TODO: Fallback translation --&gt;
+4. śūdrā ... gacchati (naraka)
    शूद्रा ... गच्छति (नरक)
-5. ... jayati (śūdra) &lt;!-- TODO: Fallback translation --&gt;
+5. ... jayati (śūdra)
    ... जयति (शूद्र)
-6. ... labhate (dhenu, paśu, phala) &lt;!-- TODO: Fallback translation --&gt;
+6. ... labhate (dhenu, paśu, phala)
    ... लभते (धेनु, पशु, फल)
 
-**B) Setzen Sie die entsprechenden Verbformen ein:** &lt;!-- TODO: Fallback translation --&gt;
+**Б) Вземете съответните глаголни форми:**
 
-1. sādhuḥ svargaṃ ... (āp, gam, aś) &lt;!-- TODO: Fallback translation --&gt;
+1. sādhuḥ svargaṃ ... (āp, gam, aś)
    साधुः स्वर्गम् ... (आप्, गम्, अश्)
-2. brāhmaṇaḥ somam ... (su) (2 Formen) &lt;!-- TODO: Fallback translation --&gt;
+2. brāhmaṇaḥ somam ... (su) (2 форми)
    ब्राह्मणः सोमम् ... (सु)
-3. sādhur gurum ... (śru) &lt;!-- TODO: Fallback translation --&gt;
+3. sādhur gurum ... (śru)
    साधुर्गुरुम् ... (श्रु)
-4. devī ... (kup, krudh) &lt;!-- TODO: Fallback translation --&gt;
+4. devī ... (kup, krudh)
    देवी ... (कुप्, क्रुध्)
 
-**C) Setzen Sie in den Übungssätzen B) Agens, Objekt und Verb in den Plural.** &lt;!-- TODO: Fallback translation --&gt;
+**В) Вземете в упражненията Б) агент, обект и глагол във множествено число.**
 
-**D) Setzen Sie ins Ātmanepada:** &lt;!-- TODO: Fallback translation --&gt;
+**Г) Вземете в Ātmanepada:**
 
-1. sunvanti. &lt;!-- TODO: Fallback translation --&gt;
+1. sunvanti.
    सुन्वन्ति |
-2. nayanti. &lt;!-- TODO: Fallback translation --&gt;
+2. nayanti.
    नयन्ति |
-3. sunoti. &lt;!-- TODO: Fallback translation --&gt;
+3. sunoti.
    सुनोति |
-4. yajati. &lt;!-- TODO: Fallback translation --&gt;
+4. yajati.
    यजति |
 
 ::: media
 ![](/images/lekt0702.jpg)
-Abb.: **yajati** = यजति
-Vedisches Opfer = **yajña** m. = यज्ञ
-(Bildquelle: Wikipedia, Public Domain) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: **yajati** = यजति — Ведически жертвоприношение = **yajña** m. = यज्ञ
+(Източник на изображението: [Подробности](/bg/licenses#lekt0702))
 :::
 
-**E) Bilden Sie zu allen bisher gelernten Nomina den Akkusativ (dvitīyā) sg. und pl.** &lt;!-- TODO: Fallback translation --&gt;
+**Д) Образувате за всички досега научени съществителни винителен падеж (dvitīyā) единствено и множествено число.**
 
-**F) Übersetzen Sie:** &lt;!-- TODO: Fallback translation --&gt;
+**Е) Преведете:**
 
-1. narakāṃś ca svargāṃś ca gacchanti. &lt;!-- TODO: Fallback translation --&gt;
+1. narakāṃś ca svargāṃś ca gacchanti.
    नरकांश्च स्वर्गांश्च गच्छन्ति |
-2. gurūṃs tu śṛṇvanti. &lt;!-- TODO: Fallback translation --&gt;
+2. gurūṃs tu śṛṇvanti.
    गुरूूंस्तु शृण्वन्ति |
-3. Śūdras erlangen einen Himmel. &lt;!-- TODO: Fallback translation --&gt;
-4. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern. &lt;!-- TODO: Fallback translation --&gt;
-5. Vaiśyafrauen verehren Gottheiten mit Opfern. &lt;!-- TODO: Fallback translation --&gt;
-6. Der HERR zürnt. &lt;!-- TODO: Fallback translation --&gt;
-7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. &lt;!-- TODO: Fallback translation --&gt;
+3. Śūdras erlangen einen Himmel.
+4. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern.
+5. Vaiśyafrauen verehren Gottheiten mit Opfern.
+6. Der HERR zürnt.
+7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
    शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि |
-8. Welchem Gott opfert dieser Brahmane? &lt;!-- TODO: Fallback translation --&gt;
+8. Welchem Gott opfert dieser Brahmane?
 
 ::: media
 ![](/images/lekt0703.jpg)
-Abb.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
-(Bildquelle: Rajaramraok, Wikipedia, CC-BY 3.0) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
+(Източник на изображението: [Подробности](/bg/licenses#lekt0703))
 :::
 
-9. Was kaut dieser heilige Mann? &lt;!-- TODO: Fallback translation --&gt;
-10. Was pressen diese (hier) aus? &lt;!-- TODO: Fallback translation --&gt;
-11. Er ist der Lehrer. Auf ihn hört man (= hören sie). &lt;!-- TODO: Fallback translation --&gt;
+9. Was kaut dieser heilige Mann?
+10. Was pressen diese (hier) aus?
+11. Er ist der Lehrer. Auf ihn hört man (= hören sie).

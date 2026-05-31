@@ -1,30 +1,19 @@
+---
+title: Урок 16
+subtitle: "За сандхи на изходящи съгласни"
+lesson_id: 16
+last_reconstructed: 2026-05-21
+category: "Граматика"
+status: stable
+---
 
+# Урок 16
 
-# Lektion 16
+## 16.1. За сандхи на крайни съгласни
 
-## 16.1. Zum Sandhi auslautender Konsonanten
+За образуването на съставни думи, чийто първи член образува корени с крайно съгласен, са необходими следните правила:
 
-Zur Bildung von Komposita, deren Vorderglied konsonantisch auslautende Stämme bilden, benötigt man folgende Regeln: &lt;!-- TODO: Fallback translation --&gt;
-
-Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. keine Nasale und keine Palatale). &lt;!-- TODO: Fallback translation --&gt;
-
-:::: grammar-box
-
-::: no-header
-
-|   |   |
-| :--- | :--- |
-| **in Pausa und vor stimmlosen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** [[br]] **z.B.** [[br]] [[indent]] -g + p- » -kp- [[br]] [[indent]] -d + ph- » -tph- [[br]] [[indent]] -dh + p- » -tp- |
-| **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** [[br]] **z.B.** [[br]] [[indent]] -t + g- » -dg- [[br]] [[indent]] -k + b- » -gb- [[br]] [[indent]] -dh + d- » -dd- [[br]] [[indent]] -k + a- » -ga- |
-| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** [[br]] **z.B.** [[br]] [[indent]] -t + n- » -nn- [[br]] [[indent]] -p + n- » -mn- |
-
-:::
-
-::::
-
-Ausnahme zu obiger Regel: &lt;!-- TODO: Fallback translation --&gt;
-
-Auslautender dentaler Verschlusslaut (nicht Nasal): &lt;!-- TODO: Fallback translation --&gt;
+Крайни гърлови, ретрофлексни, дентални и устни спирали (т.е. не носови и не палатални).
 
 :::: grammar-box
 
@@ -32,16 +21,34 @@ Auslautender dentaler Verschlusslaut (nicht Nasal): &lt;!-- TODO: Fallback trans
 
 |   |   |
 | :--- | :--- |
-| **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** [[br]] **d.h.** [[br]] [[indent]] -t + c- » -cc- [[br]] [[indent]] -d + c- » -cc- [[br]] [[indent]] -th + c- » -cc- [[br]] [[indent]] -dh + c- » -cc- [[br]] [[indent]] -t/-th/-d/-dh + ch- » -cch- [[br]] [[indent]] -t/-th/-d/-dh + j- » -jj- [[br]] [[indent]] -t/-th/-d/-dh + jh- » -jjh- |
-| **+ ś** | **» -cś- oder -cch-** |
-| **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** [[br]] **d.h.** [[br]] [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- [[br]] [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** [[br]] **d.h.** [[br]] [[indent]] -t/-th/-d/-dh + l- » -ll- |
+| **в пауза и пред глухи звуци** | **Замяна с съответния им глух неаспирiran звук:** [[br]] **напр.** [[br]] [[indent]] -g + p- » -kp- [[br]] [[indent]] -d + ph- » -tph- [[br]] [[indent]] -dh + p- » -tp- |
+| **пред звънки неносови звуци** | **Замяна с съответния им звънък неаспирiran звук:** [[br]] **напр.** [[br]] [[indent]] -t + g- » -dg- [[br]] [[indent]] -k + b- » -gb- [[br]] [[indent]] -dh + d- » -dd- [[br]] [[indent]] -k + a- » -ga- |
+| **пред носови** | **Замяна с съответния им носов звук:** [[br]] **напр.** [[br]] [[indent]] -t + n- » -nn- [[br]] [[indent]] -p + n- » -mn- |
 
 :::
 
 ::::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Изключение от горното правило:
+
+Краен дентален спирали (не носов):
+
+:::: grammar-box
+
+::: no-header
+
+|   |   |
+| :--- | :--- |
+| **пред палатални** | **Замяна с съответния неаспирiran палатален:** [[br]] **т.е.** [[br]] [[indent]] -t + c- » -cc- [[br]] [[indent]] -d + c- » -cc- [[br]] [[indent]] -th + c- » -cc- [[br]] [[indent]] -dh + c- » -cc- [[br]] [[indent]] -t/-th/-d/-dh + ch- » -cch- [[br]] [[indent]] -t/-th/-d/-dh + j- » -jj- [[br]] [[indent]] -t/-th/-d/-dh + jh- » -jjh- |
+| **+ ś** | **» -cś- или -cch-** |
+| **пред ретрофлексни** | **Замяна с съответния неаспирiran ретрофлексен:** [[br]] **т.е.** [[br]] [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- [[br]] [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **пред l-** | **Замяна с -l:** [[br]] **т.е.** [[br]] [[indent]] -t/-th/-d/-dh + l- » -ll- |
+
+:::
+
+::::
+
+Примери:
 
 तद् + फल = तत्फल
 
@@ -61,69 +68,72 @@ Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 ## 16.2. Речник
 
-अध्यापन n.: Unterrichten, Unterricht &lt;!-- TODO: Fallback translation --&gt;
+अध्यापन n.: Преподаване, обучение
 
 ::: media
 ![](/images/lekt1602.jpg)
-Abb.: अध्यापनम्
-(Bildquelle: [Details](/licenses#lekt1602)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: अध्यापनम्
+„Това е специална церемония в малък храм в Сатара (सातारा). Тя се извършва от учениците на Свами Муктананда Ведашала по случай празнуването на Махашиваратри. Това е ведическо училище, където децата наизустяват свещените текстове, наречени Веди. Това училище преподава Кришна Яджурведа и някои части от Самаведа. Пиша магистърската си теза за това училище.“
+(Източник на изображението: [Подробности](/bg/licenses#lekt1602))
 :::
 
-अनसूया f.: Nicht-Murren, Neidlosigkeit &lt;!-- TODO: Fallback translation --&gt;
+अनसूया f.: Непрекъснатост, липса на завист
 
-नृशंस्य n.: Boshaftigkeit, Niedertracht &lt;!-- TODO: Fallback translation --&gt;
+नृशंस्य n.: Злоба, подлост
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
 ::: indent
-अनृशंस्य n.: Nicht-Boshaftigkeit &lt;!-- TODO: Fallback translation --&gt;
+अनृशंस्य n.: Нелипса на злоба
 :::
 
-जीव् 1 P जीवति ; Pass. जीव्यते ; PPP जीवित : leben &lt;!-- TODO: Fallback translation --&gt;
+जीव् 1 P जीवति ; Pass. जीव्यते ; PPP जीवित: живея
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
 ::: indent
-आजीव m.: Lebensunterhalt &lt;!-- TODO: Fallback translation --&gt;
+आजीव m.: Прехрана
 :::
 
-क्षमा f.: Geduld, Langmut, Nachsicht &lt;!-- TODO: Fallback translation --&gt;
+क्षमा f.: Търпение, дълготърпие, снисходителност
 
-क्षेम n.: Ruhe, Frieden, Wohlergehen, sicherer Besitz &lt;!-- TODO: Fallback translation --&gt;
+क्षेम n.: Покой, мир, благоденствие, сигурна собственост
 
-चित्त n.: Bewusstsein, Denken, Geist &lt;!-- TODO: Fallback translation --&gt;
+चित्त n.: Съзнание, мислене, ум
 
-निरोध m.: Stoppen, Zum-Stillstand-Bringen &lt;!-- TODO: Fallback translation --&gt;
+निरोध m.: Спиране, довеждане до покой
 
-* **bhūta n.** (भूत) (PPP zu bhū): Wesen, Gespenst &lt;!-- TODO: Fallback translation --&gt;
+* **bhūta n.** (भूत) (PPP от bhū): същество, призрачен дух
 
-योग m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga &lt;!-- TODO: Fallback translation --&gt;
+योग m.: Припрягане, свързване, обединение, придобиване ; Йога
 
 ::: media
 ![](/images/lekt1601.jpg)
-Abb.: योगी
-(Bildquelle: [Details](/licenses#lekt1601)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: योगी
+Бирла Мандир, Дели
+(Източник на изображението: [Подробности](/bg/licenses#lekt1601))
 :::
 
-वृत् 1 Ā वर्तते ; Pass. वृत्यते ; PPP वृत्त : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen &lt;!-- TODO: Fallback translation --&gt;
+वृत् 1 Ā वर्तते ; Pass. वृत्यते ; PPP वृत्त: завъртам се, обръщам се, намирам се (някъде), живея
 
-शस्त्र (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe &lt;!-- TODO: Fallback translation --&gt;
+शस्त्र (śastra) n.: Ръчен инструмент за рязане, режещо оръжие, меч, оръжие
 
-शौच n.: Reinigung, Reinheit &lt;!-- TODO: Fallback translation --&gt;
+शौच n.: Пречистване, чистота
 
-साधन m.,n. साधनी साधना f.: zum Ziel führend, bewirkend &lt;!-- TODO: Fallback translation --&gt;
+साधन m.,n. साधनी साधना f.: водещ към целта, причиняващ
 
-अहिंसा f.: das Niemandem-etwas-zu-Leide-Tun, Nichtverletzen, Gewaltlosigkeit &lt;!-- TODO: Fallback translation --&gt;
+अहिंसा f.: Не причиняване на зло на никого, ненасилие
 
 ::: media
 ![](/images/lekt1603.jpg)
-Abb.: अहिंसा
-(Bildquelle: [Details](/licenses#lekt1603)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: अहिंसा
+„Ръката с колело на дланта символизира джайнския обет за ахимса. Думата в средата е „ахимса“. Колелото представляра дхармачакра, която символизира решимостта да се спре цикълът на прераждането чрез неуморното търсене на истината и ненасилието.“
+(Източник на изображението: [Подробности](/bg/licenses#lekt1603))
 :::
 
 ## 16.3. Упражнение
 
-A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie: &lt;!-- TODO: Fallback translation --&gt;
+А) Преобразувайте следните изрази в Tatpuruṣa и ги преведете:
 
 १. देवस्य पुरुषः ।
 
@@ -135,13 +145,14 @@ A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie: &l
 
 ::: media
 ![](/images/lekt1604.jpg)
-Abb.: पशुमन्तो जनाः
-(Bildquelle: [Details](/licenses#lekt1604)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: पशुमन्तो जनाः
+हरियाणा / ਹਰਿਆਣਾ
+(Източник на изображението: [Подробности](/bg/licenses#lekt1604))
 :::
 
 ५. सुखवान्वैश्यायाः पुत्रः ।
 
-६.  सुखवत्या वैश्यायाः पुत्रः ।
+६.  सुखवत्या वैश्यायाः पुत्रः ।
 
 ७. कवेरुक्त्याः सत्यम् ।
 
@@ -155,7 +166,7 @@ Abb.: पशुमन्तो जनाः
 
 १२. देवानां स्तुतिः ।
 
-B) Lösen Sie in folgenden Sätzen alle Komposita in Sanskrit auf, bilden Sie so Sätze mit flektierten Nomina und übersetzen Sie: &lt;!-- TODO: Fallback translation --&gt;
+Б) Разтворете всички съставни думи (компози) в следните изречения на санскрит, образувайте изречения с флективирани съществителни и ги преведете:
 
 १. पुण्यवद्वैश्यपुत्रो देवेन्द्रलोकं गच्छति ।
 
@@ -177,48 +188,48 @@ B) Lösen Sie in folgenden Sätzen alle Komposita in Sanskrit auf, bilden Sie so
 
 १०. पुण्यवद्वैश्येष्टदेवतापूजां करोति ।
 
-## 16.4. Wiederholungsübung
+## 16.4. Повторително упражнение
 
-A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele für die bisher gelernten Deklinationsklassen. &lt;!-- TODO: Fallback translation --&gt;
+A) Образувайте всички досегашни научени падежи за следните думи като примери за досегашните научени склонителни класове.
 
-Verwenden Sie dazu folgendes Schema, das der Reihenfolge der Kasus bei den indischen Grammatikern entspricht und das wegen seiner - später zu besprechenden - Vorzüge auch von den westlichen Grammatikern übernommen wurde: &lt;!-- TODO: Fallback translation --&gt;
+Използвайте за целта следната схема, която съответства на реда на падежите при индийските грамматици и която, поради своите – по-късно да обсъждани – предимства, е приета и от западните грамматици:
 
 | Единствено число[[br]]एकवचनम् | Множествено число[[br]]बहुवचनम् |
 | :--- | :--- |
-| **१. प्रथमा**[[br]]Номинатив | **१. प्रथमा** |
-| **२. द्वितीया**[[br]]Акузатив | **२. द्वितीया** |
-| **३. तृतीया**[[br]]Инструменталис | **३. तृतीया** |
-| **६. षष्ठी**[[br]]Генетив | **६. षष्ठी** |
+| **१. प्रथमा**[[br]]Именителен падеж | **१. प्रथमा** |
+| **२. द्वितीया**[[br]]Звателен падеж | **२. द्वितीया** |
+| **३. तृतीया**[[br]]Творителен падеж | **३. तृतीया** |
+| **६. षष्ठी**[[br]]Дателен падеж | **६. षष्ठी** |
 
-Lernen Sie die Deklinationsmuster nach diesen Beispielen auswendig!!! &lt;!-- TODO: Fallback translation --&gt;
+Заучете склонителните модели по тези примери!!!
 
-१. नर m. &lt;!-- TODO: Fallback translation --&gt;
+१. नर м.р.
 
-२. फल n. &lt;!-- TODO: Fallback translation --&gt;
+२. फल с.р.
 
-३. क्षत्रिया f. &lt;!-- TODO: Fallback translation --&gt;
+३. क्षत्रिया ж.р.
 
-४. अरि m. &lt;!-- TODO: Fallback translation --&gt;
+४. अरि м.р.
 
-५. मति f. &lt;!-- TODO: Fallback translation --&gt;
+५. मति ж.р.
 
-६. गुरु m. &lt;!-- TODO: Fallback translation --&gt;
+६. गुरु м.р.
 
-७. धेनु f. &lt;!-- TODO: Fallback translation --&gt;
+७. धेनु ж.р.
 
-८. देवी f. &lt;!-- TODO: Fallback translation --&gt;
+८. देवी ж.р.
 
-९. गुणवन्त् m., n., f. &lt;!-- TODO: Fallback translation --&gt;
+९. गुणवन्त् м.р., с.р., ж.р.
 
-१०. किम्  m., n., f. &lt;!-- TODO: Fallback translation --&gt;
+१०. किम् м.р., с.р., ж.р.
 
-११. तद् m., n., f. &lt;!-- TODO: Fallback translation --&gt;
+११. तद् м.р., с.р., ж.р.
 
-१२. एतद् m., n., f. &lt;!-- TODO: Fallback translation --&gt;
+१२. एतद् м.р., с.р., ж.р.
 
-१३. इदम् m., n., f. &lt;!-- TODO: Fallback translation --&gt;
+१३. इदम् м.р., с.р., ж.р.
 
-B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf: &lt;!-- TODO: Fallback translation --&gt;
+B) Преведете и разложете всички санскритски съставни думи:
 
 १. योगश्चित्तवृत्तिनिरोधः ॥योगसूत्र १.२॥
 
@@ -235,26 +246,24 @@ B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf: &lt;!-- TODO: 
 (कौटिलीयार्थशास्त्र १.३.५-८, १३)
 
 ::: indent
-Erklärungen; &lt;!-- TODO: Fallback translation --&gt;
+Обяснения;
 
-Satz 7: कृषिपाशुपाल्ये Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet &lt;!-- TODO: Fallback translation --&gt;
+Изречение 7: कृषिपाशुपाल्ये Двояк число, Именителен и Звателен падеж: Двандва, която обозначава две „неща“
 
-Satz 8: कर्म Nom., Akk. sg. Neutrum zu कर्मन् "Tat" &lt;!-- TODO: Fallback translation --&gt;
+Изречение 8: कर्म Именителен и Звателен падеж, единствено число, среден род спрямо कर्मन् „действие“
 
-Satz 13: सर्वेषाम् Gen. pl. mask. zu सर्व "jeder, alle" (Pronomen, dekliniert nicht wie deva) &lt;!-- TODO: Fallback translation --&gt;
+Изречение 13: सर्वेषाम् Родителен падеж, множествено число, мъжки род спрямо सर्व „всеки, всички“ (местоимение, не се склонява като deva)
 :::
 
 ३. आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः, तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १.४.३॥
 
 ::: deleteme-box
 
-### Източници
+**lekt1601:** Бирла Мандир, Дели [Източник на изображението: Deepak / Wikipedia ; Лиценз Creative Commons (приписване, споделяне на споделеното)]
 
-**lekt1601:** Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt1602:** „Това е специална церемония в малък храм в Сатара (सातारा). Тя се извършва от учениците на Свами Муктананда Ведашала по случай празнуването на Махашиваратри. Това е ведическо училище, където децата наизустяват свещените текстове, наречени Веди. Това училище преподава Кришна Яджурведа и някои части от Самаведа. Пиша магистърската си теза за това училище.“ [Източник на изображението: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Достъп на 2008-12-07. -- Лиценз Creative Commons (приписване, некомерсиално използване, без промени)]
 
-**lekt1602:** "This is a special ceremony in a small temple in Satara (सातारा). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Bildquelle: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt1603:** „Ръката с колело на дланта символизира джайнския обет за ахимса. Думата в средата е „ахимса“. Колелото представляра дхармачакра, която символизира решимостта да се спре цикълът на прераждането чрез неуморното търсене на истината и ненасилието.“ [Източник на изображението: Wikipedia, Обществен достъп]
 
-**lekt1603:** "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt1604:** हरियाणा / ਹਰਿਆਣਾ [Bildquelle: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt1604:** हरियाणा / ਹਰਿਆਣਾ [Източник на изображението: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Достъп на 2008-12-07. -- Лиценз Creative Commons (приписване, некомерсиално използване, без промени)]
 :::

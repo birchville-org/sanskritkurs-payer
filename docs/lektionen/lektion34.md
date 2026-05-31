@@ -77,9 +77,9 @@ Beispiele:
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| भिद् | बिभेद |
-| मुच् | मुमोच |
-| भृ | बभार |
+| भिद् | ***बि***भेद |
+| मुच् | ***मु***मोच |
+| भृ | ***ब***भार |
 
 ::::
 
@@ -209,6 +209,7 @@ Beispiele:
 ::: media
 ![](/images/lekt3406.jpg)
 Abb.: सस्यम्
+Rice field in India.
 (Bildquelle: [Details](/licenses#lekt3406))
 :::
 
@@ -223,6 +224,7 @@ Abb.: सस्यम्
 ::: media
 ![](/images/lekt3405.jpg)
 Abb.: लक्षद्वीपाः
+Lakshadweep Islands Map.
 (Bildquelle: [Details](/licenses#lekt3405))
 :::
 
@@ -233,12 +235,14 @@ Abb.: लक्षद्वीपाः
 ::: media
 ![](/images/lekt3403.jpg)
 Abb.: तिलाः
+Sesame seeds.
 (Bildquelle: [Details](/licenses#lekt3403))
 :::
 
 ::: media
 ![](/images/lekt3404.jpg)
 Abb.: *Sesamum indicum* L.
+Sesame plant flowering.
 (Bildquelle: [Details](/licenses#lekt3404))
 :::
 
@@ -247,6 +251,7 @@ Abb.: *Sesamum indicum* L.
 ::: media
 ![](/images/lekt3402.jpg)
 Abb.: स्वर्णम्
+Golden Temple (Harmandir Sahib), Amritsar.
 (Bildquelle: [Details](/licenses#lekt3402))
 :::
 
@@ -263,6 +268,7 @@ Abb.: स्वर्णम्
 ::: media
 ![](/images/lekt3401.jpg)
 Abb.: ऋषभः
+Nandi Bull statue, Chamundi Hills, Mysore.
 (Bildquelle: [Details](/licenses#lekt3401))
 :::
 
@@ -342,11 +348,11 @@ Erklärungen:
 ::: media
 ![](/images/lekt3407.jpg)
 Abb.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
+Hindu wedding ritual.
 (Bildquelle: [Details](/licenses#lekt3407))
 :::
 
 ::: deleteme-box
-### Quellen
 
 **lekt3401:** Nandi Bull statue, Chamundi Hills, Mysore. [Bildquelle: Luna Park / Flickr. CC BY-NC-ND]
 

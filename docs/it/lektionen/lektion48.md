@@ -1,6 +1,10 @@
 ---
+title: Lezione 48
+subtitle: "सुभाषितानि"
 lesson_id: 48
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 48
@@ -23,28 +27,28 @@ last_reconstructed: 2026-05-21
 लाघवं वैयाकरणस्य भूषणम् ॥७॥
 :::
 
-## 48.2. Formazione dell'imperativo (लोप्) delle radici del presente atematiche
+## 48.2. Formazione dell'imperativo (लोट्) delle radici verbali atematiche del presente
 
-### 48.2.1. Desinenze dell’Imperativo alle radici di presente atematiche
+### 48.2.1. Desinenze dell'imperativo per le radici di presente atematiche
 
 ::: grammar-box
-| | परस्मैपदम् (Parasmaipāda) || आत्मनेपदम् (Ātmanepāda) ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **Singolare** | **Plurale** | **Singolare** | **Plurale** |
-| **1. Persona**[[br]]Terza | \-āni | \-ai | \-āma | \-āmahai |
-| **2. Persona**[[br]]Seconda | \-dhi[[br]]\-hi[[br]]\-ø[[br]]\-āna[[br]]\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3. Persona**[[br]]Prima | \-tu[[br]]\-tāt¹ | \-tām | \-antu[[br]]3ª Cl.: \-atu[[br]](da *-ntu) | \-atām[[br]](da *-ntām) |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | \-āni | \-ai | \-āma | \-āmahai |
+| **2. Persona**[[br]]मध्यमः | \-dhi[[br]]\-hi[[br]]\-ø[[br]]\-āna[[br]]\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **3. Persona**[[br]]प्रथमः | \-tu[[br]]\-tāt¹ | \-tām | \-antu[[br]]***3.Cl.: -atu***[[br]](da -\*ntu) | \-atām[[br]](da: -\*ntām) |
 :::
 
-Nota: ¹ Le desinenze della 2. e 3. persona singolare possono essere sostituite da *-tāt* quando si esprime un augurio o una benedizione. *-tāt* appare (anche nella 3. persona singolare) alla radice debole (stema debole).
+Nota: ¹ Le desinenze della 2. e 3.sg.P possono essere sostituite da -tāt, quando si vuole esprimere un augurio. -tāt appare (anche nella 3.sg.P) alla radice debole.
 
 ::: grammar-box
-| **Sulla forma della desinenza della 2. persona singolare dell’Imperativo:** ||
+| **Sulla forma della desinenza della 2.sg.Imperativo.P:** ||
 | :---: | :--- |
-| **\-ø** | Radici della 5. e 8. classe, alle quali a una *-u* finale preceda solo una consonante. |
-| **\-āna** | Radici della 9. classe, che terminano in consonante, sostituiscono a *-nī* + desinenza con *-āna*. |
-| **\-hi** | Tutte le altre radici di presente che terminano in vocale o semivocale (eccezione: **जुहुधि** (juhuḍhi) da **हु** (hu 3)). |
-| **\-dhi** | Tutti gli altri casi. |
+| **\-ø** | Radici della 5. e 8. classe, nelle quali al finale \-u precede solo una consonante. |
+| **\-āna** | Radici della 9. classe, che terminano in consonante, sostituiscono per \-nī+desinenza \-āna |
+| **\-hi** | tutte le altre radici di presente, che terminano in vocale o semivocale (eccezione: **जुहुधि** per **हु 3**) |
+| **\-dhi** | Tutti gli altri casi |
 :::
 
 ### 48.2.2. Forma del tema del presente
@@ -52,8 +56,8 @@ Nota: ¹ Le desinenze della 2. e 3. persona singolare possono essere sostituite 
 ::: grammar-box
 **Tema forte:**
 
-*   **tutte le prime persone dell'imperativo**
-*   **3.sg.P dell'imperativo**
+*   **tutte le 1ª persona dell'imperativo**
+*   **3.sg.P imperativo**
 
 **Tema debole: tutte le altre forme**
 :::
@@ -64,11 +68,11 @@ Nota: ¹ Le desinenze della 2. e 3. persona singolare possono essere sostituite 
 
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **1. Person**[[br]]तृतीयः | द्वेषानि | द्वेषाम | द्वेषै | द्वेषामहै |
-| **2. Person**[[br]]मध्यमः | द्विड्ढि[[br]](dviṣ + dhi)[[br]]द्विष्टात् | द्विष्ट | द्विक्ष्व[[br]](dviṣ + sva) | द्विड्ढ्वम्[[br]](dviṣ + dhvam) |
-| **3. Person**[[br]]प्रथमः | द्वेष्टु[[br]]द्विष्टात् | द्विषन्तु | द्विष्टाम् | द्विषताम्[[br]](dviṣ-atām) |
+| **1. Persona**[[br]]तृतीयः | द्वेषानि | द्वेषाम | द्वेषै | द्वेषामहै |
+| **2. Persona**[[br]]मध्यमः | द्विड्ढि[[br]](dviṣ + dhi)[[br]]द्विष्टात् | द्विष्ट | द्विक्ष्व[[br]](dviṣ + sva) | द्विड्ढ्वम्[[br]](dviṣ + dhvam) |
+| **3. Persona**[[br]]प्रथमः | द्वेष्टु[[br]]द्विष्टात् | द्विषन्तु | द्विष्टाम् | द्विषताम्[[br]](dviṣ-atām) |
 :::
 
 आस् 2Ā
@@ -77,9 +81,9 @@ Nota: ¹ Le desinenze della 2. e 3. persona singolare possono essere sostituite 
 | | आत्मनेपदम् ||
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
-| **1. Person**[[br]]तृतीयः | आसै | आसामहै |
-| **2. Person**[[br]]मध्यमः | आस्स्व | आध्वम्[[br]](ās + dhvam) |
-| **3. Person**[[br]]प्रथमः | आस्ताम् | आसताम् |
+| **1. Persona**[[br]]तृतीयः | आसै | आसामहै |
+| **2. Persona**[[br]]मध्यमः | आस्स्व | आध्वम्[[br]](ās + dhvam) |
+| **3. Persona**[[br]]प्रथमः | आस्ताम् | आसताम् |
 :::
 
 दुह् 2U
@@ -88,9 +92,9 @@ Nota: ¹ Le desinenze della 2. e 3. persona singolare possono essere sostituite 
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **1. Person**[[br]]तृतीयः | दोहानि | दोहाम | दोहै | दोहामहै |
-| **2. Person**[[br]]मध्यमः | दुग्धि[[br]](duh + dhi) | दुग्ध[[br]](duh + ta) | धुक्ष्व[[br]](duh + sva) | धुग्ध्वम् |
-| **3. Person**[[br]]प्रथमः | दोग्धु[[br]](doh + tu) | दुहन्तु | दुग्धाम् | दुहताम् |
+| **1. Persona**[[br]]तृतीयः | दोहानि | दोहाम | दोहै | दोहामहै |
+| **2. Persona**[[br]]मध्यमः | दुग्धि[[br]](duh + dhi) | दुग्ध[[br]](duh + ta) | धुक्ष्व[[br]](duh + sva) | धुग्ध्वम् |
+| **3. Persona**[[br]]प्रथमः | दोग्धु[[br]](doh + tu) | दुहन्तु | दुग्धाम् | दुहताम् |
 :::
 
 इ 2P
@@ -99,20 +103,20 @@ Nota: ¹ Le desinenze della 2. e 3. persona singolare possono essere sostituite 
 | | परस्मैपदम् ||
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
-| **1. Person**[[br]]तृतीयः | अयानि[[br]](e + āni) | अयाम |
-| **2. Person**[[br]]मध्यमः | इहि | इत |
-| **3. Person**[[br]]प्रथमः | एतु | यन्तु[[br]](y-antu) |
+| **1. Persona**[[br]]तृतीयः | अयानि[[br]](e + āni) | अयाम |
+| **2. Persona**[[br]]मध्यमः | इहि | इत |
+| **3. Persona**[[br]]प्रथमः | एतु | यन्तु[[br]](y-antu) |
 :::
 
-शी 2Ā (sempre con grado pieno!)
+शी 2Ā (sempre con gradazione piena!)
 
 ::: grammar-box
 | | आत्मनेपदम् ||
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
-| **1. Person**[[br]]तृतीयः | शयै[[br]](śe + ai) | शयामहै |
-| **2. Person**[[br]]मध्यमः | शेष्व | शेध्वम् |
-| **3. Person**[[br]]प्रथमः | शेताम् | शेरताम् |
+| **1. Persona**[[br]]तृतीयः | शयै[[br]](śe + ai) | शयामहै |
+| **2. Persona**[[br]]मध्यमः | शेष्व | शेध्वम् |
+| **3. Persona**[[br]]प्रथमः | शेताम् | ***शेरताम्*** |
 :::
 
 हन् 2P
@@ -121,11 +125,11 @@ Nota: ¹ Le desinenze della 2. e 3. persona singolare possono essere sostituite 
 | | परस्मैपदम् ||
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
-| **1. Person**[[br]]तृतीयः | हनानि | हनाम |
-| **2. Person**[[br]]मध्यमः | जहि¹ | हत[[br]](da: \*hn-ta) |
-| **3. Person**[[br]]प्रथमः | हन्तु | घ्नन्तु |
+| **1. Persona**[[br]]तृतीयः | हनानि | हनाम |
+| **2. Persona**[[br]]मध्यमः | जहि¹ | हत[[br]](da: \*hn-ta) |
+| **3. Persona**[[br]]प्रथमः | हन्तु | घ्नन्तु |
 
-Nota: ¹ Spiegazione di **जहि** cfr. Thumb-Hauschild I,2 pag. 253
+Nota: ¹ Spiegazione di **जहि*** vedi Thumb-Hauschild I,2 pag. 253
 :::
 
 स्तु 2U
@@ -134,9 +138,9 @@ Nota: ¹ Spiegazione di **जहि** cfr. Thumb-Hauschild I,2 pag. 253
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **1. Person**[[br]]तृतीयः | स्तवानि[[br]](sto + āni) | स्तवाम | स्तवै | स्तवामहै |
-| **2. Person**[[br]]मध्यमः | स्तुहि[[br]]स्तुवीहि | स्तुत[[br]]स्तुवीत | स्तुष्व[[br]]स्तुवीष्व | स्तुध्वम्[[br]]स्तुवीध्वम् |
-| **3. Person**[[br]]प्रथमः | स्तौतु[[br]]स्तवीतु | स्तुवन्तु | स्तुताम्[[br]]स्तुवीताम् | स्तुवताम् |
+| **1. Persona**[[br]]तृतीयः | स्तवानि[[br]](sto + āni) | स्तवाम | स्तवै | स्तवामहै |
+| **2. Persona**[[br]]मध्यमः | स्तुहि[[br]]***स्तुवीहि*** | स्तुत[[br]]***स्तुवीत*** | स्तुष्व[[br]]***स्तुवीष्व*** | स्तुध्वम्[[br]]***स्तुवीध्वम्*** |
+| **3. Persona**[[br]]प्रथमः | स्तौतु[[br]]***स्तवीतु*** | स्तुवन्तु | स्तुताम्[[br]]***स्तुवीताम्*** | स्तुवताम् |
 :::
 
 अस् 2P
@@ -145,9 +149,9 @@ Nota: ¹ Spiegazione di **जहि** cfr. Thumb-Hauschild I,2 pag. 253
 | | परस्मैपदम् ||
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
-| **1. Person**[[br]]तृतीयः | असानि | असाम |
-| **2. Person**[[br]]मध्यमः | एधि[[br]](da: \*s-dhi) | स्त |
-| **3. Person**[[br]]प्रथमः | अस्तु | सन्तु |
+| **1. Persona**[[br]]तृतीयः | असानि | असाम |
+| **2. Persona**[[br]]मध्यमः | ***एधि***[[br]](da: \*s-dhi) | स्त |
+| **3. Persona**[[br]]प्रथमः | अस्तु | सन्तु |
 :::
 
 शास् 2P
@@ -156,10 +160,10 @@ Nota: ¹ Spiegazione di **जहि** cfr. Thumb-Hauschild I,2 pag. 253
 | | परस्मैपदम् ||
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
-| **1. Person**[[br]]तृतीयः | शासानि | शासाम |
 
-| **2. Persona**[[br]]मध्यमः | शाधि[[br]](da: śās + dhi)[[br]]irregolare grado supremo | शिष्ट |
-| **3. Persona**[[br]]प्रथमः | शास्तु | शासतु[[br]]irregolare grado supremo |
+| **1. Persona**[[br]]तृतीयः | शासानि | शासाम |
+| **2. Persona**[[br]]मध्यमः | ***शाधि***[[br]](da: śās + dhi)[[br]]irreg. grado supremo | शिष्ट |
+| **3. Persona**[[br]]प्रथमः | शास्तु | ***शासतु***[[br]]irreg. grado supremo |
 :::
 
 ### 48.2.4. Terza classe del presente (जुहोत्यादि)
@@ -171,46 +175,46 @@ Nota: ¹ Spiegazione di **जहि** cfr. Thumb-Hauschild I,2 pag. 253
 हु 3P
 
 ::: grammar-box
-| | parasmaipada || ātmanepada ||
-| :---: | :---: | :---: | :---: |
-| | **singolare** | **plurale** | **singolare** | **plurale** |
-| **1. persona**[[br]]terza | juhavāni[[br]](ju-ho + āni) | juhavāma | &lt;juhavai&gt; | &lt;juhavāmahe&gt; |
-| **2. persona**[[br]]seconda | juhudhi[[br]]irregolare¹ | juhuta | &lt;juhuṣva&gt; | &lt;juhudhvam&gt; |
-| **3. persona**[[br]]prima | juhotu | juhvatu[[br]](ju-hu + atu) | &lt;juhutām&gt; | &lt;juhvātām&gt; |
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | जुहवानि[[br]](ju-ho + āni) | जुहवाम | &lt;जुहवै&gt; | &lt;जुहवामहै&gt; |
+| **2. Persona**[[br]]मध्यमः | जुहुधि[[br]]irregolare¹ | जुहुत | &lt;जुहुष्व&gt; | &lt;जुहुध्वम्&gt; |
+| **3. Persona**[[br]]प्रथमः | जुहोतु | जुह्वतु[[br]](ju-hu + atu) | &lt;जुहुताम्&gt; | &lt;जुह्वताम्&gt; |
 
-Nota: ¹ Dissimilazione, in modo da evitare la sequenza di due sillabe con **ह्**.
+Nota: ¹ Dissimilazione, in modo tale che non seguano due sillabe con **ह्**.
 :::
 
 धा 3U
 
 ::: grammar-box
-| | parasmaipada || ātmanepada ||
-| :---: | :---: | :---: | :---: |
-| | **singolare** | **plurale** | **singolare** | **plurale** |
-| **1. persona**[[br]]terza | dadhāni[[br]](da-dhā + āni) | dadhāma | dadhai[[br]](da-dhā + ai) | dadhāmahe |
-| **2. persona**[[br]]seconda | dhihi¹ | dhatta[[br]](da-dh + ta) | dhatsva | dhadhvam |
-| **3. persona**[[br]]prima | dadhātu | dadhatu[[br]](da-dh-atu) | dhātām | dadhatām |
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | दधानि[[br]](da-dhā + āni) | दधाम | दधै[[br]](da-dhā + ai) | दधामहै |
+| **2. Persona**[[br]]मध्यमः | धेहि¹ | धत्त[[br]](da-dh + ta) | धत्स्व | धद्ध्वम् |
+| **3. Persona**[[br]]प्रथमः | दधातु | दधतु[[br]](da-dh-atu) | धत्ताम् | दधताम् |
 
-Nota: ¹ **धेहि** derivato da \*dhazdhi: caduta della fricativa indoeuropea *z* con sostituzione allungativa; cfr. Thumb-Hauschild I,1 pag. 302.
+Nota: ¹ **धेहि** da \*dhazdhi: caduta della sibilante indoeuropea z con sostituzione allungata; cfr. Thumb-Hauschild I,1 pag. 302
 :::
 
 हा 3P
 
 ::: grammar-box
-| | parasmaipada ||
+| | परस्मैपदम् ||
 | :---: | :---: | :---: |
-| | **singolare** | **plurale** |
-| **1. persona**[[br]]terza | jahāni | jahāma |
-| **2. persona**[[br]]seconda | jahāhi[[br]]irreg. forte[[br]]st. base[[br]]jahīhi[[br]]jahihī | jahīta[[br]]jahita |
-| **3. persona**[[br]]prima | jahātu | jahatu[[br]](ja-h-atu) |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | जहानि | जहाम |
+| **2. Persona**[[br]]मध्यमः | ***जहाहि***[[br]]irreg. forte. St.[[br]]जहीहि[[br]]जहिहि | जहीत[[br]]जहित |
+| **3. Persona**[[br]]प्रथमः | जहातु | जहतु[[br]](ja-h-atu) |
 :::
 
 ## 48.3. Sulla formazione dei nomi: suffissi तद्धित -a e -ya
 
 ::: grammar-box
-Mediante il suffisso **-a** e (più raramente) **-ya** è possibile derivare un nome da un altro nome. In questo processo, la prima sillaba del nome originale assume la forma allungata della **vṛddhi** (**वृद्धि**). Se il tema della parola originale termina già in **-a**, la **वृद्धि** è l’unico segno della derivazione, poiché non vi sono cambiamenti alla desinenza tematica.
+Con il suffisso **-a** e (più raramente) **-ya** è possibile derivare un nome da un altro nome. In tal caso, la prima sillaba del nome originale assume il grado di allungamento (**वृद्धि**). Se il tema della parola originale termina già in **-a**, allora la **वृद्धि** è l'unico segno della derivazione, poiché non vi sono cambiamenti alla terminazione del tema.
 
-I nomi derivati assumono il significato:
+Le parole derivate hanno il significato:
 
 > "che ha qualche relazione con ciò che è designato dalla parola base"
 
@@ -219,7 +223,7 @@ ad esempio:
 *   "derivante da"
 *   "appartenente a"
 
-Le parole formate in questo modo sono aggettivi, ma possono essere sostantivizzate, ad esempio come patronimici (formazione di nomi basata sul padre: "figlio di N.N.") o astratti (generalmente neutri).
+Le parole formate in questo modo sono aggettivi, ma possono essere sostantivizzate, ad esempio come patronimici (formazione di nomi secondo il padre: "figlio di N.N.") o astratti (per lo più neutri).
 :::
 
 Esempi:
@@ -228,70 +232,72 @@ Esempi:
 | Parola base | Derivazione |
 | :--- | :--- |
 | **शुचि** 3 "lucente, puro" | **शौच** n. "purezza" |
-| **पुत्र** m. "figlio" | **पौत्र** m. "derivante dal figlio = nipote" |
+| **पुत्र** m. "figlio" | **पौत्र** m. "derivante dal figlio = nipote del figlio, pronipote" |
 | **गोतम** m. "possessore di molte vacche" nome proprio | **गौतम** m. "figlio di Gotama" |
-| **ब्रह्मन्** n. "verità formulata, Veda, Assoluto" | **ब्राह्मण** m. "formulatore di verità, brāhmaṇa" |
-| **शूर** 3 "eroico" | **शौर्य** n. "eroismo, coraggio" |
+| **ब्रह्मन्** n. "verità formulata, Veda, Assoluto" | **ब्राह्मण** m. "formulatore della verità, brāhmaṇa" |
+| **शूर** 3 "eroico" | **शौर्य** n. "eroicità, coraggio" |
 | **राजन्** m. "re" | **राज्य** n. "regno" |
 | **देव** m. "celeste, dio" | **दैव्य** 3 "celeste" |
 | **ग्राम** m. "villaggio" | **ग्राम्य** 3 "villaggio, rurale" |
 :::
 
 ::: grammar-box
-| **Trattamento della desinenza tematica prima del suffisso \-a:** ||
+| **Trattamento della terminazione del tema prima del suffisso \-a:** ||
 | :---: | :--- |
-| **\-ṛ** | **\-a** si aggiunge generalmente alla desinenza **\-r**:[[br]]ad es. **जेतृ** "vincitore" » **जैत्र** 3 "vincente" |
+| **\-ṛ** | **\-a** si unisce generalmente alla terminazione **\-r**:[[br]]ad esempio **जेतृ** "vincitore" » **जैत्र** 3 "vincente" |
 | **\-a** | Sostituzione del **\-a** della parola base con il nuovo suffisso **\-a**.[[br]]Vedi esempi sopra. |
-| **\-i** | Caduta del **\-i**[[br]]ad es. **प्रकृति** f. "natura" » **प्राकृत** 3 "naturale, normale, abituale, volgare" |
-| **\-u** | generalmente: **\-av-a**[[br]]ad es. **गुरु** 3 "pesante"; m. "maestro, insegnante" » **गौरव** 3 "appartenente al maestro, derivante dal maestro"; n. "peso, gravità, dignità" |
-| **altri temi declinazionali:** | vedi Wackernagel, Altind. Grammatik II,2 § 38 |
+| **\-i** | Caduta del **\-i**[[br]]ad esempio **प्रकृति** f. "natura" » **प्राकृत** 3 "naturale, normale, abituale, volgare" |
+| **\-u** | per lo più: **\-av-a**[[br]]ad esempio **गुरु** 3 "pesante"; m. "maestro, insegnante" » **गौरव** 3 "appartenente al maestro, derivante dal maestro"; n. "peso, gravità, dignità" |
+| **altri temi declinazionali:** | vedi Wackernagel, Grammatica dell'indico antico II,2 § 38 |
 
-Prima del suffisso **-ya**, la desinenza tematica viene trattata in modo simile a quanto avviene prima del suffisso **-a**.
+Prima del suffisso **-ya** la terminazione del tema viene trattata in modo simile a quanto avviene prima del suffisso **-a**.
 :::
 
 Vedi esempi sopra!
 
 ::: grammar-box
-**Mediante questi suffissi è possibile formare derivazioni anche da composti.**
+**Mediante questi suffissi è possibile formare anche derivazioni da composti.**
 
-ad es. **स्वश्व** m. "colui i cui cavalli sono buoni" nome proprio » **सौवश्व** m. "discendente di Svaśva"
+ad esempio **स्वश्व** m. "colui, i cui cavalli sono buoni" nome proprio » **सौवश्व** m. "discendente di Svaśva"
 
-**Nei composti in cui, a causa del sandhi, la desinenza -i o -u del primo membro viene sostituita da -y o -v e precede così la prima vocale della parola base (ad es. composti con ni-, vi-, su-), la वृद्धhi viene formata come se vi fossero -iy o -uv.**
+**Nei composti, in cui a causa del sandhi nel primo membro la -i o la -u finale viene sostituita da -y o -v e quindi precede la prima vocale della parola base (ad esempio composti con ni-, vi-, su-), la वृद्धि viene formata come se ci fossero -iy o -uv.**
 
-ad es. **व्याघ्र** m. "tigre" » **वैयाघ्र** 3 "derivante da una tigre, appartenente a una tigre"
+ad esempio **व्याघ्र** m. "tigre" » **वैयाघ्र** 3 "derivante da una tigre, appartenente a una tigre"
 :::
 
 ::: media
 ![](/images/lekt4801.jpg)
 Fig.: वैयाघ्रं विजृम्भणम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4801))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4801))
 :::
 
-## 48.4. Elenco lessicale
+## 48.4. Elenco di parole
 
 श्वस् : domani
 
 अद्य : oggi
 
-लघु 3: leggero (non pesante, non difficile), veloce, breve (nell’espressione)
+लघु 3: facile (non difficile, non complesso), veloce, breve (nell'espressione)
 
-व्याकरण n.: grammatica (da व्याकृ)
+व्याकरण n.: Grammatica (a व्याकृ)
 
-तन्त्र n.: corda ; telaio, ordito, tessuto ; fondamento, norma, regola ; dottrina, trattato ; Tantra ; formula magica ; mezzo, trucco, farmaco ; governo, autorità
+तन्त्र n.: Corda ; Telaio, ordito, tessuto ; Fondamento, norma, regola ; Dottrina, opera didattica ; Tantra ; Formula magica ; Mezzo, trucco, farmaco ; Governo, autorità
 
 ::: media
 ![](/images/lekt4802.jpg)
 Fig.: तन्त्रम्
-(Fonte dell’immagine: [Dettagli](/licenses#lekt4802))
+Sualkuchi = সুৱালকুচি, Assam = অসম
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4802))
 :::
 
 ::: media
 ![](/images/lekt4803.jpg)
 Fig.: तन्त्री
-(Fonte dell’immagine: [Dettagli](/licenses/lekt4803))
+Musicisti di sitar = सितारवादकः
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4803))
 :::
 
-स्त्री f.: donna, moglie ; femminile
+स्त्री f.: Donna, moglie ; Femminile
 
 Declinazione:
 
@@ -311,42 +317,46 @@ Declinazione:
 ::: media
 ![](/images/lekt4804.jpg)
 Fig.: स्वतन्त्राः स्त्रियः
-(Fonte dell’immagine: [Dettagli](/licenses/lekt4804))
+[Gruppo di auto-aiuto (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4804))
 :::
 
 दिवानिशम् Avverbio: di giorno e di notte
 
 सज्ज् 1P सज्जति : appendere, aderire
 
-कुमार m.: bambino, giovane, principe; appellativo di कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್मಣ्य
+कुमार m.: Bambino, giovane, principe; Epiteto di कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
 ![](/images/lekt4805.jpg)
 Fig.: कुमारः
-(Fonte dell’immagine: [Dettagli](/licenses/lekt4805))
+Festival Thaipusam = தைப்பூசம், Batu Caves, Malesia
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4805))
 :::
 
-कुमारी f.: ragazza, figlia
+कुमारी f.: Ragazza, figlia
 
 ::: media
 ![](/images/lekt4806.jpg)
 Fig.: कुमारी
-(Fonte dell’immagine: [Dettagli](/licenses/lekt4806))
+नेपाल
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4806))
 :::
 
-कौमर n.: infanzia
+कौमर n.: Infanzia
 
-यौवन n.: giovinezza
+यौवन n.: Giovinezza
 
-स्थविर 3: anziano, vecchio
+स्थविर 3: vecchio, anziano
 
 ::: media
 ![](/images/lekt4807.jpg)
 Fig.: स्थविराः
-(Fonte dell’immagine: [Dettagli](/licenses/lekt4807))
+जोधपुर
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4807))
 :::
 
-स्थाविर n.: (alto) età
+स्थाविर n.: (alto) Età
 
 वाच्य 3: anche: biasimevole
 
@@ -355,47 +365,49 @@ Fig.: स्थविराः
 ::: media
 ![](/images/lekt4808.jpg)
 Fig.: सूक्ष्मम्
-(Fonte dell’immagine: [Dettagli](/licenses/lekt4808))
+Lago Karanji = ಕಾರಂಜಿ ಕೆರೆ
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4808))
 :::
 
-प्रसङ्ग m.: attaccamento, inclinazione ; occasione
+प्रसङ्ग m.: Attaccamento, inclinazione ; Occasione
 
-विशेष m.: differenza, particolarità
+विशेष m.: Differenza, particolarità
 
-प्रसूति f.: nascita, discendenza
+प्रसूति f.: Nascita, discendenza
 
-चरित्र n.: uso, consuetudine, diritto consuetudinario ; condotta
+चरित्र n.: Uso, costume, diritto consuetudinario ; Comportamento
 
-जाया f.: moglie
+जाया f.: Moglie
 
 ::: media
 ![](/images/lekt4809.jpg)
 Fig.: मम जाया
-(Fonte dell’immagine: [Dettagli](/licenses/lekt4809))
+(Immagine: Payer)
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4809))
 :::
 
-## 48.5. Esercizi
+## 48.5. Esercizio
 
-A) Tradurre le সুভাষিতানি (subhāṣitāni) all’inizio della lezione.
+A) Tradurre lo सुभाषितानि all'inizio della lezione.
 
-B) Tradurre in sanscrito (utilizzando l’imperativo e, ove possibile, le radici della seconda e terza classe di presente):
+B) Tradurre in sanscrito (usando l'imperativo e preferibilmente radici della 2ª e 3ª classe di presente):
 
 1. Dopo aver avuto un figlio, lascia la famiglia!
 2. Discendenti di Puru, temete coloro che hanno fatto il male!
 3. Le ragazze devono dare cibo ai mendicanti.
-4. Noi vogliamo parlare.
-5. Con le parole "Vieni, monaco!", il Buddha accettò l’uomo nell’ordine monastico (उपसम्पद् upasampad, causativo).
+4. Vogliamo parlare.
+5. Con le parole "Vieni, monaco!", il Buddha accettò l'uomo nell'ordine monastico (उपसम्पद् causativo).
 6. Siate veri discendenti di Manu!
-7. Voglio lodare Śiva e gli altri dèi.
+7. Voglio lodare शिव e gli altri dèi.
 8. Racconta!
 9. Esplorate gli inferi!
 10. Essi (pl.) devono giacere su questi letti.
-11. Gli uomini simili alle tigri devono uccidere coloro che sono nemici di Indra.
+11. Gli uomini simili alle tigre devono uccidere coloro che sono nemici di Indra.
 12. Concentrati!
-13. Siediti qui!
-14. Noi vogliamo mangiare questi frutti.
-15. Il servo deve mungere la vacca.
-16. Re, proteggi il Dharma e il popolo.
+13. Sedetevi qui!
+14. Vogliamo mangiare questi frutti.
+15. Il servo deve mungere la mucca.
+16. Re, proteggi il dharma e il popolo.
 17. Insegna agli studenti il Veda!
 18. Egli deve indossare nuovi vestiti.
 19. Essi (pl.) devono sedersi nella mia casa.
@@ -413,7 +425,7 @@ B) Tradurre in sanscrito (utilizzando l’imperativo e, ove possibile, le radici
 काले ऽदाता पिता वाच्यो वाच्यश्चानुपनयन्पतिः ।  
 मृते भर्तरi पुत्रस्तु वाच्यो मातुररक्षिता ॥४॥  
 सूक्ष्मेभ्यो ऽपि प्रसङ्गेभ्यः स्त्रियो रक्ष्या विशेषतः ।  
-द्वयोर्हि कुलयोः शोकमावहेयुररक्षिताः ॥५॥  
+***द्वयोर्हि कुलयोः*** शोकमावहेयुररक्षिताः ॥५॥  
 इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम् ।  
 यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥६॥  
 स्वां प्रसूतिं चरित्रं च कुलमात्मानमेव च ।  
@@ -423,27 +435,25 @@ B) Tradurre in sanscrito (utilizzando l’imperativo e, ove possibile, le radici
 :::
 
 Spiegazione:  
-द्वयोर्हि कुलयोः : Genitivo (षष्ठी) Duale di द्वे कुले "due famiglie"
+द्वयोर्हि कुलयोः : Gen. (षष्ठी) Duale di द्वे कुले "due famiglie"
 
 ::: deleteme-box
 
-### Fonti
+**lekt4801:** [Fonte dell'immagine: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, share alike)]
 
-**lekt4801:** [Fonte dell'immagine: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, condividi allo stesso modo)]
+**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Fonte dell'immagine: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, share alike)]
 
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Fonte dell'immagine: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, condividi allo stesso modo)]
-
-**lekt4803:** Esecutore di sitar = सितारवादकः [Fonte dell'immagine: Wikipedia. Dominio pubblico]
+**lekt4803:** Musicisti di sitar = सितारवादकः [Fonte dell'immagine: Wikipedia. Dominio pubblico]
 
 **lekt4804:** [Gruppo di auto-aiuto (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Fonte dell'immagine: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribuzione, uso non commerciale)]
 
 **lekt4805:** Festival Thaipusam = தைப்பூசம், Batu Caves, Malesia [Fonte dell'immagine: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuzione)]
 
-**lekt4806:** नेपाल [Fonte dell'immagine: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
+**lekt4806:** नेपाल [Fonte dell'immagine: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna modifica)]
 
-**lekt4807:** जोधपुर [Fonte dell'immagine: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
+**lekt4807:** जोधपुर [Fonte dell'immagine: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna modifica)]
 
-**lekt4808:** Lago Karanji = ಕಾರಂಜಿ ಕೆರೆ [Fonte dell'immagine: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribuzione, condividi allo stesso modo)]
+**lekt4808:** Lago Karanji = ಕಾರಂಜಿ ಕೆರೆ [Fonte dell'immagine: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribuzione, share alike)]
 
 **lekt4809:** (Immagine: Payer)
 :::

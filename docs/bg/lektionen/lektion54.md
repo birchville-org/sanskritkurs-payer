@@ -1,101 +1,112 @@
+---
+title: Урок 54
+subtitle: "Предварителни бележки"
+lesson_id: 54
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 54
 
-# Lektion 54
+## 54.1. Предварителни бележки
 
-## 54.1. Vorbemerkung
+С лекция 54 в университетския курс започва вторият семестър. Отсега насетене курсът протича паралелно с основната тема на този семестър: четенето на целия Бхагавадгита. Целта на обучението е достигане на такава лекота при четене на средно труден текст, че в последната трета на семестъра да могат да бъдат превеждани от място на място големи части от Бхагавадгита. В началото в университетския курс се раздаваха списъци с думи, по-късно студентите трябваше сами да използват съответните речници (Моние-Уилямс, Апте, PW).
 
-Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters große Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen. &lt;!-- TODO: Fallback translation --&gt;
+Курсът по Бхагавадгита предварително няма да бъде предоставен онлайн.
 
-Der Kurs zur Bhagavadgītā wird vorläufig noch nicht online zur Verfügung gestellt. &lt;!-- TODO: Fallback translation --&gt;
+Лекциите на санскритския курс разглеждат теми от санскритската граматика, които все още не са били обсъждани.
 
-Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bisher noch nicht behandelt wurden. &lt;!-- TODO: Fallback translation --&gt;
+## 54.2. Словообразуване: कृत्-суфикс -u към десидативни основи
 
-## 54.2. Wortbildung: कृत्-Suffix -u an Desiderativstämme
+:::: grammar-box
+**Към десидативни основи (इच्छाप्रकृति) („да желаеш да направиш нещо“; „да си в процес на да направиш нещо“) за образуване на имена на деятеля се добавя суфиксът -u.**
 
-An Desiderativstämme (इच्छाप्रकृति) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u. &lt;!-- TODO: Fallback translation --&gt;
+(Образуването на десидативни основи следва по-късно)
 
-(Bildung der Desiderativstämme folgt später) &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
 ::: indent
-युयुत्सु (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen" &lt;!-- TODO: Fallback translation --&gt;
+युयुत्सु (yu-yudh + s + u) „стремещ се към битка, в процес на битка“
 :::
+::::
 
 ::: media
-![]/images/lekt5402.jpg
-Abb.: अयुयुत्सुरर्जुनः  
-भगवद्गीतोपदेशः  
-Tirupati = తిరుపతి  
-\[Bildquelle: Raji Srinivas / Wikipedia. GNU FDLicense\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5402.jpg)
+Ил.: अयुयुत्सुरर्जुनः
+भगवद्गीतोपदेशः Тирупати = తిరుపతి
+(Източник на изображението: [Подробности](/bg/licenses#lekt5402))
 :::
 
-## 54.3. Metrik II: die epische त्रिष्टुभ् und die जगती
+## 54.3. Метрика II: епическата त्रिष्टुभ् и जगती
 
-Die त्रिष्टुभ् ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen श्लोक-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren. &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+त्रिष्टुभ् („Три-въздишки“) се появява в епосите сред обикновените श्लोक части точно на места, където настроението или действието преживяват особено вдъхновение или завършек.
 
-Die त्रिष्टुभ्-Strophe besteht aus vier elfsilbigen पाद, die sich im Bau nicht voneinander unterscheiden. &lt;!-- TODO: Fallback translation --&gt;
+त्रिष्टुभ् куплетът се състои от четири единадесетсрични पाद, които не се различават един от друг по структура.
 
-Die त्रिष्टुभ् hat zwei Grundschemata, je nachdem, ob die Zäsur (Wortende, Kompositionsfuge oder vor bestimmten Suffixen wie -tara, -tama u.ä.) nach der 4. oder 5. Silbe des पाद steht. &lt;!-- TODO: Fallback translation --&gt;
+त्रिष्टुभ् има две основни схеми, в зависимост от това дали цезурата (край на думата, композиционна граница или пред определени суфикси като -tara, -tama и др.) следва след 4-та или 5-та сричка на पाद.
 
-Schema I: &lt;!-- TODO: Fallback translation --&gt;
+Схема I:
 
-::: indent
-̽ ˉ ̽ ˉ / ̽ ˘ˉˉ˘ˉˉ &lt;!-- TODO: Fallback translation --&gt;
+::: metrik-schema
+× — × — / × ◡ — ***— ◡ — —***
 :::
 
-Schema II: &lt;!-- TODO: Fallback translation --&gt;
+Схема II:
 
-::: indent
-̽ ˉ ̽ ˉ ̽  / ̽ ˘ˉ˘ˉˉ &lt;!-- TODO: Fallback translation --&gt;
+::: metrik-schema
+× — × — × / × ◡ ***— ◡ — —***
 :::
 
-Die Quantität der vier letzten Silben ist also in beiden Schemata gleich. &lt;!-- TODO: Fallback translation --&gt;
+Количеството на четирите последни срички е еднакво в двете схеми.
 
-जगती-Grundform: wie bei त्रिष्टुभ्, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten: &lt;!-- TODO: Fallback translation --&gt;
+जगती основна форма: както при त्रिष्टुभ्, но 12-срична. Последните 5 срички на всеки пада показват следните количества:
 
-::: indent
-ˉ˘ˉ˘ˉ &lt;!-- TODO: Fallback translation --&gt;
+::: metrik-schema
+***— ◡ — ◡ —***
 :::
 
-Daneben gibt es die sog. typisch überzählige त्रिष्टुभ् mit fünfsilbigem Anfangsglied, die weitergeht wie eine त्रिष्टुभ् mit viersilbigem Anfangsglied: &lt;!-- TODO: Fallback translation --&gt;
+Освен това има т.нар. типично излишна त्रिष्टुभ् с петсрично начално звено, която продължава като त्रिष्टुभ् с четирисрично начално звено:
 
-::: indent
-ˉ ̽ ˉ ̽  / ̽ ˘ˉˉ˘ˉˉ &lt;!-- TODO: Fallback translation --&gt;
+::: metrik-schema
+— × — × / × ◡ — ***— ◡ — —***
 :::
 
-In späterer Zeit werden die Formen der त्रिष्टुभ् festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind: &lt;!-- TODO: Fallback translation --&gt;
+В по-късен период формите на त्रिष्टुभ् са фиксирани според строга схема на дълги и кратки срички, цезурата вече няма значение. Най-важните по-късни форми са:
 
-a) इन्द्रवज्रा &lt;!-- TODO: Fallback translation --&gt;
+a) इन्द्रवज्रा
 
-::: indent
-ˉˉ˘ˉ,ˉ˘˘ˉ˘ˉˉ &lt;!-- TODO: Fallback translation --&gt;
+::: metrik-schema
+***—*** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 
-b) उपेन्द्रवज्रा &lt;!-- TODO: Fallback translation --&gt;
+b) उपेन्द्रवज्रा
 
-::: indent
-˘ˉ˘ˉ,ˉ˘˘ˉ˘ˉˉ &lt;!-- TODO: Fallback translation --&gt;
+::: metrik-schema
+***◡*** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 
-c) उपजाति &lt;!-- TODO: Fallback translation --&gt;
+c) उपजाति
 
 ::: indent
-पाद in इन्द्रवज्रा und पाद in उपेन्द्रवज्रा sind in eine Strophe gemischt. &lt;!-- TODO: Fallback translation --&gt;
+पाद в इन्द्रवज्रा и पाद в उपेन्द्रवज्रा са смесени в един куплет.
 :::
+::::
 
-Merkverse: &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+**Запомнителни стихове:**
 
-स्यादिन्द्रवज्रा यदि तौ जगौ गः ।
+**स्यादिन्द्रवज्रा यदि तौ जगौ गः ।**
 
 ::: indent
-"Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind. &lt;!-- TODO: Fallback translation --&gt;
+„Това е Индравайджа, ако сричките във всички пада са та та я га га.“
 :::
 
 उपेन्द्रवज्रा प्रथमे लघौ सा ।
 
 ::: indent
-"Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat" &lt;!-- TODO: Fallback translation --&gt;
+„Една Упендравайджя е като Индравайджя, която в началото има лека сричка“
 :::
 
 अनन्तरोदीरितलक्ष्मभाजौ  
@@ -104,134 +115,146 @@ Merkverse: &lt;!-- TODO: Fallback translation --&gt;
 वदन्ति जातिष्विदमिदमेवनाम ॥
 
 ::: indent
-"Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti." &lt;!-- TODO: Fallback translation --&gt;
+„Ако два пада, които имат характеристиките на Индравайджя или Упендравайджя, участват в един стих, тогава това са Упаджити. Дори когато други метри са смесени в един стих, това се нарича Упаджаити.“
+:::
+::::
+
+## 54.4. Упражнение по метрика
+
+Определете в Bhagavadgītā II Триштубхс и Джагатис.
+
+Пример за декламация: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Достъп на 2009-01-28
+
+## 54.5. Типове образуване на аориста (लुङ्)
+
+::: grammar-box
+**Общо за всички типове образуване на аориста (लुङ्) е авгентът a-, който се предпоставя по същите правила, както при имперфекта (लङ्).**
+
+От аориста в санскрит са употребителни само индикативът и прекативът.
 :::
 
-## 54.4. Упражнение zur Metrik
+::: grammar-box
+**Съществуват следните типове образуване на аориста (लुङ्):**
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs. &lt;!-- TODO: Fallback translation --&gt;
+1.  Несибилантни (асигматични) аористи: 
+    *   54.1. Коренови аористи: Авгент + корен + вторични окончания
+    *   54.2. Тематичногласников аорист: Авгент + корен + ***a*** + вторични окончания
+    *   54.3. Редуциран аорист: Авгент + ***редуциран*** корен + ***a*** + вторични окончания 
+2.  Сибилантни (сигматични аористи: s или сричка, съдържаща s (ṣ), предхожда личното окончание 
+    *   54.4. -s-аорист: Авгент + корен + ***s*** \+ вторични окончания
+    *   54.5. -iṣ-аорист: Авгент + корен + ***i*** + ***ṣ*** + вторични окончания
+    *   54.6. -siṣ-аорист: Авгент + корен + ***siṣ*** + вторични окончания
+    *   54.7. -sa-аорист: Авгент + корен + ***s*** + ***a*** + вторични окончания
 
-Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28 &lt;!-- TODO: Fallback translation --&gt;
+Разпределение на корените по отделните типове вижте при отделните типове
+:::
 
-## 54.5. Образованеstypen des Aorist (लुङ्)
+## 54.6. Коренов аорист
 
-Gemeinsam ist allen Bildungstypen des Aorist (लुङ्) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (लङ्) vorgesetzt wird. &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Образуване:**
 
-Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich. &lt;!-- TODO: Fallback translation --&gt;
+**Аугмент + Корен + Вторично окончание**
+:::
 
-Es gibt folgende Bildungstypen des Aorist (लुङ्): &lt;!-- TODO: Fallback translation --&gt;
+Окончанието за 3.lv. е -ur. Ātmanepada не е обичайно.
 
-1.  Nichtsibilantische (asigmatische) Aoriste:  &lt;!-- TODO: Fallback translation --&gt;
-    *   54.1. Коренaorist: Augment + Корен + Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
-    *   54.2. Themavokalischer Aorist: Augment + Корен + a + Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
-    *   54.3. Reduplizierter Aorist: Augment + reduplizierte Корен + a + Sekundärendung  &lt;!-- TODO: Fallback translation --&gt;
-2.  Sibilantische (sigmatische Aoriste: s oder eine Silbe, die s (ṣ) enthält tritt vor die Personalendung  &lt;!-- TODO: Fallback translation --&gt;
-    *   54.4. -s-Aorist: Augment + Корен + s \+ Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
-    *   54.5. -iṣ-Aorist: Augment + Корен + i + ṣ + Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
-    *   54.6. -siṣ-Aorist: Augment + Корен + siṣ + Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
-    *   54.7. -sa-Aorist: Augment + Корен + s + a + Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
-Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen Typen &lt;!-- TODO: Fallback translation --&gt;
-
-## 54.6. Коренaorist
-
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
-
-Augment + Wurzel + Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
-
-Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich. &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
-
-पा 1P "trinken" &lt;!-- TODO: Fallback translation --&gt;
+पा 1P „пия“
 
 ::: grammar-box
 |   | एकवचनम् | बहुवचनम् |
 | --- | --- | --- |
-| 1\. तृतीयः | अपाम् | |
-| a-pā + am | अपाम | | |
-| 2\. मध्यमः | अपास् | अपात |
-| 3\. प्रथमः | अपात् | अपुर् |
-| a-p-ur (Tiefstufe!) | | | |
+| 1. तृतीयः | अपाम्[[br]]a-pā + am | अपाम |
+| 2. मध्यमः | अपास् | अपात |
+| 3. प्रथमः | अपात् | अपुर्[[br]]a-p-ur (ниска степен!) |
 :::
 
-Nur von 12 Wurzeln wird der Wurzelaorist gebildet: &lt;!-- TODO: Fallback translation --&gt;
+Само от 12 корена се образува кореновият аорист:
 
-1.  गा 3 "gehen" &lt;!-- TODO: Fallback translation --&gt;
-2.  घ्रा 1P "riechen" &lt;!-- TODO: Fallback translation --&gt;
-3.  छो 6 "schneiden" (अच्छात्) &lt;!-- TODO: Fallback translation --&gt;
-4.  दा 3U "geben" &lt;!-- TODO: Fallback translation --&gt;
-5.  दो  1, 4 "schneiden" &lt;!-- TODO: Fallback translation --&gt;
-6.  धा 3U "setzen" &lt;!-- TODO: Fallback translation --&gt;
-7.  धे 1 "saugen" (अधात्) &lt;!-- TODO: Fallback translation --&gt;
-8.  पा 1P "trinken" &lt;!-- TODO: Fallback translation --&gt;
-9.  शो 4P "schärfen" &lt;!-- TODO: Fallback translation --&gt;
-10.  सो "beendigen" &lt;!-- TODO: Fallback translation --&gt;
-11.  स्था 1P "stehen" &lt;!-- TODO: Fallback translation --&gt;
-12.  भू 1P "sein &lt;!-- TODO: Fallback translation --&gt;
+1.  गा 3 „отивам“
+2.  घ्रा 1P „мириша“
+3.  छो 6 „режа“ (अच्छात्)
+4.  दा 3U „давам“
+5.  दो  1, 4 „режа“
+6.  धा 3U „поставям“
+7.  धे 1 „смуча“ (अधात्)
+8.  पा 1P „пия“
+9.  शो 4P „заточвам“
+10.  सो „завършвам“
+11.  स्था 1P „стою“
+12.  भू 1P „съм“
 
-Zu भू 1P wird der Wurzelaorist so gebildet: &lt;!-- TODO: Fallback translation --&gt;
+Към भू 1P кореновият аорист се образува така:
 
 ::: grammar-box
 |   | एकवचनम् | बहुवचनम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अभूवम् | अभूम |
 | 2\. मध्यमः | अभू्स् | अभूत |
-| 3\. प्रथमः | अभूत् | अभूवन् (!!!) |
+| 3\. प्रथमः | अभूत् | ***अभूवन्*** (!!!) |
 :::
 
-### 54.6.1. Der Aorist der 3.sg.Passiv
+### 54.6.1. Аористът на 3.ед.страдателен залог
 
-Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden. &lt;!-- TODO: Fallback translation --&gt;
+Специална форма на кореновия аорист е аористът на 3.ед.страдателен залог. Този може да бъде образуван от всички корени.
 
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Образуване:**
 
-Augment + Wurzel + i &lt;!-- TODO: Fallback translation --&gt;
+**Авгмент + корен + i**
 
-Die Wurzel hat folgende Gestalt: &lt;!-- TODO: Fallback translation --&gt;
+**Коренът има следната форма:**
 
-Hochstufe: &lt;!-- TODO: Fallback translation --&gt;
+Висока степен:
 
-*   Коренn mit kurzem Vokal (außer a) vor einfachem Konsonanten sowie जन् und die meisten Коренn auf -am   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiele:  
-    भिद् 7U: अभेदि "er wurde gespalten"  
-    तुद् 6U: अतोदि "er wurde gestoßen" &lt;!-- TODO: Fallback translation --&gt;
+*   Корени с кратък гласен (освен a) пред прост съгласен, както и जन् и повечето корени на -am  
+    Примери:  
+    भिद् 7U: अभेदि "той беше разцепен"  
+    तुद् 6U: अतोदि "той беше бутнат"
 
-Dehnstufe: &lt;!-- TODO: Fallback translation --&gt;
+Здънена степен:
 
-*   Коренn mit auslautendem Vokal   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiele:  
-    नी 1U: अनायि "er wurde geführt"  
-    स्तु 2U: अस्तावि "sie wurde gelobt"  
-    कृ 8U: अकारि "es wurde gemacht"   &lt;!-- TODO: Fallback translation --&gt;
+*   Корени с крайния гласен  
+    Примери:  
+    नी 1U: अनायि "той беше воден"  
+    स्तु 2U: अस्तावि "тя беше хвалена"  
+    कृ 8U: अकारि "то беше направено"  
+     
+    
+*   Корени с a пред прост съгласен (освен जन् и корени на -am)  
+    Пример:  
+    वद् 1P: अवादि "бе казано"  
+    но:  
+    जन् 4Ā: अजनि "тя беше родена"  
+     
 
-*   Коренn mit a vor einfachem Konsonanten (außer जन् und Коренn auf -am)   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiel:  
-    वद् 1P: अवादि "es wurde gesagt"  
-    aber:  
-    जन् 4Ā: अजनि "sie wurde geboren"   &lt;!-- TODO: Fallback translation --&gt;
+*   няколко корена на -am  
+    Пример:  
+    गम् अगामि
+    
 
-*   einige Коренn auf -am   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiel:  
-    गम् अगामि &lt;!-- TODO: Fallback translation --&gt;
+Вмъкване на y пред окончание:
 
-Einschub von y vor Endung: &lt;!-- TODO: Fallback translation --&gt;
+*   Корени на -ā, -e, -ai, -o вмъкват между -ā на корена и окончанието y:  
+    Пример:  
+    दा 3U: अदायि "бе дадено"
+    
 
-*   Коренn auf -ā, -e, -ai, -o schieben zwischen das -ā der Корен und die Окончание ein y ein:   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiel:  
-    दा 3U: अदायि "es wurde gegeben" &lt;!-- TODO: Fallback translation --&gt;
+Назален инфикс:
 
-Nasalinfix: &lt;!-- TODO: Fallback translation --&gt;
+*   няколко корени имат назален инфикс:  
+    Пример:  
+    लभ् 1Ā: अलम्भि до अलाभि : "бе приет"
+    
 
-*   einige Коренn haben ein Nasalinfix:   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiel:  
-    लभ् 1Ā: अलम्भि neben अलाभि : "es wurde empfangen" &lt;!-- TODO: Fallback translation --&gt;
-
-(Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben). &lt;!-- TODO: Fallback translation --&gt;
+(Останалите форми на страдателния залог в аориста се предават чрез форми на ātmanepada).
+:::
 
 ## 54.7. Упражнение
 
-Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen: &lt;!-- TODO: Fallback translation --&gt;
+Преводайте писмено следните форми и образувайте съответните форми на аориста:
 
 1.  यन्ति
 2.  पिबामि
@@ -253,23 +276,21 @@ Nasalinfix: &lt;!-- TODO: Fallback translation --&gt;
 18.  उद्यते
 19.  स्तूयते
 20.  कृष्यते
-21.  जायते (Pass.) &lt;!-- TODO: Fallback translation --&gt;
+21.  जायते (Страд.)
 22.  गीयते
 23.  गम्यते
 
 ::: media
-![]/images/lekt5401.jpg
-Abb.: त्रिचक्रेणेश्वरः स्तूयते  
-Tamil Nadu  
-\[Bildquelle: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Zugriff am 2009-01-28. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, shre alike)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5401.jpg)
+Ил.: त्रिचक्रेणेश्वरः स्तूयते
+Тамил Наду
+(Източник на изображението: [Подробности](/bg/licenses#lekt5401))
 :::
 
 ::: deleteme-box
 
-### Източници
+**lekt5402:** भगवद्गीतोपदेशः Тирупати = తిరుపతి [Източник на изображението: Raji Srinivas / Wikipedia. GNU FDLicense]
 
-**lekt5402:** भगवद्गीतोपदेशः Tirupati = తిరుపతి [Bildquelle: Raji Srinivas / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5401:** Tamil Nadu [Bildquelle: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Zugriff am 2009-01-28. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, shre alike)] <!-- TODO: Fallback translation -->
+**lekt5401:** Тамил Наду [Източник на изображението: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Достъп на 2009-01-28. -- [Creative Commons лиценз](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Приписване, некомърсиално използване, споделяне на споделеното)]
 
 :::

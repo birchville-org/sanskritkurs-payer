@@ -3,106 +3,106 @@ title: Lezione 9
 subtitle: "Samāhāradvandva e suffissi nominali -ka/-aka"
 lesson_id: 9
 category: "Grammatica"
-status: "stable"
+status: "stabile"
 last_reconstructed: 2026-05-07
 ---
 
-# Lektion 9
+# Lezione 9
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- Das Samāhāradvandva ("Zusammenfassungsdvandva") &lt;!-- TODO: Fallback translation --&gt;
-- Die Formazione von Nominalstämmen mit den Suffixen **-ka** (taddhita) und **-aka** (kṛt) &lt;!-- TODO: Fallback translation --&gt;
-- Wortschatz zum Thema Berufe und soziale Rollen &lt;!-- TODO: Fallback translation --&gt;
-- Zitate aus klassischen Gesetzestexten (Dharmaśāstras) &lt;!-- TODO: Fallback translation --&gt;
+**In questa lezione imparerete:**
+- Il Samāhāradvandva ("dvandva di riassunto")
+- La formazione di stemmi nominali con i suffissi **-ka** (taddhita) e **-aka** (kṛt)
+- Vocabolario relativo a professioni e ruoli sociali
+- Citazioni da testi classici del Dharma (Dharmaśāstras)
 :::
 
 ---
 
-## 9.1. Samāhāradvandva (समाहारद्वन्द्व = "Zusammenfassungsdvandva")
+## 9.1. Samāhāradvandva (समाहारद्वन्द्व = "Riepilogo dvandva")
 
 ::: grammar-box
-**Quando un Dvandva intende esprimere che una serie di cose, ecc., formano un'unica entità, esso è generalmente al singolare neutro:**
+**Quando un dvandva esprime che una serie di cose, ecc., formano un'unità, esso è generalmente al singolare neutro:**
 
-ad es. **āhāra-nidrā-maithuna-bhayam** = आहारनिद्रामैथुनभयम् non significa semplicemente "assunzione di cibo (**āhāra** m.), sonno (**nidrā** f.), accoppiamento (**maithuna** n.) e paura (**bhaya** n.)", ma queste quattro come **unità** che caratterizza la vita animale.
+ad es. **āhāra-nidrā-maithuna-bhayam** = आहारनिद्रामैथुनभयम् non significa semplicemente "assunzione di cibo (**āhāra** m.), sonno (**nidrā** f.), accoppiamento (**maithuna** n.) e paura (**bhaya** n.)", ma queste quattro come **unità**, che caratterizza la vita animale.
 :::
 
-Oltre a questa regola fondamentale per la formazione dei Samāhāradvandvas, esistono una serie di altre regole che si possono trovare in Pāṇini 2,4,2-17 o, ad esempio, in Mr. R. Kale, *A higher Sanskrit grammar*, ristampa 1969, §§ 189 - 192a. Nelle varie fasi dello sviluppo linguistico non sono state sempre rispettate le stesse regole!
+Oltre a questa regola fondamentale per la formazione dei Samāhāradvandvas, vi sono altre regole che si trovano in Pāṇini 2,4,2-17 o ad es. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. Nei vari stadi dello sviluppo linguistico non sono state sempre rispettate le stesse regole!
 
 ---
 
-## 9.2. Zur Formazione von Nominalstämmen
+## 9.2. Sulla formazione dei temi nominali
 
 ---
 
 ### 9.2.1. -ka (taddhita)
 
 ::: grammar-box
-**Il suffisso taddhita -ka forma, tra l'altro:**
+**Il suffisso taddhita -ka forma tra l'altro:**
 
 1\. **Diminutivi (forme di diminuzione come il tedesco -chen, -lein, -li, -le):**
-   **putra m. "figlio" » putraka m. पुत्रक "piccolo figlio"**
+   **putra m. "figlio" » putraka m. पुत्रक "figliolo"**
 
 2\. **Nomi che indicano una somiglianza approssimativa:**
-   **aśva m. "cavallo" » aśvaka m. अश्वक "piccolo cavallo, una cosa simile al cavallo"**
+   **aśva m. "cavallo" » aśvaka m. अश्वक "piccolo cavallo, una cosa simile a un cavallo"**
 
 3\. **Nomi senza differenza di significato rispetto al nome sottostante:**
    **putraka m. पुत्रक = putra m. पुत्र**
 
-4\. **Nomi che esprimono "in relazione al concetto della parola base":**
+4\. **Nomi che esprimono "in relazione con il concetto della parola base":**
    **kāśi f. "Benares" » kāśika 3 काशिक "nativo di Benares, originario di Benares"**
    **rūpa n. "forma" » rūpaka 3 रूपक "che possiede la forma di qualcosa"**
 :::
 
 ---
 
-### 9.2.2. -aka (kṛt), fem. oft -ikā
+### 9.2.2. -aka (kṛt), fem. spesso -ikā
 
 ::: grammar-box
-**Das kṛt-Suffix -aka, Femininum oft -ikā, bildet Nomina agentis (Nomina, die den Täter ausdrücken) zu jeder Wurzel.** &lt;!-- TODO: Fallback translation --&gt;
+**Il suffisso kṛt -aka, con femminile spesso -ikā, forma nomi agentivi (nomi che esprimono l'agente) da ogni radice.**
 
-Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel werden durch ihre Dehnstufe (**vṛddhi**) ersetzt (es gibt einige Ausnahmen), die übrigen Vokale werden durch ihre Hochstufe (**guṇa**) ersetzt. &lt;!-- TODO: Fallback translation --&gt;
+Una vocale finale della radice, nonché **-a-** nella penultima posizione della radice, vengono sostituite dal loro grado allungato (**vṛddhi**) (vi sono alcune eccezioni), le altre vocali vengono sostituite dal loro grado rafforzato (**guṇa**).
 :::
 
-**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
+**Esempi:**
 
-| Radice[[br]]धातु | + -aka / -ikā (kṛt) | Bedeutung |
+| Radice[[br]]धातु | + -aka / -ikā (kṛt) | Significato |
 | :--- | :--- | :--- |
-| **kṛ**[[br]]8 U[[br]]कृ[[br]]"machen" | **kāraka**[[br]](कारक) | "Bewirker, machend" |
-| **śru**[[br]]5 P[[br]]श्रु[[br]]"hören" | **śrāvaka** m.[[br]](श्रावक) | "Hörer, Schüler,[[br]]buddh.: Anhänger des Buddha" |
-| **nī**[[br]]1 U[[br]]नी[[br]]"führen" | **nāyaka** m.[[br]](नायक) /[[br]]**nāyikā** f.[[br]](नायिका) | "Führer, Gebieter, Gatte,[[br]]Liebhaber / Geliebte, Dame" |
-| **yaj**[[br]]1 U[[br]]यज्[[br]]"opfern" | **yājaka** m.[[br]](याजक) | "Opferer, Opferpriester" |
-| **nṛt**[[br]]4 P[[br]]नृत्[[br]]"tanzen" | **nartaka** m.[[br]](नर्तक) /[[br]]**nartakī** f.[[br]](नर्तकी) | "Tänzer / Tänzerin" |
-| **ji**[[br]]1 P[[br]]जि[[br]]"siegen" | **jayaka** 3[[br]](जयक) | "siegreich" |
+| **kṛ**[[br]]8 U[[br]]कृ[[br]]"fare" | **kāraka**[[br]](कारक) | "Becchettatore, facente" |
+| **śru**[[br]]5 P[[br]]श्रु[[br]]"sentire" | **śrāvaka** m.[[br]](श्रावक) | "Ascoltatore, discepolo,[[br]]buddh.: seguace del Buddha" |
+| **nī**[[br]]1 U[[br]]नी[[br]]"guidare" | **nāyaka** m.[[br]](नायक) /[[br]]**nāyikā** f.[[br]](नायिका) | "Guida, signore, marito,[[br]]amante / amata, dama" |
+| **yaj**[[br]]1 U[[br]]यज्[[br]]"sacrificare" | **yājaka** m.[[br]](याजक) | "Sacrificatore, sacerdote sacrificale" |
+| **nṛt**[[br]]4 P[[br]]नृत्[[br]]"ballare" | **nartaka** m.[[br]](नर्तक) /[[br]]**nartakī** f.[[br]](नर्तकी) | "Ballatore / Ballerina" |
+| **ji**[[br]]1 P[[br]]जि[[br]]"vincere" | **jayaka** 3[[br]](जयक) | "vincente" |
 
 ::: grammar-box
-**Einige dieser Bildungen haben die engere Bedeutung: "das durch die Wurzel ausgedrückte gewohnheitsmäßig oder als Obliegenheit oder gut vollziehend".** &lt;!-- TODO: Fallback translation --&gt;
+**Alcune di queste formazioni hanno il significato più ristretto: "colui che compie abitualmente o come obbligo o bene ciò espresso dalla radice".**
 :::
 
-siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka** &lt;!-- TODO: Fallback translation --&gt;
+vedere sopra ad es. **śrāvaka**, **yājaka**, **jayaka**
 
-**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
+**Esempi:**
 
-| Radice[[br]]धातु | + -aka (kṛt) | Bedeutung |
+| Radice[[br]]धातु | + -aka (kṛt) | Significato |
 | :--- | :--- | :--- |
-| **kṛṣ**[[br]]6 U[[br]]कृष्[[br]]"pflügen" | **kṛṣaka** m.[[br]](कृषक) | "Ackerbauer"[[br]](tiefstufig!) |
-| **kliś**[[br]]9 P[[br]]क्लिशु[[br]]"quälen" | **kleśaka** m.[[br]](क्लेशक) | "Quäler" |
-| **khād**[[br]]1 P[[br]]खाद्[[br]]"kauen, essen" | **khādaka** m.[[br]](खादक) | "Esser, Fresser" |
+| **kṛṣ**[[br]]6 U[[br]]कृष्[[br]]"arare" | **kṛṣaka** m.[[br]](कृषक) | "Agricoltore"[[br]](grado ridotto!) |
+| **kliś**[[br]]9 P[[br]]क्लिशु[[br]]"tormentare" | **kleśaka** m.[[br]](क्लेशक) | "Torturatore" |
+| **khād**[[br]]1 P[[br]]खाद्[[br]]"masticare, mangiare" | **khādaka** m.[[br]](खादक) | "Mangiatore, divoratore" |
 
-Daneben gibt es noch einige weniger wichtige Verwendungen des Suffixes **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff. &lt;!-- TODO: Fallback translation --&gt;
+Inoltre vi sono alcuni usi meno importanti del suffisso **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff.
 
 ---
 
-## 9.3. Lessico
+## 9.3. Elenco di parole
 
-**Imparare le seguenti parole:**
+**Impara le seguenti parole:**
 
-- **adhyayana** n. (अध्ययन) : Studio, in particolare lo studio dei Veda
+- **adhyayana** n. (अध्ययन) : Studio, in particolare studio dei Veda
 
 ::: media
 ![](/images/lekt0903.jpg)
 Fig.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram presso Madurai.
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0903))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0903))
 :::
 
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : Artigiano
@@ -110,21 +110,21 @@ Fig.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparanku
 ::: media
 ![](/images/lekt0902.jpg)
 Fig.: **kāru** = कारु, Gujarat.
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0902))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0902))
 :::
 
-- **kuśīlava** m. (कुशीलव) : (itinerante) intrattenitore, attore, cantore
+- **kuśīlava** m. (कुशीलव) : (itinerante) Spettacolista, attore, cantante
 - **kusīda** n. (कुसीद) : Usura
 - **kṛṣ** 1 P (karṣati) कृष् कर्षति : tirare
 - **kṛṣ** 6 U (kṛṣati) कृष् कृषति : arare
   - da ciò: **kṛṣi** f. / **kṛṣikā** f. (कृषि / कृषिका) : Agricoltura
 - **dāna** n. (दान) : Dare, dono, generosità
-- **pratigraha** m. (प्रतिग्रह) : Ricevere, regalo
+- **pratigraha** m. (प्रतिग्रह) : Ricevere, dono
 - **pravacana** n. (प्रवचन) : Discorso, insegnamento (orale)
-- **pāśupālya** n. (पाशुपाल्य) : Allevamento del bestiame
+- **pāśupālya** n. (पाशुपाल्य) : Allevamento di bestiame
 - a **yaj** 1 U:
   - **ijyā** f. (इज्या) : Sacrificio (da \*yj » ij + suffisso **yā**)
-  - **yajana** n. (यजन) : Sacrificio commissionato da un'altra persona
+  - **yajana** n. (यजन) : Sacrificio commissionato da qualcun altro
 - **rūpa** n. (रूप) : Aspetto, forma, bella forma, natura, essenza
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (वाणिज्य / वाणिज्या / वणिज्या) : Commercio
 - **śuśrūṣā** f. (शुश्रूषा) : Obbedienza, servizio obbediente
@@ -133,7 +133,7 @@ Fig.: **kāru** = कारु, Gujarat.
 
 ## 9.4. Esercizio
 
-**A) Si cerchi di determinare i possibili significati delle seguenti parole:**
+**A) Cercate di determinare i possibili significati delle seguenti parole:**
 1\. **brāhmāṇaka** ब्राह्मणक
 2\. **mati** मति
 3\. **śravaṇa** श्रवण
@@ -145,7 +145,7 @@ Fig.: **kāru** = कारु, Gujarat.
 ::: media
 ![](/images/lekt0901.jpg)
 Fig.: **karṣaka** = कर्षक.
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0901))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0901))
 :::
 
 8\. kleśa (क्लेश)
@@ -164,31 +164,31 @@ Fig.: **karṣaka** = कर्षक.
 
 **B) Tradurre:**
 
-1. Compiti di tutti i due volte nati:
+1. Doveri di tutti i due volte nati:
    **ijyādhyayanadānāni**
    इज्याध्ययनदानानि
    (Yājñavalkyadharmaśāstra I, 118)
 
-2. Compiti specifici di un Brahmano:
+2. Doveri specifici di un Brahmano:
    **pravacanayājanapratigrahāḥ**
    प्रवचनयाजनप्रतिग्रहाः
    (Gautamadharmasūtra X, 2)
 
-3. Compiti specifici di un Kṣatriya:
+3. Doveri specifici di un Kṣatriya:
    **rakṣaṇaṃ sarvabhūtānām**
    रक्षणं सर्वभूतानाम्
-   (sarvabhūtānām = Genitivo (caso fondamentale): "di tutti gli esseri"; Gautamadharmasūtra X, 7)
+   (sarvabhūtānām = Genitivo (caso possessivo): "di tutti gli esseri"; Gautamadharmasūtra X, 7)
 
-4. Compiti specifici di un Vaiśya:
+4. Doveri specifici di un Vaiśya:
    **kṛṣivāṇijyapāśupālyakusīdam**
    कृषिवाणिज्यपाशुपाल्यकुसीदम्
    (secondo Gautamadharmasūtra X, 49)
 
-5. Compiti di un Śūdra:
+5. Doveri di un Śūdra:
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
    द्विजातीनां शुश्रूषा वार्त्ता कारुकुशीलवकर्म च
    (secondo Kauṭilīya-Arthaśāstra 1.3.8.)
-   Spiegazione: dvijātīnām = Genitivo (caso fondamentale) plurale di dvijāti (tradurre qui: "nei confronti dei due volte nati"); kārukuśīlavakarma è un Tatpuruṣa con un Dvandva (kārukuśīlava) nel primo membro. karma = Nominativo singolare di karman n. "azione, attività, karma" dalla radice kṛ 8 U). Tradurre "azione / attività dei ... (genitivo)" (indicati dal Dvandva).
+   Spiegazione: dvijātīnām = Genitivo (caso possessivo) Plurale di dvijāti (tradurre qui: "nei confronti dei due volte nati"); kārukuśīlavakarma è un Tatpuruṣa con un Dvandva (kārukuśīlava) nel primo membro. karma = Nom. sg. di karman n. "azione, attività, karma" dalla radice kṛ 8 U). Tradurre "azione / attività dei ... (Genitivo)" (indicati dal Dvandva).
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    कृषिः पाशुपाल्यं वाणिज्या च वार्त्ता |

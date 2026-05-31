@@ -227,7 +227,8 @@ Example:
 ::: media
 ![](/images/lekt3502.jpg)
 Fig.: क्रामन्ति
-(Image source: [Details](/licenses#lekt3502))
+People walking, Senegal.
+(Image source: [Details](/en/licenses#lekt3502))
 :::
 
 **गै** 1P **गायति** (gai + a-ti): to sing, to recite in a singing tone, to proclaim in verse
@@ -246,7 +247,8 @@ derived from:
 ::: media
 ![](/images/lekt3501.jpg)
 Fig.: जगुः
-(Image source: [Details](/licenses#lekt3501))
+Temple musicians, Kaadu Malleswara Temple, Bangalore.
+(Image source: [Details](/en/licenses#lekt3501))
 :::
 
 ## 35.5. Exercise
@@ -285,7 +287,8 @@ A) Form the corresponding perfect forms for the following verb forms:
     ::: media
     ![](/images/lekt3503.jpg)
     Fig.: मिमति
-    (Image source: [Details](/licenses#lekt3503))
+Market in Vadaseri, Tamil Nadu.
+    (Image source: [Details](/en/licenses#lekt3503))
     :::
 30. अपद्यत
 31. सुनोति
@@ -311,7 +314,8 @@ B) Translate:
 ::: media
 ![](/images/lekt3504.jpg)
 Fig.: ... ब्राह्मणाश्चेजुः
-(Image source: [Details](/licenses#lekt3504))
+Yajña ceremony, Shiva Ashram, Ganeshpuri.
+(Image source: [Details](/en/licenses#lekt3504))
 :::
 
 अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥
@@ -320,7 +324,6 @@ C) Transform the sentences from Exercise B) by replacing perfect forms with impe
 
 ::: deleteme-box
 
-### Sources
 
 **lekt3501:** Temple musicians, Kaadu Malleswara Temple, Bangalore. [Image source: Samuelraj / Flickr. CC BY-NC]
 

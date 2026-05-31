@@ -1,250 +1,255 @@
 ---
+title: Урок 3
+subtitle: "Единствено число, именителен падеж на женски род"
 lesson_id: 3
 last_reconstructed: 2026-05-07
---- &lt;!-- TODO: Fallback translation --&gt;
+category: "Граматика"
+status: stable
+---
 
-# Lektion 3
+# Урок 3
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- den Номинатив Единствено число des Женски родs &lt;!-- TODO: Fallback translation --&gt;
-- den Номинатив Множествено число des Мъжки родs und Женски родs &lt;!-- TODO: Fallback translation --&gt;
-- die Образоване des Женски родs zu Maskulina &lt;!-- TODO: Fallback translation --&gt;
-- Vokalsandhi &lt;!-- TODO: Fallback translation --&gt;
-- Satzsandhi von -ās &lt;!-- TODO: Fallback translation --&gt;
+**В този урок ще научите:**
+- единствено число от падежа именителен за женски род
+- множествено число от падежа именителен за мъжки и женски род
+- образуването на женски род от мъжки род
+- вокален сандхи
+- Сандхи на изречението при -ās
 :::
 
-## 3.1. Номинатив Единствено число des Женски родs
+## 3.1. Единствено число на женски род в именителен падеж
 
-### 3.1.1. Номинатив Единствено число auf -s
+### 3.1.1. Единствено число на именителен падеж с окончание -s
 
-Auch folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**: <!-- TODO: Fallback translation -->
+Следните съществителни корени, които завършват на гласна, също образуват единствено число на именителен падеж с окончание **-s**:
 
 ::: grammar-box
-- **Feminina auf -i**: z.B. **śruti** f. "das Hören" -- Nom. sg.: **śrutis** = श्रुतिस् <!-- TODO: Fallback translation -->
-- **Feminina auf -u**: z.B. **dhenu** f. "Milchkuh" -- Nom. sg.: **dhenus** = धेनुस् <!-- TODO: Fallback translation -->
+- **Женски род на -i**: напр. **śruti** ж. "слушане" -- Ед. им. п.: **śrutis** = श्रुतिस्
+- **Женски род на -u**: напр. **dhenu** ж. "крава" -- Ед. им. п.: **dhenus** = धेनुस्
 :::
 
-### 3.1.2. Номинатив Единствено число ohne Окончание
+### 3.1.2. Единствено число на именителен падеж без окончание
 
-Den Nominativ Singular bilden ohne Endung: <!-- TODO: Fallback translation -->
+Единственото число на именителен падеж без окончание се образува от:
 
 ::: grammar-box
-- **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = देवता <!-- TODO: Fallback translation -->
-- **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = देवी <!-- TODO: Fallback translation -->
+- **Женски род на -ā**: напр. **devatā** ж. "божество" -- Имен. ед.: **devatā** = देवता
+- **Женски род на -ī**: напр. **devī** ж. "богиня" -- Имен. ед.: **devī** = देवी
 :::
 
 ::: important
-**Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = धीस्. Auch lakṣmī (लक्ष्मी) f., tarī (तरी) f. "Boot" und tantrī (तन्त्री) f. "Saite" bilden unregelmäßig den Nominativ Singular auf -s: lakṣmīs = लक्ष्मीस्. <!-- TODO: Fallback translation -->
+**Внимание!** Освен това съществуват едносложни женски коренови съществителни на -ī, чийто единствен падеж на именителен падеж завършва на -s: напр. dhī ж. "мисъл" -- Имен. ед.: dhīs = धीस्. Също така lakṣmī (लक्ष्मी) ж., tarī (तरी) ж. "лодка" и tantrī (तन्त्री) ж. "струна" образуват неправилно единствено число на именителен падеж на -s: lakṣmīs = लक्ष्मीस्.
 :::
 
 ---
 
-## 3.2. Образоване der Feminina zu Maskulina
+## 3.2. Образуване на женски род от мъжки род
 
 ::: grammar-box
-**Maskulina auf -a:** &lt;!-- TODO: Fallback translation --&gt;
-- **Женски род auf -ā**: z.B. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriyafrau" = क्षत्रिया &lt;!-- TODO: Fallback translation --&gt;
-- **Женски род auf -ī**: z.B. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ब्राह्मणी &lt;!-- TODO: Fallback translation --&gt;
+**Мъжки род на -a:**
+- **Женски род на -ā**: напр. **kṣatriya** м. » **kᣀatriyā** ж. „Кшатрийска жена“ = क्षत्रिया
+- **Женски род на -ī**: напр. **brāhmaṇa** м. » **brāhmaṇī** ж. „Брахманка“ = ब्राह्मणी
 
-**Maskulina auf -u:** &lt;!-- TODO: Fallback translation --&gt;
-- **Женски род auf -ī**: z.B. **sādhu** m. » **sādhvī** f. (gut, Heilige) = साध्वी &lt;!-- TODO: Fallback translation --&gt;
-  (**-u-** wird vor Vokal zu **-v-**, daher **-u- + -ī** » **-vī**) &lt;!-- TODO: Fallback translation --&gt;
+**Мъжки род на -u:**
+- **Женски род на -ī**: напр. **sādhu** м. » **sādhvī** ж. (добър, светия) = साध्वी
+  (**-u-** става **-v-** пред гласна, следователно **-u- + -ī** » **-vī**)
 :::
 
 ---
 
-## 3.3. Номинатив Множествено число Мъжки род und Женски род
+## 3.3. Именителен падеж, множествено число, мъжки и женски род
 
 ::: grammar-box
-Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**. &lt;!-- TODO: Fallback translation --&gt;
-
-- **Maskulina auf -a**: **deva- + -as** » **devās** = देवास् &lt;!-- TODO: Fallback translation --&gt;
-- **Feminina auf -ā**: **devatā- + -as** » **devatās** = देवतास् &lt;!-- TODO: Fallback translation --&gt;
-- **Maskulina auf -i**: **kavi-** » **kave- + -as** » **kavayas** = कवयस् &lt;!-- TODO: Fallback translation --&gt;
-- **Feminina auf -i**: **śruti-** » **śrute- + -as** » **śrutayas** = श्रुतयस् &lt;!-- TODO: Fallback translation --&gt;
-- **Feminina auf -ī**: **devī- + -as** » **devyas** = देव्यस् &lt;!-- TODO: Fallback translation --&gt;
-- **Maskulina auf -u**: **guru-** » **guro- + -as** » **guravas** = गुरवस् &lt;!-- TODO: Fallback translation --&gt;
-- **Feminina auf -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस् &lt;!-- TODO: Fallback translation --&gt;
+С окончанието на именителен падеж, множествено число, в мъжки и женски род е **-as**.
+- **Мъжки род на -a**: **deva- + -as** » **devās** = देवास्
+- **Женски род на -ā**: **devatā- + -as** » **devatās** = देवतास्
+- **Мъжки род на -i**: **kavi-** » **kave- + -as** » **kavayas** = कवयस्
+- **Женски род на -i**: **śruti-** » **śrute- + -as** » **śrutayas** = श्रुतयस्
+- **Женски род на -ī**: **devī- + -as** » **devyas** = देव्यस्
+- **Мъжки род на -u**: **guru-** » **guro- + -as** » **guravas** = गुरवस्
+- **Женски род на -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्
 :::
 
-Anmerkung: **e** ist Hochstufe (**guṇa**) zu **i**, **o** ist Hochstufe zu **u**. &lt;!-- TODO: Fallback translation --&gt;
+Забележка: **e** е степен на повишаване (**guṇa**) на **i**, **o** е степен на повишаване на **u**.
 
 ---
 
-## 3.4. Vokalsandhi
+## 3.4. Вокален сандхи
 
 ::: grammar-box
-**Einfache Vokale, die sich nicht oder nur in ihrer Länge unterscheiden, "verschmelzen" zum entsprechenden langen Vokal:** &lt;!-- TODO: Fallback translation --&gt;
-- -a / -ā + a- / ā- » **-ā-** &lt;!-- TODO: Fallback translation --&gt;
-- -i / -ī + i- / ī- » **-ī-** &lt;!-- TODO: Fallback translation --&gt;
-- -u / -ū + u- / ū- » **-ū-** &lt;!-- TODO: Fallback translation --&gt;
-- (-ṛ + ṛ- » **-ṝ-**) &lt;!-- TODO: Fallback translation --&gt;
+**Прости гласни, които се различават единствено по дължина или изобщо не се различават, „сливат“ в съответната дълга гласна:**
+- -a / -ā + a- / ā- » **-ā-**
+- -i / -ī + i- / ī- » **-ī-**
+- -u / -ū + u- / ū- » **-ū-**
+- (-ṛ + ṛ- » **-ṝ-**)
 :::
 
-z.B. &lt;!-- TODO: Fallback translation --&gt;
+напр.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = देवतान्नपूर्णा &lt;!-- TODO: Fallback translation --&gt;
+devatā + annapūrṇā » devatānnapūrṇā „Аннапурна е богиня“ = देवतान्नपूर्णा
 
-> (Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.) &lt;!-- TODO: Fallback translation --&gt;
+> (Аннапурна е богинята на храната и готвенето; тя се счита за въплъщение на Парвати, съпругата на Шива.)
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = देवीन्द्राणी &lt;!-- TODO: Fallback translation --&gt;
+devī + indrāṇī » devīndrāṇī „Индрані е богиня“ = देवीन्द्राणी
 
-> (Indrāṇī ist die Gattin des Gottes Indra.) &lt;!-- TODO: Fallback translation --&gt;
+> (Индрані е съпругата на бога Индра.)
 
 ::: media
 ![](/images/lekt0301.jpg)
-Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80
-(Bildquelle: [Details](/licenses#lekt0301)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Индра и Индрани на слона Айравата, миниатюра, Раджастан, 1670/80 г.
+(Източник на изображението: [Подробности](/bg/licenses#lekt0301))
 :::
 
 ::: grammar-box
-**Einfache Vokale (außer -a / -ā) werden vor unähnlichen Vokalen durch den entsprechenden Halbvokal ersetzt:** &lt;!-- TODO: Fallback translation --&gt;
-- -i / -ī » **-y-** &lt;!-- TODO: Fallback translation --&gt;
-- -u / -ū » **-v-** &lt;!-- TODO: Fallback translation --&gt;
-- -ṛ » **-r-** &lt;!-- TODO: Fallback translation --&gt;
-(!! Zu dieser Regel gibt es insbesondere für Dualformen Ausnahmen !!) &lt;!-- TODO: Fallback translation --&gt;
+**Прости гласни (с изключение на -a / -ā) се заменят с відповідната полугласна пред различни гласни:**
+- -i / -ī » **-y-**
+- -u / -ū » **-v-**
+- -ṛ » **-r-**
+(!! За тази правилата съществуват изключения, особено за двойствено число !!)
 :::
 
-z.B. &lt;!-- TODO: Fallback translation --&gt;
+напр.
 
-devī + umā » devy umā "Umā ist eine / die Göttin" = देव्युमा &lt;!-- TODO: Fallback translation --&gt;
+devī + umā » devy umā „Ума е богиня“ = देव्युमा
 
-> (Umā ist ein Name für Pārvatī, die Gattin Śivas) &lt;!-- TODO: Fallback translation --&gt;
+> (Ума е име за Парвати, съпругата на Шива)
 
 ::: grammar-box
-**-a / -ā vor unähnlichem Vokal:** &lt;!-- TODO: Fallback translation --&gt;
-- -a / -ā + i- / ī- » **-e-** &lt;!-- TODO: Fallback translation --&gt;
-- -a / -ā + ṛ- » **-ar-** &lt;!-- TODO: Fallback translation --&gt;
-- -a / -ā + e- / ai- » **-ai-** &lt;!-- TODO: Fallback translation --&gt;
-- -a / -ā + o- / au- » **-au-** &lt;!-- TODO: Fallback translation --&gt;
+**-a / -ā пред различна гласна:**
+- -a / -ā + i- / ī- » **-e-**
+- -a / -ā + ṛ- » **-ar-**
+- -a / -ā + e- / ai- » **-ai-**
+- -a / -ā + o- / au- » **-au-**
 :::
 
-Für diesen Sandhi gilt also folgendes Schema: &lt;!-- TODO: Fallback translation --&gt;
+За този сандхи важи следната схема:
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Bildquelle: [Details](/licenses#lekt0302)) &lt;!-- TODO: Fallback translation --&gt;
+(Източник на изображението: [Подробности](/bg/licenses#lekt0302))
 :::
 
-Zu dieser sog. Stammabstufung siehe später! &lt;!-- TODO: Fallback translation --&gt;
+За т.нар. коренова степен (градуация) виж по-късно!
 
-z.B. &lt;!-- TODO: Fallback translation --&gt;
+напр.
 
-śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = शूद्रेतरा &lt;!-- TODO: Fallback translation --&gt;
+śūdrā + itarā » śudretarā „Итара е шудра“ = शूद्रेतरा
 
 ---
 
-## 3.5. Satzsandhi von -ās
+## 3.5. Сандхи на изречението при -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.** &lt;!-- TODO: Fallback translation --&gt;
+**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
 
-z.B. &lt;!-- TODO: Fallback translation --&gt;
+напр.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = द्विजा वैश्याः &lt;!-- TODO: Fallback translation --&gt;
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ „Вайшиите са двукратно родени“ = द्विजा वैश्याः
 
 ---
 
 ## 3.6. Речник
 
-**śruti** f. = श्रुति : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's). &lt;!-- TODO: Fallback translation --&gt;
+**Запознайте се със следните думи:**
 
-**smṛti** f. = स्मृति : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst: &lt;!-- TODO: Fallback translation --&gt;
-- die sechs **vedāṅga** n. (वेदाङ्ग) &lt;!-- TODO: Fallback translation --&gt;
-  1. **śikṣā** f. (शिक्षा): rechte Aussprache &lt;!-- TODO: Fallback translation --&gt;
-  2. **chandas** n. (छन्दस्): Metrum &lt;!-- TODO: Fallback translation --&gt;
-  3. **vyākaraṇa** n. (व्याकरण): Grammatik &lt;!-- TODO: Fallback translation --&gt;
-  4. **nirukta** n. (निरुक्त) : Worterklärung, Etymologie &lt;!-- TODO: Fallback translation --&gt;
-  5. **jyotiṣa** n. (ज्योतिष) : Astronomie, Kalenderlehre &lt;!-- TODO: Fallback translation --&gt;
-  6. **kalpa** m. (कल्प) : Zeremoniell &lt;!-- TODO: Fallback translation --&gt;
-- **śrautasūtra** n. (श्रौतसूत्र) : Lehrwerke für den Vollzug der großen Opfer &lt;!-- TODO: Fallback translation --&gt;
-- **gṛhyasūtra** n. (गृह्यसूत्र) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens &lt;!-- TODO: Fallback translation --&gt;
-- **dharmasūtra** n. (धर्मसूत्र) und **dharmaśāstra** n. (धर्मशास्त्र) : Lehrwerke zu Recht und Sitte (rechtes Verhalten) &lt;!-- TODO: Fallback translation --&gt;
-- die großen Epen **mahābhārata** n. (महाभारत) und **rāmāyaṇa** n. (रामायण) &lt;!-- TODO: Fallback translation --&gt;
-- die **purāṇa** n. (पुराण) &lt;!-- TODO: Fallback translation --&gt;
-- **nītiśāstra** n. (नीतिशास्त्र) : Lehrwerke der Lebensklugheit &lt;!-- TODO: Fallback translation --&gt;
+**śruti** ж.р. = श्रुति : слушането, вечното предаване (наименование за Ведите и Брахмани).
 
-**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke. &lt;!-- TODO: Fallback translation --&gt;
+**smṛti** ж.р. = स्मृति : присъственост, памет, медитативна присъственост = внимателност, предаване (противоположност на **śruti**). Включва:
+- шестте **vedāṅga** ср.р. (वेदाङ्ग)
+  1. **śikṣā** ж.р. (शिक्षा): правилно произношение
+  2. **chandas** ср.р. (छन्दस्): метър
+  3. **vyākaraṇa** ср.р. (व्याकरण): граматика
+  4. **nirukta** ср.р. (निरुक्त) : етимология, обяснение на думи
+  5. **jyotiṣa** ср.р. (ज्योतिष) : астрономия, календар
+  6. **kalpa** м.р. (कल्प) : церемониал
+- **śrautasūtra** ср.р. (श्रौतसूत्र) : учебници за извършване на големите жертвоприношения
+- **gṛhyasūtra** ср.р. (गृह्यसूत्र) : учебници за церемониите и жертвоприношенията на ежедневния живот
+- **dharmasūtra** ср.р. (धर्मसूत्र) и **dharmaśāstra** ср.р. (धर्मशास्त्र) : учебници за правото и обичая (правилно поведение)
+- големите епопеи **mahābhārata** ср.р. (महाभारत) и **rāmāyaṇa** ср.р. (रामायण)
+- **purāṇa** мн.ч. (पुराण)
+- **nītiśāstra** ср.р. (नीतिशास्त्र) : учебници за житейската мъдрост
 
-**dhenu** f. = धेनु : (Milch-)kuh. &lt;!-- TODO: Fallback translation --&gt;
+**smṛti** е особено и наименование за дхармически учебници.
 
-**paśu** m. = पशु : domestiziertes Nutztier, Vieh (Kollektivum). &lt;!-- TODO: Fallback translation --&gt;
+**dhenu** ж.р. = धेनु : (млечна) крава.
 
-**devatā** f. = देवता : Gottheit (abstrakt und konkret). &lt;!-- TODO: Fallback translation --&gt;
+**paśu** м.р. = पशु : одомашнено стопанско животно, добитък (колективно число).
 
-**brāhmaṇī** f. = ब्राह्मणी : Brahmanin. &lt;!-- TODO: Fallback translation --&gt;
+**devatā** ж.р. = देवता : божество (абстрактно и конкретно).
 
-**kṣatriyā** f. = क्षत्रिया : weibliche Kṣatriya. &lt;!-- TODO: Fallback translation --&gt;
+**brāhmaṇī** ж.р. = ब्राह्मणी : брахманка.
 
-**kṣatriyī** f. = क्षत्रियी : Frau eines Kṣatriya. &lt;!-- TODO: Fallback translation --&gt;
+**kṣatriyā** ж.р. = क्षत्रिया : женска кшатрийка.
 
-**vaiśyā** f. = वैश्या : weibliche Vaiśya. &lt;!-- TODO: Fallback translation --&gt;
+**kṣatriyī** ж.р. = क्षत्रियी : съпруга на кшатрий.
 
-**śūdrā** f. = शूद्रा : weibliche Śūdra. &lt;!-- TODO: Fallback translation --&gt;
+**vaiśyā** ж.р. = वैश्या : женска вайшя.
 
-**śūdrī** f. / **śūdrāṇī** f. = शूद्री शूद्राणी : Frau eines Śūdra. &lt;!-- TODO: Fallback translation --&gt;
+**śūdrā** ж.р. = शूद्रा : женска шудра.
 
-**devī** f. = देवी : Göttin, insbes. Durgā f. = दुर्गा, die Gattin Śiva's = शिव. &lt;!-- TODO: Fallback translation --&gt;
+**śūdrī** ж.р. / **śūdrāṇī** ж.р. = शूद्री शूद्राणी : съпруга на шудра.
+
+**devī** ж.р. = देवी : богиня, особено Дурга ж.р. = दुर्गा, съпругата на Шива = शिव.
 
 ::: media
 ![](/images/lekt0303.jpg)
-Abb.: Durgā = दुर्गा, Orissa
-(Bildquelle: [Details](/images/lekt0303)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Дурга = दुर्गा, Ориса
+(Източник на изображението: [Подробности](/images/lekt0303))
 :::
 
-**sādhvī** f. = साध्वी : fem. zu sādhu. &lt;!-- TODO: Fallback translation --&gt;
+**sādhvī** ж.р. = साध्वी : женски род на sādhu.
 
-**gurvī** f. = गुर्वी : fem. zu guru. &lt;!-- TODO: Fallback translation --&gt;
+**gurvī** ж.р. = गुर्वी : женски род на guru.
 
-**asmitā** f. = अस्मिता : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw. &lt;!-- TODO: Fallback translation --&gt;
+**asmitā** ж.р. = अस्मिता : "аз-същност", т.е. (грешното) вярване: **Аз** съм този, който вижда и т.н.
 
-**ānvīkṣikī** f. = आन्वीक्षिकी : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt). &lt;!-- TODO: Fallback translation --&gt;
+**ānvīkṣikī** ж.р. = आन्वीक्षिकी : философия (науката, която чрез логически коректни обосновки стига до своите заключения).
 
-**upekṣā** f. = उपेक्षा : Nichtbeachtung, Gleichmut. &lt;!-- TODO: Fallback translation --&gt;
+**upekṣā** ж.р. = उपेक्षा : неизразяване, безразличие.
 
-**karuṇā** f. = करुणा : Mitgefühl, Mitleid. &lt;!-- TODO: Fallback translation --&gt;
+**karuṇā** ж.р. = करुणा : състрадание, милосърдие.
 
-**muditā** f. = मुदिता : Freude, insbesondere Mitfreude (Gegensatz zu Neid). &lt;!-- TODO: Fallback translation --&gt;
+**muditā** ж.р. = मुदिता : радост, особено съучастие (противоположност на завист).
 
 ---
 
 ## 3.7. Упражнение
 
-**A) Setzen Sie folgende Sätze in den Plural:** &lt;!-- TODO: Fallback translation --&gt;
+**А) Преобразувайте следните изречения в множествено число:**
 
-1. dvijo brāhmaṇaḥ = द्विजो ब्राह्मणः &lt;!-- TODO: Fallback translation --&gt;
-2. dvijaḥ kṣatriyaḥ = द्विजः क्षत्रियः &lt;!-- TODO: Fallback translation --&gt;
-3. dvijo vaiśyaḥ = द्विजो वैश्यः &lt;!-- TODO: Fallback translation --&gt;
-4. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः &lt;!-- TODO: Fallback translation --&gt;
-5. sādhur guruḥ = साधुर्गुरुः &lt;!-- TODO: Fallback translation --&gt;
-6. guruḥ kaviḥ = गुरुः कविः &lt;!-- TODO: Fallback translation --&gt;
-7. sādhvī brāhmaṇī = साध्वी ब्राह्मणी &lt;!-- TODO: Fallback translation --&gt;
-8. devatā guruḥ = देवता गुरुः &lt;!-- TODO: Fallback translation --&gt;
-9. paśur dhenuḥ = पशुर्धेनुः &lt;!-- TODO: Fallback translation --&gt;
-10. gurvī sādhvī = गुर्वी साध्वी &lt;!-- TODO: Fallback translation --&gt;
+1. dvijo brāhmaṇaḥ = द्विजो ब्राह्मणः
+2. dvijaḥ kṣatriyaḥ = द्विजः क्षत्रियः
+3. dvijo vaiśyaḥ = द्विजो वैश्यः
+4. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
+5. sādhur guruḥ = साधुर्गुरुः
+6. guruḥ kaviḥ = गुरुः कविः
+7. sādhvī brāhmaṇī = साध्वी ब्राह्मणी
+8. devatā guruḥ = देवता गुरुः
+9. paśur dhenuḥ = पशुर्धेनुः
+10. gurvī sādhvī = गुर्वी साध्वी
 
-**B) Bilden Sie durch Einsetzen Nominalsätze:** &lt;!-- TODO: Fallback translation --&gt;
+**Б) Съставете именни изречения чрез попълване:**
 
-1. śrutis ... (veda) = श्रुतिस् ... वेद &lt;!-- TODO: Fallback translation --&gt;
-2. paśus ... (dhenu) = पशुस् ... धेनु &lt;!-- TODO: Fallback translation --&gt;
-3. devī ... (durgā, umā, indrāṇī) = देवी ... दुर्गा, उमा, इन्द्राणी &lt;!-- TODO: Fallback translation --&gt;
-4. devatā ... (mīnākṣī, annapūrṇā) = देवता ... मीनाक्षी, अन्नपूर्णा &lt;!-- TODO: Fallback translation --&gt;
-5. śūdrā ... (itarā) = शूद्रा ... इतरा &lt;!-- TODO: Fallback translation --&gt;
+1. śrutis ... (veda) = श्रुतिस् ... वेद
+2. paśus ... (dhenu) = पशुस् ... धेनु
+3. devī ... (durgā, umā, indrāṇī) = देवी ... दुर्गा, उमा, इन्द्राणी
+4. devatā ... (mīnākṣī, annapūrṇā) = देवता ... मीनाक्षी, अन्नपूर्णा
+5. śūdrā ... (itarā) = शूद्रा ... इतरा
 
-**C) Übertragen Sie ins Femininum:** &lt;!-- TODO: Fallback translation --&gt;
+**В) Преобразувайте в женски род:**
 
-1. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः &lt;!-- TODO: Fallback translation --&gt;
-2. sādhur guruḥ = साधुर्गुरुः &lt;!-- TODO: Fallback translation --&gt;
-3. kṣatriyaḥ sādhuḥ = क्षत्रियः साधुः &lt;!-- TODO: Fallback translation --&gt;
+1. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
+2. sādhur guruḥ = साधुर्गुरुः
+3. kṣatriyaḥ sādhuḥ = क्षत्रियः साधुः
 
-**D) Übersetzen Sie ins Sanskrit:** &lt;!-- TODO: Fallback translation --&gt;
+**Г) Преведете на санскрит:**
 
-1. Umā ist eine Göttin. &lt;!-- TODO: Fallback translation --&gt;
-2. Der Veda ist śruti. &lt;!-- TODO: Fallback translation --&gt;
-3. Die Lehrerinnen sind Göttinnen. &lt;!-- TODO: Fallback translation --&gt;
-4. Milchkühe sind domestizierte Tiere. &lt;!-- TODO: Fallback translation --&gt;
-5. Dichter sind Lehrer. &lt;!-- TODO: Fallback translation --&gt;
-6. Kṣatriyas sind Zweimalgeborene. &lt;!-- TODO: Fallback translation --&gt;
-7. Die heiligen Männer sind Śūdras. &lt;!-- TODO: Fallback translation --&gt;
+1. Ума е богиня.
+2. Ведата е шрути.
+3. Учителниците са богини.
+4. Млечните крави са одомашнени животни.
+5. Поетите са учители.
+6. Кшатриите са двапородени.
+7. Свещените мъже са шудри.

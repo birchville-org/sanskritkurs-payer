@@ -1,63 +1,68 @@
 ---
-title: Lektion 28
+title: Урок 28
 lesson_id: 28
 status: stable
-last_reconstructed: 2026-05-18
---- &lt;!-- TODO: Fallback translation --&gt;
+last_reconstructed: 2026-05-16
+---
 
-# Lektion 28
+# Урок 28
 
-## 28.1. Das Kausativum (णि, णिच्, कारित)
+## 28.1. Причинното време (णि, णिच्, कारित)
 
 ::: grammar-box
-**Will man ausdrücken, dass jemand oder etwas veranlasst oder bewirkt, dass jemand anderer oder etwas anderes etwas tut oder erleidet, was durch eine Wurzel (mit oder ohne Präverb) ausgedrückt wird, so verwendet man das Kausativum (णि, णिच्, कारित).** &lt;!-- TODO: Fallback translation --&gt;
+**Ако искаме да изразим, че някой или нещо подбужда или причинява друг човек или нещо друго да направи или претърпи действие, изразено чрез корен (с или без предлог), използваме причинното време (णि, णिच्, कारित).**
 
-गम् "gehen" » Kausativ: गमयति "er veranlasst, dass jemand geht; er schickt" &lt;!-- TODO: Fallback translation --&gt;
-&gt;Beispiel: &lt;!-- TODO: Fallback translation --&gt;
-दृश् "sehen" » Kausativ: दर्शयति "er macht sehen = er zeigt" &lt;!-- TODO: Fallback translation --&gt;
+Пример:
+गम् "да ходя" » Причинно: गमयति "той подбужда някой да ходи; той изпраща"
+दृश् "да видя" » Причинно: दर्शयति "той кара да види = той показва"
 :::
 
 ---
 
-## 28.2. Satzkonstruktion mit dem Kausativ (णि, णिच्, कारित)
+## 28.2. Синтактична конструкция с каузатив (णि, णिच्, कारित)
 
 ::: grammar-box
-**Schema 1:** &lt;!-- TODO: Fallback translation --&gt;
+**Схема 1:**
 
-**Wenn die dem Kausativ zugrundeliegende Wurzel (mit oder ohne Präverb) INTRANSITIV ist (d.h. kein Akkusativobjekt bei sich haben kann) oder Bewegung, Wissen, Information oder Essen ausdrückt:** &lt;!-- TODO: Fallback translation --&gt;
+**Ако коренът, лежащ в основата на каузатива (с или без префикс), е НЕПРЕХОДЕН (т.е. не може да има акузативен обект) или изразява движение, знание, информация или хранене:**
 
-**Agens (कर्ता) des Kausativums im Nominativ (प्रथमा) — Agens der veranlassten Handlung im Akkusativ (द्वितीया) — (Ziel der Bewegung, Objekt des Wissens usw. im Akkusativ = द्वितीया) — Verb im Kausativ** &lt;!-- TODO: Fallback translation --&gt;
+**Агент (कर्ता) на каузатива в именителен падеж (प्रथमा) — Агент на предизвиканото действие в акузатив (द्वितीया) — (Цел на движението, обект на знанието и т.н. в акузатив = द्वितीया) — Глагол в каузатив**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-durjano rāmaṃ mohayati[[br]]**दुर्जनो रामं मोहयति** = "ein böser Mensch bewirkt, dass Rāma verwirrt ist = verwirrt den Rāma = bewirkt, dass Rāma irrt" &lt;!-- TODO: Fallback translation --&gt;
+दुर्जनो रामं मोहयति = „лош човек причинява, че Рāма е объркан = обърква Рāма = причинява, че Рāма блужди“
+Резултат: रामो मुह्यति = „Рāма е объркан / заслепен / блужди.“
 
-rāmaḥ śatrūnsvargaṃ gamayati[[br]]**रामः शत्रून्स्वर्गं गमयति** = "Rāma macht die Feinde in den Himmel gehen = schickt die Feinde in den Himmel" &lt;!-- TODO: Fallback translation --&gt;
+रामः शत्रून्स्वर्गं गमयति = „Рāма кара враговете да отидат в небето = изпраща враговете в небето“
+Резултат: शत्रवः स्वर्गं गच्छन्ति = „враговете отиват към небето / пристигат в небето“
 
-gurū rāmaṃ vedārthaṃ vedayati[[br]]**गुरू रामं वेदार्थं वेदयति** = "Der Meister macht Rāma den Sinn des Veda wissen = erklärt / lehrt Rāma den Sinn des Veda" &lt;!-- TODO: Fallback translation --&gt;
+गुरू रामं वेदार्थं वेदयति = „Учителят кара Рāма да познава смисъла на Веда = обяснява / учи Рāма смисъла на Веда“
+Резултат: रामो वेदार्थं वेत्ति = „Рāма познава / разбира смисъла на Веда“
 
-sa rāmaṃ vedamadhyāpayati[[br]]**स रामं वेदमध्यापयति** = "er lehrt Rāma den Veda" &lt;!-- TODO: Fallback translation --&gt;
+स रामं वेदमध्यापयति = „той учи Рāма Веда“
+Резултат: रामो वेदमधीते „Рāма изучава Веда“
 
-rāmo devānāmṛtamāśayati[[br]]**रामो देवानामृतमाशयति** = "Rāma lässt die Götter Unsterblichkeitsspeise essen = gibt den Göttern Unsterblichkeitsspeise zu essen" (अश् 9 "essen") &lt;!-- TODO: Fallback translation --&gt;
+रामो देवानामृतमाशयति = „Рāма кара боговете да ядат храната за безсмъртие = дава на боговете храна за безсмъртие за ядене“ (अश् 9 „яде“)
+Резултат: देवा अमृतमश्नन्ति „Боговете ядат храна за безсмъртие“
 
 ::: media
 ![](/images/lekt2802.jpg)
-Abb.: स नरान्प्रबन्धविज्ञानमध्यापयति
-(Bildquelle: [Details](/licenses#lekt2802)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: स नरान्प्रबन्धविज्ञानमध्यापयति
+Храм ISKCON Бангалор.
+(Източник на изображението: [Подробности](/bg/licenses#lekt2801))
 :::
 
 ::: grammar-box
-**Nach Schema 1 konstruiert u.a. auch die Wurzel दृश्:** &lt;!-- TODO: Fallback translation --&gt;
+**Съгласно Схема 1 е конструирана също и коренът दृश्:**
 
-**Ausnahmen zu Schema 1 siehe unter Schema 2** &lt;!-- TODO: Fallback translation --&gt;
+**Изключения от Схема 1 вижте под Схема 2**
+
+Пример:
+(स) रामं पुत्रं दर्शयति = „той показва на Рāма сина“
 :::
 
-Ergebnis: **śatravaḥ svargaṃ gacchanti**[[br]]शत्रवः स्वर्गं गच्छन्ति = "die Feinde gehen zum Himmel / kommen in den Himmel" &lt;!-- TODO: Fallback translation --&gt;
-
-(स) रामं पुत्रं दर्शयति = "er zeigt dem Rāma den Sohn" &lt;!-- TODO: Fallback translation --&gt;
-
-Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusammen (bei den Verbalformen handelt es sich jeweils um die 3. Person Imperfekt Parasmaipada): &lt;!-- TODO: Fallback translation --&gt;
+Следният стих обобщава примери за образуване на каузатив по Схема 1 (при глаголните форми става въпрос за 3-то лице Имперфект Парасайпада):
 
 शत्रूनगमयत्स्वर्गं
 वेदार्थं स्वानवेदयत् ।
@@ -65,299 +70,366 @@ Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusamme
 वेदमध्यापयद्विधिम् ।
 आसयत्सलिलै पृथ्वीं
 यः स मे श्रीहरिगतिः ॥
-&gt;**śatrūnagamayatsvargaṃ[[br]]vedārthaṃ svānavedayat |[[br]]āśayaccāmṛtaṃ devān[[br]]vedamadhyāpayadvidhim |[[br]]āsayatsalilai pṛthvīṃ[[br]]yaḥ sa me śrīharigatiḥ ||** &lt;!-- TODO: Fallback translation --&gt;
-Ergebnis: **rāmo vedamadhīte**[[br]]रामो वेदमधीते = "Rāma studiert den Veda" &lt;!-- TODO: Fallback translation --&gt;
+
+::: indent
+Моят приют и моята цел е Хари,
+Който изпрати враговете в небето,
+Който научи своите на значението на Веда,
+Който нахрани боговете с храна за безсмъртие,
+Който научи Създателя на Веда,
+Който постави земята във водата.
+:::
 
 ::: media
 ![](/images/lekt2801.jpg)
-(sa) rāmeṇa bhāryāṃ tyājayati[[br]]**(स) रामेण भार्यां त्याजयति** = "Er veranlasst den Rāma, seine Frau zu verlassen" &lt;!-- TODO: Fallback translation --&gt;
+Ил.: स मे श्रीहरिगतिः
+Сградата на управлението на Jadavpur University.
+(Източник на изображението: [Подробности](/bg/licenses#lekt2802))
 :::
 
 ::: grammar-box
-Meine Zuflucht und mein Ziel ist Hari,[[br]]Der die Feinde in den Himmel schickte,[[br]]Der die Seinen die Bedeutung des Veda lehrte,[[br]]Der die Götter mit Unsterblichkeitsspeise speiste,[[br]]Der den Schöpfer den Veda lehrte,[[br]]Der die Erde in das Wasser setzte. &lt;!-- TODO: Fallback translation --&gt;
+**Схема 2:**
 
-Ergebnis: **devā amṛtamaśnanti**[[br]]देवा अमृतमश्नन्ति = "Die Götter essen Unsterblichkeitsspeise" &lt;!-- TODO: Fallback translation --&gt;
+**При преходни глаголи (с изключение на посочените под Схема 1). Също при всички глаголи, когато действието, означено от каузатива, е предизвикано (т.е. когато каузативът е каузатив към каузатив):**
 
-**Agens (कर्ता) des Kausativums im Nominativ (प्रथमा) — Agens der veranlassten Handlung im Instrumentalis (तृतीया) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum** &lt;!-- TODO: Fallback translation --&gt;
+**Агент (कर्ता) на каузатива в именителен падеж (प्रथमा) — Агент на предизвиканото действие в инструментален падеж (तृतीया) — Обект на предизвиканото действие в падежа, който би имало след простия глагол (т.е. обикновено в акузатив) — Глагол в каузатив**
 :::
 
-**Schema 2:** &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+Примери:
+(स) रामेण भार्यां त्याजयति = „Той кара Рāма да напусне жена си“
+Резултат: रामो भार्यां त्यजति = „Рāма напуска жена си“
 
-(sa) rāmeṇa smārayati[[br]]**(स) रामेण स्मारयति** = "Er bewirkt, dass Rāma sich erinnert" &lt;!-- TODO: Fallback translation --&gt;
-> Ergebnis: **rāmo bhāryāṃ tyajati**[[br]]रामो भार्यां त्यजति = "Rāma verlässt seine Frau" &lt;!-- TODO: Fallback translation --&gt;
-&gt;Ergebnis: **rāmo muhyati**[[br]]रामो मुह्यति = "Rāma ist verwirrt / verblendet / irrt." &lt;!-- TODO: Fallback translation --&gt;
-viṣṇumitro rāmeṇa govindaṃ gamayati[[br]]**विष्णुमित्रो रामेण गोविन्दं गमयति** = "Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken" &lt;!-- TODO: Fallback translation --&gt;
-> Ergebnis: **rāmo vedārthaṃ vetti**[[br]]रामो वेदार्थं वेत्ति = "Rāma kennt / versteht den Sinn des Veda" &lt;!-- TODO: Fallback translation --&gt;
-> **Bei transitiven Verben (außer den unter Schema 1 genannten). Ebenfalls bei allen Verben, wenn das durch das Kausativ Bezeichnete veranlasst wird (wenn das Kausativ also ein Kausativ zum Kausativ ist):** &lt;!-- TODO: Fallback translation --&gt;
+विष्णुमित्रो रामेण गोविन्दं गमयति = „Вишнумитра подбужда Рама, за да подбуди този Говинда да отиде = Вишнумитра изпраща Рама да изпрати Говинда“
+Резултат: रामो गोविन्दं गमयति = „Рама изпраща Говинда“
+Резултат на този резултат: गोविन्दो गच्छति = „Говинда отива“
+:::
 
 ::: grammar-box
-शत्रूनगमयत्स्वर्गं
+**Изключения към схема 1:**
 
-वेदार्थं स्वानवेदयत् ।
+**Съгласно схема 2 конструират също следните глаголи:**
 
-आशयच्चामृतं देवान् &lt;!-- TODO: Fallback translation --&gt;
-- **नी** "führen" &lt;!-- TODO: Fallback translation --&gt;
-- **वह्** "fahren" (nur wenn der Agens der veranlassten Handlung kein Fahrer ist) &lt;!-- TODO: Fallback translation --&gt;
-- **स्मृ** "vergegenwärtigen" (es gibt dazu Ausnahmen) &lt;!-- TODO: Fallback translation --&gt;
-- **अद्** "essen" &lt;!-- TODO: Fallback translation --&gt;
-- **खाद्** "kauen" &lt;!-- TODO: Fallback translation --&gt;
+**Казатив към:**
+- **नी „водач“**
+- **वह् „пътувам“ (само ако агентът на предизвиканото действие не е шофьор)**
+- **स्मृ „представя“ (има изключения за това)**
+- **अद् „ям“**
+- **खाद् „дъвча“**
 :::
 
-वेदमध्यापयद्विधिम् । &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-rāmo bhṛtyena bhāraṃ nāyayati vāhayati vā[[br]]**रामो भृत्येन भारं नाययति वाहयति वा** = "Rāma lässt den Diener die Last führen bzw. fahren" &lt;!-- TODO: Fallback translation --&gt;
+रामो भृत्येन भारं नाययति वाहयति वा = „Рама позволява на слугата да носи или да пътува товара“
+Резултат: भृत्यो भारं नयति वहति वा = „Слугата носи или пътува товара“
 
-rāmo bālenānnamādayati khādayati vā[[br]]**रामो बालेनान्नमादयति खादयति वा** = "Rāma lässt den Knaben Speise essen bzw. kauen" &lt;!-- TODO: Fallback translation --&gt;
+रामो बालेनान्नमादयति खादयति वा = „Рама позволява на момчето да яде или дъвче храна“
+Резултат: बालो ऽन्नमत्ति खादति वा = „момчето яде или дъвче храна“
 
-rāmeṇa bhṛtyaḥ kaṭaṃ kāryate[[br]]**रामेण भृत्यः कटं कार्यते** = "Rāma lässt den Diener eine Matte machen" &lt;!-- TODO: Fallback translation --&gt;
+(स) रामेण स्मारयति = „Той причинява Рама да си спомни“
+Резултат: रामः स्मरति = „Рама си спомня“
 
 ::: grammar-box
-**Folgende Kausative können sowohl nach Schema 1 als auch nach Schema 2 konstruieren:** &lt;!-- TODO: Fallback translation --&gt;
+**Следните казативи могат да конструират както по схема 1, така и по схема 2:**
 
-- **हृ** "halten, holen" &lt;!-- TODO: Fallback translation --&gt;
-- **कृ** "tun, machen" &lt;!-- TODO: Fallback translation --&gt;
-- **Ātmanepadakausativ zu दृश्** &lt;!-- TODO: Fallback translation --&gt;
+- **हृ „държи, взема“**
+- **कृ „прави, извършва“**
+- **Атманепада казатив към दृश्**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-rāmo bhṛtyaṃ kaṭaṃ kārayati hārayati vā[[br]]**रामो भृत्यं कटं कारयति हारयति वा** = "Rāma lässt den Diener eine Matte (कट m.) machen bzw. holen"[[br]]oder:[[br]]rāmo bhṛtyena kaṭaṃ kārayati hārayati vā[[br]]**रामो भृत्येन कटं कारयति हारयति वा** &lt;!-- TODO: Fallback translation --&gt;
+रामो भृत्यं कटं कारयति हारयति वा = „Рама позволява на слугата да направи или вземе постелка (कट м.р.)“
+или:
+रामो भृत्येन कटं कारयति हारयति वा
+Резултат: भृत्यः कटं करोति हरति वा = „Слугата прави или взема постелка“
 
-rāmo bālaṃ pratimāṃ darśayate[[br]]**रामो बालं प्रतिमां दर्शयते** = "Rāma lässt den Knaben das Bildnis sehen = zeigt dem Knaben das Bildnis (im eigenen Interesse)"[[br]]oder:[[br]]rāmo bālena pratimāṃ darśayate[[br]]**रामो बालेन प्रतिमां दर्शयते** &lt;!-- TODO: Fallback translation --&gt;
+रामो बालं प्रतिमां दर्शयते = „Рама позволява на момчето да види изображението = показва на момчето изображението (в собствен интерес)“
+или:
+रामो बालेन प्रतिमां दर्शयते
+Резултат: बालः प्रतिमां पश्यति = „момчето вижда изображението“
 
-Wird das Kausativum in einer Passivkonstruktion verwendet, so findet fast immer folgendes Schema Anwendung: &lt;!-- TODO: Fallback translation --&gt;
+Ако казативът се използва в пасивна конструкция, почти винаги се прилага следната схема:
 
 ::: grammar-box
-**Schema A (Passivkonstruktion):** &lt;!-- TODO: Fallback translation --&gt;
+**Схема A (пасивна конструкция):**
 
-**Agens des Kausativums im Instrumentalis (तृतीया) — Agens der veranlassten Handlung im Nominativ (प्रथमा) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum** &lt;!-- TODO: Fallback translation --&gt;
+**Агент на казатива в инструментален падеж (तृतीया) — Агент на предизвиканото действие в именителен падеж (प्रथमा) — Обект на предизвиканото действие в падежа, който би имало според простия глагол (т.е. обикновено в винителен падеж) — Глагол в казатив**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-गुरुणा रामो ग्रामं गम्यते = "Der Meister schickt Rāma ins Dorf" &lt;!-- TODO: Fallback translation --&gt;
+गुरुणा रामो ग्रामं गम्यते = „Майсторът изпраща Рама в селото“
+Резултат: रामो ग्रामं गच्छति = „Рама отива в селото“
 
-rāmeṇa bhṛtyo bhāraṃ hāryate[[br]]**रामेण भृत्यो भारं हार्यते** = "Rāma lässt den Diener die Last holen" &lt;!-- TODO: Fallback translation --&gt;
+रामेण भृत्यः कटं कार्यते = „Рама позволява на слугата да направи постелка“
+Резултат: भृत्यः कटं करोति = „Слугата прави постелка“
 
-रामेण भृत्यो भारं हार्यते = "Rāma lässt den Diener die Last holen"
-Ergebnis: भृत्यो भारं हरति = "Der Diener holt die Last" &lt;!-- TODO: Fallback translation --&gt;
+रामेण भृत्यो भारं हार्यते = „Рама позволява на слугата да вземе товара“
+Резултат: भृत्यो भारं हरति = „Слугата взема товара“
 
 ---
 
-## 28.3. Образоване des Сегашна основаs zum Kausativ (णि, णिच्, कारit)
+## 28.3. Образуване на настоящия корен на каузатива (णि, णिच्, कारित)
 
 ::: grammar-box
-**An den Kausativstamm treten die thematischen Endungen des Präsensstamms** &lt;!-- TODO: Fallback translation --&gt;
+**Към каузативния корен се присъединяват тематичните окончания на настоящия корен**
 :::
 
-Es gibt verschiedene Bildungstypen: &lt;!-- TODO: Fallback translation --&gt;
+Съществуват различни типове на образуване:
 
 ::: grammar-box
-**Bildungstyp 1: (meist) hochstufige Wurzel + -aya-** &lt;!-- TODO: Fallback translation --&gt;
+**Тип на образуване 1: (повечето случаи) степен на засилване на корена + -aya-**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-| Корен | Kausativ 3. sg. Indikativ Сегашно време | Bedeutung |
+| Корен | Каузатив 3. л. ед. ч. наклонение на настоящето време | Значение |
 | :--- | :--- | :--- |
-| विश् | वेशयति (veś-aya-ti) | er/sie/es lässt eintreten, führt hinein |
-| लुभ् | लोभयति | begehren machen, begehrlich machen, verlocken |
-| दृश् | दर्शयति | sehen machen = zeigen |
-| वृत् | वर्तयति | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
+| विश् | वेशयति | той/тя/то позволява да влезе, въвежда |
+| लुभ् | लोभयति | кара да желае, прави привлекателен, изкушава |
+| दृश् | दर्शयति | кара да види = показва |
+| वृत् | वर्तयति | кара да се върти, обръща (преходен глагол), върти (преходен глагол), поставя в движение |
 
 ::: grammar-box
-**Bildungstyp 2: dehnstufige Wurzel + -aya-** &lt;!-- TODO: Fallback translation --&gt;
+**Тип на образуване 2: удължена степен на корена + -aya-**
 
-**Oft bei Wurzeln, die vokalisch enden, und bei Wurzeln, bei denen auf -a- ein einziger Endkonsonant folgt.** &lt;!-- TODO: Fallback translation --&gt;
+**Често при корени, които завършват на гласна, и при корени, на които след -a- следва само един крайен съгласен.**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-| Корен | Kausativ 3. sg. Indikativ Сегашно време | Bedeutung |
+| Корен | Каузатив 3. л. ед. ч. наклонение на настоящето време | Значение |
 | :--- | :--- | :--- |
-| **bhū**[[br]](भू) | **bhāvayati**[[br]](भावयति)[[br]](aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
-| **i**[[br]](इ) | **āyayati**[[br]](आययति)[[br]](aus: ai-aya-ti) | bewirken, dass jemand geht |
-| **nī**[[br]](नी) | **nāyayati**[[br]](नाययति)[[br]](aus: nai-aya-ti) | führen lassen |
-| **kṛ**[[br]](कृ) | **kārayati**[[br]](कारयति)[[br]](kār-aya-ti) | machen lassen |
-| **vac**[[br]](वच्) | **vācayati**[[br]](वाचयति)[[br]](vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
+| भू | भावयति[[br]](от: bhau-aya-ti) | кара някого или нещо да стане, произвежда |
+| इ | आययति[[br]](от: ai-aya-ti) | кара някого да отиде |
+| नी | नाययति[[br]](от: nai-aya-ti) | позволява да бъде водел |
+| कृ | कारयति[[br]](kār-aya-ti) | позволява да бъде правено |
+| वच् | वाचयति[[br]](vāc-aya-ti) | позволява да бъде говорено, кара да говори, (да се кара да се чете текст =) чете на глас |
 
 ::: grammar-box
-**Bildungstyp 3: tiefstufige Wurzel + -aya-** &lt;!-- TODO: Fallback translation --&gt;
+**Тип на образуване 3: слаба степен на корена + -aya-**
 
-**Kommt vor.** &lt;!-- TODO: Fallback translation --&gt;
+**Среща се.**
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
-| Корен | Kausativ 3. sg. Indikativ Сегашно време | Bedeutung |
+| Корен | Каузатив 3. л. ед. ч. наклонение на настоящето време | Значение |
 | :--- | :--- | :--- |
-| **duṣ**[[br]](दुष्) | **dūṣayati**[[br]](दूषयति)[[br]](dūṣ-aya-ti) | (jemanden) verderben |
+| दुष् | दूषयति[[br]](dūṣ-aya-ti) | (някого) погубва |
 
 ::: grammar-box
-**Bildungstyp 4: Wurzel + -paya-** &lt;!-- TODO: Fallback translation --&gt;
+**Тип на образуване 4: корен + -paya-**
 
-**Bei Wurzeln auf -ā und einigen anderen Wurzeln.** &lt;!-- TODO: Fallback translation --&gt;
+**При корени, завършващи на -ā и при някои други корени.**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-| Корен | Kausativ 3. sg. Indikativ Сегашно време | Bedeutung |
+| Корен | Каузатив 3. л. ед. ч. наклонение на настоящето време | Значение |
 | :--- | :--- | :--- |
-| **sthā**[[br]](स्था) | **sthāpayati**[[br]](स्थापयति)[[br]](sthā-paya-ti) | stehen machen, aufstellen |
-| **i + adhi**[[br]](इ + अधि)[[br]]"studieren" | **adhyāpayati**[[br]](अध्यापयति)[[br]](aus: adhi+ā-paya-ti)[[br]](zur Обяснение siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
+| स्था | स्थापयति[[br]](sthā-paya-ti) | кара да стои, поставя |
+| इ + अधि[[br]]"проучва" | अध्यापयति[[br]](от: adhi+ā-paya-ti)[[br]](за обяснение вижте Thumb-Hauschildt, том I,2, стр. 341) | позволява да бъде проучвано, обучава |
 
 ::: grammar-box
-**Unregelmäßige Bildungen:** &lt;!-- TODO: Fallback translation --&gt;
+**Нерегулярни образувания:**
 
-**Einheimische Grammatiker betrachten folgende Formen als Kausativa:** &lt;!-- TODO: Fallback translation --&gt;
+**Местните грамматици разглеждат следните форми като каузативи:**
 
-- **han** : Kaus. **ghātayati**¹ "erschlagen lassen, töten lassen" &lt;!-- TODO: Fallback translation --&gt;
-- **pā** 2 "hüten": **pālayati**² "hinüberbringen, retten, schützen" &lt;!-- TODO: Fallback translation --&gt;
+- **han** : каузатив **ghātayati**¹ "позволява да бъде убит, убива"
+- **pā** 2 "пази": **pālayati**² "превежда, спасява, защитава"
 :::
 
-Anmerkungen: &lt;!-- TODO: Fallback translation --&gt;
-1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. "Schlag" abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird. &lt;!-- TODO: Fallback translation --&gt;
-2. **pālayati** ist ein echtes Kausativum, allerdings zur Корен **pṛ** 3 "hinüberbringen, retten, schützen": **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r). &lt;!-- TODO: Fallback translation --&gt;
+Бележки:
+1. **ghātayati** всъщност е глагол, който е производен от съществителното **ghāta** м.р. "удар" (именативен производен глагол) и се използва вместо каузатива на **han**.
+2. **pālayati** е истински каузатив, но към корена **pṛ** 3 "превежда, спасява, защитава": **pārayati** (pār-aya-ti) » **pālayati** (в някои части на Индия на r съответства l, в други обратно на l съответства r).
 
 ---
 
-## 28.4. Образоване des Passivs (यक्) zum Kausativ
+## 28.4. Образуване на страдателно наклонение (यक्) към каузатив
 
 ::: grammar-box
-**Das Passiv zum Kausativ wird so gebildet:** &lt;!-- TODO: Fallback translation --&gt;
+**Страдателното наклонение към каузатива се образува така:**
 
-**Kausativstamm OHNE -aya- + Passivsuffix -ya-** &lt;!-- TODO: Fallback translation --&gt;
+**Корен на каузатива БЕЗ -aya- + страдателен суфикс -ya-**
+
+Примери:
+**bhāvyate** (bhāv-ya-te) „той/тя/то бъде създаден“
+**sthāpyate** (sthāp-ya-te) „той/тя/то бъде поставен“
 :::
 
-**bhāvyate** (bhāv-ya-te) = "er/sie/es wird hervorgebracht" &lt;!-- TODO: Fallback translation --&gt;
-&gt;Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird. &lt;!-- TODO: Fallback translation --&gt;
-
-Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird. &lt;!-- TODO: Fallback translation --&gt;
+Докато страдателното наклонение към първоначалния корен обикновено се образува от корена в най-ниската степен, страдателното на каузатива обикновено се разпознава по това, че се образува от корена в висока или удължена степен.
 
 ---
 
-## 28.5. Образоване des Бъдеще времеs (ऌट्, भविष्यन्ती f.) zum Kausativ
+## 28.5. Образуване на бъдещето време (ऌट्, भविष्यन्ती ж.р.) към каузатива
 
 ::: grammar-box
-**Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:** &lt;!-- TODO: Fallback translation --&gt;
+**Бъдещето време на каузатива се образува от каузативния корен, като крайното -a- на каузативния суфикс се изпуска:**
 
-**-ay-iṣya-** &lt;!-- TODO: Fallback translation --&gt;
-:::
+**-ay-iṣya-**
 
-**budh** Futur-Kausativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti) = "er/sie/es wird aufwecken" &lt;!-- TODO: Fallback translation --&gt;
-
----
-
-## 28.6. Образоване des PPP (क्त) zum Kausativ
-
-::: grammar-box
-**Kausativstamm auf -ay- (ohne auslautendes a) + -i- + -ta** &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-**gam** — **gamayati** — **gamita** (gam-i-ta) = "gesendet" (PPP der einfachen Wurzel: **gata**) &lt;!-- TODO: Fallback translation --&gt;
-&gt;Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt" &lt;!-- TODO: Fallback translation --&gt;
-
----
-
-## 28.7. Образоване des Absolutivs (क्त्वा . ल्यप्) zum Kausativ
-
-::: grammar-box
-**Das Absolutivum auf -tvā wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:** &lt;!-- TODO: Fallback translation --&gt;
-
-**Kausativstamm auf -ay- + -i- + -tvā** &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-**sthāpayitvā** (sthā-pay-i-tvā) = "nachdem er aufgestellt hat" &lt;!-- TODO: Fallback translation --&gt;
-
-::: grammar-box
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) = "nachdem er aufgeweckt hat" &lt;!-- TODO: Fallback translation --&gt;
-&gt;**Das Absolutivum auf -ya tritt bei Kausativa mit Präverb in der Regel an Kausativstamm OHNE -aya-** &lt;!-- TODO: Fallback translation --&gt;
-**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) = "nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat" &lt;!-- TODO: Fallback translation --&gt;
-
-::: grammar-box
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) = "nachdem er kommen gelassen hat" &lt;!-- TODO: Fallback translation --&gt;
-
----
-
-## 28.8. Образоване des Infinitivs (तुमुन्) zum Kausativ
-
-::: grammar-box
-**Der Infinitiv zum Kausativ wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:** &lt;!-- TODO: Fallback translation --&gt;
-
-**Kausativstamm auf -ay- + -i- + -tum** &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-**jan** — **janayati** — **janayitum** (janay-i-tum) = "um zu erzeugen" &lt;!-- TODO: Fallback translation --&gt;
-
----
-
-## 28.9. Die 10. Сегашно времеklasse (चुरादि = चुर् u.s.w.)
-
-::: grammar-box
-**In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora) einige Wurzeln der 10. Präsensklasse, ohne Kausativa zu sein.** &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-1.  Dehnstufige Корен + -aya- : **kam** 10Ā **kāmayate** = "lieben" &lt;!-- TODO: Fallback translation --&gt;
-2.  Hochstufige Корен + -aya- : **cur** 10U **corayati** = "stehlen"; Бъдеще време: **corayiṣyate**; Pass.: **coryate** &lt;!-- TODO: Fallback translation --&gt;
-
-::: grammar-box
-**Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den Formen des einfachen Verbs. Die Entscheidung darüber, ob ein Kausativ vorliegt, ist nur aus dem Sinn bzw. manchmal aus der Konstruktion möglich.** &lt;!-- TODO: Fallback translation --&gt;
+Пример:
+**budh** бъдеще-каузатив: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): „той/тя/то ще събуди“
 :::
 
 ---
 
-## 28.10. Речник
+## 28.6. Образувана на PPP (क्त) към каузатив
 
-Fut. **vediṣyati**[[br]]Pass. **vidyate**[[br]]Kaus. **vedayati**[[br]]PPP **vidita**[[br]]Inf. **vediṣyum**[[br]]davon: **vidyā** f., **veda** m. &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Каузативен корен на -ay- (без крайно a) + -i- + -ta**
 
-Fut. **vediṣyati** / **vetsyat**[[br]]Pass. **vidyate**: es gibt, es ist vorhanden[[br]]Kaus. **vedayati**[[br]]PPP **vinna** / **vitta**[[br]]Inf. **vediṣtum** / **vettum** &lt;!-- TODO: Fallback translation --&gt;
+Примери:
+**gam** — **gamayati** — **gamita** (gam-i-ta) "изпратен" (PPP на обикновения корен: **gata**)
+**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "поставен"
+:::
 
-Kaus. **adhyāpayati**: studieren lassen, unterrichten[[br]]davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen) &lt;!-- TODO: Fallback translation --&gt;
+---
 
-Fut. **kāmayiṣyate** / **kamiṣyate**[[br]]Pass. **kāmyate**[[br]]Kaus. **kāmayati**[[br]]PPP **kānta** (!)[[br]]Inf. **kāmayitum** / **kamitum** &lt;!-- TODO: Fallback translation --&gt;
+## 28.7. Образуване на абсолютива (क्त्वा . ल्यप्) към каузатива
+
+::: grammar-box
+**Абсолютивът на -tvā се образува от каузативния корен на -ay- (без крайно a):**
+
+**Каузативен корен на -ay- + -i- + -tvā**
+
+Пример:
+**sthāpayitvā** (sthā-pay-i-tvā) „след като е поставил“
+:::
+
+::: grammar-box
+**Абсолютивът на -ya при каузативи с предлог обикновено се присъединява към каузативния корен БЕЗ -aya-**
+
+Примери:
+**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) „след като е събудил“
+**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) „след като е оставил да доведе, след като е оставил да донесе“
+:::
+
+::: grammar-box
+**Ако обаче сричката на корена на каузатива съдържа кратко -a- преди единствен съгласен, -ya- на абсолютива се присъединява към каузативния корен на -ay- (без крайно a)**
+
+Пример:
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) „след като е оставил да дойде“
+:::
+
+---
+
+## 28.8. Образуване на инфинитив (तुमुन्) към каузатив
+
+::: grammar-box
+**Инфинитивът към каузатива се образува от каузативния корен на -ay- (без крайно a):**
+
+**Каузативен корен на -ay- + -i- + -tum**
+
+Пример:
+**jan** — **janayati** — **janayitum** (janay-i-tum) „за да създаде“
+:::
+
+---
+
+## 28.9. Десети клас на настоящето време (चुरादि = चुर् и т.н.)
+
+::: grammar-box
+**По същия начин, по който каузативите се образуват, някои корени от десети клас на настоящето време образуват настояще (и други времена), без да са каузативни.**
+
+Примери:
+1. Удължена степен на корена + -aya-: **कम्** 10А **कामयते** "обичам"
+2. Висока степен на корена + -aya-: **cur** 10У **corayati** "краде"; Бъдеще: **corayiṣyate**; Страдателен залог: **coryate**
+:::
+
+::: grammar-box
+**Формите на каузатива към глаголи от десети клас на настоящето време са идентични с формите на простия глагол. Решението дали има каузатив е възможно само от смисъла или понякога от конструкцията.**
+:::
+
+---
+
+## 28.10. Списък на думите
+
+::: indent
+**विद्** 2P **वेत्ति**, **विदन्ति**: знам, познавам
+Бъд. **vediṣyati**
+Страд. **vidyate**
+Причин. **vedayati**
+PPP **vidita**
+Инф. **vediṣyum**
+от това: **vidyā** ж., **veda** м.
+:::
+
+::: indent
+**विद्** 6U **विन्दति** (!): намирам
+Бъд. **vediṣyati** / **vetsyat**
+Страд. **vidyate**: има, съществува
+Причин. **vedayati**
+PPP **vinna** / **vitta**
+Инф. **vediṣtum** / **vettum**
+:::
+
+::: indent
+**i + adhi** 2Ā **adhīte**, **adhīyate**: изучавам, запаметявам
+Причин. **adhyāpayati**: позволявам да се изучава, преподавам
+от това: **adhyayana** ср.: изучаване (особено на Веда); **adhyāya** м.: лекция, глава (раздел за запаметяване)
+:::
+
+::: indent
+**कम्** 10Ā **कामयते**: обичам
+Бъд. **kāmayiṣyate** / **kamiṣyate**
+Страд. **kāmyate**
+Причин. **kāmayati**
+PPP **kānta** (!)
+Инф. **kāmayitum** / **kamitum**
+:::
 
 ::: media
 ![](/images/lekt2804.jpg)
-Abb.: कृष्णो राधां कामयति
-(Bildquelle: [Details](/licenses#lekt2804)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: कृष्णो राधां कामयति
+Панорама на राजा रवि वर्मा (1848 - 1906)
+(Източник на изображението: [Подробности](/bg/licenses#lekt2804))
 :::
 
-Fut. **corayiṣyati**[[br]]Pass. **coryate**[[br]]Kaus. **corayati**[[br]]PPP **corita**[[br]]Inf. **coritum** &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+**चुर्** 10 **चोरयति**: крада
+Бъд. **corayiṣyati**
+Страд. **coryate**
+Причин. **corayati**
+PPP **corita**
+Инф. **coritum**
+:::
 
-**dṛś** — **darśayati**: zeigen[[br]]**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")[[br]]**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)[[br]]**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+**Запомнете особено значението на причинните форми на следните глаголи:**
+**dṛś** — **darśayati**: показвам
+**man** — **mānayati**: уважавам, почитам (вероятно е denominativ към **māna** "почет")
+**vac** — **vācayati**: също: чета на глас (давам да се изреке текст)
+**vad** — **vādayati**: също: карам музикален инструмент да говори = свири на музикален инструмент
+:::
 
 ::: media
 ![](/images/lekt2803.jpg)
-Abb.: वीणां वादयति
-(Bildquelle: [Details](/licenses#lekt2803)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: वीणां वादयति
+Vīṇā-Spielerin.
+(Източник на изображението: [Подробности](/bg/licenses#lekt2803))
 :::
 
-**vid** 2P **vetti**, **vidanti**: wissen, kennen &lt;!-- TODO: Fallback translation --&gt;
+**भार** м.: товар
 
 ::: media
 ![](/images/lekt2805.jpg)
-Abb.: बाला भारं हरति
-(Bildquelle: [Details](/licenses#lekt2805)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: बाला भारं हरति
+Момиче носи товар. При Ахмедабад.
+(Източник на изображението: [Подробности](/bg/licenses#lekt2805))
 :::
 
-**vid** 6U **vindati** (!): finden &lt;!-- TODO: Fallback translation --&gt;
+**भृत्य** м: подчинен, слуга
 
 ---
 
 ## 28.11. Упражнение
 
-**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:** &lt;!-- TODO: Fallback translation --&gt;
+**А) Образувате каузатива на следните глаголни форми и причастни форми и посочете значението им:**
 
-**Mit hochstufiger Корен:** &lt;!-- TODO: Fallback translation --&gt;
+**1. С високостепенен корен:**
 1. अर्हन्ति
 2. प्राप्य
 3. एषिष्यन्ति
@@ -388,7 +460,7 @@ Abb.: बाला भारं हरति
 28. लिम्पन्ति
 29. वृद्धाः
 
-**Mit dehnstufiger Корен:** &lt;!-- TODO: Fallback translation --&gt;
+**2. С удълженостепенен корен:**
 1. अत्ति
 2. अस्यन्ति
 3. एष्यति
@@ -429,21 +501,21 @@ Abb.: बाला भारं हरति
 38. हरन्ती
 39. ऊढया
 
-**Kausativ auf -पय** &lt;!-- TODO: Fallback translation --&gt;
+**3. Каузатив на -पय**
 1. स्थित्वा
 
-**Beachten und lernen Sie besonders folgende Kausativbildungen** &lt;!-- TODO: Fallback translation --&gt;
+**4. Обърнете особено внимание и запомнете следните каузативни форми**
 1. दुष् — दूषयति
-2. पा 1 ("trinken") — पाययति (*pā 1 — pāyayati*) &lt;!-- TODO: Fallback translation --&gt;
-3. पा 2 ("schützen") — पालयति (*pā 2 — pālayati*) &lt;!-- TODO: Fallback translation --&gt;
+2. पा 1 ("пие") — पाययति
+3. पा 2 ("пази") — पालयति
 4. लभ् — लम्भयति
 5. हन् — घातयति
 6. जि — जापयति
 7. जीव् — जीवयति
 
-**B. Übersetzen Sie folgende Sätze, lösen Sie die Komposita in Sanskrit auf und bilden Sie Sätze mit einfachen Verben, die beschreiben, was geschieht:** &lt;!-- TODO: Fallback translation --&gt;
+**Б. Преведете следните изречения, разглобете санскритските съставни думи и образувате изречения с прости глаголи, които изразяват какво се случва, когато бъде извършено действието, изразено чрез каузатива:**
 
-रामो दासं भारं हारयति » दासो भारं हरति
+Пример: रामो दासं भारं हारयति » दासो भारं हरति
 
 शत्रुजयाय क्षत्रियो ब्राह्मणेन हरिहरं याजयित्वारीन्योत्स्यते ॥१॥
 गुरुर्बालान्वेदमध्याप्य गृहं गतः ॥२॥
@@ -456,12 +528,12 @@ Abb.: बाला भारं हरति
 धनं जेतुं महाक्षत्रियो योधव्याघ्रैर्व्रतानि चारयिष्यति ॥९॥
 पापान्मोक्षार्थेन सुगत आर्यजनानार्यसत्यानि बोधयति ॥१०॥
 
+
 ::: deleteme-box
 
-### Източници
-**lekt2801:** Jadavpur University Management building. [Bildquelle: noii's Flickr, 2008-12-19, CC BY-SA]
-**lekt2802:** ISKCON Temple Bangalore. [Bildquelle: Ramki's reflections Flickr, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Vīṇā-Spielerin. [Bildquelle: Kelvin Kay / Wikipedia. GNU FDLicense]
-**lekt2804:** Kṛṣṇa und Rādhā. Gemälde von Rāja Ravi Varmā. [Bildquelle: Wikipedia. Public domain]
-**lekt2805:** Mädchen trägt Last. Bei Ahmedabad. [Bildquelle: m-bot. Flickr, 2008-12-20. CC BY-SA] <!-- TODO: Fallback translation -->
+**lekt2801:** Сградата на управлението на Университета Jadavpur. [Източник на изображението: noii's Flickr, 2008-12-19, CC BY-SA]
+**lekt2802:** Храм ISKCON Бангалор. [Източник на изображението: Ramki's reflections Flickr, 2008-12-19, CC BY-NC-ND]
+**lekt2803:** Вионоличка. [Източник на изображението: Kelvin Kay / Wikipedia. GNU FDLicense]
+**lekt2804:** Кр̣ш̣на и Радха. Билда на Раджа Рави Варма. [Източник на изображението: Wikipedia. Public domain]
+**lekt2805:** Момиче носи товар. При Ахмедабад. [Източник на изображението: m-bot. Flickr, 2008-12-20. CC BY-SA]
 :::

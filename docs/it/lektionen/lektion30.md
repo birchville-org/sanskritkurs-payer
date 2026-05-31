@@ -1,23 +1,28 @@
 ---
+title: Lezione 30
+subtitle: "La 9. classe del presente (क्र्यादि = \"क्री ecc.\")"
 lesson_id: 30
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 30
 
-## 30.1. La nona classe di presente (क्र्यादि = "क्री e simili")
+## 30.1. La 9ª classe del presente (क्र्यादि = "क्री ecc.")
 
 ::: grammar-box
 **Formazione:**
 
-*   stemma forte: radice in grado debole + -nā-
+*   radice forte: radice in grado debole + -nā-
     
-*   stemma debole:
+*   radice debole:
     
     *   davanti a consonante: radice in grado debole + -nī-
         
     *   davanti a vocale: radice in grado debole + -n-
 :::
+        
 
 Esempio:
 
@@ -29,25 +34,24 @@ Esempio:
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
-|**3. persona[[br]]Parasmaipada**|क्रीणाति[[br]](krī + nā + ti)|क्रीणन्ति[[br]](krī + n + anti)|
-|**3. persona[[br]]Ātmanepada**|क्रीणीते[[br]](krī + nī + te)|क्रीणते[[br]](krī + n + ate)|
+|**3ª Persona[[br]]Parasmaipada**|क्रीणाति[[br]](krī + nā + ti)|क्रीणन्ति[[br]](krī + n + anti)|
+|**3ª Persona[[br]]Ātmanepada**|क्रीणीते[[br]](krī + nī + te)|क्रीणते[[br]](krī + n + ate)|
 
 :::
 
-Per questa classe di presente, va prestata particolare attenzione alla formazione dello stemma del presente a partire dalla radice ज्ञा 9U "riconoscere, sapere":
+Per questa classe del presente, si deve prestare particolare attenzione alla formazione della radice del presente per la radice ज्ञा 9U "riconoscere, sapere":
 
 ::: grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
-|**3. persona[[br]]Parasmaipada**|जानाति[[br]](jā-nā-ti)|जानन्ति[[br]](jā-n-anti)|
-|**3. persona[[br]]Ātmanepada**|जानीते[[br]](jā-nī-te)|जानते[[br]](jā-n-ate)|
+|**3ª Persona[[br]]Parasmaipada**|जानाति[[br]](jā-nā-ti)|जानन्ति[[br]](jā-n-anti)|
+|**3ª Persona[[br]]Ātmanepada**|जानीते[[br]](jā-nī-te)|जानते[[br]](jā-n-ate)|
 
 :::
+La forma जा che sta alla base della radice del presente di ज्ञा, può essere spiegata o attraverso una serie di ablaut -ā (grado debole) -nā (grado forte), o attraverso la dissimilazione da *jñā-nā-ti.
 
-La forma जा, che sta alla base dello stemma del presente di ज्ञा, può essere spiegata o mediante una serie di ablaut -ā (grado debole) -nā (grado forte), oppure mediante dissimilazione da *jñā-nā-ti.
-
-Alcune radici con vocale lunga riducono tale vocale prima del suffisso dello stemma del presente della nona classe:
+Alcune radici con vocale lunga accorciano questa vocale davanti al suffisso della radice del presente della 9ª classe:
 
 Esempio:
 
@@ -59,8 +63,8 @@ Esempio:
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
-|**3. persona[[br]]Parasmaipada**|पुनाति[[br]](pu-nā-ti)|पुनन्ति[[br]](pu-n-anti)|
-|**3. persona[[br]]Ātmanepada**|पुनीते[[br]](pu-nī-te)|पुनते[[br]](pu-n-ate)|
+|**3ª Persona[[br]]Parasmaipada**|पुनाति[[br]](pu-nā-ti)|पुनन्ति[[br]](pu-n-anti)|
+|**3ª Persona[[br]]Ātmanepada**|पुनीते[[br]](pu-nī-te)|पुनते[[br]](pu-n-ate)|
 
 :::
 
@@ -72,74 +76,75 @@ Esempio:
 क्रीणन्त् (krī + n + ant) ; fem.: क्रीणती (krī + n + at + ī)
 :::
 
-## 30.2. Uso dell’ottativo (लिङ्)
+## 30.2. Uso dell'ottativo (लिङ्)
 
-L’ottativo è impiegato:
+L'ottativo è usato:
 
 ::: grammar-box
-**1. per esprimere**
+**1. per indicare**
 
 *   **un desiderio**
 *   **una richiesta**
 *   **un ordine attenuato**
 
-**(in questo caso l’ottativo - लिङ् - si sovrappone all’imperativo - लोट्)**
+**(in questo caso l'ottativo - लिङ् - si sovrappone all'imperativo - लोट्)**
 :::
 
 Esempio:
 
 ::: indent
-दासो ग्राममागच्छेत् = "Il servo possa entrare nel villaggio"
+दासो ग्राममागच्छेत् = "Lo schiavo venga al villaggio"
 :::
 
 ::: grammar-box
-**2. Quando si vuole presentare qualcosa come**
+**2. Quando qualcosa viene presentata come**
 
 *   **possibile**
 *   **probabile**
-*   **presunto**
+*   **presumibile**
 
+**viene espressa.**
 :::
 
 Esempio:
 
 ::: indent
-ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात् = "Se uscisse dal villaggio, non udrebbe il maestro"
+ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात् = "Se uscisse dal villaggio, il maestro non lo sentirebbe"
 :::
 
 ::: grammar-box
-**3. Le proposizioni relative con l’ottativo hanno talvolta il significato: "Se qualcuno ..."**
+**3. Le proposizioni relative con l'ottativo hanno talvolta il significato: "Se qualcuno ..."**
 :::
 
 Esempio:
 
 ::: indent
-यो नृतं वदेत्स नरकं पतेत् = "Se qualcuno dicesse la menzogna, cadrebbe nell’inferno = Se qualcuno dice la menzogna, cade nell’inferno"
+यो नृतं वदेत्स नरकं पतेत् = "Se qualcuno dicesse la menzogna, cadrebbe nell'inferno = Se qualcuno dice la menzogna, cade nell'inferno"
 :::
 
 ## 30.3. Desinenze secondarie della terza persona singolare e plurale
 
-L’ottativo (लिङ्), l’imperfetto (लङ्), l’aoristo (लुङ्), il precativo (आशिर्लिङ्) e il condizionale presentano le cosiddette desinenze secondarie:
+L'ottativo (लिङ्), l'imperfetto (लङ्), l'aoristo (लुङ्), il precativo (आशिर्लिङ्) e il condizionale hanno le cosiddette desinenze secondarie:
 
 ::: grammar-box
 
-| |Terza persona singolare|Terza persona plurale|
+| |3. persona singolare|3. persona plurale|
 | :--- | :--- | :--- |
-|**Parasmaipada**|**-t**|Classi atematiche: **-an** o **-ur**[[br]]Ottativo: **-ur**|
-|**Ātmanepada**|**-ta**|Classi atematiche: **-ata** (da *nta)[[br]]Ottativo: **-ran**|
+|**Parasmaipada**|**-t**|classi atematiche: **-an** o **-ur**[[br]]Ottativo: **-ur**|
+|**Ātmanepada**|**-ta**|classi atematiche: **-ata** (da *nta)[[br]]Ottativo: **-ran**|
 
 :::
 
-## 30.4. Formazione dell'Optativo del Presente (लिङ्)
+## 30.4. Formazione dell'ottativo presente (लिङ्)
 
 ### 30.4.1. Classi tematiche del presente
 
 ::: grammar-box
-**Davanti a desinenze inizianti per consonante:**
+**prima di desinenze con iniziale consonantica:**
 
-**Stema del presente + -i- (che si fonde con l’-a- in -e-) + desinenze secondarie**
+**Stema del presente + -i- (che si fonde con -a- in -e-) + desinenze secondarie**
 
-**Davanti a desinenze inizianti per vocale:**
+**prima di desinenze con iniziale vocalica:**
 
 **Stema del presente + -i- (» -e-) + -y- + desinenza secondaria**
 :::
@@ -194,12 +199,12 @@ Esempi:
 
 :::
 
-### 30.4.2. Classi di presente atematico
+### 30.4.2. Classi di presente atematiche
 
 ::: grammar-box
 **Parasmaipada:**
 
-**radice debole del presente + -yā- (davanti a -ur: -y-) + desinenza secondaria**
+**radice debole del presente + -yā- (prima di -ur: -y-) + desinenza secondaria**
 
 **Ātmanepada:**
 
@@ -208,39 +213,39 @@ Esempi:
 
 Esempi:
 
-2ª classe di presente:
+2\. Classe di presente:
 
 द्विष्
 ::: grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
-|**3ª persona[[br]]Parasmaipada**|द्विष्यात्[[br]](dviṣ-yā-t)|द्विष्युर्[[br]](dviṣ-y-ur)|
-|**3ª persona[[br]]Ātmanepada**|द्विषीत[[br]](dviṣ-ī-ta)|द्विषीरन्[[br]](dviṣ-ī-ran)|
+|**3. Persona[[br]]Parasmaipada**|द्विष्यात्[[br]](dviṣ-yā-t)|द्विष्युर्[[br]](dviṣ-y-ur)|
+|**3. Persona[[br]]Ātmanepada**|द्विषीत[[br]](dviṣ-ī-ta)|द्विषीरन्[[br]](dviṣ-ī-ran)|
 
 :::
 
-5ª classe di presente
+5\. Classe di presente
 
 सु
 ::: grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
-|**3ª persona[[br]]Parasmaipada**|सुनुयात्[[br]](sunu-yā-t)|सुनुयुर्[[br]](sunu-y-ur)|
-|**3ª persona[[br]]Ātmanepada**|सुन्वीत[[br]](sunu + ī + ta)|सुन्वीरन्[[br]](sunu + ī + ran)|
+|**3. Persona[[br]]Parasmaipada**|सुनुयात्[[br]](sunu-yā-t)|सुनुयुर्[[br]](sunu-y-ur)|
+|**3. Persona[[br]]Ātmanepada**|सुन्वीत[[br]](sunu + ī + ta)|सुन्वीरन्[[br]](sunu + ī + ran)|
 
 :::
 
-8ª classe di presente
+8\. Classe di presente
 
 तन्
 ::: grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
-|**3ª persona[[br]]Parasmaipada**|तनुयात्[[br]](tanu-yā-t)|तनुयुर्[[br]](tanu-y-ur)|
-|**3ª persona[[br]]Ātmanepada**|तन्वीत[[br]](tanu + ī + ta)|तन्वीरन्[[br]](tanu + ī + ran)|
+|**3. Persona[[br]]Parasmaipada**|तनुयात्[[br]](tanu-yā-t)|तनुयुर्[[br]](tanu-y-ur)|
+|**3. Persona[[br]]Ātmanepada**|तन्वीत[[br]](tanu + ī + ta)|तन्वीरन्[[br]](tanu + ī + ran)|
 
 :::
 
@@ -250,8 +255,8 @@ Esempi:
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
-|**3ª persona[[br]]Parasmaipada**|कुर्यात्|कुर्युर्|
-|**3ª persona[[br]]Ātmanepada**|कुर्वीत|कुर्वीरन्|
+|**3. Persona[[br]]Parasmaipada**|कुर्यात्|कुर्युर्|
+|**3. Persona[[br]]Ātmanepada**|कुर्वीत|कुर्वीरन्|
 
 :::
 
@@ -259,18 +264,19 @@ Esempi:
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
-|**3ª persona Parasmaipada**|क्रीणीयात्[[br]](krīṇī-yā-t)|क्रीणीयुर्[[br]](krīṇī-y-ur)|
-|**3ª persona Ātmanepada**|क्रीणीत[[br]](krīṇ-ī-ta)|क्रीणीरन्[[br]](krīṇ-ī-ran)|
+|**3. Persona Parasmaipada**|क्रीणीयात्[[br]](krīṇī-yā-t)|क्रीणीयुर्[[br]](krīṇī-y-ur)|
+|**3. Persona Ātmanepada**|क्रीणीत[[br]](krīṇ-ī-ta)|क्रीणीरन्[[br]](krīṇ-ī-ran)|
 
 :::
 
-## 30.5. Sandhi della -r finale
+## 30.5. Sandhi di -r finale
 
 ::: grammar-box
-**Ad eccezione della -ar, le regole di Sandhi per la -r finale sono le stesse della -s finale.**
+**Per -r finale, eccetto per -ar, valgono le stesse regole di Sandhi come per -s finale.**
 
-**-ar davanti a suoni sonori rimane -ar, ma davanti a r- la -r cade e la -a- viene sostituita da -ā-.**
+**-ar davanti a suoni sonori rimane -ar, davanti a r- invece la -r cade e la -a- viene sostituita da -ā-.**
 :::
+
 
 Esempi:
 
@@ -282,7 +288,7 @@ Esempi:
 पुनर् + रोदिति » पुना रोदिति
 :::
 
-## 30.6. Glossario
+## 30.6. Elenco di parole
 
 क्री 9U क्रीणाति : comprare
 
@@ -296,13 +302,14 @@ Inf. क्रेतुम्
 क्री + वि 9Ā विक्रीणीते : vendere
 
 ::: indent
-Absol. विक्रीय
+Assol. विक्रीय
 :::
 
 ::: media
 ![](/images/lekt3001.jpg)
 Fig.: क्रीणन्ति विक्रीणते च
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3001))
+Bundi = बुन्दी, Rajasthan = राजस्थान
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3001))
 :::
 
 ज्ञा 9U जानाति : conoscere, riconoscere, sapere, comprendere
@@ -310,22 +317,23 @@ Fig.: क्रीणन्ति विक्रीणते च
 ::: indent
 Fut. ज्ञास्यति  
 Pass. ज्ञायते  
-Kaus. ज्ञापयति  
-Kaus. PPP ज्ञप्त / ज्ञापित  
+Caus. ज्ञापयति  
+Caus. PPP ज्ञप्त / ज्ञापित  
 PPP ज्ञात  
 Inf. ज्ञातुम्
 
-da ciò:
+di cui:
 
 ज्ञाति m.: (consanguineo) parente (i parenti sono coloro che si conoscono!)
 
-ज्ञान n.: conoscenza, sapere, cognizione (in particolare delle "verità superiori" nella religione e nella filosofia)
+ज्ञान n.: conoscenza, sapere, riconoscimento (spec. delle "verità" più elevate in religione e filosofia)
 :::
 
 ::: media
 ![](/images/lekt3002.jpg)
 Fig.: ज्ञातयः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3002))
+Darewadi, Distretto di Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3002))
 :::
 
 पू 9U पुनाति : purificare
@@ -333,7 +341,7 @@ Fig.: ज्ञातयः
 ::: indent
 Fut. पविष्यति  
 Pass. पूयते  
-Kaus. पावयति  
+Caus. पावयति  
 PPP पूत  
 Inf. पवितुम्
 :::
@@ -341,7 +349,7 @@ Inf. पवितुम्
 ::: media
 ![](/images/lekt3003.jpg)
 Fig.: श्रोत्राणि पुनाति
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3003))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3003))
 :::
 
 अश् 9P अश्नाति : mangiare, consumare
@@ -349,7 +357,7 @@ Fig.: श्रोत्राणि पुनाति
 ::: indent
 Fut. अशिष्यति  
 Pass. अश्यते  
-Kaus. आशयति  
+Caus. आशयति  
 PPP अशित  
 Inf. अशितुम्
 :::
@@ -357,18 +365,19 @@ Inf. अशितुम्
 ::: media
 ![](/images/lekt3005.jpg)
 Fig.: अश्नीयात्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3005))
+थाली, Sud dell'India
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3005))
 :::
 
-प्रिय ३: amato, amante, amichevole
+प्रिय ३: amabile, amante, amichevole
 
 ::: media
 ![](/images/lekt3004.jpg)
 Fig.: प्रिया
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3004))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3004))
 :::
 
-चेत् Congiunzione: se; a patto che (non si trova mai all'inizio di una frase)
+चेत् Congiunzione: se; a patto che (non sta mai all'inizio di una frase)
 
 ::: indent
 न चेत् : se non
@@ -377,7 +386,7 @@ Fig.: प्रिया
 यदि Congiunzione: se
 
 ::: indent
-यद्यपि : sebbene, anche se, benché
+यद्यपि : sebbene, anche se, quantunque
 
 यद्येवम् : se è così, in queste circostanze
 :::
@@ -387,7 +396,7 @@ Fig.: प्रिया
 ::: indent
 पुनः पुनर् : sempre di nuovo
 
-da ciò:
+di cui:
 
 पुनर्भव m.: rinascita
 :::
@@ -395,7 +404,7 @@ da ciò:
 ::: media
 ![](/images/lekt2904.jpg)
 Fig.: पुनर्भवः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2904))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2904))
 :::
 
 जीव् 1P जीवति : vivere
@@ -403,20 +412,20 @@ Fig.: पुनर्भवः
 ::: indent
 Fut. जीविष्यति  
 Pass. जीव्यते  
-Kaus. जीवयति  
+Caus. जीवयति  
 PPP जीवित : vivente  
 Inf. जीवितुम्
 
-da ciò:
+di cui:
 
 जीव m./n.: vita, anima individuale
 :::
 
-सनातन ३ fem.: सनातनी : eterno, imperituro, costante
+सनातन ३ fem.: सनातनी : eterno, imperituro, stabile
 
-## 30.7. Esercizio
+## 30.7. Esercitazione
 
-A) Trasformare le seguenti forme verbali nelle corrispondenti forme ottative, concordi in persona, numero e genere verbale:
+A) Trasformare le seguenti forme verbali nelle corrispondenti forme ottative in persona, numero e genere verbale:
 
 1.  ह्रियते
 2.  ध्नन्ति
@@ -484,7 +493,7 @@ A) Trasformare le seguenti forme verbali nelle corrispondenti forme ottative, co
 64.  अदन्ति
 65.  अध्यापयन्ति
 
-B) Tradurre le seguenti frasi e risolvere i composti (samāsa) in sanscrito:
+B) Tradurre le seguenti frasi e risolvere le composti in sanscrito:
 
 जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥
 
@@ -507,7 +516,7 @@ B) Tradurre le seguenti frasi e risolvere i composti (samāsa) in sanscrito:
 
 ## 30.8. Esercizio di ripasso sulla morfologia
 
-Determinare e tradurre le seguenti forme lessicali:
+Determinare e tradurre le seguenti forme verbali:
 
 1.  भारे
 2.  अध्ययनम्
@@ -552,18 +561,10 @@ Determinare e tradurre le seguenti forme lessicali:
 
 ::: deleteme-box
 
-### Fonti
-
-**lekt3001:** Bundi = बुन्दी, Rajasthan = राजस्थान [Fonte dell'immagine: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accesso effettuato il 21-12-2008. -- Licenza Creative Commons (Attribuzione, Non commerciale, Nessuna opera derivata)]
-
-**lekt3002:** Darewadi, Distretto di Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र [Fonte dell'immagine: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accesso effettuato il 21-12-2008. -- Licenza Creative Commons (Attribuzione, Non commerciale, Condivisione allo stesso modo)]
-
-**lekt3003:** [Fonte dell'immagine: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Accesso effettuato il 21-12-2008. -- Licenza Creative Commons (Attribuzione, Condivisione allo stesso modo)]
-
-**lekt3005:** थाली, Sud dell'India [Fonte dell'immagine: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Accesso effettuato il 21-12-2008. -- Licenza Creative Commons (Attribuzione, Non commerciale, Condivisione allo stesso modo)]
-
-**lekt3004:** [Fonte dell'immagine: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Accesso effettuato il 21-12-2008. -- Licenza Creative Commons (Attribuzione, Condivisione allo stesso modo)]
-
+**lekt3001:** Bundi = बुन्दी, Rajasthan = राजस्थान [Fonte dell'immagine: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accesso il 2008-12-21. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
+**lekt3002:** Darewadi, Distretto di Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र [Fonte dell'immagine: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accesso il 2008-12-21. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
+**lekt3003:** [Fonte dell'immagine: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Accesso il 2008-12-21. -- Licenza Creative Commons (Attribuzione, share alike)]
+**lekt3005:** थाली, Sud dell'India [Fonte dell'immagine: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Accesso il 2008-12-21. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
+**lekt3004:** [Fonte dell'immagine: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Accesso il 2008-12-21. -- Licenza Creative Commons (Attribuzione, share alike)]
 **lekt2904:** [Fonte dell'immagine: Wikipedia / Copyright di Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-
 :::

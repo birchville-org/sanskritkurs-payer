@@ -17,8 +17,9 @@ last_reconstructed: 2026-05-21
 
 ::: media
 ![](/images/lekt5007.jpg)
-Abb.: लोकस्योत्तमो गिरिः
-(Fuente de la imagen: [Detalles](/licenses#lekt5007))
+Fig.: लोकस्योत्तमो गिरिः
+Ilustr.: सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Monte Everest
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5007))
 :::
 
 :::: grammar-box
@@ -82,8 +83,9 @@ p. ej. सुतराम् (a partir de सु) "de mejor manera" (adverbial)
 
 ::: media
 ![](/images/lekt5006.jpg)
-Abb.: का पचतितमाम्
-(Fuente de la imagen: [Detalles](/licenses#lekt5006))
+Fig.: का पचतितमाम्
+Lisu = 傈僳族, अरुणचल प्रदेश
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5006))
 :::
 
 ## 50.2. Lista de vocabulario
@@ -101,7 +103,8 @@ Abb.: का पचतितमाम्
 ::: media
 ![](/images/lekt5001.jpg)
 Fig.: मन्त्री
-(Fuente de la imagen: [Detalles](/licenses#lekt5001))
+Kapil Sibal (1948 -), ministro de la Unión en el Ministerio de Ciencia y Tecnología y en el Ministerio de Ciencias de la Tierra (desde 2006)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5001))
 :::
 रहस् n.: misterio, soledad
 
@@ -145,7 +148,8 @@ Absol.-वृष्य
 ::: media
 ![](/images/lekt5002.jpg)
 Fig.: महामेघो वर्षिष्यति
-(Fuente de la imagen: [Detalles](/licenses#lekt5002))
+Llegada del monzón, Bangalore  बेंगळूरू
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5002))
 :::
 संयक् Adv.: correctamente, verdaderamente, de la manera apropiada; por completo, totalmente
 
@@ -154,7 +158,7 @@ Fig.: महामेघो वर्षिष्यति
 ::: media
 ![](/images/lekt5005.jpg)
 Fig.: आदित्यः
-(Fuente de la imagen: [Detalles](/licenses#lekt5005))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5005))
 :::
 सर्व 3: cada, todos
 
@@ -184,14 +188,15 @@ Declinación como यद् (excepción: Nom.Akk.sg.Neutrum)
 ::: media
 ![](/images/lekt5003.jpg)
 Fig.: कल्याणी
-(Fuente de la imagen: [Detalles](/licenses#lekt5003))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5003))
 :::
 कु- : como prefijo en compuestos: malo
 
 ::: media
 ![](/images/lekt5004.jpg)
 Fig.: कुनगरम्
-(Fuente de la imagen: [Detalles](/licenses#lekt5004))
+धारावी, मुंबई
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5004))
 :::
 चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : ver
 
@@ -218,7 +223,8 @@ A) Para repasar la declinación: el siguiente verso contiene todas las formas de
 ::: media
 ![](/images/lekt5008.jpg)
 Fig.: गुरुमेव भजे
-(Fuente de la imagen: [Detalles](/licenses#lekt5008))
+Ganeshpuri, a 80 km de Mumbai (मुंबई)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5008))
 :::
 
 B) Traduzca:
@@ -306,7 +312,6 @@ Explicaciones:
 
 ::: deleteme-box
 
-### Fuentes
 
 **lekt5007:** Ilustr.: सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Monte Everest [Fuente de la imagen: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Acceso el 12-01-2009. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
 

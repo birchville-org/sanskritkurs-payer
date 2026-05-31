@@ -1,85 +1,92 @@
+---
+title: Урок 58
+subtitle: "Окончанията за двойствено число (द्विवचनम्)"
+lesson_id: 58
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 58
 
-# Lektion 58
-
-## 58.1. Die Primärendungen des Двойствено число (द्विवचनम्)
-
- **परस्मैपदम्**आत्मनेपदम्  thematischathematisch**1. तृतीयः**-vas-vahe**2. मध्यमः**-thas-īthe-āthe**3. प्रथमः**-tas-īte-āte &lt;!-- TODO: Fallback translation --&gt;
-
-## 58.2. Der Двойствено число thematischer Сегашно времеklassen: Indikativ Сегашно време (लट्)
-
-Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
-
-### 58.2.1. Erste Сегашно времеklasse (भ्वादिगणः)
-
-Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
+## 58.1. Основните окончания за двойствено число (द्विवचनम्)
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | भवावस्   | | <!-- TODO: Fallback translation -->
-| "wir beide werden" | &lt;भवावहे&gt; | | | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | भवथस्   | | <!-- TODO: Fallback translation -->
-| "ihr beide werdet | &lt;भवेथे&gt;   | | | <!-- TODO: Fallback translation -->
-| bhav-a + īthe | | | | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | भवतस्   | | <!-- TODO: Fallback translation -->
-| "sie beide werden" | &lt;भवेते&gt; | | | <!-- TODO: Fallback translation -->
+|   | **परस्मैपदम्** | **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: |
+|   |   | тематични | атематични |
+| **1. तृतीयः** | -vas | -vahe ||
+| **2. मध्यमः** | -thas | -***ī***the | -***ā***the |
+| **3. प्रथमः** | -tas | -***ī***te | -***ā***te |
 :::
 
-### 58.2.2. Vierte Сегашно времеklasse (दिवादिगणः)
+## 58.2. Двойствено число на тематичните класове на настоящето време: Индикатив настоящо време (लट्)
 
-Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
+Преди -vas и -vahe тематичният гласен звук -a- се заменя с -ā-.
 
-::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | नृत्यावस् | नृत्यावहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | नृत्यथस् | नृत्येथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | नृत्यतस् | नृत्येते् | <!-- TODO: Fallback translation -->
+### 58.2.1. Първи клас на настоящето време (भ्वादिगणः)
+
+भू 1-во лице ед. число "бъда, съм"
+
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | भवावस्[[br]]"ние двамата ставаме" | &lt;भवावहे&gt; |
+| **2. मध्यमः** | भवथस्[[br]]"вие двамата ставате" | &lt;भवेथे&gt;[[br]]bhav-a + īthe |
+| **3. प्रथमः** | भवतस्[[br]]"те двамата стават" | &lt;भवेते&gt; |
+
+### 58.2.2. Четвърти клас на настоящето време (दिवादिगणः)
+
+नृत् 4P "танцувам"
+
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | नृत्यावस् | नृत्यावहे |
+| **2. मध्यमः** | नृत्यथस् | नृत्येथे |
+| **3. प्रथमः** | नृत्यतस् | नृत्येते् |
 
 ::: media
-![]/images/lekt5802.jpg
-Abb.: नृत्यतः
-(Bildquelle: [Details](/licenses#lekt5802)) <!-- TODO: Fallback translation -->
-:::
+![](/images/lekt5802.jpg)
+Ил.: नृत्यतः
+ओडिसी
+(Източник на изображението: [Подробности](/bg/licenses#lekt5802))
 :::
 
-### 58.2.3. Sechste Сегашно времеklasse (तुदादिगणः)
+### 58.2.3. Шеста класa на настоящето време (तुदादिगणः)
 
-Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
+तुद् 6U "блъскам, удрям"
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | तुदावस् | तुदावहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | तुदथस् | तुदेथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | तुदतस् | तुदेते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तुदावस् | तुदावहे |
+| 2\. मध्यमः | तुदथस् | तुदेथे |
+| 3\. प्रथमः | तुदतस् | तुदेते |
 :::
 
-### 58.2.4. Zehnte Сегашно времеklasse (चुरादिगणः) und Kausative (णिजन्त)
+### 58.2.4. Десети клас на сегашното време (चुरादिगणः) и каузативите (णिजन्त)
 
-Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
+चुर् 10U "крада"
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | चोरयावस् | चोरयावहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | चोरयथस् | चोरयेथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | चोरयतस् | चोरयेते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | चोरयावस् | चोरयावहे |
+| 2\. मध्यमः | चोरयथस् | चोरयेथे |
+| 3\. प्रथमः | चोरयतस् | चोरयेते |
 :::
 
 ::: media
-![]/images/lekt5803.jpg
-Abb.: वानरौ रथाद्भाण्डानि चोरयतः
-(Bildquelle: [Details](/licenses#lekt5803)) <!-- TODO: Fallback translation -->
+![](/images/lekt5803.jpg)
+Ил.: वानरौ रथाद्भाण्डानि चोरयतः
+Национален парк Бандипур -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
+(Източник на изображението: [Подробности](/bg/licenses#lekt5803))
 :::
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/362253669/](http://www.flickr.com/photos/mattlogelin/362253669/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\] <!-- TODO: Fallback translation -->
 
-## 58.3. Der Двойствено число des einfachen Бъдеще времеs (ऌत्)
+## 58.3. Двойствено число на простото бъдеще време (ऌत्)
 
 ### 58.3.1. अनिट्
 
-दा 3U "geben" &lt;!-- TODO: Fallback translation --&gt;
+दा 3U „давам“
 
 ::: grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
@@ -91,7 +98,7 @@ Abb.: वानरौ रथाद्भाण्डानि चोरयतः
 
 ### 58.3.2. सेट्
 
-भू 1P "werden, sein" &lt;!-- TODO: Fallback translation --&gt;
+भू 1P „становя се, бъда“
 
 ::: grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
@@ -101,9 +108,9 @@ Abb.: वानरौ रथाद्भाण्डानि चोरयतः
 | 3\. प्रथमः | भविष्यतस् | भविष्येते |
 :::
 
-## 58.4. Der Двойствено число Passiv (Suffix -यक्)
+## 58.4. Двоен страдателен залог (суфикс -यक्)
 
-तुद् 6U "stoßen, schlagen" &lt;!-- TODO: Fallback translation --&gt;
+तुद् 6U „блъскам, удрям“
 
 ::: grammar-box
 | 1\. तृतीयः | तुद्यवाहे |
@@ -112,277 +119,299 @@ Abb.: वानरौ रथाद्भाण्डानि चोरयतः
 | 3\. प्रथमः | तुद्येते |
 :::
 
-## 58.5. Der Двойствено число athematischer Сегашно времеklassen: Indikativ Сегашно време (लट्)
+## 58.5. Дуал на безгласните класове на настоящето: Индикатив настояще (लट्)
 
-### 58.5.1. Zweite Сегашно времеklasse (अदादिगणः)
+### 58.5.1. Второ присентно класо (अदादिगणः)
 
-द्विष् 2U "hassen" <!-- TODO: Fallback translation -->
+द्विष् 2U „мразя“
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | द्विष्वस् | द्विष्वहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | द्विष्ठस् | द्विषाथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | द्विष्टस् | द्विषाते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | द्विष्वस् | द्विष्वहे |
+| 2\. मध्यमः | द्विष्ठस् | द्विषाथे |
+| 3\. प्रथमः | द्विष्टस् | द्विषाते |
 :::
 
-दुह् 2U "melken" <!-- TODO: Fallback translation -->
+दुह् 2U „доене“
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | दुह्वस् | दुह्वहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | दुग्धस् | दुहाथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | दुग्धस् | दुहाते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दुह्वस् | दुह्वहे |
+| 2\. मध्यमः | ***दुग्धस्*** | दुहाथे |
+| 3\. प्रथमः | ***दुग्धस्*** | दुहाते |
 :::
 
-इ 2P "gehen" <!-- TODO: Fallback translation -->
+इ 2P „отивам“
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | इवस् | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | इथस् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | इतस् | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | इवस् |
+| 2\. मध्यमः | इथस् |
+| 3\. प्रथमः | इतस् |
 :::
 
 ::: media
-![]/images/lekt5806.jpg
-Abb.: उष्ट्रौ मरावितः
-(Bildquelle: [Details](/licenses#lekt5806)) <!-- TODO: Fallback translation -->
+![](/images/lekt5806.jpg)
+Ил.: उष्ट्रौ मरावितः
+(Източник на изображението: [Подробности](/bg/licenses#lekt5806))
 :::
-इ + अधि 2Ā "studieren" <!-- TODO: Fallback translation -->
+इ + अधि 2Ā „изучавам“
 
 ::: grammar-box
-|   | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | अधीवहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | अधीयाथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | अधीयते | <!-- TODO: Fallback translation -->
+|   | आत्मनेपदम् |
+| --- | --- |
+| 1\. तृतीयः | अधीवहे |
+| 2\. मध्यमः | अधी***या***थे |
+| 3\. प्रथमः | अधी***य***ते |
 :::
 
 ::: media
-![]/images/lekt5804.jpg
-Abb.: कन्ये अधीयते
-(Bildquelle: [Details](/licenses#lekt5804)) <!-- TODO: Fallback translation -->
-:::
-\[Bildquelle: One Laptop per Child. -- [http://www.flickr.com/photos/olpc/3080618518/](http://www.flickr.com/photos/olpc/3080618518/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\] <!-- TODO: Fallback translation -->
-
-हन् 2P "erschlagen" <!-- TODO: Fallback translation -->
-
-::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | हन्वस् | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | हथस्   | <!-- TODO: Fallback translation -->
-| \*hn-thas | | | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | हतस् | <!-- TODO: Fallback translation -->
+![](/images/lekt5804.jpg)
+Ил.: कन्ये अधीयते
+(Източник на изображението: [Подробности](/bg/licenses#lekt5804))
 :::
 
-अस् 2P "sein" <!-- TODO: Fallback translation -->
+
+हन् 2P „убивам“
 
 ::: grammar-box
-|   | परस्मैपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | स्वस्   | <!-- TODO: Fallback translation -->
-| s-vas | | | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | स्थस् | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | स्तस् | <!-- TODO: Fallback translation -->
+|   | **परस्मैपदम्** |
+| :--- | :---: |
+| **1. तृतीयः** | हन्वस् |
+| **2. मध्यमः** | ***हथस्***[[br]]*hn-thas |
+| **3. प्रथमः** | ***हतस्*** |
+:::
+
+अस् 2P „съм“
+
+::: grammar-box
+|   | **परस्मैपदम्** |
+| :--- | :---: |
+| **1. तृतीयः** | ***स्वस्***[[br]]s-vas |
+| **2. मध्यमः** | ***स्थस्*** |
+| **3. प्रथमः** | ***स्तस्*** |
 :::
 
 ::: media
-![]/images/lekt5805.jpg
-Abb.: भगिन्यौ स्वः
-(Bildquelle: [Details](/licenses#lekt5805)) <!-- TODO: Fallback translation -->
-:::
-\[Bildquelle: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/332951412/](http://www.flickr.com/photos/saibotregeel/332951412/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)\]  <!-- TODO: Fallback translation -->
-
-### 58.5.2. Dritte Сегашно времеklasse (जुहोत्यादिगणः)
-
-हु 3P "ins Opferfeuer gießen" <!-- TODO: Fallback translation -->
-
-::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | जुहुवस् | &lt;जुहुवहे&gt; | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | जुहुथस् | &lt;जुह्वाथे&gt; | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | जुहुतस् | &lt;जुह्वाते&gt; | <!-- TODO: Fallback translation -->
+![](/images/lekt5805.jpg)
+Ил.: भगिन्यौ स्वः
+(Източник на изображението: [Подробности](/bg/licenses#lekt5805))
 :::
 
-धा 3U "setzen, legen, stellen" <!-- TODO: Fallback translation -->
+### 58.5.2. Трета клас на настоящето време (जुहोत्यादिगणः)
+
+हु 3P „наливане в огъня на жертвоприношението“
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | दध्वस् | दध्वहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | धत्थस् | दधाथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | धत्तस् | दधाते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | जुहुवस् | &lt;जुहुवहे&gt; |
+| 2\. मध्यमः | जुहुथस् | &lt;जुह्वाथे&gt; |
+| 3\. प्रथमः | जुहुतस् | &lt;जुह्वाते&gt; |
 :::
 
-### 58.5.3. Fünfte Сегашно времеklasse (स्वादिगणः)
-
-सु 5U "auspressen" <!-- TODO: Fallback translation -->
+धा 3U „поставяне, поставям, поставям“
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | सुनुवस् / सुन्वस् | सुनुवहे / सुन्वहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | सुनुथस् | सुन्वाथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | सुनुतस् | सुन्वाते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दध्वस् | दध्वहे |
+| 2\. मध्यमः | धत्थस् | दधाथे |
+| 3\. प्रथमः | धत्तस् | दधाते |
+:::
+
+### 58.5.3. Петий клас на присенса (स्वादिगणः)
+
+सु 5U „изстисквам“
+
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | सुनुवस् / सुन्वस् | सुनुवहे / सुन्वहे |
+| **2. मध्यमः** | सुनुथस् | सुन्वाथे |
+| **3. प्रथमः** | सुनुतस् | सुन्वाते |
 
 ::: media
-![]/images/lekt5807.jpg
-Abb.: शर्कराम्बु सुनुतः
-(Bildquelle: [Details](/licenses#lekt5807)) <!-- TODO: Fallback translation -->
-:::
-\[Bildquelle: FredMikeRudy. -- [http://www.flickr.com/photos/fredmikerudy/2090687162/](http://www.flickr.com/photos/fredmikerudy/2090687162/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)\] <!-- TODO: Fallback translation -->
+![](/images/lekt5807.jpg)
+Ил.: शर्कराम्बु सुनुतः
+पुणेनगरे
+(Източник на изображението: [Подробности](/bg/licenses#lekt5807))
 :::
 
-### 58.5.4. Achte Сегашно времеklasse (तनादिगणः)
+### 58.5.4. Осма класa на присенса (तनादिगणः)
 
-तन् 8U "aufspannen" <!-- TODO: Fallback translation -->
+तन् 8U "напрегнa"
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | तनुवस् / तन्वस् | तनुवहे / तन्वहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | तनुथस् | तन्वाथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | तनुतस् | तन्वाते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तनुवस् / तन्वस् | तनुवहे / तन्वहे |
+| 2\. मध्यमः | तनुथस् | तन्वाथे |
+| 3\. प्रथमः | तनुतस् | तन्वाते |
 :::
 
-कृ 8U "tun, machen" <!-- TODO: Fallback translation -->
+कृ 8U "направи, направи"
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | कुर्वस् | कुर्वहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | कुरुथस् | कुर्वाथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | कुरुतस् | कुर्वाते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | कुर्वस् | कुर्वहे |
+| 2\. मध्यमः | कुरुथस् | कुर्वाथे |
+| 3\. प्रथमः | कुरुतस् | कुर्वाते |
 :::
 
-### 58.5.5. Siebte Сегашно времеklasse (रुधादिगणः)
+### 58.5.5. Седма класа на настоящето време (रुधादिगणः)
 
-रुध् 7U "stoppen" <!-- TODO: Fallback translation -->
+रुध् 7U "спирам"
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | रुन्ध्वस् | रुन्ध्वहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | रुन्द्धस् | रुन्धाथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | रुन्द्धस् | रुन्धाते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | रुन्ध्वस् | रुन्ध्वहे |
+| 2\. मध्यमः | ***रुन्द्धस्*** | रुन्धाथे |
+| 3\. प्रथमः | रुन्द्धस् | रुन्धाते |
 :::
 
-युज् 7U "anschirren" <!-- TODO: Fallback translation -->
+युज् 7U "препрягам"
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | युञ्ज्वस् | युञ्ज्वहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | युङ्क्थस् | युञ्जाथे | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | युङ्क्तस् | युञ्जाते | <!-- TODO: Fallback translation -->
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | युञ्ज्वस् | युञ्ज्वहे |
+| 2\. मध्यमः | युङ्क्थस् | युञ्जाथे |
+| 3\. प्रथमः | युङ्क्तस् | युञ्जाते |
 :::
 
-### 58.5.6. Neunte Сегашно времеklasse (क्र्यादिगणः)
+### 58.5.6. Девети клас на настоящето време (क्र्यादिगणः)
 
-क्री 9U "kaufen" <!-- TODO: Fallback translation -->
+क्री 9U „купува“
 
-::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. तृतीयः | क्रीणीवस् | क्रीणीवहे | <!-- TODO: Fallback translation -->
-| 2\. मध्यमः | क्रीणीथस् | क्रीणाथे   | <!-- TODO: Fallback translation -->
-| krī-ṇ-āthe | | | | <!-- TODO: Fallback translation -->
-| 3\. प्रथमः | क्रीणीतस् | क्रीणाते | <!-- TODO: Fallback translation -->
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | क्रीणीवस् | क्रीणीवहे |
+| **2. मध्यमः** | क्रीणीथस् | क्रीणाथे[[br]]krī-ṇ-āthe |
+| **3. प्रथमः** | क्रीणीतस् | क्रीणाते |
 
 ::: media
-![]/images/lekt5801.jpg
-Abb.: स्त्रियौ शाकं क्रीणाते
-(Bildquelle: [Details](/licenses#lekt5801)) <!-- TODO: Fallback translation -->
+![](/images/lekt5801.jpg)
+Ил.: स्त्रियौ शाकं क्रीणाते
+(Източник на изображението: [Подробности](/bg/licenses#lekt5801))
 :::
+
+## 58.6. Аорист 5: iṣ-аорист
+
+::: grammar-box
+**iṣ-аористът се образува от всички seṭ-корени, за които не се учи изрично само друга форма на аориста.**
+
+**Образуване:**
+
+**Авгмент + корен + i + s + атематична вторична окончание**
+
+***!!!*** 2.l.ед. и 3.l.ед. произлизат от ***-***īs съответно -īt от ***!!!*** (Това е възникнало от прехвърляне на имперфекта от корени от типа अब्रवीत्; следователно това са всъщност форми на коренов аорист).
 :::
 
-## 58.6. Aorist 5: iṣ-Aorist
+Следователно суфиксът за образуване на основа + окончанията на iṣ-аорист са:
 
-Der iṣ-Aorist wird von allen seṭ-Wurzeln gebildet, für die nicht ausdrücklich ausschließlich eine andere Form des Aorist gelehrt wird. &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
 
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
+| **2. द्वितीयः** | ***-īs*** | **-iṣṭa** | **-iṣṭhās** | ***-***idhvam / [[br]]-iḍhvam[[br]](по избор според -h или полуглас) |
+| **3. प्रथमः** | ***-īt*** | **-iṣur** | **-iṣṭa** | **-iṣata** |
 
-Augment + Wurzel + i + s + athematische Sekundärendung &lt;!-- TODO: Fallback translation --&gt;
+:::
 
-!!! Die 2.sg.P bzw. 3.sg.P gehen auf -īs bzw. -īt aus !!! (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs अब्रवीत्; es sind also eigentlich Wurzelaorist-Formen). &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Форма на корена:**
 
-Stammbildungssuffix + Endungen  des iṣ-Aorist lauten also: &lt;!-- TODO: Fallback translation --&gt;
+*   **Корени с кратък гласен пред прост съгласен: силна степен в P и Ā**  
+    Примери:  
+    बुध् 1U: 1.l.ед. अबोधिषम्  
+    कॢप् 1Ā: 1.l.ед. अकल्पिषि
 
- परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः****-iṣam****-iṣma****-iṣi****-iṣmahi****2. द्वितीयः****-īs****-iṣṭa****-iṣṭhās****-idhvam / -iḍhvam **(wahlweise nach -h oder Halbvokal)**3. प्रथमः****-īt****-iṣur****-iṣṭa****-iṣata** &lt;!-- TODO: Fallback translation --&gt;
+*   **Корени с крайния гласен:**
+    *   **P: удължена степен**
+    *   **Ā: силна степен**
 
-Form der Wurzel: &lt;!-- TODO: Fallback translation --&gt;
+    Примери:  
+    पू 9U: 1.l.ед. अपाविषम् ; 1.l.ед. Ā अपविषि
 
-*   Коренn mit kurzem Vokal vor einfachem Konsonanten: Hochstufe im P und Ā   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiele:  
-    बुध् 1U: 1.sg.P अबोधिषम्  
-    कॢप् 1Ā: 1.sg.Ā अकल्पिषि   &lt;!-- TODO: Fallback translation --&gt;
+*   **Корени на -ar., -al както и वद् 1P „казвам“, व्रज् 1P „отивам си“: P: удължена степен**  
+    Примери:  
+    चर् 1P: 1.l.ед. अचारिषम्  
+    वद् 1P: 1.l.ед. अवादिषम्
 
-*   Коренn mit auslautendem Vokal: &lt;!-- TODO: Fallback translation --&gt;
+*   **Други корени от формата (съгласен-)съгласен-a-съгласен: в P по избор удължена степен (не важи за корени на -h, -m, -y както и някои други корени)**  
+    Пример:  
+    तन् 8U: 1.l.ед. अतनिषम् / अतानिषम्  
+    но:  
+    क्रम् 1U: 1.l.ед. अक्रमिषम्
+:::
 
-    *   P: Dehnstufe &lt;!-- TODO: Fallback translation --&gt;
-    *   Ā: Hochstufe &lt;!-- TODO: Fallback translation --&gt;
+Парадигми:
 
-    Beispiele:  
-    पू 9U: 1.sg.P अपाविषम् ; 1. sg.Ā अपविषि   &lt;!-- TODO: Fallback translation --&gt;
-
-*   Коренn auf -ar., -al sowie वद् 1P "sagen", व्रज् 1P "weggehen": P: Dehnstufe   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiele:  
-    चर् 1P: 1.sg.P अचारिषम्  
-    वद् 1P: 1.sg.P अवादिषम्   &lt;!-- TODO: Fallback translation --&gt;
-
-*   Andere Коренn der Form (Kons.-)Kons.-a-Kons.: im P wahlweise Dehnstufe (gilt nicht für Коренn auf -h, -m, -y sowie einige weitere Коренn)   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiel:  
-    तन् 8U: 1.sg.P अतनिषम् / अतानिषम्  
-    aber:  
-    क्रम् 1U: 1.sg.P अक्रमिषम् &lt;!-- TODO: Fallback translation --&gt;
-
-Paradigmen: &lt;!-- TODO: Fallback translation --&gt;
-
-पू 9U "reinigen" &lt;!-- TODO: Fallback translation --&gt;
+पू 9U „почиствам“
 
 ::: indent
-परस्मैपदम्आत्मनेपदम् एकवचनम्बहुवचनम्एकवचनम्बहुवचनम्**1. तृतीयः**अपाविषम्पाविष्मअपविषिअपविष्महि**2. द्वितीयः**अपावीस्अपाविष्टअपविष्ठास्अपविध्वम् / अपविढ्वम्**3. प्रथमः**अपावीत्अपाविषुर्अपविष्टपविषत
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अपाविषम् | पाविष्म | अपविषि | अपविष्महि |
+| **2. द्वितीयः** | अपावीस् | अपाविष्ट | अपविष्ठास् | अपविध्वम् / [[br]]अपविढ्वम् |
+| **3. प्रथमः** | अपावीत् | अपाविषुर् | अपविष्ट | पविषत |
 :::
 
-बुध् 1U  "erwachen, erkennen" &lt;!-- TODO: Fallback translation --&gt;
+बुध् 1U „събуждам се, разпознавам“
 
 ::: indent
-परस्मैपदम् एकवचनम्बहुवचनम्**1. तृतीयः**अबोधिषम्अबोधिष्म**2. द्वितीयः**अबोधीस्अबोधिष्ट**3. प्रथमः**अबोधीत्अबोधिषुर्
+|   | **परस्मैपदम्** ||
+| :--- | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अबोधिषम् | अबोधिष्म |
+| **2. द्वितीयः** | अबोधीस् | अबोधिष्ट |
+| **3. प्रथमः** | अबोधीत् | अबोधिषुर् |
 :::
 
-कॢप् 1Ā "passend sein" &lt;!-- TODO: Fallback translation --&gt;
+कॢप् 1Ā „подходящ съм“
 
 ::: indent
-आत्मनेपदम् एकवचनम्बहुवचनम्**1. तृतीयः**अकल्पिषिअकल्पिष्महि**2. द्वितीयः**अकल्पिष्ठास्अकल्पिध्वम्**3. प्रथमः**अकल्पिष्टअकल्पिषत
+|   | **आत्मनेपदम्** ||
+| :--- | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अकल्पिषि | अकल्पिष्महि |
+| **2. द्वितीयः** | अकल्पिष्ठास् | अकल्पिध्वम् |
+| **3. प्रथमः** | अकल्पिष्ट | अकल्पिषत |
 :::
 
-Besonderheiten: &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Особености:**
 
-1.  Bei einigen Коренn kann der Bindevokal -i- im आत्मनेपद durch -ī- ersetzt werden. Nach ग्रह् 9U "ergreifen" muss diese Ersetzung im P und Ā erfolgen:   &lt;!-- TODO: Fallback translation --&gt;
-    अग्रहीषम् , अग्रहीषि  
+1.  При някои корени свързващият гласен -i- в आत्मनेपद може да бъде заменен с -ī-. След ग्रह् 9U „хващам“ тази замяна трябва да се извърши в P и Ā:  
+    अग्र***ही***षम् , अग्र***ही***षि
 
-2.  Коренn der 8. Сегашно времеklasse auf -n (oder -ṇ) können in der 2.3.sg.Ā tiefstufig sein:   &lt;!-- TODO: Fallback translation --&gt;
-    तन् 8U: 2.sg.Ā अतनिष्ठास् / अतथस् (Wurzelaorist) ; 3. sg. Ā अतनिष्ट / अतत   &lt;!-- TODO: Fallback translation --&gt;
+2.  Корени от 8-тия клас на настоящето време на -n (или -ṇ) могат в 2.3.l.ед.Ā да бъдат в слаба степен:  
+    तन् 8U: 2.l.ед.Ā अतनिष्ठास् / अतथस् (коренов аорист) ; 3.l.ед. Ā अतनिष्ट / अतत
 
-3.  दीप् 4Ā, जन् 4Ā u.a. können statt der 3.sg. Ā auch die Form des Passivaorists annehmen:   &lt;!-- TODO: Fallback translation --&gt;
-    अदीपिष्ट / अदीपि ; अजनिष्ट / अजनि  
+3.  दीप् 4Ā, जन् 4Ā и др. могат да приемат формата на страдателен аорист вместо 3.l. Ā:  
+    अदीपिष्ट / अदीपि ; अजनिष्ट / अजनि
 
-4.  विज् 7P hat keinen Ablaut:   &lt;!-- TODO: Fallback translation --&gt;
+4.  विज् 7P няма аблаут:  
     अविजीत्
+:::
 
 ::: media
-![]/images/lekt5808.jpg
-Abb.: दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट / चादीपि ॥ &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5808.jpg)
+Илл.: दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥
+(Източник на изображението: [Подробности](/bg/licenses#lekt5808))
 :::
 
 ## 58.7. Упражнение
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Formen des i-Aorist: &lt;!-- TODO: Fallback translation --&gt;
+A) Определете и преведете без помощни средства следните форми и образувате съответните форми на i-аориста:
 
 1.  औहे
 2.  जाग्रति
@@ -404,7 +433,7 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie
 18.  ऐक्षध्वम्
 19.  अचेतः
 
-B) Übersetzen und bestimmen Sie folgende Formen: &lt;!-- TODO: Fallback translation --&gt;
+B) Преведете и определете следните форми:
 
 1.  अनेढ्वम्
 2.  एनयोः
@@ -448,16 +477,14 @@ B) Übersetzen und bestimmen Sie folgende Formen: &lt;!-- TODO: Fallback transla
 
 ::: deleteme-box
 
-### Източници
+**lekt5802:** ओडिसी [Източник на изображението: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Достъп на 2009-03-02. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Приписване)]
 
-**lekt5802:** ओडिसी [Bildquelle: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5803:** Национален парк Бандипур -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 
-**lekt5803:** Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ <!-- TODO: Fallback translation -->
+**lekt5806:** [Източник на изображението: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). --  Достъп на 2009-03-02. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, без комерсиална употреба, без обработка)]
 
-**lekt5806:** [Bildquelle: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). --  Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine Kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5807:** पुणेनगरे
 
-**lekt5807:** पुणेनगरे <!-- TODO: Fallback translation -->
-
-**lekt5801:** [Bildquelle: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5801:** [Източник на изображението: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Достъп на 2009-03-02. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, без комерсиална употреба, без обработка)]
 
 :::

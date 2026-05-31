@@ -1,6 +1,10 @@
 ---
+title: Lektion 55
+subtitle: "Der a-Aorist (Aorist mit Themavokal)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 55
@@ -90,11 +94,11 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 ::: media
 ![](/images/lekt5501.jpg)
 Abb.: अजीर्यमिति
+'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
 (Bildquelle: [Details](/licenses#lekt5501))
 :::
 
 ::: deleteme-box
-### Quellen
 
 **lekt5501:** 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618 [Bildquelle: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Zugriff am 2009-01-28. Gemeinfrei]
 

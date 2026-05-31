@@ -1,6 +1,10 @@
 ---
+title: Lesson 17
+subtitle: "Second present class (अदादि = अद् etc.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 17
@@ -306,7 +310,8 @@ from this:
 ::: media
 ![](/images/lekt1703.jpg)
 Fig.: घाताः
-(Image source: [Details](/licenses#lekt1703))
+Bangalore = ಬೆಂಗಳೂರು
+(Image source: [Details](/en/licenses#lekt1703))
 :::
 
 
@@ -321,7 +326,7 @@ from this:
 ::: media
 ![](/images/lekt1701.jpg)
 Fig.: योगासनम्
-(Image source: [Details](/licenses#lekt1701))
+(Image source: [Details](/en/licenses#lekt1701))
 :::
 
 
@@ -340,7 +345,7 @@ from this:
 ::: media
 ![](/images/lekt1702.jpg)
 Fig.: दोग्धि
-(Image source: [Details](/licenses#lekt1702))
+(Image source: [Details](/en/licenses#lekt1702))
 :::
  
 
@@ -433,7 +438,6 @@ Translate the following verb forms and provide the corresponding root:
 
 ::: deleteme-box
 
-### Sources
 
 **lekt1701:** [Image source: by tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, no derivatives)]
 

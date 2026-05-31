@@ -1,25 +1,25 @@
 ---
 layout: doc
-title: Impressum & Zitieren
+title: Відомості про видання та цитування
 ---
 
-# Impressum, Copyright & Zitierweise
+# Відомості про видання, авторські права та цитування
 
-*Der folgende Text wurde bei der Konvertierung aus den Lektions-Dateien ausgelagert, um den Lesefluss zu verbessern.*
+*Наступний текст було винесено з файлів уроків під час конвертації, щоб покращити читання.*
 
-## Zitierweise | cite as:
+## Цитування | cite as:
 **Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- Fassung von 2010. -- URL: http://www.payer.de/sanskritkurs/
 
-## Anlass
-Erstellt für die Lehrveranstaltungen 1980 - 1984
+## Привід
+Створено для навчальних курсів 1980 – 1984
 
-## Copyright
-Dieser Text steht der Allgemeinheit zur Verfügung. 
-Eine Verwertung in Publikationen, die über übliche Zitate hinausgeht, bedarf der ausdrücklichen Genehmigung des Verfassers.
+## Авторське право
+Цей текст є загальнодоступним.
+Його використання в публікаціях, що перевищує звичайні цитування, потребує прямої згоди автора.
 
-Dieser Text ist Teil der Abteilung Sanskrit von **Tüpfli's Global Village Library**.
+Цей текст є частиною розділу санскриту бібліотеки **Tüpfli's Global Village Library**.
 
 ---
 
-### Hinweis zu den Schriftzeichen
+### Примітка щодо написання
 Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

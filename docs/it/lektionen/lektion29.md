@@ -1,58 +1,62 @@
 ---
+title: Lezione 29
+subtitle: "Uso del Parasmaipada (परस्मैपद) e Ātmanepada (आत्मनेपद) nel Causativo"
 lesson_id: 29
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 29
 
-## 29.1. Uso del Parasmaipada e dell’Ātmanepada nel Causativo
+## 29.1. Uso del Parasmaipada (परस्मैपद) e Ātmanepada (आत्मनेपद) nel Causativo
+
 
 ::: grammar-box
-**Il Causativo è, con poche eccezioni, Ubhayapada**
+**Il Causativo è con poche eccezioni Ubhayapada (उभयपद)**
 :::
 
-Regole per l’uso dell’Ātmanepada nel Causativo:
 
 ::: grammar-box
-**Nel Causativo si usa l’Ātmanepada:**
-1. Quando il frutto dell’azione indotta va a vantaggio di chi induce:
+**Nel Causativo si usa l'Ātmanepada (आत्मनेपद):**
+
+**1. Quando il frutto dell'azione causata giova al causante:**
 :::
 
 Esempio:
 
-रामः कटं कारयते = "Rāma fa fare una stuoia per sé (nel proprio interesse)"
+रामः कटं कारयते = "Rāma fa fare un tappetino per sé (per proprio interesse)"
 
-::: grammar-box
-2. Quando il Causativo di verbi transitivi è usato in senso riflessivo ("mostrarsi", "farsi udire", ecc.), oppure quando l’oggetto del verbo semplice è Agente (कर्तृ) del Causativo:
-:::
+**2. Quando il Causativo di verbi transitivi è usato in senso riflessivo ("mostrarsi", "farsi sentire", ecc.), oppure quando l'oggetto del verbo semplice è l'Agente (कर्तृ) del Causativo:**
 
 Esempio:
 
 विष्णुर्भक्तान्दर्शयते = "Viṣṇu si mostra ai suoi devoti"
 
-Risultato: भक्ता विष्णुं पश्यन्ति = "I devoti vedono Viṣṇu"
+Risultato: भक्ता विष्णुं पश्यन्ति = "I credenti vedono Viṣṇu"
 
-Le regole corrispondono quindi, in linea di principio, a quelle per l’uso dell’Ātmanepada nei verbi Ubhayapada.
 
-## 29.2. Elenco lessicale
+Le regole corrispondono quindi in linea di massima alle regole per l'uso dell'Ātmanepada (आत्मनेपद) nei verbi Ubhayapada (उभयपद).
+
+## 29.2. Elenco di parole
 
 Prefissi:
 
 ::: indent
-उद्° : su, in alto, verso l’alto, fuori, da-
+उद्° : su, in alto, verso l'alto, fuori, da, da-
 
-परि° : intorno, attorno (luogo, tempo), d’intorno
+परि° : intorno, attorno (luogo, tempo), d'intorno
 :::
 
 भू + परि 1P परिभवति : (diventare intorno a qualcuno = accerchiare =) dominare, sconfiggere; trascurare, disprezzare
 
 अवज्ञान n.: disprezzo
 
-गुप्त 3: custodito, protetto
+गुप्त 3: protetto, custodito
 
-गृहस्थ 3: che si trova nella casa; m. padre di famiglia (colui che si trova nel secondo आश्रम)
+गृहस्थ 3: presente in casa; m. patriarca (qualcuno che si trova nel 2. आश्रम)
 
-ग्रस् 1Ā ग्रसते : divorare, mangiare
+ग्रस् 1Ā ग्रसते : consumare, divorare
 
 ::: indent
 Fut. ग्रसिष्यते  
@@ -62,27 +66,28 @@ PPP ग्रस्त
 Inf. ग्रसितुम्
 :::
 
-तीक्ष्ण 3: "selvaggio", acuto, tagliente, severo, violento, tagliente (nel linguaggio)
+तीक्ष्ण 3: "selvaggio", aspro, tagliente, severo, violento, pungente
 
 न्याय m.: norma, regola, modo giusto e corretto; metodo, logica (da इ + नि)
 
-परिव्राजक m.: viandante, monaco itinerante, pellegrino
+परिव्राजक m.: vagabondo, monaco errante, pellegrino
 
 ::: media
 ![](/images/lekt2903.jpg)
 Fig.: परिव्राजकाः
-(Fonte dell’immagine: [Dettagli](/licenses#lekt2903))
+Pushkar = पुष्कर [Fonte immagine: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accesso 2008-12-20. -- Licenza Creative Commons (Attribuzione, uso non commerciale, condividi allo stesso modo)]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2903))
 :::
 
-पालयति : anche sinonimo di पाति
+पालयति : anche sinonimo di  पाति
 
-पुनर् Indekl.: di nuovo, sempre di nuovo, indietro, ancora una volta; invece, ma (davanti a suoni sonori eccetto r-: पुनर्)
+पुनर् Indec.: di nuovo, sempre di nuovo, indietro, ancora una volta; invece, ma (prima di suoni sonori eccetto r-: पुनर्)
 
 प्रजा f.: generazione, nascita, discendenza
 
 मत्स्य m.: pesce
 
-Da ciò:
+da ciò:
 ::: indent
 मात्स्य 3: appartenente al pesce (ai pesci)
 :::
@@ -90,7 +95,7 @@ Da ciò:
 ::: media
 ![](/images/lekt2901.jpg)
 Fig.: मत्स्यः
-(Fonte dell’immagine: [Dettagli](/licenses#lekt2901))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2901))
 :::
 
 मृदु  3 (f.: मृद्वी): gentile, mite, morbido; lento, debole
@@ -107,9 +112,9 @@ PPP रत
 Inf. रन्तुम्
 :::
 
-वानप्रस्थ m.: eremita boschivo (colui che si trova nel terzo आश्रम)
+वानप्रस्थ m.: eremita del bosco (qualcuno che si trova nel 3. आश्रम)
 
-शुचि 3: lucente, brillante, sottile; m.: purezza
+शुचि 3: lucente, splendente, fine; m.: purezza
 
 पूज् 10P पूजयति : onorare, venerare
 
@@ -121,23 +126,23 @@ PPP पूजित
 
 Tradurre letteralmente in un buon tedesco e imparare a memoria i testi sanscriti:
 
-1\. Definizione di अविद्या (avidyā):
+1\. Definizione di अविद्या :
 
-अनित्याशुचिदुःखा**नात्मसु** नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २.५॥
+अनित्याशुचिदुःखा***नात्मसु*** नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २.५॥
 
-Spiegazione: आत्मसु = Loc. sing. di आत्मन् m. "Anima; l'Assoluto, nella misura in cui si realizza nell'individuo"
+Spiegazione: आत्मसु = Loc. sg. di आत्मन् m. "anima; l'Assoluto, nella misura in cui si realizza nell'individuo"
 
-2\. कौटिलीयार्थशास्त्र (Kauṭīyārthaśāstra) 1.4. sull'uso corretto del दण्ड (daṇḍa):
+2\. कौटिलीयार्थशास्त्र 1.4. sull'uso corretto dello दण्ड :
 
-तीक्ष्णदण्डो भूताना**मुद्वेजनीयो** भवति ।८।
+तीक्ष्णदण्डो भूताना***मुद्वेजनीयो*** भवति ।८।
 
 मृदुदण्डः परिभूयते ।९।
 
 यथार्हदण्डः पूज्यते ।१०।
 
-सु**विज्ञात**प्रणीतो हि दण्डः प्रजा धर्मार्थकामै**र्योजयति** ।११।
+सु***विज्ञात***प्रणीतो हि दण्डः प्रजा धर्मार्थकामै***र्योजयति*** ।११।
 
-दुष्प्रणीतः **कामक्रोधाभ्याम**वज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति, **किमङ्ग** पुनर्गृहस्थान् ।१२।
+दुष्प्रणीतः ***कामक्रोधाभ्याम***वज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति, ***किमङ्ग*** पुनर्गृहस्थान् ।१२।
 
 अप्रणीतस्तु मात्स्यन्यायमुद्भावयति ।१३।
 
@@ -153,33 +158,33 @@ Spiegazione: आत्मसु = Loc. sing. di आत्मन् m. "Anima; l'
 
 ::: media
 ![](/images/lekt2902.jpg)
-Fig.: मात्स्यन्याय (Mātsyanyāya):
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2902))
+Fig.: मात्स्यन्याय:
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2902))
 :::
 
 Spiegazioni:
 
-।८। उद्वेजनीय ३ "qualcosa (qualcuno) di cui si deve tremare"
+।८। उद्वेजनीय ३ "qualcosa (qualcuno), davanti al quale si deve rabbrividire"
 
-।११। विज्ञात ३ "riconosciuto"; n.: conoscenza/riconoscimento
+।११। विज्ञात ३ "riconosciuto"; n.: riconoscimento
 
-।११। योजयति (Caus. di युज्) "aggiogare, collegare con, unire con"
+।११। योजयति (Caus. di युज्) "attaccare al giogo, collegare con, unire con"
 
-।१२। कामक्रोधाभ्याम् : Instr., Dat. Abl., Dual masc. di कामक्रोध (Dualdvandva)
+।१२। कामक्रोधाभ्याम् : Instr., Dat. Abl., Du. masc. di कामक्रोध (Dvandva duale)
 
-।१२। किमङ्ग "quanto di più"
+।१२। किमङ्ग "quanto più"
 
-।१४। बलीयान् : Nom. sing. masc. di बलीयस् ३ "più forte"
+।१४। बलीयान् : Nom. sg. masc. di बलीयस् ३ "più forte"
 
 ।१६। चतुर् "quattro" come primo membro di un composto
 
-राज्ञा Instr. sing. masc. di राजन् m. "Re"
+राज्ञा Instr. sg. masc. di राजन् m. "re"
 
-स्वेषु : Loc. plur. masc. / neutr. di स्व ३ "proprio (mio, tuo, suo, ecc.)"
+स्वेषु : Loc. pl. masc. / neut. di स्व ३ "proprio (mio, tuo, suo ecc.)"
 
-वर्त्मसु : Loc. plur neutr. di वर्त्मन् n. "sentiero, binario, via"
+वर्त्मसु : Loc. pl. neut. di वर्त्मन् n. "sentiero, binario, percorso"
 
-## 29.4. Futuro e causativo rispetto alle radici finora apprese
+## 29.4. Futuro e causativo delle radici finora apprese
 
 ::: grammar-box
 
@@ -274,8 +279,4 @@ Spiegazioni:
 
 ::: deleteme-box
 
-### Fonti
-**lekt2903:** Pushkar = पुष्कर [Fonte dell'immagine: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accesso effettuato il 2008-12-20. -- Licenza Creative Commons (Attribuzione, uso non commerciale, allo stesso modo)]
-**lekt2901:** रोहू मछली = Labeo rohita Hamilton [Fonte dell'immagine: Khalid Mahmood / Wikipedia. Licenza GNU FDL]
-**lekt2902:** (Disegno: Namcha Payer, 2002-11)
-:::
+**lekt2903:** Pushkar = पुष्कर [Fonte immagine: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accesso 2008-12-20. -- Licenza Creative Commons (Attribuzione, uso non commerciale, condividi allo stesso modo)]

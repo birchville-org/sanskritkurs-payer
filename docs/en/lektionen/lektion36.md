@@ -1,26 +1,30 @@
 ---
+title: Lesson 36
+subtitle: "Special Formations of the Perfect"
 lesson_id: 36
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 36
 
-## 36.1. Special Forms of the Perfect
+## 36.1. Special Formations of the Perfect
 
 :::: grammar-box
-1\. Some roots exhibit a change in the initial sound of the root after the reduplication syllable.
+1. Some roots show a change of the root initial after the reduplication syllable.
 ::::
 
 Examples:
 
 | Root[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **जि** 1P[[br]]Perf. IIIa | **जिगाय** | **जिग्युर्**[[br]]ji-gi + ur | | |
-| **चि** 5U[[br]]Perf. IIIa | **चिकाय**[[br]]**चिचाय** | **चिक्युर्**[[br]]**चिच्युर्** | **चिक्ये**[[br]]**चिच्ये** | **चिक्यिरे**[[br]]**चिच्यिरे** |
-| **हन्** 2P[[br]]Perf. Va | **जघान** | **जघ्नुर्** | | |
+| **जि** 1P[[br]]Perf. IIIa | जि***गा***य | जि***ग्यु***र्[[br]]ji-gi + ur | | |
+| **चि** 5U[[br]]Perf. IIIa | चि***का***य[[br]]**चिचाय** | चि***क्यु***र्[[br]]**चिच्युर्** | चि***क्ये***[[br]]**चिच्ये** | चि***क्यि***रे[[br]]**चिच्यिरे** |
+| **हन्** 2P[[br]]Perf. Va | ज***घा***न | ज***घ्नु***र् | | |
 
 :::: grammar-box
-2\. The root विद् 2P "to know" has a perfect with present-tense meaning.
+2. The root विद् 2P "to know" has a perfect with present tense meaning.
 ::::
 
 :::: grammar-box
@@ -30,7 +34,7 @@ Examples:
 ::::
 
 :::: grammar-box
-3\. The root अह् "to say" has only perfect forms (Perfect I). These have present-tense meaning.
+3. The root अह् "to say" has only perfect forms (Perfect I). These have present tense meaning.
 ::::
 
 :::: grammar-box
@@ -40,7 +44,7 @@ Examples:
 ::::
 
 :::: grammar-box
-4\. The root भू 1P has the perfect stem बभू, before vowels बभूव्.
+4. The root भू 1P has the perfect stem बभू, before vowels बभूव्.
 ::::
 
 :::: grammar-box
@@ -49,30 +53,30 @@ Examples:
 | **भू** 1P | **बभूव** | **बभूवुर्** |
 ::::
 
-## 36.2. The Periphrastic Perfect (अनुप्रयोगलिट्)
+## 36.2. The periphrastic perfect (अनुप्रयोगलिट्)
 
 :::: grammar-box
 The periphrastic perfect (अनुप्रयोगलिट्) is used:
 
 1. in derived conjugations (causative, desiderative, frequentative, denominative)
-2. with roots that begin with a long vowel (except ā-) or with a vowel (except a-) followed by two consonants
-3. with certain other roots
+2. with roots that begin with a long vowel (except ā-) or with a vowel (except a-) before two consonants
+3. with some other roots
 ::::
 
 :::: grammar-box
 **Formation:**
 
-(weak) present stem + -ām + corresponding perfect form of कृ, अस्, or भू
+(weak) present stem + -ām + corresponding perfect form of कृ, अस् or भू
 
-- The final stem vowel is guṇated before -ām.
-- अस् and भू are conjugated in the Parasmaipada even for Ātmanepada verbs.
+- The final stem vowel is guṇa-substituted before -ām.
+- अस् and भू are also conjugated in the parasmaipada for ātmanepada verbs.
 ::::
 
-The periphrastic perfect likely originated from the accusative of a verbal noun ending in -ā. This accusative is used adverbially, as is often the case.
+The periphrastic perfect probably arose from the accusative of a verbal noun in -ā. This accusative is used -- as often elsewhere -- adverbially.
 
 Examples:
 
-| Root[[br]]धातु | 3rd sg. Perf. P. | 3rd pl. Perf. P. | 3rd sg. Perf. Ā. | 3rd pl. Perf. Ā. |
+| Root[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | **ईक्ष्** 1Ā | | | **ईक्षां चक्रे**[[br]]**ईक्षामास**[[br]]**ईक्षां बभूव** | **ईक्षां चक्रिरे**[[br]]**ईक्षामासुर्**[[br]]**ईक्षां बभूवुर्** |
 | **बन्ध्**[[br]]Causative: बन्धय-[[br]]"to cause to bind" | **बन्धयां चकार**[[br]]**बन्धयामास**[[br]]**बन्धयां बभूव** | **बन्धयां चक्रुर्**[[br]]**बन्धयामासुर्**[[br]]**बन्धयां बभूवुर्** | | |
@@ -80,7 +84,7 @@ Examples:
 ## 36.3. Perfect Passive
 
 :::: grammar-box
-For the passive voice in the perfect tense, forms of the Ātmanepada are employed. However, the use of the Past Participle (PPP) is generally preferred. In both cases, the construction follows that of passive sentences:
+In the perfect, the forms of the Ātmanepada are used for the passive. In contrast, the use of the PPP is preferred. In both cases, the construction is that of passive sentences:
 
 ::: indent
 तेन पुण्यं चक्रे = तेन पुण्यं कृतम् = "He performed a meritorious deed"
@@ -93,54 +97,54 @@ For the passive voice in the perfect tense, forms of the Ātmanepada are employe
 
 अह् प्र P only Perfect with present meaning प्राह : to say, to speak
 
-ईक्ष् 1Ā ईक्षते : to see, (to) behold, to observe
+ईक्ष् 1Ā ईक्षते : to see, to (dis)cover, to look at
 
 ::: indent
 Perf. ईक्षां चक्रे  
 Fut. ईक्षिष्यते  
 Pass. ईक्ष्यते  
-Caus. ईक्षयति  
+Kaus. ईक्षयति  
 PPP ईक्षित  
 Inf. ईक्षितुम्
 :::
-चि 5U चिनोति : to pile up, to collect
+चि 5U चिनोति : to heap up, to collect
 
 ::: indent
 Perf. चिकाय । चिचाय  
 Fut. चेष्यति  
 Pass. चीयते  
-Caus. चाययति । चापयति  
+Kaus. चाययति । चापयति  
 PPP चित  
 Inf. चेतुम्
 :::
 ::: media
 ![](/images/lekt3601.jpg)
 Fig.: गोमयं चिकाय
-(Image source: [Details](/licenses#lekt3601))
+(Image source: [Details](/en/licenses#lekt3601))
 :::
 
-व्रज् 1P व्रजति : to step, to go, to go away
+व्रज् 1P व्रजति : to stride, to go, to go away
 
 ::: indent
 Perf. Vc वव्राज, वव्रजुर्  
 Fut. व्रजिष्यति  
 Pass. व्रज्यते  
-Caus. व्राजयति  
+Kaus. व्राजयति  
 PPP व्रजित  
 Inf. व्रजितुम्
 :::
-व्रज् + प्र 1P प्रव्रजति : to go away (esp. leaving home for homelessness as an ascetic = to become a monk)
+व्रज् + प्र 1P प्रव्रजति : to go away (esp. from home into homelessness as an ascetic = to become a monk)
 
 अगार n.। आगार n.: house, home
 
 ::: media
 ![](/images/lekt3602.jpg)
 Fig.: अगारम्
-(Image source: [Details](/licenses#lekt3602))
+(Image source: [Details](/en/licenses#lekt3602))
 :::
 
 ::: indent
-from this:
+therefrom:
 
 अनगार्य n. । अनगारika f.: homelessness of a Buddhist monk or novice
 :::
@@ -148,9 +152,9 @@ from this:
 ::: media
 ![](/images/lekt3603.jpg)
 Fig.: अनगार्यम्
-(Image source: [Details](/licenses#lekt3603))
+(Image source: [Details](/en/licenses#lekt3603))
 :::
-अञ्जलि m.: The two hands folded together high in reverence
+अञ्जलि m.: The two hands placed high together in reverence
 
 आदृत 3: respected
 
@@ -158,30 +162,30 @@ Fig.: अनगार्यम्
 
 पृथिवी f.: earth
 
-पृष्ठ n: back, reverse side
+पृष्ठ n: back, rear side
 
 ::: indent
 पृष्ठम् : behind
 :::
-प्रजापति m.: Lord of creatures, creator god
+प्रजापति m.: lord of creatures, creator god
 
-अनु Prefix: after, along, over - to, along, according to, in addition, behind - from
+अनु prefix: after, along, over - hin, along, according to, to, behind - her
 
 ::: indent
 e.g.
 
-अनुकृ : to imitate, to copy
+अनुकृ : to imitate, to do after
 
 अनुगम् : to follow someone, to go along
 :::
-अभि : be-, to - to, to - from, to - to, against, into - inside, with regard to, on, over, at
+अभि : to-, after - hin, to - her, to - hin, against, in - into, with regard to, on, over, at
 
 ::: indent
 e.g.
 
-अभिगम् : to go towards, to approach
+अभिगम् : to go to, to approach
 
-वद् + अभि Causative Ā अभिवादयते : to greet formally, to address
+वद् + अभि Causative Ā अभिवादयते : to formally greet, to address
 :::
 ग्लै 1P ग्लायति : to feel reluctance, to fade away
 
@@ -189,23 +193,23 @@ e.g.
 Perf. IV जग्लौ  
 Fut. ग्लास्यति  
 Pass. ग्लायते  
-Caus. ग्लापयति । ग्लपयति  
+Kaus. ग्लापयति । ग्लपयति  
 PPP ग्लान  
 Inf. ग्लातुम्  
 Absol. -ग्लाय
 :::
-घ्रा 1P जिघ्रति : to smell something
+घ्रा 1P ***जिघ्रति*** : to smell something
 
 ::: indent
 Perf. IV जघ्रौ  
 Fut. घ्रास्यति  
 Pass. घ्रायते  
-Caus. घ्रापयति  
+Kaus. घ्रापयति  
 PPP घ्रात । घ्राण  
 Inf. घ्रातुम्  
 Absol. -घ्राय
 :::
-प्री 9U प्रीणति : to delight, to please; to love, to be favorable towards someone
+प्री 9U प्रीणति : to delight, to please; to love, to be inclined towards someone
 
 प्री 4Ā प्रीयते : to rejoice
 
@@ -213,7 +217,7 @@ Absol. -घ्राय
 Perf. IIIa पिप्राय, पिप्रिये  
 Fut. प्रेष्यति  
 Pass. प्रीयते  
-Caus. प्रीणयति  
+Kaus. ***प्रीणयति***  
 PPP प्रीत  
 Inf. प्रेतुम्
 :::
@@ -223,7 +227,7 @@ Inf. प्रेतुम्
 Perf IIa पस्पर्श, पस्पृशुर्  
 Fut. स्पर्क्ष्यति । स्प्रक्ष्यति  
 Pass. स्पृश्यते  
-Caus. स्पर्शयति  
+Kaus. स्पर्शयति  
 PPP स्पृष्ट  
 Inf. स्पर्ष्तुम् । स्प्रष्तुम्  
 Absol. -स्पृश्य
@@ -231,7 +235,7 @@ Absol. -स्पृश्य
 ::: media
 ![](/images/lekt3606.jpg)
 Fig.: सुगतो भूमीं पस्पर्श
-(Image source: [Details](/licenses#lekt3606))
+(Image source: [Details](/en/licenses#lekt3606))
 :::
 
 हृष् 4P हृष्यति : to become stiff: to bristle (hair), to rejoice over (Instr., Acc., Loc.)
@@ -240,29 +244,29 @@ Fig.: सुगतो भूमीं पस्पर्श
 Perf II जहर्ष  
 Fut. हर्षिष्यति  
 Pass. हृष्यते  
-Caus. हर्षयति  
+Kaus. हर्षयति  
 PPP हृषित
 :::
 ::: media
 ![](/images/lekt3604.jpg)
 Fig.: लोमहर्षः
-(Image source: [Details](/licenses#lekt3604))
+(Image source: [Details](/en/licenses#lekt3604))
 :::
 
-स्वक 3: one's own (my, your ...) ; m.: member (of a family)
+स्वक 3: own (my, your ...) ; m.: member
 
 
 
-## 36.5. Exercises
+## 36.5. Exercise
 
-A) The following roots possess both a reduplicated and a periphrastic perfect. Form the corresponding periphrastic and reduplicated perfect forms for the following:
+A) The following roots have both a reduplicated and a periphrastic perfect. Form the corresponding periphrastic and reduplicated perfect forms for the following forms:
 
 1.  बिभ्रते
 2.  बिभ्यति
 3.  जुहोति
 4.  वेत्ति
 
-B) The root आस् "to sit" has a periphrastic perfect. Form this for the following:
+B) The root आस् "to sit" has a periphrastic perfect. Form this for the following forms:
 
 1.  आस्ते
 2.  आसते
@@ -290,7 +294,7 @@ D) Translate:
 ::: media
 ![](/images/lekt3605.jpg)
 Fig.: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज
-(Image source: [Details](/licenses#lekt3605))
+(Image source: [Details](/en/licenses#lekt3605))
 :::
 
 ब्राह्मणा महादेवयज्ञायाग्निं चिक्यिरे । ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश । एवं यज्ञेन ब्राह्मणा महादेवैरादयां चक्रुस्तांश्च स्तोत्रानि श्रावयां बभूवुः ॥२॥
@@ -305,9 +309,9 @@ Fig.: पुत्रे जाते सुगतः कुलं धनं च
 
 ब्राह्मणीभिः स्वान्नानि पेचिरे ॥७॥
 
-## 36.6. The Perfect (लिट्) for the Roots Learned Thus Far
+## 36.6. The Perfect (लिट्) for the roots learned so far
 
-| Root[[br]]धातु | Perfect Class | Perfect (लिट्) |
+| Root[[br]]धातु | Perfect class | Perfect (लिट्) |
 | :--- | :--- | :--- |
 | **अञ्ज्** 7P | I | **आनञ्ज** |
 | **अद्** 2P | I | **आद** |
@@ -377,8 +381,6 @@ Fig.: पुत्रे जाते सुगतः कुलं धनं च
 | **मृ** 4Ā | IIIa | **ममार**, **मम्रुर्** |
 | **यज्** 1U | Va | **इयाज**, **ईजुर्** |
 
-| **Root** | **Class/Voice** | **Tense/Mood** | **Forms** |
-| :--- | :--- | :--- | :--- |
 | **युज्** 7U | II | **युयोज**, **युयुजे** |
 | **युध्** 4Ā | II | **युयुधे** |
 | **रक्ष्** 1P | I | **ररक्ष**, **ररक्षुर्** |
@@ -414,21 +416,21 @@ Fig.: पुत्रे जाते सुगतः कुलं धनं च
 
 ## 36.7. Translation Exercise
 
-Translate the following:
+Translate:
 
-1\. Mahābhārata 13.7.25–26
+1\. महाभारत १३.७.२५-२६
 
 ::: indent
-येन प्रीणति पितरं
+येन प्रीणति ***पितरं***
 तेन प्रीतः प्रजापतिः ।
-प्रीणति मातरं येन
+प्रीणति ***मातरं*** येन
 पृथिवी तेन पूजिता ।
 येन प्रीणात्युपाध्यायं
-तेन स्याद्ब्रह्म पूजितम् ।
-सर्वे तस्यादृता धर्मा
-यस्यैते त्रय आदृताः ।
+तेन स्या***द्ब्रह्म*** पूजितम् ।
+***सर्वे*** तस्यादृता धर्मा
+यस्यैते ***त्रय*** आदृताः ।
 अनादृतास्तु यस्यैते
-सर्वास्तस्याफलाः क्रियाः ॥
+***सर्वास्त***स्याफलाः क्रियाः ॥
 
 Explanations:
 
@@ -436,7 +438,7 @@ Explanations:
 
 मातरम् : Acc. sg. of मातृ f. "mother"
 
-ब्रह्म : Nom./Acc. sg. of ब्रह्मन् n. "the Absolute, the Veda"
+ब्रह्म : Nom./Acc. sg. of ब्रह्मन् n. "Absolute, Veda"
 
 सर्वे : Nom. pl. masc. of सर्व "all, every"
 
@@ -448,26 +450,26 @@ Explanations:
 ::: media
 ![](/images/lekt3607.jpg)
 Fig.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।
-(Image source: [Details](/licenses#lekt3607))
+(Image source: [Details](/en/licenses#lekt3607))
 ::: 
 
-2\. Manusmṛti 4.154 on the proper conduct toward the elderly:
+2\. मनुस्मृति ४.१५४ on the proper conduct towards the elderly:
 
 ::: indent
 अभिवादयेद्वृद्धांश्च दद्याच्चैवासनं स्वकम् ।
 कृताञ्जलिरुपासीत गच्छतः पृष्ठतो ऽन्वियात् ॥
 :::
 
-3\. Manusmṛti 2.98: Who is a *jitenḍriya* (one who has mastered the senses):
+3\. मनुस्मृति २.९८: Who is a जितेन्द्रिय:
 
 ::: indent
 श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च भुक्त्वा घ्रात्वा च यो नरः ।
-न हृष्यति ग्लायति वा स विज्ञेयो जितेन्द्रियः ॥
+न हृष्यति ग्लायति वा स ***विज्ञेयो*** जितेन्द्रियः ॥
 
-Explanation: विज्ञेय 3rd person singular: one who is to be recognized; one who is to be known (as)
+Explanation: विज्ञेय ३: one who is to be recognized; one who is to be known (as)
 :::
 
-4\. Manusmṛti 2.110 on the proper conduct of a Brāhmaṇa:
+4\. मनुस्मृति २.११० on the proper conduct of a Brahmin:
 
 ::: indent
 नापृष्टः कस्यचिद्ब्रूयान्न चान्यायेन पृच्छतः ।
@@ -475,14 +477,14 @@ Explanation: विज्ञेय 3rd person singular: one who is to be recogni
 
 Explanations:
 
-In this verse, ब्रू is constructed with the genitive case.
+In this verse, ब्रू is constructed with the genitive
 
-मेधावी : Nom. sg. masc. of मेधाविन् 3rd declension "intelligent, wise"
+मेधावी : Nom. sg. masc. of मेधाविन् ३ "intelligent, wise"
 
-जडवत् Adv. "in the manner of a dull/stupid person"
+जडवत् Adv. "In the manner of a dull/stubborn/foolish person"
 :::
 
-## 36.8. Repetition Exercise on Morphology
+## 36.8. Form Exercise
 
 Determine and translate the following word forms in all possible ways:
 
@@ -529,13 +531,11 @@ Determine and translate the following word forms in all possible ways:
 
 ::: deleteme-box
 
-### Sources
-
-- **lekt3601.jpg**: Fig.: गोमयं चिकाय Udaipur = उदयपुर [Image source: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Accessed on 2008-12-28. -- Creative Commons License (Attribution, non-commercial use)]
-- **lekt3602.jpg**: Fig.: अगारम् Shekawati = शेखावाटी [Image source: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Accessed on 2008-12-28. -- Creative Commons License (Attribution, share alike)]
-- **lekt3603.jpg**: Fig.: अनगार्यम् Northeast Thailand = อีสาน [Image source: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Accessed on 2008-12-28. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-- **lekt3604.jpg**: Fig.: लोमहर्षः (लोमन् n. body hair) [Image source: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- Accessed on 2008-12-29. -- Creative Commons License (Attribution, non-commercial use)]
-- **lekt3605.jpg**: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज Gandhara, 1st/2nd century CE [Image source: Wikipedia. GNU FDL]
-- **lekt3606.jpg**: Fig.: सुगतो भूमीं पस्पर्श भूमीस्पर्शमudra [Image source: Payer]
-- **lekt3607.jpg**: Fig.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् । [Image source: Dey. -- http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Accessed on 2008-12-29. -- Creative Commons License (Attribution, non-commercial use, share alike)]
+- **lekt3601.jpg**: Fig.: गोमयं चिकाय  Udaipur = उदयपुर [Image source: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Accessed on  2008-12-28. --   Creative  Commons License (Attribution, non-commercial use)]
+- **lekt3602.jpg**: Fig.: अगारम् Shekawati = शेखावाटी [Image source: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Accessed on  2008-12-28. --   Creative  Commons License (Attribution, share alike)]
+- **lekt3603.jpg**: Fig.: अनगार्यम् 	Northeast Thailand = อีสาน 	[Image source: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Accessed on  	2008-12-28. --  	 	Creative  	Commons License (Attribution, non-commercial use, no  	modifications)]
+- **lekt3604.jpg**: Fig.: लोमहर्षः (लोमन् n. body hair) [Image source: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Accessed on 2008-12-29.  --   Creative  Commons License (Attribution, non-commercial use)]
+- **lekt3605.jpg**: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज Gandhara, 1st/2nd cent. CE. [Image source: Wikipedia. GNU FDLicense]
+- **lekt3606.jpg**: Fig.:स् सुगतो भूमीं पस्पर्श भूमीस्पर्शMudrā [Image source: Payer]
+- **lekt3607.jpg**: Fig.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् । [Image source: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Accessed on  2008-12-29. --   Creative  Commons License (Attribution, non-commercial use, share alike)]
 :::

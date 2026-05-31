@@ -1,56 +1,60 @@
 ---
+title: Lezione 6
+subtitle: "La struttura della frase verbale (agente e forma verbale)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
+category: "Grammatica"
+status: stable
 ---
 
-# Lektion 6
+# Lezione 6
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- Den Aufbau des Verbalsatzes (Agens und Verbalform) &lt;!-- TODO: Fallback translation --&gt;
-- Die Formazione von Verbalformen (Parasmaipada, Ātmanepada, Passiv) &lt;!-- TODO: Fallback translation --&gt;
-- Die Modi und Tempi des Verbs &lt;!-- TODO: Fallback translation --&gt;
-- Indikativ Presente (laṭ) und die Primärendungen der 3. Person &lt;!-- TODO: Fallback translation --&gt;
-- Die Formazione des Tema del presentes (Klassen 1, 4 und 6) &lt;!-- TODO: Fallback translation --&gt;
-- Die Lautabstufung (Ablaut: Guṇa und Vṛddhi) &lt;!-- TODO: Fallback translation --&gt;
+**In questa lezione imparate:**
+- La struttura della frase verbale (agente e forma verbale)
+- La formazione delle forme verbali (Parasmaipada, Ātmanepada, Passivo)
+- Le modalità e i tempi del verbo
+- Indicativo presente (laṭ) e le desinenze primarie della terza persona
+- La formazione dello stema del presente (classi 1, 4 e 6)
+- La gradazione vocale (Ablaut: Guṇa e Vṛddhi)
 :::
 
-## 6.1. Der Verbalsatz
+## 6.1. La proposizione verbale
 
 ::: grammar-box
 **Schema I: Forma verbale**
-- Es. **yajati** = यजति = "Egli/ella/esso compie una venerazione mediante un sacrificio", "Egli/ella/esso sacrifica"
+- p. es. **yajati** = यजति = "Egli (lei, esso) venera con un sacrificio", "Egli (lei, esso) sacrifica"
 
 **Schema II: Agente (kartṛ m. = कर्तृ) – Forma verbale**
-- Es. **rāmo yajati** = रामो यजति = "Rāma compie una venerazione mediante un sacrificio", "Rāma sacrifica"
+- p. es. **rāmo yajati** = रामो यजति = "Rāma venera con un sacrificio", "Rāma sacrifica"
 :::
 
-Quando l’agente (**kartṛ** m. = कर्तृ) viene menzionato in una frase verbale che non è al passivo, l’agente si trova nella **nominativa** (primo caso, prathamā = प्रथमा). Nel numero (vacana n. = वचन), l’agente e la forma verbale concordano.
+Quando l'agente (**kartṛ** m. = कर्तृ) è menzionato in una proposizione verbale che non è al passivo, l'agente è in **nominativo** (primo caso, prathamā = प्रथमा). Nel numero (vacana n. = वचन) l'agente e la forma verbale concordano.
 
 ---
 
-## 6.2. Zur Formazione der Verbalformen
+## 6.2. Sulla formazione delle forme verbali
 
-Una forma verbale finita, ovvero una forma verbale con desinenza personale, esprime in sanscrito quanto segue:
+Una forma verbale finita, cioè una forma verbale con desinenza personale, esprime in sanscrito quanto segue:
 
 1. **Significato** (**artha** m. अर्थ)
-2. **Persona** e **Numero** (Zahl, **vacana** n. = वचन) (io, tu, egli &lt;lei, esso&gt; noi due, voi due, essi due, noi, voi, essi)
-3. Comportamento (genus verbi):
-   1. **Parasmaipada** (n. = परस्मैपद) ("forma verbale con riferimento a un altro"): Attivo. Es. **yajati** = यजति = "Egli venera con un sacrificio" (ovvero il sacerdote che compie il sacrificio per qualcun altro)
-   2. **Ātmanepada** (n. = आत्मनेपद) ("forma verbale con riferimento a sé stesso"): Medio. Es. **yajate** = यजते = "Egli venera con un sacrificio nel proprio interesse" (ovvero il capofamiglia che sacrifica per sé e per la propria famiglia)
+2. **Persona** e **Numero** (numero, **vacana** n. = वचन) (io, tu, egli \&lt;lei, esso\&gt;, noi due, voi due, essi due, noi, voi, essi)
+3. Modalità (genus verbi):
+   1. **Parasmaipada** (n. = परस्मैपद) ("forma verbale con riferimento a un altro"): Attivo. Es. **yajati** = यजति = "Egli venera con un sacrificio" (ovvero il sacerdote, che compie il sacrificio per qualcun altro)
+   2. **Ātmanepada** (n. = आत्मनेपद) ("forma verbale con riferimento a se stesso"): Medio. Es. **yajate** = यजते = "Egli venera con un sacrificio per proprio interesse" (ovvero il capofamiglia sacrificante, che sacrifica per sé e per la propria famiglia)
    3. **Passivo** (**karman** n. = कर्मन्). Es. **ijyate** = इज्यते = "Viene venerato con un sacrificio"
 
-   In molti casi la sfumatura semantica dell'Ātmanepada non è più riconoscibile; inoltre, anche i poeti colti spesso impiegano l'Ātmanepada senza differenza di significato rispetto al Parasmaipada. Ciononostante, nella traduzione è sempre necessario prestare la massima attenzione per verificare se esista una tale sfumatura semantica.
+   In molti casi la sfumatura semantica dell'Ātmanepada non è più riconoscibile; anche i poeti colti spesso usano l'Ātmanepada senza differenza di significato rispetto al Parasmaipada. Tuttavia, nella traduzione bisogna sempre prestare attenzione a se non sia presente una tale sfumatura semantica.
 
-   I verbi che si impiegano sia nel Parasmaipada sia nell'Ātmanepada (nella specifica accezione dell'Ātmanepada) sono detti verbi **Ubhayapada** (**ubhayapada** n. = उभयपद = "entrambe le forme verbali").
+   I verbi che si usano sia nel Parasmaipada sia nell'Ātmanepada (nella specifica accezione dell'Ātmanepada) si chiamano verbi **Ubhayapada** (**ubhayapada** n. = उभयपद = "entrambe le forme verbali").
 
-   Alcuni verbi si impiegano esclusivamente nel Parasmaipada o esclusivamente nell'Ātmanepada. In questi verbi l'Ātmanepada o il Parasmaipada non hanno una specifica accezione semantica. Es. **manyate** = मन्यते = "egli (lei, esso) pensa" (senza specifica accezione Ātmanepada).
+   Alcuni verbi si usano o solo nel Parasmaipada o solo nell'Ātmanepada. In questi verbi l'Ātmanepada o il Parasmaipada non hanno un significato specifico. Es. **manyate** = मन्यते = "egli (lei, esso) pensa" (senza significato specifico dell'Ātmanepada).
 
-4. **Modalità** (Modus):
+4. **Modalità** (modo):
    1. **Indicativo**: Forma affermativa
-   2. **Congiuntivo** (Optativ): Forma desiderativa e forma di possibilità
+   2. **Optativo**: Forma desiderativa e potenziale
    3. **Imperativo**: Forma imperativa
-5. **Tempo** (Tempus):
+5. **Tempo** (tempus):
    1. **Presente**: Presente
    2. **Imperfetto**
    3. **Perfetto**
@@ -58,21 +62,21 @@ Una forma verbale finita, ovvero una forma verbale con desinenza personale, espr
    5. **Futuro**: Futuro
    6. **Condizionale**
 
-   I tempi sono formati da temi temporali: tema del presente, tema dell'aoristo, tema del perfetto, tema del futuro.
+   I tempi si formano da temi temporali: tema del presente, tema dell'aoristo, tema del perfetto, tema del futuro.
 
 ---
 
-## 6.3. Indikativ Presente (laṭ = लट्)
+## 6.3. Indicativo Presente (laṭ = लट्)
 
-Il presente è il tempo dell’attualità, in particolare anche della durata.
+Il presente è il tempo dell'attualità, in particolare anche della durata.
 
 ::: grammar-box
-**L’indicativo (forma affermativa) presente si forma aggiungendo al tema del presente le cosiddette desinenze primarie.**
+**L'Indicativo (forma affermativa) Presente si forma aggiungendo al tema del presente le cosiddette desinenze primarie.**
 :::
 
 Esempi:
 
-| Radice (dhātu) | Tema del presente | 3. Person Singolare Indikativ Presente Parasmaipada |
+| Radice (dhātu) | Tema del presente | 3. persona singolare Indicativo Presente Parasmaipada |
 | :--- | :--- | :--- |
 | **viś** = विश् | **viśa** = विश | **viśati** = विशति = "egli (lei, esso) entra" |
 | **bhū** = भू | **bhava** = भव | **bhavati** = भवति = "egli (lei, esso) nasce" |
@@ -80,7 +84,7 @@ Esempi:
 
 ---
 
-## 6.4. Primärendungen der dritten Person (prathama m. = प्रथम = "erste (!) Person")
+## 6.4. Desinenze primarie della terza persona (prathama m. = प्रथम = "prima (!) persona")
 
 ::: grammar-box
 | | Singolare (Einzahl)[[br]]ekavacana n.[[br]]एकवचन | Plurale (Mehrzahl)[[br]]bahuvacana n.[[br]]बहुवचन |
@@ -98,87 +102,85 @@ Esempio **yaj** = यज् = "onorare con un sacrificio", "sacrificare":
 
 ---
 
-## 6.5. Formazione des Tema del presentes
+## 6.5. Formazione del tema del presente
 
-### 6.5.1. Verben der 6. Presenteklasse (tudādi = तुदादि = "tud usw.")
+### 6.5.1. Verbi della sesta classe del presente (tudādi = तुदादि = "tud ecc.")
 
 ::: grammar-box
-**Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + a-** <!-- TODO: Fallback translation -->
+**Stema del presente = radice in grado debole (come viene elencata) + a-**
 
-| Wurzel (dhātu m.)[[br]]धातु | Präsensstamm | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **viś**[[br]]विश् | **viśa-**[[br]]विश- | <!-- TODO: Fallback translation -->
-| **sṛj**[[br]]सृज् | **sṛja-**[[br]]सृज- | <!-- TODO: Fallback translation -->
+| Radice (dhātu m.)[[br]]धातु | Stema del presente |
+| :--- | :--- |
+| **viś**[[br]]विश् | **viśa-**[[br]]विश- |
+| **sṛj**[[br]]सृज् | **sṛja-**[[br]]सृज- |
 :::
 
-### 6.5.2. Verben der 1. Presenteklasse (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū usw.")
+### 6.5.2. Verbi della prima classe del presente (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū ecc.")
 
 ::: grammar-box
-**Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a-** <!-- TODO: Fallback translation -->
-
-| Wurzel (dhātu m.)[[br]]धातु | Hochstufe | Hochstufe vor a- | Präsensstamm | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **bhū**[[br]]भू | **bho**[[br]]भो | **bhav**[[br]]भव् | **bhava-**[[br]]भव- | <!-- TODO: Fallback translation -->
-| **nī**[[br]]नी | **ne**[[br]]ने | **nay**[[br]]नय् | **naya-**[[br]]नय- | <!-- TODO: Fallback translation -->
-| **smṛ**[[br]]स्मृ | **smar**[[br]]स्मर् | | **smara-**[[br]]स्मर- | <!-- TODO: Fallback translation -->
-| **yaj**[[br]]यज् | | | **yaja-**[[br]]यज- | <!-- TODO: Fallback translation -->
-
-Steht der Vokal in einer langen geschlossenen Silbe (Kurzvokal vor zwei oder mehr Konsonanten), unterbleibt die Bildung der Hochstufe: <!-- TODO: Fallback translation -->
-- **nind**[[br]]निन्द् → **ninda-**[[br]]निन्द- <!-- TODO: Fallback translation -->
+| Tema del presente = Radice in grado forte (raramente grado allungato) + a- ||||
+| Radice (dhātu m.)[[br]]धातु | Grado forte | Grado forte davanti a a- | Tema del presente |
+| :--- | :--- | :--- | :--- |
+| **bhū**[[br]]भू | **bho**[[br]]भो | **bhav**[[br]]भव् | **bhava-**[[br]]भव- |
+| **nī**[[br]]नी | **ne**[[br]]ने | **nay**[[br]]नय् | **naya-**[[br]]नय- |
+| **smṛ**[[br]]स्मृ | **smar**[[br]]स्मर् | **smar**[[br]]स्मर् | **smara-**[[br]]स्मर- |
+| **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaja-**[[br]]यज- |
+| Se la vocale si trova in una sillaba chiusa lunga, cioè una vocale breve seguita da due o più consonanti, la formazione del grado forte viene omessa ||||
+| **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **ninda-**[[br]]निन्द- |
 :::
 
-#### 6.5.2.1. Wortsandhi von e und o
-Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt. <!-- TODO: Fallback translation -->
+#### 6.5.2.1. Sandhi lessicale di e e o
+All'interno delle parole, davanti a vocali, **e** viene sostituito da **ay**, **o** da **av**.
 
-#### 6.5.2.2. Lautabstufung (Ablaut) <!-- TODO: Fallback translation -->
+#### 6.5.2.2. Alternanza vocalica (Ablaut)
 
 ::: grammar-box
-| Tiefstufe[[br]]Schwundstufe | Hochstufe[[br]]Vollstufe[[br]]Guṇa m.[[br]]गुण | Dehnstufe[[br]]Vṛddhi f.[[br]]वृद्धि | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **ø** | **a** | **ā** | <!-- TODO: Fallback translation -->
-| **i / ī** | **e** | **ai** | <!-- TODO: Fallback translation -->
-| **u / ū** | **o** | **au** | <!-- TODO: Fallback translation -->
-| **ṛ / ṝ** | **ar** | **ār** | <!-- TODO: Fallback translation -->
-| **ḷ** | **al** | **āl** | <!-- TODO: Fallback translation -->
+| Grado debole[[br]]Grado zero | Grado forte[[br]]Grado pieno[[br]]Guṇa m.[[br]]गुण | Grado allungato[[br]]Vṛddhi f.[[br]]वृद्धि |
+| :--- | :--- | :--- |
+| **ø** | **a** | **ā** |
+| **i / ī** | **e** | **ai** |
+| **u / ū** | **o** | **au** |
+| **ṛ / ṝ** | **ar** | **ār** |
+| **ḷ** | **al** | **āl** |
 :::
 
-### 6.5.3. Verben der 4. Presenteklasse (divādi = दिवादि = "div usw.")
+### 6.5.3. Verbi della quarta classe del presente (divādi = दिवादि = "div ecc.")
 
 ::: grammar-box
-**Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + ya-** <!-- TODO: Fallback translation -->
+**Stema del presente = radice in grado debole (come viene elencata) + ya-**
 
-| Wurzel (dhātu m.)[[br]]धातु | Präsensstamm | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **nṛt**[[br]]नृत् | **nṛtya-**[[br]]नृत्य- | <!-- TODO: Fallback translation -->
-| **muh**[[br]]मुह् | **muhya-**[[br]]मुह्य- | <!-- TODO: Fallback translation -->
-| **yudh**[[br]]युध् | **yudhya-**[[br]]युध्य- | <!-- TODO: Fallback translation -->
-| **man**[[br]]मन् | **manya-**[[br]]मन्य- | <!-- TODO: Fallback translation -->
+| Radice (dhātu m.)[[br]]धातु | Stema del presente |
+| :--- | :--- |
+| **nṛt**[[br]]नृत् | **nṛtya-**[[br]]नृत्य- |
+| **muh**[[br]]मुह् | **muhya-**[[br]]मुह्य- |
+| **yudh**[[br]]युध् | **yudhya-**[[br]]युध्य- |
+| **man**[[br]]मन् | **manya-**[[br]]मन्य- |
 :::
 
-### 6.5.4. Themavokal, thematische Presenteklassen
+### 6.5.4. Vocale tematica, classi di presente tematiche
 
 ::: grammar-box
-Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavokal**. Präsensklassen mit **a** im Stammbildungssuffix heißen deswegen "thematische Präsensklassen". <!-- TODO: Fallback translation -->
+La **a** nei suffissi di formazione del tema delle classi di presente viene chiamata **vocale tematica**. Le classi di presente con **a** nel suffisso di formazione del tema sono dette pertanto "classi di presente tematiche".
 :::
 
 ---
 
-## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = प्रश्न)
+## 6.6. Sanscrito parlato: Ulteriori domande (praśna m. = प्रश्न)
 
 ::: grammar-box
 - **N. N. kiṃ karoti?** = N.N. किं करोति = "Cosa fa N. N.?"
-- **N. N. (plurale) kiṃ kurvanti?** = N.N. किं कुर्वन्ति = "Cosa fanno i N.N.?"
+- **N. N. (plural) kiṃ kurvanti?** = N.N. किं कुर्वन्ति = "Cosa fanno i N.N.?"
 - (karoti, kurvanti da **kṛ** = कृ 8 U: "fare, fare")
-- **kiṃ kuśalam?** = किं कुशलम् = "Come sta? Come va?"
-- Risposta: **sarvathā kuśalam** = सर्वथा कुशलम् = "(Sto) bene in ogni aspetto."
+- **kiṃ kuśalam?** = किं कुशलम् = "Stai bene?, Come stai?"
+- Risposta: **sarvathā kuśalam** = सर्वथा कुशलम् = "(Sto) bene in ogni senso."
 :::
 
 ---
 
-## 6.7. Lessico
+## 6.7. Elenco di parole
 
 ::: grammar-box
-In sanscrito, i verbi sono indicati nella **forma della radice**. Il numero che segue la radice indica la **classe di coniugazione**.
+In sanscrito, i verbi sono elencati nella **forma della radice**. Il numero dopo la radice indica la **classe di coniugazione**.
 
 - **P:** La radice è solo Parasmaipada
 - **Ā:** La radice è solo Ātmanepada
@@ -186,7 +188,7 @@ In sanscrito, i verbi sono indicati nella **forma della radice**. Il numero che 
 - **():** Tra parentesi è indicata la terza persona singolare del presente indicativo (laṭ).
 :::
 
-**Imparare le seguenti parole:**
+**Impara le seguenti parole:**
 - **yaj** 1 U (yajati) यज् यजति : onorare con un sacrificio, sacrificare
 - **bhū** 1 P (bhavati) भू भवति : diventare, emergere, essere
 - **smṛ** 1 P (smarati) स्मृ स्मरति : rendere presente, ricordare
@@ -196,13 +198,13 @@ In sanscrito, i verbi sono indicati nella **forma della radice**. Il numero che 
 - **muh** 4 P (muhyati) मुह् मुह्यति : essere confuso
 - **yudh** 4 Ā (yudhyate) युध् युध्यते : combattere
 - **viś** 6 P (viśati) विश् विशति : entrare
-- **sṛj** 6 P (sṛjati) सृज् सृजति : lasciare andare, emettere, emanare
+- **sṛj** 6 P (sṛjati) सृज् सृजति : rilasciare, emettere, far emanare
 
 ---
 
 ## 6.8. Esercizio
 
-**A) Formate frasi verbali inserendo le radici indicate tra parentesi:**
+**A) Formare, utilizzando le radici indicate tra parentesi, inserendole in frasi verbali:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
    ब्राह्मणस् ... यज्, नृत्, विश्, मन्, युध्, नी, मुह्
 2. devas ... (nṛt, yudh, smṛ, sṛj)
@@ -212,35 +214,35 @@ In sanscrito, i verbi sono indicati nella **forma della radice**. Il numero che 
 4. dhenus ... (viś, bhū)
    धेनुस् ... विश्, भू
 
-**B) Mettere al plurale le frasi formate nell'esercitazione A.**
+**B) Mettere al plurale le frasi formate nell'esercizio A.**
 
 **C) Tradurre in sanscrito:**
-1. Egli venera con un sacrificio. (Il sacerdote sacrificale per un signore del sacrificio)
+1. Egli venera con un sacrificio. (Il sacerdote sacrificale per un caposacrificio)
 2. Śiva danza.
 3. Rāma guida.
 4. I Śūdra sono confusi.
 5. Le donne Kṣatriya entrano.
 6. Il SIGNORE fa emanare.
-7. Il Kṣatriya venera con un sacrificio. (come signore del sacrificio)
-8. Le donne Śūdra danzano.
+7. Il Kṣatriya venera con un sacrificio. (come caposacrificio)
+8. Le donne Śūdra ballano.
 9. I Kṣatriya combattono.
 10. Gli uomini sacri guidano.
 11. Essi ricordano.
 12. Chi (fem.) danza?
-13. La (menzionata) Brahmanī danza.
+13. La (menzionata) Brahmana danza.
 
 ::: media
 ![](/images/lekt0601.jpg)
 **Śivo nṛtyati** = शिवो नृत्यति
 Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
-(Fonte dell'immagine: Wikipedia, CC-BY-SA 2.5)
+(Fonte immagine: Wikipedia, CC-BY-SA 2.5)
 :::
 
 ---
 
-## 6.9. Wiederholungsübung
+## 6.9. Esercizio di ripasso
 
-**A) Esercizio di completamento: Formulate domande alle quali le frasi, che costruirete dopo le seguenti esercitazioni di completamento, siano la risposta:**
+**A) Esercizio di completamento: Formulate domande, alle quali le frasi, che formate dopo i seguenti esercizi di completamento, sono risposte:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
    देवस् ... ईश्वर, नृत्, सृज्, अग्नि, इन्द्र
 2. (dvija, sādhu, kavi) ... brāhmaṇaḥ
@@ -280,7 +282,7 @@ In sanscrito, i verbi sono indicati nella **forma della radice**. Il numero che 
 13. paśurdhenuḥ. = पशुर्धेनुः
 14. keyam. = केयम्
 
-**C) Formulare la forma Ātmanepada per:**
+**C) Formulare l'Ātmanepada per:**
 1. rāmo yajati. = रामो यजति
 2. kṣatriyā nayanti. = क्षत्रिया नयन्ति
 
@@ -305,7 +307,7 @@ In sanscrito, i verbi sono indicati nella **forma della radice**. Il numero che 
 11. gururyajate. = गुरुर्यजते
 
 **F) Tradurre in sanscrito:**
-1. Rāma offre un sacrificio (come signore del sacrificio).
+1. Rāma offre un sacrificio (come signore dell'offerta).
 2. Durgā è una dea.
 3. Mīnākṣī è una dea.
 
@@ -322,12 +324,13 @@ In sanscrito, i verbi sono indicati nella **forma della radice**. Il numero che 
 8. Gli animali da allevamento entrano.
 9. Viṣṇu fa emanare = Viṣṇu crea.
 10. I due volte nati sono buoni.
-11. Il triplice (sapere) è il Sāmaveda, il Ṛgveda e il Yajurveda. (2 possibilità)
+11. Il triplice (sapere) è il Sāmaveda, il Ṛgveda e lo Yajurveda. (2 possibilità)
 12. Questa dea è buona.
-13. Le cinque "sofferenze" sono: ignoranza, illusione dell'io, passione (amore), odio, attaccamento al corpo. (2 possibilità)
-14. Gli "stati di dimora di Brahma" sono: benevolenza amichevole, compassione, gioia empatica, equanimità. (2 possibilità)
-15. Questi brahmani offrono sacrifici per conto di altri.
-16. Brahmani, Kṣatriya e Vaśyas sono due volte nati. (2 possibilità)
+13. Le cinque "sofferenze" sono: ignoranza, illusione dell'Io, passione (amore), odio, attaccamento al corpo. (2 possibilità)
+14. "Stati di dimora di Brahma" sono: benevolenza amichevole, compassione, gioia empatica, equanimità. (2 possibilità)
+15. Questi brāhmaṇa offrono sacrificio per conto di altri.
+16. Brāhmaṇa, Kṣatriya e Vaśya sono due volte nati. (2 possibilità)
 17. Le scienze (per un sovrano) sono: filosofia, il triplice (sapere vedico), economia e politica. (2 possibilità)
-18. Come sta?
-19. (Sta) bene in ogni aspetto.
+18. Come stai?
+19. (Sto) bene in ogni aspetto.
+

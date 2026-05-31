@@ -1,6 +1,10 @@
 ---
+title: Lektion 59
+subtitle: "Die Sekundärendungen und Imperativendungen des Dual (द्विवचनम्)"
 lesson_id: 59
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 59
@@ -842,6 +846,7 @@ Der folgende Abschnitt ist der Beginn des 15. Gesangs, der dem Aorist gewidmet i
 ::: media
 ![](/images/lekt5903.jpg)
 Abb.: कुम्भकर्णः
+Kecak-Tanz, Bali (Indonesien)
 (Bildquelle: [Details](/licenses#lekt5903))
 :::
 _Übersetzungshilfe:_ Vers 6: दिदृक्षते \= Desiderativ zu दृश्
@@ -853,7 +858,6 @@ _Übersetzungshilfe:_ Vers 6: दिदृक्षते \= Desiderativ zu द�
 Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 
 ::: deleteme-box
-### Quellen
 
 **lekt5902:** [Bildquelle: Henryart/Wikipedia. Public domain]
 

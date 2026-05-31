@@ -1,11 +1,15 @@
 ---
+title: Lección 27
+subtitle: "Uso del locativo (सप्तमी f. = \"séptima terminación casiva\")"
 lesson_id: 27
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 27
 
-## 27.1. Uso del Locativo (सप्तमी f. = "séptima terminación casuál")
+## 27.1. Uso del locativo (सप्तमी f. = "séptima terminación casuál")
 
 ::: grammar-box
 
@@ -19,7 +23,7 @@ last_reconstructed: 2026-05-21
 
 :::: grammar-box
 
-**1. El locativo (सप्तमी) indica, ante la pregunta "¿dónde?", el espacio en (en, sobre, junto a) el cual se encuentra el agente (कर्ता) u objeto de una acción, o donde tiene lugar la acción misma.**
+**1. El locativo (सप्तमी) designa, ante la pregunta "¿dónde?", el espacio en (en, sobre, junto a) el cual se encuentra el agente (कर्ता) o el objeto de una acción, o donde la acción misma se lleva a cabo.**
 
 > नगरे वसति = "Él reside en la ciudad"
 
@@ -27,63 +31,66 @@ last_reconstructed: 2026-05-21
 
 ::: media
 ![](/images/lekt2701.jpg)
-Abb.: जयपुरनगरे
-(Fuente de la imagen: [Detalles](/licenses#lekt2701))
+Fig.: जयपुरनगरे
+Jaipur, 1875.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2701))
 :::
 
 :::: grammar-box
 
-**2. El locativo indica, ante la pregunta "¿cuándo?", el momento o las circunstancias externas:**
+**2. El locativo designa, ante la pregunta "¿cuándo?", el momento o las circunstancias externas:**
 
-> तस्मिन्काले = "en ese momento, en esa época"
+> तस्मिन्काले = "en ese momento, en ese tiempo"
 
-**Aquí pertenece también el llamado *Locativus Absolutus*:**
+**Aquí pertenece también el llamado Locativus Absolutus:**
 
-**Si una acción o estado de una persona o cosa determina el tiempo en el cual —o las circunstancias bajo las cuales— otra persona o cosa realiza una acción o se encuentra en un estado determinado, entonces la palabra que designa la primera persona o cosa, junto con la palabra que la especifica más detalladamente (frecuentemente un participio), aparece en locativo (सप्तमी):**
+**Si la acción o el estado de una persona o cosa determina el tiempo al cual — o las circunstancias bajo las cuales — otra persona o cosa realiza una acción o se encuentra en un estado determinado, entonces la palabra que designa la primera persona o cosa, junto con la palabra que la especifica más estrechamente (frecuentemente un participio), aparece en locativo (सप्तमी):**
 
 > एवं गच्छति काले = "mientras el tiempo transcurre así..."
 &gt;
-> तस्मिन्गते = "cuando él ya había partido..."
+> तस्मिन्गते = "cuando él se había ido..."
 
-**A veces el agente (कर्ता) no se expresa explícitamente:**
+**A veces el agente (कर्ता) no se designa explícitamente:**
 
 > एवं सति = "dado que las cosas están así"
 
-**El *Locativus absolutus* debe traducirse según el contexto como "mientras" (p. ej., participio de presente), "después de", "cuando" (p. ej., participio de perfecto pasivo), "ya que", "porque", "aunque", "si" etc.**
+**El Locativus absolutus debe traducirse según el contexto como "mientras" (p. ej. participio presente), "después de", "cuando" (p. ej. PPP), "ya que", "porque", "aunque", "si" etc.**
 
-**Recuerde: en el *Absolutivum*, el agente del absolutivo y el agente de la oración principal deben ser idénticos; en el *Locativus absolutus*, el agente del locativo absoluto y el agente del verbo principal deben ser distintos.**
+**Nota: en el absolutivo, el agente del absolutivo y el agente de la oración principal deben ser idénticos; en el locativo absoluto, el agente del locativo absoluto y el agente del verbo principal deben ser diferentes.**
 
 ::::
 
 ::: media
 ![](/images/lekt2702.jpg)
-Abb.: एवं गच्छति कालयुष्ट्रः स्वपितi
-(Fuente de la imagen: [Detalles](/licenses#lekt2702))
+Fig.: एवं गच्छति कालयुष्ट्रः स्वपितi
+Rajasthan.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2702))
 :::
 
 :::: grammar-box
 
-**3. El locativo también responde a la pregunta "¿en relación con qué?" y similares:**
+**3. El locativo también aparece ante la pregunta "¿en relación con qué?" y similares:**
 
-> अस्ति तस्य पुत्रे स्नेहः = "Él siente afecto por su hijo" (literalmente: "En relación con el hijo, existe en él afecto")
+> अस्ति तस्य पुत्रे स्नेहः = "Él tiene amor por su hijo" (literalmente "En relación con el hijo, hay en él amor")
 
 ::::
 
 ::: media
 ![](/images/lekt2703.jpg)
-Abb.: अस्ति तस्य पुत्रे स्नेहः
-(Fuente de la imagen: [Detalles](/licenses#lekt2703))
+Fig.: अस्ति तस्य पुत्रे स्नेहः
+Holi.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2703))
 :::
 
 :::: grammar-box
 
-**4. El locativo se utiliza en los diccionarios nativos y entre los comentaristas para indicar el significado de una palabra:**
+**4. El locativo se utiliza en los diccionarios nativos y entre comentadores para indicar el significado de una palabra:**
 
-> भू सत्तायाम् = "la raíz भू en el significado de 'seriedad' (sat-tā)"
+> भू सत्तायाम् = "la raíz भू en el significado de 'seridad' (sat-tā)"
 
 ::::
 
-Más detalles sobre el uso del locativo se presentarán más adelante.
+Más sobre el uso del locativo más adelante.
 
 ## 27.2. Formación del locativo (सप्तमी)
 
@@ -93,15 +100,15 @@ Más detalles sobre el uso del locativo se presentarán más adelante.
 *   **Singular: -i**
 *   **Plural: -su**
 
-**Tenga en cuenta las alteraciones fonéticas antes de -su, así como la posible cerebralización de -su a -ṣu.**
+**¡Tenga en cuenta los cambios fonéticos antes de -su, así como la posible cerebralización de -su a -ṣu!**
 
 :::
 
-### 27.2.1. Tem consonánticos
+### 27.2.1. Teminaciones consonánticas
 
 ::: grammar-box
 
-| Tema | Locativo singular[[br]]सप्तमी एकवचन | Locativo plural[[br]]सप्तमी बहुवचन |
+| Teminación | Locativo Singular[[br]]सप्तमी एकवचन | Locativo Plural[[br]]सप्तमी बहुवचन |
 | :--- | :--- | :--- |
 | यजन्त् | यजति (yaj-at-i) | यजत्सु |
 | महान्त् | महति | महत्सु |
@@ -116,18 +123,18 @@ Más detalles sobre el uso del locativo se presentarán más adelante.
 
 | | किम् | यद् | तद् | एतद् | इदम् |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Masculino / Neutro[[br]]Locativo singular | कस्मिन् | यस्मिन् | तस्मिन् | एतस्मिन् | अस्मिन् |
-| Masculino / Neutro[[br]]Locativo plural | केषु | येषु | तेषु | एतेषु | एषु |
-| Femenino[[br]]Locativo singular | कस्याम् | यस्याम् | तस्याम् | एतस्याम् | अस्याम् |
-| Femenino[[br]]Locativo plural | कासु | यासु | तासु | एतासु | आसु |
+| Masculino / Neutro[[br]]Locativo Singular | कस्मिन् | यस्मिन् | तस्मिन् | एतस्मिन् | अस्मिन् |
+| Masculino / Neutro[[br]]Locativo Plural | केषु | येषु | तेषु | एतेषु | एषु |
+| Femenino[[br]]Locativo Singular | कस्याम् | यस्याम् | तस्याम् | एतस्याम् | अस्याम् |
+| Femenino[[br]]Locativo Plural | कासु | यासु | तासु | एतासु | आसु |
 
 :::
 
-### 27.2.3. Temáticas vocálicas
+### 27.2.3. Temáticos vocálicos
 
 ::: grammar-box
 
-| | Locativo Singular | Locativo Plural |
+| | Locativo singular | Locativo plural |
 | :--- | :--- | :--- |
 | **देव** m. | **देवे**[[br]](« deva + -i) | **देवेषु** |
 | **कवि** m. | **कवौ** | **कविषु** |
@@ -144,77 +151,79 @@ Más detalles sobre el uso del locativo se presentarán más adelante.
 ::: grammar-box
 
 | | Singular[[br]]एकवचनम् || Plural[[br]]बहुवचनम् ||
-| :--- | :--- | :--- | :--- | :--- |
 | | Masculino / Femenino[[br]]पुंस् / स्त्री | Neutro[[br]]नपुंसकम् | Masculino / Femenino[[br]]पुंस् / स्त्री | Neutro[[br]]नपुंसकम् |
+| :--- | :--- | :--- | :--- | :--- |
 | **1. Nominativo**[[br]]**१. प्रथमा** | ***-s*** | -Ø | ***-as*** | ***-i*** |
 | **2. Acusativo**[[br]]**२. द्वितीया** | ***-am*** | -Ø | -as | ***-i*** |
-| **3. Instrumental**[[br]]**३. तृतीया** | -ā | | -bhis | |
-| **4. Dativo**[[br]]**४. चतुर्थी** | -e | | -bhyas | |
-| **5. Ablativo**[[br]]**५. पञ्चमी** | -as | | -bhyas | |
-| **6. Genitivo**[[br]]**६. षष्ठी** | -as | | -ām | |
-| **7. Locativo**[[br]]**७. सप्तमी** | -i | | -su | |
+| **3. Instrumental**[[br]]**३. तृतीया** | -ā || -bhis ||
+| **4. Dativo**[[br]]**४. चतुर्थी** | -e || -bhyas ||
+| **5. Ablativo**[[br]]**५. पञ्चमी** | -as || -bhyas ||
+| **6. Genitivo**[[br]]**६. षष्ठी** | -as || -ām ||
+| **7. Locativo**[[br]]**७. सप्तमी** | -i || -su ||
 
 :::
 
-***Impreso en rojo***: casos fuertes (con ablaut de la raíz).
+***Impreso en rojo señalizador***: casos fuertes (con ablaut de la raíz).
 
 ## 27.4. Un verso con todas las formas declinativas (singular) de राम
 
 ::: media
 ![](/images/lekt2708.jpg)
 Fig.: रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥
-(Fuente de la imagen: [Detalles](/licenses#lekt2708))
+Rāma-Satz.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2708))
 :::
 
-***रामो*** राजमणिः सदा विजयते ***रामं*** रमेशं भजे[[br]]***रामेणा***भिहता निशाचरचमू ***रामाय*** तस्मै नमः ।[[br]]***रामान्***नास्ति परायणम् परतरं ***रामस्य*** दासोऽस्म्यहम्[[br]]***रामे*** चित्तलयः सदा भवतु मे भो ***राम*** मामुद्धर ॥
+***रामो*** राजमणिः सदा विजयते ***रामं*** रमेशं भजे[[br]]***रामेणा***भिहता निशाचरचमू ***रामाय*** तस्मै नमः ।[[br]]***रामान्ना***स्ति परायणम् परतरं ***रामस्य*** दासोऽस्म्यहम्[[br]]***रामे*** चित्तलयः सदा भवतु मे भो ***राम*** मामुद्धर ॥
 
 **Traducción:**
 1. **Nominativo:** Rāma, la joya (मणि m.) entre los reyes (राजन् m.) siempre triunfa (सदा).
-2. **Acusativo:** Adoro (भज् 1U) a Rāma, el señor y esposo (ईश m.) de Ramā (= Lakṣmī).
-3. **Instrumental:** Rāma ha matado (अभिहन्) el ejército (चमू f.) de los andariegos nocturnos (= demonios) (निशा f. = noche).
+2. **Acusativo:** Amo (भज् 1U) a Rāma, el señor y esposo (ईश m.) de Ramā (= Lakṣmī).
+3. **Instrumental:** Rāma ha matado (चमू f.) al ejército de los vagabundos nocturnos (= demonios) (निशा f. = noche).
 4. **Dativo:** ¡A este Rāma sea reverencia!
-5. **Ablativo:** No hay refugio (परायण n.) mejor (परतर 3) que Rāma.
+5. **Ablativo:** No hay mejor (परतर 3) refugio (परायण n.) que Rāma.
 6. **Genitivo:** Yo (अहम्) soy (अस्मि) un siervo de Rāma.
-7. **Locativo:** En Rāma sea (भवतु) siempre la paz (लय m.) de mi (मे) corazón.
-8. **Vocativo:** ¡Rāma, sálvame (उद्धर = imperativo de उद् + हृ o उद् + धृ) a mí (माम्)!
+7. **Locativo:** En Rāma esté (भवतु) siempre la paz (लय m.) de mi (मे) corazón.
+8. **Vocativo:** ¡Rāma, salva (उद्धर = Imperativo de उद् + हृ o उद् + धृ) a mí (माम्)!
 
-## 27.5. Lista de vocabulario
+## 27.5. Lista de palabras
 
-**वस्** 1P (वसति): residir, habitar (con locativo de la persona con quien se reside)
+**वस्** 1P (वसति): permanecer, habitar (con locativo de la persona con la que se habita)
 
 ::: indent
 **Fut.:** वत्स्यति[[br]]**Pass.:** उष्यते[[br]]**PPP:** उषित[[br]]**Inf.:** वस्तुम्
 :::
 
-de ello:
+de lo cual:
 
 :::: indent
 **वस्तु** n.: asiento, lugar; realidad, cosa real, realidad, objeto
 
 ::: indent
-**वस्तुतस्**: en realidad, verdaderamente
+**वस्तुतस्**: en realidad, realmente
 :::
 ::::
 
-**वस्** 2Ā (वस्ते): vestirse (ropa), llevar (ropa)
+**वस्** 2Ā (वस्ते): ponerse (ropa), llevar (ropa)
 
 ::: indent
 **Fut.:** वसिष्यते[[br]]**PPP:** वसित[[br]]**Inf.:** वसितुम्
 :::
 
-de ello:
+de lo cual:
 
 ::: indent
-**वस्त्र** n.: medio para vestirse = vestido, túnica, tela
+**वस्त्र** n.: medio para vestirse = ropa, vestido, tela
 :::
 
 ::: media
 ![](/images/lekt2706.jpg)
 Fig.: वस्त्राणि
-(Fuente de la imagen: [Detalles](/licenses#lekt2706))
+Vastrāṇi. Majuli, Assam.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2706))
 :::
 
-**वस्** 6P (उच्छति): brillar (esta raíz es importante por las formaciones nominales:)
+**वस्** 6P (उच्छति): brillar (esta raíz es importante debido a las formaciones nominales:)
 
 ::: indent
 **वसु** n.: riqueza, tesoro, bienes, posesión
@@ -225,7 +234,8 @@ Fig.: वस्त्राणि
 ::: media
 ![](/images/lekt2707.jpg)
 Fig.: वसन्तः
-(Fuente de la imagen: [Detalles](/licenses#lekt2707))
+Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2707))
 :::
 
 **हृ** 1U (हरति): sostener, llevar; traer, quitar, robar
@@ -234,10 +244,10 @@ Fig.: वसन्तः
 **Fut.:** हरिष्यति[[br]]**Pass.:** ह्रियते[[br]]**PPP:** हृत[[br]]**Inf.:** हर्तुम्
 :::
 
-de ello:
+de lo cual:
 
 ::: indent
-**हर** 3: que quita; m.: el Destructor = epíteto de Śiva
+**हर** 3: quitando; m.: el destructor = epíteto de Śiva
 :::
 
 Contraparte de **हर**:
@@ -249,22 +259,24 @@ Contraparte de **हर**:
 ::: media
 ![](/images/lekt2704.jpg)
 Fig.: हरिहरः
-(Fuente de la imagen: [Detalles](/licenses#lekt2704))
+Harihara (izquierda: Viṣṇu, derecha: Śiva).
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2704))
 :::
 
 ::: media
 ![](/images/lekt2705.jpg)
 Fig.: हरिहरः
-(Fuente de la imagen: [Detalles](/licenses#lekt2705))
+Harihara (izquierda: Viṣṇu, derecha: Śiva). Godrumdwip, Bengala Occidental.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2705))
 :::
 
 ## 27.6. Ejercicio
 
-**A) Complete las siguientes oraciones con las expresiones entre paréntesis en caso locativo (सप्तमी) singular y, cuando sea pertinente, plural. Tenga en cuenta la diferente Sandhi, es decir, escriba cada vez la oración completa.**
+**A) Complete las siguientes oraciones con las expresiones entre paréntesis en locativo (सप्तमी) singular y, donde sea apropiado, plural. Tenga en cuenta la diferente sandhi, es decir, escriba cada vez la oración completa.**
 
 रामस् ... वसति । (ग्राम । गुरु । सत्यवान्कविः । पुत्रं लब्धुकामा ब्राह्मणी । गृह । तन्नगरम् । मुह्यञ्छत्रुः)
 
-**B) Traduzca y descomponga los compuestos (समास):**
+**B) Traduzca y resuelva los compuestos:**
 
 धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥
 
@@ -275,7 +287,8 @@ Fig.: हरिहरः
 ::: media
 ![](/images/lekt2709.jpg)
 Fig.: वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥
-(Fuente de la imagen: [Detalles](/licenses#lekt2709))
+Pintura de Rāja Ravi Varmā (1848 - 1906).
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2709))
 :::
 
 पुत्रे मृतेऽपुत्रा ब्राह्मणी पुत्रं लब्धुं व्रतं करोति ॥४॥
@@ -313,7 +326,8 @@ Fig.: वसितसुवस्त्रां नरा लुभ्यन्
 ::: media
 ![](/images/lekt2711.jpg)
 Fig.: नराः
-(Fuente de la imagen: [Detalles](/licenses#lekt2711))
+Naran. Udaipur.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2711))
 :::
 
 ### 27.7.2. Neutros en -a: फल
@@ -335,10 +349,11 @@ Fig.: नराः
 ::: media
 ![](/images/lekt2710.jpg)
 Fig.: फलानि
-(Fuente de la imagen: [Detalles](/licenses#lekt2710))
+Frutas. Bangalore.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2710))
 :::
 
-### 27.7.3. Femenino en -ā: क्षत्रिया
+### 27.7.3. Femeninos en -ā: क्षत्रिया
 
 ::: grammar-box
 
@@ -357,7 +372,8 @@ Fig.: फलानि
 ::: media
 ![](/images/lekt2718.jpg)
 Fig.: क्षत्रिया
-(Fuente de la imagen: [Detalles](/licenses#lekt2718))
+Maharani Vani Vilasa Sannidhana (1866 - 1934) con su nieto el Príncipe Jaya Chamaraja Wadiyar, Mysore.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2718))
 :::
 
 ### 27.7.4. Masculinos en -i: अरि
@@ -379,10 +395,11 @@ Fig.: क्षत्रिया
 ::: media
 ![](/images/lekt2712.jpg)
 Fig.: अरयः
-(Fuente de la imagen: [Detalles](/licenses#lekt2712))
+Ejecución de dos participantes de la rebelión de 1857. Fotografía de Felice Beato (1833/1834 - ca. 1907).
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2712))
 :::
 
-### 27.7.5. Femenino en -i: मति
+### 27.7.5. Femeninos en -i: मति
 
 ::: grammar-box
 
@@ -417,10 +434,11 @@ Fig.: अरयः
 ::: media
 ![](/images/lekt2713.jpg)
 Fig.: गुरुः
-(Fuente de la imagen: [Detalles](/licenses#lekt2713))
+Maharishi Mahesh Yogi (1917 - 2008) Guru.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2713))
 :::
 
-### 27.7.7. Femenino en -u: धेनु
+### 27.7.7. Femeninos en -u: धेनु
 
 ::: grammar-box
 
@@ -439,7 +457,8 @@ Fig.: गुरुः
 ::: media
 ![](/images/lekt2714.jpg)
 Fig.: धेनुः
-(Fuente de la imagen: [Detalles](/licenses#lekt2714))
+Vaca en Udaipur.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2714))
 :::
 
 ### 27.7.8. Femeninos polisílabos en -ī: देवी
@@ -461,10 +480,11 @@ Fig.: धेनुः
 ::: media
 ![](/images/lekt2715.jpg)
 Fig.: त्रिदेवी
-(Fuente de la imagen: [Detalles](/licenses#lekt2715))
+Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2715))
 :::
 
-### 27.7.9. Participio de presente Parasmaipada en -ant: सन्त्
+### 27.7.9. Participio presente parasmaipada en -ant: सन्त्
 
 ::: grammar-box
 
@@ -483,10 +503,11 @@ Fig.: त्रिदेवी
 ::: media
 ![](/images/lekt2716.jpg)
 Fig.: सद्गुरुः
-(Fuente de la imagen: [Detalles](/licenses#lekt2716))
+Sai Baba de Shirdi (1835 - 1918).
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2716))
 :::
 
-### 27.7.10. महान्
+### 27.7.10. महान्त्
 
 ::: grammar-box
 
@@ -564,7 +585,7 @@ Fig.: सद्गुरुः
 
 :::
 
-### 27.7.13. Pronombres relativos: यद्
+### 27.7.13. Pronombre relativo: यद्
 
 ::: grammar-box
 
@@ -584,7 +605,7 @@ Fig.: सद्गुरुः
 
 ::: grammar-box
 
-| | **Singular[[br]]Masculine[[br]]पुंस्** | **Singular[[br]]Neuter[[br]]नपुंसकम्** | **Singular[[br]]Feminine[[br]]स्त्री** | **Plural[[br]]Masculine[[br]]पुंस्** | **Plural[[br]]Neuter[[br]]नपुंसकम्** | **Plural[[br]]Feminine[[br]]स्त्री** |
+| | **Singular[[br]]Masculino[[br]]पुंस्** | **Singular[[br]]Neutro[[br]]नपुंसकम्** | **Singular[[br]]Femenino[[br]]स्त्री** | **Plural[[br]]Masculino[[br]]पुंस्** | **Plural[[br]]Neutro[[br]]नपुंसकम्** | **Plural[[br]]Femenino[[br]]स्त्री** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1. Nominativo**[[br]]**१. प्रथमा** | कस् | किम् | का | के | कानि | कास् |
 | **2. Acusativo**[[br]]**२. द्वितीया** | कम् | किम् | काम् | कान् | कानि | कास् |
@@ -599,30 +620,30 @@ Fig.: सद्गुरुः
 ::: media
 ![](/images/lekt2717.jpg)
 Fig.: कस्मात् ?
-(Fuente de la imagen: [Detalles](/licenses#lekt2717))
+Tsunami 2005, Sri Lanka.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2717))
 :::
 
 ::: deleteme-box
 
-### Fuentes
 
 **lekt2701:** Jaipur, 1875. [Fuente de la imagen: Wikipedia. Dominio público]
 **lekt2702:** Rajasthan. [Fuente de la imagen: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
 **lekt2703:** Holi. [Fuente de la imagen: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
 **lekt2704:** Harihara (izquierda: Viṣṇu, derecha: Śiva). [Fuente de la imagen: Wikipedia. Dominio público]
-**lekt2705:** Harihara (izquierda: Viṣṇu, derecha: Śiva). Godrumdwip, Bengala Occidental. [Fuente de la imagen: GourangaUK / Wikipedia. Licencia GNU FDL]
+**lekt2705:** Harihara (izquierda: Viṣṇu, derecha: Śiva). Godrumdwip, Bengala Occidental. [Fuente de la imagen: GourangaUK / Wikipedia. Licencia GNU FD]
 **lekt2706:** Vastrāṇi. Majuli, Assam. [Fuente de la imagen: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
 **lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Fuente de la imagen: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Arco de Rāma. [Fuente de la imagen: Wikipedia. Dominio público]
+**lekt2708:** Rāma-Satz. [Fuente de la imagen: Wikipedia. Dominio público]
 **lekt2709:** Pintura de Rāja Ravi Varmā (1848 - 1906). [Fuente de la imagen: Wikipedia. Dominio público]
 **lekt2710:** Frutas. Bangalore. [Fuente de la imagen: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
 **lekt2711:** Naran. Udaipur. [Fuente de la imagen: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Ejecución por ahorcamiento de dos participantes de la Rebelión de 1857. Fotografía de Felice Beato (1833/1834 - ca. 1907). [Fuente de la imagen: Wikipedia. Dominio público]
-**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008), Guru. [Fuente de la imagen: Wikipedia, Licencia GNU FDL]
+**lekt2712:** Ejecución de dos participantes de la rebelión de 1857. Fotografía de Felice Beato (1833/1834 - ca. 1907). [Fuente de la imagen: Wikipedia. Dominio público]
+**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Fuente de la imagen: Wikipedia, Licencia GNU FD]
 **lekt2714:** Vaca en Udaipur. [Fuente de la imagen: Dey Flickr, 2008-12-19, CC BY-NC-SA]
 **lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Fuente de la imagen: Wikipedia. Dominio público]
 **lekt2716:** Sai Baba de Shirdi (1835 - 1918). [Fuente de la imagen: Wikipedia. Dominio público]
-**lekt2717:** Tsunami de 2005, Sri Lanka. [Fuente de la imagen: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
+**lekt2717:** Tsunami 2005, Sri Lanka. [Fuente de la imagen: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
 **lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) con su nieto el Príncipe Jaya Chamaraja Wadiyar, Mysore. [Fuente de la imagen: Wikipedia. Dominio público]
 
 :::

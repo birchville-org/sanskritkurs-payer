@@ -1,6 +1,10 @@
 ---
+title: Lektion 47
+subtitle: "Der Imperativ (लोट्)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 47
@@ -53,7 +57,7 @@ Höfliche Befehle werden gerne durch Passiv-Imperative ausgedrückt.
 Beispiele:
 
 ::: indent
-भवता प्रविश्यताम् । "Treten Sie bitte ein!"
+भवता प्रविश्यताम् । "Treten Sie ***bitte*** ein!"
 
 निषद्यताम् । "Bitte, setzen Sie sich!"
 :::
@@ -110,6 +114,7 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 ::: media
 ![](/images/lekt4702.jpg)
 Abb.: प्रविशत
+Hanuman Temple, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی
 (Bildquelle: [Details](/licenses#lekt4702))
 :::
 ### 47.2.4. Vierte Präsensklasse (दिवादि)
@@ -261,7 +266,6 @@ B.) Übersetzen Sie ins Sanskrit (verwenden Sie den Imperativ):
 34\. Es möge zum Glück gereichen (geschehen)! (Segenswunsch)
 
 ::: deleteme-box
-### Quellen
 
 **lekt4702:** Hanuman Temple, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی [Bildquelle: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Zugriff am 2009-01-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)]
 

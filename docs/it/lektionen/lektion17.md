@@ -1,6 +1,10 @@
 ---
+title: Lezione 17
+subtitle: "Seconda classe del presente (अदादि = अद् ecc.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 17
@@ -306,7 +310,8 @@ da ciò:
 ::: media
 ![](/images/lekt1703.jpg)
 Fig.: घाताः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1703))
+Bangalore = ಬೆಂಗಳೂರು
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1703))
 :::
 
 
@@ -321,7 +326,7 @@ da ciò:
 ::: media
 ![](/images/lekt1701.jpg)
 Fig.: योगासनम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1701))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1701))
 :::
 
 
@@ -340,7 +345,7 @@ da ciò:
 ::: media
 ![](/images/lekt1702.jpg)
 Fig.: दोग्धि
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1702))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1702))
 :::
  
 
@@ -478,7 +483,6 @@ Tradurre le seguenti forme verbali e indicare la radice corrispondente:
 
 ::: deleteme-box
 
-### Fonti
 
 **lekt1701:** [Fonte dell'immagine: di tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Accesso il 2008-12-07. -- Licenza Creative Commons (Attribuzione, nessuna opera derivata)]
 

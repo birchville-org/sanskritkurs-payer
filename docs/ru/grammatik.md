@@ -3,109 +3,109 @@ aside: true
 outline: [2, 3]
 ---
 
-# Grammatik Themen
+# Грамматические темы
 
-Diese Seite bietet eine systematische Übersicht über alle grammatikalischen Themen des Sanskrit-Kurses. Jede der 61 Lektionen ist hier thematisch eingeordnet.
+На этой странице представлена систематическая обзор всех грамматических тем курса санскрита. Каждая из 61 лекции тематически классифицирована здесь.
 
-## 1. Lautlehre & Schrift (Saṃhitā & Lipi)
+## 1. Фонетика и письмо (Самхита и Липи)
 
-*   **Einführung in die Laute**: Systematik und Aussprache -&gt; [Lektion 1](/lektionen/lektion01)
-*   **Schrifteinführung (Devanāgarī)**:
-    *   Vokale und einfache Konsonanten -&gt; [Lektion 40](/lektionen/lektion40)
-    *   Verbundkonsonanten (Ligaturen) -&gt; [Lektion 41](/lektionen/lektion41) & [Lektion 42](/lektionen/lektion42)
-*   **Sandhi (Lautverbindung)**:
-    *   Sandhi von auslautendem **-s/Visarga** -&gt; [Lektion 2](/lektionen/lektion02), [Lektion 3](/lektionen/lektion03), [Lektion 30](/lektionen/lektion30)
-    *   Sandhi von **-m, -e, -d** -&gt; [Lektion 4](/lektionen/lektion04)
-    *   **Vokalsandhi** -&gt; [Lektion 3](/lektionen/lektion03), [Lektion 24](/lektionen/lektion24)
-    *   Sandhi von **-n** -&gt; [Lektion 7](/lektionen/lektion07)
-    *   Sandhi für **Nasale** -&gt; [Lektion 21](/lektionen/lektion21), [Lektion 26](/lektionen/lektion26)
-    *   Cerebralisation (**n -&gt; ṇ / s -&gt; ṣ**) -&gt; [Lektion 10](/lektionen/lektion10), [Lektion 26](/lektionen/lektion26)
-    *   Wortsandhi (h-, ch-) -&gt; [Lektion 44](/lektionen/lektion44), [Lektion 51](/lektionen/lektion51)
-    *   **Konsonantensandhi** (Zusammenfassungen) -&gt; [Lektion 16](/lektionen/lektion16), [Lektion 43](/lektionen/lektion43)
+*   **Введение в звуки**: Систематика и произношение -&gt; [Урок 1](/lektionen/lektion01)
+*   **Введение в письмо (Деванагари)**:
+    *   Гласные и простые согласные -&gt; [Урок 40](/lektionen/lektion40)
+    *   Сложные согласные (лигатуры) -&gt; [Урок 41](/lektionen/lektion41) и [Урок 42](/lektionen/lektion42)
+*   **Сандхи (звуковое соединение)**:
+    *   Сандхи конечного **-s/Висарга** -&gt; [Урок 2](/lektionen/lektion02), [Урок 3](/lektionen/lektion03), [Урок 30](/lektionen/lektion30)
+    *   Сандхи **-m, -e, -d** -&gt; [Урок 4](/lektionen/lektion04)
+    *   **Гласный сандхи** -&gt; [Урок 3](/lektionen/lektion03), [Урок 24](/lektionen/lektion24)
+    *   Сандхи **-n** -&gt; [Урок 7](/lektionen/lektion07)
+    *   Сандхи для **назальных** -&gt; [Урок 21](/lektionen/lektion21), [Урок 26](/lektionen/lektion26)
+    *   Церebraлизация (**n -&gt; ṇ / s -&gt; ṣ**) -&gt; [Урок 10](/lektionen/lektion10), [Урок 26](/lektionen/lektion26)
+    *   Сандхи слов (h-, ch-) -&gt; [Урок 44](/lektionen/lektion44), [Урок 51](/lektionen/lektion51)
+    *   **Согласный сандхи** (обобщения) -&gt; [Урок 16](/lektionen/lektion16), [Урок 43](/lektionen/lektion43)
 
-## 2. Wortkunde (Morphologie)
+## 2. Морфология
 
-### 2.1 Substantive und Adjektive (Deklination)
+### 2.1 Существительные и прилагательные (склонение)
 
-*   **Grundlagen**: Kasuslehre -&gt; [Lektion 1](/lektionen/lektion01), [Lektion 2](/lektionen/lektion02)
-*   **A-Stämme** (Maskulinum & Neutrum) -&gt; [Lektion 2](/lektionen/lektion02), [Lektion 7](/lektionen/lektion07)
-*   **I- und U-Stämme** -&gt; [Lektion 3](/lektionen/lektion03), [Lektion 27](/lektionen/lektion27), [Lektion 52](/lektionen/lektion52)
-*   **Konsonantische Stämme**:
-    *   Stämme auf **-mant / -vant** -&gt; [Lektion 13](/lektionen/lektion13)
-    *   Stämme auf **-n** (Rājan, Ātman) -&gt; [Lektion 38](/lektionen/lektion38)
-    *   Einfache Konsonantenstämme -&gt; [Lektion 51](/lektionen/lektion51), [Lektion 54](/lektionen/lektion54)
-    *   Wurzelnomina auf **-ā, -ī, -ū** -&gt; [Lektion 61](/lektionen/lektion61)
-*   **Der Dual (Zweizahl)** der Nomina -&gt; [Lektion 49](/lektionen/lektion49), [Lektion 50](/lektionen/lektion50), [Lektion 53](/lektionen/lektion53)
-*   **Zahlen & Steigerung**:
-    *   Zahlwörter (Kardinalia/Ordinalia) -&gt; [Lektion 52](/lektionen/lektion52)
-    *   Steigerung (Komparativ/Superlativ) -&gt; [Lektion 53](/lektionen/lektion53)
+*   **Основы**: Учение о падежах -&gt; [Урок 1](/lektionen/lektion01), [Урок 2](/lektionen/lektion02)
+*   **Основа на -a** (мужской и средний род) -&gt; [Урок 2](/lektionen/lektion02), [Урок 7](/lektionen/lektion07)
+*   **Основа на -i и -u** -&gt; [Урок 3](/lektionen/lektion03), [Урок 27](/lektionen/lektion27), [Урок 52](/lektionen/lektion52)
+*   **Согласные основы**:
+    *   Основа на **-mant / -vant** -&gt; [Урок 13](/lektionen/lektion13)
+    *   Основа на **-n** (Rājan, Ātman) -&gt; [Урок 38](/lektionen/lektion38)
+    *   Простые согласные основы -&gt; [Урок 51](/lektionen/lektion51), [Урок 54](/lektionen/lektion54)
+    *   Корневые имена на **-ā, -ī, -ū** -&gt; [Урок 61](/lektionen/lektion61)
+*   **Дуаль (дualьное число)** имён существительных -&gt; [Урок 49](/lektionen/lektion49), [Урок 50](/lektionen/lektion50), [Урок 53](/lektionen/lektion53)
+*   **Числа и степени сравнения**:
+    *   Числительные (количественные/порядковые) -&gt; [Урок 52](/lektionen/lektion52)
+    *   Степени сравнения (компаратив/суперлатив) -&gt; [Урок 53](/lektionen/lektion53)
 
-### 2.2 Pronomina & Adverbien
+### 2.2 Местоимения и наречия
 
-*   **Pronomina**:
-    *   Frage- und Demonstrativpronomen -&gt; [Lektion 4](/lektionen/lektion04)
-    *   Relativpronomen (yad) -&gt; [Lektion 19](/lektionen/lektion19)
-    *   Personalpronomen (1. & 2. Person) -&gt; [Lektion 46](/lektionen/lektion46), [Lektion 47](/lektionen/lektion47)
-    *   Indefinitpronomina -&gt; [Lektion 37](/lektionen/lektion37)
-*   **Adverbien & Anrede**:
-    *   Bildung von Adverbien -&gt; [Lektion 37](/lektionen/lektion37), [Lektion 52](/lektionen/lektion52)
-    *   Höfliche Anrede & Vokativ -&gt; [Lektion 21](/lektionen/lektion21), [Lektion 44](/lektionen/lektion44)
+*   **Местоимения**:
+    *   Вопросительные и указательные местоимения -> [Урок 4](/lektionen/lektion04)
+    *   Относительные местоимения (yad) -> [Урок 19](/lektionen/lektion19)
+    *   Личные местоимения (1-е и 2-е лицо) -> [Урок 46](/lektionen/lektion46), [Урок 47](/lektionen/lektion47)
+    *   Неопределенные местоимения -> [Урок 37](/lektionen/lektion37)
+*   **Наречия и обращение**:
+    *   Образование наречий -> [Урок 37](/lektionen/lektion37), [Урок 52](/lektionen/lektion52)
+    *   Вежливое обращение и вокатив -> [Урок 21](/lektionen/lektion21), [Урок 44](/lektionen/lektion44)
 
-### 2.3 Verben (Konjugation)
+### 2.3 Глаголы (Спряжение)
 
-*   **Das Präsenssystem (Indikativ)**:
-    *   Personalendungen (3., 2., 1. Person) -&gt; [Lektion 6](/lektionen/lektion06), [Lektion 44](/lektionen/lektion44), [Lektion 39](/lektionen/lektion39)
-    *   Thematische Klassen (1, 4, 6, 10) -&gt; [Lektion 6](/lektionen/lektion06), [Lektion 28](/lektionen/lektion28)
-    *   Athematische Klassen -&gt; [Lektion 17](/lektionen/lektion17), [Lektion 33](/lektionen/lektion33), [Lektion 7](/lektionen/lektion07), [Lektion 31](/lektionen/lektion31), [Lektion 8](/lektionen/lektion08), [Lektion 30](/lektionen/lektion30)
-*   **Andere Tempora & Modi**:
-    *   **Imperfekt** (Vergangenheit) -&gt; [Lektion 32](/lektionen/lektion32)
-    *   **Optativ & Imperativ** -&gt; [Lektion 30](/lektionen/lektion30), [Lektion 48](/lektionen/lektion48)
-    *   **Perfekt** (Singular/Plural) -&gt; [Lektion 34](/lektionen/lektion34), [Lektion 35](/lektionen/lektion35), [Lektion 36](/lektionen/lektion36)
-    *   **Perfekt (Dual)** -&gt; [Lektion 60](/lektionen/lektion60)
-    *   **Futur** (Einfach & Periphrastisch) -&gt; [Lektion 26](/lektionen/lektion26), [Lektion 61](/lektionen/lektion61)
-    *   **Aorist** (Vergangenheit) -&gt; [Lektion 54](/lektionen/lektion54), [Lektion 55](/lektionen/lektion55), [Lektion 56](/lektionen/lektion56), [Lektion 57](/lektionen/lektion57), [Lektion 58](/lektionen/lektion58)
-*   **Abgeleitete Verbformen**:
-    *   **Passiv & Kausativ** -&gt; [Lektion 10](/lektionen/lektion10), [Lektion 28](/lektionen/lektion28), [Lektion 29](/lektionen/lektion29)
-    *   **Intensivum & Denominativa** -&gt; [Lektion 61](/lektionen/lektion61)
-*   **Verben im Dual (Zweizahl)** -&gt; [Lektion 59](/lektionen/lektion59), [Lektion 60](/lektionen/lektion60)
+*   **Настоящее время (Изъявительное наклонение)**:
+    *   Личные окончания (3, 2, 1 лицо) -> [Урок 6](/lektionen/lektion06), [Урок 44](/lektionen/lektion44), [Урок 39](/lektionen/lektion39)
+    *   Тематические классы (1, 4, 6, 10) -> [Урок 6](/lektionen/lektion06), [Урок 28](/lektionen/lektion28)
+    *   Атематические классы -> [Урок 17](/lektionen/lektion17), [Урок 33](/lektionen/lektion33), [Урок 7](/lektionen/lektion07), [Урок 31](/lektionen/lektion31), [Урок 8](/lektionen/lektion08), [Урок 30](/lektionen/lektion30)
+*   **Другие времена и наклонения**:
+    *   **Имперфект** (прошедшее время) -> [Урок 32](/lektionen/lektion32)
+    *   **Оптив и Императив** -> [Урок 30](/lektionen/lektion30), [Урок 48](/lektionen/lektion48)
+    *   **Перфект** (единственное/множественное число) -> [Урок 34](/lektionen/lektion34), [Урок 35](/lektionen/lektion35), [Урок 36](/lektionen/lektion36)
+    *   **Перфект (двойственное число)** -> [Урок 60](/lektionen/lektion60)
+    *   **Фьютур** (простой и перифрастический) -> [Урок 26](/lektionen/lektion26), [Урок 61](/lektionen/lektion61)
+    *   **Аорист** (прошедшее время) -> [Урок 54](/lektionen/lektion54), [Урок 55](/lektionen/lektion55), [Урок 56](/lektionen/lektion56), [Урок 57](/lektionen/lektion57), [Урок 58](/lektionen/lektion58)
+*   **Производные глагольные формы**:
+    *   **Пассив и Каузатив** -> [Урок 10](/lektionen/lektion10), [Урок 28](/lektionen/lektion28), [Урок 29](/lektionen/lektion29)
+    *   **Интенсив и Деноминативы** -> [Урок 61](/lektionen/lektion61)
+*   **Глаголы в двойственном числе** -> [Урок 59](/lektionen/lektion59), [Урок 60](/lektionen/lektion60)
 
-### 2.4 Nominalbildungen & Komposita
+### 2.4 Именные образования и составные слова
 
-*   **Komposita (Samāsa)**:
-    *   **Dvandva** (Kopulativkomposita) -&gt; [Lektion 5](/lektionen/lektion05), [Lektion 9](/lektionen/lektion09)
-    *   **Tatpuruṣa** (Determinativ) -&gt; [Lektion 15](/lektionen/lektion15), [Lektion 18](/lektionen/lektion18)
-    *   Upapada-Komposita -&gt; [Lektion 51](/lektionen/lektion51)
-    *   **Bahuvrīhi** (Possessiv) -&gt; [Lektion 20](/lektionen/lektion20)
-*   **Suffixe & Partizipien**:
-    *   Wichtige Suffixe (-a, -ana, -tra, etc.) -&gt; [Lektion 8](/lektionen/lektion08), [Lektion 9](/lektionen/lektion09)
-    *   **PPP** (Partizip Perfekt Passiv) -&gt; [Lektion 12](/lektionen/lektion12), [Lektion 13](/lektionen/lektion13)
-    *   **PPA** (Partizip Perfekt Aktiv) -&gt; [Lektion 52](/lektionen/lektion52)
-    *   **Absolutivum & Infinitiv** -&gt; [Lektion 22](/lektionen/lektion22), [Lektion 23](/lektionen/lektion23)
+*   **Составные слова (Самаса)**:
+    *   **Двандва** (копулятивные составные слова) -&gt; [Урок 5](/lektionen/lektion05), [Урок 9](/lektionen/lektion09)
+    *   **Татпуруша** (детерминативные составные слова) -&gt; [Урок 15](/lektionen/lektion15), [Урок 18](/lektionen/lektion18)
+    *   Упадха-составные слова -&gt; [Урок 51](/lektionen/lektion51)
+    *   **Бхуврихи** (позессивные составные слова) -&gt; [Урок 20](/lektionen/lektion20)
+*   **Суффиксы и причастия**:
+    *   Важные суффиксы (-a, -ana, -tra, и т.д.) -&gt; [Урок 8](/lektionen/lektion08), [Урок 9](/lektionen/lektion09)
+    *   **PPP** (причастие совершенного времени страдательного залога) -&gt; [Урок 12](/lektionen/lektion12), [Урок 13](/lektionen/lektion13)
+    *   **PPA** (причастие совершенного времени действительного залога) -&gt; [Урок 52](/lektionen/lektion52)
+    *   **Абсолютив и инфинитив** -&gt; [Урок 22](/lektionen/lektion22), [Урок 23](/lektionen/lektion23)
 
-## 3. Satzlehre (Syntax)
+## 3. Синтаксис
 
-*   **Der Nominalsatz** -&gt; [Lektion 2](/lektionen/lektion02)
-*   **Der Fragesatz** -&gt; [Lektion 37](/lektionen/lektion37)
-*   **Kasusgebrauch**:
-    *   Nominalsatz & Nominativ -&gt; [Lektion 2](/lektionen/lektion02)
-    *   Akkusativ (auch doppelt) -&gt; [Lektion 7](/lektionen/lektion07), [Lektion 11](/lektionen/lektion11)
-    *   Instrumentalis -&gt; [Lektion 10](/lektionen/lektion10)
-    *   Genitiv -&gt; [Lektion 14](/lektionen/lektion14)
-    *   Dativ -&gt; [Lektion 24](/lektionen/lektion24)
-    *   Ablativ -&gt; [Lektion 25](/lektionen/lektion25)
-    *   Lokativ -&gt; [Lektion 27](/lektionen/lektion27)
-*   **Nebensätze**:
-    *   Relativsätze -&gt; [Lektion 19](/lektionen/lektion19)
-    *   Gebrauch der Partizipien -&gt; [Lektion 12](/lektionen/lektion12), [Lektion 44](/lektionen/lektion44)
+*   **Именное предложение** -> [Урок 2](/lektionen/lektion02)
+*   **Вопросительное предложение** -> [Урок 37](/lektionen/lektion37)
+*   **Употребление падежей**:
+    *   Именное предложение и именительный падеж -> [Урок 2](/lektionen/lektion02)
+    *   Винительный падеж (в том числе двойной) -> [Урок 7](/lektionen/lektion07), [Урок 11](/lektionen/lektion11)
+    *   Творительный падеж -> [Урок 10](/lektionen/lektion10)
+    *   Родительный падеж -> [Урок 14](/lektionen/lektion14)
+    *   Дательный падеж -> [Урок 24](/lektionen/lektion24)
+    *   Отложительный падеж -> [Урок 25](/lektionen/lektion25)
+    *   Местный падеж -> [Урок 27](/lektionen/lektion27)
+*   **Придаточные предложения**:
+    *   Относительные придаточные -> [Урок 19](/lektionen/lektion19)
+    *   Употребление причастий -> [Урок 12](/lektionen/lektion12), [Урок 44](/lektionen/lektion44)
 
-## 4. Metrik (Verslehre)
+## 4. Метрика (учение о стихосложении)
 
-Sanskrit-Philosophie und Literatur sind oft in Versen verfasst. Die Metrik lehrt den Rhythmus und Aufbau dieser Verse.
+Санскритская философия и литература часто написаны стихами. Метрика изучает ритм и структуру этих стихов.
 
-*   **Einführung & Śloka** -&gt; [Lektion 45](/lektionen/lektion45), [Lektion 53](/lektionen/lektion53)
-*   **Fortgeschrittene Metren** (Trīṣṭubh, Jāgatī) -&gt; [Lektion 54](/lektionen/lektion54)
+*   **Введение и Шлока** -&gt; [Урок 45](/lektionen/lektion45), [Урок 53](/lektionen/lektion53)
+*   **Продвинутые метры** (Триштубх, Джгаити) -&gt; [Урок 54](/lektionen/lektion54)
 
 ---
 
-&gt; [!TIP] Merkregel
-&gt; Diese Übersicht hilft dir, gezielt grammatikalische Phänomene nachzuschlagen. Für eine chronologische Erarbeitung des Stoffes folge einfach der Nummerierung der Lektionen im Hauptmenü.
+&gt; [!TIP] Запомни правило
+&gt; Этот обзор помогает тебе целенаправленно искать грамматические явления. Для последовательного изучения материала просто следуй нумерации уроков в главном меню.

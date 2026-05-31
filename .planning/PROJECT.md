@@ -8,15 +8,14 @@ Ein automatisiertes Produktionssystem (Static Site Generator Pipeline), das best
 
 Perfekte typografische Darstellung von Sanskrit/Devanāgarī eingebettet in eine blitzschnelle, übersichtliche und voll durchsuchbare Struktur, die als einfache Pipeline vollautomatisch neue Kapitel integrieren kann.
 
-## Current Milestone: v1.2 Search, Index & I18n Expansion
+## Current Milestone: v1.3 Editor First
 
-**Goal:** Tiefergehende Erschließung der Inhalte durch Indizes und Suche sowie Ausbau der internationalen Präsenz (IT/ES).
+**Goal:** VitePress-aware Markdown Editor als Kernwerkzeug für Content-Autoren. Sprachen und Backlogs sekundär.
 
 **Target features:**
-- **Thematische Indizes**: Aufbau eines Querverweis-Systems für grammatikalische Begriffe.
-- **Erweiterte Suche**: Optimierung für Devanāgarī und IAST-Transliterationen.
-- **Mehrsprachigkeit (IT/ES)**: Integration von Italienisch und Spanisch inklusive automatisierter Übersetzung.
-- **Multimedia-Pilot**: *Verschoben auf v1.3+*
+- **⭐ Markdown Editor**: Split-Pane mit Live-Vorschau und voller VitePress-Container-Syntax-Unterstützung.
+- **I18n Completion**: ES, LA, RM, TA (sekundär).
+- **Scholarly Polish**: Bildunterschriften, Lizenz-Audit, Comparison Mode (sekundär).
 
 ## Requirements
 
@@ -35,11 +34,15 @@ Perfekte typografische Darstellung von Sanskrit/Devanāgarī eingebettet in eine
 - ✓ **Grammar Exercise Translation (1-60)** — v1.1
 - ⚠ **Wide-Mode (Layout Toggle)** — Discarded in v1.1 in favor of standard responsive layout.
 
+- ✓ **Thematische Indizes** (INDEX-01) — v1.2
+- ✓ **Devanāgarī-Suche** (SRCH-01) — v1.2
+- ✓ **Internationalisierung IT/ES/BG/UK/RU** — v1.2 (⚠ BG/UK/RU gaps handled out-of-band)
+
 ### Active
 
-- [ ] **Thematische Indizes** (INDEX-01): Aufbau einer Querverweis-Struktur für grammatikalische Begriffe.
-- [ ] **Devanāgarī-Suche** (SRCH-01): Optimierung der Suchfunktion für transliterierte und native Zeichen.
-- [ ] **Internationalisierung IT/ES** (I18N-02): Setup und Übersetzung für Italienisch und Spanisch.
+- [ ] **Markdown Editor** (EDIT-01): VitePress-aware Split-Pane Editor mit Container-Syntax-Support.
+- [ ] **I18n ES/LA/RM/TA** (I18N-06): Setup und Übersetzung für Spanisch, Latein, Rätoromanisch, Tamil.
+- [ ] **Scholarly Polish** (POLISH-01): Bildunterschriften-Standardisierung und Lizenz-Audit.
 
 ### Key Decisions & Constraints
 

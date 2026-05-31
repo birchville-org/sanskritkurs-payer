@@ -1,23 +1,28 @@
 ---
+title: Lesson 30
+subtitle: "The 9th Present Class (क्र्यादि = \"क्री etc.\")"
 lesson_id: 30
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 30
 
-## 30.1. The 9th Present Class (क्र्यादि = "kīr- etc.")
+## 30.1. The 9th Present Class (क्र्यादि = "क्री etc.")
 
 ::: grammar-box
 **Formation:**
 
-*   strong stem: zero-grade root + -nā-
+*   strong stem: root in guṇa grade + -nā-
     
 *   weak stem:
     
-    *   before consonant: zero-grade root + -nī-
+    *   before consonant: root in zero grade + -nī-
         
-    *   before vowel: zero-grade root + -n-
+    *   before vowel: root in zero grade + -n-
 :::
+        
 
 Example:
 
@@ -34,7 +39,7 @@ Example:
 
 :::
 
-For this present class, special attention must be paid to the formation of the present stem from the root ज्ञा 9U "to know, to recognize":
+In this present class, special attention must be paid to the formation of the present stem from the root ज्ञा 9U "to know, to recognize":
 
 ::: grammar-box
 
@@ -44,10 +49,9 @@ For this present class, special attention must be paid to the formation of the p
 |**3rd Person[[br]]Ātmanepada**|जानीते[[br]](jā-nī-te)|जानते[[br]](jā-n-ate)|
 
 :::
+The form जा, which underlies the present stem of ज्ञा, can be explained either by an ablaut series -ā (zero grade) -nā (guṇa grade) or by dissimilation from *jñā-nā-ti.
 
-The form जा, which underlies the present stem of ज्ञा, can be explained either through an ablaut series -ā (zero-grade) -nā (full-grade), or through dissimilation from *jñā-nā-ti.
-
-A few roots ending in a long vowel shorten this vowel before the present stem suffix of the 9th class:
+Some roots with long vowels shorten this vowel before the present stem suffix of the 9th class:
 
 Example:
 
@@ -64,26 +68,26 @@ Example:
 
 :::
 
-Formation of the Present Participle (Parasmaipada):
+Formation of the Present Participle Parasmaipada:
 
 Example:
 
 ::: indent
-क्रीणन्त् (krī + n + ant); fem.: क्रीणती (krī + n + at + ī)
+क्रीणन्त् (krī + n + ant) ; fem.: क्रीणती (krī + n + at + ī)
 :::
 
-## 30.2. Usage of the Optative (लिङ्)
+## 30.2. Use of the Optative (लिङ्)
 
-The Optative is used:
+The optative is used:
 
 ::: grammar-box
-**1. To express**
+**1. to express**
 
 *   **a wish**
 *   **a request**
 *   **a softened command**
 
-**(here the Optative - लिङ् - overlaps with the Imperative - लोट्)**
+**(here the optative - लिङ् - overlaps with the imperative - लोट्)**
 :::
 
 Example:
@@ -99,31 +103,32 @@ Example:
 *   **probable**
 *   **presumed**
 
+**to be the case.**
 :::
 
 Example:
 
 ::: indent
-ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात् = "If he were to go from the village, he would not hear the teacher"
+ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात् = "If he were to leave the village, he would not hear the master"
 :::
 
 ::: grammar-box
-**3. Relative clauses with the Optative sometimes carry the meaning: "If anyone ..."**
+**3. Relative clauses with the optative sometimes have the meaning: "If someone ..."**
 :::
 
 Example:
 
 ::: indent
-यो नृतं वदेत्स नरकं पतेत् = "If anyone were to speak untruth, he would fall into hell = If anyone speaks untruth, he falls into hell"
+यो नृतं वदेत्स नरकं पतेत् = "If someone were to tell a lie, he would fall into hell = If someone tells a lie, he falls into hell"
 :::
 
-## 30.3. Secondary Endings of the 3rd Person Singular and Plural
+## 30.3. Secondary endings of the 3rd person singular and plural
 
-The Optative (लिङ्), the Imperfect (लङ्), the Aorist (लुङ्), the Prekativ (आशिर्लिङ्), and the Conditional possess the so-called secondary endings:
+The optative (लिङ्), the imperfect (लङ्), the aorist (लुङ्), the precative (आशिर्लिङ्) and the conditional have the so-called secondary endings:
 
 ::: grammar-box
 
-| |3rd Person Singular|3rd Person Plural|
+| |3rd person singular|3rd person plural|
 | :--- | :--- | :--- |
 |**Parasmaipada**|**-t**|athematic classes: **-an** or **-ur**[[br]]Optative: **-ur**|
 |**Ātmanepada**|**-ta**|athematic classes: **-ata** (from *nta)[[br]]Optative: **-ran**|
@@ -135,13 +140,13 @@ The Optative (लिङ्), the Imperfect (लङ्), the Aorist (लुङ्
 ### 30.4.1. Thematic Present Classes
 
 ::: grammar-box
-**Before endings beginning with a consonant:**
+**before endings beginning with a consonant:**
 
-**Present stem + -i- (which merges with the preceding -a- to form -e-) + Secondary endings**
+**Present stem + -i- (which merges with -a- to form -e-) + secondary endings**
 
-**Before endings beginning with a vowel:**
+**before endings beginning with a vowel:**
 
-**Present stem + -i- (» -e-) + -y- + Secondary ending**
+**Present stem + -i- (» -e-) + -y- + secondary ending**
 :::
 
 Examples:
@@ -182,7 +187,7 @@ Examples:
 
 :::
 
-10\. Present class and Causatives
+10\. Present class and causatives
 
 चुर्
 ::: grammar-box
@@ -194,7 +199,7 @@ Examples:
 
 :::
 
-### 30.4.2. Athermatic Present Classes
+### 30.4.2. Atheric Present Classes
 
 ::: grammar-box
 **Parasmaipada:**
@@ -213,7 +218,7 @@ Examples:
 द्विष्
 ::: grammar-box
 
-| |Singular[[br]]ekavacana|Plural[[br]]bahuvacana|
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3rd Person[[br]]Parasmaipada**|द्विष्यात्[[br]](dviṣ-yā-t)|द्विष्युर्[[br]](dviṣ-y-ur)|
 |**3rd Person[[br]]Ātmanepada**|द्विषीत[[br]](dviṣ-ī-ta)|द्विषीरन्[[br]](dviṣ-ī-ran)|
@@ -225,7 +230,7 @@ Examples:
 सु
 ::: grammar-box
 
-| |Singular[[br]]ekavacana|Plural[[br]]bahuvacana|
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3rd Person[[br]]Parasmaipada**|सुनुयात्[[br]](sunu-yā-t)|सुनुयुर्[[br]](sunu-y-ur)|
 |**3rd Person[[br]]Ātmanepada**|सुन्वीत[[br]](sunu + ī + ta)|सुन्वीरन्[[br]](sunu + ī + ran)|
@@ -237,7 +242,7 @@ Examples:
 तन्
 ::: grammar-box
 
-| |Singular[[br]]ekavacana|Plural[[br]]bahuvacana|
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3rd Person[[br]]Parasmaipada**|तनुयात्[[br]](tanu-yā-t)|तनुयुर्[[br]](tanu-y-ur)|
 |**3rd Person[[br]]Ātmanepada**|तन्वीत[[br]](tanu + ī + ta)|तन्वीरन्[[br]](tanu + ī + ran)|
@@ -248,7 +253,7 @@ Examples:
 
 ::: grammar-box
 
-| |Singular[[br]]ekavacana|Plural[[br]]bahuvacana|
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3rd Person[[br]]Parasmaipada**|कुर्यात्|कुर्युर्|
 |**3rd Person[[br]]Ātmanepada**|कुर्वीत|कुर्वीरन्|
@@ -257,7 +262,7 @@ Examples:
 
 ::: grammar-box
 
-| |Singular[[br]]ekavacana|Plural[[br]]bahuvacana|
+| |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3rd Person Parasmaipada**|क्रीणीयात्[[br]](krīṇī-yā-t)|क्रीणीयुर्[[br]](krīṇī-y-ur)|
 |**3rd Person Ātmanepada**|क्रीणीत[[br]](krīṇ-ī-ta)|क्रीणीरन्[[br]](krīṇ-ī-ran)|
@@ -267,22 +272,23 @@ Examples:
 ## 30.5. Sandhi of final -r
 
 ::: grammar-box
-**With the exception of -ar, the same Sandhi rules apply to final -r as to final -s.**
+**Except for -ar, the same Sandhi rules apply to final -r as to final -s.**
 
-**-ar before voiced sounds remains -ar, but before r- the -r drops and the -a- is replaced by -ā-.**
+**-ar before voiced sounds remains -ar, but before r- the -r is lost and the -a- is replaced by -ā-.**
 :::
+
 
 Examples:
 
 ::: indent
-भवेयुर् + च » भवेयश्च
+भवेयुर् + च » भवेयुश्च
 
 पुनर् + अग्निः » पुनरग्निः
 
 पुनर् + रोदिति » पुना रोदिति
 :::
 
-## 30.6. Vocabulary List
+## 30.6. Word List
 
 क्री 9U क्रीणाति : to buy
 
@@ -302,7 +308,8 @@ Absol. विक्रीय
 ::: media
 ![](/images/lekt3001.jpg)
 Fig.: क्रीणन्ति विक्रीणते च
-(Image source: [Details](/licenses#lekt3001))
+Bundi = बुन्दी, Rajasthan = राजस्थान
+(Image source: [Details](/en/licenses#lekt3001))
 :::
 
 ज्ञा 9U जानाति : to know, to recognize, to know, to understand
@@ -315,17 +322,18 @@ Caus. PPP ज्ञप्त / ज्ञापित
 PPP ज्ञात  
 Inf. ज्ञातुम्
 
-from this:
+from which:
 
 ज्ञाति m.: (blood) relative (relatives are those whom one knows!)
 
-ज्ञान n.: insight, knowledge, cognition (esp. of the "higher" truths in religion and philosophy)
+ज्ञान n.: knowledge, wisdom, understanding (esp. of the "higher" truths in religion and philosophy)
 :::
 
 ::: media
 ![](/images/lekt3002.jpg)
 Fig.: ज्ञातयः
-(Image source: [Details](/licenses#lekt3002))
+Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र
+(Image source: [Details](/en/licenses#lekt3002))
 :::
 
 पू 9U पुनाति : to purify
@@ -341,7 +349,7 @@ Inf. पवितुम्
 ::: media
 ![](/images/lekt3003.jpg)
 Fig.: श्रोत्राणि पुनाति
-(Image source: [Details](/licenses#lekt3003))
+(Image source: [Details](/en/licenses#lekt3003))
 :::
 
 अश् 9P अश्नाति : to eat, to consume
@@ -357,7 +365,8 @@ Inf. अशितुम्
 ::: media
 ![](/images/lekt3005.jpg)
 Fig.: अश्नीयात्
-(Image source: [Details](/licenses#lekt3005))
+थाली, South India
+(Image source: [Details](/en/licenses#lekt3005))
 :::
 
 प्रिय ३: dear, loving, friendly
@@ -365,7 +374,7 @@ Fig.: अश्नीयात्
 ::: media
 ![](/images/lekt3004.jpg)
 Fig.: प्रिया
-(Image source: [Details](/licenses#lekt3004))
+(Image source: [Details](/en/licenses#lekt3004))
 :::
 
 चेत् Conjunction: if; provided that (never occurs at the beginning of a sentence)
@@ -377,9 +386,9 @@ Fig.: प्रिया
 यदि Conjunction: if
 
 ::: indent
-यद्यपि : if also, even if, although
+यद्यपि : even if, although
 
-यद्येवम् : if it is so, under these circumstances
+यद्येवम् : if so, under these circumstances
 :::
 
 पुनर् : again, repeatedly, back, once more, on the contrary, but
@@ -387,7 +396,7 @@ Fig.: प्रिया
 ::: indent
 पुनः पुनर् : repeatedly
 
-from this:
+from which:
 
 पुनर्भव m.: rebirth
 :::
@@ -395,7 +404,7 @@ from this:
 ::: media
 ![](/images/lekt2904.jpg)
 Fig.: पुनर्भवः
-(Image source: [Details](/licenses#lekt2904))
+(Image source: [Details](/en/licenses#lekt2904))
 :::
 
 जीव् 1P जीवति : to live
@@ -404,10 +413,10 @@ Fig.: पुनर्भवः
 Fut. जीविष्यति  
 Pass. जीव्यते  
 Caus. जीवयति  
-PPP जीवित : alive  
+PPP जीवित : living  
 Inf. जीवितुम्
 
-from this:
+from which:
 
 जीव m./n.: life, individual soul
 :::
@@ -416,7 +425,7 @@ from this:
 
 ## 30.7. Exercise
 
-A) Convert the following verbal forms into the corresponding Optative forms, matching the Person, Number, and Genus Verbi:
+A) Convert the following verbal forms into the corresponding optative forms in person, number, and gender:
 
 1.  ह्रियते
 2.  ध्नन्ति
@@ -484,7 +493,7 @@ A) Convert the following verbal forms into the corresponding Optative forms, mat
 64.  अदन्ति
 65.  अध्यापयन्ति
 
-B) Translate the following sentences and resolve the Sanskrit compounds:
+B) Translate the following sentences and resolve the compounds in Sanskrit:
 
 जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥
 
@@ -505,7 +514,7 @@ B) Translate the following sentences and resolve the Sanskrit compounds:
 सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् ।  
 प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥ ॥मनुस्मृति ४.१३८॥
 
-## 30.8. Repetition Exercise on Morphology
+## 30.8. Form Exercise
 
 Determine and translate the following word forms:
 
@@ -552,11 +561,10 @@ Determine and translate the following word forms:
 
 ::: deleteme-box
 
-### Sources
-**lekt3001:** Bundi = बुन्दी, Rajasthan = राजस्थान [Image source: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-Commercial, No Derivative Works)]
-**lekt3002:** Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र [Image source: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-Commercial, Share Alike)]
-**lekt3003:** [Image source: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Share Alike)]
-**lekt3005:** थाली, South India [Image source: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-Commercial, Share Alike)]
-**lekt3004:** [Image source: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Share Alike)]
+**lekt3001:** Bundi = बुन्दी, Rajasthan = राजस्थान [Image source: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-commercial, No derivatives)]
+**lekt3002:** Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र [Image source: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-commercial, ShareAlike)]
+**lekt3003:** [Image source: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, ShareAlike)]
+**lekt3005:** थाली, South India [Image source: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-commercial, ShareAlike)]
+**lekt3004:** [Image source: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, ShareAlike)]
 **lekt2904:** [Image source: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
 :::

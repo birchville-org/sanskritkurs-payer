@@ -1,6 +1,10 @@
 ---
+title: Lezione 15
+subtitle: "सुभाषितम्"
 lesson_id: 15
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 15
@@ -66,7 +70,7 @@ Nom. pl. गुणवत्पुत्राः
 ::: media
 ![](/images/lekt1501.jpg)
 Fig.: लक्ष्मी
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1501))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1501))
 :::
 
 ::: grammar-box
@@ -89,7 +93,7 @@ Per quanto riguarda la sequenza dei membri in un Karmadhāraya, si deve osservar
 ::: media
 ![](/images/lekt1503.jpg)
 Fig.: नरसिंहः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1503))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1503))
 :::
 
 ## 15.4. Composti determinativi con un primo membro che ha con il secondo membro una relazione casuale non attributiva/appositiva = Tatpuruṣa in senso stretto
@@ -145,7 +149,7 @@ Sebbene in sanscrito si possano formare composti di lunghezza arbitraria e ciò 
 
 ::: media
 ![]/images/lekt1502.jpg
-(Fonte dell’immagine: [Dettagli](/licenses#lekt1502))
+(Fonte dell’immagine: [Dettagli](/it/licenses#lekt1502))
 :::
 e così via, fino a giungere ai singoli stemi lessicali.
 
@@ -261,7 +265,7 @@ ad esempio:
 ::: media
 ![](/images/lekt1504.jpg)
 Fig.: पूजा
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1504))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1504))
 :::
 
 कुल n.: branco, moltitudine, stirpe, discendenza, famiglia
@@ -270,7 +274,7 @@ Fig.: पूजा
 ::: media
 ![](/images/lekt1505.jpg)
 Fig.: इन्द्रः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1505))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1505))
 :::
 
 दास m.: schiavo, servo, domestico
@@ -299,14 +303,14 @@ da ciò:
 ::: media
 ![](/images/lekt1506.jpg)
 Fig.: सिंहः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1506))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1506))
 :::
 
 व्याघ्र m.: tigre (_Panthera tigris tigris_) (letteralmente: sbadigliatore)
 ::: media
 ![](/images/lekt1507.jpg)
 Fig.: व्याघ्रः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1507))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1507))
 :::
 
 इव (posposto): come, quasi (nei confronti: व्याघ्र इव पुरुषः = "un uomo come una tigre", "un uomo simile a una tigre")
@@ -528,7 +532,7 @@ Risolvere, come nell’Esercizio 1, i seguenti composti tatpuruṣa:
 ::: media
 ![](/images/lekt1508.jpg)
 Fig.: ग्रामदेवता
-(Fonte dell’immagine: [Dettagli](/licenses#lekt1508))
+(Fonte dell’immagine: [Dettagli](/it/licenses#lekt1508))
 :::
 
 ## 15.11. Esercizio 3
@@ -591,12 +595,11 @@ B) Risolvere i seguenti Tatpuruṣa:
 ::: media
 ![](/images/lekt1509.jpg)
 Fig.: नागदेवाः
-(Fonte dell’immagine: [Dettagli](/licenses#lekt1509))
+(Fonte dell’immagine: [Dettagli](/it/licenses#lekt1509))
 :::
 
 ::: deleteme-box
 
-### Fonti
 
 - **Fig.: लक्ष्मी** (Lakshmi): Dipinto di राजा रवि वर्मा (1848 - 1906). Fonte dell'immagine: Wikipedia, dominio pubblico.
 - **Fig.: नरसिंहः** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Fonte dell'immagine: Wikipedia, dominio pubblico.

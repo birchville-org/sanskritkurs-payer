@@ -143,7 +143,8 @@ Examples:
 ::: media
 ![](/images/lekt3202.jpg)
 Fig.: चूतः
-(Image source: [Details](/licenses#lekt3202))
+Mango tree, Kanpur.
+(Image source: [Details](/en/licenses#lekt3202))
 :::
 
 **तरु** **वृक्ष**
@@ -179,7 +180,8 @@ Fig.: चूतः
 ::: media
 ![](/images/lekt3203.jpg)
 Fig.: वानराः
-(Image source: [Details](/licenses#lekt3203))
+Monkeys (rhesus macaques) in Delhi.
+(Image source: [Details](/en/licenses#lekt3203))
 :::
 
 **लोक् लोकयति**
@@ -200,7 +202,8 @@ Fig.: वानराः
 ::: media
 ![](/images/lekt3204.jpg)
 Fig.: उपलाः
-(Image source: [Details](/licenses#lekt3204))
+Stone quarry south of Pune, Maharashtra.
+(Image source: [Details](/en/licenses#lekt3204))
 :::
 
 **लक्ष्य**
@@ -208,7 +211,8 @@ Fig.: उपलाः
 ::: media
 ![](/images/lekt3205.jpg)
 Fig.: लक्ष्यम्
-(Image source: [Details](/licenses#lekt3205))
+Target practice / arrow target, Karnataka.
+(Image source: [Details](/en/licenses#lekt3205))
 :::
 
 **क्षिप् क्षिपति**
@@ -234,7 +238,8 @@ Fig.: लक्ष्यम्
 ::: media
 ![](/images/lekt3207.jpg)
 Fig.: चितं गोमयं दहति
-(Image source: [Details](/licenses#lekt3207))
+Burning cow dung patties in Rajasthan.
+(Image source: [Details](/en/licenses#lekt3207))
 :::
 
 **चि अव**
@@ -248,7 +253,8 @@ Fig.: चितं गोमयं दहति
 ::: media
 ![](/images/lekt3206.jpg)
 Fig.: कौशलम्
-(Image source: [Details](/licenses#lekt3206))
+Mehndi painting on hands in Mumbai.
+(Image source: [Details](/en/licenses#lekt3206))
 :::
 
 ## 32.6. Exercise
@@ -346,7 +352,8 @@ B) Translate and resolve the compounds in Sanskrit:
 ::: media
 ![](/images/lekt3208.jpg)
 Fig.: बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
-(Image source: [Details](/licenses#lekt3208))
+Buddhist monk in Sri Lanka.
+(Image source: [Details](/en/licenses#lekt3208))
 :::
 
 ## 32.7. Review Exercise for the Christmas Holidays
@@ -569,7 +576,8 @@ C) Translate into Sanskrit:
 ::: media
 ![](/images/lekt3209.jpg)
 Fig.: पुनर्दर्शनाय
-(Image source: [Details](/licenses#lekt3209))
+Indian greeting / farewell.
+(Image source: [Details](/en/licenses#lekt3209))
 :::
 
 ## 32.8. Review Exercise
@@ -649,12 +657,12 @@ Explanations:
 ::: media
 ![](/images/lekt3210.jpg)
 Fig.: तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
-(Image source: [Details](/licenses#lekt3210))
+Monkeys in mango trees.
+(Image source: [Details](/en/licenses#lekt3210))
 :::
 
 ::: deleteme-box
 
-### Sources
 
 **lekt3202:** Mango tree, Kanpur. [Image source: AmarChandra / Wikipedia. CC BY-SA]
 

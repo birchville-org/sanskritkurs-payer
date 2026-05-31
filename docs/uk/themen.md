@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Themen-Register
+# Реєстр тем
 
-Das Themen-Register wird automatisch aus den Überschriften aller Lektionen generiert. Es ermöglicht einen schnellen Zugriff auf spezifische grammatikalische Phänomene.
+Реєстр тем генерується автоматично з заголовків усіх уроків. Він забезпечує швидкий доступ до конкретних граматичних явищ.
 
 &lt;PayerTopicIndex /&gt;
 

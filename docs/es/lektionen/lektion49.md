@@ -5,7 +5,7 @@ last_reconstructed: 2026-05-21
 
 # Lección 49
 
-## 49.1. Formación del imperativo (लोट्) de las raíces de presente no temáticas (continuación)
+## 49.1. Formación del imperativo (लोट्) de raíces de presente no temáticas (continuación)
 
 ### 49.1.1. Séptima clase de presente (रुधादि)
 
@@ -14,10 +14,10 @@ last_reconstructed: 2026-05-21
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **1. Persona**[[br]]Tercera | युनजानि[[br]]yu-na-j-āni | युनजाम | युनजै | युनजामहै |
-| **2. Persona**[[br]]Segunda | युङ्ग्धि[[br]]yu-n-j + dhi[[br]]युङ्धि | युङ्क्त[[br]]युङ्त | युङ्क्ष्व | युङ्ग्ध्वं[[br]]युङ्ध्वम् |
-| **3. Persona**[[br]]Primera | युनक्तु[[br]]yu-na-j + tu | युञ्जन्तु | युङ्क्ताम्[[br]]यु्ङ्ताम् | युञ्जताम् |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. persona**[[br]]तृतीयः | युनजानि[[br]]yu-na-j-āni | युनजाम | युनजै | युनजामहै |
+| **2. persona**[[br]]मध्यमः | युङ्ग्धि[[br]]yu-n-j + dhi[[br]]युङ्धि | युङ्क्त[[br]]युङ्त | युङ्क्ष्व | युङ्ग्ध्वं[[br]]युङ्ध्वम् |
+| **3. persona**[[br]]प्रथमः | युनक्तु[[br]]yu-na-j + tu | युञ्जन्तु | युङ्क्ताम्[[br]]यु्ङ्ताम् | युञ्जताम् |
 :::
 
 रुध् 7U
@@ -25,38 +25,38 @@ last_reconstructed: 2026-05-21
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **1. Persona**[[br]]Tercera | रुणधानि[[br]]ru-ṇa-dh-āni | रुणधाम | रुणधै | रुणधामहै |
-| **2. Persona**[[br]]Segunda | रुन्द्धि | रुन्द्ध | रुन्त्स्व | रुन्द्ध्वम् |
-| **3. Persona**[[br]]Primera | रुणद्धु | रुन्धन्तु | रुन्द्धाम् | रुन्धताम् |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. persona**[[br]]तृतीयः | रुणधानि[[br]]ru-ṇa-dh-āni | रुणधाम | रुणधै | रुणधामहै |
+| **2. persona**[[br]]मध्यमः | रुन्द्धि | रुन्द्ध | रुन्त्स्व | रुन्द्ध्वम् |
+| **3. persona**[[br]]प्रथमः | रुणद्धु | रुन्धन्तु | रुन्द्धाम् | रुन्धताम् |
 :::
 
 ### 49.1.2. Quinta clase de presente (स्वादि)
 
 ::: grammar-box
-La 2.sg.P del imperativo es sin terminación en las raíces de la 5.ª y 8.ª clase, cuando al -u final del sufijo le precede únicamente una consonante.
+La 2.sg.P Imperativo es sin desinencia en raíces de la 5. y 8. clase, donde al -u final del sufijo solo le precede una consonante.
 :::
 
 सु 5U
 
 ::: grammar-box
-| | parasmaipadam || ātmanepadam ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: |
-| | **singular** | **plural** | **singular** | **plural** |
-| **1. persona**[[br]]tercera | sunavāni | sunavāma | sunavai | sunavāma |
-| **2. persona**[[br]]segunda | sunu | sunuta | sunusva | sunudhvam |
-| **3. persona**[[br]]primera | sunotu | sunvantu | sunatām | sunvatām[[br]]su-nu + atām |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | सुनवानि | सुनवाम | सुनवै | सुनवाम |
+| **2. Persona**[[br]]मध्यमः | ***सुनु*** | सुनुत | सुनुष्व | सुनुध्वम् |
+| **3. Persona**[[br]]प्रथमः | सुनोतु | सुन्वन्तु | सुनुताम् | सुन्वताम्[[br]]su-nu + atām |
 :::
 
 आप् 5P
 
 ::: grammar-box
-| | parasmaipadam ||
+| | परस्मैपदम् ||
 | :---: | :---: | :---: |
-| | **singular** | **plural** |
-| **1. persona**[[br]]tercera | āpnavāni | āpnavāma |
-| **2. persona**[[br]]segunda | āpnuhi | āpnuta |
-| **3. persona**[[br]]primera | āpnotu | āpnuvantu |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | आप्नवानि | आप्नवाम |
+| **2. Persona**[[br]]मध्यमः | आप्नुहि | आप्नुत |
+| **3. Persona**[[br]]प्रथमः | आप्नोतु | आप्नुवन्तु |
 :::
 
 ### 49.1.3. Octava clase de presente (तनादि)
@@ -66,10 +66,10 @@ La 2.sg.P del imperativo es sin terminación en las raíces de la 5.ª y 8.ª cl
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **1ª Persona**[[br]]Tercera | तनवानि | तनवाम | तनवै | तनवामहै |
-| **2ª Persona**[[br]]Segunda | तनु | तनुत | तनुष्व | तनुध्वम् |
-| **3ª Persona**[[br]]Primera | तनोतु | तन्वन्तु | तनुताम् | तन्वताम् |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | तनवानि | तनवाम | तनवै | तनवामहै |
+| **2. Persona**[[br]]मध्यमः | ***तनु*** | तनुत | तनुष्व | तनुध्वम् |
+| **3. Persona**[[br]]प्रथमः | तनोतु | तन्वन्तु | तनुताम् | तन्वताम् |
 :::
 
 कृ 8U
@@ -77,10 +77,10 @@ La 2.sg.P del imperativo es sin terminación en las raíces de la 5.ª y 8.ª cl
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **1ª Persona**[[br]]Tercera | करवाणि | करवाम | करवै | करवामहै |
-| **2ª Persona**[[br]]Segunda | कुरु | कुरुत | कुरुष्व | कुरुध्वम् |
-| **3ª Persona**[[br]]Primera | करोतु | कुर्वन्तु | कुरुताम् | कुर्वताम् |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | करवाणि | करवाम | करवै | करवामहै |
+| **2. Persona**[[br]]मध्यमः | ***कुरु*** | कुरुत | कुरुष्व | कुरुध्वम् |
+| **3. Persona**[[br]]प्रथमः | करोतु | कुर्वन्तु | कुरुताम् | कुर्वताम् |
 :::
 
 ### 49.1.4. Novena clase de presente (क्र्यादि)
@@ -88,27 +88,27 @@ La 2.sg.P del imperativo es sin terminación en las raíces de la 5.ª y 8.ª cl
 क्री 9U
 
 ::: grammar-box
-| | parasmaipada || ātmanepada ||
-| :---: | :---: | :---: | :---: |
-| | **singular** | **plural** | **singular** | **plural** |
-| **1. persona**[[br]]tercera | क्रीणानि[[br]]krī-ṇā + āni | क्रीणाम | क्रीणै[[br]]krī-ṇā + ai | क्रीणामहै |
-| **2. persona**[[br]]segunda | क्रीणीहि | क्रीणीत | क्रीणीष्व | क्रीणीध्वम् |
-| **3. persona**[[br]]primera | क्रीणातु | क्रीणन्तु[[br]]krī-ṇ-antu | क्रीणीताम् | क्रीणताम् |
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | क्रीणानि[[br]]krī-ṇā + āni | क्रीणाम | क्रीणै[[br]]krī-ṇā + ai | क्रीणामहै |
+| **2. Persona**[[br]]मध्यमः | क्रीणीहि | क्रीणीत | क्रीणीष्व | क्रीणीध्वम् |
+| **3. Persona**[[br]]प्रथमः | क्रीणातु | क्रीणन्तु[[br]]krī-ṇ-antu | क्रीणीताम् | क्रीणताम् |
 :::
 
 ::: grammar-box
-Las raíces de la novena clase que terminan en consonante sustituyen la terminación -nī-hi de la segunda persona singular del imperativo por -āna.
+Las raíces de la 9.ª clase que terminan en consonante reemplazan el -nī-hi final del imperativo 2.sg. por -āna
 :::
 
 ग्रह् 9U
 
 ::: grammar-box
-| | parasmaipada ||
+| | परस्मैपदम् ||
 | :---: | :---: | :---: |
-| | **singular** | **plural** |
-| **1. persona**[[br]]tercera | गृह्णानि | गृह्णाम |
-| **2. persona**[[br]]segunda | गृहाण | गृह्णीत |
-| **3. persona**[[br]]primera | गृह्णातु | गृहणन्तु |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | गृह्णानि | गृह्णाम |
+| **2. Persona**[[br]]मध्यमः | ***गृहाण*** | गृह्णीत |
+| **3. Persona**[[br]]प्रथमः | गृह्णातु | गृहणन्तु |
 :::
 
 ## 49.2. Declinación de las raíces nominales en -as, -is, -us
@@ -116,7 +116,7 @@ Las raíces de la novena clase que terminan en consonante sustituyen la terminac
 #### Neutros (नपुंसक)
 
 ::: grammar-box
-| | **मनस् n.**[[br]]"pensamiento" | **हविस् n.**[[br]]"ofrenda de sacrificio" | **चक्षुस् n.**[[br]]"ojo" |
+| | **मनस् n.**[[br]]"Pensamiento" | **हविस् n.**[[br]]"Ofrenda" | **चक्षुस् n.**[[br]]"Ojo" |
 | :---: | :---: | :---: | :---: |
 | **एकवचनम्** | | | |
 | **प्रथमा, द्वितिया, आमन्त्रितम्** | मनस् | हविस् | चक्षुस् |
@@ -136,10 +136,10 @@ Las raíces de la novena clase que terminan en consonante sustituyen la terminac
 
 #### Masculinos (पुंस्) y Femeninos (स्त्री)
 
-La mayoría de los casos son **बहुव्रीहि** (bahuvrīhi) con una raíz en -s (originalmente neutro) en el segundo miembro.
+La mayoría de los casos son **बहुव्रीहि** con una raíz en -s (originalmente neutro) en el segundo miembro.
 
 ::: grammar-box
-| | **सुमनस् 3**[[br]]"de buen pensamiento, benévolo" | **दीर्घायुस् 3**[[br]]"de larga vida" |
+| | **सुमनस् 3**[[br]]"de buen pensamiento, benevolente" | **दीर्घायुस् 3**[[br]]"longevo" |
 | :---: | :---: | :---: |
 | **एकवचनम्** | | |
 | **प्रथम** | सुमनास् | दीर्घायुस् |
@@ -148,7 +148,7 @@ La mayoría de los casos son **बहुव्रीहि** (bahuvrīhi) con un
 :::
 
 ::: indent
-El resto de los casos del singular como en el neutro
+El resto de los casos del singular como el neutro
 :::
 
 ::: grammar-box
@@ -159,40 +159,40 @@ El resto de los casos del singular como en el neutro
 :::
 
 ::: indent
-El resto de los casos del plural como en el neutro
+El resto de los casos del plural como el neutro
 :::
 
-## 49.3. Formación nominal: Sufijo कृत् -as Neutro
+## 49.3. Formación nominal: कृत्-sufijo -as Neutro
 
 Con el sufijo कृत् -as neutro se forman numerosos sustantivos. Por lo general, se trata de abstractos o nomina actionis (palabras que designan la acción).
 
-La vocal corta de la raíz ante una consonante simple y la vocal final de la raíz aparecen en el grado fuerte (guṇa).
+La vocal breve de la raíz ante una consonante simple, así como la vocal final de la raíz, aparecen en el grado fuerte.
 
 Ejemplos:
 
 ::: grammar-box
 | Raíz | Sustantivo en -as |
 | --- | --- |
-| मन् 4Ā "pensar" | मनस् n. "pensamiento, idea, órgano del pensamiento" |
-| नम् 1P "doblarse" | नमस् n. "reverencia, veneración" |
-| चित् 1P "percibir, pensar" | चेतस् n. "comprensión" |
+| मन् 4Ā "pensar" | मनस् n. "Pensamiento, idea, órgano del pensamiento" |
+| नम् 1P "doblar" | नमस् n. "Inclinación, veneración" |
+| चित् 1P "percibir, pensar" | चेतस् n. "Comprensión" |
 :::
 
-Los sustantivos en -is y -us son relativamente escasos.
+Los sustantivos en -is y -us son relativamente raros.
 
 ::: media
 ![](/images/lekt4907.jpg)
 Fig.: नमस्ते
-(Fuente de la imagen: [Detalles](/licenses#lekt4907))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4907))
 :::
 
-## 49.4. Lista de vocabulario
+## 49.4. Lista de palabras
 
 दीर्घ 3: largo
 
-ह्रस्व 3: breve
+ह्रस्व 3: corto
 
-आयुस् n.: tiempo de vida (el tiempo de vida completo que se puede vivir, si nada interviene);
+आयुस् n.: tiempo de vida (el tiempo de vida completo que se puede vivir, si nada interviene) ;
 
 :::: indent
 de ello:
@@ -202,7 +202,7 @@ de ello:
 véase:
 
 ::: indent
-**Carakasaṃhitā:** Textos seleccionados de la Carakasaṃhitā / traducidos y comentados por Alois Payer &lt;1944 - &gt;. -- 0. Introducción. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Textos seleccionados del Carakasaṃhitā / traducidos y comentados por Alois Payer &lt;1944 - &gt;. -- 0. Introducción. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ::::
 
@@ -216,7 +216,7 @@ Kaus. क्षेपयति
 PPP क्षिप्त
 Inf. क्षेप्तुम्
 Absol. -क्षिप्य
-Gerundivo: क्षेप्य
+Gerundiv: क्षेप्य
 :::
 
 त्वर् 1Ā त्वरते : apresurarse
@@ -226,7 +226,7 @@ Perf. Vc तत्वरे
 Fut. त्वरिष्यते
 Pass. त्वर्यते
 Kaus. त्वरयति
-PPP त्वरित । तू्र्ण
+PPP त्वरित । ***तू्र्***ण
 Inf. त्वरितुम्
 :::
 
@@ -246,7 +246,7 @@ Inf. द्रोग्धुम्
 ::: media
 ![](/images/lekt4901.jpg)
 Fig.: कुलूहलम्
-(Fuente de la imagen: [Detalles](/licenses#lekt4901))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4901))
 :::
 कृत्स्न 3: entero, completo
 
@@ -257,25 +257,27 @@ Fig.: कुलूहलम्
 ::: media
 ![](/images/lekt4902.jpg)
 Fig.: उत्तमा काला
-(Fuente de la imagen: [Detalles](/licenses#lekt4902))
+शिवो नटराजा, siglo XI.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4902))
 :::
 वर m.n.: deseo
 
 उत Indekl.: y, también, o
 
-विहंग m.: ave («que va al flujo del aire - विह -»)
+विहंग m.: ave ("en el sueño del aire स् - विह - yendo")
 
 ::: media
 ![](/images/lekt4903.jpg)
 Fig.: विहंगः
-(Fuente de la imagen: [Detalles](/licenses#lekt4903))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4903))
 :::
-वेष m.: vestido, apariencia, aspecto exterior
+वेष m.: vestido, apariencia, exterior
 
 ::: media
 ![](/images/lekt4904.jpg)
 Fig.: वेषः
-(Fuente de la imagen: [Detalles](/licenses#lekt4904))
+वाराणस्याम्
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4904))
 :::
 छन्न n.: manta, escondite
 
@@ -284,7 +286,8 @@ Fig.: वेषः
 ::: media
 ![](/images/lekt4909.jpg)
 Fig.: पञ्जरम्
-(Fuente de la imagen: [Detalles](/licenses#lekt4909))
+Adivino con loro en jaula: el loro saca papeletas en las que se indica el destino. Mysore.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4909))
 :::
 चाण्डाल । चण्डाल m.: nivel más bajo de los [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
@@ -292,9 +295,9 @@ Fig.: पञ्जरम्
 
 अवनि f.: tierra
 
-मुहूर्त m.,n.: instante, momento, momento oportuno
+मुहूर्त m.,n.: momento, instante, momento justo
 
-ध्यै 1P ध्यायति : imaginar, pensar
+ध्यै 1P ध्यायति : imaginarse, pensar
 
 ::: indent
 Perf. IV दध्यौ
@@ -303,7 +306,7 @@ Pass. ध्यायते
 Kaus. ध्यापयति
 PPP ध्यात
 Inf. ध्यातुम्
-Gerundivo ध्येय
+Gerundiv ध्येय
 :::
 
 आदर m.: consideración, atención, respeto
@@ -311,18 +314,20 @@ Gerundivo ध्येय
 ::: media
 ![](/images/lekt4905.jpg)
 Fig.: सादरः
-(Fuente de la imagen: [Detalles](/licenses#lekt4905))
+Amritsar = ਅੰਮ੍ਰਿਤਸਰ
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4905))
 :::
 कुतुक n. = कुलूहल n.
 
-परम 3: más lejano, más alto ; पञ्चम्या : mejor que, superior a
+परम 3: más lejano, más alto ; पञ्चम्या : mejor que, más alto que
 
 शिशु m.: niño, cría
 
 ::: media
 ![](/images/lekt4906.jpg)
 Fig.: गजशिशुः
-(Fuente de la imagen: [Detalles](/licenses#lekt4906))
+Sri Lanka
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4906))
 :::
 
 ## 49.5. Ejercicio de repaso sobre la morfología
@@ -371,40 +376,40 @@ Determine las siguientes formas:
 
 ## 49.6. Ejercicio de traducción
 
-Bāṇa (siglo VII d. C.): *Kādambarī*, ed. M. R. Kale, 1968, p. 35s.
+बान (siglo VII d. C.): कादम्बरी, ed. M. R. Kale, 1968, p. 35s.
 
-Preguntas del rey Śūdraka de Vidhiśā al loro Vaiśampāyana:
+Preguntas del rey शूद्रक de विदिशा al loro वैशम्पायन:
 
-El rey dijo: «Dejad por ahora todo esto. Disipad nuestra curiosidad. Informadnos, desde el principio, en qué país nació Karttika. ¿Cómo naciste? ¿Con qué nombre fuiste llamado? ¿Quién fue tu madre? ¿Quién fue tu padre? ¿Cómo tuviste acceso a los Vedas? ¿Cómo entraste en contacto con las Śāstras? ¿De dónde proceden las artes, resumidamente? ¿Es recuerdo de vidas anteriores o una concesión de gracia? ¿O tal vez, portador de la visión aviar, has revelado un secreto? ¿Dónde viviste anteriormente? ¿Cuánta edad tienes? ¿Cómo fuiste encerrado en la jaula? ¿Y cómo llegaste a manos de un caṇḍāla? ¿Y cómo has llegado aquí?»
+नरपतिरब्रवीत् । आस्तां तावत्सर्वमेवेदम् । अपनयतु नः कुतूहलम् । आवेदयतु भवानादितः प्रभृति कार्त्न्येनात्मनो जन्म कस्मिन्देशे । भवान्कथं जातः । केन वा नाम कृतम् । का माता । कस्ते पिता । कथं वेदानामागमः । कथं शास्त्राणां परिचयः । कुतः कलाः समासादिताः । किं जन्मान्तरानुस्मरणमुत वरप्रदानम् । अथवा विहंगवेषधारी कश्चिच्छन्नं विवससि । क्व वा पूर्वमुषितम् । कियद्वा वयः । कथं पञ्जरबन्धः । कथं चाण्डालहस्तगमनम् । इह वा कथमागमनमिति ।
 
-Vaiśampāyana, él mismo lleno de curiosidad, interrogado por el soberano con gran respeto, meditó por un momento y respondió con cortesía: «Señor, esta es una historia extraordinaria. Si deseas escucharla con interés…»
+वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥
 
 ::: media
 ![](/images/lekt4908.jpg)
-Fig.: Śuka
-(Fuente de la imagen: [Detalles](/licenses#lekt4908))
+Fig.: शुकः
+Loro cabecigrís = Psittacula cyanocephala
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4908))
 :::
 
 ::: deleteme-box
 
-### Fuentes
 
-**lekt4907:** [Fuente de la imagen: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Acceso el 10-01-2009. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
+**lekt4907:** [Fuente de la imagen: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
 
-**lekt4901:** [Fuente de la imagen: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Acceso el 11-01-2009. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribución, sin obras derivadas)]
+**lekt4901:** [Fuente de la imagen: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Acceso el 2009-01-11. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribución, sin obras derivadas)]
 
 **lekt4902:** शिवो नटराजा, siglo XI. [Fuente de la imagen: Vassil / Wikipedia. Dominio público]
 
-**lekt4903:** [Fuente de la imagen: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Acceso el 11-01-2009. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, uso no comercial, sin obras derivadas)]
+**lekt4903:** [Fuente de la imagen: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Acceso el 2009-01-11. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, uso no comercial, sin obras derivadas)]
 
-**lekt4904:** वाराणस्याम् [Fuente de la imagen: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Acceso el 11-01-2009. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
+**lekt4904:** वाराणस्याम् [Fuente de la imagen: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Acceso el 2009-01-11. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
 
-**lekt4909:** Adivino con loro en jaula: el loro saca papeletas en las que se indica el destino. Mysore. [Fuente de la imagen: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Acceso el 12-01-2009. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
+**lekt4909:** Adivino con loro en jaula: el loro saca papeletas en las que se indica el destino. Mysore. [Fuente de la imagen: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Acceso el 2009-01-12. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
 
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Fuente de la imagen: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Acceso el 11-01-2009. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
+**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Fuente de la imagen: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Acceso el 2009-01-11. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
 
-**lekt4906:** Sri Lanka [Fuente de la imagen: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Acceso el 11-01-2009. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, uso no comercial, sin obras derivadas)]
+**lekt4906:** Sri Lanka [Fuente de la imagen: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Acceso el 2009-01-11. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, uso no comercial, sin obras derivadas)]
 
-**lekt4908:** Loro de cabeza ciruela _= Psittacula cyanocephala_[Fuente de la imagen: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Acceso el 12-01-2009. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
+**lekt4908:** Loro cabecigrís _= Psittacula cyanocephala_[Fuente de la imagen: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Acceso el 2009-01-12. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
 
 :::

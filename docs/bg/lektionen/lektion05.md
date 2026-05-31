@@ -1,216 +1,217 @@
 ---
+title: Урок 5
+subtitle: "Основи на номиналните съставни думи (самаса)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
---- &lt;!-- TODO: Fallback translation --&gt;
+category: "Граматика"
+status: stable
+---
 
-# Lektion 5
+# Урок 5
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- Grundlagen der Nominalkomposita (samāsa) &lt;!-- TODO: Fallback translation --&gt;
-- Fachterminologie für Komposita &lt;!-- TODO: Fallback translation --&gt;
-- Kopulative Komposita (Dvandva) &lt;!-- TODO: Fallback translation --&gt;
-- Die Reihenfolge der Glieder in Dvandvas &lt;!-- TODO: Fallback translation --&gt;
+**В този урок ще научите:**
+- Основи на номиналните съставни думи (самаса)
+- Специализирана терминология за съставни думи
+- Копулативни съставни думи (двандва)
+- Редът на членовете в двандвите
 :::
 
-## 5.1. Nominalkomposita (samāsa m. = समास)
+## 5.1. Именни съставни думи (самаса м. = समास)
 
-Die Bildung von Wortzusammensetzungen in sehr großem Umfang ist ein Charakteristikum des Sanskrit. &lt;!-- TODO: Fallback translation --&gt;
+Образуването на многобройни съставни думи е характерна черта на санскрита.
 
-Die wichtigsten Bildungsformen von Komposita sind: &lt;!-- TODO: Fallback translation --&gt;
-- **kopulative Komposita** (dvandva n. = द्वन्द्व) &lt;!-- TODO: Fallback translation --&gt;
-- **determinative Komposita** (tatpuruṣa m. = तत्पुरुष) &lt;!-- TODO: Fallback translation --&gt;
-- **Possesivkomposita** (bahuvrīhi m. = बहुव्रीहि) &lt;!-- TODO: Fallback translation --&gt;
+Най-важните форми на образуване на съставни думи са:
+- **копулативни съставни думи** (двандва н. = द्वन्द्व)
+- **детерминативни съставни думи** (таТПуруша м. = तत्पुरुष)
+- **притежателни съставни думи** (бахурихи м. = बहुव्रीहि)
 
-(Zu den beiden letztgenannten siehe später!) &lt;!-- TODO: Fallback translation --&gt;
-
----
-
-## 5.2. Zur Sanskrit-Terminologie für Komposita
-
-- **ghaṭakapadāni** n. pl. = घटकपदानि : Glieder eines Kompositums &lt;!-- TODO: Fallback translation --&gt;
-- **vigrahavākyam** n. = विग्रहवाक्यम् : Auflösung eines Kompositums &lt;!-- TODO: Fallback translation --&gt;
-- **nityasamāsaḥ** m. = नित्यसमासः : Kompositum, für das es kein vigrahavākya gibt oder dessen vigrahavākya nicht möglich ist mit den Wörtern des Kompositums. &lt;!-- TODO: Fallback translation --&gt;
-- **aluksamāsaḥ** m. = अलुक्समासः : Kompositum, in dem das Vorderglied eine Kasusendung behält &lt;!-- TODO: Fallback translation --&gt;
-- **luksamāsaḥ** m. = लुक्समासः : Kompositum, dessen Vorderglieder ohne Kasusendungen sind (der Normalfall) &lt;!-- TODO: Fallback translation --&gt;
-- **madhyamapadalopī** m. = मध्यमपदलोपी : Kompositum, in dem ein oder mehrere mittlere Glieder ausgelassen werden &lt;!-- TODO: Fallback translation --&gt;
+(За двете последно споменати виж по-късно!)
 
 ---
 
-## 5.3. Kopulative Komposita (Dvandva n. = द्वन्द्व)
+## 5.2. За санскритската терминология за съставни думи
 
-Die kopulativen Komposita dienen zur Verknüpfung von grammatisch gleichartigen, koordinierten Gliedern (Substantiven oder Adjektiven). &lt;!-- TODO: Fallback translation --&gt;
+- **ghaṭakapadāni** n. pl. = घटकपदानि : Членове на съставна дума
+- **vigrahavākyam** n. = विग्रहवाक्यम् : Разрешаване на съставна дума
+- **nityasamāsaḥ** m. = नित्यसमासः : Съставна дума, за която няма vigrahavākya или чийто vigrahavākya не е възможен с думите на съставната дума.
+- **aluksamāsaḥ** m. = अलुक्समासः : Съставна дума, в която предният член запазва падежно окончание
+- **luksamāsaḥ** m. = लुक्समासः : Съставна дума, чийто предни членове са без падежни окончания (нормалният случай)
+- **madhyamapadalopī** m. = मध्यमपदलोपी : Съставна дума, в която един или повече средни членове са пропуснати
+
+---
+
+## 5.3. Копулативни съставни имена (Двандва м.р. = द्वन्द्व)
+
+Копулативните съставни имена служат за свързване на граматически равностойни, координирани членове (съществителни или прилагателни).
 
 ::: grammar-box
-**Ein Dvandva bezeichnet:** &lt;!-- TODO: Fallback translation --&gt;
+**Едно Двандва означава:**
 
-1. **entweder die summative Verbindung der durch seine einzelnen Glieder bezeichneten Personen, Dinge, Eigenschaften:** &lt;!-- TODO: Fallback translation --&gt;
-   Itaretaradvandva = इतरेतरद्वन्द्व &lt;!-- TODO: Fallback translation --&gt;
+1. **или сумативната връзка на лицата, нещата, свойствата, означени от неговите отделни членове:**
+   Итаретарадвандва = इतरेतरद्वन्द्व
 
-2. **oder es fasst diese Personen, Dinge oder Eigenschaften zu einer Einheit zusammen:** &lt;!-- TODO: Fallback translation --&gt;
-   Samāhāradvandva ("Zusammenfassungsdvandva") = समाहारद्वन्द्व &lt;!-- TODO: Fallback translation --&gt;
+2. **или обединява тези лица, неща или свойства в едно цяло:**
+   Самаһардвандва („обобщаващо двандва“) = समाहारद्वन्द्व
 
-**Im ersten Fall (Itaretaradvandva):**
-Das Dvandva erhält das grammatische Geschlecht seines letzten Gliedes und die Endungen des Duals (bei zwei Dingen) bzw. des Plurals (bei mehr als zwei Dingen). Auch Singularendungen sind zulässig. &lt;!-- TODO: Fallback translation --&gt;
+**В първия случай (Итаретарадвандва):**
+Двандвата получава граматически род на своя последен член и окончанията на двойствено число (при две неща) или множествено число (при повече от две неща). Допустими са и окончания за единствено число.
 
-**Im zweiten Fall (Samāhāradvandva):**
-Das Dvandva ist im Allgemeinen ein Neutrum (unabhängig vom Geschlecht des letzten Gliedes) und steht im Singular. &lt;!-- TODO: Fallback translation --&gt;
+**Във втория случай (Самаһардвандва):**
+Двандвата е по принцип среден род (независимо от рода на последния член) и е в единствено число.
 
-**Die Auflösung:**
-Erfolgt mit "und" (**ca** = च), gelegentlich mit "oder" (**vā** = वा) oder "je". &lt;!-- TODO: Fallback translation --&gt;
+**Разрешаването:**
+Става с „и“ (**ca** = च), понякога с „или“ (**vā** = वा) или „по един“.
 :::
 
-Zu den Dualdvandva siehe später! &lt;!-- TODO: Fallback translation --&gt;
+За двандвата в двойствено число вижте по-късно!
 
-### 5.3.1. Vorderglieder von Komposita
+### 5.3.1. Предни членове на съставни думи
 
-Die Vorderglieder von Komposita (nicht nur Dvandvas) haben in der Regel die Form des unveränderten **Nominalstamms**. Die einzelnen Glieder von Komposita werden nach den Regeln des **Satzsandhi** verbunden (d.h. des Sandhi, den wir bisher kennengelernt haben, im Gegensatz zum Wortsandhi, der innerhalb des Wortes vor formativen Elementen Anwendung findet). &lt;!-- TODO: Fallback translation --&gt;
+Предните членове на съставни думи (не само дvandви) обикновено имат формата на непроменения **именен корен**. Отделните членове на съставните думи се свързват според правилата на **предишния санхи** (т.е. на санхи, който сме изучили досега, за разлика от словесния санхи, който се прилага вътре в думата пред формационни елементи).
 
-### 5.3.2. Множествено число-Itaretaradvandva
+### 5.3.2. Множествено число на итаретара-двандва
 
-Die kopulativen Komposita dienen zur Verknüpfung von grammatisch gleichartigen, koordinierten Gliedern (Substantiven oder Adjektiven). &lt;!-- TODO: Fallback translation --&gt;
+Примери за множествено число на двандва:
 
-**Ein Dvandva bezeichnet:** &lt;!-- TODO: Fallback translation --&gt;
-> **entweder die summative Verbindung der durch seine einzelnen Glieder bezeichneten Personen, Dinge, Eigenschaften:** &lt;!-- TODO: Fallback translation --&gt;
->    Itaretaradvandva = इतरेतरद्वन्द्व &lt;!-- TODO: Fallback translation --&gt;
-> **oder es fasst diese Personen, Dinge oder Eigenschaften zu einer Einheit zusammen:** &lt;!-- TODO: Fallback translation --&gt;
->    Samāhāradvandva ("Zusammenfassungsdvandva") = समाहारद्वन्द्व &lt;!-- TODO: Fallback translation --&gt;
-> **Im ersten Fall (Itaretaradvandva):**
-Das Dvandva erhält das grammatische Geschlecht seines letzten Gliedes und die Endungen des Duals (bei zwei Dingen) bzw. des Plurals (bei mehr als zwei Dingen). Auch Singularendungen sind zulässig. &lt;!-- TODO: Fallback translation --&gt;
+**brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ब्राह्मणक्षत्रियवैश्यशूद्राः
+> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च
+> (брахмани, кшатрии, вайшии и шудри)
+> 
+> или = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च
+> (брахман, кшатрия, вайша и шудра)
 
-**Im zweiten Fall (Samāhāradvandva):**
-Das Dvandva ist im Allgemeinen ein Neutrum (unabhängig vom Geschlecht des letzten Gliedes) und steht im Singular. &lt;!-- TODO: Fallback translation --&gt;
-> **Die Auflösung:**
-Erfolgt mit "und" (**ca** = च), gelegentlich mit "oder" (**vā** = वा) oder "je". &lt;!-- TODO: Fallback translation --&gt;
-> Zu den Dualdvandva siehe später! &lt;!-- TODO: Fallback translation --&gt;
-> (Anmerkung: "Ein Dichter und ein Lehrer" müsste im Dual stehen!) <!-- TODO: Fallback translation -->
+**kavi-guravaḥ** = कविगुरवः
+> = kavayo guravaś ca = कवयो गुरवश्च
+> (поети и учители [множ. число])
+> (Забележка: „Един поет и един учител“ трябва да бъде в двойствено число!)
 
-**Für die Reihenfolge der Glieder in einem Dvandva gelten u.a. folgende Regeln:** <!-- TODO: Fallback translation -->
-- Die Bezeichnung der verschiedenen Stände (**varṇa**) soll gemäß ihrer Hierarchie (höchster zuerst) geordnet werden. <!-- TODO: Fallback translation -->
-- Der Name des älteren Bruders soll dem Namen des jüngeren Bruders vorangestellt werden. <!-- TODO: Fallback translation -->
-- Im Allgemeinen soll das wichtigere Wort an den Anfang gestellt werden. <!-- TODO: Fallback translation -->
-- Wörter, die auf **-i** oder **-u** enden, sollen vorausgehen. <!-- TODO: Fallback translation -->
-- Wörter, die auf **-a** enden und mit einem Vokal anfangen, sollen vorausgehen. <!-- TODO: Fallback translation -->
-- Wörter, die weniger Silben enthalten, sollen vorausgehen. <!-- TODO: Fallback translation -->
+**За реда на членовете в един двандва важат следните правила:**
+- Обозначението на различните касты (**varṇa**) трябва да бъде подредено според йерархията им (най-високата първа).
+- Името на по-големия брат трябва да предхожда името на по-малкия брат.
+- Обикновено по-важната дума трябва да се поставя в началото.
+- Думи, които завършват на **-i** или **-u**, трябва да предхождат.
+- Думи, които завършват на **-a** и започват с гласна, трябва да предхождат.
+- Думи, които съдържат по-малко срички, трябва да предхождат.
 
-Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen können, soll immer die später gegebene Regel befolgt werden. (Beispiele von Dualdvandva zu diesen Regeln bei Kielhorn, Grammatik § 570). <!-- TODO: Fallback translation -->
+Когато едновременно могат да се приложат две от трите последни посочени предписания, винаги трябва да се следва по-късно даденото правило. (Примери за двойствено число на двандва за тези правила при Киелхорн, Граматика § 570).
 
 ---
 
-## 5.4. Речник
+## 5.4. Списък на думите
 
-**Lernen Sie folgende Wörter:** &lt;!-- TODO: Fallback translation --&gt;
+**Запознайте се със следните думи:**
 
-**abhiniveṣa** m. = अभिनिवेष : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes. &lt;!-- TODO: Fallback translation --&gt;
+**abhiniveṣa** m. = अभिनिवेष : наклонност, упоритост, настоятелност; специално: привързаност към тялото, сякаш то е нещо лично.
 
-**kāma** m. = काम : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma. &lt;!-- TODO: Fallback translation --&gt;
+**kāma** m. = काम : желание, пожелание, желан дар, сетивно удоволствие, любов; богът на любовта Кама.
 
 ::: media
 ![](/images/lekt0501.jpg)
-Abb.: Gott Kāma = kāmadeva = कामदेव, 18. Jhdt.
-(Bildquelle: Wikipedia, Public domain) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Бог Кама = kāmadeva = कामदेव, 18 век.
+(Източник на изображението: Уикипедия, Обществен достояние)
 :::
 
-**krodha** m. = क्रोध : Zorn. &lt;!-- TODO: Fallback translation --&gt;
+**krodha** m. = क्रोध : гняв.
 
-**kleśa** m. = क्लेश : Qual, Plage. &lt;!-- TODO: Fallback translation --&gt;
+**kleśa** m. = क्लेश : мъчение, скръб.
 
-**trayī** f. = त्रयी : Dreizahl; insbes. die drei Veden (Ṛgveda, Sāmaveda, Yajurveda). &lt;!-- TODO: Fallback translation --&gt;
+**trayī** f. = त्रयी : тройка; по-специално трите Веда (Ригведа, Самаведа, Яджурведа).
 
-**daṇḍanīti** f. = दण्डनीति : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung"). &lt;!-- TODO: Fallback translation --&gt;
+**daṇḍanīti** f. = दण्डनीति : политика (тадпурӯша от daṇḍa m. = „пръчка, власт, управление, наказание“ и nīti f. = „правилно ръководство“).
 
-**dvijāti** 3 / **dvija** 3 = द्विजाति / द्विज : Zweimalgeborener. &lt;!-- TODO: Fallback translation --&gt;
+**dvijāti** 3 / **dvija** 3 = द्विजाति / द्विज : дваж роден.
 
-**dveṣa** m. = द्वेष : Hass. &lt;!-- TODO: Fallback translation --&gt;
+**dveṣa** m. = द्वेष : омраза.
 
-**maitrī** f. = मैत्री : Freundschaft, Freundlichkeit, freundliches Wohlwollen. &lt;!-- TODO: Fallback translation --&gt;
+**maitrī** f. = मैत्री : приятелство, любезност, приятелско благоволение.
 
-**rāga** m. = राग : (rote) Farbe, Leidenschaft, Liebe. &lt;!-- TODO: Fallback translation --&gt;
+**rāga** m. = राग : (червено) цвят, страст, любов.
 
-**lobha** m. = लोभ : Gier, Habsucht. &lt;!-- TODO: Fallback translation --&gt;
+**lobha** m. = लोभ : алчност, сребролюбие.
 
-**varṇa** m. = वर्ण : Farbe, Gattung, Stand. &lt;!-- TODO: Fallback translation --&gt;
+**varṇa** m. = वर्ण : цвят, вид, сословие.
 
-**vārttā** f. = वार्त्ता : Erwerb, Ökonomie (Wirtschaft). &lt;!-- TODO: Fallback translation --&gt;
+**vārttā** f. = वार्त्ता : придобивка, икономика (икономика).
 
-**vidyā** f. = विद्या : Wissen, Wissenschaft. &lt;!-- TODO: Fallback translation --&gt;
+**vidyā** f. = विद्या : знание, наука.
 
-**avidyā** f. = अविद्या : Unwissenheit, Nichtwissen. &lt;!-- TODO: Fallback translation --&gt;
+**avidyā** f. = अविद्या : невежество, незнание.
 
-**ca** = च : und.
-(Wird dem Wort, welches es anknüpft, nachgestellt. Werden mehrere Wörter verknüpft, steht es idealerweise hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च). &lt;!-- TODO: Fallback translation --&gt;
+**ca** = च : и.
+(Поставя се след думата, която свързва. Ако се свързват няколко думи, идеално е да стои след първата дума на последната свързана група: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च).
 
-**ca ... ca** = च ... च : sowohl ... als auch. &lt;!-- TODO: Fallback translation --&gt;
+**ca ... ca** = च ... च : както ... така и.
 
 ---
 
 ## 5.5. Упражнение
 
-**A) Übersetzen Sie folgende Sätze und Komposita und lösen Sie die darin vorkommenden Dvandvas in Sanskrit auf:** &lt;!-- TODO: Fallback translation --&gt;
+**А) Преведете следните изречения и сложни думи и разглобете съществуващите в тях двандви на санскрит:**
 
-1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ. &lt;!-- TODO: Fallback translation --&gt;
+1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
    (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
    चत्वारो वर्णा ब्राह्मणक्षत्रियवैश्यशूद्राः ||
-   (Erklärung: catvāras = चत्वारस् = "vier") &lt;!-- TODO: Fallback translation --&gt;
+   (Обяснение: catvāras = चत्वारस् = "четири")
 
-2. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ. &lt;!-- TODO: Fallback translation --&gt;
+2. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ.
    (Vāsiṣṭhadharmaśāstra II,1)
    त्रयो वर्णा द्विजातयो ब्राह्मणक्षत्रियवैश्याः ||
-   (Erklärung: trayas = त्रयस् = "drei") &lt;!-- TODO: Fallback translation --&gt;
+   (Обяснение: trayas = त्रयस् = "три")
 
-3. sāmavedargvedayajurvedās trayī. &lt;!-- TODO: Fallback translation --&gt;
-   (Kauṭilīya-arthaśāstra 1.3.1. / in gutem Sanskrit: sāmārgyajurvedās trayī)
+3. sāmavedargvedayajurvedās trayī.
+   (Kauṭilīya-arthaśāstra 1.3.1. / в добър санскрит: sāmārgyajurvedās trayī)
    सामवेदर्ग्वेदयजुर्वेदास्त्रयी ||
-   (in gutem Sanskrit: सामार्यजुर्वेदास्त्रयी) &lt;!-- TODO: Fallback translation --&gt;
+   (в добър санскрит: सामार्यजुर्वेदास्त्रयी)
 
-4. Die drei Feinde des Menschen, die das Tor zur Hölle bilden (Viṣṇusmṛti 33,1+6): &lt;!-- TODO: Fallback translation --&gt;
+4. Трите врагове на човека, които образуват портата към ада (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
-   कामक्रोधलोभाः || &lt;!-- TODO: Fallback translation --&gt;
+   कामक्रोधलोभाः ||
 
-5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ. &lt;!-- TODO: Fallback translation --&gt;
+5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
    मैत्रीकरुणामुदितोपेक्षाश्चत्वारो ब्रह्मविहाराः ||
-   (Erklärung: brahmavihāra: "Verweilungszustände Brahmas", auch "Unermessliche" genannt. Es sind buddhistische Meditationsformen.) &lt;!-- TODO: Fallback translation --&gt;
+   (Обяснение: brahmavihāra: "състояния на пребиваване на Брахма", наричани също "Неизмерни". Това са будистки медитативни практики.)
 
-6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ. &lt;!-- TODO: Fallback translation --&gt;
+6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
    (Yogasūtra 2,3)
    अविद्यास्मितारागद्वेषाभिनिवेषाः पञ्च क्लेशाः ||
-   (Erklärung: pañca = "fünf") &lt;!-- TODO: Fallback translation --&gt;
+   (Обяснение: pañca = "пет")
 
-7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. &lt;!-- TODO: Fallback translation --&gt;
-   (Nach Kauṭilīya-arthaśāstra 1.2.1.)
-   आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः || &lt;!-- TODO: Fallback translation --&gt;
+7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
+   (Според Kauṭilīya-arthaśāstra 1.2.1.)
+   आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः ||
 
 ---
 
-## 5.6. Wiederholungsübung
+## 5.6. Повторително упражнение
 
-**A) Übersetzen Sie:** &lt;!-- TODO: Fallback translation --&gt;
+**А) Преведете:**
 
-1. vidyā vārttā. &lt;!-- TODO: Fallback translation --&gt;
+1. vidyā vārttā.
    विद्या वार्त्ता |
 
-2. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ. &lt;!-- TODO: Fallback translation --&gt;
+2. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
    ब्राह्मणः क्षत्रियो वैश्यश्च त्रयो वर्णा द्विजातयः |
 
-3. dvijā vaiśyāḥ. (2 Möglichkeiten) &lt;!-- TODO: Fallback translation --&gt;
+3. dvijā vaiśyāḥ. (2 възможности)
    द्विजा वैश्याः |
 
-**B) Setzen Sie die entsprechende Form ein:** &lt;!-- TODO: Fallback translation --&gt;
+**Б) Поставете съответната форма:**
 
-1. (dvija, sādhu, kavi) ... rāmaḥ &lt;!-- TODO: Fallback translation --&gt;
+1. (dvija, sādhu, kavi) ... rāmaḥ
    (द्विज, साधु, कवि) ... रामः |
 
-2. (devī) ... indrāṇī &lt;!-- TODO: Fallback translation --&gt;
+2. (devī) ... indrāṇī
    (देवी) ... इन्द्राणी |
 
-3. dvijātayas ... (vaiśyā, kṣatriya) &lt;!-- TODO: Fallback translation --&gt;
+3. dvijātayas ... (vaiśyā, kṣatriya)
    द्विजातयस् ... (वैश्या, क्षत्रिय) |
 
-**C) Lösen Sie das Kompositum in folgendem Satz in Sanskrit auf und bilden Sie mit dieser aufgelösten Form denselben Satz:** &lt;!-- TODO: Fallback translation --&gt;
+**В) Разглобете сложното съществително в следното изречение на санскрит и изградете същото изречение с тази разглобена форма:**
 
 sāmargyajurvedās trayī.
-सामर्ग्यजुर्वेदास्त्रयी | &lt;!-- TODO: Fallback translation --&gt;
+सामर्ग्यजुर्वेदास्त्रयी |
 
-**D) Übersetzen Sie auf zwei Weisen ins Sanskrit (einmal mit einem Kompositum, einmal ohne):** &lt;!-- TODO: Fallback translation --&gt;
+**Г) Преведете на санскрит по два начина (веднъж с сложно съществително, веднъж без):**
 
-"Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. &lt;!-- TODO: Fallback translation --&gt;
+"Състояния на престой на Брахман" са: приятелска благосклонност, състрадание, съучастие, равнодушие.

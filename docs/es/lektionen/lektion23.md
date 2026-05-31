@@ -1,6 +1,10 @@
 ---
+title: Lección 23
+subtitle: "El infinitivo (तुमुन्)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 23
@@ -8,56 +12,56 @@ last_reconstructed: 2026-05-21
 ## 23.1. El infinitivo (तुमुन्)
 
 ::: grammar-box
-**Si se desea expresar en sánscrito que una acción se realiza con el propósito de otra («para» o «a fin de»), se puede utilizar el infinitivo (तुमुन्) para la acción que constituye el fin buscado. El infinitivo designa, ante todo, el propósito o la intención:**
+**Si se desea expresar en sánscrito que una actividad se realiza con el fin de otra actividad ("para"), se puede usar el infinitivo (तुमुन्) para la actividad con cuyo fin se realiza. El infinitivo designa principalmente el propósito o la intención:**
 
-> रामो गुरुवचनं श्रोतुं गतः = «Rāma ha ido para escuchar las palabras del maestro.»
+> रामो गुरुवचनं श्रोतुं गतः = "Rāma se ha ido para escuchar el discurso del maestro."
 
-**Téngase en cuenta que el infinitivo —con algunas excepciones bien definidas— no puede funcionar como sujeto u objeto de un verbo:**
+**Tenga en cuenta que el infinitivo — con algunas excepciones bien definidas — no puede funcionar como sujeto u objeto de un verbo:**
 
-> Por tanto, «aprende a bailar» no debe traducirse con el infinitivo («bailar»), sino que debe emplearse un nombre verbal, por ejemplo: नर्तनमधीते (इ + अधि 2 Ā: «aprender»).
+> Por lo tanto, no se debe traducir "aprende a bailar" con el infinitivo ("bailar"), sino que se debe usar un nombre verbal, por ejemplo: नर्तनमधीते (इ + अधि 2 Ā: "aprender").
 
-**El infinitivo también se utiliza con verbos y sustantivos en el sentido de «desear» o «anhelar», cuando el agente (कर्तृ) del infinitivo y del verbo son idénticos:**
+**El infinitivo también se utiliza con verbos y sustantivos en el significado de "desear" o "anhelar", cuando el agente (कर्तृ) del infinitivo y del verbo son idénticos:**
 
-> रामो गुरुवचनं श्रोतुमिच्छति = «Rāma desea escuchar las palabras del maestro.»
+> रामो गुरुवचनं श्रोतुमिच्छति = "Rāma desea escuchar el discurso del maestro."
 
-**El infinitivo se utiliza, entre otros casos, con verbos en los significados de «ser capaz», «haber/existir», «saber» y «comenzar»:**
+**El infinitivo también se utiliza, entre otras cosas, con verbos en los significados de "ser capaz", "haber", "saber", "comenzar":**
 
-> साधुरधर्मं कर्तुं न शक्नोति = «Un santo no puede hacer una injusticia.»  
-> अस्ति भोक्तुमन्नम् = «Hay comida para comer» (भुज् 7: Ā: «comer», P: «gobernar»)
+> साधुरधर्मं कर्तुं न शक्नोति = "Un santo no puede hacer una injusticia."  
+> अस्ति भोक्तुमन्नम् = "Hay comida para comer" (भुज् 7: Ā: comer, P: gobernar)
 
-**El infinitivo también se utiliza con palabras en los significados de «suficiente», «capaz», y con sustantivos en los significados de «capacidad», «fuerza» y «habilidad»:**
+**El infinitivo también se utiliza con palabras en los significados de "suficiente", "capaz" y con sustantivos en los significados de "habilidad", "fuerza", "habilidad":**
 
-> अस्त्यग्नेर्विभवः सर्वं दग्धुम् = «El fuego tiene el poder de quemarlo todo.»
+> अस्त्यग्नेर्विभवः सर्वं दग्धुम् = "El fuego tiene el poder de quemar todo."
 
-**También se puede usar el infinitivo con palabras en el sentido de «tiempo» en expresiones como «es hora de...»:**
+**También se puede usar el infinitivo con palabras en el significado de "tiempo" en expresiones como "Es hora de ...":**
 
-> कालो भोजनं सेवितुम् = «Es hora de dedicarse a comer» = «Es hora de comer.»
+> कालो भोजनं सेवितुम् = "Es hora de dedicarse a comer" = "Es hora de comer"
 
-**El infinitivo puede emplearse en voz activa y en voz pasiva. Un infinitivo pasivo en alemán se reproduce en sánscrito mediante la construcción de la voz pasiva del verbo (con especial frecuencia शक् «ser capaz, poder») del cual depende el infinitivo.**
+**El infinitivo puede usarse activa y pasivamente. Un infinitivo pasivo en alemán se reproduce en sánscrito poniendo el verbo (con mayor frecuencia शक् "ser capaz, poder"), del cual depende el infinitivo, en voz pasiva.**
 
-**En cuanto al objeto, el infinitivo se comporta como una forma verbal, es decir, el objeto directo (कर्मन्) aparece en acusativo (द्वितीया), o en el caso que exija el verbo correspondiente, cuando el infinitivo se usa activamente; cuando el infinitivo se usa pasivamente, el objeto directo aparece en nominativo.**
+**En cuanto al objeto, el infinitivo se comporta como una forma verbal, es decir, el objeto directo (कर्मन्) está en acusativo (द्वितीया) cuando se usa el infinitivo activamente, o en el caso que exige el verbo correspondiente; cuando se usa el infinitivo pasivamente, el objeto directo está en nominativo.**
 
-Por ejemplo:
+por ejemplo
 
-> साधुरधर्मं कर्तुं न शक्नोति = साधुनाधर्मः कर्तुं न शक्यते = «Un santo no puede hacer una injusticia.»
+> साधुरधर्मं कर्तुं न शक्नोति = साधुनाधर्मः कर्तुं न शक्यते = "Un santo no puede hacer una injusticia."
 
-**En la segunda persona, अर्ह् + infinitivo se utiliza a menudo como una orden atenuada: «Deberías».**
+**En la segunda persona, अर्ह् + infinitivo se usa a menudo como un mandato suave: "Deberías".**
 
-**Cuando el infinitivo depende de un sustantivo, no debe combinarse con este para formar un compuesto. Quedan exceptuados los Bahuvrīhi cuyo segundo miembro es काम o मनस्:**
+**Cuando el infinitivo depende de un sustantivo, no debe unirse con este a un compuesto. La excepción son los Bahuvrīhi, cuyo segundo miembro es काम o मनस्:**
 
-> वक्तुकामः = वक्तुं कामो यस्य सः = «aquel cuyo deseo es hablar; aquel que desea hablar».
+> वक्तुकामः = वक्तुं कामो यस्य सः = "aquel cuyo deseo es hablar; alguien que desea hablar".
 :::
 
 ## 23.2. Formación del infinitivo (तुमुन्)
 
 ::: grammar-box
-**grado pleno de la raíz + -tum**
+**raíz en grado pleno + -tum**
 
-**o bien**
+**o**
 
-**grado pleno de la raíz + -i- + -tum**
+**raíz en grado pleno + -i- + -tum**
 
-**Las consonantes finales de la raíz se modifican ante -tum siguiendo las mismas reglas que se aplican ante el -ta del participio de participio pasado (PPP).**
+**Las consonantes finales de la raíz se modifican antes de -tum según las mismas reglas que antes del -ta del PPP.**
 
 **Los verbos con prefijo forman el infinitivo de la misma manera que las raíces simples.**
 :::
@@ -69,9 +73,9 @@ Ejemplos:
 रुद् : रोदितुम्
 :::
 
-No es posible establecer reglas fijas sobre el uso de la vocal de unión -i-. En líneas generales, la distribución de la vocal de unión en el infinitivo coincide con la del futuro.
+No se pueden establecer reglas fijas sobre el uso de la vocal de enlace -i-. En esencia, la distribución de la vocal de enlace en el infinitivo coincide con la del futuro.
 
-Entre las raíces estudiadas hasta ahora, se deben prestar especial atención a los siguientes infinitivos:
+Entre las raíces aprendidas hasta ahora, se deben tener en cuenta especialmente los siguientes infinitivos:
 
 ::: indent
 गम् : गन्तुम्
@@ -79,7 +83,7 @@ Entre las raíces estudiadas hasta ahora, se deben prestar especial atención a 
 प्रच्छ् : प्रष्टुम्
 :::
 
-Las raíces que presentan -ra- como grado pleno frente a -ṛ- tienen en el infinitivo:
+-ra- como grado pleno de -ṛ- tienen en el infinitivo:
 
 ::: indent
 दृश् : द्रष्टुम्
@@ -87,9 +91,9 @@ Las raíces que presentan -ra- como grado pleno frente a -ṛ- tienen en el infi
 सृज् : स्रष्टुम्
 :::
 
-Las demás raíces con -ṛ- en la penúltima posición tienen opcionalmente -ra- o -ar-, si son aniṭ (no semivocales).
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
-## 23.3. El infinitivo (तुमुन्) correspondiente a las raíces estudiadas hasta ahora
+## 23.3. El infinitivo (तुमुन्) de las raíces aprendidas hasta ahora
 
 अद् 2P अत्तुम्  
 अश् 5Ā अशितुम् । अष्टुम्  
@@ -152,19 +156,19 @@ Las demás raíces con -ṛ- en la penúltima posición tienen opcionalmente -ra
 स्मृ 1P स्मर्तुम्  
 हन् 2P हन्तुम्
 
-## 23.4. Lista de palabras
+## 23.4. Lista de vocabulario
 
 समान ३: igual
 
-सामान्य n.: igualdad, conformidad
+सामान्य n.: igualdad, concordancia
 
-अधिक ३ : excedente, adicional, mayor, mejor, extraordinario
+अधिक ३: superfluo, adicional, mayor, mejor, extraordinario
 
 विशेष m.: particularidad, especificación, differentia specifica
 
 ## 23.5. Ejercicio
 
-A) Las siguientes raíces forman el infinitivo sin vocal de unión *-i-*. Forme el infinitivo teniendo en cuenta las modificaciones fonéticas correspondientes a:
+A) Las siguientes raíces forman el infinitivo sin vocal de unión -i-. Forme el infinitivo teniendo en cuenta los cambios fonéticos a:
 
 1.  आप्
 2.  इ
@@ -204,7 +208,7 @@ A) Las siguientes raíces forman el infinitivo sin vocal de unión *-i-*. Forme 
 36.  पच्
 37.  सद्
 
-B) Las siguientes raíces forman el infinitivo con la vocal de unión *-i-*. Forme el infinitivo para:
+B) Las siguientes raíces forman el infinitivo con vocal de unión -i-. Forme el infinitivo a:
 
 1.  आस्
 2.  नृत्
@@ -214,15 +218,15 @@ B) Las siguientes raíces forman el infinitivo con la vocal de unión *-i-*. For
 6.  वृत्
 7.  कुप्
 
-C) Las siguientes raíces, opcionalmente, con o sin vocal de unión:
+C) Las siguientes raíces opcionalmente con o sin vocal de unión:
 
 1.  अश्
 2.  इष्
 3.  बुध्
-4.  मुह् (¡3 formas!)
+4.  मुह् (3 formas)
 5.  सह्
 
-D) Traduzca y descomponga los compuestos:
+D) Traduzca y resuelva los compuestos:
 
 नराः स्वर्गं लब्धुं देवान्यज्ञैर्यष्टुमिच्छन्ति ॥१॥
 
@@ -233,7 +237,8 @@ D) Traduzca y descomponga los compuestos:
 ::: media
 ![](/images/lekt2303.jpg)
 Fig.: फलवन्ति पुण्यानीति
-(Fuente de la imagen: [Detalles](/licenses#lekt2303))
+ทำบุญ = पुण्यकरणम्, Tailandia = ประเทศไทย
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2303))
 :::
 
 
@@ -242,7 +247,8 @@ Fig.: फलवन्ति पुण्यानीति
 ::: media
 ![](/images/lekt2301.jpg)
 Fig.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
-(Fuente de la imagen: [Detalles](/licenses#lekt2301))
+Chiang Mai, Tailandia = เชียงใหม่, ประเทศไทย
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2301))
 :::
 
 
@@ -254,62 +260,66 @@ Fig.: सुगतो लोकान्मोक्तुमार्यसत�
 
 धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥
 
-C) Traduzca el siguiente सुभाषितम् (dicho sabio):
+C) Traduzca el siguiente सुभाषितम्
 
 आहारनिद्राभयमैथुनं च  
 सामान्यमेतत्पशुभिर्नराणाम् ।  
 धर्मे हि तेषामधिको विशेषो  
 धर्मेण हीनाः पशुभिः समानाः ॥
 
-Explicación: हीन ३: PPP de हा 3: abandonar ; धर्मे = Locativo singular «en...»
+Explicación: हीन ३: PPP a हा 3: abandonar ; धर्मे = locativo sg. "en el ..."
 
 ::: media
 ![](/images/lekt2302.jpg)
 Fig.: आहारनिद्राभयमैथुनं च
-(Fuente de la imagen: [Detalles](/licenses#lekt2302))
+Chittorgarh = चित्तौडगढ
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2302))
 :::
 
 ## 23.6. Ejercicio de repaso
 
-¡Por favor, no utilice materiales auxiliares!
+¡Por favor, no utilice auxiliares!
 
 A) Traduzca al sánscrito:
 
-1\. Las cinco (पञ्च) "aflicciones" son: ignorancia, la falsa creencia en el yo, apego, aversión y apegamiento al cuerpo.
+1\. Las cinco (पञ्च) "angustias" son: ignorancia, la falsa creencia en el yo, afecto, aversión y apego al cuerpo.
 
-2\. El conocimiento se adquiere mediante la obediencia a un maestro, por mucho dinero o a cambio de conocimiento. No existe una cuarta forma de adquisición del conocimiento.
+2\. El conocimiento se adquiere por obediencia a un maestro o por mucho dinero o a cambio de conocimiento. No existe un cuarto tipo de adquisición del conocimiento.
 
-3\. Un hombre de baja condición habla pero no actúa; un hombre bueno no habla, sino que solo actúa.
+3\. Un bajo habla pero no actúa; un bueno no habla, sino que solo actúa.
 
-4\. Las ciencias auxiliares del Veda son: fonética, ritualística, gramática, semántica, métrica (छन्दस्) y calendárica.
+4\. Las ciencias auxiliares del Veda son: fonética, ritualística, gramática, semántica, métrica (छन्दस्) y calendario.
 
 5\. El yoga es la detención de las actividades del órgano pensante.
 
-6\. La justicia prevalece, no la injusticia; la verdad prevalece, no la mentira; la paciencia prevalece, no la ira; Dios prevalece, no un dios rival. (Voz pasiva)
+6\. La justicia triunfa, no la injusticia; la verdad triunfa, no la mentira; la paciencia triunfa, no la ira; Dios triunfa, no un dios rival. (Pasivo)
 
-7\. El "bastón" (danda) provoca la adquisición y la posesión segura de filosofía, Veda y economía. La gestión de este bastón es la política.
+7\. El "bastón" provoca la adquisición y la posesión segura de filosofía, Veda y economía. La dirección de este bastón es la política.
 
 ::: media
 ![](/images/lekt2304.jpg)
 Fig.: दण्डनीतिः
-(Fuente de la imagen: [Detalles](/licenses#lekt2304))
+Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Primer Ministro de la India = भारत के प्रधानमन्त्री, desde 2004
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2304))
 :::
 
-8\. Esposa, hijo y esclavo, estos tres (त्रयस्) son, según la tradición, carentes de propiedad. Lo que pertenece a estos (tres), pertenece a aquel a quien estos (tres) pertenecen.
 
-9\. Los mosquitos desean una herida; los gobernantes desean posesiones; los hombres de baja condición desean disputas; los hombres buenos desean la paz.
 
-10\. El deber específico de un brāhmaṇa es: estudio, enseñanza, ofrecer sacrificios como sacerdote principal, ofrecer sacrificios por encargo, dar y recibir; el de un kṣatriya es: estudio, ofrecer sacrificios como sacerdote principal, dar, sustentarse mediante las armas y proteger a los seres; el de un vaiśya: ofrecer sacrificios como sacerdote principal, dar, agricultura, ganadería y comercio; el de un śūdra: obediencia a los dos veces nacidos, actividades económicas y las tareas (कर्म) de artesanos y artistas.
+8\. Esposa, hijo y esclavo, estos tres (त्रयस्) son, según la tradición, sin posesiones. A lo que estos llegan, eso pertenece a aquel a quien estos (tres) pertenecen.
 
-11\. La clarificación de la conciencia ocurre debido al desarrollo meditativo de la benevolencia amable, la compasión, la alegría empática y la ecuanimidad, que tienen como objeto la felicidad y el sufrimiento, lo bueno y lo malo.
+9\. Los mosquitos desean una herida, los gobernantes desean posesiones, los bajos desean disputas, los buenos desean la paz.
 
-12\. Los pobres tienen muchos hijos, aunque no los desean. Los ricos no tienen hijos. Extraño es el movimiento del destino.
+10\. El deber específico de un brahmán es: estudio, enseñanza, ofrecer sacrificios como señor del sacrificio, ofrecer sacrificios por encargo, dar y recibir; el de un kṣatriya es: estudio, ofrecer sacrificios como señor del sacrificio, dar, sustento mediante armas, proteger a los seres; el de un vaiśya: estudio, ofrecer sacrificios como señor del sacrificio, dar, agricultura, ganadería y comercio; el de un śūdra: obediencia a los dos veces nacidos, actividad económica, actividad (कर्म) de artesanos y artistas.
 
-13\. ¿A quién no mata un cuerpo femenino (वपुस् n.) con cintura esbelta, caderas anchas, labios rojos, ojos negros, ombligo curvado y senos erguidos?
+11\. La aclaración de la conciencia ocurre debido al desarrollo meditativo de la benevolencia amable, la compasión, la alegría compartida y la ecuanimidad, que tienen como objeto la felicidad y el sufrimiento, lo bueno y lo malo.
+
+12\. Los pobres tienen muchos hijos, aunque no los desean. Los ricos no tienen hijo. Extraño es el impulso del destino.
+
+13\. ¿A quién no mata un cuerpo femenino (वपुस् f.) con cintura delgada, caderas anchas, labios rojos, ojos negros, ombligo curvado, pechos erguidos?
 
 B) Decline en todos los casos que conozca क्षत्रिया f.
 
-C) Proporcione las formas radicales (significado, clase de presente, modo, 3.ª persona singular del presente de indicativo, 3.ª persona singular del presente pasivo, participio de perfecto pasivo, absolutivos, infinitivo) para los siguientes verbos:
+C) Proporcione las formas raíz (significado, clase de presente, modo, 3. sg. presente indicativo, 3. sg. pasivo, PPP, absolutivos, infinitivo) para los siguientes verbos:
 
 १. सह्
 
@@ -321,13 +331,11 @@ C) Proporcione las formas radicales (significado, clase de presente, modo, 3.ª 
 
 ::: deleteme-box
 
-### Fuentes
-
 **lekt2301:** Chiang Mai, Tailandia = เชียงใหม่, ประเทศไทย [Fuente de la imagen: Wikipedia. Licencia GNU FDL]
 
-**lekt2302:** Chittorgarh = चित्तौडगढ [Fuente de la imagen: por zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Acceso el 13-12-2008. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
+**lekt2302:** Chittorgarh = चित्तौडगढ [Fuente de la imagen: por zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Acceso el 2008-12-13. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
 
-**lekt2303:** ทำบุญ = पुण्यकरणम्, Tailandia = ประเทศไทย [Fuente de la imagen: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Acceso el 13-12-2008. -- Licencia Creative Commons (Atribución, sin obras derivadas)]
+**lekt2303:** ทำบุญ = पुण्यकरणम्, Tailandia = ประเทศไทย [Fuente de la imagen: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Acceso el 2008-12-13. -- Licencia Creative Commons (Atribución, sin obras derivadas)]
 
 **lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Primer Ministro de la India = भारत के प्रधानमन्त्री, desde 2004 [Fuente de la imagen: Wikipedia, dominio público]
 :::

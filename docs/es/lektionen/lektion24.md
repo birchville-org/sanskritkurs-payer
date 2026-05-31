@@ -1,14 +1,18 @@
 ---
+title: Lección 24
+subtitle: "El dativo (चतुर्थी = \"cuarta terminación casual\")"
 lesson_id: 24
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 24
 
-## 24.1. El dativo (चतुर्थī = "cuarta terminación casuál")
+## 24.1. El dativo (चतुर्थी = "cuarta terminación casuál")
 
 :::: grammar-box
-**1. Para expresar el propósito o la intención ("a fin de") de una acción, en lugar del infinitivo (तुमुन्), también se puede usar un sustantivo con sufijo kṛt, que designa una acción o estado, en dativo (चतुर्थī = "cuarta terminación casuál").**
+**1. Para expresar el propósito o la intención ("para") de una acción, en lugar del infinitivo (तुमुन्) también se puede usar un sustantivo con sufijo kṛt, que designa una acción o estado, en dativo (चतुर्थी = "cuarta terminación casuál").**
 
 Ejemplo:
 
@@ -28,94 +32,97 @@ o bien:
 रामो गुरुवचनश्रवणाय गतः ।
 :::
 
-= "Rāma ha ido para escuchar la palabra del maestro."
+= "Rāma se ha ido para escuchar el discurso del maestro."
 ::::
 
 ::: media
 ![](/images/lekt2404.jpg)
 Fig.: बाला गुरुश्रवणाय गताः
-(Fuente de la imagen: [Detalles](/licenses#lekt2404))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2404))
 :::
 
 :::: grammar-box
-**2. El dativo (चतुर्थī) también puede indicar el objeto de un infinitivo de propósito que debe completarse:**
+**2. El dativo (चतुर्थी) también puede designar el objeto de un infinitivo de propósito que debe completarse:**
 
 Ejemplo:
 
 ::: indent
-फलेभ्यो ग्रामं गच्छति = "Él va al pueblo con el propósito de obtener frutos = Él va al pueblo para recoger frutos."
+फलेभ्यो ग्रामं गच्छति = "Él va al pueblo con el propósito de obtener frutos = Él va al pueblo para obtener frutos."
 :::
 
-**De la misma manera, el dativo (चतुर्थī) indica el propósito de una cosa o acción:**
+**De la misma manera, el dativo (चतुर्थी) designa el propósito de una cosa o de una acción:**
 
 Ejemplo:
 
 ::: indent
-यज्ञायान्नम् = "Alimento con propósito de sacrificio = Alimento para un sacrificio"
+यज्ञायान्नम् = "Alimento con el propósito de un sacrificio = Alimento para un sacrificio"
 :::
 ::::
 
 ::: media
 ![](/images/lekt2401.jpg)
 Fig.: यज्ञायान्नम्
-(Fuente de la imagen: [Detalles](/licenses#lekt2401))
+'Annakut' [अन्नकूट = गोवर्धन पूजा] es un evento hindú tradicional que tiene lugar en las celebraciones del Año Nuevo hindú en todos los templos BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Cientos de platos vegetarianos se ofrecen a Bhagwan Swaminarayan [સ્વામિનારાયણ] en este día.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2401))
 :::
 
 :::: grammar-box
-**3. El dativo (चतुर्थī) también indica la persona o cosa para la cual está destinado el objeto de una acción (objeto indirecto; pregunta: ¿a quién?). (¡Tener en cuenta los verbos con acusativo doble (द्वितीया)!)**
+**3. El dativo (चतुर्थी) designa también la persona o cosa para la que está destinado el objeto de una acción (objeto indirecto; pregunta: ¿a quién?). (¡Tenga en cuenta los verbos con acusativo doble (द्वितीया)!)**
 
 Ejemplo:
 
 ::: indent
-रामाय फलं ददाति = "Él le da a Rāma una fruta." (Raíz दा, 3ª clase de presente)
+रामाय फलं ददाति = "Él le da a Rāma una fruta." (Raíz दा 3. clase de presente)
 :::
 ::::
 
 ::: media
 ![](/images/lekt2402.jpg)
 Fig.: बाला बालाय रक्षबन्धनं ददाति
-(Fuente de la imagen: [Detalles](/licenses#lekt2402))
+Raksha bandhan se celebra con fervor y alegría en toda la India. Este festival epitomiza el amor incondicional entre hermanos y hermanas.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2402))
 :::
 
 :::: grammar-box
-**4. El dativo aparece con algunos verbos (y otras palabras) de manera similar al alemán, respondiendo a la pregunta "¿a quién?":**
+**4. El dativo aparece con algunos verbos (y con algunas otras palabras) de manera similar al alemán, respondiendo a la pregunta "¿a quién?":**
 
 Ejemplos:
 
 ::: indent
 क्रुध् : देवो नरेभ्यो क्रुध्यति = "El dios se enfada con los hombres."
 
-अलम् Adverbio: "suficiente, bastante, capaz": अलं योधो योधाय = "un guerrero es igual a otro guerrero"
+अलम् Adverbio: "suficiente, suficiente, capaz": अलं योधो योधाय = "un guerrero es capaz para el otro guerrero"
 :::
 ::::
 
 ::: media
 ![](/images/lekt2403.jpg)
 Fig.: अलं योधो योधाय
-(Fuente de la imagen: [Detalles](/licenses#lekt2403))
+"Rama (derecha) sentado sobre los hombros de Hanuman, batalla contra el rey demonio Ravana." ca 1820
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2403))
 :::
 
-Otros usos del dativo se tratarán más adelante.
+Otros usos del dativo más adelante.
 
-## 24.2. Formación del Dativo (चतुर्थी)
+## 24.2. Formación del dativo (चतुर्थी)
 
 ::: grammar-box
 **Las terminaciones regulares del dativo son:**
 
-* **Singular: -e ; las raíces femeninas que terminan en vocal: -ai**
-* **Plural: Dativo y Ablativo (पञ्चमी): -bhyas**
+* **Singular: -e ; temas femeninos que terminan en vocal: -ai**
+* **Plural: dativo y ablativo पञ्चमी: -bhyas**
 :::
 
-### 24.2.1. Temáticas consonánticas
+### 24.2.1. Tem consonánticos
 
 :::: grammar-box
 
-| | Dativo Singular[[br]]चतुर्थी एकवचन | Dativo Plural[[br]]चतुर्थी बहुवचन |
+| | Dativo singular | Dativo plural |
 | :--- | :--- | :--- |
-| **yajant**[[br]]यजन्त् | **yajate**[[br]]यजते[[br]](yaja-t-e) | **yajadbhyas**[[br]]यजद्भ्यस्[[br]](de yaja-t-bhyas) |
-| **mahānt**[[br]]महान्त् | **mahate**[[br]]महते | **mahadbhyas**[[br]]महद्भ्यस् |
-| **paśumant**[[br]]पशुमन्त् | **paśumate**[[br]]पशुमते | **paśumadbhyas**[[br]]पशुमद्भ्यस् |
-| **guṇavant**[[br]]गुणवन्त् | **guṇavate**[[br]]गुणवते | **guṇavadbhyas**[[br]]गुणवद्भ्यस् |
+| यजन्त् | **यजते**[[br]]yaja-t-e | **यजद्भ्यस्**[[br]]aus yaja-t-bhyas |
+| महान्त् | **महते** | **महद्भ्यस्** |
+| पशुमन्त् | **पशुमते** | **पशुमद्भ्यस्** |
+| गुणवन्त् | **गुणवते** | **गुणवद्भ्यस्** |
 
 ::::
 
@@ -123,10 +130,10 @@ Otros usos del dativo se tratarán más adelante.
 
 :::: grammar-box
 
-| | Masculino / Neutro[[br]]पुंस् / नपुंसक | Femenino[[br]]स्त्री |
+| | Masculino / Neutro | Femenino |
 | :--- | :--- | :--- |
-| **Dativo Singular**[[br]]एकवचन | **kasmai**[[br]]कस्मै | **kasyai**[[br]]कस्यै |
-| **Dativo Plural**[[br]]बहुवचन | **kebhyas**[[br]]केभ्यस् | **kābhyas**[[br]]काभ्यस् |
+| **Dativo Singular** | **कस्मै** | **कस्यै** |
+| **Dativo Plural** | **केभ्यस्** | **काभ्यस्** |
 
 ::::
 
@@ -134,87 +141,88 @@ Otros usos del dativo se tratarán más adelante.
 
 :::: grammar-box
 
-| | | **tad**[[br]]तद् | **etad**[[br]]एतद् | **idam**[[br]]इदम् |
+| | | तद् | एतद् | इदम् |
 | :--- | :--- | :--- | :--- | :--- |
-| **Masculino[[br]]/ Neutro** | **Dat. sg.** | **tasmai**[[br]]तस्मै | **etasmai**[[br]]एतस्मै | **asmai**[[br]]अस्मै |
-| | **Dat. pl.** | **tebhyas**[[br]]तेभ्यस् | **etebhyas**[[br]]एतेभ्यस् | **ebhyas**[[br]]एभ्यस् |
-| **Femenino** | **Dat. sg.** | **tasyai**[[br]]तस्यै | **etasyai**[[br]]एतस्यै | **asyai**[[br]]अस्यै |
-| | **Dat. pl.** | **tābhyas**[[br]]ताभ्यस् | **etābhyas**[[br]]एताभ्यस् | **ābhyas**[[br]]आभ्यस् |
+| **Masculino / Neutro** | **Dat. sg.** | **तस्मै** | **एतस्मै** | **अस्मै** |
+| | **Dat. pl.** | **तेभ्यस्** | **एतेभ्यस्** | **एभ्यस्** |
+| **Femenino** | **Dat. sg.** | **तस्यै** | **एतस्यै** | **अस्यै** |
+| | **Dat. pl.** | **ताभ्यस्** | **एताभ्यस्** | **आभ्यस्** |
 
 ::::
 
-### 24.2.4. Temáticas vocálicas
+### 24.2.4. Temáticos vocálicos
 
 ::: grammar-box
-**Temáticas vocálicas**
+**Temáticos vocálicos**
 
-* **Masculinos / Neutros en -a: deva (देव)**
-  * **Dat. sg. devāya (देवाय)**
-  * **Dat. pl. devebhyas (देवेभ्यस्)**
-* **Masculinos en -i: kavi (कवि)**
-  * **Dat. sg. kavaye (कवये)**
-  * **Dat. pl. kavibhyas (कविभ्यस्)**
-* **Masculinos en -u: paśu (पशु)**
-  * **Dat. sg. paśave (पशवे)**
-  * **Dat. pl. paśubhyas (पशुभ्यस्)**
-* **Femeninos en -ā: devatā (देवता)**
-  * **Dat. sg. devatāyai (देवतायै)**
-  * **Dat. pl. devatābhyas (देवताभ्यस्)**
-* **Femeninos en -ī: devī (देवी)**
-  * **Dat. sg. devyai (देव्यै)**
-  * **Dat. pl. devībhyas (देवीभ्यस्)**
-* **Femeninos en -i: śruti (श्रुति)**
-  * **Dat. sg. śrutaye (श्रतये) o śrutyai (श्रुत्यै)**
-  * **Dat. pl. śrutibhyas (श्रुतिभ्यस्)**
-* **Femeninos en -u: dhenu (धेनु)**
-  * **Dat. sg. dhenave (धेनवे) o dhenvai (धेन्वै)**
-  * **Dat. pl. dhenubhyas (धेनुभ्यस्)**
+* **Masculinos / Neutros en -a:** देव
+  * Dat. sg. **देवाय**
+  * Dat. pl. **देवेभ्यस्**
+* **Masculinos en -i:** कवि
+  * Dat. sg. **कवये**
+  * Dat. pl. **कविभ्यस्**
+* **Masculinos en -u:** पशु
+  * Dat. sg. **पशवे**
+  * Dat. pl. **पशुभ्यस्**
+* **Femeninos en -ā:** देवता
+  * Dat. sg. **देवतायै**
+  * Dat. pl. **देवताभ्यस्**
+* **Femeninos en -ī:** देवी
+  * Dat. sg. **देव्यै**
+  * Dat. pl. **देवीभ्यस्**
+* **Femeninos en -i:** श्रुति
+  * Dat. sg. **श्रुतये** o **श्रुत्यै** (es decir, como कवि o como देवी)
+  * Dat. pl. **श्रुतिभ्यस्**
+* **Femeninos en -u:** धेनु
+  * Dat. sg. **धेनवे** o **धेन्वै**
+  * Dat. pl. **धेनुभ्यस्**
 :::
 
-## 24.3. Sandhi de las terminaciones -ai y -au
+## 24.3. Sandhi de -ai y -au finales
 
-::: grammar-box
-**Sandhi de las terminaciones -ai y -au**
+:::: grammar-box
+**Sandhi de -ai y -au finales**
 
-* **-ai ante una vocal inicial se reemplaza por lo general por -ā (rara vez por -āy, como ocurre en el interior de la palabra)**
-* **-au ante una vocal se reemplaza por lo general por -āv (rara vez por -ā)**
+* **-ai ante vocal inicial se reemplaza generalmente por -ā (raramente por -āy como en interior de palabra)**
+* **-au ante vocal se reemplaza generalmente por -āv (raramente por -ā)**
 
 Ejemplo:
 
 ::: indent
-तस्मै + अग्नये » तस्मा अग्नये = «a este fuego»
+तस्मै + अग्नये » तस्मा अग्नये = "a este fuego"
 :::
-:::
+::::
 
-## 24.4. Lista de vocabulario
+## 24.4. Lista de palabras
 
-अलम् Adverbio: suficiente, bastante, capaz de (alguien, algo); con Dativo: suficiente para, bastante para, capaz de; con Instrumental: suficiente con, abstente de, por ejemplo, अलं क्रोधेन = «suficiente con la ira = ¡abstente de la ira!».
+अलम् Adverbio: suficiente, bastante, capaz de (alguien, algo); con dativo: suficiente para, bastante para, capaz de; con instrumental: suficiente con, abstente de , p. ej. अलं क्रोधेन = "suficiente con la ira = ¡abstente de la ira!"
 
-De la misma manera que अलम् con Instrumental se utiliza:
+De la misma manera que अलम् con instrumental se utiliza:
 
-कृतम् : कृतं क्रोधेन = «Está hecho con la ira = ¡abstente de la ira!».
+कृतम् : कृतं क्रोधेन = "Está hecho con la ira = ¡abstente de la ira!"
 
 अलम् + कृ 8U अलंकरोति : adornar
 
 ::: indent
-अलंकार m.: adorno, elemento decorativo (en la poesía)
+अलंकार m.: adorno, medio de adorno (en la poesía)
 :::
 
 ::: media
 ![](/images/lekt2405.jpg)
 Fig.: अलंकारः
-(Fuente de la imagen: [Detalles](/licenses#lekt2405))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2405))
 :::
 
 
-हेतु m.: impulso, motivo, causa, razón; हेतुना, हेतोस्, हेतवे con Genitivo o como segundo componente de un compuesto = «por ..., por causa de»
+हेतु m.: impulso, motivo, causa, razón; हेतुना, हेतोस्, हेतवे con genitivo o como segundo miembro de un compuesto = "por ... causa, debido a"
 
 प्रतिमा f.: imagen, retrato
 
 ::: media
 ![](/images/lekt2406.jpg)
 Fig.: देवीप्रतिमा
-(Fuente de la imagen: [Detalles](/licenses#lekt2406))
+Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2406))
 :::
 
 
@@ -223,50 +231,51 @@ Fig.: देवीप्रतिमा
 De वृत्:
 
 ::: indent
-वृत्ति f.: comportamiento, actividad, modo de vida
+वृत्ति f.: conducta, actividad, modo de vida
 
-वृत्त n.: comportamiento
+वृत्त n.: conducta
 :::
 
-अभि Prefijo verbal:  a-, hacia - allá, hacia - aquí, hacia - allá, contra, en - dentro, en relación con, sobre, sobre, en
+अभि Prefijo:  pre-, después - hacia, hacia - hacia, hacia, en - dentro, en relación con, sobre, sobre, a
 
-नि Prefijo verbal: hacia abajo, hacia abajo, hacia dentro, hacia atrás
+नि Prefijo: hacia abajo, hacia abajo, hacia dentro, hacia atrás
 
-आ Preposición / Posposición: antes de Ablativo o después de Acusativo: hasta, hasta; con Ablativo: desde, desde, desde
+आ Preposición / Posposición: antes del ablativo o después del acusativo: hasta, hasta; con ablativo: de aquí, desde, desde
 
-अतस् Indeclinable: de allí, entonces, por eso, de ahí (raíz pronominal a- «este» + sufijo ablativo -tas)
+अतस् Indeclinable: de allí, entonces, por eso, de ahí (raíz pronominal a- "este" + sufijo ablativo -tas)
 
 अध्यक्ष m.: supervisor, jefe de departamento; testigo presencial
 
-इन्द्रिय n.: fuerza, órgano sensorial
+इन्द्रिय n.: fuerza, sentido
 
 ऊह m.: reflexión, argumentación
 
-de ello
+de eso
 
 ::: indent
 अपोह m.: negación (अप + ऊह)
 
-ऊहापोह m.: discusión a favor y en contra
+ऊहापोह m.: discusión del pro y el contra
 :::
 
 ::: media
 ![](/images/lekt2407.jpg)
 Fig.: ऊहापोहः
-(Fuente de la imagen: [Detalles](/licenses#lekt2407))
+"NUEVA DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor adjunto de Asuntos Exteriores de la Red CNN-IBN 18, India, modera un panel de discusión en la Cumbre Económica India del Foro Económico Mundial 2008 en Nueva Delhi."
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2407))
 :::
 
 
 औपकारिक 3 f.: -ई : útil
 
-कुप्य n.: producto del bosque, metal (no precioso)
+कुप्य n.: producto del bosque, metal (no metal precioso)
 
 ख्या 2P ख्याति PPP ख्यात : ver, hacerse visible; nombrar, explicar, comunicar
 
 ::: indent
 ख्या + आ 2P आख्यात : narrar
 
-de ello:
+de eso:
 
 आख्यान n.: narración
 :::
@@ -274,29 +283,30 @@ de ello:
 ::: media
 ![](/images/lekt2408.jpg)
 Fig.: आख्यानम्
-(Fuente de la imagen: [Detalles](/licenses#lekt2408))
+"El narrador de historias de San Francisco, Jeff Byers, comparte una historia con los residentes de Chenneri, una aldea irula. El narrador de historias Jeeva Raghunath traduce al tamil para los aldeanos."
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2408))
 :::
 
 
 ::: indent
-ख्या + सम् 2P संख्याति : contar juntos, calcular
+ख्या + सम् 2P संख्याति : sumar, calcular
 
-de ello:
+de eso:
 
 संख्या f.: conteo, enumeración; सांख्य n.: uno de los seis sistemas filosóficos (abreviado: Basham, Wonder p. 326f.)
 :::
 
-ग्रहण n.: captura
+ग्रहण n.: agarrar
 
-चौल n.: ceremonia (संस्कार) de corte de cabello (a los tres años)
+चौल n.: ceremonia (संस्कार) de corte de cabello (a los 3 años)
 
-तत्त्व n.: verdadera naturaleza, verdad, realidad (तद् + त्व = «estaidad»)
+तत्त्व n.: verdadera naturaleza, verdad, realidad (तद् + त्व = estaidad)
 
-स्वस्ति f.: felicidad, salud (formación nominal de सु अस्ति = «está bien»)
+स्वस्ति f.: felicidad, salvación (formación nominal de सु अस्ति = "está bien")
 
-नमस् n.: reverencia, veneración, saludo (declinación posterior). Fórmula de saludo: नमो नमः
+नमस् n.: reverencia, veneración, saludo (declinación más tarde). Fórmula de saludo: नमो नमः
 
-de ello:
+de eso:
 
 ::: indent
 कृ + नमस् 8 नमस्करोमि : inclinarse, venerar, saludar
@@ -305,7 +315,8 @@ de ello:
 ::: media
 ![](/images/lekt2411.jpg)
 Fig.: जयदेवकविर्विष्णुं नमस्करोति
-(Fuente de la imagen: [Detalles](/licenses#lekt2411))
+Manuscrito del गीतगोविन्द, 1730 d. C.
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2411))
 :::
 
 
@@ -317,7 +328,7 @@ Fig.: जयदेवकविर्विष्णुं नमस्करो�
 
 ## 24.5. Ejercicio
 
-A) Forme el Dativo Singular y el Dativo/(Ablativo) Plural, e indique el significado de la raíz nominal:
+A) Forme el dativo singular y el dativo/(ablativo) plural y proporciona el significado de la raíz nominal:
 
 1.  श्रव
 2.  भवन
@@ -349,7 +360,7 @@ A) Forme el Dativo Singular y el Dativo/(Ablativo) Plural, e indique el signific
 28.  दासी
 29.  गुरु
 
-B) Traduzca y descomponga los compuestos en sánscrito:
+B) Traduce y resuelve los compuestos en sánscrito:
 
 ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विशति ॥१॥
 
@@ -369,17 +380,17 @@ B) Traduzca y descomponga los compuestos en sánscrito:
 
 मरणाय जना जायन्ते ॥९॥
 
-C) Repita las oraciones A) 1-4 en sánscrito, sustituyendo los infinitivos en *tumuñ* (तुमुन्) por la forma correspondiente. Tenga en cuenta que el infinitivo rige el mismo caso que el verbo correspondiente.
+C) Repite las oraciones de A) 1-4 en sánscrito, sustituyendo los infinitivos de dativo (तुमुन्) por [sustantivos en dativo]. Ten en cuenta que el infinitivo rige el mismo caso que el verbo correspondiente.
 
-D) Sustituya en la oración A) 7 la construcción con *-artham* por un Dativo equivalente.
+D) Sustituye en la oración A) 7 la construcción con -अर्थ por un dativo equivalente.
 
-E) Sustituya en la oración A) 6 la construcción en Dativo por una construcción equivalente con *-artham*.
+E) Sustituye en la oración A) 6 la construcción de dativo por una construcción equivalente con -अर्थ
 
 ## 24.6. Otros ejercicios sobre el uso del dativo
 
 Traduzca al sánscrito:
 
-1\. La diosa, a la cual no se ha ofrecido sacrificio, se enfada con los hombres.
+1\. La diosa, a la cual no se ha sacrificado, se enfada con los humanos.
 
 2\. Él suelta la vaca en la aldea.
 
@@ -387,39 +398,40 @@ Traduzca al sánscrito:
 
 4\. Eso es bueno (हित, सुख) para un brahmán.
 
-5\. ¡Saludo (नमस्) a Śiva! ¡Saludo a Śrī Gaṇeśa!
+5\. ¡Honra (नमस्) a Śiva! ¡Honra a Śrī Gaṇeśa!
 
 ::: media
 ![](/images/lekt2409.jpg)
 Fig.: श्रीगणेशाय नमः
-(Fuente de la imagen: [Detalles](/licenses#lekt2409))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2409))
 :::
 
 
-6\. ¡Adiós! (= ¡Bienestar (स्वस्ति f.) para usted!)
+6\. ¡Adiós! (= Bienestar (स्वस्ति f.) ¡para ti!)
 
 7\. Esta fruta basta para comer.
 
-8\. Un guerrero es igual (शक्त) al (otro) guerrero.
+8\. Un guerrero es igual al (otro) guerrero (शक्त).
 
-9\. Incluso Viṣṇu no supera a Śiva (Dat.).
+9\. Incluso Viṣṇu no supera (प्र-भू + Dat.) a Śiva.
 
-10\. Después de haberme inclinado ante los tres sabios (Ac.)... Él se inclina ante Narasiṃha (Dat.).
+10\. Después de haberme inclinado ante los tres sabios (Ac.) (नमस्कृ)... Él se inclina ante Narasiṃha (Dat.)
 
 ::: indent
-Explicación: मुनित्रयम् "la trinidad de los sabios = los tres sabios" = los gramáticos पाणिनि, कात्यायन, पतञ्जलि
+Explicación: मुनित्रयम् "la Trinidad de los sabios = los tres sabios" = los gramáticos पाणिनि, कात्यायन, पतञ्जलि
 :::
 
 ::: media
 ![](/images/lekt2410.jpg)
 Fig.: नरो नरसिंहाय नमस्करोति
-(Fuente de la imagen: [Detalles](/licenses#lekt2410))
+नरसिंह desgarrado हिरण्यकशिपु, página de un manuscrito del भागवतपुराण
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2410))
 :::
 
 
-11\. Bienvenido (स्वागतम्) para usted. Bienvenida a la reina.
+11\. Bienvenido (स्वागतम्) para ti. Bienvenido a la reina.
 
-12\. Le deseo bienestar (कुशल) = ¡Bienestar para usted!
+12\. Le deseo bienestar (कुशल) = ¡Bienestar para ti!
 
 13\. Él no lo considera como una brizna de hierba.
 
@@ -429,27 +441,25 @@ Fig.: नरो नरसिंहाय नमस्करोति
 
 ::: deleteme-box
 
-### Fuentes
+**lekt2401:** 'Annakut' [अन्नकूट = गोवर्धन पूजा] es un evento hindú tradicional que tiene lugar en las celebraciones del Año Nuevo hindú en todos los templos BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Cientos de platos vegetarianos se ofrecen a Bhagwan Swaminarayan [સ્વામિનારાયણ] en este día. [Fuente de la imagen: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, uso no comercial)]
 
-**lekt2401:** 'Annakut' [अन्नकूट = गोवर्धन पूजा] es un evento tradicional hindú que tiene lugar durante las celebraciones del Año Nuevo hindú en todos los templos BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. En este día, se ofrecen cientos de platos vegetarianos a Bhagwan Swaminarayan [સ્વામિનારાયણ]. [Fuente de la imagen: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Acceso el 14-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial)]
+**lekt2402:** Raksha bandhan se celebra con fervor y alegría en toda la India. Este festival epitomiza el amor incondicional entre hermanos y hermanas. [Fuente de la imagen: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, uso no comercial, share alike)]
 
-**lekt2402:** Raksha Bandhan se celebra con fervor y alegría en toda la India. Este festival encarna el amor incondicional entre hermanos y hermanas. [Fuente de la imagen: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Acceso el 14-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual)]
+**lekt2403:** "Rama (derecha) sentado sobre los hombros de Hanuman, batalla contra el rey demonio Ravana." ca 1820 [Fuente de la imagen: Wikipedia, dominio público]
 
-**lekt2403:** "Rama (a la derecha) sentado sobre los hombros de Hanuman, lucha contra el rey demonio Ravana." ca. 1820 [Fuente de la imagen: Wikipedia, dominio público]
+**lekt2404:** [Fuente de la imagen: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, sin modificaciones)]
 
-**lekt2404:** [Fuente de la imagen: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Acceso el 14-12-2008. -- Licencia Creative Commons (Atribución, sin obras derivadas)]
+**lekt2405:** [Fuente de la imagen: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, uso no comercial, sin modificaciones)]
 
-**lekt2405:** [Fuente de la imagen: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Acceso el 14-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]
+**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Fuente de la imagen: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, uso no comercial)]
 
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Fuente de la imagen: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Acceso el 14-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial)]
+**lekt2407:** "NUEVA DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor adjunto de Asuntos Exteriores de la Red CNN-IBN 18, India, modera un panel de discusión en la Cumbre Económica India del Foro Económico Mundial 2008 en Nueva Delhi." [Fuente de la imagen: Foro Económico Mundial / Foto de Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, share alike)]
 
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editora Adjunta de Asuntos Exteriores de la Red CNN-IBN 18, India, modera un panel de discusión en la Cumbre Económica de la India 2008 del Foro Económico Mundial en Nueva Delhi." [Fuente de la imagen: Foro Económico Mundial / Foto de Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Acceso el 14-12-2008. -- Licencia Creative Commons (Atribución, compartir igual)]
-
-**lekt2408:** "El narrador de historias de San Francisco, Jeff Byers, comparte una historia con los residentes de Chenneri, una aldea Irula. El narrador de historias Jeeva Raghunath traduce al tamil para los aldeanos." [Fuente de la imagen: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Acceso el 14-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial)]
+**lekt2408:** "El narrador de historias de San Francisco, Jeff Byers, comparte una historia con los residentes de Chenneri, una aldea irula. El narrador de historias Jeeva Raghunath traduce al tamil para los aldeanos." [Fuente de la imagen: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, uso no comercial)]
 
 **lekt2409:** [Fuente de la imagen: Redtigerxyz / Wikipedia, Licencia GNU FDL]
 
-**lekt2410:** नरसिंह zerfleischt हिरण्यकशिपु, hoja de un manuscrito del भागवतपुराण [Fuente de la imagen: Wikipedia, dominio público]
+**lekt2410:** नरसिंह desgarrado हिरण्यकशिपु, página de un manuscrito del भागवतपुराण [Fuente de la imagen: Wikipedia, Dominio público]
 
-**lekt2411:** Manuscrito del गीतगोविन्द, 1730 d. C. [Fuente de la imagen: Wikipedia, dominio público]
+**lekt2411:** Manuscrito del गीतगोविन्द, 1730 d. C. [Fuente de la imagen: Wikipedia, Dominio público]
 :::

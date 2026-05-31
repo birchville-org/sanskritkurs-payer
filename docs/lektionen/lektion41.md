@@ -1,6 +1,10 @@
 ---
+title: Lektion 41
+subtitle: "सुभाषिते  (zwei Sprichwörter)"
 lesson_id: 41
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 41
@@ -441,7 +445,6 @@ Abb.: काशीं पत्स्ये गङ्गां द्रक्�
 गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥५॥
 
 ::: deleteme-box
-### Quellen
 
 - **Image lekt4102.jpg** (Abb.: पुस्तकस्था च या विद्या ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Bildquelle: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
 - **Image lekt4103.jpg** (Abb.: विक्रेयाणि पुष्पानि): महाराष्टre [Bildquelle: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]

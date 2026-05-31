@@ -1,15 +1,21 @@
 ---
+title: Lektion 25
+subtitle: "Bildung des Ablativ (पञ्चमी = \"fünfte Kasusendung\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 25
 
 ## 25.1. Bildung des Ablativ (पञ्चमी = "fünfte Kasusendung")
 
+::: grammar-box
 Außer bei Maskulina / Neutra auf -a sowie den Pronomina sind im Singular in allen Deklinationsklassen die Formen des Ablativ (पञ्चमी) mit denen des Genetiv (षष्ठी) identisch.
 
 Außer bei den Personalpronomina sind in allen Deklinationen im Plural die Formen des Ablativ mit denen des Dativ (चतुर्थी) identisch.
+:::
 
 Jetzt erkennen Sie den Grund für die Reihenfolge der Kasus (विभक्ति) im Sanskrit: sie sind so angeordnet, dass gleichlautende Formen möglichst beieinander - bzw. untereinander - stehen.
 
@@ -26,11 +32,11 @@ Frage-, Relativ- und Demonstrativpronomina:
 
 | | Ablativ Singular[[br]]Maskulinum / Neutrum | Ablativ Singular[[br]]Femininum |
 | :--- | :--- | :--- |
-| **kim**[[br]](किम्) | **kasmāt**[[br]](कस्मात्) | **kasyāḥ**[[br]](कस्याः) |
-| **yad**[[br]](यद्) | **yasmāt**[[br]](यस्मात्) | **yasyāḥ**[[br]](यस्याः) |
-| **tad**[[br]](तद्) | **tasmāt**[[br]](तस्मात्) | **tasyāḥ**[[br]](तस्याः) |
-| **etad**[[br]](एतद्) | **etasmāt**[[br]](एतस्मात्) | **etasyāḥ**[[br]](एतस्याः) |
-| **idam**[[br]](इदम्) | **asmāt**[[br]](अस्मात्) | **asyāḥ**[[br]](अस्याः) |
+| **किम्** | **kasmāt**[[br]](कस्मात्) | **kasyāḥ**[[br]](कस्याः) |
+| **यद्** | **yasmāt**[[br]](यस्मात्) | **yasyāḥ**[[br]](यस्याः) |
+| **तद्** | **tasmāt**[[br]](तस्मात्) | **tasyāḥ**[[br]](तस्याः) |
+| **एतद्** | **etasmāt**[[br]](एतस्मात्) | **etasyāḥ**[[br]](एतस्याः) |
+| **इदम्** | **asmāt**[[br]](अस्मात्) | **asyāḥ**[[br]](अस्याः) |
 
 ::::
 
@@ -42,65 +48,88 @@ Pāṇini 2,3,28 + 1,4,24
 
 Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?".
 
-1\. Der Ablativ bezeichnet also den Ausgangspunkt, die Herkunft und den Stoff:
-
-Beispiele:
-
-> ग्रमादागच्छति = "Er kommt aus dem Dorf"
-> 
-> अश्वात्पतितः = "vom Pferde gefallen"
-> 
-> तेभ्यो लब्धम् = "von ihnen (her) empfangen"
+::: grammar-box
+1\. Der Ablativ bezeichnet also den Ausgangspunkt, die Herkunft und den Stoff.
 
 Der Ablativ kann daher auch die Person bezeichnen, von der man etwas kauft, hört, wünscht usw.
+:::
 
 Beispiele:
 
-> गुरोर्धर्मं शृणोति = "er hört vom Lehrer über den Dharma"
-> 
-> ब्राह्मणः क्षत्रियाद्धेनुमिच्छति = "der Brahmane wünscht sich vom Kṣatriya eine Milchkuh"
+::: indent
+ग्रमादागच्छति = "Er kommt aus dem Dorf"
 
+अश्वात्पतितः = "vom Pferde gefallen"
+
+तेभ्यो लब्धम् = "von ihnen (her) empfangen"
+:::
+
+Beispiele:
+
+::: indent
+गुरोर्धर्मं शृणोति = "er hört vom Lehrer über den Dharma"
+
+ब्राह्मणः क्षत्रियाद्धेनुमिच्छति = "der Brahmane wünscht sich vom Kṣatriya eine Milchkuh"
+:::
+
+::: grammar-box
 2\. Der Ablativ steht bei Verben mit den Bedeutungen "abhalten von", "schützen vor", "verteidigen gegen", "sich fürchten vor":
+:::
 
 Beispiel:
 
-> अरिभ्यो रक्षति = "er schützt vor den Feinden"
+::: indent
+अरिभ्यो रक्षति = "er schützt vor den Feinden"
+:::
 
+::: grammar-box
 3\. Der Ablativ bezeichnet den Grund oder die Ursache:
+:::
 
 Beispiele:
 
-> क्रोधात्पुत्रं हन्ति = "Er erschlägt seinen Sohn aus Zorn"
-> 
-> कृतपापत्वान्नरकं गच्छति = "Weil er Böses getan hat, kommt er in die Hölle" (« Weil er einer ist, durch den Böses getan wurde)
-> 
-> पापकरणान्नरकं गच्छति = "Weil er Böses tut / tat, kommt er in die Hölle"
+::: indent
+क्रोधात्पुत्रं हन्ति = "Er erschlägt seinen Sohn aus Zorn"
+
+कृतपापत्वान्नरकं गच्छति = "Weil er Böses getan hat, kommt er in die Hölle" (« Weil er einer ist, durch den Böses getan wurde)
+
+पापकरणान्नरकं गच्छति = "Weil er Böses tut / tat, kommt er in die Hölle"
+:::
 
 Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (तृतीया) oder Ablativ (पञ्चमी) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen.
 
 ## 25.3. Das Suffix -तस्
 
+::: grammar-box
 Will man im Singular (eindeutig) ausdrücken, dass das Wort in ablativischer Bedeutung verwendet wird, kann man an den Wortstamm das Suffix -तस् anhängen, das Adverbien mit meist ablativischer Bedeutung bildet (auf die Frage "Woher?"):
+:::
 
 Beispiele:
 
-> आदितस् = "von Anfang an"
-> 
-> धर्मतस् = "wegen des Dharma, aufgrund des Dharma"
+::: indent
+आदितस् = "von Anfang an"
 
+धर्मतस् = "wegen des Dharma, aufgrund des Dharma"
+:::
+
+::: grammar-box
 Das Suffix -तस् tritt auch an Pronominalstämme:
+:::
 
-> तद् : ततस् (« ta-tas) "von dort, dort, dorthin, darauf, dann, darum"
-> 
-> यद् : यतस् "von welchem, wovon, woher, wo, wohin, weshalb, weil" (relativ)
-> 
-> किम् :  कुतस् "woher?" "warum?"
+::: indent
+तद् : ततस् (« ta-tas) "von dort, dort, dorthin, darauf, dann, darum"
+
+यद् : यतस् "von welchem, wovon, woher, wo, wohin, weshalb, weil" (relativ)
+
+किम् :  कुतस् "woher?" "warum?"
+:::
 
 ## 25.4. Andere Möglichkeiten, Begründungen auszudrücken
 
-1\. Relativsätze
+::: grammar-box
+**1\. Relativsätze**
 
-1\. Relativsätze drücken oft eine kausale (begründende), konsekutive (folgernde) oder finale (bezweckende) Beziehung zum Hauptsatz aus.
+Relativsätze drücken oft eine kausale (begründende), konsekutive (folgernde) oder finale (bezweckende) Beziehung zum Hauptsatz aus.
 
 Formen des Relativpronomens, die als kausale Konjunktion dienen:
 
@@ -109,68 +138,89 @@ Formen des Relativpronomens, die als kausale Konjunktion dienen:
     *   यस्मात् ... Nebensatz ... तस्मात् ... Hauptsatz ... = "weil ..., deshalb ..."
 *   instrumental:
     *   येन ... Nebensatz ... तेन ... Hauptsatz ... = "wodurch/weil ..., dadurch / deswegen ..."
+:::
 
 Beispiel:
 
-> यतो (यस्माद् / येन) धर्ममिच्छति \[ततो (तस्माद् / तेन)\] रामो व्रतं चरति = "Weil Rāma Wohlstand wünscht, praktiziert er das Gelübde"
+::: indent
+यतो (यस्माद् / येन) धर्ममिच्छति \[ततो (तस्माद् / तेन)\] रामो व्रतं चरति = "Weil Rāma Wohlstand wünscht, praktiziert er das Gelübde"
+:::
 
-2\. हि
+::: grammar-box
+**2\. हि**
 
 Hauptsätze kann man mittels der Partikel हि "denn, weil" miteinander verknüpfen. Ein Satz mit हि (das nicht an erster Stelle stehen darf, sondern in Prosa an zweiter Stelle stehen muss) gibt eine Begründung an entweder für den vorhergehenden Satz oder für den darauffolgenden Satz:
+:::
 
 Beispiel:
 
-> जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति = "Die Leute tun Verdienstliches. Sie wollen nämlich in den Himmel kommen."
+::: indent
+जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति = "Die Leute tun Verdienstliches. Sie wollen nämlich in den Himmel kommen."
+:::
 
-3\. Instrumentalis (तृतीया)
+::: grammar-box
+**3\. Instrumentalis (तृतीया)**
 
-3.  Neben dem Ablativ (पञ्चमी) wird der Instrumentalis (तृतीया) zur Angabe des Grundes oder der Ursache verwendet. Bei femininen Nomina ist der Instrumentalis im Allgemeinen obligatorisch.
+Neben dem Ablativ (पञ्चमी) wird der Instrumentalis (तृतीया) zur Angabe des Grundes oder der Ursache verwendet. Bei femininen Nomina ist der Instrumentalis im Allgemeinen obligatorisch.
+:::
 
 Beispiel:
 
-> क्रोधेन पुत्रं हन्ति = "Er erschlägt seinen Sohn aus Zorn" = "Er erschlägt seinen Sohn im Zorn"
+::: indent
+क्रोधेन पुत्रं हन्ति = "Er erschlägt seinen Sohn aus Zorn" = "Er erschlägt seinen Sohn im Zorn"
+:::
 
-4\. Nomina
+::: grammar-box
+**4\. Nomina**
 
-4\. Daneben kann man selbstverständlich Begründungen auch ausdrücken durch Konstruktionen mit
+Daneben kann man selbstverständlich Begründungen auch ausdrücken durch Konstruktionen mit
 
 *   कारण n. "Ursache": कारणात् । कारणेन
 *   हेतु m.
 *   andere Nomina in der Bedeutung "Ursache"
 
 \+ Genetiv (षष्ठी) oder als Hinterglied von Komposita:
+:::
 
 Beispiel:
 
-> पुण्यस्य कारणात् (हेतोः u.s.w.) = "wegen des Verdienstes"
+::: indent
+पुण्यस्य कारणात् (हेतोः u.s.w.) = "wegen des Verdienstes"
+:::
 
-5\. इति
+::: grammar-box
+**5\. इति**
 
-5\. Das Motiv für eine Tätigkeit kann man als Gedanken mit इति angeben:
+Das Motiv für eine Tätigkeit kann man als Gedanken mit इति angeben:
+:::
 
 Beispiel:
 
-> सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति  = "Weil der Sugata vollkommen zur Wahrheit erwacht ist, fragt Ānanda den Gautama nach seiner Lehre" (« "Denkend "Der Sugata ist vollkommen zur Wahrheit erwacht" ...)
+::: indent
+सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति  = "Weil der Sugata vollkommen zur Wahrheit erwacht ist, fragt Ānanda den Gautama nach seiner Lehre" (« "Denkend "Der Sugata ist vollkommen zur Wahrheit erwacht" ...)
+:::
 
 ## 25.5. Wortliste
 
-त्यज् 1P त्यजति  verlassen, aufgeben, im Stich lassen
+त्यज् 1P त्यजति  verlassen, aufgeben, im Stich lassen
 
-> Fut. त्यक्ष्यति  
-> Pass. त्यज्यते  
-> PPP त्यक्त  
-> Inf. त्यक्तुम्  
-> Absol. 2: -त्यज्य
-> 
-> davon:
-> 
-> त्याग m.: Aufgeben, Verzicht, Meiden
+::: indent
+Fut. त्यक्ष्यति  
+Pass. त्यज्यते  
+PPP त्यक्त  
+Inf. त्यक्तुम्  
+Absol. 2: -त्यज्य
+
+davon:
+
+त्याग m.: Aufgeben, Verzicht, Meiden
+:::
 
 दार m. pl. (!!!): Ehefrau
 
 द्रव्य n.: Gegenstand, Habe, materieller Besitz, Geld
 
-धान्य n.:  gedroschenes Getreide
+धान्य n.:  gedroschenes Getreide
 
 ::: media
 ![](/images/lekt2501.jpg)
@@ -181,34 +231,40 @@ Abb.: धान्यम्
 
 धृ 1U धरति : halten, festhalten
 
-> Fut. धरिष्यति  
-> Pass. ध्रियते  
-> PPP धृत  
-> Inf. धर्तुम्  
-> Absol. 2: -धृत्य
-> 
-> davon:
-> 
-> धर्म m.: das, was fest ist und fest hält = Dharma
+::: indent
+Fut. धरिष्यति  
+Pass. ध्रियते  
+PPP धृत  
+Inf. धर्तुम्  
+Absol. 2: -धृत्य
+
+davon:
+
+धर्म m.: das, was fest ist und fest hält = Dharma
+:::
 
 नित्य ३ : ständig, beständig, ewig
 
-> नित्यम् Adv.: stets, beständig immer
+::: indent
+नित्यम् Adv.: stets, beständig immer
+:::
 
-प्रज्ञा f.:  Weisheit, Erkenntnis
+प्रज्ञा f.:  Weisheit, Erkenntnis
 
 प्रदान n.: Geben, Spenden ; Gabe, Spende
 
 मद् 4 P माद्यति (!) : sich freuen, sich an etwas (Instr., Gen., Lok.) berauschen
 
-> Fut. मदिष्यति  
-> Pass. मद्यते  
-> PPP मत्त  
-> Inf. मदितुम्
-> 
-> davon:
-> 
-> मद m.: Rausch, Sinnenrausch = Sinneslust
+::: indent
+Fut. मदिष्यति  
+Pass. मद्यते  
+PPP मत्त  
+Inf. मदितुम्
+
+davon:
+
+मद m.: Rausch, Sinnenrausch = Sinneslust
+:::
 
 मान m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
 
@@ -220,10 +276,12 @@ Abb.: धान्यम्
 
 या 2P याति, यान्ति = गम्
 
-> Pass. यायते  
-> PPP यात  
-> Inf. यातुम्  
-> Absol. 2: -याय
+::: indent
+Pass. यायते  
+PPP यात  
+Inf. यातुम्  
+Absol. 2: -याय
+:::
 
 दारिद्र्य n. = दरिद्रस्य भावः
 
@@ -231,13 +289,15 @@ Abb.: धान्यम्
 
 शास् 2P शास्ति, शासति (3. pl.) : befehlen, lehren, bestrafen
 
-> Pass. शिष्यते  
-> PPP शिष्ट ३ : gelehrt  
-> Absol 1.: शासित्वा / शिष्त्वा
-> 
-> davon:
-> 
-> शिक्षा f.: Wissenschaft, Unterricht ; Phonetik
+::: indent
+Pass. शिष्यते  
+PPP शिष्ट ३ : gelehrt  
+Absol 1.: शासित्वा / शिष्त्वा
+
+davon:
+
+शिक्षा f.: Wissenschaft, Unterricht ; Phonetik
+:::
 
 स्तेन m.: Dieb
 
@@ -245,7 +305,7 @@ Abb.: धान्यम्
 
 किल्बिष n.: Schuld, Beleidigung, Sünde
 
-विना Postposition: ohne, außer (mit  Akk., Instr., Abl.)
+विना Postposition: ohne, außer (mit  Akk., Instr., Abl.)
 
 मूल n.: Wurzel
 
@@ -258,37 +318,41 @@ Abb.: मूलानि
 
 लिप् 6U लिम्पति (!): bestreichen, beschmieren
 
-> Fut. लेप्स्यति  
-> Pass. लिप्यते  
-> PPP लिप्त  
-> Inf. लेप्तुम्
-> 
-> davon:
-> 
-> लिप्ति f.: Bestreichen, Schreiben, Schrift
-> 
-> ::: media
-> ![](/images/lekt2503.jpg)
-> Abb.: लिप्तिः
-> (Bildquelle: [Details](/licenses#lekt2503))
-> :::
+::: indent
+Fut. लेप्स्यति  
+Pass. लिप्यते  
+PPP लिप्त  
+Inf. लेप्तुम्
+
+davon:
+
+लिप्ति f.: Bestreichen, Schreiben, Schrift
+:::
+
+::: media
+![](/images/lekt2503.jpg)
+Abb.: लिप्तिः
+(Bildquelle: [Details](/licenses#lekt2503))
+:::
 
 
 वर्ष n.,m.: Regen, Regenzeit, Jahr
 
 वह् 1U वहति : führen, fahren, wehen (Wind)
 
-> Fut. वक्ष्यति  
-> Pass. उह्यते  
-> PPP ऊढ  
-> Inf. वोढुम्  
-> Absol 2: -उह्य
-> 
-> वह् + वि 1P विवहति : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten
-> 
-> davon:
-> 
-> &gt; विवाह m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+::: indent
+Fut. वक्ष्यति  
+Pass. उह्यते  
+PPP ऊढ  
+Inf. वोढुम्  
+Absol 2: -उह्य
+
+वह् + वि 1P विवहति : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten
+
+davon:
+
+विवाह m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+:::
 
 ::: media
 ![](/images/lekt2504.jpg)
@@ -299,9 +363,11 @@ Abb.: विवाहः
 
 नी + वि 1U विनयति : wegführen, unterrichten, erziehen
 
-> davon:
-> 
-> विनय m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht
+::: indent
+davon:
+
+विनय m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht
+:::
 
 विज्ञान n.: Erkenntnis, Kenntnis
 
@@ -316,14 +382,16 @@ Abb.: विष्टिः
 
 वृध् 1Ā वर्धते : wachsen, größer werden
 
-> Fut. वर्धिष्यते  
-> Pass. वृध्यते  
-> PPP वृद्ध : erwachsen, alte, vermehrt  
-> Inf. वर्धितुम्
-> 
-> davon:
-> 
-> वृद्धि f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti)
+::: indent
+Fut. वर्धिष्यते  
+Pass. वृध्यते  
+PPP वृद्ध : erwachsen, alte, vermehrt  
+Inf. वर्धितुम्
+
+davon:
+
+वृद्धि f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti)
+:::
 
 सामर्थ्य n.: das seinem Zweck Entsprechen
 
@@ -380,7 +448,7 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 विष्णुर्भक्तान्मरणात्पाति ॥११॥
 
-रामाद्विना =  रामं विना = रामेण विना ॥१२॥
+रामाद्विना =  रामं विना = रामेण विना ॥१२॥
 
 साधोः शिक्षा गुणाय संपद्यते नासाधोः ॥१३॥
 
@@ -458,7 +526,7 @@ Erklärung der im obigen Text rot hervorgehobenen Wörter:
 
 1.5.2. प्राणभृताम् : Gen. pl. m. zu प्राणभृत् m. "Lebewesen"
 
-1.5.5.  इतरम् Akk. sg. mask. zu इतर ३ "anderer"
+1.5.5.  इतरम् Akk. sg. mask. zu इतर ३ "anderer"
 
 1.5.7. कर्मा : Nom. sg. mask. zu कर्मन् neutr. "Tat, Werk" ; उपयुञ्जीत : OPtativ 3. sg. Ā zu upa-yuj 7 "sich aneignen": "er möge sich aneignen"
 

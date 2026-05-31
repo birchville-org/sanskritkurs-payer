@@ -1,5 +1,9 @@
 ---
+title: Lektion 61
+subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 61
@@ -155,6 +159,7 @@ Paradigma:
 ::: media
 ![](/images/lekt6106.jpg)
 Abb.: रथ्याप्वः
+काशीपुर
 (Bildquelle: [Details](/licenses#lekt6106))
 :::
 
@@ -182,6 +187,7 @@ Paradigma:
 ::: media
 ![](/images/lekt6107.jpg)
 Abb.: वध्वौ
+जोधपुर
 (Bildquelle: [Details](/licenses#lekt6107))
 :::
 ## 61.2. Das periphrastische Futur (लुट्)
@@ -238,27 +244,28 @@ Paradigma:
 
 ::: grammar-box
 **Von jeder einsilbigen, konsonantisch anlautenden Wurzel der ersten neun Präsensklassen kan ein Intensivum (चर्करीतम्)  gebildet werden; das heißt: mit wenigen Ausnahmen kann von zweisilbigen Wurzeln (z.B. जागृ), vokalisch anlautenden Wurzeln und Wurzeln der 10. Präsensklasse (चुरादिगण) kein Intensivum gebildet werden.**
-:::
 
-Das Intensivum bedeutet:
+**Das Intensivum bedeutet:**
 
-*   dass eine Person oder Sache immer wieder tut oder erleidet, was durch die Wurzel ausgedrückt wird  
+*   **dass eine Person oder Sache immer wieder tut oder erleidet, was durch die Wurzel ausgedrückt wird**  
     कृ 8U: चेक्रीयते / चर्करीति "er tut immer wieder"  
     भू 1P: बोभूयते / बोभवीति "er ist (wird) oft"  
-     
-*   dass eine Person oder Sache intensiv tut oder erleidet, was durch die Wurzel ausgedrückt wird:  
+
+*   **dass eine Person oder Sache intensiv tut oder erleidet, was durch die Wurzel ausgedrückt wird:**  
     कृ 8U: चेक्रीयते / चर्करीति "er tut intensiv, er tut tüchtig"  
-     
-*   bei Wurzeln, die eine Bewegung ausdrücken, bedeutet das Intensivum die gekrümmte Bewegung:  
-    व्रज् 1P:  वव्रज्यते "er geht in Krümmungen" (NICHT: "er geht oft")  
-     
-*   bei einigen Wurzeln (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:  
+
+*   **bei Wurzeln, die eine Bewegung ausdrücken, bedeutet das Intensivum die gekrümmte Bewegung:**  
+    व्रज् 1P:  वव्रज्यते "er geht in Krümmungen" (NICHT: "er geht oft")  
+
+*   **bei einigen Wurzeln (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:**  
     लुप् 6U: लोलुप्यते "er schneidet schlecht"  
     सद् 1P: सासद्यते "er setzt sich schlecht"
+:::
 
 ::: media
 ![](/images/lekt6104.jpg)
 Abb.: सर्पो वव्रज्यते ॥
+Karnataka = ಕರ್ನಾಟಕ
 (Bildquelle: [Details](/licenses#lekt6104))
 :::
 ::: grammar-box
@@ -459,6 +466,7 @@ Beachten sie die Bedeutung von:
 ::: media
 ![](/images/lekt6105.jpg)
 Abb.: किं तपस्यति न वा ?
+हरिद्वार
 (Bildquelle: [Details](/licenses#lekt6105))
 :::
 ::: media
@@ -483,6 +491,7 @@ Beispiele:
 ::: media
 ![](/images/lekt6109.jpg)
 Abb.: यशस्काम्यन्ति
+मुंबई
 (Bildquelle: [Details](/licenses#lekt6109))
 :::
 ### 61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
@@ -506,6 +515,7 @@ Beispiele:
 ::: media
 ![](/images/lekt6110.jpg)
 Abb.: कस्तत्र न मधुस्यति ?
+Karli
 (Bildquelle: [Details](/licenses#lekt6110))
 :::
 ### 61.4.5. Bildung mit dem Suffix -ya, Ātmanepada
@@ -574,6 +584,7 @@ Beispiele:
 ::: media
 ![](/images/lekt6113.jpg)
 Abb.: भिक्षुर्मुण्डयते ।
+Thailand - เมืองไทย
 (Bildquelle: [Details](/licenses#lekt6113))
 :::
 Eine Liste von Denominative z.B. in:
@@ -581,6 +592,7 @@ Eine Liste von Denominative z.B. in:
 ::: media
 ![](/images/lekt6112.jpg)
 Abb.:
+1845 - 1878 Professor der indisch-orientalischen Philologie an der Universität Kopenhagen
 (Bildquelle: [Details](/licenses#lekt6112))
 :::
 ::: indent
@@ -629,8 +641,8 @@ Paradigma:
 बुध् "erwachen"
 
 ::: grammar-box
-|   | परस्मैपदम् | | | आत्मनेपदम् | | |
-| --- | --- | --- | --- | --- | --- | --- |
+|   | परस्मैपदम् ||| आत्मनेपदम् |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | एकवचनम् | द्विवचनम् | बहुवचनम् | एकवचनम् | द्विवचनम् | बहुवचनम् |
 | **1\. तृतीयः** | बुध्यासम् | बुध्यास्व | बुध्यास्म | बोधिषीय | बोधिषीवहि | बोधिषीमहि |
 | **2\. मध्यमः** | बुध्यास् | बुध्यास्तम् | बुध्यास्त | बोधिषीष्ठास् | बोधिषीयास्थाम् | बोधिषीध्वम् |
@@ -640,6 +652,7 @@ Paradigma:
 ::: media
 ![](/images/lekt6114.jpg)
 Abb.: नववर्षं शुभं भूयात् ॥
+Santa Cruz Basilica, Kochi = കൊച്ചി
 (Bildquelle: [Details](/licenses#lekt6114))
 :::
 ## 61.6. Der Konditionalis (ऌङ्)
@@ -669,8 +682,8 @@ Paradigma:
 भू "sein, werden"
 
 ::: grammar-box
-|   | परस्मैपदम् | | | आत्मनेपदम् | | |
-| --- | --- | --- | --- | --- | --- | --- |
+|   | परस्मैपदम् ||| आत्मनेपदम् |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | एकवचनम् | द्विवचनम् | बहुवचनम् | एकवचनम् | द्विवचनम् | बहुवचनम् |
 | **1\. तृतीयः** | अभविष्यम् | अभविष्याव | अभविष्याम | अभविष्ये | अभविष्यावहि | अभविष्यामहि |
 | **2\. मध्यमः** | अभविष्यस् | अभविष्यतम् | अभविष्यत | अभविष्यथास् | अभविष्येथाम् | अभविष्यध्वम् |
@@ -709,6 +722,7 @@ Kielhorn, Grammatik § 177:
 ::: media
 ![](/images/lekt6117.jpg)
 Abb.: आवां स्वसारौ ॥
+Apatani-Volk, Arunachal Pradesh
 (Bildquelle: [Details](/licenses#lekt6117))
 :::
 ### 61.8.2. Demonstrativpronomen अदस् "jener (entfernte)"
@@ -717,23 +731,23 @@ Maskulinum (पुंस्)
 
 ::: grammar-box
 |   | एकवचनम् | द्विवचनम् | बहुवचनम् |
-| --- | --- | --- | --- |
-| प्रथमा | असौ | अमू | अमी |
-| द्वितीया | अमुम् | अमून् | |
-| तृतीया | अमुना | अमूभ्याम् | अमीभिस् |
-| चतुर्थी | अमुष्मै | अमीभ्यस् | |
-| पञ्चमी | अमुष्मात् | | |
-| षष्ठी | अमुष्य | अमुयोस् | अमीषाम् |
-| सप्तमी | अमुष्मिन् | अमीषु | |
+| :--- | :---: | :---: | :---: |
+| **प्रथमा** | असौ | अमू | अमी |
+| **द्वितीया** | अमुम् | ^^ | अमून् |
+| **तृतीया** | अमुना | अमूभ्याम् | अमीभिस् |
+| **चतुर्थी** | अमुष्मै | ^^ | अमीभ्यस् |
+| **पञ्चमी** | अमुष्मात् | ^^ | ^^ |
+| **षष्ठी** | अमुष्य | अमुयोस् | अमीषाम् |
+| **सप्तमी** | अमुष्मिन् | ^^ | अमीषु |
 :::
 
 Neutrum (नपुंसक)
 
 ::: grammar-box
 |   | एकवचनम् | द्विवचनम् | बहुवचनम् |
-| --- | --- | --- | --- |
-| प्रथमा | अदस् | अमू | अमूनि |
-| द्वितीया | | | |
+| :--- | :---: | :---: | :---: |
+| **प्रथमा** | अदस् | अमू | अमूनि |
+| **द्वितीया** | ^^ | ^^ | ^^ |
 
 Rest wie Maskulinum
 
@@ -743,14 +757,14 @@ Femininum (स्त्री)
 
 ::: grammar-box
 |   | एकवचनम् | द्विवचनम् | बहुवचनम् |
-| --- | --- | --- | --- |
-| प्रथमा | असौ | अमू | अमूस् |
-| द्वितीया | अमूम् | | |
-| तृतीया | अमुना | अमूभ्याम् | अमूभिस् |
-| चतुर्थी | अमुष्यै | अमूभ्यस् | |
-| पञ्चमी | अमुष्यास् | | |
-| षष्ठी | अमुयोस् | अमूषाम् | |
-| सप्तमी | अमुष्याम् | अमूषु | |
+| :--- | :---: | :---: | :---: |
+| **प्रथमा** | असौ | अमू | अमूस् |
+| **द्वितीया** | अमूम् | ^^ | ^^ |
+| **तृतीया** | अमुना | अमूभ्याम् | अमूभिस् |
+| **चतुर्थी** | अमुष्यै | ^^ | अमूभ्यस् |
+| **पञ्चमी** | अमुष्यास् | ^^ | ^^ |
+| **षष्ठी** | ^^ | अमुयोस् | अमूषाम् |
+| **सप्तमी** | अमुष्याम् | ^^ | अमूषु |
 :::
 
 ## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / श्रीगणनाथ
@@ -760,13 +774,14 @@ Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" i
 ::: media
 ![](/images/lekt6101.jpg)
 Abb.: श्रीगणनाथः
+Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.
 (Bildquelle: [Details](/licenses#lekt6101))
 :::
 :::: grammar-box
 ::: no-header
 |   |   |
 | --- | --- |
-| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ[[br]][[br]]*ಲಮ್ಬೋದರ ಲಕುಮೀಕರ ಅಮ್ಬಾಸುತ ಅಮರವಿನುತ ಲಮ್ಬೋದರ ಲಕುಮೀಕರ*[[br]][[br]]ಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ[[br]][[br]]*ಲಮ್ಬೋದರ ಲಕುಮೀಕರ ಅಮ್ಬಾಸುತ ಅಮರವಿನುತ ಲಮ್ಬೋದರ ಲಕುಮೀಕರ*[[br]][[br]]ಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ[[br]][[br]]*ಲಮ್ಬೋದರ ಲಕುಮೀಕರ ಅಮ್ಬಾಸುತ ಅಮರವಿನುತ ಲಮ್ಬೋದರ ಲಕುಮೀಕರ* | श्रीगणनाथ सिन्धुरवर्ण करुणासागर करिवदन[[br]][[br]]*लम्बोदर लकुमीकर अम्बासुत अमरविनुत लम्बोदर लकुमीकर १*[[br]][[br]]सिद्धचारण गणसेवित सिद्धिविनायक ते नमो नमो[[br]][[br]]*लम्बोदर लकुमीकर अम्बासुत अमरविनुत लम्बोदर लकुमीकर*[[br]][[br]]सकलविद्यादिपूजित सर्वोत्तम ते नमो नमो[[br]][[br]]*लम्बोदर लकुमीकर अम्बासुत अमरविनुत लम्बोदर लकुमीकर*[[br]][[br]]१ लकुमीकर ≈ लक्ष्मीकर |
+| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ[[br]][[br]]ಲಮ್ಬೋದರ ಲಕುಮೀಕರ[[br]]ಅಮ್ಬಾಸುತ ಅಮರವಿನುತ[[br]]ಲಮ್ಬೋದರ ಲಕುಮೀಕರ[[br]][[br]]ಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ[[br]][[br]]ಲಮ್ಬೋದರ ಲಕುಮೀಕರ[[br]]ಅಮ್ಬಾಸುತ ಅಮರವಿನುತ[[br]]ಲಮ್ಬೋದರ ಲಕುಮೀಕರ[[br]][[br]]ಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ[[br]][[br]]ಲಮ್ಬೋದರ ಲಕುಮೀಕರ[[br]]ಅಮ್ಬಾಸುತ ಅಮರವಿನುತ[[br]]ಲಮ್ಬೋದರ ಲಕುಮೀಕर | श्रीगणनाथ सिन्धुरवर्ण करुणासागर करिवदन[[br]][[br]]लम्बोदर लकुमीकर[[br]]अम्बासुत अमरविनुत[[br]]लम्बोदर लकुमीकर १[[br]][[br]]सिद्धचारण गणसेवित सिद्धिविनायक ते नमो नमो[[br]][[br]]लम्बोदर लकुमीकर[[br]]अम्बासुत अमरविनुत[[br]]लम्बोदर लकुमीकर[[br]][[br]]सकलविद्यादिपूजित सर्वोत्तम ते नमो नमो[[br]][[br]]लम्बोदर लकुमीकर[[br]]अम्बासुत अमरविनुत[[br]]लम्बोदर लकुमीकर[[br]][[br]]१ लकुमीकर ≈ लक्ष्मीकर |
 :::
 ::::
 
@@ -805,7 +820,6 @@ ENDE DES SANSKRITKURSES
 ---
 
 ::: deleteme-box
-### Quellen
 
 **lekt6102:** [Bildquelle: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Zugriff am 2009-03-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 

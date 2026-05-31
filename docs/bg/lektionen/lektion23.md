@@ -1,72 +1,81 @@
-# Lektion 23
+---
+title: Урок 23
+subtitle: "Безличната форма (तुमुन्)"
+lesson_id: 23
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
-## 23.1. Der Infinitiv (तुमुन्)
+# Урок 23
 
-::: grammar-box
-**Will man in Sanskrit ausdrücken, dass eine Tätigkeit um einer anderen Tätigkeit willen geschieht ("um zu"), kann man für die Tätigkeit, um deren willen es geschieht, den Infinitiv (तुमुन्) verwenden. Der Infinitiv bezeichnet in erster Linie den Zweck oder die Absicht:** &lt;!-- TODO: Fallback translation --&gt;
-
-> रामो गुरुवचनं श्रोतुं गतः = "Rāma ist gegangen, um die Rede des Meisters zu hören." &lt;!-- TODO: Fallback translation --&gt;
-
-**Beachten Sie, dass der Infinitiv - mit einigen fest definierten Ausnahmen - nicht als Subjekt oder Objekt eines Verbs stehen kann:** &lt;!-- TODO: Fallback translation --&gt;
-
-> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: नर्तनमधीते (इ + अधि 2 Ā: "lernen"). &lt;!-- TODO: Fallback translation --&gt;
-
-**Der Infinitiv wird auch verwendet mit Verben und Substantiven in der Bedeutung "wünschen" oder "sich sehnen", wenn der Agens (कर्तृ) des Infinitivs und des Verbs identisch sind:** &lt;!-- TODO: Fallback translation --&gt;
-
-> रामो गुरुवचनं श्रोतुमिच्छति = "Rāma wünscht, die Rede des Meisters zu hören." &lt;!-- TODO: Fallback translation --&gt;
-
-**Der Infinitiv wird u.a. auch verwendet bei Verben in den Bedeutungen "fähig sein", "es gibt", "wissen", "beginnen":** &lt;!-- TODO: Fallback translation --&gt;
-
-> साधुरधर्मं कर्तुं न शक्नोति = "Ein Heiliger kann kein Unrecht tun."   &lt;!-- TODO: Fallback translation --&gt;
-> अस्ति भोक्तुमन्नम् = "Es gibt Speise zu essen" (भुज् 7: Ā: esssen, P: regieren) &lt;!-- TODO: Fallback translation --&gt;
-
-**Der Infinitiv wird auch verwendet mit Wörtern in den Bedeutungen "ausreichend", "fähig" und mit Substantiven in den Bedeutungen "Fähigkeit", "Kraft", "Geschicklichkeit":** &lt;!-- TODO: Fallback translation --&gt;
-
-> अस्त्यग्नेर्विभवः सर्वं दग्धुम् = "Feuer hat die Macht, alles zu verbrennen." &lt;!-- TODO: Fallback translation --&gt;
-
-**Auch mit Wörtern in der Bedeutung "Zeit" kann der Infinitiv verwendet werden in Ausdrücken wie "Es ist Zeit zu ...":** &lt;!-- TODO: Fallback translation --&gt;
-
-> कालो भोजनं सेवितुम् = "Es ist Zeit, sich dem Essen zu widmen" = "Es ist Zeit zu essen" &lt;!-- TODO: Fallback translation --&gt;
-
-**Der Infinitiv kann aktivisch und passivisch verwendet werden. Ein passiver Infinitiv im Deutschen wird im Sanskrit dadurch wiedergegeben, dass das Verb (besonders häufig शक् "fähig sein, können"), von dem der Infinitiv abhängt, ins Passiv gesetzt wird.** &lt;!-- TODO: Fallback translation --&gt;
-
-**Bezüglich des Objekts verhält sich der Infinitiv wie eine Verbalform, d.h. das direkte Objekt (कर्मन्) steht bei aktivisch gebrauchtem Infinitiv im Akkusativ (द्वितीया), bzw. dem Kasus, den das betr. Verb verlangt ; bei passivisch gebrauchtem Infinitiv steht das direkte Objekt im Nominativ.** &lt;!-- TODO: Fallback translation --&gt;
-
-z.B. &lt;!-- TODO: Fallback translation --&gt;
-
-> साधुरधर्मं कर्तुं न शक्नोति = साधुनाधर्मः कर्तुं न शक्यते = "Ein Heiliger kann kein Unrecht tun." &lt;!-- TODO: Fallback translation --&gt;
-
-**In der 2. Person wird अर्ह् + Infinitiv oft als milder Befehl verwendet: "Du solltest".** &lt;!-- TODO: Fallback translation --&gt;
-
-**Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied काम oder मनस् ist:** &lt;!-- TODO: Fallback translation --&gt;
-
-> वक्तुकामः = वक्तुं कामो यस्य सः = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht". &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-## 23.2. Образоване des Infinitiv (तुमुन्)
+## 23.1. Безименният глагол (तुमुन्)
 
 ::: grammar-box
-**hochstufige Wurzel + -tum** &lt;!-- TODO: Fallback translation --&gt;
+**Ако искате да изразите на санскрит, че едно действие се извършва заради друго действие („за да“), можете да използвате безименния глагол (तुमुन्) за действието, заради което се извършва. Безименният глагол първоначално обозначава целта или намерението:**
 
-**oder** &lt;!-- TODO: Fallback translation --&gt;
+> रामो गुरुवचनं श्रोतुं गतः = „Рама отиде, за да чуе речта на учителя.“
 
-**hochstufige Wurzel + -i- + -tum** &lt;!-- TODO: Fallback translation --&gt;
+**Обърнете внимание, че безименният глагол – с някои строго определени изключения – не може да стои като подлог или допълнение на глагол:**
 
-**Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.** &lt;!-- TODO: Fallback translation --&gt;
+> „Той учи да танцува“ не трябва да се превежда с безименен глагол („да танцува“), а трябва да се използва главноименна форма, напр.: नर्तनमधीते (इ + अधि 2 Ā: „учи“).
 
-**Verben mit Präverb bilden den Infinitiv in gleicher Weise wie die einfachen Wurzeln.** &lt;!-- TODO: Fallback translation --&gt;
+**Безименният глагол се използва също с глаголи и съществителни в значението „искам“ или „жадея“, когато агентът (कर्तृ) на безименния глагол и на глагола са идентични:**
+
+> रामो गुरुवचनं श्रोतुमिच्छति = „Рама иска да чуе речта на учителя.“
+
+**Безименният глагол се използва също така с глаголи в значенията „мога“, „има“, „зная“, „започвам“:**
+
+> साधुरधर्मं कर्तुं न शक्नोति = „Светият не може да направи зло.“  
+> अस्ति भोक्तुमन्नम् = „Има храна за ядене“ (भुज् 7: Ā: ядене, P: управлява)
+
+**Безименният глагол се използва също с думи в значенията „достатъчно“, „способен“ и със съществителни в значенията „способност“, „сила“, „умение“:**
+
+> अस्त्यग्नेर्विभवः सर्वं दग्धुम् = „Огънят има силата да изгори всичко.“
+
+**С думи в значението „време“ безименният глагол също може да се използва в изрази като „Време е за ...“:**
+
+> कालो भोजनं सेवितुम् = „Време е да се посветиш на храненето“ = „Време е да ядеш“
+
+**Безименният глагол може да се използва активно и страдателно. Страдателен безименен глагол на немски се предава на санскрит чрез това, че глаголът (особено често शक् „мога, мога“), от който зависи безименният глагол, се поставя в страдателен залог.**
+
+**Относно обекта безименният глагол се държи като глаголна форма, т.е. директният обект (कर्मन्) стои при активно използване на безименния глагол в винителен падеж (द्वितीया), съответно в падежа, който изисква съответният глагол; при страдателно използване на безименния глагол директният обект стои в именителен падеж.**
+
+напр.
+
+> साधुरधर्मं कर्तुं न शक्नोति = साधुनाधर्मः कर्तुं न शक्यते = „Светият не може да направи зло.“
+
+**При второ лице अर्ह् + безименен глагол често се използва като мек заповед: „Трябва да“.**
+
+**Ако безименният глагол зависи от съществително, той не трябва да се свързва с него в съставно име. Изключение правят Бахуврихи, чийто втори член е काम или मनस्:**
+
+> वक्तुकामः = वक्तुं कामो यस्य सः = „онзи, чийто желание е да говори; онзи, който иска да говори“.
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+## 23.2. Образуване на инфинитив (तुमुन्)
+
+::: grammar-box
+**високостепенен корен + -tum**
+
+**или**
+
+**високостепенен корен + -i- + -tum**
+
+**Завършващи съгласни на корена се променят преди -tum по същите правила, както преди -ta на PPP.**
+
+**Глаголи с предлог образуват инфинитив по същия начин, както простите корени.**
+:::
+
+Примери:
 
 ::: indent
 दिश् : देष्टुम्  
 रुद् : रोदितुम्
 :::
 
-Über die Verwendung des Bindevokals -i- lassen sich keine festen Regeln aufstellen. Im Wesentlichen stimmt die Verteilung des Bindevokals beim Infinitiv mit der des Futurs überein. &lt;!-- TODO: Fallback translation --&gt;
+Не могат да се установят твърди правила за употребата на свързващия гласен -i-. По същество разпределението на свързващия гласен при инфинитива съвпада с това при бъдещето.
 
-Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten: &lt;!-- TODO: Fallback translation --&gt;
+Сред досегашните изучени корени следните инфинитиви заслужават особено внимание:
 
 ::: indent
 गम् : गन्तुम्
@@ -74,7 +83,7 @@ Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten: 
 प्रच्छ् : प्रष्टुम्
 :::
 
--ra- als Hochstufe zu -ṛ- haben im Infinitiv: &lt;!-- TODO: Fallback translation --&gt;
+-ra- като висока ступен на -ṛ- имат в инфинитив:
 
 ::: indent
 दृश् : द्रष्टुम्
@@ -82,9 +91,9 @@ Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten: 
 सृज् : स्रष्टुम्
 :::
 
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. &lt;!-- TODO: Fallback translation --&gt;
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
-## 23.3. Der Infinitiv (तुमुन्) zu den bisher gelernten Коренn
+## 23.3. Инфинитивът (तुमुन्) към досегашните изучени корени
 
 अद् 2P अत्तुम्  
 अश् 5Ā अशितुम् । अष्टुम्  
@@ -145,21 +154,21 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 स्तु 2U स्तोतुम्  
 स्था 1P स्थातुम्  
 स्मृ 1P स्मर्तुम्  
-हन् 2P हन्तुम्   &lt;!-- TODO: Fallback translation --&gt;
+हन् 2P हन्तुम्
 
-## 23.4. Речник
+## 23.4. Списък на думите
 
-समान ३: gleich &lt;!-- TODO: Fallback translation --&gt;
+समान ३: равно
 
-सामान्य n.: Gleichheit, Übereinstimmung &lt;!-- TODO: Fallback translation --&gt;
+सामान्य n.: равенство, съвпадение
 
-अधिक ३ : überschüssig, zusätzlich, größer, besser, außerordentlich &lt;!-- TODO: Fallback translation --&gt;
+अधिक ३: излишен, допълнителен, по-голям, по-добър, извънреден
 
-विशेष m.: Besonderheit, Spezifikation, differentia specifica &lt;!-- TODO: Fallback translation --&gt;
+विशेष m.: особеност, спецификация, differentia specifica
 
 ## 23.5. Упражнение
 
-A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu: &lt;!-- TODO: Fallback translation --&gt;
+А) Следните корени образуват инфинитив без свързващ гласен -и-. Образувате инфинитив, като вземете предвид промените в звуците:
 
 1.  आप्
 2.  इ
@@ -167,7 +176,7 @@ A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Inf
 4.  कृ
 5.  क्रुध्
 6.  जि
-7.  duh (दुह्) &lt;!-- TODO: Fallback translation --&gt;
+7.  duh (दुह्)
 8.  दिश्
 9.  दह्
 10.  सृज्
@@ -199,7 +208,7 @@ A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Inf
 36.  पच्
 37.  सद्
 
-B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infinitiv zu: &lt;!-- TODO: Fallback translation --&gt;
+Б) Следните корени образуват инфинитив със свързващ гласен -и-. Образувате инфинитив за:
 
 1.  आस्
 2.  नृत्
@@ -209,15 +218,15 @@ B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infi
 6.  वृत्
 7.  कुप्
 
-C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal: &lt;!-- TODO: Fallback translation --&gt;
+В) Следните корени по избор със или без свързващ гласен:
 
 1.  अश्
 2.  इष्
 3.  बुध्
-4.  मुह् (3 Formen!) &lt;!-- TODO: Fallback translation --&gt;
+4.  मुह् (3 форми!)
 5.  सह्
 
-D) Übersetzen Sie und lösen Sie die Komposita auf: &lt;!-- TODO: Fallback translation --&gt;
+Г) Преведете и разтворете сложните думи:
 
 नराः स्वर्गं लब्धुं देवान्यज्ञैर्यष्टुमिच्छन्ति ॥१॥
 
@@ -227,19 +236,23 @@ D) Übersetzen Sie und lösen Sie die Komposita auf: &lt;!-- TODO: Fallback tran
 
 ::: media
 ![](/images/lekt2303.jpg)
-Abb.: फलवन्ति पुण्यानीति
-(Bildquelle: [Details](/licenses#lekt2303)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: फलवन्ति पुण्यानीति
+ทำบุญ = पुण्यकरणम्, Тайланд = ประเทศไทย
+(Източник на изображението: [Подробности](/bg/licenses#lekt2303))
 :::
+
 
 सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
 
 ::: media
 ![](/images/lekt2301.jpg)
-Abb.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
-(Bildquelle: [Details](/licenses#lekt2301)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
+Чианг Май, Тайланд = เชียงใหม่, ประเทศไทย
+(Източник на изображението: [Подробности](/bg/licenses#lekt2301))
 :::
 
-शूद्रजनो ब्राह्मणेन सह अत्tuम (अत्तुम्) नार्हति ॥५॥ &lt;!-- TODO: Fallback translation --&gt;
+
+शूद्रजनो ब्राह्मणेन सह अत्tuम (अत्तुम्) नार्हति ॥५॥
 
 लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥
 
@@ -247,66 +260,70 @@ Abb.: सुगतो लोकान्मोक्तुमार्यसत�
 
 धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥
 
-C) Übersetzen Sie folgendes सुभाषितम् &lt;!-- TODO: Fallback translation --&gt;
+Г) Преведете следното सुभाषितम्
 
 आहारनिद्राभयमैथुनं च  
 सामान्यमेतत्पशुभिर्नराणाम् ।  
 धर्मे हि तेषामधिको विशेषो  
 धर्मेण हीनाः पशुभिः समानाः ॥
 
-Erklärung: हीन ३: PPP zu हा 3: verlassen ; धर्मे = Lokativ sg. "im ..." &lt;!-- TODO: Fallback translation --&gt;
+Обяснение: हीन ३: PPP към हा 3: напусна ; धर्मे = локалитет ед. ч. "в ..."
 
 ::: media
 ![](/images/lekt2302.jpg)
-Abb.: आहारनिद्राभयमैथुनं च
-(Bildquelle: [Details](/licenses#lekt2302)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: आहारनिद्राभयमैथुनं च
+Читургар = चित्तौडगढ
+(Източник на изображението: [Подробности](/bg/licenses#lekt2302))
 :::
 
-## 23.6. Wiederholungsübung
+## 23.6. Повторителна упражнение
 
-Bitte keine Hilfsmittel benutzen! &lt;!-- TODO: Fallback translation --&gt;
+Моля, не използвайте помощни средства!
 
-A) Übersetzen Sie ins Sanskrit: &lt;!-- TODO: Fallback translation --&gt;
+A) Преведете на санскрит:
 
-1\. Die fünf (पञ्च) "Qualen" sind: Unwissenheit, der falsche Glaube ans Ich, Zuneigung, Abneigung und Anhänglichkeit an den Leib. &lt;!-- TODO: Fallback translation --&gt;
+1\. Петте (पञ्च) „страдания“ са: невежество, погрешното вярване в Аз, привързаност, отвращение и привързаност към тялото.
 
-2\. Wissen gibt es für Gehorsam gegenüber einem Lehrer oder für viel Geld oder im Austausch gegen Wissen. Eine vierte Art von Wissenserwerb gibt es nicht. &lt;!-- TODO: Fallback translation --&gt;
+2\. Познанието се придобива чрез послушание към учител или за много пари или в замяна на познание. Четвърти вид придобиване на познание не съществува.
 
-3\. Ein Niedriger spricht, handelt aber nicht ; ein Guter spricht nicht, sondern handelt nur. &lt;!-- TODO: Fallback translation --&gt;
+3\. Нисшият говори, но не действа; добрият не говори, а само действа.
 
-4\. Die Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Bedeutungslehre, Metrik (छन्दस्) und Kalenderlehre. &lt;!-- TODO: Fallback translation --&gt;
+4\. Помощните науки към Веда са: учение за произношението, ритуалистика, граматика, учение за значенията, метрика (छन्दस्) и учение за календара.
 
-5\. Yoga ist das Stoppen der Tätigkeiten des Denkorgans. &lt;!-- TODO: Fallback translation --&gt;
+5\. Йога е спирането на дейностите на мисловния орган.
 
-6\. Recht siegt, nicht Unrecht ; Wahrheit siegt, nicht Lüge ; Geduld siegt, nicht Zorn ; Gott siegt, nicht ein Gegengott. (Passiv) &lt;!-- TODO: Fallback translation --&gt;
+6\. Правото побеждава, не неправдата; истината побеждава, не лъжата; търпението побеждава, не гнявът; Бог побеждава, не противобожие. (Страдателен залог)
 
-7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik. &lt;!-- TODO: Fallback translation --&gt;
+7\. „Палката“ осигурява придобиване и сигурно притежание на философия, Веда и икономика. Управляването на тази палка е политика.
 
 ::: media
 ![](/images/lekt2304.jpg)
-Abb.: दण्डनीतिः
-(Bildquelle: [Details](/licenses#lekt2304)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: दण्डनीतिः
+Манмохан Сингх = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, премиер-министър на Индия = भारत के प्रधानमन्त्री, от 2004 г.
+(Източник на изображението: [Подробности](/bg/licenses#lekt2304))
 :::
 
-8\. Gattin, Sohn und Sklave, diese drei (त्रयस्) sind gemäß der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören. &lt;!-- TODO: Fallback translation --&gt;
 
-9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden. &lt;!-- TODO: Fallback translation --&gt;
 
-10\. Die spezifische Pflicht eines Brahmanen ist: Studium, Lehren, Opfern als Opferherr, Opfern im Auftrag, Geben und Empfangen ; die eines Kṣatriya ist: Studium, Opfern als Opferherr, Geben, Lebensunterhalt durch Waffen, Hüten der Wesen ; die eines Vaiśya: Studium, Opfern als Opferherr, Geben, Ackerbau, Viehhaltung und Handel ; die eines Śūdra: Gehorsam gegenüber den Zweimalgeborenen, Wirtschaftstätigkeit, Tätigkeit (कर्म) von Handwerkern und Schaustellern. &lt;!-- TODO: Fallback translation --&gt;
+8\. Съпруга, син и роб, тези трима (त्रयस्) са според преданието безпрътенни. Към кого принадлежат тези, това принадлежи на онзи, на когото принадлежат тези (трима).
 
-11\. Abklärung des Bewusstseins geschieht aufgrund der meditativen Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die als Objekt Glück und Leid, Gutes und Böses haben. &lt;!-- TODO: Fallback translation --&gt;
+9\. Комарите желаят рана, владетелите желаят притежание, нисшите желаят спор, добрите желаят мир.
 
-12\. Arme haben viele Söhne, obwohl sie sie nicht wünschen. Reiche haben keinen Sohn. Seltsam ist die Regung des Schicksals. &lt;!-- TODO: Fallback translation --&gt;
+10\. Специфичната длъжност на брахман е: изучаване, преподаване, принасяне на жертва като господар на жертвата, принасяне на жертва по поръчка, даване и получаване; на кшатрия: изучаване, принасяне на жертва като господар на жертвата, даване, издръжка чрез оръжие, пазене на същества; на вайшя: изучаване, принасяне на жертва като господар на жертвата, даване, земеделие, животновъдство и търговия; на шудра: послушание към дваж родените, икономическа дейност, дейност (कर्म) на занаятчии и шоумените.
 
-13\. Wen erschlägt nicht ein Frauenkörper (वपुस् n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten. &lt;!-- TODO: Fallback translation --&gt;
+11\. Изчистването на съзнанието се случва поради медитативното развитие на приятелска доброта, съчувствие, радост и равновесие, които имат за обект щастие и страдание, добро и зло.
 
-B) Deklinieren Sie in allen Ihnen bekannten Kasus क्षत्रिया f. &lt;!-- TODO: Fallback translation --&gt;
+12\. Бедните имат много синове, въпреки че не ги желаят. Богатите нямат син. Странно е движението на съдбата.
 
-C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben: &lt;!-- TODO: Fallback translation --&gt;
+13\. Кого не убива женско тяло (वपुस् ж.р.) с тънка талия, широки ханшове, червени устни, черни очи, изпъкнал пъп, изправени гърди.
+
+B) Склонете във всички ви известни падежи क्षत्रिया ж.р.
+
+C) Посочете основните форми (значение, клас на настоящето време, наклонение, 3. л. ед.ч. на настоящето време на обикновено наклонение, 3. л. ед.ч. страдателен залог, PPP, абсолютиви, инфинитив) на следните глаголи:
 
 १. सह्
 
-२. पा (2x) &lt;!-- TODO: Fallback translation --&gt;
+२. पा (2x)
 
 ३. वच्
 
@@ -314,13 +331,11 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 
 ::: deleteme-box
 
-### Източници
+**lekt2301:** Чианг Май, Тайланд = เชียงใหม่, ประเทศไทย [Източник на изображението: Уикипедия. GNU FDLicense]
 
-**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Bildquelle: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2302:** Читургарх = चित्तौडगढ [Източник на изображението: от zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Достъп на 2008-12-13. -- Creative Commons лиценз (приписване, некомърска употреба, без промени)]
 
-**lekt2302:** Chittorgarh = चित्तौडगढ [Bildquelle: von zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Zugriff am 2008-12-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2303:** ทำบุญ = पुण्यकरणम्, Тайланд = ประเทศไทย [Източник на изображението: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Достъп на 2008-12-13. -- Creative Commons лиценз (приписване, без промени)]
 
-**lekt2303:** ทำบุญ = पुण्यकरणम्, Thailand = ประเทศไทย [Bildquelle: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Zugriff am 2008-12-13. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Prime Minister of India = भारत के प्रधानमन्त्री, seit 2004 [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2304:** Манмохан Сингх = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, министър-председател на Индия = भारत के प्रधानमन्त्री, от 2004 г. [Източник на изображението: Уикипедия, Обществен достояние]
 :::

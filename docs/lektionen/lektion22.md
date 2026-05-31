@@ -1,19 +1,21 @@
 ---
+title: Lektion 22
+subtitle: "Das Absolutivum (क्त्वा । ल्यप्)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 22
 
 ## 22.1. Das Absolutivum (क्त्वा । ल्यप्)
 
-:::: grammar-box
+::: grammar-box
 
 Will man in Sanskrit ausdrücken, dass eine Handlung des Agens (कर्तृ) einer anderen Handlung des Agens vorausgeht oder mit ihr als begleitender Umstand einhergeht, verwendet man das Absolutivum (क्त्वा । ल्यप्). Also
 
-::: indent
 "nachdem er das getan hat, tut er jenes" ; "er tut das, dann tut er jenes" ; "als Folge von diesem tut er jenes" ; "ich kam, sah und siegte" u. ä.
-:::
 
 Das Absolutivum ist ein Verbal-Adverb, d.h. es ist weder konjugierbar noch deklinierbar, es hat aber immer - von wenigen Ausnahmen abgesehen - denselben Agens (कर्तृ) wie die Handlung, der die durch das Absolutiv bezeichnete Handlung vorausgeht bzw. die es begleitet. Der Agens des Absolutiv steht also im Nominativ (प्रथमा)  oder Instrumentalis (तृतीया).
 
@@ -23,11 +25,9 @@ Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man
 
 **Schema:**
 
-::: indent
 (nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv)
-:::
 
-::::
+:::
 
 **Beispiele:**
 
@@ -51,17 +51,15 @@ Plural: **गृहं प्रविश्य बालां दृष्ट�
 
 ### 22.2.1. Verben ohne Präverb: Absolutiv auf -त्वा
 
-:::: grammar-box
+::: grammar-box
 
 **Bildung:**
 
-::: indent
 (meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-त्वा**)
-:::
 
 Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-त्वा** : **अकृत्वा** "ohne getan zu haben"
 
-::::
+:::
 
 **Beispiele:**
 
@@ -83,13 +81,11 @@ Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-त्व�
 
 #### 22.2.2.1. Wurzeln auf langen Vokal (außer -ā) oder auf Konsonant
 
-:::: grammar-box
+::: grammar-box
 
-::: indent
-(meist) tiefstufige Wurzel + **-ya**
+**(meist) tiefstufige Wurzel + -ya**
+
 :::
-
-::::
 
 **Beispiele:**
 
@@ -103,13 +99,11 @@ Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-त्व�
 
 #### 22.2.2.2. Wurzeln auf -ā
 
-:::: grammar-box
+::: grammar-box
 
-::: indent
-unverändert hochstufige Wurzel + **-ya**
+**unverändert hochstufige Wurzel + -ya**
+
 :::
-
-::::
 
 **Beispiel:**
 
@@ -119,13 +113,11 @@ unverändert hochstufige Wurzel + **-ya**
 
 #### 22.2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
 
-:::: grammar-box
+::: grammar-box
 
-::: indent
-tiefstufige Wurzel + **-tya**
+**tiefstufige Wurzel + -tya**
+
 :::
-
-::::
 
 **Beispiele:**
 
@@ -139,21 +131,17 @@ tiefstufige Wurzel + **-tya**
 
 #### 22.2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
 
-:::: grammar-box
+::: grammar-box
 
 **Optionell:**
 
-::: indent
 Wurzel auf **-am** / **-an** + **-ya**
-:::
 
 oder:
 
-::: indent
 Wurzel auf **-a** + **-tya**
-:::
 
-::::
+:::
 
 **Beispiel:**
 
@@ -172,6 +160,7 @@ Wurzel auf **-a** + **-tya**
 ::: media
 ![](/images/lekt2202.jpg)
 Abb.: कामदेवः
+19. Jhdt
 (Bildquelle: [Details](/licenses#lekt2202))
 :::
 
@@ -189,6 +178,7 @@ davon:
 ::: media
 ![](/images/lekt2203.jpg)
 Abb.: दुर्गाशक्तिः
+Kolkatta = কলকাতা
 (Bildquelle: [Details](/licenses#lekt2203))
 :::
 
@@ -218,6 +208,7 @@ davon:
 ::: media
 ![](/images/lekt2201.jpg)
 Abb.: धेनवश्चरन्ति
+Goa = गोंय
 (Bildquelle: [Details](/licenses#lekt2201))
 :::
 
@@ -294,7 +285,7 @@ Abb.: अन्नं पक्त्वा
 :::
 
 ::: deleteme-box
-### Quellen
+
 **lekt2201:** Goa = गोंय [Bildquelle: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 
 **lekt2202:** 19. Jhdt [Bildquelle: Wikipedia, Public domain]

@@ -3,7 +3,10 @@ import re
 import sys
 
 # Supported languages
-LANGUAGES = ["en", "it", "es", "ru", "uk", "bg"]
+LANGUAGES = [
+    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm", "ta",
+    "ar", "arc", "he", "zh", "la", "grc", "el", "fa", "akk", "cop",
+]
 
 # Base directories
 BASE_DIR = "/Volumes/SanDisk1TB/proj/Payer/docs"

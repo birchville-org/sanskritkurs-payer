@@ -1,542 +1,603 @@
-
-
-# Lektion 52
-
-## 52.1. Среден род der Stämme auf -i und -u
-
-Vor vokalisch anlautenden Endungen wird ein -n- eingeschoben, dies ist ein Einfluss der n-Stämme (-in). &lt;!-- TODO: Fallback translation --&gt;
-
-|   | वारि n. | |
-"Wasser" | मधु n.   | | |
-"Honig" | | | | &lt;!-- TODO: Fallback translation --&gt;
-| --- | --- | --- |
-| --- | --- | --- |
-एकवचनम्
-
- |   |   | |
-| प्रथमा, द्वितीया | वारि | मधु |
-| तृतीया | वारिणा | मधुना |
-| चतुर्थी | वारिणे | मधुने |
-| पञ्चमी | वारिणस् | मधुनस् |
-| षष्ठी | वारिणस् | मधुनस् |
-| सप्तमी | वारिणि | मधुनि |
-| आमन्त्रितम् | वारि | |
-वारे | मधु   | | |
-मधो | | | |
-|   |   |   |
-| --- | --- | --- |
-
-बहुवचनम्
-
- |   |   | |
-| प्रथमा, द्वितीया, आमन्त्रितम् | वारीणि | मधूनि |
-| तृतीया | वारिभिस् | मधुभिस् |
-| चतुर्थी | वारिभ्यस् | मधुभ्यस् |
-| पञ्चमी | वारिभ्यस् | मधुभ्यस् |
-| षष्ठी | वारीणाम् | मधूनाम् |
-| सप्तमी | वारिषु | मधुषु |
-
-## 52.2. Nominalbildung
-
-### 52.2.1. PPP + -vant: Partizip der Vergangenheit Parasmaipada
-
-Ein Partizip Parasmaipada der Vergangenheit wird so gebildet: &lt;!-- TODO: Fallback translation --&gt;
-
-PPP + -vant / fem.: vatī &lt;!-- TODO: Fallback translation --&gt;
-
-Deklination wie die Stämme auf -vant bzw. f. देवी &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-कृतवन्त् (kṛta-vant) / कृतवती "einer/eine, der/die getan hat" &lt;!-- TODO: Fallback translation --&gt;
-
-भिन्नवन्त् "einer, der gespalten hat" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-### 52.2.2. तद्धित-Suffix -maya / -mayī
-
-Das तद्धित-Suffix -maya / f.: -mayī bildet zu Substantiven Adjektive der Bedeutung &lt;!-- TODO: Fallback translation --&gt;
-
-*   "gemacht aus" &lt;!-- TODO: Fallback translation --&gt;
-*   "bestehend aus" &lt;!-- TODO: Fallback translation --&gt;
-*   "reich an" &lt;!-- TODO: Fallback translation --&gt;
-
-Vor -maya müssen (wie vor -मात्र) auslautende Verschlusslaute der Pausaform durch den ihnen entsprechenden Nasal ersetzt werden. &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-अन्नमय 3 "reich an Speise" &lt;!-- TODO: Fallback translation --&gt;
-
-चिन्मय 3 (zu चित् f. "Intellekt") "aus Denken / Verstand bestehend" &lt;!-- TODO: Fallback translation --&gt;
-
-वाङ्मय 3 (zu वाच् f. "Sprache") "aus Rede bestehend" &lt;!-- TODO: Fallback translation --&gt;
-
-सोममय 3 "aus Soma gemacht, aus Soma bestehend" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-&lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-z.B. अन्नमय n. "Überfluss an Speise" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-::: media
-![]/images/lekt5202.jpg
-Abb.: अन्नमयम्  
-विवाहः, Chennai = சென்னை  
-\[Bildquelle: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-### 52.2.3. तद्धित-Suffix -eya
-
-Das तद्धित-Suffix -eya / f.: -eyī tritt u.a. an Feminina im Sinne von &lt;!-- TODO: Fallback translation --&gt;
-
-*   "Kind der" &lt;!-- TODO: Fallback translation --&gt;
-
-*   "Nachkomme der" &lt;!-- TODO: Fallback translation --&gt;
-
-Dehnstufe (वृद्धि) des ersten Vokals. &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-z.B. कौन्तेय m. "Sohn der कुन्ती" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-::: media
-![]/images/lekt5203.jpg
-Abb.: भीमः कौन्तेयः  
-Wayang-Figur, Java, Indonesien  
-\[Bildquelle. Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-## 52.3. Adverbialbildung: Adverbialsuffix -śas
-
-Das Adverbialsuffix -śas bildet Adverbien von (hauptsächlich) distributiver Bedeutung aus: &lt;!-- TODO: Fallback translation --&gt;
-
-*   Zahlwörtern   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiele:  
-    एकशस् "einzeln, je einer"  
-    द्विशस् "zu zweien, je zwei"  
-    शतशस् "zu hunderten, je hundert"   &lt;!-- TODO: Fallback translation --&gt;
-
-*   anderen Wörtern   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiele:  
-    भागशस् "Teil für Teil"  
-    सर्वशस् "überall, gar alle"  
-    नित्यशस् "beständig" &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt5204.jpg
-Abb.: अनुक्रमेणैकशः  
-Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം  
-\[Bildquelle: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-## 52.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (अभुततद्भावः)
-
-### 52.4.1. cvi-Образованеen
-
-Vor die Wurzeln <!-- TODO: Fallback translation -->
-
-*   कृ 8U "tun" <!-- TODO: Fallback translation -->
-*   अस् 2P "sein" <!-- TODO: Fallback translation -->
-*   भू 1P "werden" <!-- TODO: Fallback translation -->
-
-können Substantive und Adjektive als Präverbe gesetzt werden werden, um auszudrücken, dass jemand eine Person oder Sache zu dem macht, oder dass eine Person oder Sache zu dem wird, was durch jenes Nomen bezeichnet wird. <!-- TODO: Fallback translation -->
-
-Der Auslaut des Nomens wird folgendermaßen behandelt: <!-- TODO: Fallback translation -->
-
-*   auslautendes -a und -ā deklinierbarer Wörter werden durch -ī ersetzt   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    कृष्णीभवति "etwas, das nicht schwarz ist, wird schwarz"  
-    कृष्णीकरोति "er macht etwas, das nicht schwarz ist, schwarz"  
-    गङ्गीभवति "er/sie wird zum Ganges"   <!-- TODO: Fallback translation -->
-
-*   auslautendes -i und -u werden durch den entsprechenden Langvokal ersetzt   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    शुचीभवति "er/sie/es wird rein"  
-    गुरूभवामि "ich werde Meister"   <!-- TODO: Fallback translation -->
-
-*   auslautendes -ṛ wird durch --rī ersetzt   <!-- TODO: Fallback translation -->
-    z.B. पित्रीभवति "einer, der nicht Vater (पितृ) ist, wird Vater = ein Mann bekommt sein erstes Kind"   <!-- TODO: Fallback translation -->
-
-*   auslautendes -n fällt ab und der vorausgehende Vokal wird nach den eben genannten Regeln behandelt   <!-- TODO: Fallback translation -->
-    z.B. राजीबभूव "einer (der nicht König war) wurde König (राजन्)"   <!-- TODO: Fallback translation -->
-
-*   mehrstämmige andere Nomina stehen in der Form des Основаes, den sie im Локатив (सप्तमी) Множествено число haben. Der Основа unterliegt dann den üblichen Sandhiregeln. Siehe Kielhorn, Grammatik § 489,3.   <!-- TODO: Fallback translation -->
-    z.B. तिर्यक्करोति "er legt seitwärts (तिर्यच्)" <!-- TODO: Fallback translation -->
-
-::: media
-![]/images/lekt5209.jpg
-Abb.: भस्मीकृतं वनम्
-(Bildquelle: [Details](/licenses#lekt5209)) <!-- TODO: Fallback translation -->
-:::
-
-### 52.4.2. Suffix -sāt
-
-Um auszudrücken, dass eine Person oder Sache vollständig zu dem wird, oder dass jemand etwas oder jemand ganz und gar zu dem macht, was durch ein Nomen bezeichnet wird, kann an das Nomen &lt;!-- TODO: Fallback translation --&gt;
-
-das Suffix -sāt (das nie -ṣāt wird) &lt;!-- TODO: Fallback translation --&gt;
-
-angefügt werden und das so gebildete Wort mit den Wurzeln &lt;!-- TODO: Fallback translation --&gt;
-
-*   कृ 8U "tun" &lt;!-- TODO: Fallback translation --&gt;
-*   अस् 2P "sein" &lt;!-- TODO: Fallback translation --&gt;
-*   भू 1P "werden" &lt;!-- TODO: Fallback translation --&gt;
-*   सम्-पद् 4Ā
-
-zu einem Verbalkompositum verbunden werden. &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-अग्निसाद्भवति । अग्निसात्संपद्यते  "er wird vollständig zu Feuer" &lt;!-- TODO: Fallback translation --&gt;
-
-भस्मसात्करोति "er verwandelt ganz und gar in Asche (भस्मन् n. "Asche")) &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-&lt;!-- TODO: Fallback translation --&gt;
-
-*   Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache &lt;!-- TODO: Fallback translation --&gt;
-*   von dem abhängig wird oder &lt;!-- TODO: Fallback translation --&gt;
-*   in den Besitz dessen übergeht &lt;!-- TODO: Fallback translation --&gt;
-
-oder dass jemand von dem abhängig macht &lt;!-- TODO: Fallback translation --&gt;
-
-das vom Nomen bezeichnet wird &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-राजसाद्भवति "er wird vom König abhängig, er wird Eigentum des Königs" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-भस्मसात्कृत्वा
-:::
-
-## 52.5. Wortwiederholungen (द्विरुक्तम्)
-
-Wortwiederholung drückt im Sanskrit aus: &lt;!-- TODO: Fallback translation --&gt;
-
-*   Wiederholung der Handlung   &lt;!-- TODO: Fallback translation --&gt;
-    z.B. पुनः पुनः "immer wieder"   &lt;!-- TODO: Fallback translation --&gt;
-
-*   Distribution   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiele:  
-    पृथक्पृथक् "je gesondert, je einzeln"  
-    यद्यद् ... तत्तद् "was auch immer ... das alles"  
-    युगे युगे "in jedem einzelnen Weltzeitalter" &lt;!-- TODO: Fallback translation --&gt;
-
-Gelegentlich kann aus solchen Verbindungen ein Kompositum gebildet werden &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-एकैक 3 "jeder einzelne"   &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Zu den sog. आम्रेडित-Komposita, in denen flektierte Wörter wiederholt werden, das zweite aber in vorklassischer Zeit einen Akzent bekam, also ein Kompositum vorliegt, siehe Wackernagel, Altindische Grammatik II,1 S. 142ff. &lt;!-- TODO: Fallback translation --&gt;
-
-## 52.6. Das Zahlwort (सम्ख्या f.)
-
-Hier nicht behandeltes siehe z.B. bei Kielhorn, Grammatik §201f. &lt;!-- TODO: Fallback translation --&gt;
-
-### 52.6.1. Kardinalzahlen
-
-#### 52.6.1.1. Zahladjektive (für 1 bis 19) &lt;!-- TODO: Fallback translation --&gt;
-
-Die Zahlwörter für 1 bis 19 sind Adjektive. &lt;!-- TODO: Fallback translation --&gt;
-
-Die Zahlwörter für 1 bis 4 sind für die drei Geschlechter in der Deklination unterschioedlich. &lt;!-- TODO: Fallback translation --&gt;
-
-Für die Zahlwörter für 5 bis 19 (नवदशन्) gibt es nur eine einzige Deklination für die drei Geschlechter. &lt;!-- TODO: Fallback translation --&gt;
-
-Für diese Zahladjektive gilt wie für alle Adjektive: es muss in gleichen Fall, Zahl und Geschlecht stehen wie das zugehörige Nomen und umgekehrt (d.h. für 1 Singular, für 2 Dual, für die übrigen Plural).  &lt;!-- TODO: Fallback translation --&gt;
-
-Zahladjektive: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-1 एक 3 (Deklination wie सर्व, im Plural: "einige")   &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-2 द्वि 3  
-
-3 त्रि 3  
-
-4 चतुर् 3  
-
-Die Zahlwörter für 19 (एकोनविंशति "eins weniger als 20") bis 99 sind feminine Substantive und werden wie मति f.  bzw. Wurzelnomina auf -t (z.B. त्रिंशत् f.) dekliniert. &lt;!-- TODO: Fallback translation --&gt;
-
-5 पञ्चन् 3  
-
-::: indent
-20 विंशति f.   &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-Die Zahlwörter für Zahlen ab 100 sind neutrale Substantive. Sie werden wie फलम् dekliniert. &lt;!-- TODO: Fallback translation --&gt;
-
-6 षष् 3  
-
-::: indent
-100 शत n.   &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-7 सप्तन् 3  
-
-8 अष्टन् 3  
-
-9 नवन् 3  
-
-*   10 दशन् 3
-    z.B. तिसृभिर्नारीभिः "durch drei Frauen"   &lt;!-- TODO: Fallback translation --&gt;
-
-*   Die Deklination folgt an gegebener Stelle in den Wortlisten. &lt;!-- TODO: Fallback translation --&gt;
-    *   sie regieren den Генетив (षष्ठी) des Gezählten   &lt;!-- TODO: Fallback translation --&gt;
-        z.B. विंशत्या नारीणाम् "durch 20 Frauen"   &lt;!-- TODO: Fallback translation --&gt;
-
-    *   Die weiteren Zahladverbien bis 19 siehe z.B. bei Kielhorn, Grammatik §201. &lt;!-- TODO: Fallback translation --&gt;
-        z.B. विंशत्या नारीभिः "durch 20 Frauen"   &lt;!-- TODO: Fallback translation --&gt;
-    *   sie stehen als Hinterglied eines तत्पुरुष mit dem Gezählten als Vorderglied   &lt;!-- TODO: Fallback translation --&gt;
-        z.B. गोविंशत्या "durch 20 Kühe"   &lt;!-- TODO: Fallback translation --&gt;
-
-### 52.6.2. Ordinalzahlen
-
-Siehe z.B. bei Kielhorn, Grammatik §201f. &lt;!-- TODO: Fallback translation --&gt;
-
-### 52.6.3. Zahladverbien
-
-a) "-mal": &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-fünfmal usw. wird mit dem Suffix \-कृत्वस् gebildet: पञ्चकृत्वस् &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-b) "-fach": wird mit dem Suffix \-धा ausgedrückt &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-zweifach: द्विधा । द्वेधा   &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-c) "je ...", "zu ...": wird mit dem Suffix \-शस् ausgedrückt (siehe oben!) &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-द्विशस् "zu zweien, je zwei" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-### 52.6.4. Zahladjektive
-
-"-fältig": &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-zweifältig, aus zweien bestehend   &lt;!-- TODO: Fallback translation --&gt;
-
-ab 4 wird "-fältig" durch das Suffix \-तय (f.: -तयी) ausgedrückt: चतुष्टय m.n. चतुष्टयी f. "vierfältig" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-dreifältig, aus drei Teilen bestehend &lt;!-- TODO: Fallback translation --&gt;
-
-### 52.6.5. Komposita mit Kardinalzahlen im Vorderglied
-
-बहुव्रीहि dieser Art werden ganz regelmäßig gebildet. &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-चतुर्मुख m. "einer, der vier Gesichter hat" = चत्वारि मुखानि यस्य सः (ein Beiname Brahmās) &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-::: media
-![]/images/lekt5205.jpg
-Abb.: चतुर्मुखः  
-\[Bildquelle: Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-तत्पुरुष mit einer Kardinalzahl im Vorderglied dürfen nicht beliebig gebildet werden: &lt;!-- TODO: Fallback translation --&gt;
-
-Regel 1: Wörter, die eine Himmelsrichtung bezeichnen (wie पूर्व 3 "östlich", उत्तर 3 "nördlich"), und Wörter für Kardinalzahlen dürfen mit anderen Wörtern nur dann ein कर्मधारय-Kompositum bilden, wenn das Kompositum als Eigenname gebraucht wird. &lt;!-- TODO: Fallback translation --&gt;
-
-Daher darf z.B. aus उत्तरा वृक्षाः "nördliche Bäume" oder पञ्च ब्राह्मणः kein Tatpuruṣa gebildet werden. Aus सप्तन् und ऋषि kann aber der Tatpuruṣa सप्तर्षि m. "die sieben Ṛṣis" gebildet werden, wenn dies als Name für das Sternbild des Großen Bären (Ursa maior) steht. &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt5206.jpg
-Abb.: सप्तर्षयः  
-Das Siebengestirn = die sieben hellsten Sterne des Großen Bären (Ursa maior)  
-\[Bildquelle: Wikipedia, GNU FDLicense\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-Regel 2: Abweichend von Regel 1 kann ein Wort, das eine Himmelrichtung oder eine Kardinalzahl bezeichnet mit einem anderen Nomen ein Tatpuruṣa bilden, wenn &lt;!-- TODO: Fallback translation --&gt;
-
-1.  dem so gebildeten Kompositum ein Taddhita-Suffix angefügt wird   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiele:  
-    pūrva + śālā ("Halle) » \*pūrvaśālā (darf so nicht gebraucht werden!) + Taddhita -a » पौर्वशाल 3 "in der östlichen Halle befindlich"  
-    ṣaṣ + mātṛ » \*ṣaṇmātṛ (nicht zulässig!) + Taddhita -a » षण्मातुर m. "das Kind von sechs Müttern" (=  कार्त्तिकेय)   &lt;!-- TODO: Fallback translation --&gt;
-
-2.  das so gebildete Kompositum in einer Bedeutung gebraucht wird, die sonst durch ein Taddhita-Suffix bezeichnet wird (bei dieser Art ist der Übergang zum Bahuvrīhi fließend):   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiele:  
-    dvi + go » द्विगु : nicht: "zwei Kühe", sondern: "für zwei Kühe erhandelt"  
-    द्विवर्ष nicht: "zwei Jahre", sondern: "zwei Jahre alt"   &lt;!-- TODO: Fallback translation --&gt;
-
-3.  das so gebildete Kompositum das Vorderglied eines anderen Kompositums bildet   &lt;!-- TODO: Fallback translation --&gt;
-    Beispiel:  
-    pañca + go » pañcagava (als Einzelwort unzulässig!) + dhana » पञ्चगवधन m. "Einer, dessen Reichtum fünf Kühe sind" &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt5207.jpg
-Abb.: षण्मातुरः कार्त्तिकेय:  
-Jalakandapuram = ஜலகண்டபுரம்  
-\[Bildquelle: Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-Eine Bezeichnung für eine Kardinalzahl (aber nicht für eine Himmelsrichtung) kann als Vorderglied mit einem anderen Nomen auch dann ein Tatpuruṣa bilden, wenn das so gebildete Kompositum das Aggregat mehrerer Dinge bezeichnet, d.h. zwei oder mehrere Dinge zu einer Einheit zusammenfasst. &lt;!-- TODO: Fallback translation --&gt;
-
-Tatpuruṣa, die nach dieser Regel gebildet werden heißen Dvigu (द्विगु). &lt;!-- TODO: Fallback translation --&gt;
-
-Dvigu-Komposita, die eine Einheit bezeichnen, sind gewöhnlich Neutra. Endet das zweite Glied auf -a, so kann das Femininsuffix -ī antreten. Endet das zweite Glied auf fem. -ā, so tritt an dessen Stelle entweder Neutrum -a oder Feminin -ī. Endet das zweite Glied auf -an, so wird dafür -a oder -ī substituiert. &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-त्रि + भुवनव् » त्रिभुवन n. "das Aggregat der drei Welten, die drei Welten als Einheit, die Dreiwelt (Himmel-Erde-Unterwelt) &lt;!-- TODO: Fallback translation --&gt;
-
-त्रिलोक n. । त्रिलोकी n. "Dreiwelt" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-&lt;!-- TODO: Fallback translation --&gt;
-
-Dvigu-Komposita, denen kein Taddhitasuffix angefügt ist, die aber die Bedeutung haben, die durch ein Taddhita-Suffix bezeichnet wird, richten wie Bahuvrīhis ihr Geschlecht nach dem Nomen, welches sie näher bestimmen (es sind in Wirklichkeit wohl Bahuvrīhi) &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-पञ्चगु 3: "für fünf Kühe erhandelt" &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-## 52.7. Речник
-
-अखिल 3: lückenlos, ganz &lt;!-- TODO: Fallback translation --&gt;
-
-निखिल 3: vollständig, ganz &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-von: &lt;!-- TODO: Fallback translation --&gt;
-
-खिल m.: Brachfeld, Ödland &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-::: media
-![]/images/lekt5210.jpg
-Abb.: खिलः  
-Tambhol, Akole, Ahmednagar = अहमदनगर  
-\[Bildquelle: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-अन्तर् Adv.: innen, im Innern ; Postposition mit Gen. Lok. (षष्टी, सप्तमी): innerhalb, inmitten ; Postposition mit Gen. Abl. (षष्ठी, पञ्चमी): aus ... heraus &lt;!-- TODO: Fallback translation --&gt;
-
-अन्योन्य 3: gegenseitig, einander &lt;!-- TODO: Fallback translation --&gt;
-
-इ + वि + परि 2P विपर्येति : fehlschlagen &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-PPP विपरीत 3: verkehrt, falsch &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-त्रि 3: drei &lt;!-- TODO: Fallback translation --&gt;
+---
+title: Урок 52
+subtitle: "Среден род на основите на -i и -u"
+lesson_id: 52
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
+
+# Урок 52
+
+## 52.1. Среден род на основите на -i и -u
 
 ::: grammar-box
-|   | | |
-| --- | | |
-| Мъжки род | | |
-| पुंस् | Среден род | | |
-| नपुंसकम् | Женски род | | |
-| स्त्री | | | |
-| त्रयस् | त्रीणि | तिस्रस् |
-| 1\. Номинатив | | |
-| १. प्रथमा | | | |
-| 2\. Акузатив | | |
-| २. द्वितीया | त्रीन् | त्रीणि | तिस्रस् |
-| 3\. Инструменталис | | |
-| ३. तृतीया | त्रिभिस् | तिसृभिस् | |
-| 4\. Датив | | |
-| ४. चतुर्थी | त्रिभ्यस् | तिसृभ्यस् | |
-| 5\. Аблатив | | |
-| ५. पञ्चमी | त्रिभ्यस् | तिसृभ्यस् | |
-| 6\. Генетив | | |
-| ६. षष्ठी | त्रयाणाम् | तिसृणाम् | |
-| 7\. Локатив | | |
-| ७. सप्तमी | त्रिषु | तिसृषु | |
+**Пред гласоначални окончания се вмъква -n-, което е влияние на n-основите (-in).**
 :::
 
-निस् Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+| | **वारि ср.р.[[br]]"вода"** | **मधु ср.р.[[br]]"мед"** |
+| :--- | :---: | :---: |
+| **एकवचनम्** |||
+| **प्रथमा, द्वितीया** | वारि | मधु |
+| **तृतीया** | वारिणा | मधुना |
+| **चतुर्थी** | वारिणे | मधुने |
+| **पञ्चमी** | वारिणस् | मधुनस् |
+| **षष्ठी** | वारिणस् | मधुनस् |
+| **सप्तमी** | वारिणि | मधुनि |
+| **आमन्त्रितम्** | वारि[[br]]वारे | मधु[[br]]मधो |
+| **बहुवचनम्** |||
+| **प्रथमा, द्वितीया, आमन्त्रितम्** | वारीणि | मधूनि |
+| **तृतीया** | वारिभिस् | मधुभिस् |
+| **चतुर्थी** | वारिभ्यस् | मधुभ्यस् |
+| **पञ्चमी** | वारिभ्यस् | मधुभ्यस् |
+| **षष्ठी** | वारीणाम् | मधूनाम् |
+| **सप्तमी** | वारिषु | मधुषु |
+:::
 
-पीड् 10P पीडयति : drücken, quälen ; bedrängen, belagern, plagen &lt;!-- TODO: Fallback translation --&gt;
+## 52.2. Образуване на съществителни имена
+
+### 52.2.1. PPP + -vant: Минало причастие на Парасайпада
+
+::: grammar-box
+**Миналото причастие на Парасайпада се образува така:**
+
+**PPP + -vant / женски род: vatī**
+**Склонение като основите на -vant съответно ж.р. देवी**
+:::
+
+PPP + -vant / женски род: vatī
+
+Склонение като основите на -vant съответно ж.р. देवी
+
+Примери:
+
+::: indent
+कृतवन्त् (kṛta-vant) / कृतवती „един/една, който/която е направил/а“
+
+भिन्नवन्त् „един, който е разцепил“
+:::
+
+### 52.2.2. तद्धित-суфикс -maya / -mayī
+
+::: grammar-box
+**Суфиксът तद्धित -maya / ж.р.: -mayī образува от съществителни прилагателни със значение**
+
+*   **"направен от"**
+*   **"състоящ се от"**
+*   **"богат на"**
+
+**Преди -maya (както преди -मात्र) изходните придъхателни на формата на паузата трябва да бъдат заменени с съответния им назален.**
+:::
+
+Примери:
+
+::: indent
+अन्नमय 3 "богат на храна"
+
+चिन्मय 3 (към चित् ж.р. "Интелект") "състоящ се от мисъл / разум"
+
+वाङ्मय 3 (към वाच् ж.р. "Език") "състоящ се от реч"
+
+सोममय 3 "направен от Сома, състоящ се от Сома"
+:::
+
+::: grammar-box
+**Съществителни на -maya понякога се употребяват като неутрални съществителни и тогава означават изобилие на това, което се означава от съществителното, към което е добавено -maya.**
+:::
+
+::: indent
+напр. अन्नमय ср.р. "изобилие на храна"
+:::
 
 ::: media
-![]/images/lekt5212.jpg
-Abb.: पीडिताः  
-Hyderabad = హైదరాబాద్  
-\[Bildquelle: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-पर 3: (Deklination wie सर्व) fernstehend, fremd, höher als (पञ्चम्या), äußerster, höchster ; anderer, fremder, feindlich ; m.: Fremder &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-| 7\. Lokativ   | | | &lt;!-- TODO: Fallback translation --&gt;
-
-परम् Adv.: in hohem Grade, darauf, später, aber, jedoch &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5202.jpg)
+Ил.: अन्नमयम्
+विवाहः, Ченнай = சென்னை
+(Източник на изображението: [Подробности](/bg/licenses#lekt5202))
 :::
 
-प्रति Postposition (द्वितीयया): zu - hin, nach, in Bezug auf, gegenüber &lt;!-- TODO: Fallback translation --&gt;
+### 52.2.3. तद्धित-суфикс -eya
 
-प्रधान 3: hauptsächlicher, bester ; n.: Wichtigstes &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Суфиксът तद्धित -eya / ж.р.: -eyī се среща, между другото, при женски род в смисъл на**
+
+*   **"Дъщеря на"**
+*   **"Потомък на"**
+
+**удължена степен (वृद्धि) на първата гласна.**
+
+напр. कौन्तेय м.р. "Син на कुन्ती"
+:::
 
 ::: media
-![]/images/lekt5213.jpg
-Abb.: प्रधानः  
-मुंबई  
-\[Bildquelle: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5203.jpg)
+Ил.: भीमः कौन्तेयः
+Фигура на Ваянг, Ява, Индонезия
+(Източник на изображението: [Подробности](/bg/licenses#lekt5203))
 :::
-लौल्य n.: Gier, Lüsternheit &lt;!-- TODO: Fallback translation --&gt;
 
-वर्ग m.: Abschnitt, Abteilung, Schar &lt;!-- TODO: Fallback translation --&gt;
+## 52.3. Образуване на наречия: наречен суфикс -śas
+
+::: grammar-box
+**Наречният суфикс -śas образува наречия с (предимно) дистрибутивно значение:**
+
+*   **Числителни имена**  
+    Примери:  
+    एकशस् "един по един, по един"  
+    द्विशस् "по двама, по два"  
+    शतशस् "по стотици, по сто"
+
+*   **Други думи**  
+    Примери:  
+    भागशस् "парче по парче"  
+    सर्वशस् "навсякъде, напълно всички"  
+    नित्यशस् "постоянно"
+:::
+::: media
+![](/images/lekt5204.jpg)
+Ил.: अनुक्रमेणैकशः
+Ред за вход преди храм, Тируванапур = Thiruvananthapuram = തിരുവനന്തപുരം
+(Източник на изображението: [Подробности](/bg/licenses#lekt5204))
+:::
+
+## 52.4. Глаголни съставни, които изразяват, че нещо става или се прави нещо, което преди това не е било (अभुततद्भावः)
+
+### 52.4.1. образуване на cvi-
+
+::: grammar-box
+**Преди корените**
+
+*   **कृ 8U "да направя"**
+*   **अस् 2P "да бъда"**
+*   **भू 1P "да станя"**
+
+**съществителни и прилагателни могат да се поставят като префикси, за да изразят, че някой или нещо става това, което е обозначено от съответното съществително, или че някой или нещо става това, което се обозначава от това съществително.**
+
+**Окончанието на съществителното се обработва по следния начин:**
+
+Окончанието на съществителното се обработва по следния начин:
+
+*   **окончанията -a и -ā на променливите думи се заменят с -ī**
+    Примери:  
+    कृष्णीभवति "нещо, което не е черно, става черно"  
+    कृष्णीकरोति "той/тя прави нещо, което не е черно, черно"  
+    गङ्गीभवति "той/тя става Ганг"  
+
+*   **окончанията -i и -u се заменят с съответния дълъг гласен звук**
+    Примери:  
+    शुचीभवति "той/тя става чист"  
+    गुरूभवामि "аз ставам господар"  
+
+*   **окончанието -ṛ се заменя с -rī**
+    напр. पित्रीभवति "онзи, който не е баща (पितृ), става баща = мъж получава първото си дете"  
+
+*   **окончанието -n отпада, а предходният гласен звук се обработва според горепосочените правила**
+    напр. राजीबभूव "онзи, (който не беше крал), става крал (राजन्)"  
+
+*   **други многоосновни съществителни стоят в формата на корена, който имат в локал (सप्तमी) множествено число. Коренът подпада на обичайните правила за сандхи. Вж. Kielhorn, Граматика § 489,3.**
+    напр. तिर्यक्करोति "той поставя отстрани (तिर्यच्)"
+:::
+::: media
+![](/images/lekt5209.jpg)
+Ил.: भस्मीकृतं वनम्
+Изгаряне на земята, Аруначал Прадеш = अरुणाचल प्रदेश
+(Източник на изображението: [Подробности](/bg/licenses#lekt5209))
+:::
+
+### 52.4.2. Суфикс -sāt
+
+::: grammar-box
+**За да изрази, че лице или нещо напълно става това, или че някой прави нещо или някого напълно това, което се обозначава от съществително, може към съществителното**
+
+**да се добави суфиксът -sāt (който никога не става -ṣāt)**
+
+**и така образуваната дума да се свърже с корените**
+
+*   कृ 8U "да направя"
+*   अस् 2P "да бъда"
+*   भू 1P "да станя"
+*   सम्-पद् 4Ā
+
+**в глаголно съставно име.**
+:::
+
+Примери:
 
 ::: indent
-त्रिवर्ग m.: Dreiergruppe (z.B. धर्मः, अर्थः, कामः ; oder: सत्त्वम्, रजस्, तमस् ; oder: ब्राह्मणाः, क्षत्रियाः, वैश्याः) &lt;!-- TODO: Fallback translation --&gt;
+अग्निसाद्भवति । अग्निसात्संपद्यते  "той напълно става огън"
+
+भस्मसात्करोति "той превръща напълно в пепел (भस्मन् n. "пепел")"
 :::
 
-वश् 2P वस्टि, उशन्ति, Imperat. 2.sg.: उड्ढि : wollen, gebieten, verlangen nach &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+**Понякога наставката -sāt означава, че дадено лице или нещо**
+
+
+*   **който става зависим от или**
+*   **преминава във владение на това**
+*   **или че някой прави зависим от това**
+
+**което се обозначава от съществителното**
+:::
+
+Пример:
 
 ::: indent
-Perf Va उवाश, ऊशुर्   &lt;!-- TODO: Fallback translation --&gt;
+राजसाद्भवति "той става зависим от царя, той става собственост на царя"
 :::
 
-वा 2P वाति : wehen, blasen &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+**След образуванията с -sāt корените не се третират като след префикси, т.е. абсолютив:**
 
 ::: indent
-PPP वान । वात   &lt;!-- TODO: Fallback translation --&gt;
-
-davon: &lt;!-- TODO: Fallback translation --&gt;
-
-वात m.: Wind &lt;!-- TODO: Fallback translation --&gt;
+भस्मसात्कृ***त्वा***
 :::
+::::
 
-वृज् 7P वृणक्ति 1P वर्जति : wenden, drehen ; abwehren, ausschließen &lt;!-- TODO: Fallback translation --&gt;
+## 52.5. Повторения на думи (द्विरुक्तम्)
+
+:::: grammar-box
+**Повторението на думи изразява на санскрит:**
+
+*   **Повторение на действието**  
+    напр. पुनः पुनः "винаги отново"
+*   **Дистрибуция**  
+    Примери:  
+    पृथक्पृथक् "всеки поотделно, всеки един"  
+    यद्यद् ... तत्तद् "каквото и да е ... всичко това"  
+    युगे युगे "в всяко отделно световно епоха"
+
+**Понякога от такива съчетания може да се образува съставна дума**
+
+Примери:
 
 ::: indent
-Perf. II ववर्ज, ववृजुर्   &lt;!-- TODO: Fallback translation --&gt;
+एकैक 3 "всеки един"
+अल्पाल्प 3 "много малък"
+नवनव 3 "винаги нов"
 :::
 
-व्यवहार m.: Treiben, Wandel, Umgang, Verkehr, Geschäft, Handel, (Gerichts-)Prozess &lt;!-- TODO: Fallback translation --&gt;
+Относно т.нар. आम्रेडित-съставни думи, в които флектирани думи се повтарят, но втората получава акцент в предкласическия период, т.е. има съставна дума, виж Wackernagel, Altindische Grammatik II,1 стр. 142 сл.
+::::
 
-शील n.: Brauch, Gewohnheit, Natur, Charakter, gute Gewohnheit = Moral &lt;!-- TODO: Fallback translation --&gt;
+## 52.6. Числителното прилагателно (सम्ख्या ж.р.)
 
-सूर्य m.: Sonne &lt;!-- TODO: Fallback translation --&gt;
+За тук необхванати случаи вижте напр. при Kielhorn, Граматика §201 сл.
 
-सेव् 1Ā सेवते : jemandem (द्वितीया) dienen, aufwarten, ehren, lieben &lt;!-- TODO: Fallback translation --&gt;
+### 52.6.1. Основни бройни имена
+
+#### 52.6.1.1. Бройни прилагателни (за 1 до 19)
+
+::: grammar-box
+**Бройните думи за *1 до 19* са прилагателни.**
+**Бройните думи за ***1 до 4*** имат различно склонение за трите рода.**
+
+**За бройните думи за ***5 до 19*** ***(नवदशन्)*** съществува само едно общо склонение за трите рода.**
+
+**За тези бройни прилагателни важи същото правило, както за всички прилагателни: те трябва да съвпадат по падеж, число и род със съответното съществително и обратно (т.е. за 1 – единствено число, за 2 – двойствено число, за останалите – множествено число).**
+:::
+Бройни прилагателни:
 
 ::: indent
-Perf I सिषेवे   &lt;!-- TODO: Fallback translation --&gt;
-
-&lt;!-- TODO: Fallback translation --&gt;
-
-सेवा f.: Dienst, Aufwartung &lt;!-- TODO: Fallback translation --&gt;
+1 एक 3 (Склонение като सर्व, във множествено число: "някои")
+2 द्वि 3
+3 त्रि 3
+4 चतुर् 3
+5 पञ्चन् 3
+6 षष् 3
+7 सप्तन् 3
+8 अष्टन् 3
+9 नवन् 3
+10 दशन् 3
 :::
 
-धीर 3: fest, standhaft, kontinuierlich, beharrlich &lt;!-- TODO: Fallback translation --&gt;
+Склонението се намира на посоченото място в списъците с думи.
+
+За останалите бройни наречия до 19 вижте напр. при Килхорн, Граматика §201.
+
+#### 52.6.1.2. Бройни съществителни (за 19 нагоре)
+
+:::: grammar-box
+**Бройните думи за числа ***19 (एकोनविंशति* "едно по-малко от 20") *до 99* са женски род съществителни и се склоняват като मति ж. род, съответно като коренови съществителни на -t (напр. त्रिंशत् ж. род).**
+
+Примери:
+
+::: indent
+20 विंशति ж.[[br]]
+30 त्रिंशत् ж.
+:::
+
+**Бройните думи за числа ***от 100 нагоре*** са среден род съществителни. Те се склоняват като फलम्.**
+
+Примери:
+
+::: indent
+100 शत ср.[[br]]
+1000 सहस्र ср.
+:::
+
+За отделните бройни съществителни вижте напр. при Килхорн, Граматика §201.
+::::
+#### 52.6.1.3. Синтактични бележки относно основните бройни имена
+
+::: grammar-box
+**От разликата между глаголни прилагателни и глаголни съществителни за основни бройни имена следва следното синтактично правило:**
+*   прилагателните бройни думи могат да бъдат свързани със съществителното, което се брои, само като прилагателни  
+    напр. तिसृभिर्नारीभिः "чрез три жени"  
+*   съществителните бройни думи могат да бъдат свързани със съществителното, което се брои, по три начина:
+    *   те управляват родитель падеж (षष्ठी) на броятото  
+        напр. विंशत्या नारीणाम् "чрез 20 жени"  
+    *   те стоят като приложение в същия падеж (но в единствено число) като броятото  
+        напр. विंशत्या नारीभिः "чрез 20 жени" 
+    *   те стоят като втора част на तत्पुरुष, като броятото е първата част  
+        напр. गोविंशत्या "чрез 20 крави" 
+
+:::
+
+### 52.6.2. Редни числа
+
+Вж. напр. при Kielhorn, Граматика §201 сл.
+
+### 52.6.3. Числителни наречия
+
+a) "-пъти":
+
+::: indent
+един път: सकृत्
+два пъти: द्विस्
+три пъти: त्रिस्
+четири пъти: चतुस्
+пет пъти и т.н. се образува с афикса ***\-कृत्वस्***: पञ्चकृत्वस्
+:::
+
+b) "-кратно": се изразява с афикса ***\-धा***
+
+::: indent
+еднократно: एकधा
+двукратно: द्विधा । द्वेधा
+и т.н.
+:::
+
+c) "по ...", "по два/три ...": се изразява с афикса ***\-शस्*** (вж. по-горе!)
+
+::: indent
+द्विशस् "по двама, по два"
+:::
+
+### 52.6.4. Числителни прилагателни
+
+"-fältig":
+
+::: indent
+двукратен, състоящ се от две
+третократен, състоящ се от три части
+
+От 4 нататък "-fältig" се изразява чрез суфикса ***\-तय (ж.: -तयी)***: चतुष्टय м.р.н. चतुष्टयी ж.р. "четворен"
+:::
+
+За други образувания се консултирайте със словари или граматика.
+
+### 52.6.5. Съставни думи с числителни в предната част
+
+::: grammar-box
+**बहुव्रीहि се образуват напълно редовно.**
+:::
+
+Пример:
+
+::: indent
+चतुर्मुख м. "един, който има четири лица" = चत्वारि मुखानि यस्य सः (един от епитетите на Брахма)
+:::
+
+::: media
+![](/images/lekt5205.jpg)
+Ил.: चतुर्मुखः
+(Източник на изображението: [Подробности](/bg/licenses#lekt5205))
+:::
+::: grammar-box
+**तत्पुरुष с числително в предната част не могат да се образуват произволно:**
+
+**Правило 1: Думи, които означават посока на света (като पूर्व 3 "източен", उत्तर 3 "северен"), и думи за числителни могат да образуват कर्मधारय-съставна дума с други думи само ако съставната дума се използва като име.**
+:::
+
+Затова например не може да се образува Татпуръша от उत्तरा वृक्षाः "северни дървета" или पञ्च ब्राह्मणः. От सप्तन् и ऋषि обаче може да се образува Татпуръша सप्तर्षि м. "семеро риши", ако това стои като име за съзвездието Голям меч (Ursa maior).
+::: media
+![](/images/lekt5206.jpg)
+Ил.: सप्तर्षयः
+Семигодишникът = седемте най-ярки звезди на Голямата мечка (Ursa maior)
+(Източник на изображението: [Подробности](/bg/licenses#lekt5206))
+:::
+::: grammar-box
+**Правило 2: За разлика от Правило 1, дума, която означава посока на света или числително, може да образува Татпуръша с друго съществително, ако**
+
+1.  към така образувана съставна дума се добавя Тадхита суфикс  
+    Примери:  
+    pūrva + śālā ("зала) » \*pūrvaśālā (не трябва да се използва така!) + Тадхита -a » पौर्वशाल 3 "намиращ се в източната зала"  
+    ṣaṣ + mātṛ » \*ṣaṇmātṛ (не е допустимо!) + Тадхита -a » षण्मातुर м. "детето на шест майки" (= कार्त्तिकेय)  
+    
+2.  така образувана съставна дума се използва в значение, което обикновено се означава от Тадхита суфикс (при този вид преходът към Бахуврихи е плаващ):  
+    Примери:  
+    dvi + go » द्विगु : не: "две крави", а: "***придобит за две крави***"  
+    द्विवर्ष не: "две години", а: "***на две години***"  
+    
+3.  така образувана съставна дума е предната част на друга съставна дума  
+    Пример:  
+    pañca + go » pañcagava (като отделна дума не е допустимо!) + dhana » पञ्चगवधन м. "един, чийто богатство са пет крави"
+:::
+::: media
+![](/images/lekt5207.jpg)
+Ил.: षण्मातुरः कार्त्तिकेय:
+Джалакандapuram = ஜலகண்டபுரம்
+(Източник на изображението: [Подробности](/bg/licenses#lekt5207))
+:::
+::: grammar-box
+**Обозначение за числително (но не за посока на света) може като предна част с друго съществително да образува Татпуръша, дори ако така образувана съставна дума означава агрегат от няколко неща, т.е. обединява две или повече неща в едно цяло.**
+
+**Татпуръши, образувани по това правило, се наричат ***Двигу (द्विगु)***.**
+
+**Двигу-съставни думи, които означават цялост, обикновено са среден род. Ако втората част завършва на -a, може да се добави женски суфикс -ī. Ако втората част завършва на женски род -ā, вместо нея се появява или среден род -a, или женски род -ī. Ако втората част завършва на -an, вместо нея се поставя -a или -ī.**
+
+:::
+
+Примери:
+
+::: indent
+त्रि + भुवनव् » त्रिभुवन м. "обединението на трите свята, трите свята като единство, триединният свят (небесен свят-земен свят-подземни светове)
+
+त्रिलोक м. । त्रिलोकी м. "триединен свят"
+:::
+
+::: grammar-box
+**Двигу-съставни, на които не е добавен Тадхита-суфикс, но които имат значението, изразено чрез Тадхита-суфикс, определят рода си според името, което те уточняват (в действителност те са Бахуврихи)**
+:::
+
+Пример:
+
+::: indent
+पञ्चगु 3: "придобит за пет крави"
+:::
+
+## 52.7. Списък на думите
+
+अखिल 3: безпук, цял
+
+निखिल 3: пълен, цял
+
+::: indent
+от:
+
+खिल м.: залежалото поле, пустош
+:::
+
+::: media
+![](/images/lekt5210.jpg)
+Ил.: खिलः
+Тамбхол, Аколе, Ахмедабад = अहमदनगर
+(Източник на изображението: [Подробности](/bg/licenses#lekt5210))
+:::
+अन्तर् Нар.: вътре, във вътрешността ; Постпозитив с Ген. Лок. (षष्टी, सप्तमी): вътре, сред ; Постпозитив с Ген. Абл. (षष्ठी, पञ्चमी): от ... навън
+
+अन्योन्य 3: взаимно, един друг
+
+इ + वि + परि 2Л विपर्येति : пропадна
+
+::: indent
+PPP विपरीत 3: объркан, грешен
+:::
+
+त्रि 3: три
+
+::: grammar-box
+| | **Мъжки род[[br]]पुंस्** | **Среден род[[br]]नपुंसकम्** | **Женски род[[br]]स्त्री** |
+| :--- | :---: | :---: | :---: |
+| **1. Наречен падеж[[br]]१. प्रथमा** | त्रयस् | त्रीणि | तिस्रस् |
+| **2. Винителен падеж[[br]]२. द्वितीया** | त्रीन् | त्रीणि | तिस्रस् |
+| **3. Творителен падеж[[br]]३. तृतीया** | त्रिभिस् || तिसृभिस् |
+| **4. Дателен падеж[[br]]४. चतुर्थी** | त्रिभ्यस् || तिसृभ्यस् |
+| **5. Аблативен падеж[[br]]५. पञ्चमी** | त्रिभ्यस् || तिसृभ्यस् |
+| **6. Генитивен падеж[[br]]६. षष्ठी** | त्रयाणाम् || तिसृणाम् |
+| **7. Локативен падеж[[br]]७. सप्तमी** | त्रिषु || तिसृषु |
+:::
+
+निस् Постпозитив и префикс при съществителни и глаголи: навън, прочад, из, напред, от, прочад, без - от
+
+पीड् 10Л पीडयति : притиска, мъчи ; притеснява, обсажда, плаши
+
+::: media
+![](/images/lekt5212.jpg)
+Ил.: पीडिताः
+Хайдарабад = హైదరాబాద్
+(Източник на изображението: [Подробности](/bg/licenses#lekt5212))
+:::
+पर 3: (Склонение като सर्व) отдалечен, чужд, по-висок от (पञ्चम्या), най-висок, най-висок ; друг, чужд, враждебен ; м.: чужденец
+
+::: indent
+от това:
+
+परम् Нар.: в висока степен, върху, по-късно, но, обаче
+:::
+
+प्रति Постпозитив (द्वितीयया): към - на, към, по отношение на, срещу
+
+प्रधान 3: основен, най-добър ; ср.: най-важното
+
+::: media
+![](/images/lekt5213.jpg)
+Ил.: प्रधानः
+मुंबई
+(Източник на изображението: [Подробности](/bg/licenses#lekt5213))
+:::
+लौल्य ср.: алчност, похотливост
+
+वर्ग м.: раздел, отдел, тълпа
+
+::: indent
+त्रिवर्ग м.: група от трима (напр. धर्मः, अर्थः, कामः ; или: सत्त्वम्, रजस्, तमस् ; или: ब्राह्मणाः, क्षत्रियाः, वैश्याः)
+:::
+
+वश् 2Л वस्टि, ***उशन्ति,*** Императив 2.ед.: ***उड्ढि*** : иска, заповядва, желае
+
+::: indent
+Перфект Ва उवाश, ऊशुर्
+Бъдеще वशिष्यति
+Страдателен उष्यते
+Каузативен वाशयति
+PPP उशित
+Инфинитив वशितुम्
+Абсолютив -वश्य
+:::
+
+वा 2Л वाति : дуе, духа
+
+::: indent
+Перфект IV ववौ
+Бъдеще वास्यति
+Страдателен वायते
+Каузативен वापयति
+PPP वान । वात
+Инфинитив वातुम्
+
+от това:
+
+वात м.: вятър
+:::
+
+वृज् 7Л वृणक्ति 1Л वर्जति : обръща, върти ; отблъсква, изключва
+
+::: indent
+Перфект. II ववर्ज, ववृजुर्
+Бъдеще वर्जिष्यति
+Страдателен वृज्यते
+Каузативен वर्जयति : отстранява
+Каузативен PPP वर्जित : лишен от нещо, свободен от
+PPP वृक्त
+Инфинитив वर्जितुम्
+:::
+
+व्यवहार м.: дейност, промяна, общуване, търговия, дело, търговия, (съдебен) процес
+
+शील ср.: обичай, навици, природа, характер, добър навик = морал
+
+सूर्य м.: слънце
+
+सेव् 1А सेवते : служи на някого (द्वितीया), прислужва, почита, обича
+
+::: indent
+Перфект I सिषेवे
+Бъдеще सेविष्यते
+Страдателен सेव्यते
+Каузативен सेवयति
+PPP सेवित
+Инфинитив सेवितुम्
+Абсолютив -सेव्य
+
+от това:
+
+सेवा ж.: служба, присъствие
+:::
+
+धीर 3: твърд, постоянен, непрекъснат, упорит
 
 शम् शाम्यति
 
@@ -549,68 +610,79 @@ Perf I सिषेवे   &lt;!-- TODO: Fallback translation --&gt;
 शमित्वा । शान्त्वा
 :::
 
-कोविद 3: erfahren in (षष्ठ्या सप्तम्या वा) &lt;!-- TODO: Fallback translation --&gt;
+कोविद 3: опитен в (षष्ठ्या सप्तम्या वा)
 
-याम m.: Nachtwache (jeweils drei Stunden) &lt;!-- TODO: Fallback translation --&gt;
+याम м.р.: нощна стража (всяка по три часа)
 
-परंपरा f.: ununterbrochene Reihe &lt;!-- TODO: Fallback translation --&gt;
+परंपरा ж.р.: непрекъснат ред
 
-अमुत्र Adv.: dort, dorthin &lt;!-- TODO: Fallback translation --&gt;
+अमुत्र Нар.: там, туда
 
-च्यु 1Ā च्यवते : sich rühren, sich fortbewegen, herabfallen &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-Perf. IIIa चुच्युवे   &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-भू + अनु 1P अनुभवति : erkennen, empfinden, wahrnehmen, erfahren &lt;!-- TODO: Fallback translation --&gt;
-
-चक्र n.: Rad &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt5214.jpg
-Abb.: चक्रम्  
-Konark = कोनार्क  
-\[Bildquelle: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Zugriff am 2009-01-16. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-कदली f.: Bananenbaum (_Musa_ sp.) &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt5208.jpg
-Abb.: कदली  
-Hampi = ಹಂಪೆ  
-\[Bildquelle: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]  &lt;!-- TODO: Fallback translation --&gt;
-:::
-सार m.n.: Kern, Mark, Essenz, Substanz &lt;!-- TODO: Fallback translation --&gt;
-
-दिव्य 3: himmlisch, göttlich &lt;!-- TODO: Fallback translation --&gt;
-
-वर 3: bester &lt;!-- TODO: Fallback translation --&gt;
-
-आदर्श m.: Spiegel &lt;!-- TODO: Fallback translation --&gt;
-
-मल m.n.: Schmutz, Makel &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt5215.jpg
-Abb.: मलम्  
-मुंबई  
-\[Bildquelle: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-त्रिपिष्टप n.: Indras Himmel &lt;!-- TODO: Fallback translation --&gt;
-
-मार m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt5217.jpg
-Fut. वशिष्यति   &lt;!-- TODO: Fallback translation --&gt;
-:::
-विजिज्ञासु 3: jemand, der völlig erkennen will &lt;!-- TODO: Fallback translation --&gt;
-
-त्रै 1Ā त्रायते : beschützen, retten &lt;!-- TODO: Fallback translation --&gt;
+च्यु 1Ā च्यवते : движа се, придвижвам се, падам надолу
 
 ::: indent
-PPP त्राण । त्रात   &lt;!-- TODO: Fallback translation --&gt;
+Перф. IIIa चुच्युवे
+Фут. च्योष्यते
+Пас. च्यूयते
+Кавс. च्यावयति
+ППП च्युत
+:::
+
+भू + अनु 1П अनुभवति : разпознавам, усещам, възприемам, опитвам
+
+चक्र с.р.: колело
+
+::: media
+![](/images/lekt5214.jpg)
+Ил.: चक्रम्
+Конарк = कोनार्क
+(Източник на изображението: [Подробности](/bg/licenses#lekt5214))
+:::
+कदली ж.р.: бананово дърво (_Musa_ sp.)
+
+::: media
+![](/images/lekt5208.jpg)
+Ил.: कदली
+Хампи = ಹಂಪೆ
+(Източник на изображението: [Подробности](/bg/licenses#lekt5208))
+:::
+सार м.р.с.р.: ядро, сърцевина, същност, субстанция
+
+दिव्य 3: небесен, божествен
+
+वर 3: най-добър
+
+आदर्श м.р.: огледало
+
+मल м.р.с.р.: мръсотия, петно
+
+::: media
+![](/images/lekt5215.jpg)
+Ил.: मलम्
+मुंबई
+(Източник на изображението: [Подробности](/bg/licenses#lekt5215))
+:::
+त्रिपिष्टप с.р.: небето на Индра
+
+मार м.р.: олицетвореното зло, олицетвореното изкушение / манипулация, дявол
+
+::: media
+![](/images/lekt5217.jpg)
+Ил.:
+Амаравати = అమరావతి, 2. век сл. н. е.
+(Източник на изображението: [Подробности](/bg/licenses#lekt5217))
+:::
+विजिज्ञासु 3: някой, който иска напълно да познае
+
+त्रै 1Ā त्रायते : защитавам, спасявам
+
+::: indent
+Перф. IV तत्रे
+Фут. त्रास्यते
+Пас. त्रायते
+Кавс. त्रापयति
+ППП त्राण । त्रात
+Инф. त्रातुम्
 :::
 
 ## 52.8. Упражнение за превод
@@ -626,47 +698,46 @@ PPP त्राण । त्रात   &lt;!-- TODO: Fallback translation --&
 सर्वं परवशं दुःखं
 सर्वमात्मवशं सुखम् ।
 एतद्विद्यात्समासेन
-लक्षणं सुखदुःखयोः ॥१६०॥
+लक्षणं सुखदुःख***योः*** ॥१६०॥
 
 यत्कर्म कुर्वतो ऽस्य स्यात्
 परितोषो ऽन्तरात्मनः ।
 तत्प्रयत्नेन कुर्वीत
 विपरीतं तु वर्जयेत् ॥१६१॥
 
-लक्षणं सुखदुःखयोः ॥१६०॥
+Обяснение: सुखदुःखयोः Ген.Лок.Дуал.м.ж.н. (Дуалдвандва)
 :::
 
-२. मनुस्मृति २, ६ Über die Източници des धर्म &lt;!-- TODO: Fallback translation --&gt;
+२. मनुस्मृति २, ६ За изворите на धर्म
 
 ::: indent
 वेदो ऽखिलो धर्ममूलम्
-स्मृतिशीले च तद्विदाम् ।
+स्मृतिशी***ले*** च तद्विदाम् ।
 आचआरश्चैव साधूनाम्
 आत्मनस्तुष्टिरेव च ॥६॥
 
-Erklärung:  स्मृतिशीले Nom.Akk.Dual.n. (Dualdvandva) &lt;!-- TODO: Fallback translation --&gt;
+Обяснение: स्मृतिशीले Имен.Употреб.Дуал.н. (Дуалдвандва)
 :::
 
-३. कौटिलीयार्थशास्त्र १, ७, २ - ७ Über अर्थ, काम, धर्म im Leben des Fürsten &lt;!-- TODO: Fallback translation --&gt;
+३. कौटिलीयार्थशास्त्र १, ७, २ - ७ За अर्थ, काम, धर्म в живота на владетеля
 
-एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्, स्वप्नं लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं च व्यवहारम् ।२। धर्मार्थाविरोधेन कामं सेवेत, न निःसुखः स्यात् ।३। समं वा त्रिवर्गमन्योन्यानुबद्धम् ।४। एको ह्यत्यासेवितो धर्मार्थकामानामात्मानमितरौ च पीदयति ।५। अर्थ एव प्रधान इति कौटिल्यः ।६। अर्थमूलौ हि धर्मकामाविति ।७।
+एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्, स्वप्नं लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं च व्यवहारम् ।२। धर्मार्थाविरोधेन कामं सेवेत, न निःसुखः स्यात् ।३। समं वा त्रिवर्गमन्योन्यानुबद्धम् ।४। एको ह्यत्यासेवितो धर्मार्थकामानामात्मान***मितरौ*** च पीदयति ।५। अर्थ एव प्रधान इति कौटिल्यः ।६। अर्थ***मूलौ*** हि धर्मका***मावि***ति ।७।
 
 ::: indent
-यद्यत्परवशं कर्म  
+Обяснения:
 
-इतरौ Nom.Akk.Dual.m zu इतर 3 "anderer" &lt;!-- TODO: Fallback translation --&gt;
+इतरौ Имен.Употреб.Дуал.м. към इतर 3 "друг"
 
-अर्थमूलौ, धर्मकामौ Nom.Akk.Dual.m (धर्मकामौ ist Dualdvandva) &lt;!-- TODO: Fallback translation --&gt;
+अर्थमूलौ, धर्मकामौ Имен.Употреб.Дуал.м. (धर्मकामौ е Дуалдвандва)
 :::
 
-४. अश्वघोष (2. Jhdt. n. Chr.): बुद्धचरित ४ Buddhas erlösende Erkenntnis &lt;!-- TODO: Fallback translation --&gt;
+४. अश्वघोष (2. век сл. н. е.): बुद्धचरित ४ Освобождаващото познание на Буда
 
 ::: media
-![]/images/lekt5216.jpg
-Abb.: अश्वत्थो महाबोधिवृक्षः  
-_Ficus religiosa_ L.  
-बोधगया, ca. 1810  
-\[Bildquelle: Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5216.jpg)
+Ил.: अश्वत्थो महाबोधिवृक्षः
+_Ficus religiosa_ L. बोधगया, ок. 1810 г.
+(Източник на изображението: [Подробности](/bg/licenses#lekt5216))
 :::
 ::: indent
 ततो मारबलं जित्वा
@@ -720,71 +791,70 @@ _Ficus religiosa_ L.
 प्रतिष्ठन्ते त्रिविष्टपे ॥१०॥
 :::
 
-## 52.9. Aufgaben während der Semesterferien
+## 52.9. Задачи по време на семестриалните ваканции
 
-Mit Lektion 52 ist das erste Semester (13 Wochen á 4 Unterrichtsstunden) des Sanskritkurses beendet. &lt;!-- TODO: Fallback translation --&gt;
+С Лекция 52 завършва първият семестър (13 седмици по 4 учебни часа) на курса по санскрит.
 
-Während der Semesterferien sollten folgende Aufgaben erfüllt werden: &lt;!-- TODO: Fallback translation --&gt;
+По време на семестриалните ваканции трябва да бъдат изпълнени следните задачи:
 
-1.  Wiederholung des gesamten bisher Gelernten, besonders: &lt;!-- TODO: Fallback translation --&gt;
-    1.  Auswendiglernen der Konjugations- und Deklinationsparadigmen &lt;!-- TODO: Fallback translation --&gt;
-    2.  Wörter &lt;!-- TODO: Fallback translation --&gt;
-    3.  Основаformen &lt;!-- TODO: Fallback translation --&gt;
-2.  Auswendiglernen möglichst vieler Verse und Prosatexte aus dem klassischen Schrifttum &lt;!-- TODO: Fallback translation --&gt;
-3.  Durcharbeiten von [Lektion 53](lektion53.md) &lt;!-- TODO: Fallback translation --&gt;
-4.  Durcharbeiten der Blätter Bhg 1 - 11 (noch nicht im Internet) &lt;!-- TODO: Fallback translation --&gt;
-5.  Vorbereitung von भगवद्गीता Kap. 1, Lernen der dazugehörigen Wörter auf den Речникn (noch nicht im Internet) &lt;!-- TODO: Fallback translation --&gt;
-6.  Metrische Analyse aller Verse von भगवद्गीता १   &lt;!-- TODO: Fallback translation --&gt;
-    Einen guten Eindruck von dem Text in rezitierter Form gibt: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Zugriff am 2009-01-19 &lt;!-- TODO: Fallback translation --&gt;
-7.  Lesen einer महाभारत-Nacherzählung, z.B.   &lt;!-- TODO: Fallback translation --&gt;
-    Mahābhārata : Indiens grosses Epos / aus dem Sanskrit übers. und zsgef. von Biren Roy. -- 10. Aufl. -- München : Diederichs, 1995. -- 335 S.  ; 19 cm. --  (Diederichs gelbe Reihe ; 16 : Indien) &lt;!-- TODO: Fallback translation --&gt;
-8.  Durcharbeiten:**   &lt;!-- TODO: Fallback translation --&gt;
-    Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm. -- S. 208 - 254 (Sytactical government) &lt;!-- TODO: Fallback translation --&gt;
-9.  Fertig durcharbeiten von:**   &lt;!-- TODO: Fallback translation --&gt;
-    Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt;The wonder that was IndiaTeil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. &lt;!-- TODO: Fallback translation --&gt;
-10.  Beginn mit der Durcharbeit von:   &lt;!-- TODO: Fallback translation --&gt;
-     **Winternitz, Moriz** &lt;1863 - 1937&gt;**:** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 Bde. -- 1908 - 1922 (immer noch die bei weitem beste Literaturgeschichte der Sanskrit-, Pali- und Prakritliteratur) &lt;!-- TODO: Fallback translation --&gt;
+1.  Повторение на цялото досегашно изучено, особено:
+    1.  Заучаване на парадигмите за спрягане и склонение
+    2.  Думи
+    3.  Коренови форми
+2.  Заучаване на възможно най-много стихове и прозаически текстове от класическата литература
+3.  Проработка на [Лекция 53](lektion53.md)
+4.  Проработка на листите Бхг 1 - 11 (все още не в интернет)
+5.  Подготовка на भगवद्गीता гл. 1, учене на съответстващите думи от списъците с думи (все още не в интернет)
+6.  Метричен анализ на всички стихове от भगवद्गीता १  
+    Добро впечатление за текста в рецитирана форма дава: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Достъп на 2009-01-19
+7.  Четене на महाभारत преразказ, напр.  
+    Mahābhārata : Голямото индийско епос / преведен от санскрит и съкратен от Бирен Рой. -- 10-то изд. -- Мюнхен : Дидерихс, 1995. -- 335 стр. ; 19 см. --  (Жълта поредица Дидерихс ; 16 : Индия)
+8.  Проработка:  
+    **Куннапали, Джон:** Prakriyā bhāshyam : Санскритска граматика / Първоначално написана на малаялам. Преведена на английски от К.В.Р. Пай. -- Паратhode : Самиздат, 1983. -- 818 стр. ; 23 см. -- Стр. 208 - 254 (Синтактично управление)
+9.  Завършване на проработката на:  
+    **Башам, А. Л. (Артур Ллуелин) &lt;1914-1986&gt;** Чудото, което беше Индия. Част: Преглед на културата на индийския субконтинент преди идването на мюсюлманите. -- Лондон : Сидгик & Джаксън, 1954.
+10.  Започване на проработката на:  
+     **Винтерниц, Морис &lt;1863 - 1937&gt;:** История на индийската литература. Щутгарт : Коелер. -- 3 тома. -- 1908 - 1922 (все още най-добрата литературна история на санскритската, палиската и пракритската литература)
 
 ::: media
-![]/images/lekt5201.jpg
-Abb.: श्रीगुम्पिः , मम मन्त्री  
-(Bild: Payer) &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt5201.jpg)
+Ил.: श्रीगुम्पिः , मम मन्त्री
+(Изображение: Payer)
+(Източник на изображението: [Подробности](/bg/licenses#lekt5201))
 :::
 
 ::: deleteme-box
 
-### Източници
+**lekt5202:** विवाहः, Ченнай = சென்னை [Източник на изображението: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Достъп на 2009-01-15. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, некомърсиално използване, без промени)]
 
-**lekt5202:** विवाहः, Chennai = சென்னை [Bildquelle: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5203:** Фигура на Ваянг, Ява, Индонезия [Източник на изображението. Уикипедия. Обществено достояние]
 
-**lekt5203:** Wayang-Figur, Java, Indonesien [Bildquelle. Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5204:** Ред за вход преди храм, Тируванапур = Thiruvananthapuram = തിരുവനന്തപുരം [Източник на изображението: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Достъп на 2009-01-15. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Приписване, некомърсиално използване, споделяне на споделеното)]
 
-**lekt5204:** Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം [Bildquelle: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5209:** Изгаряне на земята, Аруначал Прадеш = अरुणाचल प्रदेश [Източник на изображението: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Достъп на 2009-01-15. --  [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, некомърсиално използване, без промени)]
 
-**lekt5209:** Brandrodung, Arunachal Pradesh = अरुणाचल प्रदेश [Bildquelle: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Zugriff am 2009-01-15. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5205:** [Източник на изображението: Уикипедия. Обществено достояние]
 
-**lekt5205:** [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5206:** Семигодишникът = седемте най-ярки звезди на Голямата мечка (Ursa maior) [Източник на изображението: Уикипедия, GNU FDLicense]
 
-**lekt5206:** Das Siebengestirn = die sieben hellsten Sterne des Großen Bären (Ursa maior) [Bildquelle: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5207:** Джалакандapuram = ஜலகண்டபுரம் [Източник на изображението: Уикипедия. Обществено достояние]
 
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5210:** Тамбхол, Аколе, Ахмедабад = अहमदनगर [Източник на изображението: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Достъп на 2009-01-16. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
 
-**lekt5210:** Tambhol, Akole, Ahmednagar = अहमदनगर [Bildquelle: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5212:** Хайдарабад = హైదరాబాద్ [Източник на изображението: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Достъп на 2009-01-16. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
 
-**lekt5212:** Hyderabad = హైదరాబాద్ [Bildquelle: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5213:** मुंबई [Източник на изображението: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Достъп на 2009-01-16. -- [Creative Commons License](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribution, no derivatives)]
 
-**lekt5213:** मुंबई [Bildquelle: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5214:** Конарк = कोनार्क [Източник на изображението: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Достъп на 2009-01-16. --  [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
 
-**lekt5214:** Konark = कोनार्क [Bildquelle: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Zugriff am 2009-01-16. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5208:** Хампи = ಹಂಪೆ [Източник на изображението: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Достъп на 2009-01-15. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
 
-**lekt5208:** Hampi = ಹಂಪೆ [Bildquelle: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5215:** मुंबई [Източник на изображението: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Достъп на 2009-01-16. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
 
-**lekt5215:** मुंबई [Bildquelle: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5217:** Амаравати = అమరావతి, 2. век сл. н. е. [Източник на изображението. Уикипедия. GNU FDLicense]
 
-**lekt5217:** Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5216:** _Ficus religiosa_ L. बोधगया, ок. 1810 г. [Източник на изображението: Уикипедия. Обществено достояние]
 
-**lekt5216:** _Ficus religiosa_ L. बोधगया, ca. 1810 [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
-**lekt5201:** (Bild: Payer) <!-- TODO: Fallback translation -->
+**lekt5201:** (Изображение: Payer)
 
 :::

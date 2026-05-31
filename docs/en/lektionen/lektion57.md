@@ -1,6 +1,10 @@
 ---
+title: Lesson 57
+subtitle: "Aorist 4: s-Aorist"
 lesson_id: 57
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 57
@@ -8,7 +12,7 @@ last_reconstructed: 2026-05-21
 ## 57.1. Aorist 4: s-Aorist
 
 ::: grammar-box
-**The s-Aorist is formed for most अनिट् (anīṭ) roots, provided they do not exclusively possess another aorist form. Optional अनिट् (anīṭ) roots can generally form either this form or the iṣ-Aorist. Furthermore, अनिट् (anīṭ) roots that form the परस्मैपद (parasmaipada) according to the 1st, 2nd, or 6th aorist forms, form the आत्मनेपद (ātmanepada) according to the s-Aorist.**
+**The s-aorist is formed for most अनिट्-roots, provided they do not exclusively have another aorist form. Optional अनिट्-roots can generally optionally form this or the iṣ-aorist. Also अनिट्-roots that form the परस्मैपद after the 1st, 2nd or 6th form of the aorist form the आत्मनेपद according to the s-aorist.**
 
 **Formation: Augment + Root + s + athematic secondary endings**
 :::
@@ -16,16 +20,17 @@ last_reconstructed: 2026-05-21
 Table of endings with stem-forming suffix
 
 ::: grammar-box
-| | परस्मैपदम् (Parasmaipada) | | आत्मनेपदम् (Ātmanepada) | |
-| :--- | :--- | :--- | :--- | :--- |
-| | **एकवचनम्** (Ekavacanam) | **बहुवचनम्** (Bahuvacanam) | **एकवचनम्** (Ekavacanam) | **बहुवचनम्** (Bahuvacanam) |
-| **1. तृतीयः** (3rd Person) | **-sam** | **-sma** | **-si** | **-smahi** |
-| **2. द्वितीयः** (2nd Person) | **-sīs** | **-sta** | **-sthās** | **-dhvam** |
-| **3. प्रथमः** (1st Person) | **-sīt** | **-sur** | **-sta** | **-sata** |
+
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | -sam | -sma | -si | -smahi |
+| **2. द्वितीयः** | ***-sīs*** | -sta | -sthās | ***-dhvam*** |
+| **3. प्रथमः** | ***-sīt*** | -sur | -sta | -sata |
 :::
 
 :::: grammar-box
-**The general phonetic rule applies that a sibilant drops out between two plosives (cf. उद् + स्थित » उत्थित), i.e., the stem-forming suffix -s- drops out before endings beginning with -t- or -th- (but not after nasals or r-).**
+**The general sound law is applied that a sibilant between two plosives drops out (cf. उद् + स्थित » उत्थित), i.e. the stem-forming suffix -s- before endings that begin with -t- or -th- drops out (but not after nasals or r-).**
 
 Examples:
 
@@ -34,73 +39,60 @@ Examples:
 2.sg.Ā a-kṣip + s + thās » अ***क्षिप्था***स्
 :::
 
-Such forms could also belong to the root aorist and likely do so in part.
+Such forms could also belong to the root aorist and probably also partly belong there.
 ::::
 
-The Indian grammarians also counted forms such as अकृत (3.sg.Ā) as belonging to the s-Aorist, although they clearly belong to the root aorist. For this purpose, the Indian grammarians invented the following ad-hoc phonetic rule for the s-Aorist:
+The Indian grammarians also counted forms like अकृत (3.sg.Ā) to the s-aorist, which clearly belong to the root aorist. For this purpose, the Indian grammarians invented the following ad-hoc sound rule for the s-aorist:
 
 ::: indent
-"After a short vowel, 'endings' beginning with -st- or -sth- lose their -s-."
+"After a short vowel, the 'endings' that begin with -st- or -sth- lose the -s-."
 :::
 
-Otherwise, the phonetic rules for the connection of final consonants with s- must be observed.
+Otherwise, the sound rules for the connection of final consonants with s- must be observed.
 
-For -dhvam, the following applies:
+For -dhvam applies:
 
-::: grammar-box
-**The -dh- of -dhvam is replaced by -ḍh- after all non-a/ā vowels as well as after -r.**
-:::
+:::: grammar-box
+**Form of the root:**
 
-::: indent
-e.g., चि 5U: 2.pl.Ā अचेढ्वम्
-:::
-
-::: grammar-box
-**Form of the Root:**
-
-*   **परस्मैपद (Parasmaipada): Guṇa/Strong grade**
-*   **आत्मनेपद (Ātmanepada):**
-    *   **Roots ending in i/ī/u/ū: Strong grade**
+*   **परस्मैपद : Guṇa stage**
+*   **आत्मनेपद :**
+    *   **Roots with final i/ī/u/ū: Strong stage**
     *   **final -ṝ is replaced by -īr or -ūr**
-    *   **ablaut-capable roots on ā/e/o: Weak grade**
-    *   **other root vowels: unchanged (i.e., generally weak grade)**
+    *   **ablaut-capable roots on ā/e/o: Weak stage**
+    *   **other root vowels: unchanged (i.e. usually weak-stage)**
 :::
 
 Examples:
 
-::: grammar-box
-| | |
-| :--- | :--- |
-| **3.sg.P** | |
-| **चि 5U** | **अचैषीत्** |
-| **श्रु 5P** | **अश्रौषीत्** |
-| **कृ 8U** | **अकार्षीत्** |
-| **भज् 1U** | **अभाक्षीत्** |
-| **भञ्ज् 7P** | **अभाङ्क्षीत्** |
-| **भुज् 7U** | **अभौक्षीत्** |
+|   | **3.sg.P** |
+| --- | --- |
+| चि 5U | अचैषीत् |
+| श्रु 5P | अश्रौषीत् |
+| कृ 8U | अकार्षीत् |
+| भज् 1U | अभाक्षीत् |
+| भञ्ज् 7P | अभाङ्क्षीत् |
+| भुज् 7U | अभौक्षीत् |
 
-| | |
-| :--- | :--- |
-| **3.sg.Ā** | |
-| **चि 5U** | **अचेष्ट** |
-| **नी 1U** | **अनेष्ट** |
-| **सू 2/4** | **असोष्ट** |
-| **दा 3U** | **अदिषि** |
-| | **अदिथास्** |
-| | **अदित** |
-| **1.sg.Ā** | |
-| **कृ 8U** | **अकृषि** |
-| **पच् 1U** | **अपक्षि** |
-:::
+|   | **3.sg.Ā** |
+| --- | --- |
+| चि 5U | अचेष्ट |
+| नी 1U | अनेष्ट |
+| सू 2/4 | असोष्ट |
+|   | **sg.Ā** |
+| दा 3U | अदिषि[[br]]**अदिथास्**[[br]]**अदित** |
+|   | **1.sg.Ā** |
+| कृ 8U | अकृषि |
+| पच् 1U | अपक्षि |
 
 :::: grammar-box
-**दृश् (dṛś) and सृज् (sṛj) have the strong grade with rising diphthong -rā- in the परस्मैपद (Parasmaipada):**
+**दृश् and सृज् have in the परस्मैपद Guṇa stage with rising diphthong -rā-:**
 
 ::: indent
 दृश् 3.sg.P अ***द्राक्षी***त्
 :::
 
-The aorist for other roots with -ṛ- in the penultimate position can also be formed thus:
+The aorist of other roots with -ṛ- in penultimate position can also be formed this way:
 
 ::: indent
 कृष् 1P/6U 3.sg.P अकार्क्षीत् / अ***क्राक्षी***त्
@@ -109,69 +101,72 @@ The aorist for other roots with -ṛ- in the penultimate position can also be fo
 
 Paradigms:
 
-नी 1U "to lead"
+नी 1U "lead"
 
-::: indent
-| | परस्मैपदम् (Parasmaipada) | | आत्मनेपदम् (Ātmanepada) | |
-| :--- | :--- | :--- | :--- | :--- |
-| | **एकवचनम्** (Ekavacanam) | **बहुवचनम्** (Bahuvacanam) | **एकवचनम्** (Ekavacanam) | **बहुवचनम्** (Bahuvacanam) |
-| **1. तृतीयः** (3rd Person) | **अनैषम्** | **अनैष्म** | **अनेषि** | **अनेष्महि** |
-| **2. द्वितीयः** (2nd Person) | **अनैषीस्** | **अनैष्ट** | **अनेष्ठास्** | **अने***ढ्वम्***** |
-| **3. प्रथमः** (1st Person) | **अनैषीत्** | **अनैषुर्** | **नेष्ट** | **अनेषत** |
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
 
-:::
+| :--- | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अनैषम् | अनैष्म | अनेषि | अनेष्महि |
+| **2. द्वितीयः** | अनैषीस् | अनैष्ट | अनेष्ठास् | अने***ढ्वम्*** |
+| **3. प्रथमः** | अनैषीत् | अनैषुर् | नेष्ट | अनेषत |
 
 ::: media
 ![](/images/lekt5701.jpg)
 Fig.: भीमराव रामजी आंबेडकर (१८९१ १९५६) । सो ऽनैषीद्दलितान् ॥
-(Image source: [Details](/licenses#lekt5701))
+(Image source: [Details](/en/licenses#lekt5701))
 :::
+कृ 8U "to do"
 
-kṛ 8U “to do”
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अकार्षम् | अकार्ष्म | अकृषि | अकृष्महि |
+| **2. द्वितीयः** | अकार्षीस् | अकार्ष्ट | ***अकृथास्*** | अकृढ्वम् |
+| **3. प्रथमः** | अकार्षीत् | अकार्षुर् | ***अकृत*** | अकृषत |
 
-::: indent
-parasmaipadamātmanepadam singularplural singularplural**1. Third**akāṛṣamakāṛṣmaakṛṣiakṛṣmahī**2. Second**akāṛṣīsakāṛṣṭa***akṛthāskakṛdhvam**3. First**akāṛṣītakāṛṣur***akṛtakṛṣata
-:::
+तुद् 6U "to strike"
 
-tud 6U “to strike”
-
-::: indent
-parasmaipadamātmanepadam singularplural singularplural**1. Third**atautsamsatautsamsaututsiaututsimahī**2. Second**atautsīsa ta uts + taaututsithāsa utudhvam**3. First**atautsītautausuraututaututsata
-:::
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. तृतीयः** | अतौत्सम् | अतौत्स्म | अतुत्सि | अतुत्स्महि |
+| **2. द्वितीयः** | अतौत्सीस् | अतौत्त[[br]]from: a-taut + s + ta | अतुत्थास् | अतुद्ध्वम् |
+| **3. प्रथमः** | अतौत्सीत् | अतौत्सुर् | अतुत्त | अतुत्सत |
 
 ::: grammar-box
 **Irregular Forms:**
 
-**1. Roots ending in a nasal (gam, man, ram) form the s-aorist with strong grade:**
-**agaṃsi | amaṃsi | araṃsta**
-**Additionally, for gam, there are regular weak-grade forms:**
-**agasi (« \*a-gm-si) | agathāsa | agat (in the P, gam has a thematic aorist)**
+**1. Roots ending in nasal (गम्, मन्, रम्) form the s-aorist with strong grade:**
+**अगंसि । अमंसि । अरंस्त**
+**In addition, for गम् there are the regular weak-grade forms:**
+**अगसि (« \*a-gm-si) । अगथास् । अगत (in the P, गम् has the thematic aorist)**
 
-2. pad 4Ā is regular (e.g., apatsi), but in the 3.sg.Ā it takes the form of the passive root aorist:
-**apadi “he went”**
+2.  पद् 4Ā is regular (e.g. अपत्सि), but in the 3.sg.Ā it has the form of the passive root aorist:
+    अपादि "he went"
 
-3. budh Ā can optionally take the form of the passive root aorist in the 3.sg.Ā:
-**abodhi / abuddha “he recognized”**
+3.  बुध् Ā can optionally take the form of the passive root aorist in the 3.sg.Ā:
+    अबोधि / अबुद्ध "he recognized"
 :::
 
-## 57.2. Exercises
+## 57.2. Exercise
 
-A) Translate and identify the following forms without using reference materials, and then form the corresponding Aorist forms. Except for causatives and roots that form the *s*-Aorist, the class of the corresponding Aorist is given in parentheses:
+A) Translate and identify the following forms without aids, and form the corresponding Aorist forms. Except for causatives and roots that form the s-Aorist, the class of the corresponding Aorist is given in parentheses:
 
 1.  पेचिथ
-2.  अवक् (3)
+2.  अवक् (३)
 3.  सोष्यसि
 4.  छिन्दे
 5.  कुरुषे
 6.  आधत्ते
 7.  पद्यते
 8.  जिगाय
-9.  जिघ्रामः (1, 6)
-10.  शासति (2)
+9.  जिघ्रामः (१,६)
+10.  शासति (२)
 11.  स्तुवे
 12.  दिग्धे
 13.  प्लवध्वे
-14.  तस्थिथ (1)
+14.  तस्थिथ (१)
 15.  बिभ्यति
 16.  ततर्प
 17.  जुहुथ
@@ -179,7 +174,7 @@ A) Translate and identify the following forms without using reference materials,
 19.  ससर्जिथ
 20.  लिल्यिरे
 21.  अत्याजयम्
-22.  सिध्यथ (2)
+22.  सिध्यथ (२)
 23.  निन्य
 24.  कर्षन्ति
 25.  अप्रच्छयन्
@@ -239,13 +234,11 @@ B) Translate and identify the following forms:
 51.  अमुत्र
 52.  पत्युः
 53.  क्षेपीयन्
-54.  आदिषि
+54.  आदि्षि
 55.  पाणी
 56.  अस्प्राक्षम्
 
 ::: deleteme-box
-
-### Sources
 
 **lekt5701:** [Image source: Wikipedia. Public Domain]
 

@@ -1,11 +1,15 @@
 ---
+title: Lezione 45
+subtitle: "Formazione delle forme verbali della 2ª persona (मध्यमः) di temi atematici senza suffisso con terminazione vocale (continuazione)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 45
 
-## 45.1. Formazione delle forme verbali della seconda persona (मध्यमः) degli stemi atematici senza suffisso terminale vocale (continuazione)
+## 45.1. Formazione delle forme verbali della 2ª persona (मध्यमः) di temi atematici senza suffisso con finale vocalico (continuazione)
 
 ### 45.1.1. Terza classe del presente (जुहोत्यादि)
 
@@ -34,41 +38,41 @@ last_reconstructed: 2026-05-21
 ### 45.1.2. Settima classe del presente (रुधादि)
 
 ::: grammar-box
-**Quando la consonante finale k/g della radice si trova tra la nasale ṅ e una dentale della desinenza, essa può cadere facoltativamente.**
+**Quando la k/g finale della radice si trova tra la nasale ṅ e un dentale della desinenza, la k/g può cadere a scelta**
 
-Esempio: **युज्** 3.sg.Ind.Präs.Ā युङ्क्ते oppure युङ्ते
+ad es. **युज्** 3.sg.Ind.Pres.Ā युङ्क्ते oppure यु***ङ्ते***
 :::
 
 युज् 7U
 
 ::: grammar-box
-| | Parasmaipāda || Ātmanepāda ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singolare** | **Plurale** | **Singolare** | **Plurale** |
-| **Indicativo Presente**[[br]]laṭ | yuṇakṣi[[br]]yu-na-j + si | yuṅktha[[br]]yuṅtha | yuṅkṣe | yuṅgdhve[[br]]yuṅdhe |
-| **Imperfetto**[[br]]laṅ | ayunaḥ[[br]]da: a-yu-na-j + s | yuṅta[[br]]ayuṅta | ayuṅkhās[[br]]ayuṅthās | ayuṅgdhvam[[br]]ayuṅdhvam |
-| **Optativo**[[br]]vidhilinḥ | yuñgyās | yuñgyāt | yuñgīthās | yuñgīdhvam |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicativo Presente**[[br]]लट् | युनक्षि[[br]]yu-na-j + si | युङ्क्थ[[br]]युङ्थ | युङ्क्षे | युङ्ग्ध्वे[[br]]युङ्ध्वे |
+| **Imperfetto**[[br]]लङ् | अयुनक्[[br]]da: a-yu-na-j + s | युङ्क्त[[br]]अयुङ्त | अयुङ्क्थास्[[br]]अयुङ्थास् | अयुङ्ग्ध्वम्[[br]]अयुङ्ध्वम् |
+| **Optativo**[[br]]विधिलिङ् | युञ्ज्यास् | युञ्ज्यात | युञ्जीथास् | युञ्जीध्वम् |
 :::
 
 रुध् 7U
 
 ::: grammar-box
-| | Parasmaipāda || Ātmanepāda ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singolare** | **Plurale** | **Singolare** | **Plurale** |
-| **Indicativo Presente**[[br]]laṭ | ruṇatsi[[br]]ru + na + dh + si | runddha[[br]]ru-n-dh + tha | runtsse | runddhe |
-| **Imperfetto**[[br]]laṅ | arunaḥ[[br]]da a-ru-ṇa-dh + s[[br]] aruṇs (irreg.!) | arunddha[[br]]a-ru-n-dh + ta | arunddhās | arunddhvam |
-| **Optativo**[[br]]vidhilinḥ | rundhyās | rundhyāt | rundhīthās | rundhīdhvam |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicativo Presente**[[br]]लट् | रुणत्सि[[br]]ru + na + dh + si | रुन्द्ध[[br]]ru-n-dh + tha | रुन्त्से | रुन्द्ध्वे |
+| **Imperfetto**[[br]]लङ् | अरुणत्[[br]]da a-ru-ṇa-dh + s[[br]] ***अरुण्स्*** (irreg.!) | अरुन्द्ध[[br]]a-ru-n-dh + ta | अरुन्द्धास् | अरुन्द्ध्वम् |
+| **Optativo**[[br]]विधिलिङ् | रुन्ध्यास् | रुन्ध्यात | रुन्धीथास् | रुन्धीध्वम् |
 :::
 
 ## 45.2. Il vocativo singolare (आमन्त्रितमेकवचने)
 
 ::: grammar-box
-**La maggior parte dei vocativi singolari corrisponde alla radice con desinenza di grado pieno (guṇa).**
+**La maggior parte dei vocativi del singolare è la radice con desinenza di alto livello.**
 
-Esempi: **देव, कवे, शत्रो, राजन्, पितर्** ecc.
+ad es. **देव, कवे, शत्रो, राजन्, पितर्** ecc.
 
-**Eccezioni sono i femminili in -ā e -ī, nonché le radici in -in, il cui vocativo singolare richiede particolare attenzione.**
+**Eccezioni sono i femminili in -ā e -ī nonché le radici in -in, il cui vocativo singolare va ricordato in modo particolare.**
 :::
 
 :::: grammar-box
@@ -101,26 +105,26 @@ Esempi: **देव, कवे, शत्रो, राजन्, पितर�
 ::: media
 ![](/images/lekt4501.jpg)
 Fig.: भवति किं करोषि
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4501))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4501))
 :::
 
-## 45.3. Elenco delle parole
+## 45.3. Elenco di parole
 
 वा ... वा : oppure ... oppure
 
 ## 45.4. Esercizio
 
-A) Tradurre in Sanscrito (per le forme verbali al passato, utilizzare l’Imperfetto <लङ्>):
+A) Tradurre in sanscrito (per le forme verbali del passato si prega di usare l'imperfetto &lt;लङ्&gt;):
 
 1\. Tu dividi la (comunità buddhista).
 
 ::: indent
-Per la divisione della comunità (सङ्घभेद) si veda:
+per la divisione della comunità (सङ्घभेद) si veda:
 
-**Payer, Alois <1944 - >:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 
-2\. Hai goduto della terra?
+2\. Avete goduto della terra?
 
 3\. Hai ricevuto un dono dal re?
 
@@ -130,11 +134,11 @@ Per la divisione della comunità (सङ्घभेद) si veda:
 
 6\. Donna śūdra, hai portato il carico nella casa del ricco brāhmaṇa?
 
-7\. Dea, dovresti esaudire il desiderio di felicità del vaiśya che ha compiuto azioni meritorie.
+7\. Dea, dovresti esaudire il desiderio di felicità del vaiśya che ha compiuto meriti.
 
 8\. Elefanti, non dovreste spezzare le catene.
 
-9\. Uomo simile a un leone, perché non rivolgi tutta la tua attenzione all'Assoluto (Brahman)?
+9\. Uomo simile al leone, perché non rivolgi tutta la tua attenzione all'Assoluto (Brahman)?
 
 10\. Hai, poeta, misurato i mondi?
 
@@ -151,15 +155,13 @@ B) Tradurre:
 ::: media
 ![](/images/lekt4502.jpg)
 Fig.: कन्ये किं लिखसि
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4502))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4502))
 :::
 
 
 ::: deleteme-box
 
-### Fonti
+**lekt4501.jpg**: Stampa a blocchi tessili, Ahmedabad. -- Fonte dell'immagine: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accesso il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)
 
-**lekt4501.jpg**: Stampa su tessuto con blocchi di legno, Ahmedabad. -- Fonte dell'immagine: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accesso effettuato il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale, condividi allo stesso modo)
-
-**lekt4502.jpg**: Fonte dell'immagine: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Accesso effettuato il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)
+**lekt4502.jpg**: Fonte dell'immagine: John Isaac / Banca Mondiale. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Accesso il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)
 :::

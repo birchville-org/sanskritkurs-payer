@@ -1,20 +1,26 @@
 ---
+title: Lección 25
+subtitle: "Formación del Ablativo (पञ्चमी = \"quinta terminación casual\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 25
 
-## 25.1. Formación del Ablativo (पञ्चमी = "quinta terminación casuál")
-
-Aparte de los masculinos y neutros terminados en -a, así como de los pronombres, en singular las formas del ablativo (पञ्चमी) son idénticas a las del genitivo (षष्ठी) en todas las clases de declinación.
-
-Aparte de los pronombres personales, en todos los paradigmas de declinación, en plural las formas del ablativo son idénticas a las del dativo (चतुर्थी).
-
-Ahora usted comprende la razón del orden de los casos (विभक्ति) en sánscrito: están dispuestos de tal manera que las formas homófonas se encuentren lo más juntas posible, unas junto a otras o entre sí.
+## 25.1. Formación del Ablativo (पञ्चमी = "quinta terminación casual")
 
 ::: grammar-box
-**Ablativo singular de los masculinos y neutros terminados en -a**
+Excepto en los masculinos / neutros en -a y en los pronombres, en el singular las formas del ablativo (पञ्चमी) en todas las clases de declinación son idénticas a las del genitivo (षष्ठी).
+
+Excepto en los pronombres personales, en todas las declinaciones en el plural las formas del ablativo son idénticas a las del dativo (चतुर्थी).
+:::
+
+Ahora reconocen la razón del orden de los casos (विभक्ति) en sánscrito: están dispuestos de manera que las formas homófonas estén lo más juntas posible — o entre sí.
+
+::: grammar-box
+**Ablativo singular de los masculinos / neutros en -a**
 
 - **deva** (देव) → **devāt** (देवात्)
 :::
@@ -26,11 +32,11 @@ Pronombres interrogativos, relativos y demostrativos:
 
 | | Ablativo singular[[br]]Masculino / Neutro | Ablativo singular[[br]]Femenino |
 | :--- | :--- | :--- |
-| **kim**[[br]](किम्) | **kasmāt**[[br]](कस्मात्) | **kasyāḥ**[[br]](कस्याः) |
-| **yad**[[br]](यद्) | **yasmāt**[[br]](यस्मात्) | **yasyāḥ**[[br]](यस्याः) |
-| **tad**[[br]](तद्) | **tasmāt**[[br]](तस्मात्) | **tasyāḥ**[[br]](तस्याः) |
-| **etad**[[br]](एतद्) | **etasmāt**[[br]](एतस्मात्) | **etasyāḥ**[[br]](एतस्याः) |
-| **idam**[[br]](इदम्) | **asmāt**[[br]](अस्मात्) | **asyāḥ**[[br]](अस्याः) |
+| **किम्** | **kasmāt**[[br]](कस्मात्) | **kasyāḥ**[[br]](कस्याः) |
+| **यद्** | **yasmāt**[[br]](यस्मात्) | **yasyāḥ**[[br]](यस्याः) |
+| **तद्** | **tasmāt**[[br]](तस्मात्) | **tasyāḥ**[[br]](तस्याः) |
+| **एतद्** | **etasmāt**[[br]](एतस्मात्) | **etasyāḥ**[[br]](एतस्याः) |
+| **इदम्** | **asmāt**[[br]](अस्मात्) | **asyāḥ**[[br]](अस्याः) |
 
 ::::
 
@@ -40,190 +46,242 @@ Pronombres interrogativos, relativos y demostrativos:
 
 Pāṇini 2,3,28 + 1,4,24
 
-El ablativo responde principalmente a las preguntas «¿De dónde?», «¿Por qué?».
+El ablativo se utiliza principalmente para responder a las preguntas "¿De dónde?", "¿Por qué?".
 
-1\. El ablativo designa, por tanto, el punto de partida, el origen y la materia:
+::: grammar-box
+1\. El ablativo designa por lo tanto el punto de partida, el origen y la materia.
 
-Ejemplos:
-
-> ग्रमादागच्छति = «Él viene de la aldea»
-> 
-> अश्वात्पतितः = «caído del caballo»
-> 
-> तेभ्यो लब्धम् = «recibido de ellos (de donde sea)»
-
-El ablativo puede, por consiguiente, designar también la persona de la cual se compra, se oye, se desea, etc., algo.
+El ablativo puede por lo tanto designar a la persona de la que se compra, escucha, desea, etc. algo.
+:::
 
 Ejemplos:
 
-> गुरोर्धर्मं शृणोति = «él oye al maestro acerca del Dharma»
-> 
-> ब्राह्मणः क्षत्रियाद्धेनुमिच्छति = «el brāhmaṇa desea una vaca lechera al kṣatriya»
+::: indent
+ग्रमादागच्छति = "Él viene del pueblo"
 
-2\. El ablativo se emplea con verbos que significan «abstenerse de», «proteger de», «defender contra», «temer a»:
+अश्वात्पतितः = "caído del caballo"
+
+तेभ्यो लब्धम् = "recibido de ellos (de aquí)"
+:::
+
+Ejemplos:
+
+::: indent
+गुरोर्धर्मं शृणोति = "él escucha del maestro sobre el Dharma"
+
+ब्राह्मणः क्षत्रियाद्धेनुमिच्छति = "el brahmán desea de un kṣatriya una vaca lechera"
+:::
+
+::: grammar-box
+2\. El ablativo se usa con verbos que significan "abstenerse de", "proteger de", "defender contra", "temer a":
+:::
 
 Ejemplo:
 
-> अरिभ्यो रक्षति = «él protege contra los enemigos»
+::: indent
+अरिभ्यो रक्षति = "él protege a los enemigos"
+:::
 
+::: grammar-box
 3\. El ablativo designa la razón o la causa:
+:::
 
 Ejemplos:
 
-> क्रोधात्पुत्रं हन्ति = «Él mata a su hijo por ira»
-> 
-> कृतपापत्वान्नरकं गच्छति = «Porque ha hecho el mal, va al infierno» («Porque es alguien por quien se ha hecho el mal»)
-> 
-> पापकरणान्नरकं गच्छति = «Porque hace/comete el mal, va al infierno»
+::: indent
+क्रोधात्पुत्रं हन्ति = "Él mata a su hijo por ira"
 
-Los sustantivos que no son femeninos pueden, para designar la razón de una acción, estar en instrumental (तृतीया) o en ablativo (पञ्चमी). Los femeninos, en este sentido, están por lo general en instrumental, pero pueden ocasionalmente estar también en ablativo.
+कृतपापत्वान्नरकं गच्छति = "Porque ha hecho el mal, va al infierno" (« Porque es alguien por quien se ha hecho el mal)
+
+पापकरणान्नरकं गच्छति = "Porque hace / hizo el mal, va al infierno"
+:::
+
+Los nombres que no son femeninos pueden, para designar la razón de una actividad, estar en instrumental (तृतीया) o ablativo (पञ्चमी). Los femeninos están en este sentido generalmente en instrumental, pero pueden ocasionalmente también estar en ablativo.
 
 ## 25.3. El sufijo -तस्
 
-Si se desea expresar en singular (de manera inequívoca) que la palabra se utiliza con significado ablativo, se puede añadir al radical de la palabra el sufijo **-तस्**, que forma adverbios con significado generalmente ablativo (respondiendo a la pregunta «¿De dónde?»):
+::: grammar-box
+Si se desea expresar en singular (de manera inequívoca) que la palabra se utiliza con significado ablativo, se puede añadir al radical de la palabra el sufijo -तस्, que forma adverbios con significado mayoritariamente ablativo (respondiendo a la pregunta "¿De dónde?"):
+:::
 
 Ejemplos:
 
-> आदितस् = «desde el principio»
-> 
-> धर्मतस् = «por el Dharma, a causa del Dharma»
+::: indent
+आदितस् = "desde el principio"
 
-El sufijo **-तस्** también se añade a los radicales pronominales:
+धर्मतस् = "por el Dharma, debido al Dharma"
+:::
 
-> तद् : ततस् (« ta-tas) «de allí, allí, hacia allí, sobre eso, entonces, por eso»
-> 
-> यद् : यतस् «de cuál, de qué, de dónde, dónde, hacia dónde, por qué, porque» (relativo)
-> 
-> किम् : कुतस् «¿de dónde?» «¿por qué?»
+::: grammar-box
+El sufijo -तस् también aparece en radicales pronominales:
+:::
 
-## 25.4. Otras formas de expresar fundamentos
+::: indent
+तद् : ततस् (« ta-tas) "de allí, allí, hacia allí, sobre eso, entonces, por eso"
 
-1\. Oraciones relativas
+यद् : यतस् "del cual, de lo cual, de dónde, dónde, hacia dónde, por qué, porque" (relativo)
 
-1\. Las oraciones relativas suelen expresar una relación causal (fundamentadora), consecutiva (consecuente) o final (teleológica) respecto a la oración principal.
+किम् :  कुतस् "¿de dónde?" "¿por qué?"
+:::
 
-Formas del pronombre relativo que funcionan como conjunción causal:
+## 25.4. Otras formas de expresar razones
+
+::: grammar-box
+**1\. Oraciones relativas**
+
+Las oraciones relativas a menudo expresan una relación causal (fundamentada), consecutiva (consecuente) o final (con propósito) con la oración principal.
+
+Formas del pronombre relativo que sirven como conjunción causal:
 
 *   ablativo:
-    *   यतस् ... oración subordinada ... ततस् ... oración principal ... = «porque ..., por eso ...»
-    *   यस्मात् ... oración subordinada ... तस्मात् ... oración principal ... = «porque ..., por eso ...»
+    *   यतस् ... oración subordinada ... ततस् ... oración principal ... = "ya que ..., por lo tanto ..."
+    *   यस्मात् ... oración subordinada ... तस्मात् ... oración principal ... = "ya que ..., por lo tanto ..."
 *   instrumental:
-    *   येन ... oración subordinada ... तेन ... oración principal ... = «por lo cual/puesto que ..., por ello / por eso ...»
+    *   येन ... oración subordinada ... तेन ... oración principal ... = "mediante lo cual / ya que ..., por ello / por eso ..."
+:::
 
 Ejemplo:
 
-> यतो (यस्माद् / येन) धर्ममिच्छति \[ततो (तस्माद् / तेन)\] रामो व्रतं चरति = «Puesto que Rāma desea la prosperidad, practica la observancia del voto»
+::: indent
+यतो (यस्माद् / येन) धर्ममिच्छति \[ततो (तस्माद् / तेन)\] रामो व्रतं चरति = "Debido a que Rāma desea la prosperidad, practica la promesa"
+:::
 
-2\. हि
+::: grammar-box
+**2\. हि**
 
-Las oraciones principales pueden conectarse mediante la partícula हि «pues, porque». Una oración con हि (que no puede ocupar la primera posición, sino que en prosa debe situarse en segunda posición) aporta una fundamentación ya sea para la oración precedente o para la subsiguiente:
-
-Ejemplo:
-
-> जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति = «Las personas realizan acciones meritorias. Quieren, pues, ir al cielo.»
-
-3\. Instrumental (तृतीया)
-
-3\. Además del ablativo (पञ्चमी), el instrumental (तृतीया) se emplea para indicar la razón o la causa. Con sustantivos femeninos, el instrumental es generalmente obligatorio.
+Las oraciones principales pueden conectarse entre sí mediante la partícula हि "pues, porque". Una oración con हि (que no puede estar en primera posición, sino que en prosa debe ocupar la segunda posición) indica una razón ya sea para la oración precedente o para la subsiguiente:
+:::
 
 Ejemplo:
 
-> क्रोधेन पुत्रं हन्ति = «Golpea a su hijo por ira» = «Golpea a su hijo en su ira»
+::: indent
+जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति = "La gente realiza méritos. Quieren, en efecto, ir al cielo."
+:::
 
-4\. Sustantivos
+::: grammar-box
+**3\. Instrumental (तृतीया)**
 
-4\. Por supuesto, también es posible expresar fundamentos mediante construcciones con
+Además del ablativo (पञ्चमी), se utiliza el instrumental (तृतीया) para expresar la razón o la causa. Con sustantivos femeninos, el instrumental es generalmente obligatorio.
+:::
 
-*   कारण n. «causa»: कारणात् । कारणेन
+Ejemplo:
+
+::: indent
+क्रोधेन पुत्रं हन्ति = "Golpea a su hijo por ira" = "Golpea a su hijo en su ira"
+:::
+
+::: grammar-box
+**4\. Sustantivos**
+
+Además, por supuesto, también se pueden expresar razones mediante construcciones con
+
+*   कारण n. "causa": कारणात् । कारणेन
 *   हेतु m.
-*   otros sustantivos con el significado de «causa»
+*   otros sustantivos con el significado de "causa"
 
-+ Genitivo (षष्ठी) o como segundo miembro de compuestos:
-
-Ejemplo:
-
-> पुण्यस्य कारणात् (हेतोः u.s.w.) = «por la causa de la meritocracia»
-
-5\. इति
-
-5\. El motivo de una acción puede expresarse como un pensamiento introducido por इति:
+\+ Genitivo (षष्ठी) o como segundo elemento de compuestos:
+:::
 
 Ejemplo:
 
-> सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति  = «Puesto que el Sugata ha despertado plenamente a la verdad, Ānanda pregunta a Gautama por su doctrina» (« Pensando: «El Sugata ha despertado plenamente a la verdad» ... »)
+::: indent
+पुण्यस्य कारणात् (हेतोः etc.) = "por la mérito"
+:::
 
-## 25.5. Lista de vocabulario
+::: grammar-box
+**5\. इति**
 
-त्यज् 1P त्यजति  abandonar, dejar, dejar en la estacada
+El motivo de una actividad se puede expresar como un pensamiento con इति:
+:::
 
-> Fut. त्यक्ष्यति  
-> Pass. त्यज्यते  
-> PPP त्यक्त  
-> Inf. त्यक्तुम्  
-> Absol. 2: -त्यज्य
-> 
-> de ello:
-> 
-> त्याग m.: abandono, renuncia, evitación
+Ejemplo:
+
+::: indent
+सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति  = "Dado que el Sugata ha despertado completamente a la verdad, Ānanda pregunta a Gautama sobre su doctrina" (« "Pensando "El Sugata ha despertado completamente a la verdad" ...)
+:::
+
+## 25.5. Lista de palabras
+
+त्यज् 1P त्यजति  abandonar, dejar, dejar en la estacada
+
+::: indent
+Fut. त्यक्ष्यति  
+Pas. त्यज्यते  
+PPP त्यक्त  
+Inf. त्यक्तुम्  
+Absol. 2: -त्यज्य
+
+de lo cual:
+
+त्याग m.: abandono, renuncia, evitación
+:::
 
 दार m. pl. (!!!): esposa
 
-द्रव्य n.: objeto, bienes, posesiones materiales, dinero
+द्रव्य n.: objeto, posesión, posesión material, dinero
 
-धान्य n.:  cereales trillados
+धान्य n.: granos trillados
 
 ::: media
 ![](/images/lekt2501.jpg)
 Fig.: धान्यम्
-(Fuente de la imagen: [Detalles](/licenses#lekt2501))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2501))
 :::
 
 
 धृ 1U धरति : sostener, retener
 
-> Fut. धरिष्यति  
-> Pass. ध्रियते  
-> PPP धृत  
-> Inf. धर्तुम्  
-> Absol. 2: -धृत्य
-> 
-> de ello:
-> 
-> धर्म m.: lo que es firme y sostiene = Dharma
+::: indent
+Fut. धरिष्यति  
+Pas. ध्रियते  
+PPP धृत  
+Inf. धर्तुम्  
+Absol. 2: -धृत्य
 
-नित्य ३ : constante, permanente, eterno
+de lo cual:
 
-> नित्यम् Adv.: siempre, constantemente, siempre
+धर्म m.: lo que es firme y sostiene = Dharma
+:::
+
+नित्य ३ : constantemente, permanente, eterno
+
+::: indent
+नित्यम् Adv.: siempre, constantemente, siempre
+:::
 
 प्रज्ञा f.:  sabiduría, conocimiento
 
-प्रदान n.: dar, donar; donación, ofrenda
+प्रदान n.: dar, donar; regalo, donación
 
-मद् 4 P माद्यति (!) : alegrarse, embriagarse con algo (Instr., Gen., Lok.)
+मद् 4 P माद्यति (!) : alegrarse, embriagarse con algo (Instr., Gen., Loc.)
 
-> Fut. मदिष्यति  
-> Pass. मद्यते  
-> PPP मत्त  
-> Inf. मदितुम्
-> 
-> de ello:
-> 
-> मद m.: embriaguez, placer sensorial = placer de los sentidos
+::: indent
+Fut. मदिष्यति  
+Pas. मद्यते  
+PPP मत्त  
+Inf. मदितुम्
 
-मान m.: estimación, reputación, fama, honor, orgullo, arrogancia, sentimiento de inferioridad; (uno se compara con otros)
+de lo cual:
+
+मद m.: embriaguez, embriaguez sensorial = placer sensorial
+:::
+
+मान m.: evaluación, reputación, fama, honor, orgullo, presunción, sentimiento de inferioridad; (uno se compara con otros)
 
 यदि Conjunción: si
 
 न्याय m.: regla, principio, método, juicio (jurídico), lógica (de ni + i +a)
 
-अन्यथा Adv.: de otra manera, de lo contrario, falsamente, incorrectamente
+अन्यथा Adv.: de otra manera, de otro modo, erróneamente, incorrectamente
 
 या 2P याति, यान्ति = गम्
 
-> Pass. यायते  
-> PPP यात  
-> Inf. यातुम्  
-> Absol. 2: -याय
+::: indent
+Pas. यायते  
+PPP यात  
+Inf. यातुम्  
+Absol. 2: -याय
+:::
 
 दारिद्र्य n. = दरिद्रस्य भावः
 
@@ -231,13 +289,15 @@ Fig.: धान्यम्
 
 शास् 2P शास्ति, शासति (3. pl.) : ordenar, enseñar, castigar
 
-> Pass. शिष्यते  
-> PPP शिष्ट ३ : erudito  
-> Absol 1.: शासित्वा / शिष्त्वा
-> 
-> de ello:
-> 
-> शिक्षा f.: ciencia, enseñanza; fonética
+::: indent
+Pas. शिष्यते  
+PPP शिष्ट ३ : enseñado  
+Absol 1.: शासित्वा / शिष्त्वा
+
+de lo cual:
+
+शिक्षा f.: ciencia, enseñanza; fonética
+:::
 
 स्तेन m.: ladrón
 
@@ -245,108 +305,116 @@ Fig.: धान्यम्
 
 किल्बिष n.: culpa, ofensa, pecado
 
-विना Posposición: sin, excepto (con Ac., Instr., Abl.)
+विना Posposición: sin, excepto (con Acus., Instr., Abl.)
 
 मूल n.: raíz
 
 ::: media
 ![](/images/lekt2502.jpg)
 Fig.: मूलानि
-(Fuente de la imagen: [Detalles](/licenses#lekt2502))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2502))
 :::
 
 
-लिप् 6U लिम्पति (!): untar, embadurnar
+लिप् 6U लिम्पति (!): untar, enmascarar
 
-> Fut. लेप्स्यति  
-> Pass. लिप्यते  
-> PPP लिप्त  
-> Inf. लेप्तुम्
-> 
-> de ello:
-> 
-> लिप्ति f.: untar, escribir, escritura
-> 
-> ::: media
-> ![](/images/lekt2503.jpg)
-> Fig.: लिप्तिः
-> (Fuente de la imagen: [Detalles](/licenses#lekt2503))
-> :::
+::: indent
+Fut. लेप्स्यति  
+Pas. लिप्यते  
+PPP लिप्त  
+Inf. लेप्तुम्
+
+de lo cual:
+
+लिप्ति f.: untar, escribir, escritura
+:::
+
+::: media
+![](/images/lekt2503.jpg)
+Fig.: लिप्तिः
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2503))
+:::
 
 
 वर्ष n.,m.: lluvia, temporada de lluvias, año
 
 वह् 1U वहति : conducir, viajar, soplar (viento)
 
-> Fut. वक्ष्यति  
-> Pass. उह्यते  
-> PPP ऊढ  
-> Inf. वोढुम्  
-> Absol 2: -उह्य
-> 
-> वह् + वि 1P विवहति : llevarse (a saber, la novia de la casa de sus padres) = casarse
-> 
-> de ello:
-> 
-> &gt; विवाह m.: llevarse, matrimonio de una mujer (Instr., saha) (para el matrimonio ver Basham, Wonder pp. 166-171)
+::: indent
+Fut. वक्ष्यति  
+Pas. उह्यते  
+PPP ऊढ  
+Inf. वोढुम्  
+Absol 2: -उह्य
+
+वह् + वि 1P विवहति : llevarse (a saber, la novia de la casa de los padres) = casarse
+
+de lo cual:
+
+विवाह m.: llevarse, matrimonio de una mujer (Instr., saha) (para el matrimonio ver Basham, Wonder p. 166 -171)
+:::
 
 ::: media
 ![](/images/lekt2504.jpg)
 Fig.: विवाहः
-(Fuente de la imagen: [Detalles](/licenses#lekt2504))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2504))
 :::
 
 
 नी + वि 1U विनयति : llevarse, instruir, educar
 
-> de ello:
-> 
-> विनय m.: remover, educar, disciplina, budista: disciplina monástica, derecho monástico
+::: indent
+de lo cual:
 
-विज्ञान n.: conocimiento, saber
+विनय m.: alejamiento, educación, disciplina, budista: disciplina monástica, derecho monástico
+:::
 
-विष्टि f.: trabajo, servicio obligatorio
+विज्ञान n.: conocimiento, cognición
+
+विष्टि f.: trabajo, servicio laboral
 
 ::: media
 ![](/images/lekt2505.jpg)
 Fig.: विष्टिः
-(Fuente de la imagen: [Detalles](/licenses#lekt2505))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2505))
 :::
 
 
 वृध् 1Ā वर्धते : crecer, hacerse más grande
 
-> Fut. वर्धिष्यते  
-> Pass. वृध्यते  
-> PPP वृद्ध : adulto, anciano, aumentado  
-> Inf. वर्धितुम्
-> 
-> de ello:
-> 
-> वृद्धि f.: crecimiento, crecimiento, grado de extensión (de: vṛdh-ti)
+::: indent
+Fut. वर्धिष्यते  
+Pas. वृध्यते  
+PPP वृद्ध : adulto, viejo, aumentado  
+Inf. वर्धितुम्
 
-सामर्थ्य n.: aquel que corresponde a su propósito
+de eso:
 
-स्वभाव m.: esencia, naturaleza, carácter
+वृद्धि f.: Crecimiento, crecimiento, grado de dilatación (de: vṛdh-ti)
+:::
 
-हर्ष m.: (erización del vello corporal), alegría
+सामर्थ्य n.: lo que corresponde a su propósito
+
+स्वभाव m.: Ser, naturaleza, carácter
+
+हर्ष m.: (Erectión del vello corporal), alegría
 
 हिरण्य ३ : dorado ; n.: oro, dinero, riqueza
 
 ::: media
 ![](/images/lekt2506.jpg)
 Fig.: हिरण्यम्
-(Fuente de la imagen: [Detalles](/licenses#lekt2506))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt2506))
 :::
 
 
-अणु ३ : fino, delicado, muy pequeño ; m.: átomo
+अणु ३ : delgado, fino, muy pequeño ; m.: átomo
 
-गोदान n.: dar vacas / una vaca ; segunda ceremonia de corte de cabello (un संस्कार)
+गोदान n.: Dar vacas / una vaca; segunda ceremonia de corte de cabello (un संस्कार)
 
 ## 25.6. Ejercicio
 
-A) Complete los ejemplos de declinación de la [Lección 16](lektion16.md), ejercicio de repaso A, añadiendo el 4. Dativo (चतुर्थी) y el 5. Ablativo (पञ्चमी). Forme además series de declinación con todas las formas aprendidas hasta ahora para
+A) Complete los ejemplos de declinación de [Lección 16](lektion16.md), ejercicio de repaso A, añadiendo 4. Dativo (चतुर्थी) y 5. Ablativo (पञ्चमी). Forme también series de declinación con todas las formas aprendidas hasta ahora para
 
 १. सन्त् (m., n.)
 
@@ -354,7 +422,7 @@ A) Complete los ejemplos de declinación de la [Lección 16](lektion16.md), ejer
 
 ३. यद् (m., n., f.)
 
-¡Aprenda estas paradigmas de declinación de memoria!
+¡Aprenda estas tablas de declinación de memoria!
 
 B) Traduzca y resuelva los compuestos en sánscrito:
 
@@ -390,7 +458,7 @@ B) Traduzca y resuelva los compuestos en sánscrito:
 
 अलं भयेन ॥१६॥
 
-लोकादधिको हरिः ॥१७॥ (हरि m. = विष्णु / कृष्ण)
+लोकादधिको हरिः ॥१७॥ (हरi m. = विष्णु / कृष्ण)
 
 ::: media
 ![](/images/lekt2507.jpg)
@@ -405,7 +473,7 @@ Fig.: लोकादधिको हरिः
 न वेत्ति दुःखमण्वपि ॥१॥
 
 ::: indent
-Explicación: सर्वतस् = sarva "cada, todos" + -tas ; अणु = Nom., Acus. sg. neutr.
+Explicación: सर्वतस् = sarva "cada uno, todos" + -tas ; अणु = Nom., Acus. sg. neut.
 :::
 
 मानाद्वा यदि वा लोभात्  
@@ -450,22 +518,23 @@ Explicación: राजा = Nom. sg. de राजन् m. = नृप
 ... ॥  
 कामक्रोधलोभमानमदहर्षत्यागा***त्कार्यः*** ॥१.६.१.॥
 
+
 Explicación de las palabras resaltadas en rojo en el texto anterior:
 
-1.5.1. तिस्रस् : Nom., Ac., fem. de त्रि "tres"
+1.5.1. तिस्रस् : sustantivo, acusativo, femenino, derivado de त्रि "tres"
 
-1.5.2. प्राणभृताम् : Gen. pl. m. de प्राणभृत् m. "seres vivos"
+1.5.2. प्राणभृताम् : genitivo plural masculino, derivado de प्राणभृत् m. "seres vivos"
 
-1.5.5. इतरम् Ac. sg. m. de इतर ३ "otro"
+1.5.5.  इतरम् Acusativo singular masculino, derivado de इतर ३ "otro"
 
-1.5.7. कर्मा : Nom. sg. m. de कर्मन् neutr. "acción, obra"; उपयुञ्जीत : Optativo 3. sg. Ā de upa-yuj 7 "apropiarse": "que se apropie"
+1.5.7. कर्मा : Nominativo singular masculino, derivado de कर्मन् neutro "acción, obra" ; उपयुञ्जीत : Optativo 3. sg. Ā derivado de upa-yuj 7 "apropiarse": "que él se apropie"
 
-1.5.8. वक्तृप्रयोक्तृभ्यस् Abl., Dat. pl. de वक्तृप्रयोक्तृ (इतरेतरद्वन्द्व) "teóricos y prácticos"
+1.5.8. वक्तृप्रयोक्तृभ्यस् Ablativo, Dativo plural, derivado de वक्त्र्प्रयोक्तृ (इतरेतरद्वन्द्व) "teóricos y prácticos"
 
 1.5.9. षोडश ३ : "decimosexto"
 
-1.5.10. कर्म Nom., Ac. sg. de कर्मन् n. "acción"
+1.5.10. कर्म Nominativo, Acusativo singular, derivado de कर्मन् n. "acción"
 
-1.5.16. धि Forma de Sandhi de हि ; आत्मवत्ता f.: "posesión de sí mismo"
+1.5.16. धि Forma de sandhi derivada de हि ; आत्मवत्ता f.: "autocontrol"
 
-1.6.1. कार्य ३ "lo que debe hacerse, lo que debe ser realizado"
+1.6.1. कार्य ३ "lo que debe ser hecho, lo que debe ser hecho"

@@ -1,6 +1,10 @@
 ---
+title: Lektion 38
+subtitle: "Losung der Woche"
 lesson_id: 38
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 38
@@ -39,56 +43,16 @@ Nach c- und j- wird -n- durch -ñ- ersetzt.
 ## 38.3. Deklination der Stämme auf -n
 
 ### 38.3.1. Nomina auf -an sowie Nomina auf -man bzw. -van nach Vokal
-
 ::: grammar-box
 Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei Stämme:
 
+| Stamm | -an | -man | -van | Verwendung |
+| :--- | :---: | :---: | :---: | :--- |
+| **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.[[br]]Nom., Akk., Vok. dual m. f.[[br]]Nom., Vok. pl. m. f.[[br]]Nom., Akk. pl. n. |
+| **Mittlerer Schwacher Stamm** | **-a**[[br]](aus -*n) | **-ma**[[br]](aus -*mn) | **-va**[[br]](aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung[[br]]Wahlweise auch Lok. sg. m. n. f. |
+| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
 
-  
-    
-      Starker Stamm
-      -ān
-      -mān
-      -vān
-      
-        Nom., Akk., Vok. sg. m. f. 
-        Nom., Akk., Vok. dual m. f. 
-        Nom., Vok. pl. m. f. 
-        Nom., Akk. pl. n.
-      
-    
-    
-      Mittlerer Schwacher Stamm
-      
-        -a 
-        (aus -*n)
-      
-      
-        -ma 
-        (aus -*mn)
-      
-      
-        -va 
-        (aus -*vn)
-      
-      
-        Übrige Kasus vor konsonantisch anlautender Endung 
-        Wahlweise auch Lok. sg. m. n. f.
-      
-    
-    
-      Schwächster Stamm
-      -n
-      -mn
-      -vn
-      
-        Übrige Kasus vor vokalisch anlautender Endung
-      
-    
-  
-
-
-Die Endungen sind regelmäßig. Der Nominativ Singular m. f. wird ohne auslautendes **-n** gebildet.
+**Die Endungen sind regelmäßig. Der Nominativ Singular m. f. wird ohne auslautendes -n gebildet.**
 :::
 
 Beispiele:
@@ -672,7 +636,6 @@ Erklärungen:
 युष्माकम् Gen.pl. zu यूयम्
 
 ::: deleteme-box
-### Quellen
 
 - **lekt3801.jpg**: Abb.: ... प्रज्ञा नश्यति मेहतः  Bangalore = ಬೆಂಗಳೂರು \[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
 - **lekt3802.jpg**: Abb.: सूर्यः  सूर्य मंदिर, Konark = कोनार्क \[Bildquelle: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Zugriff am 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]

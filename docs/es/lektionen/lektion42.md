@@ -5,17 +5,17 @@ last_reconstructed: 2026-05-21
 
 # Lección 42
 
-## 42.1. Temas en -ṛ
+## 42.1. Raíces en -ṛ
 
 ### 42.1.1. Raíces con grado alargado en la raíz fuerte
 
 ::: grammar-box
-Todos los masculinos en -ṛ, con excepción de las designaciones de parentesco mencionadas en 1.3. A esta categoría pertenecen también las siguientes designaciones de parentesco:
+Todos los masculinos en -ṛ con excepción de las designaciones de parentesco mencionadas en 1.3. A este grupo pertenecen también las designaciones de parentesco:
 
 *   **नप्तृ** m. "nieto"
-*   **भर्तृ** m. "esposo (literalmente: 'sustentador')"
+*   **भर्तृ** m. "esposo (literalmente: sostenedor)"
 
-La mayor parte de los sustantivos pertenecientes a esta categoría son nombres de agente formados con el sufijo -तृ de la clase कृत्.
+La mayor parte de los nombres pertenecientes a este grupo son nombres de agente con el sufijo कृत् -तृ.
 
 **Formación:**
 
@@ -24,7 +24,7 @@ La mayor parte de los sustantivos pertenecientes a esta categoría son nombres d
     *   **antes de vocal: -r**
     *   **antes de consonante: -ṛ**
 
-¡Tenga en cuenta las formaciones irregulares (marcadas en rojo)!
+¡Tenga en cuenta las formaciones irregulares (marcadas en ***rojo***)!
 :::
 
 Masculino:
@@ -35,44 +35,44 @@ Masculino:
 
 ::: grammar-box
 
-| | Singular | Plural |
+| | एकवचनम् | बहुवचनम् |
 | :--- | :--- | :--- |
-| nominativo | ***दाता*** | दातारस् |
-| acusativo | दातारम् | ***दातॄन्*** |
-| instrumental | दात्रा | दातृभिस् |
-| dativo | दात्रे | दातृभ्यस् |
-| ablativo | ***दातुस्*** | दातृभ्यस् |
-| genitivo | ***दातुस्*** | ***दातॄणाम्*** |
-| locativo | ***दातरि*** | दातृषु |
+| प्रथमा | ***दाता*** | दातारस् |
+| द्वितीया | दातारम् | ***दातॄन्*** |
+| तृतीया | दात्रा | दातृभिस् |
+| चतुर्थी | दात्रे | दातृभ्यस् |
+| पञ्चमी | ***दातुस्*** | दातृभ्यस् |
+| षष्ठी | ***दातुस्*** | ***दातॄणाम्*** |
+| सप्तमी | ***दातरि*** | दातृषु |
 
 :::
 
-Para la explicación de las formaciones irregulares, véase Thumb-Hauschild I,2, págs. 76-81.
+Para la explicación de las formaciones irregulares, véase Thumb-Hauschild I,2 p. 76 -81
 
 Femenino:
 
 ::: indent
-**स्वसृ** f. se declina como **दातृ**, con la excepción del acusativo (**द्वितीया**) en plural: ***स्वसॄस्***.
+**स्वसृ** f. se declina como **दातृ** con excepción del acusativo (**द्वितीया**) plural: ***स्वसॄस्***.
 :::
 
 ### 42.1.2. Formación nominal: Sufijo कृत् -तृ
 
 ::: grammar-box
-Con el sufijo कृत् -तृ, muy frecuente, se forman nomina agentis (designaciones para el कर्तृ) a partir de casi cualquier raíz o raíz causativa.
+Con el sufijo -तृ, muy frecuente, se forman nomina agentis (designaciones para el कर्तृ) a partir de casi cualquier raíz o raíz causativa.
 
 **Formación:**
 
-*   **Raíz en grado fuerte + -tṛ**
+*   **raíz en grado pleno + -tṛ**
 
 o bien
 
-*   **Raíz en grado fuerte / Raíz causativa + i + tṛ**
+*   **raíz en grado pleno / raíz causativa + i + tṛ**
 :::
 
 Ejemplos:
 
 ::: indent
-**कर्तृ** m. "Agente"
+**कर्तृ** m. "Actor"
 
 **जेतृ** m. "Vencedor"
 
@@ -80,84 +80,84 @@ Ejemplos:
 
 **रक्षितृ** m. "Protector"
 
-**बोधयितृ** m. "Avisador"
+**बोधयितृ** m. "Despertador"
 :::
 
 ::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Fig.: अयं बोधयिता
-(Fuente de la imagen: [Detalles](/licenses#lekt4201))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4201))
 :::
 
 ::: grammar-box
-Los neutros con -तृ, poco frecuentes, presentan una declinación parcialmente autónoma (véase Kielhorn, Grammatik § 148).
+Los neutros poco frecuentes en -तृ tienen una declinación parcialmente propia (véase Kielhorn, Grammatik § 148).
 
-El femenino de las bases en -तृ termina en **-त्री** (como **देवी**).
+El femenino de las raíces en -तृ termina en **-त्री** (como **देवी**).
 
-p. ej. **कर्त्री** f. "Agente (fem.)"
+p. ej. **कर्त्री** f. "Actora"
 :::
 
-### 42.1.3. Clases con grado fuerte en la raíz fuerte
+### 42.1.3. Troncos con grado pleno en la raíz fuerte
 
 ::: grammar-box
-A esta categoría pertenecen las siguientes designaciones de parentesco:
+A estos pertenecen las siguientes designaciones de parentesco:
 
-*   **पितृ** m. "padre"
-*   **मातृ** f. "madre"
-*   **दुहितृ** f. "hija"
-*   **भ्रातृ** m. "hermano"
-*   **देवृ** m. "cuñado (hermano de la esposa)"
-*   **यातृ** f. "cuñada (esposa del hermano de la esposa)"
-*   **ननान्दृ** f. "cuñada (hermana del esposo)"
+*   **पितृ** m. "Padre"
+*   **मातृ** f. "Madre"
+*   **दुहितृ** f. "Hija"
+*   **भ्रातृ** m. "Hermano"
+*   **देवृ** m. "Hermano del esposo (cuñado de la esposa)"
+*   **यातृ** f. "Esposa del hermano del esposo"
+*   **ननान्दृ** f. "Hermana del esposo (cuñada de la esposa)"
 
 **Formación:**
 
 *   **raíz fuerte: -ar**
 *   **raíz débil**
-    *   **ante vocal: -r**
-    *   **ante consonante: -ṛ**
+    *   **antes de vocal: -r**
+    *   **antes de consonante: -ṛ**
 :::
 
 Ejemplos:
 
 ::: indent
-**पितृ** m. "padre"
+**पितृ** m. "Padre"
 
-**मातृ** f. "madre"
+**मातृ** f. "Madre"
 :::
 
 ::: grammar-box
 
-| | पुंस् (singular masculino) | पुंस् (plural masculino) | स्त्री (singular femenino) | स्त्री (plural femenino) |
+| | पुंस् (एकवचनम्) | पुंस् (बहुवचनम्) | स्त्री (एकवचनम्) | स्त्री (बहुवचनम्) |
 | :--- | :--- | :--- | :--- | :--- |
-| nominativo | पिता | ***पितरस्*** | माता | ***मातरस्*** |
-| acusativo | ***पितरम्*** | पितॄन् | ***मातरम्*** | मातॄस् |
+| प्रथमा | पिता | ***पितरस्*** | माता | ***मातरस्*** |
+| द्वितीया | ***पितरम्*** | पितॄन् | ***मातरम्*** | मातॄस् |
 | Resto como दातृ | ← | ← | ← | ← |
 
 :::
 
-### 42.1.4. Las raíces en -ṛ en compuestos
+### 42.1.4. Raíces en -ṛ en compuestos
 
 ::: grammar-box
-Como primer miembro de un compuesto, los sustantivos terminados en -ṛ aparecen, por supuesto, en su forma de raíz débil, es decir:
+Como primer miembro de un compuesto, los nombres en -ṛ se encuentran, por supuesto, en su raíz débil, es decir:
 
-*   **ante consonante: -ṛ**
-*   **ante vocal: -r**
+*   **antes de consonante: -ṛ**
+*   **antes de vocal: -r**
 :::
 
-## 42.2. Lista de vocabulario
+## 42.2. Lista de palabras
 
-प्रकृति f.: (de कृ + प्र) forma fundamental, estado natural, naturaleza; materia primordial, sustancia original
+प्रकृति f.: (a कृ + प्र) forma fundamental, estado natural, naturaleza; materia primordial, sustancia original
 
-अर्जुन m. Nombre propio: Arjuna, uno de los cinco hijos de पण्डु. Héroe en el महाभारत (véase Basham, Wonder, págs. 409 - 414)
+अर्जुन m. nombre propio: Arjuna, uno de los cinco hijos de पण्डु. Héroe en el महाभारत (véase Basham, Maravilla, págs. 409 - 414)
 
-स्था + अव 1Ā अवतिष्ठते : abstenerse de, tomar distancia de, mantenerse alejado, permanecer, estar de pie
+स्था + अव 1Ā अवतिष्ठते : abstenerse de, alejarse, mantenerse alejado, permanecer, estar de pie
 
 ::: indent
-PPP अवस्थित 3: de pie, ubicado
+PPP अवस्थित 3: de pie, existente
 :::
 
-पुरा Adv.: en el pasado, anteriormente
+पुरा Adv.: una vez, antes
 
 अनेक 3: muchos (no algunos)
 
@@ -165,9 +165,9 @@ PPP अवस्थित 3: de pie, ubicado
 
 दूत m.: mensajero, enviado
 
-इष् (1,4,9) Caus. ***इष्***यति : enviar
+इष् (1,4,9) Caus. ***इष***यति : enviar
 
-सकाश m.: presencia, proximidad
+सकाश m.: presencia, presencia actual
 
 शर m.: caña de flecha, flecha
 
@@ -175,7 +175,7 @@ PPP अवस्थित 3: de pie, ubicado
 
 ज्ञा + प्रति 9U प्रतिजानाति : aprobar, prometer; Ā: responder, confirmar, afirmar, reconocer
 
-चल् 1P चलति : entrar en movimiento
+चल् 1P चलति : ponerse en movimiento
 
 ::: indent
 Fut. चलिष्यति  
@@ -222,21 +222,21 @@ Inf. शंसितुम्
 ::: media
 ![lekt4202.jpg](/images/lekt4202.jpg)
 Fig.: माता, पिता, पुत्रकः
-(Fuente de la imagen: [Detalles](/licenses#lekt4202))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4202))
 ::: 
 
-भर्तृ m. (de भृ "llevar, sostener"): Sustentador, proveedor, esposo
+भर्तृ m. (a भृ "llevar, mantener"): Conservador, Nutridor, Esposo
 
-भार्या f.,  जाया f.  पत्नी f.: Esposa (भार्या = gerundivo de भृ: la que debe ser llevada, la que debe ser sostenida, la con derecho a manutención)
+भार्या f., जाया f. पत्नी f.: Esposa (भार्या = gerundivo de भृ : La que debe ser llevada, la que debe ser mantenida, con derecho a sustento)
 
 पितृ m.: Padre
 
-पितृ m. Plural: los antepasados masculinos fallecidos, es decir:
+पितृ m. Plural: los antepasados masculinos fallecidos, es decir,
 
-1.  Padre, abuelo, bisabuelo
-2.  los antepasados fundadores de la humanidad
+1.  Padre, Abuelo, Bisabuelo
+2.  Los antepasados de la humanidad
 
-A estos se les realizan ritos, denominados श्राद्ध n. Diariamente se ofrecen agua y, en ciertas ocasiones, bolas de arroz o bolas de harina (पिण्ड m. "bolita") a tres antepasados masculinos por cada línea (paterna y materna). De este modo, se procura que los antepasados reciban alimento. La realización de esta ceremonia es una de las razones por las cuales un hombre debe procrear un hijo. Aquellos que están unidos mediante esta ofrenda de पिण्ड se denominan सपिण्ड (aquellos que comparten पिण्ड). सपिणtd abarca seis generaciones: tres hacia atrás (hasta el bisabuelo) y tres hacia adelante (hasta el bisnieto).
+Se realizan ritos para ambos, llamados श्राद्ध n. Diariamente se ofrecen a tres antepasados masculinos (por línea paterna y materna) agua y, en ocasiones especiales, bolas de arroz o bolas de harina (पिण्ड m. "bolitas") para que los antepasados reciban alimento. La ejecución de esta ceremonia es una de las razones por las cuales un hombre debe engendrar un hijo. Aquellos que están unidos mediante esta पिण्ड-oferta se llaman सपिण्ड (a quienes les es común पिण्ड). सपिण्ड abarca seis generaciones: tres hacia atrás (hasta el bisabuelo) y tres hacia adelante (hasta el bisnieto).
 
 तात m.: Papá
 
@@ -256,15 +256,15 @@ A estos se les realizan ritos, denominados श्राद्ध n. Diariamente 
 
 यातृ m.: Esposa del hermano del esposo
 
-ननान्दृ f.: Hermana del marido
+ननान्दृ f.: Hermana del hombre
 
-श्वसुर f.: Suegro (en tiempos antiguos: solo el de la mujer)
+श्वसुर f.: Suegro (en tiempos antiguos: solo de la mujer)
 
-श्वस्रू f.: Suegra (la declinación se tratará más adelante)
+श्वस्रू f.: Suegra (la declinación se verá más adelante)
 
 मातुल m.: Hermano de la madre (tío materno)
 
-मातुलानी f.: Esposa del hermano de la madre (cuñada del tío materno)
+मातुलानी f.: Esposa del hermano de la madre (esposa del tío materno)
 
 पितृव्य m.: Hermano del padre (tío paterno)
 
@@ -287,7 +287,7 @@ Traduzca:
 ::: media
 ![lekt4203.jpg](/images/lekt4203.jpg)
 Fig.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
-(Fuente de la imagen: [Detalles](/licenses#lekt4203))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4203))
 :::
 
 आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥
@@ -295,7 +295,7 @@ Fig.: कृष्णस्तस्य लोकस्य पिता मा�
 ::: media
 ![lekt4204.jpg](/images/lekt4204.jpg)
 Fig.: अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति ।
-(Fuente de la imagen: [Detalles](/licenses#lekt4204))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4204))
 :::
 
 कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥
@@ -314,84 +314,83 @@ Fig.: अर्जुनो रथे सीदति । कृष्णो ऽ
 
 ***सीता***विवाहः
 
-En tiempos antiguos, en ***मिथिलायां*** (Mithilā), reinaba un rey llamado ***जनको*** (Janaka). Él tenía una hija llamada सीता (Sītā). Ella era incomparable tanto en belleza como en virtud. Deseando casarse con ella, numerosos príncipes enviaron emisarios a Janaka.
+पुरा ***मिथिलायां*** ***जनको*** नाम राजा बभूव । तस्य सुता सीता नाम । सा रूपे शीले चानुपमा बभूव । तां परिणेतुमिछ्हन्तो ऽनेके राजकुमाराः जनकाय दूतान्प्रेषयामासुः ॥
 
-Sin embargo, Janaka deseaba entregarla a un príncipe kṣatriya dotado de valor. Por ello, dispuso que ella debía ser "adquirida" mediante una prueba de fuerza. Así pues: en su posesión había ***गुरुतरं*** (gurutaram, "muy pesado") ***धनुरा*** (dhanurā, "un arco"). Janaka juró que aquel que lograra tensar este arco y colocar una flecha en él, se casaría con su hija.
+जनकस्तु तां वीर्यसम्पन्नाय क्षत्रियकुमाराय दातुमैच्छत् । अतः स तां वीर्येण क्रेतव्यामकल्पयत् । तथा हि -- तस्य सकाशे ***गुरुतरं*** किमपि ***धनुरा***सीत् । य इदं धनुरुद्धृत्यास्मिन्शरं सन्धत्ते स मम सुतां परिणेष्यतीति जनकः प्रतिजज्ञे ॥
 
-Al escuchar esta promesa de Janaka, cientos de príncipes acudieron en masa. Sin embargo, ninguno de ellos logró incluso mover el arco. Se sabe que incluso ***लङ्का***धिपती (Lankādhipatī, el rey de Lanka), ***रावणो*** (Rāvaṇaḥ), regresó con gran orgullo herido y lleno de vergüenza.
+तां तस्य प्रतिज्ञां श्रुत्वा ***शतशो*** राजकुमाराः समाजग्मुः । परं नैको ऽपि तेषां तद्धनुश्चलयितुमपि शशाक । ***लङ्का***धिपती ***रावणो*** ऽपि साटोपं समेत्य सलज्जं प्रतिनिवृत्त इति ज्ञायते ॥
 
-Al ver regresar a todos los príncipes, Janaka cayó en la preocupación: «¿Quién será el esposo de mi hija?». En ese momento, el hijo del rey de ***ऽयोध्या*** (Ayodhyā), ***दशरथस्य*** (Daśarathasya), es decir, el señor ***श्री***रामः (Śrī Rāmaḥ), acompañado por ***सलक्ष्मणो*** (Salakṣmaṇaḥ, con Lakṣmaṇa), fue traído allí por ***विश्वामित्रेण*** (Viśvāmitreṇa, por Viśvāmitra). Por la orden del gran sabio ***विश्वामित्र*** (Viśvāmitra), Śrī Rāma tomó el arco con facilidad y, mientras colocaba la flecha en él, el arco se rompió en dos pedazos.
+सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे ***ऽयोध्या***धिपते***र्दशरथस्य*** पुत्रः श्री***रामः*** ***सलक्ष्मणो*** ***विश्वामित्रेण*** तत्रानीयत । श्री***रामो*** महर्षेर्***विश्वामित्र***स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥
 
 ::: media
 ![lekt4208.jpg](/images/lekt4208.jpg)
-Abb.: धनुर्द्वेधा भग्नं बभूव
-(Fuente de la imagen: [Detalles](/licenses#lekt4208))
+Fig.: धनुर्द्वेधा भग्नं बभूव
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4208))
 :::
 
-«¡Bien, bien!», todos alabaron el valor de Śrī Rāma.
+साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥
 
-El corazón del rey Janaka se llenó de alegría. Luego, invitando a Daśaratha y a los demás, celebró con gran esplendor la fiesta de la boda de ***सीतारामयोर्वि*** (Sītārāmayorvi, de Sītā y Rāma).
+जनकस्य राज्ञो हृदयं प्रहृष्टं बभूव । ततः स दशरथादीनानाय्य महता विभवेन ***सीतारामयोर्वि***वाहोत्सवं निरवर्तयन् ॥
 
-*(Sanskritapratamādarśa)*
+(संस्कृतप्रथमादर्शे)
 
-Explicación de las expresiones resaltadas en rojo:
+Explicación de las expresiones destacadas en ***rojo***:
 
-सीता f. Nombre propio: Hija del rey Janaka de Videha. Ella surgió de la tierra cuando el rey araba el campo por primera vez, de ahí su nombre: सीता f. "Surco del arado".
+सीता f. Nombre propio: hija del rey जनक de विदेह. Había salido de la tierra cuando el rey aró el campo, por eso su nombre: सीता f. "Surco del campo"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.jpg)
-Abb.: रामः, सीता, हनुमान्, लक्ष्मनः
-(Fuente de la imagen: [Detalles](/licenses#lekt4205))
+Fig.: रामः, सीता, हनुमान्, लक्ष्मनः
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4205))
 :::
 
-मिथिला f. Nombre propio: Capital de Videha.
+मिथिला f. Nombre propio: capital de विदेह
 
 ::: media
 ![lekt4206.jpg](/images/lekt4206.jpg)
-Abb.: मिथिला, विदेहः, अयोध्या, कोसलः
-(Fuente de la imagen: [Detalles](/licenses#lekt4206))
+Fig.: मिथिला, विदेहः, अयोध्या, कोसलः
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4206))
 :::
 
-जनक m. Nombre propio: Rey de Videha.
+जनक m. Nombre propio: rey de विदेह
 
-गुरुतर 3: Comparativo de गुरु 3: pesado, muy pesado.
+गुरुतर 3: Comparativo de गुरु 3: más pesado, muy pesado
 
-धनुस् Nom.Akk.sg.n. de धनुस् n. "Arco".
+धनुस् Nom.Acu.sg.n. de धनुस् n. "Arco"
 
-शतशस् Adv.: cientos.
+शतशस् Adv.: a cientos
 
-लङ्का f. Nombre propio: Se identifica con la actual Sri Lanka (ශ්‍රී ලංකාව / இலங்கை).
+लङ्का f. Nombres propios: se identifica con la actual Sri Lanka (ශ්‍රී ලංකාව / இலங்கை)
 
-रावण m. Nombre propio: Rey de Lankā, gobernante de los rākṣasa.
+रावण m. Nombres propios; gobernante de लङ्का, gobernante de los राक्षस.
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.jpg)
-Abb.: रावणः
-(Fuente de la imagen: [Detalles](/licenses#lekt4207))
+Fig.: रावणः
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4207))
 :::
 
-अयोध्या f. Nombre propio: Capital de Kośala (¡ver mapa arriba!).
+अयोध्या f. Nombres propios: capital de कोसल (¡ver mapa arriba!)
 
-दशरथ m. Nombre propio: Rey de Kośala.
+दशरथ m. Nombre propio: rey de कोसल
 
-राम m. Nombre propio: Hijo de Daśaratha.
+राम m. Nombre propio: hijo de दशरथ
 
-लक्ष्मन m. Nombre propio: Hijo de Daśaratha.
+लक्ष्मन m. Nombre propio: hijo de दशरथ
 
-विश्वामित्र m. Nombre propio: ṛṣi (sabio), llevó a Rāma y Lakṣmaṇa para matar demonios; por ello, estos reciben de él armas mágicas.
+विश्वामित्र m. Nombre propio: ऋषि, se puso राम y लक्ष्मन para matar demonios; por ello recibe de él armas mágicas.
 
-सीतारामयोस् Gen.Lok.Dual de सीताराम (Sītārāma).
+सीतारामयोस् Gen.Loc.Dual de सीताराम
 
 ::: deleteme-box
 
-### Fuentes
 
 * **Fig. lekt4201**: अयं बोधयिता. (Fuente de la imagen: Wikipedia. Dominio público)
-* **Fig. lekt4202**: माता, पिता, पुत्रकः. El Diwan-i-Khas, o Sala de Audiencias Privadas, en el Lal Qila (Fuerte Rojo) de Delhi. (Fuente de la imagen: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Acceso el 2009-01-04. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual))
+* **Fig. lekt4202**: माता, पिता, पुत्रकः. El Diwan I Khas, o Sala de Audiencias Privadas en el Lal Qila (Fuerte Rojo) en Delhi. (Fuente de la imagen: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Acceso el 2009-01-04. -- Licencia Creative Commons (Atribución, no uso comercial, compartir igual))
 * **Fig. lekt4203**: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Fuente de la imagen: Wikipedia. Dominio público)
 * **Fig. lekt4204**: अर्जुनो रथे सीदti । कृष्णो ऽस्य रथवाहो ऽस्ति । (रथ m. carro). (Fuente de la imagen: Wikipedia. Dominio público)
-* **Fig. lekt4205**: रामः, सीता, हनुमान्, लक्ष्मनः. Siglo XVII. (Fuente de la imagen: Wikipedia. Dominio público)
-* **Fig. lekt4206**: Ubicación de मिथिला y विदेह, अयोध्या y कोसल. (Fuente de la imagen: JIJITH NR / Wikipedia. Licencia GNU FDL)
-* **Fig. lekt4207**: रावणः. Máscara de la danza Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟक). (Fuente de la imagen: Manohara Upadhya / Wikipedia. Licencia GNU FDL)
+* **Fig. lekt4205**: रामः, सीता, हनुमान्, लक्ष्मनः. Siglo XVII. (Fuente de la imagen. Wikipedia. Dominio público)
+* **Fig. lekt4206**: Ubicación de मिथिला y विदेह, अयोध्या y कोसल. (Fuente de la imagen: JIJITH NR / Wikipedia. Licencia GNU FD)
+* **Fig. lekt4207**: रावणः. Máscara de danza Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Fuente de la imagen: Manohara Upadhya / Wikipedia. Licencia GNU FD)
 * **Fig. lekt4208**: धनुर्द्वेधा भग्नं बभूव. Imagen de राजा रवि वर्मा (1848 - 1906). (Fuente de la imagen: Wikipedia. Dominio público)
 :::

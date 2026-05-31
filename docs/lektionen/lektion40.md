@@ -1,6 +1,10 @@
 ---
+title: Lektion 40
+subtitle: "सुभाषितानि"
 lesson_id: 40
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 40
@@ -693,7 +697,6 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 38.  आहन्
 
 ::: deleteme-box
-### Quellen
 
 - **Image lekt4005.jpg** (Abb.: पादं सब्रह्मचारिभ्यः): Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம் [Bildquelle: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, share alike)]
 - **Image lekt4003.jpg** (Abb.: हरिद्वारे तीर्थम्): [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)]

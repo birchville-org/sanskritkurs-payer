@@ -138,6 +138,9 @@ export default {
       app.component('PayerRelatedLessons', PayerRelatedLessons)
       
       if (typeof window !== 'undefined') {
+          // Suche: Detailansicht immer einschalten
+          localStorage.setItem('vitepress:local-search-detailed-list', 'true');
+
           console.log("Sanskrit-Akkordeon: Aktiviert");
           
           // Automatische Erkennung für Split-Viewer (Embedded Mode)

@@ -4,28 +4,28 @@ lesson_id: 32
 status: stable
 ---
 
-# Lektion 32
+# Lezione 32
 
-## 32.1. Die Vergangenheitstempora
+## 32.1. I tempi del passato
 
 :::: grammar-box
-**Nella letteratura sanscrita più antica e secondo i grammatici indiani, i tre tempi del passato sono distinti chiaramente nel loro utilizzo:**
+**Nella letteratura sanscrita più antica e tra i grammatici indigeni, i tre tempi del passato sono chiaramente distinti nel loro uso:**
 
-*   **l’aoristo (लुङ् , अद्यतनी) indica semplicemente il compimento di un’azione, oppure ciò che è accaduto nel giorno corrente, il passato recente**
-*   **l’imperfetto (लङ्) indica ciò che è accaduto prima del giorno corrente, il passato remoto**
-*   **il perfetto (लिट्) indica, come l’imperfetto, il passato remoto, ma, a differenza dell’imperfetto, viene utilizzato solo per eventi che il parlante stesso non ha visto**
+*   **l'Aoristo (लुङ्, अद्यतनी) indica semplicemente il completamento di un'azione o ciò che è accaduto durante il giorno corrente, il passato recente**
+*   **l'Imperfetto (लङ्) indica ciò che è accaduto prima del giorno corrente, il passato remoto**
+*   **il Perfetto (लिट्) indica, come l'Imperfetto, il passato remoto, ma, a differenza dell'Imperfetto, è usato solo per eventi che il parlante stesso non ha visto**
 
-**Nella letteratura sanscrita classica, i tre tempi del passato sono utilizzati senza differenza di significato (eccetto: la poesia artistica di Bhāravi, किरातार्जुनीय).**
-::::
+**Nella letteratura sanscrita classica, i tre tempi del passato sono usati senza distinzione di significato (eccezione: la poesia di भारवि किरातार्जुनीय).**
+::::**
 
-## 32.2. Das Imperfetto (लङ्)
+## 32.2. L’imperfetto (लङ्)
 
 :::: grammar-box
 **Formazione:**
 
-**Augmento a- + tema del presente + desinenza secondaria**
+**Augmento a- + tema del presente + desinenze secondarie**
 
-**Le tre persone del singolare dell’imperfetto attivo (Parasmaipada) si formano, per le radici atematiche, dal tema forte del presente; tutte le altre forme si formano dal tema debole del presente.**
+**Le tre persone del singolare del Parasmaipada all’imperfetto si formano, per le radici atematiche, dal tema del presente forte; tutte le altre forme dal tema del presente debole.**
 
 **L’imperfetto ha solo l’indicativo.**
 ::::
@@ -33,17 +33,17 @@ status: stable
 Esempi:
 
 ::: indent
-**भू** 3. sg. Imp. Att. **अभवत्** (a-bhava-t)
+**भू** 3. sg. Imp. P. **अभवत्** (a-bhava-t)
 
 **सु**
-*   3. sg. Imp. Att. **असुनोत्** (a-suno-t)
-*   3. pl. Imp. Att. **असुन्वन्** (a + sunu + an)
+*   3. sg. Imp. P. **असुनोत्** (a-suno-t)
+*   3. pl. Imp. P. **असुन्वन्** (a + sunu + an)
 :::
 
-## 32.3. Regeln für das Augment
+## 32.3. Regole per l'augmento
 
 :::: grammar-box
-**1. Se l’augmento a- precede una radice che inizia per vocale, l’augmento e l’iniziale della radice si fondono nella vṛddhi della vocale radice.**
+**1. Quando l'augmenta a- precede una radice che inizia con una vocale, l'augmenta e l'inizio della radice si fondono nella वृद्धि della vocale radicale.**
 ::::
 
 Esempi:
@@ -59,7 +59,7 @@ Esempi:
 ::::
 
 :::: grammar-box
-**2. Se le preposizioni verbali precedono una radice, l’augmento a- si colloca dopo le preposizioni verbali, immediatamente prima della radice.**
+**2. Quando le preposizioni precedono una radice, l'augmenta a- segue le preposizioni e precede immediatamente la radice.**
 ::::
 
 Esempi:
@@ -75,53 +75,53 @@ Esempi:
 
 ::::
 
-## 32.4. Esempi für die Imperfettobildung
+## 32.4. Esempi di formazione dell'imperfetto
 
 ::: important
-**Per dimostrare la formazione delle forme, vengono qui generate anche forme Ātmanepada per radici Parasmaipada! Queste forme artificiali sono racchiuse tra i simboli &lt; &gt;.**
+**Per dimostrare la formazione delle forme, vengono qui generate anche forme ātmanepada da radici parasmaipada! Queste forme artificiali sono racchiuse tra &lt; &gt;.**
 :::
 
-### 32.4.1. Thematische Presenteklassen
+### 32.4.1. Classi tematiche del presente
 
 :::: grammar-box
 
-| Presenteklasse | Radice[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
-| :--- | :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| 1. | भू | अभवत् | अभवन् | &lt;अभवत&gt; | &lt;अभवन्त&gt; | <!-- TODO: Fallback translation -->
-| 4. | नृत् | अनृत्यत् | अनृत्यन् | &lt;अनृत्यत&gt; | &lt;अनृत्यन्त&gt; | <!-- TODO: Fallback translation -->
-| 6. | विश् | अविशत् | अविशन् | &lt;अविशत&gt; | &lt;अविशन्त&gt; | <!-- TODO: Fallback translation -->
-| 10. / Kaus. | चुर् | अचोरयत् | अचोरयन् | अचोरयत | अचोरयन्त | <!-- TODO: Fallback translation -->
-| Passiv | गम् | अगम्यत | अगम्यन्त | | | <!-- TODO: Fallback translation -->
+| Classe del presente | Radice[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1. | भू | अभवत् | अभवन् | &lt;अभवत&gt; | &lt;अभवन्त&gt; |
+| 4. | नृत् | अनृत्यत् | अनृत्यन् | &lt;अनृत्यत&gt; | &lt;अनृत्यन्त&gt; |
+| 6. | विश् | अविशत् | अविशन् | &lt;अविशत&gt; | &lt;अविशन्त&gt; |
+| 10. / Caus. | चुर् | अचोरयत् | अचोरयन् | अचोरयत | अचोरयन्त |
+| Passivo | गम् | अगम्यत | अगम्यन्त | | |
 
 ::::
 
-### 32.4.2. Athematische Presenteklassen
+### 32.4.2. Classi di presente atematico
 
 :::: grammar-box
 
-| Presenteklasse | Radice[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
-| :--- | :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| 2. | द्विष् | अद्वेट्[[br]](adveṣṭ &gt; adveṣ &gt; adveṭ) | अद्विषन्[[br]]अद्विषुर् | अद्विष्ट | अद्विषत | <!-- TODO: Fallback translation -->
-| 2. | दुह् | अधोक्[[br]](a + doh + t &gt; adogdh &gt; adhok) | अदुहन् | अदुग्ध | अदुहत | <!-- TODO: Fallback translation -->
-| 2. | इ | ऐत् | आयन् | | | <!-- TODO: Fallback translation -->
-| 2. | हन् | अहन्[[br]](aus *ahant) | अघ्नन् | | | <!-- TODO: Fallback translation -->
-| 2. | स्तु | अस्तौत्[[br]]अस्तवीत् | अस्तुवन् | अस्तुत | अस्तुवत | <!-- TODO: Fallback translation -->
-| 2. | अस् | आसीत् | आसन् | | | <!-- TODO: Fallback translation -->
-| 5. | सु | असुनोत् | असुन्वन् | असुनुत | असुन्वत | <!-- TODO: Fallback translation -->
-| 5. | आप् | आप्नोत् | आप्नुवन् | &lt;आप्नुत&gt; | &lt;आप्नुवत&gt; | <!-- TODO: Fallback translation -->
-| 8. | तन् | अतनोत् | अतन्वन् | अतनुत | अतन्वत | <!-- TODO: Fallback translation -->
-| 8. | कृ | अकरोत् | अकुर्वन् | अकुरुत | अकुर्वत | <!-- TODO: Fallback translation -->
-| 7. | युज् | अयुनक्[[br]](a-yunaj + t &gt; ayunakt &gt; ayunak) | अयुञ्जन् | अयुङ्क्त[[br]](a-yuñj + ta) | अयुञ्जत | <!-- TODO: Fallback translation -->
-| 7. | रुध् | अरुणत्[[br]](a-ruṇadh + t &gt; aruṇaddh &gt; aruṇat) | अरुन्धन् | अरुन्द्ध | अरुन्धत | <!-- TODO: Fallback translation -->
-| 9. | क्री | अक्रीणात्[[br]](a-krīṇā-t) | अक्रीणन्[[br]](a-krīṇ-an) | अक्रीणीत[[br]](a-krīṇī-ta) | अक्रीणत[[br]](a-krīṇ-ata) | <!-- TODO: Fallback translation -->
+| Classe di presente | Radice[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 2. | द्विष् | अद्वेट्[[br]](adveṣṭ &gt; adveṣ &gt; adveṭ) | अद्विषन्[[br]]अद्विषुर् | अद्विष्ट | अद्विषत |
+| 2. | दुह् | अधोक्[[br]](a + doh + t &gt; adogdh &gt; adhok) | अदुहन् | अदुग्ध | अदुहत |
+| 2. | इ | ऐत् | आयन् | | |
+| 2. | हन् | अहन्[[br]](da *ahant) | अघ्नन् | | |
+| 2. | स्तु | अस्तौत्[[br]]अस्तवीत् | अस्तुवन् | अस्तुत | अस्तुवत |
+| 2. | अस् | आसीत् | आसन् | | |
+| 5. | सु | असुनोत् | असुन्वन् | असुनुत | असुन्वत |
+| 5. | आप् | आप्नोत् | आप्नुवन् | &lt;आप्नुत&gt; | &lt;आप्नुवत&gt; |
+| 8. | तन् | अतनोत् | अतन्वन् | अतनुत | अतन्वत |
+| 8. | कृ | अकरोत् | अकुर्वन् | अकुरुत | अकुर्वत |
+| 7. | युज् | अयुनक्[[br]](a-yunaj + t &gt; ayunakt &gt; ayunak) | अयुञ्जन् | अयुङ्क्त[[br]](a-yuñj + ta) | अयुञ्जत |
+| 7. | रुध् | अरुणत्[[br]](a-ruṇadh + t &gt; aruṇaddh &gt; aruṇat) | अरुन्धन् | अरुन्द्ध | अरुन्धत |
+| 9. | क्री | अक्रीणात्[[br]](a-krīṇā-t) | अक्रीणन्[[br]](a-krīṇ-an) | अक्रीणीत[[br]](a-krīṇī-ta) | अक्रीणत[[br]](a-krīṇ-ata) |
 
 ::::
 
-## 32.5. Lessico
+## 32.5. Elenco di parole
 
-**अग्र n.:** Punta, estremità più lontana
+**अग्र n.:** Punta, estremità
 
-**मही f.:** Terra, suolo (letteralmente: la Grande)
+**मही f.:** Terra, fondamento e suolo (letteralmente: la Grande)
 
 **एकदा**
 
@@ -143,7 +143,8 @@ Esempi:
 ::: media
 ![](/images/lekt3202.jpg)
 Fig.: चूतः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3202))
+Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3202))
 :::
 
 **तरु** **वृक्ष**
@@ -179,7 +180,8 @@ Fig.: चूतः
 ::: media
 ![](/images/lekt3203.jpg)
 Fig.: वानराः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3203))
+Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3203))
 :::
 
 **लोक् लोकयति**
@@ -200,7 +202,8 @@ Fig.: वानराः
 ::: media
 ![](/images/lekt3204.jpg)
 Fig.: उपलाः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3204))
+Cava di pietra a sud di Pune, Maharashtra. [Fonte immagine: lecercle / Flickr. CC BY-NC-SA]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3204))
 :::
 
 **लक्ष्य**
@@ -208,7 +211,8 @@ Fig.: उपलाः
 ::: media
 ![](/images/lekt3205.jpg)
 Fig.: लक्ष्यम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3205))
+Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlogelin / Flickr. CC BY-NC]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3205))
 :::
 
 **क्षिप् क्षिपति**
@@ -234,7 +238,8 @@ Fig.: लक्ष्यम्
 ::: media
 ![](/images/lekt3207.jpg)
 Fig.: चितं गोमयं दहति
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3207))
+Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine: thebigdurian / Flickr. CC BY-NC-SA]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3207))
 :::
 
 **चि अव**
@@ -248,12 +253,13 @@ Fig.: चितं गोमयं दहति
 ::: media
 ![](/images/lekt3206.jpg)
 Fig.: कौशलम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3206))
+Pittura di mehndi sulle mani a Mumbai. [Fonte immagine: the_gman / Flickr. CC BY-NC-SA]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3206))
 :::
 
 ## 32.6. Esercizio
 
-A) Determinare le seguenti forme verbali e formare le forme dell’Imperfetto corrispondenti per persona, numero e genere verbale:
+A) Determinare le seguenti forme verbali e formare le corrispondenti forme dell'imperfetto in persona, numero e genere verbale:
 
 1. हरि्ष्यन्ते
 2. घातयति
@@ -331,7 +337,7 @@ A) Determinare le seguenti forme verbali e formare le forme dell’Imperfetto co
 74. प्रजानीते
 75. जीवन्ति
 
-B) Tradurre e scomporre i composti in sanscrito:
+B) Tradurre e risolvere i composti in sanscrito:
 
 आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥
 
@@ -346,12 +352,13 @@ B) Tradurre e scomporre i composti in sanscrito:
 ::: media
 ![](/images/lekt3208.jpg)
 Fig.: बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3208))
+Monaco buddhista nello Sri Lanka. [Fonte immagine: Trollderella / Wikipedia. GNU FDL]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3208))
 :::
 
-## 32.7. Esercizio zur Wiederholung über die Weihnachtsferien
+## 32.7. Esercizio di ripasso durante le vacanze di Natale
 
-Nota: questa lezione veniva originariamente tenuta presso l'Università di Tubinga nel semestre invernale. Con la Lezione 32 iniziavano le vacanze di Natale di due settimane.
+Nota: originariamente questa lezione veniva tenuta presso l'Università di Tubinga in ogni semestre invernale. Con la Lezione 32 iniziarono le vacanze di Natale di due settimane.
 
 A) Determinare e tradurre le seguenti parole:
 
@@ -440,7 +447,7 @@ A) Determinare e tradurre le seguenti parole:
 83. अध्यापयति
 84. वाचयन्ति
 
-B) Esercitazione sul Sandhi: inserire nelle seguenti frasi le parole tra parentesi. Prestare particolare attenzione al Sandhi:
+B) Esercizio di Sandhi: Inserire le parole tra parentesi nelle seguenti frasi. Prestare particolare attenzione allo Sandhi:
 
 १. रामो ग्रामात् ... (द्वितीया विभक्तिः) ... गच्छति । (नगर । आर्यग्राम । महानगर । शत्रुग्राम । जयनगर । लोकेश्वरनगर । कविगृह )
 
@@ -462,39 +469,39 @@ B) Esercitazione sul Sandhi: inserire nelle seguenti frasi le parole tra parente
 
 C) Tradurre in Sanscrito:
 
-1. Dopo che il figlio è nato, la donna brahmana invia un servo al brahmano. Il brahmano fa entrare questo servo in casa e poi chiede del figlio. Il servo dice che il figlio sta bene. All'udire ciò, il brahmano si rallegra.
+1. Dopo che il figlio è nato, la donna brāhmaṇī invia un servitore al brāhmaṇo. Il brāhmaṇo lascia entrare questo servitore nella casa e poi chiede del figlio. Il servitore dice che il figlio sta bene. Quando ha sentito questo, il brāhmaṇo diventa felice.
 
-2. Il Santo ha sopportato il male (a lui) fatto.
+2. Il santo ha sopportato il male (a lui) fatto.
 
 3. La virtù è l'ornamento dell'uomo.
 
-4. I potenti guerrieri sono andati al villaggio brahmanico.
+4. I potenti guerrieri sono andati al villaggio dei brāhmaṇi.
 
-5. La bambina piange.
+5. La ragazza piange.
 
-6. Non c'è malattia uguale al piacere sensuale, non c'è nemico uguale alla confusione, non c'è fuoco uguale alla collera, non c'è felicità uguale alla conoscenza.
+6. Non c'è malattia uguale al piacere sensuale, non c'è nemico come la confusione, non c'è fuoco come la collera, non c'è felicità come la conoscenza.
 
 7. Un uomo protetto dalla dea è felice.
 
-8. Qualunque vento faccia cadere una nuvola d'acqua (वारि n.), con quel vento un doto muove il suo ombrello.
+8. Con quale vento una nuvola lasci cadere acqua (वारि f.), con quello stesso vento uno studioso muove il suo ombrello.
 
-9. Non esistono attività produttive proprie delle caste, delle fasi della vita, ecc.
+9. Non vi sono attività fruttuose di caste, stadi di vita, ecc.
 
 10. Il ciclo delle rinascite non ha inizio.
 
-11. È tempo di dedicarsi al pasto.
+11. È tempo di dedicarsi al mangiare.
 
-12. Benvenuta la Regina.
+12. Benvenuto della regina.
 
-13. Per amore del cielo, gli uomini compiono azioni meritorie.
+13. Per il cielo le persone compiono azioni meritorie.
 
-14. Un uomo che emette una sentenza falsa per superbia, avidità, ira o paura, va all’inferno.
+14. Un uomo, che per superbia, avidità, ira o paura emette ingiustamente un verdetto, va all'inferno.
 
-15. Rāma, su ordine del maestro, uscì dal villaggio per recarsi in città, entrò nella casa dell’uomo sacro, si presentò riverente al Santo e disse: «Abbandona l’ira!».
+15. Rāma, su ordine dell'insegnante, uscì dal villaggio per recarsi in città, entrò nella casa dell'uomo santo, si presentò riverente al Santo e disse: "Abbandera l'ira!"
 
-16. La sua associazione con coloro che sono cresciuti nelle scienze sia sempre tale, affinché la sua educazione/comportamento corretto cresca. (Questo) poiché l’educazione/comportamento corretto ha come radice questa (associazione con costoro).
+16. Sia sempre (la sua) connessione con coloro che sono cresciuti nelle scienze, affinché la sua educazione/comportamento buono cresca. (Questo) perché l'educazione/comportamento buono ha come radice questo (la connessione con coloro).
 
-17. Finché il maestro è in piedi, il ragazzo non deve sedersi.
+17. Mentre l'insegnante è in piedi, il ragazzo non deve sedersi.
 
 18. Non vi è rifugio migliore di Rāma.
 
@@ -502,65 +509,65 @@ C) Tradurre in Sanscrito:
 
 20. Govinda fa cuocere il riso a Devadatta.
 
-21. Il Dharma degli Arii è che i giovani Brāhmaṇi studino ripetutamente le sezioni del Veda e dello Smṛti.
+21. Il Dharma degli Arii è che i giovani Bramini studino ripetutamente le sezioni del Veda e della Smṛti.
 
-22. Il maestro insegnò il Veda ai ragazzi e poi si recò nella casa.
+22. L'insegnante insegnò ai ragazzi il Veda e poi andò a casa.
 
 23. Quale amuleto ha protetto la ragazza?
 
-24. La verità è la lanterna del mondo.
+24. La verità è la lampada del mondo.
 
 25. Di chi sono queste case?
 
-26. Il Dharma di tutti è: non violenza, verità, purezza, assenza di invidia, assenza di malvagità e pazienza.
+26. Il Dharma di tutti è: non nuocere, verità, purezza, invidia, non-malvagità e pazienza.
 
-27. I Kṣatriya che hanno sconfitto i nemici siedono nella casa.
+27. I Kṣatriyas, che hanno sconfitto i nemici, sedono nella casa.
 
-28. Quella è una (vera) consorte che parla d’amore; ma quello è un (vero) figlio che vive. Vive chi possiede buone qualità; vive chi possiede il Dharma.
+28. Quella è una (vera) consorte, che parla d'amore; ma quello è un (vero) figlio, che vive. Vive, chi possiede buone qualità; vive, chi possiede il Dharma.
 
-29. Il signore degli dèi sconfigge i non-Arii, nemici di Indra. (Passivo)
+29. Il principe degli dei sconfigge i non-Arii, nemici di Indra. (Passivo)
 
-30. Lo Yoga dell’azione è l’ascetismo (tapas n.), la recitazione del (Veda), la devozione verso il SIGNORE. Egli favorisce lo sviluppo della concentrazione meditativa e l’indebolimento dei kleśa.
+30. Lo Yoga dell'azione è l'ascetismo (tapas n.), la recitazione (del Veda), la servitù verso il SIGNORE. Egli serve lo sviluppo della meditazione contemplativa e l'indebolimento dei kleśas.
 
-31. Assunzione di cibo, sonno, paura e accoppiamento: questa è una caratteristica comune degli uomini e degli animali. Nel Dharma risiede infatti la loro peculiarità aggiuntiva. Abbandonati al Dharma, essi sono uguali agli animali (Istr.).
+31. Assunzione di cibo, sonno, paura e accoppiamento: questa è una comunanza degli uomini con gli animali. Nel Dharma (si trova) infatti la loro peculiarità aggiuntiva. Abbandonati dal Dharma, essi sono uguali agli animali (Istr.).
 
 32. Le persone nascono per morire.
 
-33. Gli inferni esistono a causa del male. Il male ha come origine la povertà. La povertà nasce dalla non-elargizione.
+33. Gli inferni sono a causa del male. Il male ha come origine la povertà. La povertà nasce dalla non-dazione.
 
-34. È Dharma dei Kṣatriya che i Kṣatriya proteggano le persone dai nemici.
+34. È Dharma dei Kṣatriyas che i Kṣatriyas proteggano le persone dai nemici.
 
-35. Pertanto, le tre (tisras) scienze hanno il governo come radice. Il governo, che ha come radice l’educazione/comportamento corretto, reca vantaggio e possesso sicuro agli esseri viventi (प्राणभृत्).
+35. Pertanto le tre (tisras) scienze hanno il governo come radice. Il governo, che ha come radice l'educazione/comportamento buono, porta agli esseri viventi (प्राणभृत्) guadagno e possesso sicuro.
 
-36. Le persone malvagie non ascoltano quando il maestro parla del Dharma.
+36. Le persone cattive non ascoltano (quando) l'insegnante parla del Dharma.
 
-37. Omaggio a questo Rāma!
+37. A questo Rāma sia omaggio!
 
-38. L’elevato Hari è la mia via/meta, colui che inviò i suoi nemici in un cielo, fece conoscere ai suoi seguaci il significato del Veda, diede agli dèi il cibo dell’immortalità da mangiare, insegnò il Veda al Creatore (विधि), stabilì la terra nell’acqua.
+38. L'elevato Hari è la mia via/destino, che (i suoi) nemici inviò in un cielo, ai suoi fece conoscere il senso del Veda, agli dei diede il cibo dell'immortalità da mangiare, al creatore (विधि) insegnò il Veda, la terra nell'acqua (stabilì).
 
-39. Viṣṇu si mostra ai suoi devoti.
+39. Viṣṇu mostra se stesso ai suoi devoti.
 
-40. Un governo non esercitato produce la norma dei pesci.
+40. Un governo, che non viene esercitato, provoca la norma dei pesci.
 
-41. Chi possiede ricchezze ha amici; chi possiede ricchezze ha parenti; chi possiede ricchezze è un uomo (पुमान्, nominativo seguito) nel mondo; chi possiede ricchezze, infatti, è uno studioso.
+41. Chi possiede ricchezze ha amici; chi possiede ricchezze ha parenti; chi possiede ricchezze è un uomo (पुमान् Nom. sq.) nel mondo; chi possiede ricchezze è infatti uno studioso.
 
 42. Il fuoco che brucia il defunto brucia anche la buona vedova.
 
-43. La serva del brahmano ha cucinato il cibo e ora lo mangia.
+43. La serva del brāhmaṇa ha cucinato il cibo e ora lo mangia.
 
-44. Basta così!
+44. Ora basta!
 
-45. Questo frutto gli basta per il pasto.
+45. Questo frutto gli basta come cibo.
 
-46. Il santuario interno del tempio è una casa per l’immagine del dio.
+46. Il santuario interno del tempio è una casa per l'immagine del dio.
 
-47. Un ladro viene assolto dal furto mediante la pena o mediante la liberazione. Se però il re (राजा, nominativo singolare) non punisce (il ladro), egli si assume la colpa del ladro.
+47. Un ladro viene liberato dal furto mediante la pena o mediante la liberazione. Se però il re (राजा Nom. sg.) non punisce (il ladro), egli riceve la colpa del ladro.
 
-48. Poiché ha commesso un errore nel sacrificio, il brahmano non è degno di ricevere ricchezze.
+48. Poiché ha commesso un errore nel sacrificio, il brāhmaṇa non è degno di ricevere ricchezze.
 
-49. Dopo che si è tenuta la cerimonia di iniziazione, egli deve appropriarsi del Veda e della filosofia da parte degli studiosi, e dell’economia da parte dei capi dipartimento (उपयुज्).
+49. Se la cerimonia di iniziazione è avvenuta, egli dovrebbe appropriarsi del Veda e della filosofia da parte degli studiosi, e dell'economia da parte dei capi dei dipartimenti (उपयुज्).
 
-50. Il dharma dei vaiśya consiste nel fatto che i vaiśya traggono sostentamento dal commercio e dalla vendita. Poiché è così, i figli dei vaiśya comprano e vendono.
+50. Il vaiśyadharma è che i vaiśya vivono di compravendita. Poiché è così, i figli dei vaiśya comprano e vendono.
 
 51. Si deve dire la verità, si deve dire ciò che è gradevole; non si deve dire una verità sgradevole e non si deve neppure dire una menzogna sgradevole. Questo è il dharma eterno.
 
@@ -569,10 +576,11 @@ C) Tradurre in Sanscrito:
 ::: media
 ![](/images/lekt3209.jpg)
 Fig.: पुनर्दर्शनाय
-(Fonte dell’immagine: [Dettagli](/licenses#lekt3209))
+Saluto indiano / congedo. [Fonte immagine: dhyanji / Flickr. CC BY-NC-ND]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3209))
 :::
 
-## 32.8. Esercizio zur Wiederholung
+## 32.8. Esercizio di ripasso
 
 Tradurre e determinare le seguenti forme lessicali:
 
@@ -634,43 +642,44 @@ Tradurre e determinare le seguenti forme lessicali:
 अहो वृद्धस्य कौशलम् ॥
 :::
 
-(tratto da: संस्कृतबालादर्श)
+(da: संस्कृतबालादर्श)
+
 
 Spiegazioni:
 
 ::: indent
-**पथि** Loc. sg. di **पथ् m.** "via" (declinazione irregolare)
+**पथि** Loc. sg. di **पथ् m.** "strada" (declinazione irregolare)
 
-**लक्ष्यीकृ** suffisso च्वि- अन् **लक्ष्य + कृ** : rendere qualcosa un लक्ष्य (obiettivo), che prima non lo era
+**लक्ष्यीकृ** च्विऽ-suffisso अन् **लक्ष्य + कृ** : rendere qualcosa लक्ष्य, ciò che prima non लक्ष्य era
 
-**आदाय** Assolutivo di **आ-दा** (3ª classe di presente) "prendere"
+**आदाय** Assolutivo di **आ-दा** (3ª classe del presente) "prendere"
 :::
 
 ::: media
 ![](/images/lekt3210.jpg)
 Fig.: तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
-(Fonte dell'immagine: [Dettagli](/licenses#lekt3210))
+Scimmie negli alberi di mango. [Fonte immagine: Wikipedia. GNU FDL]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt3210))
 :::
 
 ::: deleteme-box
 
-### Fonti
 
-**lekt3202:** Mangobaum, Kanpur. [Bildquelle: AmarChandra / Wikipedia. CC BY-SA] <!-- TODO: Fallback translation -->
+**lekt3202:** Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 
-**lekt3203:** Affen (rhesus macaques) in Delhi. [Bildquelle: dewalt / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3203:** Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 
-**lekt3204:** Stone quarry south of Pune, Maharashtra. [Bildquelle: lecercle / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3204:** Cava di pietra a sud di Pune, Maharashtra. [Fonte immagine: lecercle / Flickr. CC BY-NC-SA]
 
-**lekt3205:** Target practice / arrow target, Karnataka. [Bildquelle: mattlogelin / Flickr. CC BY-NC] <!-- TODO: Fallback translation -->
+**lekt3205:** Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlogelin / Flickr. CC BY-NC]
 
-**lekt3207:** Burning cowdung patties in Rajasthan. [Bildquelle: thebigdurian / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3207:** Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine: thebigdurian / Flickr. CC BY-NC-SA]
 
-**lekt3206:** Mehndi painting on hands in Mumbai. [Bildquelle: the_gman / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3206:** Pittura di mehndi sulle mani a Mumbai. [Fonte immagine: the_gman / Flickr. CC BY-NC-SA]
 
-**lekt3208:** Buddhist monk in Sri Lanka. [Bildquelle: Trollderella / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3208:** Monaco buddhista nello Sri Lanka. [Fonte immagine: Trollderella / Wikipedia. GNU FDL]
 
-**lekt3209:** Indian greeting / farewell. [Bildquelle: dhyanji / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
+**lekt3209:** Saluto indiano / congedo. [Fonte immagine: dhyanji / Flickr. CC BY-NC-ND]
 
-**lekt3210:** Monkeys in mango trees. [Bildquelle: Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3210:** Scimmie negli alberi di mango. [Fonte immagine: Wikipedia. GNU FDL]
 :::

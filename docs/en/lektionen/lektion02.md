@@ -7,41 +7,41 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 2
+# Lesson 2
 
-## 2.1. Der Nominalsatz
+## 2.1. The Nominal Sentence
 
 ::: grammar-box
-**Schema: Predicate Noun – Subject**
+**Schema: Predicative Noun - Subject**
 
-e.g., devo viṣṇuḥ = देवो विष्णुः = “Viṣṇu is a god.”
+e.g. devo viṣṇuḥ = देवो विष्णुः = "Viṣṇu is a god."
 :::
 
-A verbal copula (“is,” “are,” “am,” “art,” “are”) is not required, though it may occasionally occur.
+A verbal copula ("is", "are", "am", "art", "be") is not necessary, but may sometimes occur.
 
-There are **no articles**: **devaḥ** -- देवः can mean “the god” or “a god.”
+There are **no articles**: **devaḥ** -- देवः can mean "the god" or "a god".
 
-Although Sanskrit word order is relatively free (especially in verse), when translating a nominal sentence, one must always first consider a translation according to the standard schema above.
+Although Sanskrit word order is quite free (especially in verses), when translating a nominal sentence, one must always primarily consider a translation according to the standard schema above.
 
-In the nominal sentence, the subject appears in the nominative case (first case = **prathamā** f. = प्रथमा). The predicate noun agrees with the subject in number and case; if the predicate noun is an adjective, it also agrees in gender.
+In the nominal sentence, the subject is in the nominative (first case = **prathamā** f. = प्रथमा). The predicative noun agrees with the subject in number and case; if the predicative noun is an adjective, also in gender.
 
 ---
 
-## 2.2. Zur Deklination (Beugung von Nomina)
+## 2.2. On Declension (Inflection of Nouns)
 
 In Sanskrit, there are:
 
 - **three numbers** (forms of counting) = **vacana** n. -- वचन
-  - Singular = **ekavacana** n. -- एकवचन
-  - Dual = **dvivacana** n. -- द्विवचन
-  - Plural = **bahuvacana** n. -- बहुवचन
+  - Singular (singular number) = **ekavacana** n. -- एकवचन
+  - Dual (dual number) = **dvivacana** n. -- द्विवचन
+  - Plural (plural number) = **bahuvacana** n. -- बहुवचन
 - **three genders** (grammatical genders) = **liṅga** n. / **vyakti** f. -- लिङ्ग / व्यक्ति
-  - Masculine = **puṃs** m. -- पुंस्
-  - Feminine = **strī** f. -- स्त्री
-  - Neuter = **napuṃsaka** n. -- नपुंसक
+  - Masculine (masculine) = **puṃs** m. -- पुंस्
+  - Feminine (feminine) = **strī** f. -- स्त्री
+  - Neuter (neuter) = **napuṃsaka** n. -- नपुंसक
 - **eight cases** (cases) = **sup** -- सुप् (= case endings)
 
-The case endings (**sup** = सुप्) are attached to the so-called **nominal stem** (form of the noun without case endings) for declension.
+For declension, the case endings (**sup** = सुप्) are attached to the so-called **nominal stem** (form of the noun without case endings).
 
 Example: **devas** = देवस् (Nominative Singular Masculine) "the/a god" = **deva-** -- देव- (nominal stem) + **-s** -- -स् (case ending).
 
@@ -52,7 +52,7 @@ In Sanskrit dictionaries, nouns are listed in the **nominal stem**:
 
 ---
 
-## 2.3. Der Nominative Singular
+## 2.3. The Nominative Singular
 
 **Nominative Singular = prathamā ekavacanam = प्रथमा एकवचनम्**
 
@@ -60,52 +60,58 @@ In Sanskrit dictionaries, nouns are listed in the **nominal stem**:
 **The Nominative Singular ends in -s = -स् or is zero-ending.**
 :::
 
-### 2.3.1. Nominative Singular auf -s
+### 2.3.1. Nominative Singular ending in -s
 
-**Nominative Singular = prathamā ekavacanam = प्रथमा एकवचनम्**
+The following nominal stems, which end in a vowel, form the nominative singular with **-s**:
 
 ::: grammar-box
-**The Nominative Singular ends in -s = -स् or is zero-ending.**
+**Masculines in -a:** e.g. deva m. = देव "god" -- Nom. sg.: devas = देवस्
+**Masculines in -i:** e.g. kavi m. = कवि "poet" -- Nom. sg.: kavis = कविस्
+**Masculines in -u:** e.g. guru m. = गुरु "teacher" -- Nom. sg.: gurus = गुरुस्
 :::
 
 ---
 
 ## 2.4. Sandhi -- सन्धि
 
-In Sanskrit, the final sound of a word is also determined by the initial sound of the following word. This phenomenon is called **Sandhi** (m.) = सन्धि ("connection" or "joining").
+The final sound of a word in Sanskrit is also determined by the initial sound of the following word. This phenomenon is called **Sandhi** (m.) = सन्धि ("connection").
 
-### 2.4.1. Sandhi von auslautendem -s
+### 2.4.1. Sandhi of final -s
 
-In Sanskrit, the final sound of a word is also determined by the initial sound of the following word. This phenomenon is called **Sandhi** (m.) = सन्धि ("connection" or "joining").
+See also the overview:
 
-- **im absoluten Auslaut** (Satzende) wird es zu **Visarga (-ḥ)**: <!-- TODO: Fallback translation -->
-  - **devas** = देवस् » **devaḥ** = देवः <!-- TODO: Fallback translation -->
-  - **kavis** = कविस् » **kaviḥ** = कविः <!-- TODO: Fallback translation -->
-  - **gurus** = गुरुस् » **guruḥ** = गुरुः <!-- TODO: Fallback translation -->
+> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi of final -s. -- (Materials on Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-- **vor stimmlosen Lauten**: <!-- TODO: Fallback translation -->
-  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)** <!-- TODO: Fallback translation -->
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = देवः शिवः ("Śiva ist ein Gott") <!-- TODO: Fallback translation -->
-  - vor **c, ch**: wird zu **-ś** <!-- TODO: Fallback translation -->
-  - vor **ṭ, ṭh**: wird zu **-ṣ** <!-- TODO: Fallback translation -->
-  - vor **t, th**: bleibt **-s** <!-- TODO: Fallback translation -->
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = साधुश्चैतन्यः ("Caitanya ist ein Heiliger") <!-- TODO: Fallback translation -->
+Final **-s**:
 
-- **vor stimmhaften Lauten**: <!-- TODO: Fallback translation -->
-  - nach Nicht-a-Vokalen: wird zu **-r** <!-- TODO: Fallback translation -->
-    - **kavis + Māghas** » **kavir māghaḥ** = कविर्माघः ("Māgha ist ein Dichter") <!-- TODO: Fallback translation -->
-  - nach Nicht-a-Vokalen vor **r-**: **-s** fällt aus, der Vokal wird gedehnt. <!-- TODO: Fallback translation -->
-    - **gurus + rāmas** » **gurū rāmaḥ** = गुरू रामः ("Rāma ist ein Lehrer") <!-- TODO: Fallback translation -->
-  - nach **a-**: **-as** <!-- TODO: Fallback translation -->
-    - vor stimmhaften Konsonanten/a: wird zu **-o** (anlautendes a fällt weg » ऽ) <!-- TODO: Fallback translation -->
-      - **devas viṣṇus** » **devo viṣṇuḥ** = देवो विष्णुः <!-- TODO: Fallback translation -->
-      - **devas agnis** » **devo 'gniḥ** = देवो ऽग्निः <!-- TODO: Fallback translation -->
-    - vor anderen Vokalen: wird zu **-a** (Hiatus) <!-- TODO: Fallback translation -->
-      - **devas + indras** » **deva indraḥ** = देव इन्द्रः <!-- TODO: Fallback translation -->
+- **in absolute final position** (end of sentence) it becomes **Visarga (-ḥ)**:
+  - **devas** = देवस् » **devaḥ** = देवः
+  - **kavis** = कविस् » **kaviḥ** = कविः
+  - **gurus** = गुरुस् » **guruḥ** = गुरुः
+
+- **before voiceless sounds**:
+  - before **k, kh, p, ph** and **ś, ṣ, s**: it becomes **Visarga (-ḥ)**
+    - **devas + śivaḥ** » **devaḥ śivaḥ** = देवः शिवः ("Śiva is a god")
+  - before **c, ch**: it becomes **-ś**
+  - before **ṭ, ṭh**: it becomes **-ṣ**
+  - before **t, th**: it remains **-s**
+    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = साधुश्चैतन्यः ("Caitanya is a saint")
+
+- **before voiced sounds**:
+  - after non-a vowels: it becomes **-r**
+    - **kavis + Māghas** » **kavir māghaḥ** = कविर्माघः ("Māgha is a poet")
+  - after non-a vowels before **r-**: **-s** drops out, the vowel is lengthened.
+    - **gurus + rāmas** » **gurū rāmaḥ** = गुरू रामः ("Rāma is a teacher")
+  - after **a-**: **-as**
+    - before voiced consonants/a: it becomes **-o** (initial a drops out » ऽ)
+      - **devas viṣṇus** » **devo viṣṇuḥ** = देवो विष्णुः
+      - **devas agnis** » **devo 'gniḥ** = देवो ऽग्निः
+    - before other vowels: it becomes **-a** (Hiatus)
+      - **devas + indras** » **deva indraḥ** = देव इन्द्रः
 
 ---
 
-## 2.5. Vocabulary List
+## 2.5. Word List
 
 **deva** m. -- देव : Celestial being, god; prince, king.
 
@@ -113,92 +119,92 @@ In Sanskrit, the final sound of a word is also determined by the initial sound o
 
 **brāhmaṇa** m. -- ब्राह्मण : Brahmin (priestly estate).
 
-**kṣatriya** m. -- क्षत्रिय : Kṣatriya (noble and warrior estate).
+**kṣatriya** m. -- क्षत्रिय : Kṣatriya (noble and military estate).
 
 **vaiśya** m. -- वैश्य : Vaiśya (agricultural and merchant estate).
 
 **śūdra** m. -- शूद्र : Śūdra (service estate).
 
-::: tip Die vier Stände (varna)
-According to classical theory (e.g., Manusmṛti I, 88–91), the duties are distributed as follows:
+::: tip The four estates (varna)
+According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed:
 
-- **of the Brāhmaṇas**
-  - Study of the Vedas
-  - Teaching
-  - Sacrificing for oneself
-  - Sacrificing for others
-  - Giving
-  - Receiving gifts
+- **of the Brahmins**
+  - study of the Vedas
+  - teaching
+  - sacrifice for oneself
+  - sacrifice for others
+  - giving
+  - receiving gifts
 - **of the Kṣatriyas**
-  - Protecting the people
-  - Giving gifts (to Brāhmaṇas)
-  - Sacrificing for oneself
-  - Study of the Vedas
+  - protect the people
+  - give gifts (to Brahmins)
+  - sacrifice for oneself
+  - study of the Vedas
 - **of the Vaiśyas**
-  - Cattle rearing
-  - Agriculture
-  - Trade
-  - Money lending
-  - Sacrificing for oneself
-  - Giving gifts (to Brāhmaṇas)
-  - Sacrificing for oneself
-  - Study of the Vedas
+  - animal husbandry
+  - agriculture
+  - trade
+  - money lending
+  - sacrifice for oneself
+  - give gifts (to Brahmins)
+  - sacrifice for oneself
+  - study of the Vedas
 - **of the Śūdras**
-  - Serving the three higher estates
+  - serve the three upper classes
 :::
 
 **dvija** m. -- द्विज : "Twice-born" (initiates of the upper three estates: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- वर्ण : Color, birth estate (social class).
+**varṇa** m. -- वर्ण : Color, birth estate (aspiration).
 
-The four estates (**varṇa** m.) are often confused with castes. However, the four estates -- in contrast to castes -- are not specifically Indian; in Europe as well, we had (partially up to the First World War) an estate system, as the following illustration from the 15th century attests:
+The four estates (**varṇa** m.) are often confused with castes. However, the four estates are -- in contrast to castes -- not specifically Indian; in Europe, we also had (partly up to the First World War) an estate system, as the following illustration from the 15th century confirms:
 
 ::: media
 ![](/images/lekt0201.jpg)
 Fig.: Representation of the estate division of the European Middle Ages (woodcut from the late 15th century).
-(Image source: [Details](/licenses#lekt0201))
+(Image source: [Details](/en/licenses#lekt0201))
 :::
 
 **Labels:**
-- **Priestly estate** (~Brāhmaṇa): Tu supplex ora = You pray fervently!
-- **Nobility estate** (~Kṣatriya): Tu protege = You protect!
+- **Priestly estate** (~Brāhmaṇa): Tu supplex ora = You pray earnestly!
+- **Noble estate** (~Kṣatriya): Tu protege = You protect!
 - **Peasant estate** (~Vaiśya/Śūdra): Tuque labora = And you work!
 
-The three estates wear the respective estate attire. Over the -- thus designated as divinely ordained -- estates, Christ reigns.
+The three estates wear the respective estate attire. Above them -- thus designated as willed by God -- Christ reigns.
 
 Max Weber &lt;1864 – 1920&gt; defines estate as follows:
 
 ::: note-box
-»**Estate**« is to mean a multitude of people who within an association effectively
-a) claim an estate-specific special estimation, - possibly also
+"**Estate**" is meant to denote a multitude of people who, within an association, effectively
+a) claim an estate-specific special esteem, - possibly also
 b) estate-specific special monopolies.
 
 Estates can arise
 a) primarily, through their own estate-specific way of life, particularly through the type of **profession** (**estate-based or professional estates**),
-b) secondarily, through hereditary charisma, through successful prestige claims based on estate-based **descent** (**birth estates**),
+b) secondarily, hereditarily charismatic, through successful prestige claims based on estate-based **descent** (**birth estates**),
 c) through estate-based **appropriation** of political or hierocratic lordships as monopolies (**political or hierocratic estates**).
 
-The birth-estate development is regularly a form of (hereditary) appropriation of privileges to an association or to qualified individuals. Any fixed appropriation of opportunities, especially [of] lord [powers or occupational] opportunities, tends to lead to estate formation. Any estate formation tends to lead to the monopolistic appropriation of lordships and occupational opportunities.
+The development of birth estates is regularly a form of (hereditary) appropriation of privileges to an association or to qualified individuals. Any fixed appropriation of opportunities, particularly [of] lordships [or livelihood] opportunities, tends to lead to the formation of estates. Any formation of estates tends to lead to the monopolistic appropriation of lordships and livelihood opportunities.
 
-While occupational classes grow on the basis of market-oriented economy, estates arise and persist preferably on the basis of monopolistically directed liturgical or feudal or estate-patrimonial provision of needs for associations.
+As occupational classes grow on the basis of a market-oriented economy, estates arise and persist preferably on the basis of monopolistic liturgical or feudal or corporately patrimonial provision of associations.
 
-»**Estate-based**« is to mean a society if the social division is preferably according to estates, »**class-based**«, if it is preferably according to classes. The "estate" is closest to the "social" class among the "classes," and the "occupational class" is furthest. Estates are often formed by property classes according to their focus.
+»**Corporately**« is meant to signify a society when the social stratification occurs preferably by estates, »**classically**«, when it occurs preferably by classes. The «estate» is closest to the «social» class among the «classes», the «occupational class» is furthest. Estates are often formed by property classes according to their focus.
 
-Any estate-based society is conventional, ordered by rules of life conduct, thereby creates economically irrational consumption conditions and hinders free market formation through monopolistic appropriations and by excluding free disposal over one's own earning capacity.
+Every corporately organized society is conventional, ordered by rules of conduct, thereby creates economically irrational consumption conditions and hinders free market formation in this manner through monopolistic appropriations and by excluding free disposal of one's own earning capacity.
 
-[**Weber, Max &lt;1864 – 1920&gt;:** Economy and Society : Outline of Understanding Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – p. 625 f.]
+[**Weber, Max &lt;1864 – 1920&gt;: Economy and Society : Outline of Understanding Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – P. 625 f.]
 :::
 
-Varṇas are therefore birth estates.
+Varṇas are accordingly birth estates.
 
 **kavi** m. -- कवि : Poet.
 
-**agni** m. -- अग्नि : Fire, god Agni.
+**agni** m. -- अग्नि : Fire, God Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Fig.: God Agni, miniature, 18th century.
-(Image source: [Details](/licenses#lekt0203))
+Fig.: God Agni, Miniature, 18th century.
+(Image source: [Details](/en/licenses#lekt0203))
 :::
 
 **sādhu** 3 -- साधु : correct, good.
@@ -208,18 +214,18 @@ Fig.: God Agni, miniature, 18th century.
 ::: media
 ![](/images/lekt0202.jpg)
 Fig.: Sādhu (साधु), Pashupatinath Temple, Kathmandu.
-(Image source: [Details](/licenses#lekt0202))
+(Image source: [Details](/en/licenses#lekt0202))
 :::
 
-**guru** 3 -- गुरु : heavy, significant, worthy of reverence
+**guru** 3 -- गुरु : heavy, significant, worthy of veneration
 
-**guru** m. -- गुरु : worthy of reverence person: father, mother, older relative, esp. teacher, master
+**guru** m. -- गुरु : worthy of veneration person: father, mother, older relative, esp. teacher, master
 
 ---
 
 ## 2.6. Exercise
 
-**A) Insert the appropriate forms, observing Sandhi rules, and construct nominal sentences:**
+**A) Insert with due regard to Sandhi and form nominal sentences:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
    = देवस् ... (शिव, अग्नि, विष्णु, गणेश, कृष्ण, इन्द्र)

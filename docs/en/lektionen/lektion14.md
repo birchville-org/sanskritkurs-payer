@@ -1,14 +1,18 @@
 ---
+title: Lesson 14
+subtitle: "Expressing the relationship of what is designated by nouns: the genitive (ṣaṣṭhī f. = षष्टी = sixth case ending)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 14
 
-## 14.1. Expressing the Relationship Denoted by Nouns: The Genitive (ṣaṣṭhī f. = षष्टी = sixth case ending)
+## 14.1. The Expression of the Relationship of that Designated by Nouns: the Genitive (ṣaṣṭhī f. = षष्टी = sixth case ending)
 
 ::: grammar-box
-When the relationship between entities denoted by two nouns is to be expressed, the genitive (ṣaṣṭhī f. "sixth case ending") is used. The genitive differs from all other cases in that it — with few exceptions — does not serve to specify the action expressed by the verb, but rather expresses the relationship between persons or things denoted by nouns. Frequently, the genitive answers the question: Whose?
+If the relationship expressed by two nouns is to be designated, the genitive (ṣaṣṭhī f. "sixth case ending") is used. The genitive differs from all other cases in that it -- with few exceptions -- does not serve for the closer determination of the action expressed by the verb, but for the expression of the relationship between persons or things designated by nouns. Frequently the genitive stands in answer to the question: Whose?
 :::
 
 Examples:
@@ -19,33 +23,33 @@ Examples:
 
 नगरस्यार्धम् "The half of the city"
 
-रामस्य कृतम् "The / A deed of Rāma"
+रामस्य कृतम् "The / One deed of Rāma"
 
 ::: grammar-box
-The standard word order is:
+The normal word order is:
 
-> **Determining word in the genitive — Specified noun in another case**
+> **Determining word in the genitive — Further specified noun in another case**
 :::
 
 **Genitive and PPP:**
 
 ::: grammar-box
-With participles (PPP), the genitive can stand in place of the instrumental (tṛtīyā) for the agent (kartṛ). In the construction with the instrumental, the PPP is regarded as a passive verbal form (the element in the instrumental denotes the agent); in the construction with the genitive, the PPP is regarded as a noun or adjective (the element in the genitive is thus not strictly an agent).
+With PPPs, the genitive can stand instead of the instrumental (tṛtīyā) for the agent (kartṛ); In the construction with the instrumental, the PPP is regarded as a passive verbal form (that standing in the instrumental designates the agent), in the construction with the genitive, the PPP is regarded as a noun or adjective (that standing in the genitive is thus not actually an agent).
 
-According to Pāṇini 2.3.67, when a PPP has present-tense meaning (see above), the genitive is used; when the PPP has past-tense meaning, the instrumental is used:
+According to Pāṇini 2.3.67, with a PPP the genitive stands if the PPP has present meaning (see above), the instrumental if the PPP has past meaning:
 
-> रामस्येष्टं फलम् "The fruit desired by Rāma = The fruit that Rāma currently desires"
+> रामस्येष्टं फलम् "The fruit desired by Rāma = The fruit that Rāma desires at present"
 > 
-> रामेणेष्टं फलम् "The fruit that Rāma desired"
+> रामेणेष्टं फलम् "The fruit that Rāma has desired"
 
-Naturally, when a neuter singular PPP is used as a verbal abstract — that is, as a noun — the genitive is used.
+Naturally, with a PPP neuter singular, which is used as a verbal abstract -- i.e. as a noun -- the genitive stands.
 :::
 
 ## 14.2. Formation of Genitive Forms (ṣaṣṭhī f. = षष्ठी)
 
-The genitive case for verbal stems exhibiting stem alternation (apophony) is formed from the weak stem.
+The genitive is formed for verbal stems with stem gradation from the weak stem.
 
-**Genitive of consonant-final stems:**
+**Genitive of consonant-ending stems:**
 
 :::: grammar-box
 
@@ -64,15 +68,15 @@ After a consonant, the regular genitive endings are:
 
 ::::
 
-**Genitive of vowel-final stems, excluding monosyllabic root nouns and stems ending in a diphthong:**
+**Genitive of vowel-ending stems, except for monosyllabic root nouns and diphthong-ending stems:**
 
 **Plural:**
 
 :::: grammar-box
 
-The genitive plural of vowel-final stems is formed as follows:
+The genitive plural of vowel-ending stems is formed as follows:
 
-> **-long final vowel of the stem + -nām**
+> **-long vowel of the stem + -nām**
 
 ::: center
 
@@ -91,11 +95,11 @@ The genitive plural of vowel-final stems is formed as follows:
 
 ::::
 
-**Genitive Singular of vowel-final stems:**
+**Genitive Singular of vowel-ending stems:**
 
 :::: grammar-box
 
-The genitive singular of vowel-final stems is formed irregularly and must be memorized well.
+The genitive singular of vowel-ending stems is formed irregularly and must be memorized well.
 
 ::: center
 
@@ -107,8 +111,8 @@ The genitive singular of vowel-final stems is formed irregularly and must be mem
 | **kavi** m.[[br]]**कवि** | **kaves**[[br]]**कवेस्** |
 | **paśu** m.[[br]]**पशु** | **paśos**[[br]]**पशोस्** |
 | **devī** f.[[br]]**देवी** | **devyās**[[br]]**देव्यास्** |
-| **śruti** f.[[br]]**श्रुति** | **śrutes / śrutyās**[[br]]**श्रुतेस् / श्रुत्यास्**[[br]](i.e., either like *kavi* or like *devī*) |
-| **dhenu** f.[[br]]**धेनु** | **dhenos / dhenvās**[[br]]**धेनोस् / धेन्वास्**[[br]](i.e., either like *paśu* or like multisyllabic feminine stems ending in -ū) |
+| **śruti** f.[[br]]**श्रुति** | **śrutes / śrutyās**[[br]]**श्रुतेस् / श्रुत्यास्**[[br]](i.e. either like kavi or like devī) |
+| **dhenu** f.[[br]]**धेनु** | **dhenos / dhenvās**[[br]]**धेनोस् / धेन्वास्**[[br]](i.e. either like paśu or like polysyllabic feminines ending in -ū) |
 
 :::
 
@@ -136,39 +140,36 @@ The genitive singular of vowel-final stems is formed irregularly and must be mem
 
 ::: important
 
-For all nominal stems except for masculine and neuter stems ending in -a, as well as pronouns, the form of the genitive singular is identical to that of the ablative (pañcamī, "fifth case ending") singular!
+For all nominal stems except masculines and neuters ending in -a, and except for pronouns, the form of the Genitive Singular is identical to that of the Ablative (pañcamī "fifth case ending") Singular!
 
-Note that for consonant-final stems, the genitive and ablative singular forms are identical to the accusative plural forms for both masculine and feminine genders!
+Note that for stems ending in a consonant, the Ablative and Genitive Singular sound the same as the Accusative Plural Masculine and Feminine!
 
 :::
 
-## 14.3. Further Notes on the Use of the Genitive (षष्ठी)
+## 14.3. Further on the Use of the Genitive (षष्ठी)
 
 ::: grammar-box
-Contrary to the general rule stated above, the genitive is used to express the object of certain verbs, such as verbs of remembrance:
+Contrary to the basic rule above, the genitive is used to express the object of certain verbs, e.g. verbs of remembrance:
 
 > देवानां स्मरति "He remembers the gods"
 
-For all these verbs, however, the object can also appear in the accusative:
+With all these verbs, however, the object can also be in the accusative:
 
 > देवान्स्मरति "He remembers the gods"
 
-Further details will follow later.
+More on this later.
 :::
 
 ## 14.4. Word List
 
 * **śīla n.** (शील) : (good) character, morality
-* **bhūṣ-aṇa n** (भूषण) : ornament, jewelry
+* **bhūṣ-aṇa n** (भूषण) : jewelry
 * **dīpa m.** (दीप) : lamp
 
-::: center
-
 ::: media
-![]/images/lekt1405.jpg
-Fig.: दीपाः)
-(Image source: [Details](/licenses#lekt1405))
-:::
+![](/images/lekt1405.jpg)
+Fig.: दीपाः
+(Image source: [Details](/en/licenses#lekt1405))
 :::
 
 * **bala n.** (बल) : violence, power, strength; military force, army
@@ -180,7 +181,7 @@ Fig.: दीपाः)
 * **jala n.** (जल) : water
 * **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (जन् जायते जन्यते जायते जात) : to be born, to arise, to appear
   * **jan-a m.** (जन) : creature, human being, people
-* **vac 2 P** (vakti, no 3rd plural!), Pass. ucyate, PPP ukta (वच् वक्ति उच्यते उक्त) : to say, to speak to (accusative case)
+* **vac 2 P** (vakti, no 3rd plur.!), Pass. ucyate, PPP ukta (वच् वक्ति उच्यते उक्त) : to say, to speak to (accusative)
   * **uk-ti f.** (उक्ति) : utterance, word
   * **vac-ana n.** (वचन) : speaking, the word
   * **vāk-ya n.** (वाक्य) : word, speech
@@ -189,7 +190,7 @@ Fig.: दीपाः)
 
 Translate the following proverbs and memorize them:
 
-**नीचो वदति न कुरुते** **वदति न साधुः करोत्येव ॥१॥**
+**नीचो वदati न कुरुते** **वदति न साधुः करोत्येव ॥१॥**
 
 **शीलं नरस्य भूषणम् ॥२॥**
 
@@ -203,163 +204,154 @@ Translate the following proverbs and memorize them:
 
 **A) Form the Genitive Singular and Plural for the following words. Provide the meaning and gender of the words:**
 
-१. anṛta (anṛtá)
+१. अनृत
 
-२. ṛṣi (ṛṣí)
+२. ऋषि
 
-३. pāda (pādá)
+३. पाद
 
-४. buddhi (buddhí)
+४. बुद्धि
 
-५. guru (gurú)
+५. गुरु
 
-६. svarga (svargá)
+६. स्वर्ग
 
-७. nagara (nagará)
+७. नगर
 
-८. dhenu (dhénú)
+८. धेनु
 
-९. dvija (dvijá)
+९. द्विज
 
-१०. muktā (muktā́)
+१०. मुक्ता
 
-११. vidyā (vidyā́)
+११. विद्या
 
-१२. varṇa (varṇá)
+१२. वर्ण
 
-१३. dvijāti (dvijā́ti)
+१३. द्विजाति
 
-१४. rūpa (rūpá)
+१४. रूप
 
-१५. pratigraha (pratigráhá)
+१५. प्रतिग्रह
 
-१६. soḍha (soḍhá)
+१६. सोढ
 
-१७. nāyikā (nāyikā́)
+१७. नायिका
 
-१८. sādhvī (sādhvī́)
+१८. साध्वी
 
-१९. agni (agní)
+१९. अग्नि
 
-२०. vaiśyā (vaiśyā́)
+२०. वैश्या
 
-२१. loka (loká)
+२१. लोक
 
-२२. ukti (uktí)
+२२. उक्ति
 
-२३. śatru (śatrú)
+२३. शत्रु
 
-२४. sukhavant (sukhavánt)
+२४. सुखवन्त्
 
-२५. putratī (putratī́)
-
-::: center
+२५. पुत्रवती
 
 ::: media
-![]/images/lekt1404.jpg
-Fig.: putratī́)
-(Image source: [Details](/licenses#lekt1404))
+![](/images/lekt1404.jpg)
+Fig.: पुत्रवती
+(Image source: [Details](/en/licenses#lekt1404))
 :::
-:::
 
-२६. jala (jalá)
+२६. जल
 
-२७. mārga (mārgá)
+२७. मार्ग
 
-२८. mokṣa (mokṣá)
+२८. मोक्ष
 
-२९. śūdrā (śūdrā́)
+२९. शूद्रा
 
-३०. anna (anná)
+३०. अन्न
 
-३१. sādhū (sādhū́)
+३१. साधु
 
-३२. nīti (nī́ti)
+३२. नीति
 
-३३. yodha (yóḍha)
+३३. योध
 
-३४. satyavant (satyavánt)
+३४. सत्यवन्त्
 
-३५. lābha (lābhá)
+३५. लाभ
 
-३६. mohá (mohá)
+३६. मोह
 
-३७. gati (gátí)
+३७. गति
 
-३८. praśna (praśná)
+३८. प्रश्न
 
-३९. sṛṣṭi (sṛṣṭí)
+३९. सृष्टि
 
-४०. netra (netrá)
+४०. नेत्र
 
-४१. guruta (gurútá)
+४१. गुरुता
 
-४२. īśvara (īśvará)
+४२. ईश्वर
 
-४३. kāraṇa (kāraṇá)
+४३. कारण
 
-४४. kṛta (kṛtá)
+४४. कृत
 
-४५. dharmavant (dharmavánt)
+४५. धर्मवन्त्
 
-४६. yuddha (yúddha)
+४६. युद्ध
 
-४७. darśana (darśaná)
+४७. दर्शन
 
-४८. dhātu (dhā́tu)
+४८. धातु
 
-४९. gūḍhā (gūḍhā́)
+४९. गूढा
 
-५०. īṣṭā (īṣṭā́) (2 meanings)
+५०. ईष्टा (2 meanings)
 
-५१. udita (uditá)
+५१. उदित
 
-५२. idam (idám)
+५२. इदम्
 
-५३. kim (kim?)
-
-::: center
+५३. किम्
 
 ::: media
-![]/images/lekt1403.jpg
-Fig.: ayaṃ bālaḥ kasyāḥ putráḥ.)
-(Image source: [Details](/licenses#lekt1403))
-:::
+![](/images/lekt1403.jpg)
+Fig.: अयं बालः कस्याः पुत्रः ।
+(Image source: [Details](/en/licenses#lekt1403))
 :::
 
 **B) Translate:**
 
-१. brāhmaṇasya putro brāhmaṇyā grāmaṃ gataḥ | (2 possibilities)
+१. ब्राह्मणस्य पुत्रो ब्राह्मण्या ग्रामं गतः । (2 possibilities)
 
-२. yajñasyāgninānnaṃ dagdham |
+२. यज्ञस्याग्निनान्नं दग्धम् ।
 
-३. buddhaḥ satyasya buddhyā muktaḥ |
+३. बुद्धः सत्यस्य बुद्ध्या मुक्तः ।
 
-४. adharmo 'nṛtasya vadanaityṛṣayo vadanti |
+४. अधर्मो ऽनृतस्य वदनमित्यृषयो वदन्ति ।
 
-५. narā devānāṃ yajñairna mucyante |
+५. नरा देवानां यज्ञैर्न मुच्यन्ते ।
 
-६. balavantaḥ kṣatriyāḥ śatrūṇāṃ dhanavanti nagarāṇi jayanti |
+६. बलवन्तः क्षत्रियाः शत्रूणां धनवन्ति नगराणि जयन्ति ।
 
-७. kaveruktiṃ śṛṇvanti |
+७. कवेरुक्तिं शृण्वन्ति ।
 
-८. kavirdevyāḥ kṛtaṃ vadati |
+८. कविर्देव्याः कृतं वदति ।
 
-९. dvijāḥ paśorlabhamicchanti |
+९. द्विजाः पशोर्लाभमिच्छन्ति ।
 
-१०. rāmaḥ puṇyavato gurormantrasya smarati |
+१०. रामः पुण्यवतो गुरोर्मन्त्रस्य स्मरति ।
 
-११. ayaṃ bālaḥ kasyāḥ putráḥ |
+११. अयं बालः कस्याः पुत्रः ।
 
-१२. keṣāmimāni gṛhāṇi |
+१२. केषामिमानि गृहाणि ।
 
-१३. kasyānnamanenarṣiṇeṣṭam |
-
-::: center
+१३. कस्यान्नमनेनर्षिणेष्टम् ।
 
 ::: media
-![]/images/lekt1402.jpg
-Fig.: keṣāmimāni gṛhāṇi.)
-(Image source: [Details](/licenses#lekt1402))
-:::
+![](/images/lekt1402.jpg)
+Fig.: केषामिमानि गृहाणि ।
+(Image source: [Details](/en/licenses#lekt1402))
 :::

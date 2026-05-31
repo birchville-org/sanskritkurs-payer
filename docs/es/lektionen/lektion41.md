@@ -19,7 +19,7 @@ Explicación: पर «otro».
 ::: media
 ![lekt4102.jpg](/images/lekt4102.jpg)
 Fig.: पुस्तकस्था च या विद्या ...
-(Fuente de la imagen: [Detalles](/licenses#lekt4102))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4102))
 :::
 
 ::: indent
@@ -199,7 +199,7 @@ Ejemplos:
 ::: media
 ![lekt4103.jpg](/images/lekt4103.jpg)
 Fig.: विक्रेयाणि पुष्पानि
-(Fuente de la imagen: [Detalles](/licenses#lekt4103))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4103))
 :::
 
 ::: grammar-box
@@ -220,7 +220,7 @@ Ejemplo:
 
 Ejemplos de raíces con terminación consonántica (véanse las reglas en Kielhorn, Grammatik § 533ss.):
 
-Formación en grado reducido (tiefstufige Bildung):
+Formación en grado reducido (formación de grado cero):
 
 Ejemplos:
 
@@ -236,10 +236,10 @@ Ejemplos:
 ::: media
 ![lekt4106.jpg](/images/lekt4106.jpg)
 Fig.: दृश्यो मन्दिरः
-(Fuente de la imagen: [Detalles](/licenses#lekt4106))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4106))
 :::
 
-Formación en grado pleno (Hochstufige Bildung):
+Formación en grado pleno (formación de grado pleno):
 
 Ejemplos:
 
@@ -276,7 +276,7 @@ Ejemplo:
 ::: media
 ![lekt4107.jpg](/images/lekt4107.jpg)
 Fig.: मान्यः
-(Fuente de la imagen: [Detalles](/licenses#lekt4107))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4107))
 :::
 
 #### 41.2.2.4. El sufijo -त्य / त्या (en lugar de -य / -या)
@@ -320,7 +320,7 @@ El gerundivo también puede funcionar como nombre predicativo en oraciones con c
 ::: media
 ![lekt4108.jpg](/images/lekt4108.jpg)
 Fig.: दर्शनीयं नगरं काशी
-(Fuente de la imagen: [Detalles](/licenses#lekt4108))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4108))
 :::
 
 ### 41.2.4. Diferencias en el uso de los sufijos gerundivos
@@ -347,7 +347,7 @@ No se deben formar gerundivos con los prefijos सु- y दुस्- cuando es
 ::: media
 ![lekt4105.jpg](/images/lekt4105.jpg)
 Fig.: भुजङ्गः
-(Fuente de la imagen: [Detalles](/licenses#lekt4105))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4105))
 :::
 
 केवलम् Adv.: solo, únicamente, completamente
@@ -357,7 +357,7 @@ Fig.: भुजङ्गः
 ::: media
 ![lekt4104.jpg](/images/lekt4104.jpg)
 Fig.: भुजङ्गस्य विषम्
-(Fuente de la imagen: [Detalles](/licenses#lekt4104))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4104))
 :::
 
 शास् 2P शास्ति : reprender, dominar, ordenar, enseñar
@@ -380,7 +380,7 @@ de lo cual:
 ::: media
 ![lekt4109.jpg](/images/lekt4109.jpg)
 Fig.: शासना
-(Fuente de la imagen: [Detalles](/licenses#lekt4109))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4109))
 :::
 
 ::: indent
@@ -392,7 +392,7 @@ Fig.: शासना
 ::: media
 ![lekt4110.jpg](/images/lekt4110.jpg)
 Fig.: शास्त्री
-(Fuente de la imagen: [Detalles](/licenses#lekt4110))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4110))
 :::
 
 ::: indent
@@ -432,7 +432,7 @@ B) Traduzca:
 ::: media
 ![lekt4111.jpg](/images/lekt4111.jpg)
 Fig.: काशीं पत्स्ये गङ्गां द्रक्ष्यामि ...
-(Fuente de la imagen: [Detalles](/licenses#lekt4111))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4111))
 :::
 
 कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥३॥
@@ -443,7 +443,6 @@ Fig.: काशीं पत्स्ये गङ्गां द्रक्�
 
 ::: deleteme-box
 
-### Fuentes
 
 - **Image lekt4102.jpg** (Fig.: पुस्तकस्था च या विद्या ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Fuente de la imagen: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución, uso no comercial)]
 - **Image lekt4103.jpg** (Fig.: विक्रेयाणि पुष्पानि): महाराष्टre [Fuente de la imagen: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Acceso el 2009-01-03. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]

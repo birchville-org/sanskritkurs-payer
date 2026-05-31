@@ -383,7 +383,7 @@ Derivados:
 Perf. Va (!) जग्राह, जगृहुर्  
 Fut. ग्र***ही***ष्यति  
 Pass. गृह्यते  
-Kaus. ग्राहयति  
+Caus. ग्राहयति  
 PPP गृ***ही***त  
 Inf. ग्रहितुम्  
 Absol. -ग्राह्य
@@ -404,27 +404,27 @@ Derivados:
 
 Sobre राहु y केतú véase:
 
-> **Payer, Alois <1944 - >:** Dharmashastra : Introducción y panorama general. -- 10. Sacramentos y ritos de paso (samskara). -- Apéndice C: Rahu y Ketu, los planetas errantes invisibles. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Introducción y panorama general. -- 10. Sacramentos y ritos de paso (samskara). -- Apéndice C: Rahu y Ketu, los planetas errantes invisibles. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.jpg)
-Fig.: [सूर्यः, चन्द्रः, मङ्गलः](/licenses#lekt4602)
-(Fuente de la imagen: [Detalles](/licenses#lekt4602))
+Fig.: [सूर्यः, चन्द्रः, मङ्गलः](/es/licenses#lekt4602)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4602))
 :::
 ::: media
 ![](/images/lekt4603.jpg)
-Fig.: [बुधः, बृहस्पतिः](/licenses#lekt4603)
-(Fuente de la imagen: [Detalles](/licenses#lekt4603))
+Fig.: [बुधः, बृहस्पतिः](/es/licenses#lekt4603)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4603))
 :::
 
 ::: media
 ![](/images/lekt4604.jpg)
-Fig.: [शुक्रः, शनिः](/licenses#lekt4604)
-(Fuente de la imagen: [Detalles](/licenses#lekt4604))
+Fig.: [शुक्रः, शनिः](/es/licenses#lekt4604)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4604))
 :::
 ::: media
 ![](/images/lekt4605.jpg)
-Fig.: [राहुः, केतुः](/licenses#lekt4605)
-(Fuente de la imagen: [Detalles](/licenses#lekt4605))
+Fig.: [राहुः, केतुः](/es/licenses#lekt4605)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4605))
 :::
 
 
@@ -434,7 +434,7 @@ Fig.: [राहुः, केतुः](/licenses#lekt4605)
 Perf. II तुतोष, तुतुषुर्  
 Fut. तोक्ष्यति  
 Pass. तुष्यते  
-Kaus. तोषयति  
+Caus. तोषयति  
 PPP तुष्ट  
 Inf. तोष्टुम्
 
@@ -445,15 +445,15 @@ Inf. तोष्टुम्
 Perf. Vb ननाम, नेमुर्  
 Fut. नंस्यति  
 Pass. नम्यते  
-Kaus. नमयति । नामयति  
+Caus. नमयति । नामयति  
 PPP नत  
 Inf. नन्तुम्
 
 :::
 ::: media
 ![](/images/lekt4607.jpg)
-Fig.: [नारायण तुभ्यं नमामि](/licenses#lekt4607)
-(Fuente de la imagen: [Detalles](/licenses#lekt4607))
+Fig.: [नारायण तुभ्यं नमामि](/es/licenses#lekt4607)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4607))
 :::
 
 
@@ -463,15 +463,15 @@ Fig.: [नारायण तुभ्यं नमामि](/licenses#lekt4607
 Perf. II रुरोह, रुरुहे  
 Fut. रोक्ष्यति  
 Pass. रुह्यते  
-Kaus. रोहयति । रो***प***यति  
+Caus. रोहयति । रो***प***यति  
 PPP. ***रूढ***  
 Inf. रोढुम्
 
 :::
 ::: media
 ![](/images/lekt4606.jpg)
-Fig.: [अश्वरोहकः](/licenses#lekt4606)
-(Fuente de la imagen: [Detalles](/licenses#lekt4606))
+Fig.: [अश्वरोहकः](/es/licenses#lekt4606)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4606))
 :::
 
 
@@ -481,7 +481,7 @@ Fig.: [अश्वरोहकः](/licenses#lekt4606)
 Perf. IIIa जुहाव, जुहुवे  
 Fut. ह्वास्यति  
 Pass. हूयते  
-Kaus. ह्वाययति  
+Caus. ह्वाययति  
 PPP हूत  
 Inf. ह्वातुम्  
 Absol. -हूय
@@ -489,8 +489,8 @@ Absol. -हूय
 :::
 ::: media
 ![](/images/lekt4608.jpg)
-Fig.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/licenses#lekt4608)
-(Fuente de la imagen: [Detalles](/licenses#lekt4608))
+Fig.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/es/licenses#lekt4608)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4608))
 :::
 
 
@@ -508,7 +508,7 @@ Fig.: [महामात्र कं चरिष्णुदूरशब्�
 Perf. Vc शश्राम, शश्रामुर्  
 Fut. श्रमिष्यति  
 Pass. श्रम्यते  
-Kaus. श्रमयति । श्रामयति  
+Caus. श्रमयति । श्रामयति  
 PPP ***श्रान्***त  
 Inf. श्रमितुम्  
 Absol. श्रमित्वा । श्रान्त्वा
@@ -518,8 +518,8 @@ Derivados:
 :::
 ::: media
 ![](/images/lekt4609.jpg)
-Fig.: [श्रान्तः](/licenses#lekt4609)
-(Fuente de la imagen: [Detalles](/licenses#lekt4609))
+Fig.: [श्रान्तः](/es/licenses#lekt4609)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4609))
 :::
 
 श्रि 1U श्रयति : apoyarse, inclinarse, encontrar apoyo, dirigirse a alguien (con el dativo, ablativo)
@@ -528,7 +528,7 @@ Fig.: [श्रान्तः](/licenses#lekt4609)
 Perf. IIIa शिश्राय, शिश्रिये  
 Fut. श्रयिष्यति  
 Pass. श्रीयते  
-Kaus. श्राययति  
+Caus. श्राययति  
 PPP श्रित  
 Inf. श्रयितुम्
 
@@ -539,7 +539,7 @@ Inf. श्रयितुम्
 Perf. I ससञ्ज, ससञ्जुर्  
 Fut. संक्ष्यति  
 Pass. सज्यते  
-Kaus. सञ्जयति  
+Caus. सञ्जयति  
 PPP सक्त  
 Inf. संक्तुम्
 de ello:
@@ -548,8 +548,8 @@ de ello:
 :::
 ::: media
 ![](/images/lekt4610.jpg)
-Fig.: [सङ्गः](/licenses#lekt4610)
-(Fuente de la imagen: [Detalles](/licenses#lekt4610))
+Fig.: [सङ्गः](/es/licenses#lekt4610)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4610))
 :::
 
 द्रु 1P द्रवति : correr, apresurarse
@@ -558,7 +558,7 @@ Fig.: [सङ्गः](/licenses#lekt4610)
 Perf IIIa (anīṭ) दुद्राव, दुद्रुवुर्  
 Fut. द्रोष्यति  
 Pass. द्रूयते  
-Kaus. द्रावयति  
+Caus. द्रावयति  
 PPP द्रुत  
 Inf. द्रोतुम्  
 Absol. -द्रुत्य
@@ -569,7 +569,7 @@ Absol. -द्रुत्य
 ::: indent
 Perf. Vc बभ्राम, बभ्रमुर् । Vb भ्रेमुर्  
 Fut. भ्रमिष्यति  
-Kaus. भ्रमयति  
+Caus. भ्रमयति  
 PPP ***भ्रा***न्त  
 Inf. भ्रमितुम्  
 Absol. -भ्रम्य
@@ -583,7 +583,7 @@ de ello:
 Perf. I ललम्बे  
 Fut. लम्बिष्यते  
 Pass. लम्ब्यते  
-Kaus. लम्बयति  
+Caus. लम्बयति  
 PPP लम्बित  
 Inf. लम्बितुम्  
 Absol. -लम्ब्य
@@ -591,8 +591,8 @@ Absol. -लम्ब्य
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Fig.: [लम्बोदर नमस्तुभ्यम्](/licenses#lekt4601)
-(Fuente de la imagen: [Detalles](/licenses#lekt4601))
+Fig.: [लम्बोदर नमस्तुभ्यम्](/es/licenses#lekt4601)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4601))
 :::
 
 लम्ब् + आ 1Ā आलम्बते : colgarse de (con el acusativo)
@@ -616,8 +616,8 @@ por ejemplo:
 
 ::: media
 ![](/images/lekt4611.jpg)
-Fig.: [भोः](/licenses#lekt4611)
-(Fuente de la imagen: [Detalles](/licenses#lekt4611))
+Fig.: [भोः](/es/licenses#lekt4611)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4611))
 :::
 
 ## 46.3. Ejercicio
@@ -692,13 +692,12 @@ B) Traduzca:
 
 ::: media
 ![](/images/lekt4612.jpg)
-Fig.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/licenses#lekt4612)
-(Fuente de la imagen: [Detalles](/licenses#lekt4612))
+Fig.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/es/licenses#lekt4612)
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4612))
 :::
 
 ::: deleteme-box
 
-### Fuentes
 
 Fuente de las imágenes de Navagraha: Redtigerxyz / Wikipedia. Licencia GNU FDL
 

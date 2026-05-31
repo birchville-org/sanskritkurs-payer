@@ -7,18 +7,12 @@ lesson_id: 18
 
 ## 18.1. सुभाषितम्
 
-:::: grammar-box
-
 ::: indent
 नास्ति कामसमो व्याधिर्  
 नास्ति मोहसमो रिपुः ।  
 नास्ति क्रोधसमो वह्निर्  
 नास्ति ज्ञानसमं सुखम् ॥
 :::
-
-चाणक्य
-
-::::
 
 ## 18.2. Determinativkomposita (तत्पुरुष) mit adverbialem Vorderglied
 
@@ -279,6 +273,7 @@ sam-kṛ + -a = संस्कार m.: Weihe, Zubereitung ; Übergangsrituale
 ::: media
 ![](/images/lekt1804.jpg)
 Abb.: विवाहः
+Hochzeit = विवाह m., ein wichtiger संस्कारः
 (Bildquelle: [Details](/licenses#lekt1804))
 :::
 
@@ -293,6 +288,7 @@ Durch das Upanayana geschieht die zweite Geburt, deshalb: द्विज । �
 ::: media
 ![](/images/lekt1801.jpg)
 Abb.: उपनयनम्
+"A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
 (Bildquelle: [Details](/licenses#lekt1801))
 :::
 
@@ -427,6 +423,7 @@ A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvors
 ::: media
 ![](/images/lekt1802.jpg)
 Abb.: मृतिसाधनी काली
+1770 Print
 (Bildquelle: [Details](/licenses#lekt1802))
 :::
 
@@ -447,6 +444,7 @@ B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
 ::: media
 ![](/images/lekt1803.jpg)
 Abb.: सुगतः
+गन्धार 1./2. Jhdt. n. Chr.
 (Bildquelle: [Details](/licenses#lekt1803))
 :::
 
@@ -457,7 +455,6 @@ D) Übersetzen Sie:
 (धर्मः) सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥
 
 ::: deleteme-box
-### Quellen
 
 **lekt1801:** "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya." [Bildquelle: Nagesh Rao / Wikipedia, GNU FDLicense]
 

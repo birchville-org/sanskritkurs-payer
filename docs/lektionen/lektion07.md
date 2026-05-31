@@ -1,6 +1,10 @@
 ---
+title: Lektion 7
+subtitle: "Den Verbalsatz mit direktem Objekt"
 lesson_id: 7
 last_reconstructed: 2026-05-07
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 7
@@ -233,7 +237,7 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 ::: media
 ![](/images/lekt0701.jpg)
 Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
-(Bildquelle: Wikipedia, GNU FDLizenz)
+(Bildquelle: [Details](/licenses#lekt0701))
 :::
 - **phala** n. फल : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
 - **nṛtya** n. नृत्य : Tanz
@@ -256,7 +260,7 @@ Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) La
 ::: media
 ![](/images/lekt0704.jpg)
 Abb.: Viṣṇu = विष्णु, 8./9. Jahrhundert.
-(Bildquelle: Wikipedia, GNU FDLizenz)
+(Bildquelle: [Details](/licenses#lekt0704))
 :::
 
 2. gurus ... khādati (phala)
@@ -296,9 +300,8 @@ Abb.: Viṣṇu = विष्णु, 8./9. Jahrhundert.
 
 ::: media
 ![](/images/lekt0702.jpg)
-Abb.: **yajati** = यजति
-Vedisches Opfer = **yajña** m. = यज्ञ
-(Bildquelle: Wikipedia, Public Domain)
+Abb.: **yajati** = यजति — Vedisches Opfer = **yajña** m. = यज्ञ
+(Bildquelle: [Details](/licenses#lekt0702))
 :::
 
 **E) Bilden Sie zu allen bisher gelernten Nomina den Akkusativ (dvitīyā) sg. und pl.**
@@ -320,7 +323,7 @@ Vedisches Opfer = **yajña** m. = यज्ञ
 ::: media
 ![](/images/lekt0703.jpg)
 Abb.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
-(Bildquelle: Rajaramraok, Wikipedia, CC-BY 3.0)
+(Bildquelle: [Details](/licenses#lekt0703))
 :::
 
 9. Was kaut dieser heilige Mann?

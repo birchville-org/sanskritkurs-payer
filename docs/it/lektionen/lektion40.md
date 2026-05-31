@@ -1,6 +1,10 @@
 ---
+title: Lezione 40
+subtitle: "सुभाषितानि"
 lesson_id: 40
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 40
@@ -26,8 +30,8 @@ last_reconstructed: 2026-05-21
 
 ::: media
 ![lekt4005.jpg](/images/lekt4005.jpg)
-Abb.: पादं सब्रह्मचारिभ्यः
-(Bildquelle: [Details](/licenses#lekt4005))
+Fig.: पादं सब्रह्मचारिभ्यः
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4005))
 :::
 
 ## 40.2. Formazione delle forme verbali della prima persona del Perfetto (लिट्)
@@ -44,42 +48,42 @@ Desinenze della prima persona (तृतीयः) nel Perfetto (लिट्)
 ::::
 
 ::: grammar-box
-Si noti che le desinenze della prima persona singolare P,Ā sono identiche a quelle della terza persona singolare. Pertanto, in tutti i tipi di Perfetto tranne il Tipo III(a,b) e il Tipo V(a,b,c), le forme della prima singolare P e Ā sono sempre identiche a quelle della terza singolare P e Ā.
+Si noti che le desinenze della prima persona singolare P,Ā sono identiche a quelle della terza persona singolare. Pertanto, in tutti i tipi di Perfetto tranne il Tipo III(a,b) e il Tipo V(a,b,c), le forme della prima singolare P o Ā sono sempre identiche a quelle della terza singolare P o Ā.
 
 Nel Tipo IV, la prima singolare P termina come la terza singolare P con -au.
 
 Nei tipi di Perfetto III e V, la prima singolare Ā è sempre identica alla terza singolare Ā.
 
-Nei tipi di Perfetto III e V, la prima singolare P e la terza singolare P sono facoltativamente identiche: la terza singolare P deve essere sempre di grado allungato (dehnstufig) per questi tipi di formazione, mentre la prima singolare P può essere facoltativamente di grado forte (hochstufig) o di grado allungato (dehnstufig).
+Nei tipi di Perfetto III e V, la prima singolare P e la terza singolare P sono facoltativamente identiche: la terza singolare P deve essere sempre di grado allungato per questi tipi di formazione, mentre la prima singolare P può essere facoltativamente di grado forte o di grado allungato.
 :::
 
 ::: grammar-box
-Davanti a desinenze che iniziano con consonante, la maggior parte delle radici inserisce la vocale di collegamento -i-.
+Prima delle desinenze con inizio consonantico, presso la maggior parte delle radici, compare la vocale di collegamento -i-.
 
-Tranne davanti alla desinenza -re, davanti alla quale deve sempre comparire -i-, la vocale di collegamento davanti a desinenze che iniziano con consonante non compare mai in otto radici che terminano in -ṛ o -u, vale a dire:
+Tranne prima della desinenza -re, prima della quale deve sempre comparire -i-, la vocale di collegamento prima delle desinenze con inizio consonantico non compare mai in otto radici che terminano in -ṛ o -u, vale a dire
 
-1.  कृ 8U (eccetto संस्कृ)
+1.  कृ 8U (tranne संस्कृ)
 2.  भृ 1U
 3.  वृ 9U "scegliere"
 4.  सृ 1P
 5.  द्रु 1p "correre"
 6.  श्रु 5P
 7.  स्तु 2U
-8.  स्रु 1P "scorrere"
+8.  स्रु 1P "fluire"
 
 Nelle cosiddette radici अनिट् facoltative, la vocale di collegamento può essere inserita facoltativamente oppure no. (Elenco di queste radici in Kielhorn, Grammatik pag. 92 § 298b,2,3)
 :::
 
-### 40.2.1. Tipo di Perfetto I: nessuna ablazione della radice
+### 40.2.1. Tipo di perfetto I: nessuna ablazione della radice
 
 1.sg. = 3.sg.
 
 Verbi che seguono questo tipo:
 
-*   Consonante-Vocale Lunga-Consonante
-*   Consonante-Vocale-Consonante-Consonante
-*   a-Consonante(-Consonante)
-*   ā-Consonante
+*   C-V lungo-C
+*   C-V-C-C
+*   a-C(-C)
+*   ā-Konsonant
 
 बन्ध् 9P
 
@@ -109,7 +113,7 @@ Verbi che seguono questo tipo:
 *   1.pl.P आसिम (a + as-i-ma)
 :::
 
-### 40.2.2. Tipo di Perfetto II: radice forte in grado alto, radice debole in grado basso
+### 40.2.2. Tipo di perfetto II: radice forte in grado alto, radice debole in grado basso
 
 Verbi che seguono questo tipo:
 
@@ -135,11 +139,11 @@ Verbi che seguono questo tipo:
 *   1.pl.P मुमुहिम । मुमुह्म
 :::
 
-### 40.2.3. Tipo di Perfetto III: Radice forte in grado forte/grado allungato
+### 40.2.3. Tipo III del Perfetto: Radice forte in grado elevato/lungo
 
-1.sg.P grado forte o grado allungato, a scelta
+1.sg.P grado elevato o grado lungo a scelta
 
-#### 40.2.3.1. Tipo di Perfetto IIIa: Radice forte in grado forte/grado allungato, radice debole in grado basso
+#### 40.2.3.1. Tipo IIIa del Perfetto: Radice forte in grado elevato/lungo, radice debole in grado basso
 
 Verbi che seguono questo tipo:
 
@@ -166,7 +170,7 @@ Verbi che seguono questo tipo:
 *   1.pl.Ā निन्यिमहे
 :::
 
-स्तु 2U rigorosamente अनिट्
+स्तु 2U strettamente अनिट्
 
 ::: indent
 *   1.sg.P तुष्टाव । तुष्टव (tu-sto + a)
@@ -178,7 +182,7 @@ Verbi che seguono questo tipo:
 *   1.pl.Ā तुष्टुमहे
 :::
 
-कृ 8U rigorosamente अनिट्
+कृ 8U strettamente अनिट्
 
 ::: indent
 *   1.sg.P चकार । चकर
@@ -190,12 +194,12 @@ Verbi che seguono questo tipo:
 *   1.pl.Ā चकृमहे
 :::
 
-#### 40.2.3.2. Tipo di Perfetto IIIb: Radice forte in grado forte/grado allungato, radice debole in grado forte
+#### 40.2.3.2. Tipo IIIb del Perfetto: Radice forte in grado elevato/lungo, radice debole in grado elevato
 
 Verbi che seguono questo tipo:
 
 *   (Consonante-)(Consonante-)-ṝ
-*   Consonante-Consonante-ṛ
+*   Konsonant-Konsonant-ṛ
 
 पॄ 3P
 
@@ -225,13 +229,13 @@ Verbi che seguono questo tipo:
 *   1.pl.Ā सञ्चस्करिमहे
 :::
 
-### 40.2.4. Tipo IV del Perfetto: Radici terminanti in -ā / -ai
+### 40.2.4. Tipo IV del Perfetto: Radici in -ā / -ai
 
-*   Forma forte:
-    *   1ª e 3ª persona singolare del Parasemaipāt: -au
-*   Forma debole:
-    *   davanti a consonante: grado ridotto -i
-    *   davanti a vocale: grado ridotto -ø
+*   Radice forte:
+    *   1.,3. sg. Parasemaip.: -au
+*   Radice debole:
+    *   prima di consonante: grado profondo -i
+    *   prima di vocale: grado profondo -ø
 
 दा 3U
 
@@ -247,9 +251,9 @@ Verbi che seguono questo tipo:
 
 ### 40.2.5. Tipo V del Perfetto: Consonante-a-Consonante
 
-1.sg.P. facoltativamente grado forte o grado allungato
+1.sg.P. facoltativamente in grado alto o in grado allungato
 
-#### 40.2.5.1. Tipo Va del Perfetto: Consonante-a-Consonante, radice debole grado basso
+#### 40.2.5.1. Tipo Va del Perfetto: Consonante-a-Consonante, radice debole in grado basso
 
 Verbi che seguono questo tipo:
 
@@ -304,7 +308,7 @@ Verbi che seguono questo tipo:
     
 *   1.sg.Ā ऊदे
     
-*   1.pl.Ā  ऊदिमहे
+*   1.pl.Ā  ऊदिमहे
 :::
 
 यज् 1U
@@ -319,7 +323,7 @@ Verbi che seguono questo tipo:
 *   1.pl.Ā ईजिमहे
 :::
 
-#### 40.2.5.2. Tipo Vb del Perfetto: Consonante-a-Consonante, consonante iniziale non gutturale, non aspirata, non h, radice debole senza reduplicazione, con -e-
+#### 40.2.5.2. Tipo Vb del Perfetto: Consonante-a-Consonante, iniziale non gutturale, aspirata, h, radice debole senza reduplicazione, con -e-
 
 पच् 1U
 
@@ -333,11 +337,11 @@ Verbi che seguono questo tipo:
 *   1.pl.Ā पेचिमहे
 :::
 
-#### 40.2.5.3. Tipo Vc del Perfetto: Consonante-a-Consonante, radice debole grado forte
+#### 40.2.5.3. Tipo Vc del Perfetto: Consonante-a-Consonante, radice debole in grado alto
 
 Verbi che seguono questo tipo:
 
-*   Tutte le altre radici con la vocale centrale -a-
+*   Tutte le altre radici con -a- centrale
 
 क्रम् 1U
 
@@ -351,7 +355,7 @@ Verbi che seguono questo tipo:
 *   1.pl.Ā चक्रमिमहे
 :::
 
-### 40.2.6. Formazioni speciali del Perfetto
+### 40.2.6. Formazioni perfette speciali
 
 विद् 2P perfetto presentico:
 
@@ -361,7 +365,7 @@ Verbi che seguono questo tipo:
 *   1.pl.P विद्म
 :::
 
-अह् 1ª persona non d’uso!
+अह् 1ª persona non usuale!
 
 भू 1P
 
@@ -383,12 +387,12 @@ Verbi che seguono questo tipo:
 
 Il perfetto perifrastico è formato da:
 
-*   temi verbali derivati (causativo, desiderativo, frequentativo, denominativi), in particolare il causativo;
-*   radici che iniziano con una vocale lunga (tranne ā);
-*   radici con la struttura vocale (tranne a)-consonante-consonante;
-*   alcune altre radici;
-*   in alcuni casi, per determinate radici, è possibile formare opzionalmente entrambi i tipi di perfetto: uṣ "bruciare", vid "sapere", jāgṛ "stare sveglio", daridrā "essere povero";
-*   per le seguenti radici, è possibile formare opzionalmente entrambi i tipi di perfetto, e anche il perfetto perifrastico è reduplicato, utilizzando la sillaba di reduplicazione del tema del presente:
+*   temi verbali derivati (causativo, desiderativo, frequentativo, denominativi), in particolare il causativo
+*   radici che iniziano con una vocale lunga (tranne ā)
+*   radici: vocale (tranne a)-consonante-consonante
+*   alcune altre
+*   per alcune radici possono essere formate opzionalmente entrambe le forme di perfetto: uṣ "bruciare", vid "sapere", jāgṛ "vegliare", daridrā "essere povero"
+*   per le seguenti radici possono essere formate opzionalmente entrambe le forme di perfetto e anche il perfetto perifrastico è reduplicato, precisamente con la sillaba di reduplicazione del tema presente:
     *   bhī "temere"
     *   bhṛ "portare"
     *   hu "sacrificare"
@@ -410,10 +414,10 @@ Il perfetto perifrastico è formato da:
 *   1.pl.P बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम
 :::
 
-## 40.4. Considerazioni sintattiche sulla prima persona (तृतीयः)
+## 40.4. Sintassi sulla prima persona (तृतीयः)
 
 ::: grammar-box
-Poiché un verbo finito (verbo coniugato) esprime già l'Agente (कर्तृ), il "io" o il "noi" nelle frasi verbali non passive con verbo finito non devono essere espressi extra tramite un pronome personale.
+Poiché un verbo finito (verbo coniugato) esprime anche l'Agente (कर्तृ), "io", "noi" nelle frasi verbali non passive con verbo finito non devono essere esplicitati extra da un pronome personale
 :::
 
 ## 40.5. Pronomi personali (पुरुषार्थकसर्वनाम) della prima persona singolare e plurale
@@ -437,15 +441,15 @@ La forma del pronome personale (pronome personale) è la stessa per tutti i gene
 ::::
 
 ::: grammar-box
-Le forme più brevi, indicate sopra in seconda posizione (मा, मे, नस्), non possono mai essere utilizzate all'inizio di una frase o di un verso.
+Le forme più brevi, indicate sopra in seconda posizione (मा, मे, नस्), non devono mai essere usate all'inizio di una frase o di un verso.
 
-Prima delle particelle च, वा, एव non possono essere utilizzate neppure queste cosiddette forme enclitiche:
+Prima delle particelle च, वा, एव, queste cosiddette forme enclitiche non possono essere impiegate:
 
 solo: ... मां च ... "e me"
 :::
 
 ::: grammar-box
-Il genitivo (षष्ठी) dei pronomi personali viene utilizzato come pronome possessivo:
+Il genitivo (षष्ठी) dei pronomi personali è usato come pronome possessivo:
 
 मम । मे = "mio"
 
@@ -453,7 +457,7 @@ Il genitivo (षष्ठी) dei pronomi personali viene utilizzato come pronom
 :::
 
 ::: grammar-box
-Come primo membro di composti, per questi pronomi si utilizzano le seguenti radici:
+Come primo membro di composti, per questi pronomi si impiegano le radici:
 
 *   sg. मद्
 *   pl. अस्मद्
@@ -461,7 +465,7 @@ Come primo membro di composti, per questi pronomi si utilizzano le seguenti radi
 ad es. मत्पुस्तकम् "il mio libro" ; अस्मद्पुस्तकानि "i nostri libri"
 :::
 
-## 40.6. Elenco lessicale
+## 40.6. Elenco di parole
 
 पात्र n.: Venerabile, Maestro, Degno
 
@@ -469,21 +473,21 @@ ad es. मत्पुस्तकम् "il mio libro" ; अस्मद्प�
 
 पुस्तक m.n.: Manoscritto, libro
 
-कॢप् 1Ā कल्पते : essere in ordine corretto, corrispondere a (Loc.); formarsi, costituirsi; decidere di, acconsentire a (Dativo)
+कॢप् 1Ā कल्पते : essere in ordine corretto, corrispondere a (Loc.) ; formarsi, costituirsi ; decidere di, acconsentire a (Dat.)
 
 ::: indent
-Perf. II चकॢपé facoltativo anit  
+Perf. II चकॢपे facoltativo अनिट्  
 Fut. कल्पिष्यते । कल्प्स्यते  
-Caus. कल्पयति : mettere in ordine, creare, formare nella fantasia, immaginarsi  
+Caus. कल्पयति : mettere in ordine, creare, formare nell'immaginazione, immaginarsi  
 PPP कॢप्त  
 Inf. कल्पितुम् । कल्प्तुम्
 
 da ciò:
 
-कल्पना f.: La formazione nella mente, assunzione di qualcosa che non esiste nella realtà, finzione
+कल्पना f.: La formazione nel pensiero, assunzione di qualcosa di non esistente nella realtà, finzione
 :::
 
-कॢप् + वि Caus. विकल्पयति : (immaginarsi in modo diverso =) mettere in questione, dubitare
+कॢप् + वि Caus. विकल्पयति : (immaginarsi in modo diverso =) mettere in discussione, dubitare
 
 ::: indent
 da ciò:
@@ -520,36 +524,36 @@ da ciò:
 ::: media
 ![lekt4003.jpg](/images/lekt4003.jpg)
 Fig.: हरिद्वारे तीर्थम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4003))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4003))
 :::
 
 ::: indent
-तीर्थङ्कर m. (da: तीर्थम्+ कृ): Colui che crea guadi (oltre la sofferenza) = i 24 maestri dei Giaini
+तीर्थङ्कर m. (da: तीर्थम्+ कृ): Costruttore di guadi (oltre il dolore) = i 24 maestri dei Giainisti
 :::
 
 ::: media
 ![lekt4002.jpg](/images/lekt4002.jpg)
 Fig.: तीर्थङ्करः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4002))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4002))
 :::
 
-अव Prefisso verbale: giù, verso il basso, via, ab-
+अव Prefisso: giù, verso il basso, via, via-
 
 तॄ + अव 1P अवतरति : scendere
 
 ::: indent
 da ciò:
 
-अवतार m.: (Colui che scende, discesa) Incarnazione di una divinità, in particolare le 10 incarnazioni di Viṣṇu (cfr. Basham, Meraviglie pagg. 304 - 309)
+अवतार m.: (Colui che scende, discesa) Incarnazione di un dio, in particolare le 10 incarnazioni di Viṣṇu (cfr. Basham, Meraviglie pag. 304 - 309)
 :::
 
 ::: media
 ![lekt4001.jpg](/images/lekt4001.jpg)
 Fig.: विष्णोर्दशावताराः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4001))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4001))
 :::
 
-स्वप् 2P स्वपिति,  स्वपन्ति : dormire, coricarsi
+स्वप् 2P स्वपिति,  स्वपन्ति : dormire, sdraiarsi per dormire
 
 ::: indent
 Imperf. अस्वपीत् । अस्वपत्  
@@ -570,16 +574,16 @@ da ciò:
 ::: media
 ![lekt4004.jpg](/images/lekt4004.jpg)
 Fig.: स्वपन्ति
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4004))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4004))
 :::
 
 ## 40.7. Esercizio
 
-A) Tradurre le **सुभाषितानि** (*subhāṣitāni*) all’inizio della lezione.
+A) Tradurre le सुभाषितानि all'inizio della lezione.
 
-B) Trasformare le seguenti forme verbali nelle corrispondenti forme del perfetto. In caso di più possibilità, indicare tutte le opzioni.
+B) Trasformare le seguenti forme verbali nelle corrispondenti forme del perfetto. In caso di più possibilità, indicare tutte le possibilità.
 
-(Nota sui segni: अ = *anīṭ*, इ = facoltativamente *anīṭ*)
+(Nota sui simboli: अ = अनिट्, इ = facoltativo अनिट्)
 
 1.  अश्नीमः
 2.  स्मः
@@ -694,11 +698,9 @@ B) Trasformare le seguenti forme verbali nelle corrispondenti forme del perfetto
 
 ::: deleteme-box
 
-### Fonti
-
-- **Image lekt4005.jpg** (Fig.: पादं सब्रह्मचारिभ्यः): Vadaseri, Distretto di Thanjavur = தஞ்சாவூர் மாவட்டam [Fonte immagine: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Accesso il 2009-01-02. -- Licenza Creative Commons (Attribuzione, Condividi allo stesso modo)]
+- **Image lekt4005.jpg** (Fig.: पादं सब्रह्मचारिभ्यः): Vadaseri, Distretto di Thanjavur = தஞ்சாவூர் மாவட்டam [Fonte immagine: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Accesso il 2009-01-02. -- Licenza Creative Commons (Attribuzione, share alike)]
 - **Image lekt4003.jpg** (Fig.: हरिद्वारे तीर्थम्): [Fonte immagine: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Accesso il 2009-01-02. -- Licenza Creative Commons (Attribuzione)]
-- **Image lekt4002.jpg** (Fig.: तीर्थङ्करः): [Fonte immagine: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Accesso il 2009-01-02. -- Licenza Creative Commons (Attribuzione, Non commerciale, Non opere derivate)]
-- **Image lekt4001.jpg** (Fig.: विष्णोर्दशावताराः): In senso orario: मत्स्य, कुर्म, वाराह, वामन, कृष्ण, कल्कि, बुद्ध, परशुराम, राम, नरसिंह; al centro: कृष्ण [Fonte immagine: Wikipedia. Dominio pubblico]
-- **Image lekt4004.jpg** (Fig.: स्वपन्ति): Pipistrelli volpi indiani (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Fonte immagine: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Accesso il 2009-01-02. -- Licenza Creative Commons (Attribuzione, Non commerciale, Non opere derivate)]
+- **Image lekt4002.jpg** (Fig.: तीर्थङ्करः): [Fonte immagine: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Accesso il 2009-01-02. -- Licenza Creative Commons (Attribuzione, non commerciale, nessuna opera derivata)]
+- **Image lekt4001.jpg** (Fig.: विष्णोर्दशावताराः): In senso orario: मत्स्य, कुर्म, वाराह, वामन, कृष्ण, कल्कि, बुद्ध, परशुराम, राम, नरसिंह, al centro: कृष्ण [Fonte immagine: Wikipedia. Dominio pubblico]
+- **Image lekt4004.jpg** (Fig.: स्वपन्ति): Pipistrelli della frutta indiani (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Fonte immagine: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Accesso il 2009-01-02. -- Licenza Creative Commons (Attribuzione, non commerciale, nessuna opera derivata)]
 :::

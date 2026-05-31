@@ -7,6 +7,12 @@ export const en = {
   description: 'Grammar textbook by Alois Payer',
   themeConfig: {
     outline: { level: [2, 3], label: 'On this page' },
+    returnToTopLabel: 'Return to top',
+    sidebarMenuLabel: 'Menu',
+    darkModeSwitchLabel: 'Appearance',
+    lightModeSwitchTitle: 'Switch to light theme',
+    darkModeSwitchTitle: 'Switch to dark theme',
+    langMenuLabel: 'Change language',
     nav: [
       { text: 'Home', link: '/en/' },
       { text: 'TOC', link: '/en/lektionen/inhaltsverzeichnis' },

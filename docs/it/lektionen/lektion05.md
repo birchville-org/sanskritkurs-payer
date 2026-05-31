@@ -1,123 +1,124 @@
 ---
+title: Lezione 5
+subtitle: "Fondamenta dei composti nominali (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
+category: "Grammatica"
+status: stable
 ---
 
-# Lektion 5
+# Lezione 5
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- Grundlagen der Nominalkomposita (samāsa) &lt;!-- TODO: Fallback translation --&gt;
-- Fachterminologie für Komposita &lt;!-- TODO: Fallback translation --&gt;
-- Kopulative Komposita (Dvandva) &lt;!-- TODO: Fallback translation --&gt;
-- Die Reihenfolge der Glieder in Dvandvas &lt;!-- TODO: Fallback translation --&gt;
+**In questa lezione imparate:**
+- Fondamenta dei composti nominali (samāsa)
+- Terminologia tecnica per i composti
+- Composti copulativi (Dvandva)
+- L'ordine dei membri nei Dvandva
 :::
 
-## 5.1. Nominalkomposita (samāsa m. = समास)
+## 5.1. Composti nominali (samāsa m. = समास)
 
-La formazione di composti lessicali in grande abbondanza è una caratteristica distintiva del sanscrito.
+La formazione di composti lessicali in grande abbondanza è una caratteristica del sanscrito.
 
-Le forme principali di formazione dei composti sono:
+Le forme principali di formazione di composti sono:
 - **composti copulativi** (dvandva n. = द्वन्द्व)
 - **composti determinativi** (tatpuruṣa m. = तत्पुरुष)
 - **composti possessivi** (bahuvrīhi m. = बहुव्रीहि)
 
-(Sui due ultimi menzionati, si veda più avanti!)
+(Sui due ultimi nominati, vedere più avanti!)
 
 ---
 
-## 5.2. Zur Sanskrit-Terminologie für Komposita
+## 5.2. Sulla terminologia sanscrita per i composti
 
-- **ghaṭakapadāni** n. pl. = घटकपदानि : Membra di un composto
+- **ghaṭakapadāni** n. pl. = घटकपदानि : Membri di un composto
 - **vigrahavākyam** n. = विग्रहवाक्यम् : Risoluzione di un composto
-- **nityasamāsaḥ** m. = नित्यसमासः : Composto per il quale non esiste un *vigrahavākya* o il cui *vigrahavākya* non è possibile formulare con le parole del composto.
+- **nityasamāsaḥ** m. = नित्यसमासः : Composto per il quale non esiste un vigrahavākya o il cui vigrahavākya non è possibile formare con le parole del composto.
 - **aluksamāsaḥ** m. = अलुक्समासः : Composto in cui il primo membro conserva una desinenza casuale
-- **luksamāsaḥ** m. = लुक्समासः : Composto i cui primi membri sono privi di desinenze casuali (caso normale)
-- **madhyamapadalopī** m. = मध्यमपदलोपी : Composto in cui vengono omessi uno o più membri intermedi
+- **luksamāsaḥ** m. = लुक्समासः : Composto i cui primi membri sono privi di desinenze casuali (il caso normale)
+- **madhyamapadalopī** m. = मध्यमपदलोपी : Composto in cui uno o più membri intermedi vengono omessi
 
 ---
 
-## 5.3. Kopulative Komposita (Dvandva n. = द्वन्द्व)
+## 5.3. Kompositi copulativi (Dvandva n. = द्वन्द्व)
 
-I composti copulativi servono a collegare membri grammaticalmente omogenei e coordinati (sostantivi o aggettivi).
+I compositi copulativi servono a collegare membri grammaticalmente omogenei, coordinati (sostantivi o aggettivi).
 
 ::: grammar-box
 **Un Dvandva indica:**
 
-1. **o la connessione sommativa delle persone, cose o proprietà designate dai suoi singoli membri:**
+1. **o la connessione sommativa delle persone, cose, proprietà indicate dai suoi singoli membri:**
    Itaretaradvandva = इतरेतरद्वन्द्व
 
-2. **o riunisce queste persone, cose o proprietà in un'unica entità:**
+2. **o riunisce queste persone, cose o proprietà in un'unica unità:**
    Samāhāradvandva ("Dvandva di riassunto") = समाहारद्वन्द्व
 
 **Nel primo caso (Itaretaradvandva):**
-Il Dvandva assume il genere grammaticale dell'ultimo membro e le desinenze del duale (per due cose) o del plurale (per più di due cose). Sono ammesse anche desinenze singolari.
+Il Dvandva assume il genere grammaticale del suo ultimo membro e le desinenze del duale (per due cose) o del plurale (per più di due cose). Sono ammesse anche desinenze singolari.
 
 **Nel secondo caso (Samāhāradvandva):**
-Il Dvandva è in generale un neutro (indipendentemente dal genere dell'ultimo membro) ed è al singolare.
+Il Dvandva è in generale un neutro (indipendentemente dal genere dell'ultimo membro) e sta al singolare.
 
 **La risoluzione:**
-Avviene con "e" (**ca** = च), talvolta con "o" (**vā** = वा) o "ciascuno".
+Avviene con "e" (**ca** = च), occasionalmente con "o" (**vā** = वा) o "ciascuno".
 :::
 
-Per i Dvandva duale, si veda più avanti!
+Per i Dvandva duale, vedere più avanti!
 
-### 5.3.1. Vorderglieder von Komposita
+### 5.3.1. Elementi iniziali dei composti
 
-I composti copulativi servono a collegare membri grammaticalmente omogenei e coordinati (sostantivi o aggettivi).
+Gli elementi iniziali dei composti (non solo Dvandvas) hanno di norma la forma del **stame nominale** invariato. Le singole parti dei composti vengono unite secondo le regole del **Sandhi di frase** (cioè del Sandhi finora appreso, in contrapposizione al Sandhi di parola, che si applica all'interno della parola prima degli elementi formativi).
 
-### 5.3.2. Plurale-Itaretaradvandva
+### 5.3.2. Plurale Itaretaradvandva
 
-I composti copulativi servono a collegare membri grammaticalmente omogenei e coordinati (sostantivi o aggettivi).
+Esempi di Pluraldvandva:
 
-**Un Dvandva indica:**
-> **o la connessione sommativa delle persone, cose o proprietà designate dai suoi singoli membri:**
->    Itaretaradvandva = इतरेतरद्वन्द्व
-> **o riunisce queste persone, cose o proprietà in un'unica entità:**
->    Samāhāradvandva ("Dvandva di riassunto") = समाहारद्वन्द्व
-> **Nel primo caso (Itaretaradvandva):**
-Il Dvandva assume il genere grammaticale dell'ultimo membro e le desinenze del duale (per due cose) o del plurale (per più di due cose). Sono ammesse anche desinenze singolari.
+**brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ब्राह्मणक्षत्रियवैश्यशूद्राः
+> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च
+> (Brahmani, Kṣatriya, Vaiśya e Śūdra)
+> 
+> oppure = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च
+> (un/uno Brahmana, Kṣatriya, Vaiśya e Śūdra)
 
-**Nel secondo caso (Samāhāradvandva):**
-Il Dvandva è in generale un neutro (indipendentemente dal genere dell'ultimo membro) ed è al singolare.
-> **La risoluzione:**
-Avviene con "e" (**ca** = च), talvolta con "o" (**vā** = वा) o "ciascuno".
-> Per i Dvandva duale, si veda più avanti!
-> (Anmerkung: "Ein Dichter und ein Lehrer" müsste im Dual stehen!) <!-- TODO: Fallback translation -->
+**kavi-guravaḥ** = कविगुरवः
+> = kavayo guravaś ca = कवयो गुरवश्च
+> (poeti e insegnanti [Plur.])
+> (Nota: "Un poeta e un insegnante" dovrebbe essere al duale!)
 
-**Für die Reihenfolge der Glieder in einem Dvandva gelten u.a. folgende Regeln:** <!-- TODO: Fallback translation -->
-- Die Bezeichnung der verschiedenen Stände (**varṇa**) soll gemäß ihrer Hierarchie (höchster zuerst) geordnet werden. <!-- TODO: Fallback translation -->
-- Der Name des älteren Bruders soll dem Namen des jüngeren Bruders vorangestellt werden. <!-- TODO: Fallback translation -->
-- Im Allgemeinen soll das wichtigere Wort an den Anfang gestellt werden. <!-- TODO: Fallback translation -->
-- Wörter, die auf **-i** oder **-u** enden, sollen vorausgehen. <!-- TODO: Fallback translation -->
-- Wörter, die auf **-a** enden und mit einem Vokal anfangen, sollen vorausgehen. <!-- TODO: Fallback translation -->
-- Wörter, die weniger Silben enthalten, sollen vorausgehen. <!-- TODO: Fallback translation -->
+**Per l'ordine dei membri in un Dvandva valgono, tra le altre, le seguenti regole:**
+- La designazione dei diversi ordini sociali (**varṇa**) deve essere ordinata secondo la loro gerarchia (il più alto per primo).
+- Il nome del fratello maggiore deve precedere il nome del fratello minore.
+- In generale, la parola più importante deve essere posta all'inizio.
+- Le parole che terminano in **-i** o **-u** devono precedere.
+- Le parole che terminano in **-a** e iniziano con una vocale devono precedere.
+- Le parole che contengono meno sillabe devono precedere.
 
-Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen können, soll immer die später gegebene Regel befolgt werden. (Beispiele von Dualdvandva zu diesen Regeln bei Kielhorn, Grammatik § 570). <!-- TODO: Fallback translation -->
+Quando due delle tre ultime disposizioni possono applicarsi contemporaneamente, deve sempre essere seguita la regola fornita successivamente. (Esempi di Dualdvandva per queste regole in Kielhorn, Grammatik § 570).
 
 ---
 
-## 5.4. Lessico
+## 5.4. Elenco di parole
 
-**Imparare le seguenti parole:**
+**Impara le seguenti parole:**
 
-**abhiniveṣa** m. = अभिनिवेष : inclinazione, ostinazione, insistenza; in particolare: attaccamento al corpo, considerandolo come qualcosa di proprio.
+**abhiniveṣa** m. = अभिनिवेष : inclinazione, ostinazione, insistenza; in particolare: attaccamento al corpo come se fosse qualcosa di proprio.
 
 **kāma** m. = काम : desiderio, brama, dono desiderato, piacere sensuale, amore; dio dell'amore Kāma.
 
 ::: media
 ![](/images/lekt0501.jpg)
-Fig.: Dio Kāma = kāmadeva = कामदेव, XVIII secolo
-(Fonte dell'immagine: Wikipedia, di pubblico dominio)
+Fig.: Dio Kāma = kāmadeva = कामदेव, XVIII secolo.
+(Fonte dell'immagine: Wikipedia, dominio pubblico)
 :::
 
 **krodha** m. = क्रोध : ira.
 
-**kleśa** m. = क्लेश : tormento, afflizione.
+**kleśa** m. = क्लेश : tormento, flagello.
 
-**trayī** f. = त्रयी : numero tre; in particolare i tre Veda (Ṛgveda, Sāmaveda, Yajurveda).
+**trayī** f. = त्रयी : triade; in particolare le tre Veda (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = दण्डनीति : politica (un Tatpuruṣa composto da daṇḍa m. = "bastone, potere, governo, pena" e nīti f. = "giusta guida").
+**daṇḍanīti** f. = दण्डनीति : politica (un Tatpuruṣa composto da daṇḍa m. = "bastone, potere, regno, pena" e nīti f. = "guida corretta").
 
 **dvijāti** 3 / **dvija** 3 = द्विजाति / द्विज : due volte nato.
 
@@ -131,14 +132,14 @@ Fig.: Dio Kāma = kāmadeva = कामदेव, XVIII secolo
 
 **varṇa** m. = वर्ण : colore, genere, casta.
 
-**vārttā** f. = वार्त्ता : sostentamento, economia (economia).
+**vārttā** f. = वार्त्ता : sostentamento, economia (sistema economico).
 
 **vidyā** f. = विद्या : conoscenza, scienza.
 
-**avidyā** f. = अविद्या : ignoranza, non-sapere.
+**avidyā** f. = अविद्या : ignoranza, non conoscenza.
 
 **ca** = च : e.
-(Viene posposto alla parola che collega. Se vengono collegate più parole, idealmente si colloca dopo la prima parola dell'ultimo elemento collegato: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च).
+(Viene posposto alla parola che collega. Quando vengono collegate più parole, idealmente si colloca dopo la prima parola dell'ultimo elemento di collegamento: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च).
 
 **ca ... ca** = च ... च : sia ... sia.
 
@@ -146,11 +147,11 @@ Fig.: Dio Kāma = kāmadeva = कामदेव, XVIII secolo
 
 ## 5.5. Esercizio
 
-**A) Tradurre le seguenti frasi e composti e risolvere i Dvandva in essi contenuti in sanscrito:**
+**A) Tradurre le seguenti frasi e composti e risolvere i Dvandvas in essi contenuti in Sanscrito:**
 
 1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
    (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
-   चत्वारो वर्णा ब्राह्मणक्षत्रियवैश्याः ||
+   चत्वारो वर्णा ब्राह्मणक्षत्रियवैश्यशूद्राः ||
    (Spiegazione: catvāras = चत्वारस् = "quattro")
 
 2. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ.
@@ -159,17 +160,17 @@ Fig.: Dio Kāma = kāmadeva = कामदेव, XVIII secolo
    (Spiegazione: trayas = त्रयस् = "tre")
 
 3. sāmavedargvedayajurvedās trayī.
-   (Kauṭilīya-arthaśāstra 1.3.1. / in sanscrito corretto: sāmārgyajurvedās trayī)
+   (Kauṭilīya-arthaśāstra 1.3.1. / in buon Sanscrito: sāmārgyajurvedās trayī)
    सामवेदर्ग्वेदयजुर्वेदास्त्रयी ||
-   (in sanscrito corretto: सामार्यजुर्वेदास्त्रयी)
+   (in buon Sanscrito: सामार्यजुर्वेदास्त्रयी)
 
-4. I tre nemici dell'uomo, che formano la porta verso l'inferno (Viṣṇusmṛti 33,1+6):
+4. I tre nemici dell'uomo, che formano la porta all'inferno (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
    कामक्रोधलोभाः ||
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
    मैत्रीकरुणामुदितोपेक्षाश्चत्वारो ब्रह्मविहाराः ||
-   (Spiegazione: brahmavihāra: "stati di dimora di Brahma", detti anche "Illimitati". Si tratta di forme di meditazione buddhiste.)
+   (Spiegazione: brahmavihāra: "stati di dimora di Brahma", detti anche "Illimitati". Sono forme di meditazione buddhiste.)
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
    (Yogasūtra 2,3)
@@ -182,7 +183,7 @@ Fig.: Dio Kāma = kāmadeva = कामदेव, XVIII secolo
 
 ---
 
-## 5.6. Wiederholungsübung
+## 5.6. Esercizio di ripasso
 
 **A) Tradurre:**
 
@@ -206,11 +207,11 @@ Fig.: Dio Kāma = kāmadeva = कामदेव, XVIII secolo
 3. dvijātayas ... (vaiśyā, kṣatriya)
    द्विजातयस् ... (वैश्या, क्षत्रिय) |
 
-**C) Risolvere il composto nel seguente enunciato in sanscrito e formare con questa forma risolta la stessa frase:**
+**C) Risolvere il composto nel seguente frase in sanscrito e formare con questa forma risolta la stessa frase:**
 
 sāmargyajurvedās trayī.
 सामर्ग्यजुर्वेदास्त्रयी |
 
-**D) Tradurre in sanscrito in due modi (una volta con un composto, una volta senza):**
+**D) Tradurre in due modi in sanscrito (una volta con un composto, una volta senza):**
 
-Gli "stati di dimora del Brahman" sono: benevolenza amichevole, compassione, gioia empatica, equanimità.
+"stati di dimora di Brahman" sono: benevolenza amichevole, compassione, gioia empatica, equanimità.

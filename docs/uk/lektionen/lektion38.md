@@ -1,8 +1,17 @@
-# Lektion 38
+---
+title: Урок 38
+subtitle: "Тлумачення тижня"
+lesson_id: 38
+last_reconstructed: 2026-05-21
+category: "Граматика"
+status: stable
+---
 
-## 38.1. Losung der Woche
+# Урок 38
 
-मनुस्मृति ४.३२ über rechtes Urinieren: &lt;!-- TODO: Fallback translation --&gt;
+## 38.1. Розв’язок тижня
+
+मनुस्मृति ४.३२ про правильне сечовипускання:
 
 ::: indent
 प्रत्य***ग्नि*** प्रतिसूर्यं च  
@@ -11,87 +20,60 @@
 प्रज्ञा नश्यति मेहतः ॥
 :::
 
-Erklärungen: &lt;!-- TODO: Fallback translation --&gt;
+Пояснення:
 
-\-अग्नि Neutrum Nom.Akk.sg. zu अग्नि m. &lt;!-- TODO: Fallback translation --&gt;
+\-अग्नि Серідній рід, називний/знахідний відмінок, однина до अग्नि чол. роду.
 
-\-गु Neutrum Nom.Akk.sg. zu गो m.f. "Rind, Kuh" &lt;!-- TODO: Fallback translation --&gt;
+\-गु Серідній рід, називний/знахідний відмінок, однина до गो чол./жін. роду «бик, корова»
 
 ::: media
 ![](/images/lekt3801.jpg)
-Abb.: ... प्रज्ञा नश्यति मेहतः  
-Bangalore = ಬೆಂಗಳೂರು  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] &lt;!-- TODO: Fallback translation --&gt;
+Рис.: प्रज्ञा नश्यति मेहतः
+(Джерело зображення: [Деталі](/uk/licenses#lekt3801))
 :::
 
-## 38.2. Lautwandel von Nasalen im Wort
+## 38.2. Звукова зміна носових у слові
 
 ::: grammar-box
-Nasale im Wort werden darauffolgenden Konsonanten assimiliert, d. h. sie werden durch den diesen Konsonanten entsprechenden Nasal ersetzt. &lt;!-- TODO: Fallback translation --&gt;
+Носові в слові ассимілюються до наступних приголосних, тобто вони замінюються носовим, що відповідає цьому приголосному.
 
-Nach c- und j- wird -n- durch -ñ- ersetzt. &lt;!-- TODO: Fallback translation --&gt;
+Після c- та j- -n- замінюється на -ñ-.
 :::
 
-## 38.3. Deklination der Stämme auf -n
+## 38.3. Склонення коренів на -n
 
-### 38.3.1. Nomina auf -an sowie Nomina auf -man bzw. -van nach Vokal
-
+### 38.3.1. Іменники на -an, а також іменники на -man або -van після голосного
 ::: grammar-box
-Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei Stämme: &lt;!-- TODO: Fallback translation --&gt;
+Іменники на **-an**, а також іменники **-man** або **-van** після голосного мають три основи:
 
-      Starker Stamm
-      -ān
-      -mān
-      -vān
+| Основа | -an | -man | -van | Вживання |
+| :--- | :---: | :---: | :---: | :--- |
+| **Сильна основа** | **-ān** | **-mān** | **-vān** | Наз., знах., клич. одр. ч. ч. р. ж. р.[[br]]Наз., знах., клич. дв. ч. ч. р. ж. р.[[br]]Наз., клич. мн. ч. ч. р. ж. р.[[br]]Наз., знах. мн. ч. с. р. |
+| **Середня слабка основа** | **-a**[[br]](з -*n) | **-ma**[[br]](з -*mn) | **-va**[[br]](з -*vn) | Інші відмінки перед приголосним закінченням[[br]]За бажанням також міс. одр. ч. ч. р. с. р. ж. р. |
+| **Найслабша основа** | **-n** | **-mn** | **-vn** | Інші відмінки перед голосним закінченням |
 
-        Nom., Akk., Vok. sg. m. f. 
-        Nom., Akk., Vok. dual m. f. 
-        Nom., Vok. pl. m. f. 
-        Nom., Akk. pl. n.
-
-      Mittlerer Schwacher Stamm
-
-        -a 
-        (aus -*n)
-
-        -ma 
-        (aus -*mn)
-
-        -va 
-        (aus -*vn)
-
-        Übrige Kasus vor konsonantisch anlautender Endung 
-        Wahlweise auch Lok. sg. m. n. f.
-
-      Schwächster Stamm
-      -n
-      -mn
-      -vn
-
-        Übrige Kasus vor vokalisch anlautender Endung
-
- &lt;!-- TODO: Fallback translation --&gt;
+**Закінчення є регулярними. Називний відмінок однини чоловічого та жіночого роду утворюється без кінцевого -n.**
 :::
 
-Die Endungen sind regelmäßig. Der Nominativ Singular m. f. wird ohne auslautendes **-n** gebildet. &lt;!-- TODO: Fallback translation --&gt;
+Приклади:
 
-राजन् m. "König" &lt;!-- TODO: Fallback translation --&gt;
+राजन् ч. р. "король"
 
-*   starker Основа: राजान् &lt;!-- TODO: Fallback translation --&gt;
-*   mittlerer Основа: राज &lt;!-- TODO: Fallback translation --&gt;
-*   schwächster Основа: राज्ञ् &lt;!-- TODO: Fallback translation --&gt;
+*   сильна основа: राजान्
+*   середня основа: राज
+*   найслабша основа: राज्ञ्
 
-सीमन् f. "Grenze" &lt;!-- TODO: Fallback translation --&gt;
+सीमन् ж. р. "кордон"
 
-*   starker Основа: सीमान् &lt;!-- TODO: Fallback translation --&gt;
-*   mittlerer Основа: सीम &lt;!-- TODO: Fallback translation --&gt;
-*   schwächster Основа: सीम्न् &lt;!-- TODO: Fallback translation --&gt;
+*   сильна основа: सीमान्
+*   середня основа: सीम
+*   найслабша основа: सीम्न्
 
-नामन् n. "Name" &lt;!-- TODO: Fallback translation --&gt;
+नामन् с. р. "ім'я"
 
-*   starker Основа: नामान् &lt;!-- TODO: Fallback translation --&gt;
-*   mittlerer Основа: नाम &lt;!-- TODO: Fallback translation --&gt;
-*   schwächster Основа: नाम्न् &lt;!-- TODO: Fallback translation --&gt;
+*   сильна основа: नामान्
+*   середня основа: नाम
+*   найслабша основа: नाम्न्
 :::: grammar-box
 
 | | **राजन्** | **सीमन्** | **नामन्** |
@@ -117,36 +99,36 @@ Die Endungen sind regelmäßig. Der Nominativ Singular m. f. wird ohne auslauten
 
 ::: media
 ![](/images/lekt3803.jpg)
-Abb.: सीमा
-(Bildquelle: [Details](/licenses#lekt3803)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: सीमा
+(Джерело зображення: [Деталі](/uk/licenses#lekt3803))
 :::
 
-### 38.3.2. Nomina auf -man bzw. -van nach Konsonant
+### 38.3.2. Іменники на -man або -van після приголосного
 
 ::: grammar-box
-*   Starker Основа: -mān, -vān &lt;!-- TODO: Fallback translation --&gt;
-*   Schwacher Основа: &lt;!-- TODO: Fallback translation --&gt;
-    *   vor konsonantisch anlautenden Закінченняen: -ma, -va (aus -\*mn, -\*vn) &lt;!-- TODO: Fallback translation --&gt;
-    *   vor vokalisch anlautenden Закінченняen: \-man, -van &lt;!-- TODO: Fallback translation --&gt;
+*   Starker Stamm: -mān, -vān
+*   Слабкий корінь:
+    *   перед закінченнями, що починаються з приголосного: -ma, -va (з -\*mn, -\*vn)
+    *   перед закінченнями, що починаються з голосного: ***\-man, -van***
 
-Sonst Bildung wie unter 3.1. &lt;!-- TODO: Fallback translation --&gt;
+Інакше утворення таке ж, як у розділі 3.1.
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Приклади:
 
-आत्मन् n. "Seele" &lt;!-- TODO: Fallback translation --&gt;
+आत्मन् n. "душа"
 
-*   starker Основа: आत्मान् &lt;!-- TODO: Fallback translation --&gt;
-*   schwacher Основа: &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Konsonant: आत्म &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Vokal: आत्मन् &lt;!-- TODO: Fallback translation --&gt;
+*   сильний корінь: आत्मान्
+*   слабкий корінь:
+    *   перед приголосним: आत्म
+    *   перед голосним: आत्मन्
 
-ब्रह्मन् n.: Absolutes, Veda, Brahman &lt;!-- TODO: Fallback translation --&gt;
+ब्रह्मन् n.: Абсолютне, Веда, Брахман
 
-*   starker Основа: ब्रह्मान् &lt;!-- TODO: Fallback translation --&gt;
-*   schwacher Основа: &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Konsonant: ब्रह्म &lt;!-- TODO: Fallback translation --&gt;
-    *   vor Vokal: ब्रह्मन् &lt;!-- TODO: Fallback translation --&gt;
+*   сильний корінь: ब्रह्मान्
+*   слабкий корінь:
+    *   перед приголосним: ब्रह्म
+    *   перед голосним: ब्रह्मन्
 :::: grammar-box
 
 | | **आत्मन्** | **ब्रह्मन्** |
@@ -170,19 +152,19 @@ Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 ::::
 
-### 38.3.3. Maskulina und Neutra auf -in, -min, -vin
+### 38.3.3. Чоловічі та середні роди на -in, -min, -vin
 
 ::: grammar-box
-Diese Nomina haben keine Stammabstufung. &lt;!-- TODO: Fallback translation --&gt;
+Ці іменники не мають ***жодного*** чергування кореня.
 
-Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf \-i- vor konsonantischer Endung. &lt;!-- TODO: Fallback translation --&gt;
+Називний відмінок однини чоловічого роду та називний/знахідний відмінок множини середнього роду утворені за аналогією до основ на -an (подовження -i-), так само як основа на ***\-i-*** перед приголосним закінченням.
 
-Das Femininum wird mit dem Suffix -ī gebildet: z.B. बलिनी &lt;!-- TODO: Fallback translation --&gt;
+Жіночий рід утворюється за допомогою суфікса -ī: наприклад, बलिनी
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Приклад:
 
-बलिन् m.n. "stark, kräftig (durch besonderes बल gekennzeichnet, बल besitzend)" &lt;!-- TODO: Fallback translation --&gt;
+बलिन् ч./с. "сильний, міцний (відзначений особливим बल, बल володіючий)"
 
 :::: grammar-box
 
@@ -191,270 +173,280 @@ Beispiel: &lt;!-- TODO: Fallback translation --&gt;
 | **एकवचनम्** | | |
 | **प्रथमा** | **बली** | **बलि** |
 | **द्वितीया** | **बलिनम्** | **बलि** |
-| **तृतीया** | **बलिना** ||
-| **चतुर्थी** | **बलिने** ||
-| **पञ्चमी** | **बलिनस्** ||
-| **षष्ठी** | **बलिनस्** ||
-| **सप्तमी** | **बलिनि** ||
+| **तृतीया** | **बलिना**||
+| **चतुर्थी** | **बलिने**||
+| **पञ्चमी** | **बलिनस्**||
+| **षष्ठी** | **बलिनस्**||
+| **सप्तमी** | **बलिनि**||
 | **बहुवचनम्** | | |
 | **प्रथमा** | **बलिनस्** | **बलीनि** |
 | **द्वितीया** | **बलिनस्** | **बलीनि** |
-| **तृतीया** | **बलिभिस्** ||
-| **चतुर्थी** | **बलिभ्यस्** ||
-| **पञ्चमी** | **बलिभ्यस्** ||
-| **षष्ठी** | **बलिनाम्** ||
-| **सप्तमी** | **बलिषु** ||
+| **तृतीया** | **बलिभिस्**||
+| **चतुर्थी** | **बलिभ्यस्**||
+| **पञ्चमी** | **बलिभ्यस्**||
+| **षष्ठी** | **बलिनाम्**||
+| **सप्तमी** | **बलिषु**||
 
 ::::
 
-## 38.4. Zur Nominalbildung: तद्धित-Suffix -in
+## 38.4. До утворення іменників: суфікс तद्धित -in
 
 ::: grammar-box
-Mit dem (sehr wichtigen!) तद्धित-Suffix **-in** werden aus Substantiven Adjektive gebildet in der Bedeutung: &lt;!-- TODO: Fallback translation --&gt;
+За допомогою (дуже важливого!) суфікса तद्धित **-in** утворюються прикметники з іменників із значенням:
 
-**gekennzeichnet durch, besitzend** &lt;!-- TODO: Fallback translation --&gt;
+**позначений чимось, той, що має**
 
-Ursprünglich unterschied sich die Bildung mit dem Suffix **-इन्** von der mit **-मन्त्/-वन्त्** dadurch, dass **-इन्** die Kennzeichnung durch etwas Besonderes bezeichnete, während **-मन्त्/-वन्त्** den Besitz von, die Kennzeichnung durch etwas ausdrückte, das gewöhnlich, allgemein ist. &lt;!-- TODO: Fallback translation --&gt;
+Спочатку утворення за допомогою суфікса **-इन्** відрізнялося від утворення за допомогою **-मन्त्/-वन्त्** тим, що **-इन्** позначало ознаку чимось особливим, тоді як **-मन्त्/-वन्त्** виражало володіння чимось, ознаку чимось, що є звичайним, загальним.
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Приклад:
 
-हस्तिन् m.: der durch eine besondere Hand gekennzeichnete = der Elefant (seine Hand ist ja keine gewöhnliche Hand, sondern ein Rüssel) &lt;!-- TODO: Fallback translation --&gt;
+हस्तिन् чол. рід: той, хто позначений особливою рукою = слон (його рука не є звичайною рукою, а хобот)
 
 ::: media
 ![](/images/lekt3806.jpg)
-Abb.: हस्ती  
-Nagarhole National Park = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ  
-\[Bildquelle: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Zugriff am 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+Рис.: हस्ती
+(Джерело зображення: [Деталі](/uk/licenses#lekt3806))
 :::
 
-हस्तवन्त् : einer, der (menschliche) Hände hat &lt;!-- TODO: Fallback translation --&gt;
+हस्तवन्त् : той, хто має (людські) руки
 
 ::: media
 ![](/images/lekt3807.jpg)
-Abb.: हस्तवान्  
-जयपुर  
-\[Bildquelle: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
+Рис.: हस्तवान्
+(Джерело зображення: [Деталі](/uk/licenses#lekt3807))
 :::
 
 ::: grammar-box
-Adjektive auf **-इन्** werden gerne zu Komposita gebildet. &lt;!-- TODO: Fallback translation --&gt;
+Прикметники на **-इन्** охоче утворюють складні слова.
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Приклад:
 
-सत्यवादिन् zu सत्यवाद m. "Sprechen der Wahrheit": "jemand, der durch Sprechen der Wahrheit gekennzeichnet ist = einer, der immer die Wahrheit spricht" &lt;!-- TODO: Fallback translation --&gt;
+सत्यवादिन् до सत्यवाद чол. рід "говорення правди": "той, хто позначений говоренням правди = той, хто завжди говорить правду"
 
-## 38.5. Syntaktisches zu नामन्
+## 38.5. Синтаксичні аспекти नामन्
 
 ::: grammar-box
-Um auszudrücken "jemand namens N. N.", konstruiert man: &lt;!-- TODO: Fallback translation --&gt;
+Щоб виразити "хтось на ім'я Н. Н.", конструкція виглядає так:
 
-**N.N. (im Nominativ) नाम** &lt;!-- TODO: Fallback translation --&gt;
+**Н.Н. (у називному відмінку) नाम**
 
-Wörtlich: "der Name ist/war N.N". Es handelt sich also um einen zwischengeschobenen Nominalsatz. &lt;!-- TODO: Fallback translation --&gt;
+Дослівно: "ім'я є/було Н.Н.". Отже, це вставлений іменниковий речення.
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Приклад:
 
 ::: indent
-आसीद्राजा नलो नाम वीरसेनसुतो बली । "Es war einmal ein König namens Nala, der starke Sohn Vīrasenas." &lt;!-- TODO: Fallback translation --&gt;
+आसीद्राजा नलो नाम वीरसेनसुतो बली । "Колись був цар ***назва Нала***, сильний син Вірасени."
 :::
 
-Selbstverständlich kann man dasselbe mit einem बहुव्रीहि ausdrücken: &lt;!-- TODO: Fallback translation --&gt;
+Зрозуміло, що те саме можна виразити за допомогою बहुव्रीहि:
 
 ::: indent
-देवदत्तनामा पुरुषः "ein Mann, dessen Name Devadatta ist" &lt;!-- TODO: Fallback translation --&gt;
+देवदत्तनामा पुरुषः "чоловік, чиє ім'я Девадатта"
 
-मदयन्तिकानाम्नी बाला "ein Mädchen, dessen Name Madayantika ist" &lt;!-- TODO: Fallback translation --&gt;
+मदयन्तिकानाम्नी बाला "дівчина, чиє ім'я Мадаянтіка"
 :::
 
 ::: media
 ![](/images/lekt3808.jpg)
-Abb.: आसीन्महात्मा गन्धी नाम  
-1930er Jahre  
-\[Bildquelle: Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
+Мал.: आसीन्महात्मा गन्धी नाम
+(Джерело зображення: [Деталі](/uk/licenses#lekt3808))
 :::
 
-## 38.6. Syntaktisches zu आत्मन्
+## 38.6. Синтаксичні аспекти आत्मन्
 
 ::: grammar-box
-**आत्मन्** maskulinum kann im Singular als rückbezügliches Fürwort (Reflexivpronomen) für alle drei Geschlechter, Zahlen (auch Dual und Plural) und Personen gebraucht werden. &lt;!-- TODO: Fallback translation --&gt;
+**आत्मन्** ***чоловічий рід*** може в ***однині*** вживатися як зворотний займенник (рефлексивне займенник) для всіх трьох родів, чисел (також подвійний і множина) та осіб.
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Приклади:
 
 ::: indent
-आत्मन्येषा दोषं न पश्यति । "Sie sieht keinen Fehler an ihr selbst" &lt;!-- TODO: Fallback translation --&gt;
+आत्मन्येषा दोषं न पश्यति । "Вона не бачить помилки в собі самій"
 
-आत्मानं स्तुवन्ति । "Sie rühmen sich selbst" &lt;!-- TODO: Fallback translation --&gt;
+आत्मानं स्तुवन्ति । "Вони хвалять себе самих"
 :::
 
 ::: grammar-box
-Der Genetiv (षष्ठी) **आत्मनस्** kann deswegen stehen für "mein/dein/sein/... eigenes" &lt;!-- TODO: Fallback translation --&gt;
+Родовий відмінок (षष्ठी) **आत्मनस्** може тому стояти замість "мій/твій/його/... власний"
 :::
 
-&lt;!-- TODO: Fallback translation --&gt;
+Приклад:
 
 ::: indent
-आत्मनो गृहं प्रविशति । "Er betritt sein eigenes Haus." &lt;!-- TODO: Fallback translation --&gt;
+आत्मनो गृहं प्रविशति । "Він входить до свого власного дому."
 :::
 
-## 38.7. Konsonantisch auslautende Stämme als Vorderglieder von Komposita
+## 38.7. Склади, що закінчуються на приголосний, як перші частини складних слів
 
 ::: grammar-box
-Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompositums in dem (schwachen) Stamm, den sie vor der Endung -su des Lokativ (सप्तमी) Plural annehmen. &lt;!-- TODO: Fallback translation --&gt;
+Склади, що закінчуються на приголосний, виступають як перша частина складного слова у формі (слабкого) основи, яку вони набувають перед закінченням -su родового відмінка множини (सप्तमी).
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Приклад:
 
 ::: indent
-राजपुत्र "Königssohn" &lt;!-- TODO: Fallback translation --&gt;
+***राज***पुत्र "син царя"
 :::
 
-## 38.8. Stämme auf -an als Hinterglied eines बहुव्रीहि
+## 38.8. Основи на -an як задній компонент बहुव्रीहि
 
 ::: grammar-box
-Als Hinterglied eines बहुव्रीहि kann ein -an-Stamm für alle drei Geschlechter verwendet werden. In der Regel wird aber das Femininum mit dem Suffix -ī vom schwächsten Maskulinstamm gebildet. &lt;!-- TODO: Fallback translation --&gt;
+Як задній компонент बहुव्रीहि, основа на -an може вживатися для всіх трьох родів. Зазвичай же жіночий рід утворюється за допомогою суфікса -ī від найслабшої форми чоловічого роду.
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Приклад:
 
 ::: indent
-दुर्णाम्नी "eine, deren Name böse ist ; Krankheitsdämonin" &lt;!-- TODO: Fallback translation --&gt;
+दुर्णाम्नी "ті, чиє ім'я лихе; демониця хвороби"
 :::
 
 ## 38.9. Словник
 
-सूर्य m.: Sonne, Sonnengott Sūrya &lt;!-- TODO: Fallback translation --&gt;
+सूर्य m.: Сонце, бог сонця Сур’я
 
 ::: media
 ![](/images/lekt3802.jpg)
-Abb.: सूर्यः  
-सूर्य मंदिर, Konark = कोनार्क  
-\[Bildquelle: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Zugriff am 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]   &lt;!-- TODO: Fallback translation --&gt;
+Рис.: सूर्यः
+(Джерело зображення: [Деталі](/uk/licenses#lekt3802))
 :::
+ 
 
-उदक n.: Wasser &lt;!-- TODO: Fallback translation --&gt;
+उदक n.: Вода
 
 ::: media
 ![](/images/lekt3805.jpg)
-Abb.: उदकम्  
-Darewadi village, Ahmed Nagar District = अहमदनगर, महाराष्ट्र  
-\[Bildquelle: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+Рис.: उदकम्
+(Джерело зображення: [Деталі](/uk/licenses#lekt3805))
 :::
 
-वा 2P वाति : wehen, blasen &lt;!-- TODO: Fallback translation --&gt;
+वा 2P वाति: дмухати, дути
 
 ::: indent
-PPP वान । वात   &lt;!-- TODO: Fallback translation --&gt;
+Фут. वास्यति
+Перф. IV ववौ
+Pass. वायते
+Kaus. वापयति
+PPP वान । वात
+Inf. वातुम्
 
-Fut. वास्यति   &lt;!-- TODO: Fallback translation --&gt;
+з цього:
 
-वात m.: Wind &lt;!-- TODO: Fallback translation --&gt;
+वात m.: Вітер
 :::
 
-वा + निस् 2P निर्वाति : wehen, verwehen, erlöschen &lt;!-- TODO: Fallback translation --&gt;
+वा + निस् 2P निर्वाति: дмухати, розвіювати, гаснути
 
 ::: indent
-Perf. IV ववौ   &lt;!-- TODO: Fallback translation --&gt;
+з цього:
 
-निर्वाण n.: Erlöschen, Nirvana &lt;!-- TODO: Fallback translation --&gt;
+निर्वाण n.: Гаснення, Нірвана
 
-परिनिर्वाण n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant) &lt;!-- TODO: Fallback translation --&gt;
+परिनिर्वाण n.: Повне гаснення, повне визволення (наприкінці життя Будди або Арханта)
 :::
 
 ::: media
 ![](/images/lekt3804.jpg)
-Abb.: गौतमबुद्धस्य महापरिनिर्वाणम्  
-Gandhara, 2./3. Jhdt. n. Chr.  
-\[Bildquelle: Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
+Рис.: गौतमबुद्धस्य महापरिनिर्वाणम्
+(Джерело зображення: [Деталі](/uk/licenses#lekt3804))
 :::
 
-मिह् 1P मेहति : pinkeln, pissen, ejakulieren &lt;!-- TODO: Fallback translation --&gt;
+मिह् 1P मेहति: ссати, писати, еякулювати
 
 ::: indent
-Perf. II मिमेह, मिमिहुर्   &lt;!-- TODO: Fallback translation --&gt;
+Фут. मेक्ष्यति
+Perf. II मिमेह, मिमिहुर्
+Pass. मिह्यते
+Kaus. मेहयति
+PPP मीढ
 
-Pass. वायते   &lt;!-- TODO: Fallback translation --&gt;
+з цього:
 
-मेघ m.: Wolke ("Seicher") &lt;!-- TODO: Fallback translation --&gt;
+मेघ m.: Хмара ("ссавець")
 :::
 
-सुत m.: Sohn &lt;!-- TODO: Fallback translation --&gt;
+सुत m.: Син
 
-राजन् m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. तत्पुरुष) meist: -राज m. (wie देव) &lt;!-- TODO: Fallback translation --&gt;
+राजन् m.: Король (щодо царства в Індії див. Башам, Чудо с. 82 -94). Як закінчення складного слова (особливо तत्पुरुष) зазвичай: -राज m. (як देव)
 
 ::: indent
-Kaus. वापयति   &lt;!-- TODO: Fallback translation --&gt;
+Жін. рід:
 
-राज्ञी f.: Königin, Frau eines Königs &lt;!-- TODO: Fallback translation --&gt;
+राज्ञी f.: Королева, дружина короля
 
-von राज : &lt;!-- TODO: Fallback translation --&gt;
+від राज :
 
-राज्य 3: königlich; n. Königreich, Königtum, Herrschaft &lt;!-- TODO: Fallback translation --&gt;
+राज्य 3: царський; n. Царство, Королівство, Влада
 :::
 
-नामन् n.: Name &lt;!-- TODO: Fallback translation --&gt;
+नामन् n.: Ім’я
 
-सीमन् f.: Grenze &lt;!-- TODO: Fallback translation --&gt;
+सीमन् f.: Границя
 
-आत्मन् m.: Selbst, eigene Person, innerstes Wesen. Philosophisch und in Erlösungslehren: das Absolute im Individuum, dessen sich aber das Individuum unter Umständen nicht bewusst ist (v. Stietencron) &lt;!-- TODO: Fallback translation --&gt;
+आत्मन् m.: Я, власна особа, найглибша суть. Філософське і в вченнях про визволення: Абсолюте в індивідуумі, про який індивід іноді не усвідомлює (в. Стітенкроон)
 
-ब्रह्मन् n.: das Absolute, der Veda (laut Thieme ursprünglich: die formulierte Wahrheit, davon ब्राह्मण "Wahrheitsformulierer") &lt;!-- TODO: Fallback translation --&gt;
+ब्रह्मन् n.: Абсолюте, Веда (згідно з Тімі спочатку: сформульована істина, від якої ब्राह्मण "формулювальник істини")
 
-ब्रह्मन् m.: der persönlich gedachte Schöpfergott Brahmā &lt;!-- TODO: Fallback translation --&gt;
+ब्रह्मन् m.: Особистий бог-творець Брахма
 
 ::: media
 ![](/images/lekt3809.jpg)
-Abb.: ब्रह्मा  
-Halebidu = ಹಳೆಬೀಡು  
-\[Bildquelle: Wikipedia. GNU FDLicense\] &lt;!-- TODO: Fallback translation --&gt;
+Рис.: ब्रह्मा
+(Джерело зображення: [Деталі](/uk/licenses#lekt3809))
 :::
 
-कर्मन् n.: zu कृ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt)  &lt;!-- TODO: Fallback translation --&gt;
+कर्मन् n.: до कृ 8U: дія, вчинок, твір; святий твір, жертвоприношення; Карма: минула дія, яка пізніше приносить свої плоди (наприклад, у переродженні) 
 
 ::: indent
-कर्मविपाक m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu वि-पच्) &lt;!-- TODO: Fallback translation --&gt;
+कर्मविपाक m.: Плоди діянь = добрі і злі наслідки вчинків у минулих існуваннях (до वि-पच्)
 :::
 
-हस्तिन् m.: Elefant (_Elephas maximus_) &lt;!-- TODO: Fallback translation --&gt;
+हस्तिन् m.: Слон (_Elephas maximus_)
 
-मनु m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu मन् 4Ā) &lt;!-- TODO: Fallback translation --&gt;
+मनु m.: Людина, чоловік; ім’я батька людського роду (до मन् 4Ā)
 
 ::: indent
-Inf. वातुम् &lt;!-- TODO: Fallback translation --&gt;
+з цього:
 
-मनुष्य m.: Mensch &lt;!-- TODO: Fallback translation --&gt;
+मनुष्य m.: Людина
 :::
 
-शुच् 1P शोचति : (flammen, leuchten) ; trauern, betrauern &lt;!-- TODO: Fallback translation --&gt;
+शुच् 1P शोचति: (полыти, сяяти); сумувати, оплакувати
 
 ::: indent
-Absol. शोचित्वा । शुचित्वा &lt;!-- TODO: Fallback translation --&gt;
+Perf II शुशोच, शुशुचुर्
+Fut. शोचिष्यति
+Pass. शुच्यते
+Kaus. शोचयति
+Inf. शुचितुम्
+Absol. शोचित्वा । शुचित्वा
 
-&lt;!-- TODO: Fallback translation --&gt;
+з цього:
 
-शुचि 3: leuchtend, rein, klar &lt;!-- TODO: Fallback translation --&gt;
+शुचि 3: сяючий, чистий, ясний
 
-शोक m.: Trauer, Gram &lt;!-- TODO: Fallback translation --&gt;
+शोक m.: Сум, горе
 
-अशोक 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (देवानांप्रिय प्रियदर्शी) (ca. 304   232 v.Chr.) &lt;!-- TODO: Fallback translation --&gt;
+अशोक 3: позбавлений горя; Дерево ашока = _Saraca asoca_ (Roxb.) Wilde; ім’я імператора Ашоки (देवानांप्रिय प्रियदर्शी) (бл. 304   232 до н.е.)
 :::
 
 ::: media
 ![](/images/lekt3810.jpg)
-davon: &lt;!-- TODO: Fallback translation --&gt;
+Рис.: अशोकवृक्षः
+(Джерело зображення: [Деталі](/uk/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.jpg)
-&lt;!-- TODO: Fallback translation --&gt;
+Рис.: अशोकसाम्राज्यम्
+(Джерело зображення: [Деталі](/uk/licenses#lekt3811))
 :::
 
-## 38.10. Вправа
+## 38.10. Вправи
 
-A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammern ein und übersetzen Sie: &lt;!-- TODO: Fallback translation --&gt;
+A) Вставте відповідні форми слів у дужках до наведених речень і перекладіть:
 
 ... (सप्तमी विभक्तिः) ... धर्मं रक्षत्यभया जनाः ॥१॥ (राजन्)
 
@@ -478,7 +470,7 @@ A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammer
 
 राज्ञे ... दीयेरन् ॥११॥ (बलिन् हस्तिन्)
 
-... (तृतीया विभक्तिः) ... लोका असृज्यन्त ॥१२॥ (ब्रह्मन् m.) &lt;!-- TODO: Fallback translation --&gt;
+... (तृतीया विभक्तिः) ... लोका असृज्यन्त ॥१२॥ (ब्रह्मन् чол. рід)
 
 ... (तृतीया विभक्तिः) ... कृतं पापं... (तृतीया विभक्तिः) ... अकृतं पापम् ॥१३॥ (आत्मन्)
 
@@ -486,99 +478,126 @@ A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammer
 
 ... धर्मं न रक्षत्सु सभया जनाः ॥१५॥ (राजन्)
 
-## 38.11. Словник zur Вправа на переклад
+## 38.11. Словник для перекладу
 
-प्राय  m.: Hauptsache, Instr. प्रायेण : meist, gewöhnlich (zu प्र-इ) &lt;!-- TODO: Fallback translation --&gt;
+प्राय  m.: головне, інстр. प्रायेण : зазвичай, звичайно (до प्र-इ)
 
-विनोद m.: Zeitvertreib, Unterhaltung, Vergnügen &lt;!-- TODO: Fallback translation --&gt;
+विनोद m.: розвага, розвага, задоволення
 
 ::: media
 ![](/images/lekt3812.jpg)
-Abb.: विनोदः  
-Carrom-Spiel  
-\[Bildquelle: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]   &lt;!-- TODO: Fallback translation --&gt;
+Рис.: विनोदः
+(Джерело зображення: [Деталі](/uk/licenses#lekt3812))
 :::
 
-अट् 1P अटति : herumschweifen &lt;!-- TODO: Fallback translation --&gt;
+अट् 1P अटति : блукати
 
 ::: indent
-Perf. I आट, आटुः   &lt;!-- TODO: Fallback translation --&gt;
+Перф. I आट, आटुः
+Фут. अटिष्यति
+Кавс. आटयति
 :::
 
-गाध 3: seicht &lt;!-- TODO: Fallback translation --&gt;
+गाध 3: мілкий
 
-तॄ 1P तरति : überqueren, sich retten vor (Akk.) &lt;!-- TODO: Fallback translation --&gt;
+तॄ 1P तरति : перетинати, врятуватися від (Ак.)
 
 ::: indent
-Fut. तरिष्यति । तरीष्यति   &lt;!-- TODO: Fallback translation --&gt;
+Перф. IIIb ततार, तेरुः
+Фут. तरिष्यति । तरीष्यति
+Пас. तीर्यते
+Кавс. टारयति
+PPP तीर्ण
+Інф. तरितुम् । तरीतुम्
 :::
 
-पार n.(m.): jenseitiges Ufer, Grenze, Ziel &lt;!-- TODO: Fallback translation --&gt;
+पार n.(m.): інший берег, межа, ціль
 
-तीर n.: Ufer &lt;!-- TODO: Fallback translation --&gt;
+तीर n.: берег
 
 ::: media
 ![](/images/lekt3813.jpg)
-Abb.: वाराणस्यां गङ्गातीरे  
-\[Bildquelle: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] &lt;!-- TODO: Fallback translation --&gt;
+Рис.: वाराणस्यां गङ्गातीरे
+(Джерело зображення: [Деталі](/uk/licenses#lekt3813))
 :::
 
-एकैकशस् Adv.: je einzeln &lt;!-- TODO: Fallback translation --&gt;
+एकैकशस् Adv.: по одному
 
-गण् 10P गणयति : zählen &lt;!-- TODO: Fallback translation --&gt;
+गण् 10P गणयति : рахувати
 
 ::: indent
-Perf. गणयां चकार   &lt;!-- TODO: Fallback translation --&gt;
+Перф. गणयां चकार
+Фут. गणयिष्यति
+Пас. गण्यते
+PPP गणित
+Абсол. -गणय्य
+Інф. गणयितुम्
 :::
 
 ::: media
 ![](/images/lekt3814.jpg)
-Abb.: गणयां चक्रुः  
-करणी माता मंदिर, देशनोके  
-\[Bildquelle: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]  &lt;!-- TODO: Fallback translation --&gt;
+Рис.: गणयां चक्रुः
+(Джерело зображення: [Деталі](/uk/licenses#lekt3814))
 :::
 
-क्रुश् 1P क्रोशति : schreien, wehklagen &lt;!-- TODO: Fallback translation --&gt;
+क्रुश् 1P क्रोशति : кричати, стогнати
 
 ::: indent
-Perf. II चुक्रोश   &lt;!-- TODO: Fallback translation --&gt;
+Перф. II चुक्रोश
+Фут. क्रोक्ष्यति
+Пас. क्रुश्यते
+Кавс. क्रोशयति
+PPP क्रुष्ट
 :::
 
-इदानीम् Adv.: jetzt &lt;!-- TODO: Fallback translation --&gt;
+इदानीम् Adv.: тепер
 
-नूनम् Adv.: jetzt; also, darum; gewiss, sicherlich &lt;!-- TODO: Fallback translation --&gt;
+नूनम् Adv.: тепер; отже, тому; певно, безперечно
 
-मज्ज् 6P मज्जति : sinken, tauchen &lt;!-- TODO: Fallback translation --&gt;
+मज्ज् 6P मज्जति : падати, занурюватися
 
 ::: indent
-Absol. मङ्क्त्वा । मक्त्वा &lt;!-- TODO: Fallback translation --&gt;
+PPP ममज्ज
+Фут. मङ्क्ष्यति
+Кавс. मज्जयति
+PPP मग्न
+Абсол. मङ्क्त्वा । मक्त्वा
 :::
 
-गवेषयति Denominativ: suchen &lt;!-- TODO: Fallback translation --&gt;
+गवेषयति Деномінатив: шукати
 
-व्याकुल 3: bestürzt, aufgeregt, verwirrt &lt;!-- TODO: Fallback translation --&gt;
+व्याकुल 3: стурбований, збентежений, заплутаний
 
-कोलाहल m.n.: Geschrei, Lärm &lt;!-- TODO: Fallback translation --&gt;
+कोलाहल m.n.: крик, шум
 
-विवेष्टित n.: das Rundherum-Suchen &lt;!-- TODO: Fallback translation --&gt;
+विवेष्टित n.: пошуки навколо
 
-हस् 1P हसति : lachen &lt;!-- TODO: Fallback translation --&gt;
+हस् 1P हसति : сміятися
 
 ::: indent
-Perf. Vc जहास, जहसुर्   &lt;!-- TODO: Fallback translation --&gt;
+Перф. Vc जहास, जहसुर्
+Фут. हसिष्यति
+Пас. हस्यते
+Кавс. हासयति
+PPP हसित
 :::
 
-सृ 1P सरति : laufen &lt;!-- TODO: Fallback translation --&gt;
+सृ 1P सरति : бігти
 
 ::: indent
-Perf. ससार, सस्रुर्   &lt;!-- TODO: Fallback translation --&gt;
+Перф. ससार, सस्रुर्
+Фут. सरिष्यति
+Пас. स्रियते
+Кавс. सारयति
+PPP सृत
+Інф. सर्तुम्
 :::
 
-कर्णयति Denominativ: hören (zu कर्ण m. "Ohr") &lt;!-- TODO: Fallback translation --&gt;
+कर्णयति Деномінатив: чути (до कर्ण m. "вухо")
 
-लज्जा f.: Scham &lt;!-- TODO: Fallback translation --&gt;
+लज्जा f.: сором
 
-अधस् Adv.: nach unten &lt;!-- TODO: Fallback translation --&gt;
+अधस् Adv.: вниз
 
 ## 38.12. Вправа на переклад
 
@@ -588,50 +607,49 @@ Perf. ससार, सस्रुर्   &lt;!-- TODO: Fallback translation -
 
 आसीत्तेषां मध्ये कश्चन वृद्धः । स किं ***सर्वे*** तीरमनुप्राप्ता ईति ***जिज्ञासमान***स्तानेकैकशो गणयामास । परं ***नवै***व परिगणितास्तेन । ततः स आक्रोशत् । अहो ***वयम्*** दश प्रस्थिताः । इदानीं नवैव ***स्मः*** । नूनमस्माकमेको नद्यां निमग्नः । ***गवेषयत*** तमिति । ततस्तेषा***मेकैको*** ऽपि गणनां चकार । परं नवैव दृश्यन्ते । ततस्तेषां व्याकुलीभूतानां महान्कोलाहलः ***समजनि*** । तत्रैव नातिदूरे कस्यचिदृषेराश्रमो ऽवर्तत । तत्र वसन्नृषिस्तेषां विवेष्टितमवलोक्योच्चैर्जहास । तस्य हासशब्दं श्रुत्वा मूढा***स्तरसा*** समुपसृत्य हासकारणमपृच्छन् । ऋषिराह । अहो । अनात्मज्ञा ***यूयम्*** । ***युष्माकमे***कैको ऽपि नात्मानमगणयत् । तेनायं व्यामोहः संजात इति । तदाकर्ण्य ते मूढाः सलज्जमधोमुखाः प्रययुः ॥ (संस्कृतप्रथमादर्शः)
 
-Erklärungen: &lt;!-- TODO: Fallback translation --&gt;
+Пояснення:
 
-दश Nom.Akk.pl.m.f.n. zu दशन् "zehn" &lt;!-- TODO: Fallback translation --&gt;
+दश Назив.знах.множ.ч.чол.жін.сер. до दशन् "десять"
 
-बाहुभ्याम् Instr.Dat.Abl. Dual zu बाहु m. "Arm" &lt;!-- TODO: Fallback translation --&gt;
+बाहुभ्याम् Оруд.-Дав.-Відм. подвійний до बाहु чол. "рука"
 
-सर्वे Nom.pl.m. zu सर्व 3 "jeder, alle" &lt;!-- TODO: Fallback translation --&gt;
+सर्वे Назив.множ.чол. до सर्व 3 "кожен, усі"
 
-जिज्ञासमान Part.Präs.Ā.Desiderativ zu ज्ञा 9U जिज्ञासते "erkennen wollen, wissen wollen" &lt;!-- TODO: Fallback translation --&gt;
+जिज्ञासमान Дієприкметник тепер.часу.Атманеда.Дезидератив до ज्ञा 9U जिज्ञासते "хотіти пізнавати, хотіти знати"
 
-नव Nom.Akk.pl.m.f.n. zu नवन् "neun" &lt;!-- TODO: Fallback translation --&gt;
+नव Назив.знах.множ.чол.жін.сер. до नवन् "дев'ять"
 
-वयम् Nom.pl. "wir" &lt;!-- TODO: Fallback translation --&gt;
+वयम् Назив.множ. "ми"
 
-स्मस् 1.pl.Ind.Präs.P zu अस् 2P &lt;!-- TODO: Fallback translation --&gt;
+स्मस् 1.ос.індикатив.тепер.часу.П до अस् 2П
 
-गवेषयत 2.pl.Imperativ P &lt;!-- TODO: Fallback translation --&gt;
+गवेषयत 2.множ.імператив П
 
-एकैक "jeder einzeln" &lt;!-- TODO: Fallback translation --&gt;
+एकैक "кожен окремо"
 
-समजनि 3.sg.Passiv Aorist zu जन् &lt;!-- TODO: Fallback translation --&gt;
+समजनि 3.од.пасив.аорист до जन्
 
-तरसा Instr. sg. zu तरस् n. "Energie", adverbial gebraucht: "rasch, mit Gewalt" &lt;!-- TODO: Fallback translation --&gt;
+तरसा Оруд. од. до तरस् сер. "енергія", вживається прислівниково: "швидко, з силою"
 
-यूयम् Nom.pl. "ihr" &lt;!-- TODO: Fallback translation --&gt;
+यूयम् Назив.множ. "ви"
 
-युष्माकम् Gen.pl. zu यूयम् &lt;!-- TODO: Fallback translation --&gt;
+युष्माकम् Род.множ. до यूयम्
 
 ::: deleteme-box
 
-### Джерела
+- **lekt3801.jpg**: Мал.: ... प्रज्ञा नश्यति मेहतः Бангалор = ಬೆಂಗಳೂರು \[Джерело зображення: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Доступ 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання)\]
+- **lekt3802.jpg**: Мал.: सूर्यः  सूर्य मंदिर, Конарк = कोनार्क \[Джерело зображення: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Доступ 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання)\]
+- **lekt3803.jpg**: Мал.: सीमा  Кордон між Індією та Пакистаном у Вагех (वाघा / واہگہ / ਵਾਘਾ) \[Джерело зображення: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Доступ 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання, з тими ж умовами)\]
+- **lekt3804.jpg**: Мал.: गौतमबुद्धस्य महापरिनिर्वाणम्  Гандхара, 2./3 ст. н. е. \[Джерело зображення: Вікіпедія. Суспільне надбання\]
+- **lekt3805.jpg**: Мал.: उदकम्  село Дареваді, район Ахмедагара = अहमदनगर, महाराष्ट्र \[Джерело зображення: Robin Murphy, Інститут світових ресурсів. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Доступ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання, з тими ж умовами)\]
+- **lekt3806.jpg**: Мал.: हस्ती  Національний парк Нагархол = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Джерело зображення: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Доступ 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання, з тими ж умовами)\]
+- **lekt3807.jpg**: Мал.: हस्तवान्  जयपुर \[Джерело зображення: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Доступ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання, без обробки)\]
+- **lekt3808.jpg**: Мал.: आसीन्महात्मा गन्धी नाम  1930-ті роки \[Джерело зображення: Вікіпедія. Суспільне надбання\]
+- **lekt3809.jpg**: Мал.: ब्रह्मा  Халебіду = ಹಳೆಬೀಡು \[Джерело зображення: Вікіпедія. GNU FDLicense\]
+- **lekt3810.jpg**: Мал.: Дерево Ашоки = _Saraca asoca_ (Roxb.) Wilde Калькутта = কলকাতা \[Джерело зображення: J.M.Garg / Вікіпедія. GNU FDLicense\]
+- **lekt3811.jpg**: Мал.: Найбільше розширення імперії Ашоки та місця знахідки його скельних і стовпових едиктів \[Джерело зображення: Вікіпедія.GNU FDLicense\]
+- **lekt3812.jpg**: Мал.: विनोदः  Гра каром \[Джерело зображення: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Доступ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання, з тими ж умовами)\]
+- **lekt3813.jpg**: Мал.: वाराणस्यां गङ्गातीरे \[Джерело зображення: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Доступ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання)\]
+- **lekt3814.jpg**: Мал.: गणयां चक्रुः  करणी माता मंदिर, देशनोके \[Джерело зображення: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Доступ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання, без обробки)\]
 
-- **lekt3801.jpg**: Рис.: ... प्रज्ञा नश्यति मेहतः  Bangalore = ಬೆಂಗಳೂರು \[Джерело зображення: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] <!-- TODO: Fallback translation -->
-- **lekt3802.jpg**: Рис.: सूर्यः  सूर्य मंदिर, Konark = कोनार्क \[Джерело зображення: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Zugriff am 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] <!-- TODO: Fallback translation -->
-- **lekt3803.jpg**: Рис.: सीमा  Grenzübergang zwischen Indien und Pakistan in Wagah (वाघा / واہگہ / ਵਾਘਾ) \[Джерело зображення: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] <!-- TODO: Fallback translation -->
-- **lekt3804.jpg**: Рис.: गौतमबुद्धस्य महापरिनिर्वाणम्  Gandhara, 2./3. Jhdt. n. Chr. \[Джерело зображення: Wikipedia. Public domain\] <!-- TODO: Fallback translation -->
-- **lekt3805.jpg**: Рис.: उदकम्  Darewadi village, Ahmed Nagar District = अहमदनगर, महाराष्ट्र \[Джерело зображення: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] <!-- TODO: Fallback translation -->
-- **lekt3806.jpg**: Рис.: हस्ती  Nagarhole National Park = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Джерело зображення: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Zugriff am 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] <!-- TODO: Fallback translation -->
-- **lekt3807.jpg**: Рис.: हस्तवान्  जयपुर \[Джерело зображення: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] <!-- TODO: Fallback translation -->
-- **lekt3808.jpg**: Рис.: आसीन्महात्मा गन्धी नाम  1930er Jahre \[Джерело зображення: Wikipedia. Public domain\] <!-- TODO: Fallback translation -->
-- **lekt3809.jpg**: Рис.: ब्रह्मा  Halebidu = ಹಳೆಬೀಡು \[Джерело зображення: Wikipedia. GNU FDLicense\] <!-- TODO: Fallback translation -->
-- **lekt3810.jpg**: Рис.: Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde  Kolkata = কলকাতা \[Джерело зображення: J.M.Garg / Wikipedia. GNU FDLicense\] <!-- TODO: Fallback translation -->
-- **lekt3811.jpg**: Рис.: Größte Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte \[Джерело зображення: Wikipedia.GNU FDLicense\] <!-- TODO: Fallback translation -->
-- **lekt3812.jpg**: Рис.: विनोदः  Carrom-Spiel \[Джерело зображення: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] <!-- TODO: Fallback translation -->
-- **lekt3813.jpg**: Рис.: वाराणस्यां गङ्गातीरे \[Джерело зображення: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] <!-- TODO: Fallback translation -->
-- **lekt3814.jpg**: Рис.: गणयां चक्रुः  करणी माता मंदिर, देशनोके \[Джерело зображення: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] <!-- TODO: Fallback translation -->
 :::

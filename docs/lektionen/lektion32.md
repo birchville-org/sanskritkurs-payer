@@ -143,6 +143,7 @@ Beispiele:
 ::: media
 ![](/images/lekt3202.jpg)
 Abb.: चूतः
+Mangobaum, Kanpur.
 (Bildquelle: [Details](/licenses#lekt3202))
 :::
 
@@ -179,6 +180,7 @@ Abb.: चूतः
 ::: media
 ![](/images/lekt3203.jpg)
 Abb.: वानराः
+Affen (rhesus macaques) in Delhi.
 (Bildquelle: [Details](/licenses#lekt3203))
 :::
 
@@ -200,6 +202,7 @@ Abb.: वानराः
 ::: media
 ![](/images/lekt3204.jpg)
 Abb.: उपलाः
+Stone quarry south of Pune, Maharashtra.
 (Bildquelle: [Details](/licenses#lekt3204))
 :::
 
@@ -208,6 +211,7 @@ Abb.: उपलाः
 ::: media
 ![](/images/lekt3205.jpg)
 Abb.: लक्ष्यम्
+Target practice / arrow target, Karnataka.
 (Bildquelle: [Details](/licenses#lekt3205))
 :::
 
@@ -234,6 +238,7 @@ Abb.: लक्ष्यम्
 ::: media
 ![](/images/lekt3207.jpg)
 Abb.: चितं गोमयं दहति
+Burning cowdung patties in Rajasthan.
 (Bildquelle: [Details](/licenses#lekt3207))
 :::
 
@@ -248,6 +253,7 @@ Abb.: चितं गोमयं दहति
 ::: media
 ![](/images/lekt3206.jpg)
 Abb.: कौशलम्
+Mehndi painting on hands in Mumbai.
 (Bildquelle: [Details](/licenses#lekt3206))
 :::
 
@@ -346,6 +352,7 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 ::: media
 ![](/images/lekt3208.jpg)
 Abb.: बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
+Buddhist monk in Sri Lanka.
 (Bildquelle: [Details](/licenses#lekt3208))
 :::
 
@@ -569,6 +576,7 @@ C) Übersetzen Sie ins Sanskrit:
 ::: media
 ![](/images/lekt3209.jpg)
 Abb.: पुनर्दर्शनाय
+Indian greeting / farewell.
 (Bildquelle: [Details](/licenses#lekt3209))
 :::
 
@@ -650,11 +658,11 @@ Erklärungen:
 ::: media
 ![](/images/lekt3210.jpg)
 Abb.: तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
+Monkeys in mango trees.
 (Bildquelle: [Details](/licenses#lekt3210))
 :::
 
 ::: deleteme-box
-### Quellen
 
 **lekt3202:** Mangobaum, Kanpur. [Bildquelle: AmarChandra / Wikipedia. CC BY-SA]
 

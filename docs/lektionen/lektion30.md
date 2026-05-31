@@ -1,6 +1,10 @@
 ---
+title: Lektion 30
+subtitle: "Die 9. Präsensklasse (क्र्यादि = \"क्री u.s.w.\")"
 lesson_id: 30
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 30
@@ -304,6 +308,7 @@ Absol. विक्रीय
 ::: media
 ![](/images/lekt3001.jpg)
 Abb.: क्रीणन्ति विक्रीणते च
+Bundi = बुन्दी, Rajasthan = राजस्थान
 (Bildquelle: [Details](/licenses#lekt3001))
 :::
 
@@ -327,6 +332,7 @@ davon:
 ::: media
 ![](/images/lekt3002.jpg)
 Abb.: ज्ञातयः
+Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र
 (Bildquelle: [Details](/licenses#lekt3002))
 :::
 
@@ -359,6 +365,7 @@ Inf. अशितुम्
 ::: media
 ![](/images/lekt3005.jpg)
 Abb.: अश्नीयात्
+थाली, Südindien
 (Bildquelle: [Details](/licenses#lekt3005))
 :::
 
@@ -553,7 +560,7 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 40.  सते
 
 ::: deleteme-box
-### Quellen
+
 **lekt3001:** Bundi = बुन्दी, Rajasthan = राजस्थान [Bildquelle: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 **lekt3002:** Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र [Bildquelle: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 **lekt3003:** [Bildquelle: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]

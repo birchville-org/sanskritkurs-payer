@@ -227,6 +227,7 @@ Beispiel:
 ::: media
 ![](/images/lekt3502.jpg)
 Abb.: क्रामन्ति
+People walking, Senegal.
 (Bildquelle: [Details](/licenses#lekt3502))
 :::
 
@@ -246,6 +247,7 @@ davon:
 ::: media
 ![](/images/lekt3501.jpg)
 Abb.: जगुः
+Temple musicians Kaadu Malleswara Temple Bangalore.
 (Bildquelle: [Details](/licenses#lekt3501))
 :::
 
@@ -285,6 +287,7 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
     ::: media
     ![](/images/lekt3503.jpg)
     Abb.: मिमति
+Market in Vadaseri, Tamil Nadu.
     (Bildquelle: [Details](/licenses#lekt3503))
     :::
 30. अपद्यत
@@ -311,6 +314,7 @@ B) Übersetzen Sie:
 ::: media
 ![](/images/lekt3504.jpg)
 Abb.: ... ब्राह्मणाश्चेजुः
+Yajña ceremony, Shiva ashram, Ganeshpuri.
 (Bildquelle: [Details](/licenses#lekt3504))
 :::
 
@@ -319,7 +323,6 @@ Abb.: ... ब्राह्मणाश्चेजुः
 C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen.
 
 ::: deleteme-box
-### Quellen
 
 **lekt3501:** Temple musicians Kaadu Malleswara Temple Bangalore. [Bildquelle: Samuelraj / Flickr. CC BY-NC]
 

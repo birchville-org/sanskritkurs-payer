@@ -1,24 +1,25 @@
 ---
-title: Lektion 1
-subtitle: "Die Laute des Sanskrit"
+title: Урок 1
+subtitle: "Звучанията на санскрита"
 lesson_id: 1
-category: "Grammatik"
+category: "Грамматика"
 status: "stable"
 last_reconstructed: 2026-04-30
---- &lt;!-- TODO: Fallback translation --&gt;
+---
 
-# Lektion 1
+# Урок 1
+
 
 ::: center
 गणेशपूजनम्
 gaṇeśapūjanam
-Verehrung des Gaṇeśa &lt;!-- TODO: Fallback translation --&gt;
+Поклонение на Ганеша
 :::
 
 ::: media
 ![](/images/lekt0102.jpg)
-Abb.: Gaṇeśa, Adamspeak, Sri Lanka
-(Bildquelle: [Details](/licenses#lekt0102)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Ганеша, Адамспийк, Шри Ланка
+(Източник на изображението: [Подробности](/bg/licenses#lekt0102))
 :::
 
 ::: center
@@ -30,12 +31,12 @@ Abb.: Gaṇeśa, Adamspeak, Sri Lanka
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
 nirvighnaṃ kuru me deva
-sarvakāryeṣu sarvadā |** &lt;!-- TODO: Fallback translation --&gt;
+sarvakāryeṣu sarvadā |**
 
-Du Hängebauch, Du Naschkatze,
-Stets sei Dir Verehrung!
-Gott, mache all meine Unternehmungen
-Frei von Hindernissen! &lt;!-- TODO: Fallback translation --&gt;
+Ти, с пълно коремче, ти, лакомник,
+Нека винаги ти бъде почит!
+Боже, направи всички мои начинания
+Свободни от препятствия!
 :::
 
 ---
@@ -43,13 +44,13 @@ Frei von Hindernissen! &lt;!-- TODO: Fallback translation --&gt;
 ::: center
 मङ्गलचरणम्
 maṅgalacaraṇam
-"Glückbringender Anfang" &lt;!-- TODO: Fallback translation --&gt;
+"Щастливо начало"
 :::
 
 ::: media
 ![](/images/lekt0101.jpg)
-Abb.: Ardhanarīśvara
-(Bildquelle: [Details](/licenses#lekt0101)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Ардханаришвара
+(Източник на изображението: [Подробности](/bg/licenses#lekt0101))
 :::
 
 ::: center
@@ -61,97 +62,97 @@ Abb.: Ardhanarīśvara
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
 jagataḥ pitarau vande
-pārvatīparameśvarau |** &lt;!-- TODO: Fallback translation --&gt;
+pārvatīparameśvarau |**
 
-(Kālidāsa: Raghuvaṃśa 1.1) &lt;!-- TODO: Fallback translation --&gt;
+(Калидаса: Рагхуванша 1.1)
 
-Ich grüße die Eltern der Welt,
-Pārvatī und Śiva,
-Die so fest miteinander verbunden sind
-Wie Wort und Sinn zum Verständnis
-Des Wortsinns. &lt;!-- TODO: Fallback translation --&gt;
+Поздравявам родителите на света,
+Pārvatī и Śiva,
+Кои са толкова здраво свързани един с друг,
+Като дума и смисъл за разбирането
+На смисъла на думата.
 :::
 
 ---
 
-Zu Beginn ein Kuriosum: &lt;!-- TODO: Fallback translation --&gt;
+За начало едно любопитно наблюдение:
 
 ::: note-box
-"Als William Jones [1746–1794] und Henry Thomas Colebrooke (1765—1857) das Sanskrit erstmalig gründlich studiert, teilweise übersetzt und gefunden hatten, dass es eine reiche Literatur und nicht geringe Verwandtschaft mit den klassischen Sprachen aufwies, stießen sie auf nicht geringen Widerstand. Da sich mit dieser innigen Beziehung des Sanskrits zu den geographisch so weit entlegenen europäischen Sprachen die alten Anschauungen, welche entweder alle Sprachen aus dem Hebräischen ableiteten oder größtenteils von einander isolierten, nicht in Einklang bringen lassen, so ergriff der berühmte Philologe Dugald Steward (1753—1828) den einfachsten Ausweg, indem er die ganze Geschichte mit der Sanskritsprache für eine Lüge erklärte. Er schrieb einen Essay, in dem er zu beweisen suchte, dass sie von den spitzbübischen Brahmanen nach dem Muster des Griechischen und Lateinischen zusammengeschmiedet sei und die Sprache sowohl als auch die Literatur eine Fälschung seien. Diese Ansicht entwickelte noch im Jahre 1840 der Professor in Dublin, Charles William Wall, weitläufig (Göttingische gelehrte Anzeigen 1842 S. 1888)." &lt;!-- TODO: Fallback translation --&gt;
+"Когато Уилям Джоунс [1746–1794] и Хенри Томас Колбрук (1765—1857) за първи път сериозно изучават санскрит, частично го превеждат и откриват, че той притежава богата литература и значително сходство с класическите езици, те се сблъскват с сериозно съпротивление. Тъй като тази тясна връзка на санскрита с географски толкова отдалечените европейски езици не може да се съгласува със старите възгледи, които или извеждат всички езици от еврейския, или ги изолират един от друг в голяма степен, прочутият филолог Дъгълд Стюарт (1753—1828) избира най-простото решение, като обявява цялата история за лъжа по отношение на санскритския език. Той пиесе есе, в което се опитва да докаже, че тя е изкована от коварните брахмани по образец на гръцкия и латинския, и че както езикът, така и литературата са фалшификат. Тази гледна точка развива още през 1840 г. професорът в Дъблин, Чарлз Уилям Уол, обстойно (Göttingische gelehrte Anzeigen 1842, стр. 1888)."
 :::
 
-> [Quelle: **Kemmerich**, Max &lt;1876-1932&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] &lt;!-- TODO: Fallback translation --&gt;
+> [Източник: **Кеммерих**, Макс &lt;1876-1932&gt;: Културни курьози. -- Мюнхен : Ланген. -- Т. 2. -- 1923. -- стр. 74. -- Онлайн: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Достъпен на 2010-01-10]
 
-## 1.1. Literatur für Anfänger in Indologie
+## 1.1. Литература за начинаещи в индологията
 
 ::: media
 ![](/images/lekt0103.jpg)
-Abb.: Einbandtitel einer Taschenbuchausgabe
-(Bildquelle: [Details](/licenses#lekt0103)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Корен на корицата на твърдообложено издание
+(Източник на изображението: [Подробности](/bg/licenses#lekt0103))
 :::
 
-> **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Teil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie. &lt;!-- TODO: Fallback translation --&gt;
+> **Башам**, А. Л. (Артур Ллуелин) &lt;1914-1986&gt; _Чудото на Индия_ Част: Преглед на културата на индийския субконтинент преди идването на мюсюлманите. -- Лондон : Сиджвик и Джаксън, 1954. -- Оттогава много издания, включително твърдообложени. -- **Задължителна литература**. Добър преглед на живота, историята и културата в предмюсюлманска Индия. Общ преглед на различните области на класическата индология.
 
 ::: media
 ![](/images/lekt0104.jpg)
-Abb.: Titelblatt
-(Bildquelle: [Details](/licenses#lekt0104)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Заглавна страница
+(Източник на изображението: [Подробности](/bg/licenses#lekt0104))
 :::
 
-**Beste systematische Grammatik** &lt;!-- TODO: Fallback translation --&gt;
+**Най-добрата систематична граматика**
 
-> **Kielhorn**, Franz &lt;1840-1908&gt;: Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language &lt;!-- TODO: Fallback translation --&gt;
+> **Килхорн**, Франц &lt;1840-1908&gt;: Граматика на санскритския език / Преведено от английски от В. Солф [1862 - 1936]. -- Берлин : Дьомлър, 1888. -- XIII, 238 стр. -- Оригинално заглавие: Граматика на санскритския език
 
 ::: media
 ![](/images/lekt0105.jpg)
-Abb.: Umschlagtitel
-(Bildquelle: [Details](/licenses#lekt0105)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Заглавие на корицата
+(Източник на изображението: [Подробности](/bg/licenses#lekt0105))
 :::
 
-**Gute systematische Grammatik auf der Grundlage der einheimischen Grammatiker und zugleich eine Einführung in Pāṇini:** &lt;!-- TODO: Fallback translation --&gt;
+**Добра систематична граматика, базирана на местните грамматици и едновременно с това въведение в Пāṇини:**
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm. &lt;!-- TODO: Fallback translation --&gt;
+> **Куннапули, Джон:** Пракрия бхашям : Санскритска граматика / Първоначално написана на малаялам. Преведена на английски от К.В.Р. Пай. -- Паратходе : Самостоятелно издаване, 1983. -- 818 стр. ; 23 см.
 
 ::: media
 ![](/images/lekt0107.jpg)
-Abb.: Einbandtitel
-(Bildquelle: [Details](/licenses#lekt0107)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Корен на корицата
+(Източник на изображението: [Подробности](/bg/licenses#lekt0107))
 :::
 
-Eine gute, knappe Darstellung der europäischen sprachwissenschaftlichen Terminologie findet man in: &lt;!-- TODO: Fallback translation --&gt;
+Добро, кратко представяне на европейската лингвистична терминология може да се намери в:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge &lt;1856 - 1926&gt;. Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. &lt;!-- TODO: Fallback translation --&gt;
+> **Етимологичен речник на немския език** / [Фридрих] Клуге &lt;1856 - 1926&gt;. Редакция от Елмар Зееболд. -- 24., преработено и допълнено издание. -- Берлин [и др.] : де Грюйтер, 2002. - LXXXIX, 1023 стр. : 24 см. -- ISBN 3-11-017473-1 Мека корица. -- Стр. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)
-Abb.: Umschlagtitel
-(Bildquelle: [Details](/licenses#lekt0108)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: Заглавие на корицата
+(Източник на изображението: [Подробности](/bg/licenses#lekt0108))
 :::
 
-Für Wissbegierige zum Nachschlagen: &lt;!-- TODO: Fallback translation --&gt;
+За любознателните за справка:
 
-> **Lexikon der Sprachwissenschaft** / hrsg. von Hadumod Bußmann. -- 4., durchges. und bibliogr. erg. Aufl. / unter Mitarb. von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7 &lt;!-- TODO: Fallback translation --&gt;
+> **Речник на лингвистиката** / Редакция на ХадуMOD Бусман. -- 4., преработено и библиографски допълнено издание / под съавторството на Хартмут Лауфер. -- Щутгарт : Крьонър, 2008. -- 816 стр. ; 22 см. -- ISBN 978-3-520-45204-7
 
 ---
 
-## 1.2. Die Laute des Sanskrit
+## 1.2. Звуките на санскрит
 
-Die Laute des Sanskrit nach der traditionellen indischen Klassifikation und ihre wissenschaftliche Umschrift. &lt;!-- TODO: Fallback translation --&gt;
+Звуките на санскрит според традиционната индийска класификация и тяхната научна транскрипция.
 
 ::: media
 ![](/images/lekt0106.jpg)
-(Bildquelle: [Details](/licenses#lekt0106)) &lt;!-- TODO: Fallback translation --&gt;
+(Източник на изображението: [Подробности](/bg/licenses#lekt0106))
 :::
 
-Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation und die Reihenfolge der Laute ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden: &lt;!-- TODO: Fallback translation --&gt;
+Съвременните речници на санскрит са подредени според тази класификация. Тази класификация и редът на звуците са от съществено значение за разбирането на санскритската граматика и следователно трябва да се знаят наизуст:
 
-::: tip Klassifikation
+::: tip Класификация
 
-- **einfache Vokale** (samānākṣara -- समानाक्षर): &lt;!-- TODO: Fallback translation --&gt;
-  अ a, आ ā, इ i, ई ī, उ u, ऊ ū, ऋ ṛ, ॠ ṝ, ऌ ḷ &lt;!-- TODO: Fallback translation --&gt;
-- **Diphtonge** (sandhyakṣara -- सन्ध्यक्षर): &lt;!-- TODO: Fallback translation --&gt;
-  ए e, ऐ ai, ओ o, औ au &lt;!-- TODO: Fallback translation --&gt;
-- **Konsonanten** (vyañjana / hal -- व्यञ्जन / हल्): &lt;!-- TODO: Fallback translation --&gt;
+- **прости гласни** (samānākṣara -- समानाक्षर):
+  अ a, आ ā, इ i, ई ī, उ u, ऊ ū, ऋ ṛ, ॠ ṝ, ऌ ḷ
+- **дифтонги** (sandhyakṣara -- सन्ध्यक्षर):
+  ए e, ऐ ai, ओ o, औ au
+- **съгласни** (vyañjana / hal -- व्यञ्जन / हल्):
   क ka, ख kha, ग ga, घ gha, ङ ṅa
   च ca, छ cha, ज ja, झ jha, ञ ña
   ट ṭa, ठ ṭha, ड ḍa, ढ ḍha, ण ṇa
@@ -159,42 +160,42 @@ Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikatio
   प pa, फ pha, ब ba, भ bha, म ma
   य ya, र ra, ल la, व va
   श śa, ष ṣa, स sa
-  ह ha &lt;!-- TODO: Fallback translation --&gt;
+  ह ha
 :::
 
-### 1.2.1. Zur Aussprache einzelner Laute
+### 1.2.1. За произношението на отделните звукове
 
 ::: laut-table
-| Laut | Beschreibung |
+| Звук | Описание |
 | :--- | :--- |
-| **a - अ** | "kurzes a" wird bei den Indern -- schon seit alter Zeit -- oft wie ə ausgesprochen. In Europa spricht man es als kurzes a, in Bengalen als kurzes dunkles o. |
-| **ṛ - ऋ** | wie böhmisches vokalisiertes r. Leichter Nachklang von i. |
-| **ṝ - ॠ** | wie böhmisches vokalisiertes r. Leichter Nachklang von u. |
-| **jñ - ज्ञ्** | auch wie dny (Marāṭhī) oder gy (Nordindisch). |
-| **ś - श्** | sch-Laut mit nach unten gebogener Zungenspitze. Ähnlich wie sch in "mischen". |
-| **ṣ - ष्** | ach-Laut mit zurückgebogener Zungenspitze. Öfters so weit hinten im Rachen artikuliert, dass es fast wie kh klingt. |
-| **h - ह्** | Hauchlaut, nie Dehnungszeichen. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
-| **ṃ** | **Anusvara** -- अनुस्वर. Vor Zischlauten, h, l: Nasalierung des Vokals. Im Auslaut = m. Im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- संधि = sandhi -- सन्धि |
+| **a - अ** | „късо a“ се произнася от индийците – още от древни времена – често като ə. В Европа се произнася като късо a, в Бенгал като късо тъмно o. |
+| **ṛ - ऋ** | като чешкото вокализирано r. Леко призвуциране на i. |
+| **ṝ - ॠ** | като чешкото вокализирано r. Леко призвуциране на u. |
+| **jñ - ज्ञ्** | също като dny (маратхи) или gy (северноиндийски). |
+| **ś - श्** | звук sch с върха на езика, обърнат надолу. Подобно на sch в „смесвам“. |
+| **ṣ - ष्** | звук ach с върха на езика, огънат назад. Понякога се артикулира толкова далеч назад в гърлото, че звучи почти като kh. |
+| **h - ह्** | дъхов звук, никога знак за удължаване. |
+| **ḥ - :** | **Висарга (Висарджания)** -- विसर्ग / विसर्जनीय. Безгласен дъхов звук с призвуциране на предхождащия гласен или втората част на предхождащия дифтонг: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
+| **ṃ** | **Анусвара** -- अनुस्वर. Пред шипящи, h, l: назализиране на гласния. В края на думата = m. В средата на думата пред съгласни: назалният, съответстващ на следващия съгласен: saṃdhi -- संधि = sandhi -- सन्धि |
 :::
 
-Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest. &lt;!-- TODO: Fallback translation --&gt;
+Най-доброто произношение се постига, когато се четат изреченията, стиховете или думите доста бавно и монотонно, с точно спазване на дължината на гласните.
 
 ---
 
 ## 1.3. Упражнение
 
-**A) Lesen Sie folgende Worte:** &lt;!-- TODO: Fallback translation --&gt;
+**А) Прочетете следните думи:**
 
-1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र &lt;!-- TODO: Fallback translation --&gt;
-2. brahmā viṣṇu śiva — ब्रह्मा विष्णु शिव &lt;!-- TODO: Fallback translation --&gt;
-3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन् &lt;!-- TODO: Fallback translation --&gt;
-4. ṛgveda sāmaveda yajurveda atharvaveda — ऋग्वेद सामवेद यजुर्वेद अथर्ववेद &lt;!-- TODO: Fallback translation --&gt;
-5. upaniṣad — उपनिषद् &lt;!-- TODO: Fallback translation --&gt;
-6. jaina bauddha — जैन बौद्ध &lt;!-- TODO: Fallback translation --&gt;
-7. prajñāpāramitā — प्रज्ञापारमिता &lt;!-- TODO: Fallback translation --&gt;
-8. cakra vajra — चक्र वज्र &lt;!-- TODO: Fallback translation --&gt;
-9. pitṝn — पितॄन् &lt;!-- TODO: Fallback translation --&gt;
-10. saṃskṛta — संस्कृत &lt;!-- TODO: Fallback translation --&gt;
+1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र
+2. brahmā viṣṇu śiva — ब्रह्मा विष्णु शिव
+3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन्
+4. ṛgveda sāmaveda yajurveda atharvaveda — ऋग्वेद सामवेद यजुर्वेद अथर्ववेद
+5. upaniṣad — उपनिषद्
+6. jaina bauddha — जैन बौद्ध
+7. prajñāpāramitā — प्रज्ञापारमिता
+8. cakra vajra — चक्र वज्र
+9. pitṝn — पितॄन्
+10. saṃskṛta — संस्कृत
 
-**B) Lesen Sie die Sanskrit-Ausdrücke in der Lautklassifikation oben.** &lt;!-- TODO: Fallback translation --&gt;
+**Б) Прочетете санскритските изрази по горната фонетична класификация.**

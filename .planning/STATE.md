@@ -1,15 +1,15 @@
 ---
 gsd_state_version: 1.0
-milestone: v1.2
-milestone_name: milestone
-status: unknown
-last_updated: "2026-05-21T06:04:29.062Z"
+milestone: v1.3
+milestone_name: Editor First
+status: planning
+last_updated: "2026-05-27"
 progress:
-  total_phases: 10
-  completed_phases: 4
-  total_plans: 4
-  completed_plans: 9
-  percent: 40
+  total_phases: 17
+  completed_phases: 14
+  total_plans: 31
+  completed_plans: 19
+  percent: 61
 ---
 
 # Project State: Payer Sanskrit Course Migration
@@ -18,18 +18,27 @@ progress:
 
 Standardizing and migrating 61 Sanskrit lessons from legacy HTML to "Gold Standard" VitePress Markdown.
 
-## Milestone: v1.2 (Search, Index & I18n Expansion)
+## Milestone: v1.3 (Editor First)
 
-## Current State
+### Status: Planning
 
-- **Phase**: 14 (Lektion 27 Fidelity & Review)
-- **Status**: ✅ Complete
-- **Progress**: 100% (High-fidelity reconstruction finished, build passing)
+- Phase 15: VitePress-aware Markdown Editor ⭐ PRIORITY — 0/5 plans
+- Phase 16: I18n Completion (ES, LA, RM, TA) — sekundär — 0/4 plans
+- Phase 17: Scholarly Polish (Captions, Licenses, Comparison) — sekundär — 0/3 plans
+
+## Previous Milestone: v1.2 (Complete)
+
+- Phases 10-14: ✅ Complete (19/19 plans, shipped 2026-05-27)
+- ⚠ Known gaps: BG (23/61), UK (31/61), RU Übungen (0/61) — handled out-of-band via lan_translate.py
+
+## Deferred Items (Backlog)
+
+- 999.12: Historical Comparison Mode → absorbed into Phase 17.3
+- 999.13: VitePress-aware Markdown Editor → promoted to Phase 15 ⭐
+- 999.14: Standardize image captions → absorbed into Phase 17.1
 
 ## Recent Activity
 
-- **2026-05-16**: Completed Phase 14 (Lektion 27 Fidelity & Review). Finalized Devanāgarī tables and build stability.
-- **2026-05-08**: Completed Phase 13. Standardized QA Viewer as integrated VitePress route, implemented Pro-Sync dual-pane logic, and archived legacy migration scripts.
-- **2026-04-26**: Completed Phases 10-12 (v1.2 Search, Index & I18n Expansion).
-- 2026-04-26: v1.2 Complete.
-- 2026-05-07: Phase 13 Complete (QA Infrastructure Restoration).
+- 2026-05-27: v1.2 closed, v1.3 initialized with Editor as priority focus.
+- 2026-05-27: API endpoint corrected (192.168.1.22 → nyx.local:8000).
+- 2026-05-16: Phase 14 (Lektion 27 Fidelity) complete.

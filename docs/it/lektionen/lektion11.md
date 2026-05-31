@@ -1,35 +1,39 @@
 ---
+title: Lezione 11
+subtitle: "Il doppio accusativo (accusativo della persona e della cosa)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
+category: "Grammatica"
+status: stable
 ---
 
-# Lektion 11
+# Lezione 11
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- Den doppelten Accusativo (Accusativo der Person und der Sache) &lt;!-- TODO: Fallback translation --&gt;
-- Den Uso der Partikel **iti**, **evam** und **na** &lt;!-- TODO: Fallback translation --&gt;
-- Grundlegende Begriffe wie **dharma**, **adharma** und **putra** &lt;!-- TODO: Fallback translation --&gt;
-- Die Formazione von Nomina zu den Radicen **vad**, **prach** und **iṣ** &lt;!-- TODO: Fallback translation --&gt;
+**In questa lezione imparerete:**
+- L'accusativo doppio (accusativo della persona e della cosa)
+- L'uso delle particelle **iti**, **evam** e **na**
+- Concetti fondamentali come **dharma**, **adharma** e **putra**
+- La formazione di nominali dalle radici **vad**, **prach** e **iṣ**
 :::
 
-## 11.1. Doppelter Accusativo
+## 11.1. Accusativo doppio
 
 ::: grammar-box
 **Alcuni verbi possono reggere un doppio accusativo (dvitīyā): accusativo della persona e accusativo della cosa.**
 
 **Tra questi rientrano:**
-- **Verbi di parlare**: dire a qualcuno (accusativo) qualcosa (accusativo); dire a qualcuno (accusativo) qualcosa (accusativo)
-- **Verbi di chiedere**: chiedere a qualcuno (accusativo) qualcosa (accusativo)
+- **Verbi di parlare**: parlare a qualcuno (accusativo) di qualcosa (accusativo); dire a qualcuno (accusativo) qualcosa (accusativo)
+- **Verbi di chiedere**: chiedere a qualcuno (accusativo) di qualcosa (accusativo)
 - **Verbi di insegnare**: insegnare a qualcuno (accusativo) qualcosa (accusativo)
 - alcuni altri verbi, la cui costruzione viene indicata nelle liste lessicali
 
-**Quando una tale costruzione viene trasformata al passivo, la persona (colui che viene interrogato, ecc.) viene posta al nominativo (prathamā), mentre la cosa (riguardo alla quale viene interrogato, ecc.) rimane all’accusativo.**
+**Quando una tale costruzione viene trasformata al passivo, la persona (colui che viene interrogato, ecc.) viene posta al nominativo (prathamā), mentre la cosa (di cui si chiede, ecc.) rimane all'accusativo.**
 
-ad es. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = रामो ब्राह्मणं धर्मं पृच्छति = "Rāma chiede al brahmano riguardo al dharma."
+ad es. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = रामो ब्राह्मणं धर्मं पृच्छति = "Rāma chiede al brāhmaṇa riguardo al dharma."
 » Passivo: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = रामेण ब्राह्मणो धर्मं पृच्छयते
 
-**Questa regola vale solo quando sia la persona sia la cosa sono oggetti. Se la cosa è l’unico oggetto, essa, secondo lo schema fondamentale della frase passiva, si trova al nominativo (prathamā):**
+**Questa regola vale solo quando sia la persona sia la cosa sono oggetti. Se la cosa è l'unico oggetto, essa, secondo lo schema base della frase passiva, si trova al nominativo (prathamā):**
 
 ad es. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्छति = "Rāma chiede riguardo al dharma."
 » Passivo: **rāmeṇa dharmaḥ pṛcchyate** = रामेण धर्मः पृच्छयते
@@ -37,24 +41,24 @@ ad es. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच�
 
 ---
 
-## 11.2. Lessico
+## 11.2. Elenco di parole
 
-**Imparare le seguenti parole:**
+**Impara le seguenti parole:**
 
 - **iti** इति : così
-  - Si colloca *dopo* la formulazione di un pensiero, un desiderio, un’espressione o una citazione, fungendo quasi da virgolette (“).
-  - Es.: **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** «I brahmani dicono: «I giusti vanno al cielo»» = «I brahmani dicono che i giusti vanno al cielo».
-  - In sanscrito non esiste il discorso indiretto; le costruzioni con **iti** devono spesso essere rese in tedesco mediante il discorso indiretto.
-  - **... (citazione) ... iti śrutiḥ** = «così recita lo Śruti» (o «secondo lo Śruti»).
-  - Spesso dopo **iti** si sottintende un verbo di pensiero: «pensando: «...» egli fa ciò». Va reso idiomaticamente in tedesco (es. «Poiché ha fame, va...»).
+  - Si trova *dopo* la formulazione di un pensiero, desiderio, affermazione, citazione, quasi come virgolette (").
+  - Es. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "I brāhmaṇa dicono: 'I giusti vanno al cielo'" = "I brāhmaṇa dicono che i giusti vanno al cielo".
+  - In sanscrito non esiste il discorso indiretto; le costruzioni con **iti** devono spesso essere rese in tedesco con il discorso indiretto.
+  - **... (citazione) ... iti śrutiḥ** = "così dice il Veda".
+  - Spesso dopo **iti** si deve sottintendere un verbo di pensiero: "pensando: '...' fa questo". In tedesco rendere idiomaticamente (es. "Poiché ha fame, va...").
 
-- **evam** एवम् : così (avverbialmente, es. **evaṃ jayati** «così egli vince»).
+- **evam** एवम् : così (avverbiale, es. **evaṃ jayati** "così egli vince").
 - **na** न : non
-  - Negativa singoli termini (si colloca immediatamente prima: **na sādhuḥ** «un non buono») o intere frasi (si colloca all’inizio o immediatamente prima del verbo).
+  - Negazione di singole parole (sta immediatamente prima: **na sādhuḥ** "un non buono") o di intere frasi (sta all'inizio o immediatamente prima del verbo).
 
-- **putra** m. पुत्र : figlio (In India era necessario generare un figlio che potesse offrire i sacrifici agli antenati.)
-- **dharma** m. धर्म : («ciò che è stabile», cioè) diritto, legge, consuetudine, carattere.
-  - Corrisponde più precisamente alla legge naturale/morale. Ciascuno ha, in base al **varṇa** e all’**āśrama** (stadio della vita), i propri doveri (**svadharma**).
+- **putra** m. पुत्र : figlio (In India era necessario generare un figlio che potesse offrire i sacrifici per gli antenati.)
+- **dharma** m. धर्म : ("ciò che è stabile", cioè) diritto, legge, costume, carattere.
+  - Corrisponde più precisamente alla legge naturale/morale. Ciascuno ha, secondo **varṇa** e **āśrama** (stadio della vita), i propri doveri (**svadharma**).
 - **adharma** m. अधर्म : ingiustizia (contrario di **dharma**).
 - **iṣ** 6 P (icchati) इष् इच्छति : desiderare (**iṣ-ccha-ti**).
 
@@ -62,12 +66,12 @@ ad es. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच�
 
 - **vad** 1 P वद् : dire
   - **vāda** m. वाद : affermazione, dichiarazione, parola
-  - **vadana** n. वदन : il parlare; strumento del parlare: bocca, volto
+  - **vadana** n. वदन : il parlare; strumento di parola: bocca, volto
 
 ::: media
 ![](/images/lekt1102.jpg)
 Fig.: **vadanāni** = वदनानि, distretto di Jamalpur, Bangladesh.
-(Fonte dell’immagine: Juan Blazquez, Flickr, CC-BY-NC-ND 2.0)
+(Fonte dell'immagine: [Details](/it/licenses#lekt1102))
 :::
 
 - **prach** 6 P प्रच्छ् : chiedere
@@ -95,33 +99,33 @@ Fig.: **vadanāni** = वदनानि, distretto di Jamalpur, Bangladesh.
 11. को ऽग्निं यजते | |
 12. स श्रावको बुद्धं धर्मं पृच्छति ||
 
-**B) Trasformare le frasi di A) in costruzioni passive.**
+**B) Trasformare le frasi di A) nella forma passiva.**
 
-**C) Nelle frasi di A), laddove sia sensato, mettere soggetto, oggetto e predicato al plurale.**
+**C) Nelle frasi di A), dove ha senso, mettere soggetto, oggetto e predicato al plurale.**
 
-**D) Formulare le costruzioni passive per le frasi generate al punto C).**
+**D) Formare la costruzione passiva per le frasi formate in C).**
 
 ::: media
 ![](/images/lekt1101.jpg)
 Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
-(Fonte dell'immagine: Wikipedia, Dominio pubblico)
+(Fonte dell'immagine: [Details](/it/licenses#lekt1101))
 :::
 
 ---
 
-## 11.4. Wiederholungsübung
+## 11.4. Esercizio di ripasso
 
-**A) Tradurre in sanscrito utilizzando costruzioni passive:**
+**A) Tradurre in sanscrito con costruzioni passive:**
 1. Le donne vaiśya interrogano i brāhmaṇa riguardo al dharma.
 2. L'insegnante pronuncia un mantra.
-3. Le donne sacre raggiungono un cielo.
-4. Un saggio vedico non compie alcun male.
-5. I brāhmaṇa, in qualità di sacerdoti sacrificanti, venerano la dea con sacrifici.
+3. Le donne sacre giungono in un cielo.
+4. Un saggio vedico non fa nulla di male.
+5. I brāhmaṇa venerano la dea come sacerdoti sacrificanti con sacrifici.
 6. La donna śūdra va al villaggio.
 7. Chi vede la verità?
 
 **B)**
-1. Indicare con un dvandva i compiti di tutti i Dvija (i "due volte nati"). Risolvere il composto in sanscrito.
+1. Indicare con un dvandva i compiti di tutti i dvijatā (nati due volte). Risolvere il composto in sanscrito.
 2. Indicare con un dvandva i compiti dei vaiśya. Risolvere il composto in sanscrito.
 
 **C) Tradurre:**
@@ -135,7 +139,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 7. शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि | |
 8. आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ||
 
-**D) Tradurre e mettere in sanscrito al plurale l'agente, l'oggetto e il verbo:**
+**D) Tradurre e mettere in sanscrito il soggetto, l'oggetto e il verbo al plurale:**
 
 1. फलमश्नुते | |
 2. गुरुणा सत्यमुद्यते | |
@@ -147,5 +151,5 @@ Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 ::: media
 ![](/images/lekt1103.jpg)
 Fig.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
-(Fonte dell'immagine: Ray Witlin / World Bank, Flickr, CC-BY-NC-ND 2.0)
+(Fonte dell'immagine: [Details](/it/licenses#lekt1103))
 :::

@@ -37,13 +37,13 @@ lesson_id: 53
 ::: media
 ![](/images/lekt5301.jpg)
 Fig.: मार्जारयुगम्
-(Fuente de la imagen: [Detalles](/licenses#lekt5301))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5301))
 :::
 
 ::: media
 ![](/images/lekt5302.jpg)
 Fig.: हस्तौ
-(Fuente de la imagen: [Detalles](/licenses/lekt5302))
+(Fuente de la imagen: [Detalles](/es/licenses/lekt5302))
 :::
 
 ## 53.2. Desinencias duales del sustantivo
@@ -131,7 +131,7 @@ Fig.: हस्तौ
 ::: media
 ![](/images/lekt5305.jpg)
 Fig.: भरन्तौ
-(Fuente de la imagen: [Detalles](/licenses#lekt5305))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5305))
 :::
 
 ददत् 3 "que da"
@@ -234,7 +234,7 @@ Fig.: भरन्तौ
 ::: media
 ![](/images/lekt5306.jpg)
 Fig.: फले
-(Fuente de la imagen: [Detalles](/licenses#lekt5306))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5306))
 :::
 
 **Raíces en -i**
@@ -268,7 +268,7 @@ Fig.: फले
 ::: media
 ![](/images/lekt5307.jpg)
 Fig.: धेनू
-(Fuente de la imagen: [Detalles](/licenses#lekt5307))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5307))
 :::
 
 **Raíces en -ā**
@@ -354,7 +354,7 @@ Ejemplos:
 ::: media
 ![](/images/lekt5308.jpg)
 Fig.: पितापुत्रौ
-(Fuente de la imagen: [Detalles](/licenses#lekt5308))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5308))
 :::
 
 ## 53.6. El dual de los pronombres
@@ -490,7 +490,7 @@ Ejemplo:
 ::: media
 ![](/images/lekt5309.jpg)
 Fig.: द्राघीयो लिङ्गम्
-(Fuente de la imagen: [Detalles](/licenses#lekt5309))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5309))
 :::
 
 **Algunas formas de comparación de este tipo carecen por completo de una forma base relacionada etimológicamente con la raíz; son «defectivas». Por ello, conviene memorizar especialmente las siguientes series:**
@@ -533,12 +533,12 @@ Fig.: द्राघीयो लिङ्गम्
 ::: media
 ![](/images/lekt5303.jpg)
 Fig.: क्रिश्चियन-मोर्गन्स्टर्न्
-(Fuente de la imagen: [Detalles](/licenses#lekt5303))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5303))
 :::
 
 Véase también:
 
-> **Payer, Alois <1944 - >:** Introducción a la exégesis de textos en sánscrito : Manuscrito. -- Cap. 8: La exégesis propiamente dicha, Parte II: Sobre cuestiones individuales de comprensión sincrónica. -- Apéndice B: Sobre la métrica de los textos en sánscrito. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois &lt;1944 - &gt;:** Introducción a la exégesis de textos en sánscrito : Manuscrito. -- Cap. 8: La exégesis propiamente dicha, Parte II: Sobre cuestiones individuales de comprensión sincrónica. -- Apéndice B: Sobre la métrica de los textos en sánscrito. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Importancia de la determinación del metro
 
@@ -551,7 +551,7 @@ La determinación del metro es importante por las siguientes razones:
 ::: media
 ![](/images/lekt5304.jpg)
 Fig.: हर्मन्-ओल्डन्बेर्ग्
-(Fuente de la imagen: [Detalles](/licenses#lekt5304))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5304))
 :::
 
 ### 53.10.2. Tipos de metros
@@ -719,7 +719,6 @@ Alois Maria Payer
 
 ::: deleteme-box
 
-### Fuentes
 
-**Payer, Alois <1944->:** Curso de sánscrito. -- Lección 53 (Vacaciones semestrales). -- Versión del 19-01-2009. -- Fuente de la imagen de la tabla original 53.9: Captura de pantalla de la fuente original (Payer).
+**Payer, Alois &lt;1944-&gt;:** Curso de sánscrito. -- Lección 53 (Vacaciones semestrales). -- Versión del 19-01-2009. -- Fuente de la imagen de la tabla original 53.9: Captura de pantalla de la fuente original (Payer).
 :::

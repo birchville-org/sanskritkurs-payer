@@ -1,6 +1,10 @@
 ---
+title: Lektion 48
+subtitle: "सुभाषितानि"
 lesson_id: 48
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 48
@@ -33,7 +37,7 @@ last_reconstructed: 2026-05-21
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. Person**[[br]]तृतीयः | \-āni | \-ai | \-āma | \-āmahai |
 | **2. Person**[[br]]मध्यमः | \-dhi[[br]]\-hi[[br]]\-ø[[br]]\-āna[[br]]\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3. Person**[[br]]प्रथमः | \-tu[[br]]\-tāt¹ | \-tām | \-antu[[br]]3.Kl.: \-atu[[br]](aus. -\*ntu) | \-atām[[br]](aus: -\*ntām) |
+| **3. Person**[[br]]प्रथमः | \-tu[[br]]\-tāt¹ | \-tām | \-antu[[br]]***3.Kl.: -atu***[[br]](aus. -\*ntu) | \-atām[[br]](aus: -\*ntām) |
 :::
 
 Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll. -tāt tritt (auch in der 3.sg.P) an den schwachen Stamm.
@@ -112,7 +116,7 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | **एकवचनम्** | **बहुवचनम्** |
 | **1. Person**[[br]]तृतीयः | शयै[[br]](śe + ai) | शयामहै |
 | **2. Person**[[br]]मध्यमः | शेष्व | शेध्वम् |
-| **3. Person**[[br]]प्रथमः | शेताम् | शेरताम् |
+| **3. Person**[[br]]प्रथमः | शेताम् | ***शेरताम्*** |
 :::
 
 हन् 2P
@@ -135,8 +139,8 @@ Anm.: ¹ Erklärung von **जहि** siehe Thumb-Hauschild I,2 S. 253
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. Person**[[br]]तृतीयः | स्तवानि[[br]](sto + āni) | स्तवाम | स्तवै | स्तवामहै |
-| **2. Person**[[br]]मध्यमः | स्तुहि[[br]]स्तुवीहि | स्तुत[[br]]स्तुवीत | स्तुष्व[[br]]स्तुवीष्व | स्तुध्वम्[[br]]स्तुवीध्वम् |
-| **3. Person**[[br]]प्रथमः | स्तौतु[[br]]स्तवीतु | स्तुवन्तु | स्तुताम्[[br]]स्तुवीताम् | स्तुवताम् |
+| **2. Person**[[br]]मध्यमः | स्तुहि[[br]]***स्तुवीहि*** | स्तुत[[br]]***स्तुवीत*** | स्तुष्व[[br]]***स्तुवीष्व*** | स्तुध्वम्[[br]]***स्तुवीध्वम्*** |
+| **3. Person**[[br]]प्रथमः | स्तौतु[[br]]***स्तवीतु*** | स्तुवन्तु | स्तुताम्[[br]]***स्तुवीताम्*** | स्तुवताम् |
 :::
 
 अस् 2P
@@ -146,7 +150,7 @@ Anm.: ¹ Erklärung von **जहि** siehe Thumb-Hauschild I,2 S. 253
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
 | **1. Person**[[br]]तृतीयः | असानि | असाम |
-| **2. Person**[[br]]मध्यमः | एधि[[br]](aus: \*s-dhi) | स्त |
+| **2. Person**[[br]]मध्यमः | ***एधि***[[br]](aus: \*s-dhi) | स्त |
 | **3. Person**[[br]]प्रथमः | अस्तु | सन्तु |
 :::
 
@@ -157,8 +161,8 @@ Anm.: ¹ Erklärung von **जहि** siehe Thumb-Hauschild I,2 S. 253
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
 | **1. Person**[[br]]तृतीयः | शासानि | शासाम |
-| **2. Person**[[br]]मध्यमः | शाधि[[br]](aus: śās + dhi)[[br]]unregelm. hochstufig | शिष्ट |
-| **3. Person**[[br]]प्रथमः | शास्तु | शासतु[[br]]unregelm. hochstufig |
+| **2. Person**[[br]]मध्यमः | ***शाधि***[[br]](aus: śās + dhi)[[br]]unregelm. hochstufig | शिष्ट |
+| **3. Person**[[br]]प्रथमः | शास्तु | ***शासतु***[[br]]unregelm. hochstufig |
 :::
 
 ### 48.2.4. Dritte Präsensklasse (जुहोत्यादि)
@@ -200,7 +204,7 @@ Anm.: ¹ **धेहि** aus \*dhazdhi: Wegfall des indogermanischen Zischlauts
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
 | **1. Person**[[br]]तृतीयः | जहानि | जहाम |
-| **2. Person**[[br]]मध्यमः | जहाहि[[br]]unregelm. stark. St.[[br]]जहीहि[[br]]जहिहि | जहीत[[br]]जहित |
+| **2. Person**[[br]]मध्यमः | ***जहाहि***[[br]]unregelm. stark. St.[[br]]जहीहि[[br]]जहिहि | जहीत[[br]]जहित |
 | **3. Person**[[br]]प्रथमः | जहातु | जहतु[[br]](ja-h-atu) |
 :::
 
@@ -281,12 +285,14 @@ Abb.: वैयाघ्रं विजृम्भणम्
 ::: media
 ![](/images/lekt4802.jpg)
 Abb.: तन्त्रम्
+Sualkuchi = সুৱালকুচি, Assam = অসম
 (Bildquelle: [Details](/licenses#lekt4802))
 :::
 
 ::: media
 ![](/images/lekt4803.jpg)
 Abb.: तन्त्री
+Sitarspieler = सितारवादकः
 (Bildquelle: [Details](/licenses#lekt4803))
 :::
 
@@ -310,6 +316,7 @@ Deklination:
 ::: media
 ![](/images/lekt4804.jpg)
 Abb.: स्वतन्त्राः स्त्रियः
+[Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Bildquelle: [Details](/licenses#lekt4804))
 :::
 
@@ -322,6 +329,7 @@ Abb.: स्वतन्त्राः स्त्रियः
 ::: media
 ![](/images/lekt4805.jpg)
 Abb.: कुमारः
+Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
 (Bildquelle: [Details](/licenses#lekt4805))
 :::
 
@@ -330,6 +338,7 @@ Abb.: कुमारः
 ::: media
 ![](/images/lekt4806.jpg)
 Abb.: कुमारी
+नेपाल
 (Bildquelle: [Details](/licenses#lekt4806))
 :::
 
@@ -342,6 +351,7 @@ Abb.: कुमारी
 ::: media
 ![](/images/lekt4807.jpg)
 Abb.: स्थविराः
+जोधपुर
 (Bildquelle: [Details](/licenses#lekt4807))
 :::
 
@@ -354,6 +364,7 @@ Abb.: स्थविराः
 ::: media
 ![](/images/lekt4808.jpg)
 Abb.: सूक्ष्मम्
+Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 (Bildquelle: [Details](/licenses#lekt4808))
 :::
 
@@ -370,6 +381,7 @@ Abb.: सूक्ष्मम्
 ::: media
 ![](/images/lekt4809.jpg)
 Abb.: मम जाया
+(Bild: Payer)
 (Bildquelle: [Details](/licenses#lekt4809))
 :::
 
@@ -412,7 +424,7 @@ B) Übersetzen Sie ins Sanskrit (verwenden Sie dabei den Imperativ und möglichs
 काले ऽदाता पिता वाच्यो वाच्यश्चानुपनयन्पतिः ।  
 मृते भर्तरi पुत्रस्तु वाच्यो मातुररक्षिता ॥४॥  
 सूक्ष्मेभ्यो ऽपि प्रसङ्गेभ्यः स्त्रियो रक्ष्या विशेषतः ।  
-द्वयोर्हि कुलयोः शोकमावहेयुररक्षिताः ॥५॥  
+***द्वयोर्हि कुलयोः*** शोकमावहेयुररक्षिताः ॥५॥  
 इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम् ।  
 यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥६॥  
 स्वां प्रसूतिं चरित्रं च कुलमात्मानमेव च ।  
@@ -425,7 +437,6 @@ Erklärung:
 द्वयोर्हि कुलयोः : Gen. (षष्ठी) Dual zu द्वे कुले "zwei Familien"
 
 ::: deleteme-box
-### Quellen
 
 **lekt4801:** [Bildquelle: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)]
 

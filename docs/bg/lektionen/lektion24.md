@@ -1,315 +1,335 @@
+---
+title: Урок 24
+subtitle: "Дативът (चतुर्थी = \"четвърто падежно окончание\")"
+lesson_id: 24
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 24
 
-# Lektion 24
-
-## 24.1. Der Датив (चतुर्थी = "vierte Kasusendung")
+## 24.1. Дативът (चतुर्थी = "четвърто падежно окончание")
 
 :::: grammar-box
-**1. Um den Zweck oder eine Absicht ("um zu") einer Handlung wiederzugeben, kann man statt des Infinitivs (तुमुन्) auch ein Nomen mit kṛt-Suffix, das eine Handlung oder einen Zustand bezeichnet, im Dativ (चतुर्थी = "vierte Kasusendung") verwenden.** &lt;!-- TODO: Fallback translation --&gt;
+**1. За да се предаде целта или намерението ("за да") на едно действие, вместо инфинитива (तुमुन्) може да се използва и съществително с kṛt суфикс, което обозначава действие или състояние, в датив (चतुर्थी = "четвърто падежно окончание").**
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
-anstatt: &lt;!-- TODO: Fallback translation --&gt;
+вместо:
 
 ::: indent
 रामो गुरुवचनं श्रोतुं गतः ।
 :::
 
-kann man auch sagen: &lt;!-- TODO: Fallback translation --&gt;
+може също да се каже:
 
 ::: indent
 रामो गुरुवचनस्य श्रवणाय गतः ।
 
-oder: &lt;!-- TODO: Fallback translation --&gt;
+или:
 
 रामो गुरुवचनश्रवणाय गतः ।
 :::
 
-= "Rāma ist gegangen, um die Rede des Lehrers zu hören." &lt;!-- TODO: Fallback translation --&gt;
+= "Рама е отишъл, за да чуе речта на учителя."
 ::::
 
 ::: media
 ![](/images/lekt2404.jpg)
-Abb.: बाला गुरुश्रवणाय गताः
-(Bildquelle: [Details](/licenses#lekt2404)) &lt;!-- TODO: Fallback translation --&gt;
+Обр.: बाला गुरुश्रवणाय गताः
+(Източник на изображението: [Подробности](/bg/licenses#lekt2404))
 :::
 
 :::: grammar-box
-**2. Der Dativ (चतुर्थी) kann auch das Objekt eines zu ergänzenden Infinitivs des Zweckes bezeichnen:** &lt;!-- TODO: Fallback translation --&gt;
+**2. Дативът (चतुर्थी) може също да обозначава обекта на допълващ инфинитив на целта:**
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
 ::: indent
-फलेभ्यो ग्रामं गच्छति = "Er geht zum Zweck von Früchten ins Dorf = Er geht ins Dorf, um Früchte zu holen." &lt;!-- TODO: Fallback translation --&gt;
+फलेभ्यो ग्रामं गच्छति = "Той отива в селото с цел плодове = Той отива в селото, за да вземе плодове."
 :::
 
-**In gleicher Weise bezeichnet der Dativ (चतुर्थी) den Zweck eines Dinges oder einer Handlung:** &lt;!-- TODO: Fallback translation --&gt;
+**По същия начин дативът (चतुर्थी) обозначава целта на нещо или действие:**
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
 ::: indent
-यज्ञायान्नम् = "Speise zum Zweck eines Opfers = Speise für ein Opfer" &lt;!-- TODO: Fallback translation --&gt;
+यज्ञायान्नम् = "Храна с цел жертвоприношение = Храна за жертвоприношение"
 :::
 ::::
 
 ::: media
 ![](/images/lekt2401.jpg)
-Abb.: यज्ञायान्नम्
-(Bildquelle: [Details](/licenses#lekt2401)) &lt;!-- TODO: Fallback translation --&gt;
+Обр.: यज्ञायान्नम्
+'Annakut' [अन्नकूट = गोवर्धन पूजा] е традиционен индуистки празник, който се провежда по време на празненствата за новата индуистка година във всички храмове на BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. В този ден се предлагат стотици вегетариански ястия на Бхагван Сваминараян [સ્વામિનારાયણ].
+(Източник на изображението: [Подробности](/bg/licenses#lekt2401))
 :::
 
 :::: grammar-box
-**3. Der Dativ (चतुर्थी) bezeichnet auch die Person oder Sache, für die das Objekt einer Handlung bestimmt ist (indirektes Objekt ; Frage: wem?). (Beachten Sie aber die Verben mit doppeltem Akkusativ (द्वितीया)!)** &lt;!-- TODO: Fallback translation --&gt;
+**3. Дативът (चतुर्थी) обозначава също лицето или нещото, за което е предназначен обектът на едно действие (косвен обект; въпрос: на кого?). (Обърнете внимание обаче на глаголите с двоен винителен падеж (द्वितीया)! )**
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
 ::: indent
-रामाय फलं ददाति = "Er gibt dem Rāma eine Frucht." (Wurzel दा 3. Präsensklasse) &lt;!-- TODO: Fallback translation --&gt;
+रामाय फलं ददाति = "Той дава на Рама плод." (Корен दा 3. клас на настоящето време)
 :::
 ::::
 
 ::: media
 ![](/images/lekt2402.jpg)
-Abb.: बाला बालाय रक्षबन्धनं ददाति
-(Bildquelle: [Details](/licenses#lekt2402)) &lt;!-- TODO: Fallback translation --&gt;
+Обр.: बाला बालाय रक्षबन्धनं ददाति
+Ракша бандхан се отбелязва с ентусиазъм и радост по цяла Индия. Този празник олицетворява безусловната любов между братя и сестри.
+(Източник на изображението: [Подробности](/bg/licenses#lekt2402))
 :::
 
 :::: grammar-box
-**4. Der Dativ steht bei einigen Verben (und einigen anderen Wörtern) ähnlich wie im Deutschen auf die Frage "wem?":** &lt;!-- TODO: Fallback translation --&gt;
+**4. Дативът стои при някои глаголи (и някои други думи) подобно на немския на въпроса "на кого?":**
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
 ::: indent
-क्रुध् : देवो नरेभ्यो क्रुध्यति = "Der Gott zürnt den Männern." &lt;!-- TODO: Fallback translation --&gt;
+क्रुध् : देवो नरेभ्यो क्रुध्यति = "Бог гнявва на мъжете."
 
-अलम् Adverb: "genug, hinreichend, gewachsen": अलं योधो योधाय = "ein Krieger ist dem anderen Krieger gewachsen" &lt;!-- TODO: Fallback translation --&gt;
+अलम् Наречие: "достатъчно, достатъчно, наравно": अलं योधो योधाय = "воин е наравно на другия воин"
 :::
 ::::
 
 ::: media
 ![](/images/lekt2403.jpg)
-Abb.: अलं योधो योधाय
-(Bildquelle: [Details](/licenses#lekt2403)) &lt;!-- TODO: Fallback translation --&gt;
+Обр.: अलं योधो योधाय
+"Рама (дясно) седнал на раменете на Хануман, воюва с демон-крал Равана." ок. 1820 г.
+(Източник на изображението: [Подробности](/bg/licenses#lekt2403))
 :::
 
-Weitere Verwendungen des Dativ später. &lt;!-- TODO: Fallback translation --&gt;
+Други употреби на датив по-късно.
 
-## 24.2. Образоване des Датив (चतुर्थी)
+## 24.2. Образуване на датив (चतुर्थी)
 
 ::: grammar-box
-**Die regelmäßigen Endungen des Dativ sind:** &lt;!-- TODO: Fallback translation --&gt;
+**Правилните окончания на датив са:**
 
-* **Единствено число: -e ; vokalisch endende Femininstämme: -ai** &lt;!-- TODO: Fallback translation --&gt;
-* **Множествено число: Датив und Аблатив (पञ्चमी): -bhyas** &lt;!-- TODO: Fallback translation --&gt;
+* **Еднина: -e ; гласкозавършващи женски корени: -ai**
+* **Множина: Датив и аблатив पञ्चमी: -bhyas**
 :::
 
-### 24.2.1. Konsonantische Stämme
+### 24.2.1. Съгласнически основи
 
 :::: grammar-box
 
-| | Датив Единствено число[[br]]चतुर्थी एकवचन | Датив Множествено число[[br]]चतुर्थी बहुवचन |
+| | Датив единствено число | Датив множествено число |
 | :--- | :--- | :--- |
-| **yajant**[[br]]यजन्त् | **yajate**[[br]]यजते[[br]](yaja-t-e) | **yajadbhyas**[[br]]यजद्भ्यस्[[br]](aus yaja-t-bhyas) |
-| **mahānt**[[br]]महान्त् | **mahate**[[br]]महते | **mahadbhyas**[[br]]महद्भ्यस् |
-| **paśumant**[[br]]पशुमन्त् | **paśumate**[[br]]पशुमते | **paśumadbhyas**[[br]]पशुमद्भ्यस् |
-| **guṇavant**[[br]]गुणवन्त् | **guṇavate**[[br]]गुणवते | **guṇavadbhyas**[[br]]गुणवद्भ्यस् |
+| यजन्त् | **यजते**[[br]]yaja-t-e | **यजद्भ्यस्**[[br]]aus yaja-t-bhyas |
+| महान्त् | **महते** | **महद्भ्यस्** |
+| पशुमन्त् | **पशुमते** | **पशुमद्भ्यस्** |
+| गुणवन्त् | **गुणवते** | **गुणवद्भ्यस्** |
 
 ::::
 
-### 24.2.2. Fragepronomen
+### 24.2.2. Въпросителни местоимения
 
 :::: grammar-box
 
-| | Мъжки род / Среден род[[br]]पुंस् / नपुंसक | Женски род[[br]]स्त्री |
+| | Мъжки род / Среден род | Женски род |
 | :--- | :--- | :--- |
-| **Датив Единствено число**[[br]]एकवचन | **kasmai**[[br]]कस्मै | **kasyai**[[br]]कस्यै |
-| **Датив Множествено число**[[br]]बहुवचन | **kebhyas**[[br]]केभ्यस् | **kābhyas**[[br]]काभ्यस् |
+| **Датив единствено число** | **कस्मै** | **कस्यै** |
+| **Датив множествено число** | **केभ्यस्** | **काभ्यस्** |
 
 ::::
 
-### 24.2.3. Demonstrativpronomina
+### 24.2.3. Указателни местоимения
 
 :::: grammar-box
 
-| | | **tad**[[br]]तद् | **etad**[[br]]एतद् | **idam**[[br]]इदम् |
+| | | तद् | एतद् | इदम् |
 | :--- | :--- | :--- | :--- | :--- |
-| **Мъжки род[[br]]/ Среден род** | **Dat. sg.** | **tasmai**[[br]]तस्मै | **etasmai**[[br]]एतस्मै | **asmai**[[br]]अस्मै |
-| | **Dat. pl.** | **tebhyas**[[br]]तेभ्यस् | **etebhyas**[[br]]एतेभ्यस् | **ebhyas**[[br]]एभ्यस् |
-| **Femininum** | **Dat. sg.** | **tasyai**[[br]]तस्यै | **etasyai**[[br]]एतस्यै | **asyai**[[br]]अस्यै |
-| | **Dat. pl.** | **tābhyas**[[br]]ताभ्यस् | **etābhyas**[[br]]एताभ्यस् | **ābhyas**[[br]]आभ्यस् |
+| **Мъжки род / Среден род** | **Дат. ед.** | **तस्मै** | **एतस्मै** | **अस्मै** |
+| | **Дат. мн.** | **तेभ्यस्** | **एतेभ्यस्** | **एभ्यस्** |
+| **Женски род** | **Дат. ед.** | **तस्यै** | **एतस्यै** | **अस्यै** |
+| | **Дат. мн.** | **ताभ्यस्** | **एताभ्यस्** | **आभ्यस्** |
 
 ::::
 
-### 24.2.4. Vokalische Stämme
+### 24.2.4. Гласови основи
 
 ::: grammar-box
-**Vokalische Stämme** &lt;!-- TODO: Fallback translation --&gt;
+**Гласови основи**
 
-* **Maskulina / Neutra auf -a: deva (देव)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. sg. devāya (देवाय)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. pl. devebhyas (देवेभ्यस्)** &lt;!-- TODO: Fallback translation --&gt;
-* **Maskulina auf -i: kavi (कवि)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. sg. kavaye (कवये)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. pl. kavibhyas (कविभ्यस्)** &lt;!-- TODO: Fallback translation --&gt;
-* **Maskulina auf -u: paśu (पशु)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. sg. paśave (पशवे)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. pl. paśubhyas (पशुभ्यस्)** &lt;!-- TODO: Fallback translation --&gt;
-* **Feminina auf -ā: devatā (देवता)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. sg. devatāyai (देवतायै)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. pl. devatābhyas (देवताभ्यस्)** &lt;!-- TODO: Fallback translation --&gt;
-* **Feminina auf -ī: devī (देवी)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. sg. devyai (देव्यै)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. pl. devībhyas (देवीभ्यस्)** &lt;!-- TODO: Fallback translation --&gt;
-* **Feminina auf -i: śruti (श्रुति)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. sg. śrutaye (श्रुतये) oder śrutyai (श्रुत्यै)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. pl. śrutibhyas (श्रुतिभ्यस्)** &lt;!-- TODO: Fallback translation --&gt;
-* **Feminina auf -u: dhenu (धेनु)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. sg. dhenave (धेनवे) oder dhenvai (धेन्वै)** &lt;!-- TODO: Fallback translation --&gt;
-  * **Dat. pl. dhenubhyas (धेनुभ्यस्)** &lt;!-- TODO: Fallback translation --&gt;
+* **Мъжки род / Среден род на -a:** देव
+  * Дат. ед. **देवाय**
+  * Дат. мн. **देवेभ्यस्**
+* **Мъжки род на -i:** कवि
+  * Дат. ед. **कवये**
+  * Дат. мн. **कविभ्यस्**
+* **Мъжки род на -u:** पशु
+  * Дат. ед. **पशवे**
+  * Дат. мн. **पशुभ्यस्**
+* **Женски род на -ā:** देवता
+  * Дат. ед. **देवतायै**
+  * Дат. мн. **देवताभ्यस्**
+* **Женски род на -ī:** देवी
+  * Дат. ед. **देव्यै**
+  * Дат. мн. **देवीभ्यस्**
+* **Женски род на -i:** श्रुति
+  * Дат. ед. **श्रुतये** или **श्रुत्यै** (т.е. като कवि или като देवी)
+  * Дат. мн. **श्रुतिभ्यस्**
+* **Женски род на -u:** धेनु
+  * Дат. ед. **धेनवे** или **धेन्वै**
+  * Дат. мн. **धेनुभ्यस्**
 :::
 
-## 24.3. Sandhi von auslautendem -ai und -au
+## 24.3. Сандхи на крайните -ai и -au
 
-::: grammar-box
-**Sandhi von auslautendem -ai und -au** &lt;!-- TODO: Fallback translation --&gt;
+:::: grammar-box
+**Сандхи на крайните -ai и -au**
 
-* **-ai vor anlautendem Vokal wird in der Regel durch -ā ersetzt (seltener durch -āy wie im Wortinneren)** &lt;!-- TODO: Fallback translation --&gt;
-* **-au vor Vokal wird in der Regel durch -āv ersetzt (seltener durch -ā)** &lt;!-- TODO: Fallback translation --&gt;
+* **-ai пред начален гласен обикновено се заменя с -ā (рядко с -āy, както вътре в думата)**
+* **-au пред гласен обикновено се заменя с -āv (рядко с -ā)**
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
 ::: indent
-तस्मै + अग्नये » तस्मा अग्नये = "diesem Feuer" &lt;!-- TODO: Fallback translation --&gt;
+तस्मै + अग्नये » तस्मा अग्नये = „на този огън“
 :::
-:::
+::::
 
-## 24.4. Речник
+## 24.4. Списък на думите
 
-अलम् Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. अलं क्रोधेन = "genug mit dem Zorn = lass ab vom Zorn!" &lt;!-- TODO: Fallback translation --&gt;
+अलम् Наречие: достатъчно, достатъчно, (за някого, нещо) способен; с датив: достатъчно за, достатъчно за, способен на; с инструментал: достатъчно с, спречи от , напр. अलं क्रोधेन = "достатъчно с гнева = спречи от гнева!"
 
-In gleicher Weise wie अलम् mit Instrumentalis wird verwendet: &lt;!-- TODO: Fallback translation --&gt;
+По същия начин, по който अलम् с инструментал се използва:
 
-कृतम् : कृतं क्रोधेन = "Es ist getan mit dem Zorn = lass ab vom Zorn!" &lt;!-- TODO: Fallback translation --&gt;
+कृतम् : कृतं क्रोधेन = "Гневът е приключил = спречи от гнева!"
 
-अलम् + कृ 8U अलंकरोति : schmücken &lt;!-- TODO: Fallback translation --&gt;
+अलम् + कृ 8U अलंकरोति : украсявам
 
 ::: indent
-अलंकार m.: Schmuck, Schmuckmittel (in der Dichtung) &lt;!-- TODO: Fallback translation --&gt;
+अलंकार м.: украса, средство за украса (в поезията)
 :::
 
 ::: media
 ![](/images/lekt2405.jpg)
-Abb.: अलंकारः
-(Bildquelle: [Details](/licenses#lekt2405)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: अलंकारः
+(Източник на изображението: [Подробности](/bg/licenses#lekt2405))
 :::
 
-हेतु m.: Antribe, Veranslassung, Ursache, Grund ; हेतुना, हेतोस्, हेतवे mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen" &lt;!-- TODO: Fallback translation --&gt;
 
-प्रतिमा f.: Bildnis, Abbild &lt;!-- TODO: Fallback translation --&gt;
+हेतु м.: подтик, повод, причина, основание; हेतुना, हेतोस्, हेतवे с генитив или като втора част на съставна дума = "заради ..., поради"
+
+प्रतिमा ж.: изображение, портрет
 
 ::: media
 ![](/images/lekt2406.jpg)
-Abb.: देवीप्रतिमा
-(Bildquelle: [Details](/licenses#lekt2406)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: देवीप्रतिमा
+Хампи = ಹಂಪೆ, Карнатака = ಕರ್ನಾಟಕ
+(Източник на изображението: [Подробности](/bg/licenses#lekt2406))
 :::
 
-वृत् + प्र 1Ā प्रवर्तते : erfolgen, geschehen, entstehen &lt;!-- TODO: Fallback translation --&gt;
 
-Von वृत्: &lt;!-- TODO: Fallback translation --&gt;
+वृत् + प्र 1Ā प्रवर्तते : следва, случва се, възниква
+
+От वृत्:
 
 ::: indent
-वृत्ति f.: Benehmen, Tätigkeit, Lebensweise &lt;!-- TODO: Fallback translation --&gt;
+वृत्ति ж.: поведение, дейност, начин на живот
 
-वृत्त n.: Benehmen &lt;!-- TODO: Fallback translation --&gt;
+वृत्त ср.: поведение
 :::
 
-अभि Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an &lt;!-- TODO: Fallback translation --&gt;
+अभि Предлог:  об-, след - на, към - към, към - на, срещу, в - навътре, по отношение на, на, над, при
 
-नि Präverb: niederwärts, hinunter, hinein, rückwärts &lt;!-- TODO: Fallback translation --&gt;
+नि Предлог: надолу, надолу, навътре, назад
 
-आ Präposition / Postposition: vor Ablativ oder nach Akkusativ: bis hin, bis zu ; mit Ablativ: von her, von an, seit &lt;!-- TODO: Fallback translation --&gt;
+आ Предлог / Постпозитор: преди аблатив или след акузатив: до, до; с аблатив: от, от, от
 
-अतस् Indeklinabile: von da, dann, deshalb, daher (Pronominalstamm a- "dieser" + Ablativsuffix -tas) &lt;!-- TODO: Fallback translation --&gt;
+अतस् Неизменяемо: оттам, тогава, затова, оттук (пративно основа a- "този" + аблативен суфикс -tas)
 
-अध्यक्ष m.: Aufseher, Departementschef ; Augenzeuge &lt;!-- TODO: Fallback translation --&gt;
+अध्यक्ष м.: надзирател, ръководител на отдел; свидетел на място
 
-इन्द्रिय n.: Kraft, Sinnesorgan &lt;!-- TODO: Fallback translation --&gt;
+इन्द्रिय ср.: сила, сетивен орган
 
-ऊह m.: Überlegung, Argumentation &lt;!-- TODO: Fallback translation --&gt;
+ऊह м.: разсъждение, аргументация
 
-davon &lt;!-- TODO: Fallback translation --&gt;
+от това
 
 ::: indent
-अपोह m.: Negierung (अप + ऊह) &lt;!-- TODO: Fallback translation --&gt;
+अपोह м.: отрицание (अप + ऊह)
 
-ऊहापोह m.: Diskussion des Für und Wider &lt;!-- TODO: Fallback translation --&gt;
+ऊहापोह м.: дискусия за за и против
 :::
 
 ::: media
 ![](/images/lekt2407.jpg)
-Abb.: ऊहापोहः
-(Bildquelle: [Details](/licenses#lekt2407)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: ऊहापोहः
+"НОВА ДЕЛХИ/ИНДИЯ, 16НОВ08 - Суасини Хайдар, заместник-външен редактор, CNN-IBN Network 18, Индия, модерират дискусия на икономическия самит на Индия на Световния икономически форум 2008 в Нова Делхи."
+(Източник на изображението: [Подробности](/bg/licenses#lekt2407))
 :::
 
-औपकारिक 3 f.: -ई : nützlich &lt;!-- TODO: Fallback translation --&gt;
 
-कुप्य n.: Walderzeugnis, Metall (nicht Edelmetall) &lt;!-- TODO: Fallback translation --&gt;
+औपकारिक 3 ж.: -ई : полезен
 
-ख्या 2P ख्याति PPP ख्यात : sehen, sichtbar werden ; nennen, erklären, mitteilen &lt;!-- TODO: Fallback translation --&gt;
+कुप्य ср.: горски продукти, метал (не благороден метал)
+
+ख्या 2P ख्याति PPP ख्यात : виждам, ставам видим; наричам, обяснявам, съобщавам
 
 ::: indent
-ख्या + आ 2P आख्यात : erzählen &lt;!-- TODO: Fallback translation --&gt;
+ख्या + आ 2P आख्यात : разказвам
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
-आख्यान n.: Erzählung &lt;!-- TODO: Fallback translation --&gt;
+आख्यान ср.: разказ
 :::
 
 ::: media
 ![](/images/lekt2408.jpg)
-Abb.: आख्यानम्
-(Bildquelle: [Details](/licenses#lekt2408)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: आख्यानम्
+"Разказвачът от Сан Франциско Джеф Байърс споделя история с жителите на Ченнери, село Ирула. Разказвачът Джеева Рагхунат превежда на тамил за селяните."
+(Източник на изображението: [Подробности](/bg/licenses#lekt2408))
 :::
 
+
 ::: indent
-ख्या + सम् 2P संख्याति : zusammenzählen, berechnen &lt;!-- TODO: Fallback translation --&gt;
+ख्या + सम् 2P संख्याति : събирам, изчислявам
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
-संख्या f.: Zählung, Aufzählung ; सांख्य n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.) &lt;!-- TODO: Fallback translation --&gt;
+संख्या ж.: броене, изброяване; सांख्य ср.: едно от шестте философски системи (кратко: Башам, Чудеса с. 326ф.)
 :::
 
-ग्रहण n.: Ergreifen &lt;!-- TODO: Fallback translation --&gt;
+ग्रहण ср.: хващане
 
-चौल n.: Zermonie (संस्कार) des Haarschneidens (im Alter von 3 Jahren) &lt;!-- TODO: Fallback translation --&gt;
+चौल ср.: церемония (संस्कार) на подстригване на косата (на 3 години)
 
-तत्त्व n.: wahres Wesen, Wahrheit, Realität (तद् + त्व = Dies-heit) &lt;!-- TODO: Fallback translation --&gt;
+तत्त्व ср.: истинска същност, истина, реалност (तद् + त्व = това-ност)
 
-स्वस्ति f.: Glück, Heil (Nominalbildung aus सु अस्ति = "es ist gut") &lt;!-- TODO: Fallback translation --&gt;
+स्वस्ति ж.: късмет, спасение (съществително от सु अस्ति = "добре е")
 
-नमस् n.: Verbeugung, Verehrung, Gruß (Deklination später). Begrüßungsformel: नमो नमः &lt;!-- TODO: Fallback translation --&gt;
+नमस् ср.: поклони, почит, поздрав (деклинация по-късно). Поздравителна формула: नमो नमः
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
 ::: indent
-कृ + नमस् 8 नमस्करोमि : sich verbeugen, verehren, begrüßen &lt;!-- TODO: Fallback translation --&gt;
+कृ + नमस् 8 नमस्करोमि : покланям се, почитам, поздравявам
+
 :::
 
 ::: media
 ![](/images/lekt2411.jpg)
-Abb.: जयदेवकविर्विष्णुं नमस्करोति
-(Bildquelle: [Details](/licenses#lekt2411)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: जयदेवकविर्विष्णुं नमस्करोति
+Манускрипт на गीतगोविन्द, 1730 г. сл. Хр.
+(Източник на изображението: [Подробности](/bg/licenses#lekt2411))
 :::
 
-स्वागत n.: Willkommen (aus su-ā-gata) &lt;!-- TODO: Fallback translation --&gt;
 
-तृण n.: Grashalm &lt;!-- TODO: Fallback translation --&gt;
+स्वागत n.: Добре дошли (от su-ā-gata)
 
-पुनर् Adverb: wiederum, wieder, zurück, aber &lt;!-- TODO: Fallback translation --&gt;
+तृण n.: Стъбло трева
+
+पुनर् Наречие: отново, пак, назад, но
 
 ## 24.5. Упражнение
 
-A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an: &lt;!-- TODO: Fallback translation --&gt;
+A) Образувателно датив единствено число и датив/(аблатив) множествено число и посочете значението на именния корен:
 
 1.  श्रव
 2.  भवन
@@ -341,7 +361,7 @@ A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie di
 28.  दासी
 29.  गुरु
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: &lt;!-- TODO: Fallback translation --&gt;
+B) Преведете и разтворете санскритските съставни думи:
 
 ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विशति ॥१॥
 
@@ -361,85 +381,86 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: &lt;!-- TODO: F
 
 मरणाय जना जायन्ते ॥९॥
 
-C) Geben Sie die Sätze A) 1-4 in Sanskrit wieder, indem Sie statt der Dative Infinitive (तुमुन्) setzen. Beachten Sie, dass der Infinitiv den gleichen Kasus regiert wie das entsprechende Verb. &lt;!-- TODO: Fallback translation --&gt;
+C) Предайте изреченията от A) 1-4 на санскрит, като замените инфинитивите на датива (तुमुन्) с инфинитив. Имайте предвид, че инфинитивът управлява същия падеж като съответния глагол.
 
-D) Ersetzen Sie in Satz A) 7 die Konstruktion mit -अर्थ durch einen gleichwertigen Dativ. &lt;!-- TODO: Fallback translation --&gt;
+D) Заменете в изречение A) 7 конструкцията с -अर्थ с еквивалентен датив.
 
-E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Konstruktion mit -अर्थ &lt;!-- TODO: Fallback translation --&gt;
+E) Заменете в изречение A) 6 конструкцията с датив с еквивалентна конструкция с -अर्थ
 
-## 24.6. Weitere Упражнениеen zum Употреба des Датив
+## 24.6. Допълнителни упражнения за употреба на датив
 
-Übersetzen Sie ins Sanskrit: &lt;!-- TODO: Fallback translation --&gt;
+Преводайте на санскрит:
 
-1\. Die Göttin, der man nicht geopfert hat, zürnt den Menschen. &lt;!-- TODO: Fallback translation --&gt;
+1\. Богинята, на която не е принесена жертва, гнявва се на хората.
 
-2\. Er lässt die Kuh ins Dorf los. &lt;!-- TODO: Fallback translation --&gt;
+2\. Той пуща кравата към селото.
 
-3\. Jetzt reichts = Genug mit der Geduld. &lt;!-- TODO: Fallback translation --&gt;
+3\. Сега стига = Достатъчно с търпението.
 
-4\. Das ist gut (हित, सुख) für einen Brahmanen. &lt;!-- TODO: Fallback translation --&gt;
+4\. Това е добро (हित, सुख) за един брахман.
 
-5\. Verehrung (नमस्)  sei Śiva! Verehrung sei Śrī Gaṇeśa! &lt;!-- TODO: Fallback translation --&gt;
+5\. Поклонение (नमस्)  да бъде на Шива! Поклонение да бъде на Шри Ганеша!
 
 ::: media
 ![](/images/lekt2409.jpg)
-Abb.: श्रीगणेशाय नमः
-(Bildquelle: [Details](/licenses#lekt2409)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: श्रीगणेशाय नमः
+(Източник на изображението: [Подробности](/bg/licenses#lekt2409))
 :::
 
-6\. Auf Wiedersehen! (= Wohlergehen (स्वस्ति f.)  Ihnen!) &lt;!-- TODO: Fallback translation --&gt;
 
-7\. Diese Frucht reicht zum Essen. &lt;!-- TODO: Fallback translation --&gt;
+6\. На revoir! (= Благополучие (स्वस्ति ж.р.) на Вас!)
 
-8\. Ein Kämpfer ist dem (anderen) Kämpfer gewachsen (शक्त). &lt;!-- TODO: Fallback translation --&gt;
+7\. Този плод стига за хранене.
 
-9\. Selbst Viṣṇu übertrifft (प्र-भू + Dat.) Śiva nicht. &lt;!-- TODO: Fallback translation --&gt;
+8\. Борецът е равен на (другия) боец (शक्त).
 
-10\. Nachdem ich mich vor den drei Weisen (Akk.) verbeugt habe (नमस्कृ)... Er verbeugt sich vor Narasiṃha (Dat.) &lt;!-- TODO: Fallback translation --&gt;
+9\. Дори Вишну не превъзхожда (प्र-भू + Дат.) Шива.
+
+10\. След като се поклони пред тримата мъдреци (Акуз.) (नमस्कृ)... Той се покланя на Нарасимха (Дат.)
 
 ::: indent
-Erklärung: मुनित्रयम् "die Dreiheit der Weisen = die drei Weisen" = die Grammatiker पाणिनि, कात्यायन, पतञ्जलि &lt;!-- TODO: Fallback translation --&gt;
+Обяснение: मुनित्रयम् "Тройствеността на мъдреците = тримата мъдреци" = граматиките पाणिनि, कात्यायन, पतञ्जलि
 :::
 
 ::: media
 ![](/images/lekt2410.jpg)
-Abb.: नरो नरसिंहाय नमस्करोति
-(Bildquelle: [Details](/licenses#lekt2410)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: नरो नरसिंहाय नमस्करोति
+नरसिंह разкъсва हिरण्यकशिपु, страница от ръкопис на भागवतपुराण
+(Източник на изображението: [Подробности](/bg/licenses#lekt2410))
 :::
 
-11\. Willkommen (स्वागतम्)  Ihnen. Willkommen der Königin. &lt;!-- TODO: Fallback translation --&gt;
 
-12\. Ich wünsche Ihnen Wohlergehen (कुशल) = Wohlergehen Ihnen! &lt;!-- TODO: Fallback translation --&gt;
+11\. Добре дошли (स्वागतम्)  на Вас. Добре дошла на кралицата.
 
-13\. Er betrachtet ihn nicht als Grashalm. &lt;!-- TODO: Fallback translation --&gt;
+12\. Пожелавам Ви благополучие (कुशल) = Благополучие на Вас!
 
-14\. Es reicht eine Frucht zum Essen und Wasser zum Trinken. &lt;!-- TODO: Fallback translation --&gt;
+13\. Той не го разглежда като тревна сламка.
 
-15१५. Auf Widersehen! (Neusanskrit: पुनर्दर्शनाय) &lt;!-- TODO: Fallback translation --&gt;
+14\. Стига един плод за хранене и вода за пиене.
+
+15१५. На срещане! (Неосанскрит: पुनर्दर्शनाय)
 
 ::: deleteme-box
 
-### Източници
+**lekt2401:** 'Annakut' [अन्नकूट = गोवर्धन पूजा] е традиционен индуистки празник, който се провежда по време на индуистките новогодишни тържества във всички храмове на BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Стотици вегетариански ястия се предлагат на Бхагван Сваминараян [સ્વામિનારાયણ] в този ден. [Източник на изображението: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Посетено на 2008-12-14. -- Лиценз Creative Commons (Attribution, Non-commercial)]
 
-**lekt2401:** 'Annakut' [अन्नकूट = गोवर्धन पूजा] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day. [Bildquelle: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt2402:** Raksha bandhan се отбелязва с ентусиазъм и радост по цяла Индия. Този празник е олицетворение на безусловната любов между братя и сестри. [Източник на изображението: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Посетено на 2008-12-14. -- Лиценз Creative Commons (Attribution, Non-commercial, Share Alike)]
 
-**lekt2402:** Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters. [Bildquelle: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt2403:** "Рама (дясно) седнал на раменете на Хануман, воюва с демон-крал Равана." ок. 1820 г. [Източник на изображението: Wikipedia, Public domain]
 
-**lekt2403:** "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820 [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2404:** [Източник на изображението: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Посетено на 2008-12-14. -- Лиценз Creative Commons (Attribution, No Derivative Works)]
 
-**lekt2404:** [Bildquelle: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2405:** [Източник на изображението: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Посетено на 2008-12-14. -- Лиценз Creative Commons (Attribution, Non-commercial, No Derivative Works)]
 
-**lekt2405:** [Bildquelle: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Източник на изображението: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Посетено на 2008-12-14. -- Лиценз Creative Commons (Attribution, Non-commercial)]
 
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Bildquelle: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt2407:** „НОВО ДЕЛХИ/ИНДИЯ, 16НОВ08 – Суасини Хайдар, заместник-външен редактор на CNN-IBN Network 18, Индия, модерират дискусия на икономическия самит на Световния икономически форум 2008 в Ню Делхи.“ [Източник на изображението: Световен икономически форум / Фотография на Дана Смили. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Достъп на 2008-12-14. -- Лиценз „Криейтив Коменс“ (Attribution, Share Alike)]
 
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [Bildquelle: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt2408:** „Разказвачът от Сан Франциско Джеф Байърс споделя история с жителите на Ченери, село на ирула. Разказвачът Джива Рагхунат превежда на тамил за селяните.“ [Източник на изображението: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Достъп на 2008-12-14. -- Лиценз „Криейтив Коменс“ (Attribution, Non-Commercial)]
 
-**lekt2408:** "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers." [Bildquelle: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt2409:** [Източник на изображението: Redtigerxyz / Уикипедия, GNU FDLicense]
 
-**lekt2409:** [Bildquelle: Redtigerxyz / Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2410:** नरसिंह разкъсва हिरण्यकशिपु, страница от ръкопис на भागवतपुराण [Източник на изображението: Уикипедия, Обществен достъп]
 
-**lekt2410:** नरसिंह zerfleischt हिरण्यकशिपु, Blatt aus einem Manuskript des भागवतपुराण [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt2411:** Manuskript des गीतगोविन्द, 1730 n. Chr. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2411:** Ръкопис на गीतगोविन्द, 1730 г. н.е. [Източник на изображението: Уикипедия, Обществен достъп]
 :::

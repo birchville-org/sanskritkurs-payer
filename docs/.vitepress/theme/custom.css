@@ -34,23 +34,33 @@ html {
 
 
 .dark {
-  --vp-c-bg: #002b36;
-  --vp-c-bg-alt: #073642;
-  --vp-c-bg-elv: #073642;
-  --vp-c-bg-soft: #073642;
-  
-  --vp-c-text-1: #93a1a1;
-  --vp-c-text-2: #839496;
-  --vp-c-text-3: #586e75;
+  /* ── Scholarly Synthesis Dark · "Die illuminierte Handschrift bei Kerzenlicht" ── */
+  /* Hintergründe: Deep Ink ── */
+  --vp-c-bg: #0a1628;
+  --vp-c-bg-alt: #0f1e35;
+  --vp-c-bg-elv: #0f1e35;
+  --vp-c-bg-soft: #0f1e35;
 
-  --vp-c-brand-1: #2aa198; /* Cyan */
-  --vp-c-brand-2: #268bd2; /* Blue */
-  --vp-c-brand-3: #859900; /* Green */
-  --vp-c-brand-soft: rgba(42, 161, 152, 0.1);
+  /* Text: warme Pergament-Töne ── */
+  --vp-c-text-1: #e8e0d3;
+  --vp-c-text-2: #c4bba5;
+  --vp-c-text-3: #a09080;
 
-  --vp-c-divider: #586e75;
-  --vp-c-border: #586e75;
-  --vp-c-gutter: #073642;
+  /* Brand: Gold/Amber (abgeleitet vom grammar-box-Rand) ── */
+  --vp-c-brand-1: #eab308;
+  --vp-c-brand-2: #ca8a04;
+  --vp-c-brand-3: #d97706;
+  --vp-c-brand-soft: rgba(234, 179, 8, 0.12);
+
+  /* Code-Blöcke ── */
+  --vp-c-default-1: #334155;
+  --vp-c-default-2: #475569;
+  --vp-c-default-3: #64748b;
+  --vp-c-default-soft: rgba(51, 65, 85, 0.35);
+
+  --vp-c-divider: #334155;
+  --vp-c-border: #334155;
+  --vp-c-gutter: #0a1628;
 }
 
 
@@ -204,6 +214,17 @@ html {
   margin: 0;
 }
 
+/* Hindi Devanagari — same font as Sanskrit but no color override */
+.hindi-dev {
+  font-family: "Sanskrit2003", "ITR Vijay", serif;
+  font-size: 1.15em;
+  font-weight: 600;
+  margin: 0;
+}
+.vp-doc table .hindi-dev {
+  font-size: 1.35em !important;
+}
+
 /* Table-specific overrides for Sanskrit (Default to Scholastic Red unless specified) */
 .vp-doc table strong em .sanskrit-dev,
 .vp-doc table em strong .sanskrit-dev,
@@ -233,9 +254,8 @@ html {
 }
 
 .dark .vp-doc .custom-block.grammar-box {
-  background-color: #241500 !important; /* Tertiary 'Burnt Umber' background */
+  background-color: #241500 !important;
   border-left-color: #eab308 !important;
-  color: var(--vp-c-text-1) !important; /* Maintain readability in dark mode */
 }
 
 /* Custom Block: Grammar-Box 2 (Orange background, bold styling) */
@@ -253,9 +273,8 @@ html {
 }
 
 .dark .vp-doc .custom-block.grammar-box2 {
-  background-color: #361e04 !important; /* Deep burnt orange background for dark mode */
+  background-color: #361e04 !important;
   border-left-color: #ea580c !important;
-  color: var(--vp-c-text-1) !important;
 }
 
 .vp-doc .custom-block.grammar-box2 .custom-block-title {
@@ -294,8 +313,8 @@ html {
 
 .dark .vp-doc .custom-block.note-box,
 .dark .vp-doc .custom-block.tip {
-  background-color: rgba(147, 161, 161, 0.05) !important;
-  border-left-color: #586e75 !important;
+  background-color: rgba(232, 224, 211, 0.04) !important;
+  border-left-color: #64748b !important;
 }
 
 .vp-doc .custom-block.note-box .custom-block-title,
@@ -322,6 +341,36 @@ html {
   font-size: 1em !important;
   line-height: inherit !important;
   color: inherit !important;
+}
+
+/* Remove bottom margin from the last child inside any custom-block to avoid
+   extra whitespace (child margin + container padding stacking). */
+.vp-doc .custom-block > *:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* Table-wrapper containers (center, no-header) nested directly inside a
+   grammar-box must not add their own margin/padding — the grammar-box
+   padding (1.25rem) already provides all the breathing room. */
+.vp-doc .grammar-box > .custom-block.center,
+.vp-doc .grammar-box > .custom-block.no-header {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* indent blocks nested directly inside a grammar-box: suppress the
+   negative margin-top (-0.7rem) that is designed for post-paragraph
+   context — here the grammar-box padding already handles spacing. */
+.vp-doc .grammar-box > .custom-block.indent {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Empty paragraphs created by blank lines around block-level children
+   inside a grammar-box contribute height without content — hide them. */
+.vp-doc .grammar-box > p:empty {
+  display: none;
+  margin: 0 !important;
 }
 
 /* Media & Image Alignment */
@@ -401,9 +450,9 @@ html {
 }
 
 .dark .vp-doc .custom-block.important {
-  background-color: #2e1065 !important; /* Deeper violet for dark mode */
+  background-color: #1e1210 !important;
   border-left-color: #a78bfa !important;
-  color: rgba(252, 249, 242, 0.8) !important;
+  color: rgba(232, 224, 211, 0.85) !important;
 }
 
 .vp-doc .custom-block.important::before {
@@ -422,7 +471,7 @@ html {
 }
 
 .dark .vp-doc .custom-block.important::before {
-  background-color: #2e1065;
+  background-color: #1e1210;
 }
 
 .vp-doc .custom-block.important .custom-block-title {
@@ -454,7 +503,7 @@ html {
 
 .dark .vp-doc strong em,
 .dark .vp-doc em strong {
-  color: #ff3333 !important;
+  color: #ef4444 !important;
 }
 
 .vp-doc strong em .sanskrit-dev,
@@ -464,7 +513,7 @@ html {
 
 .dark .vp-doc strong em .sanskrit-dev,
 .dark .vp-doc em strong .sanskrit-dev {
-  color: #ff3333 !important;
+  color: #ef4444 !important;
 }
 
 /* Erlaube Hellrot (strong em) auch in der grammar-box explizit */
@@ -480,12 +529,12 @@ html {
 }
 
 .dark .vp-doc .grammar-box strong .sanskrit-dev {
-  color: #f87171 !important;
+  color: #ef4444 !important;
 }
 
 .dark .vp-doc .grammar-box strong em .sanskrit-dev,
 .dark .vp-doc .grammar-box em strong .sanskrit-dev {
-  color: #ff3333 !important;
+  color: #ef4444 !important;
 }
 
 /* Verstecke deleteme-box (Inhalt nur für Redaktion/QA relevant) */
@@ -527,7 +576,7 @@ html {
 
 .dark .vp-doc .metrik-schema strong em,
 .dark .vp-doc .metrik-schema em strong {
-  color: #ff3333 !important;
+  color: #ef4444 !important;
 }
 
 /* Split Viewer / Embedded Mode Fixes */

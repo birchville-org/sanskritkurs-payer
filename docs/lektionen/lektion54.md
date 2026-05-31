@@ -1,6 +1,10 @@
 ---
+title: Lektion 54
+subtitle: "Vorbemerkung"
 lesson_id: 54
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 54
@@ -30,6 +34,7 @@ Beispiel:
 ::: media
 ![](/images/lekt5402.jpg)
 Abb.: अयुयुत्सुरर्जुनः
+भगवद्गीतोपदेशः Tirupati = తిరుపతి
 (Bildquelle: [Details](/licenses#lekt5402))
 :::
 ## 54.3. Metrik II: die epische त्रिष्टुभ् und die जगती
@@ -276,11 +281,11 @@ Nasalinfix:
 ::: media
 ![](/images/lekt5401.jpg)
 Abb.: त्रिचक्रेणेश्वरः स्तूयते
+Tamil Nadu
 (Bildquelle: [Details](/licenses#lekt5401))
 :::
 
 ::: deleteme-box
-### Quellen
 
 **lekt5402:** भगवद्गीतोपदेशः Tirupati = తిరుపతి [Bildquelle: Raji Srinivas / Wikipedia. GNU FDLicense]
 

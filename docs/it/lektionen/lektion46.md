@@ -404,27 +404,27 @@ Derivati:
 
 Per राहु e केतु vedere:
 
-> **Payer, Alois <1944 - >:** Dharmashastra : Introduzione e panoramica. -- 10. Sacramenti e riti di passaggio (samskara). -- Appendice C: Rahu e Ketu, i pianeti erranti invisibili. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Introduzione e panoramica. -- 10. Sacramenti e riti di passaggio (samskara). -- Appendice C: Rahu e Ketu, i pianeti erranti invisibili. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.jpg)
-Fig.: [सूर्यः, चन्द्रः, मङ्गलः](/licenses#lekt4602)
-(Fonte immagine: [Dettagli](/licenses#lekt4602))
+Fig.: [सूर्यः, चन्द्रः, मङ्गलः](/it/licenses#lekt4602)
+(Fonte immagine: [Dettagli](/it/licenses#lekt4602))
 :::
 ::: media
 ![](/images/lekt4603.jpg)
-Fig.: [बुधः, बृहस्पतिः](/licenses#lekt4603)
-(Fonte immagine: [Dettagli](/licenses#lekt4603))
+Fig.: [बुधः, बृहस्पतिः](/it/licenses#lekt4603)
+(Fonte immagine: [Dettagli](/it/licenses#lekt4603))
 :::
 
 ::: media
 ![](/images/lekt4604.jpg)
-Fig.: [शुक्रः, शनिः](/licenses#lekt4604)
-(Fonte immagine: [Dettagli](/licenses#lekt4604))
+Fig.: [शुक्रः, शनिः](/it/licenses#lekt4604)
+(Fonte immagine: [Dettagli](/it/licenses#lekt4604))
 :::
 ::: media
 ![](/images/lekt4605.jpg)
-Fig.: [राहुः, केतुः](/licenses#lekt4605)
-(Fonte immagine: [Dettagli](/licenses#lekt4605))
+Fig.: [राहुः, केतुः](/it/licenses#lekt4605)
+(Fonte immagine: [Dettagli](/it/licenses#lekt4605))
 :::
 
 
@@ -452,8 +452,8 @@ Infinito नन्तुम्
 :::
 ::: media
 ![](/images/lekt4607.jpg)
-Fig.: [नारायण तुभ्यं नमामि](/licenses#lekt4607)
-(Fonte immagine: [Dettagli](/licenses#lekt4607))
+Fig.: [नारायण तुभ्यं नमामि](/it/licenses#lekt4607)
+(Fonte immagine: [Dettagli](/it/licenses#lekt4607))
 :::
 
 
@@ -470,8 +470,8 @@ Infinito रोढुम्
 :::
 ::: media
 ![](/images/lekt4606.jpg)
-Fig.: [अश्वरोहकः](/licenses#lekt4606)
-(Fonte immagine: [Dettagli](/licenses#lekt4606))
+Fig.: [अश्वरोहकः](/it/licenses#lekt4606)
+(Fonte immagine: [Dettagli](/it/licenses#lekt4606))
 :::
 
 
@@ -489,8 +489,8 @@ Assoluto -हूय
 :::
 ::: media
 ![](/images/lekt4608.jpg)
-Fig.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/licenses#lekt4608)
-(Fonte immagine: [Dettagli](/licenses#lekt4608))
+Fig.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/it/licenses#lekt4608)
+(Fonte immagine: [Dettagli](/it/licenses#lekt4608))
 :::
 
 
@@ -518,8 +518,8 @@ Derivati:
 :::
 ::: media
 ![](/images/lekt4609.jpg)
-Fig.: [श्रान्तः](/licenses#lekt4609)
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4609))
+Fig.: [श्रान्तः](/it/licenses#lekt4609)
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4609))
 :::
 
 श्रि 1U श्रयति : appoggiarsi, appoggiarsi a, trovare sostegno, recarsi da qualcuno (con il dativo, ablativo)
@@ -548,8 +548,8 @@ da ciò:
 :::
 ::: media
 ![](/images/lekt4610.jpg)
-Fig.: [सङ्गः](/licenses#lekt4610)
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4610))
+Fig.: [सङ्गः](/it/licenses#lekt4610)
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4610))
 :::
 
 द्रु 1P द्रवति : correre, affrettarsi
@@ -591,8 +591,8 @@ Assol. -लम्ब्य
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Fig.: [लम्बोदर नमस्तुभ्यम्](/licenses#lekt4601)
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4601))
+Fig.: [लम्बोदर नमस्तुभ्यम्](/it/licenses#lekt4601)
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4601))
 :::
 
 लम्ब् + आ 1Ā आलम्बते : appendersi a (con l'accusativo)
@@ -616,8 +616,8 @@ ad es.
 
 ::: media
 ![](/images/lekt4611.jpg)
-Fig.: [भोः](/licenses#lekt4611)
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4611))
+Fig.: [भोः](/it/licenses#lekt4611)
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4611))
 :::
 
 ## 46.3. Esercitazione
@@ -692,13 +692,12 @@ B) Tradurre:
 
 ::: media
 ![](/images/lekt4612.jpg)
-Fig.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/licenses#lekt4612)
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4612))
+Fig.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/it/licenses#lekt4612)
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4612))
 :::
 
 ::: deleteme-box
 
-### Fonti
 
 Fonti delle immagini dei Navagraha: Redtigerxyz / Wikipedia. Licenza GNU FDL
 

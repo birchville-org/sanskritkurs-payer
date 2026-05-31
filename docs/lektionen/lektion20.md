@@ -1,6 +1,10 @@
 ---
+title: Lektion 20
+subtitle: "Possesivkomposita = बहुव्रीहि m."
 lesson_id: 20
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 20
@@ -10,6 +14,7 @@ last_reconstructed: 2026-05-21
 ::: media
 ![](/images/lekt2004.jpg)
 Abb.: बहुव्रीहिः पुरुषः
+Jodhpur = जोधपुर
 (Bildquelle: [Details](/licenses#lekt2004))
 :::
 
@@ -157,6 +162,7 @@ Traditionell unterscheidet man:
 ::: media
 ![](/images/lekt2005.jpg)
 Abb.: देवा यीश्वादयः
+Jesus und die übrigen Götter, Ahmedabad
 (Bildquelle: [Details](/licenses#lekt2005))
 :::
 
@@ -188,6 +194,7 @@ Beispiel:
 ::: media
 ![](/images/lekt2001.jpg)
 Abb.: इन्द्रो वज्रपाणिः
+Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr.
 (Bildquelle: [Details](/licenses#lekt2001))
 :::
 
@@ -219,6 +226,7 @@ Beispiele:
 ::: media
 ![](/images/lekt2006.jpg)
 Abb.: सपुत्रा
+Madhya Pradesh
 (Bildquelle: [Details](/licenses#lekt2006))
 :::
 
@@ -258,6 +266,7 @@ Die Beispiele sind hier zur späteren Durcharbeitung gegeben, für einige sind b
 ::: media
 ![](/images/lekt2007.jpg)
 Abb.: कृतकटा
+Chennai = சென்னை
 (Bildquelle: [Details](/licenses#lekt2007))
 :::
 
@@ -288,6 +297,7 @@ Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und b
 ::: media
 ![](/images/lekt2008.jpg)
 Abb.: आश्रमः
+Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
 (Bildquelle: [Details](/licenses#lekt2008))
 :::
 
@@ -382,7 +392,7 @@ Abb.: आश्रमः
 
 चेष्ट् 1 Ā चेष्टते Pass. चेष्ट्यते PPP चेष्टित : sich regen
 
-## Übung 1
+## 20.10. Übung 1
 
 Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatpuruṣa auf alle Ihnen als möglich erscheinenden Arten in Sanskrit auf (Ausnahme: Komposita mit adverbiellem Vorderglied). Übersetzen Sie diese verschieden aufgelösten Komposita ins Deutsche, geben Sie Geschlecht, Fall und Zahl des Gesamtkompositums an.
 
@@ -468,7 +478,7 @@ Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatp
 80.  अकरुणस्य
 81.  सोढदुःखाः
 
-## Übung 2
+## 20.11. Übung 2
 
 A) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
@@ -520,6 +530,7 @@ Erklärung: तपस् n. (Deklination später): Glut, Hitze, Qual ; Askeseglu
 ::: media
 ![](/images/lekt2010.jpg)
 Abb.: तपस्
+Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt.
 (Bildquelle: [Details](/licenses#lekt2010))
 :::
 
@@ -561,6 +572,7 @@ Erläuterung: -da am Ende eines Kompositums: "gebend"
 ::: media
 ![](/images/lekt2009.jpg)
 Abb.: लोकानां करदा मही
+Karnataka
 (Bildquelle: [Details](/licenses#lekt2009))
 :::
 
@@ -590,6 +602,7 @@ Erklärung: alle Formen außer कं und स्त्रीणाम् sind No
 ::: media
 ![](/images/lekt2003.jpg)
 Abb.: तनुमध्यं पृथुश्रोणि
+Sanchi = सांची
 (Bildquelle: [Details](/licenses#lekt2003))
 :::
 
@@ -606,7 +619,7 @@ Erklärung: इच्छताम् = gen. Pl. Part Präs. P zu इष् : der
 :::
 
 ::: deleteme-box
-### Quellen
+
 **lekt2001:** Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr. [Bildquelle: Wikipedia, Public domain]
 
 **lekt2002:** [Bildquelle: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926]

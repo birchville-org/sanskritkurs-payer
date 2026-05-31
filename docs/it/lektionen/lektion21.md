@@ -1,6 +1,10 @@
 ---
+title: Lezione 21
+subtitle: "Ulteriori temi presenti in -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 21
@@ -10,13 +14,13 @@ last_reconstructed: 2026-05-21
 ### 21.1.1. Participio Presente (लडादेशः) Parasmaipada
 
 :::: grammar-box
-Questo participio è una formazione nominale derivata dal tema del presente, ovvero un vero e proprio participio. Si tratta di un aggettivo che indica che qualcuno o qualcosa sta compiendo proprio in quel momento l'azione espressa dalla radice verbale (+ prefisso), mentre avviene qualcos'altro. Può anche esprimere uno stato duraturo.
+Questo participio è una formazione nominale dalla radice del presente, quindi un vero participio. È un aggettivo che indica che qualcuno o qualcosa sta compiendo proprio ora ciò che è espresso dalla radice verbale (+ prefisso), mentre avviene qualcos'altro. Può anche esprimere uno stato duraturo.
 
 **Esempi:**
 
 ::: indent
 "Mentre il padre legge, fuma = il padre che legge fuma"  
-"un amico che è (= reale, vero)"
+"un amico esistente (= reale, autentico)"
 :::
 ::::
 
@@ -25,39 +29,41 @@ Questo participio è una formazione nominale derivata dal tema del presente, ovv
 | **Formazione del Participio Presente Parasmaipada per temi di presente tematici:** |||
 | :--- | :--- | :--- |
 | **Maschile, Neutro** | | |
-| | **tema forte** | Tema del presente + **-nt-** |
-| | **tema debole** | Tema del presente + **-t-** |
+| | **radice forte** | radice del presente + **-nt-** |
+| | **radice debole** | radice del presente + **-t-** |
 | **Femminile** | | |
-| | | Tema del presente + **-nt-** + **-ī** (declinazione come **devī**[[br]]देवी) |
-| | **6ª classe di presente** | Tema del presente + **-nt-** + **-ī**[[br]]oppure:[[br]]Tema del presente + **-t-** + **-ī** |
+| | | radice del presente + **-nt-** + **-ī** (declinazione come **devī**[[br]]देवी) |
+| | **6. classe di presente** | radice del presente + **-nt-** + **-ī**[[br]]oppure:[[br]]radice del presente + **-t-** + **-ī** |
 
 ::::
 
 
 Esempi:
 
-1ª Classe di presente:
+1\. classe di presente:
 
 ::: indent
-**yajant**[[br]]यजन्त् "colui che venera con un sacrificio"
+**yajant**[[br]]यजन्त् "che onora con un sacrificio"
 :::
 
 :::: grammar-box
 
 | | | Maschile[[br]]पुंस् | Neutro[[br]]नपुंसक | Femminile[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singolare**[[br]]एकवचन | **1. Nominativo**[[br]]प्रथमा | **यजन्**[[br]](da yaja-nt-s) | **यजत्**[[br]](yaja-t-Ø) | **यजन्ती**[[br]](yaja-nt-ī) |
-| | **2. Accusativo**[[br]]द्वितीया | **यजन्तम्**[[br]](yaja-nt-am) | **यजत्** | come **devī**[[br]]देवी |
-| | **3. Strumentale**[[br]]तृतीया | **यजता**[[br]](yaja-t-ā) | **यजता** | |
-| | **6. Genitivo**[[br]]षष्ठी | **यजतस्**[[br]](yaja-t-as) | **यजतस्** | |
-| **Plurale**[[br]]बहुवचन | **1. Nominativo**[[br]]प्रथमा | **यजन्तस्**[[br]](yaja-nt-as) | **यजन्ति**[[br]](yaja-nt-i)[[br]](Si noti l'identità con la 3ª pers. plur. P.!) | |
-| | **2. Accusativo**[[br]]द्वितीया | **यजतस्**[[br]](yaja-t-as) | **यजन्ति** | |
-| | **3. Strumentale**[[br]]तृतीया | **यजद्भिस्**[[br]](da yaja-t-bhis) | **यजद्भिस्** | |
-| | **6. Genitivo**[[br]]षष्ठी | **यजताम्**[[br]](yaja-t-ām) | **यजताम्** | |
+| **Singolare**[[br]]एकवचन | **1. Nominativo**[[br]]प्रथमा | **यजन्**[[br]]da yaja-nt-s | **यजत्**[[br]]yaja-t-Ø | **यजन्ती**[[br]]yaja-ant-ī |
+| | **2. Accusativo**[[br]]द्वितीया | **यजन्तम्**[[br]]yaja-nt-am | **यजत्** | come **devī**[[br]]देवी |
+| | **3. Strumentale**[[br]]तृतीया | **यजता**[[br]]yaja-t-ā | **यजता** | |
+| | **6. Genitivo**[[br]]षष्ठी | **यजतस्**[[br]]yaja-t-as | **यजतस्** | |
+| **Plurale**[[br]]बहुवचन | **1. Nominativo**[[br]]प्रथमा | **यजन्तस्**[[br]]yaja-nt-as | **यजन्ति**[[br]]yaja-nt-i | |
+| | **2. Accusativo**[[br]]द्वितीया | **यजतस्**[[br]]yaja-t-as | **यजन्ति** | |
+| | **3. Strumentale**[[br]]तृतीया | **यजद्भिस्**[[br]]da yaja-t-bhis | **यजद्भिस्** | |
+| | **6. Genitivo**[[br]]षष्ठी | **यजताम्**[[br]]yaja-t-ām | **यजताम्** | |
 
 ::::
 
-4ª Classe di presente
+Si noti l'identità di **यजन्ति** (Nom. pl. Neutro) con la 3. pl. P.!
+
+4\. classe di presente
 
 ::: indent
 **नृत्यन्त्** "che danza"
@@ -67,7 +73,7 @@ Esempi:
 *   Femminile Nom. sg. **नृत्यन्ती**
 :::
 
-6ª Classe di presente
+6\. classe di presente
 
 ::: indent
 **विशन्त्** "che entra"
@@ -79,46 +85,47 @@ Esempi:
 
 :::: grammar-box
 
-| **Formazione del Participio Presente Parasmaipada per temi di presente atematici (eccetto la 3ª classe di presente):** |||
+| **Formazione del Participio Presente Parasmaipada per temi di presente atematici (tranne 3. classe di presente):** |||
 | :--- | :--- | :--- |
 | **Maschile, Neutro** | | |
-| | **tema forte** | Tema del presente + **-ant-** |
-| | **tema debole** | Tema del presente + **-at-**[[br]](La desinenza del tema debole di presente è uguale a quella prima della 3ª plur. P.) |
+| | **radice forte** | radice del presente + **-ant-** |
+| | **radice debole** | radice del presente + **-at-**[[br]](La desinenza della radice debole del presente è uguale a quella prima della 3. Pl. P.) |
 | **Femminile** | | |
-| | | Tema del presente + **-at-** + **-ī** (declinazione come **devī**[[br]]देवी) |
+| | | radice del presente + **-at-** + **-ī** (declinazione come **devī**[[br]]देवी) |
 
 ::::
 
 
-2ª Classe di presente:
+2\. classe di presente:
 
 ::: indent
-**अस्** "essere": **सन्त्** "che è, reale, buono, vero"
+**अस्** "essere": **सन्त्** "esistente, autentico, buono, vero"
 :::
 
 :::: grammar-box
 
 | | | Maschile[[br]]पुंस् | Neutro[[br]]नपुंसक | Femminile[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singolare**[[br]]एकवचन | **1. Nominativo**[[br]]प्रथमा | **सन्**[[br]](da s-ant-s) | **सत्**[[br]](s-at-Ø) | **सती**[[br]](s-at-ī) |
-| | **2. Accusativo**[[br]]द्वितीया | **सन्तम्**[[br]](s-ant-am) | **सत्** | come **devī**[[br]]देवी |
-| | **3. Strumentale**[[br]]तृतीया | **सता**[[br]](s-at-ā) | **सता** | |
-| | **6. Genitivo**[[br]]षष्ठी | **सतस्**[[br]](s-at-as) | **सतस्** | |
-| **Plurale**[[br]]बहुवचन | **1. Nominativo**[[br]]प्रथमा | **सन्तस्**[[br]](s-ant-as) | **सन्ति**[[br]](s-ant-i) | |
-| | **2. Accusativo**[[br]]द्वितीया | **सतस्**[[br]](s-at-as) | **सन्ति** | |
-| | **3. Strumentale**[[br]]तृतीया | **सद्भिस्**[[br]](da s-at-bhis) | **सद्भिस्** | |
-| | **6. Genitivo**[[br]]षष्ठी | **सताम्**[[br]](s-at-ām) | **सताम्** | |
+| **Singolare**[[br]]एकवचन | **1. Nominativo**[[br]]प्रथमा | **सन्**[[br]]da s-ant-s | **सत्**[[br]]s-at-Ø | **सती**[[br]]s-at-ī |
+| | **2. Accusativo**[[br]]द्वितीया | **सन्तम्**[[br]]s-ant-am | **सत्** | come **devī**[[br]]देवी |
+| | **3. Strumentale**[[br]]तृतीया | **सता**[[br]]s-at-ā | **सता** | |
+| | **6. Genitivo**[[br]]षष्ठी | **सतस्**[[br]]s-at-as | **सतस्** | |
+| **Plurale**[[br]]बहुवचन | **1. Nominativo**[[br]]प्रथमा | **सन्तस्**[[br]]s-ant-as | **सन्ति**[[br]]s-ant-i | |
+| | **2. Accusativo**[[br]]द्वितीया | **सतस्**[[br]]s-at-as | **सन्ति** | |
+| | **3. Strumentale**[[br]]तृतीया | **सद्भिस्**[[br]]da s-at-bhis | **सद्भिस्** | |
+| | **6. Genitivo**[[br]]षष्ठी | **सताम्**[[br]]s-at-ām | **सताम्** | |
 
 ::::
 
 ::: indent
-¹ **सती** "una donna buona (fedele) (che in epoca successiva si fa bruciare insieme al marito dopo la morte di quest'ultimo)" ingl.: *sutee*
+¹ **सती** "una buona (fedele) donna (che in seguito si fa bruciare con il marito dopo la sua morte)" ingl.: sutee
 :::
 
 ::: media
 ![](/images/lekt2101.jpg)
-Fig.: Targa commemorativa di सती
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2101))
+Fig.: सती-targa commemorativa
+Targa commemorativa di सती nel palazzo di Jodhpur - जोधपुर / Rajasthan - राजस्थान [Fonte immagine: Flicka / Wikipedia. Licenza GNU FDL]
+(Fonte immagine: [Dettagli](/it/licenses#lekt2101))
 :::
 
 
@@ -151,10 +158,10 @@ Fig.: Targa commemorativa di सती
 | | | |
 | :--- | :--- | :--- |
 | **Maschile, Neutro** | | |
-| | **stema forte** | **mahānt-**[[br]]महान्त् |
-| | **stema debole** | **mahat-**[[br]]महत् |
+| | **radice forte** | **महान्त्** |
+| | **radice debole** | **महत्** |
 | **Femminile** | | |
-| | | **mahatī**[[br]]महती (come **devī**[[br]]देवी) |
+| | | **महती**[[br]]come **devī**[[br]]देवी |
 
 :::
 
@@ -164,19 +171,19 @@ Fig.: Targa commemorativa di सती
 
 | | | Maschile[[br]]पुंस् | Neutro[[br]]नपुंसक | Femminile[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singolare**[[br]]एकवचन | **1. Nominativo**[[br]]प्रथमा | **महान्**[[br]](da mahānt-s) | **महत्**[[br]](mahat-Ø) | **महती**[[br]](mahat-ī) |
-| | **2. Accusativo**[[br]]द्वितीया | **महान्तम्**[[br]](mahānt-am) | **महत्** | come **devī**[[br]]देवी |
-| | **3. Strumentale**[[br]]तृतीया | **महता**[[br]](mahat-ā) | **महता** | |
-| | **6. Genitivo**[[br]]षष्ठी | **महतस्**[[br]](mahat-as) | **महतस्** | |
-| **Plurale**[[br]]बहुवचन | **1. Nominativo**[[br]]प्रथमा | **महान्तस्**[[br]](mahānt-as) | **महान्ति**[[br]](mahānt-i) | |
-| | **2. Accusativo**[[br]]द्वितीया | **महतस्**[[br]](mahat-as) | **महान्ति** | |
-| | **3. Strumentale**[[br]]तृतीया | **महद्भिस्**[[br]](da mahat-bhis) | **महद्भिस्** | |
-| | **6. Genitivo**[[br]]षष्ठी | **महताम्**[[br]](mahat-ām) | **महताम्** | |
+| **Singolare**[[br]]एकवचन | **1. Nominativo**[[br]]प्रथमा | **महान्**[[br]]da mahānt-s | **महत्**[[br]]mahat-Ø | **महती**[[br]]mahat-ī |
+| | **2. Accusativo**[[br]]द्वितीया | **महान्तम्**[[br]]mahānt-am | **महत्** | come **devī**[[br]]देवी |
+| | **3. Strumentale**[[br]]तृतीया | **महता**[[br]]mahat-ā | **महता** | |
+| | **6. Genitivo**[[br]]षष्ठी | **महतस्**[[br]]mahat-as | **महतस्** | |
+| **Plurale**[[br]]बहुवचन | **1. Nominativo**[[br]]प्रथमा | **महान्तस्**[[br]]mahānt-as | **महान्ति**[[br]]mahānt-i | |
+| | **2. Accusativo**[[br]]द्वितीया | **महतस्**[[br]]mahat-as | **महान्ति** | |
+| | **3. Strumentale**[[br]]तृतीया | **महद्भिस्**[[br]]da mahat-bhis | **महद्भिस्** | |
+| | **6. Genitivo**[[br]]षष्ठी | **महताम्**[[br]]mahat-ām | **महताम्** | |
 
 ::::
 
 :::: grammar-box
-**Come primo membro di un composto, al posto di महत् si trova महा:**
+**Come primo elemento di un composto, al posto di महत् महा:**
 
 **Esempi:**
 
@@ -189,12 +196,13 @@ Fig.: Targa commemorativa di सती
 ::: media
 ![](/images/lekt2102.jpg)
 Fig.: महादेवो विष्णुः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt2102))
+"Sigillo in sardonice del IV-VI secolo d.C. raffigurante Viṣṇu con un devoto. L'iscrizione in bactriano corsivo recita: "Mihira, Viṣṇu e Śiva". [Fonte immagine: PHGCOM / Wikipedia. Licenza GNU FDL]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2102))
 :::
 
 
 ::: indent
-"Un sigillo di onice del IV-VI secolo d.C. raffigurante Viṣṇu con un devoto. L'iscrizione in bactriano corsivo recita: 'Mihira, Viṣṇu e Śiva'."
+"Sigillo in sarde agata del IV-VI secolo d.C. raffigurante Vishnu con un devoto. L'iscrizione in bactriano corsivo recita: 'Mihira, Vishnu e Shiva'."
 :::
 
 ## 21.2. Sandhi per le nasali finali
@@ -209,59 +217,59 @@ Fig.: महादेवो विष्णुः
 :::
 ::::
 
-## 21.3. Forme di cortesia nell'indirizzo
+## 21.3. Forme cortesi di indirizzo
 
 :::: grammar-box
-**In sanscrito è possibile, senza essere scortesi, rivolgersi a qualcuno usando la seconda persona singolare. Se però si vuole essere cortesi, si può utilizzare un sostantivo il cui significato è "Venerabile" e simili, e porre il verbo alla terza persona singolare o plurale, oppure usare una costruzione passiva. L'aumento del grado di cortesia nell'uso della persona nell'indirizzo è approssimativamente il seguente:**
+**In sanscrito, è possibile rivolgersi a qualcuno in seconda persona singolare senza essere maleducati. Se però si vuole essere cortesi, si può usare un sostantivo il cui significato è "Venerabile" e simili, e mettere il verbo alla terza persona singolare o plurale, oppure usare una costruzione passiva. L'aumento della cortesia nell'uso della persona nell'indirizzo è approssimativamente il seguente:**
 
 ::: indent
-**2. sg. » 2. pl. » 3. sg. con sostantivo corrispondente » 3. pl. con sostantivo corrispondente**
+**2. sg. » 2. pl. » 3. sg. con sostantivo corrispondente » 3. pl. con sost. corrisp.**
 :::
 
-**Il più importante di questi sostantivi di cortesia è भवन्त् (bhavant), femminile: भवती (bhatī). Corrisponde, per il suo utilizzo, al nostro cortese "Lei" (o "Voi" formale).**
+**Il più importante di questi sostantivi di cortesia è भवन्त् , fem.: भवती . Corrisponde nel suo uso al nostro cortese "Lei/Voi".**
 ::::
 
-Questo **भवन्त्** (bhavant) è una contrazione di **भगवन्त्** (bhagavant); la sua declinazione segue quella dei sostantivi in **-vant** (vedi [Lezione 13](lektion13.md)). È necessario distinguere questo **भवन्त्** (bhavant) dal participio presente (P) di **भू** (bhū, "diventare") **भवन्त्** (bhavant): il nominativo singolare maschile di **भवन्त्** (bhavant, "Lei") è **भवान्** (bhavān), mentre quello del participio è **भवन्** (bhavan).
+Questo **भवन्त्** è una contrazione di **भगवन्त्**, la sua declinazione è quella dei sostantivi in **-vant** (vedi [Lezione 13](lektion13.md)). Questo **भवन्त्** va distinto dal participio presente P di **भू** "diventare" **भवन्त्** : il nom. sg. masc. di **भवन्त्** "Lei/Voi" è **भवान्**, quello del participio **भवन्**. 
 
 **Esempi:**
 
 ::: indent
-**किं भवान्करोति** (kiṃ bhavān karoti) = **किं भवता क्रियते** (kiṃ bhavatā kriyate) = "Cosa fa Lei?"
+**किं भवान्करोति** = **किं भवता क्रियते** = "Cosa fate?"
 :::
 
-Più cortese:
+più cortese:
 
 ::: indent
-**किं भवन्तः कुर्वन्ति** (kiṃ bhavantaḥ kurvanti) = **किं भवद्भिः क्रियते** (kiṃ bhavadbhiḥ kriyate)
+**किं भवन्तः कुर्वन्ति** = **किं भवद्भिः क्रियते**
 :::
 
 Femminile:
 
 ::: indent
-**किं भवती करोति** (kiṃ bhatī karoti) = **किं भवत्या क्रियते** (kiṃ bhatyā kriyate)  
-**किं भवत्यः कुर्वन्ति** (kiṃ bhatyaḥ kurvanti) = **किं भवतीभिः क्रियते** (kiṃ bhatībhiḥ kriyate)
+**किं भवती करोति** = **किं भवत्या क्रियते**  
+**किं भवत्यः कुर्वन्ति** = **किं भवतीभिः क्रियते**
 :::
 
-Altre parole che possono essere utilizzate in modo simile a **भवन्त्** (bhavant):
+Altre parole che possono essere usate in modo simile a **भवन्त्**:
 
-*   **आर्य** (ārya, femminile: **आर्या** (āryā)) "Nobile". Ad esempio: **यदार्य इच्छति** (yad ārya icchati) "Ciò che Lei desidera".
-*   **महाभाग** (mahābhāga) "Colui il cui destino/felicità è grande = Nobile". Spesso usato dalle donne nell'indirizzarsi a uomini di buona condizione sociale. Nell'uso moderno del sanscrito parlato è molto frequente.
+*   **आर्य** (f.: **आर्या**) "Nobile". Es. **यदार्य इच्छति** "Ciò che desiderate"
+*   **महाभाग** "colui il cui destino/fortuna è grande = Nobile". Spesso usato dalle donne nell'indirizzo o nel parlare di uomini di buona condizione. Nel sanscrito parlato moderno molto comune.
 
-Se non si vuole esprimere solo cortesia, ma anche riverenza verso qualcuno, si utilizza, per una persona presente o vicina, **अत्रभवन्त्** (atra-bhavant) al posto di **भवन्त्** (bhavant); per una persona assente o lontana, **तत्रभवन्त्** (tatra-bhavant). **अत्रभवन्त्** (atra-bhavant) e **तत्रभवन्त्** (tatra-bhavant) possono essere tradotti con "Lei", "Venerabile", "Eccellenza", ecc.:
+Se non si vuole esprimere solo cortesia, ma anche riverenza per qualcuno, si usa, per qualcuno presente o vicino, invece di **भवन्त्** **अत्रभवन्त्** , per qualcuno assente o lontano **तत्रभवन्त्**. **अत्रभवन्त्** e **तत्रभवन्त्** possono essere tradotti con "Lei/Voi", "Venerabile", "Eccellenza" ecc.:
 
 ::: indent
-**किमत्रभवत्यत्रभवतां भार्या** (kim atra-bhaty atra-bhatāṃ bhāryā) = "È la gentile (qui presente) Sua moglie?"  
-**किं तत्रभवतां कुशलवृत्तम्** (kiṃ tatra-bhatāṃ kuśalavṛttam) (in una lettera o conversazione telefonica) = "Come sta Lei?"
+**किमत्रभवत्यत्रभवतां भार्या** = "È la gentile (qui presente) signora Sua moglie?"  
+**किं तत्रभवतां कुशलवृत्तम्** (in una lettera o conversazione telefonica) = "Stà bene?"
 :::
 
-## 21.4. Glossario
+## 21.4. Elenco di parole
 
-**भज् 1 U भजति Pass. भज्यते PPP भक्त :** assegnare a qualcuno (Acc.), far giungere a qualcuno, amare, onorare, venerare
+**भज् 1 U भजति Pass. भज्यते PPP भक्त :** assegnare a qualcuno (Acc.) qualcosa, far giungere, amare qualcuno, onorare, venerare
 
-da ciò:
+di cui:
 
 ::: indent
-**भक्ति f.:** devozione, fedeltà, amore (nell’ambito religioso: amore e rispetto verso un Dio personale. vedi a riguardo Basham, Wonder S. 332s.)  
+**भक्ति f.:** devozione, fedeltà, amore (nell'ambito religioso: amore e rispetto per un dio personale. vedere a riguardo Basham, Wonder pag. 332s.)  
 **भाग m.:** parte, porzione  
 **भग m.:** (buona) parte, fortuna, benessere, dignità  
 **भगवन्त् 3:** possessore di fortuna, possessore di dignità (epiteto di विष्णु – कृष्ण)
@@ -270,7 +278,8 @@ da ciò:
 ::: media
 ![](/images/lekt2103.jpg)
 Fig.: भगवान्कृष्णः
-(Fonte dell’immagine: [Dettagli](/licenses#lekt2103))
+भगवान्कृष्णः come जगन्नाथ (a destra) con sua sorellastra सुभद्रा (al centro) e suo fratello maggiore बलराम, Orissa = ଓଡ଼ିଶा [Fonte immagine: Sujitkumar / Wikipedia. Licenza GNU FDL]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2103))
 :::
 
 ::: indent
@@ -280,14 +289,15 @@ Fig.: भगवान्कृष्णः
 ::: media
 ![](/images/lekt2105.jpg)
 Fig.: भगवद्गीता
-(Fonte dell’immagine: [Dettagli](/licenses#lekt2105))
+भगवद्गीता - Manoscritto, XIX secolo. [Fonte immagine: Wikipedia, Dominio pubblico]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2105))
 :::
 
 ::: indent
-**भिक्ष् 1 Ā भिक्षते Pass. भिक्ष्यते PPP भिक्षित** (in origine un desiderativo di भज्: desiderare di partecipare): mendicare
+**भिक्ष् 1 Ā भिक्षते Pass. भिक्ष्यते PPP भिक्षित** (in realtà un desiderativo per भज्: desiderare che qualcuno partecipi): mendicare
 :::
 
-da ciò:
+di cui:
 
 ::: indent
 **भिक्षु m.:** mendicante, monaco
@@ -296,60 +306,53 @@ da ciò:
 ::: media
 ![](/images/lekt2104.jpg)
 Fig.: भिक्षवः
-(Fonte dell’immagine: [Dettagli](/licenses#lekt2104))
+Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Fonte immagine: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt2104))
 :::
 
-**दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट :** corrompere (intransitivo), diventare cattivo, venir messo in discredito
+**दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट :** corrompere (intransitivo), diventare cattivo, essere umiliato
 
 ::: indent
 **दोष m.:** errore
 :::
 
-**पच् 1 U पचति Pass. पच्यते (nessun PPP, invece पक्व 3: cotto, maturo) Absol. पक्त्वा :** cuocere (transitivo) = bollire, friggere, arrostire, ecc.
+**पच् 1 U पचति Pass. पच्यते (nessun PPP, invece पक्व 3: cotto, fermentato) Absol. पक्त्वा :** cuocere (transitivo) = bollire, friggere, tostare ecc.
 
-## 21.5. Esercitazione
+## 21.5. Esercizio
 
-A) Tradurre i seguenti composti (samāsa):
+A) Tradurre i seguenti composti:
 
-१. अनादिकालिकसंसारः (anādikālikasaṃsāraḥ)
+१. अनादिकालिकसंसारः
 
-२. अनादिमध्यान्तः (anādimadhyāntaḥ)
+२. अनादिमध्यान्तः
 
-३. महामैत्रीकरुणाचित्तः (mahāmaitrīkaruṇācittaḥ)
+३. महामैत्रीकरुणाचित्तः
 
-४. सर्वहतानधकारः (sarvahatāndhakāraḥ)
+४. सर्वहतान्धकारः
 
 B) Tradurre:
 
 मृतं दहन्नग्निः सतीमपि दहति ॥१॥
-(Mṛtaṃ dahannagniḥ satīmapidahati)
 
 सद्गुरुर्महाकविस्तोत्रैर्महादेवं स्तौति ॥२॥
-(Sadgurmurmahākavitastotairmahādevaṃ stauti)
 
 महान्ति फलान्यदन्तो बाला जलमापि पिबन्ति ॥३॥
-(Mahānti phānyadanto bālā jalāmapipanti)
 
 पूजां कुर्वञ्जनो यजते च स्तौति च देवताम् ॥४॥
-(Pūjāṃ kurvāñjano yajate ca stauti ca devatām)
 
 गुरूपनीतनरो द्विजः ॥५॥
-(Gurūpanītanaro dvijaḥ)
 
 जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥६॥
-(Jitakrodho ghnantamapyariṃ na dveṣṭi | Krodhajitastu dveṣṭi)
 
 ::: deleteme-box
 
-### Fonti
+**lekt2101:** Targa commemorativa di सती nel palazzo di Jodhpur - जोधपुर / Rajasthan - राजस्थान [Fonte immagine: Flicka / Wikipedia. Licenza GNU FDL]
 
-**lekt2101:** Targa commemorativa di Sati nel palazzo di Jodhpur - जोधपुर / Rajasthan - राजस्थान [Fonte dell'immagine: Flicka / Wikipedia. Licenza GNU FDL]
+**lekt2102:** "Sigillo in sardonice del IV-VI secolo d.C. raffigurante Viṣṇu con un devoto. L'iscrizione in bactriano corsivo recita: "Mihira, Viṣṇu e Śiva". [Fonte immagine: PHGCOM / Wikipedia. Licenza GNU FDL]
 
-**lekt2102:** "Sigillo in sardonice del IV-VI secolo d.C. raffigurante Viṣṇu con un devoto. L'iscrizione in bactriano corsivo recita: 'Mihira, Viṣṇu e Śiva'." [Fonte dell'immagine: PHGCOM / Wikipedia. Licenza GNU FDL]
+**lekt2103:** भगवान्कृष्णः come जगन्नाथ (a destra) con sua sorellastra सुभद्रा (al centro) e suo fratello maggiore बलराम, Orissa = ଓଡ଼ିଶा [Fonte immagine: Sujitkumar / Wikipedia. Licenza GNU FDL]
 
-**lekt2103:** भगवान्कृष्णः come जगन्नाथ (a destra) con la sua sorellastra सुभद्रा (al centro) e il fratello maggiore बलराम, Orissa = ଓଡ଼ିଶा [Fonte dell'immagine: Sujitkumar / Wikipedia. Licenza GNU FDL]
+**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Fonte immagine: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
 
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Fonte dell'immagine: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Accesso il 12-12-2008. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
-
-**lekt2105:** भगवद्गीता - Manoscritto, XIX secolo [Fonte dell'immagine: Wikipedia, Dominio pubblico]
+**lekt2105:** भगवद्गीता - Manoscritto, XIX secolo. [Fonte immagine: Wikipedia, Dominio pubblico]
 :::

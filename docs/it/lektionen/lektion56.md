@@ -131,11 +131,12 @@ Secondo l’opera fondamentale:
 ::: media
 ![](/images/lekt5601.jpg)
 Fig.:
-(Fonte dell’immagine: [Dettagli](/licenses#lekt5601))
+Professore di Linguistica Comparata, Università di Erlangen-Norimberga (1955 - 1983)
+(Fonte dell’immagine: [Dettagli](/it/licenses#lekt5601))
 :::
 
 ::: indent
-Hoffmann, Karl <1915 - 1996>: Der Injunktiv im Veda : una ricerca sincronica sulle funzioni / di Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3a serie, Untersuchungen)
+Hoffmann, Karl &lt;1915 - 1996&gt;: Der Injunktiv im Veda : una ricerca sincronica sulle funzioni / di Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3a serie, Untersuchungen)
 :::
 
 l’Ingiuntivo nel Veda presenta le seguenti proprietà:
@@ -177,7 +178,8 @@ Esempi:
 ::: media
 ![](/images/lekt5602.jpg)
 Fig.: क्लैब्यं मा स्म गमः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5602))
+Poster (Ernesto Che Guevara) di un partito politico a Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "La traduzione approssimativa di ciò che vi è scritto è: 'Il martirio è un'esperienza affascinante per un rivoluzionario. E un ripiego spaventoso per un codardo. Che non è un modello da seguire per i vigliacchi.'"
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5602))
 :::
 
 Entrambi gli esempi hanno un significato proibitivo. L'Ingiuntivo Aoristo è qui quindi utilizzato nel suo significato originario. (Il predominio dell'Ingiuntivo Aoristo in tali frasi si spiega forse con il predominio delle frasi proibitive rispetto alle frasi inibitive, ma questa questione dovrebbe essere ancora studiata per il Sanscrito classico.)
@@ -203,7 +205,7 @@ Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit syntax. -- Leyden : 
 ::: media
 ![](/images/lekt5603.jpg)
 Fig.: अलं विषादेन
-(Fonte dell'immagine: [Dettagli](/licenses#lekt5603))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt5603))
 :::
 
 ## 56.4. स्म
@@ -307,7 +309,6 @@ A) Determinare e tradurre le seguenti forme senza ausili (!):
 
 ::: deleteme-box
 
-### Fonti
 
 **lekt5601:** Professore di Linguistica Comparata, Università di Erlangen-Norimberga (1955 - 1983) [Fonte dell'immagine: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Accesso il 27-02-2009]
 

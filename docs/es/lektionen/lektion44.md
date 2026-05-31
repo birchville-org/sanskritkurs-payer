@@ -216,7 +216,7 @@ Los gramáticos nativos no consideran el vocativo (आमन्त्रित�
 ::: media
 ![](/images/lekt4402.jpg)
 Fig.: Uso correcto de «¡Oh!» en alemán: «¡Oh, hombre!».
-(Fuente de la imagen: [Detalles](/licenses#lekt4402))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4402))
 :::
 
 ::: grammar-box
@@ -257,7 +257,7 @@ derivado de ello:
 ::: media
 ![](/images/lekt4403.jpg)
 Fig.: रेल्यानम्
-(Fuente de la imagen: [Detalles](/licenses#lekt4403))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4403))
 :::
 
 **शी** 2Ā शेते : yacer. Esta raíz presenta en todas las formas de la raíz presente ***grado fuerte:*** 1.sg.Ind.Präs.Ā ***शेये*** (śe + e). Las siguientes formas son particularmente importantes: 3.pl.Ind.Präs.Ā ***शेरते***, 3.pl.Imperf.Ā ***अशेरत***
@@ -277,7 +277,7 @@ derivado de ello:
 ::: media
 ![](/images/lekt4404.jpg)
 Fig.: योगी शयने शेते
-(Fuente de la imagen: [Detalles](/licenses#lekt4404))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4404))
 :::
 
 नन्द् 1P नन्दति : alegrarse por (dativo)
@@ -300,7 +300,7 @@ derivado de ello:
 ::: media
 ![](/images/lekt4405.jpg)
 Fig.: नन्दी
-(Fuente de la imagen: [Detalles](/licenses#lekt4405))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4405))
 :::
 
 नन्द् + अभि 1P (1Ā)  अभिनन्दति : tener alegría por (acusativo), saludar alegremente a alguien, dar la bienvenida
@@ -326,7 +326,7 @@ PPP आयत 3: largo y extendido
 ::: media
 ![](/images/lekt4406.jpg)
 Fig.: आयतो मरुः
-(Fuente de la imagen: [Detalles](/licenses#lekt4406))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4406))
 :::
 
 यम् + प्र 1P प्रयच्छति : ofrecer, presentar, entregar
@@ -351,7 +351,7 @@ derivado de ello:
 ::: media
 ![](/images/lekt4407.jpg)
 Fig.: यत्नेन
-(Fuente de la imagen: [Detalles](/licenses#lekt4407))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4407))
 :::
 
 **रभ्** 1Ā रभते (forma alternativa a लभ्): asir
@@ -380,7 +380,7 @@ Véase:
 ::: media
 ![](/images/lekt4408.jpg)
 Fig.: प्रव्रअज्या / पब्बजा
-(Fuente de la imagen: [Detalles](/licenses#lekt4408))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4408))
 :::
 
 ## 44.6. Ejercicio
@@ -443,7 +443,7 @@ A) Determine y traduzca las siguientes formas:
 ::: media
 ![](/images/lekt4409.jpg)
 Fig.: कस्माद्रोदिषि
-(Fuente de la imagen: [Detalles](/licenses#lekt4409))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt4409))
 :::
 
 B) Traduzca:
@@ -513,7 +513,6 @@ Determine las siguientes formas:
 
 ::: deleteme-box
 
-### Fuentes
 
 **lekt4301.jpg**: Detalles en licenses.md
 

@@ -1,195 +1,195 @@
 ---
-title: Lektion 9
-subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
+title: Урок 9
+subtitle: "Самаяхарадванда и номинални суфикси -ка/-ака"
 lesson_id: 9
-category: "Grammatik"
+category: "Грамматика"
 status: "stable"
 last_reconstructed: 2026-05-07
---- &lt;!-- TODO: Fallback translation --&gt;
+---
 
-# Lektion 9
+# Урок 9
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** &lt;!-- TODO: Fallback translation --&gt;
-- Das Samāhāradvandva ("Zusammenfassungsdvandva") &lt;!-- TODO: Fallback translation --&gt;
-- Die Образоване von Nominalstämmen mit den Suffixen **-ka** (taddhita) und **-aka** (kṛt) &lt;!-- TODO: Fallback translation --&gt;
-- Wortschatz zum Thema Berufe und soziale Rollen &lt;!-- TODO: Fallback translation --&gt;
-- Zitate aus klassischen Gesetzestexten (Dharmaśāstras) &lt;!-- TODO: Fallback translation --&gt;
+**В този урок ще научите:**
+- Самаяхарадванда („обобщаващ дванда“)
+- Образуванието на именни основи с афиксите **-ка** (таддхита) и **-ака** (крит)
+- Речник по темата професии и социални роли
+- Цитати от класически правни текстове (Дхармашастри)
 :::
 
 ---
 
-## 9.1. Samāhāradvandva (समाहारद्वन्द्व = "Zusammenfassungsdvandva")
+## 9.1. Samāhāradvandva (समाहारद्वन्द्व = "Сводно дандва")
 
 ::: grammar-box
-**Wenn ein Dvandva ausdrücken soll, dass eine Reihe von Dingen usw. eine Einheit bilden, dann steht es im Allgemeinen im Singular Neutrum:** &lt;!-- TODO: Fallback translation --&gt;
+**Когато дандва иска да изрази, че редица от неща и т.н. образуват единство, то обикновено е в единствено число, среден род:**
 
-z.B. **āhāra-nidrā-maithuna-bhayam** = आहारनिद्रामैथुनभयम् bedeutet nicht einfach "Nahrungsaufnahme (**āhāra** m.), Schlaf (**nidrā** f.), Paarung (**maithuna** n.) und Angst (**bhaya** n.)", sondern diese vier als **Einheit**, die das tierische Leben charakterisiert. &lt;!-- TODO: Fallback translation --&gt;
+напр. **āhāra-nidrā-maithuna-bhayam** = आहारनिद्रामैथुनभयम् не означава просто "хранене (**āhāra** м.р.), сън (**nidrā** ж.р.), спаряване (**maithuna** ср.р.) и страх (**bhaya** ср.р.)", а тези четири като **единство**, което характеризира животинския живот.
 :::
 
-Neben dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Reihe weiterer Regeln, die man bei Pāṇini 2,4,2-17 oder z.B. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a findet. In den verschiedenen Stufen der Sprachentwicklung wurden nicht immer die gleichen Regeln eingehalten! &lt;!-- TODO: Fallback translation --&gt;
+Освен това основно правило за образуването на Samāhāradvandvas има още редица други правила, които могат да се намерят при Pāṇini 2,4,2-17 или напр. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. В различните етапи на езиковото развитие не винаги са спазвани едни и същи правила!
 
 ---
 
-## 9.2. Zur Образоване von Nominalstämmen
+## 9.2. За образуването на именни основи
 
 ---
 
 ### 9.2.1. -ka (taddhita)
 
 ::: grammar-box
-**Das taddhita-Suffix -ka bildet u.a.:** &lt;!-- TODO: Fallback translation --&gt;
+**Съществителното taddhita суфикс -ka образува между другото:**
 
-1\. **Diminutiva (Verkleinerungsformen wie deutsch -chen, -lein, -li, -le):**
-   **putra m. "Sohn" » putraka m. पुत्रक "Söhnchen"** &lt;!-- TODO: Fallback translation --&gt;
+1\. **Умалителни форми (като немските -chen, -lein, -li, -le):**
+   **putra m. "син" » putraka m. पुत्रक "синче"**
 
-2\. **Nomina, die eine annähernde Ähnlichkeit bezeichnen:**
-   **aśva m. "Pferd" » aśvaka m. अश्वक "Rösslein, ein dem Pferd ähnliches Ding"** &lt;!-- TODO: Fallback translation --&gt;
+2\. **Съществителни, които означават приблизително сходство:**
+   **aśva m. "кон" » aśvaka m. अश्वक "конче, нещо, подобно на кон"**
 
-3\. **Nomina ohne Bedeutungsunterschied zum zugrundeliegenden Nomen:**
-   **putraka m. पुत्रक = putra m. पुत्र** &lt;!-- TODO: Fallback translation --&gt;
+3\. **Съществителни без семантична разлика спрямо основното име:**
+   **putraka m. पुत्रक = putra m. पुत्र**
 
-4\. **Nomina, die ausdrücken "zum Begriff des Grundwortes in Beziehung stehend":**
-   **kāśi f. "Benares" » kāśika 3 काशिक "in Benares gebürtig, aus Benares stammend"**
-   **rūpa n. "Gestalt" » rūpaka 3 रूपक "die Gestalt von etwas besitzend"** &lt;!-- TODO: Fallback translation --&gt;
+4\. **Съществителни, които изразяват "връзка с понятието на основната дума":**
+   **kāśi f. "Бенарес" » kāśika 3 काशिक "роден в Бенарес, от Бенарес"**
+   **rūpa n. "форма" » rūpaka 3 रूपक "притежаващ формата на нещо"**
 :::
 
 ---
 
-### 9.2.2. -aka (kṛt), fem. oft -ikā
+### 9.2.2. -aka (kṛt), женски род често -ikā
 
 ::: grammar-box
-**Das kṛt-Suffix -aka, Femininum oft -ikā, bildet Nomina agentis (Nomina, die den Täter ausdrücken) zu jeder Wurzel.** &lt;!-- TODO: Fallback translation --&gt;
+**Съществителното kṛt-суфикс -aka, женски род често -ikā, образува nomina agentis (съществителни, които изразяват деятеля) към всеки корен.**
 
-Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel werden durch ihre Dehnstufe (**vṛddhi**) ersetzt (es gibt einige Ausnahmen), die übrigen Vokale werden durch ihre Hochstufe (**guṇa**) ersetzt. &lt;!-- TODO: Fallback translation --&gt;
+Изходящ гласен на корена, както и **-a-** на предпоследно място в корена, се заменят със своята удължена степен (**vṛddhi**) (има няколко изключения), останалите гласни се заменят със своята висока степен (**guṇa**).
 :::
 
-**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
+**Примери:**
 
-| Корен[[br]]धातु | + -aka / -ikā (kṛt) | Bedeutung |
+| Корен[[br]]धातु | + -aka / -ikā (kṛt) | Значение |
 | :--- | :--- | :--- |
-| **kṛ**[[br]]8 U[[br]]कृ[[br]]"machen" | **kāraka**[[br]](कारक) | "Bewirker, machend" |
-| **śru**[[br]]5 P[[br]]श्रु[[br]]"hören" | **śrāvaka** m.[[br]](श्रावक) | "Hörer, Schüler,[[br]]buddh.: Anhänger des Buddha" |
-| **nī**[[br]]1 U[[br]]नी[[br]]"führen" | **nāyaka** m.[[br]](नायक) /[[br]]**nāyikā** f.[[br]](नायिका) | "Führer, Gebieter, Gatte,[[br]]Liebhaber / Geliebte, Dame" |
-| **yaj**[[br]]1 U[[br]]यज्[[br]]"opfern" | **yājaka** m.[[br]](याजक) | "Opferer, Opferpriester" |
-| **nṛt**[[br]]4 P[[br]]नृत्[[br]]"tanzen" | **nartaka** m.[[br]](नर्तक) /[[br]]**nartakī** f.[[br]](नर्तकी) | "Tänzer / Tänzerin" |
-| **ji**[[br]]1 P[[br]]जि[[br]]"siegen" | **jayaka** 3[[br]](जयक) | "siegreich" |
+| **kṛ**[[br]]8 U[[br]]कृ[[br]]"правя" | **kāraka**[[br]](कारक) | "Създател, правещ" |
+| **śru**[[br]]5 P[[br]]श्रु[[br]]"чувам" | **śrāvaka** m.[[br]](श्रावक) | "Слушател, ученик,[[br]]буд.: последовател на Буда" |
+| **nī**[[br]]1 U[[br]]नी[[br]]"вода" | **nāyaka** m.[[br]](नायक) /[[br]]**nāyikā** f.[[br]](नायिका) | "Вожд, господар, съпруг,[[br]]любовник / любима, дама" |
+| **yaj**[[br]]1 U[[br]]यज्[[br]]"жертвопринасям" | **yājaka** m.[[br]](याजक) | "Жертвоприносител, жрец" |
+| **nṛt**[[br]]4 P[[br]]नृत्[[br]]"танцувам" | **nartaka** m.[[br]](नर्तक) /[[br]]**nartakī** f.[[br]](नर्तकी) | "Танцьор / Танцьорка" |
+| **ji**[[br]]1 P[[br]]जि[[br]]"побеждавам" | **jayaka** 3[[br]](जयक) | "победоносен" |
 
 ::: grammar-box
-**Einige dieser Bildungen haben die engere Bedeutung: "das durch die Wurzel ausgedrückte gewohnheitsmäßig oder als Obliegenheit oder gut vollziehend".** &lt;!-- TODO: Fallback translation --&gt;
+**Някои от тези образувания имат по-тясното значение: "онзи, който обикновено или като задължение или добре изпълнява изразеното от корена".**
 :::
 
-siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka** &lt;!-- TODO: Fallback translation --&gt;
+вж. по-горе напр. **śrāvaka**, **yājaka**, **jayaka**
 
-**Beispiele:** &lt;!-- TODO: Fallback translation --&gt;
+**Примери:**
 
-| Корен[[br]]धातु | + -aka (kṛt) | Bedeutung |
+| Корен[[br]]धातु | + -aka (kṛt) | Значение |
 | :--- | :--- | :--- |
-| **kṛṣ**[[br]]6 U[[br]]कृष्[[br]]"pflügen" | **kṛṣaka** m.[[br]](कृषक) | "Ackerbauer"[[br]](tiefstufig!) |
-| **kliś**[[br]]9 P[[br]]क्लिशु[[br]]"quälen" | **kleśaka** m.[[br]](क्लेशक) | "Quäler" |
-| **khād**[[br]]1 P[[br]]खाद्[[br]]"kauen, essen" | **khādaka** m.[[br]](खादक) | "Esser, Fresser" |
+| **kṛṣ**[[br]]6 U[[br]]कृष्[[br]]"оря" | **kṛṣaka** m.[[br]](कृषक) | "Земеделец"[[br]](ниска степен!) |
+| **kliś**[[br]]9 P[[br]]क्लिशु[[br]]"мъча" | **kleśaka** m.[[br]](क्लेशक) | "Мъчител" |
+| **khād**[[br]]1 P[[br]]खाद्[[br]]"дъвча, ям" | **khādaka** m.[[br]](खादक) | "Ядец, поглътател" |
 
-Daneben gibt es noch einige weniger wichtige Verwendungen des Suffixes **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff. &lt;!-- TODO: Fallback translation --&gt;
+Съществуват също няколко по-малко важни употреби на суфикса **-aka**. Вж. Wackernagel, Altindische Grammatik, II, §45ff.
 
 ---
 
-## 9.3. Речник
+## 9.3. Списък на думите
 
-**Lernen Sie folgende Wörter:** &lt;!-- TODO: Fallback translation --&gt;
+**Запознайте се със следните думи:**
 
-- **adhyayana** n. (अध्ययन) : Lernen, insbes. Vedastudium &lt;!-- TODO: Fallback translation --&gt;
+- **adhyayana** n. (अध्ययन) : учене, особено изучаване на Ведите
 
 ::: media
 ![](/images/lekt0903.jpg)
-Abb.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
-(Bildquelle: [Details](/licenses#lekt0903)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: **adhyayana** = अध्ययन, Шри Скандагуру Видялаям, Тирпаранкундрам близо до Мадurai.
+(Източник на изображението: [Подробности](/bg/licenses#lekt0903))
 :::
 
-- **kāru** m. / **kāruka** m. (कारु / कारुक) : Handwerker &lt;!-- TODO: Fallback translation --&gt;
+- **kāru** m. / **kāruka** m. (कारु / कारुक) : занаятчия
 
 ::: media
 ![](/images/lekt0902.jpg)
-Abb.: **kāru** = कारु, Gujarat.
-(Bildquelle: [Details](/licenses#lekt0902)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: **kāru** = कारु, Гуджарат.
+(Източник на изображението: [Подробности](/bg/licenses#lekt0902))
 :::
 
-- **kuśīlava** m. (कुशीलव) : (fahrender) Schausteller, Schauspieler, Sänger &lt;!-- TODO: Fallback translation --&gt;
-- **kusīda** n. (कुसीद) : Wucher &lt;!-- TODO: Fallback translation --&gt;
-- **kṛṣ** 1 P (karṣati) कृष् कर्षति : ziehen &lt;!-- TODO: Fallback translation --&gt;
-- **kṛṣ** 6 U (kṛṣati) कृष् कृषति : pflügen &lt;!-- TODO: Fallback translation --&gt;
-  - davon: **kṛṣi** f. / **kṛṣikā** f. (कृषि / कृषिका) : Ackerbau &lt;!-- TODO: Fallback translation --&gt;
-- **dāna** n. (दान) : Geben, Gabe, Freigebigkeit &lt;!-- TODO: Fallback translation --&gt;
-- **pratigraha** m. (प्रतिग्रह) : Empfangen, Geschenk &lt;!-- TODO: Fallback translation --&gt;
-- **pravacana** n. (प्रवचन) : Rede, (mündlicher) Unterricht &lt;!-- TODO: Fallback translation --&gt;
-- **pāśupālya** n. (पाशुपाल्य) : Viehhaltung, Viehzucht &lt;!-- TODO: Fallback translation --&gt;
-- zu **yaj** 1 U: &lt;!-- TODO: Fallback translation --&gt;
-  - **ijyā** f. (इज्या) : Opfer (aus \*yj » ij + Suffix **yā**) &lt;!-- TODO: Fallback translation --&gt;
-  - **yajana** n. (यजन) : Opfer im Auftrag von jemand anderem &lt;!-- TODO: Fallback translation --&gt;
-- **rūpa** n. (रूप) : Aussehen, Form, schöne Form, Natur, Wesen &lt;!-- TODO: Fallback translation --&gt;
-- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (वाणिज्य / वाणिज्या / वणिज्या) : Handel &lt;!-- TODO: Fallback translation --&gt;
-- **śuśrūṣā** f. (शुश्रूषा) : Gehorsam, gehorsamer Dienst &lt;!-- TODO: Fallback translation --&gt;
+- **kuśīlava** m. (कुशीलव) : (странстващ) представител, актьор, певец
+- **kusīda** n. (कुसीद) : лихварство
+- **kṛṣ** 1 P (karṣati) कृष् कर्षति : тегли
+- **kṛṣ** 6 U (kṛṣati) कृष् कृषति : оре
+  - от това: **kṛṣi** f. / **kṛṣikā** f. (कृषि / कृषिका) : земеделие
+- **dāna** n. (दान) : даване, дар, щедрост
+- **pratigraha** m. (प्रतिग्रह) : получаване, дар
+- **pravacana** n. (प्रवचन) : реч, (устно) обучение
+- **pāśupālya** n. (पाशुपाल्य) : отглеждане на добитък, животновъдство
+- към **yaj** 1 U:
+  - **ijyā** f. (इज्या) : жертвоприношение (от \*yj » ij + суфикс **yā**)
+  - **yajana** n. (यजन) : жертвоприношение от името на друг
+- **rūpa** n. (रूप) : външен вид, форма, красива форма, природа, същност
+- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (वाणिज्य / वाणिज्या / वणिज्या) : търговия
+- **śuśrūṣā** f. (शुश्रूषा) : послушание, послушно обслужване
 
 ---
 
 ## 9.4. Упражнение
 
-**A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:**
+**A) Опитайте се да определите възможните значения на следните думи:**
 1\. **brāhmāṇaka** ब्राह्मणक
 2\. **mati** मति
 3\. **śravaṇa** श्रवण
-4\. **dhenuka** m. धेनुका
+4\. **dhenuka** м. धेनुका
 5\. **jayaka** जयक
 6\. **rakṣikā** रक्षिका
-7\. **karṣaka** कर्षक &lt;!-- TODO: Fallback translation --&gt;
+7\. **karṣaka** कर्षक
 
 ::: media
 ![](/images/lekt0901.jpg)
-Abb.: **karṣaka** = कर्षक.
-(Bildquelle: [Details](/licenses#lekt0901)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: **karṣaka** = कर्षक.
+(Източник на изображението: [Подробности](/bg/licenses#lekt0901))
 :::
 
 8\. kleśa (क्लेश)
 9\. nāyikātva (नायिकात्व)
 10\. tantraka (तन्त्रक)
-11\. nartaka (f. nartakī) (नर्तक / नर्तकी)
+11\. nartaka (ж. nartakī) (नर्तक / नर्तकी)
 12\. naraka (नरक)
 13\. lābhaka (लाभक)
 14\. īśvaratā (ईश्वरता)
-15\. dhenukā f. (धेनुका)
+15\. dhenukā ж. (धेनुका)
 16\. yodhaka (योधक)
 17\. kopa (कोप)
 18\. veśaka (वेशक)
 19\. darśaka (दर्शक)
-20\. kopaka (कोपक) &lt;!-- TODO: Fallback translation --&gt;
+20\. kopaka (कोपक)
 
-**B) Übersetzen Sie:** &lt;!-- TODO: Fallback translation --&gt;
+**Б) Преведете:**
 
-1. Aufgaben aller Zweimalgeborenen: &lt;!-- TODO: Fallback translation --&gt;
+1. Задължения на всички дважнородени:
    **ijyādhyayanadānāni**
    इज्याध्ययनदानानि
-   (Yājñavalkyadharmaśāstra I, 118) &lt;!-- TODO: Fallback translation --&gt;
+   (Yājñavalkyadharmaśāstra I, 118)
 
-2. Spezifische Aufgaben eines Brahmanen: &lt;!-- TODO: Fallback translation --&gt;
+2. Специфични задължения на брахман:
    **pravacanayājanapratigrahāḥ**
    प्रवचनयाजनप्रतिग्रहाः
-   (Gautamadharmasūtra X, 2) &lt;!-- TODO: Fallback translation --&gt;
+   (Gautamadharmasūtra X, 2)
 
-3. Spezifische Aufgaben eines Kṣatriya: &lt;!-- TODO: Fallback translation --&gt;
+3. Специфични задължения на кшатрий:
    **rakṣaṇaṃ sarvabhūtānām**
    रक्षणं सर्वभूतानाम्
-   (sarvabhūtānām = Genitiv (Wesfall): "aller Wesen"; Gautamadharmasūtra X, 7) &lt;!-- TODO: Fallback translation --&gt;
+   (sarvabhūtānām = родителен падеж (притежателен): "на всички същества"; Gautamadharmasūtra X, 7)
 
-4. Spezifische Aufgaben eines Vaiśya: &lt;!-- TODO: Fallback translation --&gt;
+4. Специфични задължения на вайшя:
    **kṛṣivāṇijyapāśupālyakusīdam**
    कृषिवाणिज्यपाशुपाल्यकुसीदम्
-   (nach Gautamadharmasūtra X, 49) &lt;!-- TODO: Fallback translation --&gt;
+   (според Gautamadharmasūtra X, 49)
 
-5. Aufgaben eines Śūdra: &lt;!-- TODO: Fallback translation --&gt;
+5. Задължения на шудра:
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
    द्विजातीनां शुश्रूषा वार्त्ता कारुकुशीलवकर्म च
-   (nach Kauṭilīya-Arthaśāstra 1.3.8.)
-   Erklärung: dvijātīnām = Genitiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen"); kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten). &lt;!-- TODO: Fallback translation --&gt;
+   (според Kauṭilīya-Arthaśāstra 1.3.8.)
+   Обяснение: dvijātīnām = родителен падеж (притежателен) множествено число от dvijāti (преведете тук: "спрямо дважнородените"); kārukuśīlavakarma е татпуръша с дъндва (kārukuśīlava) в предната част. karma = именителен падеж единствено число от karman ср. "постъпка, дейност, карма" от корена kṛ 8 U). Преведете "постъпка / дейност на ... (в родителен падеж)" (означени от дъндва).
 
-6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.** &lt;!-- TODO: Fallback translation --&gt;
+6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    कृषिः पाशुपाल्यं वाणिज्या च वार्त्ता |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.) &lt;!-- TODO: Fallback translation --&gt;
+   (според Kauṭilīya-Arthaśāstra 1.4.1.)

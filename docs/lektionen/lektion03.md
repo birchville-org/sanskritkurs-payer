@@ -1,6 +1,10 @@
 ---
+title: Lektion 3
+subtitle: "Den Nominativ Singular des Femininums"
 lesson_id: 3
 last_reconstructed: 2026-05-07
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 3
@@ -58,7 +62,6 @@ Den Nominativ Singular bilden ohne Endung:
 
 ::: grammar-box
 Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**.
-
 - **Maskulina auf -a**: **deva- + -as** » **devās** = देवास्
 - **Feminina auf -ā**: **devatā- + -as** » **devatās** = देवतास्
 - **Maskulina auf -i**: **kavi-** » **kave- + -as** » **kavayas** = कवयस्
@@ -148,6 +151,8 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = �
 ---
 
 ## 3.6. Wortliste
+
+**Lernen Sie folgende Wörter:**
 
 **śruti** f. = श्रुति : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
 

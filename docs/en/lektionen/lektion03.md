@@ -1,64 +1,67 @@
 ---
+title: Lesson 3
+subtitle: "The nominative singular of the feminine"
 lesson_id: 3
 last_reconstructed: 2026-05-07
+category: "Grammar"
+status: stable
 ---
 
-# Lektion 3
+# Lesson 3
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- den Nominative Singular des Feminines <!-- TODO: Fallback translation -->
-- den Nominative Plural des Masculines und Feminines <!-- TODO: Fallback translation -->
-- die Formation des Feminines zu Maskulina <!-- TODO: Fallback translation -->
-- Vokalsandhi <!-- TODO: Fallback translation -->
-- Satzsandhi von -ās <!-- TODO: Fallback translation -->
+**In this lesson, you will learn:**
+- the nominative singular of the feminine
+- the nominative plural of the masculine and feminine
+- the formation of the feminine from masculines
+- vowel sandhi
+- Sentence sandhi of -ās
 :::
 
-## 3.1. Nominative Singular des Feminines
+## 3.1. Nominative Singular of the Feminine
 
-### 3.1.1. Nominative Singular auf -s
+### 3.1.1. Nominative Singular ending in -s
 
-Auch folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**: <!-- TODO: Fallback translation -->
+The following nominal stems, which end in a vowel, also form the nominative singular with **-s**:
 
 ::: grammar-box
-- **Feminina auf -i**: z.B. **śruti** f. "das Hören" -- Nom. sg.: **śrutis** = श्रुतिस् <!-- TODO: Fallback translation -->
-- **Feminina auf -u**: z.B. **dhenu** f. "Milchkuh" -- Nom. sg.: **dhenus** = धेनुस् <!-- TODO: Fallback translation -->
+- **Feminines in -i**: e.g., **śruti** f. "hearing" -- Nom. sg.: **śrutis** = श्रुतिस्
+- **Feminines in -u**: e.g., **dhenu** f. "milch cow" -- Nom. sg.: **dhenus** = धेनुस्
 :::
 
-### 3.1.2. Nominative Singular ohne Ending
+### 3.1.2. Nominative Singular without Ending
 
-Den Nominativ Singular bilden ohne Endung: <!-- TODO: Fallback translation -->
+The nominative singular is formed without an ending:
 
 ::: grammar-box
-- **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = देवता <!-- TODO: Fallback translation -->
-- **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = देवी <!-- TODO: Fallback translation -->
+- **Feminines in -ā**: e.g. **devatā** f. "deity" -- Nom. sg.: **devatā** = देवता
+- **Feminines in -ī**: e.g. **devī** f. "goddess" -- Nom. sg.: **devī** = देवी
 :::
 
 ::: important
-**Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = धीस्. Auch lakṣmī (लक्ष्मी) f., tarī (तरी) f. "Boot" und tantrī (तन्त्री) f. "Saite" bilden unregelmäßig den Nominativ Singular auf -s: lakṣmīs = लक्ष्मीस्. <!-- TODO: Fallback translation -->
+**Attention!** In addition, there are monosyllabic feminine root nouns in -ī, whose nominative singular ends in -s: e.g. dhī f. "thought" -- Nom. sg.: dhīs = धीस्. Also lakṣmī (लक्ष्मी) f., tarī (तरी) f. "boat" and tantrī (तन्त्री) f. "string" form the nominative singular irregularly with -s: lakṣmīs = लक्ष्मीस्.
 :::
 
 ---
 
-## 3.2. Formation der Feminina zu Maskulina
+## 3.2. Formation of Feminines from Masculines
 
 ::: grammar-box
 **Masculines in -a:**
-- **Feminine in -ā**: e.g., **kṣatriya** m. » **kṣatriyā** f. “Kṣatriya woman” = क्षत्रिया
-- **Feminine in -ī**: e.g., **brāhmaṇa** m. » **brāhmaṇī** f. “Brahmin woman” = ब्राह्मणी
+- **Feminine in -ā**: e.g. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriya woman" = क्षत्रिया
+- **Feminine in -ī**: e.g. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmana woman" = ब्राह्मणी
 
 **Masculines in -u:**
-- **Feminine in -ī**: e.g., **sādhu** m. » **sādhvī** f. (good, holy person) = साध्वी
-  (The **-u-** becomes **-v-** before a vowel; hence **-u- + -ī** » **-vī**)
+- **Feminine in -ī**: e.g. **sādhu** m. » **sādhvī** f. (good, holy woman) = साध्वी
+  (**-u-** becomes **-v-** before a vowel, hence **-u- + -ī** » **-vī**)
 :::
 
 ---
 
-## 3.3. Nominative Plural Masculine und Feminine
+## 3.3. Nominative Plural Masculine and Feminine
 
 ::: grammar-box
-The ending of the nominative plural in the masculine and feminine is **-as**.
-
+The ending of the Nominative Plural in the Masculine and Feminine is **-as**.
 - **Masculines in -a**: **deva- + -as** » **devās** = देवास्
 - **Feminines in -ā**: **devatā- + -as** » **devatās** = देवतास्
 - **Masculines in -i**: **kavi-** » **kave- + -as** » **kavayas** = कवयस्
@@ -68,14 +71,14 @@ The ending of the nominative plural in the masculine and feminine is **-as**.
 - **Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्
 :::
 
-Note: **e** is the strong grade (**guṇa**) of **i**, and **o** is the strong grade of **u**.
+Note: **e** is the strong grade (**guṇa**) of **i**, **o** is the strong grade of **u**.
 
 ---
 
-## 3.4. Vokalsandhi
+## 3.4. Vocal Sandhi
 
 ::: grammar-box
-**Simple vowels that differ only in length (or not at all) "merge" into the corresponding long vowel:**
+**Simple vowels that differ not at all or only in their length "merge" into the corresponding long vowel:**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
@@ -94,8 +97,8 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī is a goddess" = देवी
 
 ::: media
 ![](/images/lekt0301.jpg)
-Fig.: Indra and Indrāṇī on the elephant Airavata, miniature painting, Rājasthān, 1670/80
-(Image source: [Details](/licenses#lekt0301))
+Fig.: Indra and Indrāṇī on the elephant Airavata, miniature, Rājasthān, 1670/80
+(Image source: [Details](/en/licenses#lekt0301))
 :::
 
 ::: grammar-box
@@ -103,28 +106,28 @@ Fig.: Indra and Indrāṇī on the elephant Airavata, miniature painting, Rājas
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
-(!! Exceptions to this rule exist, particularly for dual forms !!)
+(!! There are exceptions to this rule, particularly for dual forms !!)
 :::
 
 e.g.
 
-devī + umā » devy umā "Umā is a/the goddess" = देव्युमा
+devī + umā » devy umā "Umā is a / the goddess" = देव्युमा
 
-> (Umā is a name for Pārvatī, the consort of Śiva.)
+> (Umā is a name for Pārvatī, the consort of Śiva)
 
 ::: grammar-box
-**Before a dissimilar vowel, -a / -ā undergoes the following changes:**
+**-a / -ā before dissimilar vowel:**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
 :::
 
-The following schema applies to this type of sandhi:
+For this sandhi, the following scheme applies:
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Image source: [Details](/licenses#lekt0302))
+(Image source: [Details](/en/licenses#lekt0302))
 :::
 
 See later regarding this so-called stem gradation!
@@ -135,58 +138,60 @@ e.g.
 
 ---
 
-## 3.5. Satzsandhi von -ās
+## 3.5. Sentence sandhi of -ās
 
 ::: grammar-box
-**-ās is replaced by -ā before all voiced sounds.**
+**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
 
 e.g.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "The Vaiśyas are twice-born" = द्विजा वैश्याः
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are twice-born" = द्विजा वैश्याः
 
 ---
 
-## 3.6. Vocabulary List
+## 3.6. Word List
+
+**Learn the following words:**
 
 **śruti** f. = श्रुति : hearing, the eternal tradition (designation for the Vedas and Brāhmaṇas).
 
-**smṛti** f. = स्मृति : recollection, memory, meditative recollection = mindfulness, tradition (counter-concept to **śruti**). Comprises:
+**smṛti** f. = स्मृति : visualization, memory, meditative visualization = mindfulness, tradition (counter-concept to **śruti**). Encompasses:
 - the six **vedāṅga** n. (वेदाङ्ग)
   1. **śikṣā** f. (शिक्षा): correct pronunciation
   2. **chandas** n. (छन्दस्): meter
   3. **vyākaraṇa** n. (व्याकरण): grammar
-  4. **nirukta** n. (निरुक्त): word explanation, etymology
-  5. **jyotiṣa** n. (ज्योतिष): astronomy, calendar science
-  6. **kalpa** m. (कल्प): ceremonial practice
-- **śrautasūtra** n. (श्रौतसूत्र): treatises on the performance of great sacrifices
-- **gṛhyasūtra** n. (गृह्यसूत्र): treatises on the ceremonies and sacrifices of daily life
-- **dharmasūtra** n. (धर्मसूत्र) and **dharmaśāstra** n. (धर्मशास्त्र): treatises on law and custom (right conduct)
+  4. **nirukta** n. (निरुक्त) : word explanation, etymology
+  5. **jyotiṣa** n. (ज्योतिष) : astronomy, calendar science
+  6. **kalpa** m. (कल्प) : ceremonial rites
+- **śrautasūtra** n. (श्रौतसूत्र) : treatises on the performance of great sacrifices
+- **gṛhyasūtra** n. (गृह्यसूत्र) : treatises on the ceremonies and sacrifices of daily life
+- **dharmasūtra** n. (धर्मसूत्र) and **dharmaśāstra** n. (धर्मशास्त्र) : treatises on law and custom (right conduct)
 - the great epics **mahābhārata** n. (महाभारत) and **rāmāyaṇa** n. (रामायण)
 - the **purāṇa** n. (पुराण)
-- **nītiśāstra** n. (नीतिशास्त्र): treatises on practical wisdom
+- **nītiśāstra** n. (नीतिशास्त्र) : treatises on practical wisdom
 
-**smṛti** is also specifically a designation for treatises on dharma.
+**smṛti** is also a particular designation for Dharma treatises.
 
-**dhenu** f. = धेनु: (milk) cow.
+**dhenu** f. = धेनु : (milk) cow.
 
-**paśu** m. = पशु: domesticated livestock, cattle (collective noun).
+**paśu** m. = पशु : domesticated livestock, cattle (collective noun).
 
-**devatā** f. = देवता: deity (abstract and concrete).
+**devatā** f. = देवता : deity (abstract and concrete).
 
-**brāhmaṇī** f. = ब्राह्मणी: Brahmin woman.
+**brāhmaṇī** f. = ब्राह्मणी : Brahmana woman.
 
-**kṣatriyā** f. = क्षत्रिया: female Kṣatriya.
+**kṣatriyā** f. = क्षत्रिया : female Kṣatriya.
 
-**kṣatriyī** f. = क्षत्रियī: wife of a Kṣatriya.
+**kṣatriyī** f. = क्षत्रियी : wife of a Kṣatriya.
 
-**vaiśyā** f. = वैश्या: female Vaiśya.
+**vaiśyā** f. = वैश्या : female Vaiśya.
 
-**śūdrā** f. = शूद्रा: female Śūdra.
+**śūdrā** f. = शूद्रा : female Śūdra.
 
-**śūdrī** f. / **śūdrāṇī** f. = शूद्री शूद्राणी: wife of a Śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = शूद्री शूद्राणी : wife of a Śūdra.
 
-**devī** f. = देवी: goddess, esp. Durgā f. = दुर्गा, the consort of Śiva = शिव.
+**devī** f. = देवी : goddess, esp. Durgā f. = दुर्गा, the consort of Śiva = शिव.
 
 ::: media
 ![](/images/lekt0303.jpg)
@@ -194,25 +199,25 @@ Fig.: Durgā = दुर्गा, Orissa
 (Image source: [Details](/images/lekt0303))
 :::
 
-**sādhvī** f. = साध्वī: fem. of sādhu.
+**sādhvī** f. = साध्वी : fem. of sādhu.
 
-**gurvī** f. = गुर्वī: fem. of guru.
+**gurvī** f. = गुर्वी : fem. of guru.
 
-**asmitā** f. = अस्मिता: "I-ness," i.e., the (false) belief: **I** am the one who sees, etc.
+**asmitā** f. = अस्मिता : "I-am-ness", i.e., the (false) belief: **I** am the one who sees, etc.
 
-**ānvīkṣikī** f. = आन्वीक्षिकī: philosophy (the science that arrives at its conclusions through logically correct reasoning).
+**ānvīkṣikī** f. = आन्वीक्षिकी : philosophy (the science that arrives at its conclusions through logically correct reasoning).
 
-**upekṣā** f. = उपेक्षा: non-attention, equanimity.
+**upekṣā** f. = उपेक्षा : non-attention, equanimity.
 
-**karuṇā** f. = करुणा: compassion, pity.
+**karuṇā** f. = करुणा : compassion, pity.
 
-**muditā** f. = मुदितā: joy, specifically sympathetic joy (opposite of envy).
+**muditā** f. = मुदिता : joy, specifically sympathetic joy (opposite of envy).
 
 ---
 
 ## 3.7. Exercise
 
-**A) Convert the following sentences into the plural:**
+**A) Put the following sentences into the plural:**
 
 1. dvijo brāhmaṇaḥ = द्विजो ब्राह्मणः
 2. dvijaḥ kṣatriyaḥ = द्विजः क्षत्रियः
@@ -225,7 +230,7 @@ Fig.: Durgā = दुर्गा, Orissa
 9. paśur dhenuḥ = पशुर्धेनुः
 10. gurvī sādhvī = गुर्वी साध्वी
 
-**B) Form nominal sentences by inserting the appropriate terms:**
+**B) Form nominal sentences by inserting:**
 
 1. śrutis ... (veda) = श्रुतिस् ... वेद
 2. paśus ... (dhenu) = पशुस् ... धेनु
@@ -233,7 +238,7 @@ Fig.: Durgā = दुर्गा, Orissa
 4. devatā ... (mīnākṣī, annapūrṇā) = देवता ... मीनाक्षी, अन्नपूर्णा
 5. śūdrā ... (itarā) = शूद्रा ... इतरा
 
-**C) Translate into the feminine gender:**
+**C) Translate into the feminine:**
 
 1. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
 2. sādhur guruḥ = साधुर्गुरुः

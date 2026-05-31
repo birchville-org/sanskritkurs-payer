@@ -1,345 +1,342 @@
+---
+title: Урок 49
+subtitle: "Образуване на императив (लोट्) на тематични настоящосъвременни корени (продължение)"
+lesson_id: 49
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 49
 
-# Lektion 49
+## 49.1. Образуване на императива (लोट्) на тематични настоящосъвременни основи (продължение)
 
-## 49.1. Образоване des Императивs (लोट्) athematischer Сегашно времеstämme (Fortsetzung)
+### 49.1.1. Седма класа на настоящето време (रुधादि)
 
-### 49.1.1. Siebte Сегашно времеklasse  (रुधादि)
-
-युज् 7U <!-- TODO: Fallback translation -->
-
-::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | | | <!-- TODO: Fallback translation -->
-| --- | --- | --- | | | <!-- TODO: Fallback translation -->
-|   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् | <!-- TODO: Fallback translation -->
-| 1\. Person   | | | | | <!-- TODO: Fallback translation -->
-| तृतीयः | युनजानि   | | | | | <!-- TODO: Fallback translation -->
-| yu-na-j-āni | युनजाम | युनजै | युनजामहै | | | <!-- TODO: Fallback translation -->
-| 2\. Person   | | | | | <!-- TODO: Fallback translation -->
-| मध्यमः | युङ्ग्धि   | | | | | <!-- TODO: Fallback translation -->
-yu-n-j + dhi <!-- TODO: Fallback translation -->
-| युङ्धि | युङ्क्त   | <!-- TODO: Fallback translation -->
-| युङ्त | युङ्क्ष्व | युङ्ग्ध्वं | <!-- TODO: Fallback translation -->
-| युङ्ध्वम् | | <!-- TODO: Fallback translation -->
-| 3\. Person   | <!-- TODO: Fallback translation -->
-| प्रथमः | युनक्तु   | <!-- TODO: Fallback translation -->
-| yu-na-j + tu | युञ्जन्तु | युङ्क्ताम् | <!-- TODO: Fallback translation -->
-| यु्ङ्ताम् | युञ्जताम् | <!-- TODO: Fallback translation -->
-:::
-
-रुध् 7U <!-- TODO: Fallback translation -->
+युज् 7U
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | | | <!-- TODO: Fallback translation -->
-| --- | --- | --- | | | <!-- TODO: Fallback translation -->
-|   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् | <!-- TODO: Fallback translation -->
-| 1\. Person   | | | | | <!-- TODO: Fallback translation -->
-| तृतीयः | रुणधानि   | | | | | <!-- TODO: Fallback translation -->
-| ru-ṇa-dh-āni | रुणधाम | रुणधै | रुणधामहै | | | <!-- TODO: Fallback translation -->
-| 2\. Person   | | | | | <!-- TODO: Fallback translation -->
-| मध्यमः | रुन्द्धि | रुन्द्ध | रुन्त्स्व | रुन्द्ध्वम् | | <!-- TODO: Fallback translation -->
-| 3\. Person   | | | | | <!-- TODO: Fallback translation -->
-| प्रथमः | रुणद्धु | रुन्धन्तु | रुन्द्धाम् | रुन्धताम् | | <!-- TODO: Fallback translation -->
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. лице**[[br]]तृतीयः | युनजानि[[br]]yu-na-j-āni | युनजाम | युनजै | युनजामहै |
+| **2. лице**[[br]]मध्यमः | युङ्ग्धि[[br]]yu-n-j + dhi[[br]]युङ्धि | युङ्क्त[[br]]युङ्त | युङ्क्ष्व | युङ्ग्ध्वं[[br]]युङ्ध्वम् |
+| **3. лице**[[br]]प्रथमः | युनक्तु[[br]]yu-na-j + tu | युञ्जन्तु | युङ्क्ताम्[[br]]यु्ङ्ताम् | युञ्जताम् |
 :::
 
-### 49.1.2. Fünfte Сегашно времеklasse (स्वादि)
-
-Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen dem auslautenden -u des Suffixes nur ein Konsonant vorausgeht. <!-- TODO: Fallback translation -->
-
-सु 5U <!-- TODO: Fallback translation -->
+रुध् 7U
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | | | <!-- TODO: Fallback translation -->
-| --- | --- | --- | | | <!-- TODO: Fallback translation -->
-|   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् | <!-- TODO: Fallback translation -->
-| 1\. Person   | | | | | <!-- TODO: Fallback translation -->
-| तृतीयः | सुनवानि | सुनवाम | सुनवै | सुनवाम | | <!-- TODO: Fallback translation -->
-| 2\. Person   | | | | | <!-- TODO: Fallback translation -->
-| मध्यमः | सुनु | सुनुत | सुनुष्व | सुनुध्वम् | | <!-- TODO: Fallback translation -->
-| 3\. Person   | | | | | <!-- TODO: Fallback translation -->
-| प्रथमः | सुनोतु | सुन्वन्तु | सुनुताम् | सुन्वताम्   | | <!-- TODO: Fallback translation -->
-| su-nu + atām | | | | | | <!-- TODO: Fallback translation -->
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. лице**[[br]]तृतीयः | रुणधानि[[br]]ru-ṇa-dh-āni | रुणधाम | रुणधै | रुणधामहै |
+| **2. лице**[[br]]मध्यमः | रुन्द्धि | रुन्द्ध | रुन्त्स्व | रुन्द्ध्वम् |
+| **3. лице**[[br]]प्रथमः | रुणद्धु | रुन्धन्तु | रुन्द्धाम् | रुन्धताम् |
 :::
 
-आप् 5P <!-- TODO: Fallback translation -->
+### 49.1.2. Пет клас на присенса (स्वादि)
 
 ::: grammar-box
-|   | परस्मैपदम् | | <!-- TODO: Fallback translation -->
-| --- | --- | | <!-- TODO: Fallback translation -->
-|   | एकवचनम् | बहुवचनम् | <!-- TODO: Fallback translation -->
-| 1\. Person   | | | <!-- TODO: Fallback translation -->
-| तृतीयः | आप्नवानि | आप्नवाम | | <!-- TODO: Fallback translation -->
-| 2\. Person   | | | <!-- TODO: Fallback translation -->
-| मध्यमः | आप्नुहि | आप्नुत | | <!-- TODO: Fallback translation -->
-| 3\. Person   | | | <!-- TODO: Fallback translation -->
-| प्रथमः | आप्नोतु | आप्नुवन्तु | | <!-- TODO: Fallback translation -->
+2-то лице еднина повелително наклонение е безкрайно за корени от 5-и и 8-и клас, при които пред изходното -u на суфикса предхожда само една съгласна.
 :::
 
-### 49.1.3. Achte Сегашно времеklasse (तनादि)
-
-तन् 8U <!-- TODO: Fallback translation -->
+सु 5U
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | | | <!-- TODO: Fallback translation -->
-| --- | --- | --- | | | <!-- TODO: Fallback translation -->
-|   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् | <!-- TODO: Fallback translation -->
-| 1\. Person   | | | | | <!-- TODO: Fallback translation -->
-| तृतीयः | तनवानि | तनवाम | तनवै | तनवामहै | | <!-- TODO: Fallback translation -->
-| 2\. Person   | | | | | <!-- TODO: Fallback translation -->
-| मध्यमः | तनु | तनुत | तनुष्व | तनुध्वम् | | <!-- TODO: Fallback translation -->
-| 3\. Person   | | | | | <!-- TODO: Fallback translation -->
-| प्रथमः | तनोतु | तन्वन्तु | तनुताम् | तन्वताम् | | <!-- TODO: Fallback translation -->
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1-во лице**[[br]]तृतीयः | सुनवानि | सुनवाम | सुनवै | सुनवाम |
+| **2-ро лице**[[br]]मध्यमः | ***सुनु*** | सुनुत | सुनुष्व | सुनुध्वम् |
+| **3-то лице**[[br]]प्रथमः | सुनोतु | सुन्वन्तु | सुनुताम् | सुन्वताम्[[br]]su-nu + atām |
 :::
 
-कृ 8U <!-- TODO: Fallback translation -->
+आप् 5P
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | | | <!-- TODO: Fallback translation -->
-| --- | --- | --- | | | <!-- TODO: Fallback translation -->
-|   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् | <!-- TODO: Fallback translation -->
-| 1\. Person   | | | | | <!-- TODO: Fallback translation -->
-| तृतीयः | करवाणि | करवाम | करवै | करवामहै | | <!-- TODO: Fallback translation -->
-| 2\. Person   | | | | | <!-- TODO: Fallback translation -->
-| मध्यमः | कुरु | कुरुत | कुरुष्व | कुरुध्वम् | | <!-- TODO: Fallback translation -->
-| 3\. Person   | | | | | <!-- TODO: Fallback translation -->
-| प्रथमः | करोतु | कुर्वन्तु | कुरुताम् | कुर्वताम् | | <!-- TODO: Fallback translation -->
+| | परस्मैपदम् ||
+| :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **1-во лице**[[br]]तृतीयः | आप्नवानि | आप्नवाम |
+| **2-ро лице**[[br]]मध्यमः | आप्नुहि | आप्नुत |
+| **3-то лице**[[br]]प्रथमः | आप्नोतु | आप्नुवन्तु |
 :::
 
-### 49.1.4. Neunte Сегашно времеklasse (क्र्यादि)
+### 49.1.3. Осма класa на сегашно време (तनादि)
 
-क्री 9U <!-- TODO: Fallback translation -->
+तन् 8U
 
 ::: grammar-box
-|   | परस्मैपदम् | आत्मनेपदम् | | | <!-- TODO: Fallback translation -->
-| --- | --- | --- | | | <!-- TODO: Fallback translation -->
-|   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् | <!-- TODO: Fallback translation -->
-| 1\. Person   | | | | | <!-- TODO: Fallback translation -->
-| तृतीयः | क्रीणानि   | | | | | <!-- TODO: Fallback translation -->
-| krī-ṇā + āni | क्रीणाम | क्रीणै   | | | | <!-- TODO: Fallback translation -->
-| krī-ṇā + ai | क्रीणामहै | | | | | <!-- TODO: Fallback translation -->
-| 2\. Person   | | | | | <!-- TODO: Fallback translation -->
-| मध्यमः | क्रीणीहि | क्रीणीत | क्रीणीष्व | क्रीणीध्वम् | | <!-- TODO: Fallback translation -->
-| 3\. Person   | | | | | <!-- TODO: Fallback translation -->
-| प्रथमः | क्रीणातु | क्रीणन्तु   | | | | <!-- TODO: Fallback translation -->
-| krī-ṇ-antu | क्रीणीताम् | क्रीणताम् | | | | <!-- TODO: Fallback translation -->
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. лице**[[br]]तृतीयः | तनवानि | तनवाम | तनवै | तनवामहै |
+| **2. лице**[[br]]मध्यमः | ***तनु*** | तनुत | तनुष्व | तनुध्वम् |
+| **3. лице**[[br]]प्रथमः | तनोतु | तन्वन्तु | तनुताम् | तन्वताम् |
 :::
 
-Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi der 2.sg.P Imperativ durch -āna <!-- TODO: Fallback translation -->
-
-ग्रह् 9U <!-- TODO: Fallback translation -->
+कृ 8U
 
 ::: grammar-box
-|   | परस्मैपदम् | | <!-- TODO: Fallback translation -->
-| --- | --- | | <!-- TODO: Fallback translation -->
-|   | एकवचनम् | बहुवचनम् | <!-- TODO: Fallback translation -->
-| 1\. Person   | | | <!-- TODO: Fallback translation -->
-| तृतीयः | गृह्णानि | गृह्णाम | | <!-- TODO: Fallback translation -->
-| 2\. Person   | | | <!-- TODO: Fallback translation -->
-| मध्यमः | गृहाण | गृह्णीत | | <!-- TODO: Fallback translation -->
-| 3\. Person   | | | <!-- TODO: Fallback translation -->
-| प्रथमः | गृह्णातु | गृहणन्तु | | <!-- TODO: Fallback translation -->
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. лице**[[br]]तृतीयः | करवाणि | करवाम | करवै | करवामहै |
+| **2. лице**[[br]]मध्यमः | ***कुरु*** | कुरुत | कुरुष्व | कुरुध्वम् |
+| **3. лице**[[br]]प्रथमः | करोतु | कुर्वन्तु | कुरुताम् | कुर्वताम् |
 :::
 
-## 49.2. Deklination der Nominalstämme auf -as, -is, -us
+### 49.1.4. Девети клас на настоящето време (क्र्यादि)
 
-#### Neutra (नपुंसक) &lt;!-- TODO: Fallback translation --&gt;
+क्री 9U
 
-|   | मनस् n. | | |
-"Gedanke" | हविस् n.   | | | |
-"Opferspende" | चक्षुस् n.   | | | |
-"Auge" | | | | | &lt;!-- TODO: Fallback translation --&gt;
-| --- | --- | --- | --- |
-| एकवचनम् |   |   |   |
-| प्रथमा, द्वितिया, आमन्त्रितम् | मनस् | हविस् | चक्षुस् |
-| तृतीया | मनसा | हविषा | चक्षुषा |
-| चतुर्थी | मनसे | हविषे | चक्षुषे |
-| पञ्चमी | मनसस् | हविषस् | कक्षुषस् |
-| षष्ठी | मनसस् | हविषस् | चक्षुषस् |
-| सप्तमी | मनसि | हविषि | चक्षुषि |
-| बहुवचनम् |   |   |   |
-| प्रथमा, द्वितिया, आमन्त्रितम् | मनांसि | हवींषि | चक्षूंषि |
-| तृतीया | मनोभिस् | हविर्भिस् | चक्षुर्भिस् |
-| चतुर्थी | मनोभ्यस् | हविर्भ्यस् | चक्षुर्भ्यस् |
-| पञ्चमी | मनोभ्यस् | हविर्भ्यस् | चक्षुर्भ्यस् |
-| षष्ठी | मनसाम् | हविषाम् | चक्षुषाम् |
-| सप्तमी | मनस्सु | | |
-मनःसु | हविष्षु   | | | |
-हविःषु | चक्षुष्षु   | | | |
-चक्षुःषु | | | | |
+::: grammar-box
+| | परस्मैपदम् || आत्मनेपदम् ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. лице**[[br]]तृतीयः | क्रीणानि[[br]]krī-ṇā + āni | क्रीणाम | क्रीणै[[br]]krī-ṇā + ai | क्रीणामहै |
+| **2. лице**[[br]]मध्यमः | क्रीणीहि | क्रीणीत | क्रीणीष्व | क्रीणीध्वम् |
+| **3. лице**[[br]]प्रथमः | क्रीणातु | क्रीणन्तु[[br]]krī-ṇ-antu | क्रीणीताम् | क्रीणताम् |
+:::
 
-#### Maskulina (पुंस्) und Feminina (स्त्री) &lt;!-- TODO: Fallback translation --&gt;
+::: grammar-box
+Корените на девети клас, които завършват на съгласна, заменят крайното -nī-hi на 2.ед.ч. повелително наклонение с -āna
+:::
 
-Die meisten Fälle sind बहुव्रीहि mit einem -s-Stamm (ursprünglich Neutrum) im Hinterglied. &lt;!-- TODO: Fallback translation --&gt;
+ग्रह् 9U
 
-|   | सुमनस् 3 | |
-"von gutem Denken, wohlwollend | दीर्घायुस् 3   | | |
-"langlebig" | | | | &lt;!-- TODO: Fallback translation --&gt;
-| --- | --- | --- |
-| एकवचनम् |   |   |
-| प्रथम | सुमनास् | दीर्घायुस् |
-| द्विटिया | सुमनसम् | दीर्घायुषम् |
-| आमन्त्रितम् | सुमनस् | दीर्घायुस् |
-| --- | --- | --- |
+::: grammar-box
+| | परस्मैपदम् ||
+| :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **1. лице**[[br]]तृतीयः | गृह्णानि | गृह्णाम |
+| **2. лице**[[br]]मध्यमः | ***गृहाण*** | गृह्णीत |
+| **3. лице**[[br]]प्रथमः | गृह्णातु | गृहणन्तु |
+:::
+
+## 49.2. Склонение на именните основи на -as, -is, -us
+
+#### Среден род (नपुंसक)
+
+::: grammar-box
+| | **मनस् ср.р.**[[br]]"мисъл" | **हविस् ср.р.**[[br]]"жертвоприношение" | **चक्षुस् ср.р.**[[br]]"око" |
+| :---: | :---: | :---: | :---: |
+| **एकवचनम्** | | | |
+| **प्रथमा, द्वितिया, आमन्त्रितम्** | मनस् | हविस् | चक्षुस् |
+| **तृतीया** | मनसा | हविषा | चक्षुषा |
+| **चतुर्थी** | मनसे | हविषे | चक्षुषे |
+| **पञ्चमी** | मनसस् | हविषस् | कक्षुषस् |
+| **षष्ठी** | मनसस् | हविषस् | चक्षुषस् |
+| **सप्तमी** | मनसि | हविषि | चक्षुषि |
+| **बहुवचनम्** | | | |
+| **प्रथमा, द्वितिया, आमन्त्रितम्** | मनांसि | हवींषि | चक्षूंषि |
+| **तृतीया** | मनोभिस् | हविर्भिस् | चक्षुर्भिस् |
+| **चतुर्थी** | मनोभ्यस् | हविर्भ्यस् | चक्षुर्भ्यस् |
+| **पञ्चमी** | मनोभ्यस् | हविर्भ्यस् | चक्षुर्भ्यस् |
+| **षष्ठी** | मनसाम् | हविषाम् | चक्षुषाम् |
+| **सप्तमी** | मनस्सु[[br]]मनःसु | हविष्षु[[br]]हविःषु | चक्षुष्षु[[br]]चक्षुःषु |
+:::
+
+#### Мъжки род (पुंस्) и женски род (स्त्री)
+
+Повечето падежи са **बहुव्रीहि** с основа на -s (първоначално среден род) във втората част на сложната дума.
+
+::: grammar-box
+| | **सुमनस् 3**[[br]]"с добри мисли, благоволящ" | **दीर्घायुस् 3**[[br]]"дълголетен" |
+| :---: | :---: | :---: |
+| **एकवचनम्** | | |
+| **प्रथम** | सुमनास् | दीर्घायुस् |
+| **द्विटिया** | सुमनसम् | दीर्घायुषम् |
+| **आमन्त्रितम्** | सुमनस् | दीर्घायुस् |
+:::
+
 ::: indent
-Übrige Kasus des Singular wie Neutrum &lt;!-- TODO: Fallback translation --&gt;
+Останалите падежи на единственото число като среден род
 :::
-
- | --- | --- | --- |
-| बहुवचनम् |   |   |
-| प्रथमा, द्वितिया, आमन्त्रितम् | सुमनसस् | दीर्घायुषस् |
-| --- | --- | --- |
-
-Übrige Kasus des Plural wie Neutrum &lt;!-- TODO: Fallback translation --&gt;
-
- |
-
-## 49.3. Nominalbildung: कृत्-Suffix -as Среден род
-
-Mit dem कृत्-Suffix -as Neutrum werden zahlreiche Substantive gebildet. Meist sind es Abstrakta oder Nomina actionis (Wörter, die die Handlung bezeichnen). &lt;!-- TODO: Fallback translation --&gt;
-
-Kurzer Vokal der Wurzel vor einfachem Konsonant sowie auslautender Wurzelvokal erscheinen in der Hochstufe. &lt;!-- TODO: Fallback translation --&gt;
-
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
-| Корен | Nomen auf -as |
-| --- | --- |
-| मन् 4Ā "denken" | मनस् n. "Denken, Gedanke, Denkorgan" |
-| नम् 1P "beugen" | नमस् n. "Verbeugung, Verehrung" |
-| चित् 1P "wahrnehmen, denken" | चेतस् n. "Einsicht" |
+| | **सुमनस् 3** | **दीर्घायुस् 3** |
+| :---: | :---: | :---: |
+| **बहुवचनम्** | | |
+| **प्रथमा, द्वितिया, आमन्त्रितम्** | सुमनसस् | दीर्घायुषस् |
 :::
 
-Nomina auf -is und -us sind relativ selten. &lt;!-- TODO: Fallback translation --&gt;
+::: indent
+Останалите падежи на множествено число като среден род
+:::
+
+## 49.3. Образуване на съществителни имена: कृत्-суфикс -as среден род
+
+С помощта на कृत्-суфикса -as среден род се образуват множество съществителни имена. Повечето от тях са абстрактни имена или nomina actionis (думи, които обозначават действието).
+
+Кратък гласен пред прост съгласен и изходен гласен на корена се появяват в силната степен.
+
+Примери:
+
+::: grammar-box
+| Корен | Съществително на -as |
+| --- | --- |
+| मन् 4Ā "мисля" | मनस् ср. "мислене, мисъл, орган на мисленето" |
+| नम् 1P "огъвам" | नमस् ср. "поклон, почит" |
+| चित् 1P "възприемам, мисля" | चेतस् ср. "разбиране" |
+:::
+
+Съществителни на -is и -us са относително редки.
 
 ::: media
-![]/images/lekt4907.jpg
-Abb.: नमस्ते  
-\[Bildquelle: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Zugriff am 2009-01-10. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt4907.jpg)
+Ил.: नमस्ते
+(Източник на изображението: [Подробности](/bg/licenses#lekt4907))
 :::
 
 ## 49.4. Речник
 
-दीर्घ 3: lange &lt;!-- TODO: Fallback translation --&gt;
+दीर्घ 3: дълъг
 
-ह्रस्व 3: kurz &lt;!-- TODO: Fallback translation --&gt;
+ह्रस्व 3: кратък
 
-आयुस् n.: Lebenszeit (die volle Lebenszeit, die man leben kann, wenn nichts dazwischen kommt) ; &lt;!-- TODO: Fallback translation --&gt;
+आयुस् n.: живот (пълният животен срок, който може да се живее, ако нищо не се намеси) ;
 
-::: indent
-davon: &lt;!-- TODO: Fallback translation --&gt;
+:::: indent
+от това:
 
-आयुर्वेद m.: das traditionelle medizinische System Indiens &lt;!-- TODO: Fallback translation --&gt;
+आयुर्वेद m.: традиционната медицинска система на Индия
 
-&lt;!-- TODO: Fallback translation --&gt;
-
-&lt;!-- TODO: Fallback translation --&gt;
-:::
-
-क्षिप् 6P क्षिपति : werfen, schleudern &lt;!-- TODO: Fallback translation --&gt;
+виж:
 
 ::: indent
-Perf. II चिक्षेप, चिक्षेपिथ, चिक्षिपुर्   &lt;!-- TODO: Fallback translation --&gt;
+**Carakasaṃhitā:** Избрани текстове от Carakasaṃhitā / преведени и коментирани от Alois Payer &lt;1944 - &gt;. -- 0. Предговор. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
+::::
 
-त्वर् 1Ā त्वरते : eilen &lt;!-- TODO: Fallback translation --&gt;
+क्षिप् 6P क्षिपति : хвърлям, метам
 
 ::: indent
-PPP त्वरित । तू्र्ण   &lt;!-- TODO: Fallback translation --&gt;
+Перф. II चिक्षेप, चिक्षेपिथ, चिक्षिपुर्
+Фут. क्षेप्स्यति
+Пас. क्षिप्यते
+Кавз. क्षेपयति
+PPP क्षिप्त
+Инф. क्षेप्तुम्
+Абсол. -क्षिप्य
+Герундив: क्षेप्य
 :::
 
-द्रुह् 4P द्रुह्यति : schädigen &lt;!-- TODO: Fallback translation --&gt;
+त्वर् 1Ā त्वरते : бързам
 
 ::: indent
-Fut. द्रोहिष्यति । ध्रोक्ष्यति   &lt;!-- TODO: Fallback translation --&gt;
+Перф. Vc तत्वरे
+Фут. त्वरिष्यते
+Пас. त्वर्यते
+Кавз. त्वरयति
+PPP त्वरित । ***तू्र्***ण
+Инф. त्वरितुम्
 :::
 
-कुलूहल n.: Neugier, Interesse &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt4901.jpg
-Abb.: कुलूहलम्  
-\[Bildquelle: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-कृत्स्न 3: ganz, vollständig &lt;!-- TODO: Fallback translation --&gt;
-
-परिचय m.: Bekanntschaft &lt;!-- TODO: Fallback translation --&gt;
-
-कला f.: Kunst &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt4902.jpg
-Abb.: उत्तमा काला  
-शिवो नटराजा, 11. Jhdt.  
-\[Bildquelle: Vassil / Wikipedia. Public domain\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-वर m.n.: Wunsch &lt;!-- TODO: Fallback translation --&gt;
-
-उत Indekl.: und, auch, oder &lt;!-- TODO: Fallback translation --&gt;
-
-विहंग m.: Vogel ("in den Lufस्traum - विह - gehend") &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt4903.jpg
-Abb.: विहंगः  
-\[Bildquelle: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-वेष m.: Kleid, Aussehen, Äußeres &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt4904.jpg
-Abb.: वेषः  
-वाराणस्याम्  
-\[Bildquelle: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-छन्न n.: Decke, Versteck &lt;!-- TODO: Fallback translation --&gt;
-
-पञ्जर n.: Käfig &lt;!-- TODO: Fallback translation --&gt;
-
-::: media
-![]/images/lekt4909.jpg
-Abb.: पञ्जरम्  
-Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht  
-Mysore  
-\[Bildquelle: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Zugriff am 2009-01-12. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\] &lt;!-- TODO: Fallback translation --&gt;
-:::
-चाण्डाल । चण्डाल m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit) &lt;!-- TODO: Fallback translation --&gt;
-
-स्वयम् Indekl.: selbst, von selbst &lt;!-- TODO: Fallback translation --&gt;
-
-अवनि f.: Erde &lt;!-- TODO: Fallback translation --&gt;
-
-मुहूर्त m.,n.: Augenblick, Moment, rechter Augenblick &lt;!-- TODO: Fallback translation --&gt;
-
-ध्यै 1P ध्यायति : sich vorstellen, denken &lt;!-- TODO: Fallback translation --&gt;
+द्रुह् 4P द्रुह्यति : увреждам
 
 ::: indent
-Perf. IV दध्यौ   &lt;!-- TODO: Fallback translation --&gt;
+Перф. II दुद्रोह, दुद्रुहुर्
+Фут. द्रोहिष्यति । ध्रोक्ष्यति
+Пас. द्रुह्यते
+Кавз. द्रोहयति
+PPP द्रुग्ध । द्रूढ
+Инф. द्रोग्धुम्
 :::
 
-आदर m.: Rücksicht, Beachtung, Respekt &lt;!-- TODO: Fallback translation --&gt;
+कुलूहल n.: любопитство, интерес
 
 ::: media
-![]/images/lekt4905.jpg
-Abb.: सादरः  
-Amritsar = ਅੰਮ੍ਰਿਤਸਰ  
-\[Bildquelle: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt4901.jpg)
+Ик.: कुलूहलम्
+(Източник на изображението: [Подробности](/bg/licenses#lekt4901))
 :::
-कुतुक n. = कुलूहल n. &lt;!-- TODO: Fallback translation --&gt;
+कृत्स्न 3: цял, пълен
 
-परम 3: fernster, höchster ; पञ्चम्या : besser als, höher als &lt;!-- TODO: Fallback translation --&gt;
+परिचय m.: запознанство
 
-शिशु m.: Kind, Junges &lt;!-- TODO: Fallback translation --&gt;
+कला f.: изкуство
 
 ::: media
-![]/images/lekt4906.jpg
-Abb.: गजशिशुः  
-Sri Lanka  
-\[Bildquelle: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]  &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt4902.jpg)
+Ик.: उत्तमा काला
+शिवो नटराजा, XI век.
+(Източник на изображението: [Подробности](/bg/licenses#lekt4902))
+:::
+वर m.n.: желание
+
+उत Инд.: и, също, или
+
+विहंग m.: птица ("в въздухаस्сън - विह - отиващ")
+
+::: media
+![](/images/lekt4903.jpg)
+Ик.: विहंगः
+(Източник на изображението: [Подробности](/bg/licenses#lekt4903))
+:::
+वेष m.: дреха, вид, външен вид
+
+::: media
+![](/images/lekt4904.jpg)
+Ик.: वेषः
+वाराणस्याम्
+(Източник на изображението: [Подробности](/bg/licenses#lekt4904))
+:::
+छन्न n.: покривало, скривалище
+
+पञ्जर n.: клетка
+
+::: media
+![](/images/lekt4909.jpg)
+Ик.: पञ्जरम्
+Гадаещ с папагал в клетка: папагалът тегли бележки, на които е написано съдбата Мисур
+(Източник на изображението: [Подробности](/bg/licenses#lekt4909))
+:::
+चाण्डाल । चण्डाल m.: най-ниска степен на [Dalits](http://de.wikipedia.org/wiki/Dalit)
+
+स्वयम् Инд.: сам, от само себе си
+
+अवनि f.: земя
+
+मुहूर्त m.,n.: миг, момент, правилен миг
+
+ध्यै 1P ध्यायति : представям си, мисля
+
+::: indent
+Перф. IV दध्यौ
+Фут. ध्यास्यति
+Пас. ध्यायते
+Кавз. ध्यापयति
+PPP ध्यात
+Инф. ध्यातुम्
+Герундив ध्येय
 :::
 
-## 49.5. Wiederholungsübung zur Formenlehre
+आदर m.: внимание, уважение, почит
 
-Bestimmen Sie folgende Formen: &lt;!-- TODO: Fallback translation --&gt;
+::: media
+![](/images/lekt4905.jpg)
+Ик.: सादरः
+Амритсар = ਅੰਮ੍ਰਿਤਸਰ
+(Източник на изображението: [Подробности](/bg/licenses#lekt4905))
+:::
+कुतुक n. = कुलूहल n.
+
+परम 3: най-отдалечен, най-висок ; पञ्चम्या : по-добър от, по-висок от
+
+शिशु m.: дете, малко животно
+
+::: media
+![](/images/lekt4906.jpg)
+Ик.: गजशिशुः
+Шри Ланка
+(Източник на изображението: [Подробности](/bg/licenses#lekt4906))
+:::
+
+## 49.5. Повторително упражнение за морфология
+
+Определете следните форми:
 
 1.  गृहाणि
 2.  नमानि
@@ -383,40 +380,39 @@ Bestimmen Sie folgende Formen: &lt;!-- TODO: Fallback translation --&gt;
 
 ## 49.6. Упражнение за превод
 
-बान (7. Jhdt. n. Chr.): कादम्बरी, ed. M. R. Kale, 1968, S. 35f. &lt;!-- TODO: Fallback translation --&gt;
+बान (VII век сл. н. е.): कादम्बरी, изд. M. R. Kale, 1968, стр. 35 сл.
 
-Fragen des Königs शूद्रक von विदिशा an den Papagei वैशम्पायन: &lt;!-- TODO: Fallback translation --&gt;
+Въпроси на цар शूद्रक от विदिशा към папагала वैशम्पायन:
 
 नरपतिरब्रवीत् । आस्तां तावत्सर्वमेवेदम् । अपनयतु नः कुतूहलम् । आवेदयतु भवानादितः प्रभृति कार्त्न्येनात्मनो जन्म कस्मिन्देशे । भवान्कथं जातः । केन वा नाम कृतम् । का माता । कस्ते पिता । कथं वेदानामागमः । कथं शास्त्राणां परिचयः । कुतः कलाः समासादिताः । किं जन्मान्तरानुस्मरणमुत वरप्रदानम् । अथवा विहंगवेषधारी कश्चिच्छन्नं विवससि । क्व वा पूर्वमुषितम् । कियद्वा वयः । कथं पञ्जरबन्धः । कथं चाण्डालहस्तगमनम् । इह वा कथमागमनमिति ।
 
 वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥
 
 ::: media
-![]/images/lekt4908.jpg
-Abb.: शुकः (Papagei)  
-Pflaumenkopfsittich _= Psittacula cyanocephala_\[Bildquelle: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)\] &lt;!-- TODO: Fallback translation --&gt;
+![](/images/lekt4908.jpg)
+Ил.: शुकः
+Сивоплач какапо = Psittacula cyanocephala
+(Източник на изображението: [Подробности](/bg/licenses#lekt4908))
 :::
 
 ::: deleteme-box
 
-### Източници
+**lekt4907:** [Източник на изображението: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Достъп на 2009-01-10. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Приписване, некомърсиално използване, споделяне на споделеното)]
 
-**lekt4907:** [Bildquelle: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Zugriff am 2009-01-10. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt4901:** [Източник на изображението: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Достъп на 2009-01-11. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Приписване, без промени)]
 
-**lekt4901:** [Bildquelle: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt4902:** शिवो नटराजा, XI век. [Източник на изображението: Vassil / Wikipedia. Обществено достояние]
 
-**lekt4902:** शिवो नटराजा, 11. Jhdt. [Bildquelle: Vassil / Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt4903:** [Източник на изображението: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Достъп на 2009-01-11. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, некомърсиално използване, без промени)]
 
-**lekt4903:** [Bildquelle: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt4904:** वाराणस्याम् [Източник на изображението: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Достъп на 2009-01-11. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Приписване, некомърсиално използване, споделяне на споделеното)]
 
-**lekt4904:** वाराणस्याम् [Bildquelle: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt4909:** Гадаещ с папагал в клетка: папагалът тегли бележки, на които е написано съдбата Мисур [Източник на изображението: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Достъп на 2009-01-12. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Приписване)]
 
-**lekt4909:** Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore [Bildquelle: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Zugriff am 2009-01-12. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt4905:** Амритсар = ਅੰਮ੍ਰਿਤਸਰ [Източник на изображението: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Достъп на 2009-01-11. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Приписване)]
 
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Bildquelle: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt4906:** Шри Ланка [Източник на изображението: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Достъп на 2009-01-11. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Приписване, некомърсиално използване, без промени)]
 
-**lekt4906:** Sri Lanka [Bildquelle: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt4908:** Pflaumenkopfsittich _= Psittacula cyanocephala_[Bildquelle: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt4908:** Сивоплач какапо _= Psittacula cyanocephala_[Източник на изображението: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Достъп на 2009-01-12. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Приписване, некомърсиално използване, споделено под еднакви условия)]
 
 :::

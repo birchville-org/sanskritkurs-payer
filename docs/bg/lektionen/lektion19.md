@@ -1,209 +1,220 @@
 ---
-title: Lektion 19
+title: Урок 19
 lesson_id: 19
---- &lt;!-- TODO: Fallback translation --&gt;
+---
 
-# Lektion 19
+# Урок 19
 
-## 19.1. Der Relativsatz
+## 19.1. Относителното изречение
 
 :::: grammar-box
 
-**Schema:** &lt;!-- TODO: Fallback translation --&gt;
+**Схема:**
 
 ::: indent
-**Relativpronomen -- Relativsatz, der das Nomen enthält, auf den sich der Relativsatz bezieht -- (Demonstrativpronomen) -- Hauptsatz** &lt;!-- TODO: Fallback translation --&gt;
+**Относително местоимение -- относително изречение, което съдържа името, към което се отнася относителното изречение -- (указателно местоимение) -- главното изречение**
 :::
 
-**Der Relativsatz kann auch nach dem Hauptsatz stehen, er kann aber nicht in den Hauptsatz eingeschoben werden.** &lt;!-- TODO: Fallback translation --&gt;
+**Относителното изречение може да стои и след главното изречение, но не може да бъде вмъкнато в главното изречение.**
 
-**Das Relativpronomen und das Beziehungswort, das ja - im Gegensatz zum Deutschen - im Relativsatz steht, stehen in dem Kasus, den der Relativsatz syntaktisch erfordert. Das Demonstrativpronomen steht in dem Kasus, den der Hauptsatz syntaktisch erfordert.** &lt;!-- TODO: Fallback translation --&gt;
+**Относителното местоимение и думата за връзка, която, за разлика от немския език, стои в относителното изречение, са в падежа, който относителното изречение синтактично изисква. Указателното местоимение е в падежа, който главното изречение синтактично изисква.**
 
 ::::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примери:
 
-Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstelle des Indikativs verwendet. Viele unserer Beispiele würden also bevorzugt im Optativ stehen. &lt;!-- TODO: Fallback translation --&gt;
+Забележка: В относителни изречения с общовалидно съдържание често се използва оптив вместо индикатив. Много от нашите примери следователно биха били предпочитани в оптив.
 
-**1. Der Agens (कर्तृ) des Satzes wird durch einen Relativsatz näher bestimmt:** &lt;!-- TODO: Fallback translation --&gt;
-
-::: indent
-यो नरः पुण्यं करोति स स्वर्गं गच्छति =  यो नरः पुण्यं करोति तेन स्वर्गं गम्यते = येन नरेण पुण्यम् क्रियते तेन स्वर्गं गम्यते u.s.w. = "Ein Mann, der Verdienstvolles tut, kommt in den Himmel." &lt;!-- TODO: Fallback translation --&gt;
-:::
-
-**2. Das direkte Objekt (कर्म) des Hauptsatzes wird durch den Relativsatz näher bestimmt:** &lt;!-- TODO: Fallback translation --&gt;
+**1. Субектът (कर्तृ) на изречението се определя по-точно чрез относително изречение:**
 
 ::: indent
-यो ब्राह्मणो देवान्यजते तं देवा रक्षन्ति = "Die Götter beschützen einen Brahmanen, der ihnen als Opferherr opfert." &lt;!-- TODO: Fallback translation --&gt;
+यो नरः पुण्यं करोति स स्वर्गं गच्छति =  यो नरः पुण्यं करोति तेन स्वर्गं गम्यते = येन नरेण पुण्यम् क्रियते तेन स्वर्गं गम्यते и т.н. = "Човек, който извършва заслужени дела, отива на небето."
 :::
 
-**3. Die nähere Bestimmung eines Nomens des Hauptsatzes steht im Relativsatz:** &lt;!-- TODO: Fallback translation --&gt;
+**2. Прякото допълнение (कर्म) на главното изречение се определя по-точно чрез относителното изречение:**
 
 ::: indent
-ये नराः पापं कुर्वन्ति तेषां पुत्रा धनं न लभन्ते = "Söhne von Männern, die Böses tun, erhalten keinen Reichtum." &lt;!-- TODO: Fallback translation --&gt;
+यो ब्राह्मणो देवान्यजते तं देवा रक्षन्ति = "Богата защитаират брахман, който им принася жертва като господар на жертвата."
 :::
 
-**4. Relativpronomen und Beziehungswort stehen im Genetiv (षष्ठी):** &lt;!-- TODO: Fallback translation --&gt;
+**3. По-точното определение на име на главното изречение стои в относителното изречение:**
 
 ::: indent
-यस्य नरस्य पुत्राः पापं कुर्वन्ति स न सुखवान् = "Nicht ist der Mann glücklich, dessen Söhne Böses tun." &lt;!-- TODO: Fallback translation --&gt;
+ये नराः पापं कुर्वन्ति तेषां पुत्रा धनं न लभन्ते = "Синовете на мъже, които извършват зло, не получават богатство."
 :::
 
-**5. Relativpronomen und Beziehungswort stehen im Instrumentalis (तृतीया):** &lt;!-- TODO: Fallback translation --&gt;
+**4. Относителното местоимение и думата за връзка са в генитив (षष्ठी):**
 
 ::: indent
-येन शत्रुणा ग्रामो जितस्तं द्विषन्ति = "Sie hassen den Feind, der ihr Dorf besiegt / erobert hat." &lt;!-- TODO: Fallback translation --&gt;
+यस्य नरस्य पुत्राः पापं कुर्वन्ति स न सुखवान् = "Не е щастлив мъжът, чийто синовете извършват зло."
 :::
 
-**6. Relativpronomen und Beziehungswort stehen im Akkusativ (द्वितीया):** &lt;!-- TODO: Fallback translation --&gt;
+**5. Относителното местоимение и думата за връзка са в инструменталис (तृतीया):**
 
 ::: indent
-यं नरं देवी रक्षति स सुखमाप्नोति = "Ein Mann, den die Göttin beschützt, erlangt Glück." &lt;!-- TODO: Fallback translation --&gt;
+येन शत्रुणा ग्रामो जितस्तं द्विषन्ति = "Те мразят врага, който е победил / завладял тяхното село."
 :::
 
-## 19.2. Das Relativpronomen = व्यपेक्षकसर्वनाम n.
+**6. Относителното местоимение и думата за връзка са в акузатив (द्वितीया):**
+
+::: indent
+यं नरं देवी रक्षति स सुखमाप्नोति = "Човек, когото богинята защитаира, постига щастие."
+:::
+
+## 19.2. Относителното местоимение = व्यपेक्षकसर्वनाम м.р.
 
 :::: grammar-box
 
-**यद् "welcher, welche, welches" dekliniert wie तद्, aber mit regelmäßigem Sandhi.** &lt;!-- TODO: Fallback translation --&gt;
+**यद् „кой, която, което“ се спряга като तद्, но с редовен сандхи.**
 
 | | | **Мъжки род**[[br]]**पुंस्** | **Среден род**[[br]]**नपुंसक** | **Женски род**[[br]]**स्त्री** |
 | :--- | :--- | :--- | :--- | :--- |
-| **Единствено число**[[br]]**एकवचन** | **1. Номинатив**[[br]]**प्रथमा** | **yas**[[br]]**यस्** | **yad**[[br]]**यद्** | **yā**[[br]]**या** |
-| | **2. Акузатив**[[br]]**द्वितीया** | **yam**[[br]]**यम्** | **yad**[[br]]**यद्** | **yām**[[br]]**याम्** |
-| | **3. Инструменталис**[[br]]**तृतीया** | **yena**[[br]]**येन** | **yena**[[br]]**येन** | **yayā**[[br]]**यया** |
-| | **6. Генетив**[[br]]**षष्ठी** | **yasya**[[br]]**यस्य** | **yasya**[[br]]**यस्य** | **yasyās**[[br]]**यस्यास्** |
-| | | | | |
-| **Множествено число**[[br]]**बहुवचन** | **1. Номинатив**[[br]]**प्रथमा** | **ye**[[br]]**ये** | **yāni**[[br]]**यानि** | **yās**[[br]]**यास्** |
-| | **2. Акузатив**[[br]]**द्वितीया** | **yān**[[br]]**यान्** | **yāni**[[br]]**यानि** | **yās**[[br]]**यास्** |
-| | **3. Инструменталис**[[br]]**तृतीया** | **yais**[[br]]**यैस्** | **yais**[[br]]**यैस्** | **yābhis**[[br]]**याभिस्** |
-| | **6. Генетив**[[br]]**षष्ठी** | **yeṣām**[[br]]**येषाम्** | **yeṣām**[[br]]**येषाम्** | **yāsām**[[br]]**यासाम्** |
+| **Едв.ч.**[[br]]**एकवचन** | **1. Именителен**[[br]]**प्रथमा** | **yas**[[br]]**यस्** | **yad**[[br]]**यद्** | **yā**[[br]]**या** |
+| | **2. Винителен**[[br]]**द्वितीया** | **yam**[[br]]**यम्** | **yad**[[br]]**यद्** | **yām**[[br]]**याम्** |
+| | **3. Творителен**[[br]]**तृतीया** | **yena**[[br]]**येन** | **yena**[[br]]**येन** | **yayā**[[br]]**यया** |
+| | **6. Родителен**[[br]]**षष्ठी** | **yasya**[[br]]**यस्य** | **yasya**[[br]]**यस्य** | **yasyās**[[br]]**यस्यास्** |
+| **Мн.ч.**[[br]]**बहुवचन** | **1. Именителен**[[br]]**प्रथमा** | **ye**[[br]]**ये** | **yāni**[[br]]**यानि** | **yās**[[br]]**यास्** |
+| | **2. Винителен**[[br]]**द्वितीया** | **yān**[[br]]**यान्** | **yāni**[[br]]**यानि** | **yās**[[br]]**यास्** |
+| | **3. Творителен**[[br]]**तृतीया** | **yais**[[br]]**यैस्** | **yais**[[br]]**यैस्** | **yābhis**[[br]]**याभिस्** |
+| | **6. Родителен**[[br]]**षष्ठी** | **yeṣām**[[br]]**येषाम्** | **yeṣām**[[br]]**येषाम्** | **yāsām**[[br]]**यासाम्** |
 
-**Als Vorderglied von Komposita erscheint der Stamm यद् (unter Beachtung des Sandhi).** &lt;!-- TODO: Fallback translation --&gt;
+**Като първа част на съставни думи се използва основата यद् (спазвайки сандхи).**
 
 ::::
 
-## 19.3. Речник
+## 19.3. Списък на думите
 
-**अर्थ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. **अर्थम्** (Akk.), **अर्थेन** (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu. &lt;!-- TODO: Fallback translation --&gt;
+**अर्थ м.род. (м.р.):** цел, цел, значение (на дума), богатство, притежание, имущество. **अर्थम्** (вин.п.), **अर्थेन** (твор.п.) с род.п. или като заден член на Tatpuruṣa: заради ..., за да.
 
-**अर्थ** ist einer der drei Lebenszwecke (**पुरुषार्थ**), wie sie in der weltlichen und religiösen Literatur beschrieben werden: &lt;!-- TODO: Fallback translation --&gt;
+**अर्थ** е един от трите житейски цели (**पुरुषार्थ**), както са описани в свещената и религиозната литература:
 
 ::: indent
-**धर्म m.:** Erlangung von Verdienst durch das Tun, was für einen Recht ist, bzw. zumindest Vermeiden von Übel, welches aus der Nichtbefolgung des Dharma folgen würde &lt;!-- TODO: Fallback translation --&gt;
+**धर्म м.род. (м.р.):** придобиване на zasluga чрез извършването на това, което е право, или поне избягване на зло, което би следвало от неизпълнението на Dharma
 
-**अर्थ m.:** zweckrationales Verhalten, Erlangung von Wohlstand &lt;!-- TODO: Fallback translation --&gt;
+**अर्थ м.род. (м.р.):** целерационално поведение, придобиване на благосъстояние
 
-**काम m.:** Sinnenlust, insbes. auch auf sexuellem Gebiet &lt;!-- TODO: Fallback translation --&gt;
+**काम м.род. (м.р.):** наслада от сетивата, особено в сексуалната област
 :::
 
 ::: media
 ![](/images/lekt1809.jpg)
-Abb.: कामः
-(Bildquelle: [Details](/licenses#lekt1809)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: कामः
+Илюстрация към कामसूत्र
+(Източник на изображението: [Подробности](/bg/licenses#lekt1809))
 :::
 
-**स्था 1 P तिष्ठति Pass. स्थीयते PPP. स्थित :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie पा 1 पिबति) &lt;!-- TODO: Fallback translation --&gt;
 
-**स्था + उप 1 U उपतिष्ठति :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen &lt;!-- TODO: Fallback translation --&gt;
+**स्था 3 л. м.р. **तिष्ठति страд. **स्थीयते прич. мин. **स्थित :** стои, остава, продължава да съществува, намира се. (Традиционно се отнася към 1-вия клас на настоящето време, въпреки че става въпрос за редуплициращ тематичен клас на настоящето време, както при पा 3 л. **पिबति**)
 
-**स्था + प्र 1 Ā प्रतिष्ठते :** aufbrechen, davongehen &lt;!-- TODO: Fallback translation --&gt;
+**स्था + उप 3 л. м.р. **उपतिष्ठति :** приближава се, поставя се в почитане пред някого
 
-von **स्था** : &lt;!-- TODO: Fallback translation --&gt;
+**स्था + प्र 3 л. м.р. **प्रतिष्ठते :** тръгва, отива си
+
+от **स्था** :
 
 ::: indent
-**स्थान n.:** Stelle, (rechter) Ort, Standort &lt;!-- TODO: Fallback translation --&gt;
+**स्थान ср.род. (с.р.):** място, (правилно) място, позиция
 
-**स्थिति f.:** Verweilen, Standhaftigkeit, Beharren &lt;!-- TODO: Fallback translation --&gt;
+**स्थिति ж.род. (ж.р.):** престой, постоянство, упорство
 :::
 
-**गर्भ m.:** Gebärmutter, Schoß, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B. &lt;!-- TODO: Fallback translation --&gt;
+**गर्भ м.род. (м.р.):** матка, лоно, вътрешност, ембрион / плод. В края на Bahuvrīhi често: "вътрешност", напр.
 
 ::: indent
-**धनगर्भ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet" &lt;!-- TODO: Fallback translation --&gt;
+**धनगर्भ 3 л. м.р. :** "чийто вътрешност е парите = в който се намира парите"
 
-**गर्भगृह n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968) &lt;!-- TODO: Fallback translation --&gt;
+**गर्भगृह ср.род. (с.р.):** най-вътрешното светилище на индуистки храм, което съдържа най-важната божествена статуя на храма (за устройството на индуистки храмове вижте: Volwahsen, A.: Индия : Сгради на хиндуите, будистите и джайните. -- Мюнхен, 1968)
 :::
 
 ::: media
 ![](/images/lekt1901.jpg)
-Abb.: गर्भगृहम्
-(Bildquelle: [Details](/licenses#lekt1901)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: गर्भगृहम्
+Бадами (ಬದಾಮಿ)
+(Източник на изображението: [Подробности](/bg/licenses#lekt1901))
 :::
 
-**वारिद m.:** Wassergeber = Regenwolke &lt;!-- TODO: Fallback translation --&gt;
+
+**वारिद м.род. (м.р.):** воден носител = дъждовна облак
 
 ::: media
 ![](/images/lekt1902.jpg)
-Abb.: वारिदः
-(Bildquelle: [Details](/licenses#lekt1902)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: वारिदः
+Гоа (गोंय)
+(Източник на изображението: [Подробности](/bg/licenses#lekt1902))
 :::
+  
 
-**वा 2 P वाति Pass. वायते PPP. वान / वात :** wehen &lt;!-- TODO: Fallback translation --&gt;
+**वा 3 л. м.р. **वाति страд. **वायते прич. мин. **वान / **वात :** духа
 
-davon: &lt;!-- TODO: Fallback translation --&gt;
+от това:
 
 ::: indent
-**वात m.:** Wind &lt;!-- TODO: Fallback translation --&gt;
+**वात м.род. (м.р.):** вятър
 :::
 
-**वह् 1 U वहति Pass. उह्यते PPP ऊढ :** führen, fahren (trans.) &lt;!-- TODO: Fallback translation --&gt;
+**वह् 3 л. м.р. **वहति страд. **उह्यते прич. мин. **ऊढ :** води, кара (транзитивно)
 
-**छत्त्र n.:** Sonnenschirm, Schirm &lt;!-- TODO: Fallback translation --&gt;
+**छत्त्र ср.род. (с.р.):** слънчев зонт, зонт
 
 ::: media
 ![](/images/lekt1904.jpg)
-Abb.: छत्त्रम्
-(Bildquelle: [Details](/licenses#lekt1904)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: छत्त्रम्
+„_Onappottan_ (ഓണപ്പൊട്ടന്‍), в традиционен костюм, е обичай в южните части на Керала. _Onappottan_ посещава къщи по време на _onam_ и дава благословии. Отскоро _onappottan_ е рядкост, ограничена до села.“
+(Източник на изображението: [Подробности](/bg/licenses#lekt1904))
 :::
 
-**पण्डित m.:** Gelehrter, Weiser ; 3: klug, bewandert (in) &lt;!-- TODO: Fallback translation --&gt;
+
+**पण्डित м.род. (м.р.):** учен, мъдрец ; 3 л. м.р.: умен, запознат (в)
 
 ::: media
 ![](/images/lekt1903.jpg)
-Abb.: पण्डितः जवाहरलाल नेहरू
-(Bildquelle: [Details](/licenses#lekt1903)) &lt;!-- TODO: Fallback translation --&gt;
+Ил.: पण्डितः जवाहरलाल नेहरू
+१९५९
+(Източник на изображението: [Подробности](/bg/licenses#lekt1903))
 :::
 
-**सेव् 1 Ā सेवते Pass. सेव्यते PPP सेवित :** wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben &lt;!-- TODO: Fallback translation --&gt;
 
-**नि Präverb:** nieder, hinein &lt;!-- TODO: Fallback translation --&gt;
+**सेव् 3 л. м.р. **सेवते страд. **सेव्यते прич. мин. **सेवित :** живее при, обитава (вин.п., мест.п.) ; посещава, отива при (вин.п.) ; обслужва, грижи се, почита ; упражнява, използва ; присъства, има полов акт
 
-**सेव् + नि  1 Ā निषेवते :** wohnen bei, bewohnen, besuchen &lt;!-- TODO: Fallback translation --&gt;
+**नि предлог:** надолу, вътре
 
-**अमुत्र :** dort, im Jenseits &lt;!-- TODO: Fallback translation --&gt;
+**सेव् + नि  3 л. м.р. **निषेवते :** живее при, обитава, посещава
 
-**इह :** hier, im Diesseits &lt;!-- TODO: Fallback translation --&gt;
+**अमुत्र :** там, в отвъдното
 
-**विद् 6 U विन्दति Pass. विद्यते PPP विन्न / वित्त :** finden &lt;!-- TODO: Fallback translation --&gt;
+**इह :** тук, в този свят
 
-**भार्या f.:** zu Erhaltende = Gattin &lt;!-- TODO: Fallback translation --&gt;
+**विद् 6 л. м.р. **विन्दति страд. **विद्यते прич. мин. **विन्न / **वित्त :** намира
 
-**प्रिय 3:** lieb, angenehm &lt;!-- TODO: Fallback translation --&gt;
+**भार्या ж.род. (ж.р.):** която трябва да се запази = съпруга
 
-**मित्र n. (!):** Freund &lt;!-- TODO: Fallback translation --&gt;
+**प्रिय 3 л. м.р. :** любима, приятна
 
-**बान्धव m.:** Verwandter &lt;!-- TODO: Fallback translation --&gt;
+**मित्र ср.род. (с.р.) (!):** приятел
 
-**हि :** denn, ja nämlich (darf nie am Satzanfang stehen) &lt;!-- TODO: Fallback translation --&gt;
+**बान्धव м.род. (м.р.):** роднина
+
+**हि :** защото, всъщност (не трябва да стои в началото на изречението)
+
+
 
 ## 19.4. Упражнение
 
-**Übersetzen Sie ins Sanskrit:** &lt;!-- TODO: Fallback translation --&gt;
+**Преведете на санскрит:**
 
-1\. Die Vaiśyafrau, deren Sohn gestorben ist, weint. &lt;!-- TODO: Fallback translation --&gt;
+1. Жената вайшя, чийто син е починал, плаче.
 
-2\. Rāma opfert der Gottheit, die ihn behütet. &lt;!-- TODO: Fallback translation --&gt;
+2. Рама принася жертва на божеството, което го пази.
 
-3\. Der Dichter preist den Kṣatriya, dessen Reichtum er begehrt. &lt;!-- TODO: Fallback translation --&gt;
+3. Поетът възхвалява кшатрията, чието богатство той желае.
 
-4\. Feuer verbrennt das Haus des Mannes, der Agni nicht mit einem Opfer verehrt. &lt;!-- TODO: Fallback translation --&gt;
+4. Огънят изгаря къщата на мъжа, който не почита Агни с жертвоприношение.
 
-5\. Der tigergleiche Mann erschlägt die Kṣatriya-Krieger, die Rāma besiegt haben (Passiv). &lt;!-- TODO: Fallback translation --&gt;
+5. Мъжът, равен на тигър, убива кшатрия-воините, които са победили Рама (страдателен залог).
 
 ## 19.5. सुभाषितानि
 
-**Übersetzen Sie:** &lt;!-- TODO: Fallback translation --&gt;
+**Преведете:**
 
 ::: indent
 येन येन च वातेन  
@@ -212,7 +223,7 @@ Abb.: पण्डितः जवाहरलाल नेहरू
 छत्रं वहति पण्डितः ॥१॥
 :::
 
-Erklärung: वारि Nom., Akk. sg. zu वारि n.: Wasser &lt;!-- TODO: Fallback translation --&gt;
+Обяснение: वारि им. пад., вин. пад. ед. ч. към वारि ср. р.: вода
 
 ::: indent
 यो धर्ममर्थं कामं च  
@@ -221,7 +232,7 @@ Erklärung: वारि Nom., Akk. sg. zu वारि n.: Wasser &lt;!-- TODO:
 सो ऽमुत्रेह च विन्दति ॥२॥
 :::
 
-Erklärung: यथाकालम् Avyayībhāvakompositum: zur rechten Zeit ; immer, wenn dafür der rechte Zeitpunkt vorliegt. &lt;!-- TODO: Fallback translation --&gt;
+Обяснение: यथाकालम् аваяйбхавака-сложно име: навреме; винаги, когато за това има подходящ момент.
 
 ::: indent
 सा भार्या या प्रियं ब्रूते  
@@ -237,19 +248,17 @@ Erklärung: यथाकालम् Avyayībhāvakompositum: zur rechten Zeit ;
 यस्यार्थाः स हि पण्डितः ॥४॥
 :::
 
-Erklärung: पुमान् Nom. sg. zu पुंस् "Mann" ; लोके Lokativ sg. zu लोक m.: in der ... &lt;!-- TODO: Fallback translation --&gt;
+Обяснение: पुमान् им. пад. ед. ч. към पुंस् „мъж“; लोके локатив ед. ч. към लोक м. р.: в ...
 
 ::: deleteme-box
 
-### Източници
+**lekt1809:** Илюстрация към कामसूत्र [Източник на изображението: Уикипедия, Обществен достояние]
 
-**lekt1809:** Illustration zum कामसूत्र [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt1901:** Бадами (ಬದಾಮಿ) [Източник на изображението: Сударшан Бхат Кхандидже / Уикипедия, Обществен достояние]
 
-**lekt1901:** Badami (ಬದಾಮಿ) [Bildquelle: Sudarshan Bhat Khandige / Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt1902:** Гоа (गोंय) [Източник на изображението: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Достъп на 2008-12-08. -- Лиценз „Криейтив Коменс“ (Приписване, Нekomърсиално, Без производни)]
 
-**lekt1902:** Goa (गोंय) [Bildquelle: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt1903:** १९५९ [Източник на изображението: Уикипедия, Обществен достояние]
 
-**lekt1903:** १९५९ [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages." [Bildquelle: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt1904:** „_Onappottan_ (ഓണപ്പൊട്ടന്‍), в традиционен костюм, е обичай в южните части на Керала. _Onappottan_ посещава къщи по време на _onam_ и дава благословии. Отскоро _onappottan_ е рядкост, ограничена до села.“ [Източник на изображението: Капитан Нидиш. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Достъп на 2008-12-08. -- Лиценз „Криейтив Коменс“ (Приписване)]
 :::

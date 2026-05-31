@@ -1,8 +1,15 @@
+---
+title: Урок 41
+subtitle: "सुभाषिते  (две пословицы)"
+lesson_id: 41
+last_reconstructed: 2026-05-21
+category: "Грамматика"
+status: stable
+---
 
+# Урок 41
 
-# Lektion 41
-
-## 41.1. सुभाषिते  (zwei Sprichwörter)
+## 41.1. सुभाषिते  (два пословицы)
 
 ::: indent
 पुस्तकस्था च या विद्या  
@@ -11,10 +18,12 @@
 न सा विद्या न तद्धनम् ॥१॥
 :::
 
-Пояснение: पर «другой»
+Объяснение: पर "другой"
 
 ::: media
-पुस्तकस्था च या विद्या  
+![lekt4102.jpg](/images/lekt4102.jpg)
+Рис.: पुस्तकस्था च या विद्या ...
+(Источник изображения: [Детали](/ru/licenses#lekt4102))
 :::
 
 ::: indent
@@ -24,315 +33,316 @@
 केवलं विषवर्धनम् ॥२॥
 :::
 
-Пояснение: पयस् ср. = दुग्धम्
+Объяснение: पयस् м.р. = दुग्धम्
 
-## 41.2. Weitere कृत्-Образованиеen auf -a
+## 41.2. Дополнительные образования कृत् на -a
 
-### 41.2.1. Partizip Настоящее время (लडादेशः) Ā, Partizip Настоящее время (लडादेशः) Passiv, Partizip Будущее время (ऌडादेशः) Ā
+### 41.2.1. Причастие настоящего времени (लडादेशः) Ā, Причастие настоящего времени (लडादेशः) страдательного залога, Причастие будущего времени (ऌडादेशः) Ā
 
-#### 41.2.1.1. Thematische Präsensstämme, Passiv und Futur <!-- TODO: Fallback translation -->
-
-::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
-
-Präsensstamm / Passivstamm / Futurstamm + -māna (fem. mānā) <!-- TODO: Fallback translation -->
-:::
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-यज् 1U, Part.Präs.Ā यजमान 3 "jemand, der im eignen Interesse mit einem Opfer verehrt = Opferherr" <!-- TODO: Fallback translation -->
-
-मन् 4Ā, Part.Präs.Ā  मन्यमान 3 "ein denkender" <!-- TODO: Fallback translation -->
-
-कृ 8U, Part.Präs.Passiv क्रियमाण 3 "etwas, das getan wird" <!-- TODO: Fallback translation -->
-
-दा 3U, Part.Fut.Ā दास्यमान 3 "jemand, der im eignen Interesse geben wird" <!-- TODO: Fallback translation -->
-
-#### 41.2.1.2. Athematische Präsensklassen <!-- TODO: Fallback translation -->
+#### 41.2.1.1. Тематические основы настоящего времени, страдательный залог и будущее время
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Образование:**
 
-Schwacher Präsensstamm (in der Form, die er vor der Endung -ate der 3.pl.Ā hat) + -āna (fem. -ānā) <!-- TODO: Fallback translation -->
+Основа настоящего/страдательного/будущего времени + -māna (ж.р. mānā)
 :::
 
-Beispiele: <!-- TODO: Fallback translation -->
+Примеры:
+
+यज् 1U, прич. наст. Ā यजमान 3 «тот, кто почитается жертвой в собственных интересах = хозяин жертвы»
+
+मन् 4Ā, прич. наст. Ā मन्यमान 3 «мыслящий»
+
+कृ 8U, прич. наст. страд. क्रियमाण 3 «то, что делается»
+
+दा 3U, прич. буд. Ā दास्यमान 3 «тот, кто даст в собственных интересах»
+
+#### 41.2.1.2. Атематические классы настоящего времени
 
 ::: grammar-box
-| Wurzel / Klasse | Partizip Präsens Ā | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **द्विष्** 2U | द्विषाण | <!-- TODO: Fallback translation -->
-| **हु** 3P | &lt;जुह्वान&gt;[[br]]ju-hu + āna | <!-- TODO: Fallback translation -->
-| **सु** 5U | सुन्वान[[br]]su-nu + āna | <!-- TODO: Fallback translation -->
-| **रुध्** 7U | रुन्धान[[br]]ru-n-dh-āna | <!-- TODO: Fallback translation -->
-| **तन्** 8U | तन्वान[[br]]tan-u + āna | <!-- TODO: Fallback translation -->
-| **क्री** 9U | क्रीणान[[br]]krī + n-āna | <!-- TODO: Fallback translation -->
+**Образование:**
+
+Слабая основа настоящего времени (в форме, которую она имеет перед окончанием -ate 3.l.Ā) + -āna (ж.р. -ānā)
 :::
 
-### 41.2.2. "Partizip" der passiven Notwendigkeit (Gerundivum) (कृत्य)
+Примеры:
 
 ::: grammar-box
-Um die passive Notwendigkeit auszudrücken ("was getan werden muss/soll"), kann man Adjektive aus Wurzeln und abgeleiteten Verbalstämmen wahlweise mit folgenden Suffixen bilden: &lt;!-- TODO: Fallback translation --&gt;
-
-* \-तव्य (fem. -तव्या) &lt;!-- TODO: Fallback translation --&gt;
-* #### 41.2.2.2. Das Suffix -अनीय / -अनीया &lt;!-- TODO: Fallback translation --&gt;
-* \-य (fem. -या) &lt;!-- TODO: Fallback translation --&gt;
-* \-त्य (fem. -त्या) (statt -य/-या) &lt;!-- TODO: Fallback translation --&gt;
+| Корень / Класс | Причастие настоящего времени Ā |
+| :--- | :--- |
+| **द्विष्** 2U | द्विषाण |
+| **हु** 3P | &lt;जुह्वान&gt;[[br]]ju-hu + āna |
+| **सु** 5U | सुन्वान[[br]]su-nu + āna |
+| **रुध्** 7U | रुन्धान[[br]]ru-n-dh-āna |
+| **तन्** 8U | तन्वान[[br]]tan-u + āna |
+| **क्री** 9U | क्रीणान[[br]]krī + n-āna |
 :::
 
-#### 41.2.2.1. Das Suffix -तव्य / -तव्या &lt;!-- TODO: Fallback translation --&gt;
+### 41.2.2. «Причастие» пассивной необходимости (герундив) (कृत्य)
 
 ::: grammar-box
-Das Suffix -तव्य / -तव्या wird an Wurzeln und abgeleitete Verbalstämme (z.B. Kausativ) auf dieselbe Weise angefügt wie das Infinitivsuffix -तुम् (s. [Lektion 23](lektion23.md)), d.h. &lt;!-- TODO: Fallback translation --&gt;
+**Чтобы выразить пассивную необходимость («то, что должно быть сделано»), можно образовать прилагательные от корней и производных глагольных основ с помощью следующих суффиксов:**
 
-* hochstufige Корень + तव्य &lt;!-- TODO: Fallback translation --&gt;
-
-oder &lt;!-- TODO: Fallback translation --&gt;
-
-* hochstufige Корень + -i- + तव्य &lt;!-- TODO: Fallback translation --&gt;
-
-Im Kausativ: &lt;!-- TODO: Fallback translation --&gt;
-
-* Kasusativstamm auf -ay + -i- + तव्य &lt;!-- TODO: Fallback translation --&gt;
+* **-तव्य** (ж.р. **-तव्या**)
+* **-अनीय** (ж.р. **-अनीया**)
+* **-य** (ж.р. **-या**)
+* **-त्य** (ж.р. **-त्या**) (вместо **-य**/**-या**)
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+#### 41.2.2.1. Суффикс -तव्य / -तव्या
+
+::: grammar-box
+**Суффикс -तव्य / -तव्या присоединяется к корням и производным глагольным основам (например, каузативу) тем же способом, что и суффикс инфинитива -तुम् (см. [Урок 23](lektion23.md)), то есть**
+
+* **корень в сильной степени + तव्य**
+
+или
+
+* **корень в сильной степени + -i- + तव्य**
+
+**В каузативе:**
+
+* **основа каузатива на -ay + -i- + तव्य**
+:::
+
+Примеры:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| जि 1P | जेतव्य 3 | "jemand, der besiegt werden muss; ein zu besiegender" |
-| वृत् 1Ā | वर्तितव्य 3 | "das, wo man sich befinden soll" |
-| बुध् Kaus. | बोधयितव्य | "jemand, der geweckt werden soll; ein zu erweckender" |
+| जि 1P | जेतव्य 3 | «тот, кого нужно победить; тот, кого следует победить» |
+| वृत् 1Ā | वर्तितव्य 3 | «то, где следует находиться» |
+| बुध् Каз. | बोधयितव्य | «тот, кого следует разбудить; тот, кого следует разбудить» |
 
 :::
 
-Hochstufige Wurzel + -अनीय / -अनीया &lt;!-- TODO: Fallback translation --&gt;
+#### 41.2.2.2. Суффикс -अनीय / -अनीया
 
 ::: grammar-box
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+**Образование:**
 
-Wurzel, wie sie im Kausativstamm erscheint, ohne -aya- + -अनीय / -अनीया &lt;!-- TODO: Fallback translation --&gt;
+Корень в сильной степени + -अनीय / -अनीया
 
-Kausativ und 10. Präsensklasse: &lt;!-- TODO: Fallback translation --&gt;
+**Каузатив и 10-й класс настоящего времени:**
 
-\-अनीय (fem. -अनिईया) &lt;!-- TODO: Fallback translation --&gt;
+Корень в том виде, в котором он появляется в основе каузатива, без -aya- + -अनीय / -अनीया
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примеры:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| दा 3U | दानीय 3 | "zu gebendes; was gegeben werden muss" |
-| जि 1P | जयनीय 3 | "zu besiegender" |
-| कृ 8U | करणीय 3 | "zu tuendes" |
-| दृश् | दर्शनीय 3 | "was man sehen muss; sehenswertes" |
-| बुध् Kaus. | बोधनीय 3[[br]]bodh-aya - aya + -anīya | "ein zu weckender" |
-| दा Kaus. | दापनीय 3[[br]]dā-paya - aya + -anīya | "was man geben lassen muss" |
+| दा 3U | दानीय 3 | «то, что следует дать; то, что должно быть дано» |
+| जि 1P | जयनीय 3 | «тот, кого следует победить» |
+| कृ 8U | करणीय 3 | «то, что следует сделать» |
+| दृश् | दर्शनीय 3 | «то, что следует увидеть; достойное зрения» |
+| बुध् Каз. | बोधनीय 3[[br]]bodh-aya - aya + -anīya | «тот, кого следует разбудить» |
+| दा Каз. | दापनीय 3[[br]]dā-paya - aya + -anīya | «то, что следует дать» |
 
 :::
 
-#### 41.2.2.3. Das Suffix -य / -या &lt;!-- TODO: Fallback translation --&gt;
+#### 41.2.2.3. Суффикс -य / -या
 
 ::: grammar-box
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+**Образование:**
 
-Wurzel (in Tief-, Hoch- oder Dehnstufe) + -य &lt;!-- TODO: Fallback translation --&gt;
+Корень (в слабой, сильной или усиленной степени) + -य
 
-Die genauen Regeln siehe bei Kielhorn, Grammatik der Sanskrit-Sprache, S. 195 - 197! &lt;!-- TODO: Fallback translation --&gt;
+Точные правила см. у Кильгорна, «Грамматика санскритского языка», стр. 195 - 197!
 :::
 
-Behandlung auslautender Vokale: &lt;!-- TODO: Fallback translation --&gt;
+Обработка конечных гласных:
 
 ::: grammar-box
-1\. Wurzeln auf -ā bilden dieses Gerundiv auf -eya &lt;!-- TODO: Fallback translation --&gt;
+**1. Корни на -ā образуют этот герундив на -eya**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примеры:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ज्ञा 9U | ज्ञेय 3 | "zu wissendes; was erkannt werden muss" |
-| दा 3U | देय 3 | "was gegeben werden muss" |
+| ज्ञा 9U | ज्ञेय 3 | «то, что следует знать; то, что должно быть познано» |
+| दा 3U | देय 3 | «то, что следует дать» |
 
 :::
 
 ::: grammar-box
-2\. Wurzeln auf -i /-ī / -u / -ū /-ṛ haben in der Regel Hoch- oder Dehnstufe, es sei denn sie gehören zu denjenigen Wurzeln auf -i / -u /-ṛ, die ein Gerundiv mit dem Suffix -त्य (fem. -त्या) bilden (Liste dieser Wurzeln bei Kielhorn, Grammatik §537). &lt;!-- TODO: Fallback translation --&gt;
+**2. Корни на -i /-ī / -u / -ū /-ṛ обычно имеют сильную или усиленную степень, за исключением тех корней на -i / -u /-ṛ, которые образуют герундив с суффиксом -त्य (ж.р. -त्या) (список этих корней у Кильгорна, «Грамматика» §537).**
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| स्मृ 1P | स्मर्य 3 | "woran man sich erinnern muss" |
+| स्मृ 1P |  स्मर्य 3 | «о том, о чем следует вспомнить» |
 
 :::
 
 ::: grammar-box
-2a. Wurzeln auf -i/-ī haben Hochstufe &lt;!-- TODO: Fallback translation --&gt;
+**2a. Корни на -i/-ī имеют сильную степень**
 :::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примеры:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| विक्री 9Ā | विक्रेय 3 | "zu verkaufen; verkäuflich" |
-| नी 1U | नेय 3 | "zu führender" |
+| विक्री 9Ā | विक्रेय 3 | «то, что следует продать; продаваемый» |
+| नी 1U | नेय 3 | «тот, кого следует вести» |
 
 :::
 
 ::: media
 ![lekt4103.jpg](/images/lekt4103.jpg)
-Abb.: विक्रेयाणि पुष्पानि
-(Bildquelle: [Details](/licenses#lekt4103)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: विक्रेयाणि पुष्पानि
+(Источник изображения: [Подробности](/ru/licenses#lekt4103))
 :::
 
 ::: grammar-box
-2b. Wurzeln auf -u /-ū ersetzen das hochstufige -o vor dem -ya durch -av, das dehnstufige -au durch -āv. Dehnstufige Bildung bedeutet in diesem Fall Notwendigkeit. &lt;!-- TODO: Fallback translation --&gt;
+**2b. Корни на -u /-ū заменяют сильную степень -o перед -ya на -av, а усиленную степень -au на -āv. Образование в усиленной степени означает в данном случае необходимость.**
+
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| स्तु 2U | स्तव्य 3 | "was gepriesen werden soll" |
-|   | स्ताव्य 3 | "was notwendig gepriesen werden muss" |
+| स्तु 2U | स्तव्य 3 | «то, что следует прославлять» |
+|   | स्ताव्य 3 | «то, что необходимо прославлять» |
 
 :::
 
-Beispiele für konsonantisch auslautende Wurzeln (Regeln s. Kielhorn, Grammatik § 533ff.): &lt;!-- TODO: Fallback translation --&gt;
+Примеры корней с согласным окончанием (см. правила в Кильхорне, Грамматика § 533 сл.):
 
-Tiefstufige Bildung: &lt;!-- TODO: Fallback translation --&gt;
+Форма глубокого ступени:
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примеры:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| दृश् | दृश्य 3 | "sehenswert" |
-| शास् 2P | शिष्य 3 | "jemand, der zu belehren ist = Schüler" |
+| दृश् | दृश्य 3 | «заслуживающий видения» |
+| शास् 2P | शिष्य 3 | «тот, кого следует учить = ученик» |
 
 :::
 
 ::: media
 ![lekt4106.jpg](/images/lekt4106.jpg)
-Abb.: दृश्यो मन्दिरः
-(Bildquelle: [Details](/licenses#lekt4106)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: दृश्यो मन्दिरः
+(Источник изображения: [Подробности](/ru/licenses#lekt4106))
 :::
 
-Hochstufige Bildung: &lt;!-- TODO: Fallback translation --&gt;
+Форма высокой ступени:
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Примеры:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| द्विष् 2U | द्वेष्य 3 | "zu hassender = Feind" |
-| भिद् 7U | भेद्य 3 | "zu spaltender" |
+| द्विष् 2U | द्वेष्य 3 | «тот, кого следует ненавидеть = враг» |
+| भिद् 7U | भेद्य 3 | «тот, кого следует раскалывать» |
 
 :::
 
 ::: grammar-box
-Kausative und Verben der 10. Präsensklasse (चुरादि) &lt;!-- TODO: Fallback translation --&gt;
+**Каузатив и глаголы 10-го класса настоящего времени (चुरादि)**
 
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+**Образование:**
 
-Kausativ-/Präsensstamm ohne -aya- + -य &lt;!-- TODO: Fallback translation --&gt;
+Каузативный/настоящий корень без -aya- + -य
 :::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Пример:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| मन् Kausativ¹ | मान्य 3[[br]]mān-aya - aya + ya | "zu ehrender, hochverehrter" |
+| मन् Каузатив¹ | मान्य 3[[br]]mān-aya - aya + ya | «тот, кого следует почитать, высокочтимый» |
 
 :::
 ::: indent
-1 eigentl. Denominativ zu मान &lt;!-- TODO: Fallback translation --&gt;
+¹ по существу, денуминатив к **मान**
 :::
 
 ::: media
 ![lekt4107.jpg](/images/lekt4107.jpg)
-Abb.: मान्यः
-(Bildquelle: [Details](/licenses#lekt4107)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: मान्यः
+(Источник изображения: [Подробности](/ru/licenses#lekt4107))
 :::
 
-#### 41.2.2.4. Das Suffix -त्य / त्या (statt -य / -या) &lt;!-- TODO: Fallback translation --&gt;
+#### 41.2.2.4. Суффикс -त्य / त्या (вместо -य / -या)
 
 ::: grammar-box
-Liste der Wurzeln auf -i / -u /-ṛ, die ein Gerundiv statt mit -य / -या mit dem Suffix -त्य (fem. -त्या) bilden, bei Kielhorn, Grammatik §537. &lt;!-- TODO: Fallback translation --&gt;
+Список корней на -i / -u /-ṛ, которые образуют герундив не с помощью -य / -या, а с помощью суффикса -त्य (ж.р. -त्या), см. Кильхорн, Грамматика §537.
 
-&lt;!-- TODO: Fallback translation --&gt;
+**Образование:**
 
-tiefstufige Wurzel + -त्य् / -त्या &lt;!-- TODO: Fallback translation --&gt;
+корень глубокой ступени + -त्य / -त्या
 :::
 
-Bildung: &lt;!-- TODO: Fallback translation --&gt;
+Примеры:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| इ 2P | इत्य 3 | "zu gehender" |
-| श्रु 5P | श्रुत्य 3 | "zu hörender" |
-| कृ 8U | कृत्य 3 | "zu tuender" |
+| इ 2P | इत्य 3 | «тот, кого следует идти» |
+|  श्रु 5P |  श्रुत्य 3 | «тот, кого следует слушать» |
+| कृ 8U | कृत्य 3 | «тот, кого следует делать» |
 
 :::
 
-### 41.2.3. Syntaktisches zum "Partizip" der passiven Notwendigkeit (Gerundivum) (कृत्य)
+### 41.2.3. Синтаксис «деепричастия» пассивной необходимости (герундив) (कृत्य)
 
 :::: grammar-box
-Das Gerundiv kann atttributiv verwendet werden: &lt;!-- TODO: Fallback translation --&gt;
+Герундив может использоваться в качестве определения:
 
 ::: indent
-दर्शनीयं बगरम् = "eine Stadt, die man sehen muss; eine sehenswerte Stadt" &lt;!-- TODO: Fallback translation --&gt;
+**दर्शनीयं नगरम्** = «город, который нужно увидеть; достопримечательный город»
 :::
 
-Das Gerundiv kann auch als Prädikatsnomen in Sätzen mit Passivkonstruktion verwendet werden, die eine Verpflichtung oder einen Befehl ausdrücken (mit न ein Verbot, eine Unmöglichkeit): &lt;!-- TODO: Fallback translation --&gt;
+Герундив также может выступать в роли именного сказуемого в предложениях с пассивной конструкцией, выражающих обязательство или приказ (с न — запрет, невозможность):
 
 ::: indent
-काशी द्विजैर्द्रष्टवया = "Zweimalgeborene müssen Benares sehen" &lt;!-- TODO: Fallback translation --&gt;
+**काशी द्विजैर्द्रष्टव्या** = «Дваждырожденные должны увидеть Варанаси»
 :::
 ::::
 
 ::: media
 ![lekt4108.jpg](/images/lekt4108.jpg)
-Abb.: दर्शनीयं नगरं काशी
-(Bildquelle: [Details](/licenses#lekt4108)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: दर्शनीयं नगरं काशी
+(Источник изображения: [Детали](/ru/licenses#lekt4108))
 :::
 
-### 41.2.4. Unterschiede im Употребление der Gerundiv-Suffixe
+### 41.2.4. Различия в употреблении суффиксов герундива
 
 ::: grammar-box
-Weitgehend überschneidet sich der Gebrauch dieser Suffixe <!-- TODO: Fallback translation -->
+Употребление этих суффиксов в значительной степени перекрывается
 
-* **-तव्य (fem. -तव्या):** drückt immer eine Notwendigkeit aus und wird bevorzugt prädikativ gebraucht (seltener attributiv). Образованиеen mit diesem Suffix sollen nicht in Nominalkomposita verwendet werden. <!-- TODO: Fallback translation -->
-* **-अनीय (fem. -अनीया) und -य (fem. -या) / -त्य (fem. -त्या) (statt -य/-या):** können eine weitere Bedeutung haben (bes. -य) im Sinne des deutschen "-wert" (z.B. "sehenswert") oder nur einer Möglichkeit "-bar" (दृश्य "sichtbar"). Образованиеen mit diesen Suffixen können mit अ-/-अन्- verneint werden (nicht aber Образованиеen mit -तव्य) und es gibt तत्पुरुष als deren Hinterglied sie vorkommen. <!-- TODO: Fallback translation -->
+* **-तव्य (ж.р. -तव्या):** всегда выражает необходимость и предпочтительно используется предикативно (реже атрибутивно). Образования с этим суффиксом не должны использоваться в номинальных композитах.
+* **-अनीय (ж.р. -अनीया) и -य (ж.р. -या) / -त्य (ж.р. -त्या) (вместо -य/-या):** могут иметь дополнительное значение (особ. -य) в смысле немецкого "-wert" (например, "sehwert" — "заслуживающий просмотра") или только возможности "-bar" (दृश्य "видимый"). Образования с этими суффиксами могут отрицаться с помощью अ/-अन् (но не образования с -तव्य), и существуют तत्पुरुष в качестве их последующего компонента, в котором они встречаются.
 :::
 
-### 41.2.5. Keine Verbindung mit सु- und दुस्-
+### 41.2.5. Отсутствие связи с सु- и दुस्-
 
 ::: grammar-box
-Mit सु- und दुस्- in der Bedeutung "leicht" bzw. "schwer" dürfen Gerundive nicht verbunden werden. Statt dessen stehen तत्पुरुष vom Typ सुकर 3 ("leicht zu tun") (s. [Lektion 18](lektion18.md)) &lt;!-- TODO: Fallback translation --&gt;
+С सु- и दुस्- в значении «лёгкий» или «тяжёлый» герундивы не могут соединяться. Вместо этого используются तत्पुरुष типа सुकर 3 («лёгкий для выполнения») (см. [Урок 18](lektion18.md)).
 :::
 
-## 41.3. Словарь
+## 41.3. Список слов
 
 मूर्ख m = मूढ
 
@@ -341,76 +351,81 @@ Mit सु- und दुस्- in der Bedeutung "leicht" bzw. "schwer" dürfen Ge
 ::: media
 ![lekt4105.jpg](/images/lekt4105.jpg)
 Рис.: भुजङ्गः
-(Источник изображения: [Подробнее](/licenses#lekt4105))
+(Источник изображения: [Детали](/ru/licenses#lekt4105))
 :::
 
-केवलम् Adv.: только, единственно, полностью
+केवलम् Adv.: только, один, полностью
 
 विष n.: яд
 
 ::: media
 ![lekt4104.jpg](/images/lekt4104.jpg)
 Рис.: भुजङ्गस्य विषम्
-(Источник изображения: [Подробнее](/licenses#lekt4104))
+(Источник изображения: [Детали](/ru/licenses#lekt4104))
 :::
 
-शास् 2P शास्ति : укорять, подчинять, повелевать, учить
+शास् 2P शास्ति : укорять, контролировать, приказывать, учить
 
 ::: indent
-имеет слабую основу настоящего времени शिष् : शिष्मस् , однако 3-е лицо мн. ч. Пра. имеет сильную основу: ***शासति*** (!! окончание -ati) наряду с редким शासन्ति. ашаосур. Также всё Атманапада, насколько оно встречается, имеет сильную основу: शास्ते
+имеет слабую основу настоящего времени **शिष्** : **शिष्मस्**, но 3-е л. мн. ч. Ind. имеет сильную основу: **शासति** (!! окончание -ati) наряду с иногда встречающимся **शासन्ति**. **अशासुर्**. Также всё आत्मनेपद имеет, насколько известно, сильную основу: **शास्ते**
 
-Пасс. -शास्यते । शिष्यते  
+Перф. I **शशास**, **शशासुर्**  
+Fut. **शासिष्यति**  
+Pass. **-शास्यते** । **शिष्यते**  
+PPP **शिष्ट** : обученный, мудрый  
+Inf. **शासितुम्**  
+Absol. **-शिष्य** । **-शास्य**
 
-от этого:
+от него:
 
-शासना f.: королевский эдикт, учение, религия
+**शासना** f.: королевский эдикт, учение, религия
 :::
 
 ::: media
 ![lekt4109.jpg](/images/lekt4109.jpg)
 Рис.: शासना
-(Источник изображения: [Подробнее](/licenses#lekt4109))
+(Источник изображения: [Детали](/ru/licenses#lekt4109))
 :::
 
 ::: indent
-शास्त्र n.: учение, учебное сочинение
+**शास्त्र** n.: учение, учебное сочинение
 
-शास्त्रिन् m.: ученый, учёный
+**शास्त्रिन्** m.: учёный, учёный человек
 :::
 
 ::: media
 ![lekt4110.jpg](/images/lekt4110.jpg)
 Рис.: शास्त्री
-(Источник изображения: [Подробнее](/licenses#lekt4110))
+(Источник изображения: [Детали](/ru/licenses#lekt4110))
 :::
 
 ::: indent
-Абсол. -शिष्य । -शास्य
+**शिष्य** 3: тот, кого следует учить = ученик
 :::
 
-शरण 3: защищающий, покровительствующий; n. защита, прибежище, обращение за убежищем
+शरण 3: защищающий, покровительствующий; n. защита, прибежище, обращение за прибежищем
 
-सङ्घ n.: (от सम्-हन् : вместе-бить): толпа, скопление, община (напр., буддийская)
+सङ्घ n.: (к सम्-हन् : вместе-ударять): группа, скопление, община (например, буддийская)
 
 ::: deleteme-box
-Перф. I शशास, शशासुр  
-
 см. также:
+
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Основные понятия правил монашеской дисциплины и монашеского права Тхеравады. -- Часть I. -- (Материалы по основным понятиям буддизма). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 
 कन्या f.: молодая девушка, дочь, дева
 
-अति Предлог: над, сверх, за (в пространстве, во времени, по количеству, по числу, по порядку, по силе, по интенсивности), чрезвычайно
+अति Префикс: над, сверх- (в пространстве, во времени, по количеству, по числу, в порядке, по силе, по интенсивности), чрезвычайно
 
 इ + अति 2P अत्येति : проходить мимо
 
 ::: indent
-PPP अतीत : n. прошлое
+PPP **अतीत** : n. прошлое
 :::
 
 ## 41.4. Упражнение
 
-A) Переведите два пословицы, приведенные в начале урока.
+A) Переведите два пословицы в начале урока.
 
 B) Переведите:
 
@@ -421,7 +436,7 @@ B) Переведите:
 ::: media
 ![lekt4111.jpg](/images/lekt4111.jpg)
 Рис.: काशीं पत्स्ये गङ्गां द्रक्ष्यामि ...
-(Источник изображения: [Детали](/licenses#lekt4111))
+(Источник изображения: [Детали](/ru/licenses#lekt4111))
 :::
 
 कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥३॥
@@ -432,16 +447,15 @@ B) Переведите:
 
 ::: deleteme-box
 
-### Источники
+- **Изображение lekt4102.jpg** (Рис.: पुस्तकस्था च या विद्या ...): Бхубанешвар = ଭୁବନେଶ୍ବର [Источник изображения: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Доступ по состоянию на 2009-01-02. -- Лицензия Creative Commons (с указанием авторства, некоммерческое использование)]
+- **Изображение lekt4103.jpg** (Рис.: विक्रेयाणि पुष्पानि): महाराष्टре [Источник изображения: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Доступ по состоянию на 2009-01-03. -- Лицензия Creative Commons (с указанием авторства, некоммерческое использование, без производных произведений)]
+- **Изображение lekt4106.jpg** (Рис.: दृश्यो मन्दिरः): Храм Бахаи, Дели [Источник изображения: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- Доступ по состоянию на 2009-01-03. -- Лицензия Creative Commons (с указанием авторства, некоммерческое использование, share alike)]
+- **Изображение lekt4107.jpg** (Рис.: मान्यः): Д-р Бхимрао Рамджи Амбедкар = डॊ.भीमराव रामजी आंबेडकर (1891 - 1956) [Источник изображения: Википедия. Общественное достояние]
+- **Изображение lekt4108.jpg** (Рис.: दर्शनीयं नगरं काशी): काशी द्विजैर्द्रष्टवया, मणिकर्णिका घाट, 1922 [Источник изображения Библиотека Конгресса/Википедия. Общественное достояние]
+- **Изображение lekt4105.jpg** (Рис.: भुजङ्गः): Полосатый крайт (_Bungarus fasciatus_) [Источник изображения: J. Ewart. The poisonous snakes of India, 1878. Общественное достояние]
+- **Изображение lekt4104.jpg** (Рис.: भुजङ्गस्य विषम्): Доение яда крайта (крайт), Таиланд [Источник изображения: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Доступ по состоянию на 2009-01-03. -- Лицензия Creative Commons (с указанием авторства)]
+- **Изображение lekt4109.jpg** (Рис.: शासना): Эдикт Ашоки, Даули, Орисса [Источник изображения: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Доступ по состоянию на 2009-01-03. -- Лицензия Creative Commons (с указанием авторства, некоммерческое использование)]
+- **Изображение lekt4110.jpg** (Рис.: शास्त्री): Макс Мюллер (1823 - 1900), ок. 1898 [Источник изображения: Википедия. Общественное достояние]
+- **Изображение lekt4111.jpg** (Рис.: काशीं पत्स्ये गङ्गां द्रक्ष्याมิ ...): [Источник изображения: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Доступ по состоянию на 2009-01-04. -- Лицензия Creative Commons (с указанием авторства, без производных произведений)]
 
-- **Image lekt4102.jpg** (Рис.: पुस्तकस्था च या विद्या ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Источник изображения: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
-- **Image lekt4103.jpg** (Рис.: विक्रेयाणि पुष्पानि): महाराष्टre [Источник изображения: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt4106.jpg** (Рис.: दृश्यो मन्दिरः): Bahá'í House of Worship, Delhi [Источник изображения: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-- **Image lekt4107.jpg** (Рис.: मान्यः): Dr. Bhimrao Ramji Ambedkar = डॊ.भीमराव रामजी आंबेडकर (1891 - 1956) [Источник изображения: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-- **Image lekt4108.jpg** (Рис.: दर्शनीयं नगरं काशी): काशी द्विजैर्द्रष्टवया, मणिकर्णिका घाट, 1922 [Bildquelle LoC/Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-- **Image lekt4105.jpg** (Рис.: भुजङ्गः): Banded Krait (_Bungarus fasciatus_) [Источник изображения: J. Ewart. The poisonous snakes of India, 1878. Public domain] <!-- TODO: Fallback translation -->
-- **Image lekt4104.jpg** (Рис.: भुजङ्गस्य विषम्): Melken von Schlangengift (Krait), Thailand [Источник изображения: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
-- **Image lekt4109.jpg** (Рис.: शासना): Ashoka-Edikt, Dhauli, Orissa [Источник изображения: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Zugriff am 2009-01-03. -- Creative commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
-- **Image lekt4110.jpg** (Рис.: शास्त्री): Max Müller (1823 - 1900), ca. 1898 [Источник изображения: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-- **Image lekt4111.jpg** (Рис.: काशीं पत्स्ये गङ्गां द्रक्ष्याมิ ...): [Источник изображения: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 :::

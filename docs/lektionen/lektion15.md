@@ -1,6 +1,10 @@
 ---
+title: Lektion 15
+subtitle: "सुभाषितम्"
 lesson_id: 15
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 15
@@ -137,27 +141,30 @@ Wäre auch auflösbar: देवस्य / देवानां कृतम�
 
 ## 15.5. Zerlegung von Komposita (außer Dvandvas)
 
-::: grammar-box
-
+:::: grammar-box
 Obwohl im Sanskrit Komposita beliebiger Länge gebildet werden können und auch sehr häufig gebildet werden (Komposita aus 10 bis 30 Gliedern sind keine Seltenheit!), so sind doch - mit Ausnahme der Dvandvas - alle Komposita fortschreitend hierarchisch in je zwei Teile zu zerlegen:
 
 ::: media
-![]/images/lekt1502.jpg
+![](/images/lekt1502.jpg)
+Abb.: समासविच्छेदः
 (Bildquelle: [Details](/licenses#lekt1502))
 :::
+
 u.s.w. bis man zu den einzelnen Wortstämmen kommt.
 
 z.B.
 
 गुणवत्पुत्रकृतपुण्यम्
 
-> 1\. Stufe (Hauptzäsur): गुणवत्पुत्रकृतं ॥१॥ पुण्यम्
-> 
-> 2\. Stufe (1. Nebenzäsur): गुणवत्पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
-> 
-> 3\. Stufe (2. Nebenzäsur): गुणवता॥३॥ पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
-> 
-> = "die verdienstvolle Tat (das Verdienst), die mein tugendhafter Sohn getan hat"
+::: indent
+1\. Stufe (Hauptzäsur): गुणवत्पुत्रकृतं ॥१॥ पुण्यम्
+
+2\. Stufe (1. Nebenzäsur): गुणवत्पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
+
+3\. Stufe (2. Nebenzäsur): गुणवता॥३॥ पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
+
+= "die verdienstvolle Tat (das Verdienst), die mein tugendhafter Sohn getan hat"
+:::
 
 Dabei können verschiedene Arten von Komposita gemischt werden, z.B. Vorderglied: Bahuvrīhi (बहुव्रीहि) - Hinterglied: Tatpuruṣa usw.
 
@@ -165,11 +172,13 @@ z.B.
 
 ब्राह्मणक्षत्रियवैश्यधर्मः
 
-> 1\. Stufe: ब्राह्मणक्षत्रियवैश्यानां धर्मः (Vorderglied: Itaretaradvandva)
-> 
-> 2\. Stufe: ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः
-> 
-> = "der Dharma von Brahmanen, Kṣatriyas und Vaiśyas"
+::: indent
+1\. Stufe: ब्राह्मणक्षत्रियवैश्यानां धर्मः (Vorderglied: Itaretaradvandva)
+
+2\. Stufe: ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः
+
+= "der Dharma von Brahmanen, Kṣatriyas und Vaiśyas"
+:::
 
 Sehr oft gibt es für ein Kompositum verschiedene Möglichkeiten der Auflösung. Welches die richtige oder zumindest die beste ist, kann nur aus dem Kontext und dem Inhalt des Textes entschieden werden. Manchmal ist eine solche Entscheidung nicht möglich. Oft sind zwei Auflösungsmöglichkeiten vermutlich vom Autor intendiert. Dann muss man in der Übersetzung beide Auflösungsmöglichkeiten wiedergeben (verbunden mit "und", "oder" "bzw." und dergleichen.
 
@@ -177,20 +186,21 @@ z.B.
 
 पुण्यवत्पुत्रकृतम्
 
-> 1\. Stufe: entweder - oder
-> 
-> 1. पुण्यवत्पुत्रेण कृतम्
-> 2. पुण्यवत्पुत्रस्य कृतम्
-> 3. पुण्यवत् पुत्रकृतम्
-> 
-> 2\. Stufe: entsprechend
-> 
-> 1. पुण्यवता पुत्रेण कृतम् = "das von meinem verdienstreichen Sohn Getane"
-> 2. पुण्यवतः पुत्रस्य कृतम् = "die Tat meines verdienstreichen Sohnes"
-> 3. 1. पुण्यवत्  पुत्रेण कृतम् = "das verdienstvolle, von meinem Sohn Getane"
->    2. पुण्यवत्  पुत्रस्य कृतम् = "die verdienstvolle Tat meines Sohnes"
+::: indent
+1\. Stufe: entweder - oder
 
+1. पुण्यवत्पुत्रेण कृतम्
+2. पुण्यवत्पुत्रस्य कृतम्
+3. पुण्यवत् पुत्रकृतम्
+
+2\. Stufe: entsprechend
+
+1. पुण्यवता पुत्रेण कृतम् = "das von meinem verdienstreichen Sohn Getane"
+2. पुण्यवतः पुत्रस्य कृतम् = "die Tat meines verdienstreichen Sohnes"
+3. 1. पुण्यवत्  पुत्रेण कृतम् = "das verdienstvolle, von meinem Sohn Getane"
+   2. पुण्यवत्  पुत्रस्य कृतम् = "die verdienstvolle Tat meines Sohnes"
 :::
+::::
 
 
 ## 15.6. Die Form des Vorderglieds in Komposita (समास m.)
@@ -592,7 +602,6 @@ Abb.: नागदेवाः
 :::
 
 ::: deleteme-box
-### Quellen
 
 - **Abb.: लक्ष्मी** (Lakshmi): Gemälde von राजा रवि वर्मा (1848 - 1906). Bildquelle: Wikipedia, Public domain.
 - **Abb.: नरसिंहः** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Bildquelle: Wikipedia, Public domain.

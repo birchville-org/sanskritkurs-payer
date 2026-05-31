@@ -5,6 +5,12 @@ export const de = {
   description: 'Grammatik Lehrbuch von Alois Payer',
   themeConfig: {
     outline: { level: [2, 3], label: 'Auf dieser Seite' },
+    returnToTopLabel: 'Zurück nach oben',
+    sidebarMenuLabel: 'Menü',
+    darkModeSwitchLabel: 'Erscheinungsbild',
+    lightModeSwitchTitle: 'Zum hellen Design wechseln',
+    darkModeSwitchTitle: 'Zum dunklen Design wechseln',
+    langMenuLabel: 'Sprache wechseln',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Inhaltsverzeichnis', link: '/lektionen/inhaltsverzeichnis' },

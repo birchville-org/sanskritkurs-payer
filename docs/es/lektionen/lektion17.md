@@ -5,30 +5,30 @@ last_reconstructed: 2026-05-21
 
 # Lección 17
 
-## 17.1. Segunda clase de presente (अदादि = अद्, etc.)
+## 17.1. Segunda clase del presente (अदादि = अद्, etc.)
 
-Las terminaciones verbales se añaden directamente a la raíz. En este proceso, es necesario tener en cuenta las alteraciones fonéticas resultantes del *sandhi* léxico.
+Las desinencias verbales se añaden directamente a la raíz. Hay que tener en cuenta las alteraciones fonéticas resultantes del sandhi de palabras.
 
 :::: grammar-box
 
-Existen las siguientes formas de formación en la segunda clase de presente:
+Existen las siguientes formas de formación en la segunda clase del presente:
 
-1.  Raíces con ablaut de la raíz
-    *   mayormente: grado completo - grado reducido
-    *   algunas raíces: grado alargado - grado reducido
-2.  Raíces sin ablaut de la raíz
-3.  Raíces bisílabas en -i/-ī con ablaut de la raíz
+1.  Raíces con ablación de la raíz
+    *   la mayoría: grado alto - grado bajo
+    *   algunas raíces: grado alargado - grado bajo
+2.  Raíces sin ablación de la raíz
+3.  Raíces bisílabas en -i/-ī con ablación de la raíz
 
 ::::
 
-## 17.2. Raíces de la segunda clase de presente con ablaut de la raíz: grado fuerte - grado débil
+## 17.2. Raíces de la segunda clase de presente con ablaut del tema: nivel alto - nivel bajo
 
 Ejemplos:
 
 द्विष् 2 U "odiar"
 
-*   raíz de presente fuerte: dveṣ-
-*   raíz de presente débil: dviṣ-
+*   tema fuerte del presente: dveṣ-
+*   tema débil del presente: dviṣ-
 
 :::: grammar-box
 
@@ -47,16 +47,18 @@ Ejemplos:
 
 Aquí opera la siguiente regla de sandhi de palabra:
 
+::: grammar-box
 Sandhi de palabra de -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
+:::
 
 Otros ejemplos:
 
-इ 2 P "ir" (Ā después de ciertos prefijos verbales)
+इ 2 P "ir" (Ā después de ciertos prefijos)
 
-*   raíz de presente fuerte: e-
-*   raíz de presente débil:
+*   tema fuerte del presente: e-
+*   tema débil del presente:
     *   antes de consonante: i-
     *   antes de vocal: y-/iy-
 
@@ -77,8 +79,8 @@ Otros ejemplos:
 
 दुह् 2 U "ordeñar"
 
-*   raíz de presente fuerte: doh-
-*   raíz de presente débil: duh-
+*   tema fuerte del presente: doh-
+*   tema débil del presente: duh-
 
 :::: grammar-box
 
@@ -95,10 +97,10 @@ Otros ejemplos:
 
 ::::
 
-हन् 2 P "golpear, matar, dar muerte"
+हन् 2 P "golpear, matar, asesinar"
 
-*   raíz de presente fuerte: han-
-*   raíz de presente débil:
+*   tema fuerte del presente: han-
+*   tema débil del presente:
     *   antes de consonante: ha- (« \*hn-)
     *   antes de vocal: ghn-/han-
 
@@ -119,8 +121,8 @@ Otros ejemplos:
 
 अस् 2 P "ser"
 
-*   raíz de presente fuerte: as-
-*   raíz de presente débil: s-
+*   tema fuerte del presente: as-
+*   tema débil del presente: s-
 
 :::: grammar-box
 
@@ -135,16 +137,16 @@ Otros ejemplos:
 
 ::::
 
-## 17.3. Raíces de la segunda clase de presente con alternancia de la raíz: grado reforzado - grado reducido
+## 17.3. Raíces de la segunda clase de presente con ablaut de la raíz: grado pleno - grado reducido
 
 Ejemplo:
 
 स्तु 2 U "alabar"
 
-*   raíz de presente fuerte: stau-
-*   raíz de presente débil:
-    *   antes de consonante: stu-
-    *   antes de vocal: stuv-
+*   tema fuerte del presente: stau-
+*   tema débil del presente:
+    *   ante consonante: stu-
+    *   ante vocal: stuv-
 
 :::: grammar-box
 
@@ -152,7 +154,7 @@ Ejemplo:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Pres. P | स्तौति (stau-ti)[[br]]o bien: स्तवीति |
+| 3\. sg. Pres. P | स्तौति (stau-ti)[[br]]o: स्तवीति |
 | 3\. pl. Pres. P | स्तुवन्ति (stuv-anti) |
 | 3\. sg. Pres. Ā | स्तुते (stu-te) |
 | 3\. pl. Pres. Ā | स्तुवते (stuv-ate) |
@@ -161,9 +163,11 @@ Ejemplo:
 
 ::::
 
-## 17.4. Raíces de la segunda clase de presente sin ablaut de la raíz
+## 17.4. Raíces de la segunda clase de presente sin ablaut de raíz
 
-Sin ablaut de la raíz, las raíces de la segunda clase de presente terminan en -ā.
+::: grammar-box
+Sin ablaut de raíz, las raíces de la segunda clase de presente terminan en -ā
+:::
 
 Ejemplo:
 
@@ -182,7 +186,7 @@ Ejemplo:
 
 ::::
 
-Algunas otras raíces de la segunda clase también carecen de ablaut de la raíz:
+También algunas otras raíces de la segunda clase no tienen ablaut de raíz:
 
 Ejemplos:
 
@@ -231,18 +235,18 @@ Ejemplos:
 
 ::::
 
-## 17.5. Raíces disílabas en -i/-ī con ablaut de la raíz
+## 17.5. Raíces bisílabas en -i/-ī con ablaut de raíz
 
-Varias raíces presentan formas disílabas en una serie de formas, es decir, poseen una -i (o bien -ī ante algunas terminaciones) antes de una terminación consonántica. No obstante, estos raíces son establecidas por los gramáticos nativos y en diccionarios, etc., como monosílabas.
+Varias raíces son bisílabas en una serie de formas, es decir, tienen una -i (respectivamente -ī antes de algunas terminaciones) antes de una terminación consonántica. Sin embargo, estos raíces son consideradas por los gramáticos nativos y en diccionarios, etc., como monosílabas.
 
 Ejemplos:
 
 रुद् 2 P "llorar, aullar"
 
-*   raíz fuerte del presente: rodi-
-*   raíz débil del presente:
-    *   ante consonante: rudi-
-    *   ante vocal: rud-
+*   raíz presente fuerte: rodi-
+*   raíz presente débil:
+    *   antes de consonante: rudi-
+    *   antes de vocal: rud-
 
 :::: grammar-box
 
@@ -259,10 +263,10 @@ Ejemplos:
 
 ब्रू 2 U "hablar"
 
-*   raíz fuerte del presente: bravī- (« bro- + -ī)
-*   raíz débil del presente:
-    *   ante consonante: brū-
-    *   ante vocal: bruv-
+*   raíz presente fuerte: bravī- (« bro- + -ī)
+*   raíz presente débil:
+    *   vor Konsonant: brū-
+    *   antes de vocal: bruv-
 
 :::: grammar-box
 
@@ -279,7 +283,7 @@ Ejemplos:
 
 ::::
 
-También स्तु 2 U "alabar" posee, además de las formas indicadas en el apartado 3, formas según este patrón:
+También स्तु 2 U "alabar" tiene, además de las formas indicadas bajo 3., formas según este patrón:
 
 :::: grammar-box
 
@@ -293,9 +297,9 @@ También स्तु 2 U "alabar" posee, además de las formas indicadas en el 
 
 ::::
 
-## 17.6. Lista de vocabulario
+## 17.6. Lista de palabras
 
-हन् 2 P हन्ति, घ्नन्ति Pass. हन्यते  PPP हत : golpear, matar, dar muerte
+हन् 2 P हन्ति, घ्नन्ति Pass. हन्यते  PPP हत : golpear, matar, asesinar
 
 de ello:
 
@@ -306,7 +310,8 @@ de ello:
 ::: media
 ![](/images/lekt1703.jpg)
 Fig.: घाताः
-(Fuente de la imagen: [Detalles](/licenses#lekt1703))
+Bangalore = ಬೆಂಗಳೂರು
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1703))
 :::
 
 
@@ -315,13 +320,13 @@ Fig.: घाताः
 de ello:
 
 ::: indent
-आसन n.: la acción de sentarse, asiento; también: posturas de yoga (āsanas) del yogui
+आसन n.: el sentarse, asiento ; también: posturas de asiento del yogui
 :::
 
 ::: media
 ![](/images/lekt1701.jpg)
 Fig.: योगासनम्
-(Fuente de la imagen: [Detalles](/licenses/lekt1701))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1701))
 :::
 
 
@@ -330,17 +335,17 @@ Fig.: योगासनम्
 de ello:
 
 ::: indent
-रुद्र m.: (el que aúlla =) el dios de la tempestad Rudra
+रुद्र m.: (el aullador =) el dios de la tormenta Rudra
 :::
 
-ब्रू 2 U ब्रवीति Ā ब्रूते sin Pasivo ni PPP: hablar, decir (a alguien: doble acusativo)
+ब्रू 2 U ब्रवीति Ā ब्रूते sin Pasivo y PPP: hablar, decir (algo a alguien: acusativo doble)
 
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : ordeñar
 
 ::: media
 ![](/images/lekt1702.jpg)
 Fig.: दोग्धि
-(Fuente de la imagen: [Detalles](/licenses/lekt1702))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1702))
 :::
  
 
@@ -349,14 +354,14 @@ Fig.: दोग्धि
 de ello:
 
 ::: indent
-दिष्टि f.: instrucción, feliz disposición (o casualidad favorable)
+दिष्टि f.: instrucción, giro favorable
 
-दिष्ट्या Instr.: (literalmente: por una feliz disposición) ¡Oh, feliz disposición! (exclamación de alegría y dicha)
+दिष्ट्या Instr.: (literalmente: por un giro favorable) ¡Oh giro favorable! (exclamación de alegría y dicha)
 :::
 
 ## 17.7. Ejercicio 1
 
-A) Conjugue los verbos en las siguientes oraciones y tradúzcalas:
+A) Inserte el verbo en las siguientes oraciones y traduzca:
 
 १. ब्राह्मणो ऽनृतं न ... (ब्रू । वच् । वद्)
 
@@ -378,7 +383,7 @@ A) Conjugue los verbos en las siguientes oraciones y tradúzcalas:
 
 १०. साधुजनो ऽधर्मम् ... (द्विष् । न कृ)
 
-B) Conjugue el agente y el verbo en plural en las oraciones formadas en la sección A).
+B) Inserte el agente y el verbo en plural en las oraciones formadas en A)
 
 ## 17.8. Ejercicio 2
 
@@ -478,11 +483,10 @@ Traduzca las siguientes formas verbales e indique la raíz correspondiente:
 
 ::: deleteme-box
 
-### Fuentes
 
 **lekt1701:** [Fuente de la imagen: de tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Acceso el 2008-12-07. -- Licencia Creative Commons (Atribución, sin obras derivadas)]
 
-**lekt1702:** [Fuente de la imagen: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Acceso el 2008-12-07. -- Licencia Creative Commons (Atribución, no comercial, compartir igual)]
+**lekt1702:** [Fuente de la imagen: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Acceso el 2008-12-07. -- Licencia Creative Commons (Atribución, no uso comercial, compartir igual)]
 
-**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Fuente de la imagen: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Acceso el 2008-12-07. -- Licencia Creative Commons (Atribución, no comercial)]
+**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Fuente de la imagen: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Acceso el 2008-12-07. -- Licencia Creative Commons (Atribución, no uso comercial)]
 :::

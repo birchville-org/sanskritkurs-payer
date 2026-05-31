@@ -42,7 +42,7 @@ a) Sufijo कृत् \-Ø
 ::: media
 ![](/images/lekt5101.jpg)
 Fig.: भूमिभुज्
-(Fuente de la imagen: [Detalles](/licenses#lekt5101))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5101))
 :::
 
 b) Sufijo कृत् -t
@@ -70,7 +70,7 @@ b) Sufijo कृत् -t
 ::: media
 ![](/images/lekt5103.jpg)
 Fig.: पापकृत्
-(Fuente de la imagen: [Detalles](/licenses#lekt5103))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5103))
 :::
 
 c) Sufijo कृत् -a
@@ -100,7 +100,7 @@ c) Sufijo कृत् -a
 ::: media
 ![](/images/lekt5102.jpg)
 Fig.: द्विपो द्विर्पिबति : हस्तेन च मुखेन च
-(Fuente de la imagen: [Detalles](/licenses#lekt5102))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5102))
 :::
 
 ## 51.2. Declinación de las raíces que terminan en una consonante simple (excepto nasal, semivocal o -s)
@@ -268,7 +268,7 @@ Loc. परिव्राट्सु
 ::: media
 ![](/images/lekt5104.jpg)
 Fig.: परिव्राट्
-(Fuente de la imagen: [Detalles](/licenses#lekt5104))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5104))
 :::
 
 ### 51.2.3. Raíces terminadas en -h
@@ -373,7 +373,7 @@ p. ej. छिद् » चिच्छेद
 ::: media
 ![](/images/lekt5105.jpg)
 Fig.:
-(Fuente de la imagen: [Detalles](/licenses#lekt5105))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5105))
 :::
 अतिथि m.: huésped
 
@@ -392,7 +392,7 @@ Dado que la ovulación ocurre 14 días antes del inicio de la menstruación, con
 ::: media
 ![](/images/lekt5106.jpg)
 Fig.: ऋतुः
-(Fuente de la imagen: [Detalles](/licenses#lekt5106))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5106))
 :::
 
 एकत्र Adv.: en un solo lugar
@@ -402,7 +402,7 @@ Fig.: ऋतुः
 ::: media
 ![](/images/lekt5107.jpg)
 Fig.: जटा
-(Fuente de la imagen: [Detalles](/licenses#lekt5107))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5107))
 :::
 तुल्य 3: igual, comparable (तृतीयया)
 
@@ -455,8 +455,8 @@ PPP गर्हित
 
 ::: media
 ![](/images/lekt5108.jpg)
-Abb.: पिशितम्
-(Fuente de la imagen: [Detalles](/licenses#lekt5108))
+Fig.: पिशितम्
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5108))
 :::
 उपहार m.: ofrenda, sacrificio, regalo
 
@@ -464,8 +464,8 @@ Abb.: पिशितम्
 
 ::: media
 ![](/images/lekt5109.jpg)
-Abb.: मधु
-(Fuente de la imagen: [Detalles](/licenses/lekt5109))
+Fig.: मधु
+(Fuente de la imagen: [Detalles](/es/licenses/lekt5109))
 :::
 मांस n.: carne
 
@@ -473,15 +473,15 @@ Abb.: मधु
 
 ::: media
 ![](/images/lekt5110.jpg)
-Abb.: मृगया
-(Fuente de la imagen: [Detalles](/licenses/lekt5110))
+Fig.: मृगया
+(Fuente de la imagen: [Detalles](/es/licenses/lekt5110))
 :::
 शिवा f.: (fem.) chacal (chacal dorado = _Canis aureus_)
 
 ::: media
 ![](/images/lekt5111.jpg)
-Abb.: शिवा
-(Fuente de la imagen: [Detalles](/licenses/lekt5111))
+Fig.: शिवा
+(Fuente de la imagen: [Detalles](/es/licenses/lekt5111))
 :::
 रुत n.: alarido
 
@@ -489,8 +489,8 @@ Abb.: शिवा
 
 ::: media
 ![](/images/lekt5112.jpg)
-Abb.: कौशिकः
-(Fuente de la imagen: [Detalles](/licenses/lekt5112))
+Fig.: कौशिकः
+(Fuente de la imagen: [Detalles](/es/licenses/lekt5112))
 :::
 शकुनि m.: ave
 
@@ -504,8 +504,8 @@ forma débil ante consonante श्व
 
 ::: media
 ![](/images/lekt5113.jpg)
-Abb.: श्वा लिङ्गं च
-(Fuente de la imagen: [Detalles](/licenses/lekt5113))
+Fig.: श्वा लिङ्गं च
+(Fuente de la imagen: [Detalles](/es/licenses/lekt5113))
 :::
 परिचित 3: familiar, conocido
 
@@ -517,8 +517,8 @@ Abb.: श्वा लिङ्गं च
 
 ::: media
 ![](/images/lekt5114.jpg)
-Abb.: आपानकम्
-(Fuente de la imagen: [Detalles](/licenses/lekt5114))
+Fig.: आपानकम्
+(Fuente de la imagen: [Detalles](/es/licenses/lekt5114))
 :::
 क्रूर 3: bruto, cruel
 
@@ -536,15 +536,15 @@ PPP दिग्ध
 
 ::: media
 ![](/images/lekt5115.jpg)
-Abb.: मूषिकाविषाणि
-(Fuente de la imagen: [Detalles](/licenses/lekt5115))
+Fig.: मूषिकाविषाणि
+(Fuente de la imagen: [Detalles](/es/licenses/lekt5115))
 :::
 भुजंग m.: serpiente
 
 ::: media
 ![](/images/lekt5116.jpg)
-Abb.: भुजंगः
-(Fuente de la imagen: [Detalles](/licenses/lekt5116))
+Fig.: भुजंगः
+(Fuente de la imagen: [Detalles](/es/licenses/lekt5116))
 :::
 सायक m.: flecha
 
@@ -568,8 +568,8 @@ Abb.: भुजंगः
 
 ::: media
 ![](/images/lekt5118.jpg)
-Abb.: मणिः
-(Fuente de la imagen: [Detalles](/licenses/lekt5118))
+Fig.: मणिः
+(Fuente de la imagen: [Detalles](/es/licenses/lekt5118))
 :::
 वन n.: bosque
 
@@ -577,8 +577,8 @@ Abb.: मणिः
 
 ::: media
 ![](/images/lekt5117.jpg)
-Abb.: मदः
-(Fuente de la imagen: [Detalles](/licenses/lekt5117))
+Fig.: मदः
+(Fuente de la imagen: [Detalles](/es/licenses/lekt5117))
 :::
 राग m.: también: color, color rojo
 
@@ -632,7 +632,6 @@ Explicación: -अभिषेकौ Nom.Akk.Vok.Dual.mask. (Dualdvandva)
 
 ::: caja-eliminar
 
-### Fuentes
 
 **lekt5101:** ज्ञानेन्द्र वीर बिक्रम शाह, dernier rey de Nepal (2001 - 2008) [Fuente de la imagen: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Acceso el 2009-01-13. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
 

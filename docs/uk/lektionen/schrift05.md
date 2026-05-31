@@ -1,0 +1,15 @@
+# Деванагарі = देवनागरी
+
+## Письмова вправа 5
+
+![](/images/schrift008.jpg)
+
+## Вправи
+
+А) Напишіть мовою деванаґарі:
+
+chāyā paṭhati chidā phaṭā yathā khanati phalaṃ chādayate khādanīyaṃ tathā pāṭhana chāgalaḥ ṭhaṃsarī phalarāśi mithunā phenaḥ khidira kathaṃ ratho likhati
+
+Б) Прочитайте та транслітеруйте:
+
+फूत् विठोबा वितथ पाययति छलकं खेदो पाठीनं छिदुरा खेडकं खटू मुखं मुथहा नाथो

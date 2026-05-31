@@ -1,6 +1,10 @@
 ---
+title: Lektion 44
+subtitle: "Bildung der Verbalformen der 2. Person (मध्यमः) athematischer Stämme mit vokalisch endendem Suffix"
 lesson_id: 44
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 44
@@ -25,7 +29,7 @@ last_reconstructed: 2026-05-21
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indikativ Präsens**[[br]]लट् | सुनोषि[[br]]Cerebralisation! | सुनुथ | सुनुषे[[br]]Cerebralisation! | सुनुध्वे |
 | **Imperfekt**[[br]]लङ् | असुनोस् | असुनुत | असुनुथास् | सुनुध्वम् |
-| **Optativ**[[br]]विधिलिङ् | सुनुयास् | सुनuयात | सुन्वीथास् | सुन्वीध्वम् |
+| **Optativ**[[br]]विधिलिङ् | सुनुयास् | सुनुयात | सुन्वीथास् | सुन्वीध्वम् |
 :::
 
 ### 44.1.2. Achte Präsensklasse (तनादि)
@@ -75,11 +79,11 @@ Außerdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 
 ::: grammar-box
 1. **Aspirata wird vor Aspirata durch den entsprechenden Nichtspiraten ersetzt:**
-   z.B. **रुध्** 7U: रुन्ध् + ध्वे » **रुन्द्ध्वे** (runddhve)
+   z.B. **रुध्** 7U: रुन्ध् + ध्वे » **रुन्द्ध्वे** (run***ddh***ve)
 2. **-h + dh- » -gdh-**
-   z.B. **दुह्** 2U: दुह् + ध्वे » **धुग्ध्वे** (dhugdhve)
+   z.B. **दुह्** 2U: दुह् + ध्वे » **धुग्ध्वे** (dhu***gdh***ve)
 3. **-ṣ + dh- » -ḍḍh-** (Diese Regel gilt nur für die Konjugation!)
-   z.B. **द्विष्** 2U: द्विष् + ध्वे » **द्विड्ढ्वे** (dviḍḍhve)
+   z.B. **द्विष्** 2U: द्विष् + ध्वे » **द्विड्ढ्वे** (dvi***ḍḍh***ve)
 4. **-s + dh- » -dh-** (Wegfall des -s)
    z.B. **आस्** 2Ā: आस् + ध्वे » **आध्वे** (ādhve)
 :::
@@ -214,7 +218,7 @@ Die einheimischen Grammatiker betrachten den Vokativ (आमन्त्रि�
 
 ::: media
 ![](/images/lekt4402.jpg)
-Abb.: Zur richtigen Verwendung von "O" im Deutschen: "O Mann!"
+Abb.: Zur richtigen Verwendung von "O" im Deutschen: ***"O Mann!"***
 (Bildquelle: [Details](/licenses#lekt4402))
 :::
 
@@ -316,7 +320,7 @@ Inf. यन्तुम्
 Absol. -यम्य
 :::
 
-**यम् + आ** 1U आयच्छति : dehnen, ausstrecken
+**यम् + आ** 1***U*** आयच्छति : dehnen, ausstrecken
 
 ::: indent
 PPP आयत 3: lang gestreckt
@@ -510,7 +514,6 @@ Bestimmen Sie folgende Formen:
 
 
 ::: deleteme-box
-### Quellen
 
 **lekt4301.jpg**: Details in licenses.md
 

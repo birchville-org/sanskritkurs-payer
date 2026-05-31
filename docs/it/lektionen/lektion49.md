@@ -1,11 +1,15 @@
 ---
+title: Lezione 49
+subtitle: "Formazione dell'imperativo (लोट्) delle radici di presente atematiche (continuazione)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
+category: "Grammatica"
+status: stable
 ---
 
 # Lezione 49
 
-## 49.1. Formazione dell'imperativo (लोट्) dei temi di presente atematici (continuazione)
+## 49.1. Formazione dell'imperativo (लोट्) delle radici verbali atematiche (continuazione)
 
 ### 49.1.1. Settima classe del presente (रुधादि)
 
@@ -13,7 +17,7 @@ last_reconstructed: 2026-05-21
 
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. Persona**[[br]]तृतीयः | युनजानि[[br]]yu-na-j-āni | युनजाम | युनजै | युनजामहै |
 | **2. Persona**[[br]]मध्यमः | युङ्ग्धि[[br]]yu-n-j + dhi[[br]]युङ्धि | युङ्क्त[[br]]युङ्त | युङ्क्ष्व | युङ्ग्ध्वं[[br]]युङ्ध्वम् |
@@ -24,7 +28,7 @@ last_reconstructed: 2026-05-21
 
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. Persona**[[br]]तृतीयः | रुणधानि[[br]]ru-ṇa-dh-āni | रुणधाम | रुणधै | रुणधामहै |
 | **2. Persona**[[br]]मध्यमः | रुन्द्धि | रुन्द्ध | रुन्त्स्व | रुन्द्ध्वम् |
@@ -34,29 +38,29 @@ last_reconstructed: 2026-05-21
 ### 49.1.2. Quinta classe del presente (स्वादि)
 
 ::: grammar-box
-La 2.sg.P dell'imperativo è senza desinenza per le radici della 5. e 8. classe, quando alla -u finale del suffisso precede solo una consonante.
+L'imperativo 2.sg. è senza desinenza per le radici della 5ª e 8ª classe, quando al -u finale del suffisso precede solo una consonante.
 :::
 
 सु 5U
 
 ::: grammar-box
-| | parasmaipādam || ātmanepādam ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: |
-| | **singolare** | **plurale** | **singolare** | **plurale** |
-| **1. persona**[[br]]terza | sunavāni | sunavāma | sunavai | sunavāma |
-| **2. persona**[[br]]seconda | sunu | sunuta | sunusva | sunudhvam |
-| **3. persona**[[br]]prima | sunotu | sunvantu | sunatām | sunvatām[[br]]su-nu + atām |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1ª Persona**[[br]]तृतीयः | सुनवानि | सुनवाम | सुनवै | सुनवाम |
+| **2ª Persona**[[br]]मध्यमः | ***सुनु*** | सुनुत | सुनुष्व | सुनुध्वम् |
+| **3ª Persona**[[br]]प्रथमः | सुनोतु | सुन्वन्तु | सुनुताम् | सुन्वताम्[[br]]su-nu + atām |
 :::
 
 आप् 5P
 
 ::: grammar-box
-| | parasmaipādam ||
+| | परस्मैपदम् ||
 | :---: | :---: | :---: |
-| | **singolare** | **plurale** |
-| **1. persona**[[br]]terza | āpnavāni | āpnavāma |
-| **2. persona**[[br]]seconda | āpnuhi | āpnuta |
-| **3. persona**[[br]]prima | āpnotu | āpnuvantu |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **1ª Persona**[[br]]तृतीयः | आप्नवानि | आप्नवाम |
+| **2ª Persona**[[br]]मध्यमः | आप्नुहि | आप्नुत |
+| **3ª Persona**[[br]]प्रथमः | आप्नोतु | आप्नुवन्तु |
 :::
 
 ### 49.1.3. Ottava classe del presente (तनादि)
@@ -65,22 +69,22 @@ La 2.sg.P dell'imperativo è senza desinenza per le radici della 5. e 8. classe,
 
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
-| :---: | :---: | :---: | :---: |
-| | **Singolare** | **Plurale** | **Singolare** | **Plurale** |
-| **1. Persona**[[br]]Terza | तनवानि | तनवाम | तनवै | तनवामहै |
-| **2. Persona**[[br]]Seconda | तनु | तनुत | तनुष्व | तनुध्वम् |
-| **3. Persona**[[br]]Prima | तनोतु | तन्वन्तु | तनुताम् | तन्वताम् |
+| :---: | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | तनवानि | तनवाम | तनवै | तनवामहै |
+| **2. Persona**[[br]]मध्यमः | ***तनु*** | तनुत | तनुष्व | तनुध्वम् |
+| **3. Persona**[[br]]प्रथमः | तनोतु | तन्वन्तु | तनुताम् | तन्वताम् |
 :::
 
 कृ 8U
 
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
-| :---: | :---: | :---: | :---: |
-| | **Singolare** | **Plurale** | **Singolare** | **Plurale** |
-| **1. Persona**[[br]]Terza | करवाणि | करवाम | करवै | करवामहै |
-| **2. Persona**[[br]]Seconda | कुरु | कुरुत | कुरुष्व | कुरुध्वम् |
-| **3. Persona**[[br]]Prima | करोतु | कुर्वन्तु | कुरुताम् | कुर्वताम् |
+| :---: | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | करवाणि | करवाम | करवै | करवामहै |
+| **2. Persona**[[br]]मध्यमः | ***कुरु*** | कुरुत | कुरुष्व | कुरुध्वम् |
+| **3. Persona**[[br]]प्रथमः | करोतु | कुर्वन्तु | कुरुताम् | कुर्वताम् |
 :::
 
 ### 49.1.4. Nona classe del presente (क्र्यादि)
@@ -89,15 +93,15 @@ La 2.sg.P dell'imperativo è senza desinenza per le radici della 5. e 8. classe,
 
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
-| :---: | :---: | :---: | :---: |
-| | **Singolare** | **Plurale** | **Singolare** | **Plurale** |
-| **1. Persona**[[br]]Terza | क्रीणानि[[br]]krī-ṇā + āni | क्रीणाम | क्रीणै[[br]]krī-ṇā + ai | क्रीणामहै |
-| **2. Persona**[[br]]Seconda | क्रीणीहि | क्रीणीत | क्रीणीष्व | क्रीणीध्वम् |
-| **3. Persona**[[br]]Prima | क्रीणातु | क्रीणन्तु[[br]]krī-ṇ-antu | क्रीणीताम् | क्रीणताम् |
+| :---: | :---: | :---: | :---: | :---: |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | क्रीणानि[[br]]krī-ṇā + āni | क्रीणाम | क्रीणै[[br]]krī-ṇā + ai | क्रीणामहै |
+| **2. Persona**[[br]]मध्यमः | क्रीणीहि | क्रीणीत | क्रीणीष्व | क्रीणीध्वम् |
+| **3. Persona**[[br]]प्रथमः | क्रीणातु | क्रीणन्तु[[br]]krī-ṇ-antu | क्रीणीताम् | क्रीणताम् |
 :::
 
 ::: grammar-box
-Le radici della nona classe che terminano con una consonante sostituiscono la desinenza -nī-hi della seconda persona singolare dell'imperativo con -āna.
+Le radici della 9ª classe, che terminano con una consonante, sostituiscono la desinenza -nī-hi del 2.sg.P imperativo con -āna
 :::
 
 ग्रह् 9U
@@ -105,13 +109,13 @@ Le radici della nona classe che terminano con una consonante sostituiscono la de
 ::: grammar-box
 | | परस्मैपदम् ||
 | :---: | :---: | :---: |
-| | **Singolare** | **Plurale** |
-| **1. Persona**[[br]]Terza | गृह्णानि | गृह्णाम |
-| **2. Persona**[[br]]Seconda | गृहाण | गृह्णीत |
-| **3. Persona**[[br]]Prima | गृह्णातु | गृहणन्तु |
+| | **एकवचनम्** | **बहुवचनम्** |
+| **1. Persona**[[br]]तृतीयः | गृह्णानि | गृह्णाम |
+| **2. Persona**[[br]]मध्यमः | ***गृहाण*** | गृह्णीत |
+| **3. Persona**[[br]]प्रथमः | गृह्णातु | गृहणन्तु |
 :::
 
-## 49.2. Declinazione dei temi nominali in -as, -is, -us
+## 49.2. Declinazione delle stemmi nominali in -as, -is, -us
 
 #### Neutri (नपुंसक)
 
@@ -136,11 +140,11 @@ Le radici della nona classe che terminano con una consonante sostituiscono la de
 
 #### Maschili (पुंस्) e Femminili (स्त्री)
 
-La maggior parte dei casi sono composti **बहुव्रीहि** (bahuvrīhi) con un tema in -s (originariamente neutro) come secondo membro.
+La maggior parte dei casi è **बहुव्रीहि** con uno stemma in -s (originariamente neutro) nel secondo elemento.
 
 ::: grammar-box
-| | **सुमनस् 3**[[br]]"di buon pensiero, benevolo" | **दीर्घायुस् 3**[[br]]"dalla lunga vita" |
-| :---: | :---: | :---: |
+| | **सुमनस् 3**[[br]]"di buon pensiero, benevolo" | **दीर्घायुस् 3**[[br]]"longevo" |
+| :---: | :---: | :---: | :---: |
 | **एकवचनम्** | | |
 | **प्रथम** | सुमनास् | दीर्घायुस् |
 | **द्विटिया** | सुमनसम् | दीर्घायुषम् |
@@ -153,7 +157,7 @@ Gli altri casi del singolare come il neutro
 
 ::: grammar-box
 | | **सुमनस् 3** | **दीर्घायुस् 3** |
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | **बहुवचनम्** | | |
 | **प्रथमा, द्वितिया, आमन्त्रितम्** | सुमनसस् | दीर्घायुषस् |
 :::
@@ -162,20 +166,20 @@ Gli altri casi del singolare come il neutro
 Gli altri casi del plurale come il neutro
 :::
 
-## 49.3. Formazione nominale: suffisso कृत् -as neutro
+## 49.3. Formazione dei sostantivi: suffisso कृत् -as Neutro
 
-Con il suffisso कृत् -as neutro si formano numerosi sostantivi. Si tratta per lo più di astratti o di nomina actionis (parole che indicano l’azione).
+Con il suffisso कृत् -as Neutro si formano numerosi sostantivi. Di solito si tratta di astratti o nomina actionis (parole che indicano l'azione).
 
-La vocale breve della radice, davanti a una consonante singola e nelle radici con vocale finale, appare nella forma forte (guṇa).
+La vocale breve della radice prima di una consonante singola e la vocale radicolare finale appaiono nel grado forte.
 
 Esempi:
 
 ::: grammar-box
 | Radice | Sostantivo in -as |
 | --- | --- |
-| मन् 4Ā "pensare" | मनस् n. "pensiero, idea, organo del pensiero" |
-| नम् 1P "piegarsi" | नमस् n. "inchino, venerazione" |
-| चित् 1P "percepire, pensare" | चेतस् n. "comprensione, intelligenza" |
+| मन् 4Ā "pensare" | मनस् n. "Pensiero, idea, organo del pensiero" |
+| नम् 1P "piegare" | नमस् n. "Inchinazione, venerazione" |
+| चित् 1P "percepire, pensare" | चेतस् n. "Intuizione" |
 :::
 
 I sostantivi in -is e -us sono relativamente rari.
@@ -183,10 +187,10 @@ I sostantivi in -is e -us sono relativamente rari.
 ::: media
 ![](/images/lekt4907.jpg)
 Fig.: नमस्ते
-(Fonte dell’immagine: [Dettagli](/licenses#lekt4907))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4907))
 :::
 
-## 49.4. Glossario
+## 49.4. Elenco di parole
 
 दीर्घ 3: lungo
 
@@ -197,12 +201,12 @@ Fig.: नमस्ते
 :::: indent
 di cui:
 
-आयुर्वेद m.: il sistema medico tradizionale indiano
+आयुर्वेद m.: il sistema medico tradizionale dell'India
 
-si veda:
+vedi:
 
 ::: indent
-**Carakasaṃhitā:** Testi scelti dalla Carakasaṃhitā / tradotti e commentati da Alois Payer &lt;1944 - &gt;. -- 0. Introduzione. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Testi scelti dal Carakasaṃhitā / tradotti e commentati da Alois Payer &lt;1944 - &gt;. -- 0. Introduzione. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ::::
 
@@ -215,8 +219,8 @@ Pass. क्षिप्यते
 Kaus. क्षेपयति
 PPP क्षिप्त
 Inf. क्षेप्तुम्
-Absol. -क्षिप्य
-Gerundiv: क्षेप्य
+Assol. -क्षिप्य
+Gerundivo: क्षेप्य
 :::
 
 त्वर् 1Ā त्वरते : affrettarsi
@@ -226,7 +230,7 @@ Perf. Vc तत्वरे
 Fut. त्वरिष्यते
 Pass. त्वर्यते
 Kaus. त्वरयति
-PPP त्वरित । तू्र्ण
+PPP त्वरित । ***तू्र्***ण
 Inf. त्वरितुम्
 :::
 
@@ -246,9 +250,9 @@ Inf. द्रोग्धुम्
 ::: media
 ![](/images/lekt4901.jpg)
 Fig.: कुलूहलम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4901))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4901))
 :::
-कृत्स्न 3: tutto, completo
+कृत्स्न 3: intero, completo
 
 परिचय m.: conoscenza
 
@@ -257,42 +261,45 @@ Fig.: कुलूहलम्
 ::: media
 ![](/images/lekt4902.jpg)
 Fig.: उत्तमा काला
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4902))
+शिवो नटराजा, XI sec.
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4902))
 :::
 वर m.n.: desiderio
 
-उत Indekl.: e, anche, oppure
+उत Indecl.: e, anche, o
 
-विहंग m.: uccello ("che va nel flusso dell'aria - विह -")
+विहंग m.: uccello ("che vola स् - विह - nell'aria")
 
 ::: media
 ![](/images/lekt4903.jpg)
 Fig.: विहंगः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4903))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4903))
 :::
-वेष m.: abito, aspetto, esteriore
+वेष m.: vestito, aspetto, esteriore
 
 ::: media
 ![](/images/lekt4904.jpg)
 Fig.: वेषः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4904))
+वाराणस्याम्
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4904))
 :::
-छन्न n.: copertura, nascondiglio
+छन्न n.: coperta, nascondiglio
 
 पञ्जर n.: gabbia
 
 ::: media
 ![](/images/lekt4909.jpg)
 Fig.: पञ्जरम्
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4909))
+Indovino con pappagallo in gabbia: il pappagallo estrae bigliettini sui quali è scritto il destino Mysore
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4909))
 :::
 चाण्डाल । चण्डाल m.: livello più basso dei [Dalit](http://de.wikipedia.org/wiki/Dalit)
 
-स्वयम् Indekl.: stesso, da sé
+स्वयम् Indecl.: stesso, da sé
 
 अवनि f.: terra
 
-मुहूर्त m.,n.: momento, attimo, momento opportuno
+मुहूर्त m.,n.: istante, momento, momento giusto
 
 ध्यै 1P ध्यायति : immaginare, pensare
 
@@ -303,7 +310,7 @@ Pass. ध्यायते
 Kaus. ध्यापयति
 PPP ध्यात
 Inf. ध्यातुम्
-Gerundiv ध्येय
+Gerundivo ध्येय
 :::
 
 आदर m.: considerazione, attenzione, rispetto
@@ -311,18 +318,20 @@ Gerundiv ध्येय
 ::: media
 ![](/images/lekt4905.jpg)
 Fig.: सादरः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4905))
+Amritsar = ਅੰਮ੍ਰਿਤਸਰ
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4905))
 :::
 कुतुक n. = कुलूहल n.
 
-परम 3: più remoto, supremo ; पञ्चम्या : migliore di, superiore a
+परम 3: più lontano, più alto; पञ्चम्या : migliore di, più alto di
 
-शिशु m.: bambino, cucciolo
+शिशु m.: bambino, giovane
 
 ::: media
 ![](/images/lekt4906.jpg)
 Fig.: गजशिशुः
-(Fonte dell'immagine: [Dettagli](/licenses#lekt4906))
+Sri Lanka
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4906))
 :::
 
 ## 49.5. Esercizio di ripasso sulla morfologia
@@ -371,40 +380,39 @@ Determinare le seguenti forme:
 
 ## 49.6. Esercizio di traduzione
 
-Bāṇa (VII sec. d.C.): *Kādambarī*, a cura di M. R. Kale, 1968, p. 35s.
+बान (VII sec. d.C.): कादम्बरी, ed. M. R. Kale, 1968, p. 35s.
 
-Domande del re Śūdraka di Vidhiśā al pappagallo Vaiśampāyana:
+Domande del re शूद्रक di विदिशा al pappagallo वैशम्पायन:
 
-> Il re disse: «Sia pure tutto ciò. Allontana da noi la curiosità. Facci sapere, a partire da te, in quale regione sia avvenuto il tuo nascita, nominata da Karttya. Come sei nato? Con quale nome sei stato battezzato? Chi è tua madre? Chi è tuo padre? Come hai ottenuto l’accesso ai Veda? Come hai familiarizzato con le scienze? Da dove provengono le arti, riassunte? È la memoria di una vita precedente, oppure la concessione di un dono? O forse, essendo tu un uccello portatore di segreti, hai rivelato qualcosa di nascosto? Dove hai vissuto in precedenza? Qual è la tua età? Come sei stato rinchiuso in una gabbia? Come sei finito nelle mani di un Ciāṇḍāla? E come sei giunto qui?»
+नरपतिरब्रवीत् । आस्तां तावत्सर्वमेवेदम् । अपनयतु नः कुतूहलम् । आवेदयतु भवानादितः प्रभृति कार्त्न्येनात्मनो जन्म कस्मिन्देशे । भवान्कथं जातः । केन वा नाम कृतम् । का माता । कस्ते पिता । कथं वेदानामागमः । कथं शास्त्राणां परिचयः । कुतः कलाः समासादिताः । किं जन्मान्तरानुस्मरणमुत वरप्रदानम् । अथवा विहंगवेषधारी कश्चिच्छन्नं विवससि । क्व वा पूर्वमुषितम् । कियद्वा वयः । कथं पञ्जरबन्धः । कथं चाण्डालहस्तगमनम् । इह वा कथमागमनमिति ।
 
-Vaiśampāyana, egli stesso suscitato dalla curiosità, interrogato con grande rispetto dal sovrano, rifletté per un momento e rispose con cortesia: «Signore, questa è una storia straordinaria. Se desideri ascoltarla, eccola.»
+वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥
 
 ::: media
 ![](/images/lekt4908.jpg)
-Fig.: Śuka
-(Fonte dell’immagine: [Dettagli](/licenses#lekt4908))
+Fig.: शुकः
+Pappagallo dalla testa di prugna = Psittacula cyanocephala
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4908))
 :::
 
 ::: deleteme-box
 
-### Fonti
+**lekt4907:** [Fonte dell'immagine: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Consultato il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, share alike)]
 
-**lekt4907:** [Fonte dell'immagine: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Accesso il 10-01-2009. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, condivisione allo stesso modo)]
+**lekt4901:** [Fonte dell'immagine: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Consultato il 2009-01-11. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribuzione, nessuna opera derivata)]
 
-**lekt4901:** [Fonte dell'immagine: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Accesso il 11-01-2009. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribuzione, nessuna opera derivata)]
+**lekt4902:** शिवो नटराजा, XI sec. [Fonte dell'immagine: Vassil / Wikipedia. Dominio pubblico]
 
-**lekt4902:** शिवो नटराजा, XI secolo. [Fonte dell'immagine: Vassil / Wikipedia. Dominio pubblico]
+**lekt4903:** [Fonte dell'immagine: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Consultato il 2009-01-11. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
 
-**lekt4903:** [Fonte dell'immagine: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Accesso il 11-01-2009. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
+**lekt4904:** वाराणस्याम् [Fonte dell'immagine: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Consultato il 2009-01-11. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, share alike)]
 
-**lekt4904:** वाराणस्याम् [Fonte dell'immagine: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Accesso il 11-01-2009. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, condivisione allo stesso modo)]
+**lekt4909:** Indovino con pappagallo in gabbia: il pappagallo estrae bigliettini sui quali è scritto il destino Mysore [Fonte dell'immagine: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Consultato il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuzione)]
 
-**lekt4909:** Indovino con pappagallo in gabbia: il pappagallo estrae bigliettini su cui è scritto il destino, Mysore. [Fonte dell'immagine: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Accesso il 12-01-2009. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuzione)]
+**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Fonte dell'immagine: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Consultato il 2009-01-11. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuzione)]
 
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Fonte dell'immagine: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Accesso il 11-01-2009. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuzione)]
+**lekt4906:** Sri Lanka [Fonte dell'immagine: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Consultato il 2009-01-11. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
 
-**lekt4906:** Sri Lanka [Fonte dell'immagine: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Accesso il 11-01-2009. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-**lekt4908:** Pappagallo dalla testa di prugna _= Psittacula cyanocephala_[Fonte dell'immagine: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Accesso il 12-01-2009. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, condivisione allo stesso modo)]
+**lekt4908:** Pappagallo dalla testa di prugna _= Psittacula cyanocephala_[Fonte dell'immagine: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, condividi allo stesso modo)]
 
 :::

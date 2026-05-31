@@ -1,18 +1,20 @@
 ---
+title: Lesson 15
+subtitle: "सुभाषितम्"
 lesson_id: 15
 last_reconstructed: 2026-05-21
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 15
 
-## 15.1. Subhāṣitam
+## 15.1. सुभाषितम्
 
-$$
-\text{guruśuśrūṣayā vidyā} \\
-\text{puṣkaleṇa dhaneṇa vā} \\
-\text{athavā vidyayā vidyā} \\
-\text{caturthī naiva vidyate ॥}
-$$
+गुरुशुश्रूषया विद्या  
+पुष्कलेन धनेन वा ।  
+अथवा विद्यया विद्या  
+चतुर्थी नैव विद्यते ॥
 
 ## 15.2. Determinative Compounds = Tatpuruṣa m. = तत्पुरुष
 
@@ -68,7 +70,7 @@ Nom. pl. गुणवत्पुत्राः
 ::: media
 ![](/images/lekt1501.jpg)
 Fig.: लक्ष्मी
-(Image source: [Details](/licenses#lekt1501))
+(Image source: [Details](/en/licenses#lekt1501))
 :::
 
 ::: grammar-box
@@ -91,7 +93,7 @@ The following special rule applies to the order of members in a Karmadhāraya:
 ::: media
 ![](/images/lekt1503.jpg)
 Fig.: नरसिंहः
-(Image source: [Details](/licenses#lekt1503))
+(Image source: [Details](/en/licenses#lekt1503))
 :::
 
 ## 15.4. Determinative Compounds with a First Member in a Non-Attributive/Appositional Case Relation to the Second Member = Tatpuruṣa in the Narrower Sense
@@ -147,7 +149,7 @@ Although Sanskrit allows for the formation of compounds of arbitrary length—an
 
 ::: media
 ![]/images/lekt1502.jpg
-(Image source: [Details](/licenses#lekt1502))
+(Image source: [Details](/en/licenses#lekt1502))
 :::
 
 and so on, until one reaches the individual word stems.
@@ -264,7 +266,7 @@ pūjā f.: honor, honorable reception, religious worship (Pūjā)
 ::: media
 ![](/images/lekt1504.jpg)
 Fig.: pūjā
-(Image source: [Details](/licenses#lekt1504))
+(Image source: [Details](/en/licenses#lekt1504))
 :::
 
 kula n.: herd, multitude, lineage, ancestry, family
@@ -273,7 +275,7 @@ indra m.: prince, first, best among ; king of gods Indra
 ::: media
 ![](/images/lekt1505.jpg)
 Fig.: indraḥ
-(Image source: [Details](/licenses#lekt1505))
+(Image source: [Details](/en/licenses#lekt1505))
 :::
 
 dāsa m.: slave, serf, servant
@@ -302,14 +304,14 @@ siṃha m.: lion (_Panthera leo persica_)
 ::: media
 ![](/images/lekt1506.jpg)
 Fig.: siṃhaḥ
-(Image source: [Details](/licenses#lekt1506))
+(Image source: [Details](/en/licenses#lekt1506))
 :::
 
 vyāghra m.: tiger (_Panthera tigris tigris_) (literally: yawner)
 ::: media
 ![](/images/lekt1507.jpg)
 Fig.: vyāghraḥ
-(Image source: [Details](/licenses#lekt1507))
+(Image source: [Details](/en/licenses#lekt1507))
 :::
 
 iva (postposed): as if, like (in comparisons: vyāghra iva puruṣaḥ = “a man like a tiger,” “a tiger-like man”)
@@ -531,7 +533,7 @@ Resolve the following *Tatpuruṣa* compounds, as in Exercise 1:
 ::: media
 ![](/images/lekt1508.jpg)
 Fig.: ग्रामदेवता
-(Image source: [Details](/licenses#lekt1508))
+(Image source: [Details](/en/licenses#lekt1508))
 :::
 
 ## 15.11. Exercise 3
@@ -595,12 +597,11 @@ B) Resolve the following Tatpuruṣa compounds:
 ::: media
 ![](/images/lekt1509.jpg)
 Fig.: नागदेवाः
-(Image source: [Details](/licenses#lekt1509))
+(Image source: [Details](/en/licenses#lekt1509))
 :::
 
 ::: deleteme-box
 
-### Sources
 
 - **Fig.: लक्ष्मी** (Lakshmi): Painting by राजा रवि वर्मा (1848–1906). Image source: Wikipedia, Public domain.
 - **Fig.: नरसिंहः** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Image source: Wikipedia, Public domain.

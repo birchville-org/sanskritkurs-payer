@@ -36,16 +36,24 @@ const currentLang = computed(() => {
   if (path.startsWith('/it/')) return 'it'
   if (path.startsWith('/es/')) return 'es'
   if (path.startsWith('/bg/')) return 'bg'
+  if (path.startsWith('/ru/')) return 'ru'
+  if (path.startsWith('/uk/')) return 'uk'
+  if (path.startsWith('/hi/')) return 'hi'
+  if (path.startsWith('/fr/')) return 'fr'
   return 'de'
 })
 
 const labels = computed(() => {
   const dict = {
-    de: { prev: 'Vorherige Seite', exercise: 'Zusätzliche Übung', next: 'Nächste Seite' },
-    en: { prev: 'Previous Page', exercise: 'Additional Exercise', next: 'Next Page' },
-    it: { prev: 'Pagina precedente', exercise: 'Esercizio aggiuntivo', next: 'Prossima pagina' },
-    es: { prev: 'Página anterior', exercise: 'Ejercicio adicional', next: 'Próxima página' },
-    bg: { prev: 'Предишна страница', exercise: 'Допълнително упражнение', next: 'Следваща страница' }
+    de: { prev: 'Vorherige Lektion', exercise: 'Zusätzliche Übung', next: 'Nächste Lektion' },
+    en: { prev: 'Previous Lesson', exercise: 'Additional Exercise', next: 'Next Lesson' },
+    it: { prev: 'Lezione precedente', exercise: 'Esercizio aggiuntivo', next: 'Lezione successiva' },
+    es: { prev: 'Lección anterior', exercise: 'Ejercicio adicional', next: 'Lección siguiente' },
+    bg: { prev: 'Предишен урок', exercise: 'Допълнително упражнение', next: 'Следващ урок' },
+    ru: { prev: 'Предыдущая лекция', exercise: 'Дополнительное упражнение', next: 'Следующая лекция' },
+    uk: { prev: 'Попередня лекція', exercise: 'Додаткова вправа', next: 'Наступна лекція' },
+    hi: { prev: 'पिछला पाठ', exercise: 'अतिरिक्त अभ्यास', next: 'अगला पाठ' },
+    fr: { prev: 'Leçon précédente', exercise: 'Exercice supplémentaire', next: 'Leçon suivante' },
   }
   return dict[currentLang.value] || dict.de
 })
@@ -77,6 +85,26 @@ const translateTitle = (text) => {
     t = t.replace(/Übung/g, 'Упражнение')
     t = t.replace(/Schrift/g, 'Писмо')
     t = t.replace(/Devanāgarī/g, 'Деванагари')
+  } else if (l === 'ru') {
+    t = t.replace(/Schriftübung/g, 'Упражнение по письму')
+    t = t.replace(/Lektion/g, 'Лекция')
+    t = t.replace(/Übung/g, 'Упражнение')
+    t = t.replace(/Schrift/g, 'Письмо')
+  } else if (l === 'uk') {
+    t = t.replace(/Schriftübung/g, 'Вправа з письма')
+    t = t.replace(/Lektion/g, 'Лекція')
+    t = t.replace(/Übung/g, 'Вправа')
+    t = t.replace(/Schrift/g, 'Письмо')
+  } else if (l === 'hi') {
+    t = t.replace(/Schriftübung/g, 'लिपि अभ्यास')
+    t = t.replace(/Lektion/g, 'पाठ')
+    t = t.replace(/Übung/g, 'अभ्यास')
+    t = t.replace(/Schrift/g, 'लिपि')
+  } else if (l === 'fr') {
+    t = t.replace(/Schriftübung/g, "Exercice d'écriture")
+    t = t.replace(/Lektion/g, 'Leçon')
+    t = t.replace(/Übung/g, 'Exercice')
+    t = t.replace(/Schrift/g, 'Écriture')
   }
   return t
 }

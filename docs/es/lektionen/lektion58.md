@@ -43,7 +43,8 @@ Ante -vas y -vahe, la vocal temática -a- se reemplaza por -ā-.
 ::: media
 ![](/images/lekt5802.jpg)
 Fig.: नृत्यतः
-(Fuente de la imagen: [Detalles](/licenses#lekt5802))
+Odisea
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5802))
 :::
 
 ### 58.2.3. Sexta clase de presente (तुदादिगणः)
@@ -73,7 +74,8 @@ Fig.: नृत्यतः
 ::: media
 ![](/images/lekt5803.jpg)
 Fig.: वानरौ रथाद्भाण्डानि चोरयतः
-(Fuente de la imagen: [Detalles](/licenses#lekt5803))
+Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5803))
 :::
 
 ## 58.3. El dual del futuro simple (ऌत्)
@@ -150,7 +152,7 @@ Fig.: वानरौ रथाद्भाण्डानि चोरयतः
 ::: media
 ![](/images/lekt5806.jpg)
 Fig.: उष्ट्रौ मरावितः
-(Fuente de la imagen: [Detalles](/licenses#lekt5806))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5806))
 :::
 इ + अधि 2Ā "estudiar"
 
@@ -165,7 +167,7 @@ Fig.: उष्ट्रौ मरावितः
 ::: media
 ![](/images/lekt5804.jpg)
 Fig.: कन्ये अधीयते
-(Fuente de la imagen: [Detalles](/licenses#lekt5804))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5804))
 :::
 
 
@@ -192,7 +194,7 @@ Fig.: कन्ये अधीयते
 ::: media
 ![](/images/lekt5805.jpg)
 Fig.: भगिन्यौ स्वः
-(Fuente de la imagen: [Detalles](/licenses#lekt5805))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5805))
 :::
 
 ### 58.5.2. Tercera clase de presente (जुहोत्यादिगणः)
@@ -230,7 +232,8 @@ Fig.: भगिन्यौ स्वः
 ::: media
 ![](/images/lekt5807.jpg)
 Fig.: शर्कराम्बु सुनुतः
-(Fuente de la imagen: [Detalles](/licenses#lekt5807))
+Pune
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5807))
 :::
 
 ### 58.5.4. Octava clase de presente (तनादिगणः)
@@ -289,8 +292,8 @@ Fig.: शर्कराम्बु सुनुतः
 
 ::: media
 ![](/images/lekt5801.jpg)
-Abb.: स्त्रियौ शाकं क्रीणाते
-(Fuente de la imagen: [Detalles](/licenses#lekt5801))
+Fig.: स्त्रियौ शाकं क्रीणाते
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5801))
 :::
 
 ## 58.6. Aoristo 5: Aoristo iṣ
@@ -399,7 +402,7 @@ Paradigmas:
 ::: media
 ![](/images/lekt5808.jpg)
 Fig.: दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥
-(Fuente de la imagen: [Detalles](/licenses#lekt5808))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt5808))
 :::
 
 ## 58.7. Ejercicio
@@ -470,7 +473,6 @@ B) Traduzca y determine las siguientes formas:
 
 ::: deleteme-box
 
-### Fuentes
 
 **lekt5802:** Odisea [Fuente de la imagen: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Acceso el 2009-03-02. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
 

@@ -1,428 +1,414 @@
+---
+title: Урок 37
+subtitle: "Прислівник (क्रियाविशेषणम्)"
+lesson_id: 37
+last_reconstructed: 2026-05-21
+category: "Граматика"
+status: stable
+---
 
+# Урок 37
 
-# Lektion 37
+## 37.1. Прислівник (क्रियाविशेषणम्)
 
-## 37.1. Das Adverb (क्रियाविशेषणम्)
+Прислівники в санскриті утворюються
 
-Adverbien werden im Sanskrit gebildet &lt;!-- TODO: Fallback translation --&gt;
+1.  за допомогою відмінкових форм іменників та займенників
+2.  за допомогою особливих суфіксів та закінчень
 
-1.  durch Kasusformen von Nomina und Pronomina &lt;!-- TODO: Fallback translation --&gt;
-2.  mit Hilfe besonderer Suffixe und Закінченняen &lt;!-- TODO: Fallback translation --&gt;
+У першому випадку межа між живою відмінковою формою та прислівником є плавною. Сюди належать, як окремий випадок, прислівники, які є застиглими, старими відмінковими формами, тоді як у відмінюванні вживаються інші форми або відповідні іменники більше не вживаються як іменники.
 
-Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fließend. Hierzu gehören als Sonderfall die Adverbien, die erstarrte, alte Kasusformen sind, während in der Deklination andere Formen gebraucht werden bzw. die entsprechenden Nomina nicht mehr als Nomina gebraucht werden. &lt;!-- TODO: Fallback translation --&gt;
-
-## 37.2. Adverbialer Вживання von Kasusformen
+## 37.2. Обставинне вживання відмінкових форм
 
 ### 37.2.1. Знахідний відмінок (द्वितीया)
 
 :::: grammar-box
-Der Akkusativ (द्वितीया) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+Знахідний відмінок (द्वितीया) може вживатися прислівниково на запитання:
 
-*   in welcher Weise? <!-- TODO: Fallback translation -->
-*   wie lange? <!-- TODO: Fallback translation -->
-*   wohin? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   яким чином?
+*   як довго?
+*   куди?
+*   і т. ін.
 
-Adverbial gebraucht werden kann der Akkusativ: <!-- TODO: Fallback translation -->
+Прислівниково може вживатися знахідний відмінок:
 
-*   von Substantiven   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    कामम् "wunschgemäß, nach Wunsch"  
-    अर्थम् "wegen"   <!-- TODO: Fallback translation -->
-
-*   von Adjektiven im Середній рід   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    सुखम् "leicht, glücklich"  
-    नित्यम् "stets"  
-    साधु "richtig, gut"   <!-- TODO: Fallback translation -->
-
-*   von Pronomina im Середній рід   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    तद् "dann, darum"  
-    यद् "wenn, dass"  
-    एतद् "so, hier, jetzt" <!-- TODO: Fallback translation -->
+*   від іменників  
+    Приклади:  
+    कामम् "бажано, за бажанням"  
+    अर्थम् "через"  
+     
+*   від прикметників у середньому роді  
+    Приклади:  
+    सुखम् "легко, щасливо"  
+    नित्यम् "завжди"  
+    साधु "правильно, добре"  
+     
+*   від займенників у середньому роді  
+    Приклади:  
+    तद् "тоді, тому"  
+    यद् "якщо, що"  
+    एतद् "так, тут, тепер"
 ::::
 
 ### 37.2.2. Орудний відмінок (तृतीया)
 
 :::: grammar-box
-Der Instrumentalis (तृतीया) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+Орудний відмінок (तृतीया) може вживатися прислівниково на запитання:
 
-*   wodurch? <!-- TODO: Fallback translation -->
-*   womit? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   чим?
+*   за допомогою чого?
+*   тощо.
 
-Adverbial gebraucht werden kann der Instrumentalis: <!-- TODO: Fallback translation -->
+Орудний відмінок може вживатися прислівниково:
 
-*   von Substantiven   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    अर्थेन "wegen"  
-    क्षणेन "im Augenblick, sofort" (von क्षण m. "Augenblick")   <!-- TODO: Fallback translation -->
-
-*   von Adjektiven, oft auch in der Множинаform   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    दूरेण "fern, aus der Ferne" (zu दूर 3 "fern, weit von")  
-    उच्चैस् "hoch, laut" (zu उच्च 3 "hoch, erhöht, laut, schrill (von Stimme)") <!-- TODO: Fallback translation -->
+*   від іменників  
+    Приклади:  
+    अर्थेन "через, через те що"  
+    क्षणेन "в даний момент, негайно" (від क्षण m. "мить")  
+     
+*   від прикметників, часто також у формі множини  
+    Приклади:  
+    दूरेण "далеко, здалеку" (до दूर 3 "далеко, далеко від")  
+    उच्चैस् "високо, гучно" (до उच्च 3 "високий, піднесений, гучний, пронизливий (про голос)")
 ::::
 
 ### 37.2.3. Давальний відмінок (चतुर्थी)
 
 :::: grammar-box
-Selten wird der Dativ (चतुर्थी) adverbial gebraucht auf die Fragen: <!-- TODO: Fallback translation -->
+Рідко давальний відмінок (चतुर्थी) вживається прислівниково на питання:
 
-*   zu welchem Zweck? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   з якою метою?
+*   і т. ін.
 
-Beispiel: <!-- TODO: Fallback translation -->
+Приклад:
 ::: indent
-अर्थाय "zum Zweck von, um ... willen" <!-- TODO: Fallback translation -->
+अर्थाय "з метою, заради ... "
 :::
 ::::
 
 ### 37.2.4. Аблатив (पञ्चमी)
 
 :::: grammar-box
-Der Ablativ (पञ्चमी) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+Аблатив (पञ्चमी) може вживатися прислівниково на запитання:
 
-*   warum? <!-- TODO: Fallback translation -->
-*   aufgrund wessen? <!-- TODO: Fallback translation -->
-*   woher? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   чому?
+*   через кого/що?
+*   звідки?
+*   тощо.
 
-Adverbial gebraucht werden kann der Ablativ: <!-- TODO: Fallback translation -->
+Прислівниково вживатися може аблатив:
 
-*   von Substantiven   <!-- TODO: Fallback translation -->
-    z.B. बलात् "gewaltsam, mit Gewalt"   <!-- TODO: Fallback translation -->
-
-*   von Adjektiven   <!-- TODO: Fallback translation -->
-    z.B. दूरात् "von fern"   <!-- TODO: Fallback translation -->
-
-*   von Pronomina   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    कस्मात् "warum"  
-    अकस्मात् "unerwartet" <!-- TODO: Fallback translation -->
+*   від іменників  
+    наприклад, बलात् "насильно, силою"  
+     
+*   від прикметників  
+    наприклад, दूरात् "здалеку"  
+     
+*   від займенників  
+    приклади:  
+    कस्मात् "чому"  
+    अकस्मात् "неочікувано"
 ::::
 
 ### 37.2.5. Родовий відмінок (षष्ठी)
 
 :::: grammar-box
-Selten wird der Genetiv (षष्ठी) adverbial gebraucht auf die Frage "nach wie langer Zeit?" <!-- TODO: Fallback translation -->
+Рідовий відмінок (षष्ठी) рідко вживається прислівниково, на запитання "через скільки часу?"
 
-z.B. चिरस्य "nach langer Zeit" (zu चिर 3 "lang (Zeit)") <!-- TODO: Fallback translation -->
+напр. चिरस्य "через довгий час" (до चिर 3 "довгий (час)")
 ::::
 
-### 37.2.6. Місцевий відмінок (सप्तमी)
+### 37.2.6. Локатив (सप्तमी)
 
 :::: grammar-box
-Der Lokativ (सप्तमी) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+Локатив (सप्तमी) може вживатися прислівниково на питання:
 
-*   wo? <!-- TODO: Fallback translation -->
-*   unter welchen Umständen? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   де?
+*   за яких обставин?
+*   і т. ін.
 
-Beispiele: <!-- TODO: Fallback translation -->
+Приклади:
 ::: indent
-\-अर्थे "wegen"  
-\-कृते "um willen"  
-दूरे "fern" <!-- TODO: Fallback translation -->
+\-अर्थे "через"  
+\-कृते "ради"  
+दूरे "подалі"
 :::
 ::::
 
-## 37.3. Adverbialer Вживання nicht mehr gebräuchlicher Kasusformen
+## 37.3. Дієслівне вживання більше не вживаних відмінкових форм
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Приклади:
 ::: indent
-जातु "überhaupt" (ursprünglich "von Geburt, von Natur", Akk.sg.n. zu जातु &lt;nicht mehr als Nomen gebräuchlich&gt;) &lt;!-- TODO: Fallback translation --&gt;
+जातु "загалом" (спочатку "від народження, від природи", знах.в.одн. до जातु &lt;більше не вживаний як іменник&gt;)
 
-तूष्णीम् "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen तूष्णी f. "Schweigen") &lt;!-- TODO: Fallback translation --&gt;
+तूष्णीम् "мовчки" (знах.в.одн. до більше не вживаного तूष्णी ж.р. "мовчання")
 
-एवम् "so" (zu einem sonst verloren gegangenen Pronominalstamm एव "ein, einzig") &lt;!-- TODO: Fallback translation --&gt;
+एवम् "так" (до інше втраченого прислівникового кореня एव "один, єдиний")
 :::
 
-## 37.4. Утворення von Adverbien mit Adverbialsuffixen
+## 37.4. Утворення прислівників з прислівниковими суфіксами
 
 :::: grammar-box
-Von den Pronominalstämmen तद्, इदम् bzw. अ-, यद्, किम् bzw. कु kann man mit den Adverbialsuffixen &lt;!-- TODO: Fallback translation --&gt;
+Від займенникових коренів तद्, इदम् або अ-, यद्, किम् або कु можна утворити відповідні займенникові прислівники за допомогою прислівникових суфіксів
 
-*   \-तस् (Аблатив) &lt;!-- TODO: Fallback translation --&gt;
-*   \-त्र (Місцевий відмінок) &lt;!-- TODO: Fallback translation --&gt;
-*   \-था (Art und Weise) &lt;!-- TODO: Fallback translation --&gt;
-*   \-थम् (Art und Weise) &lt;!-- TODO: Fallback translation --&gt;
-*   \-दा (Zeit) &lt;!-- TODO: Fallback translation --&gt;
+*   \-तस् (аблатив)
+*   \-त्र (локатив)
+*   \-था (спосіб дії)
+*   \-थम् (спосіб дії)
+*   \-दा (час)
 
-entsprechende Pronominaladverbien ableiten. &lt;!-- TODO: Fallback translation --&gt;
+відповідних займенникових прислівників.
 ::::
 
 :::: grammar-box
 
-| :--- | :--- | | | |
+| Суфікс | Займенниковий корінь | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | **तद्** | **इदम्**[[br]]**अ-** | **यद्** | **किम्**[[br]]**कु-** |
-| **-तस्**[[br]](Аблатив) | **ततस्**[[br]]von da, darauf, deshalb | **इतस्**[[br]]**अतस्**[[br]]von hier, dieserhalb | **यतस्**[[br]]woher, wovon | **कुतस्**[[br]]woher?, weshalb? |
-| **-त्र**[[br]](Місцевий відмінок) | **तत्र**[[br]]da, dort | **अत्र**[[br]]hier | **यत्र**[[br]]wo | **कुत्र**[[br]]wo? |
-| **-था**[[br]](Art und Weise) | **तथा**[[br]]so | | **यथा**[[br]]wie | |
-| **-थम्**[[br]](Art und Weise) | | | | **कथम्**[[br]]wie? |
-| **-दा**[[br]](Zeit) | **तदा**[[br]]damals, dann | | **यदा**[[br]]als | **कदा**[[br]]wann? |
+| **-तस्**[[br]](аблатив) | **ततस्**[[br]]звідти, на тому, тому | **इतस्**[[br]]**अतस्**[[br]]звідси, заради цього | **यतस्**[[br]]звідки, про що | **कुतस्**[[br]]звідки?, чому? |
+| **-त्र**[[br]](локатив) | **तत्र**[[br]]там, тамтут | **अत्र**[[br]]тут | **यत्र**[[br]]де | **कुत्र**[[br]]де? |
+| **-था**[[br]](спосіб дії) | **तथा**[[br]]так | | **यथा**[[br]]як | |
+| **-थम्**[[br]](спосіб дії) | | | | **कथम्**[[br]]як? |
+| **-दा**[[br]](час) | **तदा**[[br]]тоді, тоді | | **यदा**[[br]]коли | **कदा**[[br]]коли? |
 
 ::::
 
 :::: grammar-box
-Ein weiteres Frageadverb ist: क्व "wo?" &lt;!-- TODO: Fallback translation --&gt;
+Ще одним питальним прислівником є: क्व "де?"
 ::::
 
 ::: media
 ![lekt3701.jpg](/images/lekt3701.jpg)
-Abb.: क्व
-(Bildquelle: [Details](/licenses#lekt3701)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: क्व
+(Джерело зображення: [Деталі](/uk/licenses#lekt3701))
 :::
-
 :::: grammar-box
 
-      Weitere Adverbialsuffixe <!-- TODO: Fallback translation -->
+**Інші прислівникові суфікси**
 
-**Weitere Adverbialsuffixe**-वत्**kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie"**** **z.B. पुत्र्रवत् "wie ein(en) Sohn"-तस्**an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?"**z.B. आदितस् "von Anfang an"-धा&lt;ol&gt;&lt;li&gt;**Bei Zahladverbien in der Bedeutung "-fach", "-fältig" **z.B. द्विधा "zweifach"  &lt;/li&gt;&lt;li&gt;**in der Bedeutung "in der und der Weise" **z.B. समधा "in gleicher Weise" (zu सम 3 "gleich")&lt;/li&gt;&lt;/ol&gt; &lt;!-- TODO: Fallback translation --&gt;
-
-        kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie" 
-        z.B. putravat 
-        पुत्रवत् "wie ein(en) Sohn" <!-- TODO: Fallback translation -->
-
-      -तस् -tas <!-- TODO: Fallback translation -->
-
-        an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?" 
-        z.B. āditas 
-        आदितस् "von Anfang an" <!-- TODO: Fallback translation -->
-
-      -धा -dhā <!-- TODO: Fallback translation -->
-
-        &lt;ol&gt;
-          &lt;li&gt;
-            Bei Zahladverbien in der Bedeutung "-fach", "-fältig" 
-            z.B. dvidhā 
-            द्विधा "zweifach"
-          &lt;/li&gt;
-          &lt;li&gt;
-            in der Bedeutung "in der und der Weise" 
-            z.B. samadhā 
-            समधा "in gleicher Weise" (zu sama सम 3 "gleich")
-          &lt;/li&gt;
-        &lt;/ol&gt; <!-- TODO: Fallback translation -->
+| Суфікс | |
+| :--- | :--- |
+| **-वत्** | може бути приєднаний до будь-яких іменників, щоб виразити "за типом, як"[[br]]напр. **पुत्रवत्** "як син" |
+| **-तस्** | до іменників та займенників. Зазвичай аблативне значення "звідки?", але також "де?", "куди?"[[br]]напр. **आदितस्** "від початку" |
+| **-धा** | 1. У числівних прислівниках у значенні "-кратний", "-подвійний"[[br]]напр. **द्विधा** "подвійний"[[br]]2. у значенні "в тому-то і тому-то способі"[[br]]напр. **समधा** "в однаковий спосіб" (до **सम** 3 "рівний") |
 
 ::::
 
-## 37.5. Adverbiale Komposita
+## 37.5. Прислівні складні прикметники
 
-### 37.5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied
+### 37.5.1. Складні іменники з прислівником або прислівниковим відмінком як другим компонентом
 
-Beispiel: सुचिरम् "sehr lange (Zeit)" &lt;!-- TODO: Fallback translation --&gt;
+Приклад: सुचिरम् "дуже довго (час)"
 
-### 37.5.2. Adverbial gebrauchte बहुव्रीहि
+### 37.5.2. Вживання बहुव्रीहि як прислівника
 
-Beispiel: रक्षार्थम् "in der Art von jemandem, dessen Zweck Behüten ist, zum Zweck des Behütens". Kann auch als zu 5.1. gehörig betrachtet werden: -अर्थम् als adverbiales Hinterglied. &lt;!-- TODO: Fallback translation --&gt;
+Приклад: रक्षार्थम् «подібним чином до того, чиє завдання — охорона, заради охорони». Також може розглядатися як таке, що належить до 5.1.1: -अर्थम् як прислівникова задня частина.
 
-### 37.5.3. अव्ययीभाव-Komposita
+### 37.5.3. अव्ययीभाव-композити
 
-अव्ययीभाव = "unveränderlich/undeklinierbar gewordene" &lt;!-- TODO: Fallback translation --&gt;
+अव्ययीभाव = "незмінна/незмінювана"
 
 :::: grammar-box
-Ein अव्ययीभाव ist ein adverbiales Kompositum, dessen Vorderglied ein Indeklinabile (Postposition, Partikel u. ä.) ist, und dessen Hinterglied ein Nomen ist, das die Endung des Akkusativ Singulars Neutrum annnimmt. &lt;!-- TODO: Fallback translation --&gt;
+अव्ययीभाव — це прислівниковий композит, передня частина якого є індеклінабелем (постпозиція, частка тощо), а задня частина — іменником, що приймає закінчення акузатива сингуляра нічного роду.
 
-Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren:
-**Weitere Adverbialsuffixe:** &lt;!-- TODO: Fallback translation --&gt;
+При розгорненні композиту передня частина керувала б задньою:
 
-**-vat**: kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie" (z.B. **putravat**[[br]]पुत्रवत् "wie ein(en) Sohn") &lt;!-- TODO: Fallback translation --&gt;
+Приклади:
 ::: indent
-प्रत्यग्नि = अग्निं प्रति = "gegen das Feuer" &lt;!-- TODO: Fallback translation --&gt;
+प्रत्यग्नि = अग्निं प्रति = "проти вогню"
 
-यथाशक्ति = शक्तिमनतिक्रम्य = "nach Kräften" &lt;!-- TODO: Fallback translation --&gt;
+यथाशक्ति = शक्तिमनतिक्रम्य = "згідно з силами"
 
-अभिमुखम् = मुखम् अभि = "nach vorn, entgegen" &lt;!-- TODO: Fallback translation --&gt;
+अभिमुखम् = मुखम् अभि = "наперед, навпроти"
 :::
 
-Besonders wichtig sind अव्ययीभाव mit यथा "wie" als Vorderglied: &lt;!-- TODO: Fallback translation --&gt;
+Особливо важливі अव्ययीभाव з यथा "як" як передньою частиною:
 
-z.B. यथाकामम् = कामो यथास्ति = "wie es der Wunsch ist, nach Wunsch, beliebig" &lt;!-- TODO: Fallback translation --&gt;
+напр. यथाकामम् = कामो यथास्ति = "як бажання, за бажанням, довільно"
 ::::
 
 ::: media
 ![lekt3702.jpg](/images/lekt3702.jpg)
-Abb.: यथाशक्ति
-(Bildquelle: [Details](/licenses#lekt3702)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: यथाशक्ति
+(Джерело зображення: [Деталі](/uk/licenses#lekt3702))
 :::
 
-## 37.6. Syntaktisches
+## 37.6. Синтаксис
 
 :::: grammar-box
-Bei den Verben &lt;!-- TODO: Fallback translation --&gt;
+У дієсловах
 
-*   अस् 2P "sein" &lt;!-- TODO: Fallback translation --&gt;
-*   भू 1P &lt;!-- TODO: Fallback translation --&gt;
-*   कृ 8U &lt;!-- TODO: Fallback translation --&gt;
+*   अस् 2-а особа однини "бути"
+*   भू 1-а особа однини
+*   कृ 8-й клас
 
-kann statt eines prädikativen Adjektivs ein prädikatives Adverb stehen: &lt;!-- TODO: Fallback translation --&gt;
+замість присудкового прикметника може стояти присудковий прислівник:
 
-z.B. तूष्णीं बभूव "er wurde schweigend, er verstummte" &lt;!-- TODO: Fallback translation --&gt;
+напр. तूष्णीं बभूव "він став мовчазним, він замовк"
 ::::
 
 ::: media
 ![lekt3703.jpg](/images/lekt3703.jpg)
-Abb.: तूष्णीं बभूवुः
-(Bildquelle: [Details](/licenses#lekt3703)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: तूष्णीं बभूवुः
+(Джерело зображення: [Деталі](/uk/licenses#lekt3703))
 :::
 
-## 37.7. Indefinitpronomina
+## 37.7. Займенники неозначені
 
 :::: grammar-box
-Indefinitpronomina (unbestimmte Fürwörter) werden durch Anfügen von &lt;!-- TODO: Fallback translation --&gt;
+Неозначені займенники (unbestimmte Fürwörter) утворюються додаванням до
 
 *   \-चिद्
 *   \-चन
 *   अपि
 
-an die Kasus des Fragepronomens किम् gebildet. &lt;!-- TODO: Fallback translation --&gt;
+відмінкових форм займенника питання किम्.
 
-z.B. &lt;!-- TODO: Fallback translation --&gt;
+напр.
 ::: indent
-कश्चिद् = कश्चन = को ऽपि = "irgendeiner, irgendjemand"   &lt;!-- TODO: Fallback translation --&gt;
+कश्चिद् = कश्चन = को ऽपि = "хтось, якийсь"  
+कस्यचिद् = чиїсь
 :::
 ::::
 
-## 37.8. Der Fragesatz
+## 37.8. Питальне речення
 
 :::: grammar-box
-"Wer?, wie?, was?, wieso? weshalb?, warum?  
-Wer nicht fragt bleibt dumm." &lt;!-- TODO: Fallback translation --&gt;
+"Хто?, як?, що, чому? звідки? навіщо?  
+Хто не питає, той залишається дурнем."
 
 कः कथं किं  
 केन कस्मात्कस्मै ।  
 यो न पृच्छेन्  
 मूर्खस्तिष्ठेत् ॥
 
-Motto der Sesamstraße, das eine gute Leitlinie fürs Leben und das Sanskritstudium ist &lt;!-- TODO: Fallback translation --&gt;
+Мотто Сесамової вулиці, яке є хорошою життєвою настановою та настановою для вивчення санскриту
 ::::
 
-Siehe auch [Lektion 4](lektion04.md). &lt;!-- TODO: Fallback translation --&gt;
+Див. також [Урок 4](lektion04.md).
 
-Man muss unterscheiden &lt;!-- TODO: Fallback translation --&gt;
+Необхідно розрізняти
 
-*   Wortfragen (Ergänzungsfragen) &lt;!-- TODO: Fallback translation --&gt;
-*   Satzfragen &lt;!-- TODO: Fallback translation --&gt;
+*   Питальні слова (додаткові запитання)
+*   Загальні запитання
 
-Bei Wortfragen wird nach einem Agens (कर्तृ), einem Objekt, einer Tätigkeit, einem Umstand u. ä. gefragt, z.B. &lt;!-- TODO: Fallback translation --&gt;
+При запитаннях за допомогою питального слова запитується про суб'єкт (कर्तृ), об'єкт, дію, обставину тощо, наприклад,
 
-*   wer kommt? &lt;!-- TODO: Fallback translation --&gt;
-*   was tut Rāma? &lt;!-- TODO: Fallback translation --&gt;
-*   wen hört er? &lt;!-- TODO: Fallback translation --&gt;
-*   wie spricht sie Sanskrit? &lt;!-- TODO: Fallback translation --&gt;
-*   wo ist die Mutter? &lt;!-- TODO: Fallback translation --&gt;
+*   хто приходить?
+*   що робить Рама?
+*   кого він чує?
+*   як вона говорить санскритом?
+*   де мати?
 
-Bei Satzfragen wird der ganze Inhalt des Satzes erfragt, z.B. &lt;!-- TODO: Fallback translation --&gt;
+При загальному запитанні запитується весь зміст речення, наприклад,
 
-*   geht Rāma heute nach Ofterdingen? &lt;!-- TODO: Fallback translation --&gt;
-*   ist es richtig, dass ... ? &lt;!-- TODO: Fallback translation --&gt;
+*   чи йде Рама сьогодні до Оfterдінгена?
+*   чи правильно, що ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen)
+### 37.8.1. Питання до слів (додаткові питання)
 
 :::: grammar-box
-Schema: &lt;!-- TODO: Fallback translation --&gt;
+Схема:
 
-Fragepronomen/Frageadverb - Satz &lt;!-- TODO: Fallback translation --&gt;
+Займенник/прислівник питання - речення
 ::::
 
-Beispiele: &lt;!-- TODO: Fallback translation --&gt;
+Приклади:
 ::: indent
-को ग्रामं गच्छति =  केन ग्रामो गम्यते = "Wer geht ins Dorf?" &lt;!-- TODO: Fallback translation --&gt;
+को ग्रामं गच्छति = केन ग्रामो गम्यते = "Хто йде до села?"
 
-किं बाला अधीयीरन् = "Was sollten Kinder lernen?" &lt;!-- TODO: Fallback translation --&gt;
+किं बाला अधीयीरन् = "Що мали вивчати діти?"
 
-क्व रामो वसति = Wo wohnt Rāma? &lt;!-- TODO: Fallback translation --&gt;
+क्व रामो वसति = Де живе Рама?
 :::
 
 ::: media
 ![lekt3704.jpg](/images/lekt3704.jpg)
-Abb.: किं बाला अधीयीरन्
-(Bildquelle: [Details](/licenses#lekt3704)) &lt;!-- TODO: Fallback translation --&gt;
+Мал.: किं बाला अधीयीरन्
+(Джерело зображення: [Деталі](/uk/licenses#lekt3704))
 :::
 
-### 37.8.2. Satzfragen
+### 37.8.2. Питальні речення
 
 :::: grammar-box
-Manchmal ist es nur aus dem Zusammenhang erkennbar, ob ein Satz ein Fragesatz ist. &lt;!-- TODO: Fallback translation --&gt;
+Іноді лише з контексту видно, чи є речення питальним.
 ::::
 
 :::: grammar-box
-Schema I: &lt;!-- TODO: Fallback translation --&gt;
+Схема I:
 
-Verb - restlicher Satz &lt;!-- TODO: Fallback translation --&gt;
+Дієслово - решта речення
 ::::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Приклад:
 ::: indent
-गमिष्यति ब्राह्मणबालो गुरुम् । "Wird der Brahmanenjunge zu einem Meister gehen?" &lt;!-- TODO: Fallback translation --&gt;
+गमिष्यति ब्राह्मणबालो गुरुम् । "Чи піде син брахмана до вчителя?"
 :::
 
 :::: grammar-box
-Schema II: &lt;!-- TODO: Fallback translation --&gt;
+Схема II:
 
-Fragepartikel (meist am Satzanfang) - Satz &lt;!-- TODO: Fallback translation --&gt;
+Питальна частка (зазвичай на початку речення) - речення
 
-Die wichtigsten Fragepartikel sind: &lt;!-- TODO: Fallback translation --&gt;
+Найважливіші питальні частки:
 
 *   अपि
-
-*   किम् (lässt oft eine negative Antwort erwarten) &lt;!-- TODO: Fallback translation --&gt;
-
+    
+*   किम् (часто очікує негативної відповіді)
+    
 *   कच्चिद्
+    
 
-Diese Partikel entsprechen dem Fragezeichen. &lt;!-- TODO: Fallback translation --&gt;
+Ці частки відповідають знаку питання.
 ::::
 
-Beispiel: &lt;!-- TODO: Fallback translation --&gt;
+Приклад:
 ::: indent
-अपि सत्यम् । "Ist es auch wahr?" &lt;!-- TODO: Fallback translation --&gt;
+अपि सत्यम् । "Чи це також істина?"
 
-किं शक्नोति । "Kann er denn?" &lt;!-- TODO: Fallback translation --&gt;
+किं शक्नोति । "Чи може він?"
 
-कच्चित्क्षत्रियेण शत्रवो जिताः । "Hat etwa der Kṣatriya die Feinde besiegt?" &lt;!-- TODO: Fallback translation --&gt;
+कच्चित्क्षत्रियेण शत्रवो जिताः । "Чи перемогли кшатрії ворогів?"
 :::
 
-Anmerkung: किम् kann außer "was?" und als Fragepartikel auch "warum?, wozu?" bedeuten. So bes. mit dem Instrumentalis (तृतीया): &lt;!-- TODO: Fallback translation --&gt;
+Примітка: किम् може означати не тільки "що?", але й бути питальною часткою "чому?, навіщо?". Зокрема, з орудним відмінком (तृतीया):
 ::: indent
-किं क्रोधेन । "Wozu der Zorn? Was nützt der Zorn? Was soll der Zorn?" &lt;!-- TODO: Fallback translation --&gt;
+किं क्रोधेन । "Навіщо гнів? Навіщо гнів? Що принесе гнів?"
 :::
 
 ## 37.9. Словник
 
-मूर्ख 3: stumpfsinnig, blöd, dumm m. Dummkopf &lt;!-- TODO: Fallback translation --&gt;
+मूर्ख 3: тупий, дурний, дурень чол. Дурень
 
-मुनि m.: Weiser, (Schweige)asket &lt;!-- TODO: Fallback translation --&gt;
+मुनि чол.: Мудрець, (мовчазний) аскет
 
 ::: indent
-शाक्यमुनि m.: Asket aus dem Geschlecht der शाक्य (Kṣatriyas aus कपिलवस्तु) = Buddha Gautama &lt;!-- TODO: Fallback translation --&gt;
+शाक्यमुनि чол.: Аскет з роду शाक्य (кшатрії з कपिलवस्तु) = Будда Ґотама
 :::
 
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: शाक्यमुनिः
-(Bildquelle: [Details](/licenses#lekt3705)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: शाक्यमुनिः
+(Джерело зображення: [Деталі](/uk/licenses#lekt3705))
 :::
 
-दिन n.: Tag &lt;!-- TODO: Fallback translation --&gt;
+दिन сер.: День
 
-वृक्ष m.: Baum &lt;!-- TODO: Fallback translation --&gt;
+वृक्ष чол.: Дерево
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.jpg)
-Abb.: वृक्षः
-(Bildquelle: [Details](/licenses#lekt3706)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: वृक्षः
+(Джерело зображення: [Деталі](/uk/licenses#lekt3706))
 :::
 
-मुख n.: Mund, Gesicht, Vorderteil, Anfang &lt;!-- TODO: Fallback translation --&gt;
+मुख сер.: Рот, обличчя, передня частина, початок
 
-## 37.10. Вправа
+## 37.10. Вправи
 
-A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter. Übersetzen Sie die Fragesätze. &lt;!-- TODO: Fallback translation --&gt;
+A) Відповідайте на наступні запитання санскритом, використовуючи слова, вказані в дужках. Перекладіть запитальні речення.
 
-Beispiel: क आगच्छति (राम) । » राम आगच्छति । &lt;!-- TODO: Fallback translation --&gt;
+Приклад: क आगच्छति (राम) । » राम आगच्छति ।
 
 कस्मै ब्राह्मण्यन्नं ददौ ॥१॥ (भिक्षु, बाला, दास, भगवन्त्)
 
@@ -430,7 +416,7 @@ Beispiel: क आगच्छति (राम) । » राम आगच्छ
 
 कुत्राग्निश्चीयते ॥३॥ (यज्ञस्थान, मही)
 
-कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥ (यज्ञकाल, देवान् स्तु &lt;Absolutiv&gt;) &lt;!-- TODO: Fallback translation --&gt;
+कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥ (यज्ञकाल, देवान् स्तु &lt;Абсолутів&gt;)
 
 कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥ (स्वर्गलोभ, नरकभय, भीतनरकता)
 
@@ -450,16 +436,16 @@ Beispiel: क आगच्छति (राम) । » राम आगच्छ
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.jpg)
-Abb.: कृष्णः बलरामश्च
-(Bildquelle: [Details](/licenses#lekt3707)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: कृष्णः बलरामश्च
+(Джерело зображення: [Деталі](/uk/licenses#lekt3707))
 :::
 
 क्व मर्तुं सज्जना इच्छन्ति ॥१३॥ (काशी = वाराणसी)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.jpg)
-Abb.: क्व मर्तुं सज्जना इच्छन्ति
-(Bildquelle: [Details](/licenses#lekt3708)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: क्व मर्तुं सज्जना इच्छन्ति
+(Джерело зображення: [Деталі](/uk/licenses#lekt3708))
 :::
 
 केषां धर्मो वेदाध्ययनम् ॥१४॥ (द्विज, द्विजाति, आर्य)
@@ -474,9 +460,9 @@ Abb.: क्व मर्तुं सज्जना इच्छन्ति
 
 कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥ (कृतव्रता पुण्यवती सुमतिब्राह्मणी)
 
-B) Übersetzen Sie: &lt;!-- TODO: Fallback translation --&gt;
+B) Перекладіть:
 
- किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥
+ किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥
 
 अपि गुरुः सत्यं जानाति ॥२॥
 
@@ -484,16 +470,16 @@ B) Übersetzen Sie: &lt;!-- TODO: Fallback translation --&gt;
 
 कच्छिच्छुद्रो भारमाबिभः ॥४॥
 
-C) Übersetzen Sie folgende अव्ययीभाव : &lt;!-- TODO: Fallback translation --&gt;
+C) Перекладіть наступні अव्ययीभाव :
 
-1\. अति Postposition mit Akk.: "über ... hinaus" &lt;!-- TODO: Fallback translation --&gt;
+1\. अति Постпозитив з акузативом: "над ... поза"
 
 ::: indent
 1.  अतिमात्रम्
 2.  अतिवसन्तम्
 :::
 
-2\. अधि "in" &lt;!-- TODO: Fallback translation --&gt;
+2\. अधि "в"
 
 ::: indent
 1.  अधिहरि
@@ -502,11 +488,11 @@ C) Übersetzen Sie folgende अव्ययीभाव : &lt;!-- TODO: Fallback
 
 ::: media
 ![lekt3709.jpg](/images/lekt3709.jpg)
-Abb.: अधिकेरलं वर्तन्ते
-(Bildquelle: [Details](/licenses#lekt3709)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: अधिकेरलं वर्तन्ते
+(Джерело зображення: [Деталі](/uk/licenses#lekt3709))
 :::
 
-3\. अनु "entsprechend, entlang, nach" &lt;!-- TODO: Fallback translation --&gt;
+3\. अनु "відповідно, вздовж, згідно"
 
 ::: indent
 1.  अनुरूपम्
@@ -515,20 +501,20 @@ Abb.: अधिकेरलं वर्तन्ते
 4.  अनुविष्णुम्
 :::
 
-4\. अप "ohne" &lt;!-- TODO: Fallback translation --&gt;
+4\. अप "без"
 
 ::: indent
 1.  अपविष्णुम्
 :::
 
-5\. अभि "in Richtung auf" &lt;!-- TODO: Fallback translation --&gt;
+5\. अभि "у напрямку до"
 
 ::: indent
 1.  अभिमुखम्
 2.  अभ्यग्नि
 :::
 
-6\. आ "seit, bis, einschließlich" &lt;!-- TODO: Fallback translation --&gt;
+6\. आ "з, до, включно"
 
 ::: indent
 1.  आबालवृद्धम्
@@ -537,11 +523,11 @@ Abb.: अधिकेरलं वर्तन्ते
 
 ::: media
 ![lekt3710.jpg](/images/lekt3710.jpg)
-Abb.: आबालवृद्धं लंदननगरे ववृतिरे
-(Bildquelle: [Details](/licenses#lekt3710)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: आबालवृद्धं लंदननगरे ववृतिरे
+(Джерело зображення: [Деталі](/uk/licenses#lekt3710))
 :::
 
-7\. उप "nahe" &lt;!-- TODO: Fallback translation --&gt;
+7\. उप "біля"
 
 ::: indent
 1.  उपवृक्षम्
@@ -549,8 +535,8 @@ Abb.: आबालवृद्धं लंदननगरे ववृतिर
 
 ::: media
 ![lekt3711.jpg](/images/lekt3711.jpg)
-Abb.: उपवृक्षं सीदन्ति
-(Bildquelle: [Details](/licenses#lekt3711)) &lt;!-- TODO: Fallback translation --&gt;
+Рис.: उपवृक्षं सीदन्ति
+(Джерело зображення: [Деталі](/uk/licenses#lekt3711))
 :::
 
 8\. यथा
@@ -559,26 +545,24 @@ Abb.: उपवृक्षं सीदन्ति
 1.  यथास्थानम्
 :::
 
-## 37.11. Wiederholungsübung
+## 37.11. Повторювальне вправи
 
-Übersetzen Sie ins Sanskrit indem Sie ausschließlich Verbformen des Perfekt verwenden: &lt;!-- TODO: Fallback translation --&gt;
+Перекладіть санскритом, використовуючи виключно форми перфекту дієслів:
 
-Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuß eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte fraßen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises! &lt;!-- TODO: Fallback translation --&gt;
+Колись один старий пішов до іншого села і втомився в дорозі. Тоді він пішов відпочити до підніжжя мангового дерева, що стояло збоку. На цьому дереві були стиглі плоди. Старий захотів цих плодів. Але він не міг піднятися на дерево і дістати плоди. На щастя, на цьому дереві були мавпи, які їли плоди. Коли він побачив їх, старий зраділи. Що він зробив? Він взяв кілька каменів, прицілився в мавп і кинув. Розгнівані мавпи зірвали плоди і кинули їх у старого. Старий взяв ці плоди з радістю і пішов у бажане йому місце. Ось доля старого!
 
 ::: deleteme-box
 
-### Джерела
+- **Image lekt3701.jpg** (Зображення: क्व): [Джерело зображення: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Доступ від 2008-12-30. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
+- **Image lekt3702.jpg** (Зображення: यथाशक्ति): [Джерело зображення: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Доступ від 2008-12-30. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
+- **Image lekt3703.jpg** (Зображення: तूष्णीं बभूवुः): Чішті (Чішті) Дарга (Дарга), Фатехпур Сікрі = Фатехпур Сікрі / Фатехпур Сікрі [Джерело зображення: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Доступ від 2008-12-30. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
+- **Image lekt3704.jpg** (Зображення: किं बाला अधीयीरन्): Канчипурам = Канчипурам [Джерело зображення: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Доступ від 2008-12-30. -- Ліцензія Creative Commons (Attribution)]
+- **Image lekt3705.jpg** (Зображення: शाक्यमुनिः): Хуссейн Сагар = Хуссейн Сагар, Гайдарабад = Гайдарабад [Джерело зображення: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Доступ від 2008-12-31. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
+- **Image lekt3706.jpg** (Зображення: वृक्षः): Джайпур [Джерело зображення: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Доступ від 2008-12-31. -- Ліцензія Creative Commons (Attribution, Non-commercial, Share Alike)]
+- **Image lekt3707.jpg** (Зображення: कृष्णः बलरामश्च): Картина राजा रवि वर्मा (1848 - 1906) [Джерело зображення: Вікіпедія. Суспільне надбання]
+- **Image lekt3708.jpg** (Зображення: क्व मर्तुं सज्जना इच्छन्ति): काशी = वाराणसी [Джерело зображення: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Доступ від 2008-12-31. -- Ліцензія Creative Commons (Attribution)]
+- **Image lekt3709.jpg** (Зображення: अधिकेरलं वर्तन्ते): [Джерело зображення: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Доступ від 2008-12-31. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
+- **Image lekt3710.jpg** (Зображення: आबालवृद्धं लंदननगरे ववृतिरे): [Джерело зображення: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Доступ від 2008-12-31. -- Ліцензія Creative Commons (Attribution, Non-commercial, Share Alike)]
+- **Image lekt3711.jpg** (Зображення: उपवृक्षं सीदन्ति): Делі = दहली / دہلی [Джерело зображення: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Доступ від 2008-12-31. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
 
-- **Image lekt3701.jpg** (Рис.: क्व): [Джерело зображення: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3702.jpg** (Рис.: यथाशक्ति): [Джерело зображення: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3703.jpg** (Рис.: तूष्णीं बभूवुः): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Джерело зображення: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3704.jpg** (Рис.: किं बाला अधीयीरन्): Kanchipuram = Kanchipuram [Джерело зображення: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
-- **Image lekt3705.jpg** (Рис.: शाक्यमुनिः): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Джерело зображення: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3706.jpg** (Рис.: वृक्षः): Jaipur [Джерело зображення: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-- **Image lekt3707.jpg** (Рис.: कृष्णः बलरामश्च): Gemälde von राजा रवि वर्मा (1848 - 1906) [Джерело зображення: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-- **Image lekt3708.jpg** (Рис.: क्व मर्तुं सज्जना इच्छन्ति): काशी = वाराणसी [Джерело зображення: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
-- **Image lekt3709.jpg** (Рис.: अधिकेरलं वर्तन्ते): [Джерело зображення: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3710.jpg** (Рис.: आबालवृद्धं लंदननगरे ववृतिरे): [Джерело зображення: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-- **Image lekt3711.jpg** (Рис.: उपवृक्षं सीdन्ति): Delhi = दहली / دہلی [Джерело зображення: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 :::
-

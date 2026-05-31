@@ -1,32 +1,33 @@
 ---
+title: Lektion 29
+subtitle: "Verwendung des Parasmaipada (परस्मैपद) und Ātmanepada (आत्मनेपद) im Kausativum"
 lesson_id: 29
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lektion 29
 
-## 29.1. Verwendung des Parasmaipada und Ātmanepada im Kausativum
+## 29.1. Verwendung des Parasmaipada (परस्मैपद) und Ātmanepada (आत्मनेपद) im Kausativum
 
 
 ::: grammar-box
-**Das Kausativ ist mit wenigen Ausnahmen Ubhayapada**
+**Das Kausativ ist mit wenigen Ausnahmen Ubhayapada (उभयपद)**
 :::
 
 
-Regeln für die Verwendung des Ātmanepada im Kausativum:
-
 ::: grammar-box
-**Im Kausativum wird das Ātmanepada verwendet:**
-1. Wenn die Frucht der veranlassten Handlung dem Veranlasser zugute kommt:
+**Im Kausativum wird das Ātmanepada (आत्मनेपद) verwendet:**
+
+**1. Wenn die Frucht der veranlassten Handlung dem Veranlasser zugute kommt:**
 :::
 
 Beispiel:
 
 रामः कटं कारयते = "Rāma lässt für sich (im eigenen Interesse) eine Matte machen"
 
-::: grammar-box
-2. Wenn das Kausativum transitiver Verben reflexiv gebraucht wird ("sich zeigen" "sich hören lassen" u.ä.), bzw. wenn das Objekt des einfachen Verbs Agens (कर्तृ) des Kausativs ist:
-:::
+**2. Wenn das Kausativum transitiver Verben reflexiv gebraucht wird ("sich zeigen" "sich hören lassen" u.ä.), bzw. wenn das Objekt des einfachen Verbs Agens (कर्तृ) des Kausativs ist:**
 
 Beispiel:
 
@@ -35,7 +36,7 @@ Beispiel:
 Ergebnis: भक्ता विष्णुं पश्यन्ति = "Die Gläubigen sehen Viṣṇu"
 
 
-Die Regeln entsprechen also i.A. den Regeln für die Verwendung des Ātmanepada bei Ubhayapada-Verben.
+Die Regeln entsprechen also i.A. den Regeln für die Verwendung des Ātmanepada (आत्मनेपद) bei Ubhayapada (उभयपद)-Verben.
 
 ## 29.2. Wortliste
 
@@ -74,6 +75,7 @@ Inf. ग्रसितुम्
 ::: media
 ![](/images/lekt2903.jpg)
 Abb.: परिव्राजकाः
+Pushkar = पुष्कर
 (Bildquelle: [Details](/licenses#lekt2903))
 :::
 
@@ -93,6 +95,7 @@ davon:
 ::: media
 ![](/images/lekt2901.jpg)
 Abb.: मत्स्यः
+रोहू मछली = Labeo rohita Hamilton
 (Bildquelle: [Details](/licenses#lekt2901))
 :::
 
@@ -126,21 +129,21 @@ PPP पूजित
 
 1\. Definition von अविद्या :
 
-अनित्याशुचिदुःखा**नात्मसु** नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २.५॥
+अनित्याशुचिदुःखा***नात्मसु*** नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २.५॥
 
 Erklärung: आत्मसु = Lok. sg. zu आत्मन् m. "Seele ; das Absolute, insofern es im Individuum verwirklicht wird"
 
 2\. कौटिलीयार्थशास्त्र 1.4. über den rechten Gebrauch des दण्ड :
 
-तीक्ष्णदण्डो भूताना**मुद्वेजनीयो** भवति ।८।
+तीक्ष्णदण्डो भूताना***मुद्वेजनीयो*** भवति ।८।
 
 मृदुदण्डः परिभूयते ।९।
 
 यथार्हदण्डः पूज्यते ।१०।
 
-सु**विज्ञात**प्रणीतो हि दण्डः प्रजा धर्मार्थकामै**र्योजयति** ।११।
+सु***विज्ञात***प्रणीतो हि दण्डः प्रजा धर्मार्थकामै***र्योजयति*** ।११।
 
-दुष्प्रणीतः **कामक्रोधाभ्याम**वज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति, **किमङ्ग** पुनर्गृहस्थान् ।१२।
+दुष्प्रणीतः ***कामक्रोधाभ्याम***वज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति, ***किमङ्ग*** पुनर्गृहस्थान् ।१२।
 
 अप्रणीतस्तु मात्स्यन्यायमुद्भावयति ।१३।
 
@@ -157,6 +160,7 @@ Erklärung: आत्मसु = Lok. sg. zu आत्मन् m. "Seele ; das 
 ::: media
 ![](/images/lekt2902.jpg)
 Abb.: मात्स्यन्याय:
+(Zeichnung: Namcha Payer, 2002-11)
 (Bildquelle: [Details](/licenses#lekt2902))
 :::
 
@@ -276,7 +280,7 @@ Erklärungen:
 :::
 
 ::: deleteme-box
-### Quellen
+
 **lekt2903:** Pushkar = पुष्कर [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 **lekt2901:** रोहू मछली = Labeo rohita Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense]
 **lekt2902:** (Zeichnung: Namcha Payer, 2002-11)

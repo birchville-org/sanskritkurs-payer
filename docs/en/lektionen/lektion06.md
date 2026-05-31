@@ -1,6 +1,10 @@
 ---
+title: Lesson 6
+subtitle: "The structure of the verbal sentence (agent and verbal form)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
+category: "Grammar"
+status: stable
 ---
 
 # Lesson 6
@@ -12,53 +16,53 @@ last_reconstructed: 2026-05-07
 - The moods and tenses of the verb
 - Indicative Present (laṭ) and the primary endings of the 3rd person
 - The formation of the present stem (Classes 1, 4, and 6)
-- The vowel gradation (Ablaut: Guṇa and Vṛddhi)
+- The sound gradation (Ablaut: Guṇa and Vṛddhi)
 :::
 
 ## 6.1. The Verbal Sentence
 
 ::: grammar-box
-**Schema I: Verb Form**
-- e.g., **yajati** = यजति = “He (she, it) worships with an offering,” “He (she, it) sacrifices”
+**Schema I: Verb form**
+- e.g. **yajati** = यजति = "He (she, it) venerates with a sacrifice", "He (she, it) sacrifices"
 
-**Schema II: Agent (kartṛ m. = कर्तृ) – Verb Form**
-- e.g., **rāmo yajati** = रामो यजति = “Rāma worships with an offering,” “Rāma sacrifices”
+**Schema II: Agent (kartṛ m. = कर्तृ) – Verb form**
+- e.g. **rāmo yajati** = रामो यजति = "Rāma venerates with a sacrifice", "Rāma sacrifices"
 :::
 
-When the agent (**kartṛ** m. = कर्तृ) is mentioned in a verbal sentence that is not in the passive voice, the agent appears in the **nominative** (first case, prathamā = प्रथमा). In terms of number (vacana n. = वचन), the agent and the verb form agree.
+When the agent (**kartṛ** m. = कर्तृ) is mentioned in a verbal sentence that is not in the passive voice, the agent is in the **nominative** (first case, prathamā = प्रथमा). In the number (vacana n. = वचन), the agent and the verb form agree.
 
 ---
 
 ## 6.2. On the Formation of Verbal Forms
 
-A finite verbal form, i.e., a verbal form with personal endings, expresses the following in Sanskrit:
+A finite verbal form, i.e., a verbal form with personal ending, expresses in Sanskrit the following:
 
 1. **Meaning** (**artha** m. अर्थ)
-2. **Person** and **Number** (Zahl, **vacana** n. = वचन) (I, you, he &lt;she, it&gt;, we dual, you dual, they dual, we, you, they)
-3. Voice (genus verbi):
-   1. **Parasmaipada** (n. = परस्मैपद) ("word form with reference to another"): Active. E.g., **yajati** = यजति = "He worships with a sacrifice" (namely, the priest who performs the sacrifice for someone else)
-   2. **Ātmanepada** (n. = आत्मनेपद) ("word form with reference to oneself"): Middle. E.g., **yajate** = यजते = "He worships with a sacrifice for his own benefit" (namely, the sacrificer who offers for himself and his family)
-   3. **Passive** (**karman** n. = कर्मन्). E.g., **ijyate** = इज्यते = "It is worshipped with a sacrifice"
+2. **Person** and **Number** (Zahl, **vacana** n. = वचन) (I, you, he &lt;she, it&gt;, we two, you two, they two, we, you, they)
+3. Mode of action (genus verbi):
+   1. **Parasmaipada** (n. = परस्मैपद) ("word form with reference to another"): Active. e.g. **yajati** = यजति = "He venerates with a sacrifice" (namely the priest, who performs the sacrifice for someone else)
+   2. **Ātmanepada** (n. = आत्मनेपद) ("word form with reference to oneself"): Middle. e.g. **yajate** = यजते = "He venerates with a sacrifice for his own interest" (namely the sacrificer, who sacrifices for himself and his family)
+   3. **Passive** (**karman** n. = कर्मन्). e.g. **ijyate** = इज्यते = "It is venerated with a sacrifice"
 
-   In many cases, the semantic nuance of the Ātmanepada is no longer discernible; furthermore, even skilled poets often use the Ātmanepada without any semantic distinction from the Parasmaipada. Nevertheless, during translation, one must always carefully observe whether such a semantic nuance is present.
+   In many cases, the semantic nuance of the Ātmanepada can no longer be recognized; also, even artistic poets often use the Ātmanepada without semantic difference from the Parasmaipada. Nevertheless, when translating, one must always pay close attention to whether such a semantic nuance is present.
 
-   Verbs that are used in both the Parasmaipada and the Ātmanepada (in the specific Ātmanepada sense) are called **Ubhayapada** verbs (**ubhayapada** n. = उभयपद = "both word forms").
+   Verbs that are used in the Parasmaipada and Ātmanepada (in the specific Ātmanepada meaning) are called **Ubhayapada**-verbs (**ubhayapada** n. = उभयपद = "both word forms").
 
-   Some verbs are used either exclusively in the Parasmaipada or exclusively in the Ātmanepada. In the case of these verbs, the Ātmanepada or Parasmaipada carries no specific meaning. E.g., **manyate** = मन्यते = "he (she, it) thinks" (without specific Ātmanepada meaning).
+   Some verbs are used either only in the Parasmaipada or only in the Ātmanepada. In these verbs, the Ātmanepada or Parasmaipada has no specific meaning. e.g. **manyate** = मन्यते = "he (she, it) thinks" (without specific Ātmanepada meaning).
 
-4. **Mood** (Modus):
-   1. **Indicative**: Statement
-   2. **Optative**: Wish and potentiality
-   3. **Imperative**: Command
-5. **Tense** (Tempus):
-   1. **Present**: Present time
+4. **Mode of statement** (Mood):
+   1. **Indicative**: Statement form
+   2. **Optative**: Wish form and possibility form
+   3. **Imperative**: Command form
+5. **Time** (Tense):
+   1. **Present**: Present
    2. **Imperfect**
    3. **Perfect**
    4. **Aorist**
-   5. **Future**: Future time
+   5. **Future**: Future
    6. **Conditional**
 
-   Tenses are formed from tense stems: present stem, aorist stem, perfect stem, future stem.
+   The tenses are formed from tense stems: present stem, aorist stem, perfect stem, future stem.
 
 ---
 
@@ -67,12 +71,12 @@ A finite verbal form, i.e., a verbal form with personal endings, expresses the f
 The present tense is the tense of the present, particularly also of duration.
 
 ::: grammar-box
-**The Indicative (declarative form) Present is formed by adding the so-called primary endings to the present stem.**
+**The Indicative (declarative) Present is formed by adding the so-called primary endings to the present stem.**
 :::
 
 Examples:
 
-| Root (dhātu) | Present Stem | 3rd Person Singular Indicative Present Parasmaipada |
+| Root (dhātu) | Present stem | 3rd person singular Indicative Present Parasmaipada |
 | :--- | :--- | :--- |
 | **viś** = विश् | **viśa** = विश | **viśati** = विशति = "he (she, it) enters" |
 | **bhū** = भू | **bhava** = भव | **bhavati** = भवति = "he (she, it) arises" |
@@ -80,30 +84,30 @@ Examples:
 
 ---
 
-## 6.4. Primary Endings of the Third Person (prathama m. = प्रथम = "first (!) Person")
+## 6.4. Primary endings of the third person (prathama m. = प्रथम = "first (!) person")
 
 ::: grammar-box
-| | Singular (Einzahl)[[br]]ekavacana n.[[br]]एकवचन | Plural (Mehrzahl)[[br]]bahuvacana n.[[br]]बहुवचन |
+| | Singular (singular number)[[br]]ekavacana n.[[br]]एकवचन | Plural (plural number)[[br]]bahuvacana n.[[br]]बहुवचन |
 | :--- | :--- | :--- |
 | **Parasmaipada n.**[[br]]परस्मैपद | **-ti**[[br]]-ति | **-nti**[[br]]-न्ति |
 | **Ātmanepada n.**[[br]]आत्मनेपद | **-te**[[br]]-ते | **-nte**[[br]]-न्ते |
 :::
 
-Example **yaj** = यज् = "to honor with a sacrifice," "to sacrifice":
+Example **yaj** = यज् = "to honor with a sacrifice", "to sacrifice":
 - Present stem: **yaja** = यज
-- 3rd sg. P. **yajati** = यजति
-- 3rd pl. P. **yajanti** = यजन्ति
-- 3rd sg. Ā. **yajate** = यजते
-- 3rd pl. Ā. **yajante** = यजन्ते
+- 3. sg. P. **yajati** = यजति
+- 3. pl. P. **yajanti** = यजन्ति
+- 3. sg. Ā. **yajate** = यजते
+- 3. pl. Ā. **yajante** = यजन्ते
 
 ---
 
 ## 6.5. Formation of the Present Stem
 
-### 6.5.1. Verbs of the 6th Present Class (tudādi = तुदादि = "tud, etc.")
+### 6.5.1. Verbs of the 6th Present Class (tudādi = तुदादि = "tud etc.")
 
 ::: grammar-box
-**Present Stem = Root in guṇa grade (as it is listed) + a-**
+**Present Stem = Root in guṇa grade (as listed) + a-**
 
 | Root (dhātu m.)[[br]]धातु | Present Stem |
 | :--- | :--- |
@@ -111,29 +115,27 @@ Example **yaj** = यज् = "to honor with a sacrifice," "to sacrifice":
 | **sṛj**[[br]]सृज् | **sṛja-**[[br]]सृज- |
 :::
 
-### 6.5.2. Verbs of the 1st Present Class (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū, etc.")
+### 6.5.2. Verbs of the 1st Present Class (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū etc.")
 
 ::: grammar-box
-**Present stem = Root in strong grade (rarely in lengthened grade) + a-**
-
-| Root (dhātu m.)[[br]]धातु | Strong grade | Strong grade before a- | Present stem |
+| Present Stem = Root in strong grade (rarely in guṇa grade) + a- ||||
+| Root (dhātu m.)[[br]]धातु | Strong Grade | Strong Grade before a- | Present Stem |
 | :--- | :--- | :--- | :--- |
 | **bhū**[[br]]भू | **bho**[[br]]भो | **bhav**[[br]]भव् | **bhava-**[[br]]भव- |
 | **nī**[[br]]नी | **ne**[[br]]ने | **nay**[[br]]नय् | **naya-**[[br]]नय- |
-| **smṛ**[[br]]स्मृ | **smar**[[br]]स्मर् | | **smara-**[[br]]स्मर- |
-| **yaj**[[br]]यज् | | | **yaja-**[[br]]यज- |
-
-If the vowel occurs in a long closed syllable (short vowel before two or more consonants), the formation of the strong grade is omitted:
-- **nind**[[br]]निन्द् → **ninda-**[[br]]निन्द-
+| **smṛ**[[br]]स्मृ | **smar**[[br]]स्मर् | **smar**[[br]]स्मर् | **smara-**[[br]]स्मर- |
+| **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaja-**[[br]]यज- |
+| If the vowel is in a long closed syllable, i.e., a short vowel before two or more consonants, the formation of the strong grade is omitted ||||
+| **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **ninda-**[[br]]निन्द- |
 :::
 
 #### 6.5.2.1. Word Sandhi of e and o
-Within the word, before vowels, **e** is replaced by **ay**, and **o** by **av**.
+Within words, before vowels, **e** is replaced by **ay**, **o** by **av**.
 
-#### 6.5.2.2. Gradation (Ablaut)
+#### 6.5.2.2. Sound Gradation (Ablaut)
 
 ::: grammar-box
-| Weak grade[[br]]Zero grade | Strong grade[[br]]Full grade[[br]]Guṇa m.[[br]]गुण | Lengthened grade[[br]]Vṛddhi f.[[br]]वृद्धि |
+| Low Grade[[br]]Zero Grade | Strong Grade[[br]]Full Grade[[br]]Guṇa m.[[br]]गुण | Extended Grade[[br]]Vṛddhi f.[[br]]वृद्धि |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
 | **i / ī** | **e** | **ai** |
@@ -142,7 +144,7 @@ Within the word, before vowels, **e** is replaced by **ay**, and **o** by **av**
 | **ḷ** | **al** | **āl** |
 :::
 
-### 6.5.3. Verbs of the 4th Present Class (divādi = दिवादि = "div et al.")
+### 6.5.3. Verbs of the 4th Present Class (divādi = दिवादि = "div etc.")
 
 ::: grammar-box
 **Present Stem = Root in guṇa grade (as listed) + ya-**
@@ -155,10 +157,10 @@ Within the word, before vowels, **e** is replaced by **ay**, and **o** by **av**
 | **man**[[br]]मन् | **manya-**[[br]]मन्य- |
 :::
 
-### 6.5.4. Thematic Vowel, Thematic Present Classes
+### 6.5.4. Theme Vowel, Thematic Present Classes
 
 ::: grammar-box
-The **a** in the stem-forming suffixes of present classes is referred to as the **thematic vowel**. Present classes with **a** in the stem-forming suffix are therefore called "thematic present classes."
+The **a** in the stem-forming suffixes of present classes is called the **theme vowel**. Present classes with **a** in the stem-forming suffix are therefore called "thematic present classes."
 :::
 
 ---
@@ -166,11 +168,11 @@ The **a** in the stem-forming suffixes of present classes is referred to as the 
 ## 6.6. Spoken Sanskrit: Further Questions (praśna m. = प्रश्न)
 
 ::: grammar-box
-- **N. N. kiṃ karoti?** = N.N. किं करोति = "What is N. N. doing?"
-- **N. N. (plural) kiṃ kurvanti?** = N.N. किं कुर्वन्ति = "What are the N.N.s doing?"
-- (karoti, kurvanti from **kṛ** = कृ 8 U: "to do, to make")
-- **kiṃ kuśalam?** = किं कुशलम् = "Are you well? / How are you?"
-- Answer: **sarvathā kuśalam** = सर्वथा कुशलम् = "(I am) well in every respect."
+- **N. N. kiṃ karoti?** = N.N. किं करोति = "What does N. N. do?"
+- **N. N. (plural) kiṃ kurvanti?** = N.N. किं कुर्वन्ति = "What do the N.N.s do?"
+- (karoti, kurvanti to **kṛ** = कृ 8 U: "to do, to make")
+- **kiṃ kuśalam?** = किं कुशलम् = "Are you well?, How are you?"
+- Answer: **sarvathā kuśalam** = सर्वथा कुशलम् = "(It is going) well in every respect."
 :::
 
 ---
@@ -180,14 +182,14 @@ The **a** in the stem-forming suffixes of present classes is referred to as the 
 ::: grammar-box
 In Sanskrit, verbs are listed in the **root form**. The number following the root indicates the **conjugation class**.
 
-- **P:** The root is exclusively Parasmaipada.
-- **Ā:** The root is exclusively Ātmanepada.
-- **U:** Ubhayapada ("both forms"): The root is used in both Parasmaipada and Ātmanepada.
-- **():** The parentheses contain the 3rd person singular present indicative (laṭ).
+- **P:** Root is Parasmaipada only
+- **Ā:** Root is Ātmanepada only
+- **U:** Ubhayapada ("both forms"): Root is used in both Parasmaipada and Ātmanepada.
+- **():** In parentheses is the 3rd person singular present indicative (laṭ).
 :::
 
 **Learn the following words:**
-- **yaj** 1 U (yajati) यज् यजति : to revere with a sacrifice, to sacrifice
+- **yaj** 1 U (yajati) यज् यजति : to honor with a sacrifice, to sacrifice
 - **bhū** 1 P (bhavati) भू भवति : to become, to arise, to be
 - **smṛ** 1 P (smarati) स्मृ स्मरति : to bring to mind, to remember
 - **nṛt** 4 P (nṛtyati) नृत् नृत्यति : to dance
@@ -198,9 +200,11 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 - **viś** 6 P (viśati) विश् विशति : to enter
 - **sṛj** 6 P (sṛjati) सृज् सृजति : to release, to let out, to emanate
 
-## 6.8. Exercises
+---
 
-**A) Form verbal sentences using the roots specified in parentheses by inserting the appropriate forms:**
+## 6.8. Exercise
+
+**A) Form verbal sentences with the roots specified in parentheses by inserting them:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
    ब्राह्मणस् ... यज्, नृत्, विश्, मन्, युध्, नी, मुह्
 2. devas ... (nṛt, yudh, smṛ, sṛj)
@@ -210,22 +214,22 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 4. dhenus ... (viś, bhū)
    धेनुस् ... विश्, भू
 
-**B) Convert the sentences formed in Exercise A into the plural.**
+**B) Put the sentences formed in Exercise A into the plural.**
 
 **C) Translate into Sanskrit:**
-1. He worships with a sacrifice. (The priest for a sacrificer)
+1. He worships with a sacrifice. (The sacrificial priest for a sacrificial lord)
 2. Śiva dances.
 3. Rāma leads.
 4. Śūdras are confused.
 5. The Kṣatriya women enter.
 6. The LORD causes to emanate.
-7. The Kṣatriya worships with a sacrifice. (as a sacrificer)
+7. The Kṣatriya worships with a sacrifice. (as sacrificial lord)
 8. Śūdra women dance.
 9. Kṣatriyas fight.
 10. Holy men lead.
 11. They remember.
 12. Who (fem.) dances?
-13. The (aforementioned) Brahmin woman dances.
+13. The (mentioned) Brahmin woman dances.
 
 ::: media
 ![](/images/lekt0601.jpg)
@@ -236,9 +240,9 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 
 ---
 
-## 6.9. Review Exercises
+## 6.9. Review Exercise
 
-**A) Fill-in Exercise: Form questions for which the sentences resulting from the following fill-in exercises serve as answers:**
+**A) Fill-in exercise: Form questions to which the sentences you form after the following fill-in exercises are answers:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
    देवस् ... ईश्वर, नृत्, सृज्, अग्नि, इन्द्र
 2. (dvija, sādhu, kavi) ... brāhmaṇaḥ
@@ -319,14 +323,14 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 7. Indra is the LORD.
 8. The livestock enter.
 9. Viṣṇu causes to emanate = Viṣṇu creates.
-10. Twice-born men are good.
-11. The triple (knowledge) is the Sāmaveda, the Ṛgveda, and the Yajurveda. (2 possibilities)
+10. Twice-born are good.
+11. The triple (knowledge) is the Sāmaveda, the Ṛgveda and the Yajurveda. (2 possibilities)
 12. This goddess is good.
-13. The five "afflictions" are: ignorance, egoism, passion (love), hatred, attachment to the body. (2 possibilities)
-14. "States of abiding in Brahman" are: friendly benevolence, compassion, sympathetic joy, equanimity. (2 possibilities)
+13. The five "afflictions" are: ignorance, ego, passion (love), hatred, attachment to the body. (2 possibilities)
+14. "Abodes of Brahman" are: friendly goodwill, compassion, sympathetic joy, equanimity. (2 possibilities)
 15. These Brahmins sacrifice on behalf of others.
-16. Brahmins, Kṣatriyas, and Vaiśyas are twice-born. (2 possibilities)
-17. The sciences (for a prince) are: philosophy, the triple (Vedic knowledge), economics, and politics. (2 possibilities)
+16. Brahmins, Kṣatriyas and Vaśyas are twice-born. (2 possibilities)
+17. The sciences (for a prince) are: philosophy, the triple (Vedic knowledge), economics and politics. (2 possibilities)
 18. Are you well?
-19. (I am) well in every respect.
+19. (It goes for me) in every respect well.
 
