@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=Noto+Sans+Tamil:wght@400;600&display=swap');
 
 html {
   text-rendering: optimizeLegibility;
@@ -669,3 +669,19 @@ html.is-embedded .VPContent {
   line-height: 1.15 !important;
   margin: 0 !important;
 }
+
+/* Tamil — Noto Sans Tamil font + größere Basisschrift für Lesbarkeit */
+html[lang="ta-IN"] {
+  --vp-font-family-base: "Noto Sans Tamil", "Latha", "Tamil Sangam MN", sans-serif;
+}
+
+html[lang="ta-IN"] .vp-doc p,
+html[lang="ta-IN"] .vp-doc li,
+html[lang="ta-IN"] .vp-doc td,
+html[lang="ta-IN"] .vp-doc th {
+  font-size: 1.15em;
+}
+
+html[lang="ta-IN"] .vp-doc h1 { font-size: 2rem; }
+html[lang="ta-IN"] .vp-doc h2 { font-size: 1.6rem; }
+html[lang="ta-IN"] .vp-doc h3 { font-size: 1.3rem; }

@@ -272,16 +272,16 @@
             padding: 1rem 1rem;
             background: var(--color-parchment-dark);
             border-right: 1px solid rgba(0,0,0,0.08);
-            font-size: 0.78rem;
-            line-height: 1.5;
+            font-size: 0.88rem;
+            line-height: 1.6;
         }
         .dark #syntax-pane { border-right-color: rgba(255,255,255,0.08); }
         #syntax-pane h4 {
-            font-size: 0.68rem;
+            font-size: 0.72rem;
             text-transform: uppercase;
             letter-spacing: 0.07em;
             opacity: 0.45;
-            margin: 1.1rem 0 0.35rem;
+            margin: 1.1rem 0 0.4rem;
             font-family: 'Inter', sans-serif;
             font-weight: 600;
         }
@@ -290,24 +290,28 @@
             display: flex;
             justify-content: space-between;
             gap: 0.4rem;
-            padding: 0.1rem 0;
-            border-bottom: 1px solid rgba(0,0,0,0.04);
+            padding: 0.18rem 0.3rem;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background 0.12s;
         }
-        .dark #syntax-pane .syn-row { border-bottom-color: rgba(255,255,255,0.04); }
+        #syntax-pane .syn-row:hover { background: rgba(0,0,0,0.07); }
+        .dark #syntax-pane .syn-row:hover { background: rgba(255,255,255,0.08); }
         #syntax-pane code {
             font-family: monospace;
-            font-size: 0.75rem;
+            font-size: 0.83rem;
             background: rgba(0,0,0,0.06);
-            padding: 0.05em 0.25em;
+            padding: 0.05em 0.3em;
             border-radius: 3px;
             white-space: nowrap;
         }
         .dark #syntax-pane code { background: rgba(255,255,255,0.1); }
         #syntax-pane .syn-desc {
             opacity: 0.55;
-            font-size: 0.72rem;
+            font-size: 0.8rem;
             text-align: right;
             flex-shrink: 0;
+            align-self: center;
         }
 
         /* RESET / SAVE Buttons — nur im Editor-Modus */
@@ -414,8 +418,9 @@
         .editor-preview {
             display: none;
             width: 100%;
-            height: 100%;
-            overflow: auto;
+            flex: 1;
+            min-height: 0;
+            overflow-y: auto;
             padding: 1.5rem;
             background: var(--color-parchment);
             color: var(--color-ink);
@@ -560,43 +565,41 @@
     <div class="container" id="main-container">
         <div id="syntax-pane">
             <h4>Standard Markdown</h4>
-            <div class="syn-row"><code># Titel</code><span class="syn-desc">H1–H6</span></div>
-            <div class="syn-row"><code>**fett**</code><span class="syn-desc">Fettdruck</span></div>
-            <div class="syn-row"><code>*kursiv*</code><span class="syn-desc">Kursiv</span></div>
-            <div class="syn-row"><code>`code`</code><span class="syn-desc">Inline-Code</span></div>
-            <div class="syn-row"><code>> Text</code><span class="syn-desc">Blockquote</span></div>
-            <div class="syn-row"><code>- Item</code><span class="syn-desc">Liste</span></div>
-            <div class="syn-row"><code>[Text](url)</code><span class="syn-desc">Link</span></div>
-            <div class="syn-row"><code>![Alt](pfad)</code><span class="syn-desc">Bild</span></div>
-            <div class="syn-row"><code>| A | B |</code><span class="syn-desc">Tabelle</span></div>
-            <div class="syn-row"><code>|---|---|</code><span class="syn-desc">Trennzeile</span></div>
-            <div class="syn-row"><code>---</code><span class="syn-desc">Linie</span></div>
+            <div class="syn-row" onclick="insertSnippet('# ', '')"><code># Titel</code><span class="syn-desc">H1–H6</span></div>
+            <div class="syn-row" onclick="insertSnippet('**', '**')"><code>**fett**</code><span class="syn-desc">Fettdruck</span></div>
+            <div class="syn-row" onclick="insertSnippet('*', '*')"><code>*kursiv*</code><span class="syn-desc">Kursiv</span></div>
+            <div class="syn-row" onclick="insertSnippet('\`', '\`')"><code>`code`</code><span class="syn-desc">Inline-Code</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n> ', '')"><code>&gt; Text</code><span class="syn-desc">Blockquote</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n- ', '')"><code>- Item</code><span class="syn-desc">Liste</span></div>
+            <div class="syn-row" onclick="insertSnippet('[', '](url)')"><code>[Text](url)</code><span class="syn-desc">Link</span></div>
+            <div class="syn-row" onclick="insertSnippet('![', '](pfad)')"><code>![Alt](pfad)</code><span class="syn-desc">Bild</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n| A | B |\n|---|---|\n| ', ' | |')"><code>| A | B |</code><span class="syn-desc">Tabelle</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n---\n', '')"><code>---</code><span class="syn-desc">Linie</span></div>
 
             <h4>Erweiterungen (markdown-it)</h4>
-            <div class="syn-row"><code>[[br]]</code><span class="syn-desc">Zeilenumbruch</span></div>
-            <div class="syn-row"><code>[[indent]]</code><span class="syn-desc">Einzug inline</span></div>
+            <div class="syn-row" onclick="insertSnippet('[[br]]', '')"><code>[[br]]</code><span class="syn-desc">Zeilenumbruch</span></div>
+            <div class="syn-row" onclick="insertSnippet('[[indent]]', '')"><code>[[indent]]</code><span class="syn-desc">Einzug inline</span></div>
 
             <h4>MultiMD-Tabellen</h4>
-            <div class="syn-row"><code>| A || B |</code><span class="syn-desc">Colspan</span></div>
-            <div class="syn-row"><code>| ^^ |</code><span class="syn-desc">Rowspan</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n| A || B |\n|---|---|\n| ', ' | |')"><code>| A || B |</code><span class="syn-desc">Colspan</span></div>
+            <div class="syn-row" onclick="insertSnippet(' ^^ ', '')"><code>^^</code><span class="syn-desc">Rowspan</span></div>
 
             <h4>Container-Blöcke</h4>
-            <div class="syn-row"><code>::: grammar-box</code><span class="syn-desc">gelb</span></div>
-            <div class="syn-row"><code>::: grammar-box2</code><span class="syn-desc">orange</span></div>
-            <div class="syn-row"><code>::: important</code><span class="syn-desc">violett</span></div>
-            <div class="syn-row"><code>::: note-box</code><span class="syn-desc">grau</span></div>
-            <div class="syn-row"><code>::: indent</code><span class="syn-desc">eingerückt</span></div>
-            <div class="syn-row"><code>::: center</code><span class="syn-desc">zentriert</span></div>
-            <div class="syn-row"><code>::: media</code><span class="syn-desc">Bild-Block</span></div>
-            <div class="syn-row"><code>::: deleteme-box</code><span class="syn-desc">unsichtbar</span></div>
-            <div class="syn-row"><code>::: no-header</code><span class="syn-desc">Tabelle o. Kopf</span></div>
-            <div class="syn-row"><code>::: compact</code><span class="syn-desc">enge Tabelle</span></div>
-            <div class="syn-row"><code>::: laut-table</code><span class="syn-desc">Laut-Tabelle</span></div>
-            <div class="syn-row"><code>::: metrik-schema</code><span class="syn-desc">Metrik</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: grammar-box\n', '\n:::')"><code>::: grammar-box</code><span class="syn-desc">gelb</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: grammar-box2\n', '\n:::')"><code>::: grammar-box2</code><span class="syn-desc">orange</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: important\n', '\n:::')"><code>::: important</code><span class="syn-desc">violett</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: note-box\n', '\n:::')"><code>::: note-box</code><span class="syn-desc">grau</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: indent\n', '\n:::')"><code>::: indent</code><span class="syn-desc">eingerückt</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: center\n', '\n:::')"><code>::: center</code><span class="syn-desc">zentriert</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: media\n', '\n:::')"><code>::: media</code><span class="syn-desc">Bild-Block</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: deleteme-box\n', '\n:::')"><code>::: deleteme-box</code><span class="syn-desc">unsichtbar</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: no-header\n', '\n:::')"><code>::: no-header</code><span class="syn-desc">Tabelle o. Kopf</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: compact\n', '\n:::')"><code>::: compact</code><span class="syn-desc">enge Tabelle</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: laut-table\n', '\n:::')"><code>::: laut-table</code><span class="syn-desc">Laut-Tabelle</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: metrik-schema\n', '\n:::')"><code>::: metrik-schema</code><span class="syn-desc">Metrik</span></div>
 
             <h4>Devanāgarī</h4>
-            <div class="syn-row"><code>नमस्ते</code><span class="syn-desc">→ automatisch rot</span></div>
-            <div class="syn-row"><code>⟪text⟫</code><span class="syn-desc">explizit Sanskrit</span></div>
+            <div class="syn-row" onclick="insertSnippet('⟪', '⟫')"><code>⟪text⟫</code><span class="syn-desc">explizit Sanskrit</span></div>
         </div>
         <div class="pane" id="left-pane">
             <iframe id="left-frame" src="about:blank"></iframe>
@@ -683,6 +686,18 @@
             editorPreview.innerHTML = html;
         }
 
+        window._editorFrontmatter = '';
+
+        function stripFrontmatter(text) {
+            const m = text.match(/^---\n([\s\S]*?\n)---\n/);
+            if (m) {
+                window._editorFrontmatter = m[0];
+                return text.slice(m[0].length);
+            }
+            window._editorFrontmatter = '';
+            return text;
+        }
+
         async function loadEditorContent() {
             const editorInput = document.getElementById('editor-input');
             const num = lessonInput.value.padStart(2, '0');
@@ -699,7 +714,7 @@
             try {
                 const r = await fetch(mdUrl);
                 if (!r.ok) throw new Error('HTTP ' + r.status);
-                editorInput.value = await r.text();
+                editorInput.value = stripFrontmatter(await r.text());
             } catch(e) {
                 editorInput.value = '';
                 editorInput.placeholder = 'Fehler: ' + mdUrl + ' konnte nicht geladen werden.';
@@ -762,6 +777,22 @@
             }
         }
 
+        function insertSnippet(before, after) {
+            const ta = document.getElementById('editor-input');
+            const start = ta.selectionStart, end = ta.selectionEnd;
+            const selected = ta.value.slice(start, end);
+            const snippet = before + selected + after;
+            ta.setRangeText(snippet, start, end, 'end');
+            // Cursor zwischen before und after wenn keine Selektion
+            if (start === end) {
+                const pos = start + before.length;
+                ta.setSelectionRange(pos, pos);
+            }
+            ta.focus();
+            clearTimeout(editorDebounce);
+            editorDebounce = setTimeout(renderPreview, 300);
+        }
+
         function resetEditor() {
             loadEditorContent();
         }
@@ -769,7 +800,7 @@
         function saveEditor() {
             const editorInput = document.getElementById('editor-input');
             const btn = document.getElementById('btn-save');
-            const text = editorInput.value;
+            const text = (window._editorFrontmatter || '') + editorInput.value;
             if (navigator.clipboard && navigator.clipboard.writeText) {
                 navigator.clipboard.writeText(text).then(() => {
                     btn.textContent = '✓ Kopiert';
@@ -928,6 +959,7 @@
         }
 
         function updateFrames() {
+            if (viewMode === 'editor') { loadEditorContent(); return; }
             lastSyncedHeader = null;
             const num = lessonInput.value.padStart(2, '0');
             const leftVal = document.getElementById('left-lang').value;
