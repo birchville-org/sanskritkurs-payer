@@ -670,18 +670,31 @@ html.is-embedded .VPContent {
   margin: 0 !important;
 }
 
-/* Tamil — Noto Sans Tamil font + größere Basisschrift für Lesbarkeit */
+/* Tamil — Noto Sans Tamil font */
 html[lang="ta-IN"] {
   --vp-font-family-base: "Noto Sans Tamil", "Latha", "Tamil Sangam MN", sans-serif;
 }
 
+/* Body text: leicht reduziert (war 1.15em — zu gross) */
 html[lang="ta-IN"] .vp-doc p,
 html[lang="ta-IN"] .vp-doc li,
 html[lang="ta-IN"] .vp-doc td,
 html[lang="ta-IN"] .vp-doc th {
-  font-size: 1.15em;
+  font-size: 1.05em;
 }
 
 html[lang="ta-IN"] .vp-doc h1 { font-size: 2rem; }
 html[lang="ta-IN"] .vp-doc h2 { font-size: 1.6rem; }
 html[lang="ta-IN"] .vp-doc h3 { font-size: 1.3rem; }
+
+/* Navigation + Sidebar: Noto Sans Tamil, etwas grösser */
+html[lang="ta-IN"] .VPNavBar,
+html[lang="ta-IN"] .VPSidebar,
+html[lang="ta-IN"] .VPNav,
+html[lang="ta-IN"] .outline-link,
+html[lang="ta-IN"] .outline-title,
+html[lang="ta-IN"] .VPLink,
+html[lang="ta-IN"] .VPDocFooter {
+  font-family: "Noto Sans Tamil", "Latha", "Tamil Sangam MN", sans-serif !important;
+  font-size: 1.05rem !important;
+}

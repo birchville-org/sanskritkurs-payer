@@ -40,6 +40,8 @@ const currentLang = computed(() => {
   if (path.startsWith('/uk/')) return 'uk'
   if (path.startsWith('/hi/')) return 'hi'
   if (path.startsWith('/fr/')) return 'fr'
+  if (path.startsWith('/ta/')) return 'ta'
+  if (path.startsWith('/pa/')) return 'pa'
   return 'de'
 })
 
@@ -54,6 +56,8 @@ const labels = computed(() => {
     uk: { prev: 'Попередня лекція', exercise: 'Додаткова вправа', next: 'Наступна лекція' },
     hi: { prev: 'पिछला पाठ', exercise: 'अतिरिक्त अभ्यास', next: 'अगला पाठ' },
     fr: { prev: 'Leçon précédente', exercise: 'Exercice supplémentaire', next: 'Leçon suivante' },
+    ta: { prev: 'முந்தைய பாடம்', exercise: 'கூடுதல் பயிற்சி', next: 'அடுத்த பாடம்' },
+    pa: { prev: 'ਪਿਛਲਾ ਪਾਠ', exercise: 'ਵਾਧੂ ਅਭਿਆਸ', next: 'ਅਗਲਾ ਪਾਠ' },
   }
   return dict[currentLang.value] || dict.de
 })
@@ -105,6 +109,16 @@ const translateTitle = (text) => {
     t = t.replace(/Lektion/g, 'Leçon')
     t = t.replace(/Übung/g, 'Exercice')
     t = t.replace(/Schrift/g, 'Écriture')
+  } else if (l === 'ta') {
+    t = t.replace(/Schriftübung/g, 'எழுத்து பயிற்சி')
+    t = t.replace(/Lektion/g, 'பாடம்')
+    t = t.replace(/Übung/g, 'பயிற்சி')
+    t = t.replace(/Schrift/g, 'எழுத்து')
+  } else if (l === 'pa') {
+    t = t.replace(/Schriftübung/g, 'ਲਿਪੀ ਅਭਿਆਸ')
+    t = t.replace(/Lektion/g, 'ਪਾਠ')
+    t = t.replace(/Übung/g, 'ਅਭਿਆਸ')
+    t = t.replace(/Schrift/g, 'ਲਿਪੀ')
   }
   return t
 }

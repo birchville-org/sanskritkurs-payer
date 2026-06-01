@@ -1,856 +1,809 @@
-# Inhaltsverzeichnis
-
-## [Lektion 1](lektion01)
-
-*   गणेशपूजनम् = gaṇeśapūjanam = Verehrung des Gaṇeśa
-*   मङ्गलचरणम् = maṅgalacaraṇam = "Glückbringender Anfang"
-*   1\. Literatur für Anfänger in Indologie
-*   2\. Die Laute des Sanskrit nach der traditionellen indischen Klassifikation und ihre wissenschaftliche Umschrift
-    *   2.1. Zur Aussprache einzelner Laute
-*   3\. Übung
-
-## [Lektion 2](lektion02)
-
-*   1\. Der Nominalsatz
-*   2\. Zur Deklination (Beugung von Nomina)
-*   3\. Der Nominativ Singular = prathamā ekavacanam = प्रथमा एकवचनम्
-    *   3.1. Nominativ Singular auf -s
-*   4\. Sandhi -- सन्धि
-    *   4.1. Sandhi von auslautendem -s
-*   5\. Wortliste
-*   6\. Übung
-
-## [Lektion 3](lektion03)
-
-*   1\. Nominativ singular = prathamā ekavacanam = प्रथमा एकवचनम् (Fortsetzung)
-    *   1.1. Nominativ Singular auf -s (Fortsetzung)
-    *   1.2. Nominativ singular ohne Endung
-*   2\. Bildung der Feminina zu Maskulina (Adjektive und Substantive)
-*   3\. Nominativ plural = prathamā bahuvacanam = प्रथमा बहुचनम्
-*   4\. Vokalsandhi
-*   5\. Satzsandhi von -ās
-*   6\. Wortliste
-*   7\. Übung
-
-## [Lektion 4](lektion04)
-
-Gesprochenes Sanskrit
-
-*   1\. Einfache Ergänzungsfragen (Wortfragen) und Antworten
-    *   1.1. Fragepronomina (praśnārthakasarvanāma n.) und Demonstrativpronomina (nidarśakasarvanāma n.) = प्रश्नार्थकसर्वनाम निदर्शकसर्वनामानि च
-        *   1.1.1.Fragepronomen (praśnārthakasarvanāma n. = प्रश्नार्थकसर्वनामन्)
-        *   1.1.2. Demonstrativponomina (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि)
-    *   1.2. Sandhi von auslautendem -m
-    *   1.3. Sandhi von auslautendem -e
-    *   1.4. Sandhi von aulautendem -d
-    *   1.5. Frageformeln
-*   2\. Übung
-
-## [Lektion 5](lektion05)
-
-*   1\. Nominalkomposita = samāsa m. = समास
-*   2\. Zur Sanskrit-Terminologie für Komposita
-*   3\. Kopulative Komposita = Dvandva n. ("Paar") = द्वन्द्व
-    *   3.1. Vorderglieder von Komposita
-    *   3.2. Plural-Itaretaradvandva
-*   4\. Wortliste
-*   5\. Übung
-
-## [Lektion 6](lektion06)
-
-*   1\. Der Verbalsatz
-*   2\. Zur Bildung der Verbalformen
-*   3\. Indikativ Präsens (laṭ = लट्)
-*   4\. Primärendungen der dritten Person (prathama m. = प्रथम = "erste (!) Person")
-*   5\. Bildung des Präsensstamms
-    *   5.1. Verben der 6. Präsensklasse (tudādi = तुदादि = "tud usw.")
-    *   5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū usw.")
-        *   5.2.1. Wortsandhi von e und o
-        *   5.2.2. Lautabstufung (Ablaut)
-    *   5.3. Verben der 4. Präsensklasse (divādi = दिवादि = "div usw.")
-    *   5.4. Themavokal, thematische Präsensklassen
-*   6\. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = प्रश्न)
-*   7\. Wortliste
-*   8\. Übung
-*   9\. Wiederholungsübung
-
-## [Lektion 7](lektion07)
-
-Wochenspruch
-
-*   1\. Der Verbalsatz mit direktem Objekt
-*   2\. Der Akkusativ (Wenfall, dvitīyā f. = द्वितीया = "zweite Kasusendung")
-    *   2.1. Akkusativ singular und Plural der Frage- und Demonstrativpronomina
-    *   2.2. Gebrauch des Akkusativ (Wenfall, dvitīyā f. = द्वितीया = "zweite Kasusendung")
-*   3\. Sandhi von auslautendem -n
-*   4\. Das Neutrum (napuṃsaka n. =  नपुंसक)
-    *   4.1. Neutrum der Stämme auf -a
-*   5\. Athematische Präsensklassen
-    *   5.1. Primärendungen der 3. Person Plural bei athematischen Präsensstämmen
-    *   5.2. Die 5. Präsensklasse (svādi = स्वादि = "su usw."
-*   6\. Wortliste
-*   7\. Übung
-
-## [Lektion 8](lektion08)
-
-*   1\. Zur Bildung von Nomina
-*   2\. Einteilung der Nominalsuffixe
-*   3\. Einige wichtige Nominalsuffixe
-    *   3.1. -a m. (kṛt)
-    *   3.2. -ana n. (kṛt)
-    *   3.3. -tra n. (kṛt)
-    *   3.4. -ti f. (kṛt)
-    *   3.5. -tva n., tā f. (taddhita)
-*   4\. Die 8. Präsensklasse (tanādi = तनादि = "tan usw.")
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Lese- und Übersetzungsübung
-
-## [Lektion 9](lektion09)
-
-*   1\. Samāhāradvandva = सआहारद्वन्द्व ("Zusammenfassungsdvandva")
-*   2\. Zur Bildung von Nominalstämmen
-    *   2.1. -ka (taddhita)
-    *   2.2. -aka (kṛt), fem. oft -ikā
-*   3\. Wortliste
-*   4\. Übung
-
-## [Lektion 10](lektion10)
-
-*   1\. Der Passivsatz
-*   2\. Der Instrumentalis = tṛtīyā f. = तृतीया = "dritte Kasusendung"
-    *   2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = तृतीया)
-*   3\. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
-*   4\. Das Passiv, Indikativ Präsens (yak = यक्)
-    *   4.1. Sonderregeln zur Bildung des Passiv
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Wortliste 2
-*   8\. Lese- und Übersetzungsübung
-
-## [Lektion 11](lektion11)
-
-*   1\. Doppelter Akkusativ
-*   2\. Wortliste
-*   3\. Übung
-*   4\. Wiederholungsübung
-
-## [Lektion 12](lektion12)
-
-*   1\. Partizip Perfekt Passiv (PPP)
-    *   1.1. Schema für transitive Verben
-    *   1.2. Schema I für intransitive Verben und Verben der der Bewegung
-    *   1.3. Schema II für intransitive Verben und Verben der Bewegung
-*   2\. Zur Bedeutung des PPP
-*   3\. Bildung des PPP
-    *   3.1. PPP auf -ta (kta)
-        *   3.1.1. Ohne Bindevokal -i- (aniṭ)
-        *   3.1.2. Mit Bindevokal -i- (seṭ)
-*   4\. Gesetze der Lautverbindung im Wort
-*   5\. Wortliste
-    *   5.1. Passiv und PPP der bisher gelernten Wurzeln
-*   6\. Übung
-
-## [Lektion 13](lektion13)
-
-*   1\. PPP auf -na-
-*   2\. Weiteres zum Gebrauch des PPP
-*   3\. Attributive Bestimmungen von Nomina (Wortstellung)
-*   4\. Bildung von Adjektiven auf -mant und -vant (taddhita)
-*   5\. Stammabstufung von Nomina
-*   6\. Zum Wortsandhi
-*   7\. Kasusendungen konsonantischer Stämme
-*   8\. Deklination der Stämme auf -mant und -vant
-*   9\. Wortliste
-*   10\. Übung
-*   11\. Wiederholungsübung
-
-## [Lektion 14](lektion14)
-
-*   1\. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = षष्टी = sechste Kasusendung)
-*   2\. Bildung der Genetivformen (ṣāṣṭhī f. = षष्ठी)
-*   3\. Weiteres zum Gebrauch des Genetiv (षष्ठी)
-*   4\. Wortliste
-*   5\. Subhāṣitāni = सुभाषितानि = Sprichwörter
-*   6\. Übung
-
-## [Lektion 15](lektion15)
-
-*   १. सुभाषितम्
-*   2\. Determinativkomposita = Tatpuruṣa m. = तत्पुरुष
-*   3\. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = कर्मधारय
-*   4\. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn
-*   5\. Zerlegung von Komposita (außer Dvandvas)
-*   6\. Die Form des Vorderglieds in Komposita (समास m.)
-*   7\. Einteilung der तत्पुरुष
-    *   7.1. Einteilung der कर्मधारय
-*   8\. Wortliste
-*   9\. Übung 1
-*   10\. Übung 2
-*   11\. Übung 3
-
-## [Lektion 16](lektion16)
-
-*   1\. Zum Sandhi auslautender Konsonanten
-*   2\. Wortliste
-*   3\. Übung
-*   4\. Wiederholungsübung
-
-## [Lektion 17](lektion17)
-
-*   1\. Zweite Präsensklasse (अदादि = अद् usw.)
-*   2\. Wurzeln der zweiten Präsensklasse mit Stammabstufung Hochstufe - Tiefstufe
-*   3\. Wurzeln der zweiten Präsensklasse mit Stammabstufung Dehnstufe - Tiefstufe
-*   4\. Wurzeln der zweiten Präsensklasse ohne Stammabstufung
-*   5\. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
-*   6\. Wortliste
-*   7\. Übung 1
-*   8\. Übung 2
-
-## [Lektion 18](lektion18)
-
-*   १. सुभाषितम्
-*   2\. Determinativkomposita (तत्पुरुष) mit adverbialem Vorderglied
-    *   2.1. Komposita vom Typ सुकर / दुष्कर
-    *   2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
-*   3\. Verbalkomposita
-    *   3.1. Nominalbildungen zu Verbalkomposita
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Wiederholungsübung
-
-## [Lektion 19](lektion19)
-
-*   1\. Der Relativsatz
-*   2\. Das Relativpronomen = व्यपेक्षकसर्वनाम n.
-*   3\. Wortliste
-*   4\. Übung
-*   ५. सुभाषितानि
-
-## [Lektion 20](lektion20)
-
-*   1\. Possesivkomposita = बहुव्रीहि m.
-*   2\. Bahuvrīhi mit attributivem Vorderglied
-*   3\. Bahuvrīhi mit appositionellem Vorderglied
-*   4\. Bahuvrīhi mit kasuellem Vorderglied
-*   5\. Bahuvrīhi mit adverbiellem Vorderglied
-*   6\. Flexion des Schlussglieds eines Bahuvrīhi
-*   7\. Eine andere Einteilung der Arten von Bahuvrīhis
-*   8\. Verhältnis von Bahuvrīhi und Relativsatz
-*   9\. Wortliste
-*   10\. Übung 1
-*   11\. Übung 2
-*   12\. Übersetzungsübung
-
-## [Lektion 21](lektion21)
-
-*   1\. Weitere Präsensstämme auf -nt
-    *   1.1. Partizip Präsens (लडादेशः) Parasmaipada
-    *   1.2. महान्त् "groß"
-*   2\. Sandhi für auslautende Nasale
-*   3\. Höfliche Formen der Anrede
-*   4\. Wortliste
-*   5\. Übung
-
-## [Lektion 22](lektion22)
-
-*   1\. Das Absolutivum (क्त्वा । ल्यप्)
-*   2\. Bildung des Absolutivums
-    *   2.1. Verben ohne Präverb: Absolutiv auf -त्वा
-    *   2.2. Verben mit Präverb
-        *   2.2.1. Wurzeln auf langen Vokal (außer -ā) oder auf Konsonant
-        *   2.2.2. Wurzeln auf -ā
-        *   2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
-        *   2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
-*   3\. Wortliste
-*   4\. Übung
-
-## [Lektion 23](lektion23)
-
-*   1\. Der Infinitiv (तुमुन्)
-*   2\. Bildung des Infinitiv (तुमुन्)
-*   3\. Der Infinitiv (तुमुन्) zu den bisher gelernten Wurzeln
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Wiederholungsübung
-
-## [Lektion 24](lektion24)
-
-*   1\. Der Dativ (चतुर्थी = "vierte Kasusendung")
-*   2\. Bildung des Dativ (चतुर्थी)
-    *   2.1. Konsonantische Stämme
-    *   2.2. Fragepronomen
-    *   2.3. Demonstrativpronomina
-    *   2.4. Vokalische Stämme
-*   3\. Sandhi von auslautendem -ai und -au
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Weitere Übungen zum Gebrauch des Dativ
-
-## [Lektion 25](lektion25)
-
-*   1\. Bildung des Ablativ (पञ्चमी = "fünfte Kasusendung")
-*   2\. Gebrauch des Ablativ (पञ्चमी)
-*   3\. Das Suffix -तस्
-*   4\. Andere Möglichkeiten, Begründungen auszudrücken
-*   5\. Wortliste
-*   6\. Übung
-*   7\. सुभाषितानि
-*   8\. Übersetzungsübung
-
-## [Lektion 26](lektion26)
-
-*   1\. Cerebralisationsgesetz für -s- im Wortinnern
-*   2\. Cerebralisationsgesetz für Dentale im Wortinnern
-*   3\. Wortsandhi für Palatal, Guttural, ṣ, h + -s
-*   4\. Grassmannsches Hauchdissimilationsgesetz
-*   5\. Wortsandhi für -m, -n vor Zischlaut
-*   6\. Gebrauch des einfachen Futurs (ऌत्, भविष्यन्ती f.)
-*   7\. Bildung des einfachen Futurs (ऌत्, भविष्यन्ती  f.)
-*   8\. Übung
-
-## [Lektion 27](lektion27)
-
-*   1\. Gebrauch des Lokativ (सप्तमी f. = "siebte Kasusendung)
-*   2\. Bildung des Lokativ (सप्तमी)
-    *   2.1. Konsonatische Stämme
-    *   2.2. Frage, Demonstrativ- und Relativpronomina
-    *   2.3. Vokalische Stämme
-*   3\. Übersicht über die regulären Kasusendungen (विभक्ति) des Singular und Plural
-*   4\. Ein Vers mit allen Deklinationsformen des Singular zu राम
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Deklinationsparadigmen zum Auswendiglernen
-    *   7.1. Maskulina auf -a: नर
-    *   7.2. Neutra auf -a: फल
-    *   7.3. Feminina auf -ā: क्षत्रिया
-    *   7.4. Maskulina auf -i: अरि
-    *   7.5. Feminina auf -i: मति
-    *   7.6. Maskulina auf -u: गुरु
-    *   7.7. Feminina auf -u: धेनु#
-    *   7.8. Mehrsilbige Feminina auf -ī: देवी
-    *   7.9. Partizip Präsens Parasmaipada auf -ant: सन्त्
-    *   7.10. महान्त्
-    *   7.11. Maskulina und Neutra auf -vant / -mant: गुणवन्त्
-    *   7.12. Demonstrativpronomina: तद् । एतद् । इदम्
-    *   7.13. Relativpronomen: यद्
-    *   7.14. Fragepronomen: किम्
-
-## [Lektion 28](lektion28)
-
-*   1\. Das Kausativum (णि, णिच्, कारित)
-*   2\. Satzkonstruktion mit dem Kausativ (णि, णिच्, कारित)
-*   3\. Bildung des Präsensstamms zum Kausativ (णि, णिच्, कारित)
-*   4\. Bildung des Passivs (यक्)  zum Kausativ
-*   5\. Bildung des Futurs (ऌत्, भविष्यन्ती f.) zum Kausativ
-*   6\. Bildung des PPP (क्त) zum Kausativ
-*   7\. Bildung des Absolutivs (क्त्वा । ल्यप्) zum Kausativ
-*   8\. Bildung des Infinitivs (तुमुन्) zum Kausativ
-*   9\. Die 10. Präsensklasse (चुरादि = चुर् u.s.w.)
-*   10\. Wortliste
-*   11\. Übung
-
-## [Lektion 29](lektion29)
-
-*   1\. Verwendung des Parasmaipada und Ātmanepada im Kausativum
-*   2\. Wortliste
-*   3\. Übersetzungsübung zur Wiederholung
-*   4\. Futur und Kausativ zu den bisher gelernten Wurzeln
-
-## [Lektion 30](lektion30)
-
-*   1\. Die 9. Präsensklasse (क्र्यादि = "क्री u.s.w.")
-*   2\. Gebrauch des Optativ (लिङ्)
-*   3\. Sekundärendungen der 3. Personen Singular und Plural
-*   4\. Bildung des Optativ Präsens (लिङ्)
-    *   4.1. Thematische Präsensklassen
-    *   4.2. Athematische Präsensklassen
-*   5\. Sandhi von auslautendem -r
-*   6\. Wortliste
-*   7\. Übung
-*   8\. Wiederholungsübung zur Formenlehre
-
-## [Lektion 31](lektion31)
-
-*   1\. Die 7. Präsensklasse (रुधादि = "रुध् u.s.w.")
-*   2\. Wortliste
-*   3\. Übung
-
-## [Lektion 32](lektion32)
-
-*   1\. Die Vergangenheitstempora
-*   2\. Das Imperfekt (लङ्)
-*   3\. Regeln für das Augment
-*   4\. Beispiele für die Imperfektbildung der einzelnen Präsensklassen
-    *   4.1. Thematische Präsensklassen
-    *   4.2. Athematische Präsensklassen
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Übung zur Wiederholung über die Weihnachtsferien
-
-## [Lektion 33](lektion33)
-
-*   1\. Die Reduplikation (अभ्यास m.)
-    *   1.1. Der Reduplikationskonsonant
-*   2\. Die dritte Präsensklasse (जुहोत्यादि = "जुहोति u.s.w.")
-    *   2.1. Der Reduplikationsvokal der 3. Präsensklasse
-*   3\. Zum Ablaut von ā
-*   4\. Wurzeln auf -ā der dritten Präsensklasse
-    *   4.1. Die Wurzeln दा und धा
-*   5\. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
-*   6\. Wortliste
-*   7\. Übung
-
-## [Lektion 34](lektion34)
-
-*   1\. Das Perfekt (लिट्)
-*   2\. Das reduplizierte Perfekt (द्वित्वलिट्)
-    *   2.1. Stammabstufung
-    *   2.2. Die Perfektendungen
-    *   2.3. Bindevokal -i-
-    *   2.4. Reduplikation konsonantisch anlautender Wurzeln
-    *   2.5. Reduplikation vokalisch anlautender Wurzeln
-*   3\. Typen des reduplizierten Perfekts
-*   4\. Perfekt Typ I: Perfekt ohne Stammabstufung
-*   5\. Perfekt II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-*   6\. Wortliste
-*   7\. Übung
-*   8\. Übersetzungsübung
-
-## [Lektion 35](lektion35)
-
-*   1\. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-    *   1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-    *   1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-*   2\. Perfekt Typ IV: Wurzeln auf -ā / -ai
-*   3\. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
-    *   3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
-    *   3.2. Perfekt Typ Vb: Wurzeln Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h. Schwacher Stamm ohne Reduplikation, mit -e-
-    *   3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
-*   4\. Wortliste
-*   5\. Übung
-
-## [Lektion 36](lektion36)
-
-*   1\. Besondere Bildungen des Perfekts
-*   2\. Das periphrastische Perfekt (अनुप्रयोगलिट्)
-*   3\. Perfekt Passiv
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Das Perfekt (लिट्) zu den bisher gelernten Wurzeln
-*   7\. Übersetzungsübung
-*   8\. Wiederholungsübung zur Formenlehre
-
-## [Lektion 37](lektion37)
-
-*   1\. Das Adverb (क्रियाविशेषनम्)
-*   2\. Adverbialer Gebrauch von Kasusformen
-    *   2.1. Akkusativ (द्वितीया)
-    *   2.2. Instrumentalis (तृतीया)
-    *   2.3. Dativ (चतुर्थी)
-    *   2.4. Ablativ (पञ्चमी)
-    *   2.5. Genetiv (षष्ठी)
-    *   2.6. Lokativ (सप्तमी)
-*   3\. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusfomen
-*   4\. Bildung von Adverbien mit Adverbialsuffixen
-*   5\. Adverbiale Komposita
-    *   5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied
-    *   5.2. Adverbial gebrauchte बहुव्रीहि
-    *   5.3. अव्ययीभाव-Komposita
-*   6\. Syntaktisches
-*   7\. Indefinitpronomina
-*   8\. Der Fragesatz
-    *   8.1. Wortfragen (Ergänzungsfragen)
-    *   8.2. Satzfragen
-*   9\. Wortliste
-*   10\. Übung
-*   11\. Wiederholungsübung
-
-## [Lektion 38](lektion38)
-
-*   1\. Losung der Woche
-*   2\. Lautwandel von Nasalen im Wort
-*   3\. Deklination der Stämme auf -n
-    *   3.1. Nomina auf -an sowie Nomina -man bzw. -van nach Vokal
-    *   3.2. Nomina auf -man bzw. -van nach Konsonant
-    *   3.3. Maskulina und Neutra auf -in, -min, -vin
-*   4\. Zur Nominalbildung: तद्धित-Suffix -in
-*   5\. Syntaktisches zu नामन्
-*   6\. Syntaktisches zu आत्मन्
-*   7\. Konsonantisch auslautende Stämme als Vorderglieder von Komposita
-*   8\. Stämme auf -an als Hinterglied eines बहुव्रीहि
-*   9\. Wortliste
-*   10\. Übung
-*   11\. Wortliste zur Übersetzungsübung
-*   12\. Übersetzungsübung
-
-## [Lektion 39](lektion39)
-
-*   1\. Die Personalendungen der ersten Person (तृतीयः पुरुषः = "dritte Person")
-*   2\. Bildung der Verbformen der ersten Person thematischer Präsensstämme
-    *   2.1. Erste Präsensklasse (भ्वादि)
-    *   2.2. Sechste Präsensklasse (तुदादि)
-    *   2.3. Vierte Präsensklasse (दिवादि)
-    *   2.4. Zehnte Präsensklasse (चुरादि) und Kausative (णिजन्त)
-    *   2.5. Passiv (Suffix यक्)
-*   3\. Bildung der Verbformen der ersten Person des einfachen Futur (ऌत्)
-    *   3.1. अनिट्-Bildung
-    *   3.2. सेट्-Bildung
-*   4\. Bildung der Verbformen der ersten Person athematischer Präsensstämme
-    *   4.1. Zweite Präsensklasse (अदादि)
-    *   4.2. Dritte Präsensklasse (जुहोत्यादि)
-    *   4.3. Fünfte Präsensklasse (स्वादि)
-    *   4.4. Achte Präsensklasse (तनादि)
-    *   4.5. Siebte Präsensklasse (रुधादि)
-    *   4.6. Neunte Präsensklasse (क्र्यादि)
-*   5\. Übung
-
-## [Lektion 40](lektion40)
-
-*   1\. सुभाषितानि
-*   2\. Bildung der Verbformen der ersten Person Perfekt (लिट्)
-    *   2.1. Perfekt Typ I: keine Stammabstufung
-    *   2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-        *   2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
-    *   2.5. Perfekt Typ V: Konsonant-a-Konsonant
-        *   2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-    *   2.6. Besondere Perfekt-Bildungen
-*   3\. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (अनुप्रयोगलिट्)
-*   4\. Syntaktisches zur ersten Person (तृतीयः)
-*   5\. Personalpronomen (पुरुषार्थकसर्वनाम) der 1. Person Singular und Plural
-*   6\. Wortliste
-*   7\. Übung
-*   8\. Wiederholungsübung zur Formenlehre
-
-## [Lektion 41](lektion41)
-
-*   1\. सुभाषिते  (zwei Sprichwörter)
-*   2\. Weitere कृत्-Bildungen auf -a
-    *   2.1. Partizip Präsens (लडादेशः) Ā, Partizip Präsens (लडादेशः) Passiv, Partizip Futur (ऌडादेशः) Ā
-        *   2.1.1. Thematische Präsensstämme, Passiv und Futur
-        *   2.1.2. Athematische Präsensklassen
-    *   2.2. "Partizip" der passiven Notwendigkeit (Gerundivum) (कृत्य)
-        *   2.2.1. Das Suffix -तव्य / -तव्या
-        *   2.2.2. Das Suffix -अनीय / -अनीया
-        *   2.2.3. Das Suffix -य / -या
-        *   2.2.4. Das Suffix -त्य / त्या (statt -य / -या)
-    *   2.3. Syntaktisches zum "Partizip" der passiven Notwendigkeit (Gerundivum) (कृत्य)
-    *   2.4. Unterschiede im Gebrauch der Gerundiv-Suffixe
-    *   2.5. Keine Verbindung mit सु- und दुस्-
-*   3\. Wortliste
-*   4\. Übung
-
-## [Lektion 42](lektion42)
-
-*   1\. Stämme auf -ṛ
-    *   1.1. Stämme mit Dehnstufe im starken Stamm
-    *   1.2. Nominalbildung: कृत्-Suffix -तृ
-    *   1.3. Stämme mit Hochstufe im starken Stamm
-    *   1.4. Stämme auf -ṛ in Komposita
-*   2\. Wortliste
-    *   2.1. Einige Verwandtschaftsbezeichnungen
-*   3\. Übung
-*   4\. Übersetzungsübung
-
-## [Lektion 43](lektion43)
-
-*   1\. Personalendungen der 2. Person (मध्यमः = "mittlere &lt;Person&gt;")
-*   2\. Bildung der Verbalformen der 2. Person (मध्यमः)
-    *   2.1. Thematische Stämme
-        *   2.1.1. Erste Präsensklasse (भ्वादि)
-        *   2.1.2. Sechste Präsensklasse (तुदादि)
-        *   2.1.3. Vierte Präsensklasse (दिवादि)
-        *   2.1.4. Zehnte Präsensklasse (चुरादि) und Kausative
-        *   2.1.5. Passiv
-        *   2.1.6. Futur (ऌट्)
-            *   2.1.6.1. अनिट्-Bildungen
-            *   2.1.6.2. सेट्-Bildungen
-*   3\. Das Personalpronomen der zweiten Person
-*   4\. Wortliste
-*   5\. Übung
-*   6\. संवादः = Gespräch
-
-## [Lektion 44](lektion44)
-
-*   1.  Bildung der Verbalformen der 2. Person (मध्यमः) athematischer Stämme mit vokalisch endendem Suffix
-    *   1.1. Fünfte Präsensklasse (स्वादि)
-    *   1.2. Achte Präsensklasse (तनादि)
-    *   1.3. Neunte Präsensklasse (क्र्यादि)
-*   2\. Zum Wortsandhi
-    *   2.1. Zum Wortsandhi für dh-
-    *   2.2. Zum Wortsandhi für s-
-*   3.  Bildung der Verbalformen der 2. Person (मध्यमः) athematischer Stämme ohne vokalisch endendem Suffix
-    *   3.1. Zweite Präsensklasse (अदादि)
-*   4\. Der Vokativ (आमन्त्रितम्)
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Wiederholungsübung zur Formenlehre
-
-## [Lektion 45](lektion45)
-
-*   1\. Bildung der Verbalformen der 2. Person (मध्यमः) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)
-    *   1.1. Dritte Präsensklasse (जुहोत्यादि)
-    *   1.2. Siebte Präsensklasse (रुधादि)
-*   2\. Der Vokativ Singular (आमन्त्रितमेकवचने)
-*   3\. Wortliste
-*   4\. Übung
-
-## [Lektion 46](lektion46)
-
-*   1\. Bildung der Verbalformen der 2. Person (मध्यमः) Perfekt (लिट्)
-    *   1.1. Endungen
-    *   1.2. Lautveränderung der Endung -dhve
-    *   1.3. Perfekt Typ I: keine Stammabstufung
-    *   1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-        *   1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
-    *   1.7. Perfekt Typ V: Konsonant-a-Konsonant
-        *   1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   1.7.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-    *   1.8. Besondere Perfekt-Bildungen
-    *   1.9. Periphrastisches Perfekt (अनुप्रयोगलिट्)
-*   2\. Wortliste
-*   3\. Übung
-
-## [Lektion 47](lektion47)
-
-*   1\. Der Imperativ (लोट्)
-*   2\. Bildung des Imperativs (लोट्) thematischer Präsensstämme
-    *   2.1. Endungen des Imperativ an thematischen Präsensstämmen
-    *   2.2. Erste Präsensklasse (भ्वादि)
-    *   2.3. Sechste Präsensklasse (तुदादि)
-    *   2.4. Vierte Präsensklasse (दिवादि)
-    *   2.5. Zehnte Präsensklasse (चुरादि) und Kausative
-    *   2.6. Passiv
-*   3\. Übung
-
-## [Lektion 48](lektion48)
-
-*   1\. सुभाषितानि
-*   2\. Bildung des Imperativs (लोट्) athematischer Präsensstämme
-    *   2.1. Endungen des Imperativ an athematischen Präsensstämmen
-    *   2.2. Form des Präsensstamms
-    *   2.3. Zweite Präsensklasse (अदादि)
-    *   2.4. Dritte Präsensklasse (जुहोत्यादि)
-*   3\. Zur Nominalbildung: तद्धित-Suffixe -a und -ya
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Übersetzungsübung
-
-## [Lektion 49](lektion49)
-
-*   1\. Bildung des Imperativs (लोट्) athematischer Präsensstämme (Fortsetzung)
-    *   1.1. Siebte Präsensklasse  (रुधादि)
-    *   1.2. Fünfte Präsensklasse (स्वादि)
-    *   1.3. Achte Präsensklasse (तनादि)
-    *   1.4. Neunte Präsensklasse (क्र्यादि)
-*   2\. Deklination der Nominalstämme auf -as, -is, -us
-*   3\. Nominalbildung: कृत्-Suffix -as Neutrum
-*   4\. Wortliste
-*   5\. Wiederholungsübung zur Formenlehre
-*   6\. Übersetzungsübung
-
-## [Lektion 50](lektion50)
-
-*   1\. Nominalbildung: regelmäßige Steigerung
-*   2\. Wortliste
-*   3\. Übersetzungsübung
-
-## [Lektion 51](lektion51)
-
-*   1\. उपपद-Komposita
-*   2\. Deklination der Stämme, die auf einen einfachen Konsonanten (außer Nasal, Halbvokal, -s) auslauten
-    *   2.1. Stämme auf nichtpalatalen Verschlusslaut
-    *   2.2. Stämme auf palatalen Verschlusslaut (c, ch, j), ś, ṣ
-    *   2.3. Stämme auf -h
-*   3\. Sandhi von anlautendem h-
-*   4\. Sandhi von anlautendem ch-
-*   5\. -ch- im Wortinnern
-*   6\. Wortliste
-*   7\. Übersetzungsübung
-
-## [Lektion 52](lektion52)
-
-*   1\. Neutrum der Stämme auf -i und -u
-*   2\. Nominalbildung
-    *   2.1. PPP + -vant: Partizip der Vergangenheit Parasmaipada
-    *   2.2. तद्धित-Suffix -maya / -mayī
-    *   2.3. तद्धित-Suffix -eya
-*   3\. Adverbialbildung: Adverbialsuffix -śas
-*   4\. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (अभुततद्भावः)
-    *   4.1. cvi-Bildungen
-    *   4.2. Suffix -sāt
-*   5\. Wortwiederholungen (द्विरुक्तम्)
-*   6\. Das Zahlwort (सम्ख्या f.)
-    *   6.1. Kardinalzahlen
-        *   6.1.1. Zahladjektive (für 1 bis 19)
-        *   6.1.2. Zahlsubstantive (für 19ff.)
-        *   6.1.3. Syntaktisches zu den Kardinalzahlen
-    *   6.2. Ordinalzahlen
-    *   6.3. Zahladverbien
-    *   6.4. Zahladjektive
-    *   6.5. Komposita mit Kardinalzahlen im Vorderglied
-*   7\. Wortliste
-*   8\. Übersetzungsübung
-*   9\. Aufgaben während der Semesterferien
-
-## [Lektion 53](lektion53)  (Semesterferien)
-
-*   1\. Der Dual (द्विवचन n.) der Nomina
-*   2\. Dualendungen des Nomen
-*   3\. Der Dual konsonantisch auslautender Stämme
-    *   3.1. Stämme ohne Stammabstufung
-    *   3.2. Stämme mit Stammabstufung
-*   4\. Der Dual vokalisch auslautender Stämme
-*   5\. Dualdvandva
-*   6\. Der Dual von Pronomina
-*   7\. Pronominaladjektive
-*   8\. Unregelmäßige Steigerung
-*   9\. Deklination der Komparative auf -īyas
-*   10\. Metrik (Lehre von den Versmaßen)
-    *   10.1. Bedeutung der Bestimmung des Metrums
-    *   10.2. Arten von Metren
-    *   10.3. Die metrische Quantität von Silben
-    *   10.4. Der epische Śloka (श्लोक m.)
-*   11\. Übung
-
-## [Lektion 54](lektion54)
-
-*   1\. Vorbemerkung
-*   2\. Wortbildung: कृत्-Suffix -u an Desiderativstämme
-*   3\. Metrik II: die epische त्रिष्टुभ् und die जगती
-*   4\. Übung zur Metrik
-*   5\. Bildungstypen des Aorist (लुङ्)
-*   6\. Wurzelaorist
-    *   6.1. Der Aorist der 3.sg.Passiv
-*   7\. Übung
-
-## [Lektion 55](lektion55)
-
-*   1\. Der a-Aorist (Aorist mit Themavokal)
-*   2\. Übung
-
-## [Lektion 56](lektion56)
-
-*   1\. Der reduplizierte Aorist
-    *   1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
-*   2\. Der Injunktiv
-*   3\. Der Verbotssatz
-*   4\. स्म
-*   5\. Übung
-
-## [Lektion 57](lektion57)
-
-*   1\. Aorist 4: s-Aorist
-*   2\. Übung
-
-## [Lektion 58](lektion58)
-
-*   1\. Die Primärendungen des Dual (द्विवचनम्)
-*   2\. Der Dual thematischer Präsensklassen: Indikativ Präsens (लट्)
-    *   2.1. Erste Präsensklasse (भ्वादिगणः)
-    *   2.2. Vierte Präsensklasse (दिवादिगणः)
-    *   2.3. Sechste Präsensklasse (तुदादिगणः)
-    *   2.4. Zehnte Präsensklasse (चुरादिगणः) und Kausative (णिजन्त)
-*   3\. Der Dual des einfachen Futurs (ऌत्)
-    *   3.1. अनिट्
-    *   3.2. सेट्
-*   4\. Der Dual Passiv (Suffix -यक्)
-*   5\. Der Dual athematischer Präsensklassen: Indikativ Präsens (लट्)
-    *   5.1. Zweite Präsensklasse (अदादिगणः)
-    *   5.2. Dritte Präsensklasse (जुहोत्यादिगणः)
-    *   5.3. Fünfte Präsensklasse (स्वादिगणः)
-    *   5.4. Achte Präsensklasse (तनादिगणः)
-    *   5.5. Siebte Präsensklasse (रुधादिगणः)
-    *   5.6. Neunte Präsensklasse (क्र्यादिगणः)
-*   6\. Aorist 5: iṣ-Aorist
-*   7\. Übung
-
-## [Lektion 59](lektion59)
-
-*   1\. Die Sekundärendungen und Imperativendungen des Dual (द्विवचनम्)
-*   2\. Der Dual thematischer Präsensklassen: Optativ (विधिलिङ्), Imperfekt (लङ्), Imperativ (लोट्)
-    *   2.1. Erste Präsensklasse (भ्वादिगणः)
-    *   2.2. Vierte Präsensklasse (दिवादिगणः)
-    *   2.3. Sechste Präsensklasse (तुदादिगणः)
-    *   2.4. Zehnte Präsensklasse (चुरादिगणः) und Kausative (णिजन्त)
-    *   2.5. Der Passiv (Suffix -यक्)
-*   3\. Der Dual athematischer Präsensklassen: Optativ (विधिलिङ्), Imperfekt (लङ्), Imperativ (लोट्)
-    *   3.1. Zweite Präsensklasse (अदादिगणः)
-    *   3.2. Dritte Präsensklasse (जुहोत्यादिगणः)
-    *   3.3. Fünfte Präsensklasse (स्वादिगणः)
-    *   3.4. Achte Präsensklasse (तनादिगणः)
-    *   3.5. Siebte Präsensklasse (रुधादिगणः)
-    *   3.6. Neunte Präsensklasse (क्र्यादिगणः)
-*   4\. Dual (द्विवचनम्) Aorist (लुङ्)
-    *   4.1. Wurzelaorist
-    *   4.2. a-Aorist
-    *   4.3. Reduplizierter Aorist
-    *   4.4. s-Aorist
-    *   4.5. iṣ-Aorist
-*   5\. Aorist (लुङ्) 6: siṣ-Aorist (nur P)
-*   6\. Aorist (लुङ्) 7: sa-Aorist (thematischer s-Aorist)
-*   7\. Übung
-
-## [Lektion 60](lektion60)
-
-*   1\. Die Perfektendungen des Dual (द्विवचनम्)
-*   2\. Der Dual des reduplizierten Perfekt (द्वित्वलिट्)
-    *   2.1. Typ 1: keine Stammabstufung
-    *   2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
-        *   2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   2.4. Typ 4: Wurzeln auf -ā / -ai
-    *   2.5. Typ 5: Konsonant-a-Konsonant
-        *   2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   2.5.2. Typ 5b: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-*   3\. Der Dual des periphrastischen Perfekt (अनुप्रयोगलिट्)
-*   4\. Das Partizip परस्मैपद des reduplizierten Perfekt (द्वित्वलिट्)
-*   5\. Deklination der Stämme auf -añc (-ac)
-    *   5.1. Dreistämmige Stämme auf -añc
-    *   5.2. Zweistämmige Stämme auf -añc
-*   6\. Das Desiderativum (सन्)
-    *   6.1. Bildung des Desiderativstammes
-    *   6.2. Konjugation des Desiderativs (सन्)
-*   7\. Übung
-
-## [Lektion 61](lektion61)
-
-*   1\. Deklination der Wurzelnomina auf -ā, -ī, -ū
-    *   1.1. Wurzelnomina auf -ā am Ende von तत्पुरुष
-    *   1.2. Feminine Wurzelnomina auf -ī
-    *   1.3. Wurzelnomina auf -ī am Ende von तत्पुरुष
-    *   1.4. Einsilbige, feminine Wurzelnomina auf -ū
-    *   1.5. Wurzelnomina auf -ū am Ende von तत्पुरुष
-    *   1.6. Deklination mehrsilbiger Feminina auf -ū
-*   2\. Das periphrastische Futur (लुट्)
-*   3\. Das Intensivum (Frequentativum) (चर्करीतम्)
-    *   3.1. Ātmanepada-Intensivum
-    *   3.2. Parasmaipada-Intensivum
-*   4\. Denominativa (नामधातु)
-    *   4.1. Bildung ohne besonderes Suffix, Parasmaipada
-    *   4.2. Bildung mit Suffix -ya, Parasmaipada
-    *   4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
-    *   4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
-    *   4.5. Bildung mit dem Suffix -ya, Ātmanepada
-    *   4.6. Bildung mit dem Suffix -aya, -āpaya
-*   5\. Der Benediktiv (आशीर्लिङ्)
-*   6\. Der Konditionalis (ऌङ्)
-*   7\. Deklination der Nomina auf -ai, -o, -au
-*   8\. Restliche Pronomina
-    *   8.1. Personalpronomen des Dual
-    *   8.2. Demonstrativpronomen अदस् "jener (entfernte)"
-*   9\. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / श्रीगणनाथ
-
-ENDE DES SANSKRITKURSES
-
+# உள்ளடக்கம்
+
+## [பாடம் 1](lektion01)
+
+*   1\.1. இந்தியவியலில் புத்தகங்களுக்கு ஆரம்பகட்ட வாசகர்களுக்கான நூல்கள்
+*   1\.2. சமஸ்கிருதத்தின் ஒலிகள்
+    *   1\.2.1. தனித்தனி ஒலிகளின் உச்சரிப்பு
+*   1\.3. பயிற்சி
+
+## [பாடம் 2](lektion02)
+
+*   2\.1. பெயர் வாக்கியம்
+*   2\.2. பெயர்ச்சொற்களின் விகாரம் (Beugung von Nomina)
+*   2\.3. பெயர்ச்சொல் ஒருமை
+    *   2\.3.1. பெயரெச்ச ஒருமை -s இல்
+*   2\.4. சந்தி -- सन्धि
+    *   2\.4.1. வரும் -s இன் சந்தி
+*   2\.5. சொற்பட்டியல்
+*   2\.6. பயிற்சி
+
+## [பாடம் 3](lektion03)
+
+*   3\.1. பெண்பால் ஒருமை அசை
+    *   3\.1.1. பெயர்ச்சொல் ஒருமை -s இல்
+    *   3\.1.2. பெயர்ச்சொல் ஒருமை முற்றுநிலை இல்லாமல்
+*   3\.2. பெண்பால் வடிவங்கள் ஆண்பால் சொற்களுக்கு
+*   3\.3. பெண்பால் மற்றும் ஆண்பால் அமைப்புப் பன்மை
+*   3\.4. ஒலிநிலை இணைவு
+*   3\.5. -ās-ன் வார்த்தை இணைப்பு
+*   3\.6. சொற்பட்டியல்
+*   3\.7. பயிற்சி
+
+## [பாடம் 4](lektion04)
+
+*   4\.1. எளிய நிரப்புக் கேள்விகள் (சொல் கேள்விகள்) மற்றும் பதில்கள்
+    *   4\.1.1. வினாவுரிச்சொற்களும் அசைவுரிச்சொற்களும்
+    *   4\.1.2. வார்ப்புருவத்தின் கடைசியில் உள்ள -m
+    *   4\.1.3. இறுதியில் வரும் -e இன் சந்தி
+    *   4\.1.4. வாய்மைச் சந்தி: இறுதியில் வரும் -d
+    *   4\.1.5. கேள்வி வடிவங்கள்
+*   4\.2. பயிற்சி
+
+## [பாடம் 5](lektion05)
+
+*   5\.1. பெயர்ச்சொல் சேர்க்கைகள் (சமாசம் ஆ. = समास)
+*   5\.2. சமசுகிருத சொற்றொடர் வார்ப்புருக்களுக்கான கருத்துக்கள்
+*   5\.3. இணைப்புச் சமசுகிருதச் சொற்கள் (Dvandva n. = द्वन्द्व)
+    *   5\.3.1. கூட்டுச்சொற்களின் முன் உறுப்புகள்
+    *   5\.3.2. பன்மை-இதரேதரத்வந்த்வா
+*   5\.4. சொற்பட்டியல்
+*   5\.5. பயிற்சி
+*   5\.6. மீள்விளையாட்டு
+
+## [பாடம் 6](lektion06)
+
+*   6\.1. வினைத்தொடர்
+*   6\.2. வினைச்சொல் வடிவங்களின் உருவாக்கம் பற்றி
+*   6\.3. விநியோகப் பெயர்ச்சொல் (laṭ = लट्)
+*   6\.4. மூன்றாம் நபரின் முதன்மை முடிபுகள் (prathama m. = प्रथम = "முதல் (!) நபர்")
+*   6\.5. பெயர்ச்சொல்லின் முற்போக்கு வடிவமைப்பு
+    *   6\.5.1. ஆறு வகுப்பு முன்னிலை வினைச்சொற்கள் (tudādi = तुदादि = "tud முதலியன")
+    *   6\.5.2. முதல் முன்னிலை வினைச்சொற்கள் (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū முதலியன")
+    *   6\.5.3. நான்காம் பிரசென் வகுப்பு வினைச்சொற்கள் (divādi = दिवादि = "div முதலியன")
+    *   6\.5.4. தீம் எழுத்து, தீம் தொடர் கால வகைகள்
+*   6\.6. பேசப்பட்ட சமஸ்கிருதம்: மேலும் கேள்விகள் (praśna m. = प्रश्न)
+*   6\.7. சொற்பட்டியல்
+*   6\.8. பயிற்சி
+*   6\.9. மீள்பயிற்சி
+
+## [பாடம் 7](lektion07)
+
+*   வார வாசகம்
+*   7\.1. நேரடிப் பொருளுடன் வினைத்தொடர்
+*   7\.2. பெயர்ச்சொல் (எவ்வழக்கு, dvitīyā f. = द्वितीया = "இரண்டாவது விகுதி")
+    *   7\.2.1. வினா மற்றும் அசைவுப் பெயர்ச்சொற்களின் ஒருமை மற்றும் பன்மை பண்புப் பால்
+    *   7\.2.2. ஆக்கசேடிவின் பயன்பாடு (இரண்டாம் விபக்தி, dvitīyā f. = द्वितीया = "இரண்டாம் விபக்தி வடிவம்")
+*   7\.3. வாரிய -n இன் சந்தி
+*   7\.4. நடுவினம் (napuṃsaka n. = नपुंसक)
+    *   7\.4.1. பெற்றியால் -a-வின் நடுவினையினம்
+*   7\.5. அத்தெமாட்டிக் பிரேசன் வகுப்புகள்
+    *   7\.5.1. மூன்றாம் பன்மை ஒருமை வினைமுற்றுக்கள் அசைவற்ற மூலச்சொற்களுக்கு
+    *   7\.5.2. ஐந்தாவது முன்னிலை விகுதி வகுப்பு (svādi = स्वादि = "su மற்றும் பல")
+*   7\.6. சொற்பட்டியல்
+*   7\.7. பயிற்சி
+
+## [பாடம் 8](lektion08)
+
+*   8\.1. பெயர்ச்சொற்களின் உருவாக்கம் பற்றி
+*   8\.2. பெயர் உரிச்சொற்களின் வகைப்பாடு
+*   8\.3. சில முக்கிய பெயர்ப் பின்னொட்டுகள்
+    *   8\.3.1. -a ஆண்பால் பெயர்ச்சொல் (kṛt)
+    *   8\.3.2. -ana n. (kṛt)
+    *   8\.3.3. -tra பெண்பால். (kṛt)
+    *   8\.3.4. -தி பெண்பால். (kṛt)
+    *   8\.3.5. -tva n., -tā f. (தத்தித)
+*   8\.4. எட்டுவது பிரசென்ஸ் வகுப்பு (tanādi = तनादि = "tan முதலியன")
+*   8\.5. சொற்பட்டியல்
+*   8\.6. பயிற்சி
+*   8\.7. வாசிப்பு மற்றும் மொழிபெயர்ப்பு பயிற்சி
+
+## [பாடம் 9](lektion09)
+
+*   9\.1. சமாஹாரத்வந்த்வா (समाहारद्वन्द्व = "சுருக்கத்வந்த்வா")
+*   9\.2. பெயர் விகுதிகளின் உருவாக்கம்
+    *   9\.2.1. -ka (தத்தித)
+    *   9\.2.2. -aka (kṛt), பெண் பெயர் பெரும்பாலும் -ikā
+*   9\.3. சொற்பட்டியல்
+*   9\.4. பயிற்சி
+
+## [பாடம் 10](lektion10)
+
+*   1\0.1. செயலற்ற வாக்கியம்
+*   1\0.2. கருவி விசேடணம் (tṛtīyā f. = तृतीया = "மூன்றாவது விகாரம்")
+    *   1\0.2.1. கருவி விசேஷணத்தின் பயன்பாடு (tṛtīyā = तृतीया)
+*   1\0.3. -n-க்கான அழைக்கப்படும் மூளைப்படுத்தல் விதி (ஒரு சொல்சந்தி)
+*   1\0.4. எதிர்மறை, விசேஷணம் நிகழ்காலம் (yak = यक्)
+    *   1\0.4.1. பசீவத்தின் உருவாக்கத்திற்கான சிறப்பு விதிகள்
+*   1\0.5. சொற்பட்டியல்
+*   1\0.6. பயிற்சி
+*   1\0.7. சொற்பட்டியல் 2
+*   1\0.8. வாசிப்பு மற்றும் மொழிபெயர்ப்பு பயிற்சி
+
+## [பாடம் 11](lektion11)
+
+*   1\1.1. இரட்டை அக்குசேட்டிவ்
+*   1\1.2. சொற்றொடர் பட்டியல்
+*   1\1.3. பயிற்சி
+*   1\1.4. மீள் பயிற்சி
+
+## [பாடம் 12](lektion12)
+
+*   1\2.1. முழுமை எதிர்மை பங்கீடு (PPP)
+    *   1\2.1.1. பரிமாண வினைச்சொற்களுக்கான வரைபடம்
+    *   1\2.1.2. அகரண வினைகள் மற்றும் இயக்க வினைகளுக்கான வரைபடம் I
+    *   1\2.1.3. அசெய்யெழுத்துக்களுக்கும் இயக்கச்செய்யெழுத்துக்களுக்கும் இரண்டாவது வடிவமைப்பு
+*   1\2.2. பிபிபின் முக்கியத்துவம்
+*   1\2.3. பிபிபி-யின் உருவாக்கம்
+    *   1\2.3.1. -ta (kta) வார்ப்புருவின் PPP
+*   1\2.4. சொற்றொடரில் ஒலி இணைப்பு விதிகள்
+*   1\2.5. சொற்பட்டியல்
+    *   1\2.5.1. இதுவரை கற்ற மூலங்களுக்கான செயப்படுநிலை மற்றும் முற்றிய பெயர்ச்சொல்
+*   1\2.6. பயிற்சி
+
+## [பாடம் 13](lektion13)
+
+*   1\3.1. -na- வில் முடிவடையும் PPP-க்கள்
+*   1\3.2. பிபிபி-யின் பயன்பாடு பற்றிய மேலும்
+*   1\3.3. பெயர்ச்சொற்களுக்கான குணப்பெயர் வகை அமைவுகள் (சொல் வரிசை)
+*   1\3.4. -மந்த மற்றும் -வந்த என்னும் விகுதிகளால் (தத்தித) உரிச்சொற்கள் அமைத்தல்
+*   1\3.5. பெயர்ச்சொற்றொகுதிகளின் வேர்நிலை மாற்றம்
+*   1\3.6. சொல் சந்தி பற்றி
+*   1\3.7. உயிர்மொழி அல்லாத அடிச்சொற்களின் விளிப்பெயர் விகுதிகள்
+*   1\3.8. -mant மற்றும் -vant கடைசியுடன் வரும் பெயர்ச்சொற்களின் விகாரணை
+*   1\3.9. சொற்பட்டியல்
+*   1\3.10. பயிற்சி
+*   1\3.11. மீள் பயிற்சி
+
+## [பாடம் 14](lektion14)
+
+*   1\4.1. பெயர்ச்சொற்களால் குறிக்கப்படும் பொருள்களுக்கு இடையேயான உறவை வெளிப்படுத்தும் வடிவம்: அழைப்பு (ṣaṣṭhī f. = षष्टी = ஆவது அழைப்பு)
+*   1\4.2. பெண்பால் பாலின வடிவங்கள் (ṣaṣṭhī f. = षष्ठी)
+*   1\4.3. பெயர்ச்சொல் விகுதியின் பயன்பாடு குறித்த மேலும் (षष्ठी)
+*   1\4.4. சொற்பட்டியல்
+*   1\4.5. Subhāṣitāni = सुभाषितानि = கவிதைகள்
+*   1\4.6. பயிற்சி
+
+## [பாடம் 15](lektion15)
+
+*   1\5.1. सुभाषितम्
+*   1\5.2. தீர்மானகூட்டுச்சொல் = தத்புருஷ ஆ. = तत्पुरुष
+*   1\5.3. குணப்பெயர்ச்சொற்சேர்க்கை பண்புப்பெயர் / பண்புத்தொகை முன்சொல் = கர்மதாராய ம. = कर्मधारय
+*   1\5.4. ஒரு முன் உறுப்பு, பின் உறுப்புடன் அசைவற்ற/இணைப்பு விகாரத்திலான விகாரத்தைக் கொண்ட ஒருங்கிணைவு = தற்புருஷம் கடுமையான அர்த்தத்தில்
+*   1\5.5. கூட்டுச்சொற்களின் பிரித்தல் (துவ்‌த்வாக்கள் தவிர)
+*   1\5.6. கலப்பொருள்களில் முன்சொல் வடிவம் (समास m.)
+*   1\5.7. तत्पुरुष-இன் வகைப்பாடு
+    *   1\5.7.1. कर्मधारय-இன் வகைப்பாடு
+*   1\5.8. சொற்பட்டியல்
+*   1\5.9. பயிற்சி 1
+*   1\5.10. பயிற்சி 2
+*   1\5.11. பயிற்சி 3
+
+## [பாடம் 16](lektion16)
+
+*   1\6.1. கழிசொல் ஒலிநிலை பற்றி
+*   1\6.2. சொற்பட்டியல்
+*   1\6.3. பயிற்சி
+*   1\6.4. மீள்பார்வை பயிற்சி
+
+## [பாடம் 17](lektion17)
+
+*   1\7.1. இரண்டாம் பிரசென்ஸ் வகுப்பு (अदादि = अद् போன்றவை)
+*   1\7.2. இரண்டாம் பிரேசன் வகுப்பின் வேர்கள், மூல வடிவ மாற்றம் உயர்நிலை - தாழ்நிலை
+*   1\7.3. இரண்டாம் பிரசென்ஸ் வர்க்கத்தின் வேர்கள், கிளைநிலை மாற்றத்துடன், நீட்சிநிலை - ஆழநிலை
+*   1\7.4. இரண்டாம் பிரசென்ஸ் வகுப்பு விகுதிகளின் வேர்கள், மூல வடிவ மாற்றம் இல்லாமல்
+*   1\7.5. இரண்டு எழுத்துக்கள் கொண்ட -i/-ī கீற்றுகள், மூலநிலை மாற்றத்துடன்
+*   1\7.6. சொற்பட்டியல்
+*   1\7.7. பயிற்சி 1
+*   1\7.8. பயிற்சி 2
+
+## [பாடம் 18](lektion18)
+
+*   1\8.1. सुभाषितम्
+*   1\8.2. தீர்மானகூற்றுச் சொற்கள் (तत्पुरुष) வினையுரிமை முற்பகுதியுடன்
+    *   1\8.2.1. सुकर / दुष्कर வகைச் சொற்றொடர்கள்
+    *   1\8.2.2. நான்-தத்புருஷத்தின் (அ- / அன்-) பொருள்கள்
+*   1\8.3. பெயர்ச்சொல் சேர்க்கைகள்
+    *   1\8.3.1. பெயர்ச்சொல் உருவாக்கங்கள் வினைச் சேர்க்கைகளுக்கு
+*   1\8.4. சொற்பட்டியல்
+*   1\8.5. பயிற்சி
+*   1\8.6. மீள்பயிற்சி
+
+## [பாடம் 19](lektion19)
+
+*   1\9.1. தொடர்பு வாக்கியம்
+*   1\9.2. பெயர்ச்சொல் = व्यपेक्षकसर्वनाम பெ.
+*   1\9.3. சொற்பட்டியல்
+*   1\9.4. பயிற்சி
+*   1\9.5. सुभाषितानि
+
+## [பாடம் 20](lektion20)
+
+*   2\0.1. Possesivkomposita = बहुव्रीहि ஆண்பால்.
+*   2\0.2. பகுவிரிஹி குணப்பெயர் முன்சொல் உடன்
+*   2\0.3. பல்லவீஹி இணைப்பீட முன் உறுப்புடன்
+*   2\0.4. கசுவல் முற்பகுதியுடன் பahuव्रीहि
+*   2\0.5. முற்பகுதியில் வினையெச்சம் கொண்ட பahuव्रीहि
+*   2\0.6. முடிவுறு உறுப்பின் விகாரம் ஒரு பahuரீஹியின்
+*   2\0.7. பஹுவிர்ஹீ வகைகளின் வேறு பிரிவு
+*   2\0.8. பகுவ்ரிஹீ மற்றும் விக்லிப வாக்கியத்தின் தொடர்பு
+*   2\0.9. சொற்பட்டியல்
+*   2\0.10. பயிற்சி 1
+*   2\0.11. பயிற்சி 2
+*   2\0.12. மொழிபெயர்ப்பு பயிற்சி
+
+## [பாடம் 21](lektion21)
+
+*   2\1.1. -nt என்னும் வேற்றுமை விகுதி பெற்ற மற்றுமொரு முன்னிலைப் படைகள்
+    *   2\1.1.1. பெயர்ச்சொல் முன்னிலை (लडादेशः) பரஸ்படை
+    *   2\1.1.2. महान्त् "பெரிய"
+*   2\1.2. வாரிய நுணுக்கம் முடிவிலான அனத்திற்கு
+*   2\1.3. மரியாதையான அழைப்பு வடிவங்கள்
+*   2\1.4. பட்டியல்
+*   2\1.5. பயிற்சி
+
+## [பாடம் 22](lektion22)
+
+*   2\2.1. தனிமைப் பெயர் (क्त्वा । ल्यप्)
+*   2\2.2. பெருங்கூற்று வடிவமைப்பு
+    *   2\2.2.1. செயலிலிகள் முன்னொட்டு இல்லாதவை: -त्वा என்ற முடிபுடன் பெயர்ச்சொல்
+    *   2\2.2.2. இடைச்சொல் கொண்ட வினைச்சொற்கள்
+*   2\2.3. சொற்பட்டியல்
+*   2\2.4. பயிற்சி
+
+## [பாடம் 23](lektion23)
+
+*   2\3.1. அசைநிலை (तुमुन्)
+*   2\3.2. அசைநிலை உருவாக்கம் (तुमुन्)
+*   2\3.3. எண்ணெழுத்து (तुमुन्) இதுவரை கற்ற வேர்களுக்கு
+*   2\3.4. சொற்பட்டியல்
+*   2\3.5. பயிற்சி
+*   2\3.6. மீள்பயிற்சி
+
+## [பாடம் 24](lektion24)
+
+*   2\4.1. கொடுப்பான்மை (चतुर्थी = "நான்காம் வினைச்சொல்")
+*   2\4.2. பெறுநர் விகுதி உருவாக்கம் (चतुर्थी)
+    *   2\4.2.1. ஒலிப்பியல் அடிப்படையிலான சொற்றொடர்கள்
+    *   2\4.2.2. வினா எச்சங்கள்
+    *   2\4.2.3. அசைவுப் பெயர்ச்சொற்கள்
+    *   2\4.2.4. உயிர் எழுத்து வேர்ச்சொற்கள்
+*   2\4.3. வெளிப்படும் -ai மற்றும் -au ஆகியவற்றின் சந்தி
+*   2\4.4. சொற்பட்டியல்
+*   2\4.5. பயிற்சி
+*   2\4.6. தத்தவத்தின் பயன்பாட்டிற்கான மேலும் பயிற்சிகள்
+
+## [பாடம் 25](lektion25)
+
+*   2\5.1. அபிலத்திவின் உருவாக்கம் (पञ्चमी = "ஐந்தாவது விபத்தியந்தம்")
+*   2\5.2. விலக்கத்தின் பயன்பாடு (पञ्चमी)
+*   2\5.3. -तस् என்ற முற்பொருள்
+*   2\5.4. காரணங்களை வெளிப்படுத்த வேறு வழிகள்
+*   2\5.5. சொற்பட்டியல்
+*   2\5.6. பயிற்சி
+*   2\5.7. सुभाषितानि
+*   2\5.8. மொழிபெயர்ப்பு பயிற்சி
+
+## [பாடம் 26](lektion26)
+
+*   2\6.1. வார்த்தையின் உள்ளே -s- க்கான மூளைமாற்ற விதி
+*   2\6.2. வார்த்தையின் உட்பகுதியில் அடங்கிய பற்கள் தொடர்பான மூளைப்படுத்தல் விதி
+*   2\6.3. வார்த்தை சந்தி மெய்யொலிகள், கழுத்து ஒலிகள், ṣ, h + -s
+*   2\6.4. கிராஸ்மேனின் மூச்சு ஒற்றுமை நீக்க விதி
+*   2\6.5. வார்த்தசந்தி -m, -n முன் உயிரெழுத்துக்களுக்கு
+*   2\6.6. எளிய எதிர்காலத்தின் பயன்பாடு (ऌत्, भविष्यन्ती ப.)
+*   2\6.7. எளிய எதிர்காலத்தின் உருவாக்கம் (ऌत्, भविष्यन्ती  f.)
+*   2\6.8. பயிற்சி
+
+## [பாடம் 27](lektion27)
+
+*   2\7.1. அமைவிடப் பயன்பாடு (सप्तमी பெ. = "ஒன்றாம் வினைமுற்று")
+*   2\7.2. அமைவிடப் பால் உருவாக்கம் (सप्तमी)
+    *   2\7.2.1. ஒலிப்பியல் அடிப்படையிலான சொற்றொடர்கள்
+    *   2\7.2.2. வினா, அசைவு மற்றும் தொடர்புப் பெயர்ச்சொற்கள்
+    *   2\7.2.3. உயிர் அடிச்சொற்கள்
+*   2\7.3. வழக்கமான விகுதிகளின் மீட்சி (विभक्ति)
+*   2\7.4. அனைத்து விகாரண வடிவங்களும் (ஒருமை) கொண்ட ஒரு பாடம் राम
+*   2\7.5. சொற்பட்டியல்
+*   2\7.6. பயிற்சி
+*   2\7.7. அசைவு வடிவமைப்புகள் - கற்றல்
+    *   2\7.7.1. ஆண்பால் -a இறுதிச்சொற்கள்: नर
+    *   2\7.7.2. நடுவுச் சொற்கள் -a இல் முடிவது: फल
+    *   2\7.7.3. பெண்பால் -ā இல் முடிவது: क्षत्रिया
+    *   2\7.7.4. -i என்ற முடிப்புடைய பெண்பால் சொற்கள்: अरि
+    *   2\7.7.5. பெண்பால் -i இல் முடிவது: मति
+    *   2\7.7.6. -u என்னும் பெண்பால் சொற்கள்: गुरु
+    *   2\7.7.7. பெண்பால் -u என்னும் இறுதிச்சீர்: धेनु
+    *   2\7.7.8. பலசீர் பெண்பால் சொற்கள் -ī: देवी
+    *   2\7.7.9. நிகழ்கால பகுத்திறந்த சொல் பரமஸ்பாதபதத்தில் -ant இறுதியுடன்: सन्त्
+    *   2\7.7.10. महान्त्
+    *   2\7.7.11. வான் / மான் இறுதிச்சீர் கொண்ட பெண்பால் மற்றும் நடுவினப் பெயர்கள்: गुणवन्त्
+    *   2\7.7.12. குறிப்புப் பெயர்ச்சொற்கள்: तद् । एतद् । इदम्
+    *   2\7.7.13. உரிமைப் பெயர்ச்சொல்: यद्
+    *   2\7.7.14. வினாச்சொற்கள்: किम्
+
+## [பாடம் 28](lektion28)
+
+*   2\8.1. காரணம் (णि, णिच्, कारित)
+*   2\8.2. காரண வினைச்சொல் உடன் வாக்கிய அமைப்பு (णि, णिच्, कारित)
+*   2\8.3. காரணகத்திற்கான பெயரெச்ச வடிவம் (णि, णिच्, कारित)
+*   2\8.4. காரணத்தின் செயப்படுந் தொகை வடிவம் (यक्)
+*   2\8.5. எதிர்காலத்தின் உருவாக்கம் (ऌट्, भविष्यन्ती ப.) காரணத்திற்கு
+*   2\8.6. காரணத்தின் பங்கீடு (क्त) காரணப் பெயர்ச்சொல்
+*   2\8.7. क्त्वा . ल्यप् காரணத்திற்கான தனிமைப் படிவம் (Absolutiv) உருவாக்கம்
+*   2\8.8. காரணத்திற்கான அசமம் வடிவம் (तुमुन्)
+*   2\8.9. 10-ஆம் பிரசென் வகுப்பு (चुरादि = चुर् மற்றும் பல)
+*   2\8.10. சொற்பட்டியல்
+*   2\8.11. பயிற்சி
+
+## [பாடம் 29](lektion29)
+
+*   2\9.1. காரகத்தின் பரமச்பதம் (परस्मैपद) மற்றும் ஆத்மனபதம் (आत्मनेपद) பயன்பாடு
+*   2\9.2. சொற்பட்டியல்
+*   2\9.3. மீள்பார்வைக்கான மொழிபெயர்ப்பு பயிற்சி
+*   2\9.4. எதிர்காலம் மற்றும் காரணத்திற்கு இதுவரை கற்றுக்கொண்ட வேர்களில்
+
+## [பாடம் 30](lektion30)
+
+*   3\0.1. 9-ஆம் முன்னிலை வகுப்பு (क्र्यादि = "क्री முதலியவை")
+*   3\0.2. ஆத்திவத்தின் பயன்பாடு (लिङ्)
+*   3\0.3. மூன்றாம் பகுதி ஒருமை மற்றும் பன்மை விகுதிகள்
+*   3\0.4. உயர்வு நிலை முன்னிலை உருவாக்கம் (लिङ्)
+    *   3\0.4.1. தீம்மாத்திக பிரேசென்ஸ் வகுப்புகள்
+    *   3\0.4.2. அசைவற்ற முன்னிலை வகுப்புகள்
+*   3\0.5. வாரிய -r இன் சந்தி
+*   3\0.6. சொற்பட்டியல்
+*   3\0.7. பயிற்சி
+*   3\0.8. வடிவியல் மீள்வினா
+
+## [பாடம் 31](lektion31)
+
+*   3\1.1. ஏழாம் முன்னிலை வகை (रुधादि = "रुध् முதலியவை")
+*   3\1.2. சொற்பட்டியல்
+*   3\1.3. பயிற்சி
+
+## [பாடம் 32](lektion32)
+
+*   3\2.1. கடந்த கால வசைகள்
+*   3\2.2. எதிர்காலம் (लङ्)
+*   3\2.3. விரிவாக்கத்திற்கான விதிகள்
+*   3\2.4. அசீத கால வடிவமைப்புக்கான எடுத்துக்காட்டுகள்
+    *   3\2.4.1. தீம்மாத்திக பிரேசன் வகுப்புகள்
+    *   3\2.4.2. அத்தேமத்திக பிரேசன் வகுப்புகள்
+*   3\2.5. சொற்பட்டியல்
+*   3\2.6. பயிற்சி
+*   3\2.7. மீள்பார்வைக்கான பயிற்சி கிறிஸ்துமஸ் விடுமுறையின் போது
+*   3\2.8. மீள்பார்வைக்கான பயிற்சி
+*   3\2.9. மொழிபெயர்ப்பு பயிற்சி
+
+## [பாடம் 33](lektion33)
+
+*   3\3.1. மீள்கை (अभ्यास m.)
+    *   3\3.1.1. மீள்சீர் எழுத்து
+*   3\3.2. மூன்றாவது முன்னிலை வகுப்பு (जुहोत्यादि = "जुहोति முதலியன")
+    *   3\3.2.1. மூன்றாம் முன்னிலைப் பெயர்ச்சொல் வகுப்பின் மீள்சொல் உயிர்
+*   3\3.3. ஆவின் அலௌத்திற்கு
+*   3\3.4. -ā-வால் முடிவடையும் மூன்றாம் பிரியம் விகாரத்தின் மூலங்கள்
+    *   3\3.4.1. **दा** மற்றும் **धा** ஆகியவற்றின் மூலங்கள்
+*   3\3.5. முன்னிலைப் பால் முன்னிலை எதிர்காலப் பெயர்ச்சொல் (Participle Present Parasmaipada) மூன்றாம் எதிர்கால வகை மூலங்களுக்கு
+*   3\3.6. சொற்பட்டியல்
+*   3\3.7. பயிற்சி
+
+## [பாடம் 34](lektion34)
+
+*   3\4.1. முழுமை (लिट्)
+*   3\4.2. மீட்டெடுக்கப்பட்ட முற்றீடு (द्वित्वलिट्)
+    *   3\4.2.1. வேர் வகைமை
+    *   3\4.2.2. பெர்ஃக்டம் முடிவுகள்
+    *   3\4.2.3. இணை எழுத்து -i-
+    *   3\4.2.4. ஒலிப்புக்கூறு எழுத்துக்களுடன் தொடங்கும் மூலச்சொற்களின் மீளுருவாக்கம்
+    *   3\4.2.5. ஒலிவழக்கில் தொடங்கும் மூலச்சொற்களின் மீண்டும் வரும் வடிவம்
+*   3\4.3. மறுநிகைத்த முற்றெச்ச வகைகள்
+*   3\4.4. முழுமை வகை I: முழுமை வார்ப்புரு இல்லாமல்
+*   3\4.5. முற்று வகை II: வலிமையான மூலம் உயர்நிலை, பலவீனமான மூலம் தாழ்நிலை
+*   3\4.6. சொற்பட்டியல்
+*   3\4.7. பயிற்சி
+*   3\4.8. மொழிபெயர்ப்பு பயிற்சி
+
+## [பாடம் 35](lektion35)
+
+*   3\5.1. முற்று வகை III: வலிமையான மூலம் உயர்நிலை/நீட்டப்பட்டநிலை
+    *   3\5.1.1. முழுமை வகை IIIa: வலிமையான மூலம் உயர்நிலை/நீட்சிநிலை, பலவீனமான மூலம் தாழ்நிலை
+    *   3\5.1.2. முழுமை வகை IIIb: வலிமையான மூலம் உயர்நிலை/நீட்சிநிலை, பலவீனமான மூலம் உயர்நிலை
+*   3\5.2. முழுமை வகை IV: -ā / -āi க்கு இறுதியாகும் மூலங்கள்
+*   3\5.3. முற்று வகை V: மூலக்கூறு ஒலிப்பு-a-ஒலிப்பு
+    *   3\5.3.1. முழுமை வகை Va: பலவீனமான மூலம் ஆழ நிலை
+    *   3\5.3.2. முழுமை வகை Vb: பலவீனமான மூலம் சுருக்கம் (e-வகை)
+    *   3\5.3.3. முற்று வகை Vc: மூலக்கூறு ஒலிப்பு-a-ஒலிப்பு. பலவீனமான அடித்தளம் உயர்நிலை
+*   3\5.4. சொற்பட்டியல்
+*   3\5.5. பயிற்சி
+
+## [பாடம் 36](lektion36)
+
+*   3\6.1. பெர்ஃக்டத்தின் சிறப்பு வடிவமைப்புகள்
+*   3\6.2. விரிவான முற்றுகை (अनुप्रयोगलिट्)
+*   3\6.3. முழுமை எதிர்மறை
+*   3\6.4. சொற்பட்டியல்
+*   3\6.5. பயிற்சி
+*   3\6.6. முழுமை (लिट्) இதுவரை கற்ற வேர்களுக்கு
+*   3\6.7. மொழிபெயர்ப்பு பயிற்சி
+*   3\6.8. வடிவியல் மீள்விளையாட்டு
+
+## [பாடம் 37](lektion37)
+
+*   3\7.1. வினையுரிச்சொல் (क्रियाविशेषणम्)
+*   3\7.2. வினைச்சொற்களின் விகார வடிவங்களின் பயன்பாடு
+    *   3\7.2.1. பெயர்ச்சொல் விசேஷணம் (द्वितीया)
+    *   3\7.2.2. கருவிப் பால் (तृतीया)
+    *   3\7.2.3. திவ்ங்கம் (चतुर्थी)
+    *   3\7.2.4. அழைப்பு விசாரணை (पञ्चमी)
+    *   3\7.2.5. பண்புவினை (षष्ठी)
+    *   3\7.2.6. அமைவிடம் (सप्तमी)
+*   3\7.3. அடைமொழி வகையில் பயன்படுத்தப்படாத விகுதி வடிவங்களின் பயன்பாடு
+*   3\7.4. வினையெச்சங்களை வினையெச்சப் பின்னொட்டுகளுடன் உருவாக்குதல்
+*   3\7.5. வினையெச்சத் தொகைச்சொற்கள்
+    *   3\7.5.1. வினையெச்சம் அல்லது வினையெச்சப் பயன்பாட்டில் உள்ள விளித்தொகை பின்னொற்றாகக் கொண்ட தொகைச்சொற்கள்
+    *   3\7.5.2. बहुव्रीहि வினையெச்ச வகையில் பயன்படுத்தப்படும்
+    *   3\7.5.3. अव्ययीभाव-சேர்மங்கள்
+*   3\7.6. இலக்கணம்
+*   3\7.7. அசpecific உரிச்சொற்கள்
+*   3\7.8. கேள்வி வாக்கியம்
+    *   3\7.8.1. சொல் கேள்விகள் (நிரப்புக் கேள்விகள்)
+    *   3\7.8.2. வாக்கியக் கேள்விகள்
+*   3\7.9. சொற்பட்டியல்
+*   3\7.10. பயிற்சி
+*   3\7.11. மீள் பயிற்சி
+
+## [பாடம் 38](lektion38)
+
+*   3\8.1. வாரத்தின் தீர்வு
+*   3\8.2. வார்த்தையில் அசைவு மாற்றம்
+*   3\8.3. -n என்னும் வேர்ச்சொற்களின் பெயர்ச்சொல் விகுதிகள்
+    *   3\8.3.1. -an என்னும் பெயர்ச்சொற்கள் மற்றும் உயிர்எழுத்திற்குப் பின் -man அல்லது -van என்னும் பெயர்ச்சொற்கள்
+    *   3\8.3.2. -man அல்லது -van க்கு இறுதியாகக் கொண்ட பெயர்ச்சொற்கள், உயிரெழுத்திற்குப் பின்
+    *   3\8.3.3. ஆண்பால் மற்றும் பெண்பால் -இன், -மின், -வின் என்னும் இறுதியைக் கொண்டவை
+*   3\8.4. பெயர்ச்சொல் உருவாக்கம்: तद्धित-சுட்டு -in
+*   3\8.5. नामन् இன் இலக்கணம்
+*   3\8.6. आत्मन् இன் இலக்கணம்
+*   3\8.7. ஒலித்து முடியும் மூலங்கள் கலப்பொருட்களின் முன் உறுப்புகளாக
+*   3\8.8. -an கிற பின்னொற்றைக் கொண்ட குழுக்கள் बहुव्रीहि-இன் பின்னங்கூறாக
+*   3\8.9. சொற்பட்டியல்
+*   3\8.10. பயிற்சி
+*   3\8.11. மொழிபெயர்ப்பு பயிற்சிக்கான சொல்லியல் பட்டியல்
+*   3\8.12. மொழிபெயர்ப்பு பயிற்சி
+
+## [பாடம் 39](lektion39)
+
+*   3\9.1. முதல் நபர் வசந்தங்கள் (***तृतीयः*** पुरुषः = "***மூன்றாவது*** நபர்")
+*   3\9.2. முதல் நபர் வினைச்சொல் வடிவங்களின் அமைப்பு — தீமைக் காலத்தின் முதல் வகைப் பெயர்ச்சொல் வடிவங்கள்
+    *   3\9.2.1. முதல் முன்னிலை வகுப்பு (भ्वादि)
+    *   3\9.2.2. ஆறாம் இலக்கண வகுப்பு (तुदादि)
+    *   3\9.2.3. நான்காவது முன்னிலை வகுப்பு (दिवादि)
+    *   3\9.2.4. பத்தாவது பிரசென்ஸ் வகுப்பு (चुरादि) மற்றும் காரணீயங்கள் (णिजन्त)
+    *   3\9.2.5. செயல்படு வடிவம் (இறுதிச்சொல் यक्)
+*   3\9.3. எளிய எதிர்காலத்தின் முதல் பகுதியின் வினைச்சொல் வடிவங்களின் உருவாக்கம் - ऌत्
+    *   3\9.3.1. अनिट् உருவாக்கம்
+    *   3\9.3.2. सेट् உருவாக்கம்
+*   3\9.4. முதல் வகை அசைசார்பற்ற முன்னிலைப் பெயர்ச்சொற்றொடர்களின் வினை வடிவங்களை உருவாக்குதல்
+    *   3\9.4.1. இரண்டாவது பிரசென்ஸ் வகுப்பு (अदादि)
+    *   3\9.4.2. மூன்றாவது முன்னிலை வகுப்பு (जुहोत्यादि)
+    *   3\9.4.3. ஐந்தாவது முன்னிலை வகுப்பு (स्वादि)
+    *   3\9.4.4. எட்டாவது முன்னிலை வகை (तनादि)
+    *   3\9.4.5. ஏழாவது பிரசென்ஸ் வகுப்பு (रुधादि)
+    *   3\9.4.6. ஒன்பதாம் முன்னிலை வகை (क्र्यादि)
+*   3\9.5. பயிற்சி
+
+## [பாடம் 40](lektion40)
+
+*   4\0.1. सुभाषितानि
+*   4\0.2. முதல் நபர் முற்றெச்ச வினைச்சொல் வடிவங்களின் உருவாக்கம் (लिट्)
+    *   4\0.2.1. முழுமை வகை I: மூலநிலை மாற்றம் இல்லை
+    *   4\0.2.2. முற்று வகை II: வலிமையான மூலம் உயர் நிலை, பலவீனமான மூலம் தாழ்நிலை
+    *   4\0.2.3. முழுமை வகை III: வலிமையான மூலச்சொல் உயர்நிலை/நீட்சிநிலை
+    *   4\0.2.4. நான்காம் வகை முற்றெச்சம்: -ā / -ai ஆதியுள்ள மூலங்கள்
+    *   4\0.2.5. பெர்ஃக்ட் வகை V: ஒலிப்பு-அ-ஒலிப்பு
+    *   4\0.2.6. சிறப்பு முற்றெச்ச வடிவமைப்புகள்
+*   4\0.3. முதல் நபரின் சுயசரிதையியல் முற்றெச்ச வினை வடிவங்களின் உருவாக்கம் (अनुप्रयोगलिट्)
+*   4\0.4. முதல் பற்றிய இலக்கணம் (तृतीयः)
+*   4\0.5. முதல் ஒருமை மற்றும் பன்மை ஆண்பால்/பெண்பால்/நடுவுபால் पुरुषार्थकसर्वनाम தனிநபர் உரிச்சொற்கள்
+*   4\0.6. சொற்பட்டியல்
+*   4\0.7. பயிற்சி
+*   4\0.8. வடிவியல் பயிற்சிக்கான மீள்பார்வை
+
+## [பாடம் 41](lektion41)
+
+*   4\1.1. सुभाषिते  (இரண்டு பழமொழிகள்)
+*   4\1.2. மேலும் कृत्-a வடிவங்கள்
+    *   4\1.2.1. பத்திச ப்ரேசன்ஸ் (लडादेशः) Ā, பத்திச ப்ரேசன்ஸ் (लडादेशः) பசசிவ், பத்திச ப்யூர் (ऌडादेशः) Ā
+    *   4\1.2.2. "பகுத்தெச்சம்" எதிர்மறைத் தேவையைக் குறிக்கும் (Gerundivum) (कृत्य)
+    *   4\1.2.3. "பாசண்டிவம்" (Gerundivum) என்ற செயலுரிமைச் சொல்லின் இலக்கணம் (कृत्य)
+    *   4\1.2.4. Gerundiv-ஒட்டுகளின் பயன்பாட்டில் வேறுபாடுகள்
+    *   4\1.2.5. सु மற்றும் दुस् உடன் தொடர்பில்லை
+*   4\1.3. சொற்பட்டியல்
+*   4\1.4. பயிற்சி
+
+## [பாடம் 42](lektion42)
+
+*   4\2.1. -ṛ என்னும் இறுதிச்சீர் கொண்ட குலங்கள்
+    *   4\2.1.1. வலிமையான அடித்தட்டில் நீட்டப்பட்ட நிலை கொண்ட குலங்கள்
+    *   4\2.1.2. பெயர் உருவாக்கம்: कृत्-சுமை -तृ
+    *   4\2.1.3. உயர்ந்த நிலை கொண்ட வலிமையான வேர்ச்சொற்களில் உள்ள குடும்பங்கள்
+    *   4\2.1.4. கூட்டுச்சொற்களில் -ṛ எனும் இறுதியைக் கொண்ட பழங்குடியினர்
+*   4\2.2. சொற்பட்டியல்
+    *   4\2.2.1. சில உறவுச்சொற்கள்
+*   4\2.3. பயிற்சி
+*   4\2.4. மொழிபெயர்ப்பு பயிற்சி
+
+## [பாடம் 43](lektion43)
+
+*   4\3.1. இரண்டாம் நபருக்கான சொற்பிறழ்வுகள் (मध्यमः = "நடு &lt;நபர்&gt;")
+*   4\3.2. இரண்டாம் வேற்றுமை வினைச்சொல் வடிவங்கள் (मध्यमः)
+    *   4\3.2.1. தீம்மாத்திக் கிளைகள்
+*   4\3.3. இரண்டாம் பட்சத்தின் பெயர்ச்சொல்
+*   4\3.4. சொல் பட்டியல்
+*   4\3.5. பயிற்சி
+*   4\3.6. संवादः = உரையாடல்
+
+## [பாடம் 44](lektion44)
+
+*   4\4.1. இரண்டாம் வேற்றுமை வினைச்சொற்களின் வடிவமைப்பு (मध्यमः) ஒலியற்ற கிளைகளின் ஒலி வாய்பாட்டுடன் முடிவடையும் பின்னொட்டு
+    *   4\4.1.1. ஐந்தாவது பிரசென்ஸ் வகுப்பு (स्वादि)
+    *   4\4.1.2. எட்டாவது முன்னிலை வகுப்பு (तनादि)
+    *   4\4.1.3. ஒன்பதாம் முன்னிலை வகுப்பு (क्र्यादि)
+*   4\4.2. வார்த்தா சந்தி பற்றி
+    *   4\4.2.1. dh-க்கான வார்த்தா சந்தி பற்றி
+    *   4\4.2.2. எழுத்து இணைவுக்கு s- பற்றி
+*   4\4.3. இரண்டாம் வேற்றுமை வினைச்சொல் வடிவங்களின் உருவாக்கம் (मध्यमः) ஒலியில்லாத கிளைகளில், ஒலி வரிசையுடன் முடிவடையாதவை
+    *   4\4.3.1. இரண்டாவது முன்னிலை வகுப்பு (अदादि)
+*   4\4.4. அழைப்புப் பெயர் (आमन्त्रितम्)
+*   4\4.5. சொற்பட்டியல்
+*   4\4.6. பயிற்சி
+*   4\4.7. வடிவியல் மீள்வினையின் மீள்வினையின் பயிற்சி
+
+## [பாடம் 45](lektion45)
+
+*   4\5.1. இரண்டாம் வேற்றுமை வினைச்சொற்களின் வடிவங்களின் உருவாக்கம் (मध्यमः) ஒலியற்ற அடிச்சொற்கள், ஒலி வரிசை இல்லாமை (தொடர்ச்சி)
+    *   4\5.1.1. மூன்றாவது முன்னிலை வகுப்பு (जुहोत्यादि)
+    *   4\5.1.2. ஏழாவது பிரசென்ஸ் வகுப்பு (रुधादि)
+*   4\5.2. ஒருமை அழைப்பொலி (आमन्त्रितमेकवचने)
+*   4\5.3. சொற்பட்டியல்
+*   4\5.4. பயிற்சி
+
+## [பாடம் 46](lektion46)
+
+*   4\6.1. இரண்டாம் வேற்றுமை வினைச்சொற்களின் வடிவமைப்பு (मध्यमः) முற்றெச்சம் (लिट्)
+    *   4\6.1.1. முற்றுப்பெயர்கள்
+    *   4\6.1.2. முடிப்பு -dhve-வின் ஒலி மாற்றம்
+    *   4\6.1.3. முழுமை வகை I: மூலநிலை மாற்றம் இல்லை
+    *   4\6.1.4. முற்று வகை II: வலிமையான மூலம் உயர் நிலை, பலவீனமான மூலம் தாழ்நிலை
+    *   4\6.1.5. முழுமை வகை III: வலிமையான மூலம் உயர்நிலை/நீட்டப்பட்டநிலை
+    *   4\6.1.6. முழுமை வகை IV: -ā / -ai க்கு இறுதியாகும் மூலங்கள்
+    *   4\6.1.7. முழுமை வகை V: ஒலிப்பு-அ-ஒலிப்பு
+    *   4\6.1.8. சிறப்பு முற்றெச்ச வடிவமைப்புகள்
+    *   4\6.1.9. சுழற்சி முற்றெச்சம் (अनुप्रयोगलिट्)
+*   4\6.2. சொற்பட்டியல்
+*   4\6.3. பயிற்சி
+
+## [பாடம் 47](lektion47)
+
+*   4\7.1. ஆணைக்குறிப்பு (लोट्)
+*   4\7.2. விசேட உத்தேசத்தின் உருவாக்கம் (लोट्) தீம்நிகரான முன்னிலை விகாரங்கள்
+    *   4\7.2.1. விசேஷணைகள் அசைவுக்குறிப்புக்கள்
+    *   4\7.2.2. முதல் முன்னிலை வகுப்பு (भ्वादि)
+    *   4\7.2.3. ஆவது முன்னிலை வகுப்பு (तुदादि)
+    *   4\7.2.4. நான்காவது முன்னிலை வகுப்பு (दिवादि)
+    *   4\7.2.5. பத்தாவது பிரசென்ஸ் வகுப்பு (चुरादि) மற்றும் காரணீயங்கள்
+    *   4\7.2.6. செயல்படுநிலை
+*   4\7.3. பயிற்சி
+
+## [பாடம் 48](lektion48)
+
+*   4\8.1. सुभाषितानि
+*   4\8.2. அத்திமாச பிரேசன்சு வார்ப்புகளின் விசேஷண வடிவம் (लोट्)
+    *   4\8.2.1. அத்தமாத்திக முன்னிலை வடிவங்களுக்குரிய இறுதிச்சொற்கள்
+    *   4\8.2.2. முன்னிலைத் தனிச்சொல்லின் வடிவம்
+    *   4\8.2.3. இரண்டாவது முன்னிலை வகுப்பு (अदादि)
+    *   4\8.2.4. மூன்றாவது முன்னிலை வகுப்பு (जुहोत्यादि)
+*   4\8.3. பெயர்ச்சொல் உருவாக்கம்: तद्धित-சந்தைகள் -a மற்றும் -ya
+*   4\8.4. சொற்பட்டியல்
+*   4\8.5. பயிற்சி
+*   4\8.6. மொழிபெயர்ப்பு பயிற்சி
+
+## [பாடம் 49](lektion49)
+
+*   4\9.1. வினவெச்ச உருவாக்கம் (लोट्) அசைவற்ற முற்போக்கு வார்ப்புருக்கள் (தொடர்ச்சி)
+    *   4\9.1.1. ஏழாவது முன்னிலை வகுப்பு (रुधादि)
+    *   4\9.1.2. ஐந்தாம் பிரசென்ஸ் வகுப்பு (स्वादि)
+    *   4\9.1.3. எட்டாவது முன்னிலை வகுப்பு (तनादि)
+    *   4\9.1.4. ஒன்பதாம் முன்னிலை வகுப்பு (क्र्यादि)
+*   4\9.2. பெயர் அடிச்சொற்களின் விகாரம் -as, -is, -us ஆகியவற்றால் முடிவது
+*   4\9.3. பெயர் உருவாக்கம்: कृत्-சுஃக்ஸ் -as நடுவினம்
+*   4\9.4. சொற்பட்டியல்
+*   4\9.5. வடிவியல் மீள்வினையாடல்
+*   4\9.6. மொழிபெயர்ப்பு பயிற்சி
+
+## [பாடம் 50](lektion50)
+
+*   5\0.1. பெயர் உருவாக்கம்: வழக்கமான உயர்த் தரம்
+*   5\0.2. சொற்பட்டியல்
+*   5\0.3. மொழிபெயர்ப்பு பயிற்சி
+
+## [பாடம் 51](lektion51)
+
+*   5\1.1. उपपद-சேர்க்கைகள்
+*   5\1.2. பெயர்ச்சொல் வார்ப்புகளின் பெயர் வடிவமைப்பு, அவை ஒரு எளிய ஒலி (நேரடி ஒலி, அரைஒலி, -s தவிர) ஆல் முடிவடைகின்றன
+    *   5\1.2.1. அசைநிலை அல்லாத அடைமொழி வாய்மொழிகளில் இனங்கள்
+    *   5\1.2.2. Palatal அடைமொழிகளில் (c, ch, j), ś, ṣ உள்ள இனங்கள்
+    *   5\1.2.3. -h எனும் இறுதியைக் கொண்ட குழுக்கள்
+*   5\1.3. அசை எழுத்தான h- இன் சந்தி
+*   5\1.4. தொடக்கத்தில் ch- இன் சந்தி
+*   5\1.5. -ch- வார்த்தையின் உள்ளே
+*   5\1.6. சொற்பட்டியல்
+*   5\1.7. மொழிபெயர்ப்பு பயிற்சி
+
+## [பாடம் 52](lektion52)
+
+*   5\2.1. -i மற்றும் -u கடைசிகளைக் கொண்ட பெயர்ச்சொற்றொகுதிகளின் பால்நடு
+*   5\2.2. பெயர் உருவாக்கம்
+    *   5\2.2.1. PPP + -vant: பழைய கால பண்புவினை
+    *   5\2.2.2. तद्धित-சந்தி -maya / -mayī
+    *   5\2.2.3. तद्धित-சூடோ -eya
+*   5\2.3. வினையணை உருவாக்கம்: வினையணை விகுதி -śas
+*   5\2.4. வினைச்சொல் சேர்மங்கள், ஏதேனும் ஒரு விஷயம் முன்பு இல்லாததாக மாறுவதை அல்லது ஆக்கப்படுவதை வெளிப்படுத்துகின்றன (अभुततद्भावः)
+    *   5\2.4.1. cvi- உருவாக்கங்கள்
+    *   5\2.4.2. பின்னணி -sāt
+*   5\2.5. சொல் மீள்வினைகள் (द्विरुक्तम्)
+*   5\2.6. எண்ணெண் (सम्ख्या பெண்பால்)
+    *   5\2.6.1. அடிப்படை எண்கள்
+    *   5\2.6.2. வரிசை எண்கள்
+    *   5\2.6.3. எண்ணுரிமை வினையெச்சங்கள்
+    *   5\2.6.4. எண்ணுப் பண்பெச்சங்கள்
+    *   5\2.6.5. முன்னங்கூறில் எண்ணிக்கை எண்களுடன் கூடிய சங்கிலிச்சொற்கள்
+*   5\2.7. சொல் பட்டியல்
+*   5\2.8. மொழிபெயர்ப்பு பயிற்சி
+*   5\2.9. காலவிடுமுறையின் போதுள்ள பணிகள்
+
+## [பாடம் 53](lektion53)
+
+*   5\3.1. இரட்டை (द्विवचन n.) பெயர்ச்சொற்களின் இரட்டை
+*   5\3.2. பெயர்ச்சொல்லின் இரட்டை விகுதிகள்
+*   5\3.3. ஒலிப்புக்கொண்டு முடியும் பெயர்ச்சொற்களின் இருமை
+    *   5\3.3.1. வரிசைநிலை இல்லாத இனக்குழுக்கள்
+    *   5\3.3.2. வம்ச அடுக்கமை கொண்ட இனங்கள்
+*   5\3.4. இருசொற்றொடர் ஒலிப்பு வடிவங்களுக்கான இருமை
+*   5\3.5. இரட்டை இணைப்பு
+*   5\3.6. பெயர்ச்சொற்களின் இருமை
+*   5\3.7. உரிச்சொற்றொடர் பண்பொழிவுகள்
+*   5\3.8. விதிவிலக்கான உயர்வு
+*   5\3.9. ஒப்பீட்டு வடிவங்களுக்கான -īyas விகாரம்
+*   5\3.10. அளவியல் (வசன அளவுகள் கற்றல்)
+    *   5\3.10.1. அளவின் தீர்மானத்தின் முக்கியத்துவம்
+    *   5\3.10.2. மீற்றங்களின் வகைகள்
+    *   5\3.10.3. எழுத்துக்களின் அளவியல்
+    *   5\3.10.4. எபிக் சீலோக்கா (श्लोक ஆண்பால்)
+*   5\3.11. பயிற்சி
+
+## [பாடம் 54](lektion54)
+
+*   5\4.1. முன்னுரை
+*   5\4.2. சொல் அமைப்பு: कृत्-சுட்சம் -u விருப்பப் பகுதிக்கு
+*   5\4.3. மெட்ரிக் II: எபிக் त्रिष्टुभ् மற்றும் जगती
+*   5\4.4. மீற்றிரிக்கான பயிற்சி
+*   5\4.5. அகற்றத்தின் கல்வி வகைகள் (लुङ्)
+*   5\4.6. வரைநிலை முன்னாளமை
+    *   5\4.6.1. பசீவத்தின் 3.ஒ.ஒற்றைமைக்காலம்
+*   5\4.7. பயிற்சி
+
+## [பாடம் 55](lektion55)
+
+*   5\5.1. அ-அகாரி (தீர்வுக் காலம், தீர்வுக் காலம்)
+*   5\5.2. பயிற்சி
+
+## [பாடம் 56](lektion56)
+
+*   5\6.1. மீட்டெடுக்கப்பட்ட அஓரிஸ்ட்
+    *   5\6.1.1. காரணகத்தின் அகாலத்தின் உருவாக்கம் மற்றும் 10. அசை வகுப்பின் மூலங்கள்
+*   5\6.2. இனஜங்க்டிவ்
+*   5\6.3. தடை விதி
+*   5\6.4. स्म
+*   5\6.5. பயிற்சி
+
+## [பாடம் 57](lektion57)
+
+*   5\7.1. அருஸ்ட் 4: எஸ்-அருஸ்ட்
+*   5\7.2. பயிற்சி
+
+## [பாடம் 58](lektion58)
+
+*   5\8.1. இருமைக்கான முதன்மை விகுதிகள் (द्विवचनम्)
+*   5\8.2. இருமை வினைச்சொல் முன்னிலைப் பெயர்ச்சொல் வகுப்புகள்: விசேஷண முன்னிலை (लट्)
+    *   5\8.2.1. முதல் முன்னிலை வகுப்பு (भ्वादिगणः)
+    *   5\8.2.2. நான்காவது முன்னிலை வகுப்பு (दिवादिगणः)
+    *   5\8.2.3. ஆவது முன்னிலை வகுப்பு (तुदादिगणः)
+    *   5\8.2.4. பத்தாவது பிரசென்ஸ் வகுப்பு (चुरादिगणः) மற்றும் காரணீயங்கள் (णिजन्त)
+*   5\8.3. எளிய எதிர்காலத்தின் இரட்டை (ऌत्)
+    *   5\8.3.1. अनिट्
+    *   5\8.3.2. सेट्
+*   5\8.4. இருமை வினைமுற்று (பின்னணி -यक्)
+*   5\8.5. இலக்கணமின்றிய முன்னிலைப் பிரிவுகளின் இருமை: அறிவித்தல் முன்னிலை (लट्)
+    *   5\8.5.1. இரண்டாவது முன்னிலை வகுப்பு (अदादिगणः)
+    *   5\8.5.2. மூன்றாவது முன்னிலை வகுப்பு (जुहोत्यादिगणः)
+    *   5\8.5.3. ஐந்தாவது பிரசென்ஸ் வகுப்பு (स्वादिगणः)
+    *   5\8.5.4. எட்டாவது முன்னிலை வகுப்பு (तनादिगणः)
+    *   5\8.5.5. ஏழாவது பிரசென்ஸ் வகுப்பு (रुधादिगणः)
+    *   5\8.5.6. ஒன்பதாம் முன்னிலை வகுப்பு (क्र्यादिगणः)
+*   5\8.6. அகரிசு 5: iṣ-அகரிசு
+*   5\8.7. பயிற்சி
+
+## [பாடம் 59](lektion59)
+
+*   5\9.1. இரண்டாம் நிலை முடிபுகள் மற்றும் இரட்டைப் பெயரீட்டு முடிபுகள் (द्विवचनम्)
+*   5\9.2. இருமை வினைச்சொல் முன்னிலை நிகழ்கால வகைகள்: விநாயகம் (विधिलिङ्), அசீதகாலம் (लङ्), ஆணைச்சொல் (लोट्)
+    *   5\9.2.1. முதல் முன்னிலை வகுப்பு (भ्वादिगणः)
+    *   5\9.2.2. நான்காவது முன்னிலை வகுப்பு (दिवादिगणः)
+    *   5\9.2.3. ஆறாம் முன்னிலைப் பிரிவு (तुदादिगणः)
+    *   5\9.2.4. பத்தாவது பிரசென்ஸ் வகுப்பு (चुरादिगणः) மற்றும் காரணீயங்கள் (णिजन्त)
+    *   5\9.2.5. செயல்படு வினை (இறுதிச்சொல் -यक्)
+*   5\9.3. இருமை எழுத்து இல்லாத பெயர்ச்சொற்களின் கால வகைகள்: விசேஷப் பொருள் (विधिलिङ्), முந்தைக்காலம் (लङ्), கட்டளை (लोट्)
+    *   5\9.3.1. இரண்டாவது முன்னிலை வகுப்பு (अदादिगणः)
+    *   5\9.3.2. மூன்றாவது முன்னிலை வகுப்பு (जुहोत्यादिगणः)
+    *   5\9.3.3. ஐந்தாவது பிரசென்ஸ் வகுப்பு (स्वादिगणः)
+    *   5\9.3.4. எட்டாவது முன்னிலை விகாரம் (तनादिगणः)
+    *   5\9.3.5. ஏழாவது பிரசென்ஸ் வகுப்பு (रुधादिगणः)
+    *   5\9.3.6. ஒன்பதாவது முன்னிலை வகுப்பு (क्र्यादिगणः)
+*   5\9.4. இரட்டை (द्विवचनम्) எதிர்காலம் (लुङ्)
+    *   5\9.4.1. வாளெரிசு
+    *   5\9.4.2. a-அகார அருகிசை
+    *   5\9.4.3. மீள் அகாரிச்ட்
+    *   5\9.4.4. s-அருகிர்
+    *   5\9.4.5. iṣ-Aorist
+*   5\9.5. அருகிஸ்ட் (लुङ्) 6: sis-அருகிஸ்ட் (P மட்டும்)
+*   5\9.6. அருகிஸ்ட் (लुङ्) 7: sa-அருகிஸ்ட் (தீமாத்திகர் se-அருகிஸ்ட்)
+*   5\9.7. பயிற்சி
+
+## [பாடம் 60](lektion60)
+
+*   6\0.1. இருமை வினைமுற்று விகுதிகள் (द्विवचनम्)
+*   6\0.2. மறுநிகைத்த முற்றெச்சத்தின் இரட்டைமை (द्वित्वलिट्)
+    *   6\0.2.1. வகை 1: மூல வேர்மாற்றம் இல்லை
+    *   6\0.2.2. வகை 2: வலிமையான அடிச்சொல் உயர்நிலை, பலவீனமான அடிச்சொல் தாழ்நிலை
+    *   6\0.2.3. வகை 3: வலிமையான மூலம் உயர்நிலை/நீட்சிநிலை
+    *   6\0.2.4. வகை 4: -ā / -ai ஆகியவற்றால் முடிவடையும் மூலங்கள்
+    *   6\0.2.5. வகை 5: ஒலிப்பு-அ-ஒலிப்பு
+*   6\0.3. வட்டமைக்கப்பட்ட முற்றெச்சத்தின் இரட்டை (अनुप्रयोगलिट्)
+*   6\0.4. परस्मैपद என்ற வடசொற்றொடரின் பகுதி द्वित्वलिट्
+*   6\0.5. அசைவு வார்த்தைகளின் பெயர் விகுதிகள் (-añc / -ac)
+    *   6\0.5.1. -añc என்னும் முடிபைப் பெற்ற மூன்று வரிசைப் பெயர்ச்சொற்கள்
+    *   6\0.5.2. இரண்டு கிளைகளைக் கொண்ட -añc இறுதியைக் கொண்ட மக்கள் குழுக்கள்
+*   6\0.6. விசாரணை (सन्)
+    *   6\0.6.1. விருப்பப் பகுதியின் உருவாக்கம்
+    *   6\0.6.2. விருப்பப் பொருள் இறங்குதல் (सन्)
+*   6\0.7. பயிற்சி
+
+## [பாடம் 61](lektion61)
+
+*   6\1.1. -ā, -ī, -ū ஆகிய -ஆவற்றின் பெயர் வகைமை
+    *   6\1.1.1. तत्पुरुष-இன் இறுதியில் -ā வரும் வேர்ச்சொற்கள்
+    *   6\1.1.2. -ī என்னும் பெண்கை வேர்ச்சொற்கள்
+    *   6\1.1.3. வார்ப்பொருள்கள் -ī இறுதியில் तत्पुरुष
+    *   6\1.1.4. ஒலிப்பு, பெண்பால் மூலநாமங்கள் -ū இல்
+    *   6\1.1.5. விகாரப் பெயர் -ū இறுதியில் तत्पुरुष
+    *   6\1.1.6. -ū என்னும் பலசீர் பெண்பால் சொற்களின் விகுதிமாற்றம்
+*   6\1.2. விலக்கிய எதிர்காலம் (लुट्)
+*   6\1.3. தீவிரம் (பெருங்காலம்) (चर्करीतम्)
+    *   6\1.3.1. ஆத்மனைபத-சக்திவீரணம்
+    *   6\1.3.2. பரஸ்மைபத-இன்டீவம்
+*   6\1.4. பெயர்ச்சொல் வழி வினைச்சொற்கள் (नामधातु)
+    *   6\1.4.1. சிறப்புச் சந்தி இல்லாத கல்வி, பரமச்பதம்
+    *   6\1.4.2. -ya என்ற முற்பொருள் வினைமுற்றுடன் கற்றல்
+    *   6\1.4.3. -காமியா பின்னணி கொண்ட கல்வி, பரமசைபதம்
+    *   6\1.4.4. -sya அல்லது -asyya பின்னணி கொண்ட கற்றல், பரமசைபதம்
+    *   6\1.4.5. -ya என்ற முற்பொருள் வினைமுற்றுக்கொண்டு கற்றல், ஆத்மனைபதம்
+    *   6\1.4.6. -aya, -āpaya பின்னணி கொண்ட கற்றல்
+*   6\1.5. அருள்வாக்கு (आशीर्लिङ्)
+*   6\1.6. நிபந்தனை விசேஷணம் (ऌङ्)
+*   6\1.7. -ai, -o, -au என்பன வரும் பெயர்ச்சொற்களின் விகாரணை
+*   6\1.8. மீதமுள்ள உரிச்சொற்கள்
+    *   6\1.8.1. இரட்டைமை ஆண்பால் பெயர்ச்சொற்கள்
+    *   6\1.8.2. குறிப்பு உரிச்சொற்கள் अदस् "அவன் (தொலைவு)"
+*   6\1.9. சமஸ்கிருத இலக்கியக் கடலில் விடுதலை: ಶ್ರೀಗಣನಾಥ / श्रीगणनाथ
