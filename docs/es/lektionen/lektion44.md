@@ -1,18 +1,22 @@
 ---
+title: Lección 44
+subtitle: "Formación de las formas verbales de la 2.ª persona (मध्यमः) de las raíces no temáticas con un sufijo que termina en vocal"
 lesson_id: 44
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 44
 
-## 44.1. Formación de las formas verbales de la 2.ª persona (मध्यमः) de las raíces no temáticas con sufijo final vocálico
+## 44.1. Formación de las formas verbales de la 2.ª persona (मध्यमः) de las raíces no temáticas con sufijo que termina en vocal
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
 
 ::: grammar-box
-**La 3.sg. del Ātmanepada en el imperfecto es formalmente idéntica a la 2.pl. del Ātmanepada en el imperfecto.**
+**La 3.sg. del Ā. del imperfecto es formalmente idéntica a la 2.pl. del P. del imperfecto.**
 :::
 
 ### 44.1.1. Quinta clase de presente (स्वादि)
@@ -22,10 +26,10 @@ last_reconstructed: 2026-05-21
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | सुनोषि[[br]]¡Cerebralización! | सुनुथ | सुनुषे[[br]]¡Cerebralización! | सुनुध्वे |
 | **Imperfecto**[[br]]लङ् | असुनोस् | असुनुत | असुनुथास् | सुनुध्वम् |
-| **Optativo**[[br]]विधिलिङ् | सुनुयास् | सुनuयात | सुन्वीथास् | सुन्वीध्वम् |
+| **Optativo**[[br]]विधिलिङ् | सुनुयास् | सुनुयात | सुन्वीथास् | सुन्वीध्वम् |
 :::
 
 ### 44.1.2. Octava clase de presente (तनादि)
@@ -35,7 +39,7 @@ last_reconstructed: 2026-05-21
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | तनोषि | तनुथ | तनुषे | तनुध्वे |
 | **Imperfecto**[[br]]लङ् | अतनोस् | अतनुत | अतनुथास् | अतनुध्वम् |
 | **Optativo**[[br]]विधिलिङ् | तनुयास् | तनुयात | तन्वीथास् | तन्वीध्वम् |
@@ -46,7 +50,7 @@ last_reconstructed: 2026-05-21
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | करोषि | कुरुथ | कुरुषे | कुरुध्वे |
 | **Imperfecto**[[br]]लङ् | अकरोस् | अकुरुत | अकुरुथास् | अकुरुध्वम् |
 | **Optativo**[[br]]विधिलिङ् | कुर्यास् | कुर्यात | कुर्वीथास् | कुर्वीध्वम् |
@@ -55,9 +59,9 @@ last_reconstructed: 2026-05-21
 ### 44.1.3. Novena clase de presente (क्र्यादि)
 
 ::: grammar-box
-| | **Voz activa (परस्मैपदम्)** || **Voz media (आत्मनेपदम्)** ||
+| | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular (एकवचनम्)** | **Plural (बहुवचनम्)** | **Singular (एकवचनम्)** | **Plural (बहुवचनम्)** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | क्रीणासि | क्रीणीथ | क्रीणीषे[[br]]¡Cerebralización! | क्रीणीध्वे |
 | **Imperfecto**[[br]]लङ् | अक्रीणास् | अक्रीणीत | अक्रीणीथास् | अक्रीणीध्वम् |
 | **Optativo**[[br]]विधिलिङ् | क्रीणीयास् | क्रीणीयात | क्रीणीथास्[[br]]krī + n + ī-thās | क्रीणीध्वम्[[br]]krī + n + ī-dhvam |
@@ -65,46 +69,46 @@ last_reconstructed: 2026-05-21
 
 ## 44.2. Sobre el sandhi de palabras
 
-En el caso de las raíces del presente que terminan en consonante, deben observarse las leyes del sandhi de palabras ya tratadas.
+En las raíces del presente que terminan en consonante, se deben observar las leyes del sandhi de palabras ya tratadas.
 
-Además, se aplican las siguientes leyes del sandhi de palabras:
+Además, se aplican las siguientes leyes del sandhi de palabras.
 
-(Para una recopilación exhaustiva de todas las modificaciones fonéticas correspondientes, véase Kielhorn, Gramática, p. 76 y ss.)
+(Para una recopilación exhaustiva de todas las variaciones fonéticas aquí pertinentes, véase Kielhorn, Gramática, p. 76s.)
 
 ### 44.2.1. Sobre el sandhi de palabras para dh-
 
 ::: grammar-box
-1. **La aspirada es reemplazada por la no aspirada correspondiente ante otra aspirada:**
-   por ejemplo, **रुध्** 7U: रुन्ध् + ध्वे » **रुन्द्ध्वे** (runddhve)
+1. **La aspirada se reemplaza por la correspondiente no aspirada antes de otra aspirada:**
+   p. ej. **रुध्** 7U: रुन्ध् + ध्वे » **रुन्द्ध्वे** (run***ddh***ve)
 2. **-h + dh- » -gdh-**
-   por ejemplo, **दुह्** 2U: दुह् + ध्वे » **धुग्ध्वे** (dhugdhve)
+   p. ej. **दुह्** 2U: दुह् + ध्वे » **धुग्ध्वे** (dhu***gdh***ve)
 3. **-ṣ + dh- » -ḍḍh-** (¡Esta regla solo se aplica a la conjugación!)
-   por ejemplo, **द्विष्** 2U: द्विष् + ध्वे » **द्विड्ढ्वे** (dviḍḍhve)
+   p. ej. **द्विष्** 2U: द्विष् + ध्वे » **द्विड्ढ्वे** (dvi***ḍḍh***ve)
 4. **-s + dh- » -dh-** (Pérdida de la -s)
-   por ejemplo, **आस्** 2Ā: आस् + ध्वे » **आध्वे** (ādhve)
+   p. ej. **आस्** 2Ā: आस् + ध्वे » **आध्वे** (ādhve)
 :::
 
-### 44.2.2. Sobre el sandhi de palabras para *s-*
+### 44.2.2. Sobre el sandhi de palabras para s-
 
 ::: grammar-box
-1. **-s + s- » -ts- o (no opcional!) -ss-** (como en la 2. clase de presente)
+1. **-s + s- » -ts- o (¡no opcional!) -ss-** (así en la 2. clase de presente)
    Ejemplos:
    * **वस्** 1P: Futuro: वस् + स्य + ति » **वत्स्यति** (va***ts***yati)
    * **वस्** 2Ā: वस् + से » **वस्से** (va***ss***e)
 2. **-ṣ + s- » -kṣ-**
-   por ejemplo, **द्विष्** 2U: द्वेष् + सि » **द्वेक्षि** (dve***kṣ***i)
+   p. ej. **द्विष्** 2U: द्वेष् + सि » **द्वेक्षि** (dve***kṣ***i)
 :::
 
-## 44.3. Formación de las formas verbales de la segunda persona (मध्यमः) de las raíces no temáticas sin sufijo final vocálico
+## 44.3. Formación de las formas verbales de la 2. persona (मध्यमः) de raíces no temáticas sin sufijo final vocálico
 
 ### 44.3.1. Segunda clase de presente (अदादि)
 
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | द्वेक्षि | द्विष्ठ | द्विक्षे | द्विड्ढ्वे |
-| **Imperfecto**[[br]]लङ् | अद्वेट्[[br]]a-dveṣ + s | अद्विष्ट | अद्विष्ठास् | द्विड्ध्वम् |
+| **Imperfecto**[[br]]लङ् | अद्वेट्[[br]]a-dveṣ + s | अद्विष्ट | अद्विष्ठास् | द्विड्ढ्वम् |
 | **Optativo**[[br]]विधिलिङ् | द्विष्यास् | द्विष्यात | द्विषीथास् | द्विषीध्वम् |
 :::
 
@@ -113,7 +117,7 @@ Además, se aplican las siguientes leyes del sandhi de palabras:
 ::: grammar-box
 | | आत्मनेपदम् ||
 | --- | --- | --- |
-| | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | आस्से | आध्वे |
 | **Imperfecto**[[br]]लङ् | आस्थास् | आध्वम् |
 | **Optativo**[[br]]विधिलिङ् | आसीथास् | आसीध्वम् |
@@ -124,7 +128,7 @@ Además, se aplican las siguientes leyes del sandhi de palabras:
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | धोक्षि | दुग्ध | धुक्षे | धुग्ध्वे |
 | **Imperfecto**[[br]]लङ् | अधोक्[[br]]de: adhokṣ | अदुग्ध | अदुग्धास् | अधुग्ध्वम् |
 | **Optativo**[[br]]विधिलिङ् | दुह्यास् | दुह्यात | दुहीथास् | दुहीध्वम् |
@@ -135,7 +139,7 @@ Además, se aplican las siguientes leyes del sandhi de palabras:
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | एषि | इथ | &lt;इषे&gt; | &lt;इध्वे&gt; |
 | **Imperfecto**[[br]]लङ् | ऐस्[[br]]a + e + s | ऐत[[br]]a + i + ta | | |
 | **Optativo**[[br]]विधिलिङ् |  इयास् |  इयात |  इयीथास्[[br]]iy-ī-thās |  इयीध्वम् |
@@ -144,7 +148,7 @@ Además, se aplican las siguientes leyes del sandhi de palabras:
 ::: grammar-box
 | | परस्मैपदम् ||
 | --- | --- | --- |
-| | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | हंसि[[br]]han + si | हथ[[br]]de: *hn + ta |
 | **Imperfecto**[[br]]लङ् | अहन्[[br]]de: a-han + s | अहत[[br]]de: a-*hn + ta |
 | **Optativo**[[br]]विधिलिङ् | हन्यास् | हन्यात |
@@ -155,18 +159,18 @@ Además, se aplican las siguientes leyes del sandhi de palabras:
 ::: grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | स्तौषि[[br]]स्तवीषि | स्तुथ[[br]]स्तुवीथ | स्तुषे[[br]]स्तुवीषे | स्तुध्वे[[br]]स्तुवीध्वे |
 | **Imperfecto**[[br]]लङ् | अस्तौस्[[br]]अस्तवीस् | स्तुत[[br]]अस्तुवीत | अस्तुथास्[[br]]अस्तुवीथास् | स्तुध्वम्[[br]]अस्तुवीध्वम् |
 | **Optativo**[[br]]विधिलिङ् | स्तुयास्[[br]]स्तुवीयास् | स्तुयात[[br]]स्तुवीयात | स्तुवीथास्[[br]]stu + ī-thās | स्तुवीध्वम् |
 :::
 
-अस् 2P (¡particularmente digno de memoria!)
+अस् 2P (¡especialmente de recordar!)
 
 ::: grammar-box
 | | परस्मैपदम् ||
 | --- | --- | --- |
-| | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | ***असि*** | ***स्थ*** |
 | **Imperfecto**[[br]]लङ् | ***आसीस्*** | ***आस्त*** |
 | **Optativo**[[br]]विधिलिङ् | ***स्यास्*** | ***स्यात*** |
@@ -179,7 +183,7 @@ Además, se aplican las siguientes leyes del sandhi de palabras:
 ::: grammar-box
 | | परस्मैपदम् ||
 | --- | --- | --- |
-| | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | शास्सि | शिष्ठ |
 | **Imperfecto**[[br]]लङ् | अशास् | अशिष्ट |
 | **Optativo**[[br]]विधिलिङ् | शिष्यास् | शिष्यात |
@@ -188,7 +192,7 @@ Además, se aplican las siguientes leyes del sandhi de palabras:
 ::: grammar-box
 | | परस्मैपदम् ||
 | --- | --- | --- |
-| | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | अत्सि | अत्थ |
 
 | **Imperfecto**[[br]]लङ् | 2.sg. आदस्[[br]]3.sg. आदत् | अत्त |
@@ -197,44 +201,44 @@ Además, se aplican las siguientes leyes del sandhi de palabras:
 
 ## 44.4. El vocativo (आमन्त्रितम्)
 
-Los gramáticos nativos no consideran el vocativo (आमन्त्रितम्) como un caso independiente, sino únicamente como una modificación del nominativo (प्रथमा).
+Los gramáticos nativos no consideran el vocativo (आमन्त्रितम्) como un caso propio, sino solo como una modificación del nominativo (प्रथमा).
 
 :::: important
-**El vocativo sirve para el llamamiento y el dirijirse a alguien, y se encuentra fuera de la relación con el resto de la oración; por lo tanto, se diferencia de los demás casos, que expresan una relación con el verbo o con otro sustantivo.**
+**El vocativo sirve para el llamamiento, el trato directo y se encuentra fuera de la relación con el resto de la oración, por lo que se diferencia de los otros casos, que expresan una relación con el verbo o con otro sustantivo.**
 
 **Por lo general, el vocativo se coloca al inicio de la oración:**
 
 ::: indent
-बाल किं वदसि = «Hijo, ¿qué dices?»
+बाल किं वदसि = "Hijo, ¿qué dices?"
 :::
 ::::
 
 ::: important
-**Evítese la traducción del vocativo con "***¡Oh*** ...». En alemán utilizamos constantemente vocativos cuando, por ejemplo, decimos: «Cariño, ¿qué cocinamos hoy?». Nadie diría en este sentido: "***¡Oh*** cariño, ¿qué cocinamos hoy?"**
+**Se debe evitar la traducción del vocativo con "***¡Oh*** ...". En alemán utilizamos constantemente vocativos, cuando por ejemplo decimos: "Cariño, ¿qué cocinamos hoy?". Nadie diría en este sentido: "***¡Oh*** cariño, ¿qué cocinamos hoy?"**
 :::
 
 ::: media
 ![](/images/lekt4402.jpg)
-Fig.: Uso correcto de «¡Oh!» en alemán: «¡Oh, hombre!».
+Fig.: Para el uso correcto de "¡Oh" en alemán: ***"¡Oh hombre!"***
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4402))
 :::
 
 ::: grammar-box
-**Las formas del vocativo en plural y dual son idénticas a las del nominativo (प्रथमा) en plural y dual, respectivamente.**
+**Las formas del vocativo en plural y dual son idénticas a las del nominativo (प्रथमा) en plural o dual.**
 
-**Las formas del vocativo en singular se presentan en la [Lección 45](lektion45.md).**
+**Las formas del vocativo en singular se presentan en [Lección 45](lektion45.md).**
 :::
 
-## 44.5. Lista de vocabulario
+## 44.5. Lista de palabras
 
-प्रति Präverb: zurück, wider, gegen - hin
+प्रति Prefijo: de vuelta, contra, en contra - hacia
 
 ::: indent
-por ejemplo:
+por ejemplo
 
-**हन् + प्रति** 2P प्रतिहन्ति : golpear hacia atrás
+**हन् + प्रति** 2P प्रतिहन्ति : golpear de vuelta
 
-**वद् + प्रति** 1P प्रतिवदति : responder = contestar
+**वद् + प्रति** 1P प्रतिवदति : decir de vuelta = responder
 
 **ख्या + प्रति + आ** 2P प्रत्याख्याति : rechazar, desdeñar
 :::
@@ -249,7 +253,7 @@ Kaus. यापयति
 PPP यात  
 Inf. यातुम्  
 
-derivado de ello:
+de ello:
 
 **यान** n.: ir, camino, vehículo
 :::
@@ -260,7 +264,7 @@ Fig.: रेल्यानम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4403))
 :::
 
-**शी** 2Ā शेते : yacer. Esta raíz presenta en todas las formas de la raíz presente ***grado fuerte:*** 1.sg.Ind.Präs.Ā ***शेये*** (śe + e). Las siguientes formas son particularmente importantes: 3.pl.Ind.Präs.Ā ***शेरते***, 3.pl.Imperf.Ā ***अशेरत***
+**शी** 2Ā शेते : yacer. Esta raíz tiene en todas las formas del tema del presente ***grado alto:*** 1.sg.Ind.Pres.Ā ***शेये*** (śe + e). Las siguientes formas son particularmente importantes: 3.pl.Ind.Pres.Ā ***शेरते***, 3.pl.Impf.Ā ***अशेरत***
 
 ::: indent
 Perf. IIIa शिश्ये (śi-śī + e)  
@@ -269,9 +273,9 @@ Kaus. शापयति
 PPP शयित  
 Inf. शयितुम्  
 
-derivado de ello:
+de ello:
 
-**शयन** n.: lecho, cama
+**शयन** n.: litera, cama
 :::
 
 ::: media
@@ -280,7 +284,7 @@ Fig.: योगी शयने शेते
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4404))
 :::
 
-नन्द् 1P नन्दति : alegrarse por (dativo)
+नन्द् 1P नन्दति : alegrarse de (तृतीयया)
 
 ::: indent
 Perf. I ननन्द  
@@ -292,9 +296,9 @@ Inf. नन्दितुम्
 Absol. -नन्द्य  
 Gerundiv नन्द्य  
 
-derivado de ello:
+de ello:
 
-**नन्दिन्** 3: caracterizado por (una) alegría especial, alegre; m. nombre del animal de monta (वहन) de शिव (un toro)
+**नन्दिन्** 3: caracterizado por (especial) alegría, alegre; m. nombre del animal de monta (वहन) del शिव (un toro)
 :::
 
 ::: media
@@ -303,9 +307,9 @@ Fig.: नन्दी
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4405))
 :::
 
-नन्द् + अभि 1P (1Ā)  अभिनन्दति : tener alegría por (acusativo), saludar alegremente a alguien, dar la bienvenida
+नन्द् + अभि 1P (1Ā)  अभिनन्दति : tener su alegría de (द्वितीयया), saludar alegremente a alguien, dar la bienvenida
 
-**यम्** 1P ***यच्छति*** : sostener, llevar; ofrecer, conceder; mantener unido, domar, refrenar, dominar
+**यम्** 1P ***यच्छति*** : sostener, llevar; ofrecer, conceder; mantener unido, domar, frenar, conquistar
 
 ::: indent
 Perf. Vb ययाम, येमुर्  
@@ -317,10 +321,10 @@ Inf. यन्तुम्
 Absol. -यम्य
 :::
 
-**यम् + आ** 1U आयच्छति : estirar, extender
+**यम् + आ** 1***U*** आयच्छति : estirar, extender
 
 ::: indent
-PPP आयत 3: largo y extendido
+PPP आयत 3: largo extendido
 :::
 
 ::: media
@@ -331,9 +335,9 @@ Fig.: आयतो मरुः
 
 यम् + प्र 1P प्रयच्छति : ofrecer, presentar, entregar
 
-यम् + सम् 1P संयच्छति : atar juntos, amarrar, domar
+यम् + सम् 1P संयच्छति : atar juntos, atar, domar
 
-यत् 1Ā यतते : esforzarse por (locativo, dativo, acusativo)
+यत् 1Ā यतते : aspirar a (सप्तमी, चतुर्थी, द्वितीया)
 
 ::: indent
 Perf. Vb येते  
@@ -343,7 +347,7 @@ Kaus. यातयति
 PPP यत्त  
 Inf. यतितुम्  
 
-derivado de ello:
+de ello:
 
 **यत्न** m.: esfuerzo, diligencia
 :::
@@ -354,7 +358,7 @@ Fig.: यत्नेन
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4407))
 :::
 
-**रभ्** 1Ā रभते (forma alternativa a लभ्): asir
+**रभ्** 1Ā रभते (forma alternativa a लभ्): captar
 
 ::: indent
 Perf. Vb रेभे  
@@ -368,12 +372,12 @@ Absol. -रभ्य
 
 रभ् + आ 1Ā आरभते : tocar, comenzar, emprender
 
-प्रव्रज्या f. (a partir de प्र-व्रज्): la salida del hogar hacia la vida sin hogar; ceremonia mediante la cual uno se convierte en novicio budista (pali: पब्बजा)
+प्रव्रज्या f. (a प्र-व्रज्): la salida del hogar hacia la vida sin hogar; ceremonia mediante la cual uno se convierte en novicio budista (Pali: पब्बजा)
 
 ::: deleteme-box
 Véase:
 
-**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Conceptos básicos de las reglas monásticas y el derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del Budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::
 
@@ -465,7 +469,7 @@ B) Traduzca:
 अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः ।  
 मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥८॥
 
-## 44.7. Ejercicio de repaso sobre la morfología
+## 44.7. Ejercicio de repaso de la morfología
 
 Determine las siguientes formas:
 
@@ -513,10 +517,9 @@ Determine las siguientes formas:
 
 ::: deleteme-box
 
-
 **lekt4301.jpg**: Detalles en licenses.md
 
-**lekt4401.jpg**: No se encontró una licencia o fuente de imagen específica en el texto
+**lekt4401.jpg**: No se encontró licencia/origen de imagen específico en el texto
 
 **lekt4402.jpg**: Dibujo de Henri Gerbault (1863 - 1930) (Dominio público)
 

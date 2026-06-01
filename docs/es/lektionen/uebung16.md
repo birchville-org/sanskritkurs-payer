@@ -1,0 +1,267 @@
+---
+title: "Ejercicio 16"
+uebung_id: 16
+category: "Ejercicio"
+last_reconstructed: 2026-05-15
+---
+
+
+# Lección 16
+
+A) Transforme las siguientes expresiones en Tatpuruṣa y tradúzcalas:
+
+१. देवस्य पुरुषः । — देवपुरुषः
+
+२. गुणवती ब्राह्मणी । — गुणवद्ब्राह्मणी
+
+३. सत्यवान्ब्राह्मणः । — सत्यवद्ब्राह्मणः
+
+४. पशुमन्तो जनाः । — पशुमज्जनाः
+
+५. सुखवान्वैश्यायाः पुत्रः । — सुखवद्वैश्यापुत्रः
+
+६. सुखवत्या वैश्यायाः पुत्रः । — सुखवद्वैश्यापुत्रः
+
+७. कवेरुक्त्याः सत्यम् । — कव्युक्तिसत्यम्
+
+८. शिवen रक्षिता बाला । — शिवरक्षितबाला
+
+९. रामेण पीतं जलम् । — रामपीतजलम्
+
+१०. फलवांल्लाभः । — फलवद्लाभः
+
+११. इष्टाया देवतायाः पूजा । — इष्टदेवतापूजा
+
+१२. देवानां स्तुतिः । — देवस्तुतिः
+
+B) Resuelva los compuestos en las siguientes oraciones en sánscrito, forme así oraciones con nombres flexionados y traduzca:
+
+१. पुण्यवद्वैश्यपुत्रो देवेन्द्रलोकं गच्छति ।
+पुण्यवान्वैश्यस्य पुत्रो देवानामिन्द्रस्य लोकं गच्छति । (o: पुण्यवतो वैश्यस्य पुत्रो...)
+El hijo meritorio de un vaiśya llega al cielo del señor de los dioses. (o: El hijo de un vaiśya meritorio...)
+
+२. पुण्यकरणं स्वर्गमार्गः ।
+पुण्यस्य करणं स्वर्गस्य मार्गः । (o: पुण्यानां करणं स्वर्गं मार्गः ।)
+Hacer lo meritorio es el camino hacia el cielo.
+
+३. न साधुः पशुवन्नरधेनुलोभः ।
+न साधुः पशुवतो नरस्य धेनूनां लोभः । (o: ...धेनोर्लोभः ।)
+El deseo del hombre rico en ganado por las vacas / por la vaca no es bueno.
+
+४. न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति । धर्मयज्ञैस्तु स्वर्गसुखमाप्नुवन्ति ।
+न पशूनां यज्ञैर्नराः स्वर्गं गच्छन्ति । धर्मस्य यज्ञैस्तु स्वर्गस्य सुखमाप्नुवन्ति ।
+Los seres humanos no llegan al cielo con sacrificios de animales. Pero con sacrificios (no sangrientos) de justicia alcanzan la dicha celestial.
+
+५. द्विजदासा इति शूद्रा उच्यन्ते ।
+द्विजानां दासा इति शूद्रा उच्यन्ते ।
+Śūdras nennt man Sklaven der Zweimalgeborenen.
+
+६. बालब्राह्मणपुत्राः सत्यवन्नरं शृण्वन्ति ।
+बा्ला ब्राह्मणानां पुत्राः स्त्यवन्तं नरं शृण्वन्ति ।
+Los jóvenes hijos de brahmanes escuchan al hombre veraz.
+
+७. बलवत्क्षत्रिया धनवच्छत्रुनगरं जयन्ति ।
+बलवन्तः क्षत्रिया धनवतां शत्रूनां नगरं जयन्ति ।
+Los kṣatriyas poderosos derrotan a la rica ciudad de los enemigos.
+
+८. ऋष्युक्त्या सत्यमुच्यते ।
+ऋषीणामुक्त्या सत्यमुच्यते ।
+La palabra de los sabios védicos dice la verdad.
+
+९. बलवद्योधा ब्राह्मणग्रामं गताः ।
+बलवन्तो योधा ब्राह्मणानां ग्रामं गताः ।
+Los guerreros fuertes han ido a la aldea de los brahmanes.
+
+१०. पुण्यवद्वैश्येष्टवेवतापूजां करोति ।
+पुन्यवतो वैश्यस्येष्टाया देवतायाः पूजां करोति ।
+Él venera la deidad personal del vaiśya meritorio.
+
+::: media
+![](/images/uebung023.jpg)
+Leyenda: न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति
+(Fuente de la imagen: [Detalles](/licenses#uebung023))
+:::
+
+---
+
+## Patrón de declinación
+
+A) Forme todos los casos aprendidos hasta ahora para las siguientes palabras como ejemplos de las clases de declinación aprendidas hasta ahora.
+
+::: grammar-box
+१. **नर** (m.)
+
+| Caso | Singular | Plural |
+| :--- | :--- | :--- |
+| 1. Nom. | नरस् (नरः) | नरास् (नराः) |
+| 2. Acus. | नरम् | नरान् |
+| 3. Instr. | नरेण | नरैस् (नरैः) |
+| 6. Gen. | नरस्य | नराणाम् |
+
+२. **फल** (n.)
+
+| Caso | Singular | Plural |
+| :--- | :--- | :--- |
+| 1. Nom. | फलम् | फलानि |
+| 2. Acus. | फलम् | फलानि |
+| 3. Instr. | फलेन | फलैस् (फलैः) |
+| 6. Gen. | फलस्य | फलानाम् |
+
+३. **क्षत्रिया** (f.)
+
+| Caso | Singular | Plural |
+| :--- | :--- | :--- |
+| 1. Nom. | क्षत्रिया | क्षत्रियास् (क्षत्रियाः) |
+| 2. Acus. | क्षत्रियाम् | क्षत्रियास् (क्षत्रियाः) |
+| 3. Instr. | क्षत्रियया | क्षत्रियाभिस् (क्षत्रियाभिः) |
+| 6. Gen. | क्षत्रियायास् (क्षत्रियायाः) | क्षत्रियाणाम् |
+
+४. **अरि** (m.)
+
+| Caso | Singular | Plural |
+| :--- | :--- | :--- |
+| 1. Nom. | अरिस् (अरिः) | अरयस् (अरयः) |
+| 2. Acus. | अरिम् | अरीन् |
+| 3. Instr. | अरिणा | अरिभिस् (अरिभिः) |
+| 6. Gen. | अरेस् (अरेः) | अरीणाम् |
+
+५. **मति** (f.)
+
+| Caso | Singular | Plural |
+| :--- | :--- | :--- |
+| 1. Nom. | मतिस् (मतिः) | मतयस् (मतयः) |
+| 2. Acus. | मतिम् | मतीस् (मतीः) |
+| 3. Instr. | मत्या | मतिभिस् (मतिभिः) |
+| 6. Gen. | मतेस् (मतेः) / मत्यास् (मत्याः) | मतीनाम् |
+
+६. **गुरु** (m.)
+
+| Caso | Singular | Plural |
+| :--- | :--- | :--- |
+| 1. Nom. | गुरुस् (गुरुः) | गुरवस् (गुरवः) |
+| 2. Acus. | गुरुम् | गुरून् |
+| 3. Instr. | गुरुणा | गुरुभिस् (गुरुभिः) |
+| 6. Gen. | गुरोस् (गुरोः) | गुरूणाम् |
+
+७. **धेनु** (f.)
+
+| Caso | Singular | Plural |
+| :--- | :--- | :--- |
+| 1. Nom. | धेनुस् (धेनुः) | धेनवस् (धेनवः) |
+| 2. Acus. | धेनुम् | धेनूस् (धेनूः) |
+| 3. Instr. | धेन्वा | धेनुभिस् (धेनुभिः) |
+| 6. Gen. | धेनोस् (धेनोः) / धेन्वास् (धेन्वाः) | धेनूनाम् |
+
+८. **देवी** (f.)
+
+| Caso | Singular | Plural |
+| :--- | :--- | :--- |
+| 1. Nom. | देवी | देव्यस् (देव्यः) |
+| 2. Acus. | देवीम् | देवीस् (देवीः) |
+| 3. Instr. | देव्या | देवीभिस् (देवीभिः) |
+| 6. Gen. | देव्यास् (देव्याः) | देवीनाम् |
+
+९. **गुणवन्त्** (m./n.)
+
+**Masculino:**
+
+| Caso | Singular | Plural |
+| :--- | :--- | :--- |
+| 1. Nom. | गुणवान् | गुणवन्तस् (गुणवन्तः) |
+| 2. Acus. | गुणवन्तम् | गुणवतस् (गुणवतः) |
+| 3. Instr. | गुणवता | गुणवद्भिस् (गुणवद्भिः) |
+| 6. Gen. | गुणवतस् (गुणवतः) | गुण्वताम् |
+
+**Neutro:**
+
+| Caso | Singular | Plural |
+| :--- | :--- | :--- |
+| 1. Nom. | गुणवत् | गुणवन्ति |
+| 2. Acus. | गुणवत् | गुणवन्ति |
+| 3. Instr. | गुणवता | गुणवद्भिस् (गुणवद्भिः) |
+| 6. Gen. | गुणवतस् (गुणवतः) | गुण्वताम् |
+
+(Femenino **गुणवती** se declina como **देवी**)
+
+१०. **किम्** (m./n./f.)
+
+| Caso | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1. Nom. | कस् (कः) | किम् | का | के | कानि | कास् (काः) |
+| 2. Acus. | कम् | किम् | काम् | कान् | कानि | कास् (काः) |
+| 3. Instr. | केन | — | कया | — | — | काभिस् (काभिः) |
+| 6. Gen. | कस्य | — | कस्यास् (कस्याः) | केषाम् | — | कासाम् |
+
+११. **तद्** (m./n./f.)
+
+| Caso | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
+
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1. Nom. | स / सो / सः | तद् | सा | ते | तानि | तास् (ताः) |
+| 2. Akk. | तम् | तद् | ताम् | तान् | तानि | तास् (ताः) |
+| 3. Instr. | तेन | — | तया | तैस् (तैः) | — | ताभिस् (ताभिः) |
+| 6. Gen. | तस्य | — | तस्यास् (तस्याः) | तेषाम् | — | तासाम् |
+
+१२. **एतद्** (m./n./f.)
+
+| Caso | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1. Nom. | एष / एषो / एषः | एतद् | एषा | एते | एतानि | एतास् (एताः) |
+| 2. Akk. | एतम् / एनम् | एतद् / एनद् | एताम् / एनाम् | एतान् / एनान् | एतानि / एनानि | एतास् / एनास् |
+| 3. Instr. | एतेन / एनेन | — | एतया / एनया | तैस् (तैः) | — | ताभिस् (ताभिः) |
+| 6. Gen. | एतस्य | — | तस्यास् (तस्याः) | तेषाम् | — | तासाम् |
+
+१३. **इदम्** (m./n./f.)
+
+| Caso | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1. Nom. | अयम् | इदम् | इयम् | इमे | इमानि | इमास् (इmaाः) |
+| 2. Akk. | इमम् / एनम् | इदम् / एनद् | इमाम् / एनाम् | इमान् / एनान् | इमानि / एनानि | इमास् / एनास् |
+| 3. Instr. | अनेन / एनेन | — | अनया / एनया | एभिस् (एभिः) | — | आभिस् (आभिः) |
+| 6. Gen. | अस्य | — | अस्यास् (अस्याः) | एषाम् | — | आसाम् |
+:::
+
+---
+
+## Ejercicios adicionales
+
+B) Traduzca y resuelva todos los compuestos en sánscrito:
+
+१. योगश्चित्तवृत्तिनिरोधः ॥ योगसूत्र १.२ ॥
+योगश्चित्तस्य वृत्तेर्निरोधः (o: वृत्तीनां निरोधः) ।
+El yoga es la detención de la actividad mental.
+
+२. स्वधर्मो ब्राह्मणस्याध्ययनमध्यापनं यजनं याजनं दानं प्रतिग्रहश्च ॥५॥
+El deber específico del brahmán es: estudio del Veda, enseñanza del Veda, sacrificio como anfitrión del sacrificio, sacrificio por encargo de otros, dar a los brahmanes, recibir dones.
+
+क्षत्रियस्याध्ययनं यजनं दानं शस्त्राजीवो भूतरक्षणं च ॥६॥
+क्षत्रियस्याध्ययनं यजनं दानं शास्त्रेणाजीवो भूतानां रक्षणं च् ।
+El deber específico de un kṣatriya es: estudio del Veda, sacrificio como anfitrión del sacrificio, dar a los brahmanes, ganarse la vida con la espada, cuidar a los seres vivos.
+
+वैश्यस्याध्ययनं यजनं दानं कृषिपाशुपाल्ये वणिज्या च ॥७॥
+वैश्यस्याध्ययनं यजनं दानं कृषिः पाशुपाल्यं च वणिज्या च ।
+El deber específico de un vaiśya es: estudio del Veda, sacrificio como anfitrión del sacrificio, dar a los brahmanes, agricultura y ganadería, comercio.
+
+शूद्रस्य द्विजातिशुश्रूषा वार्त्ता कारुकुशीलवकर्म च ॥८॥
+शुड्रस्य द्विजातीनां शुश्रूषा वार्त्ता कारूणां कुशीलवानां च कर्म ।
+El deber específico de un śūdra es el servicio obediente a los dos veces nacidos, actividad económica y trabajo como artesano y artista.
+
+सर्वेषामहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥१३॥
+El deber de todos es: no violencia, veracidad, pureza, no murmurar sobre su suerte, ausencia de malicia y paciencia indulgente.
+(कौटिलीयार्थशास्त्र १.३.५-८, १३)
+
+::: deleteme-box Explicaciones
+Oración 7: **कृषिपाशुपाल्ये** Dual, Nom. Ac.: Dvandva, que designa las dos "cosas"
+Oración 8: **कर्म** Nom., Ac. sg. Neutro a कर्मन् "acción"
+Oración 13: **सर्वेषाम्** Gen. pl. masc. a सर्व "cada uno, todos" (pronombre, no declinado como deva)
+:::
+
+३. आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः, तस्य नीतिर्दण्डनीतिः ॥ कौटिलीयार्थशास्त्र १.४.३ ॥
+आन्वीक्षिक्याः त्रय्याः वार्त्ताया योगस्य क्षeमस्य च साधनो दण्डः, तस्य नीतिर्दण्डनीतिः ।
+El palo provoca la adquisición y la posesión segura de filosofía, vedística y economía. La dirección del palo es política.
+
+::: media
+![](/images/uebung024.jpg)
+Fig.: योगश्चित्तवृत्तिनिरोधः
+(Fuente de la imagen: [Detalles](/licenses#uebung024))
+:::

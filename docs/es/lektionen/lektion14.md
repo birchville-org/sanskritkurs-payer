@@ -1,6 +1,10 @@
 ---
+title: Lección 14
+subtitle: "La expresión de la relación de lo designado por sustantivos: el genitivo (ṣaṣṭhī f. = षष्टी = sexta terminación casal)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 14
@@ -8,7 +12,7 @@ last_reconstructed: 2026-05-21
 ## 14.1. La expresión de la relación de lo designado por sustantivos: el genitivo (ṣaṣṭhī f. = षष्टी = sexta terminación casual)
 
 ::: grammar-box
-Si se desea expresar la relación de lo designado por dos sustantivos, se utiliza el genitivo (ṣaṣṭhī f. "sexta terminación casuál"). El genitivo se distingue de todos los demás casos en que, con pocas excepciones, no sirve para una determinación más precisa de la acción expresada por el verbo, sino para expresar la relación entre personas o cosas designadas por sustantivos. Frecuentemente, el genitivo responde a la pregunta: ¿De quién?
+Si se desea expresar la relación de lo designado por dos sustantivos, se utiliza el genitivo (ṣaṣṭhī f. "sexta terminación casuál"). El genitivo se distingue de todos los demás casos en que, con pocas excepciones, no sirve para una determinación más precisa de la acción expresada por el verbo, sino para la expresión de la relación entre personas o cosas designadas por sustantivos. Frecuentemente se usa el genitivo para la pregunta: ¿De quién?
 :::
 
 Ejemplos:
@@ -22,34 +26,34 @@ Ejemplos:
 रामस्य कृतम् "La / Una acción de Rāma"
 
 ::: grammar-box
-El orden normal de las palabras es:
+La posición normal de las palabras es:
 
 > **Palabra determinativa en genitivo — Sustantivo más precisamente determinado en otro caso**
 :::
 
-**Genitivo y participio de pasado pasivo (PPP):**
+**Genitivo y participio de pasado pasivo:**
 
 ::: grammar-box
-En el caso de los PPP, el genitivo puede ocupar el lugar del instrumental (tṛtīyā) para el agente (kartṛ); en la construcción con el instrumental, el PPP se considera una forma verbal pasiva (lo que está en el instrumental designa al agente), mientras que en la construcción con el genitivo, el PPP se considera un sustantivo o adjetivo (por lo tanto, lo que está en el genitivo no actúa realmente como agente).
+En los participios de pasado pasivo, el genitivo puede ocupar el lugar del instrumental (tṛtīyā) para el agente (kartṛ); en la construcción con el instrumental, el participio de pasado pasivo se considera una forma verbal pasiva (lo que está en el instrumental designa al agente), mientras que en la construcción con el genitivo, el participio de pasado pasivo se considera un sustantivo o adjetivo (por lo tanto, lo que está en el genitivo no se considera realmente como un agente).
 
-Según Pāṇini 2.3.67, cuando el PPP tiene un significado presente, se emplea el genitivo (véase arriba); si el PPP tiene un significado pasado, se emplea el instrumental:
+Según Pāṇini 2.3.67, en el participio de pasado pasivo se usa el genitivo si el participio tiene un significado presente (ver arriba), y el instrumental si el participio tiene un significado pasado:
 
 > रामस्येष्टं फलम् "La fruta deseada por Rāma = La fruta que Rāma desea actualmente"
 > 
 > रामेणेष्टं फलम् "La fruta que Rāma ha deseado"
 
-Por supuesto, cuando un PPP en neutro singular se utiliza como un abstracto verbal, es decir, como sustantivo, se emplea el genitivo.
+Por supuesto, en un participio de pasado pasivo neutro singular, que se usa como un abstracto verbal, es decir, como un sustantivo, se utiliza el genitivo.
 :::
 
 ## 14.2. Formación de las formas genitivas (ṣaṣṭhī f. = षष्ठी)
 
-El genitivo se forma en las raíces verbales con ablautación a partir de la raíz débil.
+El genitivo se forma en las raíces verbales con ablaut a partir de la forma débil.
 
-**Genitivo de raíces que terminan en consonante:**
+**Genitivo de raíces terminadas en consonante:**
 
 :::: grammar-box
 
-Después de una consonante, las terminaciones genitivas regulares son:
+Después de una consonante, las terminaciones regulares del genitivo son:
 * Singular: **-as**
 * Plural: **-ām**
 
@@ -64,13 +68,13 @@ Después de una consonante, las terminaciones genitivas regulares son:
 
 ::::
 
-**Genitivo de raíces que terminan en vocal, excepto los nombres radicales monosílabos y las raíces que terminan en diptongo:**
+**Genitivo de raíces terminadas en vocal, excepto nombres de raíz monosilábicos y raíces terminadas en diptongo:**
 
 **Plural:**
 
 :::: grammar-box
 
-El genitivo plural de las raíces que terminan en vocal se forma así:
+El genitivo plural de las raíces terminadas en vocal se forma de la siguiente manera:
 
 > **-vocal larga final de la raíz + -nām**
 
@@ -91,11 +95,11 @@ El genitivo plural de las raíces que terminan en vocal se forma así:
 
 ::::
 
-**Genitivo singular de raíces que terminan en vocal:**
+**Genitivo singular de raíces terminadas en vocal:**
 
 :::: grammar-box
 
-El genitivo singular de las raíces que terminan en vocal se forma de manera irregular y debe aprenderse de memoria.
+El genitivo singular de las raíces terminadas en vocal se forma de manera irregular y debe aprenderse de memoria.
 
 ::: center
 
@@ -108,7 +112,7 @@ El genitivo singular de las raíces que terminan en vocal se forma de manera irr
 | **paśu** m.[[br]]**पशु** | **paśos**[[br]]**पशोस्** |
 | **devī** f.[[br]]**देवी** | **devyās**[[br]]**देव्यास्** |
 | **śruti** f.[[br]]**श्रुति** | **śrutes / śrutyās**[[br]]**श्रुतेस् / श्रुत्यास्**[[br]](es decir, ya sea como kavi o como devī) |
-| **dhenu** f.[[br]]**धेनु** | **dhenos / dhenvās**[[br]]**धेनोस् / धेन्वास्**[[br]](es decir, ya sea como paśu o como los femeninos polisílabos en -ū) |
+| **dhenu** f.[[br]]**धेनु** | **dhenos / dhenvās**[[br]]**धेनोस् / धेन्वास्**[[br]](es decir, ya sea como paśu o como femeninos polisílabos terminados en -ū) |
 
 :::
 
@@ -132,13 +136,13 @@ El genitivo singular de las raíces que terminan en vocal se forma de manera irr
 
 ::::
 
-**Identidad de formas:**
+**Identidad de forma:**
 
 ::: important
 
 En todas las raíces nominales, excepto los masculinos y neutros en -a y los pronombres, la forma del genitivo singular es idéntica a la forma del ablativo (pañcamī "quinta terminación casual") singular.
 
-Tenga en cuenta que en las raíces que terminan en consonante, el ablativo y el genitivo singular suenan igual que el acusativo plural masculino y femenino.
+Tenga en cuenta que, en las raíces que terminan en consonante, el ablativo y el genitivo singular suenan igual que el acusativo plural de masculino y femenino.
 
 :::
 
@@ -153,7 +157,7 @@ Sin embargo, con todos estos verbos, el objeto también puede estar en acusativo
 
 > देवान्स्मरति "Él recuerda a los dioses"
 
-Más adelante se tratará este tema.
+Más detalles más adelante.
 :::
 
 ## 14.4. Lista de palabras
@@ -168,23 +172,23 @@ Fig.: दीपाः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1405))
 :::
 
-* **bala n.** (बल) : Violencia, Fuerza, Poder; Poderío militar, Ejército
-* **bāla 3** (बाल) : joven, infantil, insensato; m. muchacho
-* **bālā f.** (बाला) : muchacha joven
-* **nara m.** (नर) : hombre, ser humano
-* **śatru m.** (शत्रु) : enemigo
-* **loka m.** (लोक) : mundo; Sing. y Plur.: la gente, las personas, el pueblo
-* **jala n.** (जल) : agua
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (जन् जायते जन्यते जायते जात) : nacer, surgir, aparecer
-  * **jan-a m.** (जन) : criatura, ser humano, personas
-* **vac 2 P** (vakti, ¡sin 3. plur.!), Pass. ucyate, PPP ukta (वच् वक्ति उच्यते उक्त) : decir, hablar a (dvitīyā)
-  * **uk-ti f.** (उक्ति) : declaración, palabra
-  * **vac-ana n.** (वचन) : el hablar, la palabra
-  * **vāk-ya n.** (वाक्य) : palabra, discurso
+* **bala n.** (बल) : Violencia, Fuerza, Fortaleza; Fuerza militar, Ejército
+* **bāla 3** (बाल) : joven, infantil, insensato; m. Niño
+* **bālā f.** (बाला) : joven chica
+* **nara m.** (नर) : Hombre, Ser humano
+* **śatru m.** (शत्रु) : Enemigo
+* **loka m.** (लोक) : Mundo; Sing. y Plur.: la gente, las personas, el pueblo
+* **jala n.** (जल) : Agua
+* **jan 4 Ā** (jāyate), Pas. janyate / jāyate, PPP jāta (जन् जायते जन्यते जायते जात) : nacer, surgir, aparecer
+  * **jan-a m.** (जन) : Criatura, Ser humano, Gente
+* **vac 2 P** (vakti, ¡sin 3. plur.!), Pas. ucyate, PPP ukta (वच् वक्ति उच्यते उक्त) : decir, hablar a (dvitīyā)
+  * **uk-ti f.** (उक्ति) : Afirmación, Palabra
+  * **vac-ana n.** (वचन) : El hablar, La palabra
+  * **vāk-ya n.** (वाक्य) : Palabra, Discurso
 
-## 14.5. Subhāṣitāni = सुभाषितानि = Refranes
+## 14.5. Subhāṣitāni = सुभाषितानि = Proverbios
 
-Traduzca los siguientes refranes y memorícelos:
+Traduzca los siguientes proverbios y memorícelos:
 
 **नीचो वदati न कुरुते** **वदति न साधुः करोत्येव ॥१॥**
 

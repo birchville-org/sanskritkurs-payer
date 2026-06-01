@@ -14,19 +14,19 @@ hero:
       link: /es/grammatik
 
 features:
-  - title: Devanāgarī listo
+  - title: Devanāgarī ready
     details: Tipografía perfecta e integrada para escrituras indias.
   - title: Fácil de buscar
     details: Una búsqueda de texto local exhaustiva mantiene el conocimiento al alcance de un clic.
   - title: Arquitectura moderna
-    details: Construido sobre los cimientos de VitePress para máxima velocidad.
+    details: Construida sobre la base de VitePress para máxima velocidad.
 ---
 
 ::: tip BETA-TEST
-Esta página web representa una prueba beta que tiene como objetivo investigar la calidad de las traducciones generadas por IA.
+Este sitio web representa una prueba beta destinada a investigar la calidad de las traducciones generadas por IA.
 
-**Se agradecen comentarios e informes de cualquier tipo en:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Se agradecen comentarios e informes de errores de cualquier tipo en:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 
-**Configuración de prueba:** Google Antigravity con Gemini 3 Flash (en la nube) y traducción masiva con Gemma 4:26b local (ollama) en M4/32 GB.
-Posteriormente: Cambio a Claude Sonnet 4.6 (Gemini Flash 3.5 con un aumento significativo de costos) y mlx-community/Qwen3.6-35B-A3B-4bit local (traducciones mejores).
+**Configuración de prueba:** Google Antigravity con Gemini 3 Flash y traducción masiva con Gemma 4:26b (ollama, local) en M4/32 GB.
+Más tarde: Cambio a Claude Sonnet 4.6 (Gemini Flash 3.5 con un aumento abrupto de costos) y mlx-community/Qwen3.6-35B-A3B-4bit local (traducciones mejores).
 :::

@@ -1,6 +1,10 @@
 ---
+title: Lección 38
+subtitle: "Losung der Woche"
 lesson_id: 38
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lección 38
@@ -31,64 +35,24 @@ Fig.: प्रज्ञा नश्यति मेहतः
 ## 38.2. Cambio fonético de nasales en la palabra
 
 ::: grammar-box
-Las nasales en la palabra se asimilan a los consonantes siguientes, es decir, son reemplazadas por la nasal correspondiente a ese consonante.
+Las nasales en la palabra se asimilan a los consonantes siguientes, es decir, se reemplazan por la nasal correspondiente a ese consonante.
 
 Después de c- y j-, -n- se reemplaza por -ñ-.
 :::
 
 ## 38.3. Declinación de las raíces en -n
 
-### 38.3.1. Sustantivos en -an, así como sustantivos en -man o -van tras vocal
-
+### 38.3.1. Nombres en -an, así como nombres en -man o -van tras vocal
 ::: grammar-box
-Los sustantivos en **-an**, así como los sustantivos **-man** o **-van** tras vocal, tienen tres raíces:
+Los nombres en **-an** y los nombres **-man** o **-van** tras vocal tienen tres raíces:
 
+| Raíz | -an | -man | -van | Uso |
+| :--- | :---: | :---: | :---: | :--- |
+| **Raíz fuerte** | **-ān** | **-mān** | **-vān** | Nom., Ac., Voc. sg. m. f.[[br]]Nom., Ac., Voc. dual m. f.[[br]]Nom., Voc. pl. m. f.[[br]]Nom., Ac. pl. n. |
+| **Raíz media débil** | **-a**[[br]](de -*n) | **-ma**[[br]](de -*mn) | **-va**[[br]](de -*vn) | Resto de casos ante terminación consonántica[[br]]Opcionalmente también Loc. sg. m. n. f. |
+| **Raíz más débil** | **-n** | **-mn** | **-vn** | Resto de casos ante terminación vocálica |
 
-  
-    
-      Raíz fuerte
-      -ān
-      -mān
-      -vān
-      
-        Nom., Ac., Voc. sg. m. f. 
-        Nom., Ac., Voc. dual m. f. 
-        Nom., Voc. pl. m. f. 
-        Nom., Ac. pl. n.
-      
-    
-    
-      Raícula media débil
-      
-        -a 
-        (de -*n)
-      
-      
-        -ma 
-        (de -*mn)
-      
-      
-        -va 
-        (de -*vn)
-      
-      
-        Demás casos ante terminación consonántica 
-        Opcionalmente también Loc. sg. m. n. f.
-      
-    
-    
-      Raíz más débil
-      -n
-      -mn
-      -vn
-      
-        Demás casos ante terminación vocálica
-      
-    
-  
-
-
-Las terminaciones son regulares. El Nominativo Singular m. f. se forma sin la **-n** final.
+**Las terminaciones son regulares. El Nominativo Singular m. f. se forma sin -n final.**
 :::
 
 Ejemplos:
@@ -139,13 +103,13 @@ Fig.: सीमा
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3803))
 :::
 
-### 38.3.2. Sustantivos en -man o -van tras consonante
+### 38.3.2. Sustantivos en -man o -van después de consonante
 
 ::: grammar-box
-*   Tema fuerte: -mān, -vān
-*   Tema débil:
-    *   ante terminaciones con inicio consonántico: -ma, -va (de -\*mn, -\*vn)
-    *   ante terminaciones con inicio vocálico: ***\-man, -van***
+*   Starker Stamm: -mān, -vān
+*   Raíz débil:
+    *   antes de terminaciones que comienzan con consonante: -ma, -va (de -\*mn, -\*vn)
+    *   antes de terminaciones que comienzan con vocal: ***\-man, -van***
 
 El resto de la formación es como en 3.1.
 :::
@@ -154,17 +118,17 @@ Ejemplos:
 
 आत्मन् n. "alma"
 
-*   tema fuerte: आत्मान्
-*   tema débil:
-    *   ante consonante: आत्म
-    *   ante vocal: आत्मन्
+*   raíz fuerte: आत्मान्
+*   raíz débil:
+    *   antes de consonante: आत्म
+    *   antes de vocal: आत्मन्
 
 ब्रह्मन् n.: Absoluto, Veda, Brahman
 
-*   tema fuerte: ब्रह्मान्
-*   tema débil:
-    *   ante consonante: ब्रह्म
-    *   ante vocal: ब्रह्मन्
+*   raíz fuerte: ब्रह्मान्
+*   raíz débil:
+    *   antes de consonante: ब्रह्म
+    *   antes de vocal: ब्रह्मन्
 :::: grammar-box
 
 | | **आत्मन्** | **ब्रह्मन्** |
@@ -191,16 +155,16 @@ Ejemplos:
 ### 38.3.3. Masculinos y neutros en -in, -min, -vin
 
 ::: grammar-box
-Estos nombres no tienen ablaut de raíz.
+Estos nombres ***no tienen*** ablaut de raíz.
 
 El Nom.sg.m. y el Nom.Akk.pl.n. se forman por analogía con las raíces en -an (alargamiento de -i-), al igual que la raíz en ***\-i-*** antes de una terminación consonántica.
 
-El femenino se forma con el sufijo -ī: por ejemplo, बलिनी
+El femenino se forma con el sufijo -ī: p. ej. बलिनी
 :::
 
 Ejemplo:
 
-बलिन् m.n. "fuerte, vigoroso (caracterizado por un बल especial, बल poseyendo)"
+बलिन् m.n. "fuerte, vigoroso (caracterizado por un बल especial, poseedor de बल)"
 
 :::: grammar-box
 
@@ -225,14 +189,14 @@ Ejemplo:
 
 ::::
 
-## 38.4. Sobre la formación nominal: तद्धित-sufijo -in
+## 38.4. Sobre la formación nominal: Sufijo तद्धित -in
 
 ::: grammar-box
-Con el (¡muy importante!) तद्धित-sufijo **-in** se forman adjetivos a partir de sustantivos con el significado:
+Con el (¡muy importante!) sufijo तद्धित **-in** se forman adjetivos a partir de sustantivos con el significado:
 
 **caracterizado por, poseedor de**
 
-Originalmente, la formación con el sufijo **-इन्** se diferenciaba de la con **-मन्त्/-वन्त्** en que **-इन्** designaba la caracterización por algo especial, mientras que **-मन्त्/-वन्त्** expresaba la posesión de, la caracterización por algo que es ordinario, común.
+Originalmente, la formación con el sufijo **-इन्** se diferenciaba de la formada con **-मन्त्/-वन्त्** en que **-इन्** designaba la caracterización por algo especial, mientras que **-मन्त्/-वन्त्** expresaba la posesión de, la caracterización por algo que es ordinario, común.
 :::
 
 Ejemplo:
@@ -254,14 +218,14 @@ Fig.: हस्तवान्
 :::
 
 ::: grammar-box
-Los adjetivos en **-इन्** se forman con gusto como compuestos.
+Los adjetivos terminados en **-इन्** se forman con gusto como compuestos.
 :::
 
 Ejemplo:
 
-सत्यवादिन् a सत्यवाद m. "decir de la verdad": "alguien caracterizado por decir la verdad = uno que siempre dice la verdad"
+सत्यवादिन् de सत्यवाद m. "habla de la verdad": "alguien caracterizado por el habla de la verdad = uno que siempre dice la verdad"
 
-## 38.5. Aspectos sintácticos de नामन्
+## 38.5. Sintaxis de नामन्
 
 ::: grammar-box
 Para expresar "alguien llamado N. N.", se construye:
@@ -277,7 +241,7 @@ Ejemplo:
 आसीद्राजा नलो नाम वीरसेनसुतो बली । "Había una vez un rey ***llamado Nala***, el fuerte hijo de Vīrasena."
 :::
 
-Por supuesto, lo mismo se puede expresar con un बहुव्रीहि:
+Por supuesto, se puede expresar lo mismo con un बहुव्रीहि:
 
 ::: indent
 देवदत्तनामा पुरुषः "un hombre, cuyo nombre es Devadatta"
@@ -291,10 +255,10 @@ Fig.: आसीन्महात्मा गन्धी नाम
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3808))
 :::
 
-## 38.6. Aspectos sintácticos de आत्मन्
+## 38.6. Sintaxis de आत्मन्
 
 ::: grammar-box
-**आत्मन्** ***masculino*** puede usarse en el ***singular*** como un pronombre reflexivo (pronombre reflexivo) para todos los tres géneros, números (también dual y plural) y personas.
+**आत्मन्** ***masculino*** puede usarse en el ***singular*** como un pronombre reflexivo (pronombre reflexivo) para todos los tres géneros, números (incluyendo dual y plural) y personas.
 :::
 
 Ejemplos:
@@ -306,7 +270,7 @@ Ejemplos:
 :::
 
 ::: grammar-box
-El genitivo (षष्ठी) **आत्मनस्** puede estar allí por lo tanto para "mi/tuyo/suyo... propio"
+El genitivo (षष्ठी) **आत्मनस्** puede estar allí por "mi/tu/su/... propio"
 :::
 
 Ejemplo:
@@ -318,7 +282,7 @@ Ejemplo:
 ## 38.7. Raíces consonánticas como primer miembro de compuestos
 
 ::: grammar-box
-Las raíces que terminan en una consonante aparecen como primer miembro de un compuesto en la forma (débil) de la raíz que adoptan antes del final -su del locativo (सप्तमी) plural.
+Las raíces que terminan en una consonante aparecen como primer miembro de un compuesto en la forma (débil) de la raíz, que adoptan antes de la terminación -su del locativo (सप्तमी) plural.
 :::
 
 Ejemplo:
@@ -330,18 +294,18 @@ Ejemplo:
 ## 38.8. Raíces en -an como segundo elemento de un बहुव्रीहि
 
 ::: grammar-box
-Como segundo elemento de un बहुव्रीहि, una raíz en -an puede utilizarse para los tres géneros. Sin embargo, por lo general, el femenino se forma con el sufijo -ī a partir del tema masculino más débil.
+Como segundo elemento de un बहुव्रीहि, se puede utilizar una raíz en -an para los tres géneros. Sin embargo, por lo general, el femenino se forma con el sufijo -ī a partir del grado más débil del masculino.
 :::
 
 Ejemplo:
 
 ::: indent
-दुर्णाम्नी "una cuyo nombre es malo; demonio de la enfermedad"
+दुर्णाम्नी "aquel cuya nombre es malo; demonio de la enfermedad"
 :::
 
 ## 38.9. Lista de palabras
 
-सूर्य m.: Sol, dios solar Sūrya
+सूर्य m.: Sol, dios del sol Sūrya
 
 ::: media
 ![](/images/lekt3802.jpg)
@@ -368,19 +332,19 @@ Kaus. वापयति
 PPP वान । वात
 Inf. वातुम्
 
-de lo cual:
+de ello:
 
 वात m.: Viento
 :::
 
-वा + निस् 2P निर्वाति : soplar, extinguirse, apagarse
+वा + निस् 2P निर्वाति : soplar, dispersar, extinguirse
 
 ::: indent
-de lo cual:
+de ello:
 
 निर्वाण n.: Extinción, Nirvana
 
-परिनिर्वाण n.: Extinción perfecta, liberación perfecta (al final de la vida de un Buda o un Arhat)
+परिनिर्वाण n.: Extinción completa, salvación completa (al final de la vida de un Buda o un Arhat)
 :::
 
 ::: media
@@ -389,7 +353,7 @@ Fig.: गौतमबुद्धस्य महापरिनिर्वा�
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3804))
 :::
 
-मिह् 1P मेहति : orinar, pisar, eyacular
+मिह् 1P मेहति : orinar, hacer pis, eyacular
 
 ::: indent
 Fut. मेक्ष्यति
@@ -398,14 +362,14 @@ Pass. मिह्यते
 Kaus. मेहयति
 PPP मीढ
 
-de lo cual:
+de ello:
 
-मेघ m.: Nube ("que orina")
+मेघ m.: Nube ("que hace pis")
 :::
 
 सुत m.: Hijo
 
-राजन् m.: Rey (sobre la realeza en la India véase Basham, Maravilla p. 82 -94). Como segundo miembro de un compuesto (especialmente तत्पुरुष) generalmente: -राज m. (como देव)
+राजन् m.: Rey (sobre la realeza en la India, véase Basham, Maravilla, págs. 82-94). Como segundo elemento de un compuesto (especialmente तत्पुरुष) generalmente: -राज m. (como देव)
 
 ::: indent
 Femenino:
@@ -414,16 +378,16 @@ Femenino:
 
 de राज :
 
-राज्य 3: real; n. Reino, realeza, dominio
+राज्य 3: real; n. Reino, realeza, gobierno
 :::
 
 नामन् n.: Nombre
 
 सीमन् f.: Límite
 
-आत्मन् m.: Sí mismo, propia persona, esencia interior. Filosófico y en doctrinas de liberación: lo Absoluto en el individuo, del cual el individuo no está necesariamente consciente (v. Stietencron)
+आत्मन् m.: Sí mismo, propia persona, esencia interior. Filosófico y en doctrinas de salvación: lo Absoluto en el individuo, del cual el individuo a veces no es consciente (v. Stietencron)
 
-ब्रह्मन् n.: lo Absoluto, el Veda (según Thieme originalmente: la verdad formulada, de lo cual ब्राह्मण "formulador de la verdad")
+ब्रह्मन् n.: lo Absoluto, el Veda (según Thieme originalmente: la verdad formulada, de ello ब्राह्मण "formulador de la verdad")
 
 ब्रह्मन् m.: el dios creador personal Brahmā
 
@@ -433,23 +397,23 @@ Fig.: ब्रह्मा
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3809))
 :::
 
-कर्मन् n. a कृ 8U: Acción, acto, obra; obra sagrada, acto de sacrificio; Karma: el hacer anterior, que más tarde trae sus frutos (por ejemplo, en el renacimiento) 
+कर्मन् n. a कृ 8U: acción, hecho, obra; obra sagrada, acto de sacrificio; Karma: la acción pasada que más tarde trae sus frutos (por ejemplo, en un renacimiento) 
 
 ::: indent
-कर्मविपाक m.: Madera de las acciones = las consecuencias buenas y malas de las acciones en existencias anteriores (a वि-पच्)
+कर्मविपाक m.: Rodaje de las acciones = las consecuencias buenas y malas de las acciones en existencias anteriores (a वि-पच्)
 :::
 
 हस्तिन् m.: Elefante (_Elephas maximus_)
 
-मनु m.: Hombre, varón; nombre del padre de la especie humana (a मन् 4Ā)
+मनु m.: Ser humano, hombre; nombre del padre de la raza humana (a मन् 4Ā)
 
 ::: indent
-de lo cual:
+de ello:
 
-मनुष्य m.: Hombre
+मनुष्य m.: Ser humano
 :::
 
-शुच् 1P शोचति : (arder, brillar) ; lamentar, llorar
+शुच् 1P शोचति : (arder, brillar); lamentar, llorar
 
 ::: indent
 Perf II शुशोच, शुशुचुर्
@@ -459,13 +423,13 @@ Kaus. शोचयति
 Inf. शुचितुम्
 Absol. शोचित्वा । शुचित्वा
 
-de lo cual:
+de ello:
 
 शुचि 3: brillante, puro, claro
 
-शोक m.: Lamento, pesar
+शोक m.: Lamento, tristeza
 
-अशोक 3: libre de pesar; Árbol Ashoka = _Saraca asoca_ (Roxb.) Wilde; nombre del emperador Aśoka (देवानांप्रिय प्रियदर्शी) (ca. 304   232 a.C.)
+अशोक 3: libre de tristeza; árbol Ashoka = _Saraca asoca_ (Roxb.) Wilde; nombre del emperador Aśoka (देवानांप्रिय प्रियदर्शी) (ca. 304  – 232 a.C.)
 :::
 
 ::: media
@@ -482,7 +446,7 @@ Fig.: अशोकसाम्राज्यम्
 
 ## 38.10. Ejercicio
 
-A) Complete las siguientes oraciones con la forma correspondiente de las palabras entre paréntesis y traduzca:
+A) Inserten en las siguientes oraciones la forma correspondiente de las palabras entre paréntesis y traduzcan:
 
 ... (सप्तमी विभक्तिः) ... धर्मं रक्षत्यभया जनाः ॥१॥ (राजन्)
 
@@ -514,9 +478,9 @@ A) Complete las siguientes oraciones con la forma correspondiente de las palabra
 
 ... धर्मं न रक्षत्सु सभया जनाः ॥१५॥ (राजन्)
 
-## 38.11. Lista de palabras para el ejercicio de traducción
+## 38.11. Lista de vocabulario para el ejercicio de traducción
 
-प्राय m.: asunto principal, Instr. प्रायेण : a menudo, generalmente (a प्र-इ)
+प्राय  m.: asunto principal, Instr. प्रायेण : a menudo, por lo general (a प्र-इ)
 
 विनोद m.: entretenimiento, diversión, placer
 
@@ -547,7 +511,7 @@ PPP तीर्ण
 Inf. तरितुम् । तरीतुम्
 :::
 
-पार n.(m.): orilla más allá, límite, meta
+पार n.(m.): orilla opuesta, límite, meta
 
 तीर n.: orilla
 
@@ -645,48 +609,47 @@ Inf. सर्तुम्
 
 Explicaciones:
 
-दश Nom.Akk.pl.m.f.n. para दशन् "diez"
+दश Nom.Acc.pl.m.f.n. a दशन् "diez"
 
-बाहुभ्याम् Instr.Dat.Abl. Dual para बाहु m. "Brazo"
+बाहुभ्याम् Instr.Dat.Abl. Dual a बाहु m. "Brazo"
 
-सर्वे Nom.pl.m. para सर्व 3 "cada uno, todos"
+सर्वे Nom.pl.m. a सर्व 3 "cada uno, todos"
 
-जिज्ञासमान Part.Prés.Ā.Desiderativo para ज्ञा 9U जिज्ञासते "querer conocer, querer saber"
+जिज्ञासमान Part.Pres.Ā.Desiderativo a ज्ञा 9U जिज्ञासते "querer conocer, querer saber"
 
-नव Nom.Akk.pl.m.f.n. para नवन् "nueve"
+नव Nom.Acc.pl.m.f.n. a नवन् "nueve"
 
 वयम् Nom.pl. "nosotros"
 
-स्मस् 1.pl.Ind.Prés.P para अस् 2P
+स्मस् 1.pl.Ind.Pres.P a अस् 2P
 
-गवेषयत 2.pl.Imperativo P
+अस् 2.pl.Imperativo P
 
-एकैक "cada uno individualmente"
+गवेषयत "cada uno individualmente"
 
-समजनि 3.sg.Pasivo Aoristo para जन्
+एकैक 3.sg.Pasivo Aoristo a समजनि
 
-तरसा Instr. sg. para तरस् n. "Energía", usado adverbialmente: "rápidamente, con fuerza"
+जन् Instr. sg. a तरसा n. "Energía", usado adverbialmente: "rápidamente, con fuerza"
 
-यूयम् Nom.pl. "vosotros"
+तरस् Nom.pl. "vosotros"
 
-युष्माकम् Gen.pl. para यूयम्
+यूयम् Gen.pl. a युष्माकम्
 
 ::: deleteme-box
 
-
-- **lekt3801.jpg**: Ilustr.: ... प्रज्ञा नश्यति मेहतः  Bangalore = ಬೆಂಗಳೂರು \[Fuente de la imagen: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Acceso el 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial)\]
-- **lekt3802.jpg**: Ilustr.: सूर्यः  सूर्य मंदिर, Konark = कोनार्क \[Fuente de la imagen: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Acceso el 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial)\]
-- **lekt3803.jpg**: Ilustr.: सीमा  Punto de paso fronterizo entre India y Pakistán en Wagah (वाघा / واہگہ / ਵਾਘਾ) \[Fuente de la imagen: Vandelizer. -- [http://www.flickr.com/photos/jeremy_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Acceso el 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
-- **lekt3804.jpg**: Ilustr.: गौतमबुद्धस्य महापरिनिर्वाणम्  Gandhara, siglos II/III d. C. \[Fuente de la imagen: Wikipedia. Dominio público\]
-- **lekt3805.jpg**: Ilustr.: उदकम्  Aldea de Darewadi, Distrito de Ahmed Nagar = अहमदनगर, महाराष्ट्र \[Fuente de la imagen: Robin Murphy, Instituto de Recursos Mundiales. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
-- **lekt3806.jpg**: Ilustr.: हस्ती  Parque Nacional Nagarhole = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Fuente de la imagen: gopalarathnam_v. -- [http://www.flickr.com/photos/gopalarathnam_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Acceso el 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
-- **lekt3807.jpg**: Ilustr.: हस्तवान्  जयपुर \[Fuente de la imagen: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)\]
-- **lekt3808.jpg**: Ilustr.: आसीन्महात्मा गन्धी नाम  Años 1930 \[Fuente de la imagen: Wikipedia. Dominio público\]
-- **lekt3809.jpg**: Ilustr.: ब्रह्मा  Halebidu = ಹಳೆಬೀಡು \[Fuente de la imagen: Wikipedia. Licencia GNU FDL\]
+- **lekt3801.jpg**: Ilustr.: ... यूयम् प्रज्ञा नश्यति Bangalore = ಬೆಂಗಳೂರು \[Fuente de la imagen: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Acceso el 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial)\]
+- **lekt3802.jpg**: Ilustr.: मेहतः  सूर्यः सूर्य, Konark = मंदिर \[Fuente de la imagen: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Acceso el 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial)\]
+- **lekt3803.jpg**: Ilustr.: कोनार्क  Cruce fronterizo entre India y Pakistán en Wagah (सीमा / واہگہ / ਵਾਘਾ) \[Fuente de la imagen: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Acceso el 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
+- **lekt3804.jpg**: Ilustr.: वाघा गौतमबुद्धस्य  Gandhara, siglos II/III d.C. \[Fuente de la imagen: Wikipedia. Dominio público\]
+- **lekt3805.jpg**: Ilustr.: महापरिनिर्वाणम्  Aldea de Darewadi, Distrito de Ahmed Nagar = उदकम्, अहमदनगर \[Fuente de la imagen: Robin Murphy, Instituto de Recursos Mundiales. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
+- **lekt3806.jpg**: Ilustr.: महाराष्ट्र  Parque Nacional de Nagarhole = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Fuente de la imagen: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Acceso el 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
+- **lekt3807.jpg**: Ilustr.: हस्ती  हस्तवान् \[Fuente de la imagen: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)\]
+- **lekt3808.jpg**: Ilustr.: जयपुर आसीन्महात्मा गन्धी  Años 1930 \[Fuente de la imagen: Wikipedia. Dominio público\]
+- **lekt3809.jpg**: Ilustr.: नाम  Halebidu = ಹಳೆಬೀಡು \[Fuente de la imagen: Wikipedia. Licencia GNU FDL\]
 - **lekt3810.jpg**: Ilustr.: Árbol de Ashoka = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা \[Fuente de la imagen: J.M.Garg / Wikipedia. Licencia GNU FDL\]
-- **lekt3811.jpg**: Ilustr.: Máxima extensión del Imperio de Aśoka, así como lugares de hallazgo de sus edictos en rocas y pilares \[Fuente de la imagen: Wikipedia. Licencia GNU FDL\]
-- **lekt3812.jpg**: Ilustr.: विनोदः  Juego de Carrom \[Fuente de la imagen: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
-- **lekt3813.jpg**: Ilustr.: वाराणस्यां गङ्गातीरे \[Fuente de la imagen: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial)\]
-- **lekt3814.jpg**: Ilustr.: गणयां चक्रुः  करणी माता मंदिर, देशनोके \[Fuente de la imagen: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)\]
+- **lekt3811.jpg**: Ilustr.: Máxima extensión del Imperio de Aśoka, así como lugares de hallazgo de sus edictos en rocas y columnas \[Fuente de la imagen: Wikipedia.Licencia GNU FDL\]
+- **lekt3812.jpg**: Ilustr.: ब्रह्मा  Juego de Carrom \[Fuente de la imagen: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
+- **lekt3813.jpg**: Ilustr.: विनोदः वाराणस्यां \[Fuente de la imagen: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial)\]
+- **lekt3814.jpg**: Ilustr.: गङ्गातीरे गणयां  चक्रुः करणी माता, मंदिर \[Fuente de la imagen: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)\]
 
 :::

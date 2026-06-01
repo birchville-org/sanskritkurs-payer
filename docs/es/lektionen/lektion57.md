@@ -1,19 +1,23 @@
 ---
+title: Lección 57
+subtitle: "Aoristo 4: s-aoristo"
 lesson_id: 57
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 57
 
-## 57.1. Aoristo 4: s-aoristo
+## 57.1. Aoristo 4: s-Aorist
 
 ::: grammar-box
-**El s-aoristo se forma con la mayoría de las raíces अनिट्, siempre que no tengan exclusivamente otra forma de aoristo. Las raíces facultativas अनिट् pueden, en general, formar opcionalmente este o el aoristo iṣ. También las raíces अनिट् que forman el परस्मैपद después de la 1., 2. o 6. forma del aoristo, forman el आत्मनेपद según el s-aoristo.**
+**El s-Aorist se forma con la mayoría de las raíces अनिट्, siempre que no tengan exclusivamente otra forma de aoristo. Las raíces facultativas अनिट् pueden, en general, formar opcionalmente este aoristo o el aoristo iṣ. También las raíces अनिट्, que forman el परस्मैपद después de la 1., 2. o 6. forma del aoristo, forman el आत्मनेपद según el s-Aorist.**
 
-**Formación: Augmento + raíz + s + desinencia secundaria atemática**
+**Formación: Aumento + raíz + s + terminación secundaria atemática**
 :::
 
-Tabla de desinencias con sufijo de formación de la raíz
+Tabla de terminaciones con sufijo de formación de la raíz
 
 ::: grammar-box
 
@@ -26,7 +30,7 @@ Tabla de desinencias con sufijo de formación de la raíz
 :::
 
 :::: grammar-box
-**Se aplica la ley fonética general de que un sonido fricativo (zischlaut) entre dos oclusivos cae (véase उद् + स्थित » उत्थित), es decir, el sufijo de formación de la raíz -s- antes de desinencias que comienzan con -t- o -th- cae (pero no después de nasales o r-).**
+**Se aplica la ley fonética general de que un sonido fricativo entre dos oclusivos se pierde (véase उद् + स्थित » उत्थित), es decir, el sufijo de formación de la raíz -s- se pierde antes de las terminaciones que comienzan con -t- o -th- (pero no después de nasales o r-).**
 
 Ejemplos:
 
@@ -35,18 +39,18 @@ Ejemplos:
 2.sg.Ā a-kṣip + s + thās » अ***क्षिप्था***स्
 :::
 
-Tales formas también podrían pertenecer al aoristo de raíz y probablemente pertenecen en parte a él.
+Tales formas también podrían pertenecer al aoristo de la raíz y probablemente en parte también pertenecen a él.
 ::::
 
-Los gramáticos indios también contaron formas como अकृत (3.sg.Ā) como s-aoristo, que pertenecen claramente al aoristo de raíz. Con este propósito, los gramáticos indios inventaron la siguiente regla fonética ad-hoc para el s-aoristo:
+Los gramáticos indios también contaron formas como अकृत (3.sg.Ā) como s-Aorist, que claramente pertenecen al aoristo de la raíz. Con este propósito, los gramáticos indios inventaron la siguiente regla fonética ad-hoc para el s-Aorist:
 
 ::: indent
-"Después de una vocal breve, las 'desinencias' que comienzan con -st- o -sth- pierden la -s-."
+"Después de una vocal corta, las 'terminaciones' que comienzan con -st- o -sth- pierden la -s-."
 :::
 
-De lo contrario, hay que tener en cuenta las reglas fonéticas para la conexión de consonantes finales con s-.
+De lo contrario, se deben tener en cuenta las reglas fonéticas para la conexión de consonantes finales con s-.
 
-Para -dhvam rige:
+Para -dhvam se aplica:
 
 :::: grammar-box
 **El -dh- de -dhvam se reemplaza por -ḍh- después de todas las vocales no a/ā, así como después de -r.**
@@ -59,12 +63,12 @@ p.ej. ***चि*** 5U: 2.pl.Ā ***अचेढ्वम्***
 ::: grammar-box
 **Forma de la raíz:**
 
-*   **परस्मैपद : Grado prolongado**
+*   **परस्मैपद : Grado reforzado**
 *   **आत्मनेपद :**
-    *   **Raíces con i/ī/u/ū final: Grado alto**
+    *   **Raíces con i/ī/u/ū final: Grado reforzado**
     *   **-ṝ final se reemplaza por -īr o -ūr**
-    *   **Raíces con ablaut en ā/e/o: Grado bajo**
-    *   **Otros vocales de raíz: inalterados (es decir, generalmente en grado bajo)**
+    *   **Raíces con ablaut en ā/e/o: Grado reducido**
+    *   **Otros vocales de la raíz: inalterados (es decir, por lo general en grado reducido)**
 :::
 
 Ejemplos:
@@ -90,13 +94,13 @@ Ejemplos:
 | पच् 1U | अपक्षि |
 
 :::: grammar-box
-**दृश् y सृज् tienen en el परस्मैपद grado prolongado con diptongo ascendente -rā-:**
+**दृश् y सृज् tienen en el परस्मैपद grado reforzado con diptongo ascendente -rā-:**
 
 ::: indent
 दृश् 3.sg.P अ***द्राक्षी***त्
 :::
 
-También el aoristo de otras raíces con -ṛ- en la penúltima posición puede formarse así:
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
 कृष् 1P/6U 3.sg.P अकार्क्षीत् / अ***क्राक्षी***त्
@@ -143,19 +147,19 @@ Fig.: भीमराव रामजी आंबेडकर (१८९१ १
 
 **1. Las raíces con nasal (गम्, मन्, रम्) forman el aorista s con grado pleno:**
 **अगंसि । अमंसि । अरंस्त**
-**Además, para गम् existen las formas regulares con grado reducido:**
+**Además, existen para गम् las formas regulares de grado reducido:**
 **अगसि (« \*a-gm-si) । अगथास् । अगत (en el P, गम् tiene el aorista temático)**
 
-2.  पद् 4Ā es regular (p. ej. अपत्सि), pero en la 3.sg.Ā tiene la forma del aorista de raíz pasivo:
+2.  पद् 4Ā es regular (p. ej. अपत्सि), pero en la 3.sg.Ā tiene la forma del aorista de raíz pasiva:
     अपादि "él fue"
 
-3.  बुध् Ā puede, en la 3.sg.Ā, adoptar opcionalmente la forma del aorista de raíz pasivo:
+3.  बुध् Ā puede, en la 3.sg.Ā, opcionalmente adoptar la forma del aorista de raíz pasiva:
     अबोधि / अबुद्ध "él reconoció"
 :::
 
 ## 57.2. Ejercicio
 
-A) Traduzca y determine sin herramientas auxiliares las siguientes formas y forme las correspondientes formas de aoristo. Excepto en causativos y raíces que forman el aoristo con s, se indica entre paréntesis la clase del aoristo correspondiente:
+A) Traduzca y determine sin herramientas auxiliares las siguientes formas y forme las correspondientes formas de aoristo. A excepción de causativos y raíces que forman el aoristo con s, se indica entre paréntesis la clase del aoristo correspondiente:
 
 1.  पेचिथ
 2.  अवक् (३)
@@ -243,7 +247,6 @@ B) Traduzca y determine las siguientes formas:
 56.  अस्प्राक्षम्
 
 ::: deleteme-box
-
 
 **lekt5701:** [Fuente de la imagen: Wikipedia. Dominio Público]
 

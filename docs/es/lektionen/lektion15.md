@@ -1,9 +1,15 @@
+```markdown
 ---
+title: Lección 15
+subtitle: "सुभाषितम्"
 lesson_id: 15
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 15
+```
 
 ## 15.1. सुभाषितम्
 
@@ -14,12 +20,12 @@ last_reconstructed: 2026-05-21
 
 ## 15.2. Compuestos determinativos = Tatpuruṣa m. = तत्पुरुष
 
-La relación entre lo designado por sustantivos (sustantivos y adjetivos) entre sí se puede expresar, además de mediante una construcción genitiva, también mediante un Tatpuruṣa (तत्पुरुष). De igual modo, se pueden expresar las subordinaciones atributivas de adjetivos o la subordinación aposicional de sustantivos mediante un tipo determinado de Tatpuruṣa, a saber, los llamados Karmadhāraya (m.) = कर्मधारय.
+La relación entre lo designado por nombres (sustantivos y adjetivos) se puede expresar, además de mediante una construcción genitiva, también mediante un Tatpuruṣa (तत्पुरुष). Asimismo, se pueden expresar las ordenaciones atributivas de adjetivos o la ordenación aposicional de sustantivos mediante un tipo determinado de Tatpuruṣa, a saber, los llamados Karmadhāraya (m.) = कर्मधारय.
 
-तत्पुरुषः =  तस्य पुरुषः "su siervo", es decir, como designación de este tipo de compuestos sirve un ejemplo de tal compuesto.
+तत्पुरुषः =  तस्य पुरुषः "su siervo", es decir, como designación de este tipo de compuestos se sirve de un ejemplo de tales compuestos.
 ::: grammar-box
 
-En los compuestos determinativos (Tatpuruṣa) un sustantivo (sustantivo o adjetivo) es determinado más precisamente por otro sustantivo o adverbio. La palabra más determinada forma por lo general el segundo miembro del compuesto.
+En los compuestos determinativos (Tatpuruṣa), un nombre (sustantivo o adjetivo) se determina más precisamente por otro nombre o adverbio. La palabra más determinada forma por lo general el segundo miembro del compuesto.
 
 La relación del primer miembro (miembro determinante) con el segundo miembro (miembro determinado) puede ser:
 
@@ -27,7 +33,7 @@ La relación del primer miembro (miembro determinante) con el segundo miembro (m
 *   casual: el primer miembro se encuentra, al resolver el compuesto, en un caso diferente al del segundo miembro (es decir, no en nominativo - प्रथमा)
 *   adverbial: el primer miembro es una palabra indeclinable
 
-La relación casiva de ambos miembros de un compuesto es independiente del caso en el que se encuentra el compuesto: el compuesto es una sola palabra declinable:
+La relación de caso de ambos miembros de un compuesto es independiente del caso en que se encuentre el compuesto: el compuesto es una sola palabra declinable:
 
 por ejemplo:
 
@@ -42,10 +48,10 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 :::
 
-## 15.3. Compuestos determinativos con miembro anterior atributivo / aposicional = Karmadhāraya m. = कर्मधारय
+## 15.3. Determinativcompuestos con miembro anterior atributivo / aposicional = Karmadhāraya m. = कर्मधारय
 ::: grammar-box
 
-Al resolver el Karmadhāraya, ambos miembros del compuesto están en el mismo caso.
+Al resolver el Karmadhāraya, ambos miembros del compuesto se encuentran en el mismo caso.
 
 :::
 
@@ -71,16 +77,16 @@ Fig.: लक्ष्मी
 
 Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
-*   si un Karmadhāraya expresa una COMPARACIÓN, entonces aquello con lo que se compara está en el miembro posterior del compuesto:
+*   si un Karmadhāraya expresa una COMPARACIÓN, entonces aquello con lo que se compara se encuentra en el miembro posterior del compuesto:
     
     नरसिंहः = सिंह इव नरः = "un hombre como un león"  
     पुरुषव्याघ्रः = व्याघ्र इव पुरुषः = "un hombre como un tigre"
     
-*   si un Karmadhāraya expresa, sin embargo, una aposición (especificación más detallada del miembro posterior mediante un sustantivo), entonces el especificador está en el miembro anterior, como también lo exige la regla general para el orden de los miembros en un Tatpuruṣa:
+*   si un Karmadhāraya expresa, sin embargo, una aposición (especificación más detallada del miembro posterior mediante un sustantivo), entonces el especificador se encuentra en el miembro anterior, como lo exige también la regla general para el orden de los miembros en un Tatpuruṣa:
     
     नरसिंहः también puede resolverse: नर एव सिंहः = "Un león, que (en realidad) es un hombre."
       
-    Tales Karmadhāraya aposicionales se resuelven en los comentarios autóctonos como en el ejemplo anterior mediante एव.
+    Tales Karmadhāraya aposicionales se resuelven en los comentarios nativos, como en el ejemplo anterior, mediante एव.
 
 :::
     
@@ -90,17 +96,17 @@ Fig.: नरसिंहः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1503))
 :::
 
-## 15.4. Compuestos determinativos con un primer miembro que mantiene con el segundo miembro una relación casual no atributiva/aposicional = Tatpuruṣa en sentido estricto
+## 15.4. Compuestos determinativos con un primer miembro que se encuentra en una relación de caso no atributiva/aposicional con el segundo miembro = Tatpuruṣa en sentido estricto
 
 ::: grammar-box
 
-Las combinaciones Tatpuruṣa son posibles para uniones de nombres (sustantivos y adjetivos), en las que el primer miembro, conforme a las reglas de la sintaxis, puede estar en cualquier caso. Como era de esperar, el primer miembro representa con mayor frecuencia un genitivo (षष्ठी), ya que este es el caso que expresa la relación entre nombres.
+Las combinaciones de Tatpuruṣa son posibles para conexiones de nombres (sustantivos y adjetivos), en las que el primer miembro, de acuerdo con las reglas de la sintaxis, puede estar en cualquier caso. Como era de esperar, el primer miembro representa con mayor frecuencia un genitivo (षष्ठी), ya que este es el caso que expresa la relación entre nombres.
 
 :::
 
-p. ej.
+por ejemplo:
 
-क्षत्रियपुत्रः = क्षत्रियस्य पुत्रः = "el hijo de un kṣatriya", "un joven kṣatriya", "un miembro del grupo de los kṣatriyas"  
+क्षत्रियपुत्रः = क्षत्रियस्य पुत्रः = "el hijo de un kṣatriya", "un kṣatriya joven", "un miembro del grupo de kṣatriyas"  
 Ac. sg. क्षत्रियपुत्रम्  
 Gen. sg. क्षत्रियपुत्रस्य  
 etc.  
@@ -111,34 +117,34 @@ etc.
 
 लोकगतिः =  लोकस्य गतिः = "el curso del mundo, el comportamiento de la gente"
 
-Casi cualquier relación genitiva puede ser sustituida por un Tatpuruṣa. Las pocas excepciones véase p. ej. en Kale, A higher Sanskrit grammar § 211, allí también los pasajes correspondientes en Pāṇini.
+Casi toda relación genitiva puede ser sustituida por un Tatpuruṣa. Las pocas excepciones véase, por ejemplo, en Kale, A higher Sanskrit grammar § 211, allí también los pasajes correspondientes en Pāṇini.
 
-Sin embargo, el primer miembro de un Tatpuruṣa puede en principio representar cualquier caso. No obstante, no todas las relaciones casuales sintácticamente posibles pueden ser sustituidas por un Tatpuruṣa. Las reglas correspondientes se encuentran en caso de duda en Kale, A higher Sanskrit grammar §§ 203 - 217 o bien Pāṇini 2,1,22 - 2,2,22.
+Sin embargo, el primer miembro de un Tatpuruṣa puede, en principio, representar cualquier caso. No obstante, no todas las relaciones de caso sintácticamente posibles pueden ser sustituidas por un Tatpuruṣa. Las reglas correspondientes se encuentran en caso de duda en Kale, A higher Sanskrit grammar §§ 203 - 217 o bien en Pāṇini 2,1,22 - 2,2,22.
 
 ::: grammar-box
 
-El primer miembro puede estar en singular, dual o plural al resolver el compuesto. Debe inferirse del significado y el contexto cuál de estas posibilidades se presenta.
+El primer miembro puede estar en singular, dual o plural al resolver el compuesto. Debe inferirse del significado y del contexto cuál de estas posibilidades se presenta.
 
 :::
 
 Ejemplos:
 
-El primer miembro representa el acusativo (द्वितीया): p. ej. en ciertos participios pasados (PPP) de verbos de movimiento (Pāṇini 2,1,24):
+El primer miembro representa el acusativo (द्वितीया): por ejemplo, en ciertos participios pasados de verbo (Pāṇini 2,1,24):
 
 ग्रामगतः = ग्रामं गतः = "aquel que ha ido al pueblo"  
 नरकपतिता = नरकं पतिता = "aquella que ha caído en un infierno"
 
-El primer miembro representa el instrumental (तृतीया): p. ej. frecuentemente el agente (कर्तृ) de formaciones nominales con sufijos kṛt (p. ej. PPP):
+El primer miembro representa el instrumental (तृतीया): por ejemplo, frecuentemente el agente (कर्तृ) de formaciones nominales con sufijos kṛt (por ejemplo, participios pasados):
 
 देवकृतम् = देवेन / देवैः कृतम् = "hecho por un dios / por dioses"  
-También podría resolverse: देवस्य / देवानां कृतम् = "acto / acción de un dios / de dioses; acto divino, acto de dioses"  
+También se podría resolver: देवस्य / देवानां कृतम् = "acto / acción de un dios / de dioses; acto divino, acto de dioses"  
 
-बुद्धरक्षिता  = बुद्धेन रक्षिता = "aquella que fue protegida por Buda" (un nombre propio)
+बुद्धरक्षिता  = बुद्धेन रक्षिता = "aquella que fue protegida por Buda" (un nombre propio)
 
 ## 15.5. Descomposición de compuestos (excepto Dvandvas)
 
 :::: grammar-box
-Aunque en sánscrito pueden formarse compuestos de cualquier longitud y también se forman con mucha frecuencia (no es raro encontrar compuestos de 10 a 30 miembros), sin embargo, con la excepción de los Dvandvas, todos los compuestos se descomponen progresivamente de forma jerárquica en dos partes cada vez:
+Aunque en sánscrito se pueden formar compuestos de cualquier longitud y también se forman con mucha frecuencia (no es raro encontrar compuestos de 10 a 30 miembros), sin embargo, con la excepción de los Dvandvas, todos los compuestos se descomponen progresivamente de forma jerárquica en dos partes cada vez:
 
 ::: media
 ![](/images/lekt1502.jpg)
@@ -146,54 +152,54 @@ Fig.: समासविच्छेदः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1502))
 :::
 
-etc., hasta llegar a las raíces o stems individuales.
+etc., hasta llegar a las raíces de las palabras individuales.
 
-p.ej.
+por ejemplo,
 
 गुणवत्पुत्रकृतपुण्यम्
 
 ::: indent
-1.º nivel (cesura principal): गुणवत्पुत्रकृतं ॥१॥ पुण्यम्
+1\. nivel (cesura principal): गुणवत्पुत्रकृतं ॥१॥ पुण्यम्
 
-2.º nivel (1.ª cesura secundaria): गुणवत्पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
+2\. nivel (1. cesura secundaria): गुणवत्पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
 
-3.º nivel (2.ª cesura secundaria): गुणवता॥३॥ पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
+3\. nivel (2. cesura secundaria): गुणवता॥३॥ पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
 
 = "la acción meritoria (el mérito) que ha realizado mi hijo virtuoso"
 :::
 
-En este proceso pueden mezclarse diferentes tipos de compuestos, p.ej. miembro anterior: Bahuvrīhi (बहुव्रीहि) - miembro posterior: Tatpuruṣa, etc.
+En este proceso, pueden mezclarse diferentes tipos de compuestos, por ejemplo, miembro anterior: Bahuvrīhi (बहुव्रीहि) - miembro posterior: Tatpuruṣa, etc.
 
-p.ej.
+por ejemplo,
 
 ब्राह्मणक्षत्रियवैश्यधर्मः
 
 ::: indent
-1.º nivel: ब्राह्मणक्षत्रियवैश्यानां धर्मः (miembro anterior: Itaretaradvandva)
+1\. nivel: ब्राह्मणक्षत्रियवैश्यानां धर्मः (miembro anterior: Itaretaradvandva)
 
-2.º nivel: ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः
+2\. nivel: ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः
 
-= "el Dharma de los brahmanes, kṣatriyas y vaiśyas"
+= "el dharma de los brahmanes, kṣatriyas y vaiśyas"
 :::
 
-Con mucha frecuencia existen diversas posibilidades de descomposición para un mismo compuesto. Solo el contexto y el contenido del texto pueden determinar cuál es la correcta o, al menos, la mejor. A veces no es posible tomar tal decisión. A menudo, es probable que el autor haya intendido dos posibilidades de descomposición. En ese caso, hay que reflejar ambas posibilidades de descomposición en la traducción (conectadas con "y", "o" "respectivamente" y similares).
+A menudo existen varias posibilidades de descomposición para un mismo compuesto. Solo el contexto y el contenido del texto pueden determinar cuál es la correcta o, al menos, la mejor. A veces, esta decisión no es posible. A menudo, se entiende que el autor ha intencionado dos posibilidades de descomposición. En ese caso, se deben reflejar ambas posibilidades de descomposición en la traducción (conectadas con "y", "o", "respectivamente" y similares).
 
-p.ej.
+por ejemplo,
 
 पुण्यवत्पुत्रकृतम्
 
 ::: indent
-1.º nivel: ya sea - o
+1\. nivel: ya sea - o
 
 1. पुण्यवत्पुत्रेण कृतम्
 2. पुण्यवत्पुत्रस्य कृतम्
 3. पुण्यवत् पुत्रकृतम्
 
-2.º nivel: correspondientemente
+2\. nivel: correspondientemente
 
 1. पुण्यवता पुत्रेण कृतम् = "lo realizado por mi hijo meritorio"
 2. पुण्यवतः पुत्रस्य कृतम् = "la acción de mi hijo meritorio"
-3. 1. पुण्यवत्  पुत्रेण कृतम् = "lo meritorio, realizado por mi hijo"
+3. 1. पुण्यवत्  पुत्रेण कृतम् = "lo realizado, meritorio, por mi hijo"
    2. पुण्यवत्  पुत्रस्य कृतम् = "la acción meritoria de mi hijo"
 :::
 ::::
@@ -201,7 +207,7 @@ p.ej.
 ## 15.6. La forma del primer miembro en compuestos (समास m.)
 ::: grammar-box
 
-En todos los tipos de compuestos, el primer miembro es por lo general la raíz de la palabra sin modificar. Los sustantivos de dos raíces están en la raíz débil. Los adjetivos femeninos que especifican un miembro siguiente en el compuesto están generalmente en la raíz masculina:
+En todos los tipos de compuestos, el primer miembro es por lo general la raíz de la palabra sin alterar. Los nombres de dos raíces están en la raíz débil. Los adjetivos femeninos, que determinan un miembro siguiente en el compuesto, están generalmente en la raíz masculina:
 
 por ejemplo:
 
@@ -210,7 +216,7 @@ por ejemplo:
 
 :::
 
-## 15.7. Clasificación de तत्पुरुष
+## 15.7. Clasificación de los तत्पुरुष
 
 1.  प्रथमातत्पुरुषः : El primer componente está en विग्रहवाक्य en nominativo (प्रथमा)
 2.  द्वितीयातत्पुरुषः : El primer componente está en विग्रहवाक्य en acusativo (द्वितीया)
@@ -227,9 +233,9 @@ por ejemplo:
     *   द्विगुसमासः : numeral en el primer componente
 *   नञ्तत्पुरुषः (निषेधतत्पुरुषः) : con negación a-, an- en el primer componente
 *   गतिसमासः : con preposición en el primer componente
-*   प्रथमातत्पुरुषः etc. (véase arriba)
+*   प्रथमातत्पुरुषः etc. (ver arriba)
 
-### 15.7.1. Clasificación de कर्मधारय
+### 15.7.1. Clasificación de los कर्मधारय
 
 1.  विशेषणपूर्वपदकर्मधारयः : El primer miembro es un adjetivo (विशेषण)
 2.  विशेषणोभयपदकर्मधारयः : ambos miembros son adjetivos, aquí pertenecen también adjetivos que expresan un transcurso temporal: "primero bañado, luego ungido"
@@ -260,7 +266,7 @@ por ejemplo:
 
 अर्ध 3: medio, m.n. mitad
 
-पूजा f.: honra, recepción honorífica, veneración religiosa (Pūjā)
+पूजा f.: honra, recepción honrosa, veneración religiosa (Pūjā)
 ::: media
 ![](/images/lekt1504.jpg)
 Fig.: पूजा
@@ -280,17 +286,17 @@ Fig.: इन्द्रः
 
 दासी f.: esclava, sierva, sirvienta
 
-काल m.: tiempo, (correcto) momento ; destino, muerte ; dios de la muerte Kāla
+काल m.: tiempo, (buen) momento ; destino, muerte ; dios de la muerte Kāla
 
-काल 3: negro, azul-negro, oscuro
+काल 3: negro, azul oscuro, oscuro
 
 पुरुष m.: hombre, varón, criado
 
-\-जन como segundo miembro de Tatpuruṣas a menudo expresión del plural
+\-जन como segundo miembro de los Tatpuruṣas a menudo expresión del plural
 
 स्तु 2 स्तौति ; Pas. स्तूयते ; PPP स्तुत : alabar, ensalzar
 
-de ello:
+de lo cual:
 
 ::: indent
 स्तुति f.: alabanza, himno de alabanza
@@ -314,12 +320,12 @@ Fig.: व्याघ्रः
 
 इव (pospuesto): como, como (en comparaciones: व्याघ्र इव पुरुषः = "un hombre como un tigre", "un hombre semejante a un tigre"
 
-एव (pospuesto): enfatiza lo anterior, en alemán a menudo corresponde a la énfasis, una especie de emoticono `&lt;!&gt;`, p. ej. सत्यमेव जयति "solo la verdad triunfa", "justo la verdad triunfa", "la verdad triunfa"
+एव (pospuesto): enfatiza lo anterior, en alemán a menudo corresponde a la énfasis, un tipo de emoticono `&lt;!&gt;`, p. ej. सत्यमेव जयति "solo la verdad triunfa", "justo la verdad triunfa", "la verdad triunfa"
 
 अरि m.: enemigo (según Thieme, Der Fremdling im Ṛgveda: originalmente = extranjero)
 
 ::: indent
-आर्य 3: ario, noble ; m. ario (autodesignación de los antiguos indos que hablaban sánscrito, literalmente: hospitalario (Thieme)) ; noble, hombre honorable
+आर्य 3: ario, noble ; m. ario (autodesignación de los antiguos indos hablantes de sánscrito, literal: hospitalario (Thieme)) ; noble, hombre de honor
 :::
 
 a जन्
@@ -330,7 +336,7 @@ a जन्
 
 मृ 4 Ā म्रियते ; Pas. म्रियते ; PPP मृत : morir (según gramáticos indios: 6 Ā)
 
-de ello:
+de lo cual:
 
 ::: indent
 मरण n.: morir, muerte
@@ -342,7 +348,7 @@ de ello:
 
 ## 15.9. Ejercicio 1
 
-Resuelva los siguientes compuestos como Tatpuruṣa en sánscrito y proporcione una traducción al alemán. Proporcione todas las resoluciones y traducciones que le parezcan posibles. Indique también a qué caso y número se refiere el compuesto total.
+Resuelva los siguientes compuestos como Tatpuruṣa en sánscrito y proporcione una traducción al alemán. Indique todas las resoluciones y traducciones que considere posibles. Especifique también el caso y el número del compuesto total.
 
 १. देवेन्द्रस्य
 
@@ -406,7 +412,7 @@ Resuelva los siguientes compuestos como Tatpuruṣa en sánscrito y proporcione 
 
 ## 15.10. Ejercicio 2
 
-Resuelva como en el Ejercicio 1 los siguientes Tatpuruṣa:
+Resuelva, como en el Ejercicio 1, los siguientes Tatpuruṣa:
 
 १. देवतागृहम्
 
@@ -598,14 +604,13 @@ Fig.: नागदेवाः
 
 ::: deleteme-box
 
-
 - **Fig.: लक्ष्मी** (Lakshmi): Pintura de राजा रवि वर्मा (1848 - 1906). Fuente de la imagen: Wikipedia, Dominio público.
 - **Fig.: नरसिंहः** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Fuente de la imagen: Wikipedia, Dominio público.
-- **Diagrama** (lekt1502.jpg): Diagrama de descomposición de compuestos. Fuente de la imagen: Alois Payer / Gráfico del curso original.
+- **Diagrama** (lekt1502.jpg): Diagrama para la descomposición de compuestos. Fuente de la imagen: Alois Payer / Gráfico del curso original.
 - **Fig.: पूजा** (Puja): Una ceremonia de Puja celebrada en Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Fuente de la imagen: Wikipedia, Dominio público.
 - **Fig.:  इन्द्रः** (Indra): Folio de un Panchakalyanaka, Rajasthan, Amber. Fuente de la imagen: Wikipedia, Dominio público.
 - **Fig.: सिंहः** (León): Panthera leo persica. Fuente de la imagen: Wikipedia, Licencia GNU FD.
 - **Fig.: व्याघ्रः** (Tigre): Parque Nacional Bandhavgarh (बांधवगढ राष्ट्रीय उद्दान). Fuente de la imagen: Servicio de Pesca y Vida Silvestre de EE. UU. / Wikipedia, Dominio público.
-- **Fig.: ग्रामदेवता** (Gramadevata): Señor Virpanath @ aldea Pasvadal, Vadgam, Gujarat, India. Fuente de la imagen: ganuullu (Flickr), Licencia Creative Commons.
+- **Fig.: ग्रामदेवता** (Gramadevata): Señor Virpanath @ aldea de Pasvadal, Vadgam, Gujarat, India. Fuente de la imagen: ganuullu (Flickr), Licencia Creative Commons.
 - **Fig.: नागदेवाः** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Fuente de la imagen: Dineshkannambadi / Wikipedia, Licencia GNU FD.
 :::

@@ -1,35 +1,38 @@
 ---
+title: Lección 39
+subtitle: "Las terminaciones personales de la primera persona (***तृतीयः*** पुरुषः = \"***tercera*** persona\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 39
 
 ## 39.1. Las desinencias personales de la primera persona (***तृतीयः*** पुरुषः = "***tercera*** persona")
 
-Las desinencias de la primera persona (***तृतीयः*** पुरुषः = "***tercera*** persona") son las siguientes:
+Las desinencias de la primera persona (***तृतीयः*** पुरुषः = "***tercera*** persona") son:
 
 :::: grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **Desinencia primaria de temas temáticos** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
-| **Desinencia primaria de temas atemáticos** | ^^ | ^^ | **-e** | ^^ |
-| **Desinencia secundaria de temas temáticos** | **-m** | **-ma** | **-i** | **-mahi** |
-| **Desinencia secundaria de temas atemáticos** | **-am** | ^^ | ^^ | ^^ |
-| **Desinencia optativa** | ^^ | ^^ | **-a** | ^^ |
+| **Desinencia primaria de raíces temáticas** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
+| **Desinencia primaria de raíces atemáticas** | ^^ | ^^ | **-e** | ^^ |
+| **Desinencia secundaria de raíces temáticas** | **-m** | **-ma** | **-i** | **-mahi** |
+| **Desinencia secundaria de raíces atemáticas** | **-am** | ^^ | ^^ | ^^ |
+| **Desinencia del optativo** | ^^ | ^^ | **-a** | ^^ |
 | **Desinencia del perfecto** | **-a** | ^^ | **-e** | **-mahe** |
 
 ::::
+1 Nota: en realidad, la desinencia primaria de las raíces ā también se establece como -e, ante la cual la vocal temática -a- cae por razones de analogía. Sin embargo, el efecto es como si la desinencia -i se uniera a la vocal temática -a-: a + i » e.
 
-1 Nota: en realidad, la desinencia primaria de los temas temáticos también debería establecerse como Ā, ante la cual la vocal temática -a- cae por razones analógicas. Sin embargo, el efecto es como si la desinencia -i se uniera a la vocal temática -a-: a + i » e.
-
-## 39.2. Formación de las formas verbales de la primera persona de las raíces temáticas del presente
+## 39.2. Formación de las formas verbales de la primera persona de las raíces de presente temático
 
 ::: grammar-box
 **Regla:**
-**Ante -mi, -mas, -ma, -māhe, -mahi, la vocal temática -a- se reemplaza por -ā- !!!**
+**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
 
 ### 39.2.1. Primera clase de presente (भ्वादि)
@@ -41,9 +44,9 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **Indicativo Presente - लट्** | **भवामि** | **भवामस्** | **\&lt;भवे\&gt;**[[br]]bhava + i[[br]]correcto: bhav-e | **\&lt;भवामहे\&gt;** |
-| **Imperfecto - लङ्** | **अभवम्** | **अभवाम** | **\&lt;अभवे\&gt;** | **\&lt;अभवामहि\&gt;** |
-| **Optativo - विधिलिङ्** | **भवेयम्**[[br]]bhava + iy-am | **भवेम**[[br]]bhava + i-ma | **\&lt;भवेय\&gt;**[[br]]bhava + iy-a | **\&lt;भवेमहि\&gt;**[[br]]bhava + i-mahi |
+| **Indicativo Presente - लट्** | **भवामि** | **भवामस्** | **&lt;भवे&gt;**[[br]]bhava + i[[br]]correcto: bhav-e | **&lt;भवामहे&gt;** |
+| **Imperfecto - लङ्** | **अभवम्** | **अभवाम** | **&lt;अभवे&gt;** | **&lt;अभवामहि&gt;** |
+| **Optativo - विधिलिङ्** | **भवेयम्**[[br]]bhava + iy-am | **भवेम**[[br]]bhava + i-ma | **&lt;भवेय&gt;**[[br]]bhava + iy-a | **&lt;भवेमहि&gt;**[[br]]bhava + i-mahi |
 
 ::::
 
@@ -55,10 +58,10 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicativo Presente - लट्** | **विशामि** | **विशामस्** | **\&lt;विशे\&gt;** | **\&lt;विशामहे\&gt;** |
-| **Imperfecto - लङ्** | **अविशम्** | **अविशाम** | **\&lt;अविशे\&gt;** | **\&lt;अविशामहि\&gt;** |
-| **Optativo - विधिलिङ्** | **विशेयम्** | **विशेम** | **\&lt;विशेय\&gt;** | **\&lt;विशेमहि\&gt;** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Indicativo Presente - लट्** | **विशामि** | **विशामस्** | **&lt;विशे&gt;** | **&lt;विशामहे&gt;** |
+| **Imperfecto - लङ्** | **अविशम्** | **अविशाम** | **&lt;अविशे&gt;** | **&lt;अविशामहि&gt;** |
+| **Optativo - विधिलिङ्** | **विशेयम्** | **विशेम** | **&lt;विशेय&gt;** | **&lt;विशेमहि&gt;** |
 
 ::::
 
@@ -71,9 +74,9 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **Indicativo Presente - लट्** | **नृत्यामि** | **नृत्यामस्** | **\&lt;नृत्ये\&gt;** | **\&lt;नृत्यामहे\&gt;** |
-| **Imperfecto - लङ्** | **अनृत्यम्** | **अनृत्याम** | **\&lt;अनृत्ये\&gt;** | **\&lt;अनृत्यामहि\&gt;** |
-| **Optativo - विधिलिङ्** | **नृत्येयम्** | **नृत्येम** | **\&lt;नृत्येय\&gt;** | **\&lt;नृत्येमहि\&gt;** |
+| **Indicativo Presente  - लट्** | **नृत्यामि** | **नृत्यामस्** | **&lt;नृत्ये&gt;** | **&lt;नृत्यामहे&gt;** |
+| **Imperfecto  - लङ्** | **अनृत्यम्** | **अनृत्याम** | **&lt;अनृत्ये&gt;** | **&lt;अनृत्यामहि&gt;** |
+| **Optativo  - विधिलिङ्** | **नृत्येयम्** | **नृत्येम** | **&lt;नृत्येय&gt;** | **&lt;नृत्येमहि&gt;** |
 
 ::::
 
@@ -84,9 +87,9 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 :::: grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **Indicativo Presente - लट्** | **चोरयामि** | **चोरयामस्** | **चोरये** | **चोरयामहे** |
+| **Indicativo presente - लट्** | **चोरयामि** | **चोरयामस्** | **चोरये** | **चोरयामहे** |
 | **Imperfecto - लङ्** | **अचोरयम्** | **अचोरयाम** | **अचोरये** | **अचोरयामहि** |
 | **Optativo - विधिलिङ्** | **चोरयेयम्** | **चोरयेम** | **चोरयेय** | **चोरयेमहि** |
 
@@ -94,11 +97,11 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 
 ### 39.2.5. Voz pasiva (sufijo यक्)
 
-ईक्ष् 1Ā
+ईक्ष् 1.ª conjugación
 
 :::: grammar-box
 
-| | **Singular** | **Plural** |
+| | **एकवचनम्** | **बहुवचनम्** |
 | :--- | :---: | :---: |
 | **Indicativo Presente - लट्** | **ईक्ष्ये**[[br]]īkṣ-ya + i | **ईक्ष्यामहे** |
 | **Imperfecto - लङ्** | **ऐक्ष्ये**[[br]]a + īkṣ-ya + i | **ऐक्ष्यामहि** |
@@ -109,9 +112,9 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 ## 39.3. Formación de las formas verbales de la primera persona del futuro simple - ऌत्
 
 ::: grammar-box
-**El futuro tiene una formación temática. Por lo tanto, también rige la regla para las raíces temáticas:**
+**El futuro tiene formación temática. Por lo tanto, también se aplica la regla para las raíces temáticas:**
 
-**Ante -mi, -mas, -mahe, la vocal temática -a- se reemplaza por -ā- !!!**
+**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
 
 ### 39.3.1. Formación de अनिट्
@@ -120,14 +123,14 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 
 :::: grammar-box
 
-| | **parasmaipadam** || **ātmanepadam** ||
+| | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
-| | **singular** | **plural** | **singular** | **plural** |
-| **Futuro - लुट** | **dāsyāmi**[[br]]dā-syā-mi | **dāsyāmas** | **dāsyé** | **dāsyāmahé** |
+| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **Futuro - ऌत्** | **दास्यामि**[[br]]dā-syā-mi | **दास्यामस्** | **दास्ये** | **दास्यामहे** |
 
 ::::
 
-### 39.3.2. Formación con raíz **सेट्**
+### 39.3.2. Formación de सेट्
 
 भू 1P
 
@@ -136,22 +139,24 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **Futuro - ऌत्** | **भविष्यामि**[[br]]bho + i + syā + mi | **भविष्यामस्** | **\&lt;भविष्ये\&gt;** | **\&lt;भविष्यामहे\&gt;** |
+| **Futuro - ऌत्** | **भविष्यामि**[[br]]bho + i + syā + mi | **भविष्यामस्** | **&lt;भविष्ये&gt;** | **&lt;भविष्यामहे&gt;** |
 
 ::::
 
 ## 39.4. Formación de las formas verbales de la primera persona de las raíces de presente atemáticas
 
 ::: grammar-box
-**Tenga en cuenta que, en el interior de la palabra —a diferencia del sandhi sintáctico—, las consonantes permanecen generalmente inalteradas antes de las terminaciones que comienzan con:**
-* **Vocal**
-* **Semivocal**
-* **Nasal**
+**Tenga en cuenta que en el interior de la palabra —a diferencia del sandhi de la oración—, antes de las terminaciones que comienzan con**
+* **vocal**
+* **semivocal**
+* **nasal**
 
-por ejemplo, वच् 1.sg.Ind.Prés **व***च्मि***
+**las consonantes permanecen generalmente sin cambios.**
+
+p. ej. वच् 1.sg.Ind.Pres **व***च्मि***
 :::
 
-### 39.4.1. Segunda clase de presente (अदादि)
+### 39.4.1. Segunda clase del presente (अदादि)
 
 द्विष् 2U
 
@@ -194,9 +199,9 @@ Fig.: सो ऽस्मि
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **Indicativo Presente - लट्** | **जुहोमि** | **जुहुमस्** | **\&lt;जुह्वे\&gt;**[[br]]ju-hu + e | **\&lt;जुहुमहे\&gt;** |
-| **Imperfecto - लङ्** | **अजुहवम्**[[br]]a-juho + am | **अजुहुम** | **\&lt;अजुहवि\&gt;** | **\&lt;अजुहुमहि\&gt;** |
-| **Optativo - विधिलिङ्** | **जुहुयाम्** | **जुहुयाम** | **\&lt;जुह्वीय\&gt;**[[br]]juhu + īy-a | **\&lt;जुह्वीमहि\&gt;** |
+| **Indicativo Presente - लट्** | **जुहोमि** | **जुहुमस्** | **&lt;जुह्वे&gt;**[[br]]ju-hu + e | **&lt;जुहुमहे&gt;** |
+| **Imperfecto - लङ्** | **अजुहवम्**[[br]]a-juho + am | **अजुहुम** | **&lt;अजुहवि&gt;** | **&lt;अजुहुमहि&gt;** |
+| **Optativo - विधिलिङ्** | **जुहुयाम्** | **जुहुयाम** | **&lt;जुह्वीय&gt;**[[br]]juhu + īy-a | **&lt;जुह्वीमहि&gt;** |
 
 ::::
 
@@ -213,10 +218,10 @@ Fig.: सो ऽस्मि
 
 ::::
 
-### 39.4.3. Quinta Clase de Presente (स्वादि)
+### 39.4.3. Quinta clase de presente (स्वादि)
 
 ::: grammar-box
-**En las raíces que terminan en vocal, opcionalmente, la -u del sufijo de formación de la raíz (-nu) puede omitirse antes de las terminaciones que comienzan con m-.**
+**En las raíces que terminan en vocal, opcionalmente puede omitirse la -u del sufijo de formación de la raíz (-nu) antes de las terminaciones que comienzan con m-.**
 :::
 
 सु 5U
@@ -224,7 +229,7 @@ Fig.: सो ऽस्मि
 :::: grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente - लट्** | **सुनोमि** | **सुनुमस्** / **सुन्मस्** | **सुन्वे** | **सुनुमहे** / **सुन्महे** |
 | **Imperfecto - लङ्** | **असुनवम्** | **असुनुम** / **असुन्म** | **असुन्वि** | **असुनुमहि** / **असुन्महि** |
@@ -260,7 +265,7 @@ Fig.: सो ऽस्मि
 
 ::::
 
-### 39.4.5. Séptima Clase de Presente (रुधादि)
+### 39.4.5. Séptima clase de presente (रुधादि)
 
 युज् 7U
 
@@ -292,7 +297,7 @@ Fig.: सो ऽस्मि
 
 ## 39.5. Ejercicio
 
-Forme las formas de la primera persona que correspondan a las siguientes formas verbales, manteniendo la concordancia en número, tiempo, modo (Indicativo, Optativo) y aspecto (P, Ā, Pasivo).
+Forme las formas de la primera persona correspondientes a las siguientes formas verbales, que coincidan con dicha forma en número, tiempo, modo (indicativo, optativo) y aspecto (P, Ā, voz pasiva).
 
 Ejemplo: गच्छन्ति » गच्छामस्
 

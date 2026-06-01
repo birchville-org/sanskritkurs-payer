@@ -1,6 +1,10 @@
 ---
+title: Lección 36
+subtitle: "Formaciones especiales del perfecto"
 lesson_id: 36
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 36
@@ -8,19 +12,19 @@ last_reconstructed: 2026-05-21
 ## 36.1. Formaciones especiales del perfecto
 
 :::: grammar-box
-1\. Algunas raíces muestran, tras la sílaba de reduplicación, una modificación del inicio de la raíz.
+1\. Algunas raíces muestran, después de la sílaba de reduplicación, una modificación del inicio de la raíz.
 ::::
 
 Ejemplos:
 
 | Raíz[[br]]धातु | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **जि** 1P[[br]]Perf. IIIa | **जिगाय** | **जिग्युर्**[[br]]ji-gi + ur | | |
-| **चि** 5U[[br]]Perf. IIIa | **चिकाय**[[br]]**चिचाय** | **चिक्युर्**[[br]]**चिच्युर्** | **चिक्ये**[[br]]**चिच्ये** | **चिक्यिरे**[[br]]**चिच्यिरे** |
-| **हन्** 2P[[br]]Perf. Va | **जघान** | **जघ्नुर्** | | |
+| **जि** 1P[[br]]Perf. IIIa | जि***गा***य | जि***ग्यु***र्[[br]]ji-gi + ur | | |
+| **चि** 5U[[br]]Perf. IIIa | चि***का***य[[br]]**चिचाय** | चि***क्यु***र्[[br]]**चिच्युर्** | चि***क्ये***[[br]]**चिच्ये** | चि***क्यि***रे[[br]]**चिच्यिरे** |
+| **हन्** 2P[[br]]Perf. Va | ज***घा***न | ज***घ्नु***र् | | |
 
 :::: grammar-box
-2\. La raíz विद् 2P «saber» tiene un perfecto con significado presente.
+2\. La raíz विद् 2P "saber" tiene un perfecto con significado presente.
 ::::
 
 :::: grammar-box
@@ -30,7 +34,7 @@ Ejemplos:
 ::::
 
 :::: grammar-box
-3\. La raíz अह «decir» solo tiene formas de perfecto (Perfecto I). Estas tienen significado presente.
+3\. La raíz अह् "decir" tiene solo formas de perfecto (Perfecto I). Estas tienen significado presente.
 ::::
 
 :::: grammar-box
@@ -40,7 +44,7 @@ Ejemplos:
 ::::
 
 :::: grammar-box
-4\. La raíz भू 1P tiene la base de perfecto बभू, ante vocales बभूव्.
+4\. La raíz भू 1P tiene la raíz del perfecto बभू, ante vocales बभूव्.
 ::::
 
 :::: grammar-box
@@ -52,7 +56,7 @@ Ejemplos:
 ## 36.2. El perfecto perifrástico (अनुप्रयोगलिट्)
 
 :::: grammar-box
-El perfecto perifrástico (अनुप्रयोगलिट्) se emplea:
+El perfecto perifrástico (अनुप्रयोगलिट्) se utiliza:
 
 1. en las conjugaciones derivadas (causativo, desiderativo, frecuentativo, denominativos)
 2. en raíces que comienzan con una vocal larga (excepto ā-) o con una vocal (excepto a-) seguida de dos consonantes
@@ -62,13 +66,13 @@ El perfecto perifrástico (अनुप्रयोगलिट्) se emplea:
 :::: grammar-box
 **Formación:**
 
-raíz de presente (débil) + -ām + forma correspondiente del perfecto de कृ, अस् o भू
+raíz del presente (débil) + -ām + forma correspondiente del perfecto de कृ, अस् o भू
 
-- La vocal final de la raíz se guṇa antes de -ām.
-- अस् y भू se conjugan en parasmaipada incluso para verbos ātmanepada.
+- Auslautender Stammvokal wird vor -ām guṇiert.
+- अस् y भू se conjugan también en parasmaipada para verbos de ātmanepada.
 ::::
 
-El perfecto perifrástico probablemente proviene del acusativo de un sustantivo verbal en -ā. Este acusativo se utiliza, como ocurre con frecuencia, de manera adverbial.
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 Ejemplos:
 
@@ -77,23 +81,23 @@ Ejemplos:
 | **ईक्ष्** 1Ā | | | **ईक्षां चक्रे**[[br]]**ईक्षामास**[[br]]**ईक्षां बभूव** | **ईक्षां चक्रिरे**[[br]]**ईक्षामासुर्**[[br]]**ईक्षां बभूवुर्** |
 | **बन्ध्**[[br]]Causativo: बन्धय-[[br]]"hacer atar" | **बन्धयां चकार**[[br]]**बन्धयामास**[[br]]**बन्धयां बभूव** | **बन्धयां चक्रुर्**[[br]]**बन्धयामासुर्**[[br]]**बन्धयां बभूवुर्** | | |
 
-## 36.3. Perfecto Pasivo
+## 36.3. Pasivo del perfecto
 
 :::: grammar-box
-En el perfecto, para la voz pasiva se utilizan las formas del Ātmanepada. Sin embargo, se prefiere el uso del participio de participio pasado (PPP). La construcción es, en ambos casos, la de las oraciones pasivas:
+En el perfecto, para la voz pasiva se utilizan las formas del Ātmanepada. En comparación, se prefiere el uso del PPP. La construcción es, en ambos casos, la de las oraciones pasivas:
 
 ::: indent
-तेन पुण्यं चक्रे = तेन पुण्यं कृतम् = "Él realizó una obra meritoria"
+तेन पुण्यं चक्रे = तेन पुण्यं कृतम् = "Él hizo una obra meritoria"
 :::
 ::::
 
-## 36.4. Lista de vocabulario
+## 36.4. Lista de palabras
 
 अह् P solo Perfecto con significado de Presente आह, आहुर् : decir, hablar
 
 अह् प्र P solo Perfecto con significado de Presente प्राह : decir, hablar
 
-ईक्ष् 1Ā ईक्षते : ver, (re)conocer, contemplar
+ईक्ष् 1Ā ईक्षते : ver, (re)bajar, contemplar
 
 ::: indent
 Perf. ईक्षां चक्रे  
@@ -103,7 +107,7 @@ Kaus. ईक्षयति
 PPP ईक्षित  
 Inf. ईक्षितुम्
 :::
-चि 5U चिनोति : apilar, recolectar
+चि 5U चिनोति : apilar, reunir
 
 ::: indent
 Perf. चिकाय । चिचाय  
@@ -119,7 +123,7 @@ Fig.: गोमयं चिकाय
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3601))
 :::
 
-व्रज् 1P व्रजति : caminar, ir, alejarse
+व्रज् 1P व्रजति : caminar, ir, irse
 
 ::: indent
 Perf. Vc वव्राज, वव्रजुर्  
@@ -129,7 +133,7 @@ Kaus. व्राजयति
 PPP व्रजित  
 Inf. व्रजितुम्
 :::
-व्रज् + प्र 1P प्रव्रजति : alejarse (espec. salir del hogar hacia la vida sin hogar como asceta = convertirse en monje)
+व्रज् + प्र 1P प्रव्रजति : irse (especialmente del hogar a la sinhogaridad como asceta = convertirse en monje)
 
 अगार n.। आगार n.: casa, hogar
 
@@ -142,7 +146,7 @@ Fig.: अगारम्
 ::: indent
 de ello:
 
-अनगार्य n. । अनगारika f.: vida sin hogar de un monje budista o novicio
+अनगार्य n. । अनगारika f.: sinhogaridad de un monje budista o novicio
 :::
 
 ::: media
@@ -150,7 +154,7 @@ de ello:
 Fig.: अनगार्यम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3603))
 :::
-अञ्जलि m.: Las dos manos juntas y levantadas en señal de reverencia
+अञ्जलि m.: Las dos manos puestas juntas en señal de reverencia
 
 आदृत 3: estimado
 
@@ -158,31 +162,30 @@ Fig.: अनगार्यम्
 
 पृथिवी f.: tierra
 
-पृष्ठ n: espalda, parte trasera
+पृष्ठ n: espalda, parte posterior
 
 ::: indent
-पृष्ठम् : detrás de
+पृष्ठम् : detrás
 :::
 प्रजापति m.: señor de las criaturas, dios creador
 
-अनु Prefijo verbal: hacia, a lo largo de, sobre - hacia, a lo largo de, según, hacia, detrás de - hacia
+अनु prefijo verbal: hacia, a lo largo de, sobre - hacia, a lo largo de, según, hacia, detrás - hacia
 
 ::: indent
-por ejemplo:
+por ejemplo
 
 अनुकृ : imitar, hacer como
 
-अनुगम् : seguir a alguien, caminar a lo largo de
+अनुगम् : seguir a alguien, ir a lo largo
 :::
-अभि : sobre-, hacia - hacia, hacia - hacia, hacia, en - dentro de, con respecto a, sobre, sobre, en
+अभि : hacia, después - hacia, hacia - hacia, contra, en - dentro, con respecto a, sobre, sobre, en
 
 ::: indent
-por ejemplo:
+por ejemplo
 
 अभिगम् : ir hacia, acercarse
 
 वद् + अभि Causativo Ā अभिवादयते : saludar formalmente, dirigirse a
-
 :::
 ग्लै 1P ग्लायति : sentir aversión, desvanecerse
 
@@ -195,7 +198,7 @@ PPP ग्लान
 Inf. ग्लातुम्  
 Absol. -ग्लाय
 :::
-घ्रा 1P जिघ्रति : oler algo
+घ्रा 1P ***जिघ्रति*** : oler algo
 
 ::: indent
 Perf. IV जघ्रौ  
@@ -206,7 +209,7 @@ PPP घ्रात । घ्राण
 Inf. घ्रातुम्  
 Absol. -घ्राय
 :::
-प्री 9U प्रीणति : deleitar, alegrar; amar, estar dispuesto hacia alguien
+प्री 9U प्रीणति : deleitar, agradar; amar, estar dispuesto a alguien
 
 प्री 4Ā प्रीयते : alegrarse
 
@@ -214,7 +217,7 @@ Absol. -घ्राय
 Perf. IIIa पिप्राय, पिप्रिये  
 Fut. प्रेष्यति  
 Pass. प्रीयते  
-Kaus. प्रीणयति  
+Kaus. ***प्रीणयति***  
 PPP प्रीत  
 Inf. प्रेतुम्
 :::
@@ -235,7 +238,7 @@ Fig.: सुगतो भूमीं पस्पर्श
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3606))
 :::
 
-हृष् 4P हृष्यति : ponerse rígido: erizarse (el pelo), alegrarse por (Instr., Acus., Loc.)
+हृष् 4P हृष्यति : volverse rígido: erizarse (pelo), alegrarse por (Instr., Acus., Loc.)
 
 ::: indent
 Perf II जहर्ष  
@@ -250,25 +253,25 @@ Fig.: लोमहर्षः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3604))
 :::
 
-स्वक 3: propio (mío, tuyo...) ; m.: miembro de la familia
+स्वक 3: propio (mío, tuyo ...) ; m.: miembro
 
 
 
 ## 36.5. Ejercicio
 
-A) Las siguientes raíces poseen tanto un perfecto reduplicado como un perfecto perifrástico. Forme las correspondientes formas de perfecto perifrástico y reduplicado para las siguientes formas:
+A) Las siguientes raíces tienen tanto perfecto reduplicado como perifrástico. Forme las correspondientes formas de perfecto perifrástico y reduplicado para las siguientes formas:
 
 1.  बिभ्रते
 2.  बिभ्यति
 3.  जुहोति
 4.  वेत्ति
 
-B) La raíz आस् "sentarse" tiene perfecto perifrástico. Forme este perfecto para las siguientes formas:
+B) La raíz आस् "sentarse" tiene perfecto perifrástico. Forme este para las siguientes formas:
 
 1.  आस्ते
 2.  आसते
 
-C) Forme el perfecto correspondiente para las siguientes formas:
+C) Forme el correspondiente perfecto para las siguientes formas:
 
 1.  जीयते
 2.  विदन्ति
@@ -306,9 +309,9 @@ Fig.: पुत्रे जाते सुगतः कुलं धनं च
 
 ब्राह्मणीभिः स्वान्नानि पेचिरे ॥७॥
 
-## 36.6. El perfecto (लिट) para las raíces aprendidas hasta ahora
+## 36.6. El perfecto (लिट्) para las raíces aprendidas hasta ahora
 
-| Raíz[[br]]धातु | Clase de perfecto | Perfecto (लिट) |
+| Raíz[[br]]धातु | Clase de perfecto | Perfecto (लिट्) |
 | :--- | :--- | :--- |
 | **अञ्ज्** 7P | I | **आनञ्ज** |
 | **अद्** 2P | I | **आद** |
@@ -415,58 +418,58 @@ Fig.: पुत्रे जाते सुगतः कुलं धनं च
 
 Traduzca:
 
-1\. Mahābhārata 13.7.25-26
+1\. महाभारत १३.७.२५-२६
 
 ::: indent
-यैन प्रीणति पितरं
+येन प्रीणति ***पितरं***
 तेन प्रीतः प्रजापतिः ।
-प्रीणति मातरं येन
+प्रीणति ***मातरं*** येन
 पृथिवी तेन पूजिता ।
-यैन प्रीणात्युपाध्यायं
-तेन स्याद्ब्रह्म पूजितम् ।
-सर्वे तस्यादृता धर्मा
-यस्यैते त्रय आदृताः ।
+येन प्रीणात्युपाध्यायं
+तेन स्या***द्ब्रह्म*** पूजितम् ।
+***सर्वे*** तस्यादृता धर्मा
+यस्यैते ***त्रय*** आदृताः ।
 अनादृतास्तु यस्यैते
-सर्वास्तस्याफलाः क्रियाः ॥
+***सर्वास्त***स्याफलाः क्रियाः ॥
 
 Explicaciones:
 
-पितरम् : Acusativo singular de पितृ m. «padre»
+पितरम् : Ac. sg. de पितृ m. "Padre"
 
-मातरम् : Acusativo singular de मातृ f. «madre»
+मातरम् : Ac. sg. de मातृ f. "Madre"
 
-ब्रह्म : Nominativo/Acusativo singular de ब्रह्मन् n. «Absoluto, Veda»
+ब्रह्म : Nom./Ac. sg. de ब्रह्मन् n. "Absoluto, Veda"
 
-सर्वे : Nominativo plural masculino de सर्व «todos, cada»
+सर्वे : Nom. pl. masc. de सर्व "todo, cada"
 
-त्रयस् : Nominativo plural masculino de त्रि «tres»
+त्रयस् : Nom. pl. masc. de त्रि "tres"
 
-सर्वास् : Nominativo/Acusativo plural femenino de सर्व «todos, cada»
+सर्वास् : Nom./Ac. pl. fem. de सर्व "todo, cada"
 :::
 
 ::: media
 ![](/images/lekt3607.jpg)
-Fig.: यैन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।
+Fig.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3607))
-:::
+::: 
 
-2\. Manavadharmaśāstra 4.154 sobre la conducta correcta hacia los ancianos:
+2\. मनुस्मृति ४.१५४ sobre el comportamiento correcto hacia los ancianos:
 
 ::: indent
 अभिवादयेद्वृद्धांश्च दद्याच्चैवासनं स्वकम् ।
 कृताञ्जलिरुपासीत गच्छतः पृष्ठतो ऽन्वियात् ॥
 :::
 
-3\. Manavadharmaśāstra 2.98: Quien es जितेन्द्रिय (dominio de los sentidos):
+3\. मनुस्मृति २.९८: Quien es un जितेन्द्रिय :
 
 ::: indent
 श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च भुक्त्वा घ्रात्वा च यो नरः ।
-न हृष्यति ग्लायति वा स विज्ञेयो जितेन्द्रियः ॥
+न हृष्यति ग्लायति वा स ***विज्ञेयो*** जितेन्द्रियः ॥
 
-Explicación: विज्ञेय 3: aquel que debe ser conocido; aquel que debe ser sabido (como)
+Explicación: विज्ञेय ३: uno que es reconocible; uno que es cognoscible (como)
 :::
 
-4\. Manavadharmaśāstra 2.110 sobre la conducta correcta de un brāhmaṇa:
+4\. मनुस्मृति २.११० sobre el comportamiento correcto de un brahmán:
 
 ::: indent
 नापृष्टः कस्यचिद्ब्रूयान्न चान्यायेन पृच्छतः ।
@@ -474,16 +477,16 @@ Explicación: विज्ञेय 3: aquel que debe ser conocido; aquel que de
 
 Explicaciones:
 
-En este verso, ब्रू se construye con el genitivo.
+En este verso, ब्रू se construye con el genitivo
 
-मेधावी : Nominativo singular masculino de मेधाविन् 3 «inteligente, sabio»
+मेधावी : Nom. sg. masc. de मेधाविन् ३ "inteligente, sabio"
 
-जडवत् Adv. «A la manera de un insensato/tonto/estúpido»
+जडवत् Adv. "A la manera de un tonto/embotado/idiota"
 :::
 
-## 36.8. Ejercicio de repaso sobre la morfología verbal
+## 36.8. Ejercicio de repaso sobre la morfología
 
-Determine y traduzca las siguientes formas léxicas de todas las maneras posibles:
+Determine y traduzca las siguientes formas de palabra de todas las maneras posibles:
 
 1.  नयति
 2.  समस्कुर्वन्
@@ -528,12 +531,11 @@ Determine y traduzca las siguientes formas léxicas de todas las maneras posible
 
 ::: deleteme-box
 
-
-- **lekt3601.jpg**: Ilustr.: गोमयं चिकाय Udaipur = उदयपुर [Fuente de la imagen: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Acceso el 28-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial)]
-- **lekt3602.jpg**: Ilustr.: अगारम् Shekawati = शेखावाटी [Fuente de la imagen: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Acceso el 28-12-2008. -- Licencia Creative Commons (Atribución, Compartir Igual)]
-- **lekt3603.jpg**: Ilustr.: अनगार्यम् Nordeste de Tailandia = อีสान [Fuente de la imagen: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Acceso el 28-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]
-- **lekt3604.jpg**: Ilustr.: लोमहर्षः (लोमन् n. pelo corporal) [Fuente de la imagen: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- Acceso el 29-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial)]
-- **lekt3605.jpg**: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज Gandhara, siglos I/II d. C. [Fuente de la imagen: Wikipedia. Licencia GNU FDL]
-- **lekt3606.jpg**: Ilustr.: स् सुगतो भूमीं पस्पर्श भूमीस्पर्शमudra [Fuente de la imagen: Payer]
-- **lekt3607.jpg**: Ilustr.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् । [Fuente de la imagen: Dey. -- http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Acceso el 29-12-2008. -- Licencia Creative Commons (Atribución, uso no comercial, Compartir Igual)]
+- **lekt3601.jpg**: Ilustr.: गोमयं चिकाय Udaipur = उदयपुर [Fuente de la imagen: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Acceso el  2008-12-28. --   Licencia Creative Commons (Atribución, uso no comercial)]
+- **lekt3604.jpg**: Ilustr.: अगारम् Shekawati = शेखावाटी [Fuente de la imagen: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Acceso el  2008-12-28. --   Licencia Creative Commons (Atribución, shere alike)]
+- **lekt3603.jpg**: Ilustr.: अनगार्यम् 	Noreste de Tailandia = อีสาน 	[Fuente de la imagen: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Acceso el  	2008-12-28. --  	 	Creative  	Commons License (Atribución, uso no comercial, sin  	Modificaciones)]
+- **lekt3604.jpg**: Ilustr.: लोमहर्षः (लोमन् n. vello corporal) [Fuente de la imagen: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Acceso el 2008-12-29.  --   Licencia Creative Commons (Atribución, uso no comercial)]
+- **lekt3605.jpg**: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज Gandhara, siglos I/II d. C. [Fuente de la imagen: Wikipedia. GNU FDLicense]
+- **lekt3606.jpg**: Ilustr.:स् सुगतो भूमीं पस्पर्श भूमीस्पर्शMudrā [Fuente de la imagen: Payer]
+- **lekt3607.jpg**: Ilustr.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् । [Fuente de la imagen: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Acceso el  2008-12-29. --   Licencia Creative Commons (Atribución, uso no comercial, share alike)]
 :::

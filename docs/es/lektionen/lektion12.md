@@ -1,6 +1,10 @@
 ---
+title: Lección 12
+subtitle: "El participio perfecto pasivo (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
+category: "Gramática"
+status: stable
 ---
 
 # Lección 12
@@ -10,18 +14,18 @@ last_reconstructed: 2026-05-07
 - El participio perfecto pasivo (PPP)
 - El significado del PPP
 - La formación del PPP
-- Las leyes de la combinación fonética en la palabra
-- El pasivo y el PPP de las raíces aprendidas hasta ahora
+- Las leyes de la unión fonética en la palabra
+- Voz pasiva y PPP de las raíces aprendidas hasta ahora
 :::
 
 ---
 
-## 12.1. Participio de perfecto pasivo (PPP)
+## 12.1. Participio perfecto pasivo (PPP)
 
-Una forma de construir oraciones en voz pasiva en el pasado es mediante la construcción con el llamado participio de perfecto pasivo (PPP).
+Una forma de formar oraciones pasivas en pasado es la construcción con el llamado participio perfecto pasivo (PPP).
 
 ::: grammar-box
-**En realidad, el PPP no es un verdadero participio, ya que no se forma a partir de un tema temporal. Es más bien una formación nominal de la raíz con el sufijo primario -ta o -na. Por ello, en la gramática india se habla del sufijo kta.**
+**En realidad, el PPP no es un verdadero participio, ya que no se forma a partir de un tema temporal. Es más bien una formación nominal de la raíz con el sufijo primario -ta o -na. Por eso, en la gramática india se habla del sufijo kta.**
 :::
 
 ---
@@ -29,16 +33,16 @@ Una forma de construir oraciones en voz pasiva en el pasado es mediante la const
 ### 12.1.1. Esquema para verbos transitivos
 
 ::: grammar-box
-**Agente (kartṛ) en Instrumental (tṛtīyā) -- Objeto directo (karman) en Nominativo (prathamā) -- Participio de Pasado Pasivo**
+**Agente (kartṛ) en Instrumental (tṛtīyā) -- Objeto directo (karman) en Nominativo (prathamā) -- Participio de Perfecto Pasivo**
 
-El PPP concuerda en este caso con el objeto en número, caso y género.
+En este caso, el PPP concuerda con el objeto en número, caso y género.
 
 No se necesita un verbo auxiliar ("ser").
 
 Ejemplos:
-> **sādhunā svarga āptaḥ** = साधुना स्वर्ग आप्तः = "(Por el Santo fue alcanzado un cielo) = El Santo alcanzó un cielo."
+> **sādhunā svarga āptaḥ** = साधुना स्वर्ग आप्तः = "(Por el Santo fue alcanzado un cielo) = El Santo ha alcanzado un cielo."
 > 
-> **brāhmaṇena devīṣṭā** = ब्राह्मणेन देवीष्टा = "(Por el Brahmana fue venerada la Diosa con un sacrificio) = El Brahmana veneró a la Diosa con un sacrificio."
+> **brāhmaṇena devīṣṭā** = ब्राह्मणेन देवीष्टा = "(Por el Brahmana fue venerada la Diosa con un sacrificio) = El Brahmana ha venerado a la Diosa con un sacrificio."
 :::
 
 ---
@@ -46,9 +50,9 @@ Ejemplos:
 ### 12.1.2. Esquema I para verbos intransitivos y verbos de movimiento
 
 ::: grammar-box
-**Agente (kartṛ) en nominativo (prathamā) -- Participio de Perfecto Pasivo**
+**Agente (kartṛ) en nominativo (prathamā) -- Participio Perfecto Pasivo**
 
-En este caso, el PPP concuerda con el agente en número, caso y género. El Participio de Perfecto "Pasivo" tiene significado activo con verbos intransitivos (verbos sin objeto directo) y verbos de movimiento.
+En este caso, el PPP concuerda con el agente en número, caso y género. El Participio Perfecto "Pasivo" tiene un significado activo en el caso de verbos intransitivos (verbos sin objeto directo) y verbos de movimiento.
 
 Ejemplo:
 > **kṣatriyā nagaraṃ gatā** = क्षत्रिया नगरं गता = "La mujer kṣatriya ha ido a la ciudad."
@@ -59,10 +63,10 @@ Ejemplo:
 ### 12.1.3. Esquema II para verbos intransitivos y verbos de movimiento
 
 ::: grammar-box
-**Agente (kartṛ) en instrumental (tṛtīyā) -- PPP en nominativo singular neutro**
+**Agente (kartṛ) en Instrumental (tṛtīyā) -- PPP en Nominativo Singular Neutro**
 
 Ejemplo:
-> **kṣatriyeṇa (nagaraṃ) gatam** = क्षत्रियेण (नगरं) गतम् = „(Por el kṣatriya se (hacia la ciudad) fue) = El kṣatriya (hacia la ciudad) fue.“
+> **kṣatriyeṇa (nagaraṃ) gatam** = क्षत्रियेण (नगरं) गतम् = „(Por el kṣatriya se fue (a la ciudad)) = El kṣatriya se fue (a la ciudad).“
 
 La construcción según el Esquema II es mucho más rara que la construcción según el Esquema I.
 :::
@@ -71,18 +75,18 @@ La construcción según el Esquema II es mucho más rara que la construcción se
 
 ## 12.2. Sobre el significado del PPP
 
-Por lo tanto, mientras que el llamado «Participio Perfecto Pasivo» para verbos transitivos tiene principalmente significado pasivo (**āpta** = «alcanzado (ser)») y para verbos intransitivos y verbos de movimiento tiene significado activo (**gata** = «habido ido»), hay algunos verbos en los que el PPP puede tener tanto significado activo como pasivo:
+Por lo tanto, mientras que el llamado „participio perfecto pasivo“ para verbos transitivos tiene principalmente un significado pasivo (**āpta** = „alcanzado (habiendo sido)“) y para verbos intransitivos y verbos de movimiento un significado activo (**gata** = „habiendo ido“), hay algunos verbos en los que el PPP puede tener tanto significado activo como pasivo:
 
 por ejemplo
-- **gata** = गत = «habido ido» (activo); pero también: **gato mārgaḥ** = गतो मार्गः = «un camino habido ido» (pasivo)
-- **āpta** = आप्त = «alcanzado ser» (pasivo), «alcanzado habiendo» (activo)
+- **gata** = गत = „habiendo ido“ (activo); pero también: **gato mārgaḥ** = गतो मार्गः = „un camino habiendo sido recorrido“ (pasivo)
+- **āpta** = आप्त = „habiendo sido alcanzado“ (pasivo), „habiendo alcanzado“ (activo)
 
 ---
 
 ## 12.3. Formación del PPP
 
 ::: grammar-box
-Se presentan las siguientes formas de formación (¡para cada raíz hay que aprender su PPP correspondiente!):
+Se presentan las siguientes formas de formación (¡para cada raíz se debe aprender su respectivo PPP!):
 
 **(por lo general) raíz en grado profundo**
 
@@ -91,7 +95,7 @@ Se presentan las siguientes formas de formación (¡para cada raíz hay que apre
   - sin vocal de unión: **-ta**
 - **+ -na**
 
-Las raíces femeninas son: **-tā**, **-itā**, **-nā**; el neutro declina como **phala** n.
+Las raíces femeninas se forman con: **-tā**, **-itā**, **-nā**; el neutro se declina como **phala** n.
 :::
 
 ---
@@ -100,10 +104,10 @@ Las raíces femeninas son: **-tā**, **-itā**, **-nā**; el neutro declina como
 
 #### 12.3.1.1. Sin vocal de unión -i- (aniṭ)
 
-*aniṭ* = «sin (*an-*) la *t* prefijada al sufijo (-i-)» (es decir, sin la vocal de unión *i*).
+*aniṭ* = „sin (*an-*) la *t* del sufijo previa (*-i-*)“ (es decir, sin la vocal de unión *i*).
 
 ::: grammar-box
-Sin vocal de unión, se forma el PPP generalmente de raíces que terminan en vocal, así como de muchas otras raíces, sin que se pueda dar una regla fija sobre en qué raíces estructuradas aparece o no la vocal de unión.
+Sin vocal de unión, se forma el PPP en general de raíces que terminan en vocal, así como de muchas otras raíces, sin que se pueda dar una regla fija sobre en qué raíces estructuradas aparece o no la vocal de unión.
 
 Una lista de raíces *aniṭ* se encuentra en Kielhorn, *Grammatik* § 298.
 :::
@@ -129,7 +133,7 @@ Una lista de raíces *aniṭ* se encuentra en Kielhorn, *Grammatik* § 298.
 
 #### 12.3.1.2. Con vocal de unión -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = «con (*sa-*) la *t* prefijada al sufijo (-i-)» (es decir, con la vocal de unión *i*).
+*seṭ* = *sa-iṭ* = „con (*sa-*) la *t* del sufijo previa (*-i-*)“ (es decir, con la vocal de unión *i*).
 
 **Ejemplos:**
 
@@ -144,9 +148,9 @@ Una lista de raíces *aniṭ* se encuentra en Kielhorn, *Grammatik* § 298.
 
 ---
 
-## 12.4. Leyes de la combinación fonética en la palabra
+## 12.4. Leyes de la combinación de sonidos en la palabra
 
-En las formaciones *aniṭ* hay que tener en cuenta las siguientes leyes de la combinación fonética en la palabra. **Estas leyes son muy importantes para la comprensión de toda la morfología del sánscrito.**
+En las formaciones *aniṭ* se deben tener en cuenta las siguientes leyes de la combinación de sonidos en la palabra. **Estas leyes son muy importantes para la comprensión de toda la morfología del sánscrito.**
 
 :::: grammar-box
 
@@ -156,7 +160,7 @@ En las formaciones *aniṭ* hay que tener en cuenta las siguientes leyes de la c
 | **1. k, t, p ante oclusiva sorda (p. ej. t, th) permanecen sin cambio:** | **pt, tt, kt** = **प्त्, त्त्, क्त्** |
 | **2. ct se reemplaza por kt = क्त्:** | **muc + ta » muk-ta** = **मुक्त** |
 | **3. śt se reemplaza por ṣṭ = ष्ट्:** | **dṛś + ti » dṛṣṭi** = **दृष्टि**[[br]]**dṛś + ta » dṛṣṭa** = **दृष्ट**[[br]]**viś + ta » viṣṭa** = **विष्ट** |
-| **4. Oclusiva sonora no aspirada – excepto j – se reemplaza ante un sonido sordo por la oclusiva sorda no aspirada correspondiente:** | **d + t(h) » tt(h)** = **त्त्, त्थ्** (importante para la 2. clase de presente) |
+| **4. Oclusiva sonora no aspirada – excepto j – se reemplaza ante un sonido sordo por la correspondiente oclusiva sorda no aspirada:** | **d + t(h) » tt(h)** = **त्त्, त्थ्** (importante para la 2. clase de presente) |
 | **5. jt se reemplaza por kt o ṣṭ (¡no facultativo!):** | **yuj + ta » yuk-ta** = **युक्त**[[br]]**yaj + ta » iṣ-ṭa** = **इष्ट** (&lt; \*yj-ta)[[br]]**sṛj + ta » sṛṣ-ṭa** = **सृष्ट**[[br]]**sṛj + ti » sṛṣ-ṭi** = **सृष्टि** |
 | **6. Oclusiva sonora aspirada + oclusiva sorda » oclusiva sonora no aspirada + oclusiva sonora aspirada (Ley del aspirado de Bartholomae):** | **bh-t » b-dh:**[[br]]**labh + ta » lab-dha** = **लब्ध**[[br]]**dh-t » d-dh:**[[br]]**budh + ta » bud-dha** = **बुद्ध**[[br]]**yudh + ta » yud-dha** = **युद्ध**[[br]]**krudh + ta » krud-dha** = **क्रुद्ध** |
 | **7. h-t se reemplaza por ḍh con alargamiento de una i o u precedente; o por gdh. Ante un tal ḍh, a se reemplaza por o, raramente por ā:** | **dah + ta » dag-dha** = **दग्ध**[[br]]**guh + ta » gūḍha** = **गूढ** (guh 1 (gūhati) «ocultar algo»)[[br]]**muh + ta » mug-dha / mūḍha** = **मुग्ध / मूढ**[[br]]**sah + ta » soḍha** = **सोढ** |
@@ -166,7 +170,7 @@ En las formaciones *aniṭ* hay que tener en cuenta las siguientes leyes de la c
 
 ---
 
-## 12.5. Lista de palabras
+## 12.5. Lista de vocabulario
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : despertar, despertar al conocimiento, reconocer; PPP **buddha** 3 despertado, por lo tanto **Buddha** = "el Despertado" (no: el Iluminado)
 
@@ -189,7 +193,7 @@ Fig.: मार्गः
 
 - **api** अपि : también (pospuesto)
 
-A la 6. clase de presente se les cuenta a los gramáticos nativos algunas raíces que forman la raíz del presente con infix nasal y vocal temática a, por ejemplo:
+A la 6. clase de presente se cuentan algunas raíces entre los gramáticos nativos, que forman la raíz del presente con infijo nasál y vocal temática a, por ejemplo:
 
 - **muc** 6 U (muñcati), PPP **mukta** मुच् मुञ्चति मुक्त : soltar, liberar, liberar; del ciclo de renacimientos (**saṃsāra** m.) liberar = salvar
 - **sic** 6 U (siñcati), PPP **sikta** सिच् सिञ्चति सिक्त : rociar
@@ -198,7 +202,7 @@ Para la formación de palabras:
 
 - **muc**: **mokṣa** m. मोक्ष : desapego, liberación, salvación
 - **sic** + **abhi-**: **abhiṣeka** m. अभिषेक : rociado de un rey durante la consagración real, consagración real
-- **budh**: **bodhi** m./f. बोधि : el despertar (por el cual un Buda o Jina llega a la visión liberadora)
+- **budh**: **bodhi** m./f. बोधि : el despertar (por el cual un Buda o Jina alcanza la comprensión salvadora)
 
 ::: media
 ![](/images/lekt1203.jpg)
@@ -264,8 +268,8 @@ Fig.: महावीरो जिनः
 
 ## 12.6. Ejercicio
 
-**A) Formen Sie aus den Aktivsätzen de la [Lección 7](/lektionen/lektion07), Ejercicio A, oraciones pasivas en el pretérito con el PPP; con verbos intransitivos y verbos de movimiento, formen oraciones activas en el pretérito.**
+**A) Formen a partir de las oraciones activas de [Lección 7](/lektionen/lektion07), Ejercicio A, oraciones pasivas en pasado con el PPP; con verbos intransitivos y verbos de movimiento, formen oraciones activas en pasado.**
 
-**B) Formen los PPPs correspondientes a las formas verbales de la [Lección 10](/lektionen/lektion10), Ejercicio A. Tenga en cuenta que a una forma como sṛjati le corresponden PPPs en los tres géneros.**
+**B) Formen los PPP correspondientes a las formas verbales de [Lección 10](/lektionen/lektion10), Ejercicio A. Tengan en cuenta que a una forma como sṛjati le corresponden PPPs en los tres géneros.**
 
-**C) Transforme las oraciones de la [Lección 10](/lektionen/lektion10), Ejercicio C, a la voz pasiva en el pretérito.**
+**C) Transformen las oraciones de [Lección 10](/lektionen/lektion10), Ejercicio C, a pasiva en pasado.**

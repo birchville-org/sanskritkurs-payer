@@ -1,13 +1,17 @@
 ---
+title: Lección 11
+subtitle: "El doble acusativo (acusativo de persona y cosa)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
+category: "Gramática"
+status: stable
 ---
 
 # Lección 11
 
 ::: deleteme-box
 **En esta lección aprenderá:**
-- El doble acusativo (acusativo de persona y de cosa)
+- El doble acusativo (acusativo de persona y cosa)
 - El uso de las partículas **iti**, **evam** y **na**
 - Conceptos básicos como **dharma**, **adharma** y **putra**
 - La formación de nombres a partir de las raíces **vad**, **prach** e **iṣ**
@@ -19,17 +23,17 @@ last_reconstructed: 2026-05-07
 **Algunos verbos pueden regir un doble acusativo (dvitīyā): acusativo de la persona y acusativo de la cosa.**
 
 **Entre ellos se incluyen:**
-- **Verbos de hablar**: hablar a alguien (acusativo) sobre algo (acusativo); decir a alguien (acusativo) algo (acusativo)
+- **Verbos de hablar**: decir a alguien (acusativo) sobre algo (acusativo); decir a alguien (acusativo) algo (acusativo)
 - **Verbos de preguntar**: preguntar a alguien (acusativo) por algo (acusativo)
 - **Verbos de enseñar**: enseñar a alguien (acusativo) algo (acusativo)
-- algunos otros verbos, que se indican en las listas de vocabulario
+- algunos otros verbos, cuya mención se hará en las listas de vocabulario
 
-**Cuando tal construcción se convierte en pasiva, la persona (la que pregunta, etc.) se pone en nominativo (prathamā), y la cosa (por la que se pregunta, etc.) permanece en acusativo.**
+**Cuando se convierte tal construcción a pasiva, la persona (la preguntada, etc.) se pone en nominativo (prathamā), y la cosa (por la que se pregunta, etc.) permanece en acusativo.**
 
 p.ej. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = रामो ब्राह्मणं धर्मं पृच्छति = "Rāma pregunta al brahmán por el dharma."
 » Pasiva: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = रामेण ब्राह्मणो धर्मं पृच्छयते
 
-**Esta regla solo se aplica cuando tanto la persona como la cosa son objetos. Si una cosa es el único objeto, esta se pone en nominativo (prathamā) según el esquema básico de la oración pasiva:**
+**Esta regla solo se aplica cuando tanto la persona como la cosa son objetos. Si una cosa es el único objeto, esta se pone, según el esquema básico de la oración pasiva, en nominativo (prathamā):**
 
 p.ej. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्छति = "Rāma pregunta por el dharma."
 » Pasiva: **rāmeṇa dharmaḥ pṛcchyate** = रामेण धर्मः पृच्छयते
@@ -42,17 +46,17 @@ p.ej. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्
 **Aprenda las siguientes palabras:**
 
 - **iti** इति : así
-  - Se coloca *después* de la formulación de un pensamiento, deseo, declaración o cita, como si fueran comillas (").
-  - Ej.: **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Los brahmanes dicen: 'Los santos van al cielo'" = "Los brahmanes dicen que los santos van al cielo".
-  - En sánscrito no existe el estilo indirecto; las construcciones con **iti** deben a menudo expresarse en alemán en estilo indirecto.
+  - Se coloca *después* de la formulación de un pensamiento, deseo, declaración o cita, como si fueran comillas de apertura (").
+  - p. ej. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Los brahmanes dicen: 'Los santos van al cielo'" = "Los brahmanes dicen que los santos van al cielo".
+  - En sánscrito no existe el estilo indirecto; las construcciones con **iti** deben a menudo traducirse al alemán como estilo indirecto.
   - **... (cita) ... iti śrutiḥ** = "así dice el Veda".
-  - A menudo se sobreentiende después de **iti** un verbo de pensamiento: "pensando: '...' hace eso". Expresar idiomáticamente en alemán (p. ej. "Como tiene hambre, va...").
+  - A menudo se sobreentiende un verbo de pensamiento después de **iti**: "pensando: '...' hace eso". Traducir idiomáticamente al alemán (p. ej. "Como tiene hambre, va...").
 
-- **evam** एवम् : así (adverbial, p. ej. **evaṃ jayati** "así triunfa él").
+- **evam** एवम् : así (adverbial, p. ej. **evaṃ jayati** "así vence él").
 - **na** न : no
   - Niega palabras individuales (se coloca inmediatamente antes: **na sādhuḥ** "un no bueno") o frases completas (se coloca al principio o inmediatamente antes del verbo).
 
-- **putra** m. पुत्र : hijo (En la India era necesario engendrar un hijo que pudiera ofrecer los sacrificios por los antepasados).
+- **putra** m. पुत्र : hijo (En la India era necesario engendrar un hijo que pudiera ofrecer los sacrificios por los antepasados.)
 - **dharma** m. धर्म : ("lo que es firme", es decir) derecho, ley, costumbre, carácter.
   - Corresponde más bien a la ley natural/moral. Cada uno tiene, según **varṇa** y **āśrama** (etapa de la vida), sus propios deberes (**svadharma**).
 - **adharma** m. अधर्म : injusticia (contrario a **dharma**).
@@ -66,8 +70,8 @@ p.ej. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्
 
 ::: media
 ![](/images/lekt1102.jpg)
-Fig.: **vadanāni** = वदनानि, distrito de Jamalpur, Bangladesh.
-(Fuente de la imagen: [Details](/es/licenses#lekt1102))
+Fig.: **vadanāni** = वदनानि
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1102))
 :::
 
 - **prach** 6 P प्रच्छ् : preguntar
@@ -97,14 +101,14 @@ Fig.: **vadanāni** = वदनानि, distrito de Jamalpur, Bangladesh.
 
 **B) Convierta las oraciones de A) a la voz pasiva.**
 
-**C) En las oraciones de A), donde tenga sentido, ponga el sujeto, el objeto y el predicado en plural.**
+**C) En las oraciones de A), donde tenga sentido, convierta el sujeto, el objeto y el predicado al plural.**
 
 **D) Forme la construcción pasiva para las oraciones formadas según C).**
 
 ::: media
 ![](/images/lekt1101.jpg)
 Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
-(Fuente de la imagen: [Details](/es/licenses#lekt1101))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1101))
 :::
 
 ---
@@ -112,7 +116,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 ## 11.4. Ejercicio de repaso
 
 **A) Traduzca al sánscrito con construcciones pasivas:**
-1. Las mujeres vaiśya preguntan a los brahmanes sobre el dharma.
+1. Las mujeres vaiśya preguntan a los brahmanes por el dharma.
 2. El profesor pronuncia un mantra.
 3. Las mujeres sagradas llegan a un cielo.
 4. Un sabio védico no hace nada malo.
@@ -121,8 +125,8 @@ Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 7. ¿Quién ve la verdad?
 
 **B)**
-1. Enumere con un dvandva las tareas de todos los dos veces nacidos. Descomponga el compuesto en sánscrito.
-2. Enumere con un dvandva las tareas de los vaiśyas. Descomponga el compuesto en sánscrito.
+1. Indique con un dvandva las tareas de todos los dos veces nacidos. Descomponga el compuesto en sánscrito.
+2. Indique con un dvandva las tareas de los vaiśyas. Descomponga el compuesto en sánscrito.
 
 **C) Traduzca:**
 
@@ -135,7 +139,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 7. शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि | |
 8. आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ||
 
-**D) Traduzca y ponga en plural el agente, el objeto y el verbo en sánscrito:**
+**D) Traduzca y ponga en plural en sánscrito el agente, el objeto y el verbo:**
 
 1. फलमश्नुते | |
 2. गुरुणा सत्यमुद्यते | |
@@ -147,5 +151,5 @@ Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 ::: media
 ![](/images/lekt1103.jpg)
 Fig.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
-(Fuente de la imagen: [Details](/es/licenses#lekt1103))
+(Fuente de la imagen: [Detalles](/es/licenses#lekt1103))
 :::

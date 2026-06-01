@@ -1,19 +1,23 @@
 ---
+title: Lección 42
+subtitle: "Tribus en -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
+category: "Gramática"
+status: stable
 ---
 
 # Lección 42
 
-## 42.1. Raíces en -ṛ
+## 42.1. Tribus en -ṛ
 
-### 42.1.1. Raíces con grado alargado en la raíz fuerte
+### 42.1.1. Tribus con grado de extensión en la raíz fuerte
 
 ::: grammar-box
 Todos los masculinos en -ṛ con excepción de las designaciones de parentesco mencionadas en 1.3. A este grupo pertenecen también las designaciones de parentesco:
 
 *   **नप्तृ** m. "nieto"
-*   **भर्तृ** m. "esposo (literalmente: sostenedor)"
+*   **भर्तृ** m. "esposo (literalmente, sostenedor)"
 
 La mayor parte de los nombres pertenecientes a este grupo son nombres de agente con el sufijo कृत् -तृ.
 
@@ -58,21 +62,21 @@ Femenino:
 ### 42.1.2. Formación nominal: Sufijo कृत् -तृ
 
 ::: grammar-box
-Con el sufijo -तृ, muy frecuente, se forman nomina agentis (designaciones para el कर्तृ) a partir de casi cualquier raíz o raíz causativa.
+Con el muy frecuente sufijo कृत् -तृ se forman nomina agentis (designaciones para el कर्तृ) a casi cualquier raíz o bien a la raíz causativa.
 
 **Formación:**
 
-*   **raíz en grado pleno + -tṛ**
+*   **raíz en grado completo + -tṛ**
 
-o bien
+o
 
-*   **raíz en grado pleno / raíz causativa + i + tṛ**
+*   **raíz en grado completo / raíz causativa + i + tṛ**
 :::
 
 Ejemplos:
 
 ::: indent
-**कर्तृ** m. "Actor"
+**कर्तृ** m. "Hacedor"
 
 **जेतृ** m. "Vencedor"
 
@@ -90,17 +94,17 @@ Fig.: अयं बोधयिता
 :::
 
 ::: grammar-box
-Los neutros poco frecuentes en -तृ tienen una declinación parcialmente propia (véase Kielhorn, Grammatik § 148).
+Los neutros de aparición rara en -तृ tienen una declinación parcialmente propia (véase Kielhorn, Gramática § 148).
 
 El femenino de las raíces en -तृ termina en **-त्री** (como **देवी**).
 
-p. ej. **कर्त्री** f. "Actora"
+p.ej. **कर्त्री** f. "Hacedora"
 :::
 
-### 42.1.3. Troncos con grado pleno en la raíz fuerte
+### 42.1.3. Tribus con grado alto en la raíz fuerte
 
 ::: grammar-box
-A estos pertenecen las siguientes designaciones de parentesco:
+Estos incluyen las siguientes designaciones de parentesco:
 
 *   **पितृ** m. "Padre"
 *   **मातृ** f. "Madre"
@@ -136,10 +140,10 @@ Ejemplos:
 
 :::
 
-### 42.1.4. Raíces en -ṛ en compuestos
+### 42.1.4. Tribus con terminación -ṛ en compuestos
 
 ::: grammar-box
-Como primer miembro de un compuesto, los nombres en -ṛ se encuentran, por supuesto, en su raíz débil, es decir:
+Como primer miembro de un compuesto, los nombres terminados en -ṛ se encuentran, por supuesto, en su forma de raíz débil, es decir,
 
 *   **antes de consonante: -ṛ**
 *   **antes de vocal: -r**
@@ -147,17 +151,17 @@ Como primer miembro de un compuesto, los nombres en -ṛ se encuentran, por supu
 
 ## 42.2. Lista de palabras
 
-प्रकृति f.: (a कृ + प्र) forma fundamental, estado natural, naturaleza; materia primordial, sustancia original
+प्रकृति f.: (a partir de कृ + प्र) forma básica, estado natural, naturaleza; materia prima, elemento primordial
 
-अर्जुन m. nombre propio: Arjuna, uno de los cinco hijos de पण्डु. Héroe en el महाभारत (véase Basham, Maravilla, págs. 409 - 414)
+अर्जुन m. nombre propio: Arjuna, uno de los cinco hijos de पण्डु. Héroe en el महाभारत (véase Basham, Maravilla p. 409 - 414)
 
-स्था + अव 1Ā अवतिष्ठते : abstenerse de, alejarse, mantenerse alejado, permanecer, estar de pie
+स्था + अव 1Ā अवतिष्ठते : abstenerse, apartarse, mantenerse alejado, permanecer, estar de pie
 
 ::: indent
 PPP अवस्थित 3: de pie, existente
 :::
 
-पुरा Adv.: una vez, antes
+पुरा Adv.: antes, anteriormente
 
 अनेक 3: muchos (no algunos)
 
@@ -175,7 +179,7 @@ PPP अवस्थित 3: de pie, existente
 
 ज्ञा + प्रति 9U प्रतिजानाति : aprobar, prometer; Ā: responder, confirmar, afirmar, reconocer
 
-चल् 1P चलति : ponerse en movimiento
+चल् 1P चलति : entrar en movimiento
 
 ::: indent
 Fut. चलिष्यति  
@@ -225,18 +229,18 @@ Fig.: माता, पिता, पुत्रकः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4202))
 ::: 
 
-भर्तृ m. (a भृ "llevar, mantener"): Conservador, Nutridor, Esposo
+भर्तृ m. (de भृ "llevar, sostener"): Mantenedor, Nutridor, Esposo
 
-भार्या f., जाया f. पत्नी f.: Esposa (भार्या = gerundivo de भृ : La que debe ser llevada, la que debe ser mantenida, con derecho a sustento)
+भार्या f., जाया f. पत्नी f.: Esposa (भार्या = gerundivo de भृ : La que debe ser llevada, la que debe ser sostenida, con derecho a mantenimiento)
 
 पितृ m.: Padre
 
 पितृ m. Plural: los antepasados masculinos fallecidos, es decir,
 
 1.  Padre, Abuelo, Bisabuelo
-2.  Los antepasados de la humanidad
+2.  los antepasados de la humanidad
 
-Se realizan ritos para ambos, llamados श्राद्ध n. Diariamente se ofrecen a tres antepasados masculinos (por línea paterna y materna) agua y, en ocasiones especiales, bolas de arroz o bolas de harina (पिण्ड m. "bolitas") para que los antepasados reciban alimento. La ejecución de esta ceremonia es una de las razones por las cuales un hombre debe engendrar un hijo. Aquellos que están unidos mediante esta पिण्ड-oferta se llaman सपिण्ड (a quienes les es común पिण्ड). सपिण्ड abarca seis generaciones: tres hacia atrás (hasta el bisabuelo) y tres hacia adelante (hasta el bisnieto).
+A ambos se les realizan ritos, llamados श्राद्ध n. Diariamente se ofrecen a cada uno de los tres antepasados masculinos (por línea paterna y materna) agua y, en ciertas ocasiones, bolas de arroz o bolas de harina (पिण्ड m. "bolas") para que los antepasados reciban alimento. La realización de esta ceremonia es una de las razones por las que un hombre debe engendrar un hijo. Aquellos que están unidos mediante esta पिण्ड-ofrecimiento se llaman सपिण्ड (a quienes les es común पिण्ड). सपिण्ड abarca seis generaciones: tres hacia atrás (hasta el bisabuelo) y tres hacia adelante (hasta el bisnieto).
 
 तात m.: Papá
 
@@ -336,7 +340,7 @@ Fig.: धनुर्द्वेधा भग्नं बभूव
 
 Explicación de las expresiones destacadas en ***rojo***:
 
-सीता f. Nombre propio: hija del rey जनक de विदेह. Había salido de la tierra cuando el rey aró el campo, por eso su nombre: सीता f. "Surco del campo"
+सीता f. Nombre propio: Hija del rey जनक de विदेह. Ella había salido de la tierra cuando el rey aró el campo, de ahí su nombre: सीता f. "Surco del campo"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.jpg)
@@ -344,7 +348,7 @@ Fig.: रामः, सीता, हनुमान्, लक्ष्मन�
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4205))
 :::
 
-मिथिला f. Nombre propio: capital de विदेह
+मिथिला f. Nombre propio: Capital de विदेह
 
 ::: media
 ![lekt4206.jpg](/images/lekt4206.jpg)
@@ -352,17 +356,17 @@ Fig.: मिथिला, विदेहः, अयोध्या, कोस�
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4206))
 :::
 
-जनक m. Nombre propio: rey de विदेह
+जनक m. Nombre propio: Rey de विदेह
 
 गुरुतर 3: Comparativo de गुरु 3: más pesado, muy pesado
 
-धनुस् Nom.Acu.sg.n. de धनुस् n. "Arco"
+धनुस् Nom.Acc.sg.n. de धनुस् n. "Arco"
 
-शतशस् Adv.: a cientos
+शतशस् Adv.: cientos
 
-लङ्का f. Nombres propios: se identifica con la actual Sri Lanka (ශ්‍රී ලංකාව / இலங்கை)
+लङ्का f. Nombre propio: se identifica con la actual Sri Lanka (ශ්‍රී ලංකාව / இலங்கை)
 
-रावण m. Nombres propios; gobernante de लङ्का, gobernante de los राक्षस.
+रावण m. Nombre propio; gobernante de लङ्का, gobernante de los राक्षस.
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.jpg)
@@ -370,27 +374,27 @@ Fig.: रावणः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4207))
 :::
 
-अयोध्या f. Nombres propios: capital de कोसल (¡ver mapa arriba!)
+अयोध्या f. Nombre propio: Capital de कोसल (¡ver mapa arriba!)
 
-दशरथ m. Nombre propio: rey de कोसल
+दशरथ m. Nombre propio: Rey de कोसल
 
-राम m. Nombre propio: hijo de दशरथ
+राम m. Nombre propio: Hijo de दशरथ
 
-लक्ष्मन m. Nombre propio: hijo de दशरथ
+लक्ष्मन m. Nombre propio: Hijo de दशरथ
 
-विश्वामित्र m. Nombre propio: ऋषि, se puso राम y लक्ष्मन para matar demonios; por ello recibe de él armas mágicas.
+विश्वामित्र m. Nombre propio: ऋषि, se puso a राम y लक्ष्मन para matar demonios; por ello recibe de él armas mágicas.
 
 सीतारामयोस् Gen.Loc.Dual de सीताराम
 
 ::: deleteme-box
 
-
 * **Fig. lekt4201**: अयं बोधयिता. (Fuente de la imagen: Wikipedia. Dominio público)
-* **Fig. lekt4202**: माता, पिता, पुत्रकः. El Diwan I Khas, o Sala de Audiencias Privadas en el Lal Qila (Fuerte Rojo) en Delhi. (Fuente de la imagen: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Acceso el 2009-01-04. -- Licencia Creative Commons (Atribución, no uso comercial, compartir igual))
+* **Fig. lekt4202**: माता, पिता, पुत्रकः. El Diwan I Khas, o Sala de Audiencias Privadas en el Lal Qila (Fuerte Rojo) en Delhi. (Fuente de la imagen: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Acceso el 2009-01-04. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual))
 * **Fig. lekt4203**: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Fuente de la imagen: Wikipedia. Dominio público)
-* **Fig. lekt4204**: अर्जुनो रथे सीदti । कृष्णो ऽस्य रथवाहो ऽस्ति । (रथ m. carro). (Fuente de la imagen: Wikipedia. Dominio público)
+* **Fig. lekt4204**: अर्जुनो रथे सीदti । कृष्णो ऽस्य रथवाहो ऽस्ति । (रथ m. Carro). (Fuente de la imagen: Wikipedia. Dominio público)
 * **Fig. lekt4205**: रामः, सीता, हनुमान्, लक्ष्मनः. Siglo XVII. (Fuente de la imagen. Wikipedia. Dominio público)
 * **Fig. lekt4206**: Ubicación de मिथिला y विदेह, अयोध्या y कोसल. (Fuente de la imagen: JIJITH NR / Wikipedia. Licencia GNU FD)
 * **Fig. lekt4207**: रावणः. Máscara de danza Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Fuente de la imagen: Manohara Upadhya / Wikipedia. Licencia GNU FD)
 * **Fig. lekt4208**: धनुर्द्वेधा भग्नं बभूव. Imagen de राजा रवि वर्मा (1848 - 1906). (Fuente de la imagen: Wikipedia. Dominio público)
+
 :::
