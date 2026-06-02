@@ -95,7 +95,7 @@ Horizontale Erweiterung um die verbleibenden vier Sprachen.
 Standardisierung der Metadaten und Legacy-Vergleichswerkzeug.
 - [ ] **Plan 17.1**: Standardisierung aller Bildunterschriften (999.14) — minimalistisches Format.
 - [ ] **Plan 17.2**: Audit und Vervollständigung der licenses.md.
-- [ ] **Plan 17.3**: Historical Comparison Mode (999.12) — Side-by-Side Legacy-HTML vs Modern-Markdown.
+- [x] **Plan 17.3**: Historical Comparison Mode (999.12) — Side-by-Side Legacy-HTML vs Modern-Markdown. *(erledigt durch QA-Viewer Split-View, 2026-06-02)*
 - **Erfolgskriterien**:
     - Alle Bildunterschriften folgen dem L16-Ref Standard.
     - Vergleichsmodus über QA-Viewer erreichbar.
