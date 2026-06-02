@@ -138,6 +138,33 @@ LANG_CONFIG = {
         "col_meaning": "ਪੰਜਾਬੀ", "col_lektion": "ਪਾਠ",
         "link_prefix": "/pa/lektionen/lektion",
     },
+    "la": {
+        "dir": "docs/la/lektionen",
+        "glossar_path": "docs/la/lektionen/glossar.md",
+        "title": "Glossarium Sanscritum–Latinum",
+        "subtitle": "Ex indicibus verborum cursus Sanscritici Aloysii Payer collectum.",
+        "col_sanskrit": "Sanscritum", "col_iast": "IAST", "col_genus": "Genus",
+        "col_meaning": "Latinum", "col_lektion": "Lectio",
+        "link_prefix": "/la/lektionen/lektion",
+    },
+    "rm": {
+        "dir": "docs/rm/lektionen",
+        "glossar_path": "docs/rm/lektionen/glossar.md",
+        "title": "Glossari Sanscrit–Rumantsch",
+        "subtitle": "Compilà dad ils indicts da pleds dal curs da sanscrit d'Alois Payer.",
+        "col_sanskrit": "Sanscrit", "col_iast": "IAST", "col_genus": "Gener",
+        "col_meaning": "Rumantsch", "col_lektion": "Lecziun",
+        "link_prefix": "/rm/lektionen/lektion",
+    },
+    "ro": {
+        "dir": "docs/ro/lektionen",
+        "glossar_path": "docs/ro/lektionen/glossar.md",
+        "title": "Glosar Sanscrită–Română",
+        "subtitle": "Compilat din listele de cuvinte ale cursului de sanscrită al lui Alois Payer.",
+        "col_sanskrit": "Sanscrită", "col_iast": "IAST", "col_genus": "Gen",
+        "col_meaning": "Română", "col_lektion": "Lecție",
+        "link_prefix": "/ro/lektionen/lektion",
+    },
 }
 
 DEV = r'[ऀ-ॿ]'
@@ -308,8 +335,14 @@ def generate(lang: str) -> None:
         lines.append("")
         lines.append(f"| {c['col_sanskrit']} | {c['col_iast']} | {c['col_genus']} | {c['col_meaning']} | {c['col_lektion']} |")
         lines.append("|---|---|---|---|---|")
+        MW_BASE = "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key={}&filter=roman"
         for e in group_entries:
-            iast = e["iast"] or "—"
+            raw_iast = e["iast"] or ""
+            # MW-Link nur für echte IAST-Lemmata (keine Zahlen, keine Sonderzeichen)
+            if raw_iast and re.match(r'^[a-zA-Zāīūṛṝḷṅñṭḍṇśṣḥṃḥ -]+$', raw_iast):
+                iast = f"[{raw_iast}]({MW_BASE.format(raw_iast)})"
+            else:
+                iast = raw_iast or "—"
             genus = e["genus"] or "—"
             bed = e["bedeutung"].replace("|", "/").replace("\n", " ")[:120]
             lekt_link = f"[{e['lektion']}]({c['link_prefix']}{e['lektion']:02d}{e['anchor']})"

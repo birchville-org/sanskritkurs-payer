@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: Sanskritus cursus
+  name: Sanskritcursus
   text: Cursus completus
-  tagline: ab Aloio Payer (Bibliotheca Globale Village Tüpfli)
+  tagline: ab Aloio Payer (Bibliotheca Villae Globalis Tüpfli)
   actions:
     - theme: brand
       text: Cursum incipere
@@ -15,20 +15,20 @@ hero:
 
 features:
   - title: Devanāgarī ready
-    details: Typographia perfecta, integrata, pro scriptis Indicis.
+    details: Typographia perfecta, scriptis Indicis integrata.
   - title: Facilis perquisitio
     details: Quaestio textualis localis profunda scientiam ad digitos praebet.
   - title: Architectura moderna
-    details: Fundamentum VitePress pro maxima celeritate.
+    details: Fundamentum VitePress pro velocitate maxima.
 ---
 
-::: tip Versio 1.3 — in evolutione
+::: tip Version 1.3 — in evolutione posita
 **Novum in v1.3 (Iunius 2026):**
 
 - **Linguae novae:** Panjabica (PA) ✅ · Latina (LA) 🔄 · Rumantsch Grischun (RM) 🔄 · Dacoromanica (RO) 🔄
-- **Glossarium:** Sanscritum–Theodisce alphabetice cum IAST, in omnibus linguis
+- **Glossarium:** Sanscritum–Germanice alphabetice cum IAST et directis ad [Monier-Williams Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) alligationibus, in omnibus linguis
 - **Visualizator QA:** Editor Markdown cum praevisione viva, synchronisatione fontis crudi, functione SWAP
-- **Qualitas:** Pre-push checks automatici pro erroribus translationis
+- **Qualitas:** Praevigilationes automaticae ante push pro erroribus translationis
 
 **Notae et nuntii errorum:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 :::
