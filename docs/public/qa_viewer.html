@@ -530,15 +530,17 @@
                 <button class="control-btn active" onclick="setSyncMode('header')" id="btn-header">Sync Header</button>
                 <button class="control-btn" onclick="setSyncMode('pct')" id="btn-pct">Sync %</button>
                 <button class="control-btn" onclick="setSyncMode('off')" id="btn-off">Sync OFF</button>
+                <button class="control-btn" onclick="swapPanes()" id="btn-swap" title="Links und rechts tauschen">SWAP</button>
             </div>
             <div class="btn-group" id="view-controls">
                 <button class="control-btn active" onclick="setViewMode('rendered')" id="btn-rendered">Rendered</button>
                 <button class="control-btn" onclick="setViewMode('raw')" id="btn-raw">Raw Source</button>
                 <button class="control-btn" onclick="setViewMode('editor')" id="btn-editor">Editor</button>
+                <button class="control-btn" onclick="exitQA()" id="btn-exit-qa" title="QA beenden, zurück zur Seite">END QA</button>
             </div>
             <div class="btn-group" id="editor-actions">
                 <button class="control-btn" onclick="setViewMode('rendered')" id="btn-viewer">← Viewer</button>
-                <button class="control-btn" onclick="openFile()" id="btn-open">Öffnen</button>
+                <button class="control-btn" onclick="openFile()" id="btn-open">OPEN</button>
                 <button class="control-btn" onclick="resetEditor()" id="btn-reset">Reset</button>
                 <button class="control-btn" onclick="saveEditor()" id="btn-save">Save</button>
             </div>
@@ -649,17 +651,106 @@
         const savedTheme = localStorage.getItem('vitepress-theme-appearance') || 'light';
         if (savedTheme === 'dark') document.documentElement.classList.add('dark');
 
-        // --- Lesson Auto-Detection ---
-        function detectInitialLesson() {
+        // --- Sprach/Lektion-Erkennung aus Referrer + localStorage ---
+
+        // Mapping: Sprachpräfix → dropdown value-Präfix
+        const LANG_TO_OPTION = {
+            '':   'lektionen/lektion01',      // DE (kein Präfix im Pfad)
+            'en': 'en/lektionen/lektion01',
+            'it': 'it/lektionen/lektion01',
+            'bg': 'bg/lektionen/lektion01',
+            'uk': 'uk/lektionen/lektion01',
+            'ru': 'ru/lektionen/lektion01',
+            'hi': 'hi/lektionen/lektion01',
+            'fr': 'fr/lektionen/lektion01',
+            'es': 'es/lektionen/lektion01',
+            'ta': 'ta/lektionen/lektion01',
+            'pa': 'pa/lektionen/lektion01',
+            'la': 'la/lektionen/lektion01',
+            'rm': 'rm/lektionen/lektion01',
+            'ro': 'ro/lektionen/lektion01',
+        };
+
+        function detectInitialContext() {
+            // 1. URL-Parameter (höchste Priorität)
             const params = new URLSearchParams(window.location.search);
-            if (params.get('lesson')) return params.get('lesson');
+            if (params.get('lesson')) return { lesson: params.get('lesson'), lang: params.get('lang') || '' };
+
+            // 2. Referrer analysieren
             const ref = document.referrer;
-            if (ref) { const m = ref.match(/lektion(\d+)/); if (m) return m[1]; }
-            try { const s = localStorage.getItem('payer_last_lesson'); if (s) return s; } catch(e) {}
+            if (ref) {
+                try {
+                    const path = new URL(ref).pathname;
+                    // Erkennt: /LANG/lektionen/lektionNN, /lektionen/lektionNN
+                    const m = path.match(/^(?:\/([a-z]{2}))?\/lektionen\/(lektion)(\d+)/);
+                    if (m) return { lesson: m[3], lang: m[1] || '' };
+                } catch(_) {}
+            }
+
+            // 3. localStorage (letzte Auswahl)
+            try {
+                const s = localStorage.getItem('payer_last_lesson');
+                const l = localStorage.getItem('payer_last_lang') || '';
+                if (s) return { lesson: s, lang: l };
+            } catch(_) {}
+
             return null;
         }
-        const initialLesson = detectInitialLesson();
-        if (initialLesson) lessonInput.value = initialLesson;
+
+        function setInitialDropdowns(ctx) {
+            if (!ctx) return;
+
+            // Lektion-Nummer setzen
+            if (ctx.lesson) lessonInput.value = parseInt(ctx.lesson);
+
+            // Links immer Original HTML
+            // Rechts: erkannte Sprache (oder DE als Fallback)
+            const rightSel = document.getElementById('right-lang');
+            const optionVal = LANG_TO_OPTION[ctx.lang] || 'lektionen/lektion01';
+            const opt = Array.from(rightSel.options).find(o => o.value === optionVal);
+            if (opt) rightSel.value = optionVal;
+
+            // Letzte Auswahl merken
+            try {
+                if (ctx.lesson) localStorage.setItem('payer_last_lesson', ctx.lesson);
+                localStorage.setItem('payer_last_lang', ctx.lang || '');
+            } catch(_) {}
+        }
+
+        function swapPanes() {
+            const leftSel = document.getElementById('left-lang');
+            const rightSel = document.getElementById('right-lang');
+            const tmp = leftSel.value;
+            leftSel.value = rightSel.value;
+            rightSel.value = tmp;
+            updateFrames();
+        }
+
+        function exitQA() {
+            // Zurück zum Referrer falls vorhanden und sinnvoll
+            if (document.referrer && !document.referrer.includes('qa_viewer')) {
+                window.location.href = document.referrer;
+                return;
+            }
+            // Sonst zur aktuell gewählten Lektion navigieren
+            const leftVal = document.getElementById('left-lang').value;
+            const num = lessonInput.value.padStart(2, '0');
+            if (leftVal && leftVal !== 'qa/lektion01.html' && leftVal.includes('lektion')) {
+                const path = '/' + leftVal.replace(/lektion\d+/, 'lektion' + num);
+                window.location.href = path;
+                return;
+            }
+            window.location.href = '/';
+        }
+
+        // Dropdown-Auswahl bei Änderung persistieren
+        document.getElementById('left-lang').addEventListener('change', function() {
+            const m = this.value.match(/^([a-z]{2})\/lektionen/);
+            try { localStorage.setItem('payer_last_lang', m ? m[1] : ''); } catch(_) {}
+        });
+
+        const initialCtx = detectInitialContext();
+        setInitialDropdowns(initialCtx);
 
         // --- Sync Mode ---
         function setSyncMode(mode) {
@@ -846,7 +937,7 @@
 
         function resetEditor() {
             window._fileHandle = null;
-            document.getElementById('btn-open').textContent = 'Öffnen';
+            document.getElementById('btn-open').textContent = 'OPEN';
             loadEditorContent();
         }
 
