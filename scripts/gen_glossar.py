@@ -335,7 +335,7 @@ def generate(lang: str) -> None:
         lines.append("")
         lines.append(f"| {c['col_sanskrit']} | {c['col_iast']} | {c['col_genus']} | {c['col_meaning']} | {c['col_lektion']} |")
         lines.append("|---|---|---|---|---|")
-        MW_BASE = "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key={}&filter=roman"
+        MW_BASE = "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key={}&filter=roman&accent=no&transLit=roman"
         for e in group_entries:
             raw_iast = e["iast"] or ""
             # MW-Link nur für echte IAST-Lemmata (keine Zahlen, keine Sonderzeichen)
