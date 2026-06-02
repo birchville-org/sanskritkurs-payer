@@ -4,10 +4,10 @@ layout: home
 hero:
   name: Sanskritus cursus
   text: Cursus completus
-  tagline: ab Aloio Payer (Bibliotheca Globalis Villae Tüpfli)
+  tagline: ab Aloio Payer (Bibliotheca Globale Village Tüpfli)
   actions:
     - theme: brand
-      text: Cursum incipe
+      text: Cursum incipere
       link: /la/lektionen/lektion01
     - theme: alt
       text: Argumenta grammatica
@@ -15,18 +15,20 @@ hero:
 
 features:
   - title: Devanāgarī ready
-    details: Typographia perfecta, integra pro scriptis Indicis.
-  - title: Facilis investigatio
-    details: Investigatio textus localis profunda scientiam ad digitos praebet.
+    details: Typographia perfecta, integrata, pro scriptis Indicis.
+  - title: Facilis perquisitio
+    details: Quaestio textualis localis profunda scientiam ad digitos praebet.
   - title: Architectura moderna
-    details: Aedificatum super fundamentum VitePress pro maxima velocitate.
+    details: Fundamentum VitePress pro maxima celeritate.
 ---
 
-::: tip BETA-TEST
-Haec pagina beta-testum repraesentat, qui investigare debet quam alta sit qualitas translationum ab IA generatarum.
+::: tip Versio 1.3 — in evolutione
+**Novum in v1.3 (Iunius 2026):**
 
-**Commentaria et nuntii errorum quavis ratione rogantur ad:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+- **Linguae novae:** Panjabica (PA) ✅ · Latina (LA) 🔄 · Rumantsch Grischun (RM) 🔄 · Dacoromanica (RO) 🔄
+- **Glossarium:** Sanscritum–Theodisce alphabetice cum IAST, in omnibus linguis
+- **Visualizator QA:** Editor Markdown cum praevisione viva, synchronisatione fontis crudi, functione SWAP
+- **Qualitas:** Pre-push checks automatici pro erroribus translationis
 
-**Configuratio experimenti:** Google Antigravity cum Gemini 3 Flash et translatio massiva cum Gemma 4:26b (ollama, localiter) in M4/32 GB.
-Postea: Transitus ad Claude Sonnet 4.6 (Gemini Flash 3.5 cum augmentatione costarum abrupta) et localem mlx-community/Qwen3.6-35B-A3B-4bit (traductiones meliores).
+**Notae et nuntii errorum:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 :::

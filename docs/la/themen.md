@@ -5,12 +5,12 @@ outline: false
 
 # Index Argumentorum
 
-Index argumentorum automaticus ex capitibus omnium lectionum generatur. Accessum celerem ad phaenomena grammatica specifica praebet.
+Index argumentorum automaticus ex capitibus omnium lectionum generatur. Qui accessum celerem ad phaenomena grammatica specifica permittit.
 
 &lt;PayerTopicIndex /&gt;
 
 &lt;style&gt;
-/* Aedificatio ad index latitudinis plenae */
+/* Adjust layout for full width index */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }

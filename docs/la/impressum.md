@@ -5,21 +5,21 @@ title: Impressum & Citatio
 
 # Impressum, Copyright & Citatio
 
-*Textus sequens e libris lectionum extractus est, ut lectionis cursus melius fluat.*
+*Textus sequens e libris lectionum excisus est, ut lectionis cursus melius fluat.*
 
-## Citatio | cite as:
-**Payer, Alois &lt;1944 - &gt;:** Sanscriticus. -- Editio anni 2010. -- URL: http://www.payer.de/sanskritkurs/
+## Citatio | cita ut:
+**Payer, Alois &lt;1944 - &gt;:** Sanscriticus. -- Versio anni 2010. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Causa
-Constitutum pro consiliis academicis annis 1980 - 1984
+Constitutum pro discentiis annis 1980 - 1984
 
 ## Copyright
-Hoc textus publici iuri subiectus est.
-Utilizatio in publicationibus, quae citationes usitatas excedit, expressam auctoris licentiam requirit.
+Hic textus ad usum publicum conceditur.
+Utilizatio in publicationibus, quae citationes usitatas excedit, expresse auctoris permissionem requirit.
 
-Hic textus pars est sectionis Sanscriticae **Bibliothecae Universalis Tüpfli**.
+Hic textus pars est sectionis Sanscriticae **Bibliothecae Tüpfli's Global Village**.
 
 ---
 
-### De litteris
+### Nota de characteribus scribendis
 Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.
