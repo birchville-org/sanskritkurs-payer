@@ -537,6 +537,8 @@
                 <button class="control-btn" onclick="setViewMode('editor')" id="btn-editor">Editor</button>
             </div>
             <div class="btn-group" id="editor-actions">
+                <button class="control-btn" onclick="setViewMode('rendered')" id="btn-viewer">← Viewer</button>
+                <button class="control-btn" onclick="openFile()" id="btn-open">Öffnen</button>
                 <button class="control-btn" onclick="resetEditor()" id="btn-reset">Reset</button>
                 <button class="control-btn" onclick="saveEditor()" id="btn-save">Save</button>
             </div>
@@ -759,6 +761,9 @@
             document.getElementById('btn-rendered').style.pointerEvents = isEditor ? 'none' : '';
             document.getElementById('btn-raw').style.opacity = isEditor ? '0.3' : '';
             document.getElementById('btn-raw').style.pointerEvents = isEditor ? 'none' : '';
+            const rightLang = document.getElementById('right-lang');
+            rightLang.style.opacity = isEditor ? '0.3' : '';
+            rightLang.style.pointerEvents = isEditor ? 'none' : '';
             // Syntax-Panel und Editor-Aktionen ein-/ausblenden
             syntaxPane.style.display = isEditor ? 'block' : 'none';
             editorActions.style.display = isEditor ? 'flex' : 'none';
@@ -793,22 +798,102 @@
             editorDebounce = setTimeout(renderPreview, 300);
         }
 
+        // File System Access API — Datei-Handle für direktes Rückschreiben
+        window._fileHandle = null;
+
+        function showSaveNotice(filename) {
+            let notice = document.getElementById('save-notice');
+            if (!notice) {
+                notice = document.createElement('div');
+                notice.id = 'save-notice';
+                notice.style.cssText = 'position:fixed;bottom:2rem;left:50%;transform:translateX(-50%);' +
+                    'background:var(--color-ink,#03192e);color:var(--color-parchment,#fcf9f2);' +
+                    'padding:0.85rem 1.5rem;border-radius:8px;font-size:0.9rem;z-index:9999;' +
+                    'box-shadow:0 4px 16px rgba(0,0,0,0.25);max-width:480px;text-align:center;line-height:1.5;';
+                document.body.appendChild(notice);
+            }
+            const mail = 'webmaster@birchville.cc';
+            notice.innerHTML = `✓ Gespeichert: <strong>${filename}</strong><br>` +
+                `Bitte die Datei an <a href="mailto:${mail}?subject=Änderung: ${filename}" ` +
+                `style="color:#eab308">${mail}</a> senden.`;
+            notice.style.display = 'block';
+            clearTimeout(notice._timer);
+            notice._timer = setTimeout(() => { notice.style.display = 'none'; }, 8000);
+        }
+
+        async function openFile() {
+            if (!window.showOpenFilePicker) {
+                alert('File System Access API nicht unterstützt (Chrome/Edge erforderlich).');
+                return;
+            }
+            try {
+                const [handle] = await window.showOpenFilePicker({
+                    types: [{ description: 'Markdown', accept: { 'text/markdown': ['.md'] } }],
+                    multiple: false
+                });
+                window._fileHandle = handle;
+                const file = await handle.getFile();
+                const text = await file.text();
+                const editorInput = document.getElementById('editor-input');
+                editorInput.value = stripFrontmatter(text);
+                editorInput.placeholder = 'Markdown hier eingeben…';
+                document.getElementById('btn-open').textContent = '📄 ' + handle.name;
+                renderPreview();
+            } catch (e) {
+                if (e.name !== 'AbortError') console.error('Öffnen fehlgeschlagen:', e);
+            }
+        }
+
         function resetEditor() {
+            window._fileHandle = null;
+            document.getElementById('btn-open').textContent = 'Öffnen';
             loadEditorContent();
         }
 
-        function saveEditor() {
+        async function saveEditor() {
             const editorInput = document.getElementById('editor-input');
             const btn = document.getElementById('btn-save');
             const text = (window._editorFrontmatter || '') + editorInput.value;
-            if (navigator.clipboard && navigator.clipboard.writeText) {
-                navigator.clipboard.writeText(text).then(() => {
-                    btn.textContent = '✓ Kopiert';
+
+            // File System Access API — direktes Rückschreiben
+            if (window._fileHandle) {
+                try {
+                    const writable = await window._fileHandle.createWritable();
+                    await writable.write(text);
+                    await writable.close();
+                    btn.textContent = '✓ Gespeichert';
                     setTimeout(() => { btn.textContent = 'Save'; }, 1800);
-                }).catch(() => { fallbackSave(text, btn); });
-            } else {
-                fallbackSave(text, btn);
+                    showSaveNotice(window._fileHandle.name);
+                    return;
+                } catch (e) {
+                    console.error('Schreiben fehlgeschlagen:', e);
+                }
             }
+
+            // Fallback: Save As via showSaveFilePicker
+            if (window.showSaveFilePicker) {
+                try {
+                    const num = document.getElementById('lesson-num').value.padStart(2, '0');
+                    const handle = await window.showSaveFilePicker({
+                        suggestedName: 'lektion' + num + '.md',
+                        types: [{ description: 'Markdown', accept: { 'text/markdown': ['.md'] } }]
+                    });
+                    window._fileHandle = handle;
+                    document.getElementById('btn-open').textContent = '📄 ' + handle.name;
+                    const writable = await handle.createWritable();
+                    await writable.write(text);
+                    await writable.close();
+                    btn.textContent = '✓ Gespeichert';
+                    setTimeout(() => { btn.textContent = 'Save'; }, 1800);
+                    showSaveNotice(handle.name);
+                    return;
+                } catch (e) {
+                    if (e.name === 'AbortError') return;
+                }
+            }
+
+            // Letzter Fallback: Download
+            fallbackSave(text, btn);
         }
 
         function fallbackSave(text, btn) {
@@ -820,6 +905,7 @@
             URL.revokeObjectURL(a.href);
             btn.textContent = '✓ Download';
             setTimeout(() => { btn.textContent = 'Save'; }, 1800);
+            showSaveNotice(a.download);
         }
 
         // --- Header matching utilities ---
@@ -908,7 +994,8 @@
         // --- PostMessage handler: Phase 1 – only LEFT controls RIGHT ---
         window.addEventListener('message', (e) => {
             if (e.data.type === 'getTheme') { syncThemeToFrames(); return; }
-            if (syncMode === 'off' || viewMode === 'raw') return;
+            if (syncMode === 'off') return;
+        if (viewMode === 'raw') return; // Raw sync handled by textarea listeners below
             if (e.source !== leftFrame.contentWindow) return; // ignore right frame
 
             if (e.data.type === 'scroll') {
@@ -939,6 +1026,46 @@
             if (pct > 5 && pct < 95) leftPane.style.width = pct + '%';
         });
         document.addEventListener('mouseup', () => { isDragging = false; document.body.classList.remove('dragging'); });
+
+        // --- Raw-Source Sync (Textarea ↔ Textarea) ---
+        let rawSyncLock = false;
+
+        function getRawHeadingAtScroll(ta) {
+            const lines = ta.value.split('\n');
+            const lineHeight = ta.scrollHeight / Math.max(lines.length, 1);
+            const topLine = Math.floor(ta.scrollTop / lineHeight);
+            // Suche letzte Überschrift vor der aktuellen Zeile
+            for (let i = Math.min(topLine + 3, lines.length - 1); i >= 0; i--) {
+                const m = lines[i].match(/^#{1,6}\s+(.+)/);
+                if (m) return m[1].trim();
+            }
+            return null;
+        }
+
+        function scrollRawToHeading(ta, heading) {
+            if (!heading) return;
+            const lines = ta.value.split('\n');
+            const idx = lines.findIndex(l => {
+                const m = l.match(/^#{1,6}\s+(.+)/);
+                return m && m[1].trim().toLowerCase().includes(heading.toLowerCase().slice(0, 20));
+            });
+            if (idx < 0) return;
+            const lineHeight = ta.scrollHeight / Math.max(lines.length, 1);
+            ta.scrollTop = idx * lineHeight;
+        }
+
+        leftRaw.addEventListener('scroll', () => {
+            if (syncMode === 'off' || viewMode !== 'raw' || rawSyncLock) return;
+            rawSyncLock = true;
+            if (syncMode === 'pct') {
+                const pct = leftRaw.scrollTop / (leftRaw.scrollHeight - leftRaw.clientHeight || 1);
+                rightRaw.scrollTop = pct * (rightRaw.scrollHeight - rightRaw.clientHeight);
+            } else if (syncMode === 'header') {
+                const heading = getRawHeadingAtScroll(leftRaw);
+                if (heading) scrollRawToHeading(rightRaw, heading);
+            }
+            setTimeout(() => { rawSyncLock = false; }, 50);
+        });
 
         const noEquivalentMsg = 'data:text/html;charset=utf-8,' + encodeURIComponent('<body style="font-family:sans-serif; background:#fcf9f2; display:flex; align-items:center; justify-content:center; height:100vh; margin:0; color:#48626e;"><div style="text-align:center;"><p style="font-size:1.2rem; font-weight:600;">Keine Entsprechung im Original</p><p style="font-size:0.9rem;">Die Wortliste ist eine konsolidierte Ressource.</p></div></body>');
 

@@ -16,6 +16,10 @@ outline: 2
 
 
 
+
+
+
+
 **deva** m. -- देव : Himmlischer, Gott; Fürst, König.
 
 **īśvara** m. -- ईश्वर : Herr, Herrscher, Gott (monotheistisch).
@@ -130,6 +134,10 @@ Abb.: Sādhu (साधु), Pashupatinath Tempel, Kathmandu.
 
 
 
+
+
+
+
 **Lernen Sie folgende Wörter:**
 
 **śruti** f. = श्रुति : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
@@ -197,6 +205,10 @@ Abb.: Durgā = दुर्गा, Orissa
 
 
 
+
+
+
+
 **Lernen Sie folgende Wörter:**
 
 **abhiniveṣa** m. = अभिनिवेष : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes.
@@ -246,6 +258,10 @@ Abb.: Gott Kāma = kāmadeva = कामदेव, 18. Jhdt.
 
 
 
+
+
+
+
 ::: grammar-box
 Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach der Wurzel bedeutet die **Konjugationsklasse**.
 
@@ -270,6 +286,10 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 ---
 
 ## Lektion 7
+
+
+
+
 
 
 
@@ -300,6 +320,10 @@ Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) La
 ---
 
 ## Lektion 8
+
+
+
+
 
 
 
@@ -344,6 +368,10 @@ Abb.: **likh** (लिख्) : Schreibstöckchen der Batak (Sumatra), wie es ve
 
 
 
+
+
+
+
 **Lernen Sie folgende Wörter:**
 
 - **adhyayana** n. (अध्ययन) : Lernen, insbes. Vedastudium
@@ -381,6 +409,10 @@ Abb.: **kāru** = कारु, Gujarat.
 ---
 
 ## Lektion 10
+
+
+
+
 
 
 
@@ -455,6 +487,10 @@ Abb.: विश्वामित्रः
 
 
 
+
+
+
+
 **Lernen Sie folgende Wörter:**
 
 - **iti** इति : so
@@ -495,6 +531,10 @@ Abb.: **vadanāni** = वदनानि
 ---
 
 ## Lektion 12
+
+
+
+
 
 
 
@@ -595,6 +635,10 @@ Abb.: महावीरो जिनः
 
 
 
+
+
+
+
 Lernen Sie folgende Wörter:
 
 - **eva** एव : betont vorhergehendes Wort
@@ -667,6 +711,10 @@ dviṣ 2 U:
 
 
 
+
+
+
+
 * **śīla n.** (शील) : (guter) Charakter, Sittlichkeit
 * **bhūṣ-aṇa n** (भूषण) : Schmuck
 * **dīpa m.** (दीप) : Lampe
@@ -692,6 +740,10 @@ Abb.: दीपाः
   * **vāk-ya n.** (वाक्य) : Wort, Rede
 
 ## Lektion 15
+
+
+
+
 
 
 
@@ -795,11 +847,16 @@ davon:
 
 
 
+
+
+
+
 अध्यापन n.: Unterrichten, Unterricht
 
 ::: media
 ![](/images/lekt1602.jpg)
 Abb.: अध्यापनम्
+"This is a special ceremony in a small temple in Satara (सातारा). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
 (Bildquelle: [Details](/licenses#lekt1602))
 :::
 
@@ -836,6 +893,7 @@ davon:
 ::: media
 ![](/images/lekt1601.jpg)
 Abb.: योगी
+Birla Mandir, Delhi
 (Bildquelle: [Details](/licenses#lekt1601))
 :::
 
@@ -852,10 +910,15 @@ Abb.: योगी
 ::: media
 ![](/images/lekt1603.jpg)
 Abb.: अहिंसा
+"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
 (Bildquelle: [Details](/licenses#lekt1603))
 :::
 
 ## Lektion 17
+
+
+
+
 
 
 
@@ -870,6 +933,7 @@ davon:
 ::: media
 ![](/images/lekt1703.jpg)
 Abb.: घाताः
+Bangalore = ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt1703))
 :::
 
@@ -922,6 +986,10 @@ davon:
 
 
 
+
+
+
+
 सुष्टु 3: hochgepriesen, ausgezeichnet, gut
 
 शोभन 3: glänzend, prächtig, herrlich, schön, gut
@@ -960,6 +1028,10 @@ davon:
 
 
 
+
+
+
+
 **अर्थ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. **अर्थम्** (Akk.), **अर्थेन** (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
 
 **अर्थ** ist einer der drei Lebenszwecke (**पुरुषार्थ**), wie sie in der weltlichen und religiösen Literatur beschrieben werden:
@@ -975,6 +1047,7 @@ davon:
 ::: media
 ![](/images/lekt1809.jpg)
 Abb.: कामः
+Illustration zum कामसूत्र
 (Bildquelle: [Details](/licenses#lekt1809))
 :::
 
@@ -1004,6 +1077,7 @@ von **स्था** :
 ::: media
 ![](/images/lekt1901.jpg)
 Abb.: गर्भगृहम्
+Badami (ಬದಾಮಿ)
 (Bildquelle: [Details](/licenses#lekt1901))
 :::
 
@@ -1013,6 +1087,7 @@ Abb.: गर्भगृहम्
 ::: media
 ![](/images/lekt1902.jpg)
 Abb.: वारिदः
+Goa (गोंय)
 (Bildquelle: [Details](/licenses#lekt1902))
 :::
   
@@ -1033,6 +1108,7 @@ davon:
 ::: media
 ![](/images/lekt1904.jpg)
 Abb.: छत्त्रम्
+"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
 (Bildquelle: [Details](/licenses#lekt1904))
 :::
 
@@ -1042,6 +1118,7 @@ Abb.: छत्त्रम्
 ::: media
 ![](/images/lekt1903.jpg)
 Abb.: पण्डितः जवाहरलाल नेहरू
+१९५९
 (Bildquelle: [Details](/licenses#lekt1903))
 :::
 
@@ -1072,6 +1149,10 @@ Abb.: पण्डितः जवाहरलाल नेहरू
 
 
 
+
+
+
+
 वा : oder
 
 आश्रम m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ und evtl. als सन्न्यासिन् ; siehe Basham, Wonder S. 159f.)
@@ -1079,6 +1160,7 @@ Abb.: पण्डितः जवाहरलाल नेहरू
 ::: media
 ![](/images/lekt2008.jpg)
 Abb.: आश्रमः
+Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
 (Bildquelle: [Details](/licenses#lekt2008))
 :::
 
@@ -1177,6 +1259,10 @@ Abb.: आश्रमः
 
 
 
+
+
+
+
 **भज् 1 U भजति Pass. भज्यते PPP भक्त :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
 
 davon:
@@ -1191,6 +1277,7 @@ davon:
 ::: media
 ![](/images/lekt2103.jpg)
 Abb.: भगवान्कृष्णः
+भगवान्कृष्णः als जगन्नाथ (rechts) mit seiner Halbschwester सुभद्रा (Mitte) und seinem älteren Bruder बलराम, Orissa = ଓଡ଼ିଶा
 (Bildquelle: [Details](/licenses#lekt2103))
 :::
 
@@ -1201,6 +1288,7 @@ Abb.: भगवान्कृष्णः
 ::: media
 ![](/images/lekt2105.jpg)
 Abb.: भगवद्गीता
+भगवद्गीता - Manuskript, 19. Jhdt.
 (Bildquelle: [Details](/licenses#lekt2105))
 :::
 
@@ -1217,6 +1305,7 @@ davon:
 ::: media
 ![](/images/lekt2104.jpg)
 Abb.: भिक्षवः
+Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
 (Bildquelle: [Details](/licenses#lekt2104))
 :::
 
@@ -1232,6 +1321,10 @@ Abb.: भिक्षवः
 
 
 
+
+
+
+
 **काम m.:** Wunsch, Begehren; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
 
 ::: indent
@@ -1241,6 +1334,7 @@ Abb.: भिक्षवः
 ::: media
 ![](/images/lekt2202.jpg)
 Abb.: कामदेवः
+19. Jhdt
 (Bildquelle: [Details](/licenses#lekt2202))
 :::
 
@@ -1258,6 +1352,7 @@ davon:
 ::: media
 ![](/images/lekt2203.jpg)
 Abb.: दुर्गाशक्तिः
+Kolkatta = কলকাতা
 (Bildquelle: [Details](/licenses#lekt2203))
 :::
 
@@ -1287,10 +1382,15 @@ davon:
 ::: media
 ![](/images/lekt2201.jpg)
 Abb.: धेनवश्चरन्ति
+Goa = गोंय
 (Bildquelle: [Details](/licenses#lekt2201))
 :::
 
 ## Lektion 23
+
+
+
+
 
 
 
@@ -1303,6 +1403,10 @@ Abb.: धेनवश्चरन्ति
 विशेष m.: Besonderheit, Spezifikation, differentia specifica
 
 ## Lektion 24
+
+
+
+
 
 
 
@@ -1332,6 +1436,7 @@ Abb.: अलंकारः
 ::: media
 ![](/images/lekt2406.jpg)
 Abb.: देवीप्रतिमा
+Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Bildquelle: [Details](/licenses#lekt2406))
 :::
 
@@ -1371,6 +1476,7 @@ davon
 ::: media
 ![](/images/lekt2407.jpg)
 Abb.: ऊहापोहः
+"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
 (Bildquelle: [Details](/licenses#lekt2407))
 :::
 
@@ -1392,6 +1498,7 @@ davon:
 ::: media
 ![](/images/lekt2408.jpg)
 Abb.: आख्यानम्
+"San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
 (Bildquelle: [Details](/licenses#lekt2408))
 :::
 
@@ -1423,6 +1530,7 @@ davon:
 ::: media
 ![](/images/lekt2411.jpg)
 Abb.: जयदेवकविर्विष्णुं नमस्करोति
+Manuskript des गीतगोविन्द, 1730 n. Chr.
 (Bildquelle: [Details](/licenses#lekt2411))
 :::
 
@@ -1437,23 +1545,29 @@ Abb.: जयदेवकविर्विष्णुं नमस्करो�
 
 
 
-त्यज् 1P त्यजति  verlassen, aufgeben, im Stich lassen
 
-> Fut. त्यक्ष्यति  
-> Pass. त्यज्यते  
-> PPP त्यक्त  
-> Inf. त्यक्तुम्  
-> Absol. 2: -त्यज्य
-> 
-> davon:
-> 
-> त्याग m.: Aufgeben, Verzicht, Meiden
+
+
+
+त्यज् 1P त्यजति  verlassen, aufgeben, im Stich lassen
+
+::: indent
+Fut. त्यक्ष्यति  
+Pass. त्यज्यते  
+PPP त्यक्त  
+Inf. त्यक्तुम्  
+Absol. 2: -त्यज्य
+
+davon:
+
+त्याग m.: Aufgeben, Verzicht, Meiden
+:::
 
 दार m. pl. (!!!): Ehefrau
 
 द्रव्य n.: Gegenstand, Habe, materieller Besitz, Geld
 
-धान्य n.:  gedroschenes Getreide
+धान्य n.:  gedroschenes Getreide
 
 ::: media
 ![](/images/lekt2501.jpg)
@@ -1464,34 +1578,40 @@ Abb.: धान्यम्
 
 धृ 1U धरति : halten, festhalten
 
-> Fut. धरिष्यति  
-> Pass. ध्रियते  
-> PPP धृत  
-> Inf. धर्तुम्  
-> Absol. 2: -धृत्य
-> 
-> davon:
-> 
-> धर्म m.: das, was fest ist und fest hält = Dharma
+::: indent
+Fut. धरिष्यति  
+Pass. ध्रियते  
+PPP धृत  
+Inf. धर्तुम्  
+Absol. 2: -धृत्य
+
+davon:
+
+धर्म m.: das, was fest ist und fest hält = Dharma
+:::
 
 नित्य ३ : ständig, beständig, ewig
 
-> नित्यम् Adv.: stets, beständig immer
+::: indent
+नित्यम् Adv.: stets, beständig immer
+:::
 
-प्रज्ञा f.:  Weisheit, Erkenntnis
+प्रज्ञा f.:  Weisheit, Erkenntnis
 
 प्रदान n.: Geben, Spenden ; Gabe, Spende
 
 मद् 4 P माद्यति (!) : sich freuen, sich an etwas (Instr., Gen., Lok.) berauschen
 
-> Fut. मदिष्यति  
-> Pass. मद्यते  
-> PPP मत्त  
-> Inf. मदितुम्
-> 
-> davon:
-> 
-> मद m.: Rausch, Sinnenrausch = Sinneslust
+::: indent
+Fut. मदिष्यति  
+Pass. मद्यते  
+PPP मत्त  
+Inf. मदितुम्
+
+davon:
+
+मद m.: Rausch, Sinnenrausch = Sinneslust
+:::
 
 मान m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
 
@@ -1503,10 +1623,12 @@ Abb.: धान्यम्
 
 या 2P याति, यान्ति = गम्
 
-> Pass. यायते  
-> PPP यात  
-> Inf. यातुम्  
-> Absol. 2: -याय
+::: indent
+Pass. यायते  
+PPP यात  
+Inf. यातुम्  
+Absol. 2: -याय
+:::
 
 दारिद्र्य n. = दरिद्रस्य भावः
 
@@ -1514,13 +1636,15 @@ Abb.: धान्यम्
 
 शास् 2P शास्ति, शासति (3. pl.) : befehlen, lehren, bestrafen
 
-> Pass. शिष्यते  
-> PPP शिष्ट ३ : gelehrt  
-> Absol 1.: शासित्वा / शिष्त्वा
-> 
-> davon:
-> 
-> शिक्षा f.: Wissenschaft, Unterricht ; Phonetik
+::: indent
+Pass. शिष्यते  
+PPP शिष्ट ३ : gelehrt  
+Absol 1.: शासित्वा / शिष्त्वा
+
+davon:
+
+शिक्षा f.: Wissenschaft, Unterricht ; Phonetik
+:::
 
 स्तेन m.: Dieb
 
@@ -1528,7 +1652,7 @@ Abb.: धान्यम्
 
 किल्बिष n.: Schuld, Beleidigung, Sünde
 
-विना Postposition: ohne, außer (mit  Akk., Instr., Abl.)
+विना Postposition: ohne, außer (mit  Akk., Instr., Abl.)
 
 मूल n.: Wurzel
 
@@ -1541,37 +1665,41 @@ Abb.: मूलानि
 
 लिप् 6U लिम्पति (!): bestreichen, beschmieren
 
-> Fut. लेप्स्यति  
-> Pass. लिप्यते  
-> PPP लिप्त  
-> Inf. लेप्तुम्
-> 
-> davon:
-> 
-> लिप्ति f.: Bestreichen, Schreiben, Schrift
-> 
-> ::: media
-> ![](/images/lekt2503.jpg)
-> Abb.: लिप्तिः
-> (Bildquelle: [Details](/licenses#lekt2503))
-> :::
+::: indent
+Fut. लेप्स्यति  
+Pass. लिप्यते  
+PPP लिप्त  
+Inf. लेप्तुम्
+
+davon:
+
+लिप्ति f.: Bestreichen, Schreiben, Schrift
+:::
+
+::: media
+![](/images/lekt2503.jpg)
+Abb.: लिप्तिः
+(Bildquelle: [Details](/licenses#lekt2503))
+:::
 
 
 वर्ष n.,m.: Regen, Regenzeit, Jahr
 
 वह् 1U वहति : führen, fahren, wehen (Wind)
 
-> Fut. वक्ष्यति  
-> Pass. उह्यते  
-> PPP ऊढ  
-> Inf. वोढुम्  
-> Absol 2: -उह्य
-> 
-> वह् + वि 1P विवहति : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten
-> 
-> davon:
-> 
-> &gt; विवाह m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+::: indent
+Fut. वक्ष्यति  
+Pass. उह्यते  
+PPP ऊढ  
+Inf. वोढुम्  
+Absol 2: -उह्य
+
+वह् + वि 1P विवहति : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten
+
+davon:
+
+विवाह m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+:::
 
 ::: media
 ![](/images/lekt2504.jpg)
@@ -1582,9 +1710,11 @@ Abb.: विवाहः
 
 नी + वि 1U विनयति : wegführen, unterrichten, erziehen
 
-> davon:
-> 
-> विनय m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht
+::: indent
+davon:
+
+विनय m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht
+:::
 
 विज्ञान n.: Erkenntnis, Kenntnis
 
@@ -1599,14 +1729,16 @@ Abb.: विष्टिः
 
 वृध् 1Ā वर्धते : wachsen, größer werden
 
-> Fut. वर्धिष्यते  
-> Pass. वृध्यते  
-> PPP वृद्ध : erwachsen, alte, vermehrt  
-> Inf. वर्धितुम्
-> 
-> davon:
-> 
-> वृद्धि f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti)
+::: indent
+Fut. वर्धिष्यते  
+Pass. वृध्यते  
+PPP वृद्ध : erwachsen, alte, vermehrt  
+Inf. वर्धितुम्
+
+davon:
+
+वृद्धि f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti)
+:::
 
 सामर्थ्य n.: das seinem Zweck Entsprechen
 
@@ -1628,6 +1760,10 @@ Abb.: हिरण्यम्
 गोदान n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein संस्कार)
 
 ## Lektion 27
+
+
+
+
 
 
 
@@ -1662,6 +1798,7 @@ davon:
 ::: media
 ![](/images/lekt2706.jpg)
 Abb.: वस्त्राणि
+Vastrāṇi. Majuli, Assam.
 (Bildquelle: [Details](/licenses#lekt2706))
 :::
 
@@ -1676,6 +1813,7 @@ Abb.: वस्त्राणि
 ::: media
 ![](/images/lekt2707.jpg)
 Abb.: वसन्तः
+Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Bildquelle: [Details](/licenses#lekt2707))
 :::
 
@@ -1700,12 +1838,14 @@ Gegenstück zu **हर**:
 ::: media
 ![](/images/lekt2704.jpg)
 Abb.: हरिहरः
+Harihara (links: Viṣṇu, rechts: Śiva).
 (Bildquelle: [Details](/licenses#lekt2704))
 :::
 
 ::: media
 ![](/images/lekt2705.jpg)
 Abb.: हरिहरः
+Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
 (Bildquelle: [Details](/licenses#lekt2705))
 :::
 
@@ -1713,6 +1853,11 @@ Abb.: हरिहरः
 
 
 
+
+
+
+
+::: indent
 **विद्** 2P **वेत्ति**, **विदन्ति**: wissen, kennen
 Fut. **vediṣyati**
 Pass. **vidyate**
@@ -1720,24 +1865,31 @@ Kaus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
 davon: **vidyā** f., **veda** m.
+:::
 
+::: indent
 **विद्** 6U **विन्दति** (!): finden
 Fut. **vediṣyati** / **vetsyat**
 Pass. **vidyate**: es gibt, es ist vorhanden
 Kaus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
+:::
 
+::: indent
 **i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
 Kaus. **adhyāpayati**: studieren lassen, unterrichten
 davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+:::
 
+::: indent
 **कम्** 10Ā **कामयते**: lieben
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Kaus. **kāmayati**
 PPP **kānta** (!)
 Inf. **kāmayitum** / **kamitum**
+:::
 
 ::: media
 ![](/images/lekt2804.jpg)
@@ -1746,22 +1898,27 @@ Gemälde von राजा रवि वर्मा (1848 - 1906)
 (Bildquelle: [Details](/licenses#lekt2804))
 :::
 
+::: indent
 **चुर्** 10 **चोरयति**: stehlen
 Fut. **corayiṣyati**
 Pass. **coryate**
 Kaus. **corayati**
 PPP **corita**
 Inf. **coritum**
+:::
 
+::: indent
 **Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
 **dṛś** — **darśayati**: zeigen
 **man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
 **vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
 **vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
+:::
 
 ::: media
 ![](/images/lekt2803.jpg)
 Abb.: वीणां वादयति
+Vīṇā-Spielerin.
 (Bildquelle: [Details](/licenses#lekt2803))
 :::
 
@@ -1770,6 +1927,7 @@ Abb.: वीणां वादयति
 ::: media
 ![](/images/lekt2805.jpg)
 Abb.: बाला भारं हरति
+Mädchen trägt Last. Bei Ahmedabad.
 (Bildquelle: [Details](/licenses#lekt2805))
 :::
 
@@ -1778,6 +1936,10 @@ Abb.: बाला भारं हरति
 ---
 
 ## Lektion 29
+
+
+
+
 
 
 
@@ -1816,6 +1978,7 @@ Inf. ग्रसितुम्
 ::: media
 ![](/images/lekt2903.jpg)
 Abb.: परिव्राजकाः
+Pushkar = पुष्कर
 (Bildquelle: [Details](/licenses#lekt2903))
 :::
 
@@ -1835,6 +1998,7 @@ davon:
 ::: media
 ![](/images/lekt2901.jpg)
 Abb.: मत्स्यः
+रोहू मछली = Labeo rohita Hamilton
 (Bildquelle: [Details](/licenses#lekt2901))
 :::
 
@@ -1866,6 +2030,10 @@ PPP पूजित
 
 
 
+
+
+
+
 क्री 9U क्रीणाति : kaufen
 
 ::: indent
@@ -1884,6 +2052,7 @@ Absol. विक्रीय
 ::: media
 ![](/images/lekt3001.jpg)
 Abb.: क्रीणन्ति विक्रीणते च
+Bundi = बुन्दी, Rajasthan = राजस्थान
 (Bildquelle: [Details](/licenses#lekt3001))
 :::
 
@@ -1907,6 +2076,7 @@ davon:
 ::: media
 ![](/images/lekt3002.jpg)
 Abb.: ज्ञातयः
+Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र
 (Bildquelle: [Details](/licenses#lekt3002))
 :::
 
@@ -1939,6 +2109,7 @@ Inf. अशितुम्
 ::: media
 ![](/images/lekt3005.jpg)
 Abb.: अश्नीयात्
+थाली, Südindien
 (Bildquelle: [Details](/licenses#lekt3005))
 :::
 
@@ -2000,6 +2171,10 @@ davon:
 
 
 
+
+
+
+
 **युज्** 7U **युनक्ति** : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, सप्तमी)
 ::: indent
 **Fut. योक्ष्यति**
@@ -2023,6 +2198,7 @@ Das **कलियुग** begann um 3102 v. Chr., dem Jahr des **महाभ�
 ::: media
 ![](/images/lekt3101.jpg)
 Abb.: योगः
+Yoga-Darstellung.
 (Bildquelle: [Details](/licenses#lekt3101))
 :::
 
@@ -2071,6 +2247,7 @@ davon:
 ::: media
 ![](/images/lekt3102.jpg)
 Abb.: व्यञ्जनम्
+Vorbereitung zum Kathakali-Tanz, Kochi.
 (Bildquelle: [Details](/licenses#lekt3102))
 :::
 
@@ -2116,6 +2293,7 @@ davon:
 ::: media
 ![](/images/lekt3103.jpg)
 Abb.: प्रज्ञापारमिता
+Aus einem Prajñāpāramitā-Manuskript.
 (Bildquelle: [Details](/licenses#lekt3103))
 :::
 
@@ -2124,6 +2302,10 @@ Abb.: प्रज्ञापारमिता
 **शरीर n.:** Leib, Körper
 
 ## Lektion 32
+
+
+
+
 
 
 
@@ -2151,6 +2333,7 @@ Abb.: प्रज्ञापारमिता
 ::: media
 ![](/images/lekt3202.jpg)
 Abb.: चूतः
+Mangobaum, Kanpur.
 (Bildquelle: [Details](/licenses#lekt3202))
 :::
 
@@ -2187,6 +2370,7 @@ Abb.: चूतः
 ::: media
 ![](/images/lekt3203.jpg)
 Abb.: वानराः
+Affen (rhesus macaques) in Delhi.
 (Bildquelle: [Details](/licenses#lekt3203))
 :::
 
@@ -2208,6 +2392,7 @@ Abb.: वानराः
 ::: media
 ![](/images/lekt3204.jpg)
 Abb.: उपलाः
+Stone quarry south of Pune, Maharashtra.
 (Bildquelle: [Details](/licenses#lekt3204))
 :::
 
@@ -2216,6 +2401,7 @@ Abb.: उपलाः
 ::: media
 ![](/images/lekt3205.jpg)
 Abb.: लक्ष्यम्
+Target practice / arrow target, Karnataka.
 (Bildquelle: [Details](/licenses#lekt3205))
 :::
 
@@ -2242,6 +2428,7 @@ Abb.: लक्ष्यम्
 ::: media
 ![](/images/lekt3207.jpg)
 Abb.: चितं गोमयं दहति
+Burning cowdung patties in Rajasthan.
 (Bildquelle: [Details](/licenses#lekt3207))
 :::
 
@@ -2256,10 +2443,15 @@ Abb.: चितं गोमयं दहति
 ::: media
 ![](/images/lekt3206.jpg)
 Abb.: कौशलम्
+Mehndi painting on hands in Mumbai.
 (Bildquelle: [Details](/licenses#lekt3206))
 :::
 
 ## Lektion 33
+
+
+
+
 
 
 
@@ -2437,6 +2629,10 @@ Abb.: घृतमग्नौ जुहोति
 
 
 
+
+
+
+
 **क्षिति f. = पृथ्वी = मही = भूमी**
 
 **शस्य = सस्य n. sg. u. pl.:** Saat, Feldfrucht, Getreide
@@ -2444,6 +2640,7 @@ Abb.: घृतमग्नौ जुहोति
 ::: media
 ![](/images/lekt3406.jpg)
 Abb.: सस्यम्
+Rice field in India.
 (Bildquelle: [Details](/licenses#lekt3406))
 :::
 
@@ -2458,6 +2655,7 @@ Abb.: सस्यम्
 ::: media
 ![](/images/lekt3405.jpg)
 Abb.: लक्षद्वीपाः
+Lakshadweep Islands Map.
 (Bildquelle: [Details](/licenses#lekt3405))
 :::
 
@@ -2468,12 +2666,14 @@ Abb.: लक्षद्वीपाः
 ::: media
 ![](/images/lekt3403.jpg)
 Abb.: तिलाः
+Sesame seeds.
 (Bildquelle: [Details](/licenses#lekt3403))
 :::
 
 ::: media
 ![](/images/lekt3404.jpg)
 Abb.: *Sesamum indicum* L.
+Sesame plant flowering.
 (Bildquelle: [Details](/licenses#lekt3404))
 :::
 
@@ -2482,6 +2682,7 @@ Abb.: *Sesamum indicum* L.
 ::: media
 ![](/images/lekt3402.jpg)
 Abb.: स्वर्णम्
+Golden Temple (Harmandir Sahib), Amritsar.
 (Bildquelle: [Details](/licenses#lekt3402))
 :::
 
@@ -2498,6 +2699,7 @@ Abb.: स्वर्णम्
 ::: media
 ![](/images/lekt3401.jpg)
 Abb.: ऋषभः
+Nandi Bull statue, Chamundi Hills, Mysore.
 (Bildquelle: [Details](/licenses#lekt3401))
 :::
 
@@ -2510,6 +2712,10 @@ Abb.: ऋषभः
 **कन्या f.:** Mädchen, Jungfrau
 
 ## Lektion 35
+
+
+
+
 
 
 
@@ -2537,6 +2743,7 @@ Abb.: ऋषभः
 ::: media
 ![](/images/lekt3502.jpg)
 Abb.: क्रामन्ति
+People walking, Senegal.
 (Bildquelle: [Details](/licenses#lekt3502))
 :::
 
@@ -2556,10 +2763,15 @@ davon:
 ::: media
 ![](/images/lekt3501.jpg)
 Abb.: जगुः
+Temple musicians Kaadu Malleswara Temple Bangalore.
 (Bildquelle: [Details](/licenses#lekt3501))
 :::
 
 ## Lektion 36
+
+
+
+
 
 
 
@@ -2729,6 +2941,10 @@ Abb.: लोमहर्षः
 
 
 
+
+
+
+
 मूर्ख 3: stumpfsinnig, blöd, dumm m. Dummkopf
 
 मुनि m.: Weiser, (Schweige)asket
@@ -2756,6 +2972,10 @@ Abb.: वृक्षः
 मुख n.: Mund, Gesicht, Vorderteil, Anfang
 
 ## Lektion 38
+
+
+
+
 
 
 
@@ -2902,6 +3122,10 @@ Abb.: अशोकसाम्राज्यम्
 
 
 
+
+
+
+
 पात्र n.: Ehrwürdiger, Meister, Würdiger
 
 मेधा f.: Weisheit, Verstand, Gedanke
@@ -3016,6 +3240,10 @@ Abb.: स्वपन्ति
 
 
 
+
+
+
+
 मूर्ख m = मूढ
 
 भुजङ्ग m.: Schlange
@@ -3095,7 +3323,43 @@ s. dazu:
 PPP **अतीत** : n. Vergangenheit
 :::
 
+::: deleteme-box
+s. dazu:
+
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+:::
+
+कन्या f.: junges Mädchen, Tochter, Jungfrau
+
+अति Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
+
+इ + अति 2P अत्येति : vorübergehen
+
+::: indent
+PPP **अतीत** : n. Vergangenheit
+:::
+
+::: deleteme-box
+s. dazu:
+
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+:::
+
+कन्या f.: junges Mädchen, Tochter, Jungfrau
+
+अति Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
+
+इ + अति 2P अत्येति : vorübergehen
+
+::: indent
+PPP **अतीत** : n. Vergangenheit
+:::
+
 ## Lektion 42
+
+
+
+
 
 
 
@@ -3232,6 +3496,10 @@ Beiden werden Riten vollzogen, sog. श्राद्ध n. Täglich werden je 
 
 
 
+
+
+
+
 ज्ञा + आ Kausativ आज्ञापयति : befehlen, anordnen
 
 आपण m.: Markt
@@ -3356,6 +3624,10 @@ Inf. द्रोतुम्
 आनन्द m.: Wonne, Freude
 
 ## Lektion 44
+
+
+
+
 
 
 
@@ -3514,13 +3786,45 @@ Abb.: प्रव्रअज्या / पब्बजा
 (Bildquelle: [Details](/licenses#lekt4408))
 :::
 
+::: deleteme-box
+Siehe:
+
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+:::
+
+::: media
+![](/images/lekt4408.jpg)
+Abb.: प्रव्रअज्या / पब्बजा
+(Bildquelle: [Details](/licenses#lekt4408))
+:::
+
+::: deleteme-box
+Siehe:
+
+**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+:::
+
+::: media
+![](/images/lekt4408.jpg)
+Abb.: प्रव्रअज्या / पब्बजा
+(Bildquelle: [Details](/licenses#lekt4408))
+:::
+
 ## Lektion 45
+
+
+
+
 
 
 
 वा ... वा : entweder ... oder
 
 ## Lektion 46
+
+
+
+
 
 
 
@@ -3781,6 +4085,10 @@ Abb.: [भोः](/licenses#lekt4611)
 
 
 
+
+
+
+
 श्वस् : morgen
 
 अद्य : heute
@@ -3794,12 +4102,14 @@ Abb.: [भोः](/licenses#lekt4611)
 ::: media
 ![](/images/lekt4802.jpg)
 Abb.: तन्त्रम्
+Sualkuchi = সুৱালকুচি, Assam = অসম
 (Bildquelle: [Details](/licenses#lekt4802))
 :::
 
 ::: media
 ![](/images/lekt4803.jpg)
 Abb.: तन्त्री
+Sitarspieler = सितारवादकः
 (Bildquelle: [Details](/licenses#lekt4803))
 :::
 
@@ -3823,6 +4133,7 @@ Deklination:
 ::: media
 ![](/images/lekt4804.jpg)
 Abb.: स्वतन्त्राः स्त्रियः
+[Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Bildquelle: [Details](/licenses#lekt4804))
 :::
 
@@ -3835,6 +4146,7 @@ Abb.: स्वतन्त्राः स्त्रियः
 ::: media
 ![](/images/lekt4805.jpg)
 Abb.: कुमारः
+Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
 (Bildquelle: [Details](/licenses#lekt4805))
 :::
 
@@ -3843,6 +4155,7 @@ Abb.: कुमारः
 ::: media
 ![](/images/lekt4806.jpg)
 Abb.: कुमारी
+नेपाल
 (Bildquelle: [Details](/licenses#lekt4806))
 :::
 
@@ -3855,6 +4168,7 @@ Abb.: कुमारी
 ::: media
 ![](/images/lekt4807.jpg)
 Abb.: स्थविराः
+जोधपुर
 (Bildquelle: [Details](/licenses#lekt4807))
 :::
 
@@ -3867,6 +4181,7 @@ Abb.: स्थविराः
 ::: media
 ![](/images/lekt4808.jpg)
 Abb.: सूक्ष्मम्
+Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 (Bildquelle: [Details](/licenses#lekt4808))
 :::
 
@@ -3883,10 +4198,15 @@ Abb.: सूक्ष्मम्
 ::: media
 ![](/images/lekt4809.jpg)
 Abb.: मम जाया
+(Bild: Payer)
 (Bildquelle: [Details](/licenses#lekt4809))
 :::
 
 ## Lektion 49
+
+
+
+
 
 
 
@@ -3959,6 +4279,7 @@ Abb.: कुलूहलम्
 ::: media
 ![](/images/lekt4902.jpg)
 Abb.: उत्तमा काला
+शिवो नटराजा, 11. Jhdt.
 (Bildquelle: [Details](/licenses#lekt4902))
 :::
 वर m.n.: Wunsch
@@ -3977,6 +4298,7 @@ Abb.: विहंगः
 ::: media
 ![](/images/lekt4904.jpg)
 Abb.: वेषः
+वाराणस्याम्
 (Bildquelle: [Details](/licenses#lekt4904))
 :::
 छन्न n.: Decke, Versteck
@@ -3986,6 +4308,7 @@ Abb.: वेषः
 ::: media
 ![](/images/lekt4909.jpg)
 Abb.: पञ्जरम्
+Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore
 (Bildquelle: [Details](/licenses#lekt4909))
 :::
 चाण्डाल । चण्डाल m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
@@ -4013,6 +4336,7 @@ Gerundiv ध्येय
 ::: media
 ![](/images/lekt4905.jpg)
 Abb.: सादरः
+Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Bildquelle: [Details](/licenses#lekt4905))
 :::
 कुतुक n. = कुलूहल n.
@@ -4024,10 +4348,15 @@ Abb.: सादरः
 ::: media
 ![](/images/lekt4906.jpg)
 Abb.: गजशिशुः
+Sri Lanka
 (Bildquelle: [Details](/licenses#lekt4906))
 :::
 
 ## Lektion 50
+
+
+
+
 
 
 
@@ -4044,6 +4373,7 @@ Abb.: गजशिशुः
 ::: media
 ![](/images/lekt5001.jpg)
 Abb.: मन्त्री
+Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
 (Bildquelle: [Details](/licenses#lekt5001))
 :::
 रहस् n.: Geheimnis, Einsamkeit
@@ -4088,6 +4418,7 @@ Absol.-वृष्य
 ::: media
 ![](/images/lekt5002.jpg)
 Abb.: महामेघो वर्षिष्यति
+Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt5002))
 :::
 संयक् Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
@@ -4134,6 +4465,7 @@ Abb.: कल्याणी
 ::: media
 ![](/images/lekt5004.jpg)
 Abb.: कुनगरम्
+धारावी, मुंबई
 (Bildquelle: [Details](/licenses#lekt5004))
 :::
 चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : sehen
@@ -4148,6 +4480,10 @@ in den übrigen Tempora nicht verwendet
 देश m.: Ort, Platz, Land, Gegend
 
 ## Lektion 51
+
+
+
+
 
 
 
@@ -4187,6 +4523,7 @@ Abb.: ऋतुः
 ::: media
 ![](/images/lekt5107.jpg)
 Abb.: जटा
+ऋषिकेश
 (Bildquelle: [Details](/licenses#lekt5107))
 :::
 तुल्य 3: gleich, vergleichbar (तृतीयया)
@@ -4241,6 +4578,7 @@ PPP गर्हित
 ::: media
 ![](/images/lekt5108.jpg)
 Abb.: पिशितम्
+Kolkata = কলকাতা
 (Bildquelle: [Details](/licenses#lekt5108))
 :::
 उपहार m.: Darbringung, Opfer, Geschenk
@@ -4250,6 +4588,7 @@ Abb.: पिशितम्
 ::: media
 ![](/images/lekt5109.jpg)
 Abb.: मधु
+City Palace, उदयपुर
 (Bildquelle: [Details](/licenses#lekt5109))
 :::
 मांस n.: Fleisch
@@ -4259,6 +4598,7 @@ Abb.: मधु
 ::: media
 ![](/images/lekt5110.jpg)
 Abb.: मृगया
+Jagd mit चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Bildquelle: [Details](/licenses#lekt5110))
 :::
 शिवा f.: (weibl.) Schakal (Goldschakal = _Canis aureus_)
@@ -4266,6 +4606,7 @@ Abb.: मृगया
 ::: media
 ![](/images/lekt5111.jpg)
 Abb.: शिवा
+_Canis aureus_, Kalatop Khajjiar Sanctuary
 (Bildquelle: [Details](/licenses#lekt5111))
 :::
 रुत n.: Geschrei
@@ -4275,6 +4616,7 @@ Abb.: शिवा
 ::: media
 ![](/images/lekt5112.jpg)
 Abb.: कौशिकः
+Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
 (Bildquelle: [Details](/licenses#lekt5112))
 :::
 शकुनि m.: Vogel
@@ -4290,6 +4632,7 @@ schwacher Stamm vor Konsonant श्व
 ::: media
 ![](/images/lekt5113.jpg)
 Abb.: श्वा लिङ्गं च
+Karnataka = ಕರ್ನಾಟಕ
 (Bildquelle: [Details](/licenses#lekt5113))
 :::
 परिचित 3: vertraut, bekannt
@@ -4303,6 +4646,7 @@ Abb.: श्वा लिङ्गं च
 ::: media
 ![](/images/lekt5114.jpg)
 Abb.: आपानकम्
+जोधपुर
 (Bildquelle: [Details](/licenses#lekt5114))
 :::
 क्रूर 3: roh, grausam
@@ -4322,6 +4666,7 @@ PPP दिग्ध
 ::: media
 ![](/images/lekt5115.jpg)
 Abb.: मूषिकाविषाणि
+Bangalore = ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt5115))
 :::
 भुजंग m.: Schlange
@@ -4329,6 +4674,7 @@ Abb.: मूषिकाविषाणि
 ::: media
 ![](/images/lekt5116.jpg)
 Abb.: भुजंगः
+Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt5116))
 :::
 सायक m.: Pfeil
@@ -4354,6 +4700,7 @@ Abb.: भुजंगः
 ::: media
 ![](/images/lekt5118.jpg)
 Abb.: मणिः
+Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC
 (Bildquelle: [Details](/licenses#lekt5118))
 :::
 वन n.: Wald
@@ -4389,6 +4736,10 @@ Absol खनित्वा । खात्वा
 
 
 
+
+
+
+
 अखिल 3: lückenlos, ganz
 
 निखिल 3: vollständig, ganz
@@ -4402,6 +4753,7 @@ von:
 ::: media
 ![](/images/lekt5210.jpg)
 Abb.: खिलः
+Tambhol, Akole, Ahmednagar = अहमदनगर
 (Bildquelle: [Details](/licenses#lekt5210))
 :::
 अन्तर् Adv.: innen, im Innern ; Postposition mit Gen. Lok. (षष्टी, सप्तमी): innerhalb, inmitten ; Postposition mit Gen. Abl. (षष्ठी, पञ्चमी): aus ... heraus
@@ -4435,6 +4787,7 @@ PPP विपरीत 3: verkehrt, falsch
 ::: media
 ![](/images/lekt5212.jpg)
 Abb.: पीडिताः
+Hyderabad = హైదరాబాద్
 (Bildquelle: [Details](/licenses#lekt5212))
 :::
 पर 3: (Deklination wie सर्व) fernstehend, fremd, höher als (पञ्चम्या), äußerster, höchster ; anderer, fremder, feindlich ; m.: Fremder
@@ -4452,6 +4805,7 @@ davon:
 ::: media
 ![](/images/lekt5213.jpg)
 Abb.: प्रधानः
+मुंबई
 (Bildquelle: [Details](/licenses#lekt5213))
 :::
 लौल्य n.: Gier, Lüsternheit
@@ -4561,6 +4915,7 @@ PPP च्युत
 ::: media
 ![](/images/lekt5214.jpg)
 Abb.: चक्रम्
+Konark = कोनार्क
 (Bildquelle: [Details](/licenses#lekt5214))
 :::
 कदली f.: Bananenbaum (_Musa_ sp.)
@@ -4568,6 +4923,7 @@ Abb.: चक्रम्
 ::: media
 ![](/images/lekt5208.jpg)
 Abb.: कदली
+Hampi = ಹಂಪೆ
 (Bildquelle: [Details](/licenses#lekt5208))
 :::
 सार m.n.: Kern, Mark, Essenz, Substanz
@@ -4583,6 +4939,7 @@ Abb.: कदली
 ::: media
 ![](/images/lekt5215.jpg)
 Abb.: मलम्
+मुंबई
 (Bildquelle: [Details](/licenses#lekt5215))
 :::
 त्रिपिष्टप n.: Indras Himmel
@@ -4592,6 +4949,7 @@ Abb.: मलम्
 ::: media
 ![](/images/lekt5217.jpg)
 Abb.:
+Amaravati = అమరావతి, 2. Jhdt. n. Chr.
 (Bildquelle: [Details](/licenses#lekt5217))
 :::
 विजिज्ञासु 3: jemand, der völlig erkennen will
