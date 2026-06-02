@@ -758,6 +758,9 @@ def translate_text(text, target_lang):
         f"{best_missing[:5]}{'…' if len(best_missing) > 5 else ''}\n"
     )
     sys.stdout.flush()
+    # Fallback: if all retries produced None, use the protected text to avoid crash
+    if best_result is None:
+        best_result = protected
     result = restore_devanagari(best_result, deva_registry, _mark_skt)
     result = restore_iast_lines(result, iast_registry)
     result = restore_br(result)
