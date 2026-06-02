@@ -7,12 +7,12 @@ outline: 2
 
 :::
 
-# Wortliste (Gesamtübersicht)
+# Index verborum (conspectus totus)
 
-*Alle neuen Wörter aus dem Kurs in der Reihenfolge ihrer Einführung, mit thematischen Erläuterungen.*
+*Omnia verba nova cursus ordine quo introducta sunt, cum explicationibus thematicis.*
 
 
-## Lektion 2
+## Lectio 2
 
 
 **deva** m. -- देव : Caelestis, deus; princeps, rex.
@@ -126,7 +126,7 @@ Fig.: Sādhu (साधु), Templum Pashupatinath, Kathmandu.
 ---
 
 
-## Lektion 3
+## Lectio 3
 
 
 **Verba sequentia discite:**
@@ -193,7 +193,7 @@ Fig.: Durgā = दुर्गा, Orissa
 ---
 
 
-## Lektion 5
+## Lectio 5
 
 
 **Verba haec discere:**
@@ -242,7 +242,7 @@ Fig.: Deus Kāma = kāmadeva = कामदेव, saeculum XVIII.
 ---
 
 
-## Lektion 6
+## Lectio 6
 
 
 ::: grammar-box
@@ -269,7 +269,7 @@ In Sanscrito verba per **formam radicis** indicantur. Numerus post radicem **cla
 ---
 
 
-## Lektion 7
+## Lectio 7
 
 
 **Haec verba discere:**
@@ -299,7 +299,7 @@ Fig.: An haec fuerit planta Soma vedica?: Fungus muscarium: *Amanita muscaria* (
 ---
 
 
-## Lektion 8
+## Lectio 8
 
 
 **Verba sequentia discite:**
@@ -340,7 +340,7 @@ Fig.: **likh** (लिख्) : stilus scribendi Batacorum (Sumatra), qualis for
 ---
 
 
-## Lektion 9
+## Lectio 9
 
 
 **Verba haec discere:**
@@ -380,7 +380,7 @@ Fig.: **kāru** = कारु, Gujarat.
 ---
 
 
-## Lektion 10
+## Lectio 10
 
 
 **Haec verba discere:**
@@ -451,7 +451,7 @@ Fig.: विश्वामित्रः
 ---
 
 
-## Lektion 11
+## Lectio 11
 
 
 **Haec verba discere:**
@@ -494,7 +494,7 @@ Fig.: **vadanāni** = वदनानि
 ---
 
 
-## Lektion 12
+## Lectio 12
 
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : evigilare, ad cognitionem evigilare, cognoscere; PPP **buddha** 3 evigilatus, inde **Buddha** = "evigilatus" (non: illuminatus)
@@ -592,7 +592,7 @@ Fig.: महावीरो जिनः
 ---
 
 
-## Lektion 13
+## Lectio 13
 
 
 Sequentia verba discite:
@@ -664,7 +664,7 @@ dviṣ 2 U:
 ---
 
 
-## Lektion 14
+## Lectio 14
 
 
 * **śīla n.** (शील) : (bonus) character, moralitas
@@ -692,7 +692,7 @@ Fig.: दीपाः
   * **vāk-ya n.** (वाक्य) : verbum, oratio
 
 
-## Lektion 15
+## Lectio 15
 
 
 पुष्कल 3: pulcher, splendidus, copiosus
@@ -792,7 +792,7 @@ unde:
 :::
 
 
-## Lektion 16
+## Lectio 16
 
 
 अध्यापन n.: Docere, doctrina
@@ -859,7 +859,7 @@ Fig.: अहिंसा
 :::
 
 
-## Lektion 17
+## Lectio 17
 
 
 हन् 2 P हन्ति, घ्नन्ति Pass. हन्यते  PPP हत : verberare, occidere, interficere
@@ -923,7 +923,7 @@ quod inde:
 :::
 
 
-## Lektion 18
+## Lectio 18
 
 
 सुष्टु 3: laudatus, excellens, bonus
@@ -961,7 +961,7 @@ quod inde:
 प्रभृति f.: initium
 
 
-## Lektion 19
+## Lectio 19
 
 
 **अर्थ m.:** finis, scopum, significatio (verbi), divitiae, possessio, facultas. **अर्थम्** (Acc.), **अर्थेन** (Instr.) cum Gen. vel ut pars posterior Tatpurusha: propter ..., ut.
@@ -1078,7 +1078,7 @@ Fig.: पण्डितः जवाहरलाल नेहरू
 **हि** : enim, scilicet (numquam initio orationis ponendum)
 
 
-## Lektion 20
+## Lectio 20
 
 
 वा : aut
@@ -1184,7 +1184,7 @@ Rishikesh = ऋषिकेश. "Haec pars est ex Ashrama in Rishikesh ubi Beati
 चेष्ट् 1 Ā चेष्टते Pass. चेष्ट्यते PPP चेष्टित : se movere
 
 
-## Lektion 21
+## Lectio 21
 
 
 **भज् 1 U भजति Pass. भज्यते PPP भक्त :** alicui aliquid attribuit, concedit, aliquem amat, colit, veneratur
@@ -1242,7 +1242,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 **पच् 1 U पचति Pass. पच्यते (nullum PPP, pro quo पक्व 3: coctus, maturatus) Absol. पक्त्वा :** coquere (transitive) = coquere, fricare, tostare etc.
 
 
-## Lektion 22
+## Lectio 22
 
 
 **काम m.:** votum, desiderium; donum optatum, voluptas sensuum, amor, deus amoris
@@ -1307,7 +1307,7 @@ Goa = गोंय
 :::
 
 
-## Lektion 23
+## Lectio 23
 
 
 समान ३: aequalis
@@ -1319,7 +1319,7 @@ Goa = गोंय
 विशेष m.: peculiaritas, specificatio, differentia specifica
 
 
-## Lektion 24
+## Lectio 24
 
 
 अलम् Adverbium: satis, sufficiens, (alicui, alicui rei) par ; cum Dativo: satis pro, sufficiens pro, par ei ; cum Instrumentali: satis cum, desiste a , e.g. अलं क्रोधेन = "satis ira = desiste ab ira!"
@@ -1455,7 +1455,7 @@ Codex गीतगोविन्द, anno 1730 post Christum natum.
 पुनर् Adverb: iterum, rursus, retro, sed
 
 
-## Lektion 25
+## Lectio 25
 
 
 त्यज् 1P त्यजति  relinquere, dimittere, desere
@@ -1669,7 +1669,7 @@ Fig.: हिरण्यम्
 गोदान n.: datio vaccae / unius vaccae ; secunda ceremonia tonsionis pilorum (quoddam संस्कार)
 
 
-## Lektion 27
+## Lectio 27
 
 
 **वस्** 1P (वसति): morari, habitare (cum locativo personae, apud quam habitat)
@@ -1755,7 +1755,7 @@ Harihara (sinistra: Viṣṇu, dextra: Śiva). Godrumdwip, Bengal Occidentalis.
 :::
 
 
-## Lektion 28
+## Lectio 28
 
 
 ::: indent
@@ -1837,7 +1837,7 @@ Puella onus gerit. Apud Ahmedabad.
 ---
 
 
-## Lektion 29
+## Lectio 29
 
 
 Praefixa:
@@ -1924,7 +1924,7 @@ PPP पूजित
 :::
 
 
-## Lektion 30
+## Lectio 30
 
 
 क्री 9U क्रीणाति : emere
@@ -2061,7 +2061,7 @@ ex quo:
 सनातन ३ fem.: सनातनी : aeternus, incorruptus, stabilis
 
 
-## Lektion 31
+## Lectio 31
 
 
 **युज्** 7U **युनक्ति** : iungere, iugum imponere, intendere, firmare; Ā quoque: intendere (= se exercere), coniungere cum, intendere ad (Locativus, सप्तमी)
@@ -2191,7 +2191,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 **शरीर n.:** corpus, corpus
 
 
-## Lektion 32
+## Lectio 32
 
 
 **अग्र n.:** apicem, extremum finem
@@ -2333,7 +2333,7 @@ Pictura mehndi in manibus in Mumbai.
 :::
 
 
-## Lektion 33
+## Lectio 33
 
 
 **दा** 3U **ददाति**: dare
@@ -2508,7 +2508,7 @@ Fig.: घृतमग्नौ जुहोति
 :::
 
 
-## Lektion 35
+## Lectio 35
 
 
 **नश्** 4P **नश्यति** : perire, interire, evanescere
@@ -2560,7 +2560,7 @@ Musici templi Kaadu Malleswara Temple Bangalore.
 :::
 
 
-## Lektion 36
+## Lectio 36
 
 
 अह् P tantum Perfektum cum sensu praesentis आह, आहुर् : dicere, loqui
@@ -2726,7 +2726,7 @@ Fig.: लोमहर्षः
 स्वक 3: proprius (meus, tuus ...) ; m.: membrum
 
 
-## Lektion 37
+## Lectio 37
 
 
 मूर्ख 3: hebes, stolidus, stultus m. stultus
@@ -2756,7 +2756,7 @@ Fig.: वृक्षः
 मुख n.: os, facies, pars anterior, initium
 
 
-## Lektion 38
+## Lectio 38
 
 
 सूर्य m.: Sol, deus Solis Sūrya
@@ -2899,7 +2899,7 @@ Fig.: अशोकसाम्राज्यम्
 :::
 
 
-## Lektion 40
+## Lectio 40
 
 
 पात्र n.: Venerabilis, Magister, Dignus
@@ -3013,7 +3013,7 @@ Fig.: स्वपन्ति
 :::
 
 
-## Lektion 41
+## Lectio 41
 
 
 मूर्ख m = मूढ
@@ -3096,7 +3096,7 @@ PPP **अतीत** : n. praeteritum
 :::
 
 
-## Lektion 42
+## Lectio 42
 
 
 प्रकृति f.: (ad कृ + प्र) radix, status naturalis, natura; materia prima, elementum
@@ -3229,7 +3229,7 @@ His ritus peraguntur, scilicet श्राद्ध n. Quotidie tribus masculis
 मातामही f.: Avia materna
 
 
-## Lektion 43
+## Lectio 43
 
 
 ज्ञा + आ Causativum आज्ञापयति : iubere, imperare
@@ -3356,7 +3356,7 @@ Inf. द्रोतुम्
 आनन्द m.: voluptas, gaudium
 
 
-## Lektion 44
+## Lectio 44
 
 
 प्रति Praefixum: retro, contra, adversus - pro
@@ -3515,13 +3515,13 @@ Fig.: प्रव्रअज्या / पब्बजा
 :::
 
 
-## Lektion 45
+## Lectio 45
 
 
 वा ... वा : sive ... sive
 
 
-## Lektion 46
+## Lectio 46
 
 
 सम 3: aequalis, idem, similis
@@ -3778,7 +3778,7 @@ Fig.: [भोः](/la/licenses#lekt4611)
 :::
 
 
-## Lektion 48
+## Lectio 48
 
 
 श्वस् : cras
@@ -3895,7 +3895,7 @@ Fig.: मम जाया
 :::
 
 
-## Lektion 49
+## Lectio 49
 
 
 दीर्घ 3: longus, -a, -um
@@ -4041,7 +4041,7 @@ Sri Lanka
 :::
 
 
-## Lektion 50
+## Lectio 50
 
 
 ध्रुव 3: firmus, immutabilis
@@ -4164,7 +4164,7 @@ in ceteris temporibus non adhibitus
 देश m.: locus, spatium, terra, regio
 
 
-## Lektion 51
+## Lectio 51
 
 
 अजिन n.: pellis antilocaprae, praecipue pellis antilocaprae nigrae (antilocapra cervicapra: _Antilope cervicapra_ L. ). In toto subcontinente indico oriebatur, a Punjab et Sind usque ad Bengalam et a Nepalia usque ad Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Vide:
@@ -4411,7 +4411,7 @@ Absol. खनित्वा । खात्वा
 शबर .:  nomen proprium non-ariani populi
 
 
-## Lektion 52
+## Lectio 52
 
 
 अखिल 3: absque lacuna, totus

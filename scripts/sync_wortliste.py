@@ -67,6 +67,36 @@ LANG_LABELS = {
         "subtitle": "पाठ्यक्रम के सभी नए शब्द उनके परिचय के क्रम में, विषयगत स्पष्टीकरणों के साथ।",
         "lektion_prefix": "पाठ",
     },
+    "bg": {
+        "title": "Речник (пълен преглед)",
+        "subtitle": "Всички нови думи от курса в реда на въвеждането им, с тематични обяснения.",
+        "lektion_prefix": "Урок",
+    },
+    "ru": {
+        "title": "Список слов (полный обзор)",
+        "subtitle": "Все новые слова курса в порядке их введения, с тематическими пояснениями.",
+        "lektion_prefix": "Лекция",
+    },
+    "uk": {
+        "title": "Список слів (повний огляд)",
+        "subtitle": "Усі нові слова курсу в порядку їх введення, з тематичними поясненнями.",
+        "lektion_prefix": "Лекція",
+    },
+    "la": {
+        "title": "Index verborum (conspectus totus)",
+        "subtitle": "Omnia verba nova cursus ordine quo introducta sunt, cum explicationibus thematicis.",
+        "lektion_prefix": "Lectio",
+    },
+    "rm": {
+        "title": "Glista da pleds (survista completta)",
+        "subtitle": "Tut ils pleds novs dal curs en l'urden da lur introducziun, cun explicaziuns tematicas.",
+        "lektion_prefix": "Lecziun",
+    },
+    "ro": {
+        "title": "Lista de cuvinte (prezentare generală)",
+        "subtitle": "Toate cuvintele noi din curs în ordinea introducerii lor, cu explicații tematice.",
+        "lektion_prefix": "Lecție",
+    },
 }
 
 
