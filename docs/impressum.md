@@ -21,5 +21,19 @@ Dieser Text ist Teil der Abteilung Sanskrit von **Tüpfli's Global Village Libra
 
 ---
 
+## Lizenz dieser Publikation
+
+**Originaltext** (deutsche Lektionen): © Alois Payer. Der Text steht der Allgemeinheit zur Verfügung; eine Verwertung in Publikationen bedarf der ausdrücklichen Genehmigung des Verfassers.
+
+**KI-generierte Übersetzungen** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) und **technische Pipeline** (Skripte, QA-Viewer, VitePress-Konfiguration):
+
+- Übersetzungen: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Namensnennung, Weitergabe unter gleichen Bedingungen
+- Code/Pipeline: [MIT License](https://opensource.org/licenses/MIT)
+
+**Zitierweise für die Übersetzungen:**
+> Payer, Alois: Sanskritkurs. Übersetzt mit KI-Unterstützung. Marco Demarmels (Hrsg.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+
+---
+
 ### Hinweis zu den Schriftzeichen
 Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.
