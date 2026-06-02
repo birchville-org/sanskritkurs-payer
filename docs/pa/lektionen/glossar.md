@@ -17,532 +17,532 @@ outline: 2
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| अखिल | akhila | 3 | ਲੱਛਣਹੀਨ, ਸਾਰਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| अगार | agāra | n | । आगार n.: ਘਰ, ਘਰ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
+| अखिल | [akhila](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=akhila&filter=roman) | 3 | ਲੱਛਣਹੀਨ, ਸਾਰਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| अगार | [agāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=agāra&filter=roman) | n | । आगार n.: ਘਰ, ਘਰ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
 | अग्नि | ਅਗਨਿ | ਪੁ | ਅੱਗ, ਦੇਵਤਾ ਅਗਨਿ। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
-| अङ्ग | aṅga | n | ਸਰੀਰ ਦਾ ਅੰਗ, ਹਿੱਸਾ; ਇਸ ਤੋਂ ਇਲਾਵਾ = **vedāṅga** = वेदाङ्ग | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
-| अजिन | ajina | n | ਹੰਸੇ ਦਾ ਚਮੜਾ, ਖਾਸ ਕਰ ਕਾਲੇ ਹੰਸੇ ਦਾ ਚਮੜਾ (ਹਿਰਨ-ਬਕਰੀ ਹੰਸਾ : _Antilope cervicapra_ L. )। ਇਹ ਮੂਲ ਰੂਪ ਵਿੱਚ ਪੂਰੇ ਭਾਰਤੀ ਉਪ-ਮਹਾਂਦ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| अञ्जलि | añjali | m | ਸਤਕਾਰ ਲਈ ਦੋਵਾਂ ਹੱਥਾਂ ਨੂੰ ਉੱਚਾ ਕਰਕੇ ਜੋੜਿਆ ਗਿਆ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
-| अतिथि | atithi | m | ਅਤਿਥੀ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| अद् अत्ति अद्यते अन्न | ad | 2 P (atti), ਪਾਸ. adyate, PPP anna | ਖਾਣਾ, ਨਸ਼ਟ ਕਰਨਾ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
-| अधर्म | adharma | m | ਅਨਿਆਂ (**dharma** ਦਾ ਵਿਰੋਧੀ)। | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
-| अध्यापन | adhyāpana | n | ਸਿਖਲਾਉਣਾ, ਸਿਖਲਾਈ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
-| अनगार्य | anagārya | n | । अनगारika f.: ਇੱਕ ਬੁੱਧਿਸਤ ਮੋਨਕ ਜਾਂ ਨੋਵਿਸ ਦੀ ਘਰ-ਹੀਣਤਾ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
-| अनसूया | anasūyā | f | ਗੁੱਸਾ ਨਾ ਕਰਨਾ, ਲਾਲਚ ਨਾ ਕਰਨਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
-| अनृत | anṛta | n | ਅਸਤਿਤਵ, ਝੂਠ (**satya** ਦਾ ਵਿਰੋਧੀ) | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
-| अनृशंस्य | anṛśaṃsya | n | ਬੁਰਾਈ ਨਾ ਕਰਨਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
-| अनेक | aneka | 3 | ਬਹੁਤ (ਕੁਝ ਨਹੀਂ) | [42](/pa/lektionen/lektion42#_42-2-ਸ਼ਬਦਾਵਲੀ) |
-| अन्तर् | antar | Adv | ਅੰਦਰ, ਅੰਦਰੂਨੀ; ਪੋਸਟਪੋਜ਼ੀਸ਼ਨ ਜਿਨ੍ਹਾ. ਲੋਕ. (षष्टी, सप्तमी): ਅੰਦਰ, ਵਿਚਕਾਰ; ਪੋਸਟਪੋਜ਼ੀਸ਼ਨ ਜਿਨ੍ਹਾ. ਅਬਲ. (षष्ठी, पञ्चमी): ... ਤ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| अन्न | anna | n | ਖਾਣਾ (PPP ਤੋਂ: *ad-na: ਖਾਧਾ ਹੋਇਆ) | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
-| अन्योन्य | anyonya | 3 | ਆਪਸੀ, ਇੱਕ ਦੂਜੇ ਨੂੰ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| अपि | api | — | ਵੀ (ਪਿੱਛੇ ਰੱਖਿਆ ਗਿਆ) | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
-| अभिनिवेष | abhiniveṣa | m | ਪ੍ਰਵਿਰਤੀ, ਜਿਦ, ਜ਼ਿਦ; ਖਾਸ ਤੌਰ 'ਤੇ: ਸਰੀਰ ਨਾਲ ਲੱਗਾਅ, ਜਿਵੇਂ ਕਿ ਉਹ ਕੁਝ ਆਪਣਾ ਹੋਵੇ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
-| अभ्यन्तर | abhyantara | 3 | ਅੰਦਰ ਸਥਿਤ, ਸਭ ਤੋਂ ਨੇੜੇ ; m. ਸਭ ਤੋਂ ਨੇੜੇ ਦਾ ਸਦੱਸ, ਸਥਾਨਿਕ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| अमुत्र | amutra | Adv | ਉੱਥੇ, ਉੱਥੇ ਜਾਣਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| अरण्य | araṇya | n | ਜੰਗਲ, ਵਣ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| अरि | ari | m | ਦੁਸ਼ਮਣ (ਥੀਮੀ ਦੇ ਅਨੁਸਾਰ, Ṛgveda ਵਿੱਚ ਵਿਦੇਸ਼ੀ: ਮੂਲ ਰੂਪ ਵਿੱਚ = ਵਿਦੇਸ਼ੀ) | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| अर्ध | ardha | 3 | ਅੱਧਾ, m.n. ਅੱਧਾ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| अल्प | alpa | 3 | ਛੋਟਾ, ਘੱਟ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
-| अवज्ञान | avajñāna | n | ਤੁਛਤਾ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
-| अवतार | avatāra | m | (ਹੇਠਾਂ ਉਤਰਨ ਵਾਲਾ, ਹੇਠਾਂ ਉਤਰਨਾ) ਦੇਵਤਾ ਦਾ ਅਵਤਾਰ, ਖਾਸ ਤੌਰ 'ਤੇ ਵਿਸ਼ਣੁ ਦੇ 10 ਅਵਤਾਰ (ਸ. ਬਾਸ਼ਮ, ਅਦਭੁਤ ਸ. 304 - 309) | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
-| अवनि | avani | f | ਧਰਤੀ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| अविद्या | avidyā | f | ਅਗਿਆਨਤਾ, ਨਾ-ਗਿਆਨ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
-| अशोक | aśoka | 3 | ਗਮ ਤੋਂ ਮੁਕਤ; ਅਸ਼ੋਕ-ਵ੍ਰਿੱਖ = _Saraca asoca_ (ਰੌਕਸਬ.) ਵਾਈਲਡ; ਸਮਰਾਟ ਅਸ਼ੋਕ ਦਾ ਨਾਮ (देवानांप्रिय प्रियदर्शी) (ਲਗਭਗ 304   232 | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| अश् अश्नुते | aś | 5 Ā (aśnute) | ਪ੍ਰਾਪਤ ਕਰਨਾ, ਪਹੁੰਚਣਾ, ਪ੍ਰਾਪਤ ਕਰਨਾ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
-| असुर | asura | m | ਦੈਤ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
-| अस् अस्ति | as | 2 P (asti) | ਹੋਣਾ, ਮੌਜੂਦ ਹੋਣਾ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
-| अस्मिता | asmitā | f | "ਮੈਂ-ਹੋਣ-ਭਾਵ", ਭਾਵ ਇਹ (ਗਲਤ) ਵਿਸ਼ਵਾਸ: **ਮੈਂ** ਹੀ ਵੇਖਣ ਵਾਲਾ ਹਾਂ ਆਦਿ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| अहिंसा | ahiṃsā | f | ਕਿਸੇ ਨੂੰ ਕੋਈ ਨੁਕਸਾਨ ਨਾ ਪਹੁੰਚਾਉਣਾ, ਅਹਿੰਸਾ, ਹਿੰਸਾ ਨਾ ਕਰਨਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| अङ्ग | [aṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=aṅga&filter=roman) | n | ਸਰੀਰ ਦਾ ਅੰਗ, ਹਿੱਸਾ; ਇਸ ਤੋਂ ਇਲਾਵਾ = **vedāṅga** = वेदाङ्ग | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| अजिन | [ajina](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ajina&filter=roman) | n | ਹੰਸੇ ਦਾ ਚਮੜਾ, ਖਾਸ ਕਰ ਕਾਲੇ ਹੰਸੇ ਦਾ ਚਮੜਾ (ਹਿਰਨ-ਬਕਰੀ ਹੰਸਾ : _Antilope cervicapra_ L. )। ਇਹ ਮੂਲ ਰੂਪ ਵਿੱਚ ਪੂਰੇ ਭਾਰਤੀ ਉਪ-ਮਹਾਂਦ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| अञ्जलि | [añjali](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=añjali&filter=roman) | m | ਸਤਕਾਰ ਲਈ ਦੋਵਾਂ ਹੱਥਾਂ ਨੂੰ ਉੱਚਾ ਕਰਕੇ ਜੋੜਿਆ ਗਿਆ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
+| अतिथि | [atithi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=atithi&filter=roman) | m | ਅਤਿਥੀ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| अद् अत्ति अद्यते अन्न | [ad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ad&filter=roman) | 2 P (atti), ਪਾਸ. adyate, PPP anna | ਖਾਣਾ, ਨਸ਼ਟ ਕਰਨਾ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
+| अधर्म | [adharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=adharma&filter=roman) | m | ਅਨਿਆਂ (**dharma** ਦਾ ਵਿਰੋਧੀ)। | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| अध्यापन | [adhyāpana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=adhyāpana&filter=roman) | n | ਸਿਖਲਾਉਣਾ, ਸਿਖਲਾਈ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| अनगार्य | [anagārya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=anagārya&filter=roman) | n | । अनगारika f.: ਇੱਕ ਬੁੱਧਿਸਤ ਮੋਨਕ ਜਾਂ ਨੋਵਿਸ ਦੀ ਘਰ-ਹੀਣਤਾ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
+| अनसूया | [anasūyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=anasūyā&filter=roman) | f | ਗੁੱਸਾ ਨਾ ਕਰਨਾ, ਲਾਲਚ ਨਾ ਕਰਨਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| अनृत | [anṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=anṛta&filter=roman) | n | ਅਸਤਿਤਵ, ਝੂਠ (**satya** ਦਾ ਵਿਰੋਧੀ) | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
+| अनृशंस्य | [anṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=anṛśaṃsya&filter=roman) | n | ਬੁਰਾਈ ਨਾ ਕਰਨਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| अनेक | [aneka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=aneka&filter=roman) | 3 | ਬਹੁਤ (ਕੁਝ ਨਹੀਂ) | [42](/pa/lektionen/lektion42#_42-2-ਸ਼ਬਦਾਵਲੀ) |
+| अन्तर् | [antar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=antar&filter=roman) | Adv | ਅੰਦਰ, ਅੰਦਰੂਨੀ; ਪੋਸਟਪੋਜ਼ੀਸ਼ਨ ਜਿਨ੍ਹਾ. ਲੋਕ. (षष्टी, सप्तमी): ਅੰਦਰ, ਵਿਚਕਾਰ; ਪੋਸਟਪੋਜ਼ੀਸ਼ਨ ਜਿਨ੍ਹਾ. ਅਬਲ. (षष्ठी, पञ्चमी): ... ਤ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| अन्न | [anna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=anna&filter=roman) | n | ਖਾਣਾ (PPP ਤੋਂ: *ad-na: ਖਾਧਾ ਹੋਇਆ) | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
+| अन्योन्य | [anyonya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=anyonya&filter=roman) | 3 | ਆਪਸੀ, ਇੱਕ ਦੂਜੇ ਨੂੰ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| अपि | [api](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=api&filter=roman) | — | ਵੀ (ਪਿੱਛੇ ਰੱਖਿਆ ਗਿਆ) | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
+| अभिनिवेष | [abhiniveṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=abhiniveṣa&filter=roman) | m | ਪ੍ਰਵਿਰਤੀ, ਜਿਦ, ਜ਼ਿਦ; ਖਾਸ ਤੌਰ 'ਤੇ: ਸਰੀਰ ਨਾਲ ਲੱਗਾਅ, ਜਿਵੇਂ ਕਿ ਉਹ ਕੁਝ ਆਪਣਾ ਹੋਵੇ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| अभ्यन्तर | [abhyantara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=abhyantara&filter=roman) | 3 | ਅੰਦਰ ਸਥਿਤ, ਸਭ ਤੋਂ ਨੇੜੇ ; m. ਸਭ ਤੋਂ ਨੇੜੇ ਦਾ ਸਦੱਸ, ਸਥਾਨਿਕ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| अमुत्र | [amutra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=amutra&filter=roman) | Adv | ਉੱਥੇ, ਉੱਥੇ ਜਾਣਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| अरण्य | [araṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=araṇya&filter=roman) | n | ਜੰਗਲ, ਵਣ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| अरि | [ari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ari&filter=roman) | m | ਦੁਸ਼ਮਣ (ਥੀਮੀ ਦੇ ਅਨੁਸਾਰ, Ṛgveda ਵਿੱਚ ਵਿਦੇਸ਼ੀ: ਮੂਲ ਰੂਪ ਵਿੱਚ = ਵਿਦੇਸ਼ੀ) | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| अर्ध | [ardha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ardha&filter=roman) | 3 | ਅੱਧਾ, m.n. ਅੱਧਾ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| अल्प | [alpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=alpa&filter=roman) | 3 | ਛੋਟਾ, ਘੱਟ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
+| अवज्ञान | [avajñāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=avajñāna&filter=roman) | n | ਤੁਛਤਾ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| अवतार | [avatāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=avatāra&filter=roman) | m | (ਹੇਠਾਂ ਉਤਰਨ ਵਾਲਾ, ਹੇਠਾਂ ਉਤਰਨਾ) ਦੇਵਤਾ ਦਾ ਅਵਤਾਰ, ਖਾਸ ਤੌਰ 'ਤੇ ਵਿਸ਼ਣੁ ਦੇ 10 ਅਵਤਾਰ (ਸ. ਬਾਸ਼ਮ, ਅਦਭੁਤ ਸ. 304 - 309) | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
+| अवनि | [avani](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=avani&filter=roman) | f | ਧਰਤੀ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| अविद्या | [avidyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=avidyā&filter=roman) | f | ਅਗਿਆਨਤਾ, ਨਾ-ਗਿਆਨ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| अशोक | [aśoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=aśoka&filter=roman) | 3 | ਗਮ ਤੋਂ ਮੁਕਤ; ਅਸ਼ੋਕ-ਵ੍ਰਿੱਖ = _Saraca asoca_ (ਰੌਕਸਬ.) ਵਾਈਲਡ; ਸਮਰਾਟ ਅਸ਼ੋਕ ਦਾ ਨਾਮ (देवानांप्रिय प्रियदर्शी) (ਲਗਭਗ 304   232 | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| अश् अश्नुते | [aś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=aś&filter=roman) | 5 Ā (aśnute) | ਪ੍ਰਾਪਤ ਕਰਨਾ, ਪਹੁੰਚਣਾ, ਪ੍ਰਾਪਤ ਕਰਨਾ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| असुर | [asura](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=asura&filter=roman) | m | ਦੈਤ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
+| अस् अस्ति | [as](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=as&filter=roman) | 2 P (asti) | ਹੋਣਾ, ਮੌਜੂਦ ਹੋਣਾ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
+| अस्मिता | [asmitā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=asmitā&filter=roman) | f | "ਮੈਂ-ਹੋਣ-ਭਾਵ", ਭਾਵ ਇਹ (ਗਲਤ) ਵਿਸ਼ਵਾਸ: **ਮੈਂ** ਹੀ ਵੇਖਣ ਵਾਲਾ ਹਾਂ ਆਦਿ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| अहिंसा | [ahiṃsā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ahiṃsā&filter=roman) | f | ਕਿਸੇ ਨੂੰ ਕੋਈ ਨੁਕਸਾਨ ਨਾ ਪਹੁੰਚਾਉਣਾ, ਅਹਿੰਸਾ, ਹਿੰਸਾ ਨਾ ਕਰਨਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
 
 ## आ
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| आजीव | ājīva | m | ਰੋਜ਼ੀ-ਰੋਟੀ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
-| आत्मन् | ātman | m | ਆਤਮਾ, ਆਪਣੀ ਵਿਅਕਤੀ, ਅੰਦਰੂਨੀ ਸੁਭਾਅ. ਦਾਰਸ਼ਨਿਕ ਅਤੇ ਮੁਕਤੀ ਸਿੱਖਿਆਵਾਂ ਵਿੱਚ: ਵਿਅਕਤੀ ਵਿੱਚ ਪਰਮ, ਜਿਸ ਬਾਰੇ ਵਿਅਕਤੀ ਕਦੇ-ਕਦਾਈਂ ਜਾਗਰੂਕ ਨ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| आदर | ādara | m | ਸਨਮਾਨ, ਧਿਆਨ, ਸਤਿਕਾਰ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| आदर्श | ādarśa | m | ਸ਼ੀਸ਼ਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| आजीव | [ājīva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ājīva&filter=roman) | m | ਰੋਜ਼ੀ-ਰੋਟੀ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| आत्मन् | [ātman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ātman&filter=roman) | m | ਆਤਮਾ, ਆਪਣੀ ਵਿਅਕਤੀ, ਅੰਦਰੂਨੀ ਸੁਭਾਅ. ਦਾਰਸ਼ਨਿਕ ਅਤੇ ਮੁਕਤੀ ਸਿੱਖਿਆਵਾਂ ਵਿੱਚ: ਵਿਅਕਤੀ ਵਿੱਚ ਪਰਮ, ਜਿਸ ਬਾਰੇ ਵਿਅਕਤੀ ਕਦੇ-ਕਦਾਈਂ ਜਾਗਰੂਕ ਨ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| आदर | [ādara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ādara&filter=roman) | m | ਸਨਮਾਨ, ਧਿਆਨ, ਸਤਿਕਾਰ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| आदर्श | [ādarśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ādarśa&filter=roman) | m | ਸ਼ੀਸ਼ਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
 | आदाय | ਅਬਸੋਲ. | — | ਅਕਕ. ਨਾਲ: ਦੇ ਨਾਲ, ਸਹਿਤ | [33](/pa/lektionen/lektion33#_33-6-ਸ਼ਬਦਾਵਲੀ) |
-| आदित्य | āditya | m | ਸੂਰਜ ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : ਇੱਕ ਖਾਸ ਦੇਵਤਾਵਾਂ ਦੀ ਵਰਗ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
-| आदृत | ādṛta | 3 | ਸਤਕਾਰ ਕੀਤਾ ਗਿਆ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
-| आन्वीक्षिकी | ānvīkṣikī | f | ਦਰਸ਼ਨ (ਉਹ ਵਿਗਿਆਨ ਜੋ ਤਰਕਸੰਗਤ ਸਹੀ ਤਰਕਾਂ ਦੁਆਰਾ ਆਪਣੇ ਸਿੱਟਿਆਂ ਤੱਕ ਪਹੁੰਚਦਾ ਹੈ)। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| आप् आप्नोति | āp | 5 P (āpnoti) | ਪ੍ਰਾਪਤ ਕਰਨਾ, ਪ੍ਰਾਪਤ ਕਰਨਾ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| आदित्य | [āditya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=āditya&filter=roman) | m | ਸੂਰਜ ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : ਇੱਕ ਖਾਸ ਦੇਵਤਾਵਾਂ ਦੀ ਵਰਗ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| आदृत | [ādṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ādṛta&filter=roman) | 3 | ਸਤਕਾਰ ਕੀਤਾ ਗਿਆ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
+| आन्वीक्षिकी | [ānvīkṣikī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ānvīkṣikī&filter=roman) | f | ਦਰਸ਼ਨ (ਉਹ ਵਿਗਿਆਨ ਜੋ ਤਰਕਸੰਗਤ ਸਹੀ ਤਰਕਾਂ ਦੁਆਰਾ ਆਪਣੇ ਸਿੱਟਿਆਂ ਤੱਕ ਪਹੁੰਚਦਾ ਹੈ)। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| आप् आप्नोति | [āp](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=āp&filter=roman) | 5 P (āpnoti) | ਪ੍ਰਾਪਤ ਕਰਨਾ, ਪ੍ਰਾਪਤ ਕਰਨਾ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
 | आयच्छति | यम् + आ | 1***U*** | ਫੈਲਾਉਣਾ, ਲੰਬਾ ਕਰਨਾ | [44](/pa/lektionen/lektion44#_44-5-ਸ਼ਬਦਾਵਲੀ) |
-| आयुर्वेद | āyurveda | m | ਭਾਰਤ ਦੀ ਪਰੰਪਰਾਗਤ ਚਿਕਿਤਸਾ ਪ੍ਰਣਾਲੀ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| आयुस् | āyus | n | ਜੀਵਨ ਕਾਲ (ਪੂਰਾ ਜੀਵਨ ਕਾਲ, ਜਿਸਨੂੰ ਜੀਆ ਜਾ ਸਕਦਾ ਹੈ, ਜੇ ਕੋਈ ਰੁਕਾਵਟ ਨਾ ਹੋਵੇ) ; | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| आर्य | ārya | 3 | ਆਰੀਅਨ, ਨੇਕ ; m. ਆਰੀਅਨ (ਸੰਸਕ੍ਰਿਤ ਬੋਲਣ ਵਾਲੇ ਪੁਰਾਤਨ ਭਾਰਤੀਆਂ ਦੁਆਰਾ ਆਤਮ-ਵਰਣਨ, ਸ਼ਬਦਾਤਮਕ: ਮਹਿਮਾਨ-ਨਵਾਜ਼ (ਥੀਮੀ)) ; ਨੇਕ, ਸਤੀ ਮਰਦ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| आश्रम | āśrama | m | .n | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
-| आसन | āsana | n | ਬੈਠਣਾ, ਸੀਟ ; ਇਸ ਤੋਂ ਇਲਾਵਾ: ਯੋਗੀ ਦੀਆਂ ਬੈਠਣ ਦੀਆਂ ਸਥਿਤੀਆਂ | [17](/pa/lektionen/lektion17#_17-6-ਸ਼ਬਦਾਵਲੀ) |
+| आयुर्वेद | [āyurveda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=āyurveda&filter=roman) | m | ਭਾਰਤ ਦੀ ਪਰੰਪਰਾਗਤ ਚਿਕਿਤਸਾ ਪ੍ਰਣਾਲੀ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| आयुस् | [āyus](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=āyus&filter=roman) | n | ਜੀਵਨ ਕਾਲ (ਪੂਰਾ ਜੀਵਨ ਕਾਲ, ਜਿਸਨੂੰ ਜੀਆ ਜਾ ਸਕਦਾ ਹੈ, ਜੇ ਕੋਈ ਰੁਕਾਵਟ ਨਾ ਹੋਵੇ) ; | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| आर्य | [ārya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ārya&filter=roman) | 3 | ਆਰੀਅਨ, ਨੇਕ ; m. ਆਰੀਅਨ (ਸੰਸਕ੍ਰਿਤ ਬੋਲਣ ਵਾਲੇ ਪੁਰਾਤਨ ਭਾਰਤੀਆਂ ਦੁਆਰਾ ਆਤਮ-ਵਰਣਨ, ਸ਼ਬਦਾਤਮਕ: ਮਹਿਮਾਨ-ਨਵਾਜ਼ (ਥੀਮੀ)) ; ਨੇਕ, ਸਤੀ ਮਰਦ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| आश्रम | [āśrama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=āśrama&filter=roman) | m | .n | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
+| आसन | [āsana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=āsana&filter=roman) | n | ਬੈਠਣਾ, ਸੀਟ ; ਇਸ ਤੋਂ ਇਲਾਵਾ: ਯੋਗੀ ਦੀਆਂ ਬੈਠਣ ਦੀਆਂ ਸਥਿਤੀਆਂ | [17](/pa/lektionen/lektion17#_17-6-ਸ਼ਬਦਾਵਲੀ) |
 
 ## इ
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| इति | iti | — | ਇਸ ਤਰ੍ਹਾਂ | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
-| इन्द्र | indra | m | ਰਾਜਾ, ਪਹਿਲਾਂ, ਸਭ ਤੋਂ ਵਧੀਆ ਵਿੱਚ ; ਦੇਵਤਾ-ਰਾਜ ਇੰਦਰ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| इष् | iṣ | 6 P | ਇੱਛਾ ਕਰਨਾ | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
-| इष् इच्छति | iṣ | 6 P (icchati) | ਇੱਛਾ ਕਰਨਾ (**iṣ-ccha-ti**)। | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
-| इष्टि | iṣṭi | f | ਇੱਛਾ (**iṣ** + **-ti**) | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
-| इह | iha | Adv | ਇੱਥੇ, ਧਰਤੀ 'ਤੇ ਇੱਥੇ, ਇੱਥੇ ਤੱਕ ; ਹੁਣ. ਲੋਕੇਟਿਵ ਵਿੱਚ ਵਿਸ਼ੇਸ਼ਣਾਂ (षष्ठी) ਤੋਂ ਪਹਿਲਾਂ अस्मिन्, अस्याम् ਦੇ ਸਮਾਨਾਰਥੀ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| इति | [iti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=iti&filter=roman) | — | ਇਸ ਤਰ੍ਹਾਂ | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| इन्द्र | [indra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=indra&filter=roman) | m | ਰਾਜਾ, ਪਹਿਲਾਂ, ਸਭ ਤੋਂ ਵਧੀਆ ਵਿੱਚ ; ਦੇਵਤਾ-ਰਾਜ ਇੰਦਰ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| इष् | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=iṣ&filter=roman) | 6 P | ਇੱਛਾ ਕਰਨਾ | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| इष् इच्छति | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=iṣ&filter=roman) | 6 P (icchati) | ਇੱਛਾ ਕਰਨਾ (**iṣ-ccha-ti**)। | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| इष्टि | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=iṣṭi&filter=roman) | f | ਇੱਛਾ (**iṣ** + **-ti**) | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| इह | [iha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=iha&filter=roman) | Adv | ਇੱਥੇ, ਧਰਤੀ 'ਤੇ ਇੱਥੇ, ਇੱਥੇ ਤੱਕ ; ਹੁਣ. ਲੋਕੇਟਿਵ ਵਿੱਚ ਵਿਸ਼ੇਸ਼ਣਾਂ (षष्ठी) ਤੋਂ ਪਹਿਲਾਂ अस्मिन्, अस्याम् ਦੇ ਸਮਾਨਾਰਥੀ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
 
 ## ई
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| ईश्वर | īśvara | m | ਪ੍ਰਭੂ, ਸ਼ਾਸਕ, ਦੇਵਤਾ (ਇਕ-ਦੇਵਤਾਵਾਦੀ)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
+| ईश्वर | [īśvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=īśvara&filter=roman) | m | ਪ੍ਰਭੂ, ਸ਼ਾਸਕ, ਦੇਵਤਾ (ਇਕ-ਦੇਵਤਾਵਾਦੀ)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
 
 ## उ
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| उत्तम | uttama | 3 | ਸਭ ਤੋਂ ਉੱਚਾ, ਸਭ ਤੋਂ ਵਧੀਆ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
-| उदक | udaka | n | ਪਾਣੀ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| उपाध्याय | upādhyāya | m | ਗੁਰੂ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
-| उपेक्षा | upekṣā | f | ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰਨਾ, ਸਮਤਾ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| उत्तम | [uttama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=uttama&filter=roman) | 3 | ਸਭ ਤੋਂ ਉੱਚਾ, ਸਭ ਤੋਂ ਵਧੀਆ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
+| उदक | [udaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=udaka&filter=roman) | n | ਪਾਣੀ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| उपाध्याय | [upādhyāya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=upādhyāya&filter=roman) | m | ਗੁਰੂ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
+| उपेक्षा | [upekṣā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=upekṣā&filter=roman) | f | ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰਨਾ, ਸਮਤਾ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
 
 ## ऋ
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| ऋतु | ṛtu | m | ਆਵਰਤੀ ਪ੍ਰਕਿਰਿਆ, ਸਮਾਂ, ਸਮਾਂ ਅੰਤਰ, ਮਹੀਨਾ, ਉਹ ਸਮਾਂ ਜਦੋਂ ਔਰਤ ਗਰਭਵਤੀ ਹੋਣ ਦੇ ਯੋਗ ਹੁੰਦੀ ਹੈ ਅਤੇ ਆਪਣੇ ਪਤੀ ਨਾਲ ਸੰਗਮ ਦਾ ਹੱਕ ਰੱਖਦੀ ਹ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| ऋषि | ṛṣi | m | ਵੈਦਿਕ ਧਿਆਨ, ਵੈਦਿਕ ਗੀਤਾਂ ਦੇ ਲੇਖਕ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
+| ऋतु | [ṛtu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ṛtu&filter=roman) | m | ਆਵਰਤੀ ਪ੍ਰਕਿਰਿਆ, ਸਮਾਂ, ਸਮਾਂ ਅੰਤਰ, ਮਹੀਨਾ, ਉਹ ਸਮਾਂ ਜਦੋਂ ਔਰਤ ਗਰਭਵਤੀ ਹੋਣ ਦੇ ਯੋਗ ਹੁੰਦੀ ਹੈ ਅਤੇ ਆਪਣੇ ਪਤੀ ਨਾਲ ਸੰਗਮ ਦਾ ਹੱਕ ਰੱਖਦੀ ਹ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| ऋषि | [ṛṣi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ṛṣi&filter=roman) | m | ਵੈਦਿਕ ਧਿਆਨ, ਵੈਦਿਕ ਗੀਤਾਂ ਦੇ ਲੇਖਕ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
 
 ## ए
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| एकत्र | ekatra | Adv | ਇੱਕ ਥਾਂ 'ਤੇ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| एव | eva | — | ਪਿਛਲੇ ਸ਼ਬਦ ਨੂੰ ਜ਼ੋਰ ਦੇਣਾ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
-| एवम् | evam | — | ਇਸ ਤਰ੍ਹਾਂ (ਕ੍ਰਿਆਵਿਸ਼ੇਸ਼ਣ, ਉਦਾਹਰਣ ਵਜੋਂ **evaṃ jayati** "ਇਸ ਤਰ੍ਹਾਂ ਉਹ ਜਿੱਤਦਾ ਹੈ")। | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| एकत्र | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ekatra&filter=roman) | Adv | ਇੱਕ ਥਾਂ 'ਤੇ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| एव | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=eva&filter=roman) | — | ਪਿਛਲੇ ਸ਼ਬਦ ਨੂੰ ਜ਼ੋਰ ਦੇਣਾ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
+| एवम् | [evam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=evam&filter=roman) | — | ਇਸ ਤਰ੍ਹਾਂ (ਕ੍ਰਿਆਵਿਸ਼ੇਸ਼ਣ, ਉਦਾਹਰਣ ਵਜੋਂ **evaṃ jayati** "ਇਸ ਤਰ੍ਹਾਂ ਉਹ ਜਿੱਤਦਾ ਹੈ")। | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
 
 ## औ
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| औपकारिक | aupakārika | 3 | ਸਤਰੀਲਿੰਗ: -ई : ਉਪਯੋਗੀ | [24](/pa/lektionen/lektion24#_24-4-ਸ਼ਬਦਾਵਲੀ) |
+| औपकारिक | [aupakārika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=aupakārika&filter=roman) | 3 | ਸਤਰੀਲਿੰਗ: -ई : ਉਪਯੋਗੀ | [24](/pa/lektionen/lektion24#_24-4-ਸ਼ਬਦਾਵਲੀ) |
 
 ## क
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| कदली | kadalī | f | ਕੇਲੇ ਦਾ ਪੌਦਾ (_Musa_ sp.) | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| कपि | kapi | m | ਬੰਦਰ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| करुणा | karuṇā | f | ਕਰੁਣਾ, ਦਿਆ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| कर्मन् | karman | n | कृ 8U ਤੋਂ: ਕ੍ਰਿਆ, ਕੰਮ, ਕੰਮ; ਪਵਿੱਤਰ ਕੰਮ, ਬलिਦਾਨ ਕ੍ਰਿਆ; ਕਰਮ: ਪਿਛਲਾ ਕੰਮ, ਜੋ ਬਾਅਦ ਵਿੱਚ ਆਪਣੇ ਫਲ ਲਿਆਉਂਦਾ ਹੈ (ਜਿਵੇਂ ਕਿ ਪੁਨਰਜਨਮ  | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| कर्मविपाक | karmavipāka | m | ਕੰਮਾਂ ਦਾ ਪੱਕਣਾ = ਪਿਛਲੇ ਜਨਮਾਂ ਵਿੱਚ ਕੰਮਾਂ ਦੀਆਂ ਚੰਗੀਆਂ ਅਤੇ ਬੁਰੀਆਂ ਪ੍ਰਤੀਕ੍ਰਿਆਵਾਂ (वि-पच् ਨਾਲ) | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| कला | kalā | f | ਕਲਾ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| कल्प | kalpa | m | ਸੰਸਕ੍ਰਿਤ, ਰਿਵਾਜ, ਰਸਮ ; [ਜਗਤ ਕਾਲ](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (कॢप् ਨੂੰ) | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
-| कल्पना | kalpanā | f | ਚਿੰਤਨ ਵਿੱਚ ਬਣਾਉਣਾ, ਵਾਸਤਵਿਕਤਾ ਵਿੱਚ ਅਸਤਿਤਵ ਨਾ ਰੱਖਣ ਵਾਲੀ ਕੁਝ ਚੀਜ਼ ਨੂੰ ਮੰਨਣਾ, ਕਲਪਨਾ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
-| कल्याण | kalyāṇa | 3 | (f.: कल्याणी) :ਸੁੰਦਰ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| कदली | [kadalī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kadalī&filter=roman) | f | ਕੇਲੇ ਦਾ ਪੌਦਾ (_Musa_ sp.) | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| कपि | [kapi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kapi&filter=roman) | m | ਬੰਦਰ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| करुणा | [karuṇā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=karuṇā&filter=roman) | f | ਕਰੁਣਾ, ਦਿਆ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| कर्मन् | [karman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=karman&filter=roman) | n | कृ 8U ਤੋਂ: ਕ੍ਰਿਆ, ਕੰਮ, ਕੰਮ; ਪਵਿੱਤਰ ਕੰਮ, ਬलिਦਾਨ ਕ੍ਰਿਆ; ਕਰਮ: ਪਿਛਲਾ ਕੰਮ, ਜੋ ਬਾਅਦ ਵਿੱਚ ਆਪਣੇ ਫਲ ਲਿਆਉਂਦਾ ਹੈ (ਜਿਵੇਂ ਕਿ ਪੁਨਰਜਨਮ  | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| कर्मविपाक | [karmavipāka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=karmavipāka&filter=roman) | m | ਕੰਮਾਂ ਦਾ ਪੱਕਣਾ = ਪਿਛਲੇ ਜਨਮਾਂ ਵਿੱਚ ਕੰਮਾਂ ਦੀਆਂ ਚੰਗੀਆਂ ਅਤੇ ਬੁਰੀਆਂ ਪ੍ਰਤੀਕ੍ਰਿਆਵਾਂ (वि-पच् ਨਾਲ) | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| कला | [kalā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kalā&filter=roman) | f | ਕਲਾ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| कल्प | [kalpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kalpa&filter=roman) | m | ਸੰਸਕ੍ਰਿਤ, ਰਿਵਾਜ, ਰਸਮ ; [ਜਗਤ ਕਾਲ](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (कॢप् ਨੂੰ) | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| कल्पना | [kalpanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kalpanā&filter=roman) | f | ਚਿੰਤਨ ਵਿੱਚ ਬਣਾਉਣਾ, ਵਾਸਤਵਿਕਤਾ ਵਿੱਚ ਅਸਤਿਤਵ ਨਾ ਰੱਖਣ ਵਾਲੀ ਕੁਝ ਚੀਜ਼ ਨੂੰ ਮੰਨਣਾ, ਕਲਪਨਾ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
+| कल्याण | [kalyāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kalyāṇa&filter=roman) | 3 | (f.: कल्याणी) :ਸੁੰਦਰ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
 | कवि | ਕਵਿ | ਪੁ | ਕਵੀ। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
-| काम | kāma | m | ਇਛਾ, ਭਾਵਨਾ, ਚਾਹੀਦੀ ਦਿੱਤੀ ਗਈ ਚੀਜ਼, ਇੰਦ੍ਰੀਆਂ ਦਾ ਸੁਖ, ਪ੍ਰੇਮ; ਪ੍ਰੇਮ ਦੇਵਤਾ ਕਾਮ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
-| काल | kāla | m | ਸਮਾਂ, (ਸਹੀ) ਸਮਾਂ ; ਕਿਸਮਤ, ਮੌਤ ; ਮੌਤ ਦੇਵਤਾ ਕਾਲ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| कियत् | kiyat | 3 | ਕਿੰਨਾ ਵੱਡਾ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
-| कुतुक | kutuka | n | = कुलूहल n | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| कुप् कुप्यति | kup | 4 P (kupyati) | ਕ੍ਰੋਧ ਕਰਨਾ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
-| कुमार | kumāra | m | ਬੱਚਾ, ਜਵਾਨ, ਰਾਜਕੁਮਾਰ; कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ്യ ਦਾ ਉਪਨਾਮ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| कुमारी | kumārī | f | ਕੁੜੀ, ਕੁੜੀ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| कुमारी | kumārī | f | ਕੁੜੀ, ਧੀ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| कुल | kula | n | ਝੁੰਡ, ਗਿਣਤੀ, ਜਾਤੀ, ਵੰਸ਼, ਪਰਿਵਾਰ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| कुलूहल | kulūhala | n | ਦਿਲਚਸਪੀ, ਰੁਚੀ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| कृ करोति | kṛ | 8 U (karoti) | ਕਰਨਾ, ਕੰਮ ਕਰਨਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| कृत्स्न | kṛtsna | 3 | ਪੂਰਾ, ਸੰਪੂਰਨ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| कृष् कर्षति | kṛṣ | 1 P (karṣati) | ਖਿੱਚਣਾ | [9](/pa/lektionen/lektion09#_9-3-ਸ਼ਬਦਾਵਲੀ) |
-| कृष् कृषति | kṛṣ | 6 U (kṛṣati) | ਜੁਆਈ ਕੱਢਣਾ | [9](/pa/lektionen/lektion09#_9-3-ਸ਼ਬਦਾਵਲੀ) |
-| कोविद | kovida | 3 | ਮਾਹਰ (षष्ठ्या सप्तम्या वा) ਵਿੱਚ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| कौमर | kaumara | n | ਬਚਪਨ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| क्रुध् क्रुध्यति | krudh | 4 P (krudhyati) | ਕ੍ਰੋਧ ਕਰਨਾ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
-| क्रूर | krūra | 3 | ਕੱਚਾ, ਦਰਿੰਦਾ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| क्रोध | krodha | m | ਕ੍ਰੋਧ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
-| क्लेश | kleśa | m | ਕਲੇਸ਼, ਪੀੜਾ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
-| क्षत्रिय | kṣatriya | m | ਕਸ਼ਤਰੀ (ਰਾਜਪੁਤ ਅਤੇ ਫੌਜੀ ਵਰਗ)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
-| क्षत्रिया | kṣatriyā | f | ਮਾਦਾ ਕṣatriya। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| क्षत्रियी | kṣatriyī | f | ਇੱਕ ਕṣatriya ਦੀ ਪਤਨੀ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| क्षमा | kṣamā | f | ਧੀਰਜ, ਧੀਰਜ, ਸਹਿਣਸ਼ੀਲਤਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
-| क्षेम | kṣema | n | ਸ਼ਾਂਤੀ, ਸੁਰੱਖਿਅਤ ਮਾਲਕੀ, ਖੁਸ਼ਹਾਲੀ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| काम | [kāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kāma&filter=roman) | m | ਇਛਾ, ਭਾਵਨਾ, ਚਾਹੀਦੀ ਦਿੱਤੀ ਗਈ ਚੀਜ਼, ਇੰਦ੍ਰੀਆਂ ਦਾ ਸੁਖ, ਪ੍ਰੇਮ; ਪ੍ਰੇਮ ਦੇਵਤਾ ਕਾਮ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| काल | [kāla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kāla&filter=roman) | m | ਸਮਾਂ, (ਸਹੀ) ਸਮਾਂ ; ਕਿਸਮਤ, ਮੌਤ ; ਮੌਤ ਦੇਵਤਾ ਕਾਲ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| कियत् | [kiyat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kiyat&filter=roman) | 3 | ਕਿੰਨਾ ਵੱਡਾ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
+| कुतुक | [kutuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kutuka&filter=roman) | n | = कुलूहल n | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| कुप् कुप्यति | [kup](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kup&filter=roman) | 4 P (kupyati) | ਕ੍ਰੋਧ ਕਰਨਾ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| कुमार | [kumāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kumāra&filter=roman) | m | ਬੱਚਾ, ਜਵਾਨ, ਰਾਜਕੁਮਾਰ; कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ്യ ਦਾ ਉਪਨਾਮ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| कुमारी | [kumārī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kumārī&filter=roman) | f | ਕੁੜੀ, ਕੁੜੀ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| कुमारी | [kumārī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kumārī&filter=roman) | f | ਕੁੜੀ, ਧੀ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| कुल | [kula](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kula&filter=roman) | n | ਝੁੰਡ, ਗਿਣਤੀ, ਜਾਤੀ, ਵੰਸ਼, ਪਰਿਵਾਰ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| कुलूहल | [kulūhala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kulūhala&filter=roman) | n | ਦਿਲਚਸਪੀ, ਰੁਚੀ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| कृ करोति | [kṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kṛ&filter=roman) | 8 U (karoti) | ਕਰਨਾ, ਕੰਮ ਕਰਨਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| कृत्स्न | [kṛtsna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kṛtsna&filter=roman) | 3 | ਪੂਰਾ, ਸੰਪੂਰਨ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| कृष् कर्षति | [kṛṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kṛṣ&filter=roman) | 1 P (karṣati) | ਖਿੱਚਣਾ | [9](/pa/lektionen/lektion09#_9-3-ਸ਼ਬਦਾਵਲੀ) |
+| कृष् कृषति | [kṛṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kṛṣ&filter=roman) | 6 U (kṛṣati) | ਜੁਆਈ ਕੱਢਣਾ | [9](/pa/lektionen/lektion09#_9-3-ਸ਼ਬਦਾਵਲੀ) |
+| कोविद | [kovida](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kovida&filter=roman) | 3 | ਮਾਹਰ (षष्ठ्या सप्तम्या वा) ਵਿੱਚ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| कौमर | [kaumara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kaumara&filter=roman) | n | ਬਚਪਨ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| क्रुध् क्रुध्यति | [krudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=krudh&filter=roman) | 4 P (krudhyati) | ਕ੍ਰੋਧ ਕਰਨਾ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| क्रूर | [krūra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=krūra&filter=roman) | 3 | ਕੱਚਾ, ਦਰਿੰਦਾ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| क्रोध | [krodha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=krodha&filter=roman) | m | ਕ੍ਰੋਧ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| क्लेश | [kleśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kleśa&filter=roman) | m | ਕਲੇਸ਼, ਪੀੜਾ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| क्षत्रिय | [kṣatriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kṣatriya&filter=roman) | m | ਕਸ਼ਤਰੀ (ਰਾਜਪੁਤ ਅਤੇ ਫੌਜੀ ਵਰਗ)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
+| क्षत्रिया | [kṣatriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kṣatriyā&filter=roman) | f | ਮਾਦਾ ਕṣatriya। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| क्षत्रियी | [kṣatriyī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kṣatriyī&filter=roman) | f | ਇੱਕ ਕṣatriya ਦੀ ਪਤਨੀ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| क्षमा | [kṣamā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kṣamā&filter=roman) | f | ਧੀਰਜ, ਧੀਰਜ, ਸਹਿਣਸ਼ੀਲਤਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| क्षेम | [kṣema](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=kṣema&filter=roman) | n | ਸ਼ਾਂਤੀ, ਸੁਰੱਖਿਅਤ ਮਾਲਕੀ, ਖੁਸ਼ਹਾਲੀ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
 
 ## ख
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| खाद् खादति | khād | 1 P (khādati) | ਚਬਾਉਣਾ, ਖਾਣਾ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
-| खिल | khila | m | ਬਰਜ਼ਾਦ ਜ਼ਮੀਨ, ਉਜਾੜ ਭੂਮੀ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| खाद् खादति | [khād](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=khād&filter=roman) | 1 P (khādati) | ਚਬਾਉਣਾ, ਖਾਣਾ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| खिल | [khila](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=khila&filter=roman) | m | ਬਰਜ਼ਾਦ ਜ਼ਮੀਨ, ਉਜਾੜ ਭੂਮੀ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
 
 ## ग
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| गज | gaja | m | ਹਾਥੀ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| गम् गच्छति | gam | 1 P (gacchati) | ਜਾਣਾ (ਸਥਾਨਿਕ ਕ੍ਰਿਆ ਵਰਗੀਕਰਨ ਦੇ ਅਨੁਸਾਰ ਇਹ ਪ੍ਰਯੁਕਤ ਵਰਗ 1 ਵਿੱਚ ਆਉਂਦਾ ਹੈ, ਪਰ ਅਸਲ ਵਿੱਚ ਇਹ ਇੱਕ ਪ੍ਰਯੁਕਤ ਮੂਲ ਸ਼ਬਦ **-ccha-** ਨਾਲ  | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
-| गुण | guṇa | m | ਰੰਦ, ਦੋਰ; ਗੁਣ, ਚੰਗਾ ਗੁਣ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
-| गुप्त | gupta | 3 | ਰੱਖਿਆ ਕੀਤਾ, ਸੁਰੱਖਿਅਤ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| गज | [gaja](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=gaja&filter=roman) | m | ਹਾਥੀ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| गम् गच्छति | [gam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=gam&filter=roman) | 1 P (gacchati) | ਜਾਣਾ (ਸਥਾਨਿਕ ਕ੍ਰਿਆ ਵਰਗੀਕਰਨ ਦੇ ਅਨੁਸਾਰ ਇਹ ਪ੍ਰਯੁਕਤ ਵਰਗ 1 ਵਿੱਚ ਆਉਂਦਾ ਹੈ, ਪਰ ਅਸਲ ਵਿੱਚ ਇਹ ਇੱਕ ਪ੍ਰਯੁਕਤ ਮੂਲ ਸ਼ਬਦ **-ccha-** ਨਾਲ  | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| गुण | [guṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=guṇa&filter=roman) | m | ਰੰਦ, ਦੋਰ; ਗੁਣ, ਚੰਗਾ ਗੁਣ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
+| गुप्त | [gupta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=gupta&filter=roman) | 3 | ਰੱਖਿਆ ਕੀਤਾ, ਸੁਰੱਖਿਅਤ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
 | गुरु | ਗੁਰੂ | 3 | ਭਾਰੀ, ਮਹੱਤਵਪੂਰਨ, ਪੂਜਨੀਯ | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
-| गुर्वी | gurvī | f | ਮਾਦਾ ਰੂਪ guru ਦਾ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| गृह | gṛha | n | ਘਰ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
-| गृहस्थ | gṛhastha | 3 | ਘਰ ਵਿੱਚ ਮੌਜੂਦ ; p. ਘਰ ਦਾ ਮਾਲਕ (ਕੋਈ ਵਿਅਕਤੀ ਜੋ 2. आश्रम ਵਿੱਚ ਹੈ) | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
-| गोदान | godāna | n | ਗਾਵਾਂ / ਇੱਕ ਗਾਊ ਦਾ ਦੇਣਾ ; ਦੂਜਾ ਵਾਲ ਕੱਟਣ ਦਾ ਸੰਸਕਾਰ (ਇੱਕ संस्कार) | [25](/pa/lektionen/lektion25#_25-5-ਸ਼ਬਦਾਵਲੀ) |
-| ग्रह | graha | m | ਫੜਨਾ, ਫੜਨ ਵਾਲਾ, ਮੱਘਰ, ਚਲਦਾ ਤਾਰਾ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
-| ग्राम | grāma | m | ਪਿੰਡ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
+| गुर्वी | [gurvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=gurvī&filter=roman) | f | ਮਾਦਾ ਰੂਪ guru ਦਾ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| गृह | [gṛha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=gṛha&filter=roman) | n | ਘਰ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
+| गृहस्थ | [gṛhastha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=gṛhastha&filter=roman) | 3 | ਘਰ ਵਿੱਚ ਮੌਜੂਦ ; p. ਘਰ ਦਾ ਮਾਲਕ (ਕੋਈ ਵਿਅਕਤੀ ਜੋ 2. आश्रम ਵਿੱਚ ਹੈ) | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| गोदान | [godāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=godāna&filter=roman) | n | ਗਾਵਾਂ / ਇੱਕ ਗਾਊ ਦਾ ਦੇਣਾ ; ਦੂਜਾ ਵਾਲ ਕੱਟਣ ਦਾ ਸੰਸਕਾਰ (ਇੱਕ संस्कार) | [25](/pa/lektionen/lektion25#_25-5-ਸ਼ਬਦਾਵਲੀ) |
+| ग्रह | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=graha&filter=roman) | m | ਫੜਨਾ, ਫੜਨ ਵਾਲਾ, ਮੱਘਰ, ਚਲਦਾ ਤਾਰਾ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
+| ग्राम | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=grāma&filter=roman) | m | ਪਿੰਡ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
 
 ## घ
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| घात | ghāta | m | ਕਤਲ | [17](/pa/lektionen/lektion17#_17-6-ਸ਼ਬਦਾਵਲੀ) |
+| घात | [ghāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ghāta&filter=roman) | m | ਕਤਲ | [17](/pa/lektionen/lektion17#_17-6-ਸ਼ਬਦਾਵਲੀ) |
 
 ## च
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| चक्र | cakra | n | ਚੱਕਰ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| चतुर्थ | caturtha | 3 | (f.: चतुर्थी): ਚੌਥਾ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| चरित्र | caritra | n | ਰਿਵਾਜ, ਰਸਮ, ਰਵਾਇਤੀ ਕਾਨੂੰਨ ; ਵਿਵਹਾਰ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| चाण्डाल । चण्डाल | cāṇḍāla | m | [ਦਲਿਤਾਂ](http://de.wikipedia.org/wiki/Dalit) ਦੀ ਸਭ ਤੋਂ ਹੇਠਲੀ ਕੜੀ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| चित्त | citta | n | ਚੇਤਨਾ, ਵਿਚਾਰ, ਮਨ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
-| चिन्तापर | cintāpara | 3 | ਵਿਚਾਰਾਂ ਵਿੱਚ ਡੁੱਬਿਆ ਹੋਇਆ | [42](/pa/lektionen/lektion42#_42-2-ਸ਼ਬਦਾਵਲੀ) |
+| चक्र | [cakra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=cakra&filter=roman) | n | ਚੱਕਰ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| चतुर्थ | [caturtha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=caturtha&filter=roman) | 3 | (f.: चतुर्थी): ਚੌਥਾ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| चरित्र | [caritra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=caritra&filter=roman) | n | ਰਿਵਾਜ, ਰਸਮ, ਰਵਾਇਤੀ ਕਾਨੂੰਨ ; ਵਿਵਹਾਰ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| चाण्डाल । चण्डाल | [cāṇḍāla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=cāṇḍāla&filter=roman) | m | [ਦਲਿਤਾਂ](http://de.wikipedia.org/wiki/Dalit) ਦੀ ਸਭ ਤੋਂ ਹੇਠਲੀ ਕੜੀ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| चित्त | [citta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=citta&filter=roman) | n | ਚੇਤਨਾ, ਵਿਚਾਰ, ਮਨ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| चिन्तापर | [cintāpara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=cintāpara&filter=roman) | 3 | ਵਿਚਾਰਾਂ ਵਿੱਚ ਡੁੱਬਿਆ ਹੋਇਆ | [42](/pa/lektionen/lektion42#_42-2-ਸ਼ਬਦਾਵਲੀ) |
 
 ## छ
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| छन्न | channa | n | ਢੱਕਣ, ਲੁਕਾਉਣ ਦੀ ਥਾਂ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| छन्न | [channa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=channa&filter=roman) | n | ਢੱਕਣ, ਲੁਕਾਉਣ ਦੀ ਥਾਂ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
 
 ## ज
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| जटा | jaṭā | f | ਵਾਲਾਂ ਦੀ ਟੋਕਰੀ (ਸ਼ਰਧਾਲੂ ਦਾ ਵਾਲਾਂ ਦਾ ਵਿੰਗ) | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| जाति | jāti | f | ਜਨਮ, ਕਿਸਮ, ਜਾਤ (जाति ਦਾ ਜਾਤ ਵਜੋਂ ਦੇਖੋ ਬਾਸ਼ਮ, ਅਦਭੁਤ, ਸਫ਼ਾ 148ff.) | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| जाया | jāyā | f | ਪਤਨੀ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| जि जयति | ji | 1 P (jayati) | ਜਿੱਤਣਾ, ਹਰਾਉਣਾ, ਵਿਜੇ ਪ੍ਰਾਪਤ ਕਰਨਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| जीव | jīva | m | /n.: ਜੀਵਨ, ਵਿਅਕਤੀਗਤ ਆਤਮਾ | [30](/pa/lektionen/lektion30#_30-6-ਸ਼ਬਦਾਵਲੀ) |
-| ज्ञाति | jñāti | m | (ਰਕਤ) ਸੰਬੰਧੀ (ਸੰਬੰਧੀ ਉਹ ਹਨ ਜਿਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ!) | [30](/pa/lektionen/lektion30#_30-6-ਸ਼ਬਦਾਵਲੀ) |
-| ज्ञान | jñāna | n | ਜਾਣਕਾਰੀ, ਗਿਆਨ, ਪਛਾਣ (ਖਾਸ ਕਰਕੇ ਧਰਮ ਅਤੇ ਦਾਰਸ਼ਨਿਕ "ਉੱਚ" ਸੱਚਾਈਆਂ) | [30](/pa/lektionen/lektion30#_30-6-ਸ਼ਬਦਾਵਲੀ) |
+| जटा | [jaṭā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=jaṭā&filter=roman) | f | ਵਾਲਾਂ ਦੀ ਟੋਕਰੀ (ਸ਼ਰਧਾਲੂ ਦਾ ਵਾਲਾਂ ਦਾ ਵਿੰਗ) | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| जाति | [jāti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=jāti&filter=roman) | f | ਜਨਮ, ਕਿਸਮ, ਜਾਤ (जाति ਦਾ ਜਾਤ ਵਜੋਂ ਦੇਖੋ ਬਾਸ਼ਮ, ਅਦਭੁਤ, ਸਫ਼ਾ 148ff.) | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| जाया | [jāyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=jāyā&filter=roman) | f | ਪਤਨੀ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| जि जयति | [ji](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=ji&filter=roman) | 1 P (jayati) | ਜਿੱਤਣਾ, ਹਰਾਉਣਾ, ਵਿਜੇ ਪ੍ਰਾਪਤ ਕਰਨਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| जीव | [jīva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=jīva&filter=roman) | m | /n.: ਜੀਵਨ, ਵਿਅਕਤੀਗਤ ਆਤਮਾ | [30](/pa/lektionen/lektion30#_30-6-ਸ਼ਬਦਾਵਲੀ) |
+| ज्ञाति | [jñāti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=jñāti&filter=roman) | m | (ਰਕਤ) ਸੰਬੰਧੀ (ਸੰਬੰਧੀ ਉਹ ਹਨ ਜਿਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ!) | [30](/pa/lektionen/lektion30#_30-6-ਸ਼ਬਦਾਵਲੀ) |
+| ज्ञान | [jñāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=jñāna&filter=roman) | n | ਜਾਣਕਾਰੀ, ਗਿਆਨ, ਪਛਾਣ (ਖਾਸ ਕਰਕੇ ਧਰਮ ਅਤੇ ਦਾਰਸ਼ਨਿਕ "ਉੱਚ" ਸੱਚਾਈਆਂ) | [30](/pa/lektionen/lektion30#_30-6-ਸ਼ਬਦਾਵਲੀ) |
 
 ## त
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| तन् तनोति | tan | 8 U (tanoti) | ਫੈਲਾਉਣਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| तन्त्र | tantra | n | ਤਾਰ ; ਢਾਹ, ਢਾਹ ਦੀ ਧਾਗੀ, ਬੁਣਾਈ ; ਆਧਾਰ, ਮਾਪਦੰਡ, ਨਿਯਮ ; ਸਿੱਖਿਆ, ਸਿੱਖਿਆ-ਪੁਸਤਕ ; ਤੰਤਰ ; ਮੰਤਰ ; ਮੱਧਮ, ਚਾਲ, ਦਵਾਈ ; ਸਰਕਾਰ, ਅਧਿਕਾ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| तरय | taraya | 3 | (f.: तरयी): ਤਿੰਨ-ਭਾਗੀ, ਤਿੰਨ ਭਾਗਾਂ ਦਾ ਬਣਿਆ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| तीक्ष्ण | tīkṣṇa | 3 | "ਜੰਗਲੀ", ਤਿੱਖਾ, ਤਿੱਖਾ, ਸਖ਼ਤ, ਤੇਜ਼, ਤਿੱਖੀ ਜੁਬਾਨ ਵਾਲਾ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
-| तीर्थ | tīrtha | n | ਫ਼ੋਰ, ਪਵਿੱਤਰ ਸਨਾਨ ਸਥਾਨ, ਤੀਰਥ ਸਥਾਨ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
-| तीर्थङ्कर | tīrthaṅkara | m | (ਸੋਤ: तीर्थम्+ कृ): ਫ਼ੋਰ ਬਣਾਉਣ ਵਾਲਾ (ਦੁੱਖ ਤੋਂ ਪਾਰ) = ਜੈਨ 24 ਗੁਰੂ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
-| तु | tu | — | ਪਰ (ਉਲਟ ਵਾਕ ਜਾਂ ਵਾਕ ਦੇ ਭਾਗ ਦੇ ਪਹਿਲੇ ਸ਼ਬਦ ਤੋਂ ਬਾਅਦ ਆਉਂਦਾ ਹੈ) | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| तुल्य | tulya | 3 | ਸਮਾਨ, ਸਮਾਨ (तृतीयया) | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| तृण | tṛṇa | n | ਘਾਹ ਦਾ ਦਾਣਾ | [24](/pa/lektionen/lektion24#_24-4-ਸ਼ਬਦਾਵਲੀ) |
-| त्रयी | trayī | f | ਤਿੰਨਾਂ ਦੀ ਗਿਣਤੀ; ਖਾਸ ਤੌਰ 'ਤੇ ਤਿੰਨ ਵੇਦ (Ṛgveda, Sāmaveda, Yajurveda)। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
-| त्रि | tri | 3 | ਤਿੰਨ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| त्रिपिष्टप | tripiṣṭapa | n | ਇੰਦਰ ਦਾ ਸਵਰਗ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| त्रिवर्ग | trivarga | m | ਤਿੰਨਾਂ ਦਾ ਸਮੂਹ (ਜਿਵੇਂ धर्मः, अर्थः, कामः; ਜਾਂ: सत्त्वम्, रजस्, तमस्; ਜਾਂ: ब्राह्मणाः, क्षत्रियाः, वैश्याः) | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| तन् तनोति | [tan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=tan&filter=roman) | 8 U (tanoti) | ਫੈਲਾਉਣਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| तन्त्र | [tantra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=tantra&filter=roman) | n | ਤਾਰ ; ਢਾਹ, ਢਾਹ ਦੀ ਧਾਗੀ, ਬੁਣਾਈ ; ਆਧਾਰ, ਮਾਪਦੰਡ, ਨਿਯਮ ; ਸਿੱਖਿਆ, ਸਿੱਖਿਆ-ਪੁਸਤਕ ; ਤੰਤਰ ; ਮੰਤਰ ; ਮੱਧਮ, ਚਾਲ, ਦਵਾਈ ; ਸਰਕਾਰ, ਅਧਿਕਾ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| तरय | [taraya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=taraya&filter=roman) | 3 | (f.: तरयी): ਤਿੰਨ-ਭਾਗੀ, ਤਿੰਨ ਭਾਗਾਂ ਦਾ ਬਣਿਆ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| तीक्ष्ण | [tīkṣṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=tīkṣṇa&filter=roman) | 3 | "ਜੰਗਲੀ", ਤਿੱਖਾ, ਤਿੱਖਾ, ਸਖ਼ਤ, ਤੇਜ਼, ਤਿੱਖੀ ਜੁਬਾਨ ਵਾਲਾ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| तीर्थ | [tīrtha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=tīrtha&filter=roman) | n | ਫ਼ੋਰ, ਪਵਿੱਤਰ ਸਨਾਨ ਸਥਾਨ, ਤੀਰਥ ਸਥਾਨ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
+| तीर्थङ्कर | [tīrthaṅkara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=tīrthaṅkara&filter=roman) | m | (ਸੋਤ: तीर्थम्+ कृ): ਫ਼ੋਰ ਬਣਾਉਣ ਵਾਲਾ (ਦੁੱਖ ਤੋਂ ਪਾਰ) = ਜੈਨ 24 ਗੁਰੂ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
+| तु | [tu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=tu&filter=roman) | — | ਪਰ (ਉਲਟ ਵਾਕ ਜਾਂ ਵਾਕ ਦੇ ਭਾਗ ਦੇ ਪਹਿਲੇ ਸ਼ਬਦ ਤੋਂ ਬਾਅਦ ਆਉਂਦਾ ਹੈ) | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| तुल्य | [tulya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=tulya&filter=roman) | 3 | ਸਮਾਨ, ਸਮਾਨ (तृतीयया) | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| तृण | [tṛṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=tṛṇa&filter=roman) | n | ਘਾਹ ਦਾ ਦਾਣਾ | [24](/pa/lektionen/lektion24#_24-4-ਸ਼ਬਦਾਵਲੀ) |
+| त्रयी | [trayī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=trayī&filter=roman) | f | ਤਿੰਨਾਂ ਦੀ ਗਿਣਤੀ; ਖਾਸ ਤੌਰ 'ਤੇ ਤਿੰਨ ਵੇਦ (Ṛgveda, Sāmaveda, Yajurveda)। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| त्रि | [tri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=tri&filter=roman) | 3 | ਤਿੰਨ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| त्रिपिष्टप | [tripiṣṭapa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=tripiṣṭapa&filter=roman) | n | ਇੰਦਰ ਦਾ ਸਵਰਗ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| त्रिवर्ग | [trivarga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=trivarga&filter=roman) | m | ਤਿੰਨਾਂ ਦਾ ਸਮੂਹ (ਜਿਵੇਂ धर्मः, अर्थः, कामः; ਜਾਂ: सत्त्वम्, रजस्, तमस्; ਜਾਂ: ब्राह्मणाः, क्षत्रियाः, वैश्याः) | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
 
 ## द
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| दण्डनीति | daṇḍanīti | f | ਰਾਜਨੀਤੀ (ਇੱਕ ਤਤਪੁਰੁਸ਼ daṇḍa m. = "ਲੱਛੀ, ਸ਼ਕਤੀ, ਰਾਜ, ਸਜਾ" ਅਤੇ nīti f. = "ਸਹੀ ਨੇਤ੍ਰਤਾ" ਤੋਂ)। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
-| दह् दहति दग्ध | dah | 1 P (dahati), PPP **dagdha** | (ਕੁਝ) ਸਾੜਨਾ | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
-| दास | dāsa | m | ਗੁਲਾਮ, ਜ਼ਿਮੀਦਾਰ, ਸੇਵਕ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| दासी | dāsī | f | ਗੁਲਾਮ, ਜ਼ਿਮੀਦਾਰ, ਸੇਵਿਕਾ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| दिव्य | divya | 3 | ਸਾਮੁੰਦਰੀ, ਦੇਵਤਾ ਸੰਬੰਧੀ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| दिष्टि | diṣṭi | f | ਨਿਰਦੇਸ਼, ਖੁਸ਼ਕਿਸਮਤੀ | [17](/pa/lektionen/lektion17#_17-6-ਸ਼ਬਦਾਵਲੀ) |
-| दीर्घ | dīrgha | 3 | ਲੰਬਾ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| दुःख | duḥkha | n | ਅਭਾਗਾ, ਦੁੱਖ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| देव | deva | m | ਸੁਰਗੀ, ਦੇਵਤਾ; ਰਾਜਾ, ਸ਼ਾਸਕ। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
-| देवता | devatā | f | ਦੇਵਤਾ (ਅਬਸਟਰੈਕਟ ਅਤੇ ਕੰਕਰੀਟ)। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| देवी | devī | f | ਦੇਵੀ, ਖਾਸ ਤੌਰ 'ਤੇ Durgā f. = दुर्गा, ਸ਼ਿਵ ਦੀ ਪਤਨੀ = शिव। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| देश | deśa | m | ਸਥਾਨ, ਜਗ੍ਹਾ, ਦੇਸ਼, ਖੇਤਰ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
-| द्विज | dvija | m | "ਦੋ-ਵਾਰ ਜੰਮਿਆ" (ਉੱਪਰਲੇ ਤਿੰਨ ਵਰਗਾਂ ਦੇ ਸੰਸਕਾਰਿਤ: ਬ੍ਰਾਹਮਣ, ਕਸ਼ਤਰੀ, ਵੈਸ਼)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
-| द्विष् द्वेष्टि द्विष्यते द्विष्ट | dviṣ | 2 U (dveṣṭi), ਪਾਸ. dviṣyate, PPP dviṣṭa | ਨਫਰਤ ਕਰਨਾ, ਦੁਸ਼ਮਣੀ ਕਰਨਾ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
-| द्वेष | dveṣa | m | ਦ੍ਵੇਸ਼, ਦੁਸ਼ਮਣੀ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| दण्डनीति | [daṇḍanīti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=daṇḍanīti&filter=roman) | f | ਰਾਜਨੀਤੀ (ਇੱਕ ਤਤਪੁਰੁਸ਼ daṇḍa m. = "ਲੱਛੀ, ਸ਼ਕਤੀ, ਰਾਜ, ਸਜਾ" ਅਤੇ nīti f. = "ਸਹੀ ਨੇਤ੍ਰਤਾ" ਤੋਂ)। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| दह् दहति दग्ध | [dah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=dah&filter=roman) | 1 P (dahati), PPP **dagdha** | (ਕੁਝ) ਸਾੜਨਾ | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
+| दास | [dāsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=dāsa&filter=roman) | m | ਗੁਲਾਮ, ਜ਼ਿਮੀਦਾਰ, ਸੇਵਕ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| दासी | [dāsī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=dāsī&filter=roman) | f | ਗੁਲਾਮ, ਜ਼ਿਮੀਦਾਰ, ਸੇਵਿਕਾ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| दिव्य | [divya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=divya&filter=roman) | 3 | ਸਾਮੁੰਦਰੀ, ਦੇਵਤਾ ਸੰਬੰਧੀ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| दिष्टि | [diṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=diṣṭi&filter=roman) | f | ਨਿਰਦੇਸ਼, ਖੁਸ਼ਕਿਸਮਤੀ | [17](/pa/lektionen/lektion17#_17-6-ਸ਼ਬਦਾਵਲੀ) |
+| दीर्घ | [dīrgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=dīrgha&filter=roman) | 3 | ਲੰਬਾ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| दुःख | [duḥkha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=duḥkha&filter=roman) | n | ਅਭਾਗਾ, ਦੁੱਖ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| देव | [deva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=deva&filter=roman) | m | ਸੁਰਗੀ, ਦੇਵਤਾ; ਰਾਜਾ, ਸ਼ਾਸਕ। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
+| देवता | [devatā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=devatā&filter=roman) | f | ਦੇਵਤਾ (ਅਬਸਟਰੈਕਟ ਅਤੇ ਕੰਕਰੀਟ)। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| देवी | [devī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=devī&filter=roman) | f | ਦੇਵੀ, ਖਾਸ ਤੌਰ 'ਤੇ Durgā f. = दुर्गा, ਸ਼ਿਵ ਦੀ ਪਤਨੀ = शिव। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| देश | [deśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=deśa&filter=roman) | m | ਸਥਾਨ, ਜਗ੍ਹਾ, ਦੇਸ਼, ਖੇਤਰ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| द्विज | [dvija](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=dvija&filter=roman) | m | "ਦੋ-ਵਾਰ ਜੰਮਿਆ" (ਉੱਪਰਲੇ ਤਿੰਨ ਵਰਗਾਂ ਦੇ ਸੰਸਕਾਰਿਤ: ਬ੍ਰਾਹਮਣ, ਕਸ਼ਤਰੀ, ਵੈਸ਼)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
+| द्विष् द्वेष्टि द्विष्यते द्विष्ट | [dviṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=dviṣ&filter=roman) | 2 U (dveṣṭi), ਪਾਸ. dviṣyate, PPP dviṣṭa | ਨਫਰਤ ਕਰਨਾ, ਦੁਸ਼ਮਣੀ ਕਰਨਾ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
+| द्वेष | [dveṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=dveṣa&filter=roman) | m | ਦ੍ਵੇਸ਼, ਦੁਸ਼ਮਣੀ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
 | द्वेष | ਦਵੇਸ਼ | — | ਦੁਸ਼ਮਣੀ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
 
 ## ध
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| धर्म | dharma | m | ("ਜੋ ਸਥਿਰ ਹੈ", ਭਾਵ) ਨਿਆਂ, ਕਾਨੂੰਨ, ਰਿਵਾਜ, ਵਿਸ਼ੇਸ਼ਤਾ। | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
-| धीर | dhīra | 3 | ਮਜ਼ਬੂਤ, ਸਥਿਰ, ਲਗਾਤਾਰ, ਦ੍ਰਿੜ੍ਹ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| धेनु | dhenu | f | (ਦੁੱਧ) ਗਾਇ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| ध्रुव | dhruva | 3 | ਸਥਿਰ, ਅਪਰਿਵਰਤਨੀਯ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| धर्म | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=dharma&filter=roman) | m | ("ਜੋ ਸਥਿਰ ਹੈ", ਭਾਵ) ਨਿਆਂ, ਕਾਨੂੰਨ, ਰਿਵਾਜ, ਵਿਸ਼ੇਸ਼ਤਾ। | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| धीर | [dhīra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=dhīra&filter=roman) | 3 | ਮਜ਼ਬੂਤ, ਸਥਿਰ, ਲਗਾਤਾਰ, ਦ੍ਰਿੜ੍ਹ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| धेनु | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=dhenu&filter=roman) | f | (ਦੁੱਧ) ਗਾਇ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| ध्रुव | [dhruva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=dhruva&filter=roman) | 3 | ਸਥਿਰ, ਅਪਰਿਵਰਤਨੀਯ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
 
 ## न
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| नगर | nagara | n | ਸ਼ਹਿਰ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
-| नरक | naraka | m | ਨਰਕ (ਇੱਕ ਹਿੰਦੂ ਵਿਚਾਰਧਾਰਾ ਦੇ ਅਨੁਸਾਰ, ਬ੍ਰਹਿਮੰਡ ਦਾ ਰੂਪ ਇੱਕ ਡਿੰਡੋਰੇ (**Brahmāṇḍa** m.n. = ब्रह्माण्ड = "ਬ੍ਰਹਮਾ ਦਾ ਡਿੰਡੋਰਾ"): | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
-| नवग्रह | navagraha | m | ਨੌਂ ਚਲਦੇ ਤਾਰੇ (ਗ੍ਰਹਿ ਨਹੀਂ!) (ਸ. Basham, Wonder S. 493): | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
-| नाग | nāga | m | ਨੰਗਾ, ਹਾਥੀ, ਸੱਪ (ਹਾਥੀ ਅਤੇ ਸੱਪ ਦਾ ਕੋਈ ਵਾਲ ਨਹੀਂ ਹੁੰਦਾ, ਇਸੇ ਤਰ੍ਹਾਂ "ਨੰਗੇ ਬੰਦਰ" ਮਨੁੱਖ ਦਾ ਵੀ ਨਹੀਂ ਹੁੰਦਾ) | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| नामन् | nāman | n | ਨਾਮ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| निखिल | nikhila | 3 | ਪੂਰਾ, ਸਾਰਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| निरोध | nirodha | m | ਰੁਕਣਾ, ਰੋਕਣਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
-| निर्वाण | nirvāṇa | n | ਬੁਝਣਾ, ਨਿਰਵਾਣ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| निश्चित | niścita | 3 | ਨਿਸ਼ਚਿਤ, ਨਿਯਤ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
-| निषेक | niṣeka | m | ਛਿੜਕਾਉਣਾ, ਉਪਜਾਊ, ਤਰਲ, ਅਸ਼ਟਕ, ਸੰਤਾਨ ਪ੍ਰਾਪਤੀ ਦੌਰਾਨ ਰਸਮ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
-| नी नयति | nī | 1 U (nayati) | ਲਿਜਾਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
-| नृत् नृत्यति | nṛt | 4 P (nṛtyati) | ਨੱਚਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
-| नृत्य | nṛtya | n | ਨਾਚ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
-| नृशंस्य | nṛśaṃsya | n | ਬੁਰਾਈ, ਨਿੰਦਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
-| न्याय | nyāya | m | ਨਿਯਮ, ਨਿਯਮ, ਸਹੀ ਤਰੀਕਾ; ਵਿਧੀ, ਤਰਕ (इ + नि ਤੋਂ) | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| नगर | [nagara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=nagara&filter=roman) | n | ਸ਼ਹਿਰ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
+| नरक | [naraka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=naraka&filter=roman) | m | ਨਰਕ (ਇੱਕ ਹਿੰਦੂ ਵਿਚਾਰਧਾਰਾ ਦੇ ਅਨੁਸਾਰ, ਬ੍ਰਹਿਮੰਡ ਦਾ ਰੂਪ ਇੱਕ ਡਿੰਡੋਰੇ (**Brahmāṇḍa** m.n. = ब्रह्माण्ड = "ਬ੍ਰਹਮਾ ਦਾ ਡਿੰਡੋਰਾ"): | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| नवग्रह | [navagraha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=navagraha&filter=roman) | m | ਨੌਂ ਚਲਦੇ ਤਾਰੇ (ਗ੍ਰਹਿ ਨਹੀਂ!) (ਸ. Basham, Wonder S. 493): | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
+| नाग | [nāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=nāga&filter=roman) | m | ਨੰਗਾ, ਹਾਥੀ, ਸੱਪ (ਹਾਥੀ ਅਤੇ ਸੱਪ ਦਾ ਕੋਈ ਵਾਲ ਨਹੀਂ ਹੁੰਦਾ, ਇਸੇ ਤਰ੍ਹਾਂ "ਨੰਗੇ ਬੰਦਰ" ਮਨੁੱਖ ਦਾ ਵੀ ਨਹੀਂ ਹੁੰਦਾ) | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| नामन् | [nāman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=nāman&filter=roman) | n | ਨਾਮ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| निखिल | [nikhila](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=nikhila&filter=roman) | 3 | ਪੂਰਾ, ਸਾਰਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| निरोध | [nirodha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=nirodha&filter=roman) | m | ਰੁਕਣਾ, ਰੋਕਣਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| निर्वाण | [nirvāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=nirvāṇa&filter=roman) | n | ਬੁਝਣਾ, ਨਿਰਵਾਣ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| निश्चित | [niścita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=niścita&filter=roman) | 3 | ਨਿਸ਼ਚਿਤ, ਨਿਯਤ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
+| निषेक | [niṣeka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=niṣeka&filter=roman) | m | ਛਿੜਕਾਉਣਾ, ਉਪਜਾਊ, ਤਰਲ, ਅਸ਼ਟਕ, ਸੰਤਾਨ ਪ੍ਰਾਪਤੀ ਦੌਰਾਨ ਰਸਮ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| नी नयति | [nī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=nī&filter=roman) | 1 U (nayati) | ਲਿਜਾਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
+| नृत् नृत्यति | [nṛt](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=nṛt&filter=roman) | 4 P (nṛtyati) | ਨੱਚਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
+| नृत्य | [nṛtya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=nṛtya&filter=roman) | n | ਨਾਚ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| नृशंस्य | [nṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=nṛśaṃsya&filter=roman) | n | ਬੁਰਾਈ, ਨਿੰਦਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| न्याय | [nyāya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=nyāya&filter=roman) | m | ਨਿਯਮ, ਨਿਯਮ, ਸਹੀ ਤਰੀਕਾ; ਵਿਧੀ, ਤਰਕ (इ + नि ਤੋਂ) | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
 
 ## प
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| पञ्जर | pañjara | n | ਪੰਜਰ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| पण्डित | paṇḍita | 3 | ਬੁੱਧਿਮਾਨ, ਜਾਣਦਾ, ਪੜ੍ਹਿਆ-ਲਿਖਿਆ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
-| पण्य | paṇya | 3 | ਖਰੀਦਣਯੋਗ; ਨਪ.: ਸਮਾਨ, ਵਪਾਰ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
-| पत् पतति | pat | 1 P (patati) | ਡਿੱਗਣਾ, ਉਡਾਰੀ ਕੱਢਣਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| पत्रिका | patrikā | f | ਚਿੱਠੀ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| पञ्जर | [pañjara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=pañjara&filter=roman) | n | ਪੰਜਰ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| पण्डित | [paṇḍita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=paṇḍita&filter=roman) | 3 | ਬੁੱਧਿਮਾਨ, ਜਾਣਦਾ, ਪੜ੍ਹਿਆ-ਲਿਖਿਆ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| पण्य | [paṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=paṇya&filter=roman) | 3 | ਖਰੀਦਣਯੋਗ; ਨਪ.: ਸਮਾਨ, ਵਪਾਰ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
+| पत् पतति | [pat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=pat&filter=roman) | 1 P (patati) | ਡਿੱਗਣਾ, ਉਡਾਰੀ ਕੱਢਣਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| पत्रिका | [patrikā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=patrikā&filter=roman) | f | ਚਿੱਠੀ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
 | पद | ਪਦ | ਨ | ਕਦਮ, ਸਥਾਨ, ਸਥਾਨ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
-| पर | para | 3 | (ਅਵਯ. सर्व ਵਾਂਗ) ਦੂਰ, ਪਰਾਇਆ, ਉੱਚਾ (पञ्चम्या), ਅੰਤਿਮ, ਸਭ ਤੋਂ ਉੱਚਾ; ਦੂਜਾ, ਪਰਾਇਆ, ਦੁਸ਼ਮਣ; m.: ਪਰਾਇਆ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| परंपरा | paraṃparā | f | ਲਗਾਤਾਰ ਲੜੀ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| परम | parama | 3 | ਸਭ ਤੋਂ ਦੂਰ, ਸਭ ਤੋਂ ਉੱਚਾ ; पञ्चम्या : ਬਿਹਤਰ, ਉੱਚਾ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| परम् | param | Adv | ਉੱਚੇ ਦਰਜੇ 'ਤੇ, ਉਸ 'ਤੇ, ਬਾਅਦ ਵਿੱਚ, ਪਰ, ਹਾਲਾਂਕਿ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| परिचय | paricaya | m | ਸੰਪਰਕ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| परिचित | paricita | 3 | ਜਾਣੀ-ਪਛਾਣੀ, ਮਸ਼ਹੂਰ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| परिनिर्वाण | parinirvāṇa | n | ਪੂਰਨ ਬੁਝਣਾ, ਪੂਰਨ ਮੁਕਤੀ (ਬੁੱਧ ਜਾਂ ਅਰਹੰਤ ਦੀ ਮੌਤ 'ਤੇ) | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| परिव्राजक | parivrājaka | m | ਘੁੰਮਣ ਵਾਲਾ, ਵੰਡਿਆ ਹੋਇਆ, ਤੀਰਥਯਾਤਰੀ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
-| पशु | paśu | m | ਪਾਲਤੂ ਉਪਯੋਗੀ ਜਾਨਵਰ, ਮੱਝ (ਸਮੂਹਿਕ ਸੰਕੇਤ)। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| पश् पश्यति | paś | 4 P (paśyati) | ਦੇਖਣਾ, ਦਿਖਾਈ ਦੇਣਾ (ਇਸਦਾ ਵਰਤੋਂ **dṛś** 0 "ਦੇਖਣਾ, ਦਿਖਾਈ ਦੇਣਾ" ਦੀ ਜੜ੍ਹ ਦੀ ਬਜਾਏ ਵਰਤਮਾਨ ਕਾਲ ਦੇ ਮੂਲ ਵਜੋਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ) | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| पा पाति पायते पात | pā | 2 P (pāti), ਪਾਸ. pāyate, PPP pāta | ਰੱਖਿਆ ਕਰਨਾ, ਸੰਭਾਲਣਾ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
-| पा पिबति पीयते पीत | pā | 1 P (pibati), ਪਾਸ. pīyate, PPP pīta | ਪੀਣਾ (ਪਰੰਪਰਾਗਤ ਤੌਰ 'ਤੇ ਪਹਿਲੀ ਵਰਗ ਵਿੱਚ ਗਿਣਿਆ ਜਾਂਦਾ ਹੈ) | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
-| पात्र | pātra | n | ਆਦਰਣੀਯ, ਗੁਰੂ, ਯੋਗਯ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
+| पर | [para](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=para&filter=roman) | 3 | (ਅਵਯ. सर्व ਵਾਂਗ) ਦੂਰ, ਪਰਾਇਆ, ਉੱਚਾ (पञ्चम्या), ਅੰਤਿਮ, ਸਭ ਤੋਂ ਉੱਚਾ; ਦੂਜਾ, ਪਰਾਇਆ, ਦੁਸ਼ਮਣ; m.: ਪਰਾਇਆ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| परंपरा | [paraṃparā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=paraṃparā&filter=roman) | f | ਲਗਾਤਾਰ ਲੜੀ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| परम | [parama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=parama&filter=roman) | 3 | ਸਭ ਤੋਂ ਦੂਰ, ਸਭ ਤੋਂ ਉੱਚਾ ; पञ्चम्या : ਬਿਹਤਰ, ਉੱਚਾ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| परम् | [param](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=param&filter=roman) | Adv | ਉੱਚੇ ਦਰਜੇ 'ਤੇ, ਉਸ 'ਤੇ, ਬਾਅਦ ਵਿੱਚ, ਪਰ, ਹਾਲਾਂਕਿ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| परिचय | [paricaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=paricaya&filter=roman) | m | ਸੰਪਰਕ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| परिचित | [paricita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=paricita&filter=roman) | 3 | ਜਾਣੀ-ਪਛਾਣੀ, ਮਸ਼ਹੂਰ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| परिनिर्वाण | [parinirvāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=parinirvāṇa&filter=roman) | n | ਪੂਰਨ ਬੁਝਣਾ, ਪੂਰਨ ਮੁਕਤੀ (ਬੁੱਧ ਜਾਂ ਅਰਹੰਤ ਦੀ ਮੌਤ 'ਤੇ) | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| परिव्राजक | [parivrājaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=parivrājaka&filter=roman) | m | ਘੁੰਮਣ ਵਾਲਾ, ਵੰਡਿਆ ਹੋਇਆ, ਤੀਰਥਯਾਤਰੀ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| पशु | [paśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=paśu&filter=roman) | m | ਪਾਲਤੂ ਉਪਯੋਗੀ ਜਾਨਵਰ, ਮੱਝ (ਸਮੂਹਿਕ ਸੰਕੇਤ)। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| पश् पश्यति | [paś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=paś&filter=roman) | 4 P (paśyati) | ਦੇਖਣਾ, ਦਿਖਾਈ ਦੇਣਾ (ਇਸਦਾ ਵਰਤੋਂ **dṛś** 0 "ਦੇਖਣਾ, ਦਿਖਾਈ ਦੇਣਾ" ਦੀ ਜੜ੍ਹ ਦੀ ਬਜਾਏ ਵਰਤਮਾਨ ਕਾਲ ਦੇ ਮੂਲ ਵਜੋਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ) | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| पा पाति पायते पात | [pā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=pā&filter=roman) | 2 P (pāti), ਪਾਸ. pāyate, PPP pāta | ਰੱਖਿਆ ਕਰਨਾ, ਸੰਭਾਲਣਾ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
+| पा पिबति पीयते पीत | [pā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=pā&filter=roman) | 1 P (pibati), ਪਾਸ. pīyate, PPP pīta | ਪੀਣਾ (ਪਰੰਪਰਾਗਤ ਤੌਰ 'ਤੇ ਪਹਿਲੀ ਵਰਗ ਵਿੱਚ ਗਿਣਿਆ ਜਾਂਦਾ ਹੈ) | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
+| पात्र | [pātra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=pātra&filter=roman) | n | ਆਦਰਣੀਯ, ਗੁਰੂ, ਯੋਗਯ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
 | पाद | ਪਾਦ | ਪੁ | ਪੈਰ, ਇੱਕ ਚੌਥਾਈ, ਪੰਕਤੀ | [13](/pa/lektionen/lektion13#_13-9-ਸ਼ਬਦਾਵਲੀ) |
-| पाप | pāpa | n | ਬੁਰਾ ਕੰਮ, ਬੁਰਾਈ (**puṇya** ਦਾ ਵਿਰੋਧੀ) | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
-| पुण्य | puṇya | n | ਚੰਗਾ ਕੰਮ, ਪੁਣ੍ਯ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
-| पुत्र | putra | m | ਪੁੱਤਰ (ਭਾਰਤ ਵਿੱਚ ਇਹ ਜ਼ਰੂਰੀ ਸੀ ਕਿ ਇੱਕ ਪੁੱਤਰ ਪੈਦਾ ਕੀਤਾ ਜਾਵੇ, ਜੋ ਪੁਰਖਾਂ ਲਈ ਯਾਗ ਕਰ ਸਕੇ।) | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
-| पुनर्भव | punarbhava | m | ਪੁਨਰਜਨਮ | [30](/pa/lektionen/lektion30#_30-6-ਸ਼ਬਦਾਵਲੀ) |
-| पुरुष | puruṣa | m | ਮਨੁੱਖ, ਮਰਦ, ਨੌਕਰ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| पुष्कल | puṣkala | 3 | ਸੁੰਦਰ, ਭਵ्य, ਬਹੁਤ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| पुस्तक | pustaka | m | n.: ਪ੍ਰਤਿਪਤ੍ਰ, ਪੁਸਤਕ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
-| पूजा | pūjā | f | ਸਤਕਾਰ, ਸਤਕਾਰਯੋਗ ਸਵਾਗਤ, ਧਾਰਮਿਕ ਸਤਕਾਰ (ਪੂਜਾ) | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| पृथिवी | pṛthivī | f | ਧਰਤੀ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
-| पृष्ठ | pṛṣṭha | n | ਪਿੱਠ, ਪਿੱਛੇ ਦਾ ਹਿੱਸਾ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
-| प्रच्छ् | prach | 6 P | ਪੁੱਛਣਾ | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
-| प्रच्छ् पृच्छति | prach | 6 P (pṛcchati !) | ਪੁੱਛਣਾ (ਕਿਸੇ ਨੂੰ: Akk.; ਕੁਝ ਬਾਰੇ: Akk.) | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
-| प्रजा | prajā | f | ਪ੍ਰਜਨਨ, ਜਨਮ, ਵੰਸ਼ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
-| प्रजापति | prajāpati | m | ਜੀਵਾਂ ਦਾ ਪ੍ਰਭੂ, ਸਿਰਜਣਹਾਰ ਦੇਵਤਾ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
+| पाप | [pāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=pāpa&filter=roman) | n | ਬੁਰਾ ਕੰਮ, ਬੁਰਾਈ (**puṇya** ਦਾ ਵਿਰੋਧੀ) | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
+| पुण्य | [puṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=puṇya&filter=roman) | n | ਚੰਗਾ ਕੰਮ, ਪੁਣ੍ਯ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
+| पुत्र | [putra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=putra&filter=roman) | m | ਪੁੱਤਰ (ਭਾਰਤ ਵਿੱਚ ਇਹ ਜ਼ਰੂਰੀ ਸੀ ਕਿ ਇੱਕ ਪੁੱਤਰ ਪੈਦਾ ਕੀਤਾ ਜਾਵੇ, ਜੋ ਪੁਰਖਾਂ ਲਈ ਯਾਗ ਕਰ ਸਕੇ।) | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| पुनर्भव | [punarbhava](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=punarbhava&filter=roman) | m | ਪੁਨਰਜਨਮ | [30](/pa/lektionen/lektion30#_30-6-ਸ਼ਬਦਾਵਲੀ) |
+| पुरुष | [puruṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=puruṣa&filter=roman) | m | ਮਨੁੱਖ, ਮਰਦ, ਨੌਕਰ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| पुष्कल | [puṣkala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=puṣkala&filter=roman) | 3 | ਸੁੰਦਰ, ਭਵ्य, ਬਹੁਤ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| पुस्तक | [pustaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=pustaka&filter=roman) | m | n.: ਪ੍ਰਤਿਪਤ੍ਰ, ਪੁਸਤਕ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
+| पूजा | [pūjā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=pūjā&filter=roman) | f | ਸਤਕਾਰ, ਸਤਕਾਰਯੋਗ ਸਵਾਗਤ, ਧਾਰਮਿਕ ਸਤਕਾਰ (ਪੂਜਾ) | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| पृथिवी | [pṛthivī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=pṛthivī&filter=roman) | f | ਧਰਤੀ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
+| पृष्ठ | [pṛṣṭha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=pṛṣṭha&filter=roman) | n | ਪਿੱਠ, ਪਿੱਛੇ ਦਾ ਹਿੱਸਾ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
+| प्रच्छ् | [prach](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=prach&filter=roman) | 6 P | ਪੁੱਛਣਾ | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| प्रच्छ् पृच्छति | [prach](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=prach&filter=roman) | 6 P (pṛcchati !) | ਪੁੱਛਣਾ (ਕਿਸੇ ਨੂੰ: Akk.; ਕੁਝ ਬਾਰੇ: Akk.) | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
+| प्रजा | [prajā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=prajā&filter=roman) | f | ਪ੍ਰਜਨਨ, ਜਨਮ, ਵੰਸ਼ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| प्रजापति | [prajāpati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=prajāpati&filter=roman) | m | ਜੀਵਾਂ ਦਾ ਪ੍ਰਭੂ, ਸਿਰਜਣਹਾਰ ਦੇਵਤਾ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
 | प्रतिवदति | वद् + प्रति | 1P | ਪਿੱਛੇ ਕਹਿਣਾ = ਜਵਾਬ ਦੇਣਾ | [44](/pa/lektionen/lektion44#_44-5-ਸ਼ਬਦਾਵਲੀ) |
 | प्रतिहन्ति | हन् + प्रति | 2P | ਪਿੱਛੇ ਮਾਰਨਾ | [44](/pa/lektionen/lektion44#_44-5-ਸ਼ਬਦਾਵਲੀ) |
 | प्रत्याख्याति | ख्या + प्रति + आ | 2P | ਪਿੱਛੇ ਹਟਾਉਣਾ, ਅਸਵੀਕਾਰ ਕਰਨਾ | [44](/pa/lektionen/lektion44#_44-5-ਸ਼ਬਦਾਵਲੀ) |
-| प्रधान | pradhāna | 3 | ਮੁੱਖ, ਸਭ ਤੋਂ ਵਧੀਆ; n.: ਸਭ ਤੋਂ ਮਹੱਤਵਪੂਰਨ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| प्रव्रज्या | pravrajyā | f | (प्र-व्रज् ਤੋਂ): ਘਰੋਂ ਬਾਹਰ ਨਿਕਲ ਕੇ ਨਿਰਾਸ਼ਾ ਵਿੱਚ ਜਾਣਾ ; ਰਸਮ, ਜਿਸ ਨਾਲ ਬੌਧਿਕ ਨਵੀਨ ਸ਼ਿਸ਼ ਬਣਦਾ ਹੈ (ਪਾਲੀ: पब्बजा) | [44](/pa/lektionen/lektion44#_44-5-ਸ਼ਬਦਾਵਲੀ) |
-| प्रश्न | praśna | m | ਪ੍ਰਸ਼ਨ (ਸੁਫਿਕਸ **-na** **yaj-ña** ਵਾਂਗ) | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
-| प्रसङ्ग | prasaṅga | m | ਚਿਪਕਣ, ਰੁਚੀ ; ਮੌਕਾ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| प्रसूति | prasūti | f | ਜਨਮ, ਵੰਸ਼ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| प्राणान्तिक | prāṇāntika | 3 | (f.: -ī): ਮਾਰਨ ਵਾਲਾ, ਮੌਤ ਲਿਆਉਣ ਵਾਲਾ, ਉਮਰ ਕੈਦ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| प्रधान | [pradhāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=pradhāna&filter=roman) | 3 | ਮੁੱਖ, ਸਭ ਤੋਂ ਵਧੀਆ; n.: ਸਭ ਤੋਂ ਮਹੱਤਵਪੂਰਨ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| प्रव्रज्या | [pravrajyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=pravrajyā&filter=roman) | f | (प्र-व्रज् ਤੋਂ): ਘਰੋਂ ਬਾਹਰ ਨਿਕਲ ਕੇ ਨਿਰਾਸ਼ਾ ਵਿੱਚ ਜਾਣਾ ; ਰਸਮ, ਜਿਸ ਨਾਲ ਬੌਧਿਕ ਨਵੀਨ ਸ਼ਿਸ਼ ਬਣਦਾ ਹੈ (ਪਾਲੀ: पब्बजा) | [44](/pa/lektionen/lektion44#_44-5-ਸ਼ਬਦਾਵਲੀ) |
+| प्रश्न | [praśna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=praśna&filter=roman) | m | ਪ੍ਰਸ਼ਨ (ਸੁਫਿਕਸ **-na** **yaj-ña** ਵਾਂਗ) | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| प्रसङ्ग | [prasaṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=prasaṅga&filter=roman) | m | ਚਿਪਕਣ, ਰੁਚੀ ; ਮੌਕਾ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| प्रसूति | [prasūti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=prasūti&filter=roman) | f | ਜਨਮ, ਵੰਸ਼ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| प्राणान्तिक | [prāṇāntika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=prāṇāntika&filter=roman) | 3 | (f.: -ī): ਮਾਰਨ ਵਾਲਾ, ਮੌਤ ਲਿਆਉਣ ਵਾਲਾ, ਉਮਰ ਕੈਦ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
 
 ## फ
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| फल | phala | n | ਫਲ (ਇੱਥੇ ਤੱਕ ਕਿ ਮੀਟਾਫੋਰਿਕ ਅਰਥ ਵਿੱਚ: (ਕਰਮਿਕ) ਫਲ ਇੱਕ ਕੰਮ ਦਾ) | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| फल | [phala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=phala&filter=roman) | n | ਫਲ (ਇੱਥੇ ਤੱਕ ਕਿ ਮੀਟਾਫੋਰਿਕ ਅਰਥ ਵਿੱਚ: (ਕਰਮਿਕ) ਫਲ ਇੱਕ ਕੰਮ ਦਾ) | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
 
 ## ब
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| बाह्य | bāhya | 3 | ਬਾਹਰ, ਬਾਹਰ ਸਥਿਤ, ਪਰਾਇਆ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| बुद्धि | buddhi | f. (**budh** + **-ti**) | ਜਾਣ-ਪਛਾਣ, ਜਾਣ-ਪਛਾਣ ਦਾ ਅੰਗ। | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
-| बुध् बुध्यते बोधति बुद्ध | budh | 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** | ਜਾਗਣਾ, ਜਾਗਣਾ ਜਾਣ-ਪਛਾਣ ਲਈ, ਜਾਣ-ਪਛਾਣ ਕਰਨਾ; PPP **buddha** 3 ਜਾਗਿਆ, ਇਸ ਲਈ **Buddha** = "ਜਾਗਿਆ ਹੋਇਆ" (ਨਹੀਂ: ਜਾਗਰੂਕ) | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
-| ब्रह्मन् | brahman | n | ਪਰਮ, ਵੇਦ (ਥੀਮੀ ਅਨੁਸਾਰ ਮੂਲ ਰੂਪ ਵਿੱਚ: ਸੂਤਰਬੱਧ ਸੱਚਾਈ, ਇਸ ਤੋਂ ब्राह्मण "ਸੱਚਾਈ ਸੂਤਰਕਾਰ") | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| ब्राह्मण | brāhmaṇa | m | ਬ੍ਰਾਹਮਣ (ਧਾਰਮਿਕ ਵਰਗ)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
-| ब्राह्मणी | brāhmaṇī | f | ਬ੍ਰਾਹਮਣੀ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| बाह्य | [bāhya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=bāhya&filter=roman) | 3 | ਬਾਹਰ, ਬਾਹਰ ਸਥਿਤ, ਪਰਾਇਆ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| बुद्धि | [buddhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=buddhi&filter=roman) | f. (**budh** + **-ti**) | ਜਾਣ-ਪਛਾਣ, ਜਾਣ-ਪਛਾਣ ਦਾ ਅੰਗ। | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
+| बुध् बुध्यते बोधति बुद्ध | [budh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=budh&filter=roman) | 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** | ਜਾਗਣਾ, ਜਾਗਣਾ ਜਾਣ-ਪਛਾਣ ਲਈ, ਜਾਣ-ਪਛਾਣ ਕਰਨਾ; PPP **buddha** 3 ਜਾਗਿਆ, ਇਸ ਲਈ **Buddha** = "ਜਾਗਿਆ ਹੋਇਆ" (ਨਹੀਂ: ਜਾਗਰੂਕ) | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
+| ब्रह्मन् | [brahman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=brahman&filter=roman) | n | ਪਰਮ, ਵੇਦ (ਥੀਮੀ ਅਨੁਸਾਰ ਮੂਲ ਰੂਪ ਵਿੱਚ: ਸੂਤਰਬੱਧ ਸੱਚਾਈ, ਇਸ ਤੋਂ ब्राह्मण "ਸੱਚਾਈ ਸੂਤਰਕਾਰ") | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| ब्राह्मण | [brāhmaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=brāhmaṇa&filter=roman) | m | ਬ੍ਰਾਹਮਣ (ਧਾਰਮਿਕ ਵਰਗ)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
+| ब्राह्मणी | [brāhmaṇī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=brāhmaṇī&filter=roman) | f | ਬ੍ਰਾਹਮਣੀ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
 
 ## भ
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| भद्र | bhadra | 3 | ਚੰਗਾ, ਖੁਸ਼ਕਿਸਮਤ; ਸੰਬੋਧਨ: ਮੇਰੇ ਪਿਆਰੇ! | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
-| भिक्षा | bhikṣā | f | ਭਿਖਸ਼ਾ, ਭਿੱਖ ਦੀ ਖਾਣਾ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| भू भवति | bhū | 1 P (bhavati) | ਬਣਨਾ, ਉਤਪੰਨ ਹੋਣਾ, ਹੋਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
-| भ्रंश | bhraṃśa | m | ਛੁੱਟਣਾ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
+| भद्र | [bhadra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=bhadra&filter=roman) | 3 | ਚੰਗਾ, ਖੁਸ਼ਕਿਸਮਤ; ਸੰਬੋਧਨ: ਮੇਰੇ ਪਿਆਰੇ! | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
+| भिक्षा | [bhikṣā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=bhikṣā&filter=roman) | f | ਭਿਖਸ਼ਾ, ਭਿੱਖ ਦੀ ਖਾਣਾ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| भू भवति | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=bhū&filter=roman) | 1 P (bhavati) | ਬਣਨਾ, ਉਤਪੰਨ ਹੋਣਾ, ਹੋਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
+| भ्रंश | [bhraṃśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=bhraṃśa&filter=roman) | m | ਛੁੱਟਣਾ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
 
 ## म
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| मत्स्य | matsya | m | ਮੱਛੀ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
-| मनु | manu | m | ਮਨੁੱਖ, ਮਰਦ; ਮਨੁੱਖੀ ਪ੍ਰਜਾਤੀ ਦੇ ਪਿਤਾ ਦਾ ਨਾਮ (मन् 4Ā ਨਾਲ) | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| मनुष्य | manuṣya | m | ਮਨੁੱਖ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| मन् मन्यते | man | 4 Ā (manyate) | ਸੋਚਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
-| मन्त्रिन् | mantrin | 3 | ਸਲਾਹਦਾਨ ; m.: ਸਲਾਹਕਾਰ, ਮੰਤਰੀ, ਮੰਤਰੀ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
-| मरण | maraṇa | n | ਮੌਤ, ਮੌਤ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| मल | mala | m | n.: ਗੰਦਗੀ, ਦੋਸ਼ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| मात्स्य | mātsya | 3 | ਮੱਛੀ (ਮੱਛੀਆਂ) ਨਾਲ ਸੰਬੰਧਿਤ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
-| मार | māra | m | ਵਿਅਕਤੀਕ੍ਰਿਤ ਬੁਰਿਆਈ, ਵਿਅਕਤੀਕ੍ਰਿਤ ਮੋਹ/ਮਨੋਰਥ, ਸ਼ੈਤਾਨ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| मार्ग | mārga | m | ਰਾਹ (ਰਾਹ ਅਕਸਰ ਜੰਗਲੀ ਜਾਨਵਰਾਂ ਦੇ ਰਸਤੇ ਹੁੰਦੇ ਸਨ) | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
-| मार्यादा | māryādā | f | ਸੀਮਾ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| मुच् मुञ्चति मुक्त | muc | 6 U (muñcati), PPP **mukta** | ਛੱਡਣਾ, ਛੁਟਾਉਣਾ, ਮੁਕਤ ਕਰਨਾ; ਮੁੜ ਜਨਮ ਦੇ ਚੱਕਰ ਤੋਂ (**saṃsāra** m.) ਮੁਕਤ ਕਰਨਾ = ਮੁਕਤੀ ਦੇਣਾ | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
-| मुदिता | muditā | f | ਖੁਸ਼ੀ, ਖਾਸ ਤੌਰ 'ਤੇ ਸਹਿ-ਖੁਸ਼ੀ (ਹਿੰਮਤ ਦਾ ਵਿਰੋਧੀ)। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| मुहूर्त | muhūrta | m | ,n.: ਪਲ, ਮੋਮੈਂਟ, ਸਹੀ ਸਮਾਂ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| मुह् मुह्यति | muh | 4 P (muhyati) | ਉਲਝਣ ਵਿੱਚ ਹੋਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
-| मूर्ख | mūrkha | 3 | ਮੂੜ੍ਹ, ਬੇਵਕੂਫ਼, ਮੂਰਖ਼ ਮ. ਮੂਰਖ਼ | [37](/pa/lektionen/lektion37#_37-9-ਸ਼ਬਦ-ਸੂਚੀ) |
-| मृग | mṛga | m | ਜੰਗਲੀ ਜਾਨਵਰ | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
-| मृति | mṛti | f | ਮੌਤ, ਮੌਤ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| मृत्यु | mṛtyu | m | ਮੌਤ ; ਵਿਅਕਤੀਕ੍ਰਿਤ: ਮੌਤ ਦੇਵਤਾ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| मृदु | mṛdu | 3 | (f.: मृद्वी): ਮਿਠਾ, ਨਰਮ, ਨਰਮ ; ਧੀਮਾ, ਕਮਜ਼ੋਰ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
-| मेघ | megha | m | ਬੱਦਲ ("ਪਿਸ਼ਾਬ ਕਰਨ ਵਾਲਾ") | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| मेधा | medhā | f | ਪ੍ਰਜ্ঞਾ, ਬੁੱਧਿ, ਚਿੰਤਨ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
-| मैत्री | maitrī | f | ਦੋਸਤੀ, ਮਿਹਰਬਾਨੀ, ਮਿਤਰਤਾਪੂਰਨ ਭਲਾਈ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| मत्स्य | [matsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=matsya&filter=roman) | m | ਮੱਛੀ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| मनु | [manu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=manu&filter=roman) | m | ਮਨੁੱਖ, ਮਰਦ; ਮਨੁੱਖੀ ਪ੍ਰਜਾਤੀ ਦੇ ਪਿਤਾ ਦਾ ਨਾਮ (मन् 4Ā ਨਾਲ) | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| मनुष्य | [manuṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=manuṣya&filter=roman) | m | ਮਨੁੱਖ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| मन् मन्यते | [man](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=man&filter=roman) | 4 Ā (manyate) | ਸੋਚਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
+| मन्त्रिन् | [mantrin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=mantrin&filter=roman) | 3 | ਸਲਾਹਦਾਨ ; m.: ਸਲਾਹਕਾਰ, ਮੰਤਰੀ, ਮੰਤਰੀ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| मरण | [maraṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=maraṇa&filter=roman) | n | ਮੌਤ, ਮੌਤ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| मल | [mala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=mala&filter=roman) | m | n.: ਗੰਦਗੀ, ਦੋਸ਼ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| मात्स्य | [mātsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=mātsya&filter=roman) | 3 | ਮੱਛੀ (ਮੱਛੀਆਂ) ਨਾਲ ਸੰਬੰਧਿਤ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| मार | [māra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=māra&filter=roman) | m | ਵਿਅਕਤੀਕ੍ਰਿਤ ਬੁਰਿਆਈ, ਵਿਅਕਤੀਕ੍ਰਿਤ ਮੋਹ/ਮਨੋਰਥ, ਸ਼ੈਤਾਨ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| मार्ग | [mārga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=mārga&filter=roman) | m | ਰਾਹ (ਰਾਹ ਅਕਸਰ ਜੰਗਲੀ ਜਾਨਵਰਾਂ ਦੇ ਰਸਤੇ ਹੁੰਦੇ ਸਨ) | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
+| मार्यादा | [māryādā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=māryādā&filter=roman) | f | ਸੀਮਾ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| मुच् मुञ्चति मुक्त | [muc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=muc&filter=roman) | 6 U (muñcati), PPP **mukta** | ਛੱਡਣਾ, ਛੁਟਾਉਣਾ, ਮੁਕਤ ਕਰਨਾ; ਮੁੜ ਜਨਮ ਦੇ ਚੱਕਰ ਤੋਂ (**saṃsāra** m.) ਮੁਕਤ ਕਰਨਾ = ਮੁਕਤੀ ਦੇਣਾ | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
+| मुदिता | [muditā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=muditā&filter=roman) | f | ਖੁਸ਼ੀ, ਖਾਸ ਤੌਰ 'ਤੇ ਸਹਿ-ਖੁਸ਼ੀ (ਹਿੰਮਤ ਦਾ ਵਿਰੋਧੀ)। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| मुहूर्त | [muhūrta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=muhūrta&filter=roman) | m | ,n.: ਪਲ, ਮੋਮੈਂਟ, ਸਹੀ ਸਮਾਂ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| मुह् मुह्यति | [muh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=muh&filter=roman) | 4 P (muhyati) | ਉਲਝਣ ਵਿੱਚ ਹੋਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
+| मूर्ख | [mūrkha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=mūrkha&filter=roman) | 3 | ਮੂੜ੍ਹ, ਬੇਵਕੂਫ਼, ਮੂਰਖ਼ ਮ. ਮੂਰਖ਼ | [37](/pa/lektionen/lektion37#_37-9-ਸ਼ਬਦ-ਸੂਚੀ) |
+| मृग | [mṛga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=mṛga&filter=roman) | m | ਜੰਗਲੀ ਜਾਨਵਰ | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
+| मृति | [mṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=mṛti&filter=roman) | f | ਮੌਤ, ਮੌਤ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| मृत्यु | [mṛtyu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=mṛtyu&filter=roman) | m | ਮੌਤ ; ਵਿਅਕਤੀਕ੍ਰਿਤ: ਮੌਤ ਦੇਵਤਾ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| मृदु | [mṛdu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=mṛdu&filter=roman) | 3 | (f.: मृद्वी): ਮਿਠਾ, ਨਰਮ, ਨਰਮ ; ਧੀਮਾ, ਕਮਜ਼ੋਰ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| मेघ | [megha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=megha&filter=roman) | m | ਬੱਦਲ ("ਪਿਸ਼ਾਬ ਕਰਨ ਵਾਲਾ") | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| मेधा | [medhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=medhā&filter=roman) | f | ਪ੍ਰਜ্ঞਾ, ਬੁੱਧਿ, ਚਿੰਤਨ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
+| मैत्री | [maitrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=maitrī&filter=roman) | f | ਦੋਸਤੀ, ਮਿਹਰਬਾਨੀ, ਮਿਤਰਤਾਪੂਰਨ ਭਲਾਈ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
 
 ## य
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| यज् यजति | yaj | 1 U (yajati) | ਇੱਕ ਯੱਗ ਨਾਲ ਮਾਨਤਾ ਦੇਣਾ, ਬलिਦਾਨ ਦੇਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
-| यज्ञ | yajña | m | ਯਾਗ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
-| यथा | yathā | Adv | ਕਿਵੇਂ, ਜਿਵੇਂ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
-| याम | yāma | m | ਰਾਤ ਦੀ ਪਹਰੇਦਾਰੀ (ਹਰ ਵਾਰ ਤਿੰਨ ਘੰਟੇ) | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| युध् युध्यते | yudh | 4 Ā (yudhyate) | ਲੜਨਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
-| योग | yoga | m | ਜੋੜਨਾ, ਜੁੜਨਾ, ਇਕਤਾ, ਕਮਾਈ ; ਯੋਗ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
-| यौवन | yauvana | n | ਜਵਾਨੀ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| यज् यजति | [yaj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=yaj&filter=roman) | 1 U (yajati) | ਇੱਕ ਯੱਗ ਨਾਲ ਮਾਨਤਾ ਦੇਣਾ, ਬलिਦਾਨ ਦੇਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
+| यज्ञ | [yajña](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=yajña&filter=roman) | m | ਯਾਗ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
+| यथा | [yathā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=yathā&filter=roman) | Adv | ਕਿਵੇਂ, ਜਿਵੇਂ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| याम | [yāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=yāma&filter=roman) | m | ਰਾਤ ਦੀ ਪਹਰੇਦਾਰੀ (ਹਰ ਵਾਰ ਤਿੰਨ ਘੰਟੇ) | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| युध् युध्यते | [yudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=yudh&filter=roman) | 4 Ā (yudhyate) | ਲੜਨਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
+| योग | [yoga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=yoga&filter=roman) | m | ਜੋੜਨਾ, ਜੁੜਨਾ, ਇਕਤਾ, ਕਮਾਈ ; ਯੋਗ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| यौवन | [yauvana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=yauvana&filter=roman) | n | ਜਵਾਨੀ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
 
 ## र
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| रक्ष् रक्षति | rakṣ | 1 P (rakṣati) | ਰੱਖਿਆ ਕਰਨਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| रहस् | rahas | n | ਰਹੱਸ, ਅਕੇਲਾਪਨ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
-| राग | rāga | m | (ਲਾਲ) ਰੰਗ, ਲਗਨ, ਪ੍ਰੇਮ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
-| राजन् | rājan | m | ਰਾਜਾ (ਭਾਰਤ ਵਿੱਚ ਰਾਜਤੰਤਰ ਬਾਰੇ ਦੇਖੋ ਬਾਸ਼ਮ, ਅਦਭੁਤ ਸ. 82 -94). ਕੋਮਪੋਸ਼ਿਅਮ ਦੇ ਅੰਤ ਵਿੱਚ (ਖਾਸ ਤੌਰ 'ਤੇ तत्पुरुष) ਆਮ ਤੌਰ 'ਤੇ: -रा | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| राज्ञी | rājñī | f | ਰਾਣੀ, ਰਾਜੇ ਦੀ ਪਤਨੀ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| राज्य | rājya | 3 | ਰਾਜਕੀ; n. ਰਾਜ, ਰਾਜਤੰਤਰ, ਸ਼ਾਸਨ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| रुद्र | rudra | m | (ਫੁੰਗਣ ਵਾਲਾ =) ਤੂਫਾਨ ਦੇਵਤਾ ਰੁਦਰ | [17](/pa/lektionen/lektion17#_17-6-ਸ਼ਬਦਾਵਲੀ) |
-| रे | re | 3 | ਇੱਕ ਹੋਰ (ਸ਼ਬਦ-ਵਿਨਿਆਸ अन्यद् ਵਾਂਗ) | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
+| रक्ष् रक्षति | [rakṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=rakṣ&filter=roman) | 1 P (rakṣati) | ਰੱਖਿਆ ਕਰਨਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| रहस् | [rahas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=rahas&filter=roman) | n | ਰਹੱਸ, ਅਕੇਲਾਪਨ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| राग | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=rāga&filter=roman) | m | (ਲਾਲ) ਰੰਗ, ਲਗਨ, ਪ੍ਰੇਮ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| राजन् | [rājan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=rājan&filter=roman) | m | ਰਾਜਾ (ਭਾਰਤ ਵਿੱਚ ਰਾਜਤੰਤਰ ਬਾਰੇ ਦੇਖੋ ਬਾਸ਼ਮ, ਅਦਭੁਤ ਸ. 82 -94). ਕੋਮਪੋਸ਼ਿਅਮ ਦੇ ਅੰਤ ਵਿੱਚ (ਖਾਸ ਤੌਰ 'ਤੇ तत्पुरुष) ਆਮ ਤੌਰ 'ਤੇ: -रा | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| राज्ञी | [rājñī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=rājñī&filter=roman) | f | ਰਾਣੀ, ਰਾਜੇ ਦੀ ਪਤਨੀ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| राज्य | [rājya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=rājya&filter=roman) | 3 | ਰਾਜਕੀ; n. ਰਾਜ, ਰਾਜਤੰਤਰ, ਸ਼ਾਸਨ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| रुद्र | [rudra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=rudra&filter=roman) | m | (ਫੁੰਗਣ ਵਾਲਾ =) ਤੂਫਾਨ ਦੇਵਤਾ ਰੁਦਰ | [17](/pa/lektionen/lektion17#_17-6-ਸ਼ਬਦਾਵਲੀ) |
+| रे | [re](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=re&filter=roman) | 3 | ਇੱਕ ਹੋਰ (ਸ਼ਬਦ-ਵਿਨਿਆਸ अन्यद् ਵਾਂਗ) | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
 
 ## ल
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| लघु | laghu | 3 | ਹਲਕਾ (ਭਾਰੀ ਨਹੀਂ, ਮੁਸ਼ਕਿਲ ਨਹੀਂ), ਤੇਜ਼, ਛੋਟਾ (ਵਿਅੰਜਨ ਵਿੱਚ) | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| लभ् लभते | labh | 1 Ā (labhate) | ਫੜਨਾ, ਪ੍ਰਾਪਤ ਕਰਨਾ, ਫੜ ਲੈਣਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| लिख् लिखति | likh | 1 P (likhati) | ਉੱਕਰਨਾ, ਲਿਖਣਾ (ਮੂਲ ਰੂਪ ਵਿੱਚ ਤਲਪਤਰੀ 'ਤੇ ਸੁੰਡ ਨਾਲ ਉੱਕਰਨਾ, ਪਰ ਬਾਅਦ ਵਿੱਚ ਆਮ ਤੌਰ 'ਤੇ) | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| लोभ | lobha | m | ਲੋਭ, ਲਾਲਚ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
-| लौल्य | laulya | n | ਲਾਲਸਾ, ਕਾਮਨਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| लघु | [laghu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=laghu&filter=roman) | 3 | ਹਲਕਾ (ਭਾਰੀ ਨਹੀਂ, ਮੁਸ਼ਕਿਲ ਨਹੀਂ), ਤੇਜ਼, ਛੋਟਾ (ਵਿਅੰਜਨ ਵਿੱਚ) | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| लभ् लभते | [labh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=labh&filter=roman) | 1 Ā (labhate) | ਫੜਨਾ, ਪ੍ਰਾਪਤ ਕਰਨਾ, ਫੜ ਲੈਣਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| लिख् लिखति | [likh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=likh&filter=roman) | 1 P (likhati) | ਉੱਕਰਨਾ, ਲਿਖਣਾ (ਮੂਲ ਰੂਪ ਵਿੱਚ ਤਲਪਤਰੀ 'ਤੇ ਸੁੰਡ ਨਾਲ ਉੱਕਰਨਾ, ਪਰ ਬਾਅਦ ਵਿੱਚ ਆਮ ਤੌਰ 'ਤੇ) | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| लोभ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=lobha&filter=roman) | m | ਲੋਭ, ਲਾਲਚ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| लौल्य | [laulya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=laulya&filter=roman) | n | ਲਾਲਸਾ, ਕਾਮਨਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
 
 ## व
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| वदन | vadana | n | ਬੋਲਣਾ; ਬੋਲਣ ਦਾ ਯੰਤਰ: ਮੂੰਹ, ਚਿਹਰਾ | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
-| वद् | vad | 1 P | ਕਹਿਣਾ | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
-| वद् वदति | vad | 1 P (vadati) | ਕਹਿਣਾ, ਬੋਲਣਾ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
-| वर | vara | 3 | ਸਭ ਤੋਂ ਵਧੀਆ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
-| वर | vara | m | n.: ਇੱਛਾ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| वर | vara | 3 | ਸਭ ਤੋਂ ਵਧੀਆ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| वर्ग | varga | m | ਖੰਡ, ਵਿਭਾਗ, ਟੋਲੀ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| वर्ण | varṇa | m | ਰੰਗ, ਜਨਮ-ਵਰਗ (ਪ੍ਰਵਿਰਤੀ)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
-| वर्ण | varṇa | m | ਰੰਗ, ਜਾਤੀ, ਵਰਗ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
-| वाच्य | vācya | 3 | ਇਸ ਤੋਂ ਇਲਾਵਾ: ਟਿੱਪਣੀਯੋਗ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| वात | vāta | m | ਹਵਾ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| वात | vāta | m | ਹਵਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| वाद | vāda | m | ਬਿਆਨ, ਕਥਨ, ਸ਼ਬਦ | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
-| वानप्रस्थ | vānaprastha | m | ਜੰਗਲੀ ਅਕੇਲਾ (ਕੋਈ ਵਿਅਕਤੀ ਜੋ 3. आश्रम ਵਿੱਚ ਹੈ) | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
-| वार्त्ता | vārttā | f | ਉਪਜੀਵਿਕਾ, ਅਰਥਸ਼ਾਸਤਰ (ਆਰਥਿਕਤਾ)। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
-| विक्ल्प | viklpa | m | ਵਿਕਲਪ, ਸ਼ੰਕਾ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
-| विजिज्ञासु | vijijñāsu | 3 | ਕੋਈ ਵਿਅਕਤੀ ਜੋ ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਮਝਣਾ ਚਾਹੁੰਦਾ ਹੈ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| विद्या | vidyā | f | ਗਿਆਨ, ਵਿਗਿਆਨ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
-| विधि | vidhi | m | ਇਸ਼ਤਾ (विधा ਨੂੰ) | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
-| विभ्रम | vibhrama | m | ਜਾਣਾ-ਆਉਣਾ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
-| विशेष | viśeṣa | m | ਵਿਸ਼ੇਸ਼ਤਾ, ਵਿਸ਼ੇਸ਼ਣ, differentia specifica | [23](/pa/lektionen/lektion23#_23-4-ਸ਼ਬਦਾਵਲੀ) |
-| विशेष | viśeṣa | m | ਅੰਤਰ, ਵਿਸ਼ੇਸ਼ਤਾ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| विश् विशति | viś | 6 P (viśati) | ਅੰਦਰ ਜਾਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
-| विषम | viṣama | 3 | ਅਸਮਾਨ, ਅਸਮਤ, ਮੰਦਾ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
-| विहंग | vihaṃga | m | ਪੰਛੀ ("ਹਵਾਵਾਂ स् ਸੁਪਨੇ - विह - ਵਿੱਚ ਜਾਣ ਵਾਲਾ") | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| वृद्धि | vṛddhi | f | ਵਾਧਾ, ਵਿਕਾਸ, ਵਿਸਤਾਰ ਦਾ ਪੜਾਅ (ਵਿੱਤ-ਤਿ ਤੋਂ) | [25](/pa/lektionen/lektion25#_25-5-ਸ਼ਬਦਾਵਲੀ) |
-| वेष | veṣa | m | ਕੱਪੜਾ, ਦਿੱਖ, ਬਾਹਰੀ ਰੂਪ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| वैश्य | vaiśya | m | ਵੈਸ਼ (ਪਾਲਣ-ਪੋਸ਼ਣ ਅਤੇ ਵਪਾਰੀ ਵਰਗ)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
-| वैश्या | vaiśyā | f | ਮਾਦਾ Vaiśya। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| व्यवहार | vyavahāra | m | ਕਾਰੋਬਾਰ, ਵਿਵਹਾਰ, ਸੰਪਰਕ, ਵਪਾਰ, ਕਾਰੋਬਾਰ, ਵਪਾਰ, (ਨਿਆਂ) ਮਾਮਲਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| व्याकरण | vyākaraṇa | n | ਵਿਆਕਰਣ (व्याकृ ਨਾਲ) | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| व्याघ्र | vyāghra | m | ਬਾਘ (_Panthera tigris tigris_) (ਸ਼ਬਦਾਤਮਕ: ਖੁੱਲ੍ਹਣ ਵਾਲਾ) | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| वदन | [vadana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vadana&filter=roman) | n | ਬੋਲਣਾ; ਬੋਲਣ ਦਾ ਯੰਤਰ: ਮੂੰਹ, ਚਿਹਰਾ | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| वद् | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vad&filter=roman) | 1 P | ਕਹਿਣਾ | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| वद् वदति | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vad&filter=roman) | 1 P (vadati) | ਕਹਿਣਾ, ਬੋਲਣਾ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
+| वर | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vara&filter=roman) | 3 | ਸਭ ਤੋਂ ਵਧੀਆ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
+| वर | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vara&filter=roman) | m | n.: ਇੱਛਾ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| वर | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vara&filter=roman) | 3 | ਸਭ ਤੋਂ ਵਧੀਆ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| वर्ग | [varga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=varga&filter=roman) | m | ਖੰਡ, ਵਿਭਾਗ, ਟੋਲੀ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| वर्ण | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=varṇa&filter=roman) | m | ਰੰਗ, ਜਨਮ-ਵਰਗ (ਪ੍ਰਵਿਰਤੀ)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
+| वर्ण | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=varṇa&filter=roman) | m | ਰੰਗ, ਜਾਤੀ, ਵਰਗ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| वाच्य | [vācya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vācya&filter=roman) | 3 | ਇਸ ਤੋਂ ਇਲਾਵਾ: ਟਿੱਪਣੀਯੋਗ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| वात | [vāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vāta&filter=roman) | m | ਹਵਾ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| वात | [vāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vāta&filter=roman) | m | ਹਵਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| वाद | [vāda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vāda&filter=roman) | m | ਬਿਆਨ, ਕਥਨ, ਸ਼ਬਦ | [11](/pa/lektionen/lektion11#_11-2-ਸ਼ਬਦਾਵਲੀ) |
+| वानप्रस्थ | [vānaprastha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vānaprastha&filter=roman) | m | ਜੰਗਲੀ ਅਕੇਲਾ (ਕੋਈ ਵਿਅਕਤੀ ਜੋ 3. आश्रम ਵਿੱਚ ਹੈ) | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| वार्त्ता | [vārttā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vārttā&filter=roman) | f | ਉਪਜੀਵਿਕਾ, ਅਰਥਸ਼ਾਸਤਰ (ਆਰਥਿਕਤਾ)। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| विक्ल्प | [viklpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=viklpa&filter=roman) | m | ਵਿਕਲਪ, ਸ਼ੰਕਾ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
+| विजिज्ञासु | [vijijñāsu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vijijñāsu&filter=roman) | 3 | ਕੋਈ ਵਿਅਕਤੀ ਜੋ ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਮਝਣਾ ਚਾਹੁੰਦਾ ਹੈ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| विद्या | [vidyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vidyā&filter=roman) | f | ਗਿਆਨ, ਵਿਗਿਆਨ। | [5](/pa/lektionen/lektion05#_5-4-ਸ਼ਬਦਾਵਲੀ) |
+| विधि | [vidhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vidhi&filter=roman) | m | ਇਸ਼ਤਾ (विधा ਨੂੰ) | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| विभ्रम | [vibhrama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vibhrama&filter=roman) | m | ਜਾਣਾ-ਆਉਣਾ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
+| विशेष | [viśeṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=viśeṣa&filter=roman) | m | ਵਿਸ਼ੇਸ਼ਤਾ, ਵਿਸ਼ੇਸ਼ਣ, differentia specifica | [23](/pa/lektionen/lektion23#_23-4-ਸ਼ਬਦਾਵਲੀ) |
+| विशेष | [viśeṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=viśeṣa&filter=roman) | m | ਅੰਤਰ, ਵਿਸ਼ੇਸ਼ਤਾ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| विश् विशति | [viś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=viś&filter=roman) | 6 P (viśati) | ਅੰਦਰ ਜਾਣਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
+| विषम | [viṣama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=viṣama&filter=roman) | 3 | ਅਸਮਾਨ, ਅਸਮਤ, ਮੰਦਾ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
+| विहंग | [vihaṃga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vihaṃga&filter=roman) | m | ਪੰਛੀ ("ਹਵਾਵਾਂ स् ਸੁਪਨੇ - विह - ਵਿੱਚ ਜਾਣ ਵਾਲਾ") | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| वृद्धि | [vṛddhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vṛddhi&filter=roman) | f | ਵਾਧਾ, ਵਿਕਾਸ, ਵਿਸਤਾਰ ਦਾ ਪੜਾਅ (ਵਿੱਤ-ਤਿ ਤੋਂ) | [25](/pa/lektionen/lektion25#_25-5-ਸ਼ਬਦਾਵਲੀ) |
+| वेष | [veṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=veṣa&filter=roman) | m | ਕੱਪੜਾ, ਦਿੱਖ, ਬਾਹਰੀ ਰੂਪ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| वैश्य | [vaiśya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vaiśya&filter=roman) | m | ਵੈਸ਼ (ਪਾਲਣ-ਪੋਸ਼ਣ ਅਤੇ ਵਪਾਰੀ ਵਰਗ)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
+| वैश्या | [vaiśyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vaiśyā&filter=roman) | f | ਮਾਦਾ Vaiśya। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| व्यवहार | [vyavahāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vyavahāra&filter=roman) | m | ਕਾਰੋਬਾਰ, ਵਿਵਹਾਰ, ਸੰਪਰਕ, ਵਪਾਰ, ਕਾਰੋਬਾਰ, ਵਪਾਰ, (ਨਿਆਂ) ਮਾਮਲਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| व्याकरण | [vyākaraṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vyākaraṇa&filter=roman) | n | ਵਿਆਕਰਣ (व्याकृ ਨਾਲ) | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| व्याघ्र | [vyāghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=vyāghra&filter=roman) | m | ਬਾਘ (_Panthera tigris tigris_) (ਸ਼ਬਦਾਤਮਕ: ਖੁੱਲ੍ਹਣ ਵਾਲਾ) | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
 
 ## श
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| शरण | śaraṇa | 3 | ਰੱਖਿਆਤਮਕ, ਢਾਲਣ ਵਾਲਾ; ਨ. ਰੱਖਿਆ, ਸਰਨਾ, ਸਰਨਾ ਲੈਣਾ | [41](/pa/lektionen/lektion41#_41-3-ਸ਼ਬਦਾਵਲੀ) |
-| शर्करा | śarkarā | 3 | ਵਾਧੂ, ਬਾਕੀ, ਅਸਾਧਾਰਨ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
-| शिशु | śiśu | m | ਬੱਚਾ, ਬੱਚਾ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
-| शीघ्र | śīghra | 3 | ਤੇਜ਼, ਜਲਦੀ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
-| शील | śīla | n | ਰਿਵਾਜ, ਅਦਾ, ਕੁਦਰਤ, ਸੁਭਾਅ, ਚੰਗੀ ਅਦਾ = ਨੈਤਿਕਤਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| शुक | śuka | m | ਤੋਤਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| शुचि | śuci | 3 | ਚਮਕਦਾ, ਚਮਕਦਾ, ਸੂਖਮ ; p. ਸ਼ੁੱਧਤਾ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
-| शुचि | śuci | 3 | ਚਮਕਦਾ, ਪਵਿੱਤਰ, ਸਪਸ਼ਟ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| शुच् शोचति | śuc | 1 P (śocati) | ਦੁੱਖ ਮਨਾਉਣਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| शूद्र | śūdra | m | ਸ਼ੂਦਰ (ਸੇਵਾ-ਵਰਗ)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
-| शूद्रा | śūdrā | f | ਮਾਦਾ Śūdra। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| शूद्री शूद्राणी | śūdrī | f. / **śūdrāṇī** f | ਇੱਕ Śūdra ਦੀ ਪਤਨੀ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| शून्य | śūnya | 3 | ਖਾਲੀ, ਸੁੰਨਾ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| शूर | śūra | 3 | ਬਹਾਦਰ, ਵੀਰਵਾਂਤ ; ਪੁੰ.: ਵੀਰ | [18](/pa/lektionen/lektion18#_18-4-ਸ਼ਬਦਾਵਲੀ) |
+| शरण | [śaraṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śaraṇa&filter=roman) | 3 | ਰੱਖਿਆਤਮਕ, ਢਾਲਣ ਵਾਲਾ; ਨ. ਰੱਖਿਆ, ਸਰਨਾ, ਸਰਨਾ ਲੈਣਾ | [41](/pa/lektionen/lektion41#_41-3-ਸ਼ਬਦਾਵਲੀ) |
+| शर्करा | [śarkarā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śarkarā&filter=roman) | 3 | ਵਾਧੂ, ਬਾਕੀ, ਅਸਾਧਾਰਨ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
+| शिशु | [śiśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śiśu&filter=roman) | m | ਬੱਚਾ, ਬੱਚਾ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| शीघ्र | [śīghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śīghra&filter=roman) | 3 | ਤੇਜ਼, ਜਲਦੀ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
+| शील | [śīla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śīla&filter=roman) | n | ਰਿਵਾਜ, ਅਦਾ, ਕੁਦਰਤ, ਸੁਭਾਅ, ਚੰਗੀ ਅਦਾ = ਨੈਤਿਕਤਾ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| शुक | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śuka&filter=roman) | m | ਤੋਤਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| शुचि | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śuci&filter=roman) | 3 | ਚਮਕਦਾ, ਚਮਕਦਾ, ਸੂਖਮ ; p. ਸ਼ੁੱਧਤਾ | [29](/pa/lektionen/lektion29#_29-2-ਸ਼ਬਦਾਵਲੀ) |
+| शुचि | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śuci&filter=roman) | 3 | ਚਮਕਦਾ, ਪਵਿੱਤਰ, ਸਪਸ਼ਟ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| शुच् शोचति | [śuc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śuc&filter=roman) | 1 P (śocati) | ਦੁੱਖ ਮਨਾਉਣਾ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| शूद्र | [śūdra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śūdra&filter=roman) | m | ਸ਼ੂਦਰ (ਸੇਵਾ-ਵਰਗ)। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
+| शूद्रा | [śūdrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śūdrā&filter=roman) | f | ਮਾਦਾ Śūdra। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| शूद्री शूद्राणी | [śūdrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śūdrī&filter=roman) | f. / **śūdrāṇī** f | ਇੱਕ Śūdra ਦੀ ਪਤਨੀ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| शून्य | [śūnya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śūnya&filter=roman) | 3 | ਖਾਲੀ, ਸੁੰਨਾ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| शूर | [śūra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śūra&filter=roman) | 3 | ਬਹਾਦਰ, ਵੀਰਵਾਂਤ ; ਪੁੰ.: ਵੀਰ | [18](/pa/lektionen/lektion18#_18-4-ਸ਼ਬਦਾਵਲੀ) |
 | शेते | शी | 2Ā | ਪੈਣਾ। ਇਹ ਧਾਤੂ ਸਾਰੇ ਵਰਤਮਾਨ ਕਾਲ ਦੇ ਸ਼ਬਦਮੰਡਲ ਵਿੱਚ ***ਉੱਚ ਸਥਿਤੀ:*** 1.ਇਕ.ਸੰ.ਵਰਤਮਾਨ.Ā ***शेये*** (śe + e) ਹੈ। ਹੇਠ ਲਿਖੇ ਰੂਪ ਵਿ | [44](/pa/lektionen/lektion44#_44-5-ਸ਼ਬਦਾਵਲੀ) |
-| शोक | śoka | m | ਦੁੱਖ, ਗਮ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| शोभन | śobhana | 3 | ਚਮਕਦਾਰ, ਭਵ्य, ਸੁੰਦਰ, ਚੰਗਾ | [18](/pa/lektionen/lektion18#_18-4-ਸ਼ਬਦਾਵਲੀ) |
-| शौच | śauca | n | ਸਫ਼ਾਈ, ਸ਼ੁੱਧਤਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
-| श्रु शृणोति | śru | 5 P (śṛṇoti !) | ਸੁਣਨਾ (ਕੁਝ: ਅਕੂਸੇਟਿਵ, ਕisi ਨੂੰ: ਜਨੇਟਿਵ ਜਾਂ ਅਕੂਸੇਟਿਵ; ਬਾਰੇ: ਅਕੂਸੇਟਿਵ; ਕਿਸੇ ਤੋਂ: ਜਨੇਟਿਵ, ਐਬਲੇਟਿਵ, ਇੰਸਟਰੁਮੈਂਟਲਿਸ) | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
-| श्रुति | śruti | f | ਸੁਣਨਾ, ਸ਼ਾਸ਼ਵਤ ਪਰੰਪਰਾ (ਵੇਦਾਂ ਅਤੇ ਬ੍ਰਾਹਮਣਾਂ ਦਾ ਸੰਕੇਤ)। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| श्रेष्ठिन् | śreṣṭhin | 3 | ਤੇਜ਼, ਜਲਦੀ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
+| शोक | [śoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śoka&filter=roman) | m | ਦੁੱਖ, ਗਮ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| शोभन | [śobhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śobhana&filter=roman) | 3 | ਚਮਕਦਾਰ, ਭਵ्य, ਸੁੰਦਰ, ਚੰਗਾ | [18](/pa/lektionen/lektion18#_18-4-ਸ਼ਬਦਾਵਲੀ) |
+| शौच | [śauca](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śauca&filter=roman) | n | ਸਫ਼ਾਈ, ਸ਼ੁੱਧਤਾ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| श्रु शृणोति | [śru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śru&filter=roman) | 5 P (śṛṇoti !) | ਸੁਣਨਾ (ਕੁਝ: ਅਕੂਸੇਟਿਵ, ਕisi ਨੂੰ: ਜਨੇਟਿਵ ਜਾਂ ਅਕੂਸੇਟਿਵ; ਬਾਰੇ: ਅਕੂਸੇਟਿਵ; ਕਿਸੇ ਤੋਂ: ਜਨੇਟਿਵ, ਐਬਲੇਟਿਵ, ਇੰਸਟਰੁਮੈਂਟਲਿਸ) | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| श्रुति | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śruti&filter=roman) | f | ਸੁਣਨਾ, ਸ਼ਾਸ਼ਵਤ ਪਰੰਪਰਾ (ਵੇਦਾਂ ਅਤੇ ਬ੍ਰਾਹਮਣਾਂ ਦਾ ਸੰਕੇਤ)। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| श्रेष्ठिन् | [śreṣṭhin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=śreṣṭhin&filter=roman) | 3 | ਤੇਜ਼, ਜਲਦੀ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
 
 ## स
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| संयक् | saṃyak | Adv | ਸਹੀ, ਸੱਚ, ਢੰਗ ਨਾਲ ; ਬਿਲਕੁਲ, ਪੂਰੀ ਤਰ੍ਹਾਂ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
-| सङ्ग | saṅga | m | ਚਿਪਕਣਾ, ਸੰਪਰਕ (तृतीयया) | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
-| सत्य | satya | n | ਸੱਚ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
-| सत्वर | satvara | 3 | ਤੇਜ਼, ਜਲਦੀ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
-| सम | sama | 3 | ਬਰਾਬਰ, ਸਮਾਨ, ਸਮਾਨ (ਉਪਕਰਣ ਵਿਧਾ ਨਾਲ) | [18](/pa/lektionen/lektion18#_18-4-ਸ਼ਬਦਾਵਲੀ) |
-| सम | sama | 3 | ਬਰਾਬਰ, ਠੀਕ, ਸਮਾਨ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
-| समता | samatā | f | ਸਮਤਾ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
-| समम् | samam | Adv | ਸਮਾਨ ਰੂਪ ਵਿੱਚ, ਇੱਕੋ ਸਮੇਂ (तृतीयया), ਸਮਾਨ ਰੂਪ ਵਿੱਚ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
-| समान | samāna | 3 | ਸਮਾਨ, ਸਮਾਨ, ਸਮਾਨ ; m.: ਸਮਾਨ ਵਰਗ ਦਾ ਸਦੱਸ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| सर्व | sarva | 3 | ਹਰੇਕ, ਸਾਰੇ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
-| सह | saha | — | ਇਕੱਠੇ, ਸਾਂਝੇ ਤੌਰ 'ਤੇ („ਕਿਸੇ ਨਾਲ ਲੜਨ“ ਆਦਿ ਵਿੱਚ ਵੀ) (ਪੋਸਟਪੋਜੀਸ਼ਨ ਇੰਸਟਰੂਮੈਂਟਲਿਸ ਨਾਲ) | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
-| सहित | sahita | 3 | ਜੁੜੇ ਹੋਏ, ਸੰਪੰਨ | [18](/pa/lektionen/lektion18#_18-4-ਸ਼ਬਦਾਵਲੀ) |
-| साधन | sādhana | m | ,n. साधनी साधना f.: ਮੰਜ਼ਿਲ ਵੱਲ ਲੈ ਜਾਣ ਵਾਲਾ, ਪ੍ਰਭਾਵਸ਼ਾਲੀ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
+| संयक् | [saṃyak](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=saṃyak&filter=roman) | Adv | ਸਹੀ, ਸੱਚ, ਢੰਗ ਨਾਲ ; ਬਿਲਕੁਲ, ਪੂਰੀ ਤਰ੍ਹਾਂ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| सङ्ग | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=saṅga&filter=roman) | m | ਚਿਪਕਣਾ, ਸੰਪਰਕ (तृतीयया) | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
+| सत्य | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=satya&filter=roman) | n | ਸੱਚ | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
+| सत्वर | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=satvara&filter=roman) | 3 | ਤੇਜ਼, ਜਲਦੀ | [43](/pa/lektionen/lektion43#_43-4-ਸ਼ਬਦਾਵਲੀ) |
+| सम | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sama&filter=roman) | 3 | ਬਰਾਬਰ, ਸਮਾਨ, ਸਮਾਨ (ਉਪਕਰਣ ਵਿਧਾ ਨਾਲ) | [18](/pa/lektionen/lektion18#_18-4-ਸ਼ਬਦਾਵਲੀ) |
+| सम | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sama&filter=roman) | 3 | ਬਰਾਬਰ, ਠੀਕ, ਸਮਾਨ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
+| समता | [samatā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=samatā&filter=roman) | f | ਸਮਤਾ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
+| समम् | [samam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=samam&filter=roman) | Adv | ਸਮਾਨ ਰੂਪ ਵਿੱਚ, ਇੱਕੋ ਸਮੇਂ (तृतीयया), ਸਮਾਨ ਰੂਪ ਵਿੱਚ | [46](/pa/lektionen/lektion46#_46-2-ਸ਼ਬਦਾਵਲੀ) |
+| समान | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=samāna&filter=roman) | 3 | ਸਮਾਨ, ਸਮਾਨ, ਸਮਾਨ ; m.: ਸਮਾਨ ਵਰਗ ਦਾ ਸਦੱਸ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| सर्व | [sarva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sarva&filter=roman) | 3 | ਹਰੇਕ, ਸਾਰੇ | [50](/pa/lektionen/lektion50#_50-2-ਸ਼ਬਦਾਵਲੀ) |
+| सह | [saha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=saha&filter=roman) | — | ਇਕੱਠੇ, ਸਾਂਝੇ ਤੌਰ 'ਤੇ („ਕਿਸੇ ਨਾਲ ਲੜਨ“ ਆਦਿ ਵਿੱਚ ਵੀ) (ਪੋਸਟਪੋਜੀਸ਼ਨ ਇੰਸਟਰੂਮੈਂਟਲਿਸ ਨਾਲ) | [10](/pa/lektionen/lektion10#_10-5-ਸ਼ਬਦਾਵਲੀ) |
+| सहित | [sahita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sahita&filter=roman) | 3 | ਜੁੜੇ ਹੋਏ, ਸੰਪੰਨ | [18](/pa/lektionen/lektion18#_18-4-ਸ਼ਬਦਾਵਲੀ) |
+| साधन | [sādhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sādhana&filter=roman) | m | ,n. साधनी साधना f.: ਮੰਜ਼ਿਲ ਵੱਲ ਲੈ ਜਾਣ ਵਾਲਾ, ਪ੍ਰਭਾਵਸ਼ਾਲੀ | [16](/pa/lektionen/lektion16#_16-2-ਸ਼ਬਦਾਵਲੀ) |
 | साधु | ਸਾਧੁ | 3 | ਸਹੀ, ਚੰਗਾ। | [2](/pa/lektionen/lektion02#_2-5-ਸ਼ਬਦਾਵਲੀ) |
-| साध्वी | sādhvī | f | ਮਾਦਾ ਰੂਪ sādhu ਦਾ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| सामर्थ्य | sāmarthya | n | ਉਸਦੇ ਉਦੇਸ਼ ਨਾਲ ਸਹਿਮਤ ਹੋਣਾ | [25](/pa/lektionen/lektion25#_25-5-ਸ਼ਬਦਾਵਲੀ) |
-| सामान्य | sāmānya | n | ਸਮਾਨਤਾ, ਮੇਲ | [23](/pa/lektionen/lektion23#_23-4-ਸ਼ਬਦਾਵਲੀ) |
-| सार | sāra | m | n.: ਕੇਂਦਰ, ਦਿਲ, ਸਾਰ, ਪਦਾਰਥ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| सारथि | sārathi | m | ਰਥ ਚਾਲਕ, ਡਰਾਈਵਰ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| सिंह | siṃha | m | ਸਿੰਘ (_Panthera leo persica_) | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| सिच् सिञ्चति सिक्त | sic | 6 U (siñcati), PPP **sikta** | ਛਿੜਕਣਾ | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
-| सीमन् | sīman | f | ਸੀਮਾ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| सु सुनोति | su | 5 U (sunoti) | ਨਿਚੋੜਨਾ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
-| सुख | sukha | n | ਖੁਸ਼ੀ, ਭਲਾਈ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
-| सुत | suta | m | ਪੁੱਤਰ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| सुप्ति | supti | f | (\*svp-ti ਤੋਂ): ਸੁਪਨਾ, ਖਾਸ ਤੌਰ 'ਤੇ ਡੂੰਘਾ ਸੁਪਨਾ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
-| सुष्टु | suṣṭu | 3 | ਉੱਚ ਸਤਕਾਰ, ਉਤਕ੍ਰਿਸ਼ਟ, ਚੰਗਾ | [18](/pa/lektionen/lektion18#_18-4-ਸ਼ਬਦਾਵਲੀ) |
-| सूक्ष्म | sūkṣma | 3 | ਬਾਰੀਕ, ਬਹੁਤ ਛੋਟਾ, ਸੂਖਮ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| सूर्य | sūrya | m | ਸੂਰਜ, ਸੂਰਜ ਦੇਵਤਾ ਸੂਰਯ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| सूर्य | sūrya | m | ਸੂਰਜ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| सृज् सृजति | sṛj | 6 P (sṛjati) | ਛੱਡਣਾ, ਆਪਣੇ ਆਪ ਵਿੱਚੋਂ ਬਾਹਰ ਕੱਢਣਾ, ਉਤਪੰਨ ਕਰਨਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
-| सेवा | sevā | f | ਸੇਵਾ, ਸੰਪਰਕ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
-| सोम | soma | m | ਨਿਚੋੜਿਆ ਪੀਣਾ, ਸੋਮ; ਚੰਦਰਮਾ (ਕਿਸ ਪੌਦੇ ਤੋਂ ਸੋਮ ਨਿਚੋੜਿਆ ਗਿਆ ਸੀ, ਇਹ ਅੱਜ ਤੱਕ ਵਿਵਾਦਿਤ ਹੈ) | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
-| स्तुति | stuti | f | ਸ਼ਲਾਘਾ, ਸ਼ਲਾਘਾ ਗੀਤ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| स्तोत्र | stotra | n | (ਸ਼ਲਾਘਾ ਦਾ ਮਾਧਿਅਮ =) ਸ਼ਲਾਘਾ ਗੀਤ, ਹਿਮਨਸ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
-| स्त्री | strī | f | ਔਰਤ, ਪਤਨੀ ; ਸਤੀ ਲਿੰਗ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| स्थविर | sthavira | 3 | ਬੁੱਢਾ, ਬੁਢਾਪਾ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| स्थाविर | sthāvira | n | (ਉੱਚਾ) ਬੁਢਾਪਾ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
-| स्मृ स्मरति | smṛ | 1 P (smarati) | ਮੁੜ ਪ੍ਰਗਟ ਕਰਨਾ, ਯਾਦ ਕਰਨਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
-| स्मृति | smṛti | f | ਸਮਕਾਲੀਨਤਾ, ਯਾਦ, ਧਿਆਨਮਈ ਸਮਕਾਲੀਨਤਾ = ਸੁਚੇਤਤਾ, ਪਰੰਪਰਾ (**śruti** ਦਾ ਵਿਰੋਧੀ ਸੰਕਲਪ)। ਇਸ ਵਿੱਚ ਸ਼ਾਮਲ ਹਨ: | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
-| स्व | sva | 3 | ਆਪਣਾ, ਆਪਣਾ (ਮੇਰਾ, ਤੇਰਾ ਆਦਿ)। ਇਸ ਨੂੰ सर्व ਅਨੁਸਾਰ ਵਿਕ੍ਰਿਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਅਬਲ.ਲੋਕ.ਸg.m.n ਅਤੇ ਨੋਮ.pl.m ਵਿੱਚ ਇਸ ਨੂੰ देव ਅਨੁਸਾ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
-| स्वक | svaka | 3 | ਆਪਣਾ (ਮੇਰਾ, ਤੇਰਾ ...) ; m.: ਸੰਬੰਧੀ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
-| स्वप्न | svapna | m | ਸੁਪਨਾ, ਸਪਨਾ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
-| स्वभाव | svabhāva | m | ਸਤਤਾ, ਸੁਭਾਅ, ਵਿਸ਼ੇਸ਼ਤਾ | [25](/pa/lektionen/lektion25#_25-5-ਸ਼ਬਦਾਵਲੀ) |
-| स्वर्ग | svarga | m | ਸਵਰਗ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
-| स्वागत | svāgata | n | ਸੁਆਗਤ (su-ā-gata ਤੋਂ) | [24](/pa/lektionen/lektion24#_24-4-ਸ਼ਬਦਾਵਲੀ) |
+| साध्वी | [sādhvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sādhvī&filter=roman) | f | ਮਾਦਾ ਰੂਪ sādhu ਦਾ। | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| सामर्थ्य | [sāmarthya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sāmarthya&filter=roman) | n | ਉਸਦੇ ਉਦੇਸ਼ ਨਾਲ ਸਹਿਮਤ ਹੋਣਾ | [25](/pa/lektionen/lektion25#_25-5-ਸ਼ਬਦਾਵਲੀ) |
+| सामान्य | [sāmānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sāmānya&filter=roman) | n | ਸਮਾਨਤਾ, ਮੇਲ | [23](/pa/lektionen/lektion23#_23-4-ਸ਼ਬਦਾਵਲੀ) |
+| सार | [sāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sāra&filter=roman) | m | n.: ਕੇਂਦਰ, ਦਿਲ, ਸਾਰ, ਪਦਾਰਥ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| सारथि | [sārathi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sārathi&filter=roman) | m | ਰਥ ਚਾਲਕ, ਡਰਾਈਵਰ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| सिंह | [siṃha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=siṃha&filter=roman) | m | ਸਿੰਘ (_Panthera leo persica_) | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| सिच् सिञ्चति सिक्त | [sic](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sic&filter=roman) | 6 U (siñcati), PPP **sikta** | ਛਿੜਕਣਾ | [12](/pa/lektionen/lektion12#_12-5-ਸ਼ਬਦਾਵਲੀ) |
+| सीमन् | [sīman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sīman&filter=roman) | f | ਸੀਮਾ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| सु सुनोति | [su](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=su&filter=roman) | 5 U (sunoti) | ਨਿਚੋੜਨਾ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| सुख | [sukha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sukha&filter=roman) | n | ਖੁਸ਼ੀ, ਭਲਾਈ | [8](/pa/lektionen/lektion08#_8-5-ਸ਼ਬਦਾਵਲੀ) |
+| सुत | [suta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=suta&filter=roman) | m | ਪੁੱਤਰ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| सुप्ति | [supti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=supti&filter=roman) | f | (\*svp-ti ਤੋਂ): ਸੁਪਨਾ, ਖਾਸ ਤੌਰ 'ਤੇ ਡੂੰਘਾ ਸੁਪਨਾ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
+| सुष्टु | [suṣṭu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=suṣṭu&filter=roman) | 3 | ਉੱਚ ਸਤਕਾਰ, ਉਤਕ੍ਰਿਸ਼ਟ, ਚੰਗਾ | [18](/pa/lektionen/lektion18#_18-4-ਸ਼ਬਦਾਵਲੀ) |
+| सूक्ष्म | [sūkṣma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sūkṣma&filter=roman) | 3 | ਬਾਰੀਕ, ਬਹੁਤ ਛੋਟਾ, ਸੂਖਮ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| सूर्य | [sūrya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sūrya&filter=roman) | m | ਸੂਰਜ, ਸੂਰਜ ਦੇਵਤਾ ਸੂਰਯ | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| सूर्य | [sūrya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sūrya&filter=roman) | m | ਸੂਰਜ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| सृज् सृजति | [sṛj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sṛj&filter=roman) | 6 P (sṛjati) | ਛੱਡਣਾ, ਆਪਣੇ ਆਪ ਵਿੱਚੋਂ ਬਾਹਰ ਕੱਢਣਾ, ਉਤਪੰਨ ਕਰਨਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
+| सेवा | [sevā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sevā&filter=roman) | f | ਸੇਵਾ, ਸੰਪਰਕ | [52](/pa/lektionen/lektion52#_52-7-ਸ਼ਬਦਾਵਲੀ) |
+| सोम | [soma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=soma&filter=roman) | m | ਨਿਚੋੜਿਆ ਪੀਣਾ, ਸੋਮ; ਚੰਦਰਮਾ (ਕਿਸ ਪੌਦੇ ਤੋਂ ਸੋਮ ਨਿਚੋੜਿਆ ਗਿਆ ਸੀ, ਇਹ ਅੱਜ ਤੱਕ ਵਿਵਾਦਿਤ ਹੈ) | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| स्तुति | [stuti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=stuti&filter=roman) | f | ਸ਼ਲਾਘਾ, ਸ਼ਲਾਘਾ ਗੀਤ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| स्तोत्र | [stotra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=stotra&filter=roman) | n | (ਸ਼ਲਾਘਾ ਦਾ ਮਾਧਿਅਮ =) ਸ਼ਲਾਘਾ ਗੀਤ, ਹਿਮਨਸ | [15](/pa/lektionen/lektion15#_15-8-ਸ਼ਬਦਾਵਲੀ) |
+| स्त्री | [strī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=strī&filter=roman) | f | ਔਰਤ, ਪਤਨੀ ; ਸਤੀ ਲਿੰਗ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| स्थविर | [sthavira](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sthavira&filter=roman) | 3 | ਬੁੱਢਾ, ਬੁਢਾਪਾ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| स्थाविर | [sthāvira](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sthāvira&filter=roman) | n | (ਉੱਚਾ) ਬੁਢਾਪਾ | [48](/pa/lektionen/lektion48#_48-4-ਸ਼ਬਦਾਵਲੀ) |
+| स्मृ स्मरति | [smṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=smṛ&filter=roman) | 1 P (smarati) | ਮੁੜ ਪ੍ਰਗਟ ਕਰਨਾ, ਯਾਦ ਕਰਨਾ | [6](/pa/lektionen/lektion06#_6-7-ਸ਼ਬਦਾਵਲੀ) |
+| स्मृति | [smṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=smṛti&filter=roman) | f | ਸਮਕਾਲੀਨਤਾ, ਯਾਦ, ਧਿਆਨਮਈ ਸਮਕਾਲੀਨਤਾ = ਸੁਚੇਤਤਾ, ਪਰੰਪਰਾ (**śruti** ਦਾ ਵਿਰੋਧੀ ਸੰਕਲਪ)। ਇਸ ਵਿੱਚ ਸ਼ਾਮਲ ਹਨ: | [3](/pa/lektionen/lektion03#_3-6-ਸ਼ਬਦਾਵਲੀ) |
+| स्व | [sva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=sva&filter=roman) | 3 | ਆਪਣਾ, ਆਪਣਾ (ਮੇਰਾ, ਤੇਰਾ ਆਦਿ)। ਇਸ ਨੂੰ सर्व ਅਨੁਸਾਰ ਵਿਕ੍ਰਿਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਅਬਲ.ਲੋਕ.ਸg.m.n ਅਤੇ ਨੋਮ.pl.m ਵਿੱਚ ਇਸ ਨੂੰ देव ਅਨੁਸਾ | [51](/pa/lektionen/lektion51#_51-6-ਸ਼ਬਦਾਵਲੀ) |
+| स्वक | [svaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=svaka&filter=roman) | 3 | ਆਪਣਾ (ਮੇਰਾ, ਤੇਰਾ ...) ; m.: ਸੰਬੰਧੀ | [36](/pa/lektionen/lektion36#_36-4-ਸ਼ਬਦਾਵਲੀ) |
+| स्वप्न | [svapna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=svapna&filter=roman) | m | ਸੁਪਨਾ, ਸਪਨਾ | [40](/pa/lektionen/lektion40#_40-6-ਸ਼ਬਦਾਵਲੀ) |
+| स्वभाव | [svabhāva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=svabhāva&filter=roman) | m | ਸਤਤਾ, ਸੁਭਾਅ, ਵਿਸ਼ੇਸ਼ਤਾ | [25](/pa/lektionen/lektion25#_25-5-ਸ਼ਬਦਾਵਲੀ) |
+| स्वर्ग | [svarga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=svarga&filter=roman) | m | ਸਵਰਗ | [7](/pa/lektionen/lektion07#_7-6-ਸ਼ਬਦ-ਸੂਚੀ) |
+| स्वागत | [svāgata](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=svāgata&filter=roman) | n | ਸੁਆਗਤ (su-ā-gata ਤੋਂ) | [24](/pa/lektionen/lektion24#_24-4-ਸ਼ਬਦਾਵਲੀ) |
 
 ## ह
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| हर्ष | harṣa | m | (ਸਰੀਰ ਦੇ ਵਾਲ ਖੜ੍ਹੇ ਕਰਨਾ), ਖੁਸ਼ੀ | [25](/pa/lektionen/lektion25#_25-5-ਸ਼ਬਦਾਵਲੀ) |
-| हस्तिन् | hastin | m | ਹਾਥੀ (_Elephas maximus_) | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
-| हीन | PPP | — | ਦੁਆਰਾ ਛੱਡਿਆ, ਵਿਹੂਣ, ਅਧੂਰਾ | [33](/pa/lektionen/lektion33#_33-6-ਸ਼ਬਦਾਵਲੀ) |
-| ह्रस्व | hrasva | 3 | ਛੋਟਾ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
+| हर्ष | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=harṣa&filter=roman) | m | (ਸਰੀਰ ਦੇ ਵਾਲ ਖੜ੍ਹੇ ਕਰਨਾ), ਖੁਸ਼ੀ | [25](/pa/lektionen/lektion25#_25-5-ਸ਼ਬਦਾਵਲੀ) |
+| हस्तिन् | [hastin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=hastin&filter=roman) | m | ਹਾਥੀ (_Elephas maximus_) | [38](/pa/lektionen/lektion38#_38-9-ਸ਼ਬਦਾਵਲੀ) |
+| हीन | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=PPP&filter=roman) | — | ਦੁਆਰਾ ਛੱਡਿਆ, ਵਿਹੂਣ, ਅਧੂਰਾ | [33](/pa/lektionen/lektion33#_33-6-ਸ਼ਬਦਾਵਲੀ) |
+| ह्रस्व | [hrasva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/index.php?key=hrasva&filter=roman) | 3 | ਛੋਟਾ | [49](/pa/lektionen/lektion49#_49-4-ਸ਼ਬਦਾਵਲੀ) |
