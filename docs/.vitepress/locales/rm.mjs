@@ -22,6 +22,7 @@ export const rm = {
       { text: 'Cuntegn', link: '/rm/lektionen/inhaltsverzeichnis' },
       { text: 'Temas da grammatica (Indici)', link: '/rm/grammatik' },
       { text: 'Vocabulari', link: '/rm/lektionen/wortliste' },
+      { text: 'Glossari', link: '/rm/lektionen/glossar' },
       { text: 'Lecziunas', collapsed: false, items: [] },
       { text: 'Scrittira (Introducziun)', collapsed: true, items: [] },
       { text: 'Exercizis', collapsed: true, items: [] },

@@ -28,6 +28,7 @@ export const uk = {
       { text: 'Зміст', link: '/uk/lektionen/inhaltsverzeichnis' },
       { text: 'Граматичні теми (Покажчик)', link: '/uk/grammatik' },
       { text: 'Словник', link: '/uk/lektionen/wortliste' },
+      { text: 'Глосарій', link: '/uk/lektionen/glossar' },
       { text: 'Лекції', collapsed: false, items: [] },
       { text: 'Письмо (Вступ)', collapsed: true, items: [] },
       { text: 'Вправи', collapsed: true, items: [] },

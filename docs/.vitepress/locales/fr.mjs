@@ -28,6 +28,7 @@ export const fr = {
       { text: 'Table des matières', link: '/fr/lektionen/inhaltsverzeichnis' },
       { text: 'Sujets de grammaire (Index)', link: '/fr/grammatik' },
       { text: 'Vocabulaire', link: '/fr/lektionen/wortliste' },
+      { text: 'Glossaire', link: '/fr/lektionen/glossar' },
       { text: 'Leçons', collapsed: false, items: [] },
       { text: 'Écriture (Introduction)', collapsed: true, items: [] },
       { text: 'Exercices', collapsed: true, items: [] },

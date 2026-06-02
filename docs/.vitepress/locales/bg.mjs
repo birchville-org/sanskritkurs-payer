@@ -28,6 +28,7 @@ export const bg = {
       { text: 'Съдържание', link: '/bg/lektionen/inhaltsverzeichnis' },
       { text: 'Граматични теми (Индекс)', link: '/bg/grammatik' },
       { text: 'Речник', link: '/bg/lektionen/wortliste' },
+      { text: 'Речник', link: '/bg/lektionen/glossar' },
       { text: 'Уроци', collapsed: false, items: [] },
       { text: 'Писмо (Въведение)', collapsed: true, items: [] },
       { text: 'Упражнения', collapsed: true, items: [] },

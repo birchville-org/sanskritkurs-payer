@@ -28,6 +28,7 @@ export const hi = {
       { text: 'विषय-सूची', link: '/hi/lektionen/inhaltsverzeichnis' },
       { text: 'व्याकरण विषय (अनुक्रमणिका)', link: '/hi/grammatik' },
       { text: 'शब्दावली', link: '/hi/lektionen/wortliste' },
+      { text: 'शब्दकोश', link: '/hi/lektionen/glossar' },
       { text: 'पाठ', collapsed: false, items: [] },
       { text: 'लिपि (परिचय)', collapsed: true, items: [] },
       { text: 'अभ्यास', collapsed: true, items: [] },

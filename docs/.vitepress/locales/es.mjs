@@ -22,6 +22,7 @@ export const es = {
       { text: 'Tabla de contenidos', link: '/es/lektionen/inhaltsverzeichnis' },
       { text: 'Índice gramatical', link: '/es/grammatik' },
       { text: 'Vocabulario', link: '/es/lektionen/wortliste' },
+      { text: 'Glosario', link: '/es/lektionen/glossar' },
       { text: 'Lecciones', collapsed: false, items: [] },
       { text: 'Escritura', collapsed: true, items: [] },
       { text: 'Ejercicios', collapsed: true, items: [] },

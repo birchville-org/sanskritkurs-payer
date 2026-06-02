@@ -22,6 +22,7 @@ export const ta = {
       { text: 'உள்ளடக்கம்', link: '/ta/lektionen/inhaltsverzeichnis' },
       { text: 'இலக்கண தலைப்புகள் (அகரவரிசை)', link: '/ta/grammatik' },
       { text: 'சொற்களஞ்சியம்', link: '/ta/lektionen/wortliste' },
+      { text: 'சொல்லகராதி', link: '/ta/lektionen/glossar' },
       { text: 'பாடங்கள்', collapsed: false, items: [] },
       { text: 'எழுத்து (அறிமுகம்)', collapsed: true, items: [] },
       { text: 'பயிற்சிகள்', collapsed: true, items: [] },

@@ -28,6 +28,7 @@ export const it = {
       { text: 'Sommario', link: '/it/lektionen/inhaltsverzeichnis' },
       { text: 'Indice Grammaticale', link: '/it/grammatik' },
       { text: 'Vocabolario', link: '/it/lektionen/wortliste' },
+      { text: 'Glossario', link: '/it/lektionen/glossar' },
       { text: 'Lezioni', collapsed: false, items: [] },
       { text: 'Scrittura', collapsed: true, items: [] },
       { text: 'Esercizi', collapsed: true, items: [] },

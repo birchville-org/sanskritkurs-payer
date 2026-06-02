@@ -604,7 +604,7 @@ html.is-wide .VPDoc .container,
 html.is-embedded .VPDoc .container {
   max-width: 100% !important;
   margin: 0 !important;
-  padding: 0 4rem !important; /* Increased padding for reasonable distance */
+  padding: 0 4rem !important;
 }
 
 html.is-wide .VPDoc .content,
@@ -615,7 +615,6 @@ html.is-wide .VPDoc .main {
   width: 100% !important;
 }
 
-/* Ensure the main text area doesn't have a hard max-width in wide mode */
 html.is-wide .vp-doc,
 html.is-wide .VPDoc .content-container {
   max-width: none !important;

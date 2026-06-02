@@ -28,6 +28,7 @@ export const ru = {
       { text: 'Содержание', link: '/ru/lektionen/inhaltsverzeichnis' },
       { text: 'Грамматические темы (Указатель)', link: '/ru/grammatik' },
       { text: 'Словарь', link: '/ru/lektionen/wortliste' },
+      { text: 'Глоссарий', link: '/ru/lektionen/glossar' },
       { text: 'Лекции', collapsed: false, items: [] },
       { text: 'Письмо (Вступление)', collapsed: true, items: [] },
       { text: 'Упражнения', collapsed: true, items: [] },

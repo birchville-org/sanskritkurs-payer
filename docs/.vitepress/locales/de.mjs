@@ -26,6 +26,7 @@ export const de = {
       { text: 'Inhaltsverzeichnis', link: '/lektionen/inhaltsverzeichnis' },
       { text: 'Grammatik Themen (Index)', link: '/grammatik' },
       { text: 'Wortliste', link: '/lektionen/wortliste' },
+      { text: 'Glossar', link: '/lektionen/glossar' },
       { text: 'Lektionen', collapsed: false, items: [] },
       { text: 'Schrift (Einführung)', collapsed: true, items: [] },
       { text: 'Übungen', collapsed: true, items: [] },

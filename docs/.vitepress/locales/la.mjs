@@ -22,6 +22,7 @@ export const la = {
       { text: 'Index rerum', link: '/la/lektionen/inhaltsverzeichnis' },
       { text: 'Index grammaticus', link: '/la/grammatik' },
       { text: 'Glossarium', link: '/la/lektionen/wortliste' },
+      { text: 'Lexicon', link: '/la/lektionen/glossar' },
       { text: 'Lectiones', collapsed: false, items: [] },
       { text: 'Scriptura', collapsed: true, items: [] },
       { text: 'Exercitationes', collapsed: true, items: [] },

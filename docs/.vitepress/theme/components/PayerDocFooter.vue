@@ -42,6 +42,9 @@ const currentLang = computed(() => {
   if (path.startsWith('/fr/')) return 'fr'
   if (path.startsWith('/ta/')) return 'ta'
   if (path.startsWith('/pa/')) return 'pa'
+  if (path.startsWith('/la/')) return 'la'
+  if (path.startsWith('/rm/')) return 'rm'
+  if (path.startsWith('/ro/')) return 'ro'
   return 'de'
 })
 
@@ -58,6 +61,9 @@ const labels = computed(() => {
     fr: { prev: 'Leçon précédente', exercise: 'Exercice supplémentaire', next: 'Leçon suivante' },
     ta: { prev: 'முந்தைய பாடம்', exercise: 'கூடுதல் பயிற்சி', next: 'அடுத்த பாடம்' },
     pa: { prev: 'ਪਿਛਲਾ ਪਾਠ', exercise: 'ਵਾਧੂ ਅਭਿਆਸ', next: 'ਅਗਲਾ ਪਾਠ' },
+    la: { prev: 'Lectio prior', exercise: 'Exercitatio addita', next: 'Lectio sequens' },
+    rm: { prev: 'Lecziun precedenta', exercise: 'Exercizi supplementar', next: 'Proxima lecziun' },
+    ro: { prev: 'Lecția anterioară', exercise: 'Exercițiu suplimentar', next: 'Lecția următoare' },
   }
   return dict[currentLang.value] || dict.de
 })
@@ -119,6 +125,21 @@ const translateTitle = (text) => {
     t = t.replace(/Lektion/g, 'ਪਾਠ')
     t = t.replace(/Übung/g, 'ਅਭਿਆਸ')
     t = t.replace(/Schrift/g, 'ਲਿਪੀ')
+  } else if (l === 'la') {
+    t = t.replace(/Schriftübung/g, 'Exercitatio scripturae')
+    t = t.replace(/Lektion/g, 'Lectio')
+    t = t.replace(/Übung/g, 'Exercitatio')
+    t = t.replace(/Schrift/g, 'Scriptura')
+  } else if (l === 'rm') {
+    t = t.replace(/Schriftübung/g, "Exercizi da scrittira")
+    t = t.replace(/Lektion/g, 'Lecziun')
+    t = t.replace(/Übung/g, 'Exercizi')
+    t = t.replace(/Schrift/g, 'Scrittira')
+  } else if (l === 'ro') {
+    t = t.replace(/Schriftübung/g, 'Exercițiu de scriere')
+    t = t.replace(/Lektion/g, 'Lecție')
+    t = t.replace(/Übung/g, 'Exercițiu')
+    t = t.replace(/Schrift/g, 'Scriere')
   }
   return t
 }

@@ -22,6 +22,7 @@ export const pa = {
       { text: 'ਵਿਸ਼ਾ ਸੂਚੀ', link: '/pa/lektionen/inhaltsverzeichnis' },
       { text: 'ਵਿਆਕਰਨ ਵਿਸ਼ੇ (ਵਰਣਮਾਲਾ ਅਨੁਸਾਰ)', link: '/pa/grammatik' },
       { text: 'ਸ਼ਬਦ ਸੂਚੀ', link: '/pa/lektionen/wortliste' },
+      { text: 'ਸ਼ਬਦਕੋਸ਼', link: '/pa/lektionen/glossar' },
       { text: 'ਪਾਠ', collapsed: false, items: [] },
       { text: 'ਲਿਪੀ (ਜਾਣ-ਪਛਾਣ)', collapsed: true, items: [] },
       { text: 'ਅਭਿਆਸ', collapsed: true, items: [] },

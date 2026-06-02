@@ -28,6 +28,7 @@ export const en = {
       { text: 'Table of Contents', link: '/en/lektionen/inhaltsverzeichnis' },
       { text: 'Grammar Topics (Index)', link: '/en/grammatik' },
       { text: 'Vocabulary', link: '/en/lektionen/wortliste' },
+      { text: 'Glossary', link: '/en/lektionen/glossar' },
       { text: 'Lessons', collapsed: false, items: [] },
       { text: 'Script (Introduction)', collapsed: true, items: [] },
       { text: 'Exercises', collapsed: true, items: [] },

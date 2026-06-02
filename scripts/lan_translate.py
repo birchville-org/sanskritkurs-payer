@@ -12,14 +12,15 @@ LANGUAGES = [
 #    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm",
 #    "ar", "arc", "he", "zh", "la", "grc", "el", "fa", "akk", "cop",
     "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "ta", "pa",
+    "la", "rm", "ro",
 ]
 LANG_NAMES = {
     "en": "English", "it": "Italian", "es": "Spanish",
     "ru": "Russian", "uk": "Ukrainian", "bg": "Bulgarian",
     "hi": "Hindi", "fr": "French", "ta": "Tamil", "pa": "Punjabi (Gurmukhi)",
-#    "rm": "Romansh Grischun",
+    "la": "Latin", "rm": "Romansh Grischun", "ro": "Romanian",
 #    "ar": "Arabic", "arc": "Aramaic", "he": "Hebrew",
-#    "zh": "Mandarin Chinese", "la": "Latin",
+#    "zh": "Mandarin Chinese",
 #    "grc": "Ancient Greek", "el": "Modern Greek",
 #    "fa": "Persian (Farsi)", "akk": "Akkadian", "cop": "Coptic",
 }
