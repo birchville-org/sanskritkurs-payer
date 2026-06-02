@@ -1,15 +1,19 @@
 ---
+title: Lectio 3
+subtitle: "De casu nominativo singulari nominum feminini generis"
 lesson_id: 3
 last_reconstructed: 2026-05-07
+category: "Grammatica"
+status: stable
 ---
 
 # Lectio 3
 
 ::: deleteme-box
 **In hac lectione discitis:**
-- nominativum singulare feminini
-- nominativum plurale masculini et feminini
-- formationem feminini ad masculina
+- casum nominativum singularem nominum feminini generis
+- casum nominativum pluralium nominum masculini et feminini generis
+- formationem nominum feminini generis ex nominibus masculini generis
 - sandhi vocalium
 - Satzsandhi von -ās
 :::
@@ -18,7 +22,7 @@ last_reconstructed: 2026-05-07
 
 ### 3.1.1. Nominativus singularis in -s
 
-Radices nominum sequentes, quae vocali terminantur, Nominativum singularem in **-s** formant:
+Sequentes nominales radices, quae vocali terminantur, Nominativum singularem in **-s** formant:
 
 ::: grammar-box
 - **Feminae in -i**: exempli gratia **śruti** f. "auditus" -- Nom. sg.: **śrutis** = श्रुतिस्
@@ -30,22 +34,22 @@ Radices nominum sequentes, quae vocali terminantur, Nominativum singularem in **
 Nominativum singularis sine desinentia formant:
 
 ::: grammar-box
-- **Feminina in -ā**: exempli gratia **devatā** f. "numen" -- Nom. sg.: **devatā** = देवता
-- **Feminina in -ī**: exempli gratia **devī** f. "dea" -- Nom. sg.: **devī** = देवी
+- **Feminina in -ā**: e.g. **devatā** f. "Dea" -- Nom. sg.: **devatā** = देवता
+- **Feminina in -ī**: e.g. **devī** f. "Dea" -- Nom. sg.: **devī** = देवी
 :::
 
 ::: important
-**Attenzione!** Praeterea sunt nomina radicalia feminina monosyllaba in -ī, quorum Nominativus singularis in -s desinit: exempli gratia dhī f. "mens" -- Nom. sg.: dhīs = धीस्. Item lakṣmī (लक्ष्मी) f., tarī (तरी) f. "navis" et tantrī (तन्त्री) f. "chorda" irregulariter Nominativum singularis in -s formant: lakṣmīs = लक्ष्मीस्.
+**Attenzione!** Praeterea sunt nomina radicalia feminina monosyllaba in -ī, quorum Nominativus singularis in -s desinit: e.g. dhī f. "Mens" -- Nom. sg.: dhīs = धीस्. Item lakṣmī (लक्ष्मी) f., tarī (तरी) f. "Navis" et tantrī (तन्त्री) f. "Chorda" irregulariter Nominativum singularis in -s formant: lakṣmīs = लक्ष्मीस्.
 :::
 
 ---
 
-## 3.2. Formatio femininorum a masculinis
+## 3.2. Femininorum a masculinis formationes
 
 ::: grammar-box
 **Masculina in -a:**
-- **Femininum in -ā**: e.g. **kṣatriya** m. » **kṣatriyā** f. "mulier Kṣatriya" = क्षत्रिया
-- **Femininum in -ī**: e.g. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmana" = ब्राह्मणी
+- **Femininum in -ā**: e.g. **kṣatriya** m. » **kṣatriyā** f. "Mulier Kṣatriya" = क्षत्रिया
+- **Femininum in -ī**: e.g. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanina" = ब्राह्मणी
 
 **Masculina in -u:**
 - **Femininum in -ī**: e.g. **sādhu** m. » **sādhvī** f. (bonus, sancta) = साध्वी
@@ -71,25 +75,25 @@ Nota: **e** est gradus superior (**guṇa**) ad **i**, **o** est gradus superior
 
 ---
 
-## 3.4. Sandhi vocalium
+## 3.4. Vocalis Sandhi
 
 ::: grammar-box
-**Vocales simplices, qui neque differunt neque nisi longitudine, "coalescunt" in vocalem longam correspondentem:**
+**Vocales simplices, quae non differunt vel sola longitudine, "coalescunt" in vocalem longam correspondentem:**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
 :::
 
-e.g.
+exempli gratia:
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā est dea" = देवतान्नपूर्णा
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā dea est" = देवतान्नपूर्णा
 
-> (Annapūrṇā est dea ciborum et coquinae, quae habetur ut incarnatio Pārvatī, uxor Śivas.)
+> (Annapūrṇā est dea ciborum et coquinae, quae habetur ut incarnatio Pārvatī, coniugis Śiva.)
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī est dea" = देवीन्द्राणी
+devī + indrāṇī » devīndrāṇī "Indrāṇī dea est" = देवीन्द्राणी
 
-> (Indrāṇī est uxor dei Indra.)
+> (Indrāṇī est coniux dei Indra.)
 
 ::: media
 ![](/images/lekt0301.jpg)
@@ -98,18 +102,18 @@ Fig.: Indra et Indrāṇī super elephantem Airavata, miniatura, Rājasthān, 16
 :::
 
 ::: grammar-box
-**Vocales simplices (praeter -a / -ā) ante vocales dissimiles per semivocalem correspondentem substituuntur:**
+**Vocales simplices (praeter -a / -ā) ante vocales dissimiles per consonantem semivocalis correspondentem substituuntur:**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
 (!! Ad hanc regulam sunt exceptiones praecipue pro formis dualibus !!)
 :::
 
-e.g.
+exempli gratia:
 
-devī + umā » devy umā "Umā est dea" = देव्युमा
+devī + umā » devy umā "Umā dea est" = देव्युमा
 
-> (Umā est nomen Pārvatī, uxoris Śivas)
+> (Umā nomen est Pārvatī, coniugis Śiva)
 
 ::: grammar-box
 **-a / -ā ante vocalem dissimilem:**
@@ -128,21 +132,21 @@ Pro hoc Sandhi sequens schema valet:
 
 De hac dicta gradatione radicis vide postea!
 
-e.g.
+exempli gratia:
 
-śūdrā + itarā » śudretarā "Itarā est mulier Śūdrae" = शूद्रेतरा
+śūdrā + itarā » śudretarā "Itara mulier Śūdra est" = शूद्रेतरा
 
 ---
 
-## 3.5. Satzsandhi vocis -ās
+## 3.5. Satzsandhi von -ās
 
 ::: grammar-box
-**-ās ante omnes sonos sonantes per -ā mutatur.**
+**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
 
 e.g.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyae sunt bis nati" = द्विजा वैश्याः
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sunt bisquignati" = द्विजा वैश्याः
 
 ---
 
@@ -150,9 +154,9 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyae sunt bis nati" = द्व
 
 **Verba sequentia discite:**
 
-**śruti** f. = श्रुति : auditus, traditio aeterna (nomen pro Vedīs et Brāhmaṇīs).
+**śruti** f. = श्रुति : auditus, traditio aeterna (nomen pro Vedas et Brāhmaṇa).
 
-**smṛti** f. = स्मृति : praesensificatio, memoria, meditativa praesensificatio = attentio, traditio (contrarium **śruti**). Comprehendit:
+**smṛti** f. = स्मृति : praesensia, memoria, meditativa praesentia = attentio, traditio (contrarium **śruti**). Comprehendit:
 - sex **vedāṅga** n. (वेदाङ्ग)
   1. **śikṣā** f. (शिक्षा): recta pronuntiatio
   2. **chandas** n. (छन्दस्): metrum
@@ -160,16 +164,16 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyae sunt bis nati" = द्व
   4. **nirukta** n. (निरुक्त) : explicatio verborum, etymologia
   5. **jyotiṣa** n. (ज्योतिष) : astronomia, doctrina calendarii
   6. **kalpa** m. (कल्प) : caerimonia
-- **śrautasūtra** n. (श्रौतसूत्र) : opera doctrinae pro executione sacrificiorum magnorum
+- **śrautasūtra** n. (श्रौतसूत्र) : opera doctrinae pro executione magnorum sacrificiorum
 - **gṛhyasūtra** n. (गृह्यसूत्र) : opera doctrinae pro caerimoniis et sacrificiis vitae cotidiana
 - **dharmasūtra** n. (धर्मसूत्र) et **dharmaśāstra** n. (धर्मशास्त्र) : opera doctrinae de iure et consuetudine (recta conducta)
-- epica magna **mahābhārata** n. (महाभारत) et **rāmāyaṇa** n. (रामायण)
+- magna epica **mahābhārata** n. (महाभारत) et **rāmāyaṇa** n. (रामायण)
 - **purāṇa** n. (पुराण)
 - **nītiśāstra** n. (नीतिशास्त्र) : opera doctrinae prudentiae vitae
 
-**smṛti** est praecipue nomen pro operibus doctrinae Dharma.
+**smṛti** est praecipue nomen pro operibus doctrinae de Dharma.
 
-**dhenu** f. = धेनु : (lac) vacca.
+**dhenu** f. = धेनु : vacca (lac).
 
 **paśu** m. = पशु : animal domesticum utile, pecus (collectivum).
 
@@ -187,7 +191,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyae sunt bis nati" = द्व
 
 **śūdrī** f. / **śūdrāṇī** f. = शूद्री शूद्राणी : uxor Śūdra.
 
-**devī** f. = देवी : dea, praecipue Durgā f. = दुर्गा, uxor Śiva = शिव.
+**devī** f. = देवी : dea, praecipue Durgā f. = दुर्गा, uxor Śiva's = शिव.
 
 ::: media
 ![](/images/lekt0303.jpg)
@@ -199,21 +203,21 @@ Fig.: Durgā = दुर्गा, Orissa
 
 **gurvī** f. = गुर्वी : fem. ad guru.
 
-**asmitā** f. = अस्मिता : "egoitas", scilicet (falsus) credulitas: **Ego** sum qui videt etc.
+**asmitā** f. = अस्मिता : "egoitas", id est (falsus) credulitas: **Ego** sum qui videt etc.
 
-**ānvīkṣikī** f. = आन्वीक्षिकी : philosophia (scientia quae per rationes logice correctas ad conclusiones suas pervenit).
+**ānvīkṣikī** f. = आन्वीक्षिकी : philosophia (scientia quae per rationes logice correctas ad suas conclusiones pervenit).
 
 **upekṣā** f. = उपेक्षा : neglectus, aequanimitas.
 
 **karuṇā** f. = करुणा : compassio, misericordia.
 
-**muditā** f. = मुदिता : gaudium, praecipue gaudium communis (contrarium invidiae).
+**muditā** f. = मुदिता : gaudium, praecipue gaudium cum aliis (contrarium invidia).
 
 ---
 
 ## 3.7. Exercitatio
 
-**A) Ponite has sententias in plurali:**
+**A) Sententias sequentes in pluralia vertite:**
 
 1. dvijo brāhmaṇaḥ = द्विजो ब्राह्मणः
 2. dvijaḥ kṣatriyaḥ = द्विजः क्षत्रियः
@@ -226,7 +230,7 @@ Fig.: Durgā = दुर्गा, Orissa
 9. paśur dhenuḥ = पशुर्धेनुः
 10. gurvī sādhvī = गुर्वी साध्वी
 
-**B) Formate sententias nominales per insertionem:**
+**B) Nominales enuntiates per insertionem formate:**
 
 1. śrutis ... (veda) = श्रुतिस् ... वेद
 2. paśus ... (dhenu) = पशुस् ... धेनु
@@ -234,18 +238,18 @@ Fig.: Durgā = दुर्गा, Orissa
 4. devatā ... (mīnākṣī, annapūrṇā) = देवता ... मीनाक्षी, अन्नपूर्णा
 5. śūdrā ... (itarā) = शूद्रा ... इतरा
 
-**C) Transponite in femininum:**
+**C) In femininum vertite:**
 
 1. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
 2. sādhur guruḥ = साधुर्गुरुः
 3. kṣatriyaḥ sādhuḥ = क्षत्रियः साधुः
 
-**D) Transponite in Sanscritum:**
+**D) In Sanscritum vertite:**
 
-1. Umā est dea.
-2. Veda est śruti.
-3. Magistrae sunt deae.
-4. Vaccae lactiferae sunt animalia domestica.
-5. Poetae sunt magistri.
-6. Kṣatriyas sunt bis nati.
-7. Viri sancti sunt Śūdras.
+1. Umā dea est.
+2. Veda śruti est.
+3. Magistrae deae sunt.
+4. Vaccae lactiferae animalia domestica sunt.
+5. Poetae magistri sunt.
+6. Kṣatriyas bis nati sunt.
+7. Viri sancti Śūdras sunt.

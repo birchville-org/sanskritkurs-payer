@@ -1,6 +1,10 @@
 ---
+title: Lectio 10
+subtitle: "De sententia passiva (Instrumentalis agentis)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
+category: "Grammatica"
+status: stable
 ---
 
 # Lectio 10
@@ -9,7 +13,7 @@ last_reconstructed: 2026-05-07
 **In hac lectione discitis:**
 - Sententiam passivam (Instrumentalis agentis)
 - Declinationem Instrumentalis (tṛtīyā)
-- Legem cerebrale pro -n- (Wortsandhi)
+- Legem cerebrale pro -n- (Sandhi verbi)
 - Formationem passivi (yak) in Indicativo Praesenti
 - Vocabularium de sacrificio, veritate et officiis socialibus
 :::
@@ -18,22 +22,22 @@ last_reconstructed: 2026-05-07
 
 ::: grammar-box
 **Schema:**
-**(Agens - kartṛ - in Instrumentali (tṛtīyā)) - (Objectum directum - karman - in Nominativo) - forma verbalis passiva**
+**(Agens - kartṛ - in Instrumentali (tṛtīyā)) - (objectum directum - karman - in Nominativo) - forma verbalis passiva**
 
-e.g. **brāhmaṇena deva ijyate** = ब्राह्मणेन देव इज्यते = "Brahmana deum sacrificium offert" (literale: "Deus a Brahmana sacrificio offertur.")
+exemplum: **brāhmaṇena deva ijyate** = ब्राह्मणेन देव इज्यते = "Brahmana deum sacrificium offert" (literale: "Deus a Brahmana sacrificio offertur.")
 
-Haec sententia est **omnino (!) aeque significans** cum sententia:
+Haec sententia est **plane (!) significatio aequalis** cum sententia:
 **brāhmaṇo devaṃ yajati / yajate** = ब्राह्मणो देवं यजति / यजते
 :::
 
 ::: grammar-box
-- In sententiis passivis Agens (**kartṛ**) stat in **Instrumentali** (tṛtīyā f. "casus tertius"), Objectum directum (**karman** n.) in **Nominativo** (prathamā f.).
-- Sententiae passivae, in quibus Agens non designatur, saepe habent significationem impersonalem ("homines"):
-  e.g. **ijyate** = इज्यते "Homines sacrificant" (literale: "sacrificio offertur.")
+- In sententia passiva, Agens (**kartṛ**) est in **Instrumentali** (tṛtīyā f. "casus tertius"), objectum directum (**karman** n.) in **Nominativo** (prathamā f.).
+- Sententiae passivae, in quibus Agens non nominatur, saepe significatio impersonalis habent ("homines"):
+  exemplum: **ijyate** = इज्यते "Homines sacrificant" (literale: "cum sacrificio offertur").
 :::
 
 ::: grammar-box
-**Quamvis sententia activa correspondens Accusativum (dvitīyā) finalis contineret, hic in sententiis passivis in Nominativum (prathamā) poni potest:**
+**Quamvis sententia activa correspondens accusativum (dvitīyā) termini haberet, iste in sententia passiva in Nominativum (prathamā) poni potest:**
 
 Sententiae activae **rāmo grāmaṃ gacchati** = रामो ग्रामं गच्छति = "Rāma ad villam vadit." correspondent sententiae passivae:
 - **rāmeṇa grāmaṃ gamyate** = रामेण ग्रामं गम्यते
@@ -42,22 +46,22 @@ Sententiae activae **rāmo grāmaṃ gacchati** = रामो ग्राम�
 
 ::: grammar-box
 **Verba intransitiva (verba sine objecto directo) saepe habent constructiones passivas, praesertim in precibus civilibus:**
-- **praviśyatām** = प्रविश्यताम् = "Homines introire velint = Rogo ut intres = Intro!"
-- **niṣadyatām** = निषद्यताम् = "Homines sedere velint = Rogo ut sedas = Rogo ut locum capias"
+- **praviśyatām** = प्रविश्यताम् = "Homines introire debeant = Rogo, intrate = Intro!"
+- **niṣadyatām** = निषद्यताम् = "Homines sedere debeant = Rogo, sedate = Rogo, locum capite"
 :::
 
-Constructiones passivae Sanscriticae valde frequentes sunt: passivum enim facilius formari potest quam plurimi radix praesentis.
+Constructiones passivae Sanscriticae valde frequentes sunt: passivum enim facilius formatur quam, exempli gratia, multi radices praesentis.
 
 ::: important
-**Sententiae passivae Sanscriticae in Germanice in genere non per sententiam passivam reddi debent, quia passivum Germanicum omnino aliam functionem stilisticam habet.**
+**Sententiae passivae Sanscriticae in Germanice, in genere, per sententiam passivam non reddi debent, quia passivum Germanicum omnino aliam functionem stilisticam habet.**
 :::
 
 ---
 
-## 10.2. Instrumentalis (tṛtīyā f. = तृतीया = "terminatio casus tertii")
+## 10.2. Instrumentalis (tṛtīyā f. = तृतीया = "casus tertius")
 
 ::: grammar-box
-**Terminationes regulares Instrumentalis (tṛtīyā):**
+**Desinenses regulares Instrumentalis (tṛtīyā):**
 - **Singular: -ā**
 - **Plural: -bhis**
 
@@ -112,33 +116,33 @@ Praeter Nominativum et Accusativum, formae Neutrorum in -a, pronominis interroga
 ### 10.2.1. De usu Instrumentalis (tṛtīyā = तृतीया)
 
 ::: grammar-box
-**Instrumentalis (tṛtīyā) praecipue ad quaestiones respondet:**
+**Instrumentalis (tṛtīyā) respondet praecipue ad quaestiones:**
 - **Quo?**
-- **Quomodo?**
+- **Quo instrumento?**
 - **Cum quo?**
 
-**Ei locus est**
-1. **in propositionibus passivis: Agens (kartṛ) in Instrumentali**
-2. **ad indicium medii vel instrumenti, quo aliquid perficitur**
-3. **ad indicium viae, qua quis quo pervenit**
+**Adhibetur**
+1. **in sententiis passivis: Agens (kartṛ) in Instrumentali**
+2. **ad indicendum medium vel instrumentum, quo aliquid perficitur**
+3. **ad indicandam viam, qua quis ad locum aliquem pervenit**
 4. **ad exprimendam coniunctionem, unionem, societatem cum**
-5. **apud postpositiones, quae valent "simul cum, cum"; e.g. saha = सह = "cum"**[[br]]e.g.[[br]]**brāhmaṇena saha** = ब्राह्मणेन सह = "simul cum Brahmano"
+5. **apud postpositiones, significans "simul cum, cum"; exempli gratia: saha = सह = "cum"**[[br]]exempli gratia[[br]]**brāhmaṇena saha** = ब्राह्मणेन सह = "simul cum Brahmano"
 :::
 
-Aliae usi Instrumentalis (tṛtīyā) sequentur.
+Aliae usiones Instrumentalis (tṛtīyā) sequentur.
 
 ---
 
-## 10.3. Lex Cerebralisatiois nominata pro -n- (sandhi vocis)
+## 10.3. Lex Cerebralisatio nominata pro -n- (sandhi vocis)
 
 ::: grammar-box
-**-n-**, quod vocalem aut **n, m, y, v** sequitur, per **-ṇ-** mutatur, si **ṛ, ṝ, r, ṣ** in voce **-n-** praecedunt aut nullus alius sonus praeter vocales, gutturales, labiales, **y, v, h** vel anusvāra inter eos sonos et sequens **-n-** in voce stat.
+**-n-**, quod sequitur vocalis aut **n, m, y, v**, per **-ṇ-** mutatur, si **ṛ, ṝ, r, ṣ** in voce **-n-** praecedant, aut nullus alius sonus praeter vocales, gutturales, labiales, **y, v, h** aut anusvāra inter eos sonos et sequens **-n-** in voce stat.
 :::
 
-**Ideo:**
+**Ergo:**
 
 ::: grammar-box
-| | Casus Instrumentalis Singularis |
+| | Instrumentalis Singularis |
 | :--- | :--- |
 | **guru**[[br]]गुरु | **guruṇā**[[br]]गुरुणा |
 | **śūdra**[[br]]शूद्र | **śūdreṇa**[[br]]शूद्रेण |
@@ -147,7 +151,7 @@ Aliae usi Instrumentalis (tṛtīyā) sequentur.
 | **naraka**[[br]]नरक | **narakeṇa**[[br]]नरकेण |
 :::
 
-**Ita quoque -ṇ- explicandum est in:**
+**Ita quoque -ṇ- explicatur in:**
 
 ::: indent
 **śravaṇa** श्रवण
@@ -165,52 +169,52 @@ Aliae usi Instrumentalis (tṛtīyā) sequentur.
 ## 10.4. Passivum, Indicativus Praesens (yak = यक्)
 
 ::: grammar-box
-**Constructio:**
-**(plerumque) radix gradus imus + -ya- + desinentia Ātmanepadica**
+**Constitutio:**
+**(plerumque) radix gradus imus + -ya- + desinens Ātmanepada**
 :::
 
 e.g.
 
-| Radix[[br]]धातु | 3. sg. Pass. Praes. Indic.[[br]]यक् लट् | 3. pl. Pass. Praes. Indic.[[br]]यक् लट् |
+| Radix[[br]]धातु | 3. sg. Pass. Praes. Ind.[[br]]यक् लट् | 3. pl. Pass. Praes. Ind.[[br]]यक् लट् |
 | :--- | :--- | :--- |
 | **nī**[[br]]1 U[[br]](nayati) | **nīyate**[[br]](नीयते)[[br]]"ducitur" | **nīyante**[[br]](नीयन्ते) |
 | **man**[[br]]4 Ā[[br]](manyate) | **manyate**[[br]](मन्यते)[[br]]"cogitatur" | **manyante**[[br]](मन्यन्ते) |
 | **viś**[[br]]6 P[[br]](viśati) | **viśyate**[[br]](विश्यते)[[br]]"intratur" | **viśyante**[[br]](विश्यन्ते) |
 
-**Nota: In verbis classis quarta praesentis, formae Ātmanepadicae et Passivae identicae sunt! Utrum Ātmanepada an Passivum praesens sit, in hac tantum constructione orationis coniectura colligi potest.**
+**Nota: In verborum quarta classe praesentis, formae Ātmanepadicae et passivae identicae sunt. Utrum Ātmanepada an passivum praesens sit, ex constructione orationis tantum colligi potest.**
 
 ---
 
-### 10.4.1. Regulae speciales ad formandum Passivum
+### 10.4.1. Regulae speciales de formatione Passivi
 
-1. **Radices in -i vel -u** vocalem suam ante suffixum passivum **-ya-** productam reddunt:
+1. **Radices in -i vel -u** productum vocalem ante suffixum Passivi **-ya-** habent:
    * **ji** 1 P: **jīyate**, **jīyante**[[br]]जीयते, जीयन्ते
    * **śru** 5 P: **śrūyate**, **śrūyante**[[br]]श्रूयते, श्रूयन्ते
    * **su** 5 U: **sūyate**, **sūyante**[[br]]सूयते, सूयन्ते
 
-2. **Radices cum -a- inter consonantes** (praeter nasales, y, r, v) gradum altum servant:
+2. **Radices cum -a- inter consonantes** (praeter nasales, y, r, v) manent gradu alto:
    * **labh** 1 Ā: **labhyate**, **labhyante**[[br]]लभ्यते, लभ्यन्ते
 
-3. **Quaedam radices suum Passivum gradum altum formant** (vel in gradu ablautis radicalis praesentis):
+3. **Nonnullae radices suum Passivum gradu alto formant** (vel gradu ablautis in stemmate praesentis):
    * **āp** 5 P: **āpyate**, **āpyante**[[br]]आप्यते, आप्यन्ते
    * **khād** 1 P: **khādyate**, **khādyante**[[br]]खाद्यते, खाद्यन्ते
    * **smṛ** 1 P: **smaryate**, **smaryante**[[br]]स्मर्यते, स्मर्यन्ते
 
-4. **Gradus profundus verborum, quae initio habent ya, va, ra, vel quibus hi soni post aliam consonantem stant (Samprasāraṇa = सम्प्रसारण):**
+4. **Grado basso verborum, quae per ya, va, ra incipiunt, vel quibus hi soni post aliam consonantem stant (Samprasāraṇa = सम्प्रसारण):**
 
-   | Radix[[br]]धातु | Gradus profundus[[br]]सम्प्रसारण | Passivum[[br]]यक् |
+   | Radix[[br]]धातु | Gradus Bassus[[br]]सम्प्रसारण | Passivum[[br]]यक् |
    | :--- | :--- | :--- |
    | **yaj** 1 U[[br]]यज् | \*yj &raquo; ij | **ijyate**[[br]]इज्यते[[br]]**ijyante**[[br]]इज्यन्ते |
    | **vad** 1 P[[br]]वद् | \*vd &raquo; ud | **udyate**[[br]]उद्यते[[br]]**udyante**[[br]]उद्यन्ते |
    | **prach** 6 P[[br]]प्रच्छ् | \*prcch &raquo; pṛcch | **pṛcchyate**[[br]]पृच्छ्यते[[br]]**pṛcchyante**[[br]]पृच्छ्यन्ते |
 
-   Nomen traditionale indigenum ad hanc formationem gradus profundi apud verba cum **ya** vel **va** est **Samprasāraṇa** (नपुंसकम् = सम्प्रसारण).
+   Nomen traditionale indigenum pro hac formatione gradus bassi apud verba cum **ya** vel **va** est **Samprasāraṇa** (नपुंसकम् = सम्प्रसारण).
 
-5. **-ṛ** finalis post unam tantum consonantem ante suffixum passivum **-ya-** per **-ri-** mutatur:
+5. **-ṛ** terminale post unam consonantem solam ante suffixum Passivi **-ya-** per **-ri-** mutatur:
    * **kṛ** 8 U: **kriyate**, **kriyante**[[br]]क्रियते, क्रियन्ते
-   * At: **smṛ** 1 P: **smaryate**[[br]]स्मर्यते
+   * Sed: **smṛ** 1 P: **smaryate**[[br]]स्मर्यते
 
-6. **Quaedam radices in -an alternative duas formationes radicalis passivi habent:**
+6. **Nonnullae radices in -an alternative duas formationes stemmatum Passivi habent:**
    * una **-an-ya**
    * una **-ā-ya-** (longum **ā** est vicarius pro nasali longa hypothetica)
 
@@ -222,20 +226,20 @@ e.g.
 
 ## 10.5. Lexicon verborum
 
-**Verba sequentia discite:**
+**Haec verba discere:**
 
 - **gṛha** n. गृह : domus
 - **grāma** m. ग्राम : vicus
-- **nagara** n. नगर : urbs
+- **nagara** n. नगर : civitas
 
   ::: note-box
-  De vita urbana et rustica vide Basham, *Wonder*, cap. 6.
+  De vita urbana et rustica vide Basham, *Mirabilia*, cap. 6.
   :::
 
 - **yajña** m. यज्ञ : sacrificium
 
   ::: note-box
-  Sacrificium in India praecipue est veneratio deitatis ut hospitis. Per hoc se deitatem obligat.
+  Sacrificium in India praecipue est cultus deitatis ut hospitis. Hinc se obligat deitati.
   
   Derivatio: **yaj** 1 U + suffixum kṛt **-na-**.
   :::
@@ -243,16 +247,16 @@ e.g.
 - **puṇya** n. पुण्य : opus bonum, meritum
 
   ::: note-box
-  Per quod felicitatem et bonas reincarnationes meretur.
+  Quo felicitatem et bonas reversiones meretur.
   :::
 
 - **pāpa** n. पाप : scelus, malum (contrarium **puṇya**)
 - **satya** n. सत्य : veritas
 
 ::: note-box
-In India verbo vero vis magic tribuebatur, imo tota ordo mundi per verbum verum conservatur et creatur. De hac imagine fundamentalis vide opus fundamentale:
+In India verbum verum vim magicam habere putabatur, immo tota ordo mundi per verbum verum conservatur et creatur. De hac imagine momenti vide fundamentale opus:
 
-Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Ex testamento ed. a Ludovico Alsdorf. - Gottingae : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna et Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
+Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Ex testamento ed. a Ludovico Alsdorf. - Gottingae : Vandenhoeck &amp; Ruprecht. -- Vol. 2: Varuna et Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::
 
 ::: media
@@ -267,13 +271,13 @@ Fig.: वरुणः
   ::: note-box
   Derivatio **an-** ("in-") + **ṛta** n.
   
-  **ṛta** est conceptus centralis in Veda, cuius interpretatio controversa est: "veritas" (Lüders, Thieme), "ordo" (Renou).
+  **ṛta** est terminus centralis in Veda, cuius interpretatio controversa est: "veritas" (Lüders, Thieme), "ordo" (Renou).
   :::
 
-- **ṛṣi** m. ऋषि : sapiens veda, auctor carminum veda
+- **ṛṣi** m. ऋषि : sapiens vedicus, auctor carminum vedorum
 
   ::: note-box
-  Nomina horum **ṛṣi**s in Brāhmaṇis ac in catalogis propriis ad Vedas nominantur. Omnes Brahmanae originem suam ab his **ṛṣi**s deducunt, quorum **gotra** (गोत्र) nominantur. De conceptu **gotra** vide Basham, *Wonder*, cap. 5.
+  Nomina horum **ṛṣi**s in Brāhmaṇis atque in catalogis propriis ad Vedas nominantur. Omnes Brahmanae originem suam ab his **ṛṣi**s deducunt, quorum **gotra** (गोत्र) nominantur. De termino **gotra** vide Basham, *Mirabilia*, cap. 5.
   :::
 
 ::: media
@@ -291,7 +295,7 @@ Fig.: विश्वामित्रः
 
 ## 10.6. Exercitatio
 
-**A) Formate vocem passivam ad sequentes formas verborum (cum translatione formae verbalis):**
+**A) Formam passivam formarum verborum sequentium formate (cum translatione formae verbalis):**
 
 1. **sṛjati** (सृजति)
 2. **yudhyate** (युध्यते)
@@ -316,9 +320,9 @@ Fig.: विश्वामित्रः
 21. **pṛcchanti** (पृच्छन्ति)
 22. **tanvanti** (तन्वन्ति) (2 formae!)
 
-**B) Formate instrumentalem singularem et pluralem ad omnes nominum formas hactenus didictas.**
+**B) Casum instrumentalem singularem et pluralium omnium nominum hactenus discitorum formate.**
 
-**C) Convertite sequentes sententias in vocem passivam et traducite eas:**
+**C) Sententias sequentes in passivum vertite et eas traducite:**
 1. **brāhmaṇo devīm yajati.** (ब्राह्मणो देवीं यजति)
 2. **sādhuḥ svargaṃ gacchati.** (साधुः स्वर्गं गच्छति)
 3. **śūdraṃ jayati.** (शूद्रं जयति)
@@ -336,11 +340,11 @@ Fig.: विश्वामित्रः
 15. **paśūllabhate.** (पशूल्लभते)
 16. **ke yodhāḥ kṣatriyaiḥ saha yudhyante.** (के योधाः क्षत्रियैः सह युध्यन्ते)
 
-**D) Traducite in Sanscritum:**
-1. Brahmana cum Vaiśya ad villam vadit.
-2. Eum Viṣṇum sacrificio colit. (Verbum **yajña** exprimendum!)
+**D) In Sanscritum vertite:**
+1. Brahmanus cum Vaiśya in vicum vadit.
+2. Eum Viṣṇum sacrificio colit. (Sacrificium **yajña** exprimere!)
 3. Veda śruti appellatur. (**vad**)
-4. Tela subtexitur. (2 possibilitates)
+4. Filum telae intenditur. (2 possibilitates)
 
 ::: media
 ![](/images/lekt1004.jpg)
@@ -353,29 +357,29 @@ Fig.: तन्तुवायः
 6. Oculus ducit. (Constructio passiva)
 7. Poeta deam videt. (Constructio passiva)
 8. Quis (fem.) puellam custodit? (Constructio passiva)
-9. Kṣatriya Dominum sacrificio colit. (Constructio passiva, sine verbo **yajña** adhibito)
-10. Liberalitate sequax Buddhae caelum assequitur.
+9. Kṣatriya Dominum sacrificio colit. (Constructio passiva, sine verbo **yajña** utendo)
+10. Liberalitate sequax Buddhas paradisum assequitur.
 
 ---
 
 ## 10.7. Lexicon 2
 
 - **makṣikā** f. मक्षिका : fly, bee
-- **vraṇa** m. व्रण : wound, fault, damage
+- **vraṇa** m. व्रण : wound, error, damage
 - **dhana** n. धन : reward, money, wealth, possession
 - **iṣ** 6 P (icchati) इष् इच्छति : to wish
 - **pārthiva** m. पार्थिव : king
 - **nīca** 3 नीच : low, deep
-- **kalaha** m. कलह : strife, quarrel
-- **śānti** f. शान्ति : cessation, peace, quiet
-- **śam** 4 P (śāmyati !) शम् शाम्यति : to be quiet, to become quiet
-- **nara** m. नर : man, human
+- **kalaha** m. कलह : dispute, quarrel
+- **śānti** f. शान्ति : cessation, peace, tranquility
+- **śam** 4 P (śāmyati !) शम् शाम्यति : to be calm, to become calm
+- **nara** m. नर : man, human being
 - **lubh** 4 P (lubhyati) लुभ् लुभ्यति : to desire
-- **sūkta** 3 सूक्त : well spoken, beautifully spoken; n. song
+- **sūkta** 3 सूक्त : well said, beautifully spoken; n. song
 - **śiṣya** m. शिष्य : student
 - **atra** अत्र : here
 - **tatra** तत्र : there
-- **bhānu** m. भानु : radiance, sun
+- **bhānu** m. भानु : brilliance, sun
 - **vand** 1 Ā (vandate) वन्द् वन्दते : to greet, to honor
 - **vṛṣ** 1 P (varṣati) वृष् वर्षति : to rain
 - **nṛpa** m. नृप : king, prince
@@ -387,9 +391,9 @@ Fig.: तन्तुवायः
 
 ---
 
-## 10.8. Exercitium lectionis et versionis
+## 10.8. Exercitium lectionis et translationis
 
-**Legite et vertite, atque in passivum convertite:**
+**Legite et traducite, atque in passivum convertite:**
 
 **क**
 

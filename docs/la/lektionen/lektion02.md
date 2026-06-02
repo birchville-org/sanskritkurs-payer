@@ -1,33 +1,35 @@
+```yaml
 ---
 title: Lectio 2
 subtitle: "De sententia nominali et fundamentis declinationis"
 lesson_id: 2
 category: "Grammatica"
-status: "stabilis"
+status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
 # Lectio 2
+```
 
 ## 2.1. De sententia nominali
 
 ::: grammar-box
-**Schema: Nomen praedicativum - Subiectum**
+**Schema: Nomen predicativum - Subiectum**
 
-e.g. deus viṣṇuḥ = देवो विष्णुः = "Viṣṇu deus est."
+ex. devo viṣṇuḥ = देवो विष्णुः = "Viṣṇu deus est."
 :::
 
-Verbum copulativum ("est", "sunt", "sum", "es", "estis") non necessarium est, sed interdum occurrit.
+Copula verbalis ("est", "sunt", "sum", "es", "estis") non necessaria est, sed interdum occurrere potest.
 
-**Articuli** desunt: **devaḥ** -- देवः significare potest "deus" vel "quidam deus".
+**Articuli non sunt**: **devaḥ** -- देवः significare potest "deus" vel "quidam deus".
 
-Quamvis in Sanscritico ordo verborum sit valde liber (praesertim in versibus), in translatione sententiae nominalis semel primum ad schemata standardia supradicta respicere debemus.
+Quamvis in Sanscritico oratio sententiae satis libera sit (praesertim in versibus), in translatione sententiae nominalis semel primum ad translationem secundum schema supra statutum attendere debemus.
 
-In sententia nominali subiectum in casu nominativo (primus casus = **prathamā** f. = प्रथमा) ponitur. Nomen praedicativum cum subiecto numero et casu concordat; si nomen praedicativum adiectivum est, etiam genere.
+In sententia nominali subiectum in casu nominativo (primus casus = **prathamā** f. = प्रथमा) ponitur. Nomen predicativum cum subiecto numero et casu concordat; si nomen predicativum adiectivum est, etiam genere.
 
 ---
 
-## 2.2. De declinatione (flexione nominum)
+## 2.2. De declinatione (flexio nominum)
 
 In Sanscrito sunt:
 
@@ -36,38 +38,38 @@ In Sanscrito sunt:
   - Dualis (numerus duo) = **dvivacana** n. -- द्विवचन
   - Pluralis (numerus multi) = **bahuvacana** n. -- बहुवचन
 - **tria genera** (genera grammatica) = **liṅga** n. / **vyakti** f. -- लिङ्ग / व्यक्ति
-  - Masculinum (genus masculinum) = **puṃs** m. -- पुंस्
-  - Femininum (genus femininum) = **strī** f. -- स्त्री
-  - Neutrum (genus neutrum) = **napuṃsaka** n. -- नपुंसक
-- **octo casus** (casus) = **sup** -- सुप् (= terminationes casuum)
+  - Masculinum (masculinum) = **puṃs** m. -- पुंस्
+  - Femininum (femininum) = **strī** f. -- स्त्री
+  - Neutrum (neutrum) = **napuṃsaka** n. -- नपुंसक
+- **octo casus** (casus) = **sup** -- सुप् (= terminations casuum)
 
-Ad declinationem adponuntur terminationes casuum (**sup** = सुप्) ad dictum **radicem nominis** (forma nominis sine terminationibus casuum).
+Ad declinationem adiciuntur terminations casuum (**sup** = सुप्) ad dictum **radicem nominalem** (forma nominis sine terminationibus casuum).
 
-Exemplum: **devas** = देवस् (Nominativus singularis masculinum) "deus" = **deva-** -- देव- (radix nominis) + **-s** -- -स् (terminatio casus).
+Exemplum: **devas** = देवस् (Nominativus singularis masculinum) "deus/qui deus est" = **deva-** -- देव- (radix nominalis) + **-s** -- -स् (terminatio casus).
 
-In lexiconibus Sanscriticis nomina in **radice nominis** ponuntur:
+In lexiconibus Sanscriticis nomina in **radice nominali** proponuntur:
 - **deva** m. -- देव m. (masculinum)
 - **vacana** n. -- वचन n. (neutrum)
 - **vyakti** f. -- व्यक्ति f. (femininum)
 
 ---
 
-## 2.3. Casus Nominativus Singularis
+## 2.3. Nominativus singularis
 
-**Casus Nominativus Singularis = prathamā ekavacanam = प्रथमा एकवचनम्**
+**Nominativus singularis = prathamā ekavacanam = प्रथमा एकवचनम्**
 
 ::: grammar-box
-**Casus Nominativus Singularis terminatur in -s = -स् vel est sine desinentia.**
+**Nominativus singularis terminat in -s = -स् vel est sine desinentia.**
 :::
 
 ### 2.3.1. Nominativus singularis in -s
 
-Radices nominalium, quae vocali terminantur, formant Nominativum singularem in **-s**:
+Nomina, quae vocali terminantur, Nominativum singularem in **-s** formant:
 
 ::: grammar-box
-**Masculina in -a:** e.g. deva m. = देव "deus" -- Nom. sg.: devas = देवस्
-**Masculina in -i:** e.g. kavi m. = कवि "poeta" -- Nom. sg.: kavis = कविस्
-**Masculina in -u:** e.g. guru m. = गुरु "magister" -- Nom. sg.: gurus = गुरुस्
+**Masculina in -a:** exempli gratia deva m. = देव "deus" -- Nom. sg.: devas = देवस्
+**Masculina in -i:** exempli gratia kavi m. = कवि "poeta" -- Nom. sg.: kavis = कविस्
+**Masculina in -u:** exempli gratia guru m. = गुरु "magister" -- Nom. sg.: gurus = गुरुस्
 :::
 
 ---
@@ -78,18 +80,18 @@ Finis verbi regitur in Sanscrito etiam secundum initium verbi sequentis. Haec ph
 
 ### 2.4.1. Sandhi vocis finalis -s
 
-Vide etiam tabulam:
+Vide etiam summam:
 
 > **Payer, Alois \&lt;1944 - \&gt;:** Sandhi vocis finalis -s. -- (Materialia ad Sanscritum). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Vox finalis **-s**:
 
-- **in fine absoluto** (fine sententiae) fit **Visarga (-ḥ)**:
+- **in absoluta fine** (fine sententiae) fit **Visarga (-ḥ)**:
   - **devas** = देवस् » **devaḥ** = देवः
   - **kavis** = कविस् » **kaviḥ** = कविः
   - **gurus** = गुरुस् » **guruḥ** = गुरुः
 
-- **ante sonos surdos**:
+- **ante sonos mutos**:
   - ante **k, kh, p, ph** et **ś, ṣ, s**: fit **Visarga (-ḥ)**
     - **devas + śivaḥ** » **devaḥ śivaḥ** = देवः शिवः ("Śiva est deus")
   - ante **c, ch**: fit **-ś**
@@ -100,10 +102,10 @@ Vox finalis **-s**:
 - **ante sonos sonoros**:
   - post vocales non-a: fit **-r**
     - **kavis + Māghas** » **kavir māghaḥ** = कविर्माघः ("Māgha est poeta")
-  - post vocales non-a ante **r-**: **-s** cadit, vocalis producitur.
+  - post vocales non-a ante **r-**: **-s** excidit, vocalis producitur.
     - **gurus + rāmas** » **gurū rāmaḥ** = गुरू रामः ("Rāma est magister")
   - post **a-**: **-as**
-    - ante consonantes sonoras/a: fit **-o** (initialis a cadit » ऽ)
+    - ante consonantes sonoras/a: fit **-o** (initialis a excidit » ऽ)
       - **devas viṣṇus** » **devo viṣṇuḥ** = देवो विष्णुः
       - **devas agnis** » **devo 'gniḥ** = देवो ऽग्निः
     - ante alias vocales: fit **-a** (hiatus)
@@ -113,17 +115,17 @@ Vox finalis **-s**:
 
 ## 2.5. Lexicon verborum
 
-**deva** m. -- देव : Divinus, deus; princeps, rex.
+**deva** m. -- देव : Caelestis, deus; princeps, rex.
 
 **īśvara** m. -- ईश्वर : Dominus, rector, deus (monoteisticus).
 
-**brāhmaṇa** m. -- ब्राह्मण : Brahmana (ordo sacerdotum).
+**brāhmaṇa** m. -- ब्राह्मण : Brahmana (ordo sacerdotalis).
 
-**kṣatriya** m. -- क्षत्रिय : Kṣatriya (ordo nobilium et militum).
+**kṣatriya** m. -- क्षत्रिय : Kṣatriya (ordo nobilis et militaris).
 
-**vaiśya** m. -- वैश्य : Vaiśya (ordo agricolae et mercatorum).
+**vaiśya** m. -- वैश्य : Vaiśya (ordo agricolae et mercatoris).
 
-**śūdra** m. -- शूद्र : Śūdra (ordo servorum).
+**śūdra** m. -- शूद्र : Śūdra (ordo servilis).
 
 ::: tip Quattuor ordines (varna)
 Secundum theoriam classicam (e.g. Manusmṛti I, 88-91) officia distributa sunt:
@@ -133,20 +135,20 @@ Secundum theoriam classicam (e.g. Manusmṛti I, 88-91) officia distributa sunt:
   - doctrina
   - sacrificium pro se
   - sacrificium pro aliis
-  - dare
-  - accipere dona
+  - donatio
+  - acceptio donorum
 - **Kṣatriyarum**
   - populum protegere
-  - dare (donis ad Brahmanas)
+  - dona (ad Brahmanas) dare
   - pro se sacrificare
   - studium Vedarum
 - **Vaiśyarum**
   - pecorum custodia
   - agricultura
   - mercatura
-  - mutuum pecuniae
+  - mutuum pecuniarum
   - pro se sacrificare
-  - dare (donis ad Brahmanas)
+  - dona (ad Brahmanas) dare
   - pro se sacrificare
   - studium Vedarum
 - **Śūdrarum**
@@ -155,44 +157,44 @@ Secundum theoriam classicam (e.g. Manusmṛti I, 88-91) officia distributa sunt:
 
 **dvija** m. -- द्विज : "Bis natus" (initiati trium superiorum ordinum: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- वर्ण : Color, oris natus (conatus).
+**varṇa** m. -- वर्ण : Color, ordo natalis (conatus).
 
-Quattuor ordines (**varṇa** m.) saepe cum castis confunduntur. Quattuor ordines tamen -- ad differentiam castium -- nihil specificum Indicum sunt, etiam in Europa habuimus (partim usque ad Primum Bellum Mundanum) ordinem socialium graduum, ut sequens imago saeculi 15. testatur:
+Quattuor ordines (**varṇa** m.) saepe cum caste confunduntur. Quattuor ordines tamen -- in differentia a caste -- nihil specificum Indicum sunt, etiam in Europa habuimus (partim usque ad Primum Bellum Mundanum) ordinem status, ut sequens imago saeculi XV confirmat:
 
 ::: media
 ![](/images/lekt0201.jpg)
-Tabula: Representatio divisionis socialis Europae Medii Aevi (xilographia finis saeculi 15.).
+Fig.: Representatio divisionis ordinum Europae Medii Aevi (sculptura lignea finis saeculi XV).
 (Fons imaginis: [Detalia](/la/licenses#lekt0201))
 :::
 
 **Inscriptiones:**
-- **Ordo sacerdotum** (~Brāhmaṇa): Tu supplex ora = Tu precare!
-- **Ordo nobilitatis** (~Kṣatriya): Tu protege = Tu protege!
+- **Ordo sacerdotalis** (~Brāhmaṇa): Tu supplex ora = Tu precare!
+- **Ordo nobilis** (~Kṣatriya): Tu protege = Tu protege!
 - **Ordo agricolae** (~Vaiśya/Śūdra): Tuque labora = Et tu labora!
 
-Tres ordines vestes proprias gerunt. Supra eos -- qui ut voluntas divina designantur -- Christus sedet.
+Tres ordines vestes proprias portant. Super eos -- ut divina voluntas dictum est -- Christus sedet.
 
 Max Weber &lt;1864 – 1920&gt; statum definit sic:
 
 ::: note-box
 »**Status**« multitudo hominum dici debet, quae intra societatem
-a) estimationem privatum, - fortasse etiam
-b) privilegia specialia in se accipit.
+a) estimationem peculiarem status, - fortasse etiam
+b) privilegia peculiaria status exercet.
 
 Status oriri possunt
-a) primario, per vitam propriam, inter quod maxime per genus **officii** (**status vitae vel officii**),
-b) secundario, per hereditatem, per pretium validum vi **originis** (**status nati**),
-c) per **appropriationem** politicam vel hierocraticam potestatum dominorum ut privilegia (**status politici vel hierocratici**).
+a) primarie, per vitam propriam status, inter quam genus **professionis** (**status vitae vel professionis**),
+b) secundarie, per hereditarium carisma, per successum pretii ex **origine** (**status nati**),
+c) per **appropriationem** status potestatum politicorum vel hierocraticorum ut privilegia (**status politici vel hierocratici**).
 
-Progressus status nati regulariter forma est (hereditaria) appropriationis privilegiorum ad societatem vel ad singulos qualificados. Quaelibet firma appropriatio opportunitatum, maxime [de] dominis [potestatibus vel opportunitatibus] lucrandis, ad formationem status tendit. Quaelibet formatio status ad appropriationem monopolisticam potestatum dominorum et opportunitatum lucrandorum tendit.
+Progressus status nati est forma appropriationis (hereditariae) privilegiorum ad societatem vel ad singulos qualificatos. Quaelibet firma appropriatio opportunitatum, praesertim [de] dominis [potestatibus vel opportunitatibus] acquisitionis, ad formationem status tendit. Quaelibet formatio status ad appropriationem monopolisticam potestatum dominarum et opportunitatum acquisitionis tendit.
 
-Cum classibus industrialibus in solo oeconomiae mercatus orientatae crescant, oriantur et persistant ordines potissimum in solo monopolistico leurgico vel feudali vel ordinario patrimoniali necessitatum consociationum satisfactione.
+Cum classibus industrialibus in solo oeconomiae mercatus orientatae crescunt, ordines potissimum in solo monopolii liturgici, vel feudalis, vel patrimonialis ordinis, qui a consortiis petitur, oriuntur et consistunt.
 
-»**Ordinarius**« societatem significare debet, si socialis distinctio potissimum per ordines, »**classificatus**«, si per classes fit. «Ordo» a «classibus» proxima est «socialis» classis, «classis industrialis» remotissima. Ordines saepe per classes possessionum secundum suum centrum formantur.
+»**Ordinis**« societas appellari debet, cum ordinibus, »**classium**«, cum classibus, socialis distinctio fit. «Ordo» a «classibus» proxima est «socialis» classis, «classis industrialis» remotissima. Ordines saepe per classes possessionum, secundum punctum gravity, constituuntur.
 
-Quaelibet socialis ordinis societas conventionalis est, regulis vitae ordinata, ideo economicum irrationalem consumptionis conditiones creat et per hanc viam per appropriationes monopolisticas et per exclusionem liberam dispositionem de propria industriae facultate liberam mercatus formationem impedit.
+Societas quaelibet ordinum conventionalis est, regulis vitae ordinata, ideo condiciones consumptionis oeconomice irrationales creat, et per appropriationes monopolisticas et per exclusionem liberi arbitrii de facultate industria sua, formationem liberam mercatus impedit.
 
-[**Weber, Max &lt;1864 – 1920&gt;:** Oeconomia et Societas : Schema sociologiae intelligentis. – 5., emendata editio. – Tubingae : Mohr, 1976. – P. 625 seq.]
+[**Weber, Max &lt;1864 – 1920&gt;:** Oeconomia et Societas : Fundamentum sociologiae intellegendae. – 5., emendata editio. – Tubingae : Mohr, 1976. – P. 625 seq.]
 :::
 
 Varṇas igitur sunt ordines nati.
@@ -203,51 +205,51 @@ Varṇas igitur sunt ordines nati.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Fig.: Deus Agni, Miniatura, saec. XVIII.
+Fig.: Deus Agni, Miniatura, saec. 18.
 (Fons imaginis: [Detalia](/la/licenses#lekt0203))
 :::
 
 **sādhu** 3 -- साधु : recte, bene.
 
-**sādhu** m. -- साधु : "sanctus" vir, Sādhu.
+**sādhu** m. -- साधु : «sanctus» vir, Sādhu.
 
 ::: media
 ![](/images/lekt0202.jpg)
-Fig.: Sādhu (साधु), Templum Pashupatinath, Katmandu.
+Fig.: Sādhu (साधु), Templum Pashupatinath, Kathmandu.
 (Fons imaginis: [Detalia](/la/licenses#lekt0202))
 :::
 
 **guru** 3 -- गुरु : gravis, magnus, colendus
 
-**guru** m. -- गुरु : persona colenda: Pater, Mater, senior cognatus, praesertim magister, dominus
+**guru** m. -- गुरु : persona colenda: Pater, Mater, cognatus senior, praecipue magister, dominus
 
 ---
 
 ## 2.6. Exercitatio
 
-**A) Appone, Sandhi observato, et propositiones nominalis forma confice:**
+**A) Subiungite, Sandhi observato, et sententias nominaliter formate:**
 
-1. **divi ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
+1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
    = देवस् ... (शिव, अग्नि, विष्णु, गणेश, कृष्ण, इन्द्र)
-2. **dvija ... (brāhmaṇa, kṣatriya, vaiśya)**
+2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
    = द्विजस् ... (ब्राह्मण, क्षत्रिय, वैश्य)
-3. **guru ... (brāhmaṇa, Candrakīrti)**
+3. **gurus ... (brāhmaṇa, Candrakīrti)**
    = गुरुस् ... (ब्राह्मण, चन्द्रकीर्ति)
-4. **vaiśya ... (Tulādhara)**
+4. **vaiśyas ... (Tulādhara)**
    = वैश्यस् ... (तुलाधर)
-5. **sādhu ... (guru, Rāma)**
+5. **sādhus ... (guru, Rāma)**
    = साधुस् ... (गुरु, राम)
-6. **kavi ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
+6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
    = कविस् ... (कालिदास, माघ, भारवि, हर्षदेव)
 
 **B) In Sanscritum vertite:**
 
-1. Rāma est Brāhmaṇa.
+1. Rāma est Brahmana.
 2. Magister est Vaiśya.
 3. Śūdra est vir sanctus.
 4. Poeta est magister.
-5. Viṣṇus est DOMINUS.
+5. Viṣṇu est DOMINUS.
 6. DOMINUS est Śiva.
-7. Bis natus est Brāhmaṇa.
+7. Bis natus est Brahmana.
 8. Vir sanctus est magister.
 9. Magister est vir sanctus.
