@@ -151,6 +151,16 @@ def check_placeholders(files):
             errors.append((path, f'Platzhalter: {list(set(matches))[:5]}'))
     return errors
 
+def check_escaped_vue_components(files):
+    """Findet fälschlicherweise HTML-escapte Vue-Komponenten wie &lt;PayerTopicIndex /&gt;."""
+    errors = []
+    vue_re = re.compile(r'&lt;Payer[A-Za-z]+')
+    for path in files:
+        content = path.read_text(encoding='utf-8', errors='replace')
+        if vue_re.search(content):
+            errors.append((path, 'Vue-Komponente HTML-escapt (z.B. &lt;PayerTopicIndex /&gt;)'))
+    return errors
+
 def check_foreign_chars(files):
     """Findet Zeichen falscher Schriftsysteme (z.B. Chinesisch in Tamil)."""
     CJK_RE = re.compile(r'[一-鿿㐀-䶿]')
@@ -265,6 +275,16 @@ def main():
     # ── 4. Zero-HTML ─────────────────────────────────────────────────────────
     print("\n[2/6] Zero-HTML (kein rohes HTML in .md)...")
     errs = check_zero_html(files)
+    if errs:
+        for path, msg in errs:
+            print(f"  ❌ {path.relative_to(ROOT)}: {msg}")
+        total_errors += len(errs)
+    else:
+        print(f"  ✓ OK")
+
+    # ── 4b. Escapte Vue-Komponenten ──────────────────────────────────────────
+    print("\n[2b] Escapte Vue-Komponenten (&lt;Payer...&gt;)...")
+    errs = check_escaped_vue_components(files)
     if errs:
         for path, msg in errs:
             print(f"  ❌ {path.relative_to(ROOT)}: {msg}")
