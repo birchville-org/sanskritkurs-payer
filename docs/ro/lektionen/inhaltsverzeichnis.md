@@ -1,13 +1,13 @@
-# Inhaltsverzeichnis
+# Cuprins
 
-## [Lektion 1](lektion01)
+## [Lecție 1](lektion01)
 
 *   1\.1. Literatur pentru începători în studii indiene
 *   1\.2. Sunetele sanscrite
     *   1\.2.1. Despre pronunția unor sunete individuale
 *   1\.3. Exercițiu
 
-## [Lektion 2](lektion02)
+## [Lecție 2](lektion02)
 
 *   2\.1. Propoziția nominală
 *   2\.2. Despre declinare (flexiunea substantivelor)
@@ -18,7 +18,7 @@
 *   2\.5. Listă de cuvinte
 *   2\.6. Exercițiu
 
-## [Lektion 3](lektion03)
+## [Lecție 3](lektion03)
 
 *   3\.1. Nominativ singular al femininului
     *   3\.1.1. Nominativ Singular auf -s
@@ -30,7 +30,7 @@
 *   3\.6. Listă de cuvinte
 *   3\.7. Exerciiu
 
-## [Lektion 4](lektion04)
+## [Lecție 4](lektion04)
 
 *   4\.1. Întrebări simple de completare (întrebări cu cuvinte) și răspunsuri
     *   4\.1.1. Pronume interogative și pronume demonstrative
@@ -40,7 +40,7 @@
     *   4\.1.5. Formule de întrebare
 *   4\.2. Exercițiu
 
-## [Lektion 5](lektion05)
+## [Lecție 5](lektion05)
 
 *   5\.1. Compuse nominale (samāsa m. = समास)
 *   5\.2. Despre terminologia sanscrită pentru compuse
@@ -51,7 +51,7 @@
 *   5\.5. Exercițiu
 *   5\.6. Exercitiu de repetiție
 
-## [Lektion 6](lektion06)
+## [Lecție 6](lektion06)
 
 *   6\.1. Propoziția verbală
 *   6\.2. Despre formarea formelor verbale
@@ -67,7 +67,7 @@
 *   6\.8. Exercitiu
 *   6\.9. Exercitiu de repetiție
 
-## [Lektion 7](lektion07)
+## [Lecție 7](lektion07)
 
 *   Proverbul săptămânii
 *   7\.1. Propoziția verbală cu complement direct
@@ -83,7 +83,7 @@
 *   7\.6. Listă de cuvinte
 *   7\.7. Exercitiu
 
-## [Lektion 8](lektion08)
+## [Lecție 8](lektion08)
 
 *   8\.1. Despre formarea numelor substantive
 *   8\.2. Clasificarea sufixelor nominale
@@ -98,7 +98,7 @@
 *   8\.6. Exercitiu
 *   8\.7. Exercițiu de citire și traducere
 
-## [Lektion 9](lektion09)
+## [Lecție 9](lektion09)
 
 *   9\.1. Samāhāradvandva (समाहारद्वन्द्व = "Sumarizare-dvandva")
 *   9\.2. Despre formarea stemelor nominale
@@ -107,7 +107,7 @@
 *   9\.3. Listă de cuvinte
 *   9\.4. Exercitiu
 
-## [Lektion 10](lektion10)
+## [Lecție 10](lektion10)
 
 *   1\0.1. Propoziția pasivă
 *   1\0.2. Instrumentalul (tṛtīyā f. = तृतीया = "a trecea terminație de caz")
@@ -120,14 +120,14 @@
 *   1\0.7. Listă de cuvinte 2
 *   1\0.8. Exercițiu de citire și traducere
 
-## [Lektion 11](lektion11)
+## [Lecție 11](lektion11)
 
 *   1\1.1. Dublu acuzativ
 *   1\1.2. Listă de cuvinte
 *   1\1.3. Exercițiu
 *   1\1.4. Exerciții de repetiție
 
-## [Lektion 12](lektion12)
+## [Lecție 12](lektion12)
 
 *   1\2.1. Participiul Perfect Pasiv (PPP)
     *   1\2.1.1. Schema pentru verbe tranzitive
@@ -141,7 +141,7 @@
     *   1\2.5.1. Pasivul și PPP-urile rădăcinilor învățate până acum
 *   1\2.6. Exerciții
 
-## [Lektion 13](lektion13)
+## [Lecție 13](lektion13)
 
 *   1\3.1. PPP pe sufixul -na-
 *   1\3.2. Mai multe despre utilizarea PPP-ului
@@ -155,7 +155,7 @@
 *   1\3.10. Exercițiu
 *   1\3.11. Exercițiu de recapitulare
 
-## [Lektion 14](lektion14)
+## [Lecție 14](lektion14)
 
 *   1\4.1. Expresia relației dintre cele denumite prin substantive: genitivul (ṣaṣṭhī f. = षष्टी = al șaselea caz)
 *   1\4.2. Formarea genitivelor (ṣaṣṭhī f. = षष्ठी)
@@ -164,7 +164,7 @@
 *   1\4.5. Subhāṣitāni = सुभाषितानि = proverbe
 *   1\4.6. Exerciții
 
-## [Lektion 15](lektion15)
+## [Lecție 15](lektion15)
 
 *   1\5.1. सुभाषितम्
 *   1\5.2. Compuse determinative = Tatpuruṣa m. = तत्पुरुष
@@ -179,14 +179,14 @@
 *   1\5.10. Exercițiul 2
 *   1\5.11. Exercițiul 3
 
-## [Lektion 16](lektion16)
+## [Lecție 16](lektion16)
 
 *   1\6.1. Despre Sandhi consoanelor finale
 *   1\6.2. Listă de cuvinte
 *   1\6.3. Exercițiu
 *   1\6.4. Exerciții de recapitulare
 
-## [Lektion 17](lektion17)
+## [Lecție 17](lektion17)
 
 *   1\7.1. A doua clasă de prezent (अदादि = अद् etc.)
 *   1\7.2. Rădăcinile celei de-a doua clase de prezente cu alternanță de stemă: nivel înalt – nivel scăzut
@@ -197,7 +197,7 @@
 *   1\7.7. Exercițiul 1
 *   1\7.8. Exercițiul 2
 
-## [Lektion 18](lektion18)
+## [Lecție 18](lektion18)
 
 *   1\8.1. सुभाषितम्
 *   1\8.2. Compuse determinative (तत्पुरुष) cu element anterior adverbial
@@ -209,7 +209,7 @@
 *   1\8.5. Exercițiu
 *   1\8.6. Rețetă de repetiție
 
-## [Lektion 19](lektion19)
+## [Lecție 19](lektion19)
 
 *   1\9.1. Propoziția relativă
 *   1\9.2. Pronumele relativ = व्यपेक्षकसर्वनाम n.
@@ -217,7 +217,7 @@
 *   1\9.4. Exerciții
 *   1\9.5. सुभाषितानि
 
-## [Lektion 20](lektion20)
+## [Lecție 20](lektion20)
 
 *   2\0.1. Compuse posesive = बहुव्रीहि m.
 *   2\0.2. Bahuvrīhi cu un component anterior atributiv
@@ -232,7 +232,7 @@
 *   2\0.11. Exercițiul 2
 *   2\0.12. Exercițiu de traducere
 
-## [Lektion 21](lektion21)
+## [Lecție 21](lektion21)
 
 *   2\1.1. Alte teme de prezent în -nt
     *   2\1.1.1. Participul prezent (लडादेशः) Parasmaipada
@@ -242,7 +242,7 @@
 *   2\1.4. Listă de cuvinte
 *   2\1.5. Exerciții
 
-## [Lektion 22](lektion22)
+## [Lecție 22](lektion22)
 
 *   2\2.1. Ablativul absolut (क्त्वा । ल्यप्)
 *   2\2.2. Formarea ablativului
@@ -251,7 +251,7 @@
 *   2\2.3. Listă de cuvinte
 *   2\2.4. Exercițiu
 
-## [Lektion 23](lektion23)
+## [Lecție 23](lektion23)
 
 *   2\3.1. Infinitivul (तुमुन्)
 *   2\3.2. Formarea infinitivului (तुमुन्)
@@ -260,7 +260,7 @@
 *   2\3.5. Exercițiu
 *   2\3.6. Exercițiu de recapitulare
 
-## [Lektion 24](lektion24)
+## [Lecție 24](lektion24)
 
 *   2\4.1. Dativul (चतुर्थी = "a patra declinație")
 *   2\4.2. Formarea dativului (चतुर्थी)
@@ -273,7 +273,7 @@
 *   2\4.5. Exercițiu
 *   2\4.6. Alte exerciții privind folosirea dativului
 
-## [Lektion 25](lektion25)
+## [Lecție 25](lektion25)
 
 *   2\5.1. Formarea ablativului (पञ्चमी = "cinciua terminație cazială")
 *   2\5.2. Utilizarea ablativului (पञ्चमी)
@@ -284,7 +284,7 @@
 *   2\5.7. सुभाषितानि
 *   2\5.8. Exercițiu de traducere
 
-## [Lektion 26](lektion26)
+## [Lecție 26](lektion26)
 
 *   2\6.1. Lege de cerebralizare pentru -s- în interiorul cuvântului
 *   2\6.2. Lege de cerebralizare pentru dentale în interiorul cuvântului
@@ -295,7 +295,7 @@
 *   2\6.7. Formarea viitorului simplu (ऌत्, भविष्यन्ती  f.)
 *   2\6.8. Exercițiu
 
-## [Lektion 27](lektion27)
+## [Lecție 27](lektion27)
 
 *   2\7.1. Utilizarea cazului locativ (सप्तमी f. = "a șaptea terminație de caz")
 *   2\7.2. Formarea locativului (सप्तमी)
@@ -322,7 +322,7 @@
     *   2\7.7.13. Pronume relativ: यद्
     *   2\7.7.14. Pronume interogative: किम्
 
-## [Lektion 28](lektion28)
+## [Lecție 28](lektion28)
 
 *   2\8.1. Cauzalul (णि, णिच्, कारित)
 *   2\8.2. Construcția propoziției cu causativul (णि, णिच्, कारित)
@@ -336,14 +336,14 @@
 *   2\8.10. Listă de cuvinte
 *   2\8.11. Exercițiu
 
-## [Lektion 29](lektion29)
+## [Lecție 29](lektion29)
 
 *   2\9.1. Utilizarea Parasmaipada (परस्मैपद) și Ātmanepada (आत्मनेपद) în Causativ
 *   2\9.2. Listă de cuvinte
 *   2\9.3. Exercițiu de traducere pentru recapitulare
 *   2\9.4. Viitorul și cauzativul pentru rădăcinile învățate până acum
 
-## [Lektion 30](lektion30)
+## [Lecție 30](lektion30)
 
 *   3\0.1. Clasa a 9-a de prezintă (क्र्यादि = "क्री etc.")
 *   3\0.2. Utilizarea optativului (लिङ्)
@@ -356,13 +356,13 @@
 *   3\0.7. Exercițiu
 *   3\0.8. Exercițiu de repetiție privind morfologia
 
-## [Lektion 31](lektion31)
+## [Lecție 31](lektion31)
 
 *   3\1.1. Cea de-a 7-a clasă de prezent (रुधादि = "रुध् etc.")
 *   3\1.2. Listă de cuvinte
 *   3\1.3. Exercițiu
 
-## [Lektion 32](lektion32)
+## [Lecție 32](lektion32)
 
 *   3\2.1. Timpurile trecutului
 *   3\2.2. Imperfectul (लङ्)
@@ -376,7 +376,7 @@
 *   3\2.8. Exercițiu de recapitulare
 *   3\2.9. Exercițiu de traducere
 
-## [Lektion 33](lektion33)
+## [Lecție 33](lektion33)
 
 *   3\3.1. Reduplicarea (अभ्यास m.)
     *   3\3.1.1. Consonantul de reduplicare
@@ -389,7 +389,7 @@
 *   3\3.6. Listă de cuvinte
 *   3\3.7. Exerciții
 
-## [Lektion 34](lektion34)
+## [Lecție 34](lektion34)
 
 *   3\4.1. Perfectul (लिट्)
 *   3\4.2. Perfectul cu reduplicare (द्वित्वलिट्)
@@ -405,7 +405,7 @@
 *   3\4.7. Exercițiu
 *   3\4.8. Exercițiu de traducere
 
-## [Lektion 35](lektion35)
+## [Lecție 35](lektion35)
 
 *   3\5.1. Perfect Tip III: Rădăcină puternică, nivel înalt/nivel alungit
     *   3\5.1.1. Perfect Tipul IIIa: Rădăcină puternică, nivel ridicat/îndreptat, rădăcină slabă, nivel scăzut
@@ -418,7 +418,7 @@
 *   3\5.4. Listă de cuvinte
 *   3\5.5. Exercițiu
 
-## [Lektion 36](lektion36)
+## [Lecție 36](lektion36)
 
 *   3\6.1. Formări speciale ale perfectului
 *   3\6.2. Perfektul perifrastic (अनुप्रयोगलिट्)
@@ -429,7 +429,7 @@
 *   3\6.7. Exercițiu de traducere
 *   3\6.8. Exercițiu de repetiție privind morfologia
 
-## [Lektion 37](lektion37)
+## [Lecție 37](lektion37)
 
 *   3\7.1. Adverbulul (क्रियाविशेषणम्)
 *   3\7.2. Utilizarea adverbială a formelor cazuale
@@ -454,7 +454,7 @@
 *   3\7.10. Exerciții
 *   3\7.11. Exercițiu de recapitulare
 
-## [Lektion 38](lektion38)
+## [Lecție 38](lektion38)
 
 *   3\8.1. Soluția săptămânii
 *   3\8.2. Schimbarea fonetică a nazalelor în cuvânt
@@ -472,7 +472,7 @@
 *   3\8.11. Listă de cuvinte pentru exercițiul de traducere
 *   3\8.12. Exercițiu de traducere
 
-## [Lektion 39](lektion39)
+## [Lecție 39](lektion39)
 
 *   3\9.1. Desinențele persoanei primei persoane (***तृतीयः*** पुरुषः = "***a treia*** persoană")
 *   3\9.2. Formarea formelor verbale ale primei persoane, teme de prezent tematic
@@ -493,7 +493,7 @@
     *   3\9.4.6. A noua clasă de prezent (क्र्यादि)
 *   3\9.5. Exercițiu
 
-## [Lektion 40](lektion40)
+## [Lecție 40](lektion40)
 
 *   4\0.1. सुभाषितानि
 *   4\0.2. Formarea formelor verbale ale persoanei I Perfect (लिट्)
@@ -510,7 +510,7 @@
 *   4\0.7. Exercițiu
 *   4\0.8. Exercițiu de repetiție despre morfologie
 
-## [Lektion 41](lektion41)
+## [Lecție 41](lektion41)
 
 *   4\1.1. सुभाषिते  (două proverbe)
 *   4\1.2. Alte forme de कृत् cu sufixul -a
@@ -522,7 +522,7 @@
 *   4\1.3. Listă de cuvinte
 *   4\1.4. Exerciții
 
-## [Lektion 42](lektion42)
+## [Lecție 42](lektion42)
 
 *   4\2.1. Tulpile pe -ṛ
     *   4\2.1.1. Treci cu grad lung în tema puternică
@@ -534,7 +534,7 @@
 *   4\2.3. Exercițiu
 *   4\2.4. Exercițiu de traducere
 
-## [Lektion 43](lektion43)
+## [Lecție 43](lektion43)
 
 *   4\3.1. Terminări personale ale celei de-a 2-a persoane (मध्यमः = "persoana a treia &lt;mijlocie&gt;")
 *   4\3.2. Formarea formelor verbale de persoana a II-a (मध्यमः)
@@ -544,7 +544,7 @@
 *   4\3.5. Exerciții
 *   4\3.6. संवादः = Discuție
 
-## [Lektion 44](lektion44)
+## [Lecție 44](lektion44)
 
 *   4\4.1. Formarea formelor verbale de persoana a II-a (मध्यमः) ale rădăcinilor neatomice cu sufix cu final vocalică
     *   4\4.1.1. Cincia clasă de prezenț (स्वादि)
@@ -560,7 +560,7 @@
 *   4\4.6. Exercițiu
 *   4\4.7. Exercițiu de repetiție despre morfologie
 
-## [Lektion 45](lektion45)
+## [Lecție 45](lektion45)
 
 *   4\5.1. Formarea formelor verbale de persoana a II-a (मध्यमः) a rădăcinilor neatomice fără sufix cu final vocalic (continuare)
     *   4\5.1.1. A treia clasă de prezente (जुहोत्यादि)
@@ -569,7 +569,7 @@
 *   4\5.3. Listă de cuvinte
 *   4\5.4. Exercitiu
 
-## [Lektion 46](lektion46)
+## [Lecție 46](lektion46)
 
 *   4\6.1. Formarea formelor verbale de persoana a II-a (मध्यमः) Perfect (लिट्)
     *   4\6.1.1. Desinențe
@@ -584,7 +584,7 @@
 *   4\6.2. Listă de cuvinte
 *   4\6.3. Exercitiu
 
-## [Lektion 47](lektion47)
+## [Lecție 47](lektion47)
 
 *   4\7.1. Imperativul (लोट्)
 *   4\7.2. Formarea imperativului (लोट्) la rădăcinile tematic de prezent
@@ -596,7 +596,7 @@
     *   4\7.2.6. Pasivul
 *   4\7.3. Exercițiu
 
-## [Lektion 48](lektion48)
+## [Lecție 48](lektion48)
 
 *   4\8.1. सुभाषितानि
 *   4\8.2. Formarea imperativului (लोट्) la rădăcinile de prezent neatematic
@@ -609,7 +609,7 @@
 *   4\8.5. Exerciții
 *   4\8.6. Exercițiu de traducere
 
-## [Lektion 49](lektion49)
+## [Lecție 49](lektion49)
 
 *   4\9.1. Formarea imperativului (लोट्) la rădăcinile de prezent atematic (continuare)
     *   4\9.1.1. A șaptea clasă de prezent (रुधादि)
@@ -622,13 +622,13 @@
 *   4\9.5. Exercițiu de repetiție despre morfologie
 *   4\9.6. Exercițiu de traducere
 
-## [Lektion 50](lektion50)
+## [Lecție 50](lektion50)
 
 *   5\0.1. Formarea substantivelor: intensificare regulată
 *   5\0.2. Listă de cuvinte
 *   5\0.3. Exercițiu de traducere
 
-## [Lektion 51](lektion51)
+## [Lecție 51](lektion51)
 
 *   5\1.1. Compozite उपपद
 *   5\1.2. Declinarea stemelor care se termină într-o consoană simplă (în afară de nazală, semivocală, -s)
@@ -641,7 +641,7 @@
 *   5\1.6. Listă de cuvinte
 *   5\1.7. Exercițiu de traducere
 
-## [Lektion 52](lektion52)
+## [Lecție 52](lektion52)
 
 *   5\2.1. Neutrule temelor în -i și -u
 *   5\2.2. Formarea substantivelor
@@ -663,7 +663,7 @@
 *   5\2.8. Exercițiu de traducere
 *   5\2.9. Sarcini în timpul vacanțelor semestriale
 
-## [Lektion 53](lektion53)
+## [Lecție 53](lektion53)
 
 *   5\3.1. Dualul (द्विवचन n.) substantivelor
 *   5\3.2. Terminări de dual pentru substantive
@@ -683,7 +683,7 @@
     *   5\3.10.4. El śloka epic (श्लोक m.)
 *   5\3.11. Exercițiu
 
-## [Lektion 54](lektion54)
+## [Lecție 54](lektion54)
 
 *   5\4.1. Notă preliminară
 *   5\4.2. Formarea cuvintelor: sufixul -u al temelor desiderative कृत्
@@ -694,12 +694,12 @@
     *   5\4.6.1. Aoristul la persoana a III-a singular, vocea pasivă
 *   5\4.7. Exercițiu
 
-## [Lektion 55](lektion55)
+## [Lecție 55](lektion55)
 
 *   5\5.1. Aoristul cu tema vocală a (Aoristul cu vocala de temă)
 *   5\5.2. Exercițiu
 
-## [Lektion 56](lektion56)
+## [Lecție 56](lektion56)
 
 *   5\6.1. Aoristul reduplicat
     *   5\6.1.1. Formarea aoristului cauzativelor și a rădăcinilor clasei de prezenț a 10-a
@@ -708,12 +708,12 @@
 *   5\6.4. स्म
 *   5\6.5. Exerciții
 
-## [Lektion 57](lektion57)
+## [Lecție 57](lektion57)
 
 *   5\7.1. Aorist 4: s-Aorist
 *   5\7.2. Exercițiu
 
-## [Lektion 58](lektion58)
+## [Lecție 58](lektion58)
 
 *   5\8.1. Desinențele primare ale dualului (द्विवचनम्)
 *   5\8.2. Dualul claselor de prezent tematic: Indicativ prezent (लट्)
@@ -735,7 +735,7 @@
 *   5\8.6. Aorist 5: iṣ-Aorist
 *   5\8.7. Exerciții
 
-## [Lektion 59](lektion59)
+## [Lecție 59](lektion59)
 
 *   5\9.1. Terminările secundare și terminările imperativului la dual (द्विवचनम्)
 *   5\9.2. Dualul claselor de prezent tematic: Optativul (विधिलिङ्), Imperfectul (लङ्), Imperativul (लोट्)
@@ -761,7 +761,7 @@
 *   5\9.6. Aoristul (लुङ्) 7: aoristul sa- (aorist tematic cu s)
 *   5\9.7. Exerciții
 
-## [Lektion 60](lektion60)
+## [Lecție 60](lektion60)
 
 *   6\0.1. Desinențele dualului la perfect (द्विवचनम्)
 *   6\0.2. Dualul perfectului cu reduplicare (द्वित्वलिट्)
@@ -780,7 +780,7 @@
     *   6\0.6.2. Conjugarea desiderativului (सन्)
 *   6\0.7. Exercițiu
 
-## [Lektion 61](lektion61)
+## [Lecție 61](lektion61)
 
 *   6\1.1. Declinarea substantivelor radicale în -ā, -ī, -ū
     *   6\1.1.1. Numele de rădăcină cu sufixul -ā la finalul lui तत्पुरुष

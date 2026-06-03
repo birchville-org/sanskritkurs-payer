@@ -1,13 +1,13 @@
-# Inhaltsverzeichnis
+# Index lectionum
 
-## [Lektion 1](lektion01)
+## [Lectio 1](lektion01)
 
 *   1\.1. Literatura pro principiantes in Indologia
 *   1\.2. De sonis Sanscriti
     *   1\.2.1. De pronunciatione singularium sonorum
 *   1\.3. Exercitatio
 
-## [Lektion 2](lektion02)
+## [Lectio 2](lektion02)
 
 *   2\.1. De sententia nominali
 *   2\.2. De declinatione (flexio nominum)
@@ -18,7 +18,7 @@
 *   2\.5. Lexicon verborum
 *   2\.6. Exercitatio
 
-## [Lektion 3](lektion03)
+## [Lectio 3](lektion03)
 
 *   3\.1. Nominativus singularis feminini
     *   3\.1.1. Nominativus singularis in -s
@@ -30,7 +30,7 @@
 *   3\.6. Lexicon verborum
 *   3\.7. Exercitatio
 
-## [Lektion 4](lektion04)
+## [Lectio 4](lektion04)
 
 *   4\.1. Quaestiones supplementariae simplices (quaestiones verborum) et responsiones
     *   4\.1.1. Questiones pronominale et pronomina demonstrativa
@@ -40,7 +40,7 @@
     *   4\.1.5. Formula quaestionis
 *   4\.2. Exercitatio
 
-## [Lektion 5](lektion05)
+## [Lectio 5](lektion05)
 
 *   5\.1. Nominalia composita (samāsa m. = समास)
 *   5\.2. De terminologia Sanscritica pro compositis
@@ -51,7 +51,7 @@
 *   5\.5. Exercitatio
 *   5\.6. Exercitatio recapitulativa
 
-## [Lektion 6](lektion06)
+## [Lectio 6](lektion06)
 
 *   6\.1. De sententia verbalis
 *   6\.2. De formatione formarum verbalium
@@ -67,7 +67,7 @@
 *   6\.8. Exercitatio
 *   6\.9. Repetitionis Exercitatio
 
-## [Lektion 7](lektion07)
+## [Lectio 7](lektion07)
 
 *   Proverbium hebdomadis
 *   7\.1. De sententia verbalis cum objecto directo
@@ -83,7 +83,7 @@
 *   7\.6. Lexicon verborum
 *   7\.7. Exercitatio
 
-## [Lektion 8](lektion08)
+## [Lectio 8](lektion08)
 
 *   8\.1. De formatione nominum
 *   8\.2. Distributio suffixorum nominalium
@@ -98,7 +98,7 @@
 *   8\.6. Exercitatio
 *   8\.7. Exercitium lectionis et versionis
 
-## [Lektion 9](lektion09)
+## [Lectio 9](lektion09)
 
 *   9\.1. Samāhāradvandva (समाहारद्वन्द्व = "Dvandva collectio")
 *   9\.2. De formatione stemmatium nominalium
@@ -107,7 +107,7 @@
 *   9\.3. Lexicon
 *   9\.4. Exercitatio
 
-## [Lektion 10](lektion10)
+## [Lectio 10](lektion10)
 
 *   1\0.1. De voce passiva
 *   1\0.2. Instrumentalis (tṛtīyā f. = तृतीया = "casus tertius")
@@ -120,14 +120,14 @@
 *   1\0.7. Lexicon 2
 *   1\0.8. Exercitium lectionis et translationis
 
-## [Lektion 11](lektion11)
+## [Lectio 11](lektion11)
 
 *   1\1.1. Duplex accusativus
 *   1\1.2. Lexicon verborum
 *   1\1.3. Exercitatio
 *   1\1.4. Exercitium recapitulationis
 
-## [Lektion 12](lektion12)
+## [Lectio 12](lektion12)
 
 *   1\2.1. Participium Perfecti Passivi (PPP)
     *   1\2.1.1. Schema pro verba transitiva
@@ -141,7 +141,7 @@
     *   1\2.5.1. Passivum et PPP radicum hactenus didactarum
 *   1\2.6. Exercitatio
 
-## [Lektion 13](lektion13)
+## [Lectio 13](lektion13)
 
 *   1\3.1. PPP in -na-
 *   1\3.2. De Usu PPP ulteriore
@@ -155,7 +155,7 @@
 *   1\3.10. Exercitatio
 *   1\3.11. Exercitium recapitulationis
 
-## [Lektion 14](lektion14)
+## [Lectio 14](lektion14)
 
 *   1\4.1. Expressio relationis per substantiva designatae: Genetivus (ṣaṣṭhī f. = षष्टी = sexta casus desinentia)
 *   1\4.2. Formationes Genetivi (ṣaṣṭhī f. = षष्ठी)
@@ -164,7 +164,7 @@
 *   1\4.5. Subhāṣitāni = सुभाषितानि = Proverbia
 *   1\4.6. Exercitatio
 
-## [Lektion 15](lektion15)
+## [Lectio 15](lektion15)
 
 *   1\5.1. सुभाषितम्
 *   1\5.2. Determinativa composita = Tatpuruṣa m. = तत्पुरुष
@@ -179,14 +179,14 @@
 *   1\5.10. Exercitatio 2
 *   1\5.11. Exercitatio 3
 
-## [Lektion 16](lektion16)
+## [Lectio 16](lektion16)
 
 *   1\6.1. De Sandho consonantium finalium
 *   1\6.2. Lexicon verborum
 *   1\6.3. Exercitatio
 *   1\6.4. Exercitium recapitulationis
 
-## [Lektion 17](lektion17)
+## [Lectio 17](lektion17)
 
 *   1\7.1. Secundae classis praesentis (अदादि = अद् etc.)
 *   1\7.2. Radices secundae classis praesentis cum gradatione radicali: Gradus altus - Gradus humilis
@@ -197,7 +197,7 @@
 *   1\7.7. Exercitatio I
 *   1\7.8. Exercitatio II
 
-## [Lektion 18](lektion18)
+## [Lectio 18](lektion18)
 
 *   1\8.1. सुभाषितम्
 *   1\8.2. Determinativa composita (तत्पुरुष) cum membro anteriori adverbiali
@@ -209,7 +209,7 @@
 *   1\8.5. Exercitatio
 *   1\8.6. Exercitium recapitulationis
 
-## [Lektion 19](lektion19)
+## [Lectio 19](lektion19)
 
 *   1\9.1. De propositione relativa
 *   1\9.2. Pronomen relativum = व्यपेक्षकसर्वनाम n.
@@ -217,7 +217,7 @@
 *   1\9.4. Exercitatio
 *   1\9.5. सुभाषितानि
 
-## [Lektion 20](lektion20)
+## [Lectio 20](lektion20)
 
 *   2\0.1. Possessivkomposita = बहुव्रीहि m.
 *   2\0.2. Bahuvrīhi cum membro anteriori attributivo
@@ -232,7 +232,7 @@
 *   2\0.11. Exercitatio 2
 *   2\0.12. Exercitium translationis
 
-## [Lektion 21](lektion21)
+## [Lectio 21](lektion21)
 
 *   2\1.1. Ulteriores radices praesentis in -nt
     *   2\1.1.1. Participium Praesens (लडादेशः) Parasmaipada
@@ -242,7 +242,7 @@
 *   2\1.4. Lexicon verborum
 *   2\1.5. Exercitatio
 
-## [Lektion 22](lektion22)
+## [Lectio 22](lektion22)
 
 *   2\2.1. De absolutivo (क्त्वा । ल्यप्)
 *   2\2.2. Formationis absolutivi
@@ -251,7 +251,7 @@
 *   2\2.3. Lexicon verborum
 *   2\2.4. Exercitatio
 
-## [Lektion 23](lektion23)
+## [Lectio 23](lektion23)
 
 *   2\3.1. De Infinitivo (तुमुन्)
 *   2\3.2. Formatio infinitivi (तुमुन्)
@@ -260,7 +260,7 @@
 *   2\3.5. Exercitatio
 *   2\3.6. Exercitium recapitulationis
 
-## [Lektion 24](lektion24)
+## [Lectio 24](lektion24)
 
 *   2\4.1. Dativus (चतुर्थी = "quartus casus terminatio")
 *   2\4.2. Formatio casus dativi (चतुर्थी)
@@ -273,7 +273,7 @@
 *   2\4.5. Exercitatio
 *   2\4.6. Exercitationes de uso Dativi
 
-## [Lektion 25](lektion25)
+## [Lectio 25](lektion25)
 
 *   2\5.1. Formatio Casus Ablativi (पञ्चमी = "quinta desinentia casus")
 *   2\5.2. Usus casus ablativi (पञ्चमी)
@@ -284,7 +284,7 @@
 *   2\5.7. सुभाषितानि
 *   2\5.8. Exercitium Translationis
 
-## [Lektion 26](lektion26)
+## [Lectio 26](lektion26)
 
 *   2\6.1. Lexematisatio -s- in medio verbi
 *   2\6.2. Lexematisatio cerebralisis dentium in medio verbi
@@ -295,7 +295,7 @@
 *   2\6.7. Formatio futuri simplicis (ऌत्, भविष्यन्ती  f.)
 *   2\6.8. Exercitatio
 
-## [Lektion 27](lektion27)
+## [Lectio 27](lektion27)
 
 *   2\7.1. Usus Casus Locativi (सप्तमी f. = "sexta desinens casus")
 *   2\7.2. Locativi formation (सप्तमी)
@@ -322,7 +322,7 @@
     *   2\7.7.13. Pronomen relativum: यद्
     *   2\7.7.14. Quaestiones: किम्
 
-## [Lektion 28](lektion28)
+## [Lectio 28](lektion28)
 
 *   2\8.1. De Causativo (णि, णिच्, कारित)
 *   2\8.2. Constructio orationis cum Causativo (णि, णिच्, कारित)
@@ -336,14 +336,14 @@
 *   2\8.10. Tabula verborum
 *   2\8.11. Exercitatio
 
-## [Lektion 29](lektion29)
+## [Lectio 29](lektion29)
 
 *   2\9.1. Usus Parasmaipadae (परस्मैपद) et Ātmanepadae (आत्मनेपद) in Causativo
 *   2\9.2. Lexicon
 *   2\9.3. Exercitium translationis ad repetitionem
 *   2\9.4. Futurum et Causativum ad radices usitate didactas
 
-## [Lektion 30](lektion30)
+## [Lectio 30](lektion30)
 
 *   3\0.1. Nonum Praesentis Classis (क्र्यादि = "क्री etc.")
 *   3\0.2. Usus Optativi (लिङ्)
@@ -356,13 +356,13 @@
 *   3\0.7. Exercitatio
 *   3\0.8. Exercitium recapitulationis de morphologia
 
-## [Lektion 31](lektion31)
+## [Lectio 31](lektion31)
 
 *   3\1.1. Classis VII. Praesentis (रुधादि = "रुध् et cetera")
 *   3\1.2. Lexicon verborum
 *   3\1.3. Exercitatio
 
-## [Lektion 32](lektion32)
+## [Lectio 32](lektion32)
 
 *   3\2.1. De temporibus praeteriti temporis
 *   3\2.2. De Imperfectum (लङ्)
@@ -376,7 +376,7 @@
 *   3\2.8. Exercitatio ad Revisendum
 *   3\2.9. Exercitium Translationis
 
-## [Lektion 33](lektion33)
+## [Lectio 33](lektion33)
 
 *   3\3.1. De Reduplicatione (अभ्यास m.)
     *   3\3.1.1. Consonans reduplicatio
@@ -389,7 +389,7 @@
 *   3\3.6. Lexicon verborum
 *   3\3.7. Exercitatio
 
-## [Lektion 34](lektion34)
+## [Lectio 34](lektion34)
 
 *   3\4.1. De Perfecto (लिट्)
 *   3\4.2. Perfectum cum duplicatione (द्वित्वलिट्)
@@ -405,7 +405,7 @@
 *   3\4.7. Exercitatio
 *   3\4.8. Exercitium translationis
 
-## [Lektion 35](lektion35)
+## [Lectio 35](lektion35)
 
 *   3\5.1. Perfectum Typus III: Robustus radix gradus fortis/gradus productus
     *   3\5.1.1. Perfectum Typus IIIa: Radix fortis gradus altus/longus, radix debilis gradus infimus
@@ -418,7 +418,7 @@
 *   3\5.4. Lexicon
 *   3\5.5. Exercitatio
 
-## [Lektion 36](lektion36)
+## [Lectio 36](lektion36)
 
 *   3\6.1. Formae speciales Perfectorum
 *   3\6.2. Perfecrum periphrasticum (अनुप्रयोगलिट्)
@@ -429,7 +429,7 @@
 *   3\6.7. Exercitium Translationis
 *   3\6.8. Exercitium recapitulationis de morphologia
 
-## [Lektion 37](lektion37)
+## [Lectio 37](lektion37)
 
 *   3\7.1. Adverbiale (क्रियाविशेषणम्)
 *   3\7.2. Casuum adverbialis usus
@@ -454,7 +454,7 @@
 *   XXX.10. Exercitatio
 *   3\7.11. Exercitium Revisio
 
-## [Lektion 38](lektion38)
+## [Lectio 38](lektion38)
 
 *   3\8.1. Solutio hebdomadis
 *   3\8.2. Mutatio phonetica nasaliūm in vōce
@@ -472,7 +472,7 @@
 *   3\8.11. Tabula verborum ad exercitium translationis
 *   3\8.12. Exercitium Translationis
 
-## [Lektion 39](lektion39)
+## [Lectio 39](lektion39)
 
 *   3\9.1. Des personalia des prima persona (***तृतीयः*** पुरुषः = "***tertia*** persona")
 *   3\9.2. Formatio formarum verborum primae personae stematum praesentis thematicorum
@@ -493,7 +493,7 @@
     *   3\9.4.6. Nonum Praesentis Classis (क्र्यादि)
 *   3\9.5. Exercitatio
 
-## [Lektion 40](lektion40)
+## [Lectio 40](lektion40)
 
 *   4\0.1. सुभाषितानि
 *   4\0.2. Formatio formarum verbalium primae personae Perfekti (लिट्)
@@ -510,7 +510,7 @@
 *   4\0.7. Exercitatio
 *   4\0.8. Exercitium recapitulationis de doctrina formae
 
-## [Lektion 41](lektion41)
+## [Lectio 41](lektion41)
 
 *   4\1.1. सुभाषिते (duo proverbii)
 *   4\1.2. Ulteriores formationes कृत् in -a
@@ -522,7 +522,7 @@
 *   4\1.3. Lexicon
 *   4\1.4. Exercitatio
 
-## [Lektion 42](lektion42)
+## [Lectio 42](lektion42)
 
 *   4\2.1. Stämme auf -ṛ
     *   4\2.1.1. Tribus cum gradu producto in genere forti
@@ -534,7 +534,7 @@
 *   4\2.3. Exercitatio
 *   4\2.4. Exercitium Translationis
 
-## [Lektion 43](lektion43)
+## [Lectio 43](lektion43)
 
 *   4\3.1. Desinenses personae secundae (मध्यमः = "media &lt;Persona&gt;")
 *   4\3.2. Formatio formarum verbalium secundae personae (मध्यमः)
@@ -544,7 +544,7 @@
 *   4\3.5. Exercitatio
 *   4\3.6. संवादः = Colloquium
 
-## [Lektion 44](lektion44)
+## [Lectio 44](lektion44)
 
 *   4\4.1. Formatio formarum verbalium personae secundae (मध्यमः) stemmatum athematicorum, quae suffixo vocali terminant
     *   4\4.1.1. Quinta classis praesens (स्वादि)
@@ -560,7 +560,7 @@
 *   4\4.6. Exercitatio
 *   4\4.7. Exercitium recapitulationis de morphologia
 
-## [Lektion 45](lektion45)
+## [Lectio 45](lektion45)
 
 *   4\5.1. Formatios verborum personae secundae (मध्यमः) stemmatium athematicorum sine suffixo vocali terminato (continuatio)
     *   4\5.1.1. Tertia Praesentis Classis (जुहोत्यादि)
@@ -569,7 +569,7 @@
 *   4\5.3. Lexicon verborum
 *   4\5.4. Exercitatio
 
-## [Lektion 46](lektion46)
+## [Lectio 46](lektion46)
 
 *   4\6.1. Formatio formarum verbalium personae secundae (मध्यमः) Perfectum (लिट्)
     *   4\6.1.1. Flexiones finales
@@ -584,7 +584,7 @@
 *   4\6.2. Lexicon verborum
 *   4\6.3. Exercitatio
 
-## [Lektion 47](lektion47)
+## [Lectio 47](lektion47)
 
 *   4\7.1. De Imperativo (लोट्)
 *   4\7.2. Formatio imperativi (लोट्) radicalium praesentis thematicorum
@@ -596,7 +596,7 @@
     *   4\7.2.6. Passivum
 *   4\7.3. Exercitatio
 
-## [Lektion 48](lektion48)
+## [Lectio 48](lektion48)
 
 *   4\8.1. सुभाषितानि
 *   4\8.2. Formatio imperativi (लोट्) athematicae radices praesentis
@@ -609,7 +609,7 @@
 *   4\8.5. Exercitatio
 *   4\8.6. Exercitium translationis
 
-## [Lektion 49](lektion49)
+## [Lectio 49](lektion49)
 
 *   4\9.1. Formatio imperativi (लोट्) stemmata praesentis athematica (continuatio)
     *   4\9.1.1. Septima classis praesentis (रुधादि)
@@ -622,13 +622,13 @@
 *   4\9.5. Exercitium recapitulationis de doctrina formārum
 *   4\9.6. Exercitium translationis
 
-## [Lektion 50](lektion50)
+## [Lectio 50](lektion50)
 
 *   5\0.1. Nominalium formatio: regularis comparatio
 *   5\0.2. Tabula verborum
 *   5\0.3. Exercitium Translationis
 
-## [Lektion 51](lektion51)
+## [Lectio 51](lektion51)
 
 *   5\1.1. उपपद-Composita
 *   5\1.2. Declinatio radicum, quae consonantem simplicem (praeter nasalem, semivocalis, -s) terminant
@@ -641,7 +641,7 @@
 *   5\1.6. Tabula verborum
 *   5\1.7. Exercitium Translationis
 
-## [Lektion 52](lektion52)
+## [Lectio 52](lektion52)
 
 *   5\2.1. Neutrum der Stämme auf -i und -u
 *   5\2.2. Nominalium formatio
@@ -663,7 +663,7 @@
 *   5\2.8. Exercitium Translationis
 *   5\2.9. Exercitia durante ferias semestres
 
-## [Lektion 53](lektion53)
+## [Lectio 53](lektion53)
 
 *   5\3.1. De Dualis (द्विवचन n.) nominum
 *   5\3.2. Terminatio dualis nominum
@@ -683,7 +683,7 @@
     *   5\3.10.4. De Śloka epico (श्लोक m.)
 *   5\3.11. Exercitatio
 
-## [Lektion 54](lektion54)
+## [Lectio 54](lektion54)
 
 *   5\4.1. Praenotatio
 *   5\4.2. Word Formation: कृत् Suffix -u to Desiderative Stems
@@ -694,12 +694,12 @@
     *   5\4.6.1. Aoristus 3.sg.Passivi
 *   5\4.7. Exercitatio
 
-## [Lektion 55](lektion55)
+## [Lectio 55](lektion55)
 
 *   5\5.1. De a-Aorista (Aorista cum vocali tematis)
 *   5\5.2. Exercitatio
 
-## [Lektion 56](lektion56)
+## [Lectio 56](lektion56)
 
 *   5\6.1. De aoristo duplicato
     *   5\6.1.1. Formationis Aoristi Causativorum et Radicum Decimae Praesentis Classis
@@ -708,12 +708,12 @@
 *   5\6.4. स्म
 *   5\6.5. Exercitatio
 
-## [Lektion 57](lektion57)
+## [Lectio 57](lektion57)
 
 *   5\7.1. Aorist 4: s-Aorist
 *   5\7.2. Exercitatio
 
-## [Lektion 58](lektion58)
+## [Lectio 58](lektion58)
 
 *   5\8.1. Des Dualis des Primärendungen (द्विवचनम्)
 *   5\8.2. De duali classium praesentium thematicorum: Indicativus praesens (लट्)
@@ -735,7 +735,7 @@
 *   5\8.6. Aoristus 5: Aoristus iṣ
 *   5\8.7. Exercitatio
 
-## [Lektion 59](lektion59)
+## [Lectio 59](lektion59)
 
 *   5\9.1. De secundaribus terminationibus et imperativis dualis (द्विवचनम्)
 *   5\9.2. De duali classium praesentium thematicorum: Optativus (विधिलिङ्), Imperfectum (लङ्), Imperativus (लोट्)
@@ -761,7 +761,7 @@
 *   5\9.6. Aoristus (लुङ्) 7: sa-aoristus (thematicus s-aoristus)
 *   5\9.7. Exercitatio
 
-## [Lektion 60](lektion60)
+## [Lectio 60](lektion60)
 
 *   6\0.1. Despecta dualia Perfectorum (द्विवचनम्)
 *   6\0.2. Dualis perfecti reduplicati (द्वित्वलिट्)
@@ -780,7 +780,7 @@
     *   6\0.6.2. Coniugatio Desiderativi (सन्)
 *   6\0.7. Exercitatio
 
-## [Lektion 61](lektion61)
+## [Lectio 61](lektion61)
 
 *   6\1.1. Declinatio nominum radicalium in -ā, -ī, -ū
     *   6\1.1.1. Nomina radicalia in -ā ad finem तत्पुरुष
