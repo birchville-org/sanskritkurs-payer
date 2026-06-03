@@ -105,6 +105,11 @@ LICENSES_LABELS = {
         "col1": "文件", "col2": "找到的来源信息", "col3": "预览",
         "no_license": "文本中未找到特定许可证/图片来源",
     },
+    "ro": {
+        "title": "Auditul licențelor imaginilor",
+        "col1": "Fișier", "col2": "Informații despre sursă găsite", "col3": "Previzualizare",
+        "no_license": "Nu s-a găsit nicio licență/sursă specifică de imagine în text",
+    },
     "la": {
         "title": "Recognitio Licentiarium Imaginum",
         "col1": "Fasciculus", "col2": "Notitia Fontis Inventa", "col3": "Prospectus",
@@ -954,8 +959,16 @@ def translate_main_pages(lang, force=False):
         source_path = os.path.join(BASE_DIR, filename)
         if not os.path.exists(source_path):
             continue
-        post = (lambda t, l=lang: fix_home_links(t, l)) if filename == "index.md" else None
-        translate_file(source_path, os.path.join(lang_dir, filename), lang, post_process=post, force=force)
+        def make_post(fname, l=lang):
+            def post(t):
+                # Unescape Vue component tags escaped by LLM
+                t = t.replace('&lt;PayerTopicIndex /&gt;', '<PayerTopicIndex />')
+                t = t.replace('&lt;style&gt;', '<style>').replace('&lt;/style&gt;', '</style>')
+                if fname == "index.md":
+                    t = fix_home_links(t, l)
+                return t
+            return post
+        translate_file(source_path, os.path.join(lang_dir, filename), lang, post_process=make_post(filename), force=force)
     generate_licenses(lang)
 
 

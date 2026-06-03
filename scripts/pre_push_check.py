@@ -322,6 +322,16 @@ def main():
     else:
         print(f"  ✓ OK")
 
+    # ── 7b. Fehlende licenses.md ────────────────────────────────────────────
+    print("\n[5b] Fehlende licenses.md pro Sprache...")
+    LANGS = ['en','it','es','fr','hi','bg','ru','uk','ta','pa','la','rm','ro']
+    missing_lic = [l for l in LANGS if not (ROOT / 'docs' / l / 'licenses.md').exists()]
+    if missing_lic:
+        print(f"  ❌ licenses.md fehlt für: {missing_lic}")
+        total_errors += len(missing_lic)
+    else:
+        print(f"  ✓ OK — alle {len(LANGS)} Sprachen haben licenses.md")
+
     # ── 8. Lizenzen (nur bei --scope=all oder wenn DE-Dateien im Diff) ───────
     de_files = [f for f in files if lang_from_path(f) == 'de']
     if de_files or scope == 'all':
