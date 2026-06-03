@@ -47,7 +47,7 @@ Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -t
 | :---: | :--- |
 | **\-ø** | Rădăcinile claselor a 5-a și a 8-a, în cazul cărora consonantul final \-u este precedat doar de un singur consonant. |
 | **\-āna** | Rădăcinile clasei a 9-a, care se termină într-un consonant, substituie pentru \-nī+desinență cu \-āna |
-| **\-hi** | toate celelalte rădăcini de prezent, care se termină într-un vocal sau semivocal (excepție: **जुहुधि** la **⟨DEVA_10 3**>) |
+| **\-hi** | toate celelalte rădăcini de prezent, care se termină într-un vocal sau semivocal (excepție: **जुहुधि** la **हु 3**) |
 | **\-dhi** | toate celelalte cazuri |
 :::
 

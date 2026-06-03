@@ -393,7 +393,7 @@ Abb.: तन्तुवायः
 
 ## 10.8. Exercizi da lectura e da traduziun
 
-**Legia e traduscha e转换 en il passiv:**
+**Legia e traduscha e transformat en il passiv:**
 
 **क**
 

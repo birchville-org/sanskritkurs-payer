@@ -39,13 +39,13 @@ status: stable
 
 **L'infinitiv po vegnir duvrà activamain e passivamain. In infinitiv passiv en la lingua tedesca vegn en sanscrit renderà dal fatg che il verbi (spessissim शक् "esser capaz, pudair"), dal qual l'infinitiv dependa, vegn mess en passiv.**
 
-**Relativamain a l'object cumpорта l'infinitiv sco ina forma verbala, quai vart che l'object direct (कर्मन्) staziunescha cun infinitiv activ en l'accusativ (द्वितीया), u en il cas, che il respectiv verbi pretenda; cun infinitiv passiv staziunescha l'object direct en il nominativ.**
+**Relativamain a l'object comporta l'infinitiv sco ina forma verbala, quai vart che l'object direct (कर्मन्) staziunescha cun infinitiv activ en l'accusativ (द्वितीया), u en il cas, che il respectiv verbi pretenda; cun infinitiv passiv staziunescha l'object direct en il nominativ.**
 
 p.ex.
 
 > साधुरधर्मं कर्तुं न शक्नोति = साधुनाधर्मः कर्तुं न शक्यते = "In sânt n'ha betg la pussanza da far in mal."
 
-**En la secunda persuna vegn अर्ह् + infinitiv spess duvrà sco命令 blando: "Ti duvessas".**
+**En la secunda persuna vegn अर्ह् + infinitiv spess duvrà sco imperativ blando: "Ti duvessas".**
 
 **Sch'infinitiv dependa da in num, na d'el betg vegnir collià cun quel ad in compositum. Excepziuns èn Bahuvrīhi, cun la secunda part काम u मनस्:**
 

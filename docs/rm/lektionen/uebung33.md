@@ -62,7 +62,7 @@ B) Mettai las furmas correspundentas dals verbs indicads en la parentesa en l'in
 
 ब्राह्मणी पात्रं जलेन पिपर्ति । ब्राह्मणी पात्रं जलेनापिपः । ब्राह्मणी पात्रं जलेन पिपूर्यात् ॥८॥
 
-C) Tradusci e转换a frasis singularas en frasis pluralas e viceversa:
+C) Tradusci e transforma frasis singularas en frasis pluralas e viceversa:
 
 योगयुक्तो मतिं दुःखमक्षनयन्त्यां प्रज्ञायां समाधत्ते ॥१॥
 

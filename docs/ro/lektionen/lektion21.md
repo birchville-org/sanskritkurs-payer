@@ -264,7 +264,7 @@ Dacă nu se dorește doar politetea, ci și exprimarea venerației pentru cineva
 
 ## 21.4. Listă de cuvinte
 
-**भज् 1 U भजति Pass. भज्यते PPP भक्त :** a cuiva (Ac.) a分配, a veni, a iubi pe cineva, a onora, a venera
+**भज् 1 U भजति Pass. भज्यते PPP भक्त :** a cuiva (Ac.) a distribui, a veni, a iubi pe cineva, a onora, a venera
 
 din aceasta:
 

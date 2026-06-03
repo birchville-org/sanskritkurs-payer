@@ -306,7 +306,7 @@ Abb.: किं बाला अधीयीरन्
 ### 37.8.2. Interrogativas da la frase
 
 :::: grammar-box
-Gea da fatg è mo da la relaziun da上下文 visibel, sche quai è ina frase da dumonda.
+Gea da fatg è mo da la relaziun dal context visibel, sche quai è ina frase da dumonda.
 ::::
 
 :::: grammar-box

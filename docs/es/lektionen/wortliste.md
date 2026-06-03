@@ -4057,7 +4057,7 @@ Kaus. रेषयति
 PPP रिष्ट
 :::
 
-**लुप् 6U *लुम्प*⟨DEVA_20***: romper, destruir
+**लुप् 6U *लुम्प*ति**: romper, destruir
 
 ::: indent
 Perf. II लुलोप, लुलुपे

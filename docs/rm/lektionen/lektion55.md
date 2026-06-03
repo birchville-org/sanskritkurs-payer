@@ -16,7 +16,7 @@ status: stable
 
 **Augment + radiz cun vusch bassa + a + desinenza secundara**
 
-**Il -a- vegn en ils medems cas sco en l'imperfect替换à -ā-.**
+**Il -a- vegn en ils medems cas sco en l'imperfect rimplazzà da -ā-.**
 
 **Gnanc infix da nasals.**
 
