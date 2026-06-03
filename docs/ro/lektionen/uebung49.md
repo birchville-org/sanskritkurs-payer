@@ -71,7 +71,7 @@ Fig.: गायी
 **वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥**
 
 > Regele a vorbit: „Să lăsăm totul așa cum este! Satisfăcuri-ne curiozitatea! Doamne, spune-ne de la început: În ce țară te-ai născut? Cine ți-a dat numele? Cine este mama ta? Cum ai primit Vede? Cum te-ai familiarizat cu scrierile învățăturilor? De unde ai dobândit artelor? Îți amintești nașteri anterioare sau poți îndeplini dorințe? Sau locuiești, purtând haina unui pasăre, într-un ascuns? Sau unde ai locuit mai devreme? Sau câți ani ai? Cum ai fost prins într-o colivie? Și cum ai ajuns în mâinile Cāṇḍālas? Sau cum ai ajuns aici?”
-&gt;
+>
 > Vaiśampāyana, însă, care fusese întrebat de Stăpânul Pământului cu o curiozitate spontană și cu mare respect, a reflectat o clipă și apoi a răspuns cu mare respect: „Rege, aceasta este o poveste lungă. Dacă te interesează, împrumută-mi urechea ta!”
 
 ::: media

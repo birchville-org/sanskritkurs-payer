@@ -121,7 +121,7 @@ A) Tradusci en Sanscrit (per las formas temporalas passadas, usa per favor l'imp
 ::: indent
 vers la disfermament da la cuminidade (सङ्घभेद) vesai:
 
-**Payer, Alois &lt;1944 -&gt;**: Vinayamukha : Conceptas fundamentalas da las regulas da l'ordinaziun e dal dretg da l'ordinaziun dal Theravāda. -- Part I. -- (Materials als conceptas fundamentalas dal Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois &lt;1944 →**: Vinayamukha : Conceptas fundamentalas da las regulas da l'ordinaziun e dal dretg da l'ordinaziun dal Theravāda. -- Part I. -- (Materials als conceptas fundamentalas dal Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 
 2\. Avais vus godà la terra?

@@ -49,7 +49,7 @@ Jaipur, 1875.
 **Si actio vel status personae vel rei tempus determinat, ad quod — vel circumstantias, sub quibus — ALIA persona vel res actionem peragit vel in certo statu consistit, verbum personam vel rem primam significans, simul cum verbo eandem magis specificante (quod saepe participium est), in locativum (सप्तमी) transit:**
 
 > एवं गच्छति काले = "tempore sic decurrente..."
-&gt;
+>
 > तस्मिन्गते = "cum abiisset..."
 
 **Saepe agens (कर्ता) non explicite designatur:**

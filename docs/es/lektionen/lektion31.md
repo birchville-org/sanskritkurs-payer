@@ -43,7 +43,7 @@ Ejemplos:
 | :--- | :--- | :--- | :--- |
 | **Indicativo** | **3. sg.** | रुणद्धि[[br]](ru + na + dh + ti) | रुन्द्धे[[br]](ru-n + dh + te) |
 | | **3. pl.** | रुन्धन्ति[[br]](ru-n-dh-anti) | रुन्धते[[br]](ru-n-dh-ate) |
-| **Optativo** | **3. sg.** | रुन्ध्यात्[[br]](ru-n-dh-yā-t) | रुन्धीt[[br]](ru-n-dh-ī-ta) | -&gt; | रुन्धीत[[br]](ru-n-dh-ī-ta) |
+| **Optativo** | **3. sg.** | रुन्ध्यात्[[br]](ru-n-dh-yā-t) | रुन्धीt[[br]](ru-n-dh-ī-ta) | → | रुन्धीत[[br]](ru-n-dh-ī-ta) |
 | | **3. pl.** | रुन्ध्युर्[[br]](ru-n-dh-y-ur) | रुन्धीरन्[[br]](ru-n-dh-ī-ran) |
 | **Participio Presente** | | रुन्धन्त्-[[br]](ru-n-dh-ant-)[[br]]fem.: रुन्धती[[br]](ru-n-dh-at-ī) | |
 
@@ -77,7 +77,7 @@ Ejemplo:
 **Inf. योक्तुम्**
 
 de ello:
-**युग n. -&gt; युग n.:** yugo, par, edad del mundo (hay cuatro edades del mundo:
+**युग n. → युग n.:** yugo, par, edad del mundo (hay cuatro edades del mundo:
 1. **कृत**
 2. **त्रेता**
 3. **द्वापर**
@@ -129,7 +129,7 @@ Representación del yoga.
 **Inf. अञ्जितुम् । अङ्क्तुम्**
 :::
 
-**अञ्ज् + vi -&gt; अञ्ज् + वि** 7Ā **व्यङ्क्ते** : untar por separado = maquillarse, diferenciarse
+**अञ्ज् + vi → अञ्ज् + वि** 7Ā **व्यङ्क्ते** : untar por separado = maquillarse, diferenciarse
 ::: indent
 **PPP व्यक्त :** diferenciado, desplegado
 
@@ -158,7 +158,7 @@ Preparación para el baile Kathakali, Kochi.
 **Fut. भोक्ष्यति**
 **Pass. भुज्यते**
 **Kaus. भोजयति**
-**PPP bhukt -&gt; PPP भुक्त**
+**PPP bhukt → PPP भुक्त**
 **Inf. भोक्तुम्**
 
 de ello:

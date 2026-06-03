@@ -9,19 +9,19 @@ Questa pagina offre una panoramica sistematica di tutti gli argomenti grammatica
 
 ## 1. Dottrina fonetica e scrittura (Saṃhitā & Lipi)
 
-*   **Introduzione ai suoni**: Sistematica e pronuncia -&gt; [Lezione 1](/it/lektionen/lektion01)
+*   **Introduzione ai suoni**: Sistematica e pronuncia → [Lezione 1](/it/lektionen/lektion01)
 *   **Introduzione alla scrittura (Devanāgarī)**:
-    *   Vocali e consonanti semplici -&gt; [Lezione 40](/it/lektionen/lektion40)
-    *   Consonanti composte (legature) -&gt; [Lezione 41](/it/lektionen/lektion41) & [Lezione 42](/it/lektionen/lektion42)
+    *   Vocali e consonanti semplici → [Lezione 40](/it/lektionen/lektion40)
+    *   Consonanti composte (legature) → [Lezione 41](/it/lektionen/lektion41) & [Lezione 42](/it/lektionen/lektion42)
 *   **Sandhi (combinazione fonetica)**:
-    *   Sandhi di **-s/Visarga** finale -&gt; [Lezione 2](/it/lektionen/lektion02), [Lezione 3](/it/lektionen/lektion03), [Lezione 30](/it/lektionen/lektion30)
-    *   Sandhi di **-m, -e, -d** -&gt; [Lezione 4](/it/lektionen/lektion04)
-    *   **Sandhi vocalico** -&gt; [Lezione 3](/it/lektionen/lektion03), [Lezione 24](/it/lektionen/lektion24)
-    *   Sandhi di **-n** -&gt; [Lezione 7](/it/lektionen/lektion07)
-    *   Sandhi per **Nasali** -&gt; [Lezione 21](/it/lektionen/lektion21), [Lezione 26](/it/lektionen/lektion26)
-    *   Cerebralizzazione (**n -&gt; ṇ / s -&gt; ṣ**) -&gt; [Lezione 10](/it/lektionen/lektion10), [Lezione 26](/it/lektionen/lektion26)
-    *   Sandhi lessicale (h-, ch-) -&gt; [Lezione 44](/it/lektionen/lektion44), [Lezione 51](/it/lektionen/lektion51)
-    *   **Sandhi consonantico** (riassunti) -&gt; [Lezione 16](/it/lektionen/lektion16), [Lezione 43](/it/lektionen/lektion43)
+    *   Sandhi di **-s/Visarga** finale → [Lezione 2](/it/lektionen/lektion02), [Lezione 3](/it/lektionen/lektion03), [Lezione 30](/it/lektionen/lektion30)
+    *   Sandhi di **-m, -e, -d** → [Lezione 4](/it/lektionen/lektion04)
+    *   **Sandhi vocalico** → [Lezione 3](/it/lektionen/lektion03), [Lezione 24](/it/lektionen/lektion24)
+    *   Sandhi di **-n** → [Lezione 7](/it/lektionen/lektion07)
+    *   Sandhi per **Nasali** → [Lezione 21](/it/lektionen/lektion21), [Lezione 26](/it/lektionen/lektion26)
+    *   Cerebralizzazione (**n → ṇ / s → ṣ**) → [Lezione 10](/it/lektionen/lektion10), [Lezione 26](/it/lektionen/lektion26)
+    *   Sandhi lessicale (h-, ch-) → [Lezione 44](/it/lektionen/lektion44), [Lezione 51](/it/lektionen/lektion51)
+    *   **Sandhi consonantico** (riassunti) → [Lezione 16](/it/lektionen/lektion16), [Lezione 43](/it/lektionen/lektion43)
 
 ## 2. Conoscenza delle parole (Morfologia)
 
@@ -43,31 +43,31 @@ Questa pagina offre una panoramica sistematica di tutti gli argomenti grammatica
 ### 2.2 Pronomi e avverbi
 
 *   **Pronomi**:
-    *   Pronomi interrogativi e dimostrativi -&gt; [Lezione 4](/it/lektionen/lektion04)
-    *   Pronome relativo (yad) -&gt; [Lezione 19](/it/lektionen/lektion19)
-    *   Pronomi personali (1. e 2. persona) -&gt; [Lezione 46](/it/lektionen/lektion46), [Lezione 47](/it/lektionen/lektion47)
-    *   Pronomi indefiniti -&gt; [Lezione 37](/it/lektionen/lektion37)
+    *   Pronomi interrogativi e dimostrativi → [Lezione 4](/it/lektionen/lektion04)
+    *   Pronome relativo (yad) → [Lezione 19](/it/lektionen/lektion19)
+    *   Pronomi personali (1. e 2. persona) → [Lezione 46](/it/lektionen/lektion46), [Lezione 47](/it/lektionen/lektion47)
+    *   Pronomi indefiniti → [Lezione 37](/it/lektionen/lektion37)
 *   **Avverbi e vocativo**:
-    *   Formazione degli avverbi -&gt; [Lezione 37](/it/lektionen/lektion37), [Lezione 52](/it/lektionen/lektion52)
-    *   Forma di cortesia e vocativo -&gt; [Lezione 21](/it/lektionen/lektion21), [Lezione 44](/it/lektionen/lektion44)
+    *   Formazione degli avverbi → [Lezione 37](/it/lektionen/lektion37), [Lezione 52](/it/lektionen/lektion52)
+    *   Forma di cortesia e vocativo → [Lezione 21](/it/lektionen/lektion21), [Lezione 44](/it/lektionen/lektion44)
 
 ### 2.3 Verbi (Coniugazione)
 
 *   **Il sistema del presente (Indicativo)**:
-    *   Desinenze personali (3., 2., 1. persona) -&gt; [Lezione 6](/it/lektionen/lektion06), [Lezione 44](/it/lektionen/lektion44), [Lezione 39](/it/lektionen/lektion39)
-    *   Classi tematiche (1, 4, 6, 10) -&gt; [Lezione 6](/it/lektionen/lektion06), [Lezione 28](/it/lektionen/lektion28)
-    *   Classi atematiche -&gt; [Lezione 17](/it/lektionen/lektion17), [Lezione 33](/it/lektionen/lektion33), [Lezione 7](/it/lektionen/lektion07), [Lezione 31](/it/lektionen/lektion31), [Lezione 8](/it/lektionen/lektion08), [Lezione 30](/it/lektionen/lektion30)
+    *   Desinenze personali (3., 2., 1. persona) → [Lezione 6](/it/lektionen/lektion06), [Lezione 44](/it/lektionen/lektion44), [Lezione 39](/it/lektionen/lektion39)
+    *   Classi tematiche (1, 4, 6, 10) → [Lezione 6](/it/lektionen/lektion06), [Lezione 28](/it/lektionen/lektion28)
+    *   Classi atematiche → [Lezione 17](/it/lektionen/lektion17), [Lezione 33](/it/lektionen/lektion33), [Lezione 7](/it/lektionen/lektion07), [Lezione 31](/it/lektionen/lektion31), [Lezione 8](/it/lektionen/lektion08), [Lezione 30](/it/lektionen/lektion30)
 *   **Altri tempi e modi**:
-    *   **Imperfetto** (Passato) -&gt; [Lezione 32](/it/lektionen/lektion32)
-    *   **Optativo e Imperativo** -&gt; [Lezione 30](/it/lektionen/lektion30), [Lezione 48](/it/lektionen/lektion48)
-    *   **Perfetto** (Singolare/Plurale) -&gt; [Lezione 34](/it/lektionen/lektion34), [Lezione 35](/it/lektionen/lektion35), [Lezione 36](/it/lektionen/lektion36)
-    *   **Perfetto (Duale)** -&gt; [Lezione 60](/it/lektionen/lektion60)
-    *   **Futuro** (Semplice e Perifrastico) -&gt; [Lezione 26](/it/lektionen/lektion26), [Lezione 61](/it/lektionen/lektion61)
-    *   **Aoristo** (Passato) -&gt; [Lezione 54](/it/lektionen/lektion54), [Lezione 55](/it/lektionen/lektion55), [Lezione 56](/it/lektionen/lektion56), [Lezione 57](/it/lektionen/lektion57), [Lezione 58](/it/lektionen/lektion58)
+    *   **Imperfetto** (Passato) → [Lezione 32](/it/lektionen/lektion32)
+    *   **Optativo e Imperativo** → [Lezione 30](/it/lektionen/lektion30), [Lezione 48](/it/lektionen/lektion48)
+    *   **Perfetto** (Singolare/Plurale) → [Lezione 34](/it/lektionen/lektion34), [Lezione 35](/it/lektionen/lektion35), [Lezione 36](/it/lektionen/lektion36)
+    *   **Perfetto (Duale)** → [Lezione 60](/it/lektionen/lektion60)
+    *   **Futuro** (Semplice e Perifrastico) → [Lezione 26](/it/lektionen/lektion26), [Lezione 61](/it/lektionen/lektion61)
+    *   **Aoristo** (Passato) → [Lezione 54](/it/lektionen/lektion54), [Lezione 55](/it/lektionen/lektion55), [Lezione 56](/it/lektionen/lektion56), [Lezione 57](/it/lektionen/lektion57), [Lezione 58](/it/lektionen/lektion58)
 *   **Forme verbali derivate**:
-    *   **Passivo e Causativo** -&gt; [Lezione 10](/it/lektionen/lektion10), [Lezione 28](/it/lektionen/lektion28), [Lezione 29](/it/lektionen/lektion29)
-    *   **Intensivo e Denominativi** -&gt; [Lezione 61](/it/lektionen/lektion61)
-*   **Verbi al duale (Duale)** -&gt; [Lezione 59](/it/lektionen/lektion59), [Lezione 60](/it/lektionen/lektion60)
+    *   **Passivo e Causativo** → [Lezione 10](/it/lektionen/lektion10), [Lezione 28](/it/lektionen/lektion28), [Lezione 29](/it/lektionen/lektion29)
+    *   **Intensivo e Denominativi** → [Lezione 61](/it/lektionen/lektion61)
+*   **Verbi al duale (Duale)** → [Lezione 59](/it/lektionen/lektion59), [Lezione 60](/it/lektionen/lektion60)
 
 ### 2.4 Formazioni nominali e composti
 
@@ -102,10 +102,10 @@ Questa pagina offre una panoramica sistematica di tutti gli argomenti grammatica
 
 La filosofia e la letteratura sanscrita sono spesso redatte in versi. La metrica insegna il ritmo e la struttura di questi versi.
 
-*   **Introduzione e Śloka** -&gt; [Lezione 45](/it/lektionen/lektion45), [Lezione 53](/it/lektionen/lektion53)
-*   **Metriche avanzate** (Trīṣṭubh, Jāgatī) -&gt; [Lezione 54](/it/lektionen/lektion54)
+*   **Introduzione e Śloka** → [Lezione 45](/it/lektionen/lektion45), [Lezione 53](/it/lektionen/lektion53)
+*   **Metriche avanzate** (Trīṣṭubh, Jāgatī) → [Lezione 54](/it/lektionen/lektion54)
 
 ---
 
-&gt; [!TIP] Regola mnemonica
-&gt; Questa panoramica ti aiuta a cercare specificamente i fenomeni grammaticali. Per uno studio cronologico del materiale, segui semplicemente la numerazione delle lezioni nel menu principale.
+> [!TIP] Regola mnemonica
+> Questa panoramica ti aiuta a cercare specificamente i fenomeni grammaticali. Per uno studio cronologico del materiale, segui semplicemente la numerazione delle lezioni nel menu principale.

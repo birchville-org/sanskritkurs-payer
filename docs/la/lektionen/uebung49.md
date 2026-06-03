@@ -71,7 +71,7 @@ Interrogatio regis **शूद्रक** e **विदिशा** ad psittacum 
 **वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥**
 
 > Rex ait: "Sinite haec! Satisfacite curiositati nostrae! Domine, narra nobis ab initio: In qua terra natus es? Quis tibi nomen imposuit? Quis est mater tua? Quomodo Vēdas accepisti? Quomodo doctrinas didicisti? Unde artes acquisivisti? An anteriores nativitates memoras an vota exaudis? An, avium vestimentum induens, latebras habitas? Aut ubi olim habitabas? Aut quot annos natus es? Quomodo in caveam captus es? Et quomodo in manus Cāṇḍālas incidisti? Aut quomodo huc venisti?"
-&gt;
+>
 > Sed Vaiśampāyana, a Domino terrae spontanea curiositate magna reverentia interrogatus, permomentum cogitavit, deinde cum omni reverentia respondit: "Rex, longa est historia. Si te iuvat, aurem mihi praesta!"
 
 ::: media

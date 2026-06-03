@@ -77,7 +77,7 @@ Exempl:
 **Inf. योक्तुम्**
 
 quai da:
-**युग n. -&gt; युग n.:** jug, par, epoca dal mund (datti quatter epocas dal mund:
+**युग n. → युग n.:** jug, par, epoca dal mund (datti quatter epocas dal mund:
 1. **कृत**
 2. **त्रेता**
 3. **द्वापर**
@@ -129,7 +129,7 @@ Representaziun da Yoga.
 **Inf. अञ्जितुम् । अङ्क्तुम्**
 :::
 
-**अञ्ज् + vi -&gt; अञ्ज् + वि** 7Ā **व्यङ्क्ते** : smiar enavos = smiar, distingiar
+**अञ्ज् + vi → अञ्ज् + वि** 7Ā **व्यङ्क्ते** : smiar enavos = smiar, distingiar
 ::: indent
 **PPP व्यक्त :** distingì, sviluppà
 
@@ -158,7 +158,7 @@ Preparaziun per il dansa Kathakali, Kochi.
 **Fut. भोक्ष्यति**
 **Pass. भुज्यते**
 **Kaus. भोजयति**
-**PPP bhukt -&gt; PPP भुक्त**
+**PPP bhukt → PPP भुक्त**
 **Inf. भोक्तुम्**
 
 quai da:

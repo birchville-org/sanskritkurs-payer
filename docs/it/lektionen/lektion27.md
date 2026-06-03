@@ -47,7 +47,7 @@ Jaipur, 1875.
 **Se un'azione o lo stato di una persona o cosa determina il tempo in cui - o le circostanze in cui - un'altra persona o cosa compie un'azione o si trova in un determinato stato, la parola che designa la prima persona o cosa, insieme alla parola che la specifica più da vicino (che spesso è un participio), entra nel locativo (सप्तमी):**
 
 > एवं गच्छति काले = "mentre il tempo scorre così..."
-&gt;
+>
 > तस्मिन्गते = "quando egli era andato via..."
 
 **A volte l'agente (कर्ता) non è esplicitamente indicato:**

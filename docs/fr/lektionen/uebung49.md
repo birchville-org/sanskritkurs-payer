@@ -71,7 +71,7 @@ Questions du roi **शूद्रक** de **विदिशा** au perroquet *
 **वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥**
 
 > Le roi parla : « Laissons cela de côté ! Satisfaites notre curiosité ! Seigneur, racontez-nous depuis le début : Dans quel pays êtes-vous né ? Qui vous a donné le nom ? Qui est votre mère ? Comment avez-vous obtenu les Védas ? Comment vous êtes-vous familiarisé avec les traités ? D’où avez-vous acquis les arts ? Souvenez-vous de naissures antérieures ou exaucez-vous des vœux ? Ou habitez-vous, en portant le vêtement d’un oiseau, un refuge ? Ou où habitiez-vous auparavant ? Ou quel âge avez-vous ? Comment avez-vous été capturé dans une cage ? Et comment êtes-vous tombé entre les mains de Cāṇḍālas ? Ou comment êtes-vous venu ici ? »
-&gt;
+>
 > Vaiśampāyana, interrogé par le seigneur de la Terre avec une curiosité spontanée et un grand respect, réfléchit un instant, puis répondit avec une grande déférence : « Roi, c’est une longue histoire. Si cela vous intéresse, prêtez-moi votre oreille ! »
 
 ::: media

@@ -9,36 +9,36 @@ outline: [2, 3]
 
 ## 1. Фонетика и письмо (Самхита и Липи)
 
-*   **Введение в звуки**: Систематика и произношение -&gt; [Урок 1](/ru/lektionen/lektion01)
+*   **Введение в звуки**: Систематика и произношение → [Урок 1](/ru/lektionen/lektion01)
 *   **Введение в письмо (Деванагари)**:
-    *   Гласные и простые согласные -&gt; [Урок 40](/ru/lektionen/lektion40)
-    *   Сложные согласные (лигатуры) -&gt; [Урок 41](/ru/lektionen/lektion41) и [Урок 42](/ru/lektionen/lektion42)
+    *   Гласные и простые согласные → [Урок 40](/ru/lektionen/lektion40)
+    *   Сложные согласные (лигатуры) → [Урок 41](/ru/lektionen/lektion41) и [Урок 42](/ru/lektionen/lektion42)
 *   **Сандхи (звуковое соединение)**:
-    *   Сандхи конечного **-s/Висарга** -&gt; [Урок 2](/ru/lektionen/lektion02), [Урок 3](/ru/lektionen/lektion03), [Урок 30](/ru/lektionen/lektion30)
-    *   Сандхи **-m, -e, -d** -&gt; [Урок 4](/ru/lektionen/lektion04)
-    *   **Гласный сандхи** -&gt; [Урок 3](/ru/lektionen/lektion03), [Урок 24](/ru/lektionen/lektion24)
-    *   Сандхи **-n** -&gt; [Урок 7](/ru/lektionen/lektion07)
-    *   Сандхи для **назальных** -&gt; [Урок 21](/ru/lektionen/lektion21), [Урок 26](/ru/lektionen/lektion26)
-    *   Церebraлизация (**n -&gt; ṇ / s -&gt; ṣ**) -&gt; [Урок 10](/ru/lektionen/lektion10), [Урок 26](/ru/lektionen/lektion26)
-    *   Сандхи слов (h-, ch-) -&gt; [Урок 44](/ru/lektionen/lektion44), [Урок 51](/ru/lektionen/lektion51)
-    *   **Согласный сандхи** (обобщения) -&gt; [Урок 16](/ru/lektionen/lektion16), [Урок 43](/ru/lektionen/lektion43)
+    *   Сандхи конечного **-s/Висарга** → [Урок 2](/ru/lektionen/lektion02), [Урок 3](/ru/lektionen/lektion03), [Урок 30](/ru/lektionen/lektion30)
+    *   Сандхи **-m, -e, -d** → [Урок 4](/ru/lektionen/lektion04)
+    *   **Гласный сандхи** → [Урок 3](/ru/lektionen/lektion03), [Урок 24](/ru/lektionen/lektion24)
+    *   Сандхи **-n** → [Урок 7](/ru/lektionen/lektion07)
+    *   Сандхи для **назальных** → [Урок 21](/ru/lektionen/lektion21), [Урок 26](/ru/lektionen/lektion26)
+    *   Церebraлизация (**n → ṇ / s → ṣ**) → [Урок 10](/ru/lektionen/lektion10), [Урок 26](/ru/lektionen/lektion26)
+    *   Сандхи слов (h-, ch-) → [Урок 44](/ru/lektionen/lektion44), [Урок 51](/ru/lektionen/lektion51)
+    *   **Согласный сандхи** (обобщения) → [Урок 16](/ru/lektionen/lektion16), [Урок 43](/ru/lektionen/lektion43)
 
 ## 2. Морфология
 
 ### 2.1 Существительные и прилагательные (склонение)
 
-*   **Основы**: Учение о падежах -&gt; [Урок 1](/ru/lektionen/lektion01), [Урок 2](/ru/lektionen/lektion02)
-*   **Основа на -a** (мужской и средний род) -&gt; [Урок 2](/ru/lektionen/lektion02), [Урок 7](/ru/lektionen/lektion07)
-*   **Основа на -i и -u** -&gt; [Урок 3](/ru/lektionen/lektion03), [Урок 27](/ru/lektionen/lektion27), [Урок 52](/ru/lektionen/lektion52)
+*   **Основы**: Учение о падежах → [Урок 1](/ru/lektionen/lektion01), [Урок 2](/ru/lektionen/lektion02)
+*   **Основа на -a** (мужской и средний род) → [Урок 2](/ru/lektionen/lektion02), [Урок 7](/ru/lektionen/lektion07)
+*   **Основа на -i и -u** → [Урок 3](/ru/lektionen/lektion03), [Урок 27](/ru/lektionen/lektion27), [Урок 52](/ru/lektionen/lektion52)
 *   **Согласные основы**:
-    *   Основа на **-mant / -vant** -&gt; [Урок 13](/ru/lektionen/lektion13)
-    *   Основа на **-n** (Rājan, Ātman) -&gt; [Урок 38](/ru/lektionen/lektion38)
-    *   Простые согласные основы -&gt; [Урок 51](/ru/lektionen/lektion51), [Урок 54](/ru/lektionen/lektion54)
-    *   Корневые имена на **-ā, -ī, -ū** -&gt; [Урок 61](/ru/lektionen/lektion61)
-*   **Дуаль (дualьное число)** имён существительных -&gt; [Урок 49](/ru/lektionen/lektion49), [Урок 50](/ru/lektionen/lektion50), [Урок 53](/ru/lektionen/lektion53)
+    *   Основа на **-mant / -vant** → [Урок 13](/ru/lektionen/lektion13)
+    *   Основа на **-n** (Rājan, Ātman) → [Урок 38](/ru/lektionen/lektion38)
+    *   Простые согласные основы → [Урок 51](/ru/lektionen/lektion51), [Урок 54](/ru/lektionen/lektion54)
+    *   Корневые имена на **-ā, -ī, -ū** → [Урок 61](/ru/lektionen/lektion61)
+*   **Дуаль (дualьное число)** имён существительных → [Урок 49](/ru/lektionen/lektion49), [Урок 50](/ru/lektionen/lektion50), [Урок 53](/ru/lektionen/lektion53)
 *   **Числа и степени сравнения**:
-    *   Числительные (количественные/порядковые) -&gt; [Урок 52](/ru/lektionen/lektion52)
-    *   Степени сравнения (компаратив/суперлатив) -&gt; [Урок 53](/ru/lektionen/lektion53)
+    *   Числительные (количественные/порядковые) → [Урок 52](/ru/lektionen/lektion52)
+    *   Степени сравнения (компаратив/суперлатив) → [Урок 53](/ru/lektionen/lektion53)
 
 ### 2.2 Местоимения и наречия
 
@@ -72,15 +72,15 @@ outline: [2, 3]
 ### 2.4 Именные образования и составные слова
 
 *   **Составные слова (Самаса)**:
-    *   **Двандва** (копулятивные составные слова) -&gt; [Урок 5](/ru/lektionen/lektion05), [Урок 9](/ru/lektionen/lektion09)
-    *   **Татпуруша** (детерминативные составные слова) -&gt; [Урок 15](/ru/lektionen/lektion15), [Урок 18](/ru/lektionen/lektion18)
-    *   Упадха-составные слова -&gt; [Урок 51](/ru/lektionen/lektion51)
-    *   **Бхуврихи** (позессивные составные слова) -&gt; [Урок 20](/ru/lektionen/lektion20)
+    *   **Двандва** (копулятивные составные слова) → [Урок 5](/ru/lektionen/lektion05), [Урок 9](/ru/lektionen/lektion09)
+    *   **Татпуруша** (детерминативные составные слова) → [Урок 15](/ru/lektionen/lektion15), [Урок 18](/ru/lektionen/lektion18)
+    *   Упадха-составные слова → [Урок 51](/ru/lektionen/lektion51)
+    *   **Бхуврихи** (позессивные составные слова) → [Урок 20](/ru/lektionen/lektion20)
 *   **Суффиксы и причастия**:
-    *   Важные суффиксы (-a, -ana, -tra, и т.д.) -&gt; [Урок 8](/ru/lektionen/lektion08), [Урок 9](/ru/lektionen/lektion09)
-    *   **PPP** (причастие совершенного времени страдательного залога) -&gt; [Урок 12](/ru/lektionen/lektion12), [Урок 13](/ru/lektionen/lektion13)
-    *   **PPA** (причастие совершенного времени действительного залога) -&gt; [Урок 52](/ru/lektionen/lektion52)
-    *   **Абсолютив и инфинитив** -&gt; [Урок 22](/ru/lektionen/lektion22), [Урок 23](/ru/lektionen/lektion23)
+    *   Важные суффиксы (-a, -ana, -tra, и т.д.) → [Урок 8](/ru/lektionen/lektion08), [Урок 9](/ru/lektionen/lektion09)
+    *   **PPP** (причастие совершенного времени страдательного залога) → [Урок 12](/ru/lektionen/lektion12), [Урок 13](/ru/lektionen/lektion13)
+    *   **PPA** (причастие совершенного времени действительного залога) → [Урок 52](/ru/lektionen/lektion52)
+    *   **Абсолютив и инфинитив** → [Урок 22](/ru/lektionen/lektion22), [Урок 23](/ru/lektionen/lektion23)
 
 ## 3. Синтаксис
 
@@ -102,10 +102,10 @@ outline: [2, 3]
 
 Санскритская философия и литература часто написаны стихами. Метрика изучает ритм и структуру этих стихов.
 
-*   **Введение и Шлока** -&gt; [Урок 45](/ru/lektionen/lektion45), [Урок 53](/ru/lektionen/lektion53)
-*   **Продвинутые метры** (Триштубх, Джгаити) -&gt; [Урок 54](/ru/lektionen/lektion54)
+*   **Введение и Шлока** → [Урок 45](/ru/lektionen/lektion45), [Урок 53](/ru/lektionen/lektion53)
+*   **Продвинутые метры** (Триштубх, Джгаити) → [Урок 54](/ru/lektionen/lektion54)
 
 ---
 
-&gt; [!TIP] Запомни правило
-&gt; Этот обзор помогает тебе целенаправленно искать грамматические явления. Для последовательного изучения материала просто следуй нумерации уроков в главном меню.
+> [!TIP] Запомни правило
+> Этот обзор помогает тебе целенаправленно искать грамматические явления. Для последовательного изучения материала просто следуй нумерации уроков в главном меню.

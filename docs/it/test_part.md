@@ -1,5 +1,5 @@
-&gt; [!INFO] Citazione & Diritti  
-&gt; Questo capitolo fa parte del corso di Sanscrito. Dettagli sul copyright e sullo stile di citazione della versione originale vedi: [Impressum & Copyright](/it/impressum)
+> [!INFO] Citazione & Diritti  
+> Questo capitolo fa parte del corso di Sanscrito. Dettagli sul copyright e sullo stile di citazione della versione originale vedi: [Impressum & Copyright](/it/impressum)
 
 # Lezione 27
 
@@ -14,7 +14,7 @@ Il lokativ (सप्तमी) risponde alle domande:
 
 1\. Il lokativ (सप्तमी) indica, alla domanda “Dove?”, lo spazio (in, su, presso, presso) in cui l’agente (कर्तृ) o l’oggetto di un’azione si trovi o dove l’azione stessa si svolga.
 
-&gt; नगरे = “nella città”
+> नगरे = “nella città”
 
 ![](/images/lekt2701.jpg)  
 Fig.: जयपुरनगरे, 1875  
@@ -22,18 +22,18 @@ Fig.: जयपुरनगरे, 1875
 
 2\. Il lokativ indica, alla domanda “Quando?”, il momento o le condizioni esterne:
 
-&gt; तस्मिन्काले = “a quel momento, in quel tempo”
+> तस्मिन्काले = “a quel momento, in quel tempo”
 
 Qui rientra anche il cosiddetto **Locativus Absolutus**:
 
 Se l’azione o lo stato di una persona o cosa determina il tempo in cui – o le circostanze in cui – un’ALTRA persona o cosa compie un’azione o si trovi in uno stato determinato, la parola che indica la prima persona o cosa si combina con la stessa parola più specifica (spesso un participio) nel lokativ (सप्तमी):
 
-&gt; एवं गच्छति काले = “mentre il tempo così trascorre …”  
-&gt; तस्मिन्गते = “quando era andato …”
+> एवं गच्छति काले = “mentre il tempo così trascorre …”  
+> तस्मिन्गते = “quando era andato …”
 
 A volte l’agente (कर्तृ) non è espresso esplicitamente:
 
-&gt; एवं सति = “dato che è così”
+> एवं सति = “dato che è così”
 
 Il **Locativus Absolutus** deve essere tradotto a seconda del contesto con “mentre” (es. participo presente), “dopo che”, “quando” (es. PPP), “dato che”, “perché”, “sebbene”, “se” ecc.
 
@@ -46,4 +46,4 @@ Rajasthan
 
 3\. Il lokativ risponde anche alla domanda “In riferimento a cosa?” e similari:
 
-&gt; अस्ति तस्य पुत्रे स्नेहः = “Lui ha affetto (स्नेह m.) per suo figlio”
+> अस्ति तस्य पुत्रे स्नेहः = “Lui ha affetto (स्नेह m.) per suo figlio”

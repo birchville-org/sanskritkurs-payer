@@ -9,19 +9,19 @@ Cette page offre un aperçu systématique de tous les thèmes grammaticaux du co
 
 ## 1. Phonétique et Écriture (Saṃhitā & Lipi)
 
-*   **Introduction aux sons** : Systématique et prononciation -&gt; [Leçon 1](/fr/lektionen/lektion01)
+*   **Introduction aux sons** : Systématique et prononciation → [Leçon 1](/fr/lektionen/lektion01)
 *   **Introduction à l'écriture (Devanāgarī)** :
-    *   Voyelles et consonnes simples -&gt; [Leçon 40](/fr/lektionen/lektion40)
-    *   Consonnes composées (ligatures) -&gt; [Leçon 41](/fr/lektionen/lektion41) & [Leçon 42](/fr/lektionen/lektion42)
+    *   Voyelles et consonnes simples → [Leçon 40](/fr/lektionen/lektion40)
+    *   Consonnes composées (ligatures) → [Leçon 41](/fr/lektionen/lektion41) & [Leçon 42](/fr/lektionen/lektion42)
 *   **Sandhi (liaison phonétique)** :
-    *   Sandhi de la finale **-s/Visarga** -&gt; [Leçon 2](/fr/lektionen/lektion02), [Leçon 3](/fr/lektionen/lektion03), [Leçon 30](/fr/lektionen/lektion30)
-    *   Sandhi de **-m, -e, -d** -&gt; [Leçon 4](/fr/lektionen/lektion04)
-    *   **Sandhi vocalique** -&gt; [Leçon 3](/fr/lektionen/lektion03), [Leçon 24](/fr/lektionen/lektion24)
-    *   Sandhi de **-n** -&gt; [Leçon 7](/fr/lektionen/lektion07)
-    *   Sandhi pour les **Nasales** -&gt; [Leçon 21](/fr/lektionen/lektion21), [Leçon 26](/fr/lektionen/lektion26)
-    *   Cérébralisation (**n -&gt; ṇ / s -&gt; ṣ**) -&gt; [Leçon 10](/fr/lektionen/lektion10), [Leçon 26](/fr/lektionen/lektion26)
-    *   Sandhi lexical (h-, ch-) -&gt; [Leçon 44](/fr/lektionen/lektion44), [Leçon 51](/fr/lektionen/lektion51)
-    *   **Sandhi consonantique** (résumés) -&gt; [Leçon 16](/fr/lektionen/lektion16), [Leçon 43](/fr/lektionen/lektion43)
+    *   Sandhi de la finale **-s/Visarga** → [Leçon 2](/fr/lektionen/lektion02), [Leçon 3](/fr/lektionen/lektion03), [Leçon 30](/fr/lektionen/lektion30)
+    *   Sandhi de **-m, -e, -d** → [Leçon 4](/fr/lektionen/lektion04)
+    *   **Sandhi vocalique** → [Leçon 3](/fr/lektionen/lektion03), [Leçon 24](/fr/lektionen/lektion24)
+    *   Sandhi de **-n** → [Leçon 7](/fr/lektionen/lektion07)
+    *   Sandhi pour les **Nasales** → [Leçon 21](/fr/lektionen/lektion21), [Leçon 26](/fr/lektionen/lektion26)
+    *   Cérébralisation (**n → ṇ / s → ṣ**) → [Leçon 10](/fr/lektionen/lektion10), [Leçon 26](/fr/lektionen/lektion26)
+    *   Sandhi lexical (h-, ch-) → [Leçon 44](/fr/lektionen/lektion44), [Leçon 51](/fr/lektionen/lektion51)
+    *   **Sandhi consonantique** (résumés) → [Leçon 16](/fr/lektionen/lektion16), [Leçon 43](/fr/lektionen/lektion43)
 
 ## 2. Morphologie
 
@@ -43,13 +43,13 @@ Cette page offre un aperçu systématique de tous les thèmes grammaticaux du co
 ### 2.2 Pronoms & Adverbes
 
 *   **Pronoms** :
-    *   Pronoms interrogatifs et démonstratifs -&gt; [Leçon 4](/fr/lektionen/lektion04)
-    *   Pronoms relatifs (yad) -&gt; [Leçon 19](/fr/lektionen/lektion19)
-    *   Pronoms personnels (1ère & 2ème personne) -&gt; [Leçon 46](/fr/lektionen/lektion46), [Leçon 47](/fr/lektionen/lektion47)
-    *   Pronoms indéfinis -&gt; [Leçon 37](/fr/lektionen/lektion37)
+    *   Pronoms interrogatifs et démonstratifs → [Leçon 4](/fr/lektionen/lektion04)
+    *   Pronoms relatifs (yad) → [Leçon 19](/fr/lektionen/lektion19)
+    *   Pronoms personnels (1ère & 2ème personne) → [Leçon 46](/fr/lektionen/lektion46), [Leçon 47](/fr/lektionen/lektion47)
+    *   Pronoms indéfinis → [Leçon 37](/fr/lektionen/lektion37)
 *   **Adverbes & Vocatif** :
-    *   Formation des adverbes -&gt; [Leçon 37](/fr/lektionen/lektion37), [Leçon 52](/fr/lektionen/lektion52)
-    *   Formules de politesse & Vocatif -&gt; [Leçon 21](/fr/lektionen/lektion21), [Leçon 44](/fr/lektionen/lektion44)
+    *   Formation des adverbes → [Leçon 37](/fr/lektionen/lektion37), [Leçon 52](/fr/lektionen/lektion52)
+    *   Formules de politesse & Vocatif → [Leçon 21](/fr/lektionen/lektion21), [Leçon 44](/fr/lektionen/lektion44)
 
 ### 2.3 Verbes (Conjugaison)
 
@@ -102,10 +102,10 @@ Cette page offre un aperçu systématique de tous les thèmes grammaticaux du co
 
 La philosophie et la littérature sanskrites sont souvent rédigées en vers. La métrique enseigne le rythme et la structure de ces vers.
 
-*   **Introduction & Śloka** -&gt; [Leçon 45](/fr/lektionen/lektion45), [Leçon 53](/fr/lektionen/lektion53)
-*   **Métriques avancées** (Trīṣṭubh, Jāgatī) -&gt; [Leçon 54](/fr/lektionen/lektion54)
+*   **Introduction & Śloka** → [Leçon 45](/fr/lektionen/lektion45), [Leçon 53](/fr/lektionen/lektion53)
+*   **Métriques avancées** (Trīṣṭubh, Jāgatī) → [Leçon 54](/fr/lektionen/lektion54)
 
 ---
 
-&gt; [!TIP] Règle mnémotechnique
-&gt; Ce résumé t’aide à consulter de manière ciblée les phénomènes grammaticaux. Pour une étude chronologique du contenu, suis simplement la numérotation des leçons dans le menu principal.
+> [!TIP] Règle mnémotechnique
+> Ce résumé t’aide à consulter de manière ciblée les phénomènes grammaticaux. Pour une étude chronologique du contenu, suis simplement la numérotation des leçons dans le menu principal.

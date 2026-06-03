@@ -47,7 +47,7 @@ Jaipur, 1875.
 **Si une action ou un état d'une personne ou d'une chose détermine le moment auquel — ou les circonstances dans lesquelles — une AUTRE personne ou chose accomplit une action ou se trouve dans un état particulier, alors le mot désignant la première personne ou chose, conjointement avec le mot la précisant davantage (qui est souvent un participe), se met au cas locatif (सप्तमी) :**
 
 > एवं गच्छति काले = "pendant que le temps s'écoule..."
-&gt;
+>
 > तस्मिन्गते = "quand il fut parti..."
 
 **Parfois, l'agent (कर्ता) n'est pas explicitement désigné :**

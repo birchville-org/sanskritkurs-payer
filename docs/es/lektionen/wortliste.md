@@ -2006,7 +2006,7 @@ de lo cual:
 **Inf. योक्तुम्**
 
 de ello:
-**युग n. -&gt; युग n.:** yugo, par, edad del mundo (hay cuatro edades del mundo:
+**युग n. → युग n.:** yugo, par, edad del mundo (hay cuatro edades del mundo:
 1. **कृत**
 2. **त्रेता**
 3. **द्वापर**
@@ -2057,7 +2057,7 @@ Fig.: योगः
 **Inf. अञ्जितुम् । अङ्क्तुम्**
 :::
 
-**अञ्ज् + vi -&gt; अञ्ज् + वि** 7Ā **व्यङ्क्ते** : untar por separado = maquillarse, diferenciarse
+**अञ्ज् + vi → अञ्ज् + वि** 7Ā **व्यङ्क्ते** : untar por separado = maquillarse, diferenciarse
 ::: indent
 **PPP व्यक्त :** diferenciado, desplegado
 
@@ -2085,7 +2085,7 @@ Fig.: व्यञ्जनम्
 **Fut. भोक्ष्यति**
 **Pass. भुज्यते**
 **Kaus. भोजयति**
-**PPP bhukt -&gt; PPP भुक्त**
+**PPP bhukt → PPP भुक्त**
 **Inf. भोक्तुम्**
 
 de ello:

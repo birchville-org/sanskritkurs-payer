@@ -71,7 +71,7 @@ Fatschas dal re **शूद्रक** da **विदिशा** al papegial **�
 **वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥**
 
 > Il re ha discurrì: «Lassian tut quai esser! Sodisfatscha voss curius! Signur, raquintai nus a partir dal cumenzament: En qual pajais vus essis naschids? Tgi vus ha dà il num? Tgi è vossa mamma? Co avais vus gudagnà ils Veds? Co vus avais vus familiarisà cun las ovras da la scienza? Da nua avais vus gudagnà las arts? Pudais vus vossas naschientschas avantas u vossas disira? Oppu habitatis vus, endossond l'abits da in uccel, in refugium? Oppu nua avais vus abità avant? Oppu co vus avais voss'edad? Co vus essis vus stà en ina gabbia? E co vus essis vus arrivads en las mauns da Cāṇḍālas? Oppu co vus essis vus arrivà qua?»
-&gt;
+>
 > Vaiśampāyana, che era stà dumandà dal signur da la terra cun curiusa spontana e cun grond respèct, ha pensà in moment e ha alura respondì cun grond respèct: «Re, quai è ina istorgia lunga. Sche vus avais interès, emprustai a vus voss aureglia!»
 
 ::: media

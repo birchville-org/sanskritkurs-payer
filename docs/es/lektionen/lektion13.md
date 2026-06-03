@@ -199,15 +199,15 @@ Aprenda las siguientes palabras:
 - **asura** m. असुर : demonio
 
 > **ASURA.** 'Espiritual, divino.'
-&gt;
+>
 > En las partes más antiguas del Ṛgveda, este término se utiliza para el espíritu supremo, y es lo mismo que el Ahura de los zoroastrianos. En el sentido de 'dios', se aplicó a varias de las deidades principales, como Indra, Agni y Varuṇa. Posteriormente adquirió un significado completamente opuesto, y pasó a significar, como ahora, un demonio o enemigo de los dioses.
-&gt;
+>
 > La palabra se encuentra con esta significación en las partes posteriores del Ṛgveda, particularmente en el último libro, y también en el Atharvaveda. Los Brāhmaṇas le atribuyen el mismo significado, y registran muchos conflictos entre los Asuras y los dioses. Según el Taittirīya Brāhmaṇa, el aliento *(asu)* de Prajapati se volvió vivo, y "con ese aliento creó a los Asuras". En otra parte de la misma obra se dice que Prajāpati "quedó embarazado. Creó Asuras de su abdomen". El Śatapatha Brāhmaṇa coincide con la declaración anterior, y afirma que "creó Asuras de su aliento inferior". El Taittirīya Āraṇyaka representa que Prajāpati creó dioses, hombres, padres, Gandharvas y Apsarases del agua, y que los Asuras, Rakṣasas y piśācas surgieron de las gotas que se derramaron. La declaración de Manu es que fueron creados por los Prajāpatis.
-&gt;
+>
 > Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). La cuenta del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (Prajāpati) vientre. *Asu* es declarado por el Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras". La palabra ha sido utilizada durante mucho tiempo como un nombre general para los enemigos de los dioses, incluyendo a los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo a los Rakṣasas descendientes de Pulastya.
-&gt;
+>
 > En este sentido, se ha encontrado una derivación diferente para ella: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios;' de ahí, según algunos, surgió la palabra *sura*, comúnmente utilizada para 'un dios'."
-&gt;
+>
 > [Fuente: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media

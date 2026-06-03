@@ -47,7 +47,7 @@ Jaipur, 1875.
 **Dacă acțiunea sau starea unei persoane sau lucruri determină timpul în care - sau împrejurările în care - o ALTĂ persoan sau lucru săvârșește o acțiune sau se află într-o anumită stare, atunci cuvântul care indică prima persoană sau lucru, împreună cu cuvântul care o specifică mai detaliat (frecvent un participiu), apare în cazul locativ (सप्तमी):**
 
 > एवं गच्छति काले = "pe măsură ce timpul trece..."
-&gt;
+>
 > तस्मिन्गते = "după ce el plecase..."
 
 **Uneori, agentul (कर्ता) nu este indicat explicit:**

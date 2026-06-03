@@ -47,7 +47,7 @@ Jaipur, 1875.
 **Si la acción o el estado de una persona o cosa determina el tiempo al cual — o las circunstancias bajo las cuales — otra persona o cosa realiza una acción o se encuentra en un estado determinado, entonces la palabra que designa la primera persona o cosa, junto con la palabra que la especifica más estrechamente (frecuentemente un participio), aparece en locativo (सप्तमी):**
 
 > एवं गच्छति काले = "mientras el tiempo transcurre así..."
-&gt;
+>
 > तस्मिन्गते = "cuando él se había ido..."
 
 **A veces el agente (कर्ता) no se designa explícitamente:**

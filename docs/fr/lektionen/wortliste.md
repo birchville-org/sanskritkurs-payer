@@ -141,7 +141,7 @@ Fig. : S'agissait-il de la plante védique du Soma ? : Amanite tue-mouches : *Am
 - **phala** n. फल : fruit (aussi au sens figuré : fruit (karmique) d'une action)
 - **nṛtya** n. नृत्य : danse
 - **svarga** m. स्वर्ग : ciel
-- **naraka** m. नरक : enfer (selon une conception hindoue, l'Univers a la forme d'un œuf (**Brahmāṇḍa** m.n. = ब्रह्माण्ड = "Œuf de Brahmā") : au-dessus de la Terre se trouvent six cieux avec une béatitude croissante, en dessous de la Terre se trouvent sept所谓的 **pātāla** n. = पाताल, demeures des **nāga** m. = नाग (serpents) et autres êtres mythiques, parmi lesquels se trouvent sept enfers avec des tourments croissants)
+- **naraka** m. नरक : enfer (selon une conception hindoue, l'Univers a la forme d'un œuf (**Brahmāṇḍa** m.n. = ब्रह्माण्ड = "Œuf de Brahmā") : au-dessus de la Terre se trouvent six cieux avec une béatitude croissante, en dessous de la Terre se trouvent sept **pātāla** n. = पाताल, demeures des **nāga** m. = नाग (serpents) et autres êtres mythiques, parmi lesquels se trouvent sept enfers avec des tourments croissants)
 - **aṅga** n. अङ्ग : membre du corps, composant ; aussi = **vedāṅga** = वेदाङ्ग
 - **gam** 1 P (gacchati) गम् गच्छति : aller (Selon la classification verbale indigène, il appartient à la classe de présent 1, mais en réalité c'est une formation avec un suffixe de formation de radical de présent **-ccha-** : **gam** » forme profonde (**gm** ») **ga-ccha-ti**)
 
@@ -1853,7 +1853,7 @@ dont :
 **Inf. योक्तुम्**
 
 dont :
-**युग n. -&gt; युग n.** : joug, paire, âge du monde (il y a quatre âges du monde :
+**युग n. → युग n.** : joug, paire, âge du monde (il y a quatre âges du monde :
 1. **कृत**
 2. **त्रेता**
 3. **द्वापर**
@@ -1905,7 +1905,7 @@ Représentation de Yoga.
 **Inf. अञ्जितुम् । अङ्क्तुम्**
 :::
 
-**अञ्ज् + vi -&gt; अञ्ज् + वि** 7Ā **व्यङ्क्ते** : étaler = se maquiller, se distinguer
+**अञ्ज् + vi → अञ्ज् + वि** 7Ā **व्यङ्क्ते** : étaler = se maquiller, se distinguer
 ::: indent
 **PPP व्यक्त** : distingué, développé
 
@@ -1934,7 +1934,7 @@ Préparation à la danse Kathakali, Kochi.
 **Fut. भोक्ष्यति**
 **Pass. भुज्यते**
 **Kaus. भोजयति**
-**PPP bhukt -&gt; PPP भुक्त**
+**PPP bhukt → PPP भुक्त**
 **Inf. भोक्तुम्**
 
 dont :

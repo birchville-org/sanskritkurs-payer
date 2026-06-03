@@ -599,16 +599,16 @@ Imprendì las suandantas vuschs:
 - **asura** m. असुर : demon
 
 > **ASURA.** 'Spirital, divin.'
-&gt;
-&gt; En las partas pli veglias dal Ṛgveda questa vusch vegn duvrada per il spirit suprem, ed è la medema sco l'Ahura dals Zoroastrians. En il sens da 'diu' ella è aplicada a blers dals dius principals, sco Indra, Agni, e Varuṇa. Posteriuramain ha ella accumplì in sens totalmain oppost, e vegnida a significar, sco ussa, in demon u inimic dals dius.
-&gt;
-&gt; La vusch sa chatta cun quest significat en las partas pli novas dal Ṛgveda, particuleramain en l'ultima libra, ed er en l'Atharvaveda. Ils Brāhmaṇas attachan il medem significat, e registran bleras cumbattiments tranter ils Asuras e dius. Secund il Taittirīya Brāhmaṇa, il spira *(asu)* da Prajapati è daventà viv, e "cun quest spira ha el creat mes Asuras." En in'autra part da la medema ovra è ditg che Prajāpati "è daventà gravida. El ha creat Asuras da ses abdomen." Il Śatapatha Brāhmaṇa concorda cun la decleraziun anteriura, e declera che "el ha creat Asuras da ses spira inferiur." Il Taittirīya Āraṇyaka represchenta che Prajāpati ha creat dius, umens, patris, Gandharvas, e Apsarases da aua, e che ils Asuras, Rakṣasas, e piśācas èn naschids da las guttas che èn stentas. La decleraziun da Manu è che els èn stads creats dals Prajāpatis.
-&gt;
-&gt; Secund il Viṣṇu Purāṇa, els èn stads producids dal gremel da Brahma (prajāpati). La relaziun dal Vāyu Purāṇa è: "Asuras èn stads per l'emprim producids sco figls dal (Prajāpati's) gremel. *Asu* è declerà da Brāhmaṇa sco significar spira. Da questas essenzas èn ellas producidas; perquai ellas èn Asuras." La vusch è da temp lunga duvrada sco num general per ils inimics dals dius, includend ils Daityas e Danavas ed autras discendents da Kaśyapa, ma betg includend ils Rakṣasas discendents da Pulastya.
-&gt;
-&gt; En quest sens è ina derivaziun differenta chattada per ella: la fontauna n'è betg pli asu, 'spira', ma l'inizial *a* è prendida sco il prefix negativ, e *asura* significar 'betg in diu;' perquai, secund blers, è naschida la vusch *sura*, comunamain duvrada per 'in diu.'"
-&gt;
-&gt; [Sursa: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+>
+> En las partas pli veglias dal Ṛgveda questa vusch vegn duvrada per il spirit suprem, ed è la medema sco l'Ahura dals Zoroastrians. En il sens da 'diu' ella è aplicada a blers dals dius principals, sco Indra, Agni, e Varuṇa. Posteriuramain ha ella accumplì in sens totalmain oppost, e vegnida a significar, sco ussa, in demon u inimic dals dius.
+>
+> La vusch sa chatta cun quest significat en las partas pli novas dal Ṛgveda, particuleramain en l'ultima libra, ed er en l'Atharvaveda. Ils Brāhmaṇas attachan il medem significat, e registran bleras cumbattiments tranter ils Asuras e dius. Secund il Taittirīya Brāhmaṇa, il spira *(asu)* da Prajapati è daventà viv, e "cun quest spira ha el creat mes Asuras." En in'autra part da la medema ovra è ditg che Prajāpati "è daventà gravida. El ha creat Asuras da ses abdomen." Il Śatapatha Brāhmaṇa concorda cun la decleraziun anteriura, e declera che "el ha creat Asuras da ses spira inferiur." Il Taittirīya Āraṇyaka represchenta che Prajāpati ha creat dius, umens, patris, Gandharvas, e Apsarases da aua, e che ils Asuras, Rakṣasas, e piśācas èn naschids da las guttas che èn stentas. La decleraziun da Manu è che els èn stads creats dals Prajāpatis.
+>
+> Secund il Viṣṇu Purāṇa, els èn stads producids dal gremel da Brahma (prajāpati). La relaziun dal Vāyu Purāṇa è: "Asuras èn stads per l'emprim producids sco figls dal (Prajāpati's) gremel. *Asu* è declerà da Brāhmaṇa sco significar spira. Da questas essenzas èn ellas producidas; perquai ellas èn Asuras." La vusch è da temp lunga duvrada sco num general per ils inimics dals dius, includend ils Daityas e Danavas ed autras discendents da Kaśyapa, ma betg includend ils Rakṣasas discendents da Pulastya.
+>
+> En quest sens è ina derivaziun differenta chattada per ella: la fontauna n'è betg pli asu, 'spira', ma l'inizial *a* è prendida sco il prefix negativ, e *asura* significar 'betg in diu;' perquai, secund blers, è naschida la vusch *sura*, comunamain duvrada per 'in diu.'"
+>
+> [Sursa: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.jpg)
@@ -2071,7 +2071,7 @@ davon:
 **Inf. योक्तुम्**
 
 quai da:
-**युग n. -&gt; युग n.:** jug, par, epoca dal mund (datti quatter epocas dal mund:
+**युग n. → युग n.:** jug, par, epoca dal mund (datti quatter epocas dal mund:
 1. **कृत**
 2. **त्रेता**
 3. **द्वापर**
@@ -2123,7 +2123,7 @@ Representaziun da Yoga.
 **Inf. अञ्जितुम् । अङ्क्तुम्**
 :::
 
-**अञ्ज् + vi -&gt; अञ्ज् + वि** 7Ā **व्यङ्क्ते** : smiar enavos = smiar, distingiar
+**अञ्ज् + vi → अञ्ज् + वि** 7Ā **व्यङ्क्ते** : smiar enavos = smiar, distingiar
 ::: indent
 **PPP व्यक्त :** distingì, sviluppà
 
@@ -2152,7 +2152,7 @@ Preparaziun per il dansa Kathakali, Kochi.
 **Fut. भोक्ष्यति**
 **Pass. भुज्यते**
 **Kaus. भोजयति**
-**PPP bhukt -&gt; PPP भुक्त**
+**PPP bhukt → PPP भुक्त**
 **Inf. भोक्तुम्**
 
 quai da:

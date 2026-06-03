@@ -75,7 +75,7 @@ def get_all_md_files():
     """Alle .md-Dateien in docs/ ausser docs/lektionen/ (DE ist immutable)."""
     files = []
     for lang_dir in (ROOT / 'docs').iterdir():
-        if not lang_dir.is_dir() or lang_dir.name in ('.vitepress', 'public', 'qa'):
+        if not lang_dir.is_dir() or lang_dir.name in ('.vitepress', 'public', 'qa', 'lektionen'):
             continue
         for f in lang_dir.rglob('*.md'):
             files.append(f)

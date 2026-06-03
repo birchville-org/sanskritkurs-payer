@@ -1,5 +1,5 @@
-&gt; [!INFO] Cita y derechos  
-&gt; Este capítulo forma parte del curso de sánscrito. Detalles sobre los derechos de autor y la forma de citar la versión original véase: [Aviso legal y derechos de autor](/es/impressum)
+> [!INFO] Cita y derechos  
+> Este capítulo forma parte del curso de sánscrito. Detalles sobre los derechos de autor y la forma de citar la versión original véase: [Aviso legal y derechos de autor](/es/impressum)
 
 # Lección 27
 
@@ -14,7 +14,7 @@ El locativo (सप्तमी) responde a las preguntas:
 
 1\. El locativo (सप्तमी) designa, ante la pregunta “¿dónde?”, el espacio (en, sobre, junto a) en el que el agente (कर्तृ) o el objeto de una acción se encuentran o donde la acción misma se lleva a cabo.
 
-&gt; नगरे = "en la ciudad"
+> नगरे = "en la ciudad"
 
 ![](/images/lekt2701.jpg)  
 Figura: जयपुरनगरे, 1875  
@@ -22,19 +22,19 @@ Figura: जयपुरनगरे, 1875
 
 2\. El locativo designa, ante la pregunta “¿cuándo?”, el momento o las circunstancias externas:
 
-&gt; तस्मिन्काले = "en ese momento, en esa época"
+> तस्मिन्काले = "en ese momento, en esa época"
 
 Aquí también se incluye el llamado **Locativus Absolutus**:
 
 Cuando la acción o el estado de una persona o cosa determina el tiempo al que —o las circunstancias bajo las cuales— otra persona o cosa realiza una acción o se encuentra en un determinado estado, la palabra que designa a la primera persona o cosa se combina con la palabra que lo especifica más precisamente (que con frecuencia es un participio) en el locativo (सप्तमी):
 
-&gt; एवं गच्छति काले = "mientras pasa el tiempo …"  
-&gt; 
-&gt; तस्मिन्गते = "cuando él había ido …"
+> एवं गच्छति काले = "mientras pasa el tiempo …"  
+> 
+> तस्मिन्गते = "cuando él había ido …"
 
 A veces el agente (कर्तृ) no se menciona explícitamente:
 
-&gt; एवं सति = "como resulta"
+> एवं सति = "como resulta"
 
 El **Locativus Absolutus** debe traducirse según el contexto con “mientras” (p. ej. participio presente), “después de que”, “cuando” (p. ej. participio pasado), “ya que”, “porque”, “aunque”, “si”, etc.
 
@@ -47,4 +47,4 @@ Rajasthan
 
 3\. El locativo también responde a la pregunta “¿en relación a qué?” y similares:
 
-&gt; अस्ति तस्य पुत्रे स्नेहः = "Él tiene amor (स्नेह m.) por su hijo"
+> अस्ति तस्य पुत्रे स्नेहः = "Él tiene amor (स्नेह m.) por su hijo"

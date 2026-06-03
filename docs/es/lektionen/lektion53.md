@@ -720,5 +720,5 @@ Alois Maria Payer
 ::: deleteme-box
 
 
-**Payer, Alois &lt;1944-&gt;:** Curso de sánscrito. -- Lección 53 (Vacaciones semestrales). -- Versión del 19-01-2009. -- Fuente de la imagen de la tabla original 53.9: Captura de pantalla de la fuente original (Payer).
+**Payer, Alois &lt;1944→:** Curso de sánscrito. -- Lección 53 (Vacaciones semestrales). -- Versión del 19-01-2009. -- Fuente de la imagen de la tabla original 53.9: Captura de pantalla de la fuente original (Payer).
 :::

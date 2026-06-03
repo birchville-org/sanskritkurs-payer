@@ -9,19 +9,19 @@ Questa pagina offra ina vista sistematica davart tut ils argumets grammaticals d
 
 ## 1. Phonetica e Scriptura (Saṃhitā e Lipi)
 
-*   **Introducziun als sons**: Sistematica e pronunzia -&gt; [Lecziun 1](/rm/lektionen/lektion01)
+*   **Introducziun als sons**: Sistematica e pronunzia → [Lecziun 1](/rm/lektionen/lektion01)
 *   **Introducziun a la scriptura (Devanāgarī)**:
-    *   Vocalas e consonantas simplas -&gt; [Lecziun 40](/rm/lektionen/lektion40)
-    *   Consonantas cumponidas (ligaturas) -&gt; [Lecziun 41](/rm/lektionen/lektion41) e [Lecziun 42](/rm/lektionen/lektion42)
+    *   Vocalas e consonantas simplas → [Lecziun 40](/rm/lektionen/lektion40)
+    *   Consonantas cumponidas (ligaturas) → [Lecziun 41](/rm/lektionen/lektion41) e [Lecziun 42](/rm/lektionen/lektion42)
 *   **Sandhi (cumbinaziun da sons)**:
-    *   Sandhi da **-s/Visarga** final -&gt; [Lecziun 2](/rm/lektionen/lektion02), [Lecziun 3](/rm/lektionen/lektion03), [Lecziun 30](/rm/lektionen/lektion30)
-    *   Sandhi da **-m, -e, -d** -&gt; [Lecziun 4](/rm/lektionen/lektion04)
-    *   **Sandhi vocalic** -&gt; [Lecziun 3](/rm/lektionen/lektion03), [Lecziun 24](/rm/lektionen/lektion24)
-    *   Sandhi da **-n** -&gt; [Lecziun 7](/rm/lektionen/lektion07)
-    *   Sandhi per **nasalas** -&gt; [Lecziun 21](/rm/lektionen/lektion21), [Lecziun 26](/rm/lektionen/lektion26)
-    *   Cerebralisaiziun (**n -&gt; ṇ / s -&gt; ṣ**) -&gt; [Lecziun 10](/rm/lektionen/lektion10), [Lecziun 26](/rm/lektionen/lektion26)
-    *   Sandhi da paraulas (h-, ch-) -&gt; [Lecziun 44](/rm/lektionen/lektion44), [Lecziun 51](/rm/lektionen/lektion51)
-    *   **Sandhi consonantic** (resumaziuns) -&gt; [Lecziun 16](/rm/lektionen/lektion16), [Lecziun 43](/rm/lektionen/lektion43)
+    *   Sandhi da **-s/Visarga** final → [Lecziun 2](/rm/lektionen/lektion02), [Lecziun 3](/rm/lektionen/lektion03), [Lecziun 30](/rm/lektionen/lektion30)
+    *   Sandhi da **-m, -e, -d** → [Lecziun 4](/rm/lektionen/lektion04)
+    *   **Sandhi vocalic** → [Lecziun 3](/rm/lektionen/lektion03), [Lecziun 24](/rm/lektionen/lektion24)
+    *   Sandhi da **-n** → [Lecziun 7](/rm/lektionen/lektion07)
+    *   Sandhi per **nasalas** → [Lecziun 21](/rm/lektionen/lektion21), [Lecziun 26](/rm/lektionen/lektion26)
+    *   Cerebralisaiziun (**n → ṇ / s → ṣ**) → [Lecziun 10](/rm/lektionen/lektion10), [Lecziun 26](/rm/lektionen/lektion26)
+    *   Sandhi da paraulas (h-, ch-) → [Lecziun 44](/rm/lektionen/lektion44), [Lecziun 51](/rm/lektionen/lektion51)
+    *   **Sandhi consonantic** (resumaziuns) → [Lecziun 16](/rm/lektionen/lektion16), [Lecziun 43](/rm/lektionen/lektion43)
 
 ## 2. Morfologia (Morfologia)
 
@@ -43,31 +43,31 @@ Questa pagina offra ina vista sistematica davart tut ils argumets grammaticals d
 ### 2.2 Pronoms & Adverbis
 
 *   **Pronoms**:
-    *   Pronoms interrogativs e demonstrativs -&gt; [Lecziun 4](/rm/lektionen/lektion04)
-    *   Pronoms relativ (yad) -&gt; [Lecziun 19](/rm/lektionen/lektion19)
-    *   Pronoms persunalas (1. e 2. persuna) -&gt; [Lecziun 46](/rm/lektionen/lektion46), [Lecziun 47](/rm/lektionen/lektion47)
-    *   Pronoms indefinids -&gt; [Lecziun 37](/rm/lektionen/lektion37)
+    *   Pronoms interrogativs e demonstrativs → [Lecziun 4](/rm/lektionen/lektion04)
+    *   Pronoms relativ (yad) → [Lecziun 19](/rm/lektionen/lektion19)
+    *   Pronoms persunalas (1. e 2. persuna) → [Lecziun 46](/rm/lektionen/lektion46), [Lecziun 47](/rm/lektionen/lektion47)
+    *   Pronoms indefinids → [Lecziun 37](/rm/lektionen/lektion37)
 *   **Adverbis e salutaziun**:
-    *   Furmaziun d'adverbis -&gt; [Lecziun 37](/rm/lektionen/lektion37), [Lecziun 52](/rm/lektionen/lektion52)
-    *   Salutaziun cortesa e vocativ -&gt; [Lecziun 21](/rm/lektionen/lektion21), [Lecziun 44](/rm/lektionen/lektion44)
+    *   Furmaziun d'adverbis → [Lecziun 37](/rm/lektionen/lektion37), [Lecziun 52](/rm/lektionen/lektion52)
+    *   Salutaziun cortesa e vocativ → [Lecziun 21](/rm/lektionen/lektion21), [Lecziun 44](/rm/lektionen/lektion44)
 
 ### 2.3 Verbs (Coniugaziun)
 
 *   **Il sistem dal present (Indicativ)**:
-    *   Desinenzas persunalas (3., 2., 1. persuna) -&gt; [Lecziun 6](/rm/lektionen/lektion06), [Lecziun 44](/rm/lektionen/lektion44), [Lecziun 39](/rm/lektionen/lektion39)
-    *   Classes tematicas (1, 4, 6, 10) -&gt; [Lecziun 6](/rm/lektionen/lektion06), [Lecziun 28](/rm/lektionen/lektion28)
-    *   Classes atematicas -&gt; [Lecziun 17](/rm/lektionen/lektion17), [Lecziun 33](/rm/lektionen/lektion33), [Lecziun 7](/rm/lektionen/lektion07), [Lecziun 31](/rm/lektionen/lektion31), [Lecziun 8](/rm/lektionen/lektion08), [Lecziun 30](/rm/lektionen/lektion30)
+    *   Desinenzas persunalas (3., 2., 1. persuna) → [Lecziun 6](/rm/lektionen/lektion06), [Lecziun 44](/rm/lektionen/lektion44), [Lecziun 39](/rm/lektionen/lektion39)
+    *   Classes tematicas (1, 4, 6, 10) → [Lecziun 6](/rm/lektionen/lektion06), [Lecziun 28](/rm/lektionen/lektion28)
+    *   Classes atematicas → [Lecziun 17](/rm/lektionen/lektion17), [Lecziun 33](/rm/lektionen/lektion33), [Lecziun 7](/rm/lektionen/lektion07), [Lecziun 31](/rm/lektionen/lektion31), [Lecziun 8](/rm/lektionen/lektion08), [Lecziun 30](/rm/lektionen/lektion30)
 *   **Autras tempus & modi**:
-    *   **Imperfect** (passà) -&gt; [Lecziun 32](/rm/lektionen/lektion32)
-    *   **Optativ & Imperativ** -&gt; [Lecziun 30](/rm/lektionen/lektion30), [Lecziun 48](/rm/lektionen/lektion48)
-    *   **Perfect** (singular/plural) -&gt; [Lecziun 34](/rm/lektionen/lektion34), [Lecziun 35](/rm/lektionen/lektion35), [Lecziun 36](/rm/lektionen/lektion36)
-    *   **Perfect (dual)** -&gt; [Lecziun 60](/rm/lektionen/lektion60)
-    *   **Futur** (simpel & perifrastic) -&gt; [Lecziun 26](/rm/lektionen/lektion26), [Lecziun 61](/rm/lektionen/lektion61)
-    *   **Aorist** (passà) -&gt; [Lecziun 54](/rm/lektionen/lektion54), [Lecziun 55](/rm/lektionen/lektion55), [Lecziun 56](/rm/lektionen/lektion56), [Lecziun 57](/rm/lektionen/lektion57), [Lecziun 58](/rm/lektionen/lektion58)
+    *   **Imperfect** (passà) → [Lecziun 32](/rm/lektionen/lektion32)
+    *   **Optativ & Imperativ** → [Lecziun 30](/rm/lektionen/lektion30), [Lecziun 48](/rm/lektionen/lektion48)
+    *   **Perfect** (singular/plural) → [Lecziun 34](/rm/lektionen/lektion34), [Lecziun 35](/rm/lektionen/lektion35), [Lecziun 36](/rm/lektionen/lektion36)
+    *   **Perfect (dual)** → [Lecziun 60](/rm/lektionen/lektion60)
+    *   **Futur** (simpel & perifrastic) → [Lecziun 26](/rm/lektionen/lektion26), [Lecziun 61](/rm/lektionen/lektion61)
+    *   **Aorist** (passà) → [Lecziun 54](/rm/lektionen/lektion54), [Lecziun 55](/rm/lektionen/lektion55), [Lecziun 56](/rm/lektionen/lektion56), [Lecziun 57](/rm/lektionen/lektion57), [Lecziun 58](/rm/lektionen/lektion58)
 *   **Formas verbalas derivadas**:
-    *   **Passiv & Causativ** -&gt; [Lecziun 10](/rm/lektionen/lektion10), [Lecziun 28](/rm/lektionen/lektion28), [Lecziun 29](/rm/lektionen/lektion29)
-    *   **Intensivum & Denominativa** -&gt; [Lecziun 61](/rm/lektionen/lektion61)
-*   **Verbs en il dual (duas numer)** -&gt; [Lecziun 59](/rm/lektionen/lektion59), [Lecziun 60](/rm/lektionen/lektion60)
+    *   **Passiv & Causativ** → [Lecziun 10](/rm/lektionen/lektion10), [Lecziun 28](/rm/lektionen/lektion28), [Lecziun 29](/rm/lektionen/lektion29)
+    *   **Intensivum & Denominativa** → [Lecziun 61](/rm/lektionen/lektion61)
+*   **Verbs en il dual (duas numer)** → [Lecziun 59](/rm/lektionen/lektion59), [Lecziun 60](/rm/lektionen/lektion60)
 
 ### 2.4 Derivaziuns & cumponids
 
@@ -102,10 +102,10 @@ Questa pagina offra ina vista sistematica davart tut ils argumets grammaticals d
 
 La filosofia ed la litteratura sanscrita èn per part scritte en vers. La metrica empara il ritmus e la structura da quests vers.
 
-*   **Introducziun & Śloka** -&gt; [Lecziun 45](/rm/lektionen/lektion45), [Lecziun 53](/rm/lektionen/lektion53)
-*   **Metrica avanzada** (Trīṣṭubh, Jāgatī) -&gt; [Lecziun 54](/rm/lektionen/lektion54)
+*   **Introducziun & Śloka** → [Lecziun 45](/rm/lektionen/lektion45), [Lecziun 53](/rm/lektionen/lektion53)
+*   **Metrica avanzada** (Trīṣṭubh, Jāgatī) → [Lecziun 54](/rm/lektionen/lektion54)
 
 ---
 
-&gt; [!TIP] Regla da memorisaziun
-&gt; Questa survista ta gidass a tschertgar sistematicamain phenomenas grammaticalas. Per in’elavuraziun cronologica dal material, suonda simplamain la numeraziun dals lezions en il menu principal.
+> [!TIP] Regla da memorisaziun
+> Questa survista ta gidass a tschertgar sistematicamain phenomenas grammaticalas. Per in’elavuraziun cronologica dal material, suonda simplamain la numeraziun dals lezions en il menu principal.

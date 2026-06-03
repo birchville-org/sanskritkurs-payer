@@ -203,15 +203,15 @@ Imparate le seguenti parole:
 - **asura** m. असुर : demone
 
 > **ASURA.** 'Spirituale, divino.'
-&gt;
+>
 > Nelle parti più antiche del Ṛgveda questo termine è usato per lo spirito supremo, ed è lo stesso degli Ahura degli Zoroastriani. Nel senso di 'dio' fu applicato a diverse delle principali divinità, come Indra, Agni e Varuṇa. In seguito acquisì un significato completamente opposto, e venne a significare, come ora, un demone o nemico degli dèi.
-&gt;
+>
 > La parola si trova con questa significazione nelle parti più tarde del Ṛgveda, in particolare nell'ultimo libro, e anche nell'Atharvaveda. I Brāhmaṇas attribuiscono lo stesso significato e registrano molte contese tra gli Asura e gli dèi. Secondo il Taittirīya Brāhmaṇa, il respiro *(asu)* di Prajapati divenne vivo, e "con quel respiro creò me Asura." In un'altra parte dello stesso lavoro si dice che Prajāpati "divenne incinto. Creò Asura dal suo addome." Il Śatapatha Brāhmaṇa concorda con la prima affermazione, e afferma che "creò Asura dal suo respiro inferiore." Il Taittirīya Āraṇyaka rappresenta che Prajāpati creò dèi, uomini, padri, Gandharvas e Apsarase dall'acqua, e che gli Asura, i Rakṣasa e i piśāca nacquero dalle gocce che furono versate. L'affermazione di Manu è che furono creati dai Prajāpati.
-&gt;
+>
 > Secondo il Viṣṇu Purāṇa, furono prodotti dall'inguine di Brahma (prajāpati). Il racconto del Vāyu Purāṇa è: "Gli Asura furono prima prodotti come figli dal suo (di Prajāpati) inguine. *Asu* è dichiarato da Brāhmaṇa significare respiro. Da esso questi esseri furono prodotti; da qui sono Asura." La parola è stata a lungo usata come nome generale per i nemici degli dèi, inclusi i Daitya e i Danava e altri discendenti di Kaśyapa, ma non include i Rakṣasa discendenti da Pulastya.
-&gt;
+>
 > In questo senso una diversa derivazione è stata trovata per esso: la fonte non è più asu, 'respiro,' ma la iniziale *a* è presa come prefisso negativo, e *asura* significa 'non un dio;' da qui, secondo alcuni, nacque la parola *sura*, comunemente usata per 'un dio.'"
-&gt;
+>
 > [Fonte: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media

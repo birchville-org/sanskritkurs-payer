@@ -9,19 +9,19 @@ Esta página ofrece una visión sistemática de todos los temas gramaticales del
 
 ## 1. Fonética y Escritura (Saṃhitā & Lipi)
 
-*   **Introducción a los sonidos**: Sistematización y pronunciación -&gt; [Lección 1](/es/lektionen/lektion01)
+*   **Introducción a los sonidos**: Sistematización y pronunciación → [Lección 1](/es/lektionen/lektion01)
 *   **Introducción a la escritura (Devanāgarī)**:
-    *   Vocales y consonantes simples -&gt; [Lección 40](/es/lektionen/lektion40)
-    *   Consonantes compuestas (ligaduras) -&gt; [Lección 41](/es/lektionen/lektion41) & [Lección 42](/es/lektionen/lektion42)
+    *   Vocales y consonantes simples → [Lección 40](/es/lektionen/lektion40)
+    *   Consonantes compuestas (ligaduras) → [Lección 41](/es/lektionen/lektion41) & [Lección 42](/es/lektionen/lektion42)
 *   **Sandhi (combinación de sonidos)**:
-    *   Sandhi de la consonante final **-s/Visarga** -&gt; [Lección 2](/es/lektionen/lektion02), [Lección 3](/es/lektionen/lektion03), [Lección 30](/es/lektionen/lektion30)
-    *   Sandhi de **-m, -e, -d** -&gt; [Lección 4](/es/lektionen/lektion04)
-    *   **Sandhi vocálico** -&gt; [Lección 3](/es/lektionen/lektion03), [Lección 24](/es/lektionen/lektion24)
-    *   Sandhi de **-n** -&gt; [Lección 7](/es/lektionen/lektion07)
-    *   Sandhi para **nasales** -&gt; [Lección 21](/es/lektionen/lektion21), [Lección 26](/es/lektionen/lektion26)
-    *   Cerebralización (**n -&gt; ṇ / s -&gt; ṣ**) -&gt; [Lección 10](/es/lektionen/lektion10), [Lección 26](/es/lektionen/lektion26)
-    *   Sandhi de palabras (h-, ch-) -&gt; [Lección 44](/es/lektionen/lektion44), [Lección 51](/es/lektionen/lektion51)
-    *   **Sandhi consonántico** (resúmenes) -&gt; [Lección 16](/es/lektionen/lektion16), [Lección 43](/es/lektionen/lektion43)
+    *   Sandhi de la consonante final **-s/Visarga** → [Lección 2](/es/lektionen/lektion02), [Lección 3](/es/lektionen/lektion03), [Lección 30](/es/lektionen/lektion30)
+    *   Sandhi de **-m, -e, -d** → [Lección 4](/es/lektionen/lektion04)
+    *   **Sandhi vocálico** → [Lección 3](/es/lektionen/lektion03), [Lección 24](/es/lektionen/lektion24)
+    *   Sandhi de **-n** → [Lección 7](/es/lektionen/lektion07)
+    *   Sandhi para **nasales** → [Lección 21](/es/lektionen/lektion21), [Lección 26](/es/lektionen/lektion26)
+    *   Cerebralización (**n → ṇ / s → ṣ**) → [Lección 10](/es/lektionen/lektion10), [Lección 26](/es/lektionen/lektion26)
+    *   Sandhi de palabras (h-, ch-) → [Lección 44](/es/lektionen/lektion44), [Lección 51](/es/lektionen/lektion51)
+    *   **Sandhi consonántico** (resúmenes) → [Lección 16](/es/lektionen/lektion16), [Lección 43](/es/lektionen/lektion43)
 
 ## 2. Estudio de palabras (Morfología)
 
@@ -102,10 +102,10 @@ Esta página ofrece una visión sistemática de todos los temas gramaticales del
 
 La filosofía y la literatura sánscritas están a menudo redactadas en versos. La métrica enseña el ritmo y la estructura de estos versos.
 
-*   **Introducción y Śloka** -&gt; [Lección 45](/es/lektionen/lektion45), [Lección 53](/es/lektionen/lektion53)
-*   **Métricas avanzadas** (Trīṣṭubh, Jāgatī) -&gt; [Lección 54](/es/lektionen/lektion54)
+*   **Introducción y Śloka** → [Lección 45](/es/lektionen/lektion45), [Lección 53](/es/lektionen/lektion53)
+*   **Métricas avanzadas** (Trīṣṭubh, Jāgatī) → [Lección 54](/es/lektionen/lektion54)
 
 ---
 
-&gt; [!TIP] Regla mnemotécnica
-&gt; Este resumen te ayuda a consultar específicamente los fenómenos gramaticales. Para un estudio cronológico del contenido, simplemente sigue la numeración de las lecciones en el menú principal.
+> [!TIP] Regla mnemotécnica
+> Este resumen te ayuda a consultar específicamente los fenómenos gramaticales. Para un estudio cronológico del contenido, simplemente sigue la numeración de las lecciones en el menú principal.

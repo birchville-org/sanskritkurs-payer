@@ -297,7 +297,7 @@ Formare le corrispondenti forme del perfetto (aoristo perfetto o perfetto, a sec
 6. भनक्ति
 7. लुभ्यन्ति
 8. रुन्धते
-9. रोदिति -&gt; रोदिति
+9. रोदिति → रोदिति
 10. बध्नाति
 11. युध्यन्ते
 12. युङ्क्ते

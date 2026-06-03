@@ -2073,7 +2073,7 @@ ex quo:
 **Inf. योक्तुम्**
 
 unde:
-**युग n. -&gt; युग n.:** iugum, par, aetas mundi (sunt quattuor aetates mundi:
+**युग n. → युग n.:** iugum, par, aetas mundi (sunt quattuor aetates mundi:
 1. **कृत**
 2. **त्रेता**
 3. **द्वापर**
@@ -2125,7 +2125,7 @@ Yogae depictio.
 **Inf. अञ्जितुम् । अङ्क्तुम्**
 :::
 
-**अञ्ज् + vi -&gt; अञ्ज् + वि** 7Ā **व्यङ्क्ते** : se unguere = se decorare, se distinguerere
+**अञ्ज् + vi → अञ्ज् + वि** 7Ā **व्यङ्क्ते** : se unguere = se decorare, se distinguerere
 ::: indent
 **PPP व्यक्त :** distinctus, evolutus
 
@@ -2154,7 +2154,7 @@ Praeparatio ad saltum Kathakali, Kochi.
 **Fut. भोक्ष्यति**
 **Pass. भुज्यते**
 **Kaus. भोजयति**
-**PPP bhukt -&gt; PPP भुक्त**
+**PPP bhukt → PPP भुक्त**
 **Inf. भोक्तुम्**
 
 unde:

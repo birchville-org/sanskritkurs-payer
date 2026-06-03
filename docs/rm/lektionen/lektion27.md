@@ -47,7 +47,7 @@ Jaipur, 1875.
 **Sche l'acziun u il stadi d'ina persuna u d'ina chaussa determinescha il temp, al qual – u las circumstanzas, sut las qualas – ina AUTRA persuna u chaussa executescha in'acziun u sa chatta en in stadi specific, alura sa trova la vart che designescha la prima persuna u chaussa, cun la vart che la detalla uschè (che è savens in particpi), en il locati (सप्तमी):**
 
 > एवं गच्छति काले = "mentre che il temp passa uschè..."
-&gt;
+>
 > तस्मिन्गते = "cun ch'el era ì..."
 
 **A vartas vegn l'agens (कर्ता) betg designà expressivamain:**

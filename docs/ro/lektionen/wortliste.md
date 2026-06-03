@@ -2072,7 +2072,7 @@ din care:
 **Inf. योक्तुम्**
 
 din care:
-**युग n. -&gt; युग n.:** jug, pereche, epocă a lumii (există patru epoci ale lumii:
+**युग n. → युग n.:** jug, pereche, epocă a lumii (există patru epoci ale lumii:
 1. **कृत**
 2. **त्रेता**
 3. **द्वापर**
@@ -2124,7 +2124,7 @@ Reprezentare Yoga.
 **Inf. अञ्जितुम् । अङ्क्तुम्**
 :::
 
-**अञ्ज् + vi -&gt; अञ्ज् + वि** 7Ā **व्यङ्क्ते** : a unsura separat = a se machia, a se distinge
+**अञ्ज् + vi → अञ्ज् + वि** 7Ā **व्यङ्क्ते** : a unsura separat = a se machia, a se distinge
 ::: indent
 **PPP व्यक्त :** distinct, dezvoltat
 
@@ -2153,7 +2153,7 @@ Pregătire pentru dansul Kathakali, Kochi.
 **Fut. भोक्ष्यति**
 **Pass. भुज्यते**
 **Kaus. भोजयति**
-**PPP bhukt -&gt; PPP भुक्त**
+**PPP bhukt → PPP भुक्त**
 **Inf. भोक्तुम्**
 
 din care:

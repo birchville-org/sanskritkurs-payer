@@ -71,7 +71,7 @@ Domande del re **शूद्रक** di **विदिशा** al pappagallo **
 **वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥**
 
 > Il re disse: "Lasciamo stare tutto questo! Soddisfa la nostra curiosità! Signore, raccontaci dall'inizio: In quale paese sei nato? Chi ti ha dato il nome? Chi è tua madre? Come hai ottenuto i Veda? Come ti sei familiarizzato con le opere didattiche? Da dove hai acquisito le arti? Puoi ricordare le nascite precedenti o esaudire i desideri? O abiti, indossando le vesti di un uccello, in un nascondiglio? O dove abitavi in precedenza? O quanti anni hai? Come sei finito in una gabbia? E come sei finito nelle mani dei Cāṇḍālas? O come sei arrivato qui?"
-&gt;
+>
 > Vaiśampāyana, tuttavia, che era stato posto dal signore della terra con una curiosità spontanea con grande rispetto, rifletté un momento e poi rispose con grande rispetto: "Re, questa è una storia lunga. Se ti interessa, prestami il tuo orecchio!"
 
 ::: media
