@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: home
 
@@ -33,4 +32,3 @@ features:
 
 **Comments and error reports:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 :::
-```
