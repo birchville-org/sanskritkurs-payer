@@ -7,11 +7,11 @@ outline: false
 
 Регистърът на темите се генерира автоматично от заглавията на всички уроци. Той позволява бърз достъп до конкретни граматични явления.
 
-&lt;PayerTopicIndex /&gt;
+<PayerTopicIndex />
 
-&lt;style&gt;
+<style>
 /* Корекция на оформлението за индекс на цяла ширина */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }
-&lt;/style&gt;
+</style>

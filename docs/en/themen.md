@@ -7,11 +7,11 @@ outline: false
 
 The topic index is automatically generated from the headings of all lessons. It enables quick access to specific grammatical phenomena.
 
-&lt;PayerTopicIndex /&gt;
+<PayerTopicIndex />
 
-&lt;style&gt;
+<style>
 /* Adjust layout for full width index */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }
-&lt;/style&gt;
+</style>

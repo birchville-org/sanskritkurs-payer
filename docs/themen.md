@@ -7,11 +7,11 @@ outline: false
 
 Das Themen-Register wird automatisch aus den Überschriften aller Lektionen generiert. Es ermöglicht einen schnellen Zugriff auf spezifische grammatikalische Phänomene.
 
-&lt;PayerTopicIndex /&gt;
+<PayerTopicIndex />
 
-&lt;style&gt;
+<style>
 /* Adjust layout for full width index */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }
-&lt;/style&gt;
+</style>

@@ -7,11 +7,11 @@ outline: false
 
 Index argumentorum automaticus ex capitibus omnium lectionum generatur. Qui accessum celerem ad phaenomena grammatica specifica permittit.
 
-&lt;PayerTopicIndex /&gt;
+<PayerTopicIndex />
 
-&lt;style&gt;
+<style>
 /* Adjust layout for full width index */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }
-&lt;/style&gt;
+</style>
