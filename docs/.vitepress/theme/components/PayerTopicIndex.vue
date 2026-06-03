@@ -1,5 +1,15 @@
 <script setup>
+import { useData } from 'vitepress'
 import { data } from '../data/topics.data.mjs'
+
+const { page } = useData()
+
+// Derive language prefix from current page path (e.g. "ro/themen.md" → "/ro")
+function getLangPrefix() {
+  const rel = page.value.relativePath  // e.g. "ro/themen.md" or "themen.md"
+  const parts = rel.split('/')
+  return parts.length > 1 ? '/' + parts[0] : ''
+}
 
 // Group topics by their first letter
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
@@ -23,7 +33,7 @@ if (otherMatches.length > 0) {
 
 function getLessonLink(num) {
   const padded = num.toString().padStart(2, '0');
-  return `/lektionen/lektion${padded}`;
+  return `${getLangPrefix()}/lektionen/lektion${padded}`;
 }
 </script>
 
