@@ -22,11 +22,13 @@ features:
     details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
 ---
 
-::: tip BETA-TEST
-Diese Webseite stellt einen Beta-Test dar, der untersuchen soll, wie hoch die Qualität KI-generierter Übersetzungen ist.
+::: tip Version 1.3 — in Entwicklung
+**Neu in v1.3 (Juni 2026):**
 
-**Bemerkungen und Fehlermeldungen jeglicher Art sind erbeten an:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+- **Neue Sprachen:** Punjabi (PA), Latein (LA), Rumantsch Grischun (RM), Rumänisch (RO)
+- **Glossar:** Sanskrit alphabetisch mit IAST und direkter Verlinkung ins [Monier-Williams 1899 Wörterbuch](https://www.sanskrit-lexicon.uni-koeln.de/)
+- **QA-Viewer:** Erweiterter Markdown-Editor mit Live-Vorschau, Raw-Source-Sync, SWAP-Funktion
+- **Qualität:** Automatische Pre-Push-Checks auf Übersetzungsfehler
 
-**Test Setup:** Google Antigravity mit Gemini 3 Flash und Massenübersetzung mit Gemma 4:26b (ollama, lokal) auf M4/32 GB.
-Später: Wechsel zu Claude Sonnet 4.6 (Gemini Flash 3.5 mit sprunghafter Kostensteigerung) und lokalem mlx-community/Qwen3.6-35B-A3B-4bit (bessere Übersetzungen).
+**Bemerkungen und Fehlermeldungen:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 :::
