@@ -10,13 +10,10 @@ const currentLessonNumber = computed(() => {
   return match ? parseInt(match[1]) : null
 })
 
+const LOCALES = ['en','it','es','fr','hi','bg','ru','uk','ta','pa','la','rm','ro']
 const currentLocale = computed(() => {
-  const path = page.value.relativePath
-  if (path.startsWith('en/')) return 'en'
-  if (path.startsWith('it/')) return 'it'
-  if (path.startsWith('es/')) return 'es'
-  if (path.startsWith('bg/')) return 'bg'
-  return 'root'
+  const first = page.value.relativePath.split('/')[0]
+  return LOCALES.includes(first) ? first : 'root'
 })
 
 const relatedLessons = computed(() => {

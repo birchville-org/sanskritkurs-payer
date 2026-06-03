@@ -1,14 +1,16 @@
 <script setup>
-import { useData } from 'vitepress'
+import { useRoute } from 'vitepress'
 import { computed } from 'vue'
 import { data } from '../data/topics.data.mjs'
 
-const { localeIndex } = useData()
+const route = useRoute()
 
-// localeIndex is 'root' for DE, 'ta', 'ro', 'la' etc. for other locales
-const langPrefix = computed(() =>
-  localeIndex.value === 'root' ? '' : `/${localeIndex.value}`
-)
+const LOCALES = ['en','it','es','fr','hi','bg','ru','uk','ta','pa','la','rm','ro']
+
+const langPrefix = computed(() => {
+  const first = route.path.split('/').filter(Boolean)[0]
+  return LOCALES.includes(first) ? `/${first}` : ''
+})
 
 // Group topics by their first letter
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
