@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Exercitatio 57"
 uebung_id: 57
@@ -8,7 +7,6 @@ last_reconstructed: 2026-05-15
 
 
 # Lectio 57
-```
 
 ## A) Aorist-Transformationes
 

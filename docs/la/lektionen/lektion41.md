@@ -1,4 +1,3 @@
-```yaml
 ---
 title: Lectio 41
 subtitle: "सुभाषिते  (duo proverbia)"
@@ -9,7 +8,6 @@ status: stable
 ---
 
 # Lectio 41
-```
 
 ## 41.1. सुभाषिते (duo proverbii)
 

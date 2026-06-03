@@ -1,10 +1,10 @@
-```yaml
+---
 title: Lectio 61
 subtitle: "Declinatio nominum radicalium in -ā, -ī, -ū"
 next: false
 category: "Grammatica"
 status: stable
-```
+---
 
 # Lectio 61
 

@@ -1,4 +1,3 @@
-```yaml
 ---
 title: Lectio 57
 subtitle: "Aoristus 4: s-aoristus"
@@ -9,7 +8,6 @@ status: stable
 ---
 
 # Lectio 57
-```
 
 ## 57.1. Aorist 4: s-Aorist
 

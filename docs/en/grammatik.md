@@ -1,9 +1,7 @@
-```yaml
 ---
 aside: true
 outline: [2, 3]
 ---
-```
 
 # Grammar Topics
 
@@ -11,36 +9,36 @@ This page provides a systematic overview of all grammatical topics of the Sanskr
 
 ## 1. Phonology & Script (Saṃhitā & Lipi)
 
-*   **Introduction to Sounds**: Systematics and pronunciation -&gt; [Lesson 1](/en/lektionen/lektion01)
+*   **Introduction to Sounds**: Systematics and pronunciation → [Lesson 1](/en/lektionen/lektion01)
 *   **Script Introduction (Devanāgarī)**:
-    *   Vowels and simple consonants -&gt; [Lesson 40](/en/lektionen/lektion40)
-    *   Conjunct consonants (Ligatures) -&gt; [Lesson 41](/en/lektionen/lektion41) & [Lesson 42](/en/lektionen/lektion42)
+    *   Vowels and simple consonants → [Lesson 40](/en/lektionen/lektion40)
+    *   Conjunct consonants (Ligatures) → [Lesson 41](/en/lektionen/lektion41) & [Lesson 42](/en/lektionen/lektion42)
 *   **Sandhi (Sound Combination)**:
-    *   Sandhi of final **-s/Visarga** -&gt; [Lesson 2](/en/lektionen/lektion02), [Lesson 3](/en/lektionen/lektion03), [Lesson 30](/en/lektionen/lektion30)
-    *   Sandhi of **-m, -e, -d** -&gt; [Lesson 4](/en/lektionen/lektion04)
-    *   **Vowel Sandhi** -&gt; [Lesson 3](/en/lektionen/lektion03), [Lesson 24](/en/lektionen/lektion24)
-    *   Sandhi of **-n** -&gt; [Lesson 7](/en/lektionen/lektion07)
-    *   Sandhi for **Nasals** -&gt; [Lesson 21](/en/lektionen/lektion21), [Lesson 26](/en/lektionen/lektion26)
-    *   Cerebralisation (**n -&gt; ṇ / s -&gt; ṣ**) -&gt; [Lesson 10](/en/lektionen/lektion10), [Lesson 26](/en/lektionen/lektion26)
-    *   Word Sandhi (h-, ch-) -&gt; [Lesson 44](/en/lektionen/lektion44), [Lesson 51](/en/lektionen/lektion51)
-    *   **Consonant Sandhi** (Summaries) -&gt; [Lesson 16](/en/lektionen/lektion16), [Lesson 43](/en/lektionen/lektion43)
+    *   Sandhi of final **-s/Visarga** → [Lesson 2](/en/lektionen/lektion02), [Lesson 3](/en/lektionen/lektion03), [Lesson 30](/en/lektionen/lektion30)
+    *   Sandhi of **-m, -e, -d** → [Lesson 4](/en/lektionen/lektion04)
+    *   **Vowel Sandhi** → [Lesson 3](/en/lektionen/lektion03), [Lesson 24](/en/lektionen/lektion24)
+    *   Sandhi of **-n** → [Lesson 7](/en/lektionen/lektion07)
+    *   Sandhi for **Nasals** → [Lesson 21](/en/lektionen/lektion21), [Lesson 26](/en/lektionen/lektion26)
+    *   Cerebralisation (**n → ṇ / s → ṣ**) → [Lesson 10](/en/lektionen/lektion10), [Lesson 26](/en/lektionen/lektion26)
+    *   Word Sandhi (h-, ch-) → [Lesson 44](/en/lektionen/lektion44), [Lesson 51](/en/lektionen/lektion51)
+    *   **Consonant Sandhi** (Summaries) → [Lesson 16](/en/lektionen/lektion16), [Lesson 43](/en/lektionen/lektion43)
 
 ## 2. Word Study (Morphology)
 
 ### 2.1 Nouns and Adjectives (Declension)
 
-*   **Fundamentals**: Case grammar -&gt; [Lesson 1](/en/lektionen/lektion01), [Lesson 2](/en/lektionen/lektion02)
-*   **A-stems** (Masculine & Neuter) -&gt; [Lesson 2](/en/lektionen/lektion02), [Lesson 7](/en/lektionen/lektion07)
-*   **I- and U-stems** -&gt; [Lesson 3](/en/lektionen/lektion03), [Lesson 27](/en/lektionen/lektion27), [Lesson 52](/en/lektionen/lektion52)
+*   **Fundamentals**: Case grammar → [Lesson 1](/en/lektionen/lektion01), [Lesson 2](/en/lektionen/lektion02)
+*   **A-stems** (Masculine & Neuter) → [Lesson 2](/en/lektionen/lektion02), [Lesson 7](/en/lektionen/lektion07)
+*   **I- and U-stems** → [Lesson 3](/en/lektionen/lektion03), [Lesson 27](/en/lektionen/lektion27), [Lesson 52](/en/lektionen/lektion52)
 *   **Consonant stems**:
-    *   Stems ending in **-mant / -vant** -&gt; [Lesson 13](/en/lektionen/lektion13)
-    *   Stems ending in **-n** (Rājan, Ātman) -&gt; [Lesson 38](/en/lektionen/lektion38)
-    *   Simple consonant stems -&gt; [Lesson 51](/en/lektionen/lektion51), [Lesson 54](/en/lektionen/lektion54)
-    *   Root nouns ending in **-ā, -ī, -ū** -&gt; [Lesson 61](/en/lektionen/lektion61)
-*   **The Dual** of nouns -&gt; [Lesson 49](/en/lektionen/lektion49), [Lesson 50](/en/lektionen/lektion50), [Lesson 53](/en/lektionen/lektion53)
+    *   Stems ending in **-mant / -vant** → [Lesson 13](/en/lektionen/lektion13)
+    *   Stems ending in **-n** (Rājan, Ātman) → [Lesson 38](/en/lektionen/lektion38)
+    *   Simple consonant stems → [Lesson 51](/en/lektionen/lektion51), [Lesson 54](/en/lektionen/lektion54)
+    *   Root nouns ending in **-ā, -ī, -ū** → [Lesson 61](/en/lektionen/lektion61)
+*   **The Dual** of nouns → [Lesson 49](/en/lektionen/lektion49), [Lesson 50](/en/lektionen/lektion50), [Lesson 53](/en/lektionen/lektion53)
 *   **Numbers & Degrees of comparison**:
-    *   Numeral words (Cardinals/Ordinals) -&gt; [Lesson 52](/en/lektionen/lektion52)
-    *   Degrees of comparison (Comparative/Superlative) -&gt; [Lesson 53](/en/lektionen/lektion53)
+    *   Numeral words (Cardinals/Ordinals) → [Lesson 52](/en/lektionen/lektion52)
+    *   Degrees of comparison (Comparative/Superlative) → [Lesson 53](/en/lektionen/lektion53)
 
 ### 2.2 Pronouns & Adverbs
 
@@ -104,10 +102,10 @@ This page provides a systematic overview of all grammatical topics of the Sanskr
 
 Sanskrit philosophy and literature are often composed in verses. Metrics teaches the rhythm and structure of these verses.
 
-*   **Introduction & Śloka** -&gt; [Lesson 45](/en/lektionen/lektion45), [Lesson 53](/en/lektionen/lektion53)
-*   **Advanced Metrics** (Trīṣṭubh, Jāgatī) -&gt; [Lesson 54](/en/lektionen/lektion54)
+*   **Introduction & Śloka** → [Lesson 45](/en/lektionen/lektion45), [Lesson 53](/en/lektionen/lektion53)
+*   **Advanced Metrics** (Trīṣṭubh, Jāgatī) → [Lesson 54](/en/lektionen/lektion54)
 
 ---
 
-&gt; [!TIP] Mnemonic Rule
-&gt; This overview helps you to look up specific grammatical phenomena. For a chronological study of the material, simply follow the numbering of the lessons in the main menu.
+> [!TIP] Mnemonic Rule
+> This overview helps you to look up specific grammatical phenomena. For a chronological study of the material, simply follow the numbering of the lessons in the main menu.

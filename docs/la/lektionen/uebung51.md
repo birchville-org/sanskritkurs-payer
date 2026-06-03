@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Exercitatio 51"
 uebung_id: 51
@@ -8,7 +7,6 @@ last_reconstructed: 2026-05-15
 
 
 # Lectio 51
-```
 
 ## १. कौटिलीयार्थशास्त्र १, ३, ९ - १२: आश्रमधर्मः
 

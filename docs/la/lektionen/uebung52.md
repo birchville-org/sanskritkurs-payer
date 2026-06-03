@@ -1,4 +1,3 @@
-```yaml
 title: "Exercitatio 52"
 uebung_id: 52
 category: "Exercitatio"

@@ -1,4 +1,3 @@
-```yaml
 ---
 title: Lectio 17
 subtitle: "Secunda classis praesentis (अदादि = अद् etc.)"
@@ -9,7 +8,6 @@ status: stable
 ---
 
 # Lectio 17
-```
 
 ## 17.1. Secundae classis praesentis (अदादि = अद् etc.)
 

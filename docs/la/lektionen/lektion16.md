@@ -1,4 +1,3 @@
-```yaml
 ---
 title: Lectio 16
 subtitle: "De Sandhi consonantium finalium"
@@ -9,7 +8,6 @@ status: stable
 ---
 
 # Lectio 16
-```
 
 ## 16.1. De Sandho consonantium finalium
 

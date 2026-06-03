@@ -1,8 +1,8 @@
-```yaml
+---
 title: Lectio 32
 lesson_id: 32
 status: stabilis
-```
+---
 
 # Lectio 32
 

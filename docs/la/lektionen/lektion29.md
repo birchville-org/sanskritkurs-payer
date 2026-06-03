@@ -1,4 +1,3 @@
-```yaml
 ---
 title: Lectio 29
 subtitle: "Usum Parasmaipadae (परस्मैपद) et Ātmanepadæ (आत्मनेपद) in Causativo"
@@ -9,7 +8,6 @@ status: stable
 ---
 
 # Lectio 29
-```
 
 ## 29.1. Usus Parasmaipadae (परस्मैपद) et Ātmanepadae (आत्मनेपद) in Causativo
 

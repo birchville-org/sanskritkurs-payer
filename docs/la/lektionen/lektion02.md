@@ -1,4 +1,3 @@
-```yaml
 ---
 title: Lectio 2
 subtitle: "De sententia nominali et fundamentis declinationis"
@@ -9,7 +8,6 @@ last_reconstructed: 2026-04-30
 ---
 
 # Lectio 2
-```
 
 ## 2.1. De sententia nominali
 

@@ -205,6 +205,37 @@ def check_image_captions(files):
             errors.append((path, 'Legacy <font>-Tag in Bildunterschrift'))
     return errors
 
+def check_html_arrow_entities(files, fix=False):
+    """Findet -&gt; (HTML-Entity als Pfeil) das → sein sollte, und &gt; als Blockquote-Marker."""
+    errors = []
+    arrow_re  = re.compile(r'-&gt;')
+    bq_re     = re.compile(r'^&gt;', re.MULTILINE)
+    # Auch &lt;- (Linkspfeil)
+    larrow_re = re.compile(r'&lt;-')
+    for path in files:
+        content = path.read_text(encoding='utf-8', errors='replace')
+        # Code-Spans und Code-Blöcke ausschliessen
+        stripped = re.sub(r'```.*?```', '', content, flags=re.DOTALL)
+        stripped = re.sub(r'`[^`\n]+`', '', stripped)
+        hits = []
+        if arrow_re.search(stripped):
+            hits.append('-&gt; (sollte → sein)')
+        if bq_re.search(stripped):
+            hits.append('&gt; am Zeilenbeginn (sollte > sein)')
+        if larrow_re.search(stripped):
+            hits.append('&lt;- (sollte ← sein)')
+        if hits:
+            if fix:
+                fixed = content
+                fixed = arrow_re.sub('→', fixed)
+                fixed = bq_re.sub('>', fixed)
+                fixed = larrow_re.sub('←', fixed)
+                path.write_text(fixed, encoding='utf-8')
+                errors.append((path, f'Automatisch repariert: {hits}'))
+            else:
+                errors.append((path, f'HTML-Entity als Pfeil: {hits}'))
+    return errors
+
 def check_licenses(files):
     """Prüft ob alle lektXXYY-Bild-IDs in licenses.md vorhanden sind."""
     errors = []
@@ -292,6 +323,18 @@ def main():
         for path, msg in errs:
             print(f"  ❌ {path.relative_to(ROOT)}: {msg}")
         total_errors += len(errs)
+    else:
+        print(f"  ✓ OK")
+
+    # ── 4c. HTML-Entities als Pfeile ────────────────────────────────────────
+    print("\n[2c] HTML-Entities als Pfeile (-&gt; statt →)...")
+    errs = check_html_arrow_entities(files, fix=fix_mode)
+    if errs:
+        for path, msg in errs:
+            icon = '✓' if fix_mode else '❌'
+            print(f"  {icon} {path.relative_to(ROOT)}: {msg}")
+        if not fix_mode:
+            total_errors += len(errs)
     else:
         print(f"  ✓ OK")
 

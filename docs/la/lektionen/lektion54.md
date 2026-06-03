@@ -1,4 +1,3 @@
-```yaml
 ---
 title: Lectio 54
 subtitle: "Praenotatio"
@@ -9,7 +8,6 @@ status: stable
 ---
 
 # Lectio 54
-```
 
 ## 54.1. Praenotatio
 
