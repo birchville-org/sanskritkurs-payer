@@ -31,13 +31,13 @@ Vertikale Erschließung der Inhalte durch Querverweise.
 
 ### Phase 12: I18n Expansion V1.3 — ES-Vervollständigung, Tamil (TA), Punjabi (PA)
 Horizontale Erweiterung um drei neue Sprachen: ES vervollständigt (Übungen/Schriften), TA und PA neu.
-**Plans:** 2/4 plans executed
+**Plans:** 4/4 plans complete ✅
 
 - [x] **Plan 12.0**: GUI-Aktivierung — config.mjs, pa.mjs Locale, Verzeichnisstrukturen (2026-05-31).
 - [x] 12-1-PLAN.md — Übersetzungsabschluss: Vollständigkeitsprüfung und Nachhol-Jobs für ES/TA/PA
 - [x] 12-2-PLAN.md — Wortlisten und licenses.md für ES, TA, PA generieren
-- [ ] 12-3-PLAN.md — QA: HTML-Bereinigung, Platzhalter-Suche, Layout-Synchronisation
-- [ ] 12-4-PLAN.md — Build-Gate (npm run docs:build) und Git-Commit
+- [x] 12-3-PLAN.md — QA: Platzhalter/CJK bereinigt, pre_push_check.py grün (2026-06-03)
+- [x] 12-4-PLAN.md — Build-Gate bestanden, alle 14 Sprachen komplett (2026-06-03)
 
 - **Erfolgskriterien**:
     - ES: alle 61 Lektionen + 11 Schriften + 61 Übungen + wortliste verfügbar.
