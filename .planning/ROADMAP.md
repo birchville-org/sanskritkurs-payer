@@ -81,15 +81,16 @@ Der Kern von v1.3: ein Split-Pane-Editor mit Live-Vorschau, der VitePress-Contai
     - Änderungen sind sofort in der Vorschau sichtbar.
     - `[[br]]` und MultiMD-Tabellen werden korrekt dargestellt.
 
-### Phase 16: I18n Completion — ES, LA, RM, TA (sekundär)
-Horizontale Erweiterung um die verbleibenden vier Sprachen.
-- [ ] **Plan 16.1**: Setup der Verzeichnisstrukturen für `/es/`, `/la/`, `/rm/`, `/ta/`.
-- [ ] **Plan 16.2**: Massenübersetzung via AI (lan_translate.py → nyx.local:8000).
-- [ ] **Plan 16.3**: Integration der neuen Locales in die VitePress-Config.
-- [ ] **Plan 16.4**: Quality-Sync & Visual Remediation (Layout-Synchronisation via sync_layouts.py).
-- **Erfolgskriterien**:
-    - Alle 61 Lektionen sind in ES, LA, RM, TA verfügbar.
-    - Die Homepage bietet 11 Sprachen zur Auswahl an.
+### Phase 16: I18n Completion — PA, LA, RM, RO (+ BG/RU/UK gap-fill) ✅
+Horizontale Erweiterung um neue Sprachen + Lückenfüllung bestehender.
+- [x] **Plan 16.1**: Setup Verzeichnisstrukturen + VitePress-Config für LA, RM, RO, PA (2026-05-31).
+- [x] **Plan 16.2**: Massenübersetzung via Qwen3.6-35B (nyx.local:8000) — 14 Sprachen × 61+11+61 Dateien (2026-06-03).
+- [x] **Plan 16.3**: Glossar (gen_glossar.py), Wortliste, IVZ für alle neuen Sprachen generiert.
+- [x] **Plan 16.4**: Pre-Push-Check grün: Platzhalter, CJK, YAML, HTML, Lizenzen (2026-06-03).
+- **Erfolgskriterien** ✅:
+    - LA, RM, RO, PA: alle 61 Lektionen + 11 Schriften + 61 Übungen + Glossar verfügbar.
+    - Homepage bietet 14 Sprachen zur Auswahl (DE, EN, IT, BG, RU, UK, HI, FR, ES, TA, PA, LA, RM, RO).
+    - *Übertrifft ursprünglichen Scope: RO als 14. Sprache zusätzlich geliefert.*
 
 ### Phase 17: Scholarly Polish — Captions, Metadata & Comparison (sekundär)
 Standardisierung der Metadaten und Legacy-Vergleichswerkzeug.
