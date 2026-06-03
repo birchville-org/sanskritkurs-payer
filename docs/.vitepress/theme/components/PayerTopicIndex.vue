@@ -1,15 +1,14 @@
 <script setup>
 import { useData } from 'vitepress'
+import { computed } from 'vue'
 import { data } from '../data/topics.data.mjs'
 
-const { page } = useData()
+const { localeIndex } = useData()
 
-// Derive language prefix from current page path (e.g. "ro/themen.md" → "/ro")
-function getLangPrefix() {
-  const rel = page.value.relativePath  // e.g. "ro/themen.md" or "themen.md"
-  const parts = rel.split('/')
-  return parts.length > 1 ? '/' + parts[0] : ''
-}
+// localeIndex is 'root' for DE, 'ta', 'ro', 'la' etc. for other locales
+const langPrefix = computed(() =>
+  localeIndex.value === 'root' ? '' : `/${localeIndex.value}`
+)
 
 // Group topics by their first letter
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
@@ -33,7 +32,7 @@ if (otherMatches.length > 0) {
 
 function getLessonLink(num) {
   const padded = num.toString().padStart(2, '0');
-  return `${getLangPrefix()}/lektionen/lektion${padded}`;
+  return `${langPrefix.value}/lektionen/lektion${padded}`;
 }
 </script>
 
