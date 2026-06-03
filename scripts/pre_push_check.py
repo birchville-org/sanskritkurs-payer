@@ -146,7 +146,10 @@ def check_placeholders(files):
     combined = re.compile('|'.join(PLACEHOLDER_PATTERNS))
     for path in files:
         content = path.read_text(encoding='utf-8', errors='replace')
-        matches = combined.findall(content)
+        # Ignoriere Code-Spans (`...`) und Code-Blöcke um False Positives zu vermeiden
+        stripped = re.sub(r'`[^`]+`', '', content)
+        stripped = re.sub(r'```.*?```', '', stripped, flags=re.DOTALL)
+        matches = combined.findall(stripped)
         if matches:
             errors.append((path, f'Platzhalter: {list(set(matches))[:5]}'))
     return errors
