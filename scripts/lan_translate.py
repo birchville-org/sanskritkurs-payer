@@ -713,34 +713,38 @@ def translate_text(text, target_lang):
         max_retries = 5
         got_response = False
         for attempt in range(max_retries):
-            req = urllib.request.Request(
-                API_URL,
-                data=json.dumps(data).encode('utf-8'),
-                headers={'Content-Type': 'application/json'}
-            )
             try:
-                with urllib.request.urlopen(req, timeout=600) as response:
-                    res_data = json.loads(response.read().decode('utf-8'))
-                    result = res_data['choices'][0]['message']['content']
-                    got_response = True
-                    missing = [k for k in deva_registry if k not in result]
-                    if len(missing) < len(best_missing):
-                        best_result = result
-                        best_missing = missing
-                    if not missing:
-                        result = restore_devanagari(result, deva_registry, _mark_skt)
-                        result = restore_iast_lines(result, iast_registry)
-                        result = restore_br(result)
-                        return result
-                    # Got a response but placeholders were dropped — retry outer loop.
-                    if ph_attempt < max_ph_retries - 1:
-                        sys.stdout.write(
-                            f"[{target_lang}] Placeholder drop ({len(missing)}): "
-                            f"{missing[:3]}{'…' if len(missing) > 3 else ''} "
-                            f"— retrying ({ph_attempt + 2}/{max_ph_retries}, T={0.6})...\n"
-                        )
-                        sys.stdout.flush()
-                    break  # break connection-retry loop; outer loop handles the rest
+                import subprocess as _sp
+                _proc = _sp.run(
+                    ['curl', '-s', '-X', 'POST', API_URL,
+                     '-H', 'Content-Type: application/json',
+                     '-d', json.dumps(data),
+                     '--max-time', '600'],
+                    capture_output=True, text=True, timeout=620
+                )
+                if _proc.returncode != 0:
+                    raise OSError(f"curl exit {_proc.returncode}: {_proc.stderr[:200]}")
+                res_data = json.loads(_proc.stdout)
+                result = res_data['choices'][0]['message']['content']
+                got_response = True
+                missing = [k for k in deva_registry if k not in result]
+                if len(missing) < len(best_missing):
+                    best_result = result
+                    best_missing = missing
+                if not missing:
+                    result = restore_devanagari(result, deva_registry, _mark_skt)
+                    result = restore_iast_lines(result, iast_registry)
+                    result = restore_br(result)
+                    return result
+                # Got a response but placeholders were dropped — retry outer loop.
+                if ph_attempt < max_ph_retries - 1:
+                    sys.stdout.write(
+                        f"[{target_lang}] Placeholder drop ({len(missing)}): "
+                        f"{missing[:3]}{'…' if len(missing) > 3 else ''} "
+                        f"— retrying ({ph_attempt + 2}/{max_ph_retries}, T={0.6})...\n"
+                    )
+                    sys.stdout.flush()
+                break  # break connection-retry loop; outer loop handles the rest
             except Exception as e:
                 wait_time = (2 ** attempt) * 5  # 5s, 10s, 20s, 40s, 80s
                 msg = f"[{target_lang}] Connection failed (attempt {attempt+1}/{max_retries}): {str(e)}. Retrying in {wait_time}s...\n"
