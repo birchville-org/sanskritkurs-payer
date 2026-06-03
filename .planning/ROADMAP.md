@@ -94,7 +94,7 @@ Horizontale Erweiterung um neue Sprachen + Lückenfüllung bestehender.
 
 ### Phase 17: Scholarly Polish — Captions, Metadata & Comparison (sekundär)
 Standardisierung der Metadaten und Legacy-Vergleichswerkzeug.
-- [ ] **Plan 17.1**: Standardisierung aller Bildunterschriften (999.14) — minimalistisches Format.
+- [x] **Plan 17.1**: Bildunterschriften bereits im Standardformat: `Abb.: text` + `(Bildquelle: [Details](/licenses#...))` *(de facto erledigt, 2026-06-03)*
 - [ ] **Plan 17.2**: Audit und Vervollständigung der licenses.md.
 - [x] **Plan 17.3**: Historical Comparison Mode (999.12) — Side-by-Side Legacy-HTML vs Modern-Markdown. *(erledigt durch QA-Viewer Split-View, 2026-06-02)*
 - **Erfolgskriterien**:
