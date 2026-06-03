@@ -568,42 +568,42 @@
     </div>
     <div class="container" id="main-container">
         <div id="syntax-pane">
-            <h4>Standard Markdown</h4>
-            <div class="syn-row" onclick="insertSnippet('# ', '')"><code># Titel</code><span class="syn-desc">H1–H6</span></div>
-            <div class="syn-row" onclick="insertSnippet('**', '**')"><code>**fett**</code><span class="syn-desc">Fettdruck</span></div>
-            <div class="syn-row" onclick="insertSnippet('*', '*')"><code>*kursiv*</code><span class="syn-desc">Kursiv</span></div>
-            <div class="syn-row" onclick="insertSnippet('\`', '\`')"><code>`code`</code><span class="syn-desc">Inline-Code</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n> ', '')"><code>&gt; Text</code><span class="syn-desc">Blockquote</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n- ', '')"><code>- Item</code><span class="syn-desc">Liste</span></div>
-            <div class="syn-row" onclick="insertSnippet('[', '](url)')"><code>[Text](url)</code><span class="syn-desc">Link</span></div>
-            <div class="syn-row" onclick="insertSnippet('![', '](pfad)')"><code>![Alt](pfad)</code><span class="syn-desc">Bild</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n| A | B |\n|---|---|\n| ', ' | |')"><code>| A | B |</code><span class="syn-desc">Tabelle</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n---\n', '')"><code>---</code><span class="syn-desc">Linie</span></div>
+            <h4 data-syn-h="std">Standard Markdown</h4>
+            <div class="syn-row" onclick="insertSnippet('# ', '')"><code># Titel</code><span class="syn-desc" data-syn-d="h16">H1–H6</span></div>
+            <div class="syn-row" onclick="insertSnippet('**', '**')"><code>**fett**</code><span class="syn-desc" data-syn-d="bold">Fettdruck</span></div>
+            <div class="syn-row" onclick="insertSnippet('*', '*')"><code>*kursiv*</code><span class="syn-desc" data-syn-d="ital">Kursiv</span></div>
+            <div class="syn-row" onclick="insertSnippet('\`', '\`')"><code>`code`</code><span class="syn-desc" data-syn-d="code">Inline-Code</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n> ', '')"><code>&gt; Text</code><span class="syn-desc" data-syn-d="bq">Blockquote</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n- ', '')"><code>- Item</code><span class="syn-desc" data-syn-d="list">Liste</span></div>
+            <div class="syn-row" onclick="insertSnippet('[', '](url)')"><code>[Text](url)</code><span class="syn-desc" data-syn-d="link">Link</span></div>
+            <div class="syn-row" onclick="insertSnippet('![', '](pfad)')"><code>![Alt](pfad)</code><span class="syn-desc" data-syn-d="img">Bild</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n| A | B |\n|---|---|\n| ', ' | |')"><code>| A | B |</code><span class="syn-desc" data-syn-d="tbl">Tabelle</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n---\n', '')"><code>---</code><span class="syn-desc" data-syn-d="hr">Linie</span></div>
 
-            <h4>Erweiterungen (markdown-it)</h4>
-            <div class="syn-row" onclick="insertSnippet('[[br]]', '')"><code>[[br]]</code><span class="syn-desc">Zeilenumbruch</span></div>
-            <div class="syn-row" onclick="insertSnippet('[[indent]]', '')"><code>[[indent]]</code><span class="syn-desc">Einzug inline</span></div>
+            <h4 data-syn-h="ext">Erweiterungen (markdown-it)</h4>
+            <div class="syn-row" onclick="insertSnippet('[[br]]', '')"><code>[[br]]</code><span class="syn-desc" data-syn-d="br">Zeilenumbruch</span></div>
+            <div class="syn-row" onclick="insertSnippet('[[indent]]', '')"><code>[[indent]]</code><span class="syn-desc" data-syn-d="ind">Einzug inline</span></div>
 
-            <h4>MultiMD-Tabellen</h4>
-            <div class="syn-row" onclick="insertSnippet('\n| A || B |\n|---|---|\n| ', ' | |')"><code>| A || B |</code><span class="syn-desc">Colspan</span></div>
-            <div class="syn-row" onclick="insertSnippet(' ^^ ', '')"><code>^^</code><span class="syn-desc">Rowspan</span></div>
+            <h4 data-syn-h="mmd">MultiMD-Tabellen</h4>
+            <div class="syn-row" onclick="insertSnippet('\n| A || B |\n|---|---|\n| ', ' | |')"><code>| A || B |</code><span class="syn-desc" data-syn-d="cs">Colspan</span></div>
+            <div class="syn-row" onclick="insertSnippet(' ^^ ', '')"><code>^^</code><span class="syn-desc" data-syn-d="rs">Rowspan</span></div>
 
-            <h4>Container-Blöcke</h4>
-            <div class="syn-row" onclick="insertSnippet('\n::: grammar-box\n', '\n:::')"><code>::: grammar-box</code><span class="syn-desc">gelb</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: grammar-box2\n', '\n:::')"><code>::: grammar-box2</code><span class="syn-desc">orange</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: important\n', '\n:::')"><code>::: important</code><span class="syn-desc">violett</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: note-box\n', '\n:::')"><code>::: note-box</code><span class="syn-desc">grau</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: indent\n', '\n:::')"><code>::: indent</code><span class="syn-desc">eingerückt</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: center\n', '\n:::')"><code>::: center</code><span class="syn-desc">zentriert</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: media\n', '\n:::')"><code>::: media</code><span class="syn-desc">Bild-Block</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: deleteme-box\n', '\n:::')"><code>::: deleteme-box</code><span class="syn-desc">unsichtbar</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: no-header\n', '\n:::')"><code>::: no-header</code><span class="syn-desc">Tabelle o. Kopf</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: compact\n', '\n:::')"><code>::: compact</code><span class="syn-desc">enge Tabelle</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: laut-table\n', '\n:::')"><code>::: laut-table</code><span class="syn-desc">Laut-Tabelle</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: metrik-schema\n', '\n:::')"><code>::: metrik-schema</code><span class="syn-desc">Metrik</span></div>
+            <h4 data-syn-h="cnt">Container-Blöcke</h4>
+            <div class="syn-row" onclick="insertSnippet('\n::: grammar-box\n', '\n:::')"><code>::: grammar-box</code><span class="syn-desc" data-syn-d="yel">gelb</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: grammar-box2\n', '\n:::')"><code>::: grammar-box2</code><span class="syn-desc" data-syn-d="ora">orange</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: important\n', '\n:::')"><code>::: important</code><span class="syn-desc" data-syn-d="vio">violett</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: note-box\n', '\n:::')"><code>::: note-box</code><span class="syn-desc" data-syn-d="gry">grau</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: indent\n', '\n:::')"><code>::: indent</code><span class="syn-desc" data-syn-d="indt">eingerückt</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: center\n', '\n:::')"><code>::: center</code><span class="syn-desc" data-syn-d="ctr">zentriert</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: media\n', '\n:::')"><code>::: media</code><span class="syn-desc" data-syn-d="med">Bild-Block</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: deleteme-box\n', '\n:::')"><code>::: deleteme-box</code><span class="syn-desc" data-syn-d="del">unsichtbar</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: no-header\n', '\n:::')"><code>::: no-header</code><span class="syn-desc" data-syn-d="noh">Tabelle o. Kopf</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: compact\n', '\n:::')"><code>::: compact</code><span class="syn-desc" data-syn-d="cmp">enge Tabelle</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: laut-table\n', '\n:::')"><code>::: laut-table</code><span class="syn-desc" data-syn-d="laut">Laut-Tabelle</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: metrik-schema\n', '\n:::')"><code>::: metrik-schema</code><span class="syn-desc" data-syn-d="met">Metrik</span></div>
 
-            <h4>Devanāgarī</h4>
-            <div class="syn-row" onclick="insertSnippet('⟪', '⟫')"><code>⟪text⟫</code><span class="syn-desc">explizit Sanskrit</span></div>
+            <h4 data-syn-h="deva">Devanāgarī</h4>
+            <div class="syn-row" onclick="insertSnippet('⟪', '⟫')"><code>⟪text⟫</code><span class="syn-desc" data-syn-d="skt">explizit Sanskrit</span></div>
         </div>
         <div class="pane" id="left-pane">
             <iframe id="left-frame" src="about:blank"></iframe>
@@ -620,6 +620,105 @@
 
     <script>
         const baseUrl = window.location.origin + "/";
+
+        // ── Syntax-Panel Übersetzungen ──────────────────────────────────────
+        const SYNTAX_I18N = {
+            de: { std:'Standard Markdown', ext:'Erweiterungen (markdown-it)', mmd:'MultiMD-Tabellen', cnt:'Container-Blöcke',
+                  h16:'H1–H6', bold:'Fettdruck', ital:'Kursiv', code:'Inline-Code', bq:'Blockquote', list:'Liste',
+                  link:'Link', img:'Bild', tbl:'Tabelle', hr:'Linie', br:'Zeilenumbruch', ind:'Einzug inline',
+                  cs:'Colspan', rs:'Rowspan', yel:'gelb', ora:'orange', vio:'violett', gry:'grau',
+                  indt:'eingerückt', ctr:'zentriert', med:'Bild-Block', del:'unsichtbar',
+                  noh:'Tabelle o. Kopf', cmp:'enge Tabelle', laut:'Laut-Tabelle', met:'Metrik', deva:'Devanāgarī', deva:'Devanāgarī', skt:'explizit Sanskrit' },
+            en: { std:'Standard Markdown', ext:'Extensions (markdown-it)', mmd:'MultiMD Tables', cnt:'Container Blocks',
+                  h16:'H1–H6', bold:'Bold', ital:'Italic', code:'Inline code', bq:'Blockquote', list:'List',
+                  link:'Link', img:'Image', tbl:'Table', hr:'Ruler', br:'Line break', ind:'Inline indent',
+                  cs:'Colspan', rs:'Rowspan', yel:'yellow', ora:'orange', vio:'violet', gry:'gray',
+                  indt:'indented', ctr:'centered', med:'Image block', del:'invisible',
+                  noh:'Table no header', cmp:'compact table', laut:'Sound table', met:'Metrics', deva:'Devanāgarī', skt:'explicit Sanskrit' },
+            it: { std:'Markdown standard', ext:'Estensioni (markdown-it)', mmd:'Tabelle MultiMD', cnt:'Blocchi contenitore',
+                  h16:'H1–H6', bold:'Grassetto', ital:'Corsivo', code:'Codice inline', bq:'Blockquote', list:'Lista',
+                  link:'Link', img:'Immagine', tbl:'Tabella', hr:'Linea', br:'A capo', ind:'Rientro inline',
+                  cs:'Colspan', rs:'Rowspan', yel:'giallo', ora:'arancione', vio:'viola', gry:'grigio',
+                  indt:'rientrato', ctr:'centrato', med:'Blocco immagine', del:'invisibile',
+                  noh:'Tabella senza intestazione', cmp:'tabella compatta', laut:'Tabella fonemi', met:'Metrica', deva:'Devanāgarī', skt:'sanscrito esplicito' },
+            es: { std:'Markdown estándar', ext:'Extensiones (markdown-it)', mmd:'Tablas MultiMD', cnt:'Bloques contenedor',
+                  h16:'H1–H6', bold:'Negrita', ital:'Cursiva', code:'Código inline', bq:'Blockquote', list:'Lista',
+                  link:'Enlace', img:'Imagen', tbl:'Tabla', hr:'Línea', br:'Salto de línea', ind:'Sangría inline',
+                  cs:'Colspan', rs:'Rowspan', yel:'amarillo', ora:'naranja', vio:'violeta', gry:'gris',
+                  indt:'sangrado', ctr:'centrado', med:'Bloque imagen', del:'invisible',
+                  noh:'Tabla sin cabecera', cmp:'tabla compacta', laut:'Tabla de sonidos', met:'Métrica', deva:'Devanāgarī', skt:'sánscrito explícito' },
+            fr: { std:'Markdown standard', ext:'Extensions (markdown-it)', mmd:'Tableaux MultiMD', cnt:'Blocs conteneurs',
+                  h16:'H1–H6', bold:'Gras', ital:'Italique', code:'Code inline', bq:'Blockquote', list:'Liste',
+                  link:'Lien', img:'Image', tbl:'Tableau', hr:'Ligne', br:'Saut de ligne', ind:'Retrait inline',
+                  cs:'Colspan', rs:'Rowspan', yel:'jaune', ora:'orange', vio:'violet', gry:'gris',
+                  indt:'indenté', ctr:'centré', med:'Bloc image', del:'invisible',
+                  noh:'Tableau sans en-tête', cmp:'tableau compact', laut:'Tableau phonèmes', met:'Métrique', deva:'Devanāgarī', skt:'sanskrit explicite' },
+            hi: { std:'मानक Markdown', ext:'एक्सटेंशन (markdown-it)', mmd:'MultiMD तालिका', cnt:'कंटेनर ब्लॉक',
+                  h16:'H1–H6', bold:'मोटा', ital:'तिरछा', code:'इनलाइन कोड', bq:'उद्धरण', list:'सूची',
+                  link:'लिंक', img:'चित्र', tbl:'तालिका', hr:'रेखा', br:'पंक्ति विराम', ind:'इनलाइन इंडेंट',
+                  cs:'Colspan', rs:'Rowspan', yel:'पीला', ora:'नारंगी', vio:'बैंगनी', gry:'धूसर',
+                  indt:'इंडेंट', ctr:'केंद्रित', med:'चित्र ब्लॉक', del:'अदृश्य',
+                  noh:'बिना शीर्षक तालिका', cmp:'संक्षिप्त तालिका', laut:'ध्वनि तालिका', met:'छंद', deva:'Devanāgarī', skt:'स्पष्ट संस्कृत' },
+            bg: { std:'Стандартен Markdown', ext:'Разширения (markdown-it)', mmd:'MultiMD таблици', cnt:'Контейнер блокове',
+                  h16:'H1–H6', bold:'Получер', ital:'Курсив', code:'Вграден код', bq:'Цитат', list:'Списък',
+                  link:'Връзка', img:'Изображение', tbl:'Таблица', hr:'Линия', br:'Нов ред', ind:'Вграден отстъп',
+                  cs:'Colspan', rs:'Rowspan', yel:'жълто', ora:'оранжево', vio:'виолетово', gry:'сиво',
+                  indt:'с отстъп', ctr:'центрирано', med:'Медиен блок', del:'невидим',
+                  noh:'Таблица без заглавие', cmp:'компактна таблица', laut:'Фонетична таблица', met:'Метрика', deva:'Devanāgarī', skt:'явен санскрит' },
+            ru: { std:'Стандартный Markdown', ext:'Расширения (markdown-it)', mmd:'MultiMD таблицы', cnt:'Контейнер-блоки',
+                  h16:'H1–H6', bold:'Жирный', ital:'Курсив', code:'Инлайн-код', bq:'Цитата', list:'Список',
+                  link:'Ссылка', img:'Изображение', tbl:'Таблица', hr:'Линия', br:'Перенос строки', ind:'Инлайн-отступ',
+                  cs:'Colspan', rs:'Rowspan', yel:'жёлтый', ora:'оранжевый', vio:'фиолетовый', gry:'серый',
+                  indt:'с отступом', ctr:'по центру', med:'Медиа-блок', del:'невидимый',
+                  noh:'Таблица без заголовка', cmp:'компактная таблица', laut:'Фонетическая таблица', met:'Метрика', deva:'Devanāgarī', skt:'явный санскрит' },
+            uk: { std:'Стандартний Markdown', ext:'Розширення (markdown-it)', mmd:'MultiMD таблиці', cnt:'Блоки контейнери',
+                  h16:'H1–H6', bold:'Жирний', ital:'Курсив', code:'Вбудований код', bq:'Цитата', list:'Список',
+                  link:'Посилання', img:'Зображення', tbl:'Таблиця', hr:'Лінія', br:'Перенос рядка', ind:'Вбудований відступ',
+                  cs:'Colspan', rs:'Rowspan', yel:'жовтий', ora:'помаранчевий', vio:'фіолетовий', gry:'сірий',
+                  indt:'з відступом', ctr:'по центру', med:'Медіа-блок', del:'невидимий',
+                  noh:'Таблиця без заголовка', cmp:'компактна таблиця', laut:'Фонетична таблиця', met:'Метрика', deva:'Devanāgarī', skt:'явний санскрит' },
+            ta: { std:'நிலையான Markdown', ext:'நீட்டிப்புகள் (markdown-it)', mmd:'MultiMD அட்டவணைகள்', cnt:'கொள்கலன் தொகுதிகள்',
+                  h16:'H1–H6', bold:'தடித்த', ital:'சாய்வு', code:'இணைக்கோடு குறியீடு', bq:'மேற்கோள்', list:'பட்டியல்',
+                  link:'இணைப்பு', img:'படம்', tbl:'அட்டவணை', hr:'கோடு', br:'வரி இடைவெளி', ind:'உட்செலுத்தல்',
+                  cs:'Colspan', rs:'Rowspan', yel:'மஞ்சள்', ora:'ஆரஞ்சு', vio:'ஊதா', gry:'சாம்பல்',
+                  indt:'உள்தள்ளல்', ctr:'மையம்', med:'படத் தொகுதி', del:'கண்ணுக்கு தெரியாத',
+                  noh:'தலைப்பு இல்லாத அட்டவணை', cmp:'சுருக்கமான அட்டவணை', laut:'ஒலி அட்டவணை', met:'மெட்ரிக்', deva:'Devanāgarī', skt:'வெளிப்படையான சமஸ்கிருதம்' },
+            pa: { std:'ਮਿਆਰੀ Markdown', ext:'ਐਕਸਟੈਂਸ਼ਨਾਂ (markdown-it)', mmd:'MultiMD ਸਾਰਣੀਆਂ', cnt:'ਕੰਟੇਨਰ ਬਲਾਕ',
+                  h16:'H1–H6', bold:'ਬੋਲਡ', ital:'ਤਿਰਛਾ', code:'ਇਨਲਾਈਨ ਕੋਡ', bq:'ਉਦਾਹਰਣ', list:'ਸੂਚੀ',
+                  link:'ਲਿੰਕ', img:'ਤਸਵੀਰ', tbl:'ਸਾਰਣੀ', hr:'ਲਾਈਨ', br:'ਲਾਈਨ ਬ੍ਰੇਕ', ind:'ਇਨਲਾਈਨ ਇੰਡੈਂਟ',
+                  cs:'Colspan', rs:'Rowspan', yel:'ਪੀਲਾ', ora:'ਸੰਤਰੀ', vio:'ਜਾਮਨੀ', gry:'ਸਲੇਟੀ',
+                  indt:'ਇੰਡੈਂਟ', ctr:'ਕੇਂਦਰਿਤ', med:'ਤਸਵੀਰ ਬਲਾਕ', del:'ਅਦਿੱਖ',
+                  noh:'ਬਿਨਾਂ ਸਿਰਲੇਖ ਸਾਰਣੀ', cmp:'ਸੰਖੇਪ ਸਾਰਣੀ', laut:'ਧੁਨੀ ਸਾਰਣੀ', met:'ਮੈਟ੍ਰਿਕ', deva:'Devanāgarī', skt:'ਸਪੱਸ਼ਟ ਸੰਸਕ੍ਰਿਤ' },
+            la: { std:'Markdown ordinarius', ext:'Extensiones (markdown-it)', mmd:'Tabulae MultiMD', cnt:'Segmenta continentia',
+                  h16:'H1–H6', bold:'Crassum', ital:'Obliquum', code:'Codiculus inline', bq:'Citatio', list:'Index',
+                  link:'Nexus', img:'Imago', tbl:'Tabula', hr:'Linea', br:'Fractio lineae', ind:'Impressio inline',
+                  cs:'Colspan', rs:'Rowspan', yel:'flavum', ora:'aurantium', vio:'violaceum', gry:'canum',
+                  indt:'impressum', ctr:'centratum', med:'Imago segmentum', del:'invisibile',
+                  noh:'Tabula sine capite', cmp:'tabula compacta', laut:'Tabula sonorum', met:'Metrica', deva:'Devanāgarī', skt:'Sanscritum expressum' },
+            rm: { std:'Markdown standard', ext:'Extensiuns (markdown-it)', mmd:'Tabelas MultiMD', cnt:'Blocs containers',
+                  h16:'H1–H6', bold:'Gras', ital:'Cursiv', code:'Code inline', bq:'Citaziun', list:'Lista',
+                  link:'Link', img:'Maletg', tbl:'Tabela', hr:'Lingia', br:'Ruptura da lingia', ind:'Endret inline',
+                  cs:'Colspan', rs:'Rowspan', yel:'mellen', ora:'oranscha', vio:'violett', gry:'grisch',
+                  indt:'endretà', ctr:'centrat', med:'Bloc maletg', del:'invisibel',
+                  noh:'Tabela senza testa', cmp:'tabela cumpacka', laut:'Tabela da tuns', met:'Metrica', deva:'Devanāgarī', skt:'Sanscrit explicit' },
+            ro: { std:'Markdown standard', ext:'Extensii (markdown-it)', mmd:'Tabele MultiMD', cnt:'Blocuri container',
+                  h16:'H1–H6', bold:'Îngroșat', ital:'Cursiv', code:'Cod inline', bq:'Citat', list:'Listă',
+                  link:'Link', img:'Imagine', tbl:'Tabel', hr:'Linie', br:'Întrerupere linie', ind:'Indentare inline',
+                  cs:'Colspan', rs:'Rowspan', yel:'galben', ora:'portocaliu', vio:'violet', gry:'gri',
+                  indt:'indentat', ctr:'centrat', med:'Bloc imagine', del:'invizibil',
+                  noh:'Tabel fără antet', cmp:'tabel compact', laut:'Tabel sunete', met:'Metrică', deva:'Devanāgarī', skt:'sanscrită explicită' },
+        };
+
+        function updateSyntaxLang(langCode) {
+            const t = SYNTAX_I18N[langCode] || SYNTAX_I18N['de'];
+            document.querySelectorAll('#syntax-pane [data-syn-h]').forEach(el => {
+                el.textContent = t[el.dataset.synH] || el.textContent;
+            });
+            document.querySelectorAll('#syntax-pane [data-syn-d]').forEach(el => {
+                el.textContent = t[el.dataset.synD] || el.textContent;
+            });
+        }
+
         const leftFrame = document.getElementById('left-frame');
         const rightFrame = document.getElementById('right-frame');
         const leftRaw = document.getElementById('left-raw');
@@ -1182,6 +1281,9 @@
             const num = lessonInput.value.padStart(2, '0');
             const leftVal = document.getElementById('left-lang').value;
             const rightVal = document.getElementById('right-lang').value;
+            // Update syntax pane language from right panel
+            const synLang = rightVal.includes('/') ? rightVal.split('/')[0] : 'de';
+            updateSyntaxLang(synLang);
             let lUrl = leftVal.includes('lektion') ? baseUrl + leftVal.replace(/lektion\d+/, 'lektion' + num) : baseUrl + leftVal;
             let rUrl = rightVal.includes('lektion') ? baseUrl + rightVal.replace(/lektion\d+/, 'lektion' + num) : baseUrl + rightVal;
             if (rUrl.includes('wortliste')) lUrl = noEquivalentMsg;
