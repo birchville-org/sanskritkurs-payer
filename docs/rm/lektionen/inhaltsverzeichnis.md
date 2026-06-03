@@ -12,7 +12,7 @@
 *   2\.1. La frasa nominala
 *   2\.2. Davla declinaziun (flectiun da nomina)
 *   2\.3. Il nominativ singular
-    *   2\.3.1. Nominativ Singular auf -s
+    *   2\.3.1. Nominativ singular sin -s
 *   2\.4. Sandhi -- सन्धि
     *   2\.4.1. Sandhi da -s final
 *   2\.5. Llista da vuschablas
@@ -20,11 +20,11 @@
 
 ## [Lecziun 3](lektion03)
 
-*   3\.1. Nominativ Singular des Femininums
-    *   3\.1.1. Nominativ Singular auf -s
+*   3\.1. Nominativ singular dal feminin
+    *   3\.1.1. Nominativ singular sin -s
     *   3\.1.2. Nominativ Singular senza desinenza
 *   3\.2. Furmaziun dal feminin per masculina
-*   3\.3. Nominativ Plural Maskulinum und Femininum
+*   3\.3. Nominativ plural maskulin ed feminin
 *   3\.4. Vokalsandhi
 *   3\.5. Satzsandhi da -ās
 *   3\.6. Llista da vuschablas
@@ -78,7 +78,7 @@
 *   7\.4. Il Neutrum (napuṃsaka n. = नपुंसक)
     *   7\.4.1. Neutrum dals stims sin -a
 *   7\.5. Classes de present athematic
-    *   7\.5.1. Primärendungen der 3. Person Plural bei athematischen Stämmen
+    *   7\.5.1. Terminaziuns primarias da la 3. persuna plural tar stims atematic
     *   7\.5.2. La quinta classe di presente (svādi = स्वादि = "su ecc.")
 *   7\.6. Llista da vuschablas
 *   7\.7. Exercizi
@@ -307,7 +307,7 @@
 *   2\7.5. Lista da vuschs
 *   2\7.6. Exercizi
 *   2\7.7. Paradigmas da declinaziun per imparar a memoria
-    *   2\7.7.1. Maskulina auf -a: नर
+    *   2\7.7.1. Masculins sin -a: नर
     *   2\7.7.2. Neutra sin finala -a: फल
     *   2\7.7.3. Feminina sur -ā: क्षत्रिया
     *   2\7.7.4. Masculins sur -i: अरि
@@ -643,13 +643,13 @@
 
 ## [Lecziun 52](lektion52)
 
-*   5\2.1. Neutrum der Stämme auf -i und -u
+*   5\2.1. Neutrum dals stims sin -i e -u
 *   5\2.2. Nominalbildung
     *   5\2.2.1. PPP + -vant: Partizpi dal passìv dal parasmaipada
     *   5\2.2.2. तद्धित-Suffix -maya / -mayī
     *   5\2.2.3. तद्धित-Suffix -eya
 *   5\2.3. Formaziun d’adverbis: sufix adverbial -śas
-*   5\2.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (अभुततद्भावः)
+*   5\2.4. Composits verbalas che expriman ch'insatgeva daventan u vegn fatg insatgeva ch'ellas n'èran betg avant (अभुततद्भावः)
     *   5\2.4.1. furmas cun cvi
     *   5\2.4.2. Sufiss -sāt
 *   5\2.5. Repetiziuns da vuschablas (द्विरुक्तम्)

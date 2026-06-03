@@ -166,7 +166,7 @@ ecc.
 
 Paradigmi completi in Kielhorn, Grammatik pag. 16ss.
 
-### 51.2.2. Parole der radice con consonante occlusiva palatale (c, ch, j), ś, ṣ
+### 51.2.2. Parole della radice con consonante occlusiva palatale (c, ch, j), ś, ṣ
 
 ::: grammar-box
 **Davanti a desinenza che inizia con vocale, la finale della radice rimane invariata.**

@@ -20,7 +20,7 @@ status: stable
 
 ## 3.1. Nominativ singular al femininului
 
-### 3.1.1. Nominativ Singular auf -s
+### 3.1.1. Nominativul singular terminat în -s
 
 De asemenea, următoarele teme nominal care se termină cu o vocală, formează Nominativul Singular în **-s**:
 

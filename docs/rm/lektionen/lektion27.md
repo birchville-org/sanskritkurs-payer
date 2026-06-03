@@ -304,7 +304,7 @@ Dipinto di Rāja Ravi Varmā (1848 - 1906).
 
 ## 27.7. Paradigmas da declinaziun per imparar a memoria
 
-### 27.7.1. Maskulina auf -a: नर
+### 27.7.1. Masculins sin -a: नर
 
 ::: grammar-box
 

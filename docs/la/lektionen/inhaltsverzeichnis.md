@@ -76,7 +76,7 @@
     *   7\.2.2. Usus Accusativi (Casum Accusativum, dvitīyā f. = द्वितीया = "secunda desinentia casalis")
 *   7\.3. Sandhi vocis finalis -n
 *   7\.4. Neutrum (napuṃsaka n. = नपुंसक)
-    *   7\.4.1. Neutrum der Stämme auf -a
+    *   7\.4.1. Neutrum stemmatum in -a
 *   7\.5. Praesentia athematica
     *   7\.5.1. Primae terminationes tertiae personae pluralis apud stipes athematicos
     *   7\.5.2. Quinta classis praesentis (svādi = स्वादि = "su et cetera")
@@ -460,7 +460,7 @@
 *   3\8.2. Mutatio phonetica nasaliūm in vōce
 *   3\8.3. Declinatio stemmatium in -n
     *   3\8.3.1. Nomina in -an, atque nomina in -man vel -van post vocalem
-    *   3\8.3.2. Nomina auf -man vel -van post consonantes
+    *   3\8.3.2. Nomina in -man vel -van post consonantes
     *   3\8.3.3. Masculina et Neutra in -in, -min, -vin
 *   3\8.4. De formatione nominali: Suffixum तद्धित -in
 *   3\8.5. Syntactica de नामन्
@@ -643,13 +643,13 @@
 
 ## [Lectio 52](lektion52)
 
-*   5\2.1. Neutrum der Stämme auf -i und -u
+*   5\2.1. Neutrum stemmatum in -i et -u
 *   5\2.2. Nominalium formatio
     *   5\2.2.1. PPP + -vant: Participium perfectum passivi Parasmaipada
     *   5\2.2.2. तद्धित-Suffix -maya / -mayī
     *   5\2.2.3. तद्धित-Suffix -eya
 *   5\2.3. Adverbiorum formatio: Adverbialis suffigum -śas
-*   5\2.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (अभुततद्भावः)
+*   5\2.4. Composita verbalia quae exprimunt aliquid fieri vel fieri id quod antea non erat (अभुततद्भावः)
     *   5\2.4.1. cvi-formata
     *   5\2.4.2. Suffixum -sāt
 *   5\2.5. Verba iterata (द्विरुक्तम्)

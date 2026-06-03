@@ -166,7 +166,7 @@ Aliae usus accusativi postea tractabuntur.
 **In Neutro, formae Nominativi (prathamā) et Accusativi (dvitīyā) idem sunt.**
 :::
 
-### 7.4.1. Neutrum der Stämme auf -a
+### 7.4.1. Neutrum stemmatum in -a
 
 ::: grammar-box
 - **Endung Nominativ / Akkusativ Singular: -m**

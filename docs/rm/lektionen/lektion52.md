@@ -9,7 +9,7 @@ status: stable
 
 # Lecziun 52
 
-## 52.1. Neutrum der Stämme auf -i und -u
+## 52.1. Neutrum dals stims sin -i e -u
 
 ::: grammar-box
 **Vor vokalisch anlautenden Endungen wird ein -n- eingeschoben, dies ist ein Einfluss der n-Stämme (-in).**
@@ -141,7 +141,7 @@ Coda avant il temple, Trivandrum = Thiruvananthapuram = തിരുവനന്
 (Sursa d’imagines: [Detagl](/rm/licenses#lekt5204))
 :::
 
-## 52.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (अभुततद्भावः)
+## 52.4. Composits verbalas che expriman ch'insatgeva daventan u vegn fatg insatgeva ch'ellas n'èran betg avant (अभुततद्भावः)
 
 ### 52.4.1. furmas cun cvi
 

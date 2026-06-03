@@ -12,7 +12,7 @@
 *   2\.1. Propoziția nominală
 *   2\.2. Despre declinare (flexiunea substantivelor)
 *   2\.3. Nominativul singular
-    *   2\.3.1. Nominativ Singular auf -s
+    *   2\.3.1. Nominativul singular terminat în -s
 *   2\.4. Sandhi -- सन्धि
     *   2\.4.1. Sandhi al sunetului -s
 *   2\.5. Listă de cuvinte
@@ -21,7 +21,7 @@
 ## [Lecție 3](lektion03)
 
 *   3\.1. Nominativ singular al femininului
-    *   3\.1.1. Nominativ Singular auf -s
+    *   3\.1.1. Nominativul singular terminat în -s
     *   3\.1.2. Nominativ Singular fără sufix
 *   3\.2. Formarea femininelor la masculine
 *   3\.3. Nominativ plural masculin și feminin

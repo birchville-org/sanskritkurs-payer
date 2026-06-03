@@ -103,7 +103,7 @@ Tab.: सीमा
 (Fons imaginis: [Detalia](/la/licenses#lekt3803))
 :::
 
-### 38.3.2. Nomina auf -man vel -van post consonantes
+### 38.3.2. Nomina in -man vel -van post consonantes
 
 ::: grammar-box
 *   Starker Stamm: -mān, -vān

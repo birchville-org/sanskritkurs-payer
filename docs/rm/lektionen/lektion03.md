@@ -18,9 +18,9 @@ status: stable
 - Satzsandhi von -ās
 :::
 
-## 3.1. Nominativ Singular des Femininums
+## 3.1. Nominativ singular dal feminin
 
-### 3.1.1. Nominativ Singular auf -s
+### 3.1.1. Nominativ singular sin -s
 
 Anche las suentas nominalas, che finischan cun in vocal, furman il nominativ singular cun **-s**:
 
@@ -58,7 +58,7 @@ Il Nominativ Singular senza desinenza viene formato da:
 
 ---
 
-## 3.3. Nominativ Plural Maskulinum und Femininum
+## 3.3. Nominativ plural maskulin ed feminin
 
 ::: grammar-box
 La desinenza dal Nominativ Plural en il Masculin ed il Feminin è **-as**.

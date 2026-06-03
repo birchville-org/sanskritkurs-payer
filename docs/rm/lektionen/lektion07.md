@@ -194,7 +194,7 @@ La quinta classe de present constituescha in stem da present ditg athematic, qua
 **Tut las autras furmas han il stem da present debel.**
 :::
 
-### 7.5.1. Primärendungen der 3. Person Plural bei athematischen Stämmen
+### 7.5.1. Terminaziuns primarias da la 3. persuna plural tar stims atematic
 
 ::: grammar-box
 **Bei athematischen Präsensstämmen lauten die Primärendungen der 3. Person Plural:**

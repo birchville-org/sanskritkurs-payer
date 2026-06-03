@@ -60,7 +60,7 @@ Exemplu: **devas** = देवस् (Nominativ Singular Masculin) "zeul/un zeu"
 **Nominativul singular se termină în -s = -स् sau este lipsit de terminație.**
 :::
 
-### 2.3.1. Nominativ Singular auf -s
+### 2.3.1. Nominativul singular terminat în -s
 
 Următoarele rădăcini nominale, care se termină cu o vocală, formează nominativul singular în **-s**:
 

@@ -9,7 +9,7 @@ status: stabilis
 
 # Lectio 52
 
-## 52.1. Neutrum der Stämme auf -i und -u
+## 52.1. Neutrum stemmatum in -i et -u
 
 ::: grammar-box
 **Vor vokalisch anlautenden Endungen wird ein -n- eingeschoben, dies ist ein Einfluss der n-Stämme (-in).**
@@ -141,7 +141,7 @@ Fila ante templum, Trivandrum = Thiruvananthapuram = തിരുവനന്ത
 (Fons imaginis: [Detalia](/la/licenses#lekt5204))
 :::
 
-## 52.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (अभुततद्भावः)
+## 52.4. Composita verbalia quae exprimunt aliquid fieri vel fieri id quod antea non erat (अभुततद्भावः)
 
 ### 52.4.1. cvi-formata
 

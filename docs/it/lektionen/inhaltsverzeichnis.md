@@ -633,7 +633,7 @@
 *   5\1.1. उपपद-Komposita
 *   5\1.2. Declinazione delle stemmi che terminano con una consonante semplice (tranne nasale, semivocale, -s)
     *   5\1.2.1. Tribù con consonante occlusiva non palatale
-    *   5\1.2.2. Parole der radice con consonante occlusiva palatale (c, ch, j), ś, ṣ
+    *   5\1.2.2. Parole della radice con consonante occlusiva palatale (c, ch, j), ś, ṣ
     *   5\1.2.3. Stemmi in -h
 *   5\1.3. Sandhi di h- iniziale
 *   5\1.4. Sandhi di ch- iniziale

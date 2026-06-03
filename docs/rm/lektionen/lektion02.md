@@ -60,7 +60,7 @@ En dicziunaris sanscrits vegnan nomina preschentadas en il **stam nominal**:
 **Il nominativ singular finischa cun -s = -स् uvegl è senza desinentza.**
 :::
 
-### 2.3.1. Nominativ Singular auf -s
+### 2.3.1. Nominativ singular sin -s
 
 I suvents stemas nominalas, che finischan cun in vocal, furman il nominativ singular cun **-s**:
 
