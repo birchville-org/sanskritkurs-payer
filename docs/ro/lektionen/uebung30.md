@@ -1,0 +1,181 @@
+---
+title: "Exercițiul 30"
+uebung_id: 30
+category: "Exercițiu"
+last_reconstructed: 2026-05-15
+---
+
+
+# Lecția 30
+
+A) Transformați următoarele forme verbale în forme optative corespunzătoare persoanei, numărului și genului verbi:
+
+::: grammar-box
+| Prezent | Optativ |
+| :--- | :--- |
+| १. **ह्रियते** | ह्रियेत |
+| २. **घ्नन्ति** | हन्युः |
+| ३. **स्मरति** | स्मरेत् |
+| ४. **स्थापयन्ति** | स्थापयेयुः |
+| ५. **स्तौति** | स्तुयात् |
+| ६. **सर्ज्यते** | सर्ज्येत |
+| ७. **सुन्वन्ति** | सुनुयुः |
+| ८. **सिञ्चति** | सिञ्चेत् |
+| ९. **शृणोति** | शृणुयात् |
+| १०. **शक्नुवन्ति** | शक्नुयुः |
+| ११. **वर्तन्ते** | वर्तेरन् |
+| १२. **वेशयन्ति** | वेशयेयुः |
+| १३. **वस्ते** | वसीत |
+| १४. **उष्यते** | उष्येत |
+| १५. **वाद्यते** | वाद्येत |
+| १६. **उच्यते** | उच्येत |
+| १७. **लम्भ्यते** | लम्भ्येत |
+| १८. **रक्षयन्ति** | रक्षayeयुः |
+| १९. **युध्यते** | युध्येत |
+| २०. **इज्यते** | इज्येत |
+| २१. **म्रियते** | म्रियेत |
+| २२. **मुञ्चन्ति** | मुञ्चेयुः |
+| २३. **मन्यन्ते** | मन्येरन् |
+| २४. **भवति** | भवेत् |
+| २५. **भजन्ति** | भजेयुः |
+| २६. **ब्रवीति** | ब्रूयात् |
+| २७. **बुध्यते** | बुध्येत |
+| २८. **पृच्छन्ति** | पृच्छेयुः |
+| २९. **पुनाति** | पुनीयात् |
+| ३०. **पाति** | पायात् |
+| ३१. **पीयते** | पीयेत |
+| ३२. **पद्यते** | पद्येत |
+| ३३. **पतति** | पतेत् |
+| ३४. **पाचयन्ति** | पाचयेयुः |
+| ३५. **नृत्यन्ति** | नृत्येयुः |
+| ३६. **नीयते** | नीयेet |
+| ३७. **द्विषते** | द्विषीरन् |
+| ३८. **पश्यन्ति** | पश्येयुः |
+| ३९. **दोग्धि** | दुह्यात् |
+| ४०. **दुष्यति** | दुष्येत् |
+| ४१. **देशयन्ति** | देशयेयुः |
+| ४२. **दहति** | दहेत् |
+| ४३. **तनुते** | तन्वीत |
+| ४४. **जानाति** | जानीयात् |
+| ४५. **जानते** | जानीरन् |
+| ४६. **जयन्ति** | जयेयुः |
+| ४७. **जायन्ते** | जायेरन् |
+| ४८. **चोर्यते** | चोर्येत |
+| ४९. **चारयति** | चारयेत् |
+| ५०. **गच्छन्ति** | गच्छेयुः |
+| ५१. **खाद्यते** | खाद्येत |
+| ५२. **क्रीणीते** | क्रीणीत |
+| ५३. **क्रियते** | क्रियेत |
+| ५४. **कोपयति** | कोपयेत् |
+| ५५. **कामयते** | कामयेत |
+| ५६. **इच्छति** | इच्छेत् |
+| ५७. **आययन्ति** | आययेयुः |
+| ५८. **आस्यते** | आस्येत |
+| ५९. **आप्नुवते** | आप्नुवीरन् |
+| ६०. **अस्यते** | अस्येत |
+| ६१. **सन्ति** | स्युः |
+| ६२. **अश्नुते** | अश्नुवीत |
+| ६३. **अर्हति** | अर्हेत् |
+| ६४. **अदन्ति** | अद्युः |
+| ६५. **अध्यापयन्ति** | अध्यापयेयुः |
+:::
+
+B) Traduceți următoarele propoziții și descompuneți compusele în sanscrită:
+
+१. **जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥**
+(आर्याणि सत्यानि)
+Buddha a proclamat învățăturile sale oamenilor pentru binele celor nobili, pentru ca ei să recunoască adevărurile noble.
+
+२. **ये नरा देवान्न यजेरन्व्रतानि च न चरेयुरनृतं च वदेयुरधर्मं च कुर्युस्ते सुखं नाप्नुयुर्मृत्वा च नरकं पतेयुः ॥२॥**
+Oamenii care nu jertfesc zeilor, nu țin jurăminte, mințesc și fac nedreptate, nu vor fi fericiți și, după moartea lor, vor cădea într-o iad.
+
+३. **ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो ज्ञातिं दासमाययति ॥३॥**
+(आर्यपुत्रः — आर्याणां पुत्रः)
+Fiul nobil vrea ca rudele sale să vină și trimite un slujitor să aducă rudele.
+
+४. **अन्नलोभाद्दुःखं जायेतेति प्राप्तज्ञानः सुफलानि नाश्नाति ॥४॥**
+(अन्नस्य लोभात् । प्राप्तं ज्ञानं येन सः)
+Convingându-se că suferința provine din lăcomia pentru mâncare, el nu mănâncă fructele bune.
+
+५. **क्रयेण च विक्रयेण च वैश्या जीवेयुरिति वैश्यधर्मः । एवं सति वैश्यपुत्राः क्रीणन्ति विक्रीणते च ॥५॥**
+(वैश्यानां पुत्राः)
+Datoria Vaiśyelor este de a trăi din cumpărare și vânzare. De aceea, Vaiśyii cumpără și vând.
+
+६. **कृतपापो नरश्चेन्नरके पापात्पूतः स्यात्पुनर्भवं गच्छेत् ॥६॥**
+(कृतं पापं येन सः । पुनर्भव — पुनः भवति इति)
+Când un făptuitor de rău este curățat de răutatea sa într-o iad, el se renaște.
+
+७. **ब्राह्मणपुत्रा वेदाध्यायांश्च स्मृत्यध्यायांश्च पुनः पुनरधीयीरन्नित्यार्यधर्मः ॥७॥**
+(ब्राह्मणानां पुत्राः । वेदानामध्यायांश्च स्मृतीनामध्यायांश्च)
+Datoria nobililor este ca fiii Brahmanului să studieze din nou și din nou secțiunile Vedelor și ale tradiției.
+
+८. **यो ब्राह्मणः शूद्रां कामयेत स सद्ब्राह्मणो न स्यात् । सद्ब्राह्मणो हि ब्राह्मणीं कामयेत ॥८॥**
+(सन्-ब्राह्मणः)
+Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Brahmane liebt eine Brahmanin.
+
+९. **सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् ।**  
+**प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥** (Manu IV.138)  
+Să se spună adevăruri plăcute, să nu se spună adevăruri neplăcute; să nu se spună minciuni plăcute, acesta este legea veșnică.
+
+::: media
+![](/images/uebung048.jpg)
+Fig.: श्रीमोहनभोपेन रावणहस्तो वाद्यते
+(Sursa imaginii: [Detalii](/licenses#uebung048))
+:::
+
+---
+
+## Determinarea formei cuvântului
+
+Determinați și traduceți următoarele forme de cuvânt:
+
+::: grammar-box
+| Formă de cuvânt | Determinare | Semnificație |
+| :--- | :--- | :--- |
+| १. **भारे** | Loc. sg. m. | pe povară |
+| २. **अध्ययनम्** | Nom./Akk. sg. n. | studiu |
+| ३. **वस्तुतः** | Adv. | în realitate |
+| ४. **वस्त्राणि** | Nom./Akk. pl. n. | haine |
+| ५. **प्रतिमया** | Instr. sg. f. | printr-o imagine |
+| ६. **आचाराय** | Dat. sg. m. | comportamentului |
+| ७. **आचार्यैः** | Instr. pl. m. | prin profesori |
+| ८. **अश्वेषु** | Loc. pl. m. | pe cai |
+| ९. **ताम्** | Akk. sg. f. | acestea |
+| १०. **वृत्त्यै** | Dat. sg. f. | stilului de viață |
+| ११. **चरितस्य** | Gen. sg. n. | al biografiei |
+| १२. **अर्हता** | Instr. sg. m. | prin Arhat |
+| १३. **शक्तीः** | Akk. pl. f. | puterile |
+| १४. **कामम्** | Adv. | la discreție |
+| १५. **भिक्षवे** | Dat. sg. m. | călugărului |
+| १६. **भगवद्गीतायाम्** | Loc. sg. f. | în Bhagavadgītā |
+| १७. **भगवति** | Loc. sg. m./n. | în Preafericitul |
+| १८. **भक्त्याः** | Abl./Gen. sg. f. | al iubirii / din iubire |
+| १९. **स्थानात्** | Abl. sg. n. | din loc |
+| २०. **स्थित्या** | Instr. sg. f. | prin stabilire |
+| २१. **मात्रायै** | Dat. sg. f. | măsurii |
+| २२. **प्रभृतौ** | Loc. sg. f. | la început |
+| २३. **हस्तेन** | Instr. sg. m. | prin mână |
+| २४. **आदेः** | Abl./Gen. sg. m. | al/ de la început |
+| २५. **दिष्टिम्** | Akk. sg. f. | instrucțiunea |
+| २६. **रुद्रः** | Nom. sg. m. | Rudra |
+| २७. **मृत्यौ** | Loc. sg. m. | în moarte |
+| २८. **मृतिः** | Nom. sg. f. | moartea |
+| २९. **द्विजातये** | Dat. sg. m./f. | celor născuți de două ori |
+| ३०. **जातिभिः** | Instr. pl. f. | prin nașteri |
+| ३१. **व्याघ्रान्** | Akk. pl. m. | tigrii |
+| ३२. **पूजाः** | Nom./Akk. pl. f. | omagiile |
+| ३३. **शत्रोः** | Abl./Gen. sg. m. | al/ de la dușman |
+| ३४. **उक्तिभ्यः** | Dat./Abl. pl. f. | celor/ de la spuse |
+| ३५. **महान्ति** | Nom./Akk. pl. n. | marii |
+| ३६. **महति** | Loc. sg. m./n. | în mare |
+| ३७. **सा** | Nom. sg. f. | ea, aceasta |
+| ३८. **तस्यै** | Dat. sg. f. | ei |
+| ३९. **तस्मिन्** | Loc. sg. m./n. | în acesta, în acest |
+| ४०. **सते** | Dat. sg. m./n. | Ființei / Bunei |
+:::
+
+::: media
+![](/images/uebung047.jpg)
+Fig.: भक्त्याः
+(Sursa imaginii: [Detalii](/licenses#uebung047))
+:::
