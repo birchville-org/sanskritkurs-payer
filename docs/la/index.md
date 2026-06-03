@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: Sanskritcursus
+  name: Sanskritus cursus
   text: Cursus completus
-  tagline: ab Aloio Payer (Bibliotheca Villae Globalis Tüpfli)
+  tagline: ab Aloio Payer (Bibliotheca Globale Village Tüpfli)
   actions:
     - theme: brand
       text: Cursum incipere
@@ -15,20 +15,20 @@ hero:
 
 features:
   - title: Devanāgarī ready
-    details: Typographia perfecta, scriptis Indicis integrata.
+    details: Typographia perfecta, integrata pro scriptis Indicis.
   - title: Facilis perquisitio
     details: Quaestio textualis localis profunda scientiam ad digitos praebet.
   - title: Architectura moderna
-    details: Fundamentum VitePress pro velocitate maxima.
+    details: Fundatum super VitePress pro maxima celeritate.
 ---
 
-::: tip Version 1.3 — in evolutione posita
+::: tip Versio 1.3 — in evolutione
 **Novum in v1.3 (Iunius 2026):**
 
-- **Linguae novae:** Panjabica (PA) ✅ · Latina (LA) 🔄 · Rumantsch Grischun (RM) 🔄 · Dacoromanica (RO) 🔄
-- **Glossarium:** Sanscritum–Germanice alphabetice cum IAST et directis ad [Monier-Williams Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) alligationibus, in omnibus linguis
-- **Visualizator QA:** Editor Markdown cum praevisione viva, synchronisatione fontis crudi, functione SWAP
-- **Qualitas:** Praevigilationes automaticae ante push pro erroribus translationis
+- **Linguae novae:** Panjabica (PA), Latina (LA), Rumantsch Grischun (RM), Dacoromanica (RO)
+- **Glossarium:** Sanscritum alphabetice cum IAST et directa ad [Monier-Williams 1899 Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/)
+- **Visualizator QA:** Editor Markdown amplificatus cum praevisione viva, synchronisatione fontis crudi, functione SWAP
+- **Qualitas:** Pre-push automatici probantes pro erroribus translationis
 
-**Notae et nuntii errorum:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Nota et nuntii errorum:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 :::

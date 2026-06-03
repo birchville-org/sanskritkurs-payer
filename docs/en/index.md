@@ -1,3 +1,4 @@
+```yaml
 ---
 layout: home
 
@@ -17,16 +18,19 @@ features:
   - title: Devanāgarī ready
     details: Perfect, integrated typography for Indian scripts.
   - title: Easily Searchable
-    details: A deep local full-text search keeps knowledge at your fingertips.
+    details: Deep local full-text search keeps knowledge at your fingertips.
   - title: Modern Architecture
     details: Built on the foundation of VitePress for maximum speed.
 ---
 
-::: tip BETA TEST
-This website represents a beta test intended to investigate the quality of AI-generated translations.
+::: tip Version 1.3 — In Development
+**New in v1.3 (June 2026):**
 
-**Comments and error reports of any kind are requested at:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+- **New Languages:** Punjabi (PA), Latin (LA), Romansh Grischun (RM), Romanian (RO)
+- **Glossary:** Sanskrit alphabetized with IAST and direct linking to the [Monier-Williams 1899 Dictionary](https://www.sanskrit-lexicon.uni-koeln.de/)
+- **QA Viewer:** Enhanced Markdown editor with live preview, raw-source sync, and SWAP functionality
+- **Quality:** Automatic pre-push checks for translation errors
 
-**Test Setup:** Google Antigravity with Gemini 3 Flash and mass translation with Gemma 4:26b (ollama, local) on M4/32 GB.
-Later: Switch to Claude Sonnet 4.6 (Gemini Flash 3.5 with sudden cost increase) and local mlx-community/Qwen3.6-35B-A3B-4bit (better translations).
+**Comments and error reports:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 :::
+```

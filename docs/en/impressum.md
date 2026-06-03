@@ -1,25 +1,39 @@
 ---
 layout: doc
-title: Credits & Citation
+title: Impressum & Citation
 ---
 
-# Credits, Copyright & Citation
+# Impressum, Copyright & Citation
 
-*The following text was moved from the lesson files during conversion to improve reading flow.*
+*The following text was extracted during the conversion from the lesson files to improve the reading flow.*
 
 ## Citation | cite as:
-**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- 2010 Version. -- URL: http://www.payer.de/sanskritkurs/
+**Payer, Alois &lt;1944 - &gt;:** Sanskrit Course. -- Version of 2010. -- URL: http://www.payer.de/sanskritkurs/
 
-## Context
-Created for courses held between 1980 - 1984.
+## Occasion
+Created for the courses 1980 - 1984
 
 ## Copyright
-This text is available to the general public.
-Any use in publications that goes beyond common citations requires the express permission of the author.
+This text is available to the public. 
+Any use in publications that goes beyond standard quotations requires the explicit permission of the author.
 
 This text is part of the Sanskrit section of **Tüpfli's Global Village Library**.
 
 ---
 
-### Note on Characters
-If the diacritical marks are not displayed correctly, please install a font that supports diacritics. The Devanāgarī characters are encoded in Unicode.
+## License of this publication
+
+**Original text** (German lessons): © Alois Payer. The text is available to the general public; its use in publications requires the explicit permission of the author.
+
+**AI-generated translations** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) and **technical pipeline** (scripts, QA viewer, VitePress configuration):
+
+- Translations: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Attribution, ShareAlike
+- Code/Pipeline: [MIT License](https://opensource.org/licenses/MIT)
+
+**Citation format for the translations:**
+> Payer, Alois: Sanskrit course. Translated with AI assistance. Marco Demarmels (ed.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+
+---
+
+### Note on the Script
+Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

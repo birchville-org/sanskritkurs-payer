@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Registro degli argomenti
+# Registro dei Temi
 
-Il registro degli argomenti viene generato automaticamente dai titoli di tutte le lezioni. Consente un accesso rapido a specifici fenomeni grammaticali.
+Il Registro dei Temi viene generato automaticamente dagli titoli di tutte le lezioni. Consente un accesso rapido a specifici fenomeni grammaticali.
 
 &lt;PayerTopicIndex /&gt;
 

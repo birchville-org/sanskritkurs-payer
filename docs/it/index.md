@@ -7,7 +7,7 @@ hero:
   tagline: di Alois Payer (Biblioteca della Global Village di Tüpfli)
   actions:
     - theme: brand
-      text: Avvia il corso
+      text: Inizia il corso
       link: /it/lektionen/lektion01
     - theme: alt
       text: Argomenti di grammatica
@@ -16,17 +16,19 @@ hero:
 features:
   - title: Devanāgarī ready
     details: Tipografia perfetta e integrata per le scritture indiane.
-  - title: Facilmente ricercabile
-    details: Una ricerca full-text locale approfondita tiene la conoscenza a portata di clic.
+  - title: Facile da cercare
+    details: Una ricerca full-text locale approfondita tiene la conoscenza a portata di pulsante.
   - title: Architettura moderna
-    details: Costruita sulle fondamenta di VitePress per la massima velocità.
+    details: Costruito sulle fondamenta di VitePress per la massima velocità.
 ---
 
-::: tip BETA-TEST
-Questo sito web rappresenta un test beta, volto a indagare la qualità delle traduzioni generate dall'intelligenza artificiale.
+::: tip Versione 1.3 — in sviluppo
+**Novità nella v1.3 (giugno 2026):**
 
-**Commenti e segnalazioni di errori di qualsiasi tipo sono graditi a:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+- **Nuove lingue:** Punjabi (PA), Latino (LA), Rumantsch Grischun (RM), Rumeno (RO)
+- **Glossario:** sanscrito in ordine alfabetico con IAST e collegamento diretto al [Dizionario Monier-Williams 1899](https://www.sanskrit-lexicon.uni-koeln.de/)
+- **Visualizzatore QA:** Editor Markdown avanzato con anteprima in tempo reale, sincronizzazione della sorgente grezza, funzione SWAP
+- **Qualità:** Controlli automatici pre-push per errori di traduzione
 
-**Configurazione del test:** Google Antigravity con Gemini 3 Flash e traduzione di massa con Gemma 4:26b (ollama, locale) su M4/32 GB.
-In seguito: passaggio a Claude Sonnet 4.6 (Gemini Flash 3.5 con aumento esponenziale dei costi) e mlx-community/Qwen3.6-35B-A3B-4bit locale (traduzioni migliori).
+**Note e segnalazioni di bug:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 :::
