@@ -1,0 +1,490 @@
+---
+title: Lecția 58
+subtitle: "Terminațiile primare ale dualului (द्विवचनम्)"
+lesson_id: 58
+last_reconstructed: 2026-05-21
+category: "Gramatică"
+status: stable
+---
+
+# Lecția 58
+
+## 58.1. Desinențele primare ale dualului (द्विवचनम्)
+
+::: grammar-box
+|   | **परस्मैपदम्** | **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: |
+|   |   | tematic | atematic |
+| **1. तृतीयः** | -vas | -vahe ||
+| **2. मध्यमः** | -thas | -***ī***the | -***ā***the |
+| **3. प्रथमः** | -tas | -***ī***te | -***ā***te |
+:::
+
+## 58.2. Dualul claselor de prezent tematic: Indicativ prezent (लट्)
+
+Înainte de -vas și -vahe, vocala tematică -a- este înlocuită cu -ā-.
+
+### 58.2.1. Prima clasă de prezent (भ्वादिगणः)
+
+भू 1P "a deveni, a fi"
+
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | भवावस्[[br]]"noi doi devenim" | &lt;भवावहे&gt; |
+| **2. मध्यमः** | भवथस्[[br]]"voi doi deveniți" | &lt;भवेथे&gt;[[br]]bhav-a + īthe |
+| **3. प्रथमः** | भवतस्[[br]]"ei doi devin" | &lt;भवेते&gt; |
+
+### 58.2.2. A patra clasă de prezente (दिवादिगणः)
+
+नृत् 4P "a dansa"
+
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | नृत्यावस् | नृत्यावहे |
+| **2. मध्यमः** | नृत्यथस् | नृत्येथे |
+| **3. प्रथमः** | नृत्यतस् | नृत्येते् |
+
+::: media
+![](/images/lekt5802.jpg)
+Fig.: नृत्यतः
+ओडिसी
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5802))
+:::
+
+### 58.2.3. A șasea clasă de prezent (तुदादिगणः)
+
+तुद् 6U "a împinge, a lovi"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तुदावस् | तुदावहे |
+| 2\. मध्यमः | तुदथस् | तुदेथे |
+| 3\. प्रथमः | तुदतस् | तुदेते |
+:::
+
+### 58.2.4. A zecea clasă de prezent (चुरादिगणः) și cauzative (णिजन्त)
+
+चुर् 10U "a fura"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | चोरयावस् | चोरयावहे |
+| 2\. मध्यमः | चोरयथस् | चोरयेथे |
+| 3\. प्रथमः | चोरयतस् | चोरयेते |
+:::
+
+::: media
+![](/images/lekt5803.jpg)
+Fig.: वानरौ रथाद्भाण्डानि चोरयतः
+Parcul Național Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5803))
+:::
+
+## 58.3. Dualul viitorului simplu (ऌत्)
+
+### 58.3.1. अनिट्
+
+दा 3U "a da"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दास्यावस् | दास्यावहे |
+| 2\. मध्यमः | दास्यथस् | दास्येथे |
+| 3\. प्रथमः | दास्यतस् | दास्येते |
+:::
+
+### 58.3.2. सेट्
+
+भू 1P „a deveni, a fi“
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | भविष्यावस् | भविष्यावहे |
+| 2\. मध्यमः | भविष्यथस् | भविष्येथे |
+| 3\. प्रथमः | भविष्यतस् | भविष्येते |
+:::
+
+## 58.4. Dualul pasiv (Sufixul -यक्)
+
+तुद् 6U "a împinge, a lovi"
+
+::: grammar-box
+| 1\. तृतीयः | तुद्यवाहे |
+| --- | --- |
+| 2\. मध्यमः | तुद्येथे |
+| 3\. प्रथमः | तुद्येते |
+:::
+
+## 58.5. Dualul claselor de prezent atematic: Indicativ prezent (लट्)
+
+### 58.5.1. A doua clasă de prezent (अदादिगणः)
+
+द्विष् 2U "a urî"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | द्विष्वस् | द्विष्वहे |
+| 2\. मध्यमः | द्विष्ठस् | द्विषाथे |
+| 3\. प्रथमः | द्विष्टस् | द्विषाते |
+:::
+
+दुह् 2U "a mulge"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दुह्वस् | दुह्वहे |
+| 2\. मध्यमः | ***दुग्धस्*** | दुहाथे |
+| 3\. प्रथमः | ***दुग्धस्*** | दुहाते |
+:::
+
+इ 2P "a merge"
+
+::: grammar-box
+|   | परस्मैपदम् |
+| --- | --- |
+| 1\. तृतीयः | इवस् |
+| 2\. मध्यमः | इथस् |
+| 3\. प्रथमः | इतस् |
+:::
+
+::: media
+![](/images/lekt5806.jpg)
+Fig.: उष्ट्रौ मरावितः
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5806))
+:::
+इ + अधि 2Ā "a studia"
+
+::: grammar-box
+|   | आत्मनेपदम् |
+| --- | --- |
+| 1\. तृतीयः | अधीवहे |
+| 2\. मध्यमः | अधी***या***थे |
+| 3\. प्रथमः | अधी***य***ते |
+:::
+
+::: media
+![](/images/lekt5804.jpg)
+Fig.: कन्ये अधीयते
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5804))
+:::
+
+
+हन् 2P "a ucide"
+
+::: grammar-box
+|   | **परस्मैपदम्** |
+| :--- | :---: |
+| **1. तृतीयः** | हन्वस् |
+| **2. मध्यमः** | ***हथस्***[[br]]*hn-thas |
+| **3. प्रथमः** | ***हतस्*** |
+:::
+
+अस् 2P "a fi"
+
+::: grammar-box
+|   | **परस्मैपदम्** |
+| :--- | :---: |
+| **1. तृतीयः** | ***स्वस्***[[br]]s-vas |
+| **2. मध्यमः** | ***स्थस्*** |
+| **3. प्रथमः** | ***स्तस्*** |
+:::
+
+::: media
+![](/images/lekt5805.jpg)
+Fig.: भगिन्यौ स्वः
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5805))
+:::
+
+### 58.5.2. A treia clasă de prezent (जुहोत्यादिगणः)
+
+हु 3P "a turna în focul jertfei"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | जुहुवस् | &lt;जुहुवहे&gt; |
+| 2\. मध्यमः | जुहुथस् | &lt;जुह्वाथे&gt; |
+| 3\. प्रथमः | जुहुतस् | &lt;जुह्वाते&gt; |
+:::
+
+धा 3U "a așeza, a pune, a sta"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | दध्वस् | दध्वहे |
+| 2\. मध्यमः | धत्थस् | दधाथे |
+| 3\. प्रथमः | धत्तस् | दधाते |
+:::
+
+### 58.5.3. Cincia a cincea clasă de prezens (स्वादिगणः)
+
+सु 5U "a stoarce"
+
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | सुनुवस् / सुन्वस् | सुनुवहे / सुन्वहे |
+| **2. मध्यमः** | सुनुथस् | सुन्वाथे |
+| **3. प्रथमः** | सुनुतस् | सुन्वाते |
+
+::: media
+![](/images/lekt5807.jpg)
+Fig.: शर्कराम्बु सुनुतः
+पुणेनगरे
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5807))
+:::
+
+### 58.5.4. A optulea clasă de prezente (तनादिगणः)
+
+तन् 8U "a întinde"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | तनुवस् / तन्वस् | तनुवहे / तन्वहे |
+| 2\. मध्यमः | तनुथस् | तन्वाथे |
+| 3\. प्रथमः | तनुतस् | तन्वाते |
+:::
+
+कृ 8U "a face, a face"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | कुर्वस् | कुर्वहे |
+| 2\. मध्यमः | कुरुथस् | कुर्वाथे |
+| 3\. प्रथमः | कुरुतस् | कुर्वाते |
+:::
+
+### 58.5.5. A șaptea clasă de prezent (रुधादिगणः)
+
+रुध् 7U "opri"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | रुन्ध्वस् | रुन्ध्वहे |
+| 2\. मध्यमः | ***रुन्द्धस्*** | रुन्धाथे |
+| 3\. प्रथमः | रुन्द्धस् | रुन्धाते |
+:::
+
+युज् 7U "încălăi"
+
+::: grammar-box
+|   | परस्मैपदम् | आत्मनेपदम् |
+| --- | --- | --- |
+| 1\. तृतीयः | युञ्ज्वस् | युञ्ज्वहे |
+| 2\. मध्यमः | युङ्क्थस् | युञ्जाथे |
+| 3\. प्रथमः | युङ्क्तस् | युञ्जाते |
+:::
+
+### 58.5.6. A noua clasă de prezent (क्र्यादिगणः)
+
+क्री 9U "a cumpăra"
+
+|   | **परस्मैपदम्** | **आत्मनेपदम्** |
+| :--- | :---: | :---: |
+| **1. तृतीयः** | क्रीणीवस् | क्रीणीवहे |
+| **2. मध्यमः** | क्रीणीथस् | क्रीणाथे[[br]]krī-ṇ-āthe |
+| **3. प्रथमः** | क्रीणीतस् | क्रीणाते |
+
+::: media
+![](/images/lekt5801.jpg)
+Fig.: स्त्रियौ शाकं क्रीणाते
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5801))
+:::
+
+## 58.6. Aorist 5: iṣ-Aorist
+
+::: grammar-box
+**Aoristul iṣ se formează de la toate rădăcinile seṭ, pentru care nu se învață explicit o altă formă a aoristului.**
+
+**Formare:**
+
+**Augment + Rădăcină + i + s + terminație secundară fără augment**
+
+***!!!*** Pers. 2.sg.P și Pers. 3.sg.P provin din ***-***īs, respectiv -īt din ***!!!*** (Acest lucru a rezultat din transferul imperfectului de la rădăcini de tipul अब्रवीत्; sunt, așadar, de fapt forme de aorist al rădăcinii).
+:::
+
+Sufixul de formare a temei + terminațiile aoristului iṣ sunt, așadar:
+
+::: grammar-box
+
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. Pers. तृतीयः** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
+| **2. Pers. द्वितीयः** | ***-īs*** | **-iṣṭa** | **-iṣṭhās** | ***-***idhvam / [[br]]-iḍhvam[[br]](opțional după -h sau semivocală) |
+| **3. Pers. प्रथमः** | ***-īt*** | **-iṣur** | **-iṣṭa** | **-iṣata** |
+
+:::
+
+::: grammar-box
+**Forma rădăcinii:**
+
+*   **Rădăcini cu vocală scurtă înainte de consoană simplă: gradul înalt în P și Ā**  
+    Exemple:  
+    बुध् 1U: 1.sg.P अबोधिषम्  
+    कॢप् 1Ā: 1.sg.Ā अकल्पिषि
+
+*   **Rădăcini cu vocală finală:**
+    *   **P: Gradul lung**
+    *   **Ā: Gradul înalt**
+
+    Exemple:  
+    पू 9U: 1.sg.P अपाविषम् ; 1. sg.Ā अपविषि
+
+*   **Rădăcini pe -ar., -al, precum și वद् 1P "a spune", व्रज् 1P "a merge departe": P: Gradul lung**  
+    Exemple:  
+    चर् 1P: 1.sg.P अचारिषम्  
+    वद् 1P: 1.sg.P अवादिषम्
+
+*   **Alte rădăcini de forma (Consoană-)Consoană-a-Consoană: în P opțional gradul lung (nu se aplică pentru rădăcini pe -h, -m, -y, precum și pentru alte câteva rădăcini)**  
+    Exemplu:  
+    तन् 8U: 1.sg.P अतनिषम् / अतानिषम्  
+    dar:  
+    क्रम् 1U: 1.sg.P अक्रमिषम्
+:::
+
+Paradigme:
+
+पू 9U "a curăța"
+
+::: indent
+|   | **परस्मैपदम्** || **आत्मनेपदम्** ||
+| :--- | :---: | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
+| **1. Pers. तृतीयः** | अपाविषम् | पाविष्म | अपविषि | अपविष्महि |
+| **2. Pers. द्वितीयः** | अपावीस् | अपाविष्ट | अपविष्ठास् | अपविध्वम् / [[br]]अपविढ्वम् |
+| **3. Pers. प्रथमः** | अपावीत् | अपाविषुर् | अपविष्ट | पविषत |
+:::
+
+बुध् 1U "a se trezi, a recunoaște"
+
+::: indent
+|   | **परस्मैपदम्** ||
+| :--- | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** |
+| **1. Pers. तृतीयः** | अबोधिषम् | अबोधिष्म |
+| **2. Pers. द्वितीयः** | अबोधीस् | अबोधिष्ट |
+| **3. Pers. प्रथमः** | अबोधीत् | अबोधिषुर् |
+:::
+
+कॢप् 1Ā "a fi potrivit"
+
+::: indent
+|   | **आत्मनेपदम्** ||
+| :--- | :---: | :---: |
+|   | **एकवचनम्** | **बहुवचनम्** |
+| **1. Pers. तृतीयः** | अकल्पिषि | अकल्पिष्महि |
+| **2. Pers. द्वितीयः** | अकल्पिष्ठास् | अकल्पिध्वम् |
+| **3. Pers. प्रथमः** | अकल्पिष्ट | अकल्पिषत |
+:::
+
+::: grammar-box
+**Particularități:**
+
+1.  La unele rădăcini, vocala de legătură -i- din आत्मनेपद poate fi înlocuită cu -ī-. După ग्रह् 9U "a prinde", această înlocuire trebuie să aibă loc în P și Ā:  
+    अग्र***ही***षम् , अग्र***ही***षि
+
+2.  Rădăcinile celei de-a 8-a clase de prezent pe -n (sau -ṇ) pot fi în gradul scăzut la 2.3.sg.Ā:  
+    तन् 8U: 2.sg.Ā अतनिष्ठास् / अतथस् (aorist al rădăcinii) ; 3. sg. Ā अतनिष्ट / अतत
+
+3.  दीप् 4Ā, जन् 4Ā și altele pot lua, în loc de 3.sg. Ā, și forma de pasivaorist:  
+    अदीपिष्ट / अदीपि ; अजनिष्ट / अजनि
+
+4.  विज् 7P nu are ablaut:  
+    अविजीत्
+:::
+
+::: media
+![](/images/lekt5808.jpg)
+Fig.: दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5808))
+:::
+
+## 58.7. Exerciții
+
+A) Determinați și traduceți fără instrumente auxiliare următoarele forme și formați corespunzătoarele forme ale aoristului în -i:
+
+1.  औहे
+2.  जाग्रति
+3.  जीर्यन्ति
+4.  आनर्च
+5.  खादामः
+6.  नेद
+7.  आश्नीत
+8.  पुनते
+9.  अशेरत
+10.  इयेषिथ
+11.  आर्च्छत्
+12.  अर्हन्ति
+13.  ऊदुः
+14.  इन्त्से
+15.  आध्वे
+16.  कल्पे
+17.  आनीत्
+18.  ऐक्षध्वम्
+19.  अचेतः
+
+B) Traduceți și determinați următoarele forme:
+
+1.  अनेढ्वम्
+2.  एनयोः
+3.  अष्टौ
+4.  चक्रम
+5.  ना
+6.  अत्तः
+7.  अधृत
+8.  ईहेरन्
+9.  अधिजगे
+10.  जग्म
+11.  अघ्रात्
+12.  अद्राक्ष्म
+13.  अस्थाः
+14.  अधमः
+15.  आनर्ध
+16.  पथोः
+17.  जेता
+18.  श्वा
+19.  स्वः
+20.  यदृच्छया
+21.  अकार्षम्
+22.  क्रीणीथः
+23.  क्रीणीथ
+24.  जानानि
+25.  भोः
+26.  अजैष्त
+27.  पुरा
+28.  देवा
+29.  गन्धी
+30.  ईय
+31.  नाना
+32.  देह
+33.  अतत
+34.  आप्स्यावः
+35.  अतौत्त
+36.  इमे
+37.  इतः
+38.  दद
+39.  अञ्ज्वः
+
+::: deleteme-box
+
+**lekt5802:** ओडिसी [Sursă imagine: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Accesat la 2009-03-02. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)]
+
+**lekt5803:** Parcul Național Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
+
+**lekt5806:** [Sursă imagine: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- Accesat la 2009-03-02. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, fără utilizare comercială, fără modificări)]
+
+**lekt5807:** पुणेनगरे
+
+**lekt5801:** [Sursă imagine: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Accesat la 2009-03-02. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, fără utilizare comercială, fără modificări)]
+
+:::
