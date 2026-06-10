@@ -5,3 +5,4 @@ docs/.vitepress/cache
 .vscode/Payer.code-workspace
 *.log
 CLAUDE_REVIEW.md
+deleteme/
