@@ -229,7 +229,7 @@ html {
 .vp-doc table strong em .sanskrit-dev,
 .vp-doc table em strong .sanskrit-dev,
 .vp-doc table mark .sanskrit-dev {
-  color: #ff0000 !important; /* Hellrot highlight */
+  color: #b22222 !important; /* Scholarly red (Hellrot) */
 }
 
 /* Make Devanagari inside tables larger for better legibility */
@@ -496,45 +496,92 @@ html {
 /* Hellrot-Hervorhebung (Explizit via ***word*** oder <strong><em>) */
 .vp-doc strong em,
 .vp-doc em strong {
-  color: #ff0000 !important;
+  color: #b22222 !important;
   font-style: normal !important;
   font-weight: 800 !important;
 }
 
 .dark .vp-doc strong em,
 .dark .vp-doc em strong {
-  color: #ef4444 !important;
+  color: #8b1a1a !important;
 }
 
+/* Robust SignalRot handling: targets .sanskrit-dev whether it's a child SPAN or applied directly to the EM */
 .vp-doc strong em .sanskrit-dev,
-.vp-doc em strong .sanskrit-dev {
-  color: #ff0000 !important;
+.vp-doc em strong .sanskrit-dev,
+.vp-doc strong em.sanskrit-dev,
+.vp-doc em strong.sanskrit-dev {
+  color: #b22222 !important;
+  font-style: normal !important;
 }
 
 .dark .vp-doc strong em .sanskrit-dev,
-.dark .vp-doc em strong .sanskrit-dev {
-  color: #ef4444 !important;
+.dark .vp-doc em strong .sanskrit-dev,
+.dark .vp-doc strong em.sanskrit-dev,
+.dark .vp-doc em strong.sanskrit-dev {
+  color: #8b1a1a !important;
+  font-style: normal !important;
+}
+.dark .vp-doc strong em .sanskrit-dev,
+.dark .vp-doc em strong .sanskrit-dev,
+.dark .vp-doc strong em.sanskrit-dev,
+.dark .vp-doc em strong.sanskrit-dev {
+  color: #8b1a1a !important;
+  font-style: normal !important;
 }
 
 /* Erlaube Hellrot (strong em) auch in der grammar-box explizit */
 .vp-doc .grammar-box strong em,
 .vp-doc .grammar-box em strong {
-  color: #ff0000 !important;
+  color: #b22222 !important;
+  font-style: normal !important;
+}
+
+/* SignalRot: Sanskrit-Devanagari in erster Tabellenspalte (später in glossar.py auf alle Devanagari-Spalten erweiterbar) */
+.vp-doc table td:nth-child(1) {
+  color: #b22222 !important;
+  font-style: normal !important;
+}
+
+.dark .vp-doc table td:nth-child(1) {
+  color: #8b1a1a !important;
+  font-style: normal !important;
+}
+
+/* Hindi-Devanagari (Spalte 4) explizit schwarz */
+.vp-doc table td:nth-child(4) {
+  color: #000 !important;
+  font-style: normal !important;
+}
+
+.dark .vp-doc table td:nth-child(4) {
+  color: #fff !important;
+  font-style: normal !important;
+}
+
+/* SignalRot auch in Tabellen-Zellen erzwingen (fallback für strong+em) */
+.vp-doc table strong em {
+  color: #b22222 !important;
+  font-style: normal !important;
+}
+
+.dark .vp-doc table strong em {
+  color: #8b1a1a !important;
   font-style: normal !important;
 }
 
 .vp-doc .grammar-box strong em .sanskrit-dev,
 .vp-doc .grammar-box em strong .sanskrit-dev {
-  color: #ff0000 !important;
+  color: #b22222 !important;
 }
 
 .dark .vp-doc .grammar-box strong .sanskrit-dev {
-  color: #ef4444 !important;
+  color: #8b1a1a !important;
 }
 
 .dark .vp-doc .grammar-box strong em .sanskrit-dev,
 .dark .vp-doc .grammar-box em strong .sanskrit-dev {
-  color: #ef4444 !important;
+  color: #8b1a1a !important;
 }
 
 /* Verstecke deleteme-box (Inhalt nur für Redaktion/QA relevant) */
@@ -567,7 +614,7 @@ html {
 
 .vp-doc .metrik-schema strong em,
 .vp-doc .metrik-schema em strong {
-  color: #ff0000 !important;
+  color: #b22222 !important;
   font-style: normal !important;
   font-weight: 400 !important;
   font-size: inherit !important;
@@ -576,7 +623,7 @@ html {
 
 .dark .vp-doc .metrik-schema strong em,
 .dark .vp-doc .metrik-schema em strong {
-  color: #ef4444 !important;
+  color: #8b1a1a !important;
 }
 
 /* Split Viewer / Embedded Mode Fixes */
