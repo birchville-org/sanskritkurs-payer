@@ -378,6 +378,30 @@ def main():
     else:
         print(f"  ✓ OK — alle {len(LANGS)} Sprachen haben licenses.md")
 
+    # ── 5c. qa_viewer Dropdown-Vollständigkeit ──────────────────────────────
+    print("\n[5c] qa_viewer.html — Dropdown enthält alle Sprachen...")
+    qa_viewer = ROOT / 'docs/public/qa_viewer.html'
+    if not qa_viewer.exists():
+        print("  ⚠ qa_viewer.html nicht gefunden — übersprungen")
+    else:
+        qa_content = qa_viewer.read_text(encoding='utf-8')
+        # Alle Sprachverzeichnisse in docs/ (ausser Sonder-Verzeichnisse)
+        SKIP_DIRS = {'.vitepress', 'public', 'qa', 'lektionen'}
+        lang_dirs = {d.name for d in (ROOT / 'docs').iterdir()
+                     if d.is_dir() and d.name not in SKIP_DIRS}
+        # Prüfe ob jede Sprache als option value in QA-Viewer vorhanden ist
+        missing_dropdown = []
+        for lang in sorted(lang_dirs):
+            pattern = f'value="{lang}/lektionen/'
+            if pattern not in qa_content:
+                missing_dropdown.append(lang)
+        if missing_dropdown:
+            print(f"  ❌ Sprache(n) fehlen im qa_viewer-Dropdown: {missing_dropdown}")
+            print(f"     → Beide <select>-Elemente in docs/public/qa_viewer.html ergänzen")
+            total_errors += len(missing_dropdown)
+        else:
+            print(f"  ✓ OK — alle {len(lang_dirs)} Sprachen im Dropdown")
+
     # ── 8. Lizenzen (nur bei --scope=all oder wenn DE-Dateien im Diff) ───────
     de_files = [f for f in files if lang_from_path(f) == 'de']
     if de_files or scope == 'all':

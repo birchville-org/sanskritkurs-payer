@@ -847,28 +847,39 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
 
 
 def chunk_content(content):
-    # Splits content into safe, manageable chunks of max ~3000 characters
-    # respecting markdown boundaries (headers, containers) to avoid LLM context issues.
+    # Splits content into safe, manageable chunks of max ~3000 characters.
+    # Prefers breaking at markdown boundaries (empty lines, container markers,
+    # table lines, headers) to preserve translation quality.  If a chunk
+    # exceeds 3000 characters without hitting such a boundary, it is split
+    # anyway — a hard cap prevents server overload.
     lines = content.split('\n')
     chunks = []
     current_chunk = []
     current_size = 0
-    
+    MAX_CHUNK = 3000
+
     for line in lines:
         is_header = line.startswith('## ') or line.startswith('### ')
-        is_break_point = (current_size > 3000 and (not line.strip() or line.startswith(':::') or line.startswith('|')))
-        
-        if (is_header or is_break_point) and current_chunk:
+        is_safe_break = (not line.strip() or line.startswith(':::') or line.startswith('|'))
+
+        if (is_header or is_safe_break) and current_chunk and current_size >= MAX_CHUNK:
+            # Chunk is large enough — break at this safe boundary.
             chunks.append('\n'.join(current_chunk))
             current_chunk = []
             current_size = 0
-            
+        elif is_safe_break and current_chunk and current_size > 0:
+            # Even if under MAX_CHUNK, break at safe boundaries to keep
+            # chunks small and translation quality high.
+            chunks.append('\n'.join(current_chunk))
+            current_chunk = []
+            current_size = 0
+
         current_chunk.append(line)
         current_size += len(line) + 1
-        
+
     if current_chunk:
         chunks.append('\n'.join(current_chunk))
-        
+
     return chunks
 
 def generate_licenses(lang):

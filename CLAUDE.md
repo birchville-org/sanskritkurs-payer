@@ -20,6 +20,10 @@
 |------|---------|
 | Translate lessons | `python3 scripts/lan_translate.py` |
 | Sync layouts across languages | `python3 scripts/sync_layouts.py <lesson_num\|all>` |
+| Sync global wortliste (DE) | `python3 scripts/sync_wortliste.py [lesson_num\|all]` |
+| Sync wortliste (andere Sprache) | `python3 scripts/sync_wortliste.py --lang <es\|ta\|pa\|...> all` |
+| Glossar generieren (alle Sprachen) | `python3 scripts/gen_glossar.py --lang all` |
+| Glossar generieren (eine Sprache) | `python3 scripts/gen_glossar.py --lang <de\|es\|ta\|...>` |
 | Sync image links | `python3 scripts/sync_images.py` |
 | Purge raw HTML | `python3 scripts/purge_html.py` |
 
