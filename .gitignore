@@ -6,3 +6,13 @@ docs/.vitepress/cache
 *.log
 CLAUDE_REVIEW.md
 deleteme/
+
+# Local tooling / dev artifacts
+scratch/
+scripts/__pycache__/
+/.vitepress/
+Modelfile
+start_translation.sh
+.hermes/
+.claude/
+.gsd/
