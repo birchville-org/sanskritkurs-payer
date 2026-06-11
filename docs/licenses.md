@@ -6,42 +6,42 @@ pageClass: license-page
 
 | Stamm | Gefundene Quell-Angabe | Vorschau |
 |---|---|---|
-| <a id="icon_32"></a> `icon_32.png` | Keine spezielle Lizenz/Bildquelle im Text gefunden | N/A |
+| <a id="icon_32"></a> `icon_32.png` | Nicht in Lektionen verwendet (verwaist) | N/A |
 | <a id="lekt0102"></a> `lekt0102.jpg` | Abb.: Gaṇeśa, Adamspeak, Sri Lanka [Bildquelle: Wikipedia, gemeinfrei] | ![lekt0102.jpg](/images/lekt0102.jpg) |
 | <a id="lekt0101"></a> `lekt0101.jpg` | Abb.: Ardhanarīśvara (Bildquelle: Wikipedia, Public domain) | ![lekt0101.jpg](/images/lekt0101.jpg) |
-| <a id="lekt0103"></a> `lekt0103.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0103.jpg](/images/lekt0103.jpg) |
-| <a id="lekt0104"></a> `lekt0104.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0104.jpg](/images/lekt0104.jpg) |
-| <a id="lekt0105"></a> `lekt0105.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0105.jpg](/images/lekt0105.jpg) |
-| <a id="lekt0107"></a> `lekt0107.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0107.jpg](/images/lekt0107.jpg) |
-| <a id="lekt0108"></a> `lekt0108.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0108.jpg](/images/lekt0108.jpg) |
-| <a id="lekt0106"></a> `lekt0106.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0106.jpg](/images/lekt0106.jpg) |
+| <a id="lekt0103"></a> `lekt0103.jpg` | Abb.: Einbandtitel einer Taschenbuchausgabe | ![lekt0103.jpg](/images/lekt0103.jpg) |
+| <a id="lekt0104"></a> `lekt0104.jpg` | Abb.: Titelblatt | ![lekt0104.jpg](/images/lekt0104.jpg) |
+| <a id="lekt0105"></a> `lekt0105.jpg` | Abb.: Umschlagtitel | ![lekt0105.jpg](/images/lekt0105.jpg) |
+| <a id="lekt0107"></a> `lekt0107.jpg` | Abb.: Einbandtitel | ![lekt0107.jpg](/images/lekt0107.jpg) |
+| <a id="lekt0108"></a> `lekt0108.jpg` | Abb.: Umschlagtitel | ![lekt0108.jpg](/images/lekt0108.jpg) |
+| <a id="lekt0106"></a> `lekt0106.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt0106.jpg](/images/lekt0106.jpg) |
 | <a id="lekt0201"></a> `lekt0201.jpg` | Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts). Beschriftung: * Priesterstand (~Brāhmaṇa): Tu supplex ora = Du bete flehend! * Adelsstand (~Kṣatriya): Tu protege = Du schütze! * Bauernstand (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite! Die drei Stände tragen die jeweilige Standestracht. Über den - damit als gottgewollt bezeichneten - Ständen trohnt Christus. [Bildquelle: Meyer, Werner: Hirsebrei und Hellebarde : auf den Spuren des mittelalterlichen Lebens in der Schweiz . -- 2. Aufl. -- Olten [u.a.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- S. 129] | ![lekt0201.jpg](/images/lekt0201.jpg) |
 | <a id="lekt0203"></a> `lekt0203.jpg` | Abb.: Gott Agni, Miniatur, 18. Jhdt [Bildquelle: Wikipedia, Public domain] | ![lekt0203.jpg](/images/lekt0203.jpg) |
 | <a id="lekt0202"></a> `lekt0202.jpg` | Abb.: Sādhu (साधु), Pashupatinath Tempel (पशुपतिनाथ  मन्दिर), Kathmandu  (काठमांडौ), Nepal (नेपाल), 2007 [Bildquelle: Peter Akkermans, Wikipedia, GNU FDLizenz] | ![lekt0202.jpg](/images/lekt0202.jpg) |
 | <a id="lekt0301"></a> `lekt0301.jpg` | Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80 [Bildquelle. Wikipedia, Public domain] | ![lekt0301.jpg](/images/lekt0301.jpg) |
-| <a id="lekt0302"></a> `lekt0302.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0302.jpg](/images/lekt0302.jpg) |
+| <a id="lekt0302"></a> `lekt0302.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt0302.jpg](/images/lekt0302.jpg) |
 | <a id="lekt0303"></a> `lekt0303.jpg` | Abb.: Durgā = दुर्गा, Orissa (ଓଡ଼ିଶା) [Bildquelle: Wikipedia, GNU FDLizenz] | ![lekt0303.jpg](/images/lekt0303.jpg) |
 | <a id="lekt0401"></a> `lekt0401.jpg` | Übung Lektion 4: eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ. एष कः । एष गजः । अयं गजः । स गजः । eṣā kā? eṣā bālā / iyaṃ bālā / sā bālā. एषा का । एषा बाला । इयं बाला । सा बाला । etad kim? eṣa śukaḥ. एतत्किम् । एष शुकः । etat kim? eṣa kākaḥ. एतत्किम् । एष काकः । etat kim? eṣā peṭikā. एतत्किम् । एषा पेटिका । etat kim? eṣā lātā. एतत्किम् । एषा लाता । etat kim? eṣa pādaḥ. एतत्किम् । एष पादः । eṣa kaḥ? eṣa bālaḥ. एष कः । एष बालः । etat kim? eṣā pipīlikā. एतत्किम् । एषा पिपीलिका ॥ [Bildquelle: Unbekannt / Lehrgangsmaterial] | ![lekt0401.jpg](/images/lekt0401.jpg) |
 | <a id="lekt0501"></a> `lekt0501.jpg` | Abb.: Gott Kāma = kāmadeva = कामदेव, 18. Jhdt. [Bildquelle: Wikipedia, Public domain] | ![lekt0501.jpg](/images/lekt0501.jpg) |
 | <a id="lekt0601"></a> `lekt0601.jpg` | Śivo nṛtyati शिवो नृत्यति Śiva Naṭarāja (नटराज):, Kadavul Hindu Temple, Kauai, Hawaii [Bildquelle: Himalayan Academy Publications, Kapaa, Kauai,  Hawaii / Wikipedia. -- Creative Commons-   Attribution-ShareAlike 2.5 - Lizenz] | ![lekt0601.jpg](/images/lekt0601.jpg) |
-| <a id="lekt0602"></a> `lekt0602.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0602.jpg](/images/lekt0602.jpg) |
+| <a id="lekt0602"></a> `lekt0602.jpg` | Mīnākṣī (मीनाक्षी), Mīnākṣī-Tempel (மீனாக்ஷி அம্মன கோவில்), Madurai (மதுரை), Tamil Nadu (தமிழ்நாடு), Indien [Bildquelle: Payer] | ![lekt0602.jpg](/images/lekt0602.jpg) |
 | <a id="lekt0701"></a> `lekt0701.jpg` | Abb.: War das die vedische Somapflanze?: Fliegenpilz: Amanita muscaria  	(L.) Lam. 	[Bildquelle: Wikipedia, GNU FDLizenz] | ![lekt0701.jpg](/images/lekt0701.jpg) |
 | <a id="lekt0704"></a> `lekt0704.jpg` | Abb.: Viṣṇu = विष्णु, 8./9. Jhdt. [Bildquelle: Wikipedia, GNU FDLizenz] | ![lekt0704.jpg](/images/lekt0704.jpg) |
 | <a id="lekt0702"></a> `lekt0702.jpg` | Abb.: yajati = यजति Vedisches Opfer = yajna m. = यज्न [Bildquelle: Wikipedia, Public domain] | ![lekt0702.jpg](/images/lekt0702.jpg) |
 | <a id="lekt0703"></a> `lekt0703.jpg` | Abb.: Welchem Gott opfert man hier? -- Antwort: dem Gaṇeśa (Gaṇapati) = गणेश (गणपति) Gaṇapatihoma (Gaṇapatiyajna) [Bildquelle: Rajaramraok, Wikipedia; Creative Commons  Attribution 3.0 License] | ![lekt0703.jpg](/images/lekt0703.jpg) |
 | <a id="lekt0801"></a> `lekt0801.jpg` | Abb.: Maa Batakali Darshan, Puri, Orissa [Bildquelle: savia. --  http://www.flickr.com/photos/savia/383440967/. -- Zugriff am 2008-11-22. --Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] | ![lekt0801.jpg](/images/lekt0801.jpg) |
-| <a id="lekt0803"></a> `lekt0803.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0803.jpg](/images/lekt0803.jpg) |
-| <a id="lekt0807"></a> `lekt0807.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0807.jpg](/images/lekt0807.jpg) |
-| <a id="lekt0802"></a> `lekt0802.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0802.jpg](/images/lekt0802.jpg) |
-| <a id="lekt0804"></a> `lekt0804.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0804.jpg](/images/lekt0804.jpg) |
-| <a id="lekt0805"></a> `lekt0805.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0805.jpg](/images/lekt0805.jpg) |
-| <a id="lekt0808"></a> `lekt0808.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt0808.jpg](/images/lekt0808.jpg) |
+| <a id="lekt0803"></a> `lekt0803.jpg` | Abb.: In Devanāgarī | ![lekt0803.jpg](/images/lekt0803.jpg) |
+| <a id="lekt0807"></a> `lekt0807.jpg` | Abb.: In Bengali Schrift | ![lekt0807.jpg](/images/lekt0807.jpg) |
+| <a id="lekt0802"></a> `lekt0802.jpg` | Abb.: In Kannaresischer Schrift | ![lekt0802.jpg](/images/lekt0802.jpg) |
+| <a id="lekt0804"></a> `lekt0804.jpg` | Abb.: In Tamil-Schrift | ![lekt0804.jpg](/images/lekt0804.jpg) |
+| <a id="lekt0805"></a> `lekt0805.jpg` | Abb.: In Malayalam-Schrift | ![lekt0805.jpg](/images/lekt0805.jpg) |
+| <a id="lekt0808"></a> `lekt0808.jpg` | Abb.: Jaina-Oṃ | ![lekt0808.jpg](/images/lekt0808.jpg) |
 | <a id="lekt0809"></a> `lekt0809.jpg` | Abb.: लिख् : Indischer Schreibgriffel aus Stahl zum Einritzen  	in Palmblätter 	[Bildquelle: Meyers Großes Konversationslexikon 1905. Gemeinfrei] | ![lekt0809.jpg](/images/lekt0809.jpg) |
 | <a id="lekt0810"></a> `lekt0810.jpg` | Abb.: लिख् : Schreibstöckchen der Batak (Sumatra), wie es  	vermutlich auch in Indien gebräuchlich war 	[Bildquelle: Meyers Großes Konversationslexikon 1905. Gemeinfrei] | ![lekt0810.jpg](/images/lekt0810.jpg) |
 | <a id="lekt0903"></a> `lekt0903.jpg` | Abb.: adhyayana = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai [Bildquelle: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] | ![lekt0903.jpg](/images/lekt0903.jpg) |
 | <a id="lekt0902"></a> `lekt0902.jpg` | Abb.: kāru = कारु, Gujarat [Bildquelle: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] | ![lekt0902.jpg](/images/lekt0902.jpg) |
 | <a id="lekt0901"></a> `lekt0901.jpg` | Abb.: karṣaka = कर्षक [Bildquelle: Ray Witlin / World Bank. --  http://www.flickr.com/photos/worldbank/2183985518/. -- Zugriff am  2008-11-23. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] | ![lekt0901.jpg](/images/lekt0901.jpg) |
-| <a id="lekt1001"></a> `lekt1001.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt1001.jpg](/images/lekt1001.jpg) |
+| <a id="lekt1001"></a> `lekt1001.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt1001.jpg](/images/lekt1001.jpg) |
 | <a id="lekt1003"></a> `lekt1003.jpg` | Abb.: Gott Varuṇa = वरुण, 17. Jhdt. [Bildquelle. Wikipedia, Public domain] | ![lekt1003.jpg](/images/lekt1003.jpg) |
 | <a id="lekt1002"></a> `lekt1002.jpg` | Abb.: Ein Ṛṣi: Viśvāmitra (विश्वामित्र) / von Rāja Ravi Varmā (राज रवि वर्मा)  &lt;1848 - 1906&gt; [Bildquelle: Wikipedia, Public domain] | ![lekt1002.jpg](/images/lekt1002.jpg) |
 | <a id="lekt1004"></a> `lekt1004.jpg` | Abb.: Weberin, Bangladesh: die Webkette (Kettfäden sind die Längsfäden, durch  die der Schuss gezogen wird) [Bildquelle: USAID / Wikipedia, Public domain] | ![lekt1004.jpg](/images/lekt1004.jpg) |
@@ -56,7 +56,7 @@ pageClass: license-page
 | <a id="lekt1303"></a> `lekt1303.jpg` | Abb.: चत्वारः पादाः : गजः (Elephas  maximus) [Bildquelle: Wikipedia, GNU FDLicense] | ![lekt1303.jpg](/images/lekt1303.jpg) |
 | <a id="lekt1305"></a> `lekt1305.jpg` | Abb.: अत्र गौतमो बुद्धो बोध्या मुक्तः । Mahābodhi-Tempel (महाबोधी मंदिर), Bodh Gaya (बोधगया), um  1780 [Bildquelle: Wikipedia, Public domain] | ![lekt1305.jpg](/images/lekt1305.jpg) |
 | <a id="lekt1302"></a> `lekt1302.jpg` | Abb.: सत्यमेव जयते  Nationalemblem Indiens Im klassischen Sanskrit müsste es heißen सत्यमेव जयति Der Text ist aber ein Zitat aus der Muṇḍaka-upaniṣad 3.1.6., deshalb die  grammatische Unkorrektheit [Bildquelle: Wikipedia] | ![lekt1302.jpg](/images/lekt1302.jpg) |
-| <a id="lekt1401"></a> `lekt1401.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt1401.jpg](/images/lekt1401.jpg) |
+| <a id="lekt1401"></a> `lekt1401.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt1401.jpg](/images/lekt1401.jpg) |
 | <a id="lekt1405"></a> `lekt1405.jpg` | Abb.: दीपाः [Bildquelle: [srijith]. --  http://www.flickr.com/photos/srijith/1918428547/. -- Zugriff am 2008-12-01. --  Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] | ![lekt1405.jpg](/images/lekt1405.jpg) |
 | <a id="lekt1404"></a> `lekt1404.jpg` | Abb.: पुत्रवती [Bildquelle: Eileen Delhi. --  http://www.flickr.com/photos/eileendelhi/164047682/. -- Zugriff am  2008-12-01. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] | ![lekt1404.jpg](/images/lekt1404.jpg) |
 | <a id="lekt1403"></a> `lekt1403.jpg` | Abb.: अयं बालः कस्याः  पुत्रः । Galtaji bei Jaipur (जयपुर) [Bildquelle: Robert Brauneis. --  http://www.flickr.com/photos/robertbrauneis/2323030267/. -- Zugriff am  2008-12-01. --  Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] | ![lekt1403.jpg](/images/lekt1403.jpg) |
@@ -107,7 +107,7 @@ pageClass: license-page
 | <a id="lekt2204"></a> `lekt2204.jpg` | Abb.: अन्नं पक्त्वा ... [Bildquelle: Curt Carnemark / World Bank. --  http://www.flickr.com/photos/worldbank/2183558378/. -- Zugriff am  2008-12-12. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] | ![lekt2204.jpg](/images/lekt2204.jpg) |
 | <a id="lekt2303"></a> `lekt2303.jpg` | Abb.: फल्वन्ति पुण्यानीति ... ทำบุญ  = पुण्यकरणम्, Thailand =  ประเทศไทย   [Bildquelle: Y-Not ?. --  http://www.flickr.com/photos/36716657@N00/519798246/. -- Zugriff am  2008-12-13. --    Creative  Commons Lizenz (Namensnennung, keine Bearbeitung)] | ![lekt2303.jpg](/images/lekt2303.jpg) |
 | <a id="lekt2301"></a> `lekt2301.jpg` | Abb.: सुगतो  लोकान्मोक्तुमार्यसत्यान्युपदिशति Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย  [Bildquelle: Wikipedia. GNU FDLicense] | ![lekt2301.jpg](/images/lekt2301.jpg) |
-| <a id="lekt2302"></a> `lekt2302.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt2302.jpg](/images/lekt2302.jpg) |
+| <a id="lekt2302"></a> `lekt2302.jpg` | Abb.: आहारनिद्राभयमैथुनं च सामान्यमेतत्पक्षिणां | ![lekt2302.jpg](/images/lekt2302.jpg) |
 | <a id="lekt2304"></a> `lekt2304.jpg` | Abb.: दण्डनीतिः Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ  = मनमोहन सिंह, Prime Minister of India =  भारत के प्रधानमन्त्री, seit 2004 [Bildquelle: Wikipedia, Public domain] | ![lekt2304.jpg](/images/lekt2304.jpg) |
 | <a id="lekt2404"></a> `lekt2404.jpg` | Abb.: बाला गुरुश्रवणाय गताः • Die Kinder sind gegangen, um den Lehrer zu hören 	[Bildquelle: sknaB nolA. -- 	 	http://www.flickr.com/photos/nolasknab/110920752/. -- Zugriff am  	2008-12-14. --  	 	Creative  	Commons Lizenz (Namensnennung, keine Bearbeitung)] | ![lekt2404.jpg](/images/lekt2404.jpg) |
 | <a id="lekt2401"></a> `lekt2401.jpg` | Abb.: यज्ञायान्नम् • Speise zum Zweck eines Opfers (annakūṭa) "'Annakut'  	[अन्नकूट = गोवर्धन पूजा] is a traditional Hindu event that takes place on  	the Hindu New Year celebrations at all BAPS [બોચાસનવાસી  	અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા =  	Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]  	mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ]  	on this day. All these dishes are made to offer devotion towards GOD. They  	are nicely decorated and placed on a decorated display set up." 	[Bildquelle: chiragkpatel. -- 	 	http://www.flickr.com/photos/chiragkpatel/61224686/. -- Zugriff am  	2008-12-14. --  	 	Creative  	Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] | ![lekt2401.jpg](/images/lekt2401.jpg) |
@@ -115,8 +115,8 @@ pageClass: license-page
 | <a id="lekt2403"></a> `lekt2403.jpg` | Abb.: अलं योधो योधाय • Ein Krieger ist dem anderen gewachsen "Rama (right) seated on the shoulders of Hanuman, battles the demon-king  Ravana." ca 1820  [Bildquelle: Wikipedia, Public domain] | ![lekt2403.jpg](/images/lekt2403.jpg) |
 | <a id="lekt2405"></a> `lekt2405.jpg` | Abb.: अलंकारः • Schmuck (alaṃkāra) 	[Bildquelle: sarboo. -- 	 	http://www.flickr.com/photos/sarboo/320741523/. -- Zugriff am  	2008-12-14. --  	 	Creative  	Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine  	Bearbeitung)] | ![lekt2405.jpg](/images/lekt2405.jpg) |
 | <a id="lekt2406"></a> `lekt2406.jpg` | Abb.: देवीप्रतिमा • Götterbildnis (devīpratimā), Hampi = ಹಂಪೆ,  Karnataka = ಕರ್ನಾಟಕ [Bildquelle: thaths. --  http://www.flickr.com/photos/thaths/862012190/. -- Zugriff am 2008-12-14. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] | ![lekt2406.jpg](/images/lekt2406.jpg) |
-| <a id="lekt2407"></a> `lekt2407.jpg` | Abb.: ऊहापोहः • Diskussion des Für und Wider (ūhāpoha) [Keine spezielle Lizenz/Bildquelle im Text gefunden] | ![lekt2407.jpg](/images/lekt2407.jpg) |
-| <a id="lekt2408"></a> `lekt2408.jpg` | Abb.: आख्यानम् • Erzählung (ākhyāna) [Keine spezielle Lizenz/Bildquelle im Text gefunden] | ![lekt2408.jpg](/images/lekt2408.jpg) |
+| <a id="lekt2407"></a> `lekt2407.jpg` | Abb.: ऊहापोहः | ![lekt2407.jpg](/images/lekt2407.jpg) |
+| <a id="lekt2408"></a> `lekt2408.jpg` | Abb.: आख्यानम | ![lekt2408.jpg](/images/lekt2408.jpg) |
 | <a id="lekt2411"></a> `lekt2411.jpg` | Abb.: जयदेवकविर्विष्णुं नमस्करोति • Der Dichter Jayadeva verehrt Viṣṇu Manuskript des गीतगोविन्द, 1730 n. Chr. [Bildquelle: Wikipedia, Public domain] | ![lekt2411.jpg](/images/lekt2411.jpg) |
 | <a id="lekt2409"></a> `lekt2409.jpg` | Abb.: श्रीगणेशाय नमः • Verehrung dem ehrwürdigen Gaṇeśa [Bildquelle: Redtigerxyz / Wikipedia, GNU FDLicense] | ![lekt2409.jpg](/images/lekt2409.jpg) |
 | <a id="lekt2410"></a> `lekt2410.jpg` | Abb.: नरो नरसिंहाय नमस्करोति • Der Mann verehrt Narasiṃha नरसिंह zerfleischt हिरण्यकशिपु, Blatt aus einem Manuskript des भगवतपुराण [Bildquelle: Wikipedia, Public domain] | ![lekt2410.jpg](/images/lekt2410.jpg) |
@@ -154,7 +154,7 @@ pageClass: license-page
 | <a id="lekt2805"></a> `lekt2805.jpg` | Abb.: बाला भारं हरति • Das Mädchen trägt eine Last, Ahmedabad. Bei Ahmedabad [Bildquelle: m-bot. --  http://www.flickr.com/photos/72494286@N00/2127838811/. -- Zugriff am  2008-12-20. --   Creative  Commons Lizenz (Namensnennung, share alike)] | ![lekt2805.jpg](/images/lekt2805.jpg) |
 | <a id="lekt2903"></a> `lekt2903.jpg` | Abb.: परिव्राजकाः • Wandermönche (parivrājaka), Pushkar = पुष्कर [Bildquelle: pyjama. --  http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] | ![lekt2903.jpg](/images/lekt2903.jpg) |
 | <a id="lekt2901"></a> `lekt2901.jpg` | Abb.: मत्स्यः • Fisch (matsya) • रोहू मछली = Labeo rohita Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense] | ![lekt2901.jpg](/images/lekt2901.jpg) |
-| <a id="lekt2902"></a> `lekt2902.jpg` | Abb.: मात्स्यन्याय: • Das Gesetz der Fische (mātsyanyāya). Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt2902.jpg](/images/lekt2902.jpg) |
+| <a id="lekt2902"></a> `lekt2902.jpg` | Abb.: मत्स्यन्यायः | ![lekt2902.jpg](/images/lekt2902.jpg) |
 | <a id="lekt3001"></a> `lekt3001.jpg` | Abb.: क्रीणन्ति विक्रीनते च Bundi = बुन्दी, Rajasthan = राजस्थान [Bildquelle: earth2marsh. --  http://www.flickr.com/photos/earth2marsh/56270619/. -- Zugriff am  2008-12-21. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] | ![lekt3001.jpg](/images/lekt3001.jpg) |
 | <a id="lekt3002"></a> `lekt3002.jpg` | Abb.: ज्ञातयः Darewadi, Ahmed Nagar District = अहमदनगर,  Maharashtra = महाराष्ट्र     [Bildquelle: Robin Murphy / World Resources Institute. --  http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Zugriff  am 2008-12-21. --    Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] | ![lekt3002.jpg](/images/lekt3002.jpg) |
 | <a id="lekt3003"></a> `lekt3003.jpg` | Abb.: श्रोत्राणि पुनाति [Bildquelle: Karmalize. --  http://www.flickr.com/photos/agaylon/1799930862/. -- Zugriff am 2008-12-21.  --   Creative  Commons Lizenz (Namensnennung, share alike)] | ![lekt3003.jpg](/images/lekt3003.jpg) |
@@ -166,7 +166,7 @@ pageClass: license-page
 | <a id="lekt3103"></a> `lekt3103.jpg` | Abb.: Aus einem प्रज्ञापारमिता-Manuskript [Bildquelle: zeno.org. -- gemeinfrei] | ![lekt3103.jpg](/images/lekt3103.jpg) |
 | <a id="lekt3105"></a> `lekt3105.jpg` | Abb.: शस्त्राणि  शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगव्द्गीटायां भगवतोच्यते "Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War." [Bildquelle: Hari Singh Deora / Wikipedia. -- Public domain] | ![lekt3105.jpg](/images/lekt3105.jpg) |
 | <a id="lekt3104"></a> `lekt3104.jpg` | Abb.: राहुलो जातो बन्धनं जातम् (इति गौतमबोधिसत्त्वः) राहुल, der Sohn Buddhas, Laos [Bildquelle: Sacca / Wikipedia. GNU  FDLicense] | ![lekt3104.jpg](/images/lekt3104.jpg) |
-| <a id="lekt3201"></a> `lekt3201.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt3201.jpg](/images/lekt3201.jpg) |
+| <a id="lekt3201"></a> `lekt3201.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt3201.jpg](/images/lekt3201.jpg) |
 | <a id="lekt3202"></a> `lekt3202.jpg` | Abb.: चूतः कानपुर, / کان پور [Bildquelle: AmarChandra / Wikipedia. --   Creative Commons  Attribution ShareAlike 2.5 (Namensnennung, share alike)] | ![lekt3202.jpg](/images/lekt3202.jpg) |
 | <a id="lekt3203"></a> `lekt3203.jpg` | Abb.: वानराः Delhi = दहली [Bildquelle: dewalt. --  http://www.flickr.com/photos/dewalt/389870377/. -- Zugriff am 2008-12-25. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] | ![lekt3203.jpg](/images/lekt3203.jpg) |
 | <a id="lekt3204"></a> `lekt3204.jpg` | "The boulders here  	are hard enough that the scavengers who have taken over the abandoned quarry  	south of downtown prefer not to strike them directly with their hammers.They  	heat the rocks first  with flaming tires, scrap plastic, even old rubber  	boots  so that the stones will fracture more easily. At dusk, when three or  	four blazes spew choking black clouds across the huge pit, the quarry looks  	like a woodcut out of Dante. At the mouth of this stone quarry in Pune  	Maharashtra, diminutive women in saris toil 14 hour shifts breaking boulders  	into cricket-ball sized chunks of stone. Sledgehammers cut through to the  	air to the sound of splintering stone. Just behind them roared large  	machines that chewed up stone only to spit out construction gravel. Almost  	everybodies face was smeared with a white dust. A dust, heavy and  	suffocating, floating in the air like mist covering everything." 	[Bildquelle:  	lecercle. -- 	 	http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/.  	-- Zugriff am 2008-12-25. --  	 	 	Creative  	Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] | ![lekt3204.jpg](/images/lekt3204.jpg) |
@@ -250,7 +250,7 @@ pageClass: license-page
 | <a id="lekt4205"></a> `lekt4205.jpg` | Abb.: रामः, सीता, हनुमान्, लक्ष्मनः 17. Jhdt. [Bildquelle. Wikipedia. Public domain] | ![lekt4205.jpg](/images/lekt4205.jpg) |
 | <a id="lekt4206"></a> `lekt4206.jpg` | Abb.: Lage von मिथिला und विदेह,  अयोध्या und कोसल [Bildquelle: JIJITH NR / Wikipedia. GNU FDLicense] | ![lekt4206.jpg](/images/lekt4206.jpg) |
 | <a id="lekt4207"></a> `lekt4207.jpg` | Abb.: रावणः Yakṣagaṇa-Tanzmaske (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ) [Bildquelle: Manohara Upadhya / Wikipedia. GNU FDLicense] | ![lekt4207.jpg](/images/lekt4207.jpg) |
-| <a id="lekt4301"></a> `lekt4301.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt4301.jpg](/images/lekt4301.jpg) |
+| <a id="lekt4301"></a> `lekt4301.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt4301.jpg](/images/lekt4301.jpg) |
 | <a id="lekt4302"></a> `lekt4302.jpg` | Abb.: आपणः Orissa = ଓଡ଼ିଶା [Bildquelle: Rita Willaert. --  http://www.flickr.com/photos/rietje/324020365/. -- Zugriff am 2009-01-06. -- Creative Commons  Lizenz (Namensnennung, keine kommerzielle Nutzung)] | ![lekt4302.jpg](/images/lekt4302.jpg) |
 | <a id="lekt4303"></a> `lekt4303.jpg` | Abb.: पण्यानि Jamshedpur = जमशेदपुर [Bildquelle: amrita b. --  http://www.flickr.com/photos/amrita_b/63071274/. -- Zugriff am 2009-01-06.  -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] | ![lekt4303.jpg](/images/lekt4303.jpg) |
 | <a id="lekt4304"></a> `lekt4304.jpg` | Abb.: विपणिः Haridwar = हरिद्वार [Bildquelle: mckaysavage. --  http://www.flickr.com/photos/mckaysavage/2085721947/. -- Zugriff am  2009-01-06. --  Creative Commons Lizenz (Namensnennung)] | ![lekt4304.jpg](/images/lekt4304.jpg) |
@@ -259,8 +259,8 @@ pageClass: license-page
 | <a id="lekt4307"></a> `lekt4307.jpg` | Abb.: तोलन्ति [Bildquelle: Ray Witlin / World Bank. --  http://www.flickr.com/photos/worldbank/2183198505/. -- Zugriff am  2009-01-06. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine  Bearbeitung)] | ![lekt4307.jpg](/images/lekt4307.jpg) |
 | <a id="lekt4308"></a> `lekt4308.jpg` | Abb.: कदा पूराववर्तथाः । रथयात्रा  २००७, पूरि [Bildquelle: G.-U. Tolkiehn / Wikipedia. GNU FDLicense] | ![lekt4308.jpg](/images/lekt4308.jpg) |
 | <a id="lekt4309"></a> `lekt4309.jpg` | Abb.: शर्करा 	गुड़ (शक्कर),  	[Bildquelle: Carol Mitchell. -- 	 	http://www.flickr.com/photos/webethere/2178184852/. -- Zugriff am  	2009-01-07. -- 	Creative  	Commons Lizenz (Namensnennung, keine Bearbeitung)] | ![lekt4309.jpg](/images/lekt4309.jpg) |
-| <a id="lekt4401"></a> `lekt4401.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt4401.jpg](/images/lekt4401.jpg) |
-| <a id="lekt4402"></a> `lekt4402.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt4402.jpg](/images/lekt4402.jpg) |
+| <a id="lekt4401"></a> `lekt4401.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt4401.jpg](/images/lekt4401.jpg) |
+| <a id="lekt4402"></a> `lekt4402.jpg` | Abb.: Zur richtigen Verwendung von "O" im Deutschen: "O Mann!" | ![lekt4402.jpg](/images/lekt4402.jpg) |
 | <a id="lekt4403"></a> `lekt4403.jpg` | Abb.: रेल्यानम् वाराणआस्याम्, १९७४ [Bildquelle: danielguip. --  http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am  2009-01-08. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine  Bearbeitung)] | ![lekt4403.jpg](/images/lekt4403.jpg) |
 | <a id="lekt4404"></a> `lekt4404.jpg` | Abb.: योगी शयने शेते [Bildquelle: Gurumustuk Singh. --  http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08.  -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] | ![lekt4404.jpg](/images/lekt4404.jpg) |
 | <a id="lekt4405"></a> `lekt4405.jpg` | Abb.: नन्दी Kodagu = ಕೊಡಗು [Bildquelle: mattlogelin. --  http://www.flickr.com/photos/mattlogelin/377335641/. -- Zugriff am  2009-01-08. --  Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] | ![lekt4405.jpg](/images/lekt4405.jpg) |
@@ -345,7 +345,7 @@ pageClass: license-page
 | <a id="lekt5215"></a> `lekt5215.jpg` | Abb.: मलम् मुंबई [Bildquelle: James Cridland. --  http://www.flickr.com/photos/jamescridland/187997905/. -- Zugriff am  2009-01-16. --  Creative Commons Lizenz (Namensnennung)] | ![lekt5215.jpg](/images/lekt5215.jpg) |
 | <a id="lekt5217"></a> `lekt5217.jpg` | Abb.: Māras Angriff auf Buddha Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense] | ![lekt5217.jpg](/images/lekt5217.jpg) |
 | <a id="lekt5216"></a> `lekt5216.jpg` | Abb.: अश्वत्थो महाबोधिवृक्षः  Ficus religiosa L. बोधगया, ca. 1810 [Bildquelle: Wikipedia. Public domain] | ![lekt5216.jpg](/images/lekt5216.jpg) |
-| <a id="lekt5201"></a> `lekt5201.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt5201.jpg](/images/lekt5201.jpg) |
+| <a id="lekt5201"></a> `lekt5201.jpg` | Abb.: श्रīgुम्पिः, मम मन्त्री | ![lekt5201.jpg](/images/lekt5201.jpg) |
 | <a id="lekt5301"></a> `lekt5301.jpg` | Abb.: मार्जारयुगम् : गुम्पिदैक्षेर्लावावयोर्मार्जारौ = "Ein Katzenpaar: Gumpi und Deixerl, die beiden Katzen (मार्जार m.) von uns beiden" [Bildquelle: zen. --  http://www.flickr.com/photos/zen/384505854/. -- Zugriff am 2009-01-18. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] | ![lekt5301.jpg](/images/lekt5301.jpg) |
 | <a id="lekt5302"></a> `lekt5302.jpg` | Abb.: हस्तौ [Bildquelle: zen. --  http://www.flickr.com/photos/zen/384505854/. -- Zugriff am 2009-01-18. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] | ![lekt5302.jpg](/images/lekt5302.jpg) |
 | <a id="lekt5305"></a> `lekt5305.jpg` | Abb.: भरन्तौ [Bildquelle: Dey. --  http://www.flickr.com/photos/dey/459141804/. -- Zugriff am 2009-01-19. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] | ![lekt5305.jpg](/images/lekt5305.jpg) |
@@ -370,19 +370,19 @@ pageClass: license-page
 | <a id="lekt5805"></a> `lekt5805.jpg` | [Bildquelle:  saibotregeel. --  http://www.flickr.com/photos/saibotregeel/332951412/. -- Zugriff am  2009-03-02. --  Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] | ![lekt5805.jpg](/images/lekt5805.jpg) |
 | <a id="lekt5807"></a> `lekt5807.jpg` | [Bildquelle:  	FredMikeRudy. -- 	 	http://www.flickr.com/photos/fredmikerudy/2090687162/. -- Zugriff am  	2009-03-02. -- 	Creative  	Commons Lizenz (Namensnennung, keine Bearbeitung)] | ![lekt5807.jpg](/images/lekt5807.jpg) |
 | <a id="lekt5801"></a> `lekt5801.jpg` | Abb.: स्त्रियौ शाकं क्रीणाते 		[Bildquelle: Prato9x. -- 		 		http://www.flickr.com/photos/55163494@N00/262793331/. -- Zugriff am  		2009-03-02. -- 		 		Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung,  		keine Bearbeitung)] | ![lekt5801.jpg](/images/lekt5801.jpg) |
-| <a id="lekt5808"></a> `lekt5808.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt5808.jpg](/images/lekt5808.jpg) |
+| <a id="lekt5808"></a> `lekt5808.jpg` | Abb.: दीपः श्रीकृष्णाय श्रीगणेशाय चादीपिष्ट / चादीपि॥ | ![lekt5808.jpg](/images/lekt5808.jpg) |
 | <a id="lekt5902"></a> `lekt5902.jpg` | Abb.: रावणः [Bildquelle: Henryart/Wikipedia. Public domain] | ![lekt5902.jpg](/images/lekt5902.jpg) |
 | <a id="lekt5903"></a> `lekt5903.jpg` | Abb.: कुम्भकर्णः Kecak-Tanz, Bali (Indonesien) [Bildquelle: Flying Pharmacist / Wikipedia. Creative Commons Lizenz  (Namensnennung, share alike)] | ![lekt5903.jpg](/images/lekt5903.jpg) |
-| <a id="lekt5901"></a> `lekt5901.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt5901.jpg](/images/lekt5901.jpg) |
-| <a id="lekt6001"></a> `lekt6001.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt6001.jpg](/images/lekt6001.jpg) |
-| <a id="lekt6002"></a> `lekt6002.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt6002.jpg](/images/lekt6002.jpg) |
-| <a id="lekt6003"></a> `lekt6003.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt6003.jpg](/images/lekt6003.jpg) |
-| <a id="lekt6004"></a> `lekt6004.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt6004.jpg](/images/lekt6004.jpg) |
-| <a id="lekt6005"></a> `lekt6005.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt6005.jpg](/images/lekt6005.jpg) |
-| <a id="lekt6006"></a> `lekt6006.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt6006.jpg](/images/lekt6006.jpg) |
-| <a id="lekt6007"></a> `lekt6007.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt6007.jpg](/images/lekt6007.jpg) |
-| <a id="lekt6008"></a> `lekt6008.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt6008.jpg](/images/lekt6008.jpg) |
-| <a id="lekt6009"></a> `lekt6009.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt6009.jpg](/images/lekt6009.jpg) |
+| <a id="lekt5901"></a> `lekt5901.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt5901.jpg](/images/lekt5901.jpg) |
+| <a id="lekt6001"></a> `lekt6001.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt6001.jpg](/images/lekt6001.jpg) |
+| <a id="lekt6002"></a> `lekt6002.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt6002.jpg](/images/lekt6002.jpg) |
+| <a id="lekt6003"></a> `lekt6003.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt6003.jpg](/images/lekt6003.jpg) |
+| <a id="lekt6004"></a> `lekt6004.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt6004.jpg](/images/lekt6004.jpg) |
+| <a id="lekt6005"></a> `lekt6005.jpg` | "vorwärts gerichtet, östlich" / दक्षिण — rechts, südlich | ![lekt6005.jpg](/images/lekt6005.jpg) |
+| <a id="lekt6006"></a> `lekt6006.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt6006.jpg](/images/lekt6006.jpg) |
+| <a id="lekt6007"></a> `lekt6007.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt6007.jpg](/images/lekt6007.jpg) |
+| <a id="lekt6008"></a> `lekt6008.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt6008.jpg](/images/lekt6008.jpg) |
+| <a id="lekt6009"></a> `lekt6009.jpg` | Alois Payer / Original-Kursmaterial (Grammatiktafel) | ![lekt6009.jpg](/images/lekt6009.jpg) |
 | <a id="lekt6102"></a> `lekt6102.jpg` | Abb.: स्त्रियः [Bildquelle: World Bank / Curt Carnemark. --  http://www.flickr.com/photos/worldbank/2241690863/. -- Zugriff am  2009-03-06. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine  Bearbeitung)] | ![lekt6102.jpg](/images/lekt6102.jpg) |
 | <a id="lekt6106"></a> `lekt6106.jpg` | Abb.: रथ्याप्वः काशीपुर [Bildquelle: Sumit. --  http://www.flickr.com/photos/sumit/107861850/. -- Zugriff am 2009-03-09. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]] | ![lekt6106.jpg](/images/lekt6106.jpg) |
 | <a id="lekt6107"></a> `lekt6107.jpg` | Abb.: वध्वौ जोधपुर [Bildquelle: thebigdurian. --  http://www.flickr.com/photos/thebigdurian/2200364164/. -- Zugriff am  2009-03-09. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] | ![lekt6107.jpg](/images/lekt6107.jpg) |
@@ -393,42 +393,42 @@ pageClass: license-page
 | <a id="lekt6110"></a> `lekt6110.jpg` | Abb.: कस्तत्र न मधुस्यति ? Karli [Bildquelle: Makwa. --  http://www.flickr.com/photos/makwa/140499307/. -- Zugriff am 2009-03-09. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine  Bearbeitung)] | ![lekt6110.jpg](/images/lekt6110.jpg) |
 | <a id="lekt6111"></a> `lekt6111.jpg` | Abb.: श्वानौ शब्दायेते [Bildquelle: technicolorcavalry. --  http://www.flickr.com/photos/technicolorcavalry/155364212/. -- Zugriff am  2009-03-09. --  Creative Commons Lizenz (Namensnennung, share alike)] | ![lekt6111.jpg](/images/lekt6111.jpg) |
 | <a id="lekt6113"></a> `lekt6113.jpg` | Abb.: भिक्षुर्मुण्डयते । Thailand -  เมืองไทย [Bildquelle: Sailing "Footprints: Real to Reel" (Ronn ashore). --  http://www.flickr.com/photos/12392252@N03/2505961590/. -- Zugriff am  2009-03-09. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine  Bearbeitung)] | ![lekt6113.jpg](/images/lekt6113.jpg) |
-| <a id="lekt6112"></a> `lekt6112.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt6112.jpg](/images/lekt6112.jpg) |
+| <a id="lekt6112"></a> `lekt6112.jpg` | Abb.: Niels Ludvig Westergaard (1815 - 1878) | ![lekt6112.jpg](/images/lekt6112.jpg) |
 | <a id="lekt6114"></a> `lekt6114.jpg` | Abb.: नववर्षं शुभं भूयात् ॥ Santa Cruz Basilica, Kochi =  കൊച്ചി [Bildquelle: monsieur paradis. --  http://www.flickr.com/photos/zacharyparadis/3189670791/. -- Zugriff am  2009-03-09. --  Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] | ![lekt6114.jpg](/images/lekt6114.jpg) |
 | <a id="lekt6115"></a> `lekt6115.jpg` | Abb.: हरिद्वारे गावः ॥ [Bildquelle: mckaysavage. --  http://www.flickr.com/photos/mckaysavage/2086490984/. -- Zugriff am  2009-03-09. --  Creative Commons Lizenz (Namensnennung)] | ![lekt6115.jpg](/images/lekt6115.jpg) |
 | <a id="lekt6118"></a> `lekt6118.jpg` | Abb.: हरिद्वारे गावः ॥ [Bildquelle: mckaysavage. --  http://www.flickr.com/photos/mckaysavage/2086490984/. -- Zugriff am  2009-03-09. --  Creative Commons Lizenz (Namensnennung)] | ![lekt6118.jpg](/images/lekt6118.jpg) |
 | <a id="lekt6116"></a> `lekt6116.jpg` | Abb.: आवां स्वसारौ ॥ Apatani-Volk, Arunachal Pradesh [Bildquelle: ahinsajain. --  http://www.flickr.com/photos/ahinsajain/3165501187/. -- Zugriff am  2009-03-09. --  Creative Commons Lizenz (Namensnennung)] | ![lekt6116.jpg](/images/lekt6116.jpg) |
 | <a id="lekt6117"></a> `lekt6117.jpg` | Abb.: आवां स्वसारौ ॥ Apatani-Volk, Arunachal Pradesh [Bildquelle: ahinsajain. --  http://www.flickr.com/photos/ahinsajain/3165501187/. -- Zugriff am  2009-03-09. --  Creative Commons Lizenz (Namensnennung)] | ![lekt6117.jpg](/images/lekt6117.jpg) |
 | <a id="lekt6101"></a> `lekt6101.jpg` | Abb.: श्रीगणनाथः Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.[Bildquelle: Quadell / Wikipedia. GNU FDLicense] | ![lekt6101.jpg](/images/lekt6101.jpg) |
-| <a id="lekt6119"></a> `lekt6119.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![lekt6119.jpg](/images/lekt6119.jpg) |
+| <a id="lekt6119"></a> `lekt6119.jpg` | Abb.: Melodie, auf c bezogen, kann je nach Stimmlage transponiert werden. | ![lekt6119.jpg](/images/lekt6119.jpg) |
 | <a id="schrift001"></a> `schrift001.jpg` | Abb.: Schriftproben Sanskrit [Bildquelle: Wikipedia, GNU FD LIzenz] | ![schrift001.jpg](/images/schrift001.jpg) |
-| <a id="schrift002"></a> `schrift002.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift002.jpg](/images/schrift002.jpg) |
-| <a id="schrift003"></a> `schrift003.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift003.jpg](/images/schrift003.jpg) |
-| <a id="schrift004"></a> `schrift004.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift004.jpg](/images/schrift004.jpg) |
-| <a id="schrift005"></a> `schrift005.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift005.jpg](/images/schrift005.jpg) |
-| <a id="schrift006"></a> `schrift006.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift006.jpg](/images/schrift006.jpg) |
-| <a id="schrift007"></a> `schrift007.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift007.jpg](/images/schrift007.jpg) |
-| <a id="schrift008"></a> `schrift008.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift008.jpg](/images/schrift008.jpg) |
-| <a id="schrift009"></a> `schrift009.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift009.jpg](/images/schrift009.jpg) |
-| <a id="schrift010"></a> `schrift010.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift010.jpg](/images/schrift010.jpg) |
-| <a id="schrift011"></a> `schrift011.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift011.jpg](/images/schrift011.jpg) |
-| <a id="schrift012"></a> `schrift012.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift012.jpg](/images/schrift012.jpg) |
-| <a id="schrift013"></a> `schrift013.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift013.jpg](/images/schrift013.jpg) |
-| <a id="schrift014"></a> `schrift014.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift014.jpg](/images/schrift014.jpg) |
-| <a id="schrift015"></a> `schrift015.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift015.jpg](/images/schrift015.jpg) |
-| <a id="schrift016"></a> `schrift016.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift016.jpg](/images/schrift016.jpg) |
-| <a id="schrift017"></a> `schrift017.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift017.jpg](/images/schrift017.jpg) |
-| <a id="schrift018"></a> `schrift018.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift018.jpg](/images/schrift018.jpg) |
-| <a id="schrift019"></a> `schrift019.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift019.jpg](/images/schrift019.jpg) |
-| <a id="schrift020"></a> `schrift020.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift020.jpg](/images/schrift020.jpg) |
-| <a id="schrift021"></a> `schrift021.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift021.jpg](/images/schrift021.jpg) |
-| <a id="schrift022"></a> `schrift022.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift022.jpg](/images/schrift022.jpg) |
-| <a id="schrift023"></a> `schrift023.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift023.jpg](/images/schrift023.jpg) |
-| <a id="schrift024"></a> `schrift024.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift024.jpg](/images/schrift024.jpg) |
-| <a id="schrift025"></a> `schrift025.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift025.jpg](/images/schrift025.jpg) |
-| <a id="schrift026"></a> `schrift026.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift026.jpg](/images/schrift026.jpg) |
-| <a id="schrift027"></a> `schrift027.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift027.jpg](/images/schrift027.jpg) |
-| <a id="schrift028"></a> `schrift028.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![schrift028.jpg](/images/schrift028.jpg) |
+| <a id="schrift002"></a> `schrift002.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift002.jpg](/images/schrift002.jpg) |
+| <a id="schrift003"></a> `schrift003.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift003.jpg](/images/schrift003.jpg) |
+| <a id="schrift004"></a> `schrift004.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift004.jpg](/images/schrift004.jpg) |
+| <a id="schrift005"></a> `schrift005.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift005.jpg](/images/schrift005.jpg) |
+| <a id="schrift006"></a> `schrift006.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift006.jpg](/images/schrift006.jpg) |
+| <a id="schrift007"></a> `schrift007.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift007.jpg](/images/schrift007.jpg) |
+| <a id="schrift008"></a> `schrift008.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift008.jpg](/images/schrift008.jpg) |
+| <a id="schrift009"></a> `schrift009.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift009.jpg](/images/schrift009.jpg) |
+| <a id="schrift010"></a> `schrift010.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift010.jpg](/images/schrift010.jpg) |
+| <a id="schrift011"></a> `schrift011.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift011.jpg](/images/schrift011.jpg) |
+| <a id="schrift012"></a> `schrift012.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift012.jpg](/images/schrift012.jpg) |
+| <a id="schrift013"></a> `schrift013.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift013.jpg](/images/schrift013.jpg) |
+| <a id="schrift014"></a> `schrift014.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift014.jpg](/images/schrift014.jpg) |
+| <a id="schrift015"></a> `schrift015.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift015.jpg](/images/schrift015.jpg) |
+| <a id="schrift016"></a> `schrift016.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift016.jpg](/images/schrift016.jpg) |
+| <a id="schrift017"></a> `schrift017.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift017.jpg](/images/schrift017.jpg) |
+| <a id="schrift018"></a> `schrift018.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift018.jpg](/images/schrift018.jpg) |
+| <a id="schrift019"></a> `schrift019.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift019.jpg](/images/schrift019.jpg) |
+| <a id="schrift020"></a> `schrift020.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift020.jpg](/images/schrift020.jpg) |
+| <a id="schrift021"></a> `schrift021.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift021.jpg](/images/schrift021.jpg) |
+| <a id="schrift022"></a> `schrift022.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift022.jpg](/images/schrift022.jpg) |
+| <a id="schrift023"></a> `schrift023.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift023.jpg](/images/schrift023.jpg) |
+| <a id="schrift024"></a> `schrift024.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift024.jpg](/images/schrift024.jpg) |
+| <a id="schrift025"></a> `schrift025.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift025.jpg](/images/schrift025.jpg) |
+| <a id="schrift026"></a> `schrift026.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift026.jpg](/images/schrift026.jpg) |
+| <a id="schrift027"></a> `schrift027.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift027.jpg](/images/schrift027.jpg) |
+| <a id="schrift028"></a> `schrift028.jpg` | Alois Payer / Original-Kursmaterial (Schriftprobe) | ![schrift028.jpg](/images/schrift028.jpg) |
 | <a id="uebung002"></a> `uebung002.jpg` | Abb.: īśvaraḥ śivaḥ = ईश्वरः शिवः Śiva als Adrdhnārīśvara (अर्धनारीश्वर), d.h. in der Gestalt von halb Mann, halb  Frau [Bildquelle: Wikipedia, Public domain] | ![uebung002.jpg](/images/uebung002.jpg) |
 | <a id="uebung001"></a> `uebung001.jpg` | paśur dhenuḥ = पशुर्धेनुः Indische Zeburinder bei Bangalore [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/529395270/. -- Zugriff am 2008-11-27. -- Creative Commons Lizenz (Namensnennung) ] | ![uebung001.jpg](/images/uebung001.jpg) |
 | <a id="uebung003"></a> `uebung003.jpg` | Abb.: etat kim? eṣa kākaḥ. एतत्किम् । एष काकः । Glanzkrähen (Corvus splendens), Rājasthān (राजस्थान) [Bildquelle: Unbekannt / Lehrgangsmaterial] | ![uebung003.jpg](/images/uebung003.jpg) |
@@ -499,7 +499,7 @@ pageClass: license-page
 | <a id="uebung059"></a> `uebung059.jpg` | Abb.: जगौ Baul = বাউল mit Dotara  = দোতারা, Shantikniketan = শান্তিনিকেতন [Bildquelle: paulancheta. --  http://www.flickr.com/photos/paulancheta/3164774529/. -- Zugriff am  2009-01-20. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielel Nutzung, keine  Bearbeitung)] | ![uebung059.jpg](/images/uebung059.jpg) |
 | <a id="uebung062"></a> `uebung062.jpg` | Abb.: पुत्रे जात आर्यः  सुखमाप्नोति [Bildquelle:  amee@work. --  http://www.flickr.com/photos/amee_photo/3122658519/in/photostream/. --  Zugriff am 2009-01-20. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine  Bearbeitung)] | ![uebung062.jpg](/images/uebung062.jpg) |
 | <a id="uebung063"></a> `uebung063.jpg` | Abb.: रज्ञे बलिनो  हस्तिनो दीयेरन् Surin = สุรินทร, Thailand [Bildquelle: how3ird. --  http://www.flickr.com/photos/how3ird/3103689757/. -- Zugriff am 2009-01-20.  -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] | ![uebung063.jpg](/images/uebung063.jpg) |
-| <a id="uebung064"></a> `uebung064.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![uebung064.jpg](/images/uebung064.jpg) |
+| <a id="uebung064"></a> `uebung064.jpg` | Abb.: आगारे सीदामः | ![uebung064.jpg](/images/uebung064.jpg) |
 | <a id="uebung065"></a> `uebung065.jpg` | Abb.: आशिमेति Belgaum = ಬೆಳಗಾವಿ / बेळगांव [Bildquelle: shimonkey. --  http://www.flickr.com/photos/shimonkey/5321491/. -- Zugriff am 2009-01-21.  -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] | ![uebung065.jpg](/images/uebung065.jpg) |
 | <a id="uebung066"></a> `uebung066.jpg` | Abb.: काश्चन वाहिकाः Karwar = ಕಾರವಾರ [Bildquelle: Songkran. --  http://www.flickr.com/photos/thomasbrauner/847560576/. -- Zugriff am  2009-01-21. -- Creative  Commons Lizenz (Namensnennung, keine kommerzzielle Nutzung, share alike)] | ![uebung066.jpg](/images/uebung066.jpg) |
 | <a id="uebung093"></a> `uebung093.jpg` | Abb.: अगायि ॥ Darjeeling -  দার্জিলিং [Bildquelle: judepics. --  http://www.flickr.com/photos/judepics/2955447474/. -- Zugriff am 2009-03-11.  -- Creative Commons  Lizenz (Namensnennung)] | ![uebung093.jpg](/images/uebung093.jpg) |
@@ -519,7 +519,7 @@ pageClass: license-page
 | <a id="uebung082"></a> `uebung082.jpg` | Abb.: दैवे कर्मणि युक्तो हि बिभर्तीदं चराचरम्  ॥ca. 1900 [Bildquelle: whatsthatpicture. --  http://www.flickr.com/photos/whatsthatpicture/2992703533/in/set-72157608574746511/.  -- Zugriff am 2009-01-24. -- Creative Commons  Lizenz (Namensnennung, keine kommerzielle Nutzung)] | ![uebung082.jpg](/images/uebung082.jpg) |
 | <a id="uebung081"></a> `uebung081.jpg` | Abb.:  संतुष्टो भार्यया भर्ताभर्त्रा भार्या तथैव च ।यस्मिन्नेव कुले नित्यम्कल्याणं तत्र वै ध्रुवम्  ॥ Christliche Familie, ca. 1900 [Bildquelle: whatsthatpicture. --  http://www.flickr.com/photos/whatsthatpicture/2993549480/. -- Zugriff am  2009-01-24. --  Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] | ![uebung081.jpg](/images/uebung081.jpg) |
 | <a id="uebung086"></a> `uebung086.jpg` | Abb.: Jäger, Pinjamanthai [Bildquelle: Tom Maisey. --  http://www.flickr.com/photos/tomm/121179525/. -- Zugriff am 2009-01-26. -- Creative Commons  Lizenz (Namensnennung)] | ![uebung086.jpg](/images/uebung086.jpg) |
-| <a id="uebung089"></a> `uebung089.jpg` | Keine spezielle Lizenz/Bildquelle im Text gefunden | ![uebung089.jpg](/images/uebung089.jpg) |
+| <a id="uebung089"></a> `uebung089.jpg` | Abb.: Umschlagtitel | ![uebung089.jpg](/images/uebung089.jpg) |
 | <a id="uebung087"></a> `uebung087.jpg` | Abb.: सर्वं परवशं दुःखम् विद्यारम्भः [Bildquelle: ToreaJade. --  http://www.flickr.com/photos/toreajade/52085380/. -- Zugriff am 2009-01-26.  -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] | ![uebung087.jpg](/images/uebung087.jpg) |
 | <a id="uebung088"></a> `uebung088.jpg` | Abb.: कदलीगर्भनिःसारः   Querschnitt durch eine Bananenpflanze [Bildquelle: : Przemyslaw "Blueshade" Idzkiewicz. -- Wikimedia Commons. -- Creative Commons  Lizenz (Namensnennung, share alike)] | ![uebung088.jpg](/images/uebung088.jpg) |
 | <a id="uebung095"></a> `uebung095.jpg` | Abb.: तब्लाः,   अनदिष्ट ॥ [Bildquelle: Kaustav Bhattacharya. --  http://www.flickr.com/photos/astrolondon/224826916/. -- Zugriff am  2009-03-12. -- Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine  Bearbeitung)] | ![uebung095.jpg](/images/uebung095.jpg) |

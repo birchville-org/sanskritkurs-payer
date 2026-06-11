@@ -169,6 +169,32 @@ LANG_CONFIG = {
 
 DEV = r'[ऀ-ॿ]'
 
+# ── Genus-Extraktion ────────────────────────────────────────────────────────
+_GENUS_RE = re.compile(
+    r'^[\s.]*'
+    r'(mfn\b|f\.?|m\.?|n\.?|3\b|Adv(?:erb)?\b|Adj\b|PP\b'
+    r'|10[PUĀ]|10Ā|[1-9][PUĀ]|[1-9]Ā|[1-9]P|[1-9]U'
+    r'|पु\.?|pु\.?|पुल्लिङ्ग'
+    r'|स्त्री\.?|स्त्रीलिङ्ग'
+    r'|न\.?|नपुंसक)'
+)
+
+_HINDI_GENUS_MAP = {
+    'पु': 'm', 'pु': 'm', 'पु.': 'm', 'pु.': 'm', 'पुल्लिङ्ग': 'm',
+    'स्त्री': 'f', 'स्त्री.': 'f', 'स्त्रीलिङ्ग': 'f',
+    'न': 'n', 'न.': 'n', 'नपुंसक': 'n',
+    'm.': 'm', 'm': 'm', 'f.': 'f', 'f': 'f', 'n.': 'n', 'n': 'n',
+}
+
+
+def _extract_genus(after_word: str) -> str:
+    """Extract genus/word-class marker from text right after **word**."""
+    m = _GENUS_RE.match(after_word)
+    if not m:
+        return ""
+    raw = m.group(1).strip().rstrip('.')
+    return _HINDI_GENUS_MAP.get(raw, raw) or ""
+
 
 def get_wortliste_anchor(lang_dir: Path, lektion_num: int) -> str:
     """VitePress-Anker des Wortliste-Abschnitts ermitteln."""
@@ -236,7 +262,8 @@ def parse_entries(lang_dir: Path, de_dir: Path) -> list:
 
         lang_text = lang_path.read_text(encoding="utf-8")
         # Wortliste-Abschnitt in der Zielsprache finden
-        sec_m = re.search(rf"^## {re.escape(wl_sec)}\.\s+.+\n", lang_text, re.MULTILINE)
+        # Use simple string matching since wl_sec is like "5.4" and heading is "## 5.4. ..."
+        sec_m = re.search(rf"^## {wl_sec}\.\s+.+\n", lang_text, re.MULTILINE)
         if not sec_m:
             continue
 
@@ -252,45 +279,74 @@ def parse_entries(lang_dir: Path, de_dir: Path) -> list:
         sec_anchor = wl_sec.replace(".", "-")
         anchor = f"#_{sec_anchor}-{heading_slug}" if wl_sec[0].isdigit() else f"#{sec_anchor}-{heading_slug}"
 
-        # Einträge parsen — Format A: **iast** genus -- देव : Bedeutung
+        # Einträge parsen — vereinfachter einheitlicher Ansatz
         for line in section_text.split("\n"):
-            ma = re.match(
-                r"^[-\s]*\*\*([^*]+)\*\*\s*([^ऀ-ॿ:=\n]*?)\s*(?:--|=)?\s*([ऀ-ॿ]+(?:\s[ऀ-ॿ]+)*)\s*[=:]\s*(.+)",
-                line,
-            )
-            if ma:
-                iast = ma.group(1).strip()
-                genus = ma.group(2).strip().rstrip(".,")
-                deva = ma.group(3).strip()
-                bed = ma.group(4).strip().rstrip(".")
-                if re.search(DEV, deva) and len(deva) >= 2:
-                    key = (deva, n)
-                    if key not in seen:
-                        seen.add(key)
-                        # IAST aus dem Eintrag übernehmen oder algorithmisch erzeugen
-                        iast_final = iast if iast else deva_to_iast(deva)
-                        entries.append({
-                            "iast": iast_final, "deva": deva, "genus": genus,
-                            "bedeutung": bed, "lektion": n, "anchor": anchor,
-                        })
+            # Skip lines that don't contain bold text with Devanagari
+            if "**⟪" not in line and "**" not in line:
                 continue
-            # Format B: देव genus : Bedeutung
-            mb = re.match(
-                r"^[-\s]*([ऀ-ॿ][ऀ-ॿ\s]*?)\s*(m\b|f\b|n\b|mfn\b|3\b|Adv\b|Adj\b|PP\b)[.,]?\s*:?\s*(.{3,})",
-                line,
-            )
-            if mb:
-                deva = mb.group(1).strip()
-                genus = mb.group(2).strip()
-                bed = mb.group(3).strip().rstrip(".")
-                if re.search(DEV, deva) and len(deva) >= 2:
-                    key = (deva, n)
-                    if key not in seen:
-                        seen.add(key)
-                        entries.append({
-                            "iast": deva_to_iast(deva), "deva": deva, "genus": genus,
-                            "bedeutung": bed, "lektion": n, "anchor": anchor,
-                        })
+            if not re.search(DEV, line):
+                continue
+
+            # Extract word from **⟪WORD⟫, **WORD**, or bare WORD
+            word_m = re.match(r"^\*\*⟪([^⟪⟩]+)⟫", line)
+            if not word_m:
+                word_m = re.match(r"^\*\*([ऀ-ॿ]+)\*\*", line)
+            if not word_m:
+                word_m = re.match(r"^([ऀ-ॿ][ऀ-ॿ\s]*?)\s*(m\b|f\b|n\b|mfn\b|3\b|Adv\b|Adj\b|PP\b)[.,]?", line)
+
+            if not word_m:
+                continue
+
+            deva = word_m.group(1).strip()
+            if not re.search(DEV, deva) or len(deva) < 2:
+                continue
+
+            rest = line[word_m.end():]
+
+            # Genus/word-class extraction from text between **word** and meaning
+            genus_val = _extract_genus(rest)
+
+            # Find ALL colons, score each: pick the one with most Devanagari
+            # text after it and fewest Latin chars. This handles the complex
+            # Hindi format where meanings can follow `:`, `:**`, or ` :**`.
+            candidates = []
+            for m in re.finditer(r":", rest):
+                pos = m.end()
+                if pos >= len(rest):
+                    continue
+                text = rest[pos:]
+                deva_count = len(re.findall(DEV, text))
+                latin_count = len(re.findall(r"[a-zA-Z]+", text))
+                candidates.append((pos, text, deva_count, latin_count))
+
+            if not candidates:
+                continue
+
+            # Pick: most Devanagari, fewest Latin
+            candidates.sort(key=lambda c: (c[2], -c[3]), reverse=True)
+            bed = candidates[0][1].strip()
+
+            # Aggressive cleanup — meaning text may contain metadata bleed-in
+            bed = bed.replace("*", "").replace("`", "")
+            bed = re.sub(r"⟪[^⟪⟩]+⟫", "", bed)
+            bed = re.sub(r"[A-Za-z]+[.,]\s*", "", bed)
+            bed = re.sub(r"\d+[\u0900-\u097F.]+", "", bed)
+            bed = re.sub(r"\s+", " ", bed).strip()
+            bed = re.sub(r"^[,.:;]+|[,.:;]+$", "", bed)
+
+            if not re.search(DEV, bed) or len(bed) < 2:
+                continue
+
+            key = (deva, n)
+            if key not in seen:
+                seen.add(key)
+                iast = deva_to_iast(deva)
+                if not iast:
+                    iast = deva
+                entries.append({
+                    "iast": iast, "deva": deva, "genus": genus_val,
+                    "bedeutung": bed, "lektion": n, "anchor": anchor,
+                })
     return entries
 
 
@@ -346,7 +402,10 @@ def generate(lang: str) -> None:
             genus = e["genus"] or "—"
             bed = e["bedeutung"].replace("|", "/").replace("\n", " ")[:120]
             lekt_link = f"[{e['lektion']}]({c['link_prefix']}{e['lektion']:02d}{e['anchor']})"
-            lines.append(f"| {e['deva']} | {iast} | {genus} | {bed} | {lekt_link} |")
+            # Wrap Sanskrit Devanagari in <strong><em> for SignalRot (VitePress
+            # doesn't render *** in table cells; raw HTML is always rendered)
+            deva_display = f"<strong><em>{e['deva']}</em></strong>"
+            lines.append(f"| {deva_display} | {iast} | {genus} | {bed} | {lekt_link} |")
         lines.append("")
 
     out_path.parent.mkdir(parents=True, exist_ok=True)

@@ -95,7 +95,7 @@ Horizontale Erweiterung um neue Sprachen + Lückenfüllung bestehender.
 ### Phase 17: Scholarly Polish — Captions, Metadata & Comparison (sekundär)
 Standardisierung der Metadaten und Legacy-Vergleichswerkzeug.
 - [x] **Plan 17.1**: Bildunterschriften bereits im Standardformat: `Abb.: text` + `(Bildquelle: [Details](/licenses#...))` *(de facto erledigt, 2026-06-03)*
-- [ ] **Plan 17.2**: Audit und Vervollständigung der licenses.md.
+- [x] **Plan 17.2**: Audit und Vervollständigung der licenses.md (2026-06-11).
 - [x] **Plan 17.3**: Historical Comparison Mode (999.12) — Side-by-Side Legacy-HTML vs Modern-Markdown. *(erledigt durch QA-Viewer Split-View, 2026-06-02)*
 - **Erfolgskriterien**:
     - Alle Bildunterschriften folgen dem L16-Ref Standard.
@@ -169,12 +169,12 @@ Plans:
 | 5-9 | v1.1 | 5/5 | Complete | 2026-04-19 |
 | 10 | v1.2 | 2/2 | Complete | 2026-04-26 |
 | 11 | v1.2 | 2/2 | Complete | 2026-04-26 |
-| 12 | v1.2 | 2/4 | In Progress|  |
+| 12 | v1.2 | 4/4 | Complete | 2026-06-03 |
 | 13 | v1.2 | 1/1 | Complete | 2026-05-08 |
 | 14 | v1.2 | 3/3 | Complete | 2026-05-16 |
-| 15 | v1.3 | 4/4 | Complete    | 2026-05-31 |
-| 16 | v1.3 | 0/4 | Pending | — |
-| 17 | v1.3 | 0/3 | Pending | — |
+| 15 | v1.3 | 4/4 | Complete | 2026-05-31 |
+| 16 | v1.3 | 4/4 | Complete | 2026-06-03 |
+| 17 | v1.3 | 3/3 | Complete | 2026-06-11 |
 
 ### Phase ${NEXT}: ${DESCRIPTION} (BACKLOG)
 
