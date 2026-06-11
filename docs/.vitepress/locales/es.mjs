@@ -10,7 +10,7 @@ export const es = {
     nav: [
       { text: 'Inicio', link: '/es/' },
       { text: 'Contenido', link: '/es/lektionen/inhaltsverzeichnis' },
-      { text: 'Índice', link: '/es/grammatik' },
+      { text: 'Índice', link: '/es/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Créditos', link: '/es/impressum' }
     ],

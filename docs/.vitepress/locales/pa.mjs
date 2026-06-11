@@ -10,7 +10,7 @@ export const pa = {
     nav: [
       { text: 'ਮੁੱਖ ਪੰਨਾ', link: '/pa/' },
       { text: 'ਵਿਸ਼ਾ ਸੂਚੀ', link: '/pa/lektionen/inhaltsverzeichnis' },
-      { text: 'ਵਿਆਕਰਨ ਸੂਚਕਾਂਕ', link: '/pa/grammatik' },
+      { text: 'ਵਿਆਕਰਨ ਸੂਚਕਾਂਕ', link: '/pa/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'ਯੋਗਦਾਨੀ', link: '/pa/impressum' }
     ],
@@ -20,7 +20,7 @@ export const pa = {
     },
     sidebar: [
       { text: 'ਵਿਸ਼ਾ ਸੂਚੀ', link: '/pa/lektionen/inhaltsverzeichnis' },
-      { text: 'ਵਿਆਕਰਨ ਵਿਸ਼ੇ (ਵਰਣਮਾਲਾ ਅਨੁਸਾਰ)', link: '/pa/grammatik' },
+      { text: 'ਵਿਆਕਰਨ ਵਿਸ਼ੇ', link: '/pa/grammatik' },
       { text: 'ਸ਼ਬਦ ਸੂਚੀ', link: '/pa/lektionen/wortliste' },
       { text: 'ਸ਼ਬਦਕੋਸ਼', link: '/pa/lektionen/glossar' },
       { text: 'ਪਾਠ', collapsed: false, items: [] },

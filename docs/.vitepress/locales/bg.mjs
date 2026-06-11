@@ -16,7 +16,7 @@ export const bg = {
     nav: [
       { text: 'Начало', link: '/bg/' },
       { text: 'Съдържание', link: '/bg/lektionen/inhaltsverzeichnis' },
-      { text: 'Индекс', link: '/bg/grammatik' },
+      { text: 'Индекс', link: '/bg/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Кредити', link: '/bg/impressum' }
     ],
@@ -26,7 +26,7 @@ export const bg = {
     },
     sidebar: [
       { text: 'Съдържание', link: '/bg/lektionen/inhaltsverzeichnis' },
-      { text: 'Граматични теми (Индекс)', link: '/bg/grammatik' },
+      { text: 'Граматични теми', link: '/bg/grammatik' },
       { text: 'Речник', link: '/bg/lektionen/wortliste' },
       { text: 'Речник', link: '/bg/lektionen/glossar' },
       { text: 'Уроци', collapsed: false, items: [] },

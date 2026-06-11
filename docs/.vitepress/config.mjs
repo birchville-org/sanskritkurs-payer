@@ -448,7 +448,7 @@ export default defineConfig({
     function copyMdFiles(src, out) {
       if (!fs.existsSync(src)) return
       for (const e of fs.readdirSync(src, { withFileTypes: true })) {
-        if (e.name === '.vitepress') continue
+        if (e.name === '.vitepress' || e.name === 'deleteme') continue
         const s = path.join(src, e.name), d = path.join(out, e.name)
         if (e.isDirectory()) copyMdFiles(s, d)
         else if (e.name.endsWith('.md')) {

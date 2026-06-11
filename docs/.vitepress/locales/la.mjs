@@ -10,7 +10,7 @@ export const la = {
     nav: [
       { text: 'Principium', link: '/la/' },
       { text: 'Index rerum', link: '/la/lektionen/inhaltsverzeichnis' },
-      { text: 'Grammatica', link: '/la/grammatik' },
+      { text: 'Grammatica', link: '/la/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Laudes', link: '/la/impressum' }
     ],

@@ -10,7 +10,7 @@ export const ta = {
     nav: [
       { text: 'முகப்பு', link: '/ta/' },
       { text: 'உள்ளடக்கம்', link: '/ta/lektionen/inhaltsverzeichnis' },
-      { text: 'அகரவரிசை', link: '/ta/grammatik' },
+      { text: 'அகரவரிசை', link: '/ta/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'பங்களிப்பாளர்கள்', link: '/ta/impressum' }
     ],
@@ -20,7 +20,7 @@ export const ta = {
     },
     sidebar: [
       { text: 'உள்ளடக்கம்', link: '/ta/lektionen/inhaltsverzeichnis' },
-      { text: 'இலக்கண தலைப்புகள் (அகரவரிசை)', link: '/ta/grammatik' },
+      { text: 'இலக்கண தலைப்புகள்', link: '/ta/grammatik' },
       { text: 'சொற்களஞ்சியம்', link: '/ta/lektionen/wortliste' },
       { text: 'சொல்லகராதி', link: '/ta/lektionen/glossar' },
       { text: 'பாடங்கள்', collapsed: false, items: [] },

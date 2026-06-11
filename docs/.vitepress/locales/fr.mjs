@@ -16,7 +16,7 @@ export const fr = {
     nav: [
       { text: 'Accueil', link: '/fr/' },
       { text: 'Table des matières', link: '/fr/lektionen/inhaltsverzeichnis' },
-      { text: 'Index', link: '/fr/grammatik' },
+      { text: 'Index', link: '/fr/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Crédits', link: '/fr/impressum' }
     ],
@@ -26,7 +26,7 @@ export const fr = {
     },
     sidebar: [
       { text: 'Table des matières', link: '/fr/lektionen/inhaltsverzeichnis' },
-      { text: 'Sujets de grammaire (Index)', link: '/fr/grammatik' },
+      { text: 'Sujets de grammaire', link: '/fr/grammatik' },
       { text: 'Vocabulaire', link: '/fr/lektionen/wortliste' },
       { text: 'Glossaire', link: '/fr/lektionen/glossar' },
       { text: 'Leçons', collapsed: false, items: [] },

@@ -16,7 +16,7 @@ export const it = {
     nav: [
       { text: 'Home', link: '/it/' },
       { text: 'Sommario', link: '/it/lektionen/inhaltsverzeichnis' },
-      { text: 'Indice', link: '/it/grammatik' },
+      { text: 'Indice', link: '/it/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Crediti', link: '/it/impressum' }
     ],

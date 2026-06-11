@@ -1,53 +1,68 @@
-import { createContentLoader } from 'vitepress'
+import fs from 'fs'
+import path from 'path'
 
 const EXCLUSIONS = [
   'lektion', 'übung', 'wortkunde', 'zitierweise', 'rechte', 
   'anmerkung', 'quelle', 'abbildung', 'inhaltsverzeichnis',
   'auf dieser seite', 'impressum', 'bildlizenzen'
-];
+]
 
-export default createContentLoader('lektionen/lektion*.md', {
-  includeSrc: true,
-  transform(raw) {
-    const topicMap = {};
+const LOCALES = ['', 'en', 'it', 'es', 'fr', 'hi', 'bg', 'ru', 'uk', 'ta', 'pa', 'la', 'rm', 'ro']
 
-    raw.forEach(page => {
-      if (!page.url || page.url.includes('/en/')) return;
+// __dirname = docs/.vitepress/theme/data
+// Go up 3 levels: data -> theme -> .vitepress -> docs
+const baseDir = path.resolve(__dirname, '..', '..', '..')
 
-      const headings = page.src ? (page.src.match(/^#{1,3}\s+(.+)$/gm) || []) : [];
-      
-      const lessonMatch = page.url.match(/lektion(\d+)/);
-      if (!lessonMatch) return;
-      
-      const lessonNumber = parseInt(lessonMatch[1]);
-
-      headings.forEach(h => {
-        if (!h) return;
-        let title = h.replace(/^#{1,3}\s+/, '').trim();
-        
-        // Strip leading numbers/indicators (Latin, Devanagari, letters with closing paren)
-        // Handles: "1.1. ", "1. ", "१. ", "A) ", "1) ", "1.1 "
-        title = title.replace(/^([\d\.\u0966-\u096F]+|[A-Z]\)|[\d]+\))[\.\s]*/, '').trim();
-
-        const lowerTitle = title.toLowerCase();
-        
-        if (title.length < 3) return;
-        if (EXCLUSIONS.some(ex => lowerTitle.includes(ex))) return;
-
-        if (!topicMap[title]) {
-          topicMap[title] = [];
-        }
-        if (!topicMap[title].includes(lessonNumber)) {
-          topicMap[title].push(lessonNumber);
-        }
-      });
-    });
-
-    const sortedTopics = Object.keys(topicMap).sort((a, b) => a.localeCompare(b));
+function extractTopicsFromDir(localeDir) {
+  const topicMap = {}
+  if (!fs.existsSync(localeDir)) return topicMap
+  
+  const files = fs.readdirSync(localeDir).filter(f => /^lektion\d+\.md$/.test(f))
+  
+  for (const file of files) {
+    const lm = file.match(/^lektion(\d+)/)
+    if (!lm) continue
+    const num = parseInt(lm[1])
+    const content = fs.readFileSync(path.join(localeDir, file), 'utf-8')
+    const headings = content.match(/^#{2,3}\s+(.+)$/gm) || []
     
-    return {
-      topics: sortedTopics,
-      topicMap: topicMap
-    };
+    for (const h of headings) {
+      let title = h.replace(/^#{2,3}\s+/, '').trim()
+      title = title.replace(/^[\d\.\u0966-\u096F]+[.\s]*/, '').trim()
+      title = title.replace(/^[A-Z]\)[.\s]*/, '').trim()
+      title = title.replace(/^[\d]+\)[.\s]*/, '').trim()
+      
+      if (title.length < 3) continue
+      const lower = title.toLowerCase()
+      if (EXCLUSIONS.some(ex => lower.includes(ex))) continue
+      
+      if (!topicMap[title]) topicMap[title] = []
+      if (!topicMap[title].includes(num)) topicMap[title].push(num)
+    }
   }
-})
+  
+  return topicMap
+}
+
+// Build locale-specific topic maps at module load time
+const localeTopicMap = {}
+for (const locale of LOCALES) {
+  const localeDir = path.join(baseDir, locale ? `${locale}/` : '', 'lektionen')
+  localeTopicMap[locale] = extractTopicsFromDir(localeDir)
+}
+
+const deMap = localeTopicMap['']
+const deTopics = Object.keys(deMap).sort((a, b) => a.localeCompare(b))
+
+export const data = {
+  topics: deTopics,
+  topicMap: deMap,
+  localeTopicMap: localeTopicMap
+}
+
+// VitePress .data.* plugin expects a default export with a load() method
+export default {
+  load() {
+    return { ...data }
+  }
+}

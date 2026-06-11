@@ -16,7 +16,7 @@ export const ru = {
     nav: [
       { text: 'Главная', link: '/ru/' },
       { text: 'Содержание', link: '/ru/lektionen/inhaltsverzeichnis' },
-      { text: 'Указатель', link: '/ru/grammatik' },
+      { text: 'Указатель', link: '/ru/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Авторы', link: '/ru/impressum' }
     ],
@@ -26,7 +26,7 @@ export const ru = {
     },
     sidebar: [
       { text: 'Содержание', link: '/ru/lektionen/inhaltsverzeichnis' },
-      { text: 'Грамматические темы (Указатель)', link: '/ru/grammatik' },
+      { text: 'Грамматические темы', link: '/ru/grammatik' },
       { text: 'Словарь', link: '/ru/lektionen/wortliste' },
       { text: 'Глоссарий', link: '/ru/lektionen/glossar' },
       { text: 'Лекции', collapsed: false, items: [] },

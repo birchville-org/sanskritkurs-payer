@@ -16,7 +16,7 @@ export const hi = {
     nav: [
       { text: 'मुखपृष्ठ', link: '/hi/' },
       { text: 'विषय-सूची', link: '/hi/lektionen/inhaltsverzeichnis' },
-      { text: 'अनुक्रमणिका', link: '/hi/grammatik' },
+      { text: 'अनुक्रमणिका', link: '/hi/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'श्रेय', link: '/hi/impressum' }
     ],
@@ -26,7 +26,7 @@ export const hi = {
     },
     sidebar: [
       { text: 'विषय-सूची', link: '/hi/lektionen/inhaltsverzeichnis' },
-      { text: 'व्याकरण विषय (अनुक्रमणिका)', link: '/hi/grammatik' },
+      { text: 'व्याकरण विषय', link: '/hi/grammatik' },
       { text: 'शब्दावली', link: '/hi/lektionen/wortliste' },
       { text: 'शब्दकोश', link: '/hi/lektionen/glossar' },
       { text: 'पाठ', collapsed: false, items: [] },

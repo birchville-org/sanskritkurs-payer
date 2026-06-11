@@ -442,9 +442,11 @@
         .editor-preview h1, .editor-preview h2, .editor-preview h3 { font-family: 'Source Serif 4', serif; }
         .editor-preview p, .editor-preview li { font-size: 1.1rem; line-height: 1.55; }
 
-        /* DEVANAGARI — Hard Rule CLAUDE.md: always red */
+        /* DEVANAGARI — Hard Rule CLAUDE.md: Sanskrit always red; Hindi neutral */
         .editor-preview .sanskrit-dev { color: #b22222; font-size: 1.15em; font-weight: 600; }
         .editor-preview table .sanskrit-dev { font-size: 1.35em; }
+        .editor-preview .hi-dev { font-size: 1.15em; }
+        .editor-preview table .hi-dev { font-size: 1.35em; }
 
         /* GRAMMAR-BOX */
         .editor-preview .grammar-box { background-color: #fefce8; border-left: 5px solid #eab308;
@@ -522,6 +524,12 @@
                 <option value="ru/lektionen/lektion01">Русский (RU)</option>
                 <option value="hi/lektionen/lektion01">हिन्दी (HI)</option>
                 <option value="fr/lektionen/lektion01">Français (FR)</option>
+                <option value="es/lektionen/lektion01">Español (ES)</option>
+                <option value="la/lektionen/lektion01">Latina (LA)</option>
+                <option value="pa/lektionen/lektion01">ਪੰਜਾਬੀ (PA)</option>
+                <option value="rm/lektionen/lektion01">Rumantsch (RM)</option>
+                <option value="ro/lektionen/lektion01">Română (RO)</option>
+                <option value="ta/lektionen/lektion01">தமிழ் (TA)</option>
             </select>
         </div>
 
@@ -563,6 +571,12 @@
                 <option value="ru/lektionen/lektion01">Русский (RU)</option>
                 <option value="hi/lektionen/lektion01">हिन्दी (HI)</option>
                 <option value="fr/lektionen/lektion01">Français (FR)</option>
+                <option value="es/lektionen/lektion01">Español (ES)</option>
+                <option value="la/lektionen/lektion01">Latina (LA)</option>
+                <option value="pa/lektionen/lektion01">ਪੰਜਾਬੀ (PA)</option>
+                <option value="rm/lektionen/lektion01">Rumantsch (RM)</option>
+                <option value="ro/lektionen/lektion01">Română (RO)</option>
+                <option value="ta/lektionen/lektion01">தமிழ் (TA)</option>
             </select>
         </div>
     </div>
@@ -826,17 +840,21 @@
         }
 
         function exitQA() {
-            // Zurück zum Referrer falls vorhanden und sinnvoll
+            const num = lessonInput.value.padStart(2, '0');
+            // Bevorzuge die aktuell gewählte Sprache über den Referrer
+            function langValToPath(val) {
+                if (!val || val.includes('qa/') || !val.includes('lektion')) return null;
+                return '/' + val.replace(/lektion\d+/, 'lektion' + num);
+            }
+            const leftVal  = document.getElementById('left-lang').value;
+            const rightVal = document.getElementById('right-lang').value;
+            const leftPath  = langValToPath(leftVal);
+            const rightPath = langValToPath(rightVal);
+            // Priorität: linke Sprache → rechte Sprache → Referrer → /
+            if (leftPath) { window.location.href = leftPath; return; }
+            if (rightPath) { window.location.href = rightPath; return; }
             if (document.referrer && !document.referrer.includes('qa_viewer')) {
                 window.location.href = document.referrer;
-                return;
-            }
-            // Sonst zur aktuell gewählten Lektion navigieren
-            const leftVal = document.getElementById('left-lang').value;
-            const num = lessonInput.value.padStart(2, '0');
-            if (leftVal && leftVal !== 'qa/lektion01.html' && leftVal.includes('lektion')) {
-                const path = '/' + leftVal.replace(/lektion\d+/, 'lektion' + num);
-                window.location.href = path;
                 return;
             }
             window.location.href = '/';
@@ -894,6 +912,8 @@
             const editorInput = document.getElementById('editor-input');
             const num = lessonInput.value.padStart(2, '0');
             const leftVal = document.getElementById('left-lang').value;
+            const editorLang = leftVal.match(/^([a-z]{2})\//) ? leftVal.match(/^([a-z]{2})\//)[1] : 'de';
+            updateSyntaxLang(editorLang);
             if (!leftVal.includes('lektionen')) {
                 editorInput.value = '';
                 editorInput.placeholder = 'HTML kann nicht editiert werden.';
@@ -1494,9 +1514,12 @@
                                     span.content = '<span class="sanskrit-dev">' + part.slice(1, -1) + '</span>';
                                     newChildren.push(span);
                                 } else if (/[ऀ-ॿ]/.test(part)) {
-                                    // Bare Devanagari -- always sanskrit-dev (editor has no locale)
+                                    // Bare Devanagari -- use locale-aware class
+                                    const leftVal = (document.getElementById('left-lang') || {}).value || '';
+                                    const isHindi = /^hi\//.test(leftVal);
+                                    const devClass = isHindi ? 'hi-dev' : 'sanskrit-dev';
                                     const span = new state.Token('html_inline', '', 0);
-                                    span.content = '<span class="sanskrit-dev">' + part + '</span>';
+                                    span.content = '<span class="' + devClass + '">' + part + '</span>';
                                     newChildren.push(span);
                                 } else if (part === '[[indent]]') {
                                     // [[indent]] -- empty inline span

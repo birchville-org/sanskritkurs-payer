@@ -12,25 +12,41 @@ const langPrefix = computed(() => {
   return LOCALES.includes(first) ? `/${first}` : ''
 })
 
+const localeCode = computed(() => {
+  const first = route.path.split('/').filter(Boolean)[0]
+  return LOCALES.includes(first) ? first : ''
+})
+
+// Use locale-specific topic map
+const topicMap = computed(() => {
+  return data.localeTopicMap[localeCode.value] || data.topicMap
+})
+
+const topicList = computed(() => {
+  return Object.keys(topicMap.value).sort((a, b) => a.localeCompare(b))
+})
+
 // Group topics by their first letter
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
-const groupedTopics = alphabet.reduce((acc, letter) => {
-  const matches = data.topics.filter(t => t.toUpperCase().startsWith(letter));
-  if (matches.length > 0) {
-    acc.push({ letter, matches });
+const groupedTopics = computed(() => {
+  const groups = alphabet.reduce((acc, letter) => {
+    const matches = topicList.value.filter(t => t.toUpperCase().startsWith(letter));
+    if (matches.length > 0) {
+      acc.push({ letter, matches });
+    }
+    return acc;
+  }, []);
+
+  // Add Devanagari / Special group for everything else
+  const otherMatches = topicList.value.filter(t => {
+    const first = t.charAt(0).toUpperCase();
+    return !alphabet.includes(first);
+  });
+  if (otherMatches.length > 0) {
+    groups.push({ letter: "Saṃskṛtam", matches: otherMatches });
   }
-  return acc;
-}, []);
-
-// Add Devanagari / Special group for everything else
-const otherMatches = data.topics.filter(t => {
-  const first = t.charAt(0).toUpperCase();
-  return !alphabet.includes(first);
-});
-
-if (otherMatches.length > 0) {
-  groupedTopics.push({ letter: "Saṃskṛtam", matches: otherMatches });
-}
+  return groups;
+})
 
 function getLessonLink(num) {
   const padded = num.toString().padStart(2, '0');
@@ -52,7 +68,7 @@ function getLessonLink(num) {
         <li v-for="topic in group.matches" :key="topic" class="topic-item">
           <span class="topic-name">{{ topic }}</span>
           <div class="lesson-links">
-            <a v-for="num in data.topicMap[topic]" 
+            <a v-for="num in topicMap[topic]" 
                :key="num" 
                :href="getLessonLink(num)" 
                class="lesson-tag">

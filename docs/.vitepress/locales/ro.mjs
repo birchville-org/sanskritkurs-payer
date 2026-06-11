@@ -15,7 +15,7 @@ export const ro = {
     nav: [
       { text: 'Acasă', link: '/ro/' },
       { text: 'Cuprins', link: '/ro/lektionen/inhaltsverzeichnis' },
-      { text: 'Index', link: '/ro/grammatik' },
+      { text: 'Index', link: '/ro/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Credite', link: '/ro/impressum' }
     ],

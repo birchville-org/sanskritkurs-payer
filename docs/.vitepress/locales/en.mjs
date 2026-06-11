@@ -16,7 +16,7 @@ export const en = {
     nav: [
       { text: 'Home', link: '/en/' },
       { text: 'TOC', link: '/en/lektionen/inhaltsverzeichnis' },
-      { text: 'Index', link: '/en/grammatik' },
+      { text: 'Index', link: '/en/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Credits', link: '/en/impressum' }
     ],
@@ -26,7 +26,7 @@ export const en = {
     },
     sidebar: [
       { text: 'Table of Contents', link: '/en/lektionen/inhaltsverzeichnis' },
-      { text: 'Grammar Topics (Index)', link: '/en/grammatik' },
+      { text: 'Grammar Topics', link: '/en/grammatik' },
       { text: 'Vocabulary', link: '/en/lektionen/wortliste' },
       { text: 'Glossary', link: '/en/lektionen/glossar' },
       { text: 'Lessons', collapsed: false, items: [] },
