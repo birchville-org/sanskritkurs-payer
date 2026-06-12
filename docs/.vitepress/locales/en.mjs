@@ -16,9 +16,9 @@ export const en = {
     nav: [
       { text: 'Home', link: '/en/' },
       { text: 'TOC', link: '/en/lektionen/inhaltsverzeichnis' },
-      { text: 'Index', link: '/en/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Credits', link: '/en/impressum' }
+      { text: 'Credits', link: '/en/impressum' },
+      { text: '⚙️', link: '/en/settings', ariaLabel: 'Open Settings' }
     ],
     docFooter: {
       prev: 'Previous Lesson',
@@ -27,6 +27,7 @@ export const en = {
     sidebar: [
       { text: 'Table of Contents', link: '/en/lektionen/inhaltsverzeichnis' },
       { text: 'Grammar Topics', link: '/en/grammatik' },
+            { text: 'Grammar Index', link: '/en/themen' },
       { text: 'Vocabulary', link: '/en/lektionen/wortliste' },
       { text: 'Glossary', link: '/en/lektionen/glossar' },
       { text: 'Lessons', collapsed: false, items: [] },
@@ -34,7 +35,7 @@ export const en = {
       { text: 'Exercises', collapsed: true, items: [] },
       { text: 'Legal', collapsed: true, items: [
           { text: 'Legal Notice & Citation', link: '/en/impressum' },
-          { text: 'Image Licenses', link: '/en/licenses' }
+          { text: 'Image Licenses', link: '/en/licenses' },
       ]}
     ],
     footer: {

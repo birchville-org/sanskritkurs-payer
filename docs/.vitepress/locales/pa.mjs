@@ -10,9 +10,9 @@ export const pa = {
     nav: [
       { text: 'ਮੁੱਖ ਪੰਨਾ', link: '/pa/' },
       { text: 'ਵਿਸ਼ਾ ਸੂਚੀ', link: '/pa/lektionen/inhaltsverzeichnis' },
-      { text: 'ਵਿਆਕਰਨ ਸੂਚਕਾਂਕ', link: '/pa/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'ਯੋਗਦਾਨੀ', link: '/pa/impressum' }
+      { text: 'ਯੋਗਦਾਨੀ', link: '/pa/impressum' },
+      { text: '⚙️', link: '/pa/settings', ariaLabel: 'ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ' }
     ],
     docFooter: {
       prev: 'ਪਿਛਲਾ ਪਾਠ',
@@ -20,7 +20,8 @@ export const pa = {
     },
     sidebar: [
       { text: 'ਵਿਸ਼ਾ ਸੂਚੀ', link: '/pa/lektionen/inhaltsverzeichnis' },
-      { text: 'ਵਿਆਕਰਨ ਵਿਸ਼ੇ', link: '/pa/grammatik' },
+      { text: 'ਵਿਆਕਰਣ ਵਿਸ਼ੇ', link: '/pa/grammatik' },
+            { text: 'ਵਿਆਕਰਣ ਸੂਚਕਾਂਕ', link: '/pa/themen' },
       { text: 'ਸ਼ਬਦ ਸੂਚੀ', link: '/pa/lektionen/wortliste' },
       { text: 'ਸ਼ਬਦਕੋਸ਼', link: '/pa/lektionen/glossar' },
       { text: 'ਪਾਠ', collapsed: false, items: [] },
@@ -28,7 +29,7 @@ export const pa = {
       { text: 'ਅਭਿਆਸ', collapsed: true, items: [] },
       { text: 'ਕਾਨੂੰਨੀ', collapsed: true, items: [
           { text: 'ਕਾਨੂੰਨੀ ਸੂਚਨਾ ਅਤੇ ਹਵਾਲਾ', link: '/pa/impressum' },
-          { text: 'ਚਿੱਤਰ ਲਾਇਸੈਂਸ', link: '/pa/licenses' }
+          { text: 'ਚਿੱਤਰ ਲਾਇਸੈਂਸ', link: '/pa/licenses' },
       ]}
     ],
     footer: {

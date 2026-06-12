@@ -33,7 +33,3 @@ Dieser Text ist Teil der Abteilung Sanskrit von **Tüpfli's Global Village Libra
 **Zitierweise für die Übersetzungen:**
 > Payer, Alois: Sanskritkurs. Übersetzt mit KI-Unterstützung. Marco Demarmels (Hrsg.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### Hinweis zu den Schriftzeichen
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

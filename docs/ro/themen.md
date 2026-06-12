@@ -1,11 +1,9 @@
-
-
 ---
 aside: false
 outline: false
 ---
 
-# Registrul tematic
+# Index gramatical
 
 Registrul tematic este generat automat din titlurile tuturor lecțiilor.
 Permite accesul rapid la fenomene gramaticale specifice.

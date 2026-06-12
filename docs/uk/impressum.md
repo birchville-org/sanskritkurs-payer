@@ -33,7 +33,3 @@ title: Вихідні коди та цитування
 **Рекомендоване цитування перекладів:**
 > Payer, Alois: Sanskritkurs. Перекладено за підтримки ШІ. Марко Демармельс (ред.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### Примітка щодо знаків письма
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

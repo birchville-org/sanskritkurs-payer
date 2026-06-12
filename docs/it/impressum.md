@@ -33,7 +33,3 @@ Questo testo fa parte della sezione Sanscrito della **Biblioteca della Global Vi
 **Modo di citazione per le traduzioni:**
 > Payer, Alois: Corso di sanscrito. Tradotto con supporto di intelligenza artificiale. Marco Demarmels (a cura di), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### Nota sui caratteri
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

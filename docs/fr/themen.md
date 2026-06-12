@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Index thématique
+# Index grammatical
 
-L'index thématique est généré automatiquement à partir des titres de toutes les leçons. Il permet un accès rapide à des phénomènes grammaticaux spécifiques.
+L’index grammatical répertorie tous les sujets et phénomènes grammaticaux du cours de sanskrit et permet un accès rapide aux leçons spécifiques.
 
 <PayerTopicIndex />
 

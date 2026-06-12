@@ -744,3 +744,122 @@ html[lang="ta-IN"] .VPDocFooter {
   font-family: "Noto Sans Tamil", "Latha", "Tamil Sangam MN", sans-serif !important;
   font-size: 1.05rem !important;
 }
+
+/* PWA Install Button */
+.pwa-install-btn {
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+  z-index: 9999;
+  padding: 12px 24px;
+  background: #03192e;
+  color: #fcf9f2;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(3, 25, 46, 0.3);
+  animation: pwa-fadeIn 200ms ease-out;
+  transition: opacity 200ms, background 200ms;
+}
+
+.pwa-install-btn:hover {
+  background: #0a2a44;
+  opacity: 0.95;
+}
+
+@keyframes pwa-fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Dark Mode */
+.dark .pwa-install-btn {
+  background: #1a3a55;
+  color: #fcf9f2;
+}
+
+.dark .pwa-install-btn:hover {
+  background: #244a6a;
+}
+
+/* === PWA Progress Overlay (Plan 20-5) ===
+ * Shown during install: pre-caches active locales via service worker.
+ */
+.pwa-progress-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(3, 25, 46, 0.85);
+  backdrop-filter: blur(4px);
+  animation: pwa-fadeIn 200ms ease-out;
+}
+
+.pwa-progress-container {
+  width: 90%;
+  max-width: 440px;
+  padding: 24px 28px;
+  background: var(--vp-c-bg, #fcf9f2);
+  border-radius: 8px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  color: var(--vp-c-text-1, #03192e);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.pwa-progress-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.pwa-progress-subtitle {
+  font-size: 0.8rem;
+  font-weight: 500;
+  opacity: 0.7;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 16px;
+  min-height: 1.2em;
+}
+
+.pwa-progress-bar {
+  height: 8px;
+  background: var(--vp-c-divider, #e0dece);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+
+.pwa-progress-fill {
+  height: 100%;
+  background: #03192e;
+  border-radius: 4px;
+  transition: width 200ms ease-out;
+  width: 0%;
+}
+
+.dark .pwa-progress-fill {
+  background: #6aafe8;
+}
+
+.pwa-progress-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: var(--vp-c-text-2, #48626e);
+  font-variant-numeric: tabular-nums;
+}
+
+
+/* === Locale Visibility Filter (Plan 20-2) ===
+ * Elements matching inactive locales get .locale-hidden applied
+ * by filterSidebarByLocales() in locale-filter.js
+ */
+.locale-hidden {
+  display: none !important;
+}

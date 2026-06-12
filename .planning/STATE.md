@@ -1,15 +1,15 @@
 ---
 gsd_state_version: 1.0
-milestone: v1.3
-milestone_name: — ES-Vervollständigung, Tamil
-status: ready_to_ship
-last_updated: "2026-06-04T07:46:11.933Z"
+milestone: v1.4
+milestone_name: Offline-First PWA
+status: planning
+last_updated: "2026-06-12T07:55:00.000Z"
 progress:
-  total_phases: 13
-  completed_phases: 7
-  total_plans: 12
-  completed_plans: 18
-  percent: 46
+  total_phases: 17
+  completed_phases: 17
+  total_plans: 15
+  completed_plans: 15
+  percent: 100
 ---
 
 # Project State: Payer Sanskrit Course Migration
@@ -18,27 +18,27 @@ progress:
 
 Standardizing and migrating 61 Sanskrit lessons from legacy HTML to "Gold Standard" VitePress Markdown.
 
-## Milestone: v1.3 (Editor First)
+## Milestone: v1.4 (Offline-First PWA)
 
-### Status: Complete
+### Status: Planning
 
-- Phase 15: VitePress-aware Markdown Editor ⭐ PRIORITY — 4/4 plans ✅
-- Phase 16: I18n Completion (ES, LA, RM, TA) — sekundär — 4/4 plans ✅
-- Phase 17: Scholarly Polish (Captions, Licenses, Comparison) — sekundär — 3/3 plans ✅ (2026-06-11)
+- Phase 18: PWA Foundation & Manifest — ✅ complete (2026-06-12)
+- Phase 19: Service Worker & Offline Caching — ✅ complete (2026-06-12)
+- Phase 20: Sprachauswahl (Runtime-Filter) — ✅ complete (2026-06-12, UAT pending)
+- Phase 21: Offline QA & Polishing — pending
 
-## Previous Milestone: v1.2 (Complete)
+## Previous Milestone: v1.3 (Complete)
 
-- Phases 10-14: ✅ Complete (19/19 plans, shipped 2026-05-27)
-- ⚠ Known gaps: BG (23/61), UK (31/61), RU Übungen (0/61) — handled out-of-band via lan_translate.py
+- Phases 15-17: ✅ Complete (shipped 2026-06-11)
 
 ## Deferred Items (Backlog)
 
-- 999.12: Historical Comparison Mode → absorbed into Phase 17.3
-- 999.13: VitePress-aware Markdown Editor → promoted to Phase 15 ⭐
-- 999.14: Standardize image captions → absorbed into Phase 17.1
+- (none)
 
 ## Recent Activity
 
+- 2026-06-12: v1.3 closed, v1.4 Offline-First PWA initialized.
+- 2026-06-12: Impressum "Hinweis zu den Schriftzeichen" from all 14 locales removed.
 - 2026-06-11: Phase 17.2 complete — licenses.md audited, 44 missing license entries filled.
 - 2026-05-27: v1.2 closed, v1.3 initialized with Editor as priority focus.
 - 2026-05-27: API endpoint corrected (192.168.1.22 → nyx.local:8000).

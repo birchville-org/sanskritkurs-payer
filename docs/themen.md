@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Themen-Register
+# Grammatik Index
 
-Das Themen-Register wird automatisch aus den Überschriften aller Lektionen generiert. Es ermöglicht einen schnellen Zugriff auf spezifische grammatikalische Phänomene.
+Der Grammatik Index listet alle grammatischen Themen und Phänomene aus dem Sanskritkurs auf und ermöglicht einen schnellen Zugriff auf spezifische Lektionen.
 
 <PayerTopicIndex />
 

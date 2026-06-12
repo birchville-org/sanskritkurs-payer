@@ -6,7 +6,8 @@
 - ✅ **v1.1 Interaktion & Flexibilität** — Phasen 5-9 (shipped 2026-04-19)
 - ✅ **v1.2 Search, Index & I18n Expansion** — Phasen 10-14 (shipped 2026-05-27)
   - ⚠ Known gaps: BG (23/61), UK (31/61), RU Übungen (0/61) — handled out-of-band via lan_translate.py
-- [ ] **v1.3 Polyglot & Polish** — Phasen 15-17
+- ✅ **v1.3 Polyglot & Polish** — Phasen 15-17 (shipped 2026-06-11)
+- [ ] **v1.4 Offline-First PWA** — Phasen 18-21
 
 ## Phasen
 
@@ -103,63 +104,141 @@ Standardisierung der Metadaten und Legacy-Vergleichswerkzeug.
 
 </details>
 
+<details open>
+<summary>📋 v1.4 Offline-First PWA (Phasen 18-21)</summary>
+
+### Phase 18: PWA Foundation & Manifest
+Setup der Progressive Web App Infrastruktur: manifest.json, Icons, Meta-Tags, Install-Prompt.
+**Status:** Pending
+**Plans:** 0 plans
+
+- [x] 18-1-PLAN.md — Web App Manifest erstellen (name, icons, theme_color, start_url) + 4 PNGs generiert
+- [x] 18-2-PLAN.md — PWA Meta-Tags in config.mjs head() injizieren
+- [x] 18-3-PLAN.md — Install-Prompt UI (beforeinstallprompt Event) in theme/index.mjs + custom.css
+- **Status:** Complete (2026-06-12)
+- **Plans:** 3/3 plans complete ✅
+  - App zeigt "Installieren"-Button auf Mobile/Desktop
+  - Manifest validiert via web.dev/validate-manifest
+  - `npm run docs:build` erfolgreich
+
+### Phase 19: Service Worker & Offline Caching
+Implementierung des Service Workers mit intelligenten Cache-Strategien für Offline-Funktionalität.
+**Status:** Complete (2026-06-12)
+**Plans:** 4/4 plans complete ✅
+
+- [x] 19-1-PLAN.md — Service Worker Registration in theme/sw-register.js + theme/index.mjs
+- [x] 19-2-PLAN.md — Service Worker Lifecycle (install/activate, Cache-Versionierung)
+- [x] 19-3-PLAN.md — Cache-Strategien: NetworkFirst (HTML), CacheFirst (CSS/JS/Fonts), StaleWhileRevalidate (Bilder)
+- [x] 19-4-PLAN.md — Offline Fallback Page (offline.html) mit Auto-Reload + Design System
+- **Erfolgskriterien** ✅:
+    - App funktioniert offline nach erstem Besuch
+    - Cache-Versionierung: payer-v19-r1 Convention
+    - 3 Strategien implementiert ohne externe Dependencies
+    - offline.html als Fallback für unbekannte Dokumente
+    - Build erfolgreich (127s)
+
+### Phase 20: Sprachauswahl (Runtime-Filter) ⭐ PRIORITY
+User-seitige Sprachauswahl via Settings-Page. Server hostet alle 14 Sprachen,
+Client entscheidet welche gecacht + angezeigt werden. Kein Build/Docker-Änderung.
+**Status:** In Progress
+**Plans:** 6 plans (6/6 complete)
+
+- [x] 20-1-PLAN.md — Settings-Page UI: 14 Checkboxen mit Persistenz in localStorage ✅
+- [x] 20-2-PLAN.md — Sidebar-Filter: nur gewählte Sprachen sichtbar (JS/CSS) ✅
+- [x] 20-3-PLAN.md — Service Worker selektives Caching (nur URLs gewählter Sprachen) ✅
+- [x] 20-4-PLAN.md — Nachladen: neue Sprache in Settings → Fetch + Cache + UI-Update ✅
+- [x] 20-5-PLAN.md — Progress-Bar für Pre-Caching bei Installation (~70MB) ✅
+- [x] 20-6-PLAN.md — README.md mit PWA- + Docker-Abschnitten erweitern (2026-06-12)
+- [x] 20-UAT.md — User Acceptance Testing Checklist (14 Test Cases) bereit
+- **Erfolgskriterien**:
+  - User wählt DE+EN+IT in Settings, Sidebar zeigt nur diese 3
+  - Service Worker cacht nur URLs der gewählten Sprachen (~70MB)
+  - Neue Sprache hinzufügen = online Nachladen + Cache-Update
+  - Progress-Bar bei Erstinstallation sichtbar
+  - `npm run docs:build` erfolgreich (unverändert, Full Build)
+  - Docker-Image unverändert (Full Build, alle 14 Sprachen)
+
+### Phase 21: Offline QA & Polishing
+End-to-End-Testing der Offline-Funktionalität, Performance-Optimization, UX-Polish.
+**Status:** Pending
+**Plans:** 0 plans
+
+- [ ] 21-1-PLAN.md — Offline Testing: Chrome DevTools Offline-Mode + Lighthouse Audit
+- [ ] 21-2-PLAN.md — Performance: Assets optimieren (WebP für Bilder, minify CSS/JS)
+- [ ] 21-3-PLAN.md — UX: Offline-Indikator (Banner wenn offline), Sync-Status
+- [ ] 21-4-PLAN.md — Dokumentation: README + User-Guide für Offline-Installation
+- **Erfolgskriterien**:
+  - Lighthouse PWA: Best Practices ≥ 90, Performance ≥ 80, PWA ≥ 90
+  - E2E-Test: Online → Offline → Navigation funktioniert ohne Netzwerk
+  - User-Guide auf Deutsch + Englisch dokumentiert
+  - `npm run docs:build` erfolgreich
+
+</details>
+
+<details closed>
+<summary>📋 v1.5 QA-Authoring-Split (Phase 22 — BACKLOG)</summary>
+
+### Phase 22: QA-Modus-Split (zwei Builds, zwei Domains)
+Trennung von Public- und Authoring-Version mit dedizierten Domains und Builds.
+
+**Domains**:
+- `payer.birchville.cc` — Public (ohne QA-Tools, PWA)
+- `author.payer.birchville.cc` — Authoring (QA, Editor, deleteme-box, Authelia-Auth)
+
+**Pläne**:
+- [ ] **Plan 22.1**: `config.author.mjs` erstellen (Fork von config.mjs + QA-Feature-Flags)
+- [ ] **Plan 22.2**: QA-Komponenten conditional aktivieren (nur in config.author.mjs)
+- [ ] **Plan 22.3**: Build-Script in package.json (`docs:build:author`)
+- [ ] **Plan 22.4**: CI/CD-Workflow für author.payer.birchville.cc
+- [ ] **Plan 22.5**: Authelia-Reverse-Proxy konfigurieren (Caddy/Nginx)
+- [ ] **Plan 22.6**: Migration, Testing, Public-Bundle ohne QA-Code verifizieren
+
+**Migrierte Komponenten**:
+1. QA Viewer (`docs/public/qa_viewer.html`)
+2. Editor-Tab (Phase 15, `PayerEditorTab.vue`)
+3. deleteme-box Container (Markdown-Container für Lizenzen/TODOs)
+4. `docs/public/qa/` Verzeichnis (Legacy HTML)
+5. `markdown.lineNumbers: true` (nur in config.author.mjs)
+6. Ggf. weitere interne Tools (Debug-UI, Migration-Skripte)
+
+**Erfolgskriterien**:
+- `npm run docs:build` erzeugt Public-Bundle ohne QA-Code
+- `npm run docs:build:author` erzeugt Authoring-Bundle mit allen QA-Tools
+- `author.payer.birchville.cc` nur via Authelia-Auth erreichbar
+- Bundle-Size-Differenz messbar (Public < Authoring)
+- Beide Domains zeigen identischen Content (61 Lektionen, 14 Sprachen)
+
+**Status**: Backlog (nach v1.4)
+**Reference**: CONTEXT.md D9
+
+</details>
+
 ## Backlog
 
-### Phase 999.10: Follow-up — Phase 10 incomplete plans (BACKLOG)
+### Quality & Content Cleanup (Phase 23-Kandidaten)
 
-**Goal:** Resolve plans that ran without producing summaries during Phase 10 execution
-**Source phase:** 10
-**Deferred at:** 2026-04-26 during /gsd-next advancement
-**Plans:**
-- [x] 10-1: Infrastructure Cleanup (ran, no SUMMARY.md)
-- [x] 10-2: Search Optimization (ran, no SUMMARY.md)
-- [x] 10-3: Verification (ran, no SUMMARY.md)
+- [ ] **BG-Version ausblenden** — Bulgarische Übersetzung wegen schlechter Qualität
+  temporär aus der öffentlichen Navigation entfernen. Inhalte bleiben im Repository
+  und können über die Settings-Page explizit aktiviert werden. Betrifft:
+  - Sidebar (bg-Einträge verstecken in allen Locales)
+  - Language Switcher (bg-Option entfernen)
+  - config.mjs (bg-Locale behalten, aber nicht in Standard-Sidebar)
 
-### Phase 999.11: Follow-up — Phase 11 incomplete plans (BACKLOG)
+- [ ] **"Diese Übersicht ..."-Abschnitt entfernen** — Auf der Seite "Grammatik Themen"
+  (`grammatik.md` in allen 14 Locales) den untersten Abschnitt "Diese Übersicht..." 
+  vollständig entfernen (in allen Sprachen). Das war wohl ein Copy-Paste-Überbleibsel
+  aus dem Migration-Skript und bietet keinen didaktischen Mehrwert.
 
-**Goal:** Resolve plans that ran without producing summaries during Phase 11 execution
-**Source phase:** 11
-**Deferred at:** 2026-04-26 during /gsd-next advancement
-**Plans:**
-- [x] 11-1: Data Infrastructure (ran, no SUMMARY.md)
-- [x] 11-2: Index Page (ran, no SUMMARY.md)
-- [x] 11-3: UI Components (ran, no SUMMARY.md)
-- [x] 11-4: Integration (ran, no SUMMARY.md)
+- [ ] **Settings-Page: Nur gewählte Sprache auflisten** — Statt aller 14 Checkboxen
+  die gewählten Sprachen prominent listen. Für nicht-gewählte Sprachen einen separaten
+  Block "Weitere Sprachen verfügbar / Weitere Übersetzungen hinzufügen" mit eigenem
+  Add-Button. Vorteil: UI wirkt aufgeräumter, User sieht primär was er nutzt.
 
-### Phase 999.12: Historical Comparison Mode (Legacy vs Modern) (BACKLOG)
-
-**Goal:** Integrate a toggleable side-by-side view for comparing legacy HTML sources with modern Markdown lessons.
-**Requirements:** TBD
-**Plans:** 0 plans
-
-Plans:
-- [ ] TBD (promote with /gsd-review-backlog when ready)
-- [ ] **Global Logo Cleanup**: Remove `sanskritkurslogo.jpg` from all lesson Markdown files.
-
-### Phase 999.13: VitePress-aware Markdown Editor (BACKLOG)
-
-**Goal:** Build a QA-Viewer-style split-pane editor: left pane edits Markdown, right pane renders live preview with full VitePress-specific syntax support.
-**Implementation Options:**
-- **Option A (Web-based, preferred):** Standalone `/editor.html` page (like `qa_viewer.html`) with `<textarea>` or CodeMirror on the left; right pane uses client-side `markdown-it` + same plugins as `config.mjs` (`markdown-it-container`, `markdown-it-multimd-table`) for 1:1 preview parity. `[[br]]` substitution and CSS containers replicated client-side.
-- **Option B (VS Code):** A dedicated extension that injects our `config.mjs` logic into the native Markdown preview.
-**Notes from discussion:**
-- Simple textarea + marked.js gives basic preview but misses VitePress-specific syntax.
-- Accurate preview requires bundling the same markdown-it plugins used in `config.mjs` — feasible via CDN or small build step.
-- Separate search per pane also discussed as a QA-viewer enhancement (see Phase 999.15).
-**Requirements:** TBD
-**Plans:** 0 plans
-
-Plans:
-- [ ] TBD (promote with /gsd-review-backlog when ready)
-
-### Phase 999.14: Standardisierung aller Bildunterschriften (BACKLOG)
-
-**Goal:** Umwandlung aller Bildunterschriften in das neue minimalistische Format (Kurze Caption + Link auf zentrale Lizenzseite) unter Berücksichtigung der korrekten Markdown-Syntax (Leerzeile nach Bild).
-**Requirements:** TBD
-**Plans:** 0 plans
-
-Plans:
-- [ ] TBD (promote with /gsd-review-backlog when ready)
+- [x] **Themen-Index aus Menubar entfernen** — Link "Themen-Index" aus der Top-Nav
+  (in allen Locales `nav[]`-Config) entfernen und stattdessen in der Sidebar unter
+  "Grammatik-Themen" platzieren (als Child-Item "Grammatik Index").
+  *Erledigt 2026-06-12* — umgesetzt als "Grammatik Index" direkt unter
+  "Grammatik Themen" in allen 14 Locales Nav-Bar + Sidebar.
 
 ## Progress
 
@@ -175,14 +254,8 @@ Plans:
 | 15 | v1.3 | 4/4 | Complete | 2026-05-31 |
 | 16 | v1.3 | 4/4 | Complete | 2026-06-03 |
 | 17 | v1.3 | 3/3 | Complete | 2026-06-11 |
-
-### Phase ${NEXT}: ${DESCRIPTION} (BACKLOG)
-
-**Goal:** Develop or extend a Neovim plugin (Lua) to support the 'Winning Formula' for complex Sanskrit paradigms, including auto-alignment for || (colspan) and ^^ (rowspan) markers.
-**Requirements:** TBD
-**Plans:** 0 plans
-
-Plans:
-- [ ] Research existing table plugins (e.g., table-next.nvim) for extension points.
-- [ ] Implement grid-aware alignment logic in Lua.
-- [ ] (promote with /gsd-review-backlog when ready)
+| 18 | v1.4 | 3/3 | Complete | 2026-06-12 |
+| 19 | v1.4 | 4/4 | Complete | 2026-06-12 |
+| 20 | v1.4 | 6/6 | Complete | 2026-06-12 |
+| 21 | v1.4 | 4 | Pending | — |
+| 22 | v1.5 | 6 | Backlog | — |

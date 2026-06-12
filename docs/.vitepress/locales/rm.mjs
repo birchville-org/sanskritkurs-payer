@@ -10,9 +10,9 @@ export const rm = {
     nav: [
       { text: 'Pagina principala', link: '/rm/' },
       { text: 'Cuntegn', link: '/rm/lektionen/inhaltsverzeichnis' },
-      { text: 'Indici', link: '/rm/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Credits', link: '/rm/impressum' }
+      { text: 'Credits', link: '/rm/impressum' },
+      { text: '⚙️', link: '/rm/settings', ariaLabel: 'Avrir parameters' }
     ],
     docFooter: {
       prev: 'Lecziun precedenta',
@@ -21,6 +21,7 @@ export const rm = {
     sidebar: [
       { text: 'Cuntegn', link: '/rm/lektionen/inhaltsverzeichnis' },
       { text: 'Temas da grammatica', link: '/rm/grammatik' },
+            { text: 'Index grammatical', link: '/rm/themen' },
       { text: 'Vocabulari', link: '/rm/lektionen/wortliste' },
       { text: 'Glossari', link: '/rm/lektionen/glossar' },
       { text: 'Lecziunas', collapsed: false, items: [] },
@@ -28,7 +29,7 @@ export const rm = {
       { text: 'Exercizis', collapsed: true, items: [] },
       { text: 'Infurmaziuns giuridicas', collapsed: true, items: [
           { text: 'Impressum & citaziun', link: '/rm/impressum' },
-          { text: "Licenzas d'immagins", link: '/rm/licenses' }
+          { text: "Licenzas d'immagins", link: '/rm/licenses' },
       ]}
     ],
     footer: {

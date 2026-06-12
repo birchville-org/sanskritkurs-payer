@@ -33,7 +33,3 @@ This text is part of the Sanskrit section of **Tüpfli's Global Village Library*
 **Citation format for the translations:**
 > Payer, Alois: Sanskrit course. Translated with AI assistance. Marco Demarmels (ed.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### Note on the Script
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

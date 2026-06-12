@@ -16,9 +16,9 @@ export const uk = {
     nav: [
       { text: 'Головна', link: '/uk/' },
       { text: 'Зміст', link: '/uk/lektionen/inhaltsverzeichnis' },
-      { text: 'Покажчик', link: '/uk/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Автори', link: '/uk/impressum' }
+      { text: 'Автори', link: '/uk/impressum' },
+      { text: '⚙️', link: '/uk/settings', ariaLabel: 'Відкрити налаштування' }
     ],
     docFooter: {
       prev: 'Попередня лекція',
@@ -27,6 +27,7 @@ export const uk = {
     sidebar: [
       { text: 'Зміст', link: '/uk/lektionen/inhaltsverzeichnis' },
       { text: 'Граматичні теми', link: '/uk/grammatik' },
+            { text: 'Граматичний покажчик', link: '/uk/themen' },
       { text: 'Словник', link: '/uk/lektionen/wortliste' },
       { text: 'Глосарій', link: '/uk/lektionen/glossar' },
       { text: 'Лекції', collapsed: false, items: [] },
@@ -34,7 +35,7 @@ export const uk = {
       { text: 'Вправи', collapsed: true, items: [] },
       { text: 'Правова інформація', collapsed: true, items: [
           { text: 'Вихідні дані та цитування', link: '/uk/impressum' },
-          { text: 'Ліцензії на зображення', link: '/uk/licenses' }
+          { text: 'Ліцензії на зображення', link: '/uk/licenses' },
       ]}
     ],
     footer: {

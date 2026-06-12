@@ -33,7 +33,3 @@ title: தகவல் & மேற்கோள்
 **மொழிபெயர்ப்புகளுக்கான மேற்கோள் வடிவம்:**
 > Payer, Alois: Sanskritkurs. மொழிபெயர்க்கப்பட்டது கே.ஈ. உதவியுடன். Marco Demarmels (தொகுப்பாளர்), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### குறிப்பு: எழுத்துக்கள் பற்றி
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

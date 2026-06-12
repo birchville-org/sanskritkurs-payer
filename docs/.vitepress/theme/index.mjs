@@ -1,12 +1,16 @@
-import { h, watch } from 'vue'
+import { h, watch, onMounted } from 'vue'
 import { useRoute } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import { registerServiceWorker } from './sw-register.js'
+import { filterSidebarByLocales, setupLocaleFilter } from './locale-filter.js'
+import { setupInstallCapture } from './install-state.js'
 
 import PayerNavButton from './components/PayerNavButton.vue'
 import PayerDocFooter from './components/PayerDocFooter.vue'
 import PayerTopicIndex from './components/PayerTopicIndex.vue'
 import PayerRelatedLessons from './components/PayerRelatedLessons.vue'
 import PayerWideToggle from './components/PayerWideToggle.vue'
+import PayerLanguageSettings from './components/PayerLanguageSettings.vue'
 import './custom.css'
 
 function closeAllExcept(clickedGroup) {
@@ -98,11 +102,26 @@ export default {
   }),
   setup() {
     const route = useRoute();
+
+    // Register Service Worker (PWA support)
+    registerServiceWorker()
+
+    // Setup locale filter event listener (re-filter on "payer:locales-changed")
+    setupLocaleFilter()
+
+    // Capture PWA install prompt globally. The actual install button lives in
+    // PayerLanguageSettings.vue (Settings page only) — it reads the deferred prompt
+    // from install-state.js. This keeps install UI out of every other page.
+    onMounted(() => {
+        setupInstallCapture()
+    })
+
     if (typeof document !== 'undefined') {
         watch(() => route.path, (path) => {
              setTimeout(() => {
                  closeInactiveGroups();
                  mergeTableCells();
+                 filterSidebarByLocales();
              }, 250);
              
              // License Audit ID Migration (Move ID from <a> to <tr> for highlighting)
@@ -136,6 +155,7 @@ export default {
       app.component('PayerNavButton', PayerNavButton)
       app.component('PayerTopicIndex', PayerTopicIndex)
       app.component('PayerRelatedLessons', PayerRelatedLessons)
+      app.component('PayerLanguageSettings', PayerLanguageSettings)
       
       if (typeof window !== 'undefined') {
           // Suche: Detailansicht immer einschalten

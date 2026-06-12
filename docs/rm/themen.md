@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Registra dals temas
+# Index grammatical
 
-Il regis dals temas vegn generà automaticamain tras ils titels da tut las leziuns. El permetta in access rapid a phenomenas grammaticalas specificas.
+L’index grammatical enumerescha tut ils temas e phenomenas grammaticals dal curs da sanscrit e permetta in access rapid a lecziuns specificas.
 
 <PayerTopicIndex />
 

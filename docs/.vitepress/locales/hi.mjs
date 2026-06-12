@@ -16,9 +16,9 @@ export const hi = {
     nav: [
       { text: 'मुखपृष्ठ', link: '/hi/' },
       { text: 'विषय-सूची', link: '/hi/lektionen/inhaltsverzeichnis' },
-      { text: 'अनुक्रमणिका', link: '/hi/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'श्रेय', link: '/hi/impressum' }
+      { text: 'श्रेय', link: '/hi/impressum' },
+      { text: '⚙️', link: '/hi/settings', ariaLabel: 'सेटिंग्स खोलें' }
     ],
     docFooter: {
       prev: 'पिछला पाठ',
@@ -27,6 +27,7 @@ export const hi = {
     sidebar: [
       { text: 'विषय-सूची', link: '/hi/lektionen/inhaltsverzeichnis' },
       { text: 'व्याकरण विषय', link: '/hi/grammatik' },
+            { text: 'व्याकरण सूचकांक', link: '/hi/themen' },
       { text: 'शब्दावली', link: '/hi/lektionen/wortliste' },
       { text: 'शब्दकोश', link: '/hi/lektionen/glossar' },
       { text: 'पाठ', collapsed: false, items: [] },
@@ -34,7 +35,7 @@ export const hi = {
       { text: 'अभ्यास', collapsed: true, items: [] },
       { text: 'कानूनी', collapsed: true, items: [
           { text: 'प्रकाशन विवरण एवं उद्धरण', link: '/hi/impressum' },
-          { text: 'छवि लाइसेंस', link: '/hi/licenses' }
+          { text: 'छवि लाइसेंस', link: '/hi/licenses' },
       ]}
     ],
     footer: {

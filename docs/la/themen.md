@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Index Argumentorum
+# Index Grammaticus
 
-Index argumentorum automaticus ex capitibus omnium lectionum generatur. Qui accessum celerem ad phaenomena grammatica specifica permittit.
+Index grammaticus omnes argumenta et phaenomena grammatica cursus Sanscritici enumerat et celerem accessum ad lectiones specificas praebet.
 
 <PayerTopicIndex />
 

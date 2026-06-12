@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Índice de temas
+# Índice gramatical
 
-El índice de temas se genera automáticamente a partir de los encabezados de todas las lecciones. Permite un acceso rápido a fenómenos gramaticales específicos.
+El índice gramatical enumera todos los temas y fenómenos gramaticales del curso de sánscrito y permite un acceso rápido a lecciones específicas.
 
 <PayerTopicIndex />
 

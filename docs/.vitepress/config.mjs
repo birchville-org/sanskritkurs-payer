@@ -33,57 +33,57 @@ const multimd_table = require('markdown-it-multimd-table')
 import { getSidebarItems } from './utils.mjs'
 
 // Populate sidebars dynamically
-de.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Lektion', 'root', 10)
-de.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Schrift', 'root')
-de.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Übung', 'root', 10)
+de.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lektion', 'root', 10)
+de.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Schrift', 'root')
+de.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Übung', 'root', 10)
 
-en.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Lesson', 'en', 10)
-en.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Script', 'en')
-en.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Exercise', 'en', 10)
+en.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'en', 10)
+en.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'en')
+en.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'en', 10)
 
-it.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Lezione', 'it', 10)
-it.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Scrittura', 'it')
-it.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Esercizio', 'it', 10)
+it.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lezione', 'it', 10)
+it.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Scrittura', 'it')
+it.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Esercizio', 'it', 10)
 
-es.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Lección', 'es', 10)
-es.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Escritura', 'es')
-es.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Ejercicio', 'es', 10)
+es.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lección', 'es', 10)
+es.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Escritura', 'es')
+es.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Ejercicio', 'es', 10)
 
-ta.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'பாடம்', 'ta', 10)
-ta.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'எழுத்து', 'ta')
-ta.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'பயிற்சி', 'ta', 10)
+ta.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'பாடம்', 'ta', 10)
+ta.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'எழுத்து', 'ta')
+ta.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'பயிற்சி', 'ta', 10)
 
-pa.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'ਪਾਠ', 'pa', 10)
-pa.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'ਲਿਪੀ', 'pa')
-pa.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'ਅਭਿਆਸ', 'pa', 10)
+pa.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'ਪਾਠ', 'pa', 10)
+pa.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'ਲਿਪੀ', 'pa')
+pa.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'ਅਭਿਆਸ', 'pa', 10)
 
-bg.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Урок', 'bg', 10)
-bg.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Писмо', 'bg')
-bg.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Упражнение', 'bg', 10)
+bg.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Урок', 'bg', 10)
+bg.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Писмо', 'bg')
+bg.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Упражнение', 'bg', 10)
 
-ru.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Лекция', 'ru', 10)
-ru.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Письмо', 'ru')
-ru.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Упражнение', 'ru', 10)
+ru.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Лекция', 'ru', 10)
+ru.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Письмо', 'ru')
+ru.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Упражнение', 'ru', 10)
 
-uk.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Лекція', 'uk', 10)
-uk.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Письмо', 'uk')
-uk.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Вправа', 'uk', 10)
+uk.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Лекція', 'uk', 10)
+uk.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Письмо', 'uk')
+uk.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Вправа', 'uk', 10)
 
-hi.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'पाठ', 'hi', 10)
-hi.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'लिपि', 'hi')
-hi.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'अभ्यास', 'hi', 10)
+hi.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'पाठ', 'hi', 10)
+hi.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'लिपि', 'hi')
+hi.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'अभ्यास', 'hi', 10)
 
-fr.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Leçon', 'fr', 10)
-fr.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Écriture', 'fr')
-fr.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Exercice', 'fr', 10)
+fr.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Leçon', 'fr', 10)
+fr.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Écriture', 'fr')
+fr.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercice', 'fr', 10)
 
-rm.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Lecziun', 'rm', 10)
-rm.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Scrittira', 'rm')
-rm.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Exercizi', 'rm', 10)
+rm.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lecziun', 'rm', 10)
+rm.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Scrittira', 'rm')
+rm.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercizi', 'rm', 10)
 
-ro.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Lecție', 'ro', 10)
-ro.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Scriere', 'ro')
-ro.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Exercițiu', 'ro', 10)
+ro.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lecție', 'ro', 10)
+ro.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Scriere', 'ro')
+ro.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercițiu', 'ro', 10)
 // ta.themeConfig.sidebar[6].items = getSidebarItems('lektion', 'பாடம்', 'ta', 10)
 // ta.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'எழுத்து', 'ta')
 // ta.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'பயிற்சி', 'ta', 10)
@@ -125,6 +125,18 @@ export default defineConfig({
   base: '/',
   ignoreDeadLinks: true,
   cleanUrls: true,
+
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico', sizes: 'any' }],
+    ['link', { rel: 'icon', href: '/favicon.png', type: 'image/png' }],
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ['meta', { name: 'theme-color', content: '#03192e' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }],
+    ['meta', { name: 'apple-mobile-web-app-title', content: 'Sanskritkurs' }],
+    ['link', { rel: 'apple-touch-icon', href: '/pwa-icons/icon-192.png' }],
+    ['meta', { name: 'mobile-web-app-capable', content: 'yes' }],
+  ],
 
   locales: {
     // ── v1.2 languages ──────────────────────────────────────────────────────────

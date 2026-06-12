@@ -33,7 +33,3 @@ title: Impressum और उद्धरण
 **अनुवादों के लिए उद्धरण शैली:**
 > पायर, एलोइस: संस्कृत पाठ्यक्रम। एआई सहायता के साथ अनुवादित। मार्को देमार्मेल (संपादक), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### लिपि चिह्न संबंधी संकेत
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

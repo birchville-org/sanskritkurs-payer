@@ -10,9 +10,9 @@ export const es = {
     nav: [
       { text: 'Inicio', link: '/es/' },
       { text: 'Contenido', link: '/es/lektionen/inhaltsverzeichnis' },
-      { text: 'Índice', link: '/es/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Créditos', link: '/es/impressum' }
+      { text: 'Créditos', link: '/es/impressum' },
+      { text: '⚙️', link: '/es/settings', ariaLabel: 'Abrir configuración' }
     ],
     docFooter: {
       prev: 'Lección anterior',
@@ -20,7 +20,8 @@ export const es = {
     },
     sidebar: [
       { text: 'Tabla de contenidos', link: '/es/lektionen/inhaltsverzeichnis' },
-      { text: 'Índice gramatical', link: '/es/grammatik' },
+      { text: 'Temas de gramática', link: '/es/grammatik' },
+            { text: 'Índice gramatical', link: '/es/themen' },
       { text: 'Vocabulario', link: '/es/lektionen/wortliste' },
       { text: 'Glosario', link: '/es/lektionen/glossar' },
       { text: 'Lecciones', collapsed: false, items: [] },
@@ -28,7 +29,7 @@ export const es = {
       { text: 'Ejercicios', collapsed: true, items: [] },
       { text: 'Legal', collapsed: true, items: [
           { text: 'Aviso legal y citación', link: '/es/impressum' },
-          { text: 'Licencias de imágenes', link: '/es/licenses' }
+          { text: 'Licencias de imágenes', link: '/es/licenses' },
       ]}
     ],
     footer: {

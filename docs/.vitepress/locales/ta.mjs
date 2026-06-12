@@ -10,9 +10,9 @@ export const ta = {
     nav: [
       { text: 'முகப்பு', link: '/ta/' },
       { text: 'உள்ளடக்கம்', link: '/ta/lektionen/inhaltsverzeichnis' },
-      { text: 'அகரவரிசை', link: '/ta/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'பங்களிப்பாளர்கள்', link: '/ta/impressum' }
+      { text: 'பங்களிப்பாளர்கள்', link: '/ta/impressum' },
+      { text: '⚙️', link: '/ta/settings', ariaLabel: 'அமைப்புகளைத் திற' }
     ],
     docFooter: {
       prev: 'முந்தைய பாடம்',
@@ -21,6 +21,7 @@ export const ta = {
     sidebar: [
       { text: 'உள்ளடக்கம்', link: '/ta/lektionen/inhaltsverzeichnis' },
       { text: 'இலக்கண தலைப்புகள்', link: '/ta/grammatik' },
+            { text: 'இலக்கண அட்டவணை', link: '/ta/themen' },
       { text: 'சொற்களஞ்சியம்', link: '/ta/lektionen/wortliste' },
       { text: 'சொல்லகராதி', link: '/ta/lektionen/glossar' },
       { text: 'பாடங்கள்', collapsed: false, items: [] },
@@ -28,7 +29,7 @@ export const ta = {
       { text: 'பயிற்சிகள்', collapsed: true, items: [] },
       { text: 'சட்ட தகவல்', collapsed: true, items: [
           { text: 'சட்ட அறிவிப்பு & மேற்கோள்', link: '/ta/impressum' },
-          { text: 'படப் உரிமங்கள்', link: '/ta/licenses' }
+          { text: 'படப் உரிமங்கள்', link: '/ta/licenses' },
       ]}
     ],
     footer: {

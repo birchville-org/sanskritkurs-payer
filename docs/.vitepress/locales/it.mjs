@@ -16,9 +16,9 @@ export const it = {
     nav: [
       { text: 'Home', link: '/it/' },
       { text: 'Sommario', link: '/it/lektionen/inhaltsverzeichnis' },
-      { text: 'Indice', link: '/it/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Crediti', link: '/it/impressum' }
+      { text: 'Crediti', link: '/it/impressum' },
+      { text: '⚙️', link: '/it/settings', ariaLabel: 'Apri Impostazioni' }
     ],
     docFooter: {
       prev: 'Lezione precedente',
@@ -26,7 +26,8 @@ export const it = {
     },
     sidebar: [
       { text: 'Sommario', link: '/it/lektionen/inhaltsverzeichnis' },
-      { text: 'Indice Grammaticale', link: '/it/grammatik' },
+      { text: 'Argomenti di grammatica', link: '/it/grammatik' },
+            { text: 'Indice grammaticale', link: '/it/themen' },
       { text: 'Vocabolario', link: '/it/lektionen/wortliste' },
       { text: 'Glossario', link: '/it/lektionen/glossar' },
       { text: 'Lezioni', collapsed: false, items: [] },
@@ -34,7 +35,7 @@ export const it = {
       { text: 'Esercizi', collapsed: true, items: [] },
       { text: 'Note legali', collapsed: true, items: [
           { text: 'Crediti e citazione', link: '/it/impressum' },
-          { text: 'Licenze immagini', link: '/it/licenses' }
+          { text: 'Licenze immagini', link: '/it/licenses' },
       ]}
     ],
     footer: {

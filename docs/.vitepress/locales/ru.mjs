@@ -16,9 +16,9 @@ export const ru = {
     nav: [
       { text: 'Главная', link: '/ru/' },
       { text: 'Содержание', link: '/ru/lektionen/inhaltsverzeichnis' },
-      { text: 'Указатель', link: '/ru/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Авторы', link: '/ru/impressum' }
+      { text: 'Авторы', link: '/ru/impressum' },
+      { text: '⚙️', link: '/ru/settings', ariaLabel: 'Открыть настройки' }
     ],
     docFooter: {
       prev: 'Предыдущая лекция',
@@ -27,6 +27,7 @@ export const ru = {
     sidebar: [
       { text: 'Содержание', link: '/ru/lektionen/inhaltsverzeichnis' },
       { text: 'Грамматические темы', link: '/ru/grammatik' },
+            { text: 'Грамматический указатель', link: '/ru/themen' },
       { text: 'Словарь', link: '/ru/lektionen/wortliste' },
       { text: 'Глоссарий', link: '/ru/lektionen/glossar' },
       { text: 'Лекции', collapsed: false, items: [] },
@@ -34,7 +35,7 @@ export const ru = {
       { text: 'Упражнения', collapsed: true, items: [] },
       { text: 'Правовая информация', collapsed: true, items: [
           { text: 'Выходные данные и цитирование', link: '/ru/impressum' },
-          { text: 'Лицензии на изображения', link: '/ru/licenses' }
+          { text: 'Лицензии на изображения', link: '/ru/licenses' },
       ]}
     ],
     footer: {

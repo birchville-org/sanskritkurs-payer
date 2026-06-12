@@ -10,9 +10,9 @@ export const la = {
     nav: [
       { text: 'Principium', link: '/la/' },
       { text: 'Index rerum', link: '/la/lektionen/inhaltsverzeichnis' },
-      { text: 'Grammatica', link: '/la/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Laudes', link: '/la/impressum' }
+      { text: 'Laudes', link: '/la/impressum' },
+      { text: '⚙️', link: '/la/settings', ariaLabel: 'Aperi Configurationes' }
     ],
     docFooter: {
       prev: 'Lectio prior',
@@ -28,7 +28,7 @@ export const la = {
       { text: 'Exercitationes', collapsed: true, items: [] },
       { text: 'Notitiae iuridicae', collapsed: true, items: [
           { text: 'Laudes et citatio', link: '/la/impressum' },
-          { text: 'Licentiae imaginum', link: '/la/licenses' }
+          { text: 'Licentiae imaginum', link: '/la/licenses' },
       ]}
     ],
     footer: {

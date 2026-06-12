@@ -33,7 +33,3 @@ Acest text face parte din secțiunea Sanscrită a **Bibliotecii Global Village a
 **Modul de citare pentru traduceri:**
 > Payer, Alois: Curs de sanscrită. Tradus cu suport de inteligență artificială. Marco Demarmels (ed.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### Notă privind caracterele de scriere
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

@@ -33,7 +33,3 @@ Ce texte fait partie du département Sanskrit de **Bibliothèque Village Mondial
 **Mode de citation des traductions :**
 > Payer, Alois : Cours de sanskrit. Traduit avec l'assistance de l'IA. Marco Demarmels (dir.), 2026. URL : https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### Remarque sur les caractères d'écriture
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

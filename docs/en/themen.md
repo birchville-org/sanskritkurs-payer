@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Topic Index
+# Grammar Index
 
-The topic index is automatically generated from the headings of all lessons. It enables quick access to specific grammatical phenomena.
+The Grammar Index lists all grammatical topics and phenomena of the Sanskrit course and enables quick access to specific lessons.
 
 <PayerTopicIndex />
 

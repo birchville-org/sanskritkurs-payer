@@ -33,7 +33,3 @@ title: Правна информация и цитиране
 **Начин на цитиране на преводите:**
 > Payer, Alois: Sanskritkurs. Преведено с помощта на KI. Marco Demarmels (редактор), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### Бележка относно знаците
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

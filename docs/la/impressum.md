@@ -33,7 +33,3 @@ Hic textus pars est sectionis Sanscriticae **Bibliothecae Village Globalis Tüpf
 **Modus citationis pro translationibus:**
 > Payer, Alois: Cursus Sanscriti. Versus cum adiutorio IA. Marco Demarmels (ed.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### Nota de characteribus scribendis
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

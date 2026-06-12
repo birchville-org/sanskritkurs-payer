@@ -33,7 +33,3 @@ Este texto es parte de la sección de sánscrito de **La Biblioteca de la Aldea 
 **Forma de citar las traducciones:**
 > Payer, Alois: Curso de sánscrito. Traducido con apoyo de IA. Marco Demarmels (ed.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### Nota sobre los caracteres de escritura
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

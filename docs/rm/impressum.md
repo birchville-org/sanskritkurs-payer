@@ -33,7 +33,3 @@ Quest text fa part da la departament Sanskrit da **Tüpfli's Global Village Libr
 **Moda da citar las traduziuns:**
 > Payer, Alois: Sanskritkurs. Tradusì cun agid da IA. Marco Demarmels (ed.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### Nota davart las scrittiras
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

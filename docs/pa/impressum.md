@@ -33,7 +33,3 @@ title: ਪ੍ਰਕਾਸ਼ਕ ਦਾ ਨੋਟ ਅਤੇ ਹਵਾਲਾ ਦ�
 **ਅਨੁਵਾਦਾਂ ਲਈ ਹਵਾਲੇ ਦਾ ਤਰੀਕਾ:**
 > Payer, Alois: Sanskritkurs. KI-Unterstütਤ ਨਾਲ ਅਨੁਵਾਦਿਤ। Marco Demarmels (ਸੰਪਾਦਕ), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
----
-
-### लिपि चिह्न संबंधी संकेत
-Falls Sie die diakritischen Zeichen nicht dargestellt bekommen, installieren Sie eine Schrift mit Diakritika. Die Devanāgarī-Zeichen sind in Unicode kodiert.

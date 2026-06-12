@@ -16,9 +16,9 @@ export const bg = {
     nav: [
       { text: 'Начало', link: '/bg/' },
       { text: 'Съдържание', link: '/bg/lektionen/inhaltsverzeichnis' },
-      { text: 'Индекс', link: '/bg/themen' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Кредити', link: '/bg/impressum' }
+      { text: 'Кредити', link: '/bg/impressum' },
+      { text: '⚙️', link: '/bg/settings', ariaLabel: 'Отвори настройки' }
     ],
     docFooter: {
       prev: 'Предишен урок',
@@ -26,7 +26,8 @@ export const bg = {
     },
     sidebar: [
       { text: 'Съдържание', link: '/bg/lektionen/inhaltsverzeichnis' },
-      { text: 'Граматични теми', link: '/bg/grammatik' },
+      { text: 'Граматически теми', link: '/bg/grammatik' },
+            { text: 'Граматически индекс', link: '/bg/themen' },
       { text: 'Речник', link: '/bg/lektionen/wortliste' },
       { text: 'Речник', link: '/bg/lektionen/glossar' },
       { text: 'Уроци', collapsed: false, items: [] },
@@ -34,7 +35,7 @@ export const bg = {
       { text: 'Упражнения', collapsed: true, items: [] },
       { text: 'Правни въпроси', collapsed: true, items: [
           { text: 'Импресуум и цитиране', link: '/bg/impressum' },
-          { text: 'Лицензи на изображенията', link: '/bg/licenses' }
+          { text: 'Лицензи на изображенията', link: '/bg/licenses' },
       ]}
     ],
     footer: {

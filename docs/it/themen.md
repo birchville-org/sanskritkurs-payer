@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Registro dei Temi
+# Indice grammaticale
 
-Il Registro dei Temi viene generato automaticamente dagli titoli di tutte le lezioni. Consente un accesso rapido a specifici fenomeni grammaticali.
+L’Indice grammaticale elenca tutti gli argomenti e fenomeni grammaticali del corso di sanscrito e consente un rapido accesso alle lezioni specifiche.
 
 <PayerTopicIndex />
 
