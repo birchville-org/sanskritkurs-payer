@@ -8,7 +8,6 @@ on:
       - 'docs/**'
       - 'package*.json'
       - 'Dockerfile'
-      - '.github/workflows/deploy.yml'
 
 env:
   REGISTRY: ghcr.io
