@@ -260,7 +260,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt1003.jpg)
+![](/images/lekt1003.webp)
 சுருக்கம்: वरुणः
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt1003))
 :::

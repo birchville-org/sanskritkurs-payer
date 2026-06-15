@@ -17,7 +17,7 @@ Adoraziun dal Gaṇeśa
 :::
 
 ::: media
-![](/images/lekt0102.jpg)
+![](/images/lekt0102.webp)
 Abb.: Gaṇeśa, Adamspeak, Sri Lanka
 (Fontana da l’imagine: [Detagl](/rm/licenses#lekt0102))
 :::
@@ -48,7 +48,7 @@ maṅgalacaraṇam
 :::
 
 ::: media
-![](/images/lekt0101.jpg)
+![](/images/lekt0101.webp)
 Abb.: Ardhanarīśvara
 (Fontana da l’imagine: [Detagl](/rm/licenses#lekt0101))
 :::
@@ -86,7 +86,7 @@ A l’entschatta in curiosum:
 ## 1.1. Literatira per principiantas en studis indians
 
 ::: media
-![](/images/lekt0103.jpg)
+![](/images/lekt0103.webp)
 Abb.: Titul da la coperta d’ina ediziun da tschertgira
 (Fontana da l’imma: [Detagls](/rm/licenses#lekt0103))
 :::
@@ -94,7 +94,7 @@ Abb.: Titul da la coperta d’ina ediziun da tschertgira
 > **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Part: Ina survista da la cultura dal subcontinent indian avant l’arrivada dals Muslims. -- London : Sidgwick & Jackson, 1954. -- Dapi alura diversas ediziuns, er ediziuns da tschertgira. -- **Lectura obligatira**. Ina buna survista davart la vita, la istorgia e la cultura en l’India avant l’Islam. Survista generala davart las differentas sferas da la classica indologia.
 
 ::: media
-![](/images/lekt0104.jpg)
+![](/images/lekt0104.webp)
 Abb.: Pagina da titel
 (Fontana da l’imma: [Detagls](/rm/licenses#lekt0104))
 :::
@@ -104,7 +104,7 @@ Abb.: Pagina da titel
 > **Kielhorn**, Franz &lt;1840-1908&gt;: Grammatik der Sanskrit-Sprache / Translatà dal englais da W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 paginas. -- Titul original: A grammar of the Sanscrit language
 
 ::: media
-![](/images/lekt0105.jpg)
+![](/images/lekt0105.webp)
 Abb.: Titul da la coperta
 (Fontana da l’imma: [Detagls](/rm/licenses#lekt0105))
 :::
@@ -140,7 +140,7 @@ Per curiosus per consultar:
 Ils sons dal sanscrit tenor la classificaziun indiana tradiziunala ed lur transliteraziun scientifica.
 
 ::: media
-![](/images/lekt0106.jpg)
+![](/images/lekt0106.webp)
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt0106))
 :::
 

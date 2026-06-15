@@ -20,9 +20,9 @@ Abkürzungszeichen (z.B. in Angaben von Werken) ist °, z.B. पा° = pā(ṇi
 
 ### Ulteriurs vocalas en posiziun iniciala
 
-![](/images/schrift018.jpg)
+![](/images/schrift018.webp)
 
-![](/images/schrift019.jpg)
+![](/images/schrift019.webp)
 
 Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
 

@@ -103,7 +103,7 @@ status: ਸਥਿਰ
 ::::
 
 ::: media
-![](/images/lekt4501.jpg)
+![](/images/lekt4501.webp)
 ਚਿੱਤਰ: भवति किं करोषि
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4501))
 :::

@@ -71,7 +71,7 @@ Exemples :
 अध्यापन n. : Enseignement, instruction
 
 ::: media
-![](/images/lekt1602.jpg)
+![](/images/lekt1602.webp)
 Fig. : अध्यापनम्
 « Il s’agit d’une cérémonie spéciale dans un petit temple de Satara (सातारा). Elle est accomplie par les étudiants de la Swami Muktananda Vedashala à l’occasion de la célébration de Mahāśivarātri. Il s’agit d’une école védique où les enfants apprennent par cœur les textes sacrés appelés les Védas. Cette école enseigne le Krishna Yajurveda et certaines parties du Samaveda. Je rédige mon mémoire de master sur cette école. »
 (Source de l’image : [Détails](/fr/licenses#lekt1602))
@@ -108,7 +108,7 @@ dont :
 योग m. : Attelage, connexion, union, acquisition ; Yoga
 
 ::: media
-![](/images/lekt1601.jpg)
+![](/images/lekt1601.webp)
 Fig. : योगी
 Temple Birla, Delhi
 (Source de l’image : [Détails](/fr/licenses#lekt1601))
@@ -144,7 +144,7 @@ A) Transformez les expressions suivantes en Tatpuruṣa et traduisez-les :
 ४. पशुमन्तो जनाः ।
 
 ::: media
-![](/images/lekt1604.jpg)
+![](/images/lekt1604.webp)
 Fig. : पशुमन्तो जनाः
 हरियाणा / ਹਰਿਆਣਾ
 (Source de l'image : [Détails](/fr/licenses#lekt1604))

@@ -50,7 +50,7 @@ Vor einem zu strengen Regiment (daṇḍa) müssen die Wesen schaudern. Ein lasc
 :::
 
 ::: media
-![](/images/uebung046.jpg)
+![](/images/uebung046.webp)
 Abb.: चतुर्वर्णाश्रमो लोको
 (Bildquelle: [Details](/licenses#uebung046))
 :::

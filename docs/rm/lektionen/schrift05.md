@@ -2,7 +2,7 @@
 
 ## Esergizi da scritura 5
 
-![](/images/schrift008.jpg)
+![](/images/schrift008.webp)
 
 ## Esercitaziun
 

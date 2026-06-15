@@ -141,7 +141,7 @@ Le forme त्वा, ते, वस् non possono essere utilizzate all'inizi
 आपण m.: mercato
 
 ::: media
-![](/images/lekt4302.jpg)
+![](/images/lekt4302.webp)
 Fig.: आपणः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4302))
 :::
@@ -151,7 +151,7 @@ Fig.: आपणः
 पण्य 3: vendibile; n.: merce, commercio
 
 ::: media
-![]/images/lekt4303.jpg
+![]/images/lekt4303.webp
 Fig.: पण्यानि
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4303))
 :::
@@ -174,7 +174,7 @@ Fig.: पण्यानि
 विपणि f.: negozio
 
 ::: media
-![](/images/lekt4304.jpg)
+![](/images/lekt4304.webp)
 Fig.: विपणिः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4304))
 :::
@@ -182,7 +182,7 @@ Fig.: विपणिः
 वणिज् m.: mercante
 
 ::: media
-![](/images/lekt4305.jpg)
+![](/images/lekt4305.webp)
 Fig.: वणिक्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4305))
 :::
@@ -194,7 +194,7 @@ Fig.: वणिक्
 वत्स m.: vitello, cucciolo, figlio ; Voc.: mio caro
 
 ::: media
-![](/images/lekt4306.jpg)
+![](/images/lekt4306.webp)
 Fig.: वत्सः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4306))
 :::
@@ -216,7 +216,7 @@ Fig.: वत्सः
 तर्हि 10 तुल् तुलयति । : pesare
 
 ::: media
-![](/images/lekt4307.jpg)
+![](/images/lekt4307.webp)
 Fig.: तोलयति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4307))
 :::
@@ -339,7 +339,7 @@ B) Tradurre in Sanscrito:
 10\. Come ti salvi (superi) davanti al nemico?
 
 ::: media
-![](/images/lekt4308.jpg)
+![](/images/lekt4308.webp)
 Fig.: कदा पूराववर्तथाः ।
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4308))
 :::
@@ -375,7 +375,7 @@ Fig.: कदा पूराववर्तथाः ।
 | (Dopo: Saral Sanskrit Shikshak III, pag. 4f.) | |
 
 ::: media
-![](/images/lekt4309.jpg)
+![](/images/lekt4309.webp)
 Fig.: शर्करा
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4309))
 :::

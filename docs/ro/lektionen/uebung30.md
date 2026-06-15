@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 Să se spună adevăruri plăcute, să nu se spună adevăruri neplăcute; să nu se spună minciuni plăcute, acesta este legea veșnică.
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 Fig.: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (Sursa imaginii: [Detalii](/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Determinați și traduceți următoarele forme de cuvânt:
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 Fig.: भक्त्याः
 (Sursa imaginii: [Detalii](/licenses#uebung047))
 :::

@@ -213,11 +213,11 @@ Beispiel: विदुषी "eine Wissende"
 Paradigmen siehe Kielhorn, Grammatik § 124:
 
 ::: media
-![](/images/lekt6001.jpg)
+![](/images/lekt6001.webp)
 (Bildquelle: [Details](/licenses#lekt6001))
 :::
 ::: media
-![](/images/lekt6002.jpg)
+![](/images/lekt6002.webp)
 (Bildquelle: [Details](/licenses#lekt6002))
 :::
 ## 60.5. Deklination der Stämme auf -añc (-ac)
@@ -252,11 +252,11 @@ Beispiel: प्रतीची
 ####  Paradigmen siehe Kielhorn, Grammatik § 128:
 
 ::: media
-![](/images/lekt6003.jpg)
+![](/images/lekt6003.webp)
 (Bildquelle: [Details](/licenses#lekt6003))
 :::
 ::: media
-![](/images/lekt6004.jpg)
+![](/images/lekt6004.webp)
 (Bildquelle: [Details](/licenses#lekt6004))
 :::
 Hierher gehören:
@@ -402,7 +402,7 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
 Liste bei Kielhorn, Grammatik § 452:
 
 ::: media
-![](/images/lekt6006.jpg)
+![](/images/lekt6006.webp)
 (Bildquelle: [Details](/licenses#lekt6006))
 :::
 ### 60.6.2. Konjugation des Desiderativs (सन्)
@@ -447,15 +447,15 @@ Zur Bildung von Nomina agentis auf -u aus dem Desiderativstamm siehe [Lektion 54
 A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmäßigen Desiderativbildungen zu bisher gelernten Verben:
 
 ::: media
-![](/images/lekt6007.jpg)
+![](/images/lekt6007.webp)
 (Bildquelle: [Details](/licenses#lekt6007))
 :::
 ::: media
-![](/images/lekt6008.jpg)
+![](/images/lekt6008.webp)
 (Bildquelle: [Details](/licenses#lekt6008))
 :::
 ::: media
-![](/images/lekt6009.jpg)
+![](/images/lekt6009.webp)
 (Bildquelle: [Details](/licenses#lekt6009))
 :::
 B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:

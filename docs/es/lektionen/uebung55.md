@@ -49,7 +49,7 @@ Determine y traduzca las siguientes formas y forme las correspondientes formas d
 :::
 
 ::: media
-![](/images/uebung092.jpg)
+![](/images/uebung092.webp)
 Fig.: अशोभथाः । अशुभः
 (Fuente de la imagen: [Detalles](/licenses#uebung092))
 :::

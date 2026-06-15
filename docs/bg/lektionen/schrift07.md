@@ -2,7 +2,7 @@
 
 ## Практическо упражнение 7
 
-![](/images/schrift012.jpg)
+![](/images/schrift012.webp)
 
 Примери за r пред съгласна:
 
@@ -45,7 +45,7 @@ r след съгласна: /
 
 За писането:
 
-![](/images/schrift014.jpg)
+![](/images/schrift014.webp)
 
 ## Упражнение
 

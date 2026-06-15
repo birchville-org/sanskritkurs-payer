@@ -47,7 +47,7 @@ In naschì duas giadas è in um, che è stà initià dal maister en il Veda.
 Quel che ha vitgì l'ira, odia in inimis, er sche quest el occida. Quel che è vitgì da l'ira, odia.
 
 ::: media
-![](/images/uebung033.jpg)
+![](/images/uebung033.webp)
 Abb.: हतान्धकारा दीपाः
 (Bildquelle: [Detagls](/licenses#uebung033))
 :::

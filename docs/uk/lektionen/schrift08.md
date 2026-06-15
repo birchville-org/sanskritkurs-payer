@@ -2,7 +2,7 @@
 
 Голосові знаки для початку слова, якщо слово не з’єднане в написанні з попереднім словом:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 Початкове -a, яке згідно з правилами сандхі речення елідується (-as + a- » -o '), позначається так званим авараґгага:
 

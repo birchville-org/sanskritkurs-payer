@@ -2,7 +2,7 @@
 
 Semne vocale pentru începutul de cuvânt, în cazul în care cuvântul nu este scris legat de un cuvânt anterior:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@ Exemple:
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 -vocala inițială, care conform regulilor de Sandhi ale propoziției este elidată (-as + a- » -o ' ), este indicată de ceea ce se numește Avagraha:
 

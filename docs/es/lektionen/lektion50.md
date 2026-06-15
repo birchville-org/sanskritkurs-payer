@@ -16,7 +16,7 @@ last_reconstructed: 2026-05-21
 :::
 
 ::: media
-![](/images/lekt5007.jpg)
+![](/images/lekt5007.webp)
 Fig.: लोकस्योत्तमो गिरिः
 Ilustr.: सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Monte Everest
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5007))
@@ -82,7 +82,7 @@ p. ej. सुतराम् (a partir de सु) "de mejor manera" (adverbial)
 ::::
 
 ::: media
-![](/images/lekt5006.jpg)
+![](/images/lekt5006.webp)
 Fig.: का पचतितमाम्
 Lisu = 傈僳族, अरुणचल प्रदेश
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5006))
@@ -186,14 +186,14 @@ Declinación como यद् (excepción: Nom.Akk.sg.Neutrum)
 कल्याण 3 (f.: कल्याणी): hermoso
 
 ::: media
-![](/images/lekt5003.jpg)
+![](/images/lekt5003.webp)
 Fig.: कल्याणी
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5003))
 :::
 कु- : como prefijo en compuestos: malo
 
 ::: media
-![](/images/lekt5004.jpg)
+![](/images/lekt5004.webp)
 Fig.: कुनगरम्
 धारावी, मुंबई
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5004))
@@ -221,7 +221,7 @@ A) Para repasar la declinación: el siguiente verso contiene todas las formas de
 :::
 
 ::: media
-![](/images/lekt5008.jpg)
+![](/images/lekt5008.webp)
 Fig.: गुरुमेव भजे
 Ganeshpuri, a 80 km de Mumbai (मुंबई)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5008))

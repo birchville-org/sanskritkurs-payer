@@ -175,7 +175,7 @@ Nelle formazioni *aniṭ* si devono osservare le seguenti leggi della combinazio
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : risvegliarsi, risvegliarsi alla conoscenza, riconoscere; PPP **buddha** 3 risvegliato, quindi **Buddha** = "il Risvegliato" (non: il Risvegliato)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 Fig.: गौतमो बुद्धः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1201))
 :::
@@ -186,7 +186,7 @@ Fig.: गौतमो बुद्धः
 - **mārga** m. मार्ग : via (i percorsi erano spesso i sentieri delle bestie)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 Fig.: मार्गः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1202))
 :::
@@ -205,7 +205,7 @@ Per la formazione delle parole:
 - **budh**: **bodhi** m./f. बोधि : il risveglio (attraverso il quale un Buddha o un Jina giunge alla comprensione salvifica)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 Fig.: महावीरो जिनः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1203))
 :::

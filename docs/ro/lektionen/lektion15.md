@@ -66,7 +66,7 @@ Nom. pl. गुणवत्पुत्राः
 इष्टदेवता = इष्टा देवता = "zeitatea dorită = zeitatea față de care există o relație specială de devoțiune și refugiu"
 
 ::: media
-![](/images/lekt1501.jpg)
+![](/images/lekt1501.webp)
 Fig.: लक्ष्मी
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1501))
 :::
@@ -89,7 +89,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 :::
     
 ::: media
-![](/images/lekt1503.jpg)
+![](/images/lekt1503.webp)
 Fig.: नरसिंहः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1503))
 :::
@@ -266,7 +266,7 @@ de exemplu:
 
 पूजा f.: onor, primire onorifică, venerație religioasă (Pūjā)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 Fig.: पूजा
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1504))
 :::
@@ -275,7 +275,7 @@ Fig.: पूजा
 
 इन्द्र m.: prinț, primul, cel mai bun dintre ; regele zeilor Indra
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 Fig.: इन्द्रः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1505))
 :::
@@ -304,14 +304,14 @@ din care:
 
 सिंह m.: leu (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 Fig.: सिंहः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1506))
 :::
 
 व्याघ्र m.: tigru (_Panthera tigris tigris_) (literal: hăituitor)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 Fig.: व्याघ्रः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1507))
 :::
@@ -532,7 +532,7 @@ Rezolvați, așa cum ați făcut la Exercițiul 1, următoarele Tatpuruṣa:
 
 ६०. द्विजातिशुश्रूषया
 ::: media
-![](/images/lekt1508.jpg)
+![](/images/lekt1508.webp)
 Fig.: ग्रामदेवता
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1508))
 :::
@@ -595,7 +595,7 @@ B) Rezolvați următorii Tatpuruṣa:
 
 २६. श्रुत्युदितम्
 ::: media
-![](/images/lekt1509.jpg)
+![](/images/lekt1509.webp)
 Fig.: नागदेवाः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1509))
 :::

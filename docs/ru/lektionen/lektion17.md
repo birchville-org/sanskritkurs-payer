@@ -308,7 +308,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 Рис.: घाताः
 Бангалор = ಬೆಂಗಳೂರು
 (Источник изображения: [Сведения](/ru/licenses#lekt1703))
@@ -324,7 +324,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 Рис.: योगासनम्
 (Источник изображения: [Сведения](/ru/licenses#lekt1701))
 :::
@@ -343,7 +343,7 @@ status: stable
 दुह् 2 В दोग्धि страд. दुह्यते прич. прош. вр. दुग्ध : доить
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 Рис.: दोग्धि
 (Источник изображения: [Сведения](/ru/licenses#lekt1702))
 :::

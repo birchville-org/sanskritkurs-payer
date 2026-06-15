@@ -118,6 +118,6 @@ NOTĂ: Răspunsurile pe care le puteți oferi la astfel de întrebări, folosind
 **B) Formați întrebări conform modelului etat kim (एतत्किम्) pentru următorul exercițiu de lectură și răspundeți la întrebări folosind cuvintele indicate și pronumele demonstrative, de exemplu eṣa bālaḥ (एष बालः):**
 
 ::: media
-![](/images/lekt0401.jpg)
+![](/images/lekt0401.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0401))
 :::

@@ -98,7 +98,7 @@ Note: In relative clauses of general validity, the optative is often used instea
 :::
 
 ::: media
-![](/images/lekt1809.jpg)
+![](/images/lekt1809.webp)
 Fig.: कामः
 Illustration for कामसूत्र
 (Image source: [Details](/en/licenses#lekt1809))
@@ -128,7 +128,7 @@ from **स्था** :
 :::
 
 ::: media
-![](/images/lekt1901.jpg)
+![](/images/lekt1901.webp)
 Fig.: गर्भगृहम्
 Badami (ಬದಾಮಿ)
 (Image source: [Details](/en/licenses#lekt1901))
@@ -158,7 +158,7 @@ from this:
 **छत्त्र n.:** sunshade, umbrella
 
 ::: media
-![](/images/lekt1904.jpg)
+![](/images/lekt1904.webp)
 Fig.: छत्त्रम्
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
 (Image source: [Details](/en/licenses#lekt1904))

@@ -103,7 +103,7 @@ B) Transform the following verbal forms into the corresponding perfect forms (1s
 :::
 
 ::: media
-![](/images/uebung065.jpg)
+![](/images/uebung065.webp)
 Fig.: आशिमेति
 (Image source: [Details](/en/licenses#uebung065))
 :::
@@ -154,7 +154,7 @@ Determine and translate the following word forms:
 :::
 
 ::: media
-![](/images/uebung066.jpg)
+![](/images/uebung066.webp)
 Fig.: काश्चन वाहिकाः
 (Image source: [Details](/en/licenses#uebung066))
 :::

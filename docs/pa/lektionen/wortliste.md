@@ -62,7 +62,7 @@ outline: 2
 ਚਾਰ ਵਰਗ (**varṇa** m.) ਨੂੰ ਅਕਸਰ ਜਾਤਾਂ ਨਾਲ ਗਲਤ ਸਮਝਿਆ ਜਾਂਦਾ ਹੈ। ਪਰ ਚਾਰ ਵਰਗ -- ਜਾਤਾਂ ਦੇ ਵਿਪਰੀਤ -- ਕੁਝ ਖਾਸ ਭਾਰਤੀ ਨਹੀਂ ਹਨ, ਯੂਰਪ ਵਿੱਚ ਵੀ ਸਾਡੇ ਕੋਲ (ਕੁਝ ਮਾਮਲਿਆਂ ਵਿੱਚ ਪਹਿਲੇ ਵਿਸ਼ਵ ਯੁੱਧ ਤੱਕ) ਵਰਗ-ਪ੍ਰਣਾਲੀ ਸੀ, ਜਿਵੇਂ ਕਿ ਹੇਠਾਂ ਦਿੱਤੀ 15ਵੀਂ ਸਦੀ ਦੀ ਚਿੱਤਰ-ਪ੍ਰਤੀਕ ਦੁਆਰਾ ਪ੍ਰਮਾਣਿਤ ਹੈ:
 
 ::: media
-![](/images/lekt0201.jpg)
+![](/images/lekt0201.webp)
 ਚਿੱਤਰ: ਯੂਰਪੀ ਮੱਧਕਾਲੀਨ ਵਰਗ-ਵੰਡ ਦਾ ਪ੍ਰਤੀਕ (15ਵੀਂ ਸਦੀ ਦੇ ਅੰਤ ਦਾ ਲਕੜ-ਖੁਦਾਈ)।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt0201))
 :::
@@ -114,7 +114,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 **ਸਾਧੁ** ਪੁ. -- साधु : "ਪਵਿੱਤਰ" ਪੁਰਖ, ਸਾਧੁ।
 
 ::: ਮੀਡੀਆ
-![](/images/lekt0202.jpg)
+![](/images/lekt0202.webp)
 ਅੰਤਰਦ੍ਰਿਸ਼ਟੀ: ਸਾਧੁ (साधु), ਪਸੁਪਤੀਨਾਥ ਮੰਦਿਰ, ਕਾਠਮੰਡੂ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt0202))
 :::
@@ -171,7 +171,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 **devī** f. = देवी : ਦੇਵੀ, ਖਾਸ ਤੌਰ 'ਤੇ Durgā f. = दुर्गा, ਸ਼ਿਵ ਦੀ ਪਤਨੀ = शिव।
 
 ::: media
-![](/images/lekt0303.jpg)
+![](/images/lekt0303.webp)
 ਚਿੱਤਰ: Durgā = दुर्गा, ਉੜੀਸਾ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/images/lekt0303))
 :::
@@ -203,7 +203,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 **kāma** m. = काम : ਇਛਾ, ਭਾਵਨਾ, ਚਾਹੀਦੀ ਦਿੱਤੀ ਗਈ ਚੀਜ਼, ਇੰਦ੍ਰੀਆਂ ਦਾ ਸੁਖ, ਪ੍ਰੇਮ; ਪ੍ਰੇਮ ਦੇਵਤਾ ਕਾਮ।
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 ਚਿੱਤਰ: ਦੇਵਤਾ ਕਾਮ = kāmadeva = कामदेव, 18ਵੀਂ ਸਦੀ
 (ਚਿੱਤਰ ਸਰੋਤ: ਵਿਕੀਪੀਡੀਆ, ਸਾਰ্বਜਨਿਕ ਖੇਤਰ)
 :::
@@ -283,7 +283,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 - **su** 5 U (sunoti) सु सुनोति : ਨਿਚੋੜਨਾ
 - **soma** m. सोम : ਨਿਚੋੜਿਆ ਪੀਣਾ, ਸੋਮ; ਚੰਦਰਮਾ (ਕਿਸ ਪੌਦੇ ਤੋਂ ਸੋਮ ਨਿਚੋੜਿਆ ਗਿਆ ਸੀ, ਇਹ ਅੱਜ ਤੱਕ ਵਿਵਾਦਿਤ ਹੈ).
 ::: media
-![](/images/lekt0701.jpg)
+![](/images/lekt0701.webp)
 ਚਿੱਤਰ: ਕੀ ਇਹ ਵੈਦਿਕ ਸੋਮ ਪੌਦਾ ਸੀ?: ਉੱਡਣ ਵਾਲੀ ਮਸਤੀ: *Amanita muscaria* (L.) Lam.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt0701))
 :::
@@ -348,7 +348,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 - **adhyayana** n. (अध्ययन) : ਪੜ੍ਹਨਾ, ਖਾਸ ਕਰਕੇ ਵੇਦਾਂ ਦਾ ਅਧਿਐਨ
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 ਚਿੱਤਰ: **adhyayana** = अध्ययन, ਸ੍ਰੀ ਸਕੰਦਗੁਰੂ ਵਿਦਿਆਲਯਮ, ਤਿਰੁਪਰੰਕੁੰਦਰਮ, ਮਦੁਰਾ ਦੇ ਨੇੜੇ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt0903))
 :::
@@ -356,7 +356,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : ਹੱਥਕਾਰੀ, ਕਾਰੀਗਰ
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 ਚਿੱਤਰ: **kāru** = कारु, ਗੁਜਰਾਤ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt0902))
 :::
@@ -417,7 +417,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 :::
 
 ::: media
-![](/images/lekt1003.jpg)
+![](/images/lekt1003.webp)
 ਅੰਕ: वरुणः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1003))
 :::
@@ -480,7 +480,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
   - **vadana** n. वदन : ਬੋਲਣਾ; ਬੋਲਣ ਦਾ ਯੰਤਰ: ਮੂੰਹ, ਚਿਹਰਾ
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 ਚਿੱਤਰ: **vadanāni** = वदनानि
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1102))
 :::
@@ -500,7 +500,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : ਜਾਗਣਾ, ਜਾਗਣਾ ਜਾਣ-ਪਛਾਣ ਲਈ, ਜਾਣ-ਪਛਾਣ ਕਰਨਾ; PPP **buddha** 3 ਜਾਗਿਆ, ਇਸ ਲਈ **Buddha** = "ਜਾਗਿਆ ਹੋਇਆ" (ਨਹੀਂ: ਜਾਗਰੂਕ)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 ਚਿੱਤਰ: गौतमो बुद्धः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1201))
 :::
@@ -511,7 +511,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 - **mārga** m. मार्ग : ਰਾਹ (ਰਾਹ ਅਕਸਰ ਜੰਗਲੀ ਜਾਨਵਰਾਂ ਦੇ ਰਸਤੇ ਹੁੰਦੇ ਸਨ)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 ਚਿੱਤਰ: मार्गः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1202))
 :::
@@ -530,7 +530,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 - **budh**: **bodhi** m./f. बोधि : ਜਾਗਣਾ (ਜਿਸ ਦੁਆਰਾ ਇੱਕ ਬੁੱਧ ਜਾਂ ਜਿਨ ਮੁਕਤੀ ਦੇਣ ਵਾਲੀ ਸਮਝ ਵਿੱਚ ਪਹੁੰਚਦਾ ਹੈ)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 ਚਿੱਤਰ: महावीरो जिनः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1203))
 :::
@@ -613,7 +613,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 > [ਸਰੋਤ: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
-![](/images/lekt1301.jpg)
+![](/images/lekt1301.webp)
 ਅੰਤਰਦ੍ਰਿਸ਼ਟ: महिषासुरः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1301))
 :::
@@ -634,7 +634,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 - **anna** n. अन्न : ਖਾਣਾ (PPP ਤੋਂ: *ad-na: ਖਾਧਾ ਹੋਇਆ)
 
 ::: media
-![](/images/lekt1304.jpg)
+![](/images/lekt1304.webp)
 ਚਿੱਤਰ: अन्नम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1304))
 :::
@@ -650,7 +650,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 :::
 
 ::: media
-![](/images/lekt1303.jpg)
+![](/images/lekt1303.webp)
 ਚਿੱਤਰ: चत्वारः पादाः : गजः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1303))
 :::
@@ -672,7 +672,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 * **dīpa m.** (दीप) : ਦੀਵਾ
 
 ::: media
-![](/images/lekt1405.jpg)
+![](/images/lekt1405.webp)
 ਚਿੱਤਰ: दीपाः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1405))
 :::
@@ -713,7 +713,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 
 पूजा f.: ਸਤਕਾਰ, ਸਤਕਾਰਯੋਗ ਸਵਾਗਤ, ਧਾਰਮਿਕ ਸਤਕਾਰ (ਪੂਜਾ)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 ਚਿੱਤਰ: पूजा
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1504))
 :::
@@ -722,7 +722,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 
 इन्द्र m.: ਰਾਜਾ, ਪਹਿਲਾਂ, ਸਭ ਤੋਂ ਵਧੀਆ ਵਿੱਚ ; ਦੇਵਤਾ-ਰਾਜ ਇੰਦਰ
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 ਚਿੱਤਰ: इन्द्रः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1505))
 :::
@@ -751,14 +751,14 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 
 सिंह m.: ਸਿੰਘ (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 ਚਿੱਤਰ: सिंहः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1506))
 :::
 
 व्याघ्र m.: ਬਾਘ (_Panthera tigris tigris_) (ਸ਼ਬਦਾਤਮਕ: ਖੁੱਲ੍ਹਣ ਵਾਲਾ)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 ਚਿੱਤਰ: व्याघ्रः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1507))
 :::
@@ -798,7 +798,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 अध्यापन n.: ਸਿਖਲਾਉਣਾ, ਸਿਖਲਾਈ
 
 ::: media
-![](/images/lekt1602.jpg)
+![](/images/lekt1602.webp)
 ਚਿੱਤਰ: अध्यापनम्
 "ਇਹ ਸਤਾਰਾ (सातारा) ਵਿੱਚ ਇੱਕ ਛੋਟੇ ਮੰਦਰ ਵਿੱਚ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਧਾਰਮਿਕ ਰਸਮ ਹੈ। ਇਹ ਸਵਾਮੀ ਮੁਕਤਾਨੰਦ ਵੇਦਸ਼ਾਲਾ ਦੇ ਵਿਦਿਆਰਥੀ ਮਹਾਸ਼ਿਵਰਾਤਰੀ ਦੇ ਜਸ਼ਨ ਮਨਾਉਂਦੇ ਸਮੇਂ ਇਸਨੂੰ ਕਰਦੇ ਹਨ। ਇਹ ਇੱਕ ਵੈਦਿਕ ਸਕੂਲ ਹੈ, ਜਿੱਥੇ ਬੱਚੇ ਵੇਦਾਂ ਨਾਮਕ ਪਵਿੱਤਰ ਗ੍ਰੰਥਾਂ ਨੂੰ ਰਟਦੇ ਹਨ। ਇਹ ਸਕੂਲ ਕ੍ਰਿਸ਼ਨ ਯਜੁਰਵੇਦ ਅਤੇ ਸਾਮਵੇਦ ਦੇ ਕੁਝ ਹਿੱਸੇ ਸਿਖਾਉਂਦਾ ਹੈ। ਮੈਂ ਇਸ ਸਕੂਲ 'ਤੇ ਆਪਣੀ ਮਾਸਟਰ ਥੀਸਿਸ ਲਿਖ ਰਿਹਾ ਹਾਂ।"
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1602))
@@ -835,7 +835,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 योग m.: ਜੋੜਨਾ, ਜੁੜਨਾ, ਇਕਤਾ, ਕਮਾਈ ; ਯੋਗ
 
 ::: media
-![](/images/lekt1601.jpg)
+![](/images/lekt1601.webp)
 ਚਿੱਤਰ: योगी
 ਬਿਰਲਾ ਮੰਦਰ, ਦਿੱਲੀ
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1601))
@@ -871,7 +871,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 ਚਿੱਤਰ: घाताः
 ਬੈਂਗਲੁਰੂ = ಬೆಂಗಳೂರು
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1703))
@@ -887,7 +887,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 ਚਿੱਤਰ: योगासनम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1701))
 :::
@@ -906,7 +906,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 दुह् 2 U दोग्धि ਪਾਸ. दुह्यते ਪਪੀ दुग्ध : ਦੁੱਧ ਚੁੰਘਣਾ
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 ਚਿੱਤਰ: दोग्धि
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1702))
 :::
@@ -977,7 +977,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 :::
 
 ::: media
-![](/images/lekt1809.jpg)
+![](/images/lekt1809.webp)
 ਚਿੱਤਰ: कामः
 कामसूत्र ਦਾ ਚਿੱਤਰਕਾਰੀ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1809))
@@ -1007,7 +1007,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 :::
 
 ::: media
-![](/images/lekt1901.jpg)
+![](/images/lekt1901.webp)
 ਚਿੱਤਰ: गर्भगृहम्
 ਬਦਾਮੀ (ಬದಾಮಿ)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1901))
@@ -1038,7 +1038,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 **छत्त्र ਨ.:** ਧੁੱਪ ਦਾ ਛੱਤਰ, ਛੱਤਰ
 
 ::: media
-![](/images/lekt1904.jpg)
+![](/images/lekt1904.webp)
 ਚਿੱਤਰ: छत्त्रम्
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), ਪਰੰਪਰਾਗਤ ਪਹਿਰਾਵੇ ਵਿੱਚ, ਕੇਰਲ ਦੇ ਦੱਖਣੀ ਹਿੱਸਿਆਂ ਵਿੱਚ ਇੱਕ ਰਸਮ ਹੈ। _Onappottan_ _onam_ ਦੌਰਾਨ ਘਰਾਂ ਦਾ ਦੌਰਾ ਕਰਦਾ ਹੈ ਅਤੇ ਆਸ਼ੀਰਵਾਦ ਦਿੰਦਾ ਹੈ। ਹਾਲ ਹੀ ਵਿੱਚ _onappottan_ ਇੱਕ ਦੁਰਲਭ ਦ੍ਰਿਸ਼ ਬਣ ਗਿਆ ਹੈ, ਜੋ ਕਿ ਸਿਰਫ਼ ਪਿੰਡਾਂ ਤੱਕ ਸੀਮਿਤ ਹੈ।"
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1904))
@@ -1086,7 +1086,7 @@ c) ਰਾਜਨੀਤਿਕ ਜਾਂ ਪੁਜਾਰੀ-ਸ਼ਾਸਤਾ ਸ�
 आश्रम ਪੁ., ਨਪ.: ਖਾਲੀ ਜਗ੍ਹਾ, ਜੀਵਨ ਦਾ ਪੜਾਅ, ਜੀਵਨ ਦਾ ਅੰਤਰਾਲ (ਯਾਨੀ ਵਜੋਂ ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ ਅਤੇ ਸੰਭਵ ਤੌਰ 'ਤੇ ਵਜੋਂ सन्न्यासिन् ; ਦੇਖੋ Basham, Wonder ਸ. 159f.)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 ਚਿੱਤਰ: आश्रमः
 Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2008))
@@ -1199,7 +1199,7 @@ Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikes
 :::
 
 ::: media
-![](/images/lekt2103.jpg)
+![](/images/lekt2103.webp)
 ਚਿੱਤਰ: भगवान्कृष्णः
 भगवान्कृष्णः जगन्नाथ (ਸੱਜੇ ਪਾਸੇ) ਨਾਲ, ਉਸਦੀ ਅੱਧੀ ਭੈਣ सुभद्रा (ਮੱਧ ਵਿੱਚ) ਅਤੇ ਉਸਦੇ ਵੱਡੇ ਭਰਾ बलराम, ਉੜੀਸਾ = ଓଡ଼ିଶा
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2103))
@@ -1210,7 +1210,7 @@ Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikes
 :::
 
 ::: media
-![](/images/lekt2105.jpg)
+![](/images/lekt2105.webp)
 ਚਿੱਤਰ: भगवद्गीता
 भगवद्गीता - ਪ੍ਰਾਚੀਨ ਲਿਖਤ, 19ਵੀਂ ਸਦੀ.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2105))
@@ -1227,7 +1227,7 @@ Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikes
 :::
 
 ::: media
-![](/images/lekt2104.jpg)
+![](/images/lekt2104.webp)
 ਚਿੱਤਰ: भिक्षवः
 ਲੁਆਂਗ ਪ੍ਰਾਂਗ = ຫລວງພະບາງ, ਲਾਓਸ = ປະເທດລາວ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2104))
@@ -1252,7 +1252,7 @@ Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikes
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 ਚਿੱਤਰ: कामदेवः
 19. ਸਦੀ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2202))
@@ -1270,7 +1270,7 @@ Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikes
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 ਚਿੱਤਰ: दुर्गाशक्तिः
 ਕੋਲਕਾਤਾ = কলকাতা
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2203))
@@ -1300,7 +1300,7 @@ Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikes
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 ਚਿੱਤਰ: धेनवश्चरन्ति
 ਗੋਆ = गोंय
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2201))
@@ -1335,7 +1335,7 @@ Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikes
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 ਚਿੱਤਰ: अलंकारः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2405))
 :::
@@ -1346,7 +1346,7 @@ Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikes
 प्रतिमा ਸਤਰੀਲਿੰਗ: ਚਿੱਤਰ, ਪ੍ਰਤੀਕ
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 ਚਿੱਤਰ: देवीप्रतिमा
 ਹੰਪੀ = ಹಂಪೆ, ਕਰਨਾਟਕ = ಕರ್ನಾಟಕ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2406))
@@ -1386,7 +1386,7 @@ Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikes
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 ਚਿੱਤਰ: ऊहापोहः
 "NEW DELHI/INDIA, 16NOV08 - ਸੁਹਾਸਿਨੀ ਹੈਦਰ, ਸਹਾਇਕ ਵਿਦੇਸ਼ ਸੰਪਾਦਕ, CNN-IBN ਨੈੱਟਵਰਕ 18, ਭਾਰਤ, ਨਵੀਂ ਦਿੱਲੀ ਵਿੱਚ ਵਿਸ਼ਵ ਆਰਥਿਕ ਮੰਚ ਦੇ ਭਾਰਤ ਆਰਥਿਕ ਸੰਮੇਲਨ 2008 ਵਿੱਚ ਇੱਕ ਪੈਨਲ ਚਰਚਾ ਦੀ ਮੇਜ਼ਬਾਨੀ ਕਰਦੀ ਹੈ।"
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2407))
@@ -1408,7 +1408,7 @@ Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikes
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 ਚਿੱਤਰ: आख्यानम्
 "ਸੈਨ ਫ੍ਰਾਂਸਿਸਕੋ ਕਹਾਣੀਕਾਰ ਜੈਫ਼ ਬਾਇਰਸ ਚੇਨੇਰੀ, ਇੱਕ ਇਰੁਲਾ ਪਿੰਡ ਦੇ ਵਾਸੀਆਂ ਨਾਲ ਇੱਕ ਕਹਾਣੀ ਸਾਂਝੀ ਕਰਦਾ ਹੈ। ਕਹਾਣੀਕਾਰ ਜੀਵਾ ਰਾਘੁਨਾਥ ਪਿੰਡ ਵਾਸੀਆਂ ਲਈ ਤਾਮਿਲ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰਦਾ ਹੈ।"
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2408))
@@ -1441,7 +1441,7 @@ Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikes
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 ਚਿੱਤਰ: जयदेवकविर्विष्णुं नमस्करोति
 गीतगोविन्द ਦਾ ਹੱਥ ਲਿਖਤ, 1730 ਈ.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2411))
@@ -1479,7 +1479,7 @@ PPP त्यक्त
 धान्य ਨਪੁੰ.:  ਧੁਣਿਆਂ ਹੋਇਆਂ ਅਨਾਜ
 
 ::: media
-![](/images/lekt2501.jpg)
+![](/images/lekt2501.webp)
 ਚਿੱਤਰ: धान्यम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2501))
 :::
@@ -1566,7 +1566,7 @@ PPP शिष्ट ३ : ਸਿਖਲਾਈ ਦਿੱਤੀ ਗਈ
 मूल ਨਪੁੰ.: ਜੜ੍ਹ
 
 ::: media
-![](/images/lekt2502.jpg)
+![](/images/lekt2502.webp)
 ਚਿੱਤਰ: मूलानि
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2502))
 :::
@@ -1586,7 +1586,7 @@ PPP लिप्त
 :::
 
 ::: media
-![](/images/lekt2503.jpg)
+![](/images/lekt2503.webp)
 ਚਿੱਤਰ: लिप्तिः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2503))
 :::
@@ -1611,7 +1611,7 @@ PPP ऊढ
 :::
 
 ::: media
-![](/images/lekt2504.jpg)
+![](/images/lekt2504.webp)
 ਚਿੱਤਰ: विवाहः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2504))
 :::
@@ -1630,7 +1630,7 @@ PPP ऊढ
 विष्टि ਸਤ੍ਰੀ.: ਕੰਮ, ਜ਼ਬਤੀ
 
 ::: media
-![](/images/lekt2505.jpg)
+![](/images/lekt2505.webp)
 ਚਿੱਤਰ: विष्टिः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2505))
 :::
@@ -1658,7 +1658,7 @@ PPP वृद्ध : ਵੱਡਾ, ਬੁੱਢਾ, ਵਧਿਆ ਹੋਇਆ
 हिरण्य ३ : ਸੁਨਹਿਰੀ ; n.: ਸੋਨਾ, ਪੈਸਾ, ਦੌਲਤ
 
 ::: ਮੀਡੀਆ
-![](/images/lekt2506.jpg)
+![](/images/lekt2506.webp)
 ਚਿੱਤਰ: हिरण्यम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2506))
 :::
@@ -1701,7 +1701,7 @@ PPP वृद्ध : ਵੱਡਾ, ਬੁੱਢਾ, ਵਧਿਆ ਹੋਇਆ
 :::
 
 ::: media
-![](/images/lekt2706.jpg)
+![](/images/lekt2706.webp)
 ਚਿੱਤਰ: वस्त्राणि
 Vastrāṇi. Majuli, Assam.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2706))
@@ -1716,7 +1716,7 @@ Vastrāṇi. Majuli, Assam.
 :::
 
 ::: media
-![](/images/lekt2707.jpg)
+![](/images/lekt2707.webp)
 ਚਿੱਤਰ: वसन्तः
 Vasanta (Schleichera oleosa), Khopoli, ਮਹਾਰਾਸ਼ਟਰ, 2007-04-07.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2707))
@@ -1741,14 +1741,14 @@ Vasanta (Schleichera oleosa), Khopoli, ਮਹਾਰਾਸ਼ਟਰ, 2007-04-07.
 **हरिहर** m.: ਵਿਸ਼ਣੁ ਅਤੇ ਸ਼ਿਵ ਇੱਕ ਹੀ ਦੇਵਤਾ ਵਜੋਂ ਮਿਲੇ ਹੋਏ।
 
 ::: media
-![](/images/lekt2704.jpg)
+![](/images/lekt2704.webp)
 ਚਿੱਤਰ: हरिहरः
 Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2704))
 :::
 
 ::: media
-![](/images/lekt2705.jpg)
+![](/images/lekt2705.webp)
 ਚਿੱਤਰ: हरिहरः
 Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)। Godrumdwip, ਪੱਛਮੀ ਬੰਗਾਲ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2705))
@@ -1793,7 +1793,7 @@ PPP **kānta** (!)
 :::
 
 ::: media
-![](/images/lekt2804.jpg)
+![](/images/lekt2804.webp)
 ਚਿੱਤਰ: कृष्णो राधां कामयति
 राजा रवि वर्मा ਦੁਆਰਾ ਚਿੱਤਰ (1848 - 1906)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵਿਸਤਾਰ](/pa/licenses#lekt2804))
@@ -1817,7 +1817,7 @@ PPP **corita**
 :::
 
 ::: media
-![](/images/lekt2803.jpg)
+![](/images/lekt2803.webp)
 ਚਿੱਤਰ: वीणां वादयति
 Vīṇā-Spielerin.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵਿਸਤਾਰ](/pa/licenses#lekt2803))
@@ -1826,7 +1826,7 @@ Vīṇā-Spielerin.
 **भार** m.: ਭਾਰ
 
 ::: media
-![](/images/lekt2805.jpg)
+![](/images/lekt2805.webp)
 ਚਿੱਤਰ: बाला भारं हरति
 ਕੁੜੀ ਭਾਰ ਝਿੰਕਦੀ ਹੈ। ਅਹਿਮਦਾਬਾਦ ਦੇ ਨੇੜੇ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵਿਸਤਾਰ](/pa/licenses#lekt2805))
@@ -1873,7 +1873,7 @@ Inf. ग्रसितुम्
 परिव्राजक m.: ਘੁੰਮਣ ਵਾਲਾ, ਵੰਡਿਆ ਹੋਇਆ, ਤੀਰਥਯਾਤਰੀ
 
 ::: media
-![](/images/lekt2903.jpg)
+![](/images/lekt2903.webp)
 Abb.: परिव्राजकाः
 ਪੁਸ਼ਕਰ = पुष्कर
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2903))
@@ -1893,7 +1893,7 @@ Abb.: परिव्राजकाः
 :::
 
 ::: media
-![](/images/lekt2901.jpg)
+![](/images/lekt2901.webp)
 Abb.: मत्स्यः
 रोहू मछली = Labeo rohita Hamilton
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2901))
@@ -1943,7 +1943,7 @@ PPP क्रीत
 :::
 
 ::: media
-![](/images/lekt3001.jpg)
+![](/images/lekt3001.webp)
 ਅਬਬ.: क्रीणन्ति विक्रीणते च
 ਬੁੰਦੀ = बुन्दी, ਰਾਜਸਥਾਨ = राजस्थान
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵਿਸਤਾਰ](/pa/licenses#lekt3001))
@@ -1967,7 +1967,7 @@ PPP ज्ञात
 :::
 
 ::: media
-![](/images/lekt3002.jpg)
+![](/images/lekt3002.webp)
 ਅਬਬ.: ज्ञातयः
 ਦਾਰੇਵਾੜੀ, ਅਹਿਮਦ ਨਗਰ ਜ਼ਿਲ੍ਹਾ = अहमदनगर, ਮਹਾਰਾਸ਼ਟਰ = महाराष्ट्र
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵਿਸਤਾਰ](/pa/licenses#lekt3002))
@@ -1984,7 +1984,7 @@ PPP पूत
 :::
 
 ::: media
-![](/images/lekt3003.jpg)
+![](/images/lekt3003.webp)
 ਅਬਬ.: श्रोत्राणि पुनाति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵਿਸਤਾਰ](/pa/licenses#lekt3003))
 :::
@@ -2000,7 +2000,7 @@ PPP अशित
 :::
 
 ::: media
-![](/images/lekt3005.jpg)
+![](/images/lekt3005.webp)
 ਅਬਬ.: अश्नीयात्
 थाली, ਦੱਖਣੀ ਭਾਰਤ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵਿਸਤਾਰ](/pa/licenses#lekt3005))
@@ -2009,7 +2009,7 @@ PPP अशित
 प्रिय ३: ਪਿਆਰੇ, ਪਿਆਰ ਕਰਨ ਵਾਲੇ, ਦੋਸਤਾਨਾ
 
 ::: media
-![](/images/lekt3004.jpg)
+![](/images/lekt3004.webp)
 ਅਬਬ.: प्रिया
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵਿਸਤਾਰ](/pa/licenses#lekt3004))
 :::
@@ -2039,7 +2039,7 @@ PPP अशित
 :::
 
 ::: media
-![](/images/lekt2904.jpg)
+![](/images/lekt2904.webp)
 ਅਬਬ.: पुनर्भवः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵਿਸਤਾਰ](/pa/licenses#lekt2904))
 :::
@@ -2085,7 +2085,7 @@ PPP जीवित : ਜੀਵਤ
 :::
 
 ::: media
-![](/images/lekt3101.jpg)
+![](/images/lekt3101.webp)
 Abb.: योगः
 Yoga ਦਰਸ਼ਨ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3101))
@@ -2134,7 +2134,7 @@ Yoga ਦਰਸ਼ਨ।
 :::
 
 ::: media
-![](/images/lekt3102.jpg)
+![](/images/lekt3102.webp)
 Abb.: व्यञ्जनम्
 Kathakali ਨਾਚ ਲਈ ਤਿਆਰੀ, Kochi.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3102))
@@ -2180,7 +2180,7 @@ Kathakali ਨਾਚ ਲਈ ਤਿਆਰੀ, Kochi.
 :::
 
 ::: media
-![](/images/lekt3103.jpg)
+![](/images/lekt3103.webp)
 Abb.: प्रज्ञापारमिता
 Aus einem Prajñāpāramitā-Manuskript.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3103))
@@ -2216,7 +2216,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 **चूत**
 
 ::: media
-![](/images/lekt3202.jpg)
+![](/images/lekt3202.webp)
 ਚਿੱਤਰ: चूतः
 ਅੰਬ ਦਾ ਰੁੱਖ, ਕਾਂਪੁਰ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3202))
@@ -2253,7 +2253,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 **वानर कपि**
 
 ::: media
-![](/images/lekt3203.jpg)
+![](/images/lekt3203.webp)
 ਚਿੱਤਰ: वानराः
 ਬਾਂਦਰ (ਰੇਸ਼ਸ ਮੈਕਾਕ) ਦਿੱਲੀ ਵਿੱਚ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3203))
@@ -2275,7 +2275,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 **उपल**
 
 ::: media
-![](/images/lekt3204.jpg)
+![](/images/lekt3204.webp)
 ਚਿੱਤਰ: उपलाः
 ਪੁਣੇ ਦੇ ਦੱਖਣ ਵਿੱਚ ਪੱਥਰ ਖਾਣ, ਮਹਾਰਾਸ਼ਟਰ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3204))
@@ -2284,7 +2284,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 **लक्ष्य**
 
 ::: media
-![](/images/lekt3205.jpg)
+![](/images/lekt3205.webp)
 ਚਿੱਤਰ: लक्ष्यम्
 ਟੀਚਾ ਅਭਿਆਸ / ਤੀਰ ਟੀਚਾ, ਕਰਨਾਟਕ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3205))
@@ -2311,7 +2311,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 :::
 
 ::: media
-![](/images/lekt3207.jpg)
+![](/images/lekt3207.webp)
 ਚਿੱਤਰ: चितं गोमयं दहति
 ਰਾਜਸਥਾਨ ਵਿੱਚ ਗਾਈ ਦੇ ਗੋਬਰ ਦੇ ਪੈਟੀਆਂ ਨੂੰ ਜਲਾਉਣਾ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3207))
@@ -2326,7 +2326,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 **कौशल कुशल**
 
 ::: media
-![](/images/lekt3206.jpg)
+![](/images/lekt3206.webp)
 ਚਿੱਤਰ: कौशलम्
 ਮੁੰਬਈ ਵਿੱਚ ਹੱਥਾਂ 'ਤੇ ਮਹਿੰਦੀ ਪੇਂਟਿੰਗ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3206))
@@ -2351,7 +2351,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 :::
 
 ::: media
-![](/images/lekt3306.jpg)
+![](/images/lekt3306.webp)
 ਚਿੱਤਰ: दानम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3306))
 :::
@@ -2363,7 +2363,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 :::
 
 ::: media
-![](/images/lekt3307.jpg)
+![](/images/lekt3307.webp)
 ਚਿੱਤਰ: सा पुत्रमादाय भारं बिभ्रती गच्छति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3307))
 :::
@@ -2387,7 +2387,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 :::
 
 ::: media
-![](/images/lekt3305.jpg)
+![](/images/lekt3305.webp)
 ਚਿੱਤਰ: समाधि
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3305))
 :::
@@ -2424,7 +2424,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 :::
 
 ::: media
-![](/images/lekt3304.jpg)
+![](/images/lekt3304.webp)
 ਚਿੱਤਰ: भयम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3304))
 :::
@@ -2477,7 +2477,7 @@ PPP **हीन** ਤੋਂ:
 :::
 
 ::: media
-![](/images/lekt3303.jpg)
+![](/images/lekt3303.webp)
 ਚਿੱਤਰ: हीनयानमेव
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3303))
 :::
@@ -2493,7 +2493,7 @@ PPP **हीन** ਤੋਂ:
 :::
 
 ::: media
-![](/images/lekt3302.jpg)
+![](/images/lekt3302.webp)
 ਚਿੱਤਰ: घृतमग्नौ जुहोति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3302))
 
@@ -2516,7 +2516,7 @@ PPP **हीन** ਤੋਂ:
 **शस्य = सस्य ਨ. ਵ. ਅ. ਬ.:** ਬੀਜ, ਖੇਤ ਦੀ ਫ਼ਸਲ, ਅਨਾਜ
 
 ::: media
-![](/images/lekt3406.jpg)
+![](/images/lekt3406.webp)
 ਚਿੱਤਰ: सस्यम्
 ਭਾਰਤ ਵਿੱਚ ਝੋਨੇ ਦਾ ਖੇਤ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3406))
@@ -2531,7 +2531,7 @@ PPP **हीन** ਤੋਂ:
 **द्वीप ਮ.ਨ.:** ਟਾਪੂ, ਮਹਾਂਦੀਪ
 
 ::: media
-![](/images/lekt3405.jpg)
+![](/images/lekt3405.webp)
 ਚਿੱਤਰ: लक्षद्वीपाः
 ਲਕਸ਼ਦੀਵੀਪ ਟਾਪੂਆਂ ਦਾ ਨਕਸ਼ਾ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3405))
@@ -2542,14 +2542,14 @@ PPP **हीन** ਤੋਂ:
 **तिल ਮ.:** ਤਿਲ (ਸਤੂਹ) (*Sesamum indicum* L.)
 
 ::: media
-![](/images/lekt3403.jpg)
+![](/images/lekt3403.webp)
 ਚਿੱਤਰ: तिलाः
 ਤਿਲ ਦੇ ਦਾਣੇ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3403))
 :::
 
 ::: media
-![](/images/lekt3404.jpg)
+![](/images/lekt3404.webp)
 ਚਿੱਤਰ: *Sesamum indicum* L.
 ਤਿਲ ਦਾ ਪੌਦਾ ਖਿੜ ਰਿਹਾ ਹੈ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3404))
@@ -2558,7 +2558,7 @@ PPP **हीन** ਤੋਂ:
 **स्वर्ण ਨ.:** (ਸੁੰਦਰ-ਰੰਗੀ =) ਸੁਨਹਿਰੀ
 
 ::: media
-![](/images/lekt3402.jpg)
+![](/images/lekt3402.webp)
 ਚਿੱਤਰ: स्वर्णम्
 ਸੁਨਹਿਰੀ ਮੰਦਰ (ਹਰਿਮੰਦਰ ਸਾਹਿਬ), ਅੰਮ੍ਰਿਤਸਰ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3402))
@@ -2575,7 +2575,7 @@ PPP **हीन** ਤੋਂ:
 **ऋषभ ਮ.:** ਬੁਲਾ
 
 ::: media
-![](/images/lekt3401.jpg)
+![](/images/lekt3401.webp)
 ਚਿੱਤਰ: ऋषभः
 ਨੰਦੀ ਬੁਲੇ ਦੀ ਮੂਰਤ, ਚਾਮੁੰਡੀ ਪਹਾੜੀ, ਮੈਸੂਰ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3401))
@@ -2615,7 +2615,7 @@ PPP **हीन** ਤੋਂ:
 :::
 
 ::: media
-![](/images/lekt3502.jpg)
+![](/images/lekt3502.webp)
 ਚਿੱਤਰ: क्रामन्ति
 ਲੋਕ ਚੱਲ ਰਹੇ ਹਨ, ਸੇਨੇਗਲ।
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3502))
@@ -2635,7 +2635,7 @@ PPP **हीन** ਤੋਂ:
 :::
 
 ::: media
-![](/images/lekt3501.jpg)
+![](/images/lekt3501.webp)
 ਚਿੱਤਰ: जगुः
 ਮੰਦਰ ਸੰਗੀਤਕਾਰ, ਕਾਡੂ ਮਲੇਸ਼ਵਰ ਮੰਦਰ, ਬੈਂਗਲੁਰੂ।
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3501))
@@ -2670,7 +2670,7 @@ PPP चित
 ਇਨਫ. चेतुम्
 :::
 ::: media
-![](/images/lekt3601.jpg)
+![](/images/lekt3601.webp)
 ਚਿੱਤਰ: गोमयं चिकाय
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3601))
 :::
@@ -2690,7 +2690,7 @@ PPP व्रजित
 अगार n.। आगार n.: ਘਰ, ਘਰ
 
 ::: media
-![](/images/lekt3602.jpg)
+![](/images/lekt3602.webp)
 ਚਿੱਤਰ: अगारम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3602))
 :::
@@ -2702,7 +2702,7 @@ PPP व्रजित
 :::
 
 ::: media
-![](/images/lekt3603.jpg)
+![](/images/lekt3603.webp)
 ਚਿੱਤਰ: अनगार्यम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3603))
 :::
@@ -2785,7 +2785,7 @@ PPP स्पृष्ट
 ਐਬਸੋਲ. -स्पृश्य
 :::
 ::: media
-![](/images/lekt3606.jpg)
+![](/images/lekt3606.webp)
 ਚਿੱਤਰ: सुगतो भूमीं पस्पर्श
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3606))
 :::
@@ -2800,7 +2800,7 @@ PPP स्पृष्ट
 PPP हृषित
 :::
 ::: media
-![](/images/lekt3604.jpg)
+![](/images/lekt3604.webp)
 ਚਿੱਤਰ: लोमहर्षः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3604))
 :::
@@ -2830,7 +2830,7 @@ PPP हृषित
 वृक्ष ਮ.: ਦਰਖ਼ਤ
 
 ::: media
-![lekt3706.jpg](/images/lekt3706.jpg)
+![lekt3706.jpg](/images/lekt3706.webp)
 ਚਿੱਤਰ: वृक्षः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3706))
 :::
@@ -2844,7 +2844,7 @@ PPP हृषित
 सूर्य m.: ਸੂਰਜ, ਸੂਰਜ ਦੇਵਤਾ ਸੂਰਯ
 
 ::: media
-![](/images/lekt3802.jpg)
+![](/images/lekt3802.webp)
 ਚਿੱਤਰ: सूर्यः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3802))
 :::
@@ -2853,7 +2853,7 @@ PPP हृषित
 उदक n.: ਪਾਣੀ
 
 ::: media
-![](/images/lekt3805.jpg)
+![](/images/lekt3805.webp)
 ਚਿੱਤਰ: उदकम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3805))
 :::
@@ -2884,7 +2884,7 @@ PPP वान । वात
 :::
 
 ::: media
-![](/images/lekt3804.jpg)
+![](/images/lekt3804.webp)
 ਚਿੱਤਰ: गौतमबुद्धस्य महापरिनिर्वाणम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3804))
 :::
@@ -2928,7 +2928,7 @@ PPP मीढ
 ब्रह्मन् m.: ਨਿੱਜੀ ਭਾਵ ਨਾਲ ਸੋਚਿਆ ਸ੍ਰਿਸ਼ਟਿਕਰਤਾ ਦੇਵਤਾ ਬ੍ਰਹਮਾ
 
 ::: media
-![](/images/lekt3809.jpg)
+![](/images/lekt3809.webp)
 ਚਿੱਤਰ: ब्रह्मा
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3809))
 :::
@@ -2969,13 +2969,13 @@ PPP मीढ
 :::
 
 ::: media
-![](/images/lekt3810.jpg)
+![](/images/lekt3810.webp)
 ਚਿੱਤਰ: अशोकवृक्षः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3810))
 :::
 
 ::: media
-![](/images/lekt3811.jpg)
+![](/images/lekt3811.webp)
 ਚਿੱਤਰ: अशोकसाम्राज्यम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3811))
 :::
@@ -3039,7 +3039,7 @@ PPP तीर्ण
 :::
 
 ::: media
-![lekt4003.jpg](/images/lekt4003.jpg)
+![lekt4003.jpg](/images/lekt4003.webp)
 ਚਿੱਤਰ: हरिद्वारे तीर्थम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4003))
 :::
@@ -3049,7 +3049,7 @@ PPP तीर्ण
 :::
 
 ::: media
-![lekt4002.jpg](/images/lekt4002.jpg)
+![lekt4002.jpg](/images/lekt4002.webp)
 ਚਿੱਤਰ: तीर्थङ्करः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4002))
 :::
@@ -3065,7 +3065,7 @@ PPP तीर्ण
 :::
 
 ::: media
-![lekt4001.jpg](/images/lekt4001.jpg)
+![lekt4001.jpg](/images/lekt4001.webp)
 ਚਿੱਤਰ: विष्णोर्दशावताराः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4001))
 :::
@@ -3089,7 +3089,7 @@ PPP सुप्त
 :::
 
 ::: media
-![lekt4004.jpg](/images/lekt4004.jpg)
+![lekt4004.jpg](/images/lekt4004.webp)
 ਚਿੱਤਰ: स्वपन्ति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4004))
 :::
@@ -3103,7 +3103,7 @@ PPP सुप्त
 भुजङ्ग ਪੁ.: ਸੱਪ
 
 ::: media
-![lekt4105.jpg](/images/lekt4105.jpg)
+![lekt4105.jpg](/images/lekt4105.webp)
 ਚਿੱਤਰ: भुजङ्गः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4105))
 :::
@@ -3113,7 +3113,7 @@ PPP सुप्त
 विष ਨ.: ਜ਼ਹਿਰ
 
 ::: media
-![lekt4104.jpg](/images/lekt4104.jpg)
+![lekt4104.jpg](/images/lekt4104.webp)
 ਚਿੱਤਰ: भुजङ्गस्य विषम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4104))
 :::
@@ -3136,7 +3136,7 @@ PPP सुप्त
 :::
 
 ::: media
-![lekt4109.jpg](/images/lekt4109.jpg)
+![lekt4109.jpg](/images/lekt4109.webp)
 ਚਿੱਤਰ: शासना
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4109))
 :::
@@ -3148,7 +3148,7 @@ PPP सुप्त
 :::
 
 ::: media
-![lekt4110.jpg](/images/lekt4110.jpg)
+![lekt4110.jpg](/images/lekt4110.webp)
 ਚਿੱਤਰ: शास्त्री
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4110))
 :::
@@ -3254,7 +3254,7 @@ Inf. शंसितुम्
 ### 42.2.1. ਕੁਝ ਸੰਬੰਧੀ ਸ਼ਬਦ
 
 ::: media
-![lekt4202.jpg](/images/lekt4202.jpg)
+![lekt4202.jpg](/images/lekt4202.webp)
 ਚਿੱਤਰ: माता, पिता, पुत्रकः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4202))
 ::: 
@@ -3319,7 +3319,7 @@ Inf. शंसितुम्
 आपण ਪੁੰ.: ਬਾਜ਼ਾਰ
 
 ::: media
-![](/images/lekt4302.jpg)
+![](/images/lekt4302.webp)
 ਚਿੱਤਰ: आपणः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4302))
 :::
@@ -3329,7 +3329,7 @@ Inf. शंसितुम्
 पण्य 3: ਖਰੀਦਣਯੋਗ; ਨਪ.: ਸਮਾਨ, ਵਪਾਰ
 
 ::: media
-![]/images/lekt4303.jpg
+![]/images/lekt4303.webp
 ਚਿੱਤਰ: पण्यानि
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4303))
 :::
@@ -3352,7 +3352,7 @@ Inf. शंसितुम्
 विपणि ਸਤੀ.: ਦੁਕਾਨ
 
 ::: media
-![](/images/lekt4304.jpg)
+![](/images/lekt4304.webp)
 ਚਿੱਤਰ: विपणिः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4304))
 :::
@@ -3360,7 +3360,7 @@ Inf. शंसितुम्
 वणिज् ਪੁੰ.: ਵਪਾਰੀ
 
 ::: media
-![](/images/lekt4305.jpg)
+![](/images/lekt4305.webp)
 ਚਿੱਤਰ: वणिक्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4305))
 :::
@@ -3372,7 +3372,7 @@ Inf. शंसितुम्
 वत्स ਪੁੰ.: ਬੱਛਾ, ਬੱਚਾ, ਬੱਚਾ ; ਸੰਬੋਧਨ: ਮੇਰੇ ਪਿਆਰੇ
 
 ::: media
-![](/images/lekt4306.jpg)
+![](/images/lekt4306.webp)
 ਚਿੱਤਰ: वत्सः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4306))
 :::
@@ -3394,7 +3394,7 @@ Inf. शंसितुम्
 तर्हि 10 तुल् तुलयति । : ਤੋਲਣਾ
 
 ::: media
-![](/images/lekt4307.jpg)
+![](/images/lekt4307.webp)
 ਚਿੱਤਰ: तोलयति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4307))
 :::
@@ -3469,7 +3469,7 @@ PPP यात
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 ਚਿੱਤਰ: रेल्यानम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4403))
 :::
@@ -3489,7 +3489,7 @@ PPP शयित
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 ਚਿੱਤਰ: योगी शयने शेते
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4404))
 :::
@@ -3512,7 +3512,7 @@ PPP नन्दित
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 ਚਿੱਤਰ: नन्दी
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4405))
 :::
@@ -3538,7 +3538,7 @@ PPP आयत 3: ਲੰਬਾ ਫੈਲਿਆ ਹੋਇਆ
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 ਚਿੱਤਰ: आयतो मरुः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4406))
 :::
@@ -3563,7 +3563,7 @@ PPP यत्त
 :::
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 ਚਿੱਤਰ: यत्नेन
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4407))
 :::
@@ -3592,7 +3592,7 @@ PPP रब्ध
 :::
 
 ::: media
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 ਚਿੱਤਰ: प्रव्रअज्या / पब्बजा
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4408))
 :::
@@ -3645,23 +3645,23 @@ Absol. -ग्राह्य
 
 > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : ਪ੍ਰਵੇਸ਼ ਅਤੇ ਝਾਤ. -- 10. ਸੰਸਕਾਰ ਅਤੇ ਅੰਤਰਿਕ੍ਰਿਆਵਾਂ (ਸੰਸਕਾਰ). -- ਅਨੁਸੂਚੀ C: ਰਾਹੁ ਅਤੇ ਕੇਤੂ, ਅਦ੍ਰਿਸ਼ਟ ਚਲਦੇ ਤਾਰੇ . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 ਚਿੱਤਰ: [सूर्यः, चन्द्रः, मङ्गलः](/pa/licenses#lekt4602)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 ਚਿੱਤਰ: [बुधः, बृहस्पतिः](/pa/licenses#lekt4603)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 ਚਿੱਤਰ: [शुक्रः, शनिः](/pa/licenses#lekt4604)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 ਚਿੱਤਰ: [राहुः, केतुः](/pa/licenses#lekt4605)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4605))
 :::
@@ -3690,7 +3690,7 @@ Inf. नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 ਚਿੱਤਰ: [नारायण तुभ्यं नमामि](/pa/licenses#lekt4607)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4607))
 :::
@@ -3708,7 +3708,7 @@ Inf. रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 ਚਿੱਤਰ: [अश्वरोहकः](/pa/licenses#lekt4606)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4606))
 :::
@@ -3727,7 +3727,7 @@ Absol. -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 ਚਿੱਤਰ: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/pa/licenses#lekt4608)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4608))
 :::
@@ -3756,7 +3756,7 @@ Absol. श्रमित्वा । श्रान्त्वा
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 ਚਿੱਤਰ: [श्रान्तः](/pa/licenses#lekt4609)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4609))
 :::
@@ -3787,7 +3787,7 @@ PPP सक्त
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 ਚਿੱਤਰ: [सङ्गः](/pa/licenses#lekt4610)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4610))
 :::
@@ -3855,7 +3855,7 @@ PPP परिभूत 3: ਹਰਾਇਆ, ਨਿੰਦਿਤ, ਨਿਮਨ
 भोस् ਸੰਬੋਧਨ ਕਣ: ਸੰਬੋਧਨ ਦਾ ਵਿਸ਼ੇਸ਼ ਅਵਾਜ਼, ਉਦਾਹਰਣ: ਹੇ, ਹੇਡਾ, ਓ, ਏ, ਹੈਲੋ, ਹਾਈ! ਅਕਸਰ ਅਨੁਵਾਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ. ਇਸ ਕਣ ਦਾ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਸੰਧੀ ਹੈ: ਸਾਰੇ ਅਨੁਨਾਸਿਕ ਧ्वਨੀਆਂ ਤੋਂ ਪਹਿਲਾਂ, ਇਹ ***भो*** ਹੈ।
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 ਚਿੱਤਰ: [भोः](/pa/licenses#lekt4611)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4611))
 :::
@@ -3875,14 +3875,14 @@ PPP परिभूत 3: ਹਰਾਇਆ, ਨਿੰਦਿਤ, ਨਿਮਨ
 तन्त्र n.: ਤਾਰ ; ਢਾਹ, ਢਾਹ ਦੀ ਧਾਗੀ, ਬੁਣਾਈ ; ਆਧਾਰ, ਮਾਪਦੰਡ, ਨਿਯਮ ; ਸਿੱਖਿਆ, ਸਿੱਖਿਆ-ਪੁਸਤਕ ; ਤੰਤਰ ; ਮੰਤਰ ; ਮੱਧਮ, ਚਾਲ, ਦਵਾਈ ; ਸਰਕਾਰ, ਅਧਿਕਾਰ
 
 ::: media
-![](/images/lekt4802.jpg)
+![](/images/lekt4802.webp)
 ਚਿੱਤਰ: तन्त्रम्
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4802))
 :::
 
 ::: media
-![](/images/lekt4803.jpg)
+![](/images/lekt4803.webp)
 ਚਿੱਤਰ: तन्त्री
 ਸਿਤਾਰ ਵਾਦਕ = सितारवादकः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4803))
@@ -3906,7 +3906,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 :::
 
 ::: media
-![](/images/lekt4804.jpg)
+![](/images/lekt4804.webp)
 ਚਿੱਤਰ: स्वतन्त्राः स्त्रियः
 [ਆਤਮ-ਸਹਾਇਕ ਸਮੂਹ (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4804))
@@ -3919,7 +3919,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 कुमार m.: ਬੱਚਾ, ਜਵਾਨ, ਰਾਜਕੁਮਾਰ; कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ്യ ਦਾ ਉਪਨਾਮ
 
 ::: media
-![](/images/lekt4805.jpg)
+![](/images/lekt4805.webp)
 ਚਿੱਤਰ: कुमारः
 Thaipusam-ਉਤਸਵ = தைப்பூசம், Batu Caves, ਮਲੇਸ਼ੀਆ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4805))
@@ -3928,7 +3928,7 @@ Thaipusam-ਉਤਸਵ = தைப்பூசம், Batu Caves, ਮਲੇਸ�
 कुमारी f.: ਕੁੜੀ, ਧੀ
 
 ::: media
-![](/images/lekt4806.jpg)
+![](/images/lekt4806.webp)
 ਚਿੱਤਰ: कुमारी
 नेपाल
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4806))
@@ -3941,7 +3941,7 @@ Thaipusam-ਉਤਸਵ = தைப்பூசம், Batu Caves, ਮਲੇਸ�
 स्थविर 3: ਬੁੱਢਾ, ਬੁਢਾਪਾ
 
 ::: media
-![](/images/lekt4807.jpg)
+![](/images/lekt4807.webp)
 ਚਿੱਤਰ: स्थविराः
 जोधपुर
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4807))
@@ -3954,7 +3954,7 @@ Thaipusam-ਉਤਸਵ = தைப்பூசம், Batu Caves, ਮਲੇਸ�
 सूक्ष्म 3: ਬਾਰੀਕ, ਬਹੁਤ ਛੋਟਾ, ਸੂਖਮ
 
 ::: media
-![](/images/lekt4808.jpg)
+![](/images/lekt4808.webp)
 ਚਿੱਤਰ: सूक्ष्मम्
 Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4808))
@@ -3971,7 +3971,7 @@ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 जाया f.: ਪਤਨੀ
 
 ::: media
-![](/images/lekt4809.jpg)
+![](/images/lekt4809.webp)
 ਚਿੱਤਰ: मम जाया
 (ਚਿੱਤਰ: Payer)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4809))
@@ -4037,7 +4037,7 @@ Inf. द्रोग्धुम्
 कुलूहल n.: ਦਿਲਚਸਪੀ, ਰੁਚੀ
 
 ::: media
-![](/images/lekt4901.jpg)
+![](/images/lekt4901.webp)
 Abb.: कुलूहलम्
 (Bildquelle: [Details](/pa/licenses#lekt4901))
 :::
@@ -4048,7 +4048,7 @@ Abb.: कुलूहलम्
 कला f.: ਕਲਾ
 
 ::: media
-![](/images/lekt4902.jpg)
+![](/images/lekt4902.webp)
 Abb.: उत्तमा काला
 शिवो नटराजा, 11. ਸਦੀ
 (Bildquelle: [Details](/pa/licenses#lekt4902))
@@ -4067,7 +4067,7 @@ Abb.: विहंगः
 वेष m.: ਕੱਪੜਾ, ਦਿੱਖ, ਬਾਹਰੀ ਰੂਪ
 
 ::: media
-![](/images/lekt4904.jpg)
+![](/images/lekt4904.webp)
 Abb.: वेषः
 वाराणस्याम्
 (Bildquelle: [Details](/pa/licenses#lekt4904))
@@ -4077,7 +4077,7 @@ Abb.: वेषः
 पञ्जर n.: ਪੰਜਰ
 
 ::: media
-![](/images/lekt4909.jpg)
+![](/images/lekt4909.webp)
 Abb.: पञ्जरम्
 ਭਵਿੱਖਬਾਣੀ ਕਰਨ ਵਾਲਾ ਤੋਤਾ ਪੰਜਰ ਵਿੱਚ: ਤੋਤਾ ਛੋਟੇ ਕਾਗਜ਼ ਖਿੱਚਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਉੱਤੇ ਭਾਗ्य ਲਿਖਿਆ ਹੁੰਦਾ ਹੈ, ਮਈਸੋਰ
 (Bildquelle: [Details](/pa/licenses#lekt4909))
@@ -4105,7 +4105,7 @@ Gerundiv ध्येय
 आदर m.: ਸਨਮਾਨ, ਧਿਆਨ, ਸਤਿਕਾਰ
 
 ::: media
-![](/images/lekt4905.jpg)
+![](/images/lekt4905.webp)
 Abb.: सादरः
 ਅੰਮ੍ਰਿਤਸਰ = ਅੰਮ੍ਰਿਤਸਰ
 (Bildquelle: [Details](/pa/licenses#lekt4905))
@@ -4117,7 +4117,7 @@ Abb.: सादरः
 शिशु m.: ਬੱਚਾ, ਬੱਚਾ
 
 ::: media
-![](/images/lekt4906.jpg)
+![](/images/lekt4906.webp)
 Abb.: गजशिशुः
 ਸ੍ਰੀ ਲੰਕਾ
 (Bildquelle: [Details](/pa/licenses#lekt4906))
@@ -4223,14 +4223,14 @@ PPP वृष्ट
 कल्याण 3 (f.: कल्याणी) :ਸੁੰਦਰ
 
 ::: media
-![](/images/lekt5003.jpg)
+![](/images/lekt5003.webp)
 ਚਿੱਤਰ: कल्याणी
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5003))
 :::
 कु- : ਕੰਪੋਜ਼ਿਟਾ ਦੇ ਅਗਲੇ ਭਾਗ ਵਜੋਂ: ਬੁਰਾ
 
 ::: media
-![](/images/lekt5004.jpg)
+![](/images/lekt5004.webp)
 ਚਿੱਤਰ: कुनगरम्
 धारावी, मुंबई
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5004))
@@ -4255,7 +4255,7 @@ PPP वृष्ट
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
 
 ::: media
-![](/images/lekt5105.jpg)
+![](/images/lekt5105.webp)
 ਚਿੱਤਰ:
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5105))
 :::
@@ -4284,7 +4284,7 @@ PPP वृष्ट
 जटा f.: ਵਾਲਾਂ ਦੀ ਟੋਕਰੀ (ਸ਼ਰਧਾਲੂ ਦਾ ਵਾਲਾਂ ਦਾ ਵਿੰਗ)
 
 ::: media
-![](/images/lekt5107.jpg)
+![](/images/lekt5107.webp)
 ਚਿੱਤਰ: जटा
 ऋषिकेश
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5107))
@@ -4339,7 +4339,7 @@ Pass. विशिष्यते : ਵੱਖ ਹੋਣਾ (पञ्चम्�
 पिशित ਨ.: (ਤਿਆਰ ਕੀਤਾ) ਮਾਸ
 
 ::: media
-![](/images/lekt5108.jpg)
+![](/images/lekt5108.webp)
 ਚਿੱਤਰ: पिशितम्
 ਕੋਲਕਾਤਾ = কলকাতা
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5108))
@@ -4349,7 +4349,7 @@ Pass. विशिष्यते : ਵੱਖ ਹੋਣਾ (पञ्चम्�
 मधु ਨ.: ਸ਼ਹਿਦ, ਮਿੱਠਾ ਪਾਨ, ਮੈਧੁਨ (ਸ਼ਹਿਦ ਦਾ ਸ਼ਰਾਬ)
 
 ::: media
-![](/images/lekt5109.jpg)
+![](/images/lekt5109.webp)
 ਚਿੱਤਰ: मधु
 ਸ਼ਹਿਰ ਮਹਿਲ, उदयपुर
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5109))
@@ -4359,7 +4359,7 @@ Pass. विशिष्यते : ਵੱਖ ਹੋਣਾ (पञ्चम्�
 मृगया ਸ਼.: ਸ਼ਿਕਾਰ
 
 ::: media
-![](/images/lekt5110.jpg)
+![](/images/lekt5110.webp)
 ਚਿੱਤਰ: मृगया
 ਸ਼ਿਕਾਰ चीता (_Acinonyx jubatus venaticus_) ਨਾਲ ਗੁਜਰਾਤ = ગુજરાત, 1812
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5110))
@@ -4367,7 +4367,7 @@ Pass. विशिष्यते : ਵੱਖ ਹੋਣਾ (पञ्चम्�
 शिवा ਸ਼.: (ਸਤੀ) ਜਕਾਇ (ਸੁਨਹਿਰੀ ਜਕਾਇ = _Canis aureus_)
 
 ::: media
-![](/images/lekt5111.jpg)
+![](/images/lekt5111.webp)
 ਚਿੱਤਰ: शिवा
 _Canis aureus_, ਕਲਾਤੋਪ ਖਜ਼ੀਆਰ ਸੈਂਕਚੁਅਰੀ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5111))
@@ -4377,7 +4377,7 @@ _Canis aureus_, ਕਲਾਤੋਪ ਖਜ਼ੀਆਰ ਸੈਂਕਚੁਅਰ�
 कौशिक ਪੁ.: ਉਲਕਾ
 
 ::: media
-![](/images/lekt5112.jpg)
+![](/images/lekt5112.webp)
 ਚਿੱਤਰ: कौशिकः
 ਬ੍ਰਹਮਾ-ਉਲਕਾ (_Athene brama_), ਮਹੇਸ਼ਨਾ = મહેસાણા
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5112))
@@ -4407,7 +4407,7 @@ _Canis aureus_, ਕਲਾਤੋਪ ਖਜ਼ੀਆਰ ਸੈਂਕਚੁਅਰ�
 आपान(क) ਨ.: ਮਦੀਰਾ ਪੀਣ ਦਾ ਸਮਾਰੋਹ
 
 ::: media
-![](/images/lekt5114.jpg)
+![](/images/lekt5114.webp)
 ਚਿੱਤਰ: आपानकम्
 जोधपुर
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5114))
@@ -4427,7 +4427,7 @@ _Canis aureus_, ਕਲਾਤੋਪ ਖਜ਼ੀਆਰ ਸੈਂਕਚੁਅਰ�
 विष ਨ.: ਜ਼ਹਿਰ
 
 ::: media
-![](/images/lekt5115.jpg)
+![](/images/lekt5115.webp)
 ਚਿੱਤਰ: मूषिकाविषाणि
 ਬੈਂਗਲੁਰੂ = ಬೆಂಗಳೂರು
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5115))
@@ -4435,7 +4435,7 @@ _Canis aureus_, ਕਲਾਤੋਪ ਖਜ਼ੀਆਰ ਸੈਂਕਚੁਅਰ�
 भुजंग ਪੁ.: ਸੱਪ
 
 ::: media
-![](/images/lekt5116.jpg)
+![](/images/lekt5116.webp)
 ਚਿੱਤਰ: भुजंगः
 ਚੇਨ ਸੱਪ (_Daboia russelii_), ਬੈਂਗਲੁਰੂ = ಬೆಂಗಳೂರು
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5116))
@@ -4461,7 +4461,7 @@ _Canis aureus_, ਕਲਾਤੋਪ ਖਜ਼ੀਆਰ ਸੈਂਕਚੁਅਰ�
 मणि ਪੁ.: ਰਤਨ
 
 ::: media
-![](/images/lekt5118.jpg)
+![](/images/lekt5118.webp)
 ਚਿੱਤਰ: मणिः
 ਹੋਪ ਡਾਇਮੰਡ ਗੁੰਤੂਰ = గుంటూਰ ਤੋਂ, ਹੁਣ ਸਮਿਥਸੋਨੀਅਨ ਮਿਊਜ਼ੀਅਮ ਆਫ਼ ਨੈਚੁਰਲ ਹਿਸਟਰੀ, ਵਾਸ਼ਿੰਗਟਨ ਡੀ.ਸੀ.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5118))
@@ -4471,7 +4471,7 @@ _Canis aureus_, ਕਲਾਤੋਪ ਖਜ਼ੀਆਰ ਸੈਂਕਚੁਅਰ�
 मद ਪੁ.: "ਮੁਸ਼ਤ" ਦਾ ਅਰਥ ਵੀ "ਮੁਸ਼ਤ" (ਇਲੈਫੈਂਟ ਦੇ [ਮੁਸ਼ਤ](http://en.wikipedia.org/wiki/Musth)) ਵਿੱਚ
 
 ::: media
-![](/images/lekt5117.jpg)
+![](/images/lekt5117.webp)
 ਚਿੱਤਰ: मदः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5117))
 :::
@@ -4508,7 +4508,7 @@ _Canis aureus_, ਕਲਾਤੋਪ ਖਜ਼ੀਆਰ ਸੈਂਕਚੁਅਰ�
 :::
 
 ::: media
-![](/images/lekt5210.jpg)
+![](/images/lekt5210.webp)
 ਚਿੱਤਰ: खिलः
 ਤੰਬਹੋਲ, ਅਕੋਲੇ, ਅਹਿਮਦਨਗਰ = अहमदनगर
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5210))
@@ -4542,7 +4542,7 @@ PPP विपरीत 3: ਗਲਤ, ਭੁਲੇਖਾ
 पीड् 10P पीडयति: ਦਬਾਉਣਾ, ਤੰਗ ਕਰਨਾ; ਤੰਗ ਕਰਨਾ, ਘੇਰਾਵਣਾ, ਸਿਰ ਚੜ੍ਹਨਾ
 
 ::: media
-![](/images/lekt5212.jpg)
+![](/images/lekt5212.webp)
 ਚਿੱਤਰ: पीडिताः
 ਹੈਦਰਾਬਾਦ = ਹੈਦਰਾਬਾਦ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5212))
@@ -4560,7 +4560,7 @@ PPP विपरीत 3: ਗਲਤ, ਭੁਲੇਖਾ
 प्रधान 3: ਮੁੱਖ, ਸਭ ਤੋਂ ਵਧੀਆ; n.: ਸਭ ਤੋਂ ਮਹੱਤਵਪੂਰਨ
 
 ::: media
-![](/images/lekt5213.jpg)
+![](/images/lekt5213.webp)
 ਚਿੱਤਰ: प्रधानः
 मुंबई
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5213))
@@ -4671,7 +4671,7 @@ PPP च्युत
 चक्र n.: ਚੱਕਰ
 
 ::: media
-![](/images/lekt5214.jpg)
+![](/images/lekt5214.webp)
 ਚਿੱਤਰ: चक्रम्
 ਕੋਨਾਰਕ = कोनार्क
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5214))
@@ -4679,7 +4679,7 @@ PPP च्युत
 कदली f.: ਕੇਲੇ ਦਾ ਪੌਦਾ (_Musa_ sp.)
 
 ::: media
-![](/images/lekt5208.jpg)
+![](/images/lekt5208.webp)
 ਚਿੱਤਰ: कदली
 ਹੰਪੀ = ಹಂಪೆ
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5208))
@@ -4695,7 +4695,7 @@ PPP च्युत
 मल m.n.: ਗੰਦਗੀ, ਦੋਸ਼
 
 ::: media
-![](/images/lekt5215.jpg)
+![](/images/lekt5215.webp)
 ਚਿੱਤਰ: मलम्
 मुंबई
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5215))
@@ -4705,7 +4705,7 @@ PPP च्युत
 मार m.: ਵਿਅਕਤੀਕ੍ਰਿਤ ਬੁਰਿਆਈ, ਵਿਅਕਤੀਕ੍ਰਿਤ ਮੋਹ/ਮਨੋਰਥ, ਸ਼ੈਤਾਨ
 
 ::: media
-![](/images/lekt5217.jpg)
+![](/images/lekt5217.webp)
 ਚਿੱਤਰ:
 ਅਮਰਾਵਤੀ = అమరావతి, 2. ਸਦੀ ਈ.
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5217))

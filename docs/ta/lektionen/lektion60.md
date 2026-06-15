@@ -213,11 +213,11 @@ status: நிலையானது
 பெயர்ச்சொல் வகைமைகள் கீழே கியல்ஹோர்ன், Grammatik § 124:
 
 ::: media
-![](/images/lekt6001.jpg)
+![](/images/lekt6001.webp)
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt6001))
 :::
 ::: media
-![](/images/lekt6002.jpg)
+![](/images/lekt6002.webp)
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt6002))
 :::
 
@@ -253,11 +253,11 @@ status: நிலையானது
 ####  விகாரணைகள் கீழ்க்காணும் கியல்ஹோர்ன், இலக்கணம் § 128:
 
 ::: media
-![](/images/lekt6003.jpg)
+![](/images/lekt6003.webp)
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt6003))
 :::
 ::: media
-![](/images/lekt6004.jpg)
+![](/images/lekt6004.webp)
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt6004))
 :::
 இங்கு அடங்குவன:
@@ -402,7 +402,7 @@ status: நிலையானது
 Kielhorn, Grammatik § 452-இல் பட்டியல்:
 
 ::: ஊடகம்
-![](/images/lekt6006.jpg)
+![](/images/lekt6006.webp)
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt6006))
 :::
 
@@ -448,15 +448,15 @@ P: यियक्षति "அவர் வேறு ஒருவருக்�
 A) கீல்ஹோர்ன், இலக்கணம் § 451-ல், இதுவரை கற்ற வினைச்சொற்களுக்கு வரையறுக்கப்படாத விருப்பப் படிவங்களைக் கற்றுக்கொள்ளுங்கள்:
 
 ::: media
-![](/images/lekt6007.jpg)
+![](/images/lekt6007.webp)
 (படம்: [விவரங்கள்](/ta/licenses#lekt6007))
 :::
 ::: media
-![](/images/lekt6008.jpg)
+![](/images/lekt6008.webp)
 (படம்: [விவரங்கள்](/ta/licenses#lekt6008))
 :::
 ::: media
-![](/images/lekt6009.jpg)
+![](/images/lekt6009.webp)
 (படம்: [விவரங்கள்](/ta/licenses#lekt6009))
 :::
 B) உதவிக் கருவிகள் இன்றி பின்வரும் படிவங்களைக் கண்டறிந்து மொழிபெயர்க்கவும்:

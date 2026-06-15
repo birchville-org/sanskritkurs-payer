@@ -223,7 +223,7 @@ de la care:
 धान्य n: grâu batut
 
 ::: media
-![](/images/lekt2501.jpg)
+![](/images/lekt2501.webp)
 Fig.: धान्यम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2501))
 :::
@@ -310,7 +310,7 @@ de la care:
 मूल n.: rădăcină
 
 ::: media
-![](/images/lekt2502.jpg)
+![](/images/lekt2502.webp)
 Fig.: मूलानि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2502))
 :::
@@ -330,7 +330,7 @@ de la care:
 :::
 
 ::: media
-![](/images/lekt2503.jpg)
+![](/images/lekt2503.webp)
 Fig.: लिप्तिः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2503))
 :::
@@ -355,7 +355,7 @@ de la care:
 :::
 
 ::: media
-![](/images/lekt2504.jpg)
+![](/images/lekt2504.webp)
 Fig.: विवाहः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2504))
 :::
@@ -374,7 +374,7 @@ de la care:
 विष्टि f.: muncă, muncă forțată
 
 ::: media
-![](/images/lekt2505.jpg)
+![](/images/lekt2505.webp)
 Fig.: विष्टिः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2505))
 :::
@@ -402,7 +402,7 @@ din:
 हिरण्य ३ : auriu ; n.: aur, bani, bogăție
 
 ::: media
-![](/images/lekt2506.jpg)
+![](/images/lekt2506.webp)
 Fig.: हिरण्यम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2506))
 :::
@@ -461,7 +461,7 @@ B) Traduceți și rezolvați compusele în sanscrită:
 लोकादधिको हरिः ॥१७॥ (हरi m. = विष्णु / कृष्ण)
 
 ::: media
-![](/images/lekt2507.jpg)
+![](/images/lekt2507.webp)
 Fig.: लोकादधिको हरिः
 :::
 

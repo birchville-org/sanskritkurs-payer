@@ -73,7 +73,7 @@ Cogitationes Psittaci **वैशम्पायन** de vita venatoria:
 > Et mihi in mentem venit: O, vita eorum [venatorum] praecipue ex ignorantia constat, et conversatio eorum a bonis vituperatur. Ita enim: humanam carnem pro vera religione offerre putant; cibus eorum est a bonis vituperatus melli vinum, caro et similia; studium eorum est venatio; doctrina eorum est ululatus scopa rum; strigae sunt magistri eorum boni et mali; sapientia eorum est ornithologia; familiares eorum sunt canes; regnum eorum est in silvis vacuis; festum eorum est ebrietas; amici eorum sunt arcus, quae crudelia facinora perficiunt; socii eorum sunt sagittae, quarum cacumen veneno est unctum ut serpentes; cantus eorum perniciem affert erranti praedae; uxores eorum sunt puellae iuvenes ab aliis raptae; cum tigribus crudelibus habitant; sanguine animalium deos colunt; carnem ut victimas offerunt; de praeda vivunt; ornamenta eorum sunt lapides pretiosi serpentium; membra eorum sudore elephantorum silvestrium in calore coeundi unguunt; omnem silvam, in qua consistunt, radicitus evertunt – Ego haec cogitans, dux Śabaram ad me intravit.
 
 ::: media
-![](/images/uebung086.jpg)
+![](/images/uebung086.webp)
 Fig.: Venator
 (Fons imaginis: [Detalia](/licenses#uebung086))
 :::

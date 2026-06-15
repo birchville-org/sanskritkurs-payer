@@ -43,7 +43,7 @@ a) Sufixul कृत् \-Ø
 :::
 
 ::: media
-![](/images/lekt5101.jpg)
+![](/images/lekt5101.webp)
 Fig.: भूमिभुज्
 ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5101))
@@ -72,7 +72,7 @@ b) Sufixul कृत् -t
 ::::
 
 ::: media
-![](/images/lekt5103.jpg)
+![](/images/lekt5103.webp)
 Fig.: पापकृत्
 भरतपुर, राजस्थान
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5103))
@@ -102,7 +102,7 @@ c) Sufixul कृत् -a
 :::
 
 ::: media
-![](/images/lekt5102.jpg)
+![](/images/lekt5102.webp)
 Fig.: द्विपो द्विर्पिबति : हस्तेन च मुखेन च
 नेपाल
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5102))
@@ -271,7 +271,7 @@ Loc. परिव्राट्सु
 ::::
 
 ::: media
-![](/images/lekt5104.jpg)
+![](/images/lekt5104.webp)
 Fig.: परिव्राट्
 पुष्कर
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5104))
@@ -377,7 +377,7 @@ ex. छिद् » चिच्छेद
 > **Mamiferele lumii lui Walker** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- p. 1193f.
 
 ::: media
-![](/images/lekt5105.jpg)
+![](/images/lekt5105.webp)
 Fig.:
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5105))
 :::
@@ -406,7 +406,7 @@ Fig.: ऋतुः
 जटा f.: coadă de cal (coafură a ascetului)
 
 ::: media
-![](/images/lekt5107.jpg)
+![](/images/lekt5107.webp)
 Fig.: जटा
 ऋषिकेश
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5107))
@@ -461,7 +461,7 @@ PPP गर्हित
 पिशित n.: (preparat) carne
 
 ::: media
-![](/images/lekt5108.jpg)
+![](/images/lekt5108.webp)
 Fig.: पिशितम्
 Kolkata = কলকাতা
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5108))
@@ -471,7 +471,7 @@ Kolkata = কলকাতা
 मधु n.: miere, băutură dulce, hidromel (vin de miere)
 
 ::: media
-![](/images/lekt5109.jpg)
+![](/images/lekt5109.webp)
 Fig.: मधु
 Palatul Orașului, उदयपुर
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5109))
@@ -481,7 +481,7 @@ Palatul Orașului, उदयपुर
 मृगया f.: vânătoare
 
 ::: media
-![](/images/lekt5110.jpg)
+![](/images/lekt5110.webp)
 Fig.: मृगया
 Vânătoare cu चीता (_Acinonyx jubatus venaticus\") Gujarat = ગુજરાત, 1812
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5110))
@@ -489,7 +489,7 @@ Vânătoare cu चीता (_Acinonyx jubatus venaticus\") Gujarat = ગુજ�
 शिवा f.: (fem.) șacal (șacal auriu = _Canis aureus\")
 
 ::: media
-![](/images/lekt5111.jpg)
+![](/images/lekt5111.webp)
 Fig.: शिवा
 _Canis aureus\", Sanctuarul Kalatop Khajjiar
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5111))
@@ -499,7 +499,7 @@ _Canis aureus\", Sanctuarul Kalatop Khajjiar
 कौशिक m.: bufniță
 
 ::: media
-![](/images/lekt5112.jpg)
+![](/images/lekt5112.webp)
 Fig.: कौशिकः
 Bufnița lui Brahma (_Athene brama\"), Mahesana = મહેસાણા
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5112))
@@ -529,7 +529,7 @@ Karnataka = ಕರ್ನಾಟક
 आपान(क) n.: petrecere, beție
 
 ::: media
-![](/images/lekt5114.jpg)
+![](/images/lekt5114.webp)
 Fig.: आपानकम्
 जोधपुर
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5114))
@@ -549,7 +549,7 @@ PPP दिग्ध
 विष n.: venin
 
 ::: media
-![](/images/lekt5115.jpg)
+![](/images/lekt5115.webp)
 Fig.: मूषिकाविषाणि
 Bangalore = ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5115))
@@ -557,7 +557,7 @@ Bangalore = ಬೆಂಗಳೂರು
 भुजंग m: șarpe
 
 ::: media
-![](/images/lekt5116.jpg)
+![](/images/lekt5116.webp)
 Fig.: भुजंगः
 Vipera lanț (_Daboia russelii\"), Bangalore = ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5116))
@@ -583,7 +583,7 @@ Vipera lanț (_Daboia russelii\"), Bangalore = ಬೆಂಗಳೂರು
 मणि m.: bijuterie
 
 ::: media
-![](/images/lekt5118.jpg)
+![](/images/lekt5118.webp)
 Fig.: मणिः
 Diamantul Hope din Guntur = ગુંતૂર, astăzi Muzeul Național de Istorie Naturală Smithsonian, Washington DC
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5118))
@@ -593,7 +593,7 @@ Diamantul Hope din Guntur = ગુંતૂર, astăzi Muzeul Național de Isto
 मद m.: de asemenea „suc de rută” al unui elefant (în [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
-![](/images/lekt5117.jpg)
+![](/images/lekt5117.webp)
 Fig.: मदः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5117))
 :::

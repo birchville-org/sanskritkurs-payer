@@ -103,7 +103,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt4501.jpg)
+![](/images/lekt4501.webp)
 Рис.: भवति किं करोषि
 (Джерело зображення: [Деталі](/uk/licenses#lekt4501))
 :::

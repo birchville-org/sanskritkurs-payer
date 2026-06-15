@@ -81,7 +81,7 @@ Gli dèi si adirano con questi brāhmaṇa, che non loro rendevano venerazione.
 Per morire, gli esseri viventi nascono.
 
 ::: media
-![](/images/uebung037.jpg)
+![](/images/uebung037.webp)
 Fig.: मरणाय जना जायन्ते
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung037))
 :::
@@ -156,7 +156,7 @@ E) Sostituire nella frase B) 6 il dativo con una costruzione con **-अर्थ
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung038.jpg)
+![](/images/uebung038.webp)
 Fig.: इदं फलं अलं खादनाय
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung038))
 :::

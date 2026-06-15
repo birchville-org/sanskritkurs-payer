@@ -213,11 +213,11 @@ Example: विदुषी "a knowing one"
 Paradigms see Kielhorn, Grammar § 124:
 
 ::: media
-![](/images/lekt6001.jpg)
+![](/images/lekt6001.webp)
 (Image source: [Details](/en/licenses#lekt6001))
 :::
 ::: media
-![](/images/lekt6002.jpg)
+![](/images/lekt6002.webp)
 (Image source: [Details](/en/licenses#lekt6002))
 :::
 
@@ -253,11 +253,11 @@ Example: प्रतीची
 ####  Paradigms see Kielhorn, Grammar § 128:
 
 ::: media
-![](/images/lekt6003.jpg)
+![](/images/lekt6003.webp)
 (Image source: [Details](/en/licenses#lekt6003))
 :::
 ::: media
-![](/images/lekt6004.jpg)
+![](/images/lekt6004.webp)
 (Image source: [Details](/en/licenses#lekt6004))
 :::
 Here belong:
@@ -402,7 +402,7 @@ See Kielhorn, Grammar §§ 443 - 445 for the rules on the use of the connecting 
 List in Kielhorn, Grammar § 452:
 
 ::: media
-![](/images/lekt6006.jpg)
+![](/images/lekt6006.webp)
 (Image source: [Details](/en/licenses#lekt6006))
 :::
 
@@ -448,15 +448,15 @@ For the formation of agent nouns in -u from the desiderative stem, see [Lesson 5
 A) Study in Kielhorn, Grammar § 451 the irregular desiderative formations for verbs learned so far:
 
 ::: media
-![](/images/lekt6007.jpg)
+![](/images/lekt6007.webp)
 (Image source: [Details](/en/licenses#lekt6007))
 :::
 ::: media
-![](/images/lekt6008.jpg)
+![](/images/lekt6008.webp)
 (Image source: [Details](/en/licenses#lekt6008))
 :::
 ::: media
-![](/images/lekt6009.jpg)
+![](/images/lekt6009.webp)
 (Image source: [Details](/en/licenses#lekt6009))
 :::
 B) Determine and translate the following forms without aids:

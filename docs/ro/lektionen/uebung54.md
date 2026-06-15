@@ -39,7 +39,7 @@ Formați corespunzătoarele forme de aorist pentru următoarele forme de prezent
 :::
 
 ::: media
-![](/images/uebung093.jpg)
+![](/images/uebung093.webp)
 Fig.: अगायि
 (Sursa imaginii: [Detalii](/licenses#uebung093))
 :::

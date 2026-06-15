@@ -2,7 +2,7 @@
 
 ## Ejercicio de escritura 3
 
-![](/images/schrift005.jpg)
+![](/images/schrift005.webp)
 
 ## Ejercicio
 

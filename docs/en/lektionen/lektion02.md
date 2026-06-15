@@ -160,7 +160,7 @@ According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distr
 The four estates (**varṇa** m.) are often confused with castes. However, the four estates are -- in contrast to castes -- not specifically Indian; in Europe, we also had (partly up to the First World War) an estate system, as the following illustration from the 15th century confirms:
 
 ::: media
-![](/images/lekt0201.jpg)
+![](/images/lekt0201.webp)
 Fig.: Representation of the estate division of the European Middle Ages (woodcut from the late 15th century).
 (Image source: [Details](/en/licenses#lekt0201))
 :::
@@ -212,7 +212,7 @@ Fig.: God Agni, Miniature, 18th century.
 **sādhu** m. -- साधु : "holy" man, Sādhu.
 
 ::: media
-![](/images/lekt0202.jpg)
+![](/images/lekt0202.webp)
 Fig.: Sādhu (साधु), Pashupatinath Temple, Kathmandu.
 (Image source: [Details](/en/licenses#lekt0202))
 :::

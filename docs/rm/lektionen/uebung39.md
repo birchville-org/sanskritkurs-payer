@@ -106,7 +106,7 @@ A) Formai las formas da la emprimas persuna, che correspundan a las suandantas f
 :::
 
 ::: media
-![](/images/uebung064.jpg)
+![](/images/uebung064.webp)
 Imag.: आगारे सीदामः
 (Sursa d’imaginas: [Detagls](/licenses#uebung064))
 :::

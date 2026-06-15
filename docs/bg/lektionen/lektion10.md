@@ -260,7 +260,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Изд. от �
 :::
 
 ::: media
-![](/images/lekt1003.jpg)
+![](/images/lekt1003.webp)
 Ил.: वरुणः
 (Източник на изображението: [Подробности](/bg/licenses#lekt1003))
 :::

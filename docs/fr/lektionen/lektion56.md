@@ -180,7 +180,7 @@ Exemples :
 :::
 
 ::: media
-![](/images/lekt5602.jpg)
+![](/images/lekt5602.webp)
 Fig. : क्लैब्यं मा स्म गमः
 Affiche (Ernesto Che Guevara) d’un parti politique à Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). « La traduction approximative de ce qui y est écrit serait : Le martyre est une expérience fascinante pour un révolutionnaire. Et une ressource intimidante pour un lâche. Che n’est pas un modèle à suivre pour les peureux. »
 (Source de l’image : [Détails](/fr/licenses#lekt5602))
@@ -207,7 +207,7 @@ Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt; : Sanskrit sytax. -- Leyde : B
 ::::
 
 ::: media
-![](/images/lekt5603.jpg)
+![](/images/lekt5603.webp)
 Fig. : अलं  विषादेन
 (Source de l’image : [Détails](/fr/licenses#lekt5603))
 :::

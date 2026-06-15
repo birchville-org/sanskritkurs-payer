@@ -29,7 +29,7 @@ status: stable
 :::
 
 ::: media
-![lekt4005.jpg](/images/lekt4005.jpg)
+![lekt4005.jpg](/images/lekt4005.webp)
 अभ.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 (चित्रस्रोत: [विवरण](/hi/licenses#lekt4005))
 :::
@@ -522,7 +522,7 @@ status: stable
 :::
 
 ::: media
-![lekt4003.jpg](/images/lekt4003.jpg)
+![lekt4003.jpg](/images/lekt4003.webp)
 चित्रम्: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (चित्रस्रोतः: [विवरणम्](/hi/licenses#lekt4003))
 :::
@@ -532,7 +532,7 @@ status: stable
 :::
 
 ::: media
-![lekt4002.jpg](/images/lekt4002.jpg)
+![lekt4002.jpg](/images/lekt4002.webp)
 चित्रम्: ⟪तीर्थङ्करः⟫
 (चित्रस्रोतः: [विवरणम्](/hi/licenses#lekt4002))
 :::
@@ -548,7 +548,7 @@ status: stable
 :::
 
 ::: media
-![lekt4001.jpg](/images/lekt4001.jpg)
+![lekt4001.jpg](/images/lekt4001.webp)
 चित्रम्: ⟪विष्णोर्दशावताराः⟫
 (चित्रस्रोतः: [विवरणम्](/hi/licenses#lekt4001))
 :::
@@ -572,7 +572,7 @@ status: stable
 :::
 
 ::: media
-![lekt4004.jpg](/images/lekt4004.jpg)
+![lekt4004.jpg](/images/lekt4004.webp)
 चित्रम्: ⟪स्वपन्ति⟫
 (चित्रस्रोतः: [विवरणम्](/hi/licenses#lekt4004))
 :::

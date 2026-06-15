@@ -160,7 +160,7 @@ Sut la teoria classica (p. ex. Manusmṛti I, 88-91) èn las activitads distribu
 Las quatter classas (**varṇa** m.) vegnan spess confusas cun las castas. Las quatter classas èn però – en cuntrast cun las castas – nagut spezial indian, er en Europa avain nus (fin en part fin la Prima Guerra mundiala) ina structura da classas, sco che la suandanta illustraziun dal 15avel tschientaner mussa:
 
 ::: media
-![](/images/lekt0201.jpg)
+![](/images/lekt0201.webp)
 Abb.: Representaziun da la distribuziun da classas dal temp medieval europeic (xilografia da la fin dal 15avel tschientaner).
 (Font da l’imagine: [Detagls](/rm/licenses#lekt0201))
 :::
@@ -212,7 +212,7 @@ Abb.: Dieu Agni, miniatura, 18. tschientaner.
 **sādhu** m. -- साधु : «sant» um, Sādhu.
 
 ::: media
-![](/images/lekt0202.jpg)
+![](/images/lekt0202.webp)
 Abb.: Sādhu (साधु), Tempel Pashupatinath, Kathmandu.
 (Sursa da l’imaginescha: [Detagl](/rm/licenses#lekt0202))
 :::

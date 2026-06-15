@@ -152,7 +152,7 @@ Wir wollen von dir geführt werden.
 Es möge zum Glück gereichen! (Segenswunsch)
 
 ::: media
-![](/images/uebung075.jpg)
+![](/images/uebung075.webp)
 Abb.: माद्यत
 (Bildquelle: [Details](/licenses#uebung075))
 :::

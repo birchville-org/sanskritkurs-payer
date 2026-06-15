@@ -27,7 +27,7 @@ Explanations:
 \-गु Neuter Nom./Acc. sg. to गो m.f. "cow"
 
 ::: media
-![](/images/lekt3801.jpg)
+![](/images/lekt3801.webp)
 Fig.: प्रज्ञा नश्यति मेहतः
 (Image source: [Details](/en/licenses#lekt3801))
 :::
@@ -98,7 +98,7 @@ Examples:
 ::::
 
 ::: media
-![](/images/lekt3803.jpg)
+![](/images/lekt3803.webp)
 Fig.: सीमा
 (Image source: [Details](/en/licenses#lekt3803))
 :::
@@ -204,7 +204,7 @@ Example:
 हस्तिन् m.: the one characterized by a special hand = the elephant (his hand is not an ordinary hand, but a trunk)
 
 ::: media
-![](/images/lekt3806.jpg)
+![](/images/lekt3806.webp)
 Fig.: हस्ती
 (Image source: [Details](/en/licenses#lekt3806))
 :::
@@ -212,7 +212,7 @@ Fig.: हस्ती
 हस्तवन्त् : one who has (human) hands
 
 ::: media
-![](/images/lekt3807.jpg)
+![](/images/lekt3807.webp)
 Fig.: हस्तवान्
 (Image source: [Details](/en/licenses#lekt3807))
 :::
@@ -308,7 +308,7 @@ Example:
 सूर्य m.: Sun, sun god Sūrya
 
 ::: media
-![](/images/lekt3802.jpg)
+![](/images/lekt3802.webp)
 Fig.: सूर्यः
 (Image source: [Details](/en/licenses#lekt3802))
 :::
@@ -317,7 +317,7 @@ Fig.: सूर्यः
 उदक n.: Water
 
 ::: media
-![](/images/lekt3805.jpg)
+![](/images/lekt3805.webp)
 Fig.: उदकम्
 (Image source: [Details](/en/licenses#lekt3805))
 :::
@@ -348,7 +348,7 @@ therefrom:
 :::
 
 ::: media
-![](/images/lekt3804.jpg)
+![](/images/lekt3804.webp)
 Fig.: गौतमबुद्धस्य महापरिनिर्वाणम्
 (Image source: [Details](/en/licenses#lekt3804))
 :::
@@ -392,7 +392,7 @@ from राज :
 ब्रह्मन् m.: the personally conceived creator god Brahmā
 
 ::: media
-![](/images/lekt3809.jpg)
+![](/images/lekt3809.webp)
 Fig.: ब्रह्मा
 (Image source: [Details](/en/licenses#lekt3809))
 :::
@@ -433,13 +433,13 @@ therefrom:
 :::
 
 ::: media
-![](/images/lekt3810.jpg)
+![](/images/lekt3810.webp)
 Fig.: अशोकवृक्षः
 (Image source: [Details](/en/licenses#lekt3810))
 :::
 
 ::: media
-![](/images/lekt3811.jpg)
+![](/images/lekt3811.webp)
 Fig.: अशोकसाम्राज्यम्
 (Image source: [Details](/en/licenses#lekt3811))
 :::
@@ -485,7 +485,7 @@ A) Insert the corresponding form of the words in parentheses in the following se
 विनोद m.: pastime, entertainment, pleasure
 
 ::: media
-![](/images/lekt3812.jpg)
+![](/images/lekt3812.webp)
 Fig.: विनोदः
 (Image source: [Details](/en/licenses#lekt3812))
 :::
@@ -516,7 +516,7 @@ Inf. तरितुम् । तरीतुम्
 तीर n.: shore
 
 ::: media
-![](/images/lekt3813.jpg)
+![](/images/lekt3813.webp)
 Fig.: वाराणस्यां गङ्गातीरे
 (Image source: [Details](/en/licenses#lekt3813))
 :::
@@ -535,7 +535,7 @@ Inf. गणयितुम्
 :::
 
 ::: media
-![](/images/lekt3814.jpg)
+![](/images/lekt3814.webp)
 Fig.: गणयां चक्रुः
 (Image source: [Details](/en/licenses#lekt3814))
 :::

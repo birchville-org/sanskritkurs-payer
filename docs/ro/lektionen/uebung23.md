@@ -108,7 +108,7 @@ Pentru că voia să audă despre dharma, brahmana a mers cu fiul ei în orașul 
 Mâncatul, somnul, frica și sexul sunt comune oamenilor cu animalele. Diferența distinctivă a oamenilor constă în dharma. Fără dharma, ei sunt egali cu animalele.
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 Fig.: आहारनिद्राभयमैथुनं च
 (Sursa imaginii: [Detalii](/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) Dați formele de bază (semnificație, clasa de prezent, modul, 3. sg. Prezen
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 Fig.: बालाः पिबन्ति
 (Sursa imaginii: [Detalii](/licenses#uebung036))
 :::

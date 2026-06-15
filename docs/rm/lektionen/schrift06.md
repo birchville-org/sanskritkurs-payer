@@ -2,7 +2,7 @@
 
 ## Esergizi da scritura 6
 
-![](/images/schrift009.jpg)
+![](/images/schrift009.webp)
 
 Per jha è er usitada la suandanta furma:
 

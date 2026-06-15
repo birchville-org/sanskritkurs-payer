@@ -89,7 +89,7 @@ Il **कलियुग** cumenzà vers l'onn 3102 avant Crist, l'onn dal **म�
 :::
 
 ::: media
-![](/images/lekt3101.jpg)
+![](/images/lekt3101.webp)
 Abb.: योगः
 Representaziun da Yoga.
 (Sursa da l'imagines: [Detagl](/rm/licenses#lekt3101))
@@ -138,7 +138,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt3102.jpg)
+![](/images/lekt3102.webp)
 Abb.: व्यञ्जनम्
 Preparaziun per il dansa Kathakali, Kochi.
 (Sursa da l'imagines: [Detagl](/rm/licenses#lekt3102))
@@ -184,7 +184,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt3103.jpg)
+![](/images/lekt3103.webp)
 Abb.: प्रज्ञापारमिता
 Aus einem Prajñāpāramitā-Manuskript.
 (Sursa da l'imagines: [Detagl](/rm/licenses#lekt3103))
@@ -214,7 +214,7 @@ Tancs dal 18esim regiment da cavalleria (Armada indiana) en moviment durant la g
 पुत्रो जातो बन्धनं जातमिति सुगतो मत्वा कुलबन्धनं भिनत्ति । ततो भग्नबन्धो मोक्षनयन्तीं प्रज्ञामाप्तुमर्हति ॥४॥
 
 ::: media
-![](/images/lekt3104.jpg)
+![](/images/lekt3104.webp)
 Fig.: राहुलो जातो बन्धनं जातम्
 Rāhula, der Sohn Buddhas, Laos.
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt3104))

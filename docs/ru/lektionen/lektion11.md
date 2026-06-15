@@ -69,7 +69,7 @@ status: stable
   - **vadana** ср. वदन : говорение; речевой инструмент: рот, лицо
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 Рис.: **vadanāni** = वदनानि, район Джалнапур, Бангладеш.
 (Источник изображения: [Details](/ru/licenses#lekt1102))
 :::
@@ -106,7 +106,7 @@ status: stable
 **D) Образуйте пассивный залог для предложений, полученных в пункте C).**
 
 ::: media
-![](/images/lekt1101.jpg)
+![](/images/lekt1101.webp)
 Рис.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
 (Источник изображения: [Details](/ru/licenses#lekt1101))
 :::
@@ -149,7 +149,7 @@ status: stable
 **E) Преобразуйте предложения C) 1-5 в активные конструкции.**
 
 ::: media
-![](/images/lekt1103.jpg)
+![](/images/lekt1103.webp)
 Рис.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
 (Источник изображения: [Details](/ru/licenses#lekt1103))
 :::

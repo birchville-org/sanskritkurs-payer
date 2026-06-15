@@ -99,7 +99,7 @@ Vous ne devez pas haïr ce qui est haïssable, ni être avide de ce qui est dés
 Vous pleurez ceux qui ne sont pas dignes de pleurs, et vous souhaitez proférer des paroles de sagesse ; pourtant, les sages ne pleurent ni les morts ni les vivants.
 
 ::: media
-![](/images/uebung072.jpg)
+![](/images/uebung072.webp)
 Fig. : मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति
 (Source de l’image : [Détails](/fr/licenses#uebung072))
 :::
@@ -156,7 +156,7 @@ Déterminez les formes de mot suivantes :
 :::
 
 ::: media
-![](/images/uebung073.jpg)
+![](/images/uebung073.webp)
 Fig. : वदिता
 (Source de l'image : [Détails](/fr/licenses#uebung073))
 :::

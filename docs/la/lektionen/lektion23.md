@@ -237,7 +237,7 @@ D) Traducite et resolvite composita:
 फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥
 
 ::: media
-![](/images/lekt2303.jpg)
+![](/images/lekt2303.webp)
 Fig.: फलवन्ति पुण्यानीति
 ทำบุญ = पुण्यकरणम्, Thailandia = ประเทศไทย
 (Fons imaginis: [Detalia](/la/licenses#lekt2303))
@@ -247,7 +247,7 @@ Fig.: फलवन्ति पुण्यानीति
 सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
 
 ::: media
-![](/images/lekt2301.jpg)
+![](/images/lekt2301.webp)
 Fig.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
 Chiang Mai, Thailandia = เชียงใหม่, ประเทศไทย
 (Fons imaginis: [Detalia](/la/licenses#lekt2301))
@@ -272,7 +272,7 @@ C) Sequens सुभाषितम् traducite:
 Explicatio: हीन ३: PPP ad हा 3: relinquere ; धर्मे = Locativus singularis "in ..."
 
 ::: media
-![](/images/lekt2302.jpg)
+![](/images/lekt2302.webp)
 Fig.: आहारनिद्राभयमैथुनं च
 Chittorgarh = चित्तौडगढ
 (Fons imaginis: [Detalia](/la/licenses#lekt2302))

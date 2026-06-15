@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-15
 # ਅਭਿਆਸ 59
 
 ::: media
-![](/images/uebung098.jpg)
+![](/images/uebung098.webp)
 ਚਿੱਤਰ: रावणः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/licenses#uebung098))
 :::
@@ -213,7 +213,7 @@ _ਅਨੁਵਾਦ ਸਹਾਇਤਾ:_ ਸ਼ਲੋਕ 6: दिदृक्�
 > अजिग्लपस् - ग्लै Kaus. Aor. 3
 
 :::: media
-![](/images/uebung099.jpg)
+![](/images/uebung099.webp)
 ਚਿੱਤਰ: रामस्य रावणेन युद्धः
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵੇਰਵੇ](/licenses#uebung099))
 :::

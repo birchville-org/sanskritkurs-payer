@@ -140,7 +140,7 @@ kiṃ kāraṇam?
 किं कारणम् ॥
 
 ::: media
-![](/images/uebung007.jpg)
+![](/images/uebung007.webp)
 Fig.: इमे योधाः किं कुर्वन्ति ।
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung007))
 :::
@@ -204,7 +204,7 @@ Il pappagallo vola.
 Il ragazzo scrive una lettera.
 
 ::: media
-![](/images/uebung008.jpg)
+![](/images/uebung008.webp)
 Fig.: कपिः फलं खदति
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung008))
 :::

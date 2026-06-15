@@ -59,7 +59,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2601.jpg)
+![](/images/lekt2601.webp)
 Ил.: Херман Грасман
 (Източник на изображението: [Подробности](/bg/licenses#lekt2601))
 :::
@@ -93,7 +93,7 @@ status: stable
 
 
 ::: media
-![](/images/lekt2602.jpg)
+![](/images/lekt2602.webp)
 Ил.: व्रतं करिष्यन्देवगृहं गच्छति
 (Източник на изображението: [Подробности](/bg/licenses#lekt2602))
 :::

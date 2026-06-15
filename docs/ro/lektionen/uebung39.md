@@ -106,7 +106,7 @@ A) Formați pentru următoarele forme verbale formele persoanei întâi, care co
 :::
 
 ::: media
-![](/images/uebung064.jpg)
+![](/images/uebung064.webp)
 Fig.: आगारे सीदामः
 (Sursă imagine: [Detalii](/licenses#uebung064))
 :::

@@ -35,13 +35,13 @@ lesson_id: 53
 ::::
 
 ::: media
-![](/images/lekt5301.jpg)
+![](/images/lekt5301.webp)
 ਅਲੰਕਾਰ: मार्जारयुगम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5301))
 :::
 
 ::: media
-![](/images/lekt5302.jpg)
+![](/images/lekt5302.webp)
 ਅਲੰਕਾਰ: हस्तौ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5302))
 :::
@@ -129,7 +129,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5305.jpg)
+![](/images/lekt5305.webp)
 ਚਿੱਤਰ: भरन्तौ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5305))
 :::
@@ -232,7 +232,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5306.jpg)
+![](/images/lekt5306.webp)
 ਚਿੱਤਰ: फले
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5306))
 :::
@@ -266,7 +266,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5307.jpg)
+![](/images/lekt5307.webp)
 ਚਿੱਤਰ: धेनू
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5307))
 :::
@@ -352,7 +352,7 @@ lesson_id: 53
 ::::
 
 ::: media
-![](/images/lekt5308.jpg)
+![](/images/lekt5308.webp)
 ਚਿੱਤਰ: पितापुत्रौ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5308))
 :::
@@ -488,7 +488,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5309.jpg)
+![](/images/lekt5309.webp)
 ਅੰ: द्राघीयो लिङ्गम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5309))
 :::

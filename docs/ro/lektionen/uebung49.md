@@ -55,7 +55,7 @@ Determinați următoarele forme:
 :::
 
 ::: media
-![](/images/uebung078.jpg)
+![](/images/uebung078.webp)
 Fig.: गायी
 (Sursa imaginii: [Detalii](/licenses#uebung078))
 :::
@@ -75,7 +75,7 @@ Fig.: गायी
 > Vaiśampāyana, însă, care fusese întrebat de Stăpânul Pământului cu o curiozitate spontană și cu mare respect, a reflectat o clipă și apoi a răspuns cu mare respect: „Rege, aceasta este o poveste lungă. Dacă te interesează, împrumută-mi urechea ta!”
 
 ::: media
-![](/images/uebung079.jpg)
+![](/images/uebung079.webp)
 Fig.: शुकः
 (Sursa imaginii: [Detalii](/licenses#uebung079))
 :::

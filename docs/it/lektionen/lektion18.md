@@ -271,7 +271,7 @@ Esempi:
 sam-kṛ + -a = संस्कार m.: consacrazione, preparazione; riti di transizione = termine per le cerimonie che accompagnano le varie fasi della vita, dal concepimento alla morte (si veda a riguardo l'eccellente sintesi di Basham, Meraviglie, pp. 160-170!)
 
 ::: media
-![](/images/lekt1804.jpg)
+![](/images/lekt1804.webp)
 Fig.: विवाहः
 Matrimonio = विवाह m., un importante संस्कारः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1804))
@@ -286,7 +286,7 @@ upa-nī + -ana = उपनयन n.: l'avvicinare (al fuoco sacrificale) = cerim
 Attraverso l'Upanayana avviene la seconda nascita, pertanto: द्विज । द्विजाति
 
 ::: media
-![](/images/lekt1801.jpg)
+![](/images/lekt1801.webp)
 Fig.: उपनयनम्
 "Un giovane ragazzo è visto durante il rituale di upanayana. Il filo giallo, sottile, che va dalla spalla sinistra alla vita è Yagnopaivta. Si noti anche la cintura di erba munja intorno alla vita. Il rametto nella mano destra (di solito dall'albero peepa) siginifica il suo ingresso in Brahmacharya."
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1801))
@@ -421,7 +421,7 @@ A) Risolvere i seguenti composti in sanscrito e fornire proposte di traduzione:
 ९. कुलोपदेश m.
 
 ::: media
-![](/images/lekt1802.jpg)
+![](/images/lekt1802.webp)
 Fig.: मृतिसाधनी काली
 1770 Stampa
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1802))
@@ -442,7 +442,7 @@ B) Tradurre utilizzando verbi della seconda classe di presente:
 6\. Così parla colui che [ha percorso bene il sentiero delle rinascite] all'allievo.
 
 ::: media
-![](/images/lekt1803.jpg)
+![](/images/lekt1803.webp)
 Fig.: सुगतः
 गन्धार 1./2. Sec. d.C.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1803))

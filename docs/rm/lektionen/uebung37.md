@@ -122,7 +122,7 @@ C) Determinar e traduscher las suandantas compositas:
 :::
 
 ::: media
-![](/images/uebung062.jpg)
+![](/images/uebung062.webp)
 Fig.: पुत्रे जात आर्यः सुखमाप्नोति
 (Sursa da l’imagines: [Detagls](/licenses#uebung062))
 :::

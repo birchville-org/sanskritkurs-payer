@@ -103,7 +103,7 @@ z.B. **देव, कवे, शत्रो, राजन्, पितर्**
 ::::
 
 ::: media
-![](/images/lekt4501.jpg)
+![](/images/lekt4501.webp)
 Abb.: भवति किं करोषि
 (Bildquelle: [Details](/licenses#lekt4501))
 :::

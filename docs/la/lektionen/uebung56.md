@@ -97,7 +97,7 @@ Formas sequentes determinate et vertite:
 :::
 
 ::: media
-![](/images/uebung091.jpg)
+![](/images/uebung091.webp)
 Fig.: जेरिम
 (Fons imaginis: [Detalia](/licenses#uebung091))
 

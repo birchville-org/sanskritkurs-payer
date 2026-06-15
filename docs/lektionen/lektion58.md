@@ -45,7 +45,7 @@ Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt.
 | **3. प्रथमः** | नृत्यतस् | नृत्येते् |
 
 ::: media
-![](/images/lekt5802.jpg)
+![](/images/lekt5802.webp)
 Abb.: नृत्यतः
 ओडिसी
 (Bildquelle: [Details](/licenses#lekt5802))
@@ -76,7 +76,7 @@ Abb.: नृत्यतः
 :::
 
 ::: media
-![](/images/lekt5803.jpg)
+![](/images/lekt5803.webp)
 Abb.: वानरौ रथाद्भाण्डानि चोरयतः
 Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 (Bildquelle: [Details](/licenses#lekt5803))
@@ -155,7 +155,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 :::
 
 ::: media
-![](/images/lekt5806.jpg)
+![](/images/lekt5806.webp)
 Abb.: उष्ट्रौ मरावितः
 (Bildquelle: [Details](/licenses#lekt5806))
 :::
@@ -170,7 +170,7 @@ Abb.: उष्ट्रौ मरावितः
 :::
 
 ::: media
-![](/images/lekt5804.jpg)
+![](/images/lekt5804.webp)
 Abb.: कन्ये अधीयते
 (Bildquelle: [Details](/licenses#lekt5804))
 :::
@@ -197,7 +197,7 @@ Abb.: कन्ये अधीयते
 :::
 
 ::: media
-![](/images/lekt5805.jpg)
+![](/images/lekt5805.webp)
 Abb.: भगिन्यौ स्वः
 (Bildquelle: [Details](/licenses#lekt5805))
 :::
@@ -236,7 +236,7 @@ Abb.: भगिन्यौ स्वः
 | **3. प्रथमः** | सुनुतस् | सुन्वाते |
 
 ::: media
-![](/images/lekt5807.jpg)
+![](/images/lekt5807.webp)
 Abb.: शर्कराम्बु सुनुतः
 पुणेनगरे
 (Bildquelle: [Details](/licenses#lekt5807))
@@ -297,7 +297,7 @@ Abb.: शर्कराम्बु सुनुतः
 | **3. प्रथमः** | क्रीणीतस् | क्रीणाते |
 
 ::: media
-![](/images/lekt5801.jpg)
+![](/images/lekt5801.webp)
 Abb.: स्त्रियौ शाकं क्रीणाते
 (Bildquelle: [Details](/licenses#lekt5801))
 :::
@@ -406,7 +406,7 @@ Paradigmen:
 :::
 
 ::: media
-![](/images/lekt5808.jpg)
+![](/images/lekt5808.webp)
 Abb.: दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥
 (Bildquelle: [Details](/licenses#lekt5808))
 :::

@@ -34,7 +34,7 @@ last_reconstructed: 2026-05-15
 19.  अचेतः - चित् 1P 2.sg.Impf.P ਤੁਸੀਂ ਸਮਝਿਆ - अचेतीः
 
 :::: media
-![](/images/uebung095.jpg)
+![](/images/uebung095.webp)
 ਚਿੱਤਰ: तब्लाः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/licenses#uebung095))
 :::
@@ -46,7 +46,7 @@ last_reconstructed: 2026-05-15
 ਹੇਠ ਲਿਖੇ ਰੂਪਾਂ ਦਾ ਨਿਰਦੇਸ਼ ਅਤੇ ਅਨੁਵਾਦ ਕਰੋ:
 
 ::: media
-![](/images/uebung097.jpg)
+![](/images/uebung097.webp)
 ਚਿੱਤਰ: मातुलङ्गविक्रेतायं ना ॥  
 ਪੁਣੇ - पुणे  
 \[ਤਸਵੀਰ ਦਾ ਸਰੋਤ: ਅਨੁਸ਼੍ਰੁਤੀ ਰਾਕੇਸ਼। -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/)। -- ਪ੍ਰਵੇਸ਼ ਦੀ ਤਰੀਕ: 2009-03-12। -- [ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਜ਼ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿਖਾਉਣਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਤਬਦੀਲੀ ਨਹੀਂ)\]
@@ -91,7 +91,7 @@ last_reconstructed: 2026-05-15
 38.  दद - दा 3U 2.pl.Perf.P ਤੁਸੀਂ ਦਿੱਤਾ
 39.  अञ्ज्वः - अञ्ज् 7P 1.du.Ind.Präs.P ਅਸੀਂ ਦੋਵੇਂ ਤੇਲ ਲਗਾਉਂਦੇ ਹਾਂ
 
-![](/images/uebung096.jpg)
+![](/images/uebung096.webp)
 ਚਿੱਤਰ: श्वा श्वानमघ्रात्
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵਿਸਤਾਰ](/licenses#uebung096))
 :::

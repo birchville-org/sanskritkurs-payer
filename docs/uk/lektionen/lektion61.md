@@ -70,7 +70,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt6102.jpg)
+![](/images/lekt6102.webp)
 Рис.: स्त्रियः
 (Джерело зображення: [Деталі](/uk/licenses#lekt6102))
 :::
@@ -157,7 +157,7 @@ status: stable
 | **सप्तमी** | खलप्वि | ^^ | खलपूषु |
 
 ::: media
-![](/images/lekt6106.jpg)
+![](/images/lekt6106.webp)
 Мал.: रथ्याप्वः
 (Джерело зображення: [Деталі](/uk/licenses#lekt6106))
 :::
@@ -184,7 +184,7 @@ status: stable
 | **आमन्त्रितम्** | वधु | वध्वौ | वध्वस् |
 
 ::: media
-![](/images/lekt6107.jpg)
+![](/images/lekt6107.webp)
 Мал.: वध्वौ
 (Джерело зображення: [Деталі](/uk/licenses#lekt6107))
 :::
@@ -262,7 +262,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt6104.jpg)
+![](/images/lekt6104.webp)
 Мал.: सर्पो वव्रज्यते ॥
 (Джерело зображення: [Деталі](/uk/licenses#lekt6104))
 :::
@@ -462,12 +462,12 @@ status: stable
 | नमस् n. "Поклоніння" | नमस्यति "він шанує" |
 
 ::: media
-![](/images/lekt6105.jpg)
+![](/images/lekt6105.webp)
 Мал.: किं तपस्यति न वा ?
 (Джерело зображення: [Деталі](/uk/licenses#lekt6105))
 :::
 ::: media
-![](/images/lekt6103.jpg)
+![](/images/lekt6103.webp)
 Мал.: बालौ शिवं नमस्यतः ॥
 (Джерело зображення: [Деталі](/uk/licenses#lekt6103))
 :::
@@ -487,7 +487,7 @@ status: stable
 | यशस् n. "слава" | यशस्काम्यति "він бажає слави" |
 
 ::: media
-![](/images/lekt6109.jpg)
+![](/images/lekt6109.webp)
 Мал.: यशस्काम्यन्ति
 (Джерело зображення: [Деталі](/uk/licenses#lekt6109))
 :::
@@ -511,7 +511,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt6110.jpg)
+![](/images/lekt6110.webp)
 Мал.: कस्तत्र न मधुस्यति ?
 (Джерело зображення: [Деталі](/uk/licenses#lekt6110))
 :::
@@ -561,7 +561,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt6111.jpg)
+![](/images/lekt6111.webp)
 Мал.: श्वानौ शब्दायेते
 (Джерело зображення: [Деталі](/uk/licenses#lekt6111))
 :::
@@ -581,7 +581,7 @@ status: stable
 | मुण्ड 3 "стрижений під нуль" | मुण्डयति "він стриже під нуль" |
 
 ::: media
-![](/images/lekt6113.jpg)
+![](/images/lekt6113.webp)
 Рис.: भिक्षुर्मुण्डयते ।
 Таїланд - เมืองไทย
 (Джерело зображення: [Деталі](/uk/licenses#lekt6113))
@@ -649,7 +649,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt6114.jpg)
+![](/images/lekt6114.webp)
 Мал.: नववर्षं शुभं भूयात् ॥
 (Джерело зображення: [Деталі](/uk/licenses#lekt6114))
 :::
@@ -700,11 +700,11 @@ status: stable
 Парадигми: Kielhorn, Grammatik § 153:
 
 ::: media
-![](/images/lekt6115.jpg)
+![](/images/lekt6115.webp)
 (Джерело зображення: [Деталі](/uk/licenses#lekt6115))
 :::
 ::: media
-![](/images/lekt6118.jpg)
+![](/images/lekt6118.webp)
 Мал.: हरिद्वारे गावः ॥
 (Джерело зображення: [Деталі](/uk/licenses#lekt6118))
 :::
@@ -720,7 +720,7 @@ status: stable
 (Джерело зображення: [Деталі](/uk/licenses#lekt6116))
 :::
 ::: media
-![](/images/lekt6117.jpg)
+![](/images/lekt6117.webp)
 Рис.: आवां स्वसारौ ॥
 Народ апатані, Аруначал-Прадеш
 (Джерело зображення: [Деталі](/uk/licenses#lekt6117))
@@ -773,7 +773,7 @@ status: stable
 Після завершення курсу санскриту починається справжнє «плавання» в океані санскритської літератури. Оскільки цей океан повний перешкод, доречно почати цей новий життєвий етап з заклику до Ґаṇеши:
 
 ::: media
-![](/images/lekt6101.jpg)
+![](/images/lekt6101.webp)
 Мал.: श्रीगणनाथः
 (Джерело зображення: [Деталі](/uk/licenses#lekt6101))
 :::
@@ -799,7 +799,7 @@ status: stable
 Тала: Рупака: o |4
 
 ::: media
-![](/images/lekt6119.jpg)
+![](/images/lekt6119.webp)
 Мал.: Мелодія, віднесена до до, може транспонуватися залежно від голосового діапазону.
 (Джерело зображення: [Деталі](/uk/licenses#lekt6119))
 :::

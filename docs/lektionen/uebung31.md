@@ -30,7 +30,7 @@ Wer Einsicht hat, wird vom Leiden befreit; deshalb soll jemand, der Erlösung w�
 Ein Verblendeter genießt gute Speisen und schöne Frauen. Wessen Verblendung verschwunden ist, begehrt keine gute Speise und keine Frau mit vollkommenem Körper. Er verhindert nämlich Gier und Hass und konzentriert sich auf die Einsicht.
 
 ::: media
-![](/images/uebung049.jpg)
+![](/images/uebung049.webp)
 Abb.: कुलबन्धनम्
 (Bildquelle: [Details](/licenses#uebung049))
 :::

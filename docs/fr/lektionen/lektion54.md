@@ -32,7 +32,7 @@ Exemple :
 ::::
 
 ::: media
-![](/images/lekt5402.jpg)
+![](/images/lekt5402.webp)
 Fig. : अयुयुत्सुरर्जुनः
 (Source de l’image : [Détails](/fr/licenses#lekt5402))
 :::
@@ -280,7 +280,7 @@ Traduisez par écrit les formes suivantes et formez les formes d’aoriste corre
 23.  गम्यते
 
 ::: media
-![](/images/lekt5401.jpg)
+![](/images/lekt5401.webp)
 Fig. : त्रिचक्रेणेश्वरः स्तूयते
 (Source de l’image : [Détails](/fr/licenses#lekt5401))
 :::

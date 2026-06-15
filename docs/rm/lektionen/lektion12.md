@@ -175,7 +175,7 @@ En cunvegns *aniṭ* èn da tegnair cuntegn las suandantas reglas da la connexiu
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : svegliar, svegliar a la cumprensiun, reconuscher; PPP **buddha** 3 sveglià, perquai **Buddha** = "il sveglià" (betg: il illuminà)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 Abb.: गौतमो बुद्धः
 (Font dal maletg: [Detagls](/rm/licenses#lekt1201))
 :::
@@ -186,7 +186,7 @@ Abb.: गौतमो बुद्धः
 - **mārga** m. मार्ग : via (las vias eran savens ils sentiers da la selva)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 Abb.: मार्गः
 (Font dal maletg: [Detagls](/rm/licenses#lekt1202))
 :::
@@ -205,7 +205,7 @@ Per la furmaziun da vuschs:
 - **budh**: **bodhi** m./f. बोधि : il svegliar (cun il qual in Buddha u Jina cuntanscha la cumprensiun redimiva)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 Abb.: महावीरो जिनः
 (Font dal maletg: [Detagls](/rm/licenses#lekt1203))
 :::

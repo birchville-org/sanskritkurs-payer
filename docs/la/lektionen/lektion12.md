@@ -175,7 +175,7 @@ In formationibus *aniṭ* sequentes leges coniunctionis phonicae in voce observa
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : evigilare, ad cognitionem evigilare, cognoscere; PPP **buddha** 3 evigilatus, inde **Buddha** = "evigilatus" (non: illuminatus)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 Fig.: गौतमो बुद्धः
 (Fons imaginis: [Detalia](/la/licenses#lekt1201))
 :::
@@ -186,7 +186,7 @@ Fig.: गौतमो बुद्धः
 - **mārga** m. मार्ग : via (viae saepe erant semitae ferarum)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 Fig.: मार्गः
 (Fons imaginis: [Detalia](/la/licenses#lekt1202))
 :::
@@ -205,7 +205,7 @@ Ad verborum formationem:
 - **budh**: **bodhi** m./f. बोधि : evigilatio (qua Buddha vel Jina ad insightum redimentem pervenit)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 Fig.: महावीरो जिनः
 (Fons imaginis: [Detalia](/la/licenses#lekt1203))
 :::

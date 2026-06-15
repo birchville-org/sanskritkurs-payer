@@ -92,7 +92,7 @@ Déterminez et traduisez par écrit les formes suivantes, puis formez les formes
 32.  सिष्णेह
 
 ::: media
-![](/images/lekt5501.jpg)
+![](/images/lekt5501.webp)
 Fig. : अजीर्यमिति
 'Inâyat Khân sur son lit de mort, esquisse pour une miniature d’un manuscrit pour Jahângîr = جهانگير, vers 1618
 (Source de l’image : [Détails](/fr/licenses#lekt5501))

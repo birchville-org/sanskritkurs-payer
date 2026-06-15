@@ -139,7 +139,7 @@ C) Futurum optionale cum et sine **-i-**:
 ३. **अश्नुवते** (in Futuro Parasmaipada) — अशिष्यन्ति / अक्ष्यन्ति
 
 ::: media
-![](/images/uebung043.jpg)
+![](/images/uebung043.webp)
 Abb.: अविपालो ऽविं रक्षति
 (Fons imaginis: [Detalia](/licenses#uebung043))
 :::

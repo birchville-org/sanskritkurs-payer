@@ -58,7 +58,7 @@ Sch'ils regeins na proteschian betg la dretgira e l'usanza, èn ils umans plens 
 :::
 
 ::: media
-![](/images/uebung063.jpg)
+![](/images/uebung063.webp)
 Abb.: राज्ञे बलिनो हस्तिनो दीयेरन्
 (Font dal maletg: [Detagls](/licenses#uebung063))
 :::

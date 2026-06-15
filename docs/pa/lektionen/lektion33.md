@@ -259,7 +259,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3306.jpg)
+![](/images/lekt3306.webp)
 ਚਿੱਤਰ: दानम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3306))
 :::
@@ -271,7 +271,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3307.jpg)
+![](/images/lekt3307.webp)
 ਚਿੱਤਰ: सा पुत्रमादाय भारं बिभ्रती गच्छति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3307))
 :::
@@ -295,7 +295,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3305.jpg)
+![](/images/lekt3305.webp)
 ਚਿੱਤਰ: समाधि
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3305))
 :::
@@ -332,7 +332,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3304.jpg)
+![](/images/lekt3304.webp)
 ਚਿੱਤਰ: भयम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3304))
 :::
@@ -385,7 +385,7 @@ PPP **हीन** ਤੋਂ:
 :::
 
 ::: media
-![](/images/lekt3303.jpg)
+![](/images/lekt3303.webp)
 ਚਿੱਤਰ: हीनयानमेव
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3303))
 :::
@@ -401,7 +401,7 @@ PPP **हीन** ਤੋਂ:
 :::
 
 ::: media
-![](/images/lekt3302.jpg)
+![](/images/lekt3302.webp)
 ਚਿੱਤਰ: घृतमग्नौ जुहोति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3302))
 
@@ -448,7 +448,7 @@ C) ਅਨੁਵਾਦ ਕਰੋ ਅਤੇ ਇਕਵਚਨ ਵਾਕਾਂ ਨੂ
 ब्राह्मणा भारं न बिभ्रतीति ब्राह्मणदासो भारं गृहमबिभः ॥३॥
 
 ::: media
-![](/images/lekt3308.jpg)
+![](/images/lekt3308.webp)
 ਚਿੱਤਰ: पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3308))
 :::

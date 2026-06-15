@@ -20,7 +20,7 @@ import json
 import urllib.request
 
 BASE_DIR = os.path.join(os.path.dirname(__file__), '..', 'docs')
-MODEL = "mlx-community/Qwen3.6-35B-A3B-4bit"
+MODEL = "Qwen3.6-35B-A3B-UD-Q4_K_M.gguf"
 API_URL = "http://192.168.1.22:8000/v1/chat/completions"
 
 TITLE_PREFIX = {

@@ -112,7 +112,7 @@ Brahmans have studied and taught the Veda, acted as sacrificers for the gods, an
 Sons of the Buddha have recognized the truth, brought suffering to a standstill, and attained liberation. A monk who follows the Buddha's path is called a "Son of the Buddha."
 
 ::: media
-![](/images/uebung050.jpg)
+![](/images/uebung050.webp)
 Fig.: सम्पन्नरूपा
 (Image source: [Details](/en/licenses#uebung050))
 :::
@@ -214,7 +214,7 @@ Determine and translate the following words:
 :::
 
 ::: media
-![](/images/uebung051.jpg)
+![](/images/uebung051.webp)
 Fig.: किमयं रथो बालान् सुखतां वहति
 (Image source: [Details](/en/licenses#uebung051))
 :::
@@ -295,7 +295,7 @@ Insert the words in parentheses into the following sentences, observing the Sand
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung052.jpg)
+![](/images/uebung052.webp)
 Fig.: पुनर्दर्शनाय
 (Image source: [Details](/en/licenses#uebung052))
 :::
@@ -310,7 +310,7 @@ Fig.: पुनर्दर्शनाय
 The exalted Hari is my refuge, who sent his enemies to heaven, let his followers know the meaning of the Vedas, gave the gods Amṛta to eat, taught the creator the Vedas, and established the earth in water.
 
 ::: media
-![](/images/uebung053.jpg)
+![](/images/uebung053.webp)
 Fig.: श्रीगङ्गाधराय नमः
 (Image source: [Details](/en/licenses#uebung053))
 :::
@@ -325,7 +325,7 @@ Fig.: श्रीगङ्गाधराय नमः
 Once, an old man went to another village and became tired on the way. To rest, he went to the foot of a mango tree by the roadside. On this tree hung ripe fruits. The old man desired them, but he could not climb the tree to pick them. Fortunately, there were some monkeys on the tree eating fruits. When the old man saw this, he rejoiced. What did he do? He took some stones, aimed at the monkeys, and threw them. The monkeys became angry, picked some fruits, and threw them at the old man. The old man joyfully took the fruits and went on his way. Great is the cunning of the old man!
 
 ::: media
-![](/images/uebung054.jpg)
+![](/images/uebung054.webp)
 Fig.: वानरः कुपितः
 (Image source: [Details](/en/licenses#uebung054))
 :::

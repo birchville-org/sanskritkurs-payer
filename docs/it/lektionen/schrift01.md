@@ -4,13 +4,13 @@
 
 Il sanscrito è stato e viene scritto in una varietà di scritture. La seguente panoramica offre una piccola selezione di queste scritture:
 
-![](/images/schrift001.jpg)  
+![](/images/schrift001.webp)  
 Fig.: Campioni di scrittura sanscrita  
 \[Fonte dell'immagine: Wikipedia, licenza GNU FD\]
 
 Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
-![](/images/schrift002.jpg)
+![](/images/schrift002.webp)
 
 Ogni segno consonantico indica anche una "a" che segue la consonante. Se si vuole scrivere la pura consonante (senza vocale successiva), ciò deve essere contrassegnato da una barra obliqua sottostante -- virāma = विराम --:
 

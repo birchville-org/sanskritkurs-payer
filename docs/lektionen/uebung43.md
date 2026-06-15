@@ -68,7 +68,7 @@ A) Bilden Sie die in Zeit, Zahl, Modus u. s. w. entsprechende **2. Person** zu f
 :::
 
 ::: media
-![](/images/uebung070.jpg)
+![](/images/uebung070.webp)
 Abb.: दिशसि
 (Bildquelle: [Details](/licenses#uebung070))
 :::

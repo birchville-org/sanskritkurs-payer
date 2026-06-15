@@ -35,13 +35,13 @@ lesson_id: 53
 ::::
 
 ::: media
-![](/images/lekt5301.jpg)
+![](/images/lekt5301.webp)
 Рис.: मार्जारयुगम्
 (Источник изображения: [Сведения](/ru/licenses#lekt5301))
 :::
 
 ::: media
-![](/images/lekt5302.jpg)
+![](/images/lekt5302.webp)
 Рис.: हस्तौ
 (Источник изображения: [Сведения](/ru/licenses#lekt5302))
 :::
@@ -129,7 +129,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5305.jpg)
+![](/images/lekt5305.webp)
 Рис.: भरन्तौ
 (Источник изображения: [Подробности](/ru/licenses#lekt5305))
 :::
@@ -232,7 +232,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5306.jpg)
+![](/images/lekt5306.webp)
 Рис.: फले
 (Источник изображения: [Сведения](/ru/licenses#lekt5306))
 :::
@@ -266,7 +266,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5307.jpg)
+![](/images/lekt5307.webp)
 Рис.: धेनू
 (Источник изображения: [Сведения](/ru/licenses#lekt5307))
 :::
@@ -352,7 +352,7 @@ lesson_id: 53
 ::::
 
 ::: media
-![](/images/lekt5308.jpg)
+![](/images/lekt5308.webp)
 Рис.: पितापुत्रौ
 (Источник изображения: [Подробности](/ru/licenses#lekt5308))
 :::
@@ -488,7 +488,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5309.jpg)
+![](/images/lekt5309.webp)
 Рис.: द्राघीयो लिङ्गम्
 (Источник изображения: [Подробности](/ru/licenses#lekt5309))
 :::

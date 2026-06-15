@@ -102,7 +102,7 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 | **dṛś** 4 P[[br]]दृश्[[br]]"ver" | **darśana** n.[[br]]दर्शन | "el ver, punto de vista, sistema filosófico, apariencia, específicamente: Darśan" |
 
 ::: media
-![](/images/lekt0801.jpg)
+![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0801))
 :::

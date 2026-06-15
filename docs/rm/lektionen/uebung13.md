@@ -121,7 +121,7 @@ Tge mangian e bevan Brahmas?
 ब्राह्मणैः किं पीतं खादितं च ॥
 
 ::: media
-![](/images/uebung019.jpg)
+![](/images/uebung019.webp)
 Fig.: अग्निर्गृहं दहति ।
 (Sursa da l’imagina: [Detagls](/licenses#uebung019))
 :::
@@ -270,7 +270,7 @@ E) Tradusci in sanscrit:
 यजकैः सोमः सुतः ॥
 
 ::: media
-![](/images/uebung018.jpg)
+![](/images/uebung018.webp)
 Fig.: बाला जलं पिबति । बालया जलं पीयते ।
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung018))
 :::

@@ -58,7 +58,7 @@ Dacă regii nu păstrează dreptatea și uzanțele, oamenii sunt plini de frică
 :::
 
 ::: media
-![](/images/uebung063.jpg)
+![](/images/uebung063.webp)
 Fig.: राज्ञे बलिनो हस्तिनो दीयेरन्
 (Sursa imaginii: [Detalii](/licenses#uebung063))
 :::

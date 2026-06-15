@@ -838,14 +838,14 @@ The poem has four sections:
 The भट्टिकाव्य was composed between 495 and 641 CE.
 
 ::: media
-![](/images/lekt5902.jpg)
+![](/images/lekt5902.webp)
 Fig.: रावणः
 (Image source: [Details](/en/licenses#lekt5902))
 :::
 The following section is the beginning of the 15th Canto, which is dedicated to the Aorist. रावण, the demon king, who has stolen his wife सीता from राम, sends for his brother कुम्भकर्ण ("Pot-ear"), who lies in a kind of permanent sleep as punishment for his misdeeds.
 
 ::: media
-![](/images/lekt5903.jpg)
+![](/images/lekt5903.webp)
 Fig.: कुम्भकर्णः
 Kecak Dance, Bali (Indonesia)
 (Image source: [Details](/en/licenses/lekt5903))
@@ -853,7 +853,7 @@ Kecak Dance, Bali (Indonesia)
 _Translation aid:_ Verse 6: दिदृक्षते \= Desiderative of दृश्
 
 ::: media
-![](/images/lekt5901.jpg)
+![](/images/lekt5901.webp)
 (Image source: [Details](/en/licenses/lekt5901))
 :::
 Text from: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.

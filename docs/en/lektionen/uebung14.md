@@ -176,7 +176,7 @@ To whom do these houses belong?
 Whose food has this Vedic sage sacrificed?
 
 ::: media
-![](/images/uebung017.jpg)
+![](/images/uebung017.webp)
 Fig.: नायकश्च नायिका च
 (Image source: [Details](/en/licenses#uebung017))
 :::

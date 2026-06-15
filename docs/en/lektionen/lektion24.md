@@ -36,7 +36,7 @@ or:
 ::::
 
 ::: media
-![](/images/lekt2404.jpg)
+![](/images/lekt2404.webp)
 Fig.: बाला गुरुश्रवणाय गताः
 (Image source: [Details](/en/licenses#lekt2404))
 :::
@@ -60,7 +60,7 @@ Example:
 ::::
 
 ::: media
-![](/images/lekt2401.jpg)
+![](/images/lekt2401.webp)
 Fig.: यज्ञायान्नम्
 'Annakut' [अन्नकूट = गोवर्धन पूजा] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
 (Image source: [Details](/en/licenses#lekt2401))
@@ -77,7 +77,7 @@ Example:
 ::::
 
 ::: media
-![](/images/lekt2402.jpg)
+![](/images/lekt2402.webp)
 Fig.: बाला बालाय रक्षबन्धनं ददाति
 Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
 (Image source: [Details](/en/licenses#lekt2402))
@@ -96,7 +96,7 @@ Examples:
 ::::
 
 ::: media
-![](/images/lekt2403.jpg)
+![](/images/lekt2403.webp)
 Fig.: अलं योधो योधाय
 "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
 (Image source: [Details](/en/licenses#lekt2403))
@@ -208,7 +208,7 @@ In the same way as अलम् with the Instrumental is used:
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 Fig.: अलंकारः
 (Image source: [Details](/en/licenses#lekt2405))
 :::
@@ -219,7 +219,7 @@ Fig.: अलंकारः
 प्रतिमा f.: image, likeness
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 Fig.: देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Image source: [Details](/en/licenses#lekt2406))
@@ -259,7 +259,7 @@ from this
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 Fig.: ऊहापोहः
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
 (Image source: [Details](/en/licenses#lekt2407))
@@ -281,7 +281,7 @@ from this:
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 Fig.: आख्यानम्
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
 (Image source: [Details](/en/licenses#lekt2408))
@@ -313,7 +313,7 @@ from this:
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 Fig.: जयदेवकविर्विष्णुं नमस्करोति
 Manuscript of the गीतगोविन्द, 1730 CE.
 (Image source: [Details](/en/licenses#lekt2411))
@@ -401,7 +401,7 @@ Translate into Sanskrit:
 5. Reverence (नमस्) be to Śiva! Reverence be to Śrī Gaṇeśa!
 
 ::: media
-![](/images/lekt2409.jpg)
+![](/images/lekt2409.webp)
 Fig.: श्रीगणेशाय नमः
 (Image source: [Details](/en/licenses#lekt2409))
 :::
@@ -422,7 +422,7 @@ Explanation: मुनित्रयम् "the triad of sages = the three sage
 :::
 
 ::: media
-![](/images/lekt2410.jpg)
+![](/images/lekt2410.webp)
 Fig.: नरो नरसिंहाय नमस्करोति
 नरसिंह torn apart हिरण्यकशिपु, page from a manuscript of the भागवतपुराण
 (Image source: [Details](/en/licenses#lekt2410))

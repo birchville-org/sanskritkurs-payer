@@ -90,7 +90,7 @@ z.B. अन्नमय n. "Überfluss an Speise"
 :::
 
 ::: media
-![](/images/lekt5202.jpg)
+![](/images/lekt5202.webp)
 Abb.: अन्नमयम्
 विवाहः, Chennai = சென்னை
 (Bildquelle: [Details](/licenses#lekt5202))
@@ -109,7 +109,7 @@ z.B. कौन्तेय m. "Sohn der कुन्ती"
 :::
 
 ::: media
-![](/images/lekt5203.jpg)
+![](/images/lekt5203.webp)
 Abb.: भीमः कौन्तेयः
 Wayang-Figur, Java, Indonesien
 (Bildquelle: [Details](/licenses#lekt5203))
@@ -132,7 +132,7 @@ Wayang-Figur, Java, Indonesien
     नित्यशस् "beständig"
 :::
 ::: media
-![](/images/lekt5204.jpg)
+![](/images/lekt5204.webp)
 Abb.: अनुक्रमेणैकशः
 Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Bildquelle: [Details](/licenses#lekt5204))
@@ -176,7 +176,7 @@ Der Auslaut des Nomens wird folgendermaßen behandelt:
     z.B. तिर्यक्करोति "er legt seitwärts (तिर्यच्)"
 :::
 ::: media
-![](/images/lekt5209.jpg)
+![](/images/lekt5209.webp)
 Abb.: भस्मीकृतं वनम्
 Brandrodung, Arunachal Pradesh = अरुणाचल प्रदेश
 (Bildquelle: [Details](/licenses#lekt5209))
@@ -385,7 +385,7 @@ Beispiel:
 :::
 
 ::: media
-![](/images/lekt5205.jpg)
+![](/images/lekt5205.webp)
 Abb.: चतुर्मुखः
 (Bildquelle: [Details](/licenses#lekt5205))
 :::
@@ -420,7 +420,7 @@ Das Siebengestirn = die sieben hellsten Sterne des Großen Bären (Ursa maior)
     pañca + go » pañcagava (als Einzelwort unzulässig!) + dhana » पञ्चगवधन m. "Einer, dessen Reichtum fünf Kühe sind"
 :::
 ::: media
-![](/images/lekt5207.jpg)
+![](/images/lekt5207.webp)
 Abb.: षण्मातुरः कार्त्तिकेय:
 Jalakandapuram = ஜலகண்டபுரம்
 (Bildquelle: [Details](/licenses#lekt5207))
@@ -464,7 +464,7 @@ von:
 :::
 
 ::: media
-![](/images/lekt5210.jpg)
+![](/images/lekt5210.webp)
 Abb.: खिलः
 Tambhol, Akole, Ahmednagar = अहमदनगर
 (Bildquelle: [Details](/licenses#lekt5210))
@@ -498,7 +498,7 @@ PPP विपरीत 3: verkehrt, falsch
 पीड् 10P पीडयति : drücken, quälen ; bedrängen, belagern, plagen
 
 ::: media
-![](/images/lekt5212.jpg)
+![](/images/lekt5212.webp)
 Abb.: पीडिताः
 Hyderabad = హైదరాబాద్
 (Bildquelle: [Details](/licenses#lekt5212))
@@ -516,7 +516,7 @@ davon:
 प्रधान 3: hauptsächlicher, bester ; n.: Wichtigstes
 
 ::: media
-![](/images/lekt5213.jpg)
+![](/images/lekt5213.webp)
 Abb.: प्रधानः
 मुंबई
 (Bildquelle: [Details](/licenses#lekt5213))
@@ -626,7 +626,7 @@ PPP च्युत
 चक्र n.: Rad
 
 ::: media
-![](/images/lekt5214.jpg)
+![](/images/lekt5214.webp)
 Abb.: चक्रम्
 Konark = कोनार्क
 (Bildquelle: [Details](/licenses#lekt5214))
@@ -634,7 +634,7 @@ Konark = कोनार्क
 कदली f.: Bananenbaum (_Musa_ sp.)
 
 ::: media
-![](/images/lekt5208.jpg)
+![](/images/lekt5208.webp)
 Abb.: कदली
 Hampi = ಹಂಪೆ
 (Bildquelle: [Details](/licenses#lekt5208))
@@ -650,7 +650,7 @@ Hampi = ಹಂಪೆ
 मल m.n.: Schmutz, Makel
 
 ::: media
-![](/images/lekt5215.jpg)
+![](/images/lekt5215.webp)
 Abb.: मलम्
 मुंबई
 (Bildquelle: [Details](/licenses#lekt5215))
@@ -660,7 +660,7 @@ Abb.: मलम्
 मार m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel
 
 ::: media
-![](/images/lekt5217.jpg)
+![](/images/lekt5217.webp)
 Abb.:
 Amaravati = అమరావతి, 2. Jhdt. n. Chr.
 (Bildquelle: [Details](/licenses#lekt5217))
@@ -727,7 +727,7 @@ Erklärungen:
 ४. अश्वघोष (2. Jhdt. n. Chr.): बुद्धचरित ४ Buddhas erlösende Erkenntnis
 
 ::: media
-![](/images/lekt5216.jpg)
+![](/images/lekt5216.webp)
 Abb.: अश्वत्थो महाबोधिवृक्षः
 _Ficus religiosa_ L. बोधगया, ca. 1810
 (Bildquelle: [Details](/licenses#lekt5216))
@@ -810,7 +810,7 @@ Während der Semesterferien sollten folgende Aufgaben erfüllt werden:
      **Winternitz, Moriz &lt;1863 - 1937&gt;:** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 Bde. -- 1908 - 1922 (immer noch die bei weitem beste Literaturgeschichte der Sanskrit-, Pali- und Prakritliteratur)
 
 ::: media
-![](/images/lekt5201.jpg)
+![](/images/lekt5201.webp)
 Abb.: श्रीगुम्पिः , मम मन्त्री
 (Bild: Payer)
 (Bildquelle: [Details](/licenses#lekt5201))

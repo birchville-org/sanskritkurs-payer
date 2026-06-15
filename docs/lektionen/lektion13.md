@@ -215,7 +215,7 @@ Lernen Sie folgende Wörter:
 > [Quelle: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
-![](/images/lekt1301.jpg)
+![](/images/lekt1301.webp)
 Abb.: महिषासुरः
 (Bildquelle: [Details](/licenses#lekt1301))
 :::
@@ -236,7 +236,7 @@ Abb.: महिषासुरः
 - **anna** n. अन्न : Speise (aus PPP: *ad-na: das Gegessene)
 
 ::: media
-![](/images/lekt1304.jpg)
+![](/images/lekt1304.webp)
 Abb.: अन्नम्
 (Bildquelle: [Details](/licenses#lekt1304))
 :::
@@ -252,7 +252,7 @@ pad 4 Ā:
 :::
 
 ::: media
-![](/images/lekt1303.jpg)
+![](/images/lekt1303.webp)
 Abb.: चत्वारः पादाः : गजः
 (Bildquelle: [Details](/licenses#lekt1303))
 :::
@@ -274,7 +274,7 @@ A) Übersetzen Sie und verwandeln Sie in aktive Präsenssätze:
 ३. बोध्या गौतमो मुक्तः ।
 
 ::: media
-![](/images/lekt1305.jpg)
+![](/images/lekt1305.webp)
 Abb.: अत्र गौतमो बुद्धो बोध्या मुक्तः
 (Bildquelle: [Details](/licenses#lekt1305))
 :::
@@ -333,7 +333,7 @@ B) Setzen Sie die Sätze Übung A) ins Passiv.
 C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion.
 
 ::: media
-![](/images/lekt1302.jpg)
+![](/images/lekt1302.webp)
 Abb.: सत्यमेव जयते
 (Bildquelle: [Details](/licenses#lekt1302))
 :::

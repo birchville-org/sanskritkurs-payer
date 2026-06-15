@@ -235,7 +235,7 @@ D) Traduzca y resuelva los compuestos:
 फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥
 
 ::: media
-![](/images/lekt2303.jpg)
+![](/images/lekt2303.webp)
 Fig.: फलवन्ति पुण्यानीति
 ทำบุญ = पुण्यकरणम्, Tailandia = ประเทศไทย
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2303))
@@ -245,7 +245,7 @@ Fig.: फलवन्ति पुण्यानीति
 सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
 
 ::: media
-![](/images/lekt2301.jpg)
+![](/images/lekt2301.webp)
 Fig.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
 Chiang Mai, Tailandia = เชียงใหม่, ประเทศไทย
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2301))
@@ -270,7 +270,7 @@ C) Traduzca el siguiente सुभाषितम्
 Explicación: हीन ३: PPP a हा 3: abandonar ; धर्मे = locativo sg. "en el ..."
 
 ::: media
-![](/images/lekt2302.jpg)
+![](/images/lekt2302.webp)
 Fig.: आहारनिद्राभयमैथुनं च
 Chittorgarh = चित्तौडगढ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2302))

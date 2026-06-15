@@ -102,7 +102,7 @@ In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mi
 | **dṛś** 4 P[[br]]दृश्[[br]]"sehen" | **darśana** n.[[br]]दर्शन | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
 
 ::: media
-![](/images/lekt0801.jpg)
+![](/images/lekt0801.webp)
 Abb.: Maa Batakali Darshan, Puri, Orissa
 (Bildquelle: [Details](/licenses#lekt0801))
 :::

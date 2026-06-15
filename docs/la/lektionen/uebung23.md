@@ -108,7 +108,7 @@ Quia de Dharma audire voluit, Brahmana cum filio in magnam civitatem abiit, ut m
 Edere, dormire, timere et coire hominibus cum pecore communia sunt. Differentia hominum, quae eos a pecore distinguit, in Dharma consistit. Sine Dharma, homines pecoribus aequantur.
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 Fig.: आहारनिद्राभयमैथुनं च
 (Fons imaginis: [Detalia](/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) Da formas radicis (significatio, classis praesentis, modus, 3. sg. praes. ind
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 Fig.: बालाः पिबन्ति
 (Fons imaginis: [Detalia](/licenses#uebung036))
 :::

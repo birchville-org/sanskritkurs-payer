@@ -66,7 +66,7 @@ Irregular: स्त्री f. "mujer"
 :::
 
 ::: media
-![](/images/lekt6102.jpg)
+![](/images/lekt6102.webp)
 Fig.: स्त्रियः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6102))
 :::
@@ -153,7 +153,7 @@ Paradigma:
 | **सप्तमी** | खलप्वि | ^^ | खलपूषु |
 
 ::: media
-![](/images/lekt6106.jpg)
+![](/images/lekt6106.webp)
 Fig.: रथ्याप्वः
 काशीपुर
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6106))
@@ -181,7 +181,7 @@ Paradigma:
 | **आमन्त्रितम्** | वधु | वध्वौ | वध्वस् |
 
 ::: media
-![](/images/lekt6107.jpg)
+![](/images/lekt6107.webp)
 Fig.: वध्वौ
 जोधपुर
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6107))
@@ -260,7 +260,7 @@ Paradigma:
 :::
 
 ::: media
-![](/images/lekt6104.jpg)
+![](/images/lekt6104.webp)
 Fig.: सर्पो वव्रज्यते ॥
 Karnataka = ಕರ್ನಾಟಕ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6104))
@@ -461,13 +461,13 @@ Tenga en cuenta el significado de:
 | नमस् n. "Veneración" | नमस्यति "él venera" |
 
 ::: media
-![](/images/lekt6105.jpg)
+![](/images/lekt6105.webp)
 Fig.: किं तपस्यति न वा ?
 हरिद्वार
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6105))
 :::
 ::: media
-![](/images/lekt6103.jpg)
+![](/images/lekt6103.webp)
 Fig.: बालौ शिवं नमस्यतः ॥
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6103))
 :::
@@ -487,7 +487,7 @@ Ejemplos:
 | यशस् n. "fama" | यशस्काम्यति "él desea fama" |
 
 ::: media
-![](/images/lekt6109.jpg)
+![](/images/lekt6109.webp)
 Fig.: यशस्काम्यन्ति
 मुंबई
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6109))
@@ -512,7 +512,7 @@ Ejemplos:
 :::
 
 ::: media
-![](/images/lekt6110.jpg)
+![](/images/lekt6110.webp)
 Fig.: कस्तत्र न मधुस्यति ?
 Karli
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6110))
@@ -563,7 +563,7 @@ Ejemplos:
 ::::
 
 ::: media
-![](/images/lekt6111.jpg)
+![](/images/lekt6111.webp)
 Fig.: श्वानौ शब्दायेते
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6111))
 :::
@@ -583,7 +583,7 @@ Ejemplos:
 | मुण्ड 3 "rapado" | मुण्डयति "él rapa" |
 
 ::: media
-![](/images/lekt6113.jpg)
+![](/images/lekt6113.webp)
 Fig.: भिक्षुर्मुण्डयते ।
 Thailand - เมืองไทย
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6113))
@@ -651,7 +651,7 @@ Paradigma:
 :::
 
 ::: media
-![](/images/lekt6114.jpg)
+![](/images/lekt6114.webp)
 Fig.: नववर्षं शुभं भूयात् ॥
 Basílica de Santa Cruz, Kochi = കൊച്ചി
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6114))
@@ -703,11 +703,11 @@ Paradigma:
 Paradigmas: Kielhorn, Gramática § 153:
 
 ::: media
-![](/images/lekt6115.jpg)
+![](/images/lekt6115.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6115))
 :::
 ::: media
-![](/images/lekt6118.jpg)
+![](/images/lekt6118.webp)
 Fig.: हरिद्वारे गावः ॥
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6118))
 :::
@@ -723,7 +723,7 @@ Kielhorn, Gramática § 177:
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6116))
 :::
 ::: media
-![](/images/lekt6117.jpg)
+![](/images/lekt6117.webp)
 Fig.: आवां स्वसारौ ॥
 Pueblo Apatani, Arunachal Pradesh
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6117))
@@ -776,7 +776,7 @@ Femenino (स्त्री)
 Tras completar el curso de sánscrito, comienza realmente la "navegación" en el océano de la literatura sánscrita. Dado que este océano está lleno de obstáculos, es apropiado iniciar esta nueva etapa de la vida con una invocación a Gaṇeśa:
 
 ::: media
-![](/images/lekt6101.jpg)
+![](/images/lekt6101.webp)
 Fig.: श्रीगणनाथः
 Halebidu (ಹಳೆಬೀಡು), siglos XII/XIII d. C.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6101))
@@ -803,7 +803,7 @@ Rāga: Malahari (relacionado con मायामाळवगौळ = Māyāmāla
 Tāla: Rūpaka: o |4
 
 ::: media
-![](/images/lekt6119.jpg)
+![](/images/lekt6119.webp)
 Fig.: La melodía, referida a do, puede transponerse según el registro vocal.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6119))
 :::

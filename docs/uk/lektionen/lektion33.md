@@ -259,7 +259,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3306.jpg)
+![](/images/lekt3306.webp)
 Рис.: दानम्
 (Джерело зображення: [Деталі](/uk/licenses#lekt3306))
 :::
@@ -271,7 +271,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3307.jpg)
+![](/images/lekt3307.webp)
 Рис.: सा पुत्रमादाय भारं बिभ्रती गच्छति
 (Джерело зображення: [Деталі](/uk/licenses#lekt3307))
 :::
@@ -295,7 +295,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3305.jpg)
+![](/images/lekt3305.webp)
 Рис.: समाधि
 (Джерело зображення: [Деталі](/uk/licenses#lekt3305))
 :::
@@ -332,7 +332,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3304.jpg)
+![](/images/lekt3304.webp)
 Рис.: भयम्
 (Джерело зображення: [Деталі](/uk/licenses#lekt3304))
 :::
@@ -385,7 +385,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3303.jpg)
+![](/images/lekt3303.webp)
 Рис.: हीनयानमेव
 (Джерело зображення: [Деталі](/uk/licenses#lekt3303))
 :::
@@ -401,7 +401,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3302.jpg)
+![](/images/lekt3302.webp)
 Рис.: घृतमग्नौ जुहोति
 (Джерело зображення: [Деталі](/uk/licenses#lekt3302))
 
@@ -448,7 +448,7 @@ C) Перекладіть та перетворіть одночленні ре�
 ब्राह्मणा भारं न बिभ्रतीति ब्राह्मणदासो भारं गृहमबिभः ॥३॥
 
 ::: media
-![](/images/lekt3308.jpg)
+![](/images/lekt3308.webp)
 Мал.: पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः
 (Джерело зображення: [Деталі](/uk/licenses#lekt3308))
 :::

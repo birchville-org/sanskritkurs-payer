@@ -119,6 +119,6 @@ NOTA: Le risposte che si possono dare a tali domande con le conoscenze sanscrite
 **B) Formulate domande per il seguente esercizio di lettura secondo lo schema etat kim (एतत्किम्) e rispondete alle domande con le parole indicate e i pronomi dimostrativi, ad es. eṣa bālaḥ (एष बालः):**
 
 ::: media
-![](/images/lekt0401.jpg)
+![](/images/lekt0401.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0401))
 :::

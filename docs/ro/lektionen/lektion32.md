@@ -141,7 +141,7 @@ Exemple:
 **चूत**
 
 ::: media
-![](/images/lekt3202.jpg)
+![](/images/lekt3202.webp)
 Fig.: चूतः
 Copac de mango, Kanpur.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3202))
@@ -178,7 +178,7 @@ Copac de mango, Kanpur.
 **वानर कपि**
 
 ::: media
-![](/images/lekt3203.jpg)
+![](/images/lekt3203.webp)
 Fig.: वानराः
 Maimuțe (macaci rhesus) în Delhi.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3203))
@@ -200,7 +200,7 @@ Maimuțe (macaci rhesus) în Delhi.
 **उपल**
 
 ::: media
-![](/images/lekt3204.jpg)
+![](/images/lekt3204.webp)
 Fig.: उपलाः
 Carieră de piatră la sud de Pune, Maharashtra.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3204))
@@ -209,7 +209,7 @@ Carieră de piatră la sud de Pune, Maharashtra.
 **लक्ष्य**
 
 ::: media
-![](/images/lekt3205.jpg)
+![](/images/lekt3205.webp)
 Fig.: लक्ष्यम्
 Exercițiu de tragere / țintă cu săgeți, Karnataka.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3205))
@@ -236,7 +236,7 @@ Exercițiu de tragere / țintă cu săgeți, Karnataka.
 :::
 
 ::: media
-![](/images/lekt3207.jpg)
+![](/images/lekt3207.webp)
 Fig.: चितं गोमयं दहति
 Bucăți de gunoi de vacă ars în Rajasthan.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3207))
@@ -251,7 +251,7 @@ Bucăți de gunoi de vacă ars în Rajasthan.
 **कौशल कुशल**
 
 ::: media
-![](/images/lekt3206.jpg)
+![](/images/lekt3206.webp)
 Fig.: कौशलम्
 Pictură Mehndi pe mâini în Mumbai.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3206))
@@ -350,7 +350,7 @@ B) Traduceți și descompuneți compusele în sanscrită:
 बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥
 
 ::: media
-![](/images/lekt3208.jpg)
+![](/images/lekt3208.webp)
 Fig.: बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
 Călugăr budist din Sri Lanka.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3208))
@@ -573,7 +573,7 @@ C) Traduceți în sanscrită:
 
 52: La revedere!
 ::: media
-![](/images/lekt3209.jpg)
+![](/images/lekt3209.webp)
 Fig.: पुनर्दर्शनाय
 Salut / adio indian.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3209))
@@ -655,7 +655,7 @@ Explicații:
 :::
 
 ::: media
-![](/images/lekt3210.jpg)
+![](/images/lekt3210.webp)
 Fig.: तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
 Maimuțe în copaci de mango.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3210))

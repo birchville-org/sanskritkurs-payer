@@ -312,7 +312,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 अभ.: ⟪घाताः⟫
 बेंगलुरु = ಬೆಂಗಳೂರು
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1703))
@@ -328,7 +328,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 अभ.: ⟪योगासनम्⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1701))
 :::
@@ -347,7 +347,7 @@ status: stable
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : दूध निकालना
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 अभ.: ⟪दोग्धि⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1702))
 :::

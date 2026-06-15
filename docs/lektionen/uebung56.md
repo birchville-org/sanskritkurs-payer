@@ -96,7 +96,7 @@ Bestimmen und übersetzen Sie die folgenden Formen:
 :::
 
 ::: media
-![](/images/uebung091.jpg)
+![](/images/uebung091.webp)
 Abb.: जेरिम
 (Bildquelle: [Details](/licenses#uebung091))
 :::

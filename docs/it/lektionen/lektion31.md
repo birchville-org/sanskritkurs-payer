@@ -89,7 +89,7 @@ Il **कलियुग** iniziò intorno al 3102 a.C., l'anno della guerra del 
 :::
 
 ::: media
-![](/images/lekt3101.jpg)
+![](/images/lekt3101.webp)
 Fig.: योगः
 Rappresentazione dello Yoga.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3101))
@@ -138,7 +138,7 @@ da ciò:
 :::
 
 ::: media
-![](/images/lekt3102.jpg)
+![](/images/lekt3102.webp)
 Fig.: व्यञ्जनम्
 Preparazione alla danza Kathakali, Kochi.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3102))
@@ -184,7 +184,7 @@ da ciò:
 :::
 
 ::: media
-![](/images/lekt3103.jpg)
+![](/images/lekt3103.webp)
 Fig.: प्रज्ञापारमिता
 Da un manoscritto della Prajñāpāramitā.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3103))
@@ -214,7 +214,7 @@ Carri armati del 18º Reggimento Cavalleria (Esercito indiano) in movimento dura
 पुत्रो जातो बन्धनं जातमिति सुगतो मत्वा कुलबन्धनं भिनत्ति । ततो भग्नबन्धो मोक्षनयन्तीं प्रज्ञामाप्तुमर्हति ॥४॥
 
 ::: media
-![](/images/lekt3104.jpg)
+![](/images/lekt3104.webp)
 Fig.: राहुलो जातो बन्धनं जातम्
 Rāhula, figlio del Buddha, Laos.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3104))

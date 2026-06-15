@@ -50,7 +50,7 @@ Ante un gobierno demasiado severo (daṇḍa), los seres deben temblar. Un gobie
 :::
 
 ::: media
-![](/images/uebung046.jpg)
+![](/images/uebung046.webp)
 Fig.: चतुर्वर्णाश्रमो लोको
 (Fuente de la imagen: [Detalles](/licenses#uebung046))
 :::

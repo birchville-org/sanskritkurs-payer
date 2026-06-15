@@ -2,7 +2,7 @@
 
 ## Schriftübung 5
 
-![](/images/schrift008.jpg)
+![](/images/schrift008.webp)
 
 ## Übung
 

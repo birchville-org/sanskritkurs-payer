@@ -102,7 +102,7 @@ Nella grammatica indiana tradizionale si distinguono, tra i suffissi con cui si 
 | **dṛś** 4 P[[br]]दृश्[[br]]"vedere" | **darśana** n.[[br]]दर्शन | "il vedere, punto di vista, sistema filosofico, apparizione, specificamente: Darśan" |
 
 ::: media
-![](/images/lekt0801.jpg)
+![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0801))
 :::

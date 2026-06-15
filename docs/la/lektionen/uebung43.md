@@ -68,7 +68,7 @@ A) Formate personam **secundam** temporibus, numeris, modis, etc. correspondente
 :::
 
 ::: media
-![](/images/uebung070.jpg)
+![](/images/uebung070.webp)
 Fig.: दिशसि
 (Fons imaginis: [Detalia](/licenses#uebung070))
 :::

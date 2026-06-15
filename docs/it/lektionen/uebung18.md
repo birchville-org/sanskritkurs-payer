@@ -143,7 +143,7 @@ D) Tradurre:
 Dovere di tutti è: non violenza, veridicità, purezza, non lamentarsi del proprio destino, assenza di malizia e pazienza tollerante.
 
 ::: media
-![](/images/uebung028.jpg)
+![](/images/uebung028.webp)
 Fig.: दुर्गमो मार्गः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung028))
 :::

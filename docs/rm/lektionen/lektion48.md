@@ -266,7 +266,7 @@ z.B. **व्याघ्र** m. "Tiger" » **वैयाघ्र** 3 "von ei
 :::
 
 ::: media
-![](/images/lekt4801.jpg)
+![](/images/lekt4801.webp)
 Abb.: वैयाघ्रं विजृम्भणम्
 (Bildquelle: [Details](/rm/licenses#lekt4801))
 :::
@@ -284,14 +284,14 @@ Abb.: वैयाघ्रं विजृम्भणम्
 तन्त्र n.: corda ; telar, trama, tessì; fundament, norma, regulaziun ; doctrina, lavur da gudogna ; Tantra ; formula magica ; mez, astuzia, medicament ; regenza, autoritad
 
 ::: media
-![](/images/lekt4802.jpg)
+![](/images/lekt4802.webp)
 Abb.: तन्त्रम्
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (font da l'imaginescha: [Detagls](/rm/licenses#lekt4802))
 :::
 
 ::: media
-![](/images/lekt4803.jpg)
+![](/images/lekt4803.webp)
 Abb.: तन्त्री
 Sutgira da sitars = सितारवादकः
 (font da l'imaginescha: [Detagls](/rm/licenses#lekt4803))
@@ -315,7 +315,7 @@ Declinaziun:
 :::
 
 ::: media
-![](/images/lekt4804.jpg)
+![](/images/lekt4804.webp)
 Abb.: स्वतन्त्राः स्त्रियः
 [Gruppa d'autoadina (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (font da l'imaginescha: [Detagls](/rm/licenses#lekt4804))
@@ -328,7 +328,7 @@ Abb.: स्वतन्त्राः स्त्रियः
 कुमार m.: uffant, giuven, princip; epiteton dal कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
-![](/images/lekt4805.jpg)
+![](/images/lekt4805.webp)
 Abb.: कुमारः
 Fest da Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 (font da l'imaginescha: [Detagls](/rm/licenses#lekt4805))
@@ -337,7 +337,7 @@ Fest da Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 कुमारी f.: uffanta, figlia
 
 ::: media
-![](/images/lekt4806.jpg)
+![](/images/lekt4806.webp)
 Abb.: कुमारी
 नेपाल
 (font da l'imaginescha: [Detagls](/rm/licenses#lekt4806))
@@ -350,7 +350,7 @@ Abb.: कुमारी
 स्थविर 3: vegl, vegl
 
 ::: media
-![](/images/lekt4807.jpg)
+![](/images/lekt4807.webp)
 Abb.: स्थविराः
 जोधपुर
 (font da l'imaginescha: [Detagls](/rm/licenses#lekt4807))
@@ -363,7 +363,7 @@ Abb.: स्थविराः
 सूक्ष्म 3: fin, minus, suttil
 
 ::: media
-![](/images/lekt4808.jpg)
+![](/images/lekt4808.webp)
 Abb.: सूक्ष्मम्
 Lac Karanji = ಕಾರಂಜಿ ಕೆರೆ
 (font da l'imaginescha: [Detagls](/rm/licenses#lekt4808))
@@ -380,7 +380,7 @@ Lac Karanji = ಕಾರಂಜಿ ಕೆರೆ
 जाया f.: consorta
 
 ::: media
-![](/images/lekt4809.jpg)
+![](/images/lekt4809.webp)
 Abb.: मम जाया
 (imaginescha: Payer)
 (font da l'imaginescha: [Detagls](/rm/licenses#lekt4809))

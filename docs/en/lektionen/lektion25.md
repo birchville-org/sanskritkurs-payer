@@ -223,7 +223,7 @@ therefrom:
 धान्य n.: threshed grain
 
 ::: media
-![](/images/lekt2501.jpg)
+![](/images/lekt2501.webp)
 Fig.: धान्यम्
 (Image source: [Details](/en/licenses#lekt2501))
 :::
@@ -310,7 +310,7 @@ therefrom:
 मूल n.: root
 
 ::: media
-![](/images/lekt2502.jpg)
+![](/images/lekt2502.webp)
 Fig.: मूलानि
 (Image source: [Details](/en/licenses#lekt2502))
 :::
@@ -330,7 +330,7 @@ therefrom:
 :::
 
 ::: media
-![](/images/lekt2503.jpg)
+![](/images/lekt2503.webp)
 Fig.: लिप्तिः
 (Image source: [Details](/en/licenses#lekt2503))
 :::
@@ -355,7 +355,7 @@ therefrom:
 :::
 
 ::: media
-![](/images/lekt2504.jpg)
+![](/images/lekt2504.webp)
 Fig.: विवाहः
 (Image source: [Details](/en/licenses#lekt2504))
 :::
@@ -374,7 +374,7 @@ therefrom:
 विष्टि f.: work, corvée
 
 ::: media
-![](/images/lekt2505.jpg)
+![](/images/lekt2505.webp)
 Fig.: विष्टिः
 (Image source: [Details](/en/licenses#lekt2505))
 :::
@@ -402,7 +402,7 @@ of:
 हिरण्य ३ : golden ; n.: gold, money, wealth
 
 ::: media
-![](/images/lekt2506.jpg)
+![](/images/lekt2506.webp)
 Fig.: हिरण्यम्
 (Image source: [Details](/en/licenses#lekt2506))
 :::
@@ -461,7 +461,7 @@ B) Translate and resolve the compounds in Sanskrit:
 लोकादधिको हरिः ॥१७॥ (हरi m. = विष्णु / कृष्ण)
 
 ::: media
-![](/images/lekt2507.jpg)
+![](/images/lekt2507.webp)
 Fig.: लोकादधिको हरिः
 :::
 

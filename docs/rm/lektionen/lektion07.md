@@ -235,7 +235,7 @@ La quinta classe de present constituescha in stem da present ditg athematic, qua
 - **su** 5 U (sunoti) सु सुनोति : spremer
 - **soma** m. सोम : bevanda da spremitura, Soma; luna (Da quala planta il Soma è stà spremit, è ancadi oz discurì).
 ::: media
-![](/images/lekt0701.jpg)
+![](/images/lekt0701.webp)
 Abb.: Era questa la planta dal Soma vedica?: Pil da muvel: *Amanita muscaria* (L.) Lam.
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt0701))
 :::
@@ -258,7 +258,7 @@ Abb.: Era questa la planta dal Soma vedica?: Pil da muvel: *Amanita muscaria* (L
    ब्राह्मणस् ... यजति (देव, देवी, विष्णु, अग्नि, देवता)
 
 ::: media
-![](/images/lekt0704.jpg)
+![](/images/lekt0704.webp)
 Abb.: Viṣṇu = विष्णु, 8./9. tschientaner.
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt0704))
 :::
@@ -299,7 +299,7 @@ Abb.: Viṣṇu = विष्णु, 8./9. tschientaner.
    यजति |
 
 ::: media
-![](/images/lekt0702.jpg)
+![](/images/lekt0702.webp)
 Abb.: **yajati** = यजति — Sacrifici vedic = **yajña** m. = यज्ञ
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt0702))
 :::
@@ -321,7 +321,7 @@ Abb.: **yajati** = यजति — Sacrifici vedic = **yajña** m. = यज्�
 8. Welchem Gott opfert dieser Brahmane?
 
 ::: media
-![](/images/lekt0703.jpg)
+![](/images/lekt0703.webp)
 Abb.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt0703))
 :::

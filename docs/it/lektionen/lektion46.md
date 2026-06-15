@@ -406,23 +406,23 @@ Per राहु e केतु vedere:
 
 > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Introduzione e panoramica. -- 10. Sacramenti e riti di passaggio (samskara). -- Appendice C: Rahu e Ketu, i pianeti erranti invisibili. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 Fig.: [सूर्यः, चन्द्रः, मङ्गलः](/it/licenses#lekt4602)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 Fig.: [बुधः, बृहस्पतिः](/it/licenses#lekt4603)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 Fig.: [शुक्रः, शनिः](/it/licenses#lekt4604)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 Fig.: [राहुः, केतुः](/it/licenses#lekt4605)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4605))
 :::
@@ -451,7 +451,7 @@ Infinito नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 Fig.: [नारायण तुभ्यं नमामि](/it/licenses#lekt4607)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4607))
 :::
@@ -469,7 +469,7 @@ Infinito रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 Fig.: [अश्वरोहकः](/it/licenses#lekt4606)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4606))
 :::
@@ -488,7 +488,7 @@ Assoluto -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 Fig.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/it/licenses#lekt4608)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4608))
 :::
@@ -517,7 +517,7 @@ Derivati:
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 Fig.: [श्रान्तः](/it/licenses#lekt4609)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4609))
 :::
@@ -547,7 +547,7 @@ da ciò:
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 Fig.: [सङ्गः](/it/licenses#lekt4610)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4610))
 :::
@@ -615,7 +615,7 @@ ad es.
 भोस् particella vocativa: esclamazione di indirizzo, ad es.: ehi, ehi là, oh, eh, ciao, hi! Spesso non traducibile. Questa particella presenta un Sandhi speciale: davanti a tutti i suoni sonori, la forma è ***भो***.
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 Fig.: [भोः](/it/licenses#lekt4611)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4611))
 :::
@@ -691,7 +691,7 @@ B) Tradurre:
 नास्ति बुद्धिरयुक्तस्य ॥३॥
 
 ::: media
-![](/images/lekt4612.jpg)
+![](/images/lekt4612.webp)
 Fig.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/it/licenses#lekt4612)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4612))
 :::

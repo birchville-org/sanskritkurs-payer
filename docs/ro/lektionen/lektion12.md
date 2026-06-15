@@ -175,7 +175,7 @@ O listă a rădăcinilor *aniṭ* se găsește la Kielhorn, *Gramatik* § 298.
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : a se trezi, a se trezi la cunoaștere, a recunoaște; PPP **buddha** 3 trezit, prin urmare **Buddha** = „cel trezit” (nu: cel iluminat)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 Fig.: गौतमो बुद्धः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1201))
 :::
@@ -186,7 +186,7 @@ Fig.: गौतमो बुद्धः
 - **mārga** m. मार्ग : cale (drumurile erau adesea potecile animalelor sălbatice)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 Fig.: मार्गः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1202))
 :::
@@ -205,7 +205,7 @@ La formarea cuvintelor:
 - **budh**: **bodhi** m./f. बोधि : trezirea (prin care un Buddha sau Jina ajunge la înțelegerea mântuitoare)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 Fig.: महावीरो जिनः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1203))
 :::

@@ -108,7 +108,7 @@ Parce qu'elle voulait entendre le Dharma, la Brahmane est allée dans la grande 
 Manger, dormir, avoir peur et avoir des relations sexuelles sont communs aux humains et au bétail. La différence distinctive des humains réside dans le dharma. Sans dharma, ils sont égaux au bétail.
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 Fig. : आहारनिद्राभयमैथुनं च
 (Source de l'image : [Détails](/fr/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) Donnez les formes de base (sens, classe de présent, mode, 3e sg. présent in
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 Fig. : बालाः पिबन्ति
 (Source de l'image : [Détails](/fr/licenses#uebung036))
 :::

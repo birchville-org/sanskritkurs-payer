@@ -106,7 +106,7 @@ A) Forme las formas de la primera persona que corresponden a las siguientes form
 :::
 
 ::: media
-![](/images/uebung064.jpg)
+![](/images/uebung064.webp)
 Fig.: आगारे सीदामः
 (Fuente de la imagen: [Detalles](/licenses#uebung064))
 :::

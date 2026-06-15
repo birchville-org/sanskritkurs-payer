@@ -106,7 +106,7 @@ Ascultare față de cei născuți de două ori, activități pentru subzistenț�
 Economia este agricultură, creșterea animalelor și comerț.
 
 ::: media
-![](/images/uebung013.jpg)
+![](/images/uebung013.webp)
 Fig.: रक्षणं सर्वभूतानाम्
 (Sursa imaginii: [Detalii](/licenses#uebung013))
 :::

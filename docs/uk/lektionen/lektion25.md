@@ -223,7 +223,7 @@ status: stable
 धान्य н.:  обмолочене зерно
 
 ::: media
-![](/images/lekt2501.jpg)
+![](/images/lekt2501.webp)
 Рис.: धान्यम्
 (Джерело зображення: [Деталі](/uk/licenses#lekt2501))
 :::
@@ -310,7 +310,7 @@ status: stable
 मूल н.: корінь
 
 ::: media
-![](/images/lekt2502.jpg)
+![](/images/lekt2502.webp)
 Рис.: मूलानि
 (Джерело зображення: [Деталі](/uk/licenses#lekt2502))
 :::
@@ -330,7 +330,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2503.jpg)
+![](/images/lekt2503.webp)
 Рис.: लिप्तिः
 (Джерело зображення: [Деталі](/uk/licenses#lekt2503))
 :::
@@ -355,7 +355,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2504.jpg)
+![](/images/lekt2504.webp)
 Рис.: विवाहः
 (Джерело зображення: [Деталі](/uk/licenses#lekt2504))
 :::
@@ -374,7 +374,7 @@ status: stable
 विष्टि ж.: робота, примусова праця
 
 ::: media
-![](/images/lekt2505.jpg)
+![](/images/lekt2505.webp)
 Рис.: विष्टिः
 (Джерело зображення: [Деталі](/uk/licenses#lekt2505))
 :::
@@ -402,7 +402,7 @@ status: stable
 हिरण्य ३ : золотий ; с.р.: золото, гроші, багатство
 
 ::: media
-![](/images/lekt2506.jpg)
+![](/images/lekt2506.webp)
 Рис.: हिरण्यम्
 (Джерело зображення: [Деталі](/uk/licenses#lekt2506))
 :::
@@ -461,7 +461,7 @@ B) Перекладіть та розберіть санскритські ск�
 लोकादधिको हरिः ॥१७॥ (हरi чол. р. = विष्णु / कृष्ण)
 
 ::: media
-![](/images/lekt2507.jpg)
+![](/images/lekt2507.webp)
 Рис.: लोकादधिको हरिः
 :::
 

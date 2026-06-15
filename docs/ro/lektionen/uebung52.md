@@ -26,7 +26,7 @@ last_reconstructed: 2026-05-15
 > Ceea ce, dacă este făcut, aduce împlinire interioară, acela trebuie făcut cu sârguință; ceea ce este contrariul, acela trebuie evitat.
 
 ::: media
-![](/images/uebung087.jpg)
+![](/images/uebung087.webp)
 Fig.: सर्वं परवशं दुःखम्
 (Sursa imaginii: [Detalii](/licenses#uebung087))
 :::
@@ -119,7 +119,7 @@ Cunoașterea eliberatoare a Budelor:
 > "Aceste ființe, care au făcut fapte rele, merg într-o existență rea; acești alții, care au karmă bună, se nasc din nou în cerul lui Indra."
 
 ::: media
-![](/images/uebung088.jpg)
+![](/images/uebung088.webp)
 Fig.: कदलीगर्भनिःसारः
 (Sursa imaginii: [Detalii](/licenses#uebung088))
 :::

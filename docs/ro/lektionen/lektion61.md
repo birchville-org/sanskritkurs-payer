@@ -70,7 +70,7 @@ Neregulat: स्त्री f. "femeie"
 :::
 
 ::: media
-![](/images/lekt6102.jpg)
+![](/images/lekt6102.webp)
 Fig.: स्त्रियः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6102))
 :::
@@ -157,7 +157,7 @@ Paradigmă:
 | **सप्तमी** | खलप्वि | ^^ | खलपूषु |
 
 ::: media
-![](/images/lekt6106.jpg)
+![](/images/lekt6106.webp)
 Fig.: रथ्याप्वः
 काशीपुर
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6106))
@@ -185,7 +185,7 @@ Paradigmă:
 | **आमन्त्रितम्** | वधु | वध्वौ | वध्वस् |
 
 ::: media
-![](/images/lekt6107.jpg)
+![](/images/lekt6107.webp)
 Fig.: वध्वौ
 जोधपुर
 (Sursă imagine: [Detalii](/ro/licenses#lekt6107))
@@ -264,7 +264,7 @@ Paradigmă:
 :::
 
 ::: media
-![](/images/lekt6104.jpg)
+![](/images/lekt6104.webp)
 Fig.: सर्पो वव्रज्यते ॥
 Karnataka = ಕರ್ನಾಟಕ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6104))
@@ -465,13 +465,13 @@ Aveți în vedere semnificația de:
 | नमस् n. "închinare" | नमस्यति "el închină" |
 
 ::: media
-![](/images/lekt6105.jpg)
+![](/images/lekt6105.webp)
 Fig.: किं तपस्यति न वा ?
 हरिद्वार
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6105))
 :::
 ::: media
-![](/images/lekt6103.jpg)
+![](/images/lekt6103.webp)
 Fig.: बालौ शिवं नमस्यतः ॥
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6103))
 :::
@@ -491,7 +491,7 @@ Exemple:
 | यशस् n. "renumite" | यशस्काम्यति "el își dorește renumite" |
 
 ::: media
-![](/images/lekt6109.jpg)
+![](/images/lekt6109.webp)
 Fig.: यशस्काम्यन्ति
 मुंबई
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6109))
@@ -516,7 +516,7 @@ Exemple:
 :::
 
 ::: media
-![](/images/lekt6110.jpg)
+![](/images/lekt6110.webp)
 Fig.: कस्तत्र न मधुस्यति ?
 Karli
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6110))
@@ -567,7 +567,7 @@ Exemple:
 ::::
 
 ::: media
-![](/images/lekt6111.jpg)
+![](/images/lekt6111.webp)
 Fig.: श्वानौ शब्दायेते
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6111))
 :::
@@ -587,7 +587,7 @@ Exemple:
 | मुण्ड 3 "ras" | मुण्डयति "el rade" |
 
 ::: media
-![](/images/lekt6113.jpg)
+![](/images/lekt6113.webp)
 Fig.: भिक्षुर्मुण्डयते ।
 Thailanda - เมืองไทย
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6113))
@@ -655,7 +655,7 @@ Paradigmă:
 :::
 
 ::: media
-![](/images/lekt6114.jpg)
+![](/images/lekt6114.webp)
 Fig.: नववर्षं शुभं भूयात् ॥
 Bazilica Santa Cruz, Kochi = കൊച്ചി
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6114))
@@ -707,11 +707,11 @@ Paradigmă:
 Paradigme: Kielhorn, Grammatik § 153:
 
 ::: media
-![](/images/lekt6115.jpg)
+![](/images/lekt6115.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6115))
 :::
 ::: media
-![](/images/lekt6118.jpg)
+![](/images/lekt6118.webp)
 Fig.: हरिद्वारे गावः ॥
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6118))
 :::
@@ -727,7 +727,7 @@ Kielhorn, Gramatică § 177:
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6116))
 :::
 ::: media
-![](/images/lekt6117.jpg)
+![](/images/lekt6117.webp)
 Ilustr.: आवां स्वसारौ ॥
 Populația Apatani, Arunachal Pradesh
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6117))
@@ -780,7 +780,7 @@ Feminin (स्त्री)
 După finalizarea cursului de sanscrită, începe cu adevărat „înotul” propriu-zis în oceanul literaturii sanscrite. Deoarece acest ocean este plin de obstacole, este adecvat să începem această nouă etapă a vieții cu o invocație către Gaṇeśa:
 
 ::: media
-![](/images/lekt6101.jpg)
+![](/images/lekt6101.webp)
 Fig.: श्रीगणनाथः
 Halebidu (ಹಳೆಬೀಡು), sec. al XII-lea/al XIII-lea d. Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6101))
@@ -807,7 +807,7 @@ Rāga: Malahari (corespunzător lui मायामाळवगौळ = Māyām�
 Tāla: Rūpaka: o |4
 
 ::: media
-![](/images/lekt6119.jpg)
+![](/images/lekt6119.webp)
 Fig.: Melodia, raportată la do, poate fi transpusă în funcție de registrul vocal.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6119))
 :::

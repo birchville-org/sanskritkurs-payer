@@ -73,7 +73,7 @@ Inf. ग्रसितुम्
 परिव्राजक m.: peragrator, monachus peregrinus, peregrinus
 
 ::: media
-![](/images/lekt2903.jpg)
+![](/images/lekt2903.webp)
 Fig.: परिव्राजकाः
 Pushkar = पुष्कर
 (Fons imaginis: [Detalia](/la/licenses#lekt2903))
@@ -93,7 +93,7 @@ unde:
 :::
 
 ::: media
-![](/images/lekt2901.jpg)
+![](/images/lekt2901.webp)
 Fig.: मत्स्यः
 रोहू मछली = Labeo rohita Hamilton
 (Fons imaginis: [Detalia](/la/licenses#lekt2901))

@@ -12,7 +12,7 @@ status: stable
 ## 20.1. ਸੰਪਤੀ-ਸੰਯੁਕਤ = बहुव्रीहि ਪੁੰਲਿੰਗ
 
 ::: media
-![](/images/lekt2004.jpg)
+![](/images/lekt2004.webp)
 ਚਿੱਤਰ: बहुव्रीहिः पुरुषः
 ਜੋਧਪੁਰ = जोधपुर
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2004))
@@ -159,7 +159,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2005.jpg)
+![](/images/lekt2005.webp)
 ਅਲੰਕਾਰ: देवा यीश्वादयः
 ਯਿਸੂ ਅਤੇ ਬਾਕੀ ਦੇਵਤੇ, ਅਹਿਮਦਾਬਾਦ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2005))
@@ -190,7 +190,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2001.jpg)
+![](/images/lekt2001.webp)
 ਚਿੱਤਰ: इन्द्रो वज्रपाणिः
 ਸੀਏਮਰੀਪ (ក្រុងសៀមរាប), ਕੰਬੋਡੀਆ, ੯. ਸਦੀ ਈ.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2001))
@@ -221,7 +221,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2006.jpg)
+![](/images/lekt2006.webp)
 ਚਿੱਤਰ: सपुत्रा
 ਮਧ്യ ਪ੍ਰਦੇਸ਼
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2006))
@@ -260,7 +260,7 @@ status: stable
 13.  ਅਤੇ ਹੋਰ
 
 ::: media
-![](/images/lekt2007.jpg)
+![](/images/lekt2007.webp)
 ਚਿੱਤਰ: कृतकटा
 ਚੇਨਈ = சென்னை
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2007))
@@ -290,7 +290,7 @@ status: stable
 आश्रम ਪੁ., ਨਪ.: ਖਾਲੀ ਜਗ੍ਹਾ, ਜੀਵਨ ਦਾ ਪੜਾਅ, ਜੀਵਨ ਦਾ ਅੰਤਰਾਲ (ਯਾਨੀ ਵਜੋਂ ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ ਅਤੇ ਸੰਭਵ ਤੌਰ 'ਤੇ ਵਜੋਂ सन्न्यासिन् ; ਦੇਖੋ Basham, Wonder ਸ. 159f.)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 ਚਿੱਤਰ: आश्रमः
 Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2008))
@@ -523,7 +523,7 @@ B) ਸੰਯੁਕਤ ਸ਼ਬਦਾਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸ
 :::
 
 ::: media
-![](/images/lekt2010.jpg)
+![](/images/lekt2010.webp)
 ਚਿੱਤਰ: तपस्
 ਬੁੱਧ ਇੱਕ ਤਪਸਵੀ ਵਜੋਂ ਆਪਣੀ ਮੁਕਤੀਦਾਇਕ ਜਾਗ੍ਰਿਤੀ ਤੋਂ ਪਹਿਲਾਂ, ਗੰਧਾਰ, 2./3. ਸਦੀ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2010))
@@ -565,7 +565,7 @@ B) ਸੰਯੁਕਤ ਸ਼ਬਦਾਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸ
 :::
 
 ::: media
-![](/images/lekt2009.jpg)
+![](/images/lekt2009.webp)
 ਚਿੱਤਰ: लोकानां करदा मही
 ਕਰਨਾਟਕ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2009))
@@ -595,7 +595,7 @@ B) ਸੰਯੁਕਤ ਸ਼ਬਦਾਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸ
 :::
 
 ::: media
-![](/images/lekt2003.jpg)
+![](/images/lekt2003.webp)
 ਚਿੱਤਰ: तनुमध्यं पृथुश्रोणि
 ਸਾਂਚੀ = सांची
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2003))

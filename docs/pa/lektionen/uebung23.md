@@ -108,7 +108,7 @@ Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfe
 ਖਾਣਾ, ਸੌਣਾ, ਡਰ ਅਤੇ ਸੰਗਮ ਮਨੁੱਖਾਂ ਨੂੰ ਪਸ਼ੂਆਂ ਨਾਲ ਸਾਂਝਾ ਹੈ। ਮਨੁੱਖਾਂ ਦਾ ਉੱਘਾ ਅੰਤਰ ਧਰਮ ਵਿੱਚ ਹੈ। ਧਰਮ ਬਿਨਾਂ ਉਹ ਪਸ਼ੂਆਂ ਦੇ ਬਰਾਬਰ ਹਨ।
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 ਚਿੱਤਰ: आहारनिद्राभयमैथुनं च
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) निम्नलिखित धातुओं के लिए मूल�
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 चित्र: बालाः पिबन्ति
 (चित्र स्रोत: [विवरण](/licenses#uebung036))
 :::

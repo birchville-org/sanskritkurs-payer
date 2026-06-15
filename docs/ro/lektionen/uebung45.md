@@ -59,7 +59,7 @@ Brahmane, as-tu versé du ghee dans le feu du sacrifice ?
 Ennemi, avec l'épée, tu ne brises pas l'âme (la vie).
 
 ::: media
-![](/images/uebung074.jpg)
+![](/images/uebung074.webp)
 Fig. : हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात
 (Source de l'image : [Détails](/licenses#uebung074))
 :::

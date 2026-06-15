@@ -160,7 +160,7 @@ Según la teoría clásica (p. ej. Manusmṛti I, 88-91), las tareas se distribu
 Los cuatro estados (**varṇa** m.) se confunden a menudo con las castas. Sin embargo, los cuatro estados, a diferencia de las castas, no son algo específicamente indio; en Europa también tuvimos un sistema de estados (en parte hasta la Primera Guerra Mundial), como demuestra la siguiente ilustración del siglo XV:
 
 ::: media
-![](/images/lekt0201.jpg)
+![](/images/lekt0201.webp)
 Fig.: Representación de la división de estados de la Europa medieval (grabado en madera de finales del siglo XV).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0201))
 :::
@@ -212,7 +212,7 @@ Fig.: Dios Agni, miniatura, s. XVIII.
 **sādhu** m. -- साधु : hombre «santo», Sādhu.
 
 ::: media
-![](/images/lekt0202.jpg)
+![](/images/lekt0202.webp)
 Fig.: Sādhu (साधु), Templo Pashupatinath, Katmandú.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0202))
 :::

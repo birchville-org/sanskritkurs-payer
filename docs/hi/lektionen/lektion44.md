@@ -218,7 +218,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt4402.jpg)
+![](/images/lekt4402.webp)
 अभ.: जर्मन भाषा में "हे" के उचित प्रयोग के लिए: ***"हे मनुष्य!"***
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4402))
 :::
@@ -259,7 +259,7 @@ PPP ⟪यात⟫
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 अभ.: ⟪रेल्यानम्⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4403))
 :::
@@ -279,7 +279,7 @@ PPP ⟪शयित⟫
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 अभ.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4404))
 :::
@@ -302,7 +302,7 @@ PPP ⟪नन्दित⟫
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 अभ.: ⟪नन्दी⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4405))
 :::
@@ -328,7 +328,7 @@ PPP ⟪आयत⟫ 3: लंबा खिंचा हुआ
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 अभ.: ⟪आयतो⟫ ⟪मरुः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4406))
 :::
@@ -353,7 +353,7 @@ PPP ⟪यत्त⟫
 :::
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 अभ.: ⟪यत्नेन⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4407))
 :::
@@ -382,7 +382,7 @@ PPP ⟪रब्ध⟫
 :::
 
 ::: media
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 अभ.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4408))
 :::
@@ -445,7 +445,7 @@ A) निम्नलिखित रूपों का निर्धार�
 52.  ⟪हतः⟫
 
 ::: media
-![](/images/lekt4409.jpg)
+![](/images/lekt4409.webp)
 अभ.: ⟪कस्माद्रोदिषि⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4409))
 :::

@@ -97,7 +97,7 @@ Nota: En relaziuns cun in contengid generalmain valaivel vegn gustà d'utilisar 
 :::
 
 ::: media
-![](/images/lekt1809.jpg)
+![](/images/lekt1809.webp)
 Abb.: कामः
 Illustraziun al कामसूत्र
 (font da l’imagine: [Detagls](/rm/licenses#lekt1809))
@@ -127,7 +127,7 @@ da **स्था** :
 :::
 
 ::: media
-![](/images/lekt1901.jpg)
+![](/images/lekt1901.webp)
 Abb.: गर्भगृहम्
 Badami (ಬದಾಮಿ)
 (font da l’imagine: [Detagls](/rm/licenses#lekt1901))
@@ -158,7 +158,7 @@ quai da:
 **छत्त्र n.:** ombrel da sulegl, ombrel
 
 ::: media
-![](/images/lekt1904.jpg)
+![](/images/lekt1904.webp)
 Abb.: छत्त्रम्
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), en vestgì tradicional è in’abitudine en las parts dal sid da Kerala. _Onappottan_ visiteschas chasas durant il _onam_ e dat benedicziuns. Da nov è l’_onappottan_ daventà ina vista rara, limitada a vills."
 (font da l’imagine: [Detagls](/rm/licenses#lekt1904))

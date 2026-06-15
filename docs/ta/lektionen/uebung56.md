@@ -97,7 +97,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: media
-![](/images/uebung091.jpg)
+![](/images/uebung091.webp)
 அடிப்படை: जेरिम
 (பட மூலம்: [விவரங்கள்](/licenses#uebung091))
 

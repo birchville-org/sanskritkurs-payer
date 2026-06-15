@@ -156,7 +156,7 @@ Raíz en **-a** + **-tya**
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 Fig.: कामदेवः
 Siglo XIX
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2202))
@@ -174,7 +174,7 @@ de ello:
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 Fig.: दुर्गाशक्तिः
 Calcuta = কলকাতা
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2203))
@@ -204,7 +204,7 @@ de ello:
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 Fig.: धेनवश्चरन्ति
 Goa = गोंय
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2201))
@@ -276,7 +276,7 @@ Goa = गोंय
 **C) Convierta las oraciones anteriores (excepto las oraciones 8 y 10) en construcciones pasivas**
 
 ::: media
-![](/images/lekt2204.jpg)
+![](/images/lekt2204.webp)
 Fig.: अन्नं पक्त्वा
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2204))
 :::

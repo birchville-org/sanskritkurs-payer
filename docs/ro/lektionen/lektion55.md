@@ -92,7 +92,7 @@ Determinați și traduceți scris următoarele forme și formați formele coresp
 32.  सिष्णेह
 
 ::: media
-![](/images/lekt5501.jpg)
+![](/images/lekt5501.webp)
 Fig.: अजीर्यमिति
 'Inâyat Khân pe patul de moarte, schiță pentru o miniatură a unui manuscris pentru Jahângîr = جهانگير, circa 1618
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5501))

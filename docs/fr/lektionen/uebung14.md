@@ -176,7 +176,7 @@ Le fils de qui est ce garçon ?
 La nourriture de qui ce sage védique a-t-il sacrifiée ?
 
 ::: media
-![](/images/uebung017.jpg)
+![](/images/uebung017.webp)
 Fig. : नायकश्च नायिका च
 (Source de l'image : [Détails](/fr/licenses#uebung017))
 :::

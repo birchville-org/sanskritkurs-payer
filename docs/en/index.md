@@ -22,13 +22,13 @@ features:
     details: Built on the foundation of VitePress for maximum speed.
 ---
 
-::: tip Version 1.3 — In Development
-**New in v1.3 (June 2026):**
+::: tip Version 1.4 — Offline-First PWA
+**New in v1.4 (June 2026):**
 
-- **New Languages:** Punjabi (PA), Latin (LA), Romansh Grischun (RM), Romanian (RO)
-- **Glossary:** Sanskrit alphabetized with IAST and direct linking to the [Monier-Williams 1899 Dictionary](https://www.sanskrit-lexicon.uni-koeln.de/)
-- **QA Viewer:** Enhanced Markdown editor with live preview, raw-source sync, and SWAP functionality
-- **Quality:** Automatic pre-push checks for translation errors
+- **Progressive Web App (PWA):** The course can now be installed as an app on your desktop and smartphone (iOS/Android).
+- **Fully Offline:** All selected content is stored locally and can be used completely without an internet connection.
+- **Dynamic Caching:** You can use the Settings to precisely control which of the 14 languages should be available offline at any time.
+- **High Performance:** Massive reduction in loading times and data consumption thanks to highly compressed WebP images.
 
-**Comments and error reports:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Comments and bug reports:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 :::

@@ -105,7 +105,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 :::
 
 ::: media
-![](/images/uebung064.jpg)
+![](/images/uebung064.webp)
 Abb.: आगारे सीदामः
 (Bildquelle: [Details](/licenses#uebung064))
 :::

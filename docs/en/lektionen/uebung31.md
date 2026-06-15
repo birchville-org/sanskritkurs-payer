@@ -30,7 +30,7 @@ One who has insight is freed from suffering; therefore, someone who desires libe
 A deluded person enjoys good food and beautiful women. Whose delusion has disappeared, desires no good food and no woman with a perfect body. He prevents greed and hatred and concentrates on insight.
 
 ::: media
-![](/images/uebung049.jpg)
+![](/images/uebung049.webp)
 Fig.: कुलबन्धनम्
 (Image source: [Details](/en/licenses#uebung049))
 :::

@@ -112,7 +112,7 @@ Brahmanen haben den Veda studiert und gelehrt, den Göttern als Opferherren und 
 Söhne Buddhas haben die Wahrheit erkannt, das Leiden zum Stillstand gebracht und die Erlösung erreicht. Als "Sohn Buddhas" wird ein Mönch bezeichnet, der den Weg Buddhas geht.
 
 ::: media
-![](/images/uebung050.jpg)
+![](/images/uebung050.webp)
 Abb.: सम्पन्नरूपा
 (Bildquelle: [Details](/licenses#uebung050))
 :::
@@ -213,7 +213,7 @@ Bestimmen und übersetzen Sie folgende Wörter:
 :::
 
 ::: media
-![](/images/uebung051.jpg)
+![](/images/uebung051.webp)
 Abb.: किमयं रथो बालान् सुखतां वहति
 (Bildquelle: [Details](/licenses#uebung051))
 :::
@@ -294,7 +294,7 @@ Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein und beachten Sie
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung052.jpg)
+![](/images/uebung052.webp)
 Abb.: पुनर्दर्शनाय
 (Bildquelle: [Details](/licenses#uebung052))
 :::
@@ -309,7 +309,7 @@ Abb.: पुनर्दर्शनाय
 Der hehre Hari ist meine Zuflucht, der seine Feinde in den Himmel schickte, die Seinen den Sinn des Veda wissen ließ, den Göttern Amṛta zu essen gab, den Schöpfer den Veda lehrte und die Erde im Wasser festsetzte.
 
 ::: media
-![](/images/uebung053.jpg)
+![](/images/uebung053.webp)
 Abb.: श्रीगङ्गाधराय नमः
 (Bildquelle: [Details](/licenses#uebung053))
 :::
@@ -324,7 +324,7 @@ Abb.: श्रीगङ्गाधराय नमः
 Einst ging ein Greis in ein anderes Dorf und wurde unterwegs müde. Um sich auszuruhen, ging er an den Fuß eines Mangobaums am Wegrand. Auf diesem Baum hingen reife Früchte. Der Greis bekam Lust auf sie, aber er konnte nicht auf den Baum steigen, um sie zu pflücken. Zum Glück waren auf dem Baum einige Affen, die Früchte fraßen. Als der Greis dies sah, freute er sich. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf sie. Die Affen wurden wütend, pflückten einige Früchte und warfen sie auf den Greis. Der Greis nahm freudig die Früchte und ging seines Weges. Großartig ist das Geschick des Greises!
 
 ::: media
-![](/images/uebung054.jpg)
+![](/images/uebung054.webp)
 Abb.: वानरः कुपितः
 (Bildquelle: [Details](/licenses#uebung054))
 :::

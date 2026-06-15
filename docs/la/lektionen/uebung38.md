@@ -58,7 +58,7 @@ Si reges ius et mos non custodiunt, homines metu pleni sunt.
 :::
 
 ::: media
-![](/images/uebung063.jpg)
+![](/images/uebung063.webp)
 Fig.: राज्ञे बलिनो हस्तिनो दीयेरन्
 (Fons imaginis: [Detalia](/licenses#uebung063))
 :::

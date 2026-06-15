@@ -43,7 +43,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: media
-![](/images/uebung090.jpg)
+![](/images/uebung090.webp)
 Abb.: वारानास्यां गङ्गायामप्लोढ्वम्
 (Bildquelle: [Details](/licenses#uebung090))
 :::
@@ -116,7 +116,7 @@ Bestimmen und übersetzen Sie die folgenden Formen:
 :::
 
 ::: media
-![](/images/uebung094.jpg)
+![](/images/uebung094.webp)
 Abb.: पाणी धूपं कुरुतः ॥
 (Bildquelle: [Details](/licenses#uebung094))
 :::

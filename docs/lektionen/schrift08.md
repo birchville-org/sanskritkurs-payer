@@ -2,7 +2,7 @@
 
 Vokalzeichen für den Wortanfang, falls das Wort nicht in der Schreibung mit einem vorhergehenden Wort verbunden ist:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@ In der Type, die in diesem Skript verwendet wird:
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 Anlautendes -a, das gemäß den Satzsandhiregeln elidiert (-as + a- » -o ' ) wird durch den sog. Avagraha bezeichnet:
 

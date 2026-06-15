@@ -2,7 +2,7 @@
 
 ## लिपि अभ्यास 7
 
-![](/images/schrift012.jpg)
+![](/images/schrift012.webp)
 
 व्यंजन के पहले r के उदाहरण:
 
@@ -45,7 +45,7 @@
 
 लिपि के लिए:
 
-![](/images/schrift014.jpg)
+![](/images/schrift014.webp)
 
 ## अभ्यास
 

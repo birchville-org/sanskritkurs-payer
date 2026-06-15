@@ -108,7 +108,7 @@ Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfe
 Їжа, сон, страх і секс є спільними для людей із худобою. Відмінною рисою людей є дхарма. Без дхарми вони рівні худобі.
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 Мал.: आहारनिद्राभयमैथुनं च
 (Джерело зображення: [Деталі](/uk/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) Надайте основні форми (значення, клас тепе
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 Рис.: बालाः पिबन्ति
 (Джерело зображення: [Деталі](/uk/licenses#uebung036))
 :::

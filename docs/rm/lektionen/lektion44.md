@@ -210,7 +210,7 @@ I grammatic locals consideran il vocativ (आमन्त्रितम्) bet
 :::
 
 ::: media
-![](/images/lekt4402.jpg)
+![](/images/lekt4402.webp)
 Abb.: Per l’usiadi correct da "O" en la lingua tedesca: ***"O Mann!"***
 (Sursa da l’imagine: [Detagls](/rm/licenses#lekt4402))
 :::
@@ -251,7 +251,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 Abb.: रेल्यानम्
 (Fontana da l’imaginescha: [Detagls](/rm/licenses#lekt4403))
 :::
@@ -271,7 +271,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 Abb.: योगी शयने शेते
 (Fontana da l’imaginescha: [Detagls](/rm/licenses#lekt4404))
 :::
@@ -294,7 +294,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 Abb.: नन्दी
 (Fontana da l’imaginescha: [Detagls](/rm/licenses#lekt4405))
 :::
@@ -320,7 +320,7 @@ PPP आयत 3: lungamain stendì
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 Abb.: आयतो मरुः
 (Fontana da l’imaginescha: [Detagls](/rm/licenses#lekt4406))
 :::
@@ -345,7 +345,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 Abb.: यत्नेन
 (Fontana da l’imaginescha: [Detagls](/rm/licenses#lekt4407))
 :::
@@ -374,7 +374,7 @@ Vesair:
 :::
 
 ::: media
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 Abb.: प्रव्रअज्या / पब्बजा
 (Fontana da l'imagina: [Detagls](/rm/licenses#lekt4408))
 :::
@@ -437,7 +437,7 @@ A) Determinar e tradurre las suandantas formas:
 52.  हतः
 
 ::: media
-![](/images/lekt4409.jpg)
+![](/images/lekt4409.webp)
 Fig.: कस्माद्रोदिषि
 (Sursa da l’imagina: [Detagls](/rm/licenses#lekt4409))
 :::

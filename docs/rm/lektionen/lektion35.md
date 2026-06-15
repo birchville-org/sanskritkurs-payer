@@ -225,7 +225,7 @@ Exempl:
 :::
 
 ::: media
-![](/images/lekt3502.jpg)
+![](/images/lekt3502.webp)
 Abb.: क्रामन्ति
 Persunas che van, Senegal.
 (Sursa da l’immagina: [Detagls](/rm/licenses#lekt3502))
@@ -245,7 +245,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt3501.jpg)
+![](/images/lekt3501.webp)
 Abb.: जगुः
 Musicists dal temple Kaadu Malleswara Temple Bangalore.
 (Sursa da l’immagina: [Detagls](/rm/licenses#lekt3501))
@@ -285,7 +285,7 @@ A) Formai las formas correspundentas dal Perfekt per las suandantas formas verba
 28. अशृण्वन्
 29. मिमति  
     ::: media
-    ![](/images/lekt3503.jpg)
+    ![](/images/lekt3503.webp)
     Abb.: मिमति
 Market in Vadaseri, Tamil Nadu.
     (Sursaint d’imagine: [Detagl](/rm/licenses#lekt3503))
@@ -312,7 +312,7 @@ B) Tradusci:
 ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥
 
 ::: media
-![](/images/lekt3504.jpg)
+![](/images/lekt3504.webp)
 Abb.: ... ब्राह्मणाश्चेजुः
 Yajña ceremony, Shiva ashram, Ganeshpuri.
 (Sursaint d’imagine: [Detagl](/rm/licenses#lekt3504))

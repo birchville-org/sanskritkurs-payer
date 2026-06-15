@@ -107,7 +107,7 @@ Cuando dos de las tres últimas prescripciones mencionadas puedan aplicarse simu
 **kāma** m. = काम : deseo, anhelo, don deseado, placer sensual, amor; dios del amor Kāma.
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 Fig.: Dios Kāma = kāmadeva = कामदेव, siglo XVIII.
 (Fuente de la imagen: Wikipedia, dominio público)
 :::

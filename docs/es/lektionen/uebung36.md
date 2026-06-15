@@ -68,7 +68,7 @@ Un dvija, que ha estudiado el Veda, conoce la justicia y las costumbres de los d
 Uno no puede vivir únicamente de la ciencia. Quien sepa esto, no debería estudiar.
 
 ::: media
-![](/images/uebung061.jpg)
+![](/images/uebung061.webp)
 Fig.: विद्ययैव जीवितुं न शक्यते
 (Fuente de la imagen: [Detalles](/licenses#uebung061))
 :::
@@ -96,7 +96,7 @@ Se debe saludar a los ancianos con la debida formalidad, cederles el asiento y p
 Si un hombre no se alegra ni se entristece cuando oye, toca, ve, saborea o huele, entonces se le considera aquel que ha vencido a sus sentidos (**जितेन्द्रियः**).
 
 ::: media
-![](/images/uebung060.jpg)
+![](/images/uebung060.webp)
 Lám.: भुक्त्वा घ्रात्वा च न हृष्यति ग्लायति वा
 (Fuente de la imagen: [Detalles](/licenses#uebung060))
 :::
@@ -149,7 +149,7 @@ Determine y traduzca las siguientes formas verbales:
 :::
 
 ::: media
-![](/images/uebung059.jpg)
+![](/images/uebung059.webp)
 Fig.: जगौ
 (Fuente de la imagen: [Detalles](/licenses#uebung059))
 :::

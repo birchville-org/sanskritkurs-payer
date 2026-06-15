@@ -235,7 +235,7 @@ La 5ª classe di presente forma un cosiddetto tema di presente atematico, cioè 
 - **su** 5 U (sunoti) सु सुनोति : spremere
 - **soma** m. सोम : bevanda spremuta, Soma; Luna (Da quale pianta sia stato spremuto il Soma è ancora oggi oggetto di controversia).
 ::: media
-![](/images/lekt0701.jpg)
+![](/images/lekt0701.webp)
 Fig.: Era questa la pianta vedica del Soma?: Fungo mosca: *Amanita muscaria* (L.) Lam.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0701))
 :::
@@ -258,7 +258,7 @@ Fig.: Era questa la pianta vedica del Soma?: Fungo mosca: *Amanita muscaria* (L.
    ब्राह्मणस् ... यजति (देव, देवी, विष्णु, अग्नि, देवता)
 
 ::: media
-![](/images/lekt0704.jpg)
+![](/images/lekt0704.webp)
 Fig.: Viṣṇu = विष्णु, 8./9. secolo.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0704))
 :::
@@ -299,7 +299,7 @@ Fig.: Viṣṇu = विष्णु, 8./9. secolo.
    यजति |
 
 ::: media
-![](/images/lekt0702.jpg)
+![](/images/lekt0702.webp)
 Fig.: **yajati** = यजति — Sacrificio vedico = **yajña** m. = यज्ञ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0702))
 :::
@@ -321,7 +321,7 @@ Fig.: **yajati** = यजति — Sacrificio vedico = **yajña** m. = यज�
 8. A quale dio sacrifica questo brāhmaṇa?
 
 ::: media
-![](/images/lekt0703.jpg)
+![](/images/lekt0703.webp)
 Fig.: A quale dio si sacrifica qui? Risposta: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0703))
 :::

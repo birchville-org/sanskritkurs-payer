@@ -16,7 +16,7 @@ Il lokativ (सप्तमी) risponde alle domande:
 
 > नगरे = “nella città”
 
-![](/images/lekt2701.jpg)  
+![](/images/lekt2701.webp)  
 Fig.: जयपुरनगरे, 1875  
 \[Fonte immagine: Wikipedia. Pubblico dominio\]
 
@@ -39,7 +39,7 @@ Il **Locativus Absolutus** deve essere tradotto a seconda del contesto con “me
 
 Nota: nell’assolutivo l’agente dell’assolutivo e l’agente del verso principale devono coincidere; nel **Locativus Absolutus** l’agente del locativus assoluto e l’agente del verbo principale devono essere diversi.
 
-![](/images/lekt2702.jpg)  
+![](/images/lekt2702.webp)  
 Fig.: एवं गच्छति कालयुष्ट्रः स्वपिति (उष्ट्र = cammello)  
 Rajasthan  
 \[Fonte immagine: fbloeink. – [http://www.flickr.com/photos/20609504@N00/501184601/](http://www.flickr.com/photos/20609504@N00/501184601/). – Accesso il 2008-12-18. – [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, condivisione allo stesso modo)\]  

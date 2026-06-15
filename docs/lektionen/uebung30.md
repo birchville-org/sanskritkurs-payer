@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 Man sage Wahrheiten, die angenehm sind, unangenehme Wahrheiten sage man nicht; nicht sage man angenehme Unwahrheiten, dies ist das ewige Gesetz.
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 Abb.: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (Bildquelle: [Details](/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 Abb.: भक्त्याः
 (Bildquelle: [Details](/licenses#uebung047))
 :::

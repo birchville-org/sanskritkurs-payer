@@ -91,7 +91,7 @@ p. ej. अन्नमय n. "abundancia de comida"
 :::
 
 ::: media
-![](/images/lekt5202.jpg)
+![](/images/lekt5202.webp)
 Fig.: अन्नमयम्
 विवाहः, Chennai = சென்னை
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5202))
@@ -111,7 +111,7 @@ p. ej. कौन्तेय m. "Hijo de कुन्ती"
 :::
 
 ::: media
-![](/images/lekt5203.jpg)
+![](/images/lekt5203.webp)
 Fig.: भीमः कौन्तेयः
 Figura Wayang, Java, Indonesia
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5203))
@@ -135,7 +135,7 @@ Figura Wayang, Java, Indonesia
     नित्यशस् "constantemente"
 :::
 ::: media
-![](/images/lekt5204.jpg)
+![](/images/lekt5204.webp)
 Fig.: अनुक्रमेणैकशः
 Cola frente al templo, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5204))
@@ -179,7 +179,7 @@ La terminación del sustantivo se trata de la siguiente manera:
     p. ej. तिर्यक्करोति "él se desplaza hacia un lado (तिर्यच्)"
 :::
 ::: media
-![](/images/lekt5209.jpg)
+![](/images/lekt5209.webp)
 Fig.: भस्मीकृतं वनम्
 Tala de roza, Arunachal Pradesh = अरुणाचल प्रदेश
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5209))
@@ -391,7 +391,7 @@ Ejemplo:
 :::
 
 ::: media
-![](/images/lekt5205.jpg)
+![](/images/lekt5205.webp)
 Fig.: चतुर्मुखः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5205))
 :::
@@ -426,7 +426,7 @@ Las Siete Estrellas = las siete estrellas más brillantes de la Osa Mayor (Ursa 
     pañca + go » pañcagava (¡no permitido como palabra individual!) + dhana » पञ्चगवधन m. "aquel cuyo riqueza son cinco vacas"
 :::
 ::: media
-![](/images/lekt5207.jpg)
+![](/images/lekt5207.webp)
 Fig.: षण्मातुरः कार्त्तिकेय:
 Jalakandapuram = ஜலகண்டபுரம்
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5207))
@@ -471,7 +471,7 @@ de:
 :::
 
 ::: media
-![](/images/lekt5210.jpg)
+![](/images/lekt5210.webp)
 Fig.: खिलः
 Tambhol, Akole, Ahmednagar = अहमदनगर
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5210))
@@ -505,7 +505,7 @@ PPP विपरीत 3: incorrecto, falso
 पीड् 10P पीडयति : presionar, atormentar ; presionar, sitiar, molestar
 
 ::: media
-![](/images/lekt5212.jpg)
+![](/images/lekt5212.webp)
 Fig.: पीडिताः
 Hidérabad = హైదరాబాద్
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5212))
@@ -523,7 +523,7 @@ de ello:
 प्रधान 3: principal, mejor ; n.: lo más importante
 
 ::: media
-![](/images/lekt5213.jpg)
+![](/images/lekt5213.webp)
 Fig.: प्रधानः
 मुंबई
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5213))
@@ -634,7 +634,7 @@ PPP च्युत
 चक्र n.: rueda
 
 ::: media
-![](/images/lekt5214.jpg)
+![](/images/lekt5214.webp)
 Fig.: चक्रम्
 Konark = कोनार्क
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5214))
@@ -642,7 +642,7 @@ Konark = कोनार्क
 कदली f.: banano (_Musa_ sp.)
 
 ::: media
-![](/images/lekt5208.jpg)
+![](/images/lekt5208.webp)
 Fig.: कदली
 Hampi = ಹಂಪೆ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5208))
@@ -658,7 +658,7 @@ Hampi = ಹಂಪೆ
 मल m.n.: suciedad, mancha
 
 ::: media
-![](/images/lekt5215.jpg)
+![](/images/lekt5215.webp)
 Fig.: मलम्
 मुंबई
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5215))
@@ -668,7 +668,7 @@ Fig.: मलम्
 मार m.: el mal personificado, la seducción/manipulación personificada, diablo
 
 ::: media
-![](/images/lekt5217.jpg)
+![](/images/lekt5217.webp)
 Fig.:
 Amaravati = అమరావతి, s. II d. C.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5217))
@@ -735,7 +735,7 @@ Explicaciones:
 ४. अश्वघोष (s. II d. C.): बुद्धचरित ४ La sabiduría liberadora de Buda
 
 ::: media
-![](/images/lekt5216.jpg)
+![](/images/lekt5216.webp)
 Fig.: अश्वत्थो महाबोधिवृक्षः
 _Ficus religiosa_ L. बोधगया, ca. 1810
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5216))
@@ -818,7 +818,7 @@ Durante las vacaciones del semestre se deben cumplir las siguientes tareas:
      **Winternitz, Moriz &lt;1863 - 1937&gt;: Historia de la literatura india. Stuttgart : Koehler. -- 3 vols. -- 1908 - 1922 (aún la mejor historia de la literatura de los textos en sánscrito, pali y prakrit)**
 
 ::: media
-![](/images/lekt5201.jpg)
+![](/images/lekt5201.webp)
 Fig.: श्रीगुम्पिः , मम मन्त्री
 (Imagen: Payer)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5201))

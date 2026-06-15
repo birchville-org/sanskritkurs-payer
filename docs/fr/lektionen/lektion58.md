@@ -45,7 +45,7 @@ Devant -vas et -vahe, la voyelle thématique -a- est remplacée par -ā-.
 | **3. प्रथमः** | नृत्यतस् | नृत्येते् |
 
 ::: media
-![](/images/lekt5802.jpg)
+![](/images/lekt5802.webp)
 Fig. : नृत्यतः
 ओडिसी
 (Source de l'image : [Détails](/fr/licenses#lekt5802))
@@ -76,7 +76,7 @@ Fig. : नृत्यतः
 :::
 
 ::: media
-![](/images/lekt5803.jpg)
+![](/images/lekt5803.webp)
 Fig. : वानरौ रथाद्भाण्डानि चोरयतः
 Parc national de Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 (Source de l'image : [Détails](/fr/licenses#lekt5803))
@@ -154,7 +154,7 @@ Parc national de Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 :::
 
 ::: media
-![](/images/lekt5806.jpg)
+![](/images/lekt5806.webp)
 Fig. : उष्ट्रौ मरावितः
 (Source de l'image : [Détails](/fr/licenses#lekt5806))
 :::
@@ -169,7 +169,7 @@ Fig. : उष्ट्रौ मरावितः
 :::
 
 ::: media
-![](/images/lekt5804.jpg)
+![](/images/lekt5804.webp)
 Fig. : कन्ये अधीयते
 (Source de l'image : [Détails](/fr/licenses#lekt5804))
 :::
@@ -196,7 +196,7 @@ Fig. : कन्ये अधीयते
 :::
 
 ::: media
-![](/images/lekt5805.jpg)
+![](/images/lekt5805.webp)
 Fig. : भगिन्यौ स्वः
 (Source de l'image : [Détails](/fr/licenses#lekt5805))
 :::
@@ -234,7 +234,7 @@ Fig. : भगिन्यौ स्वः
 | **3. प्रथमः** | सुनुतस् | सुन्वाते |
 
 ::: media
-![](/images/lekt5807.jpg)
+![](/images/lekt5807.webp)
 Fig. : शर्कराम्बु सुनुतः
 पुणेनगरे
 (Source de l'image : [Détails](/fr/licenses#lekt5807))
@@ -295,7 +295,7 @@ Fig. : शर्कराम्बु सुनुतः
 | **3. प्रथमः** | क्रीणीतस् | क्रीणाते |
 
 ::: media
-![](/images/lekt5801.jpg)
+![](/images/lekt5801.webp)
 Fig. : स्त्रियौ शाकं क्रीणाते
 (Source de l'image : [Détails](/fr/licenses#lekt5801))
 :::
@@ -404,7 +404,7 @@ Paradigmes :
 :::
 
 ::: media
-![](/images/lekt5808.jpg)
+![](/images/lekt5808.webp)
 Fig. : दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥
 (Source de l’image : [Détails](/fr/licenses#lekt5808))
 :::

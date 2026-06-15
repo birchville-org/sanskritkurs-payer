@@ -35,13 +35,13 @@ lesson_id: 53
 ::::
 
 ::: media
-![](/images/lekt5301.jpg)
+![](/images/lekt5301.webp)
 Abb.: मार्जारयुगम्
 (Font dal maletg: [Detagls](/rm/licenses#lekt5301))
 :::
 
 ::: media
-![](/images/lekt5302.jpg)
+![](/images/lekt5302.webp)
 Abb.: हस्तौ
 (Font dal maletg: [Detagls](/rm/licenses#lekt5302))
 :::
@@ -129,7 +129,7 @@ Abb.: हस्तौ
 :::
 
 ::: media
-![](/images/lekt5305.jpg)
+![](/images/lekt5305.webp)
 Fig.: भरन्तौ
 (Sursa da l'imagines: [Detagls](/rm/licenses#lekt5305))
 :::
@@ -232,7 +232,7 @@ Fig.: भरन्तौ
 :::
 
 ::: media
-![](/images/lekt5306.jpg)
+![](/images/lekt5306.webp)
 Fig.: फले
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt5306))
 :::
@@ -266,7 +266,7 @@ Fig.: फले
 :::
 
 ::: media
-![](/images/lekt5307.jpg)
+![](/images/lekt5307.webp)
 Fig.: धेनू
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt5307))
 :::
@@ -352,7 +352,7 @@ Exemples:
 ::::
 
 ::: media
-![](/images/lekt5308.jpg)
+![](/images/lekt5308.webp)
 Abb.: पितापुत्रौ
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt5308))
 :::
@@ -488,7 +488,7 @@ Exempl:
 :::
 
 ::: media
-![](/images/lekt5309.jpg)
+![](/images/lekt5309.webp)
 Fig.: द्राघीयो लिङ्गम्
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt5309))
 :::

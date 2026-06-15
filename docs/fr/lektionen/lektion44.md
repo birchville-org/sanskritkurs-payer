@@ -218,7 +218,7 @@ Les grammairiens indigènes ne considèrent pas le vocatif (आमन्त्�
 :::
 
 ::: media
-![](/images/lekt4402.jpg)
+![](/images/lekt4402.webp)
 Légende : Pour une bonne utilisation de « Ô » en allemand : ***« Ô homme ! »***
 (Source de l'image : [Détails](/fr/licenses#lekt4402))
 :::
@@ -259,7 +259,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 Fig. : रेल्यानम्
 (Source de l’image : [Détails](/fr/licenses#lekt4403))
 :::
@@ -279,7 +279,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 Fig. : योगी शयने शेते
 (Source de l’image : [Détails](/fr/licenses#lekt4404))
 :::
@@ -302,7 +302,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 Fig. : नन्दी
 (Source de l’image : [Détails](/fr/licenses#lekt4405))
 :::
@@ -328,7 +328,7 @@ PPP आयत 3 : longuement étendu
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 Fig. : आयतो मरुः
 (Source de l’image : [Détails](/fr/licenses#lekt4406))
 :::
@@ -353,7 +353,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 Fig. : यत्नेन
 (Source de l’image : [Détails](/fr/licenses#lekt4407))
 :::
@@ -382,7 +382,7 @@ Voir :
 :::
 
 ::: media
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 Fig. : प्रव्रअज्या / पब्बजा
 (Source de l'image : [Détails](/fr/licenses#lekt4408))
 :::
@@ -445,7 +445,7 @@ A) Déterminez et traduisez les formes suivantes :
 52.  हतः
 
 ::: media
-![](/images/lekt4409.jpg)
+![](/images/lekt4409.webp)
 Fig. : कस्माद्रोदिषि
 (Source de l'image : [Détails](/fr/licenses#lekt4409))
 :::

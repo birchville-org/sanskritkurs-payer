@@ -125,7 +125,7 @@ D) Ad sententias ad C) formatas, vocativam (passivam) formam componite
 १२. तैः श्रावकैर्बुद्धो धर्मं प्र्च्छ्यते ॥
 
 ::: media
-![](/images/uebung022.jpg)
+![](/images/uebung022.webp)
 Abb.: केनाग्निरिज्यते ।
 (Fons imaginis: [Detalia](/licenses#uebung022))
 :::
@@ -231,7 +231,7 @@ E) Sententias C)1-5 in constructionem activam converte.
 ५. ब्राह्मनो ऽनृतं न वदति ॥
 
 ::: media
-![](/images/uebung021.jpg)
+![](/images/uebung021.webp)
 Fig.: फलान्यश्नुते
 (Fons imaginis: [Detalia](/licenses#uebung021))
 :::

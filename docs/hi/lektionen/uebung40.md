@@ -103,7 +103,7 @@ B) निम्नलिखित क्रिया-रूपों को स�
 :::
 
 ::: media
-![](/images/uebung065.jpg)
+![](/images/uebung065.webp)
 अभि.: ⟪आशिमेति⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung065))
 :::
@@ -154,7 +154,7 @@ B) निम्नलिखित क्रिया-रूपों को स�
 :::
 
 ::: media
-![](/images/uebung066.jpg)
+![](/images/uebung066.webp)
 अभ.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#uebung066))
 :::

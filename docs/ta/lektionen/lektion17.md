@@ -312,7 +312,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 வரைவு: घाताः
 பெங்களூர் = ಬೆಂಗಳೂರು
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt1703))
@@ -328,7 +328,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 வரைவு: योगासनम्
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt1701))
 :::
@@ -347,7 +347,7 @@ status: stable
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : பால் கறக்கு
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 வரைவு: दोग्धि
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt1702))
 :::

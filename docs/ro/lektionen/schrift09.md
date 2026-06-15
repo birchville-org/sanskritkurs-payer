@@ -20,9 +20,9 @@ Semnele de abreviere (de exemplu, în mențiunile de opere) sunt °, de ex. प�
 
 ### Alte vocale în poziție inițială
 
-![](/images/schrift018.jpg)
+![](/images/schrift018.webp)
 
-![](/images/schrift019.jpg)
+![](/images/schrift019.webp)
 
 Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
 

@@ -97,7 +97,7 @@ Determinați și traduceți următoarele forme:
 :::
 
 ::: media
-![](/images/uebung091.jpg)
+![](/images/uebung091.webp)
 Fig.: जेरिम
 (Sursa imaginii: [Detalii](/licenses#uebung091))
 

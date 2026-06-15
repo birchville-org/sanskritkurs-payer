@@ -185,7 +185,7 @@ Exempla:
 Nomina in -is et -us relative rara sunt.
 
 ::: media
-![](/images/lekt4907.jpg)
+![](/images/lekt4907.webp)
 Fig.: नमस्ते
 (Fons imaginis: [Detalia](/la/licenses#lekt4907))
 :::
@@ -248,7 +248,7 @@ Inf. द्रोग्धुम्
 कुलूहल n.: curiositas, interest
 
 ::: media
-![](/images/lekt4901.jpg)
+![](/images/lekt4901.webp)
 Fig.: कुलूहलम्
 (Fons imaginis: [Detalia](/la/licenses#lekt4901))
 :::
@@ -259,7 +259,7 @@ Fig.: कुलूहलम्
 कला f.: ars, technica
 
 ::: media
-![](/images/lekt4902.jpg)
+![](/images/lekt4902.webp)
 Fig.: उत्तमा काला
 शिवो नटराजा, saec. XI.
 (Fons imaginis: [Detalia](/la/licenses#lekt4902))
@@ -278,7 +278,7 @@ Fig.: विहंगः
 वेष m.: vestis, species, aspectus externus
 
 ::: media
-![](/images/lekt4904.jpg)
+![](/images/lekt4904.webp)
 Fig.: वेषः
 वाराणस्याम्
 (Fons imaginis: [Detalia](/la/licenses#lekt4904))
@@ -288,7 +288,7 @@ Fig.: वेषः
 पञ्जर n.: cavea, claustrum
 
 ::: media
-![](/images/lekt4909.jpg)
+![](/images/lekt4909.webp)
 Fig.: पञ्जरम्
 Augur cum psittaco in claustro: psittacus chartulas trahit, in quibus fatum scriptum est, Mysore
 (Fons imaginis: [Detalia](/la/licenses#lekt4909))
@@ -316,7 +316,7 @@ Gerundivum ध्येय
 आदर m.: respectus, observantia, reverentia
 
 ::: media
-![](/images/lekt4905.jpg)
+![](/images/lekt4905.webp)
 Fig.: सादरः
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Fons imaginis: [Detalia](/la/licenses#lekt4905))
@@ -328,7 +328,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 शिशु m.: infans, fetus, iuvenis
 
 ::: media
-![](/images/lekt4906.jpg)
+![](/images/lekt4906.webp)
 Fig.: गजशिशुः
 Sri Lanka
 (Fons imaginis: [Detalia](/la/licenses#lekt4906))
@@ -389,7 +389,7 @@ Questiones regis शूद्रक ex विदिशा ad psittacum वैश
 वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥
 
 ::: media
-![](/images/lekt4908.jpg)
+![](/images/lekt4908.webp)
 Fig.: शुकः
 Psittacus cyanocephala (Psittacula cyanocephala)
 (Fons imaginis: [Detalia](/la/licenses#lekt4908))

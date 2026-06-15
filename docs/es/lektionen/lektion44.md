@@ -218,7 +218,7 @@ Los gramáticos nativos no consideran el vocativo (आमन्त्रित�
 :::
 
 ::: media
-![](/images/lekt4402.jpg)
+![](/images/lekt4402.webp)
 Fig.: Para el uso correcto de "¡Oh" en alemán: ***"¡Oh hombre!"***
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4402))
 :::
@@ -259,7 +259,7 @@ de ello:
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 Fig.: रेल्यानम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4403))
 :::
@@ -279,7 +279,7 @@ de ello:
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 Fig.: योगी शयने शेते
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4404))
 :::
@@ -302,7 +302,7 @@ de ello:
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 Fig.: नन्दी
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4405))
 :::
@@ -328,7 +328,7 @@ PPP आयत 3: largo extendido
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 Fig.: आयतो मरुः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4406))
 :::
@@ -353,7 +353,7 @@ de ello:
 :::
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 Fig.: यत्नेन
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4407))
 :::
@@ -382,7 +382,7 @@ Véase:
 :::
 
 ::: media
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 Fig.: प्रव्रअज्या / पब्बजा
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4408))
 :::
@@ -445,7 +445,7 @@ A) Determine y traduzca las siguientes formas:
 52.  हतः
 
 ::: media
-![](/images/lekt4409.jpg)
+![](/images/lekt4409.webp)
 Fig.: कस्माद्रोदिषि
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4409))
 :::

@@ -20,7 +20,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5007.jpg)
+![](/images/lekt5007.webp)
 படம்: लोकस्योत्तमो गिरिः
 सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = எவரெஸ்ட் மலை
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5007))
@@ -86,7 +86,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt5006.jpg)
+![](/images/lekt5006.webp)
 படம்: का पचतितमाम्
 லிசு = 傈僳族, अरुणाचल प्रदेश
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5006))
@@ -190,14 +190,14 @@ Deklination wie यद् (Ausnahme: Nom.Akk.sg.Neutrum)
 कल्याण 3 (f.: कल्याणी): அழகானது
 
 ::: media
-![](/images/lekt5003.jpg)
+![](/images/lekt5003.webp)
 படம்: कल्याणी
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt5003))
 :::
 कु-: கலப்பினங்களின் முன்னங்கூறாக: மோசமானது
 
 ::: media
-![](/images/lekt5004.jpg)
+![](/images/lekt5004.webp)
 படம்: कुनगरम्
 धारावी, मुंबई
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5004))
@@ -225,7 +225,7 @@ A) அசைநிலை மீளுலோசனைக்காக: பின�
 :::
 
 ::: media
-![](/images/lekt5008.jpg)
+![](/images/lekt5008.webp)
 படம்: गुरुमेव भजे
 கணேஷ்புரி, மும்பை (मुंबई) இருந்து 80 கி.மீ. தொலைவில்
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt5008))

@@ -48,7 +48,7 @@ Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entspreche
 :::
 
 ::: media
-![](/images/uebung092.jpg)
+![](/images/uebung092.webp)
 Abb.: अशोभथाः । अशुभः
 (Bildquelle: [Details](/licenses#uebung092))
 :::

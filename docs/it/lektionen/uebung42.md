@@ -38,7 +38,7 @@ Come si chiama il fratello del marito? Il fratello della moglie deve essere desi
 Il padre desiderava il conseguimento di nipoti.
 
 ::: media
-![](/images/uebung068.jpg)
+![](/images/uebung068.webp)
 Fig.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung068))
 :::
@@ -71,7 +71,7 @@ All'udire questa promessa, principi innumerevoli si presentarono. Eppure, nessun
 Il cuore del re Janaka fu colmo di gioia. Poi fece chiamare Daśaratha e gli altri, e celebrò con grande sfarzo il matrimonio tra Sītā e Rāma.
 
 ::: media
-![](/images/uebung069.jpg)
+![](/images/uebung069.webp)
 Fig.: श्रीसीता श्रीरामश्च
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung069))
 :::

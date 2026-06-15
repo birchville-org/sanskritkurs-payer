@@ -17,7 +17,7 @@ Verehrung des Gaṇeśa
 :::
 
 ::: media
-![](/images/lekt0102.jpg)
+![](/images/lekt0102.webp)
 Abb.: Gaṇeśa, Adamspeak, Sri Lanka
 (Bildquelle: [Details](/licenses#lekt0102))
 :::
@@ -48,7 +48,7 @@ maṅgalacaraṇam
 :::
 
 ::: media
-![](/images/lekt0101.jpg)
+![](/images/lekt0101.webp)
 Abb.: Ardhanarīśvara
 (Bildquelle: [Details](/licenses#lekt0101))
 :::
@@ -86,7 +86,7 @@ Zu Beginn ein Kuriosum:
 ## 1.1. Literatur für Anfänger in Indologie
 
 ::: media
-![](/images/lekt0103.jpg)
+![](/images/lekt0103.webp)
 Abb.: Einbandtitel einer Taschenbuchausgabe
 (Bildquelle: [Details](/licenses#lekt0103))
 :::
@@ -94,7 +94,7 @@ Abb.: Einbandtitel einer Taschenbuchausgabe
 > **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Teil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie.
 
 ::: media
-![](/images/lekt0104.jpg)
+![](/images/lekt0104.webp)
 Abb.: Titelblatt
 (Bildquelle: [Details](/licenses#lekt0104))
 :::
@@ -104,7 +104,7 @@ Abb.: Titelblatt
 > **Kielhorn**, Franz &lt;1840-1908&gt;: Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language
 
 ::: media
-![](/images/lekt0105.jpg)
+![](/images/lekt0105.webp)
 Abb.: Umschlagtitel
 (Bildquelle: [Details](/licenses#lekt0105))
 :::
@@ -140,7 +140,7 @@ Für Wissbegierige zum Nachschlagen:
 Die Laute des Sanskrit nach der traditionellen indischen Klassifikation und ihre wissenschaftliche Umschrift.
 
 ::: media
-![](/images/lekt0106.jpg)
+![](/images/lekt0106.webp)
 (Bildquelle: [Details](/licenses#lekt0106))
 :::
 

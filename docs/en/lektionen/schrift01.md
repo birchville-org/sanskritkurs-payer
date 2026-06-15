@@ -4,13 +4,13 @@
 
 Sanskrit has been and continues to be written in a variety of scripts. The following overview provides a small selection from these scripts:
 
-![](/images/schrift001.jpg)  
+![](/images/schrift001.webp)  
 Fig.: Script samples Sanskrit  
 \[Image source: Wikipedia, GNU FDL License\]
 
 The most important modern North Indian Sanskrit script is Devanāgarī:
 
-![](/images/schrift002.jpg)
+![](/images/schrift002.webp)
 
 Each consonant character denotes a following "a" with the consonant. If the pure consonant is to be written (without a following vowel), this must be indicated by an underlined slash -- virāma = विराम --:
 

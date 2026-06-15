@@ -106,7 +106,7 @@ Obéissance envers les deux fois nés, activités pour subsister, activité d'ar
 L'économie est l'agriculture, l'élevage et le commerce.
 
 ::: media
-![](/images/uebung013.jpg)
+![](/images/uebung013.webp)
 Fig. : रक्षणं सर्वभूतानाम्
 (Source de l'image : [Détails](/fr/licenses#uebung013))
 :::

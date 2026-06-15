@@ -66,7 +66,7 @@ Nom мн. गुणवत्पुत्राः
 इष्टदेवता = इष्टा देवता = "желаното божество = божеството, към което човек има специално отношение на преданост и прибежище"
 
 ::: media
-![](/images/lekt1501.jpg)
+![](/images/lekt1501.webp)
 Ил.: लक्ष्मी
 (Източник на изображението: [Подробности](/bg/licenses#lekt1501))
 :::
@@ -89,7 +89,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 :::
     
 ::: media
-![](/images/lekt1503.jpg)
+![](/images/lekt1503.webp)
 Ил.: नरसिंहः
 (Източник на изображението: [Подробности](/bg/licenses#lekt1503))
 :::
@@ -266,7 +266,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 पूजा ж.: почит, почтен прием, религиозно обожание (Пуджа)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 Ил.: पूजा
 (Източник на изображението: [Подробности](/bg/licenses#lekt1504))
 :::
@@ -275,7 +275,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 इन्द्र м.р.: владетел, първи, най-добър ; цар на боговете Индра
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 Ил.: इन्द्रः
 (Източник на изображението: [Подробности](/bg/licenses#lekt1505))
 :::
@@ -304,14 +304,14 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 सिंह м.р.: лъв (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 Ил.: सिंहः
 (Източник на изображението: [Подробности](/bg/licenses#lekt1506))
 :::
 
 व्याघ्र м.р.: тигър (_Panthera tigris tigris_) (букв.: зевец)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 Ил.: व्याघ्रः
 (Източник на изображението: [Подробности](/bg/licenses#lekt1507))
 :::
@@ -532,7 +532,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 ६०. द्विजातिशुश्रूषया
 ::: media
-![](/images/lekt1508.jpg)
+![](/images/lekt1508.webp)
 Ил.: ग्रामदेवता
 (Източник на изображението: [Подробности](/bg/licenses#lekt1508))
 :::
@@ -595,7 +595,7 @@ B) Разгледайте следните Tatpuruṣa:
 
 २६. श्रुत्युदितम्
 ::: media
-![](/images/lekt1509.jpg)
+![](/images/lekt1509.webp)
 Ил.: नागदेवाः
 (Източник на изображението: [Подробности](/bg/licenses#lekt1509))
 :::

@@ -150,7 +150,7 @@ Um sie vom Übel zu befreien, lässt Buddha edle Menschen die edlen Wahrheiten e
 (Basis: **आर्यजना आर्यसत्यानि बुध्यन्ते ।**)
 
 ::: media
-![](/images/uebung045.jpg)
+![](/images/uebung045.webp)
 Abb.: गर्भगृहे देवीप्रतिमा दर्श्यते
 (Bildquelle: [Details](/licenses#uebung045))
 :::

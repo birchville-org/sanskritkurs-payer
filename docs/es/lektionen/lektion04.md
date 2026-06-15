@@ -115,6 +115,6 @@ NOTA: Las respuestas que puede dar a estas preguntas con sus conocimientos actua
 **B) Forme preguntas para el siguiente ejercicio de lectura según el patrón etat kim (एतत्किम्) y responda las preguntas con las palabras indicadas y los pronombres demostrativos, por ejemplo eṣa bālaḥ (एष बालः):**
 
 ::: media
-![](/images/lekt0401.jpg)
+![](/images/lekt0401.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0401))
 :::

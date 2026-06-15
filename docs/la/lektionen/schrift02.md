@@ -2,7 +2,7 @@
 
 ## Exercitium Scripturae 2
 
-![](/images/schrift004.jpg)
+![](/images/schrift004.webp)
 
 ## Exercitatio
 

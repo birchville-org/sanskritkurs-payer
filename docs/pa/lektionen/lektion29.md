@@ -73,7 +73,7 @@ Inf. ग्रसितुम्
 परिव्राजक m.: ਘੁੰਮਣ ਵਾਲਾ, ਵੰਡਿਆ ਹੋਇਆ, ਤੀਰਥਯਾਤਰੀ
 
 ::: media
-![](/images/lekt2903.jpg)
+![](/images/lekt2903.webp)
 Abb.: परिव्राजकाः
 ਪੁਸ਼ਕਰ = पुष्कर
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2903))
@@ -93,7 +93,7 @@ Abb.: परिव्राजकाः
 :::
 
 ::: media
-![](/images/lekt2901.jpg)
+![](/images/lekt2901.webp)
 Abb.: मत्स्यः
 रोहू मछली = Labeo rohita Hamilton
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2901))

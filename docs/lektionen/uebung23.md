@@ -108,7 +108,7 @@ Weil sie über den Dharma hören wollte, ist die Brahmanin mit ihrem Sohn in die
 Essen, Schlafen, Furcht und Sex ist den Menschen mit dem Vieh gemein. Der hervorhebende Unterschied der Menschen liegt im Dharma. Ohne Dharma sind sie dem Vieh gleich.
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 Abb.: आहारनिद्राभयमैथुनं च
 (Bildquelle: [Details](/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 Abb.: बालाः पिबन्ति
 (Bildquelle: [Details](/licenses#uebung036))
 :::

@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 Sia veritads che èn agradablas, na disa betg veritads desagradablas; na disa betg falsitads agradablas, quai è la lescha eterna.
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 Abb.: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (Font dal maletg: [Detagls](/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Determinai e traduschai las suandantas formas verbalas:
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 Abb.: भक्त्याः
 (Fontana da l’imagia: [Detagls](/licenses#uebung047))
 :::

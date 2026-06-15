@@ -100,7 +100,7 @@ Ultra da quai dat quai anc alquantas utilisaziuns main impurtantas dal suffix **
 - **adhyayana** n. (अध्ययन) : studiar, spezialmain studiar dal Vedas
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 Abb.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram en vischinanza da Madurai.
 (Font dal maletg: [Detagls](/rm/licenses#lekt0903))
 :::
@@ -108,7 +108,7 @@ Abb.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparanku
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : artizan
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 Abb.: **kāru** = कारु, Gujarat.
 (Font dal maletg: [Detagls](/rm/licenses#lekt0902))
 :::
@@ -143,7 +143,7 @@ Abb.: **kāru** = कारु, Gujarat.
 7\. **karṣaka** कर्षक
 
 ::: media
-![](/images/lekt0901.jpg)
+![](/images/lekt0901.webp)
 Abb.: **karṣaka** = कर्षक.
 (Fontana da l’imagine: [Detagls](/rm/licenses#lekt0901))
 :::

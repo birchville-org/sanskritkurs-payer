@@ -20,9 +20,9 @@ Remember:
 
 Examples (exceptions are underlined):
 
-![](/images/schrift021.jpg)
+![](/images/schrift021.webp)
 
-![](/images/schrift022.jpg)
+![](/images/schrift022.webp)
 
 ### Exercise
 
@@ -32,9 +32,9 @@ Write out all the ligatures listed above
 
 ![](/images/schrift023.jpg)
 
-![](/images/schrift024.jpg)
+![](/images/schrift024.webp)
 
-![](/images/schrift025.jpg)
+![](/images/schrift025.webp)
 
 ### Exercise
 

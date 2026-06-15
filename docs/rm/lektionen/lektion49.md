@@ -185,7 +185,7 @@ Exempels:
 Noms sin -is e -us èn relativamain rars.
 
 ::: media
-![](/images/lekt4907.jpg)
+![](/images/lekt4907.webp)
 Abb.: नमस्ते
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt4907))
 :::
@@ -248,7 +248,7 @@ Inf. द्रोग्धुम्
 कुलूहल n.: curiositad, interess
 
 ::: media
-![](/images/lekt4901.jpg)
+![](/images/lekt4901.webp)
 Abb.: कुलूहलम्
 (Font dal maletg: [Detagls](/rm/licenses#lekt4901))
 :::
@@ -259,7 +259,7 @@ Abb.: कुलूहलम्
 कला f.: art
 
 ::: media
-![](/images/lekt4902.jpg)
+![](/images/lekt4902.webp)
 Abb.: उत्तमा काला
 शिवो नटराजा, 11. tschientaner
 (Font dal maletg: [Detagls](/rm/licenses#lekt4902))
@@ -278,7 +278,7 @@ Abb.: विहंगः
 वेष m.: vestgì, aspect, exterior
 
 ::: media
-![](/images/lekt4904.jpg)
+![](/images/lekt4904.webp)
 Abb.: वेषः
 वाराणस्याम्
 (Font dal maletg: [Detagls](/rm/licenses#lekt4904))
@@ -288,7 +288,7 @@ Abb.: वेषः
 पञ्जर n.: stgira
 
 ::: media
-![](/images/lekt4909.jpg)
+![](/images/lekt4909.webp)
 Abb.: पञ्जरम्
 Prognosticher cun papegaid en stgira: il papegaid tscherna zitschels, sin quai ch'è scrit il destin Mysore
 (Font dal maletg: [Detagls](/rm/licenses#lekt4909))
@@ -316,7 +316,7 @@ Gerundiv ध्येय
 आदर m.: respect, attenziun, reverenza
 
 ::: media
-![](/images/lekt4905.jpg)
+![](/images/lekt4905.webp)
 Abb.: सादरः
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Font dal maletg: [Detagls](/rm/licenses#lekt4905))
@@ -328,7 +328,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 शिशु m.: uffant, giuvenil
 
 ::: media
-![](/images/lekt4906.jpg)
+![](/images/lekt4906.webp)
 Abb.: गजशिशुः
 Sri Lanka
 (Font dal maletg: [Detagls](/rm/licenses#lekt4906))
@@ -389,7 +389,7 @@ Demondas dal re शूद्रक da विदिशा al papegial वैश�
 वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥
 
 ::: media
-![](/images/lekt4908.jpg)
+![](/images/lekt4908.webp)
 Fig.: शुकः
 Psittacula cyanocephala = Psittacula cyanocephala
 (Fontana da l’imagine: [Detagls](/rm/licenses#lekt4908))

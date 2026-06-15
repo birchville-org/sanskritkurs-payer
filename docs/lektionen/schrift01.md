@@ -4,13 +4,13 @@
 
 Sanskrit wurde und wird in einer Vielzahl von Schriften geschrieben. Folgende Übersicht gibt einen kleinen Ausschnitt aus diesen Schriften:
 
-![](/images/schrift001.jpg)  
+![](/images/schrift001.webp)  
 Abb.: Schriftproben Sanskrit  
 \[Bildquelle: Wikipedia, GNU FD LIzenz\]
 
 Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
-![](/images/schrift002.jpg)
+![](/images/schrift002.webp)
 
 Jedes Konsonantenzeichen bezeichnet ein auf den Konsonanten folgendes "a" mit. Soll der reine Konsonant geschrieben werden (ohne nachfolgenden Vokal), muss man dies durch einen untergesetzten Schrägstrich -- virāma = विराम -- kennzeichnen:
 

@@ -12,7 +12,7 @@ status: stable
 ## 20.1. Les composés possessifs = बहुव्रीहि m.
 
 ::: media
-![](/images/lekt2004.jpg)
+![](/images/lekt2004.webp)
 Fig. : बहुव्रीहिः पुरुषः
 (Source de l'image : [Détails](/fr/licenses#lekt2004))
 :::
@@ -158,7 +158,7 @@ Traditionnellement, on distingue :
 ::::
 
 ::: media
-![](/images/lekt2005.jpg)
+![](/images/lekt2005.webp)
 Fig. : देवा यीश्वादयः
 (Source de l'image : [Détails](/fr/licenses#lekt2005))
 :::
@@ -188,7 +188,7 @@ Exemple :
 ::::
 
 ::: media
-![](/images/lekt2001.jpg)
+![](/images/lekt2001.webp)
 Fig. : इन्द्रो वज्रपाणिः
 (Source de l’image : [Détails](/fr/licenses#lekt2001))
 :::
@@ -218,7 +218,7 @@ Exemples :
 ::::
 
 ::: media
-![](/images/lekt2006.jpg)
+![](/images/lekt2006.webp)
 Fig. : सपुत्रा
 (Source de l'image : [Détails](/fr/licenses#lekt2006))
 :::
@@ -256,7 +256,7 @@ Les exemples sont ici donnés pour un travail ultérieur ; pour certains, la gra
 13.  et autres
 
 ::: media
-![](/images/lekt2007.jpg)
+![](/images/lekt2007.webp)
 Fig. : कृतकटा
 Chennai = சென்னை
 (Source de l'image : [Détails](/fr/licenses#lekt2007))
@@ -285,7 +285,7 @@ Cela peut être vrai. Cependant, les Indiens considèrent alors comme qualificat
 आश्रम m., n. : ermitage, stade de vie, phase de vie (à savoir comme ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ et éventuellement comme सन्न्यासिन् ; voir Basham, Wonder p. 159s.)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 Fig. : आश्रमः
 Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
 (Source de l'image : [Détails](/fr/licenses#lekt2008))
@@ -518,7 +518,7 @@ Explication : तपस् n. (déclinaison plus tard) : braise, chaleur, tourme
 :::
 
 ::: media
-![](/images/lekt2010.jpg)
+![](/images/lekt2010.webp)
 Fig. : तपस्
 Bouddha en ascète avant son insight salvatrice, Gandhara, 2./3e siècle.
 (Source de l'image : [Détails](/fr/licenses#lekt2010))
@@ -560,7 +560,7 @@ Explication : -da à la fin d'un composé : « donnant »
 :::
 
 ::: media
-![](/images/lekt2009.jpg)
+![](/images/lekt2009.webp)
 Fig. : लोकानां करदा मही
 Karnataka
 (Source de l'image : [Détails](/fr/licenses#lekt2009))
@@ -590,7 +590,7 @@ Explication : toutes les formes sauf कं et स्त्रीणाम् so
 :::
 
 ::: media
-![](/images/lekt2003.jpg)
+![](/images/lekt2003.webp)
 Fig. : तनुमध्यं पृथुश्रोणि
 (Source de l'image : [Détails](/fr/licenses#lekt2003))
 :::

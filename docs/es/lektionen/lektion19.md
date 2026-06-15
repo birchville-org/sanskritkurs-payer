@@ -97,7 +97,7 @@ Nota: En relativos de contenido universalmente válido, se prefiere el optativo 
 :::
 
 ::: media
-![](/images/lekt1809.jpg)
+![](/images/lekt1809.webp)
 Fig.: कामः
 Ilustración para el कामसूत्र
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1809))
@@ -127,7 +127,7 @@ de **स्था** :
 :::
 
 ::: media
-![](/images/lekt1901.jpg)
+![](/images/lekt1901.webp)
 Fig.: गर्भगृहम्
 Badami (ಬದಾಮಿ)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1901))
@@ -157,7 +157,7 @@ de ello:
 **छत्त्र n.:** parasol, sombrilla
 
 ::: media
-![](/images/lekt1904.jpg)
+![](/images/lekt1904.webp)
 Fig.: छत्त्रम्
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), con atuendo tradicional, es una costumbre en las partes meridionales de Kerala. _Onappottan_ visita casas durante el _onam_ y otorga bendiciones. En tiempos recientes, _onappottan_ se ha convertido en una vista rara, confinada a pueblos."
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1904))

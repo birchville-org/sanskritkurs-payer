@@ -50,7 +50,7 @@ Gli essenti devono tremare davanti a un governo troppo severo (daṇḍa). Un go
 :::
 
 ::: media
-![](/images/uebung046.jpg)
+![](/images/uebung046.webp)
 Fig.: चतुर्वर्णाश्रमो लोको
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung046))
 :::

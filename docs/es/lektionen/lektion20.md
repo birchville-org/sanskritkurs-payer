@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-21
 ## 20.1. Compuestos posesivos = बहुव्रीहि m.
 
 ::: media
-![](/images/lekt2004.jpg)
+![](/images/lekt2004.webp)
 Fig.: बहुव्रीहिः पुरुषः
 Jodhpur = जोधपुर
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2004))
@@ -155,7 +155,7 @@ Tradicionalmente se distingue:
 ::::
 
 ::: media
-![](/images/lekt2005.jpg)
+![](/images/lekt2005.webp)
 Fig.: देवा यीश्वादयः
 Jesús y los demás dioses, Ahmedabad
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2005))
@@ -186,7 +186,7 @@ Ejemplo:
 ::::
 
 ::: media
-![](/images/lekt2001.jpg)
+![](/images/lekt2001.webp)
 Fig.: इन्द्रो वज्रपाणिः
 Siemreap (ក្រុងសៀមរាប), Camboya, siglo IX d. C.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2001))
@@ -217,7 +217,7 @@ Ejemplos:
 ::::
 
 ::: media
-![](/images/lekt2006.jpg)
+![](/images/lekt2006.webp)
 Fig.: सपुत्रा
 Madhya Pradesh
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2006))
@@ -256,7 +256,7 @@ Los ejemplos se dan aquí para su posterior estudio; para algunos aún no se han
 13.  y otros
 
 ::: media
-![](/images/lekt2007.jpg)
+![](/images/lekt2007.webp)
 Fig.: कृतकटा
 Chennai = சென்னை
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2007))
@@ -285,7 +285,7 @@ Esto puede ser cierto. Sin embargo, los indios ven entonces muchas cosas como or
 आश्रम m., n.: eremitorio, etapa de vida, fase de la vida (a saber como ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ y posiblemente como सन्न्यासिन् ; véase Basham, Maravillas p. 159s.)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 Fig.: आश्रमः
 Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2008))
@@ -518,7 +518,7 @@ Explicación: तपस् n. (declinación más tarde): brasa, calor, tormento;
 :::
 
 ::: media
-![](/images/lekt2010.jpg)
+![](/images/lekt2010.webp)
 Fig.: तपस्
 Buda como asceta antes de su iluminación salvadora, Gandhara, siglos II/III.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2010))
@@ -560,7 +560,7 @@ Explicación: -da al final de una composición: "dando"
 :::
 
 ::: media
-![](/images/lekt2009.jpg)
+![](/images/lekt2009.webp)
 Fig.: लोकानां करदा मही
 Karnataka
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2009))
@@ -590,7 +590,7 @@ Explicación: todas las formas excepto कं y स्त्रीणाम् s
 :::
 
 ::: media
-![](/images/lekt2003.jpg)
+![](/images/lekt2003.webp)
 Fig.: तनुमध्यं पृथुश्रोणि
 Sanchi = सांची
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2003))

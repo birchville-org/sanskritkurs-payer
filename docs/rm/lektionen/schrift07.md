@@ -2,7 +2,7 @@
 
 ## Esergizi da scritg
 
-![](/images/schrift012.jpg)
+![](/images/schrift012.webp)
 
 Exemplas per r avant consonant:
 
@@ -45,7 +45,7 @@ r suenter consonant: /
 
 Per la scritgira:
 
-![](/images/schrift014.jpg)
+![](/images/schrift014.webp)
 
 ## Esercitaziun
 

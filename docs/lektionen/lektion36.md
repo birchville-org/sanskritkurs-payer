@@ -121,7 +121,7 @@ PPP चित
 Inf. चेतुम्
 :::
 ::: media
-![](/images/lekt3601.jpg)
+![](/images/lekt3601.webp)
 Abb.: गोमयं चिकाय
 (Bildquelle: [Details](/licenses#lekt3601))
 :::
@@ -141,7 +141,7 @@ Inf. व्रजितुम्
 अगार n.। आगार n.: Haus, Heim
 
 ::: media
-![](/images/lekt3602.jpg)
+![](/images/lekt3602.webp)
 Abb.: अगारम्
 (Bildquelle: [Details](/licenses#lekt3602))
 :::
@@ -153,7 +153,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt3603.jpg)
+![](/images/lekt3603.webp)
 Abb.: अनगार्यम्
 (Bildquelle: [Details](/licenses#lekt3603))
 :::
@@ -236,7 +236,7 @@ Inf. स्पर्ष्तुम् । स्प्रष्तुम्
 Absol. -स्पृश्य
 :::
 ::: media
-![](/images/lekt3606.jpg)
+![](/images/lekt3606.webp)
 Abb.: सुगतो भूमीं पस्पर्श
 (Bildquelle: [Details](/licenses#lekt3606))
 :::
@@ -251,7 +251,7 @@ Kaus. हर्षयति
 PPP हृषित
 :::
 ::: media
-![](/images/lekt3604.jpg)
+![](/images/lekt3604.webp)
 Abb.: लोमहर्षः
 (Bildquelle: [Details](/licenses#lekt3604))
 :::
@@ -293,7 +293,7 @@ D) Übersetzen Sie:
 पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज । बुद्ध्यार्यसत्यानि प्रज्ञाय प्रज्ञया च दुःखान्मुक्तो मोक्तुकामार्यजनान्बोधयामासेति भिक्षव आहुः ॥१॥
 
 ::: media
-![](/images/lekt3605.jpg)
+![](/images/lekt3605.webp)
 Abb.: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज
 (Bildquelle: [Details](/licenses#lekt3605))
 :::
@@ -449,7 +449,7 @@ Erklärungen:
 :::
 
 ::: media
-![](/images/lekt3607.jpg)
+![](/images/lekt3607.webp)
 Abb.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।
 (Bildquelle: [Details](/licenses#lekt3607))
 ::: 

@@ -66,7 +66,7 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 इष्टदेवता = इष्टा देवता = "வேண்டப்பட்ட தெய்வம் = ஒருவருக்கு சிறப்பு பக்தி மற்றும் அடைக்கல உறவு உள்ள தெய்வம்"
 
 ::: media
-![](/images/lekt1501.jpg)
+![](/images/lekt1501.webp)
 அடிக்குறிப்பு: लक्ष्मी
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt1501))
 :::
@@ -89,7 +89,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 :::
     
 ::: media
-![](/images/lekt1503.jpg)
+![](/images/lekt1503.webp)
 அடிக்குறிப்பு: नरसिंहः
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt1503))
 :::
@@ -266,7 +266,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 पूजा பெ.: மதிப்பு, மதிப்புமிக்க வரவேற்பு, மதபூர்வ பூசை (பூஜை)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 வரைவு: पूजा
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt1504))
 :::
@@ -275,7 +275,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 इन्द्र ஆண.: அரசன், முதலாவது, சிறந்தவர் ; தேவராசன் இந்திரன்
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 வரைவு: इन्द्रः
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt1505))
 :::
@@ -304,14 +304,14 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 सिंह ஆண.: சிங்கம் (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 வரைவு: सिंहः
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt1506))
 :::
 
 व्याघ्र ஆண.: புலி (_Panthera tigris tigris_) (சொற்பொருள்: கீழ்த்தாடி உடையவர்)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 வரைவு: व्याघ्रः
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt1507))
 :::
@@ -532,7 +532,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 ६०. द्विजातिशुश्रूषया
 ::: media
-![](/images/lekt1508.jpg)
+![](/images/lekt1508.webp)
 படம்: ग्रामदेवता
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt1508))
 :::
@@ -595,7 +595,7 @@ B) பின்வரும் தத்புருஷாவைத் தீர
 
 २६. श्रुत्युदितम्
 ::: media
-![](/images/lekt1509.jpg)
+![](/images/lekt1509.webp)
 படம்: नागदेवाः
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt1509))
 :::

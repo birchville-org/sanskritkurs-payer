@@ -103,7 +103,7 @@ B) Transformați următoarele forme verbale în formele corespunzătoare de Perf
 :::
 
 ::: media
-![](/images/uebung065.jpg)
+![](/images/uebung065.webp)
 Fig.: आशिमेति
 (Sursa imaginii: [Detalii](/licenses#uebung065))
 :::
@@ -154,7 +154,7 @@ Determinați și traduceți următoarele forme de cuvânt:
 :::
 
 ::: media
-![](/images/uebung066.jpg)
+![](/images/uebung066.webp)
 Fig.: काश्चन वाहिकाः
 (Sursa imaginii: [Detalii](/licenses#uebung066))
 :::

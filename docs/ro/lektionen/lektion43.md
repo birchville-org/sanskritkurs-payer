@@ -141,7 +141,7 @@ Formele त्वा, ते, वस् nu pot fi folosite la începutul unei pr
 आपण m.: piață
 
 ::: media
-![](/images/lekt4302.jpg)
+![](/images/lekt4302.webp)
 Fig.: आपणः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4302))
 :::
@@ -151,7 +151,7 @@ Fig.: आपणः
 पण्य 3: vândut; n.: marfă, comerț
 
 ::: media
-![]/images/lekt4303.jpg
+![]/images/lekt4303.webp
 Fig.: पण्यानि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4303))
 :::
@@ -174,7 +174,7 @@ Fig.: पण्यानि
 विपणि f.: magazin
 
 ::: media
-![](/images/lekt4304.jpg)
+![](/images/lekt4304.webp)
 Fig.: विपणिः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4304))
 :::
@@ -182,7 +182,7 @@ Fig.: विपणिः
 वणिज् m.: comerciant
 
 ::: media
-![](/images/lekt4305.jpg)
+![](/images/lekt4305.webp)
 Fig.: वणिक्
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4305))
 :::
@@ -194,7 +194,7 @@ Fig.: वणिक्
 वत्स m.: vițel, pui, copil ; Voc.: dragul meu
 
 ::: media
-![](/images/lekt4306.jpg)
+![](/images/lekt4306.webp)
 Fig.: वत्सः
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4306))
 :::
@@ -216,7 +216,7 @@ Fig.: वत्सः
 तर्हि 10 तुल् तुलयति । : cântări
 
 ::: media
-![](/images/lekt4307.jpg)
+![](/images/lekt4307.webp)
 Fig.: तोलयति
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4307))
 :::
@@ -339,7 +339,7 @@ B) Traduceți în sanscrită:
 10\. Cum vă salvați (depășiți) în fața inamicului?
 
 ::: media
-![](/images/lekt4308.jpg)
+![](/images/lekt4308.webp)
 Fig.: कदा पूराववर्तथाः ।
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4308))
 :::
@@ -375,7 +375,7 @@ Fig.: कदा पूराववर्तथाः ।
 | (După: Saral Sanskrit Shikshak III, p. 4f.) | |
 
 ::: media
-![](/images/lekt4309.jpg)
+![](/images/lekt4309.webp)
 Fig.: शर्करा
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4309))
 :::

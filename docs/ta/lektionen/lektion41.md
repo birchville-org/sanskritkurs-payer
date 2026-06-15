@@ -21,7 +21,7 @@ status: stable
 விளக்கம்: पर "மற்ற"
 
 ::: media
-![lekt4102.jpg](/images/lekt4102.jpg)
+![lekt4102.jpg](/images/lekt4102.webp)
 சுருக்கம்: पुस्तकस्था च या विद्या ...
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt4102))
 :::
@@ -201,7 +201,7 @@ status: stable
 :::
 
 ::: media
-![lekt4103.jpg](/images/lekt4103.jpg)
+![lekt4103.jpg](/images/lekt4103.webp)
 அடிக்குறிப்பு: विक्रेयाणि पुष्पानि
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt4103))
 :::
@@ -238,7 +238,7 @@ status: stable
 :::
 
 ::: media
-![lekt4106.jpg](/images/lekt4106.jpg)
+![lekt4106.jpg](/images/lekt4106.webp)
 வரைபடம்: दृश्यो मन्दिरः
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt4106))
 :::
@@ -322,7 +322,7 @@ status: stable
 ::::
 
 ::: media
-![lekt4108.jpg](/images/lekt4108.jpg)
+![lekt4108.jpg](/images/lekt4108.webp)
 அடிக்குறிப்பு: दर्शनीयं नगरं काशी
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt4108))
 :::
@@ -349,7 +349,7 @@ status: stable
 भुजङ्ग p.: பாம்பு
 
 ::: media
-![lekt4105.jpg](/images/lekt4105.jpg)
+![lekt4105.jpg](/images/lekt4105.webp)
 வரைவு: भुजङ्गः
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt4105))
 :::
@@ -359,7 +359,7 @@ status: stable
 विष n.: விஷம்
 
 ::: media
-![lekt4104.jpg](/images/lekt4104.jpg)
+![lekt4104.jpg](/images/lekt4104.webp)
 வரைவு: भुजङ्गस्य विषम्
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt4104))
 :::
@@ -382,7 +382,7 @@ PPP **शिष्ट** : கற்பிக்கப்பட்டது, அ�
 :::
 
 ::: media
-![lekt4109.jpg](/images/lekt4109.jpg)
+![lekt4109.jpg](/images/lekt4109.webp)
 வரைவு: शासना
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt4109))
 :::
@@ -394,7 +394,7 @@ PPP **शिष्ट** : கற்பிக்கப்பட்டது, அ�
 :::
 
 ::: media
-![lekt4110.jpg](/images/lekt4110.jpg)
+![lekt4110.jpg](/images/lekt4110.webp)
 வரைவு: शास्त्री
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt4110))
 :::
@@ -434,7 +434,7 @@ B) மொழிபெயர்க்கவும்:
 काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥२॥
 
 ::: media
-![lekt4111.jpg](/images/lekt4111.jpg)
+![lekt4111.jpg](/images/lekt4111.webp)
 படம்: काशीं पत्स्ये गङ्गां द्रक्ष्यामि ...
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt4111))
 :::

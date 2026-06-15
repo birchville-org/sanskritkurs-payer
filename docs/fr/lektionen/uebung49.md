@@ -55,7 +55,7 @@ Déterminez les formes suivantes :
 :::
 
 ::: media
-![](/images/uebung078.jpg)
+![](/images/uebung078.webp)
 Fig. : गायी
 (Source de l'image : [Détails](/fr/licenses#uebung078))
 :::
@@ -75,7 +75,7 @@ Questions du roi **शूद्रक** de **विदिशा** au perroquet *
 > Vaiśampāyana, interrogé par le seigneur de la Terre avec une curiosité spontanée et un grand respect, réfléchit un instant, puis répondit avec une grande déférence : « Roi, c’est une longue histoire. Si cela vous intéresse, prêtez-moi votre oreille ! »
 
 ::: media
-![](/images/uebung079.jpg)
+![](/images/uebung079.webp)
 Légende : शुकः
 (Source de l’image : [Détails](/fr/licenses#uebung079))
 :::

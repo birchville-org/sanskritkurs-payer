@@ -49,7 +49,7 @@ Determinați și traduceți următoarele forme și formați formele corespunzăt
 :::
 
 ::: media
-![](/images/uebung092.jpg)
+![](/images/uebung092.webp)
 Fig.: अशोभथाः । अशुभः
 (Sursă imagine: [Detalii](/licenses#uebung092))
 :::

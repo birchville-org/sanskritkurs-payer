@@ -232,7 +232,7 @@ En sánscrito, los verbos se presentan en la **forma de raíz**. El número desp
 13. La (mencionada) brahmānī danza.
 
 ::: media
-![](/images/lekt0601.jpg)
+![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
 (Fuente de la imagen: Wikipedia, CC-BY-SA 2.5)
@@ -312,7 +312,7 @@ En sánscrito, los verbos se presentan en la **forma de raíz**. El número desp
 3. Mīnākṣī es una diosa.
 
 ::: media
-![](/images/lekt0602.jpg)
+![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Templo de Mīnākṣī, Madurai, Tamil Nadu
 (Fuente de la imagen: Wikipedia, Dominio público)
 :::

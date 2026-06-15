@@ -106,7 +106,7 @@ A) Form the first-person forms corresponding to the following verb forms in numb
 :::
 
 ::: media
-![](/images/uebung064.jpg)
+![](/images/uebung064.webp)
 Fig.: आगारे सीदामः
 (Image source: [Details](/en/licenses#uebung064))
 :::

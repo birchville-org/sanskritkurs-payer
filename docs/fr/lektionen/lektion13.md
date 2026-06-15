@@ -215,7 +215,7 @@ Apprenez les mots suivants :
 > [Source : **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
-![](/images/lekt1301.jpg)
+![](/images/lekt1301.webp)
 Fig. : महिषासुरः
 (Source de l'image : [Détails](/fr/licenses#lekt1301))
 :::
@@ -236,7 +236,7 @@ Fig. : महिषासुरः
 - **anna** n. अन्न : nourriture (du PPP : *ad-na: ce qui est mangé)
 
 ::: media
-![](/images/lekt1304.jpg)
+![](/images/lekt1304.webp)
 Fig. : अन्नम्
 (Source de l'image : [Détails](/fr/licenses#lekt1304))
 :::
@@ -252,7 +252,7 @@ pad 4 Ā :
 :::
 
 ::: media
-![](/images/lekt1303.jpg)
+![](/images/lekt1303.webp)
 Fig. : चत्वारः पादाः : गजः
 (Source de l'image : [Détails](/fr/licenses#lekt1303))
 :::
@@ -274,7 +274,7 @@ A) Traduisez et transformez en phrases au présent actif :
 ३. बोध्या गौतमो मुक्तः ।
 
 ::: media
-![](/images/lekt1305.jpg)
+![](/images/lekt1305.webp)
 Fig. : अत्र गौतमो बुद्धो बोध्या मुक्तः
 (Source de l'image : [Détails](/fr/licenses#lekt1305))
 :::
@@ -333,7 +333,7 @@ B) Mettez les phrases de l'exercice A) à la voix passive.
 C) Formez une construction de participe passé passif (PPP) à partir des phrases de l'exercice A).
 
 ::: media
-![](/images/lekt1302.jpg)
+![](/images/lekt1302.webp)
 Fig. : सत्यमेव जयते
 (Source de l'image : [Détails](/fr/licenses#lekt1302))
 :::

@@ -77,7 +77,7 @@ The strong warriors have gone to the Brahmana village.
 He venerates the personal deity of the meritorious Vaiśya.
 
 ::: media
-![](/images/uebung023.jpg)
+![](/images/uebung023.webp)
 Fig.: न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति
 (Image source: [Details](/en/licenses#uebung023))
 :::
@@ -261,7 +261,7 @@ Sentence 13: **सर्वेषाम्** Gen. pl. masc. to सर्व "eac
 The staff produces acquisition and secure possession of philosophy, Vedic studies, and economics. The wielding of the staff is politics.
 
 ::: media
-![](/images/uebung024.jpg)
+![](/images/uebung024.webp)
 Fig.: योगश्चित्तवृत्तिनिरोधः
 (Image source: [Details](/en/licenses#uebung024))
 :::

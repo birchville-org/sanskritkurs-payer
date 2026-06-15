@@ -122,7 +122,7 @@ B) ਅਨੁਵਾਦ ਕਰੋ:
 :::
 
 ::: media
-![](/images/uebung062.jpg)
+![](/images/uebung062.webp)
 ਚਿੱਤਰ: पुत्रे जात आर्यः सुखमाप्नोति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/licenses#uebung062))
 :::

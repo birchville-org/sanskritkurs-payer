@@ -235,7 +235,7 @@ status: stable
 - **su** 5 U (sunoti) सु सुनोति : ਨਿਚੋੜਨਾ
 - **soma** m. सोम : ਨਿਚੋੜਿਆ ਪੀਣਾ, ਸੋਮ; ਚੰਦਰਮਾ (ਕਿਸ ਪੌਦੇ ਤੋਂ ਸੋਮ ਨਿਚੋੜਿਆ ਗਿਆ ਸੀ, ਇਹ ਅੱਜ ਤੱਕ ਵਿਵਾਦਿਤ ਹੈ).
 ::: media
-![](/images/lekt0701.jpg)
+![](/images/lekt0701.webp)
 ਚਿੱਤਰ: ਕੀ ਇਹ ਵੈਦਿਕ ਸੋਮ ਪੌਦਾ ਸੀ?: ਉੱਡਣ ਵਾਲੀ ਮਸਤੀ: *Amanita muscaria* (L.) Lam.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt0701))
 :::
@@ -258,7 +258,7 @@ status: stable
    ब्राह्मणस् ... यजति (देव, देवी, विष्णु, अग्नि, देवता)
 
 ::: media
-![](/images/lekt0704.jpg)
+![](/images/lekt0704.webp)
 ਚਿੱਤਰ: Viṣṇu = विष्णु, 8./9. ਸਦੀ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt0704))
 :::
@@ -299,7 +299,7 @@ status: stable
    यजति |
 
 ::: media
-![](/images/lekt0702.jpg)
+![](/images/lekt0702.webp)
 ਚਿੱਤਰ: **yajati** = यजति — ਵੈਦਿਕ ਬलिਦਾਨ = **yajña** p. = यज्ञ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt0702))
 :::
@@ -321,7 +321,7 @@ status: stable
 8. Welchem Gott opfert dieser Brahmane?
 
 ::: media
-![](/images/lekt0703.jpg)
+![](/images/lekt0703.webp)
 ਚਿੱਤਰ: ਇੱਥੇ ਕਿਸ ਦੇਵਤਾ ਨੂੰ ਬलिਦਾਨ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ? ਜਵਾਬ: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt0703))
 :::

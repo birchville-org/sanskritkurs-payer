@@ -50,7 +50,7 @@ Les êtres doivent frémir devant un régime de châtiment (daṇḍa) trop rigo
 :::
 
 ::: media
-![](/images/uebung046.jpg)
+![](/images/uebung046.webp)
 Fig. : चतुर्वर्णाश्रमो लोको
 (Source de l'image : [Détails](/fr/licenses#uebung046))
 :::

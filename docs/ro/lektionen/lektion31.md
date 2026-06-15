@@ -89,7 +89,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3101.jpg)
+![](/images/lekt3101.webp)
 Fig.: योगः
 Reprezentare Yoga.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3101))
@@ -138,7 +138,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3102.jpg)
+![](/images/lekt3102.webp)
 Fig.: व्यञ्जनम्
 Pregătire pentru dansul Kathakali, Kochi.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3102))
@@ -184,7 +184,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3103.jpg)
+![](/images/lekt3103.webp)
 Fig.: प्रज्ञापारमिता
 Aus einem Prajñāpāramitā-Manuskript.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3103))
@@ -214,7 +214,7 @@ Tancuri ale Căluerarilor 18 (Armata Indiană) în mișcare în timpul Războiul
 पुत्रो जातो बन्धनं जातमिति सुगतो मत्वा कुलबन्धनं भिनत्ति । ततो भग्नबन्धो मोक्षनयन्तीं प्रज्ञामाप्तुमर्हति ॥४॥
 
 ::: media
-![](/images/lekt3104.jpg)
+![](/images/lekt3104.webp)
 Fig.: राहुलो जातो बन्धनं जातम्
 Rāhula, der Sohn Buddhas, Laos.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3104))

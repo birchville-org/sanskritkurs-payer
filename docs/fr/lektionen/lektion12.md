@@ -175,7 +175,7 @@ Dans les formations *aniṭ*, les lois suivantes de la combinaison phonétique d
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : s'éveiller, s'éveiller à la connaissance, reconnaître ; PPP **buddha** 3 éveillé, donc **Buddha** = « celui qui s'est éveillé » (et non : celui qui est illuminé)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 Fig. : गौतमो बुद्धः
 (Source de l'image : [Détails](/fr/licenses#lekt1201))
 :::
@@ -186,7 +186,7 @@ Fig. : गौतमो बुद्धः
 - **mārga** m. मार्ग : chemin (les chemins étaient souvent des sentiers de bêtes)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 Fig. : मार्गः
 (Source de l'image : [Détails](/fr/licenses#lekt1202))
 :::
@@ -205,7 +205,7 @@ Pour la formation des mots :
 - **budh** : **bodhi** m./f. बोधि : l'éveil (par quoi un Bouddha ou un Jina parvient à la compréhension salvatrice)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 Fig. : महावीरो जिनः
 (Source de l'image : [Détails](/fr/licenses#lekt1203))
 :::

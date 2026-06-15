@@ -143,7 +143,7 @@ D) Übersetzen Sie:
 Pflicht aller ist: Gewaltlosigkeit, Wahrhaftigkeit, Reinheit, Nicht über sein Los murren, Freisein von Boshaftigkeit und geduldige Nachsicht.
 
 ::: media
-![](/images/uebung028.jpg)
+![](/images/uebung028.webp)
 Abb.: दुर्गमो मार्गः
 (Bildquelle: [Details](/licenses#uebung028))
 :::

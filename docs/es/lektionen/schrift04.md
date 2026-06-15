@@ -2,7 +2,7 @@
 
 ## Ejercicio de escritura 4
 
-![](/images/schrift006.jpg)
+![](/images/schrift006.webp)
 
 Anusvāra ṃ: Punto sobre la letra. que precede al sonido: कं कां किं कीं कुं कूं कें कैं कों कौं
 

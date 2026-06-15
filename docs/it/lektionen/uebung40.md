@@ -103,7 +103,7 @@ B) Trasformare le seguenti forme verbali nelle corrispondenti forme del Perfetto
 :::
 
 ::: media
-![](/images/uebung065.jpg)
+![](/images/uebung065.webp)
 Fig.: आशिमेति
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung065))
 :::
@@ -154,7 +154,7 @@ Determinare e tradurre le seguenti forme verbali:
 :::
 
 ::: media
-![](/images/uebung066.jpg)
+![](/images/uebung066.webp)
 Fig.: काश्चन वाहिकाः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung066))
 :::

@@ -2,7 +2,7 @@
 
 ## ਲਿਖਤ ਅਭਿਆਸ 7
 
-![](/images/schrift012.jpg)
+![](/images/schrift012.webp)
 
 ਅੱਖਰਾਂ ਤੋਂ ਪਹਿਲਾਂ r ਦੇ ਉਦਾਹਰਣ:
 
@@ -45,7 +45,7 @@
 
 ਲਿਖਤ ਬਾਰੇ:
 
-![](/images/schrift014.jpg)
+![](/images/schrift014.webp)
 
 ## अभ्यास
 

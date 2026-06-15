@@ -103,7 +103,7 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 :::
 
 ::: media
-![](/images/uebung065.jpg)
+![](/images/uebung065.webp)
 Abb.: आशिमेति
 (Bildquelle: [Details](/licenses#uebung065))
 :::
@@ -154,7 +154,7 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 :::
 
 ::: media
-![](/images/uebung066.jpg)
+![](/images/uebung066.webp)
 Abb.: काश्चन वाहिकाः
 (Bildquelle: [Details](/licenses#uebung066))
 :::

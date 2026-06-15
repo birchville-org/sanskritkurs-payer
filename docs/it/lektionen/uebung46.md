@@ -85,7 +85,7 @@ Dalla collera nasce l'oscurità, dall'oscurità la confusione della consapevolez
 Per il non dominato (non yogī) non vi è comprensione.
 
 ::: media
-![](/images/uebung080.jpg)
+![](/images/uebung080.webp)
 Fig.: सक्तः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung080))
 :::

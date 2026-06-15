@@ -43,7 +43,7 @@ a) कृत् suffix \-Ø
 :::
 
 ::: media
-![](/images/lekt5101.jpg)
+![](/images/lekt5101.webp)
 Fig.: भूमिभुज्
 ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008)
 (Image source: [Details](/en/licenses#lekt5101))
@@ -72,7 +72,7 @@ b) कृत् suffix -t
 ::::
 
 ::: media
-![](/images/lekt5103.jpg)
+![](/images/lekt5103.webp)
 Fig.: पापकृत्
 भरतपुर, राजस्थान
 (Image source: [Details](/en/licenses#lekt5103))
@@ -102,7 +102,7 @@ c) कृत् suffix -a
 :::
 
 ::: media
-![](/images/lekt5102.jpg)
+![](/images/lekt5102.webp)
 Fig.: द्विपो द्विर्पिबति : हस्तेन च मुखेन च
 नेपाल
 (Image source: [Details](/en/licenses#lekt5102))
@@ -271,7 +271,7 @@ Loc. परिव्राट्सु
 ::::
 
 ::: media
-![](/images/lekt5104.jpg)
+![](/images/lekt5104.webp)
 Fig.: परिव्राट्
 पुष्कर
 (Image source: [Details](/en/licenses#lekt5104))
@@ -377,7 +377,7 @@ e.g. छिद् » चिच्छेद
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193f.
 
 ::: media
-![](/images/lekt5105.jpg)
+![](/images/lekt5105.webp)
 Fig.:
 (Image source: [Details](/en/licenses#lekt5105))
 :::
@@ -406,7 +406,7 @@ Fig.: ऋतुः
 जटा f.: hair plait (ascetic hairstyle)
 
 ::: media
-![](/images/lekt5107.jpg)
+![](/images/lekt5107.webp)
 Fig.: जटा
 ऋषिकेश
 (Image source: [Details](/en/licenses#lekt5107))
@@ -461,7 +461,7 @@ PPP गर्हित
 पिशित n.: (prepared) meat
 
 ::: media
-![](/images/lekt5108.jpg)
+![](/images/lekt5108.webp)
 Fig.: पिशितम्
 Kolkata = কলকাতা
 (Image source: [Details](/en/licenses#lekt5108))
@@ -471,7 +471,7 @@ Kolkata = কলকাতা
 मधु n.: honey, sweet drink, mead (honey wine)
 
 ::: media
-![](/images/lekt5109.jpg)
+![](/images/lekt5109.webp)
 Fig.: मधु
 City Palace, उदयपुर
 (Image source: [Details](/en/licenses#lekt5109))
@@ -481,7 +481,7 @@ City Palace, उदयपुर
 मृगया f.: hunt
 
 ::: media
-![](/images/lekt5110.jpg)
+![](/images/lekt5110.webp)
 Fig.: मृगया
 Hunting with चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Image source: [Details](/en/licenses#lekt5110))
@@ -489,7 +489,7 @@ Hunting with चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજર�
 शिवा f.: (female) jackal (golden jackal = _Canis aureus_)
 
 ::: media
-![](/images/lekt5111.jpg)
+![](/images/lekt5111.webp)
 Fig.: शिवा
 _Canis aureus_, Kalatop Khajjiar Sanctuary
 (Image source: [Details](/en/licenses#lekt5111))
@@ -499,7 +499,7 @@ _Canis aureus_, Kalatop Khajjiar Sanctuary
 कौशिक m.: owl
 
 ::: media
-![](/images/lekt5112.jpg)
+![](/images/lekt5112.webp)
 Fig.: कौशिकः
 Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
 (Image source: [Details](/en/licenses#lekt5112))
@@ -529,7 +529,7 @@ Karnataka = ಕರ್ನಾಟಕ
 आपान(क) n.: drinking bout
 
 ::: media
-![](/images/lekt5114.jpg)
+![](/images/lekt5114.webp)
 Fig.: आपानकम्
 जोधपुर
 (Image source: [Details](/en/licenses#lekt5114))
@@ -549,7 +549,7 @@ PPP दिग्ध
 विष n.: poison
 
 ::: media
-![](/images/lekt5115.jpg)
+![](/images/lekt5115.webp)
 Fig.: मूषिकाविषाणि
 Bangalore = ಬೆಂಗಳೂರು
 (Image source: [Details](/en/licenses#lekt5115))
@@ -557,7 +557,7 @@ Bangalore = ಬೆಂಗಳೂರು
 भुजंग m.: snake
 
 ::: media
-![](/images/lekt5116.jpg)
+![](/images/lekt5116.webp)
 Fig.: भुजंगः
 Russell's viper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Image source: [Details](/en/licenses#lekt5116))
@@ -583,7 +583,7 @@ Russell's viper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 मणि m.: jewel
 
 ::: media
-![](/images/lekt5118.jpg)
+![](/images/lekt5118.webp)
 Fig.: मणिः
 Hope Diamond from Guntur = ಗುಂಡೂರು, today Smithsonian Museum of Natural History, Washington DC
 (Image source: [Details](/en/licenses#lekt5118))
@@ -593,7 +593,7 @@ Hope Diamond from Guntur = ಗುಂಡೂರು, today Smithsonian Museum of Na
 मद m.: also "must" of an elephant (in [Musth](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
-![](/images/lekt5117.jpg)
+![](/images/lekt5117.webp)
 Fig.: मदः
 (Image source: [Details](/en/licenses#lekt5117))
 :::

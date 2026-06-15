@@ -210,7 +210,7 @@ status: stable
 **शस्य = सस्य ਨ. ਵ. ਅ. ਬ.:** ਬੀਜ, ਖੇਤ ਦੀ ਫ਼ਸਲ, ਅਨਾਜ
 
 ::: media
-![](/images/lekt3406.jpg)
+![](/images/lekt3406.webp)
 ਚਿੱਤਰ: सस्यम्
 ਭਾਰਤ ਵਿੱਚ ਝੋਨੇ ਦਾ ਖੇਤ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3406))
@@ -225,7 +225,7 @@ status: stable
 **द्वीप ਮ.ਨ.:** ਟਾਪੂ, ਮਹਾਂਦੀਪ
 
 ::: media
-![](/images/lekt3405.jpg)
+![](/images/lekt3405.webp)
 ਚਿੱਤਰ: लक्षद्वीपाः
 ਲਕਸ਼ਦੀਵੀਪ ਟਾਪੂਆਂ ਦਾ ਨਕਸ਼ਾ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3405))
@@ -236,14 +236,14 @@ status: stable
 **तिल ਮ.:** ਤਿਲ (ਸਤੂਹ) (*Sesamum indicum* L.)
 
 ::: media
-![](/images/lekt3403.jpg)
+![](/images/lekt3403.webp)
 ਚਿੱਤਰ: तिलाः
 ਤਿਲ ਦੇ ਦਾਣੇ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3403))
 :::
 
 ::: media
-![](/images/lekt3404.jpg)
+![](/images/lekt3404.webp)
 ਚਿੱਤਰ: *Sesamum indicum* L.
 ਤਿਲ ਦਾ ਪੌਦਾ ਖਿੜ ਰਿਹਾ ਹੈ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3404))
@@ -252,7 +252,7 @@ status: stable
 **स्वर्ण ਨ.:** (ਸੁੰਦਰ-ਰੰਗੀ =) ਸੁਨਹਿਰੀ
 
 ::: media
-![](/images/lekt3402.jpg)
+![](/images/lekt3402.webp)
 ਚਿੱਤਰ: स्वर्णम्
 ਸੁਨਹਿਰੀ ਮੰਦਰ (ਹਰਿਮੰਦਰ ਸਾਹਿਬ), ਅੰਮ੍ਰਿਤਸਰ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3402))
@@ -269,7 +269,7 @@ status: stable
 **ऋषभ ਮ.:** ਬੁਲਾ
 
 ::: media
-![](/images/lekt3401.jpg)
+![](/images/lekt3401.webp)
 ਚਿੱਤਰ: ऋषभः
 ਨੰਦੀ ਬੁਲੇ ਦੀ ਮੂਰਤ, ਚਾਮੁੰਡੀ ਪਹਾੜੀ, ਮੈਸੂਰ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3401))
@@ -349,7 +349,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt3407.jpg)
+![](/images/lekt3407.webp)
 ਚਿੱਤਰ: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
 ਹਿੰਦੂ ਵਿਆਹ ਰਸਮ.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3407))

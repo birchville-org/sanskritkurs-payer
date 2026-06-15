@@ -69,7 +69,7 @@ p.ej. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्
   - **vadana** n. वदन : el hablar; instrumento de habla: boca, rostro
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 Fig.: **vadanāni** = वदनानि
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1102))
 :::
@@ -106,7 +106,7 @@ Fig.: **vadanāni** = वदनानि
 **D) Forme la construcción pasiva para las oraciones formadas según C).**
 
 ::: media
-![](/images/lekt1101.jpg)
+![](/images/lekt1101.webp)
 Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1101))
 :::
@@ -149,7 +149,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 **E) Transforme las oraciones C) 1-5 en construcciones activas.**
 
 ::: media
-![](/images/lekt1103.jpg)
+![](/images/lekt1103.webp)
 Fig.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1103))
 :::

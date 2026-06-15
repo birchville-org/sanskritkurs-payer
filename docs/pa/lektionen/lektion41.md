@@ -21,7 +21,7 @@ status: stable
 ਵਿਆਖਿਆ: पर "ਦੂਜਾ"
 
 ::: media
-![lekt4102.jpg](/images/lekt4102.jpg)
+![lekt4102.jpg](/images/lekt4102.webp)
 ਚਿੱਤਰ: पुस्तकस्था च या विद्या ...
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4102))
 :::
@@ -201,7 +201,7 @@ status: stable
 :::
 
 ::: media
-![lekt4103.jpg](/images/lekt4103.jpg)
+![lekt4103.jpg](/images/lekt4103.webp)
 ਚਿੱਤਰ: विक्रेयाणि पुष्पानि
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4103))
 :::
@@ -238,7 +238,7 @@ status: stable
 :::
 
 ::: media
-![lekt4106.jpg](/images/lekt4106.jpg)
+![lekt4106.jpg](/images/lekt4106.webp)
 ਚਿੱਤਰ: दृश्यो मन्दिरः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4106))
 :::
@@ -322,7 +322,7 @@ status: stable
 ::::
 
 ::: media
-![lekt4108.jpg](/images/lekt4108.jpg)
+![lekt4108.jpg](/images/lekt4108.webp)
 ਚਿੱਤਰ: दर्शनीयं नगरं काशी
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4108))
 :::
@@ -349,7 +349,7 @@ status: stable
 भुजङ्ग ਪੁ.: ਸੱਪ
 
 ::: media
-![lekt4105.jpg](/images/lekt4105.jpg)
+![lekt4105.jpg](/images/lekt4105.webp)
 ਚਿੱਤਰ: भुजङ्गः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4105))
 :::
@@ -359,7 +359,7 @@ status: stable
 विष ਨ.: ਜ਼ਹਿਰ
 
 ::: media
-![lekt4104.jpg](/images/lekt4104.jpg)
+![lekt4104.jpg](/images/lekt4104.webp)
 ਚਿੱਤਰ: भुजङ्गस्य विषम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4104))
 :::
@@ -382,7 +382,7 @@ status: stable
 :::
 
 ::: media
-![lekt4109.jpg](/images/lekt4109.jpg)
+![lekt4109.jpg](/images/lekt4109.webp)
 ਚਿੱਤਰ: शासना
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4109))
 :::
@@ -394,7 +394,7 @@ status: stable
 :::
 
 ::: media
-![lekt4110.jpg](/images/lekt4110.jpg)
+![lekt4110.jpg](/images/lekt4110.webp)
 ਚਿੱਤਰ: शास्त्री
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4110))
 :::
@@ -434,7 +434,7 @@ B) ਅਨੁਵਾਦ ਕਰੋ:
 काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥२॥
 
 ::: media
-![lekt4111.jpg](/images/lekt4111.jpg)
+![lekt4111.jpg](/images/lekt4111.webp)
 ਚਿੱਤਰ: काशीं पत्स्ये गङ्गां द्रक्ष्यामि ...
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4111))
 :::

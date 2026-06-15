@@ -38,7 +38,7 @@ What is the brother of the husband called? The husband's brother is to be design
 The father desired the attainment of grandsons.
 
 ::: media
-![](/images/uebung068.jpg)
+![](/images/uebung068.webp)
 Fig.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Image source: [Details](/en/licenses#uebung068))
 :::
@@ -71,7 +71,7 @@ Upon hearing this promise, princes came by the hundreds. Yet not one of them cou
 The heart of King Janaka was exceedingly joyful. Then he summoned Daśaratha and the others and celebrated Sītā and Rāma’s wedding with great pomp.
 
 ::: media
-![](/images/uebung069.jpg)
+![](/images/uebung069.webp)
 Fig.: श्रीसीता श्रीरामश्च
 (Image source: [Details](/en/licenses#uebung069))
 :::

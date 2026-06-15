@@ -32,7 +32,7 @@ Example:
 ::::
 
 ::: media
-![](/images/lekt5402.jpg)
+![](/images/lekt5402.webp)
 Fig.: अयुयुत्सुरर्जुनः
 भगवद्गीतोपदेशः Tirupati = తిరుపతి
 (Image source: [Details](/en/licenses#lekt5402))
@@ -281,7 +281,7 @@ Write the following forms and form the corresponding aorist forms:
 23.  गम्यते
 
 ::: media
-![](/images/lekt5401.jpg)
+![](/images/lekt5401.webp)
 Fig.: त्रिचक्रेणेश्वरः स्तूयते
 Tamil Nadu
 (Image source: [Details](/en/licenses#lekt5401))

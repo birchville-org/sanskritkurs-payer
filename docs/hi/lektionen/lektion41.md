@@ -21,7 +21,7 @@ status: stable
 व्याख्या: ⟪पर⟫ "अन्य"
 
 ::: media
-![lekt4102.jpg](/images/lekt4102.jpg)
+![lekt4102.jpg](/images/lekt4102.webp)
 अभ.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4102))
 :::
@@ -201,7 +201,7 @@ status: stable
 :::
 
 ::: media
-![lekt4103.jpg](/images/lekt4103.jpg)
+![lekt4103.jpg](/images/lekt4103.webp)
 अभ.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4103))
 :::
@@ -238,7 +238,7 @@ status: stable
 :::
 
 ::: media
-![lekt4106.jpg](/images/lekt4106.jpg)
+![lekt4106.jpg](/images/lekt4106.webp)
 अभ.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4106))
 :::
@@ -322,7 +322,7 @@ Gerundiv का प्रयोग उस प्रकार के वाक्
 ::::
 
 ::: media
-![lekt4108.jpg](/images/lekt4108.jpg)
+![lekt4108.jpg](/images/lekt4108.webp)
 अभ.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4108))
 :::
@@ -349,7 +349,7 @@ Gerundiv का प्रयोग उस प्रकार के वाक्
 ⟪भुजङ्ग⟫ पुं.: सर्प
 
 ::: media
-![lekt4105.jpg](/images/lekt4105.jpg)
+![lekt4105.jpg](/images/lekt4105.webp)
 अभ.: ⟪भुजङ्गः⟫
 (चित्रस्रोत: [विवरण](/hi/licenses#lekt4105))
 :::
@@ -359,7 +359,7 @@ Gerundiv का प्रयोग उस प्रकार के वाक्
 ⟪विष⟫ नपुं.: विष
 
 ::: media
-![lekt4104.jpg](/images/lekt4104.jpg)
+![lekt4104.jpg](/images/lekt4104.webp)
 अभ.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 (चित्रस्रोत: [विवरण](/hi/licenses#lekt4104))
 :::
@@ -382,7 +382,7 @@ Gerundiv का प्रयोग उस प्रकार के वाक्
 :::
 
 ::: media
-![lekt4109.jpg](/images/lekt4109.jpg)
+![lekt4109.jpg](/images/lekt4109.webp)
 अभ.: ⟪शासना⟫
 (चित्रस्रोत: [विवरण](/hi/licenses#lekt4109))
 :::
@@ -394,7 +394,7 @@ Gerundiv का प्रयोग उस प्रकार के वाक्
 :::
 
 ::: media
-![lekt4110.jpg](/images/lekt4110.jpg)
+![lekt4110.jpg](/images/lekt4110.webp)
 अभ.: ⟪शास्त्री⟫
 (चित्रस्रोत: [विवरण](/hi/licenses#lekt4110))
 :::
@@ -434,7 +434,7 @@ B) अनुवाद करें:
 ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥२॥⟫
 
 ::: media
-![lekt4111.jpg](/images/lekt4111.jpg)
+![lekt4111.jpg](/images/lekt4111.webp)
 अभ.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ...
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4111))
 :::

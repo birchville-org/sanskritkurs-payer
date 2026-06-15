@@ -43,7 +43,7 @@ Traduci e determina le seguenti forme e forma le corrispondenti forme dell’**A
 :::
 
 ::: media
-![](/images/uebung090.jpg)
+![](/images/uebung090.webp)
 Fig.: वारानास्यां गङ्गायामप्लोढ्वम्
 (Fonte immagine: [Dettagli](/it/licenses#uebung090))
 :::
@@ -117,7 +117,7 @@ Determinare e tradurre le seguenti forme:
 :::
 
 ::: media
-![](/images/uebung094.jpg)
+![](/images/uebung094.webp)
 Fig.: पाणी धूपं कुरुतः ॥
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung094))
 :::

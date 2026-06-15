@@ -213,11 +213,11 @@ Exemplu: विदुषी "o înțeleaptă"
 Paradigme vezi Kielhorn, Gramatică § 124:
 
 ::: media
-![](/images/lekt6001.jpg)
+![](/images/lekt6001.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6001))
 :::
 ::: media
-![](/images/lekt6002.jpg)
+![](/images/lekt6002.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6002))
 :::
 
@@ -253,11 +253,11 @@ Exemplu: प्रतीची
 ####  Vezi paradigmă la Kielhorn, Gramatikă § 128:
 
 ::: media
-![](/images/lekt6003.jpg)
+![](/images/lekt6003.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6003))
 :::
 ::: media
-![](/images/lekt6004.jpg)
+![](/images/lekt6004.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6004))
 :::
 Aici apar:
@@ -402,7 +402,7 @@ Regulile privind utilizarea vocalei de legătură -i- se găsesc la Kielhorn, Gr
 Lista la Kielhorn, Gramatik § 452:
 
 ::: media
-![](/images/lekt6006.jpg)
+![](/images/lekt6006.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6006))
 :::
 
@@ -448,15 +448,15 @@ Pentru formarea substantivelor de agent pe -u din tema desiderativului, vezi [Le
 A) Studiați în Kielhorn, Gramatică § 451 formele neregulate de desiderativ pentru verbele învățate până acum:
 
 ::: media
-![](/images/lekt6007.jpg)
+![](/images/lekt6007.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6007))
 :::
 ::: media
-![](/images/lekt6008.jpg)
+![](/images/lekt6008.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6008))
 :::
 ::: media
-![](/images/lekt6009.jpg)
+![](/images/lekt6009.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6009))
 :::
 B) Determinați și traduceți fără instrumente auxiliare următoarele forme:

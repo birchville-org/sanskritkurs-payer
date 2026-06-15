@@ -143,7 +143,7 @@ D) Traduceți:
 Datoria tuturor este: non-violența, veridicitatea, puritatea, a nu cârti împotriva destinului, lipsa de răutate și toleranța răbdătoare.
 
 ::: media
-![](/images/uebung028.jpg)
+![](/images/uebung028.webp)
 Fig.: दुर्गमो मार्गः
 (Sursa imaginii: [Detalii](/licenses#uebung028))
 :::

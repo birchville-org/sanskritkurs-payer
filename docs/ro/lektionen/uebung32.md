@@ -112,7 +112,7 @@ Brahmanii au studiat Veda și l-au predat, au fost stăpâni ai jertfei pentru z
 Fiii lui Buddha au recunoscut adevărul, au oprit suferința și au atins eliberarea. Un monah care urmează calea lui Buddha este numit „Fiul lui Buddha”.
 
 ::: media
-![](/images/uebung050.jpg)
+![](/images/uebung050.webp)
 Fig.: सम्पन्नरूपा
 (Sursa imaginii: [Detalii](/licenses#uebung050))
 :::
@@ -214,7 +214,7 @@ Determinați și traduceți următoarele cuvinte:
 :::
 
 ::: media
-![](/images/uebung051.jpg)
+![](/images/uebung051.webp)
 Fig.: किमयं रथो बालान् सुखतां वहति
 (Sursă imagine: [Detalii](/licenses#uebung051))
 :::
@@ -295,7 +295,7 @@ Completați următoarele propoziții cu cuvintele din paranteze, respectând reg
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung052.jpg)
+![](/images/uebung052.webp)
 Fig.: पुनर्दर्शनाय
 (Sursa imaginii: [Detalii](/licenses#uebung052))
 :::
@@ -309,7 +309,7 @@ Fig.: पुनर्दर्शनाय
 **आसयत्सलिले पृथ्वीं यः स मे श्रीहरिर्गतिः ॥** Înaltul Hari este refugiul meu, care i-a trimis pe dușmanii Săi în cer, le-a făcut cunoscuți Săilor sensul Vedei, zeilor le-a dat Amṛta de mâncare, creatorului i-a predat Veda și a fixat pământul în apă.
 
 ::: media
-![](/images/uebung053.jpg)
+![](/images/uebung053.webp)
 Fig.: श्रीगङ्गाधराय नमः
 (Sursa imaginii: [Detalii](/licenses#uebung053))
 :::
@@ -324,7 +324,7 @@ Fig.: श्रीगङ्गाधराय नमः
 Într-o zi, un bătrân a mers într-un alt sat și s-a obosit pe drum. Pentru a se odihni, s-a așezat la piciorul unui copac de mango, de marginea drumului. Pe acest copac atârnau fructe coapte. Bătrânul a dorit să le mănânce, dar nu se putea urca pe copac pentru a le culege. Norocul a fost că pe copac erau câteva maimuțe, care mâncau fructe. Când bătrânul a observat acest lucru, s-a bucurat. Ce a făcut? A luat câteva pietre, Țintind spre maimuțe, le-a aruncat. Maimuțele s-au mâniat, au cules câteva fructe și le-au aruncat asupra bătrânului. Bătrânul a primit cu bucurie fructele și a continuat drumul. Este minunată ingeniozitatea bătrânului!
 
 ::: media
-![](/images/uebung054.jpg)
+![](/images/uebung054.webp)
 Fig.: वानरः कुपितः
 (Sursa imaginii: [Detalii](/licenses#uebung054))
 :::

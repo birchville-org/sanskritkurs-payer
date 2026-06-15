@@ -152,7 +152,7 @@ Nous voulons être guidés par toi.
 Puise au bonheur ! (Vœu de bénédiction)
 
 ::: media
-![](/images/uebung075.jpg)
+![](/images/uebung075.webp)
 Fig. : माद्यत
 (Source de l'image : [Détails](/fr/licenses#uebung075))
 :::

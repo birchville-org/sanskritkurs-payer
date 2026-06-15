@@ -47,7 +47,7 @@ Risultato: रामो वेदमधीते "Rāma studia il Veda"
 Risultato: देवा अमृतमश्नन्ति "I dèi mangiano il cibo dell'immortalità"
 
 ::: media
-![](/images/lekt2802.jpg)
+![](/images/lekt2802.webp)
 Fig.: स नरान्प्रबन्धविज्ञानमध्यापयति
 Tempio ISKCON Bangalore.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2801))
@@ -81,7 +81,7 @@ Colui che pose la terra nell'acqua.
 :::
 
 ::: media
-![](/images/lekt2801.jpg)
+![](/images/lekt2801.webp)
 Fig.: स मे श्रीहरिगतिः
 Edificio della gestione dell'Università di Jadavpur.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2802))
@@ -382,7 +382,7 @@ Inf. **kāmayitum** / **kamitum**
 :::
 
 ::: media
-![](/images/lekt2804.jpg)
+![](/images/lekt2804.webp)
 Fig.: कृष्णो राधां कामयति
 Dipinto di राजा रवि वर्मा (1848 - 1906)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2804))
@@ -406,7 +406,7 @@ Inf. **coritum**
 :::
 
 ::: media
-![](/images/lekt2803.jpg)
+![](/images/lekt2803.webp)
 Fig.: वीणां वादयति
 Musicista di Vīṇā.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2803))
@@ -415,7 +415,7 @@ Musicista di Vīṇā.
 **भार** m.: carico
 
 ::: media
-![](/images/lekt2805.jpg)
+![](/images/lekt2805.webp)
 Fig.: बाला भारं हरति
 Ragazza che trasporta un carico. Vicino ad Ahmedabad.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2805))

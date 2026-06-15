@@ -143,7 +143,7 @@ D) Tradìschiu:
 Dover tut è: nonviolenza, veridicitad, puritad, nagina lamentaziun sur il destin, absenza da malizia e pazient toleranza.
 
 ::: media
-![](/images/uebung028.jpg)
+![](/images/uebung028.webp)
 Abb.: दुर्गमो मार्गः
 (Sursa da l'imagines: [Detagls](/licenses#uebung028))
 :::

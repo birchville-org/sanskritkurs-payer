@@ -141,7 +141,7 @@ Ejemplos:
 **चूत**
 
 ::: media
-![](/images/lekt3202.jpg)
+![](/images/lekt3202.webp)
 Fig.: चूतः
 Árbol de mango, Kanpur.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3202))
@@ -178,7 +178,7 @@ Fig.: चूतः
 **वानर कपि**
 
 ::: media
-![](/images/lekt3203.jpg)
+![](/images/lekt3203.webp)
 Fig.: वानराः
 Monos (macacos rhesus) en Delhi.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3203))
@@ -200,7 +200,7 @@ Monos (macacos rhesus) en Delhi.
 **उपल**
 
 ::: media
-![](/images/lekt3204.jpg)
+![](/images/lekt3204.webp)
 Fig.: उपलाः
 Cantera de piedra al sur de Pune, Maharashtra.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3204))
@@ -209,7 +209,7 @@ Cantera de piedra al sur de Pune, Maharashtra.
 **लक्ष्य**
 
 ::: media
-![](/images/lekt3205.jpg)
+![](/images/lekt3205.webp)
 Fig.: लक्ष्यम्
 Práctica de tiro / blanco de flechas, Karnataka.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3205))
@@ -236,7 +236,7 @@ Práctica de tiro / blanco de flechas, Karnataka.
 :::
 
 ::: media
-![](/images/lekt3207.jpg)
+![](/images/lekt3207.webp)
 Fig.: चितं गोमयं दहति
 Quema de ladrillos de estiércol de vaca en Rajasthan.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3207))
@@ -251,7 +251,7 @@ Quema de ladrillos de estiércol de vaca en Rajasthan.
 **कौशल कुशल**
 
 ::: media
-![](/images/lekt3206.jpg)
+![](/images/lekt3206.webp)
 Fig.: कौशलम्
 Pintura de mehndi en manos en Mumbai.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3206))
@@ -350,7 +350,7 @@ B) Traduzca y descomponga los compuestos en sánscrito:
 बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥
 
 ::: media
-![](/images/lekt3208.jpg)
+![](/images/lekt3208.webp)
 Fig.: बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
 Monje budista en Sri Lanka.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3208))
@@ -574,7 +574,7 @@ C) Traduzca al sánscrito:
 52. ¡Adiós!
 
 ::: media
-![](/images/lekt3209.jpg)
+![](/images/lekt3209.webp)
 Fig.: पुनर्दर्शनाय
 Saludo / despedida india.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3209))
@@ -656,7 +656,7 @@ Explicaciones:
 :::
 
 ::: media
-![](/images/lekt3210.jpg)
+![](/images/lekt3210.webp)
 Fig.: तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
 Monos en árboles de mango.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3210))

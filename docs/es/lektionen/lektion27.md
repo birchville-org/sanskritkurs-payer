@@ -30,7 +30,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2701.jpg)
+![](/images/lekt2701.webp)
 Fig.: जयपुरनगरे
 Jaipur, 1875.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2701))
@@ -61,7 +61,7 @@ Jaipur, 1875.
 ::::
 
 ::: media
-![](/images/lekt2702.jpg)
+![](/images/lekt2702.webp)
 Fig.: एवं गच्छति कालयुष्ट्रः स्वपितi
 Rajasthan.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2702))
@@ -76,7 +76,7 @@ Rajasthan.
 ::::
 
 ::: media
-![](/images/lekt2703.jpg)
+![](/images/lekt2703.webp)
 Fig.: अस्ति तस्य पुत्रे स्नेहः
 Holi.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2703))
@@ -168,7 +168,7 @@ Más sobre el uso del locativo más adelante.
 ## 27.4. Un verso con todas las formas declinativas (singular) de राम
 
 ::: media
-![](/images/lekt2708.jpg)
+![](/images/lekt2708.webp)
 Fig.: रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥
 Rāma-Satz.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2708))
@@ -217,7 +217,7 @@ de lo cual:
 :::
 
 ::: media
-![](/images/lekt2706.jpg)
+![](/images/lekt2706.webp)
 Fig.: वस्त्राणि
 Vastrāṇi. Majuli, Assam.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2706))
@@ -232,7 +232,7 @@ Vastrāṇi. Majuli, Assam.
 :::
 
 ::: media
-![](/images/lekt2707.jpg)
+![](/images/lekt2707.webp)
 Fig.: वसन्तः
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2707))
@@ -257,14 +257,14 @@ Contraparte de **हर**:
 **हरिहर** m.: Viṣṇu y Śiva unidos como una única deidad.
 
 ::: media
-![](/images/lekt2704.jpg)
+![](/images/lekt2704.webp)
 Fig.: हरिहरः
 Harihara (izquierda: Viṣṇu, derecha: Śiva).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2704))
 :::
 
 ::: media
-![](/images/lekt2705.jpg)
+![](/images/lekt2705.webp)
 Fig.: हरिहरः
 Harihara (izquierda: Viṣṇu, derecha: Śiva). Godrumdwip, Bengala Occidental.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2705))
@@ -285,7 +285,7 @@ Harihara (izquierda: Viṣṇu, derecha: Śiva). Godrumdwip, Bengala Occidental.
 वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥
 
 ::: media
-![](/images/lekt2709.jpg)
+![](/images/lekt2709.webp)
 Fig.: वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥
 Pintura de Rāja Ravi Varmā (1848 - 1906).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2709))
@@ -324,7 +324,7 @@ Pintura de Rāja Ravi Varmā (1848 - 1906).
 :::
 
 ::: media
-![](/images/lekt2711.jpg)
+![](/images/lekt2711.webp)
 Fig.: नराः
 Naran. Udaipur.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2711))
@@ -347,7 +347,7 @@ Naran. Udaipur.
 :::
 
 ::: media
-![](/images/lekt2710.jpg)
+![](/images/lekt2710.webp)
 Fig.: फलानि
 Frutas. Bangalore.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2710))
@@ -370,7 +370,7 @@ Frutas. Bangalore.
 :::
 
 ::: media
-![](/images/lekt2718.jpg)
+![](/images/lekt2718.webp)
 Fig.: क्षत्रिया
 Maharani Vani Vilasa Sannidhana (1866 - 1934) con su nieto el Príncipe Jaya Chamaraja Wadiyar, Mysore.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2718))
@@ -393,7 +393,7 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) con su nieto el Príncipe Jaya Cha
 :::
 
 ::: media
-![](/images/lekt2712.jpg)
+![](/images/lekt2712.webp)
 Fig.: अरयः
 Ejecución de dos participantes de la rebelión de 1857. Fotografía de Felice Beato (1833/1834 - ca. 1907).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2712))
@@ -432,7 +432,7 @@ Ejecución de dos participantes de la rebelión de 1857. Fotografía de Felice B
 :::
 
 ::: media
-![](/images/lekt2713.jpg)
+![](/images/lekt2713.webp)
 Fig.: गुरुः
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2713))
@@ -455,7 +455,7 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 :::
 
 ::: media
-![](/images/lekt2714.jpg)
+![](/images/lekt2714.webp)
 Fig.: धेनुः
 Vaca en Udaipur.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2714))
@@ -478,7 +478,7 @@ Vaca en Udaipur.
 :::
 
 ::: media
-![](/images/lekt2715.jpg)
+![](/images/lekt2715.webp)
 Fig.: त्रिदेवी
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2715))
@@ -501,7 +501,7 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 :::
 
 ::: media
-![](/images/lekt2716.jpg)
+![](/images/lekt2716.webp)
 Fig.: सद्गुरुः
 Sai Baba de Shirdi (1835 - 1918).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2716))
@@ -618,7 +618,7 @@ Sai Baba de Shirdi (1835 - 1918).
 :::
 
 ::: media
-![](/images/lekt2717.jpg)
+![](/images/lekt2717.webp)
 Fig.: कस्मात् ?
 Tsunami 2005, Sri Lanka.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2717))

@@ -223,7 +223,7 @@ de lo cual:
 धान्य n.: granos trillados
 
 ::: media
-![](/images/lekt2501.jpg)
+![](/images/lekt2501.webp)
 Fig.: धान्यम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2501))
 :::
@@ -310,7 +310,7 @@ de lo cual:
 मूल n.: raíz
 
 ::: media
-![](/images/lekt2502.jpg)
+![](/images/lekt2502.webp)
 Fig.: मूलानि
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2502))
 :::
@@ -330,7 +330,7 @@ de lo cual:
 :::
 
 ::: media
-![](/images/lekt2503.jpg)
+![](/images/lekt2503.webp)
 Fig.: लिप्तिः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2503))
 :::
@@ -355,7 +355,7 @@ de lo cual:
 :::
 
 ::: media
-![](/images/lekt2504.jpg)
+![](/images/lekt2504.webp)
 Fig.: विवाहः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2504))
 :::
@@ -374,7 +374,7 @@ de lo cual:
 विष्टि f.: trabajo, servicio laboral
 
 ::: media
-![](/images/lekt2505.jpg)
+![](/images/lekt2505.webp)
 Fig.: विष्टिः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2505))
 :::
@@ -402,7 +402,7 @@ de eso:
 हिरण्य ३ : dorado ; n.: oro, dinero, riqueza
 
 ::: media
-![](/images/lekt2506.jpg)
+![](/images/lekt2506.webp)
 Fig.: हिरण्यम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2506))
 :::
@@ -461,7 +461,7 @@ B) Traduzca y resuelva los compuestos en sánscrito:
 लोकादधिको हरिः ॥१७॥ (हरi m. = विष्णु / कृष्ण)
 
 ::: media
-![](/images/lekt2507.jpg)
+![](/images/lekt2507.webp)
 Fig.: लोकादधिको हरिः
 :::
 

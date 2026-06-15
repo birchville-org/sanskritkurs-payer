@@ -49,7 +49,7 @@ kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 B) Form questions for the following reading exercise according to the pattern etat kim (एतत्किम्) and answer the questions with the specified words and demonstrative pronouns, e.g. eṣa bālaḥ (एष बालः):
 
 ::: media
-![](/images/lekt0401.jpg)
+![](/images/lekt0401.webp)
 Fig.: एष कः । एष गजः । अयं गजः । स गजः । एषा का । एषा बाला । इयं बाला । सा बाला ।
 (Image source: [Details](/en/licenses#lekt0401))
 :::
@@ -91,7 +91,7 @@ etat kim? eṣā pipīlikā.
 एतत्किम् । एषा पिपीलिका ॥
 
 ::: media
-![](/images/uebung003.jpg)
+![](/images/uebung003.webp)
 Fig.: एतत्किम् । एष काकः ।
 (Image source: [Details](/en/licenses#uebung003))
 :::

@@ -92,7 +92,7 @@ Determine and translate the following forms in writing, and form the correspondi
 32.  सिष्णेह
 
 ::: media
-![](/images/lekt5501.jpg)
+![](/images/lekt5501.webp)
 Fig.: अजीर्यमिति
 'Inâyat Khân on his deathbed, sketch for a miniature of a manuscript for Jahângîr = جهانگير, ca. 1618
 (Image source: [Details](/en/licenses#lekt5501))

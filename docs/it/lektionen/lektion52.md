@@ -91,7 +91,7 @@ ad es. अन्नमय n. "abbondanza di cibo"
 :::
 
 ::: media
-![](/images/lekt5202.jpg)
+![](/images/lekt5202.webp)
 Fig.: अन्नमयम्
 विवाहः, Chennai = சென்னை
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5202))
@@ -111,7 +111,7 @@ ad es. कौन्तेय m. "figlio di कुन्ती"
 :::
 
 ::: media
-![](/images/lekt5203.jpg)
+![](/images/lekt5203.webp)
 Fig.: भीमः कौन्तेयः
 Figura Wayang, Giava, Indonesia
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5203))
@@ -135,7 +135,7 @@ Figura Wayang, Giava, Indonesia
     नित्यशस् "costantemente"
 :::
 ::: media
-![](/images/lekt5204.jpg)
+![](/images/lekt5204.webp)
 Fig.: अनुक्रमेणैकशः
 Coda di attesa davanti al tempio, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5204))
@@ -179,7 +179,7 @@ La desinenza del sostantivo viene trattata come segue:
     Es. तिर्यक्करोति "posa di lato (तिर्यच्)"
 :::
 ::: media
-![](/images/lekt5209.jpg)
+![](/images/lekt5209.webp)
 Fig.: भस्मीकृतं वनम्
 Taglio con fuoco, Arunachal Pradesh = अरुणाचल प्रदेश
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5209))
@@ -391,7 +391,7 @@ Esempio:
 :::
 
 ::: media
-![](/images/lekt5205.jpg)
+![](/images/lekt5205.webp)
 Fig.: चतुर्मुखः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5205))
 :::
@@ -426,7 +426,7 @@ Il Grande Carro = le sette stelle più luminose dell'Orsa Maggiore (Ursa maior)
     pañca + go » pañcagava (come parola singola non ammesso!) + dhana » पञ्चगवधन m. "Uno la cui ricchezza è costituita da cinque mucche"
 :::
 ::: media
-![](/images/lekt5207.jpg)
+![](/images/lekt5207.webp)
 Fig.: षण्मातुरः कार्त्तिकेय:
 Jalakandapuram = ஜலகண்டபுரம்
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5207))
@@ -471,7 +471,7 @@ da:
 :::
 
 ::: media
-![](/images/lekt5210.jpg)
+![](/images/lekt5210.webp)
 Fig.: खिलः
 Tambhol, Akole, Ahmednagar = अहमदनगर
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5210))
@@ -505,7 +505,7 @@ PPP विपरीत 3: distorto, falso
 पीड् 10P पीडयति : premere, tormentare ; opprimere, assediare, infastidire
 
 ::: media
-![](/images/lekt5212.jpg)
+![](/images/lekt5212.webp)
 Fig.: पीडिताः
 Hyderabad = హైదరాబాద్
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5212))
@@ -523,7 +523,7 @@ da cui:
 प्रधान 3: principale, migliore ; n.: il più importante
 
 ::: media
-![](/images/lekt5213.jpg)
+![](/images/lekt5213.webp)
 Fig.: प्रधानः
 मुंबई
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5213))
@@ -633,7 +633,7 @@ PPP च्युत
 चक्र n.: ruota
 
 ::: media
-![](/images/lekt5214.jpg)
+![](/images/lekt5214.webp)
 Fig.: चक्रम्
 Konark = कोनार्क
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5214))
@@ -641,7 +641,7 @@ Konark = कोनार्क
 कदली f.: banano (_Musa_ sp.)
 
 ::: media
-![](/images/lekt5208.jpg)
+![](/images/lekt5208.webp)
 Fig.: कदली
 Hampi = ಹಂಪೆ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5208))
@@ -657,7 +657,7 @@ Hampi = ಹಂಪೆ
 मल m.n.: sporco, macchia
 
 ::: media
-![](/images/lekt5215.jpg)
+![](/images/lekt5215.webp)
 Fig.: मलम्
 मुंबई
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5215))
@@ -667,7 +667,7 @@ Fig.: मलम्
 मार m.: il male personificato, la tentazione/manipolazione personificata, diavolo
 
 ::: media
-![](/images/lekt5217.jpg)
+![](/images/lekt5217.webp)
 Fig.:
 Amaravati = అమరావతి, II sec. d.C.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5217))
@@ -734,7 +734,7 @@ Spiegazioni:
 ४. अश्वघोष (II sec. d.C.): बुद्धचरित ४ La conoscenza salvifica di Buddhas
 
 ::: media
-![](/images/lekt5216.jpg)
+![](/images/lekt5216.webp)
 Fig.: अश्वत्थो महाबोधिवृक्षः
 _Ficus religiosa_ L. बोधगया, ca. 1810
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5216))
@@ -817,7 +817,7 @@ Durante le vacanze semestrali dovrebbero essere svolti i seguenti compiti:
      **Winternitz, Moriz &lt;1863 - 1937&gt;: Storia della letteratura indiana. Stoccarda : Koehler. -- 3 voll. -- 1908 - 1922 (ancora oggi la migliore storia della letteratura del sanscrito, pali e prakrit)**
 
 ::: media
-![](/images/lekt5201.jpg)
+![](/images/lekt5201.webp)
 Fig.: श्रीगुम्पिः , मम मन्त्री
 (Immagine: Payer)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5201))

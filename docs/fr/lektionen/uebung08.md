@@ -140,7 +140,7 @@ kiṃ kāraṇam?
 किं कारणम् ॥
 
 ::: media
-![](/images/uebung007.jpg)
+![](/images/uebung007.webp)
 Fig. : इमे योधाः किं कुर्वन्ति ।
 (Source de l'image : [Détails](/fr/licenses#uebung007))
 :::
@@ -204,7 +204,7 @@ Le perroquet vole.
 Le garçon écrit une lettre.
 
 ::: media
-![](/images/uebung008.jpg)
+![](/images/uebung008.webp)
 Fig. : कपिः फलं खदति
 (Source de l'image : [Détails](/fr/licenses#uebung008))
 :::

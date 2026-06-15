@@ -2,7 +2,7 @@
 
 ## Exercitium Scriptionis 7
 
-![](/images/schrift012.jpg)
+![](/images/schrift012.webp)
 
 Exempla pro r ante consonantem:
 
@@ -45,7 +45,7 @@ r post consonantem: /
 
 Ad Scriptionem:
 
-![](/images/schrift014.jpg)
+![](/images/schrift014.webp)
 
 ## Exercitatio
 

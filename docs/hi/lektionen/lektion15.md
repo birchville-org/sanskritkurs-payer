@@ -66,7 +66,7 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 ⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "अभिलषित देवता = वह देवता जिसके प्रति विशेष भक्ति और शरण-भाव है"
 
 ::: media
-![](/images/lekt1501.jpg)
+![](/images/lekt1501.webp)
 अभ.: ⟪लक्ष्मी⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1501))
 :::
@@ -89,7 +89,7 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 :::
     
 ::: media
-![](/images/lekt1503.jpg)
+![](/images/lekt1503.webp)
 अभ.: ⟪नरसिंहः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1503))
 :::
@@ -266,7 +266,7 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ⟪पूजा⟫ f.: सम्मान, सम्मानजनक स्वागत, धार्मिक पूजा (पूजा)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 अभ.: ⟪पूजा⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1504))
 :::
@@ -275,7 +275,7 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ⟪इन्द्र⟫ m.: राजा, प्रथम, श्रेष्ठ ; देवराज इन्द्र
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 अभ.: ⟪इन्द्रः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1505))
 :::
@@ -304,14 +304,14 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ⟪सिंह⟫ m.: शेर (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 अभ.: ⟪सिंहः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1506))
 :::
 
 ⟪व्याघ्र⟫ m.: बाघ (_Panthera tigris tigris_) (शाब्दिक: गहना)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 अभ.: ⟪व्याघ्रः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1507))
 :::
@@ -532,7 +532,7 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ⟪६०⟫. ⟪द्विजातिशुश्रूषया⟫
 ::: media
-![](/images/lekt1508.jpg)
+![](/images/lekt1508.webp)
 अभिक: ⟪ग्रामदेवता⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1508))
 :::
@@ -595,7 +595,7 @@ B) निम्नलिखित तत्पुरुष समास को �
 
 ⟪२६⟫. ⟪श्रुत्युदितम्⟫
 ::: media
-![](/images/lekt1509.jpg)
+![](/images/lekt1509.webp)
 अभि.: ⟪नागदेवाः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1509))
 :::

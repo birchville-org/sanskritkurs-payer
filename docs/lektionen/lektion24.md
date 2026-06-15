@@ -36,7 +36,7 @@ oder:
 ::::
 
 ::: media
-![](/images/lekt2404.jpg)
+![](/images/lekt2404.webp)
 Abb.: बाला गुरुश्रवणाय गताः
 (Bildquelle: [Details](/licenses#lekt2404))
 :::
@@ -60,7 +60,7 @@ Beispiel:
 ::::
 
 ::: media
-![](/images/lekt2401.jpg)
+![](/images/lekt2401.webp)
 Abb.: यज्ञायान्नम्
 'Annakut' [अन्नकूट = गोवर्धन पूजा] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
 (Bildquelle: [Details](/licenses#lekt2401))
@@ -77,7 +77,7 @@ Beispiel:
 ::::
 
 ::: media
-![](/images/lekt2402.jpg)
+![](/images/lekt2402.webp)
 Abb.: बाला बालाय रक्षबन्धनं ददाति
 Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
 (Bildquelle: [Details](/licenses#lekt2402))
@@ -96,7 +96,7 @@ Beispiele:
 ::::
 
 ::: media
-![](/images/lekt2403.jpg)
+![](/images/lekt2403.webp)
 Abb.: अलं योधो योधाय
 "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
 (Bildquelle: [Details](/licenses#lekt2403))
@@ -208,7 +208,7 @@ In gleicher Weise wie अलम् mit Instrumentalis wird verwendet:
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 Abb.: अलंकारः
 (Bildquelle: [Details](/licenses#lekt2405))
 :::
@@ -219,7 +219,7 @@ Abb.: अलंकारः
 प्रतिमा f.: Bildnis, Abbild
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 Abb.: देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Bildquelle: [Details](/licenses#lekt2406))
@@ -259,7 +259,7 @@ davon
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 Abb.: ऊहापोहः
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
 (Bildquelle: [Details](/licenses#lekt2407))
@@ -281,7 +281,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 Abb.: आख्यानम्
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
 (Bildquelle: [Details](/licenses#lekt2408))
@@ -313,7 +313,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 Abb.: जयदेवकविर्विष्णुं नमस्करोति
 Manuskript des गीतगोविन्द, 1730 n. Chr.
 (Bildquelle: [Details](/licenses#lekt2411))
@@ -401,7 +401,7 @@ E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Kons
 5\. Verehrung (नमस्)  sei Śiva! Verehrung sei Śrī Gaṇeśa!
 
 ::: media
-![](/images/lekt2409.jpg)
+![](/images/lekt2409.webp)
 Abb.: श्रीगणेशाय नमः
 (Bildquelle: [Details](/licenses#lekt2409))
 :::
@@ -422,7 +422,7 @@ Erklärung: मुनित्रयम् "die Dreiheit der Weisen = die drei W
 :::
 
 ::: media
-![](/images/lekt2410.jpg)
+![](/images/lekt2410.webp)
 Abb.: नरो नरसिंहाय नमस्करोति
 नरसिंह zerfleischt हिरण्यकशिपु, Blatt aus einem Manuskript des भागवतपुराण
 (Bildquelle: [Details](/licenses#lekt2410))

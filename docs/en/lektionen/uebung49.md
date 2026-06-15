@@ -55,7 +55,7 @@ Determine the following forms:
 :::
 
 ::: media
-![](/images/uebung078.jpg)
+![](/images/uebung078.webp)
 Fig.: गायी
 (Image source: [Details](/en/licenses#uebung078))
 :::
@@ -75,7 +75,7 @@ Questions of the King **शूद्रक** of **विदिशा** to the Pa
 > Vaiśampāyana, however, who had been asked by the Lord of the Earth with spontaneously arising curiosity with great respect, thought for a moment and then answered with full reverence: "King, that is a long story. If you are interested, lend me your ear!"
 
 ::: media
-![](/images/uebung079.jpg)
+![](/images/uebung079.webp)
 Fig.: शुकः
 (Image source: [Details](/en/licenses#uebung079))
 :::

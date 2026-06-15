@@ -112,7 +112,7 @@ Brahmanae Veda studuerunt et docuerunt, deis ut hostiarum domini sacrificaverunt
 Filii Buddhae veritatem cognoverunt, dolorem quietemque attigerunt, et liberationem consecuti sunt. "Buddha filius" monachus appellatur, qui viam Buddhae sequitur.
 
 ::: media
-![](/images/uebung050.jpg)
+![](/images/uebung050.webp)
 Fig.: सम्पन्नरूपा
 (Fons imaginis: [Detalia](/licenses#uebung050))
 :::
@@ -214,7 +214,7 @@ Determinate et vertite verba sequentia:
 :::
 
 ::: media
-![](/images/uebung051.jpg)
+![](/images/uebung051.webp)
 Tab.: किमयं रथो बालान् सुखतां वहति
 (Fons imaginis: [Detalia](/licenses#uebung051))
 :::
@@ -295,7 +295,7 @@ In sequentibus sententiis verba in parenthesibus ponite et regulas Sandhi observ
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung052.jpg)
+![](/images/uebung052.webp)
 Fig.: पुनर्दर्शनाय
 (Fons imaginis: [Detalia](/licenses#uebung052))
 :::
@@ -310,7 +310,7 @@ Fig.: पुनर्दर्शनाय
 Hari excelsus est refugium meum, qui inimicos suos in caelum misit, suis sensum Vedarum notum fecit, diis Amṛta ad edendum dedit, creatorem Vedarum docuit, et terram in aqua constituit.
 
 ::: media
-![](/images/uebung053.jpg)
+![](/images/uebung053.webp)
 Fig.: श्रीगङ्गाधराय नमः
 (Fons imaginis: [Detalia](/licenses#uebung053))
 :::
@@ -325,7 +325,7 @@ Fig.: श्रीगङ्गाधराय नमः
 Quidam senex in vicum alium pergens, vias fatigatus est. Ut requiesceret, ad radicem mangiferae arboris, quae ad margines viae erat, accessit. In hac arbore fructus maturi pendebant. Senescenti libitum erat eorum, sed ascendere in arborem, ut eos colligeret, non potuit. Fortunate, in arbore erant aliquae simiae, quae fructus comedebant. Cum senex hoc vidisset, gavisus est. Quid fecit? Aliquos lapides sumpsit, in simias intendit, et iecit. Simiae iratae, fructus aliquos collegerunt, et in senem iecerunt. Senex fructus laetus accepit, et iter suum pergens est. Magnificum est ingenium senis!
 
 ::: media
-![](/images/uebung054.jpg)
+![](/images/uebung054.webp)
 Tab.: वानरः कुपितः
 (Fons imaginis: [Detalia](/licenses#uebung054))
 :::

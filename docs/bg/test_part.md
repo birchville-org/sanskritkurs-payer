@@ -16,7 +16,7 @@
 
 > नगरे = "в града"
 
-![](/images/lekt2701.jpg)  
+![](/images/lekt2701.webp)  
 Фигура: जयपुरनगरे, 1875  
 \[Източник на изображението: Wikipedia. Public domain\]
 
@@ -40,7 +40,7 @@ Locativus absolutus трябва да се превежда в зависимо�
 
 Запомнете: при абсолютивото агенсът на абсолютивото и агенсът на главното глагол трябва да бъдат идентични; при Locativus absolutus агенсът на Locativus absolutus и агенсът на главното глагол трябва да бъдат различни.
 
-![](/images/lekt2702.jpg)  
+![](/images/lekt2702.webp)  
 Фигура: एवं गच्छति कालयुष्ट्रः स्वपिति (उष्ट्र = камила)  
 Rajasthan  
 \[Източник на изображението: fbloeink. -- [http://www.flickr.com/photos/20609504@N00/501184601/](http://www.flickr.com/photos/20609504@N00/501184601/). -- Достъп на 2008-12-18. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons лиценз (с уговорка за името, не за търговска употреба, share alike)\]  

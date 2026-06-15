@@ -2,7 +2,7 @@
 
 ## எழுத்துப் பயிற்சி 3
 
-![](/images/schrift005.jpg)
+![](/images/schrift005.webp)
 
 ## பயிற்சி
 

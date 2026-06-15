@@ -49,7 +49,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: media
-![](/images/uebung092.jpg)
+![](/images/uebung092.webp)
 Ил.: अशोभथाः । अशुभः
 (Източник на изображението: [Подробности](/bg/licenses#uebung092))
 :::

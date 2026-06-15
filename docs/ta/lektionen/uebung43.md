@@ -68,7 +68,7 @@ A) காலம், எண்ணிக்கை, விளிவகை மற்
 :::
 
 ::: media
-![](/images/uebung070.jpg)
+![](/images/uebung070.webp)
 படம்: दिशसि
 (பட மூலம்: [விவரங்கள்](/licenses#uebung070))
 :::

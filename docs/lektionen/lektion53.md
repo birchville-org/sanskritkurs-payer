@@ -35,13 +35,13 @@ lesson_id: 53
 ::::
 
 ::: media
-![](/images/lekt5301.jpg)
+![](/images/lekt5301.webp)
 Abb.: मार्जारयुगम्
 (Bildquelle: [Details](/licenses#lekt5301))
 :::
 
 ::: media
-![](/images/lekt5302.jpg)
+![](/images/lekt5302.webp)
 Abb.: हस्तौ
 (Bildquelle: [Details](/licenses#lekt5302))
 :::
@@ -129,7 +129,7 @@ Abb.: हस्तौ
 :::
 
 ::: media
-![](/images/lekt5305.jpg)
+![](/images/lekt5305.webp)
 Abb.: भरन्तौ
 (Bildquelle: [Details](/licenses#lekt5305))
 :::
@@ -232,7 +232,7 @@ Abb.: भरन्तौ
 :::
 
 ::: media
-![](/images/lekt5306.jpg)
+![](/images/lekt5306.webp)
 Abb.: फले
 (Bildquelle: [Details](/licenses#lekt5306))
 :::
@@ -266,7 +266,7 @@ Abb.: फले
 :::
 
 ::: media
-![](/images/lekt5307.jpg)
+![](/images/lekt5307.webp)
 Abb.: धेनू
 (Bildquelle: [Details](/licenses#lekt5307))
 :::
@@ -352,7 +352,7 @@ Beispiele:
 ::::
 
 ::: media
-![](/images/lekt5308.jpg)
+![](/images/lekt5308.webp)
 Abb.: पितापुत्रौ
 (Bildquelle: [Details](/licenses#lekt5308))
 :::
@@ -487,7 +487,7 @@ Beispiel:
 :::
 
 ::: media
-![](/images/lekt5309.jpg)
+![](/images/lekt5309.webp)
 Abb.: द्राघीयो लिङ्गम्
 (Bildquelle: [Details](/licenses#lekt5309))
 :::

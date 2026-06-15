@@ -306,7 +306,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt3001.jpg)
+![](/images/lekt3001.webp)
 Рис.: क्रीणन्ति विक्रीणते च
 Бунди = बुन्दी, Раджастхан = राजस्थान
 (Источник изображения: [Подробности](/ru/licenses#lekt3001))
@@ -330,7 +330,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt3002.jpg)
+![](/images/lekt3002.webp)
 Рис.: ज्ञातयः
 Даревади, район Ахмаднагар = अहमदनगर, Махараштра = महाराष्ट्र
 (Источник изображения: [Подробности](/ru/licenses#lekt3002))
@@ -347,7 +347,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt3003.jpg)
+![](/images/lekt3003.webp)
 Рис.: श्रोत्राणि पुनाति
 (Источник изображения: [Подробности](/ru/licenses#lekt3003))
 :::
@@ -363,7 +363,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt3005.jpg)
+![](/images/lekt3005.webp)
 Рис.: अश्नीयात्
 थाली, Южная Индия
 (Источник изображения: [Подробности](/ru/licenses#lekt3005))
@@ -372,7 +372,7 @@ status: stable
 प्रिय ३: милый, любящий, дружелюбный
 
 ::: media
-![](/images/lekt3004.jpg)
+![](/images/lekt3004.webp)
 Рис.: प्रिया
 (Источник изображения: [Подробности](/ru/licenses#lekt3004))
 :::
@@ -402,7 +402,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2904.jpg)
+![](/images/lekt2904.webp)
 Рис.: पुनर्भवः
 (Источник изображения: [Подробности](/ru/licenses#lekt2904))
 :::

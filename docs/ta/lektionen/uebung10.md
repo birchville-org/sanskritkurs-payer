@@ -208,7 +208,7 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 दानेन श्रावकः स्वर्गमाप्नोति / स्वर्गमश्नुते ।
 
 ::: media
-![](/images/uebung011.jpg)
+![](/images/uebung011.webp)
 படம்: ग्रामः
 (படம் மூலம்: [விவரங்கள்](/licenses#uebung011))
 :::
@@ -320,7 +320,7 @@ Rāma wohnt bei den vedischen Weisen.
 சாரதி வாகனத்தை ஓட்டுகிறார்.
 
 ::: media
-![](/images/uebung012.jpg)
+![](/images/uebung012.webp)
 படம்: सारथी रथं नयति
 (படம் மூலம்: [விவரங்கள்](/licenses#uebung012))
 :::

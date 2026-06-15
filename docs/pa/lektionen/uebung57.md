@@ -43,7 +43,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: media
-![](/images/uebung090.jpg)
+![](/images/uebung090.webp)
 अभि.: वारानास्यां गङ्गायामप्लोढ्वम्
 (चित्र स्रोत: [विवरण](/licenses#uebung090))
 :::
@@ -117,7 +117,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: media
-![](/images/uebung094.jpg)
+![](/images/uebung094.webp)
 ਚਿੱਤਰ: पाणी धूपं कुरुतः ॥
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/licenses#uebung094))
 :::

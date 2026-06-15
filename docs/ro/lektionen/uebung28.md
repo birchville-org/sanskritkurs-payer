@@ -153,7 +153,7 @@ Pentru a-i elibera de rău, Buddha poruncește oamenilor nobili să recunoască 
 (Bază: **आर्यजना आर्यसत्यानि बुध्यन्ते ।**)
 
 ::: media
-![](/images/uebung045.jpg)
+![](/images/uebung045.webp)
 Fig.: गर्भगृहे देवीप्रतिमा दर्श्यते
 (Sursa imaginii: [Detalii](/licenses#uebung045))
 :::

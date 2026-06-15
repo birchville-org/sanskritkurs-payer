@@ -103,7 +103,7 @@ B) Transforme las siguientes formas verbales en sus correspondientes formas de p
 :::
 
 ::: media
-![](/images/uebung065.jpg)
+![](/images/uebung065.webp)
 Fig.: आशिमेति
 (Fuente de la imagen: [Detalles](/licenses#uebung065))
 :::
@@ -154,7 +154,7 @@ Determine y traduzca las siguientes formas verbales:
 :::
 
 ::: media
-![](/images/uebung066.jpg)
+![](/images/uebung066.webp)
 Fig.: काश्चन वाहिकाः
 (Fuente de la imagen: [Detalles](/licenses#uebung066))
 :::

@@ -66,7 +66,7 @@ Nom pl. गुणवत्पुत्राः
 इष्टदेवता = इष्टा देवता = "die gewünschte Gottheit = die Gottheit, zu der man ein besonderes Andachts- und Zufluchtsverhältnis hat"
 
 ::: media
-![](/images/lekt1501.jpg)
+![](/images/lekt1501.webp)
 Abb.: लक्ष्मी
 (Bildquelle: [Details](/licenses#lekt1501))
 :::
@@ -89,7 +89,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 :::
     
 ::: media
-![](/images/lekt1503.jpg)
+![](/images/lekt1503.webp)
 Abb.: नरसिंहः
 (Bildquelle: [Details](/licenses#lekt1503))
 :::
@@ -267,7 +267,7 @@ z.B.
 
 पूजा f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 Abb.: पूजा
 (Bildquelle: [Details](/licenses#lekt1504))
 :::
@@ -276,7 +276,7 @@ Abb.: पूजा
 
 इन्द्र m.: Fürst, Erster, Bester unter ; Götterkönig Indra
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 Abb.: इन्द्रः
 (Bildquelle: [Details](/licenses#lekt1505))
 :::
@@ -305,14 +305,14 @@ davon:
 
 सिंह m.: Löwe (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 Abb.: सिंहः
 (Bildquelle: [Details](/licenses#lekt1506))
 :::
 
 व्याघ्र m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 Abb.: व्याघ्रः
 (Bildquelle: [Details](/licenses#lekt1507))
 :::
@@ -533,7 +533,7 @@ Lösen Sie wie bei Übung 1 folgende Tatpuruṣa auf:
 
 ६०. द्विजातिशुश्रूषया
 ::: media
-![](/images/lekt1508.jpg)
+![](/images/lekt1508.webp)
 Abb.: ग्रामदेवता
 (Bildquelle: [Details](/licenses#lekt1508))
 :::
@@ -596,7 +596,7 @@ B) Lösen Sie folgende Tatpuruṣa auf:
 
 २६. श्रुत्युदितम्
 ::: media
-![](/images/lekt1509.jpg)
+![](/images/lekt1509.webp)
 Abb.: नागदेवाः
 (Bildquelle: [Details](/licenses#lekt1509))
 :::

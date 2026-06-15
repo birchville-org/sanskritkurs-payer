@@ -175,7 +175,7 @@ status: stable
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : जागना, ज्ञान के लिए जागना, जानना; PPP **buddha** 3 जागे हुए, इसलिए **Buddha** = "जागे हुए" (न कि "प्रबुद्ध")
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 अभ.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1201))
 :::
@@ -186,7 +186,7 @@ status: stable
 - **mārga** m. ⟪मार्ग⟫ : ⟪मार्ग⟫ (⟪मार्ग⟫ अक्सर वन्य पशुओं के रास्ते होते थे)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 अभ.: ⟪मार्गः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1202))
 :::
@@ -205,7 +205,7 @@ status: stable
 - **budh**: **bodhi** m./f. ⟪बोधि⟫ : जागना (जिससे एक ⟪बुद्ध⟫ या जिना मोक्षदायी अंतर्ज्ञान तक पहुँचता है)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 अभ.: ⟪महावीरो⟫ ⟪जिनः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1203))
 :::

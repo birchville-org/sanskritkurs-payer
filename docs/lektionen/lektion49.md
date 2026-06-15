@@ -185,7 +185,7 @@ Beispiele:
 Nomina auf -is und -us sind relativ selten.
 
 ::: media
-![](/images/lekt4907.jpg)
+![](/images/lekt4907.webp)
 Abb.: नमस्ते
 (Bildquelle: [Details](/licenses#lekt4907))
 :::
@@ -247,7 +247,7 @@ Inf. द्रोग्धुम्
 कुलूहल n.: Neugier, Interesse
 
 ::: media
-![](/images/lekt4901.jpg)
+![](/images/lekt4901.webp)
 Abb.: कुलूहलम्
 (Bildquelle: [Details](/licenses#lekt4901))
 :::
@@ -258,7 +258,7 @@ Abb.: कुलूहलम्
 कला f.: Kunst
 
 ::: media
-![](/images/lekt4902.jpg)
+![](/images/lekt4902.webp)
 Abb.: उत्तमा काला
 शिवो नटराजा, 11. Jhdt.
 (Bildquelle: [Details](/licenses#lekt4902))
@@ -277,7 +277,7 @@ Abb.: विहंगः
 वेष m.: Kleid, Aussehen, Äußeres
 
 ::: media
-![](/images/lekt4904.jpg)
+![](/images/lekt4904.webp)
 Abb.: वेषः
 वाराणस्याम्
 (Bildquelle: [Details](/licenses#lekt4904))
@@ -287,7 +287,7 @@ Abb.: वेषः
 पञ्जर n.: Käfig
 
 ::: media
-![](/images/lekt4909.jpg)
+![](/images/lekt4909.webp)
 Abb.: पञ्जरम्
 Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore
 (Bildquelle: [Details](/licenses#lekt4909))
@@ -315,7 +315,7 @@ Gerundiv ध्येय
 आदर m.: Rücksicht, Beachtung, Respekt
 
 ::: media
-![](/images/lekt4905.jpg)
+![](/images/lekt4905.webp)
 Abb.: सादरः
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Bildquelle: [Details](/licenses#lekt4905))
@@ -327,7 +327,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 शिशु m.: Kind, Junges
 
 ::: media
-![](/images/lekt4906.jpg)
+![](/images/lekt4906.webp)
 Abb.: गजशिशुः
 Sri Lanka
 (Bildquelle: [Details](/licenses#lekt4906))
@@ -387,7 +387,7 @@ Fragen des Königs शूद्रक von विदिशा an den Papagei व�
 वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥
 
 ::: media
-![](/images/lekt4908.jpg)
+![](/images/lekt4908.webp)
 Abb.: शुकः
 Pflaumenkopfsittich = Psittacula cyanocephala
 (Bildquelle: [Details](/licenses#lekt4908))

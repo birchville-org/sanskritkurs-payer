@@ -59,7 +59,7 @@ Exemples : voir ci-dessous le futur de  दुह् et  बुध्
 ::::
 
 ::: media
-![](/images/lekt2601.jpg)
+![](/images/lekt2601.webp)
 Fig. : Hermann Grassmann
 (Source de l’image : [Détails](/fr/licenses#lekt2601))
 :::
@@ -93,7 +93,7 @@ p. ex. व्रतं करिष्यन्देवगृहं गच्�
 
 
 ::: media
-![](/images/lekt2602.jpg)
+![](/images/lekt2602.webp)
 Fig. : व्रतं करिष्यन्देवगृहं गच्छति
 (Source de l'image : [Détails](/fr/licenses#lekt2602))
 :::

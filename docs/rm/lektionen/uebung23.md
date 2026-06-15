@@ -108,7 +108,7 @@ Perquai che ella vuleva udair davart il Dharma, è la Brahmana cun sias figl ida
 Mangiar, dormir, tema e sessu è commun cun las bestias. La differenza prominenta dals umans giass en il dharma. Senza dharma els èn sco las bestias.
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 Fig.: आहारनिद्राभयमैथुनं च
 (Sursa da l’imagine: [Detagls](/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 Abb.: बालाः पिबन्ति
 (Bildquelle: [Details](/licenses#uebung036))
 :::

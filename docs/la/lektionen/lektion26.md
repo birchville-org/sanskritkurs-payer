@@ -59,7 +59,7 @@ Exempla: vide infra Futurum verborum दुह् et बुध्
 ::::
 
 ::: media
-![](/images/lekt2601.jpg)
+![](/images/lekt2601.webp)
 Fig.: Hermann Grassmann
 (Fons imaginis: [Detalia](/la/licenses#lekt2601))
 :::
@@ -93,7 +93,7 @@ e. g. व्रतं करिष्यन्देवगृहं गच्छ
 
 
 ::: media
-![](/images/lekt2602.jpg)
+![](/images/lekt2602.webp)
 Fig.: व्रतं करिष्यन्देवगृहं गच्छति
 (Fons imaginis: [Detalia](/la/licenses#lekt2602))
 :::

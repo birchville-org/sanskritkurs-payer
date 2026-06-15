@@ -152,7 +152,7 @@ We wish to be led by you.
 May it bring good fortune! (Blessing)
 
 ::: media
-![](/images/uebung075.jpg)
+![](/images/uebung075.webp)
 Fig.: माद्यत
 (Image source: [Details](/en/licenses#uebung075))
 :::

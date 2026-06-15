@@ -30,7 +30,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2701.jpg)
+![](/images/lekt2701.webp)
 अभ.: ⟪जयपुरनगरे⟫
 जयपुर, 1875.
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2701))
@@ -61,7 +61,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2702.jpg)
+![](/images/lekt2702.webp)
 अभ.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 राजस्थान.
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2702))
@@ -76,7 +76,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2703.jpg)
+![](/images/lekt2703.webp)
 अभ.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 होली.
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2703))
@@ -168,7 +168,7 @@ status: stable
 ## 27.4. एक श्लोक जिसमें सभी विभक्ति रूप (एकवचन) हैं ⟪राम⟫
 
 ::: media
-![](/images/lekt2708.jpg)
+![](/images/lekt2708.webp)
 अभि.: ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2708))
@@ -217,7 +217,7 @@ Rāma-Satz.
 :::
 
 ::: media
-![](/images/lekt2706.jpg)
+![](/images/lekt2706.webp)
 अभि.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2706))
@@ -232,7 +232,7 @@ Vastrāṇi. Majuli, Assam.
 :::
 
 ::: media
-![](/images/lekt2707.jpg)
+![](/images/lekt2707.webp)
 अभि.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, महाराष्ट्र, 2007-04-07.
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2707))
@@ -257,14 +257,14 @@ Vasanta (Schleichera oleosa), Khopoli, महाराष्ट्र, 2007-04-0
 **⟪हरिहर⟫** प.: विष्णु और शिव को एक ही देवता के रूप में मिलाकर।
 
 ::: media
-![](/images/lekt2704.jpg)
+![](/images/lekt2704.webp)
 अभि.: ⟪हरिहरः⟫
 Harihara (बाएं: विष्णु, दाएं: शिव)।
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2704))
 :::
 
 ::: media
-![](/images/lekt2705.jpg)
+![](/images/lekt2705.webp)
 अभि.: ⟪हरिहरः⟫
 Harihara (बाएं: विष्णु, दाएं: शिव)। Godrumdwip, पश्चिम बंगाल।
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2705))
@@ -285,7 +285,7 @@ Harihara (बाएं: विष्णु, दाएं: शिव)। Godrumdw
 ⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥३॥⟫
 
 ::: media
-![](/images/lekt2709.jpg)
+![](/images/lekt2709.webp)
 अभि.: ⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥⟫
 राजा रवि वर्मा (1848 - 1906) द्वारा चित्र।
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2709))
@@ -324,7 +324,7 @@ Harihara (बाएं: विष्णु, दाएं: शिव)। Godrumdw
 :::
 
 ::: media
-![](/images/lekt2711.jpg)
+![](/images/lekt2711.webp)
 अभि.: ⟪नराः⟫
 नरन. उदयपुर।
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2711))
@@ -347,7 +347,7 @@ Harihara (बाएं: विष्णु, दाएं: शिव)। Godrumdw
 :::
 
 ::: media
-![](/images/lekt2710.jpg)
+![](/images/lekt2710.webp)
 चित्र: ⟪फलानि⟫
 फल। बेंगलुरु।
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2710))
@@ -370,7 +370,7 @@ Harihara (बाएं: विष्णु, दाएं: शिव)। Godrumdw
 :::
 
 ::: media
-![](/images/lekt2718.jpg)
+![](/images/lekt2718.webp)
 चित्र: ⟪क्षत्रिया⟫
 महाराणी वानी विलास सन्निधान (1866 - 1934) अपने पोते राजकुमार जय चामराज वाडियर, mysore के साथ।
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2718))
@@ -393,7 +393,7 @@ Harihara (बाएं: विष्णु, दाएं: शिव)। Godrumdw
 :::
 
 ::: media
-![](/images/lekt2712.jpg)
+![](/images/lekt2712.webp)
 अभि.: ⟪अरयः⟫
 1857 के विद्रोह के दो प्रतिभागियों की फांसी। फेलिसे बीटो (1833/1834 - लगभग 1907) की फोटोग्राफी।
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2712))
@@ -432,7 +432,7 @@ Harihara (बाएं: विष्णु, दाएं: शिव)। Godrumdw
 :::
 
 ::: media
-![](/images/lekt2713.jpg)
+![](/images/lekt2713.webp)
 आकृति: ⟪गुरुः⟫
 महर्षि महेश योगी (1917 - 2008) गुरु।
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2713))
@@ -455,7 +455,7 @@ Harihara (बाएं: विष्णु, दाएं: शिव)। Godrumdw
 :::
 
 ::: media
-![](/images/lekt2714.jpg)
+![](/images/lekt2714.webp)
 आकृति: ⟪धेनुः⟫
 उदयपुर में गाय।
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2714))
@@ -478,7 +478,7 @@ Harihara (बाएं: विष्णु, दाएं: शिव)। Godrumdw
 :::
 
 ::: media
-![](/images/lekt2715.jpg)
+![](/images/lekt2715.webp)
 चित्र: ⟪त्रिदेवी⟫
 त्रिदेवी (लक्ष्मी, पार्वती, सरस्वती)।
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2715))
@@ -501,7 +501,7 @@ Harihara (बाएं: विष्णु, दाएं: शिव)। Godrumdw
 :::
 
 ::: media
-![](/images/lekt2716.jpg)
+![](/images/lekt2716.webp)
 अभि.: ⟪सद्गुरुः⟫
 शिरडी के साईं बाबा (1835 - 1918)।
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2716))
@@ -618,7 +618,7 @@ Harihara (बाएं: विष्णु, दाएं: शिव)। Godrumdw
 :::
 
 ::: media
-![](/images/lekt2717.jpg)
+![](/images/lekt2717.webp)
 अभ.: ⟪कस्मात्⟫ ?
 Tsunami 2005, श्रीलंका।
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2717))

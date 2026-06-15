@@ -102,7 +102,7 @@ En la grammatica indiana tradiziunala distingheschasson tranter ils suffigxs, cu
 | **dṛś** 4 P[[br]]दृश्[[br]]"vesair" | **darśana** n.[[br]]दर्शन | "il vesair, punct da vista, sistem filosofic, appariziun, spezialmain: Darśan" |
 
 ::: media
-![](/images/lekt0801.jpg)
+![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt0801))
 :::

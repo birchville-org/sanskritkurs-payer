@@ -20,9 +20,9 @@
 
 ### प्रारंभिक स्थिति में अन्य स्वर
 
-![](/images/schrift018.jpg)
+![](/images/schrift018.webp)
 
-![](/images/schrift019.jpg)
+![](/images/schrift019.webp)
 
 Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
 

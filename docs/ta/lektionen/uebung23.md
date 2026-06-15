@@ -108,7 +108,7 @@ Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfe
 உணவு, உறக்கம், அச்சம் மற்றும் பாலியல் ஆகியவை மனிதர்களுக்கும் பசுக்களுக்கும் பொதுவானவை. மனிதர்களின் தனித்துவமான வேறுபாடு தர்மத்தில் உள்ளது. தர்மமின்றி அவை பசுக்களுக்குச் சமமானவை.
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 அடிப்படை: आहारनिद्राभयमैथुनं च
 (பட மூலம்: [விவரங்கள்](/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 Abb.: बालाः पिबन्ति
 (Bildquelle: [Details](/licenses#uebung036))
 :::

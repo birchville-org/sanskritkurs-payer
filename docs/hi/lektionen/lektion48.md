@@ -266,7 +266,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt4801.jpg)
+![](/images/lekt4801.webp)
 अभिव्यक्ति: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4801))
 :::
@@ -284,14 +284,14 @@ status: stable
 ⟪तन्त्र⟫ n.: तार ; ताना-बाना, ताना; आधार, नियम, नियम; सिद्धांत, पाठ्यग्रंथ; तंत्र; मंत्र; उपाय, तरकीब, औषधि; शासन, अधिकार
 
 ::: media
-![](/images/lekt4802.jpg)
+![](/images/lekt4802.webp)
 अभ.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4802))
 :::
 
 ::: media
-![](/images/lekt4803.jpg)
+![](/images/lekt4803.webp)
 अभ.: ⟪तन्त्री⟫
 Sitarspieler = ⟪सितारवादकः⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4803))
@@ -315,7 +315,7 @@ Sitarspieler = ⟪सितारवादकः⟫
 :::
 
 ::: media
-![](/images/lekt4804.jpg)
+![](/images/lekt4804.webp)
 अभ.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4804))
@@ -328,7 +328,7 @@ Sitarspieler = ⟪सितारवादकः⟫
 ⟪कुमार⟫ m.: बालक, युवक, राजकुमार; ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ्य का उपनाम
 
 ::: media
-![](/images/lekt4805.jpg)
+![](/images/lekt4805.webp)
 अभ.: ⟪कुमारः⟫
 Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
 (चित्र स्रोत: [विवरण](/hi/licenses/lekt4805))
@@ -337,7 +337,7 @@ Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
 ⟪कुमारी⟫ f.: कन्या, पुत्री
 
 ::: media
-![](/images/lekt4806.jpg)
+![](/images/lekt4806.webp)
 अभ.: ⟪कुमारी⟫
 ⟪नेपाल⟫
 (चित्र स्रोत: [विवरण](/hi/licenses/lekt4806))
@@ -350,7 +350,7 @@ Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
 ⟪स्थविर⟫ 3: वृद्ध, जरायु
 
 ::: media
-![](/images/lekt4807.jpg)
+![](/images/lekt4807.webp)
 अभ.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (चित्र स्रोत: [विवरण](/hi/licenses/lekt4807))
@@ -363,7 +363,7 @@ Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
 ⟪सूक्ष्म⟫ 3: सूक्ष्म, अत्यल्प, सूक्ष्म
 
 ::: media
-![](/images/lekt4808.jpg)
+![](/images/lekt4808.webp)
 अभ.: ⟪सूक्ष्मम्⟫
 Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 (चित्र स्रोत: [विवरण](/hi/licenses/lekt4808))
@@ -380,7 +380,7 @@ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 ⟪जाया⟫ f.: पत्नी
 
 ::: media
-![](/images/lekt4809.jpg)
+![](/images/lekt4809.webp)
 अभ.: ⟪मम⟫ ⟪जाया⟫
 (चित्र: पeyer)
 (चित्र स्रोत: [विवरण](/hi/licenses/lekt4809))

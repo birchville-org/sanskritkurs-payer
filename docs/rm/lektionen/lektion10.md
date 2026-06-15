@@ -260,7 +260,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Dal testament 
 :::
 
 ::: media
-![](/images/lekt1003.jpg)
+![](/images/lekt1003.webp)
 Fig.: वरुणः
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt1003))
 :::

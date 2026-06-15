@@ -100,7 +100,7 @@ Par ailleurs, il existe encore quelques utilisations moins importantes du suffix
 - **adhyayana** n. (अध्ययन) : Apprentissage, en particulier l'étude des Védas
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 Fig. : **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram près de Madurai.
 (Source de l'image : [Détails](/fr/licenses#lekt0903))
 :::
@@ -108,7 +108,7 @@ Fig. : **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparank
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : Artisan
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 Fig. : **kāru** = कारु, Gujarat.
 (Source de l'image : [Détails](/fr/licenses#lekt0902))
 :::
@@ -143,7 +143,7 @@ Fig. : **kāru** = कारु, Gujarat.
 7\. **karṣaka** कर्षक
 
 ::: media
-![](/images/lekt0901.jpg)
+![](/images/lekt0901.webp)
 Fig. : **karṣaka** = कर्षक.
 (Source de l'image : [Détails](/fr/licenses#lekt0901))
 :::

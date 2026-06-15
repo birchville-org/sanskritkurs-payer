@@ -4,13 +4,13 @@
 
 Il sanscrit vegn e vegn scrit en ina gronda varietad da scripts. La suandanta survista dat in pitschin extract da quests scripts:
 
-![](/images/schrift001.jpg)  
+![](/images/schrift001.webp)  
 Fig.: Exemplars da script sanscrit  
 \[Sursaint da l’imagines: Wikipedia, licenza GNU FD\]
 
 Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
-![](/images/schrift002.jpg)
+![](/images/schrift002.webp)
 
 mintga signa consonantica designa in «a» che suonda la consonanta. Sche la consonanta pura (senza vocala suandanta) duai vegnir scritta, alura sto quai vegnir markà cun ina barra sutstgira – virāma = विराम – :
 

@@ -107,7 +107,7 @@ status: stable
 **kāma** m. = काम : желание, вожделение, желаемый дар, чувственное наслаждение, любовь; бог любви Кама.
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 Рис.: Бог Кама = kāmadeva = कामदेव, XVIII век.
 (Источник изображения: Wikipedia, Public domain)
 :::

@@ -59,7 +59,7 @@ Cine are prosperitate, acela este în lume un bărbat,
 Cine anume are prosperitate, acela este un învățat.
 
 ::: media
-![](/images/uebung029.jpg)
+![](/images/uebung029.webp)
 Fig.: यस्यार्थास्तस्य मित्राणि
 (Sursa imaginii: [Detalii](/licenses#uebung029))
 :::

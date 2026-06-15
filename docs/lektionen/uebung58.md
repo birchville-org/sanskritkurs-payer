@@ -34,7 +34,7 @@ Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entspreche
 19.  अचेतः - चित् 1P 2.sg.Impf.P du nahmst wahr - अचेतीः
 
 :::: media
-![](/images/uebung095.jpg)
+![](/images/uebung095.webp)
 Abb.: तब्लाः
 (Bildquelle: [Details](/licenses#uebung095))
 :::
@@ -46,7 +46,7 @@ Abb.: तब्लाः
 Bestimmen und übersetzen Sie die folgenden Formen:
 
 ::: media
-![](/images/uebung097.jpg)
+![](/images/uebung097.webp)
 Abb.: मातुलङ्गविक्रेतायं ना ॥  
 Pune - पुणे  
 \[Bildquelle: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Zugriff am 2009-03-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
@@ -91,7 +91,7 @@ Pune - पुणे
 38.  दद - दा 3U 2.pl.Perf.P ihr gabt
 39.  अञ्ज्वः - अञ्ज् 7P 1.du.Ind.Präs.P wir beide salben
 
-![](/images/uebung096.jpg)
+![](/images/uebung096.webp)
 Abb.: श्वा श्वानमघ्रात्
 (Bildquelle: [Details](/licenses#uebung096))
 :::

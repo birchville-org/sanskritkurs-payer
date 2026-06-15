@@ -106,7 +106,7 @@ Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tät
 Ökonomie ist Ackerbau, Viehhaltung und Handel.
 
 ::: media
-![](/images/uebung013.jpg)
+![](/images/uebung013.webp)
 Abb.: रक्षणं सर्वभूतानाम्
 (Bildquelle: [Details](/licenses#uebung013))
 :::

@@ -71,7 +71,7 @@ B) Resolvì suandants Tatpuruṣas:
 २६. श्रुत्युदितम् । श्रुत्योदितम् । श्रुतेरुदितम् — ditg / prescritg dal Veda
 
 ::: media
-![](/images/uebung014.jpg)
+![](/images/uebung014.webp)
 Abb.: जलेश्वरो वरुणः
 (Bildquelle: [Detagls](/licenses#uebung014))
 :::
@@ -143,7 +143,7 @@ Solvì las suventas cumponiments sco Tatpuruṣa en sanscrit e dondì ina traduz
 ३०. सत्यवदनम् । स्त्यस्य वदनम् — vart da la veritad, dir la veritad
 
 ::: media
-![](/images/uebung016.jpg)
+![](/images/uebung016.webp)
 Fig.: गृहकरणम्
 (Sursa da l'imagines: [Detagls](/licenses#uebung016))
 :::

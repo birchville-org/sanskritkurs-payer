@@ -43,7 +43,7 @@ Traduzca y determine las siguientes formas y forme las correspondientes formas d
 :::
 
 ::: media
-![](/images/uebung090.jpg)
+![](/images/uebung090.webp)
 Fig.: वारानास्यां गङ्गायामप्लोढ्वम्
 (Fuente de la imagen: [Detalles](/licenses#uebung090))
 :::
@@ -117,7 +117,7 @@ Determine y traduzca las siguientes formas:
 :::
 
 ::: media
-![](/images/uebung094.jpg)
+![](/images/uebung094.webp)
 Fig.: पाणी धूपं कुरुतः ॥
 (Fuente de la imagen: [Detalles](/licenses#uebung094))
 :::

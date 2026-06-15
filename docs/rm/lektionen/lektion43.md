@@ -141,7 +141,7 @@ Las furmas त्वा, ते, वस् na pon betg vegnir adina en il comenz
 आपण m.: martgà
 
 ::: media
-![](/images/lekt4302.jpg)
+![](/images/lekt4302.webp)
 Abb.: आपणः
 (Fontana d’imagine: [Detagls](/rm/licenses#lekt4302))
 :::
@@ -151,7 +151,7 @@ Abb.: आपणः
 पण्य 3: cumenzaivel; n.: mercanzia, commerzi
 
 ::: media
-![]/images/lekt4303.jpg
+![]/images/lekt4303.webp
 Abb.: पण्यानि
 (Fontana d’imagine: [Detagls](/rm/licenses#lekt4303))
 :::
@@ -174,7 +174,7 @@ Abb.: पण्यानि
 विपणि f.: bottega
 
 ::: media
-![](/images/lekt4304.jpg)
+![](/images/lekt4304.webp)
 Abb.: विपणिः
 (Fontana d’imagine: [Detagls](/rm/licenses#lekt4304))
 :::
@@ -182,7 +182,7 @@ Abb.: विपणिः
 वणिज् m.: commerziant
 
 ::: media
-![](/images/lekt4305.jpg)
+![](/images/lekt4305.webp)
 Abb.: वणिक्
 (Fontana d’imagine: [Detagls](/rm/licenses#lekt4305))
 :::
@@ -194,7 +194,7 @@ Abb.: वणिक्
 वत्स m.: vitell, giuven, uffant; voc.: mes car!
 
 ::: media
-![](/images/lekt4306.jpg)
+![](/images/lekt4306.webp)
 Abb.: वत्सः
 (Fontana d’imagine: [Detagls](/rm/licenses#lekt4306))
 :::
@@ -216,7 +216,7 @@ Abb.: वत्सः
 तुल् 10 तुलयति । तोलयति : pesà
 
 ::: media
-![](/images/lekt4307.jpg)
+![](/images/lekt4307.webp)
 Abb.: तोलन्ति
 (Fontana d’imagine: [Detagls](/rm/licenses#lekt4307))
 :::
@@ -339,7 +339,7 @@ B) Tradusì en sanscrit:
 10\. Tge modas reschai vus (transcendai) avant il inimic?
 
 ::: media
-![](/images/lekt4308.jpg)
+![](/images/lekt4308.webp)
 Abb.: कदा पूराववर्तथाः ।
 (Sursa da l'imagines: [Detagls](/rm/licenses#lekt4308))
 :::
@@ -375,7 +375,7 @@ Abb.: कदा पूराववर्तथाः ।
 | (Suenter: Saral Sanskrit Shikshak III, p. 4f.) | |
 
 ::: media
-![](/images/lekt4309.jpg)
+![](/images/lekt4309.webp)
 Imag.: शर्करा
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt4309))
 :::

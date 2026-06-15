@@ -232,7 +232,7 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 13. The (mentioned) Brahmin woman dances.
 
 ::: media
-![](/images/lekt0601.jpg)
+![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
 (Image source: Wikipedia, CC-BY-SA 2.5)
@@ -312,7 +312,7 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 3. Mīnākṣī is a goddess.
 
 ::: media
-![](/images/lekt0602.jpg)
+![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Mīnākṣī Temple, Madurai, Tamil Nadu
 (Image source: Wikipedia, Public domain)
 :::

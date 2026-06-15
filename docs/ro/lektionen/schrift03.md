@@ -2,7 +2,7 @@
 
 ## Exercițiu de scriere 3
 
-![](/images/schrift005.jpg)
+![](/images/schrift005.webp)
 
 ## Exercițiu
 

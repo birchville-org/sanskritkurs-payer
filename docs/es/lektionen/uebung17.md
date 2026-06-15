@@ -73,7 +73,7 @@ B) Inserte el agente y el verbo en plural en las oraciones formadas en A)
 १०. साधुजनो ऽधर्मं द्विषन्ति । द्विषते । न कुर्वन्ति । न कुर्वते ।
 
 ::: media
-![](/images/uebung025.jpg)
+![](/images/uebung025.webp)
 Fig.: बालब्राह्मणी रोदिति
 (Fuente de la imagen: [Detalles](/licenses#uebung025))
 :::
@@ -176,7 +176,7 @@ Traduzca las siguientes formas verbales e indique la raíz correspondiente:
 
 ४६. **दिश्यन्न्ते** (दिश् 6U): ellos son mostrados
 ::: media
-![](/images/uebung026.jpg)
+![](/images/uebung026.webp)
 Fig.: शृणोति
 (Fuente de la imagen: [Detalles](/licenses#uebung026))
 :::

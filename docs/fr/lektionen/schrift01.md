@@ -4,13 +4,13 @@
 
 Le sanskrit a été et est écrit dans une grande variété de scripts. Le résumé suivant présente un petit échantillon de ces scripts :
 
-![](/images/schrift001.jpg)  
+![](/images/schrift001.webp)  
 Fig. : Échantillons d’écriture en sanskrit  
 \[Source de l’image : Wikipédia, licence GNU FDL\]
 
 Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
-![](/images/schrift002.jpg)
+![](/images/schrift002.webp)
 
 Chaque signe consonantique inclut un « a » qui suit la consonne. Si l’on souhaite écrire la consonne pure (sans voyelle suivante), il faut le marquer par une barre oblique inférieure — virāma = विराम — :
 

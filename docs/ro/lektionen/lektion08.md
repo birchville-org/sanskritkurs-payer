@@ -100,7 +100,7 @@ last_reconstructed: 2026-05-07
 | **dṛś** 4 P[[br]]दृश्[[br]]"a vedea" | **darśana** n.[[br]]दर्शन | "vederea, perspectiva, sistemul filosofic, aparența, în special: Darśan" |
 
 ::: media
-![](/images/lekt0801.jpg)
+![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0801))
 :::

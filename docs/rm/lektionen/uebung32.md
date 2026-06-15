@@ -112,7 +112,7 @@ Brahmans han studiat ed instrui il Veda, han fatg sacrificis als deus sco patrun
 Uffants da Buddha han reconuschì la veritad, han fermà la suferenza ed han cuntanschì la liberaziun. Sco "uffant da Buddha" vegn in monac numnà, che va la via da Buddha.
 
 ::: media
-![](/images/uebung050.jpg)
+![](/images/uebung050.webp)
 Abb.: सम्पन्नरूपा
 (Bildquelle: [Detagls](/licenses#uebung050))
 :::
@@ -214,7 +214,7 @@ Determinai e traduci las suandantas paraulas:
 :::
 
 ::: media
-![](/images/uebung051.jpg)
+![](/images/uebung051.webp)
 Abb.: किमयं रथो बालान् सुखतां वहति
 (Bildquelle: [Detagl](/licenses#uebung051))
 :::
@@ -295,7 +295,7 @@ Inserrir en las suandantas frasis las paraulas en las parentesis e resguardar la
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung052.jpg)
+![](/images/uebung052.webp)
 Abb.: पुनर्दर्शनाय
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung052))
 :::
@@ -310,7 +310,7 @@ Abb.: पुनर्दर्शनाय
 L’altissim Hari è il mio rifugio, colui che inviò i suoi nemici al cielo, fece conoscere ai suoi seguaci il senso del Veda, diede agli dei l’Amṛta da mangiare, insegnò il Veda al creatore e stabilì la terra nelle acque.
 
 ::: media
-![](/images/uebung053.jpg)
+![](/images/uebung053.webp)
 Fig.: श्रीगङ्गाधराय नमः
 (Fonte dell’immagine: [Dettagli](/licenses#uebung053))
 :::
@@ -325,7 +325,7 @@ Fig.: श्रीगङ्गाधराय नमः
 Ina giada è in vegl viagià en in vitg alien ed è daventà stgir sutvia. Per pudair far pausa, è el sa fermà sut in manglier sin la vart da la via. Sin quest arbul pendevan fruits madirs. Al vegl èn vegnids gudes da quels, ma el na ha pudì scalà l'arbul per recullar els. Per sort eran sin l'arbul qualchidant scimmas, che mangiavan fruits. Cun vair quest, è el s'allegrà. Tge ha el fatg? El ha prendì qualchidant stailas, ha visà sin las scimmas e las ha lantschà. Las scimmas èn daventadas arrabiadas, han recullà qualchidant fruits e las ha lantschà sin il vegl. Il vegl ha prendì cuntentamain ils fruits ed è cuntinuà ses viadi. Magnific è l'astuzia dal vegl!
 
 ::: media
-![](/images/uebung054.jpg)
+![](/images/uebung054.webp)
 Abb.: वानरः कुपितः
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung054))
 :::

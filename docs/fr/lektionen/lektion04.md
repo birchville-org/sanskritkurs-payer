@@ -118,6 +118,6 @@ REMARQUE : Les réponses que vous pouvez donner à de telles questions avec vos 
 **B) Formez des questions pour l’exercice de lecture suivant selon le modèle etat kim (एतत्किम्) et répondez aux questions avec les mots indiqués et les pronoms démonstratifs, par exemple eṣa bālaḥ (एष बालः) :**
 
 ::: media
-![](/images/lekt0401.jpg)
+![](/images/lekt0401.webp)
 (Source de l’image : [Détails](/fr/licenses#lekt0401))
 :::

@@ -107,13 +107,13 @@ Gli esseri mentalmente limitati compiono azioni meritorie e si astengono dal mal
 मितमतिर्नरकभयात्स्वर्गलोभाच्च पुण्यं करोति पापं च जहाति । अमितप्रज्ञाबुद्धो हि नरकेभ्यो न बिभीयात्स्वर्गांश्च न लुभ्येत् । स भयं च लोभं चारुणत् । ... बिभियात् ... ॥७॥
 
 :::: media
-![](/images/uebung055.jpg)
+![](/images/uebung055.webp)
 Immagine: मितमतयो नरकभयाद्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung055))
 :::
 
 ::: media
-![](/images/uebung056.jpg)
+![](/images/uebung056.webp)
 Immagine: मितमतयो नरकभयाद्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung056))
 :::

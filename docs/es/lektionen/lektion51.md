@@ -40,7 +40,7 @@ a) Sufijo कृत् \-Ø
 :::
 
 ::: media
-![](/images/lekt5101.jpg)
+![](/images/lekt5101.webp)
 Fig.: भूमिभुज्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5101))
 :::
@@ -68,7 +68,7 @@ b) Sufijo कृत् -t
 ::::
 
 ::: media
-![](/images/lekt5103.jpg)
+![](/images/lekt5103.webp)
 Fig.: पापकृत्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5103))
 :::
@@ -98,7 +98,7 @@ c) Sufijo कृत् -a
 :::
 
 ::: media
-![](/images/lekt5102.jpg)
+![](/images/lekt5102.webp)
 Fig.: द्विपो द्विर्पिबति : हस्तेन च मुखेन च
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5102))
 :::
@@ -266,7 +266,7 @@ Loc. परिव्राट्सु
 ::::
 
 ::: media
-![](/images/lekt5104.jpg)
+![](/images/lekt5104.webp)
 Fig.: परिव्राट्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5104))
 :::
@@ -371,7 +371,7 @@ p. ej. छिद् » चिच्छेद
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[et al.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193s.
 
 ::: media
-![](/images/lekt5105.jpg)
+![](/images/lekt5105.webp)
 Fig.:
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5105))
 :::
@@ -400,7 +400,7 @@ Fig.: ऋतुः
 जटा f.: trenza de cabello (peinado del asceta)
 
 ::: media
-![](/images/lekt5107.jpg)
+![](/images/lekt5107.webp)
 Fig.: जटा
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5107))
 :::
@@ -454,7 +454,7 @@ PPP गर्हित
 पिशित n.: (carne preparada) carne
 
 ::: media
-![](/images/lekt5108.jpg)
+![](/images/lekt5108.webp)
 Fig.: पिशितम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5108))
 :::
@@ -463,7 +463,7 @@ Fig.: पिशितम्
 मधु n.: miel, bebida dulce, hidromiel (vino de miel)
 
 ::: media
-![](/images/lekt5109.jpg)
+![](/images/lekt5109.webp)
 Fig.: मधु
 (Fuente de la imagen: [Detalles](/es/licenses/lekt5109))
 :::
@@ -472,14 +472,14 @@ Fig.: मधु
 मृगया f.: caza
 
 ::: media
-![](/images/lekt5110.jpg)
+![](/images/lekt5110.webp)
 Fig.: मृगया
 (Fuente de la imagen: [Detalles](/es/licenses/lekt5110))
 :::
 शिवा f.: (fem.) chacal (chacal dorado = _Canis aureus_)
 
 ::: media
-![](/images/lekt5111.jpg)
+![](/images/lekt5111.webp)
 Fig.: शिवा
 (Fuente de la imagen: [Detalles](/es/licenses/lekt5111))
 :::
@@ -488,7 +488,7 @@ Fig.: शिवा
 कौशिक m.: búho
 
 ::: media
-![](/images/lekt5112.jpg)
+![](/images/lekt5112.webp)
 Fig.: कौशिकः
 (Fuente de la imagen: [Detalles](/es/licenses/lekt5112))
 :::
@@ -516,7 +516,7 @@ Fig.: श्वा लिङ्गं च
 आपान(क) n.: banquete
 
 ::: media
-![](/images/lekt5114.jpg)
+![](/images/lekt5114.webp)
 Fig.: आपानकम्
 (Fuente de la imagen: [Detalles](/es/licenses/lekt5114))
 :::
@@ -535,14 +535,14 @@ PPP दिग्ध
 विष n.: veneno
 
 ::: media
-![](/images/lekt5115.jpg)
+![](/images/lekt5115.webp)
 Fig.: मूषिकाविषाणि
 (Fuente de la imagen: [Detalles](/es/licenses/lekt5115))
 :::
 भुजंग m.: serpiente
 
 ::: media
-![](/images/lekt5116.jpg)
+![](/images/lekt5116.webp)
 Fig.: भुजंगः
 (Fuente de la imagen: [Detalles](/es/licenses/lekt5116))
 :::
@@ -567,7 +567,7 @@ Fig.: भुजंगः
 मणि m.: joya
 
 ::: media
-![](/images/lekt5118.jpg)
+![](/images/lekt5118.webp)
 Fig.: मणिः
 (Fuente de la imagen: [Detalles](/es/licenses/lekt5118))
 :::
@@ -576,7 +576,7 @@ Fig.: मणिः
 मद m.: también "secreto de la estación de apareamiento" de un elefante (en el [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
-![](/images/lekt5117.jpg)
+![](/images/lekt5117.webp)
 Fig.: मदः
 (Fuente de la imagen: [Detalles](/es/licenses/lekt5117))
 :::

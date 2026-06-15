@@ -125,7 +125,7 @@ D) Formați construcțiile pasive pentru propozițiile formate la C)
 १२. तैः श्रावकैर्बुद्धो धर्मं प्र्च्छ्यते ॥
 
 ::: media
-![](/images/uebung022.jpg)
+![](/images/uebung022.webp)
 Fig.: केनाग्निरिज्यते ।
 (Sursa imaginii: [Detalii](/licenses#uebung022))
 :::
@@ -231,7 +231,7 @@ E) Transformați propozițiile C)1-5 în construcții active.
 ५. ब्राह्मनो ऽनृतं न वदति ॥
 
 ::: media
-![](/images/uebung021.jpg)
+![](/images/uebung021.webp)
 Fig.: फलान्यश्नुते
 (Sursa imaginii: [Detalii](/licenses#uebung021))
 :::

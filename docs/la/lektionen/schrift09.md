@@ -20,9 +20,9 @@ Signa abbreviata (e.g. in citationibus operum) sunt °, e.g. पा° = pā(ṇi
 
 ### Alii vocales in positione initiali
 
-![](/images/schrift018.jpg)
+![](/images/schrift018.webp)
 
-![](/images/schrift019.jpg)
+![](/images/schrift019.webp)
 
 Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
 

@@ -47,7 +47,7 @@ Result: रामो वेदमधीते "Rāma studies the Veda"
 Result: देवा अमृतमश्नन्ति "The gods eat immortality food"
 
 ::: media
-![](/images/lekt2802.jpg)
+![](/images/lekt2802.webp)
 Fig.: स नरान्प्रबन्धविज्ञानमध्यापयति
 ISKCON Temple Bangalore.
 (Image source: [Details](/en/licenses#lekt2801))
@@ -81,7 +81,7 @@ Who placed the earth in the water.
 :::
 
 ::: media
-![](/images/lekt2801.jpg)
+![](/images/lekt2801.webp)
 Fig.: स मे श्रीहरिगतिः
 Jadavpur University Management building.
 (Image source: [Details](/en/licenses#lekt2802))
@@ -382,7 +382,7 @@ Inf. **kāmayitum** / **kamitum**
 :::
 
 ::: media
-![](/images/lekt2804.jpg)
+![](/images/lekt2804.webp)
 Fig.: कृष्णो राधां कामयति
 Painting by राजा रवि वर्मा (1848 - 1906)
 (Image source: [Details](/en/licenses#lekt2804))
@@ -406,7 +406,7 @@ Inf. **coritum**
 :::
 
 ::: media
-![](/images/lekt2803.jpg)
+![](/images/lekt2803.webp)
 Fig.: वीणां वादयति
 Vīṇā player.
 (Image source: [Details](/en/licenses#lekt2803))
@@ -415,7 +415,7 @@ Vīṇā player.
 **भार** m.: burden
 
 ::: media
-![](/images/lekt2805.jpg)
+![](/images/lekt2805.webp)
 Fig.: बाला भारं हरति
 Girl carrying load. Near Ahmedabad.
 (Image source: [Details](/en/licenses#lekt2805))

@@ -59,7 +59,7 @@ Brahmano, hai versato il burro clarificato nel fuoco del sacrificio?
 Nemico, con la spada non spacchi l'anima (la vita).
 
 ::: media
-![](/images/uebung074.jpg)
+![](/images/uebung074.webp)
 Fig.: हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung074))
 :::

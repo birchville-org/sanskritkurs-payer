@@ -103,7 +103,7 @@ B) ਹੇਠ ਲਿਖੇ ਵਾਕੰਸ਼ ਰੂਪਾਂ ਨੂੰ ਸੰਬ
 :::
 
 ::: media
-![](/images/uebung065.jpg)
+![](/images/uebung065.webp)
 ਚਿੱਤਰ: आशिमेति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/licenses#uebung065))
 :::
@@ -154,7 +154,7 @@ B) ਹੇਠ ਲਿਖੇ ਵਾਕੰਸ਼ ਰੂਪਾਂ ਨੂੰ ਸੰਬ
 :::
 
 ::: media
-![](/images/uebung066.jpg)
+![](/images/uebung066.webp)
 ਚਿੱਤਰ: काश्चन वाहिकाः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/licenses#uebung066))
 :::

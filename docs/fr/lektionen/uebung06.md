@@ -599,7 +599,7 @@ sarvathā kuśalam.
 सर्वथा कुशलम् ॥
 
 ::: media
-![](/images/uebung005.jpg)
+![](/images/uebung005.webp)
 Fig. : देवतान्नपूर्णा
 (Source de l'image : [Détails](/fr/licenses#uebung005))
 :::

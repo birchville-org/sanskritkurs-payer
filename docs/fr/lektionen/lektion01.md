@@ -17,7 +17,7 @@ Vénération de Gaṇeśa
 :::
 
 ::: media
-![](/images/lekt0102.jpg)
+![](/images/lekt0102.webp)
 Fig. : Gaṇeśa, Adamspeak, Sri Lanka
 (Source de l'image : [Détails](/fr/licenses#lekt0102))
 :::
@@ -48,7 +48,7 @@ maṅgalacaraṇam
 :::
 
 ::: media
-![](/images/lekt0101.jpg)
+![](/images/lekt0101.webp)
 Fig. : Ardhanarīśvara
 (Source de l'image : [Détails](/fr/licenses#lekt0101))
 :::
@@ -86,7 +86,7 @@ Au début, une curiosité :
 ## 1.1. Littérature pour les débutants en études indiennes
 
 ::: media
-![](/images/lekt0103.jpg)
+![](/images/lekt0103.webp)
 Fig. : Couverture d'une édition de poche
 (Source de l'image : [Détails](/fr/licenses#lekt0103))
 :::
@@ -94,7 +94,7 @@ Fig. : Couverture d'une édition de poche
 > **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Partie : A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- Londres : Sidgwick & Jackson, 1954. -- Depuis, de nombreuses éditions, y compris des éditions de poche. -- **Lecture obligatoire.** Une bonne vue d'ensemble de la vie, de l'histoire et de la culture dans l'Inde pré-islamique. Vue d'ensemble des différents domaines des études classiques sur l'Inde.
 
 ::: media
-![](/images/lekt0104.jpg)
+![](/images/lekt0104.webp)
 Fig. : Page de titre
 (Source de l'image : [Détails](/fr/licenses#lekt0104))
 :::
@@ -104,7 +104,7 @@ Fig. : Page de titre
 > **Kielhorn**, Franz &lt;1840-1908&gt; : Grammatik der Sanskrit-Sprache / Traduit de l'anglais par W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Titre original : A grammar of the Sanscrit language
 
 ::: media
-![](/images/lekt0105.jpg)
+![](/images/lekt0105.webp)
 Fig. : Couverture
 (Source de l'image : [Détails](/fr/licenses#lekt0105))
 :::
@@ -140,7 +140,7 @@ Pour les curieux qui veulent consulter :
 Les sons du sanskrit selon la classification indienne traditionnelle et leur transcription scientifique.
 
 ::: media
-![](/images/lekt0106.jpg)
+![](/images/lekt0106.webp)
 (Source de l'image : [Détails](/fr/licenses#lekt0106))
 :::
 

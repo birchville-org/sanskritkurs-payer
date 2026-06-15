@@ -22,7 +22,7 @@ B) Lege e translitterai:
 
 ### Classificaziun dals sons dal sanscrit (da: Kielhorn: Grammatica da la lingua sanscrita)
 
-![](/images/schrift028.jpg)
+![](/images/schrift028.webp)
 
 ### Fin dals exercizis da scrittira
 

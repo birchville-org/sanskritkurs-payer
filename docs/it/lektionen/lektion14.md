@@ -175,7 +175,7 @@ Ulteriore materiale più avanti.
 * **dīpa m.** (दीप) : lampada
 
 ::: media
-![](/images/lekt1405.jpg)
+![](/images/lekt1405.webp)
 Fig.: दीपाः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1405))
 :::
@@ -263,7 +263,7 @@ Tradurre i seguenti proverbi e impararli a memoria:
 २५. पुत्रवती
 
 ::: media
-![](/images/lekt1404.jpg)
+![](/images/lekt1404.webp)
 Fig.: पुत्रवती
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1404))
 :::
@@ -325,7 +325,7 @@ Fig.: पुत्रवती
 ५३. किम्
 
 ::: media
-![](/images/lekt1403.jpg)
+![](/images/lekt1403.webp)
 Fig.: अयं बालः कस्याः पुत्रः ।
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1403))
 :::
@@ -359,7 +359,7 @@ Fig.: अयं बालः कस्याः पुत्रः ।
 १३. कस्यान्नमनेनर्षिणेष्टम् ।
 
 ::: media
-![](/images/lekt1402.jpg)
+![](/images/lekt1402.webp)
 Fig.: केषामिमानि गृहाणि ।
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1402))
 :::

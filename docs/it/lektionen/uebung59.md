@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-15
 # Esercizio 59
 
 ::: media
-![](/images/uebung098.jpg)
+![](/images/uebung098.webp)
 Fig.: रावणः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung098))
 :::
@@ -213,7 +213,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 > अजिग्लपस् - ग्लै Caus. Aor. 3
 
 :::: media
-![](/images/uebung099.jpg)
+![](/images/uebung099.webp)
 Fig.: रामस्य रावणेन युद्धः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung099))
 :::

@@ -160,7 +160,7 @@ Secundum theoriam classicam (e.g. Manusmṛti I, 88-91) officia distributa sunt:
 Quattuor ordines (**varṇa** m.) saepe cum caste confunduntur. Quattuor ordines tamen -- in differentia a caste -- nihil specificum Indicum sunt, etiam in Europa habuimus (partim usque ad Primum Bellum Mundanum) ordinem status, ut sequens imago saeculi XV confirmat:
 
 ::: media
-![](/images/lekt0201.jpg)
+![](/images/lekt0201.webp)
 Fig.: Representatio divisionis ordinum Europae Medii Aevi (sculptura lignea finis saeculi XV).
 (Fons imaginis: [Detalia](/la/licenses#lekt0201))
 :::
@@ -212,7 +212,7 @@ Fig.: Deus Agni, Miniatura, saec. 18.
 **sādhu** m. -- साधु : «sanctus» vir, Sādhu.
 
 ::: media
-![](/images/lekt0202.jpg)
+![](/images/lekt0202.webp)
 Fig.: Sādhu (साधु), Templum Pashupatinath, Kathmandu.
 (Fons imaginis: [Detalia](/la/licenses#lekt0202))
 :::

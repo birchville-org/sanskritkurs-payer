@@ -59,7 +59,7 @@ Brahmin, have you poured ghee into the sacrificial fire?
 Enemy, with the sword you do not split the soul (life).
 
 ::: media
-![](/images/uebung074.jpg)
+![](/images/uebung074.webp)
 Fig.: हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात
 (Image source: [Details](/licenses#uebung074))
 :::

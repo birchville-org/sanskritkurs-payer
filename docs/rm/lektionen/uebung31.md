@@ -30,7 +30,7 @@ Qui ha perspicazia, vegn liberà dal sufriment; perquai dovra in umn, che vesa l
 In stupid gauda bunas vuschas e bellidads. Qui ha la stupiditad svanida, na disira nagina buna vusch e nagina dunna cun corp perfetg. El impedischa namira ed odi e sa concentra sin la perspicazia.
 
 ::: media
-![](/images/uebung049.jpg)
+![](/images/uebung049.webp)
 Abb.: कुलबन्धनम्
 (Bildquelle: [Detagls](/licenses#uebung049))
 :::

@@ -218,7 +218,7 @@ The native grammarians do not consider the vocative (आमन्त्रित
 :::
 
 ::: media
-![](/images/lekt4402.jpg)
+![](/images/lekt4402.webp)
 Fig.: On the correct use of "O" in German: ***"O man!"***
 (Image source: [Details](/en/licenses#lekt4402))
 :::
@@ -259,7 +259,7 @@ therefrom:
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 Fig.: रेल्यानम्
 (Image source: [Details](/en/licenses#lekt4403))
 :::
@@ -279,7 +279,7 @@ therefrom:
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 Fig.: योगी शयने शेते
 (Image source: [Details](/en/licenses#lekt4404))
 :::
@@ -302,7 +302,7 @@ therefrom:
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 Fig.: नन्दी
 (Image source: [Details](/en/licenses#lekt4405))
 :::
@@ -328,7 +328,7 @@ PPP आयत 3: long stretched out
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 Fig.: आयतो मरुः
 (Image source: [Details](/en/licenses#lekt4406))
 :::
@@ -353,7 +353,7 @@ therefrom:
 :::
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 Fig.: यत्नेन
 (Image source: [Details](/en/licenses#lekt4407))
 :::
@@ -382,7 +382,7 @@ See:
 :::
 
 ::: media
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 Fig.: प्रव्रअज्या / पब्बजा
 (Image source: [Details](/en/licenses#lekt4408))
 :::
@@ -445,7 +445,7 @@ A) Identify and translate the following forms:
 52.  हतः
 
 ::: media
-![](/images/lekt4409.jpg)
+![](/images/lekt4409.webp)
 Fig.: कस्माद्रोदिषि
 (Image source: [Details](/en/licenses#lekt4409))
 :::

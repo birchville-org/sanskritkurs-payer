@@ -17,7 +17,7 @@ Venerazione di Gaṇeśa
 :::
 
 ::: media
-![](/images/lekt0102.jpg)
+![](/images/lekt0102.webp)
 Fig.: Gaṇeśa, Adamspeak, Sri Lanka
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0102))
 :::
@@ -48,7 +48,7 @@ maṅgalacaraṇam
 :::
 
 ::: media
-![](/images/lekt0101.jpg)
+![](/images/lekt0101.webp)
 Fig.: Ardhanarīśvara
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0101))
 :::
@@ -86,7 +86,7 @@ Iniziamo con una curiosità:
 ## 1.1. Letteratura per principianti in Indologia
 
 ::: media
-![](/images/lekt0103.jpg)
+![](/images/lekt0103.webp)
 Fig.: Copertina di un'edizione tascabile
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0103))
 :::
@@ -94,7 +94,7 @@ Fig.: Copertina di un'edizione tascabile
 > **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Parte: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- Londra : Sidgwick & Jackson, 1954. -- Da allora molte edizioni, anche edizioni tascabili. -- **Lettura obbligatoria.** Una buona panoramica sulla vita, la storia e la cultura dell'India pre-islamica. Panoramica completa delle diverse aree della classica Indologia.
 
 ::: media
-![](/images/lekt0104.jpg)
+![](/images/lekt0104.webp)
 Fig.: Frontespizio
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0104))
 :::
@@ -104,7 +104,7 @@ Fig.: Frontespizio
 > **Kielhorn**, Franz &lt;1840-1908&gt;: Grammatik der Sanskrit-Sprache / Tradotto dall'inglese da W. Solf [1862 - 1936]. -- Berlino : Dümmler, 1888. -- XIII, 238 p. -- Titolo originale: A grammar of the Sanscrit language
 
 ::: media
-![](/images/lekt0105.jpg)
+![](/images/lekt0105.webp)
 Fig.: Copertina
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0105))
 :::
@@ -140,7 +140,7 @@ Per i curiosi da consultare:
 I suoni del sanscrito secondo la classificazione indiana tradizionale e la loro traslitterazione scientifica.
 
 ::: media
-![](/images/lekt0106.jpg)
+![](/images/lekt0106.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0106))
 :::
 

@@ -152,7 +152,7 @@ Vogliamo essere guidati da te.
 Che porti alla fortuna! (Augurio di benedizione)
 
 ::: media
-![](/images/uebung075.jpg)
+![](/images/uebung075.webp)
 Fig.: माद्यत
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung075))
 :::

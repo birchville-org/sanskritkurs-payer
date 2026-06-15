@@ -91,7 +91,7 @@ e.g. अन्नमय n. "abundantia cibi"
 :::
 
 ::: media
-![](/images/lekt5202.jpg)
+![](/images/lekt5202.webp)
 Fig.: अन्नमयम्
 विवाहः, Chennai = சென்னை
 (Fons imaginis: [Detalia](/la/licenses#lekt5202))
@@ -111,7 +111,7 @@ exemplum: कौन्तेय m. "filius कुन्ती"
 :::
 
 ::: media
-![](/images/lekt5203.jpg)
+![](/images/lekt5203.webp)
 Fig.: भीमः कौन्तेयः
 Figura Wayang, Iava, Indonesia
 (Fons imaginis: [Detalia](/la/licenses#lekt5203))
@@ -135,7 +135,7 @@ Figura Wayang, Iava, Indonesia
     नित्यशस् "semper"
 :::
 ::: media
-![](/images/lekt5204.jpg)
+![](/images/lekt5204.webp)
 Tab.: अनुक्रमेणैकशः
 Fila ante templum, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Fons imaginis: [Detalia](/la/licenses#lekt5204))
@@ -180,7 +180,7 @@ Desinens nominis ita tractatur:
     Exemplum: तिर्यक्करोति "ponit ad latera (तिर्यच्)"
 :::
 ::: media
-![](/images/lekt5209.jpg)
+![](/images/lekt5209.webp)
 Fig.: भस्मीकृतं वनम्
 Incendium agri, Arunachal Pradesh = अरुणाचल प्रदेश
 (Fons imaginis: [Detalia](/la/licenses#lekt5209))
@@ -394,7 +394,7 @@ Exemplum:
 :::
 
 ::: media
-![](/images/lekt5205.jpg)
+![](/images/lekt5205.webp)
 Tab.: चतुर्मुखः
 (Fons imaginis: [Detalia](/la/licenses#lekt5205))
 :::
@@ -429,7 +429,7 @@ Septem stellae = septem clarissimae stellae Ursae Maioris (Ursa maior)
     pañca + go » pañcagava (ut verbum singulare non licet!) + dhana » पञ्चगवधन m. "cui divitiae quinque boves sunt"
 :::
 ::: media
-![](/images/lekt5207.jpg)
+![](/images/lekt5207.webp)
 Tab.: षण्मातुरः कार्त्तिकेय:
 Jalakandapuram = ஜலகண்டபுரம்
 (Fons imaginis: [Detalia](/la/licenses#lekt5207))
@@ -474,7 +474,7 @@ a:
 :::
 
 ::: media
-![](/images/lekt5210.jpg)
+![](/images/lekt5210.webp)
 Fig.: खिलः
 Tambhol, Akole, Ahmednagar = अहमदनगर
 (Fons imaginis: [Detalia](/la/licenses#lekt5210))
@@ -508,7 +508,7 @@ PPP विपरीत 3: perperam, falsus
 पीड् 10P पीडयति : premere, cruciare; urger, obsidere, fatigare
 
 ::: media
-![](/images/lekt5212.jpg)
+![](/images/lekt5212.webp)
 Fig.: पीडिताः
 Hyderabad = హైదరాబాద్
 (Fons imaginis: [Detalia](/la/licenses#lekt5212))
@@ -526,7 +526,7 @@ unde:
 प्रधान 3: principalis, optimus; n.: maximum momenti
 
 ::: media
-![](/images/lekt5213.jpg)
+![](/images/lekt5213.webp)
 Fig.: प्रधानः
 मुंबई
 (Fons imaginis: [Detalia](/la/licenses#lekt5213))
@@ -637,7 +637,7 @@ PPP च्युत
 चक्र n.: rota
 
 ::: media
-![](/images/lekt5214.jpg)
+![](/images/lekt5214.webp)
 Abb.: चक्रम्
 Konark = कोनार्क
 (Fons imaginis: [Detalia](/la/licenses#lekt5214))
@@ -645,7 +645,7 @@ Konark = कोनार्क
 कदली f.: arbor banani (_Musa_ sp.)
 
 ::: media
-![](/images/lekt5208.jpg)
+![](/images/lekt5208.webp)
 Abb.: कदली
 Hampi = ಹಂಪೆ
 (Fons imaginis: [Detalia](/la/licenses#lekt5208))
@@ -661,7 +661,7 @@ Hampi = ಹಂಪೆ
 मल m.n.: sordes, macula
 
 ::: media
-![](/images/lekt5215.jpg)
+![](/images/lekt5215.webp)
 Abb.: मलम्
 मुंबई
 (Fons imaginis: [Detalia](/la/licenses#lekt5215))
@@ -671,7 +671,7 @@ Abb.: मलम्
 मार m.: malum personificatum, seductio/personificata manipulatio, diabolus
 
 ::: media
-![](/images/lekt5217.jpg)
+![](/images/lekt5217.webp)
 Abb.:
 Amaravati = అమరావతి, saec. II p. Chr.
 (Fons imaginis: [Detalia](/la/licenses#lekt5217))
@@ -738,7 +738,7 @@ Explicationes:
 ४. अश्वघोष (saec. II p. Chr.): बुद्धचरित ४ cognitiō salvātrīx Buddhas
 
 ::: media
-![](/images/lekt5216.jpg)
+![](/images/lekt5216.webp)
 Fig.: अश्वत्थो महाबोधिवृक्षः
 _Ficus religiosa_ L. बोधगया, circ. 1810
 (Fons imaginis: [Detalia](/la/licenses#lekt5216))
@@ -821,7 +821,7 @@ Durante ferias semestres, sequentia exercitia complenda sunt:
      **Winternitz, Moriz &lt;1863 - 1937&gt;: Historia litteraturae Indicae. Stutgardiae : Koehler. -- 3 vol. -- 1908 - 1922 (adhuc longe optimus historia litteraturae Sanscritae, Pali et Prakrit)**
 
 ::: media
-![](/images/lekt5201.jpg)
+![](/images/lekt5201.webp)
 Fig.: श्रीगुम्पिः , मम मन्त्री
 (Imago: Payer)
 (Fons imaginis: [Detalia](/la/licenses#lekt5201))

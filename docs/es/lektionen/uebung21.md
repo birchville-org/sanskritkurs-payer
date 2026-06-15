@@ -47,7 +47,7 @@ Un dos veces nacido es un hombre que ha sido iniciado en el Veda por el maestro.
 Quien ha vencido la ira, no odia a un enemigo, incluso si este lo mata. Quien, sin embargo, es vencido por la ira, odia.
 
 ::: media
-![](/images/uebung033.jpg)
+![](/images/uebung033.webp)
 Fig.: हतान्धकारा दीपाः
 (Fuente de la imagen: [Detalles](/licenses#uebung033))
 :::

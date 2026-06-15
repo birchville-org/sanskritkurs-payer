@@ -65,7 +65,7 @@ B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit:
 अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः शूद्रा अपि ॥
 
 ::: media
-![](/images/uebung031.jpg)
+![](/images/uebung031.webp)
 Abb.: शस्त्राजीवः क्षत्रियः
 (Bildquelle: [Details](/licenses#uebung031))
 :::
@@ -239,7 +239,7 @@ Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatp
 ८१. **सोढदुःखाः** । सोढं दुःखं यैस्ते ।
 
 ::: media
-![](/images/uebung030.jpg)
+![](/images/uebung030.webp)
 Abb.: सम्पन्नरूपा रूपसम्पन्ना
 (Bildquelle: [Details](/licenses#uebung030))
 :::
@@ -295,7 +295,7 @@ In der Mitte schlank, an den Hüften breit, mit roten Lippen, schwarzen Augen, m
 Arme, die sie nicht wünschen, haben sehr viele Söhne, Reiche haben keinen einzigen Sohn. Seltsam ist der Lauf der Schöpfung.
 
 ::: media
-![](/images/uebung032.jpg)
+![](/images/uebung032.webp)
 Abb.: सन्ति पुत्राः सुबहवो दरिद्राणाम्
 (Bildquelle: [Details](/licenses#uebung032))
 :::

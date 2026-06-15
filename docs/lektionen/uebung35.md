@@ -85,7 +85,7 @@ C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta 
 ४. अर्हन्तः कुलबन्धनमभिन्दंल्लोभं च क्रोधं च मोहं चारुन्धन्सत्यमजानन्दुःखान्मुक्ता मोक्षसुखमाप्नुवन् ॥
 
 ::: media
-![](/images/uebung058.jpg)
+![](/images/uebung058.webp)
 Abb.: ब्राह्मणीषु पचन्तीषु ...
 (Bildquelle: [Details](/licenses#uebung058))
 :::

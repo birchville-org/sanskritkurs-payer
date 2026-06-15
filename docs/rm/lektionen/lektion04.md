@@ -118,6 +118,6 @@ NOTA: Las respostas, che Vus pudais dar cun vossas conuschientschas da sanscrit 
 **B) Formai per l'exercizi da lectura dumondas suenter il model etat kim (एतत्किम्) e respondì las dumondas cun las paraulas indicadas e pronomas demonstrativs per exempel eṣa bālaḥ (एष बालः):**
 
 ::: media
-![](/images/lekt0401.jpg)
+![](/images/lekt0401.webp)
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt0401))
 :::

@@ -68,7 +68,7 @@ Les Bouddhas et les Arhants sont libérés de la souffrance. Ils ont atteint la 
 Par l'avidité, la haine et l'obscurité, les gens se perdent. Lorsque le temps est venu, ils tombent alors dans un enfer.
 
 ::: media
-![](/images/uebung040.jpg)
+![](/images/uebung040.webp)
 Fig. : लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति
 (Source de l'image : [Détails](/fr/licenses#uebung040))
 :::
@@ -120,7 +120,7 @@ Si quelqu'un, par orgueil, cupidité, colère ou peur, rend un faux jugement, il
 Les enfers naissent du mal, le mal naît de la pauvreté, la pauvreté naît du non-don.
 
 ::: media
-![](/images/uebung041.jpg)
+![](/images/uebung041.webp)
 Fig. : भवन्ति नरकाः पापात्
 (Source de l'image : [Détails](/fr/licenses#uebung041))
 :::
@@ -137,7 +137,7 @@ Un voleur est libéré de la dette de vol par le châtiment ou par la libératio
 L'économie est utile car elle produit du grain, du bétail, de l'or, des métaux et du travail.
 
 ::: media
-![](/images/uebung042.jpg)
+![](/images/uebung042.webp)
 Fig. : वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी
 (Source de l'image : [Détails](/fr/licenses#uebung042))
 :::

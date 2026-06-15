@@ -43,7 +43,7 @@ Traduceți și determinați următoarele forme și formați formele corespunzăt
 :::
 
 ::: media
-![](/images/uebung090.jpg)
+![](/images/uebung090.webp)
 Fig.: वारानास्यां गङ्गायामप्लोढ्वम्
 (Sursa imaginii: [Detalii](/licenses#uebung090))
 :::
@@ -117,7 +117,7 @@ Determinați și traduceți următoarele forme:
 :::
 
 ::: media
-![](/images/uebung094.jpg)
+![](/images/uebung094.webp)
 Fig.: पाणी धूपं कुरुतः ॥
 (Sursă imagine: [Detalii](/licenses#uebung094))
 :::

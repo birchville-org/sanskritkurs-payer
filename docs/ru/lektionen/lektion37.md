@@ -178,7 +178,7 @@ status: stable
 ::::
 
 ::: media
-![lekt3701.jpg](/images/lekt3701.jpg)
+![lekt3701.jpg](/images/lekt3701.webp)
 Рис.: क्व
 (Источник изображения: [Подробности](/ru/licenses#lekt3701))
 :::
@@ -228,7 +228,7 @@ status: stable
 ::::
 
 ::: media
-![lekt3702.jpg](/images/lekt3702.jpg)
+![lekt3702.jpg](/images/lekt3702.webp)
 Рис.: यथाशक्ति
 (Источник изображения: [Подробности](/ru/licenses#lekt3702))
 :::
@@ -248,7 +248,7 @@ status: stable
 ::::
 
 ::: media
-![lekt3703.jpg](/images/lekt3703.jpg)
+![lekt3703.jpg](/images/lekt3703.webp)
 Рис.: तूष्णीं बभूवुः
 (Источник изображения: [Подробности](/ru/licenses#lekt3703))
 :::
@@ -321,7 +321,7 @@ status: stable
 :::
 
 ::: media
-![lekt3704.jpg](/images/lekt3704.jpg)
+![lekt3704.jpg](/images/lekt3704.webp)
 Рис.: किं बाला अधीयीरन्
 (Источник изображения: [Подробности](/ru/licenses#lekt3704))
 :::
@@ -395,7 +395,7 @@ status: stable
 वृक्ष м.: Дерево
 
 ::: media
-![lekt3706.jpg](/images/lekt3706.jpg)
+![lekt3706.jpg](/images/lekt3706.webp)
 Рис.: वृक्षः
 (Источник изображения: [Подробности](/ru/licenses#lekt3706))
 :::
@@ -433,7 +433,7 @@ A) Ответьте на следующие вопросы на санскрит
 कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥ (देवकी)
 
 ::: media
-![lekt3707.jpg](/images/lekt3707.jpg)
+![lekt3707.jpg](/images/lekt3707.webp)
 Рис.: कृष्णः बलरामश्च
 (Источник изображения: [Подробности](/ru/licenses#lekt3707))
 :::
@@ -441,7 +441,7 @@ A) Ответьте на следующие вопросы на санскрит
 क्व मर्तुं सज्जना इच्छन्ति ॥१३॥ (काशी = वाराणसी)
 
 ::: media
-![lekt3708.jpg](/images/lekt3708.jpg)
+![lekt3708.jpg](/images/lekt3708.webp)
 Рис.: क्व मर्तुं सज्जना इच्छन्ति
 (Источник изображения: [Подробности](/ru/licenses#lekt3708))
 :::
@@ -485,7 +485,7 @@ C) Переведите следующие अव्ययीभाव :
 :::
 
 ::: media
-![lekt3709.jpg](/images/lekt3709.jpg)
+![lekt3709.jpg](/images/lekt3709.webp)
 Рис.: अधिकेरलं वर्तन्ते
 (Источник изображения: [Подробности](/ru/licenses#lekt3709))
 :::
@@ -520,7 +520,7 @@ C) Переведите следующие अव्ययीभाव :
 :::
 
 ::: media
-![lekt3710.jpg](/images/lekt3710.jpg)
+![lekt3710.jpg](/images/lekt3710.webp)
 Рис.: आबालवृद्धं लंदननगरे ववृतिरे
 (Источник изображения: [Подробности](/ru/licenses#lekt3710))
 :::
@@ -532,7 +532,7 @@ C) Переведите следующие अव्ययीभाव :
 :::
 
 ::: media
-![lekt3711.jpg](/images/lekt3711.jpg)
+![lekt3711.jpg](/images/lekt3711.webp)
 Рис.: उपवृक्षं सीदन्ति
 (Источник изображения: [Подробности](/ru/licenses#lekt3711))
 :::

@@ -2,7 +2,7 @@
 
 ## Exercice d’écriture 4
 
-![](/images/schrift006.jpg)
+![](/images/schrift006.webp)
 
 Anusvāra ṃ : point au-dessus de la lettre. qui précède le son : कं कां किं कीं कुं कूं कें कैं कों कौं
 

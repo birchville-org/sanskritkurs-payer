@@ -32,7 +32,7 @@ Exempl:
 ::::
 
 ::: media
-![](/images/lekt5402.jpg)
+![](/images/lekt5402.webp)
 Abb.: अयुयुत्सुरर्जुनः
 भगवद्गीतोपदेशः Tirupati = తిరుపతి
 (Sorg da l’imagines: [Detagls](/rm/licenses#lekt5402))
@@ -281,7 +281,7 @@ Traduziar per iscritg las suandantas furmas e crear las correspundentas furmas d
 23.  गम्यते
 
 ::: media
-![](/images/lekt5401.jpg)
+![](/images/lekt5401.webp)
 Fig.: त्रिचक्रेणेश्वरः स्तूयते
 Tamil Nadu
 (Fonte da l’immaisin: [Detagls](/rm/licenses#lekt5401))

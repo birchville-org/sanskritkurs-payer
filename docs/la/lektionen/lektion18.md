@@ -271,7 +271,7 @@ Exempla:
 sam-kṛ + -a = संस्कार m.: consecratio, apparatus ; Ritus transitionis = appellatio ceremoniarum, quae diversos vitas gradus ab conceptione usque ad mortem comitantur (de quibus vide excellentem summam apud Basham, Mirabilia pp. 160 - 170!)
 
 ::: media
-![](/images/lekt1804.jpg)
+![](/images/lekt1804.webp)
 Fig.: विवाहः
 Sponsalia = विवाह m., momenti plenum संस्कारः
 (Fons imaginis: [Detalia](/la/licenses#lekt1804))
@@ -286,7 +286,7 @@ upa-nī + -ana = उपनयन n.: adductio (ad focem sacrificialem) = caerimo
 Per Upanayanam fit secunda nativitas, ideo: द्विज । द्विजाति
 
 ::: media
-![](/images/lekt1801.jpg)
+![](/images/lekt1801.webp)
 Fig.: उपनयनम्
 "Adolesculus iuvenis in caerimonia upanayana visus est. Filum flavum tenue, a sinistro humero ad medium corpus extendens, est Yagnopaivta. Item notetur cingulum ex herba munja circa medium corpus. Ramusculus in dextra manu (plene ex arboris peepa) significat eius ingressum in Brahmacharya."
 (Fons imaginis: [Detalia](/la/licenses#lekt1801))
@@ -421,7 +421,7 @@ A) Solvite haec composita in Sanscritum et date versiones propositas:
 ९. कुलोपदेश m.
 
 ::: media
-![](/images/lekt1802.jpg)
+![](/images/lekt1802.webp)
 Fig.: मृतिसाधनी काली
 1770 Impressio
 (Fons imaginis: [Detalia](/la/licenses#lekt1802))
@@ -442,7 +442,7 @@ B) Traducite utentes verbis classis secundae praesentis:
 6\. Ita loquitur qui [iter per renavitates] bene abiit ad discipulum.
 
 ::: media
-![](/images/lekt1803.jpg)
+![](/images/lekt1803.webp)
 Fig.: सुगतः
 गन्धार saec. I./II. p. Chr.
 (Fons imaginis: [Detalia](/la/licenses#lekt1803))

@@ -26,7 +26,7 @@ last_reconstructed: 2026-05-15
 > Quai che, sche ti la fatschentas, ti purta la satisfactiun interioira, quai fatschenta ti cun engaschament; quai cuntrari evitescha ti.
 
 ::: media
-![](/images/uebung087.jpg)
+![](/images/uebung087.webp)
 Abb.: सर्वं परवशं दुःखम्
 (Bildquelle: [Detagl](/licenses#uebung087))
 :::
@@ -119,7 +119,7 @@ La cognossientsa salvifica dal Budha:
 > «Quests essers vivents, che han fatg acziuns malvagias, van en ina mauala existenza; questas autras, che han bun karma, naschan puspè en il tschiel d’Indra.»
 
 ::: media
-![](/images/uebung088.jpg)
+![](/images/uebung088.webp)
 Abb.: कदलीगर्भनिःसारः
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung088))
 :::

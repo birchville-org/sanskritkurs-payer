@@ -156,7 +156,7 @@ Root ending in **-a** + **-tya**
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 Fig.: कामदेवः
 19th century
 (Image source: [Details](/en/licenses#lekt2202))
@@ -174,7 +174,7 @@ from this:
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 Fig.: दुर्गाशक्तिः
 Kolkatta = কলকাতা
 (Image source: [Details](/en/licenses#lekt2203))
@@ -204,7 +204,7 @@ from this:
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 Fig.: धेनवश्चरन्ति
 Goa = गोंय
 (Image source: [Details](/en/licenses#lekt2201))
@@ -276,7 +276,7 @@ Goa = गोंय
 **C) Make passive constructions from the above sentences (except sentences 8 and 10)**
 
 ::: media
-![](/images/lekt2204.jpg)
+![](/images/lekt2204.webp)
 Fig.: अन्नं पक्त्वा
 (Image source: [Details](/en/licenses#lekt2204))
 :::

@@ -39,7 +39,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: media
-![](/images/uebung093.jpg)
+![](/images/uebung093.webp)
 சுருக்கம்: अगायि
 (பட மூலம்: [விவரங்கள்](/licenses#uebung093))
 :::

@@ -2,7 +2,7 @@
 
 Vowel signs for the beginning of a word, if the word is not connected in writing with a preceding word:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@ In the typeface used in this script:
 
 Note the spelling of jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 Initial -a, which is elided according to the sentence sandhi rules (-as + a- » -o ' ), is indicated by the so-called Avagraha:
 

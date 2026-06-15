@@ -108,7 +108,7 @@ Como ella quería escuchar sobre el dharma, la brahmāṇī fue a la gran ciudad
 Comer, dormir, temer y tener sexo son comunes a los seres humanos y al ganado. La diferencia distintiva de los seres humanos radica en el dharma. Sin dharma, son iguales al ganado.
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 Fig.: आहारनिद्राभयमैथुनं च
 (Fuente de la imagen: [Detalles](/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) Proporcione las formas básicas (significado, clase de presente, modo, 3. sg.
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 Fig.: बालाः पिबन्ति
 (Fuente de la imagen: [Detalles](/licenses#uebung036))
 :::

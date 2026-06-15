@@ -39,7 +39,7 @@ Formen los correspondientes aoristos de las siguientes formas de presente o perf
 :::
 
 ::: media
-![](/images/uebung093.jpg)
+![](/images/uebung093.webp)
 Fig.: अगायि
 (Fuente de la imagen: [Detalles](/licenses#uebung093))
 :::

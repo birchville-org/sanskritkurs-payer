@@ -81,7 +81,7 @@ Die Götter zürnen diesen Brahmanen, die ihnen keine Verehrung zollten.
 Um zu sterben, werden Lebewesen geboren.
 
 ::: media
-![](/images/uebung037.jpg)
+![](/images/uebung037.webp)
 Abb.: मरणाय जना जायन्ते
 (Bildquelle: [Details](/licenses#uebung037))
 :::
@@ -156,7 +156,7 @@ E) Ersetzen Sie in Satz B) 6 den Dativ durch eine Konstruktion mit **-अर्�
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung038.jpg)
+![](/images/uebung038.webp)
 Abb.: इदं फलं अलं खादनाय
 (Bildquelle: [Details](/licenses#uebung038))
 :::

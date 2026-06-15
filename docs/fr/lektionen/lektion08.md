@@ -102,7 +102,7 @@ Dans la grammaire indienne traditionnelle, on distingue, parmi les suffixes serv
 | **dṛś** 4 P[[br]]दृश्[[br]]"voir" | **darśana** n.[[br]]दर्शन | "la vision, point de vue, système philosophique, apparition, spécialement : Darśan" |
 
 ::: media
-![](/images/lekt0801.jpg)
+![](/images/lekt0801.webp)
 Fig. : Maa Batakali Darshan, Puri, Orissa
 (Source de l'image : [Détails](/fr/licenses#lekt0801))
 :::

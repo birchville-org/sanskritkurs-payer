@@ -34,7 +34,7 @@ Determine and translate the following forms and form the corresponding **iṣ-Ao
 19.  अचेतः - चित् 1P 2.sg.Impf.P you perceived - अचेतीः
 
 :::: media
-![](/images/uebung095.jpg)
+![](/images/uebung095.webp)
 Fig.: तब्लाः
 (Image source: [Details](/en/licenses#uebung095))
 :::
@@ -46,7 +46,7 @@ Fig.: तब्लाः
 Determine and translate the following forms:
 
 ::: media
-![](/images/uebung097.jpg)
+![](/images/uebung097.webp)
 Fig.: मातुलङ्गविक्रेतायं ना ॥  
 Pune - पुणे  
 [Image source: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Accessed on 2009-03-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, no commercial use, no derivatives)\]
@@ -91,7 +91,7 @@ Pune - पुणे
 38.  दद - दा 3U 2.pl.Perf.P you gave
 39.  अञ्ज्वः - अञ्ज् 7P 1.du.Ind.Pres.P we two anoint
 
-![](/images/uebung096.jpg)
+![](/images/uebung096.webp)
 Fig.: श्वा श्वानमघ्रात्
 (Image source: [Details](/en/licenses#uebung096))
 :::

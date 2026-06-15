@@ -36,7 +36,7 @@ aut:
 ::::
 
 ::: media
-![](/images/lekt2404.jpg)
+![](/images/lekt2404.webp)
 Abb.: बाला गुरुश्रवणाय गताः
 (Fons imaginis: [Detalia](/la/licenses#lekt2404))
 :::
@@ -60,7 +60,7 @@ Exemplum:
 ::::
 
 ::: media
-![](/images/lekt2401.jpg)
+![](/images/lekt2401.webp)
 Abb.: यज्ञायान्नम्
 'Annakut' [अन्नकूट = गोवर्धन पूजा] est traditus Hinduicus eventus, qui in celebrationibus Novi Anni Hinduici in omnibus BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs accidit. Centenaria ieiunia vegetariana Bhagwan Swaminarayan [સ્વામિનારાયણ] in hac die offeruntur.
 (Fons imaginis: [Detalia](/la/licenses#lekt2401))
@@ -77,7 +77,7 @@ Exemplum:
 ::::
 
 ::: media
-![](/images/lekt2402.jpg)
+![](/images/lekt2402.webp)
 Abb.: बाला बालाय रक्षबन्धनं ददाति
 Raksha bandhan cum fervore et gaudio per omnem Indiam celebratur. Hoc festivalium fraternam et sororalem amorem sine conditione repraesentat.
 (Fons imaginis: [Detalia](/la/licenses#lekt2402))
@@ -96,7 +96,7 @@ Exempla:
 ::::
 
 ::: media
-![](/images/lekt2403.jpg)
+![](/images/lekt2403.webp)
 Abb.: अलं योधो योधाय
 "Rāma (ad dexteram) in humeris Hanumānis sedens, cum rege daemone Rāvaṇā pugnat." circiter 1820
 (Fons imaginis: [Detalia](/la/licenses#lekt2403))
@@ -208,7 +208,7 @@ Eodem modo quo अलम् cum Instrumentali adhibetur:
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 Fig.: अलंकारः
 (Fons imaginis: [Detalia](/la/licenses#lekt2405))
 :::
@@ -219,7 +219,7 @@ Fig.: अलंकारः
 प्रतिमा f.: imago, effigies
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 Fig.: देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Fons imaginis: [Detalia](/la/licenses#lekt2406))
@@ -259,7 +259,7 @@ eo
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 Fig.: ऊहापोहः
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editorarius Delegatus Foreign, CNN-IBN Network 18, India, moderat panel discussionem apud Conventum Economicum Indiae 2008 Forum Economicum Mundiale in Nova Delhio."
 (Fons imaginis: [Detalia](/la/licenses#lekt2407))
@@ -281,7 +281,7 @@ eo:
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 Fig.: आख्यानम्
 "San Francisco narrator Jeff Byers narrat fabulam cum incolis Chenneri, vico Irula. Narrator Jeeva Raghunath vertit in Tamilam pro incolis."
 (Fons imaginis: [Detalia](/la/licenses/lekt2408))
@@ -314,7 +314,7 @@ eo:
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 Fig.: जयदेवकविर्विष्णुं नमस्करोति
 Codex गीतगोविन्द, anno 1730 post Christum natum.
 (Fons imaginis: [Detalia](/la/licenses#lekt2411))
@@ -402,7 +402,7 @@ Traducite in Sanscritum:
 5\. Veneratio (नमस्) sit Śivae! Vereatio sit Śrī Gaṇeśae!
 
 ::: media
-![](/images/lekt2409.jpg)
+![](/images/lekt2409.webp)
 Fig.: श्रीगणेशाय नमः
 (Fons imagini: [De re](/la/licenses#lekt2409))
 :::
@@ -423,7 +423,7 @@ Explicatio: मुनित्रयम् "Trinitas sapientium = tres sapientes
 :::
 
 ::: media
-![](/images/lekt2410.jpg)
+![](/images/lekt2410.webp)
 Fig.: नरो नरसिंहाय नमस्करोति
 नरसिंह dilacerat हिरण्यकशिपु, folium e manuscripto भागवतपुराण
 (Fons imagini: [De re](/la/licenses#lekt2410))

@@ -235,7 +235,7 @@ status: stable
 - **su** 5 U (sunoti) सु सुनोति : пресовам
 - **soma** m. सोम : пресована напитка, Сома; Луна (От кое растение е пресован Сома, е спорно до днес).
 ::: media
-![](/images/lekt0701.jpg)
+![](/images/lekt0701.webp)
 Ил.: Била ли е тази ведическа растителна Сома?: Мухомор: *Amanita muscaria* (L.) Lam.
 (Източник на изображението: [Подробности](/bg/licenses#lekt0701))
 :::
@@ -258,7 +258,7 @@ status: stable
    ब्राह्मणस् ... यजति (देव, देवी, विष्णु, अग्नि, देवता)
 
 ::: media
-![](/images/lekt0704.jpg)
+![](/images/lekt0704.webp)
 Ил.: Viṣṇu = विष्णु, 8./9. век.
 (Източник на изображението: [Подробности](/bg/licenses#lekt0704))
 :::
@@ -299,7 +299,7 @@ status: stable
    यजति |
 
 ::: media
-![](/images/lekt0702.jpg)
+![](/images/lekt0702.webp)
 Ил.: **yajati** = यजति — Ведически жертвоприношение = **yajña** m. = यज्ञ
 (Източник на изображението: [Подробности](/bg/licenses#lekt0702))
 :::
@@ -321,7 +321,7 @@ status: stable
 8. Welchem Gott opfert dieser Brahmane?
 
 ::: media
-![](/images/lekt0703.jpg)
+![](/images/lekt0703.webp)
 Ил.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
 (Източник на изображението: [Подробности](/bg/licenses#lekt0703))
 :::

@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-15
 # பயிற்சி 59
 
 ::: media
-![](/images/uebung098.jpg)
+![](/images/uebung098.webp)
 வரைபடம்: रावणः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#uebung098))
 :::
@@ -213,7 +213,7 @@ _மொழிபெயர்ப்பு உதவி: வரி 6: दिदृ
 > अजिग्लपस् - ग्लै Kaus. Aor. 3
 
 :::: media
-![](/images/uebung099.jpg)
+![](/images/uebung099.webp)
 ஒளிப்படம்: रामस्य रावणेन युद्धः
 (பட மூலம்: [விவரங்கள்](/licenses#uebung099))
 :::

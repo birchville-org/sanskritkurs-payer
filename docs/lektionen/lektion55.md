@@ -92,7 +92,7 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 32.  सिष्णेह
 
 ::: media
-![](/images/lekt5501.jpg)
+![](/images/lekt5501.webp)
 Abb.: अजीर्यमिति
 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
 (Bildquelle: [Details](/licenses#lekt5501))

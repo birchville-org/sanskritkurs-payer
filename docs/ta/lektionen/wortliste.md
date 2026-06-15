@@ -62,7 +62,7 @@ outline: 2
 நான்கு வகுப்புகள் (**varṇa** ஆண்.) பெரும்பாலும் ஜாதி அமைப்புடன் கலக்கப்படுகின்றன. ஆனால் நான்கு வகுப்புகள் -- ஜாதிகளுக்கு எதிராக -- இந்தியாவைச் சார்ந்தது அல்ல; ஐரோப்பாவிலும் நாம் (பகுதியாக முதல் உலகப் போர் வரை) வகுப்பு அமைப்பைக் கொண்டிருந்தோம், அடுத்த படம் 15-ஆம் நூற்றாண்டை உறுதிப்படுத்துகிறது:
 
 ::: media
-![](/images/lekt0201.jpg)
+![](/images/lekt0201.webp)
 படம்: ஐரோப்பிய மத்திய கால வகுப்புப் பிரிவு (15-ஆம் நூற்றாண்டின் பிற்பகுதி மரக்கோர் வெட்டு).
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt0201))
 :::
@@ -114,7 +114,7 @@ c) அரசியல் அல்லது ஆய்வு அதிகார�
 **சாது** ஆ. -- साधु : "புனித" ஆண், சாது.
 
 ::: ஊடகம்
-![](/images/lekt0202.jpg)
+![](/images/lekt0202.webp)
 அமைப்பு: சாது (साधु), பசுபதிநாதர் கோயில், காத்மாண்டு.
 (பட மூலம்: [விவரங்கள்](/licenses#lekt0202))
 :::
@@ -169,7 +169,7 @@ c) அரசியல் அல்லது ஆய்வு அதிகார�
 **devī** பெ. = देवी : தெய்வீகப் பெண், குறிப்பாக Durgā பெ. = दुर्गा, சிவனின் மனைவி = शिव.
 
 ::: media
-![](/images/lekt0303.jpg)
+![](/images/lekt0303.webp)
 ஒளிப்படம்: Durgā = दुर्गा, ஒரிசா
 (படத்தின் மூலம்: [விவரங்கள்](/images/lekt0303))
 :::
@@ -201,7 +201,7 @@ c) அரசியல் அல்லது ஆய்வு அதிகார�
 **kāma** ஆ. = काम : விருப்பம், ஆசை, விரும்பப்பட்ட பரிசு, காமம், அன்பு; காம தேவன் காமர்.
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 படம்: காம தேவன் = காமதேவ = कामदेव, 18-ஆம் நூற்றாண்டு.
 (படத்தின் மூலம்: விக்கிப்பீடியா, பொது உரிமை)
 :::
@@ -279,7 +279,7 @@ c) அரசியல் அல்லது ஆய்வு அதிகார�
 - **su** 5 U (sunoti) सु सुनोति : அமுக்கி எடுத்தல்
 - **soma** m. सोम : அமுக்கிய பானம், சோமம்; நிலவு (சோமம் எந்தத் தாவரத்திலிருந்து அமுக்கப்பட்டது என்பது இன்றும் விவாதத்திற்குரியது).
 ::: media
-![](/images/lekt0701.jpg)
+![](/images/lekt0701.webp)
 அடிக்குறிப்பு: வேத கால சோமத் தாவரம் இதுவா?: பூஞ்சை: *Amanita muscaria* (L.) Lam.
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt0701))
 :::
@@ -344,7 +344,7 @@ c) அரசியல் அல்லது ஆய்வு அதிகார�
 - **adhyayana** n. (अध्ययन) : கற்றல், குறிப்பாக வேதக் கற்றல்
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 சு: **adhyayana** = अध्ययन, ஸ்ரீ ஸ்கந்தகுரு வித்யாலயம், திருப்பரங்குன்றம், மதுரை அருகில்.
 (படம்: [விவரங்கள்](/licenses#lekt0903))
 :::
@@ -352,7 +352,7 @@ c) அரசியல் அல்லது ஆய்வு அதிகார�
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : கைவினைஞர்
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 சு: **kāru** = कारु, குஜராத்.
 (படம்: [விவரங்கள்](/licenses#lekt0902))
 :::
@@ -413,7 +413,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt1003.jpg)
+![](/images/lekt1003.webp)
 சுருக்கம்: वरुणः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt1003))
 :::
@@ -476,7 +476,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
   - **vadana** ந. वदन : பேசுதல்; பேசும் கருவி: வாய், முகம்
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 சுருக்கம்: **vadanāni** = वदनानि
 (பட மூலம்: [விவரங்கள்](/licenses#lekt1102))
 :::
@@ -496,7 +496,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : எழுவார், அறிவுக்கு எழுவார், அறிதல்; PPP **buddha** 3 எழுந்தவர், எனவே **Buddha** = "எழுந்தவர்" (அல்ல: விழித்தவர்)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 சு: गौतमो बुद्धः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt1201))
 :::
@@ -507,7 +507,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 - **mārga** m. मार्ग : பாதை (பாதைகள் பெரும்பாலும் விலங்குகளின் பாதைகளாக இருந்தன)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 சு: मार्गः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt1202))
 :::
@@ -526,7 +526,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 - **budh**: **bodhi** m./f. बोधि : எழுச்சி (ஒரு புத்தர் அல்லது ஜினா விடுதையான அறிவுக்கு வரும் வழி)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 சு: महावीरो जिनः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt1203))
 :::
@@ -609,7 +609,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 > [மூலம்: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
-![](/images/lekt1301.jpg)
+![](/images/lekt1301.webp)
 சுருக்கம்: महिषासुरः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt1301))
 :::
@@ -630,7 +630,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 - **anna** ந. अन्न : உணவு (PPP-லிருந்து: *ad-na: உண்ணப்பட்டது)
 
 ::: media
-![](/images/lekt1304.jpg)
+![](/images/lekt1304.webp)
 அடைவு: अन्नम्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt1304))
 :::
@@ -646,7 +646,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt1303.jpg)
+![](/images/lekt1303.webp)
 அடைவு: चत्वारः पादाः : गजः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt1303))
 :::
@@ -668,7 +668,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 * **dīpa m.** (दीप) : விளக்கு
 
 ::: media
-![](/images/lekt1405.jpg)
+![](/images/lekt1405.webp)
 அடிப்படை: दीपाः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt1405))
 :::
@@ -709,7 +709,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 
 पूजा பெ.: மதிப்பு, மதிப்புமிக்க வரவேற்பு, மதபூர்வமான வழிபாடு (பூஜை)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 வரைவு: पूजा
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt1504))
 :::
@@ -718,7 +718,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 
 इन्द्र ஆண.: அரசன், முதலாவது, சிறந்தவர் ; தேவராசன் இந்திரன்
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 வரைவு: इन्द्रः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt1505))
 :::
@@ -747,14 +747,14 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 
 सिंह ஆண.: சிங்கம் (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 வரைவு: सिंहः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt1506))
 :::
 
 व्याघ्र ஆண.: புலி (_Panthera tigris tigris_) (சொற்பொருள்: கீழ்க்காற்று விடுபவர்)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 வரைவு: व्याघ्रः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt1507))
 :::
@@ -794,7 +794,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 अध्यापन n.: கற்பித்தல், கல்வி
 
 ::: media
-![](/images/lekt1602.jpg)
+![](/images/lekt1602.webp)
 சுருக்கம்: अध्यापनम्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt1602))
 :::
@@ -830,7 +830,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 योग m.: கட்டுதல், இணைப்பு, ஒருங்கிணைப்பு, பெறுதல் ; யோகம்
 
 ::: media
-![](/images/lekt1601.jpg)
+![](/images/lekt1601.webp)
 சுருக்கம்: योगी
 (பட மூலம்: [விவரங்கள்](/licenses#lekt1601))
 :::
@@ -864,7 +864,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 சு: घाताः
 (படம் மூலம்: [விவரங்கள்](/licenses#lekt1703))
 :::
@@ -879,7 +879,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 சு: योगासनम्
 (படம் மூலம்: [விவரங்கள்](/licenses#lekt1701))
 :::
@@ -898,7 +898,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 दुह् 2 உ दोग्धि பஸ். दुह्यते பிபிபி दुग्ध : பால் கறக்க
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 சு: दोग्धि
 (படம் மூலம்: [விவரங்கள்](/licenses#lekt1702))
 :::
@@ -969,7 +969,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt1809.jpg)
+![](/images/lekt1809.webp)
 சுருக்கம்: कामः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt1809))
 :::
@@ -998,7 +998,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt1901.jpg)
+![](/images/lekt1901.webp)
 சுருக்கம்: गर्भगृहम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt1901))
 :::
@@ -1027,7 +1027,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 **छत्त्र n.:** சூரிய கவசம், கவசம்
 
 ::: media
-![](/images/lekt1904.jpg)
+![](/images/lekt1904.webp)
 சுருக்கம்: छत्त्रम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt1904))
 :::
@@ -1071,7 +1071,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 आश्रम ஆண., பெண.: ஒதுக்கமான இடம், வாழ்க்கை நிலை, வாழ்க்கை காலம் (அதாவது ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ மற்றும் சாத்தியமாக सन्न्यासिन् ; Basham, Wonder பக். 159f. பார்க்கவும்)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 வரைபடம்: आश्रमः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt2008))
 :::
@@ -1182,7 +1182,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt2103.jpg)
+![](/images/lekt2103.webp)
 அடிக்குறிப்பு: भगवान्कृष्णः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt2103))
 :::
@@ -1192,7 +1192,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt2105.jpg)
+![](/images/lekt2105.webp)
 அடிக்குறிப்பு: भगवद्गीता
 (பட மூலம்: [விவரங்கள்](/licenses#lekt2105))
 :::
@@ -1208,7 +1208,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt2104.jpg)
+![](/images/lekt2104.webp)
 அடிக்குறிப்பு: भिक्षवः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt2104))
 :::
@@ -1232,7 +1232,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 வரைவு: कामदेवः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt2202))
 :::
@@ -1249,7 +1249,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 வரைவு: दुर्गाशक्तिः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt2203))
 :::
@@ -1278,7 +1278,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 வரைவு: धेनवश्चरन्ति
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt2201))
 :::
@@ -1312,7 +1312,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 சுருக்கம்: अलंकारः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt2405))
 :::
@@ -1323,7 +1323,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 प्रतिमा பெண்: படம், பிரதி
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 சுருக்கம்: देवीप्रतिमा
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt2406))
 :::
@@ -1362,7 +1362,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 சுருக்கம்: ऊहापोहः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt2407))
 :::
@@ -1383,7 +1383,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 சுருக்கம்: आख्यानम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt2408))
 :::
@@ -1414,7 +1414,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 சுருக்கம்: जयदेवकविर्विष्णुं नमस्करोति
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt2411))
 :::
@@ -1449,7 +1449,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 धान्य n.  வெட்டப்பட்ட அரிசி
 
 ::: media
-![](/images/lekt2501.jpg)
+![](/images/lekt2501.webp)
 Abb.: धान्यम्
 (Bildquelle: [Details](/licenses#lekt2501))
 :::
@@ -1526,7 +1526,7 @@ Abb.: धान्यम्
 मूल n.: வேர்
 
 ::: media
-![](/images/lekt2502.jpg)
+![](/images/lekt2502.webp)
 Abb.: मूलानि
 (Bildquelle: [Details](/licenses#lekt2502))
 :::
@@ -1544,7 +1544,7 @@ Abb.: मूलानि
 > लिप्ति f.: பூசுதல், எழுதுதல், எழுத்து
 > 
 > ::: media
-> ![](/images/lekt2503.jpg)
+> ![](/images/lekt2503.webp)
 > Abb.: लिप्तिः
 > (Bildquelle: [Details](/licenses#lekt2503))
 > :::
@@ -1567,7 +1567,7 @@ Abb.: मूलानि
 > &gt; विवाह m.: வழிநடத்தல், ஒரு பெண்ணின் திருமணம் (Instr., saha) (திருமணத்திற்கு Basham, Wonder பக். 166 -171 பார்க்கவும்)
 
 ::: media
-![](/images/lekt2504.jpg)
+![](/images/lekt2504.webp)
 Abb.: विवाहः
 (Bildquelle: [Details](/licenses#lekt2504))
 :::
@@ -1584,7 +1584,7 @@ Abb.: विवाहः
 विष्टि f.: வேலை, கட்டாய வேலை
 
 ::: media
-![](/images/lekt2505.jpg)
+![](/images/lekt2505.webp)
 Abb.: विष्टिः
 (Bildquelle: [Details](/licenses#lekt2505))
 :::
@@ -1610,7 +1610,7 @@ Abb.: विष्टिः
 हिरण्य ३ : பொன்; பெ. : பொன், பணம், செல்வம்
 
 ::: media
-![](/images/lekt2506.jpg)
+![](/images/lekt2506.webp)
 அடிக்குறிப்பு: हिरण्यम्
 (படம் மூலம்: [விவரங்கள்](/licenses#lekt2506))
 :::
@@ -1653,7 +1653,7 @@ Abb.: विष्टिः
 :::
 
 ::: media
-![](/images/lekt2706.jpg)
+![](/images/lekt2706.webp)
 சுருக்கம்: वस्त्राणि
 (பட மூலம்: [விவரங்கள்](/licenses#lekt2706))
 :::
@@ -1667,7 +1667,7 @@ Abb.: विष्टिः
 :::
 
 ::: media
-![](/images/lekt2707.jpg)
+![](/images/lekt2707.webp)
 சுருக்கம்: वसन्तः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt2707))
 :::
@@ -1691,13 +1691,13 @@ Abb.: विष्टिः
 **हरिहर** m.: விஷ்ணு மற்றும் சிவன் ஒரே கடவுளாக இணைந்தது.
 
 ::: media
-![](/images/lekt2704.jpg)
+![](/images/lekt2704.webp)
 சுருக்கம்: हरिहरः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt2704))
 :::
 
 ::: media
-![](/images/lekt2705.jpg)
+![](/images/lekt2705.webp)
 சுருக்கம்: हरिहरः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt2705))
 :::
@@ -1733,7 +1733,7 @@ PPP **kānta** (!)
 வினைநிலை **kāmayitum** / **kamitum**
 
 ::: media
-![](/images/lekt2804.jpg)
+![](/images/lekt2804.webp)
 படம்: कृष्णो राधां कामयति
 राजा रवि वर्मा (1848 - 1906) வரைந்த ஓவியம்
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt2804))
@@ -1753,7 +1753,7 @@ PPP **corita**
 **vad** — **vādayati**: மேலும்: ஒரு இசைக்கருவியை பேசச் செய்தல் = ஒரு இசைக்கருவியை வாசிக்கவும்
 
 ::: media
-![](/images/lekt2803.jpg)
+![](/images/lekt2803.webp)
 படம்: वीणां वादयति
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt2803))
 :::
@@ -1761,7 +1761,7 @@ PPP **corita**
 **भार** பு.: சுமை
 
 ::: media
-![](/images/lekt2805.jpg)
+![](/images/lekt2805.webp)
 படம்: बाला भारं हरति
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt2805))
 :::
@@ -1807,7 +1807,7 @@ PPP ग्रस्त
 परिव्राजक m.: சுற்றி அலைபவர், துறவி, தீர்த்தயாத்திரை
 
 ::: media
-![](/images/lekt2903.jpg)
+![](/images/lekt2903.webp)
 சு.: परिव्राजकाः
 (படம்: [விவரங்கள்](/licenses#lekt2903))
 :::
@@ -1826,7 +1826,7 @@ PPP ग्रस्त
 :::
 
 ::: media
-![](/images/lekt2901.jpg)
+![](/images/lekt2901.webp)
 சு.: मत्स्यः
 (படம்: [விவரங்கள்](/licenses#lekt2901))
 :::
@@ -1875,7 +1875,7 @@ PPP क्रीत
 :::
 
 ::: media
-![](/images/lekt3001.jpg)
+![](/images/lekt3001.webp)
 விளக்கம்: क्रीणन्ति विक्रीणते च
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3001))
 :::
@@ -1898,7 +1898,7 @@ PPP ज्ञात
 :::
 
 ::: media
-![](/images/lekt3002.jpg)
+![](/images/lekt3002.webp)
 விளக்கம்: ज्ञातयः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3002))
 :::
@@ -1914,7 +1914,7 @@ PPP पूत
 :::
 
 ::: media
-![](/images/lekt3003.jpg)
+![](/images/lekt3003.webp)
 விளக்கம்: श्रोत्राणि पुनाति
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3003))
 :::
@@ -1930,7 +1930,7 @@ PPP अशित
 :::
 
 ::: media
-![](/images/lekt3005.jpg)
+![](/images/lekt3005.webp)
 விளக்கம்: अश्नीयात्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3005))
 :::
@@ -1938,7 +1938,7 @@ PPP अशित
 प्रिय ३: அன்பு, அன்பு, நண்பர்
 
 ::: media
-![](/images/lekt3004.jpg)
+![](/images/lekt3004.webp)
 விளக்கம்: प्रिया
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3004))
 :::
@@ -1968,7 +1968,7 @@ PPP अशित
 :::
 
 ::: media
-![](/images/lekt2904.jpg)
+![](/images/lekt2904.webp)
 விளக்கம்: पुनर्भवः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt2904))
 :::
@@ -2014,7 +2014,7 @@ PPP जीवित : வாழ்
 :::
 
 ::: media
-![](/images/lekt3101.jpg)
+![](/images/lekt3101.webp)
 Abb.: योगः
 (Bildquelle: [Details](/licenses#lekt3101))
 :::
@@ -2062,7 +2062,7 @@ Abb.: योगः
 :::
 
 ::: media
-![](/images/lekt3102.jpg)
+![](/images/lekt3102.webp)
 Abb.: व्यञ्जनम्
 (Bildquelle: [Details](/licenses#lekt3102))
 :::
@@ -2107,7 +2107,7 @@ Abb.: व्यञ्जनम्
 :::
 
 ::: media
-![](/images/lekt3103.jpg)
+![](/images/lekt3103.webp)
 Abb.: प्रज्ञापारमिता
 (Bildquelle: [Details](/licenses#lekt3103))
 :::
@@ -2142,7 +2142,7 @@ Abb.: प्रज्ञापारमिता
 **चूत**
 
 ::: media
-![](/images/lekt3202.jpg)
+![](/images/lekt3202.webp)
 படம்: चूतः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3202))
 :::
@@ -2178,7 +2178,7 @@ Abb.: प्रज्ञापारमिता
 **वानर कपि**
 
 ::: media
-![](/images/lekt3203.jpg)
+![](/images/lekt3203.webp)
 படம்: वानराः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3203))
 :::
@@ -2199,7 +2199,7 @@ Abb.: प्रज्ञापारमिता
 **उपल**
 
 ::: media
-![](/images/lekt3204.jpg)
+![](/images/lekt3204.webp)
 படம்: उपलाः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3204))
 :::
@@ -2207,7 +2207,7 @@ Abb.: प्रज्ञापारमिता
 **लक्ष्य**
 
 ::: media
-![](/images/lekt3205.jpg)
+![](/images/lekt3205.webp)
 படம்: लक्ष्यम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3205))
 :::
@@ -2233,7 +2233,7 @@ Abb.: प्रज्ञापारमिता
 :::
 
 ::: media
-![](/images/lekt3207.jpg)
+![](/images/lekt3207.webp)
 படம்: चितं गोमयं दहति
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3207))
 :::
@@ -2247,7 +2247,7 @@ Abb.: प्रज्ञापारमिता
 **कौशल कुशल**
 
 ::: media
-![](/images/lekt3206.jpg)
+![](/images/lekt3206.webp)
 படம்: कौशलम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3206))
 :::
@@ -2271,7 +2271,7 @@ Abb.: प्रज्ञापारमिता
 :::
 
 ::: media
-![](/images/lekt3306.jpg)
+![](/images/lekt3306.webp)
 வரை: दानम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3306))
 :::
@@ -2283,7 +2283,7 @@ Abb.: प्रज्ञापारमिता
 :::
 
 ::: media
-![](/images/lekt3307.jpg)
+![](/images/lekt3307.webp)
 வரை: सा पुत्रमादाय भारं बिभ्रती गच्छति
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3307))
 :::
@@ -2307,7 +2307,7 @@ Abb.: प्रज्ञापारमिता
 :::
 
 ::: media
-![](/images/lekt3305.jpg)
+![](/images/lekt3305.webp)
 வரை: समाधि
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3305))
 :::
@@ -2344,7 +2344,7 @@ Abb.: प्रज्ञापारमिता
 :::
 
 ::: media
-![](/images/lekt3304.jpg)
+![](/images/lekt3304.webp)
 வரை: भयम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3304))
 :::
@@ -2397,7 +2397,7 @@ Abb.: प्रज्ञापारमिता
 :::
 
 ::: media
-![](/images/lekt3303.jpg)
+![](/images/lekt3303.webp)
 வரை: हीनयानमेव
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3303))
 :::
@@ -2413,7 +2413,7 @@ Abb.: प्रज्ञापारमिता
 :::
 
 ::: media
-![](/images/lekt3302.jpg)
+![](/images/lekt3302.webp)
 வரை: घृतमग्नौ जुहोति
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3302))
 
@@ -2436,7 +2436,7 @@ Abb.: प्रज्ञापारमिता
 **शस्य = सस्य பெ. ஒருமை மற்றும் பன்மை:** விதை, பயிர், அன்னம்
 
 ::: media
-![](/images/lekt3406.jpg)
+![](/images/lekt3406.webp)
 வரைவு: सस्यम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3406))
 :::
@@ -2450,7 +2450,7 @@ Abb.: प्रज्ञापारमिता
 **द्वीप ஆ.பெ.:** தீவு, கண்டம்
 
 ::: media
-![](/images/lekt3405.jpg)
+![](/images/lekt3405.webp)
 வரைவு: लक्षद्वीपाः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3405))
 :::
@@ -2460,13 +2460,13 @@ Abb.: प्रज्ञापारमिता
 **तिल ஆ.:** எள் விதை (*Sesamum indicum* L.)
 
 ::: media
-![](/images/lekt3403.jpg)
+![](/images/lekt3403.webp)
 வரைவு: तिलाः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3403))
 :::
 
 ::: media
-![](/images/lekt3404.jpg)
+![](/images/lekt3404.webp)
 வரைவு: *Sesamum indicum* L.
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3404))
 :::
@@ -2474,7 +2474,7 @@ Abb.: प्रज्ञापारमिता
 **स्वर्ण பெ.:** (அழகான நிறம் =) பொன்
 
 ::: media
-![](/images/lekt3402.jpg)
+![](/images/lekt3402.webp)
 வரைவு: स्वर्णम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3402))
 :::
@@ -2490,7 +2490,7 @@ Abb.: प्रज्ञापारमिता
 **ऋषभ ஆ.:** எருமை
 
 ::: media
-![](/images/lekt3401.jpg)
+![](/images/lekt3401.webp)
 வரைவு: ऋषभः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3401))
 :::
@@ -2529,7 +2529,7 @@ Abb.: प्रज्ञापारमिता
 :::
 
 ::: media
-![](/images/lekt3502.jpg)
+![](/images/lekt3502.webp)
 வரைவு: क्रामन्ति
 (படம் மூலம்: [விவரங்கள்](/licenses#lekt3502))
 :::
@@ -2548,7 +2548,7 @@ Abb.: प्रज्ञापारमिता
 :::
 
 ::: media
-![](/images/lekt3501.jpg)
+![](/images/lekt3501.webp)
 வரைவு: जगुः
 (படம் மூலம்: [விவரங்கள்](/licenses#lekt3501))
 :::
@@ -2582,7 +2582,7 @@ PPP चित
 இன்ஃ. चेतुम्
 :::
 ::: media
-![](/images/lekt3601.jpg)
+![](/images/lekt3601.webp)
 அடிப்படை: गोमयं चिकाय
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3601))
 :::
@@ -2602,7 +2602,7 @@ PPP व्रजित
 अगार ந.। आगार ந.: வீடு, குடும்பம்
 
 ::: media
-![](/images/lekt3602.jpg)
+![](/images/lekt3602.webp)
 அடிப்படை: अगारम्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3602))
 :::
@@ -2614,7 +2614,7 @@ PPP व्रजित
 :::
 
 ::: media
-![](/images/lekt3603.jpg)
+![](/images/lekt3603.webp)
 அடிப்படை: अनगार्यम्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3603))
 :::
@@ -2698,7 +2698,7 @@ PPP स्पृष्ट
 ஒற்றைமை -स्पृश्य
 :::
 ::: media
-![](/images/lekt3606.jpg)
+![](/images/lekt3606.webp)
 அடிப்படை: सुगतो भूमीं पस्पर्श
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3606))
 :::
@@ -2713,7 +2713,7 @@ PPP स्पृष्ट
 PPP हृषित
 :::
 ::: media
-![](/images/lekt3604.jpg)
+![](/images/lekt3604.webp)
 அடிப்படை: लोमहर्षः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3604))
 :::
@@ -2745,7 +2745,7 @@ PPP हृषित
 वृक्ष ஆண்பால்: மரம்
 
 ::: media
-![lekt3706.jpg](/images/lekt3706.jpg)
+![lekt3706.jpg](/images/lekt3706.webp)
 வரைவு: वृक्षः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt3706))
 :::
@@ -2759,7 +2759,7 @@ PPP हृषित
 सूर्य ஆண்பால்: சூரியன், சூரியன் கடவுள்
 
 ::: media
-![](/images/lekt3802.jpg)
+![](/images/lekt3802.webp)
 வரைவு: सूर्यः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3802))
 :::
@@ -2768,7 +2768,7 @@ PPP हृषित
 उदक பெண்பால்: நீர்
 
 ::: media
-![](/images/lekt3805.jpg)
+![](/images/lekt3805.webp)
 வரைவு: उदकम्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3805))
 :::
@@ -2799,7 +2799,7 @@ PPP वान । वात
 :::
 
 ::: media
-![](/images/lekt3804.jpg)
+![](/images/lekt3804.webp)
 வரைவு: गौतमबुद्धस्य महापरिनिर्वाणम्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3804))
 :::
@@ -2843,7 +2843,7 @@ PPP मीढ
 ब्रह्मन् ஆண்பால்: தனிப்பட்ட கற்பனையான படைப்பாளர் கடவுள் பிரம்மா
 
 ::: media
-![](/images/lekt3809.jpg)
+![](/images/lekt3809.webp)
 வரைவு: ब्रह्मा
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3809))
 :::
@@ -2884,13 +2884,13 @@ PPP मीढ
 :::
 
 ::: media
-![](/images/lekt3810.jpg)
+![](/images/lekt3810.webp)
 வரைவு: अशोकवृक्षः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3810))
 :::
 
 ::: media
-![](/images/lekt3811.jpg)
+![](/images/lekt3811.webp)
 வரைவு: अशोकसाम्राज्यम्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt3811))
 :::
@@ -2954,7 +2954,7 @@ PPP तीर्ण
 :::
 
 ::: media
-![lekt4003.jpg](/images/lekt4003.jpg)
+![lekt4003.jpg](/images/lekt4003.webp)
 அடிக்குறிப்பு: हरिद्वारे तीर्थम्
 (படம் மூலம்: [விவரங்கள்](/licenses#lekt4003))
 :::
@@ -2964,7 +2964,7 @@ PPP तीर्ण
 :::
 
 ::: media
-![lekt4002.jpg](/images/lekt4002.jpg)
+![lekt4002.jpg](/images/lekt4002.webp)
 அடிக்குறிப்பு: तीर्थङ्करः
 (படம் மூலம்: [விவரங்கள்](/licenses#lekt4002))
 :::
@@ -2980,7 +2980,7 @@ PPP तीर्ण
 :::
 
 ::: media
-![lekt4001.jpg](/images/lekt4001.jpg)
+![lekt4001.jpg](/images/lekt4001.webp)
 அடிக்குறிப்பு: विष्णोर्दशावताराः
 (படம் மூலம்: [விவரங்கள்](/licenses#lekt4001))
 :::
@@ -3004,7 +3004,7 @@ PPP सुप्त
 :::
 
 ::: media
-![lekt4004.jpg](/images/lekt4004.jpg)
+![lekt4004.jpg](/images/lekt4004.webp)
 அடிக்குறிப்பு: स्वपन्ति
 (படம் மூலம்: [விவரங்கள்](/licenses#lekt4004))
 :::
@@ -3018,7 +3018,7 @@ PPP सुप्त
 भुजङ्ग m.: பாம்பு
 
 ::: media
-![lekt4105.jpg](/images/lekt4105.jpg)
+![lekt4105.jpg](/images/lekt4105.webp)
 வரைவு: भुजङ्गः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4105))
 :::
@@ -3028,7 +3028,7 @@ PPP सुप्त
 विष n.: விஷம்
 
 ::: media
-![lekt4104.jpg](/images/lekt4104.jpg)
+![lekt4104.jpg](/images/lekt4104.webp)
 வரைவு: भुजङ्गस्य विषम्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4104))
 :::
@@ -3051,7 +3051,7 @@ PPP **शिष्ट**: கற்பிக்கப்பட்டது, ஞ�
 :::
 
 ::: media
-![lekt4109.jpg](/images/lekt4109.jpg)
+![lekt4109.jpg](/images/lekt4109.webp)
 வரைவு: शासना
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4109))
 :::
@@ -3063,7 +3063,7 @@ PPP **शिष्ट**: கற்பிக்கப்பட்டது, ஞ�
 :::
 
 ::: media
-![lekt4110.jpg](/images/lekt4110.jpg)
+![lekt4110.jpg](/images/lekt4110.webp)
 வரைவு: शास्त्री
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4110))
 :::
@@ -3169,7 +3169,7 @@ PPP शस्त
 ### 42.2.1. சில உறவுமுறைப் பெயர்ச்சொற்கள்
 
 ::: media
-![lekt4202.jpg](/images/lekt4202.jpg)
+![lekt4202.jpg](/images/lekt4202.webp)
 ஒளிப்படம்: माता, पिता, पुत्रकः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4202))
 ::: 
@@ -3234,7 +3234,7 @@ PPP शस्त
 आपण பால: சந்தை
 
 ::: media
-![](/images/lekt4302.jpg)
+![](/images/lekt4302.webp)
 வரை: आपणः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4302))
 :::
@@ -3244,7 +3244,7 @@ PPP शस्त
 पण्य 3: வாங்கத்தக்க; ப: பொருள், வணிகம்
 
 ::: media
-![]/images/lekt4303.jpg
+![]/images/lekt4303.webp
 வரை: पण्यानि
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4303))
 :::
@@ -3267,7 +3267,7 @@ PPP शस्त
 विपणि ப: கடை
 
 ::: media
-![](/images/lekt4304.jpg)
+![](/images/lekt4304.webp)
 வரை: विपणिः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4304))
 :::
@@ -3275,7 +3275,7 @@ PPP शस्त
 वणिज् பால: வணிகர்
 
 ::: media
-![](/images/lekt4305.jpg)
+![](/images/lekt4305.webp)
 வரை: वणिक्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4305))
 :::
@@ -3287,7 +3287,7 @@ PPP शस्त
 वत्स பால: பசுக்குட்டி, இளம் உயிரி, பிள்ளை ; பணிச்சொல்: என் அன்பே
 
 ::: media
-![](/images/lekt4306.jpg)
+![](/images/lekt4306.webp)
 வரை: वत्सः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4306))
 :::
@@ -3309,7 +3309,7 @@ PPP शस्त
 तुल् 10 तुलयति । तोलयति : எடை போடு
 
 ::: media
-![](/images/lekt4307.jpg)
+![](/images/lekt4307.webp)
 வரை: तोलन्ति
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4307))
 :::
@@ -3384,7 +3384,7 @@ PPP यात
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 படம்: रेल्यानम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4403))
 :::
@@ -3404,7 +3404,7 @@ PPP शयित
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 படம்: योगी शयने शेते
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4404))
 :::
@@ -3427,7 +3427,7 @@ PPP नन्दित
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 படம்: नन्दी
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4405))
 :::
@@ -3453,7 +3453,7 @@ PPP आयत 3: நீண்ட விரிந்த
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 படம்: आयतो मरुः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4406))
 :::
@@ -3478,7 +3478,7 @@ PPP यत्त
 :::
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 படம்: यत्नेन
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4407))
 :::
@@ -3507,7 +3507,7 @@ PPP रब्ध
 :::
 
 ::: ஊடகம்
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 அணி: प्रव्रअज्या / पब्बजा
 (படம் மூலம்: [விவரங்கள்](/licenses#lekt4408))
 :::
@@ -3560,23 +3560,23 @@ Absol. -ग्राह्य
 
 > **பேயர், அலோய்ஸ் &lt;1944 - &gt;:** தர்மசாஸ்திரம் : அறிமுகம் மற்றும் கண்ணோட்டம். -- 10. புனித நீராட்டு விழாக்கள் மற்றும் மாற்றம் விழாக்கள் (samskara). -- அட்டவணை C: ராகு மற்றும் கேது, கண்ணுக்கு புலப்படாத மாற்ற நட்சத்திரங்கள் . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 சுருக்கம்: [सूर्यः, चन्द्रः, मङ्गलः](/licenses#lekt4602)
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 சுருக்கம்: [बुधः, बृहस्पतिः](/licenses#lekt4603)
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 சுருக்கம்: [शुक्रः, शनिः](/licenses#lekt4604)
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 சுருக்கம்: [राहुः, केतुः](/licenses#lekt4605)
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4605))
 :::
@@ -3605,7 +3605,7 @@ Inf. नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 சுருக்கம்: [नारायण तुभ्यं नमामि](/licenses#lekt4607)
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4607))
 :::
@@ -3623,7 +3623,7 @@ Inf. रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 சுருக்கம்: [अश्वरोहकः](/licenses#lekt4606)
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4606))
 :::
@@ -3642,7 +3642,7 @@ Absol. -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 சுருக்கம்: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/licenses#lekt4608)
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4608))
 :::
@@ -3671,7 +3671,7 @@ Absol. श्रमित्वा । श्रान्त्वा
 
 :::
 ::: ஊடகம்
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 அணி: [श्रान्तः](/licenses#lekt4609)
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4609))
 :::
@@ -3702,7 +3702,7 @@ PPP सक्त
 
 :::
 ::: ஊடகம்
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 அணி: [सङ्गः](/licenses#lekt4610)
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4610))
 :::
@@ -3770,7 +3770,7 @@ PPP परिभूत 3: தோற்றம், தாழ்த்தப்ப�
 भोस् அழைப்புச் சொல்: அழைப்பின் அறிவிப்பு, எ.கா.: ஓ, ஹேடா, ஓ, எஈ, வணக்கம், ஹை! பெரும்பாலும் மொழிபெயர்க்க முடியாது. இந்த அழைப்புச் சொல்லுக்கு ஒரு சிறப்பு சந்தி உள்ளது: அனைத்து ஒலிப்பு எழுத்துக்களுக்கு முன், அது ***भो*** ஆகும்.
 
 ::: ஊடகம்
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 அணி: [भोः](/licenses#lekt4611)
 (பட மூலம்: [விவரங்கள்](/licenses#lekt4611))
 :::
@@ -3790,13 +3790,13 @@ PPP परिभूत 3: தோற்றம், தாழ்த்தப்ப�
 तन्त्र n.: நாடு ; நெசவுத்தறி, நெசவுநூல், துணி ; அடித்தளம், அளவுகோல், விதி ; கல்வி, கற்றல்நூல் ; தந்திரம் ; மந்திரம் ; கருவி, வழிமுறை, மருந்து ; ஆட்சி, அதிகாரம்
 
 ::: media
-![](/images/lekt4802.jpg)
+![](/images/lekt4802.webp)
 அடிக்குறிப்பு: तन्त्रम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4802))
 :::
 
 ::: media
-![](/images/lekt4803.jpg)
+![](/images/lekt4803.webp)
 அடிக்குறிப்பு: तन्त्री
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4803))
 :::
@@ -3819,7 +3819,7 @@ PPP परिभूत 3: தோற்றம், தாழ்த்தப்ப�
 :::
 
 ::: media
-![](/images/lekt4804.jpg)
+![](/images/lekt4804.webp)
 அடிக்குறிப்பு: स्वतन्त्राः स्त्रियः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4804))
 :::
@@ -3831,7 +3831,7 @@ PPP परिभूत 3: தோற்றம், தாழ்த்தப்ப�
 कुमार m.: குழந்தை, இளையோன், அரசகுமாரன்; कार्तिकेय / முருகன் / முருகன் / சுபrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ என்ற பெயர்
 
 ::: media
-![](/images/lekt4805.jpg)
+![](/images/lekt4805.webp)
 அடிக்குறிப்பு: कुमारः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4805))
 :::
@@ -3839,7 +3839,7 @@ PPP परिभूत 3: தோற்றம், தாழ்த்தப்ப�
 कुमारी f.: பெண்குழந்தை, மகள்
 
 ::: media
-![](/images/lekt4806.jpg)
+![](/images/lekt4806.webp)
 அடிக்குறிப்பு: कुमारी
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4806))
 :::
@@ -3851,7 +3851,7 @@ PPP परिभूत 3: தோற்றம், தாழ்த்தப்ப�
 स्थविर 3: வயதான, முதிய
 
 ::: media
-![](/images/lekt4807.jpg)
+![](/images/lekt4807.webp)
 அடிக்குறிப்பு: स्थविराः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4807))
 :::
@@ -3863,7 +3863,7 @@ PPP परिभूत 3: தோற்றம், தாழ்த்தப்ப�
 सूक्ष्म 3: நுண்ணிய, மிகச்சிறிய, மெல்லிய
 
 ::: media
-![](/images/lekt4808.jpg)
+![](/images/lekt4808.webp)
 அடிக்குறிப்பு: सूक्ष्मम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4808))
 :::
@@ -3879,7 +3879,7 @@ PPP परिभूत 3: தோற்றம், தாழ்த்தப்ப�
 जाया f.: மனைவி
 
 ::: media
-![](/images/lekt4809.jpg)
+![](/images/lekt4809.webp)
 அடிக்குறிப்பு: मम जाया
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt4809))
 :::
@@ -3942,7 +3942,7 @@ PPP द्रुग्ध । द्रूढ
 कुलूहल n.: ஆர்வம், அக்கறை
 
 ::: media
-![](/images/lekt4901.jpg)
+![](/images/lekt4901.webp)
 சு: कुलूहलम्
 (படம்: [விவரங்கள்](/licenses#lekt4901))
 :::
@@ -3953,7 +3953,7 @@ PPP द्रुग्ध । द्रूढ
 कला f.: கலை
 
 ::: media
-![](/images/lekt4902.jpg)
+![](/images/lekt4902.webp)
 சு: उत्तमा काला
 (படம்: [விவரங்கள்](/licenses#lekt4902))
 :::
@@ -3971,7 +3971,7 @@ PPP द्रुग्ध । द्रूढ
 वेष m.: ஆடை, தோற்றம், வெளிப்புறம்
 
 ::: media
-![](/images/lekt4904.jpg)
+![](/images/lekt4904.webp)
 சு: वेषः
 (படம்: [விவரங்கள்](/licenses/lekt4904))
 :::
@@ -3980,7 +3980,7 @@ PPP द्रुग्ध । द्रूढ
 पञ्जर n.: கூண்டு
 
 ::: media
-![](/images/lekt4909.jpg)
+![](/images/lekt4909.webp)
 சு: पञ्जरम्
 (படம்: [விவரங்கள்](/licenses/lekt4909))
 :::
@@ -4007,7 +4007,7 @@ PPP ध्यात
 आदर m.: கவனிப்பு, மதிப்பு, மரியாதை
 
 ::: media
-![](/images/lekt4905.jpg)
+![](/images/lekt4905.webp)
 சு: सादरः
 (படம்: [விவரங்கள்](/licenses/lekt4905))
 :::
@@ -4018,7 +4018,7 @@ PPP ध्यात
 शिशु m.: குழந்தை, கன்று
 
 ::: media
-![](/images/lekt4906.jpg)
+![](/images/lekt4906.webp)
 சு: गजशिशुः
 (படம்: [விவரங்கள்](/licenses/lekt4906))
 :::
@@ -4121,14 +4121,14 @@ PPP वृष्ट
 कल्याण 3 (பெ.: कल्याणी) :அழகான
 
 ::: media
-![](/images/lekt5003.jpg)
+![](/images/lekt5003.webp)
 சுருக்கம்: कल्याणी
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt5003))
 :::
 कु- : சேர்க்கைகளின் முன்னங்கூறாக: மோசமானது
 
 ::: media
-![](/images/lekt5004.jpg)
+![](/images/lekt5004.webp)
 சுருக்கம்: कुनगरम्
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt5004))
 :::
@@ -4152,7 +4152,7 @@ PPP वृष्ट
 > **வாக்கர் உலகின் பாலூட்டிகள்** / ரொனால்ட் எம். நோவக். -- 6. பதிப்பு. -- பால்டிமோர் \[u.a.\] : ஜான்ஸ் ஹாப்கின்ஸ் பல்கலைக்கழக பதிப்பகம், 1999. -- 2 தொகுதிகள். -- ISBN 0-8018-5789-9. -- தொகுதி 2. -- பக். 1193f.
 
 ::: media
-![](/images/lekt5105.jpg)
+![](/images/lekt5105.webp)
 சுருக்கம்:
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5105))
 :::
@@ -4181,7 +4181,7 @@ PPP वृष्ट
 जटा பெ.: முடிச்சு (தவறியின் முடி அமைப்பு)
 
 ::: media
-![](/images/lekt5107.jpg)
+![](/images/lekt5107.webp)
 சுருக்கம்: जटा
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5107))
 :::
@@ -4235,7 +4235,7 @@ PPP गर्हित
 पिशित ந.: (தயாரிக்கப்பட்ட) இறைச்சி
 
 ::: media
-![](/images/lekt5108.jpg)
+![](/images/lekt5108.webp)
 விளக்கம்: पिशितम्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5108))
 :::
@@ -4244,7 +4244,7 @@ PPP गर्हित
 मधु ந.: தேன், இனிப்புக் கலவை, மது (தேன் மது)
 
 ::: media
-![](/images/lekt5109.jpg)
+![](/images/lekt5109.webp)
 விளக்கம்: मधु
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5109))
 :::
@@ -4253,14 +4253,14 @@ PPP गर्हित
 मृगया பெ.: வேட்டை
 
 ::: media
-![](/images/lekt5110.jpg)
+![](/images/lekt5110.webp)
 விளக்கம்: मृगया
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5110))
 :::
 शिवा பெ.: (பெண்) ஜக்கால் (பொன் ஜக்கால் = _Canis aureus_)
 
 ::: media
-![](/images/lekt5111.jpg)
+![](/images/lekt5111.webp)
 விளக்கம்: शिवा
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5111))
 :::
@@ -4269,7 +4269,7 @@ PPP गर्हित
 कौशिक ஒ.: புலி
 
 ::: media
-![](/images/lekt5112.jpg)
+![](/images/lekt5112.webp)
 விளக்கம்: कौशिकः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5112))
 :::
@@ -4297,7 +4297,7 @@ PPP गर्हित
 आपान(क) ந.: மதுப்பந்தல்
 
 ::: media
-![](/images/lekt5114.jpg)
+![](/images/lekt5114.webp)
 விளக்கம்: आपानकम्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5114))
 :::
@@ -4316,14 +4316,14 @@ PPP दिग्ध
 विष ந.: விஷம்
 
 ::: media
-![](/images/lekt5115.jpg)
+![](/images/lekt5115.webp)
 விளக்கம்: मूषिकाविषाणि
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5115))
 :::
 भुजंग ஒ.: பாம்பு
 
 ::: media
-![](/images/lekt5116.jpg)
+![](/images/lekt5116.webp)
 விளக்கம்: भुजंगः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5116))
 :::
@@ -4348,7 +4348,7 @@ PPP दिग्ध
 मणि ஒ.: மணி
 
 ::: media
-![](/images/lekt5118.jpg)
+![](/images/lekt5118.webp)
 விளக்கம்: मणिः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5118))
 :::
@@ -4357,7 +4357,7 @@ PPP दिग्ध
 मद ஒ.: "கருவத்த நீர்" யானை ஒன்றின் (இங்கு [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
-![](/images/lekt5117.jpg)
+![](/images/lekt5117.webp)
 விளக்கம்: मदः
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5117))
 :::
@@ -4396,7 +4396,7 @@ PPP खात
 :::
 
 ::: media
-![](/images/lekt5210.jpg)
+![](/images/lekt5210.webp)
 சுருக்கம்: खिलः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt5210))
 :::
@@ -4429,7 +4429,7 @@ PPP विपरीत 3: தவறான, தவறான
 पीड् 10P पीडयति : அழுத்து, வேதனைப்படுத்து ; அழுத்தம், வளைவு, தொல்லை
 
 ::: media
-![](/images/lekt5212.jpg)
+![](/images/lekt5212.webp)
 சுருக்கம்: पीडिताः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt5212))
 :::
@@ -4446,7 +4446,7 @@ PPP विपरीत 3: தவறான, தவறான
 प्रधान 3: முக்கியமான, சிறந்த ; n.: முக்கியமானது
 
 ::: media
-![](/images/lekt5213.jpg)
+![](/images/lekt5213.webp)
 சுருக்கம்: प्रधानः
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#lekt5213))
 :::
@@ -4555,14 +4555,14 @@ PPP च्युत
 चक्र பெண.: சக்கரம்
 
 ::: media
-![](/images/lekt5214.jpg)
+![](/images/lekt5214.webp)
 சுருக்கம்: चक्रम्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5214))
 :::
 कदली பெண.: வாழை மரம் (_Musa_ sp.)
 
 ::: media
-![](/images/lekt5208.jpg)
+![](/images/lekt5208.webp)
 சுருக்கம்: कदली
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5208))
 :::
@@ -4577,7 +4577,7 @@ PPP च्युत
 मल ஆண.பெண.: கழிவு, குற்றம்
 
 ::: media
-![](/images/lekt5215.jpg)
+![](/images/lekt5215.webp)
 சுருக்கம்: मलम्
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5215))
 :::
@@ -4586,7 +4586,7 @@ PPP च्युत
 मार ஆண.: மனிதப்படுத்தப்பட்ட கெடுதல், மனிதப்படுத்தப்பட்ட வசப்படுத்தல் / தவறான வழிப்படுத்தல், பிசாசு
 
 ::: media
-![](/images/lekt5217.jpg)
+![](/images/lekt5217.webp)
 சுருக்கம்:
 (பட மூலம்: [விவரங்கள்](/licenses#lekt5217))
 :::

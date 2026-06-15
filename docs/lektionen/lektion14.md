@@ -166,7 +166,7 @@ Weiteres später.
 * **dīpa m.** (दीप) : Lampe
 
 ::: media
-![](/images/lekt1405.jpg)
+![](/images/lekt1405.webp)
 Abb.: दीपाः
 (Bildquelle: [Details](/licenses#lekt1405))
 :::
@@ -254,7 +254,7 @@ Abb.: दीपाः
 २५. पुत्रवती
 
 ::: media
-![](/images/lekt1404.jpg)
+![](/images/lekt1404.webp)
 Abb.: पुत्रवती
 (Bildquelle: [Details](/licenses#lekt1404))
 :::
@@ -316,7 +316,7 @@ Abb.: पुत्रवती
 ५३. किम्
 
 ::: media
-![](/images/lekt1403.jpg)
+![](/images/lekt1403.webp)
 Abb.: अयं बालः कस्याः पुत्रः ।
 (Bildquelle: [Details](/licenses#lekt1403))
 :::
@@ -350,7 +350,7 @@ Abb.: अयं बालः कस्याः पुत्रः ।
 १३. कस्यान्नमनेनर्षिणेष्टम् ।
 
 ::: media
-![](/images/lekt1402.jpg)
+![](/images/lekt1402.webp)
 Abb.: केषामिमानि गृहाणि ।
 (Bildquelle: [Details](/licenses#lekt1402))
 :::

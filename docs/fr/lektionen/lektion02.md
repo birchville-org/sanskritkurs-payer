@@ -160,7 +160,7 @@ Selon la théorie classique (p. ex. Manusmṛti I, 88-91), les tâches sont rép
 Les quatre castes (**varṇa** m.) sont souvent confondues avec les castes rigides. Cependant, les quatre castes sont, contrairement aux castes rigides, quelque chose de non spécifiquement indien ; en Europe également, nous avions (jusqu'à la Première Guerre mondiale) un ordre des ordres, comme l'illustre la figure suivante du XVe siècle :
 
 ::: media
-![](/images/lekt0201.jpg)
+![](/images/lekt0201.webp)
 Fig. : Représentation de la division des ordres de l'Europe médiévale (gravure sur bois de la fin du XVe siècle).
 (Source de l'image : [Détails](/fr/licenses#lekt0201))
 :::
@@ -212,7 +212,7 @@ Fig. : Dieu Agni, miniature, 18e siècle.
 **sādhu** m. -- साधु : homme « saint », Sādhu.
 
 ::: media
-![](/images/lekt0202.jpg)
+![](/images/lekt0202.webp)
 Fig. : Sādhu (साधु), temple Pashupatinath, Katmandou.
 (Source de l'image : [Détails](/fr/licenses#lekt0202))
 :::

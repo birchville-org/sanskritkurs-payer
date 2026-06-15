@@ -2,7 +2,7 @@
 
 शब्दप्रारंभ के लिए स्वर चिह्न, यदि शब्द पूर्ववर्ती शब्द के साथ लिपिबद्ध नहीं है:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 वाक्य संध्यि नियमों के अनुसार लुप्त होने वाले प्रारंभिक -a (-as + a- » -o ' ) को अवग्रह द्वारा दर्शाया जाता है:
 

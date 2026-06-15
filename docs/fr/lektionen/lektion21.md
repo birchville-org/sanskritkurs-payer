@@ -122,7 +122,7 @@ Notez l'identité de forme de **यजन्ति** (Nom. pl. Neutre) avec la 3
 :::
 
 ::: media
-![](/images/lekt2101.jpg)
+![](/images/lekt2101.webp)
 Fig. : Plaque commémorative सती
 Plaque commémorative de सती au palais de Jodhpur - जोधपुर / Rajasthan - राजस्थान
 (Source de l'image : [Détails](/fr/licenses#lekt2101))
@@ -194,7 +194,7 @@ Plaque commémorative de सती au palais de Jodhpur - जोधपुर / R
 ::::
 
 ::: media
-![](/images/lekt2102.jpg)
+![](/images/lekt2102.webp)
 Fig. : महादेवो विष्णुः
 "Sceau en sardonyx du 4e-6e siècle ap. J.-C. représentant Vishnu avec un adorateur. L'inscription en bactrien cursif lit : « Mihira, Vishnu et Shiva ».
 (Source de l'image : [Détails](/fr/licenses#lekt2102))
@@ -276,7 +276,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt2103.jpg)
+![](/images/lekt2103.webp)
 Fig. : भगवान्कृष्णः
 भगवान्कृष्णः en tant que जगन्नाथ (à droite) avec sa demi-sœur सुभद्रा (au centre) et son frère aîné बलराम, Orissa = ଓଡ଼ିଶा
 (Source de l'image : [Détails](/fr/licenses#lekt2103))
@@ -287,7 +287,7 @@ Fig. : भगवान्कृष्णः
 :::
 
 ::: media
-![](/images/lekt2105.jpg)
+![](/images/lekt2105.webp)
 Fig. : भगवद्गीता
 भगवद्गीता - Manuscrit, 19e siècle.
 (Source de l'image : [Détails](/fr/licenses#lekt2105))
@@ -304,7 +304,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt2104.jpg)
+![](/images/lekt2104.webp)
 Fig. : भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Source de l'image : [Détails](/fr/licenses#lekt2104))

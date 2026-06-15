@@ -47,7 +47,7 @@ Ein Zweimalgeborener ist ein Mann, der vom Meister in den Veda initiiert wurde.
 Wer den Zorn besiegt hat, der hasst einen Feind nicht, auch wenn dieser ihn tötet. Wer aber vom Zorn besiegt ist, hasst.
 
 ::: media
-![](/images/uebung033.jpg)
+![](/images/uebung033.webp)
 Abb.: हतान्धकारा दीपाः
 (Bildquelle: [Details](/licenses#uebung033))
 :::

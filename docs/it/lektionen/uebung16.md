@@ -77,7 +77,7 @@ I forti guerrieri sono andati al villaggio dei Brahmani.
 Venera la divinità personale del Vaiśya meritevole.
 
 ::: media
-![](/images/uebung023.jpg)
+![](/images/uebung023.webp)
 Fig.: न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung023))
 :::
@@ -261,7 +261,7 @@ Frase 13: **सर्वेषाम्** Genitivo plurale maschile di सर्
 La frusta produce acquisizione e sicura possessione di filosofia, vedistica ed economia. La guida della frusta è politica.
 
 ::: media
-![](/images/uebung024.jpg)
+![](/images/uebung024.webp)
 Fig.: योगश्चित्तवृत्तिनिरोधः
 (Fonte immagine: [Dettagli](/it/licenses#uebung024))
 :::

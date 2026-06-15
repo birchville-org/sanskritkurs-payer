@@ -97,7 +97,7 @@ Determine y traduzca las siguientes formas:
 :::
 
 ::: media
-![](/images/uebung091.jpg)
+![](/images/uebung091.webp)
 Fig.: जेरिम
 (Fuente de la imagen: [Detalles](/licenses#uebung091))
 

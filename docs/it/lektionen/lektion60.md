@@ -213,11 +213,11 @@ Esempio: विदुषी "una sapiente"
 Paradigmi vedi Kielhorn, Grammatica § 124:
 
 ::: media
-![](/images/lekt6001.jpg)
+![](/images/lekt6001.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6001))
 :::
 ::: media
-![](/images/lekt6002.jpg)
+![](/images/lekt6002.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6002))
 :::
 
@@ -253,11 +253,11 @@ Esempio: प्रतीची
 ####  Paradigmi vedi Kielhorn, Grammatica § 128:
 
 ::: media
-![](/images/lekt6003.jpg)
+![](/images/lekt6003.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6003))
 :::
 ::: media
-![](/images/lekt6004.jpg)
+![](/images/lekt6004.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6004))
 :::
 Appartengono a questa categoria:
@@ -402,7 +402,7 @@ Per le regole sull'uso della vocale di giunzione -i- si veda Kielhorn, Grammatik
 Elenco in Kielhorn, Grammatik § 452:
 
 ::: media
-![](/images/lekt6006.jpg)
+![](/images/lekt6006.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6006))
 :::
 
@@ -448,15 +448,15 @@ Per la formazione di nomi agentivi in -u dallo stema del desiderativo, si veda [
 A) Studiate in Kielhorn, Grammatik § 451 le formazioni irregolari del desiderativo per i verbi appresi finora:
 
 ::: media
-![](/images/lekt6007.jpg)
+![](/images/lekt6007.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6007))
 :::
 ::: media
-![](/images/lekt6008.jpg)
+![](/images/lekt6008.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6008))
 :::
 ::: media
-![](/images/lekt6009.jpg)
+![](/images/lekt6009.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6009))
 :::
 B) Determinate e traducete le seguenti forme senza ausili:

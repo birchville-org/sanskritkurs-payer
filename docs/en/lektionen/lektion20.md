@@ -12,7 +12,7 @@ status: stable
 ## 20.1. Possessive Compounds = बहुव्रीहि m.
 
 ::: media
-![](/images/lekt2004.jpg)
+![](/images/lekt2004.webp)
 Fig.: बहुव्रीहिः पुरुषः
 Jodhpur = जोधपुर
 (Image source: [Details](/en/licenses#lekt2004))
@@ -159,7 +159,7 @@ Traditionally, one distinguishes:
 ::::
 
 ::: media
-![](/images/lekt2005.jpg)
+![](/images/lekt2005.webp)
 Fig.: देवा यीश्वादयः
 Jesus and the other gods, Ahmedabad
 (Image source: [Details](/en/licenses#lekt2005))
@@ -180,7 +180,7 @@ Example:
 :::
 ::::
 ::: media
-![](/images/lekt2001.jpg)
+![](/images/lekt2001.webp)
 Fig.: इन्द्रो वज्रपाणिः
 Siemreap (ក្រុងសៀមរាប), Cambodia, 9th century CE.
 (Image source: [Details](/en/licenses#lekt2001))
@@ -211,7 +211,7 @@ Examples:
 ::::
 
 ::: media
-![](/images/lekt2006.jpg)
+![](/images/lekt2006.webp)
 Fig.: सपुत्रा
 Madhya Pradesh
 (Image source: [Details](/en/licenses#lekt2006))
@@ -250,7 +250,7 @@ The examples are provided here for later study; for some, the necessary grammar 
 13. and others
 
 ::: media
-![](/images/lekt2007.jpg)
+![](/images/lekt2007.webp)
 Fig.: कृतकटा
 Chennai = சென்னை
 (Image source: [Details](/en/licenses#lekt2007))
@@ -280,7 +280,7 @@ That may be true. However, the Indians then view many things as embellishing and
 आश्रम m., n.: hermitage, stage of life, phase of life (namely as ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ and possibly as सन्न्यासिन्; see Basham, Wonder p. 159f.)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 Fig.: आश्रमः
 Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
 (Image source: [Details](/en/licenses#lekt2008))
@@ -513,7 +513,7 @@ Explanation: तपस् n. (declension later): glow, heat, torment; ascetic gl
 :::
 
 ::: media
-![](/images/lekt2010.jpg)
+![](/images/lekt2010.webp)
 Fig.: तपस्
 Buddha as an ascetic before his liberating insight, Gandhara, 2nd/3rd century CE.
 (Image source: [Details](/en/licenses#lekt2010))
@@ -555,7 +555,7 @@ Explanation: -da at the end of a compound: "giving"
 :::
 
 ::: media
-![](/images/lekt2009.jpg)
+![](/images/lekt2009.webp)
 Fig.: लोकानां करदा मही
 Karnataka
 (Image source: [Details](/en/licenses#lekt2009))
@@ -585,7 +585,7 @@ Explanation: all forms except कं and स्त्रीणाम् are nom.
 :::
 
 ::: media
-![](/images/lekt2003.jpg)
+![](/images/lekt2003.webp)
 Fig.: तनुमध्यं पृथुश्रोणि
 Sanchi = सांची
 (Image source: [Details](/en/licenses#lekt2003))

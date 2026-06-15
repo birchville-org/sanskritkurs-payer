@@ -175,7 +175,7 @@ status: stable
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : ਜਾਗਣਾ, ਜਾਗਣਾ ਜਾਣ-ਪਛਾਣ ਲਈ, ਜਾਣ-ਪਛਾਣ ਕਰਨਾ; PPP **buddha** 3 ਜਾਗਿਆ, ਇਸ ਲਈ **Buddha** = "ਜਾਗਿਆ ਹੋਇਆ" (ਨਹੀਂ: ਜਾਗਰੂਕ)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 ਚਿੱਤਰ: गौतमो बुद्धः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1201))
 :::
@@ -186,7 +186,7 @@ status: stable
 - **mārga** m. मार्ग : ਰਾਹ (ਰਾਹ ਅਕਸਰ ਜੰਗਲੀ ਜਾਨਵਰਾਂ ਦੇ ਰਸਤੇ ਹੁੰਦੇ ਸਨ)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 ਚਿੱਤਰ: मार्गः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1202))
 :::
@@ -205,7 +205,7 @@ status: stable
 - **budh**: **bodhi** m./f. बोधि : ਜਾਗਣਾ (ਜਿਸ ਦੁਆਰਾ ਇੱਕ ਬੁੱਧ ਜਾਂ ਜਿਨ ਮੁਕਤੀ ਦੇਣ ਵਾਲੀ ਸਮਝ ਵਿੱਚ ਪਹੁੰਚਦਾ ਹੈ)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 ਚਿੱਤਰ: महावीरो जिनः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1203))
 :::

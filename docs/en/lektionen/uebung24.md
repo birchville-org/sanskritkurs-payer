@@ -81,7 +81,7 @@ The gods are angry with these Brahmins, who rendered them no veneration.
 To die, beings are born.
 
 ::: media
-![](/images/uebung037.jpg)
+![](/images/uebung037.webp)
 Fig.: मरणाय जना जायन्ते
 (Image source: [Details](/en/licenses#uebung037))
 :::
@@ -156,7 +156,7 @@ E) In sentence B) 6, replace the Dative with a construction using **-अर्�
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung038.jpg)
+![](/images/uebung038.webp)
 Fig.: इदं फलं अलं खादनाय
 (Image source: [Details](/en/licenses#uebung038))
 :::

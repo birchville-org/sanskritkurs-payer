@@ -73,7 +73,7 @@ PPP ग्रस्त
 परिव्राजक м.: странник, монах-аскет, паломник
 
 ::: media
-![](/images/lekt2903.jpg)
+![](/images/lekt2903.webp)
 Рис.: परिव्राजकाः
 Пушкар = पुष्कर
 (Источник изображения: [Детали](/ru/licenses#lekt2903))
@@ -93,7 +93,7 @@ PPP ग्रस्त
 :::
 
 ::: media
-![](/images/lekt2901.jpg)
+![](/images/lekt2901.webp)
 Рис.: मत्स्यः
 रोहू मछली = Labeo rohita Hamilton
 (Источник изображения: [Детали](/ru/licenses#lekt2901))

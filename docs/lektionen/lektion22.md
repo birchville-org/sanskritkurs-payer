@@ -158,7 +158,7 @@ Wurzel auf **-a** + **-tya**
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 Abb.: कामदेवः
 19. Jhdt
 (Bildquelle: [Details](/licenses#lekt2202))
@@ -176,7 +176,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 Abb.: दुर्गाशक्तिः
 Kolkatta = কলকাতা
 (Bildquelle: [Details](/licenses#lekt2203))
@@ -206,7 +206,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 Abb.: धेनवश्चरन्ति
 Goa = गोंय
 (Bildquelle: [Details](/licenses#lekt2201))
@@ -279,7 +279,7 @@ Goa = गोंय
 **C) Machen Sie aus obigen Sätzen (außer Sätze 8 und 10) Passivkonstruktionen**
 
 ::: media
-![](/images/lekt2204.jpg)
+![](/images/lekt2204.webp)
 Abb.: अन्नं पक्त्वा
 (Bildquelle: [Details](/licenses#lekt2204))
 :::

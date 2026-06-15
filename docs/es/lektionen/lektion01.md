@@ -17,7 +17,7 @@ Veneración de Gaṇeśa
 :::
 
 ::: media
-![](/images/lekt0102.jpg)
+![](/images/lekt0102.webp)
 Fig.: Gaṇeśa, Adamspeak, Sri Lanka
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0102))
 :::
@@ -48,7 +48,7 @@ maṅgalacaraṇam
 :::
 
 ::: media
-![](/images/lekt0101.jpg)
+![](/images/lekt0101.webp)
 Fig.: Ardhanarīśvara
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0101))
 :::
@@ -86,7 +86,7 @@ Al principio, una curiosidad:
 ## 1.1. Literatura para principiantes en Estudios de la India
 
 ::: media
-![](/images/lekt0103.jpg)
+![](/images/lekt0103.webp)
 Fig.: Portada de una edición de bolsillo
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0103))
 :::
@@ -94,7 +94,7 @@ Fig.: Portada de una edición de bolsillo
 > **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Parte: Un estudio de la cultura del subcontinente indio antes de la llegada de los musulmanes. -- Londres : Sidgwick & Jackson, 1954. -- Desde entonces, muchas ediciones, también ediciones de bolsillo. -- **Lectura obligatoria.** Una buena visión general de la vida, la historia y la cultura en la India preislámica. Visión general de las diversas áreas de los estudios clásicos de la India.
 
 ::: media
-![](/images/lekt0104.jpg)
+![](/images/lekt0104.webp)
 Fig.: Página de título
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0104))
 :::
@@ -104,7 +104,7 @@ Fig.: Página de título
 > **Kielhorn**, Franz &lt;1840-1908&gt;: Grammatik der Sanskrit-Sprache / Traducido del inglés por W. Solf [1862 - 1936]. -- Berlín : Dümmler, 1888. -- XIII, 238 p. -- Título original: A grammar of the Sanscrit language
 
 ::: media
-![](/images/lekt0105.jpg)
+![](/images/lekt0105.webp)
 Fig.: Portada
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0105))
 :::
@@ -140,7 +140,7 @@ Para los curiosos que desean consultar:
 Los fonemas del sánscrito según la clasificación india tradicional y su transcripción científica.
 
 ::: media
-![](/images/lekt0106.jpg)
+![](/images/lekt0106.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0106))
 :::
 

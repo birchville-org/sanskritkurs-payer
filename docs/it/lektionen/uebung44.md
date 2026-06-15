@@ -99,7 +99,7 @@ Non dovete odiare neppure ciò che è odioso, né desiderare avidamente ciò che
 Hai pianto gli indegni di pianto e volevi pronunciare parole di saggezza; ma i saggi non piangono né i morti né i vivi.
 
 ::: media
-![](/images/uebung072.jpg)
+![](/images/uebung072.webp)
 Fig.: मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति
 (Fonte dell’immagine: [Dettagli](/it/licenses#uebung072))
 :::
@@ -156,7 +156,7 @@ Determinare le seguenti forme di parola:
 :::
 
 ::: media
-![](/images/uebung073.jpg)
+![](/images/uebung073.webp)
 Fig.: वदिता
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung073))
 :::

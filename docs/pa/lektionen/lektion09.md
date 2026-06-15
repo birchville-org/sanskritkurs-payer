@@ -100,7 +100,7 @@ last_reconstructed: 2026-05-07
 - **adhyayana** n. (अध्ययन) : ਪੜ੍ਹਨਾ, ਖਾਸ ਕਰਕੇ ਵੇਦਾਂ ਦਾ ਅਧਿਐਨ
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 ਚਿੱਤਰ: **adhyayana** = अध्ययन, ਸ੍ਰੀ ਸਕੰਦਗੁਰੂ ਵਿਦਿਆਲਯਮ, ਤਿਰੁਪਰੰਕੁੰਦਰਮ, ਮਦੁਰਾ ਦੇ ਨੇੜੇ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt0903))
 :::
@@ -108,7 +108,7 @@ last_reconstructed: 2026-05-07
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : ਹੱਥਕਾਰੀ, ਕਾਰੀਗਰ
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 ਚਿੱਤਰ: **kāru** = कारु, ਗੁਜਰਾਤ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt0902))
 :::
@@ -143,7 +143,7 @@ last_reconstructed: 2026-05-07
 7\. **karṣaka** कर्षक
 
 ::: media
-![](/images/lekt0901.jpg)
+![](/images/lekt0901.webp)
 ਚਿੱਤਰ: **karṣaka** = कर्षक.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt0901))
 :::

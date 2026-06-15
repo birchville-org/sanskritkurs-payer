@@ -152,7 +152,7 @@ A te ducti velle.
 Ad felicitatem conferre debeat! (Benedictio)
 
 ::: media
-![](/images/uebung075.jpg)
+![](/images/uebung075.webp)
 Fig.: माद्यत
 (Fons imaginis: [Detalia](/licenses#uebung075))
 :::

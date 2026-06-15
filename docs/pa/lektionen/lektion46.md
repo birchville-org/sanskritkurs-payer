@@ -410,23 +410,23 @@ Absol. -ग्राह्य
 
 > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : ਪ੍ਰਵੇਸ਼ ਅਤੇ ਝਾਤ. -- 10. ਸੰਸਕਾਰ ਅਤੇ ਅੰਤਰਿਕ੍ਰਿਆਵਾਂ (ਸੰਸਕਾਰ). -- ਅਨੁਸੂਚੀ C: ਰਾਹੁ ਅਤੇ ਕੇਤੂ, ਅਦ੍ਰਿਸ਼ਟ ਚਲਦੇ ਤਾਰੇ . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 ਚਿੱਤਰ: [सूर्यः, चन्द्रः, मङ्गलः](/pa/licenses#lekt4602)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 ਚਿੱਤਰ: [बुधः, बृहस्पतिः](/pa/licenses#lekt4603)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 ਚਿੱਤਰ: [शुक्रः, शनिः](/pa/licenses#lekt4604)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 ਚਿੱਤਰ: [राहुः, केतुः](/pa/licenses#lekt4605)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4605))
 :::
@@ -455,7 +455,7 @@ Inf. नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 ਚਿੱਤਰ: [नारायण तुभ्यं नमामि](/pa/licenses#lekt4607)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4607))
 :::
@@ -473,7 +473,7 @@ Inf. रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 ਚਿੱਤਰ: [अश्वरोहकः](/pa/licenses#lekt4606)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4606))
 :::
@@ -492,7 +492,7 @@ Absol. -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 ਚਿੱਤਰ: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/pa/licenses#lekt4608)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4608))
 :::
@@ -521,7 +521,7 @@ Absol. श्रमित्वा । श्रान्त्वा
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 ਚਿੱਤਰ: [श्रान्तः](/pa/licenses#lekt4609)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4609))
 :::
@@ -552,7 +552,7 @@ PPP सक्त
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 ਚਿੱਤਰ: [सङ्गः](/pa/licenses#lekt4610)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4610))
 :::
@@ -620,7 +620,7 @@ PPP परिभूत 3: ਹਰਾਇਆ, ਨਿੰਦਿਤ, ਨਿਮਨ
 भोस् ਸੰਬੋਧਨ ਕਣ: ਸੰਬੋਧਨ ਦਾ ਵਿਸ਼ੇਸ਼ ਅਵਾਜ਼, ਉਦਾਹਰਣ: ਹੇ, ਹੇਡਾ, ਓ, ਏ, ਹੈਲੋ, ਹਾਈ! ਅਕਸਰ ਅਨੁਵਾਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ. ਇਸ ਕਣ ਦਾ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਸੰਧੀ ਹੈ: ਸਾਰੇ ਅਨੁਨਾਸਿਕ ਧ्वਨੀਆਂ ਤੋਂ ਪਹਿਲਾਂ, ਇਹ ***भो*** ਹੈ।
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 ਚਿੱਤਰ: [भोः](/pa/licenses#lekt4611)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4611))
 :::
@@ -696,7 +696,7 @@ B) ਅਨੁਵਾਦ ਕਰੋ:
 नास्ति बुद्धिरयुक्तस्य ॥३॥
 
 ::: media
-![](/images/lekt4612.jpg)
+![](/images/lekt4612.webp)
 ਚਿੱਤਰ: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/pa/licenses#lekt4612)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4612))
 :::

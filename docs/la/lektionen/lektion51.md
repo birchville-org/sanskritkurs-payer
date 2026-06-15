@@ -45,7 +45,7 @@ a) कृत्-Suffix \-Ø
 :::
 
 ::: media
-![](/images/lekt5101.jpg)
+![](/images/lekt5101.webp)
 Tab.: भूमिभुज्
 ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008)
 (Fons imaginis: [Detalia](/la/licenses#lekt5101))
@@ -74,7 +74,7 @@ b) कृत्-Suffix -t
 ::::
 
 ::: media
-![](/images/lekt5103.jpg)
+![](/images/lekt5103.webp)
 Tab.: पापकृत्
 भरतपुर, राजस्थान
 (Fons imaginis: [Detalia](/la/licenses#lekt5103))
@@ -104,7 +104,7 @@ c) कृत्-Suffix -a
 :::
 
 ::: media
-![](/images/lekt5102.jpg)
+![](/images/lekt5102.webp)
 Tab.: द्विपो द्विर्पिबति : हस्तेन च मुखेन च
 नेपाल
 (Fons imaginis: [Detalia](/la/licenses#lekt5102))
@@ -273,7 +273,7 @@ Loc. परिव्राट्सु
 ::::
 
 ::: media
-![](/images/lekt5104.jpg)
+![](/images/lekt5104.webp)
 Fig.: परिव्राट्
 पुष्कर
 (Fons imaginis: [Detalia](/la/licenses#lekt5104))
@@ -379,7 +379,7 @@ e.g. छिद् » चिच्छेद
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
 
 ::: media
-![](/images/lekt5105.jpg)
+![](/images/lekt5105.webp)
 Fig.:
 (Fons imaginis: [Detalia](/la/licenses#lekt5105))
 :::
@@ -408,7 +408,7 @@ Fig.: ऋतुः
 जटा f.: nodus crinium (coaptatio crinium ascetae)
 
 ::: media
-![](/images/lekt5107.jpg)
+![](/images/lekt5107.webp)
 Fig.: जटा
 ऋषिकेश
 (Fons imaginis: [Detalia](/la/licenses#lekt5107))
@@ -463,7 +463,7 @@ PPP गर्हित
 पिशित n.: (paratum) caro
 
 ::: media
-![](/images/lekt5108.jpg)
+![](/images/lekt5108.webp)
 Fig.: पिशितम्
 Calcutta = কলকাতা
 (Fons imaginis: [Detalia](/la/licenses#lekt5108))
@@ -473,7 +473,7 @@ Calcutta = কলকাতা
 मधु n.: mel, potio dulcis, hydromel (vinum mel)
 
 ::: media
-![](/images/lekt5109.jpg)
+![](/images/lekt5109.webp)
 Fig.: मधु
 Palatium Civitatis, उदयपुर
 (Fons imaginis: [Detalia](/la/licenses#lekt5109))
@@ -483,7 +483,7 @@ Palatium Civitatis, उदयपुर
 मृगया f.: venatio
 
 ::: media
-![](/images/lekt5110.jpg)
+![](/images/lekt5110.webp)
 Fig.: मृगया
 Venatio cum चीता (_Acinonyx jubatus venaticus_) Guzerat = ગુજરાત, 1812
 (Fons imaginis: [Detalia](/la/licenses#lekt5110))
@@ -491,7 +491,7 @@ Venatio cum चीता (_Acinonyx jubatus venaticus_) Guzerat = ગુજર�
 शिवा f.: (femina) Iaculus (Iaculus aureus = _Canis aureus_)
 
 ::: media
-![](/images/lekt5111.jpg)
+![](/images/lekt5111.webp)
 Fig.: शिवा
 _Canis aureus_, Sanctuarium Kalatop Khajjiar
 (Fons imaginis: [Detalia](/la/licenses/lekt5111))
@@ -501,7 +501,7 @@ _Canis aureus_, Sanctuarium Kalatop Khajjiar
 कौशिक m.: strigiformis
 
 ::: media
-![](/images/lekt5112.jpg)
+![](/images/lekt5112.webp)
 Fig.: कौशिकः
 Strix Brahma (_Athene brama_), Mahesana = મહેસાણા
 (Fons imaginis: [Detalia](/la/licenses/lekt5112))
@@ -531,7 +531,7 @@ Karnataka = ಕರ್ನಾಟಕ
 आपान(क) n.: convivium
 
 ::: media
-![](/images/lekt5114.jpg)
+![](/images/lekt5114.webp)
 Fig.: आपानकम्
 जोधपुर
 (Fons imaginis: [Detalia](/la/licenses/lekt5114))
@@ -551,7 +551,7 @@ PPP दिग्ध
 विष n.: venenum
 
 ::: media
-![](/images/lekt5115.jpg)
+![](/images/lekt5115.webp)
 Fig.: मूषिकाविषाणि
 Bangalore = ಬೆಂಗಳೂರು
 (Fons imaginis: [Detalia](/la/licenses/lekt5115))
@@ -559,7 +559,7 @@ Bangalore = ಬೆಂಗಳೂರು
 भुजंग m.: serpens
 
 ::: media
-![](/images/lekt5116.jpg)
+![](/images/lekt5116.webp)
 Fig.: भुजंगः
 Vipera catenata (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Fons imaginis: [Detalia](/la/licenses/lekt5116))
@@ -585,7 +585,7 @@ Vipera catenata (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 मणि m.: gemma
 
 ::: media
-![](/images/lekt5118.jpg)
+![](/images/lekt5118.webp)
 Fig.: मणिः
 Sapir Hope ex Guntur = ಗುಂತೂರು, hodie Museum Smithsonian Historiae Naturalis, Washington DC
 (Fons imaginis: [Detalia](/la/licenses/lekt5118))
@@ -595,7 +595,7 @@ Sapir Hope ex Guntur = ಗುಂತೂರು, hodie Museum Smithsonian Historiae
 मद m.: etiam "suffusio" elephantis (in [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
-![](/images/lekt5117.jpg)
+![](/images/lekt5117.webp)
 Fig.: मदः
 (Fons imaginis: [Detalia](/la/licenses/lekt5117))
 :::

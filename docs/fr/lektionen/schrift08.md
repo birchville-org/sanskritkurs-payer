@@ -2,7 +2,7 @@
 
 Signes vocaliques pour le début d’un mot, lorsque le mot n’est pas lié à un mot précédent dans l’écriture :
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@ Dans la police utilisée dans ce script :
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 Le -a initial, qui, conformément aux règles de sandhi de phrase, est élidé (-as + a- » -o ' ), est désigné par ce qu'on appelle l'Avagraha :
 

@@ -43,7 +43,7 @@ Traduisez et déterminez les formes suivantes, puis formez les formes correspond
 :::
 
 ::: media
-![](/images/uebung090.jpg)
+![](/images/uebung090.webp)
 Fig. : वारानास्यां गङ्गायामप्लोढ्वम्
 (Source de l’image : [Détails](/fr/licenses#uebung090))
 :::
@@ -117,7 +117,7 @@ Déterminez et traduisez les formes suivantes :
 :::
 
 ::: media
-![](/images/uebung094.jpg)
+![](/images/uebung094.webp)
 Fig. : पाणी धूपं कुरुतः ॥
 (Source de l'image : [Détails](/fr/licenses#uebung094))
 :::

@@ -22,7 +22,7 @@ B) Read and transliterate:
 
 ### Classification of Sanskrit Sounds (from: Kielhorn: Grammar of the Sanskrit Language)
 
-![](/images/schrift028.jpg)
+![](/images/schrift028.webp)
 
 ### End of Writing Exercises
 

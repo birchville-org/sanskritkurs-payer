@@ -32,7 +32,7 @@ Un homme sans éducation est un bétail.
 La brièveté est l'ornement du grammairien.
 
 ::: media
-![](/images/uebung083.jpg)
+![](/images/uebung083.webp)
 Fig. : विद्याविहीनः पशुः
 (Source de l'image : [Détails](/fr/licenses#uebung083))
 :::
@@ -56,7 +56,7 @@ Les jeunes filles doivent donner de la nourriture aux mendiants.
 Nous voulons parler.
 
 ::: media
-![](/images/uebung085.jpg)
+![](/images/uebung085.webp)
 Légende : वचाम
 (Source de l'image : [Détails](/fr/licenses#uebung085))
 :::
@@ -110,7 +110,7 @@ Ils doivent s’asseoir dans ma maison.
 Les maris doivent entretenir leurs épouses.
 
 ::: media
-![](/images/uebung076.jpg)
+![](/images/uebung076.webp)
 Légende : तानि फलान्यदाम
 (Source de l'image : [Détails](/fr/licenses#uebung076))
 :::
@@ -150,13 +150,13 @@ Celui qui protège soigneusement sa femme protège véritablement sa descendance
 L'époux entre dans son épouse, devient un embryon, puis naît ici ; réside là le "fait d'être épouse" (**जायात्वम्**) de l'épouse, à savoir que l'époux renaît en elle.
 
 ::: media
-![](/images/uebung084.jpg)
+![](/images/uebung084.webp)
 Fig. : अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।
 (Source de l'image : [Détails](/fr/licenses#uebung084))
 :::
 
 ::: media
-![](/images/uebung077.jpg)
+![](/images/uebung077.webp)
 Fig. : पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते
 (Source de l'image : [Détails](/fr/licenses#uebung077))
 :::

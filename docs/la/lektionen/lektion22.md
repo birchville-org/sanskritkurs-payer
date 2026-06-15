@@ -156,7 +156,7 @@ Radix in **-a** + **-tya**
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 Fig.: कामदेवः
 Saec. XIX
 (Fons imaginis: [Detalia](/la/licenses#lekt2202))
@@ -174,7 +174,7 @@ ex quo:
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 Fig.: दुर्गाशक्तिः
 Colcatta = কলকাতা
 (Fons imaginis: [Detalia](/la/licenses#lekt2203))
@@ -204,7 +204,7 @@ ex quo:
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 Fig.: धेनवश्चरन्ति
 Goa = गोंय
 (Fons imaginis: [Detalia](/la/licenses#lekt2201))
@@ -276,7 +276,7 @@ Goa = गोंय
 **C) Ex sententiis superioribus (exceptis sententiis 8 et 10) constructiones passivas facite**
 
 ::: media
-![](/images/lekt2204.jpg)
+![](/images/lekt2204.webp)
 Tabula: अन्नं पक्त्वा
 (Fons imaginis: [Detalia](/la/licenses#lekt2204))
 :::

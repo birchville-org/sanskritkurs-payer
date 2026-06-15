@@ -141,7 +141,7 @@ status: stable
 ⟪आपण⟫ पुं.: बाज़ार
 
 ::: media
-![](/images/lekt4302.jpg)
+![](/images/lekt4302.webp)
 अभिव.: ⟪आपणः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4302))
 :::
@@ -151,7 +151,7 @@ status: stable
 ⟪पण्य⟫ 3: क्रय योग्य; नपुं.: वस्तु, व्यापार
 
 ::: media
-![]/images/lekt4303.jpg
+![]/images/lekt4303.webp
 अभिव.: ⟪पण्यानि⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4303))
 :::
@@ -174,7 +174,7 @@ status: stable
 ⟪विपणि⟫ स्त्री.: दुकान
 
 ::: media
-![](/images/lekt4304.jpg)
+![](/images/lekt4304.webp)
 अभिव.: ⟪विपणिः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4304))
 :::
@@ -182,7 +182,7 @@ status: stable
 ⟪वणिज्⟫ पुं.: व्यापारी
 
 ::: media
-![](/images/lekt4305.jpg)
+![](/images/lekt4305.webp)
 अभिव.: ⟪वणिक्⟫
 (छवि स्रोत: [विवरण](/hi/licenses/lekt4305))
 :::
@@ -194,7 +194,7 @@ status: stable
 ⟪वत्स⟫ पुं.: बछड़ा, वंशज, बालक; सम्बोधन: हे प्रियतम!
 
 ::: media
-![](/images/lekt4306.jpg)
+![](/images/lekt4306.webp)
 अभिव.: ⟪वत्सः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4306))
 :::
@@ -216,7 +216,7 @@ status: stable
 ⟪तुल्⟫ 10 ⟪तुलयति⟫ ⟪।⟫ ⟪तोलयति⟫ : तौलना
 
 ::: media
-![](/images/lekt4307.jpg)
+![](/images/lekt4307.webp)
 अभिव.: ⟪तोलन्ति⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4307))
 :::
@@ -339,7 +339,7 @@ B) संस्कृत में अनुवाद करें:
 10\. तुम शत्रु से कैसे बचते हो (पार करते हो)?
 
 ::: media
-![](/images/lekt4308.jpg)
+![](/images/lekt4308.webp)
 अभ.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4308))
 :::
@@ -375,7 +375,7 @@ B) संस्कृत में अनुवाद करें:
 | (स्रोत: सरल संस्कृत शिक्षक III, पृ. 4फ.) | |
 
 ::: media
-![](/images/lekt4309.jpg)
+![](/images/lekt4309.webp)
 अभ.: ⟪शर्करा⟫
 (चित्रस्रोत: [विवरण](/hi/licenses#lekt4309))
 :::

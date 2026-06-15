@@ -30,7 +30,7 @@ Qui prudentiam habet, a dolore liberatur; ideo, qui liberationem vult, per yogam
 Stultus bonas escas et pulchras feminas fruitur. Cuius stultitia deleta est, nec bonam escam nec feminam corpore perfecto desiderat. Avaritiam enim et odium impedit et in prudentiam mentem colligit.
 
 ::: media
-![](/images/uebung049.jpg)
+![](/images/uebung049.webp)
 Fig.: कुलबन्धनम्
 (Fons imaginis: [Detalia](/licenses#uebung049))
 :::

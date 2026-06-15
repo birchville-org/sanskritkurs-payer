@@ -2,7 +2,7 @@
 
 ## Exercitium Scripturae 4
 
-![](/images/schrift006.jpg)
+![](/images/schrift006.webp)
 
 Anusvāra ṃ: punctum super litteram. quod praecedit sonum: कं कां किं कीं कुं कूं कें कैं कों कौं
 

@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 सुखद सत्य कहो, दुखद सत्य मत कहो; सुखद असत्य मत कहो, यह शाश्वत नियम है।
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 अभ.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 अभि.: ⟪भक्त्याः⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung047))
 :::

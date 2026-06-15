@@ -65,7 +65,7 @@ B) Tradusciar sut utilizaziun da cumponids en sanscrit:
 अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः शूद्रा अपि ॥
 
 ::: media
-![](/images/uebung031.jpg)
+![](/images/uebung031.webp)
 Abb.: शस्त्राजीवः क्षत्रियः
 (Font dal maletg: [Detagls](/licenses#uebung031))
 :::
@@ -239,7 +239,7 @@ Sblicca las suandantas composite sco Bahuvrīhi e/o Dvandva e/o Tatpuruṣa en t
 ८१. **सोढदुःखाः** । सोढं दुःखं यैस्ते ।
 
 ::: media
-![](/images/uebung030.jpg)
+![](/images/uebung030.webp)
 Abb.: सम्पन्नरूपा रूपसम्पन्ना
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung030))
 :::
@@ -295,7 +295,7 @@ En il center stgir, a las anclas largas, cun labras cotschnas, egls nairs, cun i
 Paurs, che els na vulan betg, han fitg blers figls, riccs n'han nagin figl. Strusch è il curs da la creatiun.
 
 ::: media
-![](/images/uebung032.jpg)
+![](/images/uebung032.webp)
 Abb.: सन्ति पुत्राः सुबहवो दरिद्राणाम्
 (Sursa da l'imagines: [Detagl](/licenses#uebung032))
 :::

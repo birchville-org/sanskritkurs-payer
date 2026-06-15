@@ -2,7 +2,7 @@
 
 Signa vocalium ad initium verbi, nisi verbum cum verbo praecedenti in scriptura coniunctum sit:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@ In the type used in this script:
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 Initial -a, which is elided according to the sentence sandhi rules (-as + a- » -o ' ), is indicated by the so-called Avagraha:
 

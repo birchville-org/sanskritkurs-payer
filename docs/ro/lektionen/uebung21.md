@@ -47,7 +47,7 @@ Un dublu-născut este un bărbat care a fost inițiat în Veda de către maestru
 Cine a învins mânia nu urăște un dușman, chiar dacă acesta îl omoară. Cine însă este învins de mână, urăște.
 
 ::: media
-![](/images/uebung033.jpg)
+![](/images/uebung033.webp)
 Fig.: हतान्धकारा दीपाः
 (Sursa imaginii: [Detalii](/licenses#uebung033))
 :::

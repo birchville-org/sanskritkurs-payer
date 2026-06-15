@@ -99,7 +99,7 @@ Anchez quai che è detestabel, e na sias betg avid da quai che è desiderabel; u
 Ti has lamentà ils na-lamentabels e vulevair dir pleds da sapienza; ma ils sapients lamentan ni ils morts ni ils vivents.
 
 ::: media
-![](/images/uebung072.jpg)
+![](/images/uebung072.webp)
 Abb.: मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung072))
 :::
@@ -156,7 +156,7 @@ Definir las suandantas furmas da paraula:
 :::
 
 ::: media
-![](/images/uebung073.jpg)
+![](/images/uebung073.webp)
 Abb.: वदिता
 (Fontana da l’imagines: [Detagls](/licenses#uebung073))
 :::

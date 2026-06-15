@@ -118,6 +118,6 @@ NOTA: Responso, quod cum hactenus acquisita scientia Sanscritica ad has quaestio
 **B) Formate ad exercitium lectionis sequentis quaestiones secundum exemplar etat kim (एतत्किम्) et respondete ad quaestiones verbis indicatis et pronominibus demonstrativis, e.g. eṣa bālaḥ (एष बालः):**
 
 ::: media
-![](/images/lekt0401.jpg)
+![](/images/lekt0401.webp)
 (Fons imaginis: [Detalia](/la/licenses#lekt0401))
 :::

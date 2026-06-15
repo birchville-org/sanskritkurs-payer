@@ -312,7 +312,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 Abb.: घाताः
 Bangalore = ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt1703))
@@ -328,7 +328,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 Abb.: योगासनम्
 (Bildquelle: [Details](/licenses#lekt1701))
 :::
@@ -347,7 +347,7 @@ davon:
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : melken
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 Abb.: दोग्धि
 (Bildquelle: [Details](/licenses#lekt1702))
 :::

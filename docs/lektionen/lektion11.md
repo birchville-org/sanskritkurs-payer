@@ -69,7 +69,7 @@ z.B. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्�
   - **vadana** n. वदन : das Sprechen; Sprechwerkzeug: Mund, Gesicht
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 Abb.: **vadanāni** = वदनानि
 (Bildquelle: [Details](/licenses#lekt1102))
 :::
@@ -106,7 +106,7 @@ Abb.: **vadanāni** = वदनानि
 **D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion.**
 
 ::: media
-![](/images/lekt1101.jpg)
+![](/images/lekt1101.webp)
 Abb.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
 (Bildquelle: [Details](/licenses#lekt1101))
 :::
@@ -149,7 +149,7 @@ Abb.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 **E) Verwandeln Sie die Sätze C) 1-5 in Aktivkonstruktionen.**
 
 ::: media
-![](/images/lekt1103.jpg)
+![](/images/lekt1103.webp)
 Abb.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
 (Bildquelle: [Details](/licenses#lekt1103))
 :::

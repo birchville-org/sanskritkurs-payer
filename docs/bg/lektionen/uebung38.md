@@ -58,7 +58,7 @@ Brahmā hat die Welten erschaffen.
 :::
 
 ::: media
-![](/images/uebung063.jpg)
+![](/images/uebung063.webp)
 Ил.: राज्ञे बलिनो हस्तिनो दीयेरन्
 (Източник на изображението: [Подробности](/bg/licenses#uebung063))
 :::

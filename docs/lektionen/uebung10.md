@@ -208,7 +208,7 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 दानेन श्रावकः स्वर्गमाप्नोति / स्वर्गमश्नुते ।
 
 ::: media
-![](/images/uebung011.jpg)
+![](/images/uebung011.webp)
 Abb.: ग्रामः
 (Bildquelle: [Details](/licenses#uebung011))
 :::
@@ -320,7 +320,7 @@ Hari geht nachhause.
 Der Fuhrmann lenkt den Wagen.
 
 ::: media
-![](/images/uebung012.jpg)
+![](/images/uebung012.webp)
 Abb.: सारथी रथं नयति
 (Bildquelle: [Details](/licenses#uebung012))
 :::

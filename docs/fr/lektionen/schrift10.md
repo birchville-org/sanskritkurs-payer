@@ -20,9 +20,9 @@ Exceptions : Si म् ou य् constituent le second élément de la ligature,
 
 Exemples (les exceptions sont soulignées) :
 
-![](/images/schrift021.jpg)
+![](/images/schrift021.webp)
 
-![](/images/schrift022.jpg)
+![](/images/schrift022.webp)
 
 ### Exercice
 
@@ -32,9 +32,9 @@ Exemples (les exceptions sont soulignées) :
 
 ![](/images/schrift023.jpg)
 
-![](/images/schrift024.jpg)
+![](/images/schrift024.webp)
 
-![](/images/schrift025.jpg)
+![](/images/schrift025.webp)
 
 ### Exercice
 

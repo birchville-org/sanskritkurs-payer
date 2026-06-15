@@ -43,7 +43,7 @@ a) कृत्-Suffix \-Ø
 :::
 
 ::: media
-![](/images/lekt5101.jpg)
+![](/images/lekt5101.webp)
 Fig. : भूमिभुज्
 ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008)
 (Source de l'image : [Détails](/fr/licenses#lekt5101))
@@ -72,7 +72,7 @@ b) कृत्-Suffix -t
 ::::
 
 ::: media
-![](/images/lekt5103.jpg)
+![](/images/lekt5103.webp)
 Fig. : पापकृत्
 भरतपुर, राजस्थान
 (Source de l'image : [Détails](/fr/licenses#lekt5103))
@@ -102,7 +102,7 @@ c) कृत्-Suffix -a
 :::
 
 ::: media
-![](/images/lekt5102.jpg)
+![](/images/lekt5102.webp)
 Fig. : द्विपो द्विर्पिबति : हस्तेन च मुखेन च
 नेपाल
 (Source de l'image : [Détails](/fr/licenses#lekt5102))
@@ -271,7 +271,7 @@ Loc. परिव्राट्सु
 ::::
 
 ::: media
-![](/images/lekt5104.jpg)
+![](/images/lekt5104.webp)
 Fig. : परिव्राट्
 पुष्कर
 (Source de l'image : [Détails](/fr/licenses#lekt5104))
@@ -377,7 +377,7 @@ p. ex. छिद् » चिच्छेद
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193s.
 
 ::: media
-![](/images/lekt5105.jpg)
+![](/images/lekt5105.webp)
 Fig. :
 (Source de l'image : [Détails](/fr/licenses#lekt5105))
 :::
@@ -406,7 +406,7 @@ Fig. : ऋतुः
 जटा f. : tresse de cheveux (coiffure de l'ascète)
 
 ::: media
-![](/images/lekt5107.jpg)
+![](/images/lekt5107.webp)
 Fig. : जटा
 ऋषिकेश
 (Source de l'image : [Détails](/fr/licenses#lekt5107))
@@ -461,7 +461,7 @@ PPP गर्हित
 पिशित n. : (viande préparée) viande
 
 ::: media
-![](/images/lekt5108.jpg)
+![](/images/lekt5108.webp)
 Fig. : पिशितम्
 Kolkata = কলকাতা
 (Source de l'image : [Détails](/fr/licenses#lekt5108))
@@ -471,7 +471,7 @@ Kolkata = কলকাতা
 मधु n. : miel, breuvage sucré, hydromel (vin de miel)
 
 ::: media
-![](/images/lekt5109.jpg)
+![](/images/lekt5109.webp)
 Fig. : मधु
 City Palace, उदयपुर
 (Source de l'image : [Détails](/fr/licenses#lekt5109))
@@ -481,7 +481,7 @@ City Palace, उदयपुर
 मृगया f. : chasse
 
 ::: media
-![](/images/lekt5110.jpg)
+![](/images/lekt5110.webp)
 Fig. : मृगया
 Chasse avec चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Source de l'image : [Détails](/fr/licenses#lekt5110))
@@ -489,7 +489,7 @@ Chasse avec चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજર�
 शिवा f. : (femelle) chacal (chacal doré = _Canis aureus_)
 
 ::: media
-![](/images/lekt5111.jpg)
+![](/images/lekt5111.webp)
 Fig. : शिवा
 _Canis aureus_, sanctuaire de Kalatop Khajjiar
 (Source de l'image : [Détails](/fr/licenses#lekt5111))
@@ -499,7 +499,7 @@ _Canis aureus_, sanctuaire de Kalatop Khajjiar
 कौशिक m. : hibou
 
 ::: media
-![](/images/lekt5112.jpg)
+![](/images/lekt5112.webp)
 Fig. : कौशिकः
 Hibou de Brahma (_Athene brama_), Mahesana = મહેસાણા
 (Source de l'image : [Détails](/fr/licenses#lekt5112))
@@ -529,7 +529,7 @@ Karnataka = ಕರ್ನಾಟಕ
 आपान(क) n. : orgie
 
 ::: media
-![](/images/lekt5114.jpg)
+![](/images/lekt5114.webp)
 Fig. : आपानकम्
 जोधपुर
 (Source de l'image : [Détails](/fr/licenses#lekt5114))
@@ -549,7 +549,7 @@ PPP दिग्ध
 विष n. : poison
 
 ::: media
-![](/images/lekt5115.jpg)
+![](/images/lekt5115.webp)
 Fig. : मूषिकाविषाणि
 Bangalore = ಬೆಂಗಳೂರು
 (Source de l'image : [Détails](/fr/licenses#lekt5115))
@@ -557,7 +557,7 @@ Bangalore = ಬೆಂಗಳೂರು
 भुजंग m. : serpent
 
 ::: media
-![](/images/lekt5116.jpg)
+![](/images/lekt5116.webp)
 Fig. : भुजंगः
 Vipère à chaînes (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Source de l'image : [Détails](/fr/licenses#lekt5116))
@@ -583,7 +583,7 @@ Vipère à chaînes (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 मणि m. : joyau
 
 ::: media
-![](/images/lekt5118.jpg)
+![](/images/lekt5118.webp)
 Fig. : मणिः
 Diamond Hope provenant de Guntur = గుంటూరు, aujourd'hui au Smithsonian Museum of Natural History, Washington DC
 (Source de l'image : [Détails](/fr/licenses#lekt5118))
@@ -593,7 +593,7 @@ Diamond Hope provenant de Guntur = గుంటూరు, aujourd'hui au Smithso
 मद m. : aussi "sève de rut" d'un éléphant (dans le [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
-![](/images/lekt5117.jpg)
+![](/images/lekt5117.webp)
 Fig. : मदः
 (Source de l'image : [Détails](/fr/licenses#lekt5117))
 :::

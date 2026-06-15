@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 Сказати правду, яка приємна, не говорити неприємної правди; не говорити приємної неправди, це — вічний закон.
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 Мал.: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (Джерело зображення: [Деталі](/uk/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 Мал.: भक्त्याः
 (Джерело зображення: [Деталі](/uk/licenses#uebung047))
 :::

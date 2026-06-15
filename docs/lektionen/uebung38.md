@@ -58,7 +58,7 @@ Wenn Könige Recht und Sitte nicht hüten, sind die Menschen voll Furcht.
 :::
 
 ::: media
-![](/images/uebung063.jpg)
+![](/images/uebung063.webp)
 Abb.: राज्ञे बलिनो हस्तिनो दीयेरन्
 (Bildquelle: [Details](/licenses#uebung063))
 :::

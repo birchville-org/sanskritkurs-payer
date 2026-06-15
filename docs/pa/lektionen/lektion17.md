@@ -312,7 +312,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 ਚਿੱਤਰ: घाताः
 ਬੈਂਗਲੁਰੂ = ಬೆಂಗಳೂರು
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1703))
@@ -328,7 +328,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 ਚਿੱਤਰ: योगासनम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1701))
 :::
@@ -347,7 +347,7 @@ status: stable
 दुह् 2 U दोग्धि ਪਾਸ. दुह्यते ਪਪੀ दुग्ध : ਦੁੱਧ ਚੁੰਘਣਾ
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 ਚਿੱਤਰ: दोग्धि
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1702))
 :::

@@ -106,7 +106,7 @@ Obedience towards the twice-born, activities for livelihood, activity as a craft
 Economy is farming, animal husbandry, and trade.
 
 ::: media
-![](/images/uebung013.jpg)
+![](/images/uebung013.webp)
 Fig.: रक्षणं सर्वभूतानाम्
 (Image source: [Details](/en/licenses#uebung013))
 :::

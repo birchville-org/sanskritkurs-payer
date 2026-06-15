@@ -39,7 +39,7 @@ Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aori
 :::
 
 ::: media
-![](/images/uebung093.jpg)
+![](/images/uebung093.webp)
 Abb.: अगायि
 (Bildquelle: [Details](/licenses#uebung093))
 :::

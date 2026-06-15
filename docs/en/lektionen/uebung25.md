@@ -68,7 +68,7 @@ Buddhas and Arhants are freed from suffering. For they have attained the liberat
 Through greed, hatred, and delusion, people are ruined. When the time has come, they then fall into a hell.
 
 ::: media
-![](/images/uebung040.jpg)
+![](/images/uebung040.webp)
 Fig.: लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति
 (Image source: [Details](/en/licenses#uebung040))
 :::
@@ -120,7 +120,7 @@ If someone, out of arrogance, greed, anger, or fear, pronounces a false judicial
 Hells arise because of evil, evil arises from poverty, poverty arises from not giving.
 
 ::: media
-![](/images/uebung041.jpg)
+![](/images/uebung041.webp)
 Fig.: भवन्ति नरकाः पापात्
 (Image source: [Details](/en/licenses#uebung041))
 :::
@@ -137,7 +137,7 @@ A thief is freed from the guilt of theft through punishment or through release. 
 The economy is useful because it produces grain, cattle, gold, metals, and labor.
 
 ::: media
-![](/images/uebung042.jpg)
+![](/images/uebung042.webp)
 Fig.: वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी
 (Image source: [Details](/en/licenses#uebung042))
 :::

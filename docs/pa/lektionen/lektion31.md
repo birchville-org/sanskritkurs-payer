@@ -89,7 +89,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt3101.jpg)
+![](/images/lekt3101.webp)
 Abb.: योगः
 Yoga ਦਰਸ਼ਨ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3101))
@@ -138,7 +138,7 @@ Yoga ਦਰਸ਼ਨ।
 :::
 
 ::: media
-![](/images/lekt3102.jpg)
+![](/images/lekt3102.webp)
 Abb.: व्यञ्जनम्
 Kathakali ਨਾਚ ਲਈ ਤਿਆਰੀ, Kochi.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3102))
@@ -184,7 +184,7 @@ Kathakali ਨਾਚ ਲਈ ਤਿਆਰੀ, Kochi.
 :::
 
 ::: media
-![](/images/lekt3103.jpg)
+![](/images/lekt3103.webp)
 Abb.: प्रज्ञापारमिता
 Aus einem Prajñāpāramitā-Manuskript.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3103))
@@ -214,7 +214,7 @@ A) ਹੇਠ ਲਿਖੇ ਵਾਕਾਂ ਦਾ ਅਨੁਵਾਦ ਕਰੋ �
 पुत्रो जातो बन्धनं जातमिति सुगतो मत्वा कुलबन्धनं भिनत्ति । ततो भग्नबन्धो मोक्षनयन्तीं प्रज्ञामाप्तुमर्हति ॥४॥
 
 ::: media
-![](/images/lekt3104.jpg)
+![](/images/lekt3104.webp)
 ਚਿੱਤਰ: राहुलो जातो बन्धनं जातम्
 Rāhula, der Sohn Buddhas, Laos.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3104))

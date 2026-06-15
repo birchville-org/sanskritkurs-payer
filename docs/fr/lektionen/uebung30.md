@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 On doit dire des vérités agréables, on ne doit pas dire des vérités désagréables ; on ne doit pas dire de fausses paroles agréables, telle est la loi éternelle.
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 Fig. : श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (Source de l’image : [Détails](/fr/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Déterminez et traduisez les formes de mot suivantes :
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 Fig. : भक्त्याः
 (Source de l'image : [Détails](/fr/licenses#uebung047))
 :::

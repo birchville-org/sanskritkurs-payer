@@ -32,7 +32,7 @@ Ein Mensch ohne Bildung ist ein Vieh.
 Die Kürze ist der Schmuck des Grammatikers.
 
 ::: media
-![](/images/uebung083.jpg)
+![](/images/uebung083.webp)
 Abb.: विद्याविहीनः पशुः
 (Bildquelle: [Details](/licenses#uebung083))
 :::
@@ -56,7 +56,7 @@ Die Mädchen sollen den Bettlern Speise geben.
 Wir wollen sprechen.
 
 ::: media
-![](/images/uebung085.jpg)
+![](/images/uebung085.webp)
 Abb.: वचाम
 (Bildquelle: [Details](/licenses#uebung085))
 :::
@@ -110,7 +110,7 @@ Sie sollen in meinem Haus sitzen.
 Ehemänner sollen ihre Gattinnen erhalten.
 
 ::: media
-![](/images/uebung076.jpg)
+![](/images/uebung076.webp)
 Abb.: तानि फलान्यदाम
 (Bildquelle: [Details](/licenses#uebung076))
 :::
@@ -150,13 +150,13 @@ Wer seine Frau sorgsam behütet, der behütet wahrlich seine Nachkommenschaft, s
 Der Gatte tritt in seine Gattin ein, wird zum Embryo und wird dann hier geboren; darin besteht das "Gattinnensein" (**जायात्वम्**) der Gattin, dass der Gatte in ihr wiedergeboren wird.
 
 ::: media
-![](/images/uebung084.jpg)
+![](/images/uebung084.webp)
 Abb.: अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।
 (Bildquelle: [Details](/licenses#uebung084))
 :::
 
 ::: media
-![](/images/uebung077.jpg)
+![](/images/uebung077.webp)
 Abb.: पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते
 (Bildquelle: [Details](/licenses#uebung077))
 :::

@@ -2,7 +2,7 @@
 
 ## Schriftübung 4
 
-![](/images/schrift006.jpg)
+![](/images/schrift006.webp)
 
 Anusvāra ṃ: Punkt über dem Buchstaben. der dem Laut vorausgeht: कं कां किं कीं कुं कूं कें कैं कों कौं
 

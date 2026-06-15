@@ -153,7 +153,7 @@ Per liberarli dal male, il Buddha fa riconoscere le nobili verità alle persone 
 (Base: **आर्यजना आर्यसत्यानि बुध्यन्ते ।**)
 
 ::: media
-![](/images/uebung045.jpg)
+![](/images/uebung045.webp)
 Fig.: गर्भगृहे देवीप्रतिमा दर्श्यते
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung045))
 :::

@@ -17,7 +17,7 @@ Worship of Gaṇeśa
 :::
 
 ::: media
-![](/images/lekt0102.jpg)
+![](/images/lekt0102.webp)
 Fig.: Gaṇeśa, Adamspeak, Sri Lanka
 (Image source: [Details](/en/licenses#lekt0102))
 :::
@@ -48,7 +48,7 @@ maṅgalacaraṇam
 :::
 
 ::: media
-![](/images/lekt0101.jpg)
+![](/images/lekt0101.webp)
 Fig.: Ardhanarīśvara
 (Image source: [Details](/en/licenses#lekt0101))
 :::
@@ -86,7 +86,7 @@ First, a curiosity:
 ## 1.1. Literature for Beginners in Indology
 
 ::: media
-![](/images/lekt0103.jpg)
+![](/images/lekt0103.webp)
 Fig.: Cover title of a paperback edition
 (Image source: [Details](/en/licenses#lekt0103))
 :::
@@ -94,7 +94,7 @@ Fig.: Cover title of a paperback edition
 > **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Since then many editions, including paperback editions. -- **Mandatory reading.** A good overview of life, history, and culture in pre-Islamic India. Comprehensive overview of the various fields of classical Indology.
 
 ::: media
-![](/images/lekt0104.jpg)
+![](/images/lekt0104.webp)
 Fig.: Title page
 (Image source: [Details](/en/licenses#lekt0104))
 :::
@@ -104,7 +104,7 @@ Fig.: Title page
 > **Kielhorn**, Franz &lt;1840-1908&gt;: Grammar of the Sanskrit language / Translated from English by W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Original title: A grammar of the Sanscrit language
 
 ::: media
-![](/images/lekt0105.jpg)
+![](/images/lekt0105.webp)
 Fig.: Cover title
 (Image source: [Details](/en/licenses#lekt0105))
 :::
@@ -140,7 +140,7 @@ For the curious to look up:
 The sounds of Sanskrit according to the traditional Indian classification and their scientific transliteration.
 
 ::: media
-![](/images/lekt0106.jpg)
+![](/images/lekt0106.webp)
 (Image source: [Details](/en/licenses#lekt0106))
 :::
 

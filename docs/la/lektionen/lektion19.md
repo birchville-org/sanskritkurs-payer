@@ -97,7 +97,7 @@ Nota: In relativis, quae sensum universalem habent, optativus saepe pro indicati
 :::
 
 ::: media
-![](/images/lekt1809.jpg)
+![](/images/lekt1809.webp)
 Fig.: कामः
 Illustratio ad कामसूत्र
 (Fons imaginis: [Detalia](/la/licenses#lekt1809))
@@ -127,7 +127,7 @@ a **स्था** :
 :::
 
 ::: media
-![](/images/lekt1901.jpg)
+![](/images/lekt1901.webp)
 Fig.: गर्भगृहम्
 Badami (ಬದಾಮಿ)
 (Fons imaginis: [Detalia](/la/licenses#lekt1901))
@@ -158,7 +158,7 @@ unde:
 **छत्त्र n.:** umbra solis, umbra
 
 ::: media
-![](/images/lekt1904.jpg)
+![](/images/lekt1904.webp)
 Fig.: छत्त्रम्
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in costume traditionali est consuetudo in partibus meridionalibus Kerala. _Onappottan_ domos visitat durante _onam_ et benedictiones dat. Nuper _onappottan_ factus est visus rarissimus, confinis ad vicos."
 (Fons imaginis: [Detalia](/la/licenses#lekt1904))

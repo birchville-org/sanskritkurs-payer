@@ -107,7 +107,7 @@ Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen könne
 **kāma** m. = काम : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma.
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 Abb.: Gott Kāma = kāmadeva = कामदेव, 18. Jhdt.
 (Bildquelle: Wikipedia, Public domain)
 :::

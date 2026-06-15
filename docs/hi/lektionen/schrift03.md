@@ -2,7 +2,7 @@
 
 ## लिपि अभ्यास 3
 
-![](/images/schrift005.jpg)
+![](/images/schrift005.webp)
 
 ## अभ्यास
 

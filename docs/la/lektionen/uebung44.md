@@ -99,7 +99,7 @@ Oditis quoque odibilia, et cupientia non cupide appetatis; sic interius tranquil
 Non plorandos ploras et verba sapientiae dicere vis; tamen sapientes neque mortuos neque vivos plorant.
 
 ::: media
-![](/images/uebung072.jpg)
+![](/images/uebung072.webp)
 Fig.: मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति
 (Fons imaginis: [Detalia](/licenses#uebung072))
 :::
@@ -156,7 +156,7 @@ Formas verborum sequentes defini:
 :::
 
 ::: media
-![](/images/uebung073.jpg)
+![](/images/uebung073.webp)
 Fig.: वदिता
 (Fons imaginis: [Detalia](/licenses#uebung073))
 :::

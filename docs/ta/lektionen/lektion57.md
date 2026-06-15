@@ -120,7 +120,7 @@ Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet w
 | **3. प्रथमः** | अनैषीत् | अनैषुर् | नेष्ट | अनेषत |
 
 ::: media
-![](/images/lekt5701.jpg)
+![](/images/lekt5701.webp)
 படம்: भीमराव रामजी आंबेडकर (१८९१ १९५६) । सो ऽनैषीद्दलितान् ॥
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt5701))
 :::

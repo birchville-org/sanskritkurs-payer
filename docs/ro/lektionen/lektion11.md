@@ -69,7 +69,7 @@ de ex. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच�
   - **vadana** n. वदन : vorbirea; instrumentul vorbirii: gură, față
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 Fig.: **vadanāni** = वदनानि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1102))
 :::
@@ -106,7 +106,7 @@ Fig.: **vadanāni** = वदनानि
 **D) Formați vocea pasivă pentru propozițiile obținute la punctul C).**
 
 ::: media
-![](/images/lekt1101.jpg)
+![](/images/lekt1101.webp)
 Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1101))
 :::
@@ -149,7 +149,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 **E) Transformați propozițiile C) 1-5 în construcții active.**
 
 ::: media
-![](/images/lekt1103.jpg)
+![](/images/lekt1103.webp)
 Fig.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1103))
 :::

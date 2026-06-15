@@ -153,7 +153,7 @@ Para liberarlos del mal, Buda hace que personas nobles comprendan las verdades n
 (Base: **आर्यजना आर्यसत्यानि बुध्यन्ते ।**)
 
 ::: media
-![](/images/uebung045.jpg)
+![](/images/uebung045.webp)
 Fig.: गर्भगृहे देवीप्रतिमा दर्श्यते
 (Fuente de la imagen: [Detalles](/licenses#uebung045))
 :::

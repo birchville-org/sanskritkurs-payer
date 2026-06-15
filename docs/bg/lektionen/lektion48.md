@@ -266,7 +266,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt4801.jpg)
+![](/images/lekt4801.webp)
 Илл.: वैयाघ्रं विजृम्भणम्
 (Източник на изображението: [Подробности](/bg/licenses#lekt4801))
 :::
@@ -284,14 +284,14 @@ status: stable
 तन्त्र n.: струна ; тъкачен стан, тъкачна верига, плат ; основа, норма, правило ; учение, учебник ; тантра ; магическа формула ; средство, трик, лекарство ; управление, авторитет
 
 ::: media
-![](/images/lekt4802.jpg)
+![](/images/lekt4802.webp)
 Ил.: तन्त्रम्
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Източник на изображението: [Подробности](/bg/licenses#lekt4802))
 :::
 
 ::: media
-![](/images/lekt4803.jpg)
+![](/images/lekt4803.webp)
 Ил.: तन्त्री
 Sitarspieler = सितारवादकः
 (Източник на изображението: [Подробности](/bg/licenses#lekt4803))
@@ -315,7 +315,7 @@ Sitarspieler = सितारवादकः
 :::
 
 ::: media
-![](/images/lekt4804.jpg)
+![](/images/lekt4804.webp)
 Ил.: स्वतन्त्राः स्त्रियः
 [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Източник на изображението: [Подробности](/bg/licenses#lekt4804))
@@ -328,7 +328,7 @@ Sitarspieler = सितारवादकः
 कुमार m.: дете, млад мъж, принц; епитет на कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
-![](/images/lekt4805.jpg)
+![](/images/lekt4805.webp)
 Ил.: कुमारः
 Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
 (Източник на изображението: [Подробности](/bg/licenses#lekt4805))
@@ -337,7 +337,7 @@ Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
 कुमारी f.: момиче, дъщеря
 
 ::: media
-![](/images/lekt4806.jpg)
+![](/images/lekt4806.webp)
 Ил.: कुमारी
 नेपाल
 (Източник на изображението: [Подробности](/bg/licenses#lekt4806))
@@ -350,7 +350,7 @@ Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
 स्थविर 3: стар, възрастен
 
 ::: media
-![](/images/lekt4807.jpg)
+![](/images/lekt4807.webp)
 Ил.: स्थविराः
 जोधपुर
 (Източник на изображението: [Подробности](/bg/licenses#lekt4807))
@@ -363,7 +363,7 @@ Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
 सूक्ष्म 3: фин, миниатюрен, тънък
 
 ::: media
-![](/images/lekt4808.jpg)
+![](/images/lekt4808.webp)
 Ил.: सूक्ष्मम्
 Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 (Източник на изображението: [Подробности](/bg/licenses#lekt4808))
@@ -380,7 +380,7 @@ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 जाया f.: съпруга
 
 ::: media
-![](/images/lekt4809.jpg)
+![](/images/lekt4809.webp)
 Ил.: मम जाया
 (Изображение: Payer)
 (Източник на изображението: [Подробности](/bg/licenses#lekt4809))

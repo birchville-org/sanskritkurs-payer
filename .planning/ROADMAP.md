@@ -7,7 +7,7 @@
 - ✅ **v1.2 Search, Index & I18n Expansion** — Phasen 10-14 (shipped 2026-05-27)
   - ⚠ Known gaps: BG (23/61), UK (31/61), RU Übungen (0/61) — handled out-of-band via lan_translate.py
 - ✅ **v1.3 Polyglot & Polish** — Phasen 15-17 (shipped 2026-06-11)
-- [ ] **v1.4 Offline-First PWA** — Phasen 18-21
+- ✅ **v1.4 Offline-First PWA** — Phasen 18-21
 
 ## Phasen
 
@@ -160,14 +160,14 @@ Client entscheidet welche gecacht + angezeigt werden. Kein Build/Docker-Änderun
 
 ### Phase 21: Offline QA & Polishing
 End-to-End-Testing der Offline-Funktionalität, Performance-Optimization, UX-Polish.
-**Status:** Pending
-**Plans:** 0 plans
+**Status:** Complete (2026-06-15)
+**Plans:** 4/4 plans complete ✅
 
-- [ ] 21-1-PLAN.md — Offline Testing: Chrome DevTools Offline-Mode + Lighthouse Audit
-- [ ] 21-2-PLAN.md — Performance: Assets optimieren (WebP für Bilder, minify CSS/JS)
-- [ ] 21-3-PLAN.md — UX: Offline-Indikator (Banner wenn offline), Sync-Status
-- [ ] 21-4-PLAN.md — Dokumentation: README + User-Guide für Offline-Installation
-- **Erfolgskriterien**:
+- [x] 21-1-PLAN.md — Offline Testing: Chrome DevTools Offline-Mode + Lighthouse Audit
+- [x] 21-2-PLAN.md — Performance: Assets optimieren (WebP für Bilder, minify CSS/JS)
+- [x] 21-3-PLAN.md — UX: Offline-Indikator (Banner wenn offline), Sync-Status
+- [x] 21-4-PLAN.md — Dokumentation: README + User-Guide für Offline-Installation
+- **Erfolgskriterien** ✅:
   - Lighthouse PWA: Best Practices ≥ 90, Performance ≥ 80, PWA ≥ 90
   - E2E-Test: Online → Offline → Navigation funktioniert ohne Netzwerk
   - User-Guide auf Deutsch + Englisch dokumentiert
@@ -257,5 +257,5 @@ Trennung von Public- und Authoring-Version mit dedizierten Domains und Builds.
 | 18 | v1.4 | 3/3 | Complete | 2026-06-12 |
 | 19 | v1.4 | 4/4 | Complete | 2026-06-12 |
 | 20 | v1.4 | 6/6 | Complete | 2026-06-12 |
-| 21 | v1.4 | 4 | Pending | — |
+| 21 | v1.4 | 4/4 | Complete | 2026-06-15 |
 | 22 | v1.5 | 6 | Backlog | — |

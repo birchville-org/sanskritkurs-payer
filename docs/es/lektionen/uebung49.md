@@ -55,7 +55,7 @@ Determine las siguientes formas:
 :::
 
 ::: media
-![](/images/uebung078.jpg)
+![](/images/uebung078.webp)
 Fig.: गायी
 (Fuente de la imagen: [Detalles](/licenses#uebung078))
 :::
@@ -75,7 +75,7 @@ Preguntas del rey **शूद्रक** de **विदिशा** al loro **व
 > Sin embargo, Vaiśampāyana, quien había sido preguntado por el Señor de la Tierra con una curiosidad espontánea y gran respeto, reflexionó un momento y luego respondió con gran reverencia: «Rey, esta es una historia larga. Si le interesa, ¡presteme su oído!»
 
 ::: media
-![](/images/uebung079.jpg)
+![](/images/uebung079.webp)
 Fig.: शुकः
 (Fuente de la imagen: [Detalles](/licenses#uebung079))
 :::

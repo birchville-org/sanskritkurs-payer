@@ -103,7 +103,7 @@ B) Transformez les formes verbales suivantes en leurs formes correspondantes au 
 :::
 
 ::: media
-![](/images/uebung065.jpg)
+![](/images/uebung065.webp)
 Fig. : आशिमेति
 (Source de l'image : [Détails](/fr/licenses#uebung065))
 :::
@@ -154,7 +154,7 @@ Déterminez et traduisez les formes de mots suivantes :
 :::
 
 ::: media
-![](/images/uebung066.jpg)
+![](/images/uebung066.webp)
 Fig. : काश्चन वाहिकाः
 (Source de l'image : [Détails](/fr/licenses#uebung066))
 :::

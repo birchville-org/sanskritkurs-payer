@@ -36,7 +36,7 @@ sau:
 ::::
 
 ::: media
-![](/images/lekt2404.jpg)
+![](/images/lekt2404.webp)
 Fig.: बाला गुरुश्रवणाय गताः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2404))
 :::
@@ -60,7 +60,7 @@ Exemplu:
 ::::
 
 ::: media
-![](/images/lekt2401.jpg)
+![](/images/lekt2401.webp)
 Fig.: यज्ञायान्नम्
 'Annakut' [अन्नकूट = गोवर्धन पूजा] este un eveniment hindus tradițional care are loc în timpul sărbătorilor Noului An hindus la toate templele BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Zeci de feluri de mâncare vegetariene sunt oferite lui Bhagwan Swaminarayan [સ્વામિનારાયણ] în această zi.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2401))
@@ -77,7 +77,7 @@ Exemplu:
 ::::
 
 ::: media
-![](/images/lekt2402.jpg)
+![](/images/lekt2402.webp)
 Fig.: बाला बालाय रक्षबन्धनं ददाति
 Raksha bandhan este sărbătorit cu entuziasm și bucurie în toată India. Acest festival întruchipează iubirea necondiționată dintre frați și surori.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2402))
@@ -96,7 +96,7 @@ Exemple:
 ::::
 
 ::: media
-![](/images/lekt2403.jpg)
+![](/images/lekt2403.webp)
 Fig.: अलं योधो योधाय
 "Rama (dreapta) șezând pe umerii lui Hanuman, se luptă cu regele demon Ravana." circa 1820
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2403))
@@ -208,7 +208,7 @@ Exemplu:
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 Fig.: अलंकारः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2405))
 :::
@@ -219,7 +219,7 @@ Fig.: अलंकारः
 प्रतिमा f.: imagine, reprezentare
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 Fig.: देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2406))
@@ -259,7 +259,7 @@ din acesta
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 Fig.: ऊहापोहः
 „NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor adjunct de externe, CNN-IBN Network 18, India, moderatorează o discuție pe panou la Summitul Economic al Indiei al Forumului Economic Mondial 2008 din New Delhi.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2407))
@@ -281,7 +281,7 @@ din acesta:
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 Fig.: आख्यानम्
 „Povestitorul din San Francisco, Jeff Byers, împărtășește o poveste cu locuitorii lui Chenneri, un sat Irula. Povestitorul Jeeva Raghunath traduce în tamilă pentru sateni.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2408))
@@ -314,7 +314,7 @@ din acesta:
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 Fig.: जयदेवकविर्विष्णुं नमस्करोति
 Manuscript al गीतगोविन्द, 1730 d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2411))
@@ -402,7 +402,7 @@ Traduceți în sanscrită:
 5\. Cinstirea (नमस्) fie lui Śiva! Cinstirea fie lui Śrī Gaṇeśa!
 
 ::: media
-![](/images/lekt2409.jpg)
+![](/images/lekt2409.webp)
 Fig.: श्रीगणेशाय नमः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2409))
 :::
@@ -423,7 +423,7 @@ Explicație: मुनित्रयम् "Triplul înțelepților = cei trei 
 :::
 
 ::: media
-![](/images/lekt2410.jpg)
+![](/images/lekt2410.webp)
 Fig.: नरो नरसिंहाय नमस्करोति
 नरसिंह sfâșie pe हिरण्यकशिपु, pagină dintr-un manuscris al lui भागवतपुराण
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2410))

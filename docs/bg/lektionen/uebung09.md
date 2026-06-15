@@ -106,7 +106,7 @@ kārukuśīlavakarma е Tatpuruṣa с Dvandva (kārukuśīlava) в предна
 Икономията е земеделие, отглеждане на животни и търговия.
 
 ::: media
-![](/images/uebung013.jpg)
+![](/images/uebung013.webp)
 Ил.: रक्षणं सर्वभूतानाम्
 (Bildquelle: [Details](/bg/licenses#uebung013))
 :::

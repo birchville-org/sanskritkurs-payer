@@ -156,7 +156,7 @@ Radice con **-a** + **-tya**
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 Fig.: कामदेवः
 Secolo XIX
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2202))
@@ -174,7 +174,7 @@ da ciò:
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 Fig.: दुर्गाशक्तिः
 Kolkatta = কলকাতা
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2203))
@@ -204,7 +204,7 @@ da ciò:
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 Fig.: धेनवश्चरन्ति
 Goa = गोंय
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2201))
@@ -276,7 +276,7 @@ Goa = गोंय
 **C) Trasformare le frasi precedenti (tranne le frasi 8 e 10) in costruzioni passive**
 
 ::: media
-![](/images/lekt2204.jpg)
+![](/images/lekt2204.webp)
 Fig.: अन्नं पक्त्वा
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2204))
 :::

@@ -89,7 +89,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt3101.jpg)
+![](/images/lekt3101.webp)
 Abb.: योगः
 Yoga வரைவு.
 (பட மூலம்: [Details](/ta/licenses#lekt3101))
@@ -138,7 +138,7 @@ Yoga வரைவு.
 :::
 
 ::: media
-![](/images/lekt3102.jpg)
+![](/images/lekt3102.webp)
 Abb.: व्यञ्जनम्
 Kathakali நடனத்திற்கான தயாரிப்பு, Kochi.
 (பட மூலம்: [Details](/ta/licenses#lekt3102))
@@ -184,7 +184,7 @@ Kathakali நடனத்திற்கான தயாரிப்பு, Koch
 :::
 
 ::: media
-![](/images/lekt3103.jpg)
+![](/images/lekt3103.webp)
 Abb.: प्रज्ञापारमिता
 Aus einem Prajñāpāramitā-Manuskript.
 (பட மூலம்: [Details](/ta/licenses#lekt3103))
@@ -214,7 +214,7 @@ A) பின்வரும் வாக்கியங்களை மொழி
 पुत्रो जातो बन्धनं जातमिति सुगतो मत्वा कुलबन्धनं भिनत्ति । ततो भग्नबन्धो मोक्षनयन्तीं प्रज्ञामाप्तुमर्हति ॥४॥
 
 ::: media
-![](/images/lekt3104.jpg)
+![](/images/lekt3104.webp)
 படம்: राहुलो जातो बन्धनं जातम्
 Rāhula, der Sohn Buddhas, Laos.
 (படம்: [விவரங்கள்](/ta/licenses#lekt3104))

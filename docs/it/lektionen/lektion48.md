@@ -266,7 +266,7 @@ ad esempio **व्याघ्र** m. "tigre" » **वैयाघ्र** 3 "
 :::
 
 ::: media
-![](/images/lekt4801.jpg)
+![](/images/lekt4801.webp)
 Fig.: वैयाघ्रं विजृम्भणम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4801))
 :::
@@ -284,14 +284,14 @@ Fig.: वैयाघ्रं विजृम्भणम्
 तन्त्र n.: Corda ; Telaio, ordito, tessuto ; Fondamento, norma, regola ; Dottrina, opera didattica ; Tantra ; Formula magica ; Mezzo, trucco, farmaco ; Governo, autorità
 
 ::: media
-![](/images/lekt4802.jpg)
+![](/images/lekt4802.webp)
 Fig.: तन्त्रम्
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4802))
 :::
 
 ::: media
-![](/images/lekt4803.jpg)
+![](/images/lekt4803.webp)
 Fig.: तन्त्री
 Musicisti di sitar = सितारवादकः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4803))
@@ -315,7 +315,7 @@ Declinazione:
 :::
 
 ::: media
-![](/images/lekt4804.jpg)
+![](/images/lekt4804.webp)
 Fig.: स्वतन्त्राः स्त्रियः
 [Gruppo di auto-aiuto (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4804))
@@ -328,7 +328,7 @@ Fig.: स्वतन्त्राः स्त्रियः
 कुमार m.: Bambino, giovane, principe; Epiteto di कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
-![](/images/lekt4805.jpg)
+![](/images/lekt4805.webp)
 Fig.: कुमारः
 Festival Thaipusam = தைப்பூசம், Batu Caves, Malesia
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4805))
@@ -337,7 +337,7 @@ Festival Thaipusam = தைப்பூசம், Batu Caves, Malesia
 कुमारी f.: Ragazza, figlia
 
 ::: media
-![](/images/lekt4806.jpg)
+![](/images/lekt4806.webp)
 Fig.: कुमारी
 नेपाल
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4806))
@@ -350,7 +350,7 @@ Fig.: कुमारी
 स्थविर 3: vecchio, anziano
 
 ::: media
-![](/images/lekt4807.jpg)
+![](/images/lekt4807.webp)
 Fig.: स्थविराः
 जोधपुर
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4807))
@@ -363,7 +363,7 @@ Fig.: स्थविराः
 सूक्ष्म 3: fine, minuscolo, sottile
 
 ::: media
-![](/images/lekt4808.jpg)
+![](/images/lekt4808.webp)
 Fig.: सूक्ष्मम्
 Lago Karanji = ಕಾರಂಜಿ ಕೆರೆ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4808))
@@ -380,7 +380,7 @@ Lago Karanji = ಕಾರಂಜಿ ಕೆರೆ
 जाया f.: Moglie
 
 ::: media
-![](/images/lekt4809.jpg)
+![](/images/lekt4809.webp)
 Fig.: मम जाया
 (Immagine: Payer)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4809))

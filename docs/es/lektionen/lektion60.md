@@ -213,11 +213,11 @@ Ejemplo: विदुषी "una sabia"
 Ver paradigmas en Kielhorn, Gramática § 124:
 
 ::: media
-![](/images/lekt6001.jpg)
+![](/images/lekt6001.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6001))
 :::
 ::: media
-![](/images/lekt6002.jpg)
+![](/images/lekt6002.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6002))
 :::
 
@@ -253,11 +253,11 @@ Ejemplo: प्रतीची
 ####  Véanse paradigmas en Kielhorn, Grammatik § 128:
 
 ::: media
-![](/images/lekt6003.jpg)
+![](/images/lekt6003.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6003))
 :::
 ::: media
-![](/images/lekt6004.jpg)
+![](/images/lekt6004.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6004))
 :::
 Pertenecen a esta categoría:
@@ -402,7 +402,7 @@ Véanse las reglas para el uso de la vocal de unión -i- en Kielhorn, Gramática
 Lista en Kielhorn, Gramática § 452:
 
 ::: media
-![](/images/lekt6006.jpg)
+![](/images/lekt6006.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6006))
 :::
 
@@ -448,15 +448,15 @@ Para la formación de nombres de agente en -u a partir del tema del Desiderativo
 A) Estudie en Kielhorn, Gramática § 451 las formaciones irregulares del desiderativo de los verbos aprendidos hasta ahora:
 
 ::: media
-![](/images/lekt6007.jpg)
+![](/images/lekt6007.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6007))
 :::
 ::: media
-![](/images/lekt6008.jpg)
+![](/images/lekt6008.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6008))
 :::
 ::: media
-![](/images/lekt6009.jpg)
+![](/images/lekt6009.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6009))
 :::
 B) Determine y traduzca las siguientes formas sin ayuda de herramientas:

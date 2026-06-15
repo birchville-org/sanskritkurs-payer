@@ -178,7 +178,7 @@ The accusative case can be used adverbially:
 ::::
 
 ::: media
-![lekt3701.jpg](/images/lekt3701.jpg)
+![lekt3701.jpg](/images/lekt3701.webp)
 आकृति: ⟪क्व⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt3701))
 :::
@@ -228,7 +228,7 @@ The accusative case can be used adverbially:
 ::::
 
 ::: media
-![lekt3702.jpg](/images/lekt3702.jpg)
+![lekt3702.jpg](/images/lekt3702.webp)
 अभ.: ⟪यथाशक्ति⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt3702))
 :::
@@ -248,7 +248,7 @@ The accusative case can be used adverbially:
 ::::
 
 ::: media
-![lekt3703.jpg](/images/lekt3703.jpg)
+![lekt3703.jpg](/images/lekt3703.webp)
 अभि.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt3703))
 :::
@@ -323,7 +323,7 @@ The accusative case can be used adverbially:
 :::
 
 ::: media
-![lekt3704.jpg](/images/lekt3704.jpg)
+![lekt3704.jpg](/images/lekt3704.webp)
 अभि.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt3704))
 :::
@@ -397,7 +397,7 @@ The accusative case can be used adverbially:
 ⟪वृक्ष⟫ p.: वृक्ष
 
 ::: media
-![lekt3706.jpg](/images/lekt3706.jpg)
+![lekt3706.jpg](/images/lekt3706.webp)
 अभ.: ⟪वृक्षः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt3706))
 :::
@@ -435,7 +435,7 @@ A) नीचे दिए गए प्रश्नों के उत्तर
 ⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
 
 ::: media
-![lekt3707.jpg](/images/lekt3707.jpg)
+![lekt3707.jpg](/images/lekt3707.webp)
 अभ.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt3707))
 :::
@@ -443,7 +443,7 @@ A) नीचे दिए गए प्रश्नों के उत्तर
 ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
-![lekt3708.jpg](/images/lekt3708.jpg)
+![lekt3708.jpg](/images/lekt3708.webp)
 अभ.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt3708))
 :::
@@ -487,7 +487,7 @@ C) निम्नलिखित ⟪अव्ययीभाव⟫ का अ�
 :::
 
 ::: media
-![lekt3709.jpg](/images/lekt3709.jpg)
+![lekt3709.jpg](/images/lekt3709.webp)
 अभ.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt3709))
 :::
@@ -522,7 +522,7 @@ C) निम्नलिखित ⟪अव्ययीभाव⟫ का अ�
 :::
 
 ::: media
-![lekt3710.jpg](/images/lekt3710.jpg)
+![lekt3710.jpg](/images/lekt3710.webp)
 अभ.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt3710))
 :::
@@ -534,7 +534,7 @@ C) निम्नलिखित ⟪अव्ययीभाव⟫ का अ�
 :::
 
 ::: media
-![lekt3711.jpg](/images/lekt3711.jpg)
+![lekt3711.jpg](/images/lekt3711.webp)
 अभ.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt3711))
 :::

@@ -22,7 +22,7 @@ B) Lege et translitera:
 
 ### Classificatio vocum Sanscritae (ex: Kielhorn: Grammatica Linguae Sanscritae)
 
-![](/images/schrift028.jpg)
+![](/images/schrift028.webp)
 
 ### Finis scripturae exercitationum
 

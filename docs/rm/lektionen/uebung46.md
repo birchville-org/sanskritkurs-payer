@@ -85,7 +85,7 @@ Dal sdegne nascha la stultizia, da la stultizia la confusiun da la meditaziun (m
 Per l’indisciplinà (non-yogin) na dat nagina perscrutaziun.
 
 ::: media
-![](/images/uebung080.jpg)
+![](/images/uebung080.webp)
 Abb.: सक्तः
 (Sursa d’imagines: [Detagls](/licenses#uebung080))
 :::

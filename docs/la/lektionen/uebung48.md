@@ -32,7 +32,7 @@ Homo sine litteris est pecus.
 Brevitas est ornatus grammatici.
 
 ::: media
-![](/images/uebung083.jpg)
+![](/images/uebung083.webp)
 Fig.: विद्याविहीनः पशुः
 (Fons imaginis: [Detalia](/licenses#uebung083))
 :::
@@ -56,7 +56,7 @@ Puellae mendicis cibum dent.
 Loquamur.
 
 ::: media
-![](/images/uebung085.jpg)
+![](/images/uebung085.webp)
 Fig.: वचाम
 (Fons imaginis: [Detalia](/licenses#uebung085))
 :::
@@ -110,7 +110,7 @@ In domo mea sedeam.
 Uxores suas mariti sustentent.
 
 ::: media
-![](/images/uebung076.jpg)
+![](/images/uebung076.webp)
 Fig.: तानि फलान्यदाम
 (Fons imaginis: [Detalia](/licenses#uebung076))
 :::
@@ -150,13 +150,13 @@ Qui uxorem diligenter custodit, verum prolem suam, conversationem, familiam, se 
 Maritus in uxorem intrat, fit embryo, et hic nascitur; in hoc consistit "uxoritas" (**जायात्वम्**) uxoris, quod maritus in ea renascitur.
 
 ::: media
-![](/images/uebung084.jpg)
+![](/images/uebung084.webp)
 Fig.: अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।
 (Fons imaginis: [Detalia](/licenses#uebung084))
 :::
 
 ::: media
-![](/images/uebung077.jpg)
+![](/images/uebung077.webp)
 Fig.: पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते
 (Fons imaginis: [Detalia](/licenses#uebung077))
 :::

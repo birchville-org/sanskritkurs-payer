@@ -166,7 +166,7 @@ dvijāḥ kṣatriyāḥ.
 शूद्राः साधवः
 
 ::: media
-![](/images/uebung001.jpg)
+![](/images/uebung001.webp)
 Fig.: पशुर्धेनुः
 (Fuente de la imagen: [Detalles](/licenses#uebung001))
 :::

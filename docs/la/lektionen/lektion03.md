@@ -96,7 +96,7 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī dea est" = देवीन�
 > (Indrāṇī est coniux dei Indra.)
 
 ::: media
-![](/images/lekt0301.jpg)
+![](/images/lekt0301.webp)
 Fig.: Indra et Indrāṇī super elephantem Airavata, miniatura, Rājasthān, 1670/80
 (Fons imaginis: [Detalia](/la/licenses#lekt0301))
 :::
@@ -194,7 +194,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sunt bisquignati" = द्
 **devī** f. = देवी : dea, praecipue Durgā f. = दुर्गा, uxor Śiva's = शिव.
 
 ::: media
-![](/images/lekt0303.jpg)
+![](/images/lekt0303.webp)
 Fig.: Durgā = दुर्गा, Orissa
 (Fons imaginis: [Detalia](/images/lekt0303))
 :::

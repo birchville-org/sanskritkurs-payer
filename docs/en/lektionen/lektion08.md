@@ -102,7 +102,7 @@ In traditional Indian grammar, a distinction is made among the suffixes used to 
 | **dṛś** 4 P[[br]]दृश्[[br]]"to see" | **darśana** n.[[br]]दर्शन | "seeing, viewpoint, philosophical system, appearance, specifically: Darśan" |
 
 ::: media
-![](/images/lekt0801.jpg)
+![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Image source: [Details](/en/licenses#lekt0801))
 :::

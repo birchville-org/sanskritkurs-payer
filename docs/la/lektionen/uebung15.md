@@ -71,7 +71,7 @@ B) Composita Tatpuruṣa solvite:
 २६. श्रुत्युदितम् । श्रुत्योदितम् । श्रुतेरुदितम् — a Veda dictum / praescriptum
 
 ::: media
-![](/images/uebung014.jpg)
+![](/images/uebung014.webp)
 Abb.: जलेश्वरो वरुणः
 (Fons imaginis: [Detalia](/licenses#uebung014))
 :::
@@ -143,7 +143,7 @@ Solvite composita sequentia ut Tatpuruṣa in Sanscrito et Germanicam interpreta
 ३०. सत्यवदनम् । स्त्यस्य वदनम् — oratio veritatis, loquela veritatis
 
 ::: media
-![](/images/uebung016.jpg)
+![](/images/uebung016.webp)
 Fig.: गृहकरणम्
 (Fons imaginis: [Detalia](/licenses#uebung016))
 :::

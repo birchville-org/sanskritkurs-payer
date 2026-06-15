@@ -68,7 +68,7 @@ Buddhas e Arhants èn liberads dal dolur. El avain atgnamain cuntanschì la visi
 Per avidad, odis e stulteza perdan umans. Sche il temp è vegnì, tschentan els en in infern.
 
 ::: media
-![](/images/uebung040.jpg)
+![](/images/uebung040.webp)
 Abb.: लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति
 (Sursa da l’imagine: [Detagl](/licenses#uebung040))
 :::
@@ -120,7 +120,7 @@ Sche ina persuna per superbia, avidad, collera u tema in fals giudicà, alura ve
 Inferns naschan per il mal, mal nascha da la paupertad, paupertad nascha da betg donar.
 
 ::: media
-![](/images/uebung041.jpg)
+![](/images/uebung041.webp)
 Abb.: भवन्ति नरकाः पापात्
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung041))
 :::
@@ -137,7 +137,7 @@ In lad vegn liberà da la culpa dal ladainà per chastiar u per liberar. Sche el
 L'economia è utile, perché produce cereali, bestiame, oro, metalli e lavoro.
 
 ::: media
-![](/images/uebung042.jpg)
+![](/images/uebung042.webp)
 Abb.: वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी
 (Fonte dell'immagine: [Dettagli](/licenses#uebung042))
 :::

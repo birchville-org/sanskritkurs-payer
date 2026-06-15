@@ -143,7 +143,7 @@ D) Translate:
 The duty of all is: non-violence, truthfulness, purity, not murmuring about one's lot, freedom from malice, and patient forbearance.
 
 ::: media
-![](/images/uebung028.jpg)
+![](/images/uebung028.webp)
 Fig.: दुर्गमो मार्गः
 (Image source: [Details](/en/licenses#uebung028))
 :::

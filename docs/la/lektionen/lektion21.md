@@ -122,7 +122,7 @@ Notate aequationem **यजन्ति** (Nom. pl. Neutrum) cum 3. pl. P.!
 :::
 
 ::: media
-![](/images/lekt2101.jpg)
+![](/images/lekt2101.webp)
 Fig.: सती-tabula memoriae
 सती-tabula memoriae in palatio Iodhpuriensis - जोधपुर / Rajasthan - राजस्थान
 (Fons imaginis: [Detalia](/la/licenses#lekt2101))
@@ -194,7 +194,7 @@ Fig.: सती-tabula memoriae
 ::::
 
 ::: media
-![](/images/lekt2102.jpg)
+![](/images/lekt2102.webp)
 Fig.: महादेवो विष्णुः
 "Sigillum e sardonyce, IV-VI saec. p.C., Vishnum cum devoto repraesentans. Inscriptio Bactriana cursiva: 'Mihira, Vishnu et Shiva'."
 (Fons imaginis: [Detalia](/la/licenses#lekt2102))
@@ -276,7 +276,7 @@ unde:
 :::
 
 ::: media
-![](/images/lekt2103.jpg)
+![](/images/lekt2103.webp)
 Fig.: भगवान्कृष्णः
 भगवान्कृष्णः ut जगन्नाथ (ad dextram) cum sorore media सुभद्रा (in medio) et fratre maiore बलराम, Orissa = ଓଡ଼ିଶा
 (Fons imaginis: [Detalia](/la/licenses#lekt2103))
@@ -287,7 +287,7 @@ Fig.: भगवान्कृष्णः
 :::
 
 ::: media
-![](/images/lekt2105.jpg)
+![](/images/lekt2105.webp)
 Fig.: भगवद्गीता
 भगवद्गीता - Codex, saec. 19.
 (Fons imaginis: [Detalia](/la/licenses#lekt2105))
@@ -304,7 +304,7 @@ unde:
 :::
 
 ::: media
-![](/images/lekt2104.jpg)
+![](/images/lekt2104.webp)
 Fig.: भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Fons imaginis: [Detalia](/la/licenses#lekt2104))

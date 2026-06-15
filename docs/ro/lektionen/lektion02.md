@@ -160,7 +160,7 @@ Conform teoriei clasice (de ex. Manusmṛti I, 88-91), sarcinile sunt distribuit
 Cele patru caste (**varṇa** m.) sunt adesea confundate cu castele. Dar cele patru caste, spre deosebire de caste, nu sunt ceva specific indienilor; și în Europa am avut (parțial până la Primul Război Mondial) o ordine de caste, așa cum atestă următoarea imagine din secolul al XV-lea:
 
 ::: media
-![](/images/lekt0201.jpg)
+![](/images/lekt0201.webp)
 Fig.: Reprezentarea diviziunii pe caste a Europei medievale (gravură pe lemn din sfârșitul secolului al XV-lea).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0201))
 :::
@@ -212,7 +212,7 @@ Fig.: Zeul Agni, miniatură, sec. al XVIII-lea.
 **sādhu** m. -- साधु: om »sfânt«, Sādhu.
 
 ::: media
-![](/images/lekt0202.jpg)
+![](/images/lekt0202.webp)
 Fig.: Sādhu (साधु), Templul Pashupatinath, Kathmandu.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0202))
 :::

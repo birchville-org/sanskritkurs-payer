@@ -2,7 +2,7 @@
 
 சொல் தொடக்கத்திற்கான உயிரெழுத்துக் குறிகள், அந்தச் சொல் முந்தைய சொல்லுடன் எழுத்தில் இணைக்கப்படாத நிலையில்:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 வாக்கிய சந்தி விதிகளின்படி நீக்கப்படும் (எ.கா. -as + a- » -o ' ) தொடக்க -a, அக்ரஹ (Avagraha) எனப்படும் குறியீடு மூலம் குறிக்கப்படும்:
 

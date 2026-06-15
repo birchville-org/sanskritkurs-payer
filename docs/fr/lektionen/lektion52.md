@@ -91,7 +91,7 @@ par ex. अन्नमय n. "abondance de nourriture"
 :::
 
 ::: media
-![](/images/lekt5202.jpg)
+![](/images/lekt5202.webp)
 Fig. : अन्नमयम्
 (Source de l'image : [Détails](/fr/licenses#lekt5202))
 :::
@@ -110,7 +110,7 @@ p. ex. कौन्तेय m. "Fils de कुन्ती"
 :::
 
 ::: media
-![](/images/lekt5203.jpg)
+![](/images/lekt5203.webp)
 Fig. : भीमः कौन्तेयः
 (Source de l'image : [Détails](/fr/licenses#lekt5203))
 :::
@@ -133,7 +133,7 @@ Fig. : भीमः कौन्तेयः
     नित्यशस् "constamment"
 :::
 ::: media
-![](/images/lekt5204.jpg)
+![](/images/lekt5204.webp)
 Fig. : अनुक्रमेणैकशः
 (Source de l'image : [Détails](/fr/licenses#lekt5204))
 :::
@@ -177,7 +177,7 @@ La terminaison du nom est traitée comme suit :
     Par ex. तिर्यक्करोति "il se couche de côté (तिर्यच्)"
 :::
 ::: media
-![](/images/lekt5209.jpg)
+![](/images/lekt5209.webp)
 Fig. : भस्मीकृतं वनम्
 (Source de l'image : [Détails](/fr/licenses#lekt5209))
 :::
@@ -388,7 +388,7 @@ Exemple :
 :::
 
 ::: media
-![](/images/lekt5205.jpg)
+![](/images/lekt5205.webp)
 Fig. : चतुर्मुखः
 (Source de l'image : [Détails](/fr/licenses#lekt5205))
 :::
@@ -423,7 +423,7 @@ La Grande Ourse = les sept étoiles les plus brillantes de la Grande Ourse (Ursa
     pañca + go » pañcagava (invalide comme mot isolé !) + dhana » पञ्चगवधन m. "celui dont la richesse est de cinq vaches"
 :::
 ::: media
-![](/images/lekt5207.jpg)
+![](/images/lekt5207.webp)
 Fig. : षण्मातुरः कार्त्तिकेय :
 Jalakandapuram = ஜலகண்டபுரம்
 (Source de l'image : [Détails](/fr/licenses#lekt5207))
@@ -468,7 +468,7 @@ de :
 :::
 
 ::: media
-![](/images/lekt5210.jpg)
+![](/images/lekt5210.webp)
 Fig. : खिलः
 Tambhol, Akole, Ahmednagar = अहमदनगर
 (Source de l'image : [Détails](/fr/licenses#lekt5210))
@@ -502,7 +502,7 @@ PPP विपरीत 3 : inversé, faux
 पीड् 10P पीडयति : presser, tourmenter ; opprimer, assièger, tourmenter
 
 ::: media
-![](/images/lekt5212.jpg)
+![](/images/lekt5212.webp)
 Fig. : पीडिताः
 Hyderabad = హైదరాబాద్
 (Source de l'image : [Détails](/fr/licenses#lekt5212))
@@ -520,7 +520,7 @@ dont :
 प्रधान 3 : principal, meilleur ; n. : l'essentiel
 
 ::: media
-![](/images/lekt5213.jpg)
+![](/images/lekt5213.webp)
 Fig. : प्रधानः
 मुंबई
 (Source de l'image : [Détails](/fr/licenses#lekt5213))
@@ -630,7 +630,7 @@ PPP च्युत
 चक्र n. : roue
 
 ::: media
-![](/images/lekt5214.jpg)
+![](/images/lekt5214.webp)
 Fig. : चक्रम्
 Konark = कोनार्क
 (Source de l'image : [Détails](/fr/licenses#lekt5214))
@@ -638,7 +638,7 @@ Konark = कोनार्क
 कदली f. : bananier (_Musa_ sp.)
 
 ::: media
-![](/images/lekt5208.jpg)
+![](/images/lekt5208.webp)
 Fig. : कदली
 Hampi = ಹಂಪೆ
 (Source de l'image : [Détails](/fr/licenses#lekt5208))
@@ -654,7 +654,7 @@ Hampi = ಹಂಪೆ
 मल m.n. : saleté, défaut
 
 ::: media
-![](/images/lekt5215.jpg)
+![](/images/lekt5215.webp)
 Fig. : मलम्
 मुंबई
 (Source de l'image : [Détails](/fr/licenses#lekt5215))
@@ -664,7 +664,7 @@ Fig. : मलम्
 मार m. : le mal personnifié, la séduction/manipulation personnifiée, le diable
 
 ::: media
-![](/images/lekt5217.jpg)
+![](/images/lekt5217.webp)
 Fig. :
 Amaravati = అమరావతి, 2e siècle apr. J.-C.
 (Source de l'image : [Détails](/fr/licenses#lekt5217))
@@ -731,7 +731,7 @@ Explications :
 ४. अश्वघोष (2e s. ap. J.-C.) : बुद्धचरित ४ La connaissance salvatrice de Bouddha
 
 ::: media
-![](/images/lekt5216.jpg)
+![](/images/lekt5216.webp)
 Fig. : अश्वत्थो महाबोधिवृक्षः
 _Ficus religiosa_ L. बोधगया, vers 1810
 (Source de l'image : [Détails](/fr/licenses#lekt5216))
@@ -814,7 +814,7 @@ Pendant les vacances semestrielles, les tâches suivantes doivent être accompli
      **Winternitz, Moriz &lt;1863 - 1937&gt;:** Histoire de la littérature indienne. Stuttgart : Koehler. -- 3 vol. -- 1908 - 1922 (toujours de loin la meilleure histoire littéraire de la littérature sanskrite, pali et prakrite)
 
 ::: media
-![](/images/lekt5201.jpg)
+![](/images/lekt5201.webp)
 Fig. : श्रीगुम्पिः , मम मन्त्री
 (Image : Payer)
 (Source de l'image : [Détails](/fr/licenses#lekt5201))

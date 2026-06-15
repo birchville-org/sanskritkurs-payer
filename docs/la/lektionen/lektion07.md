@@ -235,7 +235,7 @@ Praesens quintae classis praesentem athematicam radicem constituit, id est, prae
 - **su** 5 U (sunoti) सु सुनोति : preme, exprimere
 - **soma** m. सोम : potio expressa, Soma; Luna (Ex qua planta Soma expressum sit, usque ad hodiernum diem controversum est).
 ::: media
-![](/images/lekt0701.jpg)
+![](/images/lekt0701.webp)
 Fig.: An haec fuerit planta Soma vedica?: Fungus muscarium: *Amanita muscaria* (L.) Lam.
 (Fons imaginis: [Detalia](/la/licenses#lekt0701))
 :::
@@ -258,7 +258,7 @@ Fig.: An haec fuerit planta Soma vedica?: Fungus muscarium: *Amanita muscaria* (
    ब्राह्मणस् ... यजति (देव, देवी, विष्णु, अग्नि, देवता)
 
 ::: media
-![](/images/lekt0704.jpg)
+![](/images/lekt0704.webp)
 Fig.: Viṣṇu = विष्णु, saec. VIII/IX.
 (Fons imaginis: [Detalia](/la/licenses#lekt0704))
 :::
@@ -299,7 +299,7 @@ Fig.: Viṣṇu = विष्णु, saec. VIII/IX.
    यजति |
 
 ::: media
-![](/images/lekt0702.jpg)
+![](/images/lekt0702.webp)
 Fig.: **yajati** = यजति — Sacrificium Vedicum = **yajña** m. = यज्ञ
 (Fons imaginis: [Detalia](/la/licenses#lekt0702))
 :::
@@ -321,7 +321,7 @@ Fig.: **yajati** = यजति — Sacrificium Vedicum = **yajña** m. = यज
 8. Cui deo iste Brahman sacrificat?
 
 ::: media
-![](/images/lekt0703.jpg)
+![](/images/lekt0703.webp)
 Fig.: Cui deo hic sacrificatur? Responsio: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
 (Fons imaginis: [Detalia](/la/licenses#lekt0703))
 :::

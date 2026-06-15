@@ -232,7 +232,7 @@ status: stable
 13. (குறிப்பிடப்பட்ட) பிராமணர் நடனமாடுகிறார்.
 
 ::: media
-![](/images/lekt0601.jpg)
+![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 சிவ நட்டராஜா (नटराज), கடவுள் இந்தியக் கோவில், கவாய், ஹவாய்
 (படம் மூலம்: விக்கிப்பீடியா, CC-BY-SA 2.5)
@@ -312,7 +312,7 @@ status: stable
 3. Mīnākṣī ist eine Göttin.
 
 ::: media
-![](/images/lekt0602.jpg)
+![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Mīnākṣī-Tempel, Madurai, Tamil Nadu
 (Bildquelle: Wikipedia, Public domain)
 :::

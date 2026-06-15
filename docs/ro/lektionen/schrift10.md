@@ -20,9 +20,9 @@ Excepții: Dacă म्, respectiv य् sunt al doilea element al ligaturii, a
 
 Exemple (excepțiile sunt subliniate):
 
-![](/images/schrift021.jpg)
+![](/images/schrift021.webp)
 
-![](/images/schrift022.jpg)
+![](/images/schrift022.webp)
 
 ### Exercițiu
 
@@ -32,9 +32,9 @@ Scrieți toate ligaturile menționate mai sus
 
 ![](/images/schrift023.jpg)
 
-![](/images/schrift024.jpg)
+![](/images/schrift024.webp)
 
-![](/images/schrift025.jpg)
+![](/images/schrift025.webp)
 
 ### Exercițiu
 

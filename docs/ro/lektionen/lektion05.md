@@ -107,7 +107,7 @@ Exemple de Pluraldvandva:
 **kāma** m. = काम : dorință, poftă, dar dorit, plăcere senzorială, iubire; zeul iubirii Kāma.
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 Fig.: zeul Kāma = kāmadeva = कामदेव, sec. al XVIII-lea
 (Sursa imaginii: Wikipedia, Domeniu public)
 :::

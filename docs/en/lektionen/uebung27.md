@@ -67,7 +67,7 @@ As the Brahmin woman arrives at the great poet, her son also arrives.
 When the teachers teach, well-bred children must not chatter (speak).
 
 ::: media
-![](/images/uebung044.jpg)
+![](/images/uebung044.webp)
 Fig.: गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति
 (Image source: [Details](/en/licenses#uebung044))
 :::

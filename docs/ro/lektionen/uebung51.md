@@ -73,7 +73,7 @@ Gândirile papagalului **वैशम्पायन** despre viața de vânăto
 > Și mi-a devenit clar: Oh, viața lor [a vânătorilor] constă în principal din neștiință, iar comportamentul lor este criticat de cei buni. Astfel: Ei consideră că sacrificiul de carne de oameni este religia corectă; hrana lor constă în vin de miere, carne și alte lucruri criticate de cei buni; efortul lor este vânătoarea; învățăturile lor sunt lătratul șacalilor; bufnițele sunt profesorii lor de bine și rău; înțelepciunea lor este cunoașterea păsărilor; prietenii lor sunt câinii; regatul lor este în pădurile goale; sărbătoarea lor este beția; prietenii lor sunt arcurile, care săvârșesc fapte crude; tovarășii lor sunt săgețile, vârfurile cărora sunt unse cu venin ca al șerpilor; cântecul lor aduce pierdere vânatului confuz; femeile lor sunt fetele tinere răpite de alții; locuiesc împreună cu tigrii cruzi; cu sângele animalelor, ei onorează zeii; ei oferă carne ca ofrandă; trăiesc din pradă; bijuteriile lor sunt pietre prețioase de șarpe; ei își freacă membrele cu sucul de estrus al elefanților de pădure; ei rădăcină complet fiecare pădure în care se instalează – În timp ce mă gândeam așa, generalul Śabara a intrat la mine.
 
 ::: media
-![](/images/uebung086.jpg)
+![](/images/uebung086.webp)
 Fig.: Vânător
 (Sursa imaginii: [Detalii](/licenses#uebung086))
 :::

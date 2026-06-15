@@ -49,7 +49,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: медіа
-![](/images/uebung092.jpg)
+![](/images/uebung092.webp)
 Рис.: अशोभथाः । अशुभः
 (Джерело зображення: [Деталі](/uk/licenses#uebung092))
 :::

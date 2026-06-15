@@ -94,7 +94,7 @@ Formas sequentes determinare et scribere, atque formas correspondentes aoristi a
 32.  सिष्णेह
 
 ::: media
-![](/images/lekt5501.jpg)
+![](/images/lekt5501.webp)
 Fig.: अजीर्यमिति
 'Inâyat Khân moriens, descriptio pro miniatura codicis manuscrupti pro Jahângîr = جهانگير, circa 1618
 (Fons imaginis: [Detalia](/la/licenses#lekt5501))

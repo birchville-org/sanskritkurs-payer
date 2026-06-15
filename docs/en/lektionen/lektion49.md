@@ -185,7 +185,7 @@ Examples:
 Nouns on -is and -us are relatively rare.
 
 ::: media
-![](/images/lekt4907.jpg)
+![](/images/lekt4907.webp)
 Fig.: नमस्ते
 (Image source: [Details](/en/licenses#lekt4907))
 :::
@@ -248,7 +248,7 @@ Inf. द्रोग्धुम्
 कुलूहल n.: curiosity, interest
 
 ::: media
-![](/images/lekt4901.jpg)
+![](/images/lekt4901.webp)
 Fig.: कुलूहलम्
 (Image source: [Details](/en/licenses#lekt4901))
 :::
@@ -259,7 +259,7 @@ Fig.: कुलूहलम्
 कला f.: art
 
 ::: media
-![](/images/lekt4902.jpg)
+![](/images/lekt4902.webp)
 Fig.: उत्तमा काला
 शिवो नटराजा, 11th cent.
 (Image source: [Details](/en/licenses#lekt4902))
@@ -278,7 +278,7 @@ Fig.: विहंगः
 वेष m.: garment, appearance, exterior
 
 ::: media
-![](/images/lekt4904.jpg)
+![](/images/lekt4904.webp)
 Fig.: वेषः
 वाराणस्याम्
 (Image source: [Details](/en/licenses#lekt4904))
@@ -288,7 +288,7 @@ Fig.: वेषः
 पञ्जर n.: cage
 
 ::: media
-![](/images/lekt4909.jpg)
+![](/images/lekt4909.webp)
 Fig.: पञ्जरम्
 Fortune teller with parrot in cage: the parrot draws slips of paper on which fate is written Mysore
 (Image source: [Details](/en/licenses#lekt4909))
@@ -316,7 +316,7 @@ Gerundive ध्येय
 आदर m.: consideration, attention, respect
 
 ::: media
-![](/images/lekt4905.jpg)
+![](/images/lekt4905.webp)
 Fig.: सादरः
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Image source: [Details](/en/licenses#lekt4905))
@@ -328,7 +328,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 शिशु m.: child, young
 
 ::: media
-![](/images/lekt4906.jpg)
+![](/images/lekt4906.webp)
 Fig.: गजशिशुः
 Sri Lanka
 (Image source: [Details](/en/licenses#lekt4906))
@@ -389,7 +389,7 @@ Questions of King शूद्रक of विदिशा to the Parrot वै�
 वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥
 
 ::: media
-![](/images/lekt4908.jpg)
+![](/images/lekt4908.webp)
 Fig.: शुकः
 Plum-headed parakeet = Psittacula cyanocephala
 (Image source: [Details](/en/licenses#lekt4908))

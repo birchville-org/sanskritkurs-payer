@@ -56,7 +56,7 @@ A) For reviewing declension: The following verse contains all declension forms i
 > A family in which the husband is always content with the wife, and the wife with the husband, in such a family, happiness is assured.
 
 ::: media
-![](/images/uebung081.jpg)
+![](/images/uebung081.webp)
 Fig.: संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च । यस्मिन्नेव कुले नित्यम् कल्याणं तत्र वै ध्रुवम् ॥
 (Image source: [Details](/en/licenses#uebung081))
 :::
@@ -78,7 +78,7 @@ Fig.: संतुष्टो भार्यया भर्ता भर्�
 > One should always engage in the study of the Vedas and in the rituals for the gods. For one who engages in the rituals for the gods obtains this world of the living and the non-living. The sacrifice that is properly cast into the fire goes to the sun; from the sun rain arises; from rain food; from that, creatures.
 
 ::: media
-![](/images/uebung082.jpg)
+![](/images/uebung082.webp)
 Fig.: दैवे कर्मणि युक्तो हि बिभर्तीदं चराचरम् ॥
 (Image source: [Details](/en/licenses#uebung082))
 :::

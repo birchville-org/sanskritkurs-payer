@@ -185,7 +185,7 @@ status: ਸਥਿਰ
 -is ਅਤੇ -us 'ਤੇ ਨਾਮਵਾਚਕ ਬਹੁਤ ਘੱਟ ਹਨ।
 
 ::: media
-![](/images/lekt4907.jpg)
+![](/images/lekt4907.webp)
 ਚਿੱਤਰ: नमस्ते
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4907))
 :::
@@ -248,7 +248,7 @@ Inf. द्रोग्धुम्
 कुलूहल n.: ਦਿਲਚਸਪੀ, ਰੁਚੀ
 
 ::: media
-![](/images/lekt4901.jpg)
+![](/images/lekt4901.webp)
 Abb.: कुलूहलम्
 (Bildquelle: [Details](/pa/licenses#lekt4901))
 :::
@@ -259,7 +259,7 @@ Abb.: कुलूहलम्
 कला f.: ਕਲਾ
 
 ::: media
-![](/images/lekt4902.jpg)
+![](/images/lekt4902.webp)
 Abb.: उत्तमा काला
 शिवो नटराजा, 11. ਸਦੀ
 (Bildquelle: [Details](/pa/licenses#lekt4902))
@@ -278,7 +278,7 @@ Abb.: विहंगः
 वेष m.: ਕੱਪੜਾ, ਦਿੱਖ, ਬਾਹਰੀ ਰੂਪ
 
 ::: media
-![](/images/lekt4904.jpg)
+![](/images/lekt4904.webp)
 Abb.: वेषः
 वाराणस्याम्
 (Bildquelle: [Details](/pa/licenses#lekt4904))
@@ -288,7 +288,7 @@ Abb.: वेषः
 पञ्जर n.: ਪੰਜਰ
 
 ::: media
-![](/images/lekt4909.jpg)
+![](/images/lekt4909.webp)
 Abb.: पञ्जरम्
 ਭਵਿੱਖਬਾਣੀ ਕਰਨ ਵਾਲਾ ਤੋਤਾ ਪੰਜਰ ਵਿੱਚ: ਤੋਤਾ ਛੋਟੇ ਕਾਗਜ਼ ਖਿੱਚਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਉੱਤੇ ਭਾਗ्य ਲਿਖਿਆ ਹੁੰਦਾ ਹੈ, ਮਈਸੋਰ
 (Bildquelle: [Details](/pa/licenses#lekt4909))
@@ -316,7 +316,7 @@ Gerundiv ध्येय
 आदर m.: ਸਨਮਾਨ, ਧਿਆਨ, ਸਤਿਕਾਰ
 
 ::: media
-![](/images/lekt4905.jpg)
+![](/images/lekt4905.webp)
 Abb.: सादरः
 ਅੰਮ੍ਰਿਤਸਰ = ਅੰਮ੍ਰਿਤਸਰ
 (Bildquelle: [Details](/pa/licenses#lekt4905))
@@ -328,7 +328,7 @@ Abb.: सादरः
 शिशु m.: ਬੱਚਾ, ਬੱਚਾ
 
 ::: media
-![](/images/lekt4906.jpg)
+![](/images/lekt4906.webp)
 Abb.: गजशिशुः
 ਸ੍ਰੀ ਲੰਕਾ
 (Bildquelle: [Details](/pa/licenses#lekt4906))
@@ -389,7 +389,7 @@ Abb.: गजशिशुः
 वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥
 
 ::: media
-![](/images/lekt4908.jpg)
+![](/images/lekt4908.webp)
 ਚਿੱਤਰ: शुकः
 ਸ਼ੇਰਪਾਰਾ ਤੋਤਾ = Psittacula cyanocephala
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4908))

@@ -69,7 +69,7 @@ status: stable
   - **vadana** नपुं. ⟪वदन⟫ : बोलना; बोलने का उपकरण: मुंह, चेहरा
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 अभ.: **vadanāni** = ⟪वदनानि⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1102))
 :::
@@ -106,7 +106,7 @@ status: stable
 **ड) क) में बनाए गए वाक्यों के लिए कर्मणि प्रयोग बनाएं।**
 
 ::: media
-![](/images/lekt1101.jpg)
+![](/images/lekt1101.webp)
 अभ.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1101))
 :::
@@ -149,7 +149,7 @@ status: stable
 **ए) वाक्यों क) 1-5 ⟪को⟫ सक्रिय वाक्य रचनाओं में बदलें।**
 
 ::: media
-![](/images/lekt1103.jpg)
+![](/images/lekt1103.webp)
 अभ.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1103))
 :::

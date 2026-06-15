@@ -45,7 +45,7 @@ status: stable
 | **3. प्रथमः** | नृत्यतस् | नृत्येते् |
 
 ::: media
-![](/images/lekt5802.jpg)
+![](/images/lekt5802.webp)
 படம்: नृत्यतः
 ओडिसी
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5802))
@@ -76,7 +76,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5803.jpg)
+![](/images/lekt5803.webp)
 படம்: वानरौ रथाद्भाण्डानि चोरयतः
 பாண்டிபுர் தேசிய பூங்கா -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5803))
@@ -154,7 +154,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5806.jpg)
+![](/images/lekt5806.webp)
 சு: उष्ट्रौ मरावितः
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5806))
 :::
@@ -169,7 +169,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5804.jpg)
+![](/images/lekt5804.webp)
 சு: कन्ये अधीयते
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5804))
 :::
@@ -196,7 +196,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5805.jpg)
+![](/images/lekt5805.webp)
 சு: भगिन्यौ स्वः
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5805))
 :::
@@ -234,7 +234,7 @@ status: stable
 | **3. प्रथमः** | सुनुतस् | सुन्वाते |
 
 ::: media
-![](/images/lekt5807.jpg)
+![](/images/lekt5807.webp)
 படம்: शर्कराम्बु सुनुतः
 पुणेनगरे
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5807))
@@ -295,7 +295,7 @@ status: stable
 | **3. प्रथमः** | क्रीणीतस् | क्रीणाते |
 
 ::: media
-![](/images/lekt5801.jpg)
+![](/images/lekt5801.webp)
 படம்: स्त्रियौ शाकं क्रीणाते
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt5801))
 :::
@@ -404,7 +404,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5808.jpg)
+![](/images/lekt5808.webp)
 வரைபடம்: दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt5808))
 :::

@@ -410,23 +410,23 @@ PPP गृ***ही***त
 
 > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Въведение и преглед. -- 10. Сакраменти и преходни ритуали (samskara). -- Приложение C: Раху и Кету, невидимите странстващи звезди . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 Илл.: [सूर्यः, चन्द्रः, मङ्गलः](/bg/licenses#lekt4602)
 (Източник на изображението: [Подробности](/bg/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 Илл.: [बुधः, बृहस्पतिः](/bg/licenses#lekt4603)
 (Източник на изображението: [Подробности](/bg/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 Илл.: [शुक्रः, शनिः](/bg/licenses#lekt4604)
 (Източник на изображението: [Подробности](/bg/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 Илл.: [राहुः, केतुः](/bg/licenses#lekt4605)
 (Източник на изображението: [Подробности](/bg/licenses#lekt4605))
 :::
@@ -455,7 +455,7 @@ PPP नत
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 Илл.: [नारायण तुभ्यं नमामि](/bg/licenses#lekt4607)
 (Източник на изображението: [Подробности](/bg/licenses#lekt4607))
 :::
@@ -473,7 +473,7 @@ PPP. ***रूढ***
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 Илл.: [अश्वरोहकः](/bg/licenses#lekt4606)
 (Източник на изображението: [Подробности](/bg/licenses#lekt4606))
 :::
@@ -492,7 +492,7 @@ PPP हूत
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 Илл.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/bg/licenses#lekt4608)
 (Източник на изображението: [Подробности](/bg/licenses#lekt4608))
 :::
@@ -521,7 +521,7 @@ PPP ***श्रान्***त
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 Ил.: [श्रान्तः](/bg/licenses#lekt4609)
 (Източник на изображението: [Подробности](/bg/licenses#lekt4609))
 :::
@@ -552,7 +552,7 @@ PPP सक्त
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 Ил.: [सङ्गः](/bg/licenses#lekt4610)
 (Източник на изображението: [Подробности](/bg/licenses#lekt4610))
 :::
@@ -620,7 +620,7 @@ PPP परिभूत 3: победен, унижен, принизен
 भोस् Вокативна частица: извикване за обръщение, напр.: ехей, хей, о, ей, здравей, хай! често не се превежда. Тази частица има специален сандхи: пред всички звънки звуци, той е ***भो***.
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 Ил.: [भोः](/bg/licenses#lekt4611)
 (Източник на изображението: [Подробности](/bg/licenses#lekt4611))
 :::
@@ -696,7 +696,7 @@ B) Преведете:
 नास्ति बुद्धिरयुक्तस्य ॥३॥
 
 ::: media
-![](/images/lekt4612.jpg)
+![](/images/lekt4612.webp)
 Ил.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/bg/licenses#lekt4612)
 (Източник на изображението: [Подробности](/bg/licenses#lekt4612))
 :::

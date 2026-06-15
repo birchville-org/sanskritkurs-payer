@@ -122,7 +122,7 @@ Ejemplos:
 :::
 
 ::: media
-![](/images/lekt2101.jpg)
+![](/images/lekt2101.webp)
 Fig.: सती-placa conmemorativa
 Placa conmemorativa de सती en el palacio de Jodhpur - जोधपुर / Rajasthan - राजस्थान
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2101))
@@ -194,7 +194,7 @@ Placa conmemorativa de सती en el palacio de Jodhpur - जोधपुर /
 ::::
 
 ::: media
-![](/images/lekt2102.jpg)
+![](/images/lekt2102.webp)
 Fig.: महादेवो विष्णुः
 "Sello de sardónica del siglo IV-VI d.C. que representa a Vishnu con un devoto. La inscripción en bactriano cursivo dice: "Mihira, Vishnu y Shiva".
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2102))
@@ -276,7 +276,7 @@ de ello:
 :::
 
 ::: media
-![](/images/lekt2103.jpg)
+![](/images/lekt2103.webp)
 Fig.: भगवान्कृष्णः
 भगवान्कृष्णः como जगन्नाथ (derecha) con su media hermana सुभद्रा (centro) y su hermano mayor बलराम, Orissa = ଓଡ଼ିଶा
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2103))
@@ -287,7 +287,7 @@ Fig.: भगवान्कृष्णः
 :::
 
 ::: media
-![](/images/lekt2105.jpg)
+![](/images/lekt2105.webp)
 Fig.: भगवद्गीता
 भगवद्गीता - Manuscrito, siglo XIX.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2105))
@@ -304,7 +304,7 @@ de ello:
 :::
 
 ::: media
-![](/images/lekt2104.jpg)
+![](/images/lekt2104.webp)
 Fig.: भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2104))

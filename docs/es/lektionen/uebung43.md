@@ -68,7 +68,7 @@ A) Forme la **segunda persona** correspondiente en tiempo, número, modo, etc. d
 :::
 
 ::: media
-![](/images/uebung070.jpg)
+![](/images/uebung070.webp)
 Fig.: दिशसि
 (Fuente de la imagen: [Detalles](/licenses#uebung070))
 :::

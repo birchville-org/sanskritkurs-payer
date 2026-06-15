@@ -312,7 +312,7 @@ quod inde:
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 Fig.: घाताः
 Bangalore = ಬೆಂಗಳೂರು
 (Fons imaginis: [Detalia](/la/licenses#lekt1703))
@@ -328,7 +328,7 @@ quod inde:
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 Fig.: योगासनम्
 (Fons imaginis: [Detalia](/la/licenses#lekt1701))
 :::
@@ -347,7 +347,7 @@ quod inde:
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : mulgere
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 Fig.: दोग्धि
 (Fons imaginis: [Detalia](/la/licenses#lekt1702))
 :::

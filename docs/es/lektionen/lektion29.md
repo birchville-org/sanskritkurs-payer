@@ -73,7 +73,7 @@ Inf. ग्रसितुम्
 परिव्राजक m.: vagabundo, monje errante, peregrino
 
 ::: media
-![](/images/lekt2903.jpg)
+![](/images/lekt2903.webp)
 Fig.: परिव्राजकाः
 Pushkar = पुष्कर
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2903))
@@ -93,7 +93,7 @@ de ello:
 :::
 
 ::: media
-![](/images/lekt2901.jpg)
+![](/images/lekt2901.webp)
 Fig.: मत्स्यः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2901))
 :::

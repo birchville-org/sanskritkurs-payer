@@ -120,7 +120,7 @@ PPP चित
 Inf. चेतुम्
 :::
 ::: media
-![](/images/lekt3601.jpg)
+![](/images/lekt3601.webp)
 Fig.: गोमयं चिकाय
 (Fons imaginis: [Detalia](/la/licenses#lekt3601))
 :::
@@ -140,7 +140,7 @@ Inf. व्रजितुम्
 अगार n.। आगार n.: domus, patria
 
 ::: media
-![](/images/lekt3602.jpg)
+![](/images/lekt3602.webp)
 Fig.: अगारम्
 (Fons imaginis: [Detalia](/la/licenses#lekt3602))
 :::
@@ -152,7 +152,7 @@ unde:
 :::
 
 ::: media
-![](/images/lekt3603.jpg)
+![](/images/lekt3603.webp)
 Fig.: अनगार्यम्
 (Fons imaginis: [Detalia](/la/licenses#lekt3603))
 :::
@@ -235,7 +235,7 @@ Inf. स्पर्ष्तुम् । स्प्रष्तुम्
 Absol. -स्पृश्य
 :::
 ::: media
-![](/images/lekt3606.jpg)
+![](/images/lekt3606.webp)
 Fig.: सुगतो भूमीं पस्पर्श
 (Fons imaginis: [Detalia](/la/licenses#lekt3606))
 :::
@@ -250,7 +250,7 @@ Kaus. हर्षयति
 PPP हृषित
 :::
 ::: media
-![](/images/lekt3604.jpg)
+![](/images/lekt3604.webp)
 Fig.: लोमहर्षः
 (Fons imaginis: [Detalia](/la/licenses#lekt3604))
 :::
@@ -294,7 +294,7 @@ D) Vertite:
 पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज । बुद्ध्यार्यसत्यानि प्रज्ञाय प्रज्ञया च दुःखान्मुक्तो मोक्तुकामार्यजनान्बोधयामासेति भिक्षव आहुः ॥१॥
 
 ::: media
-![](/images/lekt3605.jpg)
+![](/images/lekt3605.webp)
 Tab.: पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज
 (Fons imaginis: [Detalia](/la/licenses#lekt3605))
 :::
@@ -450,7 +450,7 @@ Explanationes:
 :::
 
 ::: media
-![](/images/lekt3607.jpg)
+![](/images/lekt3607.webp)
 Fig.: येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।
 (Fons imaginis: [Detalia](/la/licenses#lekt3607))
 ::: 

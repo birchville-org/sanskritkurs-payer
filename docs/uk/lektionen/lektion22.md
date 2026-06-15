@@ -156,7 +156,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 Рис.: कामदेवः
 19 ст.
 (Джерело зображення: [Деталі](/uk/licenses#lekt2202))
@@ -174,7 +174,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 Рис.: दुर्गाशक्तिः
 Калькутта = কলকাতা
 (Джерело зображення: [Деталі](/uk/licenses#lekt2203))
@@ -204,7 +204,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 Рис.: धेनवश्चरन्ति
 Гоа = गोंय
 (Джерело зображення: [Деталі](/uk/licenses#lekt2201))
@@ -276,7 +276,7 @@ status: stable
 **C) Утворіть з наведених вище речень (крім речень 8 та 10) пасивні конструкції**
 
 ::: media
-![](/images/lekt2204.jpg)
+![](/images/lekt2204.webp)
 Рис.: अन्नं पक्त्वा
 (Джерело зображення: [Деталі](/uk/licenses#lekt2204))
 :::

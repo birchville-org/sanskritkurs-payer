@@ -49,7 +49,7 @@ kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 B) Formez des questions pour l'exercice de lecture suivant selon le modèle etat kim (एतत्किम्) et répondez aux questions avec les mots indiqués et les pronoms démonstratifs par exemple eṣa bālaḥ (एष बालः) :
 
 ::: media
-![](/images/lekt0401.jpg)
+![](/images/lekt0401.webp)
 Fig. : एष कः । एष गजः । अयं गजः । स गजः । एषा का । एषा बाला । इयं बाला । सा बाला ।
 (Source de l'image : [Détails](/fr/licenses#lekt0401))
 :::
@@ -91,7 +91,7 @@ etat kim? eṣā pipīlikā.
 एतत्किम् । एषा पिपीलिका ॥
 
 ::: media
-![](/images/uebung003.jpg)
+![](/images/uebung003.webp)
 Fig. : एतत्किम् । एष काकः ।
 (Source de l'image : [Détails](/fr/licenses#uebung003))
 :::

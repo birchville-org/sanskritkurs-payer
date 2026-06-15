@@ -32,7 +32,7 @@ In um senza furmaziun è in animal.
 La curtadessa è l'adurnament dal gramaticher.
 
 ::: media
-![](/images/uebung083.jpg)
+![](/images/uebung083.webp)
 Abb.: विद्याविहीनः पशुः
 (Font dal maletg: [Detagls](/licenses#uebung083))
 :::
@@ -56,7 +56,7 @@ Las giuvnas dunnas duain dar tschirpa als mendicants.
 Vulein nus discurrer.
 
 ::: media
-![](/images/uebung085.jpg)
+![](/images/uebung085.webp)
 Abb.: वचाम
 (Sursa d’imagine: [Detagls](/licenses#uebung085))
 :::
@@ -110,7 +110,7 @@ El duai s’assentar en ma casa.
 Marids duain sustegnair lur consortas.
 
 ::: media
-![](/images/uebung076.jpg)
+![](/images/uebung076.webp)
 Abb.: तानि फलान्यदाम
 (Sursa d’imagine: [Detagls](/licenses#uebung076))
 :::
@@ -150,13 +150,13 @@ Qui che custodisescha sias femnas cun cura, custodisescha veramain sia descenden
 Il consert entra en sia glieud, devengia l’embrion e nascha lura qua; quai è il "consertess" (**जायात्वम्**) da la glieud, che il consert nascha en ella.
 
 ::: media
-![](/images/uebung084.jpg)
+![](/images/uebung084.webp)
 Abb.: अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung084))
 :::
 
 ::: media
-![](/images/uebung077.jpg)
+![](/images/uebung077.webp)
 Abb.: पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung077))
 :::

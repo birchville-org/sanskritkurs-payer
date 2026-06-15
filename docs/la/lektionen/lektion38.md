@@ -27,7 +27,7 @@ Explanationes:
 \-गु Neutrum Nominativus/Accusativus singularis ad गो m.f. "bos, vacca"
 
 ::: media
-![](/images/lekt3801.jpg)
+![](/images/lekt3801.webp)
 Fig.: प्रज्ञा नश्यति मेहतः
 (Fons imaginis: [Detalia](/la/licenses#lekt3801))
 :::
@@ -98,7 +98,7 @@ Exempla:
 ::::
 
 ::: media
-![](/images/lekt3803.jpg)
+![](/images/lekt3803.webp)
 Tab.: सीमा
 (Fons imaginis: [Detalia](/la/licenses#lekt3803))
 :::
@@ -204,7 +204,7 @@ Exemplum:
 हस्तिन् m.: qui signum peculiare habens = elephas (nam manus eius non est manus vulgaris, sed proboscis)
 
 ::: media
-![](/images/lekt3806.jpg)
+![](/images/lekt3806.webp)
 Abb.: हस्ती
 (Fons imaginis: [Detalia](/la/licenses#lekt3806))
 :::
@@ -212,7 +212,7 @@ Abb.: हस्ती
 हस्तवन्त् : qui (humanas) manus habet
 
 ::: media
-![](/images/lekt3807.jpg)
+![](/images/lekt3807.webp)
 Abb.: हस्तवान्
 (Fons imaginis: [Detalia](/la/licenses#lekt3807))
 :::
@@ -308,7 +308,7 @@ Exemplum:
 सूर्य m.: Sol, deus Solis Sūrya
 
 ::: media
-![](/images/lekt3802.jpg)
+![](/images/lekt3802.webp)
 Fig.: सूर्यः
 (Fons imaginis: [Detalia](/la/licenses#lekt3802))
 :::
@@ -317,7 +317,7 @@ Fig.: सूर्यः
 उदक n.: Aqua
 
 ::: media
-![](/images/lekt3805.jpg)
+![](/images/lekt3805.webp)
 Fig.: उदकम्
 (Fons imaginis: [Detalia](/la/licenses#lekt3805))
 :::
@@ -348,7 +348,7 @@ unde:
 :::
 
 ::: media
-![](/images/lekt3804.jpg)
+![](/images/lekt3804.webp)
 Fig.: गौतमबुद्धस्य महापरिनिर्वाणम्
 (Fons imaginis: [Detalia](/la/licenses#lekt3804))
 :::
@@ -392,7 +392,7 @@ a राज :
 ब्रह्मन् m.: deus creator personalis Brahmā
 
 ::: media
-![](/images/lekt3809.jpg)
+![](/images/lekt3809.webp)
 Fig.: ब्रह्मा
 (Fons imaginis: [Detalia](/la/licenses#lekt3809))
 :::
@@ -433,13 +433,13 @@ unde:
 :::
 
 ::: media
-![](/images/lekt3810.jpg)
+![](/images/lekt3810.webp)
 Fig.: अशोकवृक्षः
 (Fons imaginis: [Detalia](/la/licenses#lekt3810))
 :::
 
 ::: media
-![](/images/lekt3811.jpg)
+![](/images/lekt3811.webp)
 Fig.: अशोकसाम्राज्यम्
 (Fons imaginis: [Detalia](/la/licenses#lekt3811))
 :::
@@ -485,7 +485,7 @@ A) In sequentibus sententiis formam verborum in parenthesibus positarum inserite
 विनोद m.: otium, delectatio, voluptas
 
 ::: media
-![](/images/lekt3812.jpg)
+![](/images/lekt3812.webp)
 Fig.: विनोदः
 (Fons imaginis: [Detalia](/la/licenses#lekt3812))
 :::
@@ -516,7 +516,7 @@ Inf. तरितुम् । तरीतुम्
 तीर n.: litus
 
 ::: media
-![](/images/lekt3813.jpg)
+![](/images/lekt3813.webp)
 Fig.: वाराणस्यां गङ्गातीरे
 (Fons imaginis: [Detalia](/la/licenses#lekt3813))
 :::
@@ -535,7 +535,7 @@ Inf. गणयितुम्
 :::
 
 ::: media
-![](/images/lekt3814.jpg)
+![](/images/lekt3814.webp)
 Fig.: गणयां चक्रुः
 (Fons imaginis: [Detalia](/la/licenses#lekt3814))
 :::

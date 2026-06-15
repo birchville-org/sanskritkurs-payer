@@ -20,7 +20,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5007.jpg)
+![](/images/lekt5007.webp)
 Fig.: लोकस्योत्तमो गिरिः
 सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
 (Image source: [Details](/en/licenses#lekt5007))
@@ -86,7 +86,7 @@ e.g. सुतराम् (to सु) "in a better way" (adverbially)
 ::::
 
 ::: media
-![](/images/lekt5006.jpg)
+![](/images/lekt5006.webp)
 Fig.: का पचतितमाम्
 Lisu = 傈僳族, अरुणाचल प्रदेश
 (Image source: [Details](/en/licenses#lekt5006))
@@ -190,14 +190,14 @@ Declension like यद् (exception: Nom.Akk.sg.Neuter)
 कल्याण 3 (f.: कल्याणी) :beautiful
 
 ::: media
-![](/images/lekt5003.jpg)
+![](/images/lekt5003.webp)
 Fig.: कल्याणी
 (Image source: [Details](/en/licenses#lekt5003))
 :::
 कु- : as the first member of compounds: bad
 
 ::: media
-![](/images/lekt5004.jpg)
+![](/images/lekt5004.webp)
 Fig.: कुनगरम्
 धारावी, मुंबई
 (Image source: [Details](/en/licenses#lekt5004))
@@ -225,7 +225,7 @@ A) To review declension: the following verse contains all declension forms in th
 :::
 
 ::: media
-![](/images/lekt5008.jpg)
+![](/images/lekt5008.webp)
 Fig.: गुरुमेव भजे
 Ganeshpuri, 80 km from Mumbai (मुंबई)
 (Image source: [Details](/en/licenses#lekt5008))

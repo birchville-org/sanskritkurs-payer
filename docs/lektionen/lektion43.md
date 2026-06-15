@@ -141,7 +141,7 @@ Die Formen त्वा, ते, वस् dürfen nicht an erster Stelle eines 
 आपण m.: Markt
 
 ::: media
-![](/images/lekt4302.jpg)
+![](/images/lekt4302.webp)
 Abb.: आपणः
 (Bildquelle: [Details](/licenses#lekt4302))
 :::
@@ -151,7 +151,7 @@ Abb.: आपणः
 पण्य 3: käuflich; n.: Ware, Handel
 
 ::: media
-![]/images/lekt4303.jpg
+![]/images/lekt4303.webp
 Abb.: पण्यानि
 (Bildquelle: [Details](/licenses#lekt4303))
 :::
@@ -174,7 +174,7 @@ Abb.: पण्यानि
 विपणि f.: Laden
 
 ::: media
-![](/images/lekt4304.jpg)
+![](/images/lekt4304.webp)
 Abb.: विपणिः
 (Bildquelle: [Details](/licenses#lekt4304))
 :::
@@ -182,7 +182,7 @@ Abb.: विपणिः
 वणिज् m.: Kaufmann
 
 ::: media
-![](/images/lekt4305.jpg)
+![](/images/lekt4305.webp)
 Abb.: वणिक्
 (Bildquelle: [Details](/licenses#lekt4305))
 :::
@@ -194,7 +194,7 @@ Abb.: वणिक्
 वत्स m.: Kalb, Junges, Kind ; Vok.: mein Lieber
 
 ::: media
-![](/images/lekt4306.jpg)
+![](/images/lekt4306.webp)
 Abb.: वत्सः
 (Bildquelle: [Details](/licenses#lekt4306))
 :::
@@ -216,7 +216,7 @@ Abb.: वत्सः
 तुल् 10 तुलयति । तोलयति : wägen
 
 ::: media
-![](/images/lekt4307.jpg)
+![](/images/lekt4307.webp)
 Abb.: तोलन्ति
 (Bildquelle: [Details](/licenses#lekt4307))
 :::
@@ -339,7 +339,7 @@ B) Übersetzen Sie ins Sanskrit:
 10\. Wie rettest du dich (überschreitest) vor dem Feind?
 
 ::: media
-![](/images/lekt4308.jpg)
+![](/images/lekt4308.webp)
 Abb.: कदा पूराववर्तथाः ।
 (Bildquelle: [Details](/licenses#lekt4308))
 :::
@@ -375,7 +375,7 @@ Abb.: कदा पूराववर्तथाः ।
 | (Nach: Saral Sanskrit Shikshak III, S. 4f.) | |
 
 ::: media
-![](/images/lekt4309.jpg)
+![](/images/lekt4309.webp)
 Abb.: शर्करा
 (Bildquelle: [Details](/licenses#lekt4309))
 :::

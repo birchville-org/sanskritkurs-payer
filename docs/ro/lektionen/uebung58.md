@@ -34,7 +34,7 @@ Determinați și traduceți următoarele forme și formați formele corespunzăt
 19.  अचेतः - चित् 1P 2.sg.Impf.P tu ai perceput - अचेतीः
 
 :::: media
-![](/images/uebung095.jpg)
+![](/images/uebung095.webp)
 Fig.: तब्लाः
 (Sursa imaginii: [Detalii](/licenses#uebung095))
 :::
@@ -46,7 +46,7 @@ Fig.: तब्लाः
 Determinați și traduceți următoarele forme:
 
 ::: media
-![](/images/uebung097.jpg)
+![](/images/uebung097.webp)
 Fig.: मातुलङ्गविक्रेतायं ना ॥  
 Pune - पुणे  
 \[Sursa imaginii: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Accesat la 2009-03-12. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Numele autorului, fără utilizare comercială, fără modificări)\]
@@ -91,7 +91,7 @@ Pune - पुणे
 38.  दद - दा 3U 2.pl.Perf.P voi ați dat
 39.  अञ्ज्वः - अञ्ज् 7P 1.du.Ind.Prăs.P noi doi ungem
 
-![](/images/uebung096.jpg)
+![](/images/uebung096.webp)
 Fig.: श्वा श्वानमघ्रात्
 (Sursa imaginii: [Detalii](/licenses#uebung096))
 :::

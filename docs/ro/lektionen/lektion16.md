@@ -71,7 +71,7 @@ Exemple:
 अध्यापन n.: predare, învățământ
 
 ::: media
-![](/images/lekt1602.jpg)
+![](/images/lekt1602.webp)
 Fig.: अध्यापनम्
 „Aceasta este o ceremonie specială într-un mic templu din Satara (सातारा). Este realizată de studenții Swami Muktananda Vedashala în cadrul celebrării Mahāśivarātri. Aceasta este o școală vedică, unde copiii pe dinafară texte sacre numite Vede. Această școală predă Krishna Yajurveda și unele porțiuni din Samaveda. Îmi fac teza de masterat despre această școală.”
 (Sursă imagine: [Detalii](/ro/licenses#lekt1602))
@@ -108,7 +108,7 @@ din care:
 योग m.: legare, conexiune, unire, dobândire; Yoga
 
 ::: media
-![](/images/lekt1601.jpg)
+![](/images/lekt1601.webp)
 Fig.: योगी
 Birla Mandir, Delhi
 (Sursă imagine: [Detalii](/ro/licenses#lekt1601))
@@ -144,7 +144,7 @@ A) Transformați următoarele expresii în Tatpuruṣa și traduceți-le:
 ४. पशुमन्तो जनाः ।
 
 ::: media
-![](/images/lekt1604.jpg)
+![](/images/lekt1604.webp)
 Fig.: पशुमन्तो जनाः
 हरियाणा / ਹਰਿਆਣਾ
 (Sursă imagine: [Detalii](/ro/licenses#lekt1604))

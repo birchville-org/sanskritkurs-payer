@@ -103,7 +103,7 @@ De exemplu, **देव, कवे, शत्रो, राजन्, पित�
 ::::
 
 ::: media
-![](/images/lekt4501.jpg)
+![](/images/lekt4501.webp)
 Fig.: भवति किं करोषि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4501))
 :::

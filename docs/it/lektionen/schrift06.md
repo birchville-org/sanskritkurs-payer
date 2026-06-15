@@ -2,7 +2,7 @@
 
 ## Esercizio di scrittura 6
 
-![](/images/schrift009.jpg)
+![](/images/schrift009.webp)
 
 Per jha è anche comune la seguente forma:
 

@@ -259,7 +259,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3306.jpg)
+![](/images/lekt3306.webp)
 படம்: दानम्
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt3306))
 :::
@@ -271,7 +271,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3307.jpg)
+![](/images/lekt3307.webp)
 படம்: सा पुत्रमादाय भारं बिभ्रती गच्छति
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt3307))
 :::
@@ -295,7 +295,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3305.jpg)
+![](/images/lekt3305.webp)
 படம்: समाधि
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt3305))
 :::
@@ -332,7 +332,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 
 ::: media
-![](/images/lekt3304.jpg)
+![](/images/lekt3304.webp)
 படம்: भयम्
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt3304))
 :::
@@ -385,7 +385,7 @@ PPP **हीन** இலிருந்து:
 :::
 
 ::: media
-![](/images/lekt3303.jpg)
+![](/images/lekt3303.webp)
 படம்: हीनयानमेव
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt3303))
 :::
@@ -401,7 +401,7 @@ PPP **हीन** இலிருந்து:
 :::
 
 ::: media
-![](/images/lekt3302.jpg)
+![](/images/lekt3302.webp)
 படம்: घृतमग्नौ जुहोति
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt3302))
 
@@ -448,7 +448,7 @@ C) மொழிபெயர்க்கவும், ஒருமை வாக�
 ब्राह्मणा भारं न बिभ्रतीति ब्राह्मणदासो भारं गृहमबिभः ॥३॥
 
 ::: media
-![](/images/lekt3308.jpg)
+![](/images/lekt3308.webp)
 படம்: पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt3308))
 :::

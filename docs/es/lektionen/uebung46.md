@@ -85,7 +85,7 @@ De la ira surge la ceguera; de la ceguera, la confusión de la atención (recuer
 Para el indomable (no yogui) no hay comprensión.
 
 ::: media
-![](/images/uebung080.jpg)
+![](/images/uebung080.webp)
 Fig.: सक्तः
 (Fuente de la imagen: [Detalles](/licenses#uebung080))
 :::

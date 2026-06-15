@@ -122,7 +122,7 @@ Beachten Sie den Gleichlaut von **यजन्ति** (Nom. pl. Neutrum) mit de
 :::
 
 ::: media
-![](/images/lekt2101.jpg)
+![](/images/lekt2101.webp)
 Abb.: सती-Gedenkplatte
 सती-Gedenkplatte im Palast von Jodhpur - जोधपुर / Rajasthan - राजस्थान
 (Bildquelle: [Details](/licenses#lekt2101))
@@ -194,7 +194,7 @@ Abb.: सती-Gedenkplatte
 ::::
 
 ::: media
-![](/images/lekt2102.jpg)
+![](/images/lekt2102.webp)
 Abb.: महादेवो विष्णुः
 "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
 (Bildquelle: [Details](/licenses#lekt2102))
@@ -276,7 +276,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt2103.jpg)
+![](/images/lekt2103.webp)
 Abb.: भगवान्कृष्णः
 भगवान्कृष्णः als जगन्नाथ (rechts) mit seiner Halbschwester सुभद्रा (Mitte) und seinem älteren Bruder बलराम, Orissa = ଓଡ଼ିଶा
 (Bildquelle: [Details](/licenses#lekt2103))
@@ -287,7 +287,7 @@ Abb.: भगवान्कृष्णः
 :::
 
 ::: media
-![](/images/lekt2105.jpg)
+![](/images/lekt2105.webp)
 Abb.: भगवद्गीता
 भगवद्गीता - Manuskript, 19. Jhdt.
 (Bildquelle: [Details](/licenses#lekt2105))
@@ -304,7 +304,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt2104.jpg)
+![](/images/lekt2104.webp)
 Abb.: भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
 (Bildquelle: [Details](/licenses#lekt2104))

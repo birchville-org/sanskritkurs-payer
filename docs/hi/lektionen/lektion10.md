@@ -260,7 +260,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt1003.jpg)
+![](/images/lekt1003.webp)
 अभ.: ⟪वरुणः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1003))
 :::

@@ -20,7 +20,7 @@ status: stabilis
 :::
 
 ::: media
-![](/images/lekt5007.jpg)
+![](/images/lekt5007.webp)
 Tab.: लोकस्योत्तमो गिरिः
 सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mons Everest
 (Fons imaginis: [Detalia](/la/licenses#lekt5007))
@@ -86,7 +86,7 @@ e.g. सुतराम् (ad सु) "meliori modo" (adverbialiter)
 ::::
 
 ::: media
-![](/images/lekt5006.jpg)
+![](/images/lekt5006.webp)
 Tab.: का पचतितमाम्
 Lisu = 傈僳族, अरुणाचल प्रदेश
 (Fons imaginis: [Detalia](/la/licenses#lekt5006))
@@ -190,14 +190,14 @@ Declinatio ut यद् (exceptio: Nom.Akk.sg.Neutrum)
 कल्याण 3 (f.: कल्याणी) : pulcher
 
 ::: media
-![](/images/lekt5003.jpg)
+![](/images/lekt5003.webp)
 Fig.: कल्याणी
 (Fons imaginis: [Detalia](/la/licenses#lekt5003))
 :::
 कु- : ut pars anterior compositionum: malus
 
 ::: media
-![](/images/lekt5004.jpg)
+![](/images/lekt5004.webp)
 Fig.: कुनगरम्
 धारावी, मुंबई
 (Fons imaginis: [Detalia](/la/licenses#lekt5004))
@@ -225,7 +225,7 @@ A) Ad repetitionem declinationis: sequens versus omnes formas declinativas in si
 :::
 
 ::: media
-![](/images/lekt5008.jpg)
+![](/images/lekt5008.webp)
 Tab.: गुरुमेव भजे
 Ganeshpuri, 80 km a Mumbai (मुंबई) distans
 (Fons imaginis: [Detalia](/la/licenses#lekt5008))

@@ -99,7 +99,7 @@ Chiar și ceea ce este urât, nu trebuie să-l urâți, și nici să nu fiți la
 Ai plâns pentru cei care nu trebuie plânși și ai vrut să rostești cuvinte de înțelepciune; totuși, înțelepții nu plâng nici morții, nici cei vii.
 
 ::: media
-![](/images/uebung072.jpg)
+![](/images/uebung072.webp)
 Fig.: मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति
 (Sursa imaginii: [Detalii](/licenses#uebung072))
 :::
@@ -156,7 +156,7 @@ Determinați următoarele forme de cuvânt:
 :::
 
 ::: media
-![](/images/uebung073.jpg)
+![](/images/uebung073.webp)
 Fig.: वदिता
 (Sursa imaginii: [Detalii](/licenses#uebung073))
 :::

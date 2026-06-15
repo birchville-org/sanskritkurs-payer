@@ -56,7 +56,7 @@ A) Per la repetiziun da la declinaziun: Il vers suenter cuntegna tut las formas 
 > Ina famiglia, nua il consors è adina cuntent cun la consorta e la consorta cun il consors, en questa famiglia è segir la feliçitad cuntinua.
 
 ::: media
-![](/images/uebung081.jpg)
+![](/images/uebung081.webp)
 Fig.: संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च । यस्मिन्नेव कुले नित्यम् कल्याणं तत्र वै ध्रुवम् ॥
 (Sursa da l’imagines: [Detagls](/licenses#uebung081))
 :::
@@ -78,7 +78,7 @@ Fig.: संतुष्टो भार्यया भर्ता भर्�
 > In sesia adina en la studis dal Veda e en ils rituels per ils deus. Quai che s’engascha en ils rituels per ils deus, quai accumula questa mundana da vivents ed invisibles. Il sacrifici, che vegn lantschà en il fieu en moda correcta, va al sulegl, dal sulegl nascha la plievgia, da la plievgia nascha il nutriment, da quai las creatiras.
 
 ::: media
-![](/images/uebung082.jpg)
+![](/images/uebung082.webp)
 Abb.: दैवे कर्मणि युक्तो हि बिभर्तीदं चराचरम् ॥
 (Bildquelle: [Details](/licenses#uebung082))
 :::

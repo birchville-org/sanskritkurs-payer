@@ -140,7 +140,7 @@ kiṃ kāraṇam?
 किं कारणम् ॥
 
 ::: media
-![](/images/uebung007.jpg)
+![](/images/uebung007.webp)
 Ил.: इमे योधाः किं कुर्वन्ति ।
 (Източник на изображението: [Подробности](/bg/licenses#uebung007))
 :::
@@ -204,7 +204,7 @@ Vimalā ist traurig.
 Момчето пише писмо.
 
 ::: media
-![](/images/uebung008.jpg)
+![](/images/uebung008.webp)
 Ил.: कपिः फलं खदति
 (Източник на изображението: [Подробности](/bg/licenses#uebung008))
 :::

@@ -68,7 +68,7 @@ A) Form the corresponding **second person** of the following verb forms in tense
 :::
 
 ::: media
-![](/images/uebung070.jpg)
+![](/images/uebung070.webp)
 Fig.: दिशसि
 (Image source: [Details](/en/licenses#uebung070))
 :::

@@ -27,7 +27,7 @@ Explicații:
 \-गु Neutru, nominativ/acuzativ singular, corespunzător lui गो masculin/feminin, „bou, vacă”.
 
 ::: media
-![](/images/lekt3801.jpg)
+![](/images/lekt3801.webp)
 Fig.: प्रज्ञा नश्यति मेहतः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3801))
 :::
@@ -98,7 +98,7 @@ Exemple:
 ::::
 
 ::: media
-![](/images/lekt3803.jpg)
+![](/images/lekt3803.webp)
 Fig.: सीमा
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3803))
 :::
@@ -204,7 +204,7 @@ Exemplu:
 हस्तिन् m.: cel caracterizat printr-o mână specială = elefantul (mâna sa nu este o mână obișnuită, ci o trompă)
 
 ::: media
-![](/images/lekt3806.jpg)
+![](/images/lekt3806.webp)
 Fig.: हस्ती
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3806))
 :::
@@ -212,7 +212,7 @@ Fig.: हस्ती
 हस्तवन्त्: unul care are (mâini) umane
 
 ::: media
-![](/images/lekt3807.jpg)
+![](/images/lekt3807.webp)
 Fig.: हस्तवान्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3807))
 :::
@@ -308,7 +308,7 @@ Exemplu:
 सूर्य m.: Soare, zeul soarelui Sūrya
 
 ::: media
-![](/images/lekt3802.jpg)
+![](/images/lekt3802.webp)
 Fig.: सूर्यः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3802))
 :::
@@ -317,7 +317,7 @@ Fig.: सूर्यः
 उदक n.: Apă
 
 ::: media
-![](/images/lekt3805.jpg)
+![](/images/lekt3805.webp)
 Fig.: उदकम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3805))
 :::
@@ -348,7 +348,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3804.jpg)
+![](/images/lekt3804.webp)
 Fig.: गौतमबुद्धस्य महापरिनिर्वाणम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3804))
 :::
@@ -392,7 +392,7 @@ de la राज :
 ब्रह्मन् m.: Zeul creator gândit personal Brahmā
 
 ::: media
-![](/images/lekt3809.jpg)
+![](/images/lekt3809.webp)
 Fig.: ब्रह्मा
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3809))
 :::
@@ -433,13 +433,13 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3810.jpg)
+![](/images/lekt3810.webp)
 Fig.: अशोकवृक्षः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3810))
 :::
 
 ::: media
-![](/images/lekt3811.jpg)
+![](/images/lekt3811.webp)
 Fig.: अशोकसाम्राज्यम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3811))
 :::
@@ -485,7 +485,7 @@ A) Introduceți în propozițiile următoare forma corespunzătoare a cuvintelor
 विनोद m.: divertisment, distracție, plăcere
 
 ::: media
-![](/images/lekt3812.jpg)
+![](/images/lekt3812.webp)
 Fig.: विनोदः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3812))
 :::
@@ -516,7 +516,7 @@ Inf. तरितुम् । तरीतुम्
 तीर n.: mal
 
 ::: media
-![](/images/lekt3813.jpg)
+![](/images/lekt3813.webp)
 Fig.: वाराणस्यां गङ्गातीरे
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3813))
 :::
@@ -535,7 +535,7 @@ Inf. गणयितुम्
 :::
 
 ::: media
-![](/images/lekt3814.jpg)
+![](/images/lekt3814.webp)
 Fig.: गणयां चक्रुः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3814))
 :::

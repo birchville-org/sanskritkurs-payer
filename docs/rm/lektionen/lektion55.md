@@ -92,7 +92,7 @@ Determinar e traduschar per iscritg las suandantas furmas e crear las furmas cor
 32.  सिष्णेह
 
 ::: media
-![](/images/lekt5501.jpg)
+![](/images/lekt5501.webp)
 Fig.: अजीर्यमिति
 'Inâyat Khân en la fin dals dis, dissegna per ina miniatura d'in manuscrit per Jahângîr = جهانگير, circa 1618
 (font da l'imagines: [Detagls](/rm/licenses#lekt5501))

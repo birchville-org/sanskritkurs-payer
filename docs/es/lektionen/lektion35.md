@@ -225,7 +225,7 @@ Ejemplo:
 :::
 
 ::: media
-![](/images/lekt3502.jpg)
+![](/images/lekt3502.webp)
 Fig.: क्रामन्ति
 Personas caminando, Senegal.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3502))
@@ -245,7 +245,7 @@ de ello:
 :::
 
 ::: media
-![](/images/lekt3501.jpg)
+![](/images/lekt3501.webp)
 Fig.: जगुः
 Músicos del templo, Templo Kaadu Malleswara, Bangalore.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3501))
@@ -284,7 +284,7 @@ A) Forme las correspondientes formas del perfecto a partir de las siguientes for
 27. अशृण्वन्
 28. मिमति  
     ::: media
-    ![](/images/lekt3503.jpg)
+    ![](/images/lekt3503.webp)
     Fig.: मिमति
 Mercado en Vadaseri, Tamil Nadu.
     (Fuente de la imagen: [Detalles](/es/licenses#lekt3503))
@@ -311,7 +311,7 @@ B) Traduce:
 ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥
 
 ::: media
-![](/images/lekt3504.jpg)
+![](/images/lekt3504.webp)
 Fig.: ... ब्राह्मणाश्चेजुः
 Ceremonia de Yajña, ashrama Shiva, Ganeshpuri.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3504))

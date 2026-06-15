@@ -38,7 +38,7 @@ Quomodo appellatur frater mariti? Mariti frater ut "devara" (gener) designandus 
 Pater adoptionem nepotum optavit.
 
 ::: media
-![](/images/uebung068.jpg)
+![](/images/uebung068.webp)
 Fig.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Fons imaginis: [Detalia](/licenses#uebung068))
 :::
@@ -71,7 +71,7 @@ Cum hoc promissum audissent, principes advenere centena. Sed nullus eorum potuit
 Cor regis Janaka erat laetissimum. Tunc vocavit Daśaratha et alios, et cum magna pompa celebravit nuptias Sītā et Rāma.
 
 ::: media
-![](/images/uebung069.jpg)
+![](/images/uebung069.webp)
 Fig.: श्रीसीता श्रीरामश्च
 (Fons imaginis: [Detalia](/licenses#uebung069))
 :::

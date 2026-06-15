@@ -39,7 +39,7 @@ Form the corresponding Aorist forms for the following Present or Perfect forms:
 :::
 
 ::: media
-![](/images/uebung093.jpg)
+![](/images/uebung093.webp)
 Fig.: अगायि
 (Image source: [Details](/en/licenses#uebung093))
 :::

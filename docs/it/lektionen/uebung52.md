@@ -26,7 +26,7 @@ last_reconstructed: 2026-05-15
 > Ciò che, se fatto, apporta soddisfazione interiore, si faccia con zelo; al contrario, si eviti.
 
 ::: media
-![](/images/uebung087.jpg)
+![](/images/uebung087.webp)
 Fig.: सर्वं परवशं दुःखम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung087))
 :::
@@ -119,7 +119,7 @@ La conoscenza liberatrice del Buddha:
 > "Questi esseri viventi, che hanno commesso azioni malvagie, vanno in una esistenza sfavorevole; questi altri, che hanno buon karma, rinascendo sorgono nel cielo di Indra."
 
 ::: media
-![](/images/uebung088.jpg)
+![](/images/uebung088.webp)
 Fig.: कदलीगर्भनिःसारः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung088))
 :::

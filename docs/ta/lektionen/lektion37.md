@@ -178,7 +178,7 @@ status: stable
 ::::
 
 ::: media
-![lekt3701.jpg](/images/lekt3701.jpg)
+![lekt3701.jpg](/images/lekt3701.webp)
 அடிக்குறிப்பு: क्व
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt3701))
 :::
@@ -228,7 +228,7 @@ status: stable
 ::::
 
 ::: media
-![lekt3702.jpg](/images/lekt3702.jpg)
+![lekt3702.jpg](/images/lekt3702.webp)
 அடிக்குறிப்பு: यथाशक्ति
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt3702))
 :::
@@ -248,7 +248,7 @@ status: stable
 ::::
 
 ::: media
-![lekt3703.jpg](/images/lekt3703.jpg)
+![lekt3703.jpg](/images/lekt3703.webp)
 அடிக்குறிப்பு: तूष्णीं बभूवुः
 (படம்: [விவரங்கள்](/ta/licenses#lekt3703))
 :::
@@ -323,7 +323,7 @@ status: stable
 :::
 
 ::: media
-![lekt3704.jpg](/images/lekt3704.jpg)
+![lekt3704.jpg](/images/lekt3704.webp)
 அடைவு: किं बाला अधीयीरन्
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt3704))
 :::
@@ -397,7 +397,7 @@ status: stable
 वृक्ष ஆண்பால்: மரம்
 
 ::: media
-![lekt3706.jpg](/images/lekt3706.jpg)
+![lekt3706.jpg](/images/lekt3706.webp)
 படம்: वृक्षः
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt3706))
 :::
@@ -435,7 +435,7 @@ A) வலையில் குறிப்பிடப்பட்ட சொற
 कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥ (देवकी)
 
 ::: media
-![lekt3707.jpg](/images/lekt3707.jpg)
+![lekt3707.jpg](/images/lekt3707.webp)
 படம்: कृष्णः बलरामश्च
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt3707))
 :::
@@ -443,7 +443,7 @@ A) வலையில் குறிப்பிடப்பட்ட சொற
 क्व मर्तुं सज्जना इच्छन्ति ॥१३॥ (काशी = वाराणसी)
 
 ::: media
-![lekt3708.jpg](/images/lekt3708.jpg)
+![lekt3708.jpg](/images/lekt3708.webp)
 படம்: क्व मर्तुं सज्जना इच्छन्ति
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt3708))
 :::
@@ -487,7 +487,7 @@ C) பின்வரும் अव्ययीभाव களை மொழ�
 :::
 
 ::: media
-![lekt3709.jpg](/images/lekt3709.jpg)
+![lekt3709.jpg](/images/lekt3709.webp)
 படம்: अधिकेरलं वर्तन्ते
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt3709))
 :::
@@ -522,7 +522,7 @@ C) பின்வரும் अव्ययीभाव களை மொழ�
 :::
 
 ::: media
-![lekt3710.jpg](/images/lekt3710.jpg)
+![lekt3710.jpg](/images/lekt3710.webp)
 படம்: आबालवृद्धं लंदननगरे ववृतिरे
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt3710))
 :::
@@ -534,7 +534,7 @@ C) பின்வரும் अव्ययीभाव களை மொழ�
 :::
 
 ::: media
-![lekt3711.jpg](/images/lekt3711.jpg)
+![lekt3711.jpg](/images/lekt3711.webp)
 படம்: उपवृक्षं सीदन्ति
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt3711))
 :::

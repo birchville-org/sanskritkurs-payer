@@ -141,7 +141,7 @@ Exemples :
 **चूत**
 
 ::: media
-![](/images/lekt3202.jpg)
+![](/images/lekt3202.webp)
 Fig. : चूतः
 Manguiers, Kanpur.
 (Source de l'image : [Détails](/fr/licenses#lekt3202))
@@ -178,7 +178,7 @@ Manguiers, Kanpur.
 **वानर कपि**
 
 ::: media
-![](/images/lekt3203.jpg)
+![](/images/lekt3203.webp)
 Fig. : वानराः
 Singes (macaques rhésus) à Delhi.
 (Source de l'image : [Détails](/fr/licenses#lekt3203))
@@ -200,7 +200,7 @@ Singes (macaques rhésus) à Delhi.
 **उपल**
 
 ::: media
-![](/images/lekt3204.jpg)
+![](/images/lekt3204.webp)
 Fig. : उपलाः
 Carrière de pierre au sud de Pune, Maharashtra.
 (Source de l'image : [Détails](/fr/licenses#lekt3204))
@@ -209,7 +209,7 @@ Carrière de pierre au sud de Pune, Maharashtra.
 **लक्ष्य**
 
 ::: media
-![](/images/lekt3205.jpg)
+![](/images/lekt3205.webp)
 Fig. : लक्ष्यम्
 Exercice de tir / cible à flèches, Karnataka.
 (Source de l'image : [Détails](/fr/licenses#lekt3205))
@@ -236,7 +236,7 @@ Exercice de tir / cible à flèches, Karnataka.
 :::
 
 ::: media
-![](/images/lekt3207.jpg)
+![](/images/lekt3207.webp)
 Fig. : चितं गोमयं दहति
 Brûlage de galettes de bouse de vache au Rajasthan.
 (Source de l'image : [Détails](/fr/licenses#lekt3207))
@@ -251,7 +251,7 @@ Brûlage de galettes de bouse de vache au Rajasthan.
 **कौशल कुशल**
 
 ::: media
-![](/images/lekt3206.jpg)
+![](/images/lekt3206.webp)
 Fig. : कौशलम्
 Peinture Mehndi sur les mains à Mumbai.
 (Source de l'image : [Détails](/fr/licenses#lekt3206))
@@ -350,7 +350,7 @@ B) Traduisez et résolvez les composés en sanskrit :
 बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥
 
 ::: media
-![](/images/lekt3208.jpg)
+![](/images/lekt3208.webp)
 Fig. : बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
 Moine bouddhiste au Sri Lanka.
 (Source de l’image : [Détails](/fr/licenses#lekt3208))
@@ -574,7 +574,7 @@ C) Traduisez en sanskrit :
 52. Au revoir !
 
 ::: media
-![](/images/lekt3209.jpg)
+![](/images/lekt3209.webp)
 Fig. : पुनर्दर्शनाय
 Salutation / adieu indien.
 (Source de l'image : [Détails](/fr/licenses#lekt3209))
@@ -656,7 +656,7 @@ Explications :
 :::
 
 ::: media
-![](/images/lekt3210.jpg)
+![](/images/lekt3210.webp)
 Fig. : तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
 Singes dans les manguiers.
 (Source de l'image : [Détails](/fr/licenses#lekt3210))

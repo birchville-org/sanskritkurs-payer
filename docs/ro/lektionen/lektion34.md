@@ -210,7 +210,7 @@ Exemple:
 **शस्य = सस्य n. sg. și pl.:** semințe, cultură, cereale
 
 ::: media
-![](/images/lekt3406.jpg)
+![](/images/lekt3406.webp)
 Fig.: सस्यम्
 Câmp de orez în India.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3406))
@@ -225,7 +225,7 @@ Câmp de orez în India.
 **द्वीप m.n.:** insulă, continent
 
 ::: media
-![](/images/lekt3405.jpg)
+![](/images/lekt3405.webp)
 Fig.: लक्षद्वीपाः
 Harta Insulelor Lakshadweep.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3405))
@@ -236,14 +236,14 @@ Harta Insulelor Lakshadweep.
 **तिल m.:** susan (Sesamum indicum L.)
 
 ::: media
-![](/images/lekt3403.jpg)
+![](/images/lekt3403.webp)
 Fig.: तिलाः
 Semințe de susan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3403))
 :::
 
 ::: media
-![](/images/lekt3404.jpg)
+![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Înflorește planta de susan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3404))
@@ -252,7 +252,7 @@ Fig.: *Sesamum indicum* L.
 **स्वर्ण n.:** (frumos colorat =) aur
 
 ::: media
-![](/images/lekt3402.jpg)
+![](/images/lekt3402.webp)
 Fig.: स्वर्णम्
 Templul de Aur (Harmandir Sahib), Amritsar.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3402))
@@ -269,7 +269,7 @@ Templul de Aur (Harmandir Sahib), Amritsar.
 **ऋषभ m.:** taur
 
 ::: media
-![](/images/lekt3401.jpg)
+![](/images/lekt3401.webp)
 Fig.: ऋषभः
 Statuia Taurului Nandi, Dealurile Chamundi, Mysore.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3401))
@@ -349,7 +349,7 @@ Explicații:
 :::
 
 ::: media
-![](/images/lekt3407.jpg)
+![](/images/lekt3407.webp)
 Fig.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
 Ritual de nuntă hindus.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3407))

@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 Diganse verdades que sean agradables, no se digan verdades desagradables; no se digan falsedades agradables, esa es la ley eterna.
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 Fig.: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (Fuente de la imagen: [Detalles](/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Determine y traduzca las siguientes formas:
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 Fig.: भक्त्याः
 (Fuente de la imagen: [Detalles](/licenses#uebung047))
 :::

@@ -71,7 +71,7 @@ Exempla:
 अध्यापन n.: Docere, doctrina
 
 ::: media
-![](/images/lekt1602.jpg)
+![](/images/lekt1602.webp)
 Fig.: अध्यापनम्
 "Hoc est ritus specialis in templo parvo in Satara (सातारा). Perficitur a discipulis Swami Muktananda Vedashala in celebratione Mahāśivarātri. Haec est schola veditica, ubi pueri memoriter didicunt textus sacros, qui vocantur Veditae. Haec schola docet Krishna Yajurveda et aliquas partes Samaveda. Facio thesis magistralis de hac schola."
 (Fons imaginis: [Detalia](/la/licenses#lekt1602))
@@ -108,7 +108,7 @@ ex quo:
 योग m.: Iugatio, coniunctio, unio, acquisitio ; Yoga
 
 ::: media
-![](/images/lekt1601.jpg)
+![](/images/lekt1601.webp)
 Fig.: योगी
 Birla Mandir, Delhi
 (Fons imaginis: [Detalia](/la/licenses#lekt1601))
@@ -144,7 +144,7 @@ A) Mutare has expressiones in Tatpuruṣam et interpretare:
 ४. पशुमन्तो जनाः ।
 
 ::: media
-![](/images/lekt1604.jpg)
+![](/images/lekt1604.webp)
 Fig.: पशुमन्तो जनाः
 हरियाणा / ਹਰਿਆਣਾ
 (Fons imaginis: [Detalia](/la/licenses#lekt1604))

@@ -122,7 +122,7 @@ Observați identitatea de formă a lui **यजन्ति** (Nom. pl. Neutru) 
 :::
 
 ::: media
-![](/images/lekt2101.jpg)
+![](/images/lekt2101.webp)
 Fig.: placă memorială सती
 Placă memorială सती în Palatul din Jodhpur - जोधपुर / Rajasthan - राजस्थान
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2101))
@@ -194,7 +194,7 @@ Placă memorială सती în Palatul din Jodhpur - जोधपुर / Rajas
 ::::
 
 ::: media
-![](/images/lekt2102.jpg)
+![](/images/lekt2102.webp)
 Fig.: महादेवो विष्णुः
 "Un sigiliu de sardonyx din secolele IV-VI e.n., reprezentându-l pe Vișnu cu un închinător. Inscripția în bactrian cursiv spune: 'Mihira, Vișnu și Śiva'."
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2102))
@@ -276,7 +276,7 @@ din aceasta:
 :::
 
 ::: media
-![](/images/lekt2103.jpg)
+![](/images/lekt2103.webp)
 Fig.: भगवान्कृष्णः
 भगवान्कृष्णः ca जगन्नाथ (dreapta) cu sora sa vitregă सुभद्रा (mijloc) și fratele său mai mare बलराम, Orissa = ଓଡ଼ିଶा
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2103))
@@ -287,7 +287,7 @@ Fig.: भगवान्कृष्णः
 :::
 
 ::: media
-![](/images/lekt2105.jpg)
+![](/images/lekt2105.webp)
 Fig.: भगवद्गीता
 भगवद्गीता - manuscris, sec. al XIX-lea.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2105))
@@ -304,7 +304,7 @@ din aceasta:
 :::
 
 ::: media
-![](/images/lekt2104.jpg)
+![](/images/lekt2104.webp)
 Fig.: भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2104))

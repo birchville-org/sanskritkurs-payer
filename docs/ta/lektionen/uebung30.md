@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 நன்மை பயக்கும் உண்மைகளைச் சொல்ல வேண்டும், தீங்கு பயக்கும் உண்மைகளைச் சொல்லக்கூடாது; நன்மை பயக்கும் பொய்களைச் சொல்லக்கூடாது, இது நிரந்தரமான விதி.
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 அடைவு: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (பட மூலம்: [விவரங்கள்](/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 படம்: भक्त्याः
 (படம் மூலம்: [விவரங்கள்](/licenses#uebung047))
 :::

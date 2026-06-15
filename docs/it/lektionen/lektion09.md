@@ -100,7 +100,7 @@ Inoltre vi sono alcuni usi meno importanti del suffisso **-aka**. Vgl. Wackernag
 - **adhyayana** n. (अध्ययन) : Studio, in particolare studio dei Veda
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 Fig.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram presso Madurai.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0903))
 :::
@@ -108,7 +108,7 @@ Fig.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparanku
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : Artigiano
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 Fig.: **kāru** = कारु, Gujarat.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0902))
 :::
@@ -143,7 +143,7 @@ Fig.: **kāru** = कारु, Gujarat.
 7\. **karṣaka** कर्षक
 
 ::: media
-![](/images/lekt0901.jpg)
+![](/images/lekt0901.webp)
 Fig.: **karṣaka** = कर्षक.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0901))
 :::

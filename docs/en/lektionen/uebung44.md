@@ -99,7 +99,7 @@ You should not hate what is hateful, nor should you be greedy for what is desira
 You have mourned the unpitiable and wished to speak words of wisdom; yet the wise mourn neither the dead nor the living.
 
 ::: media
-![](/images/uebung072.jpg)
+![](/images/uebung072.webp)
 Fig.: मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति
 (Image source: [Details](/en/licenses#uebung072))
 :::
@@ -156,7 +156,7 @@ Determine the following word forms:
 :::
 
 ::: media
-![](/images/uebung073.jpg)
+![](/images/uebung073.webp)
 Fig.: वदिता
 (Image source: [Details](/en/licenses#uebung073))
 :::

@@ -34,7 +34,7 @@ last_reconstructed: 2026-05-15
 19.  अचेतः - चित् 1P 2.sg.Impf.P நீங்கள் உணர்ந்தீர்கள் - अचेतीः
 
 :::: media
-![](/images/uebung095.jpg)
+![](/images/uebung095.webp)
 படம்: तब्लाः
 (படம் மூலம்: [விவரங்கள்](/licenses#uebung095))
 :::
@@ -46,7 +46,7 @@ last_reconstructed: 2026-05-15
 கீழ்க்கண்ட வடிவங்களை வகைக்கணித்து மொழிபெயர்க்கவும்:
 
 ::: media
-![](/images/uebung097.jpg)
+![](/images/uebung097.webp)
 அணி: मातुलङ्गविक्रेतायं ना ॥  
 புனே - पुणे  
 \[படம்: அனுசிருதி ஆர்.கே. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- 2009-03-12 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)\]
@@ -91,7 +91,7 @@ last_reconstructed: 2026-05-15
 38.  दद - दा 3U 2.pl.முற்ற.நீங்கள் கொடுத்தீர்கள்
 39.  अञ्ज्वः - अञ्ज् 7P 1.இ.நில.நீங்கள் இருவரும் தீட்டுகிறீர்கள்
 
-![](/images/uebung096.jpg)
+![](/images/uebung096.webp)
 அணி: श्वा श्वानमघ्रात्
 (படம்: [விவரங்கள்](/licenses#uebung096))
 :::

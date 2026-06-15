@@ -152,7 +152,7 @@ Queremos ser guiados por ti.
 ¡Que se convierta en buena fortuna! (Deseo de bendición)
 
 ::: media
-![](/images/uebung075.jpg)
+![](/images/uebung075.webp)
 Fig.: माद्यत
 (Fuente de la imagen: [Detalles](/licenses#uebung075))
 :::

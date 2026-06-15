@@ -235,7 +235,7 @@ Clasa a 5-a de prezente formează un numit rădăcină de prezent atematic, adic
 - **su** 5 U (sunoti) सु सुनोति : stoarce
 - **soma** m. सोम : băutură stoarsă, Soma; Lună (Din ce plantă a fost stoarsă Soma este încă dezbătută până în prezent).
 ::: media
-![](/images/lekt0701.jpg)
+![](/images/lekt0701.webp)
 Fig.: A fost aceasta planta Soma vedică?: Ciuperca muștar: *Amanita muscaria* (L.) Lam.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0701))
 :::
@@ -258,7 +258,7 @@ Fig.: A fost aceasta planta Soma vedică?: Ciuperca muștar: *Amanita muscaria* 
    ब्राह्मणस् ... यजति (देव, देवी, विष्णु, अग्नि, देवता)
 
 ::: media
-![](/images/lekt0704.jpg)
+![](/images/lekt0704.webp)
 Fig.: Viṣṇu = विष्णु, secolele 8./9.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0704))
 :::
@@ -299,7 +299,7 @@ Fig.: Viṣṇu = विष्णु, secolele 8./9.
    यजति |
 
 ::: media
-![](/images/lekt0702.jpg)
+![](/images/lekt0702.webp)
 Fig.: **yajati** = यजति — Jertfă vedică = **yajña** m. = यज्ञ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0702))
 :::
@@ -321,7 +321,7 @@ Fig.: **yajati** = यजति — Jertfă vedică = **yajña** m. = यज्�
 8. Cărui zeu jertfe acest brahman?
 
 ::: media
-![](/images/lekt0703.jpg)
+![](/images/lekt0703.webp)
 Fig.: Cărui zeu i se jertfe aici? Răspuns: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0703))
 :::

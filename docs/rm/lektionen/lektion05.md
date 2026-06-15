@@ -107,7 +107,7 @@ Sch'ins da las trais ultimas disposiziuns po vegnir applicà simultanamain, duai
 **kāma** m. = काम : desideri, brama, don desiderà, plaider sensuel, amur; diev da l'amur Kāma.
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 Abb.: diev Kāma = kāmadeva = कामदेव, 18. tschientaner
 (Sursa da l'imagines: Wikipedia, Public domain)
 :::

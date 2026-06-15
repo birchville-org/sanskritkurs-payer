@@ -4,13 +4,13 @@
 
 Sanskrita a fost și este scrisă într-o varietate de scripturi. Următoarea prezentare generală oferă un mic eșantion din aceste scripturi:
 
-![](/images/schrift001.jpg)  
+![](/images/schrift001.webp)  
 Fig.: Probe de scriere sanscrită  
 \[Sursa imaginii: Wikipedia, Licență GNU FDL\]
 
 Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
-![](/images/schrift002.jpg)
+![](/images/schrift002.webp)
 
 Fiecare semn consoantă indică și un „a” care urmează consoanei. Dacă se dorește scrierea consoanei pure (fără vocala următoare), acest lucru trebuie marcat printr-o bară oblică subliniată — virāma = विराम —:
 

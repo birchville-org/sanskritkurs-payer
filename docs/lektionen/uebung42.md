@@ -38,7 +38,7 @@ Wie wird der Bruder des Ehemanns genannt? Der Gattenbruder ist als "devara" (Sch
 Der Vater wünschte die Erlangung von Enkeln.
 
 ::: media
-![](/images/uebung068.jpg)
+![](/images/uebung068.webp)
 Abb.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Bildquelle: [Details](/licenses#uebung068))
 :::
@@ -71,7 +71,7 @@ Als sie dieses Versprechen hörten, kamen Prinzen zu hunderten herbei. Doch nich
 Das Herz des Königs Janaka war hocherfreut. Dann ließ er Daśaratha und die anderen kommen und feierte mit großem Prunk das Hochzeitsfest von Sītā und Rāma.
 
 ::: media
-![](/images/uebung069.jpg)
+![](/images/uebung069.webp)
 Abb.: श्रीसीता श्रीरामश्च
 (Bildquelle: [Details](/licenses#uebung069))
 :::

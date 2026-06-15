@@ -68,7 +68,7 @@ I Buddha e gli Arhat sono liberati dalla sofferenza. Hanno infatti raggiunto la 
 A causa dell'avidità, dell'odio e dell'ignoranza, gli uomini si corrompono. Quando è giunto il momento, cadono poi in un inferno.
 
 ::: media
-![](/images/uebung040.jpg)
+![](/images/uebung040.webp)
 Fig.: लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung040))
 :::
@@ -120,7 +120,7 @@ Se qualcuno emette un falso verdetto giudiziario per superbia, avidità, ira o p
 Gli inferni sorgono a causa del male, il male sorge dalla povertà, la povertà sorge dal non dare.
 
 ::: media
-![](/images/uebung041.jpg)
+![](/images/uebung041.webp)
 Fig.: भवन्ति नरकाः पापात्
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung041))
 :::
@@ -137,7 +137,7 @@ Un ladro viene liberato dalla colpa del furto mediante la punizione o mediante i
 L'economia è utile perché produce grano, bestiame, oro, metalli e lavoro.
 
 ::: media
-![](/images/uebung042.jpg)
+![](/images/uebung042.webp)
 Fig.: वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung042))
 :::

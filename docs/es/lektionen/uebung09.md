@@ -106,7 +106,7 @@ Obediencia a los dos veces nacidos, actividades para la subsistencia, actividad 
 La economía es agricultura, ganadería y comercio.
 
 ::: media
-![](/images/uebung013.jpg)
+![](/images/uebung013.webp)
 Fig.: रक्षणं सर्वभूतानाम्
 (Fuente de la imagen: [Detalles](/licenses#uebung013))
 :::

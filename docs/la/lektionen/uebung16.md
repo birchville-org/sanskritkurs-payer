@@ -77,7 +77,7 @@ Fortes milites in vicum Brahmanorum abiit.
 Colit deitatem personalem meritum Vaiśya.
 
 ::: media
-![](/images/uebung023.jpg)
+![](/images/uebung023.webp)
 Abb.: न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति
 (Fons imaginis: [Detalia](/licenses#uebung023))
 :::
@@ -261,7 +261,7 @@ Sententia 13: **सर्वेषाम्** Genitivus pluralis masculinus ad �
 Fustes efficiunt acquisitionem et securam possessionem philosophiae, Vedicisticae et oeconomiae. Ducatus fustis est politica.
 
 ::: media
-![](/images/uebung024.jpg)
+![](/images/uebung024.webp)
 Fig.: योगश्चित्तवृत्तिनिरोधः
 (Fons imaginis: [Detalia](/licenses#uebung024))
 :::

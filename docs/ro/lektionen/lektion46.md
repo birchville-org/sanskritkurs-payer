@@ -410,23 +410,23 @@ Pentru राहु și केतु vezi:
 
 > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Introducere și prezentare generală. -- 10. Sacramente și rituri de trecere (samskara). -- Anexa C: Rahu și Ketu, planetele errante invizibile . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 Fig.: [सूर्यः, चन्द्रः, मङ्गलः](/ro/licenses#lekt4602)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 Fig.: [बुधः, बृहस्पतिः](/ro/licenses#lekt4603)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 Fig.: [शुक्रः, शनिः](/ro/licenses#lekt4604)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 Fig.: [राहुः, केतुः](/ro/licenses#lekt4605)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4605))
 :::
@@ -455,7 +455,7 @@ Inf. नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 Fig.: [नारायण तुभ्यं नमामि](/ro/licenses#lekt4607)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4607))
 :::
@@ -473,7 +473,7 @@ Inf. रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 Fig.: [अश्वरोहकः](/ro/licenses#lekt4606)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4606))
 :::
@@ -492,7 +492,7 @@ Absol. -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 Fig.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/ro/licenses#lekt4608)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4608))
 :::
@@ -521,7 +521,7 @@ din care:
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 Fig.: [श्रान्तः](/ro/licenses#lekt4609)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4609))
 :::
@@ -552,7 +552,7 @@ din care:
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 Fig.: [सङ्गः](/ro/licenses#lekt4610)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4610))
 :::
@@ -620,7 +620,7 @@ de exemplu
 भोस् Particulă vocativă: exclamație de adresare, de exemplu: he, heida, oh, ei, salut, he! adesea nu se traduce. Această particulă are un Sandhi special: în fața tuturor sunetelor sonore, acesta este ***भो***.
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 Fig.: [भोः](/ro/licenses#lekt4611)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4611))
 :::
@@ -696,7 +696,7 @@ B) Traduceți:
 नास्ति बुद्धिरयुक्तस्य ॥३॥
 
 ::: media
-![](/images/lekt4612.jpg)
+![](/images/lekt4612.webp)
 Fig.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/ro/licenses#lekt4612)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4612))
 :::

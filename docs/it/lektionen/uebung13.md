@@ -121,7 +121,7 @@ Che cosa mangiano e bevono i brāhmaṇi?
 ब्राह्मणैः किं पीतं खादितं च ॥
 
 ::: media
-![](/images/uebung019.jpg)
+![](/images/uebung019.webp)
 Fig.: अग्निर्गृहं दहति ।
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung019))
 :::
@@ -270,7 +270,7 @@ E) Tradurre in sanscrito:
 यजकैः सोमः सुतः ॥
 
 ::: media
-![](/images/uebung018.jpg)
+![](/images/uebung018.webp)
 Fig.: बाला जलं पिबति । बालया जलं पीयते ।
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung018))
 :::

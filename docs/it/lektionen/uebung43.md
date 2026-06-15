@@ -68,7 +68,7 @@ A) Formare la **seconda persona** corrispondente per tempo, numero, modo, ecc. a
 :::
 
 ::: media
-![](/images/uebung070.jpg)
+![](/images/uebung070.webp)
 Fig.: दिशसि
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung070))
 :::

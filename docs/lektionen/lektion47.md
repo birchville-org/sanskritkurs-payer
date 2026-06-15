@@ -112,7 +112,7 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 :::
 
 ::: media
-![](/images/lekt4702.jpg)
+![](/images/lekt4702.webp)
 Abb.: प्रविशत
 Hanuman Temple, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی
 (Bildquelle: [Details](/licenses#lekt4702))
@@ -129,7 +129,7 @@ Hanuman Temple, Delhi = हनुमान् मन्दिर, दिल्�
 :::
 
 ::: media
-![](/images/lekt4701.jpg)
+![](/images/lekt4701.webp)
 Abb.: नृत्यत
 (Bildquelle: [Details](/licenses#lekt4701))
 :::
@@ -170,7 +170,7 @@ A) Übersetzen Sie:
 भो राम यदि मया गन्तव्यं तदैषा कन्यापि मम सहायिनी भवतु ॥३॥
 
 ::: media
-![](/images/lekt4703.jpg)
+![](/images/lekt4703.webp)
 Abb.: भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु
 (Bildquelle: [Details](/licenses#lekt4703))
 :::
@@ -181,7 +181,7 @@ Abb.: भो राम यदि मया गन्तवं तदैषा �
 आर्ये स्वागतं ते ॥६॥
 
 ::: media
-![](/images/lekt4704.jpg)
+![](/images/lekt4704.webp)
 Abb.: आर्ये स्वागतं ते
 (Bildquelle: [Details](/licenses#lekt4704))
 :::

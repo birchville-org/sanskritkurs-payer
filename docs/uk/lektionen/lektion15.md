@@ -66,7 +66,7 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 इष्टदेवता = इष्टा देवता = "бажана богиня = богиня, до якої маєш особливі відносини відданості та притулку"
 
 ::: media
-![](/images/lekt1501.jpg)
+![](/images/lekt1501.webp)
 Рис.: लक्ष्मी
 (Джерело зображення: [Деталі](/uk/licenses#lekt1501))
 :::
@@ -89,7 +89,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 :::
     
 ::: media
-![](/images/lekt1503.jpg)
+![](/images/lekt1503.webp)
 Рис.: नरसिंहः
 (Джерело зображення: [Деталі](/uk/licenses#lekt1503))
 :::
@@ -266,7 +266,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 पूजा f.: шанування, шановний прийом, релігійне шанування (Пуджа)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 Скр.: पूजा
 (Джерело зображення: [Деталі](/uk/licenses#lekt1504))
 :::
@@ -275,7 +275,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 इन्द्र m.: князь, перший, найкращий серед ; бог-король Індра
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 Скр.: इन्द्रः
 (Джерело зображення: [Деталі](/uk/licenses#lekt1505))
 :::
@@ -304,14 +304,14 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 सिंह m.: лев (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 Скр.: सिंहः
 (Джерело зображення: [Деталі](/uk/licenses#lekt1506))
 :::
 
 व्याघ्र m.: тигр (_Panthera tigris tigris_) (досл.: зів'ялий)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 Скр.: व्याघ्रः
 (Джерело зображення: [Деталі](/uk/licenses#lekt1507))
 :::
@@ -532,7 +532,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 ६०. द्विजातिशुश्रूषया
 ::: media
-![](/images/lekt1508.jpg)
+![](/images/lekt1508.webp)
 Мал.: ग्रामदेवता
 (Джерело зображення: [Деталі](/uk/licenses#lekt1508))
 :::
@@ -595,7 +595,7 @@ B) Розв’яжіть наступні татпурӯши:
 
 २६. श्रुत्युदितम्
 ::: media
-![](/images/lekt1509.jpg)
+![](/images/lekt1509.webp)
 Мал.: नागदेवाः
 (Джерело зображення: [Деталі](/uk/licenses#lekt1509))
 :::

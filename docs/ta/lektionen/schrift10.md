@@ -20,9 +20,9 @@
 
 உதாரணங்கள் (விலக்குகள் அடிக்கோடு போடப்பட்டவை):
 
-![](/images/schrift021.jpg)
+![](/images/schrift021.webp)
 
-![](/images/schrift022.jpg)
+![](/images/schrift022.webp)
 
 ### பயிற்சி
 
@@ -32,9 +32,9 @@
 
 ![](/images/schrift023.jpg)
 
-![](/images/schrift024.jpg)
+![](/images/schrift024.webp)
 
-![](/images/schrift025.jpg)
+![](/images/schrift025.webp)
 
 ### பயிற்சி
 

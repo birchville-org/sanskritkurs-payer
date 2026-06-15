@@ -103,7 +103,7 @@ p.ex. **देव, कवे, शत्रो, राजन्, पितर्*
 ::::
 
 ::: media
-![](/images/lekt4501.jpg)
+![](/images/lekt4501.webp)
 Abb.: भवति किं करोषि
 (Font dal maletg: [Detagls](/rm/licenses#lekt4501))
 :::

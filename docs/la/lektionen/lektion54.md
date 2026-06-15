@@ -32,7 +32,7 @@ Example:
 ::::
 
 ::: media
-![](/images/lekt5402.jpg)
+![](/images/lekt5402.webp)
 Fig.: अयुयुत्सुरर्जुनः
 भगवद्गीतोपदेशः Tirupati = తిరుపతి
 (Image source: [Details](/la/licenses#lekt5402))
@@ -281,7 +281,7 @@ Scribto formas sequentes et formas Aoristi correspondentes forma:
 23.  गम्यते
 
 ::: media
-![](/images/lekt5401.jpg)
+![](/images/lekt5401.webp)
 Fig.: त्रिचक्रेणेश्वरः स्तूयते
 Tamil Nadu
 (Fons imaginis: [Detalia](/la/licenses#lekt5401))

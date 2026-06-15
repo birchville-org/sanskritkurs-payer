@@ -50,7 +50,7 @@ Coram regimine nimis rigido, creaturae tremere debent. Regime molliter habitum c
 :::
 
 ::: media
-![](/images/uebung046.jpg)
+![](/images/uebung046.webp)
 Fig.: चतुर्वर्णाश्रमो लोको
 (Fons imaginis: [Detalia](/licenses#uebung046))
 :::

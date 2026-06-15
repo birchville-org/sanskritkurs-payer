@@ -70,7 +70,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt6102.jpg)
+![](/images/lekt6102.webp)
 अभि.: ⟪स्त्रियः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6102))
 :::
@@ -157,7 +157,7 @@ status: stable
 | **⟪सप्तमी⟫** | ⟪खलप्वि⟫ | ^^ | ⟪खलपूषु⟫ |
 
 ::: media
-![](/images/lekt6106.jpg)
+![](/images/lekt6106.webp)
 अभ.: ⟪रथ्याप्वः⟫
 ⟪काशीपुर⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6106))
@@ -185,7 +185,7 @@ status: stable
 | **⟪आमन्त्रितम्⟫** | ⟪वधु⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
 
 ::: media
-![](/images/lekt6107.jpg)
+![](/images/lekt6107.webp)
 अंक: ⟪वध्वौ⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt6107))
 :::
@@ -263,7 +263,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt6104.jpg)
+![](/images/lekt6104.webp)
 अभ.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
 कर्नाटक = ಕರ್ನಾಟक
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6104))
@@ -464,13 +464,13 @@ status: stable
 | ⟪नमस्⟫ नपुं. "पूजा" | ⟪नमस्यति⟫ "वह पूजा करता है" |
 
 ::: media
-![](/images/lekt6105.jpg)
+![](/images/lekt6105.webp)
 अभ.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ⟪हरिद्वार⟫
 (चित्र-स्रोत: [विवरण](/hi/licenses#lekt6105))
 :::
 ::: media
-![](/images/lekt6103.jpg)
+![](/images/lekt6103.webp)
 अभ.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
 (चित्र-स्रोत: [विवरण](/hi/licenses#lekt6103))
 :::
@@ -490,7 +490,7 @@ status: stable
 | ⟪यशस्⟫ नपुं. "कीर्ति" | ⟪यशस्काम्यति⟫ "वह कीर्ति की इच्छा करता है" |
 
 ::: media
-![](/images/lekt6109.jpg)
+![](/images/lekt6109.webp)
 अभ.: ⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt6109))
@@ -515,7 +515,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt6110.jpg)
+![](/images/lekt6110.webp)
 अभ.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
 कार्ली
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6110))
@@ -566,7 +566,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt6111.jpg)
+![](/images/lekt6111.webp)
 अभिव्यक्ति: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6111))
 :::
@@ -586,7 +586,7 @@ status: stable
 | ⟪मुण्ड⟫ ३ "खुला" | ⟪मुण्डयति⟫ "वह खुला करता है" |
 
 ::: media
-![](/images/lekt6113.jpg)
+![](/images/lekt6113.webp)
 चित्र: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6113))
 :::
@@ -652,7 +652,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt6114.jpg)
+![](/images/lekt6114.webp)
 अभिव्यक्ति: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6114))
 :::
@@ -703,11 +703,11 @@ status: stable
 प्रत्यय तालिकाएँ: Kielhorn, व्याकरण § 153:
 
 ::: media
-![](/images/lekt6115.jpg)
+![](/images/lekt6115.webp)
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt6115))
 :::
 ::: media
-![](/images/lekt6118.jpg)
+![](/images/lekt6118.webp)
 अभिरूप: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt6118))
 :::
@@ -723,7 +723,7 @@ status: stable
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6116))
 :::
 ::: media
-![](/images/lekt6117.jpg)
+![](/images/lekt6117.webp)
 अभिरूप: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6117))
 :::
@@ -775,7 +775,7 @@ status: stable
 संस्कृत पाठ्यक्रम के समाप्त होने के बाद, संस्कृत साहित्य के महासागर में "तैरना" शुरू होता है। चूंकि यह महासागर बाधाओं से भरा है, इसलिए इस नए जीवन चरण की शुरुआत गणेश की प्रार्थना के साथ उचित है:
 
 ::: media
-![](/images/lekt6101.jpg)
+![](/images/lekt6101.webp)
 अभ.: ⟪श्रीगणनाथः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6101))
 :::
@@ -801,7 +801,7 @@ status: stable
 ताल: रूपक: o |4
 
 ::: media
-![](/images/lekt6119.jpg)
+![](/images/lekt6119.webp)
 अभ.: ध्वनि, c पर आधारित, स्वर स्थिति के अनुसार ट्रांसपोज किया जा सकता है।
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6119))
 :::

@@ -2,7 +2,7 @@
 
 ## Scriere scrisă 4
 
-![](/images/schrift006.jpg)
+![](/images/schrift006.webp)
 
 Anusvāra ṃ: Punct deasupra literelor. care precedă sunetul: कं कां किं कीं कुं कूं कें कैं कों कौं
 

@@ -32,7 +32,7 @@ Beispiel:
 ::::
 
 ::: media
-![](/images/lekt5402.jpg)
+![](/images/lekt5402.webp)
 Abb.: अयुयुत्सुरर्जुनः
 भगवद्गीतोपदेशः Tirupati = తిరుపతి
 (Bildquelle: [Details](/licenses#lekt5402))
@@ -279,7 +279,7 @@ Nasalinfix:
 23.  गम्यते
 
 ::: media
-![](/images/lekt5401.jpg)
+![](/images/lekt5401.webp)
 Abb.: त्रिचक्रेणेश्वरः स्तूयते
 Tamil Nadu
 (Bildquelle: [Details](/licenses#lekt5401))

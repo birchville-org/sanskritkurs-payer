@@ -67,7 +67,7 @@ Mientras la brahmánica llega al gran poeta, también llega su hijo.
 Si los maestros enseñan, los niños bien educados no deben charlar (hablar).
 
 ::: media
-![](/images/uebung044.jpg)
+![](/images/uebung044.webp)
 Fig.: गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति
 (Fuente de la imagen: [Detalles](/licenses#uebung044))
 :::

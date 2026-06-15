@@ -2,7 +2,7 @@
 
 ## Writing Exercise 3
 
-![](/images/schrift005.jpg)
+![](/images/schrift005.webp)
 
 ## Exercise
 

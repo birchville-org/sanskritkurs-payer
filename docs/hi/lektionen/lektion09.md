@@ -100,7 +100,7 @@ last_reconstructed: 2026-05-07
 - **adhyayana** n. (⟪अध्ययन⟫) : ⟪अध्ययन⟫, विशेष ⟪रूप⟫ से वेद ⟪अध्ययन⟫
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 अभि.: **adhyayana** = ⟪अध्ययन⟫, श्री स्कन्दगुरु विद्यालय, तिरुपरंकुंड्रम, मदुरा के पास।
 (छवि स्रोत: [विवरण](/hi/licenses#lekt0903))
 :::
@@ -108,7 +108,7 @@ last_reconstructed: 2026-05-07
 - **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : शिल्पी
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 अभि.: **kāru** = ⟪कारु⟫, गुजरात।
 (छवि स्रोत: [विवरण](/hi/licenses#lekt0902))
 :::
@@ -143,7 +143,7 @@ last_reconstructed: 2026-05-07
 7\. **⟪कर्षक⟫** ⟪कर्षक⟫
 
 ::: media
-![](/images/lekt0901.jpg)
+![](/images/lekt0901.webp)
 अभ.: **⟪कर्षक⟫** = ⟪कर्षक⟫.
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt0901))
 :::

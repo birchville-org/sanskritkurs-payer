@@ -55,7 +55,7 @@ Determinare le seguenti forme:
 :::
 
 ::: media
-![](/images/uebung078.jpg)
+![](/images/uebung078.webp)
 Fig.: गायी
 (Bildquelle: [Details](/it/licenses#uebung078))
 :::
@@ -75,7 +75,7 @@ Domande del re **शूद्रक** di **विदिशा** al pappagallo **
 > Vaiśampāyana, tuttavia, che era stato posto dal signore della terra con una curiosità spontanea con grande rispetto, rifletté un momento e poi rispose con grande rispetto: "Re, questa è una storia lunga. Se ti interessa, prestami il tuo orecchio!"
 
 ::: media
-![](/images/uebung079.jpg)
+![](/images/uebung079.webp)
 Fig.: शुकः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung079))
 :::

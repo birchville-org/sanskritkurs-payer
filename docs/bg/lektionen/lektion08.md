@@ -102,7 +102,7 @@ last_reconstructed: 2026-05-07
 | **dṛś** 4 P[[br]]दृश्[[br]]"виждам" | **darśana** n.[[br]]दर्शन | "виждането, гледна точка, философска система, явление, специално: Darśan" |
 
 ::: media
-![](/images/lekt0801.jpg)
+![](/images/lekt0801.webp)
 Ил.: Maa Batakali Darshan, Puri, Orissa
 (Източник на изображението: [Подробности](/bg/licenses#lekt0801))
 :::

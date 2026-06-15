@@ -77,7 +77,7 @@ Los guerreros fuertes han ido a la aldea de los brahmanes.
 Él venera la deidad personal del vaiśya meritorio.
 
 ::: media
-![](/images/uebung023.jpg)
+![](/images/uebung023.webp)
 Leyenda: न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति
 (Fuente de la imagen: [Detalles](/licenses#uebung023))
 :::
@@ -261,7 +261,7 @@ Oración 13: **सर्वेषाम्** Gen. pl. masc. a सर्व "cada
 El palo provoca la adquisición y la posesión segura de filosofía, vedística y economía. La dirección del palo es política.
 
 ::: media
-![](/images/uebung024.jpg)
+![](/images/uebung024.webp)
 Fig.: योगश्चित्तवृत्तिनिरोधः
 (Fuente de la imagen: [Detalles](/licenses#uebung024))
 :::

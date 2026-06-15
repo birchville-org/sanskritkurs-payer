@@ -108,7 +108,7 @@ Nota: ¹ Las desinencias de la 2. y 3. persona singular pueden sustituirse por *
 :::
 
 ::: media
-![](/images/lekt4702.jpg)
+![](/images/lekt4702.webp)
 Fig.: प्रविशत
 Templo de Hanuman, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4702))
@@ -126,7 +126,7 @@ Templo de Hanuman, Delhi = हनुमान् मन्दिर, दिल�
 :::
 
 ::: media
-![](/images/lekt4701.jpg)
+![](/images/lekt4701.webp)
 Fig.: नृत्यत
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4701))
 :::
@@ -168,7 +168,7 @@ A) Traduzca:
 भो राम यदि मया गन्तव्यं तदैषा कन्यापि मम सहायिनी भवतु ॥३॥
 
 ::: media
-![](/images/lekt4703.jpg)
+![](/images/lekt4703.webp)
 Fig.: भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4703))
 :::
@@ -179,7 +179,7 @@ Fig.: भो राम यदि मया गन्तवं तदैषा �
 आर्ये स्वागतं ते ॥६॥
 
 ::: media
-![](/images/lekt4704.jpg)
+![](/images/lekt4704.webp)
 Fig.: आर्ये स्वागतं ते
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4704))
 :::

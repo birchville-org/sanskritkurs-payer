@@ -108,7 +108,7 @@ Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfe
 भोजन, निद्रा, भय और मैथुन पशुओं और मनुष्यों में सामान्य है। मनुष्यों का विशिष्ट गुण धर्म है। धर्म के बिना वे पशुओं के समान हैं।
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 अभ.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (छवि स्रोत: [विवरण](/hi/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) निम्नलिखित धातुओं के लिए मूल�
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 अभि.: ⟪बालाः⟫ ⟪पिबन्ति⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung036))
 :::

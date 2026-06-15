@@ -96,7 +96,7 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī es una diosa" = देवी
 > (Indrāṇī es la esposa del dios Indra.)
 
 ::: media
-![](/images/lekt0301.jpg)
+![](/images/lekt0301.webp)
 Fig.: Indra e Indrāṇī sobre el elefante Airavata, miniatura, Rājasthān, 1670/80
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0301))
 :::
@@ -194,7 +194,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Los vaiśyas son dos veces nacidos"
 **devī** f. = देवी : diosa, en especial Durgā f. = दुर्गा, la esposa de Śiva = शिव.
 
 ::: media
-![](/images/lekt0303.jpg)
+![](/images/lekt0303.webp)
 Fig.: Durgā = दुर्गा, Orissa
 (Fuente de la imagen: [Detalles](/images/lekt0303))
 :::

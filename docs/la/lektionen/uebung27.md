@@ -67,7 +67,7 @@ Dum Brahmana ad magnum poetam venit, etiam filius eius venit.
 Si doctores docent, bene educati pueri non fabulari debent (loqui).
 
 ::: media
-![](/images/uebung044.jpg)
+![](/images/uebung044.webp)
 Abb.: गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति
 (Fons imaginis: [Detalia](/licenses#uebung044))
 :::

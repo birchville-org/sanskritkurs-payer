@@ -34,7 +34,7 @@ last_reconstructed: 2026-05-15
 19.  अचेतः - चित् 1П 2.ос.Нев.Він ти сприйняв - अचेतीः
 
 :::: media
-![](/images/uebung095.jpg)
+![](/images/uebung095.webp)
 Мал.: तब्लाः
 (Джерело зображення: [Деталі](/uk/licenses#uebung095))
 :::
@@ -46,7 +46,7 @@ last_reconstructed: 2026-05-15
 Визначте та перекладіть наступні форми:
 
 ::: media
-![](/images/uebung097.jpg)
+![](/images/uebung097.webp)
 Мал.: मातुलङ्गविक्रेतायं ना ॥  
 Пуне - पुणे  
 \[Джерело зображення: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Доступ від 2009-03-12. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, некомерційне використання, без похідних робіт)\]
@@ -91,7 +91,7 @@ last_reconstructed: 2026-05-15
 38.  दद - दा 3U 2.pl.Perf.P ви дали
 39.  अञ्ज्वः - अञ्ज् 7P 1.du.Ind.Präs.P ми обидва мащують
 
-![](/images/uebung096.jpg)
+![](/images/uebung096.webp)
 Мал.: श्वा श्वानमघ्रात्
 (Джерело зображення: [Деталі](/uk/licenses#uebung096))
 :::

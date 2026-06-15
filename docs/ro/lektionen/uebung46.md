@@ -85,7 +85,7 @@ Din mânie provine orbirea, din orbire, confuzia atenției (amintirii); din pier
 Pentru cel necontrolat (non-yogin) nu există înțelepciune.
 
 ::: media
-![](/images/uebung080.jpg)
+![](/images/uebung080.webp)
 Fig.: सक्तः
 (Sursa imaginii: [Detalii](/licenses#uebung080))
 :::

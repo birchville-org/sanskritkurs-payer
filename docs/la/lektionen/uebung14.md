@@ -176,7 +176,7 @@ Cui haec aedificia pertinent?
 Cuius cibum hic sapiens Vedic sacrificavit?
 
 ::: media
-![](/images/uebung017.jpg)
+![](/images/uebung017.webp)
 Fig.: नायकश्च नायिका च
 (Fons imaginis: [Detalia](/licenses#uebung017))
 :::

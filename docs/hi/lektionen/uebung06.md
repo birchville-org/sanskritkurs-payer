@@ -599,7 +599,7 @@ sarvathā kuśalam.
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
 ::: media
-![](/images/uebung005.jpg)
+![](/images/uebung005.webp)
 अभ.: ⟪देवतान्नपूर्णा⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung005))
 :::

@@ -33,7 +33,7 @@ last_reconstructed: 2026-05-15
 19.  अचेतः - चित् 1П 2.ед.Наст.П ти възприехте - अचेतीः
 
 :::: media
-![](/images/uebung095.jpg)
+![](/images/uebung095.webp)
 Обр.: तब्लाः
 (Източник на изображението: [Подробности](/bg/licenses#uebung095))
 :::
@@ -45,7 +45,7 @@ last_reconstructed: 2026-05-15
 Определете и преведете следните форми:
 
 ::: media
-![](/images/uebung097.jpg)
+![](/images/uebung097.webp)
 Бел.: मातुलङ्गविक्रेतायं ना ॥  
 Пуне - पुणे  
 \[Източник на изображението: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Достъп на 2009-03-12. -- [Лиценз Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, Non-commercial, No derivatives)\]
@@ -90,7 +90,7 @@ last_reconstructed: 2026-05-15
 38.  दद - दा 3U 2.pl.Perf.P вие дадохте
 39.  अञ्ज्वः - अञ्ज् 7P 1.du.Ind.Präs.P ние двамата помазваме
 
-![](/images/uebung096.jpg)
+![](/images/uebung096.webp)
 Бел.: श्वा श्वानमघ्रात्
 (Източник на изображението: [Подробности](/bg/licenses#uebung096))
 :::

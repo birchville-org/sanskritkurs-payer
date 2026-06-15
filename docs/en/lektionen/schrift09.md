@@ -20,9 +20,9 @@ Abbreviation marks (e.g., in references to works) are °, e.g., पा° = pā(�
 
 ### Further Vowels in Initial Position
 
-![](/images/schrift018.jpg)
+![](/images/schrift018.webp)
 
-![](/images/schrift019.jpg)
+![](/images/schrift019.webp)
 
 Note that a, ā, o, and au are written according to the same basic scheme.
 

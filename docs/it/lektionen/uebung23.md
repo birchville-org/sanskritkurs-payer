@@ -108,7 +108,7 @@ Poiché voleva ascoltare il Dharma, la Brahmana è andata nella grande città co
 Mangiare, dormire, paura e sesso sono comuni agli esseri umani e al bestiame. La differenza distintiva degli esseri umani risiede nel Dharma. Senza Dharma, essi sono uguali al bestiame.
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 Fig.: आहारनिद्राभयमैथुनं च
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) Fornite le forme della radice (significato, classe del presente, modo, 3. sg.
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 Fig.: बालाः पिबन्ति
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung036))
 :::

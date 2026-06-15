@@ -122,7 +122,7 @@ C) Composita sequentia defini et vertas:
 :::
 
 ::: media
-![](/images/uebung062.jpg)
+![](/images/uebung062.webp)
 Fig.: पुत्रे जात आर्यः सुखमाप्नोति
 (Fons imaginis: [Detalia](/licenses#uebung062))
 :::

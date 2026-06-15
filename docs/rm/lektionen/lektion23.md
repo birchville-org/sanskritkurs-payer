@@ -235,7 +235,7 @@ D) Tradusci e rescleria ils cumponiments:
 फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥
 
 ::: media
-![](/images/lekt2303.jpg)
+![](/images/lekt2303.webp)
 Fig.: फलवन्ति पुण्यानीति
 ทำบุญ = पुण्यकरणम्, Thailand = ประเทศไทย
 (Font da l’imagine: [Detagls](/rm/licenses#lekt2303))
@@ -245,7 +245,7 @@ Fig.: फलवन्ति पुण्यानीति
 सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
 
 ::: media
-![](/images/lekt2301.jpg)
+![](/images/lekt2301.webp)
 Fig.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
 Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
 (Font da l’imagine: [Detagls](/rm/licenses#lekt2301))
@@ -270,7 +270,7 @@ C) Tradusci il suenterstant सुभाषितम्
 Explicaziun: हीन ३: PPP a हा 3: bandunar ; धर्मे = Locativ singular "en il ..."
 
 ::: media
-![](/images/lekt2302.jpg)
+![](/images/lekt2302.webp)
 Fig.: आहारनिद्राभयमैथुनं च
 Chittorgarh = चित्तौडगढ
 (Font da l’imagine: [Detagls](/rm/licenses#lekt2302))

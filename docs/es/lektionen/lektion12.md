@@ -175,7 +175,7 @@ En las formaciones *aniṭ* se deben tener en cuenta las siguientes leyes de la 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : despertar, despertar al conocimiento, reconocer; PPP **buddha** 3 despertado, por lo tanto **Buddha** = "el Despertado" (no: el Iluminado)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 Fig.: गौतमो बुद्धः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1201))
 :::
@@ -186,7 +186,7 @@ Fig.: गौतमो बुद्धः
 - **mārga** m. मार्ग : camino (los caminos a menudo eran los senderos de animales)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 Fig.: मार्गः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1202))
 :::
@@ -205,7 +205,7 @@ Para la formación de palabras:
 - **budh**: **bodhi** m./f. बोधि : el despertar (por el cual un Buda o Jina alcanza la comprensión salvadora)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 Fig.: महावीरो जिनः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1203))
 :::

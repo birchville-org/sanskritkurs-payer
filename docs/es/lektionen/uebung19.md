@@ -59,7 +59,7 @@ Quien tiene prosperidad, ese es un hombre en el mundo,
 Quien precisamente tiene prosperidad, ese es un erudito.
 
 ::: media
-![](/images/uebung029.jpg)
+![](/images/uebung029.webp)
 Lám.: यस्यार्थास्तस्य मित्राणि
 (Fuente de la imagen: [Detalles](/licenses#uebung029))
 :::

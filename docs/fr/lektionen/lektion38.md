@@ -27,7 +27,7 @@ Explications :
 \-गु Neutre Nominatif/Accusatif singulier de गो m.f. « bœuf, vache »
 
 ::: media
-![](/images/lekt3801.jpg)
+![](/images/lekt3801.webp)
 Fig. : प्रज्ञा नश्यति मेहतः
 (Source de l’image : [Détails](/fr/licenses#lekt3801))
 :::
@@ -98,7 +98,7 @@ Exemples :
 ::::
 
 ::: media
-![](/images/lekt3803.jpg)
+![](/images/lekt3803.webp)
 Fig. : सीमा
 (Source de l'image : [Détails](/fr/licenses#lekt3803))
 :::
@@ -204,7 +204,7 @@ Exemple :
 हस्तिन् m. : celui qui est marqué par une main particulière = l'éléphant (sa main n'est pas une main ordinaire, mais une trompe)
 
 ::: media
-![](/images/lekt3806.jpg)
+![](/images/lekt3806.webp)
 Fig. : हस्ती
 (Source de l'image : [Détails](/fr/licenses#lekt3806))
 :::
@@ -212,7 +212,7 @@ Fig. : हस्ती
 हस्तवन्त् : celui qui a des mains (humaines)
 
 ::: media
-![](/images/lekt3807.jpg)
+![](/images/lekt3807.webp)
 Fig. : हस्तवान्
 (Source de l'image : [Détails](/fr/licenses#lekt3807))
 :::
@@ -308,7 +308,7 @@ Exemple :
 सूर्य m. : Soleil, dieu-soleil Sūrya
 
 ::: media
-![](/images/lekt3802.jpg)
+![](/images/lekt3802.webp)
 Fig. : सूर्यः
 (Source de l'image : [Détails](/fr/licenses#lekt3802))
 :::
@@ -317,7 +317,7 @@ Fig. : सूर्यः
 उदक n. : Eau
 
 ::: media
-![](/images/lekt3805.jpg)
+![](/images/lekt3805.webp)
 Fig. : उदकम्
 (Source de l'image : [Détails](/fr/licenses#lekt3805))
 :::
@@ -348,7 +348,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt3804.jpg)
+![](/images/lekt3804.webp)
 Fig. : गौतमबुद्धस्य महापरिनिर्वाणम्
 (Source de l'image : [Détails](/fr/licenses#lekt3804))
 :::
@@ -392,7 +392,7 @@ de राज :
 ब्रह्मन् m. : le dieu créateur pensé personnellement Brahmā
 
 ::: media
-![](/images/lekt3809.jpg)
+![](/images/lekt3809.webp)
 Fig. : ब्रह्मा
 (Source de l'image : [Détails](/fr/licenses#lekt3809))
 :::
@@ -433,13 +433,13 @@ dont :
 :::
 
 ::: media
-![](/images/lekt3810.jpg)
+![](/images/lekt3810.webp)
 Fig. : अशोकवृक्षः
 (Source de l'image : [Détails](/fr/licenses#lekt3810))
 :::
 
 ::: media
-![](/images/lekt3811.jpg)
+![](/images/lekt3811.webp)
 Fig. : अशोकसाम्राज्यम्
 (Source de l'image : [Détails](/fr/licenses#lekt3811))
 :::
@@ -485,7 +485,7 @@ A) Conjuguez les formes appropriées des mots entre parenthèses dans les phrase
 विनोद m. : passe-temps, divertissement, plaisir
 
 ::: media
-![](/images/lekt3812.jpg)
+![](/images/lekt3812.webp)
 Fig. : विनोदः
 (Source de l'image : [Détails](/fr/licenses#lekt3812))
 :::
@@ -516,7 +516,7 @@ Inf. तरितुम् । तरीतुम्
 तीर n. : rive
 
 ::: media
-![](/images/lekt3813.jpg)
+![](/images/lekt3813.webp)
 Fig. : वाराणस्यां गङ्गातीरे
 (Source de l'image : [Détails](/fr/licenses#lekt3813))
 :::
@@ -535,7 +535,7 @@ Inf. गणयितुम्
 :::
 
 ::: media
-![](/images/lekt3814.jpg)
+![](/images/lekt3814.webp)
 Fig. : गणयां चक्रुः
 (Source de l'image : [Détails](/fr/licenses#lekt3814))
 :::

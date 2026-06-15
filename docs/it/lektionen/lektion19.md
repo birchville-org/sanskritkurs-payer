@@ -98,7 +98,7 @@ Nota: Nelle relative di contenuto universalmente valido si usa volentieri l'otta
 :::
 
 ::: media
-![](/images/lekt1809.jpg)
+![](/images/lekt1809.webp)
 Fig.: कामः
 Illustrazione relativa a कामसूत्र
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1809))
@@ -128,7 +128,7 @@ da **स्था** :
 :::
 
 ::: media
-![](/images/lekt1901.jpg)
+![](/images/lekt1901.webp)
 Fig.: गर्भगृहम्
 Badami (ಬದಾಮಿ)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1901))
@@ -158,7 +158,7 @@ da ciò:
 **छत्त्र n.:** Ombrello, parasole
 
 ::: media
-![](/images/lekt1904.jpg)
+![](/images/lekt1904.webp)
 Fig.: छत्त्रम्
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), con l'abito tradizionale, è una consuetudine nelle parti meridionali del Kerala. _Onappottan_ visita le case durante la festa di _onam_ e impartisce benedizioni. Recentemente, la figura di _onappottan_ è diventata una vista rara, confinata ai villaggi."
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1904))

@@ -100,7 +100,7 @@ vezi mai sus, de ex. **śrāvaka**, **yājaka**, **jayaka**
 - **adhyayana** n. (अध्ययन) : învățare, în special studiu vedic
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 Fig.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram lângă Madurai.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0903))
 :::
@@ -108,7 +108,7 @@ Fig.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparanku
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : meșter
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 Fig.: **kāru** = कारु, Gujarat.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0902))
 :::
@@ -143,7 +143,7 @@ Fig.: **kāru** = कारु, Gujarat.
 7\. **karṣaka** कर्षक
 
 ::: media
-![](/images/lekt0901.jpg)
+![](/images/lekt0901.webp)
 Fig.: **karṣaka** = कर्षक.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0901))
 :::

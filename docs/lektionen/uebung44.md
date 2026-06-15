@@ -98,7 +98,7 @@ Auch Hassenswertes sollt ihr nicht hassen, und nach Begehrenswertem sollt ihr ni
 Du hast die Nicht-zu-Beklagenden beklagt und wolltest Worte der Weisheit sprechen; doch die Weisen beklagen weder die Toten noch die Lebenden.
 
 ::: media
-![](/images/uebung072.jpg)
+![](/images/uebung072.webp)
 Abb.: मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति
 (Bildquelle: [Details](/licenses#uebung072))
 :::
@@ -155,7 +155,7 @@ Bestimmen Sie folgende Wortformen:
 :::
 
 ::: media
-![](/images/uebung073.jpg)
+![](/images/uebung073.webp)
 Abb.: वदिता
 (Bildquelle: [Details](/licenses#uebung073))
 :::

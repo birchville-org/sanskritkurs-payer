@@ -141,7 +141,7 @@ The forms त्वा, ते, वस् must not be used at the beginning of a
 आपण m.: market
 
 ::: media
-![](/images/lekt4302.jpg)
+![](/images/lekt4302.webp)
 Fig.: आपणः
 (Image source: [Details](/en/licenses#lekt4302))
 :::
@@ -151,7 +151,7 @@ Fig.: आपणः
 पण्य 3: for sale; n.: goods, trade
 
 ::: media
-![]/images/lekt4303.jpg
+![]/images/lekt4303.webp
 Fig.: पण्यानि
 (Image source: [Details](/en/licenses#lekt4303))
 :::
@@ -174,7 +174,7 @@ Fig.: पण्यानि
 विपणि f.: shop
 
 ::: media
-![](/images/lekt4304.jpg)
+![](/images/lekt4304.webp)
 Fig.: विपणिः
 (Image source: [Details](/en/licenses#lekt4304))
 :::
@@ -182,7 +182,7 @@ Fig.: विपणिः
 वणिज् m.: merchant
 
 ::: media
-![](/images/lekt4305.jpg)
+![](/images/lekt4305.webp)
 Fig.: वणिक्
 (Image source: [Details](/en/licenses#lekt4305))
 :::
@@ -194,7 +194,7 @@ Fig.: वणिक्
 वत्स m.: calf, young, child; voc.: my dear
 
 ::: media
-![](/images/lekt4306.jpg)
+![](/images/lekt4306.webp)
 Fig.: वत्सः
 (Image source: [Details](/en/licenses#lekt4306))
 :::
@@ -216,7 +216,7 @@ Fig.: वत्सः
 तुल् 10 तुलयति । तोलयति : to weigh
 
 ::: media
-![](/images/lekt4307.jpg)
+![](/images/lekt4307.webp)
 Fig.: तोलन्ति
 (Image source: [Details](/en/licenses#lekt4307))
 :::
@@ -339,7 +339,7 @@ B) Translate into Sanskrit:
 10\. How do you save yourself (cross over) from the enemy?
 
 ::: media
-![](/images/lekt4308.jpg)
+![](/images/lekt4308.webp)
 Fig.: कदा पूराववर्तथाः ।
 (Image source: [Details](/en/licenses#lekt4308))
 :::
@@ -375,7 +375,7 @@ Fig.: कदा पूराववर्तथाः ।
 | (After: Saral Sanskrit Shikshak III, p. 4f.) | |
 
 ::: media
-![](/images/lekt4309.jpg)
+![](/images/lekt4309.webp)
 Fig.: शर्करा
 (Image source: [Details](/en/licenses#lekt4309))
 :::

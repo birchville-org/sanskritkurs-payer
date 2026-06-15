@@ -65,7 +65,7 @@ B) Versio facite, compositis in Sanscritum utentes:
 अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः शूद्रा अपि ॥
 
 ::: media
-![](/images/uebung031.jpg)
+![](/images/uebung031.webp)
 Abb.: शस्त्राजीवः क्षत्रियः
 (Fons imaginis: [Detalia](/licenses#uebung031))
 :::
@@ -239,7 +239,7 @@ Solvite sequentia Composita ut Bahuvrīhi et/aut Dvandva et/aut Tatpuruṣus, se
 ८१. **सोढदुःखाः** । सोढं दुःखं यैस्ते ।
 
 ::: media
-![](/images/uebung030.jpg)
+![](/images/uebung030.webp)
 Fig.: सम्पन्नरूपा रूपसम्पन्ना
 (Fons imaginis: [Detalia](/licenses#uebung030))
 :::
@@ -295,7 +295,7 @@ In medio gracilis, in coxis lata, rubris labiis, nigris oculis, umbilico curvato
 Pauperes, quos non desiderant, multos filios habent, divites nullum unum filium. Mirabilis est cursus creationis.
 
 ::: media
-![](/images/uebung032.jpg)
+![](/images/uebung032.webp)
 Fig.: सन्ति पुत्राः सुबहवो दरिद्राणाम्
 (Fons imaginis: [Detalia](/licenses#uebung032))
 :::

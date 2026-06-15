@@ -73,7 +73,7 @@ Reflexionen del loro **वैशम्पायन** sobre la vida de cazador:
 > Y se me hizo consciente: ¡Ay, su vida, ¡oh cazadores!, consiste principalmente en ignorancia, y su conducta es censurada por los buenos. Así es: Consideran la ofrenda de carne humana como la verdadera religión; su alimento consiste en vino de miel, carne y similares, censurados por los buenos; su esfuerzo es la caza; su enseñanza es el aullido de los chacales; los búhos son sus maestros de bien y mal; su sabiduría es la ornitología; sus confidentes son los perros; su reino está en los bosques vacíos; su festividad es la embriaguez; sus amigos son los arcos, que realizan actos crueles; sus compañeros son las flechas, cuya punta está untada con veneno como las serpientes; su canto trae la ruina a la fauna confusa; sus mujeres son las jóvenes secuestradas de otros; viven junto con tigres crueles; con sangre de animales veneran a las deidades; ofrecen carne como ofrendas; viven del robo; su ornamento son las piedras preciosas de las serpientes; frotan sus miembros con la savia del celo de los elefantes salvajes; cada bosque en el que se establecen, lo desarraigan completamente – Mientras reflexionaba de esta manera, el general de los Śabaras entró a mi presencia.
 
 ::: media
-![](/images/uebung086.jpg)
+![](/images/uebung086.webp)
 Fig.: Cazador
 (Fuente de la imagen: [Detalles](/licenses#uebung086))
 :::

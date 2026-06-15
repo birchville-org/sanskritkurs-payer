@@ -175,7 +175,7 @@ In *aniṭ*-formations, the following laws of sound combination in the word must
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : to awaken, to awaken to knowledge, to recognize; PPP **buddha** 3 awakened, hence **Buddha** = "the Awakened" (not: the Enlightened)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 Fig.: गौतमो बुद्धः
 (Image source: [Details](/en/licenses#lekt1201))
 :::
@@ -186,7 +186,7 @@ Fig.: गौतमो बुद्धः
 - **mārga** m. मार्ग : path (paths were often game trails)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 Fig.: मार्गः
 (Image source: [Details](/en/licenses#lekt1202))
 :::
@@ -205,7 +205,7 @@ Regarding word formation:
 - **budh**: **bodhi** m./f. बोधि : the awakening (through which a Buddha or Jina attains liberating insight)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 Fig.: महावीरो जिनः
 (Image source: [Details](/en/licenses#lekt1203))
 :::

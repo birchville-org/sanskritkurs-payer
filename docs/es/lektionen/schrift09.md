@@ -20,9 +20,9 @@ Los signos de abreviatura (p. ej., en referencias a obras) son °, p. ej., प�
 
 ### Otros vocales en posición inicial
 
-![](/images/schrift018.jpg)
+![](/images/schrift018.webp)
 
-![](/images/schrift019.jpg)
+![](/images/schrift019.webp)
 
 Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
 

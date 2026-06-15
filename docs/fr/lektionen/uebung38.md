@@ -58,7 +58,7 @@ Si les rois ne préservent pas la justice et les coutumes, les hommes sont plein
 :::
 
 ::: media
-![](/images/uebung063.jpg)
+![](/images/uebung063.webp)
 Fig. : राज्ञे बलिनो हस्तिनो दीयेरन्
 (Source de l'image : [Détails](/fr/licenses#uebung063))
 :::

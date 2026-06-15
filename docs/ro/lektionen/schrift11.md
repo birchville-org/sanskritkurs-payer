@@ -22,7 +22,7 @@ B) Citiți și transliterați:
 
 ### Clasificarea sunetelor limbii sanscrită (din: Kielhorn: Gramatică limbii sanscrite)
 
-![](/images/schrift028.jpg)
+![](/images/schrift028.webp)
 
 ### Sfârșitul exercițiilor de scriere
 

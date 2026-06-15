@@ -114,7 +114,7 @@ Nota: ¹ Desinenses secundae et tertiae singularis per -tāt substitui possunt, 
 :::
 
 ::: media
-![](/images/lekt4702.jpg)
+![](/images/lekt4702.webp)
 Fig.: प्रविशत
 Templum Hanumatis, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی
 (Fons imaginis: [Descriptiones](/la/licenses#lekt4702))
@@ -132,7 +132,7 @@ Templum Hanumatis, Delhi = हनुमान् मन्दिर, दिल�
 :::
 
 ::: media
-![](/images/lekt4701.jpg)
+![](/images/lekt4701.webp)
 Fig.: नृत्यत
 (Fons imaginis: [Detalia](/la/licenses#lekt4701))
 :::
@@ -174,7 +174,7 @@ A) Vertite:
 भो राम यदि मया गन्तव्यं तदैषा कन्यापि मम सहायिनी भवतु ॥३॥
 
 ::: media
-![](/images/lekt4703.jpg)
+![](/images/lekt4703.webp)
 Fig.: भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु
 (Fons imaginis: [Detalia](/la/licenses#lekt4703))
 :::
@@ -185,7 +185,7 @@ Fig.: भो राम यदि मया गन्तवं तदैषा �
 आर्ये स्वागतं ते ॥६॥
 
 ::: media
-![](/images/lekt4704.jpg)
+![](/images/lekt4704.webp)
 Fig.: आर्ये स्वागतं ते
 (Fons imaginis: [Detalia](/la/licenses#lekt4704))
 :::

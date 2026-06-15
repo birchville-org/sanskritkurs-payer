@@ -213,11 +213,11 @@ status: stable
 ਪੈਰਾਡਿਗਮਾਂ ਲਈ Kielhorn, Grammatik § 124 ਦੇਖੋ:
 
 ::: media
-![](/images/lekt6001.jpg)
+![](/images/lekt6001.webp)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt6001))
 :::
 ::: media
-![](/images/lekt6002.jpg)
+![](/images/lekt6002.webp)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt6002))
 :::
 
@@ -253,11 +253,11 @@ status: stable
 ####  ਪ੍ਰਤਿਪਾਦ Kielhorn, ਵਿਆਕਰਣ § 128 ਵਿੱਚ ਦੇਖੋ:
 
 ::: media
-![](/images/lekt6003.jpg)
+![](/images/lekt6003.webp)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt6003))
 :::
 ::: media
-![](/images/lekt6004.jpg)
+![](/images/lekt6004.webp)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt6004))
 :::
 ਇਸ ਸ਼੍ਰੇਣੀ ਵਿੱਚ ਸ਼ਾਮਲ ਹਨ:
@@ -402,7 +402,7 @@ status: stable
 Kielhorn, ਵਿਆਕਰਣ § 452 ਵਿੱਚ ਸੂਚੀ:
 
 ::: ਮੀਡੀਆ
-![](/images/lekt6006.jpg)
+![](/images/lekt6006.webp)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt6006))
 :::
 
@@ -448,15 +448,15 @@ P: यियक्षति "ਉਹ ਚਾਹੁੰਦਾ ਹੈ, ਕਿਸੇ �
 A) ਕੀਲਹੋਰਨ ਵਿੱਚ, ਵਿਆਕਰਣ § 451 ਵਿੱਚ ਸਿੱਖੋ, ਪਿਛਲੇ ਸਿੱਖੇ ਕ੍ਰਿਆਪਦਾਂ ਲਈ ਅਨਿਯਮਿਤ ਇੱਛਾਵਾਚਕ ਰੂਪ:
 
 ::: media
-![](/images/lekt6007.jpg)
+![](/images/lekt6007.webp)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt6007))
 :::
 ::: media
-![](/images/lekt6008.jpg)
+![](/images/lekt6008.webp)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt6008))
 :::
 ::: media
-![](/images/lekt6009.jpg)
+![](/images/lekt6009.webp)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt6009))
 :::
 B) ਬਿਨਾਂ ਸਹਾਇਕ ਸਾਧਨਾਂ ਦੇ ਹੇਠ ਲਿਖੇ ਰੂਪਾਂ ਦਾ ਨਿਰਧਾਰਨ ਅਤੇ ਅਨੁਵਾਦ ਕਰੋ:

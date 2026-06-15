@@ -143,7 +143,7 @@ D) Traducite:
 Officium omnium est: non-violentia, veridicitas, puritas, non murmurationem contra sortem, absque malitia et patientia toleranter.
 
 ::: media
-![](/images/uebung028.jpg)
+![](/images/uebung028.webp)
 Fig.: दुर्गमो मार्गः
 (Fons imaginis: [Detalia](/licenses#uebung028))
 :::

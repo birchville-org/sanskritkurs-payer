@@ -68,7 +68,7 @@ A) Formați persoana a **2-a** corespunzătoare, în timp, număr, mod etc., pen
 :::
 
 ::: media
-![](/images/uebung070.jpg)
+![](/images/uebung070.webp)
 Fig.: दिशसि
 (Sursa imaginii: [Detalii](/licenses#uebung070))
 :::

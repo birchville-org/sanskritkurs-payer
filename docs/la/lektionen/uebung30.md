@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 Verba vera, quae iucunda sunt, dicantur; verba vera, quae odiosa sunt, non dicantur; falsa, quae iucunda sunt, non dicantur; hoc est lex aeterna.
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 Fig.: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (Fons imaginis: [Detalia](/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Determinate et vertite sequentes formas verborum:
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 Fig.: भक्त्याः
 (Fons imaginis: [Detalia](/licenses#uebung047))
 :::

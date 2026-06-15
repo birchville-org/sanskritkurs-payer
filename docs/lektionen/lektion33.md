@@ -258,7 +258,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt3306.jpg)
+![](/images/lekt3306.webp)
 Abb.: दानम्
 (Bildquelle: [Details](/licenses#lekt3306))
 :::
@@ -270,7 +270,7 @@ Abb.: दानम्
 :::
 
 ::: media
-![](/images/lekt3307.jpg)
+![](/images/lekt3307.webp)
 Abb.: सा पुत्रमादाय भारं बिभ्रती गच्छति
 (Bildquelle: [Details](/licenses#lekt3307))
 :::
@@ -294,7 +294,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt3305.jpg)
+![](/images/lekt3305.webp)
 Abb.: समाधि
 (Bildquelle: [Details](/licenses#lekt3305))
 :::
@@ -331,7 +331,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt3304.jpg)
+![](/images/lekt3304.webp)
 Abb.: भयम्
 (Bildquelle: [Details](/licenses#lekt3304))
 :::
@@ -384,7 +384,7 @@ von PPP **हीन**:
 :::
 
 ::: media
-![](/images/lekt3303.jpg)
+![](/images/lekt3303.webp)
 Abb.: हीनयानमेव
 (Bildquelle: [Details](/licenses#lekt3303))
 :::
@@ -400,7 +400,7 @@ Abb.: हीनयानमेव
 :::
 
 ::: media
-![](/images/lekt3302.jpg)
+![](/images/lekt3302.webp)
 Abb.: घृतमग्नौ जुहोति
 (Bildquelle: [Details](/licenses#lekt3302))
 :::
@@ -446,7 +446,7 @@ C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekeh
 ब्राह्मणा भारं न बिभ्रतीति ब्राह्मणदासो भारं गृहमबिभः ॥३॥
 
 ::: media
-![](/images/lekt3308.jpg)
+![](/images/lekt3308.webp)
 Abb.: पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः
 (Bildquelle: [Details](/licenses#lekt3308))
 :::

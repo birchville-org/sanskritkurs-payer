@@ -69,7 +69,7 @@ status: stable
   - **vadana** ந. वदन : பேசுதல்; பேசும் கருவி: வாய், முகம்
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 அடைவு: **vadanāni** = वदनानि
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt1102))
 :::
@@ -106,7 +106,7 @@ status: stable
 **D) C) வாரியாக உருவாக்கப்பட்ட வாக்கியங்களுக்கு செயற்பாடு அல்லாத வடிவத்தை (Passivkonstruktion) உருவாக்குக.**
 
 ::: media
-![](/images/lekt1101.jpg)
+![](/images/lekt1101.webp)
 சிற்பம்: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt1101))
 :::
@@ -149,7 +149,7 @@ status: stable
 **உ) ஆ) 1-5 வரையிலான வாசகங்களைச் செய்ந்நிலை வடிவங்களாக மாற்றுக.**
 
 ::: media
-![](/images/lekt1103.jpg)
+![](/images/lekt1103.webp)
 அடைக்கலம்: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
 (படம்: [விவரம்](/ta/licenses#lekt1103))
 :::

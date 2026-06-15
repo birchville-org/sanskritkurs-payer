@@ -59,7 +59,7 @@ Brahmane, hast du Ghee ins Opferfeuer gegossen?
 Feind, mit dem Schwert spaltest du nicht die Seele (das Leben).
 
 ::: media
-![](/images/uebung074.jpg)
+![](/images/uebung074.webp)
 Abb.: हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात
 (Bildquelle: [Details](/licenses#uebung074))
 :::

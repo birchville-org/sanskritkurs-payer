@@ -59,7 +59,7 @@ Wer Wohlstand hat, der ist in der Welt ein Mann,
 Wer nämlich Wohlstand hat, der ist ein Gelehrter.
 
 ::: media
-![](/images/uebung029.jpg)
+![](/images/uebung029.webp)
 Abb.: यस्यार्थास्तस्य मित्राणि
 (Bildquelle: [Details](/licenses#uebung029))
 :::

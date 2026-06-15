@@ -68,7 +68,7 @@ Los budas y arhants están liberados del sufrimiento. De hecho, han alcanzado la
 Por codicia, odio e ignorancia, los seres humanos se corrompen. Cuando llega el momento, caen en un infierno.
 
 ::: media
-![](/images/uebung040.jpg)
+![](/images/uebung040.webp)
 Fig.: लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति
 (Fuente de la imagen: [Detalles](/licenses#uebung040))
 :::
@@ -120,7 +120,7 @@ Si alguien emite un fallo judicial falso por soberbia, codicia, ira o miedo, ent
 Los infiernos surgen a causa del mal, el mal surge de la pobreza, la pobreza surge de no dar.
 
 ::: media
-![](/images/uebung041.jpg)
+![](/images/uebung041.webp)
 Fig.: भवन्ति नरकाः पापात्
 (Fuente de la imagen: [Detalles](/licenses#uebung041))
 :::
@@ -137,7 +137,7 @@ Un ladrón queda liberado de la culpa del robo mediante el castigo o mediante la
 La economía es útil porque produce grano, ganado, oro, metales y trabajo.
 
 ::: media
-![](/images/uebung042.jpg)
+![](/images/uebung042.webp)
 Fig.: वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी
 (Fuente de la imagen: [Detalles](/licenses#uebung042))
 :::

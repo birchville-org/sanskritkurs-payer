@@ -20,7 +20,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5007.jpg)
+![](/images/lekt5007.webp)
 Abb.: लोकस्योत्तमो गिरिः
 सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
 (Bildquelle: [Details](/licenses#lekt5007))
@@ -86,7 +86,7 @@ z.B. सुतराम् (zu सु) "auf bessere Weise" (adverbial)
 ::::
 
 ::: media
-![](/images/lekt5006.jpg)
+![](/images/lekt5006.webp)
 Abb.: का पचतितमाम्
 Lisu = 傈僳族, अरुणाचल प्रदेश
 (Bildquelle: [Details](/licenses#lekt5006))
@@ -189,14 +189,14 @@ Deklination wie यद् (Ausnahme: Nom.Akk.sg.Neutrum)
 कल्याण 3 (f.: कल्याणी) :schön
 
 ::: media
-![](/images/lekt5003.jpg)
+![](/images/lekt5003.webp)
 Abb.: कल्याणी
 (Bildquelle: [Details](/licenses#lekt5003))
 :::
 कु- : als Vorderglied von Komposita: schlecht
 
 ::: media
-![](/images/lekt5004.jpg)
+![](/images/lekt5004.webp)
 Abb.: कुनगरम्
 धारावी, मुंबई
 (Bildquelle: [Details](/licenses#lekt5004))
@@ -224,7 +224,7 @@ A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsfo
 :::
 
 ::: media
-![](/images/lekt5008.jpg)
+![](/images/lekt5008.webp)
 Abb.: गुरुमेव भजे
 Ganeshpuri, 80 km von Mumbai (मुंबई) entfernt
 (Bildquelle: [Details](/licenses#lekt5008))

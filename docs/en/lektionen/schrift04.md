@@ -2,7 +2,7 @@
 
 ## Writing Exercise 4
 
-![](/images/schrift006.jpg)
+![](/images/schrift006.webp)
 
 Anusvāra ṃ: Dot above the letter. preceding the sound: कं कां किं कीं कुं कूं कें कैं कों कौं
 

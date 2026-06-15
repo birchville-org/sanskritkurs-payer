@@ -68,7 +68,7 @@ Ina giada naschì, che ha studiat il Veda, connoscha il dretg e la consuetudina 
 Sulettamain da la scienza na po ins betg viver. Qui che sa quai, na dovra betg studiar.
 
 ::: media
-![](/images/uebung061.jpg)
+![](/images/uebung061.webp)
 Abb.: विद्ययैव जीवितुं न शक्यते
 (Font dal maletg: [Detagls](/licenses#uebung061))
 :::
@@ -96,7 +96,7 @@ In saluta vegls conformamain a las reglas, lascha a lur plazza e stat davant els
 Quai um uoman na s’allegra betg e betg s’affligia, cura ch’el auda, tschiffa, vesa, gustescha u odura, alura è el in che ha dominà ses sens (**जितेन्द्रियः**).
 
 ::: media
-![](/images/uebung060.jpg)
+![](/images/uebung060.webp)
 Abb.: भुक्त्वा घ्रात्वा च न हृष्यति ग्लायति वा
 (Fontana da l’imma: [Detagls](/licenses#uebung060))
 :::
@@ -149,7 +149,7 @@ Determinai e traduzi las suandantas formas da la paraula:
 :::
 
 ::: media
-![](/images/uebung059.jpg)
+![](/images/uebung059.webp)
 Abb.: जगौ
 (Fontana da l'imaginescha: [Detagls](/licenses#uebung059))
 :::

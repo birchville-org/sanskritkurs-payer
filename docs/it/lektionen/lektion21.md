@@ -122,7 +122,7 @@ Si noti l'identità di **यजन्ति** (Nom. pl. Neutro) con la 3. pl. P.
 :::
 
 ::: media
-![](/images/lekt2101.jpg)
+![](/images/lekt2101.webp)
 Fig.: सती-targa commemorativa
 Targa commemorativa di सती nel palazzo di Jodhpur - जोधपुर / Rajasthan - राजस्थान [Fonte immagine: Flicka / Wikipedia. Licenza GNU FDL]
 (Fonte immagine: [Dettagli](/it/licenses#lekt2101))
@@ -194,7 +194,7 @@ Targa commemorativa di सती nel palazzo di Jodhpur - जोधपुर / R
 ::::
 
 ::: media
-![](/images/lekt2102.jpg)
+![](/images/lekt2102.webp)
 Fig.: महादेवो विष्णुः
 "Sigillo in sardonice del IV-VI secolo d.C. raffigurante Viṣṇu con un devoto. L'iscrizione in bactriano corsivo recita: "Mihira, Viṣṇu e Śiva". [Fonte immagine: PHGCOM / Wikipedia. Licenza GNU FDL]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2102))
@@ -276,7 +276,7 @@ di cui:
 :::
 
 ::: media
-![](/images/lekt2103.jpg)
+![](/images/lekt2103.webp)
 Fig.: भगवान्कृष्णः
 भगवान्कृष्णः come जगन्नाथ (a destra) con sua sorellastra सुभद्रा (al centro) e suo fratello maggiore बलराम, Orissa = ଓଡ଼ିଶा [Fonte immagine: Sujitkumar / Wikipedia. Licenza GNU FDL]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2103))
@@ -287,7 +287,7 @@ Fig.: भगवान्कृष्णः
 :::
 
 ::: media
-![](/images/lekt2105.jpg)
+![](/images/lekt2105.webp)
 Fig.: भगवद्गीता
 भगवद्गीता - Manoscritto, XIX secolo. [Fonte immagine: Wikipedia, Dominio pubblico]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2105))
@@ -304,7 +304,7 @@ di cui:
 :::
 
 ::: media
-![](/images/lekt2104.jpg)
+![](/images/lekt2104.webp)
 Fig.: भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Fonte immagine: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2104))

@@ -29,7 +29,7 @@ status: ਸਥਿਰ
 :::
 
 ::: media
-![lekt4005.jpg](/images/lekt4005.jpg)
+![lekt4005.jpg](/images/lekt4005.webp)
 ਚਿੱਤਰ: पादं सब्रह्मचारिभ्यः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4005))
 :::
@@ -522,7 +522,7 @@ PPP तीर्ण
 :::
 
 ::: media
-![lekt4003.jpg](/images/lekt4003.jpg)
+![lekt4003.jpg](/images/lekt4003.webp)
 ਚਿੱਤਰ: हरिद्वारे तीर्थम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4003))
 :::
@@ -532,7 +532,7 @@ PPP तीर्ण
 :::
 
 ::: media
-![lekt4002.jpg](/images/lekt4002.jpg)
+![lekt4002.jpg](/images/lekt4002.webp)
 ਚਿੱਤਰ: तीर्थङ्करः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4002))
 :::
@@ -548,7 +548,7 @@ PPP तीर्ण
 :::
 
 ::: media
-![lekt4001.jpg](/images/lekt4001.jpg)
+![lekt4001.jpg](/images/lekt4001.webp)
 ਚਿੱਤਰ: विष्णोर्दशावताराः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4001))
 :::
@@ -572,7 +572,7 @@ PPP सुप्त
 :::
 
 ::: media
-![lekt4004.jpg](/images/lekt4004.jpg)
+![lekt4004.jpg](/images/lekt4004.webp)
 ਚਿੱਤਰ: स्वपन्ति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4004))
 :::

@@ -77,7 +77,7 @@ Războinicii puternici au mers în satul brahmanic.
 El onorează zeitatea personală a Vaiśya-ului meritoriu.
 
 ::: media
-![](/images/uebung023.jpg)
+![](/images/uebung023.webp)
 Fig.: न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति
 (Sursa imaginii: [Detalii](/licenses#uebung023))
 :::
@@ -261,7 +261,7 @@ Propoziția 13: **सर्वेषाम्** Genitiv plural masculin la स�
 Bătaia produce dobândirea și posesia sigură a filosofiei, vedisticii și economiei. Conducerea bătaiei este politica.
 
 ::: media
-![](/images/uebung024.jpg)
+![](/images/uebung024.webp)
 Fig.: योगश्चित्तवृत्तिनिरोधः
 (Sursa imaginii: [Detalii](/licenses#uebung024))
 :::

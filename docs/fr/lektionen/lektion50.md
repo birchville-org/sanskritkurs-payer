@@ -20,7 +20,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5007.jpg)
+![](/images/lekt5007.webp)
 Fig. : लोकस्योत्तमो गिरिः
 (Source de l'image : [Détails](/fr/licenses#lekt5007))
 :::
@@ -85,7 +85,7 @@ p. ex. सुतराम् (à सु) "de manière meilleure" (adverbialement
 ::::
 
 ::: media
-![](/images/lekt5006.jpg)
+![](/images/lekt5006.webp)
 Fig. : का पचतितमाम्
 (Source de l'image : [Détails](/fr/licenses#lekt5006))
 :::
@@ -186,14 +186,14 @@ Déclinaison comme यद् (exception : Nom.Acc.sg.Neutre)
 कल्याण 3 (f. : कल्याणी) : beau
 
 ::: media
-![](/images/lekt5003.jpg)
+![](/images/lekt5003.webp)
 Fig. : कल्याणी
 (Source de l'image : [Détails](/fr/licenses#lekt5003))
 :::
 कु- : comme préfixe dans les composés : mauvais
 
 ::: media
-![](/images/lekt5004.jpg)
+![](/images/lekt5004.webp)
 Fig. : कुनगरम्
 धारावी, मुंबई
 (Source de l'image : [Détails](/fr/licenses#lekt5004))
@@ -221,7 +221,7 @@ A) Pour revoir la déclinaison : le vers suivant contient toutes les formes de d
 :::
 
 ::: media
-![](/images/lekt5008.jpg)
+![](/images/lekt5008.webp)
 Fig. : गुरुमेव भजे
 Ganeshpuri, à 80 km de Mumbai (मुंबई)
 (Source de l'image : [Détails](/fr/licenses#lekt5008))

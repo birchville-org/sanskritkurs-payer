@@ -108,7 +108,7 @@ Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfe
 Храненето, сънят, страхът и секс са общи за хората и животните. Разликата, която отличава хората, е в дхармата. Без дхарма те са равни на животните.
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 Ил.: आहारनिद्राभयमैथुनं च
 (Източник на изображението: [Подробности](/bg/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) Посочете основните форми (значение, клас н
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 Ил.: बालाः पिबन्ति
 (Източник на изображението: [Подробности](/bg/licenses#uebung036))
 :::

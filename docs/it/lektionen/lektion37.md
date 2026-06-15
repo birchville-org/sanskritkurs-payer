@@ -178,7 +178,7 @@ Un ulteriore avverbio interrogativo è: क्व "dove?"
 ::::
 
 ::: media
-![lekt3701.jpg](/images/lekt3701.jpg)
+![lekt3701.jpg](/images/lekt3701.webp)
 Fig.: क्व
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3701))
 :::
@@ -228,7 +228,7 @@ ad esempio यथाकामम् = कामो यथास्ति = "come
 ::::
 
 ::: media
-![lekt3702.jpg](/images/lekt3702.jpg)
+![lekt3702.jpg](/images/lekt3702.webp)
 Fig.: यथाशक्ति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3702))
 :::
@@ -248,7 +248,7 @@ ad es. तूष्णीं बभूव "divenne silenzioso, tacque"
 ::::
 
 ::: media
-![lekt3703.jpg](/images/lekt3703.jpg)
+![lekt3703.jpg](/images/lekt3703.webp)
 Fig.: तूष्णीं बभूवुः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3703))
 :::
@@ -323,7 +323,7 @@ Esempi:
 :::
 
 ::: media
-![lekt3704.jpg](/images/lekt3704.jpg)
+![lekt3704.jpg](/images/lekt3704.webp)
 Fig.: किं बाला अधीयीरन्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3704))
 :::
@@ -397,7 +397,7 @@ Fig.: शाक्यमुनिः
 वृक्ष m.: Albero
 
 ::: media
-![lekt3706.jpg](/images/lekt3706.jpg)
+![lekt3706.jpg](/images/lekt3706.webp)
 Fig.: वृक्षः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3706))
 :::
@@ -435,7 +435,7 @@ Esempio: क आगच्छति (राम) । » राम आगच्छ�
 कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥ (देवकी)
 
 ::: media
-![lekt3707.jpg](/images/lekt3707.jpg)
+![lekt3707.jpg](/images/lekt3707.webp)
 Fig.: कृष्णः बलरामश्च
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3707))
 :::
@@ -443,7 +443,7 @@ Fig.: कृष्णः बलरामश्च
 क्व मर्तुं सज्जना इच्छन्ति ॥१३॥ (काशी = वाराणसी)
 
 ::: media
-![lekt3708.jpg](/images/lekt3708.jpg)
+![lekt3708.jpg](/images/lekt3708.webp)
 Fig.: क्व मर्तुं सज्जना इच्छन्ति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3708))
 :::
@@ -487,7 +487,7 @@ C) Tradurre le seguenti अव्ययीभाव :
 :::
 
 ::: media
-![lekt3709.jpg](/images/lekt3709.jpg)
+![lekt3709.jpg](/images/lekt3709.webp)
 Fig.: अधिकेरलं वर्तन्ते
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3709))
 :::
@@ -522,7 +522,7 @@ Fig.: अधिकेरलं वर्तन्ते
 :::
 
 ::: media
-![lekt3710.jpg](/images/lekt3710.jpg)
+![lekt3710.jpg](/images/lekt3710.webp)
 Fig.: आबालवृद्धं लंदननगरे ववृतिरे
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3710))
 :::
@@ -534,7 +534,7 @@ Fig.: आबालवृद्धं लंदननगरे ववृतिर
 :::
 
 ::: media
-![lekt3711.jpg](/images/lekt3711.jpg)
+![lekt3711.jpg](/images/lekt3711.webp)
 Fig.: उपवृक्षं सीदन्ति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3711))
 :::

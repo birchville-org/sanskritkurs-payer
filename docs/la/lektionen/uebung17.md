@@ -73,7 +73,7 @@ B) Insert the agent and verb in the plural in the sentences formed in A)
 १०. साधुजनो ऽधर्मं द्विषन्ति । द्विषते । न कुर्वन्ति । न कुर्वते ।
 
 ::: media
-![](/images/uebung025.jpg)
+![](/images/uebung025.webp)
 Fig.: बालब्राह्मणी रोदिति
 (Image source: [Details](/licenses#uebung025))
 :::
@@ -177,7 +177,7 @@ Formas verborum sequentes vertite et radicem ad eas pertinentem indicate:
 ४६. **दिश्यन्न्ते** (दिश् 6U): monstrantur
 
 ::: media
-![](/images/uebung026.jpg)
+![](/images/uebung026.webp)
 Fig.: शृणोति
 (Fons imaginis: [Detalia](/licenses#uebung026))
 :::

@@ -224,7 +224,7 @@ Inf. शंसितुम्
 ### 42.2.1. Certaines désignations de parenté
 
 ::: media
-![lekt4202.jpg](/images/lekt4202.jpg)
+![lekt4202.jpg](/images/lekt4202.webp)
 Fig. : माता, पिता, पुत्रकः
 (Source de l'image : [Détails](/fr/licenses#lekt4202))
 ::: 
@@ -289,7 +289,7 @@ Traduisez :
 कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति ॥२॥
 
 ::: media
-![lekt4203.jpg](/images/lekt4203.jpg)
+![lekt4203.jpg](/images/lekt4203.webp)
 Fig. : कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Source de l'image : [Détails](/fr/licenses#lekt4203))
 :::
@@ -297,7 +297,7 @@ Fig. : कृष्णस्तस्य लोकस्य पिता मा�
 आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥
 
 ::: media
-![lekt4204.jpg](/images/lekt4204.jpg)
+![lekt4204.jpg](/images/lekt4204.webp)
 Fig. : अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति ।
 (Source de l'image : [Détails](/fr/licenses#lekt4204))
 :::
@@ -327,7 +327,7 @@ Fig. : अर्जुनो रथे सीदति । कृष्णो �
 सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे ***ऽयोध्या***धिपते***र्दशरथस्य*** पुत्रः श्री***रामः*** ***सलक्ष्मणो*** ***विश्वामित्रेण*** तत्रानीयत । श्री***रामो*** महर्षेर्***विश्वामित्र***स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥
 
 ::: media
-![lekt4208.jpg](/images/lekt4208.jpg)
+![lekt4208.jpg](/images/lekt4208.webp)
 Fig. : धनुर्द्वेधा भग्नं बभूव
 (Source de l'image : [Détails](/fr/licenses#lekt4208))
 :::
@@ -343,7 +343,7 @@ Explication des expressions mises en évidence en ***rouge*** :
 सीता f. nom propre : fille du roi जनक de विदेह. Elle était sortie de la terre lorsque le roi labourait le champ, d'où son nom : सीता f. "sillon du champ"
 
 ::: media
-![lekt4205.jpg](/images/lekt4205.jpg)
+![lekt4205.jpg](/images/lekt4205.webp)
 Fig. : रामः, सीता, हनुमान्, लक्ष्मनः
 (Source de l'image : [Détails](/fr/licenses#lekt4205))
 :::
@@ -351,7 +351,7 @@ Fig. : रामः, सीता, हनुमान्, लक्ष्मन�
 मिथिला f. nom propre : capitale de विदेह
 
 ::: media
-![lekt4206.jpg](/images/lekt4206.jpg)
+![lekt4206.jpg](/images/lekt4206.webp)
 Fig. : मिथिला, विदेहः, अयोध्या, कोसलः
 (Source de l'image : [Détails](/fr/licenses#lekt4206))
 :::
@@ -369,7 +369,7 @@ Fig. : मिथिला, विदेहः, अयोध्या, कोस�
 रावण m. noms propres ; souverain de लङ्का, souverain des राक्षस.
 
 ::: media
-![lekt4207.jpg](/images/lekt4207.jpg)
+![lekt4207.jpg](/images/lekt4207.webp)
 Fig. : रावणः
 (Source de l'image : [Détails](/fr/licenses#lekt4207))
 :::

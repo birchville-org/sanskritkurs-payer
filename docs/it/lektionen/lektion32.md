@@ -141,7 +141,7 @@ Esempi:
 **चूत**
 
 ::: media
-![](/images/lekt3202.jpg)
+![](/images/lekt3202.webp)
 Fig.: चूतः
 Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3202))
@@ -178,7 +178,7 @@ Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 **वानर कपि**
 
 ::: media
-![](/images/lekt3203.jpg)
+![](/images/lekt3203.webp)
 Fig.: वानराः
 Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3203))
@@ -200,7 +200,7 @@ Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 **उपल**
 
 ::: media
-![](/images/lekt3204.jpg)
+![](/images/lekt3204.webp)
 Fig.: उपलाः
 Cava di pietra a sud di Pune, Maharashtra. [Fonte immagine: lecercle / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3204))
@@ -209,7 +209,7 @@ Cava di pietra a sud di Pune, Maharashtra. [Fonte immagine: lecercle / Flickr. C
 **लक्ष्य**
 
 ::: media
-![](/images/lekt3205.jpg)
+![](/images/lekt3205.webp)
 Fig.: लक्ष्यम्
 Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlogelin / Flickr. CC BY-NC]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3205))
@@ -236,7 +236,7 @@ Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlo
 :::
 
 ::: media
-![](/images/lekt3207.jpg)
+![](/images/lekt3207.webp)
 Fig.: चितं गोमयं दहति
 Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine: thebigdurian / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3207))
@@ -251,7 +251,7 @@ Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine
 **कौशल कुशल**
 
 ::: media
-![](/images/lekt3206.jpg)
+![](/images/lekt3206.webp)
 Fig.: कौशलम्
 Pittura di mehndi sulle mani a Mumbai. [Fonte immagine: the_gman / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3206))
@@ -350,7 +350,7 @@ B) Tradurre e risolvere i composti in sanscrito:
 बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥
 
 ::: media
-![](/images/lekt3208.jpg)
+![](/images/lekt3208.webp)
 Fig.: बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
 Monaco buddhista nello Sri Lanka. [Fonte immagine: Trollderella / Wikipedia. GNU FDL]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3208))
@@ -574,7 +574,7 @@ C) Tradurre in Sanscrito:
 52. Arrivederci!
 
 ::: media
-![](/images/lekt3209.jpg)
+![](/images/lekt3209.webp)
 Fig.: पुनर्दर्शनाय
 Saluto indiano / congedo. [Fonte immagine: dhyanji / Flickr. CC BY-NC-ND]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3209))
@@ -656,7 +656,7 @@ Spiegazioni:
 :::
 
 ::: media
-![](/images/lekt3210.jpg)
+![](/images/lekt3210.webp)
 Fig.: तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
 Scimmie negli alberi di mango. [Fonte immagine: Wikipedia. GNU FDL]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3210))

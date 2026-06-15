@@ -2,7 +2,7 @@
 
 ## Exercițiu de scriere 6
 
-![](/images/schrift009.jpg)
+![](/images/schrift009.webp)
 
 Pentru jha este, de asemenea, uzată următoarea formă:
 

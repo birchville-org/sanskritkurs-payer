@@ -39,7 +39,7 @@ Formez les formes aoristes correspondantes des formes de présent ou de parfait 
 :::
 
 ::: media
-![](/images/uebung093.jpg)
+![](/images/uebung093.webp)
 Fig. : अगायि
 (Source de l'image : [Détails](/fr/licenses#uebung093))
 :::

@@ -43,7 +43,7 @@ Traduce et determina formas sequentes atque formas **Aoris** correspondentis for
 :::
 
 ::: media
-![](/images/uebung090.jpg)
+![](/images/uebung090.webp)
 Fig.: वारानास्यां गङ्गायामप्लोढ्वम्
 (Fons imaginis: [Detalia](/licenses#uebung090))
 :::
@@ -117,7 +117,7 @@ Formas sequentes determinate et vertite:
 :::
 
 ::: media
-![](/images/uebung094.jpg)
+![](/images/uebung094.webp)
 Tab.: पाणी धूपं कुरुतः ॥
 (Fons imaginis: [Detalia](/licenses#uebung094))
 :::

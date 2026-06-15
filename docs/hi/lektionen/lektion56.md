@@ -180,7 +180,7 @@ Vokal - erster Konsonant - zweiter Konsonant (Stellvertreter) - i - zweiter Kons
 :::
 
 ::: media
-![](/images/lekt5602.jpg)
+![](/images/lekt5602.webp)
 अभ.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
 पोस्टर (एर्नेस्टो चे गुएवारा) एक राजनीतिक दल का, वल्लचिर (വാല്ലചിര), तൃശ്ശൂര്‍ (തൃശ്ശൂര്‍) में। "इस पर लिखे गए का लगभग अनुवाद: शहादत क्रांतिकारी के लिए एक आकर्षक अनुभव है। और एक कायर के लिए एक भयानक विकल्प। चे साहसी लोगों के लिए आदर्श नहीं हैं।"
 (छवि स्रोत: [विवरण](/hi/licenses#lekt5602))
@@ -207,7 +207,7 @@ Vokal - erster Konsonant - zweiter Konsonant (Stellvertreter) - i - zweiter Kons
 ::::
 
 ::: media
-![](/images/lekt5603.jpg)
+![](/images/lekt5603.webp)
 अभ.: ⟪अलं⟫  ⟪विषादेन⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt5603))
 :::

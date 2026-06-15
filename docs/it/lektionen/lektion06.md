@@ -232,7 +232,7 @@ In sanscrito, i verbi sono elencati nella **forma della radice**. Il numero dopo
 13. La (menzionata) Brahmana danza.
 
 ::: media
-![](/images/lekt0601.jpg)
+![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
 (Fonte immagine: Wikipedia, CC-BY-SA 2.5)
@@ -312,7 +312,7 @@ In sanscrito, i verbi sono elencati nella **forma della radice**. Il numero dopo
 3. Mīnākṣī è una dea.
 
 ::: media
-![](/images/lekt0602.jpg)
+![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Tempio di Mīnākṣī, Madurai, Tamil Nadu
 (Fonte dell'immagine: Wikipedia, Dominio pubblico)
 :::

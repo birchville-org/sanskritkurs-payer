@@ -20,7 +20,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5007.jpg)
+![](/images/lekt5007.webp)
 Abb.: लोकस्योत्तमो गिरिः
 सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mont Everest
 (Font da l'imagina: [Detagl](/rm/licenses#lekt5007))
@@ -86,7 +86,7 @@ p.ex. सुतराम् (a सु) "en meglier moda" (adverbial)
 ::::
 
 ::: media
-![](/images/lekt5006.jpg)
+![](/images/lekt5006.webp)
 Abb.: का पचतितमाम्
 Lisu = 傈僳族, अरुणाचल प्रदेश
 (Font da l'imagina: [Detagl](/rm/licenses#lekt5006))
@@ -190,14 +190,14 @@ Declinaziun sco यद् (ecceziun: Nominativ-Akkusativ singular neutrum)
 कल्याण 3 (f.: कल्याणी): bel
 
 ::: media
-![](/images/lekt5003.jpg)
+![](/images/lekt5003.webp)
 Abb.: कल्याणी
 (Sursa da l’imagines: [Detagls](/rm/licenses#lekt5003))
 :::
 कु-: sco element avant da cumponiments: mal
 
 ::: media
-![](/images/lekt5004.jpg)
+![](/images/lekt5004.webp)
 Immagine: कुनगरम्
 धारावी, मुंबई
 (Fontana da l’imagine: [Detagls](/rm/licenses#lekt5004))
@@ -225,7 +225,7 @@ A) Per la repetiziun da la declinaziun: il vers suenter preschenta tut las forma
 :::
 
 ::: media
-![](/images/lekt5008.jpg)
+![](/images/lekt5008.webp)
 Fig.: गुरुमेव भजे
 Ganeshpuri, 80 km lunsch da Mumbai (मुंबई)
 (fonte da l’imagine: [Detagls](/rm/licenses#lekt5008))

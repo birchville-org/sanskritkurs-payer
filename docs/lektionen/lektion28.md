@@ -47,7 +47,7 @@ Ergebnis: रामो वेदमधीते "Rāma studiert den Veda"
 Ergebnis: देवा अमृतमश्नन्ति "Die Götter essen Unsterblichkeitsspeise"
 
 ::: media
-![](/images/lekt2802.jpg)
+![](/images/lekt2802.webp)
 Abb.: स नरान्प्रबन्धविज्ञानमध्यापयति
 ISKCON Temple Bangalore.
 (Bildquelle: [Details](/licenses#lekt2801))
@@ -81,7 +81,7 @@ Der die Erde in das Wasser setzte.
 :::
 
 ::: media
-![](/images/lekt2801.jpg)
+![](/images/lekt2801.webp)
 Abb.: स मे श्रीहरिगतिः
 Jadavpur University Management building.
 (Bildquelle: [Details](/licenses#lekt2802))
@@ -382,7 +382,7 @@ Inf. **kāmayitum** / **kamitum**
 :::
 
 ::: media
-![](/images/lekt2804.jpg)
+![](/images/lekt2804.webp)
 Abb.: कृष्णो राधां कामयति
 Gemälde von राजा रवि वर्मा (1848 - 1906)
 (Bildquelle: [Details](/licenses#lekt2804))
@@ -406,7 +406,7 @@ Inf. **coritum**
 :::
 
 ::: media
-![](/images/lekt2803.jpg)
+![](/images/lekt2803.webp)
 Abb.: वीणां वादयति
 Vīṇā-Spielerin.
 (Bildquelle: [Details](/licenses#lekt2803))
@@ -415,7 +415,7 @@ Vīṇā-Spielerin.
 **भार** m.: Last
 
 ::: media
-![](/images/lekt2805.jpg)
+![](/images/lekt2805.webp)
 Abb.: बाला भारं हरति
 Mädchen trägt Last. Bei Ahmedabad.
 (Bildquelle: [Details](/licenses#lekt2805))

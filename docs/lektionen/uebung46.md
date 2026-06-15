@@ -84,7 +84,7 @@ Aus Zorn entsteht Verblendung, aus Verblendung die Verwirrung der Achtsamkeit (E
 Für den Unbeherrschten (Nicht-Yogin) gibt es keine Einsicht.
 
 ::: media
-![](/images/uebung080.jpg)
+![](/images/uebung080.webp)
 Abb.: सक्तः
 (Bildquelle: [Details](/licenses#uebung080))
 :::

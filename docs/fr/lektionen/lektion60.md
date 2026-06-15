@@ -213,11 +213,11 @@ Exemple : विदुषी « une savante »
 Voir les paradigmes dans Kielhorn, Grammatik § 124 :
 
 ::: media
-![](/images/lekt6001.jpg)
+![](/images/lekt6001.webp)
 (Source de l’image : [Détails](/fr/licenses#lekt6001))
 :::
 ::: media
-![](/images/lekt6002.jpg)
+![](/images/lekt6002.webp)
 (Source de l’image : [Détails](/fr/licenses#lekt6002))
 :::
 
@@ -253,11 +253,11 @@ Exemple : प्रतीची
 ####  Voir les paradigmes dans Kielhorn, Grammatik § 128 :
 
 ::: media
-![](/images/lekt6003.jpg)
+![](/images/lekt6003.webp)
 (Source de l'image : [Détails](/fr/licenses#lekt6003))
 :::
 ::: media
-![](/images/lekt6004.jpg)
+![](/images/lekt6004.webp)
 (Source de l'image : [Détails](/fr/licenses#lekt6004))
 :::
 Appartiennent à cette catégorie :
@@ -402,7 +402,7 @@ Les règles d'utilisation de la voyelle de jonction -i- voir chez Kielhorn, Gram
 Liste chez Kielhorn, Grammatique § 452 :
 
 ::: media
-![](/images/lekt6006.jpg)
+![](/images/lekt6006.webp)
 (Source de l'image : [Détails](/fr/licenses#lekt6006))
 :::
 
@@ -448,15 +448,15 @@ Pour la formation de noms d'agent en -u à partir du radical du désidératif, v
 A) Étudiez dans Kielhorn, Grammatik § 451 les formations irrégulières du desideratif pour les verbes appris jusqu'à présent :
 
 ::: media
-![](/images/lekt6007.jpg)
+![](/images/lekt6007.webp)
 (Source de l'image : [Détails](/fr/licenses#lekt6007))
 :::
 ::: media
-![](/images/lekt6008.jpg)
+![](/images/lekt6008.webp)
 (Source de l'image : [Détails](/fr/licenses#lekt6008))
 :::
 ::: media
-![](/images/lekt6009.jpg)
+![](/images/lekt6009.webp)
 (Source de l'image : [Détails](/fr/licenses#lekt6009))
 :::
 B) Déterminez et traduisez sans aide les formes suivantes :

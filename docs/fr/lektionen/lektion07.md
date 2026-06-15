@@ -235,7 +235,7 @@ La 5e classe de présent forme ce qu'on appelle un radical de présent athémati
 - **su** 5 U (sunoti) सु सुनोति : presser
 - **soma** m. सोम : boisson pressée, Soma ; Lune (La plante dont le Soma a été pressé reste à ce jour débattue).
 ::: media
-![](/images/lekt0701.jpg)
+![](/images/lekt0701.webp)
 Fig. : S'agissait-il de la plante védique du Soma ? : Amanite tue-mouches : *Amanita muscaria* (L.) Lam.
 (Source de l'image : [Détails](/fr/licenses#lekt0701))
 :::
@@ -258,7 +258,7 @@ Fig. : S'agissait-il de la plante védique du Soma ? : Amanite tue-mouches : *Am
    ब्राह्मणस् ... यजति (देव, देवी, विष्णु, अग्नि, देवता)
 
 ::: media
-![](/images/lekt0704.jpg)
+![](/images/lekt0704.webp)
 Fig. : Viṣṇu = विष्णु, VIIIe/IXe siècle.
 (Source de l’image : [Détails](/fr/licenses#lekt0704))
 :::
@@ -299,7 +299,7 @@ Fig. : Viṣṇu = विष्णु, VIIIe/IXe siècle.
    यजति |
 
 ::: media
-![](/images/lekt0702.jpg)
+![](/images/lekt0702.webp)
 Fig. : **yajati** = यजति — Sacrifice védique = **yajña** m. = यज्ञ
 (Source de l’image : [Détails](/fr/licenses#lekt0702))
 :::
@@ -321,7 +321,7 @@ Fig. : **yajati** = यजति — Sacrifice védique = **yajña** m. = यज
 8. À quel dieu ce Brahmane sacrifie-t-il ?
 
 ::: media
-![](/images/lekt0703.jpg)
+![](/images/lekt0703.webp)
 Fig. : À quel dieu sacrifie-t-on ici ? Réponse : Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
 (Source de l’image : [Détails](/fr/licenses#lekt0703))
 :::

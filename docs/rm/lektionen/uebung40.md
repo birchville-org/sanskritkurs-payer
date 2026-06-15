@@ -103,7 +103,7 @@ B) Tranformai las suventas formas verbalas en las correspundentas formas da perf
 :::
 
 ::: media
-![](/images/uebung065.jpg)
+![](/images/uebung065.webp)
 Abb.: आशिमेति
 (Bildquelle: [Detagls](/licenses#uebung065))
 :::
@@ -154,7 +154,7 @@ Determinai e tradusì las suandantas formas da la paraula:
 :::
 
 ::: media
-![](/images/uebung066.jpg)
+![](/images/uebung066.webp)
 Abb.: काश्चन वाहिकाः
 (Fontana da l’imagine: [Detagls](/licenses#uebung066))
 :::

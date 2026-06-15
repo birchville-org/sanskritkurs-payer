@@ -68,7 +68,7 @@ Buddha et Arhant a dolore liberati sunt. Nam salutarem cognitionem adepti sunt.
 Avaritia, odio et ignorantia homines perimunt. Cum tempus venerit, in inferna cadunt.
 
 ::: media
-![](/images/uebung040.jpg)
+![](/images/uebung040.webp)
 Fig.: लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति
 (Fons imaginis: [Detalia](/licenses#uebung040))
 :::
@@ -120,7 +120,7 @@ Qui ex superbia, avaritia, ira vel timore falsum iudicium ferit, in infernum ven
 Inferna ex malo oriuntur, malum ex paupertate, paupertas ex non datione.
 
 ::: media
-![](/images/uebung041.jpg)
+![](/images/uebung041.webp)
 Fig.: भवन्ति नरकाः पापात्
 (Fons imaginis: [Detalia](/licenses#uebung041))
 :::
@@ -137,7 +137,7 @@ Fur a culpa furti liberatur per poenam vel per liberationem. Si vero rex eum non
 Economia utilis est, quia frumenta, pecora, aurum, metalla et operam procreat.
 
 ::: media
-![](/images/uebung042.jpg)
+![](/images/uebung042.webp)
 Fig.: वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी
 (Fons imaginis: [Detalia](/licenses#uebung042))
 :::

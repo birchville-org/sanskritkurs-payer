@@ -215,7 +215,7 @@ pad 4 ਆ ਪੀ.ਪੀ.ਪੀ.: panna 3 = पन्न
 > [ਸਰੋਤ: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
-![](/images/lekt1301.jpg)
+![](/images/lekt1301.webp)
 ਅੰਤਰਦ੍ਰਿਸ਼ਟ: महिषासुरः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1301))
 :::
@@ -236,7 +236,7 @@ pad 4 ਆ ਪੀ.ਪੀ.ਪੀ.: panna 3 = पन्न
 - **anna** n. अन्न : ਖਾਣਾ (PPP ਤੋਂ: *ad-na: ਖਾਧਾ ਹੋਇਆ)
 
 ::: media
-![](/images/lekt1304.jpg)
+![](/images/lekt1304.webp)
 ਚਿੱਤਰ: अन्नम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1304))
 :::
@@ -252,7 +252,7 @@ pad 4 ਆ ਪੀ.ਪੀ.ਪੀ.: panna 3 = पन्न
 :::
 
 ::: media
-![](/images/lekt1303.jpg)
+![](/images/lekt1303.webp)
 ਚਿੱਤਰ: चत्वारः पादाः : गजः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1303))
 :::
@@ -274,7 +274,7 @@ A) ਅਨੁਵਾਦ ਕਰੋ ਅਤੇ ਕਿਰਤਕ ਵਰਤਮਾਨ ਕ
 ३. बोध्या गौतमो मुक्तः ।
 
 ::: media
-![](/images/lekt1305.jpg)
+![](/images/lekt1305.webp)
 ਚਿੱਤਰ: अत्र गौतमो बुद्धो बोध्या मुक्तः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1305))
 :::
@@ -333,7 +333,7 @@ B) ਅਭਿਆਸ A) ਦੇ ਵਾਕਾਂ ਨੂੰ ਕਰਮਕਾਰਕ (Pa
 C) ਅਭਿਆਸ A) ਦੇ ਵਾਕਾਂ ਲਈ ਇੱਕ PPP-ਰਚਨਾ (PPP-Construction) ਬਣਾਓ।
 
 ::: media
-![](/images/lekt1302.jpg)
+![](/images/lekt1302.webp)
 ਚਿੱਤਰ: सत्यमेव जयते
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1302))
 :::

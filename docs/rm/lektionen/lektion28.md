@@ -47,7 +47,7 @@ Resultat: रामो वेदमधीते «Rama studescha il Veda»
 Resultat: देवा अमृतमश्नन्ति «ils dieus mangian tschirimond»
 
 ::: media
-![](/images/lekt2802.jpg)
+![](/images/lekt2802.webp)
 Abb.: स नरान्प्रबन्धविज्ञानमध्यापयति
 ISKCON Temple Bangalore.
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt2801))
@@ -81,7 +81,7 @@ Che ha posà la terra en l’aua.
 :::
 
 ::: media
-![](/images/lekt2801.jpg)
+![](/images/lekt2801.webp)
 Abb.: स मे श्रीहरिगतिः
 Edifizi da gestiun da l’Universitad Jadavpur.
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt2802))
@@ -382,7 +382,7 @@ Inf. **kāmayitum** / **kamitum**
 :::
 
 ::: media
-![](/images/lekt2804.jpg)
+![](/images/lekt2804.webp)
 Abb.: कृष्णो राधां कामयति
 Pictura da राजा रवि वर्मा (1848 - 1906)
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt2804))
@@ -406,7 +406,7 @@ Inf. **coritum**
 :::
 
 ::: media
-![](/images/lekt2803.jpg)
+![](/images/lekt2803.webp)
 Abb.: वीणां वादयति
 Vīṇā-Spielerin.
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt2803))
@@ -415,7 +415,7 @@ Vīṇā-Spielerin.
 **भार** m.: carga
 
 ::: media
-![](/images/lekt2805.jpg)
+![](/images/lekt2805.webp)
 Abb.: बाला भारं हरति
 Femna giuvna porta carga. Aproximativamain Ahmedabad.
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt2805))

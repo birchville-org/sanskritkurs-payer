@@ -30,7 +30,7 @@ Chi ha comprensione viene liberato dalla sofferenza; pertanto, chi desidera la l
 Un ignorante gode di buon cibo e belle donne. La cui ignoranza è scomparsa, non desidera né buon cibo né una donna dal corpo perfetto. Egli previene infatti l'avidità e l'odio e si concentra sulla comprensione.
 
 ::: media
-![](/images/uebung049.jpg)
+![](/images/uebung049.webp)
 Fig.: कुलबन्धनम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung049))
 :::

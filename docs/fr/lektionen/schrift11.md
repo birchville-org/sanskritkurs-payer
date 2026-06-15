@@ -22,7 +22,7 @@ B) Lisez et translitérez :
 
 ### Classification des sons du sanskrit (d’après : Kielhorn : Grammaire de la langue sanskrite)
 
-![](/images/schrift028.jpg)
+![](/images/schrift028.webp)
 
 ### Fin des exercices d’écriture
 

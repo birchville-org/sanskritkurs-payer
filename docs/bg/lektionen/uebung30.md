@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 Нека се казват истини, които са приятни, неприятни истини нека не се казват; нека не се казват приятни неистини, това е вечният закон.
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 Ил.: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (Източник на изображението: [Подробности](/bg/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 Ил.: भक्त्याः
 (Източник на изображението: [Подробности](/bg/licenses#uebung047))
 :::

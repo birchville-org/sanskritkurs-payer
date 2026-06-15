@@ -121,7 +121,7 @@ Was essen und trinken Brahmanen?
 ब्राह्मणैः किं पीतं खादितं च ॥
 
 ::: media
-![](/images/uebung019.jpg)
+![](/images/uebung019.webp)
 Abb.: अग्निर्गृहं दहति ।
 (Bildquelle: [Details](/licenses#uebung019))
 :::
@@ -270,7 +270,7 @@ E) Übersetzen Sie ins Sanskrit:
 यजकैः सोमः सुतः ॥
 
 ::: media
-![](/images/uebung018.jpg)
+![](/images/uebung018.webp)
 Abb.: बाला जलं पिबति । बालया जलं पीयते ।
 (Bildquelle: [Details](/licenses#uebung018))
 :::

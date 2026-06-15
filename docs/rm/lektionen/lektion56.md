@@ -178,7 +178,7 @@ Exempels:
 :::
 
 ::: media
-![](/images/lekt5602.jpg)
+![](/images/lekt5602.webp)
 Fig.: क्लैब्यं मा स्म गमः
 Poster (Ernesto Che Guevara) d'ina partida politica en Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "La traduziun greva da quai che è scrit sin el esser: Il martiri è in'experiensa fascinanta per in revolucionari. E in resort spaventus per in viles. Che n'è betg in model per timids."
 (Fontana dal maletg: [Detagls](/rm/licenses#lekt5602))
@@ -205,7 +205,7 @@ Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit sytax. -- Leyden : B
 ::::
 
 ::: media
-![](/images/lekt5603.jpg)
+![](/images/lekt5603.webp)
 Fig.: अलं विषादेन
 (Fontana dal maletg: [Detagls](/rm/licenses#lekt5603))
 :::

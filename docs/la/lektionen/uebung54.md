@@ -39,7 +39,7 @@ Formas Aoristi correspondentes ad formas sequentes Praesentis vel Perfectorum fo
 :::
 
 ::: media
-![](/images/uebung093.jpg)
+![](/images/uebung093.webp)
 Abb.: अगायि
 (Fons imaginis: [Detalia](/licenses#uebung093))
 :::

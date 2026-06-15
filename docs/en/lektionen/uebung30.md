@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 Speak truths that are pleasant; do not speak unpleasant truths. Do not speak pleasant untruths; this is the eternal law.
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 Fig.: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (Image source: [Details](/en/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Determine and translate the following word forms:
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 Fig.: भक्त्याः
 (Image source: [Details](/en/licenses#uebung047))
 :::

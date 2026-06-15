@@ -21,7 +21,7 @@ status: stable
 Explanation: पर "other"
 
 ::: media
-![lekt4102.jpg](/images/lekt4102.jpg)
+![lekt4102.jpg](/images/lekt4102.webp)
 Fig.: पुस्तकस्था च या विद्या ...
 (Image source: [Details](/en/licenses#lekt4102))
 :::
@@ -201,7 +201,7 @@ Examples:
 :::
 
 ::: media
-![lekt4103.jpg](/images/lekt4103.jpg)
+![lekt4103.jpg](/images/lekt4103.webp)
 Fig.: विक्रेयाणि पुष्पानि
 (Image source: [Details](/en/licenses#lekt4103))
 :::
@@ -238,7 +238,7 @@ Examples:
 :::
 
 ::: media
-![lekt4106.jpg](/images/lekt4106.jpg)
+![lekt4106.jpg](/images/lekt4106.webp)
 Fig.: दृश्यो मन्दिरः
 (Image source: [Details](/en/licenses#lekt4106))
 :::
@@ -322,7 +322,7 @@ The Gerundive can also be used as a predicative noun in sentences with a passive
 ::::
 
 ::: media
-![lekt4108.jpg](/images/lekt4108.jpg)
+![lekt4108.jpg](/images/lekt4108.webp)
 Fig.: दर्शनीयं नगरं काशी
 (Image source: [Details](/en/licenses#lekt4108))
 :::
@@ -349,7 +349,7 @@ The usage of these suffixes largely overlaps
 भुजङ्ग m.: snake
 
 ::: media
-![lekt4105.jpg](/images/lekt4105.jpg)
+![lekt4105.jpg](/images/lekt4105.webp)
 Fig.: भुजङ्गः
 (Image source: [Details](/en/licenses#lekt4105))
 :::
@@ -359,7 +359,7 @@ Fig.: भुजङ्गः
 विष n.: poison
 
 ::: media
-![lekt4104.jpg](/images/lekt4104.jpg)
+![lekt4104.jpg](/images/lekt4104.webp)
 Fig.: भुजङ्गस्य विषम्
 (Image source: [Details](/en/licenses#lekt4104))
 :::
@@ -382,7 +382,7 @@ thereof:
 :::
 
 ::: media
-![lekt4109.jpg](/images/lekt4109.jpg)
+![lekt4109.jpg](/images/lekt4109.webp)
 Fig.: शासना
 (Image source: [Details](/en/licenses#lekt4109))
 :::
@@ -394,7 +394,7 @@ Fig.: शासना
 :::
 
 ::: media
-![lekt4110.jpg](/images/lekt4110.jpg)
+![lekt4110.jpg](/images/lekt4110.webp)
 Fig.: शास्त्री
 (Image source: [Details](/en/licenses#lekt4110))
 :::
@@ -434,7 +434,7 @@ B) Translate:
 काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥२॥
 
 ::: media
-![lekt4111.jpg](/images/lekt4111.jpg)
+![lekt4111.jpg](/images/lekt4111.webp)
 Fig.: काशीं पत्स्ये गङ्गां द्रक्ष्यामि ...
 (Image source: [Details](/en/licenses#lekt4111))
 :::

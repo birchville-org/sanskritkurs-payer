@@ -218,7 +218,7 @@ Gramaticienii indigeni nu consideră vocativul (आमन्त्रितम�
 :::
 
 ::: media
-![](/images/lekt4402.jpg)
+![](/images/lekt4402.webp)
 Ilustr.: Utilizarea corectă a „O” în limba germană: ***„O Doamne!”***
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4402))
 :::
@@ -259,7 +259,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 Fig.: रेल्यानम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4403))
 :::
@@ -279,7 +279,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 Fig.: योगी शयने शेते
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4404))
 :::
@@ -302,7 +302,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 Fig.: नन्दी
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4405))
 :::
@@ -328,7 +328,7 @@ PPP आयत 3: întins lung
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 Fig.: आयतो मरुः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4406))
 :::
@@ -353,7 +353,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 Fig.: यत्नेन
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4407))
 :::
@@ -382,7 +382,7 @@ Vezi:
 :::
 
 ::: media
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 Fig.: प्रव्रअज्या / पब्बजा
 (Sursă imagine: [Detalii](/ro/licenses#lekt4408))
 :::
@@ -445,7 +445,7 @@ A) Determinați și traduceți următoarele forme:
 52.  हतः
 
 ::: media
-![](/images/lekt4409.jpg)
+![](/images/lekt4409.webp)
 Fig.: कस्माद्रोदिषि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4409))
 :::

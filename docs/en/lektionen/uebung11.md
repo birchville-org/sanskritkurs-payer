@@ -125,7 +125,7 @@ D) Form the passive construction for the sentences formed in C)
 १२. तैः श्रावकैर्बुद्धो धर्मं प्र्च्छ्यते ॥
 
 ::: media
-![](/images/uebung022.jpg)
+![](/images/uebung022.webp)
 Fig.: केनाग्निरिज्यते ।
 (Image source: [Details](/en/licenses#uebung022))
 :::
@@ -231,7 +231,7 @@ E) Transform sentences C)1-5 into active constructions.
 ५. ब्राह्मनो ऽनृतं न वदति ॥
 
 ::: media
-![](/images/uebung021.jpg)
+![](/images/uebung021.webp)
 Fig.: फलान्यश्नुते
 (Image source: [Details](/en/licenses#uebung021))
 :::

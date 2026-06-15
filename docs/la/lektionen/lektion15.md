@@ -66,7 +66,7 @@ Nom pl. गुणवत्पुत्राः
 इष्टदेवता = इष्टा देवता = "deitas optata = deitas, ad quam ratio specialis devotionis et refugii habetur"
 
 ::: media
-![](/images/lekt1501.jpg)
+![](/images/lekt1501.webp)
 Abb.: लक्ष्मी
 (Fons imaginis: [Detalia](/la/licenses#lekt1501))
 :::
@@ -89,7 +89,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 :::
     
 ::: media
-![](/images/lekt1503.jpg)
+![](/images/lekt1503.webp)
 Abb.: नरसिंहः
 (Fons imaginis: [Detalia](/la/licenses#lekt1503))
 :::
@@ -266,7 +266,7 @@ exemplum:
 
 पूजा f.: honor, honorifica receptio, religiosa veneratio (Pūjā)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 Fig.: पूजा
 (Fons imaginis: [Detalia](/la/licenses#lekt1504))
 :::
@@ -275,7 +275,7 @@ Fig.: पूजा
 
 इन्द्र m.: princeps, primus, optimus inter ; deorum rex Indra
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 Fig.: इन्द्रः
 (Fons imaginis: [Detalia](/la/licenses#lekt1505))
 :::
@@ -304,14 +304,14 @@ unde:
 
 सिंह m.: leo (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 Fig.: सिंहः
 (Fons imaginis: [Detalia](/la/licenses#lekt1506))
 :::
 
 व्याघ्र m.: tigris (_Panthera tigris tigris_) (verbum: yawnator)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 Fig.: व्याघ्रः
 (Fons imaginis: [Detalia](/la/licenses#lekt1507))
 :::
@@ -532,7 +532,7 @@ Solve, as in Exercitatio 1, the following Tatpuruṣa:
 
 ६०. द्विजातिशुश्रूषया
 ::: media
-![](/images/lekt1508.jpg)
+![](/images/lekt1508.webp)
 Fig.: ग्रामदेवता
 (Fons imaginis: [Detalia](/la/licenses#lekt1508))
 :::
@@ -595,7 +595,7 @@ B) Sequentes Tatpuruṣa resolvite:
 
 २६. श्रुत्युदितम्
 ::: media
-![](/images/lekt1509.jpg)
+![](/images/lekt1509.webp)
 Fig.: नागदेवाः
 (Fons imaginis: [Detalia](/la/licenses#lekt1509))
 :::

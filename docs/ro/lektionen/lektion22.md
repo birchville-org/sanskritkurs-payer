@@ -156,7 +156,7 @@ Rădăcină cu **-a** + **-tya**
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 Fig.: कामदेवः
 sec. al XIX-lea
 (sursă imagine: [Detalii](/ro/licenses#lekt2202))
@@ -174,7 +174,7 @@ din aceasta:
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 Fig.: दुर्गाशक्तिः
 Kolkatta = কলকাতা
 (sursă imagine: [Detalii](/ro/licenses#lekt2203))
@@ -204,7 +204,7 @@ din aceasta:
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 Fig.: धेनवश्चरन्ति
 Goa = गोंय
 (sursă imagine: [Detalii](/ro/licenses#lekt2201))
@@ -276,7 +276,7 @@ Goa = गोंय
 **C) Transformați propozițiile de mai sus (cu excepția propozițiilor 8 și 10) în construcții pasive**
 
 ::: media
-![](/images/lekt2204.jpg)
+![](/images/lekt2204.webp)
 Fig.: अन्नं पक्त्वा
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2204))
 :::

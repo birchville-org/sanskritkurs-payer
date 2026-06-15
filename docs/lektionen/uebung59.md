@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-15
 # Übung 59
 
 ::: media
-![](/images/uebung098.jpg)
+![](/images/uebung098.webp)
 Abb.: रावणः
 (Bildquelle: [Details](/licenses#uebung098))
 :::
@@ -213,7 +213,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 > अजिग्लपस् - ग्लै Kaus. Aor. 3
 
 :::: media
-![](/images/uebung099.jpg)
+![](/images/uebung099.webp)
 Abb.: रामस्य रावणेन युद्धः
 (Bildquelle: [Details](/licenses#uebung099))
 :::

@@ -55,7 +55,7 @@ Formas sequentes determina:
 :::
 
 ::: media
-![](/images/uebung078.jpg)
+![](/images/uebung078.webp)
 Abb.: गायी
 (Bildquelle: [Details](/licenses#uebung078))
 :::
@@ -75,7 +75,7 @@ Interrogatio regis **शूद्रक** e **विदिशा** ad psittacum 
 > Sed Vaiśampāyana, a Domino terrae spontanea curiositate magna reverentia interrogatus, permomentum cogitavit, deinde cum omni reverentia respondit: "Rex, longa est historia. Si te iuvat, aurem mihi praesta!"
 
 ::: media
-![](/images/uebung079.jpg)
+![](/images/uebung079.webp)
 Fig.: शुकः
 (Fons imaginis: [Detalia](/licenses#uebung079))
 :::

@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 Si dica la verità che è piacevole, non si dica la verità sgradevole; non si dica una falsa verità piacevole, questa è la legge eterna.
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 Fig.: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Determinare e tradurre le seguenti forme:
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 Fig.: भक्त्याः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung047))
 :::

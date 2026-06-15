@@ -308,7 +308,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 Рис.: घाताः
 Бангалор = ಬೆಂಗಳೂರು
 (Джерело зображення: [Деталі](/uk/licenses#lekt1703))
@@ -324,7 +324,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 Рис.: योगासनम्
 (Джерело зображення: [Деталі](/uk/licenses#lekt1701))
 :::
@@ -343,7 +343,7 @@ status: stable
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : доїти
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 Рис.: दोग्धि
 (Джерело зображення: [Деталі](/uk/licenses#lekt1702))
 :::

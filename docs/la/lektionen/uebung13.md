@@ -121,7 +121,7 @@ Quid edunt et bibunt Brahmanes?
 ब्राह्मणैः किं पीतं खादितं च ॥
 
 ::: media
-![](/images/uebung019.jpg)
+![](/images/uebung019.webp)
 Fig.: अग्निर्गृहं दहति ।
 (Fons imaginis: [Detalia](/licenses#uebung019))
 :::
@@ -270,7 +270,7 @@ E) Versa in Sanscritum:
 यजकैः सोमः सुतः ॥
 
 ::: media
-![](/images/uebung018.jpg)
+![](/images/uebung018.webp)
 Fig.: बाला जलं पिबति । बालया जलं पीयते ।
 (Fons imaginis: [Detalia](/licenses#uebung018))
 :::

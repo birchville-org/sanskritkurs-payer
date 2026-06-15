@@ -167,7 +167,7 @@ status: stable
 * **dīpa m.** (दीप) : лампа
 
 ::: media
-![](/images/lekt1405.jpg)
+![](/images/lekt1405.webp)
 Рис.: दीपाः
 (Джерело зображення: [Деталі](/uk/licenses#lekt1405))
 :::
@@ -255,7 +255,7 @@ status: stable
 २५. पुत्रवती
 
 ::: media
-![](/images/lekt1404.jpg)
+![](/images/lekt1404.webp)
 Рис.: पुत्रवती
 (Джерело зображення: [Деталі](/uk/licenses#lekt1404))
 :::
@@ -317,7 +317,7 @@ status: stable
 ५३. किम्
 
 ::: media
-![](/images/lekt1403.jpg)
+![](/images/lekt1403.webp)
 Рис.: अयं बालः कस्याः पुत्रः ।
 (Джерело зображення: [Деталі](/uk/licenses#lekt1403))
 :::
@@ -351,7 +351,7 @@ status: stable
 १३. कस्यान्नमनेनर्षिणेष्टम् ।
 
 ::: media
-![](/images/lekt1402.jpg)
+![](/images/lekt1402.webp)
 Рис.: केषामिमानि गृहाणि ।
 (Джерело зображення: [Деталі](/uk/licenses#lekt1402))
 :::

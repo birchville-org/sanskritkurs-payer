@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-15
 # Урок 59
 
 ::: media
-![](/images/uebung098.jpg)
+![](/images/uebung098.webp)
 Мал.: रावणः
 (Джерело зображення: [Деталі](/uk/licenses#uebung098))
 :::
@@ -213,7 +213,7 @@ _Підказка для перекладу:_ Вірш 6: दिदृक्ष�
 > अजिग्लपस् - ग्लै Кавс. Аор. 3
 
 :::: media
-![](/images/uebung099.jpg)
+![](/images/uebung099.webp)
 Мал.: रामस्य रावणेन युद्धः
 (Джерело зображення: [Деталі](/uk/licenses#uebung099))
 :::

@@ -73,7 +73,7 @@ Reflexiuns dal papagaj **वैशम्पायन** davant la vita dal cuscha
 > E mi è vegnì en la conscienza: Ah, la vossa vita, o cuschaders, consista per la gronda part en stultezia, e voss agir vegn blamà dals bun. Uschia: Els cumparan la offrenda da carne umana per la retga religiun; lur nutriment è vin da mel, carne e simigiant, blamà dals bun; lur activitad è la cuschada; lur doctrina è il ululà dals sciacals; ils gufgs èn lur maisters da bun e mal; lur savida è la connossenza dals uccels; lur fidls èn ils chans; lur regn è en las selvas vuedas; lur festa è l'ebrietad; lur amics èn l'arch, che executescha acziuns crudelas; lur companis èn las saetas, la punta da las qualas è smirrada cun velen sco ils serpents; lur chant porta la ruina a la selva confusa; lur dunnas èn las giuvnas rapidas d'auters; els vivan cun tigrids crudels; cun il sangu dals animals adorà els las divinitads; els offrendan carne; vivan dal rapin; lur ornament èn las gemmas dals serpents; els fricciun lur membras cun il suc da l'elefant da la selva en l'estrus; tut la selva, nua che els s'installein, radicheschan els cumplettamain – Cun quai reflexionar, è il general dals Śabaras vegnì en.
 
 ::: media
-![](/images/uebung086.jpg)
+![](/images/uebung086.webp)
 Abb.: Cuschader
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung086))
 :::

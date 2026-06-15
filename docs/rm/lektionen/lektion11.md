@@ -70,7 +70,7 @@ z.B. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्�
   - **vadana** n. वदन : il disch; instrument da disch: bucca, vult
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 Abb.: **vadanāni** = वदनानि
 (Font dal maletg: [Detagls](/rm/licenses#lekt1102))
 :::
@@ -107,7 +107,7 @@ Abb.: **vadanāni** = वदनानि
 **D) Formai per las sentenzas creadas suenter C) la construcziun passiva.**
 
 ::: media
-![](/images/lekt1101.jpg)
+![](/images/lekt1101.webp)
 Abb.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt1101))
 :::
@@ -150,7 +150,7 @@ Abb.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 **E) Midar las frasis C) 1-5 en construcziuns activas.**
 
 ::: media
-![](/images/lekt1103.jpg)
+![](/images/lekt1103.webp)
 Abb.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
 (Fontana da l'imagina: [Detagls](/rm/licenses#lekt1103))
 :::

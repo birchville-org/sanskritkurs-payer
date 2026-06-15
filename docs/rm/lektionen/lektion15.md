@@ -66,7 +66,7 @@ Nom pl. गुणवत्पुत्राः
 इष्टदेवता = इष्टा देवता = "la deidade desiderada = la deidade, envers la quala ins ha in rapport special da devoziun e refug"
 
 ::: media
-![](/images/lekt1501.jpg)
+![](/images/lekt1501.webp)
 Abb.: लक्ष्मी
 (Bildquelle: [Details](/rm/licenses#lekt1501))
 :::
@@ -90,7 +90,7 @@ Tals Karmadhārayas appositivs vegnan en ils cumments nativs sco er en l'exempli
 :::
     
 ::: media
-![](/images/lekt1503.jpg)
+![](/images/lekt1503.webp)
 Abb.: नरसिंहः
 (Bildquelle: [Details](/rm/licenses#lekt1503))
 :::
@@ -267,7 +267,7 @@ p.ex.
 
 पूजा f.: onur, accuegl onurabel, veneraziun religiusa (Pūjā)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 Abb.: पूजा
 (Bildquelle: [Details](/rm/licenses#lekt1504))
 :::
@@ -276,7 +276,7 @@ Abb.: पूजा
 
 इन्द्र m.: princip, prim, il meglier tranter ; re da divinitads Indra
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 Abb.: इन्द्रः
 (Bildquelle: [Details](/rm/licenses#lekt1505))
 :::
@@ -305,14 +305,14 @@ davos da:
 
 सिंह m.: leun (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 Abb.: सिंहः
 (Bildquelle: [Details](/rm/licenses#lekt1506))
 :::
 
 व्याघ्र m.: tigra (_Panthera tigris tigris_) (literal: gahner)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 Abb.: व्याघ्रः
 (Bildquelle: [Details](/rm/licenses#lekt1507))
 :::
@@ -533,7 +533,7 @@ Solvì uschè sco en l'exercizi 1 suandants Tatpuruṣa:
 
 ६०. द्विजातिशुश्रूषया
 ::: media
-![](/images/lekt1508.jpg)
+![](/images/lekt1508.webp)
 Fig.: ग्रामदेवता
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt1508))
 :::
@@ -596,7 +596,7 @@ B) Resolvì suandant Tatpuruṣa:
 
 २६. श्रुत्युदितम्
 ::: media
-![](/images/lekt1509.jpg)
+![](/images/lekt1509.webp)
 Fig.: नागदेवाः
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt1509))
 :::

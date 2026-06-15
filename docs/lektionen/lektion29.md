@@ -73,7 +73,7 @@ Inf. ग्रसितुम्
 परिव्राजक m.: Umherwanderer, Wandermönch, Pilger
 
 ::: media
-![](/images/lekt2903.jpg)
+![](/images/lekt2903.webp)
 Abb.: परिव्राजकाः
 Pushkar = पुष्कर
 (Bildquelle: [Details](/licenses#lekt2903))
@@ -93,7 +93,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt2901.jpg)
+![](/images/lekt2901.webp)
 Abb.: मत्स्यः
 रोहू मछली = Labeo rohita Hamilton
 (Bildquelle: [Details](/licenses#lekt2901))

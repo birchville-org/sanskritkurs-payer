@@ -73,7 +73,7 @@ Considerations of the Parrot **वैशम्पायन** on the life of a hu
 > And it came to my awareness: Alas, their [the hunters'] life consists mainly in delusion, and their conduct is censured by the good. Thus: They consider the offering of human flesh to be right religion; their food consists of honey-wine, meat, and the like, censured by the good; their endeavor is hunting; their scripture is the howling of jackals; owls are their teachers of good and evil; their wisdom is ornithology; their confidants are dogs; their realm is in empty forests; their festival is intoxication; their friends are bows that perform cruel deeds; their companions are arrows whose tips are smeared with poison like snakes; their song brings destruction to bewildered game; their women are the stolen young girls of others; they dwell together with cruel tigers; with animal blood they worship the deities; they offer meat as sacrificial gifts; they live by plunder; their ornament is serpent-precious stones; they rub their limbs with the rutting sap of forest elephants; every forest in which they settle, they uproot completely – While I was reflecting thus, the General of the Śabaras entered.
 
 ::: media
-![](/images/uebung086.jpg)
+![](/images/uebung086.webp)
 Fig.: Hunter
 (Image source: [Details](/en/licenses#uebung086))
 :::

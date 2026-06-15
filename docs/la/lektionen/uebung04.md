@@ -49,7 +49,7 @@ kālidāsa quis? vates est kālidāsa.
 B) Formate quaestiones ad hanc lectionem exercitium secundum exemplum etat kim (एतत्किम्) et respondete ad quaestiones cum verbis indicatis et pronominibus demonstrativis, e.g. eṣe puer est (एष बालः):
 
 ::: media
-![](/images/lekt0401.jpg)
+![](/images/lekt0401.webp)
 Fig.: एष कः । एष गजः । अयं गजः । स गजः । एषा का । एषा बाला । इयं बाला । सा बाला ।
 (Fons imaginis: [Detalia](/licenses#lekt0401))
 :::
@@ -91,7 +91,7 @@ hoc quid? haec formica est.
 एतत्किम् । एषा पिपीलिका ॥
 
 ::: media
-![](/images/uebung003.jpg)
+![](/images/uebung003.webp)
 Fig.: एतत्किम् । एष काकः ।
 (Fons imaginis: [Detalia](/licenses#uebung003))
 :::

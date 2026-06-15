@@ -176,7 +176,7 @@ Cui îi aparțin aceste case?
 Al cuiă mâncare a jertfit acest sfânt vedic?
 
 ::: media
-![](/images/uebung017.jpg)
+![](/images/uebung017.webp)
 Fig.: नायकश्च नायिका च
 (Sursa imaginii: [Detalii](/licenses#uebung017))
 :::

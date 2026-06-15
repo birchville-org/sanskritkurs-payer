@@ -2,7 +2,7 @@
 
 ## ਲਿਖਤ ਅਭਿਆਸ 6
 
-![](/images/schrift009.jpg)
+![](/images/schrift009.webp)
 
 ਝ਼ਾ ਲਈ ਹੇਠ ਲਿਖਿਆ ਰੂਪ ਵੀ ਆਮ ਹੈ:
 

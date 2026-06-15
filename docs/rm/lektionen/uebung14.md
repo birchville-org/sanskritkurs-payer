@@ -176,7 +176,7 @@ A cui appartegnan questas chasas?
 A cui tschertgà ha quest savis vedic sacrificà?
 
 ::: media
-![](/images/uebung017.jpg)
+![](/images/uebung017.webp)
 Abb.: नायकश्च नायिका च
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung017))
 :::

@@ -50,7 +50,7 @@ Before a too severe regime (daṇḍa), creatures must tremble. A lax regime is 
 :::
 
 ::: media
-![](/images/uebung046.jpg)
+![](/images/uebung046.webp)
 Fig.: चतुर्वर्णाश्रमो लोको
 (Image source: [Details](/en/licenses#uebung046))
 :::

@@ -67,7 +67,7 @@ Deoarece momentul pentru jertfă a trecut, zeii, cărora nu li s-a jertfit, sunt
 Dacă învățătorii predau, copiii bine educați nu au voie să bârfescă (să vorbească).
 
 ::: media
-![](/images/uebung044.jpg)
+![](/images/uebung044.webp)
 Fig.: गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति
 (Sursa imaginii: [Detalii](/licenses#uebung044))
 :::

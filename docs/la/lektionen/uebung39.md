@@ -106,7 +106,7 @@ A) Formas primae personae earum verbiformarum, quae huic verbiformae in numero, 
 :::
 
 ::: media
-![](/images/uebung064.jpg)
+![](/images/uebung064.webp)
 Tabl.: आगारे सीदामः
 (Fons imaginis: [Detalia](/licenses#uebung064))
 :::

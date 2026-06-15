@@ -27,7 +27,7 @@ Erklärungen:
 \-गु Neutrum Nom.Akk.sg. zu गो m.f. "Rind, Kuh"
 
 ::: media
-![](/images/lekt3801.jpg)
+![](/images/lekt3801.webp)
 Abb.: प्रज्ञा नश्यति मेहतः
 (Bildquelle: [Details](/licenses#lekt3801))
 :::
@@ -98,7 +98,7 @@ Beispiele:
 ::::
 
 ::: media
-![](/images/lekt3803.jpg)
+![](/images/lekt3803.webp)
 Abb.: सीमा
 (Bildquelle: [Details](/licenses#lekt3803))
 :::
@@ -204,7 +204,7 @@ Beispiel:
 हस्तिन् m.: der durch eine besondere Hand gekennzeichnete = der Elefant (seine Hand ist ja keine gewöhnliche Hand, sondern ein Rüssel)
 
 ::: media
-![](/images/lekt3806.jpg)
+![](/images/lekt3806.webp)
 Abb.: हस्ती
 (Bildquelle: [Details](/licenses#lekt3806))
 :::
@@ -212,7 +212,7 @@ Abb.: हस्ती
 हस्तवन्त् : einer, der (menschliche) Hände hat
 
 ::: media
-![](/images/lekt3807.jpg)
+![](/images/lekt3807.webp)
 Abb.: हस्तवान्
 (Bildquelle: [Details](/licenses#lekt3807))
 :::
@@ -308,7 +308,7 @@ Beispiel:
 सूर्य m.: Sonne, Sonnengott Sūrya
 
 ::: media
-![](/images/lekt3802.jpg)
+![](/images/lekt3802.webp)
 Abb.: सूर्यः
 (Bildquelle: [Details](/licenses#lekt3802))
 :::
@@ -317,7 +317,7 @@ Abb.: सूर्यः
 उदक n.: Wasser
 
 ::: media
-![](/images/lekt3805.jpg)
+![](/images/lekt3805.webp)
 Abb.: उदकम्
 (Bildquelle: [Details](/licenses#lekt3805))
 :::
@@ -348,7 +348,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt3804.jpg)
+![](/images/lekt3804.webp)
 Abb.: गौतमबुद्धस्य महापरिनिर्वाणम्
 (Bildquelle: [Details](/licenses#lekt3804))
 :::
@@ -392,7 +392,7 @@ von राज :
 ब्रह्मन् m.: der persönlich gedachte Schöpfergott Brahmā
 
 ::: media
-![](/images/lekt3809.jpg)
+![](/images/lekt3809.webp)
 Abb.: ब्रह्मा
 (Bildquelle: [Details](/licenses#lekt3809))
 :::
@@ -433,13 +433,13 @@ davon:
 :::
 
 ::: media
-![](/images/lekt3810.jpg)
+![](/images/lekt3810.webp)
 Abb.: अशोकवृक्षः
 (Bildquelle: [Details](/licenses#lekt3810))
 :::
 
 ::: media
-![](/images/lekt3811.jpg)
+![](/images/lekt3811.webp)
 Abb.: अशोकसाम्राज्यम्
 (Bildquelle: [Details](/licenses#lekt3811))
 :::
@@ -485,7 +485,7 @@ A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammer
 विनोद m.: Zeitvertreib, Unterhaltung, Vergnügen
 
 ::: media
-![](/images/lekt3812.jpg)
+![](/images/lekt3812.webp)
 Abb.: विनोदः
 (Bildquelle: [Details](/licenses#lekt3812))
 :::
@@ -516,7 +516,7 @@ Inf. तरितुम् । तरीतुम्
 तीर n.: Ufer
 
 ::: media
-![](/images/lekt3813.jpg)
+![](/images/lekt3813.webp)
 Abb.: वाराणस्यां गङ्गातीरे
 (Bildquelle: [Details](/licenses#lekt3813))
 :::
@@ -535,7 +535,7 @@ Inf. गणयितुम्
 :::
 
 ::: media
-![](/images/lekt3814.jpg)
+![](/images/lekt3814.webp)
 Abb.: गणयां चक्रुः
 (Bildquelle: [Details](/licenses#lekt3814))
 :::

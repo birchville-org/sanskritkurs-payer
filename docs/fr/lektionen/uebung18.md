@@ -143,7 +143,7 @@ D) Traduisez :
 Le devoir de tous est : la non-violence, la véracité, la pureté, ne pas se plaindre de son destin, l'absence de méchanceté et la patience indulgente.
 
 ::: media
-![](/images/uebung028.jpg)
+![](/images/uebung028.webp)
 Fig. : दुर्गमो मार्गः
 (Source de l'image : [Détails](/fr/licenses#uebung028))
 :::

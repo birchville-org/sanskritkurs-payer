@@ -12,7 +12,7 @@ status: stable
 ## 20.1. Possessivkomposita = बहुव्रीहि m.
 
 ::: media
-![](/images/lekt2004.jpg)
+![](/images/lekt2004.webp)
 Abb.: बहुव्रीहिः पुरुषः
 Iodhpura = जोधपुर
 (Fons imaginis: [Detalia](/la/licenses#lekt2004))
@@ -159,7 +159,7 @@ Traditione distinguitur:
 ::::
 
 ::: media
-![](/images/lekt2005.jpg)
+![](/images/lekt2005.webp)
 Fig.: देवा यीश्वादयः
 Iesus et reliqui Dii, Ahmedabad
 (Fons imaginis: [Detalia](/la/licenses#lekt2005))
@@ -190,7 +190,7 @@ Exemplum:
 ::::
 
 ::: media
-![](/images/lekt2001.jpg)
+![](/images/lekt2001.webp)
 Tab.: इन्द्रो वज्रपाणिः
 Siemreap (ក្រុងសៀមរាប), Cambogia, saec. IX p. Chr.
 (Fons imaginis: [Detalia](/la/licenses#lekt2001))
@@ -221,7 +221,7 @@ Exempla:
 ::::
 
 ::: media
-![](/images/lekt2006.jpg)
+![](/images/lekt2006.webp)
 Fig.: सपुत्रा
 Madhya Pradesh
 (Fons imaginis: [Detalia](/la/licenses#lekt2006))
@@ -260,7 +260,7 @@ Exempla hic data sunt ad postea pertractanda, pro quibusdam nondum grammatica ne
 13.  et alia
 
 ::: media
-![](/images/lekt2007.jpg)
+![](/images/lekt2007.webp)
 Fig.: कृतकटा
 Chennai = சென்னை
 (Fons imaginis: [Detalia](/la/licenses#lekt2007))
@@ -290,7 +290,7 @@ Id fortasse verum est. Atqui Indos multa ut ornantia et descriptiva videri, quae
 आश्रम m., n.: eremium, status vitae, aetas vitae (scilicet ut ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ et forte ut सन्न्यासिन् ; vide Basham, Mirabilia p. 159 seq.)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 Fig.: आश्रमः
 Rishikesh = ऋषिकेश. "Haec pars est ex Ashrama in Rishikesh ubi Beatini morabantur. Haec pars specifica non aderat cum illi ibi essent, sed tamen pulchra videtur."
 (Fons imaginis: [Detalia](/la/licenses#lekt2008))
@@ -523,7 +523,7 @@ Explicatio: तपस् n. (declinatio postea): ardor, calor, poena; ardor asce
 :::
 
 ::: media
-![](/images/lekt2010.jpg)
+![](/images/lekt2010.webp)
 Fig.: तपस्
 Buddha ut asceta ante suam insightum liberantem, Gandhara, saec. 2./3.
 (Fons imaginis: [Detalia](/la/licenses#lekt2010))
@@ -565,7 +565,7 @@ Explicatio: -da ad finem compositi: "dans"
 :::
 
 ::: media
-![](/images/lekt2009.jpg)
+![](/images/lekt2009.webp)
 Fig.: लोकानां करदा मही
 Karnataka
 (Fons imaginis: [Detalia](/la/licenses#lekt2009))
@@ -595,7 +595,7 @@ Explicatio: omnes formae exceptis कं et स्त्रीणाम् sunt 
 :::
 
 ::: media
-![](/images/lekt2003.jpg)
+![](/images/lekt2003.webp)
 Fig.: तनुमध्यं पृथुश्रोणि
 Sanchi = सांची
 (Fons imaginis: [Detalia](/la/licenses#lekt2003))

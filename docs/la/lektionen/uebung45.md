@@ -59,7 +59,7 @@ Brahmane, ghee in ignem sacrificalem effudisti?
 Hostis, gladio animam (vitam) non secas.
 
 ::: media
-![](/images/uebung074.jpg)
+![](/images/uebung074.webp)
 Fig.: हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात
 (Fons imaginis: [Detalia](/licenses#uebung074))
 :::

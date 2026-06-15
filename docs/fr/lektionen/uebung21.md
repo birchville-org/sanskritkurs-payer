@@ -47,7 +47,7 @@ Un homme deux fois né est un homme initié par le maître dans le Veda.
 Celui qui a vaincu la colère ne hait pas un ennemi, même si celui-ci le tue. Mais celui qui est vaincu par la colère hait.
 
 ::: media
-![](/images/uebung033.jpg)
+![](/images/uebung033.webp)
 Fig. : हतान्धकारा दीपाः
 (Source de l'image : [Détails](/fr/licenses#uebung033))
 :::

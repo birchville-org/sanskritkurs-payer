@@ -410,23 +410,23 @@ Absol. -⟪ग्राह्य⟫
 
 > **पेयर, अलोइस &lt;1944 - &gt;:** धर्मशास्त्र : परिचय और अवलोकन. -- 10. संस्कार और संक्रमण अनुष्ठान (संस्कार). -- अनुलग्नक सी: राहु और केतु, अदृश्य चलते तारे . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 अभ.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/hi/licenses#lekt4602)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 अभ.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/hi/licenses#lekt4603)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 अभ.: [⟪शुक्रः⟫, ⟪शनिः⟫](/hi/licenses#lekt4604)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 अभ.: [⟪राहुः⟫, ⟪केतुः⟫](/hi/licenses#lekt4605)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4605))
 :::
@@ -455,7 +455,7 @@ Inf. ⟪नन्तुम्⟫
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 अभ.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/hi/licenses#lekt4607)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4607))
 :::
@@ -473,7 +473,7 @@ Inf. ⟪रोढुम्⟫
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 अभ.: [⟪अश्वरोहकः⟫](/hi/licenses#lekt4606)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4606))
 :::
@@ -492,7 +492,7 @@ Absol. -⟪हूय⟫
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 अभ.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/hi/licenses#lekt4608)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4608))
 :::
@@ -521,7 +521,7 @@ Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्�
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 चित्र: [⟪श्रान्तः⟫](/hi/licenses#lekt4609)
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4609))
 :::
@@ -552,7 +552,7 @@ PPP ⟪सक्त⟫
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 चित्र: [⟪सङ्गः⟫](/hi/licenses#lekt4610)
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4610))
 :::
@@ -620,7 +620,7 @@ PPP ⟪परिभूत⟫ 3: पराजित, अपमानित, न�
 ⟪भोस्⟫ सम्बोधन क्रियापद: सम्बोधन का आह्वान, उदाहरण: हे, हेडा, ओह, एई, हेलो, हाय! अक्सर अनुवाद नहीं किया जा सकता। इस क्रियापद का एक विशेष संधि है: सभी अनुनासिक ध्वनियों के trước, यह ***⟪भो⟫*** होता है।
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 चित्र: [⟪भोः⟫](/hi/licenses#lekt4611)
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4611))
 :::
@@ -696,7 +696,7 @@ B) अनुवाद करें:
 ⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
 
 ::: media
-![](/images/lekt4612.jpg)
+![](/images/lekt4612.webp)
 अभ.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/hi/licenses#lekt4612)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4612))
 :::

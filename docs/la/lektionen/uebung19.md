@@ -59,7 +59,7 @@ Qui divitias habet, hic in mundo vir est,
 Qui enim divitias habet, hic doctus est.
 
 ::: media
-![](/images/uebung029.jpg)
+![](/images/uebung029.webp)
 Fig.: यस्यार्थास्तस्य मित्राणि
 (Fons imaginis: [Detalia](/licenses#uebung029))
 :::

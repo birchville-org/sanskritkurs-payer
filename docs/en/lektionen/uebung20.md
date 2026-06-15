@@ -65,7 +65,7 @@ B) Translate into Sanskrit using compounds:
 अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः शूद्रा अपि ॥
 
 ::: media
-![](/images/uebung031.jpg)
+![](/images/uebung031.webp)
 Fig.: शस्त्राजीवः क्षत्रियः
 (Image source: [Details](/en/licenses#uebung031))
 :::
@@ -239,7 +239,7 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 ८१. **सोढदुःखाः** । सोढं दुःखं यैस्ते ।
 
 ::: media
-![](/images/uebung030.jpg)
+![](/images/uebung030.webp)
 Fig.: सम्पन्नरूपा रूपसम्पन्ना
 (Image source: [Details](/en/licenses#uebung030))
 :::
@@ -295,7 +295,7 @@ Slender in the middle, wide at the hips, with red lips, black eyes, with a curve
 Poor, who do not desire, have very many sons, the rich have not a single son. Strange is the course of creation.
 
 ::: media
-![](/images/uebung032.jpg)
+![](/images/uebung032.webp)
 Fig.: सन्ति पुत्राः सुबहवो दरिद्राणाम्
 (Image source: [Details](/en/licenses#uebung032))
 :::

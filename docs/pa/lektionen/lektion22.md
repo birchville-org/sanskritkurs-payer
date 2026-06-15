@@ -156,7 +156,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 ਚਿੱਤਰ: कामदेवः
 19. ਸਦੀ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2202))
@@ -174,7 +174,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 ਚਿੱਤਰ: दुर्गाशक्तिः
 ਕੋਲਕਾਤਾ = কলকাতা
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2203))
@@ -204,7 +204,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 ਚਿੱਤਰ: धेनवश्चरन्ति
 ਗੋਆ = गोंय
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2201))
@@ -276,7 +276,7 @@ status: stable
 **C) ਉਪਰੋਕਤ ਵਾਕਾਂ (ਵਾਕ 8 ਅਤੇ 10 ਨੂੰ ਛੱਡ ਕੇ) ਤੋਂ ਪੈਸਿਵ ਰਚਨਾਵਾਂ ਬਣਾਓ**
 
 ::: media
-![](/images/lekt2204.jpg)
+![](/images/lekt2204.webp)
 ਚਿੱਤਰ: अन्नं पक्त्वा
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2204))
 :::

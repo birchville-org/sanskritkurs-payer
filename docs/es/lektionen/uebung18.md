@@ -143,7 +143,7 @@ D) Traduzca:
 El deber de todos es: no violencia, veracidad, pureza, no murmurar sobre su destino, ausencia de maldad y paciencia indulgente.
 
 ::: media
-![](/images/uebung028.jpg)
+![](/images/uebung028.webp)
 Fig.: दुर्गमो मार्गः
 (Fuente de la imagen: [Detalles](/licenses#uebung028))
 :::

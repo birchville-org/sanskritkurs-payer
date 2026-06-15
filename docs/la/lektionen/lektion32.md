@@ -141,7 +141,7 @@ Exempla:
 **चूत**
 
 ::: media
-![](/images/lekt3202.jpg)
+![](/images/lekt3202.webp)
 Fig.: चूतः
 Arbor mangifera, Kanpur.
 (Fons imaginis: [Detalia](/la/licenses#lekt3202))
@@ -178,7 +178,7 @@ Arbor mangifera, Kanpur.
 **वानर कपि**
 
 ::: media
-![](/images/lekt3203.jpg)
+![](/images/lekt3203.webp)
 Fig.: वानराः
 Maimon (macacus rhesus) in Delhio.
 (Fons imaginis: [Detalia](/la/licenses#lekt3203))
@@ -200,7 +200,7 @@ Maimon (macacus rhesus) in Delhio.
 **उपल**
 
 ::: media
-![](/images/lekt3204.jpg)
+![](/images/lekt3204.webp)
 Fig.: उपलाः
 Lapidarium saxorum meridie Puenae, Maharashtra.
 (Fons imaginis: [Detalia](/la/licenses#lekt3204))
@@ -209,7 +209,7 @@ Lapidarium saxorum meridie Puenae, Maharashtra.
 **लक्ष्य**
 
 ::: media
-![](/images/lekt3205.jpg)
+![](/images/lekt3205.webp)
 Fig.: लक्ष्यम्
 Exercitium sagittarum / targetum sagittarum, Karnataka.
 (Fons imaginis: [Detalia](/la/licenses#lekt3205))
@@ -236,7 +236,7 @@ Exercitium sagittarum / targetum sagittarum, Karnataka.
 :::
 
 ::: media
-![](/images/lekt3207.jpg)
+![](/images/lekt3207.webp)
 Fig.: चितं गोमयं दहति
 Stipulae sterquilini ardentis in Rajasthan.
 (Fons imaginis: [Detalia](/la/licenses#lekt3207))
@@ -251,7 +251,7 @@ Stipulae sterquilini ardentis in Rajasthan.
 **कौशल कुशल**
 
 ::: media
-![](/images/lekt3206.jpg)
+![](/images/lekt3206.webp)
 Fig.: कौशलम्
 Pictura mehndi in manibus in Mumbai.
 (Fons imaginis: [Detalia](/la/licenses#lekt3206))
@@ -350,7 +350,7 @@ B) Traducite et resolvite composita in Sanscritico:
 बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥
 
 ::: media
-![](/images/lekt3208.jpg)
+![](/images/lekt3208.webp)
 Tabula: बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
 Monachus Buddhistus in Sri Lanka.
 (Fons imaginis: [Detalia](/la/licenses#lekt3208))
@@ -574,7 +574,7 @@ C) In Sanscritum vertas:
 52. Vale!
 
 ::: media
-![](/images/lekt3209.jpg)
+![](/images/lekt3209.webp)
 Fig.: पुनर्दर्शनाय
 Salutatio / adieu Indianum.
 (Fons imaginis: [Detalia](/la/licenses#lekt3209))
@@ -656,7 +656,7 @@ Explicationes:
 :::
 
 ::: media
-![](/images/lekt3210.jpg)
+![](/images/lekt3210.webp)
 Fig.: तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
 Macaques in arboribus mangiferis.
 (Fons imaginis: [Detalia](/la/licenses#lekt3210))

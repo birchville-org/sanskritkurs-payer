@@ -838,14 +838,14 @@ Carminis quattuor sectiones sunt:
 भट्टिकाव्य temporibus inter annum 495 et 641 post Christum natum compositum est.
 
 ::: media
-![](/images/lekt5902.jpg)
+![](/images/lekt5902.webp)
 Fig.: रावणः
 (Fons imagini: [Detalia](/la/licenses#lekt5902))
 :::
 Particula sequens initium decimi quinti cantus est, qui Aoristo dedicatus est. रावण, rex daemonum, qui राम uxorem सीता raptaverat, ad fratrem suum कुम्भकर्ण ("Auricula Pistrini") mittit, qui poena pro suis sceleribus in quodam perpetuo somno iacet.
 
 ::: media
-![](/images/lekt5903.jpg)
+![](/images/lekt5903.webp)
 Fig.: कुम्भकर्णः
 Saltatio Kecak, Bali (Indonesia)
 (Fons imagini: [Detalia](/la/licenses/lekt5903))
@@ -853,7 +853,7 @@ Saltatio Kecak, Bali (Indonesia)
 _Auxilium translationis:_ Versus 6: दिदृक्षते \= Desiderativum ad दृश्
 
 ::: media
-![](/images/lekt5901.jpg)
+![](/images/lekt5901.webp)
 (Fons imagini: [Detalia](/la/licenses/lekt5901))
 :::
 Textus ex: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127 seqq.

@@ -21,7 +21,7 @@ status: stable
 Пояснення: पर "інший"
 
 ::: media
-![lekt4102.jpg](/images/lekt4102.jpg)
+![lekt4102.jpg](/images/lekt4102.webp)
 Мал.: पुस्तकस्था च या विद्या ...
 (Джерело зображення: [Деталі](/uk/licenses#lekt4102))
 :::
@@ -201,7 +201,7 @@ status: stable
 :::
 
 ::: media
-![lekt4103.jpg](/images/lekt4103.jpg)
+![lekt4103.jpg](/images/lekt4103.webp)
 Рис.: विक्रेयाणि पुष्पानि
 (Джерело зображення: [Деталі](/uk/licenses#lekt4103))
 :::
@@ -238,7 +238,7 @@ status: stable
 :::
 
 ::: media
-![lekt4106.jpg](/images/lekt4106.jpg)
+![lekt4106.jpg](/images/lekt4106.webp)
 Мал.: दृश्यो मन्दिरः
 (Джерело зображення: [Деталі](/uk/licenses#lekt4106))
 :::
@@ -322,7 +322,7 @@ status: stable
 ::::
 
 ::: media
-![lekt4108.jpg](/images/lekt4108.jpg)
+![lekt4108.jpg](/images/lekt4108.webp)
 Рис.: दर्शनीयं नगरं काशी
 (Джерело зображення: [Деталі](/uk/licenses#lekt4108))
 :::
@@ -349,7 +349,7 @@ status: stable
 भुजङ्ग m.: Змія
 
 ::: media
-![lekt4105.jpg](/images/lekt4105.jpg)
+![lekt4105.jpg](/images/lekt4105.webp)
 Мал.: भुजङ्गः
 (Джерело зображення: [Деталі](/uk/licenses#lekt4105))
 :::
@@ -359,7 +359,7 @@ status: stable
 विष n.: Отрута
 
 ::: media
-![lekt4104.jpg](/images/lekt4104.jpg)
+![lekt4104.jpg](/images/lekt4104.webp)
 Мал.: भुजङ्गस्य विषम्
 (Джерело зображення: [Деталі](/uk/licenses#lekt4104))
 :::
@@ -382,7 +382,7 @@ Absol. **-शिष्य** । **-शास्य**
 :::
 
 ::: media
-![lekt4109.jpg](/images/lekt4109.jpg)
+![lekt4109.jpg](/images/lekt4109.webp)
 Мал.: शासना
 (Джерело зображення: [Деталі](/uk/licenses#lekt4109))
 :::
@@ -394,7 +394,7 @@ Absol. **-शिष्य** । **-शास्य**
 :::
 
 ::: media
-![lekt4110.jpg](/images/lekt4110.jpg)
+![lekt4110.jpg](/images/lekt4110.webp)
 Мал.: शास्त्री
 (Джерело зображення: [Деталі](/uk/licenses#lekt4110))
 :::
@@ -434,7 +434,7 @@ B) Перекладіть:
 काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥२॥
 
 ::: media
-![lekt4111.jpg](/images/lekt4111.jpg)
+![lekt4111.jpg](/images/lekt4111.webp)
 Рис.: काशीं पत्स्ये गङ्गां द्रक्ष्यामि ...
 (Джерело зображення: [Деталі](/uk/licenses#lekt4111))
 :::

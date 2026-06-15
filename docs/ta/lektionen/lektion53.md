@@ -35,13 +35,13 @@ lesson_id: 53
 ::::
 
 ::: media
-![](/images/lekt5301.jpg)
+![](/images/lekt5301.webp)
 அடிக்குறிப்பு: मार्जारयुगम्
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5301))
 :::
 
 ::: media
-![](/images/lekt5302.jpg)
+![](/images/lekt5302.webp)
 அடிக்குறிப்பு: हस्तौ
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5302))
 :::
@@ -129,7 +129,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5305.jpg)
+![](/images/lekt5305.webp)
 படம்: भरन्तौ
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5305))
 :::
@@ -232,7 +232,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5306.jpg)
+![](/images/lekt5306.webp)
 சுருக்கம்: फले
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt5306))
 :::
@@ -266,7 +266,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5307.jpg)
+![](/images/lekt5307.webp)
 சுருக்கம்: धेनू
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt5307))
 :::
@@ -352,7 +352,7 @@ lesson_id: 53
 ::::
 
 ::: media
-![](/images/lekt5308.jpg)
+![](/images/lekt5308.webp)
 படம்: पितापुत्रौ
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5308))
 :::
@@ -488,7 +488,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5309.jpg)
+![](/images/lekt5309.webp)
 வரைபடம்: द्राघीयो लिङ्गम्
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5309))
 :::

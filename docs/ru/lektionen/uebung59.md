@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-15
 # Урок 59
 
 ::: media
-![](/images/uebung098.jpg)
+![](/images/uebung098.webp)
 Рис.: रावणः
 (Источник изображения: [Подробности](/ru/licenses#uebung098))
 :::
@@ -213,7 +213,7 @@ _Помощь при переводе:_ Стих 6: दिदृक्षते 
 > अजिग्लपस् - ग्लै Kaus. Aor. 3
 
 :::: media
-![](/images/uebung099.jpg)
+![](/images/uebung099.webp)
 Рис.: रामस्य रावणेन युद्धः
 (Источник изображения: [Детали](/ru/licenses#uebung099))
 :::

@@ -122,7 +122,7 @@ C) Bestimmen und übersetzen Sie folgende Komposita:
 :::
 
 ::: media
-![](/images/uebung062.jpg)
+![](/images/uebung062.webp)
 Abb.: पुत्रे जात आर्यः सुखमाप्नोति
 (Bildquelle: [Details](/licenses#uebung062))
 :::

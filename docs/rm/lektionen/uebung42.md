@@ -38,7 +38,7 @@ Co vegn numnà il frar dal consert? Il frar dal consert è da designar sco "deva
 Il bab desiderava l'obtengiment da nepots.
 
 ::: media
-![](/images/uebung068.jpg)
+![](/images/uebung068.webp)
 Abb.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung068))
 :::
@@ -71,7 +71,7 @@ Cun udair questa promissiun, vegnì prins en centenas. Ma nagin d'els ne pova mo
 Il cor dal re Janaka era altamain cuntent. Lura el fa vegnir Daśaratha e ils auters e celebrà cun gronda pompa la festa da matrimoni da Sītā e Rāma.
 
 ::: media
-![](/images/uebung069.jpg)
+![](/images/uebung069.webp)
 Abb.: श्रीसीता श्रीरामश्च
 (Sursa d'imagines: [Detagls](/licenses#uebung069))
 :::

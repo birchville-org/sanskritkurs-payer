@@ -20,9 +20,9 @@ I segni di abbreviazione (ad esempio nelle indicazioni delle opere) sono °, ad 
 
 ### Ulteriori vocali in posizione iniziale
 
-![](/images/schrift018.jpg)
+![](/images/schrift018.webp)
 
-![](/images/schrift019.jpg)
+![](/images/schrift019.webp)
 
 Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
 

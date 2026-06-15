@@ -122,7 +122,7 @@ C) Determinar y traducir los siguientes compuestos:
 :::
 
 ::: media
-![](/images/uebung062.jpg)
+![](/images/uebung062.webp)
 Fig.: पुत्रे जात आर्यः सुखमाप्नोति
 (Fuente de la imagen: [Detalles](/licenses#uebung062))
 :::

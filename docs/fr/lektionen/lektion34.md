@@ -210,7 +210,7 @@ Exemples :
 **शस्य = सस्य n. sg. et pl. :** semence, culture, céréale
 
 ::: media
-![](/images/lekt3406.jpg)
+![](/images/lekt3406.webp)
 Fig. : सस्यम्
 Champ de riz en Inde.
 (Source de l'image : [Détails](/fr/licenses#lekt3406))
@@ -225,7 +225,7 @@ Champ de riz en Inde.
 **द्वीप m.n. :** île, continent
 
 ::: media
-![](/images/lekt3405.jpg)
+![](/images/lekt3405.webp)
 Fig. : लक्षद्वीपाः
 Carte des îles Lakshadweep.
 (Source de l'image : [Détails](/fr/licenses#lekt3405))
@@ -236,14 +236,14 @@ Carte des îles Lakshadweep.
 **तिल m. :** sésame (graine) (*Sesamum indicum* L.)
 
 ::: media
-![](/images/lekt3403.jpg)
+![](/images/lekt3403.webp)
 Fig. : तिलाः
 Graines de sésame.
 (Source de l'image : [Détails](/fr/licenses#lekt3403))
 :::
 
 ::: media
-![](/images/lekt3404.jpg)
+![](/images/lekt3404.webp)
 Fig. : *Sesamum indicum* L.
 Fleuraison de la plante de sésame.
 (Source de l'image : [Détails](/fr/licenses#lekt3404))
@@ -252,7 +252,7 @@ Fleuraison de la plante de sésame.
 **स्वर्ण n. :** (de belle couleur =) or
 
 ::: media
-![](/images/lekt3402.jpg)
+![](/images/lekt3402.webp)
 Fig. : स्वर्णम्
 Temple d'Or (Harmandir Sahib), Amritsar.
 (Source de l'image : [Détails](/fr/licenses#lekt3402))
@@ -269,7 +269,7 @@ Temple d'Or (Harmandir Sahib), Amritsar.
 **ऋषभ m. :** taureau
 
 ::: media
-![](/images/lekt3401.jpg)
+![](/images/lekt3401.webp)
 Fig. : ऋषभः
 Statue du taureau Nandi, collines de Chamundi, Mysore.
 (Source de l'image : [Détails](/fr/licenses#lekt3401))
@@ -349,7 +349,7 @@ Explications :
 :::
 
 ::: media
-![](/images/lekt3407.jpg)
+![](/images/lekt3407.webp)
 Fig. : सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
 Rituel de mariage hindou.
 (Source de l'image : [Détails](/fr/licenses#lekt3407))

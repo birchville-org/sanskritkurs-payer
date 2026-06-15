@@ -106,7 +106,7 @@ A) Formare le forme della prima persona corrispondenti alle seguenti forme verba
 :::
 
 ::: media
-![](/images/uebung064.jpg)
+![](/images/uebung064.webp)
 Fig.: आगारे सीदामः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung064))
 :::

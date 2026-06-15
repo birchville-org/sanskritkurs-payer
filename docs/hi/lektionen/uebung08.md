@@ -140,7 +140,7 @@ brāhmaṇā agniṃ kurvanti.
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
 ::: media
-![](/images/uebung007.jpg)
+![](/images/uebung007.webp)
 अभ.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung007))
 :::
@@ -204,7 +204,7 @@ Vimalā ist traurig.
 बालक एक पत्र लिखता है।
 
 ::: media
-![](/images/uebung008.jpg)
+![](/images/uebung008.webp)
 अभ.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (छवि स्रोत: [विवरण](/hi/licenses#uebung008))
 :::

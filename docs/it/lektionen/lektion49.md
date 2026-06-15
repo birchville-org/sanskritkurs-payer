@@ -185,7 +185,7 @@ Esempi:
 I sostantivi in -is e -us sono relativamente rari.
 
 ::: media
-![](/images/lekt4907.jpg)
+![](/images/lekt4907.webp)
 Fig.: नमस्ते
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4907))
 :::
@@ -248,7 +248,7 @@ Inf. द्रोग्धुम्
 कुलूहल n.: curiosità, interesse
 
 ::: media
-![](/images/lekt4901.jpg)
+![](/images/lekt4901.webp)
 Fig.: कुलूहलम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4901))
 :::
@@ -259,7 +259,7 @@ Fig.: कुलूहलम्
 कला f.: arte
 
 ::: media
-![](/images/lekt4902.jpg)
+![](/images/lekt4902.webp)
 Fig.: उत्तमा काला
 शिवो नटराजा, XI sec.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4902))
@@ -278,7 +278,7 @@ Fig.: विहंगः
 वेष m.: vestito, aspetto, esteriore
 
 ::: media
-![](/images/lekt4904.jpg)
+![](/images/lekt4904.webp)
 Fig.: वेषः
 वाराणस्याम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4904))
@@ -288,7 +288,7 @@ Fig.: वेषः
 पञ्जर n.: gabbia
 
 ::: media
-![](/images/lekt4909.jpg)
+![](/images/lekt4909.webp)
 Fig.: पञ्जरम्
 Indovino con pappagallo in gabbia: il pappagallo estrae bigliettini sui quali è scritto il destino Mysore
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4909))
@@ -316,7 +316,7 @@ Gerundivo ध्येय
 आदर m.: considerazione, attenzione, rispetto
 
 ::: media
-![](/images/lekt4905.jpg)
+![](/images/lekt4905.webp)
 Fig.: सादरः
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4905))
@@ -328,7 +328,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 शिशु m.: bambino, giovane
 
 ::: media
-![](/images/lekt4906.jpg)
+![](/images/lekt4906.webp)
 Fig.: गजशिशुः
 Sri Lanka
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4906))
@@ -389,7 +389,7 @@ Domande del re शूद्रक di विदिशा al pappagallo वैश�
 वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥
 
 ::: media
-![](/images/lekt4908.jpg)
+![](/images/lekt4908.webp)
 Fig.: शुकः
 Pappagallo dalla testa di prugna = Psittacula cyanocephala
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4908))

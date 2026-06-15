@@ -32,7 +32,7 @@ Exemplu:
 ::::
 
 ::: media
-![](/images/lekt5402.jpg)
+![](/images/lekt5402.webp)
 Fig.: अयुयुत्सुरर्जुनः
 भगवद्गीतोपदेशः Tirupati = తిరుపతి
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5402))
@@ -281,7 +281,7 @@ Traduceți scris următoarele forme și formați corespunzătoarele forme de aor
 23.  गम्यते
 
 ::: media
-![](/images/lekt5401.jpg)
+![](/images/lekt5401.webp)
 Fig.: त्रिचक्रेणेश्वरः स्तूयते
 Tamil Nadu
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5401))

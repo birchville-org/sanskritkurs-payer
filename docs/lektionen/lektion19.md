@@ -97,7 +97,7 @@ Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstel
 :::
 
 ::: media
-![](/images/lekt1809.jpg)
+![](/images/lekt1809.webp)
 Abb.: कामः
 Illustration zum कामसूत्र
 (Bildquelle: [Details](/licenses#lekt1809))
@@ -127,7 +127,7 @@ von **स्था** :
 :::
 
 ::: media
-![](/images/lekt1901.jpg)
+![](/images/lekt1901.webp)
 Abb.: गर्भगृहम्
 Badami (ಬದಾಮಿ)
 (Bildquelle: [Details](/licenses#lekt1901))
@@ -158,7 +158,7 @@ davon:
 **छत्त्र n.:** Sonnenschirm, Schirm
 
 ::: media
-![](/images/lekt1904.jpg)
+![](/images/lekt1904.webp)
 Abb.: छत्त्रम्
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
 (Bildquelle: [Details](/licenses#lekt1904))

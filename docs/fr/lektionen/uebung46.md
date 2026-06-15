@@ -85,7 +85,7 @@ From anger arises delusion; from delusion arises the confusion of mindfulness (r
 For the uncontrolled (non-Yogin) there is no insight.
 
 ::: media
-![](/images/uebung080.jpg)
+![](/images/uebung080.webp)
 Fig.: सक्तः
 (Image source: [Details](/fr/licenses#uebung080))
 :::

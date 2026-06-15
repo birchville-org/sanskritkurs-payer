@@ -108,7 +108,7 @@ Because she wanted to hear about the Dharma, the Brāhmaṇī went with her son 
 Eating, sleeping, fear, and sex are shared by humans and cattle. The distinguishing difference of humans lies in dharma. Without dharma, they are equal to cattle.
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 Fig.: आहारनिद्राभयमैथुनं च
 (Image source: [Details](/en/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicat
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 Fig.: बालाः पिबन्ति
 (Image source: [Details](/en/licenses#uebung036))
 :::

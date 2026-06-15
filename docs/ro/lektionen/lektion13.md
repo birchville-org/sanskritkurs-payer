@@ -215,7 +215,7 @@ Exemplu:
 > [Sursă: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
-![](/images/lekt1301.jpg)
+![](/images/lekt1301.webp)
 Fig.: महिषासुरः
 (Sursă imagine: [Detalii](/ro/licenses#lekt1301))
 :::
@@ -236,7 +236,7 @@ Fig.: महिषासुरः
 - **anna** n. अन्न : mâncare (din PPP: *ad-na: ceea ce este mâncat)
 
 ::: media
-![](/images/lekt1304.jpg)
+![](/images/lekt1304.webp)
 Fig.: अन्नम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1304))
 :::
@@ -252,7 +252,7 @@ pad 4 Ā:
 :::
 
 ::: media
-![](/images/lekt1303.jpg)
+![](/images/lekt1303.webp)
 Fig.: चत्वारः पादाः : गजः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1303))
 :::
@@ -274,7 +274,7 @@ A) Traduceți și transformați în propoziții la prezent activ:
 ३. बोध्या गौतमो मुक्तः ।
 
 ::: media
-![](/images/lekt1305.jpg)
+![](/images/lekt1305.webp)
 Fig.: अत्र गौतमो बुद्धो बोध्या मुक्तः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1305))
 :::
@@ -333,7 +333,7 @@ B) Transformați propozițiile din exercițiul A) la vocea pasivă.
 C) Formați o construcție PPP pentru propozițiile din exercițiul A).
 
 ::: media
-![](/images/lekt1302.jpg)
+![](/images/lekt1302.webp)
 Fig.: सत्यमेव जयते
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1302))
 :::

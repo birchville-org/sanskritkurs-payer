@@ -156,7 +156,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 அடிப்படை: कामदेवः
 19. நூற்றாண்டு
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt2202))
@@ -174,7 +174,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 அடிப்படை: दुर्गाशक्तिः
 கொல்கத்தா = কলকাতা
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt2203))
@@ -204,7 +204,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 அடிப்படை: धेनवश्चरन्ति
 கோவா = गोंय
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt2201))
@@ -276,7 +276,7 @@ status: stable
 **இ) மேலுள்ள வாக்கியங்களிலிருந்து (வாக்கியங்கள் 8 மற்றும் 10 தவிர) செயப்படுந் தொகையை உருவாக்கவும்**
 
 ::: media
-![](/images/lekt2204.jpg)
+![](/images/lekt2204.webp)
 அடைவு: अन्नं पक्त्वा
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt2204))
 :::

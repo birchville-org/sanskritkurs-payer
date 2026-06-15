@@ -838,14 +838,14 @@ Il poema è suddiviso in quattro sezioni:
 Lo भट्टिकाव्य è stato composto tra il 495 e il 641 d.C.
 
 ::: media
-![](/images/lekt5902.jpg)
+![](/images/lekt5902.webp)
 Fig.: रावणः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5902))
 :::
 La seguente sezione è l'inizio del 15° canto, dedicato all'aoristo. रावण, il re dei demoni che ha rapito la moglie सीता di राम, invia il suo fratello कुम्भकर्ण ("Orecchia di pentola"), che giace in una specie di sonno perpetuo come punizione per le sue malefatte.
 
 ::: media
-![](/images/lekt5903.jpg)
+![](/images/lekt5903.webp)
 Fig.: कुम्भकर्णः
 Danza Kecak, Bali (Indonesia)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5903))
@@ -853,7 +853,7 @@ Danza Kecak, Bali (Indonesia)
 _Aiuto alla traduzione:_ Verso 6: दिदृक्षते \= Desiderativo di दृश्
 
 ::: media
-![](/images/lekt5901.jpg)
+![](/images/lekt5901.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5901))
 :::
 Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathie pag. 127s.

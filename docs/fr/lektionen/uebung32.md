@@ -112,7 +112,7 @@ Les brahmanes ont étudié et enseigné le Veda, ont offert des sacrifices aux d
 Les fils de Bouddha ont reconnu la vérité, arrêté la souffrance et atteint la libération. Un moine est désigné comme « fils de Bouddha » s’il suit la voie de Bouddha.
 
 ::: media
-![](/images/uebung050.jpg)
+![](/images/uebung050.webp)
 Fig. : सम्पन्नरूपा
 (Source de l’image : [Détails](/fr/licenses#uebung050))
 :::
@@ -214,7 +214,7 @@ Déterminez et traduisez les mots suivants :
 :::
 
 ::: media
-![](/images/uebung051.jpg)
+![](/images/uebung051.webp)
 Fig. : किमयं रथो बालान् सुखतां वहति
 (Source de l'image : [Détails](/fr/licenses#uebung051))
 :::
@@ -295,7 +295,7 @@ Insérez les mots entre parenthèses dans les phrases suivantes, en respectant l
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung052.jpg)
+![](/images/uebung052.webp)
 Fig. : पुनर्दर्शनाय
 (Source de l'image : [Détails](/fr/licenses#uebung052))
 :::
@@ -309,7 +309,7 @@ Fig. : पुनर्दर्शनाय
 **आसयत्सलिले पृथ्वीं यः स मे श्रीहरिर्गतिः ॥** Le sublime Hari est mon refuge, celui qui envoya ses ennemis au ciel, fit connaître à ses fidèles le sens du Veda, offrit aux dieux l’Amṛta à manger, enseigna le Veda au Créateur, et ancrât la terre dans les eaux.
 
 ::: media
-![](/images/uebung053.jpg)
+![](/images/uebung053.webp)
 Fig. : श्रीगङ्गाधराय नमः
 (Source de l’image : [Détails](/fr/licenses#uebung053))
 :::
@@ -324,7 +324,7 @@ Fig. : श्रीगङ्गाधराय नमः
 Un jour, un vieillard se rendit dans un autre village et se fatigua en chemin. Pour se reposer, il alla se poser au pied d’un manguier au bord du chemin. Sur cet arbre pendaient des fruits mûrs. Le vieillard eut envie de les manger, mais il ne pouvait pas grimper à l’arbre pour les cueillir. Heureusement, il y avait sur l’arbre quelques singes qui mangeaient des fruits. Lorsque le vieillard vit cela, il se réjouit. Que fit-il ? Il prit quelques pierres, visa les singes et les lança. Les singes devinrent furieux, cueillirent quelques fruits et les lancèrent sur le vieillard. Le vieillard prit joyeusement les fruits et poursuivit son chemin. Quelle habileté remarquable que celle de ce vieillard !
 
 ::: media
-![](/images/uebung054.jpg)
+![](/images/uebung054.webp)
 Fig. : वानरः कुपितः
 (Source de l’image : [Détails](/fr/licenses#uebung054))
 :::

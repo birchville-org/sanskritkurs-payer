@@ -240,7 +240,7 @@ D) Übersetzen Sie und lösen Sie die Komposita auf:
 फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥
 
 ::: media
-![](/images/lekt2303.jpg)
+![](/images/lekt2303.webp)
 Abb.: फलवन्ति पुण्यानीति
 ทำบุญ = पुण्यकरणम्, Thailand = ประเทศไทย
 (Bildquelle: [Details](/licenses#lekt2303))
@@ -250,7 +250,7 @@ Abb.: फलवन्ति पुण्यानीति
 सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
 
 ::: media
-![](/images/lekt2301.jpg)
+![](/images/lekt2301.webp)
 Abb.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
 Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
 (Bildquelle: [Details](/licenses#lekt2301))
@@ -275,7 +275,7 @@ C) Übersetzen Sie folgendes सुभाषितम्
 Erklärung: हीन ३: PPP zu हा 3: verlassen ; धर्मे = Lokativ sg. "im ..."
 
 ::: media
-![](/images/lekt2302.jpg)
+![](/images/lekt2302.webp)
 Abb.: आहारनिद्राभयमैथुनं च
 Chittorgarh = चित्तौडगढ
 (Bildquelle: [Details](/licenses#lekt2302))

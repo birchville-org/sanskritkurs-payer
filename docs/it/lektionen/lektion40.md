@@ -29,7 +29,7 @@ status: stable
 :::
 
 ::: media
-![lekt4005.jpg](/images/lekt4005.jpg)
+![lekt4005.jpg](/images/lekt4005.webp)
 Fig.: पादं सब्रह्मचारिभ्यः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4005))
 :::
@@ -522,7 +522,7 @@ da ciò:
 :::
 
 ::: media
-![lekt4003.jpg](/images/lekt4003.jpg)
+![lekt4003.jpg](/images/lekt4003.webp)
 Fig.: हरिद्वारे तीर्थम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4003))
 :::
@@ -532,7 +532,7 @@ Fig.: हरिद्वारे तीर्थम्
 :::
 
 ::: media
-![lekt4002.jpg](/images/lekt4002.jpg)
+![lekt4002.jpg](/images/lekt4002.webp)
 Fig.: तीर्थङ्करः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4002))
 :::
@@ -548,7 +548,7 @@ da ciò:
 :::
 
 ::: media
-![lekt4001.jpg](/images/lekt4001.jpg)
+![lekt4001.jpg](/images/lekt4001.webp)
 Fig.: विष्णोर्दशावताराः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4001))
 :::
@@ -572,7 +572,7 @@ da ciò:
 :::
 
 ::: media
-![lekt4004.jpg](/images/lekt4004.jpg)
+![lekt4004.jpg](/images/lekt4004.webp)
 Fig.: स्वपन्ति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4004))
 :::

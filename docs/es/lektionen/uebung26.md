@@ -139,7 +139,7 @@ C) Futuro opcional con y sin **-i-**:
 ३. **अश्नुवते** (en el futuro Parasmaipada) — अशिष्यन्ति / अक्ष्यन्ति
 
 ::: media
-![](/images/uebung043.jpg)
+![](/images/uebung043.webp)
 Fig.: अविपालो ऽविं रक्षति
 (Fuente de la imagen: [Detalles](/licenses#uebung043))
 :::

@@ -49,7 +49,7 @@ Déterminez et traduisez les formes suivantes, puis formez les formes correspond
 :::
 
 ::: media
-![](/images/uebung092.jpg)
+![](/images/uebung092.webp)
 Fig. : अशोभथाः । अशुभः
 (Source de l'image : [Détails](/fr/licenses#uebung092))
 :::

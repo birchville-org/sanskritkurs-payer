@@ -107,7 +107,7 @@ Lorsque deux des trois dernières prescriptions peuvent simultanément s'appliqu
 **kāma** m. = काम : désir, appétit, don souhaité, plaisir des sens, amour ; dieu de l'amour Kāma.
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 Fig. : Dieu Kāma = kāmadeva = कामदेव, XVIIIe siècle.
 (Source de l'image : Wikipedia, domaine public)
 :::

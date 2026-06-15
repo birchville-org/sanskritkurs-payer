@@ -34,7 +34,7 @@ Formas sequentes determina et vertas, formasque correspondentes **Aoristi in -i�
 19.  अचेतः - चित् 1P 2.sg.Impf.P tu percepisti - अचेतीः
 
 :::: media
-![](/images/uebung095.jpg)
+![](/images/uebung095.webp)
 Fig.: तब्लाः
 (Fons imaginis: [Detalia](/licenses#uebung095))
 :::
@@ -46,7 +46,7 @@ Fig.: तब्लाः
 Determinare et vertere has formas:
 
 ::: media
-![](/images/uebung097.jpg)
+![](/images/uebung097.webp)
 Fig.: मातुलङ्गविक्रेतायं ना ॥  
 Pune - पुणे  
 \[Fons imaginis: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Accessus die 2009-03-12. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)\]
@@ -91,7 +91,7 @@ Pune - पुणे
 38. दद - दा 3U 2.pl.Perf.P vos dedistis
 39. अञ्ज्वः - अञ्ज् 7P 1.du.Ind.Präs.P nos duo unguimus
 
-![](/images/uebung096.jpg)
+![](/images/uebung096.webp)
 Fig.: श्वा श्वानमघ्रात्
 (Fons imaginis: [Detalia](/licenses#uebung096))
 :::

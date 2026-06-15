@@ -69,7 +69,7 @@ status: stable
   - **vadana** n. वदन : ਬੋਲਣਾ; ਬੋਲਣ ਦਾ ਯੰਤਰ: ਮੂੰਹ, ਚਿਹਰਾ
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 ਚਿੱਤਰ: **vadanāni** = वदनानि
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1102))
 :::
@@ -106,7 +106,7 @@ status: stable
 **D) C) ਵਿੱਚ ਬਣਾਏ ਗਏ ਵਾਕਿਆਂ ਲਈ ਕਰਮਣੀ ਬੁਵਿੰਗ (Passivkonstruktion) ਬਣਾਓ।**
 
 ::: media
-![](/images/lekt1101.jpg)
+![](/images/lekt1101.webp)
 ਚਿੱਤਰ: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1101))
 :::
@@ -149,7 +149,7 @@ status: stable
 **E) ਅਭਿਆਸ C) 1-5 ਨੂੰ ਕਰਤਾਕਾਰੀ ਬਣਤਰਾਂ ਵਿੱਚ ਬਦਲੋ।**
 
 ::: media
-![](/images/lekt1103.jpg)
+![](/images/lekt1103.webp)
 ਚਿੱਤਰ: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1103))
 :::

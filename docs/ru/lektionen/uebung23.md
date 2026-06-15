@@ -108,7 +108,7 @@ Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfe
 Еда, сон, страх и половое влечение присущи людям наряду с животными. Исключительное отличие людей заключается в дхарме. Без дхармы они равны животным.
 
 ::: media
-![](/images/uebung035.jpg)
+![](/images/uebung035.webp)
 Рис.: आहारनिद्राभयमैथुनं च
 (Источник изображения: [Подробности](/ru/licenses#uebung035))
 :::
@@ -216,7 +216,7 @@ C) Приведите основные формы (значение, класс 
 :::
 
 ::: media
-![](/images/uebung036.jpg)
+![](/images/uebung036.webp)
 Рис.: बालाः पिबन्ति
 (Источник изображения: [Подробности](/ru/licenses#uebung036))
 :::

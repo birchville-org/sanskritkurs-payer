@@ -232,7 +232,7 @@ In Sanscrito verba per **formam radicis** indicantur. Numerus post radicem **cla
 13. Illa (memorata) Brahmana saltat.
 
 ::: media
-![](/images/lekt0601.jpg)
+![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
 (Fons imaginis: Wikipedia, CC-BY-SA 2.5)
@@ -312,7 +312,7 @@ In Sanscrito verba per **formam radicis** indicantur. Numerus post radicem **cla
 3. Mīnākṣī dea est.
 
 ::: media
-![](/images/lekt0602.jpg)
+![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Templum Mīnākṣī, Madurai, Tamil Nadu
 (Fons imaginis: Wikipedia, Public domain)
 :::

@@ -27,7 +27,7 @@ Explicaciones:
 \-गु Neutro Nom.Akk.sg. a गो m.f. "Buey, Vaca"
 
 ::: media
-![](/images/lekt3801.jpg)
+![](/images/lekt3801.webp)
 Fig.: प्रज्ञा नश्यति मेहतः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3801))
 :::
@@ -98,7 +98,7 @@ Ejemplos:
 ::::
 
 ::: media
-![](/images/lekt3803.jpg)
+![](/images/lekt3803.webp)
 Fig.: सीमा
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3803))
 :::
@@ -204,7 +204,7 @@ Ejemplo:
 हस्तिन् m.: el caracterizado por una mano especial = el elefante (su mano no es una mano ordinaria, sino una trompa)
 
 ::: media
-![](/images/lekt3806.jpg)
+![](/images/lekt3806.webp)
 Fig.: हस्ती
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3806))
 :::
@@ -212,7 +212,7 @@ Fig.: हस्ती
 हस्तवन्त् : uno que tiene (manos) humanas
 
 ::: media
-![](/images/lekt3807.jpg)
+![](/images/lekt3807.webp)
 Fig.: हस्तवान्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3807))
 :::
@@ -308,7 +308,7 @@ Ejemplo:
 सूर्य m.: Sol, dios del sol Sūrya
 
 ::: media
-![](/images/lekt3802.jpg)
+![](/images/lekt3802.webp)
 Fig.: सूर्यः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3802))
 :::
@@ -317,7 +317,7 @@ Fig.: सूर्यः
 उदक n.: Agua
 
 ::: media
-![](/images/lekt3805.jpg)
+![](/images/lekt3805.webp)
 Fig.: उदकम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3805))
 :::
@@ -348,7 +348,7 @@ de ello:
 :::
 
 ::: media
-![](/images/lekt3804.jpg)
+![](/images/lekt3804.webp)
 Fig.: गौतमबुद्धस्य महापरिनिर्वाणम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3804))
 :::
@@ -392,7 +392,7 @@ de राज :
 ब्रह्मन् m.: el dios creador personal Brahmā
 
 ::: media
-![](/images/lekt3809.jpg)
+![](/images/lekt3809.webp)
 Fig.: ब्रह्मा
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3809))
 :::
@@ -433,13 +433,13 @@ de ello:
 :::
 
 ::: media
-![](/images/lekt3810.jpg)
+![](/images/lekt3810.webp)
 Fig.: अशोकवृक्षः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3810))
 :::
 
 ::: media
-![](/images/lekt3811.jpg)
+![](/images/lekt3811.webp)
 Fig.: अशोकसाम्राज्यम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3811))
 :::
@@ -485,7 +485,7 @@ A) Inserten en las siguientes oraciones la forma correspondiente de las palabras
 विनोद m.: entretenimiento, diversión, placer
 
 ::: media
-![](/images/lekt3812.jpg)
+![](/images/lekt3812.webp)
 Fig.: विनोदः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3812))
 :::
@@ -516,7 +516,7 @@ Inf. तरितुम् । तरीतुम्
 तीर n.: orilla
 
 ::: media
-![](/images/lekt3813.jpg)
+![](/images/lekt3813.webp)
 Fig.: वाराणस्यां गङ्गातीरे
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3813))
 :::
@@ -535,7 +535,7 @@ Inf. गणयितुम्
 :::
 
 ::: media
-![](/images/lekt3814.jpg)
+![](/images/lekt3814.webp)
 Fig.: गणयां चक्रुः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3814))
 :::

@@ -73,7 +73,7 @@ Riflessioni del pappagallo **वैशम्पायन** sulla vita del caccia
 > E mi giunse consapevolezza: Ah, la loro [dei cacciatori] vita consiste principalmente nell'ignoranza e il loro comportamento viene biasimato dai buoni. In tal modo: considerano il sacrificio di carne umana come retta religione; il loro cibo consiste in vino di miele, carne e simili, biasimati dai buoni; il loro impegno è la caccia; il loro insegnamento è il guaito degli sciacalli; i gufi sono i loro maestri di bene e male; la loro saggezza è l'ornitologia; i loro intimi sono i cani; il loro regno è nelle foreste deserte; la loro festa è l'ubriachezza; i loro amici sono gli archi, che compiono azioni crudeli; i loro compagni sono le frecce, la cui punta è imbrattata di veleno come i serpenti; il loro canto reca rovina alla selvaggina confusa; le loro donne sono le giovani ragazze rapite da altri; vivono insieme con tigri crudeli; con il sangue degli animali venerano le divinità; offrono carne come sacrifici; vivono di rapina; i loro ornamenti sono pietre preziose di serpenti; sfregano le loro membra con il succo dell'estro degli elefanti selvatici; ogni foresta in cui si stabiliscono, la sradicano completamente – Mentre riflettevo in tal modo, il generale dei Śabaras entrò da me.
 
 ::: media
-![](/images/uebung086.jpg)
+![](/images/uebung086.webp)
 Fig.: Cacciatore
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung086))
 :::

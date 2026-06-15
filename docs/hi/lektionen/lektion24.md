@@ -36,7 +36,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2404.jpg)
+![](/images/lekt2404.webp)
 अभ.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2404))
 :::
@@ -60,7 +60,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2401.jpg)
+![](/images/lekt2401.webp)
 अभ.: ⟪यज्ञायान्नम्⟫
 'अन्नकुट' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] एक पारंपरिक हिंदू कार्यक्रम है जो सभी BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] मंदिरों में हिंदू नववर्ष के उत्सव के दौरान होता है। इस दिन, भगवान स्वामिनारायण [સ્વામિનારાયણ] को सैकड़ों शाकाहारी व्यंजनों का अर्पण किया जाता है।
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2401))
@@ -77,7 +77,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2402.jpg)
+![](/images/lekt2402.webp)
 अभ.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
 राखीबंधन पूरे भारत में उत्साह और खुशी के साथ मनाया जाता है। यह त्योहार भाई और बहनों के निःस्वार्थ प्रेम का प्रतीक है।
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2402))
@@ -96,7 +96,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2403.jpg)
+![](/images/lekt2403.webp)
 अभ.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "हनुमान के कंधों पर बैठे राघव (दाईं ओर), रावण राक्षस-राज से युद्ध करते हैं।" लगभग 1820
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2403))
@@ -208,7 +208,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 अभ.: ⟪अलंकारः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2405))
 :::
@@ -219,7 +219,7 @@ status: stable
 ⟪प्रतिमा⟫ स्त्री.: प्रतिबिंब, प्रतिकृति
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 अभ.: ⟪देवीप्रतिमा⟫
 हंपी = ಹಂಪೆ, कर्नाटक = ಕರ್ನಾಟಕ
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2406))
@@ -259,7 +259,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 अभ.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - सुहासिनी हाइदर, सीएन-आईबीएन नेटवर्क 18, भारत के deputy विदेश संपादक, नई दिल्ली में विश्व आर्थिक मंच के भारत आर्थिक शिखर सम्मेलन 2008 में एक पैनल चर्चा का संचालन करते हैं।"
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2407))
@@ -281,7 +281,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 अभ.: ⟪आख्यानम्⟫
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2408))
@@ -314,7 +314,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 आकृति: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 ⟪गीतगोविन्द⟫ का पांडुलिपि, 1730 ईस्वी
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2411))
@@ -402,7 +402,7 @@ E) वाक्य A) 6 में डेटिव संरचना को -⟪
 5. पूजन (⟪नमस्⟫) शिव को हो! पूजन श्री गणेश को हो!
 
 ::: media
-![](/images/lekt2409.jpg)
+![](/images/lekt2409.webp)
 अभ.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2409))
 :::
@@ -423,7 +423,7 @@ E) वाक्य A) 6 में डेटिव संरचना को -⟪
 :::
 
 ::: media
-![](/images/lekt2410.jpg)
+![](/images/lekt2410.webp)
 अभ.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
 ⟪नरसिंह⟫ फाड़ता है ⟪हिरण्यकशिपु⟫, ⟪भागवतपुराण⟫ के पांडुलिपि से पृष्ठ
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2410))

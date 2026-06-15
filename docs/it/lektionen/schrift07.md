@@ -2,7 +2,7 @@
 
 ## Esercizio di scrittura 7
 
-![](/images/schrift012.jpg)
+![](/images/schrift012.webp)
 
 Esempi di r prima di consonante:
 
@@ -45,7 +45,7 @@ r dopo consonante: /
 
 Per la scrittura:
 
-![](/images/schrift014.jpg)
+![](/images/schrift014.webp)
 
 ## Esercizio
 

@@ -92,7 +92,7 @@ Determinare e tradurre per iscritto le seguenti forme e formare le forme corrisp
 32.  सिष्णेह
 
 ::: media
-![](/images/lekt5501.jpg)
+![](/images/lekt5501.webp)
 Fig.: अजीर्यमिति
 'Inâyat Khân morente, progetto per una miniatura di un manoscritto per Jahângîr = جهانگير, ca. 1618
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5501))

@@ -43,7 +43,7 @@ Translate and determine the following forms and form the corresponding **aorist*
 :::
 
 ::: media
-![](/images/uebung090.jpg)
+![](/images/uebung090.webp)
 Fig.: वारानास्यां गङ्गायामप्लोढ्वम्
 (Image source: [Details](/en/licenses#uebung090))
 :::
@@ -117,7 +117,7 @@ Determine and translate the following forms:
 :::
 
 ::: media
-![](/images/uebung094.jpg)
+![](/images/uebung094.webp)
 Fig.: पाणी धूपं कुरुतः ॥
 (Image source: [Details](/en/licenses#uebung094))
 :::

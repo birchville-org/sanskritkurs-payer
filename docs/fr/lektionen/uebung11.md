@@ -125,7 +125,7 @@ D) Formez la voix passive des phrases construites selon C)
 १२. तैः श्रावकैर्बुद्धो धर्मं प्र्च्छ्यते ॥
 
 ::: media
-![](/images/uebung022.jpg)
+![](/images/uebung022.webp)
 Fig. : केनाग्निरिज्यते ।
 (Source de l'image : [Détails](/fr/licenses#uebung022))
 :::
@@ -231,7 +231,7 @@ E) Transformez les phrases C)1-5 en constructions actives.
 ५. ब्राह्मनो ऽनृतं न वदति ॥
 
 ::: media
-![](/images/uebung021.jpg)
+![](/images/uebung021.webp)
 Fig. : फलान्यश्नुते
 (Source de l'image : [Détails](/fr/licenses#uebung021))
 :::

@@ -49,7 +49,7 @@ Effectus: रामो वेदमधीते "Rāma studet Vedas"
 Effectus: देवा अमृतमश्नन्ति "Di edunt immortalia"
 
 ::: media
-![](/images/lekt2802.jpg)
+![](/images/lekt2802.webp)
 Tab.: स नरान्प्रबन्धविज्ञानमध्यापयति
 Templum ISKCON Bangalore.
 (Fons imaginis: [Detalia](/la/licenses#lekt2801))
@@ -83,7 +83,7 @@ Qui terram in aquam posuit.
 :::
 
 ::: media
-![](/images/lekt2801.jpg)
+![](/images/lekt2801.webp)
 Tab.: स मे श्रीहरिगतिः
 Aedificium administrationis Universitatis Jadavpur.
 (Fons imaginis: [Detalia](/la/licenses#lekt2802))
@@ -371,7 +371,7 @@ Inf. **kāmayitum** / **kamitum**
 :::
 
 ::: media
-![](/images/lekt2804.jpg)
+![](/images/lekt2804.webp)
 Tab.: कृष्णो राधां कामयति
 Pictura ab राजा रवि वर्मा (1848 - 1906)
 (Fons imaginis: [Detalia](/la/licenses#lekt2804))
@@ -395,7 +395,7 @@ Inf. **coritum**
 :::
 
 ::: media
-![](/images/lekt2803.jpg)
+![](/images/lekt2803.webp)
 Tab.: वीणां वादयति
 Vīṇā-Spielerin.
 (Fons imaginis: [Detalia](/la/licenses#lekt2803))
@@ -404,7 +404,7 @@ Vīṇā-Spielerin.
 **भार** m.: onus
 
 ::: media
-![](/images/lekt2805.jpg)
+![](/images/lekt2805.webp)
 Tab.: बाला भारं हरति
 Puella onus gerit. Apud Ahmedabad.
 (Fons imaginis: [Detalia](/la/licenses#lekt2805))

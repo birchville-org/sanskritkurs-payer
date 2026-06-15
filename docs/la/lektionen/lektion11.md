@@ -69,7 +69,7 @@ e.g. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्�
   - **vadana** n. वदन : loquendi actus; instrumentum loquendi: os, facies
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 Fig.: **vadanāni** = वदनानि
 (Fons imaginis: [Detalia](/la/licenses#lekt1102))
 :::
@@ -106,7 +106,7 @@ Fig.: **vadanāni** = वदनानि
 **D) Ad sententias ex C) formatas, constructionem passivam formate.**
 
 ::: media
-![](/images/lekt1101.jpg)
+![](/images/lekt1101.webp)
 Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
 (Fons imaginis: [Detalia](/la/licenses#lekt1101))
 :::
@@ -149,7 +149,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 **E) Sententias C) 1-5 in activem constructionem vertito.**
 
 ::: media
-![](/images/lekt1103.jpg)
+![](/images/lekt1103.webp)
 Fig.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
 (Fons imaginis: [Detalia](/la/licenses#lekt1103))
 :::

@@ -81,7 +81,7 @@ Dii irascuntur his Brahmanis, qui eis nullam venerationem praebuerunt.
 Ad moriendum, viventes nascuntur.
 
 ::: media
-![](/images/uebung037.jpg)
+![](/images/uebung037.webp)
 Fig.: मरणाय जना जायन्ते
 (Fons imaginis: [Detalia](/licenses#uebung037))
 :::
@@ -156,7 +156,7 @@ E) In sententia B) 6, dativum per constructionem cum **-अर्थ** substitue
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung038.jpg)
+![](/images/uebung038.webp)
 Fig.: इदं फलं अलं खादनाय
 (Fons imaginis: [Detalia](/licenses#uebung038))
 :::

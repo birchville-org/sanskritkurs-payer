@@ -65,7 +65,7 @@ B) Traduceți folosind compusele în sanscrită:
 अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः शूद्रा अपि ॥
 
 ::: media
-![](/images/uebung031.jpg)
+![](/images/uebung031.webp)
 Fig.: शस्त्राजीवः क्षत्रियः
 (Sursa imaginii: [Detalii](/licenses#uebung031))
 :::
@@ -239,7 +239,7 @@ Rezolvați următoarele compuse ca Bahuvrīhi și/sau Dvandva și/sau Tatpuruṣ
 ८१. **सोढदुःखाः** । सोढं दुःखं यैस्ते ।
 
 ::: media
-![](/images/uebung030.jpg)
+![](/images/uebung030.webp)
 Fig.: सम्पन्नरूपा रूपसम्पन्ना
 (Sursa imaginii: [Detalii](/licenses#uebung030))
 :::
@@ -295,7 +295,7 @@ Mijlocie și subțire, largă la șolduri, cu buze roșii, ochi negri, cu ombili
 Săracii, care nu doresc, au foarte mulți fii, bogații nu au niciun fiu. Ciudat este cursul creației.
 
 ::: media
-![](/images/uebung032.jpg)
+![](/images/uebung032.webp)
 Ilustr.: सन्ति पुत्राः सुबहवो दरिद्राणाम्
 (Sursă imagine: [Detalii](/licenses#uebung032))
 :::

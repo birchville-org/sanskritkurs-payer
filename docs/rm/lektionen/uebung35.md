@@ -85,7 +85,7 @@ C) Transfurmà las frasis da l'exercizi B) tras da suttstutgar perfekta cun impe
 ४. अर्हन्तः कुलबन्धनमभिन्दंल्लोभं च क्रोधं च मोहं चारुन्धन्सत्यमजानन्दुःखान्मुक्ता मोक्षसुखमाप्नुवन् ॥
 
 ::: media
-![](/images/uebung058.jpg)
+![](/images/uebung058.webp)
 Abb.: ब्राह्मणीषु पचन्तीषु ...
 (Sursa d'imagines: [Detagls](/licenses#uebung058))
 :::

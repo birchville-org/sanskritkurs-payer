@@ -100,7 +100,7 @@ In addition, there are some less important uses of the suffix **-aka**. See Wack
 - **adhyayana** n. (अध्ययन) : Learning, esp. Vedic study
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 Fig.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram near Madurai.
 (Image source: [Details](/en/licenses#lekt0903))
 :::
@@ -108,7 +108,7 @@ Fig.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparanku
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : Craftsman
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 Fig.: **kāru** = कारु, Gujarat.
 (Image source: [Details](/en/licenses#lekt0902))
 :::
@@ -143,7 +143,7 @@ Fig.: **kāru** = कारु, Gujarat.
 7\. **karṣaka** कर्षक
 
 ::: media
-![](/images/lekt0901.jpg)
+![](/images/lekt0901.webp)
 Fig.: **karṣaka** = कर्षक.
 (Image source: [Details](/en/licenses#lekt0901))
 :::

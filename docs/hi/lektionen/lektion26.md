@@ -59,7 +59,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2601.jpg)
+![](/images/lekt2601.webp)
 अभि.: हेरमैन ग्रैसमान
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2601))
 :::
@@ -93,7 +93,7 @@ status: stable
 
 
 ::: media
-![](/images/lekt2602.jpg)
+![](/images/lekt2602.webp)
 अभि.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2602))
 :::

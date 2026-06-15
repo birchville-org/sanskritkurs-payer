@@ -91,7 +91,7 @@ Scienzas èn filosofia, vedistica, economia e politica.
 आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः ।
 
 ::: media
-![](/images/uebung010.jpg)
+![](/images/uebung010.webp)
 Abb.: अभ्निवेशो न वा ।
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung010))
 :::
@@ -165,7 +165,7 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा (च) ब्रह्मविहाराः ॥
 
 ::: media
-![](/images/uebung009.jpg)
+![](/images/uebung009.webp)
 Fig.: ऋग्वेदः
 (Sursa da l’imagia: [Detagls](/licenses#uebung009))
 :::

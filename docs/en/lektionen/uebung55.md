@@ -49,7 +49,7 @@ Determine and translate the following forms and form the corresponding forms of 
 :::
 
 ::: media
-![](/images/uebung092.jpg)
+![](/images/uebung092.webp)
 Fig.: अशोभथाः । अशुभः
 (Image source: [Details](/en/licenses#uebung092))
 :::

@@ -43,7 +43,7 @@ a) कृत्-Suffix \-Ø
 :::
 
 ::: media
-![](/images/lekt5101.jpg)
+![](/images/lekt5101.webp)
 Abb.: भूमिभुज्
 ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008)
 (Bildquelle: [Details](/rm/licenses#lekt5101))
@@ -72,7 +72,7 @@ b) कृत्-Suffix -t
 ::::
 
 ::: media
-![](/images/lekt5103.jpg)
+![](/images/lekt5103.webp)
 Abb.: पापकृत्
 भरतपुर, राजस्थान
 (Bildquelle: [Details](/rm/licenses#lekt5103))
@@ -102,7 +102,7 @@ c) कृत्-Suffix -a
 :::
 
 ::: media
-![](/images/lekt5102.jpg)
+![](/images/lekt5102.webp)
 Abb.: द्विपो द्विर्पिबति : हस्तेन च मुखेन च
 नेपाल
 (Bildquelle: [Details](/rm/licenses#lekt5102))
@@ -271,7 +271,7 @@ Loc. परिव्राट्सु
 ::::
 
 ::: media
-![](/images/lekt5104.jpg)
+![](/images/lekt5104.webp)
 Abb.: परिव्राट्
 पुष्कर
 (Sursa da l'imagines: [Detagls](/rm/licenses#lekt5104))
@@ -377,7 +377,7 @@ p.ex. छिद् » चिच्छेद
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 volumns. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193f.
 
 ::: media
-![](/images/lekt5105.jpg)
+![](/images/lekt5105.webp)
 Fig.:
 (Sursa d’imagines: [Detagl](/rm/licenses#lekt5105))
 :::
@@ -406,7 +406,7 @@ Fig.: ऋतुः
 जटा f.: tressa da crivel (portada da crivel da l’asceta)
 
 ::: media
-![](/images/lekt5107.jpg)
+![](/images/lekt5107.webp)
 Fig.: जटा
 ऋषिकेश
 (Sursa d’imagines: [Detagl](/rm/licenses#lekt5107))
@@ -461,7 +461,7 @@ PPP गर्हित
 पिशित n.: (preparà) carn
 
 ::: media
-![](/images/lekt5108.jpg)
+![](/images/lekt5108.webp)
 Abb.: पिशितम्
 Kolkata = কলকাতা
 (fontana d’imàgin: [Detagls](/rm/licenses#lekt5108))
@@ -471,7 +471,7 @@ Kolkata = কলকাতা
 मधु n.: mel, bevanda dolza, vin da mel
 
 ::: media
-![](/images/lekt5109.jpg)
+![](/images/lekt5109.webp)
 Abb.: मधु
 City Palace, उदयपुर
 (fontana d’imàgin: [Detagls](/rm/licenses#lekt5109))
@@ -481,7 +481,7 @@ City Palace, उदयपुर
 मृगया f.: chascha
 
 ::: media
-![](/images/lekt5110.jpg)
+![](/images/lekt5110.webp)
 Abb.: मृगया
 Chascha cun चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (fontana d’imàgin: [Detagls](/rm/licenses#lekt5110))
@@ -489,7 +489,7 @@ Chascha cun चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજર�
 शिवा f.: (fem.) giack (giack d’aur = _Canis aureus_)
 
 ::: media
-![](/images/lekt5111.jpg)
+![](/images/lekt5111.webp)
 Abb.: शिवा
 _Canis aureus_, Kalatop Khajjiar Sanctuary
 (fontana d’imàgin: [Detagls](/rm/licenses#lekt5111))
@@ -499,7 +499,7 @@ _Canis aureus_, Kalatop Khajjiar Sanctuary
 कौशिक m.: guf
 
 ::: media
-![](/images/lekt5112.jpg)
+![](/images/lekt5112.webp)
 Abb.: कौशिकः
 Guf da Brahma (_Athene brama_), Mahesana = મહેસાણા
 (fontana d’imàgin: [Detagls](/rm/licenses#lekt5112))
@@ -529,7 +529,7 @@ Karnataka = ಕರ್ನಾಟಕ
 आपान(क) n.: banchet, festin
 
 ::: media
-![](/images/lekt5114.jpg)
+![](/images/lekt5114.webp)
 Abb.: आपानकम्
 जोधपुर
 (fontana d’imàgin: [Detagls](/rm/licenses#lekt5114))
@@ -549,7 +549,7 @@ PPP दिग्ध
 विष n.: venen
 
 ::: media
-![](/images/lekt5115.jpg)
+![](/images/lekt5115.webp)
 Abb.: मूषिकाविषाणि
 Bangalore = ಬೆಂಗಳೂರು
 (fontana d’imàgin: [Detagls](/rm/licenses#lekt5115))
@@ -557,7 +557,7 @@ Bangalore = ಬೆಂಗಳೂರು
 भुजंग m.: serps
 
 ::: media
-![](/images/lekt5116.jpg)
+![](/images/lekt5116.webp)
 Abb.: भुजंगः
 Vipera da catenaglia (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (fontana d’imàgin: [Detagls](/rm/licenses#lekt5116))
@@ -583,7 +583,7 @@ Vipera da catenaglia (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 मणि m.: giavel
 
 ::: media
-![](/images/lekt5118.jpg)
+![](/images/lekt5118.webp)
 Abb.: मणिः
 Hope Diamond da Guntur = ಗುಂತೂರು, oz Smithsonian Museum of Natural History, Washington DC
 (fontana d’imàgin: [Detagls](/rm/licenses#lekt5118))
@@ -593,7 +593,7 @@ Hope Diamond da Guntur = ಗುಂತೂರು, oz Smithsonian Museum of Natural
 मद m.: er "suc da rutgira" d’in elefant (en il [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
-![](/images/lekt5117.jpg)
+![](/images/lekt5117.webp)
 Abb.: मदः
 (fontana d’imàgin: [Detagls](/rm/licenses#lekt5117))
 :::

@@ -217,7 +217,7 @@ Die einheimischen Grammatiker betrachten den Vokativ (आमन्त्रि�
 :::
 
 ::: media
-![](/images/lekt4402.jpg)
+![](/images/lekt4402.webp)
 Abb.: Zur richtigen Verwendung von "O" im Deutschen: ***"O Mann!"***
 (Bildquelle: [Details](/licenses#lekt4402))
 :::
@@ -258,7 +258,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 Abb.: रेल्यानम्
 (Bildquelle: [Details](/licenses#lekt4403))
 :::
@@ -278,7 +278,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 Abb.: योगी शयने शेते
 (Bildquelle: [Details](/licenses#lekt4404))
 :::
@@ -301,7 +301,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 Abb.: नन्दी
 (Bildquelle: [Details](/licenses#lekt4405))
 :::
@@ -327,7 +327,7 @@ PPP आयत 3: lang gestreckt
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 Abb.: आयतो मरुः
 (Bildquelle: [Details](/licenses#lekt4406))
 :::
@@ -352,7 +352,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 Abb.: यत्नेन
 (Bildquelle: [Details](/licenses#lekt4407))
 :::
@@ -380,7 +380,7 @@ Siehe:
 :::
 
 ::: media
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 Abb.: प्रव्रअज्या / पब्बजा
 (Bildquelle: [Details](/licenses#lekt4408))
 :::
@@ -443,7 +443,7 @@ A) Bestimmen und übersetzen Sie folgende Formen:
 52.  हतः
 
 ::: media
-![](/images/lekt4409.jpg)
+![](/images/lekt4409.webp)
 Abb.: कस्माद्रोदिषि
 (Bildquelle: [Details](/licenses#lekt4409))
 :::

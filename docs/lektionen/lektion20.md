@@ -12,7 +12,7 @@ status: stable
 ## 20.1. Possesivkomposita = बहुव्रीहि m.
 
 ::: media
-![](/images/lekt2004.jpg)
+![](/images/lekt2004.webp)
 Abb.: बहुव्रीहिः पुरुषः
 Jodhpur = जोधपुर
 (Bildquelle: [Details](/licenses#lekt2004))
@@ -160,7 +160,7 @@ Traditionell unterscheidet man:
 ::::
 
 ::: media
-![](/images/lekt2005.jpg)
+![](/images/lekt2005.webp)
 Abb.: देवा यीश्वादयः
 Jesus und die übrigen Götter, Ahmedabad
 (Bildquelle: [Details](/licenses#lekt2005))
@@ -192,7 +192,7 @@ Beispiel:
 ::::
 
 ::: media
-![](/images/lekt2001.jpg)
+![](/images/lekt2001.webp)
 Abb.: इन्द्रो वज्रपाणिः
 Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr.
 (Bildquelle: [Details](/licenses#lekt2001))
@@ -224,7 +224,7 @@ Beispiele:
 ::::
 
 ::: media
-![](/images/lekt2006.jpg)
+![](/images/lekt2006.webp)
 Abb.: सपुत्रा
 Madhya Pradesh
 (Bildquelle: [Details](/licenses#lekt2006))
@@ -264,7 +264,7 @@ Die Beispiele sind hier zur späteren Durcharbeitung gegeben, für einige sind b
 13.  und andere
 
 ::: media
-![](/images/lekt2007.jpg)
+![](/images/lekt2007.webp)
 Abb.: कृतकटा
 Chennai = சென்னை
 (Bildquelle: [Details](/licenses#lekt2007))
@@ -295,7 +295,7 @@ Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und b
 आश्रम m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ und evtl. als सन्न्यासिन् ; siehe Basham, Wonder S. 159f.)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 Abb.: आश्रमः
 Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
 (Bildquelle: [Details](/licenses#lekt2008))
@@ -528,7 +528,7 @@ Erklärung: तपस् n. (Deklination später): Glut, Hitze, Qual ; Askeseglu
 :::
 
 ::: media
-![](/images/lekt2010.jpg)
+![](/images/lekt2010.webp)
 Abb.: तपस्
 Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt.
 (Bildquelle: [Details](/licenses#lekt2010))
@@ -570,7 +570,7 @@ Erläuterung: -da am Ende eines Kompositums: "gebend"
 :::
 
 ::: media
-![](/images/lekt2009.jpg)
+![](/images/lekt2009.webp)
 Abb.: लोकानां करदा मही
 Karnataka
 (Bildquelle: [Details](/licenses#lekt2009))
@@ -600,7 +600,7 @@ Erklärung: alle Formen außer कं und स्त्रीणाम् sind No
 :::
 
 ::: media
-![](/images/lekt2003.jpg)
+![](/images/lekt2003.webp)
 Abb.: तनुमध्यं पृथुश्रोणि
 Sanchi = सांची
 (Bildquelle: [Details](/licenses#lekt2003))

@@ -176,7 +176,7 @@ A chi appartengono queste case?
 Di chi il cibo ha sacrificato questo saggio vedico?
 
 ::: media
-![](/images/uebung017.jpg)
+![](/images/uebung017.webp)
 Fig.: नायकश्च नायिका च
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung017))
 :::

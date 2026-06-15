@@ -260,7 +260,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt1003.jpg)
+![](/images/lekt1003.webp)
 Рис.: वरुणः
 (Источник изображения: [Подробности](/ru/licenses#lekt1003))
 :::

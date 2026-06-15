@@ -68,7 +68,7 @@ Un de două ori născut, care a studiat Veda, cunoaște dreptul și uzanțele de
 Nu se poate trăi doar din știință. Cine știe acest lucru, nu ar trebui să studieze.
 
 ::: media
-![](/images/uebung061.jpg)
+![](/images/uebung061.webp)
 Fig.: विद्ययैव जीवितुं न शक्यते
 (Sursa imaginii: [Detalii](/licenses#uebung061))
 :::
@@ -96,7 +96,7 @@ Să-i saluți pe vârstnici cu respectul cuvenit, să le oferi locul lor și să
 Dacă un bărbat nu se bucură și nu se întristează, când aude, atinge, vede, gustă sau mirosește, atunci este considerat unul care și-a învins simțurile (**जितेन्द्रियः**).
 
 ::: media
-![](/images/uebung060.jpg)
+![](/images/uebung060.webp)
 Fig.: भुक्त्वा घ्रात्वा च न हृष्यति ग्लायति वा
 (Sursa imaginii: [Detalii](/licenses#uebung060))
 :::
@@ -149,7 +149,7 @@ Bestimmen und übersetzen Sie die folgenden Wortformen:
 :::
 
 ::: media
-![](/images/uebung059.jpg)
+![](/images/uebung059.webp)
 Fig.: जगौ
 (Fuente de la imagen: [Detalles](/licenses#uebung059))
 :::

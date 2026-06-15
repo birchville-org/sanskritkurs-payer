@@ -178,7 +178,7 @@ status: stable
 ::::
 
 ::: media
-![lekt3701.jpg](/images/lekt3701.jpg)
+![lekt3701.jpg](/images/lekt3701.webp)
 ਚਿੱਤਰ: क्व
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3701))
 :::
@@ -228,7 +228,7 @@ status: stable
 ::::
 
 ::: media
-![lekt3702.jpg](/images/lekt3702.jpg)
+![lekt3702.jpg](/images/lekt3702.webp)
 ਅਲ.: यथाशक्ति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3702))
 :::
@@ -248,7 +248,7 @@ status: stable
 ::::
 
 ::: media
-![lekt3703.jpg](/images/lekt3703.jpg)
+![lekt3703.jpg](/images/lekt3703.webp)
 ਚਿੱਤਰ: तूष्णीं बभूवुः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3703))
 :::
@@ -323,7 +323,7 @@ status: stable
 :::
 
 ::: media
-![lekt3704.jpg](/images/lekt3704.jpg)
+![lekt3704.jpg](/images/lekt3704.webp)
 ਚਿੱਤਰ: किं बाला अधीयीरन्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3704))
 :::
@@ -397,7 +397,7 @@ status: stable
 वृक्ष ਮ.: ਦਰਖ਼ਤ
 
 ::: media
-![lekt3706.jpg](/images/lekt3706.jpg)
+![lekt3706.jpg](/images/lekt3706.webp)
 ਚਿੱਤਰ: वृक्षः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3706))
 :::
@@ -435,7 +435,7 @@ A) ਹੇਠ ਲਿਖੇ ਸਵਾਲਾਂ ਦੇ ਉੱਤਰ ਸੰਸਕ੍
 कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥ (देवकी)
 
 ::: media
-![lekt3707.jpg](/images/lekt3707.jpg)
+![lekt3707.jpg](/images/lekt3707.webp)
 ਚਿੱਤਰ: कृष्णः बलरामश्च
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3707))
 :::
@@ -443,7 +443,7 @@ A) ਹੇਠ ਲਿਖੇ ਸਵਾਲਾਂ ਦੇ ਉੱਤਰ ਸੰਸਕ੍
 क्व मर्तुं सज्जना इच्छन्ति ॥१३॥ (काशी = वाराणसी)
 
 ::: media
-![lekt3708.jpg](/images/lekt3708.jpg)
+![lekt3708.jpg](/images/lekt3708.webp)
 ਚਿੱਤਰ: क्व मर्तुं सज्जना इच्छन्ति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3708))
 :::
@@ -487,7 +487,7 @@ C) ਹੇਠ ਲਿਖੇ अव्ययीभाव ਦਾ ਅਨੁਵਾਦ 
 :::
 
 ::: media
-![lekt3709.jpg](/images/lekt3709.jpg)
+![lekt3709.jpg](/images/lekt3709.webp)
 ਚਿੱਤਰ: अधिकेरलं वर्तन्ते
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3709))
 :::
@@ -522,7 +522,7 @@ C) ਹੇਠ ਲਿਖੇ अव्ययीभाव ਦਾ ਅਨੁਵਾਦ 
 :::
 
 ::: media
-![lekt3710.jpg](/images/lekt3710.jpg)
+![lekt3710.jpg](/images/lekt3710.webp)
 ਚਿੱਤਰ: आबालवृद्धं लंदननगरे ववृतिरे
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3710))
 :::
@@ -534,7 +534,7 @@ C) ਹੇਠ ਲਿਖੇ अव्ययीभाव ਦਾ ਅਨੁਵਾਦ 
 :::
 
 ::: media
-![lekt3711.jpg](/images/lekt3711.jpg)
+![lekt3711.jpg](/images/lekt3711.webp)
 ਚਿੱਤਰ: उपवृक्षं सीदन्ति
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt3711))
 :::

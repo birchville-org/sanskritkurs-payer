@@ -145,7 +145,7 @@ kiṃ kāraṇam?
 किं कारणम् ॥
 
 ::: media
-![](/images/uebung007.jpg)
+![](/images/uebung007.webp)
 Abb.: इमे योधाः किं कुर्वन्ति ।
 (Bildquelle: [Details](/licenses#uebung007))
 :::
@@ -209,7 +209,7 @@ Der Papagei fliegt.
 Der Knabe schreibt einen Brief.
 
 ::: media
-![](/images/uebung008.jpg)
+![](/images/uebung008.webp)
 Abb.: कपिः फलं खदति
 (Bildquelle: [Details](/licenses#uebung008))
 :::

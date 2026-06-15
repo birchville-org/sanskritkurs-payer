@@ -2,7 +2,7 @@
 
 ## Writing Exercise 6
 
-![](/images/schrift009.jpg)
+![](/images/schrift009.webp)
 
 The following form is also commonly used for jha:
 

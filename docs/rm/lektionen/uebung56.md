@@ -97,7 +97,7 @@ Determinai e tradui las suandantas furmas:
 :::
 
 ::: media
-![](/images/uebung091.jpg)
+![](/images/uebung091.webp)
 Abb.: जेरिम
 (Bildquelle: [Details](/licenses#uebung091))
 

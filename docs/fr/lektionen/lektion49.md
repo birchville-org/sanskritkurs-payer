@@ -185,7 +185,7 @@ Exemples :
 Les noms en -is et -us sont relativement rares.
 
 ::: media
-![](/images/lekt4907.jpg)
+![](/images/lekt4907.webp)
 Fig. : नमस्ते
 (Source de l’image : [Détails](/fr/licenses#lekt4907))
 :::
@@ -248,7 +248,7 @@ Inf. द्रोग्धुम्
 कुलूहल n. : curiosité, intérêt
 
 ::: media
-![](/images/lekt4901.jpg)
+![](/images/lekt4901.webp)
 Fig. : कुलूहलम्
 (Source de l'image : [Détails](/fr/licenses#lekt4901))
 :::
@@ -259,7 +259,7 @@ Fig. : कुलूहलम्
 कला f. : art
 
 ::: media
-![](/images/lekt4902.jpg)
+![](/images/lekt4902.webp)
 Fig. : उत्तमा काला
 शिवो नटराजा, XIe s.
 (Source de l'image : [Détails](/fr/licenses#lekt4902))
@@ -278,7 +278,7 @@ Fig. : विहंगः
 वेष m. : vêtement, apparence, extérieur
 
 ::: media
-![](/images/lekt4904.jpg)
+![](/images/lekt4904.webp)
 Fig. : वेषः
 वाराणस्याम्
 (Source de l'image : [Détails](/fr/licenses#lekt4904))
@@ -288,7 +288,7 @@ Fig. : वेषः
 पञ्जर n. : cage
 
 ::: media
-![](/images/lekt4909.jpg)
+![](/images/lekt4909.webp)
 Fig. : पञ्जरम्
 Devin avec perroquet dans une cage : le perroquet tire des billets sur lesquels le destin est écrit Mysore
 (Source de l'image : [Détails](/fr/licenses#lekt4909))
@@ -316,7 +316,7 @@ Gérondif ध्येय
 आदर m. : considération, attention, respect
 
 ::: media
-![](/images/lekt4905.jpg)
+![](/images/lekt4905.webp)
 Fig. : सादरः
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Source de l'image : [Détails](/fr/licenses#lekt4905))
@@ -328,7 +328,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 शिशु m. : enfant, petit
 
 ::: media
-![](/images/lekt4906.jpg)
+![](/images/lekt4906.webp)
 Fig. : गजशिशुः
 Sri Lanka
 (Source de l'image : [Détails](/fr/licenses#lekt4906))
@@ -389,7 +389,7 @@ Questions du roi शूद्रक de विदिशा au perroquet वैश
 वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥
 
 ::: media
-![](/images/lekt4908.jpg)
+![](/images/lekt4908.webp)
 Fig. : शुकः
 Perruche à couronne prune = Psittacula cyanocephala
 (Source de l'image : [Détails](/fr/licenses#lekt4908))

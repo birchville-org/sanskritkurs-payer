@@ -100,7 +100,7 @@ Daneben gibt es noch einige weniger wichtige Verwendungen des Suffixes **-aka**.
 - **adhyayana** n. (अध्ययन) : Lernen, insbes. Vedastudium
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 Abb.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
 (Bildquelle: [Details](/licenses#lekt0903))
 :::
@@ -108,7 +108,7 @@ Abb.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparanku
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : Handwerker
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 Abb.: **kāru** = कारु, Gujarat.
 (Bildquelle: [Details](/licenses#lekt0902))
 :::
@@ -143,7 +143,7 @@ Abb.: **kāru** = कारु, Gujarat.
 7\. **karṣaka** कर्षक
 
 ::: media
-![](/images/lekt0901.jpg)
+![](/images/lekt0901.webp)
 Abb.: **karṣaka** = कर्षक.
 (Bildquelle: [Details](/licenses#lekt0901))
 :::

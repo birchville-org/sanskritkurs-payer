@@ -213,11 +213,11 @@ Exemplum: विदुषी "sciens femina"
 Paradigmata vide apud Kielhorn, Grammatica § 124:
 
 ::: media
-![](/images/lekt6001.jpg)
+![](/images/lekt6001.webp)
 (Fons imaginis: [Detalia](/la/licenses#lekt6001))
 :::
 ::: media
-![](/images/lekt6002.jpg)
+![](/images/lekt6002.webp)
 (Fons imaginis: [Detalia](/la/licenses#lekt6002))
 :::
 
@@ -253,11 +253,11 @@ Exemplum: प्रतीची
 ####  Paradigmata vide apud Kielhorn, Grammatica § 128:
 
 ::: media
-![](/images/lekt6003.jpg)
+![](/images/lekt6003.webp)
 (Fons imaginis: [Detalia](/la/licenses#lekt6003))
 :::
 ::: media
-![](/images/lekt6004.jpg)
+![](/images/lekt6004.webp)
 (Fons imaginis: [Detalia](/la/licenses#lekt6004))
 :::
 Ad hunc ordinem pertinent:
@@ -402,7 +402,7 @@ Regulas de usu vocis iunctivae -i- vide apud Kielhorn, Gramm. § 443 - 445.
 Lista apud Kielhorn, Gramm. § 452:
 
 ::: media
-![](/images/lekt6006.jpg)
+![](/images/lekt6006.webp)
 (Fons imaginis: [Descriptiones](/la/licenses#lekt6006))
 :::
 
@@ -448,15 +448,15 @@ De formatione nominum agentis in -u ex stemmate desiderativi, vide [Lectio 54](l
 A) In Kielhorn, Grammatica § 451, discite formationes irregularium desiderativorum ad verba usque nunc didacta:
 
 ::: media
-![](/images/lekt6007.jpg)
+![](/images/lekt6007.webp)
 (Fons imaginis: [Detalia](/la/licenses#lekt6007))
 :::
 ::: media
-![](/images/lekt6008.jpg)
+![](/images/lekt6008.webp)
 (Fons imaginis: [Detalia](/la/licenses#lekt6008))
 :::
 ::: media
-![](/images/lekt6009.jpg)
+![](/images/lekt6009.webp)
 (Fons imaginis: [Detalia](/la/licenses#lekt6009))
 :::
 B) Determinate et vertite sine auxiliis sequentes formas:

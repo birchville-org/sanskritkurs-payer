@@ -106,7 +106,7 @@ A) Formez les formes de la première personne qui correspondent à ces formes ve
 :::
 
 ::: media
-![](/images/uebung064.jpg)
+![](/images/uebung064.webp)
 Fig. : आगारे सीदामः
 (Source de l'image : [Détails](/fr/licenses#uebung064))
 :::

@@ -112,7 +112,7 @@ Nota: ¹ Las desinenzas da la 2. e 3. pers. sg. pon vegnir sustituidas cun -tāt
 :::
 
 ::: media
-![](/images/lekt4702.jpg)
+![](/images/lekt4702.webp)
 Abb.: प्रविशत
 Hanuman Temple, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی
 (Fontana da l’imagines: [Detagls](/rm/licenses#lekt4702))
@@ -130,7 +130,7 @@ Hanuman Temple, Delhi = हनुमान् मन्दिर, दिल्�
 :::
 
 ::: media
-![](/images/lekt4701.jpg)
+![](/images/lekt4701.webp)
 Fig.: नृत्यत
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt4701))
 :::
@@ -172,7 +172,7 @@ A) Tradusci:
 भो राम यदि मया गन्तव्यं तदैषा कन्यापि मम सहायिनी भवतु ॥३॥
 
 ::: media
-![](/images/lekt4703.jpg)
+![](/images/lekt4703.webp)
 Fig.: भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt4703))
 :::
@@ -183,7 +183,7 @@ Fig.: भो राम यदि मया गन्तवं तदैषा �
 आर्ये स्वागतं ते ॥६॥
 
 ::: media
-![](/images/lekt4704.jpg)
+![](/images/lekt4704.webp)
 Fig.: आर्ये स्वागतं ते
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt4704))
 :::

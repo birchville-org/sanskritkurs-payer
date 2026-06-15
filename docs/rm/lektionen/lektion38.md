@@ -27,7 +27,7 @@ Explicaziuns:
 \-गु Neutrum Nom.Akk.sg. a गो m.f. "bostg, vacca"
 
 ::: media
-![](/images/lekt3801.jpg)
+![](/images/lekt3801.webp)
 Abb.: प्रज्ञा नश्यति मेहतः
 (Font dal maletg: [Detagls](/rm/licenses#lekt3801))
 :::
@@ -98,7 +98,7 @@ Exempels:
 ::::
 
 ::: media
-![](/images/lekt3803.jpg)
+![](/images/lekt3803.webp)
 Fig.: सीमा
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt3803))
 :::
@@ -204,7 +204,7 @@ Beispiel:
 हस्तिन् m.: der durch eine besondere Hand gekennzeichnete = der Elefant (seine Hand ist ja keine gewöhnliche Hand, sondern ein Rüssel)
 
 ::: media
-![](/images/lekt3806.jpg)
+![](/images/lekt3806.webp)
 Abb.: हस्ती
 (Bildquelle: [Details](/rm/licenses#lekt3806))
 :::
@@ -212,7 +212,7 @@ Abb.: हस्ती
 हस्तवन्त् : einer, der (menschliche) Hände hat
 
 ::: media
-![](/images/lekt3807.jpg)
+![](/images/lekt3807.webp)
 Abb.: हस्तवान्
 (Bildquelle: [Details](/rm/licenses#lekt3807))
 :::
@@ -308,7 +308,7 @@ Example:
 सूर्य m.: sun, deus dal sun Sūrya
 
 ::: media
-![](/images/lekt3802.jpg)
+![](/images/lekt3802.webp)
 Abb.: सूर्यः
 (Fontana da l’immaisin: [Detagls](/rm/licenses#lekt3802))
 :::
@@ -317,7 +317,7 @@ Abb.: सूर्यः
 उदक n.: aua
 
 ::: media
-![](/images/lekt3805.jpg)
+![](/images/lekt3805.webp)
 Abb.: उदकम्
 (Fontana da l’immaisin: [Detagls](/rm/licenses#lekt3805))
 :::
@@ -348,7 +348,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt3804.jpg)
+![](/images/lekt3804.webp)
 Abb.: गौतमबुद्धस्य महापरिनिर्वाणम्
 (Fontana da l’immaisin: [Detagls](/rm/licenses#lekt3804))
 :::
@@ -392,7 +392,7 @@ da राज :
 ब्रह्मन् m.: il deus creatur persunalisà Brahmā
 
 ::: media
-![](/images/lekt3809.jpg)
+![](/images/lekt3809.webp)
 Abb.: ब्रह्मा
 (Fontana da l’immaisin: [Detagls](/rm/licenses#lekt3809))
 :::
@@ -433,13 +433,13 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt3810.jpg)
+![](/images/lekt3810.webp)
 Abb.: अशोकवृक्षः
 (Fontana da l’immaisin: [Detagls](/rm/licenses#lekt3810))
 :::
 
 ::: media
-![](/images/lekt3811.jpg)
+![](/images/lekt3811.webp)
 Abb.: अशोकसाम्राज्यम्
 (Fontana da l’immaisin: [Detagls](/rm/licenses#lekt3811))
 :::
@@ -485,7 +485,7 @@ A) Completar las suentas cun la furma correspundenta dals pleds en parentesis e 
 विनोद m.: divertiment, divertiment, plaschair
 
 ::: media
-![](/images/lekt3812.jpg)
+![](/images/lekt3812.webp)
 Abb.: विनोदः
 (Font da l'imaginescha: [Detagls](/rm/licenses#lekt3812))
 :::
@@ -516,7 +516,7 @@ Inf. तरितुम् । तरीतुम्
 तीर n.: riva
 
 ::: media
-![](/images/lekt3813.jpg)
+![](/images/lekt3813.webp)
 Abb.: वाराणस्यां गङ्गातीरे
 (Font da l'imaginescha: [Detagls](/rm/licenses#lekt3813))
 :::
@@ -535,7 +535,7 @@ Inf. गणयितुम्
 :::
 
 ::: media
-![](/images/lekt3814.jpg)
+![](/images/lekt3814.webp)
 Abb.: गणयां चक्रुः
 (Font da l'imaginescha: [Detagls](/rm/licenses#lekt3814))
 :::

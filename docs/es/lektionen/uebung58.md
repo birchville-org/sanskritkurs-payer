@@ -34,7 +34,7 @@ Determine y traduzca las siguientes formas y forme las correspondientes formas d
 19.  अचेतः - चित् 1P 2.sg.Impf.P tú percibiste - अचेतीः
 
 :::: media
-![](/images/uebung095.jpg)
+![](/images/uebung095.webp)
 Fig.: तब्लाः
 (Fuente de la imagen: [Detalles](/licenses#uebung095))
 :::
@@ -46,7 +46,7 @@ Fig.: तब्लाः
 Determine y traduzca las siguientes formas:
 
 ::: media
-![](/images/uebung097.jpg)
+![](/images/uebung097.webp)
 Fig.: मातुलङ्गविक्रेतायं ना ॥  
 Pune - पुणे  
 [Fuente de la imagen: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Acceso el 2009-03-12. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, sin uso comercial, sin obras derivadas)]
@@ -91,7 +91,7 @@ Pune - पुणे
 38. दद - दा 3U 2.pl.Perf.P vosotros disteis
 39. अञ्ज्वः - अञ्ज् 7P 1.du.Ind.Prés.P nosotros dos ungimos
 
-![](/images/uebung096.jpg)
+![](/images/uebung096.webp)
 Fig.: श्वा श्वानमघ्रात्
 (Fuente de la imagen: [Detalles](/licenses#uebung096))
 :::

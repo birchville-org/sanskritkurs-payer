@@ -181,7 +181,7 @@ Examples:
 :::
 
 ::: media
-![](/images/lekt5602.jpg)
+![](/images/lekt5602.webp)
 Fig.: क्लैब्यं मा स्म गमः
 Poster (Ernesto Che Guevara) of a political party in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
 (Image source: [Details](/en/licenses#lekt5602))
@@ -208,7 +208,7 @@ Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit syntax. -- Leyden : 
 ::::
 
 ::: media
-![](/images/lekt5603.jpg)
+![](/images/lekt5603.webp)
 Fig.: अलं  विषादेन
 (Image source: [Details](/en/licenses#lekt5603))
 :::

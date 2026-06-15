@@ -68,7 +68,7 @@ Ein Zweimalgeborener, der den Veda studiert hat, kennt Recht und Sitte der Zweim
 Allein von der Wissenschaft kann man nicht leben. Wer das weiß, sollte nicht studieren.
 
 ::: media
-![](/images/uebung061.jpg)
+![](/images/uebung061.webp)
 Abb.: विद्ययैव जीवितुं न शक्यते
 (Bildquelle: [Details](/licenses#uebung061))
 :::
@@ -96,7 +96,7 @@ Man grüße Alte formgerecht, überlasse ihnen seinen Sitz und stehe bei ihnen m
 Wenn ein Mann sich weder freut noch verdrießt, wenn er hört, berührt, sieht, schmeckt oder riecht, dann gilt er als einer, der seine Sinne besiegt hat (**जितेन्द्रियः**).
 
 ::: media
-![](/images/uebung060.jpg)
+![](/images/uebung060.webp)
 Abb.: भुक्त्वा घ्रात्वा च न हृष्यति ग्लायति वा
 (Bildquelle: [Details](/licenses#uebung060))
 :::
@@ -149,7 +149,7 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 :::
 
 ::: media
-![](/images/uebung059.jpg)
+![](/images/uebung059.webp)
 Abb.: जगौ
 (Bildquelle: [Details](/licenses#uebung059))
 :::

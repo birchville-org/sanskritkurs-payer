@@ -97,7 +97,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: media
-![](/images/uebung091.jpg)
+![](/images/uebung091.webp)
 Рис.: जेरिम
 (Источник изображения: [Детали](/ru/licenses#uebung091))
 

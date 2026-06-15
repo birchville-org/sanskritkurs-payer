@@ -107,7 +107,7 @@ Where two of the three last-mentioned prescriptions can apply simultaneously, th
 **kāma** m. = काम : desire, craving, desired gift, sensual pleasure, love; the god of love Kāma.
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 Fig.: God Kāma = kāmadeva = कामदेव, 18th century.
 (Image source: Wikipedia, Public domain)
 :::

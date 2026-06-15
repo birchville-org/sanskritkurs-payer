@@ -213,11 +213,11 @@ status: stable
 अनुवर्तन के लिए Kielhorn, व्याकरण § 124 देखें:
 
 ::: media
-![](/images/lekt6001.jpg)
+![](/images/lekt6001.webp)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6001))
 :::
 ::: media
-![](/images/lekt6002.jpg)
+![](/images/lekt6002.webp)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6002))
 :::
 
@@ -253,11 +253,11 @@ status: stable
 ####  प्रतिपादन के लिए Kielhorn, व्याकरण § 128 देखें:
 
 ::: media
-![](/images/lekt6003.jpg)
+![](/images/lekt6003.webp)
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt6003))
 :::
 ::: media
-![](/images/lekt6004.jpg)
+![](/images/lekt6004.webp)
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt6004))
 :::
 यहाँ से संबंधित:
@@ -402,7 +402,7 @@ status: stable
 Kielhorn की सूची, व्याकरण § 452:
 
 ::: media
-![](/images/lekt6006.jpg)
+![](/images/lekt6006.webp)
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt6006))
 :::
 
@@ -448,15 +448,15 @@ P: ⟪यियक्षति⟫ "वह चाहता है कि कि�
 A) कीलफर्न में, व्याकरण § 451 में, अभी तक सीखे गए क्रियाओं के लिए असंगत इच्छावाचक निर्माणों को सीखें:
 
 ::: media
-![](/images/lekt6007.jpg)
+![](/images/lekt6007.webp)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6007))
 :::
 ::: media
-![](/images/lekt6008.jpg)
+![](/images/lekt6008.webp)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6008))
 :::
 ::: media
-![](/images/lekt6009.jpg)
+![](/images/lekt6009.webp)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt6009))
 :::
 B) निम्नलिखित रूपों का निर्धारण करें और बिना किसी सहायक उपकरण के उनका अनुवाद करें:

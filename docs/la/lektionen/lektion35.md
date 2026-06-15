@@ -226,7 +226,7 @@ Exemplum:
 :::
 
 ::: media
-![](/images/lekt3502.jpg)
+![](/images/lekt3502.webp)
 Fig.: क्रामन्ति
 Homines ambulantes, Senegalia.
 (Fons imaginis: [Detalia](/la/licenses#lekt3502))
@@ -246,7 +246,7 @@ unde:
 :::
 
 ::: media
-![](/images/lekt3501.jpg)
+![](/images/lekt3501.webp)
 Fig.: जगुः
 Musici templi Kaadu Malleswara Temple Bangalore.
 (Fons imaginis: [Detalia](/la/licenses#lekt3501))
@@ -286,7 +286,7 @@ A) Formate formas Perfectorum ad formas verborum sequentes:
 28. अशृण्वन्
 29. मिमति  
     ::: media
-    ![](/images/lekt3503.jpg)
+    ![](/images/lekt3503.webp)
     Fig.: मिमति
     Forum in Vadaseri, Tamil Nadu.
     (Fons imaginis: [Detalia](/la/licenses#lekt3503))
@@ -313,7 +313,7 @@ B) Traducite:
 ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥
 
 ::: media
-![](/images/lekt3504.jpg)
+![](/images/lekt3504.webp)
 Fig.: ... ब्राह्मणाश्चेजुः
 Yajña ceremony, Shiva ashram, Ganeshpuri.
 (Fons imaginis: [Detalia](/la/licenses#lekt3504))

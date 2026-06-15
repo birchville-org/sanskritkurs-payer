@@ -102,7 +102,7 @@ In grammatica indica traditionali inter suffixa, quibus radices nominalia forman
 | **dṛś** 4 P[[br]]दृश्[[br]]"videre" | **darśana** n.[[br]]दर्शन | "visio, aspectus, systema philosophicum, phaenomenon, specialiter: Darśan" |
 
 ::: media
-![](/images/lekt0801.jpg)
+![](/images/lekt0801.webp)
 Tab.: Maa Batakali Darshan, Puri, Orissa
 (Fons imaginis: [Detalia](/la/licenses#lekt0801))
 :::

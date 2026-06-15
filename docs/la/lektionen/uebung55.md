@@ -49,7 +49,7 @@ Determina et versa formas sequentes, formasque correspondentes **aoristi a** for
 :::
 
 ::: media
-![](/images/uebung092.jpg)
+![](/images/uebung092.webp)
 Fig.: अशोभथाः । अशुभः
 (Fons imaginis: [Detalia](/licenses#uebung092))
 :::

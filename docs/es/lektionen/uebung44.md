@@ -99,7 +99,7 @@ Tampoco debes odiar lo aborrecible, ni codiciar lo deseable; así estarás inter
 Has llorado a los no dignos de llanto y querías pronunciar palabras de sabiduría; sin embargo, los sabios no lluegan ni a los muertos ni a los vivos.
 
 ::: media
-![](/images/uebung072.jpg)
+![](/images/uebung072.webp)
 Fig.: मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति
 (Fuente de la imagen: [Detalles](/licenses#uebung072))
 :::
@@ -156,7 +156,7 @@ Determine las siguientes formas de palabra:
 :::
 
 ::: media
-![](/images/uebung073.jpg)
+![](/images/uebung073.webp)
 Fig.: वदिता
 (Fuente de la imagen: [Detalles](/licenses#uebung073))
 :::

@@ -100,7 +100,7 @@ C) Put the sentences of [Lesson 10](lektion10.md), Exercise C, into the passive 
 कैर्योधैः क्षत्रियैः सह युद्धम् ।
 
 ::: media
-![](/images/uebung020.jpg)
+![](/images/uebung020.webp)
 Fig.: ब्राह्मणो ऽग्निं करोति
 (Image source: [Details](/licenses#uebung020))
 :::

@@ -140,7 +140,7 @@ kiṃ kāraṇam?
 किं कारणम् ॥
 
 ::: media
-![](/images/uebung007.jpg)
+![](/images/uebung007.webp)
 Fig.: इमे योधाः किं कुर्वन्ति ।
 (Fuente de la imagen: [Detalles](/licenses#uebung007))
 :::
@@ -204,7 +204,7 @@ El loro vuela.
 El niño escribe una carta.
 
 ::: media
-![](/images/uebung008.jpg)
+![](/images/uebung008.webp)
 Fig.: कपिः फलं खदति
 (Fuente de la imagen: [Detalles](/licenses#uebung008))
 :::

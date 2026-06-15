@@ -103,7 +103,7 @@ B) Vertite has formas verbales in formas correspondentes Perfektum (Persona prim
 :::
 
 ::: media
-![](/images/uebung065.jpg)
+![](/images/uebung065.webp)
 Fig.: आशिमेति
 (Fons imaginis: [Detalia](/licenses#uebung065))
 :::
@@ -154,7 +154,7 @@ Determinate et vertite sequentes formas verborum:
 :::
 
 ::: media
-![](/images/uebung066.jpg)
+![](/images/uebung066.webp)
 Fig.: काश्चन वाहिकाः
 (Fons imaginis: [Detalia](/licenses#uebung066))
 :::

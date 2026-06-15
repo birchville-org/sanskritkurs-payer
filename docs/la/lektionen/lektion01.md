@@ -17,7 +17,7 @@ Verehrung des Gaṇeśa
 :::
 
 ::: media
-![](/images/lekt0102.jpg)
+![](/images/lekt0102.webp)
 Abb.: Gaṇeśa, Adamspeak, Sri Lanka
 (Fons imaginis: [Detalia](/la/licenses#lekt0102))
 :::
@@ -48,7 +48,7 @@ maṅgalacaraṇam
 :::
 
 ::: media
-![](/images/lekt0101.jpg)
+![](/images/lekt0101.webp)
 Abb.: Ardhanarīśvara
 (Fons imaginis: [Detalia](/la/licenses#lekt0101))
 :::
@@ -86,7 +86,7 @@ Initio quoddam curiosum:
 ## 1.1. Literatura pro principiantes in Indologia
 
 ::: media
-![](/images/lekt0103.jpg)
+![](/images/lekt0103.webp)
 Fig.: Titulus operis in editione vulgaris
 (Fons imaginis: [Detalia](/la/licenses#lekt0103))
 :::
@@ -94,7 +94,7 @@ Fig.: Titulus operis in editione vulgaris
 > **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ pars: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Postea multae editiones, etiam editiones vulgaris. -- **Lectio necessaria**. Bona synopsis de vita, historia et cultura in India ante Islam. Synopsis generalis de variis regionibus Indologiae classicae.
 
 ::: media
-![](/images/lekt0104.jpg)
+![](/images/lekt0104.webp)
 Fig.: Titulus
 (Fons imaginis: [Detalia](/la/licenses#lekt0104))
 :::
@@ -104,7 +104,7 @@ Fig.: Titulus
 > **Kielhorn**, Franz &lt;1840-1908&gt;: Grammatik der Sanskrit-Sprache / Ex Anglico translatus a W. Solf [1862 - 1936]. -- Berolini : Dümmler, 1888. -- XIII, 238 pag. -- Titulus originalis: A grammar of the Sanscrit language
 
 ::: media
-![](/images/lekt0105.jpg)
+![](/images/lekt0105.webp)
 Fig.: Titulus operis
 (Fons imaginis: [Detalia](/la/licenses#lekt0105))
 :::
@@ -140,7 +140,7 @@ Pro curiosis ad consulendum:
 Sonī Sanscriti secundum classificationem Indicam traditionalis et eorum scriptio scientifica.
 
 ::: media
-![](/images/lekt0106.jpg)
+![](/images/lekt0106.webp)
 (Fons imaginis: [Particulae](/la/licenses#lekt0106))
 :::
 

@@ -2,7 +2,7 @@
 
 Signos vocálicos para el inicio de palabra, en caso de que la palabra no esté escrita conectada con una palabra anterior:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@ En la tipografía utilizada en este script:
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 La -a inicial, que según las reglas de sandhi de frase se elide (-as + a- » -o ' ) se indica mediante el llamado Avagraha:
 

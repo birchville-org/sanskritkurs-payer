@@ -2,7 +2,7 @@
 
 ## Exercitium scripturae VI
 
-![](/images/schrift009.jpg)
+![](/images/schrift009.webp)
 
 Forma sequens pro iha quoque usitata est:
 

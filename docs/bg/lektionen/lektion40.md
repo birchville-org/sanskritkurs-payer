@@ -29,7 +29,7 @@ status: stable
 :::
 
 ::: media
-![lekt4005.jpg](/images/lekt4005.jpg)
+![lekt4005.jpg](/images/lekt4005.webp)
 Ил.: पादं सब्रह्मचारिभ्यः
 (Източник на изображението: [Подробности](/bg/licenses#lekt4005))
 :::
@@ -522,7 +522,7 @@ PPP तीर्ण
 :::
 
 ::: media
-![lekt4003.jpg](/images/lekt4003.jpg)
+![lekt4003.jpg](/images/lekt4003.webp)
 Ил.: हरिद्वारे तीर्थम्
 (Източник на изображението: [Подробности](/bg/licenses#lekt4003))
 :::
@@ -532,7 +532,7 @@ PPP तीर्ण
 :::
 
 ::: media
-![lekt4002.jpg](/images/lekt4002.jpg)
+![lekt4002.jpg](/images/lekt4002.webp)
 Ил.: तीर्थङ्करः
 (Източник на изображението: [Подробности](/bg/licenses#lekt4002))
 :::
@@ -548,7 +548,7 @@ PPP तीर्ण
 :::
 
 ::: media
-![lekt4001.jpg](/images/lekt4001.jpg)
+![lekt4001.jpg](/images/lekt4001.webp)
 Ил.: विष्णोर्दशावताराः
 (Източник на изображението: [Подробности](/bg/licenses#lekt4001))
 :::
@@ -572,7 +572,7 @@ PPP सुप्त
 :::
 
 ::: media
-![lekt4004.jpg](/images/lekt4004.jpg)
+![lekt4004.jpg](/images/lekt4004.webp)
 Ил.: स्वपन्ति
 (Източник на изображението: [Подробности](/bg/licenses#lekt4004))
 :::

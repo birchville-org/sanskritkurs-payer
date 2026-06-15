@@ -30,7 +30,7 @@ Cine are înțelegere este eliberat de suferință; de aceea, cineva care doreș
 Un neștiutor se bucură de mâncare bună și femei frumoase. Cui i-a dispărut neștiința, nu pofteste nici mâncare bună, nici femeie cu corp desăvârșit. El anulează lăcomia și ura, și se concentrează pe înțelegere.
 
 ::: media
-![](/images/uebung049.jpg)
+![](/images/uebung049.webp)
 Fig.: कुलबन्धनम्
 (Sursa imaginii: [Detalii](/licenses#uebung049))
 :::

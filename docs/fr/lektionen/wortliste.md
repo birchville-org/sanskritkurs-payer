@@ -51,7 +51,7 @@ outline: 2
 **devī** f. = देवी : Déesse, en particulier Durgā f. = दुर्गा, l'épouse de Śiva = शिव.
 
 ::: media
-![](/images/lekt0303.jpg)
+![](/images/lekt0303.webp)
 Fig. : Durgā = दुर्गा, Orissa
 (Source de l'image : [Détails](/images/lekt0303))
 :::
@@ -82,7 +82,7 @@ Fig. : Durgā = दुर्गा, Orissa
 **kāma** m. = काम : désir, appétit, don souhaité, plaisir des sens, amour ; dieu de l'amour Kāma.
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 Fig. : Dieu Kāma = kāmadeva = कामदेव, XVIIIe siècle.
 (Source de l'image : Wikipedia, domaine public)
 :::
@@ -134,7 +134,7 @@ Fig. : Dieu Kāma = kāmadeva = कामदेव, XVIIIe siècle.
 - **su** 5 U (sunoti) सु सुनोति : presser
 - **soma** m. सोम : boisson pressée, Soma ; Lune (La plante dont le Soma a été pressé reste à ce jour débattue).
 ::: media
-![](/images/lekt0701.jpg)
+![](/images/lekt0701.webp)
 Fig. : S'agissait-il de la plante védique du Soma ? : Amanite tue-mouches : *Amanita muscaria* (L.) Lam.
 (Source de l'image : [Détails](/fr/licenses#lekt0701))
 :::
@@ -197,7 +197,7 @@ Fig. : **likh** (लिख्) : Bâton d'écriture des Batak (Sumatra), tel qu'
 - **adhyayana** n. (अध्ययन) : Apprentissage, en particulier l'étude des Védas
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 Fig. : **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram près de Madurai.
 (Source de l'image : [Détails](/fr/licenses#lekt0903))
 :::
@@ -205,7 +205,7 @@ Fig. : **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparank
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : Artisan
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 Fig. : **kāru** = कारु, Gujarat.
 (Source de l'image : [Détails](/fr/licenses#lekt0902))
 :::
@@ -265,7 +265,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Publié à par
 :::
 
 ::: media
-![](/images/lekt1003.jpg)
+![](/images/lekt1003.webp)
 Fig. : वरुणः
 (Source de l'image : [Détails](/fr/licenses#lekt1003))
 :::
@@ -355,7 +355,7 @@ Fig. : विश्वामित्रः
   - **vadana** n. वदन : le parler ; instrument de parole : bouche, visage
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 Fig. : **vadanāni** = वदनानि
 (Source de l'image : [Détails](/fr/licenses#lekt1102))
 :::
@@ -374,7 +374,7 @@ Fig. : **vadanāni** = वदनानि
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : s'éveiller, s'éveiller à la connaissance, reconnaître ; PPP **buddha** 3 éveillé, donc **Buddha** = « celui qui s'est éveillé » (et non : celui qui est illuminé)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 Fig. : गौतमो बुद्धः
 (Source de l'image : [Détails](/fr/licenses#lekt1201))
 :::
@@ -385,7 +385,7 @@ Fig. : गौतमो बुद्धः
 - **mārga** m. मार्ग : chemin (les chemins étaient souvent des sentiers de bêtes)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 Fig. : मार्गः
 (Source de l'image : [Détails](/fr/licenses#lekt1202))
 :::
@@ -404,7 +404,7 @@ Pour la formation des mots :
 - **budh** : **bodhi** m./f. बोधि : l'éveil (par quoi un Bouddha ou un Jina parvient à la compréhension salvatrice)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 Fig. : महावीरो जिनः
 (Source de l'image : [Détails](/fr/licenses#lekt1203))
 :::
@@ -486,7 +486,7 @@ Apprenez les mots suivants :
 > [Source : **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
-![](/images/lekt1301.jpg)
+![](/images/lekt1301.webp)
 Fig. : महिषासुरः
 (Source de l'image : [Détails](/fr/licenses#lekt1301))
 :::
@@ -507,7 +507,7 @@ Fig. : महिषासुरः
 - **anna** n. अन्न : nourriture (du PPP : *ad-na: ce qui est mangé)
 
 ::: media
-![](/images/lekt1304.jpg)
+![](/images/lekt1304.webp)
 Fig. : अन्नम्
 (Source de l'image : [Détails](/fr/licenses#lekt1304))
 :::
@@ -523,7 +523,7 @@ pad 4 Ā :
 :::
 
 ::: media
-![](/images/lekt1303.jpg)
+![](/images/lekt1303.webp)
 Fig. : चत्वारः पादाः : गजः
 (Source de l'image : [Détails](/fr/licenses#lekt1303))
 :::
@@ -557,7 +557,7 @@ dviṣ 2 U :
 
 पूजा f. : honneur, réception honorifique, vénération religieuse (Pūjā)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 Fig. : पूजा
 (Source de l'image : [Détails](/fr/licenses#lekt1504))
 :::
@@ -566,7 +566,7 @@ Fig. : पूजा
 
 इन्द्र m. : prince, premier, meilleur parmi ; roi des dieux Indra
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 Fig. : इन्द्रः
 (Source de l'image : [Détails](/fr/licenses#lekt1505))
 :::
@@ -595,14 +595,14 @@ dont :
 
 सिंह m. : lion (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 Fig. : सिंहः
 (Source de l'image : [Détails](/fr/licenses#lekt1506))
 :::
 
 व्याघ्र m. : tigre (_Panthera tigris tigris_) (litt. : bâilleur)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 Fig. : व्याघ्रः
 (Source de l'image : [Détails](/fr/licenses#lekt1507))
 :::
@@ -641,7 +641,7 @@ dont :
 अध्यापन n. : Enseignement, instruction
 
 ::: media
-![](/images/lekt1602.jpg)
+![](/images/lekt1602.webp)
 Fig. : अध्यापनम्
 « Il s’agit d’une cérémonie spéciale dans un petit temple de Satara (सातारा). Elle est accomplie par les étudiants de la Swami Muktananda Vedashala à l’occasion de la célébration de Mahāśivarātri. Il s’agit d’une école védique où les enfants apprennent par cœur les textes sacrés appelés les Védas. Cette école enseigne le Krishna Yajurveda et certaines parties du Samaveda. Je rédige mon mémoire de master sur cette école. »
 (Source de l’image : [Détails](/fr/licenses#lekt1602))
@@ -678,7 +678,7 @@ dont :
 योग m. : Attelage, connexion, union, acquisition ; Yoga
 
 ::: media
-![](/images/lekt1601.jpg)
+![](/images/lekt1601.webp)
 Fig. : योगी
 Temple Birla, Delhi
 (Source de l’image : [Détails](/fr/licenses#lekt1601))
@@ -713,7 +713,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 Fig. : घाताः
 Bangalore = ಬೆಂಗಳೂರು
 (Source de l'image : [Détails](/fr/licenses#lekt1703))
@@ -729,7 +729,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 Fig. : योगासनम्
 (Source de l'image : [Détails](/fr/licenses#lekt1701))
 :::
@@ -748,7 +748,7 @@ dont :
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : traire
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 Fig. : दोग्धि
 (Source de l'image : [Détails](/fr/licenses#lekt1702))
 :::
@@ -780,7 +780,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt1809.jpg)
+![](/images/lekt1809.webp)
 Fig. : कामः
 Illustration concernant le कामसूत्र
 (Source de l’image : [Détails](/fr/licenses#lekt1809))
@@ -810,7 +810,7 @@ de **स्था** :
 :::
 
 ::: media
-![](/images/lekt1901.jpg)
+![](/images/lekt1901.webp)
 Fig. : गर्भगृहम्
 Badami (ಬದಾಮಿ)
 (Source de l’image : [Détails](/fr/licenses#lekt1901))
@@ -840,7 +840,7 @@ de cela :
 **छत्त्र n.** : parasol, ombrelle
 
 ::: media
-![](/images/lekt1904.jpg)
+![](/images/lekt1904.webp)
 Fig. : छत्त्रम्
 « _Onappottan_ (ഓണപ്പൊട്ടന്‍), en costume traditionnel, est une coutume dans les régions méridionales du Kerala. _Onappottan_ visite les maisons pendant le _onam_ et donne des bénédictions. Récemment, _onappottan_ est devenu une vue rare, confinée aux villages. »
 (Source de l’image : [Détails](/fr/licenses#lekt1904))
@@ -887,7 +887,7 @@ Fig. : पण्डितः जवाहरलाल नेहरू
 आश्रम m., n. : ermitage, stade de vie, phase de vie (à savoir comme ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ et éventuellement comme सन्न्यासिन् ; voir Basham, Wonder p. 159s.)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 Fig. : आश्रमः
 Rishikesh = ऋषिकेश. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
 (Source de l'image : [Détails](/fr/licenses#lekt2008))
@@ -999,7 +999,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt2103.jpg)
+![](/images/lekt2103.webp)
 Fig. : भगवान्कृष्णः
 भगवान्कृष्णः en tant que जगन्नाथ (à droite) avec sa demi-sœur सुभद्रा (au centre) et son frère aîné बलराम, Orissa = ଓଡ଼ିଶा
 (Source de l'image : [Détails](/fr/licenses#lekt2103))
@@ -1010,7 +1010,7 @@ Fig. : भगवान्कृष्णः
 :::
 
 ::: media
-![](/images/lekt2105.jpg)
+![](/images/lekt2105.webp)
 Fig. : भगवद्गीता
 भगवद्गीता - Manuscrit, 19e siècle.
 (Source de l'image : [Détails](/fr/licenses#lekt2105))
@@ -1027,7 +1027,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt2104.jpg)
+![](/images/lekt2104.webp)
 Fig. : भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Source de l'image : [Détails](/fr/licenses#lekt2104))
@@ -1051,7 +1051,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 Fig. : कामदेवः
 XIXe siècle
 (Source de l'image : [Détails](/fr/licenses#lekt2202))
@@ -1069,7 +1069,7 @@ dérivés :
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 Fig. : दुर्गाशक्तिः
 Kolkatta = কলকাতা
 (Source de l'image : [Détails](/fr/licenses#lekt2203))
@@ -1099,7 +1099,7 @@ dérivés :
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 Fig. : धेनवश्चरन्ति
 Goa = गोंय
 (Source de l'image : [Détails](/fr/licenses#lekt2201))
@@ -1121,7 +1121,7 @@ De la même manière que अलम् avec l'instrumental est utilisé :
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 Fig. : अलंकारः
 (Source de l'image : [Détails](/fr/licenses#lekt2405))
 :::
@@ -1132,7 +1132,7 @@ Fig. : अलंकारः
 प्रतिमा f. : image, représentation
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 Fig. : देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Source de l'image : [Détails](/fr/licenses#lekt2406))
@@ -1172,7 +1172,7 @@ de cela
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 Fig. : ऊहापोहः
 « NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, rédactrice adjointe des affaires étrangères, CNN-IBN Network 18, Inde, modère un panel de discussion lors du Sommet économique de l'Indie 2008 du Forum économique mondial à New Delhi. »
 (Source de l'image : [Détails](/fr/licenses#lekt2407))
@@ -1194,7 +1194,7 @@ de cela :
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 Fig. : आख्यानम्
 « Le conteur de San Francisco Jeff Byers partage une histoire avec les résidents de Chenneri, un village Irula. Le conteur Jeeva Raghunath traduit en tamoul pour les villageois. »
 (Source de l'image : [Détails](/fr/licenses#lekt2408))
@@ -1227,7 +1227,7 @@ de cela :
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 Fig. : जयदेवकविर्विष्णुं नमस्करोति
 Manuscrit du गीतगोविन्द, 1730 après J.-C.
 (Source de l'image : [Détails](/fr/licenses#lekt2411))
@@ -1264,7 +1264,7 @@ dont :
 धान्य n. : céréales battues
 
 ::: media
-![](/images/lekt2501.jpg)
+![](/images/lekt2501.webp)
 Fig. : धान्यम्
 (Source de l'image : [Détails](/fr/licenses#lekt2501))
 :::
@@ -1351,7 +1351,7 @@ dont :
 मूल n. : racine
 
 ::: media
-![](/images/lekt2502.jpg)
+![](/images/lekt2502.webp)
 Fig. : मूलानि
 (Source de l'image : [Détails](/fr/licenses#lekt2502))
 :::
@@ -1371,7 +1371,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt2503.jpg)
+![](/images/lekt2503.webp)
 Fig. : लिप्तिः
 (Source de l'image : [Détails](/fr/licenses#lekt2503))
 :::
@@ -1396,7 +1396,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt2504.jpg)
+![](/images/lekt2504.webp)
 Fig. : विवाहः
 (Source de l'image : [Détails](/fr/licenses#lekt2504))
 :::
@@ -1415,7 +1415,7 @@ dont :
 विष्टि f. : travail, corvée
 
 ::: media
-![](/images/lekt2505.jpg)
+![](/images/lekt2505.webp)
 Fig. : विष्टिः
 (Source de l'image : [Détails](/fr/licenses#lekt2505))
 :::
@@ -1443,7 +1443,7 @@ davant :
 हिरण्य ३ : doré ; n. : or, argent, richesse
 
 ::: media
-![](/images/lekt2506.jpg)
+![](/images/lekt2506.webp)
 Fig. : हिरण्यम्
 (Source de l'image : [Détails](/fr/licenses#lekt2506))
 :::
@@ -1485,7 +1485,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt2706.jpg)
+![](/images/lekt2706.webp)
 Fig. : वस्त्राणि
 Vastrāṇi. Majuli, Assam.
 (Source de l'image : [Détails](/fr/licenses#lekt2706))
@@ -1500,7 +1500,7 @@ Vastrāṇi. Majuli, Assam.
 :::
 
 ::: media
-![](/images/lekt2707.jpg)
+![](/images/lekt2707.webp)
 Fig. : वसन्तः
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Source de l'image : [Détails](/fr/licenses#lekt2707))
@@ -1525,14 +1525,14 @@ dont :
 **हरिहर** m. : Viṣṇu et Śiva unis comme une seule divinité.
 
 ::: media
-![](/images/lekt2704.jpg)
+![](/images/lekt2704.webp)
 Fig. : हरिहरः
 Harihara (à gauche : Viṣṇu, à droite : Śiva).
 (Source de l'image : [Détails](/fr/licenses#lekt2704))
 :::
 
 ::: media
-![](/images/lekt2705.jpg)
+![](/images/lekt2705.webp)
 Fig. : हरिहरः
 Harihara (à gauche : Viṣṇu, à droite : Śiva). Godrumdwip, Bengale-Occidental.
 (Source de l'image : [Détails](/fr/licenses#lekt2705))
@@ -1576,7 +1576,7 @@ Inf. **kāmayitum** / **kamitum**
 :::
 
 ::: media
-![](/images/lekt2804.jpg)
+![](/images/lekt2804.webp)
 Fig. : कृष्णो राधां कामयति
 Peinture de राजा रवि वर्मा (1848 - 1906)
 (Source de l'image : [Détails](/fr/licenses#lekt2804))
@@ -1600,7 +1600,7 @@ Inf. **coritum**
 :::
 
 ::: media
-![](/images/lekt2803.jpg)
+![](/images/lekt2803.webp)
 Fig. : वीणां वादयति
 Vīṇā-Spielerin.
 (Source de l'image : [Détails](/fr/licenses#lekt2803))
@@ -1609,7 +1609,7 @@ Vīṇā-Spielerin.
 **भार** m. : charge
 
 ::: media
-![](/images/lekt2805.jpg)
+![](/images/lekt2805.webp)
 Fig. : बाला भारं हरति
 Fille portant une charge. Près d’Ahmedabad.
 (Source de l'image : [Détails](/fr/licenses#lekt2805))
@@ -1655,7 +1655,7 @@ Inf. ग्रसितुम्
 परिव्राजक m. : vagabond, moine itinérant, pèlerin
 
 ::: media
-![](/images/lekt2903.jpg)
+![](/images/lekt2903.webp)
 Fig. : परिव्राजकाः
 Pushkar = पुष्कर
 (Source de l’image : [Détails](/fr/licenses#lekt2903))
@@ -1675,7 +1675,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt2901.jpg)
+![](/images/lekt2901.webp)
 Fig. : मत्स्यः
 रोहू मछली = Labeo rohita Hamilton
 (Source de l’image : [Détails](/fr/licenses#lekt2901))
@@ -1724,7 +1724,7 @@ Absol. विक्रीय
 :::
 
 ::: media
-![](/images/lekt3001.jpg)
+![](/images/lekt3001.webp)
 Fig. : क्रीणन्ति विक्रीणते च
 Bundi = बुन्दी, Rajasthan = राजस्थान
 (Source de l'image : [Détails](/fr/licenses#lekt3001))
@@ -1748,7 +1748,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt3002.jpg)
+![](/images/lekt3002.webp)
 Fig. : ज्ञातयः
 Darewadi, district d'Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र
 (Source de l'image : [Détails](/fr/licenses#lekt3002))
@@ -1765,7 +1765,7 @@ Inf. पवितुम्
 :::
 
 ::: media
-![](/images/lekt3003.jpg)
+![](/images/lekt3003.webp)
 Fig. : श्रोत्राणि पुनाति
 (Source de l'image : [Détails](/fr/licenses#lekt3003))
 :::
@@ -1781,7 +1781,7 @@ Inf. अशितुम्
 :::
 
 ::: media
-![](/images/lekt3005.jpg)
+![](/images/lekt3005.webp)
 Fig. : अश्नीयात्
 थाली, Inde du Sud
 (Source de l'image : [Détails](/fr/licenses#lekt3005))
@@ -1790,7 +1790,7 @@ Fig. : अश्नीयात्
 प्रिय ३ : cher, aimant, amical
 
 ::: media
-![](/images/lekt3004.jpg)
+![](/images/lekt3004.webp)
 Fig. : प्रिया
 (Source de l'image : [Détails](/fr/licenses#lekt3004))
 :::
@@ -1820,7 +1820,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt2904.jpg)
+![](/images/lekt2904.webp)
 Fig. : पुनर्भवः
 (Source de l'image : [Détails](/fr/licenses#lekt2904))
 :::
@@ -1865,7 +1865,7 @@ Le **कलियुग** a commencé vers 3102 av. J.-C., l'année de la **म�
 :::
 
 ::: media
-![](/images/lekt3101.jpg)
+![](/images/lekt3101.webp)
 Fig. : योगः
 Représentation de Yoga.
 (Source de l'image : [Détails](/fr/licenses#lekt3101))
@@ -1914,7 +1914,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt3102.jpg)
+![](/images/lekt3102.webp)
 Fig. : व्यञ्जनम्
 Préparation à la danse Kathakali, Kochi.
 (Source de l'image : [Détails](/fr/licenses#lekt3102))
@@ -1960,7 +1960,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt3103.jpg)
+![](/images/lekt3103.webp)
 Fig. : प्रज्ञापारमिता
 Aus einem Prajñāpāramitā-Manuskript.
 (Source de l'image : [Détails](/fr/licenses#lekt3103))
@@ -1995,7 +1995,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 **चूत**
 
 ::: media
-![](/images/lekt3202.jpg)
+![](/images/lekt3202.webp)
 Fig. : चूतः
 Manguiers, Kanpur.
 (Source de l'image : [Détails](/fr/licenses#lekt3202))
@@ -2032,7 +2032,7 @@ Manguiers, Kanpur.
 **वानर कपि**
 
 ::: media
-![](/images/lekt3203.jpg)
+![](/images/lekt3203.webp)
 Fig. : वानराः
 Singes (macaques rhésus) à Delhi.
 (Source de l'image : [Détails](/fr/licenses#lekt3203))
@@ -2054,7 +2054,7 @@ Singes (macaques rhésus) à Delhi.
 **उपल**
 
 ::: media
-![](/images/lekt3204.jpg)
+![](/images/lekt3204.webp)
 Fig. : उपलाः
 Carrière de pierre au sud de Pune, Maharashtra.
 (Source de l'image : [Détails](/fr/licenses#lekt3204))
@@ -2063,7 +2063,7 @@ Carrière de pierre au sud de Pune, Maharashtra.
 **लक्ष्य**
 
 ::: media
-![](/images/lekt3205.jpg)
+![](/images/lekt3205.webp)
 Fig. : लक्ष्यम्
 Exercice de tir / cible à flèches, Karnataka.
 (Source de l'image : [Détails](/fr/licenses#lekt3205))
@@ -2090,7 +2090,7 @@ Exercice de tir / cible à flèches, Karnataka.
 :::
 
 ::: media
-![](/images/lekt3207.jpg)
+![](/images/lekt3207.webp)
 Fig. : चितं गोमयं दहति
 Brûlage de galettes de bouse de vache au Rajasthan.
 (Source de l'image : [Détails](/fr/licenses#lekt3207))
@@ -2105,7 +2105,7 @@ Brûlage de galettes de bouse de vache au Rajasthan.
 **कौशल कुशल**
 
 ::: media
-![](/images/lekt3206.jpg)
+![](/images/lekt3206.webp)
 Fig. : कौशलम्
 Peinture Mehndi sur les mains à Mumbai.
 (Source de l'image : [Détails](/fr/licenses#lekt3206))
@@ -2129,7 +2129,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt3306.jpg)
+![](/images/lekt3306.webp)
 Fig. : दानम्
 (Source de l'image : [Détails](/fr/licenses#lekt3306))
 :::
@@ -2141,7 +2141,7 @@ Fig. : दानम्
 :::
 
 ::: media
-![](/images/lekt3307.jpg)
+![](/images/lekt3307.webp)
 Fig. : सा पुत्रमादाय भारं बिभ्रती गच्छति
 (Source de l'image : [Détails](/fr/licenses#lekt3307))
 :::
@@ -2165,7 +2165,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt3305.jpg)
+![](/images/lekt3305.webp)
 Fig. : समाधि
 (Source de l'image : [Détails](/fr/licenses#lekt3305))
 :::
@@ -2202,7 +2202,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt3304.jpg)
+![](/images/lekt3304.webp)
 Fig. : भयम्
 (Source de l'image : [Détails](/fr/licenses#lekt3304))
 :::
@@ -2255,7 +2255,7 @@ de PPP **हीन** :
 :::
 
 ::: media
-![](/images/lekt3303.jpg)
+![](/images/lekt3303.webp)
 Fig. : हीनयानमेव
 (Source de l'image : [Détails](/fr/licenses#lekt3303))
 :::
@@ -2271,7 +2271,7 @@ Fig. : हीनयानमेव
 :::
 
 ::: media
-![](/images/lekt3302.jpg)
+![](/images/lekt3302.webp)
 Fig. : घृतमग्नौ जुहोति
 (Source de l'image : [Détails](/fr/licenses#lekt3302))
 
@@ -2293,7 +2293,7 @@ Fig. : घृतमग्नौ जुहोति
 **शस्य = सस्य n. sg. et pl. :** semence, culture, céréale
 
 ::: media
-![](/images/lekt3406.jpg)
+![](/images/lekt3406.webp)
 Fig. : सस्यम्
 Champ de riz en Inde.
 (Source de l'image : [Détails](/fr/licenses#lekt3406))
@@ -2308,7 +2308,7 @@ Champ de riz en Inde.
 **द्वीप m.n. :** île, continent
 
 ::: media
-![](/images/lekt3405.jpg)
+![](/images/lekt3405.webp)
 Fig. : लक्षद्वीपाः
 Carte des îles Lakshadweep.
 (Source de l'image : [Détails](/fr/licenses#lekt3405))
@@ -2319,14 +2319,14 @@ Carte des îles Lakshadweep.
 **तिल m. :** sésame (graine) (*Sesamum indicum* L.)
 
 ::: media
-![](/images/lekt3403.jpg)
+![](/images/lekt3403.webp)
 Fig. : तिलाः
 Graines de sésame.
 (Source de l'image : [Détails](/fr/licenses#lekt3403))
 :::
 
 ::: media
-![](/images/lekt3404.jpg)
+![](/images/lekt3404.webp)
 Fig. : *Sesamum indicum* L.
 Fleuraison de la plante de sésame.
 (Source de l'image : [Détails](/fr/licenses#lekt3404))
@@ -2335,7 +2335,7 @@ Fleuraison de la plante de sésame.
 **स्वर्ण n. :** (de belle couleur =) or
 
 ::: media
-![](/images/lekt3402.jpg)
+![](/images/lekt3402.webp)
 Fig. : स्वर्णम्
 Temple d'Or (Harmandir Sahib), Amritsar.
 (Source de l'image : [Détails](/fr/licenses#lekt3402))
@@ -2352,7 +2352,7 @@ Temple d'Or (Harmandir Sahib), Amritsar.
 **ऋषभ m. :** taureau
 
 ::: media
-![](/images/lekt3401.jpg)
+![](/images/lekt3401.webp)
 Fig. : ऋषभः
 Statue du taureau Nandi, collines de Chamundi, Mysore.
 (Source de l'image : [Détails](/fr/licenses#lekt3401))
@@ -2391,7 +2391,7 @@ Statue du taureau Nandi, collines de Chamundi, Mysore.
 :::
 
 ::: media
-![](/images/lekt3502.jpg)
+![](/images/lekt3502.webp)
 Fig. : क्रामन्ति
 Personnes marchant, Sénégal.
 (Source de l'image : [Détails](/fr/licenses#lekt3502))
@@ -2411,7 +2411,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt3501.jpg)
+![](/images/lekt3501.webp)
 Fig. : जगुः
 Musiciens du temple Kaadu Malleswara Temple Bangalore.
 (Source de l'image : [Détails](/fr/licenses#lekt3501))
@@ -2437,7 +2437,7 @@ Fig. : शाक्यमुनिः
 
 वृक्ष m. : Arbre
 ::: media
-![lekt3706.jpg](/images/lekt3706.jpg)
+![lekt3706.jpg](/images/lekt3706.webp)
 Fig. : वृक्षः
 (Source de l'image : [Détails](/fr/licenses#lekt3706))
 :::
@@ -2450,7 +2450,7 @@ Fig. : वृक्षः
 सूर्य m. : Soleil, dieu-soleil Sūrya
 
 ::: media
-![](/images/lekt3802.jpg)
+![](/images/lekt3802.webp)
 Fig. : सूर्यः
 (Source de l'image : [Détails](/fr/licenses#lekt3802))
 :::
@@ -2459,7 +2459,7 @@ Fig. : सूर्यः
 उदक n. : Eau
 
 ::: media
-![](/images/lekt3805.jpg)
+![](/images/lekt3805.webp)
 Fig. : उदकम्
 (Source de l'image : [Détails](/fr/licenses#lekt3805))
 :::
@@ -2490,7 +2490,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt3804.jpg)
+![](/images/lekt3804.webp)
 Fig. : गौतमबुद्धस्य महापरिनिर्वाणम्
 (Source de l'image : [Détails](/fr/licenses#lekt3804))
 :::
@@ -2534,7 +2534,7 @@ de राज :
 ब्रह्मन् m. : le dieu créateur pensé personnellement Brahmā
 
 ::: media
-![](/images/lekt3809.jpg)
+![](/images/lekt3809.webp)
 Fig. : ब्रह्मा
 (Source de l'image : [Détails](/fr/licenses#lekt3809))
 :::
@@ -2575,13 +2575,13 @@ dont :
 :::
 
 ::: media
-![](/images/lekt3810.jpg)
+![](/images/lekt3810.webp)
 Fig. : अशोकवृक्षः
 (Source de l'image : [Détails](/fr/licenses#lekt3810))
 :::
 
 ::: media
-![](/images/lekt3811.jpg)
+![](/images/lekt3811.webp)
 Fig. : अशोकसाम्राज्यम्
 (Source de l'image : [Détails](/fr/licenses#lekt3811))
 :::
@@ -2644,7 +2644,7 @@ dont :
 :::
 
 ::: media
-![lekt4003.jpg](/images/lekt4003.jpg)
+![lekt4003.jpg](/images/lekt4003.webp)
 Fig. : हरिद्वारे तीर्थम्
 (Source de l'image : [Détails](/fr/licenses#lekt4003))
 :::
@@ -2654,7 +2654,7 @@ Fig. : हरिद्वारे तीर्थम्
 :::
 
 ::: media
-![lekt4002.jpg](/images/lekt4002.jpg)
+![lekt4002.jpg](/images/lekt4002.webp)
 Fig. : तीर्थङ्करः
 (Source de l'image : [Détails](/fr/licenses#lekt4002))
 :::
@@ -2670,7 +2670,7 @@ dont :
 :::
 
 ::: media
-![lekt4001.jpg](/images/lekt4001.jpg)
+![lekt4001.jpg](/images/lekt4001.webp)
 Fig. : विष्णोर्दशावताराः
 (Source de l'image : [Détails](/fr/licenses#lekt4001))
 :::
@@ -2694,7 +2694,7 @@ dont :
 :::
 
 ::: media
-![lekt4004.jpg](/images/lekt4004.jpg)
+![lekt4004.jpg](/images/lekt4004.webp)
 Fig. : स्वपन्ति
 (Source de l'image : [Détails](/fr/licenses#lekt4004))
 :::
@@ -2707,7 +2707,7 @@ Fig. : स्वपन्ति
 भुजङ्ग m. : serpent
 
 ::: media
-![lekt4105.jpg](/images/lekt4105.jpg)
+![lekt4105.jpg](/images/lekt4105.webp)
 Fig. : भुजङ्गः
 (Source de l'image : [Détails](/fr/licenses#lekt4105))
 :::
@@ -2717,7 +2717,7 @@ Fig. : भुजङ्गः
 विष n. : poison
 
 ::: media
-![lekt4104.jpg](/images/lekt4104.jpg)
+![lekt4104.jpg](/images/lekt4104.webp)
 Fig. : भुजङ्गस्य विषम्
 (Source de l'image : [Détails](/fr/licenses#lekt4104))
 :::
@@ -2740,7 +2740,7 @@ dont :
 :::
 
 ::: media
-![lekt4109.jpg](/images/lekt4109.jpg)
+![lekt4109.jpg](/images/lekt4109.webp)
 Fig. : शासना
 (Source de l'image : [Détails](/fr/licenses#lekt4109))
 :::
@@ -2752,7 +2752,7 @@ Fig. : शासना
 :::
 
 ::: media
-![lekt4110.jpg](/images/lekt4110.jpg)
+![lekt4110.jpg](/images/lekt4110.webp)
 Fig. : शास्त्री
 (Source de l'image : [Détails](/fr/licenses#lekt4110))
 :::
@@ -2857,7 +2857,7 @@ Inf. शंसितुम्
 ### 42.2.1. Certaines désignations de parenté
 
 ::: media
-![lekt4202.jpg](/images/lekt4202.jpg)
+![lekt4202.jpg](/images/lekt4202.webp)
 Fig. : माता, पिता, पुत्रकः
 (Source de l'image : [Détails](/fr/licenses#lekt4202))
 ::: 
@@ -2921,7 +2921,7 @@ Des rites sont accomplis pour les deux, appelés श्राद्ध n. Chaque
 आपण m. : marché
 
 ::: media
-![](/images/lekt4302.jpg)
+![](/images/lekt4302.webp)
 Fig. : आपणः
 (Source de l'image : [Détails](/fr/licenses#lekt4302))
 :::
@@ -2931,7 +2931,7 @@ Fig. : आपणः
 पण्य 3 : à vendre ; n. : marchandise, commerce
 
 ::: media
-![]/images/lekt4303.jpg
+![]/images/lekt4303.webp
 Fig. : पण्यानि
 (Source de l'image : [Détails](/fr/licenses#lekt4303))
 :::
@@ -2954,7 +2954,7 @@ Fig. : पण्यानि
 विपणि f. : boutique
 
 ::: media
-![](/images/lekt4304.jpg)
+![](/images/lekt4304.webp)
 Fig. : विपणिः
 (Source de l'image : [Détails](/fr/licenses#lekt4304))
 :::
@@ -2962,7 +2962,7 @@ Fig. : विपणिः
 वणिज् m. : commerçant
 
 ::: media
-![](/images/lekt4305.jpg)
+![](/images/lekt4305.webp)
 Fig. : वणिक्
 (Source de l'image : [Détails](/fr/licenses/lekt4305))
 :::
@@ -2974,7 +2974,7 @@ Fig. : वणिक्
 वत्स m. : veau, petit, enfant ; Voc. : mon cher
 
 ::: media
-![](/images/lekt4306.jpg)
+![](/images/lekt4306.webp)
 Fig. : वत्सः
 (Source de l'image : [Détails](/fr/licenses#lekt4306))
 :::
@@ -2996,7 +2996,7 @@ Fig. : वत्सः
 तुल् 10 तुलयति । तोलयति : peser
 
 ::: media
-![](/images/lekt4307.jpg)
+![](/images/lekt4307.webp)
 Fig. : तोलन्ति
 (Source de l'image : [Détails](/fr/licenses#lekt4307))
 :::
@@ -3070,7 +3070,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 Fig. : रेल्यानम्
 (Source de l’image : [Détails](/fr/licenses#lekt4403))
 :::
@@ -3090,7 +3090,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 Fig. : योगी शयने शेते
 (Source de l’image : [Détails](/fr/licenses#lekt4404))
 :::
@@ -3113,7 +3113,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 Fig. : नन्दी
 (Source de l’image : [Détails](/fr/licenses#lekt4405))
 :::
@@ -3139,7 +3139,7 @@ PPP आयत 3 : longuement étendu
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 Fig. : आयतो मरुः
 (Source de l’image : [Détails](/fr/licenses#lekt4406))
 :::
@@ -3164,7 +3164,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 Fig. : यत्नेन
 (Source de l’image : [Détails](/fr/licenses#lekt4407))
 :::
@@ -3193,7 +3193,7 @@ Voir :
 :::
 
 ::: media
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 Fig. : प्रव्रअज्या / पब्बजा
 (Source de l'image : [Détails](/fr/licenses#lekt4408))
 :::
@@ -3244,23 +3244,23 @@ Pour राहु et केतु voir :
 
 > **Payer, Alois &lt;1944 - &gt; : Dharmashastra : Introduction et aperçu. -- 10. Sacrements et rites de passage (samskara). -- Annexe C : Rahu et Ketu, les planètes errantes invisibles . -- URL : [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)**
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 Fig. : [सूर्यः, चन्द्रः, मङ्गलः](/fr/licenses#lekt4602)
 (Source de l'image : [Détails](/fr/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 Fig. : [बुधः, बृहस्पतिः](/fr/licenses#lekt4603)
 (Source de l'image : [Détails](/fr/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 Fig. : [शुक्रः, शनिः](/fr/licenses#lekt4604)
 (Source de l'image : [Détails](/fr/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 Fig. : [राहुः, केतुः](/fr/licenses#lekt4605)
 (Source de l'image : [Détails](/fr/licenses#lekt4605))
 :::
@@ -3289,7 +3289,7 @@ Infinitif नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 Fig. : [नारायण तुभ्यं नमामि](/fr/licenses#lekt4607)
 (Source de l'image : [Détails](/fr/licenses#lekt4607))
 :::
@@ -3307,7 +3307,7 @@ Infinitif रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 Fig. : [अश्वरोहकः](/fr/licenses#lekt4606)
 (Source de l'image : [Détails](/fr/licenses#lekt4606))
 :::
@@ -3326,7 +3326,7 @@ Absolutif -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 Fig. : [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/fr/licenses#lekt4608)
 (Source de l'image : [Détails](/fr/licenses#lekt4608))
 :::
@@ -3355,7 +3355,7 @@ dérivé :
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 Fig. : [श्रान्तः](/fr/licenses#lekt4609)
 (Source de l'image : [Détails](/fr/licenses#lekt4609))
 :::
@@ -3386,7 +3386,7 @@ dont :
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 Fig. : [सङ्गः](/fr/licenses#lekt4610)
 (Source de l'image : [Détails](/fr/licenses#lekt4610))
 :::
@@ -3454,7 +3454,7 @@ par ex.
 भोस् Particule vocative : exclamation d'appel, par ex. : hé, hola, oh, hé, bonjour, salut ! souvent non traduisible. Cette particule a un sandhi spécial : devant tous les sons sonores, il est ***भो***.
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 Fig. : [भोः](/fr/licenses#lekt4611)
 (Source de l'image : [Détails](/fr/licenses#lekt4611))
 :::
@@ -3473,14 +3473,14 @@ Fig. : [भोः](/fr/licenses#lekt4611)
 तन्त्र n. : corde ; métier à tisser, chaîne de tissage, tissu ; fondement, norme, règle ; doctrine, œuvre d'enseignement ; Tantra ; formule magique ; moyen, astuce, remède ; gouvernement, autorité
 
 ::: media
-![](/images/lekt4802.jpg)
+![](/images/lekt4802.webp)
 Fig. : तन्त्रम्
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Source de l'image : [Détails](/fr/licenses#lekt4802))
 :::
 
 ::: media
-![](/images/lekt4803.jpg)
+![](/images/lekt4803.webp)
 Fig. : तन्त्री
 Joueur de sitar = सितारवादकः
 (Source de l'image : [Détails](/fr/licenses#lekt4803))
@@ -3504,7 +3504,7 @@ Déclinaison :
 :::
 
 ::: media
-![](/images/lekt4804.jpg)
+![](/images/lekt4804.webp)
 Fig. : स्वतन्त्राः स्त्रियः
 [Groupe d'entraide (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Source de l'image : [Détails](/fr/licenses#lekt4804))
@@ -3517,7 +3517,7 @@ Fig. : स्वतन्त्राः स्त्रियः
 कुमार m. : enfant, jeune homme, prince ; épithète de कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
-![](/images/lekt4805.jpg)
+![](/images/lekt4805.webp)
 Fig. : कुमारः
 Festival Thaipusam = தைப்பூசம், Batu Caves, Malaisie
 (Source de l'image : [Détails](/fr/licenses#lekt4805))
@@ -3526,7 +3526,7 @@ Festival Thaipusam = தைப்பூசம், Batu Caves, Malaisie
 कुमारी f. : fille, jeune fille
 
 ::: media
-![](/images/lekt4806.jpg)
+![](/images/lekt4806.webp)
 Fig. : कुमारी
 नेपाल
 (Source de l'image : [Détails](/fr/licenses#lekt4806))
@@ -3539,7 +3539,7 @@ Fig. : कुमारी
 स्थविर 3 : vieux, âgé
 
 ::: media
-![](/images/lekt4807.jpg)
+![](/images/lekt4807.webp)
 Fig. : स्थविराः
 जोधपुर
 (Source de l'image : [Détails](/fr/licenses#lekt4807))
@@ -3552,7 +3552,7 @@ Fig. : स्थविराः
 सूक्ष्म 3 : fin, minuscule, subtil
 
 ::: media
-![](/images/lekt4808.jpg)
+![](/images/lekt4808.webp)
 Fig. : सूक्ष्मम्
 Lac Karanji = ಕಾರಂಜಿ ಕೆರೆ
 (Source de l'image : [Détails](/fr/licenses#lekt4808))
@@ -3569,7 +3569,7 @@ Lac Karanji = ಕಾರಂಜಿ ಕೆರೆ
 जाया f. : épouse
 
 ::: media
-![](/images/lekt4809.jpg)
+![](/images/lekt4809.webp)
 Fig. : मम जाया
 (Image: Payer)
 (Source de l'image : [Détails](/fr/licenses#lekt4809))
@@ -3634,7 +3634,7 @@ Inf. द्रोग्धुम्
 कुलूहल n. : curiosité, intérêt
 
 ::: media
-![](/images/lekt4901.jpg)
+![](/images/lekt4901.webp)
 Fig. : कुलूहलम्
 (Source de l'image : [Détails](/fr/licenses#lekt4901))
 :::
@@ -3645,7 +3645,7 @@ Fig. : कुलूहलम्
 कला f. : art
 
 ::: media
-![](/images/lekt4902.jpg)
+![](/images/lekt4902.webp)
 Fig. : उत्तमा काला
 शिवो नटराजा, XIe s.
 (Source de l'image : [Détails](/fr/licenses#lekt4902))
@@ -3664,7 +3664,7 @@ Fig. : विहंगः
 वेष m. : vêtement, apparence, extérieur
 
 ::: media
-![](/images/lekt4904.jpg)
+![](/images/lekt4904.webp)
 Fig. : वेषः
 वाराणस्याम्
 (Source de l'image : [Détails](/fr/licenses#lekt4904))
@@ -3674,7 +3674,7 @@ Fig. : वेषः
 पञ्जर n. : cage
 
 ::: media
-![](/images/lekt4909.jpg)
+![](/images/lekt4909.webp)
 Fig. : पञ्जरम्
 Devin avec perroquet dans une cage : le perroquet tire des billets sur lesquels le destin est écrit Mysore
 (Source de l'image : [Détails](/fr/licenses#lekt4909))
@@ -3702,7 +3702,7 @@ Gérondif ध्येय
 आदर m. : considération, attention, respect
 
 ::: media
-![](/images/lekt4905.jpg)
+![](/images/lekt4905.webp)
 Fig. : सादरः
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Source de l'image : [Détails](/fr/licenses#lekt4905))
@@ -3714,7 +3714,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 शिशु m. : enfant, petit
 
 ::: media
-![](/images/lekt4906.jpg)
+![](/images/lekt4906.webp)
 Fig. : गजशिशुः
 Sri Lanka
 (Source de l'image : [Détails](/fr/licenses#lekt4906))
@@ -3817,14 +3817,14 @@ Déclinaison comme यद् (exception : Nom.Acc.sg.Neutre)
 कल्याण 3 (f. : कल्याणी) : beau
 
 ::: media
-![](/images/lekt5003.jpg)
+![](/images/lekt5003.webp)
 Fig. : कल्याणी
 (Source de l'image : [Détails](/fr/licenses#lekt5003))
 :::
 कु- : comme préfixe dans les composés : mauvais
 
 ::: media
-![](/images/lekt5004.jpg)
+![](/images/lekt5004.webp)
 Fig. : कुनगरम्
 धारावी, मुंबई
 (Source de l'image : [Détails](/fr/licenses#lekt5004))
@@ -3848,7 +3848,7 @@ non utilisé dans les autres temps
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193s.
 
 ::: media
-![](/images/lekt5105.jpg)
+![](/images/lekt5105.webp)
 Fig. :
 (Source de l'image : [Détails](/fr/licenses#lekt5105))
 :::
@@ -3877,7 +3877,7 @@ Fig. : ऋतुः
 जटा f. : tresse de cheveux (coiffure de l'ascète)
 
 ::: media
-![](/images/lekt5107.jpg)
+![](/images/lekt5107.webp)
 Fig. : जटा
 ऋषिकेश
 (Source de l'image : [Détails](/fr/licenses#lekt5107))
@@ -3932,7 +3932,7 @@ PPP गर्हित
 पिशित n. : (viande préparée) viande
 
 ::: media
-![](/images/lekt5108.jpg)
+![](/images/lekt5108.webp)
 Fig. : पिशितम्
 Kolkata = কলকাতা
 (Source de l'image : [Détails](/fr/licenses#lekt5108))
@@ -3942,7 +3942,7 @@ Kolkata = কলকাতা
 मधु n. : miel, breuvage sucré, hydromel (vin de miel)
 
 ::: media
-![](/images/lekt5109.jpg)
+![](/images/lekt5109.webp)
 Fig. : मधु
 City Palace, उदयपुर
 (Source de l'image : [Détails](/fr/licenses#lekt5109))
@@ -3952,7 +3952,7 @@ City Palace, उदयपुर
 मृगया f. : chasse
 
 ::: media
-![](/images/lekt5110.jpg)
+![](/images/lekt5110.webp)
 Fig. : मृगया
 Chasse avec चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Source de l'image : [Détails](/fr/licenses#lekt5110))
@@ -3960,7 +3960,7 @@ Chasse avec चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજર�
 शिवा f. : (femelle) chacal (chacal doré = _Canis aureus_)
 
 ::: media
-![](/images/lekt5111.jpg)
+![](/images/lekt5111.webp)
 Fig. : शिवा
 _Canis aureus_, sanctuaire de Kalatop Khajjiar
 (Source de l'image : [Détails](/fr/licenses#lekt5111))
@@ -3970,7 +3970,7 @@ _Canis aureus_, sanctuaire de Kalatop Khajjiar
 कौशिक m. : hibou
 
 ::: media
-![](/images/lekt5112.jpg)
+![](/images/lekt5112.webp)
 Fig. : कौशिकः
 Hibou de Brahma (_Athene brama_), Mahesana = મહેસાણા
 (Source de l'image : [Détails](/fr/licenses#lekt5112))
@@ -4000,7 +4000,7 @@ Karnataka = ಕರ್ನಾಟಕ
 आपान(क) n. : orgie
 
 ::: media
-![](/images/lekt5114.jpg)
+![](/images/lekt5114.webp)
 Fig. : आपानकम्
 जोधपुर
 (Source de l'image : [Détails](/fr/licenses#lekt5114))
@@ -4020,7 +4020,7 @@ PPP दिग्ध
 विष n. : poison
 
 ::: media
-![](/images/lekt5115.jpg)
+![](/images/lekt5115.webp)
 Fig. : मूषिकाविषाणि
 Bangalore = ಬೆಂಗಳೂರು
 (Source de l'image : [Détails](/fr/licenses#lekt5115))
@@ -4028,7 +4028,7 @@ Bangalore = ಬೆಂಗಳೂರು
 भुजंग m. : serpent
 
 ::: media
-![](/images/lekt5116.jpg)
+![](/images/lekt5116.webp)
 Fig. : भुजंगः
 Vipère à chaînes (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Source de l'image : [Détails](/fr/licenses#lekt5116))
@@ -4054,7 +4054,7 @@ Vipère à chaînes (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 मणि m. : joyau
 
 ::: media
-![](/images/lekt5118.jpg)
+![](/images/lekt5118.webp)
 Fig. : मणिः
 Diamond Hope provenant de Guntur = గుంటూరు, aujourd'hui au Smithsonian Museum of Natural History, Washington DC
 (Source de l'image : [Détails](/fr/licenses#lekt5118))
@@ -4064,7 +4064,7 @@ Diamond Hope provenant de Guntur = గుంటూరు, aujourd'hui au Smithso
 मद m. : aussi "sève de rut" d'un éléphant (dans le [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
-![](/images/lekt5117.jpg)
+![](/images/lekt5117.webp)
 Fig. : मदः
 (Source de l'image : [Détails](/fr/licenses#lekt5117))
 :::
@@ -4100,7 +4100,7 @@ de :
 :::
 
 ::: media
-![](/images/lekt5210.jpg)
+![](/images/lekt5210.webp)
 Fig. : खिलः
 Tambhol, Akole, Ahmednagar = अहमदनगर
 (Source de l'image : [Détails](/fr/licenses#lekt5210))
@@ -4134,7 +4134,7 @@ PPP विपरीत 3 : inversé, faux
 पीड् 10P पीडयति : presser, tourmenter ; opprimer, assièger, tourmenter
 
 ::: media
-![](/images/lekt5212.jpg)
+![](/images/lekt5212.webp)
 Fig. : पीडिताः
 Hyderabad = హైదరాబాద్
 (Source de l'image : [Détails](/fr/licenses#lekt5212))
@@ -4152,7 +4152,7 @@ dont :
 प्रधान 3 : principal, meilleur ; n. : l'essentiel
 
 ::: media
-![](/images/lekt5213.jpg)
+![](/images/lekt5213.webp)
 Fig. : प्रधानः
 मुंबई
 (Source de l'image : [Détails](/fr/licenses#lekt5213))
@@ -4262,7 +4262,7 @@ PPP च्युत
 चक्र n. : roue
 
 ::: media
-![](/images/lekt5214.jpg)
+![](/images/lekt5214.webp)
 Fig. : चक्रम्
 Konark = कोनार्क
 (Source de l'image : [Détails](/fr/licenses#lekt5214))
@@ -4270,7 +4270,7 @@ Konark = कोनार्क
 कदली f. : bananier (_Musa_ sp.)
 
 ::: media
-![](/images/lekt5208.jpg)
+![](/images/lekt5208.webp)
 Fig. : कदली
 Hampi = ಹಂಪೆ
 (Source de l'image : [Détails](/fr/licenses#lekt5208))
@@ -4286,7 +4286,7 @@ Hampi = ಹಂಪೆ
 मल m.n. : saleté, défaut
 
 ::: media
-![](/images/lekt5215.jpg)
+![](/images/lekt5215.webp)
 Fig. : मलम्
 मुंबई
 (Source de l'image : [Détails](/fr/licenses#lekt5215))
@@ -4296,7 +4296,7 @@ Fig. : मलम्
 मार m. : le mal personnifié, la séduction/manipulation personnifiée, le diable
 
 ::: media
-![](/images/lekt5217.jpg)
+![](/images/lekt5217.webp)
 Fig. :
 Amaravati = అమరావతి, 2e siècle apr. J.-C.
 (Source de l'image : [Détails](/fr/licenses#lekt5217))

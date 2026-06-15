@@ -160,7 +160,7 @@ Secondo la teoria classica (ad es. Manusmṛti I, 88-91) i compiti sono distribu
 I quattro ordini (**varṇa** m.) sono spesso confusi con le caste. I quattro ordini, tuttavia, -- a differenza delle caste -- non sono qualcosa di specificamente indiano; anche in Europa avevamo (in parte fino alla Prima Guerra Mondiale) un ordine sociale, come dimostra la seguente illustrazione del XV secolo:
 
 ::: media
-![](/images/lekt0201.jpg)
+![](/images/lekt0201.webp)
 Fig.: Rappresentazione della suddivisione degli ordini nell'Europa medievale (xilografia della fine del XV secolo).
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0201))
 :::
@@ -212,7 +212,7 @@ Fig.: Dio Agni, miniatura, 18° sec.
 **sādhu** m. -- साधु : uomo «sacro», Sādhu.
 
 ::: media
-![](/images/lekt0202.jpg)
+![](/images/lekt0202.webp)
 Fig.: Sādhu (साधु), Tempio Pashupatinath, Katmandu.
 (Fonte immagine: [Dettagli](/it/licenses#lekt0202))
 :::

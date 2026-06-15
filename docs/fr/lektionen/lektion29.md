@@ -73,7 +73,7 @@ Inf. ग्रसितुम्
 परिव्राजक m. : vagabond, moine itinérant, pèlerin
 
 ::: media
-![](/images/lekt2903.jpg)
+![](/images/lekt2903.webp)
 Fig. : परिव्राजकाः
 Pushkar = पुष्कर
 (Source de l’image : [Détails](/fr/licenses#lekt2903))
@@ -93,7 +93,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt2901.jpg)
+![](/images/lekt2901.webp)
 Fig. : मत्स्यः
 रोहू मछली = Labeo rohita Hamilton
 (Source de l’image : [Détails](/fr/licenses#lekt2901))

@@ -266,7 +266,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt4801.jpg)
+![](/images/lekt4801.webp)
 Рис.: वैयाघ्रं विजृम्भणम्
 (Джерело зображення: [Деталі](/uk/licenses#lekt4801))
 :::
@@ -284,14 +284,14 @@ status: stable
 तन्त्र n.: струна ; верстат, нитки основи, тканина ; основа, норма, правило ; вчення, підручник ; тантра ; чарівна формула ; засіб, трюк, ліки ; уряд, авторитет
 
 ::: media
-![](/images/lekt4802.jpg)
+![](/images/lekt4802.webp)
 Рис.: तन्त्रम्
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Джерело зображення: [Деталі](/uk/licenses#lekt4802))
 :::
 
 ::: media
-![](/images/lekt4803.jpg)
+![](/images/lekt4803.webp)
 Рис.: तन्त्री
 Гравці на ситарах = सितारवादकः
 (Джерело зображення: [Деталі](/uk/licenses#lekt4803))
@@ -315,7 +315,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 :::
 
 ::: media
-![](/images/lekt4804.jpg)
+![](/images/lekt4804.webp)
 Рис.: स्वतन्त्राः स्त्रियः
 [Група самопомочі (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Джерело зображення: [Деталі](/uk/licenses#lekt4804))
@@ -328,7 +328,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 कुमार m.: дитина, юнак, принц; епітет कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
-![](/images/lekt4805.jpg)
+![](/images/lekt4805.webp)
 Рис.: कुमारः
 Свято Thaipusam = தைப்பூசம், Batu Caves, Малайзія
 (Джерело зображення: [Деталі](/uk/licenses#lekt4805))
@@ -337,7 +337,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 कुमारी f.: дівчина, дочка
 
 ::: media
-![](/images/lekt4806.jpg)
+![](/images/lekt4806.webp)
 Рис.: कुमारी
 नेपाल
 (Джерело зображення: [Деталі](/uk/licenses#lekt4806))
@@ -350,7 +350,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 स्थविर 3: старий, літній
 
 ::: media
-![](/images/lekt4807.jpg)
+![](/images/lekt4807.webp)
 Рис.: स्थविराः
 जोधपुर
 (Джерело зображення: [Деталі](/uk/licenses#lekt4807))
@@ -363,7 +363,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 सूक्ष्म 3: тонкий, крихітний, делікатний
 
 ::: media
-![](/images/lekt4808.jpg)
+![](/images/lekt4808.webp)
 Рис.: सूक्ष्मम्
 Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 (Джерело зображення: [Деталі](/uk/licenses#lekt4808))
@@ -380,7 +380,7 @@ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 जाया f.: дружина
 
 ::: media
-![](/images/lekt4809.jpg)
+![](/images/lekt4809.webp)
 Рис.: मम जाया
 (Зображення: Пайер)
 (Джерело зображення: [Деталі](/uk/licenses#lekt4809))

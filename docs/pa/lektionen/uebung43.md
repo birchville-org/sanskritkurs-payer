@@ -68,7 +68,7 @@ A) निम्नलिखित क्रिया रूपों के ल�
 :::
 
 ::: media
-![](/images/uebung070.jpg)
+![](/images/uebung070.webp)
 अभि.: दिशसि
 (चित्र स्रोत: [विवरण](/licenses#uebung070))
 :::

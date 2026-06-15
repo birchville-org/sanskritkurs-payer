@@ -59,7 +59,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2601.jpg)
+![](/images/lekt2601.webp)
 Рис.: Герман Грамм
 (Источник изображения: [Подробности](/ru/licenses#lekt2601))
 :::
@@ -93,7 +93,7 @@ status: stable
 
 
 ::: media
-![](/images/lekt2602.jpg)
+![](/images/lekt2602.webp)
 Рис.: व्रतं करिष्यन्देवगृहं गच्छति
 (Источник изображения: [Подробности](/ru/licenses#lekt2602))
 :::

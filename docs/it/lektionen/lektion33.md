@@ -259,7 +259,7 @@ di cui:
 :::
 
 ::: media
-![](/images/lekt3306.jpg)
+![](/images/lekt3306.webp)
 Fig.: दानम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3306))
 :::
@@ -271,7 +271,7 @@ Fig.: दानम्
 :::
 
 ::: media
-![](/images/lekt3307.jpg)
+![](/images/lekt3307.webp)
 Fig.: सा पुत्रमादाय भारं बिभ्रती गच्छति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3307))
 :::
@@ -295,7 +295,7 @@ di cui:
 :::
 
 ::: media
-![](/images/lekt3305.jpg)
+![](/images/lekt3305.webp)
 Fig.: समाधि
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3305))
 :::
@@ -332,7 +332,7 @@ di cui:
 :::
 
 ::: media
-![](/images/lekt3304.jpg)
+![](/images/lekt3304.webp)
 Fig.: भयम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3304))
 :::
@@ -385,7 +385,7 @@ da PPP **हीन**:
 :::
 
 ::: media
-![](/images/lekt3303.jpg)
+![](/images/lekt3303.webp)
 Fig.: हीनयानमेव
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3303))
 :::
@@ -401,7 +401,7 @@ Fig.: हीनयानमेव
 :::
 
 ::: media
-![](/images/lekt3302.jpg)
+![](/images/lekt3302.webp)
 Fig.: घृतमग्नौ जुहोति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3302))
 
@@ -448,7 +448,7 @@ C) Tradurre e trasformare le frasi singolari in plurali e viceversa:
 ब्राह्मणा भारं न बिभ्रतीति ब्राह्मणदासो भारं गृहमबिभः ॥३॥
 
 ::: media
-![](/images/lekt3308.jpg)
+![](/images/lekt3308.webp)
 Fig.: पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3308))
 :::

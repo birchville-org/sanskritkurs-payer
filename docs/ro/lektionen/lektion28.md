@@ -47,7 +47,7 @@ Rezultat: रामो वेदमधीते "Rāma studiază Veda"
 Rezultat: देवा अमृतमश्नन्ति "Zeii mănâncă hrana nemuririi"
 
 ::: media
-![](/images/lekt2802.jpg)
+![](/images/lekt2802.webp)
 Fig.: स नरान्प्रबन्धविज्ञानमध्यापयति
 Templul ISKCON Bangalore.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2801))
@@ -81,7 +81,7 @@ Cel care a așezat pământul în apă.
 :::
 
 ::: media
-![](/images/lekt2801.jpg)
+![](/images/lekt2801.webp)
 Fig.: स मे श्रीहरिगतिः
 Clădirea de management a Universității Jadavpur.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2802))
@@ -382,7 +382,7 @@ Inf. **kāmayitum** / **kamitum**
 :::
 
 ::: media
-![](/images/lekt2804.jpg)
+![](/images/lekt2804.webp)
 Fig.: कृष्णो राधां कामयति
 Pictură de राजा रवि वर्मा (1848 - 1906)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2804))
@@ -406,7 +406,7 @@ Inf. **coritum**
 :::
 
 ::: media
-![](/images/lekt2803.jpg)
+![](/images/lekt2803.webp)
 Fig.: वीणां वादयति
 Vīṇā-Spielerin.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2803))
@@ -415,7 +415,7 @@ Vīṇā-Spielerin.
 **भार** m.: povară
 
 ::: media
-![](/images/lekt2805.jpg)
+![](/images/lekt2805.webp)
 Fig.: बाला भारं हरति
 Fetiță poartă povara. Lângă Ahmedabad.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2805))

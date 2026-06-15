@@ -121,7 +121,7 @@ What do Brahmins eat and drink?
 ब्राह्मणैः किं पीतं खादितं च ॥
 
 ::: media
-![](/images/uebung019.jpg)
+![](/images/uebung019.webp)
 Fig.: अग्निर्गृहं दहति ।
 (Image source: [Details](/en/licenses#uebung019))
 :::
@@ -270,7 +270,7 @@ E) Translate into Sanskrit:
 यजकैः सोमः सुतः ॥
 
 ::: media
-![](/images/uebung018.jpg)
+![](/images/uebung018.webp)
 Fig.: बाला जलं पिबति । बालया जलं पीयते ।
 (Image source: [Details](/en/licenses#uebung018))
 :::

@@ -223,7 +223,7 @@ davon:
 धान्य n.:  gedroschenes Getreide
 
 ::: media
-![](/images/lekt2501.jpg)
+![](/images/lekt2501.webp)
 Abb.: धान्यम्
 (Bildquelle: [Details](/licenses#lekt2501))
 :::
@@ -310,7 +310,7 @@ davon:
 मूल n.: Wurzel
 
 ::: media
-![](/images/lekt2502.jpg)
+![](/images/lekt2502.webp)
 Abb.: मूलानि
 (Bildquelle: [Details](/licenses#lekt2502))
 :::
@@ -330,7 +330,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt2503.jpg)
+![](/images/lekt2503.webp)
 Abb.: लिप्तिः
 (Bildquelle: [Details](/licenses#lekt2503))
 :::
@@ -355,7 +355,7 @@ davon:
 :::
 
 ::: media
-![](/images/lekt2504.jpg)
+![](/images/lekt2504.webp)
 Abb.: विवाहः
 (Bildquelle: [Details](/licenses#lekt2504))
 :::
@@ -374,7 +374,7 @@ davon:
 विष्टि f.: Arbeit, Frondienst
 
 ::: media
-![](/images/lekt2505.jpg)
+![](/images/lekt2505.webp)
 Abb.: विष्टिः
 (Bildquelle: [Details](/licenses#lekt2505))
 :::
@@ -402,7 +402,7 @@ davon:
 हिरण्य ३ : golden ; n.: Gold, Geld, Reichtum
 
 ::: media
-![](/images/lekt2506.jpg)
+![](/images/lekt2506.webp)
 Abb.: हिरण्यम्
 (Bildquelle: [Details](/licenses#lekt2506))
 :::
@@ -461,7 +461,7 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 लोकादधिको हरिः ॥१७॥ (हरi m. = विष्णु / कृष्ण)
 
 ::: media
-![](/images/lekt2507.jpg)
+![](/images/lekt2507.webp)
 Abb.: लोकादधिको हरिः
 :::
 

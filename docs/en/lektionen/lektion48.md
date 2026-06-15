@@ -266,7 +266,7 @@ e.g. **व्याघ्र** m. "tiger" » **वैयाघ्र** 3 "origin
 :::
 
 ::: media
-![](/images/lekt4801.jpg)
+![](/images/lekt4801.webp)
 Fig.: वैयाघ्रं विजृम्भणम्
 (Image source: [Details](/en/licenses#lekt4801))
 :::
@@ -284,14 +284,14 @@ Fig.: वैयाघ्रं विजृम्भणम्
 तन्त्र n.: string; loom, warp, fabric; foundation, norm, rule; doctrine, textbook; Tantra; magical formula; means, trick, medicine; government, authority
 
 ::: media
-![](/images/lekt4802.jpg)
+![](/images/lekt4802.webp)
 Fig.: तन्त्रम्
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Image source: [Details](/en/licenses#lekt4802))
 :::
 
 ::: media
-![](/images/lekt4803.jpg)
+![](/images/lekt4803.webp)
 Fig.: तन्त्री
 Sitar player = सितारवादकः
 (Image source: [Details](/en/licenses#lekt4803))
@@ -315,7 +315,7 @@ Declension:
 :::
 
 ::: media
-![](/images/lekt4804.jpg)
+![](/images/lekt4804.webp)
 Fig.: स्वतन्त्राः स्त्रियः
 [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Image source: [Details](/en/licenses#lekt4804))
@@ -328,7 +328,7 @@ Fig.: स्वतन्त्राः स्त्रियः
 कुमार m.: child, youth, prince; epithet of कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
-![](/images/lekt4805.jpg)
+![](/images/lekt4805.webp)
 Fig.: कुमारः
 Thaipusam festival = தைப்பூசம், Batu Caves, Malaysia
 (Image source: [Details](/en/licenses#lekt4805))
@@ -337,7 +337,7 @@ Thaipusam festival = தைப்பூசம், Batu Caves, Malaysia
 कुमारी f.: girl, daughter
 
 ::: media
-![](/images/lekt4806.jpg)
+![](/images/lekt4806.webp)
 Fig.: कुमारी
 नेपाल
 (Image source: [Details](/en/licenses#lekt4806))
@@ -350,7 +350,7 @@ Fig.: कुमारी
 स्थविर 3: old, aged
 
 ::: media
-![](/images/lekt4807.jpg)
+![](/images/lekt4807.webp)
 Fig.: स्थविराः
 जोधपुर
 (Image source: [Details](/en/licenses#lekt4807))
@@ -363,7 +363,7 @@ Fig.: स्थविराः
 सूक्ष्म 3: fine, tiny, subtle
 
 ::: media
-![](/images/lekt4808.jpg)
+![](/images/lekt4808.webp)
 Fig.: सूक्ष्मम्
 Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 (Image source: [Details](/en/licenses#lekt4808))
@@ -380,7 +380,7 @@ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 जाया f.: wife
 
 ::: media
-![](/images/lekt4809.jpg)
+![](/images/lekt4809.webp)
 Fig.: मम जाया
 (Image: Payer)
 (Image source: [Details](/en/licenses#lekt4809))

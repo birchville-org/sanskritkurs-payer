@@ -39,7 +39,7 @@ Furmà il correspundent aorist per las suandantas formas da present u perfet:
 :::
 
 ::: media
-![](/images/uebung093.jpg)
+![](/images/uebung093.webp)
 Abb.: अगायि
 (Fontana da l'imaginescha: [Detagls](/licenses#uebung093))
 :::

@@ -91,7 +91,7 @@ de ex. अन्नमय n. "abundență de hrană"
 :::
 
 ::: media
-![](/images/lekt5202.jpg)
+![](/images/lekt5202.webp)
 Fig.: अन्नमयम्
 विवाहः, Chennai = சென்னை
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5202))
@@ -111,7 +111,7 @@ de ex. कौन्तेय m. "Fiul lui कुन्ती"
 :::
 
 ::: media
-![](/images/lekt5203.jpg)
+![](/images/lekt5203.webp)
 Fig.: भीमः कौन्तेयः
 Figură Wayang, Java, Indonezia
 (Sursă imagine: [Detalii](/ro/licenses#lekt5203))
@@ -135,7 +135,7 @@ Figură Wayang, Java, Indonezia
     नित्यशस् "în mod constant"
 :::
 ::: media
-![](/images/lekt5204.jpg)
+![](/images/lekt5204.webp)
 Fig.: अनुक्रमेणैकशः
 Coadă de așteptare în fața templului, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5204))
@@ -180,7 +180,7 @@ Finalul substantivului este tratat astfel:
     De exemplu, तिर्यक्करोति "el aruncă lateral (तिर्यच्)"
 :::
 ::: media
-![](/images/lekt5209.jpg)
+![](/images/lekt5209.webp)
 Fig.: भस्मीकृतं वनम्
 Arare cu tăiere și ardere, Arunachal Pradesh = अरुणाचल प्रदेश
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5209))
@@ -392,7 +392,7 @@ Exemplu:
 :::
 
 ::: media
-![](/images/lekt5205.jpg)
+![](/images/lekt5205.webp)
 Fig.: चतुर्मुखः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5205))
 :::
@@ -427,7 +427,7 @@ Cele șapte stele = cei șapte cei mai strălucitori steți ai Ursa Majoră (Urs
     pañca + go » pañcagava (nu este permis ca cuvânt independent!) + dhana » पञ्चगवधन m. "cel al cărui bogăție constă în cinci boi"
 :::
 ::: media
-![](/images/lekt5207.jpg)
+![](/images/lekt5207.webp)
 Fig.: षण्मातुरः कार्त्तिकेय:
 Jalakandapuram = ஜலகண்டபுரம்
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5207))
@@ -472,7 +472,7 @@ de la:
 :::
 
 ::: media
-![](/images/lekt5210.jpg)
+![](/images/lekt5210.webp)
 Fig.: खिलः
 Tambhol, Akole, Ahmednagar = अहमदनगर
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5210))
@@ -506,7 +506,7 @@ PPP विपरीत 3: greșit, fals
 पीड् 10P पीडयति : a apăsa, a chinui ; a asedia, a asedia, a chinui
 
 ::: media
-![](/images/lekt5212.jpg)
+![](/images/lekt5212.webp)
 Fig.: पीडिताः
 Hyderabad = హైదరాబాద్
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5212))
@@ -524,7 +524,7 @@ din acesta:
 प्रधान 3: principal, cel mai bun ; n.: cel mai important
 
 ::: media
-![](/images/lekt5213.jpg)
+![](/images/lekt5213.webp)
 Fig.: प्रधानः
 मुंबई
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5213))
@@ -635,7 +635,7 @@ PPP च्युत
 चक्र n.: roată
 
 ::: media
-![](/images/lekt5214.jpg)
+![](/images/lekt5214.webp)
 Abb.: चक्रम्
 Konark = कोनार्क
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5214))
@@ -643,7 +643,7 @@ Konark = कोनार्क
 कदली f.: bananier (_Musa_ sp.)
 
 ::: media
-![](/images/lekt5208.jpg)
+![](/images/lekt5208.webp)
 Abb.: कदली
 Hampi = ಹಂಪೆ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5208))
@@ -659,7 +659,7 @@ Hampi = ಹಂಪೆ
 मल m.n.: murdărie, defect
 
 ::: media
-![](/images/lekt5215.jpg)
+![](/images/lekt5215.webp)
 Abb.: मलम्
 मुंबई
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5215))
@@ -669,7 +669,7 @@ Abb.: मलम्
 मार m.: răul personificat, tentația/personificarea manipulării, diavolul
 
 ::: media
-![](/images/lekt5217.jpg)
+![](/images/lekt5217.webp)
 Abb.:
 Amaravati = అమరావతి, sec. II d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5217))
@@ -736,7 +736,7 @@ Explicații:
 ४. अश्वघोष (sec. II d.Hr.): बुद्धचरित ४ Înțelepciunea eliberatoare a lui Buddha
 
 ::: media
-![](/images/lekt5216.jpg)
+![](/images/lekt5216.webp)
 Fig.: अश्वत्थो महाबोधिवृक्षः
 _Ficus religiosa_ L. बोधगया, circa 1810
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5216))
@@ -819,7 +819,7 @@ Cu Lecția 52 se încheie primul semestru (13 săptămâți x 4 ore de curs) al 
      **Winternitz, Moriz &lt;1863 - 1937&gt;: Istoria literaturii indiene. Stuttgart : Koehler. -- 3 vol. -- 1908 - 1922 (încă cea mai bună istorie a literaturii sanscrite, pali și prakrit)
 
 ::: media
-![](/images/lekt5201.jpg)
+![](/images/lekt5201.webp)
 Fig.: श्रीगुम्पिः , मम मन्त्री
 (Imagine: Payer)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5201))

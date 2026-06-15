@@ -68,7 +68,7 @@ Buddha și arhanții sunt eliberați de suferință. Ei au atins, într-adevăr,
 Din lăcomie, ură și neștiință, oamenii se pierd. Când vine timpul, ei cad într-o iad.
 
 ::: media
-![](/images/uebung040.jpg)
+![](/images/uebung040.webp)
 Fig.: लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति
 (Sursa imaginii: [Detalii](/licenses#uebung040))
 :::
@@ -120,7 +120,7 @@ Dacă cineva, din mândrie, lăcomie, mânie sau frică, pronunță o sentință
 Iadurile iau naștere din rău, răul provine din sărăcie, sărăcia provine din ne-dăruire.
 
 ::: media
-![](/images/uebung041.jpg)
+![](/images/uebung041.webp)
 Fig.: भवन्ति नरकाः पापात्
 (Sursa imaginii: [Detalii](/licenses#uebung041))
 :::
@@ -137,7 +137,7 @@ Un hoit este eliberat de vinovăția furtului prin pedeapsă sau prin eliberare.
 Economia este utilă, deoarece produce cereale, animale, aur, metale și muncă.
 
 ::: media
-![](/images/uebung042.jpg)
+![](/images/uebung042.webp)
 Fig.: वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी
 (Sursa imaginii: [Detalii](/licenses#uebung042))
 :::

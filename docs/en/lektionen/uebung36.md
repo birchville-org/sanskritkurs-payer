@@ -68,7 +68,7 @@ A twice-born person, who has studied the Veda, knows the right and custom of the
 One cannot live solely from science. Whoever knows this should not study.
 
 ::: media
-![](/images/uebung061.jpg)
+![](/images/uebung061.webp)
 Fig.: विद्ययैव जीवितुं न शक्यते
 (Image source: [Details](/en/licenses#uebung061))
 :::
@@ -96,7 +96,7 @@ One should greet the elderly with proper form, yield one’s seat to them, and s
 If a man neither rejoices nor grieves, whether he hears, touches, sees, tastes, or smells, then he is considered one who has conquered his senses (**जितेन्द्रियः**).
 
 ::: media
-![](/images/uebung060.jpg)
+![](/images/uebung060.webp)
 Fig.: भुक्त्वा घ्रात्वा च न हृष्यति ग्लायति वा
 (Image source: [Details](/en/licenses#uebung060))
 :::
@@ -149,7 +149,7 @@ Determine and translate the following word forms:
 :::
 
 ::: media
-![](/images/uebung059.jpg)
+![](/images/uebung059.webp)
 Fig.: जगौ
 (Image source: [Details](/en/licenses#uebung059))
 :::

@@ -838,14 +838,14 @@ Poemul are patru secțiuni:
 भट्टिकाव्य a fost compus între anii 495 și 641 d.Hr.
 
 ::: media
-![](/images/lekt5902.jpg)
+![](/images/lekt5902.webp)
 Fig.: रावणः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5902))
 :::
 Secțiunea următoare reprezintă începutul celui de-al 15-lea cântec, dedicat aoristului. रावण, regele demonilor, care i-a răpit soția lui राम, an सीता, își trimite fratele कुम्भकर्ण ("UrechideTortei"), care, ca pedeapsă pentru faptele sale rele, se află într-un fel de somn permanent.
 
 ::: media
-![](/images/lekt5903.jpg)
+![](/images/lekt5903.webp)
 Fig.: कुम्भकर्णः
 Dansul Kecak, Bali (Indonezia)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5903))
@@ -853,7 +853,7 @@ Dansul Kecak, Bali (Indonezia)
 _Ajutor pentru traducere:_ Versul 6: दिदृक्षते \= Desiderativ pentru दृश्
 
 ::: media
-![](/images/lekt5901.jpg)
+![](/images/lekt5901.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5901))
 :::
 Text preluat din: Otto Böhtlingk: Sanskrit-Chrestomathie, p. 127 și urm.

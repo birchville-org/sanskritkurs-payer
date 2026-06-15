@@ -218,7 +218,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt4402.jpg)
+![](/images/lekt4402.webp)
 ਚਿੱਤਰ: ਜਰਮਨ ਵਿੱਚ "ਓ" ਦੀ ਸਹੀ ਵਰਤੋਂ: ***"ਓ ਮਨੁੱਖ!"***
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4402))
 :::
@@ -259,7 +259,7 @@ PPP यात
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 ਚਿੱਤਰ: रेल्यानम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4403))
 :::
@@ -279,7 +279,7 @@ PPP शयित
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 ਚਿੱਤਰ: योगी शयने शेते
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4404))
 :::
@@ -302,7 +302,7 @@ PPP नन्दित
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 ਚਿੱਤਰ: नन्दी
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4405))
 :::
@@ -328,7 +328,7 @@ PPP आयत 3: ਲੰਬਾ ਫੈਲਿਆ ਹੋਇਆ
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 ਚਿੱਤਰ: आयतो मरुः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4406))
 :::
@@ -353,7 +353,7 @@ PPP यत्त
 :::
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 ਚਿੱਤਰ: यत्नेन
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4407))
 :::
@@ -382,7 +382,7 @@ PPP रब्ध
 :::
 
 ::: media
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 ਚਿੱਤਰ: प्रव्रअज्या / पब्बजा
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4408))
 :::
@@ -445,7 +445,7 @@ A) ਹੇਠ ਲਿਖੇ ਰੂਪਾਂ ਦਾ ਨਿਰਧਾਰਨ ਕਰੋ
 52.  हतः
 
 ::: media
-![](/images/lekt4409.jpg)
+![](/images/lekt4409.webp)
 ਚਿੱਤਰ: कस्माद्रोदिषि
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4409))
 :::

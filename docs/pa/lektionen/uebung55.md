@@ -49,7 +49,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: ਮੀਡੀਆ
-![](/images/uebung092.jpg)
+![](/images/uebung092.webp)
 ਚਿੱਤਰ: अशोभथाः । अशुभः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/licenses#uebung092))
 :::

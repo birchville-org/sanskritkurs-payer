@@ -55,7 +55,7 @@ Bestimmen Sie folgende Formen:
 :::
 
 ::: media
-![](/images/uebung078.jpg)
+![](/images/uebung078.webp)
 Abb.: गायी
 (Bildquelle: [Details](/licenses#uebung078))
 :::
@@ -75,7 +75,7 @@ Fragen des Königs **शूद्रक** von **विदिशा** an den Papa
 > Vaiśampāyana aber, der vom Herrn der Erde mit spontan entstandener Neugier mit großem Respekt gefragt worden war, überlegte einen Augenblick und antwortete dann voll Hochachtung: "König, das ist eine lange Geschichte. Wenn es Sie interessiert, leihen Sie mir Ihr Ohr!"
 
 ::: media
-![](/images/uebung079.jpg)
+![](/images/uebung079.webp)
 Abb.: शुकः
 (Bildquelle: [Details](/licenses#uebung079))
 :::

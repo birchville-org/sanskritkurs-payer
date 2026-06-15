@@ -91,7 +91,7 @@ par ex. अन्नमय n. "abondance de nourriture"
 :::
 
 ::: media
-![](/images/lekt5202.jpg)
+![](/images/lekt5202.webp)
 Fig. : अन्नमयम्
 विवाहः, Chennai = சென்னை
 (Source de l'image : [Détails](/rm/licenses#lekt5202))
@@ -111,7 +111,7 @@ ex. कौन्तेय m. "figl dal कुन्ती"
 :::
 
 ::: media
-![](/images/lekt5203.jpg)
+![](/images/lekt5203.webp)
 Abb.: भीमः कौन्तेयः
 Figura da Wayang, Java, Indonesia
 (fontana da l’imma: [Detagls](/rm/licenses#lekt5203))
@@ -135,7 +135,7 @@ Figura da Wayang, Java, Indonesia
     नित्यशस् "constantamain"
 :::
 ::: media
-![](/images/lekt5204.jpg)
+![](/images/lekt5204.webp)
 Fig.: अनुक्रमेणैकशः
 Coda avant il temple, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Sursa d’imagines: [Detagl](/rm/licenses#lekt5204))
@@ -180,7 +180,7 @@ La fin dal num vegn tractada uschè:
     per exemp. तिर्यक्करोति "el metta trasversalmain (तिर्यच्)"
 :::
 ::: media
-![](/images/lekt5209.jpg)
+![](/images/lekt5209.webp)
 Abb.: भस्मीकृतं वनम्
 Rodar cun ardiment, Arunachal Pradesh = अरुणाचल प्रदेश
 (font da l'imagines: [Detagls](/rm/licenses#lekt5209))
@@ -392,7 +392,7 @@ Exempl:
 :::
 
 ::: media
-![](/images/lekt5205.jpg)
+![](/images/lekt5205.webp)
 Abb.: चतुर्मुखः
 (Fontana da l’imagine: [Detagls](/rm/licenses#lekt5205))
 :::
@@ -427,7 +427,7 @@ Il grup dals set = ils set stailas pli cleras dal Grond ur (Ursa maior)
     pañca + go » pañcagava (betg permess sco singula parola!) + dhana » पञ्चगवधन m. "in, che ha reichezza da sis vuschas"
 :::
 ::: media
-![](/images/lekt5207.jpg)
+![](/images/lekt5207.webp)
 Abb.: षण्मातुरः कार्त्तिकेय:
 Jalakandapuram = ஜலகண்டபுரம்
 (Fontana da l’imagine: [Detagls](/rm/licenses#lekt5207))
@@ -472,7 +472,7 @@ da:
 :::
 
 ::: media
-![](/images/lekt5210.jpg)
+![](/images/lekt5210.webp)
 Abb.: खिलः
 Tambhol, Akole, Ahmednagar = अहमदनगर
 (font dal maletg: [Detagls](/rm/licenses#lekt5210))
@@ -506,7 +506,7 @@ PPP विपरीत 3: sbaglì, errà
 पीड् 10P पीडयति : premidar, tormentar ; oppressar, assediar, tormentar
 
 ::: media
-![](/images/lekt5212.jpg)
+![](/images/lekt5212.webp)
 Abb.: पीडिताः
 Hyderabad = హైదరాబాద్
 (font dal maletg: [Detagls](/rm/licenses#lekt5212))
@@ -524,7 +524,7 @@ dai:
 प्रधान 3: principel, il meglir ; n.: il pli impurtant
 
 ::: media
-![](/images/lekt5213.jpg)
+![](/images/lekt5213.webp)
 Abb.: प्रधानः
 मुंबई
 (font dal maletg: [Detagls](/rm/licenses#lekt5213))
@@ -635,7 +635,7 @@ PPP च्युत
 चक्र n.: roda
 
 ::: media
-![](/images/lekt5214.jpg)
+![](/images/lekt5214.webp)
 Abb.: चक्रम्
 Konark = कोनार्क
 (Bildquelle: [Details](/rm/licenses#lekt5214))
@@ -643,7 +643,7 @@ Konark = कोनार्क
 कदली f.: bananier (_Musa_ sp.)
 
 ::: media
-![](/images/lekt5208.jpg)
+![](/images/lekt5208.webp)
 Abb.: कदली
 Hampi = ಹಂಪೆ
 (Bildquelle: [Details](/rm/licenses#lekt5208))
@@ -659,7 +659,7 @@ Hampi = ಹಂಪೆ
 मल m.n.: brutgira, macula
 
 ::: media
-![](/images/lekt5215.jpg)
+![](/images/lekt5215.webp)
 Abb.: मलम्
 मुंबई
 (Bildquelle: [Details](/rm/licenses#lekt5215))
@@ -669,7 +669,7 @@ Abb.: मलम्
 मार m.: il mal personifizà, la tentaziun/personificaziun, diavul
 
 ::: media
-![](/images/lekt5217.jpg)
+![](/images/lekt5217.webp)
 Abb.:
 Amaravati = అమరావతి, 2. Jhdt. n. Chr.
 (Bildquelle: [Details](/rm/licenses#lekt5217))
@@ -736,7 +736,7 @@ Explicaziuns:
 ४. अश्वघोष (2. tschientaner p. Cr.): बुद्धचरित ४ la cognoschientscha salvantica dal Buddha
 
 ::: media
-![](/images/lekt5216.jpg)
+![](/images/lekt5216.webp)
 Abb.: अश्वत्थो महाबोधिवृक्षः
 _Ficus religiosa_ L. बोधगया, ca. 1810
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt5216))
@@ -819,7 +819,7 @@ Durant las vacanzas dal semester duessan vegnir realisés ils exercizis suandant
      **Winternitz, Moriz &lt;1863 - 1937&gt;: Istorgia da la litteratura indiana. Stuttgart : Koehler. -- 3 volumns. -- 1908 - 1922 (anc adina la millura istorgia da litteratura da la litteratura sanscrita, pali e prakrit)**
 
 ::: media
-![](/images/lekt5201.jpg)
+![](/images/lekt5201.webp)
 Fig.: श्रीगुम्पिः , मम मन्त्री
 (Imagina: Payer)
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt5201))

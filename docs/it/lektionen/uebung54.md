@@ -39,7 +39,7 @@ Formate le corrispondenti forme di aoristo dalle seguenti forme di presente o pe
 :::
 
 ::: media
-![](/images/uebung093.jpg)
+![](/images/uebung093.webp)
 Fig.: अगायि
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung093))
 :::

@@ -22,13 +22,13 @@ features:
     details: Construit sur les fondations de VitePress pour une vitesse maximale.
 ---
 
-::: tip Version 1.3 — en développement
-**Nouveautés dans v1.3 (juin 2026) :**
+::: tip Version 1.4 — Offline-First PWA
+**Nouveautés de la v1.4 (Juin 2026):**
 
-- **Nouvelles langues :** Pendjabi (PA), Latin (LA), Romanche grison (RM), Roumain (RO)
-- **Glossaire :** Alphabet sanskrit avec IAST et lien direct vers le [Dictionnaire Monier-Williams 1899](https://www.sanskrit-lexicon.uni-koeln.de/)
-- **Visualiseur de QA :** Éditeur Markdown avancé avec aperçu en direct, synchronisation du code brut, fonctionnalité de basculement (SWAP)
-- **Qualité :** Vérifications automatiques pré-poussage des erreurs de traduction
+- **Progressive Web App (PWA):** Le cours peut désormais être installé sous forme d'application sur ordinateur et smartphone (iOS/Android).
+- **Entièrement Hors Ligne:** Tout le contenu sélectionné est stocké localement et est utilisable sans connexion Internet.
+- **Mise en cache dynamique:** Les paramètres (Settings) permettent de contrôler à tout moment quelles des 14 langues doivent être disponibles hors ligne.
+- **Haute Performance:** Réduction massive des temps de chargement et de la consommation de données grâce aux images WebP hautement compressées.
 
-**Remarques et rapports d’erreurs :** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Remarques et rapports de bogues:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 :::

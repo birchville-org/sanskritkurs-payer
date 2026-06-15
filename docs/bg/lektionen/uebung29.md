@@ -50,7 +50,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: media
-![](/images/uebung046.jpg)
+![](/images/uebung046.webp)
 Ил.: चतुर्वर्णाश्रमो लोको
 (Източник на изображението: [Подробности](/bg/licenses#uebung046))
 :::

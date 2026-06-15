@@ -62,7 +62,7 @@ Conform teoriei clasice (de ex. Manusmṛti I, 88-91), sarcinile sunt distribuit
 Cele patru caste (**varṇa** m.) sunt adesea confundate cu castele. Dar cele patru caste, spre deosebire de caste, nu sunt ceva specific indienilor; și în Europa am avut (parțial până la Primul Război Mondial) o ordine de caste, așa cum atestă următoarea imagine din secolul al XV-lea:
 
 ::: media
-![](/images/lekt0201.jpg)
+![](/images/lekt0201.webp)
 Fig.: Reprezentarea diviziunii pe caste a Europei medievale (gravură pe lemn din sfârșitul secolului al XV-lea).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0201))
 :::
@@ -114,7 +114,7 @@ Fig.: Zeul Agni, miniatură, sec. al XVIII-lea.
 **sādhu** m. -- साधु: om »sfânt«, Sādhu.
 
 ::: media
-![](/images/lekt0202.jpg)
+![](/images/lekt0202.webp)
 Fig.: Sādhu (साधु), Templul Pashupatinath, Kathmandu.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0202))
 :::
@@ -171,7 +171,7 @@ Fig.: Sādhu (साधु), Templul Pashupatinath, Kathmandu.
 **devī** f. = देवी : zeiță, în special Durgā f. = दुर्गा, soția lui Śiva = शिव.
 
 ::: media
-![](/images/lekt0303.jpg)
+![](/images/lekt0303.webp)
 Fig.: Durgā = दुर्गा, Orissa
 (Sursa imaginii: [Detalii](/images/lekt0303))
 :::
@@ -203,7 +203,7 @@ Fig.: Durgā = दुर्गा, Orissa
 **kāma** m. = काम : dorință, poftă, dar dorit, plăcere senzorială, iubire; zeul iubirii Kāma.
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 Fig.: zeul Kāma = kāmadeva = कामदेव, sec. al XVIII-lea
 (Sursa imaginii: Wikipedia, Domeniu public)
 :::
@@ -283,7 +283,7 @@ Fig.: zeul Kāma = kāmadeva = कामदेव, sec. al XVIII-lea
 - **su** 5 U (sunoti) सु सुनोति : stoarce
 - **soma** m. सोम : băutură stoarsă, Soma; Lună (Din ce plantă a fost stoarsă Soma este încă dezbătută până în prezent).
 ::: media
-![](/images/lekt0701.jpg)
+![](/images/lekt0701.webp)
 Fig.: A fost aceasta planta Soma vedică?: Ciuperca muștar: *Amanita muscaria* (L.) Lam.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0701))
 :::
@@ -348,7 +348,7 @@ Fig.: **likh** (लिख्) : bețișor de scris al Batak (Sumatra), așa cum 
 - **adhyayana** n. (अध्ययन) : învățare, în special studiu vedic
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 Fig.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram lângă Madurai.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0903))
 :::
@@ -356,7 +356,7 @@ Fig.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparanku
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : meșter
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 Fig.: **kāru** = कारु, Gujarat.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0902))
 :::
@@ -417,7 +417,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Editat din arh
 :::
 
 ::: media
-![](/images/lekt1003.jpg)
+![](/images/lekt1003.webp)
 Fig.: वरुणः
 (Sursă imagine: [Detalii](/ro/licenses#lekt1003))
 :::
@@ -480,7 +480,7 @@ Fig.: विश्वामित्रः
   - **vadana** n. वदन : vorbirea; instrumentul vorbirii: gură, față
 
 ::: media
-![](/images/lekt1102.jpg)
+![](/images/lekt1102.webp)
 Fig.: **vadanāni** = वदनानि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1102))
 :::
@@ -500,7 +500,7 @@ Fig.: **vadanāni** = वदनानि
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : a se trezi, a se trezi la cunoaștere, a recunoaște; PPP **buddha** 3 trezit, prin urmare **Buddha** = „cel trezit” (nu: cel iluminat)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 Fig.: गौतमो बुद्धः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1201))
 :::
@@ -511,7 +511,7 @@ Fig.: गौतमो बुद्धः
 - **mārga** m. मार्ग : cale (drumurile erau adesea potecile animalelor sălbatice)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 Fig.: मार्गः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1202))
 :::
@@ -530,7 +530,7 @@ La formarea cuvintelor:
 - **budh**: **bodhi** m./f. बोधि : trezirea (prin care un Buddha sau Jina ajunge la înțelegerea mântuitoare)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 Fig.: महावीरो जिनः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1203))
 :::
@@ -613,7 +613,7 @@ Fig.: महावीरो जिनः
 > [Sursă: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
-![](/images/lekt1301.jpg)
+![](/images/lekt1301.webp)
 Fig.: महिषासुरः
 (Sursă imagine: [Detalii](/ro/licenses#lekt1301))
 :::
@@ -634,7 +634,7 @@ Fig.: महिषासुरः
 - **anna** n. अन्न : mâncare (din PPP: *ad-na: ceea ce este mâncat)
 
 ::: media
-![](/images/lekt1304.jpg)
+![](/images/lekt1304.webp)
 Fig.: अन्नम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1304))
 :::
@@ -650,7 +650,7 @@ pad 4 Ā:
 :::
 
 ::: media
-![](/images/lekt1303.jpg)
+![](/images/lekt1303.webp)
 Fig.: चत्वारः पादाः : गजः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1303))
 :::
@@ -672,7 +672,7 @@ dviṣ 2 U:
 * **dīpa m.** (दीप) : lampă
 
 ::: media
-![](/images/lekt1405.jpg)
+![](/images/lekt1405.webp)
 Fig.: दीपाः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1405))
 :::
@@ -713,7 +713,7 @@ Fig.: दीपाः
 
 पूजा f.: onor, primire onorifică, venerație religioasă (Pūjā)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 Fig.: पूजा
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1504))
 :::
@@ -722,7 +722,7 @@ Fig.: पूजा
 
 इन्द्र m.: prinț, primul, cel mai bun dintre ; regele zeilor Indra
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 Fig.: इन्द्रः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1505))
 :::
@@ -751,14 +751,14 @@ din care:
 
 सिंह m.: leu (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 Fig.: सिंहः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1506))
 :::
 
 व्याघ्र m.: tigru (_Panthera tigris tigris_) (literal: hăituitor)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 Fig.: व्याघ्रः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1507))
 :::
@@ -798,7 +798,7 @@ din care:
 अध्यापन n.: predare, învățământ
 
 ::: media
-![](/images/lekt1602.jpg)
+![](/images/lekt1602.webp)
 Fig.: अध्यापनम्
 „Aceasta este o ceremonie specială într-un mic templu din Satara (सातारा). Este realizată de studenții Swami Muktananda Vedashala în cadrul celebrării Mahāśivarātri. Aceasta este o școală vedică, unde copiii pe dinafară texte sacre numite Vede. Această școală predă Krishna Yajurveda și unele porțiuni din Samaveda. Îmi fac teza de masterat despre această școală.”
 (Sursă imagine: [Detalii](/ro/licenses#lekt1602))
@@ -835,7 +835,7 @@ din care:
 योग m.: legare, conexiune, unire, dobândire; Yoga
 
 ::: media
-![](/images/lekt1601.jpg)
+![](/images/lekt1601.webp)
 Fig.: योगी
 Birla Mandir, Delhi
 (Sursă imagine: [Detalii](/ro/licenses#lekt1601))
@@ -871,7 +871,7 @@ de acolo:
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 Fig.: घाताः
 Bangalore = ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1703))
@@ -887,7 +887,7 @@ de acolo:
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 Fig.: योगासनम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1701))
 :::
@@ -906,7 +906,7 @@ de acolo:
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : a mulge
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 Fig.: दोग्धि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1702))
 :::
@@ -977,7 +977,7 @@ de acolo:
 :::
 
 ::: media
-![](/images/lekt1809.jpg)
+![](/images/lekt1809.webp)
 Fig.: कामः
 Ilustrație pentru कामसूत्र
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1809))
@@ -1007,7 +1007,7 @@ de la **स्था** :
 :::
 
 ::: media
-![](/images/lekt1901.jpg)
+![](/images/lekt1901.webp)
 Fig.: गर्भगृहम्
 Badami (ಬದಾಮಿ)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1901))
@@ -1037,7 +1037,7 @@ din acesta:
 **छत्त्र n.:** umbrelă de soare, umbrelă
 
 ::: media
-![](/images/lekt1904.jpg)
+![](/images/lekt1904.webp)
 Fig.: छत्त्रम्
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), în costum tradițional, este o tradiție în părțile de sud ale Kerala. _Onappottan_ vizitează casele în timpul _onam_ și oferă binecuvântări. În ultimul timp, _onappottan_ a devenit o vedere rară, limitată la sate."
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1904))
@@ -1085,7 +1085,7 @@ Fig.: पण्डितः जवाहरलाल नेहरू
 आश्रम m., n.: ascet, stadiu al vieții, etapă de viață (anume ca ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ și eventual ca सन्न्यासिन् ; vezi Basham, Minuni p. 159f.)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 Fig.: आश्रमः
 Rishikesh = ऋषिकेश. "Aceasta este de fapt o parte din Ashramul din Rishikesh unde au stat Beatles. Această parte specifică nu exista când erau ei acolo, dar arată foarte bine."
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2008))
@@ -1198,7 +1198,7 @@ din aceasta:
 :::
 
 ::: media
-![](/images/lekt2103.jpg)
+![](/images/lekt2103.webp)
 Fig.: भगवान्कृष्णः
 भगवान्कृष्णः ca जगन्नाथ (dreapta) cu sora sa vitregă सुभद्रा (mijloc) și fratele său mai mare बलराम, Orissa = ଓଡ଼ିଶा
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2103))
@@ -1209,7 +1209,7 @@ Fig.: भगवान्कृष्णः
 :::
 
 ::: media
-![](/images/lekt2105.jpg)
+![](/images/lekt2105.webp)
 Fig.: भगवद्गीता
 भगवद्गीता - manuscris, sec. al XIX-lea.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2105))
@@ -1226,7 +1226,7 @@ din aceasta:
 :::
 
 ::: media
-![](/images/lekt2104.jpg)
+![](/images/lekt2104.webp)
 Fig.: भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2104))
@@ -1251,7 +1251,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 Fig.: कामदेवः
 sec. al XIX-lea
 (sursă imagine: [Detalii](/ro/licenses#lekt2202))
@@ -1269,7 +1269,7 @@ din aceasta:
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 Fig.: दुर्गाशक्तिः
 Kolkatta = কলকাতা
 (sursă imagine: [Detalii](/ro/licenses#lekt2203))
@@ -1299,7 +1299,7 @@ din aceasta:
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 Fig.: धेनवश्चरन्ति
 Goa = गोंय
 (sursă imagine: [Detalii](/ro/licenses#lekt2201))
@@ -1334,7 +1334,7 @@ Goa = गोंय
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 Fig.: अलंकारः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2405))
 :::
@@ -1345,7 +1345,7 @@ Fig.: अलंकारः
 प्रतिमा f.: imagine, reprezentare
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 Fig.: देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2406))
@@ -1385,7 +1385,7 @@ din acesta
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 Fig.: ऊहापोहः
 „NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor adjunct de externe, CNN-IBN Network 18, India, moderatorează o discuție pe panou la Summitul Economic al Indiei al Forumului Economic Mondial 2008 din New Delhi.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2407))
@@ -1407,7 +1407,7 @@ din acesta:
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 Fig.: आख्यानम्
 „Povestitorul din San Francisco, Jeff Byers, împărtășește o poveste cu locuitorii lui Chenneri, un sat Irula. Povestitorul Jeeva Raghunath traduce în tamilă pentru sateni.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2408))
@@ -1440,7 +1440,7 @@ din acesta:
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 Fig.: जयदेवकविर्विष्णुं नमस्करोति
 Manuscript al गीतगोविन्द, 1730 d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2411))
@@ -1478,7 +1478,7 @@ de la care:
 धान्य n: grâu batut
 
 ::: media
-![](/images/lekt2501.jpg)
+![](/images/lekt2501.webp)
 Fig.: धान्यम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2501))
 :::
@@ -1565,7 +1565,7 @@ de la care:
 मूल n.: rădăcină
 
 ::: media
-![](/images/lekt2502.jpg)
+![](/images/lekt2502.webp)
 Fig.: मूलानि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2502))
 :::
@@ -1585,7 +1585,7 @@ de la care:
 :::
 
 ::: media
-![](/images/lekt2503.jpg)
+![](/images/lekt2503.webp)
 Fig.: लिप्तिः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2503))
 :::
@@ -1610,7 +1610,7 @@ de la care:
 :::
 
 ::: media
-![](/images/lekt2504.jpg)
+![](/images/lekt2504.webp)
 Fig.: विवाहः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2504))
 :::
@@ -1629,7 +1629,7 @@ de la care:
 विष्टि f.: muncă, muncă forțată
 
 ::: media
-![](/images/lekt2505.jpg)
+![](/images/lekt2505.webp)
 Fig.: विष्टिः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2505))
 :::
@@ -1657,7 +1657,7 @@ din:
 हिरण्य ३ : auriu ; n.: aur, bani, bogăție
 
 ::: media
-![](/images/lekt2506.jpg)
+![](/images/lekt2506.webp)
 Fig.: हिरण्यम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2506))
 :::
@@ -1700,7 +1700,7 @@ de la care:
 :::
 
 ::: media
-![](/images/lekt2706.jpg)
+![](/images/lekt2706.webp)
 Fig.: वस्त्राणि
 Vastrāṇi. Majuli, Assam.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2706))
@@ -1715,7 +1715,7 @@ Vastrāṇi. Majuli, Assam.
 :::
 
 ::: media
-![](/images/lekt2707.jpg)
+![](/images/lekt2707.webp)
 Fig.: वसन्तः
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2707))
@@ -1740,14 +1740,14 @@ Echivalentul pentru **हर**:
 **हरिहर** m.: Viṣṇu și Śiva uniți ca o singură divinitate.
 
 ::: media
-![](/images/lekt2704.jpg)
+![](/images/lekt2704.webp)
 Fig.: हरिहरः
 Harihara (stânga: Viṣṇu, dreapta: Śiva).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2704))
 :::
 
 ::: media
-![](/images/lekt2705.jpg)
+![](/images/lekt2705.webp)
 Fig.: हरिहरः
 Harihara (stânga: Viṣṇu, dreapta: Śiva). Godrumdwip, Bengalul de Vest.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2705))
@@ -1792,7 +1792,7 @@ Inf. **kāmayitum** / **kamitum**
 :::
 
 ::: media
-![](/images/lekt2804.jpg)
+![](/images/lekt2804.webp)
 Fig.: कृष्णो राधां कामयति
 Pictură de राजा रवि वर्मा (1848 - 1906)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2804))
@@ -1816,7 +1816,7 @@ Inf. **coritum**
 :::
 
 ::: media
-![](/images/lekt2803.jpg)
+![](/images/lekt2803.webp)
 Fig.: वीणां वादयति
 Vīṇā-Spielerin.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2803))
@@ -1825,7 +1825,7 @@ Vīṇā-Spielerin.
 **भार** m.: povară
 
 ::: media
-![](/images/lekt2805.jpg)
+![](/images/lekt2805.webp)
 Fig.: बाला भारं हरति
 Fetiță poartă povara. Lângă Ahmedabad.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2805))
@@ -1872,7 +1872,7 @@ Inf. ग्रसितुम्
 परिव्राजक m.: călător, călugăr itinerant, pelerin
 
 ::: media
-![](/images/lekt2903.jpg)
+![](/images/lekt2903.webp)
 Fig.: परिव्राजकाः
 Pushkar = पुष्कर
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2903))
@@ -1892,7 +1892,7 @@ din acesta:
 :::
 
 ::: media
-![](/images/lekt2901.jpg)
+![](/images/lekt2901.webp)
 Fig.: मत्स्यः
 रोहू मछली = Labeo rohita Hamilton
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2901))
@@ -1942,7 +1942,7 @@ Absol. विक्रीय
 :::
 
 ::: media
-![](/images/lekt3001.jpg)
+![](/images/lekt3001.webp)
 Fig.: क्रीणन्ति विक्रीणते च
 Bundi = बुन्दी, Rajasthan = राजस्थान
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3001))
@@ -1966,7 +1966,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3002.jpg)
+![](/images/lekt3002.webp)
 Fig.: ज्ञातयः
 Darewadi, Districtul Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3002))
@@ -1983,7 +1983,7 @@ Inf. पवितुम्
 :::
 
 ::: media
-![](/images/lekt3003.jpg)
+![](/images/lekt3003.webp)
 Fig.: श्रोत्राणि पुनाति
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3003))
 :::
@@ -1999,7 +1999,7 @@ Inf. अशितुम्
 :::
 
 ::: media
-![](/images/lekt3005.jpg)
+![](/images/lekt3005.webp)
 Fig.: अश्नीयात्
 थाली, India de Sud
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3005))
@@ -2008,7 +2008,7 @@ Fig.: अश्नीयात्
 प्रिय ३: iubit, iubitor, prietenos
 
 ::: media
-![](/images/lekt3004.jpg)
+![](/images/lekt3004.webp)
 Fig.: प्रिया
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3004))
 :::
@@ -2038,7 +2038,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt2904.jpg)
+![](/images/lekt2904.webp)
 Fig.: पुनर्भवः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2904))
 :::
@@ -2084,7 +2084,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3101.jpg)
+![](/images/lekt3101.webp)
 Fig.: योगः
 Reprezentare Yoga.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3101))
@@ -2133,7 +2133,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3102.jpg)
+![](/images/lekt3102.webp)
 Fig.: व्यञ्जनम्
 Pregătire pentru dansul Kathakali, Kochi.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3102))
@@ -2179,7 +2179,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3103.jpg)
+![](/images/lekt3103.webp)
 Fig.: प्रज्ञापारमिता
 Aus einem Prajñāpāramitā-Manuskript.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3103))
@@ -2215,7 +2215,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 **चूत**
 
 ::: media
-![](/images/lekt3202.jpg)
+![](/images/lekt3202.webp)
 Fig.: चूतः
 Copac de mango, Kanpur.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3202))
@@ -2252,7 +2252,7 @@ Copac de mango, Kanpur.
 **वानर कपि**
 
 ::: media
-![](/images/lekt3203.jpg)
+![](/images/lekt3203.webp)
 Fig.: वानराः
 Maimuțe (macaci rhesus) în Delhi.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3203))
@@ -2274,7 +2274,7 @@ Maimuțe (macaci rhesus) în Delhi.
 **उपल**
 
 ::: media
-![](/images/lekt3204.jpg)
+![](/images/lekt3204.webp)
 Fig.: उपलाः
 Carieră de piatră la sud de Pune, Maharashtra.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3204))
@@ -2283,7 +2283,7 @@ Carieră de piatră la sud de Pune, Maharashtra.
 **लक्ष्य**
 
 ::: media
-![](/images/lekt3205.jpg)
+![](/images/lekt3205.webp)
 Fig.: लक्ष्यम्
 Exercițiu de tragere / țintă cu săgeți, Karnataka.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3205))
@@ -2310,7 +2310,7 @@ Exercițiu de tragere / țintă cu săgeți, Karnataka.
 :::
 
 ::: media
-![](/images/lekt3207.jpg)
+![](/images/lekt3207.webp)
 Fig.: चितं गोमयं दहति
 Bucăți de gunoi de vacă ars în Rajasthan.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3207))
@@ -2325,7 +2325,7 @@ Bucăți de gunoi de vacă ars în Rajasthan.
 **कौशल कुशल**
 
 ::: media
-![](/images/lekt3206.jpg)
+![](/images/lekt3206.webp)
 Fig.: कौशलम्
 Pictură Mehndi pe mâini în Mumbai.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3206))
@@ -2350,7 +2350,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3306.jpg)
+![](/images/lekt3306.webp)
 Fig.: दानम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3306))
 :::
@@ -2362,7 +2362,7 @@ Fig.: दानम्
 :::
 
 ::: media
-![](/images/lekt3307.jpg)
+![](/images/lekt3307.webp)
 Fig.: सा पुत्रमादाय भारं बिभ्रती गच्छति
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3307))
 :::
@@ -2386,7 +2386,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3305.jpg)
+![](/images/lekt3305.webp)
 Fig.: समाधि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3305))
 :::
@@ -2423,7 +2423,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3304.jpg)
+![](/images/lekt3304.webp)
 Fig.: भयम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3304))
 :::
@@ -2476,7 +2476,7 @@ din PPP **हीन**:
 :::
 
 ::: media
-![](/images/lekt3303.jpg)
+![](/images/lekt3303.webp)
 Fig.: हीनयानमेव
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3303))
 :::
@@ -2492,7 +2492,7 @@ Fig.: हीनयानमेव
 :::
 
 ::: media
-![](/images/lekt3302.jpg)
+![](/images/lekt3302.webp)
 Fig.: घृतमग्नौ जुहोति
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3302))
 
@@ -2515,7 +2515,7 @@ Fig.: घृतमग्नौ जुहोति
 **शस्य = सस्य n. sg. și pl.:** semințe, cultură, cereale
 
 ::: media
-![](/images/lekt3406.jpg)
+![](/images/lekt3406.webp)
 Fig.: सस्यम्
 Câmp de orez în India.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3406))
@@ -2530,7 +2530,7 @@ Câmp de orez în India.
 **द्वीप m.n.:** insulă, continent
 
 ::: media
-![](/images/lekt3405.jpg)
+![](/images/lekt3405.webp)
 Fig.: लक्षद्वीपाः
 Harta Insulelor Lakshadweep.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3405))
@@ -2541,14 +2541,14 @@ Harta Insulelor Lakshadweep.
 **तिल m.:** susan (Sesamum indicum L.)
 
 ::: media
-![](/images/lekt3403.jpg)
+![](/images/lekt3403.webp)
 Fig.: तिलाः
 Semințe de susan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3403))
 :::
 
 ::: media
-![](/images/lekt3404.jpg)
+![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Înflorește planta de susan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3404))
@@ -2557,7 +2557,7 @@ Fig.: *Sesamum indicum* L.
 **स्वर्ण n.:** (frumos colorat =) aur
 
 ::: media
-![](/images/lekt3402.jpg)
+![](/images/lekt3402.webp)
 Fig.: स्वर्णम्
 Templul de Aur (Harmandir Sahib), Amritsar.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3402))
@@ -2574,7 +2574,7 @@ Templul de Aur (Harmandir Sahib), Amritsar.
 **ऋषभ m.:** taur
 
 ::: media
-![](/images/lekt3401.jpg)
+![](/images/lekt3401.webp)
 Fig.: ऋषभः
 Statuia Taurului Nandi, Dealurile Chamundi, Mysore.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3401))
@@ -2614,7 +2614,7 @@ Statuia Taurului Nandi, Dealurile Chamundi, Mysore.
 :::
 
 ::: media
-![](/images/lekt3502.jpg)
+![](/images/lekt3502.webp)
 Fig.: क्रामन्ति
 Oameni mergând, Senegal.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3502))
@@ -2634,7 +2634,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3501.jpg)
+![](/images/lekt3501.webp)
 Fig.: जगुः
 Muzicieni de templu Kaadu Malleswara Temple Bangalore.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3501))
@@ -2669,7 +2669,7 @@ PPP चित
 Inf. चेतुम्
 :::
 ::: media
-![](/images/lekt3601.jpg)
+![](/images/lekt3601.webp)
 Fig.: गोमयं चिकाय
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3601))
 :::
@@ -2689,7 +2689,7 @@ Inf. व्रजितुम्
 अगार n.। आगार n.: casă, cămin
 
 ::: media
-![](/images/lekt3602.jpg)
+![](/images/lekt3602.webp)
 Fig.: अगारम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3602))
 :::
@@ -2701,7 +2701,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3603.jpg)
+![](/images/lekt3603.webp)
 Fig.: अनगार्यम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3603))
 :::
@@ -2784,7 +2784,7 @@ Inf. स्पर्ष्तुम् । स्प्रष्तुम्
 Absol. -स्पृश्य
 :::
 ::: media
-![](/images/lekt3606.jpg)
+![](/images/lekt3606.webp)
 Fig.: सुगतो भूमीं पस्पर्श
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3606))
 :::
@@ -2799,7 +2799,7 @@ Cauzativ. हर्षयति
 PPP हृषित
 :::
 ::: media
-![](/images/lekt3604.jpg)
+![](/images/lekt3604.webp)
 Fig.: लोमहर्षः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3604))
 :::
@@ -2829,7 +2829,7 @@ Fig.: शाक्यमुनिः
 वृक्ष m.: Arbore
 
 ::: media
-![lekt3706.jpg](/images/lekt3706.jpg)
+![lekt3706.jpg](/images/lekt3706.webp)
 Fig.: वृक्षः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3706))
 :::
@@ -2843,7 +2843,7 @@ Fig.: वृक्षः
 सूर्य m.: Soare, zeul soarelui Sūrya
 
 ::: media
-![](/images/lekt3802.jpg)
+![](/images/lekt3802.webp)
 Fig.: सूर्यः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3802))
 :::
@@ -2852,7 +2852,7 @@ Fig.: सूर्यः
 उदक n.: Apă
 
 ::: media
-![](/images/lekt3805.jpg)
+![](/images/lekt3805.webp)
 Fig.: उदकम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3805))
 :::
@@ -2883,7 +2883,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3804.jpg)
+![](/images/lekt3804.webp)
 Fig.: गौतमबुद्धस्य महापरिनिर्वाणम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3804))
 :::
@@ -2927,7 +2927,7 @@ de la राज :
 ब्रह्मन् m.: Zeul creator gândit personal Brahmā
 
 ::: media
-![](/images/lekt3809.jpg)
+![](/images/lekt3809.webp)
 Fig.: ब्रह्मा
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3809))
 :::
@@ -2968,13 +2968,13 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3810.jpg)
+![](/images/lekt3810.webp)
 Fig.: अशोकवृक्षः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3810))
 :::
 
 ::: media
-![](/images/lekt3811.jpg)
+![](/images/lekt3811.webp)
 Fig.: अशोकसाम्राज्यम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3811))
 :::
@@ -3038,7 +3038,7 @@ din care:
 :::
 
 ::: media
-![lekt4003.jpg](/images/lekt4003.jpg)
+![lekt4003.jpg](/images/lekt4003.webp)
 Fig.: हरिद्वारे तीर्थम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4003))
 :::
@@ -3048,7 +3048,7 @@ Fig.: हरिद्वारे तीर्थम्
 :::
 
 ::: media
-![lekt4002.jpg](/images/lekt4002.jpg)
+![lekt4002.jpg](/images/lekt4002.webp)
 Fig.: तीर्थङ्करः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4002))
 :::
@@ -3064,7 +3064,7 @@ din care:
 :::
 
 ::: media
-![lekt4001.jpg](/images/lekt4001.jpg)
+![lekt4001.jpg](/images/lekt4001.webp)
 Fig.: विष्णोर्दशावताराः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4001))
 :::
@@ -3088,7 +3088,7 @@ din care:
 :::
 
 ::: media
-![lekt4004.jpg](/images/lekt4004.jpg)
+![lekt4004.jpg](/images/lekt4004.webp)
 Fig.: स्वपन्ति
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4004))
 :::
@@ -3102,7 +3102,7 @@ Fig.: स्वपन्ति
 भुजङ्ग m.: șarpe
 
 ::: media
-![lekt4105.jpg](/images/lekt4105.jpg)
+![lekt4105.jpg](/images/lekt4105.webp)
 Fig.: भुजङ्गः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4105))
 :::
@@ -3112,7 +3112,7 @@ Fig.: भुजङ्गः
 विष n.: venin
 
 ::: media
-![lekt4104.jpg](/images/lekt4104.jpg)
+![lekt4104.jpg](/images/lekt4104.webp)
 Fig.: भुजङ्गस्य विषम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4104))
 :::
@@ -3135,7 +3135,7 @@ din care:
 :::
 
 ::: media
-![lekt4109.jpg](/images/lekt4109.jpg)
+![lekt4109.jpg](/images/lekt4109.webp)
 Fig.: शासना
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4109))
 :::
@@ -3147,7 +3147,7 @@ Fig.: शासना
 :::
 
 ::: media
-![lekt4110.jpg](/images/lekt4110.jpg)
+![lekt4110.jpg](/images/lekt4110.webp)
 Fig.: शास्त्री
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4110))
 :::
@@ -3253,7 +3253,7 @@ Inf. शंसितुम्
 ### 42.2.1. Unele denumiri de rudenie
 
 ::: media
-![lekt4202.jpg](/images/lekt4202.jpg)
+![lekt4202.jpg](/images/lekt4202.webp)
 Fig.: माता, पिता, पुत्रकः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4202))
 ::: 
@@ -3318,7 +3318,7 @@ Se săvârșesc rituri pentru amândoi, numiți श्राद्ध n. În fie
 आपण m.: piață
 
 ::: media
-![](/images/lekt4302.jpg)
+![](/images/lekt4302.webp)
 Fig.: आपणः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4302))
 :::
@@ -3328,7 +3328,7 @@ Fig.: आपणः
 पण्य 3: vândut; n.: marfă, comerț
 
 ::: media
-![]/images/lekt4303.jpg
+![]/images/lekt4303.webp
 Fig.: पण्यानि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4303))
 :::
@@ -3351,7 +3351,7 @@ Fig.: पण्यानि
 विपणि f.: magazin
 
 ::: media
-![](/images/lekt4304.jpg)
+![](/images/lekt4304.webp)
 Fig.: विपणिः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4304))
 :::
@@ -3359,7 +3359,7 @@ Fig.: विपणिः
 वणिज् m.: comerciant
 
 ::: media
-![](/images/lekt4305.jpg)
+![](/images/lekt4305.webp)
 Fig.: वणिक्
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4305))
 :::
@@ -3371,7 +3371,7 @@ Fig.: वणिक्
 वत्स m.: vițel, pui, copil ; Voc.: dragul meu
 
 ::: media
-![](/images/lekt4306.jpg)
+![](/images/lekt4306.webp)
 Fig.: वत्सः
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4306))
 :::
@@ -3393,7 +3393,7 @@ Fig.: वत्सः
 तर्हि 10 तुल् तुलयति । : cântări
 
 ::: media
-![](/images/lekt4307.jpg)
+![](/images/lekt4307.webp)
 Fig.: तोलयति
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4307))
 :::
@@ -3468,7 +3468,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 Fig.: रेल्यानम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4403))
 :::
@@ -3488,7 +3488,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 Fig.: योगी शयने शेते
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4404))
 :::
@@ -3511,7 +3511,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 Fig.: नन्दी
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4405))
 :::
@@ -3537,7 +3537,7 @@ PPP आयत 3: întins lung
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 Fig.: आयतो मरुः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4406))
 :::
@@ -3562,7 +3562,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 Fig.: यत्नेन
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4407))
 :::
@@ -3591,7 +3591,7 @@ Vezi:
 :::
 
 ::: media
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 Fig.: प्रव्रअज्या / पब्बजा
 (Sursă imagine: [Detalii](/ro/licenses#lekt4408))
 :::
@@ -3644,23 +3644,23 @@ Pentru राहु și केतु vezi:
 
 > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Introducere și prezentare generală. -- 10. Sacramente și rituri de trecere (samskara). -- Anexa C: Rahu și Ketu, planetele errante invizibile . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 Fig.: [सूर्यः, चन्द्रः, मङ्गलः](/ro/licenses#lekt4602)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 Fig.: [बुधः, बृहस्पतिः](/ro/licenses#lekt4603)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 Fig.: [शुक्रः, शनिः](/ro/licenses#lekt4604)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 Fig.: [राहुः, केतुः](/ro/licenses#lekt4605)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4605))
 :::
@@ -3689,7 +3689,7 @@ Inf. नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 Fig.: [नारायण तुभ्यं नमामि](/ro/licenses#lekt4607)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4607))
 :::
@@ -3707,7 +3707,7 @@ Inf. रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 Fig.: [अश्वरोहकः](/ro/licenses#lekt4606)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4606))
 :::
@@ -3726,7 +3726,7 @@ Absol. -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 Fig.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/ro/licenses#lekt4608)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4608))
 :::
@@ -3755,7 +3755,7 @@ din care:
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 Fig.: [श्रान्तः](/ro/licenses#lekt4609)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4609))
 :::
@@ -3786,7 +3786,7 @@ din care:
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 Fig.: [सङ्गः](/ro/licenses#lekt4610)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4610))
 :::
@@ -3854,7 +3854,7 @@ de exemplu
 भोस् Particulă vocativă: exclamație de adresare, de exemplu: he, heida, oh, ei, salut, he! adesea nu se traduce. Această particulă are un Sandhi special: în fața tuturor sunetelor sonore, acesta este ***भो***.
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 Fig.: [भोः](/ro/licenses#lekt4611)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4611))
 :::
@@ -3874,14 +3874,14 @@ Fig.: [भोः](/ro/licenses#lekt4611)
 तन्त्र n.: coardă ; război de țesut, urzeală, țesătură ; fundament, normă, regulă ; doctrină, manual de învățătură ; Tantra ; formulă magică ; mijloc, truc, medicament ; guvern, autoritate
 
 ::: media
-![](/images/lekt4802.jpg)
+![](/images/lekt4802.webp)
 Fig.: तन्त्रम्
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4802))
 :::
 
 ::: media
-![](/images/lekt4803.jpg)
+![](/images/lekt4803.webp)
 Fig.: तन्त्री
 Muzician la sitar = सितारवादकः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4803))
@@ -3905,7 +3905,7 @@ Declinare:
 :::
 
 ::: media
-![](/images/lekt4804.jpg)
+![](/images/lekt4804.webp)
 Fig.: स्वतन्त्राः स्त्रियः
 [Grup de auto-ajutorare (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4804))
@@ -3918,7 +3918,7 @@ Fig.: स्वतन्त्राः स्त्रियः
 कुमार m.: copil, tânăr, prinț; epitet al lui कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
-![](/images/lekt4805.jpg)
+![](/images/lekt4805.webp)
 Fig.: कुमारः
 Festivalul Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4805))
@@ -3927,7 +3927,7 @@ Festivalul Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 कुमारी f.: fată, fiică
 
 ::: media
-![](/images/lekt4806.jpg)
+![](/images/lekt4806.webp)
 Fig.: कुमारी
 नेपाल
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4806))
@@ -3940,7 +3940,7 @@ Fig.: कुमारी
 स्थविर 3: bătrân, în vârstă
 
 ::: media
-![](/images/lekt4807.jpg)
+![](/images/lekt4807.webp)
 Fig.: स्थविराः
 जोधपुर
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4807))
@@ -3953,7 +3953,7 @@ Fig.: स्थविराः
 सूक्ष्म 3: fin, minuscul, subtil
 
 ::: media
-![](/images/lekt4808.jpg)
+![](/images/lekt4808.webp)
 Fig.: सूक्ष्मम्
 Lacul Karanji = ಕಾರಂಜಿ ಕೆರೆ
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4808))
@@ -3970,7 +3970,7 @@ Lacul Karanji = ಕಾರಂಜಿ ಕೆರೆ
 जाया f.: soție
 
 ::: media
-![](/images/lekt4809.jpg)
+![](/images/lekt4809.webp)
 Fig.: मम जाया
 (Imagine: Payer)
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4809))
@@ -4036,7 +4036,7 @@ Inf. द्रोग्धुम्
 कुलूहल n.: curiozitate, interes
 
 ::: media
-![](/images/lekt4901.jpg)
+![](/images/lekt4901.webp)
 Fig.: कुलूहलम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4901))
 :::
@@ -4047,7 +4047,7 @@ Fig.: कुलूहलम्
 कला f.: artă
 
 ::: media
-![](/images/lekt4902.jpg)
+![](/images/lekt4902.webp)
 Fig.: उत्तमा काला
 शिवो नटराजा, sec. al XI-lea
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4902))
@@ -4066,7 +4066,7 @@ Fig.: विहंगः
 वेष m.: haină, aspect, înfățișare exterioară
 
 ::: media
-![](/images/lekt4904.jpg)
+![](/images/lekt4904.webp)
 Fig.: वेषः
 वाराणस्याम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4904))
@@ -4076,7 +4076,7 @@ Fig.: वेषः
 पञ्जर n.: cușcă
 
 ::: media
-![](/images/lekt4909.jpg)
+![](/images/lekt4909.webp)
 Fig.: पञ्जरम्
 Văzător cu papagal în cușcă: papagalul scoate bilețele pe care este scris destinul Mysore
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4909))
@@ -4104,7 +4104,7 @@ Gerundiv ध्येय
 आदर m.: considerație, atenție, respect
 
 ::: media
-![](/images/lekt4905.jpg)
+![](/images/lekt4905.webp)
 Fig.: सादरः
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4905))
@@ -4116,7 +4116,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 शिशु m.: copil, pui
 
 ::: media
-![](/images/lekt4906.jpg)
+![](/images/lekt4906.webp)
 Fig.: गजशिशुः
 Sri Lanka
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4906))
@@ -4222,14 +4222,14 @@ Declinație ca यद् (excepție: Nom.Akk.sg.Neutrum)
 कल्याण 3 (f.: कल्याणी) :frumos
 
 ::: media
-![](/images/lekt5003.jpg)
+![](/images/lekt5003.webp)
 Fig.: कल्याणी
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5003))
 :::
 कु- : ca prefix în compuse: rău
 
 ::: media
-![](/images/lekt5004.jpg)
+![](/images/lekt5004.webp)
 Fig.: कुनगरम्
 धारावी, मुंबई
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5004))
@@ -4254,7 +4254,7 @@ nu este utilizat în celelalte timpuri
 > **Mamiferele lumii lui Walker** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- p. 1193f.
 
 ::: media
-![](/images/lekt5105.jpg)
+![](/images/lekt5105.webp)
 Fig.:
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5105))
 :::
@@ -4283,7 +4283,7 @@ Fig.: ऋतुः
 जटा f.: coadă de cal (coafură a ascetului)
 
 ::: media
-![](/images/lekt5107.jpg)
+![](/images/lekt5107.webp)
 Fig.: जटा
 ऋषिकेश
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5107))
@@ -4338,7 +4338,7 @@ PPP गर्हित
 पिशित n.: (preparat) carne
 
 ::: media
-![](/images/lekt5108.jpg)
+![](/images/lekt5108.webp)
 Fig.: पिशितम्
 Kolkata = কলকাতা
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5108))
@@ -4348,7 +4348,7 @@ Kolkata = কলকাতা
 मधु n.: miere, băutură dulce, hidromel (vin de miere)
 
 ::: media
-![](/images/lekt5109.jpg)
+![](/images/lekt5109.webp)
 Fig.: मधु
 Palatul Orașului, उदयपुर
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5109))
@@ -4358,7 +4358,7 @@ Palatul Orașului, उदयपुर
 मृगया f.: vânătoare
 
 ::: media
-![](/images/lekt5110.jpg)
+![](/images/lekt5110.webp)
 Fig.: मृगया
 Vânătoare cu चीता (_Acinonyx jubatus venaticus\") Gujarat = ગુજરાત, 1812
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5110))
@@ -4366,7 +4366,7 @@ Vânătoare cu चीता (_Acinonyx jubatus venaticus\") Gujarat = ગુજ�
 शिवा f.: (fem.) șacal (șacal auriu = _Canis aureus\")
 
 ::: media
-![](/images/lekt5111.jpg)
+![](/images/lekt5111.webp)
 Fig.: शिवा
 _Canis aureus\", Sanctuarul Kalatop Khajjiar
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5111))
@@ -4376,7 +4376,7 @@ _Canis aureus\", Sanctuarul Kalatop Khajjiar
 कौशिक m.: bufniță
 
 ::: media
-![](/images/lekt5112.jpg)
+![](/images/lekt5112.webp)
 Fig.: कौशिकः
 Bufnița lui Brahma (_Athene brama\"), Mahesana = મહેસાણા
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5112))
@@ -4406,7 +4406,7 @@ Karnataka = ಕರ್ನಾಟક
 आपान(क) n.: petrecere, beție
 
 ::: media
-![](/images/lekt5114.jpg)
+![](/images/lekt5114.webp)
 Fig.: आपानकम्
 जोधपुर
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5114))
@@ -4426,7 +4426,7 @@ PPP दिग्ध
 विष n.: venin
 
 ::: media
-![](/images/lekt5115.jpg)
+![](/images/lekt5115.webp)
 Fig.: मूषिकाविषाणि
 Bangalore = ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5115))
@@ -4434,7 +4434,7 @@ Bangalore = ಬೆಂಗಳೂರು
 भुजंग m: șarpe
 
 ::: media
-![](/images/lekt5116.jpg)
+![](/images/lekt5116.webp)
 Fig.: भुजंगः
 Vipera lanț (_Daboia russelii\"), Bangalore = ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5116))
@@ -4460,7 +4460,7 @@ Vipera lanț (_Daboia russelii\"), Bangalore = ಬೆಂಗಳೂರು
 मणि m.: bijuterie
 
 ::: media
-![](/images/lekt5118.jpg)
+![](/images/lekt5118.webp)
 Fig.: मणिः
 Diamantul Hope din Guntur = ગુંતૂર, astăzi Muzeul Național de Istorie Naturală Smithsonian, Washington DC
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5118))
@@ -4470,7 +4470,7 @@ Diamantul Hope din Guntur = ગુંતૂર, astăzi Muzeul Național de Isto
 मद m.: de asemenea „suc de rută” al unui elefant (în [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
-![](/images/lekt5117.jpg)
+![](/images/lekt5117.webp)
 Fig.: मदः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5117))
 :::
@@ -4507,7 +4507,7 @@ de la:
 :::
 
 ::: media
-![](/images/lekt5210.jpg)
+![](/images/lekt5210.webp)
 Fig.: खिलः
 Tambhol, Akole, Ahmednagar = अहमदनगर
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5210))
@@ -4541,7 +4541,7 @@ PPP विपरीत 3: greșit, fals
 पीड् 10P पीडयति : a apăsa, a chinui ; a asedia, a asedia, a chinui
 
 ::: media
-![](/images/lekt5212.jpg)
+![](/images/lekt5212.webp)
 Fig.: पीडिताः
 Hyderabad = హైదరాబాద్
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5212))
@@ -4559,7 +4559,7 @@ din acesta:
 प्रधान 3: principal, cel mai bun ; n.: cel mai important
 
 ::: media
-![](/images/lekt5213.jpg)
+![](/images/lekt5213.webp)
 Fig.: प्रधानः
 मुंबई
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5213))
@@ -4670,7 +4670,7 @@ PPP च्युत
 चक्र n.: roată
 
 ::: media
-![](/images/lekt5214.jpg)
+![](/images/lekt5214.webp)
 Abb.: चक्रम्
 Konark = कोनार्क
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5214))
@@ -4678,7 +4678,7 @@ Konark = कोनार्क
 कदली f.: bananier (_Musa_ sp.)
 
 ::: media
-![](/images/lekt5208.jpg)
+![](/images/lekt5208.webp)
 Abb.: कदली
 Hampi = ಹಂಪೆ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5208))
@@ -4694,7 +4694,7 @@ Hampi = ಹಂಪೆ
 मल m.n.: murdărie, defect
 
 ::: media
-![](/images/lekt5215.jpg)
+![](/images/lekt5215.webp)
 Abb.: मलम्
 मुंबई
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5215))
@@ -4704,7 +4704,7 @@ Abb.: मलम्
 मार m.: răul personificat, tentația/personificarea manipulării, diavolul
 
 ::: media
-![](/images/lekt5217.jpg)
+![](/images/lekt5217.webp)
 Abb.:
 Amaravati = అమరావతి, sec. II d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5217))

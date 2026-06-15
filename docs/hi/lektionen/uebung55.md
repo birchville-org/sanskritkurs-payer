@@ -49,7 +49,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: media
-![](/images/uebung092.jpg)
+![](/images/uebung092.webp)
 अभिक्रिया: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (चित्रस्रोत: [विवरण](/hi/licenses#uebung092))
 :::

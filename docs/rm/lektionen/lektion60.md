@@ -213,11 +213,11 @@ Exempel: विदुषी "ina saventa"
 Paradigmas veseis en Kielhorn, Grammatica § 124:
 
 ::: media
-![](/images/lekt6001.jpg)
+![](/images/lekt6001.webp)
 (Sursa da l'imagines: [Detagls](/rm/licenses#lekt6001))
 :::
 ::: media
-![](/images/lekt6002.jpg)
+![](/images/lekt6002.webp)
 (Sursa da l'imagines: [Detagls](/rm/licenses#lekt6002))
 :::
 
@@ -253,11 +253,11 @@ Exempl: प्रतीची
 ####  Paradigmas veseis en Kielhorn, Grammatik § 128:
 
 ::: media
-![](/images/lekt6003.jpg)
+![](/images/lekt6003.webp)
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt6003))
 :::
 ::: media
-![](/images/lekt6004.jpg)
+![](/images/lekt6004.webp)
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt6004))
 :::
 Qua appartegnan:
@@ -402,7 +402,7 @@ Las reglas per l’adopziun dal vocal da giuntaziun -i- vesair en Kielhorn, Gram
 Lista en Kielhorn, Grammatik § 452:
 
 ::: media
-![](/images/lekt6006.jpg)
+![](/images/lekt6006.webp)
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt6006))
 :::
 
@@ -448,15 +448,15 @@ Per la furmaziun da nomina agentis sin -u dal stemma dal desiderativ vesair [Lec
 A) Studiai en Kielhorn, Grammatica § 451 las furmas irregularas dal desiderativ per verbs gidads fin qua:
 
 ::: media
-![](/images/lekt6007.jpg)
+![](/images/lekt6007.webp)
 (Font da l’imaginescha: [Detagls](/rm/licenses#lekt6007))
 :::
 ::: media
-![](/images/lekt6008.jpg)
+![](/images/lekt6008.webp)
 (Font da l’imaginescha: [Detagls](/rm/licenses#lekt6008))
 :::
 ::: media
-![](/images/lekt6009.jpg)
+![](/images/lekt6009.webp)
 (Font da l’imaginescha: [Detagls](/rm/licenses#lekt6009))
 :::
 B) Determinai e tradusai senza agientschas las suandantas furmas:

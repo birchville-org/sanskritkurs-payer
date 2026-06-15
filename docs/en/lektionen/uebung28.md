@@ -153,7 +153,7 @@ In order to free them from evil, Buddha causes noble people to realize the noble
 (Basis: **आर्यजना आर्यसत्यानि बुध्यन्ते ।**)
 
 ::: media
-![](/images/uebung045.jpg)
+![](/images/uebung045.webp)
 Fig.: गर्भगृहे देवीप्रतिमा दर्श्यते
 (Image source: [Details](/en/licenses#uebung045))
 :::

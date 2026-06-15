@@ -34,13 +34,13 @@ lesson_id: 53
 ::::
 
 ::: media
-![](/images/lekt5301.jpg)
+![](/images/lekt5301.webp)
 अभ.: ⟪मार्जारयुगम्⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt5301))
 :::
 
 ::: media
-![](/images/lekt5302.jpg)
+![](/images/lekt5302.webp)
 अभ.: ⟪हस्तौ⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt5302))
 :::
@@ -128,7 +128,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5305.jpg)
+![](/images/lekt5305.webp)
 अभ.: ⟪भरन्तौ⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt5305))
 :::
@@ -231,7 +231,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5306.jpg)
+![](/images/lekt5306.webp)
 चित्रम्: ⟪फले⟫
 (चित्रस्य स्रोतः: [विवरणम्](/hi/licenses#lekt5306))
 :::
@@ -265,7 +265,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5307.jpg)
+![](/images/lekt5307.webp)
 चित्रम्: ⟪धेनू⟫
 (चित्रस्य स्रोतः: [विवरणम्](/hi/licenses#lekt5307))
 :::
@@ -351,7 +351,7 @@ lesson_id: 53
 ::::
 
 ::: media
-![](/images/lekt5308.jpg)
+![](/images/lekt5308.webp)
 अभ.: ⟪पितापुत्रौ⟫
 (चित्र-स्रोत: [विवरण](/hi/licenses#lekt5308))
 :::
@@ -487,7 +487,7 @@ lesson_id: 53
 :::
 
 ::: media
-![](/images/lekt5309.jpg)
+![](/images/lekt5309.webp)
 अभ.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 (चित्रस्रोत: [विवरण](/hi/licenses#lekt5309))
 :::

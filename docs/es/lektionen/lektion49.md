@@ -181,7 +181,7 @@ Ejemplos:
 Los sustantivos en -is y -us son relativamente raros.
 
 ::: media
-![](/images/lekt4907.jpg)
+![](/images/lekt4907.webp)
 Fig.: नमस्ते
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4907))
 :::
@@ -244,7 +244,7 @@ Inf. द्रोग्धुम्
 कुलूहल n.: curiosidad, interés
 
 ::: media
-![](/images/lekt4901.jpg)
+![](/images/lekt4901.webp)
 Fig.: कुलूहलम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4901))
 :::
@@ -255,7 +255,7 @@ Fig.: कुलूहलम्
 कला f.: arte
 
 ::: media
-![](/images/lekt4902.jpg)
+![](/images/lekt4902.webp)
 Fig.: उत्तमा काला
 शिवो नटराजा, siglo XI.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4902))
@@ -274,7 +274,7 @@ Fig.: विहंगः
 वेष m.: vestido, apariencia, exterior
 
 ::: media
-![](/images/lekt4904.jpg)
+![](/images/lekt4904.webp)
 Fig.: वेषः
 वाराणस्याम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4904))
@@ -284,7 +284,7 @@ Fig.: वेषः
 पञ्जर n.: jaula
 
 ::: media
-![](/images/lekt4909.jpg)
+![](/images/lekt4909.webp)
 Fig.: पञ्जरम्
 Adivino con loro en jaula: el loro saca papeletas en las que se indica el destino. Mysore.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4909))
@@ -312,7 +312,7 @@ Gerundiv ध्येय
 आदर m.: consideración, atención, respeto
 
 ::: media
-![](/images/lekt4905.jpg)
+![](/images/lekt4905.webp)
 Fig.: सादरः
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4905))
@@ -324,7 +324,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 शिशु m.: niño, cría
 
 ::: media
-![](/images/lekt4906.jpg)
+![](/images/lekt4906.webp)
 Fig.: गजशिशुः
 Sri Lanka
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4906))
@@ -385,7 +385,7 @@ Preguntas del rey शूद्रक de विदिशा al loro वैशम�
 वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥
 
 ::: media
-![](/images/lekt4908.jpg)
+![](/images/lekt4908.webp)
 Fig.: शुकः
 Loro cabecigrís = Psittacula cyanocephala
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4908))

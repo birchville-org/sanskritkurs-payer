@@ -106,7 +106,7 @@ Oboedientia contra bisnatos, operationes ad victum, operatio ut artifex vel spec
 Oeconomia est agricultura, pecorum cura et mercatura.
 
 ::: media
-![](/images/uebung013.jpg)
+![](/images/uebung013.webp)
 Abb.: रक्षणं सर्वभूतानाम्
 (Fons imaginis: [Detalia](/licenses#uebung013))
 :::

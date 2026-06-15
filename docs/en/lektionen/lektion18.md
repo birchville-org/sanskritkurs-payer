@@ -277,7 +277,7 @@ Examples:
 sam-kṛ + -a = संस्कार m.: consecration, preparation ; transition rituals = designation for the ceremonies that accompany the various stages of life from conception to death (see the excellent summary by Basham, Wonder pp. 160 - 170!)
 
 ::: media
-![](/images/lekt1804.jpg)
+![](/images/lekt1804.webp)
 Fig.: विवाहः
 Wedding = विवाह m., an important संस्कारः
 (Image source: [Details](/en/licenses#lekt1804))
@@ -292,7 +292,7 @@ upa-nī + -ana = उपनयन n.: the leading near (to the sacrificial fire) 
 Through the Upanayana, the second birth occurs, therefore: द्विज । द्विजाति
 
 ::: media
-![](/images/lekt1801.jpg)
+![](/images/lekt1801.webp)
 Fig.: उपनयनम्
 "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
 (Image source: [Details](/en/licenses#lekt1801))
@@ -427,7 +427,7 @@ A) Resolve the following Sanskrit compounds and provide translation suggestions:
 ९. कुलोपदेश m.
 
 ::: media
-![](/images/lekt1802.jpg)
+![](/images/lekt1802.webp)
 Fig.: मृतिसाधनी काली
 1770 Print
 (Image source: [Details](/en/licenses#lekt1802))
@@ -448,7 +448,7 @@ B) Translate using verbs of the 2nd present class:
 6. Thus speaks he who has [walked the path of rebirths] well to the disciple.
 
 ::: media
-![](/images/lekt1803.jpg)
+![](/images/lekt1803.webp)
 Fig.: सुगतः
 गन्धार 1st/2nd cent. CE
 (Image source: [Details](/en/licenses#lekt1803))

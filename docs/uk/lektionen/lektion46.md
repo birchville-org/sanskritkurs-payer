@@ -410,23 +410,23 @@ Absol. -ग्राह्य
 
 > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Вступ та огляд. -- 10. Сакраменти та перехідні ритуали (samskara). -- Додаток C: Раху та Кету, невидимі планети-странники . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 Рис.: [सूर्यः, चन्द्रः, मङ्गलः](/uk/licenses#lekt4602)
 (Джерело зображення: [Деталі](/uk/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 Рис.: [बुधः, बृहस्पतिः](/uk/licenses#lekt4603)
 (Джерело зображення: [Деталі](/uk/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 Рис.: [शुक्रः, शनिः](/uk/licenses#lekt4604)
 (Джерело зображення: [Деталі](/uk/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 Рис.: [राहुः, केतुः](/uk/licenses#lekt4605)
 (Джерело зображення: [Деталі](/uk/licenses#lekt4605))
 :::
@@ -455,7 +455,7 @@ Inf. नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 Рис.: [नारायण तुभ्यं नमामि](/uk/licenses#lekt4607)
 (Джерело зображення: [Деталі](/uk/licenses#lekt4607))
 :::
@@ -473,7 +473,7 @@ Inf. रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 Рис.: [अश्वरोहकः](/uk/licenses#lekt4606)
 (Джерело зображення: [Деталі](/uk/licenses#lekt4606))
 :::
@@ -492,7 +492,7 @@ Absol. -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 Рис.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/uk/licenses#lekt4608)
 (Джерело зображення: [Деталі](/uk/licenses#lekt4608))
 :::
@@ -521,7 +521,7 @@ Absol. श्रमित्वा । श्रान्त्वा
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 Рис.: [श्रान्तः](/uk/licenses#lekt4609)
 (Джерело зображення: [Деталі](/uk/licenses#lekt4609))
 :::
@@ -552,7 +552,7 @@ Absol. श्रमित्वा । श्रान्त्वा
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 Рис.: [सङ्गः](/uk/licenses#lekt4610)
 (Джерело зображення: [Деталі](/uk/licenses#lekt4610))
 :::
@@ -620,7 +620,7 @@ Absol. श्रमित्वा । श्रान्त्वा
 भोस् Вокативна частка: вигук звертання, напр.: еге, хей, ох, ах, привіт, хай! часто не перекладається. Ця частка має спеціальний сандхі: перед усіма дзвінкими звуками вона звучить як ***भो***.
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 Рис.: [भोः](/uk/licenses#lekt4611)
 (Джерело зображення: [Деталі](/uk/licenses#lekt4611))
 :::
@@ -696,7 +696,7 @@ B) Перекладіть:
 नास्ति बुद्धिरयुक्तस्य ॥३॥
 
 ::: media
-![](/images/lekt4612.jpg)
+![](/images/lekt4612.webp)
 Мал.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/uk/licenses#lekt4612)
 (Джерело зображення: [Деталі](/uk/licenses#lekt4612))
 :::

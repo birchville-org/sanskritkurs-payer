@@ -81,7 +81,7 @@ Las divinitats s'ira cunter quests Brahmans, che n'han betg rendì veneraziun a 
 Per morir, essers vivents naschan.
 
 ::: media
-![](/images/uebung037.jpg)
+![](/images/uebung037.webp)
 Imagg.: मरणाय जना जायन्ते
 (Sursa da l’imaggina: [Detagls](/licenses#uebung037))
 :::
@@ -156,7 +156,7 @@ E) Sustitui en la fratscha B) 6 il dativ cun ina construcziun cun **-अर्�
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung038.jpg)
+![](/images/uebung038.webp)
 Abb.: इदं फलं अलं खादनाय
 (Font dal maletg: [Detagls](/licenses#uebung038))
 :::

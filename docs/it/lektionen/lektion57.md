@@ -112,7 +112,7 @@ Paradigmi:
 | **3. प्रथमः** | अनैषीत् | अनैषुर् | नेष्ट | अनेषत |
 
 ::: media
-![](/images/lekt5701.jpg)
+![](/images/lekt5701.webp)
 Fig.: भीमराव रामजी आंबेडकर (१८९१ १९५६) । सो ऽनैषीद्दलितान् ॥
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5701))
 :::

@@ -96,7 +96,7 @@ devī + indrāṇī » devīndrāṇī „Indrāṇī este o zeiță” = दे
 > (Indrāṇī este soția zeului Indra.)
 
 ::: media
-![](/images/lekt0301.jpg)
+![](/images/lekt0301.webp)
 Fig.: Indra și Indrāṇī pe elefantul Airavata, miniatură, Rājasthān, 1670/80
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0301))
 :::
@@ -194,7 +194,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaișyș sunt de două ori născuț
 **devī** f. = देवी : zeiță, în special Durgā f. = दुर्गा, soția lui Śiva = शिव.
 
 ::: media
-![](/images/lekt0303.jpg)
+![](/images/lekt0303.webp)
 Fig.: Durgā = दुर्गा, Orissa
 (Sursa imaginii: [Detalii](/images/lekt0303))
 :::

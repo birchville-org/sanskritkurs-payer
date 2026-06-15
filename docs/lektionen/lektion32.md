@@ -141,7 +141,7 @@ Beispiele:
 **चूत**
 
 ::: media
-![](/images/lekt3202.jpg)
+![](/images/lekt3202.webp)
 Abb.: चूतः
 Mangobaum, Kanpur.
 (Bildquelle: [Details](/licenses#lekt3202))
@@ -178,7 +178,7 @@ Mangobaum, Kanpur.
 **वानर कपि**
 
 ::: media
-![](/images/lekt3203.jpg)
+![](/images/lekt3203.webp)
 Abb.: वानराः
 Affen (rhesus macaques) in Delhi.
 (Bildquelle: [Details](/licenses#lekt3203))
@@ -200,7 +200,7 @@ Affen (rhesus macaques) in Delhi.
 **उपल**
 
 ::: media
-![](/images/lekt3204.jpg)
+![](/images/lekt3204.webp)
 Abb.: उपलाः
 Stone quarry south of Pune, Maharashtra.
 (Bildquelle: [Details](/licenses#lekt3204))
@@ -209,7 +209,7 @@ Stone quarry south of Pune, Maharashtra.
 **लक्ष्य**
 
 ::: media
-![](/images/lekt3205.jpg)
+![](/images/lekt3205.webp)
 Abb.: लक्ष्यम्
 Target practice / arrow target, Karnataka.
 (Bildquelle: [Details](/licenses#lekt3205))
@@ -236,7 +236,7 @@ Target practice / arrow target, Karnataka.
 :::
 
 ::: media
-![](/images/lekt3207.jpg)
+![](/images/lekt3207.webp)
 Abb.: चितं गोमयं दहति
 Burning cowdung patties in Rajasthan.
 (Bildquelle: [Details](/licenses#lekt3207))
@@ -251,7 +251,7 @@ Burning cowdung patties in Rajasthan.
 **कौशल कुशल**
 
 ::: media
-![](/images/lekt3206.jpg)
+![](/images/lekt3206.webp)
 Abb.: कौशलम्
 Mehndi painting on hands in Mumbai.
 (Bildquelle: [Details](/licenses#lekt3206))
@@ -350,7 +350,7 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥
 
 ::: media
-![](/images/lekt3208.jpg)
+![](/images/lekt3208.webp)
 Abb.: बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
 Buddhist monk in Sri Lanka.
 (Bildquelle: [Details](/licenses#lekt3208))
@@ -574,7 +574,7 @@ C) Übersetzen Sie ins Sanskrit:
 52. Auf Wiedersehen!
 
 ::: media
-![](/images/lekt3209.jpg)
+![](/images/lekt3209.webp)
 Abb.: पुनर्दर्शनाय
 Indian greeting / farewell.
 (Bildquelle: [Details](/licenses#lekt3209))
@@ -656,7 +656,7 @@ Erklärungen:
 :::
 
 ::: media
-![](/images/lekt3210.jpg)
+![](/images/lekt3210.webp)
 Abb.: तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
 Monkeys in mango trees.
 (Bildquelle: [Details](/licenses#lekt3210))

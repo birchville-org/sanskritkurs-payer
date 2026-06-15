@@ -186,7 +186,7 @@ quai da:
 धान्य n.: grana batida
 
 ::: media
-![](/images/lekt2501.jpg)
+![](/images/lekt2501.webp)
 Abb.: धान्यम्
 (Font dal maletg: [Detagls](/rm/licenses#lekt2501))
 :::
@@ -273,7 +273,7 @@ quai da:
 मूल n.: radisch
 
 ::: media
-![](/images/lekt2502.jpg)
+![](/images/lekt2502.webp)
 Abb.: मूलानि
 (Font dal maletg: [Detagls](/rm/licenses#lekt2502))
 :::
@@ -293,7 +293,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt2503.jpg)
+![](/images/lekt2503.webp)
 Abb.: लिप्तिः
 (Font dal maletg: [Detagls](/rm/licenses#lekt2503))
 :::
@@ -318,7 +318,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt2504.jpg)
+![](/images/lekt2504.webp)
 Abb.: विवाहः
 (Font dal maletg: [Detagls](/rm/licenses#lekt2504))
 :::
@@ -337,7 +337,7 @@ quai da:
 विष्टि f.: lavur, servetsch forzas
 
 ::: media
-![](/images/lekt2505.jpg)
+![](/images/lekt2505.webp)
 Abb.: विष्टिः
 (Font dal maletg: [Detagls](/rm/licenses#lekt2505))
 :::
@@ -365,7 +365,7 @@ davant:
 हिरण्य ३ : auri; n.: auri, daners, riczza
 
 ::: media
-![](/images/lekt2506.jpg)
+![](/images/lekt2506.webp)
 Abb.: हिरण्यम्
 (font dal maletg: [Detagls](/rm/licenses#lekt2506))
 :::
@@ -424,7 +424,7 @@ B) Traduciai e resolvai ils composts en sânscrit:
 लोकादधिको हरिः ॥१७॥ (हरi m. = विष्णु / कृष्ण)
 
 ::: media
-![](/images/lekt2507.jpg)
+![](/images/lekt2507.webp)
 Fig.: लोकादधिको हरिः
 :::
 

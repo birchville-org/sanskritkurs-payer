@@ -107,7 +107,7 @@ Quando due delle tre ultime disposizioni possono applicarsi contemporaneamente, 
 **kāma** m. = काम : desiderio, brama, dono desiderato, piacere sensuale, amore; dio dell'amore Kāma.
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 Fig.: Dio Kāma = kāmadeva = कामदेव, XVIII secolo.
 (Fonte dell'immagine: Wikipedia, dominio pubblico)
 :::

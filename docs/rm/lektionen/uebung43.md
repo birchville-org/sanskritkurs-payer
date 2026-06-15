@@ -68,7 +68,7 @@ A) Formai la **2. persuna** correspundenta en temp, numer, modi e cetera per las
 :::
 
 ::: media
-![](/images/uebung070.jpg)
+![](/images/uebung070.webp)
 Fig.: दिशसि
 (Sursa da l’imagine: [Detagls](/licenses#uebung070))
 :::

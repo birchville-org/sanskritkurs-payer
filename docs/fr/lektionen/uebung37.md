@@ -122,7 +122,7 @@ C) Déterminez et traduisez les composés suivants :
 :::
 
 ::: media
-![](/images/uebung062.jpg)
+![](/images/uebung062.webp)
 Fig. : पुत्रे जात आर्यः सुखमाप्नोति
 (Source de l'image : [Détails](/fr/licenses#uebung062))
 :::

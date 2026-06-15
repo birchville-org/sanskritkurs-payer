@@ -81,7 +81,7 @@ Los dioses se encolerizan con estos brahmanes, que no les rendían adoración.
 Para morir, los seres nacen.
 
 ::: media
-![](/images/uebung037.jpg)
+![](/images/uebung037.webp)
 Fig.: मरणाय जना जायन्ते
 (Fuente de la imagen: [Detalles](/licenses#uebung037))
 :::
@@ -156,7 +156,7 @@ E) Sustituya en la oración B) 6 el dativo por una construcción con **-अर�
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung038.jpg)
+![](/images/uebung038.webp)
 Fig.: इदं फलं अलं खादनाय
 (Fuente de la imagen: [Detalles](/licenses#uebung038))
 :::

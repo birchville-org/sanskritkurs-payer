@@ -232,7 +232,7 @@ Exemplu **yaj** = यज् = "a onora cu un sacrificiu", "a sacrifica":
 13. Brahmana (menționată) dansează.
 
 ::: media
-![](/images/lekt0601.jpg)
+![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
 (Sursa imaginii: Wikipedia, CC-BY-SA 2.5)
@@ -312,7 +312,7 @@ Exemplu **yaj** = यज् = "a onora cu un sacrificiu", "a sacrifica":
 3. Mīnākṣī este o zeiță.
 
 ::: media
-![](/images/lekt0602.jpg)
+![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Templul Mīnākṣī, Madurai, Tamil Nadu
 (Sursa imaginii: Wikipedia, Domeniu public)
 :::

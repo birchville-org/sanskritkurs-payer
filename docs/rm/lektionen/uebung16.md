@@ -77,7 +77,7 @@ Ils guerriers fermus èn ids en il vitg da Brahmanas.
 El venerescha la deidade persunala dal meritabel Vaiśya.
 
 ::: media
-![](/images/uebung023.jpg)
+![](/images/uebung023.webp)
 Abb.: न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung023))
 :::
@@ -261,7 +261,7 @@ Fr. 13: **सर्वेषाम्** Genitiv plural masculin a सर्व "
 La verga provi la acquista e la possessiun sicura da filosofia, vedistica ed economia. La direcziun da la verga è politica.
 
 ::: media
-![](/images/uebung024.jpg)
+![](/images/uebung024.webp)
 Fig.: योगश्चित्तवृत्तिनिरोधः
 (Sursa da l'imagia: [Detagls](/licenses#uebung024))
 :::

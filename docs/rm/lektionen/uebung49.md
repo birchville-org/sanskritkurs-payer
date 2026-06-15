@@ -55,7 +55,7 @@ Definir las suandantas furmas:
 :::
 
 ::: media
-![](/images/uebung078.jpg)
+![](/images/uebung078.webp)
 Abb.: गायी
 (Font dal maletg: [Detagls](/licenses#uebung078))
 :::
@@ -75,7 +75,7 @@ Fatschas dal re **शूद्रक** da **विदिशा** al papegial **�
 > Vaiśampāyana, che era stà dumandà dal signur da la terra cun curiusa spontana e cun grond respèct, ha pensà in moment e ha alura respondì cun grond respèct: «Re, quai è ina istorgia lunga. Sche vus avais interès, emprustai a vus voss aureglia!»
 
 ::: media
-![](/images/uebung079.jpg)
+![](/images/uebung079.webp)
 Abb.: शुकः
 (Sursa da l'imagines: [Detagl](/licenses#uebung079))
 :::

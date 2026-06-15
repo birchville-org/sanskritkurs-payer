@@ -36,7 +36,7 @@ oppure:
 ::::
 
 ::: media
-![](/images/lekt2404.jpg)
+![](/images/lekt2404.webp)
 Fig.: बाला गुरुश्रवणाय गताः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2404))
 :::
@@ -60,7 +60,7 @@ Esempio:
 ::::
 
 ::: media
-![](/images/lekt2401.jpg)
+![](/images/lekt2401.webp)
 Fig.: यज्ञायान्नम्
 'Annakut' [अन्नकूट = गोवर्धन पूजा] è un evento tradizionale indù che si svolge durante le celebrazioni del Nuovo Anno indù in tutti i mandir BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Centinaia di piatti vegetariani sono offerti a Bhagwan Swaminarayan [સ્વામિનારાયણ] in questo giorno.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2401))
@@ -77,7 +77,7 @@ Esempio:
 ::::
 
 ::: media
-![](/images/lekt2402.jpg)
+![](/images/lekt2402.webp)
 Fig.: बाला बालाय रक्षबन्धनं ददाति
 Raksha bandhan è celebrato con fervore e gioia in tutta l'India. Questo festival incarna l'amore incondizionato tra fratelli e sorelle.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2402))
@@ -96,7 +96,7 @@ Esempi:
 ::::
 
 ::: media
-![](/images/lekt2403.jpg)
+![](/images/lekt2403.webp)
 Fig.: अलं योधो योधाय
 "Rama (a destra) seduto sulle spalle di Hanuman, combatte il re demone Ravana." ca 1820
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2403))
@@ -208,7 +208,7 @@ Allo stesso modo in cui अलम् con strumentale viene utilizzato:
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 Fig.: अलंकारः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2405))
 :::
@@ -219,7 +219,7 @@ Fig.: अलंकारः
 प्रतिमा f.: immagine, ritratto
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 Fig.: देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2406))
@@ -259,7 +259,7 @@ da ciò
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 Fig.: ऊहापोहः
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor delegato degli esteri, CNN-IBN Network 18, India, modera una tavola rotonda al Vertice Economico India 2008 del Forum Economico Mondiale a Nuova Delhi."
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2407))
@@ -281,7 +281,7 @@ da ciò:
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 Fig.: आख्यानम्
 "Lo storyteller di San Francisco Jeff Byers racconta una storia ai residenti di Chenneri, un villaggio degli Irula. Lo storyteller Jeeva Raghunath traduce in tamil per gli abitanti del villaggio."
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2408))
@@ -313,7 +313,7 @@ da ciò:
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 Fig.: जयदेवकविर्विष्णुं नमस्करोति
 Manoscritto del गीतगोविन्द, 1730 d.C.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2411))
@@ -401,7 +401,7 @@ Tradurre in sanscrito:
 5\. Onore (नमस्) sia a Śiva! Onore sia a Śrī Gaṇeśa!
 
 ::: media
-![](/images/lekt2409.jpg)
+![](/images/lekt2409.webp)
 Fig.: श्रीगणेशाय नमः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2409))
 :::
@@ -422,7 +422,7 @@ Spiegazione: मुनित्रयम् "la Trinità dei saggi = i tre saggi
 :::
 
 ::: media
-![](/images/lekt2410.jpg)
+![](/images/lekt2410.webp)
 Fig.: नरो नरसिंहाय नमस्करोति
 नरसिंह dilania हिरण्यकशिपु, pagina da un manoscritto del भागवतपुराण
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2410))

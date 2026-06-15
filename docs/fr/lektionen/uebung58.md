@@ -34,7 +34,7 @@ Déterminez et traduisez les formes suivantes, puis formez les formes correspond
 19.  अचेतः - चित् 1P 2.sg.Impf.P tu perçus - अचेतीः
 
 :::: media
-![](/images/uebung095.jpg)
+![](/images/uebung095.webp)
 Fig. : तब्लाः
 (Source de l'image : [Détails](/fr/licenses#uebung095))
 :::
@@ -46,7 +46,7 @@ Fig. : तब्लाः
 Déterminez et traduisez les formes suivantes :
 
 ::: media
-![](/images/uebung097.jpg)
+![](/images/uebung097.webp)
 Fig. : मातुलङ्गविक्रेतायं ना ॥  
 Pune - पुणे  
 \[Source de l'image : Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Consulté le 2009-03-12. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de modification)\]
@@ -91,7 +91,7 @@ Pune - पुणे
 38.  दद - दा 3U 2.pl.Perf.P vous donniez
 39.  अञ्ज्वः - अञ्ज् 7P 1.du.Ind.Prés.P nous deux oignons
 
-![](/images/uebung096.jpg)
+![](/images/uebung096.webp)
 Fig. : श्वा श्वानमघ्रात्
 (Source de l'image : [Détails](/fr/licenses#uebung096))
 :::

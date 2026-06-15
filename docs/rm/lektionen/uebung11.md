@@ -125,7 +125,7 @@ D) Formai per las sentenzas creadas sut C) la construcziun passiva
 १२. तैः श्रावकैर्बुद्धो धर्मं प्र्च्छ्यते ॥
 
 ::: media
-![](/images/uebung022.jpg)
+![](/images/uebung022.webp)
 Abb.: केनाग्निरिज्यते ।
 (Sursa da l’imagine: [Detagls](/licenses#uebung022))
 :::
@@ -231,7 +231,7 @@ E) Transfurma las frastas C)1-5 en construcziuns activas.
 ५. ब्राह्मनो ऽनृतं न वदति ॥
 
 ::: media
-![](/images/uebung021.jpg)
+![](/images/uebung021.webp)
 Abb.: फलान्यश्नुते
 (Sursa da l'imagina: [Detagls](/licenses#uebung021))
 :::

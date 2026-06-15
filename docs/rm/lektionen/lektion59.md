@@ -838,14 +838,14 @@ La puzia ha quatter sectiuns:
 Il भट्टिकाव्य è naschì tranter l'onn 495 e 641 suenter Crist.
 
 ::: media
-![](/images/lekt5902.jpg)
+![](/images/lekt5902.webp)
 Abb.: रावणः
 (Font da l'imagia: [Detagls](/rm/licenses#lekt5902))
 :::
 Il suvent secteur è l'iniz dal 15. cant, che è dedicà a l'aorist. रावण, il re da diavels, che ha rapì a राम sia dunna सीता, manda per sia frar कुम्भकर्ण ("Orelha da tschira"), che giacescha en ina sort da sleep permanent sco chastia per sias malfatgs.
 
 ::: media
-![](/images/lekt5903.jpg)
+![](/images/lekt5903.webp)
 Abb.: कुम्भकर्णः
 Danza Kecak, Bali (Indonesia)
 (Font da l'imagia: [Detagls](/rm/licenses#lekt5903))
@@ -853,7 +853,7 @@ Danza Kecak, Bali (Indonesia)
 _Agiuda per la traductiun_: Vers 6: दिदृक्षते \= Desiderativ per दृश्
 
 ::: media
-![](/images/lekt5901.jpg)
+![](/images/lekt5901.webp)
 (Font da l'imagia: [Detagls](/rm/licenses#lekt5901))
 :::
 Text da: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.

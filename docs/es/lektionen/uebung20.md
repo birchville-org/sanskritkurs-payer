@@ -65,7 +65,7 @@ B) Traduzca utilizando compuestos al sánscrito:
 अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः शूद्रा अपि ॥
 
 ::: media
-![](/images/uebung031.jpg)
+![](/images/uebung031.webp)
 Fig.: शस्त्राजीवः क्षत्रियः
 (Fuente de la imagen: [Detalles](/licenses#uebung031))
 :::
@@ -239,7 +239,7 @@ Resuelva los siguientes compuestos como Bahuvrīhi y/o Dvandva y/o Tatpuruṣa d
 ८१. **सोढदुःखाः** । सोढं दुःखं यैस्ते ।
 
 ::: media
-![](/images/uebung030.jpg)
+![](/images/uebung030.webp)
 Fig.: सम्पन्नरूपा रूपसम्पन्ना
 (Fuente de la imagen: [Detalles](/licenses#uebung030))
 :::
@@ -295,7 +295,7 @@ En el centro delgada, de caderas anchas, con labios rojos, ojos negros, con un o
 Los pobres, que no desean, tienen muchos hijos, los ricos no tienen un solo hijo. Extraño es el curso de la creación.
 
 ::: media
-![](/images/uebung032.jpg)
+![](/images/uebung032.webp)
 Fig.: सन्ति पुत्राः सुबहवो दरिद्राणाम्
 (Fuente de la imagen: [Detalles](/licenses#uebung032))
 :::

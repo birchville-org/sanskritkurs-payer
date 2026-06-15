@@ -145,7 +145,7 @@ kiṃ kāraṇam?
 किं कारणम् ॥
 
 ::: media
-![](/images/uebung007.jpg)
+![](/images/uebung007.webp)
 Fig.: इमे योधाः किं कुर्वन्ति ।
 (Image source: [Details](/en/licenses#uebung007))
 :::
@@ -209,7 +209,7 @@ The parrot flies.
 The boy writes a letter.
 
 ::: media
-![](/images/uebung008.jpg)
+![](/images/uebung008.webp)
 Fig.: कपिः फलं खदति
 (Image source: [Details](/en/licenses#uebung008))
 :::

@@ -2,7 +2,7 @@
 
 ## Exercițiu de scriere 7
 
-![](/images/schrift012.jpg)
+![](/images/schrift012.webp)
 
 Exemple de r înaintea consoanelor:
 
@@ -45,7 +45,7 @@ r după consoană: /
 
 Despre scriere:
 
-![](/images/schrift014.jpg)
+![](/images/schrift014.webp)
 
 ## Exercițiu
 

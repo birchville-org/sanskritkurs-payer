@@ -70,7 +70,7 @@ Irregulare: स्त्री f. "Femina"
 :::
 
 ::: media
-![](/images/lekt6102.jpg)
+![](/images/lekt6102.webp)
 Tab.: स्त्रियः
 (Fons imaginis: [Detalia](/la/licenses#lekt6102))
 :::
@@ -157,7 +157,7 @@ Paradigma:
 | **सप्तमी** | खलप्वि | ^^ | खलपूषु |
 
 ::: media
-![](/images/lekt6106.jpg)
+![](/images/lekt6106.webp)
 Fig.: रथ्याप्वः
 काशीपुर
 (Fons imaginis: [Detalia](/la/licenses#lekt6106))
@@ -185,7 +185,7 @@ Paradigma:
 | **आमन्त्रितम्** | वधु | वध्वौ | वध्वस् |
 
 ::: media
-![](/images/lekt6107.jpg)
+![](/images/lekt6107.webp)
 Tab.: वध्वौ
 जोधपुर
 (Fons imaginis: [Detalia](/la/licenses#lekt6107))
@@ -264,7 +264,7 @@ Paradigma:
 :::
 
 ::: media
-![](/images/lekt6104.jpg)
+![](/images/lekt6104.webp)
 Abb.: सर्पो वव्रज्यते ॥
 Karnataka = ಕರ್ನಾಟಕ
 (Fons imaginis: [Detalia](/la/licenses#lekt6104))
@@ -465,13 +465,13 @@ Notam fac de significatione:
 | नमस् n. "Veneratio" | नमस्यति "veneratur" |
 
 ::: media
-![](/images/lekt6105.jpg)
+![](/images/lekt6105.webp)
 Tab.: किं तपस्यति न वा ?
 हरिद्वार
 (Fons imaginis: [Detalia](/la/licenses#lekt6105))
 :::
 ::: media
-![](/images/lekt6103.jpg)
+![](/images/lekt6103.webp)
 Tab.: बालौ शिवं नमस्यतः ॥
 (Fons imaginis: [Detalia](/la/licenses#lekt6103))
 :::
@@ -491,7 +491,7 @@ Exempla:
 | यशस् n. "fama" | यशस्काम्यति "sibi vult famam" |
 
 ::: media
-![](/images/lekt6109.jpg)
+![](/images/lekt6109.webp)
 Tabula: यशस्काम्यन्ति
 मुंबई
 (Fons imaginis: [Descriptiones](/la/licenses#lekt6109))
@@ -516,7 +516,7 @@ Exempla:
 :::
 
 ::: media
-![](/images/lekt6110.jpg)
+![](/images/lekt6110.webp)
 Fig.: कस्तत्र न मधुस्यति ?
 Karli
 (Fons imaginis: [Detalia](/la/licenses#lekt6110))
@@ -567,7 +567,7 @@ Exempla:
 ::::
 
 ::: media
-![](/images/lekt6111.jpg)
+![](/images/lekt6111.webp)
 Fig.: श्वानौ शब्दायेते
 (Fons imaginis: [Detalia](/la/licenses#lekt6111))
 :::
@@ -587,7 +587,7 @@ Exempla:
 | मुण्ड 3 "tonsuratus" | मुण्डयति "eum tonsurat" |
 
 ::: media
-![](/images/lekt6113.jpg)
+![](/images/lekt6113.webp)
 Fig.: भिक्षुर्मुण्डयते ।
 Thailandia - เมืองไทย
 (Fons imaginis: [Detalia](/la/licenses#lekt6113))
@@ -655,7 +655,7 @@ Paradigma:
 :::
 
 ::: media
-![](/images/lekt6114.jpg)
+![](/images/lekt6114.webp)
 Tabula: नववर्षं शुभं भूयात् ॥
 Basilica Sanctae Crucis, Cochin = കൊച്ചി
 (Fons imaginis: [Descriptiones](/la/licenses#lekt6114))
@@ -707,11 +707,11 @@ Paradigma:
 Paradigmata: Kielhorn, Grammatica § 153:
 
 ::: media
-![](/images/lekt6115.jpg)
+![](/images/lekt6115.webp)
 (Fons imaginis: [Detalia](/la/licenses#lekt6115))
 :::
 ::: media
-![](/images/lekt6118.jpg)
+![](/images/lekt6118.webp)
 Tabula: हरिद्वारे गावः ॥
 (Fons imaginis: [Detalia](/la/licenses#lekt6118))
 :::
@@ -727,7 +727,7 @@ Kielhorn, Grammatica § 177:
 (Fons imaginis: [Detalia](/la/licenses#lekt6116))
 :::
 ::: media
-![](/images/lekt6117.jpg)
+![](/images/lekt6117.webp)
 Tabula: आवां स्वसारौ ॥
 Gens Apatiana, Arunachal Pradesh
 (Fons imaginis: [Detalia](/la/licenses#lekt6117))
@@ -780,7 +780,7 @@ Femininum (स्त्री)
 Post finem cursus Sanscritici, incipit verum "natatio" in oceanum litteraturae Sanscriticae. Cum hic oceanus plenus sit obstaculis, congruum est hunc novum vitae stadium invocatione Gaṇeśae incipere:
 
 ::: media
-![](/images/lekt6101.jpg)
+![](/images/lekt6101.webp)
 Tab.: श्रीगणनाथः
 Halebidu (ಹಳೆಬೀಡು), saec. 12./13. p. Chr.
 (Fons imaginis: [Detalia](/la/licenses#lekt6101))
@@ -807,7 +807,7 @@ Rāga: Malahari (ad मायामाळवगौळ = Māyāmālavagauḷa = �
 Tāla: Rūpaka: o |4
 
 ::: media
-![](/images/lekt6119.jpg)
+![](/images/lekt6119.webp)
 Tab.: Melodia, ad c relata, secundum regionem vocis transponi potest.
 (Fons imaginis: [Detalia](/la/licenses#lekt6119))
 :::

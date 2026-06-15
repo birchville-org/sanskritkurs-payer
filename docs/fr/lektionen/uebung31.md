@@ -30,7 +30,7 @@ Celui qui possède la compréhension est libéré de la souffrance ; c'est pourq
 Un homme obscurci savoure de bonnes nourritures et de belles femmes. Dont l'obscurité a disparu, ne désire ni bonne nourriture ni femme au corps parfait. Il empêche en effet l'avidité et la haine et se concentre sur la compréhension.
 
 ::: media
-![](/images/uebung049.jpg)
+![](/images/uebung049.webp)
 Fig. : कुलबन्धनम्
 (Source de l'image : [Détails](/fr/licenses#uebung049))
 :::

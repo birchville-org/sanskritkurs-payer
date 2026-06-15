@@ -11,6 +11,7 @@ import PayerTopicIndex from './components/PayerTopicIndex.vue'
 import PayerRelatedLessons from './components/PayerRelatedLessons.vue'
 import PayerWideToggle from './components/PayerWideToggle.vue'
 import PayerLanguageSettings from './components/PayerLanguageSettings.vue'
+import PayerOfflineIndicator from './components/PayerOfflineIndicator.vue'
 import './custom.css'
 
 function closeAllExcept(clickedGroup) {
@@ -97,6 +98,7 @@ function mergeTableCells() {
 export default {
   extends: DefaultTheme,
   Layout: () => h(DefaultTheme.Layout, null, {
+    'doc-before': () => h(PayerOfflineIndicator),
     'doc-footer-before': () => h(PayerDocFooter),
     'nav-bar-content-after': () => h(PayerWideToggle)
   }),
@@ -156,6 +158,7 @@ export default {
       app.component('PayerTopicIndex', PayerTopicIndex)
       app.component('PayerRelatedLessons', PayerRelatedLessons)
       app.component('PayerLanguageSettings', PayerLanguageSettings)
+      app.component('PayerOfflineIndicator', PayerOfflineIndicator)
       
       if (typeof window !== 'undefined') {
           // Suche: Detailansicht immer einschalten

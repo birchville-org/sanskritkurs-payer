@@ -36,7 +36,7 @@ ou :
 ::::
 
 ::: media
-![](/images/lekt2404.jpg)
+![](/images/lekt2404.webp)
 Fig. : बाला गुरुश्रवणाय गताः
 (Source de l'image : [Détails](/fr/licenses#lekt2404))
 :::
@@ -60,7 +60,7 @@ Exemple :
 ::::
 
 ::: media
-![](/images/lekt2401.jpg)
+![](/images/lekt2401.webp)
 Fig. : यज्ञायान्नम्
 'Annakut' [अन्नकूट = गोवर्धन पूजा] est un événement hindou traditionnel qui a lieu lors des célébrations du Nouvel An hindou dans tous les mandirs BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Des centaines de plats végétariens sont offerts à Bhagwan Swaminarayan [સ્વામિનારાયણ] ce jour-là.
 (Source de l'image : [Détails](/fr/licenses#lekt2401))
@@ -77,7 +77,7 @@ Exemple :
 ::::
 
 ::: media
-![](/images/lekt2402.jpg)
+![](/images/lekt2402.webp)
 Fig. : बाला बालाय रक्षबन्धनं ददाति
 Le Raksha bandhan est célébré avec ferveur et joie dans toute l'Inde. Ce festival incarne l'amour inconditionnel entre frères et sœurs.
 (Source de l'image : [Détails](/fr/licenses#lekt2402))
@@ -96,7 +96,7 @@ Exemples :
 ::::
 
 ::: media
-![](/images/lekt2403.jpg)
+![](/images/lekt2403.webp)
 Fig. : अलं योधो योधाय
 "Rama (à droite) assis sur les épaules de Hanuman, combat le roi-démon Ravana." vers 1820
 (Source de l'image : [Détails](/fr/licenses#lekt2403))
@@ -208,7 +208,7 @@ De la même manière que अलम् avec l'instrumental est utilisé :
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 Fig. : अलंकारः
 (Source de l'image : [Détails](/fr/licenses#lekt2405))
 :::
@@ -219,7 +219,7 @@ Fig. : अलंकारः
 प्रतिमा f. : image, représentation
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 Fig. : देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Source de l'image : [Détails](/fr/licenses#lekt2406))
@@ -259,7 +259,7 @@ de cela
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 Fig. : ऊहापोहः
 « NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, rédactrice adjointe des affaires étrangères, CNN-IBN Network 18, Inde, modère un panel de discussion lors du Sommet économique de l'Indie 2008 du Forum économique mondial à New Delhi. »
 (Source de l'image : [Détails](/fr/licenses#lekt2407))
@@ -281,7 +281,7 @@ de cela :
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 Fig. : आख्यानम्
 « Le conteur de San Francisco Jeff Byers partage une histoire avec les résidents de Chenneri, un village Irula. Le conteur Jeeva Raghunath traduit en tamoul pour les villageois. »
 (Source de l'image : [Détails](/fr/licenses#lekt2408))
@@ -314,7 +314,7 @@ de cela :
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 Fig. : जयदेवकविर्विष्णुं नमस्करोति
 Manuscrit du गीतगोविन्द, 1730 après J.-C.
 (Source de l'image : [Détails](/fr/licenses#lekt2411))
@@ -402,7 +402,7 @@ Traduisez en sanskrit :
 5. La vénération (नमस्) soit à Śiva ! La vénération soit à Śrī Gaṇeśa !
 
 ::: media
-![](/images/lekt2409.jpg)
+![](/images/lekt2409.webp)
 Fig. : श्रीगणेशाय नमः
 (Source de l’image : [Détails](/fr/licenses#lekt2409))
 :::
@@ -423,7 +423,7 @@ Explication : मुनित्रयम् "la Trinité des sages = les trois 
 :::
 
 ::: media
-![](/images/lekt2410.jpg)
+![](/images/lekt2410.webp)
 Fig. : नरो नरसिंहाय नमस्करोति
 नरसिंह déchiquette हिरण्यकशिपु, page d’un manuscrit du भागवतपुराण
 (Source de l’image : [Détails](/fr/licenses#lekt2410))

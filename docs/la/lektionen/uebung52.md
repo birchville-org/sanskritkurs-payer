@@ -26,7 +26,7 @@ last_reconstructed: 2026-05-15
 > Quod, cum fit, ad internam satisfactionem pertinet, id diligenter facere oportet; contrarium vero omittendum est.
 
 ::: media
-![](/images/uebung087.jpg)
+![](/images/uebung087.webp)
 Abb.: सर्वं परवशं दुःखम्
 (Fons imaginis: [Detalia](/licenses#uebung087))
 :::
@@ -119,7 +119,7 @@ Sapientia salvifica Buddhae:
 > "Haec animantia, quae mala facta commiserunt, in malam existentiam vadunt; alii, qui bonam karmam habent, iterum in caelum Indrae oriuntur."
 
 ::: media
-![](/images/uebung088.jpg)
+![](/images/uebung088.webp)
 Fig.: कदलीगर्भनिःसारः
 (Fons imaginis: [Detalia](/licenses#uebung088))
 :::

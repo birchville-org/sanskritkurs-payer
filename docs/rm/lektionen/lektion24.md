@@ -36,7 +36,7 @@ u:
 ::::
 
 ::: media
-![](/images/lekt2404.jpg)
+![](/images/lekt2404.webp)
 Abb.: बाला गुरुश्रवणाय गताः
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2404))
 :::
@@ -60,7 +60,7 @@ Exempl:
 ::::
 
 ::: media
-![](/images/lekt2401.jpg)
+![](/images/lekt2401.webp)
 Abb.: यज्ञायान्नम्
 'Annakut' [अन्नकूट = गोवर्धन पूजा] è in eveniment tradicional hindu che ha lieu en las celebraziuns da l'onn nov hindu en tut ils temples BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Centenas da plats vegetarian vegnan offerts a Bhagwan Swaminarayan [સ્વામિનારાયણ] en quest di.
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2401))
@@ -77,7 +77,7 @@ Exempl:
 ::::
 
 ::: media
-![](/images/lekt2402.jpg)
+![](/images/lekt2402.webp)
 Abb.: बाला बालाय रक्षबन्धनं ददाति
 Raksha bandhan vegnia celebrà cun fervur e gaja en tut l'India. Quest festival epitomescha l'amur incondiziunada tranter frars e sora.
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2402))
@@ -96,7 +96,7 @@ Exemples:
 ::::
 
 ::: media
-![](/images/lekt2403.jpg)
+![](/images/lekt2403.webp)
 Abb.: अलं योधो योधाय
 "Rama (a la dreta) sedì sin las spallas da Hanuman, bataglia cun il re demon Ravana." ca 1820
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2403))
@@ -208,7 +208,7 @@ En il medem moda sco अलम् cun instrumental vegn duvrà:
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 Abb.: अलंकारः
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2405))
 :::
@@ -219,7 +219,7 @@ Abb.: अलंकारः
 प्रतिमा f.: imagine, replica
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 Abb.: देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2406))
@@ -259,7 +259,7 @@ quai da
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 Abb.: ऊहापोहः
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2407))
@@ -281,7 +281,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 Abb.: आख्यानम्
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2408))
@@ -314,7 +314,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 Fig.: जयदेवकविर्विष्णुं नमस्करोति
 Manuscrit dal गीतगोविन्द, 1730 suenter Crist
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt2411))
@@ -402,7 +402,7 @@ Traduì en sanscrit:
 5\. Veneraziun (नमस्) saja Śiva! Veneraziun saja Śrī Gaṇeśa!
 
 ::: media
-![](/images/lekt2409.jpg)
+![](/images/lekt2409.webp)
 Abb.: श्रीगणेशाय नमः
 (Font dal maletg: [Detagls](/rm/licenses#lekt2409))
 :::
@@ -423,7 +423,7 @@ Explicaziun: मुनित्रयम् "la trinitad dals savis = ils trais 
 :::
 
 ::: media
-![](/images/lekt2410.jpg)
+![](/images/lekt2410.webp)
 Abb.: नरो नरसिंहाय नमस्करोति
 नरसिंह dischquartescha हिरण्यकशिपु, pagina d’in manuscrit dal भागवतपुराण
 (Font dal maletg: [Detagls](/rm/licenses#lekt2410))

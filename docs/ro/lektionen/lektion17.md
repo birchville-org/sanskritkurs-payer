@@ -312,7 +312,7 @@ de acolo:
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 Fig.: घाताः
 Bangalore = ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1703))
@@ -328,7 +328,7 @@ de acolo:
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 Fig.: योगासनम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1701))
 :::
@@ -347,7 +347,7 @@ de acolo:
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : a mulge
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 Fig.: दोग्धि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1702))
 :::

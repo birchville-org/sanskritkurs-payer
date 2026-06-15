@@ -12,7 +12,7 @@ status: stable
 ## 20.1. Possessivkomposita = बहुव्रीहि m.
 
 ::: media
-![](/images/lekt2004.jpg)
+![](/images/lekt2004.webp)
 Abb.: बहुव्रीहिः पुरुषः
 Jodhpur = जोधपुर
 (Bildquelle: [Detagls](/rm/licenses#lekt2004))
@@ -159,7 +159,7 @@ Tradizionalmain distingheschain nus:
 ::::
 
 ::: media
-![](/images/lekt2005.jpg)
+![](/images/lekt2005.webp)
 Abb.: देवा यीश्वादयः
 Gesù e ils auters dios, Ahmedabad
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt2005))
@@ -190,7 +190,7 @@ Exempl:
 ::::
 
 ::: media
-![](/images/lekt2001.jpg)
+![](/images/lekt2001.webp)
 Abb.: इन्द्रो वज्रपाणिः
 Siemreap (ក្រុងសៀមរាប), Cambodgia, 9. tschientaner suenter Crist.
 (font da l'imagines: [Detagls](/rm/licenses#lekt2001))
@@ -221,7 +221,7 @@ Exempels:
 ::::
 
 ::: media
-![](/images/lekt2006.jpg)
+![](/images/lekt2006.webp)
 Abb.: सपुत्रा
 Madhya Pradesh
 (Sursa da l'imagines: [Detagls](/rm/licenses#lekt2006))
@@ -260,7 +260,7 @@ Las exemplicas èn donadas qua per la lavur pli tard, per tscherts èn la gramat
 13.  ed autras
 
 ::: media
-![](/images/lekt2007.jpg)
+![](/images/lekt2007.webp)
 Abb.: कृतकटा
 Chennai = சென்னை
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt2007))
@@ -290,7 +290,7 @@ Quai po esser ver. Tutgà vesan insatge ils indians bler sco embellidant e descr
 आश्रम m., n.: eremitadi, stadi da vita, segment da vita (numadamain sco ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ ed eventualmain sco सन्न्यासिन् ; vesei Basham, Marv S. 159sqq.)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 Fig.: आश्रमः
 Rishikesh = ऋषिकेश. "Quai è en realitad ina part da l'ashram en Rishikesh nua che ils Beatles han restà. Questa part specifica n'era betg qua cura ch'els eran qua, ma ella para cool."
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt2008))
@@ -523,7 +523,7 @@ Explicaziun: तपस् n. (declinaziun pli tard): glisch, calur, dolur; glisc
 :::
 
 ::: media
-![](/images/lekt2010.jpg)
+![](/images/lekt2010.webp)
 Abb.: तपस्
 Buddha sco ascet avant sia visiuma salvadora, Gandhara, 2./3. tschientaner.
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2010))
@@ -565,7 +565,7 @@ Explicaziun: -da a la fin d'in cumponiment: "donond"
 :::
 
 ::: media
-![](/images/lekt2009.jpg)
+![](/images/lekt2009.webp)
 Abb.: लोकानां करदा मही
 Karnataka
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2009))
@@ -595,7 +595,7 @@ Explicaziun: tut las furmas exceptà कं e स्त्रीणाम् èn
 :::
 
 ::: media
-![](/images/lekt2003.jpg)
+![](/images/lekt2003.webp)
 Abb.: तनुमध्यं पृथुश्रोणि
 Sanchi = सांची
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2003))

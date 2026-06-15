@@ -36,7 +36,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2404.jpg)
+![](/images/lekt2404.webp)
 சுருக்கம்: बाला गुरुश्रवणाय गताः
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt2404))
 :::
@@ -60,7 +60,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2401.jpg)
+![](/images/lekt2401.webp)
 சுருக்கம்: यज्ञायान्नम्
 'Annakut' [अन्नकूट = गोवर्धन पूजा] என்பது அனைத்து BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] மந்திர்களில் இந்திய புத்தாண்டு கொண்டாட்டங்களில் நடக்கும் ஒரு பாரம்பரிய இந்திய நிகழ்வாகும். இந்த நாளில், பகவான் சுாமீனாராயணர் [સ્વામિનારાયણ]க்கு நூற்றுக்கணக்கான தாவர உணவுகள் அர்ப்பணிக்கப்படுகின்றன.
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt2401))
@@ -77,7 +77,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2402.jpg)
+![](/images/lekt2402.webp)
 சுருக்கம்: बाला बालाय रक्षबन्धनं ददाति
 ரக்ஷா பந்தன் இந்தியாவெங்கும் ஆர்வத்தோடும் மகிழ்ச்சியோடும் கொண்டாடப்படுகிறது. இந்தத் திருநாளானது அண்ணன் மற்றும் தங்கையிடையேயான நிபந்தனை இல்லாத அன்பைக் குறிக்கிறது.
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt2402))
@@ -96,7 +96,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2403.jpg)
+![](/images/lekt2403.webp)
 சுருக்கம்: अलं योधो योधाय
 "ராமர் (வலதுபுறம்) ஹனுமந்தின் தோள்களில் அமர்ந்து, அசுர அரசன் ராவணனுடன் போரிடுகிறார்." சுமார் 1820
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt2403))
@@ -208,7 +208,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2405.jpg)
+![](/images/lekt2405.webp)
 படம்: अलंकारः
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt2405))
 :::
@@ -219,7 +219,7 @@ status: stable
 प्रतिमा பெண்பால்: படம், பிரதி
 
 ::: media
-![](/images/lekt2406.jpg)
+![](/images/lekt2406.webp)
 படம்: देवीप्रतिमा
 ஹம்பி = ಹಂಪೆ, கர்நாடகா = ಕರ್ನಾಟಕ
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt2406))
@@ -259,7 +259,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2407.jpg)
+![](/images/lekt2407.webp)
 படம்: ऊहापोहः
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt2407))
@@ -281,7 +281,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2408.jpg)
+![](/images/lekt2408.webp)
 படம்: आख्यानम्
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
 (படம் மூலம்: [விவரங்கள்](/ta/licenses#lekt2408))
@@ -314,7 +314,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2411.jpg)
+![](/images/lekt2411.webp)
 அருவம்: जयदेवकविर्विष्णुं नमस्करोति
 गीतगोविन्द-ன் கையெழுத்துப் பிரதி, கி.பி. 1730
 (படம்: [விவரங்கள்](/ta/licenses#lekt2411))
@@ -402,7 +402,7 @@ E) வாசகம் A) 6-ல், அசைவுக் கட்டமைப�
 5\. வணக்கம் (नमस्) ஸிவாவிற்கு! வணக்கம் ஸ்ரீ கணேசாவிற்கு!
 
 ::: media
-![](/images/lekt2409.jpg)
+![](/images/lekt2409.webp)
 ஒளிப்படம்: श्रीगणेशाय नमः
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt2409))
 :::
@@ -423,7 +423,7 @@ E) வாசகம் A) 6-ல், அசைவுக் கட்டமைப�
 :::
 
 ::: media
-![](/images/lekt2410.jpg)
+![](/images/lekt2410.webp)
 ஒளிப்படம்: नरो नरसिंहाय नमस्करोति
 नरसिंह கீறுகிறார் हिरण्यकशिपु, भागवतपुराण கையெழுத்துப் பிரதியிலிருந்து ஒரு தாள்
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt2410))

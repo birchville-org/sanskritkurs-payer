@@ -2,7 +2,7 @@
 
 Segnals vocalics per l'accumenz dal pled, sche il pled n'è betg collià cun in pled precedent en la scripziun:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@ En il tip, che vegn duvrà en quest script:
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 In -a cumenzant, che vegn elidà a second dals reglas dal Sandhi da frasa (-as + a- » -o ' ), vegn designà cun il uschia numnà Avagraha:
 

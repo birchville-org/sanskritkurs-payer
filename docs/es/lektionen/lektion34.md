@@ -210,7 +210,7 @@ Ejemplos:
 **शस्य = सस्य n. sg. y pl.:** semilla, fruto del campo, cereal
 
 ::: media
-![](/images/lekt3406.jpg)
+![](/images/lekt3406.webp)
 Fig.: सस्यम्
 Campo de arroz en la India.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3406))
@@ -225,7 +225,7 @@ Campo de arroz en la India.
 **द्वीप m.n.:** isla, continente
 
 ::: media
-![](/images/lekt3405.jpg)
+![](/images/lekt3405.webp)
 Fig.: लक्षद्वीपाः
 Mapa de las Islas Lakshadweep.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3405))
@@ -236,14 +236,14 @@ Mapa de las Islas Lakshadweep.
 **तिल m.:** sésamo (grano) (*Sesamum indicum* L.)
 
 ::: media
-![](/images/lekt3403.jpg)
+![](/images/lekt3403.webp)
 Fig.: तिलाः
 Semillas de sésamo.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3403))
 :::
 
 ::: media
-![](/images/lekt3404.jpg)
+![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Floración de la planta de sésamo.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3404))
@@ -252,7 +252,7 @@ Floración de la planta de sésamo.
 **स्वर्ण n.:** (de hermoso color =) oro
 
 ::: media
-![](/images/lekt3402.jpg)
+![](/images/lekt3402.webp)
 Fig.: स्वर्णम्
 Templo Dorado (Harmandir Sahib), Amritsar.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3402))
@@ -269,7 +269,7 @@ Templo Dorado (Harmandir Sahib), Amritsar.
 **ऋषभ m.:** toro
 
 ::: media
-![](/images/lekt3401.jpg)
+![](/images/lekt3401.webp)
 Fig.: ऋषभः
 Estatua del toro Nandi, Colinas de Chamundi, Mysore.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3401))
@@ -349,7 +349,7 @@ Explicaciones:
 :::
 
 ::: media
-![](/images/lekt3407.jpg)
+![](/images/lekt3407.webp)
 Fig.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
 Ritual de boda hindú.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3407))

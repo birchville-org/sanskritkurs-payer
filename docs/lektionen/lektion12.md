@@ -175,7 +175,7 @@ Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beach
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
 
 ::: media
-![](/images/lekt1201.jpg)
+![](/images/lekt1201.webp)
 Abb.: गौतमो बुद्धः
 (Bildquelle: [Details](/licenses#lekt1201))
 :::
@@ -186,7 +186,7 @@ Abb.: गौतमो बुद्धः
 - **mārga** m. मार्ग : Weg (Wege waren oft die Wildwechsel)
 
 ::: media
-![](/images/lekt1202.jpg)
+![](/images/lekt1202.webp)
 Abb.: मार्गः
 (Bildquelle: [Details](/licenses#lekt1202))
 :::
@@ -205,7 +205,7 @@ Zur Wortbildung:
 - **budh**: **bodhi** m./f. बोधि : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
 
 ::: media
-![](/images/lekt1203.jpg)
+![](/images/lekt1203.webp)
 Abb.: महावीरो जिनः
 (Bildquelle: [Details](/licenses#lekt1203))
 :::

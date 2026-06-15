@@ -410,23 +410,23 @@ Pour राहु et केतु voir :
 
 > **Payer, Alois &lt;1944 - &gt; : Dharmashastra : Introduction et aperçu. -- 10. Sacrements et rites de passage (samskara). -- Annexe C : Rahu et Ketu, les planètes errantes invisibles . -- URL : [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)**
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 Fig. : [सूर्यः, चन्द्रः, मङ्गलः](/fr/licenses#lekt4602)
 (Source de l'image : [Détails](/fr/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 Fig. : [बुधः, बृहस्पतिः](/fr/licenses#lekt4603)
 (Source de l'image : [Détails](/fr/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 Fig. : [शुक्रः, शनिः](/fr/licenses#lekt4604)
 (Source de l'image : [Détails](/fr/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 Fig. : [राहुः, केतुः](/fr/licenses#lekt4605)
 (Source de l'image : [Détails](/fr/licenses#lekt4605))
 :::
@@ -455,7 +455,7 @@ Infinitif नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 Fig. : [नारायण तुभ्यं नमामि](/fr/licenses#lekt4607)
 (Source de l'image : [Détails](/fr/licenses#lekt4607))
 :::
@@ -473,7 +473,7 @@ Infinitif रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 Fig. : [अश्वरोहकः](/fr/licenses#lekt4606)
 (Source de l'image : [Détails](/fr/licenses#lekt4606))
 :::
@@ -492,7 +492,7 @@ Absolutif -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 Fig. : [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/fr/licenses#lekt4608)
 (Source de l'image : [Détails](/fr/licenses#lekt4608))
 :::
@@ -521,7 +521,7 @@ dérivé :
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 Fig. : [श्रान्तः](/fr/licenses#lekt4609)
 (Source de l'image : [Détails](/fr/licenses#lekt4609))
 :::
@@ -552,7 +552,7 @@ dont :
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 Fig. : [सङ्गः](/fr/licenses#lekt4610)
 (Source de l'image : [Détails](/fr/licenses#lekt4610))
 :::
@@ -620,7 +620,7 @@ par ex.
 भोस् Particule vocative : exclamation d'appel, par ex. : hé, hola, oh, hé, bonjour, salut ! souvent non traduisible. Cette particule a un sandhi spécial : devant tous les sons sonores, il est ***भो***.
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 Fig. : [भोः](/fr/licenses#lekt4611)
 (Source de l'image : [Détails](/fr/licenses#lekt4611))
 :::
@@ -696,7 +696,7 @@ B) Traduisez :
 नास्ति बुद्धिरयुक्तस्य ॥३॥
 
 ::: media
-![](/images/lekt4612.jpg)
+![](/images/lekt4612.webp)
 Fig. : [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/fr/licenses#lekt4612)
 (Source de l'image : [Détails](/fr/licenses#lekt4612))
 :::

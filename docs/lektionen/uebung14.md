@@ -176,7 +176,7 @@ Wem gehören diese Häuser?
 Wessen Speise hat dieser vedische Weise geopfert?
 
 ::: media
-![](/images/uebung017.jpg)
+![](/images/uebung017.webp)
 Abb.: नायकश्च नायिका च
 (Bildquelle: [Details](/licenses#uebung017))
 :::

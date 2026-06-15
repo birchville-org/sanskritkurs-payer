@@ -38,7 +38,7 @@ Cum se numește fratele soțului? Fratele soțului trebuie numit „devara” (s
 Tatăl a dorit obținerea de nepoți.
 
 ::: media
-![](/images/uebung068.jpg)
+![](/images/uebung068.webp)
 Fig.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Sursă imagine: [Detalii](/licenses#uebung068))
 :::
@@ -71,7 +71,7 @@ Când au auzit această promisiune, au venit principi în sute. Dar niciunul din
 Inima regelui Janaka era foarte bucuroasă. Apoi, l-a chemat pe Daśaratha și pe alții și a celebrat cu mare fast nunta dintre Sītā și Rāma.
 
 ::: media
-![](/images/uebung069.jpg)
+![](/images/uebung069.webp)
 Fig.: श्रीसीता श्रीरामश्च
 (Sursa imaginii: [Detalii](/licenses#uebung069))
 :::

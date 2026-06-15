@@ -34,7 +34,7 @@ last_reconstructed: 2026-05-15
 19.  ⟪अचेतः⟫ - ⟪चित्⟫ 1P 2.sg.Impf.P तुमने जाना - ⟪अचेतीः⟫
 
 :::: media
-![](/images/uebung095.jpg)
+![](/images/uebung095.webp)
 अभि.: ⟪तब्लाः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#uebung095))
 :::
@@ -46,7 +46,7 @@ last_reconstructed: 2026-05-15
 निम्नलिखित रूपों का निर्धारण और अनुवाद करें:
 
 ::: media
-![](/images/uebung097.jpg)
+![](/images/uebung097.webp)
 अभि.: ⟪मातुलङ्गविक्रेतायं⟫ ⟪ना⟫ ⟪॥⟫  
 पुणे - ⟪पुणे⟫  
 \[चित्र स्रोत: अनुश्रुति आर.के. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- 12-03-2009 को प्रवेश। -- [क्रिएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (नाम उल्लेख, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)\]
@@ -91,7 +91,7 @@ last_reconstructed: 2026-05-15
 38.  ⟪दद⟫ - ⟪दा⟫ 3U 2.pl.परि.प. आपने दिया
 39.  ⟪अञ्ज्वः⟫ - ⟪अञ्ज्⟫ 7P 1.दु.इंड.प्रैस.प. हम दोनों लेप लगाते हैं
 
-![](/images/uebung096.jpg)
+![](/images/uebung096.webp)
 अभि.: ⟪श्वा⟫ ⟪श्वानमघ्रात्⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung096))
 :::

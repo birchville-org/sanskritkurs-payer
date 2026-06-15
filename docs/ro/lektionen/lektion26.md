@@ -59,7 +59,7 @@ Exemple: vezi mai jos viitorul verbului  दुह् și  बुध्
 ::::
 
 ::: media
-![](/images/lekt2601.jpg)
+![](/images/lekt2601.webp)
 Fig.: Hermann Graßmann
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2601))
 :::
@@ -93,7 +93,7 @@ de ex. व्रतं करिष्यन्देवगृहं गच्�
 
 
 ::: media
-![](/images/lekt2602.jpg)
+![](/images/lekt2602.webp)
 Fig.: व्रतं करिष्यन्देवगृहं गच्छति
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2602))
 :::

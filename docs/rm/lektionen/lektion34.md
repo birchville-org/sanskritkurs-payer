@@ -210,7 +210,7 @@ Exemples:
 **शस्य = सस्य n. sg. u. pl.:** sament, fruct da terra, cereal
 
 ::: media
-![](/images/lekt3406.jpg)
+![](/images/lekt3406.webp)
 Abb.: सस्यम्
 Champ da ris en India.
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt3406))
@@ -225,7 +225,7 @@ Champ da ris en India.
 **द्वीप m.n.:** insula, continent
 
 ::: media
-![](/images/lekt3405.jpg)
+![](/images/lekt3405.webp)
 Abb.: लक्षद्वीपाः
 Mappa d’inslas Lakshadweep.
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt3405))
@@ -236,14 +236,14 @@ Mappa d’inslas Lakshadweep.
 **तिल m.:** sesam (semen) (*Sesamum indicum* L.)
 
 ::: media
-![](/images/lekt3403.jpg)
+![](/images/lekt3403.webp)
 Abb.: तिलाः
 Semen da sesam.
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt3403))
 :::
 
 ::: media
-![](/images/lekt3404.jpg)
+![](/images/lekt3404.webp)
 Abb.: *Sesamum indicum* L.
 Planta da sesam en flur.
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt3404))
@@ -252,7 +252,7 @@ Planta da sesam en flur.
 **स्वर्ण n.:** (bell colurà =) aur
 
 ::: media
-![](/images/lekt3402.jpg)
+![](/images/lekt3402.webp)
 Abb.: स्वर्णम्
 Templ d’aur (Harmandir Sahib), Amritsar.
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt3402))
@@ -269,7 +269,7 @@ Templ d’aur (Harmandir Sahib), Amritsar.
 **ऋषभ m.:** taure
 
 ::: media
-![](/images/lekt3401.jpg)
+![](/images/lekt3401.webp)
 Abb.: ऋषभः
 Statua dal taure Nandi, Mons Chamundi, Mysore.
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt3401))
@@ -349,7 +349,7 @@ Explicaziuns:
 :::
 
 ::: media
-![](/images/lekt3407.jpg)
+![](/images/lekt3407.webp)
 Fig.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
 Ritual da matrimoni hindu.
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt3407))

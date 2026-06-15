@@ -77,7 +77,7 @@ Die starken Krieger sind ins Brahmanendorf gegangen.
 Er verehrt die persönliche Gottheit des verdienstvollen Vaiśya.
 
 ::: media
-![](/images/uebung023.jpg)
+![](/images/uebung023.webp)
 Abb.: न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति
 (Bildquelle: [Details](/licenses#uebung023))
 :::
@@ -260,7 +260,7 @@ Satz 13: **सर्वेषाम्** Gen. pl. mask. zu सर्व "jeder, 
 Der Prügel bewirkt Erwerb und sicheren Besitz von Philosophie, Vedististik und Ökonomie. Die Führung des Prügels ist Politik.
 
 ::: media
-![](/images/uebung024.jpg)
+![](/images/uebung024.webp)
 Abb.: योगश्चित्तवृत्तिनिरोधः
 (Bildquelle: [Details](/licenses#uebung024))
 :::

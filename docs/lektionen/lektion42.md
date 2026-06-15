@@ -224,7 +224,7 @@ Inf. शंसितुम्
 ### 42.2.1. Einige Verwandtschaftsbezeichnungen
 
 ::: media
-![lekt4202.jpg](/images/lekt4202.jpg)
+![lekt4202.jpg](/images/lekt4202.webp)
 Abb.: माता, पिता, पुत्रकः
 (Bildquelle: [Details](/licenses#lekt4202))
 ::: 
@@ -289,7 +289,7 @@ Beiden werden Riten vollzogen, sog. श्राद्ध n. Täglich werden je 
 कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति ॥२॥
 
 ::: media
-![lekt4203.jpg](/images/lekt4203.jpg)
+![lekt4203.jpg](/images/lekt4203.webp)
 Abb.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Bildquelle: [Details](/licenses#lekt4203))
 :::
@@ -297,7 +297,7 @@ Abb.: कृष्णस्तस्य लोकस्य पिता मा�
 आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥
 
 ::: media
-![lekt4204.jpg](/images/lekt4204.jpg)
+![lekt4204.jpg](/images/lekt4204.webp)
 Abb.: अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति ।
 (Bildquelle: [Details](/licenses#lekt4204))
 :::
@@ -327,7 +327,7 @@ Abb.: अर्जुनो रथे सीदति । कृष्णो ऽ
 सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे ***ऽयोध्या***धिपते***र्दशरथस्य*** पुत्रः श्री***रामः*** ***सलक्ष्मणो*** ***विश्वामित्रेण*** तत्रानीयत । श्री***रामो*** महर्षेर्***विश्वामित्र***स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥
 
 ::: media
-![lekt4208.jpg](/images/lekt4208.jpg)
+![lekt4208.jpg](/images/lekt4208.webp)
 Abb.: धनुर्द्वेधा भग्नं बभूव
 (Bildquelle: [Details](/licenses#lekt4208))
 :::
@@ -343,7 +343,7 @@ Erklärung der ***rot*** hervorgehobenen Ausdrücke:
 सीता f. Eigenname: Tochter des Königs जनक von विदेह. Sie war aus der Erde herausgekommen, als der König einst den Acker pflügte, deshalb ihr Name: सीता f. "Ackerfurche"
 
 ::: media
-![lekt4205.jpg](/images/lekt4205.jpg)
+![lekt4205.jpg](/images/lekt4205.webp)
 Abb.: रामः, सीता, हनुमान्, लक्ष्मनः
 (Bildquelle: [Details](/licenses#lekt4205))
 :::
@@ -351,7 +351,7 @@ Abb.: रामः, सीता, हनुमान्, लक्ष्मन�
 मिथिला f. Eigenname: Hauptstadt von विदेह
 
 ::: media
-![lekt4206.jpg](/images/lekt4206.jpg)
+![lekt4206.jpg](/images/lekt4206.webp)
 Abb.: मिथिला, विदेहः, अयोध्या, कोसलः
 (Bildquelle: [Details](/licenses#lekt4206))
 :::
@@ -369,7 +369,7 @@ Abb.: मिथिला, विदेहः, अयोध्या, कोस�
 रावण m. Eigennamen; Herrscher von लङ्का, Herrscher der राक्षस.
 
 ::: media
-![lekt4207.jpg](/images/lekt4207.jpg)
+![lekt4207.jpg](/images/lekt4207.webp)
 Abb.: रावणः
 (Bildquelle: [Details](/licenses#lekt4207))
 :::

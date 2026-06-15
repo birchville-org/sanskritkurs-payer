@@ -156,7 +156,7 @@ Radich cun **-a** + **-tya**
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 Abb.: कामदेवः
 19. tschientaner
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt2202))
@@ -174,7 +174,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 Abb.: दुर्गाशक्तिः
 Kolkatta = কলকাতা
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt2203))
@@ -204,7 +204,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 Abb.: धेनवश्चरन्ति
 Goa = गोंय
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt2201))
@@ -276,7 +276,7 @@ Goa = गोंय
 **C) Crear construcziuns passivas cun las frasis surmenziunadas (excetgà las frasis 8 e 10)**
 
 ::: media
-![](/images/lekt2204.jpg)
+![](/images/lekt2204.webp)
 Abb.: अन्नं पक्त्वा
 (Sursa da l’imagines: [Detagls](/rm/licenses#lekt2204))
 :::

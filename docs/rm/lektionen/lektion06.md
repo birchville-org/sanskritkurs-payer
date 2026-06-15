@@ -232,7 +232,7 @@ En il sanscrit vegnan ils verbs indicads en la **furma da radischa**. Il numeri 
 13. La (menziunada) Brahmanin balla.
 
 ::: media
-![](/images/lekt0601.jpg)
+![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
 (Sursa da l’imagines: Wikipedia, CC-BY-SA 2.5)
@@ -312,7 +312,7 @@ En il sanscrit vegnan ils verbs indicads en la **furma da radischa**. Il numeri 
 3. Mīnākṣī è ina deessa.
 
 ::: media
-![](/images/lekt0602.jpg)
+![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Tempel da Mīnākṣī, Madurai, Tamil Nadu
 (Sursa da l'imagines: Wikipedia, Public domain)
 :::

@@ -68,7 +68,7 @@ Un Deux fois né, qui a étudié le Veda, connaît la justice et les coutumes de
 On ne peut vivre uniquement de la science. Qui sait cela, ne devrait pas étudier.
 
 ::: media
-![](/images/uebung061.jpg)
+![](/images/uebung061.webp)
 Fig. : विद्ययैव जीवितुं न शक्यते
 (Source de l'image : [Détails](/fr/licenses#uebung061))
 :::
@@ -96,7 +96,7 @@ On doit saluer les personnes âgées avec les formalités appropriées, leur cé
 Si un homme ne se réjouit ni ne s’attriste, qu’il entende, touche, voie, goûte ou sente, alors on le considère comme celui qui a vaincu ses sens (**जितेन्द्रियः**).
 
 ::: media
-![](/images/uebung060.jpg)
+![](/images/uebung060.webp)
 Lég. : भुक्त्वा घ्रात्वा च न हृष्यति ग्लायति वा
 (Source de l’image : [Détails](/fr/licenses#uebung060))
 :::
@@ -149,7 +149,7 @@ Déterminez et traduisez les formes de mot suivantes :
 :::
 
 ::: media
-![](/images/uebung059.jpg)
+![](/images/uebung059.webp)
 Fig. : जगौ
 (Source de l'image : [Détails](/fr/licenses#uebung059))
 :::

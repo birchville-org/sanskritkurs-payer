@@ -180,7 +180,7 @@ Exemple:
 :::
 
 ::: media
-![](/images/lekt5602.jpg)
+![](/images/lekt5602.webp)
 Fig.: क्लैब्यं मा स्म गमः
 Poster (Ernesto Che Guevara) al unui partid politic din Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). „Traducerea aproximativă a ceea ce este scris pe el ar fi: Martiriul este o experiență fascinantă pentru un revoluționar. Și un recurs descurajant pentru un laș. Che nu este un model de urmat pentru lași.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5602))
@@ -207,7 +207,7 @@ Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit sytax. -- Leyden : B
 ::::
 
 ::: media
-![](/images/lekt5603.jpg)
+![](/images/lekt5603.webp)
 Fig.: अलं  विषादेन
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5603))
 :::

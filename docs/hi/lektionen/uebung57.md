@@ -43,7 +43,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: media
-![](/images/uebung090.jpg)
+![](/images/uebung090.webp)
 अभि.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (छवि स्रोत: [विवरण](/hi/licenses#uebung090))
 :::
@@ -117,7 +117,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: media
-![](/images/uebung094.jpg)
+![](/images/uebung094.webp)
 अभ.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (छवि स्रोत: [विवरण](/hi/licenses#uebung094))
 :::

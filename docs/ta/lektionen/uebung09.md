@@ -106,7 +106,7 @@ kārukuśīlavakarma என்பது ஒரு Tatpuruṣa (kārukuśīlava) 
 நீதிசாஸ்திரம் விவசாயம், பசுக்கள் மற்றும் வணிகம்.
 
 ::: media
-![](/images/uebung013.jpg)
+![](/images/uebung013.webp)
 Abb.: रक्षणं सर्वभूतानाम्
 (படம் மூலம்: [விவரங்கள்](/licenses#uebung013))
 :::

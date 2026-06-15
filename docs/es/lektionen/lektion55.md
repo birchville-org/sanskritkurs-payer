@@ -88,7 +88,7 @@ Determinar y traducir por escrito las siguientes formas, y formar las correspond
 32.  सिष्णेह
 
 ::: media
-![](/images/lekt5501.jpg)
+![](/images/lekt5501.webp)
 Fig.: अजीर्यमिति
 'Inâyat Khân en su lecho de muerte, esbozo para una miniatura de un manuscrito dedicado a Jahângîr = جهانگير, hacia 1618
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5501))

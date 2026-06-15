@@ -45,7 +45,7 @@ status: stable
 | **3. ⟪प्रथमः⟫** | ⟪नृत्यतस्⟫ | ⟪नृत्येते्⟫ |
 
 ::: media
-![](/images/lekt5802.jpg)
+![](/images/lekt5802.webp)
 अभि: ⟪नृत्यतः⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt5802))
 :::
@@ -75,7 +75,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5803.jpg)
+![](/images/lekt5803.webp)
 चित्रम्: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪चोरयतः⟫
 (चित्रस्य स्रोतः: [विवरणम्](/hi/licenses#lekt5803))
 :::
@@ -152,7 +152,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5806.jpg)
+![](/images/lekt5806.webp)
 अभ.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt5806))
 :::
@@ -167,7 +167,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5804.jpg)
+![](/images/lekt5804.webp)
 अभ.: ⟪कन्ये⟫ ⟪अधीयते⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt5804))
 :::
@@ -194,7 +194,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5805.jpg)
+![](/images/lekt5805.webp)
 अभ.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt5805))
 :::
@@ -232,7 +232,7 @@ status: stable
 | **3. ⟪प्रथमः⟫** | ⟪सुनुतस्⟫ | ⟪सुन्वाते⟫ |
 
 ::: media
-![](/images/lekt5807.jpg)
+![](/images/lekt5807.webp)
 अभ.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt5807))
@@ -293,7 +293,7 @@ status: stable
 | **3. ⟪प्रथमः⟫** | ⟪क्रीणीतस्⟫ | ⟪क्रीणाते⟫ |
 
 ::: media
-![](/images/lekt5801.jpg)
+![](/images/lekt5801.webp)
 अभ.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (चित्रस्रोत: [विवरण](/hi/licenses#lekt5801))
 :::
@@ -402,7 +402,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5808.jpg)
+![](/images/lekt5808.webp)
 अभ.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt5808))
 :::

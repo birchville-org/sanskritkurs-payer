@@ -266,7 +266,7 @@ exempli gratia **व्याघ्र** m. "tigris" » **वैयाघ्र*
 :::
 
 ::: media
-![](/images/lekt4801.jpg)
+![](/images/lekt4801.webp)
 Abb.: वैयाघ्रं विजृम्भणम्
 (Fons imaginis: [Detalia](/la/licenses#lekt4801))
 :::
@@ -284,14 +284,14 @@ Abb.: वैयाघ्रं विजृम्भणम्
 तन्त्र n.: chorda ; telae, trama, textum ; fundamentum, norma, regula ; doctrina, opus didacticum ; Tantra ; formula magica ; medium, calliditas, medicamentum ; regnum, auctoritas
 
 ::: media
-![](/images/lekt4802.jpg)
+![](/images/lekt4802.webp)
 Fig.: तन्त्रम्
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Fons imaginis: [Detalia](/la/licenses#lekt4802))
 :::
 
 ::: media
-![](/images/lekt4803.jpg)
+![](/images/lekt4803.webp)
 Fig.: तन्त्री
 Citharista = सितारवादकः
 (Fons imaginis: [Detalia](/la/licenses#lekt4803))
@@ -315,7 +315,7 @@ Declinatio:
 :::
 
 ::: media
-![](/images/lekt4804.jpg)
+![](/images/lekt4804.webp)
 Fig.: स्वतन्त्राः स्त्रियः
 [Gruppo adiuvandi mutui (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Fons imaginis: [Detalia](/la/licenses#lekt4804))
@@ -328,7 +328,7 @@ Fig.: स्वतन्त्राः स्त्रियः
 कुमार m.: puer, iuvenis, princeps; cognomen कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
-![](/images/lekt4805.jpg)
+![](/images/lekt4805.webp)
 Fig.: कुमारः
 Festum Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 (Fons imaginis: [Detalia](/la/licenses#lekt4805))
@@ -337,7 +337,7 @@ Festum Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 कुमारी f.: puella, filia
 
 ::: media
-![](/images/lekt4806.jpg)
+![](/images/lekt4806.webp)
 Fig.: कुमारी
 नेपाल
 (Fons imaginis: [Detalia](/la/licenses/lekt4806))
@@ -350,7 +350,7 @@ Fig.: कुमारी
 स्थविर 3: senex, provectus aetate
 
 ::: media
-![](/images/lekt4807.jpg)
+![](/images/lekt4807.webp)
 Fig.: स्थविराः
 जोधपुर
 (Fons imaginis: [Detalia](/la/licenses/lekt4807))
@@ -363,7 +363,7 @@ Fig.: स्थविराः
 सूक्ष्म 3: elegans, minutus, subtilis
 
 ::: media
-![](/images/lekt4808.jpg)
+![](/images/lekt4808.webp)
 Fig.: सूक्ष्मम्
 Lacus Karanji = ಕಾರಂಜಿ ಕೆರೆ
 (Fons imaginis: [Detalia](/la/licenses/lekt4808))
@@ -380,7 +380,7 @@ Lacus Karanji = ಕಾರಂಜಿ ಕೆರೆ
 जाया f.: uxor
 
 ::: media
-![](/images/lekt4809.jpg)
+![](/images/lekt4809.webp)
 Fig.: मम जाया
 (Imago: Payer)
 (Fons imaginis: [Detalia](/la/licenses/lekt4809))

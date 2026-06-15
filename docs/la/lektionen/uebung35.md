@@ -85,7 +85,7 @@ C) Versa sententias exercitii B), mutatis perfectis per imperfecta:
 ४. अर्हन्तः कुलबन्धनमभिन्दंल्लोभं च क्रोधं च मोहं चारुन्धन्सत्यमजानन्दुःखान्मुक्ता मोक्षसुखमाप्नुवन् ॥
 
 ::: media
-![](/images/uebung058.jpg)
+![](/images/uebung058.webp)
 Fig.: ब्राह्मणीषु पचन्तीषु ...
 (Fons imaginis: [Detalia](/licenses#uebung058))
 :::

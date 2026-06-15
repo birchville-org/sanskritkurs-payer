@@ -49,7 +49,7 @@ Determinare e tradurre le seguenti forme e formare le corrispondenti forme dell�
 :::
 
 ::: media
-![](/images/uebung092.jpg)
+![](/images/uebung092.webp)
 Fig.: अशोभथाः । अशुभः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung092))
 :::

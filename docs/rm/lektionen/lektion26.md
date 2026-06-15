@@ -59,7 +59,7 @@ Exempls: vesa sutgira il futur da  दुह् e  बुध्
 ::::
 
 ::: media
-![](/images/lekt2601.jpg)
+![](/images/lekt2601.webp)
 Abb.: Hermann Graßmann
 (Fontana dal maletg: [Detagls](/rm/licenses#lekt2601))
 :::
@@ -93,7 +93,7 @@ p. ex. व्रतं करिष्यन्देवगृहं गच्�
 
 
 ::: media
-![](/images/lekt2602.jpg)
+![](/images/lekt2602.webp)
 Abb.: व्रतं करिष्यन्देवगृहं गच्छति
 (Font da l’imagines: [Detagls](/rm/licenses#lekt2602))
 :::

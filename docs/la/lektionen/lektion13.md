@@ -215,7 +215,7 @@ Sequentia verba discite:
 > [Fons: **Dowson, Ioannes &lt;1820-1881&gt;:** Lexicon classicum mythologiae Hinduicae, religionis, geographiae, historiae, et litterarum. -- Londinii, Trübner, 1879. -- s.v. ]
 
 ::: media
-![](/images/lekt1301.jpg)
+![](/images/lekt1301.webp)
 Fig.: महिषासुरः
 (Fons imaginis: [Detalia](/la/licenses#lekt1301))
 :::
@@ -236,7 +236,7 @@ Fig.: महिषासुरः
 - **anna** n. अन्न : cibus (ex PPP: *ad-na: quod comestum est)
 
 ::: media
-![](/images/lekt1304.jpg)
+![](/images/lekt1304.webp)
 Tabula: अन्नम्
 (Fons imaginis: [Detalia](/la/licenses#lekt1304))
 :::
@@ -252,7 +252,7 @@ pad 4 Ā:
 :::
 
 ::: media
-![](/images/lekt1303.jpg)
+![](/images/lekt1303.webp)
 Tabula: चत्वारः पादाः : गजः
 (Fons imaginis: [Detalia](/la/licenses#lekt1303))
 :::
@@ -274,7 +274,7 @@ A) Vertite et in active praesentis sententias redige:
 ३. बोध्या गौतमो मुक्तः ।
 
 ::: media
-![](/images/lekt1305.jpg)
+![](/images/lekt1305.webp)
 Fig.: अत्र गौतमो बुद्धो बोध्या मुक्तः
 (Fons imaginis: [Detalia](/la/licenses#lekt1305))
 :::
@@ -333,7 +333,7 @@ B) Sententias Exercitii A) in passivum vertite.
 C) Pro sententiis Exercitii A) constructionem PPP formate.
 
 ::: media
-![](/images/lekt1302.jpg)
+![](/images/lekt1302.webp)
 Fig.: सत्यमेव जयते
 (Fons imaginis: [Detalia](/la/licenses#lekt1302))
 :::

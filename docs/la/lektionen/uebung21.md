@@ -47,7 +47,7 @@ Bis natus est vir, qui a magistro in Veda initiatus est.
 Qui iram vicit, inimicum non odit, etiam si eum occidat. Qui autem ab ira victus est, odit.
 
 ::: media
-![](/images/uebung033.jpg)
+![](/images/uebung033.webp)
 Abb.: हतान्धकारा दीपाः
 (Fons imaginis: [Detalia](/licenses#uebung033))
 :::

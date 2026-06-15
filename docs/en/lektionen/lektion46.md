@@ -410,23 +410,23 @@ Regarding राहु and केतु see:
 
 > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 Fig.: [सूर्यः, चन्द्रः, मङ्गलः](/en/licenses#lekt4602)
 (Image source: [Details](/en/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 Fig.: [बुधः, बृहस्पतिः](/en/licenses#lekt4603)
 (Image source: [Details](/en/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 Fig.: [शुक्रः, शनिः](/en/licenses#lekt4604)
 (Image source: [Details](/en/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 Fig.: [राहुः, केतुः](/en/licenses#lekt4605)
 (Image source: [Details](/en/licenses#lekt4605))
 :::
@@ -455,7 +455,7 @@ Inf. नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 Fig.: [नारायण तुभ्यं नमामि](/en/licenses#lekt4607)
 (Image source: [Details](/en/licenses#lekt4607))
 :::
@@ -473,7 +473,7 @@ Inf. रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 Fig.: [अश्वरोहकः](/en/licenses#lekt4606)
 (Image source: [Details](/en/licenses#lekt4606))
 :::
@@ -492,7 +492,7 @@ Absol. -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 Fig.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/en/licenses#lekt4608)
 (Image source: [Details](/en/licenses#lekt4608))
 :::
@@ -521,7 +521,7 @@ from that:
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 Fig.: [श्रान्तः](/en/licenses#lekt4609)
 (Image source: [Details](/en/licenses#lekt4609))
 :::
@@ -552,7 +552,7 @@ therefrom:
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 Fig.: [सङ्गः](/en/licenses#lekt4610)
 (Image source: [Details](/en/licenses#lekt4610))
 :::
@@ -620,7 +620,7 @@ e.g.
 भोस् Vocative particle: exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not translatable. This particle has a special sandhi: before all voiced sounds, it is ***भो***.
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 Fig.: [भोः](/en/licenses#lekt4611)
 (Image source: [Details](/en/licenses#lekt4611))
 :::
@@ -696,7 +696,7 @@ B) Translate:
 नास्ति बुद्धिरयुक्तस्य ॥३॥
 
 ::: media
-![](/images/lekt4612.jpg)
+![](/images/lekt4612.webp)
 Fig.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/en/licenses#lekt4612)
 (Image source: [Details](/en/licenses#lekt4612))
 :::

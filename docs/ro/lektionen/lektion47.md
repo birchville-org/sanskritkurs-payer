@@ -112,7 +112,7 @@ Notă: ¹ Sufixele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -tāt
 :::
 
 ::: media
-![](/images/lekt4702.jpg)
+![](/images/lekt4702.webp)
 Fig.: प्रविशत
 Templul Hanuman, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4702))
@@ -130,7 +130,7 @@ Templul Hanuman, Delhi = हनुमान् मन्दिर, दिल्�
 :::
 
 ::: media
-![](/images/lekt4701.jpg)
+![](/images/lekt4701.webp)
 Fig.: नृत्यत
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4701))
 :::
@@ -172,7 +172,7 @@ A) Traduceți:
 भो राम यदि मया गन्तव्यं तदैषा कन्यापि मम सहायिनी भवतु ॥३॥
 
 ::: media
-![](/images/lekt4703.jpg)
+![](/images/lekt4703.webp)
 Fig.: भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4703))
 :::
@@ -183,7 +183,7 @@ Fig.: भो राम यदि मया गन्तवं तदैषा �
 आर्ये स्वागतं ते ॥६॥
 
 ::: media
-![](/images/lekt4704.jpg)
+![](/images/lekt4704.webp)
 Fig.: आर्ये स्वागतं ते
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4704))
 :::

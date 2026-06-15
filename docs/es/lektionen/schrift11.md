@@ -22,7 +22,7 @@ B) Lea y translitere:
 
 ### Clasificación de los sonidos del sánscrito (de: Kielhorn: Gramática de la lengua sánscrita)
 
-![](/images/schrift028.jpg)
+![](/images/schrift028.webp)
 
 ### Fin de los ejercicios de escritura
 

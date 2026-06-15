@@ -407,23 +407,23 @@ A राहु e केतु vesa:
 
 > **Payer, Alois &lt;1944 - &gt;: Dharmashastra: Introducziun e survista. -- 10. Sacraments e ritgs da transiziun (samskara). -- Appendix C: Rahu e Ketu, ils planets viagiànts invisibels . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)**
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 Abb.: [सूर्यः, चन्द्रः, मङ्गलः](/rm/licenses#lekt4602)
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 Abb.: [बुधः, बृहस्पतिः](/rm/licenses#lekt4603)
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 Abb.: [शुक्रः, शनिः](/rm/licenses#lekt4604)
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 Abb.: [राहुः, केतुः](/rm/licenses#lekt4605)
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt4605))
 :::
@@ -452,7 +452,7 @@ Inf. नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 Abb.: [नारायण तुभ्यं नमामि](/rm/licenses#lekt4607)
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt4607))
 :::
@@ -470,7 +470,7 @@ Inf. रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 Abb.: [अश्वरोहकः](/rm/licenses#lekt4606)
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt4606))
 :::
@@ -489,7 +489,7 @@ Absol. -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 Abb.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/rm/licenses#lekt4608)
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt4608))
 :::
@@ -518,7 +518,7 @@ quai da:
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 Fig.: [श्रान्तः](/rm/licenses#lekt4609)
 (Fontana da l’imàgin: [Detagls](/rm/licenses#lekt4609))
 :::
@@ -549,7 +549,7 @@ quai da:
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 Fig.: [सङ्गः](/rm/licenses#lekt4610)
 (Fontana da l’imàgin: [Detagls](/rm/licenses#lekt4610))
 :::
@@ -617,7 +617,7 @@ p.ex.
 भोस् particla da vocativ: exclamaziun d’interpelliaziun, p.ex.: ei, heda, oh, ei, salü, ciao! spess betg da tradurre. Questa particla ha in spezial sandhi: avant tut ils sons sonors, quai è ***भो***.
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 Fig.: [भोः](/rm/licenses#lekt4611)
 (Fontana da l’imàgin: [Detagls](/rm/licenses#lekt4611))
 :::
@@ -693,7 +693,7 @@ B) Tradurre:
 नास्ति बुद्धिरयुक्तस्य ॥३॥
 
 ::: media
-![](/images/lekt4612.jpg)
+![](/images/lekt4612.webp)
 Abb.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/rm/licenses#lekt4612)
 (Bildquelle: [Detagls](/rm/licenses#lekt4612))
 :::

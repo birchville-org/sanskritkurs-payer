@@ -21,7 +21,7 @@ status: stable
 Explicație: पर "altul"
 
 ::: media
-![lekt4102.jpg](/images/lekt4102.jpg)
+![lekt4102.jpg](/images/lekt4102.webp)
 Fig.: पुस्तकस्था च या विद्या ...
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4102))
 :::
@@ -201,7 +201,7 @@ Exemple:
 :::
 
 ::: media
-![lekt4103.jpg](/images/lekt4103.jpg)
+![lekt4103.jpg](/images/lekt4103.webp)
 Fig.: विक्रेयाणि पुष्पानि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4103))
 :::
@@ -238,7 +238,7 @@ Exemple:
 :::
 
 ::: media
-![lekt4106.jpg](/images/lekt4106.jpg)
+![lekt4106.jpg](/images/lekt4106.webp)
 Fig.: दृश्यो मन्दिरः
 (Sursă imagine: [Detalii](/ro/licenses#lekt4106))
 :::
@@ -322,7 +322,7 @@ Gerundivul poate fi, de asemenea, folosit ca nume predicativ în propoziții cu 
 ::::
 
 ::: media
-![lekt4108.jpg](/images/lekt4108.jpg)
+![lekt4108.jpg](/images/lekt4108.webp)
 Fig.: दर्शनीयं नगरं काशी
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4108))
 :::
@@ -349,7 +349,7 @@ Cu सु- și दुस्- în sensul de "ușor" respectiv "greu", gerativele 
 भुजङ्ग m.: șarpe
 
 ::: media
-![lekt4105.jpg](/images/lekt4105.jpg)
+![lekt4105.jpg](/images/lekt4105.webp)
 Fig.: भुजङ्गः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4105))
 :::
@@ -359,7 +359,7 @@ Fig.: भुजङ्गः
 विष n.: venin
 
 ::: media
-![lekt4104.jpg](/images/lekt4104.jpg)
+![lekt4104.jpg](/images/lekt4104.webp)
 Fig.: भुजङ्गस्य विषम्
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4104))
 :::
@@ -382,7 +382,7 @@ din care:
 :::
 
 ::: media
-![lekt4109.jpg](/images/lekt4109.jpg)
+![lekt4109.jpg](/images/lekt4109.webp)
 Fig.: शासना
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4109))
 :::
@@ -394,7 +394,7 @@ Fig.: शासना
 :::
 
 ::: media
-![lekt4110.jpg](/images/lekt4110.jpg)
+![lekt4110.jpg](/images/lekt4110.webp)
 Fig.: शास्त्री
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4110))
 :::
@@ -434,7 +434,7 @@ B) Traduceți:
 काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥२॥
 
 ::: media
-![lekt4111.jpg](/images/lekt4111.jpg)
+![lekt4111.jpg](/images/lekt4111.webp)
 Fig.: काशीं पत्स्ये गङ्गां द्रक्ष्यामि ...
 (Sursă imagine: [Detalii](/ro/licenses#lekt4111))
 :::

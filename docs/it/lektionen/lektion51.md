@@ -43,7 +43,7 @@ a) Suffisso कृत् \-Ø
 :::
 
 ::: media
-![](/images/lekt5101.jpg)
+![](/images/lekt5101.webp)
 Fig.: भूमिभुज्
 ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5101))
@@ -72,7 +72,7 @@ b) Suffisso कृत् -t
 ::::
 
 ::: media
-![](/images/lekt5103.jpg)
+![](/images/lekt5103.webp)
 Fig.: पापकृत्
 भरतपुर, राजस्थान
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5103))
@@ -102,7 +102,7 @@ c) Suffisso कृत् -a
 :::
 
 ::: media
-![](/images/lekt5102.jpg)
+![](/images/lekt5102.webp)
 Fig.: द्विपो द्विर्पिबति : हस्तेन च मुखेन च
 नेपाल
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5102))
@@ -271,7 +271,7 @@ Loc. परिव्राट्सु
 ::::
 
 ::: media
-![](/images/lekt5104.jpg)
+![](/images/lekt5104.webp)
 Fig.: परिव्राट्
 पुष्कर
 (Fonte immagine: [Dettagli](/it/licenses#lekt5104))
@@ -377,7 +377,7 @@ ad es. छिद् » चिच्छेद
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
 
 ::: media
-![](/images/lekt5105.jpg)
+![](/images/lekt5105.webp)
 Fig.:
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5105))
 :::
@@ -406,7 +406,7 @@ Fig.: ऋतुः
 जटा f.: trecce di capelli (acconciatura dell'asceta)
 
 ::: media
-![](/images/lekt5107.jpg)
+![](/images/lekt5107.webp)
 Fig.: जटा
 ऋषिकेश
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5107))
@@ -461,7 +461,7 @@ PPP गर्हित
 पिशित n.: (preparato) carne
 
 ::: media
-![](/images/lekt5108.jpg)
+![](/images/lekt5108.webp)
 Fig.: पिशितम्
 Kolkata = কলকাতা
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5108))
@@ -471,7 +471,7 @@ Kolkata = কলকাতা
 मधु n.: miele, bevanda dolce, idromele (vino di miele)
 
 ::: media
-![](/images/lekt5109.jpg)
+![](/images/lekt5109.webp)
 Fig.: मधु
 Palazzo City, उदयपुर
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5109))
@@ -481,7 +481,7 @@ Palazzo City, उदयपुर
 मृगया f.: caccia
 
 ::: media
-![](/images/lekt5110.jpg)
+![](/images/lekt5110.webp)
 Fig.: मृगया
 Caccia con चीता (_Acinonyx jubatus venaticus*) Gujarat = ગુજરાત, 1812
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5110))
@@ -489,7 +489,7 @@ Caccia con चीता (_Acinonyx jubatus venaticus*) Gujarat = ગુજરા
 शिवा f.: (femminile) sciacallo (sciacallo dorato = _Canis aureus_)
 
 ::: media
-![](/images/lekt5111.jpg)
+![](/images/lekt5111.webp)
 Fig.: शिवा
 _Canis aureus_, Santuario di Kalatop Khajjiar
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5111))
@@ -499,7 +499,7 @@ _Canis aureus_, Santuario di Kalatop Khajjiar
 कौशिक m.: gufo
 
 ::: media
-![](/images/lekt5112.jpg)
+![](/images/lekt5112.webp)
 Fig.: कौशिकः
 Gufo del Brahman (_Athene brama_), Mahesana = મહેસાણા
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5112))
@@ -529,7 +529,7 @@ Karnataka = ಕರ್ನಾಟಕ
 आपान(क) n.: banchetto
 
 ::: media
-![](/images/lekt5114.jpg)
+![](/images/lekt5114.webp)
 Fig.: आपानकम्
 जोधपुर
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5114))
@@ -549,7 +549,7 @@ PPP दिग्ध
 विष n.: veleno
 
 ::: media
-![](/images/lekt5115.jpg)
+![](/images/lekt5115.webp)
 Fig.: मूषिकाविषाणि
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5115))
@@ -557,7 +557,7 @@ Bangalore = ಬೆಂಗಳೂರು
 भुजंग m.: serpente
 
 ::: media
-![](/images/lekt5116.jpg)
+![](/images/lekt5116.webp)
 Fig.: भुजंगः
 Vipera a catena (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5116))
@@ -583,7 +583,7 @@ Vipera a catena (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 मणि m.: gioiello
 
 ::: media
-![](/images/lekt5118.jpg)
+![](/images/lekt5118.webp)
 Fig.: मणिः
 Diamante Hope da Guntur = ಗುಂಡೂರು, oggi Museo Smithsonian di Storia Naturale, Washington DC
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5118))
@@ -593,7 +593,7 @@ Diamante Hope da Guntur = ಗುಂಡೂರು, oggi Museo Smithsonian di Stori
 मद m.: anche "linfa di estro" di un elefante (nel [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
-![](/images/lekt5117.jpg)
+![](/images/lekt5117.webp)
 Fig.: मदः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5117))
 :::

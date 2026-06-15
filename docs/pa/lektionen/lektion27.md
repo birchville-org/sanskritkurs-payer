@@ -30,7 +30,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2701.jpg)
+![](/images/lekt2701.webp)
 ਚਿੱਤਰ: जयपुरनगरे
 ਜੈਪੁਰ, 1875.
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2701))
@@ -61,7 +61,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2702.jpg)
+![](/images/lekt2702.webp)
 ਚਿੱਤਰ: एवं गच्छति कालयुष्ट्रः स्वपितi
 ਰਾਜਸਥਾਨ।
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2702))
@@ -76,7 +76,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2703.jpg)
+![](/images/lekt2703.webp)
 ਚਿੱਤਰ: अस्ति तस्य पुत्रे स्नेहः
 ਹੋਲੀ।
 (ਤਸਵੀਰ ਦਾ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2703))
@@ -168,7 +168,7 @@ status: stable
 ## 27.4. ਸਾਰੇ ਵਚਨ ਰੂਪਾਂ ਵਾਲਾ ਇੱਕ ਸ਼ਲੋਕ (ਇਕਵਚਨ) राम ਲਈ
 
 ::: media
-![](/images/lekt2708.jpg)
+![](/images/lekt2708.webp)
 ਚਿੱਤਰ: रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥
 Rāma-Satz.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2708))
@@ -217,7 +217,7 @@ Rāma-Satz.
 :::
 
 ::: media
-![](/images/lekt2706.jpg)
+![](/images/lekt2706.webp)
 ਚਿੱਤਰ: वस्त्राणि
 Vastrāṇi. Majuli, Assam.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2706))
@@ -232,7 +232,7 @@ Vastrāṇi. Majuli, Assam.
 :::
 
 ::: media
-![](/images/lekt2707.jpg)
+![](/images/lekt2707.webp)
 ਚਿੱਤਰ: वसन्तः
 Vasanta (Schleichera oleosa), Khopoli, ਮਹਾਰਾਸ਼ਟਰ, 2007-04-07.
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2707))
@@ -257,14 +257,14 @@ Vasanta (Schleichera oleosa), Khopoli, ਮਹਾਰਾਸ਼ਟਰ, 2007-04-07.
 **हरिहर** m.: ਵਿਸ਼ਣੁ ਅਤੇ ਸ਼ਿਵ ਇੱਕ ਹੀ ਦੇਵਤਾ ਵਜੋਂ ਮਿਲੇ ਹੋਏ।
 
 ::: media
-![](/images/lekt2704.jpg)
+![](/images/lekt2704.webp)
 ਚਿੱਤਰ: हरिहरः
 Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2704))
 :::
 
 ::: media
-![](/images/lekt2705.jpg)
+![](/images/lekt2705.webp)
 ਚਿੱਤਰ: हरिहरः
 Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)। Godrumdwip, ਪੱਛਮੀ ਬੰਗਾਲ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2705))
@@ -285,7 +285,7 @@ Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)। Godru
 वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥
 
 ::: media
-![](/images/lekt2709.jpg)
+![](/images/lekt2709.webp)
 ਚਿੱਤਰ: वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥
 ਰਾਜਾ ਰਵੀ ਵਰਮਾ (1848 - 1906) ਦੁਆਰਾ ਚਿੱਤਰ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2709))
@@ -324,7 +324,7 @@ Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)। Godru
 :::
 
 ::: media
-![](/images/lekt2711.jpg)
+![](/images/lekt2711.webp)
 ਚਿੱਤਰ: नराः
 ਨਰਨ। ਉਦੈਪੁਰ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2711))
@@ -347,7 +347,7 @@ Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)। Godru
 :::
 
 ::: media
-![](/images/lekt2710.jpg)
+![](/images/lekt2710.webp)
 ਚਿੱਤਰ: फलानि
 ਫਲ। ਬੈਂਗਲੁਰੂ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2710))
@@ -370,7 +370,7 @@ Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)। Godru
 :::
 
 ::: media
-![](/images/lekt2718.jpg)
+![](/images/lekt2718.webp)
 ਚਿੱਤਰ: क्षत्रिया
 ਮਹਾਰਾਣੀ ਵਾਨੀ ਵਿਲਾਸ ਸੰਨਿਧਾਨਾ (1866 - 1934) ਆਪਣੇ ਪੋਤੇ ਜਵਾਨ ਚਮਰਾਜ ਵਡਿਆਰ, ਮੈਸੂਰ ਨਾਲ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2718))
@@ -393,7 +393,7 @@ Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)। Godru
 :::
 
 ::: media
-![](/images/lekt2712.jpg)
+![](/images/lekt2712.webp)
 ਚਿੱਤਰ: अरयः
 1857 ਦੀ ਵਿਦਰੋਹ ਵਿੱਚ ਸ਼ਾਮਲ ਦੋ ਮੁਸਾਫ਼ਿਰਾਂ ਦੀ ਫ਼ਾਂਸੀ। ਫ਼ੇਲਿਸ ਬੀਟੋ (1833/1834 - ਲਗਭਗ 1907) ਦੁਆਰਾ ਫ਼ੋਟੋਗ੍ਰਾਫ਼।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2712))
@@ -432,7 +432,7 @@ Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)। Godru
 :::
 
 ::: media
-![](/images/lekt2713.jpg)
+![](/images/lekt2713.webp)
 ਚਿੱਤਰ: गुरुः
 ਮਹਾਰਿਸ਼ੀ ਮਹੇਸ਼ ਯੋਗੀ (1917 - 2008) ਗੁਰੂ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2713))
@@ -455,7 +455,7 @@ Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)। Godru
 :::
 
 ::: media
-![](/images/lekt2714.jpg)
+![](/images/lekt2714.webp)
 ਚਿੱਤਰ: धेनुः
 ਉਦੈਪੁਰ ਵਿੱਚ ਗਾਇ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2714))
@@ -478,7 +478,7 @@ Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)। Godru
 :::
 
 ::: media
-![](/images/lekt2715.jpg)
+![](/images/lekt2715.webp)
 ਚਿੱਤਰ: त्रिदेवी
 ਤ੍ਰਿਦੇਵੀ (ਲਕਸ਼ਮੀ, ਪਾਰਵਤੀ, ਸਰਸਵਤੀ)।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2715))
@@ -501,7 +501,7 @@ Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)। Godru
 :::
 
 ::: media
-![](/images/lekt2716.jpg)
+![](/images/lekt2716.webp)
 ਚਿੱਤਰ: सद्गुरुः
 ਸ਼ਿਰਦੀ ਦਾ ਸਈ ਬਾਬਾ (1835 - 1918)।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2716))
@@ -618,7 +618,7 @@ Harihara (ਖੱਬੇ: ਵਿਸ਼ਣੁ, ਸੱਜੇ: ਸ਼ਿਵ)। Godru
 :::
 
 ::: media
-![](/images/lekt2717.jpg)
+![](/images/lekt2717.webp)
 ਚਿੱਤਰ: कस्मात् ?
 ਤਸੁਨਾਮੀ 2005, ਸ੍ਰੀ ਲੰਕਾ।
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2717))

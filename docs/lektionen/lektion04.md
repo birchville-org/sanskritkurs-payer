@@ -118,6 +118,6 @@ ANMERKUNG: Die Antworten, die Sie mit Ihren bisherigen Sanskritkenntnissen auf s
 **B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (एतत्किम्) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (एष बालः):**
 
 ::: media
-![](/images/lekt0401.jpg)
+![](/images/lekt0401.webp)
 (Bildquelle: [Details](/licenses#lekt0401))
 :::

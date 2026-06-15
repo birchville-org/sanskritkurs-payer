@@ -2,7 +2,7 @@
 
 Вокални знаци за началото на думата, ако думата не е свързана в писмеността с предходна дума:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 Начално -a, което според правилата за сандхи на изречението се елиминира (-as + a- » -o '), се обозначава с т.нар. Аваграха:
 

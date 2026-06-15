@@ -32,7 +32,7 @@ Un om fără educație este un animal.
 Scurcimea este ornamentul gramaticianului.
 
 ::: media
-![](/images/uebung083.jpg)
+![](/images/uebung083.webp)
 Fig.: विद्याविहीनः पशुः
 (Sursa imaginii: [Detalii](/licenses#uebung083))
 :::
@@ -56,7 +56,7 @@ Fetele trebuie să dea mâncare cerșetorilor.
 Vrem să vorbim.
 
 ::: media
-![](/images/uebung085.jpg)
+![](/images/uebung085.webp)
 Fig.: वचाम
 (Sursa imaginii: [Detalii](/licenses#uebung085))
 :::
@@ -110,7 +110,7 @@ Ei trebuie să stea în casa mea.
 Soții trebuie să-și întrețină soțiile.
 
 ::: media
-![](/images/uebung076.jpg)
+![](/images/uebung076.webp)
 Fig.: तानि फलान्यदाम
 (Sursa imaginii: [Detalii](/licenses#uebung076))
 :::
@@ -150,13 +150,13 @@ Cine își protejează cu grijă soția, cu adevărat protejează urmașii, stil
 Soțul intră în soția sa, devine embrion și apoi se naște aici; în aceasta constă "soție" (**जायात्वम्**) soției, că soțul se renaște în ea.
 
 ::: media
-![](/images/uebung084.jpg)
+![](/images/uebung084.webp)
 Fig.: अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।
 (Sursa imaginii: [Detalii](/licenses#uebung084))
 :::
 
 ::: media
-![](/images/uebung077.jpg)
+![](/images/uebung077.webp)
 Fig.: पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते
 (Sursa imaginii: [Detalii](/licenses#uebung077))
 :::

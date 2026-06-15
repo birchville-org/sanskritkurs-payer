@@ -91,7 +91,7 @@ e.g. अन्नमय n. "abundance of food"
 :::
 
 ::: media
-![](/images/lekt5202.jpg)
+![](/images/lekt5202.webp)
 Fig.: अन्नमयम्
 विवाहः, Chennai = சென்னை
 (Image source: [Details](/en/licenses#lekt5202))
@@ -111,7 +111,7 @@ e.g. कौन्तेय m. "Son of कुन्ती"
 :::
 
 ::: media
-![](/images/lekt5203.jpg)
+![](/images/lekt5203.webp)
 Fig.: भीमः कौन्तेयः
 Wayang figure, Java, Indonesia
 (Image source: [Details](/en/licenses#lekt5203))
@@ -135,7 +135,7 @@ Wayang figure, Java, Indonesia
     नित्यशस् "constantly"
 :::
 ::: media
-![](/images/lekt5204.jpg)
+![](/images/lekt5204.webp)
 Fig.: अनुक्रमेणैकशः
 Queue before temple, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Image source: [Details](/en/licenses#lekt5204))
@@ -180,7 +180,7 @@ The ending of the noun is treated as follows:
     e.g. तिर्यक्करोति "he lies aside (तिर्यच्)"
 :::
 ::: media
-![](/images/lekt5209.jpg)
+![](/images/lekt5209.webp)
 Fig.: भस्मीकृतं वनम्
 Slash-and-burn agriculture, Arunachal Pradesh = अरुणाचल प्रदेश
 (Image source: [Details](/en/licenses#lekt5209))
@@ -392,7 +392,7 @@ Example:
 :::
 
 ::: media
-![](/images/lekt5205.jpg)
+![](/images/lekt5205.webp)
 Fig.: चतुर्मुखः
 (Image source: [Details](/en/licenses#lekt5205))
 :::
@@ -427,7 +427,7 @@ The Big Dipper = the seven brightest stars of the Big Bear (Ursa maior)
     pañca + go » pañcagava (impermissible as a single word!) + dhana » पञ्चगवधन m. "one whose wealth consists of five cows"
 :::
 ::: media
-![](/images/lekt5207.jpg)
+![](/images/lekt5207.webp)
 Fig.: षण्मातुरः कार्त्तिकेय:
 Jalakandapuram = ஜலகண்டபுரம்
 (Image source: [Details](/en/licenses#lekt5207))
@@ -472,7 +472,7 @@ from:
 :::
 
 ::: media
-![](/images/lekt5210.jpg)
+![](/images/lekt5210.webp)
 Fig.: खिलः
 Tambhol, Akole, Ahmednagar = अहमदनगर
 (Image source: [Details](/en/licenses#lekt5210))
@@ -506,7 +506,7 @@ PPP विपरीत 3: wrong, incorrect
 पीड् 10P पीडयति : press, torment; harass, besiege, plague
 
 ::: media
-![](/images/lekt5212.jpg)
+![](/images/lekt5212.webp)
 Fig.: पीडिताः
 Hyderabad = హైదరాబాద్
 (Image source: [Details](/en/licenses#lekt5212))
@@ -524,7 +524,7 @@ from that:
 प्रधान 3: principal, best; n.: the most important
 
 ::: media
-![](/images/lekt5213.jpg)
+![](/images/lekt5213.webp)
 Fig.: प्रधानः
 मुंबई
 (Image source: [Details](/en/licenses#lekt5213))
@@ -634,7 +634,7 @@ PPP च्युत
 चक्र n.: wheel
 
 ::: media
-![](/images/lekt5214.jpg)
+![](/images/lekt5214.webp)
 Fig.: चक्रम्
 Konark = कोनार्क
 (Image source: [Details](/en/licenses#lekt5214))
@@ -642,7 +642,7 @@ Konark = कोनार्क
 कदली f.: banana tree (_Musa_ sp.)
 
 ::: media
-![](/images/lekt5208.jpg)
+![](/images/lekt5208.webp)
 Fig.: कदली
 Hampi = ಹಂಪೆ
 (Image source: [Details](/en/licenses#lekt5208))
@@ -658,7 +658,7 @@ Hampi = ಹಂಪೆ
 मल m.n.: dirt, flaw
 
 ::: media
-![](/images/lekt5215.jpg)
+![](/images/lekt5215.webp)
 Fig.: मलम्
 मुंबई
 (Image source: [Details](/en/licenses#lekt5215))
@@ -668,7 +668,7 @@ Fig.: मलम्
 मार m.: the personified evil, the personified temptation / manipulation, devil
 
 ::: media
-![](/images/lekt5217.jpg)
+![](/images/lekt5217.webp)
 Fig.:
 Amaravati = అమరావతి, 2nd century CE
 (Image source: [Details](/en/licenses#lekt5217))
@@ -735,7 +735,7 @@ Explanations:
 ४. अश्वघोष (2nd cent. CE): बुद्धचरित ४ Buddha's liberating knowledge
 
 ::: media
-![](/images/lekt5216.jpg)
+![](/images/lekt5216.webp)
 Fig.: अश्वत्थो महाबोधिवृक्षः
 _Ficus religiosa_ L. बोधगया, ca. 1810
 (Image source: [Details](/en/licenses#lekt5216))
@@ -818,7 +818,7 @@ During the semester break, the following tasks should be completed:
      **Winternitz, Moriz &lt;1863 - 1937&gt;:** History of Indian literature. Stuttgart : Koehler. -- 3 vols. -- 1908 - 1922 (still by far the best history of Sanskrit, Pali, and Prakrit literature)
 
 ::: media
-![](/images/lekt5201.jpg)
+![](/images/lekt5201.webp)
 Fig.: श्रीगुम्पिः , मम मन्त्री
 (Image: Payer)
 (Image source: [Details](/en/licenses#lekt5201))

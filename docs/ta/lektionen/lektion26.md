@@ -59,7 +59,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2601.jpg)
+![](/images/lekt2601.webp)
 வரைபடம்: ஹெர்மான் கிராஸ்மேன்
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt2601))
 :::
@@ -93,7 +93,7 @@ status: stable
 
 
 ::: media
-![](/images/lekt2602.jpg)
+![](/images/lekt2602.webp)
 சுருக்கம்: व्रतं करिष्यन्देवगृहं गच्छति
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt2602))
 :::

@@ -103,7 +103,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt4501.jpg)
+![](/images/lekt4501.webp)
 Ил.: भवति किं करोषि
 (Източник на изображението: [Подробности](/bg/licenses#lekt4501))
 :::

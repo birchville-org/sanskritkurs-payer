@@ -599,7 +599,7 @@ sarvathā kuśalam.
 सर्वथा कुशलम् ॥
 
 ::: media
-![](/images/uebung005.jpg)
+![](/images/uebung005.webp)
 அணி: देवतान्नपूर्णा
 (படம் மூலம்: [விவரங்கள்](/licenses#uebung005))
 :::

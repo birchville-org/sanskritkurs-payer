@@ -161,7 +161,7 @@ Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben vert
 Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
 
 ::: media
-![](/images/lekt0201.jpg)
+![](/images/lekt0201.webp)
 Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
 (Bildquelle: [Details](/licenses#lekt0201))
 :::
@@ -213,7 +213,7 @@ Abb.: Gott Agni, Miniatur, 18. Jh.
 **sādhu** m. -- साधु : "heiliger" Mann, Sādhu.
 
 ::: media
-![](/images/lekt0202.jpg)
+![](/images/lekt0202.webp)
 Abb.: Sādhu (साधु), Pashupatinath Tempel, Kathmandu.
 (Bildquelle: [Details](/licenses#lekt0202))
 :::

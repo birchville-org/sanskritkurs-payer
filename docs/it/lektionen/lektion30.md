@@ -306,7 +306,7 @@ Assol. विक्रीय
 :::
 
 ::: media
-![](/images/lekt3001.jpg)
+![](/images/lekt3001.webp)
 Fig.: क्रीणन्ति विक्रीणते च
 Bundi = बुन्दी, Rajasthan = राजस्थान
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3001))
@@ -330,7 +330,7 @@ di cui:
 :::
 
 ::: media
-![](/images/lekt3002.jpg)
+![](/images/lekt3002.webp)
 Fig.: ज्ञातयः
 Darewadi, Distretto di Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3002))
@@ -347,7 +347,7 @@ Inf. पवितुम्
 :::
 
 ::: media
-![](/images/lekt3003.jpg)
+![](/images/lekt3003.webp)
 Fig.: श्रोत्राणि पुनाति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3003))
 :::
@@ -363,7 +363,7 @@ Inf. अशितुम्
 :::
 
 ::: media
-![](/images/lekt3005.jpg)
+![](/images/lekt3005.webp)
 Fig.: अश्नीयात्
 थाली, Sud dell'India
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3005))
@@ -372,7 +372,7 @@ Fig.: अश्नीयात्
 प्रिय ३: amabile, amante, amichevole
 
 ::: media
-![](/images/lekt3004.jpg)
+![](/images/lekt3004.webp)
 Fig.: प्रिया
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3004))
 :::
@@ -402,7 +402,7 @@ di cui:
 :::
 
 ::: media
-![](/images/lekt2904.jpg)
+![](/images/lekt2904.webp)
 Fig.: पुनर्भवः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2904))
 :::

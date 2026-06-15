@@ -271,7 +271,7 @@ Exemplars:
 sam-kṛ + -a = संस्कार m.: consecraziun, preparaziun; ritgs da transiziun = designaziun per las ceremonias, che accompagneschan ils differents segments da la vita, dapi la concepziun fin la mort (v. per quai la excellenta resumaziun en Basham, Wonder S. 160 - 170!)
 
 ::: media
-![](/images/lekt1804.jpg)
+![](/images/lekt1804.webp)
 Abb.: विवाहः
 Matrimoni = विवाह m., in impurtant संस्कारः
 (font da l’imaginescha: [Detagls](/rm/licenses#lekt1804))
@@ -286,7 +286,7 @@ upa-nī + -ana = उपनयन n.: il purtar (vers il foc da sacrifici) = cere
 Mediant l’upanayana ha lieu la segunda naschientscha, perquai: द्विज । द्विजाति
 
 ::: media
-![](/images/lekt1801.jpg)
+![](/images/lekt1801.webp)
 Abb.: उपनयनम्
 "In giuven uffant vegn mussà durant la ceremonia da upanayana. La corda flida, suttila, che va da la spalla sanestra fin a la vita è Yagnopaivta. Notar er la cinghia da glina da munja enturn la vita. La stiva en la maun dretga (normalmain dal arbul peepa) significescha ses entrance en Brahmacharya."
 (font da l’imaginescha: [Detagls](/rm/licenses#lekt1801))
@@ -421,7 +421,7 @@ A) Resolvair ils suandants compounds en sanscrit e donai suggeriments da traduct
 ९. कुलोपदेश m.
 
 ::: media
-![](/images/lekt1802.jpg)
+![](/images/lekt1802.webp)
 Fig.: मृतिसाधनी काली
 1770 Impressiun
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt1802))
@@ -442,7 +442,7 @@ B) Traduci sut utilisaziun da verbs da la 2. classa da prezens:
 6). Uschia discurra il, che ha [passà bain il passasch tras las renascientsas] al discepel.
 
 ::: media
-![](/images/lekt1803.jpg)
+![](/images/lekt1803.webp)
 Fig.: सुगतः
 गन्धार 1./2. tschientaner suenter Crist
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt1803))

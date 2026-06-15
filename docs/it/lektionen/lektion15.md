@@ -68,7 +68,7 @@ Nom. pl. गुणवत्पुत्राः
 इष्टदेवता = इष्टा देवता = "la divinità desiderata = la divinità a cui si ha un rapporto speciale di devozione e rifugio"
 
 ::: media
-![](/images/lekt1501.jpg)
+![](/images/lekt1501.webp)
 Fig.: लक्ष्मी
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1501))
 :::
@@ -91,7 +91,7 @@ Per quanto riguarda la sequenza dei membri in un Karmadhāraya, si deve osservar
 :::
 
 ::: media
-![](/images/lekt1503.jpg)
+![](/images/lekt1503.webp)
 Fig.: नरसिंहः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1503))
 :::
@@ -263,7 +263,7 @@ ad esempio:
 
 पूजा f.: onore, accoglienza onorevole, venerazione religiosa (Pūjā)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 Fig.: पूजा
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1504))
 :::
@@ -272,7 +272,7 @@ Fig.: पूजा
 
 इन्द्र m.: principe, primo, il migliore tra; re degli dei Indra
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 Fig.: इन्द्रः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1505))
 :::
@@ -301,14 +301,14 @@ da ciò:
 
 सिंह m.: leone (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 Fig.: सिंहः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1506))
 :::
 
 व्याघ्र m.: tigre (_Panthera tigris tigris_) (letteralmente: sbadigliatore)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 Fig.: व्याघ्रः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1507))
 :::
@@ -530,7 +530,7 @@ Risolvere, come nell’Esercizio 1, i seguenti composti tatpuruṣa:
 ६०. द्विजातिशुश्रूषया
 
 ::: media
-![](/images/lekt1508.jpg)
+![](/images/lekt1508.webp)
 Fig.: ग्रामदेवता
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt1508))
 :::
@@ -593,7 +593,7 @@ B) Risolvere i seguenti Tatpuruṣa:
 
 २६. श्रुत्युदितम्
 ::: media
-![](/images/lekt1509.jpg)
+![](/images/lekt1509.webp)
 Fig.: नागदेवाः
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt1509))
 :::

@@ -12,7 +12,7 @@ status: stable
 ## 20.1. Possessivkomposita = बहुव्रीहि m.
 
 ::: media
-![](/images/lekt2004.jpg)
+![](/images/lekt2004.webp)
 Fig.: बहुव्रीहिः पुरुषः
 Jodhpur = जोधपुर [Fonte immagine: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2004))
@@ -159,7 +159,7 @@ Tradizionalmente si distingue:
 ::::
 
 ::: media
-![](/images/lekt2005.jpg)
+![](/images/lekt2005.webp)
 Fig.: देवा यीश्वादयः
 Gesù e gli altri dei, Ahmedabad [Fonte immagine: da ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2005))
@@ -190,7 +190,7 @@ Esempio:
 ::::
 
 ::: media
-![](/images/lekt2001.jpg)
+![](/images/lekt2001.webp)
 Fig.: इन्द्रो वज्रपाणिः
 Siemreap (ក្រុងសៀមរាប), Cambogia, IX sec. d.C. [Fonte immagine: Wikipedia, Dominio pubblico]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2001))
@@ -221,7 +221,7 @@ Esempi:
 ::::
 
 ::: media
-![](/images/lekt2006.jpg)
+![](/images/lekt2006.webp)
 Fig.: सपुत्रा
 Madhya Pradesh [Fonte immagine: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2006))
@@ -260,7 +260,7 @@ Gli esempi sono qui forniti per un successivo esercizio; per alcuni, la grammati
 13.  e altri
 
 ::: media
-![](/images/lekt2007.jpg)
+![](/images/lekt2007.webp)
 Fig.: कृतकटा
 Chennai = சென்னை [Fonte immagine: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2007))
@@ -290,7 +290,7 @@ Questo può essere vero. Tuttavia, gli indiani considerano allora come ornamenta
 आश्रम m., n.: eremo, stadio della vita, fase della vita (ovvero come ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ e eventualmente come सन्न्यासिन् ; cfr. Basham, Meraviglie pag. 159s.)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 Fig.: आश्रमः
 Rishikesh = ऋषिकेश. "Questo in realtà fa parte dell'ashram a Rishikesh dove i Beatles hanno soggiornato. Questa parte specifica non c'era quando erano lì, ma ha un bell'aspetto." [Fonte immagine: da ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2008))
@@ -523,7 +523,7 @@ Spiegazione: तपस् n. (declinazione più tardi): brace, calore, tormento 
 :::
 
 ::: media
-![](/images/lekt2010.jpg)
+![](/images/lekt2010.webp)
 Fig.: तपस्
 Buddha come asceta prima della sua illuminazione salvifica, Gandhara, II/III sec. [Fonte immagine: Wikipedia, Licenza GNU FDL]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2010))
@@ -565,7 +565,7 @@ Spiegazione: -da alla fine di un composto: "dante"
 :::
 
 ::: media
-![](/images/lekt2009.jpg)
+![](/images/lekt2009.webp)
 Fig.: लोकानां करदा मही
 Karnataka [Fonte immagine: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2009))
@@ -595,7 +595,7 @@ Spiegazione: tutte le forme tranne कं e स्त्रीणाम् sono 
 :::
 
 ::: media
-![](/images/lekt2003.jpg)
+![](/images/lekt2003.webp)
 Fig.: तनुमध्यं पृथुश्रोणि
 Sanchi = सांची [Fonte immagine Wikipedia, Dominio pubblico]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2003))

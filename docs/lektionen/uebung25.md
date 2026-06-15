@@ -67,7 +67,7 @@ Buddhas und Arhants sind vom Leid befreit. Sie haben nämlich die erlösende Ein
 Durch Gier, Hass und Verblendung verderben Menschen. Wenn die Zeit gekommen ist, fallen sie dann in eine Hölle.
 
 ::: media
-![](/images/uebung040.jpg)
+![](/images/uebung040.webp)
 Abb.: लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति
 (Bildquelle: [Details](/licenses#uebung040))
 :::
@@ -119,7 +119,7 @@ Wenn jemand aus Hochmut, Gier, Zorn oder Furcht ein falsches Gerichtsurteil spri
 Höllen entstehen wegen des Bösen, Böses entsteht aus Armut, Armut entsteht aus Nicht-Geben.
 
 ::: media
-![](/images/uebung041.jpg)
+![](/images/uebung041.webp)
 Abb.: भवन्ति नरकाः पापात्
 (Bildquelle: [Details](/licenses#uebung041))
 :::
@@ -136,7 +136,7 @@ Ein Dieb wird von der Diebstahlsschuld befreit durch Bestrafung oder durch Freil
 Die Wirtschaft ist nützlich, weil sie Getreide, Vieh, Gold, Metalle und Arbeit hervorbringt.
 
 ::: media
-![](/images/uebung042.jpg)
+![](/images/uebung042.webp)
 Abb.: वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी
 (Bildquelle: [Details](/licenses#uebung042))
 :::

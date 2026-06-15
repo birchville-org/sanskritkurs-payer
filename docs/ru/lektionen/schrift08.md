@@ -2,7 +2,7 @@
 
 Гласные знаки для начала слова, если слово не связано с предыдущим словом в написании:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 Начальное -a, которое согласно правилам словесного сандхи элидируется (-as + a- » -o ' ), обозначается так называемым авиграхой:
 

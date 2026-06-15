@@ -235,7 +235,7 @@ The 5th present class forms a so-called athemeatic present stem, i.e., the prese
 - **su** 5 U (sunoti) सु सुनोति : to press out
 - **soma** m. सोम : pressed drink, Soma; Moon (It is still disputed from which plant Soma was pressed).
 ::: media
-![](/images/lekt0701.jpg)
+![](/images/lekt0701.webp)
 Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
 (Image source: [Details](/en/licenses#lekt0701))
 :::
@@ -258,7 +258,7 @@ Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
    ब्राह्मणस् ... यजति (देव, देवी, विष्णु, अग्नि, देवता)
 
 ::: media
-![](/images/lekt0704.jpg)
+![](/images/lekt0704.webp)
 Fig.: Viṣṇu = विष्णु, 8th/9th century.
 (Image source: [Details](/en/licenses#lekt0704))
 :::
@@ -299,7 +299,7 @@ Fig.: Viṣṇu = विष्णु, 8th/9th century.
    यजति |
 
 ::: media
-![](/images/lekt0702.jpg)
+![](/images/lekt0702.webp)
 Fig.: **yajati** = यजति — Vedic sacrifice = **yajña** m. = यज्ञ
 (Image source: [Details](/en/licenses#lekt0702))
 :::
@@ -321,7 +321,7 @@ Fig.: **yajati** = यजति — Vedic sacrifice = **yajña** m. = यज्�
 8. To which god does this Brahmin sacrifice?
 
 ::: media
-![](/images/lekt0703.jpg)
+![](/images/lekt0703.webp)
 Fig.: To which god does one sacrifice here? Answer: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
 (Image source: [Details](/en/licenses#lekt0703))
 :::

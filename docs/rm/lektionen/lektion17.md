@@ -312,7 +312,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt1703.jpg)
+![](/images/lekt1703.webp)
 Abb.: घाताः
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte da figura: [Detagls](/rm/licenses#lekt1703))
@@ -328,7 +328,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt1701.jpg)
+![](/images/lekt1701.webp)
 Abb.: योगासनम्
 (Fonte da figura: [Detagls](/rm/licenses#lekt1701))
 :::
@@ -347,7 +347,7 @@ quai da:
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : mulsunar
 
 ::: media
-![](/images/lekt1702.jpg)
+![](/images/lekt1702.webp)
 Abb.: दोग्धि
 (Fonte da figura: [Detagls](/rm/licenses#lekt1702))
 :::

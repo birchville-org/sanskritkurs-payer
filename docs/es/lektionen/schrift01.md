@@ -4,13 +4,13 @@
 
 El sánscrito se escribía y se escribe en una gran variedad de escrituras. El siguiente resumen ofrece un pequeño fragmento de estas escrituras:
 
-![](/images/schrift001.jpg)  
+![](/images/schrift001.webp)  
 Fig.: Ejemplos de escritura sánscrita  
 \[Fuente de la imagen: Wikipedia, Licencia GNU FD\]
 
 Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
-![](/images/schrift002.jpg)
+![](/images/schrift002.webp)
 
 Cada signo consonántico indica también una "a" que sigue a la consonante. Si se desea escribir la consonante pura (sin vocal siguiente), esto debe marcarse con una barra diagonal inferior -- virāma = विराम --:
 

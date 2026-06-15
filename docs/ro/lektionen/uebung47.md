@@ -152,7 +152,7 @@ Noi vrem să fim conduși de tine.
 Să fie spre noroc! (Urare de binecuvântare)
 
 ::: media
-![](/images/uebung075.jpg)
+![](/images/uebung075.webp)
 Fig.: माद्यत
 (Sursa imaginii: [Detalii](/licenses#uebung075))
 :::

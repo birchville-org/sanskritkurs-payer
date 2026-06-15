@@ -73,7 +73,7 @@ B) Mettai l'agent e il verb en il plural en las sentenzas furmadas en A)
 १०. साधुजनो ऽधर्मं द्विषन्ति । द्विषते । न कुर्वन्ति । न कुर्वते ।
 
 ::: media
-![](/images/uebung025.jpg)
+![](/images/uebung025.webp)
 Abb.: बालब्राह्मणी रोदिति
 (Fontana da l'imagines: [Detagls](/licenses#uebung025))
 :::
@@ -177,7 +177,7 @@ Traducir las formas verbalas suventas e dar la radicha correspundenta:
 ४६. **दिश्यन्न्ते** (दिश् 6U): els vegn mussà
 
 ::: media
-![](/images/uebung026.jpg)
+![](/images/uebung026.webp)
 Fig.: शृणोति
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung026))
 :::

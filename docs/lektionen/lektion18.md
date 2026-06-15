@@ -271,7 +271,7 @@ Beispiele:
 sam-kṛ + -a = संस्कार m.: Weihe, Zubereitung ; Übergangsrituale = Bezeichnung für die Zeremonien, die die verschiedenen Lebensabschnitte von der Empfängnis bis zum Tod begleiten (s. dazu die ausgezeichnete Zusammenfassung bei Basham, Wonder S. 160 - 170!)
 
 ::: media
-![](/images/lekt1804.jpg)
+![](/images/lekt1804.webp)
 Abb.: विवाहः
 Hochzeit = विवाह m., ein wichtiger संस्कारः
 (Bildquelle: [Details](/licenses#lekt1804))
@@ -286,7 +286,7 @@ upa-nī + -ana = उपनयन n.: das Heranführen (ans Opferfeuer) = Zeremon
 Durch das Upanayana geschieht die zweite Geburt, deshalb: द्विज । द्विजाति
 
 ::: media
-![](/images/lekt1801.jpg)
+![](/images/lekt1801.webp)
 Abb.: उपनयनम्
 "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
 (Bildquelle: [Details](/licenses#lekt1801))
@@ -421,7 +421,7 @@ A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvors
 ९. कुलोपदेश m.
 
 ::: media
-![](/images/lekt1802.jpg)
+![](/images/lekt1802.webp)
 Abb.: मृतिसाधनी काली
 1770 Print
 (Bildquelle: [Details](/licenses#lekt1802))
@@ -442,7 +442,7 @@ B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
 6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger.
 
 ::: media
-![](/images/lekt1803.jpg)
+![](/images/lekt1803.webp)
 Abb.: सुगतः
 गन्धार 1./2. Jhdt. n. Chr.
 (Bildquelle: [Details](/licenses#lekt1803))

@@ -45,7 +45,7 @@ status: stable
 | **3. प्रथमः** | नृत्यतस् | नृत्येते् |
 
 ::: media
-![](/images/lekt5802.jpg)
+![](/images/lekt5802.webp)
 ਚਿੱਤਰ: नृत्यतः
 ओडिसी
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5802))
@@ -76,7 +76,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5803.jpg)
+![](/images/lekt5803.webp)
 ਚਿੱਤਰ: वानरौ रथाद्भाण्डानि चोरयतः
 ਬੰਡੀਪੁਰ ਰਾਸ਼ਟਰੀ ਉਦਿਆਨ -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5803))
@@ -154,7 +154,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5806.jpg)
+![](/images/lekt5806.webp)
 ਚਿੱਤਰ: उष्ट्रौ मरावितः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5806))
 :::
@@ -169,7 +169,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5804.jpg)
+![](/images/lekt5804.webp)
 ਚਿੱਤਰ: कन्ये अधीयते
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5804))
 :::
@@ -196,7 +196,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5805.jpg)
+![](/images/lekt5805.webp)
 ਚਿੱਤਰ: भगिन्यौ स्वः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5805))
 :::
@@ -234,7 +234,7 @@ status: stable
 | **3. प्रथमः** | सुनुतस् | सुन्वाते |
 
 ::: media
-![](/images/lekt5807.jpg)
+![](/images/lekt5807.webp)
 ਚਿੱਤਰ: शर्कराम्बु सुनुतः
 पुणेनगरे
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5807))
@@ -295,7 +295,7 @@ status: stable
 | **3. प्रथमः** | क्रीणीतस् | क्रीणाते |
 
 ::: media
-![](/images/lekt5801.jpg)
+![](/images/lekt5801.webp)
 ਚਿੱਤਰ: स्त्रियौ शाकं क्रीणाते
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5801))
 :::
@@ -404,7 +404,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt5808.jpg)
+![](/images/lekt5808.webp)
 ਚਿੱਤਰ: दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5808))
 :::

@@ -81,7 +81,7 @@ Zeii se mânie pe acești brahmani care nu le-au adus închinare.
 Pentru a muri, ființele se nasc.
 
 ::: media
-![](/images/uebung037.jpg)
+![](/images/uebung037.webp)
 Fig.: मरणाय जना जायन्ते
 (Sursa imaginii: [Detalii](/licenses#uebung037))
 :::
@@ -156,7 +156,7 @@ E) În propoziția B) 6, înlocuiți dativul cu o construcție cu **-अर्�
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung038.jpg)
+![](/images/uebung038.webp)
 Fig.: इदं फलं अलं खादनाय
 (Sursa imaginii: [Detalii](/licenses#uebung038))
 :::

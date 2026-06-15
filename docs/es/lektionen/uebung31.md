@@ -30,7 +30,7 @@ Quien tiene comprensión, se libera del sufrimiento; por lo tanto, quien desea l
 Un ignorante disfruta de buena comida y hermosas mujeres. Quien ha desaparecido su ignorancia, no desea buena comida ni mujer de cuerpo perfecto. Él evita el deseo y el odio, y se concentra en la comprensión.
 
 ::: media
-![](/images/uebung049.jpg)
+![](/images/uebung049.webp)
 Fig.: कुलबन्धनम्
 (Fuente de la imagen: [Detalles](/licenses#uebung049))
 :::

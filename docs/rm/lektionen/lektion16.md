@@ -71,7 +71,7 @@ Exemples:
 अध्यापन n.: instruir, instrucziun
 
 ::: media
-![](/images/lekt1602.jpg)
+![](/images/lekt1602.webp)
 Abb.: अध्यापनम्
 "Questa è ina ceremonia speziala en in pitschin temple en Satara (सातारा). Ella vegn executada dals students da la Swami Muktananda Vedashala en la celebraziun da Mahāśivarātri. Questa è ina scola vedica, nua che uffants a memoria ils texts sacrs clamads ils Vedas. Questa scola instruescha il Krishna Yajurveda ed intginas parts dal Samaveda. Jau fac mia dissertaziun da master sin questa scola."
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt1602))
@@ -108,7 +108,7 @@ quai da:
 योग m.: attachar, connexiun, uniun, acquista; Yoga
 
 ::: media
-![](/images/lekt1601.jpg)
+![](/images/lekt1601.webp)
 Abb.: योगी
 Birla Mandir, Delhi
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt1601))
@@ -144,7 +144,7 @@ A) Transfurmian ils suandantas expressiuns en Tatpuruṣa e tradusian ellas:
 ४. पशुमन्तो जनाः ।
 
 ::: media
-![](/images/lekt1604.jpg)
+![](/images/lekt1604.webp)
 Abb.: पशुमन्तो जनाः
 हरियाणा / ਹਰਿਆਣਾ
 (Font da l’imagines: [Detagls](/rm/licenses#lekt1604))

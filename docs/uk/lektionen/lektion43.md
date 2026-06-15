@@ -141,7 +141,7 @@ status: stable
 आपण ч.р.: ринок
 
 ::: media
-![](/images/lekt4302.jpg)
+![](/images/lekt4302.webp)
 Рис.: आपणः
 (Джерело зображення: [Деталі](/uk/licenses#lekt4302))
 :::
@@ -151,7 +151,7 @@ status: stable
 पण्य 3: купівельний; с.р.: товар, торгівля
 
 ::: media
-![]/images/lekt4303.jpg
+![]/images/lekt4303.webp
 Рис.: पण्यानि
 (Джерело зображення: [Деталі](/uk/licenses#lekt4303))
 :::
@@ -174,7 +174,7 @@ status: stable
 विपणि ж.р.: крамниця
 
 ::: media
-![](/images/lekt4304.jpg)
+![](/images/lekt4304.webp)
 Рис.: विपणिः
 (Джерело зображення: [Деталі](/uk/licenses#lekt4304))
 :::
@@ -182,7 +182,7 @@ status: stable
 वणिज् ч.р.: купець
 
 ::: media
-![](/images/lekt4305.jpg)
+![](/images/lekt4305.webp)
 Рис.: वणिक्
 (Джерело зображення: [Деталі](/uk/licenses#lekt4305))
 :::
@@ -194,7 +194,7 @@ status: stable
 वत्स ч.р.: теля, дитина, дитя; вок.: мій дорогий
 
 ::: media
-![](/images/lekt4306.jpg)
+![](/images/lekt4306.webp)
 Рис.: वत्सः
 (Джерело зображення: [Деталі](/uk/licenses#lekt4306))
 :::
@@ -216,7 +216,7 @@ status: stable
 तुल् 10 तुलयति । तोलयति : зважувати
 
 ::: media
-![](/images/lekt4307.jpg)
+![](/images/lekt4307.webp)
 Рис.: तोलन्ति
 (Джерело зображення: [Деталі](/uk/licenses#lekt4307))
 :::
@@ -339,7 +339,7 @@ B) Перекладіть санскритом:
 10\. Як ти рятуєшся (перетинаєш) перед ворогом?
 
 ::: media
-![](/images/lekt4308.jpg)
+![](/images/lekt4308.webp)
 Мал.: कदा पूराववर्तथाः ।
 (Джерело зображення: [Деталі](/uk/licenses#lekt4308))
 :::
@@ -375,7 +375,7 @@ B) Перекладіть санскритом:
 | (За: Saral Sanskrit Shikshak III, с. 4f.) | |
 
 ::: media
-![](/images/lekt4309.jpg)
+![](/images/lekt4309.webp)
 Рис.: शर्करा
 (Джерело зображення: [Деталі](/uk/licenses#lekt4309))
 :::

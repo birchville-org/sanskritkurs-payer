@@ -50,7 +50,7 @@ Davant d’in regim trop sever (daṇḍa) d’esser spaventai. In regim flaccid
 :::
 
 ::: media
-![](/images/uebung046.jpg)
+![](/images/uebung046.webp)
 Abb.: चतुर्वर्णाश्रमो लोको
 (Font dal maletg: [Detagl](/licenses#uebung046))
 :::

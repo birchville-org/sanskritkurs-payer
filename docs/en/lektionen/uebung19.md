@@ -59,7 +59,7 @@ He who has prosperity, is in the world a man,
 He who indeed has prosperity, is a scholar.
 
 ::: media
-![](/images/uebung029.jpg)
+![](/images/uebung029.webp)
 Fig.: यस्यार्थास्तस्य मित्राणि
 (Image source: [Details](/en/licenses#uebung029))
 :::

@@ -212,7 +212,7 @@ Esempi:
 **शस्य = सस्य n. sg. e pl.:** semenza, raccolto, cereali
 
 ::: media
-![](/images/lekt3406.jpg)
+![](/images/lekt3406.webp)
 Fig.: सस्यम्
 Campo di riso in India.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3406))
@@ -227,7 +227,7 @@ Campo di riso in India.
 **द्वीप m.n.:** isola, continente
 
 ::: media
-![](/images/lekt3405.jpg)
+![](/images/lekt3405.webp)
 Fig.: लक्षद्वीपाः
 Mappa delle Isole Lakshadweep.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3405))
@@ -238,14 +238,14 @@ Mappa delle Isole Lakshadweep.
 **तिल m.:** sesamo (*Sesamum indicum* L.)
 
 ::: media
-![](/images/lekt3403.jpg)
+![](/images/lekt3403.webp)
 Fig.: तिलाः
 Semi di sesamo.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3403))
 :::
 
 ::: media
-![](/images/lekt3404.jpg)
+![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Fioritura della pianta del sesamo.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3404))
@@ -254,7 +254,7 @@ Fioritura della pianta del sesamo.
 **स्वर्ण n.:** (di bel colore =) oro
 
 ::: media
-![](/images/lekt3402.jpg)
+![](/images/lekt3402.webp)
 Fig.: स्वर्णम्
 Tempio d'Oro (Harmandir Sahib), Amritsar.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3402))
@@ -271,7 +271,7 @@ Tempio d'Oro (Harmandir Sahib), Amritsar.
 **ऋषभ m.:** toro
 
 ::: media
-![](/images/lekt3401.jpg)
+![](/images/lekt3401.webp)
 Fig.: ऋषभः
 Statua del toro Nandi, Colline di Chamundi, Mysore.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3401))
@@ -351,7 +351,7 @@ Spiegazioni:
 :::
 
 ::: media
-![](/images/lekt3407.jpg)
+![](/images/lekt3407.webp)
 Fig.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
 Rituale nuziale indù.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3407))

@@ -232,7 +232,7 @@ status: stable
 13. (Споменатата) брахманка танцува.
 
 ::: media
-![](/images/lekt0601.jpg)
+![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 Шива Натараджа (नटराज), Хинду храм Кадавул, Кауаи, Хавайи
 (Източник на изображението: Уикипедия, CC-BY-SA 2.5)
@@ -312,7 +312,7 @@ status: stable
 3. Mīnākṣī ist eine Göttin.
 
 ::: media
-![](/images/lekt0602.jpg)
+![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Mīnākṣī-Tempel, Madurai, Tamil Nadu
 (Bildquelle: Wikipedia, Public domain)
 :::

@@ -156,7 +156,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 अभि.: ⟪कामदेवः⟫
 19वीं शताब्दी
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2202))
@@ -174,7 +174,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 अभि.: ⟪दुर्गाशक्तिः⟫
 कोलकाता = কলকাতা
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2203))
@@ -204,7 +204,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 अभि.: ⟪धेनवश्चरन्ति⟫
 गोवा = ⟪गोंय⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2201))
@@ -276,7 +276,7 @@ status: stable
 **C) उपरोक्त वाक्यों (वाक्य 8 और 10 को छोड़कर) से कर्मणि प्रयोग बनाएं**
 
 ::: media
-![](/images/lekt2204.jpg)
+![](/images/lekt2204.webp)
 अभि.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt2204))
 :::

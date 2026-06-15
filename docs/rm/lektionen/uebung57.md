@@ -43,7 +43,7 @@ Traducir e determinar las suandantas formas e furmar las correspundentas formas 
 :::
 
 ::: media
-![](/images/uebung090.jpg)
+![](/images/uebung090.webp)
 Abb.: वारानास्यां गङ्गायामप्लोढ्वम्
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung090))
 :::
@@ -117,7 +117,7 @@ Determinai e traduci las formas suventas:
 :::
 
 ::: media
-![](/images/uebung094.jpg)
+![](/images/uebung094.webp)
 Abb.: पाणी धूपं कुरुतः ॥
 (Bildquelle: [Detagls](/licenses#uebung094))
 :::

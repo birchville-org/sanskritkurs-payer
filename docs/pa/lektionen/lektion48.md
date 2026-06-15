@@ -266,7 +266,7 @@ status: stable
 :::
 
 ::: media
-![](/images/lekt4801.jpg)
+![](/images/lekt4801.webp)
 ਅਬਬ.: वैयाघ्रं विजृम्भणम्
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵਿਸਤਾਰ](/pa/licenses#lekt4801))
 :::
@@ -284,14 +284,14 @@ status: stable
 तन्त्र n.: ਤਾਰ ; ਢਾਹ, ਢਾਹ ਦੀ ਧਾਗੀ, ਬੁਣਾਈ ; ਆਧਾਰ, ਮਾਪਦੰਡ, ਨਿਯਮ ; ਸਿੱਖਿਆ, ਸਿੱਖਿਆ-ਪੁਸਤਕ ; ਤੰਤਰ ; ਮੰਤਰ ; ਮੱਧਮ, ਚਾਲ, ਦਵਾਈ ; ਸਰਕਾਰ, ਅਧਿਕਾਰ
 
 ::: media
-![](/images/lekt4802.jpg)
+![](/images/lekt4802.webp)
 ਚਿੱਤਰ: तन्त्रम्
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4802))
 :::
 
 ::: media
-![](/images/lekt4803.jpg)
+![](/images/lekt4803.webp)
 ਚਿੱਤਰ: तन्त्री
 ਸਿਤਾਰ ਵਾਦਕ = सितारवादकः
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4803))
@@ -315,7 +315,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 :::
 
 ::: media
-![](/images/lekt4804.jpg)
+![](/images/lekt4804.webp)
 ਚਿੱਤਰ: स्वतन्त्राः स्त्रियः
 [ਆਤਮ-ਸਹਾਇਕ ਸਮੂਹ (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4804))
@@ -328,7 +328,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 कुमार m.: ਬੱਚਾ, ਜਵਾਨ, ਰਾਜਕੁਮਾਰ; कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ്യ ਦਾ ਉਪਨਾਮ
 
 ::: media
-![](/images/lekt4805.jpg)
+![](/images/lekt4805.webp)
 ਚਿੱਤਰ: कुमारः
 Thaipusam-ਉਤਸਵ = தைப்பூசம், Batu Caves, ਮਲੇਸ਼ੀਆ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4805))
@@ -337,7 +337,7 @@ Thaipusam-ਉਤਸਵ = தைப்பூசம், Batu Caves, ਮਲੇਸ�
 कुमारी f.: ਕੁੜੀ, ਧੀ
 
 ::: media
-![](/images/lekt4806.jpg)
+![](/images/lekt4806.webp)
 ਚਿੱਤਰ: कुमारी
 नेपाल
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4806))
@@ -350,7 +350,7 @@ Thaipusam-ਉਤਸਵ = தைப்பூசம், Batu Caves, ਮਲੇਸ�
 स्थविर 3: ਬੁੱਢਾ, ਬੁਢਾਪਾ
 
 ::: media
-![](/images/lekt4807.jpg)
+![](/images/lekt4807.webp)
 ਚਿੱਤਰ: स्थविराः
 जोधपुर
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4807))
@@ -363,7 +363,7 @@ Thaipusam-ਉਤਸਵ = தைப்பூசம், Batu Caves, ਮਲੇਸ�
 सूक्ष्म 3: ਬਾਰੀਕ, ਬਹੁਤ ਛੋਟਾ, ਸੂਖਮ
 
 ::: media
-![](/images/lekt4808.jpg)
+![](/images/lekt4808.webp)
 ਚਿੱਤਰ: सूक्ष्मम्
 Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4808))
@@ -380,7 +380,7 @@ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 जाया f.: ਪਤਨੀ
 
 ::: media
-![](/images/lekt4809.jpg)
+![](/images/lekt4809.webp)
 ਚਿੱਤਰ: मम जाया
 (ਚਿੱਤਰ: Payer)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4809))

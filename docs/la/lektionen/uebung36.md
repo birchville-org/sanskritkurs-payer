@@ -68,7 +68,7 @@ Brahmani bis natus, qui Veda studuit, ius et mos Brahmanorum novit.
 Sola scientia vivere non potest. Qui hoc scit, non debet studere.
 
 ::: media
-![](/images/uebung061.jpg)
+![](/images/uebung061.webp)
 Tabula: विद्ययैव जीवितुं न शक्यते
 (Fons imaginis: [Detalia](/licenses#uebung061))
 :::
@@ -96,7 +96,7 @@ Senes debite salutent, sedem eis relinquant, manibus consertis stent. Si senex a
 Si vir nec gaudet nec maeret, cum audit, tangit, videt, gustat, aut olfacit, is habetur qui sensus suos vicit (**जितेन्द्रियः**).
 
 ::: media
-![](/images/uebung060.jpg)
+![](/images/uebung060.webp)
 Fig.: भुक्त्वा घ्रात्वा च न हृष्यति ग्लायति वा
 (Fons imaginis: [Detalia](/licenses#uebung060))
 :::
@@ -149,7 +149,7 @@ Determinate et vertite sequentes formas verborum:
 :::
 
 ::: media
-![](/images/uebung059.jpg)
+![](/images/uebung059.webp)
 Fig.: जगौ
 (Fons imaginis: [Detalia](/licenses#uebung059))
 :::

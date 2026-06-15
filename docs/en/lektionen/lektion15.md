@@ -68,7 +68,7 @@ Nom. pl. गुणवत्पुत्राः
 इष्टदेवता = इष्टा देवता = “the desired deity = the deity with whom one has a special relationship of devotion and refuge”
 
 ::: media
-![](/images/lekt1501.jpg)
+![](/images/lekt1501.webp)
 Fig.: लक्ष्मी
 (Image source: [Details](/en/licenses#lekt1501))
 :::
@@ -91,7 +91,7 @@ The following special rule applies to the order of members in a Karmadhāraya:
 :::
 
 ::: media
-![](/images/lekt1503.jpg)
+![](/images/lekt1503.webp)
 Fig.: नरसिंहः
 (Image source: [Details](/en/licenses#lekt1503))
 :::
@@ -264,7 +264,7 @@ ardha 3: half, m.n. half
 
 pūjā f.: honor, honorable reception, religious worship (Pūjā)
 ::: media
-![](/images/lekt1504.jpg)
+![](/images/lekt1504.webp)
 Fig.: pūjā
 (Image source: [Details](/en/licenses#lekt1504))
 :::
@@ -273,7 +273,7 @@ kula n.: herd, multitude, lineage, ancestry, family
 
 indra m.: prince, first, best among ; king of gods Indra
 ::: media
-![](/images/lekt1505.jpg)
+![](/images/lekt1505.webp)
 Fig.: indraḥ
 (Image source: [Details](/en/licenses#lekt1505))
 :::
@@ -302,14 +302,14 @@ stotra n.: (means of praise =) hymn of praise, hymn
 
 siṃha m.: lion (_Panthera leo persica_)
 ::: media
-![](/images/lekt1506.jpg)
+![](/images/lekt1506.webp)
 Fig.: siṃhaḥ
 (Image source: [Details](/en/licenses#lekt1506))
 :::
 
 vyāghra m.: tiger (_Panthera tigris tigris_) (literally: yawner)
 ::: media
-![](/images/lekt1507.jpg)
+![](/images/lekt1507.webp)
 Fig.: vyāghraḥ
 (Image source: [Details](/en/licenses#lekt1507))
 :::
@@ -531,7 +531,7 @@ Resolve the following *Tatpuruṣa* compounds, as in Exercise 1:
 ६०. द्विजातिशुश्रूषया
 
 ::: media
-![](/images/lekt1508.jpg)
+![](/images/lekt1508.webp)
 Fig.: ग्रामदेवता
 (Image source: [Details](/en/licenses#lekt1508))
 :::
@@ -595,7 +595,7 @@ B) Resolve the following Tatpuruṣa compounds:
 २६. श्रुत्युदितम्
 
 ::: media
-![](/images/lekt1509.jpg)
+![](/images/lekt1509.webp)
 Fig.: नागदेवाः
 (Image source: [Details](/en/licenses#lekt1509))
 :::

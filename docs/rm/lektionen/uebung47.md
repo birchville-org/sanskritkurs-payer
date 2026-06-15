@@ -152,7 +152,7 @@ Nus vulin esser guidads da ti.
 Che quai duess esser benedicziun! (Vesa da benedicziun)
 
 ::: media
-![](/images/uebung075.jpg)
+![](/images/uebung075.webp)
 Fig.: माद्यत
 (Sursa da l’imagines: [Detagls](/licenses#uebung075))
 :::

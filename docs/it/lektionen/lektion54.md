@@ -32,7 +32,7 @@ Esempio:
 ::::
 
 ::: media
-![](/images/lekt5402.jpg)
+![](/images/lekt5402.webp)
 Fig.: अयुयुत्सुरर्जुनः
 भगवद्गीतोपदेशः Tirupati = తిరుపతి
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5402))
@@ -281,7 +281,7 @@ Tradurre per iscritto le seguenti forme e formare le corrispondenti forme dell�
 23.  गम्यते
 
 ::: media
-![](/images/lekt5401.jpg)
+![](/images/lekt5401.webp)
 Fig.: त्रिचक्रेणेश्वरः स्तूयते
 Tamil Nadu
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt5401))

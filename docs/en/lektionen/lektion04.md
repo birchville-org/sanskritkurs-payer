@@ -119,6 +119,6 @@ NOTE: The answers you can give to such questions with your current Sanskrit know
 **B) Form questions for the following reading exercise according to the pattern etat kim (एतत्किम्) and answer the questions using the specified words and demonstrative pronouns, e.g. eṣa bālaḥ (एष बालः):**
 
 ::: media
-![](/images/lekt0401.jpg)
+![](/images/lekt0401.webp)
 (Image source: [Details](/en/licenses#lekt0401))
 :::

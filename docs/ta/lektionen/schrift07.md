@@ -2,7 +2,7 @@
 
 ## எழுத்துப் பயிற்சி 7
 
-![](/images/schrift012.jpg)
+![](/images/schrift012.webp)
 
 ஒலிவரிசைக்கு முன் r க்கான எடுத்துக்காட்டுகள்:
 
@@ -45,7 +45,7 @@
 
 எழுத்துமுறை:
 
-![](/images/schrift014.jpg)
+![](/images/schrift014.webp)
 
 ## பயிற்சி
 

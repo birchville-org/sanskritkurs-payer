@@ -4,13 +4,13 @@
 
 Sanskritum scriptum est et scribitur in plurimis scripturis. Hic synopsis parvam partem harum scripturarum praebet:
 
-![](/images/schrift001.jpg)  
+![](/images/schrift001.webp)  
 Fig.: Exemplaria scripturae Sanskriticae  
 \[Fons imaginis: Wikipedia, Licentia GNU FD\]
 
 Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
-![](/images/schrift002.jpg)
+![](/images/schrift002.webp)
 
 Unumquodque signum consonantis "a" sequens consonantem significat. Si consonans pura scribi debet (sine vocali subsequente), hoc per lineam subiectam obliquam indicari debet -- virāma = विराम --:
 

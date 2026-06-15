@@ -50,7 +50,7 @@ Ignoranța înseamnă a considera ceea ce este impermanent, impur, suferință �
 :::
 
 ::: media
-![](/images/uebung046.jpg)
+![](/images/uebung046.webp)
 Fig.: चतुर्वर्णाश्रमो लोको
 (Sursa imaginii: [Detalii](/licenses#uebung046))
 :::

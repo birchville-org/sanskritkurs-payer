@@ -97,7 +97,7 @@ Notă: În relațiile de conținut universal, se preferă adesea folosirea optat
 :::
 
 ::: media
-![](/images/lekt1809.jpg)
+![](/images/lekt1809.webp)
 Fig.: कामः
 Ilustrație pentru कामसूत्र
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1809))
@@ -127,7 +127,7 @@ de la **स्था** :
 :::
 
 ::: media
-![](/images/lekt1901.jpg)
+![](/images/lekt1901.webp)
 Fig.: गर्भगृहम्
 Badami (ಬದಾಮಿ)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1901))
@@ -157,7 +157,7 @@ din acesta:
 **छत्त्र n.:** umbrelă de soare, umbrelă
 
 ::: media
-![](/images/lekt1904.jpg)
+![](/images/lekt1904.webp)
 Fig.: छत्त्रम्
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), în costum tradițional, este o tradiție în părțile de sud ale Kerala. _Onappottan_ vizitează casele în timpul _onam_ și oferă binecuvântări. În ultimul timp, _onappottan_ a devenit o vedere rară, limitată la sate."
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1904))

@@ -223,7 +223,7 @@ proinde:
 धान्य n.: frumentum exculcatum
 
 ::: media
-![](/images/lekt2501.jpg)
+![](/images/lekt2501.webp)
 Abb.: धान्यम्
 (Fons imaginis: [Detalia](/la/licenses#lekt2501))
 :::
@@ -310,7 +310,7 @@ proinde:
 मूल n.: radix
 
 ::: media
-![](/images/lekt2502.jpg)
+![](/images/lekt2502.webp)
 Abb.: मूलानि
 (Fons imaginis: [Detalia](/la/licenses#lekt2502))
 :::
@@ -330,7 +330,7 @@ proinde:
 :::
 
 ::: media
-![](/images/lekt2503.jpg)
+![](/images/lekt2503.webp)
 Abb.: लिप्तिः
 (Fons imaginis: [Detalia](/la/licenses#lekt2503))
 :::
@@ -355,7 +355,7 @@ proinde:
 :::
 
 ::: media
-![](/images/lekt2504.jpg)
+![](/images/lekt2504.webp)
 Abb.: विवाहः
 (Fons imaginis: [Detalia](/la/licenses#lekt2504))
 :::
@@ -374,7 +374,7 @@ proinde:
 विष्टि f.: opera, servitus
 
 ::: media
-![](/images/lekt2505.jpg)
+![](/images/lekt2505.webp)
 Abb.: विष्टिः
 (Fons imaginis: [Detalia](/la/licenses#lekt2505))
 :::
@@ -402,7 +402,7 @@ ex eo:
 हिरण्य ३ : aureus ; n.: aurum, pecunia, divitiae
 
 ::: media
-![](/images/lekt2506.jpg)
+![](/images/lekt2506.webp)
 Fig.: हिरण्यम्
 (Fons imaginis: [Detalia](/la/licenses#lekt2506))
 :::
@@ -461,7 +461,7 @@ B) Versio et solutio compositorum in Sanscritico:
 लोकादधिको हरिः ॥१७॥ (हरi m. = विष्णु / कृष्ण)
 
 ::: media
-![](/images/lekt2507.jpg)
+![](/images/lekt2507.webp)
 Fig.: लोकादधिको हरिः
 :::
 

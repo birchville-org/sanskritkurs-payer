@@ -107,7 +107,7 @@ Ubi duo ex tribus ultimis praeceptis simul in quaestionem venire possunt, semper
 **kāma** m. = काम : Voluntas, cupiditas, donum desideratum, voluptas sensuum, amor; deus amoris Kāma.
 
 ::: media
-![](/images/lekt0501.jpg)
+![](/images/lekt0501.webp)
 Fig.: Deus Kāma = kāmadeva = कामदेव, saeculum XVIII.
 (Fons imaginis: Wikipedia, dominium publicum)
 :::

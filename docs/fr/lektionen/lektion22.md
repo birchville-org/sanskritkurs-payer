@@ -156,7 +156,7 @@ Racine se terminant par **-a** + **-tya**
 :::
 
 ::: media
-![](/images/lekt2202.jpg)
+![](/images/lekt2202.webp)
 Fig. : कामदेवः
 XIXe siècle
 (Source de l'image : [Détails](/fr/licenses#lekt2202))
@@ -174,7 +174,7 @@ dérivés :
 :::
 
 ::: media
-![](/images/lekt2203.jpg)
+![](/images/lekt2203.webp)
 Fig. : दुर्गाशक्तिः
 Kolkatta = কলকাতা
 (Source de l'image : [Détails](/fr/licenses#lekt2203))
@@ -204,7 +204,7 @@ dérivés :
 :::
 
 ::: media
-![](/images/lekt2201.jpg)
+![](/images/lekt2201.webp)
 Fig. : धेनवश्चरन्ति
 Goa = गोंय
 (Source de l'image : [Détails](/fr/licenses#lekt2201))
@@ -276,7 +276,7 @@ Goa = गोंय
 **C) Transformez les phrases ci-dessus (sauf les phrases 8 et 10) en constructions passives**
 
 ::: media
-![](/images/lekt2204.jpg)
+![](/images/lekt2204.webp)
 Fig. : अन्नं पक्त्वा
 (Source de l'image : [Détails](/fr/licenses#lekt2204))
 :::

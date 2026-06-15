@@ -20,9 +20,9 @@ Ricorda:
 
 Esempi (le eccezioni sono sottolineate):
 
-![](/images/schrift021.jpg)
+![](/images/schrift021.webp)
 
-![](/images/schrift022.jpg)
+![](/images/schrift022.webp)
 
 ### Esercizio
 
@@ -32,9 +32,9 @@ Scrivere tutte le legature sopra indicate
 
 ![](/images/schrift023.jpg)
 
-![](/images/schrift024.jpg)
+![](/images/schrift024.webp)
 
-![](/images/schrift025.jpg)
+![](/images/schrift025.webp)
 
 ### Esercizio
 

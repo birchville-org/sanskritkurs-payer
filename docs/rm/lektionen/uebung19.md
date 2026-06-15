@@ -59,7 +59,7 @@ Qui ha prosperitad, quel è en il mund in um,
 Qui perquai ha prosperitad, quel è in erudit.
 
 ::: media
-![](/images/uebung029.jpg)
+![](/images/uebung029.webp)
 Abb.: यस्यार्थास्तस्य मित्राणि
 (Sursa d’imagine: [Detagls](/licenses#uebung029))
 :::

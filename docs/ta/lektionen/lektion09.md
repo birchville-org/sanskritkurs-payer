@@ -100,7 +100,7 @@ last_reconstructed: 2026-05-07
 - **adhyayana** n. (अध्ययन) : கற்றல், குறிப்பாக வேதக் கற்றல்
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 ஒளிப்படம்: **adhyayana** = अध्ययन, ஸ்ரீ ஸ்கந்தகுரு வித்யாலயம், திருபரங்குன்றம், மதுரை அருகில்.
 (படம்: [விவரங்கள்](/ta/licenses#lekt0903))
 :::
@@ -108,7 +108,7 @@ last_reconstructed: 2026-05-07
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : கைவினைஞர்
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 ஒளிப்படம்: **kāru** = कारु, குஜராத்.
 (படம்: [விவரங்கள்](/ta/licenses#lekt0902))
 :::
@@ -143,7 +143,7 @@ last_reconstructed: 2026-05-07
 7\. **karṣaka** कर्षक
 
 ::: media
-![](/images/lekt0901.jpg)
+![](/images/lekt0901.webp)
 வரைபடம்: **karṣaka** = कर्षक.
 (படத்தின் மூலம்: [விவரங்கள்](/ta/licenses#lekt0901))
 :::

@@ -167,7 +167,7 @@ Ulteriuras infurmaziuns suandentan pli tard.
 * **dīpa m.** (दीप) : lampada
 
 ::: media
-![](/images/lekt1405.jpg)
+![](/images/lekt1405.webp)
 Fig.: दीपाः
 (Sursa da l'imagines: [Detagls](/rm/licenses#lekt1405))
 :::
@@ -255,7 +255,7 @@ Traducir los proverbios siguientes y memorizarlos:
 २५. पुत्रवती
 
 ::: media
-![](/images/lekt1404.jpg)
+![](/images/lekt1404.webp)
 Fig.: पुत्रवती
 (Sursa da l’imagine: [Detagls](/rm/licenses#lekt1404))
 :::
@@ -317,7 +317,7 @@ Fig.: पुत्रवती
 ५३. किम्
 
 ::: media
-![](/images/lekt1403.jpg)
+![](/images/lekt1403.webp)
 Fig.: अयं बालः कस्याः पुत्रः ।
 (Sursa da l’imagine: [Detagls](/rm/licenses#lekt1403))
 :::
@@ -351,7 +351,7 @@ Fig.: अयं बालः कस्याः पुत्रः ।
 १३. कस्यान्नमनेनर्षिणेष्टम् ।
 
 ::: media
-![](/images/lekt1402.jpg)
+![](/images/lekt1402.webp)
 Fig.: केषामिमानि गृहाणि ।
 (Sursa da l’imagine: [Detagls](/rm/licenses#lekt1402))
 :::

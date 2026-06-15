@@ -100,7 +100,7 @@ last_reconstructed: 2026-05-07
 - **adhyayana** n. (अध्ययन) : обучение, в особенности ведийские исследования
 
 ::: media
-![](/images/lekt0903.jpg)
+![](/images/lekt0903.webp)
 Рис.: **adhyayana** = अध्ययन, Шри Скандагуру Видьялам, Тирпаранкундрам близ Мадурая.
 (Источник изображения: [Подробности](/ru/licenses#lekt0903))
 :::
@@ -108,7 +108,7 @@ last_reconstructed: 2026-05-07
 - **kāru** m. / **kāruka** m. (कारु / कारुक) : ремесленник
 
 ::: media
-![](/images/lekt0902.jpg)
+![](/images/lekt0902.webp)
 Рис.: **kāru** = कारु, Гуджарат.
 (Источник изображения: [Подробности](/ru/licenses#lekt0902))
 :::
@@ -143,7 +143,7 @@ last_reconstructed: 2026-05-07
 7\. **karṣaka** कर्षक
 
 ::: media
-![](/images/lekt0901.jpg)
+![](/images/lekt0901.webp)
 Рис.: **karṣaka** = कर्षक.
 (Источник изображения: [Детали](/ru/licenses#lekt0901))
 :::

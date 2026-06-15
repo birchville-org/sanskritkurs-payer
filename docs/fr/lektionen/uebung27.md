@@ -67,7 +67,7 @@ Pendant que la brahmane arrive auprès du grand poète, son fils arrive égaleme
 Lorsque les enseignants enseignent, les enfants bien élevés ne doivent pas bavarder (parler).
 
 ::: media
-![](/images/uebung044.jpg)
+![](/images/uebung044.webp)
 Fig. : गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति
 (Source de l'image : [Détails](/fr/licenses#uebung044))
 :::

@@ -122,7 +122,7 @@ Note the identity of **यजन्ति** (Nom. pl. Neuter) with the 3rd pl. P
 :::
 
 ::: media
-![](/images/lekt2101.jpg)
+![](/images/lekt2101.webp)
 Fig.: सती-memorial plaque
 सती memorial plaque in the palace of Jodhpur - जोधपुर / Rajasthan - राजस्थान
 (Image source: [Details](/en/licenses#lekt2101))
@@ -194,7 +194,7 @@ Fig.: सती-memorial plaque
 ::::
 
 ::: media
-![](/images/lekt2102.jpg)
+![](/images/lekt2102.webp)
 Fig.: महादेवो विष्णुः
 "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
 (Image source: [Details](/en/licenses#lekt2102))
@@ -276,7 +276,7 @@ derived from:
 :::
 
 ::: media
-![](/images/lekt2103.jpg)
+![](/images/lekt2103.webp)
 Fig.: भगवान्कृष्णः
 भगवान्कृष्णः as जगन्नाथ (right) with his half-sister सुभद्रा (center) and his older brother बलराम, Orissa = ଓଡ଼ିଶा
 (Image source: [Details](/en/licenses#lekt2103))
@@ -287,7 +287,7 @@ Fig.: भगवान्कृष्णः
 :::
 
 ::: media
-![](/images/lekt2105.jpg)
+![](/images/lekt2105.webp)
 Fig.: भगवद्गीता
 भगवद्गीता - Manuscript, 19th century.
 (Image source: [Details](/en/licenses#lekt2105))
@@ -304,7 +304,7 @@ derived from:
 :::
 
 ::: media
-![](/images/lekt2104.jpg)
+![](/images/lekt2104.webp)
 Fig.: भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Image source: [Details](/en/licenses#lekt2104))

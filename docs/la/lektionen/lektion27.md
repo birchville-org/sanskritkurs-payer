@@ -32,7 +32,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt2701.jpg)
+![](/images/lekt2701.webp)
 Tab.: जयपुरनगरे
 Jaipur, 1875.
 (Fons imaginis: [Detalia](/la/licenses#lekt2701))
@@ -63,7 +63,7 @@ Jaipur, 1875.
 ::::
 
 ::: media
-![](/images/lekt2702.jpg)
+![](/images/lekt2702.webp)
 Tab.: एवं गच्छति कालयुष्ट्रः स्वपितi
 Rajasthan.
 (Fons imaginis: [Detalia](/la/licenses#lekt2702))
@@ -78,7 +78,7 @@ Rajasthan.
 ::::
 
 ::: media
-![](/images/lekt2703.jpg)
+![](/images/lekt2703.webp)
 Tab.: अस्ति तस्य पुत्रे स्नेहः
 Holi.
 (Fons imaginis: [Detalia](/la/licenses#lekt2703))
@@ -170,7 +170,7 @@ De usu casus locativi ulterius postea.
 ## 27.4. Versus cum omnibus casuum formis (Singularis) ad राम
 
 ::: media
-![](/images/lekt2708.jpg)
+![](/images/lekt2708.webp)
 Fig.: रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥
 Rāma-Satz.
 (Fons imaginis: [Detalia](/la/licenses#lekt2708))
@@ -219,7 +219,7 @@ unde:
 :::
 
 ::: media
-![](/images/lekt2706.jpg)
+![](/images/lekt2706.webp)
 Abb.: वस्त्राणि
 Vastrāṇi. Majuli, Assam.
 (Fons imaginis: [Detalia](/la/licenses#lekt2706))
@@ -234,7 +234,7 @@ Vastrāṇi. Majuli, Assam.
 :::
 
 ::: media
-![](/images/lekt2707.jpg)
+![](/images/lekt2707.webp)
 Abb.: वसन्तः
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Fons imaginis: [Detalia](/la/licenses#lekt2707))
@@ -259,14 +259,14 @@ Contrarium **हर**:
 **हरिहर** m.: Viṣṇu et Śiva uniti ut una deitas.
 
 ::: media
-![](/images/lekt2704.jpg)
+![](/images/lekt2704.webp)
 Abb.: हरिहरः
 Harihara (sinistra: Viṣṇu, dextra: Śiva).
 (Fons imaginis: [Detalia](/la/licenses#lekt2704))
 :::
 
 ::: media
-![](/images/lekt2705.jpg)
+![](/images/lekt2705.webp)
 Abb.: हरिहरः
 Harihara (sinistra: Viṣṇu, dextra: Śiva). Godrumdwip, Bengal Occidentalis.
 (Fons imaginis: [Detalia](/la/licenses#lekt2705))
@@ -287,7 +287,7 @@ Harihara (sinistra: Viṣṇu, dextra: Śiva). Godrumdwip, Bengal Occidentalis.
 वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥
 
 ::: media
-![](/images/lekt2709.jpg)
+![](/images/lekt2709.webp)
 Fig.: वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥
 Tabula picta a Rāja Ravi Varmā (1848 - 1906).
 (Fons imaginis: [Detalia](/la/licenses#lekt2709))
@@ -326,7 +326,7 @@ Tabula picta a Rāja Ravi Varmā (1848 - 1906).
 :::
 
 ::: media
-![](/images/lekt2711.jpg)
+![](/images/lekt2711.webp)
 Fig.: नराः
 Naran. Udaipur.
 (Fons imaginis: [Detalia](/la/licenses#lekt2711))
@@ -349,7 +349,7 @@ Naran. Udaipur.
 :::
 
 ::: media
-![](/images/lekt2710.jpg)
+![](/images/lekt2710.webp)
 Fig.: फलानि
 Fructus. Bangalorae.
 (Fons imaginis: [Detalia](/la/licenses#lekt2710))
@@ -372,7 +372,7 @@ Fructus. Bangalorae.
 :::
 
 ::: media
-![](/images/lekt2718.jpg)
+![](/images/lekt2718.webp)
 Fig.: क्षत्रिया
 Maharani Vani Vilasa Sannidhana (1866 - 1934) cum nepote suo Principe Jaya Chamaraja Wadiyar, Mysore.
 (Fons imaginis: [Detalia](/la/licenses#lekt2718))
@@ -395,7 +395,7 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) cum nepote suo Principe Jaya Chama
 :::
 
 ::: media
-![](/images/lekt2712.jpg)
+![](/images/lekt2712.webp)
 Tabula: अरयः
 Suspensio duorum rebellium anno 1857. Photographia Felice Beato (1833/1834 - circ. 1907).
 (Fons imaginis: [Detalia](/la/licenses#lekt2712))
@@ -434,7 +434,7 @@ Suspensio duorum rebellium anno 1857. Photographia Felice Beato (1833/1834 - cir
 :::
 
 ::: media
-![](/images/lekt2713.jpg)
+![](/images/lekt2713.webp)
 Fig.: गुरुः
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Fons imaginis: [Detalia](/la/licenses#lekt2713))
@@ -457,7 +457,7 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 :::
 
 ::: media
-![](/images/lekt2714.jpg)
+![](/images/lekt2714.webp)
 Fig.: धेनुः
 Vacca in Udaipur.
 (Fons imaginis: [Detalia](/la/licenses#lekt2714))
@@ -480,7 +480,7 @@ Vacca in Udaipur.
 :::
 
 ::: media
-![](/images/lekt2715.jpg)
+![](/images/lekt2715.webp)
 Fig.: त्रिदेवी
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Fons imaginis: [Detalia](/la/licenses#lekt2715))
@@ -503,7 +503,7 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 :::
 
 ::: media
-![](/images/lekt2716.jpg)
+![](/images/lekt2716.webp)
 Tabula: सद्गुरुः
 Sai Baba de Shirdi (1835 - 1918).
 (Fons imaginis: [Detalia](/la/licenses#lekt2716))
@@ -620,7 +620,7 @@ Sai Baba de Shirdi (1835 - 1918).
 :::
 
 ::: media
-![](/images/lekt2717.jpg)
+![](/images/lekt2717.webp)
 Tabula: कस्मात् ?
 Tsunami 2005, Sri Lanka.
 (Fons imaginis: [Detalia](/la/licenses#lekt2717))

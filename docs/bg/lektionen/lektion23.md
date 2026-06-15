@@ -235,7 +235,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥
 
 ::: media
-![](/images/lekt2303.jpg)
+![](/images/lekt2303.webp)
 Ил.: फलवन्ति पुण्यानीति
 ทำบุญ = पुण्यकरणम्, Тайланд = ประเทศไทย
 (Източник на изображението: [Подробности](/bg/licenses#lekt2303))
@@ -245,7 +245,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
 
 ::: media
-![](/images/lekt2301.jpg)
+![](/images/lekt2301.webp)
 Ил.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
 Чианг Май, Тайланд = เชียงใหม่, ประเทศไทย
 (Източник на изображението: [Подробности](/bg/licenses#lekt2301))
@@ -270,7 +270,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 Обяснение: हीन ३: PPP към हा 3: напусна ; धर्मे = локалитет ед. ч. "в ..."
 
 ::: media
-![](/images/lekt2302.jpg)
+![](/images/lekt2302.webp)
 Ил.: आहारनिद्राभयमैथुनं च
 Читургар = चित्तौडगढ
 (Източник на изображението: [Подробности](/bg/licenses#lekt2302))

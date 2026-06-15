@@ -56,7 +56,7 @@ A) Ad repetitionem declinationis: Versus sequens omnes formas declinativas in si
 > Familia, in qua coniux coniugi semper placet et coniux coniugi, in tali familia semper felicitas certa est.
 
 ::: media
-![](/images/uebung081.jpg)
+![](/images/uebung081.webp)
 Fig.: संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च । यस्मिन्नेव कुले नित्यम् कल्याणं तत्र वै ध्रुवम् ॥
 (Fons imaginis: [Detalia](/licenses#uebung081))
 :::
@@ -78,7 +78,7 @@ Fig.: संतुष्टो भार्यया भर्ता भर्�
 > Semper in studium Vedicum et ritus pro diis se implicet. Qui enim in ritus pro diis se implicat, hanc mundum ex animatis et inanimatis obtinet. Sacrificium, quod recto modo in ignem iactum est, ad solem vadit, ex sole pluvia oritur, ex pluvia cibus, ex eo creaturae.
 
 ::: media
-![](/images/uebung082.jpg)
+![](/images/uebung082.webp)
 Fig.: दैवे कर्मणि युक्तो हि बिभर्तीदं चराचरम् ॥
 (Fons imaginis: [Detalia](/licenses#uebung082))
 :::

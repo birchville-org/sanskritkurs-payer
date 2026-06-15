@@ -85,7 +85,7 @@ Ex ira oritur caecitas, ex caecitate memoriae perturbatio; ex amissione memoriae
 Incontinenti (non yogī) nulla est prudentia.
 
 ::: media
-![](/images/uebung080.jpg)
+![](/images/uebung080.webp)
 Fig.: सक्तः
 (Fons imaginis: [Detalia](/licenses#uebung080))
 :::

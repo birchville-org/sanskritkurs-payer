@@ -103,7 +103,7 @@ status: stable
 ::::
 
 ::: media
-![](/images/lekt4501.jpg)
+![](/images/lekt4501.webp)
 अभिव्यक्ति: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4501))
 :::

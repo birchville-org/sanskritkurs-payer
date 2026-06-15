@@ -2,7 +2,7 @@
 
 ਸ਼ਬਦ ਦੀ ਸ਼ੁਰੂਆਤ ਲਈ ਸਵਰ ਚਿੰਨ੍ਹ, ਜੇਕਰ ਸ਼ਬਦ ਪਿਛਲੇ ਸ਼ਬਦ ਨਾਲ ਲਿਖਤ ਵਿੱਚ ਜੁੜਿਆ ਨਾ ਹੋਵੇ:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 ਵਾਕ ਦੇ ਸੰਧਿ ਨਿਯਮਾਂ ਅਨੁਸਾਰ ਜੋੜਿਆ ਜਾਣ ਵਾਲਾ ਸ਼ੁਰੂਆਤੀ -a ( -as + a- » -o ' ) ਨੂੰ ਅਵਗ੍ਰਹ ਕਿਹਾ ਜਾਂਦਾ ਹੈ:
 

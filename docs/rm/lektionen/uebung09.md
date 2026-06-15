@@ -106,7 +106,7 @@ Obidientscha vers ils naschids duas giadas, activitads per il sustegn, activitad
 Economia è agricultura, allevament da bestgiami e commerzi.
 
 ::: media
-![](/images/uebung013.jpg)
+![](/images/uebung013.webp)
 Abb.: रक्षणं सर्वभूतानाम्
 (fonte da l'imaginescha: [detagls](/licenses#uebung013))
 :::

@@ -17,7 +17,7 @@ Cultul lui Gaṇeśa
 :::
 
 ::: media
-![](/images/lekt0102.jpg)
+![](/images/lekt0102.webp)
 Ilustr.: Gaṇeśa, Adamspeak, Sri Lanka
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0102))
 :::
@@ -48,7 +48,7 @@ maṅgalacaraṇam
 :::
 
 ::: media
-![](/images/lekt0101.jpg)
+![](/images/lekt0101.webp)
 Ilustr.: Ardhanarīśvara
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0101))
 :::
@@ -87,7 +87,7 @@ La început, un curiosum:
 ## 1.1. Literatur pentru începători în studii indiene
 
 ::: media
-![](/images/lekt0103.jpg)
+![](/images/lekt0103.webp)
 Fig.: Coperta unei ediții de buzunar
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0103))
 :::
@@ -95,7 +95,7 @@ Fig.: Coperta unei ediții de buzunar
 > **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Partea: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- De atunci, multe ediții, inclusiv ediții de buzunar. -- **Citate obligatorii.** O bună prezentare generală a vieții, istoriei și culturii din India preislamică. Prezentare generală a diverselor domenii ale indologiei clasice.
 
 ::: media
-![](/images/lekt0104.jpg)
+![](/images/lekt0104.webp)
 Fig.: Pagina de titlu
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0104))
 :::
@@ -105,7 +105,7 @@ Fig.: Pagina de titlu
 > **Kielhorn**, Franz &lt;1840-1908&gt;: Grammatik der Sanskrit-Sprache / Tradus din engleză de W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Titlu original: A grammar of the Sanscrit language
 
 ::: media
-![](/images/lekt0105.jpg)
+![](/images/lekt0105.webp)
 Fig.: Coperta
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0105))
 :::
@@ -141,7 +141,7 @@ Pentru cei curioși, pentru consultare:
 Sunetele sanscrite conform clasificării tradiționale indiene și transcrierea lor științifică.
 
 ::: media
-![](/images/lekt0106.jpg)
+![](/images/lekt0106.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0106))
 :::
 

@@ -2,7 +2,7 @@
 
 Segni vocalici per l'inizio della parola, qualora la parola non sia scritta in combinazione con una parola precedente:
 
-![](/images/schrift015.jpg)
+![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
@@ -62,7 +62,7 @@ Nel tipo di carattere utilizzato in questo script:
 
 Beachten Sie die Schreibung von jña:
 
-![](/images/schrift017.jpg)
+![](/images/schrift017.webp)
 
 La -a iniziale, che secondo le regole del Sandhi di frase viene elisa (-as + a- » -o ' ), viene indicata dal cosiddetto Avagraha:
 

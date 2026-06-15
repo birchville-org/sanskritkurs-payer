@@ -410,23 +410,23 @@ Ad राहु et केतु vide:
 
 > **Payer, Alois &lt;1944 - &gt;: Dharmashastra : Introductio et conspectus. -- 10. Sacramenta et ritus transitionis (samskara). -- Appendiculus C: Rahu et Ketu, planetae errantes invisibiles . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)**
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 Fig.: [सूर्यः, चन्द्रः, मङ्गलः](/la/licenses#lekt4602)
 (Fons imaginis: [Detalia](/la/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 Fig.: [बुधः, बृहस्पतिः](/la/licenses#lekt4603)
 (Fons imaginis: [Detalia](/la/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 Fig.: [शुक्रः, शनिः](/la/licenses#lekt4604)
 (Fons imaginis: [Detalia](/la/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 Fig.: [राहुः, केतुः](/la/licenses#lekt4605)
 (Fons imaginis: [Detalia](/la/licenses#lekt4605))
 :::
@@ -455,7 +455,7 @@ Inf. नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 Fig.: [नारायण तुभ्यं नमामि](/la/licenses#lekt4607)
 (Fons imaginis: [Detalia](/la/licenses#lekt4607))
 :::
@@ -473,7 +473,7 @@ Inf. रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 Fig.: [अश्वरोहकः](/la/licenses#lekt4606)
 (Fons imaginis: [Detalia](/la/licenses#lekt4606))
 :::
@@ -492,7 +492,7 @@ Absol. -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 Fig.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/la/licenses#lekt4608)
 (Fons imaginis: [Detalia](/la/licenses#lekt4608))
 :::
@@ -521,7 +521,7 @@ ex quo:
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 Fig.: [श्रान्तः](/la/licenses#lekt4609)
 (Fons imaginis: [Detalia](/la/licenses#lekt4609))
 :::
@@ -552,7 +552,7 @@ unde:
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 Fig.: [सङ्गः](/la/licenses#lekt4610)
 (Fons imaginis: [Detalia](/la/licenses#lekt4610))
 :::
@@ -620,7 +620,7 @@ e.g.
 भोस् Particula vocativa: exclamatio vocandi, e.g.: he, heda, oh, ei, salve, hi! saepe non traducendum. Huius particulae est specialis Sandhi: ante omnes sonoras litteras, fit ***भो***.
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 Fig.: [भोः](/la/licenses#lekt4611)
 (Fons imaginis: [Detalia](/la/licenses#lekt4611))
 :::
@@ -696,7 +696,7 @@ B) Vert:
 नास्ति बुद्धिरयुक्तस्य ॥३॥
 
 ::: media
-![](/images/lekt4612.jpg)
+![](/images/lekt4612.webp)
 Fig.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/la/licenses#lekt4612)
 (Fons imaginis: [Detalia](/la/licenses#lekt4612))
 :::

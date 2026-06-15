@@ -210,7 +210,7 @@ Exempla:
 **शस्य = सस्य n. sg. u. pl.:** semen, fructus agri, frumentum
 
 ::: media
-![](/images/lekt3406.jpg)
+![](/images/lekt3406.webp)
 Fig.: सस्यम्
 Rice field in India.
 (Fons imaginis: [Detalia](/la/licenses#lekt3406))
@@ -225,7 +225,7 @@ Rice field in India.
 **द्वीप m.n.:** insula, continens
 
 ::: media
-![](/images/lekt3405.jpg)
+![](/images/lekt3405.webp)
 Fig.: लक्षद्वीपाः
 Lakshadweep Islands Map.
 (Fons imaginis: [Detalia](/la/licenses#lekt3405))
@@ -236,14 +236,14 @@ Lakshadweep Islands Map.
 **तिल m.:** sesamum (Sesamum indicum L.)
 
 ::: media
-![](/images/lekt3403.jpg)
+![](/images/lekt3403.webp)
 Fig.: तिलाः
 Sesame seeds.
 (Fons imaginis: [Detalia](/la/licenses/lekt3403))
 :::
 
 ::: media
-![](/images/lekt3404.jpg)
+![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Sesame plant flowering.
 (Fons imaginis: [Detalia](/la/licenses/lekt3404))
@@ -252,7 +252,7 @@ Sesame plant flowering.
 **स्वर्ण n.:** (pulchro colore =) aurum
 
 ::: media
-![](/images/lekt3402.jpg)
+![](/images/lekt3402.webp)
 Fig.: स्वर्णम्
 Golden Temple (Harmandir Sahib), Amritsar.
 (Fons imaginis: [Detalia](/la/licenses/lekt3402))
@@ -269,7 +269,7 @@ Golden Temple (Harmandir Sahib), Amritsar.
 **ऋषभ m.:** taurus
 
 ::: media
-![](/images/lekt3401.jpg)
+![](/images/lekt3401.webp)
 Fig.: ऋषभः
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Fons imaginis: [Detalia](/la/licenses/lekt3401))
@@ -349,7 +349,7 @@ Explanationes:
 :::
 
 ::: media
-![](/images/lekt3407.jpg)
+![](/images/lekt3407.webp)
 Fig.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
 Ritus nuptialis Hindu.
 (Fons imaginis: [Detalia](/la/licenses#lekt3407))

@@ -49,7 +49,7 @@ Résultat : रामो वेदमधीते « Rāma étudie le Veda »
 Résultat : देवा अमृतमश्नन्ति « Les dieux mangent la nourriture d'immortalité »
 
 ::: media
-![](/images/lekt2802.jpg)
+![](/images/lekt2802.webp)
 Fig. : स नरान्प्रबन्धविज्ञानमध्यापयति
 Temple ISKCON Bangalore.
 (Source de l'image : [Détails](/fr/licenses#lekt2801))
@@ -83,7 +83,7 @@ Qui plaça la terre dans l'eau.
 :::
 
 ::: media
-![](/images/lekt2801.jpg)
+![](/images/lekt2801.webp)
 Fig. : स मे श्रीहरिगतिः
 Bâtiment de gestion de l'Université Jadavpur.
 (Source de l'image : [Détails](/fr/licenses#lekt2802))
@@ -384,7 +384,7 @@ Inf. **kāmayitum** / **kamitum**
 :::
 
 ::: media
-![](/images/lekt2804.jpg)
+![](/images/lekt2804.webp)
 Fig. : कृष्णो राधां कामयति
 Peinture de राजा रवि वर्मा (1848 - 1906)
 (Source de l'image : [Détails](/fr/licenses#lekt2804))
@@ -408,7 +408,7 @@ Inf. **coritum**
 :::
 
 ::: media
-![](/images/lekt2803.jpg)
+![](/images/lekt2803.webp)
 Fig. : वीणां वादयति
 Vīṇā-Spielerin.
 (Source de l'image : [Détails](/fr/licenses#lekt2803))
@@ -417,7 +417,7 @@ Vīṇā-Spielerin.
 **भार** m. : charge
 
 ::: media
-![](/images/lekt2805.jpg)
+![](/images/lekt2805.webp)
 Fig. : बाला भारं हरति
 Fille portant une charge. Près d’Ahmedabad.
 (Source de l'image : [Détails](/fr/licenses#lekt2805))

@@ -410,23 +410,23 @@ Zu राहु und केतु siehe:
 
 > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
-![](/images/lekt4602.jpg)
+![](/images/lekt4602.webp)
 Abb.: [सूर्यः, चन्द्रः, मङ्गलः](/licenses#lekt4602)
 (Bildquelle: [Details](/licenses#lekt4602))
 :::
 ::: media
-![](/images/lekt4603.jpg)
+![](/images/lekt4603.webp)
 Abb.: [बुधः, बृहस्पतिः](/licenses#lekt4603)
 (Bildquelle: [Details](/licenses#lekt4603))
 :::
 
 ::: media
-![](/images/lekt4604.jpg)
+![](/images/lekt4604.webp)
 Abb.: [शुक्रः, शनिः](/licenses#lekt4604)
 (Bildquelle: [Details](/licenses#lekt4604))
 :::
 ::: media
-![](/images/lekt4605.jpg)
+![](/images/lekt4605.webp)
 Abb.: [राहुः, केतुः](/licenses#lekt4605)
 (Bildquelle: [Details](/licenses#lekt4605))
 :::
@@ -455,7 +455,7 @@ Inf. नन्तुम्
 
 :::
 ::: media
-![](/images/lekt4607.jpg)
+![](/images/lekt4607.webp)
 Abb.: [नारायण तुभ्यं नमामि](/licenses#lekt4607)
 (Bildquelle: [Details](/licenses#lekt4607))
 :::
@@ -473,7 +473,7 @@ Inf. रोढुम्
 
 :::
 ::: media
-![](/images/lekt4606.jpg)
+![](/images/lekt4606.webp)
 Abb.: [अश्वरोहकः](/licenses#lekt4606)
 (Bildquelle: [Details](/licenses#lekt4606))
 :::
@@ -492,7 +492,7 @@ Absol. -हूय
 
 :::
 ::: media
-![](/images/lekt4608.jpg)
+![](/images/lekt4608.webp)
 Abb.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/licenses#lekt4608)
 (Bildquelle: [Details](/licenses#lekt4608))
 :::
@@ -521,7 +521,7 @@ davon:
 
 :::
 ::: media
-![](/images/lekt4609.jpg)
+![](/images/lekt4609.webp)
 Abb.: [श्रान्तः](/licenses#lekt4609)
 (Bildquelle: [Details](/licenses#lekt4609))
 :::
@@ -552,7 +552,7 @@ davon:
 
 :::
 ::: media
-![](/images/lekt4610.jpg)
+![](/images/lekt4610.webp)
 Abb.: [सङ्गः](/licenses#lekt4610)
 (Bildquelle: [Details](/licenses#lekt4610))
 :::
@@ -620,7 +620,7 @@ z.B.
 भोस् Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er ***भो***.
 
 ::: media
-![](/images/lekt4611.jpg)
+![](/images/lekt4611.webp)
 Abb.: [भोः](/licenses#lekt4611)
 (Bildquelle: [Details](/licenses#lekt4611))
 :::
@@ -696,7 +696,7 @@ B) Übersetzen Sie:
 नास्ति बुद्धिरयुक्तस्य ॥३॥
 
 ::: media
-![](/images/lekt4612.jpg)
+![](/images/lekt4612.webp)
 Abb.: [क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥](/licenses#lekt4612)
 (Bildquelle: [Details](/licenses#lekt4612))
 :::

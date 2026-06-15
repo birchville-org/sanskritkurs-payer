@@ -2,7 +2,7 @@
 
 ## Scripziun da scrit 4
 
-![](/images/schrift006.jpg)
+![](/images/schrift006.webp)
 
 Anusvāra ṃ: punct sur la lettra. che precedescha il sun: कं कां किं कीं कुं कूं कें कैं कों कौं
 

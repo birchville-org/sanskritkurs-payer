@@ -47,7 +47,7 @@ Un due volte nato è un uomo che è stato iniziato dal maestro nel Veda.
 Chi ha vinto la collera non odia un nemico, anche se questi lo uccide. Chi invece è vinto dalla collera, odia.
 
 ::: media
-![](/images/uebung033.jpg)
+![](/images/uebung033.webp)
 Fig.: हतान्धकारा दीपाः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung033))
 :::

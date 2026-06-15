@@ -22,7 +22,7 @@ B) Lesen und transliterieren Sie:
 
 ### Klassifikation der Laute des Sanskrit (aus: Kielhorn: Grammatik der Sanskritsprache)
 
-![](/images/schrift028.jpg)
+![](/images/schrift028.webp)
 
 ### Ende der Schriftübungen
 

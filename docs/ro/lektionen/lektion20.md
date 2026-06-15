@@ -12,7 +12,7 @@ status: stable
 ## 20.1. Compuse posesive = बहुव्रीहि m.
 
 ::: media
-![](/images/lekt2004.jpg)
+![](/images/lekt2004.webp)
 Fig.: बहुव्रीहिः पुरुषः
 Jodhpur = जोधपुर
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2004))
@@ -159,7 +159,7 @@ Tradițional, se face distincția între:
 ::::
 
 ::: media
-![](/images/lekt2005.jpg)
+![](/images/lekt2005.webp)
 Fig.: देवा यीश्वादयः
 Isus și ceilalți zei, Ahmedabad
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2005))
@@ -190,7 +190,7 @@ Exemplu:
 ::::
 
 ::: media
-![](/images/lekt2001.jpg)
+![](/images/lekt2001.webp)
 Fig.: इन्द्रो वज्रपाणिः
 Siemreap (ក្រុងសៀមរាប), Cambodgia, sec. al IX-lea d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2001))
@@ -221,7 +221,7 @@ Exemple:
 ::::
 
 ::: media
-![](/images/lekt2006.jpg)
+![](/images/lekt2006.webp)
 Fig.: सपुत्रा
 Madhya Pradesh
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2006))
@@ -260,7 +260,7 @@ Exemplele sunt date aici pentru studiere ulterioară, pentru unele gramatica nec
 13.  și altele
 
 ::: media
-![](/images/lekt2007.jpg)
+![](/images/lekt2007.webp)
 Fig.: कृतकटा
 Chennai = சென்னை
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2007))
@@ -290,7 +290,7 @@ Acest lucru poate fi adevărat. Cu toate acestea, indienii consideră atunci mul
 आश्रम m., n.: ascet, stadiu al vieții, etapă de viață (anume ca ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ și eventual ca सन्न्यासिन् ; vezi Basham, Minuni p. 159f.)
 
 ::: media
-![](/images/lekt2008.jpg)
+![](/images/lekt2008.webp)
 Fig.: आश्रमः
 Rishikesh = ऋषिकेश. "Aceasta este de fapt o parte din Ashramul din Rishikesh unde au stat Beatles. Această parte specifică nu exista când erau ei acolo, dar arată foarte bine."
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2008))
@@ -523,7 +523,7 @@ Explicație: तपस् n. (declinare mai târziu): cărbune încins, căldur�
 :::
 
 ::: media
-![](/images/lekt2010.jpg)
+![](/images/lekt2010.webp)
 Ilustr.: तपस्
 Buddha ca ascet înainte de iluminarea sa eliberatoare, Gandhara, sec. 2./3. d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2010))
@@ -565,7 +565,7 @@ Explicație: -da la finalul unui compus: "dând"
 :::
 
 ::: media
-![](/images/lekt2009.jpg)
+![](/images/lekt2009.webp)
 Ilustr.: लोकानां करदा मही
 Karnataka
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2009))
@@ -595,7 +595,7 @@ Explicație: toate formele, cu excepția कं și स्त्रीणाम�
 :::
 
 ::: media
-![](/images/lekt2003.jpg)
+![](/images/lekt2003.webp)
 Ilustr.: तनुमध्यं पृथुश्रोणि
 Sanchi = सांची
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2003))

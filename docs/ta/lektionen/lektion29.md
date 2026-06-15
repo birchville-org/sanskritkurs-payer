@@ -73,7 +73,7 @@ Inf. ग्रसितुम्
 परिव्राजक m.: சுற்றி அலைபவர், சுற்றி அலையும் சந்நியாசி, தீர்த்த யாத்திரிகர்
 
 ::: media
-![](/images/lekt2903.jpg)
+![](/images/lekt2903.webp)
 Abb.: परिव्राजकाः
 Pushkar = पुष्कर
 (Bildquelle: [Details](/ta/licenses#lekt2903))
@@ -93,7 +93,7 @@ Pushkar = पुष्कर
 :::
 
 ::: media
-![](/images/lekt2901.jpg)
+![](/images/lekt2901.webp)
 Abb.: मत्स्यः
 रोहू मछली = Labeo rohita Hamilton
 (Bildquelle: [Details](/ta/licenses#lekt2901))

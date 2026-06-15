@@ -153,7 +153,7 @@ Per liberar els dal mal, fa Buddha la gent nobla reconuscher las noblas veritads
 (Basis: **आर्यजना आर्यसत्यानि बुध्यन्ते ।**)
 
 ::: media
-![](/images/uebung045.jpg)
+![](/images/uebung045.webp)
 Abb.: गर्भगृहे देवीप्रतिमा दर्श्यते
 (Sursa d’imaginescha: [Detagls](/licenses#uebung045))
 :::

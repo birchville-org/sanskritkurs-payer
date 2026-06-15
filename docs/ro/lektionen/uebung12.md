@@ -100,7 +100,7 @@ C) Transformați propozițiile din [Lecția 10](lektion10.md), Exercițiul C, la
 कैर्योधैः क्षत्रियैः सह युद्धम् ।
 
 ::: media
-![](/images/uebung020.jpg)
+![](/images/uebung020.webp)
 Fig.: ब्राह्मणो ऽग्निं करोति
 (Sursa imaginii: [Detalii](/licenses#uebung020))
 :::

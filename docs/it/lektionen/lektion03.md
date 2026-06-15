@@ -96,7 +96,7 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī è una dea" = देवी�
 > (Indrāṇī è la consorte del dio Indra.)
 
 ::: media
-![](/images/lekt0301.jpg)
+![](/images/lekt0301.webp)
 Fig.: Indra e Indrāṇī sull'elefante Airavata, miniatura, Rājasthān, 1670/80
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0301))
 :::
@@ -194,7 +194,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "I Vaiśya sono i due volte nati" = 
 **devī** f. = देवी : Dea, in particolare Durgā f. = दुर्गा, la consorte di Śiva = शिव.
 
 ::: media
-![](/images/lekt0303.jpg)
+![](/images/lekt0303.webp)
 Fig.: Durgā = दुर्गा, Orissa
 (Fonte dell'immagine: [Dettagli](/images/lekt0303))
 :::

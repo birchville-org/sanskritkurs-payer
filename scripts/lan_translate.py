@@ -7,7 +7,7 @@ import re
 
 # Configuration
 API_URL = "http://nyx.local:8000/v1/chat/completions"
-MODEL = "mlx-community/Qwen3.6-35B-A3B-4bit"
+MODEL = "Qwen3.6-35B-A3B-UD-Q4_K_M.gguf"
 LANGUAGES = [
 #    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm",
 #    "ar", "arc", "he", "zh", "la", "grc", "el", "fa", "akk", "cop",

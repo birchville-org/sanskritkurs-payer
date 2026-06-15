@@ -121,7 +121,7 @@ Ce mănâncă și beau brahmanii?
 ब्राह्मणैः किं पीतं खादितं च ॥
 
 ::: media
-![](/images/uebung019.jpg)
+![](/images/uebung019.webp)
 Fig.: अग्निर्गृहं दहति ।
 (Sursa imaginii: [Detalii](/licenses#uebung019))
 :::
@@ -270,7 +270,7 @@ E) Translateți în sanscrită:
 यजकैः सोमः सुतः ॥
 
 ::: media
-![](/images/uebung018.jpg)
+![](/images/uebung018.webp)
 Fig.: बाला जलं पिबति । बालया जलं पीयते ।
 (Sursa imaginii: [Detalii](/licenses#uebung018))
 :::

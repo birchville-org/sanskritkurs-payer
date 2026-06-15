@@ -271,7 +271,7 @@ Exemple:
 sam-kṛ + -a = संस्कार m.: inițiere, preparare; Ritualuri de tranziție = denumire pentru ceremoniile care însoțesc diferitele etape ale vieții, de la concepție până la moarte (a se vedea rezumatul excelent de Basham, Wonder pp. 160 - 170!)
 
 ::: media
-![](/images/lekt1804.jpg)
+![](/images/lekt1804.webp)
 Fig.: विवाहः
 Nuntă = विवाह m., un important संस्कारः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1804))
@@ -286,7 +286,7 @@ upa-nī + -ana = उपनयन n.: aducerea (la focul de jertfă) = ceremonie 
 Prin Upanayana are loc a doua naștere, de aceea: द्विज । द्विजाति
 
 ::: media
-![](/images/lekt1801.jpg)
+![](/images/lekt1801.webp)
 Fig.: उपनयनम्
 „Se vede un tânăr băiat în timpul ritualului upanayana. Firul galben, subțire, care trece de la umărul stâng la talie este Yagnopaivta. De asemenea, se observă brățara de iarbă munja de la talie. Crenguța din mâna dreaptă (de obicei din copacul peepa) semnifică intrarea sa în Brahmacharya.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1801))
@@ -421,7 +421,7 @@ A) Rezolvați următoarele compuse în sanscrită și oferiți propuneri de trad
 ९. कुलोपदेश m.
 
 ::: media
-![](/images/lekt1802.jpg)
+![](/images/lekt1802.webp)
 Fig.: मृतिसाधनी काली
 1770 Imprimat
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1802))
@@ -442,7 +442,7 @@ B) Traduceți folosind verbe din clasa a II-a de prezent:
 6\. Așa vorbește cel care [a parcurs bine calea renașterilor] către ucenic.
 
 ::: media
-![](/images/lekt1803.jpg)
+![](/images/lekt1803.webp)
 Fig.: सुगतः
 गन्धार Sec. I/II d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1803))

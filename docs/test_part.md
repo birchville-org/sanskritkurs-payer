@@ -16,7 +16,7 @@ Der Lokativ (सप्तमी) steht auf die Fragen:
 
 &gt; नगरे = "in der Stadt"
 
-![](/images/lekt2701.jpg)  
+![](/images/lekt2701.webp)  
 Abb.: जयपुरनगरे, 1875  
 \[Bildquelle: Wikipedia. Public domain\]
 
@@ -40,7 +40,7 @@ Der Locativus absolutus muss je nach Zusammenhang übersetzt werden mit "währen
 
 Merke: beim Absolutivum muss Agens des Absolutivums und Agens der Hauptvers identisch sein, beim Locativus absolutus müssen der Agens des Locativus absolutus und der Agens des Hauptverbs verschieden sein.
 
-![](/images/lekt2702.jpg)  
+![](/images/lekt2702.webp)  
 Abb.: एवं गच्छति कालयुष्ट्रः स्वपिति (उष्ट्र = Kamel)  
 Rajasthan  
 \[Bildquelle: fbloeink. -- [http://www.flickr.com/photos/20609504@N00/501184601/](http://www.flickr.com/photos/20609504@N00/501184601/). -- Zugriff am 2008-12-18. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]  

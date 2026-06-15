@@ -70,7 +70,7 @@ Irregulär: स्त्री f. "Femna"
 :::
 
 ::: media
-![](/images/lekt6102.jpg)
+![](/images/lekt6102.webp)
 Abb.: स्त्रियः
 (Bildquelle: [Detagl](/rm/licenses#lekt6102))
 :::
@@ -157,7 +157,7 @@ Paradigma:
 | **सप्तमी** | खलप्वि | ^^ | खलपूषु |
 
 ::: media
-![](/images/lekt6106.jpg)
+![](/images/lekt6106.webp)
 Fig.: रथ्याप्वः
 काशीपुर
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt6106))
@@ -185,7 +185,7 @@ Paradigma:
 | **आमन्त्रितम्** | वधु | वध्वौ | वध्वस् |
 
 ::: media
-![](/images/lekt6107.jpg)
+![](/images/lekt6107.webp)
 Fig.: वध्वौ
 जोधपुर
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt6107))
@@ -264,7 +264,7 @@ Paradigma:
 :::
 
 ::: media
-![](/images/lekt6104.jpg)
+![](/images/lekt6104.webp)
 Abb.: सर्पो वव्रज्यते ॥
 Karnataka = ಕರ್ನಾಟಕ
 (Fontana d'imagines: [Detagls](/rm/licenses#lekt6104))
@@ -465,13 +465,13 @@ Attenziun al sens da:
 | नमस् n. "Veneraziun" | नमस्यति "el venerescha" |
 
 ::: media
-![](/images/lekt6105.jpg)
+![](/images/lekt6105.webp)
 Abb.: किं तपस्यति न वा ?
 हरिद्वार
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt6105))
 :::
 ::: media
-![](/images/lekt6103.jpg)
+![](/images/lekt6103.webp)
 Abb.: बालौ शिवं नमस्यतः ॥
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt6103))
 :::
@@ -491,7 +491,7 @@ Exemplas:
 | यशस् n. "fama" | यशस्काम्यति "el sa chascha fama" |
 
 ::: media
-![](/images/lekt6109.jpg)
+![](/images/lekt6109.webp)
 Abb.: यशस्काम्यन्ति
 मुंबई
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt6109))
@@ -516,7 +516,7 @@ Exemples:
 :::
 
 ::: media
-![](/images/lekt6110.jpg)
+![](/images/lekt6110.webp)
 Abb.: कस्तत्र न मधुस्यति ?
 Karli
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt6110))
@@ -566,7 +566,7 @@ Exempels:
 | मुण्ड 3 "rasà" | मुण्डयति "el rasa" |
 
 ::: media
-![](/images/lekt6113.jpg)
+![](/images/lekt6113.webp)
 Fig.: भिक्षुर्मुण्डयते ।
 Tailandia - เมืองไทย
 (Fonte da l'imaginescha: [Detagls](/rm/licenses#lekt6113))
@@ -634,7 +634,7 @@ Paradigma:
 :::
 
 ::: media
-![](/images/lekt6114.jpg)
+![](/images/lekt6114.webp)
 Abb.: नववर्षं शुभं भूयात् ॥
 Santa Cruz Basilica, Kochi = കൊച്ചി
 (Fonte da l'imagines: [Detagls](/rm/licenses#lekt6114))
@@ -686,11 +686,11 @@ Paradigma:
 Paradigmas: Kielhorn, Grammatik § 153:
 
 ::: media
-![](/images/lekt6115.jpg)
+![](/images/lekt6115.webp)
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt6115))
 :::
 ::: media
-![](/images/lekt6118.jpg)
+![](/images/lekt6118.webp)
 Fig.: हरिद्वारे गावः ॥
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt6118))
 :::
@@ -706,7 +706,7 @@ Kielhorn, Grammatika § 177:
 (Fontana da l’imagine: [Detagls](/rm/licenses#lekt6116))
 :::
 ::: media
-![](/images/lekt6117.jpg)
+![](/images/lekt6117.webp)
 Fig.: आवां स्वसारौ ॥
 Populaziun Apatani, Arunachal Pradesh
 (Fontana da l’imagine: [Detagls](/rm/licenses#lekt6117))
@@ -759,7 +759,7 @@ Feminin (स्त्री)
 Su il termin dal curs da sanscrit cumenza mo il ver «nadar» en l’ocean da la litteratura sanscrita. Visto che quest ocean è plin d’ostaculs, è adäginà da cumenzar questa nova fasa da vita cun in’invocaziun a Gaṇeśa:
 
 ::: media
-![](/images/lekt6101.jpg)
+![](/images/lekt6101.webp)
 Abb.: श्रीगणनाथः
 Halebidu (ಹಳೆಬೀಡು), 12./13. tschientaner p. Cr.
 (font da l’imagines: [Detagls](/rm/licenses#lekt6101))
@@ -786,7 +786,7 @@ Rāga: Malahari (a मायामाळवगौळ = Māyāmālavagauḷa = �
 Tāla: Rūpaka: o |4
 
 ::: media
-![](/images/lekt6119.jpg)
+![](/images/lekt6119.webp)
 Abb.: Melodia, referida a c, po vegnir transponida tenor la regiun vocala.
 (font da l’imagines: [Detagls](/rm/licenses#lekt6119))
 :::

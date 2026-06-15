@@ -306,7 +306,7 @@ Absol. विक्रीय
 :::
 
 ::: media
-![](/images/lekt3001.jpg)
+![](/images/lekt3001.webp)
 Мал.: क्रीणन्ति विक्रीणते च
 Bundi = बुन्दी, Rajasthan = राजस्थान
 (Джерело зображення: [Деталі](/uk/licenses#lekt3001))
@@ -330,7 +330,7 @@ Inf. ज्ञातुम्
 :::
 
 ::: media
-![](/images/lekt3002.jpg)
+![](/images/lekt3002.webp)
 Мал.: ज्ञातयः
 Darewadi, Ahmed Nagar District = अहमदनगर, Maharashtra = महाराष्ट्र
 (Джерело зображення: [Деталі](/uk/licenses#lekt3002))
@@ -347,7 +347,7 @@ Inf. पवितुम्
 :::
 
 ::: media
-![](/images/lekt3003.jpg)
+![](/images/lekt3003.webp)
 Мал.: श्रोत्राणि पुनाति
 (Джерело зображення: [Деталі](/uk/licenses#lekt3003))
 :::
@@ -363,7 +363,7 @@ Inf. अशितुम्
 :::
 
 ::: media
-![](/images/lekt3005.jpg)
+![](/images/lekt3005.webp)
 Мал.: अश्नीयात्
 थाली, Південна Індія
 (Джерело зображення: [Деталі](/uk/licenses#lekt3005))
@@ -372,7 +372,7 @@ Inf. अशितुम्
 प्रिय ३: милий, люблячий, дружній
 
 ::: media
-![](/images/lekt3004.jpg)
+![](/images/lekt3004.webp)
 Мал.: प्रिया
 (Джерело зображення: [Деталі](/uk/licenses#lekt3004))
 :::
@@ -402,7 +402,7 @@ Inf. अशितुम्
 :::
 
 ::: media
-![](/images/lekt2904.jpg)
+![](/images/lekt2904.webp)
 Мал.: पुनर्भवः
 (Джерело зображення: [Деталі](/uk/licenses#lekt2904))
 :::

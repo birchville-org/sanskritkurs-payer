@@ -141,7 +141,7 @@ Les formes त्वा, ते, वस् ne doivent pas être utilisées en pr
 आपण m. : marché
 
 ::: media
-![](/images/lekt4302.jpg)
+![](/images/lekt4302.webp)
 Fig. : आपणः
 (Source de l'image : [Détails](/fr/licenses#lekt4302))
 :::
@@ -151,7 +151,7 @@ Fig. : आपणः
 पण्य 3 : à vendre ; n. : marchandise, commerce
 
 ::: media
-![]/images/lekt4303.jpg
+![]/images/lekt4303.webp
 Fig. : पण्यानि
 (Source de l'image : [Détails](/fr/licenses#lekt4303))
 :::
@@ -174,7 +174,7 @@ Fig. : पण्यानि
 विपणि f. : boutique
 
 ::: media
-![](/images/lekt4304.jpg)
+![](/images/lekt4304.webp)
 Fig. : विपणिः
 (Source de l'image : [Détails](/fr/licenses#lekt4304))
 :::
@@ -182,7 +182,7 @@ Fig. : विपणिः
 वणिज् m. : commerçant
 
 ::: media
-![](/images/lekt4305.jpg)
+![](/images/lekt4305.webp)
 Fig. : वणिक्
 (Source de l'image : [Détails](/fr/licenses/lekt4305))
 :::
@@ -194,7 +194,7 @@ Fig. : वणिक्
 वत्स m. : veau, petit, enfant ; Voc. : mon cher
 
 ::: media
-![](/images/lekt4306.jpg)
+![](/images/lekt4306.webp)
 Fig. : वत्सः
 (Source de l'image : [Détails](/fr/licenses#lekt4306))
 :::
@@ -216,7 +216,7 @@ Fig. : वत्सः
 तुल् 10 तुलयति । तोलयति : peser
 
 ::: media
-![](/images/lekt4307.jpg)
+![](/images/lekt4307.webp)
 Fig. : तोलन्ति
 (Source de l'image : [Détails](/fr/licenses#lekt4307))
 :::
@@ -339,7 +339,7 @@ B) Traduisez en sanskrit :
 10\. Comment vous sauvez-vous (dépassez-vous) devant l'ennemi ?
 
 ::: media
-![](/images/lekt4308.jpg)
+![](/images/lekt4308.webp)
 Fig. : कदा पूराववर्तथाः ।
 (Source de l'image : [Détails](/fr/licenses#lekt4308))
 :::
@@ -375,7 +375,7 @@ Fig. : कदा पूराववर्तथाः ।
 | (D'après : Saral Sanskrit Shikshak III, p. 4f.) | |
 
 ::: media
-![](/images/lekt4309.jpg)
+![](/images/lekt4309.webp)
 Fig. : शर्करा
 (Source de l'image : [Détails](/fr/licenses#lekt4309))
 :::

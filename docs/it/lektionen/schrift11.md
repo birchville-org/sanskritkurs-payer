@@ -22,7 +22,7 @@ B) Leggere e traslitterare:
 
 ### Classificazione dei suoni del sanscrito (da: Kielhorn: Grammatica della lingua sanscrita)
 
-![](/images/schrift028.jpg)
+![](/images/schrift028.webp)
 
 ### Fine degli esercizi di scrittura
 

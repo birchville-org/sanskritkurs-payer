@@ -118,7 +118,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 ਸੁਹਾਵਣੀ ਸੱਚਾਈ ਕਹੋ, ਅਸੁਹਾਵਣੀ ਸੱਚਾਈ ਨਾ ਕਹੋ; ਸੁਹਾਵਣੀ ਝੂਠ ਨਾ ਕਹੋ, ਇਹ ਸਦਾਚਾਰ ਦਾ ਨਿਯਮ ਹੈ।
 
 ::: media
-![](/images/uebung048.jpg)
+![](/images/uebung048.webp)
 ਚਿੱਤਰ: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/licenses#uebung048))
 :::
@@ -175,7 +175,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 :::
 
 ::: media
-![](/images/uebung047.jpg)
+![](/images/uebung047.webp)
 अभि.: भक्त्याः
 (चित्र स्रोत: [विवरण](/licenses#uebung047))
 :::

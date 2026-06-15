@@ -112,7 +112,7 @@ Los brahmanes han estudiado y enseñado el Veda, han sido anfitriones de sacrifi
 Los hijos de Buda han reconocido la verdad, han detenido el sufrimiento y han alcanzado la liberación. Un monje que sigue el camino de Buda se denomina "Hijo de Buda".
 
 ::: media
-![](/images/uebung050.jpg)
+![](/images/uebung050.webp)
 Fig.: सम्पन्नरूपा
 (Fuente de la imagen: [Detalles](/licenses#uebung050))
 :::
@@ -214,7 +214,7 @@ Determine y traduzca las siguientes palabras:
 :::
 
 ::: media
-![](/images/uebung051.jpg)
+![](/images/uebung051.webp)
 Fig.: किमयं रथो बालान् सुखतां वहति
 (Fuente de la imagen: [Detalles](/licenses#uebung051))
 :::
@@ -295,7 +295,7 @@ Inserte las palabras entre paréntesis en las siguientes oraciones y tenga en cu
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung052.jpg)
+![](/images/uebung052.webp)
 Fig.: पुनर्दर्शनाय
 (Fuente de la imagen: [Detalles](/licenses#uebung052))
 :::
@@ -309,7 +309,7 @@ Fig.: पुनर्दर्शनाय
 **आसयत्सलिले पृथ्वीं यः स मे श्रीहरिर्गतिः ॥** El excelso Hari es mi refugio, quien envió a sus enemigos al cielo, hizo que sus seguidores conocieran el sentido del Veda, dio a los dioses el amṛta para comer, enseñó el Veda al creador y fijó la tierra en el agua.
 
 ::: media
-![](/images/uebung053.jpg)
+![](/images/uebung053.webp)
 Fig.: श्रीगङ्गाधराय नमः
 (Fuente de la imagen: [Detalles](/licenses#uebung053))
 :::
@@ -324,7 +324,7 @@ Fig.: श्रीगङ्गाधराय नमः
 Una vez, un anciano fue a otro pueblo y se cansó en el camino. Para descansar, se sentó al pie de un árbol de mango al borde del camino. En ese árbol colgaban frutos maduros. Al anciano se le antojaron, pero no podía subir al árbol para recogerlos. Por suerte, había algunos monos en el árbol que comían frutos. Cuando el anciano lo vio, se alegró. ¿Qué hizo? Tomó algunas piedras, apuntó a los monos y se las arrojó. Los monos se enfadaron, recogieron algunos frutos y se los arrojaron al anciano. El anciano tomó alegremente los frutos y siguió su camino. ¡Magnífico es el ingenio del anciano!
 
 ::: media
-![](/images/uebung054.jpg)
+![](/images/uebung054.webp)
 Fig.: वानरः कुपितः
 (Fuente de la imagen: [Detalles](/licenses#uebung054))
 :::

@@ -73,7 +73,7 @@ Inf. ग्रसितुम्
 परिव्राजक m.: viandant, monac viandant, pelegrin
 
 ::: media
-![](/images/lekt2903.jpg)
+![](/images/lekt2903.webp)
 Abb.: परिव्राजकाः
 Pushkar = पुष्कर
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt2903))
@@ -93,7 +93,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt2901.jpg)
+![](/images/lekt2901.webp)
 Abb.: मत्स्यः
 रोहू मछली = Labeo rohita Hamilton
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt2901))

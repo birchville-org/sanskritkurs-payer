@@ -223,7 +223,7 @@ dont :
 धान्य n. : céréales battues
 
 ::: media
-![](/images/lekt2501.jpg)
+![](/images/lekt2501.webp)
 Fig. : धान्यम्
 (Source de l'image : [Détails](/fr/licenses#lekt2501))
 :::
@@ -310,7 +310,7 @@ dont :
 मूल n. : racine
 
 ::: media
-![](/images/lekt2502.jpg)
+![](/images/lekt2502.webp)
 Fig. : मूलानि
 (Source de l'image : [Détails](/fr/licenses#lekt2502))
 :::
@@ -330,7 +330,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt2503.jpg)
+![](/images/lekt2503.webp)
 Fig. : लिप्तिः
 (Source de l'image : [Détails](/fr/licenses#lekt2503))
 :::
@@ -355,7 +355,7 @@ dont :
 :::
 
 ::: media
-![](/images/lekt2504.jpg)
+![](/images/lekt2504.webp)
 Fig. : विवाहः
 (Source de l'image : [Détails](/fr/licenses#lekt2504))
 :::
@@ -374,7 +374,7 @@ dont :
 विष्टि f. : travail, corvée
 
 ::: media
-![](/images/lekt2505.jpg)
+![](/images/lekt2505.webp)
 Fig. : विष्टिः
 (Source de l'image : [Détails](/fr/licenses#lekt2505))
 :::
@@ -402,7 +402,7 @@ davant :
 हिरण्य ३ : doré ; n. : or, argent, richesse
 
 ::: media
-![](/images/lekt2506.jpg)
+![](/images/lekt2506.webp)
 Fig. : हिरण्यम्
 (Source de l'image : [Détails](/fr/licenses#lekt2506))
 :::
@@ -461,7 +461,7 @@ B) Traduisez et résolvez les composés en sanskrit :
 लोकादधिको हरिः ॥१७॥ (हरi m. = विष्णु / कृष्ण)
 
 ::: media
-![](/images/lekt2507.jpg)
+![](/images/lekt2507.webp)
 Fig. : लोकादधिको हरिः
 :::
 

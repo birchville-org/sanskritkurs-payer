@@ -100,7 +100,7 @@ C) Mettez les phrases de [Leçon 10](lektion10.md), Exercice C, à la voix passi
 कैर्योधैः क्षत्रियैः सह युद्धम् ।
 
 ::: media
-![](/images/uebung020.jpg)
+![](/images/uebung020.webp)
 Fig. : ब्राह्मणो ऽग्निं करोति
 (Source de l'image : [Détails](/fr/licenses#uebung020))
 :::

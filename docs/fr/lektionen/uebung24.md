@@ -81,7 +81,7 @@ Les dieux se fâchent contre ces brāhmaṇas qui ne leur rendaient pas de vén�
 Pour mourir, les êtres vivants naissent.
 
 ::: media
-![](/images/uebung037.jpg)
+![](/images/uebung037.webp)
 Fig. : मरणाय जना जायन्ते
 (Source de l'image : [Détails](/fr/licenses#uebung037))
 :::
@@ -156,7 +156,7 @@ E) Remplacez dans la phrase B) 6 le datif par une construction avec **-अर्
 **पुनर्दर्शनाय ॥**
 
 ::: media
-![](/images/uebung038.jpg)
+![](/images/uebung038.webp)
 Fig. : इदं फलं अलं खादनाय
 (Source de l'image : [Détails](/fr/licenses#uebung038))
 :::

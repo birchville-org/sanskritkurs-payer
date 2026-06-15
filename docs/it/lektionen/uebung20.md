@@ -65,7 +65,7 @@ B) Tradurre utilizzando composti in sanscrito:
 अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः शूद्रा अपि ॥
 
 ::: media
-![](/images/uebung031.jpg)
+![](/images/uebung031.webp)
 Fig.: शस्त्राजीवः क्षत्रियः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung031))
 :::
@@ -239,7 +239,7 @@ Risolvere i seguenti composti come Bahuvrīhi e/o Dvandva e/o Tatpuruṣa in tut
 ८१. **सोढदुःखाः** । सोढं दुःखं यैस्ते ।
 
 ::: media
-![](/images/uebung030.jpg)
+![](/images/uebung030.webp)
 Fig.: सम्पन्नरूपा रूपसम्पन्ना
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung030))
 :::
@@ -295,7 +295,7 @@ Sottile in mezzo, larga ai fianchi, con labbra rosse, occhi neri, con ombelico c
 Poveri, che non desiderano, hanno molti figli, ricchi non ne hanno nessuno. Strano è il corso della creazione.
 
 ::: media
-![](/images/uebung032.jpg)
+![](/images/uebung032.webp)
 Fig.: सन्ति पुत्राः सुबहवो दरिद्राणाम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung032))
 :::

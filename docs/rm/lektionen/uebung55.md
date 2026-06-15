@@ -49,7 +49,7 @@ Determinai e traduci las suandantas furmas e crea las furmas correspundentas dal
 :::
 
 ::: media
-![](/images/uebung092.jpg)
+![](/images/uebung092.webp)
 Abb.: अशोभथाः । अशुभः
 (Quella da l’immaisin: [Detagls](/licenses#uebung092))
 :::

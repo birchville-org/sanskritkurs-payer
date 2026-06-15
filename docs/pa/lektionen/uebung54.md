@@ -39,7 +39,7 @@ last_reconstructed: 2026-05-15
 :::
 
 ::: media
-![](/images/uebung093.jpg)
+![](/images/uebung093.webp)
 अभि.: अगायि
 (चित्र स्रोत: [विवरण](/licenses#uebung093))
 :::

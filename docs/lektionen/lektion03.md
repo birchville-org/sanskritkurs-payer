@@ -96,7 +96,7 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = दे�
 > (Indrāṇī ist die Gattin des Gottes Indra.)
 
 ::: media
-![](/images/lekt0301.jpg)
+![](/images/lekt0301.webp)
 Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80
 (Bildquelle: [Details](/licenses#lekt0301))
 :::
@@ -194,7 +194,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = �
 **devī** f. = देवी : Göttin, insbes. Durgā f. = दुर्गा, die Gattin Śiva's = शिव.
 
 ::: media
-![](/images/lekt0303.jpg)
+![](/images/lekt0303.webp)
 Abb.: Durgā = दुर्गा, Orissa
 (Bildquelle: [Details](/images/lekt0303))
 :::

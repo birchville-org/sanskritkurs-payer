@@ -47,7 +47,7 @@ A twice-born is a man who has been initiated into the Veda by the master.
 He who has conquered anger does not hate an enemy, even if that enemy kills him. But he who is conquered by anger hates.
 
 ::: media
-![](/images/uebung033.jpg)
+![](/images/uebung033.webp)
 Fig.: हतान्धकारा दीपाः
 (Image source: [Details](/en/licenses#uebung033))
 :::

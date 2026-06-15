@@ -225,7 +225,7 @@ Exemplu:
 :::
 
 ::: media
-![](/images/lekt3502.jpg)
+![](/images/lekt3502.webp)
 Fig.: क्रामन्ति
 Oameni mergând, Senegal.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3502))
@@ -245,7 +245,7 @@ din care:
 :::
 
 ::: media
-![](/images/lekt3501.jpg)
+![](/images/lekt3501.webp)
 Fig.: जगुः
 Muzicieni de templu Kaadu Malleswara Temple Bangalore.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3501))
@@ -285,7 +285,7 @@ A) Formați formele de perfect corespunzătoare pentru următoarele forme verbal
 28. अशृण्वन्
 29. मिमति  
     ::: media
-    ![](/images/lekt3503.jpg)
+    ![](/images/lekt3503.webp)
     Fig.: मिमति
     Piață în Vadaseri, Tamil Nadu.
     (Sursa imaginii: [Detalii](/ro/licenses#lekt3503))
@@ -312,7 +312,7 @@ B) Traduceți:
 ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥
 
 ::: media
-![](/images/lekt3504.jpg)
+![](/images/lekt3504.webp)
 Fig.: ... ब्राह्मणाश्चेजुः
 Yajña ceremony, Shiva ashram, Ganeshpuri.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3504))

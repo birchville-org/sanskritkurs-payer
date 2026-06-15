@@ -67,7 +67,7 @@ Cura che la brahmanina arriva al grond poèt, arriva er ses figl.
 Sch'ils magisters magistereschan, na darfian buns uffants betg chatectar (parlar).
 
 ::: media
-![](/images/uebung044.jpg)
+![](/images/uebung044.webp)
 Abb.: गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति
 (Bildquelle: [Detagl](/licenses#uebung044))
 :::

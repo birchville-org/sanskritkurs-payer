@@ -58,7 +58,7 @@ Se i re non custodiscono la giustizia e l'usanza, gli uomini sono pieni di timor
 :::
 
 ::: media
-![](/images/uebung063.jpg)
+![](/images/uebung063.webp)
 Fig.: राज्ञे बलिनो हस्तिनो दीयेरन्
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung063))
 :::

@@ -100,7 +100,7 @@ C) Setzen Sie die Sätze von [Lektion 10](lektion10.md), Übung C passiv in die 
 कैर्योधैः क्षत्रियैः सह युद्धम् ।
 
 ::: media
-![](/images/uebung020.jpg)
+![](/images/uebung020.webp)
 Abb.: ब्राह्मणो ऽग्निं करोति
 (Bildquelle: [Details](/licenses#uebung020))
 :::

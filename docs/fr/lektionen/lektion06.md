@@ -232,7 +232,7 @@ En sanskrit, les verbes sont présentés sous leur **forme de racine**. Le chiff
 13. La (mentionnée) Brahmane danse.
 
 ::: media
-![](/images/lekt0601.jpg)
+![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
 (Source de l'image : Wikipedia, CC-BY-SA 2.5)
@@ -312,7 +312,7 @@ En sanskrit, les verbes sont présentés sous leur **forme de racine**. Le chiff
 3. Mīnākṣī est une déesse.
 
 ::: media
-![](/images/lekt0602.jpg)
+![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Temple de Mīnākṣī, Madurai, Tamil Nadu
 (Source de l'image : Wikipedia, Domaine public)
 :::

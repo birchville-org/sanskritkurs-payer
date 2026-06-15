@@ -837,14 +837,14 @@ Das Gedicht hat vier Abschnitte:
 Das भट्टिकाव्य ist in der Zeit zwischen 495 und 641 n. Chr. entstanden.
 
 ::: media
-![](/images/lekt5902.jpg)
+![](/images/lekt5902.webp)
 Abb.: रावणः
 (Bildquelle: [Details](/licenses#lekt5902))
 :::
 Der folgende Abschnitt ist der Beginn des 15. Gesangs, der dem Aorist gewidmet ist. रावण, der Dämonenkönig, der dem राम dessen Frau सीता geraubt hat, schickt nach seinem Bruder कुम्भकर्ण ("Topfohr"), der als Strafe für seine Übeltaten in einer Art Dauerschlaf liegt.
 
 ::: media
-![](/images/lekt5903.jpg)
+![](/images/lekt5903.webp)
 Abb.: कुम्भकर्णः
 Kecak-Tanz, Bali (Indonesien)
 (Bildquelle: [Details](/licenses#lekt5903))
@@ -852,7 +852,7 @@ Kecak-Tanz, Bali (Indonesien)
 _Übersetzungshilfe:_ Vers 6: दिदृक्षते \= Desiderativ zu दृश्
 
 ::: media
-![](/images/lekt5901.jpg)
+![](/images/lekt5901.webp)
 (Bildquelle: [Details](/licenses#lekt5901))
 :::
 Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.

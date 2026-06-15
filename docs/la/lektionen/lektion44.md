@@ -210,7 +210,7 @@ Grammatici indigeni vocativum (आमन्त्रितम्) non ut casum p
 :::
 
 ::: media
-![](/images/lekt4402.jpg)
+![](/images/lekt4402.webp)
 Tab.: De recto usu "O" in lingua Germanica: ***"O vir!"***
 (Fons imaginis: [Detalia](/la/licenses#lekt4402))
 :::
@@ -251,7 +251,7 @@ unde:
 :::
 
 ::: media
-![](/images/lekt4403.jpg)
+![](/images/lekt4403.webp)
 Fig.: रेल्यानम्
 (Fons imaginis: [Detalia](/la/licenses#lekt4403))
 :::
@@ -271,7 +271,7 @@ unde:
 :::
 
 ::: media
-![](/images/lekt4404.jpg)
+![](/images/lekt4404.webp)
 Fig.: योगी शयने शेते
 (Fons imaginis: [Detalia](/la/licenses#lekt4404))
 :::
@@ -294,7 +294,7 @@ unde:
 :::
 
 ::: media
-![](/images/lekt4405.jpg)
+![](/images/lekt4405.webp)
 Fig.: नन्दी
 (Fons imaginis: [Detalia](/la/licenses#lekt4405))
 :::
@@ -320,7 +320,7 @@ PPP आयत 3: longè porrectus
 :::
 
 ::: media
-![](/images/lekt4406.jpg)
+![](/images/lekt4406.webp)
 Fig.: आयतो मरुः
 (Fons imaginis: [Detalia](/la/licenses#lekt4406))
 :::
@@ -344,7 +344,7 @@ unde:
 **यत्न** m.: labor, industria
 
 ::: media
-![](/images/lekt4407.jpg)
+![](/images/lekt4407.webp)
 Fig.: यत्नेन
 (Fons imaginis: [Detalia](/la/licenses#lekt4407))
 :::
@@ -373,7 +373,7 @@ Vide:
 :::
 
 ::: media
-![](/images/lekt4408.jpg)
+![](/images/lekt4408.webp)
 Fig.: प्रव्रअज्या / पब्बजा
 (Fons imaginis: [Descriptiones](/la/licenses#lekt4408))
 :::
@@ -436,7 +436,7 @@ A) Formas sequentes determina et versa:
 52.  हतः
 
 ::: media
-![](/images/lekt4409.jpg)
+![](/images/lekt4409.webp)
 Fig.: कस्माद्रोदिषि
 (Fons imaginis: [Descriptiones](/la/licenses#lekt4409))
 :::

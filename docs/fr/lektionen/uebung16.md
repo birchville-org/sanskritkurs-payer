@@ -77,7 +77,7 @@ Les guerriers forts sont allés au village de Brahmanes.
 Il vénère la divinité personnelle du Vaiśya méritoire.
 
 ::: media
-![](/images/uebung023.jpg)
+![](/images/uebung023.webp)
 Légende : न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति
 (Source de l'image : [Détails](/fr/licenses#uebung023))
 :::
@@ -261,7 +261,7 @@ Phrase 13 : **सर्वेषाम्** gén. pl. masc. à सर्व "cha
 Le bâton provoque l'acquisition et la possession sûre de la philosophie, de la védologie et de l'économie. La direction du bâton est la politique.
 
 ::: media
-![](/images/uebung024.jpg)
+![](/images/uebung024.webp)
 Fig. : योगश्चित्तवृत्तिनिरोधः
 (Source de l'image : [Détails](/fr/licenses#uebung024))
 :::

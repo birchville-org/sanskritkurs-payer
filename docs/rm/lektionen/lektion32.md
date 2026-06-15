@@ -141,7 +141,7 @@ Exemples:
 **चूत**
 
 ::: media
-![](/images/lekt3202.jpg)
+![](/images/lekt3202.webp)
 Abb.: चूतः
 Alber da mango, Kanpur.
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt3202))
@@ -178,7 +178,7 @@ Alber da mango, Kanpur.
 **वानर कपि**
 
 ::: media
-![](/images/lekt3203.jpg)
+![](/images/lekt3203.webp)
 Abb.: वानराः
 Majnas (macacus rhesus) en Delhi.
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt3203))
@@ -200,7 +200,7 @@ Majnas (macacus rhesus) en Delhi.
 **उपल**
 
 ::: media
-![](/images/lekt3204.jpg)
+![](/images/lekt3204.webp)
 Abb.: उपलाः
 Cava da sass a sid da Pune, Maharashtra.
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt3204))
@@ -209,7 +209,7 @@ Cava da sass a sid da Pune, Maharashtra.
 **लक्ष्य**
 
 ::: media
-![](/images/lekt3205.jpg)
+![](/images/lekt3205.webp)
 Abb.: लक्ष्यम्
 Exercizi da tir / bersagl per saetas, Karnataka.
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt3205))
@@ -236,7 +236,7 @@ Exercizi da tir / bersagl per saetas, Karnataka.
 :::
 
 ::: media
-![](/images/lekt3207.jpg)
+![](/images/lekt3207.webp)
 Abb.: चितं गोमयं दहति
 Bunar da sterp da vaca en Rajasthan.
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt3207))
@@ -251,7 +251,7 @@ Bunar da sterp da vaca en Rajasthan.
 **कौशल कुशल**
 
 ::: media
-![](/images/lekt3206.jpg)
+![](/images/lekt3206.webp)
 Abb.: कौशलम्
 Pintura Mehndi sin mauns en Mumbai.
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt3206))
@@ -350,7 +350,7 @@ B) Traduschar e dissolver las cumponids en sanscrit:
 बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥
 
 ::: media
-![](/images/lekt3208.jpg)
+![](/images/lekt3208.webp)
 Abb.: बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
 Monac buddhist en Sri Lanka.
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt3208))
@@ -574,7 +574,7 @@ C) Tradurre en il Sanscrit:
 52. Adià!
 
 ::: media
-![](/images/lekt3209.jpg)
+![](/images/lekt3209.webp)
 Abb.: पुनर्दर्शनाय
 Salutaziun / adià indian.
 (Sursa da l’immaisin: [Detagls](/rm/licenses#lekt3209))
@@ -656,7 +656,7 @@ Explicaziuns:
 :::
 
 ::: media
-![](/images/lekt3210.jpg)
+![](/images/lekt3210.webp)
 Abb.: तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
 Majus en arvurs da mangos.
 (Sursa da l'imagines: [Detagls](/rm/licenses#lekt3210))

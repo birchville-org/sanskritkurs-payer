@@ -176,7 +176,7 @@ Ejemplos:
 :::
 
 ::: media
-![](/images/lekt5602.jpg)
+![](/images/lekt5602.webp)
 Fig.: क्लैब्यं मा स्म गमः
 Póster (Ernesto "Che" Guevara) de un partido político en Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). «La traducción aproximada de lo escrito en él sería: El martirio es una experiencia fascinante para un revolucionario. Y un recurso desalentador para un cobarde. Che no es un modelo a seguir para los cobardes.»
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5602))
@@ -203,7 +203,7 @@ Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit syntax. -- Leyden : 
 ::::
 
 ::: media
-![](/images/lekt5603.jpg)
+![](/images/lekt5603.webp)
 Fig.: अलं विषादेन
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5603))
 :::

@@ -122,7 +122,7 @@ Notare l'identità di **यजन्ति** (Nom. pl. Neutro) con la 3. pl. P.!
 :::
 
 ::: media
-![](/images/lekt2101.jpg)
+![](/images/lekt2101.webp)
 Abb.: सती-placca commemorativa
 सती-placca commemorativa en il palazi da Jodhpur - जोधपुर / Rajasthan - राजस्थान
 (font dal maletg: [Detagls](/rm/licenses#lekt2101))
@@ -194,7 +194,7 @@ Abb.: सती-placca commemorativa
 ::::
 
 ::: media
-![](/images/lekt2102.jpg)
+![](/images/lekt2102.webp)
 Abb.: महादेवो विष्णुः
 "In sigil da sardonich dal 4.-6. tschientaner CE che represchenta Vishnu cun in adorader. L'inscripziun en bactrian cursì di: 'Mihira, Vishnu e Shiva'."
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt2102))
@@ -276,7 +276,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt2103.jpg)
+![](/images/lekt2103.webp)
 Abb.: भगवान्कृष्णः
 भगवान्कृष्णः sco जगन्नाथ (a la dreta) cun sia mez-sora सुभद्रा (en il mez) e ses frad pli vegl बलराम, Orissa = ଓଡ଼ିଶा
 (font da l’imagines: [Detagls](/rm/licenses#lekt2103))
@@ -287,7 +287,7 @@ Abb.: भगवान्कृष्णः
 :::
 
 ::: media
-![](/images/lekt2105.jpg)
+![](/images/lekt2105.webp)
 Abb.: भगवद्गीता
 भगवद्गीता - Manuscrip, 19. tschientaner
 (font da l’imagines: [Detagls](/rm/licenses#lekt2105))
@@ -304,7 +304,7 @@ quai da:
 :::
 
 ::: media
-![](/images/lekt2104.jpg)
+![](/images/lekt2104.webp)
 Abb.: भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (font da l’imagines: [Detagls](/rm/licenses#lekt2104))
