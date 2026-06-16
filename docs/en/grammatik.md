@@ -105,7 +105,3 @@ Sanskrit philosophy and literature are often composed in verses. Metrics teaches
 *   **Introduction & Śloka** → [Lesson 45](/en/lektionen/lektion45), [Lesson 53](/en/lektionen/lektion53)
 *   **Advanced Metrics** (Trīṣṭubh, Jāgatī) → [Lesson 54](/en/lektionen/lektion54)
 
----
-
-> [!TIP] Mnemonic Rule
-> This overview helps you to look up specific grammatical phenomena. For a chronological study of the material, simply follow the numbering of the lessons in the main menu.

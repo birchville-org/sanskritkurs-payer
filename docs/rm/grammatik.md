@@ -105,7 +105,3 @@ La filosofia ed la litteratura sanscrita èn per part scritte en vers. La metric
 *   **Introducziun & Śloka** → [Lecziun 45](/rm/lektionen/lektion45), [Lecziun 53](/rm/lektionen/lektion53)
 *   **Metrica avanzada** (Trīṣṭubh, Jāgatī) → [Lecziun 54](/rm/lektionen/lektion54)
 
----
-
-> [!TIP] Regla da memorisaziun
-> Questa survista ta gidass a tschertgar sistematicamain phenomenas grammaticalas. Per in’elavuraziun cronologica dal material, suonda simplamain la numeraziun dals lezions en il menu principal.

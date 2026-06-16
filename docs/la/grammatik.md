@@ -105,7 +105,3 @@ Philosophia et litterae Sanscriticae saepe versibus conscribuntur. Metrica rhyth
 *   **Introductio & Śloka** → [Lectio 45](/la/lektionen/lektion45), [Lectio 53](/la/lektionen/lektion53)
 *   **Metra peritia** (Trīṣṭubh, Jāgatī) → [Lectio 54](/la/lektionen/lektion54)
 
----
-
-> [!TIP] Praeceptum memorabile
-> Haec synopsis te adiuvat, ut phaenomena grammatica specificatim perquiras. Ad rem chronologicam tractandam, simpliciter numerum lectionum in indice principali sequere.

@@ -105,7 +105,3 @@ La filosofía y la literatura sánscritas están a menudo redactadas en versos. 
 *   **Introducción y Śloka** → [Lección 45](/es/lektionen/lektion45), [Lección 53](/es/lektionen/lektion53)
 *   **Métricas avanzadas** (Trīṣṭubh, Jāgatī) → [Lección 54](/es/lektionen/lektion54)
 
----
-
-> [!TIP] Regla mnemotécnica
-> Este resumen te ayuda a consultar específicamente los fenómenos gramaticales. Para un estudio cronológico del contenido, simplemente sigue la numeración de las lecciones en el menú principal.

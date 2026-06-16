@@ -105,7 +105,3 @@ Sanskrit-Philosophie und Literatur sind oft in Versen verfasst. Die Metrik lehrt
 *   **Einführung & Śloka** -&gt; [Lektion 45](/lektionen/lektion45), [Lektion 53](/lektionen/lektion53)
 *   **Fortgeschrittene Metren** (Trīṣṭubh, Jāgatī) -&gt; [Lektion 54](/lektionen/lektion54)
 
----
-
-&gt; [!TIP] Merkregel
-&gt; Diese Übersicht hilft dir, gezielt grammatikalische Phänomene nachzuschlagen. Für eine chronologische Erarbeitung des Stoffes folge einfach der Nummerierung der Lektionen im Hauptmenü.

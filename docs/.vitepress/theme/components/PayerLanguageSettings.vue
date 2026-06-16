@@ -5,24 +5,53 @@
       <p class="settings-hint">{{ t.hint }}</p>
     </div>
 
-    <div class="locale-grid">
-      <label 
-        v-for="locale in ALL_LOCALES" 
-        :key="locale" 
-        class="locale-item"
-        :class="{ 'is-disabled': locale === currentLocale }"
-      >
-        <input
-          type="checkbox"
-          :value="locale"
-          v-model="selected"
-          :disabled="locale === currentLocale"
-          @change="markDirty"
-        />
-        <span class="locale-name">{{ LOCALE_NAMES[locale] }}</span>
-        <span class="locale-code">({{ locale }})</span>
-        <span v-if="locale === currentLocale" class="locale-current">{{ t.currentBadge }}</span>
-      </label>
+    <div class="settings-group">
+      <h3 class="locale-group-title">{{ t.activeLanguages || 'Aktive Sprachen' }}</h3>
+      <div class="locale-grid">
+        <label 
+          v-for="locale in ALL_LOCALES.filter(l => selected.includes(l))" 
+          :key="locale" 
+          class="locale-item"
+          :class="{ 'is-disabled': locale === currentLocale }"
+        >
+          <input
+            type="checkbox"
+            :value="locale"
+            v-model="selected"
+            :disabled="locale === currentLocale"
+            @change="markDirty"
+          />
+          <span class="locale-name">
+            <span v-if="locale === 'bg'" class="quality-warning" title="Beta / Translation Quality Warning">⚠</span>
+            {{ LOCALE_NAMES[locale] }}
+          </span>
+          <span class="locale-code">({{ locale }})</span>
+          <span v-if="locale === currentLocale" class="locale-current">{{ t.currentBadge }}</span>
+        </label>
+      </div>
+    </div>
+
+    <div class="settings-group" v-if="ALL_LOCALES.filter(l => !selected.includes(l)).length > 0">
+      <h3 class="locale-group-title">{{ t.availableLanguages || 'Weitere Sprachen hinzufügen' }}</h3>
+      <div class="locale-grid">
+        <label 
+          v-for="locale in ALL_LOCALES.filter(l => !selected.includes(l))" 
+          :key="locale" 
+          class="locale-item unselected-item"
+        >
+          <input
+            type="checkbox"
+            :value="locale"
+            v-model="selected"
+            @change="markDirty"
+          />
+          <span class="locale-name">
+            <span v-if="locale === 'bg'" class="quality-warning" title="Beta / Translation Quality Warning">⚠</span>
+            {{ LOCALE_NAMES[locale] }}
+          </span>
+          <span class="locale-code">({{ locale }})</span>
+        </label>
+      </div>
     </div>
 
     <div class="settings-actions">
@@ -160,6 +189,8 @@ const LOCALE_NAMES = {
 // currently selected locale — never bilingual.
 const LOCALE_TEXTS = {
   de: {
+        activeLanguages: 'Aktive Sprachen',
+    availableLanguages: 'Weitere Sprachen hinzufügen',
     title: 'Einstellungen',
     hint: 'Wählen Sie die Sprachen aus, die in der Navigation sichtbar und offline verfügbar sein sollen.',
     currentBadge: 'aktuell',
@@ -176,6 +207,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'App wird vorbereitet…',
   },
   en: {
+        activeLanguages: 'Active Languages',
+    availableLanguages: 'Add more languages',
     title: 'Settings',
     hint: 'Select the languages to display in navigation and make available offline.',
     currentBadge: 'current',
@@ -192,6 +225,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'Preparing app…',
   },
   it: {
+        activeLanguages: 'Lingue attive',
+    availableLanguages: 'Aggiungi altre lingue',
     title: 'Impostazioni',
     hint: 'Seleziona le lingue da visualizzare nella navigazione e rendere disponibili offline.',
     currentBadge: 'attuale',
@@ -208,6 +243,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'Preparazione app…',
   },
   bg: {
+        activeLanguages: 'Активни езици',
+    availableLanguages: 'Добавяне на други езици',
     title: 'Настройки',
     hint: 'Изберете езиците, които да се показват в навигацията и да са достъпни офлайн.',
     currentBadge: 'текущ',
@@ -224,6 +261,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'Подготовка на приложението…',
   },
   ru: {
+        activeLanguages: 'Активные языки',
+    availableLanguages: 'Добавить другие языки',
     title: 'Настройки',
     hint: 'Выберите языки для отображения в навигации и использования в офлайн-режиме.',
     currentBadge: 'текущий',
@@ -240,6 +279,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'Подготовка приложения…',
   },
   uk: {
+        activeLanguages: 'Активні мови',
+    availableLanguages: 'Додати інші мови',
     title: 'Налаштування',
     hint: 'Виберіть мови, які мають відображатися у навігації та бути доступними офлайн.',
     currentBadge: 'поточна',
@@ -256,6 +297,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'Підготовка додатку…',
   },
   hi: {
+        activeLanguages: 'सक्रिय भाषाएँ',
+    availableLanguages: 'अन्य भाषाएँ जोड़ें',
     title: 'सेटिंग्स',
     hint: 'उन भाषाओं का चयन करें जो नेविगेशन में दिखें और ऑफ़लाइन उपलब्ध हों।',
     currentBadge: 'वर्तमान',
@@ -272,6 +315,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'ऐप तैयार हो रहा है…',
   },
   fr: {
+        activeLanguages: 'Langues actives',
+    availableLanguages: 'Ajouter d\'autres langues',
     title: 'Paramètres',
     hint: 'Sélectionnez les langues à afficher dans la navigation et à rendre disponibles hors ligne.',
     currentBadge: 'actuelle',
@@ -288,6 +333,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'Préparation de l’app…',
   },
   es: {
+        activeLanguages: 'Idiomas activos',
+    availableLanguages: 'Añadir más idiomas',
     title: 'Configuración',
     hint: 'Seleccione los idiomas que desea mostrar en la navegación y tener disponibles sin conexión.',
     currentBadge: 'actual',
@@ -304,6 +351,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'Preparando la app…',
   },
   ta: {
+        activeLanguages: 'செயலிலுள்ள மொழிகள்',
+    availableLanguages: 'மேலும் மொழிகளைச் சேர்',
     title: 'அமைப்புகள்',
     hint: 'வழிசெலுத்தலில் தெரியும் மற்றும் ஆஃப்லைனில் கிடைக்கும் மொழிகளைத் தேர்ந்தெடுக்கவும்.',
     currentBadge: 'தற்போதைய',
@@ -320,6 +369,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'ஆப் தயாராகிறது…',
   },
   pa: {
+        activeLanguages: 'ਸਰਗਰਮ ਭਾਸ਼ਾਵਾਂ',
+    availableLanguages: 'ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਸ਼ਾਮਲ ਕਰੋ',
     title: 'ਸੈਟਿੰਗਾਂ',
     hint: 'ਉਹ ਭਾਸ਼ਾਵਾਂ ਚੁਣੋ ਜੋ ਨੈਵੀਗੇਸ਼ਨ ਵਿੱਚ ਦਿਖਾਈਆਂ ਜਾਣ ਅਤੇ ਆਫਲਾਈਨ ਉਪਲਬਧ ਹੋਣ।',
     currentBadge: 'ਮੌਜੂਦਾ',
@@ -336,6 +387,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'ਐਪ ਤਿਆਰ ਹੋ ਰਿਹਾ ਹੈ…',
   },
   la: {
+        activeLanguages: 'Linguae activae',
+    availableLanguages: 'Adde plures linguas',
     title: 'Configurationes',
     hint: 'Elige linguas quae in navigatione ostendantur et sine internet accessibiles sint.',
     currentBadge: 'praesens',
@@ -352,6 +405,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'App praeparatur…',
   },
   rm: {
+        activeLanguages: 'Linguas activas',
+    availableLanguages: 'Agiuntar autras linguas',
     title: 'Parameters',
     hint: 'Tscherna las linguas che duain esser visiblas en la navigaziun e disponiblas offline.',
     currentBadge: 'actuala',
@@ -368,6 +423,8 @@ const LOCALE_TEXTS = {
     preparingApp: 'Preparar l’app…',
   },
   ro: {
+        activeLanguages: 'Limbi active',
+    availableLanguages: 'Adăugați alte limbi',
     title: 'Setări',
     hint: 'Selectați limbile care să apară în navigare și să fie disponibile offline.',
     currentBadge: 'curentă',
@@ -919,5 +976,22 @@ async function installApp() {
 
 .dark .install-btn:hover:not(:disabled) {
   background: #2a4a6c;
+}
+</style>
+
+<style scoped>
+/* Appended styles */
+.locale-group-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: var(--vp-c-text-1);
+}
+.quality-warning {
+  color: #eab308;
+  font-size: 0.9em;
+  margin-right: 4px;
+  cursor: help;
 }
 </style>

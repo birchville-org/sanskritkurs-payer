@@ -105,7 +105,3 @@ La philosophie et la littérature sanskrites sont souvent rédigées en vers. La
 *   **Introduction & Śloka** → [Leçon 45](/fr/lektionen/lektion45), [Leçon 53](/fr/lektionen/lektion53)
 *   **Métriques avancées** (Trīṣṭubh, Jāgatī) → [Leçon 54](/fr/lektionen/lektion54)
 
----
-
-> [!TIP] Règle mnémotechnique
-> Ce résumé t’aide à consulter de manière ciblée les phénomènes grammaticaux. Pour une étude chronologique du contenu, suis simplement la numérotation des leçons dans le menu principal.

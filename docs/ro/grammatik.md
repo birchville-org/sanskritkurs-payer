@@ -105,7 +105,3 @@ Filozofia și literatura sanscrită sunt adesea compuse în versuri. Metrica stu
 *   **Introducere și Śloka** → [Lecția 45](/ro/lektionen/lektion45), [Lecția 53](/ro/lektionen/lektion53)
 *   **Metre avansate** (Trīṣṭubh, Jāgatī) → [Lecția 54](/ro/lektionen/lektion54)
 
----
-
-> [!TIP] Regulă de reținere
-> Această prezentare generală te ajută să consulți cu precizie fenomenele gramaticale. Pentru o parcurgere cronologică a materialului, urmează simplu numerotarea lecțiilor din meniul principal.

@@ -105,7 +105,3 @@ La filosofia e la letteratura sanscrita sono spesso redatte in versi. La metrica
 *   **Introduzione e Śloka** → [Lezione 45](/it/lektionen/lektion45), [Lezione 53](/it/lektionen/lektion53)
 *   **Metriche avanzate** (Trīṣṭubh, Jāgatī) → [Lezione 54](/it/lektionen/lektion54)
 
----
-
-> [!TIP] Regola mnemonica
-> Questa panoramica ti aiuta a cercare specificamente i fenomeni grammaticali. Per uno studio cronologico del materiale, segui semplicemente la numerazione delle lezioni nel menu principale.
