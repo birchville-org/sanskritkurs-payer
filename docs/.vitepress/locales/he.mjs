@@ -1,39 +1,46 @@
 
 export const he = {
-  label: 'HE',
-  lang: 'he',
-  dir: 'rtl',
+  label: 'EN',
+  lang: 'en-US',
   link: '/he/',
-  title: 'קורס סנסקריט',
-  description: 'ספר לימוד מאת אלויס פאייר',
+  title: 'Sanskrit Course',
+  description: 'Grammar textbook by Alois Payer',
   themeConfig: {
-    outline: { level: [2, 3], label: 'בדף זה' },
+    outline: { level: [2, 3], label: 'On this page' },
+    returnToTopLabel: 'Return to top',
+    sidebarMenuLabel: 'Menu',
+    darkModeSwitchLabel: 'Appearance',
+    lightModeSwitchTitle: 'Switch to light theme',
+    darkModeSwitchTitle: 'Switch to dark theme',
+    langMenuLabel: 'Change language',
     nav: [
-      { text: 'דף הבית', link: '/he/' },
-      { text: 'תוכן עניינים', link: '/he/lektionen/inhaltsverzeichnis' },
-      { text: 'דקדוק', link: '/he/grammatik' },
+      { text: 'Home', link: '/he/' },
+      { text: 'TOC', link: '/he/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'קרדיטים', link: '/he/impressum' }
+      { text: 'Credits', link: '/he/impressum' },
+      { text: '⚙️', link: '/he/settings', ariaLabel: 'Open Settings' }
     ],
     docFooter: {
-      prev: 'השיעור הקודם',
-      next: 'השיעור הבא'
+      prev: 'Previous Lesson',
+      next: 'Next Lesson'
     },
     sidebar: [
-      { text: 'תוכן עניינים', link: '/he/lektionen/inhaltsverzeichnis' },
-      { text: 'מפתח דקדוקי', link: '/he/grammatik' },
-      { text: 'רשימת מילים', link: '/he/lektionen/wortliste' },
-      { text: 'שיעורים', collapsed: false, items: [] },
-      { text: 'כתב', collapsed: true, items: [] },
-      { text: 'תרגילים', collapsed: true, items: [] },
-      { text: 'מידע משפטי', collapsed: true, items: [
-          { text: 'קרדיטים וציטוט', link: '/he/impressum' },
-          { text: 'רישיונות תמונות', link: '/he/licenses' }
+      { text: 'Table of Contents', link: '/he/lektionen/inhaltsverzeichnis' },
+      { text: 'Grammar Topics', link: '/he/grammatik' },
+            { text: 'Grammar Index', link: '/he/themen' },
+      { text: 'Vocabulary', link: '/he/lektionen/wortliste' },
+      { text: 'Glossary', link: '/he/lektionen/glossar' },
+      { text: 'Lessons', collapsed: false, items: [] },
+      { text: 'Script (Introduction)', collapsed: true, items: [] },
+      { text: 'Exercises', collapsed: true, items: [] },
+      { text: 'Legal', collapsed: true, items: [
+          { text: 'Legal Notice & Citation', link: '/he/impressum' },
+          { text: 'Image Licenses', link: '/he/licenses' },
       ]}
     ],
     footer: {
-      message: 'חלק מ-Global Village Library של Tüpfli',
-      copyright: 'זכויות יוצרים © 2008-2010 Alois Payer'
+      message: "Part of Tüpfli's Global Village Library",
+      copyright: 'Copyright © 2008-2010 Alois Payer'
     }
   }
 }

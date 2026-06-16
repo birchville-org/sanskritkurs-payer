@@ -4,7 +4,7 @@ import { de } from './locales/de.mjs'
 import { en } from './locales/en.mjs'
 import { fr } from './locales/fr.mjs'
 import { it } from './locales/it.mjs'
-import { bg } from './locales/bg.mjs'
+// import { bg } from './locales/bg.mjs'
 import { ru } from './locales/ru.mjs'
 import { uk } from './locales/uk.mjs'
 import { hi } from './locales/hi.mjs'
@@ -26,6 +26,11 @@ import { ro } from './locales/ro.mjs'
 // import { fa } from './locales/fa.mjs'
 // import { akk } from './locales/akk.mjs'
 // import { cop } from './locales/cop.mjs'
+import { id } from './locales/id.mjs'
+import { zhCN } from './locales/zh-CN.mjs'
+import { zhTW } from './locales/zh-TW.mjs'
+import { th } from './locales/th.mjs'
+import { he } from './locales/he.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
 const container = require('markdown-it-container')
@@ -57,9 +62,9 @@ pa.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'ਪਾਠ', 'pa', 
 pa.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'ਲਿਪੀ', 'pa')
 pa.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'ਅਭਿਆਸ', 'pa', 10)
 
-bg.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Урок', 'bg', 10)
-bg.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Писмо', 'bg')
-bg.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Упражнение', 'bg', 10)
+// bg.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Урок', 'bg', 10)
+// bg.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Писмо', 'bg')
+// bg.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Упражнение', 'bg', 10)
 
 ru.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Лекция', 'ru', 10)
 ru.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Письмо', 'ru')
@@ -118,6 +123,37 @@ la.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Exercitatio', 'la',
 // cop.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'ⲥϧⲁⲓ', 'cop')
 // cop.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'ⲙⲉⲗⲉⲧⲏ', 'cop', 10)
 
+id.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Pelajaran', 'id', 10)
+id.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Aksara', 'id')
+id.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Latihan', 'id', 10)
+
+zhCN.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'zh-CN', 10)
+zhCN.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'zh-CN')
+zhCN.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'zh-CN', 10)
+
+zhTW.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'zh-TW', 10)
+zhTW.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'zh-TW')
+zhTW.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'zh-TW', 10)
+
+th.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'th', 10)
+th.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'th')
+th.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'th', 10)
+
+he.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'he', 10)
+he.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'he')
+he.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'he', 10)
+
+const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
+
+if (!isAuthorBuild) {
+  const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, zhCN, zhTW, th, he];
+  for (const localeObj of allLocales) {
+    if (localeObj.themeConfig && localeObj.themeConfig.nav) {
+      localeObj.themeConfig.nav = localeObj.themeConfig.nav.filter(item => item.text !== 'QA');
+    }
+  }
+}
+
 export default defineConfig({
   title: "Sanskritkurs",
   description: "Grammatik Lehrbuch von Alois Payer",
@@ -143,7 +179,7 @@ export default defineConfig({
     root: { ...de },
     en: { ...en },
     it: { ...it },
-    bg: { ...bg },
+    // bg: { ...bg },
     ru: { ...ru },
     uk: { ...uk },
     hi: { ...hi },
@@ -155,6 +191,11 @@ export default defineConfig({
     la: { ...la },
     rm: { ...rm },
     ro: { ...ro },
+    id: { ...id },
+    'zh-CN': { ...zhCN },
+    'zh-TW': { ...zhTW },
+    th: { ...th },
+    he: { ...he },
     // ── hidden (planned for later versions) ─────────────────────────────────────
     // ar: { ...ar },
     // arc: { ...arc },
@@ -194,7 +235,7 @@ export default defineConfig({
             prefix: function(term) { return term.length >= 4; },
             boost: { title: 5, text: 1, titles: 3 },
             filter: function(result) {
-              const ACTIVE = ['en','it','bg','ru','uk','hi','fr','es','ta','pa','la','rm','ro'];
+              const ACTIVE = ['en','it','ru','uk','hi','fr','es','ta','pa','la','rm','ro','id','zh-CN','zh-TW','th','he'];
               const seg = (typeof window !== 'undefined' ? window.location.pathname : '/').split('/').filter(Boolean)[0] || '';
               if (ACTIVE.includes(seg)) {
                 // Sprachseite: nur Ergebnisse dieser Sprache
@@ -210,7 +251,7 @@ export default defineConfig({
           root: { translations: { button: { buttonText: 'Suchen' } } },
           en: { translations: { button: { buttonText: 'Search' } } },
           it: { translations: { button: { buttonText: 'Cerca' } } },
-          bg: { translations: { button: { buttonText: 'Търсене' } } },
+          // bg: { translations: { button: { buttonText: 'Търсене' } } },
           ru: { translations: { button: { buttonText: 'Поиск' } } },
           uk: { translations: { button: { buttonText: 'Пошук' } } },
           hi: { translations: { button: { buttonText: 'खोज' } } },
@@ -219,6 +260,11 @@ export default defineConfig({
           es: { translations: { button: { buttonText: 'Buscar' } } },
           ta: { translations: { button: { buttonText: 'தேடு' } } },
           pa: { translations: { button: { buttonText: 'ਖੋਜ' } } },
+          id: { translations: { button: { buttonText: 'Cari' } } },
+          'zh-CN': { translations: { button: { buttonText: '搜索' } } },
+          'zh-TW': { translations: { button: { buttonText: '搜尋' } } },
+          th: { translations: { button: { buttonText: 'ค้นหา' } } },
+          he: { translations: { button: { buttonText: 'חפש' } } },
           // ── hidden (planned for later versions) ───────────────────────────────
           // rm: { translations: { button: { buttonText: 'Tschertgar' } } },
           // ar: { translations: { button: { buttonText: 'بحث' } } },
@@ -237,7 +283,7 @@ export default defineConfig({
   },
   
   markdown: {
-    lineNumbers: true,
+    lineNumbers: isAuthorBuild,
     breaks: true,
     config: (md) => {
       md.core.ruler.before('normalize', 'prevent_br_link', (state) => {
@@ -470,5 +516,12 @@ export default defineConfig({
       }
     }
     copyMdFiles(siteConfig.srcDir, siteConfig.outDir)
+
+    if (!isAuthorBuild) {
+      const qaHtml = path.join(siteConfig.outDir, 'qa_viewer.html')
+      const qaDir = path.join(siteConfig.outDir, 'qa')
+      if (fs.existsSync(qaHtml)) fs.unlinkSync(qaHtml)
+      if (fs.existsSync(qaDir)) fs.rmSync(qaDir, { recursive: true, force: true })
+    }
   }
 })

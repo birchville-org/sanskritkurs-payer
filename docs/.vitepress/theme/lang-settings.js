@@ -6,7 +6,7 @@
  */
 
 const STORAGE_KEY = 'payer_active_locales'
-const ALL_LOCALES = ['de', 'en', 'it', 'bg', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro']
+const ALL_LOCALES = ['de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'zh-TW', 'th', 'he']
 const DEFAULT_LOCALES = ['de', 'en', 'it']
 
 /**

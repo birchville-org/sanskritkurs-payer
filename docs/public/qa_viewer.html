@@ -1031,7 +1031,60 @@
             notice._timer = setTimeout(() => { notice.style.display = 'none'; }, 8000);
         }
 
+        const isServerMode = window.location.hostname.includes('autor') || window.location.port === '3000';
+
+        async function openCloudFile() {
+            const num = document.getElementById('lesson-num').value.padStart(2, '0');
+            const rightVal = document.getElementById('right-lang').value;
+            let relPath = rightVal.replace(/lektion\d+/, 'lektion' + num);
+            if (relPath.includes('qa/')) relPath = relPath.replace('qa/', 'lektionen/').replace('.html', '');
+            relPath += '.md';
+            const filepath = 'docs/' + relPath;
+
+            try {
+                const res = await fetch(`/api/load?filepath=${encodeURIComponent(filepath)}`);
+                if (!res.ok) throw new Error('Failed to load file');
+                const data = await res.json();
+                
+                const editorInput = document.getElementById('editor-input');
+                editorInput.value = stripFrontmatter(data.content);
+                editorInput.placeholder = 'Markdown hier eingeben…';
+                document.getElementById('btn-open').textContent = '☁️ ' + relPath;
+                window._currentCloudFile = filepath;
+                renderPreview();
+            } catch (e) {
+                alert('Fehler beim Laden aus der Cloud: ' + e.message);
+            }
+        }
+
+        async function saveCloudFile() {
+            if (!window._currentCloudFile) {
+                alert('Bitte zuerst eine Datei laden.');
+                return;
+            }
+            const editorInput = document.getElementById('editor-input');
+            const btn = document.getElementById('btn-save');
+            const text = (window._editorFrontmatter || '') + editorInput.value;
+
+            btn.textContent = 'Speichert...';
+            try {
+                const res = await fetch('/api/save', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ filepath: window._currentCloudFile, content: text })
+                });
+                if (!res.ok) throw new Error('Save failed');
+                btn.textContent = '✓ Gespeichert';
+                setTimeout(() => { btn.textContent = 'Save'; }, 1800);
+            } catch (e) {
+                console.error(e);
+                btn.textContent = '❌ Fehler';
+                setTimeout(() => { btn.textContent = 'Save'; }, 1800);
+            }
+        }
+
         async function openFile() {
+            if (isServerMode) return openCloudFile();
             if (!window.showOpenFilePicker) {
                 alert('File System Access API nicht unterstützt (Chrome/Edge erforderlich).');
                 return;
@@ -1061,6 +1114,7 @@
         }
 
         async function saveEditor() {
+            if (isServerMode) return saveCloudFile();
             const editorInput = document.getElementById('editor-input');
             const btn = document.getElementById('btn-save');
             const text = (window._editorFrontmatter || '') + editorInput.value;
@@ -1210,19 +1264,22 @@
 
             if (e.data.type === 'scroll') {
                 if (isSyncing) return;
-                if (e.data.atBottom) {
-                    try {
-                        const rw = rightFrame.contentWindow;
-                        rw.scrollTo({ top: rw.document.documentElement.scrollHeight, behavior: 'smooth' });
-                    } catch(_) {}
-                    return;
-                }
-                if (syncMode === 'pct' && e.data.pct !== undefined) {
-                    try { rightFrame.contentWindow.postMessage({ type: 'setScroll', pct: e.data.pct }, '*'); } catch(_) {}
-                } else if (syncMode === 'header' && e.data.activeHeader) {
-                    if (e.data.activeHeader === lastSyncedHeader) return;
-                    lastSyncedHeader = e.data.activeHeader;
-                    scrollToMatch(rightFrame.contentWindow, e.data.activeHeader);
+                if (syncMode === 'pct') {
+                    if (e.data.pct !== undefined) {
+                        try { rightFrame.contentWindow.postMessage({ type: 'setScroll', pct: e.data.pct }, '*'); } catch(_) {}
+                    }
+                } else if (syncMode === 'header') {
+                    if (e.data.atBottom) {
+                        try {
+                            const rw = rightFrame.contentWindow;
+                            rw.scrollTo({ top: rw.document.documentElement.scrollHeight, behavior: 'smooth' });
+                        } catch(_) {}
+                        return;
+                    }
+                    if (e.data.activeHeader && e.data.activeHeader !== lastSyncedHeader) {
+                        lastSyncedHeader = e.data.activeHeader;
+                        scrollToMatch(rightFrame.contentWindow, e.data.activeHeader);
+                    }
                 }
             }
         });
@@ -1350,7 +1407,23 @@
                             /^\\d+(\\.\\d+)*\\.?\\s+\\S/.test((el.innerText||'').trim())
                         );
                     }
+                    let ticking = false;
                     window.addEventListener('scroll', () => {
+                        if (!ticking) {
+                            window.requestAnimationFrame(() => {
+                                const scrollH = document.documentElement.scrollHeight;
+                                const atBottom = (window.innerHeight + window.scrollY) >= (scrollH - 60);
+                                window.parent.postMessage({
+                                    type: 'scroll',
+                                    pct: window.scrollY / Math.max(1, scrollH - window.innerHeight),
+                                    atBottom: atBottom,
+                                    from: 'left'
+                                }, '*');
+                                ticking = false;
+                            });
+                            ticking = true;
+                        }
+
                         clearTimeout(debounce);
                         debounce = setTimeout(() => {
                             const headers = getHeaders();
@@ -1361,18 +1434,15 @@
                                 else break;
                             }
                             if (!active && headers.length) active = headers[0].innerText.trim();
-                            if (!active || active === lastHeader) return;
-                            lastHeader = active;
-                            const scrollH = document.documentElement.scrollHeight;
-                            const atBottom = (window.innerHeight + window.scrollY) >= (scrollH - 60);
-                            window.parent.postMessage({
-                                type: 'scroll',
-                                pct: window.scrollY / Math.max(1, scrollH - window.innerHeight),
-                                activeHeader: active,
-                                atBottom: atBottom,
-                                from: 'left'
-                            }, '*');
-                        }, 200);
+                            if (active && active !== lastHeader) {
+                                lastHeader = active;
+                                window.parent.postMessage({
+                                    type: 'scroll',
+                                    activeHeader: active,
+                                    from: 'left'
+                                }, '*');
+                            }
+                        }, 150);
                     }, { passive: true });
                     window.addEventListener('message', (e) => {
                         if (e.data.type === 'setTheme') {

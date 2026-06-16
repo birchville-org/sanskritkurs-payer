@@ -172,7 +172,6 @@ const LOCALE_NAMES = {
   de: 'Deutsch',
   en: 'English',
   it: 'Italiano',
-  bg: 'Български',
   ru: 'Русский',
   uk: 'Українська',
   hi: 'हिन्दी',
@@ -182,7 +181,12 @@ const LOCALE_NAMES = {
   pa: 'ਪੰਜਾਬੀ',
   la: 'Latine',
   rm: 'Rumantsch',
-  ro: 'Română'
+  ro: 'Română',
+  id: 'Bahasa Indonesia',
+  'zh-CN': '简体中文',
+  'zh-TW': '繁體中文',
+  th: 'ไทย',
+  he: 'עברית'
 }
 
 // Localized UI strings for all 14 languages. Settings page always renders in the
@@ -242,24 +246,7 @@ const LOCALE_TEXTS = {
     unavailableHint: 'Per installare la PWA: connessione HTTPS e browser moderno (Chrome, Edge, Safari 16.4+) necessari.',
     preparingApp: 'Preparazione app…',
   },
-  bg: {
-        activeLanguages: 'Активни езици',
-    availableLanguages: 'Добавяне на други езици',
-    title: 'Настройки',
-    hint: 'Изберете езиците, които да се показват в навигацията и да са достъпни офлайн.',
-    currentBadge: 'текущ',
-    saveBtn: 'Запази',
-    saving: 'Работя...',
-    validationError: 'Трябва да е избран поне един език.',
-    installing: 'Инсталиране на приложението…',
-    installBtn: '📱 Инсталирай Web App',
-    installHint: 'За пълно офлайн използване на десктоп или смартфон.',
-    installedStatus: 'Web App е инсталирана',
-    installedHint: 'Приложението работи като самостоятелно приложение.',
-    unavailableStatus: 'Инсталацията не е налична',
-    unavailableHint: 'За PWA инсталация: HTTPS връзка и модерен браузър (Chrome, Edge, Safari 16.4+) са необходими.',
-    preparingApp: 'Подготовка на приложението…',
-  },
+
   ru: {
         activeLanguages: 'Активные языки',
     availableLanguages: 'Добавить другие языки',
@@ -439,6 +426,24 @@ const LOCALE_TEXTS = {
     unavailableStatus: 'Instalarea nu este disponibilă',
     unavailableHint: 'Pentru instalare PWA: conexiune HTTPS și browser modern (Chrome, Edge, Safari 16.4+) necesare.',
     preparingApp: 'Se pregătește aplicația…',
+  },
+  id: {
+    activeLanguages: 'Bahasa Aktif',
+    availableLanguages: 'Tambahkan bahasa',
+    title: 'Pengaturan',
+    hint: 'Pilih bahasa yang akan ditampilkan dalam navigasi dan tersedia offline.',
+    currentBadge: 'saat ini',
+    saveBtn: 'Simpan',
+    saving: 'Menyimpan...',
+    validationError: 'Pilih minimal satu bahasa.',
+    installing: 'Menginstal aplikasi…',
+    installBtn: '📱 Instal Aplikasi Web',
+    installHint: 'Untuk penggunaan offline penuh di desktop atau smartphone.',
+    installedStatus: 'Aplikasi Web terinstal',
+    installedHint: 'Aplikasi berjalan sebagai aplikasi mandiri.',
+    unavailableStatus: 'Instalasi tidak tersedia',
+    unavailableHint: 'Untuk instalasi PWA: diperlukan HTTPS dan browser modern.',
+    preparingApp: 'Menyiapkan aplikasi…',
   },
 }
 

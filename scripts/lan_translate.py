@@ -12,14 +12,16 @@ LANGUAGES = [
 #    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm",
 #    "ar", "arc", "he", "zh", "la", "grc", "el", "fa", "akk", "cop",
     "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "ta", "pa",
-    "la", "rm", "ro",
+    "la", "rm", "ro", "id", "zh-CN", "zh-TW", "th", "he"
 ]
 LANG_NAMES = {
     "en": "English", "it": "Italian", "es": "Spanish",
     "ru": "Russian", "uk": "Ukrainian", "bg": "Bulgarian",
     "hi": "Hindi", "fr": "French", "ta": "Tamil", "pa": "Punjabi (Gurmukhi)",
     "la": "Latin", "rm": "Romansh Grischun", "ro": "Romanian",
-#    "ar": "Arabic", "arc": "Aramaic", "he": "Hebrew",
+    "id": "Indonesian", "zh-CN": "Simplified Chinese", "zh-TW": "Traditional Chinese",
+    "th": "Thai", "he": "Hebrew",
+#    "ar": "Arabic", "arc": "Aramaic",
 #    "zh": "Mandarin Chinese",
 #    "grc": "Ancient Greek", "el": "Modern Greek",
 #    "fa": "Persian (Farsi)", "akk": "Akkadian", "cop": "Coptic",
@@ -100,10 +102,20 @@ LICENSES_LABELS = {
         "col1": "קובץ", "col2": "מידע מקור שנמצא", "col3": "תצוגה מקדימה",
         "no_license": "לא נמצא רישיון/מקור תמונה ספציפי בטקסט",
     },
-    "zh": {
+    "zh-CN": {
         "title": "图片许可证审计",
         "col1": "文件", "col2": "找到的来源信息", "col3": "预览",
         "no_license": "文本中未找到特定许可证/图片来源",
+    },
+    "zh-TW": {
+        "title": "圖片授權審計",
+        "col1": "檔案", "col2": "找到的來源資訊", "col3": "預覽",
+        "no_license": "文本中未找到特定授權/圖片來源",
+    },
+    "th": {
+        "title": "การตรวจสอบใบอนุญาตภาพ",
+        "col1": "ไฟล์", "col2": "ข้อมูลแหล่งที่มาที่พบ", "col3": "พรีวิว",
+        "no_license": "ไม่พบใบอนุญาตเฉพาะ/แหล่งที่มาของภาพในข้อความ",
     },
     "ro": {
         "title": "Auditul licențelor imaginilor",
@@ -139,6 +151,11 @@ LICENSES_LABELS = {
         "title": "ⲡⲓⲉⲣⲏⲧ ⲛ̀ⲛⲓϩⲓⲥⲓ ⲛ̀ϩⲁⲛϩⲓⲕⲱⲛ",
         "col1": "ⲫⲁⲓ", "col2": "ⲫⲓⲙⲁ ⲉⲧⲁϥϭⲓ ⲛ̀ⲥⲱϥ", "col3": "ⲡⲓⲛⲓⲁⲩ",
         "no_license": "ⲙⲡⲉⲛϭⲓⲙⲓ ⲛ̀ⲟⲩⲛⲓϣϯ ⲛ̀ϩⲓⲥⲓ ⲉⲩⲁⲗⲏⲑⲉⲓⲁ ϩⲛ̀ ⲡⲓⲥϧⲁⲓ",
+    },
+    "id": {
+        "title": "Audit Lisensi Gambar",
+        "col1": "File", "col2": "Informasi Sumber yang Ditemukan", "col3": "Pratinjau",
+        "no_license": "Tidak ada lisensi spesifik/sumber gambar yang ditemukan dalam teks",
     },
 }
 LICENSES_PHRASES = {
@@ -451,7 +468,7 @@ LICENSES_PHRASES = {
         "Beschriftung:": "כיתוב:",
         "Lehrgangsmaterial": "חומר לימוד",
     },
-    "zh": {
+    "zh-CN": {
         "Abb.:": "图.:",
         "Bildquelle:": "图片来源:",
         "Bildquelle.": "图片来源.",
@@ -472,6 +489,50 @@ LICENSES_PHRASES = {
         "Unbekannt": "未知",
         "Beschriftung:": "说明:",
         "Lehrgangsmaterial": "课程材料",
+    },
+    "zh-TW": {
+        "Abb.:": "圖.:",
+        "Bildquelle:": "圖片來源:",
+        "Bildquelle.": "圖片來源.",
+        "Bildquelle ": "圖片來源 ",
+        "gemeinfrei": "公共領域",
+        "Jhdt.": "世紀",
+        "Zugriff am": "訪問日期",
+        "Namensnennung": "署名",
+        "keine kommerzielle Nutzung": "非商業性使用",
+        "keine kommerzielle Nuttzung": "非商業性使用",
+        "keine kommerzielle Bearbeitung": "非商業性使用，禁止演繹",
+        "keine Bearbeitung": "禁止演繹",
+        "GNU FDLizenz": "GNU FD許可證",
+        "FDLicense": "FD License",
+        "Creative  Commons Lizenz": "知識共享許可證",
+        "Creative Commons Lizenz": "知識共享許可證",
+        "Creative Commons lizenz": "知識共享許可證",
+        "Unbekannt": "未知",
+        "Beschriftung:": "說明:",
+        "Lehrgangsmaterial": "課程材料",
+    },
+    "th": {
+        "Abb.:": "รูป.:",
+        "Bildquelle:": "ที่มาของภาพ:",
+        "Bildquelle.": "ที่มาของภาพ.",
+        "Bildquelle ": "ที่มาของภาพ ",
+        "gemeinfrei": "สาธารณสมบัติ",
+        "Jhdt.": "ศตวรรษ",
+        "Zugriff am": "วันที่เข้าถึง",
+        "Namensnennung": "การแสดงที่มา",
+        "keine kommerzielle Nutzung": "ไม่ใช้เพื่อการค้า",
+        "keine kommerzielle Nuttzung": "ไม่ใช้เพื่อการค้า",
+        "keine kommerzielle Bearbeitung": "ไม่ใช้เพื่อการค้า ห้ามดัดแปลง",
+        "keine Bearbeitung": "ห้ามดัดแปลง",
+        "GNU FDLizenz": "ใบอนุญาต GNU FD",
+        "FDLicense": "FD License",
+        "Creative  Commons Lizenz": "ใบอนุญาต Creative Commons",
+        "Creative Commons Lizenz": "ใบอนุญาต Creative Commons",
+        "Creative Commons lizenz": "ใบอนุญาต Creative Commons",
+        "Unbekannt": "ไม่ทราบ",
+        "Beschriftung:": "คำบรรยาย:",
+        "Lehrgangsmaterial": "เอกสารประกอบการเรียน",
     },
     "la": {
         "Abb.:": "Fig.:",
@@ -605,6 +666,28 @@ LICENSES_PHRASES = {
         "Beschriftung:": "ⲡⲓⲥϧⲁⲓ:",
         "Lehrgangsmaterial": "ⲛⲓⲥⲓⲟⲩ ⲛ̀ⲧⲉ ⲡⲓⲙⲁⲑⲏⲙⲁ",
     },
+    "id": {
+        "Abb.:": "Gbr.:",
+        "Bildquelle:": "Sumber gambar:",
+        "Bildquelle.": "Sumber gambar.",
+        "Bildquelle ": "Sumber gambar ",
+        "gemeinfrei": "domain publik",
+        "Jhdt.": "abad",
+        "Zugriff am": "diakses tanggal",
+        "Namensnennung": "Atribusi",
+        "keine kommerzielle Nutzung": "NonKomersial",
+        "keine kommerzielle Nuttzung": "NonKomersial",
+        "keine kommerzielle Bearbeitung": "NonKomersial TanpaTurunan",
+        "keine Bearbeitung": "TanpaTurunan",
+        "GNU FDLizenz": "Lisensi GNU FD",
+        "FDLicense": "FD License",
+        "Creative  Commons Lizenz": "Lisensi Creative Commons",
+        "Creative Commons Lizenz": "Lisensi Creative Commons",
+        "Creative Commons lizenz": "Lisensi Creative Commons",
+        "Unbekannt": "Tidak diketahui",
+        "Beschriftung:": "Keterangan:",
+        "Lehrgangsmaterial": "Materi kursus",
+    },
 }
 
 BASE_DIR = "/Volumes/SanDisk1TB/proj/Payer/docs"
@@ -689,7 +772,7 @@ def translate_text(text, target_lang):
         "Rules: "
         "(1) Translate every German word — including captions, image descriptions, verse translations, and prose. "
         "(2) Preserve unchanged: Markdown syntax, VitePress containers (:::), IAST transliterations, YAML frontmatter keys, HTML comments, ⟨DEVA_N⟩ placeholders, ⟨IAST_L_N⟩ placeholders, and ⟨BR⟩ placeholders. "
-        f"(3) Translate '# Lektion N' headings to the target-language equivalent (e.g. '# Lesson N' in English, '# Lezione N' in Italian, '# Lección N' in Spanish, '# Урок N' in Russian/Ukrainian/Bulgarian, '# पाठ N' in Hindi, '# Leçon N' in French, '# Lecziun N' in Romansh Grischun, '# பாடம் N' in Tamil, '# ਪਾਠ N' in Punjabi, '# الدرس N' in Arabic, '# ܡܠܦܢܘܬܐ N' in Aramaic, '# שיעור N' in Hebrew, '# 第N课' in Mandarin Chinese, '# Lectio N' in Latin, '# Μάθημα N' in Ancient Greek, '# Μάθημα N' in Modern Greek, '# درس N' in Persian, '# Ṭupšarru N' in Akkadian, '# ⲙⲁⲑⲏⲙⲁ N' in Coptic). "
+        f"(3) Translate '# Lektion N' headings to the target-language equivalent (e.g. '# Lesson N' in English, '# Lezione N' in Italian, '# Lección N' in Spanish, '# Урок N' in Russian/Ukrainian/Bulgarian, '# पाठ N' in Hindi, '# Leçon N' in French, '# Lecziun N' in Romansh Grischun, '# பாடம் N' in Tamil, '# ਪਾਠ N' in Punjabi, '# الدرس N' in Arabic, '# ܡܠܦܢܘܬܐ N' in Aramaic, '# שיעור N' in Hebrew, '# 第N课' in Mandarin Chinese, '# บทที่ N' in Thai, '# Lectio N' in Latin, '# Μάθημα N' in Ancient Greek, '# Μάθημα N' in Modern Greek, '# درس N' in Persian, '# Ṭupšarru N' in Akkadian, '# ⲙⲁⲑⲏⲙⲁ N' in Coptic). "
         "(4) NEVER add TODO comments, fallback markers, or any annotations of your own. If unsure how to translate something, translate it as best you can. "
         "(5) Keep the scholarly editorial tone throughout. "
         "(6) CRITICAL: Preserve the exact line count of the source. Every source line must appear as exactly one output line. NEVER delete, merge, or collapse lines. "
@@ -720,18 +803,39 @@ def translate_text(text, target_lang):
         for attempt in range(max_retries):
             try:
                 import subprocess as _sp
+                start_time = time.time()
                 _proc = _sp.run(
                     ['curl', '-s', '-X', 'POST', API_URL,
                      '-H', 'Content-Type: application/json',
                      '-d', json.dumps(data),
-                     '--max-time', '600'],
-                    capture_output=True, text=True, timeout=620
+                     '--max-time', '1800'],
+                    capture_output=True, text=True, timeout=1820
                 )
+                end_time = time.time()
                 if _proc.returncode != 0:
                     raise OSError(f"curl exit {_proc.returncode}: {_proc.stderr[:200]}")
                 res_data = json.loads(_proc.stdout)
                 result = res_data['choices'][0]['message']['content']
                 got_response = True
+
+                # Performance Monitoring & Auto-Restart
+                if 'usage' in res_data and 'completion_tokens' in res_data['usage']:
+                    comp_tokens = res_data['usage']['completion_tokens']
+                    elapsed = end_time - start_time
+                    if elapsed > 0:
+                        tps = comp_tokens / elapsed
+                        if comp_tokens > 20 and tps < 12.0:
+                            sys.stdout.write(f"\n[!] Performance kritisch ({tps:.1f} t/s). Führe automatischen Neustart aus...\n")
+                            sys.stdout.flush()
+                            try:
+                                _sp.run(['ssh', 'marco@nyx.local', 'nohup ~/llm-benchmark/start > /dev/null 2>&1 &'], timeout=15)
+                                sys.stdout.write("[!] Neustart-Befehl gesendet. Warte 25s auf den Server...\n")
+                                sys.stdout.flush()
+                                time.sleep(25)
+                            except Exception as ssh_e:
+                                sys.stdout.write(f"[!] SSH Neustart fehlgeschlagen: {ssh_e}\n")
+                                sys.stdout.flush()
+
                 missing = [k for k in deva_registry if k not in result]
                 if len(missing) < len(best_missing):
                     best_result = result
@@ -751,8 +855,24 @@ def translate_text(text, target_lang):
                     sys.stdout.flush()
                 break  # break connection-retry loop; outer loop handles the rest
             except Exception as e:
+                err_str = str(e)
                 wait_time = (2 ** attempt) * 5  # 5s, 10s, 20s, 40s, 80s
-                msg = f"[{target_lang}] Connection failed (attempt {attempt+1}/{max_retries}): {str(e)}. Retrying in {wait_time}s...\n"
+                
+                # Auto-Restart bei Timeouts, HTTP 500 (Compute error) oder Absturz (Connection refused/exit 7)
+                err_lower = err_str.lower()
+                if "exit 28" in err_str or "timeout" in err_lower or "500" in err_str or "exit 7" in err_str or "refused" in err_lower:
+                    sys.stdout.write(f"\n[!] Timeout/Absturz erkannt ({err_str}). Führe automatischen Neustart aus...\n")
+                    sys.stdout.flush()
+                    try:
+                        import subprocess as _sp_err
+                        _sp_err.run(['ssh', 'marco@nyx.local', 'nohup ~/llm-benchmark/start > /dev/null 2>&1 &'], timeout=15)
+                        sys.stdout.write("[!] Neustart-Befehl gesendet. Warte 25s...\n")
+                        sys.stdout.flush()
+                        time.sleep(25)
+                    except Exception:
+                        pass
+
+                msg = f"[{target_lang}] Connection failed (attempt {attempt+1}/{max_retries}): {err_str}. Retrying in {wait_time}s...\n"
                 sys.stdout.write(msg)
                 sys.stdout.flush()
                 time.sleep(wait_time)

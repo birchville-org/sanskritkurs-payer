@@ -17,3 +17,4 @@ start_translation.sh
 .claude/
 .gsd/
 README_GSD_PROJ_INIT.md
+author-server/node_modules
