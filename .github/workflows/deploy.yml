@@ -36,7 +36,7 @@ jobs:
 
       - name: Build VitePress (Public)
         run: |
-          npm ci
+          npm install
           VITEPRESS_ENV=public npm run docs:build
           mv docs/.vitepress/dist docs/.vitepress/dist-public
 
