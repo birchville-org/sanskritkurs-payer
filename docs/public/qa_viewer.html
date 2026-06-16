@@ -1206,7 +1206,7 @@
             if (e.data.type === 'getTheme') { syncThemeToFrames(); return; }
             if (syncMode === 'off') return;
         if (viewMode === 'raw') return; // Raw sync handled by textarea listeners below
-            if (e.source !== leftFrame.contentWindow) return; // ignore right frame
+            if (e.data.from !== 'left') return; // ignore messages from right frame
 
             if (e.data.type === 'scroll') {
                 if (isSyncing) return;
@@ -1338,6 +1338,12 @@
                     const THRESHOLD = 70;
                     let debounce = null, lastHeader = null;
                     function getHeaders() {
+                        if (window.location.pathname.includes('/qa/')) {
+                            const b = Array.from(document.querySelectorAll('b,strong')).filter(el =>
+                                /^\\d+(\\.\\d+)*\\.?\\s+\\S/.test((el.innerText||'').trim())
+                            );
+                            if (b.length > 0) return b;
+                        }
                         const h = Array.from(document.querySelectorAll('h1,h2,h3,h4,h5,h6'));
                         if (h.length >= 2) return h;
                         return Array.from(document.querySelectorAll('b,strong')).filter(el =>
@@ -1363,7 +1369,8 @@
                                 type: 'scroll',
                                 pct: window.scrollY / Math.max(1, scrollH - window.innerHeight),
                                 activeHeader: active,
-                                atBottom: atBottom
+                                atBottom: atBottom,
+                                from: 'left'
                             }, '*');
                         }, 200);
                     }, { passive: true });
