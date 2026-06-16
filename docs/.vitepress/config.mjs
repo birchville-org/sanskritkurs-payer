@@ -144,12 +144,18 @@ he.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'he')
 he.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'he', 10)
 
 const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
+const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, zhCN, zhTW, th, he];
 
 if (!isAuthorBuild) {
-  const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, zhCN, zhTW, th, he];
   for (const localeObj of allLocales) {
     if (localeObj.themeConfig && localeObj.themeConfig.nav) {
       localeObj.themeConfig.nav = localeObj.themeConfig.nav.filter(item => item.text !== 'QA');
+    }
+  }
+} else {
+  for (const localeObj of allLocales) {
+    if (localeObj.themeConfig && localeObj.themeConfig.nav) {
+      localeObj.themeConfig.nav.push({ text: 'Author Logout', link: 'https://auth.birchville.cc/logout', target: '_self' });
     }
   }
 }
