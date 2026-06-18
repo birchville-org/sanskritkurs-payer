@@ -8,7 +8,8 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "NODE_OPTIONS=--max-old-space-size=8192 vitepress build docs",
     "postdocs:build": "node scripts/gen_locale_manifests.mjs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "prepare": "husky"
   },
   "dependencies": {
     "iconv-lite": "^0.6.3",
@@ -19,6 +20,7 @@
     "turndown-plugin-gfm": "^1.0.2"
   },
   "devDependencies": {
+    "husky": "^9.1.7",
     "jsdom": "^29.1.1",
     "markdown-it-attrs": "^5.0.0",
     "playwright": "^1.60.0",
