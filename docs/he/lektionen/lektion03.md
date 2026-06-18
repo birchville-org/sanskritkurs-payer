@@ -1,223 +1,270 @@
 ---
-title: Lesson 3
-subtitle: "The nominative singular of the feminine"
+title: שיעור 3
+subtitle: "הזכר היחיד של הנקבה"
 lesson_id: 3
 last_reconstructed: 2026-05-07
-category: "Grammar"
+category: "דקדוק"
 status: stable
 ---
 
-# Lesson 3
+# שיעור 3
+
+
 
 ::: deleteme-box
-**In this lesson, you will learn:**
-- the nominative singular of the feminine
-- the nominative plural of the masculine and feminine
-- the formation of the feminine from masculines
-- vowel sandhi
-- Sentence sandhi of -ās
+**בשיעור זה תלמדו:**
+- יחיד מין נקבה במשקל נומינטיב
+- רבים מין זכר ונקבה במשקל נומינטיב
+- בניין מין נקבה לזכר
+- ווקאל סנדה
+- Satzsandhi von -ās
 :::
 
-## 3.1. Nominative Singular of the Feminine
+:::
 
-### 3.1.1. Nominative Singular ending in -s
+## 3.1. יחיד זכר של נקבה
 
-The following nominal stems, which end in a vowel, also form the nominative singular with **-s**:
+### 3.1.1. יחיד נוקב על -ס
+
+::: info
+**Hinweis:** Die Endung **-s** im Nominativ Singular ist charakteristisch für einige Substantivklassen, insbesondere für solche, die auf einen Konsonanten enden.
+:::
+
+⟨DEVA_1⟩ ⟨IAST_L_1⟩ [[br]] ⟨DEVA_2⟩ ⟨IAST_L_2⟩ [[br]] ⟨DEVA_3⟩ ⟨IAST_L_3⟩ [[br]] ⟨DEVA_4⟩ ⟨IAST_L_4⟩ [[br]] ⟨DEVA_5⟩ ⟨IAST_L_5⟩ [[br]] ⟨DEVA_6⟩ ⟨IAST_L_6⟩ [[br]] ⟨DEVA_7⟩ ⟨IAST_L_7⟩ [[br]] ⟨DEVA_8⟩ ⟨IAST_L_8⟩ [[br]] ⟨DEVA_9⟩ ⟨IAST_L_9⟩ [[br]] ⟨DEVA_10⟩ ⟨IAST_L_10⟩ [[br]] ⟨DEVA_11⟩ ⟨IAST_L_11⟩ [[br]] ⟨DEVA_12⟩ ⟨IAST_L_12⟩ [[br]] ⟨DEVA_13⟩ ⟨IAST_L_13⟩ [[br]] ⟨DEVA_14⟩ ⟨IAST_L_14⟩ [[br]] ⟨DEVA_15⟩ ⟨IAST_L_15⟩ [[br]] ⟨DEVA_16⟩ ⟨IAST_L_16⟩ [[br]] ⟨DEVA_17⟩ ⟨IAST_L_17⟩ [[br]] ⟨DEVA_18⟩ ⟨IAST_L_18⟩ [[br]] ⟨DEVA_19⟩ ⟨IAST_L_19⟩ [[br]] ⟨DEVA_20⟩ ⟨IAST_L_20⟩ [[br]] ⟨DEVA_21⟩ ⟨IAST_L_21⟩ [[br]] ⟨DEVA_22⟩ ⟨IAST_L_22⟩ [[br]] ⟨DEVA_23⟩ ⟨IAST_L_23⟩ [[br]] ⟨DEVA_24⟩ ⟨IAST_L_24⟩ [[br]] ⟨DEVA_25⟩ ⟨IAST_L_25⟩ [[br]] ⟨DEVA_26⟩ ⟨IAST_L_26⟩ [[br]] ⟨DEVA_27⟩ ⟨IAST_L_27⟩ [[br]] ⟨DEVA_28⟩ ⟨IAST_L_28⟩ [[br]] ⟨DEVA_29⟩ ⟨IAST_L_29⟩ [[br]] ⟨DEVA_30⟩ ⟨IAST_L_30⟩ [[br]] ⟨DEVA_31⟩ ⟨IAST_L_31⟩ [[br]] ⟨DEVA_32⟩ ⟨IAST_L_32⟩ [[br]] ⟨DEVA_33⟩ ⟨IAST_L_33⟩ [[br]] ⟨DEVA_34⟩ ⟨IAST_L_34⟩ [[br]] ⟨DEVA_35⟩ ⟨IAST_L_35⟩ [[br]] ⟨DEVA_36⟩ ⟨IAST_L_36⟩ [[br]] ⟨DEVA_37⟩ ⟨IAST_L_37⟩ [[br]] ⟨DEVA_38⟩ ⟨IAST_L_38⟩ [[br]] ⟨DEVA_39⟩ ⟨IAST_L_39⟩ [[br]] ⟨DEVA_40⟩ ⟨IAST_L_40⟩ [[br]] ⟨DEVA_41⟩ ⟨IAST_L_41⟩ [[br]] ⟨DEVA_42⟩ ⟨IAST_L_42⟩ [[br]] ⟨DEVA_43⟩ ⟨IAST_L_43⟩ [[br]] ⟨DEVA_44⟩ ⟨IAST_L_44⟩ [[br]] ⟨DEVA_45⟩ ⟨IAST_L_45⟩ [[br]] ⟨DEVA_46⟩ ⟨IAST_L_46⟩ [[br]] ⟨DEVA_47⟩ ⟨IAST_L_47⟩ [[br]] ⟨DEVA_48⟩ ⟨IAST_L_48⟩ [[br]] ⟨DEVA_49⟩ ⟨IAST_L_49⟩ [[br]] ⟨DEVA_50⟩ ⟨IAST_L_50⟩ [[br]] ⟨DEVA_51⟩ ⟨IAST_L_51⟩ [[br]] ⟨DEVA_52⟩ ⟨IAST_L_52⟩ [[br]] ⟨DEVA_53⟩ ⟨IAST_L_53⟩ [[br]] ⟨DEVA_54⟩ ⟨IAST_L_54⟩ [[br]] ⟨DEVA_55⟩ ⟨IAST_L_55⟩ [[br]] ⟨DEVA_56⟩ ⟨IAST_L_56⟩ [[br]] ⟨DEVA_57⟩ ⟨IAST_L_57⟩ [[br]] ⟨DEVA_58⟩ ⟨IAST_L_58⟩ [[br]] ⟨DEVA_59⟩ ⟨IAST_L_59⟩ [[br]] ⟨DEVA_60⟩ ⟨IAST_L_60⟩ [[br]] ⟨DEVA_61⟩ ⟨IAST_L_61⟩ [[br]] ⟨DEVA_62⟩ ⟨IAST_L_62⟩ [[br]] ⟨DEVA_63⟩ ⟨IAST_L_63⟩ [[br]] ⟨DEVA_64⟩ ⟨IAST_L_64⟩ [[br]] ⟨DEVA_65⟩ ⟨IAST_L_65⟩ [[br]] ⟨DEVA_66⟩ ⟨IAST_L_66⟩ [[br]] ⟨DEVA_67⟩ ⟨IAST_L_67⟩ [[br]] ⟨DEVA_68⟩ ⟨IAST_L_68⟩ [[br]] ⟨DEVA_69⟩ ⟨IAST_L_69⟩ [[br]] ⟨DEVA_70⟩ ⟨IAST_L_70⟩ [[br]] ⟨DEVA_71⟩ ⟨IAST_L_71⟩ [[br]] ⟨DEVA_72⟩ ⟨IAST_L_72⟩ [[br]] ⟨DEVA_73⟩ ⟨IAST_L_73⟩ [[br]] ⟨DEVA_74⟩ ⟨IAST_L_74⟩ [[br]] ⟨DEVA_75⟩ ⟨IAST_L_75⟩ [[br]] ⟨DEVA_76⟩ ⟨IAST_L_76⟩ [[br]] ⟨DEVA_77⟩ ⟨IAST_L_77⟩ [[br]] ⟨DEVA_78⟩ ⟨IAST_L_78⟩ [[br]] ⟨DEVA_79⟩ ⟨IAST_L_79⟩ [[br]] ⟨DEVA_80⟩ ⟨IAST_L_80⟩ [[br]] ⟨DEVA_81⟩ ⟨IAST_L_81⟩ [[br]] ⟨DEVA_82⟩ ⟨IAST_L_82⟩ [[br]] ⟨DEVA_83⟩ ⟨IAST_L_83⟩ [[br]] ⟨DEVA_84⟩ ⟨IAST_L_84⟩ [[br]] ⟨DEVA_85⟩ ⟨IAST_L_85⟩ [[br]] ⟨DEVA_86⟩ ⟨IAST_L_86⟩ [[br]] ⟨DEVA_87⟩ ⟨IAST_L_87⟩ [[br]] ⟨DEVA_88⟩ ⟨IAST_L_88⟩ [[br]] ⟨DEVA_89⟩ ⟨IAST_L_89⟩ [[br]] ⟨DEVA_90⟩ ⟨IAST_L_90⟩ [[br]] ⟨DEVA_91⟩ ⟨IAST_L_91⟩ [[br]] ⟨DEVA_92⟩ ⟨IAST_L_92⟩ [[br]] ⟨DEVA_93⟩ ⟨IAST_L_93⟩ [[br]] ⟨DEVA_94⟩ ⟨IAST_L_94⟩ [[br]] ⟨DEVA_95⟩ ⟨IAST_L_95⟩ [[br]] ⟨DEVA_96⟩ ⟨IAST_L_96⟩ [[br]] ⟨DEVA_97⟩ ⟨IAST_L_97⟩ [[br]] ⟨DEVA_98⟩ ⟨IAST_L_98⟩ [[br]] ⟨DEVA_99⟩ ⟨IAST_L_99⟩ [[br]] ⟨DEVA_100⟩ ⟨IAST_L_100⟩ [[br]] ⟨DEVA_101⟩ ⟨IAST_L_101⟩ [[br]] ⟨DEVA_102⟩ ⟨IAST_L_102⟩ [[br]] ⟨DEVA_103⟩ ⟨IAST_L_103⟩ [[br]] ⟨DEVA_104⟩ ⟨IAST_L_104⟩ [[br]] ⟨DEVA_105⟩ ⟨IAST_L_105⟩ [[br]] ⟨DEVA_106⟩ ⟨IAST_L_106⟩ [[br]] ⟨DEVA_107⟩ ⟨IAST_L_107⟩ [[br]] ⟨DEVA_108⟩ ⟨IAST_L_108⟩ [[br]] ⟨DEVA_109⟩ ⟨IAST_L_109⟩ [[br]] ⟨DEVA_110⟩ ⟨IAST_L_110⟩ [[br]] ⟨DEVA_111⟩ ⟨IAST_L_111⟩ [[br]] ⟨DEVA_112⟩ ⟨IAST_L_112⟩ [[br]] ⟨DEVA_113⟩ ⟨IAST_L_113⟩ [[br]] ⟨DEVA_114⟩ ⟨IAST_L_114⟩ [[br]] ⟨DEVA_115⟩ ⟨IAST_L_115⟩ [[br]] ⟨DEVA_116⟩ ⟨IAST_L_116⟩ [[br]] ⟨DEVA_117⟩ ⟨IAST_L_117⟩ [[br]] ⟨DEVA_118⟩ ⟨IAST_L_118⟩ [[br]] ⟨DEVA_119⟩ ⟨IAST_L_119⟩ [[br]] ⟨DEVA_120⟩ ⟨IAST_L_120⟩ [[br]] ⟨DEVA_121⟩ ⟨IAST_L_121⟩ [[br]] ⟨DEVA_122⟩ ⟨IAST_L_122⟩ [[br]] ⟨DEVA_123⟩ ⟨IAST_L_123⟩ [[br]] ⟨DEVA_124⟩ ⟨IAST_L_124⟩ [[br]] ⟨DEVA_125⟩ ⟨IAST_L_125⟩ [[br]] ⟨DEVA_126⟩ ⟨IAST_L_126⟩ [[br]] ⟨DEVA_127⟩ ⟨IAST_L_127⟩ [[br]] ⟨DEVA_128⟩ ⟨IAST_L_128⟩ [[br]] ⟨DEVA_129⟩ ⟨IAST_L_129⟩ [[br]] ⟨DEVA_130⟩ ⟨IAST_L_130⟩ [[br]] ⟨DEVA_131⟩ ⟨IAST_L_131⟩ [[br]] ⟨DEVA_132⟩ ⟨IAST_L_132⟩ [[br]] ⟨DEVA_133⟩ ⟨IAST_L_133⟩ [[br]] ⟨DEVA_134⟩ ⟨IAST_L_134⟩ [[br]] ⟨DEVA_135⟩ ⟨IAST_L_135⟩ [[br]] ⟨DEVA_136⟩ ⟨IAST_L_136⟩ [[br]] ⟨DEVA_137⟩ ⟨IAST_L_137⟩ [[br]] ⟨DEVA_138⟩ ⟨IAST_L_138⟩ [[br]] ⟨DEVA_139⟩ ⟨IAST_L_139⟩ [[br]] ⟨DEVA_140⟩ ⟨IAST_L_140⟩ [[br]] ⟨DEVA_141⟩ ⟨IAST_L_141⟩ [[br]] ⟨DEVA_142⟩ ⟨IAST_L_142⟩ [[br]] ⟨DEVA_143⟩ ⟨IAST_L_143⟩ [[br]] ⟨DEVA_144⟩ ⟨IAST_L_144⟩ [[br]] ⟨DEVA_145⟩ ⟨IAST_L_145⟩ [[br]] ⟨DEVA_146⟩ ⟨IAST_L_146⟩ [[br]] ⟨DEVA_147⟩ ⟨IAST_L_147⟩ [[br]] ⟨DEVA_148⟩ ⟨IAST_L_148⟩ [[br]] ⟨DEVA_149⟩ ⟨IAST_L_149⟩ [[br]] ⟨DEVA_150⟩ ⟨IAST_L_150⟩ [[br]] ⟨DEVA_151⟩ ⟨IAST_L_151⟩ [[br]] ⟨DEVA_152⟩ ⟨IAST_L_152⟩ [[br]] ⟨DEVA_153⟩ ⟨IAST_L_153⟩ [[br]] ⟨DEVA_154⟩ ⟨IAST_L_154⟩ [[br]] ⟨DEVA_155⟩ ⟨IAST_L_155⟩ [[br]] ⟨DEVA_156⟩ ⟨IAST_L_156⟩ [[br]] ⟨DEVA_157⟩ ⟨IAST_L_157⟩ [[br]] ⟨DEVA_158⟩ ⟨IAST_L_158⟩ [[br]] ⟨DEVA_159⟩ ⟨IAST_L_159⟩ [[br]] ⟨DEVA_160⟩ ⟨IAST_L_160⟩ [[br]] ⟨DEVA_161⟩ ⟨IAST_L_161⟩ [[br]] ⟨DEVA_162⟩ ⟨IAST_L_162⟩ [[br]] ⟨DEVA_163⟩ ⟨IAST_L_163⟩ [[br]] ⟨DEVA_164⟩ ⟨IAST_L_164⟩ [[br]] ⟨DEVA_165⟩ ⟨IAST_L_165⟩ [[br]] ⟨DEVA_166⟩ ⟨IAST_L_166⟩ [[br]] ⟨DEVA_167⟩ ⟨IAST_L_167⟩ [[br]] ⟨DEVA_168⟩ ⟨IAST_L_168⟩ [[br]] ⟨DEVA_169⟩ ⟨IAST_L_169⟩ [[br]] ⟨DEVA_170⟩ ⟨IAST_L_170⟩ [[br]] ⟨DEVA_171⟩ ⟨IAST_L_171⟩ [[br]] ⟨DEVA_172⟩ ⟨IAST_L_172⟩ [[br]] ⟨DEVA_173⟩ ⟨IAST_L_173⟩ [[br]] ⟨DEVA_174⟩ ⟨IAST_L_174⟩ [[br]] ⟨DEVA_175⟩ ⟨IAST_L_175⟩ [[br]] ⟨DEVA_176⟩ ⟨IAST_L_176⟩ [[br]] ⟨DEVA_177⟩ ⟨IAST_L_177⟩ [[br]] ⟨DEVA_178⟩ ⟨IAST_L_178⟩ [[br]] ⟨DEVA_179⟩ ⟨IAST_L_179⟩ [[br]] ⟨DEVA_180⟩ ⟨IAST_L_180⟩ [[br]] ⟨DEVA_181⟩ ⟨IAST_L_181⟩ [[br]] ⟨DEVA_182⟩ ⟨IAST_L_182⟩ [[br]] ⟨DEVA_183⟩ ⟨IAST_L_183⟩ [[br]] ⟨DEVA_184⟩ ⟨IAST_L_184⟩ [[br]] ⟨DEVA_185⟩ ⟨IAST_L_185⟩ [[br]] ⟨DEVA_186⟩ ⟨IAST_L_186⟩ [[br]] ⟨DEVA_187⟩ ⟨IAST_L_187⟩ [[br]] ⟨DEVA_188⟩ ⟨IAST_L_188⟩ [[br]] ⟨DEVA_189⟩ ⟨IAST_L_189⟩ [[br]] ⟨DEVA_190⟩ ⟨IAST_L_190⟩ [[br]] ⟨DEVA_191⟩ ⟨IAST_L_191⟩ [[br]] ⟨DEVA_192⟩ ⟨IAST_L_192⟩ [[br]] ⟨DEVA_193⟩ ⟨IAST_L_193⟩ [[br]] ⟨DEVA_194⟩ ⟨IAST_L_194⟩ [[br]] ⟨DEVA_195⟩ ⟨IAST_L_195⟩ [[br]] ⟨DEVA_196⟩ ⟨IAST_L_196⟩ [[br]] ⟨DEVA_197⟩ ⟨IAST_L_197⟩ [[br]] ⟨DEVA_198⟩ ⟨IAST_L_198⟩ [[br]] ⟨DEVA_199⟩ ⟨IAST_L_199⟩ [[br]] ⟨DEVA_200⟩ ⟨IAST_L_200⟩ [[br]] ⟨DEVA_201⟩ ⟨IAST_L_201⟩ [[br]] ⟨DEVA_202⟩ ⟨IAST_L_202⟩ [[br]] ⟨DEVA_203⟩ ⟨IAST_L_203⟩ [[br]] ⟨DEVA_204⟩ ⟨IAST_L_204⟩ [[br]] ⟨DEVA_205⟩ ⟨IAST_L_205⟩ [[br]] ⟨DEVA_206⟩ ⟨IAST_L_206⟩ [[br]] ⟨DEVA_207⟩ ⟨IAST_L_207⟩ [[br]] ⟨DEVA_208⟩ ⟨IAST_L_208⟩ [[br]] ⟨DEVA_209⟩ ⟨IAST_L_209⟩ [[br]] ⟨DEVA_210⟩ ⟨IAST_L_210⟩ [[br]] ⟨DEVA_211⟩ ⟨IAST_L_211⟩ [[br]] ⟨DEVA_212⟩ ⟨IAST_L_212⟩ [[br]] ⟨DEVA_21
+
+כמו כן, שורשי שם עצם הבאים בסיום בתנובה, יוצרים את הנominative היחיד עם **-s**:
+
+
 
 ::: grammar-box
-- **Feminines in -i**: e.g., **śruti** f. "hearing" -- Nom. sg.: **śrutis** = श्रुतिस्
-- **Feminines in -u**: e.g., **dhenu** f. "milch cow" -- Nom. sg.: **dhenus** = धेनुस्
+- **נקבות בסיומת -i**: למשל **śruti** נ' "השמעה" -- נק' יח': **śrutis** = श्रुतिस्
+- **נקבות בסיומת -u**: למשל **dhenu** נ' "פרה מניקה" -- נק' יח': **dhenus** = धेनुस्
+
 :::
 
-### 3.1.2. Nominative Singular without Ending
+### 3.1.2. יחיד נוקב ללא סיומת
 
-The nominative singular is formed without an ending:
+נוצר ללא סיומת:
+
+
 
 ::: grammar-box
-- **Feminines in -ā**: e.g. **devatā** f. "deity" -- Nom. sg.: **devatā** = देवता
-- **Feminines in -ī**: e.g. **devī** f. "goddess" -- Nom. sg.: **devī** = देवी
+- **נקבות בסיומת -ā**: למשל **devatā** נק' "אלוהות" -- נק' יח': **devatā** = देवता
+- **נקבות בסיומת -ī**: למשל **devī** נק' "אלוהה" -- נק' יח': **devī** = देवी
+
 :::
+
+
 
 ::: important
-**Attention!** In addition, there are monosyllabic feminine root nouns in -ī, whose nominative singular ends in -s: e.g. dhī f. "thought" -- Nom. sg.: dhīs = धीस्. Also lakṣmī (लक्ष्मी) f., tarī (तरी) f. "boat" and tantrī (तन्त्री) f. "string" form the nominative singular irregularly with -s: lakṣmīs = लक्ष्मीस्.
+**שימו לב!** במקביל, יש שם-שורש נקבי חד-הברתי עם -ī, שבהגינה הנרטיבית היחידה מסתיימת ב-s: למשל, dhī f. "מחשבה" -- Nom. sg.: dhīs = धीस्. כמו כן, lakṣmī (लक्ष्मी) f., tarī (तरी) f. "סירה" ו- tantrī (तन्त्री) f. "מיתר" יוצרים באופן לא סדיר את ההגינה הנרטיבית היחידה עם -s: lakṣmīs = लक्ष्मीस्.
+
 :::
 
 ---
 
-## 3.2. Formation of Feminines from Masculines
+## 3.2. יצירת נקבות לזכרים
+
+
 
 ::: grammar-box
-**Masculines in -a:**
-- **Feminine in -ā**: e.g. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriya woman" = क्षत्रिया
-- **Feminine in -ī**: e.g. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmana woman" = ब्राह्मणी
+**זכרים הסוגים בסוף -a:**
+- **נקבות בסוף -ā**: למשל, **kṣatriya** ז. » **kṣatriyā** נ. "אישה כשוטרי" = क्षत्रिया
+- **נקבות בסוף -ī**: למשל, **brāhmaṇa** ז. » **brāhmaṇī** נ. "ברמנית" = ब्राह्मणी
 
-**Masculines in -u:**
-- **Feminine in -ī**: e.g. **sādhu** m. » **sādhvī** f. (good, holy woman) = साध्वी
-  (**-u-** becomes **-v-** before a vowel, hence **-u- + -ī** » **-vī**)
+**זכרים הסופים ב-:**
+- **נקבות הסופות ב-ī**: למשל, **sādhu** ז. » **sādhvī** נ. (טוב, קדוש) = साध्वी
+  (**-u-** הופך ל-**v-** לפני תנועה, ולכן **-u- + -ī** » **-vī**)
+
 :::
 
 ---
 
-## 3.3. Nominative Plural Masculine and Feminine
+## 3.3. רבים לזכר ולנקבה במישור
+
+
 
 ::: grammar-box
-The ending of the Nominative Plural in the Masculine and Feminine is **-as**.
-- **Masculines in -a**: **deva- + -as** » **devās** = देवास्
-- **Feminines in -ā**: **devatā- + -as** » **devatās** = देवतास्
-- **Masculines in -i**: **kavi-** » **kave- + -as** » **kavayas** = कवयस्
-- **Feminines in -i**: **śruti-** » **śrute- + -as** » **śrutayas** = श्रुतयस्
-- **Feminines in -ī**: **devī- + -as** » **devyas** = देव्यस्
-- **Masculines in -u**: **guru-** » **guro- + -as** » **guravas** = गुरवस्
-- **Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्
+סיום הרבים בנominative בזכר ובנקבה הוא **-as**.
+- **זכרים המסתיימים ב-a**: **deva- + -as** » **devās** = देवास्
+- **נקבות המסתיימות ב-ā**: **devatā- + -as** » **devatās** = देवतास्
+- **זכרים המסתיימים ב-i**: **kavi-** » **kave- + -as** » **kavayas** = कवयस्
+- **נקבות המסתיימות ב-i**: **śruti-** » **śrute- + -as** » **śrutayas** = श्रुतयस्
+- **נקבות המסתיימות ב-ī**: **devī- + -as** » **devyas** = देव्यस्
+- **זכרים המסתיימים ב-u**: **guru-** » **guro- + -as** » **guravas** = गुरवस्
+- **נקבות המסתיימות ב-u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्
+
 :::
 
-Note: **e** is the strong grade (**guṇa**) of **i**, **o** is the strong grade of **u**.
+הערה: **e** היא צורה מוגברת (**guṇa**) של **i**, **o** היא צורה מוגברת של **u**.
 
 ---
 
-## 3.4. Vocal Sandhi
+## 3.4. סנדה של תנועות
+
+
 
 ::: grammar-box
-**Simple vowels that differ not at all or only in their length "merge" into the corresponding long vowel:**
+**תנועות פשוטות, שאינן נבדלות זו מזו אלא באורך בלבד, "מתמזגות" לתנועה ארוכה מתאימה:**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
+
 :::
 
-e.g.
+למשל
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā is a deity" = देवतान्नपूर्णा
+devatā + annapūrṇā » devatānnapūrṇā «אלוהה אנפורנה היא אלה» = देवतान्नपूर्णा
 
-> (Annapūrṇā is the goddess of food and cooking; she is regarded as an embodiment of Pārvatī, the consort of Śiva.)
+> (אננפורנה היא אלת המזון והבישול, נחשבת לגילום של פארבתי, אשת שיבה.)
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī is a goddess" = देवीन्द्राणी
+דֵוִי + אינדרָאֲנִי » דֵוִיאינדרָאֲנִי "אינדרָאֲנִי היא אלהה" = देवीन्द्राणी
 
-> (Indrāṇī is the consort of the god Indra.)
+> (אינדראני היא אשת האל אינדרה.)
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0301.webp)
-Fig.: Indra and Indrāṇī on the elephant Airavata, miniature, Rājasthān, 1670/80
-(Image source: [Details](/en/licenses#lekt0301))
+איור: אינדרה ואינדרני על הפיל איאראווטה, מיניאטורה, ראג'סטאן, 1670/80
+(מקור התמונה: [פרטים](/he/licenses#lekt0301))
+
 :::
+
+
 
 ::: grammar-box
-**Simple vowels (except -a / -ā) are replaced by the corresponding semivowel before dissimilar vowels:**
+**תנועות פשוטות (למעט -a / -ā) מוחלפות באמצע קול מתאים לפני תנועות לא דומות:**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
-(!! There are exceptions to this rule, particularly for dual forms !!)
+(!! לכלל זה יש חריגות, במיוחד לצורות זוגיות !!)
 :::
 
-e.g.
+:::
 
-devī + umā » devy umā "Umā is a / the goddess" = देव्युमा
+למשל
 
-> (Umā is a name for Pārvatī, the consort of Śiva)
+דֵוִי + אוּמָה » דֵוִי אוּמָה "אומה היא / היא האלה" = देव्युमा
+
+> (אומה הוא שם לפארבטי, אשת שיבה)
+
+
 
 ::: grammar-box
-**-a / -ā before dissimilar vowel:**
+**-a / -ā לפני תנועה לא דומה:**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
+
 :::
 
-For this sandhi, the following scheme applies:
+לשנידה זו חל התבנית הבאה:
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0302.jpg)
-(Image source: [Details](/en/licenses#lekt0302))
+(מקור התמונה: [פרטים](/he/licenses#lekt0302))
+
 :::
 
-See later regarding this so-called stem gradation!
+לגבי דרגת השבט הנ"ל ראה להלן!
 
-e.g.
+למשל
 
-śūdrā + itarā » śudretarā "Itarā is a Śūdra woman" = शूद्रेतरा
+שׁוּדְרָה + אִיתָרָה » שׁוּדְרֵתָרָה "איטרה היא שׁודרה" = शूद्रेतरा
 
 ---
 
-## 3.5. Sentence sandhi of -ās
+## 3.5. סנדס משפט של -ās
+
+
 
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+
 :::
 
-e.g.
+למשל
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are twice-born" = द्विजा वैश्याः
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "וישיה הם בני שתי לידות" = द्विजा वैश्याः
 
 ---
 
-## 3.6. Word List
+## 3.6. מילון מילים
 
-**Learn the following words:**
+**למדו את המילים הבאות:**
 
-**śruti** f. = श्रुति : hearing, the eternal tradition (designation for the Vedas and Brāhmaṇas).
+**śruti** f. = श्रुति : השמעה, המסורת הנצחית (כינוי לוודות ולבראהמנות).
 
-**smṛti** f. = स्मृति : visualization, memory, meditative visualization = mindfulness, tradition (counter-concept to **śruti**). Encompasses:
-- the six **vedāṅga** n. (वेदाङ्ग)
-  1. **śikṣā** f. (शिक्षा): correct pronunciation
-  2. **chandas** n. (छन्दस्): meter
-  3. **vyākaraṇa** n. (व्याकरण): grammar
-  4. **nirukta** n. (निरुक्त) : word explanation, etymology
-  5. **jyotiṣa** n. (ज्योतिष) : astronomy, calendar science
-  6. **kalpa** m. (कल्प) : ceremonial rites
-- **śrautasūtra** n. (श्रौतसूत्र) : treatises on the performance of great sacrifices
-- **gṛhyasūtra** n. (गृह्यसूत्र) : treatises on the ceremonies and sacrifices of daily life
-- **dharmasūtra** n. (धर्मसूत्र) and **dharmaśāstra** n. (धर्मशास्त्र) : treatises on law and custom (right conduct)
-- the great epics **mahābhārata** n. (महाभारत) and **rāmāyaṇa** n. (रामायण)
-- the **purāṇa** n. (पुराण)
-- **nītiśāstra** n. (नीतिशास्त्र) : treatises on practical wisdom
+**smṛti** f. = स्मृति : הוכרה, זיכרון, התבוננות מדיטיבית = מודעות, מסורת (ניגוד ל-**śruti**). כוללת:
+- את ששת ה-**vedāṅga** n. (वेदाङ्ग)
+  1. **śikṣā** f. (शिक्षा): הגייה נכונה
+  2. **chandas** n. (छन्दस्): מטרים
+  3. **vyākaraṇa** n. (व्याकरण): דקדוק
+  4. **nirukta** n. (निरुक्त) : פירוש מילים, אטימולוגיה
+  5. **jyotiṣa** n. (ज्योतिष) : אסטרונומיה, לימוד הלוח
+  6. **kalpa** m. (कल्प) : טקסים
+- **śrautasūtra** n. (श्रौतसूत्र) : ספרי לימוד לביצוע הקורבנות הגדולים
+- **gṛhyasūtra** n. (गृह्यसूत्र) : ספרי לימוד לטקסים וקורבנות של החיים היומיומיים
+- **dharmasūtra** n. (धर्मसूत्र) ו-**dharmaśāstra** n. (धर्मशास्त्र) : ספרי לימוד על משפט ומנהג (התנהגות נכונה)
+- האפוסים הגדולים **mahābhārata** n. (महाभारत) ו-**rāmāyaṇa** n. (रामायण)
+- ה-**purāṇa** n. (पुराण)
+- **nītiśāstra** n. (नीतिशास्त्र) : ספרי לימוד של חכמת החיים
 
-**smṛti** is also a particular designation for Dharma treatises.
+**smṛti** היא גם כן כינוי לספרי הלכות.
 
-**dhenu** f. = धेनु : (milk) cow.
+**dhenu** f. = धेनु : פָּרָה (חָלָב).
 
-**paśu** m. = पशु : domesticated livestock, cattle (collective noun).
+**paśu** מ' = पशु : בהמה מבויתת, מקנה (קולקטיב).
 
-**devatā** f. = देवता : deity (abstract and concrete).
+**devatā** נ' = देवता : אלוהות (במובן המופשט והקונקרטי).
 
-**brāhmaṇī** f. = ब्राह्मणी : Brahmana woman.
+**brāhmaṇī** f. = ब्राह्मणी : ברהמינית.
 
-**kṣatriyā** f. = क्षत्रिया : female Kṣatriya.
+**kṣatriyā** f. = क्षत्रिया : קְשַׁטְרִיָּה נשית.
 
-**kṣatriyī** f. = क्षत्रियी : wife of a Kṣatriya.
+**kṣatriyī** נק' = क्षत्रियी : אשת קְשַׁטְרִיָּה.
 
-**vaiśyā** f. = वैश्या : female Vaiśya.
+**vaiśyā** f. = वैश्या : אישה מהווישׁיה.
 
-**śūdrā** f. = शूद्रा : female Śūdra.
+**śūdrā** f. = शूद्रा : שׁוּדְרָה נשית.
 
-**śūdrī** f. / **śūdrāṇī** f. = शूद्री शूद्राणी : wife of a Śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = शूद्री शूद्राणी : אשת שׁוּדְרָה.
 
-**devī** f. = देवी : goddess, esp. Durgā f. = दुर्गा, the consort of Śiva = शिव.
+**devī** נ' = देवी : אלהה, במיוחד דורגה נ' = दुर्गा, רעיית שיבה = शिव.
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0303.webp)
-Fig.: Durgā = दुर्गा, Orissa
-(Image source: [Details](/images/lekt0303))
+איור: דורגה = दुर्गा, אוריסה
+(מקור התמונה: [פרטים](/images/lekt0303))
+
 :::
 
-**sādhvī** f. = साध्वी : fem. of sādhu.
+**סָדְהוּוִי** f. = साध्वी : נקבה של sādhu.
 
-**gurvī** f. = गुर्वी : fem. of guru.
+**gurvī** f. = गुर्वी : נקבה של guru.
 
-**asmitā** f. = अस्मिता : "I-am-ness", i.e., the (false) belief: **I** am the one who sees, etc.
+**אסמיטה** f. = अस्मिता : "היות 'אני'", כלומר האמונה (השגויה) כי **אני** הוא זה שרואי וכו'.
 
-**ānvīkṣikī** f. = आन्वीक्षिकी : philosophy (the science that arrives at its conclusions through logically correct reasoning).
+**ānvīkṣikī** f. = आन्वीक्षिकी : פילוסופיה (המדע שמגיע למסקנותיו באמצעות נימוקים לוגיים תקינים).
 
-**upekṣā** f. = उपेक्षा : non-attention, equanimity.
+**upekṣā** f. = उपेक्षा : התעלמות, שיוויון.
 
-**karuṇā** f. = करुणा : compassion, pity.
+**karuṇā** f. = करुणा : רחמים, חמלה.
 
-**muditā** f. = मुदिता : joy, specifically sympathetic joy (opposite of envy).
+**muditā** f. = मुदिता : שמחה, במיוחד שמחה משותפת (ניגוד לenvy).
 
 ---
 
-## 3.7. Exercise
+## 3.7. תרגיל
 
-**A) Put the following sentences into the plural:**
+**א) הפכו את המשפטים הבאים לרבים:**
 
 1. dvijo brāhmaṇaḥ = द्विजो ब्राह्मणः
 2. dvijaḥ kṣatriyaḥ = द्विजः क्षत्रियः
@@ -230,26 +277,27 @@ Fig.: Durgā = दुर्गा, Orissa
 9. paśur dhenuḥ = पशुर्धेनुः
 10. gurvī sādhvī = गुर्वी साध्वी
 
-**B) Form nominal sentences by inserting:**
+**ב) צרו משפטים שמיים על ידי הוספה:**
 
-1. śrutis ... (veda) = श्रुतिस् ... वेद
-2. paśus ... (dhenu) = पशुस् ... धेनु
-3. devī ... (durgā, umā, indrāṇī) = देवी ... दुर्गा, उमा, इन्द्राणी
-4. devatā ... (mīnākṣī, annapūrṇā) = देवता ... मीनाक्षी, अन्नपूर्णा
-5. śūdrā ... (itarā) = शूद्रा ... इतरा
+1. שְׁרוּטִיס ... (וֵדָה) = श्रुतिस् ... वेद
+2. פָּשּׁוּס ... (דְּהֵנוּ) = पशुस् ... धेनु
+3. דְּוִי ... (דּוּרְגָּא, אוּמָא, אִינְדְּרָאֲנִי) = देवी ... दुर्गा, उमा, इन्द्राणी
+4. דְּוָתָה ... (מִינָקְשִׁי, אַנָּפוּרְנָה) = देवता ... मीनाक्षी, अन्नपूर्णा
+5. שׁוּדְרָה ... (אִיטָרָה) = शूद्रा ... इतरा
 
-**C) Translate into the feminine:**
+**ג) תרגמו לנקבה:**
 
-1. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
-2. sādhur guruḥ = साधुर्गुरुः
-3. kṣatriyaḥ sādhuḥ = क्षत्रियः साधुः
+1. גורור בְּרָהְמָנַה = गुरुर्ब्राह्मणः
+2. סָדְהוּר גורוּה = साधुर्गुरुः
+3. קְשַׁטְרִיְה סָדְהוּה = क्षत्रियः साधुः
 
-**D) Translate into Sanskrit:**
+**ד) תרגמו לסנסקריט:**
 
-1. Umā is a goddess.
-2. The Veda is śruti.
-3. The female teachers are goddesses.
-4. Milk cows are domesticated animals.
-5. Poets are teachers.
-6. Kṣatriyas are twice-born.
-7. The holy men are Śūdras.
+1. אומה היא אלהה.
+2. הודה הוא שְׁרוּתִי.
+3. המורות הן אלהות.
+4. פרות חלב הן חיות מבויתות.
+5. המשוררים הם מורים.
+6. קְשַׁטְרִיָּה הם בני שני לידה.
+7. האנשים הקדושים הם שׁוּדְרָה.
+

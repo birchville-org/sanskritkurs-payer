@@ -1,253 +1,281 @@
 ---
-title: Lesson 2
-subtitle: "The Nominal Sentence and the Fundamentals of Declension"
+title: שיעור 2
+subtitle: "משפט שם העצם ועקרונות ההטייה"
 lesson_id: 2
-category: "Grammar"
+category: "דקדוק"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lesson 2
+# שיעור 2
 
-## 2.1. The Nominal Sentence
+
+
+## 2.1. המשפט השמאי
+
+
 
 ::: grammar-box
-**Schema: Predicative Noun - Subject**
+**סכמה: שם תואר נשוא - נושא**
 
-e.g. devo viṣṇuḥ = देवो विष्णुः = "Viṣṇu is a god."
+למשל, devo viṣṇuḥ = देवो विष्णुः = "וישנו הוא אל."
+
 :::
 
-A verbal copula ("is", "are", "am", "art", "be") is not necessary, but may sometimes occur.
+אין צורך במופע מילתיות מילתית ("הוא", "היא", "הם", "אני", "אתה", "אתם"), אך לעיתים עשוי להופיע.
 
-There are **no articles**: **devaḥ** -- देवः can mean "the god" or "a god".
+אין **מאמרים**: **devaḥ** -- देवः יכול להתרגם כ"האלוהים" או "אלוהים כלשהו".
 
-Although Sanskrit word order is quite free (especially in verses), when translating a nominal sentence, one must always primarily consider a translation according to the standard schema above.
+אף שבסנסקריט סדר המילים במשפט הוא חופשי יחסית (במיוחד בשירים), יש לבחון תרגום של משפט שמתי תמיד תחילה לפי סכמת התקן לעיל.
 
-In the nominal sentence, the subject is in the nominative (first case = **prathamā** f. = प्रथमा). The predicative noun agrees with the subject in number and case; if the predicative noun is an adjective, also in gender.
+במשפט שם-עצם, הנושא נמצא במתכונת הנומינטיב (מקרה ראשון = **prathamā** f. = प्रथमा). שם-הנשוא תואם את הנושא במספר ובמקרה; אם שם-הנשוא הוא תואר, גם במין.
 
 ---
 
-## 2.2. On Declension (Inflection of Nouns)
+## 2.2. על הדקלינציה (הטיית שמות)
 
-In Sanskrit, there are:
+בסנסקריט יש:
 
-- **three numbers** (forms of counting) = **vacana** n. -- वचन
-  - Singular (singular number) = **ekavacana** n. -- एकवचन
-  - Dual (dual number) = **dvivacana** n. -- द्विवचन
-  - Plural (plural number) = **bahuvacana** n. -- बहुवचन
-- **three genders** (grammatical genders) = **liṅga** n. / **vyakti** f. -- लिङ्ग / व्यक्ति
-  - Masculine (masculine) = **puṃs** m. -- पुंस्
-  - Feminine (feminine) = **strī** f. -- स्त्री
-  - Neuter (neuter) = **napuṃsaka** n. -- नपुंसक
-- **eight cases** (cases) = **sup** -- सुप् (= case endings)
+- **שלושה מספרים** (צורות ספירה) = **vacana** n. -- वचन
+  - יחיד (מספר יחיד) = **ekavacana** n. -- एकवचन
+  - זוגי (מספר זוגי) = **dvivacana** n. -- द्विवचन
+  - רבים (מספר רב) = **bahuvacana** n. -- बहुवचन
+- **שלושה מין** (מינים דקדוקיים) = **liṅga** n. / **vyakti** f. -- लिङ्ग / व्यक्ति
+  - זכר (זכרי) = **puṃs** m. -- पुंस्
+  - נקבה (נקבי) = **strī** f. -- स्त्री
+  - נייטרלי (ניטרלי) = **napuṃsaka** n. -- नपुंसक
+- **שמונה מקרים** (מקרים) = **sup** -- सुप् (= סופיות מקרה)
 
-For declension, the case endings (**sup** = सुप्) are attached to the so-called **nominal stem** (form of the noun without case endings).
+לדקלינציה מצטרפות סופות המקרים (**sup** = सुप्) לשם הנקרא **"גזע השם"** (צורת השם ללא סופות מקרים).
 
-Example: **devas** = देवस् (Nominative Singular Masculine) "the/a god" = **deva-** -- देव- (nominal stem) + **-s** -- -स् (case ending).
+דוגמה: **devas** = देवस् (תארי יחיד זכר) "אל / אל אחד" = **deva-** -- देव- (שורש שם עצם) + **-s** -- -स् (סיומת מקרה).
 
-In Sanskrit dictionaries, nouns are listed in the **nominal stem**:
-- **deva** m. -- देव m. (masculine)
-- **vacana** n. -- वचन n. (neuter)
-- **vyakti** f. -- व्यक्ति f. (feminine)
-
----
-
-## 2.3. The Nominative Singular
-
-**Nominative Singular = prathamā ekavacanam = प्रथमा एकवचनम्**
-
-::: grammar-box
-**The Nominative Singular ends in -s = -स् or is zero-ending.**
-:::
-
-### 2.3.1. Nominative Singular ending in -s
-
-The following nominal stems, which end in a vowel, form the nominative singular with **-s**:
-
-::: grammar-box
-**Masculines in -a:** e.g. deva m. = देव "god" -- Nom. sg.: devas = देवस्
-**Masculines in -i:** e.g. kavi m. = कवि "poet" -- Nom. sg.: kavis = कविस्
-**Masculines in -u:** e.g. guru m. = गुरु "teacher" -- Nom. sg.: gurus = गुरुस्
-:::
+במילוני סנסקריט מופיעים שמות עצם ב**גזע שמות עצם**:
+- **deva** ז. -- देव ז. (זכר)
+- **vacana** נ. -- वचन נ. (נקבה)
+- **vyakti** נ. -- व्यक्ति נ. (נקבה)
 
 ---
 
-## 2.4. Sandhi -- सन्धि
+## 2.3. היחיד בנominative
 
-The final sound of a word in Sanskrit is also determined by the initial sound of the following word. This phenomenon is called **Sandhi** (m.) = सन्धि ("connection").
+**נָקְבָה יָחִיד = פְּרָטָמָה אֱקַוַּצָנָם = प्रथमा एकवचनम्**
 
-### 2.4.1. Sandhi of final -s
 
-See also the overview:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi of final -s. -- (Materials on Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: grammar-box
+**המקרה הנקבי היחיד מסתיים ב- -s = -स् או שהוא חסר סיומת.**
 
-Final **-s**:
+:::
 
-- **in absolute final position** (end of sentence) it becomes **Visarga (-ḥ)**:
+### 2.3.1. יחיד נוקב על -s
+
+גזירות שמות הבאות, המסתיימות בתנועה, יוצרות את המקרה הנרמז ברבים באמצעות **-s**:
+
+
+
+::: grammar-box
+**זכרים מסתיימים ב-a:** למשל. deva m. = देव "אל" -- Nom. sg.: devas = देवस्
+**זכרים מסתיימים ב-i:** למשל. kavi m. = कवि "משורר" -- Nom. sg.: kavis = कविस्
+**זכרים מסתיימים ב-u:** למשל. guru m. = गुरु "מורה" -- Nom. sg.: gurus = गुरुस्
+:::
+
+:::
+
+---
+
+## 2.4. סנדי -- सन्धि
+
+סיום של מילה בסנסקריט נקבע גם על פי תחילת המילה הבאה. תופעה זו נקראת **סנדהי** (ז') = सन्धि ("חיבור").
+
+### 2.4.1. סנדה של -s בסוף מילה
+
+ראה גם את הסקירה:
+
+> **פיייר, אלוֹס \&lt;1944 - \&gt;\:** סַנְדִּי של -s בסוף מילה. -- (חומרים לסנסקריט). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+
+סיום ב-**s**:
+
+- **בסיום מוחלט** (סוף משפט) הוא הופך ל-**ויסרגה (-ḥ)**:
   - **devas** = देवस् » **devaḥ** = देवः
   - **kavis** = कविस् » **kaviḥ** = कविः
   - **gurus** = गुरुस् » **guruḥ** = गुरुः
 
-- **before voiceless sounds**:
-  - before **k, kh, p, ph** and **ś, ṣ, s**: it becomes **Visarga (-ḥ)**
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = देवः शिवः ("Śiva is a god")
-  - before **c, ch**: it becomes **-ś**
-  - before **ṭ, ṭh**: it becomes **-ṣ**
-  - before **t, th**: it remains **-s**
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = साधुश्चैतन्यः ("Caitanya is a saint")
+- **vor stimmlosen Lauten**:
+  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)**
+    - **devas + śivaḥ** » **devaḥ śivaḥ** = देवः शिवः ("שיווה הוא אל")
+  - vor **c, ch**: wird zu **-ś**
+  - vor **ṭ, ṭh**: wird zu **-ṣ**
+  - vor **t, th**: bleibt **-s**
+    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = साधुश्चैतन्यः ("צ׳ייטניה הוא צדיק")
 
-- **before voiced sounds**:
-  - after non-a vowels: it becomes **-r**
-    - **kavis + Māghas** » **kavir māghaḥ** = कविर्माघः ("Māgha is a poet")
-  - after non-a vowels before **r-**: **-s** drops out, the vowel is lengthened.
-    - **gurus + rāmas** » **gurū rāmaḥ** = गुरू रामः ("Rāma is a teacher")
-  - after **a-**: **-as**
-    - before voiced consonants/a: it becomes **-o** (initial a drops out » ऽ)
+- **לפני עיצורים קולניים**:
+  - לאחר אי-א'-וקאלים: הופך ל-**r**
+    - **kavis + Māghas** » **kavir māghaḥ** = कविर्माघः ("מאג'ה הוא משורר")
+  - לאחר אי-א'-וקאלים לפני **r-**: **-s** נופל, והוקאל מוארך.
+    - **gurus + rāmas** » **gurū rāmaḥ** = गुरू रामः ("ראמה הוא מורה")
+  - לאחר **a-**: **-as**
+    - לפני עיצורים קולניים/א: הופך ל-**o** (א'-התחלתית נופלת » ऽ)
       - **devas viṣṇus** » **devo viṣṇuḥ** = देवो विष्णुः
       - **devas agnis** » **devo 'gniḥ** = देवो ऽग्निः
-    - before other vowels: it becomes **-a** (Hiatus)
+    - לפני ווקאלים אחרים: הופך ל-**a** (היאטוס)
       - **devas + indras** » **deva indraḥ** = देव इन्द्रः
 
 ---
 
-## 2.5. Word List
+## 2.5. מילון מילים
 
-**deva** m. -- देव : Celestial being, god; prince, king.
+**deva** מ. -- देव : שמי, אל; נסיך, מלך.
 
-**īśvara** m. -- ईश्वर : Lord, ruler, god (monotheistic).
+**īśvara** m. -- ईश्वर : אדון, שליט, אל (מונואיסטי).
 
-**brāhmaṇa** m. -- ब्राह्मण : Brahmin (priestly estate).
+**brāhmaṇa** m. -- ब्राह्मण : ברהמין (מעמד כהני).
 
-**kṣatriya** m. -- क्षत्रिय : Kṣatriya (noble and military estate).
+**kṣatriya** m. -- क्षत्रिय : כְּשַׁטְרִיָּה (מעמד הנסיכים והלוחמים).
 
-**vaiśya** m. -- वैश्य : Vaiśya (agricultural and merchant estate).
+**vaiśya** m. -- वैश्य : וַיְשְׁיָה (מעמד החקלאים והסוחרים).
 
-**śūdra** m. -- शूद्र : Śūdra (service estate).
+**śūdra** m. -- शूद्र : שׁוּדְרָה (מעמד של ספק שירותים).
 
-::: tip The four estates (varna)
-According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed:
 
-- **of the Brahmins**
-  - study of the Vedas
-  - teaching
-  - sacrifice for oneself
-  - sacrifice for others
-  - giving
-  - receiving gifts
-- **of the Kṣatriyas**
-  - protect the people
-  - give gifts (to Brahmins)
-  - sacrifice for oneself
-  - study of the Vedas
-- **of the Vaiśyas**
-  - animal husbandry
-  - agriculture
-  - trade
-  - money lending
-  - sacrifice for oneself
-  - give gifts (to Brahmins)
-  - sacrifice for oneself
-  - study of the Vedas
-- **of the Śūdras**
-  - serve the three upper classes
+
+::: tip ארבעת המעמדות (ברנה)
+על פי התיאוריה הקלאסית (למשל, מנוסמריטי I, 88-91), התפקדים מחולקים:
+
+- **של הברמנים**
+  - לימוד ודע
+  - תורה
+  - קורבן לעצמו
+  - קורבן לאחרים
+  - נתינה
+  - קבלת מתנות
+- **של הַקְשַׁטְרִיָּה**
+  - להגן על העם
+  - לתת מתנות (לברמנים)
+  - להקריב לעצמו
+  - לימוד ודע
+- **של הַוַאִישְׁיָה**
+  - רעיית בהמות
+  - חקלאות
+  - מסחר
+  - הלוואות כספיות
+  - להקריב לעצמו
+  - לתת מתנות (לברמנים)
+  - להקריב לעצמו
+  - לימוד ודע
+- **של הַשׁוּדְרָה**
+  - לשרת את שלוש הקבוצות העליונות
+
 :::
 
-**dvija** m. -- द्विज : "Twice-born" (initiates of the upper three estates: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- द्विज : "שני לידה" (מתחילים בשלושת המעמדות העליונים: ברהמנים, כשטריות, ויישיות).
 
-**varṇa** m. -- वर्ण : Color, birth estate (aspiration).
+**varṇa** מ. -- वर्ण : צבע, מעמד לידה (שאפה).
 
-The four estates (**varṇa** m.) are often confused with castes. However, the four estates are -- in contrast to castes -- not specifically Indian; in Europe, we also had (partly up to the First World War) an estate system, as the following illustration from the 15th century confirms:
+ארבעת המעמדות (**varṇa** m.) נתבלים לעיתים קרובות עם המעמדות. ארבעת המעמדות הם -- בניגוד למעמדות -- אינם דבר ספציפי להודו; גם באירופה היה לנו (חלקית עד למלחמת העולם הראשונה) סדר מעמדי, כפי שמראה האיור הבא מהמאה ה-15:
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0201.webp)
-Fig.: Representation of the estate division of the European Middle Ages (woodcut from the late 15th century).
-(Image source: [Details](/en/licenses#lekt0201))
+איור: תיאור חלוקת המעמדות של ימי הביניים האירופיים (חיתוך עץ מהמאה ה-15 המאוחרת).
+(מקור התמונה: [פרטים](/he/licenses#lekt0201))
+
 :::
 
-**Labels:**
-- **Priestly estate** (~Brāhmaṇa): Tu supplex ora = You pray earnestly!
-- **Noble estate** (~Kṣatriya): Tu protege = You protect!
-- **Peasant estate** (~Vaiśya/Śūdra): Tuque labora = And you work!
+**כיתוב:**
+- **מעמד הכוהנים** (~בראhmaṇa): Tu supplex ora = אתה תתפלל בתחנונים!
+- **מעמד האצולה** (~קṣatriya): Tu protege = אתה תגן!
+- **מעמד החקלאים** (~vaiśya/śūdra): Tuque labora = ואתה תעבוד!
 
-The three estates wear the respective estate attire. Above them -- thus designated as willed by God -- Christ reigns.
+שלושת המעמדות לובשים את בגדי המעמד הרלוונטיים. מעל למעמדות – המוגדרים בכך כרצון אלוהי – יושב ישו על כס המלוכה.
 
-Max Weber &lt;1864 – 1920&gt; defines estate as follows:
+מקס ובר &lt;1864 – 1920&gt; מגדיר מעמד כך:
+
+
 
 ::: note-box
-"**Estate**" is meant to denote a multitude of people who, within an association, effectively
-a) claim an estate-specific special esteem, - possibly also
-b) estate-specific special monopolies.
+"**סטטוס**" צריך להגדיר קבוצה של אנשים, הפועלת בתוך ארגון,
+א) הזוכה בהערכה מיוחדת לפי מעמד, - אולי גם
+ב) הזוכה במונופולים מיוחדים לפי מעמד.
 
-Estates can arise
-a) primarily, through their own estate-specific way of life, particularly through the type of **profession** (**estate-based or professional estates**),
-b) secondarily, hereditarily charismatic, through successful prestige claims based on estate-based **descent** (**birth estates**),
-c) through estate-based **appropriation** of political or hierocratic lordships as monopolies (**political or hierocratic estates**).
+מעמדות יכולים להיווצר
+א) באופן ראשוני, דרך אורח חיים מעמדי עצמי, ובכלל זה דרך סוג ה**מקצוע** (**מעמדות מקצוע/אורח חיים**),
+ב) באופן משני, כרואי כריזמה ירושה, דרך דרישות מעמדיות להכרה מוצלחת בכוח ה**מוצא** (**מעמדות יולדה**),
+ג) דרך **השתלטות** מעמדית על סמכויות פוליטיות או היירוקרטיות כמונופול (**מעמדות פוליטיים או היירוקרטיים**).
 
-The development of birth estates is regularly a form of (hereditary) appropriation of privileges to an association or to qualified individuals. Any fixed appropriation of opportunities, particularly [of] lordships [or livelihood] opportunities, tends to lead to the formation of estates. Any formation of estates tends to lead to the monopolistic appropriation of lordships and livelihood opportunities.
+התפתחות מעמדית-לידתית היא באופן סדיר צורה של (יורשת) השתלטות על זכויות יתר ביחס לארגון או ליחידים מוסמכים. כל השתלטות קבועה על הזדמנויות, ובפרט [של] שליטת אדונים [או] הזדמנויות להרוויח, נוטה להוביל להיווצרות מעמדות. כל היווצרות מעמדות נוטה להוביל להשתלטות מונופוליסטית על שליטת אדונים והזדמנויות להרוויח.
 
-As occupational classes grow on the basis of a market-oriented economy, estates arise and persist preferably on the basis of monopolistic liturgical or feudal or corporately patrimonial provision of associations.
+בעוד ששכבות מקצועיות צומחות על בסיס הכלכלה המכוונת שוק, מעמדות נוצרים וקיימים בעיקר על בסיס כיסוי צרכים מונופוליסטי-ליטורגי, או פיאודלי, או פטרימוניאלי-מעמדי של ארגונים.
 
-»**Corporately**« is meant to signify a society when the social stratification occurs preferably by estates, »**classically**«, when it occurs preferably by classes. The «estate» is closest to the «social» class among the «classes», the «occupational class» is furthest. Estates are often formed by property classes according to their focus.
+"**סטנדיש**" צולל שחברה תיקרא, כאשר החלוקה החברתית מתבצעת בעיקר לפי מעמדות, "**קלאסינמאסיק**", כאשר היא מתבצעת בעיקר לפי מעמדות חברתיים. ל"מעמד" קרובה ביותר "הקלאסה החברתית" מבין ה"קלאסות", ו"קלאסת ההכנסה" רחוקה ביותר. מעמדות נוצרים לעיתים קרובות לפי מרכז המשקל שלהם כקלאסות בעלות.
 
-Every corporately organized society is conventional, ordered by rules of conduct, thereby creates economically irrational consumption conditions and hinders free market formation in this manner through monopolistic appropriations and by excluding free disposal of one's own earning capacity.
+כל חברה מעמדית היא קונבנציונלית, מסודרת על ידי כללי אורח חיים, ולכן יוצרת תנאי צריכה כלכליים לא-רציונליים, ובכך מונעת דרך אפרופריאציות מונופוליסטיות ומדרך של שלילת השליטה החופשית ביכולת ההשתכרות העצמית, את התהוות השוק החופשי.
 
-[**Weber, Max &lt;1864 – 1920&gt;: Economy and Society : Outline of Understanding Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – P. 625 f.]
+[**וובר, מקס &lt;1864 – 1920&gt;:** כלכלה וחברה : מסגרת של סוציולוגיה מבינה. – מהדורה 5, מתוקנת. – טיבינגן : מור, 1976. – עמ' 625 ואילך.]
+
 :::
 
-Varṇas are accordingly birth estates.
+הברנאים הם, לפיכך, מעמדות יולדה.
 
-**kavi** m. -- कवि : Poet.
+**kavi** m. -- कवि : משורר.
 
-**agni** m. -- अग्नि : Fire, God Agni.
+**agni** מ. -- अग्नि : אש, אלוהים אגני.
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0203.jpg)
-Fig.: God Agni, Miniature, 18th century.
-(Image source: [Details](/en/licenses#lekt0203))
+איור: האל אגני, מיניאטורה, המאה ה-18.
+(מקור התמונה: [פרטים](/he/licenses#lekt0203))
+
 :::
 
-**sādhu** 3 -- साधु : correct, good.
+**סָדְהוּ** 3 -- साधु : נָכוֹן, טוֹב.
 
-**sādhu** m. -- साधु : "holy" man, Sādhu.
+**sādhu** מ. -- साधु : "קדוש" איש, סאדו.
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0202.webp)
-Fig.: Sādhu (साधु), Pashupatinath Temple, Kathmandu.
-(Image source: [Details](/en/licenses#lekt0202))
+איור: סָדְהוּ (साधु), מקדש פשופטינת, קטמנדו.
+(מקור התמונה: [פרטים](/he/licenses#lekt0202))
+
 :::
 
-**guru** 3 -- गुरु : heavy, significant, worthy of veneration
+**גורו** 3 -- गुरु : כבד, משמעותי, ראוי להערצה
 
-**guru** m. -- गुरु : worthy of veneration person: father, mother, older relative, esp. teacher, master
+**גורו** זכר -- गुरु : אדם ראוי להערכה: אב, אם, קרוב משפחה מבוגר, ובפרט מורה, רב
 
 ---
 
-## 2.6. Exercise
+## 2.6. תרגול
 
-**A) Insert with due regard to Sandhi and form nominal sentences:**
+**א) הוסיפו, תוך התחשבות בסנדה, וצרו משפטים שמיניים:**
 
-1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
+1. **אלוהים ... (שיבה, אגני, וישנו, גנש, קרישנה, אינדרה)**
    = देवस् ... (शिव, अग्नि, विष्णु, गणेश, कृष्ण, इन्द्र)
-2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
+2. **דוויג'אס ... (בראהמנה, קשטריה, ויישה)**
    = द्विजस् ... (ब्राह्मण, क्षत्रिय, वैश्य)
-3. **gurus ... (brāhmaṇa, Candrakīrti)**
+3. **גורוס ... (בראהמנה, צ'אנדראקירטי)**
    = गुरुस् ... (ब्राह्मण, चन्द्रकीर्ति)
-4. **vaiśyas ... (Tulādhara)**
+4. **ויישהס ... (טולד'הרה)**
    = वैश्यस् ... (तुलाधर)
-5. **sādhus ... (guru, Rāma)**
+5. **סאד'הוס ... (גורו, רמה)**
    = साधुस् ... (गुरु, राम)
-6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
+6. **קאביס ... (קלידאסה, מג'ה, בהארבי, הארשהדבה)**
    = कविस् ... (कालिदास, माघ, भारवि, हर्षदेव)
 
-**B) Translate into Sanskrit:**
+**ב) תרגמו לסנסקריט:**
 
-1. Rāma is a Brāhmaṇa.
-2. The teacher is a Vaiśya.
-3. The Śūdra is a holy man.
-4. The poet is the teacher.
-5. Viṣṇu is the LORD.
-6. The LORD is Śiva.
-7. The twice-born is a Brāhmaṇa.
-8. The holy man is a teacher.
-9. The teacher is a holy man.
+1. רָמָה הוא בְּרַהְמָן.
+2. הַמּוֹרֶה הוא וַאִישְׁיָה.
+3. הַשׁוּדְרָה הוא אִישׁ קָדוֹשׁ.
+4. הַשָּׁקַיִר הוא הַמּוֹרֶה.
+5. וִישְׁנוּ הוא הָאָדוֹן.
+6. הָאָדוֹן הוא שִׁיְוָה.
+7. הַנּוֹלַד שְׁנִיִּים הוא בְּרַהְמָן.
+8. הָאִישׁ הַקָּדוֹשׁ הוא מוֹרֶה.
+9. הַמּוֹרֶה הוא אִישׁ קָדוֹשׁ.
+

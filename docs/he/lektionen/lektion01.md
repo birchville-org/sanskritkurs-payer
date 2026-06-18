@@ -1,26 +1,35 @@
 ---
-title: Lesson 1
-subtitle: "The Sounds of Sanskrit"
+title: שיעור 1
+subtitle: "הצלילים של סנסקריט"
 lesson_id: 1
-category: "Grammar"
+category: "דקדוק"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lesson 1
+# שיעור 1
+
+
+
 
 
 ::: center
 गणेशपूजनम्
 gaṇeśapūjanam
-Worship of Gaṇeśa
+הערצת גנש
+
 :::
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0102.webp)
-Fig.: Gaṇeśa, Adamspeak, Sri Lanka
-(Image source: [Details](/en/licenses#lekt0102))
+איור: גַּנֵּשָׁה, אַדָּם סְפֵּייק, סְרִי לַנְקָה
+(מקור התמונה: [פרטים](/he/licenses#lekt0102))
+
 :::
+
+
 
 ::: center
 लम्बोदर नमस् तुभ्यं
@@ -33,25 +42,34 @@ satataṃ modakapriya |
 nirvighnaṃ kuru me deva
 sarvakāryeṣu sarvadā |**
 
-You with the hanging belly, you who delight in modakas,
-May worship always be yours!
-God, make all my undertakings
-Free from obstacles!
+הו בעל הבטן, הו אכפני,
+תהא לך תמיד כבודה!
+אלוהים, עשה את כל מעשיי
+חופשיים מכל מכשול!
+
 :::
 
 ---
 
+
+
 ::: center
 मङ्गलचरणम्
 maṅgalacaraṇam
-"Auspicious Beginning"
+"תחילה מביאה מזל"
+
 :::
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0101.webp)
-Fig.: Ardhanarīśvara
-(Image source: [Details](/en/licenses#lekt0101))
+איור: ארדהנרִישְׁוַר
+(מקור התמונה: [פרטים](/he/licenses#lekt0101))
+
 :::
+
+
 
 ::: center
 वागर्थाविव संपृक्तौ
@@ -64,138 +82,178 @@ vāgarthapratipattaye |
 jagataḥ pitarau vande
 pārvatīparameśvarau |**
 
-(Kālidāsa: Raghuvaṃśa 1.1)
+(קלידאסה: רג'ובמשה 1.1)
 
-I salute the parents of the world,
-Pārvatī and Śiva,
-Who are so firmly united
-As word and meaning for the understanding
-Of the meaning of the word.
+אני מברך את הורי העולם,  
+פארבתי ושיבה,  
+המחוברים זה לזה כל כך הדוק  
+כמו מילה וכוונה להבנה  
+של משמעות המילה.
+
 :::
 
 ---
 
-First, a curiosity:
+בתחילה, עובדה מוזרה:
+
+
 
 ::: note-box
-"When William Jones [1746–1794] and Henry Thomas Colebrooke (1765—1857) first thoroughly studied Sanskrit, partially translated it, and found that it possessed a rich literature and no insignificant kinship with the classical languages, they encountered no small resistance. Since this intimate relationship of Sanskrit to the geographically so distant European languages could not be reconciled with the old views, which either derived all languages from Hebrew or largely isolated them from one another, the famous philologist Dugald Steward (1753—1828) took the simplest way out by declaring the entire history with the Sanskrit language to be a lie. He wrote an essay in which he sought to prove that it had been forged by the rascally Brahmins according to the pattern of Greek and Latin, and that both the language and the literature were forgeries. This view was further developed in 1840 by the professor in Dublin, Charles William Wall, extensively (Göttingische gelehrte Anzeigen 1842 p. 1888)."
+"כשוויליאם ג'ונס [1746–1794] והנרי תומס קולברוק (1765–1857) לימדו לראשונה את השפה הסנסקריט לעומק, תרגמו חלקים ממנה וגילו ספרות עשירה וקשר לא מבוטל עם השפות הקלאסיות, הם נתקלו בהתנגדות לא מבוטלת. מכיוון שקשר הפנימי הזה של השפה הסנסקריט עם השפות האירופאיות הרחוקות גיאוגרפית כל כך לא התאים לתפיסות הישנות, שגזרו את כל השפות מהעברית או ראו אותן כמבודדות זו מזו, לקח הפילולוג המפורסם דוגלד סטיוארד (1753–1828) את הפתרון הפשוט ביותר, והכריז על כל ההיסטוריה הקשורה לשפה הסנסקריט כשקר. הוא כתב מאמר שבו ניסה להוכיח שהיא הומצאה על ידי הברמנים השחיתים על פי הדגם של השפה היוונית והלטינית, וכי השפה עצמה וגם הספרות הן זיוף. דעה זו פותחה עוד בשנת 1840 על ידי הפרופסור בדבלין, צ'ארלס וויליאם וול, בהרחבה (Göttingische gelehrte Anzeigen 1842 עמ' 1888)."
+
 :::
 
-> [Source: **Kemmerich**, Max &lt;1876-1932&gt;: Kultur-Kuriosa. -- Munich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accessed on 2010-01-10]
+> [מקור: **קמרריך**, מקס &lt;1876-1932&gt;: קולטור-קוריוזה. -- מינכן : לאנגן. -- כרך 2. -- 1923. -- עמ' 74. -- אונליין: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- תאריך גישה: 2010-01-10]
 
-## 1.1. Literature for Beginners in Indology
+## 1.1. ספרות למתחילים בהודולוגיה
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0103.webp)
-Fig.: Cover title of a paperback edition
-(Image source: [Details](/en/licenses#lekt0103))
+איור: כריכת כותרת של מהדורת כיס
+(מקור התמונה: [פרטים](/he/licenses#lekt0103))
+
 :::
 
-> **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Since then many editions, including paperback editions. -- **Mandatory reading.** A good overview of life, history, and culture in pre-Islamic India. Comprehensive overview of the various fields of classical Indology.
+> **באשמ**, א. ל. (ארתור לוליוון) &lt;1914-1986&gt; _הפלא שהיה הודו_ חלק: סקירה של תרבות תת-היבשת ההודית לפני בוא המוסלמים. -- לונדון : סידג'יק וג'קסון, 1954. -- מאז מהדורות רבות, כולל מהדורות בכריכה רכה. -- **קריאה חובה**. סקירה טובה על חיים, היסטוריה ותרבות בהודיה שלפני-האסלאם. סקירה כוללת של התחומים השונים של הודולוגיה קלאסית.
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0104.webp)
-Fig.: Title page
-(Image source: [Details](/en/licenses#lekt0104))
+איור: עמוד השער
+(מקור התמונה: [פרטים](/he/licenses#lekt0104))
+
 :::
 
-**Best systematic grammar**
+**הדקדוק המערכת הטוב ביותר**
 
-> **Kielhorn**, Franz &lt;1840-1908&gt;: Grammar of the Sanskrit language / Translated from English by W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Original title: A grammar of the Sanscrit language
+> **קיליהורן**, פרנץ &lt;1840-1908&gt;: דקדוק השפה הסנסקריטית / תרגום מאנגלית על ידי ו. סולף [1862 - 1936]. -- ברלין : דומלר, 1888. -- XIII, 238 עמ'. -- כותרת מקורית: A grammar of the Sanscrit language
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0105.webp)
-Fig.: Cover title
-(Image source: [Details](/en/licenses#lekt0105))
+איור: כותרת העטיפה
+(מקור התמונה: [פרטים](/he/licenses#lekt0105))
+
 :::
 
-**Good systematic grammar based on indigenous grammarians and at the same time an introduction to Pāṇini:**
+**דקדוק שיטתי טוב על בסיס הדקדקנים המקומיים וכן מבוא לפאניני:**
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Self-published, 1983. -- 818 p. ; 23 cm.
+> **קונאפלי, ג'ון:** פֿרקְרִיָּה בְּהָשְׁיָם : דקדוק סנסקריט / נכתב במקור במלאיאלם. תורגם לאנגלית על ידי ק.וו.ר. פאי. -- פֿאראטוֹדֶה : הוצאה עצמית, 1983. -- 818 עמ' ; 23 ס"מ.
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0107.jpg)
-Fig.: Cover title
-(Image source: [Details](/en/licenses#lekt0107))
+איור: כריכת ספר
+(מקור התמונה: [פרטים](/he/licenses#lekt0107))
+
 :::
 
-A good, concise presentation of European linguistic terminology can be found in:
+תיאור טוב ותמציתי של הטרמינולוגיה הלשונית האירופאית ניתן למצוא ב:
 
-> **Etymological Dictionary of the German Language** / [Friedrich] Kluge &lt;1856 - 1926&gt; Edited by Elmar Seebold. -- 24th, revised and expanded ed. -- Berlin [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- pp. XIII - XLVII.
+> **מילון אטימולוגי של השפה הגרמנית** / [פרידריך] קלוגה &lt;1856 - 1926&gt;. עריכה: אלמאר זייבולד. -- 24. מהדורה מתוקנת ומורחבת. -- ברלין [ואחרים] : דה גרויטר, 2002. - LXXXIX, 1023 עמ' : 24 ס"מ. -- ISBN 3-11-017473-1 כריכה רכה. -- עמ' XIII - XLVII.
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0108.jpg)
-Fig.: Cover title
-(Image source: [Details](/en/licenses#lekt0108))
+איור: כותרת העטיפה
+(מקור התמונה: [פרטים](/he/licenses#lekt0108))
+
 :::
 
-For the curious to look up:
+לסקרנים לשימוש כמקור התייעצות:
 
-> **Lexicon of Linguistics** / edited by Hadumod Bußmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **לקסיקון של השפה** / בעריכת האדומוד בוסמן. -- מהדורה 4, מתוקנת ומשלימה ביבליוגרפית / בשיתוף הארטמוט לאופר. -- שטוטגרט : קרונר, 2008. -- 816 עמ' ; 22 ס"מ. -- ISBN 978-3-520-45204-7
 
 ---
 
-## 1.2. The Sounds of Sanskrit
+## 1.2. הצלילים של סנסקריט
 
-The sounds of Sanskrit according to the traditional Indian classification and their scientific transliteration.
+צלילי הסנסקריט לפי המיון ההודי המסורתי וכתיבם המדעי.
 
-::: media
+
+
+::: מדיה
 ![](/images/lekt0106.webp)
-(Image source: [Details](/en/licenses#lekt0106))
+(מקור התמונה: [פרטים](/he/licenses#lekt0106))
+
 :::
 
-Modern Sanskrit dictionaries are arranged in the order of this classification. This classification and the order of the sounds are essential for understanding Sanskrit grammar and therefore must be memorized:
+מילונים מודרניים של סנסקריט מסודרים לפי סדר סיווג זה. סיווג זה וסדר הצלילים הם הכרחיים להבנת דקדוק הסנסקריט, ולכן יש ללמוד אותם בעל פה:
 
-::: tip Classification
 
-- **simple vowels** (samānākṣara -- समानाक्षर):
-  अ a, आ ā, इ i, ई ī, उ u, ऊ ū, ऋ ṛ, ॠ ṝ, ऌ ḷ
-- **diphthongs** (sandhyakṣara -- सन्ध्यक्षर):
-  ए e, ऐ ai, ओ o, औ au
-- **consonants** (vyañjana / hal -- व्यञ्जन / हल्):
-  क ka, ख kha, ग ga, घ gha, ङ ṅa
-  च ca, छ cha, ज ja, झ jha, ञ ña
-  ट ṭa, ठ ṭha, ड ḍa, ढ ḍha, ण ṇa
-  त ta, थ tha, द da, ध dha, न na
-  प pa, फ pha, ब ba, भ bha, म ma
-  य ya, र ra, ल la, व va
-  श śa, ष ṣa, स sa
-  ह ha
+
+::: tip מיון
+
+- **תנועות פשוטות** (samānākṣara -- समानाक्षर):
+  अ א, आ אָ, इ אִי, ई אִי ארוכה, उ אֻ, ऊ אֻ ארוכה, ऋ רִ, ॠ רִ ארוכה, ऌ לִ
+- **דיפתונגים** (sandhyakṣara -- सन्ध्यक्षर):
+  ए אֵ, ऐ אֵי, ओ אוֹ, औ אוֹי
+- **עיצורים** (vyañjana / hal -- व्यञ्जन / हल्):
+  क קַ, ख קְחַ, ग גַּ, घ גְחַ, ङ נְגַ
+  च צַ, छ צְחַ, ज גַ׳, झ גְ׳חַ, ञ נְיַ
+  ट טַ, ठ טְחַ, ड דַּ, ढ דְ׳חַ, ण נְטַ
+  त תַ, थ תְחַ, द דַּ, ध דְ׳חַ, न נַ
+  प פַּ, फ פְחַ, ब בַּ, भ בְ׳חַ, म מַ
+  य יַ, र רַ, ल לַ, व וַ
+  श שַׁ, ष שַׂ, स סַ
+  ह הַ
+
 :::
 
-### 1.2.1. On the Pronunciation of Individual Sounds
+### 1.2.1. על הגיית צלילים בודדים
 
-::: laut-table
-| Sound | Description |
+
+
+::: טבלת הגייה
+
+| צליל | תיאור |
+
 | :--- | :--- |
-| **a - अ** | "short a" is often pronounced by Indians -- since ancient times -- as ə. In Europe, it is pronounced as short a, in Bengal as short dark o. |
-| **ṛ - ऋ** | like Czech vocalized r. Slight echo of i. |
-| **ṝ - ॠ** | like Czech vocalized r. Slight echo of u. |
-| **jñ - ज्ञ्** | also like dny (Marāṭhī) or gy (North Indian). |
-| **ś - श्** | sh-sound with tongue tip bent downward. Similar to sh in "mischen". |
-| **ṣ - ष्** | kh-sound with tongue tip curled back. Often articulated so far back in the throat that it sounds almost like kh. |
-| **h - ह्** | aspiration sound, never a lengthening mark. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Voiceless aspiration with echo of the preceding vowel or the second part of the preceding diphthong: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
-| **ṃ** | **Anusvara** -- अनुस्वर. Before sibilants, h, l: nasalization of the vowel. In final position = m. In medial position before consonants: the nasal corresponding to the following consonant: saṃdhi -- संधि = sandhi -- सन्धि |
+
+| **א - अ** | "א" קצר נהגה על ידי ההודים — כבר מזמן רב — לעיתים קרובות כ-ə. באירופה נהגים אותו כא "א" קצר, ובבנגל כ- "א" קצר כהה. |
+
+| **ṛ - ऋ** | כמו r מנוקד צ'כי. הדהוד הקל של i. |
+
+| **ṝ - ॠ** | כמו r מנוקד צ'כי. הדהוד הקל של u. |
+
+| **jñ - ज्ञ्** | גם כמו dny (מראטהית) או gy (צפון הודו). |
+
+| **ś - श्** | צליל ש׳ עם קצה לשון כפוף כלפי מטה. דומה ל־sch במילה "מִישֵׁן". |
+
+| **ṣ - ष्** | צליל אכ עם קצה לשון מתכופף אחורה. לעיתים קרובות מתארטקל כל כך רחוק בגרון עד שהוא נשמע כמעט כמו kh. |
+
+| **h - ह्** | חוכך, לעולם לא סימן מתיקה. |
+
+| **ḥ - :** | **ויסרגה (ויסרג'ניה)** -- विसर्ग / विसर्जनीय. עיצור אוורירי חסר-קול עם הדהוד של התנועה הקודמת או של החלק השני של הקודמת. דו-תנועתית: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
+
+| **ṃ** | **אנוסווארה** -- अनुस्वर. לפני עיצורים זוחלים, h, l: ניקור של התנועה. בסוף הברה = m. בתוך הברה לפני עיצורים: הנקרא המתאים לעיצור הבא: saṃdhi -- संधि = sandhi -- सन्धि |
+
 :::
 
-The best pronunciation is achieved when one reads the sentences, verses, or words quite slowly and monotonously, paying exact attention to the length of the vowels.
+ההגייה הטובה ביותר מושגת כאשר קוראים את המשפטים, הפסוקים או המילים לאט יחסית ובטון אחיד, תוך התחשבות מדויקת באורך התנועות.
 
 ---
 
-## 1.3. Exercise
+## 1.3. תרגיל
 
-**A) Read the following words:**
+**א) קראו את המילים הבאות:**
 
-1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र
-2. brahmā viṣṇu śiva — ब्रह्मा विष्णु शिव
-3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन्
-4. ṛgveda sāmaveda yajurveda atharvaveda — ऋग्वेद सामवेद यजुर्वेद अथर्ववेद
-5. upaniṣad — उपनिषद्
-6. jaina bauddha — जैन बौद्ध
-7. prajñāpāramitā — प्रज्ञापारमिता
-8. cakra vajra — चक्र वज्र
-9. pitṝn — पितॄन्
-10. saṃskṛta — संस्कृत
+1. וַרְנָה בְּרָהְמָנָה קְשַׁטְרִיָה וַיְשְׁיָה שׁוּדְרָה — वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र
+2. בְּרָהְמָה וִישְׁנּוּ שִׁיְוָה — ब्रह्मा विष्णु शिव
+3. אָשְׁרָמָה בְּרָהְמָכָרִין גְּרְהַסְתָה וָנָפְרַסְתָה סַנְיָסִין — आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन्
+4. רְגְוֵדָה סָמָוֵדָה יַגְוֵדָה אַתְהַרְוֵדָה — ऋग्वेद सामवेद यजुर्वेद अथर्ववेद
+5. אוּפָנִישַׁד — उपनिषद्
+6. גִּינָה בּוּדְהָה — जैन बौद्ध
+7. פְּרַגְנָפָרָמִיטָה — प्रज्ञापारमिता
+8. צַקְרָה וָגְ'רָה — चक्र वज्र
+9. פִּיטְרִין — पितॄन्
+10. סַנְסְקְרִיטָה — संस्कृत
 
-**B) Read the Sanskrit expressions in the phonetic classification above.**
+**ב) קראו את הביטויים בסנסקריט במיון הגבהים הנ\"ל.**
+

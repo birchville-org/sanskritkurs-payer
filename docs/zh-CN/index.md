@@ -15,7 +15,7 @@ hero:
 
 features:
   - title: Devanāgarī ready
-    细节：印度文字的完美集成排版。
+    details: 印度文字的完美集成排版。
   - title: 易于搜索
     details: 深入的本地全文搜索，使知识触手可及。
   - title: 现代架构
