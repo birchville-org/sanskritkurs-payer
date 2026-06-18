@@ -31,4 +31,5 @@ features:
 - **High-Performance:** Massive Reduktion der Ladezeiten und des Datenverbrauchs durch hochkomprimierte WebP-Bilder.
 
 **Bemerkungen und Fehlermeldungen:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Als Autor oder Korrektor mitwirken:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 :::
