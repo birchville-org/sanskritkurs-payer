@@ -1,11 +1,11 @@
 ---
-title: "Exercise 53"
+title: "Latihan 53"
 uebung_id: 53
-category: "Exercise"
+category: "Latihan"
 ---
 
-# Exercise 53
+# Latihan 53
 
-The exercise for Lesson 53 consists of the metrical analysis (determination of the Śloka scheme) of all verses learned in the preceding lessons. 
+Latihan untuk Lektion 53 terdiri dari analisis metrik (penentuan skema Śloka) dari semua ayat yang dipelajari di Lektion-lektion sebelumnya.
 
-Since this is a comprehensive review and analysis task, there is no separate solution key in the classical sense. The solutions arise from the application of the rules taught in Lesson 53 to the already known texts.
+Karena ini merupakan tugas tinjauan dan analisis yang komprehensif, tidak ada kunci jawaban terpisah dalam pengertian klasik. Solusi-solusi tersebut muncul dari penerapan aturan-aturan yang diajarkan dalam Lektion 53 pada teks-teks yang telah diketahui.

@@ -3,15 +3,16 @@ aside: false
 outline: false
 ---
 
-# Grammar Index
+# מפתח דקדוק
 
-The Grammar Index lists all grammatical topics and phenomena of the Sanskrit course and enables quick access to specific lessons.
+מדד הדקדוק מפרט את כל הנושאים והתופעות הדקדוקיים מקור סנסקריט ומאפשר גישה מהירה לשיעורים ספציפיים.
 
 <PayerTopicIndex />
 
 <style>
-/* Adjust layout for full width index */
+/* התאמת פריסה לאינדקס ברוחב מלא */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }
 </style>
+

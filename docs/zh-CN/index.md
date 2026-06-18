@@ -2,33 +2,38 @@
 layout: home
 
 hero:
-  name: Sanskrit Course
-  text: A Complete Course
-  tagline: by Alois Payer (Tüpfli's Global Village Library)
+  name: Sanskrit课程
+  text: 完整课程
+  tagline: 由 Alois Payer 编写（Tüpfli 的全球图书馆）
   actions:
     - theme: brand
-      text: Start Course
-      link: /en/lektionen/lektion01
+      text: 开始课程
+      link: /zh-CN/lektionen/lektion01
     - theme: alt
-      text: Grammar Topics
-      link: /en/grammatik
+      text: 语法主题
+      link: /zh-CN/grammatik
 
 features:
   - title: Devanāgarī ready
-    details: Perfect, integrated typography for Indian scripts.
-  - title: Easily Searchable
-    details: Deep local full-text search keeps knowledge at your fingertips.
-  - title: Modern Architecture
-    details: Built on the foundation of VitePress for maximum speed.
+    细节：印度文字的完美集成排版。
+  - title: 易于搜索
+    details: 深入的本地全文搜索，使知识触手可及。
+  - title: 现代架构
+    details: 基于 VitePress 构建，实现极致速度。
 ---
 
-::: tip Version 1.4 — Offline-First PWA
-**New in v1.4 (June 2026):**
 
-- **Progressive Web App (PWA):** The course can now be installed as an app on your desktop and smartphone (iOS/Android).
-- **Fully Offline:** All selected content is stored locally and can be used completely without an internet connection.
-- **Dynamic Caching:** You can use the Settings to precisely control which of the 14 languages should be available offline at any time.
-- **High Performance:** Massive reduction in loading times and data consumption thanks to highly compressed WebP images.
 
-**Comments and bug reports:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+::: tip 版本 1.4 — 离线优先 PWA
+**v1.4（2026年6月）新增功能：**
+
+- **渐进式 Web 应用 (PWA)：** 课程现在可以安装在桌面和智能手机（iOS/Android）上作为应用使用。
+- **完全离线：** 所有选定的内容都存储在本地，即使没有互联网连接也可以完全使用。
+- **动态缓存：** 通过设置（Settings），可以精确控制哪些语言在离线状态下可用。
+- **高性能：** 通过高度压缩的 WebP 图像，大幅减少加载时间和数据消耗。
+
+**备注和错误报告：** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**作为作者或校对者参与：** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+
 :::
+

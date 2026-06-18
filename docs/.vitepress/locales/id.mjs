@@ -1,12 +1,11 @@
-
 export const id = {
-  label: 'EN',
-  lang: 'en-US',
-  link: '/en/',
-  title: 'Sanskrit Course',
-  description: 'Grammar textbook by Alois Payer',
+  label: 'ID',
+  lang: 'id-ID',
+  link: '/id/',
+  title: 'Kursus Sanskerta',
+  description: 'Buku teks tata bahasa oleh Alois Payer',
   themeConfig: {
-    outline: { level: [2, 3], label: 'On this page' },
+    outline: { level: [2, 3], label: 'Di halaman ini' },
     returnToTopLabel: 'Return to top',
     sidebarMenuLabel: 'Menu',
     darkModeSwitchLabel: 'Appearance',

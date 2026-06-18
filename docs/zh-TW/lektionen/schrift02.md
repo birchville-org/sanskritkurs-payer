@@ -1,15 +1,20 @@
-# Devanāgarī = देवनागरी
+# 天城文 = देवनागरी
 
-## Writing Exercise 2
+書寫練習 2
 
 ![](/images/schrift004.webp)
 
-## Exercise
+## 練習
 
-A) Write in Devanāgarī:
+A) 用天城体书写：
 
 jagat dā dīpikā pāda pīḍ ḍī bata jāti jāgṛ jṝ gato gati gadā gajo gai gopī ḍāka ḍoḍa dadṛt bako baṭuko bad
 
-B) Read and transliterate:
+B) 閱讀並轉寫：
 
 गजो गति जपति डप् दा ददाति जगती जटा जड बीज बृबु चिद् कदा तदा दीपितो जजति
+
+
+
+
+

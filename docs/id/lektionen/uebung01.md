@@ -1,9 +1,10 @@
 ---
-title: "Exercise 1"
+title: "Latihan 1"
 uebung_id: 1
-category: "Exercise"
+category: "Latihan"
 ---
 
-# Exercise 1
+# Latihan 1
 
-Lesson 1 contains no written exercises, as it is designed as an introduction to phonetics and pronunciation. The reading exercises at the end of the lesson serve for the practical practice of the sounds and do not require a separate answer key.
+Lektion 1 tidak mengandung latihan tertulis karena dirancang sebagai pengantar fonetik dan pelafalan. Latihan membaca di akhir pelajaran bertujuan untuk melatih bunyi secara praktis dan tidak memerlukan kunci jawaban terpisah.
+

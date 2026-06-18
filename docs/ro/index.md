@@ -15,20 +15,25 @@ hero:
 
 features:
   - title: Devanāgarī ready
-    details: Tipografie perfectă, integrată, pentru scripturile indiene.
-  - title: Ușor de căutat
-    details: O căutare locală profundă cu text integral pune cunoștințele la un clic distanță.
-  - title: Arhitectură modernă
+    details: Perfecție, tipografie integrată pentru scrierile indiene.
+  - title: Ușor de Căutat
+    details: O căutare locală profundă a textului integral menține cunoștințele la un clic distanță.
+  - title: Arhitectură Modernă
     details: Construit pe fundația VitePress pentru viteză maximă.
 ---
 
-::: tip Versiunea 1.3 — în dezvoltare
-**Noutăți în v1.3 (iunie 2026):**
 
-- **Limbi noi:** Punjabă (PA), Latină (LA), Română Grischun (RM), Română (RO)
-- **Glosar:** Sanscrită alfabetic, cu IAST și legături directe către [Dicționarul Monier-Williams 1899](https://www.sanskrit-lexicon.uni-koeln.de/)
-- **Vizualizator QA:** Editor Markdown extins cu previzualizare în timp real, sincronizare sursă brută, funcție SWAP
-- **Calitate:** Verificări automate pre-push pentru erori de traducere
 
-**Observații și rapoarte de erori:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+::: tip Versiunea 1.4 — PWA Offline-First
+**Nou în v1.4 (iunie 2026):**
+
+- **Aplicație Web progresivă (PWA):** Cursul poate fi acum instalat ca aplicație pe desktop și smartphone (iOS/Android).
+- **Funcționare completă offline:** Toate conținuturile selectate sunt salvate local și sunt utilizabile complet fără conexiune la internet.
+- **Stocare dinamică (caching):** Prin setări (Settings), se poate controla în orice moment cu precizie care dintre cele 14 limbi să fie disponibile offline.
+- **Performanță ridicată:** Reducere semnificativă a timpilor de încărcare și a consumului de date prin imagini WebP puternic comprimate.
+
+**Observații și mesaje de eroare:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Contribuie ca autor sau corector:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+
 :::
+

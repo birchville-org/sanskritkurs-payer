@@ -13,3 +13,8 @@ jagat dā dīpikā pāda pīḍ ḍī bata jāti jāgṛ jṝ gato gati gadā ga
 B) Leggere e traslitterare:
 
 गजो गति जपति डप् दा ददाति जगती जटा जड बीज बृबु चिद् कदा तदा दीपितो जजति
+
+
+
+
+

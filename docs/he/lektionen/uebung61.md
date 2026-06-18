@@ -1,11 +1,12 @@
 ---
-title: "Exercise 61"
+title: "תרגול 61"
 uebung_id: 61
-category: "Exercise"
+category: "תרגול"
 ---
 
-# Lesson 61
+# תרגיל 61
 
-Lesson 61 forms the conclusion of the Sanskrit course and contains no further written exercises. 
+שיעור 61 מהווה את סיום קורס הסנסקריט ואינו מכיל תרגילים כתובים נוספים.
 
-With the study of root nouns, the periphrastic future, and denominatives, the foundations for reading Sanskrit original texts are laid. The course concludes with the traditional invocation to Gaṇeśa (श्रीगणनाथ), which marks the transition from the textbook to independent reading.
+עם לימוד השורשים, העתיד הפרפרסטי והדנומינטיבה, מונחות הבסיס לקריאת טקסטים מקוריים בסנסקריט. הקורס מסתיים עם הקריאה המסורתית לגנש (श्रीगणनाथ), המסמנת את המעבר מהספר לימוד לקריאה עצמאית.
+

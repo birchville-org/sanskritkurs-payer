@@ -1,100 +1,122 @@
 ---
-title: Lesson 6
-subtitle: "The structure of the verbal sentence (agent and verbal form)"
+title: Pelajaran 6
+subtitle: "Struktur Kalimat Verba (Agen dan Bentuk Verba)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
-category: "Grammar"
+category: "Tata Bahasa"
 status: stable
 ---
 
-# Lesson 6
+# Pelajaran 6
+
+
 
 ::: deleteme-box
-**In this lesson, you will learn:**
-- The structure of the verbal sentence (agent and verbal form)
-- The formation of verbal forms (Parasmaipada, Ātmanepada, Passive)
-- The moods and tenses of the verb
-- Indicative Present (laṭ) and the primary endings of the 3rd person
-- The formation of the present stem (Classes 1, 4, and 6)
-- The sound gradation (Ablaut: Guṇa and Vṛddhi)
+**Dalam pelajaran ini Anda akan mempelajari:**
+- Struktur kalimat verbal (agen dan bentuk kata kerja)
+- Pembentukan bentuk kata kerja (Parasmaipada, Ātmanepada, Pasif)
+- Modus dan waktu kata kerja
+- Indikatif Präsens (laṭ) dan akhiran primer untuk orang ketiga
+- Pembentukan akar präsens (Kelas 1, 4, dan 6)
+- Perubahan bunyi (Ablaut: Guṇa dan Vṛddhi)
+
 :::
 
-## 6.1. The Verbal Sentence
+## 6.1. Kalimat Verba
+
+
 
 ::: grammar-box
-**Schema I: Verb form**
-- e.g. **yajati** = यजति = "He (she, it) venerates with a sacrifice", "He (she, it) sacrifices"
+**Skema I: Bentuk Kata Kerja**
+- mis. **yajati** = यजति = "Ia (dia, itu) mempersembahkan dengan korban", "Ia (dia, itu) mengorbankan"
 
-**Schema II: Agent (kartṛ m. = कर्तृ) – Verb form**
-- e.g. **rāmo yajati** = रामो यजति = "Rāma venerates with a sacrifice", "Rāma sacrifices"
+**Schema II: Agen (kartṛ m. = कर्तृ) – Bentuk Verbal**
+- mis. **rāmo yajati** = रामो यजति = "Rāma melakukan pemujaan dengan korban", "Rāma berkorban"
+
 :::
 
-When the agent (**kartṛ** m. = कर्तृ) is mentioned in a verbal sentence that is not in the passive voice, the agent is in the **nominative** (first case, prathamā = प्रथमा). In the number (vacana n. = वचन), the agent and the verb form agree.
+Apakah agen (**kartṛ** m. = कर्तृ) disebutkan dalam kalimat verbal yang tidak berbentuk pasif, maka agen berada dalam **Nominatif** (kasus pertama, prathamā = प्रथमा). Dalam numerus (jumlah, vacana n. = वचन), agen dan bentuk verbal harus sesuai.
 
 ---
 
-## 6.2. On the Formation of Verbal Forms
+## 6.2. Tentang pembentukan bentuk-bentuk kata kerja
 
-A finite verbal form, i.e., a verbal form with personal ending, expresses in Sanskrit the following:
+Bentuk verba terbatas, yaitu bentuk verba dengan akhiran personal, dalam bahasa Sanskerta mengungkapkan hal berikut:
 
-1. **Meaning** (**artha** m. अर्थ)
-2. **Person** and **Number** (Zahl, **vacana** n. = वचन) (I, you, he &lt;she, it&gt;, we two, you two, they two, we, you, they)
-3. Mode of action (genus verbi):
-   1. **Parasmaipada** (n. = परस्मैपद) ("word form with reference to another"): Active. e.g. **yajati** = यजति = "He venerates with a sacrifice" (namely the priest, who performs the sacrifice for someone else)
-   2. **Ātmanepada** (n. = आत्मनेपद) ("word form with reference to oneself"): Middle. e.g. **yajate** = यजते = "He venerates with a sacrifice for his own interest" (namely the sacrificer, who sacrifices for himself and his family)
-   3. **Passive** (**karman** n. = कर्मन्). e.g. **ijyate** = इज्यते = "It is venerated with a sacrifice"
+1. **Bedeutung** (**artha** m. अर्थ)
+2. **Person** und **Numerus** (Zahl, **vacana** n. = वचन) (ich, du, er \&lt;sie, es\&gt;, wir beide, ihr beide, sie beide, wir, ihr, sie)
+3. Verhaltensweise (genus verbi):
+   1. **Parasmaipada** (n. = परस्मैपद) ("Wortform mit Bezug auf einen anderen"): Aktivum. z.B. **yajati** = यजति = "Er verehrt mit einem Opfer" (nämlich der Priester, der für jemanden anderen das Opfer vollzieht)
+   2. **Ātmanepada** (n. = आत्मनेपद) ("Wortform mit Bezug auf sich selbst"): Medium. z.B. **yajate** = यजते = "Er verehrt mit einem Opfer im eigenen Interesse" (nämlich der Opferherr, der für sich und seine Familie opfert)
+   3. **Passiv** (**karman** n. = कर्मन्). z.B. **ijyate** = इज्यते = "Es wird mit einem Opfer verehrt"
 
-   In many cases, the semantic nuance of the Ātmanepada can no longer be recognized; also, even artistic poets often use the Ātmanepada without semantic difference from the Parasmaipada. Nevertheless, when translating, one must always pay close attention to whether such a semantic nuance is present.
+Dalam banyak kasus, nuansa makna Ātmanepada tidak lagi dapat dikenali; bahkan penyair terampil sering menggunakan Ātmanepada tanpa perbedaan makna dari Parasmaipada. Namun, dalam terjemahan selalu harus diperhatikan secara cermat apakah terdapat nuansa makna tersebut.
 
-   Verbs that are used in the Parasmaipada and Ātmanepada (in the specific Ātmanepada meaning) are called **Ubhayapada**-verbs (**ubhayapada** n. = उभयपद = "both word forms").
+Kata kerja yang digunakan dalam Parasmaipada dan Ātmanepada (dalam makna khusus Ātmanepada) disebut kata kerja **Ubhayapada** (**ubhayapada** n. = उभयपद = "kedua bentuk kata").
 
-   Some verbs are used either only in the Parasmaipada or only in the Ātmanepada. In these verbs, the Ātmanepada or Parasmaipada has no specific meaning. e.g. **manyate** = मन्यते = "he (she, it) thinks" (without specific Ātmanepada meaning).
+Beberapa kata kerja hanya digunakan dalam Parasmaipada atau hanya dalam Ātmanepada. Pada kata kerja tersebut, Ātmanepada atau Parasmaipada tidak memiliki makna khusus. Contoh: **manyate** = मन्यते = "ia (dia, itu) berpikir" (tanpa makna Ātmanepada khusus).
 
-4. **Mode of statement** (Mood):
-   1. **Indicative**: Statement form
-   2. **Optative**: Wish form and possibility form
-   3. **Imperative**: Command form
-5. **Time** (Tense):
-   1. **Present**: Present
-   2. **Imperfect**
-   3. **Perfect**
+4. **Cara Pengungkapan** (Modus):
+   1. **Indikatif**: Bentuk pernyataan
+   2. **Optatif**: Bentuk keinginan dan kemungkinan
+   3. **Imperatif**: Bentuk perintah
+5. **Waktu** (Tempus):
+   1. **Präsens**: Masa kini
+   2. **Imperfekt**
+   3. **Perfekt**
    4. **Aorist**
-   5. **Future**: Future
-   6. **Conditional**
+   5. **Futur**: Masa depan
+   6. **Kondisional**
 
-   The tenses are formed from tense stems: present stem, aorist stem, perfect stem, future stem.
+Zaman-zaman dibentuk oleh batang waktu: batang kini, batang aorist, batang perfek, batang masa depan.
 
 ---
 
-## 6.3. Indicative Present (laṭ = लट्)
+## 6.3. Indikativ Präsens (laṭ = लट्)
 
-The present tense is the tense of the present, particularly also of duration.
+Kata kerja masa kini adalah tenses untuk masa kini, khususnya juga untuk masa berkelanjutan.
+
+
 
 ::: grammar-box
-**The Indicative (declarative) Present is formed by adding the so-called primary endings to the present stem.**
+**Indikatif (kalimat pernyataan) pada waktu sekarang dibentuk dengan menambahkan akhiran primer yang disebut pada akar waktu sekarang.**
+
 :::
 
-Examples:
+Contoh:
 
-| Root (dhātu) | Present stem | 3rd person singular Indicative Present Parasmaipada |
+
+
+| Akar (dhātu) | Bentuk dasar kata kerja sekarang | Orang ketiga tunggal Indikatif sekarang Parasmaipada |
+
 | :--- | :--- | :--- |
-| **viś** = विश् | **viśa** = विश | **viśati** = विशति = "he (she, it) enters" |
-| **bhū** = भू | **bhava** = भव | **bhavati** = भवति = "he (she, it) arises" |
-| **nṛt** = नृत् | **nṛtya** = नृत्य | **nṛtyati** = नृत्यति = "he (she, it) dances" |
+
+| **viś** = विश् | **viśa** = विश | **viśati** = विशति = "ia (dia, ia) memasuki" |
+
+| **bhū** = भू | **bhava** = भव | **bhavati** = भवति = "ia (dia, itu) muncul" |
+
+| **nṛt** = नृत् | **nṛtya** = नृत्य | **nṛtyati** = नृत्यति = "ia (dia, itu) menari" |
 
 ---
 
-## 6.4. Primary endings of the third person (prathama m. = प्रथम = "first (!) person")
+## 6.4. Akhiran orang ketiga (prathama m. = प्रथम = "orang pertama (!)")
+
+
 
 ::: grammar-box
-| | Singular (singular number)[[br]]ekavacana n.[[br]]एकवचन | Plural (plural number)[[br]]bahuvacana n.[[br]]बहुवचन |
+
+| | Tunggal (Ejaan Tunggal)[[br]]ekavacana n.[[br]]एकवचन | Jamak (Ejaan Jamak)[[br]]bahuvacana n.[[br]]बहुवचन |
+
 | :--- | :--- | :--- |
+
 | **Parasmaipada n.**[[br]]परस्मैपद | **-ti**[[br]]-ति | **-nti**[[br]]-न्ति |
+
 | **Ātmanepada n.**[[br]]आत्मनेपद | **-te**[[br]]-ते | **-nte**[[br]]-न्ते |
+
 :::
 
-Example **yaj** = यज् = "to honor with a sacrifice", "to sacrifice":
-- Present stem: **yaja** = यज
+Contoh **yaj** = यज् = "memuliakan dengan sebuah persembahan", "berkorban":
+- Pokok kata sekarang: **yaja** = यज
 - 3. sg. P. **yajati** = यजति
 - 3. pl. P. **yajanti** = यजन्ति
 - 3. sg. Ā. **yajate** = यजते
@@ -102,109 +124,158 @@ Example **yaj** = यज् = "to honor with a sacrifice", "to sacrifice":
 
 ---
 
-## 6.5. Formation of the Present Stem
+## 6.5. Pembentukan Stamm Presente
 
-### 6.5.1. Verbs of the 6th Present Class (tudādi = तुदादि = "tud etc.")
+### 6.5.1. Kata kerja Kelas Präsens ke-6 (tudādi = तुदादि = "tud dll.")
+
+
 
 ::: grammar-box
-**Present Stem = Root in guṇa grade (as listed) + a-**
+**Basis waktu kini = akar dalam bentuk rendah (seperti yang tercantum) + a-**
 
-| Root (dhātu m.)[[br]]धातु | Present Stem |
+
+
+| Akar (dhātu m.)[[br]]धातु | Bentuk Dasar Kata Kerja Sekarang |
+
 | :--- | :--- |
+
 | **viś**[[br]]विश् | **viśa-**[[br]]विश- |
+
 | **sṛj**[[br]]सृज् | **sṛja-**[[br]]सृज- |
+
 :::
 
-### 6.5.2. Verbs of the 1st Present Class (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū etc.")
+### 6.5.2. Kata kerja Kelas Präsens 1 (bhādi / bhūvādi = भ्वादि / भूवादि = "bhū dll.")
+
+
 
 ::: grammar-box
-| Present Stem = Root in strong grade (rarely in guṇa grade) + a- ||||
-| Root (dhātu m.)[[br]]धातु | Strong Grade | Strong Grade before a- | Present Stem |
+
+| Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a- ||||
+
+| Akar (dhātu m.)[[br]]धातु | Tingkatan Tinggi | Tingkatan Tinggi sebelum a- | Stamm Kata Kerja Sekarang |
+
 | :--- | :--- | :--- | :--- |
+
 | **bhū**[[br]]भू | **bho**[[br]]भो | **bhav**[[br]]भव् | **bhava-**[[br]]भव- |
+
 | **nī**[[br]]नी | **ne**[[br]]ने | **nay**[[br]]नय् | **naya-**[[br]]नय- |
+
 | **smṛ**[[br]]स्मृ | **smar**[[br]]स्मर् | **smar**[[br]]स्मर् | **smara-**[[br]]स्मर- |
+
 | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaja-**[[br]]यज- |
-| If the vowel is in a long closed syllable, i.e., a short vowel before two or more consonants, the formation of the strong grade is omitted ||||
+
+| Jika vokal berada dalam suku kata tertutup panjang, yaitu vokal pendek diikuti dua konsonan atau lebih, pembentukan tingkat tinggi dibiarkan ||||
+
 | **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **ninda-**[[br]]निन्द- |
+
 :::
 
-#### 6.5.2.1. Word Sandhi of e and o
-Within words, before vowels, **e** is replaced by **ay**, **o** by **av**.
+#### 6.5.2.1. Wortsandhi von e und o
+Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan **av**.
 
-#### 6.5.2.2. Sound Gradation (Ablaut)
+#### 6.5.2.2. Tingkatan Bunyi (Ablaut)
+
+
 
 ::: grammar-box
-| Low Grade[[br]]Zero Grade | Strong Grade[[br]]Full Grade[[br]]Guṇa m.[[br]]गुण | Extended Grade[[br]]Vṛddhi f.[[br]]वृद्धि |
+
+| Tahap Rendah[[br]]Tahap Hilang | Tahap Tinggi[[br]]Tahap Penuh[[br]]Guṇa m.[[br]]गुण | Tahap Panjang[[br]]Vṛddhi f.[[br]]वृद्धि |
+
 | :--- | :--- | :--- |
+
 | **ø** | **a** | **ā** |
+
 | **i / ī** | **e** | **ai** |
+
 | **u / ū** | **o** | **au** |
+
 | **ṛ / ṝ** | **ar** | **ār** |
+
 | **ḷ** | **al** | **āl** |
+
 :::
 
-### 6.5.3. Verbs of the 4th Present Class (divādi = दिवादि = "div etc.")
+### 6.5.3. Kata kerja Kelas Präsens ke-4 (divādi = दिवादि = "div dll.")
+
+
 
 ::: grammar-box
-**Present Stem = Root in guṇa grade (as listed) + ya-**
+**Bentuk akar kata kerja sekarang = akar kata dalam tingkat rendah (seperti yang tercantum) + ya-**
 
-| Root (dhātu m.)[[br]]धातु | Present Stem |
+
+
+| Akar (dhātu m.)[[br]]धातु | Bentuk Dasar Kata Kerja Sekarang |
+
 | :--- | :--- |
+
 | **nṛt**[[br]]नृत् | **nṛtya-**[[br]]नृत्य- |
+
 | **muh**[[br]]मुह् | **muhya-**[[br]]मुह्य- |
+
 | **yudh**[[br]]युध् | **yudhya-**[[br]]युध्य- |
+
 | **man**[[br]]मन् | **manya-**[[br]]मन्य- |
+
 :::
 
-### 6.5.4. Theme Vowel, Thematic Present Classes
+### 6.5.4. Vokal Tema, Kelas Present Tematik
+
+
 
 ::: grammar-box
-The **a** in the stem-forming suffixes of present classes is called the **theme vowel**. Present classes with **a** in the stem-forming suffix are therefore called "thematic present classes."
+**a** pada akhiran pembentukan akar kelas-kelas kala sekarang disebut **vokal tema**. Kelas-kelas kala sekarang dengan **a** pada akhiran pembentukan akar oleh karena itu disebut "kelas kala sekarang tematik".
+
 :::
 
 ---
 
-## 6.6. Spoken Sanskrit: Further Questions (praśna m. = प्रश्न)
+## 6.6. Sanskerta Lisan: Pertanyaan Lainnya (praśna m. = प्रश्न)
+
+
 
 ::: grammar-box
-- **N. N. kiṃ karoti?** = N.N. किं करोति = "What does N. N. do?"
-- **N. N. (plural) kiṃ kurvanti?** = N.N. किं कुर्वन्ति = "What do the N.N.s do?"
-- (karoti, kurvanti to **kṛ** = कृ 8 U: "to do, to make")
-- **kiṃ kuśalam?** = किं कुशलम् = "Are you well?, How are you?"
-- Answer: **sarvathā kuśalam** = सर्वथा कुशलम् = "(It is going) well in every respect."
+- **N. N. kiṃ karoti?** = N.N. किं करोति = "Apa yang dilakukan N. N.?"
+- **N. N. (plural) kiṃ kurvanti?** = N.N. किं कुर्वन्ति = "Apa yang dilakukan para N.N.?"
+- (karoti, kurvanti berasal dari **kṛ** = कृ 8 U: "melakukan, membuat")
+- **kiṃ kuśalam?** = किं कुशलम् = "Apakah Anda baik-baik saja?, Bagaimana kabar Anda?"
+- Jawaban: **sarvathā kuśalam** = सर्वथा कुशलम् = "(Saya baik-baik saja) dalam segala hal."
+
 :::
 
 ---
 
-## 6.7. Word List
+## 6.7. Daftar Kata
+
+
 
 ::: grammar-box
-In Sanskrit, verbs are listed in the **root form**. The number following the root indicates the **conjugation class**.
+Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **Bentuk Akar**. Angka setelah akar menunjukkan **Kelas Konjugasi**.
 
-- **P:** Root is Parasmaipada only
-- **Ā:** Root is Ātmanepada only
-- **U:** Ubhayapada ("both forms"): Root is used in both Parasmaipada and Ātmanepada.
-- **():** In parentheses is the 3rd person singular present indicative (laṭ).
+- **P:** Akar hanya Parasmaipada
+- **Ā:** Akar hanya Ātmanepada
+- **U:** Ubhayapada ("kedua bentuk kata"): Akar digunakan dalam Parasmaipada dan Ātmanepada.
+- **():** Dalam kurung adalah orang ketiga tunggal Present Indikatif (laṭ).
+
 :::
 
-**Learn the following words:**
-- **yaj** 1 U (yajati) यज् यजति : to honor with a sacrifice, to sacrifice
-- **bhū** 1 P (bhavati) भू भवति : to become, to arise, to be
-- **smṛ** 1 P (smarati) स्मृ स्मरति : to bring to mind, to remember
-- **nṛt** 4 P (nṛtyati) नृत् नृत्यति : to dance
-- **nī** 1 U (nayati) नी नयति : to lead
-- **man** 4 Ā (manyate) मन् मन्यते : to think
-- **muh** 4 P (muhyati) मुह् मुह्यति : to be confused
-- **yudh** 4 Ā (yudhyate) युध् युध्यते : to fight
-- **viś** 6 P (viśati) विश् विशति : to enter
-- **sṛj** 6 P (sṛjati) सृज् सृजति : to release, to let out, to emanate
+**Pelajari kata-kata berikut:**
+- **yaj** 1 U (yajati) यज् यजति : menyembah dengan persembahan, mengorbankan
+- **bhū** 1 P (bhavati) भू भवति : menjadi, muncul, ada
+- **smṛ** 1 P (smarati) स्मृ स्मरति : menghadirkan kembali, mengingat
+- **nṛt** 4 P (nṛtyati) नृत् नृत्यति : menari
+- **nī** 1 U (nayati) नी नयति : memimpin
+- **man** 4 Ā (manyate) मन् मन्यते : berpikir
+- **muh** 4 P (muhyati) मुह् मुह्यति : bingung
+- **yudh** 4 Ā (yudhyate) युध् युध्यते : bertarung
+- **viś** 6 P (viśati) विश् विशति : memasuki
+- **sṛj** 6 P (sṛjati) सृज् सृजति : melepaskan, mengeluarkan, memancarkan
 
 ---
 
-## 6.8. Exercise
+## 6.8. Latihan
 
-**A) Form verbal sentences with the roots specified in parentheses by inserting them:**
+**A) Bentuklah kalimat verbal dengan memasukkan akar kata yang diberikan dalam kurung:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
    ब्राह्मणस् ... यज्, नृत्, विश्, मन्, युध्, नी, मुह्
 2. devas ... (nṛt, yudh, smṛ, sṛj)
@@ -214,35 +285,38 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 4. dhenus ... (viś, bhū)
    धेनुस् ... विश्, भू
 
-**B) Put the sentences formed in Exercise A into the plural.**
+**B) Ubahlah kalimat-kalimat yang dibentuk dalam Latihan A ke dalam bentuk jamak.**
 
-**C) Translate into Sanskrit:**
-1. He worships with a sacrifice. (The sacrificial priest for a sacrificial lord)
-2. Śiva dances.
-3. Rāma leads.
-4. Śūdras are confused.
-5. The Kṣatriya women enter.
-6. The LORD causes to emanate.
-7. The Kṣatriya worships with a sacrifice. (as sacrificial lord)
-8. Śūdra women dance.
-9. Kṣatriyas fight.
-10. Holy men lead.
-11. They remember.
-12. Who (fem.) dances?
-13. The (mentioned) Brahmin woman dances.
+**C) Terjemahkan ke dalam bahasa Sanskerta:**
+1. Ia memuja dengan sebuah persembahan. (Pendeta persembahan untuk seorang tuan persembahan)
+2. Śiva menari.
+3. Rāma memimpin.
+4. Śūdra bingung.
+5. Para wanita Kṣatriya masuk.
+6. TUHAN memancarkan.
+7. Seorang Kṣatriya memuja dengan sebuah persembahan. (sebagai tuan persembahan)
+8. Para wanita Śūdra menari.
+9. Para Kṣatriya bertarung.
+10. Para orang suci memimpin.
+11. Mereka mengingat.
+12. Siapa (perempuan) menari?
+13. Seorang Brahmana (yang disebutkan) menari.
+
+
 
 ::: media
 ![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
-Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
-(Image source: Wikipedia, CC-BY-SA 2.5)
+Śiva Naṭarāja (नटराज), Kuil Hindu Kadavul, Kauai, Hawaii
+(Sumber gambar: Wikipedia, CC-BY-SA 2.5)
+
 :::
 
 ---
 
-## 6.9. Review Exercise
+## 6.9. Latihan Ulang
 
-**A) Fill-in exercise: Form questions to which the sentences you form after the following fill-in exercises are answers:**
+**A) Latihan pengisian: Bentuklah pertanyaan, yang merupakan jawaban dari kalimat-kalimat yang Anda bentuk setelah latihan pengisian berikut:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
    देवस् ... ईश्वर, नृत्, सृज्, अग्नि, इन्द्र
 2. (dvija, sādhu, kavi) ... brāhmaṇaḥ
@@ -266,7 +340,7 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 11. (sādhu) ... rāmaḥ
     साधु ... रामः
 
-**B) Put into the plural:**
+**B) Bentuklah kata-kata berikut ke dalam bentuk jamak:**
 1. brāhmaṇo yajati. = ब्राह्मणो यजति
 2. kaiṣā. = कैषा
 3. kṣatriyo yajate. = क्षत्रियो यजते
@@ -282,18 +356,18 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 13. paśurdhenuḥ. = पशुर्धेनुः
 14. keyam. = केयम्
 
-**C) Form the Ātmanepada for:**
+**C) Bentuklah Ātmanepada untuk:**
 1. rāmo yajati. = रामो यजति
 2. kṣatriyā nayanti. = क्षत्रिया नयन्ति
 
-**D) Form the Feminine for:**
+**D) Bentuklah kata benda feminin dari:**
 1. śūdro nayati. = शूद्रो नयति
 2. sādhurviśati. = साधुर्विशति
 3. brāhmaṇaḥ smarati. = ब्राह्मणः स्मरति
 4. kṣatriyo yudhyate. = क्षत्रियो युध्यते
 5. devo guruḥ. = देवो गुरुः
 
-**E) Translate:**
+**E) Terjemahkanlah:**
 1. devatānnapūrṇā. = देवतान्नपूर्णा
 2. śūdretarā. = शूद्रेतरा
 3. vaiśyastulādhāraḥ. = वैश्यस्तुलाधारः
@@ -306,31 +380,34 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 10. sādhurguruḥ. = साधुर्गुरुः
 11. gururyajate. = गुरुर्यजते
 
-**F) Translate into Sanskrit:**
-1. Rāma sacrifices (as the sacrificer).
-2. Durgā is a goddess.
-3. Mīnākṣī is a goddess.
+**F) Terjemahkan ke dalam bahasa Sanskerta:**
+1. Rāma mempersembahkan (sebagai pemegang upacara).
+2. Durgā adalah seorang dewi.
+3. Mīnākṣī adalah seorang dewi.
+
+
 
 ::: media
 ![](/images/lekt0602.webp)
-**Mīnākṣī** (मीनाक्षी), Mīnākṣī Temple, Madurai, Tamil Nadu
-(Image source: Wikipedia, Public domain)
+**Mīnākṣī** (मीनाक्षी), Kuil Mīnākṣī, Madurai, Tamil Nadu
+(Sumber gambar: Wikipedia, Domain publik)
+
 :::
 
-4. They are confused.
-5. Rāma is a holy man.
-6. Who is the LORD?
-7. Indra is the LORD.
-8. The livestock enter.
-9. Viṣṇu causes to emanate = Viṣṇu creates.
-10. Twice-born are good.
-11. The triple (knowledge) is the Sāmaveda, the Ṛgveda and the Yajurveda. (2 possibilities)
-12. This goddess is good.
-13. The five "afflictions" are: ignorance, ego, passion (love), hatred, attachment to the body. (2 possibilities)
-14. "Abodes of Brahman" are: friendly goodwill, compassion, sympathetic joy, equanimity. (2 possibilities)
-15. These Brahmins sacrifice on behalf of others.
-16. Brahmins, Kṣatriyas and Vaśyas are twice-born. (2 possibilities)
-17. The sciences (for a prince) are: philosophy, the triple (Vedic knowledge), economics and politics. (2 possibilities)
-18. Are you well?
-19. (It goes for me) in every respect well.
+4. Mereka bingung.
+5. Rāma adalah seorang pria suci.
+6. Siapakah TUHAN itu?
+7. Indra adalah TUHAN.
+8. Hewan ternak masuk.
+9. Viṣṇu memancarkan = Viṣṇu menciptakan.
+10. Dwijā (terlahir dua kali) itu baik.
+11. Pengetahuan tiga kali adalah Sāmaveda, Ṛgveda dan Yajurveda. (2 kemungkinan)
+12. Dewi ini baik.
+13. Lima "penderitaan" adalah: ketidaktahuan, kesombongan diri, gairah (cinta), kebencian, keterikatan pada tubuh. (2 kemungkinan)
+14. "Keadaan tetap Brahman" adalah: keramahan welas asih, belas kasihan, sukacita bersama, keseimbangan batin. (2 kemungkinan)
+15. Brahmana ini mengorbankan atas nama orang lain.
+16. Brahmana, Kṣatriya dan Vaśya adalah Dwijā (terlahir dua kali). (2 kemungkinan)
+17. Ilmu pengetahuan (untuk seorang pangeran) adalah: filsafat, pengetahuan tiga kali (Veda), ekonomi dan politik. (2 kemungkinan)
+18. Apakah Anda baik-baik saja?
+19. (Saya baik) dalam segala hal.
 

@@ -1,15 +1,20 @@
-# Devanāgarī = देवनागरी
+# เทวนาครี = देवनागरी
 
-## Writing Exercise 2
+## แบบฝึกหัดเขียน 2
 
 ![](/images/schrift004.webp)
 
-## Exercise
+## แบบฝึกหัด
 
-A) Write in Devanāgarī:
+A) จงเขียนในอักษรเทวนาครี:
 
 jagat dā dīpikā pāda pīḍ ḍī bata jāti jāgṛ jṝ gato gati gadā gajo gai gopī ḍāka ḍoḍa dadṛt bako baṭuko bad
 
-B) Read and transliterate:
+B) อ่านและถอดเสียง:
 
 गजो गति जपति डप् दा ददाति जगती जटा जड बीज बृबु चिद् कदा तदा दीपितो जजति
+
+
+
+
+

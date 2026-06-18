@@ -1,15 +1,20 @@
 # Devanāgarī = देवनागरी
 
-## Writing Exercise 2
+## Latihan Menulis 2
 
 ![](/images/schrift004.webp)
 
-## Exercise
+## Latihan
 
-A) Write in Devanāgarī:
+A) Tuliskan dalam Devanāgarī:
 
 jagat dā dīpikā pāda pīḍ ḍī bata jāti jāgṛ jṝ gato gati gadā gajo gai gopī ḍāka ḍoḍa dadṛt bako baṭuko bad
 
-B) Read and transliterate:
+B) Bacalah dan transliterasikan:
 
 गजो गति जपति डप् दा ददाति जगती जटा जड बीज बृबु चिद् कदा तदा दीपितो जजति
+
+
+
+
+

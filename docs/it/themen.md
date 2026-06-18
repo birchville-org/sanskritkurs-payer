@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Indice grammaticale
+# Indice di Grammatica
 
-L’Indice grammaticale elenca tutti gli argomenti e fenomeni grammaticali del corso di sanscrito e consente un rapido accesso alle lezioni specifiche.
+L'indice grammaticale elenca tutti gli argomenti e i fenomeni grammaticali del corso di sanscrito e consente un accesso rapido alle lezioni specifiche.
 
 <PayerTopicIndex />
 
@@ -15,3 +15,4 @@ L’Indice grammaticale elenca tutti gli argomenti e fenomeni grammaticali del c
   padding: 32px 48px 64px !important;
 }
 </style>
+

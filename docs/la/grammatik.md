@@ -1,107 +1,109 @@
 ---
-aside: true
+aside: vera
 outline: [2, 3]
 ---
 
 # Argumenta Grammaticalia
 
-Haec pagina systematice omnium argumentorum grammaticorum linguae Sanscriticae in cursu praebet. Singulae sexaginta unae lectiones hic secundum argumenta disponuntur.
+Haec pagina systematice omnes argumenta grammaticalia cursus Sanscritici praebet. Quaelibet sexaginta unius lectionum hic thematico ordine disponitur.
 
-## 1. Phonetica & Scriptura (Saṃhitā & Lipi)
+## 1. Phonologia et Scriptura (Saṃhitā et Lipi)
 
-*   **Introductio in sonos**: Systematice et pronuntiatio → [Lectio 1](/la/lektionen/lektion01)
-*   **Introductio in scripturam (Devanāgarī)**:
-    *   Vocales et consonantes simplices → [Lectio 40](/la/lektionen/lektion40)
-    *   Consonantes compositae (ligaturae) → [Lectio 41](/la/lektionen/lektion41) & [Lectio 42](/la/lektionen/lektion42)
-*   **Sandhi (coniunctio phonetica)**:
-    *   Sandhi ex finali **-s/Visarga** → [Lectio 2](/la/lektionen/lektion02), [Lectio 3](/la/lektionen/lektion03), [Lectio 30](/la/lektionen/lektion30)
-    *   Sandhi ex **-m, -e, -d** → [Lectio 4](/la/lektionen/lektion04)
-    *   **Sandhi vocalium** → [Lectio 3](/la/lektionen/lektion03), [Lectio 24](/la/lektionen/lektion24)
-    *   Sandhi ex **-n** → [Lectio 7](/la/lektionen/lektion07)
-    *   Sandhi pro **nasalibus** → [Lectio 21](/la/lektionen/lektion21), [Lectio 26](/la/lektionen/lektion26)
-    *   Cerebralisatio (**n → ṇ / s → ṣ**) → [Lectio 10](/la/lektionen/lektion10), [Lectio 26](/la/lektionen/lektion26)
-    *   Sandhi verbi (h-, ch-) → [Lectio 44](/la/lektionen/lektion44), [Lectio 51](/la/lektionen/lektion51)
-    *   **Sandhi consonantium** (collectiones) → [Lectio 16](/la/lektionen/lektion16), [Lectio 43](/la/lektionen/lektion43)
+*   **Introductio in Sonos**: Systematica et Pronuntiatio -&gt; [Lectio 1](/lektionen/lektion01)
+*   **Introductio in Scriptura (Devanāgarī)**:
+    *   Vocales et consonantes simplices -&gt; [Lectio 40](/lektionen/lektion40)
+    *   Consonantes compositae (Ligaturae) -&gt; [Lectio 41](/lektionen/lektion41) et [Lectio 42](/lektionen/lektion42)
+*   **Sandhi (Coniunctio Sonorum)**:
+    *   Sandhi finalis **-s/Visarga** -&gt; [Lectio 2](/lektionen/lektion02), [Lectio 3](/lektionen/lektion03), [Lectio 30](/lektionen/lektion30)
+    *   Sandhi **-m, -e, -d** -&gt; [Lectio 4](/lektionen/lektion04)
+    *   **Sandhi Vocalium** -&gt; [Lectio 3](/lektionen/lektion03), [Lectio 24](/lektionen/lektion24)
+    *   Sandhi **-n** -&gt; [Lectio 7](/lektionen/lektion07)
+    *   Sandhi pro **Nasalibus** -&gt; [Lectio 21](/lektionen/lektion21), [Lectio 26](/lektionen/lektion26)
+    *   Cerebralisatio (**n -&gt; ṇ / s -&gt; ṣ**) -&gt; [Lectio 10](/lektionen/lektion10), [Lectio 26](/lektionen/lektion26)
+    *   Sandhi verborum (h-, ch-) -&gt; [Lectio 44](/lektionen/lektion44), [Lectio 51](/lektionen/lektion51)
+    *   **Sandhi Consonantium** (Summaria) -&gt; [Lectio 16](/lektionen/lektion16), [Lectio 43](/lektionen/lektion43)
 
-## 2. De verborum cognitione (Morphologia)
+## 2. De vocabulis (Morphologia)
 
-### 2.1 Substantiva et Adiectiva (Declinatio)
+### 2.1 Substantiva et adiectiva (declinatio)
 
-*   **Fundamenta**: Doctrina Casuum → [Lectio 1](/la/lektionen/lektion01), [Lectio 2](/la/lektionen/lektion02)
-*   **Stamina A** (Masculinum et Neutrum) → [Lectio 2](/la/lektionen/lektion02), [Lectio 7](/la/lektionen/lektion07)
-*   **Stamina I et U** → [Lectio 3](/la/lektionen/lektion03), [Lectio 27](/la/lektionen/lektion27), [Lectio 52](/la/lektionen/lektion52)
-*   **Stamina Consonantica**:
-    *   Stamina in **-mant / -vant** → [Lectio 13](/la/lektionen/lektion13)
-    *   Stamina in **-n** (Rājan, Ātman) → [Lectio 38](/la/lektionen/lektion38)
-    *   Stamina Consonantica simplicia → [Lectio 51](/la/lektionen/lektion51), [Lectio 54](/la/lektionen/lektion54)
-    *   Nomina Radicis in **-ā, -ī, -ū** → [Lectio 61](/la/lektionen/lektion61)
-*   **Dualis** nominum → [Lectio 49](/la/lektionen/lektion49), [Lectio 50](/la/lektionen/lektion50), [Lectio 53](/la/lektionen/lektion53)
-*   **Numeri et Comparatio**:
-    *   Numeralia (Cardinalia/Ordinalia) → [Lectio 52](/la/lektionen/lektion52)
-    *   Comparatio (Comparativus/Superlativus) → [Lectio 53](/la/lektionen/lektion53)
+*   **Elementa**: Doctrina casuum -&gt; [Lectio 1](/lektionen/lektion01), [Lectio 2](/lektionen/lektion02)
+*   **Stamina in -a** (Masculinum & Neutrum) -&gt; [Lectio 2](/lektionen/lektion02), [Lectio 7](/lektionen/lektion07)
+*   **Stamina in -i et -u** -&gt; [Lectio 3](/lektionen/lektion03), [Lectio 27](/lektionen/lektion27), [Lectio 52](/lektionen/lektion52)
+*   **Stamina consonantica**:
+    *   Stamina in **-mant / -vant** -&gt; [Lectio 13](/lektionen/lektion13)
+    *   Stamina in **-n** (Rājan, Ātman) -&gt; [Lectio 38](/lektionen/lektion38)
+    *   Stamina consonantica simplicia -&gt; [Lectio 51](/lektionen/lektion51), [Lectio 54](/lektionen/lektion54)
+    *   Nomina radicalia in **-ā, -ī, -ū** -&gt; [Lectio 61](/lektionen/lektion61)
+*   **Dualis** nominum -&gt; [Lectio 49](/lektionen/lektion49), [Lectio 50](/lektionen/lektion50), [Lectio 53](/lektionen/lektion53)
+*   **Numeri & gradatio**:
+    *   Numeria (cardinalia/ordinalia) -&gt; [Lectio 52](/lektionen/lektion52)
+    *   Gradatio (comparativus/superlativus) -&gt; [Lectio 53](/lektionen/lektion53)
 
-### 2.2 Pronomina & Adverbia
+### 2.2 Pronomina et Adverbia
 
 *   **Pronomina**:
-    *   Interrogativa et Demonstrativa → [Lectio 4](/la/lektionen/lektion04)
-    *   Relativa (yad) → [Lectio 19](/la/lektionen/lektion19)
-    *   Personalia (1. & 2. Persona) → [Lectio 46](/la/lektionen/lektion46), [Lectio 47](/la/lektionen/lektion47)
-    *   Indefinita → [Lectio 37](/la/lektionen/lektion37)
-*   **Adverbia & Appellatio**:
-    *   Formatio adverbiorum → [Lectio 37](/la/lektionen/lektion37), [Lectio 52](/la/lektionen/lektion52)
-    *   Honorifica appellatio & Vocativus → [Lectio 21](/la/lektionen/lektion21), [Lectio 44](/la/lektionen/lektion44)
+    *   Questiones et Demonstrativa -> [Lectio 4](/lektionen/lektion04)
+    *   Relativa (yad) -> [Lectio 19](/lektionen/lektion19)
+    *   Personalia (1. et 2. Persona) -> [Lectio 46](/lektionen/lektion46), [Lectio 47](/lektionen/lektion47)
+    *   Indefinita -> [Lectio 37](/lektionen/lektion37)
+*   **Adverbia & Voces**:
+    *   Formatio Adverbiorum -> [Lectio 37](/lektionen/lektion37), [Lectio 52](/lektionen/lektion52)
+    *   Forma Comitis & Vocativus -> [Lectio 21](/lektionen/lektion21), [Lectio 44](/lektionen/lektion44)
 
 ### 2.3 Verba (Coniugatio)
 
-*   **Systema Praesentis (Indicativus)**:
-    *   Terminatio personales (3., 2., 1. persona) → [Lectio 6](/la/lektionen/lektion06), [Lectio 44](/la/lektionen/lektion44), [Lectio 39](/la/lektionen/lektion39)
-    *   Classes thematicae (1, 4, 6, 10) → [Lectio 6](/la/lektionen/lektion06), [Lectio 28](/la/lektionen/lektion28)
-    *   Classes athematicae → [Lectio 17](/la/lektionen/lektion17), [Lectio 33](/la/lektionen/lektion33), [Lectio 7](/la/lektionen/lektion07), [Lectio 31](/la/lektionen/lektion31), [Lectio 8](/la/lektionen/lektion08), [Lectio 30](/la/lektionen/lektion30)
-*   **Alia tempora & modi**:
-    *   **Imperfectum** (Praeteritum) → [Lectio 32](/la/lektionen/lektion32)
-    *   **Optativus & Imperativus** → [Lectio 30](/la/lektionen/lektion30), [Lectio 48](/la/lektionen/lektion48)
-    *   **Perfectum** (Singularis/Pluralis) → [Lectio 34](/la/lektionen/lektion34), [Lectio 35](/la/lektionen/lektion35), [Lectio 36](/la/lektionen/lektion36)
-    *   **Perfectum (Dualis)** → [Lectio 60](/la/lektionen/lektion60)
-    *   **Futurum** (Simplex & Periphrasticum) → [Lectio 26](/la/lektionen/lektion26), [Lectio 61](/la/lektionen/lektion61)
-    *   **Aoristus** (Praeteritum) → [Lectio 54](/la/lektionen/lektion54), [Lectio 55](/la/lektionen/lektion55), [Lectio 56](/la/lektionen/lektion56), [Lectio 57](/la/lektionen/lektion57), [Lectio 58](/la/lektionen/lektion58)
+*   **Systema praesentis (indicativus)**:
+    *   Desinentiae personales (persona 3., 2., 1.) -&gt; [Lectio 6](/lektionen/lektion06), [Lectio 44](/lektionen/lektion44), [Lectio 39](/lektionen/lektion39)
+    *   Classes thematicae (1, 4, 6, 10) -&gt; [Lectio 6](/lektionen/lektion06), [Lectio 28](/lektionen/lektion28)
+    *   Classes athematicae -&gt; [Lectio 17](/lektionen/lektion17), [Lectio 33](/lektionen/lektion33), [Lectio 7](/lektionen/lektion07), [Lectio 31](/lektionen/lektion31), [Lectio 8](/lektionen/lektion08), [Lectio 30](/lektionen/lektion30)
+*   **Alia tempora et modi**:
+    *   **Imperfectum** (praeteritum) -&gt; [Lectio 32](/lektionen/lektion32)
+    *   **Optativus et Imperativus** -&gt; [Lectio 30](/lektionen/lektion30), [Lectio 48](/lektionen/lektion48)
+    *   **Perfectum** (singularis/pluralis) -&gt; [Lectio 34](/lektionen/lektion34), [Lectio 35](/lektionen/lektion35), [Lectio 36](/lektionen/lektion36)
+    *   **Perfectum (dualis)** -&gt; [Lectio 60](/lektionen/lektion60)
+    *   **Futurum** (simplex et periphrasticum) -&gt; [Lectio 26](/lektionen/lektion26), [Lectio 61](/lektionen/lektion61)
+    *   **Aoristus** (praeteritum) -&gt; [Lectio 54](/lektionen/lektion54), [Lectio 55](/lektionen/lektion55), [Lectio 56](/lektionen/lektion56), [Lectio 57](/lektionen/lektion57), [Lectio 58](/lektionen/lektion58)
 *   **Formae verborum derivatae**:
-    *   **Passivum & Causativum** → [Lectio 10](/la/lektionen/lektion10), [Lectio 28](/la/lektionen/lektion28), [Lectio 29](/la/lektionen/lektion29)
-    *   **Intensivum & Denominativa** → [Lectio 61](/la/lektionen/lektion61)
-*   **Verba in Duali** → [Lectio 59](/la/lektionen/lektion59), [Lectio 60](/la/lektionen/lektion60)
+    *   **Passivum et Causativum** -&gt; [Lectio 10](/lektionen/lektion10), [Lectio 28](/lektionen/lektion28), [Lectio 29](/lektionen/lektion29)
+    *   **Intensivum et Denominativa** -&gt; [Lectio 61](/lektionen/lektion61)
+*   **Verba in duali (numerus dualis)** -&gt; [Lectio 59](/lektionen/lektion59), [Lectio 60](/lektionen/lektion60)
 
-### 2.4 Nominalia & Composita
+### 2.4 Nominalia composita
 
 *   **Composita (Samāsa)**:
-    *   **Dvandva** (Compositum copulativum) → [Lectio 5](/la/lektionen/lektion05), [Lectio 9](/la/lektionen/lektion09)
-    *   **Tatpuruṣa** (Compositum determinativum) → [Lectio 15](/la/lektionen/lektion15), [Lectio 18](/la/lektionen/lektion18)
-    *   Composita Upapada → [Lectio 51](/la/lektionen/lektion51)
-    *   **Bahuvrīhi** (Compositum possessivum) → [Lectio 20](/la/lektionen/lektion20)
-*   **Suffixa & Particpia**:
-    *   Suffixa notabilia (-a, -ana, -tra, etc.) → [Lectio 8](/la/lektionen/lektion08), [Lectio 9](/la/lektionen/lektion09)
-    *   **PPP** (Participium Perfecti Passivi) → [Lectio 12](/la/lektionen/lektion12), [Lectio 13](/la/lektionen/lektion13)
-    *   **PPA** (Participium Perfecti Activi) → [Lectio 52](/la/lektionen/lektion52)
-    *   **Absolutivum & Infinitivus** → [Lectio 22](/la/lektionen/lektion22), [Lectio 23](/la/lektionen/lektion23)
+    *   **Dvandva** (Compositum copulativum) -> [Lectio 5](/lektionen/lektion05), [Lectio 9](/lektionen/lektion09)
+    *   **Tatpuruṣa** (Compositum determinativum) -> [Lectio 15](/lektionen/lektion15), [Lectio 18](/lektionen/lektion18)
+    *   Composita Upapada -> [Lectio 51](/lektionen/lektion51)
+    *   **Bahuvrīhi** (Compositum possessivum) -> [Lectio 20](/lektionen/lektion20)
+*   **Suffixa & Particippia**:
+    *   Suffixa importantia (-a, -ana, -tra, etc.) -> [Lectio 8](/lektionen/lektion08), [Lectio 9](/lektionen/lektion09)
+    *   **PPP** (Participium Perfecti Passivi) -> [Lectio 12](/lektionen/lektion12), [Lectio 13](/lektionen/lektion13)
+    *   **PPA** (Participium Perfecti Activi) -> [Lectio 52](/lektionen/lektion52)
+    *   **Absolutivum & Infinitivus** -> [Lectio 22](/lektionen/lektion22), [Lectio 23](/lektionen/lektion23)
 
-## 3. De Syntaxi (Syntax)
+## 3. De Syntaxi
 
-*   **De sententia nominali** -> [Lectio 2](/la/lektionen/lektion02)
-*   **De sententia interrogativa** -> [Lectio 37](/la/lektionen/lektion37)
-*   **De casuum usu**:
-    *   Sententia nominalis et Nominativus -> [Lectio 2](/la/lektionen/lektion02)
-    *   Accusativus (etiam duplicatus) -> [Lectio 7](/la/lektionen/lektion07), [Lectio 11](/la/lektionen/lektion11)
-    *   Instrumentalis -> [Lectio 10](/la/lektionen/lektion10)
-    *   Genitivus -> [Lectio 14](/la/lektionen/lektion14)
-    *   Dativus -> [Lectio 24](/la/lektionen/lektion24)
-    *   Ablativus -> [Lectio 25](/la/lektionen/lektion25)
-    *   Locativus -> [Lectio 27](/la/lektionen/lektion27)
-*   **De sententiis subordinatis**:
-    *   Sententiae relativae -> [Lectio 19](/la/lektionen/lektion19)
-    *   Usus partipiorum -> [Lectio 12](/la/lektionen/lektion12), [Lectio 44](/la/lektionen/lektion44)
+*   **Sententia nominalis** -> [Lectio 2](/lektionen/lektion02)
+*   **Sententia interrogativa** -> [Lectio 37](/lektionen/lektion37)
+*   **Usus casuum**:
+    *   Sententia nominalis et Nominativus -> [Lectio 2](/lektionen/lektion02)
+    *   Accusativus (etiam duplicatus) -> [Lectio 7](/lektionen/lektion07), [Lectio 11](/lektionen/lektion11)
+    *   Instrumentalis -> [Lectio 10](/lektionen/lektion10)
+    *   Genitivus -> [Lectio 14](/lektionen/lektion14)
+    *   Dativus -> [Lectio 24](/lektionen/lektion24)
+    *   Ablativus -> [Lectio 25](/lektionen/lektion25)
+    *   Locativus -> [Lectio 27](/lektionen/lektion27)
+*   **Sententiae subiectivae**:
+    *   Sententiae relativae -> [Lectio 19](/lektionen/lektion19)
+    *   Usus partcipiorum -> [Lectio 12](/lektionen/lektion12), [Lectio 44](/lektionen/lektion44)
 
-## IV. Metrice (De Versificatione)
+## 4. Metrika (De Versibus)
 
-Philosophia et litterae Sanscriticae saepe versibus conscribuntur. Metrica rhythmum et structuram horum versuum docet.
+Philosophia et litterae Sanscriticae saepe versibus conscribuntur. Metrice rhythmum et structuram horum versuum docet.
 
-*   **Introductio & Śloka** → [Lectio 45](/la/lektionen/lektion45), [Lectio 53](/la/lektionen/lektion53)
-*   **Metra peritia** (Trīṣṭubh, Jāgatī) → [Lectio 54](/la/lektionen/lektion54)
+*   **Introductio & Śloka** -&gt; [Lectio 45](/lektionen/lektion45), [Lectio 53](/lektionen/lektion53)
+*   **Metra provectiora** (Trīṣṭubh, Jāgatī) -&gt; [Lectio 54](/lektionen/lektion54)
+
+
 

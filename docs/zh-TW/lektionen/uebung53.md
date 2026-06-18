@@ -1,11 +1,11 @@
 ---
-title: "Exercise 53"
+title: "練習 53"
 uebung_id: 53
-category: "Exercise"
+category: "練習"
 ---
 
-# Exercise 53
+# 練習 53
 
-The exercise for Lesson 53 consists of the metrical analysis (determination of the Śloka scheme) of all verses learned in the preceding lessons. 
+第53課的練習在於對之前各課所學的所有詩句進行格律分析（確定頌詩體格式）。
 
-Since this is a comprehensive review and analysis task, there is no separate solution key in the classical sense. The solutions arise from the application of the rules taught in Lesson 53 to the already known texts.
+由於這是一個綜合性的複習與分析練習，因此沒有傳統意義上的獨立解答鍵。解答源自於將第53課所傳授的規則應用於已知的文本。

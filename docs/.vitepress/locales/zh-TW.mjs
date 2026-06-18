@@ -1,12 +1,11 @@
-
 export const zhTW = {
-  label: 'EN',
-  lang: 'en-US',
+  label: 'zh-TW',
+  lang: 'zh-TW',
   link: '/zh-TW/',
   title: 'Sanskrit Course',
   description: 'Grammar textbook by Alois Payer',
   themeConfig: {
-    outline: { level: [2, 3], label: 'On this page' },
+    outline: { level: [2, 3], label: '本頁內容' },
     returnToTopLabel: 'Return to top',
     sidebarMenuLabel: 'Menu',
     darkModeSwitchLabel: 'Appearance',

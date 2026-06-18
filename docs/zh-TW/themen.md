@@ -3,15 +3,16 @@ aside: false
 outline: false
 ---
 
-# Grammar Index
+# 文法索引
 
-The Grammar Index lists all grammatical topics and phenomena of the Sanskrit course and enables quick access to specific lessons.
+語法索引列出了梵文課程中的所有語法主題和現象，並允許快速訪問特定課程。
 
-<PayerTopicIndex />
+&lt;支付主题索引 /&gt;
 
 <style>
-/* Adjust layout for full width index */
+/* 調整版面配置以支援全寬索引頁 */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }
 </style>
+

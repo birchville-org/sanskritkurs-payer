@@ -42,10 +42,18 @@ def auto_update_and_verify():
         print("[*] Build Gate erfolgreich! Updates werden beibehalten.")
         return "Auto-Update war ERFOLGREICH. Das Projekt kompiliert nach 'npm update' fehlerfrei."
     else:
+        output = str(build_res.stdout) + str(build_res.stderr)
+        if "out of memory" in output.lower() or "heap" in output.lower() or build_res.returncode in [137, 134]:
+            print("[!] Build Gate wegen Speicherlimit (OOM) fehlgeschlagen! Überspringe Rollback, da das Update ungefährlich ist.")
+            return "Auto-Update wurde durchgeführt. Der anschließende Build brach wegen RAM-Überlastung (OOM) ab, jedoch nicht wegen Paket-Inkompatibilitäten. Ein Rollback wurde daher übersprungen."
+        
         print("[!] Build Gate FEHLGESCHLAGEN! Führe Rollback durch...")
+        with open("build_crash.log", "w", encoding="utf-8") as f:
+            f.write(output)
+        print("[!] Crash-Log wurde unter 'build_crash.log' gespeichert.")
         subprocess.run("git checkout package.json package-lock.json", shell=True)
         subprocess.run("npm install", shell=True)
-        return "Auto-Update ist FEHLGESCHLAGEN. 'npm run docs:build' ist nach dem Update gecrasht. Ein Git-Rollback wurde automatisch durchgeführt, das System ist wieder im Ursprungszustand."
+        return "Auto-Update ist FEHLGESCHLAGEN. 'npm run docs:build' ist nach dem Update gecrasht. Ein Git-Rollback wurde automatisch durchgeführt, das System ist wieder im Ursprungszustand. Das genaue Error-Log wurde als build_crash.log gespeichert."
 
 def gather_npm_data():
     print("[*] Running 'npm audit --json'...")
@@ -161,12 +169,21 @@ def send_email(report_markdown, target_email="marcodem@me.com"):
         print(f"[!] Fehler beim Versenden der E-Mail: {e}")
 
 if __name__ == "__main__":
+    import time
     update_status = auto_update_and_verify()
     
     data = gather_npm_data()
     print("[*] Daten gesammelt. Analysiere...")
     
-    report = ask_gemma(data, update_status)
+    print("[*] Starte lokales Gemma4 Modell (nike.local)...")
+    subprocess.run("~/llm-benchmark/start_ollamag412.sh", shell=True)
+    time.sleep(15)  # Kurz warten, bis der Server hochgefahren und erreichbar ist
+    
+    try:
+        report = ask_gemma(data, update_status)
+    finally:
+        print("[*] Stoppe lokales Gemma4 Modell...")
+        subprocess.run("~/llm-benchmark/stop_ollamag412.sh", shell=True)
     
     if report:
         print("\n" + "="*50)

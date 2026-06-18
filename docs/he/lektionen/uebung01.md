@@ -1,9 +1,10 @@
 ---
-title: "Exercise 1"
+title: "תרגול 1"
 uebung_id: 1
-category: "Exercise"
+category: "תרגול"
 ---
 
-# Exercise 1
+# תרגול 1
 
-Lesson 1 contains no written exercises, as it is designed as an introduction to phonetics and pronunciation. The reading exercises at the end of the lesson serve for the practical practice of the sounds and do not require a separate answer key.
+שיעור 1 אינו מכיל תרגילים בכתב, שכן הוא מתוכנן כהקדמה לפונולוגיה ולהגייה. תרגילי הקריאה בסוף השיעור נועדו לתרגול מעשי של הצלילים ואינם דורשים מפת פתרונות נפרדת.
+

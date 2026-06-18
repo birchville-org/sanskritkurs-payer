@@ -3,15 +3,16 @@ aside: false
 outline: false
 ---
 
-# Grammar Index
+# Indeks Tata Bahasa
 
-The Grammar Index lists all grammatical topics and phenomena of the Sanskrit course and enables quick access to specific lessons.
+Indeks Tata Bahasa mencantumkan semua topik dan fenomena tata bahasa dari kursus Sanskerta, serta memungkinkan akses cepat ke pelajaran tertentu.
 
 <PayerTopicIndex />
 
 <style>
-/* Adjust layout for full width index */
+/* Sesuaikan tata letak untuk indeks lebar penuh */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }
 </style>
+

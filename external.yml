@@ -1,0 +1,24 @@
+http:
+  routers:
+    speed:
+      rule: "Host(`speed.birchville.cc`)"
+      entrypoints:
+        - "web"
+      service: "speed"
+
+    nyx-llm:
+      rule: "Host(`nyx-llm.birchville.cc`)"
+      entrypoints:
+        - "web"
+      service: "nyx-llm"
+
+  services:
+    speed:
+      loadBalancer:
+        servers:
+          - url: "http://192.168.1.8:3000"
+
+    nyx-llm:
+      loadBalancer:
+        servers:
+          - url: "http://192.168.1.22:8000"

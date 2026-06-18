@@ -4,12 +4,17 @@
 
 ![](/images/schrift004.webp)
 
-## Esercitaziun
+## Esercizi
 
-A) Scrivì en Devanāgarī:
+A) Scribiti en Devanāgarī:
 
 jagat dā dīpikā pāda pīḍ ḍī bata jāti jāgṛ jṝ gato gati gadā gajo gai gopī ḍāka ḍoḍa dadṛt bako baṭuko bad
 
-B) Lege e transliterai:
+B) Leghete e transliterai:
 
 गजो गति जपति डप् दा ददाति जगती जटा जड बीज बृबु चिद् कदा तदा दीपितो जजति
+
+
+
+
+

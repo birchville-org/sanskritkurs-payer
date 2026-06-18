@@ -5,7 +5,7 @@ outline: false
 
 # Grammar Index
 
-The Grammar Index lists all grammatical topics and phenomena of the Sanskrit course and enables quick access to specific lessons.
+The Grammar Index lists all grammatical topics and phenomena from the Sanskrit course and enables quick access to specific lessons.
 
 <PayerTopicIndex />
 
@@ -15,3 +15,4 @@ The Grammar Index lists all grammatical topics and phenomena of the Sanskrit cou
   padding: 32px 48px 64px !important;
 }
 </style>
+

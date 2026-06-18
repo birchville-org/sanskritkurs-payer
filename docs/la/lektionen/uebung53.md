@@ -6,6 +6,6 @@ category: "Exercitatio"
 
 # Exercitatio 53
 
-Exercitatio ad Lektionem 53 spectat in metrice analysi (determinatio schematis Śloka) omnium versuum in lectionibus praecedentibus didacticorum. 
+Exercitium ad Lektionem 53 pertinet, quod est metrice analyseri (determinatio schematis Śloka) omnium versuum in praecedentibus lectionibus didacticorum.
 
-Quoniam haec est repetitio comprehensiva et exercitatio analytica, nullus clavis solutionis separatus in sensu classico exstat. Solutiones ex applicatione regularum in Lektionem 53 traditarum ad textus iam cognitos emergunt.
+Quoniam haec est comprehensiva repetitio et exercitium analytica, nullus clavis solutionum separatam in sensu classico praebetur. Solutiones ex applicatione regulis in Lectione 53 traditis ad textus iam cognitos emergunt.

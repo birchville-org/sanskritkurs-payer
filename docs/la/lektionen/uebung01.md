@@ -1,9 +1,10 @@
 ---
-title: "Exercitium 1"
+title: "Exercitatio 1"
 uebung_id: 1
-category: "Exercitium"
+category: "Exercitatio"
 ---
 
-# Exercitium 1
+# Exercitatio 1
 
-Lectio 1 exercitia scripta non continet, quia ad introductionem phonologiae et pronuntiationis confecta est. Exercitia lectionis ad finem lectionis positae ad practicum exercitium sonorum pertinent et clavis solutionis separata non egeant.
+Lectio 1 nullas exercitiationes scriptas continet, quia ad phonologiae et pronuntiationis introductionem confecta est. Exercitationes lectionis ad finem lectionis positae ad sonorum practicum exercitium pertinent et clavis solutionis separatam non requirunt.
+

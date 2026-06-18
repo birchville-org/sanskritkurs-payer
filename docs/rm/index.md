@@ -4,31 +4,36 @@ layout: home
 hero:
   name: Kurs da Sanscrit
   text: In curs cumplet
-  tagline: da Alois Payer (Biblioteca Global Village da Alois Payer)
+  tagline: da Alois Payer (Biblioteca Global Village da Tüpfli)
   actions:
     - theme: brand
       text: Cumenzar il curs
       link: /rm/lektionen/lektion01
     - theme: alt
-      text: Argumets da gramatica
+      text: Argumets da grammatica
       link: /rm/grammatik
 
 features:
   - title: Devanāgarī ready
-    details: Tipografia perfetga e integrata per scripts indians.
-  - title: Facilità da tschertgar
-    details: Ina tschertga da text cumplet locala metta la savida a disposiziun cun in click.
+    detagls: Tipografia perfetga e integrata per scripts indians.
+  - title: Facilmain consultabel
+    detagls: In tschertgament local profund mantegna la savida a disposiziun cun in clic.
   - title: Architectura moderna
-    details: Construí sin las fundamentas da VitePress per la massima sveltezza.
+    detagls: Construí sin las fundamentas da VitePress per la massima sveltezza.
 ---
 
-::: tip Versiun 1.3 — en svilup
-**Nov en v1.3 (giugnetg 2026):**
 
-- **Lingvas novas:** Punjabi (PA), Latin (LA), Rumantsch Grischun (RM), Rumen (RO)
-- **Glossari:** Sanscrit en orden alfabetic cun IAST e collegiament direct al [Dicziunar Monier-Williams 1899](https://www.sanskrit-lexicon.uni-koeln.de/)
-- **Visualisader QA:** Editor da Markdown extendì cun anticipaziun en direct, sincronisaziun da la sura cruda, funcziun SWAP
-- **Qualitad:** Verificaziuns automaticas avant il push per errurs da traducziun
 
-**Observaziuns e rapports d’errur:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+::: tip Versiun 1.4 — Offline-First PWA
+**Novitad en v1.4 (giugnetg 2026):**
+
+- **Aplicaziun web progressiva (PWA):** Il curs sa installar ussa sco applicaziun sin l’elencader ed il smartphone (iOS/Android).
+- **Cumpletamain offline:** Tut ils cuntegns seleccionads vegnan memorisads localmain e pon vegnir duvrads senza connexiun a l’internet.
+- **Cachemaint dynamic:** Tramain las reglaments (Settings) sa lascha adina pizisamain gudagnar, tge dals 14 linguas duessan esser offline disponibels.
+- **High-Performance:** Reducziun massiva dals temps da caricament e dal consum da datas tras imaginas WebP altamain compressidas.
+
+**Observaziuns ed avis d’errores:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Participar sco autur u correctur:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+
 :::
+

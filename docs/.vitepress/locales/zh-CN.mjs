@@ -1,12 +1,11 @@
-
 export const zhCN = {
-  label: 'EN',
-  lang: 'en-US',
+  label: '简体中文',
+  lang: 'zh-CN',
   link: '/zh-CN/',
   title: 'Sanskrit Course',
   description: 'Grammar textbook by Alois Payer',
   themeConfig: {
-    outline: { level: [2, 3], label: 'On this page' },
+    outline: { level: [2, 3], label: '本页内容' },
     returnToTopLabel: 'Return to top',
     sidebarMenuLabel: 'Menu',
     darkModeSwitchLabel: 'Appearance',

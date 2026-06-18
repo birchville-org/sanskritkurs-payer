@@ -1,9 +1,10 @@
 ---
-title: "Exercise 1"
+title: "แบบฝึกหัด 1"
 uebung_id: 1
-category: "Exercise"
+category: "แบบฝึกหัด"
 ---
 
-# Exercise 1
+# แบบฝึกหัด 1
 
-Lesson 1 contains no written exercises, as it is designed as an introduction to phonetics and pronunciation. The reading exercises at the end of the lesson serve for the practical practice of the sounds and do not require a separate answer key.
+บทที่ 1 ไม่มีแบบฝึกหัดการเขียน เนื่องจากออกแบบมาเพื่อแนะนำระบบเสียงและการออกเสียง แบบฝึกหัดการอ่านท้ายบทมีจุดประสงค์เพื่อฝึกฝนเสียงอย่างเป็นปฏิบัติ และไม่ต้องใช้เฉลยแยกต่างหาก
+

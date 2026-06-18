@@ -3,105 +3,107 @@ aside: true
 outline: [2, 3]
 ---
 
-# Граматически теми
+# Граматични теми
 
 Тази страница предоставя систематичен преглед на всички граматически теми на санскритския курс. Всяка от 61-те лекции е тематично класифицирана тук.
 
-## 1. Фонетика и писменост (Саṃхита и Липи)
+## 1. Фonetика и писменост (Саṃhitā & Липи)
 
-*   **Въведение в звуците**: Систематика и произношение → [Урок 1](/bg/lektionen/lektion01)
+*   **Въведение в фонемите**: Систематика и произношение -&gt; [Лекция 1](/lektionen/lektion01)
 *   **Въведение в писмеността (Деванагари)**:
-    *   Гласни и прости съгласни → [Урок 40](/bg/lektionen/lektion40)
-    *   Съединени съгласни (лигатури) → [Урок 41](/bg/lektionen/lektion41) и [Урок 42](/bg/lektionen/lektion42)
-*   **Сандхи (звуково свързване)**:
-    *   Сандхи на крайно **-s/Висарга** → [Урок 2](/bg/lektionen/lektion02), [Урок 3](/bg/lektionen/lektion03), [Урок 30](/bg/lektionen/lektion30)
-    *   Сандхи на **-m, -e, -d** → [Урок 4](/bg/lektionen/lektion04)
-    *   **Гласов сандхи** → [Урок 3](/bg/lektionen/lektion03), [Урок 24](/bg/lektionen/lektion24)
-    *   Сандхи на **-n** → [Урок 7](/bg/lektionen/lektion07)
-    *   Сандхи за **назални** → [Урок 21](/bg/lektionen/lektion21), [Урок 26](/bg/lektionen/lektion26)
-    *   Церевелизация (**n → ṇ / s → ṣ**) → [Урок 10](/bg/lektionen/lektion10), [Урок 26](/bg/lektionen/lektion26)
-    *   Сандхи на думи (h-, ch-) → [Урок 44](/bg/lektionen/lektion44), [Урок 51](/bg/lektionen/lektion51)
-    *   **Съгласен сандхи** (обобщения) → [Урок 16](/bg/lektionen/lektion16), [Урок 43](/bg/lektionen/lektion43)
+    *   Гласни и прости съгласни -&gt; [Лекция 40](/lektionen/lektion40)
+    *   Съединени съгласни (лигатури) -&gt; [Лекция 41](/lektionen/lektion41) и [Лекция 42](/lektionen/lektion42)
+*   **Сандхи (свързване на звуци)**:
+    *   Сандхи на крайното **-s/Висаргa** -&gt; [Лекция 2](/lektionen/lektion02), [Лекция 3](/lektionen/lektion03), [Лекция 30](/lektionen/lektion30)
+    *   Сандхи на **-m, -e, -d** -&gt; [Лекция 4](/lektionen/lektion04)
+    *   **Гласов сандхи** -&gt; [Лекция 3](/lektionen/lektion03), [Лекция 24](/lektionen/lektion24)
+    *   Сандхи на **-n** -&gt; [Лекция 7](/lektionen/lektion07)
+    *   Сандхи за **назални** -&gt; [Лекция 21](/lektionen/lektion21), [Лекция 26](/lektionen/lektion26)
+    *   Церебрализация (**n -&gt; ṇ / s -&gt; ṣ**) -&gt; [Лекция 10](/lektionen/lektion10), [Лекция 26](/lektionen/lektion26)
+    *   Думов сандхи (h-, ch-) -&gt; [Лекция 44](/lektionen/lektion44), [Лекция 51](/lektionen/lektion51)
+    *   **Съгласен сандхи** (обобщения) -&gt; [Лекция 16](/lektionen/lektion16), [Лекция 43](/lektionen/lektion43)
 
 ## 2. Морфология
 
 ### 2.1 Съществителни и прилагателни (Склонение)
 
-*   **Основи**: Учение за падежите → [Урок 1](/bg/lektionen/lektion01), [Урок 2](/bg/lektionen/lektion02)
-*   **A-основи** (Мъжки род и Среден род) → [Урок 2](/bg/lektionen/lektion02), [Урок 7](/bg/lektionen/lektion07)
-*   **I- и U-основи** → [Урок 3](/bg/lektionen/lektion03), [Урок 27](/bg/lektionen/lektion27), [Урок 52](/bg/lektionen/lektion52)
-*   **Съгласнически основи**:
-    *   Основи на **-mant / -vant** → [Урок 13](/bg/lektionen/lektion13)
-    *   Основи на **-n** (Rājan, Ātman) → [Урок 38](/bg/lektionen/lektion38)
-    *   Прости съгласнически основи → [Урок 51](/bg/lektionen/lektion51), [Урок 54](/bg/lektionen/lektion54)
-    *   Коренови имена на **-ā, -ī, -ū** → [Урок 61](/bg/lektionen/lektion61)
-*   **Двайственник (Двайствено число)** на имената → [Урок 49](/bg/lektionen/lektion49), [Урок 50](/bg/lektionen/lektion50), [Урок 53](/bg/lektionen/lektion53)
+*   **Основи**: Учение за падежите -&gt; [Урок 1](/lektionen/lektion01), [Урок 2](/lektionen/lektion02)
+*   **A-основи** (Мъжки и Среден род) -&gt; [Урок 2](/lektionen/lektion02), [Урок 7](/lektionen/lektion07)
+*   **I- и U-основи** -&gt; [Урок 3](/lektionen/lektion03), [Урок 27](/lektionen/lektion27), [Урок 52](/lektionen/lektion52)
+*   **Съгласни основи**:
+    *   Основи на **-mant / -vant** -&gt; [Урок 13](/lektionen/lektion13)
+    *   Основи на **-n** (Rājan, Ātman) -&gt; [Урок 38](/lektionen/lektion38)
+    *   Прости съгласни основи -&gt; [Урок 51](/lektionen/lektion51), [Урок 54](/lektionen/lektion54)
+    *   Коренови имена на **-ā, -ī, -ū** -&gt; [Урок 61](/lektionen/lektion61)
+*   **Дуал (двойна форма)** на имената -&gt; [Урок 49](/lektionen/lektion49), [Урок 50](/lektionen/lektion50), [Урок 53](/lektionen/lektion53)
 *   **Числителни и Степенуване**:
-    *   Числителни думи (Картинативни/Поредни) → [Урок 52](/bg/lektionen/lektion52)
-    *   Степенуване (Степенуване/Суперлатив) → [Урок 53](/bg/lektionen/lektion53)
+    *   Числителни думи (Картдинални/Ординални) -&gt; [Урок 52](/lektionen/lektion52)
+    *   Степенуване (Компаратив/Суперлатив) -&gt; [Урок 53](/lektionen/lektion53)
 
 ### 2.2 Местоимения и наречия
 
-*   **Местоимения**:
-    *   Въпросни и указателни местоимения -> [Лекция 4](/bg/lektionen/lektion04)
-    *   Относителни местоимения (yad) -> [Лекция 19](/bg/lektionen/lektion19)
-    *   Лични местоимения (1. и 2. лице) -> [Лекция 46](/bg/lektionen/lektion46), [Лекция 47](/bg/lektionen/lektion47)
-    *   Неопределени местоимения -> [Лекция 37](/bg/lektionen/lektion37)
-*   **Наречия и обръщение**:
-    *   Образувание на наречия -> [Лекция 37](/bg/lektionen/lektion37), [Лекция 52](/bg/lektionen/lektion52)
-    *   Вежливо обръщение и вокатив -> [Лекция 21](/bg/lektionen/lektion21), [Лекция 44](/bg/lektionen/lektion44)
+*   **Лични местоимения**:
+    *   Въпросни и указателни местоимения -> [Лекция 4](/lektionen/lektion04)
+    *   Относителни местоимения (yad) -> [Лекция 19](/lektionen/lektion19)
+    *   Лични местоимения (1. и 2. лице) -> [Лекция 46](/lektionen/lektion46), [Лекция 47](/lektionen/lektion47)
+    *   Неопределени местоимения -> [Лекция 37](/lektionen/lektion37)
+*   **Наречия и обръщения**:
+    *   Образуване на наречия -> [Лекция 37](/lektionen/lektion37), [Лекция 52](/lektionen/lektion52)
+    *   Вежливо обръщение и вокатив -> [Лекция 21](/lektionen/lektion21), [Лекция 44](/lektionen/lektion44)
 
-### 2.3 Глаголи (Спряжение)
+### 2.3 Глаголи (спряжение)
 
-*   **Настояща система (Индикатив)**:
-    *   Лични окончания (3., 2., 1. лице) → [Лекция 6](/bg/lektionen/lektion06), [Лекция 44](/bg/lektionen/lektion44), [Лекция 39](/bg/lektionen/lektion39)
-    *   Тематични класове (1, 4, 6, 10) → [Лекция 6](/bg/lektionen/lektion06), [Лекция 28](/bg/lektionen/lektion28)
-    *   Атематични класове → [Лекция 17](/bg/lektionen/lektion17), [Лекция 33](/bg/lektionen/lektion33), [Лекция 7](/bg/lektionen/lektion07), [Лекция 31](/bg/lektionen/lektion31), [Лекция 8](/bg/lektionen/lektion08), [Лекция 30](/bg/lektionen/lektion30)
+*   **Система на настоящето време (изказвателно наклонение)**:
+    *   Лични окончания (3-то, 2-то, 1-во лице) -> [Урок 6](/lektionen/lektion06), [Урок 44](/lektionen/lektion44), [Урок 39](/lektionen/lektion39)
+    *   Тематични класове (1, 4, 6, 10) -> [Урок 6](/lektionen/lektion06), [Урок 28](/lektionen/lektion28)
+    *   Атематични класове -> [Урок 17](/lektionen/lektion17), [Урок 33](/lektionen/lektion33), [Урок 7](/lektionen/lektion07), [Урок 31](/lektionen/lektion31), [Урок 8](/lektionen/lektion08), [Урок 30](/lektionen/lektion30)
 *   **Други времена и наклонения**:
-    *   **Имперфект** (минало време) → [Лекция 32](/bg/lektionen/lektion32)
-    *   **Оптив и Императив** → [Лекция 30](/bg/lektionen/lektion30), [Лекция 48](/bg/lektionen/lektion48)
-    *   **Перфект** (единствено/множествено число) → [Лекция 34](/bg/lektionen/lektion34), [Лекция 35](/bg/lektionen/lektion35), [Лекция 36](/bg/lektionen/lektion36)
-    *   **Перфект (двойствено число)** → [Лекция 60](/bg/lektionen/lektion60)
-    *   **Футур** (прост и перифрастичен) → [Лекция 26](/bg/lektionen/lektion26), [Лекция 61](/bg/lektionen/lektion61)
-    *   **Аорист** (минало време) → [Лекция 54](/bg/lektionen/lektion54), [Лекция 55](/bg/lektionen/lektion55), [Лекция 56](/bg/lektionen/lektion56), [Лекция 57](/bg/lektionen/lektion57), [Лекция 58](/bg/lektionen/lektion58)
+    *   **Имперфект** (минало време) -> [Урок 32](/lektionen/lektion32)
+    *   **Оптив и императив** -> [Урок 30](/lektionen/lektion30), [Урок 48](/lektionen/lektion48)
+    *   **Перфект** (единствено/множествено число) -> [Урок 34](/lektionen/lektion34), [Урок 35](/lektionen/lektion35), [Урок 36](/lektionen/lektion36)
+    *   **Перфект (двойствено число)** -> [Урок 60](/lektionen/lektion60)
+    *   **Футур** (прост и перифрастичен) -> [Урок 26](/lektionen/lektion26), [Урок 61](/lektionen/lektion61)
+    *   **Аорист** (минало време) -> [Урок 54](/lektionen/lektion54), [Урок 55](/lektionen/lektion55), [Урок 56](/lektionen/lektion56), [Урок 57](/lektionen/lektion57), [Урок 58](/lektionen/lektion58)
 *   **Производни глаголни форми**:
-    *   **Страдателен залог и Каузатив** → [Лекция 10](/bg/lektionen/lektion10), [Лекция 28](/bg/lektionen/lektion28), [Лекция 29](/bg/lektionen/lektion29)
-    *   **Интензивум и Деноминативи** → [Лекция 61](/bg/lektionen/lektion61)
-*   **Глаголи в двойствено число** → [Лекция 59](/bg/lektionen/lektion59), [Лекция 60](/bg/lektionen/lektion60)
+    *   **Страдателен залог и каузатив** -> [Урок 10](/lektionen/lektion10), [Урок 28](/lektionen/lektion28), [Урок 29](/lektionen/lektion29)
+    *   **Интензивум и номинални глаголи** -> [Урок 61](/lektionen/lektion61)
+*   **Глаголи в двойствено число** -> [Урок 59](/lektionen/lektion59), [Урок 60](/lektionen/lektion60)
 
 ### 2.4 Именни образувания и съставни думи
 
-*   **Съставни думи (Samāsa)**:
-    *   **Dvandva** (копулативни съставни думи) -> [Лекция 5](/bg/lektionen/lektion05), [Лекция 9](/bg/lektionen/lektion09)
-    *   **Tatpuruṣa** (детерминативни съставни думи) -> [Лекция 15](/bg/lektionen/lektion15), [Лекция 18](/bg/lektionen/lektion18)
-    *   Upapada-съставни думи -> [Лекция 51](/bg/lektionen/lektion51)
-    *   **Bahuvrīhi** (притежателни съставни думи) -> [Лекция 20](/bg/lektionen/lektion20)
+*   **Съставни думи (Сама́са)**:
+    *   **Двандва** (Копулативни съставни) -> [Лекция 5](/lektionen/lektion05), [Лекция 9](/lektionen/lektion09)
+    *   **Татпуръша** (Детерминативни) -> [Лекция 15](/lektionen/lektion15), [Лекция 18](/lektionen/lektion18)
+    *   Упалада-съставни -> [Лекция 51](/lektionen/lektion51)
+    *   **Бахуврихи** (Позесивни) -> [Лекция 20](/lektionen/lektion20)
 *   **Суфикси и причастия**:
-    *   Важни суфикси (-a, -ana, -tra, и др.) -> [Лекция 8](/bg/lektionen/lektion08), [Лекция 9](/bg/lektionen/lektion09)
-    *   **PPP** (причастие на перфекта пасив) -> [Лекция 12](/bg/lektionen/lektion12), [Лекция 13](/bg/lektionen/lektion13)
-    *   **PPA** (причастие на перфекта актив) -> [Лекция 52](/bg/lektionen/lektion52)
-    *   **Абсолютив и инфинитив** -> [Лекция 22](/bg/lektionen/lektion22), [Лекция 23](/bg/lektionen/lektion23)
+    *   Важни суфикси (-a, -ana, -tra, и др.) -> [Лекция 8](/lektionen/lektion08), [Лекция 9](/lektionen/lektion09)
+    *   **ППП** (Причастие перфект пасив) -> [Лекция 12](/lektionen/lektion12), [Лекция 13](/lektionen/lektion13)
+    *   **ППА** (Причастие перфект актив) -> [Лекция 52](/lektionen/lektion52)
+    *   **Абсолютив и инфинитив** -> [Лекция 22](/lektionen/lektion22), [Лекция 23](/lektionen/lektion23)
 
 ## 3. Синтаксис
 
-*   **Именна конструкция** -> [Урок 2](/bg/lektionen/lektion02)
-*   **Въпросителна конструкция** -> [Урок 37](/bg/lektionen/lektion37)
+*   **Именното изречение** -> [Урок 2](/lektionen/lektion02)
+*   **Въпросното изречение** -> [Урок 37](/lektionen/lektion37)
 *   **Употребление на падежите**:
-    *   Именна конструкция и именен падеж -> [Урок 2](/bg/lektionen/lektion02)
-    *   Винителен падеж (двоен) -> [Урок 7](/bg/lektionen/lektion07), [Урок 11](/bg/lektionen/lektion11)
-    *   Творителен падеж -> [Урок 10](/bg/lektionen/lektion10)
-    *. Родителен падеж -> [Урок 14](/bg/lektionen/lektion14)
-    *   Дативен падеж -> [Урок 24](/bg/lektionen/lektion24)
-    *   Аблативен падеж -> [Урок 25](/bg/lektionen/lektion25)
-    *   Локативен падеж -> [Урок 27](/bg/lektionen/lektion27)
+    *   Именното изречение и именителен падеж -> [Урок 2](/lektionen/lektion02)
+    *   Винителен падеж (двойно) -> [Урок 7](/lektionen/lektion07), [Урок 11](/lektionen/lektion11)
+    *   Творителен падеж -> [Урок 10](/lektionen/lektion10)
+    *   Родителен падеж -> [Урок 14](/lektionen/lektion14)
+    *   Дателен падеж -> [Урок 24](/lektionen/lektion24)
+    *   Аблатив -> [Урок 25](/lektionen/lektion25)
+    *   Локатив -> [Урок 27](/lektionen/lektion27)
 *   **Подчинени изречения**:
-    *   Относителни изречения -> [Урок 19](/bg/lektionen/lektion19)
-    *   Употребление на причастията -> [Урок 12](/bg/lektionen/lektion12), [Урок 44](/bg/lektionen/lektion44)
+    *   Относителни изречения -> [Урок 19](/lektionen/lektion19)
+    *   Употребление на причастията -> [Урок 12](/lektionen/lektion12), [Урок 44](/lektionen/lektion44)
 
-## 4. Метрика (Учение за стиха)
+## 4. Метрика (учение за стиха)
 
-Санскритската философия и литература често са написани в стихове. Метриката учи на ритъма и структурата на тези стихове.
+Съндкритската философия и литература често са написани в стихове. Метриката учи на ритъма и структурата на тези стихове.
 
-*   **Въведение и Шлока** → [Урок 45](/bg/lektionen/lektion45), [Урок 53](/bg/lektionen/lektion53)
-*   **Разширени метри (Триштубх, Джагати)** → [Урок 54](/bg/lektionen/lektion54)
+*   **Въведение и Шлока** -> [Урок 45](/lektionen/lektion45), [Урок 53](/lektionen/lektion53)
+*   **Разширени метри** (Триштубх, Джагати) -> [Урок 54](/lektionen/lektion54)
+
+
 

@@ -1,12 +1,11 @@
-
 export const th = {
-  label: 'EN',
-  lang: 'en-US',
+  label: 'TH',
+  lang: 'th-TH',
   link: '/th/',
   title: 'Sanskrit Course',
   description: 'Grammar textbook by Alois Payer',
   themeConfig: {
-    outline: { level: [2, 3], label: 'On this page' },
+    outline: { level: [2, 3], label: 'ในหน้านี้' },
     returnToTopLabel: 'Return to top',
     sidebarMenuLabel: 'Menu',
     darkModeSwitchLabel: 'Appearance',

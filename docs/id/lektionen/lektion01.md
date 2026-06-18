@@ -1,26 +1,35 @@
 ---
-title: Lesson 1
-subtitle: "The Sounds of Sanskrit"
+title: Pelajaran 1
+subtitle: "Bunyi Bahasa Sanskerta"
 lesson_id: 1
-category: "Grammar"
+category: "Tata Bahasa"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lesson 1
+# Pelajaran 1
+
+
+
 
 
 ::: center
 गणेशपूजनम्
 gaṇeśapūjanam
-Worship of Gaṇeśa
+Pemujaan kepada Gaṇeśa
+
 :::
+
+
 
 ::: media
 ![](/images/lekt0102.webp)
-Fig.: Gaṇeśa, Adamspeak, Sri Lanka
-(Image source: [Details](/en/licenses#lekt0102))
+Gambar: Gaṇeśa, Adamspeak, Sri Lanka
+(Sumber gambar: [Details](/id/licenses#lekt0102))
+
 :::
+
+
 
 ::: center
 लम्बोदर नमस् तुभ्यं
@@ -33,25 +42,35 @@ satataṃ modakapriya |
 nirvighnaṃ kuru me deva
 sarvakāryeṣu sarvadā |**
 
-You with the hanging belly, you who delight in modakas,
-May worship always be yours!
-God, make all my undertakings
-Free from obstacles!
+Wahai perut gantung, wahai pencinta manisan,
+Selalu semoga ada penghormatan padamu!
+Tuhan, buatlah semua usahaku
+Bebas dari halangan!
+
 :::
 
 ---
 
+
+
 ::: center
 मङ्गलचरणम्
 maṅgalacaraṇam
-"Auspicious Beginning"
+"Awalan yang membawa keberuntungan"
 :::
+
+:::
+
+
 
 ::: media
 ![](/images/lekt0101.webp)
-Fig.: Ardhanarīśvara
-(Image source: [Details](/en/licenses#lekt0101))
+Gambar: Ardhanarīśvara
+(Sumber gambar: [Details](/id/licenses#lekt0101))
+
 :::
+
+
 
 ::: center
 वागर्थाविव संपृक्तौ
@@ -66,93 +85,117 @@ pārvatīparameśvarau |**
 
 (Kālidāsa: Raghuvaṃśa 1.1)
 
-I salute the parents of the world,
-Pārvatī and Śiva,
-Who are so firmly united
-As word and meaning for the understanding
-Of the meaning of the word.
+Saya menghormati para orang tua di dunia,
+Pārvatī dan Śiva,
+Yang begitu erat satu sama lain
+Seperti kata dan makna untuk memahami
+Arti dari kata tersebut.
+
 :::
 
 ---
 
-First, a curiosity:
+Pada awalnya, ada sesuatu yang aneh:
+
+
 
 ::: note-box
-"When William Jones [1746–1794] and Henry Thomas Colebrooke (1765—1857) first thoroughly studied Sanskrit, partially translated it, and found that it possessed a rich literature and no insignificant kinship with the classical languages, they encountered no small resistance. Since this intimate relationship of Sanskrit to the geographically so distant European languages could not be reconciled with the old views, which either derived all languages from Hebrew or largely isolated them from one another, the famous philologist Dugald Steward (1753—1828) took the simplest way out by declaring the entire history with the Sanskrit language to be a lie. He wrote an essay in which he sought to prove that it had been forged by the rascally Brahmins according to the pattern of Greek and Latin, and that both the language and the literature were forgeries. This view was further developed in 1840 by the professor in Dublin, Charles William Wall, extensively (Göttingische gelehrte Anzeigen 1842 p. 1888)."
+"Ketika William Jones [1746–1794] dan Henry Thomas Colebrooke (1765—1857) pertama kali mempelajari secara mendalam, menerjemahkan sebagian, dan menemukan bahwa bahasa Sanskerta memiliki literatur yang kaya serta kekerabatan yang tidak kecil dengan bahasa-bahasa klasik, mereka menghadapi perlawanan yang tidak kecil. Karena hubungan erat bahasa Sanskerta dengan bahasa-bahasa Eropa yang secara geografis sangat jauh ini tidak dapat disesuaikan dengan pandangan-pandangan lama yang entah menurunkan semua bahasa dari bahasa Ibrani atau sebagian besar memisahkan satu sama lain, maka filsuf terkenal Dugald Steward (1753—1828) mengambil jalan keluar paling sederhana, yaitu dengan menyatakan seluruh sejarah yang berkaitan dengan bahasa Sanskerta sebagai kebohongan. Ia menulis sebuah esai yang berusaha membuktikan bahwa bahasa tersebut direkatkan oleh Brahmana yang licik dengan meniru bahasa Yunani dan Latin, sehingga bahasa maupun literaturnya merupakan pemalsuan. Pandangan ini masih dikembangkan secara luas oleh profesor di Dublin, Charles William Wall, pada tahun 1840 (Göttingische gelehrte Anzeigen 1842 hlm. 1888)."
+
 :::
 
-> [Source: **Kemmerich**, Max &lt;1876-1932&gt;: Kultur-Kuriosa. -- Munich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accessed on 2010-01-10]
+> [Sumber: **Kemmerich**, Max &lt;1876-1932&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Diakses pada 2010-01-10]
 
-## 1.1. Literature for Beginners in Indology
+## 1.1. Literatur untuk Pemula dalam Studi India
+
+
 
 ::: media
 ![](/images/lekt0103.webp)
-Fig.: Cover title of a paperback edition
-(Image source: [Details](/en/licenses#lekt0103))
+Gambar: Sampul depan edisi saku
+(Sumber gambar: [Detail](/id/licenses#lekt0103))
+
 :::
 
-> **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Since then many editions, including paperback editions. -- **Mandatory reading.** A good overview of life, history, and culture in pre-Islamic India. Comprehensive overview of the various fields of classical Indology.
+> **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Bagian: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sejak itu banyak edisi, termasuk edisi saku. -- **Bacaan wajib.** Gambaran yang baik tentang kehidupan, sejarah, dan budaya di India pra-Islam. Ringkasan menyeluruh tentang berbagai bidang Indologi klasik.
+
+
 
 ::: media
 ![](/images/lekt0104.webp)
-Fig.: Title page
-(Image source: [Details](/en/licenses#lekt0104))
+Gambar: Halaman judul
+(Sumber gambar: [Detail](/id/licenses#lekt0104))
+
 :::
 
-**Best systematic grammar**
+**Gramatika Sistematis Terbaik**
 
-> **Kielhorn**, Franz &lt;1840-1908&gt;: Grammar of the Sanskrit language / Translated from English by W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Original title: A grammar of the Sanscrit language
+> **Kielhorn**, Franz &lt;1840-1908&gt;: Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Judul asli: A grammar of the Sanscrit language
+
+
 
 ::: media
 ![](/images/lekt0105.webp)
-Fig.: Cover title
-(Image source: [Details](/en/licenses#lekt0105))
+Gambar: Judul sampul
+(Sumber gambar: [Detail](/id/licenses#lekt0105))
+
 :::
 
-**Good systematic grammar based on indigenous grammarians and at the same time an introduction to Pāṇini:**
+**Sistem tata bahasa yang baik berdasarkan pada para ahli tata bahasa lokal dan sekaligus pengantar ke Pāṇini:**
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Self-published, 1983. -- 818 p. ; 23 cm.
+> **Kunnappally, John:** Prakriyā bhāshyam : Tata bahasa Sanskerta / Awalnya ditulis dalam bahasa Melayalam. Diterjemahkan ke dalam bahasa Inggris oleh K.V.R. Pai. -- Parathode : Penerbit sendiri, 1983. -- 818 hlm. ; 23 cm.
+
+
 
 ::: media
 ![](/images/lekt0107.jpg)
-Fig.: Cover title
-(Image source: [Details](/en/licenses#lekt0107))
+Gambar: Sampul depan
+(Sumber gambar: [Detail](/id/licenses#lekt0107))
+
 :::
 
-A good, concise presentation of European linguistic terminology can be found in:
+Deskripsi yang baik dan ringkas mengenai terminologi linguistik Eropa dapat ditemukan di:
 
-> **Etymological Dictionary of the German Language** / [Friedrich] Kluge &lt;1856 - 1926&gt; Edited by Elmar Seebold. -- 24th, revised and expanded ed. -- Berlin [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- pp. XIII - XLVII.
+> **Kamus Etimologi Bahasa Jerman** / [Friedrich] Kluge &lt;1856 - 1926&gt;. Disunting oleh Elmar Seebold. -- Edisi ke-24, yang direvisi dan diperluas. -- Berlin [dan lainnya.] : de Gruyter, 2002. - LXXXIX, 1023 hlm. : 24 cm. -- ISBN 3-11-017473-1 Sampel tipis. -- Hlm. XIII - XLVII.
+
+
 
 ::: media
 ![](/images/lekt0108.jpg)
-Fig.: Cover title
-(Image source: [Details](/en/licenses#lekt0108))
+Gambar: Judul sampul
+(Sumber gambar: [Detail](/id/licenses#lekt0108))
+
 :::
 
-For the curious to look up:
+Bagi yang ingin mencari tahu:
 
-> **Lexicon of Linguistics** / edited by Hadumod Bußmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Lexikon der Sprachwissenschaft** / hrsg. von Hadumod Bußmann. -- 4., durchges. und bibliogr. erg. Aufl. / unter Mitarb. von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 ---
 
-## 1.2. The Sounds of Sanskrit
+## 1.2. Bunyi-bunyi dalam Bahasa Sanskerta
 
-The sounds of Sanskrit according to the traditional Indian classification and their scientific transliteration.
+Bunyi-bunyi bahasa Sanskerta menurut klasifikasi tradisional India dan translasi ilmiahnya.
+
+
 
 ::: media
 ![](/images/lekt0106.webp)
-(Image source: [Details](/en/licenses#lekt0106))
+(Sumber gambar: [Detail](/id/licenses#lekt0106))
+
 :::
 
-Modern Sanskrit dictionaries are arranged in the order of this classification. This classification and the order of the sounds are essential for understanding Sanskrit grammar and therefore must be memorized:
+Kamus-kamus modern Sanskrit disusun menurut urutan klasifikasi ini. Klasifikasi ini dan urutan bunyi-bunyi tersebut sangat penting untuk memahami tata bahasa Sanskrit, oleh karena itu harus dihafal:
 
-::: tip Classification
 
-- **simple vowels** (samānākṣara -- समानाक्षर):
+
+::: tip Klasifikasi
+
+- **vokal sederhana** (samānākṣara -- समानाक्षर):
   अ a, आ ā, इ i, ई ī, उ u, ऊ ū, ऋ ṛ, ॠ ṝ, ऌ ḷ
-- **diphthongs** (sandhyakṣara -- सन्ध्यक्षर):
+- **Diftong** (sandhyakṣara -- सन्ध्यक्षर):
   ए e, ऐ ai, ओ o, औ au
-- **consonants** (vyañjana / hal -- व्यञ्जन / हल्):
+- **Konsonan** (vyañjana / hal -- व्यञ्जन / हल्):
   क ka, ख kha, ग ga, घ gha, ङ ṅa
   च ca, छ cha, ज ja, झ jha, ञ ña
   ट ṭa, ठ ṭha, ड ḍa, ढ ḍha, ण ṇa
@@ -161,31 +204,46 @@ Modern Sanskrit dictionaries are arranged in the order of this classification. T
   य ya, र ra, ल la, व va
   श śa, ष ṣa, स sa
   ह ha
+
 :::
 
-### 1.2.1. On the Pronunciation of Individual Sounds
+### 1.2.1. Tentang Pengucapan Bunyi-bunyi Tertentu
 
-::: laut-table
-| Sound | Description |
+
+
+::: tabel-lagu
+
+| Suara | Keterangan |
+
 | :--- | :--- |
-| **a - अ** | "short a" is often pronounced by Indians -- since ancient times -- as ə. In Europe, it is pronounced as short a, in Bengal as short dark o. |
-| **ṛ - ऋ** | like Czech vocalized r. Slight echo of i. |
-| **ṝ - ॠ** | like Czech vocalized r. Slight echo of u. |
-| **jñ - ज्ञ्** | also like dny (Marāṭhī) or gy (North Indian). |
-| **ś - श्** | sh-sound with tongue tip bent downward. Similar to sh in "mischen". |
-| **ṣ - ष्** | kh-sound with tongue tip curled back. Often articulated so far back in the throat that it sounds almost like kh. |
-| **h - ह्** | aspiration sound, never a lengthening mark. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Voiceless aspiration with echo of the preceding vowel or the second part of the preceding diphthong: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
-| **ṃ** | **Anusvara** -- अनुस्वर. Before sibilants, h, l: nasalization of the vowel. In final position = m. In medial position before consonants: the nasal corresponding to the following consonant: saṃdhi -- संधि = sandhi -- सन्धि |
+
+| **a - अ** | "a pendek" diucapkan oleh orang India -- sejak zaman kuno -- sering seperti ə. Di Eropa diucapkan sebagai a pendek, di Bengali sebagai o pendek yang gelap. |
+
+| **ṛ - ऋ** | seperti r yang divokalkan dalam bahasa Bohemia. Gema ringan dari i. |
+
+| **ṝ - ॠ** | seperti r yang divokalkan dalam bahasa Bohemia. Gema ringan dari u. |
+
+| **jñ - ज्ञ्** | juga seperti dny (Marathi) atau gy (India Utara). |
+
+| **ś - श्** | Bunyi sch dengan ujung lidah melengkung ke bawah. Mirip dengan 'sch' dalam "mischen". |
+
+| **ṣ - ष्** | Bunyi ach dengan ujung lidah yang melengkung ke belakang. Seringkali diartikulasikan sangat jauh di belakang tenggorokan sehingga terdengar hampir seperti kh. |
+
+| **h - ह्** | Bunyi hembusan, tidak pernah tanda panjang. |
+
+| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Bunyi hembusan bersuara rendah dengan gema vokal sebelumnya atau bagian kedua dari diftong sebelumnya: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
+
+| **ṃ** | **Anusvara** -- अनुस्वर. Sebelum bunyi desis, h, l: nasalisasi vokal. Di akhir kata = m. Di tengah kata sebelum konsonan: nasal yang sesuai dengan konsonan berikutnya: saṃdhi -- संधि = sandhi -- सन्धि |
+
 :::
 
-The best pronunciation is achieved when one reads the sentences, verses, or words quite slowly and monotonously, paying exact attention to the length of the vowels.
+Pelafalan terbaik dicapai ketika kalimat, bait, atau kata-kata dibaca dengan cukup lambat dan monoton, dengan memperhatikan panjang vokal secara akurat.
 
 ---
 
-## 1.3. Exercise
+## 1.3. Latihan
 
-**A) Read the following words:**
+**A) Bacalah kata-kata berikut:**
 
 1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र
 2. brahmā viṣṇu śiva — ब्रह्मा विष्णु शिव
@@ -198,4 +256,5 @@ The best pronunciation is achieved when one reads the sentences, verses, or word
 9. pitṝn — पितॄन्
 10. saṃskṛta — संस्कृत
 
-**B) Read the Sanskrit expressions in the phonetic classification above.**
+**B) Bacalah ekspresi-ekspresi Sanskerta dalam klasifikasi fonetik di atas.**
+

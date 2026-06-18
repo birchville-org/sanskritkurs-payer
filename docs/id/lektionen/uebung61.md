@@ -1,11 +1,12 @@
 ---
-title: "Exercise 61"
+title: "Latihan 61"
 uebung_id: 61
-category: "Exercise"
+category: "Latihan"
 ---
 
-# Lesson 61
+# Latihan 61
 
-Lesson 61 forms the conclusion of the Sanskrit course and contains no further written exercises. 
+Lektion 61 membentuk penutup kursus Sanskerta dan tidak mengandung latihan tertulis tambahan.
 
-With the study of root nouns, the periphrastic future, and denominatives, the foundations for reading Sanskrit original texts are laid. The course concludes with the traditional invocation to Gaṇeśa (श्रीगणनाथ), which marks the transition from the textbook to independent reading.
+Dengan mempelajari nomina akar, masa depan periphrastik, dan denominativa, dasar-dasar untuk membaca teks asli Sanskerta telah diletakkan. Kursus ini ditutup dengan permohonan tradisional kepada Gaṇeśa (श्रीगणनाथ), yang menandai transisi dari buku teks ke pembacaan mandiri.
+

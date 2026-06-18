@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Index grammatical
+# Index da grammatica
 
-L’index grammatical enumerescha tut ils temas e phenomenas grammaticals dal curs da sanscrit e permetta in access rapid a lecziuns specificas.
+L'index da la gramatica el encontra tut ils temis grammatics e phenomen dal curs da sanscrit e permetta in access rapid a las singulas lecziuns.
 
 <PayerTopicIndex />
 
@@ -15,3 +15,4 @@ L’index grammatical enumerescha tut ils temas e phenomenas grammaticals dal cu
   padding: 32px 48px 64px !important;
 }
 </style>
+

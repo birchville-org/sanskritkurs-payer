@@ -7,7 +7,7 @@ import re
 
 # Configuration
 API_URL = "http://nyx.local:8000/v1/chat/completions"
-MODEL = "Qwen3.6-35B-A3B-UD-Q4_K_M.gguf"
+MODEL = "mlx-community/Qwen3.6-35B-A3B-4bit"
 LANGUAGES = [
 #    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm",
 #    "ar", "arc", "he", "zh", "la", "grc", "el", "fa", "akk", "cop",
@@ -824,7 +824,9 @@ def translate_text(text, target_lang):
                     elapsed = end_time - start_time
                     if elapsed > 0:
                         tps = comp_tokens / elapsed
-                        if comp_tokens > 20 and tps < 12.0:
+                        sys.stdout.write(f"      [Speed: {tps:.1f} t/s | {comp_tokens} tokens in {elapsed:.1f}s]\n")
+                        sys.stdout.flush()
+                        if comp_tokens > 20 and tps < 5.0:
                             sys.stdout.write(f"\n[!] Performance kritisch ({tps:.1f} t/s). Führe automatischen Neustart aus...\n")
                             sys.stdout.flush()
                             try:
@@ -860,7 +862,7 @@ def translate_text(text, target_lang):
                 
                 # Auto-Restart bei Timeouts, HTTP 500 (Compute error) oder Absturz (Connection refused/exit 7)
                 err_lower = err_str.lower()
-                if "exit 28" in err_str or "timeout" in err_lower or "500" in err_str or "exit 7" in err_str or "refused" in err_lower:
+                if "exit 28" in err_str or "timeout" in err_lower or "500" in err_str or "exit 7" in err_str or "refused" in err_lower or "choices" in err_lower:
                     sys.stdout.write(f"\n[!] Timeout/Absturz erkannt ({err_str}). Führe automatischen Neustart aus...\n")
                     sys.stdout.flush()
                     try:

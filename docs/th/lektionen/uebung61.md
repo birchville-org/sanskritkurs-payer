@@ -1,11 +1,12 @@
 ---
-title: "Exercise 61"
+title: "แบบฝึกหัด 61"
 uebung_id: 61
-category: "Exercise"
+category: "แบบฝึกหัด"
 ---
 
-# Lesson 61
+# แบบฝึกหัด 61
 
-Lesson 61 forms the conclusion of the Sanskrit course and contains no further written exercises. 
+บทที่ 61 เป็นบทปิดท้ายของหลักสูตรภาษาสันสกฤต และไม่มีแบบฝึกหัดการเขียนเพิ่มเติม
 
-With the study of root nouns, the periphrastic future, and denominatives, the foundations for reading Sanskrit original texts are laid. The course concludes with the traditional invocation to Gaṇeśa (श्रीगणनाथ), which marks the transition from the textbook to independent reading.
+ด้วยการศึกษารากนาม (root nomina) อนาคตแบบเพริฟราสติก (periphrastic future) และนามวิสามานยนาม (denominativa) พื้นฐานสำหรับการอ่านต้นฉบับภาษาสันสกฤตจึงถูกวางไว้แล้ว บทเรียนนี้ปิดท้ายด้วยการเรียกขานพระคเณศ (श्रीगणनाथ) แบบดั้งเดิม ซึ่งเป็นการเปลี่ยนผ่านจากหนังสือเรียนไปสู่การอ่านอย่างอิสระ
+

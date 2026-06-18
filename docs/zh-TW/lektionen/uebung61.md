@@ -1,11 +1,12 @@
 ---
-title: "Exercise 61"
+title: "練習 61"
 uebung_id: 61
-category: "Exercise"
+category: "練習"
 ---
 
-# Lesson 61
+# 練習 61
 
-Lesson 61 forms the conclusion of the Sanskrit course and contains no further written exercises. 
+第61課為梵語課程的結尾，不包含任何書面練習。
 
-With the study of root nouns, the periphrastic future, and denominatives, the foundations for reading Sanskrit original texts are laid. The course concludes with the traditional invocation to Gaṇeśa (श्रीगणनाथ), which marks the transition from the textbook to independent reading.
+透過對根名詞、迂回未來時以及派生名詞的研習，已為閱讀梵文原文奠定了基礎。課程以傳統的伽內什祈請文（श्रीगणनाथ）作結，標誌著從教材學習過渡到獨立閱讀。
+

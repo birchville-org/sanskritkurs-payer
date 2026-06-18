@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Grammar Index
+# ดัชนีไวยากรณ์
 
-The Grammar Index lists all grammatical topics and phenomena of the Sanskrit course and enables quick access to specific lessons.
+ดัชนีไวยากรณ์แสดงหัวข้อและปรากฏการณ์ทางไวยากรณ์ทั้งหมดจากบทเรียนภาษาสันสกฤต และทำให้สามารถเข้าถึงบทเรียนเฉพาะได้อย่างรวดเร็ว
 
 <PayerTopicIndex />
 
@@ -15,3 +15,4 @@ The Grammar Index lists all grammatical topics and phenomena of the Sanskrit cou
   padding: 32px 48px 64px !important;
 }
 </style>
+

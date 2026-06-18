@@ -1,11 +1,11 @@
 ---
-title: "Exercise 53"
+title: "แบบฝึกหัด 53"
 uebung_id: 53
-category: "Exercise"
+category: "แบบฝึกหัด"
 ---
 
-# Exercise 53
+# แบบฝึกหัด 53
 
-The exercise for Lesson 53 consists of the metrical analysis (determination of the Śloka scheme) of all verses learned in the preceding lessons. 
+การฝึกหัดในบทที่ 53 ประกอบด้วย การวิเคราะห์เชิงฉันทลักษณ์ (การกำหนดรูปแบบของชโลกะ) ของบทกลอนทั้งหมดที่ได้เรียนรู้ในบทเรียนก่อนหน้า
 
-Since this is a comprehensive review and analysis task, there is no separate solution key in the classical sense. The solutions arise from the application of the rules taught in Lesson 53 to the already known texts.
+เนื่องจากนี่เป็นแบบฝึกหัดทบทวนและวิเคราะห์ที่ครอบคลุม จึงไม่มีคีย์คำตอบแยกต่างหากในความหมายคลาสสิก คำตอบเกิดขึ้นจากการนำกฎที่สอนในบทที่ 53 ไปใช้กับข้อความที่รู้จักอยู่แล้ว

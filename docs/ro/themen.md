@@ -3,16 +3,16 @@ aside: false
 outline: false
 ---
 
-# Index gramatical
+# Index Gramatical
 
-Registrul tematic este generat automat din titlurile tuturor lecțiilor.
-Permite accesul rapid la fenomene gramaticale specifice.
+Indexul de gramatică enumeră toate temele și fenomenele gramaticale din cursul de sanscrită și permite acces rapid la lecțiile specifice.
 
 <PayerTopicIndex />
 
 <style>
-/* Ajustare aspect pentru index pe lățime completă */
+/* Adjust layout for full width index */
 .VPDoc {
   padding: 32px 48px 64px !important;
 }
 </style>
+

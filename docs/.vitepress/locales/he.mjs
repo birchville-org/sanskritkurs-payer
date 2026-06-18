@@ -1,12 +1,12 @@
-
 export const he = {
-  label: 'EN',
-  lang: 'en-US',
+  label: 'HE',
+  lang: 'he-IL',
+  dir: 'rtl',
   link: '/he/',
   title: 'Sanskrit Course',
   description: 'Grammar textbook by Alois Payer',
   themeConfig: {
-    outline: { level: [2, 3], label: 'On this page' },
+    outline: { level: [2, 3], label: 'בדף זה' },
     returnToTopLabel: 'Return to top',
     sidebarMenuLabel: 'Menu',
     darkModeSwitchLabel: 'Appearance',

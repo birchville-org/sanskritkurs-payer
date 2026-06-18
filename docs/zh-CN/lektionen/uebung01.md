@@ -1,9 +1,10 @@
 ---
-title: "Exercise 1"
+title: "练习 1"
 uebung_id: 1
-category: "Exercise"
+category: "练习"
 ---
 
-# Exercise 1
+# 练习 1
 
-Lesson 1 contains no written exercises, as it is designed as an introduction to phonetics and pronunciation. The reading exercises at the end of the lesson serve for the practical practice of the sounds and do not require a separate answer key.
+第1课不包含书面练习，因为它是作为语音和发音的介绍而设计的。本课末尾的阅读练习旨在实践练习发音，不需要单独的解答密钥。
+

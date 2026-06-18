@@ -1,11 +1,11 @@
 ---
-title: "Exercise 53"
+title: "תרגיל 53"
 uebung_id: 53
-category: "Exercise"
+category: "תרגיל"
 ---
 
-# Exercise 53
+# תרגיל 53
 
-The exercise for Lesson 53 consists of the metrical analysis (determination of the Śloka scheme) of all verses learned in the preceding lessons. 
+תרגיל לשיעור 53 מורכב מניתוח מטרי (קביעת סכמת השלוקה) של כל החרוזים שנלמדו בשיעורים הקודמים.
 
-Since this is a comprehensive review and analysis task, there is no separate solution key in the classical sense. The solutions arise from the application of the rules taught in Lesson 53 to the already known texts.
+מכיוון שמדובר בתרגיל חזרה וניתוח מקיף, אין מפת פתרונות נפרדת במובן הקלאסי. הפתרונות נובעים מהחלת הכללים שהועברו בשיעור 53 על הטקסטים שכבר ידועים.

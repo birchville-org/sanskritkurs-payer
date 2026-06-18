@@ -1,231 +1,257 @@
 ---
-title: Lesson 2
-subtitle: "The Nominal Sentence and the Fundamentals of Declension"
+title: Pelajaran 2
+subtitle: "Kalimat Nominal dan Dasar-Dasar Deklinasi"
 lesson_id: 2
-category: "Grammar"
+category: "Tata Bahasa"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lesson 2
+# Pelajaran 2
 
-## 2.1. The Nominal Sentence
+
+
+## 2.1. Kalimat Nominal
+
+
 
 ::: grammar-box
-**Schema: Predicative Noun - Subject**
+**Skema: Predikat Nomina - Subjek**
 
-e.g. devo viṣṇuḥ = देवो विष्णुः = "Viṣṇu is a god."
+misalnya, devo viṣṇuḥ = देवो विष्णुः = "Viṣṇu adalah seorang dewa."
+
 :::
 
-A verbal copula ("is", "are", "am", "art", "be") is not necessary, but may sometimes occur.
+Kopula verbal ("adalah", "adalah", "aku adalah", "kamu adalah", "kalian adalah") tidak diperlukan, tetapi kadang-kadang dapat muncul.
 
-There are **no articles**: **devaḥ** -- देवः can mean "the god" or "a god".
+Tidak ada **artikel**: **devaḥ** -- देवः dapat berarti "dewa itu" atau "seorang dewa".
 
-Although Sanskrit word order is quite free (especially in verses), when translating a nominal sentence, one must always primarily consider a translation according to the standard schema above.
+Meskipun dalam bahasa Sanskrik susunan kalimat cukup bebas (terutama dalam syair), dalam menerjemahkan kalimat nominal, seseorang harus selalu mempertimbangkan terjemahan sesuai skema standar di atas sebagai prioritas utama.
 
-In the nominal sentence, the subject is in the nominative (first case = **prathamā** f. = प्रथमा). The predicative noun agrees with the subject in number and case; if the predicative noun is an adjective, also in gender.
+Dalam kalimat nominal, subjek berada dalam kasus nominatif (kasus pertama = **prathamā** f. = प्रथमा). Kata benda predikat sesuai dengan subjek dalam jumlah dan kasus; jika kata benda predikat adalah kata sifat, juga dalam jenis kelamin.
 
 ---
 
-## 2.2. On Declension (Inflection of Nouns)
+## 2.2. Tentang Deklinasi (Pemberian akhiran pada kata benda)
 
-In Sanskrit, there are:
+Dalam bahasa Sanskerta terdapat:
 
-- **three numbers** (forms of counting) = **vacana** n. -- वचन
-  - Singular (singular number) = **ekavacana** n. -- एकवचन
-  - Dual (dual number) = **dvivacana** n. -- द्विवचन
-  - Plural (plural number) = **bahuvacana** n. -- बहुवचन
-- **three genders** (grammatical genders) = **liṅga** n. / **vyakti** f. -- लिङ्ग / व्यक्ति
-  - Masculine (masculine) = **puṃs** m. -- पुंस्
-  - Feminine (feminine) = **strī** f. -- स्त्री
-  - Neuter (neuter) = **napuṃsaka** n. -- नपुंसक
-- **eight cases** (cases) = **sup** -- सुप् (= case endings)
+- **tiga Bilangan** (bentuk hitungan) = **vacana** n. -- वचन
+  - Singular (tunggal) = **ekavacana** n. -- एकवचन
+  - Dual (ganda) = **dvivacana** n. -- द्विवचन
+  - Plural (jamak) = **bahuvacana** n. -- बहुवचन
+- **tiga Jenis Kelamin** (jenis kelamin tata bahasa) = **liṅga** n. / **vyakti** f. -- लिङ्ग / व्यक्ति
+  - Maskulinum (laki-laki) = **puṃs** m. -- पुंस्
+  - Femininum (perempuan) = **strī** f. -- स्त्री
+  - Neutrum (netral) = **napuṃsaka** n. -- नपुंसक
+- **delapan Kasus** (kaidah) = **sup** -- सुप् (= akhiran kasus)
 
-For declension, the case endings (**sup** = सुप्) are attached to the so-called **nominal stem** (form of the noun without case endings).
+Untuk deklinasi, akhiran kasus (**sup** = सुप्) melekat pada apa yang disebut **stam kata benda** (bentuk kata benda tanpa akhiran kasus).
 
-Example: **devas** = देवस् (Nominative Singular Masculine) "the/a god" = **deva-** -- देव- (nominal stem) + **-s** -- -स् (case ending).
+Contoh: **devas** = देवस् (Nominativ Singular Maskulinum) "der/ein Gott" = **deva-** -- देव- (Nominalstamm) + **-s** -- -स् (Kasusendung).
 
-In Sanskrit dictionaries, nouns are listed in the **nominal stem**:
-- **deva** m. -- देव m. (masculine)
-- **vacana** n. -- वचन n. (neuter)
-- **vyakti** f. -- व्यक्ति f. (feminine)
+Dalam kamus bahasa Sanskerta, kata benda dicantumkan dalam **batang nominal**:
+- **deva** m. -- देव m. (maskulin)
+- **vacana** n. -- वचन n. (netral)
+- **vyakti** f. -- व्यक्ति f. (feminin)
 
 ---
 
-## 2.3. The Nominative Singular
+## 2.3. Nominatif Tunggal
 
-**Nominative Singular = prathamā ekavacanam = प्रथमा एकवचनम्**
+**Nominativ Singular = prathamā ekavacanam = प्रथमा एकवचनम्**
+
+
 
 ::: grammar-box
-**The Nominative Singular ends in -s = -स् or is zero-ending.**
+**Nominatif tunggal berakhir dengan -s = -स् atau bebas akhiran.**
+
 :::
 
-### 2.3.1. Nominative Singular ending in -s
+### 2.3.1. Nominatif Tunggal pada -s
 
-The following nominal stems, which end in a vowel, form the nominative singular with **-s**:
+Berikut adalah akar nomina yang berakhir dengan vokal, membentuk Nominatif Singular dengan akhiran **-s**:
+
+
 
 ::: grammar-box
-**Masculines in -a:** e.g. deva m. = देव "god" -- Nom. sg.: devas = देवस्
-**Masculines in -i:** e.g. kavi m. = कवि "poet" -- Nom. sg.: kavis = कविस्
-**Masculines in -u:** e.g. guru m. = गुरु "teacher" -- Nom. sg.: gurus = गुरुस्
+**Maskulinum berakhiran -a:** mis. deva m. = देव "tuhan" -- Nom. sg.: devas = देवस्
+**Maskulinum berakhiran -i:** mis. kavi m. = कवि "penyair" -- Nom. sg.: kavis = कविस्
+**Maskulinum berakhiran -u:** mis. guru m. = गुरु "guru" -- Nom. sg.: gurus = गुरुस्
+
 :::
 
 ---
 
 ## 2.4. Sandhi -- सन्धि
 
-The final sound of a word in Sanskrit is also determined by the initial sound of the following word. This phenomenon is called **Sandhi** (m.) = सन्धि ("connection").
+Pelafalan akhir sebuah kata dalam bahasa Sanskerta juga ditentukan oleh pelafalan awal kata yang mengikutinya. Fenomena ini disebut **Sandhi** (m.) = सन्धि ("penyatuan").
 
-### 2.4.1. Sandhi of final -s
+### 2.4.1. Sandhi dari akhiran -s
 
-See also the overview:
+Lihat juga ringkasan:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi of final -s. -- (Materials on Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi dari -s akhir. -- (Materialia tentang Sanskerta). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Final **-s**:
+Auslautendes **-s**:
 
-- **in absolute final position** (end of sentence) it becomes **Visarga (-ḥ)**:
+- **di akhir absolut** (akhir kalimat) berubah menjadi **Visarga (-ḥ)**:
   - **devas** = देवस् » **devaḥ** = देवः
   - **kavis** = कविस् » **kaviḥ** = कविः
   - **gurus** = गुरुस् » **guruḥ** = गुरुः
 
-- **before voiceless sounds**:
-  - before **k, kh, p, ph** and **ś, ṣ, s**: it becomes **Visarga (-ḥ)**
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = देवः शिवः ("Śiva is a god")
-  - before **c, ch**: it becomes **-ś**
-  - before **ṭ, ṭh**: it becomes **-ṣ**
-  - before **t, th**: it remains **-s**
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = साधुश्चैतन्यः ("Caitanya is a saint")
+- **vor stimmlosen Lauten**:
+  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)**
+    - **devas + śivaḥ** » **devaḥ śivaḥ** = देवः शिवः ("Śiva ist ein Gott")
+  - vor **c, ch**: wird zu **-ś**
+  - vor **ṭ, ṭh**: wird zu **-ṣ**
+  - vor **t, th**: bleibt **-s**
+    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = साधुश्चैतन्यः ("Caitanya ist ein Heiliger")
 
-- **before voiced sounds**:
-  - after non-a vowels: it becomes **-r**
-    - **kavis + Māghas** » **kavir māghaḥ** = कविर्माघः ("Māgha is a poet")
-  - after non-a vowels before **r-**: **-s** drops out, the vowel is lengthened.
-    - **gurus + rāmas** » **gurū rāmaḥ** = गुरू रामः ("Rāma is a teacher")
-  - after **a-**: **-as**
-    - before voiced consonants/a: it becomes **-o** (initial a drops out » ऽ)
+- **sebelum bunyi bersuara**:
+  - setelah vokal bukan-a: berubah menjadi **-r**
+    - **kavis + Māghas** » **kavir māghaḥ** = कविर्माघः ("Māgha adalah seorang penyair")
+  - setelah vokal bukan-a sebelum **r-**: **-s** hilang, vokal diperpanjang.
+    - **gurus + rāmas** » **gurū rāmaḥ** = गुरू रामः ("Rāma adalah seorang guru")
+  - setelah **a-**: **-as**
+    - sebelum konsonan bersuara/a: berubah menjadi **-o** (a awal hilang » ऽ)
       - **devas viṣṇus** » **devo viṣṇuḥ** = देवो विष्णुः
       - **devas agnis** » **devo 'gniḥ** = देवो ऽग्निः
-    - before other vowels: it becomes **-a** (Hiatus)
+    - sebelum vokal lain: berubah menjadi **-a** (Hiatus)
       - **devas + indras** » **deva indraḥ** = देव इन्द्रः
 
 ---
 
-## 2.5. Word List
+## 2.5. Daftar Kosakata
 
-**deva** m. -- देव : Celestial being, god; prince, king.
+**deva** m. -- देव : Yang Surgawi, Dewa; Pangeran, Raja.
 
-**īśvara** m. -- ईश्वर : Lord, ruler, god (monotheistic).
+**īśvara** m. -- ईश्वर : Tuan, Penguasa, Dewa (monoteis).
 
-**brāhmaṇa** m. -- ब्राह्मण : Brahmin (priestly estate).
+**brāhmaṇa** m. -- ब्राह्मण : Brahmana (tingkatan rohaniawan).
 
-**kṣatriya** m. -- क्षत्रिय : Kṣatriya (noble and military estate).
+**kṣatriya** m. -- क्षत्रिय : Kṣatriya (kaum bangsawan dan militer).
 
-**vaiśya** m. -- वैश्य : Vaiśya (agricultural and merchant estate).
+**vaiśya** m. -- वैश्य : Vaiśya (kasta petani dan pedagang).
 
-**śūdra** m. -- शूद्र : Śūdra (service estate).
+**śūdra** m. -- शूद्र : Śūdra (kasta pelayan).
 
-::: tip The four estates (varna)
-According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed:
 
-- **of the Brahmins**
-  - study of the Vedas
-  - teaching
-  - sacrifice for oneself
-  - sacrifice for others
-  - giving
-  - receiving gifts
-- **of the Kṣatriyas**
-  - protect the people
-  - give gifts (to Brahmins)
-  - sacrifice for oneself
-  - study of the Vedas
-- **of the Vaiśyas**
-  - animal husbandry
-  - agriculture
-  - trade
-  - money lending
-  - sacrifice for oneself
-  - give gifts (to Brahmins)
-  - sacrifice for oneself
-  - study of the Vedas
-- **of the Śūdras**
-  - serve the three upper classes
+
+::: tip Empat kasta (varna)
+Menurut teori klasik (mis. Manusmṛti I, 88-91), tugas-tugas dibagi:
+
+- **para Brahmana**
+  - studi Veda
+  - ajaran
+  - persembahan untuk diri sendiri
+  - persembahan untuk orang lain
+  - memberi
+  - menerima pemberian
+- **para Kṣatriya**
+  - melindungi rakyat
+  - memberi pemberian (kepada Brahmana)
+  - berkorban untuk diri sendiri
+  - studi Veda
+- **para Vaiśya**
+  - pemeliharaan ternak
+  - pertanian
+  - perdagangan
+  - peminjaman uang
+  - berkorban untuk diri sendiri
+  - memberi pemberian (kepada Brahmana)
+  - berkorban untuk diri sendiri
+  - studi Veda
+- **para Śūdra**
+  - melayani tiga kelas atas
+
 :::
 
-**dvija** m. -- द्विज : "Twice-born" (initiates of the upper three estates: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- द्विज : "Dua Kali Lahir" (Mereka yang diinisiasi dari tiga kasta atas: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- वर्ण : Color, birth estate (aspiration).
+**varṇa** m. -- वर्ण : Warna, status kelahiran (kecenderungan).
 
-The four estates (**varṇa** m.) are often confused with castes. However, the four estates are -- in contrast to castes -- not specifically Indian; in Europe, we also had (partly up to the First World War) an estate system, as the following illustration from the 15th century confirms:
+Keempat varṇa (m.) sering disamakan dengan kasta. Namun, keempat varṇa — berbeda dengan kasta — bukanlah sesuatu yang secara khusus India; di Eropa pun (sebagian hingga Perang Dunia Pertama) terdapat sistem stratifikasi sosial, sebagaimana dibuktikan oleh gambar berikut dari abad ke-15:
+
+
 
 ::: media
 ![](/images/lekt0201.webp)
-Fig.: Representation of the estate division of the European Middle Ages (woodcut from the late 15th century).
-(Image source: [Details](/en/licenses#lekt0201))
+Gambar: Penggambaran pembagian kasta masyarakat Eropa Abad Pertengahan (ukiran kayu dari akhir abad ke-15).
+(Sumber gambar: [Detail](/id/licenses#lekt0201))
+
 :::
 
-**Labels:**
-- **Priestly estate** (~Brāhmaṇa): Tu supplex ora = You pray earnestly!
-- **Noble estate** (~Kṣatriya): Tu protege = You protect!
-- **Peasant estate** (~Vaiśya/Śūdra): Tuque labora = And you work!
+**Keterangan:**
+- **Kasta imam** (~Brāhmaṇa): Tu supplex ora = Berdoalah dengan memohon!
+- **Kasta bangsawan** (~Kṣatriya): Tu protege = Lindungilah!
+- **Kasta petani** (~Vaiśya/Śūdra): Tuque labora = Dan bekerjalah!
 
-The three estates wear the respective estate attire. Above them -- thus designated as willed by God -- Christ reigns.
+Ketiga kasta mengenakan pakaian khas masing-masing kasta. Di atas kasta-kasta — yang dengan demikian disebut sebagai kehendak ilahi — takhta Kristus.
 
-Max Weber &lt;1864 – 1920&gt; defines estate as follows:
+Max Weber &lt;1864 – 1920&gt; mendefinisikan Stand sebagai berikut:
+
+
 
 ::: note-box
-"**Estate**" is meant to denote a multitude of people who, within an association, effectively
-a) claim an estate-specific special esteem, - possibly also
-b) estate-specific special monopolies.
+"**Stand**" haruslah bermakna suatu kumpulan orang yang, dalam suatu ikatan,
+a) menuntut penilaian khusus berdasarkan status — mungkin juga
+b) menuntut monopoli khusus berdasarkan status.
 
-Estates can arise
-a) primarily, through their own estate-specific way of life, particularly through the type of **profession** (**estate-based or professional estates**),
-b) secondarily, hereditarily charismatic, through successful prestige claims based on estate-based **descent** (**birth estates**),
-c) through estate-based **appropriation** of political or hierocratic lordships as monopolies (**political or hierocratic estates**).
+Kasta dapat terbentuk
+a) secara primer, melalui kehidupan kasta yang mandiri, di antaranya melalui jenis **pekerjaan** (**kasta kehidupan/pekerjaan**),
+b) secara sekunder, melalui karisma turun-temurun, melalui klaim prestise yang sukses berdasarkan **keturunan** kasta (**kasta kelahiran**),
+c) melalui **appropriasi** kasta atas kekuasaan politik atau hierokratik sebagai monopoli (**kasta politik atau hierokratik**).
 
-The development of birth estates is regularly a form of (hereditary) appropriation of privileges to an association or to qualified individuals. Any fixed appropriation of opportunities, particularly [of] lordships [or livelihood] opportunities, tends to lead to the formation of estates. Any formation of estates tends to lead to the monopolistic appropriation of lordships and livelihood opportunities.
+Pengembangan status kelahiran secara teratur merupakan bentuk apropriasi (herediter) dari hak-hak istimewa kepada suatu kelompok atau kepada individu-individu yang berkualifikasi. Setiap apropriasi tetap atas peluang-peluang, khususnya [dari] peluang-peluang kekuasaan tuan [atau peluang ekonomi], cenderung mengarah pada pembentukan estate. Setiap pembentukan estate cenderung mengarah pada apropriasi monopoli atas kekuasaan tuan dan peluang ekonomi.
 
-As occupational classes grow on the basis of a market-oriented economy, estates arise and persist preferably on the basis of monopolistic liturgical or feudal or corporately patrimonial provision of associations.
+Sementara kelas-kelas ekonomi tumbuh di atas dasar ekonomi berorientasi pasar, kasta-kasta (stāna) muncul dan bertahan lebih disukai di atas dasar penyediaan kebutuhan monopoli liturgis, feodal, atau patrimonial-kasta dari asosiasi.
 
-»**Corporately**« is meant to signify a society when the social stratification occurs preferably by estates, »**classically**«, when it occurs preferably by classes. The «estate» is closest to the «social» class among the «classes», the «occupational class» is furthest. Estates are often formed by property classes according to their focus.
+»**Ständisch**« haruslah bermakna suatu masyarakat yang pengelompokan sosialnya terutama dilakukan menurut **stada**, »**berkelass**«, jika pengelompokan itu terutama dilakukan menurut kelas. Dari «kelas», kelas «sosial» yang paling dekat dengan «stada», sedangkan «kelas profesi» yang paling jauh. Stada sering dibentuk berdasarkan kelas kepemilikan sebagai titik beratnya.
 
-Every corporately organized society is conventional, ordered by rules of conduct, thereby creates economically irrational consumption conditions and hinders free market formation in this manner through monopolistic appropriations and by excluding free disposal of one's own earning capacity.
+Setiap masyarakat kasta bersifat konvensional, diatur oleh aturan-aturan hidup, sehingga menciptakan kondisi konsumsi yang secara ekonomi irasional dan dengan demikian menghambat pembentukan pasar bebas melalui apropriasi monopoli dan dengan mengecualikan kebebasan untuk mengatur kemampuan penghasilan sendiri.
 
-[**Weber, Max &lt;1864 – 1920&gt;: Economy and Society : Outline of Understanding Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – P. 625 f.]
+[**Weber, Max &lt;1864 – 1920&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+
 :::
 
-Varṇas are accordingly birth estates.
+Varṇa adalah kasta kelahiran.
 
-**kavi** m. -- कवि : Poet.
+**kavi** m. -- कवि : Penyair.
 
-**agni** m. -- अग्नि : Fire, God Agni.
+**agni** m. -- अग्नि : api, dewa Agni.
+
+
 
 ::: media
 ![](/images/lekt0203.jpg)
-Fig.: God Agni, Miniature, 18th century.
-(Image source: [Details](/en/licenses#lekt0203))
+Gambar: Dewa Agni, miniatur, abad ke-18.
+(Sumber gambar: [Rincian](/id/licenses#lekt0203))
+
 :::
 
-**sādhu** 3 -- साधु : correct, good.
+**sādhu** 3 -- साधु : benar, baik.
 
-**sādhu** m. -- साधु : "holy" man, Sādhu.
+**sādhu** m. -- साधु : "suci" Pria, Sādhu.
+
+
 
 ::: media
 ![](/images/lekt0202.webp)
-Fig.: Sādhu (साधु), Pashupatinath Temple, Kathmandu.
-(Image source: [Details](/en/licenses#lekt0202))
+Gambar: Sādhu (साधु), Kuil Pashupatinath, Kathmandu.
+(Sumber gambar: [Rincian](/id/licenses#lekt0202))
+
 :::
 
-**guru** 3 -- गुरु : heavy, significant, worthy of veneration
+**guru** 3 -- गुरु : berat, penting, layak disembah
 
-**guru** m. -- गुरु : worthy of veneration person: father, mother, older relative, esp. teacher, master
+**guru** m. -- गुरु : pribadi yang patut disembahkan: ayah, ibu, kerabat yang lebih tua, khususnya guru, master
 
 ---
 
-## 2.6. Exercise
+## 2.6. Latihan
 
-**A) Insert with due regard to Sandhi and form nominal sentences:**
+**A) Terapkan sandhi dan bentuk kalimat nominal:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
    = देवस् ... (शिव, अग्नि, विष्णु, गणेश, कृष्ण, इन्द्र)
@@ -240,14 +266,15 @@ Fig.: Sādhu (साधु), Pashupatinath Temple, Kathmandu.
 6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
    = कविस् ... (कालिदास, माघ, भारवि, हर्षदेव)
 
-**B) Translate into Sanskrit:**
+**B) Terjemahkan ke dalam bahasa Sanskerta:**
 
-1. Rāma is a Brāhmaṇa.
-2. The teacher is a Vaiśya.
-3. The Śūdra is a holy man.
-4. The poet is the teacher.
-5. Viṣṇu is the LORD.
-6. The LORD is Śiva.
-7. The twice-born is a Brāhmaṇa.
-8. The holy man is a teacher.
-9. The teacher is a holy man.
+1. Rāma adalah seorang Brahmana.
+2. Guru adalah seorang Vaiśya.
+3. Śūdra adalah seorang pria suci.
+4. Penyair adalah guru.
+5. Viṣṇu adalah TUHAN.
+6. TUHAN adalah Śiva.
+7. Dikalungkan dua kali adalah seorang Brahmana.
+8. Pria suci adalah seorang guru.
+9. Guru adalah seorang pria suci.
+

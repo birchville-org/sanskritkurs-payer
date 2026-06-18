@@ -1,124 +1,179 @@
 ---
-title: Lesson 4
-subtitle: "Interrogative and demonstrative pronouns in the nominative"
+title: Pelajaran 4
+subtitle: "Kata Ganya Tanya dan Kata Ganya Penunjuk dalam Nominatif"
 lesson_id: 4
 last_reconstructed: 2026-05-07
-category: "Grammar"
+category: "Tata Bahasa"
 status: stable
 ---
 
-# Lesson 4
+# Pelajaran 4
+
+
 
 ::: deleteme-box
-**In this lesson you will learn:**
-- Interrogative and demonstrative pronouns in the nominative case
-- Sandhi of final -m
-- Sandhi of final -e
-- Sandhi of final -d
-- Simple question formulas
+**Dalam pelajaran ini Anda akan mempelajari:**
+- Kata tanya dan kata ganti penunjuk dalam nominatif
+- Sandhi dari akhiran -m
+- Sandhi dari akhiran -e
+- Sandhi dari akhiran -d
+- Frasa pertanyaan sederhana
+
 :::
 
-## 4.1. Simple Complement Questions (Word Questions) and Answers
+## 4.1. Pertanyaan Pelengkap Sederhana (Pertanyaan Kata) dan Jawaban
 
-### 4.1.1. Interrogative and Demonstrative Pronouns
+### 4.1.1. Kata Ganti Tanya dan Kata Ganti Penunjuk
 
-#### 4.1.1.1. Interrogative Pronouns (praśnārthakasarvanāma n. = प्रश्नार्थकसर्वनामन्)
+#### 4.1.1.1. Kata tanya (praśnārthakasarvanāma n. = प्रश्नार्थकसर्वनामन्)
+
+
 
 ::: grammar-box
-| | Nominative singular | Nominative plural |
+
+| | Nominatif tunggal | Nominatif jamak |
+
 | :--- | :--- | :--- |
-| **Neuter** | **kim = किम्** | **kāni = कानि** |
-| **Masculine** | **kas = कस्** | **ke = के** |
-| **Feminine** | **kā = का** | **kās = कास्** |
+
+| **Neutrum** | **kim = किम्** | **kāni = कानि** |
+
+| **Maskulinum** | **kas = कस्** | **ke = के** |
+
+| **Femininum** | **kā = का** | **kās = कास्** |
+
 :::
 
 
-#### 4.1.1.2. Demonstrative Pronouns (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि)
+
+#### 4.1.1.2. Kata Ganti Penunjuk (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि)
+
+
 
 ::: grammar-box
-| **Stems** ||||
+
+| **Suku** ||||
+
 | :--- | :---: | :---: | :---: |
-| | **tad = तद्[[br]]"he, she, it; the, the, the"[[br]](Mentioned)** | **etad = एतद्[[br]]"this, this, this"[[br]](Very close to the speaker)** | **idam = इदम्[[br]]"this, this, this"[[br]](Close)** |
-| **Nominative singular** ||||
-| **Neuter** | **tad = तद्** | **etad = एतद्** | **idam = इदम्** |
-| **Masculine** | **sa, so saḥ = स सो सः** | **eṣa, eṣo, eṣaḥ = एष एषो एषः** | **ayam = अयम्** |
-| **Feminine** | **sā = सा** | **eṣā = एषा** | **iyam = इयम्** |
-| | | | |
-| **Nominative plural** ||||
-| **Neuter** | **tāni = तानि** | **etāni = एतानि** | **imāni = इमानि** |
-| **Masculine** | **te = ते** | **ete = एते** | **ime = इमे** |
-| **Feminine** | **tās = तास्** | **etās = एतास्** | **imās इमास्** |
+
+| | **tad = तद्[[br]]"dia, mereka; yang itu"[[br]](Yang Disebut)** | **etad = एतद्[[br]]"ini, ini, ini"[[br]](Sangat Dekat dengan Pembicara)** | **idam = इदम्[[br]]"ini, ini, ini"[[br]](Dekat)** |
+
+| **Nominatif tunggal** ||||
+
+| **Neutrum** | **tad = तद्** | **etad = एतद्** | **idam = इदम्** |
+
+| **Maskulinum** | **sa, so saḥ = स सो सः** | **eṣa, eṣo, eṣaḥ = एष एषो एषः** | **ayam = अयम्** |
+
+| **Femininum** | **sā = सा** | **eṣā = एषा** | **iyam = इयम्** |
+
+| **Nominatif jamak** ||||
+
+| **Neutrum** | **tāni = तानि** | **etāni = एतानि** | **imāni = इमानि** |
+
+| **Maskulinum** | **te = ते** | **ete = एते** | **ime = इमे** |
+
+| **Femininum** | **tās = तास्** | **etās = एतास्** | **imās इमास्** |
+
 :::
 
 
-**Regarding Nom. sg. masc.:**
-- **sa, eṣa** (स एष) stands before all sounds except short **-a**
-- **so, eṣo** (सो एषो) stands before **-a**, which is elided (omitted) with Avagraha
-- **saḥ, eṣaḥ** (सः एषः) stands only in pause (end of sentence, end of verse)
 
-In order to be able to form sentences with these pronouns (sarvanāman n.), knowledge of the following Sandhi rules is still necessary:
+**Untuk Nom. sg. mask.:**
+- **sa, eṣa** (स एष) muncul sebelum semua bunyi kecuali **-a** pendek
+- **so, eṣo** (सो एषो) muncul sebelum **-a**, yang dielisis dengan Avagraha (hilang)
+- **saḥ, eṣaḥ** (सः एषः) hanya muncul dalam jeda (akhir kalimat, akhir bait)
 
-### 4.1.2. Sandhi of final -m
+Agar dapat membentuk kalimat dengan kata ganti ini (sarvanāman n.), diperlukan juga pengetahuan tentang aturan Sandha berikut:
+
+### 4.1.2. Sandhi dari akhiran -m
+
+
 
 ::: grammar-box
-**Final -m is replaced by Anusvāra (-ṃ) before consonants. At the end of a sentence or verse and before vowels, -m remains unchanged.**
+**-m di akhir kata digantikan oleh Anusvāra (-ṃ) sebelum konsonan. Di akhir kalimat atau bait, dan sebelum vokal, -m tetap dipertahankan.**
 :::
 
-### 4.1.3. Sandhi of final -e
+:::
+
+### 4.1.3. Sandhi dari akhiran -e
+
+
 
 ::: grammar-box
-1. **before a- final -e remains unchanged: the initial a- elides with Avagraha:**
-   e.g. ete + agnayas » ete 'gnayaḥ = एते ऽग्नयः "These fires"
+1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:**
+   z.B. ete + agnayas » ete 'gnayaḥ = एते ऽग्नयः "Diese Feuer"
 
-2. **Before vowels other than short a- final -e is usually replaced by -a with hiatus. Replacement by -ay also occurs:**
-   e.g. ime + īśvarās » ima īśvarāḥ = इम ईश्वराः (rare: imay īśvarāh = इमयीश्वराः) "These LORDS"
+2. **Di depan vokal lain selain a- pendek, -e biasanya diganti dengan -a dengan hiatus. Penggantian dengan -ay juga terjadi:**
+   mis. ime + īśvarās » ima īśvarāḥ = इम ईश्वराः (langka: imay īśvarāh = इमयीश्वराः) "TUAN-TUAN ini"
+
 :::
 
-### 4.1.4. Sandhi of final -d
+### 4.1.4. Sandhi dari akhirat -d
+
+
 
 ::: grammar-box
-**Final -d is replaced by -t in pause as well as before voiceless gutturals (k, kh) and labials (p, ph).**
-
-The replacement before other consonants will be discussed later. Avoid such sound collisions for now!
+**-d di akhir suku kata diganti dengan -t dalam jeda serta sebelum gutural tak bersuara (k, kh) dan labial (p, ph).**
 :::
 
-### 4.1.5. Question Formulas
+Penggantian sebelum konsonan lain akan dibahas kemudian. Hindari tabrakan bunyi seperti itu untuk sementara!
 
-Using these pronouns, one forms, for example, the following question formulas:
+:::
+
+### 4.1.5. Rumus Pertanyaan
+
+Dengan kata ganti ini, misalnya, dibentuk rumus pertanyaan berikut:
+
+
 
 :::: grammar-box
+
 ::: no-header
+
 | | | | |
+
 | :--- | :--- | :--- | :--- |
-| **Singular** | **Neuter** | tat kim? / kiṃ tat?[[br]]तत्किम्, किं तत्[[br]][[br]]etat kim? / kim etat?[[br]]एतत्किम्, किमेतत्[[br]][[br]]idaṃ kim? / kim idam[[br]]इदं किम्, किमिदम् | "What is that?" |
-| | **Masculine** | sa kaḥ? / kaḥ saḥ?[[br]]स कः, कः सः[[br]][[br]]eṣa kaḥ? / ka eṣaḥ[[br]]एष कः, क एषः[[br]][[br]]ayaṃ kaḥ? / ko 'yam?[[br]]अयं कः, को ऽयम् | "Who is that?"[[br]]"What is he?" |
-| | **Feminine** | sā kā? / kā sā?[[br]]सा का, का सा[[br]][[br]]eṣā kā? / kaiṣā? (= kā + eṣā)[[br]]एषा का, कैषा[[br]][[br]]iyaṃ kā? / keyam? (= kā + iyam)[[br]]इयं का, केयम् | "Who is that?"[[br]]"Who is she?" |
-| **Plural** | **Neuter** | tāni kāni? / kāni tāni?[[br]]तानि कानि, कानि तानि[[br]][[br]]etāni kāni? / kāny etāni?[[br]]एतानि कानि, कान्येतानि[[br]][[br]]imāni kāni? / kānīmāni? (= kāni + imāni)[[br]]इमानि कानि, कानीमानि | |
-| | **Masculine** | te ke? / ke te?[[br]]ते के, के ते[[br]][[br]]ete ke? / ka ete?[[br]]एते के, क एते[[br]][[br]]ime ke? / ka ime?[[br]]इमे के, क इमे | |
-| | **Feminine** | tāḥ kāḥ? / kās tāḥ?[[br]]ताः काः, कास्ताः[[br]][[br]]etāḥ kāḥ? / kā etāḥ?[[br]]एताः काः, का एताः[[br]][[br]]imāḥ kāḥ? / kā imāḥ?[[br]]इमाः काः, का इमाः | |
+
+| **Singular** | **Neutrum** | tat kim? /kiṃ tat?[[br]]तत्किम्, किं तत्[[br]]etat kim? /kim etat?[[br]]एतत्किम्, किमेतत्[[br]]idaṃ kim? / kim idam[[br]]इदं किम्, किमिदम् | "Apa itu?" |
+
+| | **Maskulinum** | sa kaḥ? / kaḥ saḥ?[[br]]स कः, कः सः[[br]]eṣa kaḥ? / ka eṣaḥ[[br]]एष कः, क एषः[[br]]ayaṃ kaḥ? / ko 'yam?[[br]]अयं कः, को ऽयम् | "Siapa itu?"[[br]]"Siapa dia (laki-laki)?" |
+
+| | **Femininum** | sā kā? / kā sā?[[br]]सा का, का सा[[br]]eṣā kā? / kaiṣā? (= kā + eṣā)[[br]]एषा का, कैषा[[br]]iyaṃ kā? / keyam? (= kā + iyam)[[br]]इयं का, केयम् | "Siapa itu?"[[br]]"Siapa dia (perempuan)?" |
+
+| **Jamak** | **Netral** | tāni kāni? / kāni tāni?[[br]]तानि कानि, कानि तानि[[br]]etāni kāni? / kāny etāni?[[br]]एतानि कानि, कान्येतानि[[br]]imāni kāni? / kānīmāni? (= kāni + imāni)[[br]]इमानि कानि, कानीमानि | |
+
+| | **Maskulinum** | te ke? / ke te?[[br]]ते के, के ते[[br]]ete ke? / ka ete?[[br]]एते के, क एते[[br]]ime ke? / ka ime?[[br]]इमे के, क इमे | |
+
+| | **Femininum** | tāḥ kāḥ? / kās tāḥ?[[br]]ताः काः, कास्ताः[[br]]etāḥ kāḥ? / kā etāḥ?[[br]]एताः काः, का एताः[[br]]imāḥ kāḥ? / kā imāḥ?[[br]]इमाः काः, का इमाः | |
+
 :::
+
 ::::
 
 
-An example of other questions:
 
-> viṣṇuḥ kaḥ? = विष्णुः कः Answer: viṣṇur īśvaraḥ = विष्णुरीश्वरः. (Here, one can place the subject, for example, at the beginning of the nominal sentence, to emphasize the connection to the question.)
+Contoh pertanyaan lain:
 
-NOTE: The answers you can give to such questions with your current Sanskrit knowledge do not, of course, yet correspond in every respect to idiomatic good Sanskrit.
+> viṣṇuḥ kaḥ? = विष्णुः कः Jawaban: viṣṇur īśvaraḥ = विष्णुरीश्वरः. (Dalam kalimat nominal, subjek dapat diletakkan di awal, misalnya, untuk menekankan kesinambungan dengan pertanyaan.)
+
+CATATAN: Jawaban-jawaban yang dapat Anda berikan dengan pengetahuan Sanskerta Anda sejauh ini, tentu saja, belum sepenuhnya sesuai dengan bahasa Sanskerta idiomatik yang baik.
 
 ---
 
-## 4.2. Exercise
+## 4.2. Latihan
 
-**A) Form questions orally using the following words according to the pattern viṣṇuḥ kaḥ (विष्णुः कः) and answer the questions in Sanskrit:**
+**A) Bentuklah secara lisan pertanyaan-pertanyaan mengenai kata-kata berikut dengan skema viṣṇuḥ kaḥ (विष्णुः कः) dan jawablah pertanyaan-pertanyaan tersebut dalam bahasa Sanskerta:**
 
-śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa
+śruti, śiva, brāhmaṇa, dvija (jamak), indrāṇī, dhenu, tulādhara, kālidāsa
 
 = श्रुति, शिव, ब्राह्मण, द्विज (बहुवचनम्), इन्द्राणी, धेनु, तुलाधर, कालिदास
 
-**B) Form questions for the following reading exercise according to the pattern etat kim (एतत्किम्) and answer the questions using the specified words and demonstrative pronouns, e.g. eṣa bālaḥ (एष बालः):**
+**B) Bentuklah pertanyaan untuk latihan membaca berikut dengan pola etat kim (एतत्किम्) dan jawablah pertanyaan-pertanyaan tersebut dengan kata-kata yang ditentukan serta kata ganti demonstratif, misalnya eṣa bālaḥ (एष बालः):**
+
+
 
 ::: media
 ![](/images/lekt0401.webp)
-(Image source: [Details](/en/licenses#lekt0401))
+(Sumber gambar: [Detail](/id/licenses#lekt0401))
+
 :::
+

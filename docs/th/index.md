@@ -2,33 +2,37 @@
 layout: home
 
 hero:
-  name: Sanskrit Course
-  text: A Complete Course
-  tagline: by Alois Payer (Tüpfli's Global Village Library)
+  name: Sanskritkurs
+  text: หลักสูตรสมบูรณ์
+  tagline: โดย Alois Payer (Tüpfli's Global Village Library)
   actions:
     - theme: brand
-      text: Start Course
-      link: /en/lektionen/lektion01
+      text: เริ่มหลักสูตร
+      link: /th/lektionen/lektion01
     - theme: alt
-      text: Grammar Topics
-      link: /en/grammatik
+      text: หัวข้อไวยากรณ์
+      link: /th/grammatik
 
 features:
   - title: Devanāgarī ready
-    details: Perfect, integrated typography for Indian scripts.
-  - title: Easily Searchable
-    details: Deep local full-text search keeps knowledge at your fingertips.
-  - title: Modern Architecture
-    details: Built on the foundation of VitePress for maximum speed.
----
+    รายละเอียด: ระบบจัดรูปแบบอักษรอินเดียที่สมบูรณ์แบบและบูรณาการ
+  - title: ค้นหาได้ง่าย
+    รายละเอียด: ระบบค้นหาข้อความเต็มรูปแบบในเครื่องที่เข้าถึงความรู้ได้ทันที
+  - title: สถาปัตยกรรมสมัยใหม่
+    รายละเอียด: สร้างบนพื้นฐานของ VitePress เพื่อความเร็วสูงสุด
 
-::: tip Version 1.4 — Offline-First PWA
-**New in v1.4 (June 2026):**
 
-- **Progressive Web App (PWA):** The course can now be installed as an app on your desktop and smartphone (iOS/Android).
-- **Fully Offline:** All selected content is stored locally and can be used completely without an internet connection.
-- **Dynamic Caching:** You can use the Settings to precisely control which of the 14 languages should be available offline at any time.
-- **High Performance:** Massive reduction in loading times and data consumption thanks to highly compressed WebP images.
 
-**Comments and bug reports:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+::: tip เวอร์ชัน 1.4 — PWA แบบออฟไลน์เป็นอันดับแรก
+**มีใหม่ใน v1.4 (มิถุนายน 2026):**
+
+- **แอปพลิเคชันเว็บก้าวหน้า (PWA):** ตอนนี้สามารถติดตั้งคอร์สเป็นแอปบนเดสก์ท็อปและสมาร์ทโฟน (iOS/Android) ได้
+- **ใช้งานออฟไลน์ได้สมบูรณ์:** เนื้อหาที่เลือกทั้งหมดจะถูกจัดเก็บในเครื่องและใช้งานได้โดยสมบูรณ์โดยไม่ต้องเชื่อมต่ออินเทอร์เน็ต
+- **แคชแบบไดนามิก:** สามารถควบคุมได้อย่างแม่นยำผ่านการตั้งค่า (Settings) ว่าภาษาใดใน 14 ภาษาที่ต้องการให้พร้อมใช้งานแบบออฟไลน์
+- **ประสิทธิภาพสูง:** ลดเวลาในการโหลดและการใช้ข้อมูลอย่างมหาศาลด้วยภาพ WebP ที่บีบอัดอย่างสูง
+
+**หมายเหตุและข้อผิดพลาด:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**มีส่วนร่วมในฐานะผู้เขียนหรือผู้ตรวจสอบ:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+
 :::
+
