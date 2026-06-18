@@ -1,1 +1,22 @@
+# Führe zuerst alle qualitäts-checks durch
 python3 scripts/pre_push_check.py --build
+STATUS=$?
+
+if [ $STATUS -ne 0 ]; then
+  exit $STATUS
+fi
+
+# Frage den User explizit nach Bestätigung, bevor gepusht wird
+exec < /dev/tty
+echo ""
+echo "============================================================"
+read -p "❓ Möchtest du diese Änderungen jetzt wirklich pushen? (y/N): " yn
+echo "============================================================"
+
+if [ "$yn" != "y" ] && [ "$yn" != "Y" ]; then
+    echo "❌ Push vom Benutzer abgebrochen."
+    exit 1
+fi
+
+echo "✅ Push bestätigt! Lade zu GitHub hoch..."
+exit 0
