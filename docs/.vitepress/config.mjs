@@ -216,6 +216,7 @@ export default defineConfig({
   },
   
   themeConfig: {
+    logo: '/birchville_logo.png',
     search: { 
       provider: 'local', 
       options: {
