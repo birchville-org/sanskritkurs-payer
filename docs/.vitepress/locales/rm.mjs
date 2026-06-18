@@ -6,6 +6,12 @@ export const rm = {
   title: 'Cors da sanskrit',
   description: 'Manual da grammatica dad Alois Payer',
   themeConfig: {
+    returnToTopLabel: 'Enavos ensi',
+    sidebarMenuLabel: 'Menu',
+    darkModeSwitchLabel: 'Apparientscha',
+    lightModeSwitchTitle: 'Midar al design cler',
+    darkModeSwitchTitle: 'Midar al design stgir',
+    langMenuLabel: 'Midar la lingua',
     outline: { level: [2, 3], label: 'Sin questa pagina' },
     nav: [
       { text: 'Pagina principala', link: '/rm/' },
