@@ -44,13 +44,13 @@ Această pagină oferă o prezentare sistematică a tuturor subiectelor gramatic
 
 
 *   **Pronume**:
-    *   Pronume interogative și demonstrative -&gt; [Lecția 4](/lektionen/lektion04)
-    *   Pronume relativ (yad) -&gt; [Lecția 19](/lektionen/lektion19)
-    *   Pronume personale (persoana 1. și 2.) -&gt; [Lecția 46](/lektionen/lektion46), [Lecția 47](/lektionen/lektion47)
-    *   Pronume nehotărâte -&gt; [Lecția 37](/lektionen/lektion37)
+    *   Pronume interogative și demonstrative → [Lecția 4](/lektionen/lektion04)
+    *   Pronume relativ (yad) → [Lecția 19](/lektionen/lektion19)
+    *   Pronume personale (persoana 1. și 2.) → [Lecția 46](/lektionen/lektion46), [Lecția 47](/lektionen/lektion47)
+    *   Pronume nehotărâte → [Lecția 37](/lektionen/lektion37)
 *   **Adverbe și adresare**:
-    *   Formarea adverbelor -&gt; [Lecția 37](/lektionen/lektion37), [Lecția 52](/lektionen/lektion52)
-    *   Adresare politicoasă și vocativ -&gt; [Lecția 21](/lektionen/lektion21), [Lecția 44](/lektionen/lektion44)
+    *   Formarea adverbelor → [Lecția 37](/lektionen/lektion37), [Lecția 52](/lektionen/lektion52)
+    *   Adresare politicoasă și vocativ → [Lecția 21](/lektionen/lektion21), [Lecția 44](/lektionen/lektion44)
 
 ### 2.3 Verbe (Conjugare)
 
@@ -103,8 +103,8 @@ Această pagină oferă o prezentare sistematică a tuturor subiectelor gramatic
 
 Filozofia și literatura sanscrită sunt adesea compuse în versuri. Metrica învață ritmul și structura acestor versuri.
 
-*   **Introducere și Śloka** -&gt; [Lecția 45](/lektionen/lektion45), [Lecția 53](/lektionen/lektion53)
-*   **Metre avansate** (Trīṣṭubh, Jāgatī) -&gt; [Lecția 54](/lektionen/lektion54)
+*   **Introducere și Śloka** → [Lecția 45](/lektionen/lektion45), [Lecția 53](/lektionen/lektion53)
+*   **Metre avansate** (Trīṣṭubh, Jāgatī) → [Lecția 54](/lektionen/lektion54)
 
 
 

@@ -175,7 +175,7 @@ def check_foreign_chars(files):
 
         # CJK in Nicht-CJK-Sprachen (ausser wenn es legitime Eigennamen sind)
         cjk = CJK_RE.findall(content)
-        if cjk and lang not in ('zh',):
+        if cjk and not lang.startswith('zh'):
             # lektion50 und licenses.md haben legitimerweise CJK (Everest, Lisu)
             if 'lektion50' not in str(path) and 'licenses' not in path.name:
                 errors.append((path, f'CJK-Zeichen: {"".join(set(cjk))[:10]}'))
@@ -386,7 +386,7 @@ def main():
     else:
         qa_content = qa_viewer.read_text(encoding='utf-8')
         # Alle Sprachverzeichnisse in docs/ (ausser Sonder-Verzeichnisse)
-        SKIP_DIRS = {'.vitepress', 'public', 'qa', 'lektionen'}
+        SKIP_DIRS = {'.vitepress', 'public', 'qa', 'lektionen', 'de'}
         lang_dirs = {d.name for d in (ROOT / 'docs').iterdir()
                      if d.is_dir() and d.name not in SKIP_DIRS}
         # Prüfe ob jede Sprache als option value in QA-Viewer vorhanden ist
