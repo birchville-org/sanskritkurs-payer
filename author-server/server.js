@@ -19,8 +19,8 @@ const REPO = 'sanskritkurs-payer';
 const DRAFTS_BRANCH = 'author-drafts';
 const MAIN_BRANCH = 'main';
 
-// VitePress dist-author Dateien werden von hier ausgeliefert
-app.use(express.static(path.join(__dirname, 'public')));
+// VitePress dist-author Dateien werden von hier ausgeliefert, mit Support für Clean URLs (.html)
+app.use(express.static(path.join(__dirname, 'public'), { extensions: ['html'] }));
 
 app.get('/api/load', async (req, res) => {
     const { filepath } = req.query; // z.B. docs/lektionen/lektion01.md
