@@ -15,11 +15,11 @@ hero:
 
 features:
   - title: Devanāgarī ready
-    詳細：針對印度文字的完美整合排版。
+    details: 針對印度文字的完美整合排版。
   - title: 輕量可搜尋
-    details：強大的本地全文搜尋功能，讓知識觸手可及。
+    details: 強大的本地全文搜尋功能，讓知識觸手可及。
   - title: 現代架構
-    details：基於 VitePress 建構，確保極致速度。
+    details: 基於 VitePress 建構，確保極致速度。
 ---
 
 
