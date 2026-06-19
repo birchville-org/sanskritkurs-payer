@@ -11,6 +11,10 @@ import subprocess
 import urllib.request
 import urllib.error
 import sys
+import os
+
+# Stelle sicher, dass Homebrew und lokale Bins im PATH sind (wichtig für Ausführung via Cron)
+os.environ["PATH"] += os.pathsep + "/opt/homebrew/bin" + os.pathsep + "/usr/local/bin"
 
 OLLAMA_URL = "http://localhost:11434/v1/chat/completions"
 MODEL_NAME = "gemma4:12b-mlx"
