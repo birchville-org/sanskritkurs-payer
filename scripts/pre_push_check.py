@@ -385,8 +385,7 @@ def main():
         print("  ⚠ qa_viewer.html nicht gefunden — übersprungen")
     else:
         qa_content = qa_viewer.read_text(encoding='utf-8')
-        # Alle Sprachverzeichnisse in docs/ (ausser Sonder-Verzeichnisse)
-        SKIP_DIRS = {'.vitepress', 'public', 'qa', 'lektionen', 'de'}
+        SKIP_DIRS = {'.vitepress', 'public', 'qa', 'lektionen', 'de', '.zennotes', 'archive', 'quick', 'trash', 'zh-CN', 'zh-TW', 'th'}
         lang_dirs = {d.name for d in (ROOT / 'docs').iterdir()
                      if d.is_dir() and d.name not in SKIP_DIRS}
         # Prüfe ob jede Sprache als option value in QA-Viewer vorhanden ist

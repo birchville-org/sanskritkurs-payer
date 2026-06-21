@@ -87,9 +87,7 @@ Akhiran Nominatif Jamak pada Maskulin dan Feminin adalah **-as**.
 **Vokalsandhi** adalah subset khusus dari sandhi yang melibatkan vokal. Aturan-aturan ini menentukan bagaimana dua vokal yang bersebelahan (satu dari akhir kata pertama dan satu dari awal kata kedua) berubah atau bergabung menjadi satu vokal baru, atau tetap terpisah tergantung pada konteks fonetiknya.
 
 Tujuan dari sandhi adalah untuk memastikan kelancaran ucapan (*pratyāhāra*) dan menjaga ritme puisi serta mantra. Tanpa sandhi, ucapan Sanskerta akan terdengar patah-patah dan tidak alami.
-:::⟨DEVA_1⟩
 
-⟨IAST_L_1⟩
 
 ### Prinsip Dasar Vokalsandhi
 
@@ -113,9 +111,7 @@ Berikut adalah tabel ringkasan aturan vokalsandhi untuk vokal pendek dan panjang
 | **u / ū** | **ṛ / ṝ** | **aur** | *gacu + ṛta* → *gaurṭa* | *gaurṭa* |
 | **ṛ / ṝ** | **a / ā / i / ī / u / ū** | **ar / aur** | *ṛta + asti* → *arta* | *arta* |
 
-⟨DEVA_2⟩
 
-⟨IAST_L_2⟩
 
 ### Penjelasan Detail Aturan
 
