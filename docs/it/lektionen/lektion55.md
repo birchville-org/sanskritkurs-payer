@@ -11,7 +11,7 @@ status: stable
 
 ## 55.1. L'aoristo in -a (Aoristo con vocale tematica)
 
-::: grammar-box
+:::grammar-box
 **L'aoristo in -a si forma come un imperfetto (लङ्) della 6ª classe di presente (तुदादि), cioè:**
 
 **Augumento + radice in grado debole + a + desinenza secondaria**
@@ -23,38 +23,30 @@ status: stable
 **L'ātmanepāda è raro; per le radici ubhayapada di solito si forma secondo altre classi di aoristo (vedi Kielhorn, Grammatik §340 e sotto per le corrispondenti classi di aoristo).**
 
 **Elenco delle radici che hanno questo aoristo, in Kielhorn, Grammatik §340.**
-:::
-
-Esempio:
+:::Esempio:
 
 सिच् 6U "bagnare"
 
-::: indent
+:::indent
 |   | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
 |   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
 | 1\. तृतीयः | असिचम् | असिचाम | असिचे | असिचामहि |
 | 2\. मध्यमः | असिचस् | असिचत | असिचथास् | असिचध्वम् |
 | 3\. प्रथमः | असिचत् | असिचन् | असिचत | असिचन्त |
-:::
+:::Formazioni irregolari:
 
-Formazioni irregolari:
-
-::: indent
+:::indent
 अस् 4P "gettare": ***आस्थम्, आस्थत्*** (Spiegazione vedi Thumb-Hauschild §541,4)
 
 ख्या + आ 2P "raccontare": ***अख्यम्, अख्यत्***
 
 दृश् "vedere": ***अदर्शम्, अदर्शत्*** (Grado forte!)
-:::
+:::Nota:
 
-Nota:
-
-::: indent
+:::indent
 शास् 2P "ordinare": अशिषत् (grado debole regolare!)
-:::
-
-## 55.2. Esercizio
+:::## 55.2. Esercizio
 
 Determinare e tradurre per iscritto le seguenti forme e formare le forme corrispondenti dell'aoristo in a-:
 
@@ -91,14 +83,12 @@ Determinare e tradurre per iscritto le seguenti forme e formare le forme corrisp
 31.  अशुष्याम
 32.  सिष्णेह
 
-::: media
+:::media
 ![](/images/lekt5501.webp)
 Fig.: अजीर्यमिति
 'Inâyat Khân morente, progetto per una miniatura di un manoscritto per Jahângîr = جهانگير, ca. 1618
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5501))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt5501:** 'Inâyat Khân morente, progetto per una miniatura di un manoscritto per Jahângîr = جهانگير, ca. 1618 [Fonte dell'immagine: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accesso il 2009-01-28. Di pubblico dominio]
 

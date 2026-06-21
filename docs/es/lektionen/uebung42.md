@@ -37,13 +37,11 @@ Un hermano no debe casarse con su hermana. Si un hermano desea a su hermana, los
 ९. **नप्तॄणां लाभं पितैच्छत् ॥ ९ ॥**
 El padre deseaba la obtención de nietos.
 
-::: media
+:::media
 ![](/images/uebung068.webp)
 Fig.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Fuente de la imagen: [Detalles](/licenses#uebung068))
-:::
-
----
+:::---
 
 ## Narrativa: La boda de Sītā (सीताविवाहः)
 
@@ -70,7 +68,7 @@ Cuando escucharon esta promesa, príncipes llegaron por cientos. Sin embargo, ni
 
 El corazón del rey Janaka estaba muy alegre. Luego, hizo venir a Daśaratha y a los demás, y celebró con gran esplendor la fiesta de boda de Sītā y Rāma.
 
-::: media
+:::media
 ![](/images/uebung069.webp)
 Fig.: श्रीसीता श्रीरामश्च
 (Fuente de la imagen: [Detalles](/licenses#uebung069))

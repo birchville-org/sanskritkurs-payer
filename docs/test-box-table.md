@@ -1,6 +1,6 @@
 # Test Box Table
 
-::: grammar-box
+:::grammar-box
 | H1 | H2 |
 | :--- | :--- |
 | Row 1 | Cell 2 |

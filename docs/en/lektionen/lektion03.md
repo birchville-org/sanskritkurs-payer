@@ -9,44 +9,36 @@ status: stable
 
 # Lesson 3
 
-::: deleteme-box
+:::deleteme-box
 **In this lesson, you will learn:**
 - the nominative singular of the feminine
 - the nominative plural of the masculine and feminine
 - the formation of the feminine from masculines
 - vowel sandhi
 - Sentence sandhi of -ās
-:::
-
-## 3.1. Nominative Singular of the Feminine
+:::## 3.1. Nominative Singular of the Feminine
 
 ### 3.1.1. Nominative Singular ending in -s
 
 The following nominal stems, which end in a vowel, also form the nominative singular with **-s**:
 
-::: grammar-box
+:::grammar-box
 - **Feminines in -i**: e.g., **śruti** f. "hearing" -- Nom. sg.: **śrutis** = श्रुतिस्
 - **Feminines in -u**: e.g., **dhenu** f. "milch cow" -- Nom. sg.: **dhenus** = धेनुस्
-:::
-
-### 3.1.2. Nominative Singular without Ending
+:::### 3.1.2. Nominative Singular without Ending
 
 The nominative singular is formed without an ending:
 
-::: grammar-box
+:::grammar-box
 - **Feminines in -ā**: e.g. **devatā** f. "deity" -- Nom. sg.: **devatā** = देवता
 - **Feminines in -ī**: e.g. **devī** f. "goddess" -- Nom. sg.: **devī** = देवी
-:::
-
-::: important
+::::::important
 **Attention!** In addition, there are monosyllabic feminine root nouns in -ī, whose nominative singular ends in -s: e.g. dhī f. "thought" -- Nom. sg.: dhīs = धीस्. Also lakṣmī (लक्ष्मी) f., tarī (तरी) f. "boat" and tantrī (तन्त्री) f. "string" form the nominative singular irregularly with -s: lakṣmīs = लक्ष्मीस्.
-:::
-
----
+:::---
 
 ## 3.2. Formation of Feminines from Masculines
 
-::: grammar-box
+:::grammar-box
 **Masculines in -a:**
 - **Feminine in -ā**: e.g. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriya woman" = क्षत्रिया
 - **Feminine in -ī**: e.g. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmana woman" = ब्राह्मणी
@@ -54,13 +46,11 @@ The nominative singular is formed without an ending:
 **Masculines in -u:**
 - **Feminine in -ī**: e.g. **sādhu** m. » **sādhvī** f. (good, holy woman) = साध्वी
   (**-u-** becomes **-v-** before a vowel, hence **-u- + -ī** » **-vī**)
-:::
-
----
+:::---
 
 ## 3.3. Nominative Plural Masculine and Feminine
 
-::: grammar-box
+:::grammar-box
 The ending of the Nominative Plural in the Masculine and Feminine is **-as**.
 - **Masculines in -a**: **deva- + -as** » **devās** = देवास्
 - **Feminines in -ā**: **devatā- + -as** » **devatās** = देवतास्
@@ -69,23 +59,19 @@ The ending of the Nominative Plural in the Masculine and Feminine is **-as**.
 - **Feminines in -ī**: **devī- + -as** » **devyas** = देव्यस्
 - **Masculines in -u**: **guru-** » **guro- + -as** » **guravas** = गुरवस्
 - **Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्
-:::
-
-Note: **e** is the strong grade (**guṇa**) of **i**, **o** is the strong grade of **u**.
+:::Note: **e** is the strong grade (**guṇa**) of **i**, **o** is the strong grade of **u**.
 
 ---
 
 ## 3.4. Vocal Sandhi
 
-::: grammar-box
+:::grammar-box
 **Simple vowels that differ not at all or only in their length "merge" into the corresponding long vowel:**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
-:::
-
-e.g.
+:::e.g.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā is a deity" = देवतान्नपूर्णा
 
@@ -95,42 +81,34 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī is a goddess" = देवी
 
 > (Indrāṇī is the consort of the god Indra.)
 
-::: media
+:::media
 ![](/images/lekt0301.webp)
 Fig.: Indra and Indrāṇī on the elephant Airavata, miniature, Rājasthān, 1670/80
 (Image source: [Details](/en/licenses#lekt0301))
-:::
-
-::: grammar-box
+::::::grammar-box
 **Simple vowels (except -a / -ā) are replaced by the corresponding semivowel before dissimilar vowels:**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
 (!! There are exceptions to this rule, particularly for dual forms !!)
-:::
-
-e.g.
+:::e.g.
 
 devī + umā » devy umā "Umā is a / the goddess" = देव्युमा
 
 > (Umā is a name for Pārvatī, the consort of Śiva)
 
-::: grammar-box
+:::grammar-box
 **-a / -ā before dissimilar vowel:**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
-:::
+:::For this sandhi, the following scheme applies:
 
-For this sandhi, the following scheme applies:
-
-::: media
+:::media
 ![](/images/lekt0302.jpg)
 (Image source: [Details](/en/licenses#lekt0302))
-:::
-
-See later regarding this so-called stem gradation!
+:::See later regarding this so-called stem gradation!
 
 e.g.
 
@@ -140,11 +118,9 @@ e.g.
 
 ## 3.5. Sentence sandhi of -ās
 
-::: grammar-box
+:::grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
-:::
-
-e.g.
+:::e.g.
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are twice-born" = द्विजा वैश्याः
 
@@ -193,13 +169,11 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are twice-born" = द्�
 
 **devī** f. = देवी : goddess, esp. Durgā f. = दुर्गा, the consort of Śiva = शिव.
 
-::: media
+:::media
 ![](/images/lekt0303.webp)
 Fig.: Durgā = दुर्गा, Orissa
 (Image source: [Details](/images/lekt0303))
-:::
-
-**sādhvī** f. = साध्वी : fem. of sādhu.
+:::**sādhvī** f. = साध्वी : fem. of sādhu.
 
 **gurvī** f. = गुर्वी : fem. of guru.
 

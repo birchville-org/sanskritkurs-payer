@@ -11,7 +11,7 @@ status: stable
 
 ## 23.1. Infinitivul (तुमुन्)
 
-::: grammar-box
+:::grammar-box
 **Dacă se dorește exprimarea în sanscrită că o acțiune se întreprinde în scopul altei acțiuni („pentru a”), se poate folosi infinitivul (तुमुन्) pentru acțiunea în scopul căreia se întreprinde acțiunea principală. Infinitivul indică, în primul rând, scopul sau intenția:**
 
 > रामो गुरुवचनं श्रोतुं गतः = „Rāma a plecat pentru a asculta discursul maestrului.”
@@ -50,11 +50,9 @@ de exemplu,
 **Când infinitivul depinde de un substantiv, acesta nu trebuie să formeze cu acesta un compus. Sunt exceptate compusele Bahuvrīhi, al cărui al doilea element este काम sau मनस्:**
 
 > वक्तुकामः = वक्तुं कामो यस्य सः = „cel al cărui dorință este de a vorbi; cel care dorește să vorbească”.
-:::
+:::## 23.2. Formarea infinitivului (तुमुन्)
 
-## 23.2. Formarea infinitivului (तुमुन्)
-
-::: grammar-box
+:::grammar-box
 **radacina la gradul maxim + -tum**
 
 **sau**
@@ -64,34 +62,26 @@ de exemplu,
 **Consoanele finale ale radacinii se modifică înainte de -tum conform acelorași reguli ca și înainte de -ta al PPP.**
 
 **Verbele cu prefix formează infinitivul în același mod ca și radacinile simple.**
-:::
+:::Exemple:
 
-Exemple:
-
-::: indent
+:::indent
 दिश् : देष्टुम्  
 रुद् : रोदितुम्
-:::
-
-Nu se pot stabili reguli fixe privind utilizarea vocalei de legătură -i-. În esență, distribuția vocalei de legătură la infinitiv corespunde celei de la viitor.
+:::Nu se pot stabili reguli fixe privind utilizarea vocalei de legătură -i-. În esență, distribuția vocalei de legătură la infinitiv corespunde celei de la viitor.
 
 Între radacinile învățate până acum, următorii infinitivi merită o atenție deosebită:
 
-::: indent
+:::indent
 गम् : गन्तुम्
 
 प्रच्छ् : प्रष्टुम्
-:::
+:::-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
-
-::: indent
+:::indent
 दृश् : द्रष्टुम्
 
 सृज् : स्रष्टुम्
-:::
-
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+:::Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. Infinitivul (तुमुन्) pentru rădăcinile învățate până acum
 
@@ -234,25 +224,19 @@ D) Traduceți și descompuneți compusele:
 
 फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥
 
-::: media
+:::media
 ![](/images/lekt2303.webp)
 Fig.: फलवन्ति पुण्यानीति
 ทำบุญ = पुण्यकरणम्, Thailanda = ประเทศไทย
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2303))
-:::
+:::सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
 
-
-सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
-
-::: media
+:::media
 ![](/images/lekt2301.webp)
 Fig.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
 Chiang Mai, Thailanda = เชียงใหม่, ประเทศไทย
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2301))
-:::
-
-
-शूद्रजनो ब्राह्मणेन सह अत्tuम (अत्तुम्) नार्हति ॥५॥
+:::शूद्रजनो ब्राह्मणेन सह अत्tuम (अत्तुम्) नार्हति ॥५॥
 
 लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥
 
@@ -269,14 +253,12 @@ C) Traduceți următorul सुभाषितम्
 
 Explicație: हीन ३: PPP la हा 3: a părăsi ; धर्मे = Locativ sg. "în ..."
 
-::: media
+:::media
 ![](/images/lekt2302.webp)
 Fig.: आहारनिद्राभयमैथुनं च
 Chittorgarh = चित्तौडगढ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2302))
-:::
-
-## 23.6. Exercițiu de recapitulare
+:::## 23.6. Exercițiu de recapitulare
 
 Vă rugăm să nu folosiți instrumente auxiliare!
 
@@ -296,16 +278,12 @@ A) Traduceți în sanscrită:
 
 7\. "Bastonul" provoacă dobândirea și posesia sigură a filosofiei, Vedei și economiei. Conducerea acestui baston este politica.
 
-::: media
+:::media
 ![](/images/lekt2304.jpg)
 Fig.: दण्डनीतिः
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Prim-ministru al Indiei = भारत के प्रधानमन्त्री, din 2004
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2304))
-:::
-
-
-
-8\. Soția, fiul și sclavul, acești trei (त्रयस्) sunt, conform tradiției, fără proprietate. Ceea ce le aparține, aparține celui căruia le aparțin (acești trei).
+:::8\. Soția, fiul și sclavul, acești trei (त्रयस्) sunt, conform tradiției, fără proprietate. Ceea ce le aparține, aparține celui căruia le aparțin (acești trei).
 
 9Țânțarii doresc o rană, conducătorii doresc proprietate, josnicii doresc conflict, bunii doresc pace.
 
@@ -329,7 +307,7 @@ C) Dați formele de bază (semnificație, clasa de prezent, modul, 3. sg. Prezen
 
 ४. हन् ॥
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt2301:** Chiang Mai, Thailanda = เชียงใหม่, ประเทศไทย [Sursa imaginii: Wikipedia. Licență GNU FD]
 

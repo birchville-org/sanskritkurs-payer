@@ -11,111 +11,84 @@ status: stable
 
 ## 24.1. Dativul (चतुर्थी = "a patra declinație")
 
-:::: grammar-box
+::::grammar-box
 **1. Pentru a reda scopul sau intenția ("pentru a") unei acțiuni, se poate folosi, în loc de infinitiv (तुमुन्), și un substantiv cu sufixul kṛt, care denumește o acțiune sau o stare, la dativ (चतुर्थी = "a patra declinație").**
 
 Exemplu:
 
 în loc de:
 
-::: indent
+:::indent
 रामो गुरुवचनं श्रोतुं गतः ।
-:::
+:::se poate spune, de asemenea:
 
-se poate spune, de asemenea:
-
-::: indent
+:::indent
 रामो गुरुवचनस्य श्रवणाय गतः ।
 
 sau:
 
 रामो गुरुवचनश्रवणाय गतः ।
-:::
-
-= "Rāma a plecat pentru a asculta discursul profesorului."
-::::
-
-::: media
+:::= "Rāma a plecat pentru a asculta discursul profesorului."
+:::::::media
 ![](/images/lekt2404.webp)
 Fig.: बाला गुरुश्रवणाय गताः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2404))
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **2. Dativul (चतुर्थी) poate indica, de asemenea, obiectul unui infinitiv de scop care trebuie completat:**
 
 Exemplu:
 
-::: indent
+:::indent
 फलेभ्यो ग्रामं गच्छति = "El merge la sat cu scopul de a aduce fructe = El merge la sat pentru a aduce fructe."
-:::
-
-**În același mod, dativul (चतुर्थी) indică scopul unui lucru sau al unei acțiuni:**
+:::**În același mod, dativul (चतुर्थी) indică scopul unui lucru sau al unei acțiuni:**
 
 Exemplu:
 
-::: indent
+:::indent
 यज्ञायान्नम् = "Mâncare cu scopul unui sacrificiu = Mâncare pentru un sacrificiu"
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt2401.webp)
 Fig.: यज्ञायान्नम्
 'Annakut' [अन्नकूट = गोवर्धन पूजा] este un eveniment hindus tradițional care are loc în timpul sărbătorilor Noului An hindus la toate templele BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Zeci de feluri de mâncare vegetariene sunt oferite lui Bhagwan Swaminarayan [સ્વામિનારાયણ] în această zi.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2401))
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **3. Dativul indică, de asemenea, persoana sau lucrul pentru care este destinat obiectul unei acțiuni (obiect indirect; întrebare: cui?). (Luați în considerare, totuși, verbele cu dublu acuzativ (द्वितीया)!)**
 
 Exemplu:
 
-::: indent
+:::indent
 रामाय फलं ददाति = "El îi dă lui Rāma un fruct." (Rădăcină दा clasa a 3-a de prezent)
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt2402.webp)
 Fig.: बाला बालाय रक्षबन्धनं ददाति
 Raksha bandhan este sărbătorit cu entuziasm și bucurie în toată India. Acest festival întruchipează iubirea necondiționată dintre frați și surori.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2402))
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **4. Dativul apare la unele verbe (și la alte cuvinte) similar cu germana, la întrebarea "cui?":**
 
 Exemple:
 
-::: indent
+:::indent
 क्रुध् : देवो नरेभ्यो क्रुध्यति = "Zeul se mânie pe oameni."
 
 अलम् Adverb: "suficient, suficient, capabil": अलं योधो योधाय = "un războinic este egal cu celălalt războinic"
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt2403.webp)
 Fig.: अलं योधो योधाय
 "Rama (dreapta) șezând pe umerii lui Hanuman, se luptă cu regele demon Ravana." circa 1820
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2403))
-:::
-
-Ulterioare utilizări ale dativului mai târziu.
+:::Ulterioare utilizări ale dativului mai târziu.
 
 ## 24.2. Formarea dativului (चतुर्थी)
 
-::: grammar-box
+:::grammar-box
 **Terminațiile regulate ale dativului sunt:**
 
 * **Singular: -e ; teme feminine care se termină în vocală: -ai**
 * **Plural: Dativ și Ablativ पञ्चमी: -bhyas**
-:::
+:::### 24.2.1. Teme consonantice
 
-### 24.2.1. Teme consonantice
-
-:::: grammar-box
+::::grammar-box
 
 | | Dativ Singular | Dativ Plural |
 | :--- | :--- | :--- |
@@ -124,22 +97,18 @@ Ulterioare utilizări ale dativului mai târziu.
 | पशुमन्त् | **पशुमते** | **पशुमद्भ्यस्** |
 | गुणवन्त् | **गुणवते** | **गुणवद्भ्यस्** |
 
-::::
+::::### 24.2.2. Pronume interogative
 
-### 24.2.2. Pronume interogative
-
-:::: grammar-box
+::::grammar-box
 
 | | Masculin / Neutru | Feminin |
 | :--- | :--- | :--- |
 | **Dativ Singular** | **कस्मै** | **कस्यै** |
 | **Dativ Plural** | **केभ्यस्** | **काभ्यस्** |
 
-::::
+::::### 24.2.3. Pronume demonstrative
 
-### 24.2.3. Pronume demonstrative
-
-:::: grammar-box
+::::grammar-box
 
 | | | तद् | एतद् | इदम् |
 | :--- | :--- | :--- | :--- | :--- |
@@ -148,11 +117,9 @@ Ulterioare utilizări ale dativului mai târziu.
 | **Feminin** | **Dat. sg.** | **तस्यै** | **एतस्यै** | **अस्यै** |
 | | **Dat. pl.** | **ताभ्यस्** | **एताभ्यस्** | **आभ्यस्** |
 
-::::
+::::### 24.2.4. Teme vocale
 
-### 24.2.4. Teme vocale
-
-::: grammar-box
+:::grammar-box
 **Teme vocale**
 
 * **Masculine / Neutre în -a:** देव
@@ -176,11 +143,9 @@ Ulterioare utilizări ale dativului mai târziu.
 * **Feminine în -u:** धेनु
   * Dat. sg. **धेनवे** sau **धेन्वै**
   * Dat. pl. **धेनुभ्यस्**
-:::
+:::## 24.3. Sandhi al final -ai și -au
 
-## 24.3. Sandhi al final -ai și -au
-
-:::: grammar-box
+::::grammar-box
 **Sandhi la final -ai și -au**
 
 * **-ai înaintea unui vocalic inițial este de obicei înlocuit cu -ā (rar cu -āy, ca în interiorul cuvântului)**
@@ -188,12 +153,9 @@ Ulterioare utilizări ale dativului mai târziu.
 
 Exemplu:
 
-::: indent
+:::indent
 तस्मै + अग्नये » तस्मा अग्नये = „ acestui foc”
-:::
-::::
-
-## 24.4. Listă de cuvinte
+:::::::## 24.4. Listă de cuvinte
 
 अलम् Adverb: destul, suficient, (cuiva, ceva) pe măsură ; cu dativ: destul pentru, suficient pentru, pe măsură ; cu instrumental: destul cu, încetează de la , de ex. अलं क्रोधेन = „destul cu mânia = încetează de la mânie!”
 
@@ -203,40 +165,30 @@ Exemplu:
 
 अलम् + कृ 8U अलंकरोति : a decora
 
-::: indent
+:::indent
 अलंकार m.: ornament, mijloc de ornament (în poezie)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2405.webp)
 Fig.: अलंकारः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2405))
-:::
-
-
-हेतु m.: impuls, încurajare, cauză, motiv ; हेतुना, हेतोस्, हेतवे cu genitiv sau ca al doilea element al unui compus = „pentru ..., din cauza”
+:::हेतु m.: impuls, încurajare, cauză, motiv ; हेतुना, हेतोस्, हेतवे cu genitiv sau ca al doilea element al unui compus = „pentru ..., din cauza”
 
 प्रतिमा f.: imagine, reprezentare
 
-::: media
+:::media
 ![](/images/lekt2406.webp)
 Fig.: देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2406))
-:::
-
-
-वृत् + प्र 1Ā प्रवर्तते: a avea loc, a se întâmpla, a apărea
+:::वृत् + प्र 1Ā प्रवर्तते: a avea loc, a se întâmpla, a apărea
 
 De la वृत्:
 
-::: indent
+:::indent
 वृत्ति f.: comportament, activitate, mod de viață
 
 वृत्त n.: comportament
-:::
-
-अभि Prefix:  pre-, după - spre, către - spre, către, în - în interior, în raport cu, pe, peste, la
+:::अभि Prefix:  pre-, după - spre, către - spre, către, în - în interior, în raport cu, pe, peste, la
 
 नि Prefix: în jos, în jos, în interior, înapoi
 
@@ -252,51 +204,39 @@ De la वृत्:
 
 din acesta
 
-::: indent
+:::indent
 अपोह m.: negare (अप + ऊह)
 
 ऊहापोह m.: discuție despre pro și contra
-:::
-
-::: media
+::::::media
 ![](/images/lekt2407.webp)
 Fig.: ऊहापोहः
 „NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor adjunct de externe, CNN-IBN Network 18, India, moderatorează o discuție pe panou la Summitul Economic al Indiei al Forumului Economic Mondial 2008 din New Delhi.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2407))
-:::
-
-
-औपकारिक 3 f.: -ई : util
+:::औपकारिक 3 f.: -ई : util
 
 कुप्य n.: produs al pădurii, metal (nu metal prețios)
 
 ख्या 2P ख्याति PPP ख्यात: a vedea, a deveni vizibil ; a numi, a explica, a comunica
 
-::: indent
+:::indent
 ख्या + आ 2P आख्यात: a povesti
 
 din acesta:
 
 आख्यान n.: poveste
-:::
-
-::: media
+::::::media
 ![](/images/lekt2408.webp)
 Fig.: आख्यानम्
 „Povestitorul din San Francisco, Jeff Byers, împărtășește o poveste cu locuitorii lui Chenneri, un sat Irula. Povestitorul Jeeva Raghunath traduce în tamilă pentru sateni.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2408))
-:::
-
-
-::: indent
+::::::indent
 ख्या + सम् 2P संख्याति: a aduna, a calcula
 
 din acesta:
 
 संख्या f.: numărare, enumerare ; सांख्य n.: unul dintre cele șase sisteme filosofice (pe scurt: Basham, Wonder p. 326f.)
-:::
-
-ग्रहण n.: apucare
+:::ग्रहण n.: apucare
 
 चौल n.: ceremonie (संस्कार) de tăiere a părului (la vârsta de 3 ani)
 
@@ -308,20 +248,15 @@ din acesta:
 
 din acesta:
 
-::: indent
+:::indent
 कृ + नमस् 8 नमस्करोमि: a se pleca, a venera, a saluta
 
-:::
-
-::: media
+::::::media
 ![](/images/lekt2411.webp)
 Fig.: जयदेवकविर्विष्णुं नमस्करोति
 Manuscript al गीतगोविन्द, 1730 d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2411))
-:::
-
-
-स्वागत n.: Bine ați venit (din su-ā-gata)
+:::स्वागत n.: Bine ați venit (din su-ā-gata)
 
 तृण n.: Tulpină de iarbă
 
@@ -401,14 +336,11 @@ Traduceți în sanscrită:
 
 5\. Cinstirea (नमस्) fie lui Śiva! Cinstirea fie lui Śrī Gaṇeśa!
 
-::: media
+:::media
 ![](/images/lekt2409.webp)
 Fig.: श्रीगणेशाय नमः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2409))
-:::
-
-
-6\. La revedere! (= Sănătate (स्वस्ति f.) vouă!)
+:::6\. La revedere! (= Sănătate (स्वस्ति f.) vouă!)
 
 7\. Acest fruct ajunge pentru mâncare.
 
@@ -418,19 +350,14 @@ Fig.: श्रीगणेशाय नमः
 
 10\. După ce m-am închinat celor trei înțelepți (Ac.) (नमस्कृ)... El se închină lui Narasiṃha (Dat.)
 
-::: indent
+:::indent
 Explicație: मुनित्रयम् "Triplul înțelepților = cei trei înțelepți" = gramaticienii पाणिनि, कात्यायन, पतञ्जलि
-:::
-
-::: media
+::::::media
 ![](/images/lekt2410.webp)
 Fig.: नरो नरसिंहाय नमस्करोति
 नरसिंह sfâșie pe हिरण्यकशिपु, pagină dintr-un manuscris al lui भागवतपुराण
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2410))
-:::
-
-
-11\. Bine ați venit (स्वागतम्) vouă. Bine ați venit reginei.
+:::11\. Bine ați venit (स्वागतम्) vouă. Bine ați venit reginei.
 
 12\. Îți doresc sănătate (कुशल) = Sănătate vouă!
 
@@ -440,7 +367,7 @@ Fig.: नरो नरसिंहाय नमस्करोति
 
 15१५. La revedere! (Sanskrită nouă: पुनर्दर्शनाय)
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt2401:** 'Annakut' [अन्नकूट = गोवर्धन पूजा] este un eveniment hindus tradițional care are loc în sărbătorile Noului An hindus la toate mandirele BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Sute de feluri de mâncare vegetariene sunt oferite lui Bhagwan Swaminarayan [સ્વામિનારાયણ] în această zi. [Sursa imaginii: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Accesat la 2008-12-14. -- Licență Creative Commons (Atribuire, utilizare non-comercială)]
 

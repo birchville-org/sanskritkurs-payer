@@ -70,13 +70,11 @@ B) Rezolvați următorii Tatpuruṣa:
 
 २६. श्रुत्युदितम् । श्रुत्योदितम् । श्रुतेरुदितम् — spus / prescris de Veda
 
-::: media
+:::media
 ![](/images/uebung014.webp)
 Fig.: जलेश्वरो वरुणः
 (Sursa imaginii: [Detalii](/licenses#uebung014))
-:::
-
----
+:::---
 
 ## Exerciții suplimentare
 
@@ -142,7 +140,7 @@ Rezolvați următoarele compuse ca Tatpuruṣa în sanscrită și oferiți o tra
 
 ३०. सत्यवदनम् । स्त्यस्य वदनम् — vorbire adevărată, vorbirea adevărului
 
-::: media
+:::media
 ![](/images/uebung016.webp)
 Fig.: गृहकरणम्
 (Sursa imaginii: [Detalii](/licenses#uebung016))

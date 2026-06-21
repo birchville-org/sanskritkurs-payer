@@ -9,18 +9,16 @@ status: stable
 
 # Leçon 10
 
-::: deleteme-box
+:::deleteme-box
 **Dans cette leçon, vous apprendrez :**
 - La phrase passive (Instrumental de l'agent)
 - La déclinaison de l'instrumental (tṛtīyā)
 - La loi de cérébralisation pour -n- (sandhi lexical)
 - La formation du passif (yak) à l'indicatif présent
 - Vocabulaire relatif aux sacrifices, à la vérité et aux rôles sociaux
-:::
+:::## 10.1. La phrase passive
 
-## 10.1. La phrase passive
-
-::: grammar-box
+:::grammar-box
 **Schéma :**
 **(Agent - kartṛ - au cas instrumental (tṛtīyā)) - (objet direct - karman - au cas nominatif) - forme verbale passive**
 
@@ -28,39 +26,29 @@ p. ex. **brāhmaṇena deva ijyate** = ब्राह्मणेन देव 
 
 Cette phrase est **totalement (!) synonyme** de la phrase :
 **brāhmaṇo devaṃ yajati / yajate** = ब्राह्मणो देवं यजति / यजते
-:::
-
-::: grammar-box
+::::::grammar-box
 - Dans une phrase passive, l’agent (**kartṛ**) se trouve au **cas instrumental** (tṛtīyā f. « troisième terminaison casuelle »), et l’objet direct (**karman** n.) au **cas nominatif** (prathamā f.).
 - Les phrases passives où l’agent n’est pas exprimé ont généralement un sens impersonnel (« on ») :
   p. ex. **ijyate** = इज्यते « On sacrifie » (littéralement : « il est vénéré avec un sacrifice. »).
-:::
-
-::: grammar-box
+::::::grammar-box
 **Même si la phrase active correspondante contiendrait un accusatif (dvitīyā) de destination, celui-ci peut être mis au cas nominatif (prathamā) dans la phrase passive :**
 
 À la phrase active **rāmo grāmaṃ gacchati** = रामो ग्रामं गच्छति = « Rāma va au village. » correspondent les phrases passives :
 - **rāmeṇa grāmaṃ gamyate** = रामेण ग्रामं गम्यते
 - ou bien : **rāmeṇa grāmo gamyate** = रामेण ग्रामो गम्यते
-:::
-
-::: grammar-box
+::::::grammar-box
 **Les verbes intransitifs (verbes sans objet direct) ont fréquemment des constructions passives, surtout dans les formules de politesse :**
 - **praviśyatām** = प्रविश्यताम् = « Qu’on veuille bien entrer = Veuillez entrer = Entrez ! »
 - **niṣadyatām** = निषद्यताम् = « Qu’on veuille bien s’asseoir = Veuillez vous asseoir = Prenez place, s’il vous plaît »
-:::
+:::Les constructions passives en sanskrit sont extrêmement fréquentes : le passif est en effet plus facile à former que, par exemple, de nombreuses racines de présent.
 
-Les constructions passives en sanskrit sont extrêmement fréquentes : le passif est en effet plus facile à former que, par exemple, de nombreuses racines de présent.
-
-::: important
+:::important
 **Les phrases passives en sanskrit ne doivent généralement pas être rendues en allemand par une phrase passive, car le passif allemand a une fonction stylistique tout à fait différente.**
-:::
-
----
+:::---
 
 ## 10.2. L’Instrumental (tṛtīyā f. = तृतीया = « troisième désinence casuelle »)
 
-::: grammar-box
+:::grammar-box
 **Les désinences régulières de l’Instrumental (tṛtīyā) :**
 - **Singulier : -ā**
 - **Pluriel : -bhis**
@@ -105,17 +93,13 @@ Les constructions passives en sanskrit sont extrêmement fréquentes : le passif
 | | F | **etayā / enayā**[[br]]एतया / एनया | **etābhis**[[br]]एताभिस् |
 | **idam**[[br]]« ce, cette, ceci » (proche)[[br]]इदम् | M/N | **anena / enena**[[br]]अनेन / एनेन | **ebhis**[[br]]एभिस् |
 | | F | **anayā / enayā**[[br]]अनया / एनया | **ābhis**[[br]]आभिस् |
-:::
-
-::: deleteme-box
+::::::deleteme-box
 À l’exception du Nominatif et de l’Accusatif, les formes des Neutres en -a, du pronom interrogatif et des pronoms démonstratifs sont identiques à celles des masculins correspondants.
-:::
-
----
+:::---
 
 ### 10.2.1. Sur l’usage de l’instrumental (tṛtīyā = तृतीया)
 
-::: grammar-box
+:::grammar-box
 **L’instrumental (tṛtīyā) répond principalement aux questions suivantes :**
 - **Par quoi ?**
 - **Avec quoi ?**
@@ -127,21 +111,17 @@ Les constructions passives en sanskrit sont extrêmement fréquentes : le passif
 3. **pour indiquer le chemin par lequel quelqu’un atteint une destination**
 4. **pour exprimer la connexion, l’union, l’accompagnement de**
 5. **avec les postpositions signifiant « ensemble avec, avec » ; par ex. saha = सह = « avec »**[[br]]par ex.[[br]]**brāhmaṇena saha** = ब्राह्मणेन सह = « conjointement avec le brāhmaṇa »
-:::
-
-D’autres usages de l’instrumental (tṛtīyā) suivront plus tard.
+:::D’autres usages de l’instrumental (tṛtīyā) suivront plus tard.
 
 ---
 
 ## 10.3. La soi-disant loi de cérébralisation pour -n- (un sandha de mot)
 
-::: grammar-box
+:::grammar-box
 Un **-n-**, suivi d'une voyelle ou de **n, m, y, v**, est remplacé par **-ṇ-**, lorsque **ṛ, ṝ, r, ṣ** précèdent le **-n-** dans le mot, ou qu'aucun autre son que des voyelles, des gutturales, des labiales, **y, v, h** ou Anusvāra ne se trouve entre ces sons et le **-n-** suivant dans le mot.
-:::
+:::**Par conséquent :**
 
-**Par conséquent :**
-
-::: grammar-box
+:::grammar-box
 | | Instrumental Singulier |
 | :--- | :--- |
 | **guru**[[br]]गुरु | **guruṇā**[[br]]गुरुणा |
@@ -149,11 +129,9 @@ Un **-n-**, suivi d'une voyelle ou de **n, m, y, v**, est remplacé par **-ṇ-*
 | **īśvara**[[br]]ईश्वर | **īśvereṇa**[[br]]ईश्वरेण |
 | **kṣatriya**[[br]]क्षत्रिय | **kṣatriyeṇa**[[br]]क्षत्रियेण |
 | **naraka**[[br]]नरक | **narakeṇa**[[br]]नरकेण |
-:::
+:::**Aussi, l' -ṇ- est-il à expliquer dans :**
 
-**Aussi, l' -ṇ- est-il à expliquer dans :**
-
-::: indent
+:::indent
 **śravaṇa** श्रवण
 
 **śṛṇoti** शृणोति
@@ -161,19 +139,14 @@ Un **-n-**, suivi d'une voyelle ou de **n, m, y, v**, est remplacé par **-ṇ-*
 **kāraṇa** कारण
 
 **brāhmaṇa** ब्राह्मण
-:::
-
-
----
+:::---
 
 ## 10.4. Le Passif, Indicatif Présent (yak = यक्)
 
-::: grammar-box
+:::grammar-box
 **Formation :**
 **(généralement) racine au degré zéro + -ya- + terminaison Ātmanepada**
-:::
-
-par ex.
+:::par ex.
 
 | Racine[[br]]धातु | 3. sg. Pass. Prés. Ind.[[br]]यक् लट् | 3. pl. Pass. Prés. Ind.[[br]]यक् लट् |
 | :--- | :--- | :--- |
@@ -253,20 +226,15 @@ par ex.
 - **pāpa** n. पाप : méfait, mal (contraire de **puṇya**)
 - **satya** n. सत्य : vérité
 
-::: note-box
+:::note-box
 En Inde, on attribuait au mot vrai un pouvoir magique, et même tout l'ordre cosmique est maintenu et créé par le mot vrai. Pour cette conception importante, voir l'ouvrage fondamental :
 
 Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Publié à partir des archives par Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna et le Ṛta. -- 1959. -- XXIII p., p. 340 - 764
-:::
-
-::: media
+::::::media
 ![](/images/lekt1003.webp)
 Fig. : वरुणः
 (Source de l'image : [Détails](/fr/licenses#lekt1003))
-:::
-
-
-- **anṛta** n. अनृत : fausseté, mensonge (contraire de **satya**)
+:::- **anṛta** n. अनृत : fausseté, mensonge (contraire de **satya**)
 
   ::: note-box
   Formation du mot **an-** (« non- ») + **ṛta** n.
@@ -280,14 +248,11 @@ Fig. : वरुणः
   Les noms de ces **ṛṣi**s sont mentionnés dans les Brāhmaṇas ainsi que dans des listes propres aux Védas. Tous les Brahmanes font remonter leur origine à de tels **ṛṣi**s, dont leurs **gotra** (गोत्र) tirent leur nom. Pour le concept de **gotra**, voir Basham, *Wonder*, chap. 5.
   :::
 
-::: media
+:::media
 ![](/images/lekt1002.jpg)
 Fig. : विश्वामित्रः
 (Source de l'image : [Détails](/fr/licenses#lekt1002))
-:::
-
-
-- **vad** 1 P (vadati) वद् वदति : dire, parler
+:::- **vad** 1 P (vadati) वद् वदति : dire, parler
 - **prach** 6 P (pṛcchati !) प्रच्छ् पृच्छति : demander (quelqu'un : Acc. ; quelque chose : Acc.)
 - **saha** सह : avec, conjointement avec (aussi dans le cas de « combattre avec », etc.) (Postposition avec le instrumental)
 
@@ -346,14 +311,11 @@ Fig. : विश्वामित्रः
 3. Le Veda est appelé śruti. (**vad**)
 4. On tend la chaîne de la trame. (2 possibilités)
 
-::: media
+:::media
 ![](/images/lekt1004.jpg)
 Fig. : तन्तुवायः
 (Source de l'image : [Détails](/fr/licenses#lekt1004))
-:::
-
-
-5. Les enseignants posent des questions. (Construction passive)
+:::5. Les enseignants posent des questions. (Construction passive)
 6. L'œil conduit. (Construction passive)
 7. Le poète voit une divinité. (Construction passive)
 8. Qui (féminin) garde la fille ? (Construction passive)
@@ -398,14 +360,12 @@ Fig. : तन्तुवायः
 **क**
 
 १.
-::: center
+:::center
 मक्षिका व्रणमिच्छन्ति
 धनमिच्छन्ति पार्थिवाः |
 नीचाः कलहमिच्छन्ति
 शान्तिमिच्छन्ति साधवः ||
-:::
-
-२. नरान्सृजति देवः | |
+:::२. नरान्सृजति देवः | |
 ३. कवयो धनं लुभ्यन्ति | |
 ४. ऋषयः सूक्तानि पश्यन्ति | |
 ५. विष्णुमृषिर्यजति | |

@@ -64,13 +64,11 @@ B) Translate into Sanskrit using compounds:
 4. Even Śūdra women have as dharma non-violence, truth, purity, non-complaining, non-maliciousness, and forbearance.
 अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः शूद्रा अपि ॥
 
-::: media
+:::media
 ![](/images/uebung031.webp)
 Fig.: शस्त्राजीवः क्षत्रियः
 (Image source: [Details](/en/licenses#uebung031))
-:::
-
----
+:::---
 
 ## Compound Analysis
 
@@ -238,13 +236,11 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 
 ८१. **सोढदुःखाः** । सोढं दुःखं यैस्ते ।
 
-::: media
+:::media
 ![](/images/uebung030.webp)
 Fig.: सम्पन्नरूपा रूपसम्पन्ना
 (Image source: [Details](/en/licenses#uebung030))
-:::
-
----
+:::---
 
 ## Scholarly Fragments
 
@@ -255,11 +251,9 @@ The clarification of the mind occurs through the unfolding of friendly goodwill,
 समाधिभावनार्थः क्लेशतनूकरणार्थश्च ॥ योगसूत्र २.२ ॥  
 Yoga of action is asceticism, study of the Vedas, and attentive service to the LORD. It has as its goal the unfolding of concentration and the weakening of the "afflictions".
 
-::: deleteme-box Explanation
+:::deleteme-box Explanation
 The five "afflictions" (क्लेश) are: **अविद्यास्मितारागद्वेषाभ्निवेशाः** (Yoga-Sūtra 2.3) — ignorance, egoism, greed, hatred, and attachment to the body.
-:::
-
-त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः ॥ सांख्यसूत्र १.१ ॥  
+:::त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः ॥ सांख्यसूत्र १.१ ॥  
 The highest goal of man is that triple suffering disappears completely. (*Triple suffering: from oneself, from objects, from the gods.*)
 
 बाधनालक्षणं दुःखम् ॥ न्यायसूत्र १.२१ ॥  
@@ -294,7 +288,7 @@ Slender in the middle, wide at the hips, with red lips, black eyes, with a curve
 विचित्रं विधिचेष्टितम् ॥  
 Poor, who do not desire, have very many sons, the rich have not a single son. Strange is the course of creation.
 
-::: media
+:::media
 ![](/images/uebung032.webp)
 Fig.: सन्ति पुत्राः सुबहवो दरिद्राणाम्
 (Image source: [Details](/en/licenses#uebung032))

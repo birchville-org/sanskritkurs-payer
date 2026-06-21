@@ -58,7 +58,7 @@ Brahmin, have you poured ghee into the sacrificial fire?
 ४. **शत्रो शस्तेण जीवं न छिनत्सि ॥ ४ ॥**
 Enemy, with the sword you do not split the soul (life).
 
-::: media
+:::media
 ![](/images/uebung074.webp)
 Fig.: हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात
 (Image source: [Details](/en/licenses#uebung074))

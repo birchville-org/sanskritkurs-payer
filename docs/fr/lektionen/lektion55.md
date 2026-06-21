@@ -11,7 +11,7 @@ status: stable
 
 ## 55.1. L’aoriste en a- (aoriste à voyelle thématique)
 
-::: grammar-box
+:::grammar-box
 **L’aoriste en a- se forme comme un imparfait (लङ्) de la 6e classe de présent (तुदादि), c’est-à-dire :**
 
 **Augment + racine au degré zéro + a + terminaison secondaire**
@@ -23,38 +23,30 @@ status: stable
 **L’Ātmanepada est rare ; pour les racines Ubhayapada, il est généralement formé selon d’autres classes d’aoriste (voir Kielhorn, Grammatik §340, ainsi qu’aux sections correspondantes sur les classes d’aoriste ci-dessous).**
 
 **Liste des racines ayant cet aoriste, dans Kielhorn, Grammatik §340.**
-:::
-
-Exemple :
+:::Exemple :
 
 सिच् 6U « asperger »
 
-::: indent
+:::indent
 |   | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
 |   | एकवचनम् | बहुवचनम् | एकवचनम् | बहुवचनम् |
 | 1\. तृतीयः | असिचम् | असिचाम | असिचे | असिचामहि |
 | 2\. मध्यमः | असिचस् | असिचत | असिचथास् | असिचध्वम् |
 | 3\. प्रथमः | असिचत् | असिचन् | असिचत | असिचन्त |
-:::
+:::Formations irrégulières :
 
-Formations irrégulières :
-
-::: indent
+:::indent
 अस् 4P « jeter » : ***आस्थम्, आस्थत्*** (explication voir Thumb-Hauschild §541,4)
 
 ख्या + आ 2P « raconter » : ***अख्यम्, अख्यत्***
 
 दृश् « voir » : ***अदर्शम्, अदर्शत्*** (degré plein !)
-:::
+:::Remarquer :
 
-Remarquer :
-
-::: indent
+:::indent
 शास् 2P « ordonner » : अशिषत् (degré zéro régulier !)
-:::
-
-## 55.2. Exercice
+:::## 55.2. Exercice
 
 Déterminez et traduisez par écrit les formes suivantes, puis formez les formes correspondantes de l’aoriste en a- :
 
@@ -91,14 +83,12 @@ Déterminez et traduisez par écrit les formes suivantes, puis formez les formes
 31.  अशुष्याम
 32.  सिष्णेह
 
-::: media
+:::media
 ![](/images/lekt5501.webp)
 Fig. : अजीर्यमिति
 'Inâyat Khân sur son lit de mort, esquisse pour une miniature d’un manuscrit pour Jahângîr = جهانگير, vers 1618
 (Source de l’image : [Détails](/fr/licenses#lekt5501))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt5501:** 'Inâyat Khân sur son lit de mort, esquisse pour une miniature d’un manuscrit pour Jahângîr = جهانگير, vers 1618 [Source de l’image : [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Consulté le 2009-01-28. Domaine public]
 

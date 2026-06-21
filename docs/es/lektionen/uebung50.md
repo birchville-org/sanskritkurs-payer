@@ -55,13 +55,11 @@ A) Para repasar la declinación: El siguiente verso contiene todas las formas de
 
 > Una familia en la que el esposo está siempre satisfecho con la esposa y la esposa con el esposo, en tal familia hay felicidad constante.
 
-::: media
+:::media
 ![](/images/uebung081.webp)
 Fig.: संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च । यस्मिन्नेव कुले नित्यम् कल्याणं तत्र वै ध्रुवम् ॥
 (Fuente de la imagen: [Detalles](/licenses#uebung081))
-:::
-
----
+:::---
 
 ### मनुस्मृति ३, ७५ - ७६: Sobre la necesidad del sacrificio
 
@@ -77,13 +75,11 @@ Fig.: संतुष्टो भार्यया भर्ता भर्�
 
 > Uno debe involucrarse constantemente en el estudio de los Vedas y en los rituales para los dioses. Quien se involucra en los rituales para los dioses, obtiene este mundo de seres vivos e inertes. El sacrificio, que se arroja correctamente al fuego, va al sol; del sol se produce la lluvia; de la lluvia, alimento; de ello, las criaturas.
 
-::: media
+:::media
 ![](/images/uebung082.webp)
 Fig.: दैवे कर्मणि युक्तो हि बिभर्तीदं चराचरम् ॥
 (Fuente de la imagen: [Detalles](/licenses#uebung082))
-:::
-
----
+:::---
 
 ### योगसूत्र २, १६ - १७
 

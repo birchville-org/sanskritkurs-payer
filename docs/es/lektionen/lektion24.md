@@ -11,111 +11,84 @@ status: stable
 
 ## 24.1. El dativo (चतुर्थी = "cuarta terminación casuál")
 
-:::: grammar-box
+::::grammar-box
 **1. Para expresar el propósito o la intención ("para") de una acción, en lugar del infinitivo (तुमुन्) también se puede usar un sustantivo con sufijo kṛt, que designa una acción o estado, en dativo (चतुर्थी = "cuarta terminación casuál").**
 
 Ejemplo:
 
 en lugar de:
 
-::: indent
+:::indent
 रामो गुरुवचनं श्रोतुं गतः ।
-:::
+:::también se puede decir:
 
-también se puede decir:
-
-::: indent
+:::indent
 रामो गुरुवचनस्य श्रवणाय गतः ।
 
 o bien:
 
 रामो गुरुवचनश्रवणाय गतः ।
-:::
-
-= "Rāma se ha ido para escuchar el discurso del maestro."
-::::
-
-::: media
+:::= "Rāma se ha ido para escuchar el discurso del maestro."
+:::::::media
 ![](/images/lekt2404.webp)
 Fig.: बाला गुरुश्रवणाय गताः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2404))
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **2. El dativo (चतुर्थी) también puede designar el objeto de un infinitivo de propósito que debe completarse:**
 
 Ejemplo:
 
-::: indent
+:::indent
 फलेभ्यो ग्रामं गच्छति = "Él va al pueblo con el propósito de obtener frutos = Él va al pueblo para obtener frutos."
-:::
-
-**De la misma manera, el dativo (चतुर्थी) designa el propósito de una cosa o de una acción:**
+:::**De la misma manera, el dativo (चतुर्थी) designa el propósito de una cosa o de una acción:**
 
 Ejemplo:
 
-::: indent
+:::indent
 यज्ञायान्नम् = "Alimento con el propósito de un sacrificio = Alimento para un sacrificio"
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt2401.webp)
 Fig.: यज्ञायान्नम्
 'Annakut' [अन्नकूट = गोवर्धन पूजा] es un evento hindú tradicional que tiene lugar en las celebraciones del Año Nuevo hindú en todos los templos BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Cientos de platos vegetarianos se ofrecen a Bhagwan Swaminarayan [સ્વામિનારાયણ] en este día.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2401))
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **3. El dativo (चतुर्थी) designa también la persona o cosa para la que está destinado el objeto de una acción (objeto indirecto; pregunta: ¿a quién?). (¡Tenga en cuenta los verbos con acusativo doble (द्वितीया)!)**
 
 Ejemplo:
 
-::: indent
+:::indent
 रामाय फलं ददाति = "Él le da a Rāma una fruta." (Raíz दा 3. clase de presente)
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt2402.webp)
 Fig.: बाला बालाय रक्षबन्धनं ददाति
 Raksha bandhan se celebra con fervor y alegría en toda la India. Este festival epitomiza el amor incondicional entre hermanos y hermanas.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2402))
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **4. El dativo aparece con algunos verbos (y con algunas otras palabras) de manera similar al alemán, respondiendo a la pregunta "¿a quién?":**
 
 Ejemplos:
 
-::: indent
+:::indent
 क्रुध् : देवो नरेभ्यो क्रुध्यति = "El dios se enfada con los hombres."
 
 अलम् Adverbio: "suficiente, suficiente, capaz": अलं योधो योधाय = "un guerrero es capaz para el otro guerrero"
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt2403.webp)
 Fig.: अलं योधो योधाय
 "Rama (derecha) sentado sobre los hombros de Hanuman, batalla contra el rey demonio Ravana." ca 1820
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2403))
-:::
-
-Otros usos del dativo más adelante.
+:::Otros usos del dativo más adelante.
 
 ## 24.2. Formación del dativo (चतुर्थी)
 
-::: grammar-box
+:::grammar-box
 **Las terminaciones regulares del dativo son:**
 
 * **Singular: -e ; temas femeninos que terminan en vocal: -ai**
 * **Plural: dativo y ablativo पञ्चमी: -bhyas**
-:::
+:::### 24.2.1. Tem consonánticos
 
-### 24.2.1. Tem consonánticos
-
-:::: grammar-box
+::::grammar-box
 
 | | Dativo singular | Dativo plural |
 | :--- | :--- | :--- |
@@ -124,22 +97,18 @@ Otros usos del dativo más adelante.
 | पशुमन्त् | **पशुमते** | **पशुमद्भ्यस्** |
 | गुणवन्त् | **गुणवते** | **गुणवद्भ्यस्** |
 
-::::
+::::### 24.2.2. Pronombres interrogativos
 
-### 24.2.2. Pronombres interrogativos
-
-:::: grammar-box
+::::grammar-box
 
 | | Masculino / Neutro | Femenino |
 | :--- | :--- | :--- |
 | **Dativo Singular** | **कस्मै** | **कस्यै** |
 | **Dativo Plural** | **केभ्यस्** | **काभ्यस्** |
 
-::::
+::::### 24.2.3. Pronombres demostrativos
 
-### 24.2.3. Pronombres demostrativos
-
-:::: grammar-box
+::::grammar-box
 
 | | | तद् | एतद् | इदम् |
 | :--- | :--- | :--- | :--- | :--- |
@@ -148,11 +117,9 @@ Otros usos del dativo más adelante.
 | **Femenino** | **Dat. sg.** | **तस्यै** | **एतस्यै** | **अस्यै** |
 | | **Dat. pl.** | **ताभ्यस्** | **एताभ्यस्** | **आभ्यस्** |
 
-::::
+::::### 24.2.4. Temáticos vocálicos
 
-### 24.2.4. Temáticos vocálicos
-
-::: grammar-box
+:::grammar-box
 **Temáticos vocálicos**
 
 * **Masculinos / Neutros en -a:** देव
@@ -176,11 +143,9 @@ Otros usos del dativo más adelante.
 * **Femeninos en -u:** धेनु
   * Dat. sg. **धेनवे** o **धेन्वै**
   * Dat. pl. **धेनुभ्यस्**
-:::
+:::## 24.3. Sandhi de -ai y -au finales
 
-## 24.3. Sandhi de -ai y -au finales
-
-:::: grammar-box
+::::grammar-box
 **Sandhi de -ai y -au finales**
 
 * **-ai ante vocal inicial se reemplaza generalmente por -ā (raramente por -āy como en interior de palabra)**
@@ -188,12 +153,9 @@ Otros usos del dativo más adelante.
 
 Ejemplo:
 
-::: indent
+:::indent
 तस्मै + अग्नये » तस्मा अग्नये = "a este fuego"
-:::
-::::
-
-## 24.4. Lista de palabras
+:::::::## 24.4. Lista de palabras
 
 अलम् Adverbio: suficiente, bastante, capaz de (alguien, algo); con dativo: suficiente para, bastante para, capaz de; con instrumental: suficiente con, abstente de , p. ej. अलं क्रोधेन = "suficiente con la ira = ¡abstente de la ira!"
 
@@ -203,40 +165,30 @@ De la misma manera que अलम् con instrumental se utiliza:
 
 अलम् + कृ 8U अलंकरोति : adornar
 
-::: indent
+:::indent
 अलंकार m.: adorno, medio de adorno (en la poesía)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2405.webp)
 Fig.: अलंकारः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2405))
-:::
-
-
-हेतु m.: impulso, motivo, causa, razón; हेतुना, हेतोस्, हेतवे con genitivo o como segundo miembro de un compuesto = "por ... causa, debido a"
+:::हेतु m.: impulso, motivo, causa, razón; हेतुना, हेतोस्, हेतवे con genitivo o como segundo miembro de un compuesto = "por ... causa, debido a"
 
 प्रतिमा f.: imagen, retrato
 
-::: media
+:::media
 ![](/images/lekt2406.webp)
 Fig.: देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2406))
-:::
-
-
-वृत् + प्र 1Ā प्रवर्तते : ocurrir, suceder, surgir
+:::वृत् + प्र 1Ā प्रवर्तते : ocurrir, suceder, surgir
 
 De वृत्:
 
-::: indent
+:::indent
 वृत्ति f.: conducta, actividad, modo de vida
 
 वृत्त n.: conducta
-:::
-
-अभि Prefijo:  pre-, después - hacia, hacia - hacia, hacia, en - dentro, en relación con, sobre, sobre, a
+:::अभि Prefijo:  pre-, después - hacia, hacia - hacia, hacia, en - dentro, en relación con, sobre, sobre, a
 
 नि Prefijo: hacia abajo, hacia abajo, hacia dentro, hacia atrás
 
@@ -252,51 +204,39 @@ De वृत्:
 
 de eso
 
-::: indent
+:::indent
 अपोह m.: negación (अप + ऊह)
 
 ऊहापोह m.: discusión del pro y el contra
-:::
-
-::: media
+::::::media
 ![](/images/lekt2407.webp)
 Fig.: ऊहापोहः
 "NUEVA DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor adjunto de Asuntos Exteriores de la Red CNN-IBN 18, India, modera un panel de discusión en la Cumbre Económica India del Foro Económico Mundial 2008 en Nueva Delhi."
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2407))
-:::
-
-
-औपकारिक 3 f.: -ई : útil
+:::औपकारिक 3 f.: -ई : útil
 
 कुप्य n.: producto del bosque, metal (no metal precioso)
 
 ख्या 2P ख्याति PPP ख्यात : ver, hacerse visible; nombrar, explicar, comunicar
 
-::: indent
+:::indent
 ख्या + आ 2P आख्यात : narrar
 
 de eso:
 
 आख्यान n.: narración
-:::
-
-::: media
+::::::media
 ![](/images/lekt2408.webp)
 Fig.: आख्यानम्
 "El narrador de historias de San Francisco, Jeff Byers, comparte una historia con los residentes de Chenneri, una aldea irula. El narrador de historias Jeeva Raghunath traduce al tamil para los aldeanos."
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2408))
-:::
-
-
-::: indent
+::::::indent
 ख्या + सम् 2P संख्याति : sumar, calcular
 
 de eso:
 
 संख्या f.: conteo, enumeración; सांख्य n.: uno de los seis sistemas filosóficos (abreviado: Basham, Wonder p. 326f.)
-:::
-
-ग्रहण n.: agarrar
+:::ग्रहण n.: agarrar
 
 चौल n.: ceremonia (संस्कार) de corte de cabello (a los 3 años)
 
@@ -308,19 +248,14 @@ de eso:
 
 de eso:
 
-::: indent
+:::indent
 कृ + नमस् 8 नमस्करोमि : inclinarse, venerar, saludar
-:::
-
-::: media
+::::::media
 ![](/images/lekt2411.webp)
 Fig.: जयदेवकविर्विष्णुं नमस्करोति
 Manuscrito del गीतगोविन्द, 1730 d. C.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2411))
-:::
-
-
-स्वागत n.: bienvenida (de su-ā-gata)
+:::स्वागत n.: bienvenida (de su-ā-gata)
 
 तृण n.: tallo de hierba
 
@@ -400,14 +335,11 @@ Traduzca al sánscrito:
 
 5\. ¡Honra (नमस्) a Śiva! ¡Honra a Śrī Gaṇeśa!
 
-::: media
+:::media
 ![](/images/lekt2409.webp)
 Fig.: श्रीगणेशाय नमः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2409))
-:::
-
-
-6\. ¡Adiós! (= Bienestar (स्वस्ति f.) ¡para ti!)
+:::6\. ¡Adiós! (= Bienestar (स्वस्ति f.) ¡para ti!)
 
 7\. Esta fruta basta para comer.
 
@@ -417,19 +349,14 @@ Fig.: श्रीगणेशाय नमः
 
 10\. Después de haberme inclinado ante los tres sabios (Ac.) (नमस्कृ)... Él se inclina ante Narasiṃha (Dat.)
 
-::: indent
+:::indent
 Explicación: मुनित्रयम् "la Trinidad de los sabios = los tres sabios" = los gramáticos पाणिनि, कात्यायन, पतञ्जलि
-:::
-
-::: media
+::::::media
 ![](/images/lekt2410.webp)
 Fig.: नरो नरसिंहाय नमस्करोति
 नरसिंह desgarrado हिरण्यकशिपु, página de un manuscrito del भागवतपुराण
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2410))
-:::
-
-
-11\. Bienvenido (स्वागतम्) para ti. Bienvenido a la reina.
+:::11\. Bienvenido (स्वागतम्) para ti. Bienvenido a la reina.
 
 12\. Le deseo bienestar (कुशल) = ¡Bienestar para ti!
 
@@ -439,7 +366,7 @@ Fig.: नरो नरसिंहाय नमस्करोति
 
 15१५. ¡Hasta luego! (Sánscrito moderno: पुनर्दर्शनाय)
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt2401:** 'Annakut' [अन्नकूट = गोवर्धन पूजा] es un evento hindú tradicional que tiene lugar en las celebraciones del Año Nuevo hindú en todos los templos BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Cientos de platos vegetarianos se ofrecen a Bhagwan Swaminarayan [સ્વામિનારાયણ] en este día. [Fuente de la imagen: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, uso no comercial)]
 

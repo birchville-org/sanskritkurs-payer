@@ -23,87 +23,73 @@ status: stable
 
 बन्ध् 9P "legare"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | बबन्धिव |
 | 2\. मध्यमः | बबन्धथुर् |
 | 3\. प्रथमः | बबन्धतुर् |
-:::
+:::भाष् 1Ā "parlare"
 
-भाष् 1Ā "parlare"
-
-::: grammar-box
+:::grammar-box
 |   | आत्मनेपदम् |
 | --- | --- |
 | 1\. तृतीयः | बभाषिवहे |
 | 2\. मध्यमः | बभाषाथे |
 | 3\. प्रथमः | बभाषाते |
-:::
-
-### 60.2.2. Tipo 2: radice forte in grado alto, radice debole in grado basso
+:::### 60.2.2. Tipo 2: radice forte in grado alto, radice debole in grado basso
 
 भिद् 7U "spaccare"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | बिभिदिव | बिभिदिवहे |
 | 2\. मध्यमः | बिभिदथुर् | बिभिदाथे |
 | 3\. प्रथमः | बिभिदतुर् | बिभिदाते |
-:::
-
-### 60.2.3. Tipo 3: Radice forte grado pieno/rafforzato
+:::### 60.2.3. Tipo 3: Radice forte grado pieno/rafforzato
 
 #### 60.2.3.1. Tipo 3a: Radice forte grado pieno/rafforzato, radice debole grado ridotto
 
 नी 1U "condurre"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | निन्यिव | निन्यिवहे |
 | 2\. मध्यमः | निन्यथुर् | निन्याथे |
 | 3\. प्रथमः | निन्यतुर् | निन्याते |
-:::
+:::स्तु 2U (अनिट्) "lodare"
 
-स्तु 2U (अनिट्) "lodare"
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | तुष्टुव | तुष्तुवहे |
 | 2\. मध्यमः | तुष्टुवथुर् | तुष्टुवाथे |
 | 3\. प्रथमः | तुष्टुवतुर् | तुष्टुवाते |
-:::
+:::कृ 8U (अनिट्) "fare"
 
-कृ 8U (अनिट्) "fare"
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | चकृव | चकृवहे |
 | 2\. मध्यमः | चक्रथुर् | चक्राथे |
 | 3\. प्रथमः | चक्रतुर् | चक्राते |
-:::
-
-#### 60.2.3.2. Tipo 3b: Radice forte grado pieno/rafforzato, radice debole grado pieno
+:::#### 60.2.3.2. Tipo 3b: Radice forte grado pieno/rafforzato, radice debole grado pieno
 
 स्मृ 1P "rappresentare"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | सस्मरिव |
 | 2\. मध्यमः | सस्मरथुर् |
 | 3\. प्रथमः | सस्मरतुर् |
-:::
-
-### 60.2.4. Tipo 4: Radici in -ā / -ai
+:::### 60.2.4. Tipo 4: Radici in -ā / -ai
 
 दा 3U "dare"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | ददिव | ददिवहे |
@@ -111,79 +97,65 @@ status: stable
 | 3\. प्रथमः | ददतुर् | ददाते \* |
 
 \* identico alle corrispondenti forme dell'indicativo presente!
-:::
-
-### 60.2.5. Tipo 5: Consonante-a-Consonante
+:::### 60.2.5. Tipo 5: Consonante-a-Consonante
 
 #### 60.2.5.1. Tipo 5a: Consonante-a-Consonante, radice debole, grado profondo
 
 गम् 1U "andare"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | जग्मिव | जग्मिवहे |
 | 2\. मध्यमः | जग्मथुर् | जग्माथे |
 | 3\. प्रथमः | जग्मतुर् | जग्माते |
-:::
-
-#### 60.2.5.2. Tipo 5b: Consonante-a-Consonante, consonante iniziale non gutturale, aspirata, h, radice debole senza reduplicazione, con -e-
+:::#### 60.2.5.2. Tipo 5b: Consonante-a-Consonante, consonante iniziale non gutturale, aspirata, h, radice debole senza reduplicazione, con -e-
 
 पच् 1U "cuocere"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | पेचिव | पेचिवहे |
 | 2\. मध्यमः | पेचथुर् | पेचाथे |
 | 3\. प्रथमः | पेचतुर् | पेचाते |
-:::
-
-#### 60.2.5.3. Tipo 5c: Consonante-a-Consonante, radice debole, grado alto
+:::#### 60.2.5.3. Tipo 5c: Consonante-a-Consonante, radice debole, grado alto
 
 क्रम् 1U "passare"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | चक्रमिव | चक्रमिवहे |
 | 2\. मध्यमः | चक्रमथुर् | चक्रमाथे |
 | 3\. प्रथमः | चक्रमतुर् | चक्रमाते |
-:::
-
-## 60.3. Il duale del perfetto perifrastico (अनुप्रयोगलिट्)
+:::## 60.3. Il duale del perfetto perifrastico (अनुप्रयोगलिट्)
 
 गण् 10P "contare"
 
-::: grammar-box
+:::grammar-box
 |   | **परस्मैपदम्** |
 | --- | --- |
 | 1\. तृतीयः | गणयां चकृव[[br]]गणयामासिव[[br]]गणयां बभूविव |
 | 2\. मध्यमः | गणयां चक्रथुर्[[br]]गणयामासथुर्[[br]]गणयां बभूवथुर् |
 | 3\. प्रथमः | गणयां चक्रतुर्[[br]]गणयामासतुर्[[br]]गणयां बभूवतुर् |
-:::
+:::आस् 2Ā "sedersi"
 
-आस् 2Ā "sedersi"
-
-::: grammar-box
+:::grammar-box
 |   | **आत्मनेपदम्** |
 | --- | --- |
 | 1\. तृतीयः | आसां चकृवहे[[br]]आसामासिव[[br]]आसां बभूविवव् |
 | 2\. मध्यमः | आसांव् चक्राथे[[br]]आसामासथुर्[[br]]आसां बभूवथुर् |
 | 3\. प्रथमः | आसां चक्राते[[br]]आसामासतुर्[[br]]आसां बभूवतुर्व् |
-:::
+:::## 60.4. Il participio परस्मैपद del perfetto reduplicato (द्वित्वलिट्)
 
-## 60.4. Il participio परस्मैपद del perfetto reduplicato (द्वित्वलिट्)
-
-::: grammar-box
+:::grammar-box
 **Formazione:**
 
 **radice debole del perfetto + vāṃs**
 
 **Se la radice debole del perfetto è composta da una sola sillaba, si aggiunge la vocale di collegamento -i-. In alcuni perfetti la vocale di collegamento è facoltativa.**
-:::
-
-Esempi:
+:::Esempi:
 
 | भिद् 7U | बिभिद्वांस् "qualcuno che ha spaccato" |
 | --- | --- |
@@ -192,7 +164,7 @@ Esempi:
 | पच् 1U | पेचिवांस् "qualcuno che ha cotto" |
 | गम् 1U | जग्मिवांस् / जगन्वांस् "qualcuno che è andato" |
 
-::: grammar-box
+:::grammar-box
 **Declinazione:**
 
 *   **radice forte: -vāṃs**
@@ -207,29 +179,21 @@ Esempi:
 **radice debole davanti a vocale + -ī (declinato come देवी)**
 
 Esempio: विदुषी "una sapiente"
-:::
+:::Paradigmi vedi Kielhorn, Grammatica § 124:
 
-
-Paradigmi vedi Kielhorn, Grammatica § 124:
-
-::: media
+:::media
 ![](/images/lekt6001.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6001))
-:::
-::: media
+::::::media
 ![](/images/lekt6002.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6002))
-:::
+:::## 60.5. Declinazione dei temi in -añc (-ac)
 
-## 60.5. Declinazione dei temi in -añc (-ac)
-
-::: grammar-box
+:::grammar-box
 **I temi in -añc/-ac sono composizioni di prefissi ecc. con il nome radicale della radice अञ्च् / अच् 1U "muoversi".**
-:::
+:::### 60.5.1. Tribù trisillabiche in -añc
 
-### 60.5.1. Tribù trisillabiche in -añc
-
-::: grammar-box
+:::grammar-box
 **Formazione:**
 
 *   **stema forte: -añc**
@@ -248,19 +212,15 @@ Paradigmi vedi Kielhorn, Grammatica § 124:
 **stema debole davanti a vocale + -ī (declinato come देवी)**
 
 Esempio: प्रतीची
-:::
+:::####  Paradigmi vedi Kielhorn, Grammatica § 128:
 
-####  Paradigmi vedi Kielhorn, Grammatica § 128:
-
-::: media
+:::media
 ![](/images/lekt6003.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6003))
-:::
-::: media
+::::::media
 ![](/images/lekt6004.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6004))
-:::
-Appartengono a questa categoria:
+:::Appartengono a questa categoria:
 
 *   प्रत्यञ्च् 3 "all'indietro, verso ovest"
     
@@ -278,15 +238,12 @@ Appartengono a questa categoria:
 
 ### 60.5.2. Tribi con radice in -añc
 
-::: grammar-box
+:::grammar-box
 **Formazione:**
 
 *   **radice forte: -añc**
 *   **radice debole davanti a consonante o vocale: -ac**
-:::
-
-
-Fanno parte di questa categoria:
+:::Fanno parte di questa categoria:
 
 *   प्राञ्च् 3 "rivolto in avanti, orientale"
 *   अवाञ्च् 3 "rivolto in basso"
@@ -304,16 +261,14 @@ Le principali direzioni cardinali
 
 ## 60.6. Il Desiderativo (सन्)
 
-::: grammar-box
+:::grammar-box
 **Da ogni radice, nonché dal causativo, può essere formato un desiderativo (सन्). Il desiderativo può essere coniugato in tutti i tempi e modi del P, Ā e Passivo. Forme desiderative al di fuori dello stammo del presente sono però molto rare.**
 
 **Significato:**
 
 *   **una persona o cosa desidera fare o subire ciò che è espresso dalla radice o dal causativo**
 *   **raramente: qualcuno o qualcosa sta per fare ciò che è espresso dalla radice o dal causativo**
-:::
-
-####  Esempi:
+:::####  Esempi:
 
 | कृ 8U | चिकीर्षति "egli desidera fare" |
 | --- | --- |
@@ -323,7 +278,7 @@ Le principali direzioni cardinali
 
 ### 60.6.1. Formazione del tema del desiderativo
 
-::: grammar-box
+:::grammar-box
 **Radici delle classi di presente 1 - 9:**
 
 **radice reduplicata + sa**
@@ -337,9 +292,7 @@ Per le regole sull'uso della vocale di giunzione -i- si veda Kielhorn, Grammatik
 **Radici della 10ª classe di presente e causativi:**
 
 **tema di presente reduplicato + i + ṣa**
-:::
-
-::: grammar-box
+::::::grammar-box
 **Forma della radice:**
 
 1.  La radice è per lo più in grado medio: जीव् » जिजीविष-  
@@ -375,9 +328,7 @@ Per le regole sull'uso della vocale di giunzione -i- si veda Kielhorn, Grammatik
              
         2.  facoltativo: radici della forma consonante - (consonante -) i/u - consonante eccetto -v\_  
             द्युत् » दिद्योतिष- / दिद्युतिष- "volere scintillare"
-:::
-
-::: grammar-box
+::::::grammar-box
 **Sulla reduplicazione:**
 
 1.  Radici con iniziale consonantica: la reduplicazione avviene sulle radici modificate secondo le regole precedenti, secondo le regole usuali. Al posto di a come vocale di reduplicazione appare però i:  
@@ -393,73 +344,54 @@ Per le regole sull'uso della vocale di giunzione -i- si veda Kielhorn, Grammatik
     ऋ » अरिरिष-  
      
 3.  Per la formazione speciale del desiderativo di determinate radici si veda Kielhorn, Grammatik § 451.
-:::
-
-::: grammar-box
+::::::grammar-box
 **Per alcune radici vengono formati desiderativi senza significato desiderativo. A questi desiderativi possono essere formati desiderativi con significato desiderativo.**
-:::
+:::Elenco in Kielhorn, Grammatik § 452:
 
-Elenco in Kielhorn, Grammatik § 452:
-
-::: media
+:::media
 ![](/images/lekt6006.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6006))
-:::
+:::### 60.6.2. Coniugazione del Desiderativo (सन्)
 
-### 60.6.2. Coniugazione del Desiderativo (सन्)
-
-:::: grammar-box
+::::grammar-box
 **Il Desiderativo è - con poche eccezioni - P, Ā o U, a seconda che la radice sottostante (o il tema verbale di base) sia P, Ā o U.**
 
 **Stema del presente: coniugazione come un tema tematico:**
 
 यज् 1U:
 
-::: indent
+:::indent
 P: यियक्षति "egli desidera, per un altro, sacrificare"
 Ā: यियक्षते "egli desidera, per sé stesso (come signore dell'offerta) sacrificare"
 Passivo: यियक्ष्यते "si desidera sacrificare"
-:::
+:::**Perfetto: perifrastico:**
 
-**Perfetto: perifrastico:**
-
-::: indent
+:::indent
 आप् » ईप्स- » ईप्सां चकार "egli desiderò ottenere"
-:::
+:::**Aorist: iṣ-Aorist:**
 
-**Aorist: iṣ-Aorist:**
-
-::: indent
+:::indent
 आप् » ऐप्सिषम् (a + īps-i-ṣ-am)
-:::
+:::**Futuro: सेट्**
 
-**Futuro: सेट्**
-
-::: indent
+:::indent
 आप् » ईप्सिष्यामि
-:::
-
-::::
-
-Per la formazione di nomi agentivi in -u dallo stema del desiderativo, si veda [Lezione 54](lektion54.md).
+:::::::Per la formazione di nomi agentivi in -u dallo stema del desiderativo, si veda [Lezione 54](lektion54.md).
 
 ## 60.7. Esercizio
 
 A) Studiate in Kielhorn, Grammatik § 451 le formazioni irregolari del desiderativo per i verbi appresi finora:
 
-::: media
+:::media
 ![](/images/lekt6007.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6007))
-:::
-::: media
+::::::media
 ![](/images/lekt6008.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6008))
-:::
-::: media
+::::::media
 ![](/images/lekt6009.webp)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6009))
-:::
-B) Determinate e traducete le seguenti forme senza ausili:
+:::B) Determinate e traducete le seguenti forme senza ausili:
 
 1.  ददुषोः
     

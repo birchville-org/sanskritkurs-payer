@@ -12,7 +12,7 @@ last_reconstructed: 2026-05-15
 
 Traduisez et déterminez les formes suivantes, puis formez les formes correspondantes de **l’aoriste**. Sauf pour les causatifs et les racines qui forment **l’aoriste en s**, la classe de l’aoriste correspondant est indiquée entre parenthèses :
 
-::: grammar-box
+:::grammar-box
 | N° | Forme | Détermination / Signification | Aoriste |
 |:---|:---|:---|:---|
 | १. | **पेचिथ** | *पच्* 1U : 2. Sg. Perf. P. (tu as gardé) | **अपाक्षीः** |
@@ -40,21 +40,17 @@ Traduisez et déterminez les formes suivantes, puis formez les formes correspond
 | २३. | **निन्य** | *नी* 1U : 2. Pl. Perf. P. (vous avez conduit) | **अनैष्ट** |
 | २४. | **कर्षन्ति** | *कृष्* 1P : 3. Pl. Ind. Prés. P. (ils tirent) | **अकार्क्षुः / अक्राक्षुः** |
 | २५. | **अप्रच्छयन्** | *प्रच्छ्* 6P : 3. Pl. Impf. P. Caus. (ils ont laissé demander) | **अपप्रच्छन्** |
-:::
-
-::: media
+::::::media
 ![](/images/uebung090.webp)
 Fig. : वारानास्यां गङ्गायामप्लोढ्वम्
 (Source de l’image : [Détails](/fr/licenses#uebung090))
-:::
-
----
+:::---
 
 ## B) Déterminations lexicales
 
 Déterminez et traduisez les formes suivantes :
 
-::: grammar-box
+:::grammar-box
 | N° | Forme | Détermination / Signification |
 |:---|:---|:---|
 | १. | **चेलुः** | *चल्* 1P : 3. Pl. Perf. P. (ils se sont mis en mouvement) |
@@ -114,9 +110,7 @@ Déterminez et traduisez les formes suivantes :
 | ५४. | **आदिषि** | *आ-दा* 3Ā : 1. Sg. s-Parfait. Ā. (je pris) |
 | ५५. | **पाणी** | *पाणि* m. : Nom. Acc. Voc. Du. (les deux mains) |
 | ५६. | **अस्प्राक्षम्** | *स्पृश्* 6P : 1. Sg. s-Parfait. P. (je touchai) |
-:::
-
-::: media
+::::::media
 ![](/images/uebung094.webp)
 Fig. : पाणी धूपं कुरुतः ॥
 (Source de l'image : [Détails](/fr/licenses#uebung094))

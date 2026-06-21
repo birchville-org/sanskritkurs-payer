@@ -24,7 +24,7 @@ features:
 
 
 
-::: tip Versiunea 1.4 — PWA Offline-First
+:::tip Versiunea 1.4 — PWA Offline-First
 **Nou în v1.4 (iunie 2026):**
 
 - **Aplicație Web progresivă (PWA):** Cursul poate fi acum instalat ca aplicație pe desktop și smartphone (iOS/Android).
@@ -36,4 +36,3 @@ features:
 **Contribuie ca autor sau corector:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
 :::
-

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Formez les formes aoristes correspondantes des formes de présent ou de parfait suivantes :
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung / Bedeutung | Aorist |
 |:---|:---|:---|:---|
 | १. | **यन्ति** | ils vont | **अगुः** |
@@ -36,9 +36,7 @@ Formez les formes aoristes correspondantes des formes de présent ou de parfait 
 | २१. | **जायते** | il est né | **अजनि** |
 | २२. | **गीयते** | il est chanté | **अगायि** |
 | २३. | **गम्यते** | il est allé | **अगामि** |
-:::
-
-::: media
+::::::media
 ![](/images/uebung093.webp)
 Fig. : अगायि
 (Source de l'image : [Détails](/fr/licenses#uebung093))

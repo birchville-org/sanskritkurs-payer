@@ -10,23 +10,20 @@ status: stable
 
 En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y participio.
 
-::: grammar-box
+:::grammar-box
 **Existen dos tipos de formación del perfecto:**
 *   **el perfecto reduplicado = द्वित्वलिट्**
 *   **el perfecto perifrástico = अनुप्रयोगलिट्**
-:::
-::: grammar-box
+::::::grammar-box
 **El perfecto perifrástico (अनुप्रयोगलिट्) se utiliza:**
 1. **en las conjugaciones derivadas (causativo, desiderativo, frecuentativo, denominativos)**
 2. **en raíces que comienzan con una vocal larga (excepto ā-) o con una vocal (excepto a-) antes de dos consonantes**
 3. **en algunas otras raíces**
-:::
-
-## 34.2. El perfecto con reduplicación (द्वित्वलिट्)
+:::## 34.2. El perfecto con reduplicación (द्वित्वलिट्)
 
 ### 34.2.1. Abstención de la raíz
 
-::: grammar-box
+:::grammar-box
 **Formación:**
 
 **raíz fuerte:** singular Parasmaipada
@@ -34,8 +31,7 @@ En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y partic
 
 **raíz débil:** todas las demás formas
 *   **raíz reduplicada en grado bajo + terminación del perfecto**
-:::
-::: grammar-box
+::::::grammar-box
 **Generalmente (incluso fuera del perfecto) no tienen abstención de raíz las raíces de la forma:**
 *   **(Consonante)-Consonante-Vocal larga-Consonante**
 *   **(Consonante)-Consonante-Vocal-Consonante-Consonante**
@@ -43,28 +39,22 @@ En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y partic
 **En el perfecto, además, no tienen abstención de raíz las raíces de la forma:**
 *   **a-Consonante**
 *   **ā-Consonante**
-:::
+:::### 34.2.2. Las desinencias del perfecto
 
-### 34.2.2. Las desinencias del perfecto
-
-:::: grammar-box
+::::grammar-box
 
 | | 3. Singular | 3. Plural |
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
-::::
+::::### 34.2.3. Vowel de conexión -i-
 
-### 34.2.3. Vowel de conexión -i-
-
-::: grammar-box
+:::grammar-box
 **Antes de la terminación de la 3.pl.Ā (-re) siempre aparece la vocal de conexión -i-, antes de las demás terminaciones que comienzan con consonante en el caso de la mayoría de las raíces.**
-:::
+:::### 34.2.4. Reduplicación de raíces que comienzan con consonante
 
-### 34.2.4. Reduplicación de raíces que comienzan con consonante
-
-::: grammar-box
+:::grammar-box
 **Para la reduplicación de consonantes iniciales se aplican las reglas establecidas en [Lección 33](lektion33.md).**
 
 **La vocal de reduplicación en raíces que comienzan con consonante es la vocal breve de la raíz.**
@@ -72,11 +62,9 @@ En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y partic
 **Los diptongos antes de una consonante se reducen mediante la correspondiente vocal breve del grado cero.**
 
 **ṛ, ṝ, ḷ y los diptongos finales se reduplican con -a-.**
-:::
+:::Ejemplos:
 
-Ejemplos:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3. sg. Perf. P. |
 | :--- | :--- |
@@ -84,70 +72,52 @@ Ejemplos:
 | मुच् | ***मु***मोच |
 | भृ | ***ब***भार |
 
-::::
-
-::: grammar-box
+:::::::grammar-box
 **Algunas raíces que comienzan con y- o v- se reduplican con i- o u-, que en las formas débiles se "fusiona" con la vocal de la raíz.**
-:::
+:::Ejemplos:
 
-Ejemplos:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | वच् | उवाच[[br]]u-vāc-a | ऊचुर्[[br]]u + uc-ur |
 | यज् | इयाज[[br]]i-yāj-a | ईजुर्[[br]]i + ij-ur |
 
-::::
+::::### 34.2.5. Reduplicación de raíces que comienzan con vocal
 
-### 34.2.5. Reduplicación de raíces que comienzan con vocal
-
-::: grammar-box
+:::grammar-box
 **1. a-, ā- inicial se reduplica con a-, de modo que aparece ā-.**
-:::
+:::Ejemplos:
 
-Ejemplos:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3. sg. Perf. P. |
 | :--- | :--- |
 | अस् 2 "ser" y अस् 4 "lanzar" | आस[[br]]a + as-a |
 
-::::
-
-::: grammar-box
+:::::::grammar-box
 **2. Las raíces con i- inicial tienen como sílaba de reduplicación en la forma fuerte iy-, en la forma débil i-, que se "fusiona" con la vocal de la raíz para dar ī-. Lo análogo ocurre con u- inicial.**
-:::
+:::Ejemplos:
 
-Ejemplos:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | इ | इयाय[[br]]iy + ai + a | ईयुर्[[br]]i + iy-ur |
 | इष् | इयेष[[br]]iy-eṣ-a | ईषुर्[[br]]i + iṣ-ur |
 
-::::
-
-::: grammar-box
+:::::::grammar-box
 **3. Las raíces que comienzan con a- ante dos consonantes o con ṛ- tienen como sílaba de reduplicación ān-**
-:::
+:::Ejemplos:
 
-Ejemplos:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | अञ्ज् | आनञ्ज | आनञ्जुर् |
 | एध् | आनर्ध | आनृधुर् |
 
-::::
-
-## 34.3. Tipos del perfecto con reduplicación
+::::## 34.3. Tipos del perfecto con reduplicación
 
 Principio de clasificación: particularidades de la gradación del tema:
 *   Perfecto sin gradación del tema: Tipo I
@@ -156,17 +126,15 @@ Principio de clasificación: particularidades de la gradación del tema:
 
 ## 34.4. Perfecto Tipo I: Perfecto sin ablaut de raíz
 
-::: grammar-box
+:::grammar-box
 **El Perfecto Tipo I (sin ablaut de raíz) tienen raíces de los tipos:**
 *   **(Consonante)-Consonante-Vocal-Larga-Consonante**
 *   **(Consonante)-Consonante-Vocal-Consonante-Consonante**
 *   **a-Consonante**
 *   **ā-Consonante**
-:::
+:::Ejemplos:
 
-Ejemplos:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3. sg. Perf. | 3. pl. Perf. |
 | :--- | :--- | :--- |
@@ -176,22 +144,18 @@ Ejemplos:
 | अस् 2P "ser"[[br]]अस् 4 "lanzar" | आस[[br]]a + as-a | आसुर् |
 | अश् | आनशे[[br]]reduplicación irregular | आनशिरे |
 
-::::
+::::## 34.5. Tipo de perfecto II: raíz fuerte en grado pleno, raíz débil en grado reducido
 
-## 34.5. Tipo de perfecto II: raíz fuerte en grado pleno, raíz débil en grado reducido
-
-::: grammar-box
+:::grammar-box
 **Se forma a partir de raíces de la forma:**
 *   **(Consonante)-(Consonante)-i/u/ṛ/ḷ-Consonante**
 
 **Formación:**
 *   **raíz fuerte: grado pleno**
 *   **raíz débil: grado reducido**
-:::
+:::Ejemplos:
 
-Ejemplos:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -201,22 +165,18 @@ Ejemplos:
 | वृत् | | | ववृते | ववृतिरे |
 | कॢप् | | | चकॢपे | चकॢपिरे |
 
-::::
-
-## 34.6. Lista de palabras
+::::## 34.6. Lista de palabras
 
 **क्षिति f. = पृथ्वी = मही = भूमी**
 
 **शस्य = सस्य n. sg. y pl.:** semilla, fruto del campo, cereal
 
-::: media
+:::media
 ![](/images/lekt3406.webp)
 Fig.: सस्यम्
 Campo de arroz en la India.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3406))
-:::
-
-**यावत् :** cuánto tiempo, cuán grande
+:::**यावत् :** cuánto tiempo, cuán grande
 
 **तावत् :** tanto tiempo, tan grande
 
@@ -224,41 +184,33 @@ Campo de arroz en la India.
 
 **द्वीप m.n.:** isla, continente
 
-::: media
+:::media
 ![](/images/lekt3405.webp)
 Fig.: लक्षद्वीपाः
 Mapa de las Islas Lakshadweep.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3405))
-:::
-
-**मर्त्य 3:** mortal (de **मृ**)
+:::**मर्त्य 3:** mortal (de **मृ**)
 
 **तिल m.:** sésamo (grano) (*Sesamum indicum* L.)
 
-::: media
+:::media
 ![](/images/lekt3403.webp)
 Fig.: तिलाः
 Semillas de sésamo.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3403))
-:::
-
-::: media
+::::::media
 ![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Floración de la planta de sésamo.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3404))
-:::
+:::**स्वर्ण n.:** (de hermoso color =) oro
 
-**स्वर्ण n.:** (de hermoso color =) oro
-
-::: media
+:::media
 ![](/images/lekt3402.webp)
 Fig.: स्वर्णम्
 Templo Dorado (Harmandir Sahib), Amritsar.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3402))
-:::
-
-**निकेतन n.:** morada, templo
+:::**निकेतन n.:** morada, templo
 
 **कोटि f.:** punta; 10 millones
 
@@ -268,14 +220,12 @@ Templo Dorado (Harmandir Sahib), Amritsar.
 
 **ऋषभ m.:** toro
 
-::: media
+:::media
 ![](/images/lekt3401.webp)
 Fig.: ऋषभः
 Estatua del toro Nandi, Colinas de Chamundi, Mysore.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3401))
-:::
-
-**यम् 1P यच्छति :** contener, retener, ofrecer, conceder
+:::**यम् 1P यच्छति :** contener, retener, ofrecer, conceder
 
 **यम् + प्र 1P प्रयच्छति :** extender, ofrecer, entregar
 
@@ -336,7 +286,7 @@ Traduzca el siguiente texto del पद्मपुराण sobre donaciones a b
 
 Explicaciones:
 
-::: indent
+:::indent
 **Vocativo sg.** de los masculinos / neutros en -a termina en -a: p. ej. **देव** "¡Dios!"
 
 **चतुर्दश** catorce
@@ -346,16 +296,12 @@ Explicaciones:
 **जन्म** Nom./Akk. sg. de **जन्मन् n.** nacimiento
 
 **सर्व 3** "todos, entero" (declinado según la declinación pronominal)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3407.webp)
 Fig.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
 Ritual de boda hindú.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3407))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 
 **lekt3401:** Estatua del toro Nandi, Colinas de Chamundi, Mysore. [Fuente de la imagen: Luna Park / Flickr. CC BY-NC-ND]

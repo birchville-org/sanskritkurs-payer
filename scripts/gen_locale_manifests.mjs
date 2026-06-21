@@ -15,7 +15,7 @@ const DIST_DIR = new URL('../docs/.vitepress/dist/', import.meta.url).pathname
 
 const LOCALES = [
   'de', 'en', 'it', 'bg', 'ru', 'uk', 'hi', 'fr',
-  'es', 'ta', 'pa', 'la', 'rm', 'ro'
+  'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'zh-TW', 'th', 'he'
 ]
 
 /**

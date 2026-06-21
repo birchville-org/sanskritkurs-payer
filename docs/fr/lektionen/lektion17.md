@@ -13,7 +13,7 @@ status: stable
 
 Les désinences verbales s’ajoutent directement à la racine. Il convient de tenir compte des modifications phonétiques résultant du sandhi lexical.
 
-:::: grammar-box
+::::grammar-box
 
 Il existe les formes de formation suivantes dans la deuxième classe de présent :
 
@@ -23,9 +23,7 @@ Il existe les formes de formation suivantes dans la deuxième classe de présent
 2.  Racines sans alternance de grade de racine
 3.  Racines bisyllabiques en -i/-ī avec alternance de grade de racine
 
-::::
-
-## 17.2. Racines de la deuxième classe de présent avec alternance de la racine : niveau élevé - niveau bas
+::::## 17.2. Racines de la deuxième classe de présent avec alternance de la racine : niveau élevé - niveau bas
 
 Exemples :
 
@@ -34,9 +32,9 @@ Exemples :
 *   radical de présent fort : dveṣ-
 *   radical de présent faible : dviṣ-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -45,19 +43,13 @@ Exemples :
 | 3\. sg. prés. Ā | द्विष्टे (« dviṣ + -te) |
 | 3\. pl. prés. Ā | द्विषते (dviṣ-ate) |
 
-:::
+:::::::Ici, la règle de sandhi des mots suivante s'applique :
 
-::::
-
-Ici, la règle de sandhi des mots suivante s'applique :
-
-::: grammar-box
+:::grammar-box
 Sandhi des mots de -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
-:::
-
-Autres exemples :
+:::Autres exemples :
 
 इ 2 P « aller » (Ā après certains préfixes)
 
@@ -66,9 +58,9 @@ Autres exemples :
     *   devant une consonne : i-
     *   devant une voyelle : y-/iy-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -77,18 +69,14 @@ Autres exemples :
 | 3\. sg. prés. Ā | इते (i-te) |
 | 3\. pl. prés. Ā | इयते (iy-ate) |
 
-:::
-
-::::
-
-दुह् 2 U « traire »
+:::::::दुह् 2 U « traire »
 
 *   radical de présent fort : doh-
 *   radical de présent faible : duh-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -97,20 +85,16 @@ Autres exemples :
 | 3\. sg. prés. Ā | दुग्धे (« duh- + -te) |
 | 3\. pl. prés. Ā | दुहते (duh-ate) |
 
-:::
-
-::::
-
-हन् 2 P « frapper, tuer, faire mourir »
+:::::::हन् 2 P « frapper, tuer, faire mourir »
 
 *   radical de présent fort : han-
 *   radical de présent faible :
     *   devant une consonne : ha- (« \*hn-)
     *   devant une voyelle : ghn-/han-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -119,29 +103,21 @@ Autres exemples :
 | 3\. sg. prés. Ā | हते (ha-te) |
 | 3\. pl. prés. Ā | घ्नते (ghn-ate) |
 
-:::
-
-::::
-
-अस् 2 P « être »
+:::::::अस् 2 P « être »
 
 *   radical de présent fort : as-
 *   radical de présent faible : s-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. prés. P | अस्ति (as-ti) |
 | 3\. pl. prés. P | सन्ति (s-anti) |
 
-:::
-
-::::
-
-## 17.3. Racines de la deuxième classe de présent avec alternance de la racine : degré allongé - degré réduit
+:::::::## 17.3. Racines de la deuxième classe de présent avec alternance de la racine : degré allongé - degré réduit
 
 Exemple :
 
@@ -152,9 +128,9 @@ Exemple :
     *   devant une consonne : stu-
     *   devant une voyelle : stuv-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -163,83 +139,61 @@ Exemple :
 | 3\. sg. prés. Ā | स्तुते (stu-te) |
 | 3\. pl. prés. Ā | स्तुवते (stuv-ate) |
 
-:::
+:::::::## 17.4. Racines de la deuxième classe de présent sans gradation de la racine
 
-::::
-
-## 17.4. Racines de la deuxième classe de présent sans gradation de la racine
-
-::: grammar-box
+:::grammar-box
 Sans gradation de la racine, les racines de la deuxième classe de présent se terminent par -ā
-:::
-
-Exemple :
+:::Exemple :
 
 पा 2 P « protéger, garder, veiller sur »
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Prés. P | पाति (pā-ti) |
 | 3\. pl. Prés. P | पान्ति (« pā- + -anti) |
 
-:::
-
-::::
-
-Certaines autres racines de la deuxième classe n’ont pas non plus de gradation de la racine :
+:::::::Certaines autres racines de la deuxième classe n’ont pas non plus de gradation de la racine :
 
 Exemples :
 
 अद् 2 P « manger »
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Prés. P | अत्ति (« ad- + -ti) |
 | 3\. pl. Prés. P | अदन्ति (ad-anti) |
 
-:::
+:::::::आस् 2 Ā « s’asseoir »
 
-::::
+::::grammar-box
 
-आस् 2 Ā « s’asseoir »
-
-:::: grammar-box
-
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Prés. Ā | आस्ते (ās-te) |
 | 3\. pl. Prés. Ā | आसते (ās-ate) |
 
-:::
+:::::::वच् 2 P « dire »
 
-::::
+::::grammar-box
 
-वच् 2 P « dire »
-
-:::: grammar-box
-
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Prés. P | वक्ति (« vac- + -ti) |
 | 3\. pl. Prés. P | ne se produit pas |
 
-:::
-
-::::
-
-## 17.5. Racines bisyllabiques en -i/-ī avec gradation de la racine
+:::::::## 17.5. Racines bisyllabiques en -i/-ī avec gradation de la racine
 
 Plusieurs racines sont, dans une série de formes, bisyllabiques, c’est-à-dire qu’elles possèdent un -i (respectivement avant certaines terminaisons -ī) avant une terminaison consonantique. Ces racines sont néanmoins considérées par les grammairiens indigènes et dans les dictionnaires, etc., comme monosyllabiques.
 
@@ -252,29 +206,25 @@ Exemples :
     *   avant consonne : rudi-
     *   avant voyelle : rud-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Prés. P | रोदिति (rodi-ti) |
 | 3\. pl. Prés. P | रुदन्ति (rud-anti) |
 
-:::
-
-::::
-
-ब्रू 2 U « parler »
+:::::::ब्रू 2 U « parler »
 
 *   radical de présent fort : bravī- (« bro- + -ī)
 *   radical de présent faible :
     *   vor Konsonant: brū-
     *   avant voyelle : bruv-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -283,87 +233,62 @@ Exemples :
 | 3\. sg. Prés. Ā | ब्रूते (brū-te) |
 | 3\. pl. Prés. Ā | ब्रुवते (bruv-ate) |
 
-:::
+:::::::Ainsi, स्तु 2 U « louer » possède, outre les formes indiquées sous 3., des formes suivant ce modèle :
 
-::::
+::::grammar-box
 
-Ainsi, स्तु 2 U « louer » possède, outre les formes indiquées sous 3., des formes suivant ce modèle :
-
-:::: grammar-box
-
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Prés. P | स्तवीति (« sto + ī + ti)[[br]]ou : स्तौति |
 
-:::
-
-::::
-
-## 17.6. Liste des mots
+:::::::## 17.6. Liste des mots
 
 हन् 2 P हन्ति, घ्नन्ति Pass. हन्यते  PPP हत : frapper, tuer, assassiner
 
 dont :
 
-::: indent
+:::indent
 घात m. : meurtre
-:::
-
-::: media
+::::::media
 ![](/images/lekt1703.webp)
 Fig. : घाताः
 Bangalore = ಬೆಂಗಳೂರು
 (Source de l'image : [Détails](/fr/licenses#lekt1703))
-:::
-
-
-आस् 2Ā आस्ते Pass. आस्यते PPP आसित : s'asseoir
+:::आस् 2Ā आस्ते Pass. आस्यते PPP आसित : s'asseoir
 
 dont :
 
-::: indent
+:::indent
 आसन n. : l'action de s'asseoir, siège ; aussi : positions assises du yogī
-:::
-
-::: media
+::::::media
 ![](/images/lekt1701.webp)
 Fig. : योगासनम्
 (Source de l'image : [Détails](/fr/licenses#lekt1701))
-:::
-
-
-रुद् 2 P रोदिति Pass. रुद्यते PPP रुदित : pleurer, hurler
+:::रुद् 2 P रोदिति Pass. रुद्यते PPP रुदित : pleurer, hurler
 
 dont :
 
-::: indent
+:::indent
 रुद्र m. : (celui qui hurle =) le dieu de la tempête Rudra
-:::
-
-ब्रू 2 U ब्रवीति Ā ब्रूते pas de Passif ni de PPP : parler, dire (quelque chose à quelqu'un : double accusatif)
+:::ब्रू 2 U ब्रवीति Ā ब्रूते pas de Passif ni de PPP : parler, dire (quelque chose à quelqu'un : double accusatif)
 
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : traire
 
-::: media
+:::media
 ![](/images/lekt1702.webp)
 Fig. : दोग्धि
 (Source de l'image : [Détails](/fr/licenses#lekt1702))
-:::
- 
-
-दिश् 6 U दिशति Pass. दिश्यते PPP दिष्ट : montrer, ordonner, commander
+:::दिश् 6 U दिशति Pass. दिश्यते PPP दिष्ट : montrer, ordonner, commander
 
 dont :
 
-::: indent
+:::indent
 दिष्टि f. : instruction, heureux concours de circonstances
 
 दिष्ट्या Instr. : (litt. : par un heureux concours de circonstances) Ô heureux concours de circonstances (exclamation de joie et de béatitude)
-:::
-
-## 17.7. Exercice 1
+:::## 17.7. Exercice 1
 
 A) Insérez le verbe dans les phrases suivantes et traduisez :
 
@@ -485,7 +410,7 @@ Traduisez les formes verbales suivantes et indiquez la racine correspondante :
 
 ४६. दिश्यन्ते
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt1701:** [Source de l'image : tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Consulté le 2008-12-07. -- Licence Creative Commons (Attribution, pas de modification)]
 

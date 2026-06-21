@@ -9,30 +9,26 @@ status: stable
 
 # Lesson 12
 
-::: deleteme-box
+:::deleteme-box
 **In this lesson, you will learn:**
 - The Perfect Passive Participle (PPP)
 - The meaning of the PPP
 - The formation of the PPP
 - Laws of sound combination in words
 - Passive and PPP of the roots learned so far
-:::
-
----
+:::---
 
 ## 12.1. Perfect Passive Participle (PPP)
 
 One way to form passive sentences of the past is the construction with the so-called Perfect Passive Participle (PPP).
 
-::: grammar-box
+:::grammar-box
 **In reality, the PPP is not a true participle, as it is not formed from a tense stem. Rather, it is a nominal formation from the root with the primary suffix -ta or -na. Therefore, in Indian grammar, one speaks of the suffix kta.**
-:::
-
----
+:::---
 
 ### 12.1.1. Schema for transitive verbs
 
-::: grammar-box
+:::grammar-box
 **Agent (kartṛ) in the Instrumental (tṛtīyā) -- direct object (karman) in the Nominative (prathamā) -- Perfect Passive Participle**
 
 In this case, the PPP agrees with the object in number, case, and gender.
@@ -43,35 +39,29 @@ Examples:
 > **sādhunā svarga āptaḥ** = साधुना स्वर्ग आप्तः = "(By the saint, a heaven was attained) = The saint has attained a heaven."
 > 
 > **brāhmaṇena devīṣṭā** = ब्राह्मणेन देवीष्टा = "(By the Brahmin, the goddess was honored with a sacrifice) = The Brahmin has honored the goddess with a sacrifice."
-:::
-
----
+:::---
 
 ### 12.1.2. Schema I for Intransitive Verbs and Verbs of Motion
 
-::: grammar-box
+:::grammar-box
 **Agent (kartṛ) in the Nominative (prathamā) -- Perfect Passive Participle**
 
 In this case, the PPP agrees with the agent in number, case, and gender. The Perfect Passive Participle has an active meaning with intransitive verbs (verbs without a direct object) and verbs of motion.
 
 Example:
 > **kṣatriyā nagaraṃ gatā** = क्षत्रिया नगरं गता = "The Kṣatriya woman has gone into the city."
-:::
-
----
+:::---
 
 ### 12.1.3. Schema II for Intransitive Verbs and Verbs of Motion
 
-::: grammar-box
+:::grammar-box
 **Agent (kartṛ) in the Instrumental (tṛtīyā) -- PPP in the Nominative Singular Neuterum**
 
 Example:
 > **kṣatriyeṇa (nagaraṃ) gatam** = क्षत्रियेण (नगरं) गतम् = „(By the Kṣatriya, (into the city) has been gone) = The Kṣatriya has (gone into the city).“
 
 The construction according to Schema II is much rarer than the construction according to Schema I.
-:::
-
----
+:::---
 
 ## 12.2. On the Significance of the PPP
 
@@ -85,7 +75,7 @@ e.g.
 
 ## 12.3. Formation of the PPP
 
-::: grammar-box
+:::grammar-box
 The following formation methods occur (for each root, its PPP must be learned accordingly!):
 
 **(mostly) guṇa-grade root**
@@ -96,9 +86,7 @@ The following formation methods occur (for each root, its PPP must be learned ac
 - **+ -na**
 
 The feminine stems are: **-tā**, **-itā**, **-nā**; the neuter declines like **phala** n.
-:::
-
----
+:::---
 
 ### 12.3.1. PPP on -ta (kta)
 
@@ -106,15 +94,13 @@ The feminine stems are: **-tā**, **-itā**, **-nā**; the neuter declines like 
 
 *aniṭ* = “without (*an-*) the suffix preceding (*-i-*) *t*” (i.e., without the connecting vowel *i*).
 
-::: grammar-box
+:::grammar-box
 Without a connecting vowel, the PPP is generally formed from roots ending in a vowel, as well as from many other roots, without there being a fixed rule for which structured roots exhibit the connecting vowel and which do not.
 
 A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
-:::
+:::**Examples:**
 
-**Examples:**
-
-::: grammar-box
+:::grammar-box
 | Root | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P[[br]](भू) | **bhū-ta**[[br]](भूत) |
@@ -129,32 +115,28 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 | **kṛ** 8 U[[br]](कृ) | **kṛ-ta**[[br]](कृत) |
 | **tan** 8 U[[br]](तन्) | **ta-ta** (&lt; \*tn-ta)[[br]](तत) |
 | **iṣ** 6 P[[br]](इष्) | **iṣ-ṭa**[[br]](इष्ट) |
-:::
-
-#### 12.3.1.2. With connecting vowel -i- (seṭ)
+:::#### 12.3.1.2. With connecting vowel -i- (seṭ)
 
 *seṭ* = *sa-iṭ* = “with (*sa-*) the suffix preceding (*-i-*) *t*” (i.e., with the connecting vowel *i*).
 
 **Examples:**
 
-::: grammar-box
+:::grammar-box
 | Root | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P[[br]](कुप्) | **kup-i-ta**[[br]](कुपित) |
 | **khād** 1 P[[br]](खाद्) | **khād-i-ta**[[br]](खादित) |
 | **rakṣ** 1 P[[br]](रक्ष्) | **rakṣ-i-ta**[[br]](रक्षित) |
 | **vad** 1 P[[br]](वद्) | **ud-i-ta** (&lt; \*vd-i-ta)[[br]](उदित) |
-:::
-
----
+:::---
 
 ## 12.4. Laws of Sound Combination in the Word
 
 In *aniṭ*-formations, the following laws of sound combination in the word must be observed. **These laws are very important for understanding the entire morphology of Sanskrit.**
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 | | |
 | :--- | :--- |
 | **1. k, t, p before a voiceless stop (e.g. t, th) remain unchanged:** | **pt, tt, kt** = **प्त्, त्त्, क्त्** |
@@ -164,34 +146,26 @@ In *aniṭ*-formations, the following laws of sound combination in the word must
 | **5. jt is replaced by kt or ṣṭ (not optional!):** | **yuj + ta » yuk-ta** = **युक्त**[[br]]**yaj + ta » iṣ-ṭa** = **इष्ट** (&lt; \*yj-ta)[[br]]**sṛj + ta » sṛṣ-ṭa** = **सृष्ट**[[br]]**sṛj + ti » sṛṣ-ṭi** = **सृष्टि** |
 | **6. A voiced aspirated stop + a voiceless stop » a voiced unaspirated stop + a voiced aspirated stop (Bartholomew’s Aspiration Law):** | **bh-t » b-dh:**[[br]]**labh + ta » lab-dha** = **लब्ध**[[br]]**dh-t » d-dh:**[[br]]**budh + ta » bud-dha** = **बुद्ध**[[br]]**yudh + ta » yud-dha** = **युद्ध**[[br]]**krudh + ta » krud-dha** = **क्रुद्ध** |
 | **7. h-t is replaced by ḍh with lengthening of a preceding i or u; or by gdh. Before such a ḍh, a is replaced by o, rarely by ā:** | **dah + ta » dag-dha** = **दग्ध**[[br]]**guh + ta » gūḍha** = **गूढ** (guh 1 (gūhati) “to conceal something”)[[br]]**muh + ta » mug-dha / mūḍha** = **मुग्ध / मूढ**[[br]]**sah + ta » soḍha** = **सोढ** |
-:::
-
-::::
-
----
+:::::::---
 
 ## 12.5. Word List
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : to awaken, to awaken to knowledge, to recognize; PPP **buddha** 3 awakened, hence **Buddha** = "the Awakened" (not: the Enlightened)
 
-::: media
+:::media
 ![](/images/lekt1201.webp)
 Fig.: गौतमो बुद्धः
 (Image source: [Details](/en/licenses#lekt1201))
-:::
-
-- **dah** 1 P (dahati), PPP **dagdha** दह् दहति दग्ध : to burn (something)
+:::- **dah** 1 P (dahati), PPP **dagdha** दह् दहति दग्ध : to burn (something)
 - **sah** 1 Ā (sahate), PPP **soḍha** सह् sahate soḍha : to overcome, to endure, to endure patiently = to forgive
 - **mṛga** m. मृग : wild animal
 - **mārga** m. मार्ग : path (paths were often game trails)
 
-::: media
+:::media
 ![](/images/lekt1202.webp)
 Fig.: मार्गः
 (Image source: [Details](/en/licenses#lekt1202))
-:::
-
-- **api** अपि : also (postposed)
+:::- **api** अपि : also (postposed)
 
 Regarding the 6th conjugation class, some roots are counted by indigenous grammarians that form the present stem with nasal infix and thematic vowel a, e.g.:
 
@@ -204,13 +178,11 @@ Regarding word formation:
 - **sic** + **abhi-**: **abhiṣeka** m. अभिषेक : anointing of a king during the royal consecration, royal consecration
 - **budh**: **bodhi** m./f. बोधि : the awakening (through which a Buddha or Jina attains liberating insight)
 
-::: media
+:::media
 ![](/images/lekt1203.webp)
 Fig.: महावीरो जिनः
 (Image source: [Details](/en/licenses#lekt1203))
-:::
-
-- **buddhi** f. (**budh** + **-ti**) बुद्धि : knowledge, organ of knowledge.
+:::- **buddhi** f. (**budh** + **-ti**) बुद्धि : knowledge, organ of knowledge.
 
 ---
 

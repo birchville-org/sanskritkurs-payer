@@ -907,99 +907,9 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
                 except Exception as e:
                     print(f"  [!] Exception in chunk {idx+1}: {str(e)}")
                     return False
-
-    # Reassemble chunks in their correct structural order
-    translated_chunks = [translated_map[i] for i in range(len(chunks))]
-
-    translated = escape_angle_brackets_in_tables('\n\n'.join(translated_chunks))
-    if post_process:
-        translated = post_process(translated)
-    with open(target_path, "w", encoding="utf-8") as f:
-        f.write(translated)
-    print(f"[{lang}] Done {filename}.")
-    return True
-
-
-def chunk_content(content):
-    # Splits content into safe, manageable chunks of max ~8000 characters
-    # respecting markdown boundaries (headers, containers) to maximize semantic unity.
-    lines = content.split('\n')
-    chunks = []
-    current_chunk = []
-    current_size = 0
-    
-    for line in lines:
-        is_header = line.startswith('## ') or line.startswith('### ')
-        # Target limit increased to 8000 to utilize Qwen's large context and improve throughput
-        is_break_point = (current_size > 8000 and (not line.strip() or line.startswith(':::') or line.startswith('|')))
-        
-        if (is_header or is_break_point) and current_chunk:
-            chunks.append('\n'.join(current_chunk))
-            current_chunk = []
-            current_size = 0
-            
-        current_chunk.append(line)
-        current_size += len(line) + 1
-        
-    if current_chunk:
-        chunks.append('\n'.join(current_chunk))
-        
-    return chunks
-
-def generate_licenses(lang):
-    """Copy DE licenses.md verbatim, substituting only fixed UI phrases. No LLM."""
-    labels = LICENSES_LABELS.get(lang)
-    if not labels:
-        return
-    src_path = os.path.join(BASE_DIR, "licenses.md")
-    out_path = os.path.join(BASE_DIR, lang, "licenses.md")
-    if not os.path.exists(src_path):
-        return
-    if os.path.exists(out_path) and os.path.getmtime(out_path) > os.path.getmtime(src_path):
-        print(f"[{lang}] Skipping licenses.md (up to date).")
-        return
-    with open(src_path, encoding="utf-8") as f:
-        content = f.read()
-    content = content.replace("# Bild-Lizenzen Audit", f"# {labels['title']}")
-    content = content.replace(
-        "| Stamm | Gefundene Quell-Angabe | Vorschau |",
-        f"| {labels['col1']} | {labels['col2']} | {labels['col3']} |"
-    )
-    content = content.replace(
-        "Keine spezielle Lizenz/Bildquelle im Text gefunden",
-        labels["no_license"]
-    )
-    for de_phrase, trans in LICENSES_PHRASES.get(lang, {}).items():
-        content = content.replace(de_phrase, trans)
-    with open(out_path, "w", encoding="utf-8") as f:
-        f.write(content)
-    print(f"[{lang}] Generated licenses.md (static copy + phrase substitution).")
-
-
-def parse_lesson_args(args):
-    """Parse lesson number arguments. Returns (lesson_nums, translate_all)."""
-    if not args or args[0] == "all":
-        return LESSONS, True
-    nums = []
-    for a in args:
-        if "-" in a and not a.startswith("-"):
-            parts = a.split("-", 1)
-            try:
-                start, end = int(parts[0]), int(parts[1])
-                nums.extend(range(start, end + 1))
-            except ValueError:
-                print(f"Warning: ignoring invalid range '{a}'")
-        else:
-            try:
-                nums.append(int(a))
-            except ValueError:
-                print(f"Warning: ignoring non-numeric argument '{a}'")
-    return nums, False
-
-
 def parse_lang_args(args):
     """Extract --lang/-l, --force/-f, --pages/-p options from args. Returns (languages, force, pages_only, remaining_args)."""
-    languages = list(LANGUAGES)
+    languages = []
     force = False
     pages_only = False
     remaining = []
@@ -1025,50 +935,29 @@ def parse_lang_args(args):
             i += 1
     return languages, force, pages_only, remaining
 
-
-def translate_main_pages(lang, force=False):
-    """Translate only the site-level main pages (index, grammatik, themen, impressum, licenses)."""
-    lang_dir = os.path.join(BASE_DIR, lang)
-    os.makedirs(lang_dir, exist_ok=True)
-    for filename in MAIN_PAGES:
-        source_path = os.path.join(BASE_DIR, filename)
-        if not os.path.exists(source_path):
-            continue
-        post = (lambda t, l=lang: fix_home_links(t, l)) if filename == "index.md" else None
-        translate_file(source_path, os.path.join(lang_dir, filename), lang, post_process=post, force=force)
-    generate_licenses(lang)
-
-
-def _fmt_elapsed(seconds):
-    m, s = divmod(int(seconds), 60)
-    return f"{m}m {s}s" if m else f"{s}s"
-
-
 def main():
     args = sys.argv[1:]
     if not args:
-        print("Usage: python3 scripts/lan_translate.py [--lang CODE[,CODE...]] [-f] [-p] <all | lesson_num | start-end | num1 num2 ...>")
+        print("Usage: python3 scripts/lan_translate.py --lang CODE[,CODE...] [-f] [-p] <all | lesson_num | start-end | num1 num2 ...>")
         print("Options:")
-        print("  --lang/-l CODE[,CODE...]  translate only the given language(s)")
+        print("  --lang/-l CODE[,CODE...]  (REQUIRED) translate only the given language(s)")
         print("  --force/-f                skip mtime check and always retranslate")
         print("  --pages/-p                translate only site-level pages (index, grammatik, impressum…)")
         print("Examples:")
-        print("  python3 scripts/lan_translate.py all")
-        print("  python3 scripts/lan_translate.py 28")
-        print("  python3 scripts/lan_translate.py 28-32")
-        print("  python3 scripts/lan_translate.py 28 29 30")
-        print("  python3 scripts/lan_translate.py --lang it 28")
-        print("  python3 scripts/lan_translate.py --lang it,es all")
-        print("  python3 scripts/lan_translate.py -l en -f 10")
-        print("  python3 scripts/lan_translate.py --lang la --pages")
+        print("  python3 scripts/lan_translate.py --lang he all")
+        print("  python3 scripts/lan_translate.py --lang he 28")
+        print("  python3 scripts/lan_translate.py --lang it,es 28-32")
         sys.exit(1)
 
     active_languages, force, pages_only, remaining_args = parse_lang_args(args)
 
+    if not active_languages:
+        print("Error: You must explicitly specify languages using --lang/-l (e.g., --lang he).")
+        sys.exit(1)
+
     if pages_only:
         print(f"Starting translation process using {MODEL} at {API_URL}...")
-        if active_languages != list(LANGUAGES):
-            print(f"Language filter: {', '.join(active_languages)}")
+        print(f"Language filter: {', '.join(active_languages)}")
         print("Pages-only mode: translating site-level pages only.")
         for lang in active_languages:
             lang_start = time.time()
@@ -1081,8 +970,7 @@ def main():
     lesson_nums, translate_all = parse_lesson_args(remaining_args)
 
     print(f"Starting translation process using {MODEL} at {API_URL}...")
-    if active_languages != list(LANGUAGES):
-        print(f"Language filter: {', '.join(active_languages)}")
+    print(f"Language filter: {', '.join(active_languages)}")
     if force:
         print("Force mode: mtime check disabled.")
     for lang in active_languages:

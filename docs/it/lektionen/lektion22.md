@@ -11,7 +11,7 @@ status: stable
 
 ## 22.1. L'ablativo assoluto (क्त्वा । ल्यप्)
 
-::: grammar-box
+:::grammar-box
 
 Se si vuole esprimere in sanscrito che un'azione dell'agente (कर्तृ) precede un'altra azione dell'agente o avviene come circostanza concomitante, si usa l'ablativo assoluto (क्त्वा । ल्यप्). Quindi
 
@@ -27,29 +27,23 @@ Nella traduzione in tedesco si eviti di dire costantemente "dopo che". Si usino 
 
 (determinazione specifica dell'ablativo assoluto: circostanza, oggetto ecc.) - ablativo assoluto - ablativo assoluto - ... - ablativo assoluto - ... Agente + proposizione verbale (in attivo o passivo)
 
-:::
+:::**Esempi:**
 
-**Esempi:**
-
-::: indent
+:::indent
 **गृहं प्रविश्य बालां दृष्ट्वा नरो वदति** = costruzione passiva: **गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते**  
 "L'uomo entra nella casa, vede la bambina e le parla."
 
 Plurale: **गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।**
-:::
+:::## 22.2. Formazione dell'assolutivo
 
-## 22.2. Formazione dell'assolutivo
-
-::: grammar-box
+:::grammar-box
 **Formazione dell'assolutivo**
 
 *   Verbi senza prefisso: assolutivo in **-tvā**
 *   Verbi con prefisso: assolutivo in **-ya** o **-tya**
-:::
+:::### 22.2.1. Verbi privi di prefisso: Assolutivo in -त्वा
 
-### 22.2.1. Verbi privi di prefisso: Assolutivo in -त्वा
-
-::: grammar-box
+:::grammar-box
 
 **Formazione:**
 
@@ -57,11 +51,9 @@ Plurale: **गृहं प्रविश्य बालां दृष्ट
 
 Solo la negazione **a-** / **an-** tollera il suffisso **-त्वा** : **अकृत्वा** "senza aver fatto"
 
-:::
+:::**Esempi:**
 
-**Esempi:**
-
-::: indent
+:::indent
 **आप्त्वा** "dopo che egli / ella / esso / io / tu / noi / voi / essi / noi due / voi due / essi due ha / aveva / hanno / avevano raggiunto"
 
 **आसित्वा** "dopo che egli (...) era seduto / è seduto"
@@ -73,63 +65,49 @@ Solo la negazione **a-** / **an-** tollera il suffisso **-त्वा** : **अ
 **जित्वा** "dopo che egli (...) ha vinto / aveva vinto"
 
 **उक्त्वा** "dopo che egli (...) ha parlato / aveva parlato"
-:::
-
-### 22.2.2. Verbi con prefisso
+:::### 22.2.2. Verbi con prefisso
 
 #### 22.2.2.1. Radici con vocale lunga (tranne -ā) o con consonante finale
 
-::: grammar-box
+:::grammar-box
 
 **(di solito) radice in grado basso + -ya**
 
-:::
+:::**Esempi:**
 
-**Esempi:**
-
-::: indent
+:::indent
 **उपनीय** "dopo che (...) ha condotto / aveva condotto"
 
 **प्रभूय** "dopo che (...) è emerso / era emerso" "dopo che (...) ha avuto potere"
 
 **प्राप्य** "dopo che (...) ha ottenuto / aveva ottenuto"
-:::
+:::#### 22.2.2.2. Radici con -ā
 
-#### 22.2.2.2. Radici con -ā
-
-::: grammar-box
+:::grammar-box
 
 **radice in grado alto invariata + -ya**
 
-:::
+:::**Esempio:**
 
-**Esempio:**
-
-::: indent
+:::indent
 **उपस्थाय** "dopo che (...) è entrato / era entrato" ; (ma senza prefisso: **स्थित्वा**)
-:::
+:::#### 22.2.2.3. Radici che nel grado basso terminano con -i, -u, -ṛ breve
 
-#### 22.2.2.3. Radici che nel grado basso terminano con -i, -u, -ṛ breve
-
-::: grammar-box
+:::grammar-box
 
 **radice in grado basso + -tya**
 
-:::
+:::**Esempi:**
 
-**Esempi:**
-
-::: indent
+:::indent
 **प्रस्तुत्य** "dopo che (...) ha lodato ad alta voce / aveva lodato ad alta voce"
 
 **विस्मृत्य** "dopo che (...) ha dimenticato / aveva dimenticato"
 
 **संस्कृत्य** "dopo che (...) ha preparato per il sacrificio / aveva preparato per il sacrificio"
-:::
+:::#### 22.2.2.4. Radici con -am / -an, che nel grado basso terminano con -a
 
-#### 22.2.2.4. Radici con -am / -an, che nel grado basso terminano con -a
-
-::: grammar-box
+:::grammar-box
 
 **Opzionale:**
 
@@ -139,61 +117,45 @@ oppure:
 
 Radice con **-a** + **-tya**
 
-:::
+:::**Esempio:**
 
-**Esempio:**
-
-::: indent
+:::indent
 **विगम्य** oppure **विगत्य** "dopo che (...) è passato / era passato"
-:::
-
-## 22.3. Elenco di parole
+:::## 22.3. Elenco di parole
 
 **काम m.:** desiderio, brama; dono desiderato, piacere sensuale, amore, dio dell'amore
 
-::: indent
+:::indent
 **कामम्** Acc. avverbialmente: a proprio piacimento, a proprio agio
-:::
-
-::: media
+::::::media
 ![](/images/lekt2202.webp)
 Fig.: कामदेवः
 Secolo XIX
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2202))
-:::
-
-
-**शक् 5 P  शक्नोति Pass.  शक्यते PPP  शक्त Inf.  शक्तुम् :** essere capace, potere
+:::**शक् 5 P  शक्नोति Pass.  शक्यते PPP  शक्त Inf.  शक्तुम् :** essere capace, potere
 
 da ciò:
 
-::: indent
+:::indent
 **शक्ति f.:** capacità, potere, abilità, forza; anche: forza divina, personificata come compagna femminile in particolare di **शिव**
 
 **शक्र m.:** il potente (epiteto di **इन्द्र**)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2203.webp)
 Fig.: दुर्गाशक्तिः
 Kolkatta = কলকাতা
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2203))
-:::
+:::**अर्ह 1 P  अर्हति Pass.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** meritare qualcosa (essere degno di qualcosa), avere il diritto, essere obbligato a, dovere (nella seconda persona **अर्ह्** + infinito è spesso usato come un ordine mitigato: "Dovresti")
 
-
-**अर्ह 1 P  अर्हति Pass.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** meritare qualcosa (essere degno di qualcosa), avere il diritto, essere obbligato a, dovere (nella seconda persona **अर्ह्** + infinito è spesso usato come un ordine mitigato: "Dovresti")
-
-::: indent
+:::indent
 **अर्हन्त् 3** Part. Pres. P: un degno. Nel Buddhismo e nel Giainismo: qualcuno che ha raggiunto la liberazione finale
-:::
-
-**व्रत n.:** voto, dovere religioso, osservanza religiosa (si promette qualcosa alla divinità per ottenere qualcosa da lei. Esempio: una madre promette di dedicare sua figlia come prostituta sacra (**देवदासी**) se sua figlia si ammalerà di nuovo. Importanti **व्रत** oggi: digiuno; astinenza da cibi amati; astinenza sessuale; lettura di scritture sacre; esecuzione di certi riti; nutrizione di brahmani e simili. Breve sui **व्रत**: Walker, Hindu World Vol. II, pag. 581ss. Dettagliato: P. V. Kane: History of Dharmaśāstra Vol. 5,1 pag. 1 - 462. Lì pag. 253 - 462 elenco di **व्रत** e feste religiose ("il seguente elenco ... non pretende di essere completamente esaustivo" !!!)
+:::**व्रत n.:** voto, dovere religioso, osservanza religiosa (si promette qualcosa alla divinità per ottenere qualcosa da lei. Esempio: una madre promette di dedicare sua figlia come prostituta sacra (**देवदासी**) se sua figlia si ammalerà di nuovo. Importanti **व्रत** oggi: digiuno; astinenza da cibi amati; astinenza sessuale; lettura di scritture sacre; esecuzione di certi riti; nutrizione di brahmani e simili. Breve sui **व्रत**: Walker, Hindu World Vol. II, pag. 581ss. Dettagliato: P. V. Kane: History of Dharmaśāstra Vol. 5,1 pag. 1 - 462. Lì pag. 253 - 462 elenco di **व्रत** e feste religiose ("il seguente elenco ... non pretende di essere completamente esaustivo" !!!)
 
 **चर् 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: चर् 1 P चरति Pass.  चर्यते PPP  चरित Inf.  चरितुम्) :** pascolare, vagare, agitarsi, muoversi, agire, esercitare qualcosa, compiere (ad esempio **व्रतं चर्**: praticare un voto, in particolare l'astinenza sessuale)
 
 da ciò:
 
-::: indent
+:::indent
 **चर ३:** mobile; n.: il mobile = animali (in contrasto con le piante)
 
 **चरण n., m.:** piede
@@ -201,16 +163,12 @@ da ciò:
 **चरित n.:** stile di vita, azioni della vita
 
 **ब्रह्मचर्य n.:** esecuzione del Veda (**ब्रह्मन्**) = studio del Veda nel primo stadio della vita (quello dello **ब्रह्मचारिन्**), che richiede una rigorosa astinenza sessuale; quindi anche: astinenza sessuale, stile di vita celibataro
-:::
-
-::: media
+::::::media
 ![](/images/lekt2201.webp)
 Fig.: धेनवश्चरन्ति
 Goa = गोंय
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2201))
-:::
-
-## 22.4. Esercizio
+:::## 22.4. Esercizio
 
 **A) Formare e tradurre l'Assolutivo per i seguenti verbi:**
 
@@ -275,13 +233,11 @@ Goa = गोंय
 
 **C) Trasformare le frasi precedenti (tranne le frasi 8 e 10) in costruzioni passive**
 
-::: media
+:::media
 ![](/images/lekt2204.webp)
 Fig.: अन्नं पक्त्वा
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2204))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt2201:** Goa = गोंय [Fonte dell'immagine: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
 

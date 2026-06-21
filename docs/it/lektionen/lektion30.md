@@ -11,7 +11,7 @@ status: stable
 
 ## 30.1. La 9ª classe del presente (क्र्यादि = "क्री ecc.")
 
-::: grammar-box
+:::grammar-box
 **Formazione:**
 
 *   radice forte: radice in grado debole + -nā-
@@ -21,66 +21,52 @@ status: stable
     *   davanti a consonante: radice in grado debole + -nī-
         
     *   davanti a vocale: radice in grado debole + -n-
-:::
-        
+:::Esempio:
 
-Esempio:
-
-::: indent
+:::indent
 क्री 9U "comprare"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3ª Persona[[br]]Parasmaipada**|क्रीणाति[[br]](krī + nā + ti)|क्रीणन्ति[[br]](krī + n + anti)|
 |**3ª Persona[[br]]Ātmanepada**|क्रीणीते[[br]](krī + nī + te)|क्रीणते[[br]](krī + n + ate)|
 
-:::
+:::Per questa classe del presente, si deve prestare particolare attenzione alla formazione della radice del presente per la radice ज्ञा 9U "riconoscere, sapere":
 
-Per questa classe del presente, si deve prestare particolare attenzione alla formazione della radice del presente per la radice ज्ञा 9U "riconoscere, sapere":
-
-::: grammar-box
+:::grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3ª Persona[[br]]Parasmaipada**|जानाति[[br]](jā-nā-ti)|जानन्ति[[br]](jā-n-anti)|
 |**3ª Persona[[br]]Ātmanepada**|जानीते[[br]](jā-nī-te)|जानते[[br]](jā-n-ate)|
 
-:::
-La forma जा che sta alla base della radice del presente di ज्ञा, può essere spiegata o attraverso una serie di ablaut -ā (grado debole) -nā (grado forte), o attraverso la dissimilazione da *jñā-nā-ti.
+:::La forma जा che sta alla base della radice del presente di ज्ञा, può essere spiegata o attraverso una serie di ablaut -ā (grado debole) -nā (grado forte), o attraverso la dissimilazione da *jñā-nā-ti.
 
 Alcune radici con vocale lunga accorciano questa vocale davanti al suffisso della radice del presente della 9ª classe:
 
 Esempio:
 
-::: indent
+:::indent
 पू 9U "purificare"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3ª Persona[[br]]Parasmaipada**|पुनाति[[br]](pu-nā-ti)|पुनन्ति[[br]](pu-n-anti)|
 |**3ª Persona[[br]]Ātmanepada**|पुनीते[[br]](pu-nī-te)|पुनते[[br]](pu-n-ate)|
 
-:::
-
-Formazione del participio presente Parasmaipada:
+:::Formazione del participio presente Parasmaipada:
 
 Esempio:
 
-::: indent
+:::indent
 क्रीणन्त् (krī + n + ant) ; fem.: क्रीणती (krī + n + at + ī)
-:::
-
-## 30.2. Uso dell'ottativo (लिङ्)
+:::## 30.2. Uso dell'ottativo (लिङ्)
 
 L'ottativo è usato:
 
-::: grammar-box
+:::grammar-box
 **1. per indicare**
 
 *   **un desiderio**
@@ -88,15 +74,11 @@ L'ottativo è usato:
 *   **un ordine attenuato**
 
 **(in questo caso l'ottativo - लिङ् - si sovrappone all'imperativo - लोट्)**
-:::
+:::Esempio:
 
-Esempio:
-
-::: indent
+:::indent
 दासो ग्राममागच्छेत् = "Lo schiavo venga al villaggio"
-:::
-
-::: grammar-box
+::::::grammar-box
 **2. Quando qualcosa viene presentata come**
 
 *   **possibile**
@@ -104,42 +86,32 @@ Esempio:
 *   **presumibile**
 
 **viene espressa.**
-:::
+:::Esempio:
 
-Esempio:
-
-::: indent
+:::indent
 ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात् = "Se uscisse dal villaggio, il maestro non lo sentirebbe"
-:::
-
-::: grammar-box
+::::::grammar-box
 **3. Le proposizioni relative con l'ottativo hanno talvolta il significato: "Se qualcuno ..."**
-:::
+:::Esempio:
 
-Esempio:
-
-::: indent
+:::indent
 यो नृतं वदेत्स नरकं पतेत् = "Se qualcuno dicesse la menzogna, cadrebbe nell'inferno = Se qualcuno dice la menzogna, cade nell'inferno"
-:::
-
-## 30.3. Desinenze secondarie della terza persona singolare e plurale
+:::## 30.3. Desinenze secondarie della terza persona singolare e plurale
 
 L'ottativo (लिङ्), l'imperfetto (लङ्), l'aoristo (लुङ्), il precativo (आशिर्लिङ्) e il condizionale hanno le cosiddette desinenze secondarie:
 
-::: grammar-box
+:::grammar-box
 
 | |3. persona singolare|3. persona plurale|
 | :--- | :--- | :--- |
 |**Parasmaipada**|**-t**|classi atematiche: **-an** o **-ur**[[br]]Ottativo: **-ur**|
 |**Ātmanepada**|**-ta**|classi atematiche: **-ata** (da *nta)[[br]]Ottativo: **-ran**|
 
-:::
-
-## 30.4. Formazione dell'ottativo presente (लिङ्)
+:::## 30.4. Formazione dell'ottativo presente (लिङ्)
 
 ### 30.4.1. Classi tematiche del presente
 
-::: grammar-box
+:::grammar-box
 **prima di desinenze con iniziale consonantica:**
 
 **Stema del presente + -i- (che si fonde con -a- in -e-) + desinenze secondarie**
@@ -147,61 +119,51 @@ L'ottativo (लिङ्), l'imperfetto (लङ्), l'aoristo (लुङ्), i
 **prima di desinenze con iniziale vocalica:**
 
 **Stema del presente + -i- (» -e-) + -y- + desinenza secondaria**
-:::
-
-Esempi:
+:::Esempi:
 
 1\. Classe del presente:
 
 भू
-::: grammar-box
+:::grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3. Persona[[br]]Parasmaipada**|भवेत्[[br]](bhava + i + t)|भवेयुर्[[br]](bhava + i + y + ur)|
 |**3. Persona[[br]]Ātmanepada**|भवेत[[br]](bhava + i + ta)|भवेरन्[[br]](bhava + i + ran)|
 
-:::
-
-4\. Classe del presente:
+:::4\. Classe del presente:
 
 नृत्
-::: grammar-box
+:::grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3. Persona[[br]]Parasmaipada**|नृत्येत्[[br]](nṛtya + i + t)|नृत्येयुर्[[br]](nṛtya + i + y + ur)|
 |**3. Persona[[br]]Ātmanepada**|नृत्येत[[br]](nṛtya + i + ta)|नृत्येरन्[[br]](nṛtya + i + ran)|
 
-:::
-
-6\. Classe del presente
+:::6\. Classe del presente
 
 विश्
-::: grammar-box
+:::grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3. Persona[[br]]Parasmaipada**|विशेत्[[br]](viśa + i + t)|विशेयुर्[[br]](viśa + i + y + ur)|
 |**3. Persona[[br]]Ātmanepada**|विशेत[[br]](viśa + i + ta)|विशेरन्[[br]](viśa + i + ran)|
 
-:::
-
-10\. Classe del presente e Causativi
+:::10\. Classe del presente e Causativi
 
 चुर्
-::: grammar-box
+:::grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3. Persona[[br]]Parasmaipada**|चोरयेत्[[br]](coraya + i + t)|चोरयेयुर्[[br]](coraya + i + y + ur)|
 |**3. Persona[[br]]Ātmanepada**|चोरयेत[[br]](coraya + i + ta)|चोरयेरन्[[br]](coraya + i + ran)|
 
-:::
+:::### 30.4.2. Classi di presente atematiche
 
-### 30.4.2. Classi di presente atematiche
-
-::: grammar-box
+:::grammar-box
 **Parasmaipada:**
 
 **radice debole del presente + -yā- (prima di -ur: -y-) + desinenza secondaria**
@@ -209,112 +171,89 @@ Esempi:
 **Ātmanepada:**
 
 **radice debole del presente + -ī- + desinenza secondaria**
-:::
-
-Esempi:
+:::Esempi:
 
 2\. Classe di presente:
 
 द्विष्
-::: grammar-box
+:::grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3. Persona[[br]]Parasmaipada**|द्विष्यात्[[br]](dviṣ-yā-t)|द्विष्युर्[[br]](dviṣ-y-ur)|
 |**3. Persona[[br]]Ātmanepada**|द्विषीत[[br]](dviṣ-ī-ta)|द्विषीरन्[[br]](dviṣ-ī-ran)|
 
-:::
-
-5\. Classe di presente
+:::5\. Classe di presente
 
 सु
-::: grammar-box
+:::grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3. Persona[[br]]Parasmaipada**|सुनुयात्[[br]](sunu-yā-t)|सुनुयुर्[[br]](sunu-y-ur)|
 |**3. Persona[[br]]Ātmanepada**|सुन्वीत[[br]](sunu + ī + ta)|सुन्वीरन्[[br]](sunu + ī + ran)|
 
-:::
-
-8\. Classe di presente
+:::8\. Classe di presente
 
 तन्
-::: grammar-box
+:::grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3. Persona[[br]]Parasmaipada**|तनुयात्[[br]](tanu-yā-t)|तनुयुर्[[br]](tanu-y-ur)|
 |**3. Persona[[br]]Ātmanepada**|तन्वीत[[br]](tanu + ī + ta)|तन्वीरन्[[br]](tanu + ī + ran)|
 
-:::
+:::**kṛ**[[br]](कृ)
 
-**kṛ**[[br]](कृ)
-
-::: grammar-box
+:::grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3. Persona[[br]]Parasmaipada**|कुर्यात्|कुर्युर्|
 |**3. Persona[[br]]Ātmanepada**|कुर्वीत|कुर्वीरन्|
 
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | |Singolare[[br]]एकवचन|Plurale[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3. Persona Parasmaipada**|क्रीणीयात्[[br]](krīṇī-yā-t)|क्रीणीयुर्[[br]](krīṇī-y-ur)|
 |**3. Persona Ātmanepada**|क्रीणीत[[br]](krīṇ-ī-ta)|क्रीणीरन्[[br]](krīṇ-ī-ran)|
 
-:::
+:::## 30.5. Sandhi di -r finale
 
-## 30.5. Sandhi di -r finale
-
-::: grammar-box
+:::grammar-box
 **Per -r finale, eccetto per -ar, valgono le stesse regole di Sandhi come per -s finale.**
 
 **-ar davanti a suoni sonori rimane -ar, davanti a r- invece la -r cade e la -a- viene sostituita da -ā-.**
-:::
+:::Esempi:
 
-
-Esempi:
-
-::: indent
+:::indent
 भवेयुर् + च » भवेयुश्च
 
 पुनर् + अग्निः » पुनरग्निः
 
 पुनर् + रोदिति » पुना रोदिति
-:::
-
-## 30.6. Elenco di parole
+:::## 30.6. Elenco di parole
 
 क्री 9U क्रीणाति : comprare
 
-::: indent
+:::indent
 Fut. क्रेष्यति  
 Pass. क्रीयते  
 PPP क्रीत  
 Inf. क्रेतुम्
-:::
+:::क्री + वि 9Ā विक्रीणीते : vendere
 
-क्री + वि 9Ā विक्रीणीते : vendere
-
-::: indent
+:::indent
 Assol. विक्रीय
-:::
-
-::: media
+::::::media
 ![](/images/lekt3001.webp)
 Fig.: क्रीणन्ति विक्रीणते च
 Bundi = बुन्दी, Rajasthan = राजस्थान
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3001))
-:::
+:::ज्ञा 9U जानाति : conoscere, riconoscere, sapere, comprendere
 
-ज्ञा 9U जानाति : conoscere, riconoscere, sapere, comprendere
-
-::: indent
+:::indent
 Fut. ज्ञास्यति  
 Pass. ज्ञायते  
 Caus. ज्ञापयति  
@@ -327,89 +266,67 @@ di cui:
 ज्ञाति m.: (consanguineo) parente (i parenti sono coloro che si conoscono!)
 
 ज्ञान n.: conoscenza, sapere, riconoscimento (spec. delle "verità" più elevate in religione e filosofia)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3002.webp)
 Fig.: ज्ञातयः
 Darewadi, Distretto di Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3002))
-:::
+:::पू 9U पुनाति : purificare
 
-पू 9U पुनाति : purificare
-
-::: indent
+:::indent
 Fut. पविष्यति  
 Pass. पूयते  
 Caus. पावयति  
 PPP पूत  
 Inf. पवितुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3003.webp)
 Fig.: श्रोत्राणि पुनाति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3003))
-:::
+:::अश् 9P अश्नाति : mangiare, consumare
 
-अश् 9P अश्नाति : mangiare, consumare
-
-::: indent
+:::indent
 Fut. अशिष्यति  
 Pass. अश्यते  
 Caus. आशयति  
 PPP अशित  
 Inf. अशितुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3005.webp)
 Fig.: अश्नीयात्
 थाली, Sud dell'India
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3005))
-:::
+:::प्रिय ३: amabile, amante, amichevole
 
-प्रिय ३: amabile, amante, amichevole
-
-::: media
+:::media
 ![](/images/lekt3004.webp)
 Fig.: प्रिया
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3004))
-:::
+:::चेत् Congiunzione: se; a patto che (non sta mai all'inizio di una frase)
 
-चेत् Congiunzione: se; a patto che (non sta mai all'inizio di una frase)
-
-::: indent
+:::indent
 न चेत् : se non
-:::
+:::यदि Congiunzione: se
 
-यदि Congiunzione: se
-
-::: indent
+:::indent
 यद्यपि : sebbene, anche se, quantunque
 
 यद्येवम् : se è così, in queste circostanze
-:::
+:::पुनर् : di nuovo, sempre di nuovo, indietro, ancora una volta, invece, ma
 
-पुनर् : di nuovo, sempre di nuovo, indietro, ancora una volta, invece, ma
-
-::: indent
+:::indent
 पुनः पुनर् : sempre di nuovo
 
 di cui:
 
 पुनर्भव m.: rinascita
-:::
-
-::: media
+::::::media
 ![](/images/lekt2904.webp)
 Fig.: पुनर्भवः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2904))
-:::
+:::जीव् 1P जीवति : vivere
 
-जीव् 1P जीवति : vivere
-
-::: indent
+:::indent
 Fut. जीविष्यति  
 Pass. जीव्यते  
 Caus. जीवयति  
@@ -419,9 +336,7 @@ Inf. जीवितुम्
 di cui:
 
 जीव m./n.: vita, anima individuale
-:::
-
-सनातन ३ fem.: सनातनी : eterno, imperituro, stabile
+:::सनातन ३ fem.: सनातनी : eterno, imperituro, stabile
 
 ## 30.7. Esercitazione
 
@@ -559,7 +474,7 @@ Determinare e tradurre le seguenti forme verbali:
 39.  तस्मिन्
 40.  सते
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt3001:** Bundi = बुन्दी, Rajasthan = राजस्थान [Fonte dell'immagine: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accesso il 2008-12-21. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
 **lekt3002:** Darewadi, Distretto di Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र [Fonte dell'immagine: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accesso il 2008-12-21. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]

@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-21
 
 Las desinencias verbales se añaden directamente a la raíz. Hay que tener en cuenta las alteraciones fonéticas resultantes del sandhi de palabras.
 
-:::: grammar-box
+::::grammar-box
 
 Existen las siguientes formas de formación en la segunda clase del presente:
 
@@ -19,9 +19,7 @@ Existen las siguientes formas de formación en la segunda clase del presente:
 2.  Raíces sin ablación de la raíz
 3.  Raíces bisílabas en -i/-ī con ablación de la raíz
 
-::::
-
-## 17.2. Raíces de la segunda clase de presente con ablaut del tema: nivel alto - nivel bajo
+::::## 17.2. Raíces de la segunda clase de presente con ablaut del tema: nivel alto - nivel bajo
 
 Ejemplos:
 
@@ -30,9 +28,9 @@ Ejemplos:
 *   tema fuerte del presente: dveṣ-
 *   tema débil del presente: dviṣ-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -41,19 +39,13 @@ Ejemplos:
 | 3\. sg. Pres. Ā | द्विष्टे (« dviṣ + -te) |
 | 3\. pl. Pres. Ā | द्विषते (dviṣ-ate) |
 
-:::
+:::::::Aquí opera la siguiente regla de sandhi de palabra:
 
-::::
-
-Aquí opera la siguiente regla de sandhi de palabra:
-
-::: grammar-box
+:::grammar-box
 Sandhi de palabra de -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
-:::
-
-Otros ejemplos:
+:::Otros ejemplos:
 
 इ 2 P "ir" (Ā después de ciertos prefijos)
 
@@ -62,9 +54,9 @@ Otros ejemplos:
     *   antes de consonante: i-
     *   antes de vocal: y-/iy-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -73,18 +65,14 @@ Otros ejemplos:
 | 3\. sg. Pres. Ā | इते (i-te) |
 | 3\. pl. Pres. Ā | इयते (iy-ate) |
 
-:::
-
-::::
-
-दुह् 2 U "ordeñar"
+:::::::दुह् 2 U "ordeñar"
 
 *   tema fuerte del presente: doh-
 *   tema débil del presente: duh-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -93,20 +81,16 @@ Otros ejemplos:
 | 3\. sg. Pres. Ā | दुग्धे (« duh- + -te) |
 | 3\. pl. Pres. Ā | दुहते (duh-ate) |
 
-:::
-
-::::
-
-हन् 2 P "golpear, matar, asesinar"
+:::::::हन् 2 P "golpear, matar, asesinar"
 
 *   tema fuerte del presente: han-
 *   tema débil del presente:
     *   antes de consonante: ha- (« \*hn-)
     *   antes de vocal: ghn-/han-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -115,29 +99,21 @@ Otros ejemplos:
 | 3\. sg. Pres. Ā | हते (ha-te) |
 | 3\. pl. Pres. Ā | घ्नते (ghn-ate) |
 
-:::
-
-::::
-
-अस् 2 P "ser"
+:::::::अस् 2 P "ser"
 
 *   tema fuerte del presente: as-
 *   tema débil del presente: s-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | अस्ति (as-ti) |
 | 3\. pl. Pres. P | सन्ति (s-anti) |
 
-:::
-
-::::
-
-## 17.3. Raíces de la segunda clase de presente con ablaut de la raíz: grado pleno - grado reducido
+:::::::## 17.3. Raíces de la segunda clase de presente con ablaut de la raíz: grado pleno - grado reducido
 
 Ejemplo:
 
@@ -148,9 +124,9 @@ Ejemplo:
     *   ante consonante: stu-
     *   ante vocal: stuv-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -159,83 +135,61 @@ Ejemplo:
 | 3\. sg. Pres. Ā | स्तुते (stu-te) |
 | 3\. pl. Pres. Ā | स्तुवते (stuv-ate) |
 
-:::
+:::::::## 17.4. Raíces de la segunda clase de presente sin ablaut de raíz
 
-::::
-
-## 17.4. Raíces de la segunda clase de presente sin ablaut de raíz
-
-::: grammar-box
+:::grammar-box
 Sin ablaut de raíz, las raíces de la segunda clase de presente terminan en -ā
-:::
-
-Ejemplo:
+:::Ejemplo:
 
 पा 2 P "proteger, guardar, custodiar"
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | पाति (pā-ti) |
 | 3\. pl. Pres. P | पान्ति (« pā- + -anti) |
 
-:::
-
-::::
-
-También algunas otras raíces de la segunda clase no tienen ablaut de raíz:
+:::::::También algunas otras raíces de la segunda clase no tienen ablaut de raíz:
 
 Ejemplos:
 
 अद् 2 P "comer"
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | अत्ति (« ad- + -ti) |
 | 3\. pl. Pres. P | अदन्ति (ad-anti) |
 
-:::
+:::::::आस् 2 Ā "sentarse"
 
-::::
+::::grammar-box
 
-आस् 2 Ā "sentarse"
-
-:::: grammar-box
-
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. Ā | आस्ते (ās-te) |
 | 3\. pl. Pres. Ā | आसते (ās-ate) |
 
-:::
+:::::::वच् 2 P "decir"
 
-::::
+::::grammar-box
 
-वच् 2 P "decir"
-
-:::: grammar-box
-
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | वक्ति (« vac- + -ti) |
 | 3\. pl. Pres. P | no ocurre |
 
-:::
-
-::::
-
-## 17.5. Raíces bisílabas en -i/-ī con ablaut de raíz
+:::::::## 17.5. Raíces bisílabas en -i/-ī con ablaut de raíz
 
 Varias raíces son bisílabas en una serie de formas, es decir, tienen una -i (respectivamente -ī antes de algunas terminaciones) antes de una terminación consonántica. Sin embargo, estos raíces son consideradas por los gramáticos nativos y en diccionarios, etc., como monosílabas.
 
@@ -248,29 +202,25 @@ Ejemplos:
     *   antes de consonante: rudi-
     *   antes de vocal: rud-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | रोदिति (rodi-ti) |
 | 3\. pl. Pres. P | रुदन्ति (rud-anti) |
 
-:::
-
-::::
-
-ब्रू 2 U "hablar"
+:::::::ब्रू 2 U "hablar"
 
 *   raíz presente fuerte: bravī- (« bro- + -ī)
 *   raíz presente débil:
     *   vor Konsonant: brū-
     *   antes de vocal: bruv-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -279,87 +229,62 @@ Ejemplos:
 | 3\. sg. Pres. Ā | ब्रूते (brū-te) |
 | 3\. pl. Pres. Ā | ब्रुवते (bruv-ate) |
 
-:::
+:::::::También स्तु 2 U "alabar" tiene, además de las formas indicadas bajo 3., formas según este patrón:
 
-::::
+::::grammar-box
 
-También स्तु 2 U "alabar" tiene, además de las formas indicadas bajo 3., formas según este patrón:
-
-:::: grammar-box
-
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | स्तवीति (« sto + ī + ti)[[br]]o: स्तौति |
 
-:::
-
-::::
-
-## 17.6. Lista de palabras
+:::::::## 17.6. Lista de palabras
 
 हन् 2 P हन्ति, घ्नन्ति Pass. हन्यते  PPP हत : golpear, matar, asesinar
 
 de ello:
 
-::: indent
+:::indent
 घात m.: muerte
-:::
-
-::: media
+::::::media
 ![](/images/lekt1703.webp)
 Fig.: घाताः
 Bangalore = ಬೆಂಗಳೂರು
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1703))
-:::
-
-
-आस् 2Ā आस्ते Pass. आस्यते PPP आसित : sentarse
+:::आस् 2Ā आस्ते Pass. आस्यते PPP आसित : sentarse
 
 de ello:
 
-::: indent
+:::indent
 आसन n.: el sentarse, asiento ; también: posturas de asiento del yogui
-:::
-
-::: media
+::::::media
 ![](/images/lekt1701.webp)
 Fig.: योगासनम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1701))
-:::
-
-
-रुद् 2 P रोदिति Pass. रुद्यते PPP रुदित : llorar, aullar
+:::रुद् 2 P रोदिति Pass. रुद्यते PPP रुदित : llorar, aullar
 
 de ello:
 
-::: indent
+:::indent
 रुद्र m.: (el aullador =) el dios de la tormenta Rudra
-:::
-
-ब्रू 2 U ब्रवीति Ā ब्रूते sin Pasivo y PPP: hablar, decir (algo a alguien: acusativo doble)
+:::ब्रू 2 U ब्रवीति Ā ब्रूते sin Pasivo y PPP: hablar, decir (algo a alguien: acusativo doble)
 
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : ordeñar
 
-::: media
+:::media
 ![](/images/lekt1702.webp)
 Fig.: दोग्धि
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1702))
-:::
- 
-
-दिश् 6 U दिशति Pass. दिश्यते PPP दिष्ट : mostrar, indicar, ordenar
+:::दिश् 6 U दिशति Pass. दिश्यते PPP दिष्ट : mostrar, indicar, ordenar
 
 de ello:
 
-::: indent
+:::indent
 दिष्टि f.: instrucción, giro favorable
 
 दिष्ट्या Instr.: (literalmente: por un giro favorable) ¡Oh giro favorable! (exclamación de alegría y dicha)
-:::
-
-## 17.7. Ejercicio 1
+:::## 17.7. Ejercicio 1
 
 A) Inserte el verbo en las siguientes oraciones y traduzca:
 
@@ -481,7 +406,7 @@ Traduzca las siguientes formas verbales e indique la raíz correspondiente:
 
 ४६. दिश्यन्ते
 
-::: deleteme-box
+:::deleteme-box
 
 
 **lekt1701:** [Fuente de la imagen: de tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Acceso el 2008-12-07. -- Licencia Creative Commons (Atribución, sin obras derivadas)]

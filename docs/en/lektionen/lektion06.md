@@ -9,7 +9,7 @@ status: stable
 
 # Lesson 6
 
-::: deleteme-box
+:::deleteme-box
 **In this lesson, you will learn:**
 - The structure of the verbal sentence (agent and verbal form)
 - The formation of verbal forms (Parasmaipada, Ātmanepada, Passive)
@@ -17,19 +17,15 @@ status: stable
 - Indicative Present (laṭ) and the primary endings of the 3rd person
 - The formation of the present stem (Classes 1, 4, and 6)
 - The sound gradation (Ablaut: Guṇa and Vṛddhi)
-:::
+:::## 6.1. The Verbal Sentence
 
-## 6.1. The Verbal Sentence
-
-::: grammar-box
+:::grammar-box
 **Schema I: Verb form**
 - e.g. **yajati** = यजति = "He (she, it) venerates with a sacrifice", "He (she, it) sacrifices"
 
 **Schema II: Agent (kartṛ m. = कर्तृ) – Verb form**
 - e.g. **rāmo yajati** = रामो यजति = "Rāma venerates with a sacrifice", "Rāma sacrifices"
-:::
-
-When the agent (**kartṛ** m. = कर्तृ) is mentioned in a verbal sentence that is not in the passive voice, the agent is in the **nominative** (first case, prathamā = प्रथमा). In the number (vacana n. = वचन), the agent and the verb form agree.
+:::When the agent (**kartṛ** m. = कर्तृ) is mentioned in a verbal sentence that is not in the passive voice, the agent is in the **nominative** (first case, prathamā = प्रथमा). In the number (vacana n. = वचन), the agent and the verb form agree.
 
 ---
 
@@ -70,11 +66,9 @@ A finite verbal form, i.e., a verbal form with personal ending, expresses in San
 
 The present tense is the tense of the present, particularly also of duration.
 
-::: grammar-box
+:::grammar-box
 **The Indicative (declarative) Present is formed by adding the so-called primary endings to the present stem.**
-:::
-
-Examples:
+:::Examples:
 
 | Root (dhātu) | Present stem | 3rd person singular Indicative Present Parasmaipada |
 | :--- | :--- | :--- |
@@ -86,14 +80,12 @@ Examples:
 
 ## 6.4. Primary endings of the third person (prathama m. = प्रथम = "first (!) person")
 
-::: grammar-box
+:::grammar-box
 | | Singular (singular number)[[br]]ekavacana n.[[br]]एकवचन | Plural (plural number)[[br]]bahuvacana n.[[br]]बहुवचन |
 | :--- | :--- | :--- |
 | **Parasmaipada n.**[[br]]परस्मैपद | **-ti**[[br]]-ति | **-nti**[[br]]-न्ति |
 | **Ātmanepada n.**[[br]]आत्मनेपद | **-te**[[br]]-ते | **-nte**[[br]]-न्ते |
-:::
-
-Example **yaj** = यज् = "to honor with a sacrifice", "to sacrifice":
+:::Example **yaj** = यज् = "to honor with a sacrifice", "to sacrifice":
 - Present stem: **yaja** = यज
 - 3. sg. P. **yajati** = यजति
 - 3. pl. P. **yajanti** = यजन्ति
@@ -106,18 +98,16 @@ Example **yaj** = यज् = "to honor with a sacrifice", "to sacrifice":
 
 ### 6.5.1. Verbs of the 6th Present Class (tudādi = तुदादि = "tud etc.")
 
-::: grammar-box
+:::grammar-box
 **Present Stem = Root in guṇa grade (as listed) + a-**
 
 | Root (dhātu m.)[[br]]धातु | Present Stem |
 | :--- | :--- |
 | **viś**[[br]]विश् | **viśa-**[[br]]विश- |
 | **sṛj**[[br]]सृज् | **sṛja-**[[br]]सृज- |
-:::
+:::### 6.5.2. Verbs of the 1st Present Class (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū etc.")
 
-### 6.5.2. Verbs of the 1st Present Class (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū etc.")
-
-::: grammar-box
+:::grammar-box
 | Present Stem = Root in strong grade (rarely in guṇa grade) + a- ||||
 | Root (dhātu m.)[[br]]धातु | Strong Grade | Strong Grade before a- | Present Stem |
 | :--- | :--- | :--- | :--- |
@@ -127,14 +117,12 @@ Example **yaj** = यज् = "to honor with a sacrifice", "to sacrifice":
 | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaja-**[[br]]यज- |
 | If the vowel is in a long closed syllable, i.e., a short vowel before two or more consonants, the formation of the strong grade is omitted ||||
 | **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **ninda-**[[br]]निन्द- |
-:::
-
-#### 6.5.2.1. Word Sandhi of e and o
+:::#### 6.5.2.1. Word Sandhi of e and o
 Within words, before vowels, **e** is replaced by **ay**, **o** by **av**.
 
 #### 6.5.2.2. Sound Gradation (Ablaut)
 
-::: grammar-box
+:::grammar-box
 | Low Grade[[br]]Zero Grade | Strong Grade[[br]]Full Grade[[br]]Guṇa m.[[br]]गुण | Extended Grade[[br]]Vṛddhi f.[[br]]वृद्धि |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -142,11 +130,9 @@ Within words, before vowels, **e** is replaced by **ay**, **o** by **av**.
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
-:::
+:::### 6.5.3. Verbs of the 4th Present Class (divādi = दिवादि = "div etc.")
 
-### 6.5.3. Verbs of the 4th Present Class (divādi = दिवादि = "div etc.")
-
-::: grammar-box
+:::grammar-box
 **Present Stem = Root in guṇa grade (as listed) + ya-**
 
 | Root (dhātu m.)[[br]]धातु | Present Stem |
@@ -155,40 +141,32 @@ Within words, before vowels, **e** is replaced by **ay**, **o** by **av**.
 | **muh**[[br]]मुह् | **muhya-**[[br]]मुह्य- |
 | **yudh**[[br]]युध् | **yudhya-**[[br]]युध्य- |
 | **man**[[br]]मन् | **manya-**[[br]]मन्य- |
-:::
+:::### 6.5.4. Theme Vowel, Thematic Present Classes
 
-### 6.5.4. Theme Vowel, Thematic Present Classes
-
-::: grammar-box
+:::grammar-box
 The **a** in the stem-forming suffixes of present classes is called the **theme vowel**. Present classes with **a** in the stem-forming suffix are therefore called "thematic present classes."
-:::
-
----
+:::---
 
 ## 6.6. Spoken Sanskrit: Further Questions (praśna m. = प्रश्न)
 
-::: grammar-box
+:::grammar-box
 - **N. N. kiṃ karoti?** = N.N. किं करोति = "What does N. N. do?"
 - **N. N. (plural) kiṃ kurvanti?** = N.N. किं कुर्वन्ति = "What do the N.N.s do?"
 - (karoti, kurvanti to **kṛ** = कृ 8 U: "to do, to make")
 - **kiṃ kuśalam?** = किं कुशलम् = "Are you well?, How are you?"
 - Answer: **sarvathā kuśalam** = सर्वथा कुशलम् = "(It is going) well in every respect."
-:::
-
----
+:::---
 
 ## 6.7. Word List
 
-::: grammar-box
+:::grammar-box
 In Sanskrit, verbs are listed in the **root form**. The number following the root indicates the **conjugation class**.
 
 - **P:** Root is Parasmaipada only
 - **Ā:** Root is Ātmanepada only
 - **U:** Ubhayapada ("both forms"): Root is used in both Parasmaipada and Ātmanepada.
 - **():** In parentheses is the 3rd person singular present indicative (laṭ).
-:::
-
-**Learn the following words:**
+:::**Learn the following words:**
 - **yaj** 1 U (yajati) यज् यजति : to honor with a sacrifice, to sacrifice
 - **bhū** 1 P (bhavati) भू भवति : to become, to arise, to be
 - **smṛ** 1 P (smarati) स्मृ स्मरति : to bring to mind, to remember
@@ -231,14 +209,12 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 12. Who (fem.) dances?
 13. The (mentioned) Brahmin woman dances.
 
-::: media
+:::media
 ![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
 (Image source: Wikipedia, CC-BY-SA 2.5)
-:::
-
----
+:::---
 
 ## 6.9. Review Exercise
 
@@ -311,13 +287,11 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 2. Durgā is a goddess.
 3. Mīnākṣī is a goddess.
 
-::: media
+:::media
 ![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Mīnākṣī Temple, Madurai, Tamil Nadu
 (Image source: Wikipedia, Public domain)
-:::
-
-4. They are confused.
+:::4. They are confused.
 5. Rāma is a holy man.
 6. Who is the LORD?
 7. Indra is the LORD.

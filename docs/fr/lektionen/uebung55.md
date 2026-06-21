@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Déterminez et traduisez les formes suivantes, puis formez les formes correspondantes de **l’aoriste en a** :
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung / Bedeutung | a-Aorist |
 |:---|:---|:---|:---|
 | १. | **दोक्ष्यन्ति** | *दुष्* 4P: 3. Pl. Fut. P. (sie werden verderben) | **अदुषन्** |
@@ -46,9 +46,7 @@ Déterminez et traduisez les formes suivantes, puis formez les formes correspond
 | ३१. | **अशुष्याम** | *शुष्* 4P: 1. Pl. Impf. P. (wir wurden trocken) | **अशुषाम** |
 | ३२. | **सिष्णेह** | *स्निह्* 4P: 1. 3. Sg. Perf. P. (ich liebte / er liebte) | **अस्निहम् / अस्निहत्** |
 
-:::
-
-::: media
+::::::media
 ![](/images/uebung092.webp)
 Fig. : अशोभथाः । अशुभः
 (Source de l'image : [Détails](/fr/licenses#uebung092))

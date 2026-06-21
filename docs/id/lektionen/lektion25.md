@@ -11,24 +11,19 @@ status: stable
 
 ## 25.1. Formation of the Ablative (पञ्चमी = "fifth case ending")
 
-::: grammar-box
+:::grammar-box
 Except for masculines/neutrons ending in -a and the pronouns, in the singular, in all declension classes, the forms of the ablative (पञ्चमी) are identical to those of the genitive (षष्ठी).
 
 Except for the personal pronouns, in all declensions, in the plural, the forms of the ablative are identical to those of the dative (चतुर्थी).
-:::
+:::Now you recognize the reason for the order of the cases (विभक्ति) in Sanskrit: they are arranged so that identical forms stand as close together - or under each other - as possible.
 
-Now you recognize the reason for the order of the cases (विभक्ति) in Sanskrit: they are arranged so that identical forms stand as close together - or under each other - as possible.
-
-::: grammar-box
+:::grammar-box
 **Ablative singular of masculines/neutrons ending in -a**
 
 - **deva** (देव) → **devāt** (देवात्)
-:::
+:::Interrogative, relative, and demonstrative pronouns:
 
-
-Interrogative, relative, and demonstrative pronouns:
-
-:::: grammar-box
+::::grammar-box
 
 | | Ablative singular[[br]]Masculine / Neuter | Ablative singular[[br]]Feminine |
 | :--- | :--- | :--- |
@@ -38,9 +33,7 @@ Interrogative, relative, and demonstrative pronouns:
 | **एतद्** | **etasmāt**[[br]](एतस्मात्) | **etasyāḥ**[[br]](एतस्याः) |
 | **इदम्** | **asmāt**[[br]](अस्मात्) | **asyāḥ**[[br]](अस्याः) |
 
-::::
-
-## 25.2. Use of the Ablative (पञ्चमी)
+::::## 25.2. Use of the Ablative (पञ्चमी)
 
 "The ablative denotes that which remains fixed when something departs from it."
 
@@ -48,85 +41,63 @@ Pāṇini 2,3,28 + 1,4,24
 
 The ablative is primarily used in response to the questions "From where?", "Why?".
 
-::: grammar-box
+:::grammar-box
 1\. The ablative thus denotes the starting point, origin, and material.
 
 The ablative can therefore also denote the person from whom one buys, hears, wishes, etc.
-:::
+:::Examples:
 
-Examples:
-
-::: indent
+:::indent
 ग्रमादागच्छति = "He comes from the village"
 
 अश्वात्पतितः = "fallen from the horse"
 
 तेभ्यो लब्धम् = "received from them (here)"
-:::
+:::Examples:
 
-Examples:
-
-::: indent
+:::indent
 गुरोर्धर्मं शृणोति = "he hears from the teacher about the Dharma"
 
 ब्राह्मणः क्षत्रियाद्धेनुमिच्छति = "the Brahmin wishes from the Kṣatriya a milk cow"
-:::
-
-::: grammar-box
+::::::grammar-box
 2\. The ablative is used with verbs meaning "to abstain from", "to protect from", "to defend against", "to fear":
-:::
+:::Example:
 
-Example:
-
-::: indent
+:::indent
 अरिभ्यो रक्षति = "he protects from the enemies"
-:::
-
-::: grammar-box
+::::::grammar-box
 3\. The ablative denotes the reason or cause:
-:::
+:::Examples:
 
-Examples:
-
-::: indent
+:::indent
 क्रोधात्पुत्रं हन्ति = "He kills his son out of anger"
 
 कृतपापत्वान्नरकं गच्छति = "Because he has done evil, he goes to hell" (« Because he is one through whom evil was done)
 
 पापकरणान्नरकं गच्छति = "Because he does/has done evil, he goes to hell"
-:::
-
-Nouns that are not feminine can, in order to denote the reason for an action, stand in the instrumental (तृतीया) or ablative (पञ्चमी). Feminine nouns stand in this sense usually in the instrumental, but can occasionally also stand in the ablative.
+:::Nouns that are not feminine can, in order to denote the reason for an action, stand in the instrumental (तृतीया) or ablative (पञ्चमी). Feminine nouns stand in this sense usually in the instrumental, but can occasionally also stand in the ablative.
 
 ## 25.3. The Suffix -तस्
 
-::: grammar-box
+:::grammar-box
 If one wants to express in the singular (unambiguously) that the word is used in an ablative sense, one can attach the suffix -तस् to the word stem, which forms adverbs with mostly ablative meaning (answering the question "From where?"):
-:::
+:::Examples:
 
-Examples:
-
-::: indent
+:::indent
 आदितस् = "from the beginning"
 
 धर्मतस् = "on account of Dharma, because of Dharma"
-:::
-
-::: grammar-box
+::::::grammar-box
 The suffix -तस् also occurs with pronominal stems:
-:::
-
-::: indent
+::::::indent
 तद् : ततस् (« ta-tas) "from there, there, thither, upon that, then, therefore"
 
 यद् : यतस् "from which, of which, from where, where, whither, why, because" (relative)
 
 किम् :  कुतस् "from where?" "why?"
-:::
+:::## 25.4. Other Ways to Express Reasons
 
-## 25.4. Other Ways to Express Reasons
-
-::: grammar-box
+:::grammar-box
 **1\. Relative Clauses**
 
 Relative clauses often express a causal (reasoning), consequential (following), or final (purposeful) relationship to the main clause.
@@ -138,39 +109,27 @@ Forms of the relative pronoun that serve as causal conjunctions:
     *   यस्मात् ... subordinate clause ... तस्मात् ... main clause ... = "because ..., therefore ..."
 *   instrumental:
     *   येन ... subordinate clause ... तेन ... main clause ... = "by which/because ..., thereby / therefore ..."
-:::
+:::Example:
 
-Example:
-
-::: indent
+:::indent
 यतो (यस्माद् / येन) धर्ममिच्छति \[ततो (तस्माद् / तेन)\] रामो व्रतं चरति = "Because Rāma desires prosperity, he practices the vow"
-:::
-
-::: grammar-box
+::::::grammar-box
 **2\. हि**
 
 Main clauses can be linked to one another using the particle हि "for, because". A sentence with हि (which must not stand in first place, but must stand in second place in prose) indicates a reason either for the preceding sentence or for the following sentence:
-:::
+:::Example:
 
-Example:
-
-::: indent
+:::indent
 जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति = "People do meritorious deeds. For they wish to enter heaven."
-:::
-
-::: grammar-box
+::::::grammar-box
 **3\. Instrumental (तृतीया)**
 
 In addition to the ablative (पञ्चमी), the instrumental (तृतीया) is used to indicate the reason or cause. With feminine nouns, the instrumental is generally obligatory.
-:::
+:::Example:
 
-Example:
-
-::: indent
+:::indent
 क्रोधेन पुत्रं हन्ति = "He kills his son out of anger" = "He kills his son in anger"
-:::
-
-::: grammar-box
+::::::grammar-box
 **4\. Nouns**
 
 Furthermore, reasons can of course also be expressed through constructions with
@@ -180,31 +139,23 @@ Furthermore, reasons can of course also be expressed through constructions with
 *   other nouns meaning "cause"
 
 + Genitive (षष्ठी) or as the second member of compounds:
-:::
+:::Example:
 
-Example:
-
-::: indent
+:::indent
 पुण्यस्य कारणात् (हेतोः et cetera) = "on account of merit"
-:::
-
-::: grammar-box
+::::::grammar-box
 **5\. इति**
 
 The motive for an action can be expressed as a thought with इति:
-:::
+:::Example:
 
-Example:
-
-::: indent
+:::indent
 सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति  = "Because the Sugata has fully awakened to the truth, Ānanda asks Gautama about his teaching" (« "Thinking "The Sugata has fully awakened to the truth" ...)
-:::
-
-## 25.5. Word List
+:::## 25.5. Word List
 
 त्यज् 1P त्यजति  leave, abandon, forsake
 
-::: indent
+:::indent
 Fut. त्यक्ष्यति  
 Pass. त्यज्यते  
 PPP त्यक्त  
@@ -214,24 +165,19 @@ Absol. 2: -त्यज्य
 therefrom:
 
 त्याग m.: abandonment, renunciation, avoidance
-:::
-
-दार m. pl. (!!!): wife
+:::दार m. pl. (!!!): wife
 
 द्रव्य n.: object, property, material possession, money
 
 धान्य n.: threshed grain
 
-::: media
+:::media
 ![](/images/lekt2501.webp)
 Fig.: धान्यम्
 (Image source: [Details](/en/licenses#lekt2501))
-:::
+:::धृ 1U धरति : hold, keep firm
 
-
-धृ 1U धरति : hold, keep firm
-
-::: indent
+:::indent
 Fut. धरिष्यति  
 Pass. ध्रियते  
 PPP धृत  
@@ -241,21 +187,17 @@ Absol. 2: -धृत्य
 therefrom:
 
 धर्म m.: that which is firm and holds firm = Dharma
-:::
+:::नित्य ३ : constant, steadfast, eternal
 
-नित्य ३ : constant, steadfast, eternal
-
-::: indent
+:::indent
 नित्यम् Adv.: always, constantly, ever
-:::
-
-प्रज्ञा f.:  wisdom, knowledge
+:::प्रज्ञा f.:  wisdom, knowledge
 
 प्रदान n.: giving, donating; gift, donation
 
 मद् 4 P माद्यति (!) : rejoice, be intoxicated by something (Instr., Gen., Loc.)
 
-::: indent
+:::indent
 Fut. मदिष्यति  
 Pass. मद्यते  
 PPP मत्त  
@@ -264,9 +206,7 @@ Inf. मदितुम्
 therefrom:
 
 मद m.: intoxication, sensual intoxication = sensual pleasure
-:::
-
-मान m.: assessment, reputation, fame, honor, pride, conceit, sense of inferiority; (one measures oneself against others)
+:::मान m.: assessment, reputation, fame, honor, pride, conceit, sense of inferiority; (one measures oneself against others)
 
 यदि Conjunction: if
 
@@ -276,20 +216,18 @@ therefrom:
 
 या 2P याति, यान्ति = गम्
 
-::: indent
+:::indent
 Pass. यायते  
 PPP यात  
 Inf. यातुम्  
 Absol. 2: -याय
-:::
-
-दारिद्र्य n. = दरिद्रस्य भावः
+:::दारिद्र्य n. = दरिद्रस्य भावः
 
 प्रदान n. = दान
 
 शास् 2P शास्ति, शासति (3. pl.) : command, teach, punish
 
-::: indent
+:::indent
 Pass. शिष्यते  
 PPP शिष्ट ३ : taught  
 Absol 1.: शासित्वा / शिष्त्वा
@@ -297,9 +235,7 @@ Absol 1.: शासित्वा / शिष्त्वा
 therefrom:
 
 शिक्षा f.: science, instruction; phonetics
-:::
-
-स्तेन m.: thief
+:::स्तेन m.: thief
 
 स्तेय n.: theft
 
@@ -309,16 +245,13 @@ therefrom:
 
 मूल n.: root
 
-::: media
+:::media
 ![](/images/lekt2502.webp)
 Fig.: मूलानि
 (Image source: [Details](/en/licenses#lekt2502))
-:::
+:::लिप् 6U लिम्पति (!): anoint, smear
 
-
-लिप् 6U लिम्पति (!): anoint, smear
-
-::: indent
+:::indent
 Fut. लेप्स्यति  
 Pass. लिप्यते  
 PPP लिप्त  
@@ -327,20 +260,15 @@ Inf. लेप्तुम्
 therefrom:
 
 लिप्ति f.: anointing, writing, script
-:::
-
-::: media
+::::::media
 ![](/images/lekt2503.webp)
 Fig.: लिप्तिः
 (Image source: [Details](/en/licenses#lekt2503))
-:::
-
-
-वर्ष n.,m.: rain, rainy season, year
+:::वर्ष n.,m.: rain, rainy season, year
 
 वह् 1U वहति : lead, drive, blow (wind)
 
-::: indent
+:::indent
 Fut. वक्ष्यति  
 Pass. उह्यते  
 PPP ऊढ  
@@ -352,37 +280,27 @@ Absol 2: -उह्य
 therefrom:
 
 विवाह m.: leading away, marriage of a woman (Instr., saha) (for marriage see Basham, Wonder pp. 166-171)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2504.webp)
 Fig.: विवाहः
 (Image source: [Details](/en/licenses#lekt2504))
-:::
+:::नी + वि 1U विनयति : lead away, instruct, educate
 
-
-नी + वि 1U विनयति : lead away, instruct, educate
-
-::: indent
+:::indent
 therefrom:
 
 विनय m.: removal, education, discipline, Buddhist: monastic discipline, monastic law
-:::
-
-विज्ञान n.: knowledge, cognition
+:::विज्ञान n.: knowledge, cognition
 
 विष्टि f.: work, corvée
 
-::: media
+:::media
 ![](/images/lekt2505.webp)
 Fig.: विष्टिः
 (Image source: [Details](/en/licenses#lekt2505))
-:::
+:::वृध् 1Ā वर्धते : grow, become larger
 
-
-वृध् 1Ā वर्धते : grow, become larger
-
-::: indent
+:::indent
 Fut. वर्धिष्यते  
 Pass. वृध्यते  
 PPP वृद्ध : grown up, old, increased  
@@ -391,9 +309,7 @@ Inf. वर्धितुम्
 of:
 
 वृद्धि f.: growth, increase, gradation (from: vṛdh-ti)
-:::
-
-सामर्थ्य n.: that which corresponds to its purpose
+:::सामर्थ्य n.: that which corresponds to its purpose
 
 स्वभाव m.: being, nature, character
 
@@ -401,14 +317,11 @@ of:
 
 हिरण्य ३ : golden ; n.: gold, money, wealth
 
-::: media
+:::media
 ![](/images/lekt2506.webp)
 Fig.: हिरण्यम्
 (Image source: [Details](/en/licenses#lekt2506))
-:::
-
-
-अणु ३ : thin, fine, very small ; m.: atom
+:::अणु ३ : thin, fine, very small ; m.: atom
 
 गोदान n.: giving of cows / of a cow; second hair-cutting ceremony (a संस्कार)
 
@@ -460,23 +373,19 @@ B) Translate and resolve the compounds in Sanskrit:
 
 लोकादधिको हरिः ॥१७॥ (हरi m. = विष्णु / कृष्ण)
 
-::: media
+:::media
 ![](/images/lekt2507.webp)
 Fig.: लोकादधिको हरिः
-:::
-
-## 25.7. सुभाषितानि
+:::## 25.7. सुभाषितानि
 
 यतो यतो निवर्तते  
 ततस्ततो विमुच्यते ।  
 निवर्तनाद्धि सर्वतो  
 न वेत्ति दुःखमण्वपि ॥१॥
 
-::: indent
+:::indent
 Explanation: सर्वतस् = sarva "every, all" + -tas ; अणु = Nom., Acc. sg. neuter.
-:::
-
-मानाद्वा यदि वा लोभात्  
+:::मानाद्वा यदि वा लोभात्  
 क्रोधाद्वा यदि वा भयात् ।  
 यो न्यायमन्यथा ब्रूते  
 स याति नरकं नरः ॥२॥
@@ -490,11 +399,9 @@ Explanation: सर्वतस् = sarva "every, all" + -tas ; अणु = Nom
 अशासित्वा तु तं राजा  
 स्तेनस्याप्नोति किल्बिषम् ॥मनुस्मृति ८.३१६॥ ॥४॥
 
-::: indent
+:::indent
 Explanation: राजा = Nom. sg. from राजन् m. = नृप
-:::
-
-## 25.8. Translation Exercise
+:::## 25.8. Translation Exercise
 
 1\. कौटिलीयार्थशास्त्र १.४.१ on the benefits of economics:
 

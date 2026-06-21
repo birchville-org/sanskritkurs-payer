@@ -11,7 +11,7 @@ status: stable
 
 ## 40.1. सुभाषितानि
 
-::: indent
+:::indent
 विद्या ददाति विनयं  
 विनयाद्याति पात्रताम् ।  
 पात्रत्वाद्धनमाप्नोति  
@@ -26,28 +26,22 @@ status: stable
 पादं शिष्यः स्वमेधया ।  
 पादं सब्रह्मचारिभ्यः  
 पादं कालक्रमेण च ॥३॥
-:::
-
-::: media
+::::::media
 ![lekt4005.jpg](/images/lekt4005.webp)
 Fig.: पादं सब्रह्मचारिभ्यः
 (Image source: [Details](/en/licenses#lekt4005))
-:::
-
-## 40.2. Formation of the first person perfect verb forms (लिट्)
+:::## 40.2. Formation of the first person perfect verb forms (लिट्)
 
 Endings of the first person (तृतीयः) in the perfect (लिट्)
 
-:::: grammar-box
+::::grammar-box
 
 | **परस्मैपदम्** | ← | **आत्मनेपदम्** | ← |
 | :---: | :---: | :---: | :---: |
 | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **-a** | **-ma** | **-e** | **-mahe** |
 
-::::
-
-::: grammar-box
+:::::::grammar-box
 Note that the endings of the 1st person singular P,Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except Type III(a,b) and Type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā.
 
 In Type IV, the 1st sg. P ends like the 3rd sg. P in -au.
@@ -55,9 +49,7 @@ In Type IV, the 1st sg. P ends like the 3rd sg. P in -au.
 In perfect types III and V, the 1st singular Ā is always identical to the 3rd singular Ā.
 
 In perfect types III and V, the 1st singular P and the 3rd singular P are optionally identical: the 3rd sg. P must always be in the guṇa grade for these formation types, while the 1st sg. P can optionally be in the strong grade or the guṇa grade.
-:::
-
-::: grammar-box
+::::::grammar-box
 Before consonant-initial endings, the connecting vowel -i- occurs with the majority of roots.
 
 Except before the ending -re, before which -i- must always occur, the connecting vowel before consonant-initial endings never occurs with eight roots ending in -ṛ or -u, namely
@@ -72,9 +64,7 @@ Except before the ending -re, before which -i- must always occur, the connecting
 8.  स्रु 1P "to flow"
 
 With so-called optional अनिट्-roots, the connecting vowel may optionally be inserted or not. (List of these roots in Kielhorn, Grammar p. 92 § 298b,2,3)
-:::
-
-### 40.2.1. Perfect Type I: no stem gradation
+:::### 40.2.1. Perfect Type I: no stem gradation
 
 1.sg. = 3.sg.
 
@@ -87,33 +77,25 @@ Verbs that follow this type:
 
 बन्ध् 9P
 
-::: indent
+:::indent
 *   1.sg.P बबन्ध
 *   1.pl.P बबन्धिम
-:::
+:::जीव् 1P
 
-जीव् 1P
-
-::: indent
+:::indent
 *   1.sg.P जिजीव
 *   1.pl.P जिजिविम
-:::
+:::अश् 5Ā
 
-अश् 5Ā
-
-::: indent
+:::indent
 *   1.sg.Ā आनशे
 *   1.pl.Ā आनशिमहे
-:::
+:::अस् 2P and अस् 4P
 
-अस् 2P and अस् 4P
-
-::: indent
+:::indent
 *   1.sg.P आस
 *   1.pl.P आसिम (a + as-i-ma)
-:::
-
-### 40.2.2. Perfect Type II: strong stem in strong grade, weak stem in weak grade
+:::### 40.2.2. Perfect Type II: strong stem in strong grade, weak stem in weak grade
 
 Verbs that follow this type:
 
@@ -121,7 +103,7 @@ Verbs that follow this type:
 
 भिद् 7U
 
-::: indent
+:::indent
 *   1.sg.P बिभेद
     
 *   1.pl.P बिभिदिम
@@ -129,17 +111,13 @@ Verbs that follow this type:
 *   1.sg.Ā बिभिदे
     
 *   1.pl.Ā बिभिदिमहे
-:::
+:::मुह् 4P optionally अनिट्
 
-मुह् 4P optionally अनिट्
-
-::: indent
+:::indent
 *   1.sg.P मुमोह
     
 *   1.pl.P मुमुहिम । मुमुह्म
-:::
-
-### 40.2.3. Perfect Type III: Strong Stem High Grade/Lengthened Grade
+:::### 40.2.3. Perfect Type III: Strong Stem High Grade/Lengthened Grade
 
 1.sg.P optionally high grade or lengthened grade
 
@@ -152,15 +130,13 @@ Verbs that follow this type:
 
 इ 2P
 
-::: indent
+:::indent
 *   1.sg.P इयाय । इयय (i+e+a)
     
 *   1.pl.P ईयिम (i+iy+i+ma)
-:::
+:::नी 1U
 
-नी 1U
-
-::: indent
+:::indent
 *   1.sg.P निनाय । निनय
     
 *   1.pl.P निन्यिम (ni-nī + i + ma !!!)
@@ -168,11 +144,9 @@ Verbs that follow this type:
 *   1.sg.Ā निन्ये
     
 *   1.pl.Ā निन्यिमहे
-:::
+:::स्तु 2U strictly अनिट्
 
-स्तु 2U strictly अनिट्
-
-::: indent
+:::indent
 *   1.sg.P तुष्टाव । तुष्टव (tu-sto + a)
     
 *   1.pl.P तुष्टुम
@@ -180,11 +154,9 @@ Verbs that follow this type:
 *   1.sg.Ā तुष्टुवे
     
 *   1.pl.Ā तुष्टुमहे
-:::
+:::कृ 8U strictly अनिट्
 
-कृ 8U strictly अनिट्
-
-::: indent
+:::indent
 *   1.sg.P चकार । चकर
     
 *   1.pl.P चकृम
@@ -192,9 +164,7 @@ Verbs that follow this type:
 *   1.sg.Ā चक्रे
     
 *   1.pl.Ā चकृमहे
-:::
-
-#### 40.2.3.2. Perfect Type IIIb: Strong Stem High Grade/Lengthened Grade, Weak Stem High Grade
+:::#### 40.2.3.2. Perfect Type IIIb: Strong Stem High Grade/Lengthened Grade, Weak Stem High Grade
 
 Verbs that follow this type:
 
@@ -203,23 +173,19 @@ Verbs that follow this type:
 
 पॄ 3P
 
-::: indent
+:::indent
 *   1.sg.P पपार । पपर
     
 *   1.pl.P पपरिम
-:::
+:::स्मृ 1P
 
-स्मृ 1P
-
-::: indent
+:::indent
 *   1.sg.P सस्मार । सस्मर
     
 *   1.pl.P सस्मरिम
-:::
+:::संस्कृ 8U
 
-संस्कृ 8U
-
-::: indent
+:::indent
 *   1.sg.P सञ्चस्कार । सञ्चस्कर
     
 *   1.pl.P सञ्चस्करिम
@@ -227,9 +193,7 @@ Verbs that follow this type:
 *   1.sg.Ā सञ्चस्करे
     
 *   1.pl.Ā सञ्चस्करिमहे
-:::
-
-### 40.2.4. Perfect Type IV: Roots ending in -ā / -ai
+:::### 40.2.4. Perfect Type IV: Roots ending in -ā / -ai
 
 *   Strong stem:
     *   1.,3. sg. Parasemaip.: -au
@@ -239,7 +203,7 @@ Verbs that follow this type:
 
 दा 3U
 
-::: indent
+:::indent
 *   1.sg.P ददौ
     
 *   1.pl.P ददिम (da-d-i-ma)
@@ -247,9 +211,7 @@ Verbs that follow this type:
 *   1.sg.Ā ददे
     
 *   1.pl.Ā ददिमहे
-:::
-
-### 40.2.5. Perfect Type V: Consonant-a-Consonant
+:::### 40.2.5. Perfect Type V: Consonant-a-Consonant
 
 1.sg.P. optionally high-grade or lengthened-grade
 
@@ -257,7 +219,7 @@ Verbs that follow this type:
 
 Verbs that follow this type:
 
-::: indent
+:::indent
 1.  gam "to go"
 2.  han (»ghan) "to strike"
 3.  jan "to be born"
@@ -265,43 +227,33 @@ Verbs that follow this type:
 5.  vad "to speak"
 6.  yaj "to sacrifice"
 7.  etc.
-:::
+:::गम् 1P
 
-गम् 1P
-
-::: indent
+:::indent
 *   1.sg.P जगाम । जगम
     
 *   1.pl.P जग्मिम (ja-gm-i-ma)
-:::
+:::हन् 2P
 
-हन् 2P
-
-::: indent
+:::indent
 *   1.sg.P जघान । जघन
     
 *   1.pl.P जघ्निम
-:::
+:::जन् 4Ā
 
-जन् 4Ā
-
-::: indent
+:::indent
 *   1.sg.Ā जज्ञे
     
 *   1.pl.Ā जज्ञिमहे
-:::
+:::वच् 2P
 
-वच् 2P
-
-::: indent
+:::indent
 *   1.sg.P उवाच । उवच
     
 *   1.pl.P ऊचिम (u + uc-ima)
-:::
+:::वद् 1P (Ā)
 
-वद् 1P (Ā)
-
-::: indent
+:::indent
 *   1.sg.P उवाद । उवद
     
 *   1.pl.P ऊदिम
@@ -309,11 +261,9 @@ Verbs that follow this type:
 *   1.sg.Ā ऊदे
     
 *   1.pl.Ā  ऊदिमहे
-:::
+:::यज् 1U
 
-यज् 1U
-
-::: indent
+:::indent
 *   1.sg.P इयाज । इयज
     
 *   1.pl.P ईजिम
@@ -321,13 +271,11 @@ Verbs that follow this type:
 *   1.sg.Ā ईजे
     
 *   1.pl.Ā ईजिमहे
-:::
-
-#### 40.2.5.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
+:::#### 40.2.5.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
 
 पच् 1U
 
-::: indent
+:::indent
 *   1.sg.P पपाच । पपच
     
 *   1.pl.P पेचिम
@@ -335,9 +283,7 @@ Verbs that follow this type:
 *   1.sg.Ā पेचे
     
 *   1.pl.Ā पेचिमहे
-:::
-
-#### 40.2.5.3. Perfect Type Vc: Consonant-a-Consonant, weak stem high-grade
+:::#### 40.2.5.3. Perfect Type Vc: Consonant-a-Consonant, weak stem high-grade
 
 Verbs that follow this type:
 
@@ -345,7 +291,7 @@ Verbs that follow this type:
 
 क्रम् 1U
 
-::: indent
+:::indent
 *   1.sg.P चक्राम । चक्रम
     
 *   1.pl.P चक्रमिम
@@ -353,37 +299,29 @@ Verbs that follow this type:
 *   1.sg.Ā चक्रमे
     
 *   1.pl.Ā चक्रमिमहे
-:::
-
-### 40.2.6. Special Perfect Constructions
+:::### 40.2.6. Special Perfect Constructions
 
 विद् 2nd person present perfect:
 
-::: indent
+:::indent
 *   1.sg.P वेद (= 3.sg.P)
     
 *   1.pl.P विद्म
-:::
-
-अह् 1st person not common!
+:::अह् 1st person not common!
 
 भू 1st person
 
-::: indent
+:::indent
 *   1.sg.P बभूव (= 3.sg.P)
     
 *   1.pl.P बभूविम
-:::
+:::जि 1st person
 
-जि 1st person
-
-::: indent
+:::indent
 *   1.sg.P जिगाय (= 3.sg.P) । जिगय
     
 *   1.pl.P जिग्यिम (ji-gi + i + ma !)
-:::
-
-## 40.3. Formation of the verb forms of the first person of the periphrastic perfect (अनुप्रयोगलिट्)
+:::## 40.3. Formation of the verb forms of the first person of the periphrastic perfect (अनुप्रयोगलिट्)
 
 The periphrastic perfect is formed from:
 
@@ -400,33 +338,25 @@ The periphrastic perfect is formed from:
 
 ईक्ष् 1Ā
 
-::: indent
+:::indent
 *   1.sg.Ā ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव
     
 *   1.pl.Ā ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम
-:::
+:::बन्ध् Causative P: बन्धयति
 
-बन्ध् Causative P: बन्धयति
-
-::: indent
+:::indent
 *   1.sg.P बन्धयां चकर । बन्धयां चकार (= 3.sg.P) । बन्धयामास (= 3.sg.P) । बन्धयां बभूव (= 3.sg.P)
     
 *   1.pl.P बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम
-:::
+:::## 40.4. Syntax regarding the first person (तृतीयः)
 
-## 40.4. Syntax regarding the first person (तृतीयः)
-
-::: grammar-box
+:::grammar-box
 Since a finite verb (conjugated verb) also expresses the agent (कर्तृ), the "I" or "we" in non-passive verbal sentences with a finite verb does not need to be expressed additionally by a personal pronoun.
-:::
+:::## 40.5. Personal Pronouns (पुरुषार्थकसर्वनाम) of the First Person Singular and Plural
 
-## 40.5. Personal Pronouns (पुरुषार्थकसर्वनाम) of the First Person Singular and Plural
-
-::: grammar-box
+:::grammar-box
 The form of the personal pronoun (personal pronoun) is the same for all genders.
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 | | **एकवचनम्**[[br]]"I" | **बहुवचनम्**[[br]]"we" |
 | :---: | :---: | :---: |
@@ -438,34 +368,26 @@ The form of the personal pronoun (personal pronoun) is the same for all genders.
 | **षष्ठी** | **मम** / **मे** | **अस्माकम्** / **नस्** |
 | **सप्तमी** | **मयि** | **अस्मासु** |
 
-::::
-
-::: grammar-box
+:::::::grammar-box
 The shorter forms, which stand in second place above (मा, मे, नस्), must never be used at the beginning of a sentence or verse.
 
 Before the particles च, वा, एव, these so-called enclitic forms may also not be used:
 
 only: ... मां च ... "and me"
-:::
-
-::: grammar-box
+::::::grammar-box
 The genitive (षष्ठी) of the personal pronouns is used as a possessive pronoun:
 
 मम । मे = "my"
 
 अस्माकम् । नस् = "our"
-:::
-
-::: grammar-box
+::::::grammar-box
 As the first member of compounds, the stems for these pronouns are:
 
 *   sg. मद्
 *   pl. अस्मद्
 
 e.g. मत्पुस्तकम् "my book" ; अस्मद्पुस्तकानि "our books"
-:::
-
-## 40.6. Word List
+:::## 40.6. Word List
 
 पात्र n.: Venerable, Master, Worthy One
 
@@ -475,7 +397,7 @@ e.g. मत्पुस्तकम् "my book" ; अस्मद्पुस�
 
 कॢप् 1Ā कल्पते : to be in proper order, to fit (Loc.) ; to take shape, to form ; to resolve to, to condescend to (Dative)
 
-::: indent
+:::indent
 Perf. II चकॢपे optional अनिट्  
 Fut. कल्पिष्यते । कल्प्स्यते  
 Caus. कल्पयति : to put in order, to create, to form in the imagination, to imagine  
@@ -485,30 +407,24 @@ Inf. कल्पितुम् । कल्प्तुम्
 therefrom:
 
 कल्पना f.: The forming in thought, the assumption of something non-existent in reality, fiction
-:::
+:::कॢप् + वि Caus. विकल्पयति : (to imagine differently =) to call into question, to doubt
 
-कॢप् + वि Caus. विकल्पयति : (to imagine differently =) to call into question, to doubt
-
-::: indent
+:::indent
 therefrom:
 
 विक्ल्प m.: Alternative, doubt
-:::
+:::तुद् 6U तुदति : to strike
 
-तुद् 6U तुदति : to strike
-
-::: indent
+:::indent
 Perf. II तुतोद, तुतुदुर्  
 Fut. तोत्स्यति  
 Pass. तुद्यते  
 Caus. तोदयति  
 PPP तुन्न (tud + na)  
 Inf. तोत्तुम्
-:::
+:::तॄ 1P तरति : to cross over, to cross, to save oneself from someone (Acc. = to cross someone)
 
-तॄ 1P तरति : to cross over, to cross, to save oneself from someone (Acc. = to cross someone)
-
-::: indent
+:::indent
 Perf. IIIb ततार, ततरुर् । तेरुर्  
 Fut. तरिष्यति । तरीष्यति  
 Pass. तीर्यते  
@@ -519,43 +435,31 @@ Inf. तरितुम् । तरीतुम्
 therefrom:
 
 तीर्थ n.: Ford, sacred bathing place, pilgrimage site
-:::
-
-::: media
+::::::media
 ![lekt4003.jpg](/images/lekt4003.webp)
 Fig.: हरिद्वारे तीर्थम्
 (Image source: [Details](/en/licenses#lekt4003))
-:::
-
-::: indent
+::::::indent
 तीर्थङ्कर m. (from: तीर्थम्+ कृ): Ford-maker (across suffering) = the 24 teachers of the Jains
-:::
-
-::: media
+::::::media
 ![lekt4002.jpg](/images/lekt4002.webp)
 Fig.: तीर्थङ्करः
 (Image source: [Details](/en/licenses#lekt4002))
-:::
-
-अव Pref.: down, downward, away, off-
+:::अव Pref.: down, downward, away, off-
 
 तॄ + अव 1P अवतरति : to descend
 
-::: indent
+:::indent
 therefrom:
 
 अवतार m.: (Descender, Descent) Incarnation of a god, esp. Viṣṇu's 10 incarnations (see Basham, Wonder pp. 304 - 309)
-:::
-
-::: media
+::::::media
 ![lekt4001.jpg](/images/lekt4001.webp)
 Fig.: विष्णोर्दशावताराः
 (Image source: [Details](/en/licenses#lekt4001))
-:::
+:::स्वप् 2P स्वपिति,  स्वपन्ति : to sleep, to go to sleep
 
-स्वप् 2P स्वपिति,  स्वपन्ति : to sleep, to go to sleep
-
-::: indent
+:::indent
 Impf. अस्वपीत् । अस्वपत्  
 Perf. सुष्वाप, सुषुपुर्  
 Fut. स्वप्स्यति  
@@ -569,15 +473,11 @@ therefrom:
 स्वप्न m.: Sleep, dream
 
 सुप्ति f. (from \*svp-ti): Sleep, esp. deep sleep
-:::
-
-::: media
+::::::media
 ![lekt4004.jpg](/images/lekt4004.webp)
 Fig.: स्वपन्ति
 (Image source: [Details](/en/licenses#lekt4004))
-:::
-
-## 40.7. Exercise
+:::## 40.7. Exercise
 
 A) Translate the सुभाषितानि at the beginning of the lesson.
 
@@ -696,7 +596,7 @@ B) Transform the following verbal forms into the corresponding perfect forms. If
 37.  आह
 38.  आहन्
 
-::: deleteme-box
+:::deleteme-box
 
 - **Image lekt4005.jpg** (Fig.: पादं सब्रह्मचारिभ्यः): Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம் [Image source: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, share alike)]
 - **Image lekt4003.jpg** (Fig.: हरिद्वारे तीर्थम्): [Image source: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Accessed on 2009-01-02. -- Creative Commons license (Attribution)]

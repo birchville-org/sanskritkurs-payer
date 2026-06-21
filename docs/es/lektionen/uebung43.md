@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Forme la **segunda persona** correspondiente en tiempo, número, modo, etc. de las siguientes formas verbales:
 
-::: grammar-box
+:::grammar-box
 | 1. persona / 3. persona | 2. persona |
 | :--- | :--- |
 | १. **आर्हम्** | आर्हः |
@@ -65,15 +65,11 @@ A) Forme la **segunda persona** correspondiente en tiempo, número, modo, etc. d
 | ५०. **सीदामि** | सीदसि |
 | ५१. **तिष्ठन्ति** | तिष्ठथ |
 | ५२. **आहरत्** | आहरः |
-:::
-
-::: media
+::::::media
 ![](/images/uebung070.webp)
 Fig.: दिशसि
 (Fuente de la imagen: [Detalles](/licenses#uebung070))
-:::
-
----
+:::---
 
 ## Traducciones al sánscrito
 
@@ -109,13 +105,11 @@ B) Traducir al sánscrito:
 १०. **कथं शत्रुं तरसि ॥ १० ॥**
 ¿Cómo te salvas (cruzas el río) del enemigo?
 
-::: media
+:::media
 ![](/images/uebung071.jpg)
 Fig.: कदा काश्यामवर्तथाः
 (Fuente de la imagen: [Detalles](/licenses#uebung071))
-:::
-
----
+:::---
 
 ## Conversación (संवादः)
 

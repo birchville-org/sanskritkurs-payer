@@ -27,7 +27,7 @@ B) Traduceți:
 १. **बुद्धं शरणं गच्छामि धर्मं शरणं गच्छामि सङ्घं शरणं गच्छामीति बुद्धगतैर्वक्तव्यम् ॥ १ ॥**
 „Mă refugiez la Buddha, mă refugiez la Dharma, mă refugiez la Saṅgha” — aceasta este afirmația celor care au mers la Buddha.
 
-::: grammar-box
+:::grammar-box
 
 ### Exkurs: Die drei Zufluchten
 Această triplă refugiu este decisivă pentru a avea motivația și perseverența necesare pe calea eliberării. Deoarece există numeroși învățători ai înțelepciunii, este imposibil să îi urmezi pe fiecare în parte. Trebuie să faci o alegere. Personalitatea unui învățător trebuie să inspire încredere (**Refugiu în Buddha**).
@@ -35,9 +35,7 @@ Această triplă refugiu este decisivă pentru a avea motivația și perseveren�
 Totuși, esența nu este personalitatea mântuitorului, ci doctrina eliberării, care îi permite individului să urmeze calea însuși. Trebuie să fii atât de convins de doctrină, încât să depui efortul de a-i testa autenticitatea (**Refugiu în Dharma**).
 
 În plus, trebuie să fii convins că și alții au parcurs cu succes această cale. Aceasta este **Refugiu în Sangha**, comunitatea celor care au ajuns la eliberare pe calea lui Buddha.
-:::
-
-२. **काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥ २ ॥**
+:::२. **काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥ २ ॥**
 „Voi merge la Benares (Kāśī), voi vedea Gangele și voi muri acolo” — cu acest gând, bătrânul respectabil a părăsit fiii, nepoții și averea și s-a mutat la Benares. Cred că astfel va depăși suferința care trebuie încheiată.
 
 ३. **कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥ ३ ॥**
@@ -49,7 +47,7 @@ După ce a vândut mărfurile de vândut, Vaiśya fără fii a dat venitul monah
 ५. **गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥ ५ ॥**
 Învățătorii trebuie să-i învețe pe elevi; elevii trebuie să studieze cursul.
 
-::: media
+:::media
 ![](/images/uebung067.jpg)
 Abb.: बुद्धं शरणं गच्छामि
 (Bildquelle: [Details](/licenses#uebung067))

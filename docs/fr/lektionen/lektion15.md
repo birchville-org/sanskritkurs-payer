@@ -21,7 +21,7 @@ status: stable
 La relation entre ce que désignent des noms (substantifs et adjectifs) peut s'exprimer non seulement par une construction génitive, mais aussi par un Tatpuruṣa (तत्पुरुष). De même, on peut exprimer les appositions attributives d'adjectifs ou les appositions de substantifs par un certain type de Tatpuruṣa, à savoir le Karmadhāraya (m.) = कर्मधारय.
 
 तत्पुरुषः = तस्य पुरुषः « son serviteur », c.-à-d. un exemple de ce type de composé sert à désigner cette sorte de composé.
-::: grammar-box
+:::grammar-box
 
 Dans les composés déterminatifs (Tatpuruṣa), un nom (substantif ou adjectif) est précisé par un autre nom ou adverbe. Le mot précisé forme en règle générale le membre postérieur du composé.
 
@@ -44,16 +44,12 @@ p. ex.
 
 Le genre d'un Tatpuruṣa est - à quelques exceptions près - celui de son membre postérieur.
 
-:::
-
-## 15.3. Déterminatifs composés avec membre antérieur attributif / appositionnel = Karmadhāraya m. = कर्मधारय
-::: grammar-box
+:::## 15.3. Déterminatifs composés avec membre antérieur attributif / appositionnel = Karmadhāraya m. = कर्मधारय
+:::grammar-box
 
 Lors de la résolution du Karmadhāraya, les deux membres du composé sont au même cas.
 
-:::
-
-par ex.
+:::par ex.
 
 गुणवत्पुत्रः = गुणवान्पुत्रः = "un fils aux bonnes qualités"  
 Acc. sg. गुणवत्पुत्रम्  
@@ -65,13 +61,11 @@ Nom. pl. गुणवत्पुत्राः
 
 इष्टदेवता = इष्टा देवता = "la divinité désirée = la divinité à laquelle on entretient une relation particulière de dévotion et de refuge"
 
-::: media
+:::media
 ![](/images/lekt1501.webp)
 Fig. : लक्ष्मी
 (Source de l'image : [Détails](/fr/licenses#lekt1501))
-:::
-
-::: grammar-box
+::::::grammar-box
 
 Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
@@ -86,23 +80,17 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
       
     De tels Karmadhāraya appositionnels sont résolus dans les commentaires indigènes comme dans l'exemple ci-dessus au moyen de एव.
 
-:::
-    
-::: media
+::::::media
 ![](/images/lekt1503.webp)
 Fig. : नरसिंहः
 (Source de l'image : [Détails](/fr/licenses#lekt1503))
-:::
+:::## 15.4. Composés déterminatifs avec un premier membre qui, par rapport au second membre, occupe un cas non-attributif/appositionnel = Tatpuruṣa au sens strict
 
-## 15.4. Composés déterminatifs avec un premier membre qui, par rapport au second membre, occupe un cas non-attributif/appositionnel = Tatpuruṣa au sens strict
-
-::: grammar-box
+:::grammar-box
 
 Les composés Tatpuruṣa sont possibles pour des combinaisons de noms (noms communs et adjectifs), dans lesquelles le premier membre, conformément aux règles de la syntaxe, peut se trouver dans n'importe quel cas. Comme prévu, le premier membre représente le plus souvent un génitif (षष्ठी), car c'est le cas qui exprime la relation entre les noms.
 
-:::
-
-par ex.
+:::par ex.
 
 क्षत्रियपुत्रः = क्षत्रियस्य पुत्रः = "le fils d'un Kṣatriya", "un jeune Kṣatriya", "un membre du groupe des Kṣatriyas"  
 Acc. sg. क्षत्रियपुत्रम्  
@@ -119,13 +107,11 @@ Presque toutes les relations génitives peuvent être remplacées par un Tatpuru
 
 Le premier membre d'un Tatpuruṣa peut cependant, en principe, occuper n'importe quel cas. Cependant, tous les rapports casuels syntaxiquement possibles ne peuvent pas être remplacés par un Tatpuruṣa. Les règles correspondantes se trouvent en cas de doute chez Kale, A higher Sanskrit grammar §§ 203 - 217 ou Pāṇini 2,1,22 - 2,2,22.
 
-::: grammar-box
+:::grammar-box
 
 Le premier membre peut, lors de la résolution du composé, se trouver au singulier, au duel ou au pluriel. La possibilité retenue doit être déduite du sens et du contexte.
 
-:::
-
-Exemples :
+:::Exemples :
 
 Le premier membre occupe l'accusatif (द्वितीया) : par ex. dans certains PPP de verbes de mouvement (Pāṇini 2,1,24) :
 
@@ -141,22 +127,20 @@ Pourrait aussi être résolu : देवस्य / देवानां कृ
 
 ## 15.5. Décomposition des composés (à l'exception des Dvandvas)
 
-:::: grammar-box
+::::grammar-box
 Bien que des composés de longueur arbitraire puissent être formés en sanskrit et soient même très fréquemment formés (des composés de 10 à 30 membres ne sont pas une rareté !), tous les composés - à l'exception des Dvandvas - sont progressivement et hiérarchiquement décomposés en deux parties chacune :
 
-::: media
+:::media
 ![](/images/lekt1502.jpg)
 Fig. : समासविच्छेदः
 (Source de l'image : [Détails](/fr/licenses#lekt1502))
-:::
-
-etc. jusqu'à ce que l'on atteigne les radicaux des mots individuels.
+:::etc. jusqu'à ce que l'on atteigne les radicaux des mots individuels.
 
 par ex.
 
 गुणवत्पुत्रकृतपुण्यम्
 
-::: indent
+:::indent
 1\. niveau (césure principale) : गुणवत्पुत्रकृतं ॥१॥ पुण्यम्
 
 2\. niveau (1ère césure secondaire) : गुणवत्पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
@@ -164,29 +148,25 @@ par ex.
 3\. niveau (2ème césure secondaire) : गुणवता॥३॥ पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्
 
 = "l'action méritoire (le mérite) que mon fils vertueux a accomplie"
-:::
-
-Différents types de composés peuvent être mélangés, par ex. membre antérieur : Bahuvrīhi (बहुव्रीहि) - membre postérieur : Tatpuruṣa, etc.
+:::Différents types de composés peuvent être mélangés, par ex. membre antérieur : Bahuvrīhi (बहुव्रीहि) - membre postérieur : Tatpuruṣa, etc.
 
 par ex.
 
 ब्राह्मणक्षत्रियवैश्यधर्मः
 
-::: indent
+:::indent
 1\. niveau : ब्राह्मणक्षत्रियवैश्यानां धर्मः (membre antérieur : Itaretaradvandva)
 
 2\. niveau : ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः
 
 = "le Dharma des Brāhmaṇas, Kṣatriyas et Vaiśyas"
-:::
-
-Il existe très souvent plusieurs possibilités de décomposition pour un composé. Ce qui est correct ou du moins le meilleur ne peut être décidé qu'à partir du contexte et du contenu du texte. Parfois, une telle décision n'est pas possible. Souvent, deux possibilités de décomposition sont probablement intentionnées par l'auteur. Il faut alors rendre les deux possibilités de décomposition dans la traduction (liées par "et", "ou" "ou encore" et semblables).
+:::Il existe très souvent plusieurs possibilités de décomposition pour un composé. Ce qui est correct ou du moins le meilleur ne peut être décidé qu'à partir du contexte et du contenu du texte. Parfois, une telle décision n'est pas possible. Souvent, deux possibilités de décomposition sont probablement intentionnées par l'auteur. Il faut alors rendre les deux possibilités de décomposition dans la traduction (liées par "et", "ou" "ou encore" et semblables).
 
 par ex.
 
 पुण्यवत्पुत्रकृतम्
 
-::: indent
+:::indent
 1\. niveau : soit - soit
 
 1. पुण्यवत्पुत्रेण कृतम्
@@ -199,11 +179,8 @@ par ex.
 2. पुण्यवतः पुत्रस्य कृतम् = "l'action de mon fils méritoire"
 3. 1. पुण्यवत्  पुत्रेण कृतम् = "ce qui est méritoire, accompli par mon fils"
    2. पुण्यवत्  पुत्रस्य कृतम् = "l'action méritoire de mon fils"
-:::
-::::
-
-## 15.6. La forme du premier membre dans les composés (समास m.)
-::: grammar-box
+:::::::## 15.6. La forme du premier membre dans les composés (समास m.)
+:::grammar-box
 
 Dans tous les types de composés, le premier membre est généralement la racine du mot non modifiée. Les noms bicaux sont au radical faible. Les adjectifs féminins qui précisent un membre suivant dans le composé sont généralement au radical masculin :
 
@@ -212,9 +189,7 @@ par ex.
 पुण्यवत्क्षत्रिया = पुण्यवती क्षत्रिया = « une femme Kṣatriya qui possède du mérite »  
 गुणवत्पुत्रः = गुणवान् पुत्रः = « un fils aux bonnes qualités »
 
-:::
-
-## 15.7. Classification des तत्पुरुष
+:::## 15.7. Classification des तत्पुरुष
 
 1.  प्रथमातत्पुरुषः : le premier membre est au nominatif dans विग्रहवाक्य (प्रथमा)
 2.  द्वितीयातत्पुरुषः : le premier membre est à l'accusatif dans विग्रहवाक्य (द्वितीया)
@@ -265,22 +240,18 @@ par ex.
 अर्ध 3 : demi, m.n. moitié
 
 पूजा f. : honneur, réception honorifique, vénération religieuse (Pūjā)
-::: media
+:::media
 ![](/images/lekt1504.webp)
 Fig. : पूजा
 (Source de l'image : [Détails](/fr/licenses#lekt1504))
-:::
-
-कुल n. : troupeau, multitude, caste, lignée, famille
+:::कुल n. : troupeau, multitude, caste, lignée, famille
 
 इन्द्र m. : prince, premier, meilleur parmi ; roi des dieux Indra
-::: media
+:::media
 ![](/images/lekt1505.webp)
 Fig. : इन्द्रः
 (Source de l'image : [Détails](/fr/licenses#lekt1505))
-:::
-
-दास m. : esclave, serf, serviteur
+:::दास m. : esclave, serf, serviteur
 
 दासी f. : esclave, serf, servante
 
@@ -296,55 +267,43 @@ Fig. : इन्द्रः
 
 dont :
 
-::: indent
+:::indent
 स्तुति f. : éloge, hymne louangeur
 
 स्तोत्र n. : (moyen de louer =) hymne louangeur, hymne
-:::
-
-सिंह m. : lion (_Panthera leo persica_)
-::: media
+:::सिंह m. : lion (_Panthera leo persica_)
+:::media
 ![](/images/lekt1506.webp)
 Fig. : सिंहः
 (Source de l'image : [Détails](/fr/licenses#lekt1506))
-:::
-
-व्याघ्र m. : tigre (_Panthera tigris tigris_) (litt. : bâilleur)
-::: media
+:::व्याघ्र m. : tigre (_Panthera tigris tigris_) (litt. : bâilleur)
+:::media
 ![](/images/lekt1507.webp)
 Fig. : व्याघ्रः
 (Source de l'image : [Détails](/fr/licenses#lekt1507))
-:::
-
-इव (postposé) : comme, comme (dans les comparaisons : व्याघ्र इव पुरुषः = « un homme comme un tigre », « un homme semblable à un tigre »
+:::इव (postposé) : comme, comme (dans les comparaisons : व्याघ्र इव पुरुषः = « un homme comme un tigre », « un homme semblable à un tigre »
 
 एव (postposé) : met l'accent sur ce qui précède, correspond en allemand souvent à l'accentuation, une sorte d'émoticone `&lt;!&gt;`, par ex. सत्यमेव जयति « seule la vérité triomphe », « précisément la vérité triomphe », « la vérité triomphe »
 
 अरि m. : ennemi (selon Thieme, Der Fremdling im Ṛgveda : originellement = étranger)
 
-::: indent
+:::indent
 आर्य 3 : aryen, noble ; m. Aryen (autodésignation des anciens Indiens parlant sanskrit, litt. : hospitalier (Thieme)) ; Noble, homme d'honneur
-:::
+:::à propos de जन्
 
-à propos de जन्
-
-::: indent
+:::indent
 जाति f. : naissance, type, caste (pour जाति comme caste, voir Basham, Wonder, p. 148ss.)
-:::
-
-मृ 4 Ā म्रियते ; Pass. म्रियते ; PPP मृत : mourir (selon les grammairiens indiens : 6 Ā)
+:::मृ 4 Ā म्रियते ; Pass. म्रियते ; PPP मृत : mourir (selon les grammairiens indiens : 6 Ā)
 
 dont :
 
-::: indent
+:::indent
 मरण n. : mort, décès
 
 मृति f. : mort, décès
 
 मृत्यु m. : mort ; personnifié : dieu de la mort
-:::
-
-## 15.9. Exercice 1
+:::## 15.9. Exercice 1
 
 Résolvez les composés suivants en tant que Tatpuruṣa en sanskrit et fournissez une traduction en allemand. Indiquez toutes les résolutions et traductions qui vous semblent possibles. Précisez également le cas et le nombre du composé total.
 
@@ -531,13 +490,11 @@ Résolvez comme à l'exercice 1 les Tatpuruṣa suivants :
 ५९. कारुकुशीलवकृतम्
 
 ६०. द्विजातिशुश्रूषया
-::: media
+:::media
 ![](/images/lekt1508.webp)
 Fig. : ग्रामदेवता
 (Source de l'image : [Détails](/fr/licenses#lekt1508))
-:::
-
-## 15.11. Exercice 3
+:::## 15.11. Exercice 3
 
 A) Traduisez le proverbe au début de la leçon
 
@@ -594,13 +551,11 @@ B) Résolvez les Tatpuruṣa suivants :
 २५. वर्णधर्मः
 
 २६. श्रुत्युदितम्
-::: media
+:::media
 ![](/images/lekt1509.webp)
 Fig. : नागदेवाः
 (Source de l'image : [Détails](/fr/licenses#lekt1509))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 - **Fig. : लक्ष्मी** (Lakshmi) : Peinture de राजा रवि वर्मा (1848 - 1906). Source de l'image : Wikipedia, Domaine public.
 - **Fig. : नरसिंहः** (Narasimha) : Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Source de l'image : Wikipedia, Domaine public.

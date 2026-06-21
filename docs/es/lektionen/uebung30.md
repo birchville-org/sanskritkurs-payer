@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Convierta las siguientes formas verbales en formas optativas correspondientes a persona, número y género verbal:
 
-::: grammar-box
+:::grammar-box
 | Presente | Optativo |
 | :--- | :--- |
 | १. **ह्रियते** | ह्रियेत |
@@ -78,9 +78,7 @@ A) Convierta las siguientes formas verbales en formas optativas correspondientes
 | ६३. **अर्हति** | अर्हेत् |
 | ६४. **अदन्ति** | अद्युः |
 | ६५. **अध्यापयन्ति** | अध्यापयेयुः |
-:::
-
-B) Traduzca las siguientes oraciones y resuelva los compuestos en sánscrito:
+:::B) Traduzca las siguientes oraciones y resuelva los compuestos en sánscrito:
 
 १. **जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥**
 (आर्याणि सत्यानि)
@@ -117,19 +115,17 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 **प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥** (Manu IV.138)  
 Diganse verdades que sean agradables, no se digan verdades desagradables; no se digan falsedades agradables, esa es la ley eterna.
 
-::: media
+:::media
 ![](/images/uebung048.webp)
 Fig.: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (Fuente de la imagen: [Detalles](/licenses#uebung048))
-:::
-
----
+:::---
 
 ## Determinación de formas verbales
 
 Determine y traduzca las siguientes formas:
 
-::: grammar-box
+:::grammar-box
 | Forma | Determinación | Significado |
 | :--- | :--- | :--- |
 | १. **भारे** | Loc. sg. m. | sobre la carga |
@@ -172,9 +168,7 @@ Determine y traduzca las siguientes formas:
 | ३८. **तस्यै** | Dat. sg. f. | a ella |
 | ३९. **तस्मिन्** | Lok. sg. m./n. | en ello, en esto |
 | ४०. **सते** | Dat. sg. m./n. | al Ser / al Bueno |
-:::
-
-::: media
+::::::media
 ![](/images/uebung047.webp)
 Fig.: भक्त्याः
 (Fuente de la imagen: [Detalles](/licenses#uebung047))

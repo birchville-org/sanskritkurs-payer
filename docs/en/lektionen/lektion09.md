@@ -9,25 +9,21 @@ last_reconstructed: 2026-05-07
 
 # Lesson 9
 
-::: deleteme-box
+:::deleteme-box
 **In this lesson, you will learn:**
 - The Samāhāradvandva ("Summary dvandva")
 - The formation of nominal stems with the suffixes **-ka** (taddhita) and **-aka** (kṛt)
 - Vocabulary related to professions and social roles
 - Quotations from classical legal texts (Dharmaśāstras)
-:::
-
----
+:::---
 
 ## 9.1. Samāhāradvandva (समाहारद्वन्द्व = "Summary dvandva")
 
-::: grammar-box
+:::grammar-box
 **When a dvandva is intended to express that a series of things, etc., form a unity, it is generally in the neuter singular:**
 
 e.g. **āhāra-nidrā-maithuna-bhayam** = आहारनिद्रामैथुनभयम् does not simply mean "food intake (**āhāra** m.), sleep (**nidrā** f.), copulation (**maithuna** n.) and fear (**bhaya** n.)", but these four as a **unity** that characterizes animal life.
-:::
-
-In addition to this basic rule for the formation of Samāhāradvandvas, there are a number of other rules that can be found in Pāṇini 2,4,2-17 or e.g. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. In the various stages of language development, not always the same rules were observed!
+:::In addition to this basic rule for the formation of Samāhāradvandvas, there are a number of other rules that can be found in Pāṇini 2,4,2-17 or e.g. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. In the various stages of language development, not always the same rules were observed!
 
 ---
 
@@ -37,7 +33,7 @@ In addition to this basic rule for the formation of Samāhāradvandvas, there ar
 
 ### 9.2.1. -ka (taddhita)
 
-::: grammar-box
+:::grammar-box
 **The taddhita suffix -ka forms among others:**
 
 1\. **Diminutives (diminutive forms such as German -chen, -lein, -li, -le):**
@@ -52,19 +48,15 @@ In addition to this basic rule for the formation of Samāhāradvandvas, there ar
 4\. **Nouns that express "related to the concept of the base word":**
    **kāśi f. "Benares" » kāśika 3 काशिक "native of Benares, originating from Benares"**
    **rūpa n. "form" » rūpaka 3 रूपक "possessing the form of something"**
-:::
-
----
+:::---
 
 ### 9.2.2. -aka (kṛt), fem. oft -ikā
 
-::: grammar-box
+:::grammar-box
 **The kṛt suffix -aka, feminine often -ikā, forms agent nouns (nouns expressing the doer) from any root.**
 
 A final vowel of the root and **-a-** in the penultimate position of the root are replaced by their strengthened grade (**vṛddhi**) (there are some exceptions); the other vowels are replaced by their augmented grade (**guṇa**).
-:::
-
-**Examples:**
+:::**Examples:**
 
 | Root[[br]]धातु | + -aka / -ikā (kṛt) | Meaning |
 | :--- | :--- | :--- |
@@ -75,11 +67,9 @@ A final vowel of the root and **-a-** in the penultimate position of the root ar
 | **nṛt**[[br]]4 P[[br]]नृत्[[br]]"to dance" | **nartaka** m.[[br]](नर्तक) /[[br]]**nartakī** f.[[br]](नर्तकी) | "dancer (male) / dancer (female)" |
 | **ji**[[br]]1 P[[br]]जि[[br]]"to conquer" | **jayaka** 3[[br]](जयक) | "victorious" |
 
-::: grammar-box
+:::grammar-box
 **Some of these formations have the narrower meaning: "one who habitually or as a duty or properly performs that expressed by the root".**
-:::
-
-see above e.g. **śrāvaka**, **yājaka**, **jayaka**
+:::see above e.g. **śrāvaka**, **yājaka**, **jayaka**
 
 **Examples:**
 
@@ -99,21 +89,17 @@ In addition, there are some less important uses of the suffix **-aka**. See Wack
 
 - **adhyayana** n. (अध्ययन) : Learning, esp. Vedic study
 
-::: media
+:::media
 ![](/images/lekt0903.webp)
 Fig.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram near Madurai.
 (Image source: [Details](/en/licenses#lekt0903))
-:::
+:::- **kāru** m. / **kāruka** m. (कारु / कारुक) : Craftsman
 
-- **kāru** m. / **kāruka** m. (कारु / कारुक) : Craftsman
-
-::: media
+:::media
 ![](/images/lekt0902.webp)
 Fig.: **kāru** = कारु, Gujarat.
 (Image source: [Details](/en/licenses#lekt0902))
-:::
-
-- **kuśīlava** m. (कुशीलव) : (wandering) showman, actor, singer
+:::- **kuśīlava** m. (कुशीलव) : (wandering) showman, actor, singer
 - **kusīda** n. (कुसीद) : Usury
 - **kṛṣ** 1 P (karṣati) कृष् कर्षति : to pull
 - **kṛṣ** 6 U (kṛṣati) कृष् कृषति : to plow
@@ -142,13 +128,11 @@ Fig.: **kāru** = कारु, Gujarat.
 6\. **rakṣikā** रक्षिका
 7\. **karṣaka** कर्षक
 
-::: media
+:::media
 ![](/images/lekt0901.webp)
 Fig.: **karṣaka** = कर्षक.
 (Image source: [Details](/en/licenses#lekt0901))
-:::
-
-8\. kleśa (क्लेश)
+:::8\. kleśa (क्लेश)
 9\. nāyikātva (नायिकात्व)
 10\. tantraka (तन्त्रक)
 11\. nartaka (f. nartakī) (नर्तक / नर्तकी)

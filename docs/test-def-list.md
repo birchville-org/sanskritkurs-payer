@@ -1,4 +1,4 @@
-::: grammar-box
+:::grammar-box
 in Pausa und vor stimmlosen Lauten
 : Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:
   z.B.

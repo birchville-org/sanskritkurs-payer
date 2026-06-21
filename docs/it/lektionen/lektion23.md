@@ -11,7 +11,7 @@ status: stable
 
 ## 23.1. L'Infinito (तुमुन्)
 
-::: grammar-box
+:::grammar-box
 **Se si vuole esprimere in sanscrito che un'azione avviene per un'altra azione ("per"), si può usare l'infinito (तुमुन्) per l'azione per cui avviene. L'infinito indica principalmente lo scopo o l'intenzione:**
 
 > रामो गुरुवचनं श्रोतुं गतः = "Rāma è andato per ascoltare il discorso del maestro."
@@ -50,11 +50,9 @@ ad esempio
 **Quando l'infinito dipende da un sostantivo, non può essere unito con questo in un composto. Fanno eccezione i Bahuvrīhi, il cui secondo membro è काम o मनस्:**
 
 > वक्तुकामः = वक्तुं कामो यस्य सः = "uno il cui desiderio è parlare; uno che desidera parlare".
-:::
+:::## 23.2. Formazione dell'infinito (तुमुन्)
 
-## 23.2. Formazione dell'infinito (तुमुन्)
-
-::: grammar-box
+:::grammar-box
 **radice in grado superlativo + -tum**
 
 **oppure**
@@ -64,34 +62,26 @@ ad esempio
 **Le consonanti finali della radice subiscono le stesse modifiche davanti a -tum che subiscono davanti al -ta del PPP.**
 
 **I verbi con prefisso formano l'infinito allo stesso modo delle radici semplici.**
-:::
+:::Esempi:
 
-Esempi:
-
-::: indent
+:::indent
 दिश् : देष्टुम्  
 रुद् : रोदितुम्
-:::
-
-Non è possibile stabilire regole fisse riguardo all'uso della vocale di congiunzione -i-. Fondamentalmente, la distribuzione della vocale di congiunzione nell'infinito corrisponde a quella del futuro.
+:::Non è possibile stabilire regole fisse riguardo all'uso della vocale di congiunzione -i-. Fondamentalmente, la distribuzione della vocale di congiunzione nell'infinito corrisponde a quella del futuro.
 
 Tra le radici finora studiate, si prestano particolare attenzione i seguenti infiniti:
 
-::: indent
+:::indent
 गम् : गन्तुम्
 
 प्रच्छ् : प्रष्टुम्
-:::
+:::-ra- come grado alto di -ṛ- hanno nell'infinito:
 
--ra- come grado alto di -ṛ- hanno nell'infinito:
-
-::: indent
+:::indent
 दृश् : द्रष्टुम्
 
 सृज् : स्रष्टुम्
-:::
-
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+:::Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. L'infinito (तुमुन् rispetto alle radici finora apprese)
 
@@ -234,25 +224,19 @@ D) Tradurre e risolvere le composizioni:
 
 फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥
 
-::: media
+:::media
 ![](/images/lekt2303.webp)
 Fig.: फलवन्ति पुण्यानीति
 ทำบุญ = पुण्यकरणम्, Thailandia = ประเทศไทย
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2303))
-:::
+:::सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
 
-
-सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
-
-::: media
+:::media
 ![](/images/lekt2301.webp)
 Fig.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
 Chiang Mai, Thailandia = เชียงใหม่, ประเทศไทย
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2301))
-:::
-
-
-शूद्रजनो ब्राह्मणेन सह अत्tuम (अत्तुम्) नार्हति ॥५॥
+:::शूद्रजनो ब्राह्मणेन सह अत्tuम (अत्तुम्) नार्हति ॥५॥
 
 लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥
 
@@ -269,14 +253,12 @@ C) Tradurre il seguente सुभाषितम्
 
 Spiegazione: हीन ३: PPP per हा 3: lasciare ; धर्मे = Locativo sing. "nel ..."
 
-::: media
+:::media
 ![](/images/lekt2302.webp)
 Fig.: आहारनिद्राभयमैथुनं च
 Chittorgarh = चित्तौडगढ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2302))
-:::
-
-## 23.6. Esercizio di ripasso
+:::## 23.6. Esercizio di ripasso
 
 Si prega di non utilizzare ausili!
 
@@ -296,16 +278,12 @@ A) Tradurre in sanscrito:
 
 7\. Il "bastone" causa l'acquisizione e il possesso sicuro di filosofia, Veda ed economia. La guida di questo bastone è la politica.
 
-::: media
+:::media
 ![](/images/lekt2304.jpg)
 Fig.: दण्डनीतिः
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Primo ministro dell'India = भारत के प्रधानमन्त्री, dal 2004 [fonte immagine: Wikipedia, dominio pubblico]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2304))
-:::
-
-
-
-8\. Moglie, figlio e schiavo, questi tre (त्रयस्) sono, secondo la tradizione, privi di proprietà. A ciò a cui essi arrivano, appartiene a colui al quale essi (i tre) appartengono.
+:::8\. Moglie, figlio e schiavo, questi tre (त्रयस्) sono, secondo la tradizione, privi di proprietà. A ciò a cui essi arrivano, appartiene a colui al quale essi (i tre) appartengono.
 
 9\. Le zanzare desiderano una ferita, i sovrani desiderano proprietà, i bassi desiderano contesa, i buoni desiderano pace.
 
@@ -329,7 +307,7 @@ C) Fornire le forme fondamentali (significato, classe del presente, modo, 3. sg.
 
 ४. हन् ॥
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt2301:** Chiang Mai, Thailandia = เชียงใหม่, ประเทศไทย [Fonte dell'immagine: Wikipedia. Licenza GNU FD]
 

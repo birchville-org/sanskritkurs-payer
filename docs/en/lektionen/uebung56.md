@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Determine and translate the following forms:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Determination / Meaning |
 |:---|:---|:---|
 | १. | **अस्मत्** | *वयम्*: Abl. (from us) |
@@ -94,9 +94,7 @@ Determine and translate the following forms:
 | ७८. | **अकस्मात्** | unexpectedly (Adv.) |
 | ७९. | **मित्रध्रुक्** | *मित्रद्रुह्*: Nom. Voc. Sg. m. f. n. (enemy-destroyer) |
 | ८०. | **अवोचन्** | *वच्* 2P: 3. Pl. a-Aor. P. (they spoke) |
-:::
-
-::: media
+::::::media
 ![](/images/uebung091.webp)
 Fig.: जेरिम
 (Image source: [Details](/en/licenses#uebung091))

@@ -27,7 +27,7 @@ B) Traduisez :
 १. **बुद्धं शरणं गच्छामि धर्मं शरणं गच्छामि सङ्घं शरणं गच्छामीति बुद्धगतैर्वक्तव्यम् ॥ १ ॥**
 « Je prends refuge dans le Bouddha, je prends refuge dans le Dharma, je prends refuge dans le Saṅgha » — cela doit être dit par ceux qui sont allés vers le Bouddha.
 
-::: grammar-box
+:::grammar-box
 
 ### Encart : Les trois Refuges
 Ce triple refuge est essentiel pour posséder la motivation et la persévérance nécessaires sur le chemin de la libération. Puisqu'il existe d'innombrables maîtres de sagesse, il est impossible de suivre chacun individuellement. Il faut faire un choix. La personnalité d'un maître doit apparaître digne de confiance (**Refuge en le Bouddha**).
@@ -35,9 +35,7 @@ Ce triple refuge est essentiel pour posséder la motivation et la persévérance
 L'essentiel n'est cependant pas la personnalité du libérateur, mais la doctrine de libération qui permet à l'individu de parcourir le chemin lui-même. Il faut être si convaincu par la doctrine qu'on déploie l'énergie nécessaire pour en tester la véracité (**Refuge en le Dharma**).
 
 De plus, il faut être convaincu que d'autres ont également parcouru ce chemin avec succès. C'est le **Refuge en le Saṅgha**, la communauté de ceux qui sont parvenus à la libération sur le chemin du Bouddha.
-:::
-
-२. **काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥ २ ॥**
+:::२. **काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥ २ ॥**
 « Je me rendrai à Bénarès (Kāśī), verrai le Gange et y mourrai » — avec cette pensée, l'honorable vieillard quitta ses fils, petits-fils et biens, et s'installa à Bénarès. Je pense qu'il surmontera ainsi la souffrance à achever.
 
 ३. **कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥ ३ ॥**
@@ -49,7 +47,7 @@ Après avoir vendu les marchandises à vendre, le vaiśya sans fils donna le pro
 ५. **गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥ ५ ॥**
 Des maîtres, les élèves doivent être instruits ; des élèves, le programme doit être étudié.
 
-::: media
+:::media
 ![](/images/uebung067.jpg)
 Fig. : बुद्धं शरणं गच्छामि
 (Source de l'image : [Détails](/fr/licenses#uebung067))

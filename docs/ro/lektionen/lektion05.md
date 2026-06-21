@@ -9,15 +9,13 @@ status: stable
 
 # Lecția 5
 
-::: deleteme-box
+:::deleteme-box
 **În această lecție veți învăța:**
 - Bazele compuselor nominale (samāsa)
 - Terminologia de specialitate pentru compuse
 - Compuse copulative (Dvandva)
 - Ordinea componentelor în Dvandvas
-:::
-
-## 5.1. Compuse nominale (samāsa m. = समास)
+:::## 5.1. Compuse nominale (samāsa m. = समास)
 
 Formarea compuselor de cuvinte într-un volum foarte mare este un caracteristic al sanscritei.
 
@@ -45,7 +43,7 @@ Formele principale de formare a compuselor sunt:
 
 Compusele copulative servesc pentru legarea elementelor gramatical similare, coordonate (substantive sau adjective).
 
-::: grammar-box
+:::grammar-box
 **Un Dvandva indică:**
 
 1. **fie conexiunea sumativă a persoanelor, lucrurilor, proprietăților indicate de componentele sale individuale:**
@@ -62,9 +60,7 @@ Dvandva este, în general, un neutru (indiferent de genul ultimei componente) ș
 
 **Rezolvarea:**
 Se face cu „și” (**ca** = च), ocazional cu „sau” (**vā** = वा) sau „fie”.
-:::
-
-Referitor la Dvandva la dual, vezi mai târziu!
+:::Referitor la Dvandva la dual, vezi mai târziu!
 
 ### 5.3.1. Elemente anterioare de compuse
 
@@ -106,13 +102,11 @@ Exemple de Pluraldvandva:
 
 **kāma** m. = काम : dorință, poftă, dar dorit, plăcere senzorială, iubire; zeul iubirii Kāma.
 
-::: media
+:::media
 ![](/images/lekt0501.webp)
 Fig.: zeul Kāma = kāmadeva = कामदेव, sec. al XVIII-lea
 (Sursa imaginii: Wikipedia, Domeniu public)
-:::
-
-**krodha** m. = क्रोध : furie.
+:::**krodha** m. = क्रोध : furie.
 
 **kleśa** m. = क्लेश : suferință, chin.
 

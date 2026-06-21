@@ -29,19 +29,17 @@ Chi ha comprensione viene liberato dalla sofferenza; pertanto, chi desidera la l
 (मोहेन सहितः । शोभनं रूपं यासां ताः । वीतो मोहो यस्य सः । सम्पन्नं रूपं यस्याः सा)
 Un ignorante gode di buon cibo e belle donne. La cui ignoranza è scomparsa, non desidera né buon cibo né una donna dal corpo perfetto. Egli previene infatti l'avidità e l'odio e si concentra sulla comprensione.
 
-::: media
+:::media
 ![](/images/uebung049.webp)
 Fig.: कुलबन्धनम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung049))
-:::
-
----
+:::---
 
 ## Paradigmi verbali (7ª classe)
 
 B) Formare per le seguenti radici della 7ª classe le terze persone singolare e plurale (P e Ā) dell'indicativo e ottativo presente:
 
-::: grammar-box
+:::grammar-box
 
 ### १. **छिद्** (colonne)
 

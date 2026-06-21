@@ -9,15 +9,13 @@ status: stable
 
 # Lezione 5
 
-::: deleteme-box
+:::deleteme-box
 **In questa lezione imparate:**
 - Fondamenta dei composti nominali (samāsa)
 - Terminologia tecnica per i composti
 - Composti copulativi (Dvandva)
 - L'ordine dei membri nei Dvandva
-:::
-
-## 5.1. Composti nominali (samāsa m. = समास)
+:::## 5.1. Composti nominali (samāsa m. = समास)
 
 La formazione di composti lessicali in grande abbondanza è una caratteristica del sanscrito.
 
@@ -45,7 +43,7 @@ Le forme principali di formazione di composti sono:
 
 I compositi copulativi servono a collegare membri grammaticalmente omogenei, coordinati (sostantivi o aggettivi).
 
-::: grammar-box
+:::grammar-box
 **Un Dvandva indica:**
 
 1. **o la connessione sommativa delle persone, cose, proprietà indicate dai suoi singoli membri:**
@@ -62,9 +60,7 @@ Il Dvandva è in generale un neutro (indipendentemente dal genere dell'ultimo me
 
 **La risoluzione:**
 Avviene con "e" (**ca** = च), occasionalmente con "o" (**vā** = वा) o "ciascuno".
-:::
-
-Per i Dvandva duale, vedere più avanti!
+:::Per i Dvandva duale, vedere più avanti!
 
 ### 5.3.1. Elementi iniziali dei composti
 
@@ -106,13 +102,11 @@ Quando due delle tre ultime disposizioni possono applicarsi contemporaneamente, 
 
 **kāma** m. = काम : desiderio, brama, dono desiderato, piacere sensuale, amore; dio dell'amore Kāma.
 
-::: media
+:::media
 ![](/images/lekt0501.webp)
 Fig.: Dio Kāma = kāmadeva = कामदेव, XVIII secolo.
 (Fonte dell'immagine: Wikipedia, dominio pubblico)
-:::
-
-**krodha** m. = क्रोध : ira.
+:::**krodha** m. = क्रोध : ira.
 
 **kleśa** m. = क्लेश : tormento, flagello.
 

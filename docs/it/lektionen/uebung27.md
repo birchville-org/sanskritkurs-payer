@@ -66,7 +66,7 @@ Mentre la brahmana arriva dal grande poeta, arriva anche suo figlio.
 (सुष्ठu नीता बालाः)
 Se i maestri insegnano, i bambini ben educati non devono chiacchierare (parlare).
 
-::: media
+:::media
 ![](/images/uebung044.webp)
 Fig.: गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung044))

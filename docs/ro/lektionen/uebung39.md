@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formați pentru următoarele forme verbale formele persoanei întâi, care corespund acestei forme verbale în număr, timp, mod (indicativ, optativ) și mod de acțiune (P, Ā, pasiv):
 
-::: grammar-box
+:::grammar-box
 | Persoana a 3-a | Persoana a 1-a |
 | :--- | :--- |
 | १. **अदन्ति** | अद्मः |
@@ -103,9 +103,7 @@ A) Formați pentru următoarele forme verbale formele persoanei întâi, care co
 
 | ८८. **अजुहवुः** | अजुहुम |
 | ८९. **हरति** | हरामि |
-:::
-
-::: media
+::::::media
 ![](/images/uebung064.webp)
 Fig.: आगारे सीदामः
 (Sursă imagine: [Detalii](/licenses#uebung064))

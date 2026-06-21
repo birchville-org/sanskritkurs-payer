@@ -8,7 +8,7 @@ status: stable
 
 ## 32.1. Les temps du passé
 
-:::: grammar-box
+::::grammar-box
 **Dans la littérature sanskrite ancienne et selon les grammairiens indigènes, les trois temps du passé sont clairement distingués dans leur usage :**
 
 *   **l’Aoriste (लुङ् , अद्यतनी) désigne soit simplement l’accomplissement d’une action, soit ce qui s’est produit au cours de la journée en cours, le passé récent**
@@ -16,11 +16,9 @@ status: stable
 *   **le Parfait (लिट्) désigne, comme l’Imparfait, le passé lointain, mais est utilisé, par opposition à l’Imparfait, uniquement pour des événements que le locuteur n’a pas vus lui-même**
 
 **Dans la littérature sanskrite classique, les trois temps du passé sont employés sans différence de sens (exception : le poème didactique de भारवि, किरातार्जुनीय).**
-::::
+::::## 32.2. L’imparfait (लङ्)
 
-## 32.2. L’imparfait (लङ्)
-
-:::: grammar-box
+::::grammar-box
 **Formation :**
 
 **Augment a- + radical de présent + terminaison secondaire**
@@ -28,27 +26,21 @@ status: stable
 **Les trois personnes du singulier du parasmaipada à l’imparfait sont formées, pour les racines athématiques, à partir du radical de présent fort ; toutes les autres formes sont formées à partir du radical de présent faible.**
 
 **L’imparfait n’a que l’indicatif.**
-::::
+::::Exemples :
 
-Exemples :
-
-::: indent
+:::indent
 **भू** 3. sg. Imp. P. **अभवत्** (a-bhava-t)
 
 **सु**
 *   3. sg. Imp. P. **असुनोत्** (a-suno-t)
 *   3. pl. Imp. P. **असुन्वन्** (a + sunu + an)
-:::
+:::## 32.3. Règles pour l’augment
 
-## 32.3. Règles pour l’augment
-
-:::: grammar-box
+::::grammar-box
 **1. Lorsque l’augment a- précède une racine commençant par une voyelle, l’augment et le début de la racine fusionnent en वृद्धि de la voyelle de la racine.**
-::::
+::::Exemples :
 
-Exemples :
-
-:::: grammar-box
+::::grammar-box
 
 | | 3 sg. Imparf. | 3 pl. Imparf. |
 | :--- | :--- | :--- |
@@ -56,15 +48,11 @@ Exemples :
 | इ | ऐत्[[br]](a- + e + t) | आयन्[[br]](a + i + an) |
 | आस् | आस्त[[br]](a + ās-ta) | |
 
-::::
-
-:::: grammar-box
+::::::::grammar-box
 **2. Lorsque des préfixes précèdent une racine, l’augment a- se place après les préfixes, immédiatement avant la racine.**
-::::
+::::Exemples :
 
-Exemples :
-
-:::: grammar-box
+::::grammar-box
 
 | | 3 sg. Imparf. |
 | :--- | :--- |
@@ -73,17 +61,13 @@ Exemples :
 | उपगम् | उपागच्छत्[[br]](upa + a + gaccha-t) |
 | उपागम् | उपागच्छत्[[br]](upa + ā + a + gaccha-t) |
 
-::::
+::::## 32.4. Exemples de formation de l'imparfait
 
-## 32.4. Exemples de formation de l'imparfait
-
-::: important
+:::important
 **Pour démontrer la formation des formes, des formes Ātmanepada sont également formées ici pour les racines Parasmaipada ! Ces formes artificielles sont placées entre &lt; &gt;.**
-:::
+:::### 32.4.1. Classes thématiques de présent
 
-### 32.4.1. Classes thématiques de présent
-
-:::: grammar-box
+::::grammar-box
 
 | Classe de présent | Racine[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -93,11 +77,9 @@ Exemples :
 | 10. / Caus. | चुर् | अचोरयत् | अचोरयन् | अचोरयत | अचोरयन्त |
 | Passif | गम् | अगम्यत | अगम्यन्त | | |
 
-::::
+::::### 32.4.2. Classes de présent athématiques
 
-### 32.4.2. Classes de présent athématiques
-
-:::: grammar-box
+::::grammar-box
 
 | Classe de présent | Racine[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -115,9 +97,7 @@ Exemples :
 | 7. | रुध् | अरुणत्[[br]](a-ruṇadh + t > aruṇaddh > aruṇat) | अरुन्धन् | अरुन्द्ध | अरुन्धत |
 | 9. | क्री | अक्रीणात्[[br]](a-krīṇā-t) | अक्रीणन्[[br]](a-krīṇ-an) | अक्रीणीत[[br]](a-krīṇī-ta) | अक्रीणत[[br]](a-krīṇ-ata) |
 
-::::
-
-## 32.5. Liste de mots
+::::## 32.5. Liste de mots
 
 **अग्र n. :** pointe, extrémité
 
@@ -126,7 +106,7 @@ Exemples :
 **एकदा**
 
 **श्रम् श्राम्यते**
-::: indent
+:::indent
 श्रमिष्यते[[br]]
 श्रम्यते[[br]]
 श्रमयति[[br]]
@@ -134,20 +114,16 @@ Exemples :
 श्रमित्वा । श्रान्त्वा[[br]]
 -श्रम्य[[br]]
 श्रमितुम्
-:::
-
-**पार्श्व**
+:::**पार्श्व**
 
 **चूत**
 
-::: media
+:::media
 ![](/images/lekt3202.webp)
 Fig. : चूतः
 Manguiers, Kanpur.
 (Source de l'image : [Détails](/fr/licenses#lekt3202))
-:::
-
-**तरु** **वृक्ष**
+:::**तरु** **वृक्ष**
 
 **पचेलिम**
 
@@ -156,93 +132,75 @@ Manguiers, Kanpur.
 **परम्**
 
 **रुह् रोहति**
-::: indent
+:::indent
 रोक्ष्यति[[br]]
 रुह्यते[[br]]
 रोहयति । रोपयति[[br]]
 रूढ[[br]]
 -रुह्य[[br]]
 रोढुम्
-:::
-
-**ग्रह् गृह्णाति**
-::: indent
+:::**ग्रह् गृह्णाति**
+:::indent
 ग्रहीष्यति (!)[[br]]
 गृह्यते[[br]]
 ग्राहयति[[br]]
 गृहीत[[br]]
 -गृह्य[[br]]
 ग्रहीतुम् (!)
-:::
+:::**वानर कपि**
 
-**वानर कपि**
-
-::: media
+:::media
 ![](/images/lekt3203.webp)
 Fig. : वानराः
 Singes (macaques rhésus) à Delhi.
 (Source de l'image : [Détails](/fr/licenses#lekt3203))
-:::
-
-**लोक् लोकयति**
-::: indent
+:::**लोक् लोकयति**
+:::indent
 लोकयिष्यति[[br]]
 लोक्यते[[br]]
 लोकित[[br]]
 -लोक्य[[br]]
 लोकितुम्
-:::
-
-**प्रहर्ष**
+:::**प्रहर्ष**
 
 **कति**
 
 **उपल**
 
-::: media
+:::media
 ![](/images/lekt3204.webp)
 Fig. : उपलाः
 Carrière de pierre au sud de Pune, Maharashtra.
 (Source de l'image : [Détails](/fr/licenses#lekt3204))
-:::
+:::**लक्ष्य**
 
-**लक्ष्य**
-
-::: media
+:::media
 ![](/images/lekt3205.webp)
 Fig. : लक्ष्यम्
 Exercice de tir / cible à flèches, Karnataka.
 (Source de l'image : [Détails](/fr/licenses#lekt3205))
-:::
-
-**क्षिप् क्षिपति**
-::: indent
+:::**क्षिप् क्षिपति**
+:::indent
 क्षेप्स्यति[[br]]
 क्षिप्यते[[br]]
 क्षेपयति[[br]]
 क्षिप्त[[br]]
 -क्षिप्य[[br]]
 क्षेप्तुम्
-:::
-
-**चि चिनोति**
-::: indent
+:::**चि चिनोति**
+:::indent
 चेष्यति[[br]]
 चीयते[[br]]
 चाययति[[br]]
 चित[[br]]
 -चित्य[[br]]
 चेतुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3207.webp)
 Fig. : चितं गोमयं दहति
 Brûlage de galettes de bouse de vache au Rajasthan.
 (Source de l'image : [Détails](/fr/licenses#lekt3207))
-:::
-
-**चि अव**
+:::**चि अव**
 
 **प्रति**
 
@@ -250,14 +208,12 @@ Brûlage de galettes de bouse de vache au Rajasthan.
 
 **कौशल कुशल**
 
-::: media
+:::media
 ![](/images/lekt3206.webp)
 Fig. : कौशलम्
 Peinture Mehndi sur les mains à Mumbai.
 (Source de l'image : [Détails](/fr/licenses#lekt3206))
-:::
-
-## 32.6. Exercice
+:::## 32.6. Exercice
 
 A) Déterminez les formes verbales suivantes et formez les formes d’imparfait correspondant en personne, nombre et genre verbal :
 
@@ -349,14 +305,12 @@ B) Traduisez et résolvez les composés en sanskrit :
 
 बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥
 
-::: media
+:::media
 ![](/images/lekt3208.webp)
 Fig. : बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
 Moine bouddhiste au Sri Lanka.
 (Source de l’image : [Détails](/fr/licenses#lekt3208))
-:::
-
-## 32.7. Exercice de révision pendant les vacances de Noël
+:::## 32.7. Exercice de révision pendant les vacances de Noël
 
 Remarque : à l'origine, ce cours était dispensé chaque semestre d'hiver à l'Université de Tübingen. Lors de la leçon 32, les vacances de Noël de deux semaines ont commencé.
 
@@ -573,14 +527,12 @@ C) Traduisez en sanskrit :
 
 52. Au revoir !
 
-::: media
+:::media
 ![](/images/lekt3209.webp)
 Fig. : पुनर्दर्शनाय
 Salutation / adieu indien.
 (Source de l'image : [Détails](/fr/licenses#lekt3209))
-:::
-
-## 32.8. Exercice de révision
+:::## 32.8. Exercice de révision
 
 Traduisez et analysez les formes de mots suivantes :
 
@@ -627,7 +579,7 @@ Traduisez et analysez les formes de mots suivantes :
 
 ## 32.9. Exercice de traduction
 
-::: compact
+:::compact
 एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ**न्पथि** श्रान्तो ऽभवत् ।[[br]]
 अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥[[br]]
 तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।[[br]]
@@ -640,29 +592,23 @@ Traduisez et analysez les formes de mots suivantes :
 वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् ।[[br]]
 वृद्धः सहर्षं तान्या**दाय** स्वाभीष्टदेशं गतः ॥[[br]]
 अहो वृद्धस्य कौशलम् ॥
-:::
-
-(d'après : संस्कृतबालादर्श)
+:::(d'après : संस्कृतबालादर्श)
 
 
 Explications :
 
-::: indent
+:::indent
 **पथि** Loc. sg. de **पथ् m.** "chemin" (déclinaison irrégulière)
 
 **लक्ष्यीकृ** च्विऽ-suffixe अन् **लक्ष्य + कृ** : faire quelque chose en tant que लक्ष्य, ce qui n'était pas auparavant लक्ष्य
 
 **आदाय** Absolutif de **आ-दा** (3e classe de présent) "prendre"
-:::
-
-::: media
+::::::media
 ![](/images/lekt3210.webp)
 Fig. : तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
 Singes dans les manguiers.
 (Source de l'image : [Détails](/fr/licenses#lekt3210))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt3202:** Manguiers, Kanpur. [Source de l'image : AmarChandra / Wikipedia. CC BY-SA]
 

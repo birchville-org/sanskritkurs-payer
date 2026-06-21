@@ -12,18 +12,13 @@ status: stable
 ## 29.1. Use of the Parasmaipada (परस्मैपद) and Ātmanepada (आत्मनेपद) in the Causative
 
 
-::: grammar-box
+:::grammar-box
 **The causative is Ubhayapada (उभयपद) with few exceptions**
-:::
-
-
-::: grammar-box
+::::::grammar-box
 **In the causative, the Ātmanepada (आत्मनेपद) is used:**
 
 **1. When the result of the caused action benefits the causer:**
-:::
-
-Example:
+:::Example:
 
 रामः कटं कारयते = "Rāma has a mat made for himself (in his own interest)"
 
@@ -42,13 +37,11 @@ Thus, the rules generally correspond to the rules for the use of the Ātmanepada
 
 Prefixes:
 
-::: indent
+:::indent
 उद्° : up, upward, aloft, out, out-
 
 परि° : around, about (place, time), about
-:::
-
-भू + परि 1P परिभवति : (to become around someone = to encircle =) to master, to conquer; to disregard, to despise
+:::भू + परि 1P परिभवति : (to become around someone = to encircle =) to master, to conquer; to disregard, to despise
 
 अवज्ञान n.: disregard
 
@@ -58,28 +51,24 @@ Prefixes:
 
 ग्रस् 1Ā ग्रसते : to consume, to devour
 
-::: indent
+:::indent
 Fut. ग्रसिष्यते  
 Pass. ग्रस्यते  
 Caus. ग्रासयति  
 PPP ग्रस्त  
 Inf. ग्रसितुम्
-:::
-
-तीक्ष्ण 3: "wild", sharp, keen, strict, fierce, sharp-tongued
+:::तीक्ष्ण 3: "wild", sharp, keen, strict, fierce, sharp-tongued
 
 न्याय m.: norm, rule, right manner; method, logic (from इ + नि)
 
 परिव्राजक m.: wanderer, wandering monk, pilgrim
 
-::: media
+:::media
 ![](/images/lekt2903.webp)
 Fig.: परिव्राजकाः
 Pushkar = पुष्कर
 (Image source: [Details](/en/licenses#lekt2903))
-:::
-
-पालयति : also synonymous with  पाति
+:::पालयति : also synonymous with  पाति
 
 पुनर् Indecl.: again, again and again, back, once more; however, but (before voiced sounds except r-: पुनर्)
 
@@ -88,41 +77,33 @@ Pushkar = पुष्कर
 मत्स्य m.: fish
 
 from which:
-::: indent
+:::indent
 मात्स्य 3: belonging to fish (to fish)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2901.webp)
 Fig.: मत्स्यः
 (Image source: [Details](/en/licenses#lekt2901))
-:::
-
-मृदु  3 (f.: मृद्वी): gentle, mild, soft; slow, weak
+:::मृदु  3 (f.: मृद्वी): gentle, mild, soft; slow, weak
 
 यथा Adv.: how, as if
 
 रम् 1Ā रमते : to stand still, to rest, to linger; to take pleasure, to delight
 
-::: indent
+:::indent
 Fut. रंस्यते  
 Pass. रम्यते  
 Caus. रमयति  
 PPP रत  
 Inf. रन्तुम्
-:::
-
-वानप्रस्थ m.: forest hermit (someone who is in the 3rd आश्रम)
+:::वानप्रस्थ m.: forest hermit (someone who is in the 3rd आश्रम)
 
 शुचि 3: shining, gleaming, fine; m.: purity
 
 पूज् 10P पूजयति : to honor, to revere
 
-::: indent
+:::indent
 PPP पूजित
-:::
-
-## 29.3. Translation Exercise for Review
+:::## 29.3. Translation Exercise for Review
 
 Translate word-for-word into good German and memorize the Sanskrit texts:
 
@@ -149,20 +130,16 @@ Explanation: आत्मसु = Loc. sg. of आत्मन् m. "soul; the A
 **बलीयान**अबलं हि ग्रसते दण्डधराभावे ।१४।
 
 स तेन गुप्तः प्रभवतीति ।१५।
-::: indent
+:::indent
 **चतुर्व**र्णाश्रमो लोको  
 **राज्ञा** दण्डेन पालितः ।  
 स्वधर्मकर्माभिरतो  
 वर्तते **स्वेषु वर्त्मसु** ॥१६॥
-:::
-
-::: media
+::::::media
 ![](/images/lekt2902.jpg)
 Fig.: मात्स्यन्याय:
 (Image source: [Details](/en/licenses#lekt2902))
-:::
-
-Explanations:
+:::Explanations:
 
 ।८। उद्वेजनीय ३ "something (someone) before whom one must shudder"
 
@@ -186,7 +163,7 @@ Explanations:
 
 ## 29.4. Future and Causative for the Roots Learned So Far
 
-::: grammar-box
+:::grammar-box
 
 | Root[[br]]धातु | Future[[br]]ऌत् | Causative[[br]]कारित |
 | :--- | :--- | :--- |
@@ -275,8 +252,6 @@ Explanations:
 |हन् २ प|हनिष्यति|घातयति|
 |हृ १ उ|हरिष्यति|हारयति|
 
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt2903:** Pushkar = पुष्कर [Image source: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accessed 2008-12-20. -- Creative Commons License (Attribution, non-commercial use, share alike)]

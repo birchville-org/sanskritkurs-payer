@@ -31,13 +31,11 @@ A person without education is livestock.
 ७. **लाघवं वैयाकरणस्य भूषणम् ॥ ७ ॥**
 Brevity is the ornament of the grammarian.
 
-::: media
+:::media
 ![](/images/uebung083.webp)
 Fig.: विद्याविहीनः पशुः
 (Image source: [Details](/en/licenses#uebung083))
-:::
-
----
+:::---
 
 ## Translations into Sanskrit (Imperative)
 
@@ -55,13 +53,11 @@ The girls should give food to the beggars.
 ४. **ब्रवाम ॥ ४ ॥** (Or: **वचाम ॥**)
 We want to speak.
 
-::: media
+:::media
 ![](/images/uebung085.webp)
 Fig.: वचाम
 (Image source: [Details](/en/licenses#uebung085))
-:::
-
-५. **"एहि भिक्ष" इति बुद्धो नरमुपसमपादयत् ॥ ५ ॥**
+:::५. **"एहि भिक्ष" इति बुद्धो नरमुपसमपादयत् ॥ ५ ॥**
 With the words "Come, monk!" the Buddha admitted the man into the order.
 
 ६. **सन्मानवाः स्त ॥ ६ ॥**
@@ -109,13 +105,11 @@ They should sit in my house.
 २०. **भर्तारो भार्या बिभ्रतु ॥ २० ॥**
 Husbands should maintain their wives.
 
-::: media
+:::media
 ![](/images/uebung076.webp)
 Fig.: तानि फलान्यदाम
 (Image source: [Details](/en/licenses#uebung076))
-:::
-
----
+:::---
 
 ## The Dharma of Women (स्त्रीधर्मः)
 
@@ -149,13 +143,11 @@ Whoever carefully protects his wife, truly protects his offspring, his way of li
 **जायायास्तद्धि जायात्वं यद् अस्यां जायते पुनः ॥ ८ ॥**  
 The husband enters into his wife, becomes an embryo, and is then born here; this constitutes the "wifeness" (**जायात्वम्**) of the wife, that the husband is reborn in her.
 
-::: media
+:::media
 ![](/images/uebung084.webp)
 Fig.: अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।
 (Image source: [Details](/en/licenses#uebung084))
-:::
-
-::: media
+::::::media
 ![](/images/uebung077.webp)
 Fig.: पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते
 (Image source: [Details](/en/licenses#uebung077))

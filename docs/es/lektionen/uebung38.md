@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Inserte en las siguientes oraciones la forma correspondiente de las palabras entre paréntesis y traduzca:
 
-::: grammar-box
+:::grammar-box
 १. **राज्ञि** (o: **राजनि**) **धर्मं रक्षत्यभया जनाः ॥ १ ॥** (राजन्)
 Si el rey guarda la justicia y la costumbre, el pueblo está sin temor.
 
@@ -55,15 +55,11 @@ Los buenos reyes regalan a los hombres la ausencia de temor.
 
 १५. **राजसु धर्मं न रक्षत्सु सभया जनाः ॥ १५ ॥** (राजन्)
 Si los reyes no guardan la justicia y la costumbre, los hombres están llenos de temor.
-:::
-
-::: media
+::::::media
 ![](/images/uebung063.webp)
 Fig.: राज्ञे बलिनो हस्तिनो दीयेरन्
 (Fuente de la imagen: [Detalles](/licenses#uebung063))
-:::
-
----
+:::---
 
 ## Relato: Diez tontos (दश मूढाः)
 

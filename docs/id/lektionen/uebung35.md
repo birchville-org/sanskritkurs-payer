@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Form the corresponding perfect forms for the following verb forms:
 
-::: grammar-box
+:::grammar-box
 | Present / Imperfect | Perfect |
 | :--- | :--- |
 | १. **गायन्ति** | जगुः |
@@ -54,9 +54,7 @@ A) Form the corresponding perfect forms for the following verb forms:
 | ३९. **अचरत्** | चचार |
 | ४०. **जुह्वति** | जुहुवुः |
 | ४१. **अहरत्** | जहार |
-:::
-
-B) Translate:
+:::B) Translate:
 
 १. **एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥**
 Once upon a time, a great Kṣatriya began to sacrifice. Indra abducted (took) his sacrificial animal. But when the animal had disappeared, a wicked Brahman spoke to the Kṣatriya: "The animal has disappeared because of the bad conduct of the Kṣatriya."
@@ -84,7 +82,7 @@ C) Transform the sentences of exercise B) by replacing perfects with imperfects:
 
 ४. अर्हन्तः कुलबन्धनमभिन्दंल्लोभं च क्रोधं च मोहं चारुन्धन्सत्यमजानन्दुःखान्मुक्ता मोक्षसुखमाप्नुवन् ॥
 
-::: media
+:::media
 ![](/images/uebung058.webp)
 Fig.: ब्राह्मणीषु पचन्तीषु ...
 (Image source: [Details](/en/licenses#uebung058))

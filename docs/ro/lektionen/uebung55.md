@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Determinați și traduceți următoarele forme și formați formele corespunzătoare ale **aoristului a**:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Formă | Determinare / Semnificație | aorist a |
 |:---|:---|:---|:---|
 | १. | **दोक्ष्यन्ति** | *दुष्* 4P: 3. Pl. Fut. P. (ei vor perici) | **अदुषन्** |
@@ -46,9 +46,7 @@ Determinați și traduceți următoarele forme și formați formele corespunzăt
 | ३१. | **अशुष्याम** | *शुष्* 4P: 1. Pl. Impf. P. (noi am devenit uscați) | **अशुषाम** |
 | ३२. | **सिष्णेह** | *स्निह्* 4P: 1. 3. Sg. Perf. P. (eu am iubit / el a iubit) | **अस्निहम् / अस्निहत्** |
 
-:::
-
-::: media
+::::::media
 ![](/images/uebung092.webp)
 Fig.: अशोभथाः । अशुभः
 (Sursă imagine: [Detalii](/licenses#uebung092))

@@ -72,13 +72,11 @@ B) Insérez l'agent et le verbe au pluriel dans les phrases formées en A)
 
 १०. साधुजनो ऽधर्मं द्विषन्ति । द्विषते । न कुर्वन्ति । न कुर्वते ।
 
-::: media
+:::media
 ![](/images/uebung025.webp)
 Fig. : बालब्राह्मणी रोदिति
 (Source de l'image : [Détails](/fr/licenses#uebung025))
-:::
-
----
+:::---
 
 ## Exercice sur les formes verbales
 
@@ -175,7 +173,7 @@ Traduisez les formes verbales suivantes et indiquez la racine correspondante :
 ४५. **जीव्यते** (जीव् 1P) : on vit
 
 ४६. **दिश्यन्न्ते** (दिश् 6U) : ils sont montrés
-::: media
+:::media
 ![](/images/uebung026.webp)
 Fig. : शृणोति
 (Source de l'image : [Détails](/fr/licenses#uebung026))

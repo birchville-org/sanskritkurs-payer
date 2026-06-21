@@ -214,7 +214,7 @@ sa guruḥ. enaṃ śṛṇvanti.
 
 स गुरुः । एनं शृण्वन्ति ॥
 
-::: media
+:::media
 ![](/images/uebung006.jpg)
 Fig.: स गुरुः । एनं शृण्वन्ति ॥
 (Image source: [Details](/en/licenses#uebung006))

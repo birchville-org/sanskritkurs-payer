@@ -19,28 +19,23 @@ The lessons of the Sanskrit course deal with topics of Sanskrit grammar that hav
 
 ## 54.2. Word Formation: कृत् Suffix -u on Desiderative Stems
 
-:::: grammar-box
+::::grammar-box
 **On Desiderative stems (इच्छाप्रकृति) ("to wish to do something"; "to be about to do something") the suffix -u is added to form agent nouns.**
 
 (The formation of desiderative stems follows later)
 
 Example:
 
-::: indent
+:::indent
 युयुत्सु (yu-yudh + s + u) "eager for battle, about to fight"
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt5402.webp)
 Fig.: अयुयुत्सुरर्जुनः
 भगवद्गीतोपदेशः Tirupati = తిరుపతి
 (Image source: [Details](/en/licenses#lekt5402))
-:::
+:::## 54.3. Meter II: the epic त्रिष्टुभ् and the जगती
 
-## 54.3. Meter II: the epic त्रिष्टुभ् and the जगती
-
-:::: grammar-box
+::::grammar-box
 The त्रिष्टुभ् ("Three-sigh") appears in the epics amidst the usual श्लोक sections precisely at points where mood or action experience a special surge or conclusion.
 
 The त्रिष्टुभ् stanza consists of four eleven-syllable पाद, which do not differ from each other in structure.
@@ -49,77 +44,55 @@ The त्रिष्टुभ् has two basic schemas, depending on whether t
 
 Schema I:
 
-::: metrik-schema
+:::metrik-schema
 × — × — / × ◡ — ***— ◡ — —***
-:::
+:::Schema II:
 
-Schema II:
-
-::: metrik-schema
+:::metrik-schema
 × — × — × / × ◡ ***— ◡ — —***
-:::
-
-The quantity of the last four syllables is therefore identical in both schemas.
+:::The quantity of the last four syllables is therefore identical in both schemas.
 
 जगती basic form: as with त्रिष्टुभ्, but 12-syllable. The last 5 syllables of each Pada exhibit the following quantities:
 
-::: metrik-schema
+:::metrik-schema
 ***— ◡ — ◡ —***
-:::
+:::In addition, there is the so-called typically superfluous त्रिष्टुभ् with a five-syllable initial member, which continues like a त्रिष्टुभ् with a four-syllable initial member:
 
-In addition, there is the so-called typically superfluous त्रिष्टुभ् with a five-syllable initial member, which continues like a त्रिष्टुभ् with a four-syllable initial member:
-
-::: metrik-schema
+:::metrik-schema
 — × — × / × ◡ — ***— ◡ — —***
-:::
-
-In later times, the forms of the त्रिष्टुभ् are established according to a strict schema of long and short syllables; the caesura no longer plays a role. The most important later forms are:
+:::In later times, the forms of the त्रिष्टुभ् are established according to a strict schema of long and short syllables; the caesura no longer plays a role. The most important later forms are:
 
 a) इन्द्रवज्रा
 
-::: metrik-schema
+:::metrik-schema
 ***—*** — ◡ — , — ◡ ◡ — ◡ — —
-:::
+:::b) उपेन्द्रवज्रा
 
-b) उपेन्द्रवज्रा
-
-::: metrik-schema
+:::metrik-schema
 ***◡*** — ◡ — , — ◡ ◡ — ◡ — —
-:::
+:::c) उपजाति
 
-c) उपजाति
-
-::: indent
+:::indent
 पाद in इन्द्रवज्रा and पाद in उपेन्द्रवज्रा are mixed into one stanza.
-:::
-::::
-
-:::: grammar-box
+:::::::::::grammar-box
 **Mnemonic verses:**
 
 **स्यादिन्द्रवज्रा यदि तौ जगौ गः ।**
 
-::: indent
+:::indent
 "It is an Indravājrā if the syllables in all Pādas are ta ta ja ga ga.
-:::
+:::उपेन्द्रवज्रा प्रथमे लघौ सा ।
 
-उपेन्द्रवज्रा प्रथमे लघौ सा ।
-
-::: indent
+:::indent
 "An Upendravajrā is like an Indravajrā that has a light syllable at the beginning"
-:::
-
-अनन्तरोदीरितलक्ष्मभाजौ  
+:::अनन्तरोदीरितलक्ष्मभाजौ  
 पदौ यदीयावुपजातयस्ताः ।  
 इत्थं किलान्यास्वपिमिश्रितासु  
 वदन्ति जातिष्विदमिदमेवनाम ॥
 
-::: indent
+:::indent
 "If two Pādas, which have the features of Indravajrā and Upendravajrā respectively, are involved in a verse, then they are Upajātis. Also, if other meters are mixed in a verse, it is called Upajāti."
-:::
-::::
-
-## 54.4. Exercise on Metrics
+:::::::## 54.4. Exercise on Metrics
 
 Identify Triṣṭubhs and Jagatīs in Bhagavadgītā II.
 
@@ -127,13 +100,11 @@ Example of a recitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](h
 
 ## 54.5. Types of Aorist Formation (लुङ्)
 
-::: grammar-box
+:::grammar-box
 **What all types of Aorist formation (लुङ्) have in common is the augment a-, which is prefixed according to the same rules as in the Imperfect (लङ्).**
 
 In Sanskrit, only the Indicative and Optative of the Aorist are commonly used.
-:::
-
-::: grammar-box
+::::::grammar-box
 **The following types of Aorist formation (लुङ्) exist:**
 
 1.  Non-sibilant (asigmatic) Aorists:
@@ -147,31 +118,25 @@ In Sanskrit, only the Indicative and Optative of the Aorist are commonly used.
     *   54.7. -sa Aorist: Augment + Root + ***s*** + ***a*** + Secondary Ending
 
 For the distribution of roots among the individual types, see the respective types.
-:::
+:::## 54.6. Root Aorist
 
-## 54.6. Root Aorist
-
-::: grammar-box
+:::grammar-box
 **Formation:**
 
 **Augment + Root + Secondary Ending**
-:::
-
-The ending of the 3rd plural is -ur. The Ātmanepada is not commonly used.
+:::The ending of the 3rd plural is -ur. The Ātmanepada is not commonly used.
 
 Example:
 
 पा 1st person singular "to drink"
 
-::: grammar-box
+:::grammar-box
 |   | एकवचनम् | बहुवचनम् |
 | --- | --- | --- |
 | 1. तृतीयः | अपाम्[[br]]a-pā + am | अपाम |
 | 2. मध्यमः | अपास् | अपात |
 | 3. प्रथमः | अपात् | अपुर्[[br]]a-p-ur (Guṇa grade!) |
-:::
-
-The Root Aorist is formed from only 12 roots:
+:::The Root Aorist is formed from only 12 roots:
 
 1.  गा 3rd class "to go"
 2.  घ्रा 1st class "to smell"
@@ -188,19 +153,17 @@ The Root Aorist is formed from only 12 roots:
 
 For भू 1st class, the Root Aorist is formed as follows:
 
-::: grammar-box
+:::grammar-box
 |   | एकवचनम् | बहुवचनम् |
 | --- | --- | --- |
 | 1. तृतीयः | अभूवम् | अभूम |
 | 2. मध्यमः | अभू्स् | अभूत |
 | 3. प्रथमः | अभूत् | ***अभूवन्*** (!!!) |
-:::
-
-### 54.6.1. The Aorist of the 3rd sg. Passive
+:::### 54.6.1. The Aorist of the 3rd sg. Passive
 
 A special form of the root aorist is the aorist of the 3rd sg. passive. This can be formed from all roots.
 
-::: grammar-box
+:::grammar-box
 **Formation:**
 
 **Augment + Root + i**
@@ -250,9 +213,7 @@ Nasal infix:
     
 
 (The other forms of the passive are expressed in the aorist by Ātmanepada forms).
-:::
-
-## 54.7. Exercise
+:::## 54.7. Exercise
 
 Write the following forms and form the corresponding aorist forms:
 
@@ -280,14 +241,12 @@ Write the following forms and form the corresponding aorist forms:
 22.  गीयते
 23.  गम्यते
 
-::: media
+:::media
 ![](/images/lekt5401.webp)
 Fig.: त्रिचक्रेणेश्वरः स्तूयते
 Tamil Nadu
 (Image source: [Details](/en/licenses#lekt5401))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt5402:** भगवद्गीतोपदेशः Tirupati = తిరుపతి [Image source: Raji Srinivas / Wikipedia. GNU FDLicense]
 

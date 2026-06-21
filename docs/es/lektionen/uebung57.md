@@ -12,7 +12,7 @@ last_reconstructed: 2026-05-15
 
 Traduzca y determine las siguientes formas y forme las correspondientes formas del **Aoristo**. A excepción de las causativas y de las raíces que forman el **aoristo en s**, se indica entre paréntesis la clase del aoristo correspondiente:
 
-::: grammar-box
+:::grammar-box
 | Núm. | Forma | Determinación / Significado | Aoristo |
 |:---|:---|:---|:---|
 | १. | **पेचिथ** | *पच्* 1U: 2. Sg. Perf. P. (tú engendraste) | **अपाक्षीः** |
@@ -40,21 +40,17 @@ Traduzca y determine las siguientes formas y forme las correspondientes formas d
 | २३. | **निन्य** | *नी* 1U: 2. Pl. Perf. P. (vosotros habéis guiado) | **अनैष्ट** |
 | २४. | **कर्षन्ति** | *कृष्* 1P: 3. Pl. Ind. Pres. P. (ellos se mueven) | **अकार्क्षुः / अक्राक्षुः** |
 | २५. | **अप्रच्छयन्** | *प्रच्छ्* 6P: 3. Pl. Impf. P. Caus. (ellos dejaron preguntar) | **अपप्रच्छन्** |
-:::
-
-::: media
+::::::media
 ![](/images/uebung090.webp)
 Fig.: वारानास्यां गङ्गायामप्लोढ्वम्
 (Fuente de la imagen: [Detalles](/licenses#uebung090))
-:::
-
----
+:::---
 
 ## B) Determinaciones de palabras
 
 Determine y traduzca las siguientes formas:
 
-::: grammar-box
+:::grammar-box
 | Núm. | Forma | Determinación / Significado |
 |:---|:---|:---|
 | १. | **चेलुः** | *चल्* 1P: 3. Pl. Perf. P. (se han puesto en movimiento) |
@@ -114,9 +110,7 @@ Determine y traduzca las siguientes formas:
 | ५४. | **आदिषि** | *आ-दा* 3Ā: 1. Sg. s-Aor. Ā. (tomé) |
 | ५५. | **पाणी** | *पाणि* m.: Nom. Acus. Voc. Du. (ambas manos) |
 | ५६. | **अस्प्राक्षम्** | *स्पृश्* 6P: 1. Sg. s-Aor. P. (toqué) |
-:::
-
-::: media
+::::::media
 ![](/images/uebung094.webp)
 Fig.: पाणी धूपं कुरुतः ॥
 (Fuente de la imagen: [Detalles](/licenses#uebung094))

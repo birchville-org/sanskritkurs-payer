@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-21
 
 ## 55.1. El aoristo en -a (aoristo con vocal temática)
 
-::: grammar-box
+:::grammar-box
 **El aoristo en -a se forma como un imperfecto (लङ्) de la 6.ª clase de presente (तुदादि), es decir:**
 
 **Aumento + raíz en grado reducido (tiefstufige) + a + terminación secundaria**
@@ -19,38 +19,30 @@ last_reconstructed: 2026-05-21
 **El Ātmanepada es raro; para las raíces Ubhayapada, por lo general se forma según otras clases de aoristo (véase Kielhorn, Grammatik §340, así como más abajo en las correspondientes clases de aoristo).**
 
 **Lista de las raíces que tienen este aoristo en Kielhorn, Grammatik §340.**
-:::
-
-Ejemplo:
+:::Ejemplo:
 
 सिच् 6U "rociar"
 
-::: indent
+:::indent
 |   | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
 |   | Singular | Plural | Singular | Plural |
 | 1\. Tercera persona | असिचम् | असिचाम | असिचे | असिचामहि |
 | 2\. Segunda persona | असिचस् | असिचत | असिचथास् | असिचध्वम् |
 | 3\. Primera persona | असिचत् | असिचन् | असिचत | असिचन्त |
-:::
+:::Formaciones irregulares:
 
-Formaciones irregulares:
-
-::: indent
+:::indent
 अस् 4P "lanzar": ***आस्थम्, आस्थत्*** (véase la explicación en Thumb-Hauschild §541,4)
 
 ख्या + आ 2P "relatar": ***अख्यम्, अख्यत्***
 
 दृश् "ver": ***अदर्शम्, अदर्शत्*** (grado elevado)
-:::
+:::Obsérvese:
 
-Obsérvese:
-
-::: indent
+:::indent
 शास् 2P "ordenar": अशिषत् (grado reducido regular)
-:::
-
-## 55.2. Ejercicio
+:::## 55.2. Ejercicio
 
 Determinar y traducir por escrito las siguientes formas, y formar las correspondientes formas del aoristo de tema en *a*:
 
@@ -87,14 +79,12 @@ Determinar y traducir por escrito las siguientes formas, y formar las correspond
 31.  अशुष्याम
 32.  सिष्णेह
 
-::: media
+:::media
 ![](/images/lekt5501.webp)
 Fig.: अजीर्यमिति
 'Inâyat Khân en su lecho de muerte, esbozo para una miniatura de un manuscrito dedicado a Jahângîr = جهانگير, hacia 1618
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5501))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 
 **lekt5501:** 'Inâyat Khân en su lecho de muerte, esbozo para una miniatura de un manuscrito dedicado a Jahângîr = جهانگير, hacia 1618 [Fuente de la imagen: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Acceso el 28-01-2009. De dominio público]

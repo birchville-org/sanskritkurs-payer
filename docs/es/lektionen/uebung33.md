@@ -106,13 +106,11 @@ Los de mente limitada realizan méritos y se abstienen del mal porque temen a lo
 
 मितमतिर्नरकभयात्स्वर्गलोभाच्च पुण्यं करोति पापं च जहाति । अमितप्रज्ञाबुद्धो हि नरकेभ्यो न बिभीयात्स्वर्गांश्च न लुभ्येत् । स भयं च लोभं चारुणत् । ... बिभियात् ... ॥७॥
 
-:::: media
+::::media
 ![](/images/uebung055.webp)
 Fig.: मितमतयो नरकभयाद्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति
 (Fuente de la imagen: [Detalles](/licenses#uebung055))
-:::
-
-::: media
+::::::media
 ![](/images/uebung056.webp)
 Fig.: मितमतयो नरकभयाद्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति
 (Fuente de la imagen: [Detalles](/licenses#uebung056))

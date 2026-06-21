@@ -48,13 +48,11 @@ kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 
 B) Formați întrebări conform modelului etat kim (एतत्किम्) pentru următoarea exercițiu de lectură și răspundeți la întrebări cu cuvintele indicate și pronumele demonstrative, de exemplu eṣa bālaḥ (एष बालः):
 
-::: media
+:::media
 ![](/images/lekt0401.webp)
 Fig.: एष कः । एष गजः । अयं गजः । स गजः । एषा का । एषा बाला । इयं बाला । सा बाला ।
 (Sursa imaginii: [Detalii](/licenses#lekt0401))
-:::
-
-eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
+:::eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
 
 एष कः । एष गजः । अयं गजः । स गजः ।
 
@@ -90,7 +88,7 @@ etat kim? eṣā pipīlikā.
 
 एतत्किम् । एषा पिपीलिका ॥
 
-::: media
+:::media
 ![](/images/uebung003.webp)
 Fig.: एतत्किम् । एष काकः ।
 (Sursa imaginii: [Detalii](/licenses#uebung003))

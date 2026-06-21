@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Determinare le seguenti forme:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung |
 |:---|:---|:---|
 | १. | **गृहाणि** | *गृह* n.: Nom. Akk. Pl. n. |
@@ -52,15 +52,11 @@ Determinare le seguenti forme:
 | ३७. | **बन्धनीय** | *बन्ध्* 9P: Gerundiv Vok. Sg. m. n. |
 | ३८. | **गायी** | *गायिन्*: Nom. Sg. m. |
 | ३९. | **मह्यम्** | *अहम्*: Dat. Sg. |
-:::
-
-::: media
+::::::media
 ![](/images/uebung078.webp)
 Fig.: गायी
 (Bildquelle: [Details](/it/licenses#uebung078))
-:::
-
----
+:::---
 
 ## बाण (७. sec. d. C.): कादम्बरी
 
@@ -74,7 +70,7 @@ Domande del re **शूद्रक** di **विदिशा** al pappagallo **
 >
 > Vaiśampāyana, tuttavia, che era stato posto dal signore della terra con una curiosità spontanea con grande rispetto, rifletté un momento e poi rispose con grande rispetto: "Re, questa è una storia lunga. Se ti interessa, prestami il tuo orecchio!"
 
-::: media
+:::media
 ![](/images/uebung079.webp)
 Fig.: शुकः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung079))

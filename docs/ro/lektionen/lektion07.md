@@ -9,18 +9,16 @@ status: stable
 
 # Lecția 7
 
-::: deleteme-box
+:::deleteme-box
 **În această lecție veți învăța:**
 - Propoziția verbală cu complement direct
 - Acuzativul substantivelor și pronumelor
 - Sandhi-ul pentru -n final
 - Neutru al stemelor în a-
 - Clasele de prezent atematic (exemplificat prin clasa a 5-a)
-:::
+:::## Proverbul săptămânii
 
-## Proverbul săptămânii
-
-::: center
+:::center
 धर्मो जयति नधर्मः
 सत्यं जयति नानृतम् |
 क्षमा जयति न क्रोधो
@@ -35,28 +33,24 @@ Dreptatea învinge, nu nedreptatea,
 Adevărul învinge, nu minciuna,
 Îndurarea învinge, nu mânia,
 Dumnezeu învinge, nu demonul.
-:::
-
----
+:::---
 
 ## 7.1. Propoziția verbală cu complement direct
 
-::: grammar-box
+:::grammar-box
 **Schema:**
 **(Agent = kartṛ m. = कर्तृ) – complement direct (karman n. = कर्मन्) – verb**
 
 de exemplu:
 - **rāmaḥ phalaṃ khādati** = रामः फलं खादति: „Rāma mănâncă (gustă) un fruct.”
 - **brāhmaṇo devaṃ yajati** = ब्राह्मणो देवं यजति: „Brahmanul închină unui zeu cu un sacrificiu (pentru altcineva).”
-:::
-
-Dacă verbul este la Parasmaipada sau Ātmanepada, atunci complementul direct (**karman** n. = कर्मन्) se află, în general, la **Acuzativ** (cazul al patrulea, dvitīyā f. = द्वितीया).
+:::Dacă verbul este la Parasmaipada sau Ātmanepada, atunci complementul direct (**karman** n. = कर्मन्) se află, în general, la **Acuzativ** (cazul al patrulea, dvitīyā f. = द्वितीया).
 
 ---
 
 ## 7.2. Acuzativul (Cazul al patrulea, dvitīyā f. = द्वितीया = "a doua terminație de caz")
 
-::: grammar-box
+:::grammar-box
 **Terminația acuzativului singular masculin și feminin după vocală: -m**
 
 | Masculine pe | Acuzativ singular |
@@ -71,9 +65,7 @@ Dacă verbul este la Parasmaipada sau Ātmanepada, atunci complementul direct (*
 | **-i**: śruti | **śrutim**[[br]]श्रुतिम् |
 | **-ī**: devī | **devīm**[[br]]देवीम् |
 | **-u**: dhenu | **dhenum**[[br]]धेनुम् |
-:::
-
-::: grammar-box
+::::::grammar-box
 **Acuzativul plural masculin al stemelor pe vocală (excepție: stemelor de rădăcină monosilabice cu vocală lungă): Lungirea vocalei finale + -n**
 
 | Masculine pe | Acuzativ plural |
@@ -81,9 +73,7 @@ Dacă verbul este la Parasmaipada sau Ātmanepada, atunci complementul direct (*
 | **-a**: deva | **devān**[[br]]देवान् |
 | **-i**: kavi | **kavīn**[[br]]कवीन् |
 | **-u**: guru | **gurūn**[[br]]गुरून् |
-:::
-
-::: grammar-box
+::::::grammar-box
 **Acuzativul plural feminin al stemelor pe vocală (excepție: stemelor de rădăcină monosilabice cu vocală lungă): Lungirea vocalei finale + -s**
 
 | Feminine pe | Acuzativ plural |
@@ -92,13 +82,11 @@ Dacă verbul este la Parasmaipada sau Ātmanepada, atunci complementul direct (*
 | **-i**: śruti | **śrutīs**[[br]]श्रुतीस् |
 | **-ī**: devī | **devīs**[[br]]देवीस् |
 | **-u**: dhenu | **dhenūs**[[br]]धेनूस् |
-:::
-
----
+:::---
 
 ### 7.2.1. Acuzativul singular și plural al pronumelor interogative și demonstrative
 
-::: grammar-box
+:::grammar-box
 | | | Masculin | Feminin | Neutru |
 | :--- | :--- | :--- | :--- | :--- |
 | **kim**[[br]]cine/ce | sg. | **kam**[[br]]कम् | **kām**[[br]]काम् | **kim**[[br]]किम् |
@@ -109,16 +97,14 @@ Dacă verbul este la Parasmaipada sau Ātmanepada, atunci complementul direct (*
 | | pl. | **etān / enān**[[br]]एतान् / एनान् | **etās / enās**[[br]]एतास् / एनास् | **etāni / enāni**[[br]]एतानि / एनानि |
 | **idam**[[br]]acesta | sg. | **imam / enam**[[br]]इमम् / एनम् | **imām / enām**[[br]]इमाम् / एनाम् | **idam / enad**[[br]]इदम् / एनद् |
 | | pl. | **imān / enān**[[br]]इमान् / एनान् | **imās / enās**[[br]]इमास् / एनास् | **imāni / enāni**[[br]]इमानि / एनानि |
-:::
-
-Formele **enam** (एनम्) etc. apar la tema **enad** (एनद्), care formează cazuri doar în unele cazuri. Acestea sunt folosite în loc de formele lui **etad** și **idam** atunci când ceea ce este indicat prin acestea a fost deja menționat în textul anterior.
+:::Formele **enam** (एनम्) etc. apar la tema **enad** (एनद्), care formează cazuri doar în unele cazuri. Acestea sunt folosite în loc de formele lui **etad** și **idam** atunci când ceea ce este indicat prin acestea a fost deja menționat în textul anterior.
 de ex. **ayaṃ devaḥ, enaṃ yajante.** = अयं देवः | एनं यजन्ते || : "El este un zeu. Se jertfește lui."
 
 ---
 
 ### 7.2.2. Utilizarea acuzativului (cazul al doilea, dvitīyā f. = द्वितीया = "a doua terminație de caz")
 
-::: grammar-box
+:::grammar-box
 Acuzativul (dvitīyā f. = द्वितीया) indică:
 1. În propoziția verbală non-pasivă: **obiectul direct** (karman n. = कर्मन्) al acțiunii exprimate de verb:
    De exemplu:
@@ -127,15 +113,13 @@ Acuzativul (dvitīyā f. = द्वितीया) indică:
 2. La verbe care exprimă o mișcare, un mers, o conducere sau similar spre ceva, acuzativul indică ținta mișcării:
    De exemplu:
    - **narakaṃ gacchati** = नरकं गच्छति : "El merge la iad."
-:::
-
-Utilizări suplimentare ale acuzativului vor fi tratate mai târziu.
+:::Utilizări suplimentare ale acuzativului vor fi tratate mai târziu.
 
 ---
 
 ## 7.3. Sandhi de finalul -n
 
-::: grammar-box
+:::grammar-box
 **Finalul -n:**
 
 1. În fața consoanelor palatale și retroflexe sonore sparśa și în fața **ś-** este înlocuit cu nasalul corespunzător acestor sunete:
@@ -156,32 +140,26 @@ Utilizări suplimentare ale acuzativului vor fi tratate mai târziu.
    **devān + tu** » **devāṃs tu** = देवांस्तु: „dar zeii (Ac.)”
 
 4. În afară de după vocala scurtă (a se vedea mai târziu), finalul **-n** rămâne neschimbat în toate celelalte cazuri.
-:::
-
----
+:::---
 
 ## 7.4. Neutru (napuṃsaka n. = नपुंसक)
 
-::: grammar-box
+:::grammar-box
 **În neutru, formele pentru nominativ (prathamā) și acuzativ (dvitīyā) sunt identice.**
-:::
+:::### 7.4.1. Neutrule stemurilor în -a
 
-### 7.4.1. Neutrule stemurilor în -a
-
-::: grammar-box
+:::grammar-box
 - **Sfârșitul Nominativ / Acuzativ Singular: -m**
   de ex. **phala** n. = फल = "fruct": Nom. / Ac. sg. **phalam** = फलम्
 - **Sfârșitul Nominativ / Acuzativ Plural: -āni**
   de ex. **phala** n. = फल: Nom. / Ac. pl. **phalāni** = फलानि
-:::
-
----
+:::---
 
 ## 7.5. Clase de prezente atematice
 
 Clasa a 5-a de prezente formează un numit rădăcină de prezent atematic, adică rădăcina de prezent nu se termină, spre deosebire de clasele de prezente tematice (clasele 1., 4., 6., 10-a) cu "vocala tematică" **-a**.
 
-::: grammar-box
+:::grammar-box
 **Clasele de prezente atematice au aberevare de rădăcină, adică există două forme ale rădăcinii de prezent:**
 1. **rădăcină puternică**: grad înalt (rar grad lung)
 2. **rădăcină slabă**: grad jos
@@ -192,26 +170,20 @@ Clasa a 5-a de prezente formează un numit rădăcină de prezent atematic, adic
 - la persoana a treia singular imperativ (loṭ) Parasmaipada
 
 **Toate celelalte forme au rădăcina slabă de prezent.**
-:::
+:::### 7.5.1. Terminațiile primare ale persoanei a III-a plural la rădăcini neaspirate
 
-### 7.5.1. Terminațiile primare ale persoanei a III-a plural la rădăcini neaspirate
-
-::: grammar-box
+:::grammar-box
 **La rădăcinile de prezent neaspirate, terminațiile primare ale persoanei a III-a plural sunt:**
 - **Parasmaipada: -anti**
 - **Ātmanepada: -ate**
-:::
+:::### 7.5.2. Cea de-a 5-a clasă de prezent (svādi = स्वादि = "su etc.")
 
-### 7.5.2. Cea de-a 5-a clasă de prezent (svādi = स्वादि = "su etc.")
-
-::: grammar-box
+:::grammar-box
 - **Stem puternic**: (în majoritate) rădăcină cu grad redus (așa cum s-a menționat) + **-no-**
 - **Stem slab**: (în majoritate) rădăcină cu grad redus (așa cum s-a menționat) + **-nu-**
 
 **Înainte de terminații vocalice, la rădăcinile care se termină în vocală, -nu- se înlocuiește cu -nv-, iar la rădăcinile care se termină în consoană, înainte de terminații vocale, -nu- se înlocuiește cu -nuv-.**
-:::
-
-**Exemple:**
+:::**Exemple:**
 
 | Rădăcină[[br]]धातु | Stem puternic | Stem slab | Înainte de vocală[[br]](slab) |
 | :--- | :--- | :--- | :--- |
@@ -234,12 +206,11 @@ Clasa a 5-a de prezente formează un numit rădăcină de prezent atematic, adic
 - **śru** 5 P (śṛṇoti !) श्रु शृणोति : auzi (ceva: Acuzativ, pe cineva: Genetiv sau Acuzativ; despre: Acuzativ; de la cineva: Genetiv, Ablativ, Instrumental)
 - **su** 5 U (sunoti) सु सुनोति : stoarce
 - **soma** m. सोम : băutură stoarsă, Soma; Lună (Din ce plantă a fost stoarsă Soma este încă dezbătută până în prezent).
-::: media
+:::media
 ![](/images/lekt0701.webp)
 Fig.: A fost aceasta planta Soma vedică?: Ciuperca muștar: *Amanita muscaria* (L.) Lam.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0701))
-:::
-- **phala** n. फल : fruct (chiar și în sens figurat: (karmic) fruct al unei acțiuni)
+:::- **phala** n. फल : fruct (chiar și în sens figurat: (karmic) fruct al unei acțiuni)
 - **nṛtya** n. नृत्य : dans
 - **svarga** m. स्वर्ग : cer
 - **naraka** m. नरक : iad (conform unei concepții hinduse, universul are forma unui ou (**Brahmāṇḍa** m.n. = ब्रह्माण्ड = "Ou al lui Brahmā"): deasupra pământului sunt șase ceruri cu fericire crescătoare, sub pământ sunt șapte așa-numite **pātāla** n. = पाताल, locuințe ale **nāga** m. = नाग (șerpi) și alte ființe mitice, printre care se află 7 iaduri cu chinuri crescătoare)
@@ -257,13 +228,11 @@ Fig.: A fost aceasta planta Soma vedică?: Ciuperca muștar: *Amanita muscaria* 
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
    ब्राह्मणस् ... यजति (देव, देवी, विष्णु, अग्नि, देवता)
 
-::: media
+:::media
 ![](/images/lekt0704.webp)
 Fig.: Viṣṇu = विष्णु, secolele 8./9.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0704))
-:::
-
-2. gurus ... khādati (phala)
+:::2. gurus ... khādati (phala)
    गुरुस् ... खादति (फल)
 3. sādhus ... gacchati (svarga)
    साधुस् ... गच्छति (स्वर्ग)
@@ -298,13 +267,11 @@ Fig.: Viṣṇu = विष्णु, secolele 8./9.
 4. yajati.
    यजति |
 
-::: media
+:::media
 ![](/images/lekt0702.webp)
 Fig.: **yajati** = यजति — Jertfă vedică = **yajña** m. = यज्ञ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0702))
-:::
-
-**E) Formați acuzativul (dvitīyā) sg. și pl. pentru toate substantivele învățate până acum.**
+:::**E) Formați acuzativul (dvitīyā) sg. și pl. pentru toate substantivele învățate până acum.**
 
 **F) Traduceți:**
 
@@ -320,12 +287,10 @@ Fig.: **yajati** = यजति — Jertfă vedică = **yajña** m. = यज्�
    शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि |
 8. Cărui zeu jertfe acest brahman?
 
-::: media
+:::media
 ![](/images/lekt0703.webp)
 Fig.: Cărui zeu i se jertfe aici? Răspuns: Gaṇeśa (Gaṇapati) = गणेश (गणपति). Gaṇapatihoma (yajña).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0703))
-:::
-
-9. Ce mestecă acest om sfânt?
+:::9. Ce mestecă acest om sfânt?
 10. Ce stoarc acești (aici)?
 11. El este învățătorul. La el ascultă (= ei ascultă).

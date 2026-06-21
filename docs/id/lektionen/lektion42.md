@@ -13,7 +13,7 @@ status: stable
 
 ### 42.1.1. Tribes with lengthened grade in the strong stem
 
-::: grammar-box
+:::grammar-box
 All masculines ending in -ṛ with the exception of the kinship terms listed under 1.3. Included here are also the kinship terms:
 
 *   **नप्तृ** m. "grandson"
@@ -29,15 +29,11 @@ The majority of the nouns belonging here are agent nouns formed with the कृ�
     *   **before consonant: -ṛ**
 
 Note the irregular formations (marked in ***red***)!
-:::
+:::Masculine:
 
-Masculine:
-
-::: indent
+:::indent
 **दातृ** m. "giver"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | | एकवचनम् | बहुवचनम् |
 | :--- | :--- | :--- |
@@ -49,19 +45,15 @@ Masculine:
 | षष्ठी | ***दातुस्*** | ***दातॄणाम्*** |
 | सप्तमी | ***दातरि*** | दातृषु |
 
-:::
-
-For an explanation of the irregular formations, see Thumb-Hauschild I,2 pp. 76-81
+:::For an explanation of the irregular formations, see Thumb-Hauschild I,2 pp. 76-81
 
 Feminine:
 
-::: indent
+:::indent
 **स्वसृ** f. is declined like **दातृ** with the exception of the accusative (**द्वितीया**) plural: ***स्वसॄस्***.
-:::
+:::### 42.1.2. Nominal Derivation: कृत् Suffix -तृ
 
-### 42.1.2. Nominal Derivation: कृत् Suffix -तृ
-
-::: grammar-box
+:::grammar-box
 The very common कृत् suffix -तृ is used to form nominal agents (designations for the कर्तृ) from almost any root or causative stem.
 
 **Formation:**
@@ -71,11 +63,9 @@ The very common कृत् suffix -तृ is used to form nominal agents (desi
 or
 
 *   **strong-grade root / causative stem + i + tṛ**
-:::
+:::Examples:
 
-Examples:
-
-::: indent
+:::indent
 **कर्तृ** m. "agent"
 
 **जेतृ** m. "winner"
@@ -85,25 +75,19 @@ Examples:
 **रक्षितृ** m. "protector"
 
 **बोधयितृ** m. "awakener"
-:::
-
-::: media
+::::::media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Fig.: अयं बोधयिता
 (Image source: [Details](/en/licenses#lekt4201))
-:::
-
-::: grammar-box
+::::::grammar-box
 Rarely occurring neuters in -तृ have a partially independent declension (see Kielhorn, Grammar § 148).
 
 The feminine of stems in -तृ ends in **-त्री** (cf. **देवी**).
 
 e.g. **कर्त्री** f. "female agent"
-:::
+:::### 42.1.3. Tribes with strong stem grade
 
-### 42.1.3. Tribes with strong stem grade
-
-::: grammar-box
+:::grammar-box
 The following kinship terms belong to this category:
 
 *   **पितृ** m. "father"
@@ -120,17 +104,13 @@ The following kinship terms belong to this category:
 *   **weak stem**
     *   **before vowel: -r**
     *   **before consonant: -ṛ**
-:::
+:::Examples:
 
-Examples:
-
-::: indent
+:::indent
 **पितृ** m. "father"
 
 **मातृ** f. "mother"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | | पुंस् (एकवचनम्) | पुंस् (बहुवचनम्) | स्त्री (एकवचनम्) | स्त्री (बहुवचनम्) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -138,18 +118,14 @@ Examples:
 | द्वितीया | ***पितरम्*** | पितॄन् | ***मातरम्*** | मातॄस् |
 | Rest as दातृ | ← | ← | ← | ← |
 
-:::
+:::### 42.1.4. Stems ending in -ṛ in compounds
 
-### 42.1.4. Stems ending in -ṛ in compounds
-
-::: grammar-box
+:::grammar-box
 As the first member of a compound, nouns ending in -ṛ naturally stand in their weak stem, i.e.
 
 *   **before consonants: -ṛ**
 *   **before vowels: -r**
-:::
-
-## 42.2. Word List
+:::## 42.2. Word List
 
 प्रकृति f.: (from कृ + प्र) basic form, natural state, nature; primordial matter, prime substance
 
@@ -157,11 +133,9 @@ As the first member of a compound, nouns ending in -ṛ naturally stand in their
 
 स्था + अव 1Ā अवतिष्ठते : to abstain from, to keep away from, to keep distant, to remain, to stand
 
-::: indent
+:::indent
 PPP अवस्थित 3: standing, located
-:::
-
-पुरा Adv.: once, formerly
+:::पुरा Adv.: once, formerly
 
 अनेक 3: many (not a few)
 
@@ -181,7 +155,7 @@ PPP अवस्थित 3: standing, located
 
 चल् 1P चलति : to get into motion
 
-::: indent
+:::indent
 Fut. चलिष्यति  
 Perf. Vb चचाल, चेलुर्  
 Pass. चल्यते  
@@ -189,9 +163,7 @@ Caus. चलयति । चालयति
 PPP चलित  
 Absol. -चल्य  
 Inf. चलितुम्
-:::
-
-अधिपति m. = राजन्
+:::अधिपति m. = राजन्
 
 आटोप m.: vanity, pride
 
@@ -209,7 +181,7 @@ Inf. चलितुम्
 
 शंस् 1P शंसति : to praise, to command
 
-::: indent
+:::indent
 Fut. शंसिष्यति  
 Perf. I शशंस  
 Pass. शस्यते  
@@ -217,19 +189,15 @@ Caus. शंसयति
 PPP शस्त  
 Absol. शसित्वा । शस्त्वा  
 Inf. शंसितुम्
-:::
-
-हृदय n.: heart
+:::हृदय n.: heart
 
 ### 42.2.1. Some Kinship Terms
 
-::: media
+:::media
 ![lekt4202.jpg](/images/lekt4202.webp)
 Fig.: माता, पिता, पुत्रकः
 (Image source: [Details](/en/licenses#lekt4202))
-::: 
-
-भर्तृ m. (from भृ "to carry, to sustain"): Sustainer, Nourisher, Husband
+:::भर्तृ m. (from भृ "to carry, to sustain"): Sustainer, Nourisher, Husband
 
 भार्या f., जाया f. पत्नी f.: Wife (भार्या = gerundive from भृ : one to be carried, one to be sustained, one entitled to maintenance)
 
@@ -288,21 +256,17 @@ Translate:
 
 कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति ॥२॥
 
-::: media
+:::media
 ![lekt4203.jpg](/images/lekt4203.webp)
 Fig.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Image source: [Details](/en/licenses#lekt4203))
-:::
+:::आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥
 
-आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥
-
-::: media
+:::media
 ![lekt4204.jpg](/images/lekt4204.webp)
 Fig.: अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति ।
 (Image source: [Details](/en/licenses#lekt4204))
-:::
-
-कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥
+:::कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥
 
 भर्त्रा भार्या भर्तव्या । तस्माद्भार्येत्युच्यते ॥५॥
 
@@ -326,13 +290,11 @@ Fig.: अर्जुनो रथे सीदति । कृष्णो ऽ
 
 सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे ***ऽयोध्या***धिपते***र्दशरथस्य*** पुत्रः श्री***रामः*** ***सलक्ष्मणो*** ***विश्वामित्रेण*** तत्रानीयत । श्री***रामो*** महर्षेर्***विश्वामित्र***स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥
 
-::: media
+:::media
 ![lekt4208.jpg](/images/lekt4208.webp)
 Fig.: धनुर्द्वेधा भग्नं बभूव
 (Image source: [Details](/en/licenses#lekt4208))
-:::
-
-साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥
+:::साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥
 
 जनकस्य राज्ञो हृदयं प्रहृष्टं बभूव । ततः स दशरथादीनानाय्य महता विभवेन ***सीतारामयोर्वि***वाहोत्सवं निरवर्तयन् ॥
 
@@ -342,21 +304,17 @@ Explanation of the ***red*** highlighted expressions:
 
 सीता f. proper name: daughter of King जनक from विदेह. She had emerged from the earth when the king once plowed the field, hence her name: सीता f. "furrow of the field"
 
-::: media
+:::media
 ![lekt4205.jpg](/images/lekt4205.webp)
 Fig.: रामः, सीता, हनुमान्, लक्ष्मनः
 (Image source: [Details](/en/licenses#lekt4205))
-:::
+:::मिथिला f. proper name: capital of विदेह
 
-मिथिला f. proper name: capital of विदेह
-
-::: media
+:::media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Fig.: मिथिला, विदेहः, अयोध्या, कोसलः
 (Image source: [Details](/en/licenses#lekt4206))
-:::
-
-जनक m. proper name: king of विदेह
+:::जनक m. proper name: king of विदेह
 
 गुरुतर 3: comparative of गुरु 3: heavier, very heavy
 
@@ -368,13 +326,11 @@ Fig.: मिथिला, विदेहः, अयोध्या, कोस�
 
 रावण m. proper name; ruler of लङ्का, ruler of the राक्षस.
 
-::: media
+:::media
 ![lekt4207.jpg](/images/lekt4207.webp)
 Fig.: रावणः
 (Image source: [Details](/en/licenses#lekt4207))
-:::
-
-अयोध्या f. proper name: capital of कोसल (see map above!)
+:::अयोध्या f. proper name: capital of कोसल (see map above!)
 
 दशरथ m. proper name: king of कोसल
 
@@ -386,7 +342,7 @@ Fig.: रावणः
 
 सीतारामयोस् Gen.Lok.Dual from सीताराम
 
-::: deleteme-box
+:::deleteme-box
 
 * **Fig. lekt4201**: अयं बोधयिता. (Image source: Wikipedia. Public domain)
 * **Fig. lekt4202**: माता, पिता, पुत्रकः. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Image source: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accessed on 2009-01-04. -- Creative Commons License (Attribution, non-commercial use, share alike))

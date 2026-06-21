@@ -13,7 +13,7 @@ status: stable
 
 Las desinencias de la primera persona (***तृतीयः*** पुरुषः = "***tercera*** persona") son:
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
@@ -25,21 +25,18 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 | **Desinencia del optativo** | ^^ | ^^ | **-a** | ^^ |
 | **Desinencia del perfecto** | **-a** | ^^ | **-e** | **-mahe** |
 
-::::
-1 Nota: en realidad, la desinencia primaria de las raíces ā también se establece como -e, ante la cual la vocal temática -a- cae por razones de analogía. Sin embargo, el efecto es como si la desinencia -i se uniera a la vocal temática -a-: a + i » e.
+::::1 Nota: en realidad, la desinencia primaria de las raíces ā también se establece como -e, ante la cual la vocal temática -a- cae por razones de analogía. Sin embargo, el efecto es como si la desinencia -i se uniera a la vocal temática -a-: a + i » e.
 
 ## 39.2. Formación de las formas verbales de la primera persona de las raíces de presente temático
 
-::: grammar-box
+:::grammar-box
 **Regla:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
-:::
-
-### 39.2.1. Primera clase de presente (भ्वादि)
+:::### 39.2.1. Primera clase de presente (भ्वादि)
 
 भू 1P
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -48,13 +45,11 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 | **Imperfecto - लङ्** | **अभवम्** | **अभवाम** | **&lt;अभवे&gt;** | **&lt;अभवामहि&gt;** |
 | **Optativo - विधिलिङ्** | **भवेयम्**[[br]]bhava + iy-am | **भवेम**[[br]]bhava + i-ma | **&lt;भवेय&gt;**[[br]]bhava + iy-a | **&lt;भवेमहि&gt;**[[br]]bhava + i-mahi |
 
-::::
-
-### 39.2.2. Sexta clase de presente (तुदादि)
+::::### 39.2.2. Sexta clase de presente (तुदादि)
 
 विश् 6P
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -63,13 +58,11 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 | **Imperfecto - लङ्** | **अविशम्** | **अविशाम** | **&lt;अविशे&gt;** | **&lt;अविशामहि&gt;** |
 | **Optativo - विधिलिङ्** | **विशेयम्** | **विशेम** | **&lt;विशेय&gt;** | **&lt;विशेमहि&gt;** |
 
-::::
-
-### 39.2.3. Cuarta clase de presente (दिवादि)
+::::### 39.2.3. Cuarta clase de presente (दिवादि)
 
 नृत् 1P
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -78,13 +71,11 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 | **Imperfecto  - लङ्** | **अनृत्यम्** | **अनृत्याम** | **&lt;अनृत्ये&gt;** | **&lt;अनृत्यामहि&gt;** |
 | **Optativo  - विधिलिङ्** | **नृत्येयम्** | **नृत्येम** | **&lt;नृत्येय&gt;** | **&lt;नृत्येमहि&gt;** |
 
-::::
-
-### 39.2.4. Décima clase de presente (चुरादि) y causativos (णिजन्त)
+::::### 39.2.4. Décima clase de presente (चुरादि) y causativos (णिजन्त)
 
 चुर् 10U
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
@@ -93,13 +84,11 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 | **Imperfecto - लङ्** | **अचोरयम्** | **अचोरयाम** | **अचोरये** | **अचोरयामहि** |
 | **Optativo - विधिलिङ्** | **चोरयेयम्** | **चोरयेम** | **चोरयेय** | **चोरयेमहि** |
 
-::::
-
-### 39.2.5. Voz pasiva (sufijo यक्)
+::::### 39.2.5. Voz pasiva (sufijo यक्)
 
 ईक्ष् 1.ª conjugación
 
-:::: grammar-box
+::::grammar-box
 
 | | **एकवचनम्** | **बहुवचनम्** |
 | :--- | :---: | :---: |
@@ -107,45 +96,37 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 | **Imperfecto - लङ्** | **ऐक्ष्ये**[[br]]a + īkṣ-ya + i | **ऐक्ष्यामहि** |
 | **Optativo - विधिलिङ्** | **ईक्ष्येय**[[br]]īkṣ-ya + iy-a | **ईक्ष्येमहि**[[br]]īkṣ-ya + i-mahi |
 
-::::
+::::## 39.3. Formación de las formas verbales de la primera persona del futuro simple - ऌत्
 
-## 39.3. Formación de las formas verbales de la primera persona del futuro simple - ऌत्
-
-::: grammar-box
+:::grammar-box
 **El futuro tiene formación temática. Por lo tanto, también se aplica la regla para las raíces temáticas:**
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
-:::
-
-### 39.3.1. Formación de अनिट्
+:::### 39.3.1. Formación de अनिट्
 
 दा 3U
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Futuro - ऌत्** | **दास्यामि**[[br]]dā-syā-mi | **दास्यामस्** | **दास्ये** | **दास्यामहे** |
 
-::::
-
-### 39.3.2. Formación de सेट्
+::::### 39.3.2. Formación de सेट्
 
 भू 1P
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Futuro - ऌत्** | **भविष्यामि**[[br]]bho + i + syā + mi | **भविष्यामस्** | **&lt;भविष्ये&gt;** | **&lt;भविष्यामहे&gt;** |
 
-::::
+::::## 39.4. Formación de las formas verbales de la primera persona de las raíces de presente atemáticas
 
-## 39.4. Formación de las formas verbales de la primera persona de las raíces de presente atemáticas
-
-::: grammar-box
+:::grammar-box
 **Tenga en cuenta que en el interior de la palabra —a diferencia del sandhi de la oración—, antes de las terminaciones que comienzan con**
 * **vocal**
 * **semivocal**
@@ -154,13 +135,11 @@ Las desinencias de la primera persona (***तृतीयः*** पुरुष�
 **las consonantes permanecen generalmente sin cambios.**
 
 p. ej. वच् 1.sg.Ind.Pres **व***च्मि***
-:::
-
-### 39.4.1. Segunda clase del presente (अदादि)
+:::### 39.4.1. Segunda clase del presente (अदादि)
 
 द्विष् 2U
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -169,11 +148,9 @@ p. ej. वच् 1.sg.Ind.Pres **व***च्मि***
 | **Imperfecto - लङ्** | **अद्वेषम्** | **अद्विष्म** | **अद्विषि** | **अद्विष्महि** |
 | **Optativo - विधिलिङ्** | **द्विष्याम्**[[br]]dviṣ-yā + m | **द्विष्याम** | **द्विषीय**[[br]]dviṣ-īy-a | **द्विषीमहि** |
 
-::::
+::::अस् 2P
 
-अस् 2P
-
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** ||
 | :--- | :---: | :---: |
@@ -182,19 +159,15 @@ p. ej. वच् 1.sg.Ind.Pres **व***च्मि***
 | **Imperfecto - लङ्** | **आसाम्**[[br]]a + as-am | **आस्म** |
 | **Optativo - विधिलिङ्** | **स्याम्**[[br]]s-yā + m | **स्याम** |
 
-::::
-
-::: media
+:::::::media
 ![lekt3901.jpg](/images/lekt3901.jpg)
 Fig.: सो ऽस्मि
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3901))
-:::
-
-### 39.4.2. Tercera clase de presente (जुहोत्यादि)
+:::### 39.4.2. Tercera clase de presente (जुहोत्यादि)
 
 हु 3P
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
@@ -203,11 +176,9 @@ Fig.: सो ऽस्मि
 | **Imperfecto - लङ्** | **अजुहवम्**[[br]]a-juho + am | **अजुहुम** | **&lt;अजुहवि&gt;** | **&lt;अजुहुमहि&gt;** |
 | **Optativo - विधिलिङ्** | **जुहुयाम्** | **जुहुयाम** | **&lt;जुह्वीय&gt;**[[br]]juhu + īy-a | **&lt;जुह्वीमहि&gt;** |
 
-::::
+::::धा 3U
 
-धा 3U
-
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
@@ -216,17 +187,13 @@ Fig.: सो ऽस्मि
 | **Imperfecto - लङ्** | **अदधाम्**[[br]]a-dadh + am | **अदध्म** | **अदधि** | **अदध्महि** |
 | **Optativo - विधिलिङ्** | **दध्याम्** | **दध्याम** | **दधीय** | **दधीमहि** |
 
-::::
+::::### 39.4.3. Quinta clase de presente (स्वादि)
 
-### 39.4.3. Quinta clase de presente (स्वादि)
-
-::: grammar-box
+:::grammar-box
 **En las raíces que terminan en vocal, opcionalmente puede omitirse la -u del sufijo de formación de la raíz (-nu) antes de las terminaciones que comienzan con m-.**
-:::
+:::सु 5U
 
-सु 5U
-
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
@@ -235,13 +202,11 @@ Fig.: सो ऽस्मि
 | **Imperfecto - लङ्** | **असुनवम्** | **असुनुम** / **असुन्म** | **असुन्वि** | **असुनुमहि** / **असुन्महि** |
 | **Optativo - विधिलिङ्** | **सुनुयाम्** | **सुनुयाम** | **सुन्वीय** | **सुन्वीमहि** |
 
-::::
-
-### 39.4.4. Octava clase de presente (तनादि)
+::::### 39.4.4. Octava clase de presente (तनादि)
 
 तन् 8U
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -250,11 +215,9 @@ Fig.: सो ऽस्मि
 | **Imperfecto - लङ्** | **अतनवम्** | **अतनुम** / **अतन्म** | **अतन्वि** | **अतनुमहि** / **अतन्महि** |
 | **Optativo - विधिलिङ्** | **तनुयाम्** | **तनुयाम** | **तन्वीय** | **तन्वीमहि** |
 
-::::
+::::कृ 8U
 
-कृ 8U
-
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -263,13 +226,11 @@ Fig.: सो ऽस्मि
 | **Imperfecto - लङ्** | **अकरवम्** | **अकुर्म** | **अकुर्वि** | **अकुर्महि** |
 | **Optativo - विधिलिङ्** | **कुर्याम्** | **कुर्याम** | **कुर्वीय** | **कुर्वीमहि** |
 
-::::
-
-### 39.4.5. Séptima clase de presente (रुधादि)
+::::### 39.4.5. Séptima clase de presente (रुधादि)
 
 युज् 7U
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -278,13 +239,11 @@ Fig.: सो ऽस्मि
 | **Imperfecto - लङ्** | **अयुनजम्** | **अयुञ्ज्म** | **अयुञ्जि** | **अयुञ्ज्महि** |
 | **Optativo - विधिलिङ्** | **युञ्ज्याम्** | **युञ्ज्याम** | **युञ्जीय** | **युञ्जीमहि** |
 
-::::
-
-### 39.4.6. Novena clase de presente (क्र्यादि)
+::::### 39.4.6. Novena clase de presente (क्र्यादि)
 
 क्री 9U
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -293,9 +252,7 @@ Fig.: सो ऽस्मि
 | **Imperfecto - लङ्** | **अक्रीणाम्**[[br]]a-krī + nā + am | **अक्रीणीम** | **अक्रीणि** | **अक्रीणीमहि** |
 | **Optativo - विधिलिङ्** | **क्रीणीयाम्** | **क्रीणीयाम** | **क्रीणीय**[[br]]krī + n-īy-a | **क्रीणीमहि** |
 
-::::
-
-## 39.5. Ejercicio
+::::## 39.5. Ejercicio
 
 Forme las formas de la primera persona correspondientes a las siguientes formas verbales, que coincidan con dicha forma en número, tiempo, modo (indicativo, optativo) y aspecto (P, Ā, voz pasiva).
 

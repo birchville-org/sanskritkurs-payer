@@ -8,7 +8,7 @@ status: stable
 
 ## 35.1. Tipo de perfecto III: Raíz fuerte grado prolongado/grado intensificado
 
-::: grammar-box
+:::grammar-box
 **Formación:**
 
 **raíz fuerte:**
@@ -17,18 +17,14 @@ status: stable
 *   1.sg.P: opcionalmente grado intensificado o grado prolongado
 
 **raíz débil:** ver en los subtipos
-:::
+:::### 35.1.1. Tipo de perfecto IIIa: raíz fuerte con grado pleno/gradado, raíz débil con grado reducido
 
-### 35.1.1. Tipo de perfecto IIIa: raíz fuerte con grado pleno/gradado, raíz débil con grado reducido
-
-:::: grammar-box
+::::grammar-box
 **Formación:**
 
-::: indent
+:::indent
 **raíz débil:** grado reducido
-:::
-
-Se forma a partir de raíces de los tipos:
+:::Se forma a partir de raíces de los tipos:
 *   (Consonante)-(Consonante) - i/ī/u/ū
 *   (Consonante) - ṛ
 
@@ -36,11 +32,9 @@ Ante una terminación que comienza con vocal, se reemplaza:
 *   -i/-ī por -iy
 *   -u/-ū por -uv
 *   -ṛ por r
-::::
+::::Ejemplos:
 
-Ejemplos:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -50,25 +44,19 @@ Ejemplos:
 | पू | पुपाव[[br]]pu-pau + a | पुपुवुर्[[br]]pu-puv-ur | पुपुवे | पुपुविरे |
 | कृ | चकार | चक्रुर्[[br]]ca-kr-ur | चक्रे | चक्रिरे |
 
-::::
+::::### 35.1.2. Tipo de perfecto IIIb: raíz fuerte en grado pleno/gradación larga, raíz débil en grado pleno
 
-### 35.1.2. Tipo de perfecto IIIb: raíz fuerte en grado pleno/gradación larga, raíz débil en grado pleno
-
-:::: grammar-box
+::::grammar-box
 **Formación:**
 
-::: indent
+:::indent
 **raíz débil:** grado pleno
-:::
-
-Se forma a partir de raíces de los tipos:
+:::Se forma a partir de raíces de los tipos:
 *   (Consonante)-(Consonante)-ṝ
 *   Consonante-Consonante-ṛ (es decir, raíces en -ṛ, cuando les preceden varias consonantes)
-::::
+::::Ejemplos:
 
-Ejemplos:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -76,11 +64,9 @@ Ejemplos:
 | स्मृ 1P | सस्मार | सस्मरुर् | | |
 | संस्कृ 8U | सञ्चस्कार[[br]]sam + ca-skār-a | सञ्चस्करुर् | सञ्चस्करे | सञ्चस्करिरे |
 
-::::
+::::## 35.2. Tipo IV del perfecto: Raíces en -ā / -āi
 
-## 35.2. Tipo IV del perfecto: Raíces en -ā / -āi
-
-::: grammar-box
+:::grammar-box
 **Formación:**
 
 **raíz fuerte:**
@@ -92,21 +78,17 @@ Ejemplos:
 *   ante vocal: grado bajo Ø
 
 Se forma a partir de raíces en -ā / -āi
-:::
+:::Ejemplo:
 
-Ejemplo:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3.ª sg. Perf. P.[[br]]1.ª sg. Perf. P. | 3.ª pl. Perf. P. | 3.ª sg. Perf. Á. | 3.ª pl. Perf. Á. |
 | :--- | :--- | :--- | :--- | :--- |
 | दा 3U | ददौ | ददुर्[[br]]da-d-ur | ददे | ददिरे[[br]]da-d-i-re |
 
-::::
+::::## 35.3. Tipo V del perfecto: Raíces con estructura Consonante-a-Consonante
 
-## 35.3. Tipo V del perfecto: Raíces con estructura Consonante-a-Consonante
-
-::: grammar-box
+:::grammar-box
 **Formación:**
 
 **forma fuerte:**
@@ -117,29 +99,23 @@ Ejemplo:
 **forma débil:** ver subtipos
 
 Se forma a partir de raíces del tipo (Consonante)-Consonante-a-Consonante
-:::
+:::### 35.3.1. Tipo de Perfecto Va: raíz débil con grado profundo
 
-### 35.3.1. Tipo de Perfecto Va: raíz débil con grado profundo
-
-:::: grammar-box
+::::grammar-box
 **Formación:**
 
-::: indent
+:::indent
 **raíz débil:** grado profundo
-:::
-
-Se forma, entre otros, a partir de las raíces:
+:::Se forma, entre otros, a partir de las raíces:
 *   गम्
 *   हन्
 *   जन्
 *   वच्
 *   वद्
 *   यज्
-::::
+::::Ejemplos:
 
-Ejemplos:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -150,34 +126,26 @@ Ejemplos:
 | वद् 1P | उवाद | ऊदुर् | &lt;ऊदे&gt; | &lt;ऊदिरे&gt; |
 | यज् 1U | इयाज | ईजुर्[[br]]i + ij-ur | ईजे | ईजिरे |
 
-::::
+::::### 35.3.2. Perfecto Tipo Vb: raíz débil Contracción (tipo-e)
 
-### 35.3.2. Perfecto Tipo Vb: raíz débil Contracción (tipo-e)
-
-:::: grammar-box
+::::grammar-box
 **Formación:**
 
-::: indent
+:::indent
 **raíz débil:** sin reduplicación. Sustitución de la -a- de la raíz por -e-  
 (para la explicación véase Thumb-Hauschild 1,2 p. 286s.)
-:::
+:::Se forma de raíces con -a- entre dos consonantes simples, cuya consonante inicial en la sílaba de reduplicación no se modifica (es decir, cuya consonante inicial no es gutural, aspirada ni h).
+::::Ejemplo:
 
-Se forma de raíces con -a- entre dos consonantes simples, cuya consonante inicial en la sílaba de reduplicación no se modifica (es decir, cuya consonante inicial no es gutural, aspirada ni h).
-::::
-
-Ejemplo:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | पच् 1U | पपाच | ***पे***चुर् | ***पे***चे | ***पे***चिरे |
 
-::::
+::::### 35.3.3. Tipo de perfecto Vc: Raíces Consonante-a-Consonante. Tema débil en grado pleno
 
-### 35.3.3. Tipo de perfecto Vc: Raíces Consonante-a-Consonante. Tema débil en grado pleno
-
-::: grammar-box
+:::grammar-box
 **Formación:**
 
 **tema débil:** grado pleno
@@ -189,32 +157,26 @@ Se forma a partir de todas las demás raíces con -a- intermedio, es decir, raí
 *   que comienzan con h
 
 siempre que no pertenezcan al tipo de perfecto Va.
-:::
+:::Ejemplo:
 
-Ejemplo:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | क्रम् 1U | चक्राम | चक्रमुर् | चक्रमे | चक्रमिरे |
 
-::::
-
-## 35.4. Lista de palabras
+::::## 35.4. Lista de palabras
 
 **नश्** 4P **नश्यति** : perderse, perecer, desaparecer
-::: indent
+:::indent
 **V. perf. ननाश, नेशुर्**[[br]]
 **Fut. नशिष्यति । नङ्क्ष्यति**[[br]]
 **Caus. नाशयति**[[br]]
 **PPP नष्ट**
-:::
-
-**नश् + प्र** 4P **प्र***ण*श्यति** : desaparecer, perderse, perecer
+:::**नश् + प्र** 4P **प्र***ण*श्यति** : desaparecer, perderse, perecer
 
 **क्रम्** 1U *****क्रा*****मति**, 4P *****क्रा*****म्यति** : avanzar, ir
-::: indent
+:::indent
 **V. perf. चक्राम, चक्रमुर्**[[br]]
 **Fut. क्रमिष्यति**[[br]]
 **Pass. क्रम्यते**[[br]]
@@ -222,17 +184,13 @@ Ejemplo:
 **PPP ***क्रा***न्त**[[br]]
 **Inf. क्रमितुम्**[[br]]
 **Absol. क्रमित्वा । क्रन्त्वा । क्रान्त्वा**
-:::
-
-::: media
+::::::media
 ![](/images/lekt3502.webp)
 Fig.: क्रामन्ति
 Personas caminando, Senegal.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3502))
-:::
-
-**गै** 1P **गायति** (gai + a-ti): cantar, recitar en tono cantado, anunciar en discurso poético
-::: indent
+:::**गै** 1P **गायति** (gai + a-ti): cantar, recitar en tono cantado, anunciar en discurso poético
+:::indent
 **V. perf. IV जगौ, जगुर्**[[br]]
 **Fut. गास्यति**[[br]]
 **Pass. गीयते**[[br]]
@@ -242,16 +200,12 @@ Personas caminando, Senegal.
 
 de ello:
 **गीता f.:** canción, canto
-:::
-
-::: media
+::::::media
 ![](/images/lekt3501.webp)
 Fig.: जगुः
 Músicos del templo, Templo Kaadu Malleswara, Bangalore.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3501))
-:::
-
-## 35.5. Ejercicio
+:::## 35.5. Ejercicio
 
 A) Forme las correspondientes formas del perfecto a partir de las siguientes formas verbales:
 
@@ -310,18 +264,16 @@ B) Traduce:
 
 ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥
 
-::: media
+:::media
 ![](/images/lekt3504.webp)
 Fig.: ... ब्राह्मणाश्चेजुः
 Ceremonia de Yajña, ashrama Shiva, Ganeshpuri.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3504))
-:::
-
-अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥
+:::अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥
 
 C) Transforma las oraciones del ejercicio B) sustituyendo los perfectos por imperfectos.
 
-::: deleteme-box
+:::deleteme-box
 
 
 **lekt3501:** Músicos del templo, Templo Kaadu Malleswara, Bangalore. [Fuente de la imagen: Samuelraj / Flickr. CC BY-NC]

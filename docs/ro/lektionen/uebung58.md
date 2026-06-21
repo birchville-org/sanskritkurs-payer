@@ -33,19 +33,17 @@ Determinați și traduceți următoarele forme și formați formele corespunzăt
 18.  ऐक्षध्वम् - ईक्ष् 1Ā 2.pl.Impf.Ā voi ați văzut - ऐक्षिध्वम्
 19.  अचेतः - चित् 1P 2.sg.Impf.P tu ai perceput - अचेतीः
 
-:::: media
+::::media
 ![](/images/uebung095.webp)
 Fig.: तब्लाः
 (Sursa imaginii: [Detalii](/licenses#uebung095))
-:::
-
----
+:::---
 
 ## B) Determinări de cuvinte
 
 Determinați și traduceți următoarele forme:
 
-::: media
+:::media
 ![](/images/uebung097.webp)
 Fig.: मातुलङ्गविक्रेतायं ना ॥  
 Pune - पुणे  

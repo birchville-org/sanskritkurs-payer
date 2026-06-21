@@ -69,7 +69,7 @@ Vocativo singular de los masculinos / neutros en -a termina en -a: p. ej. दे
 
 सर्व 3 "todo, entero" (se declina según la declinación pronominal)
 
-:::: media
+::::media
 ![](/images/uebung057.jpg)
 Abb.: तिलप्रमाणम्
 (Fuente de la imagen: [Detalles](/licenses#uebung057))

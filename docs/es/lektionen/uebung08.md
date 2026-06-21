@@ -139,13 +139,11 @@ kiṃ kāraṇam?
 
 किं कारणम् ॥
 
-::: media
+:::media
 ![](/images/uebung007.webp)
 Fig.: इमे योधाः किं कुर्वन्ति ।
 (Fuente de la imagen: [Detalles](/licenses#uebung007))
-:::
-
----
+:::---
 
 ## Ejercicio de lectura
 
@@ -203,7 +201,7 @@ El loro vuela.
 18\. बालः पत्रिकां लिखति |
 El niño escribe una carta.
 
-::: media
+:::media
 ![](/images/uebung008.webp)
 Fig.: कपिः फलं खदति
 (Fuente de la imagen: [Detalles](/licenses#uebung008))

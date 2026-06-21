@@ -11,9 +11,9 @@ Para la formación de compuestos cuyo primer miembro termina en consonante (es d
 
 Consonantes oclusivas finales guturales, retroflejas, dentales y labiales (es decir, excluyendo nasales y palatales).
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -21,17 +21,13 @@ Consonantes oclusivas finales guturales, retroflejas, dentales y labiales (es de
 | **ante sonidos sonoros no nasales** | **Sustitución por la oclusiva sonora no aspirada correspondiente:** [[br]] **p. ej.** [[br]] [[indent]] -t + g- » -dg- [[br]] [[indent]] -k + b- » -gb- [[br]] [[indent]] -dh + d- » -dd- [[br]] [[indent]] -k + a- » -ga- |
 | **ante nasales** | **Sustitución por la nasal correspondiente:** [[br]] **p. ej.** [[br]] [[indent]] -t + n- » -nn- [[br]] [[indent]] -p + n- » -mn- |
 
-:::
-
-::::
-
-Excepción a la regla anterior:
+:::::::Excepción a la regla anterior:
 
 Oclusiva dental final (no nasal):
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -40,11 +36,7 @@ Oclusiva dental final (no nasal):
 | **ante retroflejas** | **Sustitución por la retrofleja no aspirada correspondiente:** [[br]] **es decir,** [[br]] [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- [[br]] [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
 | **ante l-** | **Sustitución por -l:** [[br]] **es decir,** [[br]] [[indent]] -t/-th/-d/-dh + l- » -ll- |
 
-:::
-
-::::
-
-Ejemplos:
+:::::::Ejemplos:
 
 तद् + फल = तत्फल
 
@@ -66,32 +58,26 @@ Ejemplos:
 
 अध्यापन n.: Enseñanza, instrucción
 
-::: media
+:::media
 ![](/images/lekt1602.webp)
 Fig.: अध्यापनम्
 «Esta es una ceremonia especial en un pequeño templo de Satara (सातारा). Es realizada por los estudiantes de la Swami Muktananda Vedashala en la celebración de Mahāśivarātri. Esta es una escuela védica, donde los niños memorizan los textos sagrados llamados los Vedas. Esta escuela enseña el Krishna Yajurveda y algunas porciones del Samaveda. Estoy realizando mi tesis de máster sobre esta escuela».
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1602))
-:::
-
-अनसूया f.: Ausencia de murmuración, falta de envidia
+:::अनसूया f.: Ausencia de murmuración, falta de envidia
 
 नृशंस्य n.: Malicia, bajeza
 
 de ello:
 
-::: indent
+:::indent
 अनृशंस्य n.: Ausencia de malicia
-:::
-
-जीव् 1 P जीवति ; Pass. जीव्यते ; PPP जीवित : vivir
+:::जीव् 1 P जीवति ; Pass. जीव्यते ; PPP जीवित : vivir
 
 de ello:
 
-::: indent
+:::indent
 आजीव m.: Sustento, medios de vida
-:::
-
-क्षमा f.: Paciencia, longanimidad, tolerancia
+:::क्षमा f.: Paciencia, longanimidad, tolerancia
 
 क्षेम n.: Tranquilidad, paz, bienestar, posesión segura
 
@@ -103,14 +89,12 @@ de ello:
 
 योग m.: Enganche, conexión, unión, adquisición; Yoga
 
-::: media
+:::media
 ![](/images/lekt1601.webp)
 Fig.: योगी
 Birla Mandir, Delhi
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1601))
-:::
-
-वृत् 1 Ā वर्तते ; Pass. वृत्यते ; PPP वृत्त : girar, volverse, encontrarse (en algún lugar), residir
+:::वृत् 1 Ā वर्तते ; Pass. वृत्यते ; PPP वृत्त : girar, volverse, encontrarse (en algún lugar), residir
 
 शस्त्र (śastra) n.: Instrumento cortante, arma cortante, espada, arma
 
@@ -132,14 +116,12 @@ A) Transforme las siguientes expresiones en *Tatpuruṣa* y tradúzcalas:
 
 ४. पशुमन्तो जनाः ।
 
-::: media
+:::media
 ![](/images/lekt1604.webp)
 Fig.: पशुमन्तो जनाः
 हरियाणा / ਹਰਿਆਣा
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1604))
-:::
-
-५. सुखवान्वैश्यायाः पुत्रः ।
+:::५. सुखवान्वैश्यायाः पुत्रः ।
 
 ६. सुखवत्या वैश्यायाः पुत्रः ।
 
@@ -234,7 +216,7 @@ B) Traduzca y descomponga todos los compuestos en sánscrito:
 
 (कौटिलीयार्थशास्त्र १.३.५-८, १३)
 
-::: indent
+:::indent
 Explicaciones;
 
 Oración 7: कृषिपाशुपाल्ये Dual, Nom. Ac.: Dvandva, que designa dos "cosas"
@@ -242,11 +224,9 @@ Oración 7: कृषिपाशुपाल्ये Dual, Nom. Ac.: Dvandva, 
 Oración 8: कर्म Nom., Ac. sg. Neutro de कर्मन् "acción"
 
 Oración 13: सर्वेषाम Gen. pl. masc. de सर्व "cada uno, todos" (pronombre, no declina como deva)
-:::
+:::३. आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः, तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १.४.३॥
 
-३. आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः, तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १.४.३॥
-
-::: deleteme-box
+:::deleteme-box
 
 
 **lekt1601:** Birla Mandir, Delhi [Fuente de la imagen: Deepak / Wikipedia; Licencia Creative Commons (Atribución, Compartir igual)]

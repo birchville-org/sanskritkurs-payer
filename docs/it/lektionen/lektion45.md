@@ -15,68 +15,56 @@ status: stable
 
 हु 3P
 
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | जुहोषि | जुहुथ | &lt;जुहुषे&gt; | &lt;जुहुध्वे&gt; |
 | **Imperfetto**[[br]]लङ् | अजुहोस् | अजुहुत | &lt;अजुहुथास्&gt; | &lt;अजुहुध्वम्&gt; |
 | **Optativo**[[br]]विधिलिङ् | जुहुयास् | जुहुयात | &lt;जुह्वीथास्&gt; | &lt;जुह्वीध्वम्&gt; |
-:::
+:::धा 2U
 
-धा 2U
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | दधासि | धत्थ[[br]]da: dadh + tha | धत्से | धद्ध्वे |
 | **Imperfetto**[[br]]लङ् | अदधास् | अधत्त | अधत्थास् | अधद्ध्वम् |
 | **Optativo**[[br]]विधिलिङ् | दध्यास् | दध्यात | दधीथास् | दधीध्वम् |
-:::
+:::### 45.1.2. Settima classe del presente (रुधादि)
 
-### 45.1.2. Settima classe del presente (रुधादि)
-
-::: grammar-box
+:::grammar-box
 **Quando la k/g finale della radice si trova tra la nasale ṅ e un dentale della desinenza, la k/g può cadere a scelta**
 
 ad es. **युज्** 3.sg.Ind.Pres.Ā युङ्क्ते oppure यु***ङ्ते***
-:::
+:::युज् 7U
 
-युज् 7U
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | युनक्षि[[br]]yu-na-j + si | युङ्क्थ[[br]]युङ्थ | युङ्क्षे | युङ्ग्ध्वे[[br]]युङ्ध्वे |
 | **Imperfetto**[[br]]लङ् | अयुनक्[[br]]da: a-yu-na-j + s | युङ्क्त[[br]]अयुङ्त | अयुङ्क्थास्[[br]]अयुङ्थास् | अयुङ्ग्ध्वम्[[br]]अयुङ्ध्वम् |
 | **Optativo**[[br]]विधिलिङ् | युञ्ज्यास् | युञ्ज्यात | युञ्जीथास् | युञ्जीध्वम् |
-:::
+:::रुध् 7U
 
-रुध् 7U
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Indicativo Presente**[[br]]लट् | रुणत्सि[[br]]ru + na + dh + si | रुन्द्ध[[br]]ru-n-dh + tha | रुन्त्से | रुन्द्ध्वे |
 | **Imperfetto**[[br]]लङ् | अरुणत्[[br]]da a-ru-ṇa-dh + s[[br]] ***अरुण्स्*** (irreg.!) | अरुन्द्ध[[br]]a-ru-n-dh + ta | अरुन्द्धास् | अरुन्द्ध्वम् |
 | **Optativo**[[br]]विधिलिङ् | रुन्ध्यास् | रुन्ध्यात | रुन्धीथास् | रुन्धीध्वम् |
-:::
+:::## 45.2. Il vocativo singolare (आमन्त्रितमेकवचने)
 
-## 45.2. Il vocativo singolare (आमन्त्रितमेकवचने)
-
-::: grammar-box
+:::grammar-box
 **La maggior parte dei vocativi del singolare è la radice con desinenza di alto livello.**
 
 ad es. **देव, कवे, शत्रो, राजन्, पितर्** ecc.
 
 **Eccezioni sono i femminili in -ā e -ī nonché le radici in -in, il cui vocativo singolare va ricordato in modo particolare.**
-:::
-
-:::: grammar-box
-::: no-header
+:::::::grammar-box
+:::no-header
 | | Vocativo Singolare |
 | --- | --- |
 | Maschili in -a | देव |
@@ -99,16 +87,11 @@ ad es. **देव, कवे, शत्रो, राजन्, पितर्
 | Maschili in -mant/-vant | गुणवन् |
 | Neutri in -mant/-vant | गुणवत्[[br]]= Nominativo |
 | Pronomi | non si forma un vocativo |
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt4501.webp)
 Fig.: भवति किं करोषि
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4501))
-:::
-
-## 45.3. Elenco di parole
+:::## 45.3. Elenco di parole
 
 वा ... वा : oppure ... oppure
 
@@ -118,13 +101,11 @@ A) Tradurre in sanscrito (per le forme verbali del passato si prega di usare l'i
 
 1\. Tu dividi la (comunità buddhista).
 
-::: indent
+:::indent
 per la divisione della comunità (सङ्घभेद) si veda:
 
 **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
-
-2\. Avete goduto della terra?
+:::2\. Avete goduto della terra?
 
 3\. Hai ricevuto un dono dal re?
 
@@ -152,14 +133,11 @@ B) Tradurre:
 
 शत्रो शस्तेण जीवं न छिनत्सि ॥४॥
 
-::: media
+:::media
 ![](/images/lekt4502.jpg)
 Fig.: कन्ये किं लिखसि
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4502))
-:::
-
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt4501.jpg**: Stampa a blocchi tessili, Ahmedabad. -- Fonte dell'immagine: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accesso il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)
 

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formați cauzativul pentru următoarele forme verbale și forme participiale:
 
-::: grammar-box
+:::grammar-box
 
 ### १. Cu rădăcină de grad înalt (Guṇa)
 
@@ -45,9 +45,7 @@ A) Formați cauzativul pentru următoarele forme verbale și forme participiale:
 | स्रक्ष्यति | सर्जयिष्यति |
 | लिम्पन्ति | लेपयन्ति |
 | वृद्धाः | वर्धिताः |
-:::
-
-::: grammar-box
+::::::grammar-box
 
 ### २. Cu rădăcină prelungită (Vṛddhi)
 
@@ -92,9 +90,7 @@ A) Formați cauzativul pentru următoarele forme verbale și forme participiale:
 | सोढायाः | साहितायाः |
 | हरन्ती | हारयन्ती |
 | ऊढया | वाहितया |
-:::
-
-::: grammar-box
+::::::grammar-box
 
 ### ३. Causativul cu sufixul -पय (și forme speciale)
 
@@ -108,9 +104,7 @@ A) Formați cauzativul pentru următoarele forme verbale și forme participiale:
 | हन् | घातयति | a porunci uciderea, a omorî |
 | जि | जापयति | a porunci victoria |
 | जीव् | जीवयति | a da viață |
-:::
-
-B) Traduceți următoarele propoziții și formați, folosind verbele simple, propoziții care exprimă ceea ce se întâmplă atunci când ceea ce este exprimat prin causativ este realizat.
+:::B) Traduceți următoarele propoziții și formați, folosind verbele simple, propoziții care exprimă ceea ce se întâmplă atunci când ceea ce este exprimat prin causativ este realizat.
 
 १. **शत्रुजयाय क्षत्रियो ब्राह्मणेन हरिहरं याजयित्वारीन्योत्स्यते ॥१॥**
 Kṣatriya, pentru a-i învinge pe dușmani, i-a poruncit brahmanului Hari și Hara să fie onorați printr-un jertfă și va lupta împotriva dușmanilor.
@@ -152,7 +146,7 @@ Pentru a cucerit comorile, marele Kṣatriya poruncește luptătorilor, egali cu
 Pentru a-i elibera de rău, Buddha poruncește oamenilor nobili să recunoască adevărurile noble.
 (Bază: **आर्यजना आर्यसत्यानि बुध्यन्ते ।**)
 
-::: media
+:::media
 ![](/images/uebung045.webp)
 Fig.: गर्भगृहे देवीप्रतिमा दर्श्यते
 (Sursa imaginii: [Detalii](/licenses#uebung045))

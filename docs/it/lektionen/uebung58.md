@@ -33,19 +33,17 @@ Determinare e tradurre le seguenti forme e formare le corrispondenti forme dell�
 18.  ऐक्षध्वम् - ईक्ष् 1Ā 2.pl.Impf.Ā voi vedeste - ऐक्षिध्वम्
 19.  अचेतः - चित् 1P 2.sg.Impf.P tu percepisti - अचेतीः
 
-:::: media
+::::media
 ![](/images/uebung095.webp)
 Fig.: तब्लाः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung095))
-:::
-
----
+:::---
 
 ## B) Determinazioni delle parole
 
 Determinare e tradurre le seguenti forme:
 
-::: media
+:::media
 ![](/images/uebung097.webp)
 Fig.: मातुलङ्गविक्रेतायं ना ॥  
 Pune - पुणे  

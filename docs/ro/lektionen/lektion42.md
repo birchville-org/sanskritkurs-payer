@@ -13,7 +13,7 @@ status: stable
 
 ### 42.1.1. Treci cu grad lung în tema puternică
 
-::: grammar-box
+:::grammar-box
 Toate substantivele masculine pe -ṛ, cu excepția celor de rudenie menționate la punctul 1.3. Aici se încadrează și denumirile de rudenie:
 
 *   **नप्तृ** m. "nepot"
@@ -29,15 +29,11 @@ Majoritatea substantivelor de aici sunt substantive de agentivitate cu sufixul �
     *   **înaintea consoanei: -ṛ**
 
 Observați formele neregulate (marcate cu ***roșu***)!
-:::
+:::Substantiv masculin:
 
-Substantiv masculin:
-
-::: indent
+:::indent
 **दातृ** m. "dător"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | | एकवचनम् | बहुवचनम् |
 | :--- | :--- | :--- |
@@ -49,19 +45,15 @@ Substantiv masculin:
 | षष्ठी | ***दातुस्*** | ***दातॄणाम्*** |
 | सप्तमी | ***दातरि*** | दातृषु |
 
-:::
-
-Pentru explicarea formelor neregulate, consultați Thumb-Hauschild I,2 pag. 76 -81
+:::Pentru explicarea formelor neregulate, consultați Thumb-Hauschild I,2 pag. 76 -81
 
 Substantiv feminin:
 
-::: indent
+:::indent
 **स्वसृ** f. se declină ca **दातृ** cu excepția acuzativului (**द्वितीया**) plural: ***स्वसॄस्***.
-:::
+:::### 42.1.2. Formarea substantivelor: sufixul कृत् -तृ
 
-### 42.1.2. Formarea substantivelor: sufixul कृत् -तृ
-
-::: grammar-box
+:::grammar-box
 Cu sufixul foarte frecvent कृत् -तृ se formează nume de agent (denumiri pentru कर्तृ) aproape pentru fiecare rădăcină sau pentru tema cauzativă.
 
 **Formare:**
@@ -71,11 +63,9 @@ Cu sufixul foarte frecvent कृत् -तृ se formează nume de agent (denu
 sau
 
 *   **rădăcină în gradul plin / tema cauzativă + i + tṛ**
-:::
+:::Exemple:
 
-Exemple:
-
-::: indent
+:::indent
 **कर्तृ** m. "făcător"
 
 **जेतृ** m. "învingător"
@@ -85,25 +75,19 @@ Exemple:
 **रक्षितृ** m. "protector"
 
 **बोधयितृ** m. "trezitor"
-:::
-
-::: media
+::::::media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Fig.: अयं बोधयिता
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4201))
-:::
-
-::: grammar-box
+::::::grammar-box
 Neutre rare cu sufixul -तृ au o declinare parțial distinctă (a se vedea Kielhorn, Gramatică § 148).
 
 Femininul pentru temele în -तृ se termină în **-त्री** (ca **देवी**).
 
 de ex. **कर्त्री** f. "făcătoare"
-:::
+:::### 42.1.3. Treci cu grad ridicat în rădăcina puternică
 
-### 42.1.3. Treci cu grad ridicat în rădăcina puternică
-
-::: grammar-box
+:::grammar-box
 Printre acestea se numără următoarele denumiri de rude:
 
 *   **पितृ** m. "tată"
@@ -120,17 +104,13 @@ Printre acestea se numără următoarele denumiri de rude:
 *   **rădăcină slabă**
     *   **înaintea vocală: -r**
     *   **înaintea consoanei: -ṛ**
-:::
+:::Exemple:
 
-Exemple:
-
-::: indent
+:::indent
 **पितृ** m. "tată"
 
 **मातृ** f. "mamă"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | | पुंस् (एकवचनम्) | पुंस् (बहुवचनम्) | स्त्री (एकवचनम्) | स्त्री (बहुवचनम्) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -138,18 +118,14 @@ Exemple:
 | द्वितीया | ***पितरम्*** | पितॄन् | ***मातरम्*** | मातॄस् |
 | Restul ca la दातृ | ← | ← | ← | ← |
 
-:::
+:::### 42.1.4. Tulpuri pe -ṛ în compuse
 
-### 42.1.4. Tulpuri pe -ṛ în compuse
-
-::: grammar-box
+:::grammar-box
 În calitate de prim element al unui compus, substantivele pe -ṛ stă, desigur, la forma slabă a temei, adică:
 
 *   **înaintea consoanelor: -ṛ**
 *   **înaintea vocalelor: -r**
-:::
-
-## 42.2. Listă de cuvinte
+:::## 42.2. Listă de cuvinte
 
 प्रकृति f.: (de la कृ + प्र) formă de bază, stare naturală, natură; materie primă, esență primordială
 
@@ -157,11 +133,9 @@ Exemple:
 
 स्था + अव 1Ā अवतिष्ठते : a se abține, a se distanța, a se ferii, a rămâne, a sta în picioare
 
-::: indent
+:::indent
 PPP अवस्थित 3: stând, existent
-:::
-
-पुरा Adv.: odată, mai devreme
+:::पुरा Adv.: odată, mai devreme
 
 अनेक 3: mulți (nu câțiva)
 
@@ -181,7 +155,7 @@ PPP अवस्थित 3: stând, existent
 
 चल् 1P चलति : a intra în mișcare
 
-::: indent
+:::indent
 Fut. चलिष्यति  
 Perf. Vb चचाल, चेलुर्  
 Pass. चल्यते  
@@ -189,9 +163,7 @@ Caus. चलयति । चालयति
 PPP चलित  
 Absol. -चल्य  
 Inf. चलितुम्
-:::
-
-अधिपति m. = राजन्
+:::अधिपति m. = राजन्
 
 आटोप m.: vanitate, mândrie
 
@@ -209,7 +181,7 @@ Inf. चलितुम्
 
 शंस् 1P शंसति : a lăuda, a porunci
 
-::: indent
+:::indent
 Fut. शंसिष्यति  
 Perf. I शशंस  
 Pass. शस्यते  
@@ -217,19 +189,15 @@ Caus. शंसयति
 PPP शस्त  
 Absol. शसित्वा । शस्त्वा  
 Inf. शंसितुम्
-:::
-
-हृदय n.: inimă
+:::हृदय n.: inimă
 
 ### 42.2.1. Unele denumiri de rudenie
 
-::: media
+:::media
 ![lekt4202.jpg](/images/lekt4202.webp)
 Fig.: माता, पिता, पुत्रकः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4202))
-::: 
-
-भर्तृ m. (de la भृ "a purta, a întreține"): Cel care întreține, cel care hrănește, soț
+:::भर्तृ m. (de la भृ "a purta, a întreține"): Cel care întreține, cel care hrănește, soț
 
 भार्या f.,  जाया f.  पत्नी f.: Soție (भार्या = gerunziu la भृ : cea care trebuie purtată, cea care trebuie întreținută, cea îndreptățită la întreținere)
 
@@ -288,21 +256,17 @@ Traduceți:
 
 कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति ॥२॥
 
-::: media
+:::media
 ![lekt4203.jpg](/images/lekt4203.webp)
 Fig.: कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4203))
-:::
+:::आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥
 
-आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥
-
-::: media
+:::media
 ![lekt4204.jpg](/images/lekt4204.webp)
 Fig.: अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति ।
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4204))
-:::
-
-कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥
+:::कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥
 
 भर्त्रा भार्या भर्तव्या । तस्माद्भार्येत्युच्यते ॥५॥
 
@@ -326,13 +290,11 @@ Fig.: अर्जुनो रथे सीदति । कृष्णो ऽ
 
 सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे ***ऽयोध्या***धिपते***र्दशरथस्य*** पुत्रः श्री***रामः*** ***सलक्ष्मणो*** ***विश्वामित्रेण*** तत्रानीयत । श्री***रामो*** महर्षेर्***विश्वामित्र***स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥
 
-::: media
+:::media
 ![lekt4208.jpg](/images/lekt4208.webp)
 Fig.: धनुर्द्वेधा भग्नं बभूव
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4208))
-:::
-
-साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥
+:::साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥
 
 जनकस्य राज्ञो हृदयं प्रहृष्टं बभूव । ततः स दशरथादीनानाय्य महता विभवेन ***सीतारामयोर्वि***वाहोत्सवं निरवर्तयन् ॥
 
@@ -342,21 +304,17 @@ Expresii evidențiate în ***roșu***:
 
 सीता f. Nume propriu: fiica regelui जनक din विदेह. Ea a ieșit din pământ, când regele arase odată câmpul, de aceea numele ei: सीता f. „șanț de câmp”
 
-::: media
+:::media
 ![lekt4205.jpg](/images/lekt4205.webp)
 Fig.: रामः, सीता, हनुमान्, लक्ष्मनः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4205))
-:::
+:::मिथिला f. Nume propriu: capitala lui विदेह
 
-मिथिला f. Nume propriu: capitala lui विदेह
-
-::: media
+:::media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Fig.: मिथिला, विदेहः, अयोध्या, कोसलः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4206))
-:::
-
-जनक m. Nume propriu: rege al lui विदेह
+:::जनक m. Nume propriu: rege al lui विदेह
 
 गुरुतर 3: Comparativ la गुरु 3: mai greu, foarte greu
 
@@ -368,13 +326,11 @@ Fig.: मिथिला, विदेहः, अयोध्या, कोस�
 
 रावण m. Nume propriu; conducător al lui लङ्का, conducător al राक्षस.
 
-::: media
+:::media
 ![lekt4207.jpg](/images/lekt4207.webp)
 Fig.: रावणः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4207))
-:::
-
-अयोध्या f. Nume propriu: capitala lui कोसल (vezi harta de mai sus!)
+:::अयोध्या f. Nume propriu: capitala lui कोसल (vezi harta de mai sus!)
 
 दशरथ m. Nume propriu: rege al lui कोसल
 
@@ -386,7 +342,7 @@ Fig.: रावणः
 
 सीतारामयोस् Gen.Loc.Dual la सीताराम
 
-::: deleteme-box
+:::deleteme-box
 
 * **Fig. lekt4201**: अयं बोधयिता. (Sursa imaginii: Wikipedia. Domeniu public)
 * **Fig. lekt4202**: माता, पिता, पुत्रकः. Sala Diwan I Khas, sau Sala Audiencelor Private de la Lal Qila (Fortul Roșu) din Delhi. (Sursa imaginii: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accesat la 2009-01-04. -- Licență Creative Commons (Atribuire, fără scop comercial, share alike))

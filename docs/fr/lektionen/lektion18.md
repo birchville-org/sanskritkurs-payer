@@ -7,14 +7,12 @@ lesson_id: 18
 
 ## 18.1. सुभाषितम्
 
-::: indent
+:::indent
 नास्ति कामसमो व्याधिर्  
 नास्ति मोहसमो रिपुः ।  
 नास्ति क्रोधसमो वह्निर्  
 नास्ति ज्ञानसमं सुखम् ॥
-:::
-
-## 18.2. Determinativkomposita (तत्पुरुष) mit adverbialem Vorderglied
+:::## 18.2. Determinativkomposita (तत्पुरुष) mit adverbialem Vorderglied
 
 En tant que membre antérieur adverbial (indeclinable), peuvent
 
@@ -23,15 +21,13 @@ En tant que membre antérieur adverbial (indeclinable), peuvent
 *   des particules
 *   autres indéclinables
 
-::: indent
+:::indent
 être utilisés. Ces Tatpuruṣa appartiennent généralement à la classe des Nityasamāsa = नित्यसमास (m. "composé permanent"), c'est-à-dire des composés qui ne peuvent être résolus du tout, ou pas seulement au moyen des mots présents dans le composé lui-même.
-:::
-
-Exemples :
+:::Exemples :
 
 अति "de plus" :
 
-::: indent
+:::indent
 अतिगुरु 3 : extrêmement lourd, extrêmement grave
 
 अतिपुरुष m. : homme éminent, Superman, héros
@@ -39,15 +35,13 @@ Exemples :
 अतिस्तुति f. : éloge excessif
 
 अत्युक्ति f. : discours excessif, exagération
-:::
-
-Les membres antérieurs adverbiaux les plus importants sont a-/an-, su-, dus-.
+:::Les membres antérieurs adverbiaux les plus importants sont a-/an-, su-, dus-.
 
 अ (devant une consonne), अन् (devant une voyelle) : un- : se trouve dans le composé à la place de न "non".
 
 Exemples :
 
-::: indent
+:::indent
 अनृत n. = नर्तम् (= न + ऋतम्) : mensonge, fausseté
 
 अकृत 3 = न कृत 3 : non fait, non accompli
@@ -55,13 +49,11 @@ Exemples :
 अब्राह्मणी f. = न ब्राह्मणी : une non-brahmanique, non-brahmanique
 
 अदेव m. = न देवः : un non-dieu, non-dieu
-:::
-
-सु "bien, bon" ; lors de la résolution du composé, les commentateurs le remplacent par un adjectif signifiant "bon" (par ex. सुष्टु 3, शोभन 3).
+:::सु "bien, bon" ; lors de la résolution du composé, les commentateurs le remplacent par un adjectif signifiant "bon" (par ex. सुष्टु 3, शोभन 3).
 
 Exemples :
 
-::: indent
+:::indent
 सुकवि m. : un bon poète
 
 सुकृत n. : bonne action
@@ -69,21 +61,17 @@ Exemples :
 सुखादित 3 : bien mâché
 
 सुदुःख n. : grande souffrance
-:::
-
-दुस् "mal, mauvais" (faire attention au Sandhi !).
+:::दुस् "mal, mauvais" (faire attention au Sandhi !).
 
 Exemples :
 
-::: indent
+:::indent
 दुर्नय m. : mauvaise direction, mauvaise conduite
 
 दुष्करण n. : mauvaise action, action difficile
-:::
+:::La règle suivante s'applique :
 
-La règle suivante s'applique :
-
-:::: grammar-box
+::::grammar-box
 
 Changements phonétiques de -s dans les composés
 
@@ -93,17 +81,15 @@ Contrairement au Sandhi de phrase, à la fin du membre antérieur des composés 
 
 D'où : दुष्करण
 
-::::
+::::### 18.2.1. Composés de type सुकर / दुष्कर
 
-### 18.2.1. Composés de type सुकर / दुष्कर
-
-:::: grammar-box
+::::grammar-box
 
 Les composés de type सुकर / दुष्कर ont principalement le sens de possibilité passive :
 
 Exemples :
 
-::: indent
+:::indent
 सुकर 3 : facile à faire
 
 सुगम 3 : facile à aller
@@ -111,11 +97,7 @@ Exemples :
 दुर्गम 3 : difficile à aller
 
 सुदुर्गम 3 : très difficile à aller
-:::
-
-::::
-
-### 18.2.2. Sens de nañ-Tatpuruṣa (a- / an-)
+:::::::### 18.2.2. Sens de nañ-Tatpuruṣa (a- / an-)
 
 Les Tatpuruṣa avec a- / an- peuvent avoir les significations suivantes :
 
@@ -134,45 +116,37 @@ Les Tatpuruṣa avec a- / an- peuvent avoir les significations suivantes :
 
 Le verset suivant résume ces significations :
 
-::: indent
+:::indent
 तत्सादृश्यमभावश्च  
 तदन्यत्वं तदल्पता ।  
 अप्राशास्त्यं निरोधश्च  
 नजर्थाः षट्प्रकीर्तिताः ॥
 
 On nomme six significations de nañ (= a-/an-) ....
-:::
+:::## 18.3. Composés verbaux
 
-## 18.3. Composés verbaux
+::::grammar-box
 
-:::: grammar-box
-
-::: indent
+:::indent
 उपसर्गेण धात्वर्थो  
 बलादन्यत्र नीयते ।  
 गङ्गासलिलमाधुर्यं  
 सागरेण यथाम्भसा ॥
-:::
-
-चन्द्रकीर्ति : प्रसन्नपदा p. 2, l. 14s.
+:::चन्द्रकीर्ति : प्रसन्नपदा p. 2, l. 14s.
 
 Une préposition verbale modifie de force le sens d'une racine, à l'image de l'eau douce du Gange qui est transformée par l'eau de mer.
 
-::::
-
-:::: grammar-box
+::::::::grammar-box
 
 Les verbes peuvent être combinés en sanskrit avec des prépositions verbales (उपसर्ग m.). On applique généralement le sandhi de phrase. Les prépositions verbales peuvent, selon les cas, modifier de manière significative le sens de la racine, de sorte que dans de nombreux cas, le sens d'une racine avec une préposition verbale doit être appris séparément. Les verbes avec préposition verbale peuvent avoir un mode différent (P, Ā) que la racine simple. Plusieurs prépositions verbales peuvent être placées devant une racine simultanément.
 
-::::
-
-Certaines prépositions verbales importantes sont :
+::::Certaines prépositions verbales importantes sont :
 
 उप "vers, vers, contre"
 
 Exemples :
 
-::: indent
+:::indent
 उपगम् 1 उपगच्छति : aller vers, se diriger vers
 
 उपदिश् 6 उपदिशति : indiquer, enseigner, conseiller
@@ -182,13 +156,11 @@ Exemples :
 *   Participe passé passif उपपन्न 3 : équipé de (instrumental)
 
 उपलभ् 1 Ā उपलभते : saisir, obtenir
-:::
-
-प्र "en avant, hors"
+:::प्र "en avant, hors"
 
 Exemples :
 
-::: indent
+:::indent
 प्राप् (pra-āp) 5 प्राप्नोति : obtenir
 
 प्रदिश् 6 प्रदिशति : montrer
@@ -202,13 +174,11 @@ Exemples :
 प्रवद् 1 प्रवदति : exprimer, désigner comme, déclarer pour
 
 प्रस्तु 2 प्रस्तौति : louer devant, louer à haute voix, aborder quelque chose, commencer
-:::
-
-वि "séparément, loin, dé-, ver-"
+:::वि "séparément, loin, dé-, ver-"
 
 Exemples :
 
-::: indent
+:::indent
 विगम् 1 विगच्छति : se disperser, passer, disparaître
 
 विजि 1 Ā (!) विजयते : vaincre
@@ -220,13 +190,11 @@ Exemples :
 विस्मृ 1 विस्मरति : oublier
 
 विहन् 2 विहन्ति : briser, détruire, anéantir
-:::
-
-सम् "ensemble, avec"
+:::सम् "ensemble, avec"
 
 Exemples :
 
-::: indent
+:::indent
 समास् 2 Ā समास्ते : être assis ensemble, séjourner, habiter
 
 समि 2 समेति : se rassembler, se unir
@@ -242,57 +210,43 @@ Exemples :
 सम्पद् 4 Ā सम्पद्यते : être accordé à quelqu'un, réussir
 
 *   Participe passé passif सम्पन्न 3 : pourvu de (instrumental)
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 La racine कृ "faire" montre, en combinaison avec les prépositions verbales सम् । उप । अप । परि, également la forme स्कृ
 
-::::
+::::Exemple :
 
-Exemple :
-
-::: indent
+:::indent
 sam-kṛ 8 संस्करोति : préparer, préparer pour le sacrifice, consacrer
 
 *   Participe passé passif संस्कृत 3 : préparé pour le sacrifice ; संस्कृत n. : sanskrit : la langue appropriée pour le sacrifice ; contraire प्राकृत 3 : ordinaire, vulgaire ; प्राकृत n. : langue ordinaire, prakrit (désignation des langues populaires et de communication, apparentées au sanskrit)
-:::
+:::### 18.3.1. Dérivations nominales à partir de composés verbaux
 
-### 18.3.1. Dérivations nominales à partir de composés verbaux
-
-:::: grammar-box
+::::grammar-box
 
 À partir de racines préfixées, on peut former des noms à l’aide de suffixes kṛt.
 
-::::
-
-Exemples :
+::::Exemples :
 
 sam-kṛ + -a = संस्कार m. : sacre, préparation ; rites de passage = désignation des cérémonies qui accompagnent les différentes étapes de la vie, de la conception à la mort (voir à ce sujet la remarquable synthèse de Basham, Wonder, p. 160 - 170 !)
 
-::: media
+:::media
 ![](/images/lekt1804.webp)
 Fig. : विवाहः
 Mariage = विवाह m., un संस्कारः important
 (Source de l’image : [Détails](/fr/licenses#lekt1804))
-:::
+:::upa-nī + -ana = उपनयन n. : l’amenée (au feu de sacrifice) = cérémonie au cours de laquelle les membres masculins des trois premières castes reçoivent le cordon sacré (यज्ञोपवीत n.) et se voit chuchoter à l’oreille le verset sacré सावित्री, qu’ils doivent réciter désormais chaque jour au lever et au coucher du soleil. Pour les Brahmanes, il s’agit du Ṛgveda III.62.10 :
 
-upa-nī + -ana = उपनयन n. : l’amenée (au feu de sacrifice) = cérémonie au cours de laquelle les membres masculins des trois premières castes reçoivent le cordon sacré (यज्ञोपवीत n.) et se voit chuchoter à l’oreille le verset sacré सावित्री, qu’ils doivent réciter désormais chaque jour au lever et au coucher du soleil. Pour les Brahmanes, il s’agit du Ṛgveda III.62.10 :
-
-::: indent
+:::indent
 « Puissions-nous recevoir l’éclat éminent du Dieu « Conducteur », qui mette en mouvement nos pensées. »
-:::
+:::Par l’Upanayana survient la seconde naissance, d’où : द्विज । द्विजाति
 
-Par l’Upanayana survient la seconde naissance, d’où : द्विज । द्विजाति
-
-::: media
+:::media
 ![](/images/lekt1801.webp)
 Fig. : उपनयनम्
 « On voit un jeune garçon pendant le rituel d’upanayana. Le fil jaune fin, passant de l’épaule gauche à la taille, est le Yagnopavita. On note également la ceinture d’herbe munja autour de la taille. La brindille dans la main droite (généralement de l’arbre peepa) signifie son entrée dans le Brahmacharya. »
 (Source de l’image : [Détails](/fr/licenses#lekt1801))
-:::
-
-## 18.4. Liste de vocabulaire
+:::## 18.4. Liste de vocabulaire
 
 सुष्टु 3 : hautement loué, excellent, bon
 
@@ -420,14 +374,12 @@ A) Décomposez les composés suivants en sanskrit et proposez des traductions :
 
 ९. कुलोपदेश m.
 
-::: media
+:::media
 ![](/images/lekt1802.webp)
 Fig. : मृतिसाधनी काली
 Impression de 1770
 (Source de l'image : [Détails](/fr/licenses#lekt1802))
-:::
-
-B) Traduisez en utilisant des verbes de la 2e classe de présent :
+:::B) Traduisez en utilisant des verbes de la 2e classe de présent :
 
 1. Le brāhmaṇe loue les déesses.
 
@@ -441,20 +393,18 @@ B) Traduisez en utilisant des verbes de la 2e classe de présent :
 
 6. Ainsi parle celui qui [a bien parcouru le chemin des réincarnations] à l'élève.
 
-::: media
+:::media
 ![](/images/lekt1803.webp)
 Fig. : सुगतः
 गन्धार 1er/2e siècle apr. J.-C.
 (Source de l'image : [Détails](/fr/licenses#lekt1803))
-:::
-
-C) Donnez en sanskrit la définition de Yoga de deux manières : une fois en utilisant un composé, une fois en décomposant le composé.
+:::C) Donnez en sanskrit la définition de Yoga de deux manières : une fois en utilisant un composé, une fois en décomposant le composé.
 
 D) Traduisez :
 
 (धर्मः) सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt1801 :** « Un jeune garçon est vu pendant le rituel d'upanayana. Le fil jaune, fin, qui va de l'épaule gauche à la taille est Yagnopaivta. Notez également la ceinture d'herbe munja autour de la taille. La brindille dans la main droite (généralement de l'arbre peepa) signifie son entrée dans Brahmacharya. » [Source de l'image : Nagesh Rao / Wikipédia, Licence GNU FDL]
 

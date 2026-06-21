@@ -37,13 +37,11 @@ Comment appelle-t-on le frère du mari ? Le frère de l’époux doit être dés
 ९. **नप्तॄणां लाभं पितैच्छत् ॥ ९ ॥**
 Le père souhaitait l’obtention de petits-fils.
 
-::: media
+:::media
 ![](/images/uebung068.webp)
 Fig. : कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Source de l’image : [Détails](/fr/licenses#uebung068))
-:::
-
----
+:::---
 
 ## Récit : Le mariage de Sītā (सीताविवाहः)
 
@@ -70,7 +68,7 @@ Lorsqu'ils entendirent cette promesse, des princes arrivèrent par centaines. Po
 
 Le cœur du roi Janaka fut hautement réjoui. Ensuite, il fit venir Daśaratha et les autres, et célébra avec un grand faste la fête de mariage de Sītā et Rāma.
 
-::: media
+:::media
 ![](/images/uebung069.webp)
 Fig. : श्रीसीता श्रीरामश्च
 (Source de l'image : [Détails](/fr/licenses#uebung069))

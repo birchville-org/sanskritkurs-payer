@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 6
 
-::: deleteme-box
+:::deleteme-box
 **În această lecție veți învăța:**
 - Structura propoziției verbale (agent și formă verbală)
 - Formarea formelor verbale (Parasmaipada, Ātmanepada, Pasiv)
@@ -17,19 +17,15 @@ status: stable
 - Indicativul prezent (laṭ) și terminațiile primare ale celei de-a 3-a persoane
 - Formarea temei de prezent (clasele 1, 4 și 6)
 - Gradarea vocalică (Ablaut: Guṇa și Vṛddhi)
-:::
+:::## 6.1. Propoziția verbală
 
-## 6.1. Propoziția verbală
-
-::: grammar-box
+:::grammar-box
 **Schema I: Formă verbală**
 - ex. **yajati** = यजति = "El (ea, el) onorează cu un jertfă", "El (ea, el) jertfește"
 
 **Schema II: Agent (kartṛ m. = कर्तृ) – Formă verbală**
 - ex. **rāmo yajati** = रामो यजति = "Rāma onorează cu un jertfă", "Rāma jertfește"
-:::
-
-Când agentul (**kartṛ** m. = कर्तृ) este menționat într-o propoziție verbală care nu este la pasiv, atunci agentul este în **nominativ** (cazul întâi, prathamā = प्रथमा). În număr (vacana n. = वचन), agentul și forma verbală se potrivesc.
+:::Când agentul (**kartṛ** m. = कर्तृ) este menționat într-o propoziție verbală care nu este la pasiv, atunci agentul este în **nominativ** (cazul întâi, prathamā = प्रथमा). În număr (vacana n. = वचन), agentul și forma verbală se potrivesc.
 
 ---
 
@@ -70,11 +66,9 @@ O formă verbală finită, adică o formă verbală cu terminare personală, exp
 
 Prezentul este timpul prezentului, în special al duratei.
 
-::: grammar-box
+:::grammar-box
 **Indicativul (forma afirmativă) Prezent se formează adăugând la tulpina de prezent ceea ce se numesc terminații primare.**
-:::
-
-Exemple:
+:::Exemple:
 
 | Rădăcină (dhātu) | Tulpina de prezent | Persoana a III-a Singular Indicativ Prezent Parasmaipada |
 | :--- | :--- | :--- |
@@ -86,14 +80,12 @@ Exemple:
 
 ## 6.4. Terminationsle de persoana a treia (prathama m. = प्रथम = "prima (!) persoană")
 
-::: grammar-box
+:::grammar-box
 | | Singular (număr singular)[[br]]ekavacana n.[[br]]एकवचन | Plural (număr plural)[[br]]bahuvacana n.[[br]]बहुवचन |
 | :--- | :--- | :--- |
 | **Parasmaipada n.**[[br]]परस्मैपद | **-ti**[[br]]-ति | **-nti**[[br]]-न्ति |
 | **Ātmanepada n.**[[br]]आत्मनेपद | **-te**[[br]]-ते | **-nte**[[br]]-न्ते |
-:::
-
-Exemplu **yaj** = यज् = "a onora cu un sacrificiu", "a sacrifica":
+:::Exemplu **yaj** = यज् = "a onora cu un sacrificiu", "a sacrifica":
 - Timpul prezent: **yaja** = यज
 - Pers. a III-a, sg. P. **yajati** = यजति
 - Pers. a III-a, pl. P. **yajanti** = यजन्ति
@@ -106,18 +98,16 @@ Exemplu **yaj** = यज् = "a onora cu un sacrificiu", "a sacrifica":
 
 ### 6.5.1. Verben de a 6-a clasă de prezent (tudādi = तुदादि = "tud etc.")
 
-::: grammar-box
+:::grammar-box
 **Tema de prezent = rădăcina în gradul redus (așa cum este listată) + a-**
 
 | Rădăcină (dhātu m.)[[br]]धातु | Tema de prezent |
 | :--- | :--- |
 | **viś**[[br]]विश् | **viśa-**[[br]]विश- |
 | **sṛj**[[br]]सृज् | **sṛja-**[[br]]सृज- |
-:::
+:::### 6.5.2. Verbe ale clasei de prezent I (bhādi / bhuvādi = भ्वादि / भूवादि = „bhū etc.“)
 
-### 6.5.2. Verbe ale clasei de prezent I (bhādi / bhuvādi = भ्वादि / भूवादि = „bhū etc.“)
-
-::: grammar-box
+:::grammar-box
 | Tija de prezent = rădăcină în formă intensă (rar în formă lungită) + a- ||||
 | Rădăcină (dhātu m.)[[br]]धातु | Formă intensă | Formă intensă înaintea lui a- | Tija de prezent |
 | :--- | :--- | :--- | :--- |
@@ -127,14 +117,12 @@ Exemplu **yaj** = यज् = "a onora cu un sacrificiu", "a sacrifica":
 | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaja-**[[br]]यज- |
 | Dacă vocala se află într-o silabă închisă lungă, adică o vocală scurtă urmată de două sau mai multe consoane, formarea formei intensă este omisă ||||
 | **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **ninda-**[[br]]निन्द- |
-:::
-
-#### 6.5.2.1. Sandhi lexical al lui e și o
+:::#### 6.5.2.1. Sandhi lexical al lui e și o
 În interiorul cuvintelor, înaintea vocalelor, **e** se înlocuiește cu **ay**, iar **o** cu **av**.
 
 #### 6.5.2.2. Gradarea vocalică (Ablaut)
 
-::: grammar-box
+:::grammar-box
 | Formă redusă[[br]]Formă de zero | Formă intensă[[br]]Formă plină[[br]]Guṇa m.[[br]]गुण | Formă lungită[[br]]Vṛddhi f.[[br]]वृद्धि |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -142,11 +130,9 @@ Exemplu **yaj** = यज् = "a onora cu un sacrificiu", "a sacrifica":
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
-:::
+:::### 6.5.3. Verbele clasei a IV-a de prezent (divādi = दिवादि = "div etc.")
 
-### 6.5.3. Verbele clasei a IV-a de prezent (divādi = दिवादि = "div etc.")
-
-::: grammar-box
+:::grammar-box
 **Tema de prezent = rădăcina în gradul redus (așa cum este listată) + ya-**
 
 | Rădăcină (dhātu m.)[[br]]धातु | Tema de prezent |
@@ -155,40 +141,32 @@ Exemplu **yaj** = यज् = "a onora cu un sacrificiu", "a sacrifica":
 | **muh**[[br]]मुह् | **muhya-**[[br]]मुह्य- |
 | **yudh**[[br]]युध् | **yudhya-**[[br]]युध्य- |
 | **man**[[br]]मन् | **manya-**[[br]]मन्य- |
-:::
+:::### 6.5.4. Vocalul tematic, clasele de prezent tematice
 
-### 6.5.4. Vocalul tematic, clasele de prezent tematice
-
-::: grammar-box
+:::grammar-box
 **a** din sufixele de derivare a temei ale claselor de prezent se numește **vocal tematic**. Clasele de prezent cu **a** în sufixul de derivare a temei se numesc prin urmare „clase de prezent tematice”.
-:::
-
----
+:::---
 
 ## 6.6. Sanscrit vorbal: Întrebări suplimentare (praśna m. = प्रश्न)
 
-::: grammar-box
+:::grammar-box
 - **N. N. kiṃ karoti?** = N.N. किं करोति = "Ce face N. N.?"
 - **N. N. (plural) kiṃ kurvanti?** = N.N. किं कुर्वन्ति = "Ce fac N.N.ii?"
 - (karoti, kurvanti de la **kṛ** = कृ 8 U: "a face, a realiza")
 - **kiṃ kuśalam?** = किं कुशलम् = "Sunteți bine?, Cum vă merge?"
 - Răspuns: **sarvathā kuśalam** = सर्वथा कुशलम् = "(Mă simt) bine în fiecare privință."
-:::
-
----
+:::---
 
 ## 6.7. Listă de cuvinte
 
-::: grammar-box
+:::grammar-box
 În sanscrită, verbele sunt prezentate în **forma de rădăcină**. Numărul de după rădăcină indică **clasa de conjugare**.
 
 - **P:** Rădăcina este doar în Parasmaipada
 - **Ā:** Rădăcina este doar în Ātmanepada
 - **U:** Ubhayapada ("ambele forme de vorbire"): Rădăcina este utilizată atât în Parasmaipada, cât și în Ātmanepada.
 - **():** În paranteze este indicată persoana a III-a singular la prezent indicativ (laṭ).
-:::
-
-**Învățați următoarele cuvinte:**
+:::**Învățați următoarele cuvinte:**
 - **yaj** 1 U (yajati) यज् यजति : a onora cu un sacrificiu, a jertfi
 - **bhū** 1 P (bhavati) भू भवति : a deveni, a se naște, a fi
 - **smṛ** 1 P (smarati) स्मृ स्मरति : a actualiza, a-și aminti
@@ -231,14 +209,12 @@ Exemplu **yaj** = यज् = "a onora cu un sacrificiu", "a sacrifica":
 12. Cine (fem.) dansează?
 13. Brahmana (menționată) dansează.
 
-::: media
+:::media
 ![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
 (Sursa imaginii: Wikipedia, CC-BY-SA 2.5)
-:::
-
----
+:::---
 
 ## 6.9. Exercitiu de repetiție
 
@@ -311,13 +287,11 @@ Exemplu **yaj** = यज् = "a onora cu un sacrificiu", "a sacrifica":
 2. Durgā este o zeiță.
 3. Mīnākṣī este o zeiță.
 
-::: media
+:::media
 ![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Templul Mīnākṣī, Madurai, Tamil Nadu
 (Sursa imaginii: Wikipedia, Domeniu public)
-:::
-
-4. Ei sunt confuzi.
+:::4. Ei sunt confuzi.
 5. Rāma este un om sfânt.
 6. Cine este DOMNUL?
 7. Indra este DOMNUL.

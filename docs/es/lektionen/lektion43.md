@@ -7,16 +7,14 @@ last_reconstructed: 2026-05-21
 
 ## 43.1. Desinencias personales de la segunda persona (मध्यमः = «persona intermedia»)
 
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
 | | **singular** | **plural** | **singular** | **plural** |
 | **Desinencias primarias** | -si | -tha | -se | -dhve |
 | **Desinencias secundarias** | -s | -ta | -thās | -dhvam |
 | **Desinencias del perfecto** | -tha | -a | -se | -dhve |
-:::
-
-Obsérvese que la desinencia secundaria de la segunda persona del plural es idéntica a la desinencia secundaria de la tercera persona del singular de la voz media (आत्मनेपदम्).
+:::Obsérvese que la desinencia secundaria de la segunda persona del plural es idéntica a la desinencia secundaria de la tercera persona del singular de la voz media (आत्मनेपदम्).
 
 ## 43.2. Formación de las formas verbales de la segunda persona (मध्यमः)
 
@@ -27,11 +25,9 @@ Segunda persona:
 
 ### 43.2.1. Temas temáticos
 
-::: media
+:::media
 ![](/images/lekt4301.jpg)
-:::
-
-La 3.ª persona singular del imperfecto y optativo de la voz activa (parasmaipada) es formalmente idéntica a la 2.ª persona plural del imperfecto y optativo de la voz media (atmanepada).
+:::La 3.ª persona singular del imperfecto y optativo de la voz activa (parasmaipada) es formalmente idéntica a la 2.ª persona plural del imperfecto y optativo de la voz media (atmanepada).
 
 #### 43.2.1.1. Primera clase de presente (भ्वादि bhvādi)
 
@@ -112,7 +108,7 @@ La 3.ª persona singular del imperfecto y optativo de la voz activa (parasmaipad
 *   Singular: त्वद् "tú"
 *   Plural: युष्मद् "vosotros"
 
-::: grammar-box
+:::grammar-box
 | | एकवचनम् (त्वद्) | बहुवचनम् (युष्मद्) |
 | --- | --- | --- |
 | **प्रथमा** | त्वम् | यूयम् |
@@ -122,37 +118,29 @@ La 3.ª persona singular del imperfecto y optativo de la voz activa (parasmaipad
 | **पञ्चमी** | त्वत् | युष्मत् |
 | **षष्ठी** | तव ते | युष्माकम् वस् |
 | **सप्तमी** | त्वयि | युष्मासु |
-:::
+:::Las formas त्वा, te y वस् no deben emplearse al inicio de una oración o de un verso. Asimismo, no pueden utilizarse delante de las partículas च, वा, एव y otras similares:
 
-Las formas त्वा, te y वस् no deben emplearse al inicio de una oración o de un verso. Asimismo, no pueden utilizarse delante de las partículas च, वा, एव y otras similares:
-
-::: indent
+:::indent
 त्वां मां च "a ti y a mí"
-:::
-
-## 43.4. Lista de vocabulario
+:::## 43.4. Lista de vocabulario
 
 ज्ञा + आ Caus. आज्ञापयति : ordenar, disponer
 
 आपण m.: mercado
 
-::: media
+:::media
 ![](/images/lekt4302.webp)
 Fig.: आपणः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4302))
-:::
-
-सत्वर 3: rápido, apresurado
+:::सत्वर 3: rápido, apresurado
 
 पण्य 3: vendible; n.: mercancía, comercio
 
-::: media
+:::media
 ![](/images/lekt4303.webp)
 Fig.: पण्यानि
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4303))
-:::
-
-आम् : sí
+:::आम् : sí
 
 सम m. = वर्ष n.
 
@@ -170,33 +158,27 @@ Fig.: पण्यानि
 
 विपणि f.: tienda
 
-::: media
+:::media
 ![](/images/lekt4304.webp)
 Fig.: विपणिः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4304))
-:::
+:::वणिज् m.: comerciante
 
-वणिज् m.: comerciante
-
-::: media
+:::media
 ![](/images/lekt4305.webp)
 Fig.: वणिक्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4305))
-:::
-
-वर 3: mejor
+:::वर 3: mejor
 
 शीघ्र 3: rápido, veloz
 
 वत्स m.: ternero, cría, hijo; voc.: ¡querido mío!
 
-::: media
+:::media
 ![](/images/lekt4306.webp)
 Fig.: वत्सः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4306))
-:::
-
-उत्तम 3: supremo, mejor
+:::उत्तम 3: supremo, mejor
 
 अल्प 3: pequeño, escaso
 
@@ -212,13 +194,11 @@ Fig.: वत्सः
 
 तुल् 10 तुलयति । तोलयति : pesar
 
-::: media
+:::media
 ![](/images/lekt4307.webp)
 Fig.: तोलन्ति
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4307))
-:::
-
-कर्गल n.: papel
+:::कर्गल n.: papel
 
 संपुट m.: caja (aquí: paquete, fardo)
 
@@ -230,7 +210,7 @@ Fig.: तोलन्ति
 
 द्रु 1P द्रवति correr
 
-::: indent
+:::indent
 Perf. IIIa दुद्राव, दुद्रुवुर्  
 Fut. द्रोष्यति  
 Pass. द्रूयते  
@@ -238,9 +218,7 @@ Kaus. द्रावयति
 PPP द्रुत  
 Absol. -द्रुत्य  
 Inf. द्रोतुम्
-:::
-
-रे Interjección: ¡Oye! ¡Tú ahí!
+:::रे Interjección: ¡Oye! ¡Tú ahí!
 
 अन्यद् 3: otro (declinación como यद् )
 
@@ -335,13 +313,11 @@ B) Traduzca al sánscrito:
 
 10\. ¿Cómo te salvas (cruzas) ante el enemigo?
 
-::: media
+:::media
 ![](/images/lekt4308.webp)
 Fig.: कदा पूराववर्तथाः ।
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4308))
-:::
-
-## 43.6. संवादः = Diálogo
+:::## 43.6. संवादः = Diálogo
 
 | संवादः | Explicaciones |
 | --- | --- |
@@ -371,13 +347,11 @@ Fig.: कदा पूराववर्तथाः ।
 | अशोको गृहमागत्य सर्वमपीतिवृत्तमकथयत् । तत्रस्था सर्वे ऽपि बान्धवा मित्राणि च परमानन्दं प्रापुः । इत्थं जन्मोत्सवः सानन्दं समाप्तिं यातः ॥ | |
 | (Nach: Saral Sanskrit Shikshak III, S. 4f.) | |
 
-::: media
+:::media
 ![](/images/lekt4309.webp)
 Fig.: śarkarā
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4309))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 
 **lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Acceso el 2009-01-06. -- Licencia Creative Commons (Atribución, uso no comercial)

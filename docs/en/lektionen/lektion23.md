@@ -11,7 +11,7 @@ status: stable
 
 ## 23.1. The Infinitive (तुमुन्)
 
-::: grammar-box
+:::grammar-box
 **If one wants to express in Sanskrit that an action is performed for the sake of another action ("in order to"), one can use the infinitive (तुमुन्) for the action for whose sake it is performed. The infinitive primarily denotes purpose or intention:**
 
 > रामो गुरुवचनं श्रोतुं गतः = "Rāma has gone to listen to the teacher's speech."
@@ -50,11 +50,9 @@ e.g.
 **When the infinitive depends on a noun, it must not be combined with it into a compound. Exceptions are Bahuvrīhis, whose second member is काम or मनस्:**
 
 > वक्तुकामः = वक्तुं कामो यस्य सः = "one whose wish it is to speak; one who wishes to speak".
-:::
+:::## 23.2. Formation of the Infinitive (तुमुन्)
 
-## 23.2. Formation of the Infinitive (तुमुन्)
-
-::: grammar-box
+:::grammar-box
 **guṇa-grade root + -tum**
 
 **or**
@@ -64,34 +62,26 @@ e.g.
 **Final consonants of the root are modified before -tum according to the same rules as before the -ta of the PPP.**
 
 **Verbs with prefixes form the infinitive in the same way as simple roots.**
-:::
+:::Examples:
 
-Examples:
-
-::: indent
+:::indent
 दिश् : देष्टुम्  
 रुद् : रोदितुम्
-:::
-
-No fixed rules can be established regarding the use of the connecting vowel -i-. Essentially, the distribution of the connecting vowel in the infinitive corresponds to that in the future tense.
+:::No fixed rules can be established regarding the use of the connecting vowel -i-. Essentially, the distribution of the connecting vowel in the infinitive corresponds to that in the future tense.
 
 Among the roots learned so far, the following infinitives deserve particular attention:
 
-::: indent
+:::indent
 गम् : गन्तुम्
 
 प्रच्छ् : प्रष्टुम्
-:::
+:::-ra- as strong grade of -ṛ- have in the infinitive:
 
--ra- as strong grade of -ṛ- have in the infinitive:
-
-::: indent
+:::indent
 दृश् : द्रष्टुम्
 
 सृज् : स्रष्टुम्
-:::
-
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+:::Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. The Infinitive (तुमुन्) for the roots learned so far
 
@@ -234,25 +224,19 @@ D) Translate and resolve the compounds:
 
 फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥
 
-::: media
+:::media
 ![](/images/lekt2303.webp)
 Fig.: फलवन्ति पुण्यानीति
 ทำบุญ = पुण्यकरणम्, Thailand = ประเทศไทย
 (Image source: [Details](/en/licenses#lekt2303))
-:::
+:::सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
 
-
-सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥
-
-::: media
+:::media
 ![](/images/lekt2301.webp)
 Fig.: सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति
 Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
 (Image source: [Details](/en/licenses#lekt2301))
-:::
-
-
-शूद्रजनो ब्राह्मणेन सह अत्tuम (अत्तुम्) नार्हति ॥५॥
+:::शूद्रजनो ब्राह्मणेन सह अत्tuम (अत्तुम्) नार्हति ॥५॥
 
 लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥
 
@@ -269,14 +253,12 @@ C) Translate the following सुभाषितम्
 
 Explanation: हीन ३: PPP to हा 3: to leave; धर्मे = locative sg. "in the ..."
 
-::: media
+:::media
 ![](/images/lekt2302.webp)
 Fig.: आहारनिद्राभयमैथुनं च
 Chittorgarh = चित्तौडगढ
 (Image source: [Details](/en/licenses#lekt2302))
-:::
-
-## 23.6. Review Exercise
+:::## 23.6. Review Exercise
 
 Please do not use any aids!
 
@@ -296,16 +278,12 @@ A) Translate into Sanskrit:
 
 7\. The "staff" brings about acquisition and secure possession of philosophy, Veda, and economics. The wielding of this staff is politics.
 
-::: media
+:::media
 ![](/images/lekt2304.jpg)
 Fig.: दण्डनीतिः
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = मनमोहन सिंह, Prime Minister of India = भारत के प्रधानमन्त्री, since 2004
 (Image source: [Details](/en/licenses#lekt2304))
-:::
-
-
-
-8\. Wife, son, and slave, these three (त्रयस्) are, according to tradition, without property. Whatever comes to them belongs to the one to whom these (three) belong.
+:::8\. Wife, son, and slave, these three (त्रयस्) are, according to tradition, without property. Whatever comes to them belongs to the one to whom these (three) belong.
 
 9\. Mosquitoes desire a wound, rulers desire property, low-born persons desire conflict, good persons desire peace.
 
@@ -329,7 +307,7 @@ C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicat
 
 ४. हन् ॥
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Image source: Wikipedia. GNU FDL]
 

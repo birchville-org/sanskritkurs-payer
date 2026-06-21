@@ -33,19 +33,17 @@ Determine y traduzca las siguientes formas y forme las correspondientes formas d
 18.  ऐक्षध्वम् - ईक्ष् 1Ā 2.pl.Impf.Ā vosotros visteis - ऐक्षिध्वम्
 19.  अचेतः - चित् 1P 2.sg.Impf.P tú percibiste - अचेतीः
 
-:::: media
+::::media
 ![](/images/uebung095.webp)
 Fig.: तब्लाः
 (Fuente de la imagen: [Detalles](/licenses#uebung095))
-:::
-
----
+:::---
 
 ## B) Determinaciones de palabras
 
 Determine y traduzca las siguientes formas:
 
-::: media
+:::media
 ![](/images/uebung097.webp)
 Fig.: मातुलङ्गविक्रेतायं ना ॥  
 Pune - पुणे  

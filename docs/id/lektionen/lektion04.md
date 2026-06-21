@@ -11,7 +11,7 @@ status: stable
 
 
 
-::: deleteme-box
+:::deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
 - Kata tanya dan kata ganti penunjuk dalam nominatif
 - Sandhi dari akhiran -m
@@ -19,9 +19,7 @@ status: stable
 - Sandhi dari akhiran -d
 - Frasa pertanyaan sederhana
 
-:::
-
-## 4.1. Pertanyaan Pelengkap Sederhana (Pertanyaan Kata) dan Jawaban
+:::## 4.1. Pertanyaan Pelengkap Sederhana (Pertanyaan Kata) dan Jawaban
 
 ### 4.1.1. Kata Ganti Tanya dan Kata Ganti Penunjuk
 
@@ -29,7 +27,7 @@ status: stable
 
 
 
-::: grammar-box
+:::grammar-box
 
 | | Nominatif tunggal | Nominatif jamak |
 
@@ -41,15 +39,11 @@ status: stable
 
 | **Femininum** | **kā = का** | **kās = कास्** |
 
-:::
+:::#### 4.1.1.2. Kata Ganti Penunjuk (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि)
 
 
 
-#### 4.1.1.2. Kata Ganti Penunjuk (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि)
-
-
-
-::: grammar-box
+:::grammar-box
 
 | **Suku** ||||
 
@@ -73,11 +67,7 @@ status: stable
 
 | **Femininum** | **tās = तास्** | **etās = एतास्** | **imās इमास्** |
 
-:::
-
-
-
-**Untuk Nom. sg. mask.:**
+:::**Untuk Nom. sg. mask.:**
 - **sa, eṣa** (स एष) muncul sebelum semua bunyi kecuali **-a** pendek
 - **so, eṣo** (सो एषो) muncul sebelum **-a**, yang dielisis dengan Avagraha (hilang)
 - **saḥ, eṣaḥ** (सः एषः) hanya muncul dalam jeda (akhir kalimat, akhir bait)
@@ -88,46 +78,36 @@ Agar dapat membentuk kalimat dengan kata ganti ini (sarvanāman n.), diperlukan 
 
 
 
-::: grammar-box
+:::grammar-box
 **-m di akhir kata digantikan oleh Anusvāra (-ṃ) sebelum konsonan. Di akhir kalimat atau bait, dan sebelum vokal, -m tetap dipertahankan.**
-:::
-
-:::
-
-### 4.1.3. Sandhi dari akhiran -e
+::::::### 4.1.3. Sandhi dari akhiran -e
 
 
 
-::: grammar-box
+:::grammar-box
 1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:**
    z.B. ete + agnayas » ete 'gnayaḥ = एते ऽग्नयः "Diese Feuer"
 
 2. **Di depan vokal lain selain a- pendek, -e biasanya diganti dengan -a dengan hiatus. Penggantian dengan -ay juga terjadi:**
    mis. ime + īśvarās » ima īśvarāḥ = इम ईश्वराः (langka: imay īśvarāh = इमयीश्वराः) "TUAN-TUAN ini"
 
-:::
-
-### 4.1.4. Sandhi dari akhirat -d
+:::### 4.1.4. Sandhi dari akhirat -d
 
 
 
-::: grammar-box
+:::grammar-box
 **-d di akhir suku kata diganti dengan -t dalam jeda serta sebelum gutural tak bersuara (k, kh) dan labial (p, ph).**
-:::
+:::Penggantian sebelum konsonan lain akan dibahas kemudian. Hindari tabrakan bunyi seperti itu untuk sementara!
 
-Penggantian sebelum konsonan lain akan dibahas kemudian. Hindari tabrakan bunyi seperti itu untuk sementara!
-
-:::
-
-### 4.1.5. Rumus Pertanyaan
+:::### 4.1.5. Rumus Pertanyaan
 
 Dengan kata ganti ini, misalnya, dibentuk rumus pertanyaan berikut:
 
 
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | | | |
 
@@ -145,13 +125,7 @@ Dengan kata ganti ini, misalnya, dibentuk rumus pertanyaan berikut:
 
 | | **Femininum** | tāḥ kāḥ? / kās tāḥ?[[br]]ताः काः, कास्ताः[[br]]etāḥ kāḥ? / kā etāḥ?[[br]]एताः काः, का एताः[[br]]imāḥ kāḥ? / kā imāḥ?[[br]]इमाः काः, का इमाः | |
 
-:::
-
-::::
-
-
-
-Contoh pertanyaan lain:
+:::::::Contoh pertanyaan lain:
 
 > viṣṇuḥ kaḥ? = विष्णुः कः Jawaban: viṣṇur īśvaraḥ = विष्णुरीश्वरः. (Dalam kalimat nominal, subjek dapat diletakkan di awal, misalnya, untuk menekankan kesinambungan dengan pertanyaan.)
 
@@ -171,9 +145,8 @@ CATATAN: Jawaban-jawaban yang dapat Anda berikan dengan pengetahuan Sanskerta An
 
 
 
-::: media
+:::media
 ![](/images/lekt0401.webp)
 (Sumber gambar: [Detail](/id/licenses#lekt0401))
 
 :::
-

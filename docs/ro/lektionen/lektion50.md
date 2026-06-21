@@ -11,88 +11,67 @@ status: stable
 
 ## 50.1. Formarea substantivelor: intensificare regulată
 
-::: grammar-box
+:::grammar-box
 **Intensificarea regulată se realizează în sanscrită cu sufixele तद्धित**
 * **-तर (fem.: तरा) în „comparativ”**
 * **तम (fem.: तमा) în „superlativ”**
 
 **Aceste sufixe se adaugă la tema masculină a adjectivelor. La substantivele cu alternanță de temă, se adaugă la tema slabă, care are forma ca înainte de terminația -su a locativului (पञ्चमी) plural.**
-:::
-
-::: media
+::::::media
 ![](/images/lekt5007.webp)
 Fig.: लोकस्योत्तमो गिरिः
 सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Muntele Everest
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5007))
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **Semnificație:**
 
 **„Comparativul” înseamnă, dacă nu este exprimat un obiect comparat: „destul, foarte, prea”:**
 
-::: indent
+:::indent
 ex. सुचितर 3 „dest de pur”, „foarte pur”, „prea pur”
-:::
+:::**Dacă este exprimat un obiect comparat, acesta se află în ablativ (पञ्चमी). Comparativul + ablativ corespunde intensificării cu „decât” în limba germană.**
 
-**Dacă este exprimat un obiect comparat, acesta se află în ablativ (पञ्चमी). Comparativul + ablativ corespunde intensificării cu „decât” în limba germană.**
-
-::: indent
+:::indent
 ex. देवदत्ताद्रामो धीमत्तरः = literal: „văzând din Devadatta, Rāma este mai înțelept” = „Rāma este mai înțelept decât Devadatta”
-:::
+:::**„Superlativul” înseamnă, dacă nu este exprimat un obiect comparat: „extrem, foarte”:**
 
-**„Superlativul” înseamnă, dacă nu este exprimat un obiect comparat: „extrem, foarte”:**
-
-::: indent
+:::indent
 ex. सत्तम 3 (la सन्त्) „foarte bun, extrem de bun”
-:::
+:::**Dacă este exprimat un obiect comparat, acesta se află în genitiv (षष्ठी) („de”, „între”) iar superlativul corespunde superlativului german (gradul maxim):**
 
-**Dacă este exprimat un obiect comparat, acesta se află în genitiv (षष्ठी) („de”, „între”) iar superlativul corespunde superlativului german (gradul maxim):**
-
-::: indent
+:::indent
 ex. द्विजानां सत्तमः = „cel mai bun dintre cei născuți de două ori”
-:::
-
-**Sufixele -तर și -तम pot apărea nu doar la adjectiv, ci și la substantive, indeclinabile și chiar la forme verbale:**
+:::**Sufixele -तर și -तम pot apărea nu doar la adjectiv, ci și la substantive, indeclinabile și chiar la forme verbale:**
 
 Exemple:
 
-::: indent
+:::indent
 गजतम m. „cel mai bun elefant” (गज) (de asemenea, numire a lui Buddha)
 
 गोतम m. „cel mai mare bivol” (गो) sau: „cel mai bogat în bovine”
 
 उद् Indecl. „pe”, „sus” » उत्तर 3 „mai sus” » उत्तम 3 „cel mai sus”
-:::
-
-**Dacă aceste sufixe apar la o formă verbală, acestea apar întotdeauna în forma adverbială:**
+:::**Dacă aceste sufixe apar la o formă verbală, acestea apar întotdeauna în forma adverbială:**
 
 * **-तराम्**
 * **-तमाम्**
 
 Exemple:
 
-::: indent
+:::indent
 पचतितराम् „el/ea/ea gătește mai bine”
 
 पचतितमाम् „el/ea/ea gătește cel mai bine”
-:::
+:::**Această formă o au și aceste sufixe, când apar la un indeclinabil și cuvântul derivat este folosit adverbial:**
 
-**Această formă o au și aceste sufixe, când apar la un indeclinabil și cuvântul derivat este folosit adverbial:**
-
-::: indent
+:::indent
 ex. सुतराम् (la सु) „în mod mai bun” (adverbial)
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt5006.webp)
 Fig.: का पचतितमाम्
 Lisu = 傈僳族, अरुणाचल प्रदेश
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5006))
-:::
-
-## 50.2. Listă de cuvinte
+:::## 50.2. Listă de cuvinte
 
 ध्रुव 3: ferm, neschimbat
 
@@ -104,27 +83,24 @@ Lisu = 傈僳族, अरुणाचल प्रदेश
 
 मन्त्रिन् 3: sfătuitor ; m.: consilier, consilier de stat, ministru
 
-::: media
+:::media
 ![](/images/lekt5001.jpg)
 Fig.: मन्त्री
 Kapil Sibal (1948 -), ministru de stat în Ministerul Științei și Tehnologiei și Ministerul Științelor Pământului (din 2006)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5001))
-:::
-रहस् n.: secret, singurătate
+:::रहस् n.: secret, singurătate
 
 रिष् 1P रिषति 4P रिष्यति: a fi afectat, a eșua, a deteriora
 
-::: indent
+:::indent
 Perf. II रिरेष, रिरिषुर्
 Fut. रेषिष्यति
 Pass. रिष्यते
 Kaus. रेषयति
 PPP रिष्ट
-:::
+:::**लुप् 6U *लुम्प*ति** : a rupe, a distruge
 
-**लुप् 6U *लुम्प*ति** : a rupe, a distruge
-
-::: indent
+:::indent
 Perf.  II लुलोप, लुलुपे
 Fut. लोप्स्यति
 Pass. लुप्यते
@@ -132,13 +108,11 @@ Kaus. लोपयति
 PPP लुप्त
 Inf. लोप्तुम्
 Gerundiv लुप्य । लोप्य
-:::
-
-विधि m.: de asemenea: destin (la विधा)
+:::विधि m.: de asemenea: destin (la विधा)
 
 वृष् 1P वर्षति: a ploua (de obicei cu un कर्तृ -- un zeu sau un nor)
 
-::: indent
+:::indent
 Perf. II ववर्ष, ववृषुर्
 Fut. वर्षिष्यति
 Pass. वृष्यते
@@ -147,28 +121,24 @@ PPP वृष्ट
 Inf. वर्षितुम्
 Absol. वर्षित्वा । वृष्ट्वा
 Absol.-वृष्य
-:::
-
-::: media
+::::::media
 ![](/images/lekt5002.jpg)
 Fig.: महामेघो वर्षिष्यति
 Sosirea monsunului, Bangalore  ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5002))
-:::
-संयक् Adv.: corect, adevărat, în mod cuvenit ; desigur, complet
+:::संयक् Adv.: corect, adevărat, în mod cuvenit ; desigur, complet
 
 आदित्य m.: Soare ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : o anumită clasă de zei
 
-::: media
+:::media
 ![](/images/lekt5005.jpg)
 Fig.: आदित्यः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5005))
-:::
-सर्व 3: fiecare, toți
+:::सर्व 3: fiecare, toți
 
 Declinație ca यद् (excepție: Nom.Akk.sg.Neutrum)
 
-::: grammar-box
+:::grammar-box
 | | Singular[[br]]एकवचनम् || || Plural[[br]]बहुवचनम् || ||
 | | **Masculin[[br]]पुंस्** | **Neutru[[br]]नपुंसकम्** | **Feminin[[br]]स्त्री** | **Masculin[[br]]पुंस्** | **Neutru[[br]]नपुंसकम्** | **Feminin[[br]]स्त्री** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -179,9 +149,7 @@ Declinație ca यद् (excepție: Nom.Akk.sg.Neutrum)
 | **5. Ablativ[[br]]५. पञ्चमी** | सर्वस्मात् || सर्वस्यास् | सर्वेभ्यस् || सर्वाभ्यस् |
 | **6. Genetiv[[br]]६. षष्ठी** | सर्वस्य || सर्वस्यास् | सर्वेषाम् || सर्वासाम् |
 | **7. Locativ[[br]]७. सप्तमी** | सर्वस्मिन् || सर्वस्याम् | सर्वेषु || सर्वासु |
-:::
-
-वै : particulă, care subliniază cuvântul anterior: cu adevărat, cu siguranță, dar
+:::वै : particulă, care subliniază cuvântul anterior: cu adevărat, cu siguranță, dar
 
 इह Adv.: aici, aici pe pământ, aici ; acum. Înaintea substantivelor în Locativ (षष्ठी) sinonim cu अस्मिन्, अस्याम्
 
@@ -189,27 +157,23 @@ Declinație ca यद् (excepție: Nom.Akk.sg.Neutrum)
 
 कल्याण 3 (f.: कल्याणी) :frumos
 
-::: media
+:::media
 ![](/images/lekt5003.webp)
 Fig.: कल्याणी
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5003))
-:::
-कु- : ca prefix în compuse: rău
+:::कु- : ca prefix în compuse: rău
 
-::: media
+:::media
 ![](/images/lekt5004.webp)
 Fig.: कुनगरम्
 धारावी, मुंबई
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5004))
-:::
-चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : vedea
+:::चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : vedea
 
-::: indent
+:::indent
 Perf. चचक्षे
 nu este utilizat în celelalte timpuri
-:::
-
-चक्ष् + प्र 2Ā प्रचष्टे : a povesti, a considera, a numi
+:::चक्ष् + प्र 2Ā प्रचष्टे : a povesti, a considera, a numi
 
 देश m.: loc, loc, țară, regiune
 
@@ -217,51 +181,42 @@ nu este utilizat în celelalte timpuri
 
 A) În recapitularea declinării: următorul vers conține toate formele de declinare la singular pentru गुरु m.:
 
-::: indent
+:::indent
 गुरुरेव गतिर्गुरुमेव भजे
 गुरुणैव सहास्मि नमो गुरवे ।
 न गुरोः परमं शिशुरस्मि गुरोर्
 मतिरस्ति गुरौ मम पाहि गुरो ॥
-:::
-
-::: media
+::::::media
 ![](/images/lekt5008.webp)
 Fig.: गुरुमेव भजे
 Ganeshpuri, la 80 km distanță de Mumbai (मुंबई)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5008))
-:::
-B) Traduceți:
+:::B) Traduceți:
 
 मनुस्मृति ४, १७८
 
-::: indent
+:::indent
 येनास्य पितरो याता
 येन याताः पितामहाः ।
 तेन यायात्सतां मार्गम्
 तेन गच्छन्न रिष्यते ॥१॥
-:::
+:::मनुस्मृति ३, ६३
 
-मनुस्मृति ३, ६३
-
-::: indent
+:::indent
 कुविवाहैः क्रियालोपैर्
 वेदानध्ययनेन च ।
 कुलान्यकुलतां यान्ति
 ब्राह्मणातिक्रमेण च ॥२॥
-:::
+:::मनुस्मृति ३, ६०
 
-मनुस्मृति ३, ६०
-
-::: indent
+:::indent
 संतुष्टो भार्यया भर्ता
 भर्त्रा भार्या तथैव च ।
 यस्मिन्नेव कुले नित्यम्
 कल्याणं तत्र वै ध्रुवम् ॥३॥
-:::
+:::मनुस्मृति ३, ७५ - ७६: Despre necesitatea jertfei
 
-मनुस्मृति ३, ७५ - ७६: Despre necesitatea jertfei
-
-::: indent
+:::indent
 स्वाध्याये नित्ययुक्तः स्याद्
 दैवे चैवेह कर्मणि ।
 दैवे कर्मणि युक्तो हि
@@ -270,30 +225,24 @@ B) Traduceți:
 आदित्यमुपतिष्ठते ।
 आदित्याज्जायते वृष्टिर्
 वृष्टेरन्नं ततः प्रजाः ॥५॥
-:::
+:::योगसूत्र २, १६ - १७
 
-योगसूत्र २, १६ - १७
-
-::: indent
+:::indent
 हेयं दुःखमनागतम् ॥६॥
 ***द्रष्टृदृश्ययोः*** संयोगो हेयहेतुः ॥७॥
 
 Explicație:
 द्रष्टृदृश्ययोः : Gen.Loc.m.n.f.Dual (Dualdvandva)
-:::
+:::कौटिलीयार्थशास्त्र १, १५: Despre consilierii regelui
 
-कौटिलीयार्थशास्त्र १, १५: Despre consilierii regelui
-
-::: indent
+:::indent
 न किंचिदवमन्येत
 सर्वस्य शृणुयानमतम् ।
 बालस्याप्यर्थवद्वाक्यम्
 उपयुन्जीत पाण्डितः ॥८॥
-:::
+:::मनुस्मृति २, १४० - १४२: Definiția lui आचार्य, उपाध्याय, गुरु
 
-मनुस्मृति २, १४० - १४२: Definiția lui आचार्य, उपाध्याय, गुरु
-
-::: indent
+:::indent
 उपनीय तु यः शिष्यं
 वेदमधापयेत्द्द्विजः ।
 सकल्पं सरहस्यं च
@@ -311,9 +260,7 @@ Explicație:
 
 Explicații:
 निषेकादीनि : Nom.Acc.pl.Neutrum
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt5007:** Fig.: सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Muntele Everest [Sursa imaginii: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Accesat la 2009-01-12. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)]
 

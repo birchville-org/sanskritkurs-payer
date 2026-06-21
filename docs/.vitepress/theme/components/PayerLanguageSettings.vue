@@ -445,6 +445,24 @@ const LOCALE_TEXTS = {
     unavailableHint: 'Untuk instalasi PWA: diperlukan HTTPS dan browser modern.',
     preparingApp: 'Menyiapkan aplikasi…',
   },
+  he: {
+    activeLanguages: 'שפות פעילות',
+    availableLanguages: 'הוסף שפות נוספות',
+    title: 'הגדרות',
+    hint: 'בחר את השפות שיוצגו בניווט ושיהיו זמינות במצב לא מקוון.',
+    currentBadge: 'נוכחי',
+    saveBtn: 'שמור',
+    saving: 'שומר...',
+    validationError: 'יש לבחור לפחות שפה אחת.',
+    installing: 'מתקין אפליקציה...',
+    installBtn: '📱 התקן אפליקציית רשת',
+    installHint: 'לשימוש מלא במצב לא מקוון במחשב או בסמארטפון.',
+    installedStatus: 'אפליקציית רשת מותקנת',
+    installedHint: 'האפליקציה פועלת כיישום עצמאי.',
+    unavailableStatus: 'התקנה אינה זמינה',
+    unavailableHint: 'להתקנת PWA: נדרש חיבור HTTPS ודפדפן מודרני.',
+    preparingApp: 'מכין אפליקציה...',
+  },
 }
 
 // Computed helper — returns localized strings for the current locale, with German as fallback

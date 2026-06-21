@@ -76,19 +76,17 @@ I forti guerrieri sono andati al villaggio dei Brahmani.
 पुन्यवतो वैश्यस्येष्टाया देवतायाः पूजां करोति ।
 Venera la divinità personale del Vaiśya meritevole.
 
-::: media
+:::media
 ![](/images/uebung023.webp)
 Fig.: न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung023))
-:::
-
----
+:::---
 
 ## Schema di declinazione
 
 A) Formate tutti i casi finora appresi per le seguenti parole come esempi delle classi di declinazione finora studiate.
 
-::: grammar-box
+:::grammar-box
 १. **नर** (m.)
 
 | Caso | Singolare | Plurale |
@@ -219,9 +217,7 @@ A) Formate tutti i casi finora appresi per le seguenti parole come esempi delle 
 | 2. Accusativo | इमम् / एनम् | इदम् / एनद् | इमाम् / एनाम् | इमान् / एनान् | इमानि / एनानि | इमास् / एनास् |
 | 3. Strumento | अनेन / एनेन | — | अनया / एनया | एभिस् (एभिः) | — | आभिस् (आभिः) |
 | 6. Genitivo | अस्य | — | अस्यास् (अस्याः) | एषाम् | — | आसाम् |
-:::
-
----
+:::---
 
 ## Esercizi aggiuntivi
 
@@ -250,17 +246,15 @@ Il dovere specifico di un śūdra è il servizio obbediente ai nati due volte, a
 Il dovere di tutti è: non violenza, veridicità, purezza, non lamentarsi del proprio destino, assenza di malizia e pazienza tollerante.
 (कौटिलीयार्थशास्त्र १.३.५-८, १३)
 
-::: deleteme-box Spiegazioni
+:::deleteme-box Spiegazioni
 Frase 7: **कृषिपाशुपाल्ये** Duale, Nominativo Accusativo: Dvandva, che indica le due "cose"
 Frase 8: **कर्म** Nominativo, Accusativo singolare Neutro di कर्मन् "azione"
 Frase 13: **सर्वेषाम्** Genitivo plurale maschile di सर्व "ogni, tutti" (pronome, declinato non come deva)
-:::
-
-३. आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः, तस्य नीतिर्दण्डनीतिः ॥ कौटिलीयार्थशास्त्र १.४.३ ॥
+:::३. आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः, तस्य नीतिर्दण्डनीतिः ॥ कौटिलीयार्थशास्त्र १.४.३ ॥
 आन्वीक्षिक्याः त्रय्याः वार्त्ताया योगस्य क्षeमस्य च साधनो दण्डः, तस्य नीतिर्दण्डनीतिः ।
 La frusta produce acquisizione e sicura possessione di filosofia, vedistica ed economia. La guida della frusta è politica.
 
-::: media
+:::media
 ![](/images/uebung024.webp)
 Fig.: योगश्चित्तवृत्तिनिरोधः
 (Fonte immagine: [Dettagli](/it/licenses#uebung024))

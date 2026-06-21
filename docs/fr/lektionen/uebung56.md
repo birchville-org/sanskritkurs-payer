@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Déterminez et traduisez les formes suivantes :
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung / Bedeutung |
 |:---|:---|:---|
 | १. | **अस्मत्** | *वयम्* : Abl. (de nous) |
@@ -94,9 +94,7 @@ Déterminez et traduisez les formes suivantes :
 | ७८. | **अकस्मात्** | inattendu (Adv.) |
 | ७९. | **मित्रध्रुक्** | *मित्रद्रुह्* : Nom. Voc. Sg. m. f. n. (dévastateur des ennemis) |
 | ८०. | **अवोचन्** | *वच्* 2P : 3. Pl. a-Aor. P. (ils parlèrent) |
-:::
-
-::: media
+::::::media
 ![](/images/uebung091.webp)
 Fig. : जेरिम
 (Source de l’image : [Détails](/fr/licenses#uebung091))

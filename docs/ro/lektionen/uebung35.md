@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formați formele de perfect corespunzătoare pentru următoarele forme verbale:
 
-::: grammar-box
+:::grammar-box
 | Prezent / Imperfect | Perfect |
 | :--- | :--- |
 | १. **गायन्ति** | जगुः |
@@ -54,9 +54,7 @@ A) Formați formele de perfect corespunzătoare pentru următoarele forme verbal
 | ३९. **अचरत्** | चचार |
 | ४०. **जुह्वति** | जुहुवुः |
 | ४१. **अहरत्** | जहार |
-:::
-
-B) Traduceți:
+:::B) Traduceți:
 
 १. **एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥**
 Pe vremuri, un mare kṣatriya a început să sacrifice. Indra i-a răpit (a luat) animalul de sacrificiu. Dar, când animalul a dispărut, un brahman rău i-a vorbit kṣatriyului: „Animalul a dispărut din cauza comportamentului necuviincios al kṣatriyului.”
@@ -84,7 +82,7 @@ C) Transformați propozițiile din exercițiul B) înlocuind perfectele cu imper
 
 ४. अर्हन्तः कुलबन्धनमभिन्दंल्लोभं च क्रोधं च मोहं चारुन्धन्सत्यमजानन्दुःखान्मुक्ता मोक्षसुखमाप्नुवन् ॥
 
-::: media
+:::media
 ![](/images/uebung058.webp)
 Fig.: ब्राह्मणीषु पचन्तीषु ...
 (Sursă imagine: [Detalii](/licenses#uebung058))

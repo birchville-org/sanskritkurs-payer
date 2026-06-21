@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-21
 
 ## 56.1. L’aoristo reduplicato
 
-::: grammar-box
+:::grammar-box
 **Formazione:**
 
 **Augmento + radice reduplicata + a + desinenza secondaria tematica**
@@ -17,9 +17,7 @@ last_reconstructed: 2026-05-21
 **Il -i e il -u finali vengono sostituiti rispettivamente da -iy e -uv.**
 
 **Il -ā finale (per -e) cade.**
-:::
-
-Paradigma:
+:::Paradigma:
 
 श्रि 1U "recarsi presso, appoggiarsi"
 
@@ -38,15 +36,13 @@ Questa forma di aoristo è formata, tra le altre, da:
 *   पत् 1P "cadere": अपप्तत् (a-pa-pt-a-t; pt = grado profondo di pat)
 *   वच् 2P "dire": अवोचत् (a-va + uc-a-t)
 
-::: grammar-box
+:::grammar-box
 **Tutte le radici della decima classe di presente, nonché tutti i causativi, formano sempre l’aoristo reduplicato.**
-:::
-
-### 56.1.1. Formazione dell’Aoristo dei Causativi e delle Radici della 10ª Classe di Presente
+:::### 56.1.1. Formazione dell’Aoristo dei Causativi e delle Radici della 10ª Classe di Presente
 
 Sillaba tematica:
 
-::: grammar-box
+:::grammar-box
 **Il punto di partenza è la forma del tema del presente o del tema causativo, dopo la caduta dell’elemento formativo *-aya-* (quindi tema in *-p* per i causativi in *-paya-*).**
 
 **Il vocale di questa cosiddetta sillaba tematica si determina nell’Aoristo secondo le seguenti regole:**
@@ -68,13 +64,11 @@ Sillaba tematica:
 *   **ar, ār, īr, al, che precedono immediatamente la consonante finale della sillaba tematica e sostituiscono ṛ, ṝ, ḷ, rimane facoltativamente invariato oppure viene sostituito da ṛ o ḷ:**  
     कॢप्  1Ā: Caus. ***कल्प***यति, Aor. अच***कल्प***त् / अची***कॢ***पत्  
     कृष् 1P/6U: Caus. ***कर्ष***यति, Aor. अच***कर्ष***त् / अची***कृ***षत्
-:::
-
-Vocale della sillaba di reduplicazione:
+:::Vocale della sillaba di reduplicazione:
 
 Dopo aver applicato le regole appena menzionate alla sillaba tematica, devono essere seguite le seguenti regole per la vocale della sillaba di reduplicazione:
 
-:::: grammar-box
+::::grammar-box
 **Il punto di partenza è la vocale di reduplicazione regolare, cioè:**
 
 *   a per a, ā, ṛ,  ṝ, ḷ
@@ -101,52 +95,40 @@ Particolarità di certe radici in Kielhorn, Grammatik § 435c ss.
 
 Vocale - prima consonante che segue (ovvero il suo rappresentante richiesto in una sillaba di reduplicazione) - ***i*** - tutte le consonanti
 
-::: indent
+:::indent
 अश् 9P: Kaus. आशयति, sillaba di reduplicazione आशिश्, Aor. आशिशत्
 इष् 6P: Kaus. एषयति, sillaba di reduplicazione एषिष्, Aor. ऐषिषत्
 ईक्ष् 1Ā: Kaus. ईक्षयति, sillaba di reduplicazione ईचिक्ष्, Aor. ऐचिक्षत्
-:::
-
-*   **Se a una vocale iniziale segue un gruppo consonantico che inizia con una nasale, con d o con r, la seconda consonante del gruppo (o il suo sostituto) viene inserita con la i, secondo il seguente schema:**
+:::*   **Se a una vocale iniziale segue un gruppo consonantico che inizia con una nasale, con d o con r, la seconda consonante del gruppo (o il suo sostituto) viene inserita con la i, secondo il seguente schema:**
 
 Vocale - prima consonante - seconda consonante (sostituto) - i - seconda consonante
 
-::: indent
+:::indent
 अञ्ज् 7P: Kaus. अञ्जयति, sillaba di reduplicazione अञ्जिज्, Aor. आञ्जिजत्
 ऋ 1P: Kaus. अर्पयति, sillaba di reduplicazione अर्पिप्, Aor. आर्पिपत्
 अर्ह् 1P: Kaus. अर्हयति, sillaba di reduplicazione अर्जिह्, Aor. आर्जिहत्
-:::
+:::Questa forma di reduplicazione dei temi derivati vocalici iniziali (causativi) è detta "reduplicazione attica".
+::::## 56.2. L’Ingiuntivo
 
-Questa forma di reduplicazione dei temi derivati vocalici iniziali (causativi) è detta "reduplicazione attica".
-::::
-
-## 56.2. L’Ingiuntivo
-
-::: grammar-box
+:::grammar-box
 **L’Ingiuntivo è la forma senza augumento delle forme con augumento, ovvero le sue forme sono identiche alle forme senza augumento dell’Indicativo Imperfetto o Aoristo. La grammatica indiana nativa non ha riconosciuto l’Ingiuntivo come una categoria grammaticale distinta.**
-:::
+:::Secondo l’opera fondamentale:
 
-Secondo l’opera fondamentale:
-
-::: media
+:::media
 ![](/images/lekt5601.jpg)
 Fig.:
 Professore di Linguistica Comparata, Università di Erlangen-Norimberga (1955 - 1983)
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt5601))
-:::
-
-::: indent
+::::::indent
 Hoffmann, Karl &lt;1915 - 1996&gt;: Der Injunktiv im Veda : una ricerca sincronica sulle funzioni / di Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3a serie, Untersuchungen)
-:::
-
-l’Ingiuntivo nel Veda presenta le seguenti proprietà:
+:::l’Ingiuntivo nel Veda presenta le seguenti proprietà:
 
 *   non è narrativo, ma evocativo;
 *   è atemporale;
 *   l’Ingiuntivo del Presente (= imperfetto senza augumento) indica l’aspetto imperfettivo;
 *   l’Ingiuntivo dell’Aoristo indica l’aspetto perfettivo.
 
-::: grammar-box
+:::grammar-box
 **Nel sanscrito post-vedico, l’Ingiuntivo appare solo in combinazione con la particella proibitiva मा (+ Ingiuntivo Aoristo) oppure मा स्म (+ Ingiuntivo Presente o Aoristo); la distinzione di aspetto non è più generalmente rilevante.**
 
 (con distinzione di aspetto
@@ -155,36 +137,28 @@ l’Ingiuntivo nel Veda presenta le seguenti proprietà:
 *   मा स्म + Ingiuntivo Presente indicherebbe una proposizione inibitiva, cioè vieta un’azione già in corso o uno stato già esistente: "Smetti di...!", "Astieniti da...!"
 
 Tuttavia, questa distinzione non è solitamente mantenuta nel sanscrito classico.)
-:::
+:::## 56.3. La proposizione proibitiva
 
-## 56.3. La proposizione proibitiva
-
-::: grammar-box
+:::grammar-box
 **Forma principale:**
 
 **मा + Ingiuntivo Aoristo**
 
 **मा स्म + Ingiuntivo Aoristo o Ingiuntivo Presente**
-:::
+:::Esempi:
 
-Esempi:
-
-::: indent
+:::indent
 मा कर्महेतुर्भूः "Non diventare colui che è motivato dal frutto di un'azione!" (Ingiuntivo Aoristo) (भगवद्गीता 2,47c)
 
 क्लैब्यं मा स्म गमः "Non mostrare viltà!" (Ingiuntivo Aoristo) (भगवद्गीता 2,3a)
-:::
-
-::: media
+::::::media
 ![](/images/lekt5602.webp)
 Fig.: क्लैब्यं मा स्म गमः
 Poster (Ernesto Che Guevara) di un partito politico a Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "La traduzione approssimativa di ciò che vi è scritto è: 'Il martirio è un'esperienza affascinante per un rivoluzionario. E un ripiego spaventoso per un codardo. Che non è un modello da seguire per i vigliacchi.'"
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5602))
-:::
+:::Entrambi gli esempi hanno un significato proibitivo. L'Ingiuntivo Aoristo è qui quindi utilizzato nel suo significato originario. (Il predominio dell'Ingiuntivo Aoristo in tali frasi si spiega forse con il predominio delle frasi proibitive rispetto alle frasi inibitive, ma questa questione dovrebbe essere ancora studiata per il Sanscrito classico.)
 
-Entrambi gli esempi hanno un significato proibitivo. L'Ingiuntivo Aoristo è qui quindi utilizzato nel suo significato originario. (Il predominio dell'Ingiuntivo Aoristo in tali frasi si spiega forse con il predominio delle frasi proibitive rispetto alle frasi inibitive, ma questa questione dovrebbe essere ancora studiata per il Sanscrito classico.)
-
-:::: grammar-box
+::::grammar-box
 **Altre forme di proposizioni proibitive:**
 
 *   **मा + (स्म) + Imperativo (raro)**  
@@ -197,32 +171,24 @@ Entrambi gli esempi hanno un significato proibitivo. L'Ingiuntivo Aoristo è qui
 
 Inoltre, esistono altre forme più rare di proposizioni proibitive, vedere ad esempio:
 
-::: indent
+:::indent
 Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt5603.webp)
 Fig.: अलं विषादेन
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5603))
-:::
+:::## 56.4. स्म
 
-## 56.4. स्म
-
-:::: grammar-box
+::::grammar-box
 **स्म sottolinea: "veramente, infatti, certo, proprio"**
 
 **Inoltre, la seguente costruzione è molto importante:**
 
-::: indent
+:::indent
 स्म + Indicativo Presente serve a narrare al passato, soprattutto per indicare una durata nel passato:
 
 ad es. वसति स्म "abitava una volta" (स्म può talvolta mancare).
-:::
-::::
-
-## 56.5. Esercitazione
+:::::::## 56.5. Esercitazione
 
 A) Determinare e tradurre le seguenti forme senza ausili (!):
 
@@ -307,7 +273,7 @@ A) Determinare e tradurre le seguenti forme senza ausili (!):
 79.  मित्रध्रुक्
 80.  अवोचन्
 
-::: deleteme-box
+:::deleteme-box
 
 
 **lekt5601:** Professore di Linguistica Comparata, Università di Erlangen-Norimberga (1955 - 1983) [Fonte dell'immagine: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Accesso il 27-02-2009]

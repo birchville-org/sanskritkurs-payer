@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Determinare e tradurre le seguenti forme e formare le corrispondenti forme dell’**aoristo in a**:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung / Bedeutung | a-Aorist |
 |:---|:---|:---|:---|
 | १. | **दोक्ष्यन्ति** | *दुष्* 4P: 3. Pl. Fut. P. (they will perish) | **अदुषन्** |
@@ -46,9 +46,7 @@ Determinare e tradurre le seguenti forme e formare le corrispondenti forme dell�
 | ३१. | **अशुष्याम** | *शुष्* 4P: 1. Pl. Impf. P. (we became dry) | **अशुषाम** |
 | ३२. | **सिष्णेह** | *स्निह्* 4P: 1. 3. Sg. Perf. P. (I loved / he loved) | **अस्निहम् / अस्निहत्** |
 
-:::
-
-::: media
+::::::media
 ![](/images/uebung092.webp)
 Fig.: अशोभथाः । अशुभः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung092))

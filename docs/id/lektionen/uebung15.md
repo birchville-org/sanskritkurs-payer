@@ -70,13 +70,11 @@ B) Resolve the following Tatpuruṣa compounds:
 
 २६. श्रुत्युदितम् । श्रुत्योदितम् । श्रुतेरुदितम् — what is said / prescribed by the Veda
 
-::: media
+:::media
 ![](/images/uebung014.webp)
 Fig.: जलेश्वरो वरुणः
 (Image source: [Details](/en/licenses#uebung014))
-:::
-
----
+:::---
 
 ## Additional Exercises
 
@@ -142,7 +140,7 @@ Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German 
 
 ३०. सत्यवदनम् । स्त्यस्य वदनम् — speech of truth, speaking of truth
 
-::: media
+:::media
 ![](/images/uebung016.webp)
 Fig.: गृहकरणम्
 (Image source: [Details](/en/licenses#uebung016))

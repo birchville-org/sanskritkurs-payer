@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Form the corresponding **second person** of the following verb forms in tense, number, mood, etc.:
 
-::: grammar-box
+:::grammar-box
 | 1st Person / 3rd Person | 2nd Person |
 | :--- | :--- |
 | १. **आर्हम्** | आर्हः |
@@ -65,15 +65,11 @@ A) Form the corresponding **second person** of the following verb forms in tense
 | ५०. **सीदामि** | सीदसि |
 | ५१. **तिष्ठन्ति** | तिष्ठथ |
 | ५२. **आहरत्** | आहरः |
-:::
-
-::: media
+::::::media
 ![](/images/uebung070.webp)
 Fig.: दिशसि
 (Image source: [Details](/en/licenses#uebung070))
-:::
-
----
+:::---
 
 ## Translations into Sanskrit
 
@@ -109,13 +105,11 @@ In which city were you born?
 १०. **कथं शत्रुं तरसि ॥ १० ॥**
 How do you save yourself (cross the river) from the enemy?
 
-::: media
+:::media
 ![](/images/uebung071.jpg)
 Fig.: कदा काश्यामवर्तथाः
 (Image source: [Details](/en/licenses#uebung071))
-:::
-
----
+:::---
 
 ## Conversation (संवादः)
 

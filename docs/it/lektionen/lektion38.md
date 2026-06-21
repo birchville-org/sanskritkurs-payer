@@ -13,37 +13,31 @@ status: stable
 
 मनुस्मृति ४.३२ riguardo alla corretta minzione:
 
-::: indent
+:::indent
 प्रत्य***ग्नि*** प्रतिसूर्यं च  
 प्रतिसोमोदकद्विजम् ।  
 प्रति***गु*** प्रतिवातं च  
 प्रज्ञा नश्यति मेहतः ॥
-:::
-
-Spiegazioni:
+:::Spiegazioni:
 
 \-अग्नि Neutro Nominativo/Accusativo singolare di अग्नि m.
 
 \-गु Neutro Nominativo/Accusativo singolare di गो m.f. "bue, vacca"
 
-::: media
+:::media
 ![](/images/lekt3801.webp)
 Fig.: प्रज्ञा नश्यति मेहतः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3801))
-:::
+:::## 38.2. Mutamento fonetico delle nasali nella parola
 
-## 38.2. Mutamento fonetico delle nasali nella parola
-
-::: grammar-box
+:::grammar-box
 Le nasali nella parola vengono assimilate alla consonante seguente, cioè vengono sostituite dalla nasale corrispondente a tale consonante.
 
 Dopo c- e j-, -n- viene sostituito da -ñ-.
-:::
-
-## 38.3. Declinazione dei temi in -n
+:::## 38.3. Declinazione dei temi in -n
 
 ### 38.3.1. Nomi in -an nonché nomi in -man o -van dopo vocale
-::: grammar-box
+:::grammar-box
 I nomi in **-an** nonché i nomi **-man** o **-van** dopo vocale hanno tre stemmi:
 
 | Stemma | -an | -man | -van | Uso |
@@ -53,9 +47,7 @@ I nomi in **-an** nonché i nomi **-man** o **-van** dopo vocale hanno tre stemm
 | **Stemma più debole** | **-n** | **-mn** | **-vn** | Casi restanti con desinenza iniziante per vocale |
 
 **Le desinenze sono regolari. Il Nominativo Singolare m. f. si forma senza -n finale.**
-:::
-
-Esempi:
+:::Esempi:
 
 राजन् m. "Re"
 
@@ -74,7 +66,7 @@ Esempi:
 *   stemma forte: नामान्
 *   stemma intermedio: नाम
 *   stemma più debole: नाम्न्
-:::: grammar-box
+::::grammar-box
 
 | | **राजन्** | **सीमन्** | **नामन्** |
 | :--- | :---: | :---: | :---: |
@@ -95,26 +87,20 @@ Esempi:
 | **षष्ठी** | **राज्ञाम्** | **सीम्नाम्** | **नाम्नाम्** |
 | **सप्तमी** | **राजसु** | **सीमसु** | **नामसु** |
 
-::::
-
-::: media
+:::::::media
 ![](/images/lekt3803.webp)
 Fig.: सीमा
 (Fonte immagine: [Dettagli](/it/licenses#lekt3803))
-:::
+:::### 38.3.2. Nomi in -man o -van dopo consonante
 
-### 38.3.2. Nomi in -man o -van dopo consonante
-
-::: grammar-box
+:::grammar-box
 *   Starker Stamm: -mān, -vān
 *   Radice debole:
     *   davanti a desinenze con iniziale consonantica: -ma, -va (da -\*mn, -\*vn)
     *   davanti a desinenze con iniziale vocalica: ***\-man, -van***
 
 Altrimenti formazione come sotto 3.1.
-:::
-
-Esempi:
+:::Esempi:
 
 आत्मन् n. "Anima"
 
@@ -129,7 +115,7 @@ Esempi:
 *   radice debole:
     *   davanti a consonante: ब्रह्म
     *   davanti a vocale: ब्रह्मन्
-:::: grammar-box
+::::grammar-box
 
 | | **आत्मन्** | **ब्रह्मन्** |
 | :--- | :---: | :---: |
@@ -150,23 +136,19 @@ Esempi:
 | **षष्ठी** | **आत्मनाम्** | **ब्रह्मणाम्** |
 | **सप्तमी** | **आत्मसु** | **ब्रह्मसु** |
 
-::::
+::::### 38.3.3. Maschili e neutri in -in, -min, -vin
 
-### 38.3.3. Maschili e neutri in -in, -min, -vin
-
-::: grammar-box
+:::grammar-box
 Questi nomi non hanno ***nessuna*** ablaut.
 
 Il Nom.sg.m. e il Nom.Akk.pl.n. sono formati per analogia con le radici in -an (allungamento del -i-), così come la radice in ***\-i-*** prima di una desinenza consonantica.
 
 Il femminile si forma con il suffisso -ī: ad es. बलिनी
-:::
-
-Esempio:
+:::Esempio:
 
 बलिन् m.n. "forte, robusto (contrassegnato da uno speciale बल, बल possidente)"
 
-:::: grammar-box
+::::grammar-box
 
 | | **पुंस्** | **नपुंसकम्** |
 | :--- | :---: | :---: |
@@ -187,144 +169,105 @@ Esempio:
 | **षष्ठी** | **बलिनाम्**||
 | **सप्तमी** | **बलिषु**||
 
-::::
+::::## 38.4. Sulla formazione nominale: suffisso तद्धित -in
 
-## 38.4. Sulla formazione nominale: suffisso तद्धित -in
-
-::: grammar-box
+:::grammar-box
 Con il suffisso (molto importante!) तद्धित **-in** si formano aggettivi da sostantivi con il significato di:
 
 **contrassegnato da, possidente**
 
 Originariamente, la formazione con il suffisso **-इन्** differiva da quella con **-मन्त्/-वन्त्** nel fatto che **-इन्** indicava la contrassegnazione da qualcosa di speciale, mentre **-मन्त्/-वन्त्** esprimeva il possesso di, la contrassegnazione da qualcosa di solito, comune.
-:::
-
-Esempio:
+:::Esempio:
 
 हस्तिन् m.: colui che è contrassegnato da una mano speciale = l'elefante (la sua mano non è una mano comune, ma una proboscide)
 
-::: media
+:::media
 ![](/images/lekt3806.webp)
 Fig.: हस्ती
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3806))
-:::
+:::हस्तवन्त् : uno che ha (mani umane)
 
-हस्तवन्त् : uno che ha (mani umane)
-
-::: media
+:::media
 ![](/images/lekt3807.webp)
 Fig.: हस्तवान्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3807))
-:::
-
-::: grammar-box
+::::::grammar-box
 Gli aggettivi in **-इन्** sono volentieri formati in composti.
-:::
-
-Esempio:
+:::Esempio:
 
 सत्यवादिन् da सत्यवाद m. "parlare della verità": "qualcuno che è contrassegnato dal parlare della verità = uno che dice sempre la verità"
 
 ## 38.5. Sintassi di नामन्
 
-::: grammar-box
+:::grammar-box
 Per esprimere "qualcuno di nome N. N.", si costruisce:
 
 **N.N. (in nominativo) नाम**
 
 Letteralmente: "il nome è/era N.N.". Si tratta quindi di una proposizione nominale intercalata.
-:::
+:::Esempio:
 
-Esempio:
-
-::: indent
+:::indent
 आसीद्राजा नलो नाम वीरसेनसुतो बली । "C'era una volta un re ***di nome Nala***, il forte figlio di Vīrasena."
-:::
+:::Naturalmente si può esprimere lo stesso concetto con un बहुव्रीहि:
 
-Naturalmente si può esprimere lo stesso concetto con un बहुव्रीहि:
-
-::: indent
+:::indent
 देवदत्तनामा पुरुषः "un uomo, il cui nome è Devadatta"
 
 मदयन्तिकानाम्नी बाला "una ragazza, il cui nome è Madayantika"
-:::
-
-::: media
+::::::media
 ![](/images/lekt3808.jpg)
 Fig.: आसीन्महात्मा गन्धी नाम
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3808))
-:::
+:::## 38.6. Sintassi di आत्मन्
 
-## 38.6. Sintassi di आत्मन्
-
-::: grammar-box
+:::grammar-box
 **आत्मन्** ***maschile*** può essere usato al ***singolare*** come pronome riflessivo (pronome riflessivo) per tutti e tre i generi, i numeri (anche duale e plurale) e le persone.
-:::
+:::Esempi:
 
-Esempi:
-
-::: indent
+:::indent
 आत्मन्येषा दोषं न पश्यति । "Non vede alcun errore in sé stessa"
 
 आत्मानं स्तुवन्ति । "Si lodano da sé"
-:::
-
-::: grammar-box
+::::::grammar-box
 Il genitivo (षष्ठी) **आत्मनस्** può quindi stare per "mio/tuo/suo/... proprio"
-:::
+:::Esempio:
 
-Esempio:
-
-::: indent
+:::indent
 आत्मनो गृहं प्रविशति । "Entra nella propria casa."
-:::
+:::## 38.7. Temi consonantici come primi membri di composti
 
-## 38.7. Temi consonantici come primi membri di composti
-
-::: grammar-box
+:::grammar-box
 I temi che terminano con una consonante compaiono come primo membro di un composto nella forma (debole) del tema che assumono prima della desinenza -su del locativo (सप्तमी) plurale.
-:::
+:::Esempio:
 
-Esempio:
-
-::: indent
+:::indent
 ***राज***पुत्र "figlio del re"
-:::
+:::## 38.8. Temi in -an come componente finale di un बहुव्रीहि
 
-## 38.8. Temi in -an come componente finale di un बहुव्रीहि
-
-::: grammar-box
+:::grammar-box
 Come componente finale di un बहुव्रीहि, un tema in -an può essere utilizzato per tutti e tre i generi. Di solito, tuttavia, il femminile è formato con il suffisso -ī a partire dallo stemma maschile debole.
-:::
+:::Esempio:
 
-Esempio:
-
-::: indent
+:::indent
 दुर्णाम्नी "una, il cui nome è malefico; demone della malattia"
-:::
-
-## 38.9. Elenco di parole
+:::## 38.9. Elenco di parole
 
 सूर्य m.: Sole, dio del sole Sūrya
 
-::: media
+:::media
 ![](/images/lekt3802.webp)
 Fig.: सूर्यः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3802))
-:::
- 
+:::उदक n.: Acqua
 
-उदक n.: Acqua
-
-::: media
+:::media
 ![](/images/lekt3805.webp)
 Fig.: उदकम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3805))
-:::
+:::वा 2P वाति : soffiare, gonfiare
 
-वा 2P वाति : soffiare, gonfiare
-
-::: indent
+:::indent
 Fut. वास्यति
 Perf. IV ववौ
 Pass. वायते
@@ -335,27 +278,21 @@ Inf. वातुम्
 da ciò:
 
 वात m.: Vento
-:::
+:::वा + निस् 2P निर्वाति : soffiare, disperare, spegnersi
 
-वा + निस् 2P निर्वाति : soffiare, disperare, spegnersi
-
-::: indent
+:::indent
 da ciò:
 
 निर्वाण n.: Spegnimento, Nirvāṇa
 
 परिनिर्वाण n.: Spegnimento perfetto, liberazione perfetta (alla fine della vita di un Buddha o di un Arhat)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3804.webp)
 Fig.: गौतमबुद्धस्य महापरिनिर्वाणम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3804))
-:::
+:::मिह् 1P मेहति : urinare, pisciare, eiaculare
 
-मिह् 1P मेहति : urinare, pisciare, eiaculare
-
-::: indent
+:::indent
 Fut. मेक्ष्यति
 Perf. II मिमेह, मिमिहुर्
 Pass. मिह्यते
@@ -365,13 +302,11 @@ PPP मीढ
 da ciò:
 
 मेघ m.: Nuvola ("colui che urina")
-:::
-
-सुत m.: Figlio
+:::सुत m.: Figlio
 
 राजन् m.: Re (per il regno in India vedi Basham, Meraviglie pagg. 82 -94). Come componente finale di un composto (soprattutto तत्पुरुष) di solito: -राज m. (come देव)
 
-::: indent
+:::indent
 Femminile:
 
 राज्ञी f.: Regina, moglie di un re
@@ -379,9 +314,7 @@ Femminile:
 da राज :
 
 राज्य 3: regio; n. Regno, reame, dominio
-:::
-
-नामन् n.: Nome
+:::नामन् n.: Nome
 
 सीमन् f.: Confine
 
@@ -391,31 +324,25 @@ da राज :
 
 ब्रह्मन् m.: il dio creatore personale Brahmā
 
-::: media
+:::media
 ![](/images/lekt3809.webp)
 Fig.: ब्रह्मा
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3809))
-:::
+:::कर्मन् n. a कृ 8U: azione, fatto, opera; opera sacra, azione sacrificale; Karma: l'azione precedente che più tardi ne porta i frutti (ad esempio nella rinascita) 
 
-कर्मन् n. a कृ 8U: azione, fatto, opera; opera sacra, azione sacrificale; Karma: l'azione precedente che più tardi ne porta i frutti (ad esempio nella rinascita) 
-
-::: indent
+:::indent
 कर्मविपाक m.: Maturazione delle azioni = le conseguenze buone e cattive delle azioni nelle esistenze precedenti (a वि-पच्)
-:::
-
-हस्तिन् m.: Elefante (_Elephas maximus_)
+:::हस्तिन् m.: Elefante (_Elephas maximus_)
 
 मनु m.: Uomo, uomo; nome del padre della specie umana (a मन् 4Ā)
 
-::: indent
+:::indent
 da ciò:
 
 मनुष्य m.: Uomo
-:::
+:::शुच् 1P शोचति : (fiammeggiare, brillare); piangere, compiangere
 
-शुच् 1P शोचति : (fiammeggiare, brillare); piangere, compiangere
-
-::: indent
+:::indent
 Perf. II शुशोच, शुशुचुर्
 Fut. शोचिष्यति
 Pass. शुच्यते
@@ -430,21 +357,15 @@ da ciò:
 शोक m.: Dolore, afflizione
 
 अशोक 3: libero da dolore; albero Ashoka = _Saraca asoca_ (Roxb.) Wilde; nome dell'imperatore Aśoka (देवानांप्रिय प्रियदर्शी) (ca. 304   232 a.C.)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3810.webp)
 Fig.: अशोकवृक्षः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3810))
-:::
-
-::: media
+::::::media
 ![](/images/lekt3811.webp)
 Fig.: अशोकसाम्राज्यम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3811))
-:::
-
-## 38.10. Esercizio
+:::## 38.10. Esercizio
 
 A) Inserite nelle seguenti frasi la forma corrispondente delle parole tra parentesi e traducete:
 
@@ -484,87 +405,71 @@ A) Inserite nelle seguenti frasi la forma corrispondente delle parole tra parent
 
 विनोद m.: passatempo, intrattenimento, piacere
 
-::: media
+:::media
 ![](/images/lekt3812.webp)
 Fig.: विनोदः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3812))
-:::
+:::अट् 1P अटति : vagare
 
-अट् 1P अटति : vagare
-
-::: indent
+:::indent
 Perf. I आट, आटुः
 Fut. अटिष्यति
 Caus. आटयति
-:::
-
-गाध 3: poco profondo
+:::गाध 3: poco profondo
 
 तॄ 1P तरति : attraversare, salvarsi da (Acc.)
 
-::: indent
+:::indent
 Perf. IIIb ततार, तेरुः
 Fut. तरिष्यति । तरीष्यति
 Pass. तीर्यते
 Caus. टारयति
 PPP तीर्ण
 Inf. तरितुम् । तरीतुम्
-:::
-
-पार n.(m.): sponda oltre, confine, obiettivo
+:::पार n.(m.): sponda oltre, confine, obiettivo
 
 तीर n.: sponda
 
-::: media
+:::media
 ![](/images/lekt3813.webp)
 Fig.: वाराणस्यां गङ्गातीरे
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3813))
-:::
-
-एकैकशस् Avv.: ciascuno singolarmente
+:::एकैकशस् Avv.: ciascuno singolarmente
 
 गण् 10P गणयति : contare
 
-::: indent
+:::indent
 Perf. गणयां चकार
 Fut. गणयिष्यति
 Pass. गण्यते
 PPP गणित
 Assol. -गणय्य
 Inf. गणयितुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3814.webp)
 Fig.: गणयां चक्रुः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3814))
-:::
+:::क्रुश् 1P क्रोशति : gridare, lamentarsi
 
-क्रुश् 1P क्रोशति : gridare, lamentarsi
-
-::: indent
+:::indent
 Perf. II चुक्रोश
 Fut. क्रोक्ष्यति
 Pass. क्रुश्यते
 Caus. क्रोशयति
 PPP क्रुष्ट
-:::
-
-इदानीम् Avv.: ora
+:::इदानीम् Avv.: ora
 
 नूनम् Avv.: ora; dunque, perciò; certo, sicuramente
 
 मज्ज् 6P मज्जति : affondare, immergersi
 
-::: indent
+:::indent
 PPP ममज्ज
 Fut. मङ्क्ष्यति
 Caus. मज्जयति
 PPP मग्न
 Assol. मङ्क्त्वा । मक्त्वा
-:::
-
-गवेषयति Denominativo: cercare
+:::गवेषयति Denominativo: cercare
 
 व्याकुल 3: turbato, agitato, confuso
 
@@ -574,26 +479,22 @@ Assol. मङ्क्त्वा । मक्त्वा
 
 हस् 1P हसति : ridere
 
-::: indent
+:::indent
 Perf. Vc जहास, जहसुर्
 Fut. हसिष्यति
 Pass. हस्यते
 Caus. हासयति
 PPP हसित
-:::
+:::सृ 1P सरति : correre
 
-सृ 1P सरति : correre
-
-::: indent
+:::indent
 Perf. ससार, सस्रुर्
 Fut. सरिष्यति
 Pass. स्रियते
 Caus. सारयति
 PPP सृत
 Inf. सर्तुम्
-:::
-
-कर्णयति Denominativo: ascoltare (a कर्ण m. "orecchio")
+:::कर्णयति Denominativo: ascoltare (a कर्ण m. "orecchio")
 
 लज्जा f.: vergogna
 
@@ -635,7 +536,7 @@ Spiegazioni:
 
 युष्माकम् Gen.pl. per यूयम्
 
-::: deleteme-box
+:::deleteme-box
 
 - **lekt3801.jpg**: Imm.: ... प्रज्ञा नश्यति मेहतः Bangalore = ಬೆಂಗಳೂರು \[Fonte dell'immagine: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Accesso il 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale)\]
 - **lekt3802.jpg**: Imm.: सूर्यः  सूर्य मंदिर, Konark = कोनार्क \[Fonte dell'immagine: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Accesso il 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale)\]

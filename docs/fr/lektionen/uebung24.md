@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formez le datif singulier et le datif (respectivement ablatif) pluriel et indiquez la signification de la base nominale :
 
-::: grammar-box
+:::grammar-box
 | Mot | Signification | Datif Sg. | Datif Pl. |
 | :--- | :--- | :--- | :--- |
 | १. **श्रव** | Ouïe | श्रवणाय | श्रवणेभ्यः |
@@ -42,9 +42,7 @@ A) Formez le datif singulier et le datif (respectivement ablatif) pluriel et ind
 | २७. **पूजा** | Vénération | पूजायै | पूजाभ्यः |
 | २८. **दासी** | Servante | दास्यै | दासीभ्यः |
 | २९. **गुरु** | Maître | गुरवे (m) / गुर्व्यै (f) | गुरुभ्यः / गुर्वीभ्यः |
-:::
-
-B) Traduisez et résolvez les composés en sanskrit :
+:::B) Traduisez et résolvez les composés en sanskrit :
 
 १. **ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विशati ॥१॥**
 (देवस्य प्रतिमाया दर्शनाय । गर्भ एव गृहम्)
@@ -80,13 +78,11 @@ Les dieux se fâchent contre ces brāhmaṇas qui ne leur rendaient pas de vén�
 ९. **मरणाय जना जायन्ते ॥९॥**
 Pour mourir, les êtres vivants naissent.
 
-::: media
+:::media
 ![](/images/uebung037.webp)
 Fig. : मरणाय जना जायन्ते
 (Source de l'image : [Détails](/fr/licenses#uebung037))
-:::
-
----
+:::---
 
 ## Variations syntaxiques
 
@@ -155,7 +151,7 @@ E) Remplacez dans la phrase B) 6 le datif par une construction avec **-अर्
 15\. Au revoir ! (Neu-sanskrit)
 **पुनर्दर्शनाय ॥**
 
-::: media
+:::media
 ![](/images/uebung038.webp)
 Fig. : इदं फलं अलं खादनाय
 (Source de l'image : [Détails](/fr/licenses#uebung038))

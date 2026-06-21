@@ -101,7 +101,7 @@ Has the Śūdra perhaps borne the burden?
 
 C) Determine and translate the following compounds:
 
-::: grammar-box
+:::grammar-box
 | Compound | Meaning | Explanation |
 | :--- | :--- | :--- |
 | **अतिमात्रम्** | excessively | मात्रामतीत्य (beyond measure) |
@@ -119,15 +119,11 @@ C) Determine and translate the following compounds:
 | **आमरणम्** | until death | आ मरणात् (until dying) |
 | **उपवृक्षम्** | at the tree | वृक्षस्य समीपे (near the tree) |
 | **यथास्थानम्** | in the right place | स्थानमनतिक्रम्य (not exceeding the place) |
-:::
-
-::: media
+::::::media
 ![](/images/uebung062.webp)
 Fig.: पुत्रे जात आर्यः सुखमाप्नोति
 (Image source: [Details](/en/licenses#uebung062))
-:::
-
----
+:::---
 
 ## Narrative Perfect (The Story of the Old Man)
 

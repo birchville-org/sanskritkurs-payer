@@ -9,15 +9,13 @@ status: stable
 
 # Leçon 5
 
-::: deleteme-box
+:::deleteme-box
 **Dans cette leçon, vous apprendrez :**
 - Les fondamentaux des composés nominaux (samāsa)
 - La terminologie technique des composés
 - Les composés copulatifs (Dvandva)
 - L'ordre des membres dans les Dvandvas
-:::
-
-## 5.1. Les composés nominaux (samāsa m. = समास)
+:::## 5.1. Les composés nominaux (samāsa m. = समास)
 
 La formation de composés de mots dans une très grande ampleur est une caractéristique du sanskrit.
 
@@ -45,7 +43,7 @@ Les formes de composition les plus importantes sont :
 
 Les composés copulatifs servent à relier des membres grammaticalement similaires, coordonnés (noms ou adjectifs).
 
-::: grammar-box
+:::grammar-box
 **Un Dvandva désigne :**
 
 1. **soit la connexion sommative des personnes, choses, propriétés désignées par ses membres individuels :**
@@ -62,9 +60,7 @@ Le Dvandva est généralement un neutre (indépendamment du genre du dernier mem
 
 **La résolution :**
 Se fait avec « et » (**ca** = च), parfois avec « ou » (**vā** = वा) ou « chacun ».
-:::
-
-Voir plus loin pour les Dvandva duels !
+:::Voir plus loin pour les Dvandva duels !
 
 ### 5.3.1. Avant-composés de composés
 
@@ -106,13 +102,11 @@ Lorsque deux des trois dernières prescriptions peuvent simultanément s'appliqu
 
 **kāma** m. = काम : désir, appétit, don souhaité, plaisir des sens, amour ; dieu de l'amour Kāma.
 
-::: media
+:::media
 ![](/images/lekt0501.webp)
 Fig. : Dieu Kāma = kāmadeva = कामदेव, XVIIIe siècle.
 (Source de l'image : Wikipedia, domaine public)
-:::
-
-**krodha** m. = क्रोध : colère.
+:::**krodha** m. = क्रोध : colère.
 
 **kleśa** m. = क्लेश : tourment, fléau.
 

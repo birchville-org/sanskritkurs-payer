@@ -11,16 +11,14 @@ status: stable
 
 ## 58.1. The Primary Endings of the Dual (द्विवचनम्)
 
-::: grammar-box
+:::grammar-box
 |   | **परस्मैपदम्** | **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
 |   |   | thematic | athematic |
 | **1. तृतीयः** | -vas | -vahe ||
 | **2. मध्यमः** | -thas | -***ī***the | -***ā***the |
 | **3. प्रथमः** | -tas | -***ī***te | -***ā***te |
-:::
-
-## 58.2. The Dual of the Thematic Present Classes: Indicative Present (लट्)
+:::## 58.2. The Dual of the Thematic Present Classes: Indicative Present (लट्)
 
 Before -vas and -vahe, the thematic vowel -a- is replaced by -ā-.
 
@@ -44,186 +42,150 @@ Before -vas and -vahe, the thematic vowel -a- is replaced by -ā-.
 | **2. मध्यमः** | नृत्यथस् | नृत्येथे |
 | **3. प्रथमः** | नृत्यतस् | नृत्येते् |
 
-::: media
+:::media
 ![](/images/lekt5802.webp)
 Fig.: नृत्यतः
 ओडिसी
 (Image source: [Details](/en/licenses#lekt5802))
-:::
-
-### 58.2.3. Sixth Present Class (तुदादिगणः)
+:::### 58.2.3. Sixth Present Class (तुदादिगणः)
 
 तुद् 6U "push, strike"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1. तृतीयः | तुदावस् | तुदावहे |
 | 2. मध्यमः | तुदथस् | तुदेथे |
 | 3. प्रथमः | तुदतस् | तुदेते |
-:::
-
-### 58.2.4. Tenth Present Class (चुरादिगणः) and Causatives (णिजन्त)
+:::### 58.2.4. Tenth Present Class (चुरादिगणः) and Causatives (णिजन्त)
 
 चुर् 10U "steal"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | चोरयावस् | चोरयावहे |
 | 2\. मध्यमः | चोरयथस् | चोरयेथे |
 | 3\. प्रथमः | चोरयतस् | चोरयेते |
-:::
-
-::: media
+::::::media
 ![](/images/lekt5803.webp)
 Fig.: वानरौ रथाद्भाण्डानि चोरयतः
 Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 (Image source: [Details](/en/licenses#lekt5803))
-:::
-
-## 58.3. The Dual of the Simple Future (ऌत्)
+:::## 58.3. The Dual of the Simple Future (ऌत्)
 
 ### 58.3.1. अनिट्
 
 दा 3U "give"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1. तृतीयः | दास्यावस् | दास्यावहे |
 | 2. मध्यमः | दास्यथस् | दास्येथे |
 | 3. प्रथमः | दास्यतस् | दास्येते |
-:::
-
-### 58.3.2. सेट्
+:::### 58.3.2. सेट्
 
 भू 1P "to become, to be"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1. तृतीयः | भविष्यावस् | भविष्यावहे |
 | 2. मध्यमः | भविष्यथस् | भविष्येथे |
 | 3. प्रथमः | भविष्यतस् | भविष्येते |
-:::
-
-## 58.4. The Dual Passive (Suffix -यक्)
+:::## 58.4. The Dual Passive (Suffix -यक्)
 
 तुद् 6U "to push, to strike"
 
-::: grammar-box
+:::grammar-box
 | 1\. तृतीयः | तुद्यवाहे |
 | --- | --- |
 | 2\. मध्यमः | तुद्येथे |
 | 3\. प्रथमः | तुद्येते |
-:::
-
-## 58.5. The Dual of athematic present classes: Indicative Present (लट्)
+:::## 58.5. The Dual of athematic present classes: Indicative Present (लट्)
 
 ### 58.5.1. Second Present Class (अदादिगणः)
 
 द्विष् 2U "to hate"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | द्विष्वस् | द्विष्वहे |
 | 2\. मध्यमः | द्विष्ठस् | द्विषाथे |
 | 3\. प्रथमः | द्विष्टस् | द्विषाते |
-:::
+:::दुह् 2U "to milk"
 
-दुह् 2U "to milk"
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | दुह्वस् | दुह्वहे |
 | 2\. मध्यमः | ***दुग्धस्*** | दुहाथे |
 | 3\. प्रथमः | ***दुग्धस्*** | दुहाते |
-:::
+:::इ 2P "to go"
 
-इ 2P "to go"
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | इवस् |
 | 2\. मध्यमः | इथस् |
 | 3\. प्रथमः | इतस् |
-:::
-
-::: media
+::::::media
 ![](/images/lekt5806.webp)
 Fig.: उष्ट्रौ मरावितः
 (Image source: [Details](/en/licenses#lekt5806))
-:::
-इ + अधि 2Ā "to study"
+:::इ + अधि 2Ā "to study"
 
-::: grammar-box
+:::grammar-box
 |   | आत्मनेपदम् |
 | --- | --- |
 | 1\. तृतीयः | अधीवहे |
 | 2\. मध्यमः | अधी***या***थे |
 | 3\. प्रथमः | अधी***य***ते |
-:::
-
-::: media
+::::::media
 ![](/images/lekt5804.webp)
 Fig.: कन्ये अधीयते
 (Image source: [Details](/en/licenses#lekt5804))
-:::
+:::हन् 2P "to strike down"
 
-
-हन् 2P "to strike down"
-
-::: grammar-box
+:::grammar-box
 |   | **परस्मैपदम्** |
 | :--- | :---: |
 | **1. तृतीयः** | हन्वस् |
 | **2. मध्यमः** | ***हथस्***[[br]]*hn-thas |
 | **3. प्रथमः** | ***हतस्*** |
-:::
+:::अस् 2P "to be"
 
-अस् 2P "to be"
-
-::: grammar-box
+:::grammar-box
 |   | **परस्मैपदम्** |
 | :--- | :---: |
 | **1. तृतीयः** | ***स्वस्***[[br]]s-vas |
 | **2. मध्यमः** | ***स्थस्*** |
 | **3. प्रथमः** | ***स्तस्*** |
-:::
-
-::: media
+::::::media
 ![](/images/lekt5805.webp)
 Fig.: भगिन्यौ स्वः
 (Image source: [Details](/en/licenses#lekt5805))
-:::
-
-### 58.5.2. Third Present Class (जुहोत्यादिगणः)
+:::### 58.5.2. Third Present Class (जुहोत्यादिगणः)
 
 हु 3P "to pour into the sacrificial fire"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | जुहुवस् | &lt;जुहुवहे&gt; |
 | 2\. मध्यमः | जुहुथस् | &lt;जुह्वाथे&gt; |
 | 3\. प्रथमः | जुहुतस् | &lt;जुह्वाते&gt; |
-:::
+:::धा 3U "to place, put, set"
 
-धा 3U "to place, put, set"
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | दध्वस् | दध्वहे |
 | 2\. मध्यमः | धत्थस् | दधाथे |
 | 3\. प्रथमः | धत्तस् | दधाते |
-:::
-
-### 58.5.3. Fifth Present Class (स्वादिगणः)
+:::### 58.5.3. Fifth Present Class (स्वादिगणः)
 
 सु 5U "to press out"
 
@@ -233,58 +195,48 @@ Fig.: भगिन्यौ स्वः
 | **2. मध्यमः** | सुनुथस् | सुन्वाथे |
 | **3. प्रथमः** | सुनुतस् | सुन्वाते |
 
-::: media
+:::media
 ![](/images/lekt5807.webp)
 Fig.: शर्कराम्बु सुनुतः
 पुणेनगरे
 (Image source: [Details](/en/licenses#lekt5807))
-:::
-
-### 58.5.4. Eighth Present Class (तनादिगणः)
+:::### 58.5.4. Eighth Present Class (तनादिगणः)
 
 तन् 8U "to stretch, to span"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | तनुवस् / तन्वस् | तनुवहे / तन्वहे |
 | 2\. मध्यमः | तनुथस् | तन्वाथे |
 | 3\. प्रथमः | तनुतस् | तन्वाते |
-:::
+:::कृ 8U "to do, to make"
 
-कृ 8U "to do, to make"
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | कुर्वस् | कुर्वहे |
 | 2\. मध्यमः | कुरुथस् | कुर्वाथे |
 | 3\. प्रथमः | कुरुतस् | कुर्वाते |
-:::
-
-### 58.5.5. Seventh Present Class (रुधादिगणः)
+:::### 58.5.5. Seventh Present Class (रुधादिगणः)
 
 रुध् 7U "to stop"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1. तृतीयः | रुन्ध्वस् | रुन्ध्वहे |
 | 2. मध्यमः | ***रुन्द्धस्*** | रुन्धाथे |
 | 3. प्रथमः | रुन्द्धस् | रुन्धाते |
-:::
+:::युज् 7U "to harness"
 
-युज् 7U "to harness"
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1. तृतीयः | युञ्ज्वस् | युञ्ज्वहे |
 | 2. मध्यमः | युङ्क्थस् | युञ्जाथे |
 | 3. प्रथमः | युङ्क्तस् | युञ्जाते |
-:::
-
-### 58.5.6. Ninth Present Class (क्र्यादिगणः)
+:::### 58.5.6. Ninth Present Class (क्र्यादिगणः)
 
 क्री 9U "buy"
 
@@ -294,15 +246,13 @@ Fig.: शर्कराम्बु सुनुतः
 | **2. मध्यमः** | क्रीणीथस् | क्रीणाथे[[br]]krī-ṇ-āthe |
 | **3. प्रथमः** | क्रीणीतस् | क्रीणाते |
 
-::: media
+:::media
 ![](/images/lekt5801.webp)
 Fig.: स्त्रियौ शाकं क्रीणाते
 (Image source: [Details](/en/licenses#lekt5801))
-:::
+:::## 58.6. Aorist 5: iṣ-Aorist
 
-## 58.6. Aorist 5: iṣ-Aorist
-
-::: grammar-box
+:::grammar-box
 **The iṣ-Aorist is formed by all seṭ-roots for which no other form of the Aorist is explicitly taught as the exclusive form.**
 
 **Formation:**
@@ -310,11 +260,9 @@ Fig.: स्त्रियौ शाकं क्रीणाते
 **Augment + Root + i + s + athematic secondary ending**
 
 ***!!!*** The 2.sg.P and 3.sg.P derive from ***-***īs and -īt respectively from ***!!!*** (This arose from the transfer of the Imperfect from roots of the type अब्रवीत्; thus they are actually root-aorist forms).
-:::
+:::Stem-forming suffix + endings of the iṣ-Aorist are therefore:
 
-Stem-forming suffix + endings of the iṣ-Aorist are therefore:
-
-::: grammar-box
+:::grammar-box
 
 |   | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -323,9 +271,7 @@ Stem-forming suffix + endings of the iṣ-Aorist are therefore:
 | **2. द्वितीयः** | ***-īs*** | **-iṣṭa** | **-iṣṭhās** | ***-***idhvam / [[br]]-iḍhvam[[br]](optionally after -h or semivowel) |
 | **3. प्रथमः** | ***-īt*** | **-iṣur** | **-iṣṭa** | **-iṣata** |
 
-:::
-
-::: grammar-box
+::::::grammar-box
 **Form of the root:**
 
 *   **Roots with short vowel before simple consonant: Strong grade in P and Ā**  
@@ -350,44 +296,36 @@ Stem-forming suffix + endings of the iṣ-Aorist are therefore:
     तन् 8U: 1.sg.P अतनिषम् / अतानिषम्  
     but:  
     क्रम् 1U: 1.sg.P अक्रमिषम्
-:::
-
-Paradigms:
+:::Paradigms:
 
 पू 9U "to cleanse"
 
-::: indent
+:::indent
 |   | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
 |   | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. तृतीयः** | अपाविषम् | पाविष्म | अपविषि | अपविष्महि |
 | **2. द्वितीयः** | अपावीस् | अपाविष्ट | अपविष्ठास् | अपविध्वम् / [[br]]अपविढ्वम् |
 | **3. प्रथमः** | अपावीत् | अपाविषुर् | अपविष्ट | पविषत |
-:::
+:::बुध् 1U "to awaken, to recognize"
 
-बुध् 1U "to awaken, to recognize"
-
-::: indent
+:::indent
 |   | **परस्मैपदम्** ||
 | :--- | :---: | :---: |
 |   | **एकवचनम्** | **बहुवचनम्** |
 | **1. तृतीयः** | अबोधिषम् | अबोधिष्म |
 | **2. द्वितीयः** | अबोधीस् | अबोधिष्ट |
 | **3. प्रथमः** | अबोधीत् | अबोधिषुर् |
-:::
+:::कॢप् 1Ā "to be appropriate"
 
-कॢप् 1Ā "to be appropriate"
-
-::: indent
+:::indent
 |   | **आत्मनेपदम्** ||
 | :--- | :---: | :---: |
 |   | **एकवचनम्** | **बहुवचनम्** |
 | **1. तृतीयः** | अकल्पिषि | अकल्पिष्महि |
 | **2. द्वितीयः** | अकल्पिष्ठास् | अकल्पिध्वम् |
 | **3. प्रथमः** | अकल्पिष्ट | अकल्पिषत |
-:::
-
-::: grammar-box
+::::::grammar-box
 **Particularities:**
 
 1.  In some roots, the connecting vowel -i- in the आत्मनेपद can be replaced by -ī-. After ग्रह् 9U "to seize" this replacement must occur in P and Ā:  
@@ -401,15 +339,11 @@ Paradigms:
 
 4.  विज् 7P has no ablaut:  
     अविजीत्
-:::
-
-::: media
+::::::media
 ![](/images/lekt5808.webp)
 Fig.: दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥
 (Image source: [Details](/en/licenses#lekt5808))
-:::
-
-## 58.7. Exercise
+:::## 58.7. Exercise
 
 A) Identify and translate the following forms without aids, and form the corresponding i-aorist forms:
 
@@ -475,7 +409,7 @@ B) Translate and identify the following forms:
 38.  दद
 39.  अञ्ज्वः
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt5802:** ओडिसी [Image source: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Accessed on 2009-03-02. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
 

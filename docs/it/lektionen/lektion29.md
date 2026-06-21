@@ -12,18 +12,13 @@ status: stable
 ## 29.1. Uso del Parasmaipada (परस्मैपद) e Ātmanepada (आत्मनेपद) nel Causativo
 
 
-::: grammar-box
+:::grammar-box
 **Il Causativo è con poche eccezioni Ubhayapada (उभयपद)**
-:::
-
-
-::: grammar-box
+::::::grammar-box
 **Nel Causativo si usa l'Ātmanepada (आत्मनेपद):**
 
 **1. Quando il frutto dell'azione causata giova al causante:**
-:::
-
-Esempio:
+:::Esempio:
 
 रामः कटं कारयते = "Rāma fa fare un tappetino per sé (per proprio interesse)"
 
@@ -42,13 +37,11 @@ Le regole corrispondono quindi in linea di massima alle regole per l'uso dell'Ā
 
 Prefissi:
 
-::: indent
+:::indent
 उद्° : su, in alto, verso l'alto, fuori, da, da-
 
 परि° : intorno, attorno (luogo, tempo), d'intorno
-:::
-
-भू + परि 1P परिभवति : (diventare intorno a qualcuno = accerchiare =) dominare, sconfiggere; trascurare, disprezzare
+:::भू + परि 1P परिभवति : (diventare intorno a qualcuno = accerchiare =) dominare, sconfiggere; trascurare, disprezzare
 
 अवज्ञान n.: disprezzo
 
@@ -58,28 +51,24 @@ Prefissi:
 
 ग्रस् 1Ā ग्रसते : consumare, divorare
 
-::: indent
+:::indent
 Fut. ग्रसिष्यते  
 Pass. ग्रस्यते  
 Caus. ग्रासयति  
 PPP ग्रस्त  
 Inf. ग्रसितुम्
-:::
-
-तीक्ष्ण 3: "selvaggio", aspro, tagliente, severo, violento, pungente
+:::तीक्ष्ण 3: "selvaggio", aspro, tagliente, severo, violento, pungente
 
 न्याय m.: norma, regola, modo giusto e corretto; metodo, logica (da इ + नि)
 
 परिव्राजक m.: vagabondo, monaco errante, pellegrino
 
-::: media
+:::media
 ![](/images/lekt2903.webp)
 Fig.: परिव्राजकाः
 Pushkar = पुष्कर [Fonte immagine: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accesso 2008-12-20. -- Licenza Creative Commons (Attribuzione, uso non commerciale, condividi allo stesso modo)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2903))
-:::
-
-पालयति : anche sinonimo di  पाति
+:::पालयति : anche sinonimo di  पाति
 
 पुनर् Indec.: di nuovo, sempre di nuovo, indietro, ancora una volta; invece, ma (prima di suoni sonori eccetto r-: पुनर्)
 
@@ -88,41 +77,33 @@ Pushkar = पुष्कर [Fonte immagine: pyjama. -- http://www.flickr.com/p
 मत्स्य m.: pesce
 
 da ciò:
-::: indent
+:::indent
 मात्स्य 3: appartenente al pesce (ai pesci)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2901.webp)
 Fig.: मत्स्यः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2901))
-:::
-
-मृदु  3 (f.: मृद्वी): gentile, mite, morbido; lento, debole
+:::मृदु  3 (f.: मृद्वी): gentile, mite, morbido; lento, debole
 
 यथा Avv.: come, quasi
 
 रम् 1Ā रमते : stare fermo, riposare, dimorare; provare piacere, divertirsi
 
-::: indent
+:::indent
 Fut. रंस्यते  
 Pass. रम्यते  
 Caus. रमयति  
 PPP रत  
 Inf. रन्तुम्
-:::
-
-वानप्रस्थ m.: eremita del bosco (qualcuno che si trova nel 3. आश्रम)
+:::वानप्रस्थ m.: eremita del bosco (qualcuno che si trova nel 3. आश्रम)
 
 शुचि 3: lucente, splendente, fine; m.: purezza
 
 पूज् 10P पूजयति : onorare, venerare
 
-::: indent
+:::indent
 PPP पूजित
-:::
-
-## 29.3. Esercizio di traduzione per il ripasso
+:::## 29.3. Esercizio di traduzione per il ripasso
 
 Tradurre letteralmente in un buon tedesco e imparare a memoria i testi sanscriti:
 
@@ -149,20 +130,16 @@ Spiegazione: आत्मसु = Loc. sg. di आत्मन् m. "anima; l'As
 **बलीयान**अबलं हि ग्रसते दण्डधराभावे ।१४।
 
 स तेन गुप्तः प्रभवतीति ।१५।
-::: indent
+:::indent
 **चतुर्व**र्णाश्रमो लोको  
 **राज्ञा** दण्डेन पालितः ।  
 स्वधर्मकर्माभिरतो  
 वर्तते **स्वेषु वर्त्मसु** ॥१६॥
-:::
-
-::: media
+::::::media
 ![](/images/lekt2902.jpg)
 Fig.: मात्स्यन्याय:
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2902))
-:::
-
-Spiegazioni:
+:::Spiegazioni:
 
 ।८। उद्वेजनीय ३ "qualcosa (qualcuno), davanti al quale si deve rabbrividire"
 
@@ -186,7 +163,7 @@ Spiegazioni:
 
 ## 29.4. Futuro e causativo delle radici finora apprese
 
-::: grammar-box
+:::grammar-box
 
 | Radice[[br]]धातु | Futuro[[br]]ऌत् | Causativo[[br]]कारित |
 | :--- | :--- | :--- |
@@ -275,8 +252,6 @@ Spiegazioni:
 |हन् २ प|हनिष्यति|घातयति|
 |हृ १ उ|हरिष्यति|हारयति|
 
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt2903:** Pushkar = पुष्कर [Fonte immagine: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accesso 2008-12-20. -- Licenza Creative Commons (Attribuzione, uso non commerciale, condividi allo stesso modo)]

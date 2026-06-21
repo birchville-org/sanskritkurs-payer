@@ -22,7 +22,7 @@ The relationship between entities designated by nouns (substantives and adjectiv
 
 तत्पुरुषः = तस्य पुरुषः "his servant," i.e., an example of such a compound serves as the designation for this type of compound.
 
-::: grammar-box
+:::grammar-box
 
 In determinative compounds (*Tatpuruṣa*), a noun (substantive or adjective) is specified by another noun or adverb. The specified word typically forms the final member (padānta) of the compound.
 
@@ -45,17 +45,13 @@ For example:
 
 The gender of a *Tatpuruṣa* is—with few exceptions—that of its final member.
 
-:::
+:::## 15.3. Determinative Compounds with Attributive / Appositional First Member = Karmadhāraya m. = कर्मधारय
 
-## 15.3. Determinative Compounds with Attributive / Appositional First Member = Karmadhāraya m. = कर्मधारय
-
-::: grammar-box
+:::grammar-box
 
 When resolving a Karmadhāraya, both members of the compound stand in the same case.
 
-:::
-
-For example:
+:::For example:
 
 गुणवत्पुत्रः = गुणवान्पुत्रः = “a son with good qualities”  
 Acc. sg. गुणवत्पुत्रम्  
@@ -67,13 +63,11 @@ Nom. pl. गुणवत्पुत्राः
 
 इष्टदेवता = इष्टा देवता = “the desired deity = the deity with whom one has a special relationship of devotion and refuge”
 
-::: media
+:::media
 ![](/images/lekt1501.webp)
 Fig.: लक्ष्मी
 (Image source: [Details](/en/licenses#lekt1501))
-:::
-
-::: grammar-box
+::::::grammar-box
 
 The following special rule applies to the order of members in a Karmadhāraya:
 
@@ -88,23 +82,17 @@ The following special rule applies to the order of members in a Karmadhāraya:
 
     Such appositional Karmadhāraya compounds are resolved in indigenous commentaries, as in the example above, by means of एव.
 
-:::
-
-::: media
+::::::media
 ![](/images/lekt1503.webp)
 Fig.: नरसिंहः
 (Image source: [Details](/en/licenses#lekt1503))
-:::
+:::## 15.4. Determinative Compounds with a First Member in a Non-Attributive/Appositional Case Relation to the Second Member = Tatpuruṣa in the Narrower Sense
 
-## 15.4. Determinative Compounds with a First Member in a Non-Attributive/Appositional Case Relation to the Second Member = Tatpuruṣa in the Narrower Sense
-
-::: grammar-box
+:::grammar-box
 
 Tatpuruṣa compounds are possible for combinations of nouns (nouns and adjectives), in which the first member can stand in any case, according to the rules of syntax. As expected, the first member most frequently represents a genitive (षष्ठी), since this is the case used to express the relationship between nouns.
 
-:::
-
-For example:
+:::For example:
 
 क्षत्रियपुत्रः = क्षत्रियस्य पुत्रः = "the son of a Kṣatriya", "a young Kṣatriya", "a member of the group of Kṣatriyas"  
 Acc. sg. क्षत्रियपुत्रम्  
@@ -121,13 +109,11 @@ Almost any genitive relationship can be replaced by a Tatpuruṣa compound. See,
 
 However, the first member of a Tatpuruṣa can, in principle, represent any case. Nevertheless, not all syntactically possible case relationships can be replaced by a Tatpuruṣa compound. In case of doubt, the relevant rules can be found in Kale, *A Higher Sanskrit Grammar* §§ 203–217, or in Pāṇini 2.1.22–2.2.22.
 
-::: grammar-box
+:::grammar-box
 
 The first member, when the compound is resolved, may appear in the singular, dual, or plural. Which of these possibilities applies must be inferred from meaning and context.
 
-:::
-
-Examples:
+:::Examples:
 
 The first member represents the accusative (द्वितीया): for example, in certain past participles (PPP) derived from verbs of motion (Pāṇini 2.1.24):
 
@@ -143,16 +129,14 @@ It could also be resolved as: देवस्य / देवानां कृ�
 
 ## 15.5. Decomposition of Compounds (excluding Dvandvas)
 
-::: grammar-box
+:::grammar-box
 
 Although Sanskrit allows for the formation of compounds of arbitrary length—and indeed, such formations are very common (compounds consisting of 10 to 30 members are by no means rare)—all compounds, with the exception of Dvandvas, are progressively hierarchical and can be decomposed into two parts at each step:
 
-::: media
+:::media
 ![]/images/lekt1502.jpg
 (Image source: [Details](/en/licenses#lekt1502))
-:::
-
-and so on, until one reaches the individual word stems.
+:::and so on, until one reaches the individual word stems.
 
 For example:
 
@@ -197,11 +181,9 @@ For example:
 > 3. 1. पुण्यवत्  पुत्रेण कृतम् = "the meritorious deed done by my son"
 >    2. पुण्यवत्  पुत्रस्य कृतम् = "the meritorious deed of my son"
 
-:::
+:::## 15.6. The Form of the First Member in Compounds (समास m.)
 
-## 15.6. The Form of the First Member in Compounds (समास m.)
-
-::: grammar-box
+:::grammar-box
 
 In all types of compounds, the first member is generally the uninflected stem. Two-stem nouns appear in the weak stem. Feminine adjectives that further specify a following member in a compound generally appear in the masculine stem:
 
@@ -210,9 +192,7 @@ For example:
 पुण्यवत्क्षत्रिया = पुण्यवती क्षत्रिया = "a Kṣatriya woman who possesses merit"  
 गुणवत्पुत्रः = गुणवान् पुत्रः = "a son with good qualities"
 
-:::
-
-## 15.7. Classification of तत्पुरुष
+:::## 15.7. Classification of तत्पुरुष
 
 1.  **प्रथमातत्पुरुषः** : The first member stands in the nominative (प्रथमा) in the विग्रहवाक्य (analytical sentence).
 2.  **द्वितीयातत्पुरुषः** : The first member stands in the accusative (द्वितीया) in the विग्रहवाक्य (analytical sentence).
@@ -263,22 +243,18 @@ pat “fly, fall” 1 P patati ; Pass. patyate ; PPP patita
 ardha 3: half, m.n. half
 
 pūjā f.: honor, honorable reception, religious worship (Pūjā)
-::: media
+:::media
 ![](/images/lekt1504.webp)
 Fig.: pūjā
 (Image source: [Details](/en/licenses#lekt1504))
-:::
-
-kula n.: herd, multitude, lineage, ancestry, family
+:::kula n.: herd, multitude, lineage, ancestry, family
 
 indra m.: prince, first, best among ; king of gods Indra
-::: media
+:::media
 ![](/images/lekt1505.webp)
 Fig.: indraḥ
 (Image source: [Details](/en/licenses#lekt1505))
-:::
-
-dāsa m.: slave, serf, servant
+:::dāsa m.: slave, serf, servant
 
 dāsī f.: slave woman, serf woman, female servant
 
@@ -294,55 +270,43 @@ stu 2 stauti ; Pass. stūyate ; PPP stuta : praise, extol
 
 from this:
 
-::: indent
+:::indent
 stuti f.: praise, hymn of praise
 
 stotra n.: (means of praise =) hymn of praise, hymn
-:::
-
-siṃha m.: lion (_Panthera leo persica_)
-::: media
+:::siṃha m.: lion (_Panthera leo persica_)
+:::media
 ![](/images/lekt1506.webp)
 Fig.: siṃhaḥ
 (Image source: [Details](/en/licenses#lekt1506))
-:::
-
-vyāghra m.: tiger (_Panthera tigris tigris_) (literally: yawner)
-::: media
+:::vyāghra m.: tiger (_Panthera tigris tigris_) (literally: yawner)
+:::media
 ![](/images/lekt1507.webp)
 Fig.: vyāghraḥ
 (Image source: [Details](/en/licenses#lekt1507))
-:::
-
-iva (postposed): as if, like (in comparisons: vyāghra iva puruṣaḥ = “a man like a tiger,” “a tiger-like man”)
+:::iva (postposed): as if, like (in comparisons: vyāghra iva puruṣaḥ = “a man like a tiger,” “a tiger-like man”)
 
 eva (postposed): emphasizes the preceding word, often corresponding in German to emphasis, a kind of emoticon `<!>`, e.g., satyameva jayati “truth alone triumphs,” “truth specifically triumphs,” “truth triumphs”
 
 ari m.: enemy (according to Thieme, Der Fremdling im Ṛgveda: originally = stranger)
 
-::: indent
+:::indent
 ārya 3: Aryan, noble ; m. Aryan (self-designation of Sanskrit-speaking ancient Indians, literally: hospitable (Thieme)) ; noble person, gentleman
-:::
+:::to jan
 
-to jan
-
-::: indent
+:::indent
 jāti f.: birth, kind, caste (on jāti as caste, see Basham, Wonder, pp. 148ff.)
-:::
-
-mṛ 4 Ā mriyate ; Pass. mriyate ; PPP mṛta : die (according to Indian grammarians: 6 Ā)
+:::mṛ 4 Ā mriyate ; Pass. mriyate ; PPP mṛta : die (according to Indian grammarians: 6 Ā)
 
 from this:
 
-::: indent
+:::indent
 maraṇa n.: dying, death
 
 mṛti f.: dying, death
 
 mṛtyu m.: death ; personified: god of death
-:::
-
-## 15.9. Exercise 1
+:::## 15.9. Exercise 1
 
 Resolve the following Sanskrit compounds as *Tatpuruṣa* and provide a German translation. Provide all resolutions and translations that appear plausible to you. Also indicate the case and number of the entire compound.
 
@@ -530,13 +494,11 @@ Resolve the following *Tatpuruṣa* compounds, as in Exercise 1:
 
 ६०. द्विजातिशुश्रूषया
 
-::: media
+:::media
 ![](/images/lekt1508.webp)
 Fig.: ग्रामदेवता
 (Image source: [Details](/en/licenses#lekt1508))
-:::
-
-## 15.11. Exercise 3
+:::## 15.11. Exercise 3
 
 A) Translate the proverb at the beginning of the lesson
 
@@ -594,13 +556,11 @@ B) Resolve the following Tatpuruṣa compounds:
 
 २६. श्रुत्युदितम्
 
-::: media
+:::media
 ![](/images/lekt1509.webp)
 Fig.: नागदेवाः
 (Image source: [Details](/en/licenses#lekt1509))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 
 - **Fig.: लक्ष्मी** (Lakshmi): Painting by राजा रवि वर्मा (1848–1906). Image source: Wikipedia, Public domain.

@@ -11,27 +11,23 @@ last_reconstructed: 2026-05-16
 
 ## 28.1. Le causatif (णि, णिच्, कारित)
 
-::: grammar-box
+:::grammar-box
 **Si l'on souhaite exprimer que quelqu'un ou quelque chose amène ou cause que quelqu'un d'autre ou quelque chose d'autre fasse ou subisse ce qui est exprimé par une racine (avec ou sans préfixe), on utilise le causatif (णि, णिच्, कारित).**
 
 Exemple :
 गम् "aller" » Causatif : गमयति "il amène quelqu'un à aller ; il envoie"
 दृश् "voir" » Causatif : दर्शयति "il fait voir = il montre"
-:::
-
----
+:::---
 
 ## 28.2. Construction de phrase avec le causatif (णि, णिच्, कारित)
 
-::: grammar-box
+:::grammar-box
 **Schéma 1 :**
 
 **Si la racine sous-jacente au causatif (avec ou sans préfixe verbal) est INTRANSITIVE (c.-à-d. ne peut pas avoir un complément d'objet direct) ou exprime le mouvement, la connaissance, l'information ou la nourriture :**
 
 **Agent (कर्ता) du causatif au nominatif (प्रथमा) — Agent de l'action provoquée à l'accusatif (द्वितीया) — (but du mouvement, objet de la connaissance, etc. à l'accusatif = द्वितीया) — verbe au causatif**
-:::
-
-Exemples :
+:::Exemples :
 
 दुर्जनो रामं मोहयति = « un homme méchant provoque que Rāma est confus = confond Rāma = provoque que Rāma erre »
 Résultat : रामो मुह्यति = « Rāma est confus / aveuglé / erre. »
@@ -48,23 +44,19 @@ Résultat : रामो वेदमधीते « Rāma étudie le Veda »
 रामो देवानामृतमाशयति = « Rāma laisse les dieux manger la nourriture d'immortalité = donne aux dieux de la nourriture d'immortalité à manger » (अश् 9 « manger »)
 Résultat : देवा अमृतमश्नन्ति « Les dieux mangent la nourriture d'immortalité »
 
-::: media
+:::media
 ![](/images/lekt2802.webp)
 Fig. : स नरान्प्रबन्धविज्ञानमध्यापयति
 Temple ISKCON Bangalore.
 (Source de l'image : [Détails](/fr/licenses#lekt2801))
-:::
-
-::: grammar-box
+::::::grammar-box
 **Construit selon le schéma 1, entre autres, la racine दृश् :**
 
 **Exceptions au schéma 1 voir sous schéma 2**
 
 Exemple :
 (स) रामं पुत्रं दर्शयति = « il montre à Rāma le fils »
-:::
-
-Le vers suivant résume des exemples de formation du causatif selon le schéma 1 (les formes verbales sont respectivement la 3e personne de l'imparfait parasmaipada) :
+:::Le vers suivant résume des exemples de formation du causatif selon le schéma 1 (les formes verbales sont respectivement la 3e personne de l'imparfait parasmaipada) :
 
 शत्रूनगमयत्स्वर्गं
 वेदार्थं स्वानवेदयत् ।
@@ -73,31 +65,25 @@ Le vers suivant résume des exemples de formation du causatif selon le schéma 1
 आसयत्सलिलै पृथ्वीं
 यः स मे श्रीहरिगतिः ॥
 
-::: indent
+:::indent
 Ma refuge et mon but est Hari,
 Qui envoya les ennemis au ciel,
 Qui enseigna à ses disciples le sens du Veda,
 Qui nourrit les dieux avec la nourriture d'immortalité,
 Qui enseigna le Veda au créateur,
 Qui plaça la terre dans l'eau.
-:::
-
-::: media
+::::::media
 ![](/images/lekt2801.webp)
 Fig. : स मे श्रीहरिगतिः
 Bâtiment de gestion de l'Université Jadavpur.
 (Source de l'image : [Détails](/fr/licenses#lekt2802))
-:::
-
-::: grammar-box
+::::::grammar-box
 **Schéma 2 :**
 
 **Pour les verbes transitifs (sauf ceux mentionnés sous le schéma 1). Également pour tous les verbes, lorsque ce qui est désigné par le causatif est provoqué (si le causatif est donc un causatif de causatif) :**
 
 **Agent (कर्ता) du causatif au nominatif (प्रथमा) — Agent de l'action provoquée à l'instrumental (तृतीया) — Objet de l'action provoquée dans le cas qu'il aurait après le verbe simple (c.-à-d. généralement à l'accusatif) — verbe au causatif**
-:::
-
-::: indent
+::::::indent
 Exemples :
 (स) रामेण भार्यां त्याजयति = « Il provoque Rāma à quitter sa femme »
 Résultat : रामो भार्यां त्यजति = « Rāma quitte sa femme »
@@ -105,9 +91,7 @@ Résultat : रामो भार्यां त्यजति = « Rāma qui
 विष्णुमित्रो रामेण गोविन्दं गमयति = "Viṣṇumitra incite Rāma à envoyer Govinda = Viṣṇumitra fait partir Govinda par Rāma"
 Résultat : रामो गोविन्दं गमयति = "Rāma fait partir Govinda"
 Résultat de ce résultat : गोविन्दो गच्छति = "Govinda part"
-:::
-
-::: grammar-box
+::::::grammar-box
 **Exceptions au schéma 1 :**
 
 **Suivant le schéma 2 se construisent notamment les verbes suivants :**
@@ -118,9 +102,7 @@ Résultat de ce résultat : गोविन्दो गच्छति = "Govin
 - **स्मृ "rappeler, rendre présent à l'esprit" (il existe des exceptions à ce sujet)**
 - **अद् "manger"**
 - **खाद् "mâcher"**
-:::
-
-Exemples :
+:::Exemples :
 
 रामो भृत्येन भारं नाययति वाहयति वा = "Rāma fait porter ou transporter la charge par le serviteur"
 Résultat : भृत्यो भारं नयति वहति वा = "Le serviteur porte ou transporte la charge"
@@ -131,15 +113,13 @@ Résultat : बालो ऽन्नमत्ति खादति वा = "l
 (स) रामेण स्मारयति = "Il fait en sorte que Rāma se souvienne"
 Résultat : रामः स्मरति = "Rāma se souvient"
 
-::: grammar-box
+:::grammar-box
 **Les causatifs suivants peuvent se construire selon le schéma 1 ou le schéma 2 :**
 
 - **हृ "tenir, apporter"**
 - **कृ "faire, accomplir"**
 - **Causatif Ātmanepadakausatif de दृश्**
-:::
-
-Exemples :
+:::Exemples :
 
 रामो भृत्यं कटं कारयति हारयति वा = "Rāma fait faire ou apporter une natte (कट m.) par le serviteur"
 ou :
@@ -153,13 +133,11 @@ Résultat : बालः प्रतिमां पश्यति = "le garç
 
 Lorsque le causatif est utilisé dans une construction passive, le schéma suivant s'applique presque toujours :
 
-::: grammar-box
+:::grammar-box
 **Schéma A (construction passive) :**
 
 **Agent du causatif au instrumental (तृतीया) — Agent de l'action causée au nominatif (प्रथमा) — Objet de l'action causée dans le cas qu'il aurait selon le verbe simple (c'est-à-dire généralement à l'accusatif) — Verbe au causatif**
-:::
-
-Exemples :
+:::Exemples :
 
 गुरुणा रामो ग्रामं गम्यते = "Le maître envoie Rāma au village"
 Résultat : रामो ग्रामं गच्छति = "Rāma va au village"
@@ -174,17 +152,13 @@ Résultat : भृत्यो भारं हरति = "Le serviteur apporte
 
 ## 28.3. Formation du thème de présent du causatif (णि, णिच्, कारित)
 
-::: grammar-box
+:::grammar-box
 **Le thème de causatif reçoit les terminaisons thématiques du thème de présent**
-:::
+:::Il existe différents types de formation :
 
-Il existe différents types de formation :
-
-::: grammar-box
+:::grammar-box
 **Type de formation 1 : (généralement) grade fort de la racine + -aya-**
-:::
-
-Exemples :
+:::Exemples :
 
 | Racine | Causatif 3. sg. Indicatif présent | Signification |
 | :--- | :--- | :--- |
@@ -193,13 +167,11 @@ Exemples :
 | दृश् | दर्शयति | faire voir = montrer |
 | वृत् | वर्तयति | faire tourner, retourner (transitif), rouler (transitif), mettre en mouvement |
 
-::: grammar-box
+:::grammar-box
 **Type de formation 2 : grade allongé de la racine + -aya-**
 
 **Souvent pour les racines se terminant par une voyelle, et pour les racines où une seule consonne finale suit -a-.**
-:::
-
-Exemples :
+:::Exemples :
 
 | Racine | Causatif 3. sg. Indicatif présent | Signification |
 | :--- | :--- | :--- |
@@ -209,41 +181,35 @@ Exemples :
 | कृ | कारयति[[br]](kār-aya-ti) | faire faire |
 | वच् | वाचयति[[br]](vāc-aya-ti) | faire parler, faire dire, (faire dire un texte =) lire à voix haute |
 
-::: grammar-box
+:::grammar-box
 **Type de formation 3 : grade réduit de la racine + -aya-**
 
 **Se produit.**
-:::
-
-Exemple :
+:::Exemple :
 
 | Racine | Causatif 3. sg. Indicatif présent | Signification |
 | :--- | :--- | :--- |
 | दुष् | दूषयति[[br]](dūṣ-aya-ti) | (corrompre quelqu'un) |
 
-::: grammar-box
+:::grammar-box
 **Type de formation 4 : racine + -paya-**
 
 **Pour les racines se terminant par -ā et quelques autres racines.**
-:::
-
-Exemples :
+:::Exemples :
 
 | Racine | Causatif 3. sg. Indicatif présent | Signification |
 | :--- | :--- | :--- |
 | स्था | स्थापयति[[br]](sthā-paya-ti) | faire se tenir, dresser |
 | इ + अधि[[br]]"étudier" | अध्यापयति[[br]](de : adhi+ā-paya-ti)[[br]](pour l'explication, voir Thumb-Hauschildt Vol. I,2 p. 341) | faire étudier, enseigner |
 
-::: grammar-box
+:::grammar-box
 **Formations irrégulières :**
 
 **Les grammairiens indigènes considèrent les formes suivantes comme des causatifs :**
 
 - **han** : Caus. **ghātayati**¹ "faire abattre, faire tuer"
 - **pā** 2 "garder" : **pālayati**² "faire traverser, sauver, protéger"
-:::
-
-Notes :
+:::Notes :
 1. **ghātayati** est en réalité un verbe dérivé du substantif **ghāta** m. "coup" (dénominal) et est utilisé à la place du causatif de **han**.
 2. **pālayati** est un véritable causatif, mais de la racine **pṛ** 3 "faire traverser, sauver, protéger" : **pārayati** (pār-aya-ti) » **pālayati** (dans certaines régions de l'Inde, un r correspond à un l, et dans d'autres, inversement un l correspond à un r).
 
@@ -251,7 +217,7 @@ Notes :
 
 ## 28.4. Formation du passif (यक्) à partir du causatif
 
-::: grammar-box
+:::grammar-box
 **Le passif du causatif se forme ainsi :**
 
 **Stame causatif SANS -aya- + suffixe passif -ya-**
@@ -259,97 +225,79 @@ Notes :
 Exemples :
 **bhāvyate** (bhāv-ya-te) « il/elle est produit(e) »
 **sthāpyate** (sthāp-ya-te) « il/elle est placé(e) »
-:::
-
-Alors que le passif de la racine première se forme généralement à partir de la racine au degré zéro, on peut généralement reconnaître le passif du causatif au fait qu’il se forme à partir de la racine au degré plein ou allongé.
+:::Alors que le passif de la racine première se forme généralement à partir de la racine au degré zéro, on peut généralement reconnaître le passif du causatif au fait qu’il se forme à partir de la racine au degré plein ou allongé.
 
 ---
 
 ## 28.5. Formation du futur (ऌट्, भविष्यन्ती f.) du causatif
 
-::: grammar-box
+:::grammar-box
 **Le futur du causatif se forme à partir de la racine causative, la voyelle finale -a du suffixe causatif étant élidée :**
 
 **-ay-iṣya-**
 
 Exemple :
 **budh** futur-causatif : **bodhayiṣyati** (bodh-ay-i-ṣya-ti) : « il/elle réveillera »
-:::
-
----
+:::---
 
 ## 28.6. Formation du PPP (क्त) du causatif
 
-::: grammar-box
+:::grammar-box
 **Stame causatif en -ay- (sans a final) + -i- + -ta**
 
 Exemples :
 **gam** — **gamayati** — **gamita** (gam-i-ta) « envoyé » (PPP de la racine simple : **gata**)
 **sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) « placé »
-:::
-
----
+:::---
 
 ## 28.7. Formation de l’absolutif (क्त्वा . ल्यप्) à partir du causatif
 
-::: grammar-box
+:::grammar-box
 **L’absolutif en -tvā se forme à partir du radical causatif en -ay- (sans a final) :**
 
 **Radical causatif en -ay- + -i- + -tvā**
 
 Exemple :
 **sthāpayitvā** (sthā-pay-i-tvā) « après avoir placé »
-:::
-
-::: grammar-box
+::::::grammar-box
 **L’absolutif en -ya apparaît généralement avec les causatifs ayant un préfixe, à la place du radical causatif SANS -aya-**
 
 Exemples :
 **prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) « après avoir réveillé »
 **ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) « après avoir fait venir, après avoir permis de faire venir »
-:::
-
-::: grammar-box
+::::::grammar-box
 **Cependant, si la syllabe radicale du causatif contient un -a bref devant un seul consonne, le -ya de l’absolutif se joint au radical causatif en -ay- (sans a final)**
 
 Exemple :
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) « après avoir permis de venir »
-:::
-
----
+:::---
 
 ## 28.8. Formation de l'infinitif (तुमुन्) du causatif
 
-::: grammar-box
+:::grammar-box
 **L'infinitif du causatif se forme à partir de la racine causative en -ay- (sans a final) :**
 
 **Racine causative en -ay- + -i- + -tum**
 
 Exemple :
 **jan** — **janayati** — **janayitum** (janay-i-tum) « pour produire »
-:::
-
----
+:::---
 
 ## 28.9. La 10ᵉ classe de présent (चुरादि = चुर् etc.)
 
-::: grammar-box
+:::grammar-box
 **De la même manière que les causatifs, certains radicaux de la 10ᵉ classe de présent forment le présent (et les autres temps) sans être des causatifs.**
 
 Exemples :
 1.  Radical à voyelle allongée + -aya- : **कम्** 10Ā **कामयते** "aimer"
 2.  Radical à voyelle haute + -aya- : **cur** 10U **corayati** "voler" ; futur : **corayiṣyate** ; passif : **coryate**
-:::
-
-::: grammar-box
+::::::grammar-box
 **Les formes du causatif des verbes de la 10ᵉ classe de présent sont identiques à celles du verbe simple. La décision quant à la présence d'un causatif ne peut se faire qu'à partir du sens ou, parfois, de la construction.**
-:::
-
----
+:::---
 
 ## 28.10. Liste de mots
 
-::: indent
+:::indent
 **विद्** 2P **वेत्ति**, **विदन्ति** : savoir, connaître
 Fut. **vediṣyati**
 Pass. **vidyate**
@@ -357,73 +305,55 @@ Kaus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
 dér. : **vidyā** f., **veda** m.
-:::
-
-::: indent
+::::::indent
 **विद्** 6U **विन्दति** (!) : trouver
 Fut. **vediṣyati** / **vetsyat**
 Pass. **vidyate** : il y a, il est présent
 Kaus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
-:::
-
-::: indent
+::::::indent
 **i + adhi** 2Ā **adhīte**, **adhīyate** : étudier, apprendre par cœur
 Kaus. **adhyāpayati** : faire étudier, enseigner
 dér. : **adhyayana** n. : étude (surtout du Veda) ; **adhyāya** m. : leçon, chapitre (section à apprendre par cœur)
-:::
-
-::: indent
+::::::indent
 **कम्** 10Ā **कामयते** : aimer
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Kaus. **kāmayati**
 PPP **kānta** (!)
 Inf. **kāmayitum** / **kamitum**
-:::
-
-::: media
+::::::media
 ![](/images/lekt2804.webp)
 Fig. : कृष्णो राधां कामयति
 Peinture de राजा रवि वर्मा (1848 - 1906)
 (Source de l'image : [Détails](/fr/licenses#lekt2804))
-:::
-
-::: indent
+::::::indent
 **चुर्** 10 **चोरयति** : voler
 Fut. **corayiṣyati**
 Pass. **coryate**
 Kaus. **corayati**
 PPP **corita**
 Inf. **coritum**
-:::
-
-::: indent
+::::::indent
 **Retenez particulièrement le sens des causatifs des verbes suivants :**
 **dṛś** — **darśayati** : montrer
 **man** — **mānayati** : estimer, honorer (probablement un dénominal de **māna** « honneur »)
 **vac** — **vācayati** : aussi : lire à haute voix (faire prononcer un texte)
 **vad** — **vādayati** : aussi : faire parler un instrument de musique = jouer d’un instrument de musique
-:::
-
-::: media
+::::::media
 ![](/images/lekt2803.webp)
 Fig. : वीणां वादयति
 Vīṇā-Spielerin.
 (Source de l'image : [Détails](/fr/licenses#lekt2803))
-:::
+:::**भार** m. : charge
 
-**भार** m. : charge
-
-::: media
+:::media
 ![](/images/lekt2805.webp)
 Fig. : बाला भारं हरति
 Fille portant une charge. Près d’Ahmedabad.
 (Source de l'image : [Détails](/fr/licenses#lekt2805))
-:::
-
-**भृत्य** m. : subordonné, serviteur
+:::**भृत्य** m. : subordonné, serviteur
 
 ---
 
@@ -531,7 +461,7 @@ Exemple : रामो दासं भारं हारयति » दास
 पापान्मोक्षार्थेन सुगत आर्यजनानार्यसत्यानि बोधयति ॥१०॥
 
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt2801:** Bâtiment de gestion de l'Université Jadavpur. [Source de l'image : Flickr de noii, 2008-12-19, CC BY-SA]
 **lekt2802:** Temple ISKCON de Bangalore. [Source de l'image : Flickr de Ramki's reflections, 2008-12-19, CC BY-NC-ND]

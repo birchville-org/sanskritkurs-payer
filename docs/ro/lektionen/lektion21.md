@@ -13,18 +13,15 @@ status: stable
 
 ### 21.1.1. Participul prezent (लडादेशः) Parasmaipada
 
-:::: grammar-box
+::::grammar-box
 Acest particip este o formare nominală din tema de prezent, adică un particip propriu-zis. Este un adjectiv care indică faptul că cineva sau ceva face chiar acum ceea ce este exprimat de rădăcina verbală (+ prefixul verbal), în timp ce se întâmplă altceva. De asemenea, se poate exprima o stare durabilă.
 
 **Exemple:**
 
-::: indent
+:::indent
 „În timp ce tatăl citește, fumează = tatăl care citește fumează”  
 „un prieten care este (= real, autentic)”
-:::
-::::
-
-:::: grammar-box
+:::::::::::grammar-box
 
 | **Formarea participului prezent Parasmaipada pentru temele de prezent tematice:** |||
 | :--- | :--- | :--- |
@@ -35,18 +32,13 @@ Acest particip este o formare nominală din tema de prezent, adică un particip 
 | | | tema de prezent + **-nt-** + **-ī** (declinare ca **devī**[[br]]देवी) |
 | | **clasa a 6-a de prezent** | tema de prezent + **-nt-** + **-ī**[[br]]sau:[[br]]tema de prezent + **-t-** + **-ī** |
 
-::::
-
-
-Exemple:
+::::Exemple:
 
 1\. clasa de prezent:
 
-::: indent
+:::indent
 **yajant**[[br]]यजन्त् „unul care onorează cu un jertfă”
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 | | | Masculin[[br]]पुंस् | Neutru[[br]]नपुंसक | Feminin[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
@@ -59,31 +51,25 @@ Exemple:
 | | **3. Instrumental**[[br]]तृतीया | **यजद्भिस्**[[br]]din yaja-t-bhis | **यजद्भिस्** | |
 | | **6. Genetiv**[[br]]षष्ठी | **यजताम्**[[br]]yaja-t-ām | **यजताम्** | |
 
-::::
-
-Observați identitatea de formă a lui **यजन्ति** (Nom. pl. Neutru) cu persoana a 3-a plural!
+::::Observați identitatea de formă a lui **यजन्ति** (Nom. pl. Neutru) cu persoana a 3-a plural!
 
 4\. clasa de prezent
 
-::: indent
+:::indent
 **नृत्यन्त्** „dansând”
 
 *   Masculin Nom. sg. **नृत्यन्**
 *   Neutru Nom. Ac. sg. **नृत्यत्**
 *   Feminin Nom. sg. **नृत्यन्ती**
-:::
+:::6\. clasa de prezent
 
-6\. clasa de prezent
-
-::: indent
+:::indent
 **विशन्त्** „intrând”
 
 *   Masculin Nom. sg. **विशन्**
 *   Neutru Nom. Ac. sg. **विशत्**
 *   Feminin Nom. sg. **विशन्ती** । **विशती**
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 | **Formarea participului prezent Parasmaipada pentru temele de prezent atematice (în afară de clasa a 3-a de prezent):** |||
 | :--- | :--- | :--- |
@@ -93,16 +79,11 @@ Observați identitatea de formă a lui **यजन्ति** (Nom. pl. Neutru) 
 | **Feminin** | | |
 | | | tema de prezent + **-at-** + **-ī** (declinare ca **devī**[[br]]देवी) |
 
-::::
+::::2\. clasa de prezent:
 
-
-2\. clasa de prezent:
-
-::: indent
+:::indent
 **अस्** „a fi”: **सन्त्** „fiind, autentic, bun, adevărat”
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 | | | Masculin[[br]]पुंस् | Neutru[[br]]नपुंसक | Feminin[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
@@ -115,45 +96,34 @@ Observați identitatea de formă a lui **यजन्ति** (Nom. pl. Neutru) 
 | | **3. Instrumental**[[br]]तृतीया | **सद्भिस्**[[br]]din s-at-bhis | **सद्भिस्** | |
 | | **6. Genetiv**[[br]]षष्ठी | **सताम्**[[br]]s-at-ām | **सताम्** | |
 
-::::
-
-::: indent
+:::::::indent
 ¹ **सती** "o bună (credincioasă) Femeie (care, într-un timp ulterior, se arde alături de soțul ei după moartea acestuia)" engl.: sutee
-:::
-
-::: media
+::::::media
 ![](/images/lekt2101.webp)
 Fig.: placă memorială सती
 Placă memorială सती în Palatul din Jodhpur - जोधपुर / Rajasthan - राजस्थान
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2101))
-:::
+:::5\. Clasa de prezent:
 
-
-5\. Clasa de prezent:
-
-::: indent
+:::indent
 **सु** "a presa": **सुन्वन्त्**
 
 *   Masculin Nom. sg. **सुन्वन्**
 *   Neutru Nom. Acuz. sg. **सुन्वत्**
 *   Feminin Nom. sg. **सुन्वती**
-:::
+:::8\. Clasa de prezent
 
-8\. Clasa de prezent
-
-::: indent
+:::indent
 **कृ** "a face": **कुर्वन्त्**
 
 *   Masculin Nom. sg. **कुर्वन्**
 *   Neutru Nom. Acuz. sg. **कुर्वत्**
 *   Feminin Nom. sg. **कुर्वती**
-:::
+:::### 21.1.2. महान्त् "mare"
 
-### 21.1.2. महान्त् "mare"
+::::grammar-box
 
-:::: grammar-box
-
-::: no-header
+:::no-header
 
 | | | |
 | :--- | :--- | :--- |
@@ -163,11 +133,7 @@ Placă memorială सती în Palatul din Jodhpur - जोधपुर / Rajas
 | **Feminin** | | |
 | | | **महती**[[br]]ca **devī**[[br]]देवी |
 
-:::
-
-::::
-
-:::: grammar-box
+:::::::::::grammar-box
 
 | | | Masculin[[br]]पुंस् | Neutru[[br]]नपुंसक | Feminin[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
@@ -180,143 +146,102 @@ Placă memorială सती în Palatul din Jodhpur - जोधपुर / Rajas
 | | **3. Instrumental**[[br]]तृतीया | **महद्भिस्**[[br]]din mahat-bhis | **महद्भिस्** | |
 | | **6. Genetiv**[[br]]षष्ठी | **महताम्**[[br]]mahat-ām | **महताम्** | |
 
-::::
-
-:::: grammar-box
+::::::::grammar-box
 **Ca un prim compus, în loc de महत् महा:**
 
 **Exemple:**
 
-::: indent
+:::indent
 **महादेव** "zeul cel mare" (de ex. शिव)  
 **महादेवी** "zeita cea mare, soția principală a unui rege (देव)"
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt2102.webp)
 Fig.: महादेवो विष्णुः
 "Un sigiliu de sardonyx din secolele IV-VI e.n., reprezentându-l pe Vișnu cu un închinător. Inscripția în bactrian cursiv spune: 'Mihira, Vișnu și Śiva'."
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2102))
-:::
-
-
-::: indent
+::::::indent
 "Un sigiliu de sardonyx din secolele IV-VI e.n., reprezentându-l pe Vișnu cu un închinător. Inscripția în bactrian cursiv spune: 'Mihira, Vișnu și Śiva'."
-:::
+:::## 21.2. Sandhi pentru nasalele finale
 
-## 21.2. Sandhi pentru nasalele finale
-
-:::: grammar-box
+::::grammar-box
 **După o vocală scurtă, nasalele finale – cu excepția lui -m – se dublează în fața unei vocale inițiale.**
 
 **Exemplu:**
 
-::: indent
+:::indent
 **जयन् + अरिः** » **जयन्नरिः** „inamicul biruitor”
-:::
-::::
+:::::::## 21.3. Forme politice de adresare
 
-## 21.3. Forme politice de adresare
-
-:::: grammar-box
+::::grammar-box
 **În sanscrită, se poate adresa cuiva la persoana a II-a singular, fără a fi nepoliticos. Dacă se dorește totuși o atitudine politicoasă, se poate folosi un substantiv cu sensul de „Cuvinte cuvenită” și similare, iar verbul se pune la persoana a III-a singular sau plural, sau se utilizează o construcție pasivă. Gradarea politicii în utilizarea persoanei la adresare este aproximativ următoarea:**
 
-::: indent
+:::indent
 **pers. a II-a sg. » pers. a II-a pl. » pers. a III-a sg. cu substantiv corespunzător » pers. a III-a pl. cu substantiv corespunzător**
-:::
-
-**Cel mai important astfel de substantiv de politețe este भवन्त्, fem.: भवती. În utilizarea sa, corespunde „Dvs.” nostru politicos.**
-::::
-
-Acest **भवन्त्** este o contragere din **भगवन्त्**, declinarea sa este cea a substantivelor în **-vant** (vezi [Lecția 13](lektion13.md)). Acest **भवन्त्** trebuie deosebit de participul prezent P al verbului **भू** „a deveni” **भवन्त्** : nominativul singular masculin al lui **भवन्त्** „Dvs.” este **भवान्**, iar al participului **भवन्**. 
+:::**Cel mai important astfel de substantiv de politețe este भवन्त्, fem.: भवती. În utilizarea sa, corespunde „Dvs.” nostru politicos.**
+::::Acest **भवन्त्** este o contragere din **भगवन्त्**, declinarea sa este cea a substantivelor în **-vant** (vezi [Lecția 13](lektion13.md)). Acest **भवन्त्** trebuie deosebit de participul prezent P al verbului **भू** „a deveni” **भवन्त्** : nominativul singular masculin al lui **भवन्त्** „Dvs.” este **भवान्**, iar al participului **भवन्**. 
 
 **Exemple:**
 
-::: indent
+:::indent
 **किं भवान्करोति** = **किं भवता क्रियते** = „Ce faceți?”
-:::
+:::mai politicos:
 
-mai politicos:
-
-::: indent
+:::indent
 **किं भवन्तः कुर्वन्ति** = **किं भवद्भिः क्रियते**
-:::
+:::feminin:
 
-feminin:
-
-::: indent
+:::indent
 **किं भवती करोति** = **किं भवत्या क्रियते**  
 **किं भवत्यः कुर्वन्ति** = **किं भवतीभिः क्रियते**
-:::
-
-Alte cuvinte care pot fi utilizate similar cu **भवन्त्**:
+:::Alte cuvinte care pot fi utilizate similar cu **भवन्त्**:
 
 *   **आर्य** (fem.: **आर्या**) „Nobil”. De exemplu, **यदार्य इच्छति** „Ce doriți?”
 *   **महाभाग** „celuia al cărui destin / noroc este mare = Elegant”. Adesea utilizat de femei la adresare sau vorbind despre bărbați de bună condiție. În sanscrita vorbită modernă, foarte frecvent.
 
 Dacă nu se dorește doar politetea, ci și exprimarea venerației pentru cineva, se utilizează, pentru o persoană prezentă sau apropiată, în loc de **भवन्त्** **अत्रभवन्त्** , iar pentru o persoană absentă sau îndepărtată **तत्रभवन्त्**. **अत्रभवन्त्** și **तत्रभवन्त्** se pot traduce prin „Dvs.”, „Cuvinte cuvenită”, „Excelența Sa” etc.:
 
-::: indent
+:::indent
 **किमत्रभवत्यत्रभवतां भार्या** = „Este soacra (prezentă aici) soția dumneavoastră?”  
 **किं तत्रभवतां कुशलवृत्तम्** (într-o scrisoare sau conversație telefonică) = „Sunteți bine?”
-:::
-
-## 21.4. Listă de cuvinte
+:::## 21.4. Listă de cuvinte
 
 **भज् 1 U भजति Pass. भज्यते PPP भक्त :** a cuiva (Ac.) a distribui, a veni, a iubi pe cineva, a onora, a venera
 
 din aceasta:
 
-::: indent
+:::indent
 **भक्ति f.:** devotament, credință, iubire (în domeniul religios: iubire și respect față de un Dumnezeu personal. Vezi Basham, Wonder p. 332f.)  
 **भाग m.:** parte, cotă  
 **भग m.:** (bună) parte, noroc, bunăstare, demnitate  
 **भगवन्त् 3:** posesor de noroc, posesor de demnitate (epitet al lui विष्णु – कृष्ण)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2103.webp)
 Fig.: भगवान्कृष्णः
 भगवान्कृष्णः ca जगन्नाथ (dreapta) cu sora sa vitregă सुभद्रा (mijloc) și fratele său mai mare बलराम, Orissa = ଓଡ଼ିଶा
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2103))
-:::
-
-::: indent
+::::::indent
 **भगवद्गीता f.:** "Cântec (गीता) al Demnului (कृष्ण)"
-:::
-
-::: media
+::::::media
 ![](/images/lekt2105.webp)
 Fig.: भगवद्गीता
 भगवद्गीता - manuscris, sec. al XIX-lea.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2105))
-:::
-
-::: indent
+::::::indent
 **भिक्ष् 1 Ā भिक्षते Pass. भिक्ष्यते PPP भिक्षित** (într-adevăr un desiderativ pentru भज्: a dori să participe): a cere milostenie
-:::
+:::din aceasta:
 
-din aceasta:
-
-::: indent
+:::indent
 **भिक्षु m.:** cerșetor, monah
-:::
-
-::: media
+::::::media
 ![](/images/lekt2104.webp)
 Fig.: भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2104))
-:::
+:::**दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट :** a distruge (intransitiv), a se înrăutăți, a fi rușinat
 
-**दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट :** a distruge (intransitiv), a se înrăutăți, a fi rușinat
-
-::: indent
+:::indent
 **दोष m.:** greșeală
-:::
-
-**पच् 1 U पचति Pass. पच्यते (fără PPP, în schimb पक्व 3: gătit, fermentat) Absol. पक्त्वा :** a găti (transitiv) = a fierbe, a prăji, a rumeni etc.
+:::**पच् 1 U पचति Pass. पच्यते (fără PPP, în schimb पक्व 3: gătit, fermentat) Absol. पक्त्वा :** a găti (transitiv) = a fierbe, a prăji, a rumeni etc.
 
 ## 21.5. Exerciții
 
@@ -344,7 +269,7 @@ B) Traduceți:
 
 जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥६॥
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt2101:** Placă comemorativă सती în Palatul din Jodhpur - जोधपुर / Rajasthan - राजस्थान [Sursa imaginii: Flicka / Wikipedia. Licență GNU FDL]
 

@@ -10,23 +10,20 @@ status: stable
 
 Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e il participio.
 
-::: grammar-box
+:::grammar-box
 **Esistono due tipi di formazione del perfetto:**
 *   **il perfetto reduplicato = द्वित्वलिट्**
 *   **il perfetto perifrastico = अनुप्रयोगलिट्**
-:::
-::: grammar-box
+::::::grammar-box
 **Il perfetto perifrastico (अनुप्रयोगलिट्) è utilizzato:**
 1. **nelle coniugazioni derivate (causativo, desiderativo, frequentativo, denominativi)**
 2. **nelle radici che iniziano con una vocale lunga (tranne ā-) o con una vocale (tranne a-) seguita da due consonanti**
 3. **in alcune altre radici**
-:::
-
-## 34.2. Il perfetto con reduplicazione (द्वित्वलिट्)
+:::## 34.2. Il perfetto con reduplicazione (द्वित्वलिट्)
 
 ### 34.2.1. Gradazione della radice
 
-::: grammar-box
+:::grammar-box
 **Formazione:**
 
 **radice forte:** Singolare Parasmaipada
@@ -34,9 +31,7 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 
 **radice debole:** tutte le altre forme
 *   **radice reduplicata in grado basso + desinenza del perfetto**
-:::
-
-::: grammar-box
+::::::grammar-box
 **In generale (anche al di fuori del perfetto), non subiscono gradazione le radici della forma:**
 *   **(Consonante)-Consonante-Vocale lunga-Consonante**
 *   **(Consonante)-Consonante-Vocale-Consonante-Consonante**
@@ -44,28 +39,22 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 **Nel perfetto, inoltre, non subiscono gradazione le radici della forma:**
 *   **a-Consonante**
 *   **ā-Consonante**
-:::
+:::### 34.2.2. Le desinenze del perfetto
 
-### 34.2.2. Le desinenze del perfetto
-
-:::: grammar-box
+::::grammar-box
 
 | | 3. Singolare | 3. Plurale |
 | :--- | :--- | :--- |
 | **Parasmaipāda** | **-a** | **-ur** |
 | **Ātmanepāda** | **-e** | **-re** |
 
-::::
+::::### 34.2.3. Vocale di giunzione -i-
 
-### 34.2.3. Vocale di giunzione -i-
-
-::: grammar-box
+:::grammar-box
 **Prima della desinenza della 3.pl.Ā (-re) compare sempre la vocale di giunzione -i-, prima delle altre desinenze che iniziano con una consonante, nella maggioranza delle radici.**
-:::
+:::### 34.2.4. Raddoppiamento delle radici inizianti per consonante
 
-### 34.2.4. Raddoppiamento delle radici inizianti per consonante
-
-::: grammar-box
+:::grammar-box
 **Per il raddoppiamento delle consonanti iniziali valgono le regole fornite nella [Lezione 33](lektion33.md).**
 
 **La vocale di raddoppiamento nelle radici inizianti per consonante è la vocale radice breve.**
@@ -73,11 +62,9 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 **I dittonghi seguiti da consonante si riducono mediante la corrispondente vocale breve di grado debole (guṇa/zero).**
 
 **ṛ, ṝ, ḷ e i dittonghi finali si raddoppiano con -a-.**
-:::
+:::Esempi:
 
-Esempi:
-
-:::: grammar-box
+::::grammar-box
 
 | Radice | 3. sg. Perf. Att. |
 | :--- | :--- |
@@ -85,70 +72,52 @@ Esempi:
 | मुच् | ***मु***मोच |
 | भृ | ***ब***भार |
 
-::::
-
-::: grammar-box
+:::::::grammar-box
 **Alcune radici inizianti per y- o v- si raddoppiano con i- o u-, che nelle forme deboli si "fonde" con la vocale radice.**
-:::
+:::Esempi:
 
-Esempi:
-
-:::: grammar-box
+::::grammar-box
 
 | Radice | 3. sg. Perf. Att. | 3. pl. Perf. Att. |
 | :--- | :--- | :--- |
 | वच् | उवाच[[br]]u-vāc-a | ऊचुर्[[br]]u + uc-ur |
 | यज् | इयाज[[br]]i-yāj-a | ईजुर्[[br]]i + ij-ur |
 
-::::
+::::### 34.2.5. Raddoppiamento delle radici inizianti per vocale
 
-### 34.2.5. Raddoppiamento delle radici inizianti per vocale
-
-::: grammar-box
+:::grammar-box
 **1. Le radici inizianti con a-, ā- vengono raddoppiate con a-, risultando in ā-.**
-:::
+:::Esempi:
 
-Esempi:
-
-:::: grammar-box
+::::grammar-box
 
 | Radice | 3. sg. Perf. P. |
 | :--- | :--- |
 | अस् 2 "essere" e अस् 4 "gettare" | आस[[br]]a + as-a |
 
-::::
-
-::: grammar-box
+:::::::grammar-box
 **2. Le radici inizianti con i- presentano come sillaba di raddoppiamento iy- nella forma forte e i- nella forma debole, che si fondono con la vocale radicale dando ī-. Analogamente vale per le radici inizianti con u-.**
-:::
+:::Esempi:
 
-Esempi:
-
-:::: grammar-box
+::::grammar-box
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | इ | इयाय[[br]]iy + ai + a | ईयुर्[[br]]i + iy-ur |
 | इष् | इयेष[[br]]iy-eṣ-a | ईषुर्[[br]]i + iṣ-ur |
 
-::::
-
-::: grammar-box
+:::::::grammar-box
 **3. Le radici che iniziano con a- seguita da due consonanti, oppure con ṛ-, presentano come sillaba di raddoppiamento ān-.**
-:::
+:::Esempi:
 
-Esempi:
-
-:::: grammar-box
+::::grammar-box
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | अञ्ज् | आनञ्ज | आनञ्जुर् |
 | एध् | आनर्ध | आनृधुर् |
 
-::::
-
-## 34.3. Tipi del perfetto reduplicato
+::::## 34.3. Tipi del perfetto reduplicato
 
 Criterio di classificazione: particolarità dell'alternanza della radice:
 
@@ -158,17 +127,15 @@ Criterio di classificazione: particolarità dell'alternanza della radice:
 
 ## 34.4. Tipo di Perfetto I: Perfetto senza ablaut della radice
 
-::: grammar-box
+:::grammar-box
 **Il Perfetto di Tipo I (senza ablaut della radice) comprende radici dei seguenti tipi:**
 *   **(Consonante)-Consonante-Vocale Lunga-Consonante**
 *   **(Consonante)-Consonante-Vocale-Consonante-Consonante**
 *   **a-Consonante**
 *   **ā-Consonante**
-:::
+:::Esempi:
 
-Esempi:
-
-:::: grammar-box
+::::grammar-box
 
 | Radice | 3. sg. Perf. | 3. pl. Perf. |
 | :--- | :--- | :--- |
@@ -178,22 +145,18 @@ Esempi:
 | अस् 2P "essere"[[br]]अस् 4 "gettare" | आस[[br]]a + as-a | आसुर् |
 | अश् | आनशे[[br]]reduplicazione irregolare! | आनशिरे |
 
-::::
+::::## 34.5. Tipo II del Perfetto: Radice forte in grado alto, radice debole in grado basso
 
-## 34.5. Tipo II del Perfetto: Radice forte in grado alto, radice debole in grado basso
-
-::: grammar-box
+:::grammar-box
 **Si forma da radici della forma:**
 *   **(Consonante)-(Consonante)-i/u/ṛ/ḷ-Consonante**
 
 **Formazione:**
 *   **radice forte: grado alto (guṇa/vedico)**
 *   **radice debole: grado basso (zero-grade)**
-:::
+:::Esempi:
 
-Esempi:
-
-:::: grammar-box
+::::grammar-box
 
 | Radice | 3. sg. Perf. Att. | 3. pl. Perf. Att. | 3. sg. Perf. Med. | 3. pl. Perf. Med. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -203,22 +166,18 @@ Esempi:
 | वृत् | | | ववृते | ववृतिरे |
 | कॢप् | | | चकॢपे | चकॢपिरे |
 
-::::
-
-## 34.6. Elenco lessicale
+::::## 34.6. Elenco lessicale
 
 **क्षिति f. = पृथ्वी = मही = भूमी**
 
 **शस्य = सस्य n. sg. e pl.:** semenza, raccolto, cereali
 
-::: media
+:::media
 ![](/images/lekt3406.webp)
 Fig.: सस्यम्
 Campo di riso in India.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3406))
-:::
-
-**यावत् :** quanto a lungo, quanto grande
+:::**यावत् :** quanto a lungo, quanto grande
 
 **तावत् :** tanto a lungo, tanto grande
 
@@ -226,41 +185,33 @@ Campo di riso in India.
 
 **द्वीप m.n.:** isola, continente
 
-::: media
+:::media
 ![](/images/lekt3405.webp)
 Fig.: लक्षद्वीपाः
 Mappa delle Isole Lakshadweep.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3405))
-:::
-
-**मर्त्य 3:** mortale (da **मृ**)
+:::**मर्त्य 3:** mortale (da **मृ**)
 
 **तिल m.:** sesamo (*Sesamum indicum* L.)
 
-::: media
+:::media
 ![](/images/lekt3403.webp)
 Fig.: तिलाः
 Semi di sesamo.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3403))
-:::
-
-::: media
+::::::media
 ![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Fioritura della pianta del sesamo.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3404))
-:::
+:::**स्वर्ण n.:** (di bel colore =) oro
 
-**स्वर्ण n.:** (di bel colore =) oro
-
-::: media
+:::media
 ![](/images/lekt3402.webp)
 Fig.: स्वर्णम्
 Tempio d'Oro (Harmandir Sahib), Amritsar.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3402))
-:::
-
-**निकेतन n.:** dimora, tempio
+:::**निकेतन n.:** dimora, tempio
 
 **कोटि f.:** punta; 10 milioni
 
@@ -270,14 +221,12 @@ Tempio d'Oro (Harmandir Sahib), Amritsar.
 
 **ऋषभ m.:** toro
 
-::: media
+:::media
 ![](/images/lekt3401.webp)
 Fig.: ऋषभः
 Statua del toro Nandi, Colline di Chamundi, Mysore.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3401))
-:::
-
-**यम् 1P यच्छति :** trattenere, tenere, offrire, concedere
+:::**यम् 1P यच्छति :** trattenere, tenere, offrire, concedere
 
 **यम् + प्र 1P प्रयच्छति :** porgerla, offrire, consegnare
 
@@ -338,7 +287,7 @@ Tradurre il seguente testo tratto dal *Padma Purāṇa* riguardante le offerte a
 
 Spiegazioni:
 
-::: indent
+:::indent
 **Vocativo singolare** dei maschili/neutri in -a termina in -a: es. **देव** "Dio!"
 
 **चतुर्दश** quattordici
@@ -348,16 +297,12 @@ Spiegazioni:
 **जन्म** Nominativo/Accusativo singolare di **जन्मन् n.** nascita
 
 **सर्व 3** "tutti, intero" (declinato secondo la declinazione pronominal)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3407.webp)
 Fig.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
 Rituale nuziale indù.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3407))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 
 **lekt3401:** Statua del toro Nandi, Colline di Chamundi, Mysore. [Fonte dell'immagine: Luna Park / Flickr. CC BY-NC-ND]

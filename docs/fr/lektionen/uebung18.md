@@ -83,13 +83,11 @@ B) Traduisez les Tatpuruṣa suivants :
 
 ३१. अमृत n. — immortalité, nourriture d’immortalité, breuvage d’immortalité
 
-::: media
+:::media
 ![](/images/uebung027.jpg)
 Lég. : नास्ति कामसमो व्याधिः
 (Source de l’image : [Détails](/fr/licenses#uebung027))
-:::
-
----
+:::---
 
 ## Exercices supplémentaires
 
@@ -142,7 +140,7 @@ D) Traduisez :
 (धर्मः) सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥
 Le devoir de tous est : la non-violence, la véracité, la pureté, ne pas se plaindre de son destin, l'absence de méchanceté et la patience indulgente.
 
-::: media
+:::media
 ![](/images/uebung028.webp)
 Fig. : दुर्गमो मार्गः
 (Source de l'image : [Détails](/fr/licenses#uebung028))

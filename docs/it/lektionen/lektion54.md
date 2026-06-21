@@ -19,28 +19,23 @@ Le lezioni del corso di sanscrito trattano argomenti di grammatica sanscrita che
 
 ## 54.2. Formazione delle parole: suffisso -u कृत् alle radici desiderative
 
-:::: grammar-box
+::::grammar-box
 **Alle radici desiderative (इच्छाप्रकृति) ("volgere il desiderio a qualcosa"; "essere sul punto di fare qualcosa") si aggiunge il suffisso -u per formare i nomi d'agente.**
 
 (La formazione delle radici desiderative segue più avanti)
 
 Esempio:
 
-::: indent
+:::indent
 युयुत्सु (yu-yudh + s + u) "bramoso di combattere, sul punto di combattere"
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt5402.webp)
 Fig.: अयुयुत्सुरर्जुनः
 भगवद्गीतोपदेशः Tirupati = తిరుపతి
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5402))
-:::
+:::## 54.3. Metrica II: l'epica त्रिष्टुभ् e la जगती
 
-## 54.3. Metrica II: l'epica त्रिष्टुभ् e la जगती
-
-:::: grammar-box
+::::grammar-box
 La त्रिष्टुभ् ("Tre-lamento") appare negli epici nel mezzo delle solite parti श्लोक proprio nei punti in cui l'atmosfera o l'azione subiscono un particolare slancio o conclusione.
 
 La strofa त्रिष्टुभ् è composta da quattro distici पाद di undici sillabe, che non differiscono tra loro nella struttura.
@@ -49,77 +44,55 @@ La त्रिष्टुभ् ha due schemi fondamentali, a seconda che la c
 
 Schema I:
 
-::: metrik-schema
+:::metrik-schema
 × — × — / × ◡ — ***— ◡ — —***
-:::
+:::Schema II:
 
-Schema II:
-
-::: metrik-schema
+:::metrik-schema
 × — × — × / × ◡ ***— ◡ — —***
-:::
-
-La quantità delle ultime quattro sillabe è quindi identica in entrambi gli schemi.
+:::La quantità delle ultime quattro sillabe è quindi identica in entrambi gli schemi.
 
 Forma base जगती: come nella त्रिष्टुभ्, ma di dodici sillabe. Le ultime cinque sillabe di ogni Pada presentano le seguenti quantità:
 
-::: metrik-schema
+:::metrik-schema
 ***— ◡ — ◡ —***
-:::
+:::Inoltre esiste la cosiddetta tipica त्रिष्टुभ् sovrabbondante con un primo membro di cinque sillabe, che prosegue come una त्रिष्टुभ् con un primo membro di quattro sillabe:
 
-Inoltre esiste la cosiddetta tipica त्रिष्टुभ् sovrabbondante con un primo membro di cinque sillabe, che prosegue come una त्रिष्टुभ् con un primo membro di quattro sillabe:
-
-::: metrik-schema
+:::metrik-schema
 — × — × / × ◡ — ***— ◡ — —***
-:::
-
-In epoca successiva le forme della त्रिष्टुभ् vengono stabilite secondo uno schema rigoroso di lunghezze e brevizze; la cesura non ha più importanza. Le forme successive più importanti sono:
+:::In epoca successiva le forme della त्रिष्टुभ् vengono stabilite secondo uno schema rigoroso di lunghezze e brevizze; la cesura non ha più importanza. Le forme successive più importanti sono:
 
 a) इन्द्रवज्रा
 
-::: metrik-schema
+:::metrik-schema
 ***—*** — ◡ — , — ◡ ◡ — ◡ — —
-:::
+:::b) उपेन्द्रवज्रा
 
-b) उपेन्द्रवज्रा
-
-::: metrik-schema
+:::metrik-schema
 ***◡*** — ◡ — , — ◡ ◡ — ◡ — —
-:::
+:::c) उपजाति
 
-c) उपजाति
-
-::: indent
+:::indent
 पाद in इन्द्रवज्रा e पाद in उपेन्द्रवज्रा sono mescolati in una strofa.
-:::
-::::
-
-:::: grammar-box
+:::::::::::grammar-box
 **Versi mnemonici:**
 
 **स्यादिन्द्रवज्रा यदि तौ जगौ गः ।**
 
-::: indent
+:::indent
 "È una Indravājrā, se le sillabe in tutti i Pādas sono ta ta ja ga ga.
-:::
+:::उपेन्द्रवज्रा प्रथमे लघौ सा ।
 
-उपेन्द्रवज्रा प्रथमे लघौ सा ।
-
-::: indent
+:::indent
 "Una Upendravajrā è come una Indravajrā che all'inizio ha una sillaba breve"
-:::
-
-अनन्तरोदीरितलक्ष्मभाजौ  
+:::अनन्तरोदीरितलक्ष्मभाजौ  
 पदौ यदीयावुपजातयस्ताः ।  
 इत्थं किलान्यास्वपिमिश्रितासु  
 वदन्ति जातिष्विदमिदमेवनाम ॥
 
-::: indent
+:::indent
 "Se due Pādas, che presentano le caratteristiche di Indravajrā o Upendravajrā, sono coinvolti in un verso, allora sono Upajātis. Anche se altri metri sono mescolati in un verso, si chiama Upajāti."
-:::
-::::
-
-## 54.4. Eseritazione sulla metrica
+:::::::## 54.4. Eseritazione sulla metrica
 
 Determinare nel Bhagavadgītā II le Triṣṭubhs e le Jagatīs.
 
@@ -127,13 +100,11 @@ Esempio di recitazione: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](ht
 
 ## 54.5. Tipi di formazione dell'aoristo (लुङ्)
 
-::: grammar-box
+:::grammar-box
 **Ciò che è comune a tutti i tipi di formazione dell'aoristo (लुङ्) è l'augment a-, che viene anteposto secondo le stesse regole dell'imperfetto (लङ्).**
 
 Dell'aoristo nel sanscrito sono in uso solo l'indicativo e il precativo.
-:::
-
-::: grammar-box
+::::::grammar-box
 **Esistono i seguenti tipi di formazione dell'aoristo (लुङ्):**
 
 1.  Aoristi non sibilanti (asigmatici):
@@ -147,31 +118,25 @@ Dell'aoristo nel sanscrito sono in uso solo l'indicativo e il precativo.
     *   54.7. Aoristo in -sa: Augment + Radice + ***s*** + ***a*** + Desinenza secondaria
 
 La distribuzione delle radici sui singoli tipi di formazione si veda presso i singoli tipi
-:::
+:::## 54.6. Radice aoristo
 
-## 54.6. Radice aoristo
-
-::: grammar-box
+:::grammar-box
 **Formazione:**
 
 **Augumento + Radice + Desinenza secondaria**
-:::
-
-La desinenza della 3ª persona plurale è -ur. Il ātmanepada non è d'uso comune.
+:::La desinenza della 3ª persona plurale è -ur. Il ātmanepada non è d'uso comune.
 
 Esempio:
 
 पा 1ª persona "bere"
 
-::: grammar-box
+:::grammar-box
 |   | एकवचनम् | बहुवचनम् |
 | --- | --- | --- |
 | 1. तृतीयः | अपाम्[[br]]a-pā + am | अपाम |
 | 2. मध्यमः | अपास् | अपात |
 | 3. प्रथमः | अपात् | अपुर्[[br]]a-p-ur (grado ridotto!) |
-:::
-
-Solo da 12 radici si forma l'aoristo radicale:
+:::Solo da 12 radici si forma l'aoristo radicale:
 
 1.  गा 3ª "andare"
 2.  घ्रा 1ª persona "odorare"
@@ -188,19 +153,17 @@ Solo da 12 radici si forma l'aoristo radicale:
 
 Per भू 1ª persona l'aoristo radicale si forma così:
 
-::: grammar-box
+:::grammar-box
 |   | एकवचनम् | बहुवचनम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अभूवम् | अभूम |
 | 2\. मध्यमः | अभू्स् | अभूत |
 | 3\. प्रथमः | अभूत् | ***अभूवन्*** (!!!) |
-:::
-
-### 54.6.1. L'Aoristo del 3.sg.Passivo
+:::### 54.6.1. L'Aoristo del 3.sg.Passivo
 
 Una forma speciale del radice-aoristo è l'aoristo del 3.sg.Passivo. Questo può essere formato da tutte le radici.
 
-::: grammar-box
+:::grammar-box
 **Formazione:**
 
 **Augmento + Radice + i**
@@ -250,9 +213,7 @@ Infix nasale:
     
 
 (Le altre forme del Passivo nell'aoristo sono espresse da forme di Ātmanepada).
-:::
-
-## 54.7. Esercizio
+:::## 54.7. Esercizio
 
 Tradurre per iscritto le seguenti forme e formare le corrispondenti forme dell’aoristo:
 
@@ -280,14 +241,12 @@ Tradurre per iscritto le seguenti forme e formare le corrispondenti forme dell�
 22.  गीयते
 23.  गम्यते
 
-::: media
+:::media
 ![](/images/lekt5401.webp)
 Fig.: त्रिचक्रेणेश्वरः स्तूयते
 Tamil Nadu
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt5401))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt5402:** भगवद्गीतोपदेशः Tirupati = తిరుపతి [Fonte dell’immagine: Raji Srinivas / Wikipedia. Licenza GNU FDL]
 

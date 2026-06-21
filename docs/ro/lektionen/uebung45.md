@@ -58,7 +58,7 @@ Brahmane, as-tu versé du ghee dans le feu du sacrifice ?
 ४. **शत्रो शस्तेण जीवं न छिनत्सि ॥ ४ ॥**
 Ennemi, avec l'épée, tu ne brises pas l'âme (la vie).
 
-::: media
+:::media
 ![](/images/uebung074.webp)
 Fig. : हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात
 (Source de l'image : [Détails](/licenses#uebung074))

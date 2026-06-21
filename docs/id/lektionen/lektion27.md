@@ -11,7 +11,7 @@ status: stable
 
 ## 27.1. Use of the Locative (सप्तमी f. = "seventh case ending")
 
-::: grammar-box
+:::grammar-box
 
 **The Locative (सप्तमी) answers the following questions:**
 *   **where?**
@@ -19,24 +19,18 @@ status: stable
 *   **under what circumstances?**
 *   **with regard to what?**
 
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 **1. The Locative (सप्तमी) indicates, in response to the question "Where?", the space in (at, on, by) which the agent (कर्ता) or the object of an action is located, or where the action itself takes place.**
 
 > नगरे वसति = "He lives in the city"
 
-::::
-
-::: media
+:::::::media
 ![](/images/lekt2701.webp)
 Fig.: जयपुरनगरे
 Jaipur, 1875.
 (Image source: [Details](/en/licenses#lekt2701))
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 **2. The Locative indicates, in response to the question "When?", the point in time or the external circumstances:**
 
@@ -58,43 +52,33 @@ Jaipur, 1875.
 
 **Note: in the Absolutivum, the agent of the Absolutivum and the agent of the main clause must be identical; in the Locativus absolutus, the agent of the Locativus absolutus and the agent of the main verb must be different.**
 
-::::
-
-::: media
+:::::::media
 ![](/images/lekt2702.webp)
 Fig.: एवं गच्छति कालयुष्ट्रः स्वपितi
 Rajasthan.
 (Image source: [Details](/en/licenses#lekt2702))
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 **3. The Locative also appears in response to the question "With regard to what?" etc.:**
 
 > अस्ति तस्य पुत्रे स्नेहः = "He has love for his son" (lit. "With regard to the son, love is with him")
 
-::::
-
-::: media
+:::::::media
 ![](/images/lekt2703.webp)
 Fig.: अस्ति तस्य पुत्रे स्नेहः
 Holi.
 (Image source: [Details](/en/licenses#lekt2703))
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 **4. The Locative is used in native dictionaries and by commentators to indicate the meaning of a word:**
 
 > भू सत्तायाम् = "the root भू in the meaning 'beingness' (sat-tā)"
 
-::::
-
-Further information on the use of the Locative will follow later.
+::::Further information on the use of the Locative will follow later.
 
 ## 27.2. Formation of the Locative (सप्तमी)
 
-::: grammar-box
+:::grammar-box
 
 **The regular endings of the Locative (सप्तमी) are:**
 *   **Singular: -i**
@@ -102,11 +86,9 @@ Further information on the use of the Locative will follow later.
 
 **Note the sound changes before -su as well as the possible cerebralization of -su to -ṣu!**
 
-:::
+:::### 27.2.1. Consonantal Stems
 
-### 27.2.1. Consonantal Stems
-
-::: grammar-box
+:::grammar-box
 
 | Stem | Locative Singular[[br]]सप्तमी एकवचन | Locative Plural[[br]]सप्तमी बहुवचन |
 | :--- | :--- | :--- |
@@ -115,11 +97,9 @@ Further information on the use of the Locative will follow later.
 | पशुमन्त् | पशुमति | पशुमत्सु |
 | गुणवन्त् | गुणवति | गुणवत्सु |
 
-:::
+:::### 27.2.2. Interrogative, Demonstrative, and Relative Pronouns
 
-### 27.2.2. Interrogative, Demonstrative, and Relative Pronouns
-
-::: grammar-box
+:::grammar-box
 
 | | किम् | यद् | तद् | एतद् | इदम् |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -128,11 +108,9 @@ Further information on the use of the Locative will follow later.
 | Feminine[[br]]Locative Singular | कस्याम् | यस्याम् | तस्याम् | एतस्याम् | अस्याम् |
 | Feminine[[br]]Locative Plural | कासु | यासु | तासु | एतासु | आसु |
 
-:::
+:::### 27.2.3. Vocalic Stems
 
-### 27.2.3. Vocalic Stems
-
-::: grammar-box
+:::grammar-box
 
 | | Locative Singular | Locative Plural |
 | :--- | :--- | :--- |
@@ -144,11 +122,9 @@ Further information on the use of the Locative will follow later.
 | **श्रुति** f. | **श्रुतौ** or **श्रुत्याम्**[[br]](i.e., either like **kavi**[[br]]कवि or like **devī**[[br]]देवी) | **श्रुतिषु** |
 | **धेनु** f. | **धेनौ** or **धेन्वाम्** | **धेनुषु** |
 
-:::
+:::## 27.3. Overview of the regular case endings (विभक्ति)
 
-## 27.3. Overview of the regular case endings (विभक्ति)
-
-::: grammar-box
+:::grammar-box
 
 | | Singular[[br]]एकवचनम् || Plural[[br]]बहुवचनम् ||
 | | Masculine / Feminine[[br]]पुंस् / स्त्री | Neuter[[br]]नपुंसकम् | Masculine / Feminine[[br]]पुंस् / स्त्री | Neuter[[br]]नपुंसकम् |
@@ -161,20 +137,16 @@ Further information on the use of the Locative will follow later.
 | **6. Genitive**[[br]]**६. षष्ठी** | -as || -ām ||
 | **7. Locative**[[br]]**७. सप्तमी** | -i || -su ||
 
-:::
-
-***Printed in red***: strong cases (with stem gradation).
+:::***Printed in red***: strong cases (with stem gradation).
 
 ## 27.4. A Verse with All Declension Forms (Singular) to राम
 
-::: media
+:::media
 ![](/images/lekt2708.webp)
 Fig.: रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥
 Rāma-Satz.
 (Image source: [Details](/en/licenses#lekt2708))
-:::
-
-***रामो*** राजमणिः सदा विजयते ***रामं*** रमेशं भजे[[br]]***रामेणा***भिहता निशाचरचमू ***रामाय*** तस्मै नमः ।[[br]]***रामान्ना***स्ति परायणम् परतरं ***रामस्य*** दासोऽस्म्यहम्[[br]]***रामे*** चित्तलयः सदा भवतु मे भो ***राम*** मामुद्धर ॥
+:::***रामो*** राजमणिः सदा विजयते ***रामं*** रमेशं भजे[[br]]***रामेणा***भिहता निशाचरचमू ***रामाय*** तस्मै नमः ।[[br]]***रामान्ना***स्ति परायणम् परतरं ***रामस्य*** दासोऽस्म्यहम्[[br]]***रामे*** चित्तलयः सदा भवतु मे भो ***राम*** मामुद्धर ॥
 
 **Translation:**
 1. **Nominative:** Rāma, the jewel (मणि m.) among kings (राजन् m.) always conquers (सदा).
@@ -190,87 +162,64 @@ Rāma-Satz.
 
 **वस्** 1P (वसति): to stay, to dwell (with the locative of the person with whom one dwells)
 
-::: indent
+:::indent
 **Fut.:** वत्स्यति[[br]]**Pass.:** उष्यते[[br]]**PPP:** उषित[[br]]**Inf.:** वस्तुम्
-:::
+:::from this:
 
-from this:
-
-:::: indent
+::::indent
 **वस्तु** n.: seat, place; reality, real thing, actuality, object
 
-::: indent
+:::indent
 **वस्तुतस्**: in reality, actually
-:::
-::::
+:::::::**वस्** 2Ā (वस्ते): to put on (clothing), to wear (clothing)
 
-**वस्** 2Ā (वस्ते): to put on (clothing), to wear (clothing)
-
-::: indent
+:::indent
 **Fut.:** वसिष्यते[[br]]**PPP:** वसित[[br]]**Inf.:** वसितुम्
-:::
+:::from this:
 
-from this:
-
-::: indent
+:::indent
 **वस्त्र** n.: means to put on = garment, robe, fabric
-:::
-
-::: media
+::::::media
 ![](/images/lekt2706.webp)
 Fig.: वस्त्राणि
 Vastrāṇi. Majuli, Assam.
 (Image source: [Details](/en/licenses#lekt2706))
-:::
+:::**वस्** 6P (उच्छति): to shine forth (this root is important because of the nominal formations:)
 
-**वस्** 6P (उच्छति): to shine forth (this root is important because of the nominal formations:)
-
-::: indent
+:::indent
 **वसु** n.: wealth, treasure, property, possession
 
 **वसन्त** m.: ("shining" =) spring (March to May)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2707.webp)
 Fig.: वसन्तः
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Image source: [Details](/en/licenses#lekt2707))
-:::
+:::**हृ** 1U (हरति): to hold, to carry; to fetch, to take away, to steal
 
-**हृ** 1U (हरति): to hold, to carry; to fetch, to take away, to steal
-
-::: indent
+:::indent
 **Fut.:** हरिष्यति[[br]]**Pass.:** ह्रियते[[br]]**PPP:** हृत[[br]]**Inf.:** हर्तुम्
-:::
+:::from this:
 
-from this:
-
-::: indent
+:::indent
 **हर** 3: taking away; m.: the destroyer = epithet of Śiva
-:::
-
-Opposite of **हर**:
+:::Opposite of **हर**:
 
 **हरि** 3: blond, yellow, green; m. epithet of Viṣṇu (does not belong to the root हृ 1)
 
 **हरिहर** m.: Viṣṇu and Śiva united as a single deity.
 
-::: media
+:::media
 ![](/images/lekt2704.webp)
 Fig.: हरिहरः
 Harihara (left: Viṣṇu, right: Śiva).
 (Image source: [Details](/en/licenses#lekt2704))
-:::
-
-::: media
+::::::media
 ![](/images/lekt2705.webp)
 Fig.: हरिहरः
 Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 (Image source: [Details](/en/licenses#lekt2705))
-:::
-
-## 27.6. Exercise
+:::## 27.6. Exercise
 
 **A) In the following sentence, put the expressions in parentheses into the locative (सप्तमी) singular and, where it makes sense, plural. Note the different Sandhi, i.e., write out the full sentence each time!**
 
@@ -284,14 +233,12 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 
 वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥
 
-::: media
+:::media
 ![](/images/lekt2709.webp)
 Fig.: वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥
 Painting by Rāja Ravi Varmā (1848 - 1906).
 (Image source: [Details](/en/licenses#lekt2709))
-:::
-
-पुत्रे मृतेऽपुत्रा ब्राह्मणी पुत्रं लब्धुं व्रतं करोति ॥४॥
+:::पुत्रे मृतेऽपुत्रा ब्राह्मणी पुत्रं लब्धुं व्रतं करोति ॥४॥
 
 उपनीतबालैर्गुरुकुले उष्यते ॥५॥
 
@@ -309,7 +256,7 @@ Painting by Rāja Ravi Varmā (1848 - 1906).
 
 ### 27.7.1. Masculine nouns ending in -a: नर
 
-::: grammar-box
+:::grammar-box
 
 | | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
 | :--- | :--- | :--- |
@@ -321,18 +268,14 @@ Painting by Rāja Ravi Varmā (1848 - 1906).
 | **6. Genitive**[[br]]**६. षष्ठी** | नरस्य | नराणाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | नरे | नरेषु |
 
-:::
-
-::: media
+::::::media
 ![](/images/lekt2711.webp)
 Fig.: नराः
 Naran. Udaipur.
 (Image source: [Details](/en/licenses#lekt2711))
-:::
+:::### 27.7.2. Neuters on -a: फल
 
-### 27.7.2. Neuters on -a: फल
-
-::: grammar-box
+:::grammar-box
 
 | | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
 | :--- | :--- | :--- |
@@ -344,18 +287,14 @@ Naran. Udaipur.
 | **6. Genitive**[[br]]**६. षष्ठी** | फलस्य | फलाणाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | फले | फलेषु |
 
-:::
-
-::: media
+::::::media
 ![](/images/lekt2710.webp)
 Fig.: फलानि
 Fruits. Bangalore.
 (Image source: [Details](/en/licenses#lekt2710))
-:::
+:::### 27.7.3. Feminine nouns ending in -ā: क्षत्रिया
 
-### 27.7.3. Feminine nouns ending in -ā: क्षत्रिया
-
-::: grammar-box
+:::grammar-box
 
 | | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
 | :--- | :--- | :--- |
@@ -367,18 +306,14 @@ Fruits. Bangalore.
 | **6. Genitive**[[br]]**६. षष्ठी** | क्षत्रियायास् | क्षत्रियाणाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | क्षत्रियायाम् | क्षत्रियासु |
 
-:::
-
-::: media
+::::::media
 ![](/images/lekt2718.webp)
 Fig.: क्षत्रिया
 Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore.
 (Image source: [Details](/en/licenses#lekt2718))
-:::
+:::### 27.7.4. Masculines in -i: अरि
 
-### 27.7.4. Masculines in -i: अरि
-
-::: grammar-box
+:::grammar-box
 
 | | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
 | :--- | :--- | :--- |
@@ -390,18 +325,14 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Cham
 | **6. Genitive**[[br]]**६. षष्ठी** | अरेस् | अरीणाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | अरौ | अरिषु |
 
-:::
-
-::: media
+::::::media
 ![](/images/lekt2712.webp)
 Fig.: अरयः
 Hanging of two participants of the 1857 Rebellion. Photograph by Felice Beato (1833/1834 - ca. 1907).
 (Image source: [Details](/en/licenses#lekt2712))
-:::
+:::### 27.7.5. Feminine nouns ending in -i: मति
 
-### 27.7.5. Feminine nouns ending in -i: मति
-
-::: grammar-box
+:::grammar-box
 
 | | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
 | :--- | :--- | :--- |
@@ -413,11 +344,9 @@ Hanging of two participants of the 1857 Rebellion. Photograph by Felice Beato (1
 | **6. Genitive**[[br]]**६. षष्ठी** | मतेस् / मत्यास् | मतीणाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | मतौ / मत्याम् | मतिषु |
 
-:::
+:::### 27.7.6. Masculine nouns ending in -u: गुरु
 
-### 27.7.6. Masculine nouns ending in -u: गुरु
-
-::: grammar-box
+:::grammar-box
 
 | | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
 | :--- | :--- | :--- |
@@ -429,18 +358,14 @@ Hanging of two participants of the 1857 Rebellion. Photograph by Felice Beato (1
 | **6. Genitive**[[br]]**६. षष्ठी** | गुरोस् | गुरूणाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | गुरौ | गुरुषु |
 
-:::
-
-::: media
+::::::media
 ![](/images/lekt2713.webp)
 Fig.: गुरुः
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Image source: [Details](/en/licenses#lekt2713))
-:::
+:::### 27.7.7. Feminine nouns ending in -u: धेनु
 
-### 27.7.7. Feminine nouns ending in -u: धेनु
-
-::: grammar-box
+:::grammar-box
 
 | | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
 | :--- | :--- | :--- |
@@ -452,18 +377,14 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 | **6. Genitive**[[br]]**६. षष्ठी** | धेनोस् / धेन्वास् | धेनूणाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | धेनौ / धेन्वाम् | धेनुषु |
 
-:::
-
-::: media
+::::::media
 ![](/images/lekt2714.webp)
 Fig.: धेनुः
 Cow in Udaipur.
 (Image source: [Details](/en/licenses#lekt2714))
-:::
+:::### 27.7.8. Multisyllabic Feminines in -ī: देवी
 
-### 27.7.8. Multisyllabic Feminines in -ī: देवी
-
-::: grammar-box
+:::grammar-box
 
 | | Singular[[br]]एकवचनम् | Plural[[br]]बहुवचनम् |
 | :--- | :--- | :--- |
@@ -475,18 +396,14 @@ Cow in Udaipur.
 | **6. Genitive**[[br]]**६. षष्ठी** | देव्यास् | देवीणाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | देव्याम् | देवीषु |
 
-:::
-
-::: media
+::::::media
 ![](/images/lekt2715.webp)
 Fig.: त्रिदेवी
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Image source: [Details](/en/licenses#lekt2715))
-:::
+:::### 27.7.9. Present Participle Parasmaipada ending in -ant: सन्त्
 
-### 27.7.9. Present Participle Parasmaipada ending in -ant: सन्त्
-
-::: grammar-box
+:::grammar-box
 
 | | **Singular[[br]]Masculine[[br]]पुंस्** | **Singular[[br]]Neuter[[br]]नपुंसकम्** | **Plural[[br]]Masculine[[br]]पुंस्** | **Plural[[br]]Neuter[[br]]नपुंसकम्** |
 | :--- | :---: | :---: | :---: | :---: |
@@ -498,18 +415,14 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 | **6. Genitive**[[br]]**६. षष्ठी** | सतस् || सताम् ||
 | **7. Locative**[[br]]**७. सप्तमी** | सति || सत्सु ||
 
-:::
-
-::: media
+::::::media
 ![](/images/lekt2716.webp)
 Fig.: सद्गुरुः
 Sai Baba of Shirdi (1835 - 1918).
 (Image source: [Details](/en/licenses#lekt2716))
-:::
+:::### 27.7.10. महान्त्
 
-### 27.7.10. महान्त्
-
-::: grammar-box
+:::grammar-box
 
 | | **Singular[[br]]Masculine[[br]]पुंस्** | **Singular[[br]]Neuter[[br]]नपुंसकम्** | **Plural[[br]]Masculine[[br]]पुंस्** | **Plural[[br]]Neuter[[br]]नपुंसकम्** |
 | :--- | :---: | :---: | :---: | :---: |
@@ -521,11 +434,9 @@ Sai Baba of Shirdi (1835 - 1918).
 | **6. Genitive**[[br]]**६. षष्ठी** | महतस् || महताम् ||
 | **7. Locative**[[br]]**७. सप्तमी** | महति || महत्सु ||
 
-:::
+:::### 27.7.11. Masculine and Neuter nouns ending in -vant / -mant: गुणवन्त्
 
-### 27.7.11. Masculine and Neuter nouns ending in -vant / -mant: गुणवन्त्
-
-::: grammar-box
+:::grammar-box
 
 | | **Singular[[br]]Masculine[[br]]पुंस्** | **Singular[[br]]Neuter[[br]]नपुंसकम्** | **Plural[[br]]Masculine[[br]]पुंस्** | **Plural[[br]]Neuter[[br]]नपुंसकम्** |
 | :--- | :---: | :---: | :---: | :---: |
@@ -537,11 +448,9 @@ Sai Baba of Shirdi (1835 - 1918).
 | **6. Genitive**[[br]]**६. षष्ठी** | गुणवतस् || गुणवताम् ||
 | **7. Locative**[[br]]**७. सप्तमी** | गुणवति || गुणवत्सु ||
 
-:::
+:::### 27.7.12. Demonstrative Pronouns: तद् । एतद् । इदम्
 
-### 27.7.12. Demonstrative Pronouns: तद् । एतद् । इदम्
-
-::: grammar-box
+:::grammar-box
 
 | | **Singular[[br]]Masculine[[br]]पुंस्** | **Singular[[br]]Neuter[[br]]नपुंसकम्** | **Singular[[br]]Feminine[[br]]स्त्री** | **Plural[[br]]Masculine[[br]]पुंस्** | **Plural[[br]]Neuter[[br]]नपुंसकम्** | **Plural[[br]]Feminine[[br]]स्त्री** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -553,9 +462,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **6. Genitive**[[br]]**६. षष्ठी** | तस्य || तस्यास् | तेषाम् || तासाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | तस्मिन् || तस्याम् | तेषु || तासु |
 
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | | Singular[[br]]एकवचनम् | | | Plural[[br]]बहुवचनम् | | |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -568,9 +475,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **6. Genitive**[[br]]**६. षष्ठी** | एतस्य || एतस्यास् | एतेषाम् || एतासाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | एतस्मिन् || एतस्याम् | एतेषु || एतासु |
 
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | | Singular[[br]]एकवचनम् | | | Plural[[br]]बहुवचनम् | | |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -583,11 +488,9 @@ Sai Baba of Shirdi (1835 - 1918).
 | **6. Genitive**[[br]]**६. षष्ठी** | अस्य || अस्यास् | एषाम् || आसाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | अस्मिन् || अस्याम् | एषु || आसु |
 
-:::
+:::### 27.7.13. Relative Pronoun: यद्
 
-### 27.7.13. Relative Pronoun: यद्
-
-::: grammar-box
+:::grammar-box
 
 | | **Singular[[br]]Masculine[[br]]पुंस्** | **Singular[[br]]Neuter[[br]]नपुंसकम्** | **Singular[[br]]Feminine[[br]]स्त्री** | **Plural[[br]]Masculine[[br]]पुंस्** | **Plural[[br]]Neuter[[br]]नपुंसकम्** | **Plural[[br]]Feminine[[br]]स्त्री** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -599,11 +502,9 @@ Sai Baba of Shirdi (1835 - 1918).
 | **6. Genitive**[[br]]**६. षष्ठी** | यस्य || यस्यास् | येषाम् || यासाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | यस्मिन् || यस्याम् | येषु || यासु |
 
-:::
+:::### 27.7.14. Interrogative Pronouns: किम्
 
-### 27.7.14. Interrogative Pronouns: किम्
-
-::: grammar-box
+:::grammar-box
 
 | | **Singular[[br]]Masculine[[br]]पुंस्** | **Singular[[br]]Neuter[[br]]नपुंसकम्** | **Singular[[br]]Feminine[[br]]स्त्री** | **Plural[[br]]Masculine[[br]]पुंस्** | **Plural[[br]]Neuter[[br]]नपुंसकम्** | **Plural[[br]]Feminine[[br]]स्त्री** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -615,16 +516,12 @@ Sai Baba of Shirdi (1835 - 1918).
 | **6. Genitive**[[br]]**६. षष्ठी** | कस्य || कस्यास् | केषाम् || कासाम् |
 | **7. Locative**[[br]]**७. सप्तमी** | कस्मिन् || कस्याम् | केषु || कासु |
 
-:::
-
-::: media
+::::::media
 ![](/images/lekt2717.webp)
 Fig.: कस्मात् ?
 Tsunami 2005, Sri Lanka.
 (Image source: [Details](/en/licenses#lekt2717))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 
 **lekt2701:** Jaipur, 1875. [Image source: Wikipedia. Public domain]

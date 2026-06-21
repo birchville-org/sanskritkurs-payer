@@ -29,19 +29,17 @@ Cine are înțelegere este eliberat de suferință; de aceea, cineva care doreș
 (मोहेन सहितः । शोभनं रूपं यासां ताः । वीतो मोहो यस्य सः । सम्पन्नं रूपं यस्याः सा)
 Un neștiutor se bucură de mâncare bună și femei frumoase. Cui i-a dispărut neștiința, nu pofteste nici mâncare bună, nici femeie cu corp desăvârșit. El anulează lăcomia și ura, și se concentrează pe înțelegere.
 
-::: media
+:::media
 ![](/images/uebung049.webp)
 Fig.: कुलबन्धनम्
 (Sursa imaginii: [Detalii](/licenses#uebung049))
-:::
-
----
+:::---
 
 ## Verbparadigmen (7. Klasse)
 
 B) Bilden Sie zu folgenden Wurzeln der 7. Klasse die 3. Personen Singular und Plural (P und Ā) des Indikativ und Optativ Präsens:
 
-::: grammar-box
+:::grammar-box
 
 ### १. **छिद्** (coloane)
 

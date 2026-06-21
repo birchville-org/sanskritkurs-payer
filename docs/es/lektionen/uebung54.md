@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Formen los correspondientes aoristos de las siguientes formas de presente o perfecto:
 
-::: grammar-box
+:::grammar-box
 | Núm. | Forma | Determinación / Significado | Aoristo |
 |:---|:---|:---|:---|
 | १. | **यन्ति** | ellos van | **अगुः** |
@@ -36,9 +36,7 @@ Formen los correspondientes aoristos de las siguientes formas de presente o perf
 | २१. | **जायते** | él nace | **अजनि** |
 | २२. | **गीयते** | se canta | **अगायि** |
 | २३. | **गम्यते** | se ha ido | **अगामि** |
-:::
-
-::: media
+::::::media
 ![](/images/uebung093.webp)
 Fig.: अगायि
 (Fuente de la imagen: [Detalles](/licenses#uebung093))

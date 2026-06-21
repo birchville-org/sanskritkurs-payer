@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Déterminez les formes suivantes :
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung |
 |:---|:---|:---|
 | १. | **गृहाणि** | *गृह* n. : Nom. Acc. Pl. n. |
@@ -52,15 +52,11 @@ Déterminez les formes suivantes :
 | ३७. | **बन्धनीय** | *बन्ध्* 9P : Gér. Voc. Sg. m. n. |
 | ३८. | **गायी** | *गायिन्* : Nom. Sg. m. |
 | ३९. | **मह्यम्** | *अहम्* : Dat. Sg. |
-:::
-
-::: media
+::::::media
 ![](/images/uebung078.webp)
 Fig. : गायी
 (Source de l'image : [Détails](/fr/licenses#uebung078))
-:::
-
----
+:::---
 
 ## बाण (७. siècle après J.-C.) : कादम्बरी
 
@@ -74,7 +70,7 @@ Questions du roi **शूद्रक** de **विदिशा** au perroquet *
 >
 > Vaiśampāyana, interrogé par le seigneur de la Terre avec une curiosité spontanée et un grand respect, réfléchit un instant, puis répondit avec une grande déférence : « Roi, c’est une longue histoire. Si cela vous intéresse, prêtez-moi votre oreille ! »
 
-::: media
+:::media
 ![](/images/uebung079.webp)
 Légende : शुकः
 (Source de l’image : [Détails](/fr/licenses#uebung079))

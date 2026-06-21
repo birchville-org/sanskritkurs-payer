@@ -11,15 +11,13 @@ status: stable
 
 ## 57.1. Aorist 4: s-Aorist
 
-::: grammar-box
+:::grammar-box
 **Aoristul s se formează pentru cele mai multe rădăcini अनिट्, cu excepția cazului în care acestea au exclusiv o altă formă de aorist. Rădăcinile facultative अनिट् pot, în general, să formeze opțional acest aorist sau aoristul iṣ. De asemenea, rădăcinile अनिट्, care formează परस्मैपद după forma 1., 2. sau 6. a aoristului, formează आत्मनेपद conform aoristului s.**
 
 **Formare: Augment + Rădăcină + s + desinență secundară atematică**
-:::
+:::Tabela desinențelor cu sufixul de formare a temei
 
-Tabela desinențelor cu sufixul de formare a temei
-
-::: grammar-box
+:::grammar-box
 
 |   | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -27,32 +25,24 @@ Tabela desinențelor cu sufixul de formare a temei
 | **1. तृतीयः** | -sam | -sma | -si | -smahi |
 | **2. द्वितीयः** | ***-sīs*** | -sta | -sthās | ***-dhvam*** |
 | **3. प्रथमः** | ***-sīt*** | -sur | -sta | -sata |
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **Se aplică legea generală a foneticii conform căreia un sunet sibilant dispare între două consoante ocluzive (vezi उद् + स्थित » उत्थित), adică sufixul de formare a temei -s- dispare înainte de desinențe care încep cu -t- sau -th- (dar nu după nazale sau r-).**
 
 Exemple:
 
-::: indent
+:::indent
 3.sg.Ā a-kṣip + s + ta » अ***क्षिप्त***
 2.sg.Ā a-kṣip + s + thās » अ***क्षिप्था***स्
-:::
+:::Suche forme ar putea aparține, de asemenea, aoristului de rădăcină și probabil aparțin parțial acelui tip.
+::::Gramaticienii indieni au numărat, de asemenea, forme precum अकृत (3.sg.Ā) la aoristul s, care aparțin clar aoristului de rădăcină. În acest scop, gramaticienii indieni au inventat următoarea regulă fonetică ad-hoc pentru aoristul s:
 
-Suche forme ar putea aparține, de asemenea, aoristului de rădăcină și probabil aparțin parțial acelui tip.
-::::
-
-Gramaticienii indieni au numărat, de asemenea, forme precum अकृत (3.sg.Ā) la aoristul s, care aparțin clar aoristului de rădăcină. În acest scop, gramaticienii indieni au inventat următoarea regulă fonetică ad-hoc pentru aoristul s:
-
-::: indent
+:::indent
 "După vocale scurte, desinențele care încep cu -st- sau -sth- pierd -s-."
-:::
-
-În rest, trebuie respectate regulile fonetice pentru conexiunea consoanelor finale cu s-.
+:::În rest, trebuie respectate regulile fonetice pentru conexiunea consoanelor finale cu s-.
 
 Pentru -dhvam valabil:
 
-:::: grammar-box
+::::grammar-box
 **Forma rădăcinii:**
 
 *   **परस्मैपद : Stadiul lung**
@@ -61,9 +51,7 @@ Pentru -dhvam valabil:
     *   **-ṝ final este înlocuit cu -īr sau -ūr**
     *   **Rădăcini cu ablație pe ā/e/o: Stadiul scăzut**
     *   **alte vocale de rădăcină: neschimbate (adică, de regulă, în stadiul scăzut)**
-:::
-
-Exemple:
+:::Exemple:
 
 |   | **3.sg.P** |
 | --- | --- |
@@ -85,21 +73,16 @@ Exemple:
 | कृ 8U | अकृषि |
 | पच् 1U | अपक्षि |
 
-:::: grammar-box
+::::grammar-box
 **दृश् și सृज् au în परस्मैपद stadiul lung cu diphtong crescător -rā-:**
 
-::: indent
+:::indent
 दृश् 3.sg.P अ***द्राक्षी***त्
-:::
+:::Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
-
-::: indent
+:::indent
 कृष् 1P/6U 3.sg.P अकार्क्षीत् / अ***क्राक्षी***त्
-:::
-::::
-
-Paradigme:
+:::::::Paradigme:
 
 नी 1U "a conduce"
 
@@ -111,12 +94,11 @@ Paradigme:
 | **2. द्वितीयः** | अनैषीस् | अनैष्ट | अनेष्ठास् | अने***ढ्वम्*** |
 | **3. प्रथमः** | अनैषीत् | अनैषुर् | नेष्ट | अनेषत |
 
-::: media
+:::media
 ![](/images/lekt5701.webp)
 Fig.: भीमराव रामजी आंबेडकर (१८९१ १९५६) । सो ऽनैषीद्दलितान् ॥
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5701))
-:::
-कृ 8U „a face“
+:::कृ 8U „a face“
 
 |   | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -134,7 +116,7 @@ Fig.: भीमराव रामजी आंबेडकर (१८९१ १
 | **2. द्वितीयः** | अतौत्सीस् | अतौत्त[[br]]din: a-taut + s + ta | अतुत्थास् | अतुद्ध्वम् |
 | **3. प्रथमः** | अतौत्सीत् | अतौत्सुर् | अतुत्त | अतुत्सत |
 
-::: grammar-box
+:::grammar-box
 **Forme neregulate:**
 
 **1. Rădăcinile cu nasal (गम्, मन्, रम्) formează aoristul s cu grad intens:**
@@ -147,9 +129,7 @@ Fig.: भीमराव रामजी आंबेडकर (१८९१ १
 
 3.  बुध् Ā poate lua opțional la 3.sg.Ā forma aoristului de rădăcină pasiv:
     अबोधि / अबुद्ध „a recunoscut“
-:::
-
-## 57.2. Exercițiu
+:::## 57.2. Exercițiu
 
 A) Traduceți și determinați fără mijloace auxiliare următoarele forme și formați corespunzătoarele forme de aorist. În afară de cauzative și rădăcini care formează aoristul cu s, clasa aoristului corespunzător este indicată între paranteze:
 
@@ -238,7 +218,7 @@ B) Traduceți și determinați următoarele forme:
 55.  पाणी
 56.  अस्प्राक्षम्
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt5701:** [Sursă imagine: Wikipedia. Domeniu public]
 

@@ -9,44 +9,36 @@ status: stable
 
 # Leçon 3
 
-::: deleteme-box
+:::deleteme-box
 **Dans cette leçon, vous apprendrez :**
 - le nominatif singulier du féminin
 - le nominatif pluriel du masculin et du féminin
 - la formation du féminin à partir des masculins
 - le sandhi vocalique
 - Sandhi de phrase de -ās
-:::
-
-## 3.1. Singulier du nominatif du féminin
+:::## 3.1. Singulier du nominatif du féminin
 
 ### 3.1.1. Nominatif singulier en -s
 
 Les racines nominales suivantes, qui se terminent par une voyelle, forment le nominatif singulier en **-s** :
 
-::: grammar-box
+:::grammar-box
 - **Féminins en -i** : par ex. **śruti** f. "l'écoute" -- Nom. sg. : **śrutis** = श्रुतिस्
 - **Féminins en -u** : par ex. **dhenu** f. "vache laitière" -- Nom. sg. : **dhenus** = धेनुस्
-:::
-
-### 3.1.2. Nominatif singulier sans terminaison
+:::### 3.1.2. Nominatif singulier sans terminaison
 
 Le nominatif singulier se forme sans terminaison :
 
-::: grammar-box
+:::grammar-box
 - **Féminins en -ā** : par ex. **devatā** f. « divinité » -- Nom. sg. : **devatā** = देवता
 - **Féminins en -ī** : par ex. **devī** f. « déesse » -- Nom. sg. : **devī** = देवी
-:::
-
-::: important
+::::::important
 **Attention !** Il existe également des noms racinaux féminins monosyllabiques en -ī, dont le nominatif singulier se termine par -s : par ex. dhī f. « pensée » -- Nom. sg. : dhīs = धीस्. De même, lakṣmī (लक्ष्मी) f., tarī (तरी) f. « bateau » et tantrī (तन्त्री) f. « corde » forment irrégulièrement le nominatif singulier en -s : lakṣmīs = लक्ष्मीस्.
-:::
-
----
+:::---
 
 ## 3.2. Formation des féminins à partir des masculins
 
-::: grammar-box
+:::grammar-box
 **Masculins en -a :**
 - **Féminin en -ā** : par ex. **kṣatriya** m. » **kṣatriyā** f. « Femme kṣatriya » = क्षत्रिया
 - **Féminin en -ī** : par ex. **brāhmaṇa** m. » **brāhmaṇī** f. « Brahmane femme » = ब्राह्मणी
@@ -54,13 +46,11 @@ Le nominatif singulier se forme sans terminaison :
 **Masculins en -u :**
 - **Féminin en -ī** : par ex. **sādhu** m. » **sādhvī** f. (bon, sainte) = साध्वी
   (**-u-** devient **-v-** devant une voyelle, donc **-u- + -ī** » **-vī**)
-:::
-
----
+:::---
 
 ## 3.3. Nominatif pluriel masculin et féminin
 
-::: grammar-box
+:::grammar-box
 La terminaison du nominatif pluriel au masculin et au féminin est **-as**.
 - **Masculins en -a** : **deva- + -as** » **devās** = देवास्
 - **Féminins en -ā** : **devatā- + -as** » **devatās** = देवतास्
@@ -69,23 +59,19 @@ La terminaison du nominatif pluriel au masculin et au féminin est **-as**.
 - **Féminins en -ī** : **devī- + -as** » **devyas** = देव्यस्
 - **Masculins en -u** : **guru-** » **guro- + -as** » **guravas** = गुरवस्
 - **Féminins en -u** : **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्
-:::
-
-Remarque : **e** est le degré renforcé (**guṇa**) de **i**, **o** est le degré renforcé de **u**.
+:::Remarque : **e** est le degré renforcé (**guṇa**) de **i**, **o** est le degré renforcé de **u**.
 
 ---
 
 ## 3.4. Sandhi vocalique
 
-::: grammar-box
+:::grammar-box
 **Les voyelles simples qui ne diffèrent pas ou seulement par leur longueur « fusionnent » en la voyelle longue correspondante :**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
-:::
-
-p. ex.
+:::p. ex.
 
 devatā + annapūrṇā » devatānnapūrṇā « Annapūrṇā est une divinité » = देवतान्नपूर्णा
 
@@ -95,42 +81,34 @@ devī + indrāṇī » devīndrāṇī « Indrāṇī est une déesse » = द�
 
 > (Indrāṇī est l’épouse du dieu Indra.)
 
-::: media
+:::media
 ![](/images/lekt0301.webp)
 Fig. : Indra et Indrāṇī sur l’éléphant Airavata, miniature, Rājasthān, 1670/80
 (Source de l’image : [Détails](/fr/licenses#lekt0301))
-:::
-
-::: grammar-box
+::::::grammar-box
 **Les voyelles simples (sauf -a / -ā) sont remplacées, devant une voyelle dissemblable, par le semi-voyant correspondant :**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
 (!! Des exceptions à cette règle existent, en particulier pour les formes du duel !!)
-:::
-
-p. ex.
+:::p. ex.
 
 devī + umā » devy umā « Umā est une / la déesse » = देव्युमा
 
 > (Umā est un nom de Pārvatī, l’épouse de Śiva)
 
-::: grammar-box
+:::grammar-box
 **-a / -ā devant une voyelle dissemblable :**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
-:::
+:::Pour ce sandhi, le schéma suivant s’applique donc :
 
-Pour ce sandhi, le schéma suivant s’applique donc :
-
-::: media
+:::media
 ![](/images/lekt0302.jpg)
 (Source de l’image : [Détails](/fr/licenses#lekt0302))
-:::
-
-Voir plus loin pour cette soi-disant alternance de racine !
+:::Voir plus loin pour cette soi-disant alternance de racine !
 
 p. ex.
 
@@ -140,11 +118,9 @@ p. ex.
 
 ## 3.5. Sandhi de phrase de -ās
 
-::: grammar-box
+:::grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
-:::
-
-par exemple
+:::par exemple
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ « Les Vaiśyas sont des deux fois nés » = द्विजा वैश्याः
 
@@ -193,13 +169,11 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ « Les Vaiśyas sont des deux fois n
 
 **devī** f. = देवी : Déesse, en particulier Durgā f. = दुर्गा, l'épouse de Śiva = शिव.
 
-::: media
+:::media
 ![](/images/lekt0303.webp)
 Fig. : Durgā = दुर्गा, Orissa
 (Source de l'image : [Détails](/images/lekt0303))
-:::
-
-**sādhvī** f. = साध्वी : fém. de sādhu.
+:::**sādhvī** f. = साध्वी : fém. de sādhu.
 
 **gurvī** f. = गुर्वी : fém. de guru.
 

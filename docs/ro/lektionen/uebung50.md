@@ -55,13 +55,11 @@ A) Pentru repetarea declinării: Următorul vers conține toate formele de decli
 
 > O familie în care soțul este întotdeauna mulțumit de soție, iar soția de soț, în astfel de familii fericirea este garantată.
 
-::: media
+:::media
 ![](/images/uebung081.webp)
 Fig.: संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च । यस्मिन्नेव कुले नित्यम् कल्याणं तत्र वै ध्रुवम् ॥
 (Sursa imaginii: [Detalii](/licenses#uebung081))
-:::
-
----
+:::---
 
 ### मनुस्मृति ३, ७५ - ७६: Despre necesitatea jertfei
 
@@ -77,13 +75,11 @@ Fig.: संतुष्टो भार्यया भर्ता भर्�
 
 > Să se angajeze întotdeauna în studierea Vedei și în riturile pentru zei. Căci cine se angajează în riturile pentru zei, acesta obține această lume formată din vie și nevie. Jertfa, aruncată în mod corespunzător în foc, merge la Soare, din Soare se naște ploaia, din ploaie hrana, iar din aceasta ființele.
 
-::: media
+:::media
 ![](/images/uebung082.webp)
 Ilustr.: दैवे कर्मणि युक्तो हि बिभर्तीदं चराचरम् ॥
 (Sursa imaginii: [Detalii](/licenses#uebung082))
-:::
-
----
+:::---
 
 ### योगसूत्र २, १६ - १७
 

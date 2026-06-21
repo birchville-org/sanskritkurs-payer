@@ -11,189 +11,155 @@ status: stable
 
 ## 59.1. Terminările secundare și terminările imperativului la dual (द्विवचनम्)
 
-::: grammar-box
+:::grammar-box
 |   | **परस्मैपदम्** || **आत्मनेपदम्** |||
 | :--- | :---: | :---: | :---: | :---: | :---: |
 |   | secundar | Imperativ (लोट्) | secundar tematic | secundar atematic[[br]]Optativ (विधिलिङ्) | Imperativ (लोट्) |
 | **1. तृतीयः** | -va | -āva | -vahi || -āvahai |
 | **2. मध्यमः** | -tam[[br]]-tām || -īthām | -āthām | -īthām / āthām |
 | **3. प्रथमः** | ^^ || -ītām | -ātām | -ītām / -ātām |
-:::
+:::## 59.2. Dualul claselor de prezent tematic: Optativul (विधिलिङ्), Imperfectul (लङ्), Imperativul (लोट्)
 
-## 59.2. Dualul claselor de prezent tematic: Optativul (विधिलिङ्), Imperfectul (लङ्), Imperativul (लोट्)
-
-::: grammar-box
+:::grammar-box
 **Înainte de -va și -vahi, vocala tematică -a- este înlocuită cu -ā-.**
-:::
-
-### 59.2.1. Prima clasă de prezent (भ्वादिगणः)
+:::### 59.2.1. Prima clasă de prezent (भ्वादिगणः)
 
 भू 1P "a fi, a deveni"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | भवेव | &lt;भवेवहि&gt; |
 | 2\. मध्यमः | भवेतम् | &lt;भवेयाथाम्&gt; |
 | 3\. प्रथमः | भवेताम् | &lt;भवेयाताम्&gt; |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अभवाव | &lt;अभवावहि&gt; |
 | 2\. मध्यमः | अभवतम् | &lt;अभवेथाम्&gt; |
 | 3\. प्रथमः | अभवताम् | &lt;भभवेताम्&gt; |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | भवाव | &lt;भवावहै&gt; |
 | 2\. मध्यमः | भवतम् | &lt;भवेथाम्&gt; |
 | 3\. प्रथमः | भवताम् | &lt;भवेताम्&gt; |
-:::
-
-### 59.2.2. A patra clasă de prezent (दिवादिगणः)
+:::### 59.2.2. A patra clasă de prezent (दिवादिगणः)
 
 नृत् 4P "a dansa"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | नृत्येव | &lt;नृत्येवहि&gt; |
 | 2\. मध्यमः | नृत्येतम् | &lt;नृत्येयाथाम्&gt; |
 | 3\. प्रथमः | नृत्येताम् | &lt;नृत्येयाताम्&gt; |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अनृत्याव | &lt;अनृत्यावहि&gt; |
 | 2\. मध्यमः | अनृत्यतम् | &lt;अनृत्येथाम्&gt; |
 | 3\. प्रथमः | अनृत्यताम् | &lt;नृत्येताम्&gt; |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | नृत्याव | &lt;नृत्यावहै&gt; |
 | 2\. मध्यमः | नृत्यतम् | &lt;नृत्येथाम्&gt; |
 | 3\. प्रथमः | नृत्यताम् | &lt;नृत्येताम्&gt; |
-:::
-
-### 59.2.3. A șasea clasă de prezent (तुदादिगणः)
+:::### 59.2.3. A șasea clasă de prezent (तुदादिगणः)
 
 तुद् 6U "a împinge, a lovi"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | तुदेव | तुदेवहि |
 | 2\. मध्यमः | तुदेतम् | तुदेयाथाम् |
 | 3\. प्रथमः | तुदेताम् | तुदेयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अतुदाव | अतुदावहि |
 | 2\. मध्यमः | अतुदतम् | अतुदेथाम् |
 | 3\. प्रथमः | अतुदताम् | अतुदेताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | तुदाव | तुदावहै |
 | 2\. मध्यमः | तुदतम् | तुदेथाम् |
 | 3\. प्रथमः | तुदताम् | तुदेताम् |
-:::
-
-### 59.2.4. A zecea clasă de prezent (चुरादिगणः) și cauzative (णिजन्त)
+:::### 59.2.4. A zecea clasă de prezent (चुरादिगणः) și cauzative (णिजन्त)
 
 चुर् 10U "a fura"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | चोरयेव | चोरयेवहि |
 | 2\. मध्यमः | चोरयेतम् | चोरयेयाथाम् |
 | 3\. प्रथमः | चोरयेताम् | चोरयेयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अचोरयाव | अचोरयावहि |
 | 2\. मध्यमः | अचोरयतम् | अचोरयेथाम् |
 | 3\. प्रथमः | अचोरयताम् | अचोरयेताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | चोरयाव | चोरयावहै |
 | 2\. मध्यमः | चोरयतम् | चोरयेथाम् |
 | 3\. प्रथमः | चोरयताम् | चोरयेताम् |
-:::
-
-### 59.2.5. Pasivul (Sufixul -यक्)
+:::### 59.2.5. Pasivul (Sufixul -यक्)
 
 तुद् 6U "a împinge, a lovi"
 
 Optativul (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 | 1\. तृतीयः | तुद्येवहि |
 | --- | --- |
 | 2\. मध्यमः | तुद्येयाथाम् |
 | 3\. प्रथमः | तुद्येयाताम् |
-:::
+:::Imperfectul (लङ्)
 
-Imperfectul (लङ्)
-
-::: grammar-box
+:::grammar-box
 | 1\. तृतीयः | अतुद्यावहि |
 | --- | --- |
 | 2\. मध्यमः | अतुद्येथाम् |
 | 3\. प्रथमः | अतुद्येताम् |
-:::
+:::Imperativul (लोट्)
 
-Imperativul (लोट्)
-
-::: grammar-box
+:::grammar-box
 | 1\. तृतीयः | तुद्यावहै |
 | --- | --- |
 | 2\. मध्यमः | तुद्येथाम् |
 | 3\. प्रथमः | तुद्येताम् |
-:::
-
-## 59.3. Dualul claselor de prezent atematic: Optativul (विधिलिङ्), Imperfectul (लङ्), Imperativul (लोट्)
+:::## 59.3. Dualul claselor de prezent atematic: Optativul (विधिलिङ्), Imperfectul (लङ्), Imperativul (लोट्)
 
 ### 59.3.1. A doua clasă de prezent (अदादिगणः)
 
@@ -201,573 +167,471 @@ Imperativul (लोट्)
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | द्विष्याव | द्विषीवहि |
 | 2\. मध्यमः | द्विष्यातम् | द्विषीयाथाम् |
 | 3\. प्रथमः | द्विष्याताम् | द्विषीयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अद्विष्व | अद्विष्वहि |
 | 2\. मध्यमः | अद्विष्टम् | अद्विषाथाम् |
 | 3\. प्रथमः | अद्विष्टाम् | अद्विषाताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | द्वेषाव | द्वेषावहै |
 | 2\. मध्यमः | द्विष्टम् | द्विषाथाम् |
 | 3\. प्रथमः | द्विष्टाम् | द्विषाताम् |
-:::
-
-दुह् 2U "a mulge"
+:::दुह् 2U "a mulge"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | दुह्याव | दुहीवहि |
 | 2\. मध्यमः | दुह्यातम् | दुहीयाथाम् |
 | 3\. प्रथमः | दुह्याताम् | दुहीयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अदुह्व | अदुह्वहि |
 | 2\. मध्यमः | अदुग्धम् | अदुहाथाम् |
 | 3\. प्रथमः | अदुग्धाम् | अदुहाताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | दोहाव | दोहावहै |
 | 2\. मध्यमः | दुग्धम् | दुहाथाम् |
 | 3\. प्रथमः | दुग्धाम् | दुहाताम् |
-:::
-
-इ 2P "a merge"
+:::इ 2P "a merge"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | इयाव |
 | 2\. मध्यमः | इयातम् |
 | 3\. प्रथमः | इयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | ऐव |
 | 2\. मध्यमः | ऐतम् |
 | 3\. प्रथमः | ऐताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | अयाव |
 | 2\. मध्यमः | इतम् |
 | 3\. प्रथमः | इताम् |
-:::
-
-इ + अधि 2Ā "a studia"
+:::इ + अधि 2Ā "a studia"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | आत्मनेपदम् |
 | --- | --- |
 | 1\. तृतीयः | अधीयीवहि |
 | 2\. मध्यमः | अधीयीयाथाम् |
 | 3\. प्रथमः | अधीयीयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | आत्मनेपदम् |
 | --- | --- |
 | 1\. तृतीयः | अध्यैवहि |
 | 2\. मध्यमः | अध्यैयाथाम् |
 | 3\. प्रथमः | अध्यैयाताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | आत्मनेपदम् |
 | --- | --- |
 | 1\. तृतीयः | अध्यैयावहै |
 | 2\. मध्यमः | अधीयाथाम् |
 | 3\. प्रथमः | अधीयाताम् |
-:::
-
-हन् 2P "a omorî"
+:::हन् 2P "a omorî"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | हन्याव |
 | 2\. मध्यमः | हन्यातम् |
 | 3\. प्रथमः | हन्याताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | अहन्व |
 | 2\. मध्यमः | अहतम्   |
 | \*a-hn-tam | | |
 | 3\. प्रथमः | अहताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | हनाव |
 | 2\. मध्यमः | हतम् |
 | 3\. प्रथमः | हताम् |
-:::
-
-अस् 2P "a fi"
+:::अस् 2P "a fi"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | स्याव |
 | 2\. मध्यमः | स्यातम् |
 | 3\. प्रथमः | स्याताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | आस्व |
 | 2\. मध्यमः | आस्तम् |
 
 | 3\. प्रथमः | आस्ताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | असाव |
 | 2\. मध्यमः | स्तम् |
 | 3\. प्रथमः | स्ताम् |
-:::
-
-### 59.3.2. A treia clasă de prezente (जुहोत्यादिगणः)
+:::### 59.3.2. A treia clasă de prezente (जुहोत्यादिगणः)
 
 हु 3P "a turna în focul jertfei"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | जुहुयाव | &lt;जुह्वीवहि&gt; |
 | 2\. मध्यमः | जुहुयातम् | &lt;जुह्वीयाथाम्&gt; |
 | 3\. प्रथमः | जुहुयाताम् | &lt;जुह्वीयाताम्&gt; |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अजुहुव | &lt;अजुहुवहि&gt; |
 | 2\. मध्यमः | अजुहुतम् | &lt;अजुह्वाथाम्&gt; |
 | 3\. प्रथमः | अजुहुताम् | &lt;अजुह्वाताम्&gt; |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | जुहवाव | &lt;जुहवावहै&gt; |
 | 2\. मध्यमः | जुहुतम् | &lt;जुह्वाथाम्&gt; |
 | 3\. प्रथमः | जुहुताम् | &lt;जुह्वाताम्&gt; |
-:::
-
-धा 3U "a așeza, a pune, a sta"
+:::धा 3U "a așeza, a pune, a sta"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | दध्याव | दधीवहि |
 | 2\. मध्यमः | दध्यातम् | दधीयाथाम् |
 | 3\. प्रथमः | दध्याताम् | दधीयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अदध्व | अदध्वहि |
 | 2\. मध्यमः | अधत्तम् | अदधाथाम् |
 | 3\. प्रथमः | अधत्ताम् | अदधाताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | दधाव | दधावहै   |
 | da-dhā + āvahai | | | |
 | 2\. मध्यमः | धत्तम् | दधाथाम् |
 | 3\. प्रथमः | धत्ताम् | दधाताम् |
-:::
-
-### 59.3.3. A cincea clasă de prezente (स्वादिगणः)
+:::### 59.3.3. A cincea clasă de prezente (स्वादिगणः)
 
 सु 5U „a stoarce”
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | सुनुयाव | सुन्वीवहि |
 | 2\. मध्यमः | सुनुयातम् | सुन्वीयाथाम् |
 | 3\. प्रथमः | सुनुयाताम् | सुन्वीयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | असुनुव / असुन्व | असुनुवहि / असुन्वहि |
 | 2\. मध्यमः | असुनुतम् | असुन्वाथाम् |
 | 3\. प्रथमः | असुनुताम् | असुन्वाताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | सुनवाव | सुनवावहै |
 | 2\. मध्यमः | सुनुतम् | सुन्वाथाम् |
 | 3\. प्रथमः | सुनुताम् | सुन्वाताम् |
-:::
-
-### 59.3.4. A optima clasă de prezente (तनादिगणः)
+:::### 59.3.4. A optima clasă de prezente (तनादिगणः)
 
 तन् 8U "a întinde"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | तनुयाव | तन्वीवहि |
 | 2\. मध्यमः | तनुयातम् | तन्वीयाथाम् |
 | 3\. प्रथमः | तनुयाताम् | तन्वीयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अतनुव / अतन्व | अतनुवहि / अतन्वहि |
 | 2\. मध्यमः | अतनुतम् | अतन्वाथाम् |
 | 3\. प्रथमः | अतनुताम् | अतन्वताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | तनवाव | तनवावहै |
 | 2\. मध्यमः | तनुतम् | तन्वाथाम् |
 | 3\. प्रथमः | तनुताम् | तन्वाताम् |
-:::
-
-कृ 8U "a face, a executa"
+:::कृ 8U "a face, a executa"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | कुर्याव | कुर्वीवहि |
 | 2\. मध्यमः | कुर्यातम् | कुर्वीयाथाम् |
 | 3\. प्रथमः | कुर्याताम् | कुर्वीयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अकुर्व | अकुर्वहि |
 | 2\. मध्यमः | अकुरुतम् | अकुर्वाथाम् |
 | 3\. प्रथमः | अकुरुताम् | अकुर्वाताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | करवाव | करवावहै |
 | 2\. मध्यमः | कुरुतम् | कुर्वाथाम् |
 | 3\. प्रथमः | कुरुताम् | कुर्वाताम् |
-:::
-
-### 59.3.5. A șaptea clasă de prezent (रुधादिगणः)
+:::### 59.3.5. A șaptea clasă de prezent (रुधादिगणः)
 
 रुध् 7U "opri"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | रुन्ध्याव | रुन्धीवहि |
 | 2\. मध्यमः | रुन्ध्यातम् | रुन्धीयाथाम् |
 | 3\. प्रथमः | रुन्ध्याताम् | रुन्धीयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अरुन्ध्व | अरुन्ध्वहि |
 | 2\. मध्यमः | अरुन्द्धम् | अरुन्धाथाम् |
 | 3\. प्रथमः | अरुन्द्धाम् | अरुन्धाताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | रुणधाव | रुणधावहै |
 | 2\. मध्यमः | रुन्द्धम् | रुन्धाथाम् |
 | 3\. प्रथमः | रुन्द्धाम् | रुन्धाताम् |
-:::
-
-युज् 7U "legă"
+:::युज् 7U "legă"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | युञ्ज्याव | युञ्जीवहि |
 | 2\. मध्यमः | युञ्ज्यातम् | युञ्जीयाथाम् |
 | 3\. प्रथमः | युञ्ज्याताम् | युञ्जीयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अयुञ्ज्व | युञ्ज्वहि |
 | 2\. मध्यमः | अयुङ्क्तम् | अयुञ्जाथाम् |
 | 3\. प्रथमः | अयुङ्क्ताम् | युञ्जाताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | युनजाव | युनजावहै |
 | 2\. मध्यमः | युङ्क्तम् | युञ्जाथाम् |
 | 3\. प्रथमः | युङ्क्ताम् | युञ्जाताम् |
-:::
-
-### 59.3.6. A noua clasă de prezente (क्र्यादिगणः)
+:::### 59.3.6. A noua clasă de prezente (क्र्यादिगणः)
 
 क्री 9U "a cumpăra"
 
 Optativ (विधिलिङ्)
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | क्रीणीयाव | क्रीणीवहि[[br]]krī + n + ī + vahi |
 | 2\. मध्यमः | क्रीणीयातम् | क्रीणीयाथाम् |
 | 3\. प्रथमः | क्रीणीयाताम् | क्रीणीयाताम् |
-:::
+:::Imperfect (लङ्)
 
-Imperfect (लङ्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अक्रीणीव | अक्रीणीवहि |
 | 2\. मध्यमः | अक्रीणीतम् | अक्रीणाथाम् |
 | 3\. प्रथमः | अक्रीणीताम् | अक्रीणाताम् |
-:::
+:::Imperativ (लोट्)
 
-Imperativ (लोट्)
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | क्रीणाव | क्रीणावहै |
 | 2\. मध्यमः | क्रीणीतम् | क्रीणाथाम् |
 | 3\. प्रथमः | क्रीणीताम् | क्रीणाताम् |
-:::
-
-## 59.4. Dual (द्विवचनम्) Aorist (लुङ्)
+:::## 59.4. Dual (द्विवचनम्) Aorist (लुङ्)
 
 ### 59.4.1. Aoristul rădăcinii
 
 पा 1P "a bea"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् |
 | --- | --- |
 | 1\. तृतीयः | अपाव |
 | 2\. मध्यमः | अपातम् |
 | 3\. प्रथमः | अपाताम् |
-:::
-
-### 59.4.2. a-aorist
+:::### 59.4.2. a-aorist
 
 सिच् 6U "udnă"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | असिचाव | असिचावहि |
 | 2\. मध्यमः | असिचतम् | असिचेथाम् |
 | 3\. प्रथमः | असिचताम् | असिचेताम् |
-:::
-
-### 59.4.3. Aorist cu reduplicare
+:::### 59.4.3. Aorist cu reduplicare
 
 श्रि 1U "a se deplasa către"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अशिश्रियाव | अशिश्रियावहि |
 | 2\. मध्यमः | अशिश्रियतम् | अशिश्रियेथाम् |
 | 3\. प्रथमः | शिश्रियताम् | अशिश्रियेताम् |
-:::
-
-### 59.4.4. s-aorist
+:::### 59.4.4. s-aorist
 
 नी 1U "a conduce"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अनैष्व | अनेष्वहि |
 | 2\. मध्यमः | अनैष्टम् | अनेषाथाम् |
 | 3\. प्रथमः | अनैष्टाम् | अनेषाताम् |
-:::
+:::तुद् 6U "a împinge"
 
-तुद् 6U "a împinge"
-
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अतौत्स्व | अतुत्स्वहि |
 | 2\. मध्यमः | अतौत्तम्   | |
 | a-taut+s+tam | अतुत्साथाम् | | |
 | 3\. प्रथमः | अतौत्ताम् | अतित्साताम् |
-:::
-
-### 59.4.5. Aoristul iṣ
+:::### 59.4.5. Aoristul iṣ
 
 पू 9U "a curăța"
 
-::: grammar-box
+:::grammar-box
 |   | परस्मैपदम् | आत्मनेपदम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अपाविष | अपविष्वहि |
 | 2\. मध्यमः | अपाविष्टम् | अपविषाथाम् |
 | 3\. प्रथमः | पाविष्टाम् | अपविषाताम् |
-:::
+:::## 59.5. Aoristul (लुङ्) 6: Aoristul siṣ- (doar P)
 
-## 59.5. Aoristul (लुङ्) 6: Aoristul siṣ- (doar P)
-
-::: grammar-box
+:::grammar-box
 **În P, toate rădăcinile pe -ā, -e, -o, -ai, care nu sunt limitate la 1., 2. sau 3. Aorist, formează aoristul siṣ-, precum și unele alte rădăcini, printre care नम्, यम्, रम्. În Ā, toate aceste rădăcini formează aoristul s.**
 
 **Formare:**
 
 **Augment + rădăcină la gradul maxim + s + i + ṣ + terminație secundară atematică (ca la aoristul iṣ-)**
-:::
+:::Sufixul de formare a temei + terminațiile aoristului siṣ- sunt deci:
 
-Sufixul de formare a temei + terminațiile aoristului siṣ- sunt deci:
-
-::: grammar-box
+:::grammar-box
 |   | **परस्मैपदम्** |||
 | :--- | :---: | :---: | :---: |
 |   | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** |
 | **1. तृतीयः** | **-siṣam** | **-siṣva** | **-siṣma** |
 | **2. द्वितीयः** | ***-sīs*** | **-siṣṭam** | **-siṣṭa** |
 | **3. प्रथमः** | ***-sīt*** | **-siṣṭām** | **-siṣur** |
-:::
-
-Paradigmă:
+:::Paradigmă:
 
 या P2 "a merge"
 
-::: indent
+:::indent
 |   | **परस्मैपदम्** |||
 | :--- | :---: | :---: | :---: |
 |   | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** |
 | **1. तृतीयः** | अयासिषम् | अयासिष्व | अयासिष्म |
 | **2. द्वितीयः** | ***अयासीस्*** | अयासिष्टम् | अयासिष्ट |
 | **3. प्रथमः** | ***अयासीत्*** | अयासिष्टाम् | अयासिषुर् |
-:::
+:::## 59.6. Aoristul (लुङ्) 7: aoristul sa- (aorist tematic cu s)
 
-## 59.6. Aoristul (लुङ्) 7: aoristul sa- (aorist tematic cu s)
-
-::: grammar-box
+:::grammar-box
 **Majoritatea rădăcinilor अनिट् care se termină în -ś, -ṣ sau -h și care au pe poziția penultimă i, u sau ṛ formează aoristul sa-. Rădăcinile facultative अनिट् de această structură pot forma opțional fie aoristul sa-, fie aoristul iṣ-.**
 
 **Formare:**
@@ -775,52 +639,42 @@ Paradigmă:
 **Augment + rădăcină la gradul redus + s + a + terminație secundară tematică**
 
 **Persoanele 1.sg.2.3.du.Ā se formează de la aoristul s-, adică atermatic.**
-:::
+:::Sufixul de formare a temei + terminațiile aoristului sa- sunt deci:
 
-Sufixul de formare a temei + terminațiile aoristului sa- sunt deci:
-
-::: grammar-box
+:::grammar-box
 |   | **परस्मैपदम्** ||| **आत्मनेपदम्** |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** |
 | **1. तृतीयः** | **-sam** | **-sāva** | **-sāma** | ***-si*** | **-sāvahī** | **-sāmahi** |
 | **2. द्वितीयः** | **-sas** | **-satam** | **-sata** | **-sathās** | ***-sāthām*** | **-sadhvam** |
 | **3. प्रथमः** | **-sat** | **-satām** | **-san** | **-sata** | ***-sātām*** | **-santa** |
-:::
-
-Conjugare:
+:::Conjugare:
 
 दिश् 6U "a arăta"
 
-::: indent
+:::indent
 |   | **परस्मैपदम्** ||| **आत्मनेपदम्** |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** |
 | **1. तृतीयः** | अदिक्षम् | अदिक्षाव | अदिक्षाम | ***अदिक्षि*** | अदिक्षावहि | अदिक्षामहि |
 | **2. द्वितीयः** | अदिक्षस् | अदिक्षतम् | अदिक्षत | अदिक्षथास् | ***अदिक्षाथाम्*** | अदिक्षध्वम् |
 | **3. प्रथमः** | अदिक्षत् | अदिक्षताम् | अदिक्षन् | अदिक्षत | ***अदिक्षाताम्*** | अदिक्षन्त |
-:::
-
-::: grammar-box
+::::::grammar-box
 **Particularități:**
 
 **Puține rădăcini care se termină în -h (गुह्, दिह्, दुह्, लिह्) pot în Ā forma opțional persoanele 2.3.sg.1.du.2.pl. fără -sa-.**
-:::
-
-Conjugare:
+:::Conjugare:
 
 दिह् 2U "a unsge"
 
-::: indent
+:::indent
 |   | **आत्मनेपदम्** |||
 | :--- | :---: | :---: | :---: |
 |   | **एकवचनम्** | **द्विवचनम्** | **बहुवचनम्** |
 | **1. तृतीयः** | अधिक्षि | अधिक्षावहै / ***अदिह्वहि*** | अधिक्षामहि |
 | **2. द्वितीयः** | अधिक्षथास् / ***अधिग्धास्*** | अधिक्षथाम् | अधिक्षध्वम् / ***अधिग्ध्वम्*** |
 | **3. प्रथमः** | अधिक्षत / ***अदिग्ध*** | अधिक्षताम् | अधिक्षन्त |
-:::
-
-## 59.7. Exerciții
+:::## 59.7. Exerciții
 
 A) Traduceți următorul text și identificați toate formele verbale care apar în acesta.
 
@@ -837,28 +691,25 @@ Poemul are patru secțiuni:
 
 भट्टिकाव्य a fost compus între anii 495 și 641 d.Hr.
 
-::: media
+:::media
 ![](/images/lekt5902.webp)
 Fig.: रावणः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5902))
-:::
-Secțiunea următoare reprezintă începutul celui de-al 15-lea cântec, dedicat aoristului. रावण, regele demonilor, care i-a răpit soția lui राम, an सीता, își trimite fratele कुम्भकर्ण ("UrechideTortei"), care, ca pedeapsă pentru faptele sale rele, se află într-un fel de somn permanent.
+:::Secțiunea următoare reprezintă începutul celui de-al 15-lea cântec, dedicat aoristului. रावण, regele demonilor, care i-a răpit soția lui राम, an सीता, își trimite fratele कुम्भकर्ण ("UrechideTortei"), care, ca pedeapsă pentru faptele sale rele, se află într-un fel de somn permanent.
 
-::: media
+:::media
 ![](/images/lekt5903.webp)
 Fig.: कुम्भकर्णः
 Dansul Kecak, Bali (Indonezia)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5903))
-:::
-_Ajutor pentru traducere:_ Versul 6: दिदृक्षते \= Desiderativ pentru दृश्
+:::_Ajutor pentru traducere:_ Versul 6: दिदृक्षते \= Desiderativ pentru दृश्
 
-::: media
+:::media
 ![](/images/lekt5901.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5901))
-:::
-Text preluat din: Otto Böhtlingk: Sanskrit-Chrestomathie, p. 127 și urm.
+:::Text preluat din: Otto Böhtlingk: Sanskrit-Chrestomathie, p. 127 și urm.
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt5902:** [Sursa imaginii: Henryart/Wikipedia. Domeniu public]
 

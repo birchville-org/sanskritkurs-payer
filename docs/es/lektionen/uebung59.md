@@ -8,13 +8,11 @@ last_reconstructed: 2026-05-15
 
 # Ejercicio 59
 
-::: media
+:::media
 ![](/images/uebung098.webp)
 Fig.: रावणः
 (Fuente de la imagen: [Detalles](/licenses#uebung098))
-:::
-
----
+:::---
 
 ## A) Análisis del texto
 
@@ -212,7 +210,7 @@ Texto de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s.
 > अकृथास् - कृ Aor. 4/1  
 > अजिग्लपस् - ग्लै Caus. Aor. 3
 
-:::: media
+::::media
 ![](/images/uebung099.webp)
 Fig.: रामस्य रावणेन युद्धः
 (Fuente de la imagen: [Detalles](/licenses#uebung099))

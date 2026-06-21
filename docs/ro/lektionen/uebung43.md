@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formați persoana a **2-a** corespunzătoare, în timp, număr, mod etc., pentru următoarele forme verbale:
 
-::: grammar-box
+:::grammar-box
 | Persoana 1 / Persoana 3 | Persoana 2 |
 | :--- | :--- |
 | १. **आर्हम्** | आर्हः |
@@ -65,15 +65,11 @@ A) Formați persoana a **2-a** corespunzătoare, în timp, număr, mod etc., pen
 | ५०. **सीदामि** | सीदसि |
 | ५१. **तिष्ठन्ति** | तिष्ठथ |
 | ५२. **आहरत्** | आहरः |
-:::
-
-::: media
+::::::media
 ![](/images/uebung070.webp)
 Fig.: दिशसि
 (Sursa imaginii: [Detalii](/licenses#uebung070))
-:::
-
----
+:::---
 
 ## Traduceri în sanscrită
 
@@ -109,13 +105,11 @@ Ați onorat zeii cu un sacrificiu (ca stăpâni ai jertfei)?
 १०. **कथं शत्रुं तरसि ॥ १० ॥**
 Cum te salvezi (depășești râul) în fața inamicului?
 
-::: media
+:::media
 ![](/images/uebung071.jpg)
 Fig.: कदा काश्यामवर्तथाः
 (Sursa imaginii: [Detalii](/licenses#uebung071))
-:::
-
----
+:::---
 
 ## Conversație (संवादः)
 

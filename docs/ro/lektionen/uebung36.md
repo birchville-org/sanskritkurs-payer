@@ -10,27 +10,23 @@ last_reconstructed: 2026-05-15
 
 A) Formați pentru următoarele forme atât perfectul reduplicat, cât și perfectul periphrastic:
 
-::: grammar-box
+:::grammar-box
 | Prezent | Reduplicat | Periphrastic |
 | :--- | :--- | :--- |
 | १. **बिभ्रते** | बभ्रिरे | बिभरां चक्रिरे / -आसुः / -बभूवुः |
 | २. **बिभ्यति** | बिभ्युः | बिभयां चक्रुः / -आसुः / -बभूवुः |
 | ३. **जुहोति** | जुहाव | जुहवां चकार / -आस / -बभूव |
 | ४. **वेत्ति** | विवेद | विदां चकार / -आस / -बभूव |
-:::
+:::B) Formați perfectul periphrastic pentru rădăcina **आस्** (a ședea):
 
-B) Formați perfectul periphrastic pentru rădăcina **आस्** (a ședea):
-
-::: grammar-box
+:::grammar-box
 | Prezent | Perfect periphrastic |
 | :--- | :--- |
 | १. **आस्ते** | आसां चकre / -आस / -बभूव |
 | २. **आसते** | आसां चक्रिरे / -आसुः / -बभूवुः |
-:::
+:::C) Formați perfectul corespunzător pentru următoarele forme:
 
-C) Formați perfectul corespunzător pentru următoarele forme:
-
-::: grammar-box
+:::grammar-box
 | Prezent / Imperfect | Perfect |
 | :--- | :--- |
 | १. **जीयते** | जिग्ये |
@@ -46,9 +42,7 @@ C) Formați perfectul corespunzător pentru următoarele forme:
 | ११. **क्रामन्ति** | चक्रमुः |
 | १२. **प्राव्रजन्** | प्रवव्रजुः |
 | १३. **त्यक्ष्यति** | तत्याज |
-:::
-
----
+:::---
 
 ## Traduceri
 
@@ -67,13 +61,11 @@ Un de două ori născut, care a studiat Veda, cunoaște dreptul și uzanțele de
 ५. **विद्ययैव जीवितुं न शक्यते । य एवं विदुर्नाधीयीरन् ॥५॥**
 Nu se poate trăi doar din știință. Cine știe acest lucru, nu ar trebui să studieze.
 
-::: media
+:::media
 ![](/images/uebung061.webp)
 Fig.: विद्ययैव जीवितुं न शक्यते
 (Sursa imaginii: [Detalii](/licenses#uebung061))
-:::
-
----
+:::---
 
 ## Fragmente Școlare
 
@@ -95,19 +87,17 @@ Să-i saluți pe vârstnici cu respectul cuvenit, să le oferi locul lor și să
 **न हृष्यति ग्लायति वा स विज्ञेयो जितेन्द्रियः ॥**  
 Dacă un bărbat nu se bucură și nu se întristează, când aude, atinge, vede, gustă sau mirosește, atunci este considerat unul care și-a învins simțurile (**जितेन्द्रियः**).
 
-::: media
+:::media
 ![](/images/uebung060.webp)
 Fig.: भुक्त्वा घ्रात्वा च न हृष्यति ग्लायति वा
 (Sursa imaginii: [Detalii](/licenses#uebung060))
-:::
-
----
+:::---
 
 ## Bestimmung der Wortform
 
 Bestimmen und übersetzen Sie die folgenden Wortformen:
 
-::: grammar-box
+:::grammar-box
 | Wortform | Bestimmung | Bedeutung |
 | :--- | :--- | :--- |
 | १. **नयति** | नी (1U) 3. sg. P. Ind. Präs. | el conduce |
@@ -146,9 +136,7 @@ Bestimmen und übersetzen Sie die folgenden Wortformen:
 | ३४. **व्यानक्** | वि-अञ्ज् (7P) 3. sg. P. Impf. | él reveló |
 | ३५. **युङ्क्ते** | युज् (7U) 3. sg. Ā. Ind. Präs. | él conecta para sí |
 | ३६. **अपिबत्** | पा (1P) 3. sg. P. Impf. | él bebió |
-:::
-
-::: media
+::::::media
 ![](/images/uebung059.webp)
 Fig.: जगौ
 (Fuente de la imagen: [Detalles](/licenses#uebung059))

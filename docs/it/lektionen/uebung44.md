@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Determinare e tradurre le seguenti forme:
 
-::: grammar-box
+:::grammar-box
 | Forma della parola | Determinazione | Significato |
 | :--- | :--- | :--- |
 | १. **आदेः** | आदि (m.) Abl./Gen. sg. | dell'inizio / dall'inizio |
@@ -66,9 +66,7 @@ A) Determinare e tradurre le seguenti forme:
 | ५०. **चिनुथ** | चि (5U) 2. pl. P. Ind. Präs. | voi ammassate |
 | ५१. **हथ** | हन् (2P) 2. pl. P. Ind. Präs. | voi colpite |
 | ५२. **हतः** | हन् (2P) PPP Nom. sg. m. | colpito / ucciso |
-:::
-
----
+:::---
 
 ## Traduzioni
 
@@ -98,19 +96,17 @@ Non dovete odiare neppure ciò che è odioso, né desiderare avidamente ciò che
 ८. **अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः । मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥ ८ ॥**
 Hai pianto gli indegni di pianto e volevi pronunciare parole di saggezza; ma i saggi non piangono né i morti né i vivi.
 
-::: media
+:::media
 ![](/images/uebung072.webp)
 Fig.: मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति
 (Fonte dell’immagine: [Dettagli](/it/licenses#uebung072))
-:::
-
----
+:::---
 
 ## Ulteriori determinazioni di forma
 
 Determinare le seguenti forme di parola:
 
-::: grammar-box
+:::grammar-box
 | Forma di parola | Determinazione |
 | :--- | :--- |
 | १. **वदिता** | वदितृ (m.) Nom. sg. |
@@ -153,9 +149,7 @@ Determinare le seguenti forme di parola:
 | ३८. **पिपूर्मः** | पॄ (3P) 1. pl. P. Ind. Präs. |
 | ३९. **कैः** | किम् (m./n.) Instr. pl. |
 | ४०. **कृत्येन** | कृ (8U) Gerundiv Instr. sg. m./n. |
-:::
-
-::: media
+::::::media
 ![](/images/uebung073.webp)
 Fig.: वदिता
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung073))

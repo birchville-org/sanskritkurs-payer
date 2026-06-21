@@ -21,7 +21,7 @@ outline: 2
 
 **śūdra** m. -- शूद्र : Śūdra (ordine dei servizi).
 
-::: tip I quattro ordini (varna)
+:::tip I quattro ordini (varna)
 Secondo la teoria classica (ad es. Manusmṛti I, 88-91) i compiti sono distribuiti:
 
 - **dei Bramini**
@@ -47,21 +47,17 @@ Secondo la teoria classica (ad es. Manusmṛti I, 88-91) i compiti sono distribu
   - studio dei Veda
 - **dei Śūdra**
   - servire le tre classi superiori
-:::
-
-**dvija** m. -- द्विज : "Due volte nato" (iniziati dei tre ordini superiori: Brāhmaṇa, Kṣatriya, Vaiśya).
+:::**dvija** m. -- द्विज : "Due volte nato" (iniziati dei tre ordini superiori: Brāhmaṇa, Kṣatriya, Vaiśya).
 
 **varṇa** m. -- वर्ण : Colore, ordine di nascita (aspirazione).
 
 I quattro ordini (**varṇa** m.) sono spesso confusi con le caste. I quattro ordini, tuttavia, -- a differenza delle caste -- non sono qualcosa di specificamente indiano; anche in Europa avevamo (in parte fino alla Prima Guerra Mondiale) un ordine sociale, come dimostra la seguente illustrazione del XV secolo:
 
-::: media
+:::media
 ![](/images/lekt0201.webp)
 Fig.: Rappresentazione della suddivisione degli ordini nell'Europa medievale (xilografia della fine del XV secolo).
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0201))
-:::
-
-**Didascalia:**
+:::**Didascalia:**
 - **Ordine sacerdotale** (~Brāhmaṇa): Tu supplex ora = Tu prega umilmente!
 - **Ordine nobiliare** (~Kṣatriya): Tu protege = Tu proteggi!
 - **Ordine contadino** (~Vaiśya/Śūdra): Tuque labora = E tu lavora!
@@ -70,7 +66,7 @@ I tre ordini indossano l'abito tipico del rispettivo ordine. Sopra di essi, indi
 
 Max Weber &lt;1864 – 1920&gt; definisce "ordine" (Stand) così:
 
-::: note-box
+:::note-box
 "»Ordine« (Stand) dovrebbe significare una moltitudine di persone che, all'interno di un'associazione,
 a) esercitano una stima speciale di ordine, - eventualmente anche
 b) rivendicano privilegi speciali di ordine.
@@ -89,31 +85,25 @@ Mentre le classi professionali crescono sul terreno dell’economia orientata al
 Ogni società ordinale è convenzionale, ordinata da regole di condotta di vita, crea quindi condizioni di consumo economicamente irrazionali e osticola in tal modo, attraverso appropriazioni monopolistiche e attraverso l’esclusione della libera disposizione della propria capacità di guadagno, la libera formazione del mercato.
 
 [**Weber, Max &lt;1864 – 1920&gt;:** Economia e società : abbozzo di una sociologia comprensiva. – 5., riveduta ed. – Tubinga : Mohr, 1976. – P. 625 s.]
-:::
-
-I Varṇa sono pertanto ordini di nascita.
+:::I Varṇa sono pertanto ordini di nascita.
 
 **kavi** m. -- कवि : poeta.
 
 **agni** m. -- अग्नि : fuoco, dio Agni.
 
-::: media
+:::media
 ![](/images/lekt0203.jpg)
 Fig.: Dio Agni, miniatura, 18° sec.
 (Fonte immagine: [Dettagli](/it/licenses#lekt0203))
-:::
-
-**sādhu** 3 -- साधु : corretto, buono.
+:::**sādhu** 3 -- साधु : corretto, buono.
 
 **sādhu** m. -- साधु : uomo «sacro», Sādhu.
 
-::: media
+:::media
 ![](/images/lekt0202.webp)
 Fig.: Sādhu (साधु), Tempio Pashupatinath, Katmandu.
 (Fonte immagine: [Dettagli](/it/licenses#lekt0202))
-:::
-
-**guru** 3 -- गुरु : pesante, importante, degno di venerazione
+:::**guru** 3 -- गुरु : pesante, importante, degno di venerazione
 
 **guru** m. -- गुरु : persona degna di venerazione: padre, madre, parente anziano, in particolare insegnante, maestro
 
@@ -163,13 +153,11 @@ Fig.: Sādhu (साधु), Tempio Pashupatinath, Katmandu.
 
 **devī** f. = देवी : Dea, in particolare Durgā f. = दुर्गा, la consorte di Śiva = शिव.
 
-::: media
+:::media
 ![](/images/lekt0303.webp)
 Fig.: Durgā = दुर्गा, Orissa
 (Fonte dell'immagine: [Dettagli](/images/lekt0303))
-:::
-
-**sādhvī** f. = साध्वी : fem. di sādhu.
+:::**sādhvī** f. = साध्वी : fem. di sādhu.
 
 **gurvī** f. = गुर्वी : fem. di guru.
 
@@ -194,13 +182,11 @@ Fig.: Durgā = दुर्गा, Orissa
 
 **kāma** m. = काम : desiderio, brama, dono desiderato, piacere sensuale, amore; dio dell'amore Kāma.
 
-::: media
+:::media
 ![](/images/lekt0501.webp)
 Fig.: Dio Kāma = kāmadeva = कामदेव, XVIII secolo.
 (Fonte dell'immagine: Wikipedia, dominio pubblico)
-:::
-
-**krodha** m. = क्रोध : ira.
+:::**krodha** m. = क्रोध : ira.
 
 **kleśa** m. = क्लेश : tormento, flagello.
 
@@ -236,16 +222,14 @@ Fig.: Dio Kāma = kāmadeva = कामदेव, XVIII secolo.
 
 ## Lezione 6
 
-::: grammar-box
+:::grammar-box
 In sanscrito, i verbi sono elencati nella **forma della radice**. Il numero dopo la radice indica la **classe di coniugazione**.
 
 - **P:** La radice è solo Parasmaipada
 - **Ā:** La radice è solo Ātmanepada
 - **U:** Ubhayapada ("entrambe le forme verbali"): la radice viene utilizzata sia nel Parasmaipada che nell'Ātmanepada.
 - **():** Tra parentesi è indicata la terza persona singolare del presente indicativo (laṭ).
-:::
-
-**Impara le seguenti parole:**
+:::**Impara le seguenti parole:**
 - **yaj** 1 U (yajati) यज् यजति : onorare con un sacrificio, sacrificare
 - **bhū** 1 P (bhavati) भू भवति : diventare, emergere, essere
 - **smṛ** 1 P (smarati) स्मृ स्मरति : rendere presente, ricordare
@@ -272,12 +256,11 @@ In sanscrito, i verbi sono elencati nella **forma della radice**. Il numero dopo
 - **śru** 5 P (śṛṇoti !) श्रु शृणोति : ascoltare (qualcosa: accusativo, qualcuno: genitivo o accusativo; su: accusativo; da qualcuno: genitivo, ablativo, strumentale)
 - **su** 5 U (sunoti) सु सुनोति : spremere
 - **soma** m. सोम : bevanda spremuta, Soma; Luna (Da quale pianta sia stato spremuto il Soma è ancora oggi oggetto di controversia).
-::: media
+:::media
 ![](/images/lekt0701.webp)
 Fig.: Era questa la pianta vedica del Soma?: Fungo mosca: *Amanita muscaria* (L.) Lam.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0701))
-:::
-- **phala** n. फल : frutto (anche in senso figurato: (karmico) frutto di un'azione)
+:::- **phala** n. फल : frutto (anche in senso figurato: (karmico) frutto di un'azione)
 - **nṛtya** n. नृत्य : danza
 - **svarga** m. स्वर्ग : cielo
 - **naraka** m. नरक : inferno (secondo una concezione induista, l'universo ha la forma di un uovo (**Brahmāṇḍa** m.n. = ब्रह्माण्ड = "Uovo di Brahmā"): al di sopra della terra vi sono sei cieli con beatitudine crescente, al di sotto della terra vi sono sette cosiddetti **pātāla** n. = पाताल, dimore degli **nāga** m. = नाग (serpenti) e di altre creature mitiche, tra cui vi sono 7 inferni con pene crescenti)
@@ -311,19 +294,15 @@ Fig.: Era questa la pianta vedica del Soma?: Fungo mosca: *Amanita muscaria* (L.
 - **patrikā** f. पत्रिका : lettera
 - **likh** 1 P (likhati) लिख् लिखति : incidere, scrivere (originariamente con lo stilo su una foglia di palma, poi in senso generale)
 
-::: media
+:::media
 ![](/images/lekt0809.jpg)
 Fig.: **likh** (लिख्) : stilo indiano in acciaio per incidere su foglie di palma
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0809))
-:::
-
-::: media
+::::::media
 ![](/images/lekt0810.jpg)
 Fig.: **likh** (लिख्) : bastoncino da scrittura dei Batak (Sumatra), come probabilmente era in uso anche in India
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0809))
-:::
-
-- **sukha** n. सुख : felicità, benessere
+:::- **sukha** n. सुख : felicità, benessere
 - **duḥkha** n. दुःख : sfortuna, sofferenza
 
 ---
@@ -335,21 +314,17 @@ Fig.: **likh** (लिख्) : bastoncino da scrittura dei Batak (Sumatra), com
 
 - **adhyayana** n. (अध्ययन) : Studio, in particolare studio dei Veda
 
-::: media
+:::media
 ![](/images/lekt0903.webp)
 Fig.: **adhyayana** = अध्ययन, Sri Skandaguru Vidyalayam, Tiruparankundram presso Madurai.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0903))
-:::
+:::- **kāru** m. / **kāruka** m. (कारु / कारुक) : Artigiano
 
-- **kāru** m. / **kāruka** m. (कारु / कारुक) : Artigiano
-
-::: media
+:::media
 ![](/images/lekt0902.webp)
 Fig.: **kāru** = कारु, Gujarat.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0902))
-:::
-
-- **kuśīlava** m. (कुशीलव) : (itinerante) Spettacolista, attore, cantante
+:::- **kuśīlava** m. (कुशीलव) : (itinerante) Spettacolista, attore, cantante
 - **kusīda** n. (कुसीद) : Usura
 - **kṛṣ** 1 P (karṣati) कृष् कर्षति : tirare
 - **kṛṣ** 6 U (kṛṣati) कृष् कृषति : arare
@@ -397,20 +372,15 @@ Fig.: **kāru** = कारु, Gujarat.
 - **pāpa** n. पाप : azione malvagia, male (contrario di **puṇya**)
 - **satya** n. सत्य : verità
 
-::: note-box
+:::note-box
 In India si attribuiva alla parola vera un potere magico; anzi, l'intero ordine cosmico viene mantenuto e creato dalla parola vera. Per questa importante concezione, si veda l'opera fondamentale:
 
 Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. A cura di Ludwig Alsdorf dal lascito. - Gottinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e il Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
-:::
-
-::: media
+::::::media
 ![](/images/lekt1003.webp)
 Fig.: वरुणः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1003))
-:::
-
-
-- **anṛta** n. अनृत : falsità, menzogna (contrario di **satya**)
+:::- **anṛta** n. अनृत : falsità, menzogna (contrario di **satya**)
 
   ::: note-box
   Formazione della parola **an-** ("non-") + **ṛta** n.
@@ -424,14 +394,11 @@ Fig.: वरुणः
   I nomi di questi **ṛṣi** sono menzionati nei Brāhmaṇas, nonché in elenchi specifici dedicati ai Veda. Tutti i Bramini fanno risalire la loro discendenza a tali **ṛṣi**, dai quali derivano i loro **gotra** (गोत्र). Per il concetto di **gotra**, si veda Basham, *Wonder*, cap. 5.
   :::
 
-::: media
+:::media
 ![](/images/lekt1002.jpg)
 Fig.: विश्वामित्रः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1002))
-:::
-
-
-- **vad** 1 P (vadati) वद् वदति : dire, parlare
+:::- **vad** 1 P (vadati) वद् वदति : dire, parlare
 - **prach** 6 P (pṛcchati !) प्रच्छ् पृच्छति : chiedere (qualcuno: Acc.; qualcosa: Acc.)
 - **saha** सह : insieme con, in comune con (anche nel contesto di "combattere con" ecc.) (Postposizione con strumentale)
 
@@ -493,13 +460,11 @@ Fig.: विश्वामित्रः
   - **vāda** m. वाद : affermazione, dichiarazione, parola
   - **vadana** n. वदन : il parlare; strumento di parola: bocca, volto
 
-::: media
+:::media
 ![](/images/lekt1102.webp)
 Fig.: **vadanāni** = वदनानि, distretto di Jamalpur, Bangladesh.
 (Fonte dell'immagine: [Details](/it/licenses#lekt1102))
-:::
-
-- **prach** 6 P प्रच्छ् : chiedere
+:::- **prach** 6 P प्रच्छ् : chiedere
   - **praśna** m. प्रश्न : domanda (suffisso **-na** come in **yaj-ña**)
 
 - **iṣ** 6 P इष् : desiderare
@@ -512,24 +477,20 @@ Fig.: **vadanāni** = वदनानि, distretto di Jamalpur, Bangladesh.
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : risvegliarsi, risvegliarsi alla conoscenza, riconoscere; PPP **buddha** 3 risvegliato, quindi **Buddha** = "il Risvegliato" (non: il Risvegliato)
 
-::: media
+:::media
 ![](/images/lekt1201.webp)
 Fig.: गौतमो बुद्धः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1201))
-:::
-
-- **dah** 1 P (dahati), PPP **dagdha** दह् दहति दग्ध : (qualcosa) bruciare
+:::- **dah** 1 P (dahati), PPP **dagdha** दह् दहति दग्ध : (qualcosa) bruciare
 - **sah** 1 Ā (sahate), PPP **soḍha** सह् sahate soḍha : superare, sopportare, sopportare pazientemente = perdonare
 - **mṛga** m. मृग : animale selvatico
 - **mārga** m. मार्ग : via (i percorsi erano spesso i sentieri delle bestie)
 
-::: media
+:::media
 ![](/images/lekt1202.webp)
 Fig.: मार्गः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1202))
-:::
-
-- **api** अपि : anche (postposto)
+:::- **api** अपि : anche (postposto)
 
 Per la 6ª classe del presente, i grammatici indigeni contano alcune radici che formano il tema del presente con il nasale infix e la vocale tematica a, ad esempio:
 
@@ -542,13 +503,11 @@ Per la formazione delle parole:
 - **sic** + **abhi-**: **abhiṣeka** m. अभिषेक : aspersione di un re durante l'incoronazione, incoronazione
 - **budh**: **bodhi** m./f. बोधि : il risveglio (attraverso il quale un Buddha o un Jina giunge alla comprensione salvifica)
 
-::: media
+:::media
 ![](/images/lekt1203.webp)
 Fig.: महावीरो जिनः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1203))
-:::
-
-- **buddhi** f. (**budh** + **-ti**) बुद्धि : conoscenza, organo della conoscenza.
+:::- **buddhi** f. (**budh** + **-ti**) बुद्धि : conoscenza, organo della conoscenza.
 
 ---
 
@@ -624,56 +583,44 @@ Imparate le seguenti parole:
 >
 > [Fonte: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
-::: media
+:::media
 ![](/images/lekt1301.webp)
 Fig.: महिषासुरः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1301))
-:::
-
-- **guṇa** m. गुण : filo, corda; proprietà, buona proprietà
+:::- **guṇa** m. गुण : filo, corda; proprietà, buona proprietà
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna पद् पद्यते पद्यते पन्न : andare, cadere in
 - **as** 2 P (asti) अस् अस्ति : essere, essere presente
 - **as** 4 P (asyati), Pass.: asyate, PPP asta अस् अस्यति अस्यते अस्त : lanciare, (lontano-)gettare
 - **i** 2 P (eti), Pass.: īyate, PPP ita इ एति ईयते इत : andare
 - **pā** 2 P (pāti), Pass. pāyate, PPP pāta पा पाति पायते पात : proteggere, custodire
 
-::: indent
+:::indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta पा पिबति पीयते पीत : bere (tradizionalmente calcolato alla 1. classe)
-:::
-
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa द्विष् द्वेष्टि द्विष्यते द्विष्ट : odiare, inimicarsi
+:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa द्विष् द्वेष्टि द्विष्यते द्विष्ट : odiare, inimicarsi
 - **ad** 2 P (atti), Pass. adyate, PPP anna अद् अत्ति अद्यते अन्न : mangiare, consumare
 - **anna** n. अन्न : cibo (da PPP: *ad-na: il mangiato)
 
-::: media
+:::media
 ![](/images/lekt1304.webp)
 Fig.: अन्नम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1304))
-:::
-
-Formazione delle parole:
+:::Formazione delle parole:
 
 pad 4 Ā:
 
-::: indent
+:::indent
 **pada** n. पद : passo, posizione, luogo
 
 **pāda** m. पाद : piede, una quarta parte, verso
-:::
-
-::: media
+::::::media
 ![](/images/lekt1303.webp)
 Fig.: चत्वारः पादाः : गजः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1303))
-:::
+:::dviṣ 2 U:
 
-dviṣ 2 U:
-
-::: indent
+:::indent
 **dveṣa** द्वेष : odio
-:::
-
----
+:::---
 
 
 ## Lezione 14
@@ -682,13 +629,11 @@ dviṣ 2 U:
 * **bhūṣ-aṇa n** (भूषण) : ornamento
 * **dīpa m.** (दीप) : lampada
 
-::: media
+:::media
 ![](/images/lekt1405.webp)
 Fig.: दीपाः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1405))
-:::
-
-* **bala n.** (बल) : violenza, forza, potenza; forza militare, schiera di guerrieri
+:::* **bala n.** (बल) : violenza, forza, potenza; forza militare, schiera di guerrieri
 * **bāla 3** (बाल) : giovane, infantile, stolto; m. ragazzo
 * **bālā f.** (बाला) : giovane ragazza
 * **nara m.** (नर) : uomo, essere umano
@@ -746,23 +691,18 @@ Fig.: दीपाः
 
 **अर्थ** è uno dei tre scopi della vita (**पुरुषार्थ**), come descritti nella letteratura mondana e religiosa:
 
-::: indent
+:::indent
 **धर्म m.:** Acquisizione di merito attraverso l'azione che è giusta, o almeno evitare il male, che deriverebbe dalla non osservanza del Dharma
 
 **अर्थ m.:** Comportamento finalizzato allo scopo, acquisizione di prosperità
 
 **काम m.:** Piacere dei sensi, in particolare anche nell'ambito sessuale
-:::
-
-::: media
+::::::media
 ![](/images/lekt1809.webp)
 Fig.: कामः
 Illustrazione relativa a कामसूत्र
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1809))
-:::
-
-
-**स्था 1 P तिष्ठति Pass. स्थीयते PPP. स्थित :** stare, rimanere, persistere, trovarsi. (È tradizionalmente classificato nella prima classe di presente, sebbene si tratti di una classe tematica di presente reduplicata, come पा 1 पिबति)
+:::**स्था 1 P तिष्ठति Pass. स्थीयते PPP. स्थित :** stare, rimanere, persistere, trovarsi. (È tradizionalmente classificato nella prima classe di presente, sebbene si tratti di una classe tematica di presente reduplicata, come पा 1 पिबति)
 
 **स्था + उप 1 U उपतिष्ठति :** avvicinarsi, porsi in posizione di rispetto davanti a qualcuno
 
@@ -770,69 +710,51 @@ Illustrazione relativa a कामसूत्र
 
 da **स्था** :
 
-::: indent
+:::indent
 **स्थान n.:** Luogo, (giusto) posto, ubicazione
 
 **स्थिति f.:** Soggiorno, fermezza, persistenza
-:::
+:::**गर्भ m.:** Grembo, utero, interno, embrione / feto. Alla fine di un Bahuvrīhi spesso: "Interno", ad esempio
 
-**गर्भ m.:** Grembo, utero, interno, embrione / feto. Alla fine di un Bahuvrīhi spesso: "Interno", ad esempio
-
-::: indent
+:::indent
 **धनगर्भ 3:** "il cui interno è denaro = in cui si trova denaro"
 
 **गर्भगृह n.:** La stanza più interna di un tempio indù, che contiene l'immagine divina più importante del tempale (per la struttura dei templi indù si veda: Volwahsen, A.: India: edifici degli Indù, Buddisti e Giainisti. -- Monaco, 1968)
-:::
-
-::: media
+::::::media
 ![](/images/lekt1901.webp)
 Fig.: गर्भगृहम्
 Badami (ಬದಾಮಿ)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1901))
-:::
+:::**वारिद m.:** Portatore d'acqua = nuvola di pioggia
 
-
-**वारिद m.:** Portatore d'acqua = nuvola di pioggia
-
-::: media
+:::media
 ![](/images/lekt1902.jpg)
 Fig.: वारिदः
 Goa (गोंय)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1902))
-:::
-  
-
-**वा 2 P वाति Pass. वायते PPP. वान / वात :** soffiare
+:::**वा 2 P वाति Pass. वायते PPP. वान / वात :** soffiare
 
 da ciò:
 
-::: indent
+:::indent
 **वात m.:** Vento
-:::
-
-**वह् 1 U वहति Pass. उह्यते PPP ऊढ :** guidare, viaggiare (trans.)
+:::**वह् 1 U वहति Pass. उह्यते PPP ऊढ :** guidare, viaggiare (trans.)
 
 **छत्त्र n.:** Ombrello, parasole
 
-::: media
+:::media
 ![](/images/lekt1904.webp)
 Fig.: छत्त्रम्
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), con l'abito tradizionale, è una consuetudine nelle parti meridionali del Kerala. _Onappottan_ visita le case durante la festa di _onam_ e impartisce benedizioni. Recentemente, la figura di _onappottan_ è diventata una vista rara, confinata ai villaggi."
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1904))
-:::
+:::**पण्डित m.:** Dotta, saggio ; 3: intelligente, esperto (in)
 
-
-**पण्डित m.:** Dotta, saggio ; 3: intelligente, esperto (in)
-
-::: media
+:::media
 ![](/images/lekt1903.jpg)
 Fig.: पण्डितः जवाहरलाल नेहरू
 १९५९
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1903))
-:::
-
-
-**सेव् 1 Ā सेवते Pass. सेव्यते PPP सेवित :** risiedere presso, abitare (Acc., Loc.) ; visitare, recarsi a (Acc.) ; servire, prendersi cura, venerare ; praticare, usare ; assistere, avere rapporti sessuali
+:::**सेव् 1 Ā सेवते Pass. सेव्यते PPP सेवित :** risiedere presso, abitare (Acc., Loc.) ; visitare, recarsi a (Acc.) ; servire, prendersi cura, venerare ; praticare, usare ; assistere, avere rapporti sessuali
 
 **नि Prefisso:** giù, dentro
 
@@ -861,15 +783,12 @@ Fig.: पण्डितः जवाहरलाल नेहरू
 
 आश्रम m., n.: eremo, stadio della vita, fase della vita (ovvero come ब्रह्मचरिन्, गृहस्थ, वनप्रस्थ e eventualmente come सन्न्यासिन् ; cfr. Basham, Meraviglie pag. 159s.)
 
-::: media
+:::media
 ![](/images/lekt2008.webp)
 Fig.: आश्रमः
 Rishikesh = ऋषिकेश. "Questo in realtà fa parte dell'ashram a Rishikesh dove i Beatles hanno soggiornato. Questa parte specifica non c'era quando erano lì, ma ha un bell'aspetto." [Fonte immagine: da ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2008))
-:::
-
-
-कर ३ f. करी । करा : facente, operante, causante
+:::कर ३ f. करी । करा : facente, operante, causante
 
 कर m.: mano (a कृ 8)
 
@@ -966,104 +885,76 @@ Rishikesh = ऋषिकेश. "Questo in realtà fa parte dell'ashram a Rishik
 
 di cui:
 
-::: indent
+:::indent
 **भक्ति f.:** devozione, fedeltà, amore (nell'ambito religioso: amore e rispetto per un dio personale. vedere a riguardo Basham, Wonder pag. 332s.)  
 **भाग m.:** parte, porzione  
 **भग m.:** (buona) parte, fortuna, benessere, dignità  
 **भगवन्त् 3:** possessore di fortuna, possessore di dignità (epiteto di विष्णु – कृष्ण)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2103.webp)
 Fig.: भगवान्कृष्णः
 भगवान्कृष्णः come जगन्नाथ (a destra) con sua sorellastra सुभद्रा (al centro) e suo fratello maggiore बलराम, Orissa = ଓଡ଼ିଶा [Fonte immagine: Sujitkumar / Wikipedia. Licenza GNU FDL]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2103))
-:::
-
-::: indent
+::::::indent
 **भगवद्गीता f.:** "Canto (गीता) del Digno (कृष्ण)"
-:::
-
-::: media
+::::::media
 ![](/images/lekt2105.webp)
 Fig.: भगवद्गीता
 भगवद्गीता - Manoscritto, XIX secolo. [Fonte immagine: Wikipedia, Dominio pubblico]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2105))
-:::
-
-::: indent
+::::::indent
 **भिक्ष् 1 Ā भिक्षते Pass. भिक्ष्यते PPP भिक्षित** (in realtà un desiderativo per भज्: desiderare che qualcuno partecipi): mendicare
-:::
+:::di cui:
 
-di cui:
-
-::: indent
+:::indent
 **भिक्षु m.:** mendicante, monaco
-:::
-
-::: media
+::::::media
 ![](/images/lekt2104.webp)
 Fig.: भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Fonte immagine: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2104))
-:::
+:::**दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट :** corrompere (intransitivo), diventare cattivo, essere umiliato
 
-**दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट :** corrompere (intransitivo), diventare cattivo, essere umiliato
-
-::: indent
+:::indent
 **दोष m.:** errore
-:::
-
-**पच् 1 U पचति Pass. पच्यते (nessun PPP, invece पक्व 3: cotto, fermentato) Absol. पक्त्वा :** cuocere (transitivo) = bollire, friggere, tostare ecc.
+:::**पच् 1 U पचति Pass. पच्यते (nessun PPP, invece पक्व 3: cotto, fermentato) Absol. पक्त्वा :** cuocere (transitivo) = bollire, friggere, tostare ecc.
 
 
 ## Lezione 22
 
 **काम m.:** desiderio, brama; dono desiderato, piacere sensuale, amore, dio dell'amore
 
-::: indent
+:::indent
 **कामम्** Acc. avverbialmente: a proprio piacimento, a proprio agio
-:::
-
-::: media
+::::::media
 ![](/images/lekt2202.webp)
 Fig.: कामदेवः
 Secolo XIX
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2202))
-:::
-
-
-**शक् 5 P  शक्नोति Pass.  शक्यते PPP  शक्त Inf.  शक्तुम् :** essere capace, potere
+:::**शक् 5 P  शक्नोति Pass.  शक्यते PPP  शक्त Inf.  शक्तुम् :** essere capace, potere
 
 da ciò:
 
-::: indent
+:::indent
 **शक्ति f.:** capacità, potere, abilità, forza; anche: forza divina, personificata come compagna femminile in particolare di **शिव**
 
 **शक्र m.:** il potente (epiteto di **इन्द्र**)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2203.webp)
 Fig.: दुर्गाशक्तिः
 Kolkatta = কলকাতা
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2203))
-:::
+:::**अर्ह 1 P  अर्हति Pass.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** meritare qualcosa (essere degno di qualcosa), avere il diritto, essere obbligato a, dovere (nella seconda persona **अर्ह्** + infinito è spesso usato come un ordine mitigato: "Dovresti")
 
-
-**अर्ह 1 P  अर्हति Pass.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** meritare qualcosa (essere degno di qualcosa), avere il diritto, essere obbligato a, dovere (nella seconda persona **अर्ह्** + infinito è spesso usato come un ordine mitigato: "Dovresti")
-
-::: indent
+:::indent
 **अर्हन्त् 3** Part. Pres. P: un degno. Nel Buddhismo e nel Giainismo: qualcuno che ha raggiunto la liberazione finale
-:::
-
-**व्रत n.:** voto, dovere religioso, osservanza religiosa (si promette qualcosa alla divinità per ottenere qualcosa da lei. Esempio: una madre promette di dedicare sua figlia come prostituta sacra (**देवदासी**) se sua figlia si ammalerà di nuovo. Importanti **व्रत** oggi: digiuno; astinenza da cibi amati; astinenza sessuale; lettura di scritture sacre; esecuzione di certi riti; nutrizione di brahmani e simili. Breve sui **व्रत**: Walker, Hindu World Vol. II, pag. 581ss. Dettagliato: P. V. Kane: History of Dharmaśāstra Vol. 5,1 pag. 1 - 462. Lì pag. 253 - 462 elenco di **व्रत** e feste religiose ("il seguente elenco ... non pretende di essere completamente esaustivo" !!!)
+:::**व्रत n.:** voto, dovere religioso, osservanza religiosa (si promette qualcosa alla divinità per ottenere qualcosa da lei. Esempio: una madre promette di dedicare sua figlia come prostituta sacra (**देवदासी**) se sua figlia si ammalerà di nuovo. Importanti **व्रत** oggi: digiuno; astinenza da cibi amati; astinenza sessuale; lettura di scritture sacre; esecuzione di certi riti; nutrizione di brahmani e simili. Breve sui **व्रत**: Walker, Hindu World Vol. II, pag. 581ss. Dettagliato: P. V. Kane: History of Dharmaśāstra Vol. 5,1 pag. 1 - 462. Lì pag. 253 - 462 elenco di **व्रत** e feste religiose ("il seguente elenco ... non pretende di essere completamente esaustivo" !!!)
 
 **चर् 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: चर् 1 P चरति Pass.  चर्यते PPP  चरित Inf.  चरितुम्) :** pascolare, vagare, agitarsi, muoversi, agire, esercitare qualcosa, compiere (ad esempio **व्रतं चर्**: praticare un voto, in particolare l'astinenza sessuale)
 
 da ciò:
 
-::: indent
+:::indent
 **चर ३:** mobile; n.: il mobile = animali (in contrasto con le piante)
 
 **चरण n., m.:** piede
@@ -1071,17 +962,12 @@ da ciò:
 **चरित n.:** stile di vita, azioni della vita
 
 **ब्रह्मचर्य n.:** esecuzione del Veda (**ब्रह्मन्**) = studio del Veda nel primo stadio della vita (quello dello **ब्रह्मचारिन्**), che richiede una rigorosa astinenza sessuale; quindi anche: astinenza sessuale, stile di vita celibataro
-:::
-
-::: media
+::::::media
 ![](/images/lekt2201.webp)
 Fig.: धेनवश्चरन्ति
 Goa = गोंय
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2201))
-:::
-
-
-## Lezione 23
+:::## Lezione 23
 
 समान ३: uguale
 
@@ -1102,40 +988,30 @@ Allo stesso modo in cui अलम् con strumentale viene utilizzato:
 
 अलम् + कृ 8U अलंकरोति : abbellire
 
-::: indent
+:::indent
 अलंकार m.: ornamento, mezzo ornamentale (nella poesia)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2405.webp)
 Fig.: अलंकारः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2405))
-:::
-
-
-हेतु m.: impulso, incitazione, causa, motivo; हेतुना, हेतोस्, हेतवे con genitivo o come secondo elemento di un composto = "per ... volere, a causa di"
+:::हेतु m.: impulso, incitazione, causa, motivo; हेतुना, हेतोस्, हेतवे con genitivo o come secondo elemento di un composto = "per ... volere, a causa di"
 
 प्रतिमा f.: immagine, ritratto
 
-::: media
+:::media
 ![](/images/lekt2406.webp)
 Fig.: देवीप्रतिमा
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2406))
-:::
-
-
-वृत् + प्र 1Ā प्रवर्तते : avvenire, accadere, sorgere
+:::वृत् + प्र 1Ā प्रवर्तते : avvenire, accadere, sorgere
 
 Da वृत्:
 
-::: indent
+:::indent
 वृत्ति f.: comportamento, attività, stile di vita
 
 वृत्त n.: comportamento
-:::
-
-अभि Prefisso:  pre-, dopo - verso, a - da, a - verso, contro, in - dentro, in relazione a, su, sopra, a
+:::अभि Prefisso:  pre-, dopo - verso, a - da, a - verso, contro, in - dentro, in relazione a, su, sopra, a
 
 नि Prefisso: verso il basso, giù, dentro, all'indietro
 
@@ -1151,51 +1027,39 @@ Da वृत्:
 
 da ciò
 
-::: indent
+:::indent
 अपोह m.: negazione (अप + ऊह)
 
 ऊहापोह m.: discussione del pro e contro
-:::
-
-::: media
+::::::media
 ![](/images/lekt2407.webp)
 Fig.: ऊहापोहः
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor delegato degli esteri, CNN-IBN Network 18, India, modera una tavola rotonda al Vertice Economico India 2008 del Forum Economico Mondiale a Nuova Delhi."
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2407))
-:::
-
-
-औपकारिक 3 f.: -ई : utile
+:::औपकारिक 3 f.: -ई : utile
 
 कुप्य n.: prodotto della foresta, metallo (non metallo prezioso)
 
 ख्या 2P ख्याति PPP ख्यात : vedere, diventare visibile; nominare, spiegare, comunicare
 
-::: indent
+:::indent
 ख्या + आ 2P आख्यात : raccontare
 
 da ciò:
 
 आख्यान n.: racconto
-:::
-
-::: media
+::::::media
 ![](/images/lekt2408.webp)
 Fig.: आख्यानम्
 "Lo storyteller di San Francisco Jeff Byers racconta una storia ai residenti di Chenneri, un villaggio degli Irula. Lo storyteller Jeeva Raghunath traduce in tamil per gli abitanti del villaggio."
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2408))
-:::
-
-
-::: indent
+::::::indent
 ख्या + सम् 2P संख्याति : sommare, calcolare
 
 da ciò:
 
 संख्या f.: conteggio, enumerazione; सांख्य n.: uno dei sei sistemi filosofici (breve: Basham, Wonder pag. 326f.)
-:::
-
-ग्रहण n.: afferrare
+:::ग्रहण n.: afferrare
 
 चौल n.: cerimonia (संस्कार) di taglio dei capelli (all'età di 3 anni)
 
@@ -1207,19 +1071,14 @@ da ciò:
 
 da ciò:
 
-::: indent
+:::indent
 कृ + नमस् 8 नमस्करोमि : inchinarsi, venerare, salutare
-:::
-
-::: media
+::::::media
 ![](/images/lekt2411.webp)
 Fig.: जयदेवकविर्विष्णुं नमस्करोति
 Manoscritto del गीतगोविन्द, 1730 d.C.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2411))
-:::
-
-
-स्वागत n.: benvenuto (da su-ā-gata)
+:::स्वागत n.: benvenuto (da su-ā-gata)
 
 तृण n.: stelo d'erba
 
@@ -1230,7 +1089,7 @@ Manoscritto del गीतगोविन्द, 1730 d.C.
 
 त्यज् 1P त्यजति  lasciare, abbandonare, lasciare in balìa
 
-::: indent
+:::indent
 Fut. त्यक्ष्यति  
 Pass. त्यज्यते  
 PPP त्यक्त  
@@ -1240,24 +1099,19 @@ Absol. 2: -त्यज्य
 di cui:
 
 त्याग m.: abbandono, rinuncia, evitamento
-:::
-
-दार m. pl. (!!!): moglie
+:::दार m. pl. (!!!): moglie
 
 द्रव्य n.: oggetto, beni, possesso materiale, denaro
 
 धान्य n.: cereali sgranati
 
-::: media
+:::media
 ![](/images/lekt2501.webp)
 Fig.: धान्यम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2501))
-:::
+:::धृ 1U धरति : tenere, trattenere
 
-
-धृ 1U धरति : tenere, trattenere
-
-::: indent
+:::indent
 Fut. धरिष्यति  
 Pass. ध्रियते  
 PPP धृत  
@@ -1267,21 +1121,17 @@ Absol. 2: -धृत्य
 di cui:
 
 धर्म m.: ciò che è solido e trattiene = Dharma
-:::
+:::नित्य ३ : costantemente, stabile, eterno
 
-नित्य ३ : costantemente, stabile, eterno
-
-::: indent
+:::indent
 नित्यम् Avv.: sempre, costantemente, sempre
-:::
-
-प्रज्ञा f.:  saggezza, conoscenza
+:::प्रज्ञा f.:  saggezza, conoscenza
 
 प्रदान n.: dare, donare; dono, offerta
 
 मद् 4 P माद्यति (!) : rallegrarsi, ebbriarsi di qualcosa (Istr., Gen., Loc.)
 
-::: indent
+:::indent
 Fut. मदिष्यति  
 Pass. मद्यते  
 PPP मत्त  
@@ -1290,9 +1140,7 @@ Inf. मदितुम्
 di cui:
 
 मद m.: ebbrezza, ebbrezza sensoriale = piacere sensoriale
-:::
-
-मान m.: valutazione, reputazione, fama, onore, orgoglio, superbia, senso di inferiorità; (ci si confronta con gli altri)
+:::मान m.: valutazione, reputazione, fama, onore, orgoglio, superbia, senso di inferiorità; (ci si confronta con gli altri)
 
 यदि Congiunzione: se
 
@@ -1302,20 +1150,18 @@ di cui:
 
 या 2P याति, यान्ति = गम्
 
-::: indent
+:::indent
 Pass. यायते  
 PPP यात  
 Inf. यातुम्  
 Absol. 2: -याय
-:::
-
-दारिद्र्य n. = दरिद्रस्य भावः
+:::दारिद्र्य n. = दरिद्रस्य भावः
 
 प्रदान n. = दान
 
 शास् 2P शास्ति, शासति (3. pl.) : ordinare, insegnare, punire
 
-::: indent
+:::indent
 Pass. शिष्यते  
 PPP शिष्ट ३ : insegnato  
 Absol 1.: शासित्वा / शिष्त्वा
@@ -1323,9 +1169,7 @@ Absol 1.: शासित्वा / शिष्त्वा
 di cui:
 
 शिक्षा f.: scienza, istruzione; fonetica
-:::
-
-स्तेन m.: ladro
+:::स्तेन m.: ladro
 
 स्तेय n.: furto
 
@@ -1335,16 +1179,13 @@ di cui:
 
 मूल n.: radice
 
-::: media
+:::media
 ![](/images/lekt2502.webp)
 Fig.: मूलानि
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2502))
-:::
+:::लिप् 6U लिम्पति (!): ungere, spalmare
 
-
-लिप् 6U लिम्पति (!): ungere, spalmare
-
-::: indent
+:::indent
 Fut. लेप्स्यति  
 Pass. लिप्यते  
 PPP लिप्त  
@@ -1353,20 +1194,15 @@ Inf. लेप्तुम्
 di cui:
 
 लिप्ति f.: ungere, scrivere, scrittura
-:::
-
-::: media
+::::::media
 ![](/images/lekt2503.webp)
 Fig.: लिप्तिः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2503))
-:::
-
-
-वर्ष n.,m.: pioggia, stagione delle piogge, anno
+:::वर्ष n.,m.: pioggia, stagione delle piogge, anno
 
 वह् 1U वहति : condurre, guidare, soffiare (vento)
 
-::: indent
+:::indent
 Fut. वक्ष्यति  
 Pass. उह्यते  
 PPP ऊढ  
@@ -1378,37 +1214,27 @@ Absol 2: -उह्य
 di cui:
 
 विवाह m.: condurre via, matrimonio di una donna (Istr., saha) (per il matrimonio vedere Basham, Meraviglie pag. 166 -171)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2504.webp)
 Fig.: विवाहः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2504))
-:::
+:::नी + वि 1U विनयति : condurre via, istruire, educare
 
-
-नी + वि 1U विनयति : condurre via, istruire, educare
-
-::: indent
+:::indent
 di cui:
 
 विनय m.: allontanamento, educazione, disciplina, buddh.: disciplina monastica, diritto monastico
-:::
-
-विज्ञान n.: conoscenza, cognizione
+:::विज्ञान n.: conoscenza, cognizione
 
 विष्टि f.: lavoro, lavoro forzato
 
-::: media
+:::media
 ![](/images/lekt2505.webp)
 Fig.: विष्टिः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2505))
-:::
+:::वृध् 1Ā वर्धते : crescere, diventare più grande
 
-
-वृध् 1Ā वर्धते : crescere, diventare più grande
-
-::: indent
+:::indent
 Fut. वर्धिष्यते  
 Pass. वृध्यते  
 PPP वृद्ध : adulto, vecchio, aumentato  
@@ -1417,9 +1243,7 @@ Inf. वर्धितुम्
 davanti:
 
 वृद्धि f.: crescita, accrescimento, grado di dilatazione (da: vṛdh-ti)
-:::
-
-सामर्थ्य n.: ciò che corrisponde allo scopo
+:::सामर्थ्य n.: ciò che corrisponde allo scopo
 
 स्वभाव m.: essere, natura, carattere
 
@@ -1427,14 +1251,11 @@ davanti:
 
 हिरण्य ३ : dorato ; n.: oro, denaro, ricchezza
 
-::: media
+:::media
 ![](/images/lekt2506.webp)
 Fig.: हिरण्यम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2506))
-:::
-
-
-अणु ३ : sottile, fine, molto piccolo ; m.: atomo
+:::अणु ३ : sottile, fine, molto piccolo ; m.: atomo
 
 गोदान n.: dare mucche / una mucca ; seconda cerimonia di taglio dei capelli (un संस्कार)
 
@@ -1443,90 +1264,66 @@ Fig.: हिरण्यम्
 
 **वस्** 1P (वसति): dimorare, abitare (con il locativo della persona presso cui si abita)
 
-::: indent
+:::indent
 **Fut.:** वत्स्यति[[br]]**Pass.:** उष्यते[[br]]**PPP:** उषित[[br]]**Inf.:** वस्तुम्
-:::
+:::di cui:
 
-di cui:
-
-:::: indent
+::::indent
 **वस्तु** n.: sede, luogo; realtà, cosa reale, realtà, oggetto
 
-::: indent
+:::indent
 **वस्तुतस्**: in realtà, realmente
-:::
-::::
+:::::::**वस्** 2Ā (वस्ते): indossare (vestiti), portare (vestiti)
 
-**वस्** 2Ā (वस्ते): indossare (vestiti), portare (vestiti)
-
-::: indent
+:::indent
 **Fut.:** वसिष्यते[[br]]**PPP:** वसित[[br]]**Inf.:** वसितुम्
-:::
+:::di cui:
 
-di cui:
-
-::: indent
+:::indent
 **वस्त्र** n.: mezzo per indossare = vestito, abito, tessuto
-:::
-
-::: media
+::::::media
 ![](/images/lekt2706.webp)
 Fig.: वस्त्राणि
 Vastrāṇi. Majuli, Assam.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2706))
-:::
+:::**वस्** 6P (उच्छति): brillare (questa radice è importante per le formazioni nominali:)
 
-**वस्** 6P (उच्छति): brillare (questa radice è importante per le formazioni nominali:)
-
-::: indent
+:::indent
 **वसु** n.: ricchezza, tesoro, averi, proprietà
 
 **वसन्त** m.: ("lucente" =) primavera (marzo a maggio)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2707.webp)
 Fig.: वसन्तः
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2707))
-:::
+:::**हृ** 1U (हरति): tenere, portare; prendere, portare via, rubare
 
-**हृ** 1U (हरति): tenere, portare; prendere, portare via, rubare
-
-::: indent
+:::indent
 **Fut.:** हरिष्यति[[br]]**Pass.:** ह्रियते[[br]]**PPP:** हृत[[br]]**Inf.:** हर्तुम्
-:::
+:::di cui:
 
-di cui:
-
-::: indent
+:::indent
 **हर** 3: che prende via; m.: il distruttore = epiteto di Śiva
-:::
-
-Controparte di **हर**:
+:::Controparte di **हर**:
 
 **हरि** 3: biondo, giallo, verde; m. epiteto di Viṣṇu (non appartiene alla radice हृ 1)
 
 **हरिहर** m.: Viṣṇu e Śiva uniti come un'unica divinità.
 
-::: media
+:::media
 ![](/images/lekt2704.webp)
 Fig.: हरिहरः
 Harihara (a sinistra: Viṣṇu, a destra: Śiva).
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2704))
-:::
-
-::: media
+::::::media
 ![](/images/lekt2705.webp)
 Fig.: हरिहरः
 Harihara (a sinistra: Viṣṇu, a destra: Śiva). Godrumdwip, Bengala occidentale.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2705))
-:::
+:::## Lezione 28
 
-
-## Lezione 28
-
-::: indent
+:::indent
 **विद्** 2P **वेत्ति**, **विदन्ति**: sapere, conoscere
 Fut. **vediṣyati**
 Pass. **vidyate**
@@ -1534,73 +1331,55 @@ Caus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
 da ciò: **vidyā** f., **veda** m.
-:::
-
-::: indent
+::::::indent
 **विद्** 6U **विन्दति** (!): trovare
 Fut. **vediṣyati** / **vetsyat**
 Pass. **vidyate**: c'è, è presente
 Caus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
-:::
-
-::: indent
+::::::indent
 **i + adhi** 2Ā **adhīte**, **adhīyate**: studiare, imparare a memoria
 Caus. **adhyāpayati**: far studiare, insegnare
 da ciò: **adhyayana** n.: studio (specialmente del Veda); **adhyāya** m.: lezione, capitolo (sezione da imparare a memoria)
-:::
-
-::: indent
+::::::indent
 **कम्** 10Ā **कामयते**: amare
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Caus. **kāmayati**
 PPP **kānta** (!)
 Inf. **kāmayitum** / **kamitum**
-:::
-
-::: media
+::::::media
 ![](/images/lekt2804.webp)
 Fig.: कृष्णो राधां कामयति
 Dipinto di राजा रवि वर्मा (1848 - 1906)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2804))
-:::
-
-::: indent
+::::::indent
 **चुर्** 10 **चोरयति**: rubare
 Fut. **corayiṣyati**
 Pass. **coryate**
 Caus. **corayati**
 PPP **corita**
 Inf. **coritum**
-:::
-
-::: indent
+::::::indent
 **Ricordare in particolare il significato dei causativi dei seguenti verbi:**
 **dṛś** — **darśayati**: mostrare
 **man** — **mānayati**: stimare, onorare (ma probabilmente è un denominativo da **māna** "onore")
 **vac** — **vācayati**: anche: leggere ad alta voce (far pronunciare un testo)
 **vad** — **vādayati**: anche: far parlare uno strumento musicale = suonare uno strumento musicale
-:::
-
-::: media
+::::::media
 ![](/images/lekt2803.webp)
 Fig.: वीणां वादयति
 Musicista di Vīṇā.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2803))
-:::
+:::**भार** m.: carico
 
-**भार** m.: carico
-
-::: media
+:::media
 ![](/images/lekt2805.webp)
 Fig.: बाला भारं हरति
 Ragazza che trasporta un carico. Vicino ad Ahmedabad.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2805))
-:::
-
-**भृत्य** m.: subordinato, servo
+:::**भृत्य** m.: subordinato, servo
 
 ---
 
@@ -1609,13 +1388,11 @@ Ragazza che trasporta un carico. Vicino ad Ahmedabad.
 
 Prefissi:
 
-::: indent
+:::indent
 उद्° : su, in alto, verso l'alto, fuori, da, da-
 
 परि° : intorno, attorno (luogo, tempo), d'intorno
-:::
-
-भू + परि 1P परिभवति : (diventare intorno a qualcuno = accerchiare =) dominare, sconfiggere; trascurare, disprezzare
+:::भू + परि 1P परिभवति : (diventare intorno a qualcuno = accerchiare =) dominare, sconfiggere; trascurare, disprezzare
 
 अवज्ञान n.: disprezzo
 
@@ -1625,28 +1402,24 @@ Prefissi:
 
 ग्रस् 1Ā ग्रसते : consumare, divorare
 
-::: indent
+:::indent
 Fut. ग्रसिष्यते  
 Pass. ग्रस्यते  
 Caus. ग्रासयति  
 PPP ग्रस्त  
 Inf. ग्रसितुम्
-:::
-
-तीक्ष्ण 3: "selvaggio", aspro, tagliente, severo, violento, pungente
+:::तीक्ष्ण 3: "selvaggio", aspro, tagliente, severo, violento, pungente
 
 न्याय m.: norma, regola, modo giusto e corretto; metodo, logica (da इ + नि)
 
 परिव्राजक m.: vagabondo, monaco errante, pellegrino
 
-::: media
+:::media
 ![](/images/lekt2903.webp)
 Fig.: परिव्राजकाः
 Pushkar = पुष्कर [Fonte immagine: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accesso 2008-12-20. -- Licenza Creative Commons (Attribuzione, uso non commerciale, condividi allo stesso modo)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2903))
-:::
-
-पालयति : anche sinonimo di  पाति
+:::पालयति : anche sinonimo di  पाति
 
 पुनर् Indec.: di nuovo, sempre di nuovo, indietro, ancora una volta; invece, ma (prima di suoni sonori eccetto r-: पुनर्)
 
@@ -1655,68 +1428,53 @@ Pushkar = पुष्कर [Fonte immagine: pyjama. -- http://www.flickr.com/p
 मत्स्य m.: pesce
 
 da ciò:
-::: indent
+:::indent
 मात्स्य 3: appartenente al pesce (ai pesci)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2901.webp)
 Fig.: मत्स्यः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2901))
-:::
-
-मृदु  3 (f.: मृद्वी): gentile, mite, morbido; lento, debole
+:::मृदु  3 (f.: मृद्वी): gentile, mite, morbido; lento, debole
 
 यथा Avv.: come, quasi
 
 रम् 1Ā रमते : stare fermo, riposare, dimorare; provare piacere, divertirsi
 
-::: indent
+:::indent
 Fut. रंस्यते  
 Pass. रम्यते  
 Caus. रमयति  
 PPP रत  
 Inf. रन्तुम्
-:::
-
-वानप्रस्थ m.: eremita del bosco (qualcuno che si trova nel 3. आश्रम)
+:::वानप्रस्थ m.: eremita del bosco (qualcuno che si trova nel 3. आश्रम)
 
 शुचि 3: lucente, splendente, fine; m.: purezza
 
 पूज् 10P पूजयति : onorare, venerare
 
-::: indent
+:::indent
 PPP पूजित
-:::
-
-
-## Lezione 30
+:::## Lezione 30
 
 क्री 9U क्रीणाति : comprare
 
-::: indent
+:::indent
 Fut. क्रेष्यति  
 Pass. क्रीयते  
 PPP क्रीत  
 Inf. क्रेतुम्
-:::
+:::क्री + वि 9Ā विक्रीणीते : vendere
 
-क्री + वि 9Ā विक्रीणीते : vendere
-
-::: indent
+:::indent
 Assol. विक्रीय
-:::
-
-::: media
+::::::media
 ![](/images/lekt3001.webp)
 Fig.: क्रीणन्ति विक्रीणते च
 Bundi = बुन्दी, Rajasthan = राजस्थान
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3001))
-:::
+:::ज्ञा 9U जानाति : conoscere, riconoscere, sapere, comprendere
 
-ज्ञा 9U जानाति : conoscere, riconoscere, sapere, comprendere
-
-::: indent
+:::indent
 Fut. ज्ञास्यति  
 Pass. ज्ञायते  
 Caus. ज्ञापयति  
@@ -1729,89 +1487,67 @@ di cui:
 ज्ञाति m.: (consanguineo) parente (i parenti sono coloro che si conoscono!)
 
 ज्ञान n.: conoscenza, sapere, riconoscimento (spec. delle "verità" più elevate in religione e filosofia)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3002.webp)
 Fig.: ज्ञातयः
 Darewadi, Distretto di Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3002))
-:::
+:::पू 9U पुनाति : purificare
 
-पू 9U पुनाति : purificare
-
-::: indent
+:::indent
 Fut. पविष्यति  
 Pass. पूयते  
 Caus. पावयति  
 PPP पूत  
 Inf. पवितुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3003.webp)
 Fig.: श्रोत्राणि पुनाति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3003))
-:::
+:::अश् 9P अश्नाति : mangiare, consumare
 
-अश् 9P अश्नाति : mangiare, consumare
-
-::: indent
+:::indent
 Fut. अशिष्यति  
 Pass. अश्यते  
 Caus. आशयति  
 PPP अशित  
 Inf. अशितुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3005.webp)
 Fig.: अश्नीयात्
 थाली, Sud dell'India
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3005))
-:::
+:::प्रिय ३: amabile, amante, amichevole
 
-प्रिय ३: amabile, amante, amichevole
-
-::: media
+:::media
 ![](/images/lekt3004.webp)
 Fig.: प्रिया
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3004))
-:::
+:::चेत् Congiunzione: se; a patto che (non sta mai all'inizio di una frase)
 
-चेत् Congiunzione: se; a patto che (non sta mai all'inizio di una frase)
-
-::: indent
+:::indent
 न चेत् : se non
-:::
+:::यदि Congiunzione: se
 
-यदि Congiunzione: se
-
-::: indent
+:::indent
 यद्यपि : sebbene, anche se, quantunque
 
 यद्येवम् : se è così, in queste circostanze
-:::
+:::पुनर् : di nuovo, sempre di nuovo, indietro, ancora una volta, invece, ma
 
-पुनर् : di nuovo, sempre di nuovo, indietro, ancora una volta, invece, ma
-
-::: indent
+:::indent
 पुनः पुनर् : sempre di nuovo
 
 di cui:
 
 पुनर्भव m.: rinascita
-:::
-
-::: media
+::::::media
 ![](/images/lekt2904.webp)
 Fig.: पुनर्भवः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2904))
-:::
+:::जीव् 1P जीवति : vivere
 
-जीव् 1P जीवति : vivere
-
-::: indent
+:::indent
 Fut. जीविष्यति  
 Pass. जीव्यते  
 Caus. जीवयति  
@@ -1821,9 +1557,7 @@ Inf. जीवितुम्
 di cui:
 
 जीव m./n.: vita, anima individuale
-:::
-
-सनातन ३ fem.: सनातनी : eterno, imperituro, stabile
+:::सनातन ३ fem.: सनातनी : eterno, imperituro, stabile
 
 
 ## Lezione 32
@@ -1835,7 +1569,7 @@ di cui:
 **एकदा**
 
 **श्रम् श्राम्यते**
-::: indent
+:::indent
 श्रमिष्यते[[br]]
 श्रम्यते[[br]]
 श्रमयति[[br]]
@@ -1843,20 +1577,16 @@ di cui:
 श्रमित्वा । श्रान्त्वा[[br]]
 -श्रम्य[[br]]
 श्रमितुम्
-:::
-
-**पार्श्व**
+:::**पार्श्व**
 
 **चूत**
 
-::: media
+:::media
 ![](/images/lekt3202.webp)
 Fig.: चूतः
 Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3202))
-:::
-
-**तरु** **वृक्ष**
+:::**तरु** **वृक्ष**
 
 **पचेलिम**
 
@@ -1865,93 +1595,75 @@ Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 **परम्**
 
 **रुह् रोहति**
-::: indent
+:::indent
 रोक्ष्यति[[br]]
 रुह्यते[[br]]
 रोहयति । रोपयति[[br]]
 रूढ[[br]]
 -रुह्य[[br]]
 रोढुम्
-:::
-
-**ग्रह् गृह्णाति**
-::: indent
+:::**ग्रह् गृह्णाति**
+:::indent
 ग्रहीष्यति (!)[[br]]
 गृह्यते[[br]]
 ग्राहयति[[br]]
 गृहीत[[br]]
 -गृह्य[[br]]
 ग्रहीतुम् (!)
-:::
+:::**वानर कपि**
 
-**वानर कपि**
-
-::: media
+:::media
 ![](/images/lekt3203.webp)
 Fig.: वानराः
 Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3203))
-:::
-
-**लोक् लोकयति**
-::: indent
+:::**लोक् लोकयति**
+:::indent
 लोकयिष्यति[[br]]
 लोक्यते[[br]]
 लोकित[[br]]
 -लोक्य[[br]]
 लोकितुम्
-:::
-
-**प्रहर्ष**
+:::**प्रहर्ष**
 
 **कति**
 
 **उपल**
 
-::: media
+:::media
 ![](/images/lekt3204.webp)
 Fig.: उपलाः
 Cava di pietra a sud di Pune, Maharashtra. [Fonte immagine: lecercle / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3204))
-:::
+:::**लक्ष्य**
 
-**लक्ष्य**
-
-::: media
+:::media
 ![](/images/lekt3205.webp)
 Fig.: लक्ष्यम्
 Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlogelin / Flickr. CC BY-NC]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3205))
-:::
-
-**क्षिप् क्षिपति**
-::: indent
+:::**क्षिप् क्षिपति**
+:::indent
 क्षेप्स्यति[[br]]
 क्षिप्यते[[br]]
 क्षेपयति[[br]]
 क्षिप्त[[br]]
 -क्षिप्य[[br]]
 क्षेप्तुम्
-:::
-
-**चि चिनोति**
-::: indent
+:::**चि चिनोति**
+:::indent
 चेष्यति[[br]]
 चीयते[[br]]
 चाययति[[br]]
 चित[[br]]
 -चित्य[[br]]
 चेतुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3207.webp)
 Fig.: चितं गोमयं दहति
 Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine: thebigdurian / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3207))
-:::
-
-**चि अव**
+:::**चि अव**
 
 **प्रति**
 
@@ -1959,19 +1671,16 @@ Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine
 
 **कौशल कुशल**
 
-::: media
+:::media
 ![](/images/lekt3206.webp)
 Fig.: कौशलम्
 Pittura di mehndi sulle mani a Mumbai. [Fonte immagine: the_gman / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3206))
-:::
-
-
-## Lezione 33
+:::## Lezione 33
 
 **दा** 3U **ददाति**: dare
 
-::: indent
+:::indent
 **Fut.**  दास्यति  
 **Pass.** दीयते  
 **Kaus.** दापयति  
@@ -1981,53 +1690,39 @@ Pittura di mehndi sulle mani a Mumbai. [Fonte immagine: the_gman / Flickr. CC BY
 di cui:
 
 **दान** n.: dare, dono, generosità
-:::
-
-::: media
+::::::media
 ![](/images/lekt3306.webp)
 Fig.: दानम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3306))
-:::
+:::**दा** + **आ** 3Ā **अदत्ते**: (in ricezione) prendere, prendere in possesso, portare via
 
-**दा** + **आ** 3Ā **अदत्ते**: (in ricezione) prendere, prendere in possesso, portare via
-
-::: indent
+:::indent
 **Assol.** आदाय: con Acc.: in compagnia di, con
-:::
-
-::: media
+::::::media
 ![](/images/lekt3307.webp)
 Fig.: सा पुत्रमादाय भारं बिभ्रती गच्छति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3307))
-:::
+:::***धा*** 3U ***दधाति***: porre, stabilire, assegnare
 
-***धा*** 3U ***दधाति***: porre, stabilire, assegnare
-
-::: indent
+:::indent
 **Fut.** ***धास्यति***  
 **Pass.** ***धीयते***  
 **Kaus.** ***धापयति***  
 **PPP** ***हित*** (!!)  
 **Inf.** ***धातुम्***
-:::
+:::**धा** + **सम्** + **आ** 3U **समादधाति**: concentrare tutta l'attenzione su qualcosa, raccogliersi
 
-**धा** + **सम्** + **आ** 3U **समादधाति**: concentrare tutta l'attenzione su qualcosa, raccogliersi
-
-::: indent
+:::indent
 di cui:
 
 **समाधि** m.: raccoglimento interiore, massima attenzione
-:::
-
-::: media
+::::::media
 ![](/images/lekt3305.webp)
 Fig.: समाधि
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3305))
-:::
+:::**पॄ** 3P **पिपर्ति**: riempire, soddisfare
 
-**पॄ** 3P **पिपर्ति**: riempire, soddisfare
-
-::: indent
+:::indent
 Nota:
 3.pl.P ***पिपुरति***  
 3.sg.Impf.P ***अपिपर्*** (da: \*apipart)  
@@ -2038,13 +1733,11 @@ Nota:
 **Pass.** पूर्यते  
 **Kaus.** पूरयति / पारयति  
 **PPP** पूर्ण / पूर्त / पूरित
-:::
-
-**पॄ** + **सम्** solo **Pass.** सम्पूर्यते e **Kaus.** : riempire completamente
+:::**पॄ** + **सम्** solo **Pass.** सम्पूर्यते e **Kaus.** : riempire completamente
 
 **भी** 3P **बिभेति**: temere, aver paura di (Abl., Gen.)
 
-::: indent
+:::indent
 **Fut.** भेष्यति  
 **Pass.** भीयते  
 **Kaus.** भाययति  
@@ -2054,17 +1747,13 @@ Nota:
 di cui:
 
 **भय** n.: paura, timore; pericolo (il lato soggettivo e quello oggettivo)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3304.webp)
 Fig.: भयम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3304))
-:::
+:::**भृ** 3U **बिभर्ति**: portare, recare; mantenere, nutrire
 
-**भृ** 3U **बिभर्ति**: portare, recare; mantenere, nutrire
-
-::: indent
+:::indent
 **Fut.** भरिष्यति  
 **Pass.** भ्रियते  
 **Kaus.** भारयति  
@@ -2074,31 +1763,25 @@ Fig.: भयम्
 di cui:
 
 **भार** m.: carico
-:::
+:::**मा** 3Ā **मिमीते**: misurare
 
-**मा** 3Ā **मिमीते**: misurare
-
-::: indent
+:::indent
 **Fut.** मास्यति / मास्यते  
 **Pass.** मीयते  
 **Kaus.** मापयति  
 **PPP** मित  
 **Inf.** मातुम्
-:::
+:::**मा** + **उप** 3Ā **उपमिमीते**: confrontare
 
-**मा** + **उप** 3Ā **उपमिमीते**: confrontare
-
-::: indent
+:::indent
 di cui:
 
 **उपमा** f.: confronto
 
 **प्रतिमा** f.: immagine
-:::
+:::**हा** 3P **जहाति**: lasciare
 
-**हा** 3P **जहाति**: lasciare
-
-::: indent
+:::indent
 **Fut.** हास्यति  
 **Pass.** हीयते  
 **Kaus.** हापयति  
@@ -2107,54 +1790,41 @@ di cui:
 da PPP **हीन**:
 
 **हीनयान** n.: il veicolo difettoso (del Buddhismo): termine dispregiativo usato dai rappresentanti del "grande veicolo", del **महायान**; la via difettosa (**यान** a **या** 2: andare, viaggiare). L'espressione हीनयान non dovrebbe più essere utilizzata. La forma ancora esistente oggi dell'antico Buddhismo si chiama **थेरवाद**.
-:::
-
-::: media
+::::::media
 ![](/images/lekt3303.webp)
 Fig.: हीनयानमेव
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3303))
-:::
+:::**हु** 3P **जुहोति**: versare nel fuoco (come offerta, specialmente burro fuso)
 
-**हु** 3P **जुहोति**: versare nel fuoco (come offerta, specialmente burro fuso)
-
-::: indent
+:::indent
 **Fut.** होष्यति  
 **Pass.** हूयते  
 **Kaus.** हावयति  
 **PPP** हुत  
 **Inf.** होतुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3302.webp)
 Fig.: घृतमग्नौ जुहोति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3302))
 
-:::
+:::**घृत** n.: Burro chiarificato, ghee (घी / گھی / ঘী)
 
-**घृत** n.: Burro chiarificato, ghee (घी / گھی / ঘী)
-
-::: note-box
+:::note-box
 "Il ghee si ottiene cuocendo a fuoco lento burro non salato in una pentola capiente finché tutta l'acqua non è evaporata e le proteine non si sono depositate sul fondo. Il burro cotto e chiarificato viene poi rimosso con un cucchiaio per evitare di disturbare i solidi del latte sul fondo della padella. A differenza del burro, il ghee può essere conservato per periodi prolungati senza refrigerazione, purché sia conservato in un contenitore ermetico per prevenire l'ossidazione e rimanga privo di umidità. La consistenza, il colore o il gusto del ghee dipendono dalla fonte del latte da cui è stato prodotto il burro. In India, il ghee è solitamente prodotto con latte di bufala, poiché tende ad essere più bianco del latte di mucca."
 
 [Sorgente: http://en.wikipedia.org/wiki/Ghee. -- Accesso il 2008-12-26]
-:::
-
-
-## Lezione 34
+:::## Lezione 34
 
 **क्षिति f. = पृथ्वी = मही = भूमी**
 
 **शस्य = सस्य n. sg. e pl.:** semenza, raccolto, cereali
 
-::: media
+:::media
 ![](/images/lekt3406.webp)
 Fig.: सस्यम्
 Campo di riso in India.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3406))
-:::
-
-**यावत् :** quanto a lungo, quanto grande
+:::**यावत् :** quanto a lungo, quanto grande
 
 **तावत् :** tanto a lungo, tanto grande
 
@@ -2162,41 +1832,33 @@ Campo di riso in India.
 
 **द्वीप m.n.:** isola, continente
 
-::: media
+:::media
 ![](/images/lekt3405.webp)
 Fig.: लक्षद्वीपाः
 Mappa delle Isole Lakshadweep.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3405))
-:::
-
-**मर्त्य 3:** mortale (da **मृ**)
+:::**मर्त्य 3:** mortale (da **मृ**)
 
 **तिल m.:** sesamo (*Sesamum indicum* L.)
 
-::: media
+:::media
 ![](/images/lekt3403.webp)
 Fig.: तिलाः
 Semi di sesamo.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3403))
-:::
-
-::: media
+::::::media
 ![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Fioritura della pianta del sesamo.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3404))
-:::
+:::**स्वर्ण n.:** (di bel colore =) oro
 
-**स्वर्ण n.:** (di bel colore =) oro
-
-::: media
+:::media
 ![](/images/lekt3402.webp)
 Fig.: स्वर्णम्
 Tempio d'Oro (Harmandir Sahib), Amritsar.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3402))
-:::
-
-**निकेतन n.:** dimora, tempio
+:::**निकेतन n.:** dimora, tempio
 
 **कोटि f.:** punta; 10 milioni
 
@@ -2206,14 +1868,12 @@ Tempio d'Oro (Harmandir Sahib), Amritsar.
 
 **ऋषभ m.:** toro
 
-::: media
+:::media
 ![](/images/lekt3401.webp)
 Fig.: ऋषभः
 Statua del toro Nandi, Colline di Chamundi, Mysore.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3401))
-:::
-
-**यम् 1P यच्छति :** trattenere, tenere, offrire, concedere
+:::**यम् 1P यच्छति :** trattenere, tenere, offrire, concedere
 
 **यम् + प्र 1P प्रयच्छति :** porgerla, offrire, consegnare
 
@@ -2225,17 +1885,15 @@ Statua del toro Nandi, Colline di Chamundi, Mysore.
 ## Lezione 35
 
 **नश्** 4P **नश्यति** : perdersi, andare perduto, scomparire
-::: indent
+:::indent
 **Vb Perf. ननाश, नेशुर्**[[br]]
 **Fut. नशिष्यति । नङ्क्ष्यति**[[br]]
 **Caus. नाशयति**[[br]]
 **PPP नष्ट**
-:::
-
-**नश् + प्र** 4P **प्र***ण*श्यति** : scomparire, perdersi, andare perduto
+:::**नश् + प्र** 4P **प्र***ण*श्यति** : scomparire, perdersi, andare perduto
 
 **क्रम्** 1U *****क्रा*****मति**, 4P *****क्रा*****म्यति** : procedere, andare
-::: indent
+:::indent
 **Vc Perf. चक्राम, चक्रमुर्**[[br]]
 **Fut. क्रमिष्यति**[[br]]
 **Pass. क्रम्यते**[[br]]
@@ -2243,17 +1901,13 @@ Statua del toro Nandi, Colline di Chamundi, Mysore.
 **PPP ***क्रा***न्त**[[br]]
 **Inf. क्रमितुम्**[[br]]
 **Assol. क्रमित्वा । क्रन्त्वा । क्रान्त्वा**
-:::
-
-::: media
+::::::media
 ![](/images/lekt3502.webp)
 Fig.: क्रामन्ति
 Persone che camminano, Senegal. [Fonte immagine: Curt Carnemark / World Bank. CC BY-NC-ND]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3502))
-:::
-
-**गै** 1P **गायति** (gai + a-ti): cantare, recitare in tono cantilenante, annunziare in discorso poetico
-::: indent
+:::**गै** 1P **गायति** (gai + a-ti): cantare, recitare in tono cantilenante, annunziare in discorso poetico
+:::indent
 **Perf. IV जगौ, जगुर्**[[br]]
 **Fut. गास्यति**[[br]]
 **Pass. गीयते**[[br]]
@@ -2263,17 +1917,12 @@ Persone che camminano, Senegal. [Fonte immagine: Curt Carnemark / World Bank. CC
 
 da ciò:
 **गीता f.:** canto, canzone
-:::
-
-::: media
+::::::media
 ![](/images/lekt3501.webp)
 Fig.: जगुः
 Musicisti del tempio Kaadu Malleswara Temple Bangalore. [Fonte immagine: Samuelraj / Flickr. CC BY-NC]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3501))
-:::
-
-
-## Lezione 36
+:::## Lezione 36
 
 अह् P solo perfetto con significato presente आह, आहुर् : dire, parlare
 
@@ -2281,62 +1930,52 @@ Musicisti del tempio Kaadu Malleswara Temple Bangalore. [Fonte immagine: Samuelr
 
 ईक्ष् 1Ā ईक्षते : vedere, (er)blickare, esaminare
 
-::: indent
+:::indent
 Perf. ईक्षां चक्रे  
 Fut. ईक्षिष्यते  
 Pass. ईक्ष्यते  
 Kaus. ईक्षयति  
 PPP ईक्षित  
 Inf. ईक्षितुम्
-:::
-चि 5U चिनोति : accumulare, raccogliere
+:::चि 5U चिनोति : accumulare, raccogliere
 
-::: indent
+:::indent
 Perf. चिकाय । चिचाय  
 Fut. चेष्यति  
 Pass. चीयते  
 Kaus. चाययति । चापयति  
 PPP चित  
 Inf. चेतुम्
-:::
-::: media
+::::::media
 ![](/images/lekt3601.webp)
 Fig.: गोमयं चिकाय
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3601))
-:::
+:::व्रज् 1P व्रजति : procedere, andare, andarsene
 
-व्रज् 1P व्रजति : procedere, andare, andarsene
-
-::: indent
+:::indent
 Perf. Vc वव्राज, वव्रजुर्  
 Fut. व्रजिष्यति  
 Pass. व्रज्यते  
 Kaus. व्राजयति  
 PPP व्रजित  
 Inf. व्रजितुम्
-:::
-व्रज् + प्र 1P प्रव्रजति : andarsene (in particolare dalla casa verso l'irrealtà come asceta = diventare un monaco)
+:::व्रज् + प्र 1P प्रव्रजति : andarsene (in particolare dalla casa verso l'irrealtà come asceta = diventare un monaco)
 
 अगार n.। आगार n.: casa, focolare
 
-::: media
+:::media
 ![](/images/lekt3602.webp)
 Fig.: अगारम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3602))
-:::
-
-::: indent
+::::::indent
 da ciò:
 
 अनगार्य n. । अनगारika f.: irrealità di un monaco buddista o novizio
-:::
-
-::: media
+::::::media
 ![](/images/lekt3603.webp)
 Fig.: अनगार्यम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3603))
-:::
-अञ्जलि m.: Le due mani unite in alto per mostrare rispetto
+:::अञ्जलि m.: Le due mani unite in alto per mostrare rispetto
 
 आदृत 3: stimato
 
@@ -2346,32 +1985,29 @@ Fig.: अनगार्यम्
 
 पृष्ठ n: schiena, retro
 
-::: indent
+:::indent
 पृष्ठम् : dietro
-:::
-प्रजापति m.: signore delle creature, dio creatore
+:::प्रजापति m.: signore delle creature, dio creatore
 
 अनु prefisso: dopo, lungo, sopra - attraverso, lungo, secondo, aggiungere, dietro - attraverso
 
-::: indent
+:::indent
 ad esempio
 
 अनुकृ : imitare, fare come
 
 अनुगम् : seguire qualcuno, andare lungo
-:::
-अभि : -, dopo - attraverso, verso - attraverso, verso - attraverso, contro, in - dentro, in relazione a, su, sopra, a
+:::अभि : -, dopo - attraverso, verso - attraverso, verso - attraverso, contro, in - dentro, in relazione a, su, sopra, a
 
-::: indent
+:::indent
 ad esempio
 
 अभिगम् : andare verso, avvicinarsi
 
 वद् + अभि Causativo Ā अभिवादयते : salutare formalmente, rivolgere la parola
-:::
-ग्लै 1P ग्लायति : provare avversione, svanire
+:::ग्लै 1P ग्लायति : provare avversione, svanire
 
-::: indent
+:::indent
 Perf. IV जग्लौ  
 Fut. ग्लास्यति  
 Pass. ग्लायते  
@@ -2379,10 +2015,9 @@ Kaus. ग्लापयति । ग्लपयति
 PPP ग्लान  
 Inf. ग्लातुम्  
 Absol. -ग्लाय
-:::
-घ्रा 1P ***जिघ्रति*** : sentire odore di qualcosa
+:::घ्रा 1P ***जिघ्रति*** : sentire odore di qualcosa
 
-::: indent
+:::indent
 Perf. IV जघ्रौ  
 Fut. घ्रास्यति  
 Pass. घ्रायते  
@@ -2390,22 +2025,20 @@ Kaus. घ्रापयति
 PPP घ्रात । घ्राण  
 Inf. घ्रातुम्  
 Absol. -घ्राय
-:::
-प्री 9U प्रीणति : divertire, rallegrare; amare, essere favorevole a qualcuno
+:::प्री 9U प्रीणति : divertire, rallegrare; amare, essere favorevole a qualcuno
 
 प्री 4Ā प्रीयते : rallegrarsi
 
-::: indent
+:::indent
 Perf. IIIa पिप्राय, पिप्रिये  
 Fut. प्रेष्यति  
 Pass. प्रीयते  
 Kaus. ***प्रीणयति***  
 PPP प्रीत  
 Inf. प्रेतुम्
-:::
-स्पृश् 6P स्पृशति : toccare
+:::स्पृश् 6P स्पृशति : toccare
 
-::: indent
+:::indent
 Perf IIa पस्पर्श, पस्पृशुर्  
 Fut. स्पर्क्ष्यति । स्प्रक्ष्यति  
 Pass. स्पृश्यते  
@@ -2413,29 +2046,23 @@ Kaus. स्पर्शयति
 PPP स्पृष्ट  
 Inf. स्पर्ष्तुम् । स्प्रष्तुम्  
 Absol. -स्पृश्य
-:::
-::: media
+::::::media
 ![](/images/lekt3606.webp)
 Fig.: सुगतो भूमीं पस्पर्श
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3606))
-:::
+:::हृष् 4P हृष्यति : irrigidirsi: drizzarsi (capelli), rallegrarsi per (istr., acc., loc.)
 
-हृष् 4P हृष्यति : irrigidirsi: drizzarsi (capelli), rallegrarsi per (istr., acc., loc.)
-
-::: indent
+:::indent
 Perf II जहर्ष  
 Fut. हर्षिष्यति  
 Pass. हृष्यते  
 Kaus. हर्षयति  
 PPP हृषित
-:::
-::: media
+::::::media
 ![](/images/lekt3604.webp)
 Fig.: लोमहर्षः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3604))
-:::
-
-स्वक 3: proprio (mio, tuo ...) ; m.: membro
+:::स्वक 3: proprio (mio, tuo ...) ; m.: membro
 
 
 ## Lezione 37
@@ -2444,51 +2071,40 @@ Fig.: लोमहर्षः
 
 मुनि m.: Saggio, (taciturno) asceta
 
-::: indent
+:::indent
 शाक्यमुनि m.: Asceta della stirpe di शाक्य (Kṣatriya di कपिलवस्तु) = Buddha Gautama
-:::
-
-::: media
+::::::media
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Fig.: शाक्यमुनिः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3705))
-:::
-
-दिन n.: Giorno
+:::दिन n.: Giorno
 
 वृक्ष m.: Albero
 
-::: media
+:::media
 ![lekt3706.jpg](/images/lekt3706.webp)
 Fig.: वृक्षः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3706))
-:::
-
-मुख n.: Bocca, volto, parte anteriore, inizio
+:::मुख n.: Bocca, volto, parte anteriore, inizio
 
 
 ## Lezione 38
 
 सूर्य m.: Sole, dio del sole Sūrya
 
-::: media
+:::media
 ![](/images/lekt3802.webp)
 Fig.: सूर्यः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3802))
-:::
- 
+:::उदक n.: Acqua
 
-उदक n.: Acqua
-
-::: media
+:::media
 ![](/images/lekt3805.webp)
 Fig.: उदकम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3805))
-:::
+:::वा 2P वाति : soffiare, gonfiare
 
-वा 2P वाति : soffiare, gonfiare
-
-::: indent
+:::indent
 Fut. वास्यति
 Perf. IV ववौ
 Pass. वायते
@@ -2499,27 +2115,21 @@ Inf. वातुम्
 da ciò:
 
 वात m.: Vento
-:::
+:::वा + निस् 2P निर्वाति : soffiare, disperare, spegnersi
 
-वा + निस् 2P निर्वाति : soffiare, disperare, spegnersi
-
-::: indent
+:::indent
 da ciò:
 
 निर्वाण n.: Spegnimento, Nirvāṇa
 
 परिनिर्वाण n.: Spegnimento perfetto, liberazione perfetta (alla fine della vita di un Buddha o di un Arhat)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3804.webp)
 Fig.: गौतमबुद्धस्य महापरिनिर्वाणम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3804))
-:::
+:::मिह् 1P मेहति : urinare, pisciare, eiaculare
 
-मिह् 1P मेहति : urinare, pisciare, eiaculare
-
-::: indent
+:::indent
 Fut. मेक्ष्यति
 Perf. II मिमेह, मिमिहुर्
 Pass. मिह्यते
@@ -2529,13 +2139,11 @@ PPP मीढ
 da ciò:
 
 मेघ m.: Nuvola ("colui che urina")
-:::
-
-सुत m.: Figlio
+:::सुत m.: Figlio
 
 राजन् m.: Re (per il regno in India vedi Basham, Meraviglie pagg. 82 -94). Come componente finale di un composto (soprattutto तत्पुरुष) di solito: -राज m. (come देव)
 
-::: indent
+:::indent
 Femminile:
 
 राज्ञी f.: Regina, moglie di un re
@@ -2543,9 +2151,7 @@ Femminile:
 da राज :
 
 राज्य 3: regio; n. Regno, reame, dominio
-:::
-
-नामन् n.: Nome
+:::नामन् n.: Nome
 
 सीमन् f.: Confine
 
@@ -2555,31 +2161,25 @@ da राज :
 
 ब्रह्मन् m.: il dio creatore personale Brahmā
 
-::: media
+:::media
 ![](/images/lekt3809.webp)
 Fig.: ब्रह्मा
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3809))
-:::
+:::कर्मन् n. a कृ 8U: azione, fatto, opera; opera sacra, azione sacrificale; Karma: l'azione precedente che più tardi ne porta i frutti (ad esempio nella rinascita) 
 
-कर्मन् n. a कृ 8U: azione, fatto, opera; opera sacra, azione sacrificale; Karma: l'azione precedente che più tardi ne porta i frutti (ad esempio nella rinascita) 
-
-::: indent
+:::indent
 कर्मविपाक m.: Maturazione delle azioni = le conseguenze buone e cattive delle azioni nelle esistenze precedenti (a वि-पच्)
-:::
-
-हस्तिन् m.: Elefante (_Elephas maximus_)
+:::हस्तिन् m.: Elefante (_Elephas maximus_)
 
 मनु m.: Uomo, uomo; nome del padre della specie umana (a मन् 4Ā)
 
-::: indent
+:::indent
 da ciò:
 
 मनुष्य m.: Uomo
-:::
+:::शुच् 1P शोचति : (fiammeggiare, brillare); piangere, compiangere
 
-शुच् 1P शोचति : (fiammeggiare, brillare); piangere, compiangere
-
-::: indent
+:::indent
 Perf. II शुशोच, शुशुचुर्
 Fut. शोचिष्यति
 Pass. शुच्यते
@@ -2594,22 +2194,15 @@ da ciò:
 शोक m.: Dolore, afflizione
 
 अशोक 3: libero da dolore; albero Ashoka = _Saraca asoca_ (Roxb.) Wilde; nome dell'imperatore Aśoka (देवानांप्रिय प्रियदर्शी) (ca. 304   232 a.C.)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3810.webp)
 Fig.: अशोकवृक्षः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3810))
-:::
-
-::: media
+::::::media
 ![](/images/lekt3811.webp)
 Fig.: अशोकसाम्राज्यम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3811))
-:::
-
-
-## Lezione 40
+:::## Lezione 40
 
 पात्र n.: Venerabile, Maestro, Degno
 
@@ -2619,7 +2212,7 @@ Fig.: अशोकसाम्राज्यम्
 
 कॢप् 1Ā कल्पते : essere in ordine corretto, corrispondere a (Loc.) ; formarsi, costituirsi ; decidere di, acconsentire a (Dat.)
 
-::: indent
+:::indent
 Perf. II चकॢपे facoltativo अनिट्  
 Fut. कल्पिष्यते । कल्प्स्यते  
 Caus. कल्पयति : mettere in ordine, creare, formare nell'immaginazione, immaginarsi  
@@ -2629,30 +2222,24 @@ Inf. कल्पितुम् । कल्प्तुम्
 da ciò:
 
 कल्पना f.: La formazione nel pensiero, assunzione di qualcosa di non esistente nella realtà, finzione
-:::
+:::कॢप् + वि Caus. विकल्पयति : (immaginarsi in modo diverso =) mettere in discussione, dubitare
 
-कॢप् + वि Caus. विकल्पयति : (immaginarsi in modo diverso =) mettere in discussione, dubitare
-
-::: indent
+:::indent
 da ciò:
 
 विक्ल्प m.: Alternativa, dubbio
-:::
+:::तुद् 6U तुदति : colpire
 
-तुद् 6U तुदति : colpire
-
-::: indent
+:::indent
 Perf. II तुतोद, तुतुदुर्  
 Fut. तोत्स्यति  
 Pass. तुद्यते  
 Caus. तोदयति  
 PPP तुन्न (tud + na)  
 Inf. तोत्तुम्
-:::
+:::तॄ 1P तरति : attraversare, oltrepassare, salvarsi da qualcuno (Acc. = oltrepassare qualcuno)
 
-तॄ 1P तरति : attraversare, oltrepassare, salvarsi da qualcuno (Acc. = oltrepassare qualcuno)
-
-::: indent
+:::indent
 Perf. IIIb ततार, ततरुर् । तेरुर्  
 Fut. तरिष्यति । तरीष्यति  
 Pass. तीर्यते  
@@ -2663,43 +2250,31 @@ Inf. तरितुम् । तरीतुम्
 da ciò:
 
 तीर्थ n.: Guado, luogo sacro di bagno, luogo di pellegrinaggio
-:::
-
-::: media
+::::::media
 ![lekt4003.jpg](/images/lekt4003.webp)
 Fig.: हरिद्वारे तीर्थम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4003))
-:::
-
-::: indent
+::::::indent
 तीर्थङ्कर m. (da: तीर्थम्+ कृ): Costruttore di guadi (oltre il dolore) = i 24 maestri dei Giainisti
-:::
-
-::: media
+::::::media
 ![lekt4002.jpg](/images/lekt4002.webp)
 Fig.: तीर्थङ्करः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4002))
-:::
-
-अव Prefisso: giù, verso il basso, via, via-
+:::अव Prefisso: giù, verso il basso, via, via-
 
 तॄ + अव 1P अवतरति : scendere
 
-::: indent
+:::indent
 da ciò:
 
 अवतार m.: (Colui che scende, discesa) Incarnazione di un dio, in particolare le 10 incarnazioni di Viṣṇu (cfr. Basham, Meraviglie pag. 304 - 309)
-:::
-
-::: media
+::::::media
 ![lekt4001.jpg](/images/lekt4001.webp)
 Fig.: विष्णोर्दशावताराः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4001))
-:::
+:::स्वप् 2P स्वपिति,  स्वपन्ति : dormire, sdraiarsi per dormire
 
-स्वप् 2P स्वपिति,  स्वपन्ति : dormire, sdraiarsi per dormire
-
-::: indent
+:::indent
 Imperf. अस्वपीत् । अस्वपत्  
 Perf. सुष्वाप, सुषुपुर्  
 Fut. स्वप्स्यति  
@@ -2713,40 +2288,31 @@ da ciò:
 स्वप्न m.: Sonno, sogno
 
 सुप्ति f. (da \*svp-ti): Sonno, in particolare sonno profondo
-:::
-
-::: media
+::::::media
 ![lekt4004.jpg](/images/lekt4004.webp)
 Fig.: स्वपन्ति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4004))
-:::
-
-
-## Lezione 41
+:::## Lezione 41
 
 मूर्ख m = मूढ
 
 भुजङ्ग m.: serpente
 
-::: media
+:::media
 ![lekt4105.jpg](/images/lekt4105.webp)
 Fig.: भुजङ्गः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4105))
-:::
-
-केवलम् Avv.: solo, soltanto, completamente
+:::केवलम् Avv.: solo, soltanto, completamente
 
 विष n.: veleno
 
-::: media
+:::media
 ![lekt4104.jpg](/images/lekt4104.webp)
 Fig.: भुजङ्गस्य विषम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4104))
-:::
+:::शास् 2P शास्ति : rimproverare, dominare, ordinare, insegnare
 
-शास् 2P शास्ति : rimproverare, dominare, ordinare, insegnare
-
-::: indent
+:::indent
 ha la debole radice del presente **शिष्** : **शिष्मस्**, la 3.Pl. P. ha però radice forte: **शासति** (!! desinenza -ati) accanto a occasionale **शासन्ति**. **अशासुर्**. Anche l'intero आत्मनेपद ha, per quanto attesta l'uso, la radice forte: **शास्ते**
 
 Perf I **शशास**, **शशासुर्**  
@@ -2759,52 +2325,37 @@ Assol. **-शिष्य** । **-शास्य**
 di cui:
 
 **शासना** f.: editto reale, dottrina, religione
-:::
-
-::: media
+::::::media
 ![lekt4109.jpg](/images/lekt4109.webp)
 Fig.: शासना
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4109))
-:::
-
-::: indent
+::::::indent
 **शास्त्र** n.: dottrina, opera dottrinale
 
 **शास्त्रिन्** m.: istruito, dotto
-:::
-
-::: media
+::::::media
 ![lekt4110.jpg](/images/lekt4110.webp)
 Fig.: शास्त्री
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4110))
-:::
-
-::: indent
+::::::indent
 **शिष्य** 3: da istruire = discepolo
-:::
-
-शरण 3: protettivo, schermante; n. protezione, rifugio, il rifugiarsi
+:::शरण 3: protettivo, schermante; n. protezione, rifugio, il rifugiarsi
 
 सङ्घ n.: (a सम्-हन् : battere insieme): schiera, branco, comunità (ad es. buddhista)
 
-::: deleteme-box
+:::deleteme-box
 cfr. inoltre:
 
 **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
-
-कन्या f.: giovane ragazza, figlia, vergine
+:::कन्या f.: giovane ragazza, figlia, vergine
 
 अति Prefisso: sopra, oltre, in avanti (nello spazio, nel tempo, in numero, in quantità, nell'ordine, in potenza, in intensità), estremamente
 
 इ + अति 2P अत्येति : passare oltre
 
-::: indent
+:::indent
 PPP **अतीत** : n. passato
-:::
-
-
-## Lezione 42
+:::## Lezione 42
 
 प्रकृति f.: (da कृ + प्र) forma fondamentale, stato naturale, natura; materia primordiale, sostanza primordiale
 
@@ -2812,11 +2363,9 @@ PPP **अतीत** : n. passato
 
 स्था + अव 1Ā अवतिष्ठते : astenersi, prendere le distanze, tenersi alla larga, rimanere, stare in piedi
 
-::: indent
+:::indent
 PPP अवस्थित 3: in piedi, esistente
-:::
-
-पुरा Avv.: un tempo, in passato
+:::पुरा Avv.: un tempo, in passato
 
 अनेक 3: molti (non alcuni)
 
@@ -2836,7 +2385,7 @@ PPP अवस्थित 3: in piedi, esistente
 
 चल् 1P चलति : mettersi in movimento
 
-::: indent
+:::indent
 Fut. चलिष्यति  
 Perf. Vb चचाल, चेलुर्  
 Pass. चल्यते  
@@ -2844,9 +2393,7 @@ Caus. चलयति । चालयति
 PPP चलित  
 Assol. -चल्य  
 Inf. चलितुम्
-:::
-
-अधिपति m. = राजन्
+:::अधिपति m. = राजन्
 
 आटोप m.: vanità, orgoglio
 
@@ -2864,7 +2411,7 @@ Inf. चलितुम्
 
 शंस् 1P शंसति : lodare, ordinare
 
-::: indent
+:::indent
 Fut. शंसिष्यति  
 Perf. I शशंस  
 Pass. शस्यते  
@@ -2872,19 +2419,15 @@ Caus. शंसयति
 PPP शस्त  
 Assol. शसित्वा । शस्त्वा  
 Inf. शंसितुम्
-:::
-
-हृदय n.: cuore
+:::हृदय n.: cuore
 
 ### 42.2.1. Alcune denominazioni di parentela
 
-::: media
+:::media
 ![lekt4202.jpg](/images/lekt4202.webp)
 Fig.: माता, पिता, पुत्रकः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4202))
-::: 
-
-भर्तृ m. (da भृ "portare, sostenere"): Sostenitore, Nutritore, Sposo
+:::भर्तृ m. (da भृ "portare, sostenere"): Sostenitore, Nutritore, Sposo
 
 भार्या f.,  जाया f.  पत्नी f.: Moglie (भार्या = gerundivo di भृ : da portare, da sostenere, avente diritto al sostentamento)
 
@@ -2942,22 +2485,19 @@ Si compiono riti per entrambi, detti श्राद्ध n. Ogni giorno si off
 
 आपण m.: mercato
 
-::: media
+:::media
 ![](/images/lekt4302.webp)
 Fig.: आपणः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4302))
-:::
-
-सत्वर 3: veloce, affrettato
+:::सत्वर 3: veloce, affrettato
 
 पण्य 3: vendibile; n.: merce, commercio
 
-::: media
+:::media
 ![]/images/lekt4303.webp
 Fig.: पण्यानि
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4303))
-:::
-आम् : sì
+:::आम् : sì
 
 सम m. = वर्ष n.
 
@@ -2975,33 +2515,27 @@ Fig.: पण्यानि
 
 विपणि f.: negozio
 
-::: media
+:::media
 ![](/images/lekt4304.webp)
 Fig.: विपणिः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4304))
-:::
+:::वणिज् m.: mercante
 
-वणिज् m.: mercante
-
-::: media
+:::media
 ![](/images/lekt4305.webp)
 Fig.: वणिक्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4305))
-:::
-
-वर 3: migliore
+:::वर 3: migliore
 
 शीघ्र 3: veloce, rapido
 
 वत्स m.: vitello, cucciolo, figlio ; Voc.: mio caro
 
-::: media
+:::media
 ![](/images/lekt4306.webp)
 Fig.: वत्सः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4306))
-:::
-
-उत्तम 3: supremo, migliore
+:::उत्तम 3: supremo, migliore
 
 अल्प 3: piccolo, minimo
 
@@ -3017,13 +2551,11 @@ Fig.: वत्सः
 
 तर्हि 10 तुल् तुलयति । : pesare
 
-::: media
+:::media
 ![](/images/lekt4307.webp)
 Fig.: तोलयति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4307))
-:::
-
-तोलन्ति n.: carta
+:::तोलन्ति n.: carta
 
 कर्गल m.: scatola (qui: pacco, fascio)
 
@@ -3035,7 +2567,7 @@ Fig.: तोलयति
 
 जव 1P द्रु correre
 
-::: indent
+:::indent
 Perf. IIIa द्रवति, दुद्राव  
 Fut. दुद्रुवुर्  
 Pass. द्रोष्यति  
@@ -3043,9 +2575,7 @@ Caus. द्रूयते
 PPP द्रावयति  
 Assol. -द्रुत  
 Inf. द्रुत्य
-:::
-
-द्रोतुम् Interiezione: Ehi! Tu laggiù!
+:::द्रोतुम् Interiezione: Ehi! Tu laggiù!
 
 रे 3: un altro (declinazione come अन्यद् )
 
@@ -3066,7 +2596,7 @@ Inf. द्रुत्य
 
 प्रति Prefisso: indietro, contro, verso - avanti
 
-::: indent
+:::indent
 ad esempio
 
 **हन् + प्रति** 2P प्रतिहन्ति : respingere, battere indietro
@@ -3074,11 +2604,9 @@ ad esempio
 **वद् + प्रति** 1P प्रतिवदति : rispondere = rispondere
 
 **ख्या + प्रति + आ** 2P प्रत्याख्याति : respingere, disprezzare
-:::
+:::या 2P याति : andare, viaggiare
 
-या 2P याति : andare, viaggiare
-
-::: indent
+:::indent
 Perf. IV ययौ  
 Fut. यास्यति  
 Pass. यायते  
@@ -3089,17 +2617,13 @@ Inf. यातुम्
 di cui:
 
 **यान** n.: andare, via, veicolo
-:::
-
-::: media
+::::::media
 ![](/images/lekt4403.webp)
 Fig.: रेल्यानम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4403))
-:::
+:::**शी** 2Ā शेते : giacere. Questa radice ha in tutte le forme del tema presente ***grado alto:*** 1.sg.Ind.Pres.Ā ***शेये*** (śe + e). Le seguenti forme sono particolarmente da notare: 3.pl.Ind.Pres.Ā ***शेरते***, 3.pl.Impf.Ā ***अशेरत***
 
-**शी** 2Ā शेते : giacere. Questa radice ha in tutte le forme del tema presente ***grado alto:*** 1.sg.Ind.Pres.Ā ***शेये*** (śe + e). Le seguenti forme sono particolarmente da notare: 3.pl.Ind.Pres.Ā ***शेरते***, 3.pl.Impf.Ā ***अशेरत***
-
-::: indent
+:::indent
 Perf. IIIa शिश्ये (śi-śī + e)  
 Fut. शयिष्यते  
 Kaus. शापयति  
@@ -3109,17 +2633,13 @@ Inf. शयितुम्
 di cui:
 
 **शयन** n.: giaciglio, letto
-:::
-
-::: media
+::::::media
 ![](/images/lekt4404.webp)
 Fig.: योगी शयने शेते
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4404))
-:::
+:::नन्द् 1P नन्दति : rallegrarsi di (तृतीयया)
 
-नन्द् 1P नन्दति : rallegrarsi di (तृतीयया)
-
-::: indent
+:::indent
 Perf. I ननन्द  
 Fut. नन्दिष्यति  
 Pass.: नन्द्यते  
@@ -3132,19 +2652,15 @@ Gerundivo नन्द्य
 di cui:
 
 **नन्दिन्** 3: caratterizzato da (particolare) gioia, gioioso; m. nome del cavallo (वहन) di शिव (un toro)
-:::
-
-::: media
+::::::media
 ![](/images/lekt4405.webp)
 Fig.: नन्दी
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4405))
-:::
-
-नन्द् + अभि 1P (1Ā)  अभिनन्दति : avere la propria gioia in (द्वितीयया), salutare con gioia qualcuno, dare il benvenuto
+:::नन्द् + अभि 1P (1Ā)  अभिनन्दति : avere la propria gioia in (द्वितीयया), salutare con gioia qualcuno, dare il benvenuto
 
 **यम्** 1P ***यच्छति*** : tenere, portare; offrire, concedere; tenere insieme, domare, frenare, sottomettere
 
-::: indent
+:::indent
 Perf. Vb ययाम, येमुर्  
 Fut. यंस्यति  
 Pass. यम्यते  
@@ -3152,27 +2668,21 @@ Kaus. यामयति ma: नि***यम***यति
 PPP यत  
 Inf. यन्तुम्  
 Assol. -यम्य
-:::
+:::**यम् + आ** 1***U*** आयच्छति : allungare, stendere
 
-**यम् + आ** 1***U*** आयच्छति : allungare, stendere
-
-::: indent
+:::indent
 PPP आयत 3: disteso a lungo
-:::
-
-::: media
+::::::media
 ![](/images/lekt4406.webp)
 Fig.: आयतो मरुः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4406))
-:::
-
-यम् + प्र 1P प्रयच्छति : offrire, presentare, consegnare
+:::यम् + प्र 1P प्रयच्छति : offrire, presentare, consegnare
 
 यम् + सम् 1P संयच्छति : legare insieme, legare, domare
 
 यत् 1Ā यतते : aspirare a (सप्तमी, चतुर्थी, द्वितीया)
 
-::: indent
+:::indent
 Perf. Vb येते  
 Fut. यतिष्यते  
 Pass. यत्यते  
@@ -3183,17 +2693,13 @@ Inf. यतितुम्
 di cui:
 
 **यत्न** m.: sforzo, fatica
-:::
-
-::: media
+::::::media
 ![](/images/lekt4407.webp)
 Fig.: यत्नेन
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4407))
-:::
+:::**रभ्** 1Ā रभते (forma alternativa a लभ्): afferrare
 
-**रभ्** 1Ā रभते (forma alternativa a लभ्): afferrare
-
-::: indent
+:::indent
 Perf. Vb रेभे  
 Fut. रप्स्यते  
 Pass. रभ्यते  
@@ -3201,27 +2707,20 @@ Kaus. ***रम्भ***यति
 PPP रब्ध  
 Inf. रब्धुम्  
 Assol. -रभ्य
-:::
-
-रभ् + आ 1Ā आरभते : toccare, iniziare, intraprendere
+:::रभ् + आ 1Ā आरभते : toccare, iniziare, intraprendere
 
 प्रव्रज्या f. (a प्र-व्रज्): l'andare via dalla casa verso l'essere senza casa; cerimonia con cui si diventa novizio buddhista (Pali: पब्बजा)
 
-::: deleteme-box
+:::deleteme-box
 Vedere:
 
 **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
-:::
-
-::: media
+::::::media
 ![](/images/lekt4408.webp)
 Fig.: प्रव्रअज्या / पब्बजा
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4408))
-:::
-
-
-## Lezione 45
+:::## Lezione 45
 
 वा ... वा : oppure ... oppure
 
@@ -3230,16 +2729,15 @@ Fig.: प्रव्रअज्या / पब्बजा
 
 सम 3: uguale, esatto, simile
 
-::: indent
+:::indent
 Derivati:
 समम् Avv.: in modo uguale, simultaneamente (dativo), uniformemente
 समता f.: equanimità
 विषम 3: disuguale, irregolare, maligno
 
-:::
-ग्रह् 9U ***गृ***ह्णाति (gṛh-ṇā-ti) : afferrare, agguantare, prendere
+:::ग्रह् 9U ***गृ***ह्णाति (gṛh-ṇā-ti) : afferrare, agguantare, prendere
 
-::: indent
+:::indent
 Perfetto Va (!) जग्राह, जगृहुर्  
 Futuro ग्र***ही***ष्यति  
 Passivo गृह्यते  
@@ -3260,37 +2758,28 @@ Derivati:
 8.  राहुः
 9.  केतुः
 
-:::
-
-Per राहु e केतु vedere:
+:::Per राहु e केतु vedere:
 
 > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Introduzione e panoramica. -- 10. Sacramenti e riti di passaggio (samskara). -- Appendice C: Rahu e Ketu, i pianeti erranti invisibili. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
-::: media
+:::media
 ![](/images/lekt4602.webp)
 Fig.: [सूर्यः, चन्द्रः, मङ्गलः](/it/licenses#lekt4602)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4602))
-:::
-::: media
+::::::media
 ![](/images/lekt4603.webp)
 Fig.: [बुधः, बृहस्पतिः](/it/licenses#lekt4603)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4603))
-:::
-
-::: media
+::::::media
 ![](/images/lekt4604.webp)
 Fig.: [शुक्रः, शनिः](/it/licenses#lekt4604)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4604))
-:::
-::: media
+::::::media
 ![](/images/lekt4605.webp)
 Fig.: [राहुः, केतुः](/it/licenses#lekt4605)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4605))
-:::
+:::तुष् 4P तुष्यति : accontentarsi, essere soddisfatto di (genitivo, dativo, strumentale, ablativo)
 
-
-तुष् 4P तुष्यति : accontentarsi, essere soddisfatto di (genitivo, dativo, strumentale, ablativo)
-
-::: indent
+:::indent
 Perfetto II तुतोष, तुतुषुर्  
 Futuro तोक्ष्यति  
 Passivo तुष्यते  
@@ -3298,10 +2787,9 @@ Causativo तोषयति
 PPP तुष्ट  
 Infinito तोष्टुम्
 
-:::
-नम् 1P नमति : piegarsi, inchinarsi, inclinarsi, prostrarsi
+:::नम् 1P नमति : piegarsi, inchinarsi, inclinarsi, prostrarsi
 
-::: indent
+:::indent
 Perfetto Vb ननाम, नेमुर्  
 Futuro नंस्यति  
 Passivo नम्यते  
@@ -3309,17 +2797,13 @@ Causativo नमयति । नामयति
 PPP नत  
 Infinito नन्तुम्
 
-:::
-::: media
+::::::media
 ![](/images/lekt4607.webp)
 Fig.: [नारायण तुभ्यं नमामि](/it/licenses#lekt4607)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4607))
-:::
+:::रुह् 1P रोहति : salire, arrampicarsi
 
-
-रुह् 1P रोहति : salire, arrampicarsi
-
-::: indent
+:::indent
 Perfetto II रुरोह, रुरुहे  
 Futuro रोक्ष्यति  
 Passivo रुह्यते  
@@ -3327,17 +2811,13 @@ Causativo रोहयति । रो***प***यति
 PPP. ***रूढ***  
 Infinito रोढुम्
 
-:::
-::: media
+::::::media
 ![](/images/lekt4606.webp)
 Fig.: [अश्वरोहकः](/it/licenses#lekt4606)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4606))
-:::
+:::ह्वे । हू 1U ह्वयति : chiamare, convocare
 
-
-ह्वे । हू 1U ह्वयति : chiamare, convocare
-
-::: indent
+:::indent
 Perfetto IIIa जुहाव, जुहुवे  
 Futuro ह्वास्यति  
 Passivo हूयते  
@@ -3346,25 +2826,20 @@ PPP हूत
 Infinito ह्वातुम्  
 Assoluto -हूय
 
-:::
-::: media
+::::::media
 ![](/images/lekt4608.webp)
 Fig.: [महामात्र कं चरिष्णुदूरशब्देनाह्वयसि](/it/licenses#lekt4608)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4608))
-:::
-
-
-::: indent
+::::::indent
 1 महामात्र m. "Mahout"; चरिष्णु 3 "mobile", दूरशब्द m. "telefonata a distanza, telefono" » चरिष्णुदूरशब्द "telefono cellulare" (formazione lessicale: A. Payer)
 
-:::
-विभ्रम m.: l'andare e venire
+:::विभ्रम m.: l'andare e venire
 
 भ्रंश m.: il cadere, il distacco
 
 श्रम् 4P ***श्रा***म्यति : affaticarsi, stancarsi
 
-::: indent
+:::indent
 Perfetto Vc शश्राम, शश्रामुर्  
 Futuro श्रमिष्यति  
 Passivo श्रम्यते  
@@ -3375,16 +2850,13 @@ Assoluto श्रमित्वा । श्रान्त्वा
 Derivati:
 आश्रम m.n.
 
-:::
-::: media
+::::::media
 ![](/images/lekt4609.webp)
 Fig.: [श्रान्तः](/it/licenses#lekt4609)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4609))
-:::
+:::श्रि 1U श्रयति : appoggiarsi, appoggiarsi a, trovare sostegno, recarsi da qualcuno (con il dativo, ablativo)
 
-श्रि 1U श्रयति : appoggiarsi, appoggiarsi a, trovare sostegno, recarsi da qualcuno (con il dativo, ablativo)
-
-::: indent
+:::indent
 Perf. IIIa शिश्राय, शिश्रिये  
 Fut. श्रयिष्यति  
 Pass. श्रीयते  
@@ -3392,10 +2864,9 @@ Caus. श्राययति
 PPP श्रित  
 Inf. श्रयितुम्
 
-:::
-सञ्ज् 1P ***सज***ति : attaccare, aderire a (con l'ablativo)
+:::सञ्ज् 1P ***सज***ति : attaccare, aderire a (con l'ablativo)
 
-::: indent
+:::indent
 Perf. I ससञ्ज, ससञ्जुर्  
 Fut. संक्ष्यति  
 Pass. सज्यते  
@@ -3405,16 +2876,13 @@ Inf. संक्तुम्
 da ciò:
 सङ्ग m.: l'attaccamento a, il contatto con (con il strumentale)
 
-:::
-::: media
+::::::media
 ![](/images/lekt4610.webp)
 Fig.: [सङ्गः](/it/licenses#lekt4610)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4610))
-:::
+:::द्रु 1P द्रवति : correre, affrettarsi
 
-द्रु 1P द्रवति : correre, affrettarsi
-
-::: indent
+:::indent
 Perf IIIa (Aniṭ) दुद्राव, दुद्रुवुर्  
 Fut. द्रोष्यति  
 Pass. द्रूयते  
@@ -3423,10 +2891,9 @@ PPP द्रुत
 Inf. द्रोतुम्  
 Assol. -द्रुत्य
 
-:::
-भ्रम् 1P भ्रमति । 4P ***भ्रा***म्यति : errare, vagare
+:::भ्रम् 1P भ्रमति । 4P ***भ्रा***म्यति : errare, vagare
 
-::: indent
+:::indent
 Perf. Vc बभ्राम, बभ्रमुर् । Vb भ्रेमुर्  
 Fut. भ्रमिष्यति  
 Caus. भ्रमयति  
@@ -3436,10 +2903,9 @@ Assol. -भ्रम्य
 da ciò:
 विभ्रम m.: errare, confusione, errore
 
-:::
-लम्ब् 1Ā लम्बते : pendere da (con l'ablativo), appendersi a (con l'ablativo)
+:::लम्ब् 1Ā लम्बते : pendere da (con l'ablativo), appendersi a (con l'ablativo)
 
-::: indent
+:::indent
 Perf. I ललम्बे  
 Fut. लम्बिष्यते  
 Pass. लम्ब्यते  
@@ -3448,40 +2914,32 @@ PPP लम्बित
 Inf. लम्बितुम्  
 Assol. -लम्ब्य
 
-:::
-::: media
+::::::media
 ![](/images/lekt4601.jpg)
 Fig.: [लम्बोदर नमस्तुभ्यम्](/it/licenses#lekt4601)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4601))
-:::
-
-लम्ब् + आ 1Ā आलम्बते : appendersi a (con l'accusativo)
+:::लम्ब् + आ 1Ā आलम्बते : appendersi a (con l'accusativo)
 
 यदि congiunzione:  se
 
 भू + परि 1P परिभवति : circondare, dominare, sconfiggere
 
-::: indent
+:::indent
 PPP परिभूत 3: sconfitto, umiliato, abbattuto
 
-:::
-नि prefisso verbale: verso il basso, giù, dentro, all'indietro
+:::नि prefisso verbale: verso il basso, giù, dentro, all'indietro
 
-::: indent
+:::indent
 ad es.
 सद् + नि 1P नि***षी***दति : sedersi
 
-:::
-भोस् particella vocativa: esclamazione di indirizzo, ad es.: ehi, ehi là, oh, eh, ciao, hi! Spesso non traducibile. Questa particella presenta un Sandhi speciale: davanti a tutti i suoni sonori, la forma è ***भो***.
+:::भोस् particella vocativa: esclamazione di indirizzo, ad es.: ehi, ehi là, oh, eh, ciao, hi! Spesso non traducibile. Questa particella presenta un Sandhi speciale: davanti a tutti i suoni sonori, la forma è ***भो***.
 
-::: media
+:::media
 ![](/images/lekt4611.webp)
 Fig.: [भोः](/it/licenses#lekt4611)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4611))
-:::
-
-
-## Lezione 48
+:::## Lezione 48
 
 श्वस् : domani
 
@@ -3493,25 +2951,21 @@ Fig.: [भोः](/it/licenses#lekt4611)
 
 तन्त्र n.: Corda ; Telaio, ordito, tessuto ; Fondamento, norma, regola ; Dottrina, opera didattica ; Tantra ; Formula magica ; Mezzo, trucco, farmaco ; Governo, autorità
 
-::: media
+:::media
 ![](/images/lekt4802.webp)
 Fig.: तन्त्रम्
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4802))
-:::
-
-::: media
+::::::media
 ![](/images/lekt4803.webp)
 Fig.: तन्त्री
 Musicisti di sitar = सितारवादकः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4803))
-:::
-
-स्त्री f.: Donna, moglie ; Femminile
+:::स्त्री f.: Donna, moglie ; Femminile
 
 Declinazione:
 
-::: grammar-box
+:::grammar-box
 | **स्त्री f.** | **एकवचनम्** | **बहुवचनम्** |
 | :---: | :---: | :---: |
 | **प्रथमा** | स्त्री | स्त्रियस् |
@@ -3522,64 +2976,52 @@ Declinazione:
 | **षष्ठी** | स्त्रियास् | स्त्रीणाम् |
 | **सप्तमी** | स्त्रियाम् | स्त्रीषु |
 | **आमन्त्रितम्** | स्त्रि | स्त्रियस् |
-:::
-
-::: media
+::::::media
 ![](/images/lekt4804.webp)
 Fig.: स्वतन्त्राः स्त्रियः
 [Gruppo di auto-aiuto (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4804))
-:::
-
-दिवानिशम् Avverbio: di giorno e di notte
+:::दिवानिशम् Avverbio: di giorno e di notte
 
 सज्ज् 1P सज्जति : appendere, aderire
 
 कुमार m.: Bambino, giovane, principe; Epiteto di कार्तिकेय / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
-::: media
+:::media
 ![](/images/lekt4805.webp)
 Fig.: कुमारः
 Festival Thaipusam = தைப்பூசம், Batu Caves, Malesia
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4805))
-:::
+:::कुमारी f.: Ragazza, figlia
 
-कुमारी f.: Ragazza, figlia
-
-::: media
+:::media
 ![](/images/lekt4806.webp)
 Fig.: कुमारी
 नेपाल
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4806))
-:::
-
-कौमर n.: Infanzia
+:::कौमर n.: Infanzia
 
 यौवन n.: Giovinezza
 
 स्थविर 3: vecchio, anziano
 
-::: media
+:::media
 ![](/images/lekt4807.webp)
 Fig.: स्थविराः
 जोधपुर
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4807))
-:::
-
-स्थाविर n.: (alto) Età
+:::स्थाविर n.: (alto) Età
 
 वाच्य 3: anche: biasimevole
 
 सूक्ष्म 3: fine, minuscolo, sottile
 
-::: media
+:::media
 ![](/images/lekt4808.webp)
 Fig.: सूक्ष्मम्
 Lago Karanji = ಕಾರಂಜಿ ಕೆರೆ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4808))
-:::
-
-प्रसङ्ग m.: Attaccamento, inclinazione ; Occasione
+:::प्रसङ्ग m.: Attaccamento, inclinazione ; Occasione
 
 विशेष m.: Differenza, particolarità
 
@@ -3589,15 +3031,12 @@ Lago Karanji = ಕಾರಂಜಿ ಕೆರೆ
 
 जाया f.: Moglie
 
-::: media
+:::media
 ![](/images/lekt4809.webp)
 Fig.: मम जाया
 (Immagine: Payer)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4809))
-:::
-
-
-## Lezione 49
+:::## Lezione 49
 
 दीर्घ 3: lungo
 
@@ -3605,21 +3044,18 @@ Fig.: मम जाया
 
 आयुस् n.: durata della vita (la piena durata della vita che si può vivere, se nulla si interpone);
 
-:::: indent
+::::indent
 di cui:
 
 आयुर्वेद m.: il sistema medico tradizionale dell'India
 
 vedi:
 
-::: indent
+:::indent
 **Carakasaṃhitā:** Testi scelti dal Carakasaṃhitā / tradotti e commentati da Alois Payer &lt;1944 - &gt;. -- 0. Introduzione. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
-:::
-::::
+:::::::क्षिप् 6P क्षिपति : gettare, scagliare
 
-क्षिप् 6P क्षिपति : gettare, scagliare
-
-::: indent
+:::indent
 Perf. II चिक्षेप, चिक्षेपिथ, चिक्षिपुर्
 Fut. क्षेप्स्यति
 Pass. क्षिप्यते
@@ -3628,79 +3064,68 @@ PPP क्षिप्त
 Inf. क्षेप्तुम्
 Assol. -क्षिप्य
 Gerundivo: क्षेप्य
-:::
+:::त्वर् 1Ā त्वरते : affrettarsi
 
-त्वर् 1Ā त्वरते : affrettarsi
-
-::: indent
+:::indent
 Perf. Vc तत्वरे
 Fut. त्वरिष्यते
 Pass. त्वर्यते
 Kaus. त्वरयति
 PPP त्वरित । ***तू्र्***ण
 Inf. त्वरितुम्
-:::
+:::द्रुह् 4P द्रुह्यति : danneggiare
 
-द्रुह् 4P द्रुह्यति : danneggiare
-
-::: indent
+:::indent
 Perf. II दुद्रोह, दुद्रुहुर्
 Fut. द्रोहिष्यति । ध्रोक्ष्यति
 Pass. द्रुह्यते
 Kaus. द्रोहयति
 PPP द्रुग्ध । द्रूढ
 Inf. द्रोग्धुम्
-:::
+:::कुलूहल n.: curiosità, interesse
 
-कुलूहल n.: curiosità, interesse
-
-::: media
+:::media
 ![](/images/lekt4901.webp)
 Fig.: कुलूहलम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4901))
-:::
-कृत्स्न 3: intero, completo
+:::कृत्स्न 3: intero, completo
 
 परिचय m.: conoscenza
 
 कला f.: arte
 
-::: media
+:::media
 ![](/images/lekt4902.webp)
 Fig.: उत्तमा काला
 शिवो नटराजा, XI sec.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4902))
-:::
-वर m.n.: desiderio
+:::वर m.n.: desiderio
 
 उत Indecl.: e, anche, o
 
 विहंग m.: uccello ("che vola स् - विह - nell'aria")
 
-::: media
+:::media
 ![](/images/lekt4903.jpg)
 Fig.: विहंगः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4903))
-:::
-वेष m.: vestito, aspetto, esteriore
+:::वेष m.: vestito, aspetto, esteriore
 
-::: media
+:::media
 ![](/images/lekt4904.webp)
 Fig.: वेषः
 वाराणस्याम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4904))
-:::
-छन्न n.: coperta, nascondiglio
+:::छन्न n.: coperta, nascondiglio
 
 पञ्जर n.: gabbia
 
-::: media
+:::media
 ![](/images/lekt4909.webp)
 Fig.: पञ्जरम्
 Indovino con pappagallo in gabbia: il pappagallo estrae bigliettini sui quali è scritto il destino Mysore
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4909))
-:::
-चाण्डाल । चण्डाल m.: livello più basso dei [Dalit](http://de.wikipedia.org/wiki/Dalit)
+:::चाण्डाल । चण्डाल m.: livello più basso dei [Dalit](http://de.wikipedia.org/wiki/Dalit)
 
 स्वयम् Indecl.: stesso, da sé
 
@@ -3710,7 +3135,7 @@ Indovino con pappagallo in gabbia: il pappagallo estrae bigliettini sui quali è
 
 ध्यै 1P ध्यायति : immaginare, pensare
 
-::: indent
+:::indent
 Perf. IV दध्यौ
 Fut. ध्यास्यति
 Pass. ध्यायते
@@ -3718,31 +3143,25 @@ Kaus. ध्यापयति
 PPP ध्यात
 Inf. ध्यातुम्
 Gerundivo ध्येय
-:::
+:::आदर m.: considerazione, attenzione, rispetto
 
-आदर m.: considerazione, attenzione, rispetto
-
-::: media
+:::media
 ![](/images/lekt4905.webp)
 Fig.: सादरः
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4905))
-:::
-कुतुक n. = कुलूहल n.
+:::कुतुक n. = कुलूहल n.
 
 परम 3: più lontano, più alto; पञ्चम्या : migliore di, più alto di
 
 शिशु m.: bambino, giovane
 
-::: media
+:::media
 ![](/images/lekt4906.webp)
 Fig.: गजशिशुः
 Sri Lanka
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4906))
-:::
-
-
-## Lezione 50
+:::## Lezione 50
 
 ध्रुव 3: fisso, immutabile
 
@@ -3754,27 +3173,24 @@ Sri Lanka
 
 मन्त्रिन् 3: che consiglia; m.: consigliere, consigliere comunale, ministro
 
-::: media
+:::media
 ![](/images/lekt5001.jpg)
 Fig.: मन्त्री
 Kapil Sibal (1948 -), ministro federale nel Ministero della Scienza e della Tecnologia e nel Ministero delle Scienze della Terra (dal 2006)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5001))
-:::
-रहस् n.: mistero, solitudine
+:::रहस् n.: mistero, solitudine
 
 रिष् 1P रिषति 4P रिष्यति : essere danneggiato, fallire, rovinare
 
-::: indent
+:::indent
 Perf. II रिरेष, रिरिषुर्
 Fut. रेषिष्यति
 Pass. रिष्यते
 Kaus. रेषयति
 PPP रिष्ट
-:::
+:::**लुप् 6U *लुम्प*ति** : rompere, distruggere
 
-**लुप् 6U *लुम्प*ति** : rompere, distruggere
-
-::: indent
+:::indent
 Perf.  II लुलोप, लुलुपे
 Fut. लोप्स्यति
 Pass. लुप्यते
@@ -3782,13 +3198,11 @@ Kaus. लोपयति
 PPP लुप्त
 Inf. लोप्तुम्
 Gerundiv लुप्य । लोप्य
-:::
-
-विधि m.: anche: destino (a विधा)
+:::विधि m.: anche: destino (a विधा)
 
 वृष् 1P वर्षति : piovere (di solito con un कर्तृ -- un dio o una nuvola)
 
-::: indent
+:::indent
 Perf. II ववर्ष, ववृषुर्
 Fut. वर्षिष्यति
 Pass. वृष्यते
@@ -3797,28 +3211,24 @@ PPP वृष्ट
 Inf. वर्षितुम्
 Assol. वर्षित्वा । वृष्ट्वा
 Assol.-वृष्य
-:::
-
-::: media
+::::::media
 ![](/images/lekt5002.jpg)
 Fig.: महामेघो वर्षिष्यति
 Arrivo del monsone, Bangalore  ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5002))
-:::
-संयक् Avv.: correttamente, veritiero, nel modo dovuto; del tutto, completamente
+:::संयक् Avv.: correttamente, veritiero, nel modo dovuto; del tutto, completamente
 
 आदित्य m.: Sole; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : una certa classe di dèi
 
-::: media
+:::media
 ![](/images/lekt5005.jpg)
 Fig.: आदित्यः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5005))
-:::
-सर्व 3: ciascuno, tutti
+:::सर्व 3: ciascuno, tutti
 
 Declinazione come यद् (eccezione: Nom.Akk.sg.Neutro)
 
-::: grammar-box
+:::grammar-box
 | | Singolare[[br]]एकवचनम् || || Plurale[[br]]बहुवचनम् || ||
 | | **Maschile[[br]]पुंस्** | **Neutro[[br]]नपुंसकम्** | **Femminile[[br]]स्त्री** | **Maschile[[br]]पुंस्** | **Neutro[[br]]नपुंसकम्** | **Femminile[[br]]स्त्री** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -3829,9 +3239,7 @@ Declinazione come यद् (eccezione: Nom.Akk.sg.Neutro)
 | **5. Ablativo[[br]]५. पञ्चमी** | सर्वस्मात् || सर्वस्यास् | सर्वेभ्यस् || सर्वाभ्यस् |
 | **6. Genitivo[[br]]६. षष्ठी** | सर्वस्य || सर्वस्यास् | सर्वेषाम् || सर्वासाम् |
 | **7. Locativo[[br]]७. सप्तमी** | सर्वस्मिन् || सर्वस्याम् | सर्वेषु || सर्वासु |
-:::
-
-वै : particella che enfatizza la parola precedente: davvero, certamente, ma
+:::वै : particella che enfatizza la parola precedente: davvero, certamente, ma
 
 इह Avv.: qui, qui sulla terra, qui; ora. Prima dei sostantivi al Locativo (षष्ठी) equivalente a अस्मिन्, अस्याम्
 
@@ -3839,27 +3247,23 @@ Declinazione come यद् (eccezione: Nom.Akk.sg.Neutro)
 
 कल्याण 3 (f.: कल्याणी) :bello
 
-::: media
+:::media
 ![](/images/lekt5003.webp)
 Fig.: कल्याणी
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5003))
-:::
-कु- : come elemento iniziale di composti: cattivo
+:::कु- : come elemento iniziale di composti: cattivo
 
-::: media
+:::media
 ![](/images/lekt5004.webp)
 Fig.: कुनगरम्
 धारावी, मुंबई
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5004))
-:::
-चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : vedere
+:::चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : vedere
 
-::: indent
+:::indent
 Perf. चचक्षे
 non usato negli altri tempi
-:::
-
-चक्ष् + प्र 2Ā प्रचष्टे : raccontare, considerare, chiamare
+:::चक्ष् + प्र 2Ā प्रचष्टे : raccontare, considerare, chiamare
 
 देश m.: luogo, posto, paese, regione
 
@@ -3870,12 +3274,11 @@ non usato negli altri tempi
 
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
 
-::: media
+:::media
 ![](/images/lekt5105.webp)
 Fig.:
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5105))
-:::
-अतिथि m.: Ospite
+:::अतिथि m.: Ospite
 
 अभ्यन्तर 3: situato all'interno, più vicino ; m. il più vicino parente, nativo
 
@@ -3883,29 +3286,24 @@ Fig.:
 
 ऋतु m.: processo periodico, stagione, periodo di tempo, mestruazione, tempo in cui la donna è fertile e ha diritto al rapporto sessuale con il marito.
 
-::: indent
+:::indent
 Per ऋतु vedi Manu III, 45-48: dopo ऋतु dura 16 giorni (secondo la traduzione alternativa: 20 giorni) dall'inizio delle mestruazioni, i primi quattro giorni dopo l'inizio del flusso mestruale sono vietati i rapporti sessuali (secondo la traduzione alternativa: i primi otto (4 + 4) giorni), nonché il 11. (o 15.) e il 13. (o 18.) giorno. Nei giorni pari la donna concepisce figli maschi, nei giorni dispari figlie femmine. Per il seguito si assume un ऋतु di complessivi 16 giorni (non la traduzione alternativa), come fanno anche la maggior parte dei commenti locali, e che quindi era l'opinione prevalente.
 
 Poiché l'ovulazione avviene 14 giorni prima dell'inizio delle mestruazioni, con questa determinazione del periodo fertile la fertilità è quasi "garantita" per un intervallo tra le mestruazioni di 19-30 giorni. I giorni vietati (11. e 13.) migliorano la probabilità di rapporti sessuali il 12. e il 14. giorno, cioè la probabilità di concezione con un ciclo di 28 giorni (la durata degli spermatozoi nella donna è di circa 3 giorni). Queste disposizioni sono come un uso positivo del metodo Knaus-Ogino.
-:::
-
-::: media
+::::::media
 ![](/images/lekt5106.jpg)
 Fig.: ऋतुः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5106))
-:::
-
-एकत्र Avv.: in un luogo
+:::एकत्र Avv.: in un luogo
 
 जटा f.: trecce di capelli (acconciatura dell'asceta)
 
-::: media
+:::media
 ![](/images/lekt5107.webp)
 Fig.: जटा
 ऋषिकेश
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5107))
-:::
-तुल्य 3: uguale, comparabile (तृतीयया)
+:::तुल्य 3: uguale, comparabile (तृतीयया)
 
 तरय 3 (f.: तरयी): triplice, composto da tre parti
 
@@ -3919,102 +3317,86 @@ Fig.: जटा
 
 शिष् 7P शिनष्टि : lasciare, abbandonare
 
-::: indent
+:::indent
 Perf.II शिशेषे, शिशिषुर्
 Fut. शेक्ष्यति
 Pass. शिष्यते
 Caus. शेषयति
 PPPशिष्ट
 Assol. -शिष्य
-:::
+:::शिष् + वि 7P विशिनष्टि : distinguere
 
-शिष् + वि 7P विशिनष्टि : distinguere
-
-::: indent
+:::indent
 Pass. विशिष्यते : differire da (पञ्चम्या, तृतीयया), essere migliore di (पञ्चम्या, तृतीयया), essere il migliore tra (षष्ठ्या, सप्तम्या)
-:::
-
-समान 3: di tipo simile, uguale, simile ; m. coetaneo
+:::समान 3: di tipo simile, uguale, simile ; m. coetaneo
 
 स्व 3: proprio, suo (mio, tuo, ecc.) Si declina come सर्व. Nell'ablativo-locativo singolare maschile-neutro e nel nominativo plurale maschile può essere declinato anche come देव:
 
-::: indent
+:::indent
 Abl.sg.m.n स्वस्मात् । ***स्वात्***
 Lok.sg.m.n. स्वस्मिन् । ***स्***वे
 Nom.pl.m स्वे । ***स्वास्***
-:::
+:::गर्ह् 1Ā गर्हते 10P गर्हयति : sgridare, biasimare
 
-गर्ह् 1Ā गर्हते 10P गर्हयति : sgridare, biasimare
-
-::: indent
+:::indent
 Perf I जगर्हे
 Fut. गर्हिष्यते
 PPP गर्हित
-:::
+:::पिशित n.: (preparato) carne
 
-पिशित n.: (preparato) carne
-
-::: media
+:::media
 ![](/images/lekt5108.webp)
 Fig.: पिशितम्
 Kolkata = কলকাতা
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5108))
-:::
-उपहार m.: offerta, sacrificio, dono
+:::उपहार m.: offerta, sacrificio, dono
 
 मधु n.: miele, bevanda dolce, idromele (vino di miele)
 
-::: media
+:::media
 ![](/images/lekt5109.webp)
 Fig.: मधु
 Palazzo City, उदयपुर
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5109))
-:::
-मांस n.: carne
+:::मांस n.: carne
 
 मृगया f.: caccia
 
-::: media
+:::media
 ![](/images/lekt5110.webp)
 Fig.: मृगया
 Caccia con चीता (_Acinonyx jubatus venaticus*) Gujarat = ગુજરાત, 1812
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5110))
-:::
-शिवा f.: (femminile) sciacallo (sciacallo dorato = _Canis aureus_)
+:::शिवा f.: (femminile) sciacallo (sciacallo dorato = _Canis aureus_)
 
-::: media
+:::media
 ![](/images/lekt5111.webp)
 Fig.: शिवा
 _Canis aureus_, Santuario di Kalatop Khajjiar
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5111))
-:::
-रुत n.: urlo
+:::रुत n.: urlo
 
 कौशिक m.: gufo
 
-::: media
+:::media
 ![](/images/lekt5112.webp)
 Fig.: कौशिकः
 Gufo del Brahman (_Athene brama_), Mahesana = મહેસાણા
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5112))
-:::
-शकुनि m.: uccello
+:::शकुनि m.: uccello
 
 श्वन् m.: cane
 
-::: indent
+:::indent
 radice forte श्वान्
 radice debole davanti a vocale सुन्
 radice debole davanti a consonante श्व
-:::
-
-::: media
+::::::media
 ![](/images/lekt5113.jpg)
 Fig.: श्वा लिङ्गं च
 Karnataka = ಕರ್ನಾಟಕ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5113))
-:::
-परिचित 3: familiare, noto
+:::परिचित 3: familiare, noto
 
 अटवी f.: foresta
 
@@ -4022,41 +3404,36 @@ Karnataka = ಕರ್ನಾಟಕ
 
 आपान(क) n.: banchetto
 
-::: media
+:::media
 ![](/images/lekt5114.webp)
 Fig.: आपानकम्
 जोधपुर
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5114))
-:::
-क्रूर 3: crudo, crudele
+:::क्रूर 3: crudo, crudele
 
 दिह् 2U देग्धि, दिग्धे : ungere, spalmare
 
-::: indent
+:::indent
 Perf. II दिदेह
 Fut. धेक्ष्यति
 Pass. दिह्यते
 Kaus. देहयति
 PPP दिग्ध
-:::
+:::विष n.: veleno
 
-विष n.: veleno
-
-::: media
+:::media
 ![](/images/lekt5115.webp)
 Fig.: मूषिकाविषाणि
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5115))
-:::
-भुजंग m.: serpente
+:::भुजंग m.: serpente
 
-::: media
+:::media
 ![](/images/lekt5116.webp)
 Fig.: भुजंगः
 Vipera a catena (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5116))
-:::
-सायक m.: freccia
+:::सायक m.: freccia
 
 उत्साद m.: distruzione
 
@@ -4076,36 +3453,32 @@ Vipera a catena (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 
 मणि m.: gioiello
 
-::: media
+:::media
 ![](/images/lekt5118.webp)
 Fig.: मणिः
 Diamante Hope da Guntur = ಗುಂಡೂರು, oggi Museo Smithsonian di Storia Naturale, Washington DC
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5118))
-:::
-वन n.: foresta
+:::वन n.: foresta
 
 मद m.: anche "linfa di estro" di un elefante (nel [Musht](http://en.wikipedia.org/wiki/Musth))
 
-::: media
+:::media
 ![](/images/lekt5117.webp)
 Fig.: मदः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5117))
-:::
-राग m.: anche: colore, colore rosso
+:::राग m.: anche: colore, colore rosso
 
 कालन n.: foresta
 
 खन् 1U खनति : scavare
 
-::: indent
+:::indent
 Perf. चखान, चखने
 Fut. खनिष्यति
 Kaus. खानयति
 PPP खात
 Assol खनित्वा । खात्वा
-:::
-
-चिन्त् 10 चिन्तयति : pensare, riflettere
+:::चिन्त् 10 चिन्तयति : pensare, riflettere
 
 शबर .:  nome proprio di una tribù non ariana
 
@@ -4116,31 +3489,26 @@ Assol खनित्वा । खात्वा
 
 निखिल 3: completo, intero
 
-::: indent
+:::indent
 da:
 
 खिल m.: campo arato, terra incolta
-:::
-
-::: media
+::::::media
 ![](/images/lekt5210.webp)
 Fig.: खिलः
 Tambhol, Akole, Ahmednagar = अहमदनगर
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5210))
-:::
-अन्तर् Avv.: dentro, all'interno ; postposizione con Gen. Loc. (षष्टी, सप्तमी): all'interno, in mezzo ; postposizione con Gen. Abl. (षष्ठी, पञ्चमी): fuori da ...
+:::अन्तर् Avv.: dentro, all'interno ; postposizione con Gen. Loc. (षष्टी, सप्तमी): all'interno, in mezzo ; postposizione con Gen. Abl. (षष्ठी, पञ्चमी): fuori da ...
 
 अन्योन्य 3: reciprocamente, l'un l'altro
 
 इ + वि + परि 2P विपर्येति : fallire
 
-::: indent
+:::indent
 PPP विपरीत 3: distorto, falso
-:::
+:::त्रि 3: tre
 
-त्रि 3: tre
-
-::: grammar-box
+:::grammar-box
 | | **Maschile[[br]]पुंस्** | **Neutro[[br]]नपुंसकम्** | **Femminile[[br]]स्त्री** |
 | :--- | :---: | :---: | :---: |
 | **1. Nominativo[[br]]१. प्रथमा** | त्रयस् | त्रीणि | तिस्रस् |
@@ -4150,47 +3518,39 @@ PPP विपरीत 3: distorto, falso
 | **5. Ablativo[[br]]५. पञ्चमी** | त्रिभ्यस् || तिसृभ्यस् |
 | **6. Genitivo[[br]]६. षष्ठी** | त्रयाणाम् || तिसृणाम् |
 | **7. Locativo[[br]]७. सप्तमी** | त्रिषु || तिसृषु |
-:::
-
-निस् Postposizione e prefisso per sostantivi e verbi: fuori, via, fuori, fuori, da, via, senza - da
+:::निस् Postposizione e prefisso per sostantivi e verbi: fuori, via, fuori, fuori, da, via, senza - da
 
 पीड् 10P पीडयति : premere, tormentare ; opprimere, assediare, infastidire
 
-::: media
+:::media
 ![](/images/lekt5212.webp)
 Fig.: पीडिताः
 Hyderabad = హైదరాబాద్
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5212))
-:::
-पर 3: (declinazione come सर्व) distante, straniero, più alto di (पञ्चम्या), estremo, supremo ; altro, straniero, ostile ; m.: straniero
+:::पर 3: (declinazione come सर्व) distante, straniero, più alto di (पञ्चम्या), estremo, supremo ; altro, straniero, ostile ; m.: straniero
 
-::: indent
+:::indent
 da cui:
 
 परम् Avv.: in alto grado, su questo, più tardi, ma, tuttavia
-:::
-
-प्रति Postposizione (द्वितीयया): verso - verso, dopo, riguardo a, di fronte a
+:::प्रति Postposizione (द्वितीयया): verso - verso, dopo, riguardo a, di fronte a
 
 प्रधान 3: principale, migliore ; n.: il più importante
 
-::: media
+:::media
 ![](/images/lekt5213.webp)
 Fig.: प्रधानः
 मुंबई
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5213))
-:::
-लौल्य n.: avidità, lussuria
+:::लौल्य n.: avidità, lussuria
 
 वर्ग m.: sezione, dipartimento, schiera
 
-::: indent
+:::indent
 त्रिवर्ग m.: gruppo di tre (ad es. धर्मः, अर्थः, कामः ; oppure: सत्त्वम्, रजस्, तमस् ; oppure: ब्राह्मणाः, क्षत्रियाः, वैश्याः)
-:::
+:::वश् 2P वस्टि, ***उशन्ति,*** Imperat. 2.sg.: ***उड्ढि*** : volere, comandare, desiderare
 
-वश् 2P वस्टि, ***उशन्ति,*** Imperat. 2.sg.: ***उड्ढि*** : volere, comandare, desiderare
-
-::: indent
+:::indent
 Perf Va उवाश, ऊशुर्
 Fut. वशिष्यति
 Pass. उष्यते
@@ -4198,11 +3558,9 @@ Kaus. वाशयति
 PPP उशित
 Inf. वशितुम्
 Assol. -वश्य
-:::
+:::वा 2P वाति : soffiare, ventare
 
-वा 2P वाति : soffiare, ventare
-
-::: indent
+:::indent
 Perf IV ववौ
 Fut. वास्यति
 Pass. वायते
@@ -4213,11 +3571,9 @@ Inf. वातुम्
 da cui:
 
 वात m.: vento
-:::
+:::वृज् 7P वृणक्ति 1P वर्जति : girare, ruotare ; respingere, escludere
 
-वृज् 7P वृणक्ति 1P वर्जति : girare, ruotare ; respingere, escludere
-
-::: indent
+:::indent
 Perf. II ववर्ज, ववृजुर्
 Fut. वर्जिष्यति
 Pass. वृज्यते
@@ -4225,9 +3581,7 @@ Kaus. वर्जयति : eliminare
 Kaus. PPP वर्जित : privo di qualcosa, libero da
 PPP वृक्त
 Inf. वर्जितुम्
-:::
-
-व्यवहार m.: attività, comportamento, relazione, commercio, affari, commercio, (processo giudiziario)
+:::व्यवहार m.: attività, comportamento, relazione, commercio, affari, commercio, (processo giudiziario)
 
 शील n.: abitudine, consuetudine, natura, carattere, buona abitudine = morale
 
@@ -4235,7 +3589,7 @@ Inf. वर्जितुम्
 
 सेव् 1Ā सेवते : servire qualcuno (द्वितीया), attendere, onorare, amare
 
-::: indent
+:::indent
 Perf I सिषेवे
 Fut. सेविष्यते
 Pass. सेव्यते
@@ -4247,22 +3601,18 @@ Assol. -सेव्य
 da cui:
 
 सेवा f.: servizio, udienza
-:::
-
-धीर 3: fermo, stabile, continuo, persistente
+:::धीर 3: fermo, stabile, continuo, persistente
 
 शम् शाम्यति
 
-::: indent
+:::indent
 शशाम, शेमुर्
 शमिष्यति
 शम्यते
 शमयति
 शान्त
 शमित्वा । शान्त्वा
-:::
-
-कोविद 3: esperto in (षष्ठ्या सप्तम्या वा)
+:::कोविद 3: esperto in (षष्ठ्या सप्तम्या वा)
 
 याम m.: turno di notte (ciascuno di tre ore)
 
@@ -4272,33 +3622,29 @@ da cui:
 
 च्यु 1Ā च्यवते : muoversi, spostarsi, cadere
 
-::: indent
+:::indent
 Perf. IIIa चुच्युवे
 Fut. च्योष्यते
 Pass. च्यूयते
 Caus. च्यावयति
 PPP च्युत
-:::
-
-भू + अनु 1P अनुभवति : riconoscere, percepire, avvertire, sperimentare
+:::भू + अनु 1P अनुभवति : riconoscere, percepire, avvertire, sperimentare
 
 चक्र n.: ruota
 
-::: media
+:::media
 ![](/images/lekt5214.webp)
 Fig.: चक्रम्
 Konark = कोनार्क
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5214))
-:::
-कदली f.: banano (_Musa_ sp.)
+:::कदली f.: banano (_Musa_ sp.)
 
-::: media
+:::media
 ![](/images/lekt5208.webp)
 Fig.: कदली
 Hampi = ಹಂಪೆ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5208))
-:::
-सार m.n.: nocciolo, midollo, essenza, sostanza
+:::सार m.n.: nocciolo, midollo, essenza, sostanza
 
 दिव्य 3: celeste, divino
 
@@ -4308,27 +3654,25 @@ Hampi = ಹಂಪೆ
 
 मल m.n.: sporco, macchia
 
-::: media
+:::media
 ![](/images/lekt5215.webp)
 Fig.: मलम्
 मुंबई
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5215))
-:::
-त्रिपिष्टप n.: cielo di Indra
+:::त्रिपिष्टप n.: cielo di Indra
 
 मार m.: il male personificato, la tentazione/manipolazione personificata, diavolo
 
-::: media
+:::media
 ![](/images/lekt5217.webp)
 Fig.:
 Amaravati = అమరావతి, II sec. d.C.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5217))
-:::
-विजिज्ञासु 3: colui che vuole conoscere completamente
+:::विजिज्ञासु 3: colui che vuole conoscere completamente
 
 त्रै 1Ā त्रायते : proteggere, salvare
 
-::: indent
+:::indent
 Perf. IV तत्रे
 Fut. त्रास्यते
 Pass. त्रायते

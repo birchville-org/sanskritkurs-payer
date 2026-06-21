@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Déterminez et traduisez les formes suivantes :
 
-::: grammar-box
+:::grammar-box
 | Forme | Détermination | Signification |
 | :--- | :--- | :--- |
 | १. **आदेः** | आदि (m.) Abl./Gen. sg. | du commencement / du début |
@@ -66,9 +66,7 @@ A) Déterminez et traduisez les formes suivantes :
 | ५०. **चिनुथ** | चि (5U) 2. pl. P. Ind. Präs. | vous empilez |
 | ५१. **हथ** | हन् (2P) 2. pl. P. Ind. Präs. | vous frappez |
 | ५२. **हतः** | हन् (2P) PPP Nom. sg. m. | frappé / tué |
-:::
-
----
+:::---
 
 ## Traductions
 
@@ -98,19 +96,17 @@ Vous ne devez pas haïr ce qui est haïssable, ni être avide de ce qui est dés
 ८. **अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः । मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥ ८ ॥**
 Vous pleurez ceux qui ne sont pas dignes de pleurs, et vous souhaitez proférer des paroles de sagesse ; pourtant, les sages ne pleurent ni les morts ni les vivants.
 
-::: media
+:::media
 ![](/images/uebung072.webp)
 Fig. : मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति
 (Source de l’image : [Détails](/fr/licenses#uebung072))
-:::
-
----
+:::---
 
 ## Autres déterminations de forme
 
 Déterminez les formes de mot suivantes :
 
-::: grammar-box
+:::grammar-box
 | Forme de mot | Détermination |
 | :--- | :--- |
 | १. **वदिता** | वदितृ (m.) Nom. sg. |
@@ -153,9 +149,7 @@ Déterminez les formes de mot suivantes :
 | ३८. **पिपूर्मः** | पॄ (3P) 1. pl. P. Ind. Präs. |
 | ३९. **कैः** | किम् (m./n.) Instr. pl. |
 | ४०. **कृत्येन** | कृ (8U) Gérondif Instr. sg. m./n. |
-:::
-
-::: media
+::::::media
 ![](/images/uebung073.webp)
 Fig. : वदिता
 (Source de l'image : [Détails](/fr/licenses#uebung073))

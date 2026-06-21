@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Déterminez les formes verbales suivantes et formez les formes d'imparfait correspondantes en personne, nombre et genre verbal :
 
-::: grammar-box
+:::grammar-box
 | Présent / Futur | Imparfait |
 | :--- | :--- |
 | १. **हरिष्यन्ते** | अहरन्त |
@@ -88,9 +88,7 @@ A) Déterminez les formes verbales suivantes et formez les formes d'imparfait co
 | ७३. **तनोति** | अतनोत् |
 | ७४. **प्रजानीते** | प्राजानीत |
 | ७५. **जीवन्ति** | अजीवन् |
-:::
-
-B) Traduisez et résolvez les composés en sanskrit :
+:::B) Traduisez et résolvez les composés en sanskrit :
 
 १. **आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥**
 (जनस्य इन्द्रस्य अग्रे । महत्-पुण्यम् । देवानां लोके)
@@ -111,19 +109,17 @@ Les brahmanes ont étudié et enseigné le Veda, ont offert des sacrifices aux d
 (बुद्धस्य पुत्राः)
 Les fils de Bouddha ont reconnu la vérité, arrêté la souffrance et atteint la libération. Un moine est désigné comme « fils de Bouddha » s’il suit la voie de Bouddha.
 
-::: media
+:::media
 ![](/images/uebung050.webp)
 Fig. : सम्पन्नरूपा
 (Source de l’image : [Détails](/fr/licenses#uebung050))
-:::
-
----
+:::---
 
 ## Détermination de la forme du mot
 
 Déterminez et traduisez les mots suivants :
 
-::: grammar-box
+:::grammar-box
 | Forme du mot | Détermination | Signification |
 | :--- | :--- | :--- |
 | १. **देवस्य** | Gén. sg. m. | du dieu |
@@ -211,15 +207,11 @@ Déterminez et traduisez les mots suivants :
 | ८२. **अधिकृतेषु** | Lok. pl. m./n. PPP | auprès des chargés |
 | ८३. **अध्यापयति** | 3. sg. P. Ind. Präs. Kaus. | il enseigne |
 | ८४. **वाचयन्ति** | 3. pl. P. Ind. Präs. Kaus. | ils font lire |
-:::
-
-::: media
+::::::media
 ![](/images/uebung051.webp)
 Fig. : किमयं रथो बालान् सुखतां वहति
 (Source de l'image : [Détails](/fr/licenses#uebung051))
-:::
-
----
+:::---
 
 ## Exercice sur le Sandhi
 
@@ -294,13 +286,11 @@ Insérez les mots entre parenthèses dans les phrases suivantes, en respectant l
 12\. Au revoir !
 **पुनर्दर्शनाय ॥**
 
-::: media
+:::media
 ![](/images/uebung052.webp)
 Fig. : पुनर्दर्शनाय
 (Source de l'image : [Détails](/fr/licenses#uebung052))
-:::
-
----
+:::---
 
 ## Fragment savant (Stotra)
 
@@ -308,13 +298,11 @@ Fig. : पुनर्दर्शनाय
 **आशयच्चामृतं देवान्वेदमध्यापयद्विधिम् ।**  
 **आसयत्सलिले पृथ्वीं यः स मे श्रीहरिर्गतिः ॥** Le sublime Hari est mon refuge, celui qui envoya ses ennemis au ciel, fit connaître à ses fidèles le sens du Veda, offrit aux dieux l’Amṛta à manger, enseigna le Veda au Créateur, et ancrât la terre dans les eaux.
 
-::: media
+:::media
 ![](/images/uebung053.webp)
 Fig. : श्रीगङ्गाधराय नमः
 (Source de l’image : [Détails](/fr/licenses#uebung053))
-:::
-
----
+:::---
 
 ## Récit : Le Vieillard et les Singes (Sanskrit-Bālādarśa)
 
@@ -323,7 +311,7 @@ Fig. : श्रीगङ्गाधराय नमः
 **Traduction :**
 Un jour, un vieillard se rendit dans un autre village et se fatigua en chemin. Pour se reposer, il alla se poser au pied d’un manguier au bord du chemin. Sur cet arbre pendaient des fruits mûrs. Le vieillard eut envie de les manger, mais il ne pouvait pas grimper à l’arbre pour les cueillir. Heureusement, il y avait sur l’arbre quelques singes qui mangeaient des fruits. Lorsque le vieillard vit cela, il se réjouit. Que fit-il ? Il prit quelques pierres, visa les singes et les lança. Les singes devinrent furieux, cueillirent quelques fruits et les lancèrent sur le vieillard. Le vieillard prit joyeusement les fruits et poursuivit son chemin. Quelle habileté remarquable que celle de ce vieillard !
 
-::: media
+:::media
 ![](/images/uebung054.webp)
 Fig. : वानरः कुपितः
 (Source de l’image : [Détails](/fr/licenses#uebung054))

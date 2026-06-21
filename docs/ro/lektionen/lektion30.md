@@ -11,7 +11,7 @@ status: stable
 
 ## 30.1. Clasa a 9-a de prezintă (क्र्यादि = "क्री etc.")
 
-::: grammar-box
+:::grammar-box
 **Formare:**
 
 *   stemă puternică: rădăcină în gradul cel mai scăzut + -nā-
@@ -21,66 +21,52 @@ status: stable
     *   înaintea consoanelor: rădăcină în gradul cel mai scăzut + -nī-
         
     *   înaintea vocalelor: rădăcină în gradul cel mai scăzut + -n-
-:::
-        
+:::Exemplu:
 
-Exemplu:
-
-::: indent
+:::indent
 क्री 9U "a cumpăra"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**Persoana a 3-a[[br]]Parasmaipada**|क्रीणाति[[br]](krī + nā + ti)|क्रीणन्ति[[br]](krī + n + anti)|
 |**Persoana a 3-a[[br]]Ātmanepada**|क्रीणीते[[br]](krī + nī + te)|क्रीणते[[br]](krī + n + ate)|
 
-:::
+:::La această clasă de prezintă, trebuie acordată o atenție deosebită formării stemei de prezent pentru rădăcina ज्ञा 9U "a recunoaște, a ști":
 
-La această clasă de prezintă, trebuie acordată o atenție deosebită formării stemei de prezent pentru rădăcina ज्ञा 9U "a recunoaște, a ști":
-
-::: grammar-box
+:::grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**Persoana a 3-a[[br]]Parasmaipada**|जानाति[[br]](jā-nā-ti)|जानन्ति[[br]](jā-n-anti)|
 |**Persoana a 3-a[[br]]Ātmanepada**|जानीते[[br]](jā-nī-te)|जानते[[br]](jā-n-ate)|
 
-:::
-Forma जा, care stă la baza stemei de prezent a lui ज्ञा, poate fi explicată fie printr-un sistem de ablaut -ā (gradul cel mai scăzut) -nā (gradul înalt), fie prin disimilare din *jñā-nā-ti.
+:::Forma जा, care stă la baza stemei de prezent a lui ज्ञा, poate fi explicată fie printr-un sistem de ablaut -ā (gradul cel mai scăzut) -nā (gradul înalt), fie prin disimilare din *jñā-nā-ti.
 
 Unele rădăcini cu vocale lungi le scurtează înainte de sufixul de stemă de prezent al clasei a 9-a:
 
 Exemplu:
 
-::: indent
+:::indent
 पू 9U "a curăța"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**Persoana a 3-a[[br]]Parasmaipada**|पुनाति[[br]](pu-nā-ti)|पुनन्ति[[br]](pu-n-anti)|
 |**Persoana a 3-a[[br]]Ātmanepada**|पुनीते[[br]](pu-nī-te)|पुनते[[br]](pu-n-ate)|
 
-:::
-
-Formarea participiului de prezent Parasmaipada:
+:::Formarea participiului de prezent Parasmaipada:
 
 Exemplu:
 
-::: indent
+:::indent
 क्रीणन्त् (krī + n + ant) ; fem.: क्रीणती (krī + n + at + ī)
-:::
-
-## 30.2. Utilizarea optativului (लिङ्)
+:::## 30.2. Utilizarea optativului (लिङ्)
 
 Optativul este folosit:
 
-::: grammar-box
+:::grammar-box
 **1. pentru exprimarea**
 
 *   **a unui dor**
@@ -88,15 +74,11 @@ Optativul este folosit:
 *   **a unei porunci atenuate**
 
 **(în acest caz, optativul - लिङ् - se suprapune cu imperativul - लोट्)**
-:::
+:::Exemplu:
 
-Exemplu:
-
-::: indent
+:::indent
 दासो ग्राममागच्छेत् = "Să vină sclavul în sat"
-:::
-
-::: grammar-box
+::::::grammar-box
 **2. Când ceva este prezentat**
 
 *   **ca posibil**
@@ -104,42 +86,32 @@ Exemplu:
 *   **ca presupus**
 
 **a fi.**
-:::
+:::Exemplu:
 
-Exemplu:
-
-::: indent
+:::indent
 ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात् = "Dacă ar ieși din sat, nu l-ar auzi pe maestru"
-:::
-
-::: grammar-box
+::::::grammar-box
 **3. Propozițiile relative cu optativ au uneori sensul: "Dacă cineva ..."**
-:::
+:::Exemplu:
 
-Exemplu:
-
-::: indent
+:::indent
 यो नृतं वदेत्स नरकं पतेत् = "Dacă cineva ar spune minciuna, ar cădea în iad = Dacă cineva spune minciuna, cade în iad"
-:::
-
-## 30.3. Desinențe secundare ale persoanei a III-a singular și plural
+:::## 30.3. Desinențe secundare ale persoanei a III-a singular și plural
 
 Optativul (लिङ्), imperfectul (लङ्), aoristul (लुङ्), prekativul (आशिर्लिङ्) și condiționalul au desinențele numite secundare:
 
-::: grammar-box
+:::grammar-box
 
 | |Persoana a III-a singular|Persoana a III-a plural|
 | :--- | :--- | :--- |
 |**Parasmaipada**|**-t**|clasele atematic: **-an** sau **-ur**[[br]]Optativ: **-ur**|
 |**Ātmanepada**|**-ta**|clasele atematic: **-ata** (din *nta)[[br]]Optativ: **-ran**|
 
-:::
-
-## 30.4. Formarea Optativului la Prezent (लिङ्)
+:::## 30.4. Formarea Optativului la Prezent (लिङ्)
 
 ### 30.4.1. Clase tematice de prezent
 
-::: grammar-box
+:::grammar-box
 **înaintea terminațiilor care încep cu consoană:**
 
 **Stem de prezent + -i- (care se contopește cu -a- în -e-) + terminații secundare**
@@ -147,61 +119,51 @@ Optativul (लिङ्), imperfectul (लङ्), aoristul (लुङ्), prek
 **înaintea terminațiilor care încep cu vocală:**
 
 **Stem de prezent + -i- (» -e-) + -y- + terminație secundară**
-:::
-
-Exemple:
+:::Exemple:
 
 1\. Clasa de prezent:
 
 भू
-::: grammar-box
+:::grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**Persoana a 3-a[[br]]Parasmaipada**|भवेत्[[br]](bhava + i + t)|भवेयुर्[[br]](bhava + i + y + ur)|
 |**Persoana a 3-a[[br]]Ātmanepada**|भवेत[[br]](bhava + i + ta)|भवेरन्[[br]](bhava + i + ran)|
 
-:::
-
-4\. Clasa de prezent:
+:::4\. Clasa de prezent:
 
 नृत्
-::: grammar-box
+:::grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**Persoana a 3-a[[br]]Parasmaipada**|नृत्येत्[[br]](nṛtya + i + t)|नृत्येयुर्[[br]](nṛtya + i + y + ur)|
 |**Persoana a 3-a[[br]]Ātmanepada**|नृत्येत[[br]](nṛtya + i + ta)|नृत्येरन्[[br]](nṛtya + i + ran)|
 
-:::
-
-6\. Clasa de prezent
+:::6\. Clasa de prezent
 
 विश्
-::: grammar-box
+:::grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**Persoana a 3-a[[br]]Parasmaipada**|विशेत्[[br]](viśa + i + t)|विशेयुर्[[br]](viśa + i + y + ur)|
 |**Persoana a 3-a[[br]]Ātmanepada**|विशेत[[br]](viśa + i + ta)|विशेरन्[[br]](viśa + i + ran)|
 
-:::
-
-10\. Clasa de prezent și cauzativele
+:::10\. Clasa de prezent și cauzativele
 
 चुर्
-::: grammar-box
+:::grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**Persoana a 3-a[[br]]Parasmaipada**|चोरयेत्[[br]](coraya + i + t)|चोरयेयुर्[[br]](coraya + i + y + ur)|
 |**Persoana a 3-a[[br]]Ātmanepada**|चोरयेत[[br]](coraya + i + ta)|चोरयेरन्[[br]](coraya + i + ran)|
 
-:::
+:::### 30.4.2. Clase de prezent atematic
 
-### 30.4.2. Clase de prezent atematic
-
-::: grammar-box
+:::grammar-box
 **Parasmaipada:**
 
 **tămân de prezent slab + -yā- (în fața -ur: -y-) + terminație secundară**
@@ -209,112 +171,89 @@ Exemple:
 **Ātmanepada:**
 
 **tămân de prezent slab + -ī- + terminație secundară**
-:::
-
-Exemple:
+:::Exemple:
 
 2\. Clasa de prezent:
 
 द्विष्
-::: grammar-box
+:::grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**Persoana a 3-a[[br]]Parasmaipada**|द्विष्यात्[[br]](dviṣ-yā-t)|द्विष्युर्[[br]](dviṣ-y-ur)|
 |**Persoana a 3-a[[br]]Ātmanepada**|द्विषीत[[br]](dviṣ-ī-ta)|द्विषीरन्[[br]](dviṣ-ī-ran)|
 
-:::
-
-5\. Clasa de prezent
+:::5\. Clasa de prezent
 
 सु
-::: grammar-box
+:::grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**Persoana a 3-a[[br]]Parasmaipada**|सुनुयात्[[br]](sunu-yā-t)|सुनुयुर्[[br]](sunu-y-ur)|
 |**Persoana a 3-a[[br]]Ātmanepada**|सुन्वीत[[br]](sunu + ī + ta)|सुन्वीरन्[[br]](sunu + ī + ran)|
 
-:::
-
-8\. Clasa de prezent
+:::8\. Clasa de prezent
 
 तन्
-::: grammar-box
+:::grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**Persoana a 3-a[[br]]Parasmaipada**|तनुयात्[[br]](tanu-yā-t)|तनुयुर्[[br]](tanu-y-ur)|
 |**Persoana a 3-a[[br]]Ātmanepada**|तन्वीत[[br]](tanu + ī + ta)|तन्वीरन्[[br]](tanu + ī + ran)|
 
-:::
+:::**kṛ**[[br]](कृ)
 
-**kṛ**[[br]](कृ)
-
-::: grammar-box
+:::grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**Persoana a 3-a[[br]]Parasmaipada**|कुर्यात्|कुर्युर्|
 |**Persoana a 3-a[[br]]Ātmanepada**|कुर्वीत|कुर्वीरन्|
 
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | |Singular[[br]]एकवचन|Plural[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**Persoana a 3-a Parasmaipada**|क्रीणीयात्[[br]](krīṇī-yā-t)|क्रीणीयुर्[[br]](krīṇī-y-ur)|
 |**Persoana a 3-a Ātmanepada**|क्रीणीत[[br]](krīṇ-ī-ta)|क्रीणीरन्[[br]](krīṇ-ī-ran)|
 
-:::
+:::## 30.5. Sandhi al sunetelor finale -r
 
-## 30.5. Sandhi al sunetelor finale -r
-
-::: grammar-box
+:::grammar-box
 **În afară de -ar, regulile de Sandhi pentru sunetele finale -r sunt aceleași ca pentru sunetele finale -s.**
 
 **-ar înainte de sunete voilate rămâne -ar, dar înainte de r- se pierde -r, iar -a- este înlocuit cu -ā-.**
-:::
+:::Exemple:
 
-
-Exemple:
-
-::: indent
+:::indent
 भवेयुर् + च » भवेयुश्च
 
 पुनर् + अग्निः » पुनरग्निः
 
 पुनर् + रोदिति » पुना रोदिति
-:::
-
-## 30.6. Listă de cuvinte
+:::## 30.6. Listă de cuvinte
 
 क्री 9U क्रीणाति : cumpăra
 
-::: indent
+:::indent
 Fut. क्रेष्यति  
 Pass. क्रीयते  
 PPP क्रीत  
 Inf. क्रेतुम्
-:::
+:::क्री + वि 9Ā विक्रीणीते : vinde
 
-क्री + वि 9Ā विक्रीणीते : vinde
-
-::: indent
+:::indent
 Absol. विक्रीय
-:::
-
-::: media
+::::::media
 ![](/images/lekt3001.webp)
 Fig.: क्रीणन्ति विक्रीणते च
 Bundi = बुन्दी, Rajasthan = राजस्थान
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3001))
-:::
+:::ज्ञा 9U जानाति : cunoaște, recunoaște, ști, înțelege
 
-ज्ञा 9U जानाति : cunoaște, recunoaște, ști, înțelege
-
-::: indent
+:::indent
 Fut. ज्ञास्यति  
 Pass. ज्ञायते  
 Kaus. ज्ञापयति  
@@ -327,89 +266,67 @@ din care:
 ज्ञाति m.: (rude de) sânge (rudele sunt cei pe care îi cunoști!)
 
 ज्ञान n.: cunoaștere, știință, recunoaștere (în special a „adevărurilor superioare” în religie și filosofie)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3002.webp)
 Fig.: ज्ञातयः
 Darewadi, Districtul Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3002))
-:::
+:::पू 9U पुनाति : curăța
 
-पू 9U पुनाति : curăța
-
-::: indent
+:::indent
 Fut. पविष्यति  
 Pass. पूयते  
 Kaus. पावयति  
 PPP पूत  
 Inf. पवितुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3003.webp)
 Fig.: श्रोत्राणि पुनाति
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3003))
-:::
+:::अश् 9P अश्नाति : mânca, consuma
 
-अश् 9P अश्नाति : mânca, consuma
-
-::: indent
+:::indent
 Fut. अशिष्यति  
 Pass. अश्यते  
 Kaus. आशयति  
 PPP अशित  
 Inf. अशितुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3005.webp)
 Fig.: अश्नीयात्
 थाली, India de Sud
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3005))
-:::
+:::प्रिय ३: iubit, iubitor, prietenos
 
-प्रिय ३: iubit, iubitor, prietenos
-
-::: media
+:::media
 ![](/images/lekt3004.webp)
 Fig.: प्रिया
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3004))
-:::
+:::चेत् Conjuncție: dacă; cu condiția ca (nu apare niciodată la începutul unei propoziții)
 
-चेत् Conjuncție: dacă; cu condiția ca (nu apare niciodată la începutul unei propoziții)
-
-::: indent
+:::indent
 न चेत् : dacă nu
-:::
+:::यदि Conjuncție: dacă
 
-यदि Conjuncție: dacă
-
-::: indent
+:::indent
 यद्यपि : chiar dacă, deși, chiar și dacă
 
 यद्येवम् : dacă este așa, în aceste circumstanțe
-:::
+:::पुनर् : din nou, din nou și din nou, înapoi, din nou, în schimb, dar
 
-पुनर् : din nou, din nou și din nou, înapoi, din nou, în schimb, dar
-
-::: indent
+:::indent
 पुनः पुनर् : din nou și din nou
 
 din care:
 
 पुनर्भव m.: renaștere
-:::
-
-::: media
+::::::media
 ![](/images/lekt2904.webp)
 Fig.: पुनर्भवः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2904))
-:::
+:::जीव् 1P जीवति : trăi
 
-जीव् 1P जीवति : trăi
-
-::: indent
+:::indent
 Fut. जीविष्यति  
 Pass. जीव्यते  
 Kaus. जीवयति  
@@ -419,9 +336,7 @@ Inf. जीवितुम्
 din care:
 
 जीव m./n.: viață, suflet individual
-:::
-
-सनातन ३ fem.: सनातनी : etern, veșnic, durabil
+:::सनातन ३ fem.: सनातनी : etern, veșnic, durabil
 
 ## 30.7. Exercițiu
 
@@ -559,7 +474,7 @@ Determinați și traduceți următoarele forme de cuvânt:
 39.  तस्मिन्
 40.  सते
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt3001:** Bundi = बुन्दी, Rajasthan = राजस्थान [Sursa imaginii: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accesat la 2008-12-21. -- Licență Creative Commons (Atribuire, fără utilizare comercială, fără opere derivate)]
 **lekt3002:** Darewadi, Districtul Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र [Sursa imaginii: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accesat la 2008-12-21. -- Licență Creative Commons (Atribuire, fără utilizare comercială, share alike)]

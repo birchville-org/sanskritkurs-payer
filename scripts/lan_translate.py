@@ -824,18 +824,19 @@ def translate_text(text, target_lang):
                     elapsed = end_time - start_time
                     if elapsed > 0:
                         tps = comp_tokens / elapsed
-                        sys.stdout.write(f"      [Speed: {tps:.1f} t/s | {comp_tokens} tokens in {elapsed:.1f}s]\n")
+                        ts = time.strftime('%H:%M:%S')
+                        sys.stdout.write(f"[{ts}]      [Speed: {tps:.1f} t/s | {comp_tokens} tokens in {elapsed:.1f}s]\n")
                         sys.stdout.flush()
                         if comp_tokens > 20 and tps < 5.0:
-                            sys.stdout.write(f"\n[!] Performance kritisch ({tps:.1f} t/s). Führe automatischen Neustart aus...\n")
+                            sys.stdout.write(f"\n[{ts}] [!] Performance kritisch ({tps:.1f} t/s). Führe automatischen Neustart aus...\n")
                             sys.stdout.flush()
                             try:
-                                _sp.run(['ssh', 'marco@nyx.local', 'nohup ~/llm-benchmark/start > /dev/null 2>&1 &'], timeout=15)
-                                sys.stdout.write("[!] Neustart-Befehl gesendet. Warte 25s auf den Server...\n")
+                                _sp.run(['ssh', 'marco@nyx.local', 'bash /Volumes/SanDisk1TB/proj/Payer/scripts/start_mlx_server.sh'], timeout=15)
+                                sys.stdout.write(f"[{ts}] [!] Neustart-Befehl gesendet. Warte 60s auf den Server...\n")
                                 sys.stdout.flush()
-                                time.sleep(25)
+                                time.sleep(60)
                             except Exception as ssh_e:
-                                sys.stdout.write(f"[!] SSH Neustart fehlgeschlagen: {ssh_e}\n")
+                                sys.stdout.write(f"[{ts}] [!] SSH Neustart fehlgeschlagen: {ssh_e}\n")
                                 sys.stdout.flush()
 
                 missing = [k for k in deva_registry if k not in result]
@@ -863,18 +864,19 @@ def translate_text(text, target_lang):
                 # Auto-Restart bei Timeouts, HTTP 500 (Compute error) oder Absturz (Connection refused/exit 7)
                 err_lower = err_str.lower()
                 if "exit 28" in err_str or "timeout" in err_lower or "500" in err_str or "exit 7" in err_str or "refused" in err_lower or "choices" in err_lower:
-                    sys.stdout.write(f"\n[!] Timeout/Absturz erkannt ({err_str}). Führe automatischen Neustart aus...\n")
+                    ts = time.strftime('%H:%M:%S')
+                    sys.stdout.write(f"\n[{ts}] [!] Timeout/Absturz erkannt ({err_str}). Führe automatischen Neustart aus...\n")
                     sys.stdout.flush()
                     try:
                         import subprocess as _sp_err
-                        _sp_err.run(['ssh', 'marco@nyx.local', 'nohup ~/llm-benchmark/start > /dev/null 2>&1 &'], timeout=15)
-                        sys.stdout.write("[!] Neustart-Befehl gesendet. Warte 25s...\n")
+                        _sp_err.run(['ssh', 'marco@nyx.local', 'killall llama-server; sleep 2; nohup ~/llm-benchmark/start > /dev/null 2>&1 &'], timeout=15)
+                        sys.stdout.write(f"[{ts}] [!] Neustart-Befehl gesendet. Warte 60s...\n")
                         sys.stdout.flush()
-                        time.sleep(25)
+                        time.sleep(60)
                     except Exception:
                         pass
 
-                msg = f"[{target_lang}] Connection failed (attempt {attempt+1}/{max_retries}): {err_str}. Retrying in {wait_time}s...\n"
+                msg = f"[{time.strftime('%H:%M:%S')}] [{target_lang}] Connection failed (attempt {attempt+1}/{max_retries}): {err_str}. Retrying in {wait_time}s...\n"
                 sys.stdout.write(msg)
                 sys.stdout.flush()
                 time.sleep(wait_time)
@@ -951,7 +953,8 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
         if not chunk.strip():
             translated_chunks.append(chunk)
             continue
-        print(f"  -> section {i}/{len(chunks)}...")
+        ts = time.strftime('%H:%M:%S')
+        print(f"[{ts}]  -> section {i}/{len(chunks)}...")
         result = translate_text(chunk, lang)
         if result.startswith("ERROR:"):
             print(f"  [!] Failed chunk {i}: {result}")
@@ -986,12 +989,6 @@ def chunk_content(content):
 
         if (is_header or is_safe_break) and current_chunk and current_size >= MAX_CHUNK:
             # Chunk is large enough — break at this safe boundary.
-            chunks.append('\n'.join(current_chunk))
-            current_chunk = []
-            current_size = 0
-        elif is_safe_break and current_chunk and current_size > 0:
-            # Even if under MAX_CHUNK, break at safe boundaries to keep
-            # chunks small and translation quality high.
             chunks.append('\n'.join(current_chunk))
             current_chunk = []
             current_size = 0
@@ -1057,7 +1054,7 @@ def parse_lesson_args(args):
 
 def parse_lang_args(args):
     """Extract --lang/-l, --force/-f, --pages/-p options from args. Returns (languages, force, pages_only, remaining_args)."""
-    languages = list(LANGUAGES)
+    languages = []
     force = False
     pages_only = False
     remaining = []
@@ -1113,28 +1110,29 @@ def _fmt_elapsed(seconds):
 def main():
     args = sys.argv[1:]
     if not args:
-        print("Usage: python3 scripts/lan_translate.py [--lang CODE[,CODE...]] [-f] [-p] <all | lesson_num | start-end | num1 num2 ...>")
+        print("Usage: python3 scripts/lan_translate.py --lang CODE[,CODE...] [-f] [-p] <all | lesson_num | start-end | num1 num2 ...>")
         print("Options:")
-        print("  --lang/-l CODE[,CODE...]  translate only the given language(s)")
+        print("  --lang/-l CODE[,CODE...]  (REQUIRED) translate only the given language(s)")
         print("  --force/-f                skip mtime check and always retranslate")
         print("  --pages/-p                translate only site-level pages (index, grammatik, impressum…)")
         print("Examples:")
-        print("  python3 scripts/lan_translate.py all")
-        print("  python3 scripts/lan_translate.py 28")
-        print("  python3 scripts/lan_translate.py 28-32")
-        print("  python3 scripts/lan_translate.py 28 29 30")
-        print("  python3 scripts/lan_translate.py --lang it 28")
-        print("  python3 scripts/lan_translate.py --lang it,es all")
+        print("  python3 scripts/lan_translate.py --lang he all")
+        print("  python3 scripts/lan_translate.py --lang he 28")
+        print("  python3 scripts/lan_translate.py --lang it,es 28-32")
+        print("  python3 scripts/lan_translate.py --lang it,es 28 29 30")
         print("  python3 scripts/lan_translate.py -l en -f 10")
         print("  python3 scripts/lan_translate.py --lang la --pages")
         sys.exit(1)
 
     active_languages, force, pages_only, remaining_args = parse_lang_args(args)
 
+    if not active_languages:
+        print("Error: You must explicitly specify languages using --lang/-l (e.g., --lang he).")
+        sys.exit(1)
+
     if pages_only:
         print(f"Starting translation process using {MODEL} at {API_URL}...")
-        if active_languages != list(LANGUAGES):
-            print(f"Language filter: {', '.join(active_languages)}")
+        print(f"Language filter: {', '.join(active_languages)}")
         print("Pages-only mode: translating site-level pages only.")
         for lang in active_languages:
             lang_start = time.time()
@@ -1147,8 +1145,7 @@ def main():
     lesson_nums, translate_all = parse_lesson_args(remaining_args)
 
     print(f"Starting translation process using {MODEL} at {API_URL}...")
-    if active_languages != list(LANGUAGES):
-        print(f"Language filter: {', '.join(active_languages)}")
+    print(f"Language filter: {', '.join(active_languages)}")
     if force:
         print("Force mode: mtime check disabled.")
     for lang in active_languages:

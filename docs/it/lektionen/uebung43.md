@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formare la **seconda persona** corrispondente per tempo, numero, modo, ecc. alle seguenti forme verbali:
 
-::: grammar-box
+:::grammar-box
 | 1. persona / 3. persona | 2. persona |
 | :--- | :--- |
 | १. **आर्हम्** | आर्हः |
@@ -65,15 +65,11 @@ A) Formare la **seconda persona** corrispondente per tempo, numero, modo, ecc. a
 | ५०. **सीदामि** | सीदसि |
 | ५१. **तिष्ठन्ति** | तिष्ठथ |
 | ५२. **आहरत्** | आहरः |
-:::
-
-::: media
+::::::media
 ![](/images/uebung070.webp)
 Fig.: दिशसि
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung070))
-:::
-
----
+:::---
 
 ## Traduzioni in sanscrito
 
@@ -109,13 +105,11 @@ In quale città sei nato?
 १०. **कथं शत्रुं तरसि ॥ १० ॥**
 Come ti salvi (attraversi il fiume) dal nemico?
 
-::: media
+:::media
 ![](/images/uebung071.jpg)
 Fig.: कदा काश्यामवर्तथाः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung071))
-:::
-
----
+:::---
 
 ## Conversazione (संवादः)
 

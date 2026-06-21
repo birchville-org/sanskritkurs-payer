@@ -28,7 +28,7 @@ Un élève reçoit un quart (de la connaissance) de son maître, un quart par so
 
 B) Transformez les formes verbales suivantes en leurs formes correspondantes au parfait (1re personne) :
 
-::: grammar-box
+:::grammar-box
 | Présent / Imparfait | Parfait (1re personne) |
 | :--- | :--- |
 | १. **अश्नीमः** | आशिम |
@@ -100,21 +100,17 @@ B) Transformez les formes verbales suivantes en leurs formes correspondantes au 
 | ६७. **अहनम्** | जघान / जघन |
 | ६८. **पश्यामः** | ददृशिम |
 | ६९. **ईक्षे** | ईक्षां चक्रे |
-:::
-
-::: media
+::::::media
 ![](/images/uebung065.webp)
 Fig. : आशिमेति
 (Source de l'image : [Détails](/fr/licenses#uebung065))
-:::
-
----
+:::---
 
 ## Détermination des formes de mots
 
 Déterminez et traduisez les formes de mots suivantes :
 
-::: grammar-box
+:::grammar-box
 | Forme de mot | Détermination | Signification |
 | :--- | :--- | :--- |
 | १. **ददे** | दा (3U) 1./3. sg. Ā. Perf. | je donnai / il donna pour lui |
@@ -151,9 +147,7 @@ Déterminez et traduisez les formes de mots suivantes :
 | ३२. **ऐक्षे** | ईक्ष् (1Ā) 1. sg. Ā. Impf. | je vis |
 | ३३. **आह** | अह् (P) 3. sg. P. Perf. | il dit |
 | ३४. **आहन्** | आ-हन् (2P) 3. sg. P. Impf. | il frappa |
-:::
-
-::: media
+::::::media
 ![](/images/uebung066.webp)
 Fig. : काश्चन वाहिकाः
 (Source de l'image : [Détails](/fr/licenses#uebung066))

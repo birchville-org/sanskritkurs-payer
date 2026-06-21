@@ -31,13 +31,11 @@ Un uomo senza istruzione è un animale.
 ७. **लाघवं वैयाकरणस्य भूषणम् ॥ ७ ॥**
 La brevità è l'ornamento del grammatico.
 
-::: media
+:::media
 ![](/images/uebung083.webp)
 Fig.: विद्याविहीनः पशुः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung083))
-:::
-
----
+:::---
 
 ## Traduzioni in sanscrito (Imperativo)
 
@@ -55,13 +53,11 @@ Le ragazze devono dare cibo ai mendicanti.
 ४. **ब्रवाम ॥ ४ ॥** (Oppure: **वचाम ॥**)
 Vogliamo parlare.
 
-::: media
+:::media
 ![](/images/uebung085.webp)
 Fig.: वचाम
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung085))
-:::
-
-५. **"एहि भिक्ष" इति बुद्धो नरमुपसमपादयत् ॥ ५ ॥**
+:::५. **"एहि भिक्ष" इति बुद्धो नरमुपसमपादयत् ॥ ५ ॥**
 Con le parole "Vieni, monaco!", il Buddha accolse l'uomo nell'ordine.
 
 ६. **सन्मानवाः स्त ॥ ६ ॥**
@@ -109,13 +105,11 @@ Devono sedersi nella mia casa.
 २०. **भर्तारो भार्या बिभ्रतु ॥ २० ॥**
 I mariti devono mantenere le loro spose.
 
-::: media
+:::media
 ![](/images/uebung076.webp)
 Fig.: तानि फलान्यदाम
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung076))
-:::
-
----
+:::---
 
 ## Dharma delle donne (स्त्रीधर्मः)
 
@@ -149,13 +143,11 @@ Chi protegge attentamente sua moglie, protegge veramentela sua discendenza, il s
 **जायायास्तद्धि जायात्वं यद् अस्यां जायते पुनः ॥ ८ ॥**  
 Il marito entra nella propria moglie, diventa un embrione e poi nasce qui; in ciò consiste il "essere moglie" (**जायात्वम्**) della moglie, che il marito rinasce in lei.
 
-::: media
+:::media
 ![](/images/uebung084.webp)
 Fig.: अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung084))
-:::
-
-::: media
+::::::media
 ![](/images/uebung077.webp)
 Fig.: पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung077))

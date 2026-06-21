@@ -11,7 +11,7 @@ status: stable
 
 ## 47.1. The Imperative (लोट्)
 
-::: grammar-box
+:::grammar-box
 The Imperative (लोट्) denotes
 
 *   **Command** (also expressed by the Gerundive (कृत्य))
@@ -30,11 +30,9 @@ The Imperative also expresses:
 *   **Permission**
 *   **that an action is timely** (also expressed by the Gerundive (कृत्य))
 *   **Blessing**
-:::
+:::Examples:
 
-Examples:
-
-::: indent
+:::indent
 एहि । "Come!"
 
 ग्रामं भवानागच्छतु । or Optative: ग्रामं भवानगच्छेत् । "Come to the village!"
@@ -48,120 +46,94 @@ Examples:
 करोतु शस्त्रं भवान् । or Gerundive: भवता शस्त्रं कर्तव्यम् । "Make a knife!" ; "You may make a knife." ; "It is time that you make a knife."
 
 चिरं जीवतु भवान् । "May you live long!"
-:::
-
-::: grammar-box
+::::::grammar-box
 Polite commands are often expressed through Passive Imperatives.
-:::
+:::Examples:
 
-Examples:
-
-::: indent
+:::indent
 भवता प्रविश्यताम् । "Please enter!"
 
 निषद्यताम् । "Please, sit down!"
-:::
+:::In the Imperative of Classical Sanskrit, the forms of the 1st person are ancient Subjunctive forms. The Vedic Subjunctive is primarily the mood that expresses a wish: "Let us go!" "Let us go!"
 
-In the Imperative of Classical Sanskrit, the forms of the 1st person are ancient Subjunctive forms. The Vedic Subjunctive is primarily the mood that expresses a wish: "Let us go!" "Let us go!"
-
-::: grammar-box
+:::grammar-box
 The Imperative is formed from the Present stem.
-:::
-
-## 47.2. Formation of the Imperative (लोट्) of thematic present stems
+:::## 47.2. Formation of the Imperative (लोट्) of thematic present stems
 
 ### 47.2.1. Endings of the Imperative for thematic present stems
 
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | **Endings** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1st Person**[[br]]तृतीयः | \-āni | \-āma | \-ai | \-āmahai |
 | **2nd Person**[[br]]मध्यमः | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
 | **3rd Person**[[br]]प्रथमः | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
-:::
+:::Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessing is to be expressed:
 
-Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessing is to be expressed:
-
-::: indent
+:::indent
 भद्रो भवतात् "May you be happy!" "May he be happy!"
 
 शुभं भवतु or शुभं भवतात् "May it be good!" "All good!"
-:::
+:::### 47.2.2. First Present Class (भ्वादि)
 
-### 47.2.2. First Present Class (भ्वादि)
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | **भू 1P** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1st Person**[[br]]तृतीयः | भवानि | भवाम | &lt;भवै&gt; | &lt;भवामहै&gt; |
 | **2nd Person**[[br]]मध्यमः | भव[[br]](bho + a + ø) | भवत | &lt;भवस्व&gt; | &lt;भवध्वम्&gt; |
 | **3rd Person**[[br]]प्रथमः | भवतु | भवन्तु | &lt;भ्वताम्&gt; | &lt;भवन्ताम्&gt; |
-:::
+:::### 47.2.3. Sixth Present Class (तुदादि)
 
-### 47.2.3. Sixth Present Class (तुदादि)
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | **विश् 6P** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1st Person**[[br]]तृतीयः | विशानि | विशाम | &lt;विशै&gt;[[br]](viś-a + ai) | &lt;विशामहै&gt; |
 | **2nd Person**[[br]]मध्यमः | विश | विशत | &lt;विशस्व&gt; | &lt;विशध्वम्&gt; |
 | **3rd Person**[[br]]प्रथमः | विशतु | विशन्तु | &lt;विशताम्&gt; | &lt;विशन्ताम्&gt; |
-:::
-
-::: media
+::::::media
 ![](/images/lekt4702.webp)
 Fig.: प्रविशत
 Hanuman Temple, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی
 (Image source: [Details](/en/licenses#lekt4702))
-:::
+:::### 47.2.4. Fourth Present Class (दिवादि)
 
-### 47.2.4. Fourth Present Class (दिवादि)
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | **नृत् 4P** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1st Person**[[br]]तृतीयः | नृत्यानि | नृत्याम | &lt;नृत्यै&gt; | &lt;नृत्यामहै&gt; |
 | **2nd Person**[[br]]मध्यमः | नृत्य | नृत्यत | &lt;नृत्यस्व&gt; | &lt;नृत्यध्वम्&gt; |
 | **3rd Person**[[br]]प्रथमः | नृत्यतु | नृत्यन्तु | &lt;नृत्यताम्&gt; | &lt;नृत्यन्ताम्&gt; |
-:::
-
-::: media
+::::::media
 ![](/images/lekt4701.webp)
 Fig.: नृत्यत
 (Image source: [Details](/en/licenses#lekt4701))
-:::
-
-### 47.2.5. Tenth Present Class (चुरादि) and Causatives
+:::### 47.2.5. Tenth Present Class (चुरादि) and Causatives
 
 चुर् 10U
 
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1st Person**[[br]]तृतीयः | चोरयानि | चोरयाम | चोरयै | चोरयामहै |
 | **2nd Person**[[br]]मध्यमः | चोरय | चोरयत | चोरयस्व | चोरयध्वम् |
 | **3rd Person**[[br]]प्रथमः | चोरयतु | चोरयन्तु | चोरयताम् | चोरयन्ताम् |
-:::
-
-### 47.2.6. Passive
+:::### 47.2.6. Passive
 
 ईक्ष् 1Ā
 
-::: grammar-box
+:::grammar-box
 | | आत्मनेपदम् ||
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
 | **1st Person**[[br]]तृतीयः | ईक्ष्यै[[br]](īks-ya + ai) | ईक्ष्यामहै |
 | **2nd Person**[[br]]मध्यमः | ईक्ष्यस्व | ईक्ष्यध्वम् |
 | **3rd Person**[[br]]प्रथमः | ईक्ष्यताम् | ईक्ष्यन्ताम् |
-:::
-
-## 47.3. Exercise
+:::## 47.3. Exercise
 
 A) Translate:
 
@@ -171,23 +143,21 @@ A) Translate:
 
 भो राम यदि मया गन्तव्यं तदैषा कन्यापि मम सहायिनी भवतु ॥३॥
 
-::: media
+:::media
 ![](/images/lekt4703.webp)
 Fig.: भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु
 (Image source: [Details](/en/licenses#lekt4703))
-:::
-आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥४॥
+:::आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥४॥
 
 प्रसीदत्वार्यः ॥५॥
 
 आर्ये स्वागतं ते ॥६॥
 
-::: media
+:::media
 ![](/images/lekt4704.webp)
 Fig.: आर्ये स्वागतं ते
 (Image source: [Details](/en/licenses#lekt4704))
-:::
-आज्ञापयत्वार्यः किं मया क्रियतामिति ॥७॥
+:::आज्ञापयत्वार्यः किं मया क्रियतामिति ॥७॥
 
 युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥८॥
 
@@ -267,7 +237,7 @@ B.) Translate into Sanskrit (use the imperative):
 
 34. May it bring good fortune (happen)! (Blessing wish)
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt4702:** Hanuman Temple, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی [Image source: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Accessed on 2009-01-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribution, no derivatives)]
 

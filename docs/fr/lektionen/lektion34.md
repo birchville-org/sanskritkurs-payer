@@ -10,23 +10,20 @@ status: stable
 
 En sanskrit classique, il n’existe que l’indicatif et le participe à partir du thème du parfait.
 
-::: grammar-box
+:::grammar-box
 **Il existe deux types de formation du parfait :**
 *   **le parfait redoublé = द्वित्वलिट्**
 *   **le parfait périphrastique = अनुप्रयोगलिट्**
-:::
-::: grammar-box
+::::::grammar-box
 **Le parfait périphrastique (अनुप्रयोगलिट्) est utilisé :**
 1. **pour les conjugaisons dérivées (causatif, desideratif, fréquentatif, dénominal)**
 2. **pour les racines commençant par une voyelle longue (sauf ā-) ou par une voyelle (sauf a-) suivie de deux consonnes**
 3. **pour certaines autres racines**
-:::
-
-## 34.2. Le parfait à redoublement (द्वित्वलिट्)
+:::## 34.2. Le parfait à redoublement (द्वित्वलिट्)
 
 ### 34.2.1. Degré de la racine
 
-::: grammar-box
+:::grammar-box
 **Formation :**
 
 **racine forte :** Singulier Parasmaipada
@@ -34,8 +31,7 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 
 **racine faible :** toutes les autres formes
 *   **racine redoublée au degré faible + terminaison du parfait**
-:::
-::: grammar-box
+::::::grammar-box
 **Généralement (même en dehors du parfait), les racines de la forme suivante n'ont pas de degré de racine :**
 *   **(Consonne)-Consonne-LongueVoyelle-Consonne**
 *   **(Consonne)-Consonne-Voyelle-Consonne-Consonne**
@@ -43,28 +39,22 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 **Au parfait, n'ont également pas de degré de racine les racines de la forme :**
 *   **a-Consonne**
 *   **ā-Consonne**
-:::
+:::### 34.2.2. Les désinences du parfait
 
-### 34.2.2. Les désinences du parfait
-
-:::: grammar-box
+::::grammar-box
 
 | | 3. Singulier | 3. Pluriel |
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
-::::
+::::### 34.2.3. Voyelle de liaison -i-
 
-### 34.2.3. Voyelle de liaison -i-
-
-::: grammar-box
+:::grammar-box
 **Avant la terminaison de la 3e personne du pluriel Ā (-re), la voyelle de liaison -i- s'ajoute toujours, avant les autres terminaisons commençant par une consonne pour la majorité des racines.**
-:::
+:::### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
 
-### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
-
-::: grammar-box
+:::grammar-box
 **Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.**
 
 **Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.**
@@ -72,11 +62,9 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 **Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.**
 
 **ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.**
-:::
+:::Beispiele:
 
-Beispiele:
-
-:::: grammar-box
+::::grammar-box
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
@@ -84,70 +72,52 @@ Beispiele:
 | मुच् | ***मु***मोच |
 | भृ | ***ब***भार |
 
-::::
-
-::: grammar-box
+:::::::grammar-box
 **Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".**
-:::
+:::Beispiele:
 
-Beispiele:
-
-:::: grammar-box
+::::grammar-box
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | वच् | उवाच[[br]]u-vāc-a | ऊचुर्[[br]]u + uc-ur |
 | यज् | इयाज[[br]]i-yāj-a | ईजुर्[[br]]i + ij-ur |
 
-::::
+::::### 34.2.5. Reduplication des vocaliques initiales
 
-### 34.2.5. Reduplication des vocaliques initiales
-
-::: grammar-box
+:::grammar-box
 **1. le a-, ā- initial est redoublé par a-, de sorte que ā- apparaît.**
-:::
+:::Exemples :
 
-Exemples :
-
-:::: grammar-box
+::::grammar-box
 
 | Racine | 3. sg. Perf. P. |
 | :--- | :--- |
 | अस् 2 "être" et अस् 4 "jeter" | आस[[br]]a + as-a |
 
-::::
-
-::: grammar-box
+:::::::grammar-box
 **2. Les racines avec un i- initial ont comme syllabe de reduplication iy- dans le thème fort, i- dans le thème faible, qui se « fusionne » avec le vocalisme de la racine en ī-. Une analogie similaire vaut pour un u- initial.**
-:::
+:::Exemples :
 
-Exemples :
-
-:::: grammar-box
+::::grammar-box
 
 | Racine | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | इ | इयाय[[br]]iy + ai + a | ईयुर्[[br]]i + iy-ur |
 | इष् | इयेष[[br]]iy-eṣ-a | ईषुर्[[br]]i + iṣ-ur |
 
-::::
-
-::: grammar-box
+:::::::grammar-box
 **3. Les racines qui commencent par a- devant deux consonnes ou par ṛ- ont comme syllabe de reduplication ān-**
-:::
+:::Exemples :
 
-Exemples :
-
-:::: grammar-box
+::::grammar-box
 
 | Racine | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | अञ्ज् | आनञ्ज | आनञ्जुर् |
 | एध् | आनर्ध | आनृधुर् |
 
-::::
-
-## 34.3. Types de parfait à redoublement
+::::## 34.3. Types de parfait à redoublement
 
 Principe de classification : particularités de l’alternance vocalique du radical :
 *   Parfait sans alternance vocalique du radical : Type I
@@ -156,17 +126,15 @@ Principe de classification : particularités de l’alternance vocalique du radi
 
 ## 34.4. Parfait Type I : Parfait sans ablaut de la racine
 
-::: grammar-box
+:::grammar-box
 **Le Parfait Type I (sans ablaut de la racine) est formé par les racines des types suivants :**
 *   **(Consonne)-Consonne-Longue-Voyelle-Consonne**
 *   **(Consonne)-Consonne-Voyelle-Consonne-Consonne**
 *   **a-Consonne**
 *   **ā-Consonne**
-:::
+:::Exemples :
 
-Exemples :
-
-:::: grammar-box
+::::grammar-box
 
 | Racine | 3. sg. Parf. | 3. pl. Parf. |
 | :--- | :--- | :--- |
@@ -176,22 +144,18 @@ Exemples :
 | अस् 2P "être"[[br]]अस् 4 "jeter" | आस[[br]]a + as-a | आसुर् |
 | अश् | आनशे[[br]]reduplication irrégulière ! | आनशिरे |
 
-::::
+::::## 34.5. Type de parfait II : Radical fort au degré supérieur, radical faible au degré inférieur
 
-## 34.5. Type de parfait II : Radical fort au degré supérieur, radical faible au degré inférieur
-
-::: grammar-box
+:::grammar-box
 **Formé à partir de racines de la forme :**
 *   **(Consonante)-(Consonante)-i/u/ṛ/ḷ-Consonante**
 
 **Formation :**
 *   **radical fort : degré supérieur**
 *   **radical faible : degré inférieur**
-:::
+:::Exemples :
 
-Exemples :
-
-:::: grammar-box
+::::grammar-box
 
 | Racine | 3. sg. Parf. P. | 3. pl. Parf. P. | 3. sg. Parf. Ā. | 3. pl. Parf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -201,22 +165,18 @@ Exemples :
 | वृत् | | | ववृते | ववृतिरे |
 | कॢप् | | | चकॢपे | चकॢपिरे |
 
-::::
-
-## 34.6. Liste de mots
+::::## 34.6. Liste de mots
 
 **क्षिति f. = पृथ्वी = मही = भूमी**
 
 **शस्य = सस्य n. sg. et pl. :** semence, culture, céréale
 
-::: media
+:::media
 ![](/images/lekt3406.webp)
 Fig. : सस्यम्
 Champ de riz en Inde.
 (Source de l'image : [Détails](/fr/licenses#lekt3406))
-:::
-
-**यावत् :** combien de temps, quelle taille
+:::**यावत् :** combien de temps, quelle taille
 
 **तावत् :** aussi longtemps, aussi grand
 
@@ -224,41 +184,33 @@ Champ de riz en Inde.
 
 **द्वीप m.n. :** île, continent
 
-::: media
+:::media
 ![](/images/lekt3405.webp)
 Fig. : लक्षद्वीपाः
 Carte des îles Lakshadweep.
 (Source de l'image : [Détails](/fr/licenses#lekt3405))
-:::
-
-**मर्त्य 3 :** mortel (de **मृ**)
+:::**मर्त्य 3 :** mortel (de **मृ**)
 
 **तिल m. :** sésame (graine) (*Sesamum indicum* L.)
 
-::: media
+:::media
 ![](/images/lekt3403.webp)
 Fig. : तिलाः
 Graines de sésame.
 (Source de l'image : [Détails](/fr/licenses#lekt3403))
-:::
-
-::: media
+::::::media
 ![](/images/lekt3404.webp)
 Fig. : *Sesamum indicum* L.
 Fleuraison de la plante de sésame.
 (Source de l'image : [Détails](/fr/licenses#lekt3404))
-:::
+:::**स्वर्ण n. :** (de belle couleur =) or
 
-**स्वर्ण n. :** (de belle couleur =) or
-
-::: media
+:::media
 ![](/images/lekt3402.webp)
 Fig. : स्वर्णम्
 Temple d'Or (Harmandir Sahib), Amritsar.
 (Source de l'image : [Détails](/fr/licenses#lekt3402))
-:::
-
-**निकेतन n. :** demeure, temple
+:::**निकेतन n. :** demeure, temple
 
 **कोटि f. :** pointe ; 10 millions
 
@@ -268,14 +220,12 @@ Temple d'Or (Harmandir Sahib), Amritsar.
 
 **ऋषभ m. :** taureau
 
-::: media
+:::media
 ![](/images/lekt3401.webp)
 Fig. : ऋषभः
 Statue du taureau Nandi, collines de Chamundi, Mysore.
 (Source de l'image : [Détails](/fr/licenses#lekt3401))
-:::
-
-**यम् 1P यच्छति :** retenir, garder, offrir, accorder
+:::**यम् 1P यच्छति :** retenir, garder, offrir, accorder
 
 **यम् + प्र 1P प्रयच्छति :** tendre, présenter, livrer
 
@@ -336,7 +286,7 @@ Traduisez le texte suivant depuis le पद्मपुराण concernant les 
 
 Explications :
 
-::: indent
+:::indent
 **Vocatif sing.** des masculins / neutres en -a se termine par -a : par ex. **देव** "Dieu !"
 
 **चतुर्दश** quatorze
@@ -346,16 +296,12 @@ Explications :
 **जन्म** Nom./Acc. sg. de **जन्मन्** n. naissance
 
 **सर्व 3** "tous, entier" (décliné selon la déclinaison pronominale)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3407.webp)
 Fig. : सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
 Rituel de mariage hindou.
 (Source de l'image : [Détails](/fr/licenses#lekt3407))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt3401:** Statue du taureau Nandi, collines de Chamundi, Mysore. [Source de l'image : Luna Park / Flickr. CC BY-NC-ND]
 

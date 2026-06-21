@@ -11,70 +11,54 @@ status: stable
 
 ## 26.1. Ley de cerebralización de -s- en interior de palabra
 
-::: grammar-box
+:::grammar-box
 **-s-** se reemplaza por **-ṣ-**, cuando **k, r, l** o una **vocal** — excepto **a, ā** — preceden inmediatamente o solo separadas por **अनुस्वार** o **विसर्ग** y sigue otro sonido que no sea **ṛ, r**.
 
 Este sandhi también se aplica a **दुस्-** antes de guturales sordas y labiales en compuestos.
-:::
-
-*Ejemplos:*
-::: indent
+:::*Ejemplos:*
+:::indent
 **तेषाम्** (de: *te-sām*)
 
 pero: **तासाम्** (*tā-sām*)
-:::
+:::## 26.2. Ley de cerebralización de las oclusivas dentales en interior de palabra
 
-## 26.2. Ley de cerebralización de las oclusivas dentales en interior de palabra
-
-::: grammar-box
+:::grammar-box
 Las oclusivas dentales son reemplazadas por las correspondientes retroflejas después de las retroflejas (incluyendo **-ṣ-**):
 
 - **iṣ** + **-ta** = **iṣṭa** (इष्ट)
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (तिष्ठति)
   *(**ṣ** debido al **i** precedente, **ṭh** debido al **ṣ** que lo sigue entonces)*
-:::
+:::## 26.3. Wortsandhi para los sonidos palatales, guturales, ṣ, h + -s
 
-## 26.3. Wortsandhi para los sonidos palatales, guturales, ṣ, h + -s
-
-::: grammar-box
+:::grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
 Ejemplos ver abajo
-:::
+:::## 26.4. Ley de la disimilación de la aspiración de Grassmann
 
-## 26.4. Ley de la disimilación de la aspiración de Grassmann
-
-:::: grammar-box
+::::grammar-box
 **Una consecuencia inmediata de dos aspiradas (aspirada - vocal - aspirada) es la pérdida de la aspiración del primer sonido:**
 
 Ejemplo:
 
-::: indent
+:::indent
 \*dhu(gh) » du(g)h
-:::
-
-**Si en virtud de las leyes fonéticas el segundo sonido pierde su aspiración, entonces la aspiración reaparece en el primer sonido.**
+:::**Si en virtud de las leyes fonéticas el segundo sonido pierde su aspiración, entonces la aspiración reaparece en el primer sonido.**
 
 Ejemplos: ver más abajo el futuro de  दुह् y  बुध्
-::::
-
-::: media
+:::::::media
 ![](/images/lekt2601.webp)
 Fig.: Hermann Grassmann
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2601))
-:::
+:::## 26.5. Wortsandhi para -m, -n antes de sonidos sibilantes
 
-## 26.5. Wortsandhi para -m, -n antes de sonidos sibilantes
-
-::: grammar-box
+:::grammar-box
 **Antes de sonidos sibilantes, -n y -m se reemplazan por -ṃ-:**
 
 Ejemplo: s. Futuro de मन् abajo
-:::
+:::## 26.6. Uso del futuro simple (ऌत्, भविष्यन्ती f.)
 
-## 26.6. Uso del futuro simple (ऌत्, भविष्यन्ती f.)
-
-::: grammar-box
+:::grammar-box
 **El Futuro Simple (ऌत्, भविष्यन्ती f.) expresa:**
 
 - **el futuro**
@@ -87,49 +71,37 @@ Ejemplo: s. Futuro de मन् abajo
 - **orden**
 
 **El futuro está parcialmente en competencia con el optativo (ver más adelante).**
-:::
-
-p. ej. व्रतं करिष्यन्देवगृहं गच्छति = "Alguien que desea hacer un voto va al templo."
+:::p. ej. व्रतं करिष्यन्देवगृहं गच्छति = "Alguien que desea hacer un voto va al templo."
 
 
-::: media
+:::media
 ![](/images/lekt2602.webp)
 Fig.: व्रतं करिष्यन्देवगृहं गच्छति
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2602))
-:::
+:::## 26.7. Formación del futuro simple (ऌत्, भविष्यन्ती  f.)
 
-## 26.7. Formación del futuro simple (ऌत्, भविष्यन्ती  f.)
-
-:::: grammar-box
+::::grammar-box
 **Futuro simple:**
 
-::: indent
+:::indent
 **Raíz del futuro + terminaciones primarias**
-:::
-::::
-
-:::: grammar-box
+:::::::::::grammar-box
 **Raíz del futuro:**
 
-::: indent
+:::indent
 **(por lo general) raíz en grado pleno + -sya**  
 **o**  
 **(por lo general) raíz en grado pleno + -i- + -sya (= - iṣya)**
-:::
-
-¡Hay que aprender con las formas de la raíz qué raíz tiene qué formación del futuro!  
+:::¡Hay que aprender con las formas de la raíz qué raíz tiene qué formación del futuro!  
 **En general, la forma de la raíz y la vocal de unión del futuro coinciden con el infinitivo.**  
 **Algunas raíces pueden formar el futuro opcionalmente con y sin la vocal de unión -i-.**  
 **El participio Parasmaipada del futuro se forma añadiendo el sufijo -nt- a la raíz del futuro, femenino facultativamente en -ntī o -tī:**
 
-::: indent
+:::indent
 कृ :  करिष्यन्त्, करिष्यन्ती / करिष्यती
-:::
-::::
+:::::::Ejemplos:
 
-Ejemplos:
-
-:::: grammar-box
+::::grammar-box
 
 | Raíz | Futuro 3. sg. P (Ā) |
 | :--- | :--- |
@@ -147,9 +119,7 @@ Ejemplos:
 | बुध् | भोत्स्यते (बोध् ante sordo = भोत्) |
 | मन् | मंस्यते (मन् + स्य + ते) |
 
-::::
-
-## 26.8. Ejercicio
+::::## 26.8. Ejercicio
 
 Formen las correspondientes formas del futuro en número, persona y género verbal (Parasmaipada, Ātmanepada):  
   

@@ -58,7 +58,7 @@ Brahmán, ¿has vertido ghee en el fuego del sacrificio?
 ४. **शत्रो शस्तेण जीवं न छिनत्सि ॥ ४ ॥**
 Enemigo, con la espada no abres el alma (la vida).
 
-::: media
+:::media
 ![](/images/uebung074.webp)
 Fig.: हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात
 (Fuente de la imagen: [Detalles](/licenses#uebung074))

@@ -8,7 +8,7 @@ status: stable
 
 ## 35.1. Perfect Type III: Strong Stem, Guṇa/Ḍīrgha Grade
 
-::: grammar-box
+:::grammar-box
 **Formation:**
 
 **strong stem:**
@@ -17,18 +17,14 @@ status: stable
 *   1.sg.P: optionally Guṇa grade or Ḍīrgha grade
 
 **weak stem:** see the subtypes
-:::
+:::### 35.1.1. Perfect Type IIIa: Strong stem in guṇa/long grade, weak stem in zero grade
 
-### 35.1.1. Perfect Type IIIa: Strong stem in guṇa/long grade, weak stem in zero grade
-
-:::: grammar-box
+::::grammar-box
 **Formation:**
 
-::: indent
+:::indent
 **weak stem:** zero grade
-:::
-
-Formed from roots of the following types:
+:::Formed from roots of the following types:
 *   (Consonant)-(Consonant) - i/ī/u/ū
 *   (Consonant) - ṛ
 
@@ -36,11 +32,9 @@ Before endings beginning with a vowel, the following replacements occur:
 *   -i/-ī becomes -iy
 *   -u/-ū becomes -uv
 *   -ṛ becomes r
-::::
+::::Examples:
 
-Examples:
-
-:::: grammar-box
+::::grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -50,25 +44,19 @@ Examples:
 | पू | पुपाव[[br]]pu-pau + a | पुपुवुर्[[br]]pu-puv-ur | पुपुवे | पुपुविरे |
 | कृ | चकार | चक्रुर्[[br]]ca-kr-ur | चक्रे | चक्रिरे |
 
-::::
+::::### 35.1.2. Perfect Type IIIb: Strong stem in guṇa/long grade, weak stem in guṇa grade
 
-### 35.1.2. Perfect Type IIIb: Strong stem in guṇa/long grade, weak stem in guṇa grade
-
-:::: grammar-box
+::::grammar-box
 **Formation:**
 
-::: indent
+:::indent
 **weak stem:** guṇa grade
-:::
-
-Formed from roots of the following types:
+:::Formed from roots of the following types:
 *   (Consonant)-(Consonant)-ṝ
 *   Consonant-Consonant-ṛ (i.e., roots ending in -ṛ preceded by multiple consonants)
-::::
+::::Examples:
 
-Examples:
-
-:::: grammar-box
+::::grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -76,11 +64,9 @@ Examples:
 | स्मृ 1P | सस्मार | सस्मरुर् | | |
 | संस्कृ 8U | सञ्चस्कार[[br]]sam + ca-skār-a | सञ्चस्करुर् | सञ्चस्करे | सञ्चस्करिरे |
 
-::::
+::::## 35.2. Perfect Type IV: Stems ending in -ā / -āi
 
-## 35.2. Perfect Type IV: Stems ending in -ā / -āi
-
-::: grammar-box
+:::grammar-box
 **Formation:**
 
 **strong stem:**
@@ -92,21 +78,17 @@ Examples:
 *   before vowel: Weakened grade Ø
 
 Formed from stems ending in -ā / -āi
-:::
+:::Example:
 
-Example:
-
-:::: grammar-box
+::::grammar-box
 
 | Root | 3. sg. Perf. P.[[br]]1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | दा 3U | ददौ | ददुर्[[br]]da-d-ur | ददे | ददिरे[[br]]da-d-i-re |
 
-::::
+::::## 35.3. Perfect Type V: Roots Consonant-a-Consonant
 
-## 35.3. Perfect Type V: Roots Consonant-a-Consonant
-
-::: grammar-box
+:::grammar-box
 **Formation:**
 
 **strong stem:**
@@ -117,29 +99,23 @@ Example:
 **weak stem:** see subtypes
 
 Formed from roots of the type (Consonant)-Consonant-a-Consonant
-:::
+:::### 35.3.1. Perfect Type Va: Weak Stem, Guṇa Grade
 
-### 35.3.1. Perfect Type Va: Weak Stem, Guṇa Grade
-
-:::: grammar-box
+::::grammar-box
 **Formation:**
 
-::: indent
+:::indent
 **weak stem:** Guṇa grade
-:::
-
-Formed by various roots, including:
+:::Formed by various roots, including:
 *   गम्
 *   हन्
 *   जन्
 *   वच्
 *   वद्
 *   यज्
-::::
+::::Examples:
 
-Examples:
-
-:::: grammar-box
+::::grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -150,34 +126,26 @@ Examples:
 | वद् 1P | उवाद | ऊदुर् | &lt;ऊदे&gt; | &lt;ऊदिरे&gt; |
 | यज् 1U | इयाज | ईजुर्[[br]]i + ij-ur | ईजे | ईजिरे |
 
-::::
+::::### 35.3.2. Perfect Type Vb: Weak Stem Contraction (e-Type)
 
-### 35.3.2. Perfect Type Vb: Weak Stem Contraction (e-Type)
-
-:::: grammar-box
+::::grammar-box
 **Formation:**
 
-::: indent
+:::indent
 **weak stem:** no reduplication. Replacement of the root’s -a- with -e-  
 (for explanation, see Thumb-Hauschild 1,2 p. 286f.)
-:::
+:::Formed from roots containing -a- between two simple consonants, whose initial consonant remains unchanged in the reduplicating syllable (i.e., whose initial consonant is not a guttural, aspirate, or h).
+::::Example:
 
-Formed from roots containing -a- between two simple consonants, whose initial consonant remains unchanged in the reduplicating syllable (i.e., whose initial consonant is not a guttural, aspirate, or h).
-::::
-
-Example:
-
-:::: grammar-box
+::::grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | पच् 1U | पपाच | ***पे***चुर् | ***पे***चे | ***पे***चिरे |
 
-::::
+::::### 35.3.3. Perfect Type Vc: Roots Consonant-a-Consonant. Weak Stem Strong Grade
 
-### 35.3.3. Perfect Type Vc: Roots Consonant-a-Consonant. Weak Stem Strong Grade
-
-::: grammar-box
+:::grammar-box
 **Formation:**
 
 **weak stem:** strong grade
@@ -189,32 +157,26 @@ Formed from all other roots with medial -a-, i.e., roots with medial -a-
 *   that begin with h
 
 provided they do not belong to Perfect Type Va.
-:::
+:::Example:
 
-Example:
-
-:::: grammar-box
+::::grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | क्रम् 1U | चक्राम | चक्रमुर् | चक्रमे | चक्रमिरे |
 
-::::
-
-## 35.4. Word List
+::::## 35.4. Word List
 
 **नश्** 4P **नश्यति** : to perish, to be destroyed, to disappear
-::: indent
+:::indent
 **Perf. Vb ननाश, नेशुर्**[[br]]
 **Fut. नशिष्यति । नङ्क्ष्यति**[[br]]
 **Kaus. नाशयति**[[br]]
 **PPP नष्ट**
-:::
-
-**नश् + प्र** 4P **प्र***ण*श्यति** : to disappear, to perish, to be destroyed
+:::**नश् + प्र** 4P **प्र***ण*श्यति** : to disappear, to perish, to be destroyed
 
 **क्रम्** 1U *****क्रा*****मति**, 4P *****क्रा*****म्यति** : to stride, to go
-::: indent
+:::indent
 **Perf. Vc चक्राम, चक्रमुर्**[[br]]
 **Fut. क्रमिष्यति**[[br]]
 **Pass. क्रम्यते**[[br]]
@@ -222,17 +184,13 @@ Example:
 **PPP ***क्रा***न्त**[[br]]
 **Inf. क्रमितुम्**[[br]]
 **Absol. क्रमित्वा । क्रन्त्वा । क्रान्त्वा**
-:::
-
-::: media
+::::::media
 ![](/images/lekt3502.webp)
 Fig.: क्रामन्ति
 People walking, Senegal.
 (Image source: [Details](/en/licenses#lekt3502))
-:::
-
-**गै** 1P **गायति** (gai + a-ti): to sing, to recite in a singing tone, to proclaim in verse
-::: indent
+:::**गै** 1P **गायति** (gai + a-ti): to sing, to recite in a singing tone, to proclaim in verse
+:::indent
 **Perf. IV जगौ, जगुर्**[[br]]
 **Fut. गास्यति**[[br]]
 **Pass. गीयते**[[br]]
@@ -242,16 +200,12 @@ People walking, Senegal.
 
 derived from:
 **गीता f.:** song, chant
-:::
-
-::: media
+::::::media
 ![](/images/lekt3501.webp)
 Fig.: जगुः
 Temple musicians, Kaadu Malleswara Temple, Bangalore.
 (Image source: [Details](/en/licenses#lekt3501))
-:::
-
-## 35.5. Exercise
+:::## 35.5. Exercise
 
 A) Form the corresponding perfect forms for the following verb forms:
 
@@ -311,18 +265,16 @@ B) Translate:
 
 ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥
 
-::: media
+:::media
 ![](/images/lekt3504.webp)
 Fig.: ... ब्राह्मणाश्चेजुः
 Yajña ceremony, Shiva Ashram, Ganeshpuri.
 (Image source: [Details](/en/licenses#lekt3504))
-:::
-
-अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥
+:::अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥
 
 C) Transform the sentences from Exercise B) by replacing perfect forms with imperfect forms.
 
-::: deleteme-box
+:::deleteme-box
 
 
 **lekt3501:** Temple musicians, Kaadu Malleswara Temple, Bangalore. [Image source: Samuelraj / Flickr. CC BY-NC]

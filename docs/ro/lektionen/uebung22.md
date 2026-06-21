@@ -87,13 +87,11 @@ Bărbații egali cu leul s-au întâlnit cu inamicii care nu sunt Ārya și obț
 १०. **पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥**
 Dacă a făcut fapte meritorii și a vorbit doar adevărul, un om nu ajunge în niciun iad.
 
-::: media
+:::media
 ![](/images/uebung034.jpg)
 Fig.: धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति
 (Sursa imaginii: [Detalii](/licenses#uebung034))
-:::
-
----
+:::---
 
 ## Construcții la pasiv
 

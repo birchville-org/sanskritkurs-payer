@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Form the Dative Singular and the Dative (respectively Ablative) Plural and provide the meaning of the nominal stem:
 
-::: grammar-box
+:::grammar-box
 | Word | Meaning | Dative Sg. | Dative Pl. |
 | :--- | :--- | :--- | :--- |
 | १. **श्रव** | Hearing | श्रवणाय | श्रवणेभ्यः |
@@ -42,9 +42,7 @@ A) Form the Dative Singular and the Dative (respectively Ablative) Plural and pr
 | २७. **पूजा** | Veneration | पूजायै | पूजाभ्यः |
 | २८. **दासी** | Servant | दास्यै | दासीभ्यः |
 | २९. **गुरु** | Master | गुरवे (m) / गुर्व्यै (f) | गुरुभ्यः / गुर्वीभ्यः |
-:::
-
-B) Translate and resolve the compounds in Sanskrit:
+:::B) Translate and resolve the compounds in Sanskrit:
 
 १. **ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विशati ॥१॥**
 (देवस्य प्रतिमाया दर्शनाय । गर्भ एव गृहम्)
@@ -80,13 +78,11 @@ The gods are angry with these Brahmins, who rendered them no veneration.
 ९. **मरणाय जना जायन्ते ॥९॥**
 To die, beings are born.
 
-::: media
+:::media
 ![](/images/uebung037.webp)
 Fig.: मरणाय जना जायन्ते
 (Image source: [Details](/en/licenses#uebung037))
-:::
-
----
+:::---
 
 ## Syntactic Variations
 
@@ -155,7 +151,7 @@ E) In sentence B) 6, replace the Dative with a construction using **-अर्�
 15. Farewell! (Neo-Sanskrit)
 **पुनर्दर्शनाय ॥**
 
-::: media
+:::media
 ![](/images/uebung038.webp)
 Fig.: इदं फलं अलं खादनाय
 (Image source: [Details](/en/licenses#uebung038))

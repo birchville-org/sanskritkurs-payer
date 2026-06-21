@@ -11,86 +11,65 @@ status: stable
 
 ## 50.1. Formation nominale : comparaison régulière
 
-::: grammar-box
+:::grammar-box
 **La comparaison régulière se fait en sanskrit avec les suffixes तद्धित**
 * **-तर (fém. : तरा) au "comparatif"**
 * **तम (fém. : तमा) au "superlatif"**
 
 **Ces suffixes sont ajoutés au masculin des adjectifs. Pour les noms avec alternance vocalique de la racine, ils sont ajoutés à la forme faible, qui a la forme comme avant la terminaison -su du locatif (पञ्चमी) pluriel.**
-:::
-
-::: media
+::::::media
 ![](/images/lekt5007.webp)
 Fig. : लोकस्योत्तमो गिरिः
 (Source de l'image : [Détails](/fr/licenses#lekt5007))
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **Signification :**
 
 **Le "comparatif" signifie, lorsqu'aucun objet comparé n'est exprimé : "plutôt, très, trop" :**
 
-::: indent
+:::indent
 p. ex. सुचितर 3 "assez pur", "très pur", "trop pur"
-:::
+:::**Lorsqu'un objet comparé est exprimé, celui-ci est au ablative (पञ्चमी). Comparatif + ablative correspond à la comparaison avec "que" en allemand.**
 
-**Lorsqu'un objet comparé est exprimé, celui-ci est au ablative (पञ्चमी). Comparatif + ablative correspond à la comparaison avec "que" en allemand.**
-
-::: indent
+:::indent
 p. ex. देवदत्ताद्रामो धीमत्तरः = litt. : "vu de Devadatta, Rāma est plus avisé" = "Rāma est plus avisé que Devadatta"
-:::
+:::**Le "superlatif" signifie, lorsqu'aucun objet comparé n'est exprimé : "extrêmement, très" :**
 
-**Le "superlatif" signifie, lorsqu'aucun objet comparé n'est exprimé : "extrêmement, très" :**
-
-::: indent
+:::indent
 p. ex. सत्तम 3 (à सन्त्) "extrêmement bon, très bon"
-:::
+:::**Lorsqu'un objet comparé est exprimé, celui-ci est au génitif (षष्ठी) ("de", "parmi") et le superlatif correspond au superlatif allemand (superlatif absolu) :**
 
-**Lorsqu'un objet comparé est exprimé, celui-ci est au génitif (षष्ठी) ("de", "parmi") et le superlatif correspond au superlatif allemand (superlatif absolu) :**
-
-::: indent
+:::indent
 p. ex. द्विजानां सत्तमः = "le meilleur des deux fois nés"
-:::
-
-**Les suffixes -तर et -तम peuvent non seulement s'ajouter aux adjectifs, mais aussi aux substantifs, aux indeclinables et même aux formes verbales :**
+:::**Les suffixes -तर et -तम peuvent non seulement s'ajouter aux adjectifs, mais aussi aux substantifs, aux indeclinables et même aux formes verbales :**
 
 Exemples :
 
-::: indent
+:::indent
 गजतम m. "le meilleur éléphant" (गज) (aussi désignation de Bouddha)
 
 गोतम m. "le plus grand bœuf" (गो) ou : "le plus riche en bovins"
 
 उद् Indécl. "sur", "vers le haut" » उत्तर 3 "plus haut" » उत्तम 3 "le plus haut"
-:::
-
-**Lorsque ces suffixes s'ajoutent à une forme verbale, ils apparaissent toujours sous forme adverbiale :**
+:::**Lorsque ces suffixes s'ajoutent à une forme verbale, ils apparaissent toujours sous forme adverbiale :**
 
 * **-तराम्**
 * **-तमाम्**
 
 Exemples :
 
-::: indent
+:::indent
 पचतितराम् "il/elle/cuit mieux"
 
 पचतितमाम् "il/elle/cuit le mieux"
-:::
+:::**Cette forme ont ces suffixes aussi, lorsqu'ils s'ajoutent à un indeclinable et que le mot dérivé est utilisé adverbialement :**
 
-**Cette forme ont ces suffixes aussi, lorsqu'ils s'ajoutent à un indeclinable et que le mot dérivé est utilisé adverbialement :**
-
-::: indent
+:::indent
 p. ex. सुतराम् (à सु) "de manière meilleure" (adverbialement)
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt5006.webp)
 Fig. : का पचतितमाम्
 (Source de l'image : [Détails](/fr/licenses#lekt5006))
-:::
-
-## 50.2. Liste de mots
+:::## 50.2. Liste de mots
 
 ध्रुव 3 : fixe, immuable
 
@@ -102,26 +81,23 @@ Fig. : का पचतितमाम्
 
 मन्त्रिन् 3 : consultatif ; m. : conseiller, magistrat, ministre
 
-::: media
+:::media
 ![](/images/lekt5001.jpg)
 Fig. : मन्त्री
 (Source de l'image : [Détails](/fr/licenses#lekt5001))
-:::
-रहस् n. : mystère, solitude
+:::रहस् n. : mystère, solitude
 
 रिष् 1P रिषति 4P रिष्यति : être endommagé, échouer, abîmer
 
-::: indent
+:::indent
 Perf. II रिरेष, रिरिषुर्
 Fut. रेषिष्यति
 Pass. रिष्यते
 Caus. रेषयति
 PPP रिष्ट
-:::
+:::**लुप् 6U *लुम्प*ति** : briser, détruire
 
-**लुप् 6U *लुम्प*ति** : briser, détruire
-
-::: indent
+:::indent
 Perf. II लुलोप, लुलुपे
 Fut. लोप्स्यति
 Pass. लुप्यते
@@ -129,13 +105,11 @@ Caus. लोपयति
 PPP लुप्त
 Inf. लोप्तुम्
 Gérondif लुप्य । लोप्य
-:::
-
-विधि m. : aussi : destin (à विधा)
+:::विधि m. : aussi : destin (à विधा)
 
 वृष् 1P वर्षति : pleuvoir (la plupart du temps avec un कर्तृ -- un dieu ou un nuage)
 
-::: indent
+:::indent
 Perf. II ववर्ष, ववृषुर्
 Fut. वर्षिष्यति
 Pass. वृष्यते
@@ -144,27 +118,23 @@ PPP वृष्ट
 Inf. वर्षितुम्
 Absol. वर्षित्वा । वृष्ट्वा
 Absol.-वृष्य
-:::
-
-::: media
+::::::media
 ![](/images/lekt5002.jpg)
 Fig. : महामेघो वर्षिष्यति
 (Source de l'image : [Détails](/fr/licenses#lekt5002))
-:::
-संयक् Adv. : correctement, véritablement, de la manière appropriée ; absolument, complètement
+:::संयक् Adv. : correctement, véritablement, de la manière appropriée ; absolument, complètement
 
 आदित्य m. : soleil ; pl. : [Āditya](http://en.wikipedia.org/wiki/Aditya) : une certaine classe de dieux
 
-::: media
+:::media
 ![](/images/lekt5005.jpg)
 Fig. : आदित्यः
 (Source de l'image : [Détails](/fr/licenses#lekt5005))
-:::
-सर्व 3 : chacun, tous
+:::सर्व 3 : chacun, tous
 
 Déclinaison comme यद् (exception : Nom.Acc.sg.Neutre)
 
-::: grammar-box
+:::grammar-box
 | | Singulier[[br]]एकवचनम् || || Pluriel[[br]]बहुवचनम् || ||
 | | **Masculin[[br]]पुंस्** | **Neutre[[br]]नपुंसकम्** | **Féminin[[br]]स्त्री** | **Masculin[[br]]पुंस्** | **Neutre[[br]]नपुंसकम्** | **Féminin[[br]]स्त्री** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -175,9 +145,7 @@ Déclinaison comme यद् (exception : Nom.Acc.sg.Neutre)
 | **5. Ablatif[[br]]५. पञ्चमी** | सर्वस्मात् || सर्वस्यास् | सर्वेभ्यस् || सर्वाभ्यस् |
 | **6. Génitif[[br]]६. षष्ठी** | सर्वस्य || सर्वस्यास् | सर्वेषाम् || सर्वासाम् |
 | **7. Locatif[[br]]७. सप्तमी** | सर्वस्मिन् || सर्वस्याम् | सर्वेषु || सर्वासु |
-:::
-
-वै : particule qui met l'accent sur le mot précédent : certes, vraiment, mais
+:::वै : particule qui met l'accent sur le mot précédent : certes, vraiment, mais
 
 इह Adv. : ici, ici-bas, ici-bas ; maintenant. Devant les substantifs au locatif (षष्ठी) équivalent à अस्मिन्, अस्याम्
 
@@ -185,27 +153,23 @@ Déclinaison comme यद् (exception : Nom.Acc.sg.Neutre)
 
 कल्याण 3 (f. : कल्याणी) : beau
 
-::: media
+:::media
 ![](/images/lekt5003.webp)
 Fig. : कल्याणी
 (Source de l'image : [Détails](/fr/licenses#lekt5003))
-:::
-कु- : comme préfixe dans les composés : mauvais
+:::कु- : comme préfixe dans les composés : mauvais
 
-::: media
+:::media
 ![](/images/lekt5004.webp)
 Fig. : कुनगरम्
 धारावी, मुंबई
 (Source de l'image : [Détails](/fr/licenses#lekt5004))
-:::
-चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : voir
+:::चक्ष् 2Ā चष्टे 2.pl. Ā चड्ढ्वे : voir
 
-::: indent
+:::indent
 Parfait. चचक्षे
 non utilisé dans les autres temps
-:::
-
-चक्ष् + प्र 2Ā प्रचष्टे : raconter, considérer comme, nommer
+:::चक्ष् + प्र 2Ā प्रचष्टे : raconter, considérer comme, nommer
 
 देश m. : lieu, place, pays, région
 
@@ -213,51 +177,42 @@ non utilisé dans les autres temps
 
 A) Pour revoir la déclinaison : le vers suivant contient toutes les formes de déclinaison au singulier pour गुरु m. :
 
-::: indent
+:::indent
 गुरुरेव गतिर्गुरुमेव भजे
 गुरुणैव सहास्मि नमो गुरवे ।
 न गुरोः परमं शिशुरस्मि गुरोर्
 मतिरस्ति गुरौ मम पाहि गुरो ॥
-:::
-
-::: media
+::::::media
 ![](/images/lekt5008.webp)
 Fig. : गुरुमेव भजे
 Ganeshpuri, à 80 km de Mumbai (मुंबई)
 (Source de l'image : [Détails](/fr/licenses#lekt5008))
-:::
-B) Traduisez :
+:::B) Traduisez :
 
 मनुस्मृति ४, १७८
 
-::: indent
+:::indent
 येनास्य पितरो याता
 येन याताः पितामहाः ।
 तेन यायात्सतां मार्गम्
 तेन गच्छन्न रिष्यते ॥१॥
-:::
+:::मनुस्मृति ३, ६३
 
-मनुस्मृति ३, ६३
-
-::: indent
+:::indent
 कुविवाहैः क्रियालोपैर्
 वेदानध्ययनेन च ।
 कुलान्यकुलतां यान्ति
 ब्राह्मणातिक्रमेण च ॥२॥
-:::
+:::मनुस्मृति ३, ६०
 
-मनुस्मृति ३, ६०
-
-::: indent
+:::indent
 संतुष्टो भार्यया भर्ता
 भर्त्रा भार्या तथैव च ।
 यस्मिन्नेव कुले नित्यम्
 कल्याणं तत्र वै ध्रुवम् ॥३॥
-:::
+:::मनुस्मृति ३, ७५ - ७६ : Sur la nécessité du sacrifice
 
-मनुस्मृति ३, ७५ - ७६ : Sur la nécessité du sacrifice
-
-::: indent
+:::indent
 स्वाध्याये नित्ययुक्तः स्याद्
 दैवे चैवेह कर्मणि ।
 दैवे कर्मणि युक्तो हि
@@ -266,30 +221,24 @@ B) Traduisez :
 आदित्यमुपतिष्ठते ।
 आदित्याज्जायते वृष्टिर्
 वृष्टेरन्नं ततः प्रजाः ॥५॥
-:::
+:::योगसूत्र २, १६ - १७
 
-योगसूत्र २, १६ - १७
-
-::: indent
+:::indent
 हेयं दुःखमनागतम् ॥६॥
 ***द्रष्टृदृश्ययोः*** संयोगो हेयहेतुः ॥७॥
 
 Explication :
 द्रष्टृदृश्ययोः : Gén.Loc.m.n.f.Duel (Dualdvandva)
-:::
+:::कौटिलीयार्थशास्त्र १, १५ : Sur les conseillers du roi
 
-कौटिलीयार्थशास्त्र १, १५ : Sur les conseillers du roi
-
-::: indent
+:::indent
 न किंचिदवमन्येत
 सर्वस्य शृणुयानमतम् ।
 बालस्याप्यर्थवद्वाक्यम्
 उपयुन्जीत पाण्डितः ॥८॥
-:::
+:::मनुस्मृति २, १४० - १४२ : Définition de आचार्य, उपाध्याय, गुरु
 
-मनुस्मृति २, १४० - १४२ : Définition de आचार्य, उपाध्याय, गुरु
-
-::: indent
+:::indent
 उपनीय तु यः शिष्यं
 वेदमधापयेत्द्द्विजः ।
 सकल्पं सरहस्यं च
@@ -307,9 +256,7 @@ Explication :
 
 Explications :
 निषेकादीनि : Nom.Acc.pl.Neutre
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt5007 :** Fig. : सगरमाथा = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mont Everest [Source de l'image : wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Consulté le 2009-01-12. -- [Licence Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
 

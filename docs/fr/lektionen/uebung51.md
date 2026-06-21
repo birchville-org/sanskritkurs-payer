@@ -72,13 +72,11 @@ Réflexions du perroquet **वैशम्पायन** sur la vie de chasseur 
 
 > Et il me vint à l’esprit : Ah, leur vie, à eux [les chasseurs], consiste principalement dans l’ignorance, et leur conduite est blâmée par les gens vertueux. En effet, ils considèrent comme une religion juste l’offrande de viande humaine ; leur nourriture se compose de vin de miel, de viande et d’autres choses, toutes blâmées par les gens vertueux ; leur occupation est la chasse ; leur enseignement est le hurlement des chacals ; les chouettes sont leurs maîtres du bien et du mal ; leur sagesse est l’ornithologie ; leurs compagnons sont les chiens ; leur royaume se trouve dans des forêts vides ; leur fête est l’ivrognerie ; leurs amis sont les arcs, qui accomplissent des actes cruels ; leurs compagnons sont les flèches, dont la pointe est enduite de venin, semblable à celui des serpents ; leur chant apporte la ruine au gibier confus ; leurs femmes sont les jeunes filles enlevées d’autres familles ; ils habitent avec des tigres cruels ; ils vénèrent les divinités avec le sang des animaux ; ils offrent de la viande en sacrifice ; ils vivent de rapine ; leurs ornements sont les pierres précieuses de serpent ; ils frottent leurs membres avec la sève de rut des éléphants des bois ; ils déracinent complètement chaque forêt où ils s’installent – Pendant que je réfléchissais ainsi, le général des Śabaras entra chez moi.
 
-::: media
+:::media
 ![](/images/uebung086.webp)
 Fig. : Chasseur
 (Source de l’image : [Détails](/fr/licenses#uebung086))
-:::
-
----
+:::---
 
 ## ४. Commentaire de भानुचन्द्र (१६. s.)
 
@@ -90,7 +88,7 @@ Commentaire sur la section précédente de la **कादम्बरी** :
 > Pour une première introduction au sanskrit des commentaires, on peut recommander :
 > **Tubb, Gary A. & Boose, Emery R. : Scholastic Sanskrit: A Handbook for Students.** New York : American Institute of Buddhist Studies, 2007.
 
-::: media
+:::media
 ![](/images/uebung089.jpg)
 Fig. : Sanskrit scolaire
 (Source de l'image : [Détails](/fr/licenses#uebung089))

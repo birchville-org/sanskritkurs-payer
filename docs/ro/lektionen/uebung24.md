@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formați dativul singular și dativul (respectiv ablativul) plural și indicați semnificația temei nominale:
 
-::: grammar-box
+:::grammar-box
 | Cuvânt | Semnificație | Dativ Sg. | Dativ Pl. |
 | :--- | :--- | :--- | :--- |
 | १. **श्रव** | Auz | श्रवणाय | श्रवणेभ्यः |
@@ -42,9 +42,7 @@ A) Formați dativul singular și dativul (respectiv ablativul) plural și indica
 | २७. **पूजा** | Închinare | पूजायै | पूजाभ्यः |
 | २८. **दासी** | Servitoare | दास्यै | दासीभ्यः |
 | २९. **गुरु** | Stăpân | गुरवे (m) / गुर्व्यै (f) | गुरुभ्यः / गुर्वीभ्यः |
-:::
-
-B) Traduceți și descompuneți compusele în sanscrită:
+:::B) Traduceți și descompuneți compusele în sanscrită:
 
 १. **ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विशati ॥१॥**
 (देवस्य प्रतिमाया दर्शनाय । गर्भ एव गृहम्)
@@ -80,13 +78,11 @@ Zeii se mânie pe acești brahmani care nu le-au adus închinare.
 ९. **मरणाय जना जायन्ते ॥९॥**
 Pentru a muri, ființele se nasc.
 
-::: media
+:::media
 ![](/images/uebung037.webp)
 Fig.: मरणाय जना जायन्ते
 (Sursa imaginii: [Detalii](/licenses#uebung037))
-:::
-
----
+:::---
 
 ## Variații sintactice
 
@@ -155,7 +151,7 @@ E) În propoziția B) 6, înlocuiți dativul cu o construcție cu **-अर्�
 15\. La revedere! (Sanskrită nouă)
 **पुनर्दर्शनाय ॥**
 
-::: media
+:::media
 ![](/images/uebung038.webp)
 Fig.: इदं फलं अलं खादनाय
 (Sursa imaginii: [Detalii](/licenses#uebung038))

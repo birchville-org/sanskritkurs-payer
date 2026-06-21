@@ -522,19 +522,13 @@
                 <option value="bg/lektionen/lektion01">Български (BG)</option>
                 <option value="uk/lektionen/lektion01">Українська (UK)</option>
                 <option value="ru/lektionen/lektion01">Русский (RU)</option>
-                <option value="hi/lektionen/lektion01">हिन्दी (HI)</option>
                 <option value="fr/lektionen/lektion01">Français (FR)</option>
                 <option value="es/lektionen/lektion01">Español (ES)</option>
-                <option value="la/lektionen/lektion01">Latina (LA)</option>
                 <option value="pa/lektionen/lektion01">ਪੰਜਾਬੀ (PA)</option>
-                <option value="rm/lektionen/lektion01">Rumantsch (RM)</option>
                 <option value="ro/lektionen/lektion01">Română (RO)</option>
                 <option value="ta/lektionen/lektion01">தமிழ் (TA)</option>
                 <option value="he/lektionen/lektion01">עברית (HE)</option>
                 <option value="id/lektionen/lektion01">Bahasa Indonesia (ID)</option>
-                <option value="th/lektionen/lektion01">ไทย (TH)</option>
-                <option value="zh-CN/lektionen/lektion01">简体中文 (ZH-CN)</option>
-                <option value="zh-TW/lektionen/lektion01">繁體中文 (ZH-TW)</option>
             </select>
         </div>
 
@@ -602,32 +596,22 @@
             <div class="syn-row" onclick="insertSnippet('[', '](url)')"><code>[Text](url)</code><span class="syn-desc" data-syn-d="link">Link</span></div>
             <div class="syn-row" onclick="insertSnippet('![', '](pfad)')"><code>![Alt](pfad)</code><span class="syn-desc" data-syn-d="img">Bild</span></div>
             <div class="syn-row" onclick="insertSnippet('\n| A | B |\n|---|---|\n| ', ' | |')"><code>| A | B |</code><span class="syn-desc" data-syn-d="tbl">Tabelle</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n---\n', '')"><code>---</code><span class="syn-desc" data-syn-d="hr">Linie</span></div>
-
-            <h4 data-syn-h="ext">Erweiterungen (markdown-it)</h4>
-            <div class="syn-row" onclick="insertSnippet('[[br]]', '')"><code>[[br]]</code><span class="syn-desc" data-syn-d="br">Zeilenumbruch</span></div>
-            <div class="syn-row" onclick="insertSnippet('[[indent]]', '')"><code>[[indent]]</code><span class="syn-desc" data-syn-d="ind">Einzug inline</span></div>
-
-            <h4 data-syn-h="mmd">MultiMD-Tabellen</h4>
-            <div class="syn-row" onclick="insertSnippet('\n| A || B |\n|---|---|\n| ', ' | |')"><code>| A || B |</code><span class="syn-desc" data-syn-d="cs">Colspan</span></div>
-            <div class="syn-row" onclick="insertSnippet(' ^^ ', '')"><code>^^</code><span class="syn-desc" data-syn-d="rs">Rowspan</span></div>
-
-            <h4 data-syn-h="cnt">Container-Blöcke</h4>
-            <div class="syn-row" onclick="insertSnippet('\n::: grammar-box\n', '\n:::')"><code>::: grammar-box</code><span class="syn-desc" data-syn-d="yel">gelb</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: grammar-box2\n', '\n:::')"><code>::: grammar-box2</code><span class="syn-desc" data-syn-d="ora">orange</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: important\n', '\n:::')"><code>::: important</code><span class="syn-desc" data-syn-d="vio">violett</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: note-box\n', '\n:::')"><code>::: note-box</code><span class="syn-desc" data-syn-d="gry">grau</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: indent\n', '\n:::')"><code>::: indent</code><span class="syn-desc" data-syn-d="indt">eingerückt</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: center\n', '\n:::')"><code>::: center</code><span class="syn-desc" data-syn-d="ctr">zentriert</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: media\n', '\n:::')"><code>::: media</code><span class="syn-desc" data-syn-d="med">Bild-Block</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: deleteme-box\n', '\n:::')"><code>::: deleteme-box</code><span class="syn-desc" data-syn-d="del">unsichtbar</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: no-header\n', '\n:::')"><code>::: no-header</code><span class="syn-desc" data-syn-d="noh">Tabelle o. Kopf</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: compact\n', '\n:::')"><code>::: compact</code><span class="syn-desc" data-syn-d="cmp">enge Tabelle</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: laut-table\n', '\n:::')"><code>::: laut-table</code><span class="syn-desc" data-syn-d="laut">Laut-Tabelle</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: metrik-schema\n', '\n:::')"><code>::: metrik-schema</code><span class="syn-desc" data-syn-d="met">Metrik</span></div>
-
-            <h4 data-syn-h="deva">Devanāgarī</h4>
-            <div class="syn-row" onclick="insertSnippet('⟪', '⟫')"><code>⟪text⟫</code><span class="syn-desc" data-syn-d="skt">explizit Sanskrit</span></div>
+            <div class="syn-row" onclick="insertSnippet(':br', '')"><code>:br</code><span class="syn-desc" data-syn-d="br">Zeilenumbruch</span></div>
+            <div class="syn-row" onclick="insertSnippet(':indent', '')"><code>:indent</code><span class="syn-desc" data-syn-d="ind">Einzug inline</span></div>
+            <div class="syn-row" onclick="insertSnippet('⟪', '⟫')"><code>⟪Sanskrit⟫</code><span class="syn-desc" data-syn-d="dev">Devanagari</span></div>
+            <div class="syn-row" style="margin-top: 10px; border-bottom: 1px solid var(--vp-c-divider);"></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::grammarbox\n', '\n:::')"><code>:::grammarbox</code><span class="syn-desc" data-syn-d="yel">gelb</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::grammarbox2\n', '\n:::')"><code>:::grammarbox2</code><span class="syn-desc" data-syn-d="ora">orange</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::important\n', '\n:::')"><code>:::important</code><span class="syn-desc" data-syn-d="vio">violett</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::note-box\n', '\n:::')"><code>:::note-box</code><span class="syn-desc" data-syn-d="gry">grau</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::indent\n', '\n:::')"><code>:::indent</code><span class="syn-desc" data-syn-d="indt">eingerückt</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::center\n', '\n:::')"><code>:::center</code><span class="syn-desc" data-syn-d="ctr">zentriert</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::media\n', '\n:::')"><code>:::media</code><span class="syn-desc" data-syn-d="med">Bild-Block</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::deleteme-box\n', '\n:::')"><code>:::deleteme-box</code><span class="syn-desc" data-syn-d="del">unsichtbar</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::no-header\n', '\n:::')"><code>:::no-header</code><span class="syn-desc" data-syn-d="noh">Tabelle o. Kopf</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::compact\n', '\n:::')"><code>:::compact</code><span class="syn-desc" data-syn-d="cmp">enge Tabelle</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::laut-table\n', '\n:::')"><code>:::laut-table</code><span class="syn-desc" data-syn-d="laut">Laut-Tabelle</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::metrik-schema\n', '\n:::')"><code>:::metrik-schema</code><span class="syn-desc" data-syn-d="met">Metrik</span></div>
         </div>
         <div class="pane" id="left-pane">
             <iframe id="left-frame" src="about:blank"></iframe>
@@ -906,8 +890,8 @@
                 }
             }
             let html = window.md.render(editorInput.value);
-            // Fallback: convert any remaining [[br]] literals to <br> (safe inside <td>/<th>)
-            html = html.replace(/\[\[br\]\]/g, '<br>');
+            // Fallback: convert any remaining [[br]] or :br literals to <br> (safe inside <td>/<th>)
+            html = html.replace(/(?:\[\[br\]\]|:br)/g, '<br>');
             editorPreview.innerHTML = html;
         }
 
@@ -1541,10 +1525,10 @@
             const md = markdownit({ html: true, breaks: true, linkify: false });
 
             // 1. prevent_br_link — mirrors config.mjs line 223-225
-            //    Transforms [[br]]( to [[br]] ( before block parsing, preventing [[br]] from
+            //    Transforms [[br]]( or :br( to [[br]] ( or :br ( before block parsing, preventing it from
             //    being interpreted as a Markdown link by the tokenizer.
             md.core.ruler.before('normalize', 'prevent_br_link', (state) => {
-                state.src = state.src.replace(/\[\[br\]\]\(/g, '[[br]] (');
+                state.src = state.src.replace(/(?:\[\[br\]\]|:br)\(/g, ':br (');
             });
 
             // 2. MultiMD table — must be registered BEFORE container plugins (Pitfall 2)
@@ -1586,15 +1570,13 @@
                             return;
                         }
 
-                        // Split on [[br]] — each split produces a segment; hardbreak between segments
-                        const segments = child.content.includes('[[br]]')
-                            ? child.content.split('[[br]]')
-                            : [child.content];
+                        // Split on [[br]] or :br — each split produces a segment; hardbreak between segments
+                        const segments = child.content.split(/(?:\[\[br\]\]|:br)/);
 
                         segments.forEach((segment, index) => {
-                            // Split on ⟪ Devanagari ⟫, bare Devanagari runs, and [[indent]]
+                            // Split on ⟪ Devanagari ⟫, bare Devanagari runs, and [[indent]] or :indent
                             const parts = segment.split(
-                                /(⟪[ऀ-ॿ]+⟫|[ऀ-ॿ]+|\[\[indent\]\])/g
+                                /(⟪[ऀ-ॿ]+⟫|[ऀ-ॿ]+|\[\[indent\]\]|:indent)/g
                             );
 
                             parts.forEach(part => {
@@ -1613,8 +1595,8 @@
                                     const span = new state.Token('html_inline', '', 0);
                                     span.content = '<span class="' + devClass + '">' + part + '</span>';
                                     newChildren.push(span);
-                                } else if (part === '[[indent]]') {
-                                    // [[indent]] -- empty inline span
+                                } else if (part === '[[indent]]' || part === ':indent') {
+                                    // [[indent]] or :indent -- empty inline span
                                     const span = new state.Token('html_inline', '', 0);
                                     span.content = '<span class="indent-inline"></span>';
                                     newChildren.push(span);

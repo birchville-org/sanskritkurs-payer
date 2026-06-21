@@ -69,7 +69,7 @@ Vocativo singolare dei maschili / neutri in -a termina in -a: es. देव "Dio
 
 सर्व 3 "tutto, intero" (declinato secondo la declinazione pronominal)
 
-:::: media
+::::media
 ![](/images/uebung057.jpg)
 Fig.: तिलप्रमाणम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung057))

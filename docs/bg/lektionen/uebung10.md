@@ -207,13 +207,11 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 
 दानेन श्रावकः स्वर्गमाप्नोति / स्वर्गमश्नुते ।
 
-::: media
+:::media
 ![](/images/uebung011.webp)
 Илистр.: ग्रामः
 (Източник на изображението: [Подробности](/bg/licenses#uebung011))
-:::
-
----
+:::---
 
 ## Четене
 
@@ -319,7 +317,7 @@ Rāma wohnt bei den vedischen Weisen.
 सारथिना रथो नीयते ॥
 Возачът управлява колата.
 
-::: media
+:::media
 ![](/images/uebung012.webp)
 Ил.: सारथी रथं नयति
 (Източник на изображението: [Подробности](/bg/licenses#uebung012))

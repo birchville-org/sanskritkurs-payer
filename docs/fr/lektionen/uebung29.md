@@ -16,11 +16,9 @@ Traduisez mot à mot en un bon allemand et apprenez les textes sanskrits par cœ
 
 L’ignorance signifie considérer ce qui est impermanent, impur, souffrant et non-absolu comme permanent, pur, joyeux ou absolu.
 
-::: deleteme-box Explication
+:::deleteme-box Explication
 **आत्मसु** = Loc. sg. de आत्मन् m. "Âme ; l’Absolu, dans la mesure où il se réalise dans l’individu"
-:::
-
-### २. Du bon usage du दण्ड (Kautilya Arthaśāstra 1.4)
+:::### २. Du bon usage du दण्ड (Kautilya Arthaśāstra 1.4)
 
 तीक्ष्णदण्डो भूतानामुद्वेजनीयो भवति । मृदुदण्डः परिभूयते । यथार्हदण्डः पूज्यते । सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति । दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति, किमङ्ग पुनर्गृहस्थान् । अप्रणीतस्तु मात्स्यन्यायमुद्भावयति । बलीयानबलं हि ग्रसते दण्डधराभावे । स तेन गुप्तः प्रभवतीति ।
 
@@ -36,7 +34,7 @@ Les êtres doivent frémir devant un régime de châtiment (daṇḍa) trop rigo
 > Joyeux de l’activité selon son propre droit et sa propre coutume  
 > Elle se meut sur ses propres voies.
 
-::: deleteme-box Glossaire & Grammaire
+:::deleteme-box Glossaire & Grammaire
 - **उद्वेजनीय** (3) : ce devant quoi on doit frémir
 - **विज्ञात** (3) : reconnu ; n. : reconnaissance
 - **योजयति** (Caus. de **युज्** : atteler, unir avec
@@ -47,9 +45,7 @@ Les êtres doivent frémir devant un régime de châtiment (daṇḍa) trop rigo
 - **राज्ञा** : Instr. sg. masc. de **राजन्** (roi)
 - **स्वेषु** : Loc. plur. masc./neutr. de **स्व** (propre)
 - **वर्त्मसु** : Loc. plur. neutr. de **वर्त्मन्** (voie, chemin)
-:::
-
-::: media
+::::::media
 ![](/images/uebung046.webp)
 Fig. : चतुर्वर्णाश्रमो लोको
 (Source de l'image : [Détails](/fr/licenses#uebung046))

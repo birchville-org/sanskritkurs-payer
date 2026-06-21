@@ -863,3 +863,11 @@ html[lang="ta-IN"] .VPDocFooter {
 .locale-hidden {
   display: none !important;
 }
+
+/* Phase 23: Hide Bulgarian (bg) from the language switcher */
+.VPNav a[href="/bg/"], 
+.VPFlyout a[href="/bg/"],
+.VPMenuLink a[href="/bg/"],
+a.VPLink[href="/bg/"] {
+  display: none !important;
+}

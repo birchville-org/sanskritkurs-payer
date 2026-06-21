@@ -102,7 +102,7 @@ sādhur guruḥ.
 
 साधुर्गुरुः
 
-::: media
+:::media
 ![](/images/uebung002.jpg)
 अभिक: ईश्वरः शिवः
 (चित्र स्रोत: [विवरण](/licenses#uebung002))

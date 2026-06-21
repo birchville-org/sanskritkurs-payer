@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Inserite nelle seguenti frasi la forma corrispondente delle parole tra parentesi e traducete:
 
-::: grammar-box
+:::grammar-box
 १. **राज्ञि** (oppure: **राजनि**) **धर्मं रक्षत्यभया जनाः ॥ १ ॥** (राजन्)
 Se il re custodisce la giustizia e l'usanza, il popolo è senza timore.
 
@@ -55,15 +55,11 @@ I buoni re donano agli uomini l'assenza di timore.
 
 १५. **राजसु धर्मं न रक्षत्सु सभया जनाः ॥ १५ ॥** (राजन्)
 Se i re non custodiscono la giustizia e l'usanza, gli uomini sono pieni di timore.
-:::
-
-::: media
+::::::media
 ![](/images/uebung063.webp)
 Fig.: राज्ञे बलिनो हस्तिनो दीयेरन्
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung063))
-:::
-
----
+:::---
 
 ## Racconto: Dieci sciocchi (दश मूढाः)
 

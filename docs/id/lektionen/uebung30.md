@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Convert the following verbal forms into the corresponding optative forms with respect to person, number, and genus verbi:
 
-::: grammar-box
+:::grammar-box
 | Present | Optative |
 | :--- | :--- |
 | १. **ह्रियते** | ह्रियेत |
@@ -78,9 +78,7 @@ A) Convert the following verbal forms into the corresponding optative forms with
 | ६३. **अर्हति** | अर्हेत् |
 | ६४. **अदन्ति** | अद्युः |
 | ६५. **अध्यापयन्ति** | अध्यापयेयुः |
-:::
-
-B) Translate the following sentences and resolve the Sanskrit compounds:
+:::B) Translate the following sentences and resolve the Sanskrit compounds:
 
 १. **जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥**
 (आर्याणि सत्यानि)
@@ -117,19 +115,17 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 **प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥** (Manu IV.138)  
 Speak truths that are pleasant; do not speak unpleasant truths. Do not speak pleasant untruths; this is the eternal law.
 
-::: media
+:::media
 ![](/images/uebung048.webp)
 Fig.: श्रीमोहनभोपेन रावणहस्तो वाद्यते
 (Image source: [Details](/en/licenses#uebung048))
-:::
-
----
+:::---
 
 ## Word-form determination
 
 Determine and translate the following word forms:
 
-::: grammar-box
+:::grammar-box
 | Word form | Determination | Meaning |
 | :--- | :--- | :--- |
 | १. **भारे** | Loc. sg. m. | on the load |
@@ -172,9 +168,7 @@ Determine and translate the following word forms:
 | ३८. **तस्यै** | Dat. sg. f. | to her |
 | ३९. **तस्मिन्** | Loc. sg. m./n. | therein, in this |
 | ४०. **सते** | Dat. sg. m./n. | to the Being / Good |
-:::
-
-::: media
+::::::media
 ![](/images/uebung047.webp)
 Fig.: भक्त्याः
 (Image source: [Details](/en/licenses#uebung047))

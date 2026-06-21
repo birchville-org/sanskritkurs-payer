@@ -12,7 +12,7 @@ last_reconstructed: 2026-05-15
 
 Translate and determine the following forms and form the corresponding **aorist** forms. Except for causatives and roots that form the **s-aorist**, the class of the corresponding aorist is given in parentheses:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Determination / Meaning | Aorist |
 |:---|:---|:---|:---|
 | १. | **पेचिथ** | *पच्* 1U: 2. Sg. Perf. P. (you garted) | **अपाक्षीः** |
@@ -40,21 +40,17 @@ Translate and determine the following forms and form the corresponding **aorist*
 | २३. | **निन्य** | *नी* 1U: 2. Pl. Perf. P. (you have led) | **अनैष्ट** |
 | २४. | **कर्षन्ति** | *कृष्* 1P: 3. Pl. Ind. Präs. P. (they draw) | **अकार्क्षुः / अक्राक्षुः** |
 | २५. | **अप्रच्छयन्** | *प्रच्छ्* 6P: 3. Pl. Impf. P. Kaus. (they caused to ask) | **अपप्रच्छन्** |
-:::
-
-::: media
+::::::media
 ![](/images/uebung090.webp)
 Fig.: वारानास्यां गङ्गायामप्लोढ्वम्
 (Image source: [Details](/en/licenses#uebung090))
-:::
-
----
+:::---
 
 ## B) Word Determinations
 
 Determine and translate the following forms:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung / Bedeutung |
 |:---|:---|:---|
 | १. | **चेलुः** | *चल्* 1P: 3. Pl. Perf. P. (they have set in motion) |
@@ -114,9 +110,7 @@ Determine and translate the following forms:
 | ५४. | **आदिषि** | *आ-दा* 3Ā: 1. Sg. s-Aor. Ā. (I took) |
 | ५५. | **पाणी** | *पाणि* m.: Nom. Acc. Voc. Du. (both hands) |
 | ५६. | **अस्प्राक्षम्** | *स्पृश्* 6P: 1. Sg. s-Aor. P. (I touched) |
-:::
-
-::: media
+::::::media
 ![](/images/uebung094.webp)
 Fig.: पाणी धूपं कुरुतः ॥
 (Image source: [Details](/en/licenses#uebung094))

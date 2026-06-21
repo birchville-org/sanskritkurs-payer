@@ -11,7 +11,7 @@ status: stable
 
 ## 22.1. El absolutivo (क्त्वा । ल्यप्)
 
-::: grammar-box
+:::grammar-box
 
 Si se desea expresar en sánscrito que una acción del agente (कर्तृ) precede a otra acción del mismo agente o ocurre como circunstancia concomitante con ella, se utiliza el absolutivo (क्त्वा । ल्यप्). Es decir:
 
@@ -27,29 +27,23 @@ Al traducir al alemán, evite decir constantemente "después de". En su lugar, u
 
 (determinación del absolutivo: adjunto circunstancial, objeto, etc.) - absolutivo - absolutivo - ... - absolutivo - ... agente + oración verbal (en activo o pasivo)
 
-:::
+:::**Ejemplos:**
 
-**Ejemplos:**
-
-::: indent
+:::indent
 **गृहं प्रविश्य बालां दृष्ट्वा नरो वदति** = construcción pasiva: **गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते**  
 "El hombre entra en la casa, ve a la niña pequeña y le habla."
 
 Plural: **गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।**
-:::
+:::## 22.2. Formación del absolutivo
 
-## 22.2. Formación del absolutivo
-
-::: grammar-box
+:::grammar-box
 **Formación del absolutivo**
 
 *   Verbos sin prefijo: absolutivo en **-tvā**
 *   Verbos con prefijo: absolutivo en **-ya** o **-tya**
-:::
+:::### 22.2.1. Verbos sin prefijo: Absoluto en -त्वा
 
-### 22.2.1. Verbos sin prefijo: Absoluto en -त्वा
-
-::: grammar-box
+:::grammar-box
 
 **Formación:**
 
@@ -57,11 +51,9 @@ Plural: **गृहं प्रविश्य बालां दृष्ट�
 
 Solo la negación **a-** / **an-** es compatible con el sufijo **-त्वा** : **अकृत्वा** "sin haber hecho"
 
-:::
+:::**Ejemplos:**
 
-**Ejemplos:**
-
-::: indent
+:::indent
 **आप्त्वा** "después de que él / ella / ello / yo / tú / nosotros / vosotros / ellos / nosotros dos / vosotros dos / ellos dos han alcanzado / habían alcanzado"
 
 **आसित्वा** "después de que él (...) se había sentado / se ha sentado"
@@ -73,63 +65,49 @@ Solo la negación **a-** / **an-** es compatible con el sufijo **-त्वा**
 **जित्वा** "después de que él (...) ha triunfado / había triunfado"
 
 **उक्त्वा** "después de que él (...) ha hablado / había hablado"
-:::
-
-### 22.2.2. Verbos con prefijo verbal
+:::### 22.2.2. Verbos con prefijo verbal
 
 #### 22.2.2.1. Raíces con vocal larga (excepto -ā) o con consonante final
 
-::: grammar-box
+:::grammar-box
 
 **(por lo general) raíz en grado cero + -ya**
 
-:::
+:::**Ejemplos:**
 
-**Ejemplos:**
-
-::: indent
+:::indent
 **उपनीय** "después de que (...) ha conducido / había conducido"
 
 **प्रभूय** "después de que (...) ha sobresalido / había sobresalido" "después de que (...) ha tenido poder"
 
 **प्राप्य** "después de que (...) ha obtenido / había obtenido"
-:::
+:::#### 22.2.2.2. Raíces en -ā
 
-#### 22.2.2.2. Raíces en -ā
-
-::: grammar-box
+:::grammar-box
 
 **raíz en grado pleno invariable + -ya**
 
-:::
+:::**Ejemplo:**
 
-**Ejemplo:**
-
-::: indent
+:::indent
 **उपस्थाय** "después de que (...) ha entrado / había entrado" ; (pero sin prefijo verbal: **स्थित्वा**)
-:::
+:::#### 22.2.2.3. Raíces que en grado cero terminan en -i, -u, -ṛ breves
 
-#### 22.2.2.3. Raíces que en grado cero terminan en -i, -u, -ṛ breves
-
-::: grammar-box
+:::grammar-box
 
 **raíz en grado cero + -tya**
 
-:::
+:::**Ejemplos:**
 
-**Ejemplos:**
-
-::: indent
+:::indent
 **प्रस्तुत्य** "después de que (...) ha alabado en voz alta / había alabado en voz alta"
 
 **विस्मृत्य** "después de que (...) ha olvidado / había olvidado"
 
 **संस्कृत्य** "después de que (...) ha preparado para el sacrificio / había preparado para el sacrificio"
-:::
+:::#### 22.2.2.4. Raíces en -am / -an que en grado cero terminan en -a
 
-#### 22.2.2.4. Raíces en -am / -an que en grado cero terminan en -a
-
-::: grammar-box
+:::grammar-box
 
 **Opcional:**
 
@@ -139,61 +117,45 @@ o:
 
 Raíz en **-a** + **-tya**
 
-:::
+:::**Ejemplo:**
 
-**Ejemplo:**
-
-::: indent
+:::indent
 **विगम्य** o **विगत्य** "después de que (...) ha pasado / había pasado"
-:::
-
-## 22.3. Lista de palabras
+:::## 22.3. Lista de palabras
 
 **काम m.:** deseo, anhelo; regalo deseado, placer sensual, amor, dios del amor
 
-::: indent
+:::indent
 **कामम्** Ac. adverbial: a voluntad, a placer
-:::
-
-::: media
+::::::media
 ![](/images/lekt2202.webp)
 Fig.: कामदेवः
 Siglo XIX
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2202))
-:::
-
-
-**शक् 5 P  शक्नोति Pas.  शक्यते PPP  शक्त Inf.  शक्तुम् :** ser capaz, poder
+:::**शक् 5 P  शक्नोति Pas.  शक्यते PPP  शक्त Inf.  शक्तुम् :** ser capaz, poder
 
 de ello:
 
-::: indent
+:::indent
 **शक्ति f.:** la capacidad, poder, habilidad, fuerza; también: fuerza divina, personificada como compañera femenina, especialmente de **शिव**
 
 **शक्र m.:** el poderoso (epíteto de **इन्द्र**)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2203.webp)
 Fig.: दुर्गाशक्तिः
 Calcuta = কলকাতা
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2203))
-:::
+:::**अर्ह 1 P  अर्हति Pas.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** merecer algo (ser digno de algo), deber, estar obligado a, deber (en la 2.ª persona, **अर्ह्** + infinitivo se usa a menudo como orden suave: "Deberías")
 
-
-**अर्ह 1 P  अर्हति Pas.  अर्ह्यते PPP  अर्हित Inf.  अर्हितुम् :** merecer algo (ser digno de algo), deber, estar obligado a, deber (en la 2.ª persona, **अर्ह्** + infinitivo se usa a menudo como orden suave: "Deberías")
-
-::: indent
+:::indent
 **अर्हन्त् 3** Part. Pres. P: un digno. En el budismo y el jainismo: alguien que ha alcanzado la liberación final
-:::
-
-**व्रत n.:** voto, obligación religiosa, observancia religiosa (uno promete algo a la deidad para obtener algo de ella. Ejemplo: una madre promete entregar a su hija como prostituta sagrada (**देवदासी**) si su hija se recupera. **व्रत** importantes hoy: ayuno; abstinencia de alimentos que se aman; abstinencia sexual; lectura de escrituras sagradas; realización de ciertos rituales; alimentación de brahmanes, etc. Breve sobre **व्रत**: Walker, Hindu World Vol. II, p. 581ss. Detallado: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. Allí p. 253 - 462 lista de **व्रत** y festividades religiosas ("la siguiente lista ... no pretende ser exhaustiva" !!!)
+:::**व्रत n.:** voto, obligación religiosa, observancia religiosa (uno promete algo a la deidad para obtener algo de ella. Ejemplo: una madre promete entregar a su hija como prostituta sagrada (**देवदासी**) si su hija se recupera. **व्रत** importantes hoy: ayuno; abstinencia de alimentos que se aman; abstinencia sexual; lectura de escrituras sagradas; realización de ciertos rituales; alimentación de brahmanes, etc. Breve sobre **व्रत**: Walker, Hindu World Vol. II, p. 581ss. Detallado: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. Allí p. 253 - 462 lista de **व्रत** y festividades religiosas ("la siguiente lista ... no pretende ser exhaustiva" !!!)
 
 **चर् 1 P  charati Pas.  charyate PPP  charita Inf.  charitum (Sánscrito: चर् 1 P चरति Pas.  चर्यते PPP  चरित Inf.  चरितुम्) :** pastorear, vagar, moverse, actuar, ejercer algo, realizar (por ejemplo, **व्रतं चर्**: practicar un voto, especialmente abstinencia sexual)
 
 de ello:
 
-::: indent
+:::indent
 **चर ३:** móvil; n.: lo móvil = animales (en contraste con las plantas)
 
 **चरण n., m.:** pie
@@ -201,16 +163,12 @@ de ello:
 **चरित n.:** conducta de vida, hazañas de vida
 
 **ब्रह्मचर्य n.:** realización del Veda (**ब्रह्मन्**) = estudio del Veda en la primera etapa de la vida (la del **ब्रह्मचारिन्**), que requiere estricta abstinencia sexual; por lo tanto, también: abstinencia sexual, estilo de vida celibatario
-:::
-
-::: media
+::::::media
 ![](/images/lekt2201.webp)
 Fig.: धेनवश्चरन्ति
 Goa = गोंय
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2201))
-:::
-
-## 22.4. Ejercicio
+:::## 22.4. Ejercicio
 
 **A) Formar y traducir el Absoluto para los siguientes verbos:**
 
@@ -275,13 +233,11 @@ Goa = गोंय
 
 **C) Convierta las oraciones anteriores (excepto las oraciones 8 y 10) en construcciones pasivas**
 
-::: media
+:::media
 ![](/images/lekt2204.webp)
 Fig.: अन्नं पक्त्वा
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2204))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt2201:** Goa = गोंय [Fuente de la imagen: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Acceso el 2008-12-12. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
 

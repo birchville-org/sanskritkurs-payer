@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Form the first-person forms corresponding to the following verb forms in number, tense, mood (indicative, optative), and voice (P, Ā, Passive):
 
-::: grammar-box
+:::grammar-box
 | 3rd Person | 1st Person |
 | :--- | :--- |
 | १. **अदन्ति** | अद्मः |
@@ -103,9 +103,7 @@ A) Form the first-person forms corresponding to the following verb forms in numb
 
 | ८८. **अजुहवुः** | अजुहुम |
 | ८९. **हरति** | हरामि |
-:::
-
-::: media
+::::::media
 ![](/images/uebung064.webp)
 Fig.: आगारे सीदामः
 (Image source: [Details](/en/licenses#uebung064))

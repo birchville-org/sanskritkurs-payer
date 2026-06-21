@@ -11,16 +11,14 @@ status: stable
 
 ## 43.1. Terminări personale ale celei de-a 2-a persoane (मध्यमः = "persoana a treia &lt;mijlocie&gt;")
 
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Terminări primare** | -si | -tha | -se | -dhve |
 | **Terminări secundare** | -s | -ta | -thās | -dhvam |
 | **Terminări perfect** | -tha | -a | -se | -dhve |
-:::
-
-Rețineți că terminația secundă a celei de-a 2-a persoane plural este identică cu terminația secundă a celei de-a 3-a persoane singular activ.
+:::Rețineți că terminația secundă a celei de-a 2-a persoane plural este identică cu terminația secundă a celei de-a 3-a persoane singular activ.
 
 ## 43.2. Formarea formelor verbale de persoana a II-a (मध्यमः)
 
@@ -31,11 +29,9 @@ Persoana a II-a:
 
 ### 43.2.1.1. Teme tematice
 
-::: media
+:::media
 ![](/images/lekt4301.jpg)
-:::
-
-Singularul 3. al Imperfectului și al Optativului în Ā, respectiv Pluralul 2. al Imperfectului și al Optativului, sunt formal identice!
+:::Singularul 3. al Imperfectului și al Optativului în Ā, respectiv Pluralul 2. al Imperfectului și al Optativului, sunt formal identice!
 
 #### 43.2.1.1.1. Prima clasă de prezent (भ्वादि)
 
@@ -116,7 +112,7 @@ Singularul 3. al Imperfectului și al Optativului în Ā, respectiv Pluralul 2. 
 *   Singular: त्वद् "tu"
 *   Plural: युष्मद् "voi"
 
-::: grammar-box
+:::grammar-box
 | | एकवचनम् (त्वद्) | बहुवचनम् (युष्मद्) |
 | --- | --- | --- |
 | **प्रथमा** | त्वम् | यूयम् |
@@ -126,36 +122,29 @@ Singularul 3. al Imperfectului și al Optativului în Ā, respectiv Pluralul 2. 
 | **पञ्चमी** | त्वत् | युष्मत् |
 | **षष्ठी** | तव ते | युष्माकम् वस् |
 | **सप्तमी** | त्वयि | युष्मासु |
-:::
+:::Formele त्वा, ते, वस् nu pot fi folosite la începutul unei propoziții sau al unei jumătăți de vers. De asemenea, nu pot fi utilizate înainte de च, वा, एव și alte particule similare:
 
-Formele त्वा, ते, वस् nu pot fi folosite la începutul unei propoziții sau al unei jumătăți de vers. De asemenea, nu pot fi utilizate înainte de च, वा, एव și alte particule similare:
-
-::: indent
+:::indent
 त्वां मां च "pe tine și pe mine"
-:::
-
-## 43.4. Listă de cuvinte
+:::## 43.4. Listă de cuvinte
 
 ज्ञा + आ Causativ आज्ञापयति : porunci, dispune
 
 आपण m.: piață
 
-::: media
+:::media
 ![](/images/lekt4302.webp)
 Fig.: आपणः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4302))
-:::
-
-सत्वर 3: rapid, grăbit
+:::सत्वर 3: rapid, grăbit
 
 पण्य 3: vândut; n.: marfă, comerț
 
-::: media
+:::media
 ![]/images/lekt4303.webp
 Fig.: पण्यानि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4303))
-:::
-आम् : da
+:::आम् : da
 
 सम m. = वर्ष n.
 
@@ -173,33 +162,27 @@ Fig.: पण्यानि
 
 विपणि f.: magazin
 
-::: media
+:::media
 ![](/images/lekt4304.webp)
 Fig.: विपणिः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4304))
-:::
+:::वणिज् m.: comerciant
 
-वणिज् m.: comerciant
-
-::: media
+:::media
 ![](/images/lekt4305.webp)
 Fig.: वणिक्
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4305))
-:::
-
-वर 3: cel mai bun
+:::वर 3: cel mai bun
 
 शीघ्र 3: rapid, repede
 
 वत्स m.: vițel, pui, copil ; Voc.: dragul meu
 
-::: media
+:::media
 ![](/images/lekt4306.webp)
 Fig.: वत्सः
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4306))
-:::
-
-उत्तम 3: suprem, cel mai bun
+:::उत्तम 3: suprem, cel mai bun
 
 अल्प 3: mic, puțin
 
@@ -215,13 +198,11 @@ Fig.: वत्सः
 
 तर्हि 10 तुल् तुलयति । : cântări
 
-::: media
+:::media
 ![](/images/lekt4307.webp)
 Fig.: तोलयति
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4307))
-:::
-
-तोलन्ति n.: hârtie
+:::तोलन्ति n.: hârtie
 
 कर्गल m.: cutie (aici: pachet, legătură)
 
@@ -233,7 +214,7 @@ Fig.: तोलयति
 
 जव 1P द्रु alerga
 
-::: indent
+:::indent
 Perf. IIIa द्रवति, दुद्राव  
 Fut. दुद्रुवुर्  
 Pass. द्रोष्यति  
@@ -241,9 +222,7 @@ Caus. द्रूयते
 PPP द्रावयति  
 Absol. -द्रुत  
 Inf. द्रुत्य
-:::
-
-द्रोतुम् Interjecție: Hei! Tu acolo!
+:::द्रोतुम् Interjecție: Hei! Tu acolo!
 
 रे 3: altul (declinație ca अन्यद् )
 
@@ -338,13 +317,11 @@ B) Traduceți în sanscrită:
 
 10\. Cum vă salvați (depășiți) în fața inamicului?
 
-::: media
+:::media
 ![](/images/lekt4308.webp)
 Fig.: कदा पूराववर्तथाः ।
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4308))
-:::
-
-## 43.6. संवादः = Discuție
+:::## 43.6. संवादः = Discuție
 
 | संवादः | Explicații |
 | --- | --- |
@@ -374,13 +351,11 @@ Fig.: कदा पूराववर्तथाः ।
 | अशोको गृहमागत्य सर्वमपीतिवृत्तमकथयत् । तत्रस्था सर्वे ऽपि बान्धवा मित्राणि च परमानन्दं प्रापुः । इत्थं जन्मोत्सवः सानन्दं समाप्तिं यातः ॥ | |
 | (După: Saral Sanskrit Shikshak III, p. 4f.) | |
 
-::: media
+:::media
 ![](/images/lekt4309.webp)
 Fig.: शर्करा
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4309))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Accesat la 2009-01-06. -- Licență Creative Commons (Atribuire, fără scop comercial)
 

@@ -9,7 +9,7 @@ status: stable
 
 # Lezione 6
 
-::: deleteme-box
+:::deleteme-box
 **In questa lezione imparate:**
 - La struttura della frase verbale (agente e forma verbale)
 - La formazione delle forme verbali (Parasmaipada, Ātmanepada, Passivo)
@@ -17,19 +17,15 @@ status: stable
 - Indicativo presente (laṭ) e le desinenze primarie della terza persona
 - La formazione dello stema del presente (classi 1, 4 e 6)
 - La gradazione vocale (Ablaut: Guṇa e Vṛddhi)
-:::
+:::## 6.1. La proposizione verbale
 
-## 6.1. La proposizione verbale
-
-::: grammar-box
+:::grammar-box
 **Schema I: Forma verbale**
 - p. es. **yajati** = यजति = "Egli (lei, esso) venera con un sacrificio", "Egli (lei, esso) sacrifica"
 
 **Schema II: Agente (kartṛ m. = कर्तृ) – Forma verbale**
 - p. es. **rāmo yajati** = रामो यजति = "Rāma venera con un sacrificio", "Rāma sacrifica"
-:::
-
-Quando l'agente (**kartṛ** m. = कर्तृ) è menzionato in una proposizione verbale che non è al passivo, l'agente è in **nominativo** (primo caso, prathamā = प्रथमा). Nel numero (vacana n. = वचन) l'agente e la forma verbale concordano.
+:::Quando l'agente (**kartṛ** m. = कर्तृ) è menzionato in una proposizione verbale che non è al passivo, l'agente è in **nominativo** (primo caso, prathamā = प्रथमा). Nel numero (vacana n. = वचन) l'agente e la forma verbale concordano.
 
 ---
 
@@ -70,11 +66,9 @@ Una forma verbale finita, cioè una forma verbale con desinenza personale, espri
 
 Il presente è il tempo dell'attualità, in particolare anche della durata.
 
-::: grammar-box
+:::grammar-box
 **L'Indicativo (forma affermativa) Presente si forma aggiungendo al tema del presente le cosiddette desinenze primarie.**
-:::
-
-Esempi:
+:::Esempi:
 
 | Radice (dhātu) | Tema del presente | 3. persona singolare Indicativo Presente Parasmaipada |
 | :--- | :--- | :--- |
@@ -86,14 +80,12 @@ Esempi:
 
 ## 6.4. Desinenze primarie della terza persona (prathama m. = प्रथम = "prima (!) persona")
 
-::: grammar-box
+:::grammar-box
 | | Singolare (Einzahl)[[br]]ekavacana n.[[br]]एकवचन | Plurale (Mehrzahl)[[br]]bahuvacana n.[[br]]बहुवचन |
 | :--- | :--- | :--- |
 | **Parasmaipada n.**[[br]]परस्मैपद | **-ti**[[br]]-ति | **-nti**[[br]]-न्ति |
 | **Ātmanepada n.**[[br]]आत्मनेपद | **-te**[[br]]-ते | **-nte**[[br]]-न्ते |
-:::
-
-Esempio **yaj** = यज् = "onorare con un sacrificio", "sacrificare":
+:::Esempio **yaj** = यज् = "onorare con un sacrificio", "sacrificare":
 - Tema del presente: **yaja** = यज
 - 3. sg. P. **yajati** = यजति
 - 3. pl. P. **yajanti** = यजन्ति
@@ -106,18 +98,16 @@ Esempio **yaj** = यज् = "onorare con un sacrificio", "sacrificare":
 
 ### 6.5.1. Verbi della sesta classe del presente (tudādi = तुदादि = "tud ecc.")
 
-::: grammar-box
+:::grammar-box
 **Stema del presente = radice in grado debole (come viene elencata) + a-**
 
 | Radice (dhātu m.)[[br]]धातु | Stema del presente |
 | :--- | :--- |
 | **viś**[[br]]विश् | **viśa-**[[br]]विश- |
 | **sṛj**[[br]]सृज् | **sṛja-**[[br]]सृज- |
-:::
+:::### 6.5.2. Verbi della prima classe del presente (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū ecc.")
 
-### 6.5.2. Verbi della prima classe del presente (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū ecc.")
-
-::: grammar-box
+:::grammar-box
 | Tema del presente = Radice in grado forte (raramente grado allungato) + a- ||||
 | Radice (dhātu m.)[[br]]धातु | Grado forte | Grado forte davanti a a- | Tema del presente |
 | :--- | :--- | :--- | :--- |
@@ -127,14 +117,12 @@ Esempio **yaj** = यज् = "onorare con un sacrificio", "sacrificare":
 | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaja-**[[br]]यज- |
 | Se la vocale si trova in una sillaba chiusa lunga, cioè una vocale breve seguita da due o più consonanti, la formazione del grado forte viene omessa ||||
 | **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **ninda-**[[br]]निन्द- |
-:::
-
-#### 6.5.2.1. Sandhi lessicale di e e o
+:::#### 6.5.2.1. Sandhi lessicale di e e o
 All'interno delle parole, davanti a vocali, **e** viene sostituito da **ay**, **o** da **av**.
 
 #### 6.5.2.2. Alternanza vocalica (Ablaut)
 
-::: grammar-box
+:::grammar-box
 | Grado debole[[br]]Grado zero | Grado forte[[br]]Grado pieno[[br]]Guṇa m.[[br]]गुण | Grado allungato[[br]]Vṛddhi f.[[br]]वृद्धि |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -142,11 +130,9 @@ All'interno delle parole, davanti a vocali, **e** viene sostituito da **ay**, **
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
-:::
+:::### 6.5.3. Verbi della quarta classe del presente (divādi = दिवादि = "div ecc.")
 
-### 6.5.3. Verbi della quarta classe del presente (divādi = दिवादि = "div ecc.")
-
-::: grammar-box
+:::grammar-box
 **Stema del presente = radice in grado debole (come viene elencata) + ya-**
 
 | Radice (dhātu m.)[[br]]धातु | Stema del presente |
@@ -155,40 +141,32 @@ All'interno delle parole, davanti a vocali, **e** viene sostituito da **ay**, **
 | **muh**[[br]]मुह् | **muhya-**[[br]]मुह्य- |
 | **yudh**[[br]]युध् | **yudhya-**[[br]]युध्य- |
 | **man**[[br]]मन् | **manya-**[[br]]मन्य- |
-:::
+:::### 6.5.4. Vocale tematica, classi di presente tematiche
 
-### 6.5.4. Vocale tematica, classi di presente tematiche
-
-::: grammar-box
+:::grammar-box
 La **a** nei suffissi di formazione del tema delle classi di presente viene chiamata **vocale tematica**. Le classi di presente con **a** nel suffisso di formazione del tema sono dette pertanto "classi di presente tematiche".
-:::
-
----
+:::---
 
 ## 6.6. Sanscrito parlato: Ulteriori domande (praśna m. = प्रश्न)
 
-::: grammar-box
+:::grammar-box
 - **N. N. kiṃ karoti?** = N.N. किं करोति = "Cosa fa N. N.?"
 - **N. N. (plural) kiṃ kurvanti?** = N.N. किं कुर्वन्ति = "Cosa fanno i N.N.?"
 - (karoti, kurvanti da **kṛ** = कृ 8 U: "fare, fare")
 - **kiṃ kuśalam?** = किं कुशलम् = "Stai bene?, Come stai?"
 - Risposta: **sarvathā kuśalam** = सर्वथा कुशलम् = "(Sto) bene in ogni senso."
-:::
-
----
+:::---
 
 ## 6.7. Elenco di parole
 
-::: grammar-box
+:::grammar-box
 In sanscrito, i verbi sono elencati nella **forma della radice**. Il numero dopo la radice indica la **classe di coniugazione**.
 
 - **P:** La radice è solo Parasmaipada
 - **Ā:** La radice è solo Ātmanepada
 - **U:** Ubhayapada ("entrambe le forme verbali"): la radice viene utilizzata sia nel Parasmaipada che nell'Ātmanepada.
 - **():** Tra parentesi è indicata la terza persona singolare del presente indicativo (laṭ).
-:::
-
-**Impara le seguenti parole:**
+:::**Impara le seguenti parole:**
 - **yaj** 1 U (yajati) यज् यजति : onorare con un sacrificio, sacrificare
 - **bhū** 1 P (bhavati) भू भवति : diventare, emergere, essere
 - **smṛ** 1 P (smarati) स्मृ स्मरति : rendere presente, ricordare
@@ -231,14 +209,12 @@ In sanscrito, i verbi sono elencati nella **forma della radice**. Il numero dopo
 12. Chi (fem.) danza?
 13. La (menzionata) Brahmana danza.
 
-::: media
+:::media
 ![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
 (Fonte immagine: Wikipedia, CC-BY-SA 2.5)
-:::
-
----
+:::---
 
 ## 6.9. Esercizio di ripasso
 
@@ -311,13 +287,11 @@ In sanscrito, i verbi sono elencati nella **forma della radice**. Il numero dopo
 2. Durgā è una dea.
 3. Mīnākṣī è una dea.
 
-::: media
+:::media
 ![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Tempio di Mīnākṣī, Madurai, Tamil Nadu
 (Fonte dell'immagine: Wikipedia, Dominio pubblico)
-:::
-
-4. Sono confusi.
+:::4. Sono confusi.
 5. Rāma è un uomo sacro.
 6. Chi è il SIGNORE?
 7. Indra è il SIGNORE.

@@ -207,13 +207,11 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 
 दानेन श्रावकः स्वर्गमाप्नोति / स्वर्गमश्नुते ।
 
-::: media
+:::media
 ![](/images/uebung011.webp)
 Fig. : ग्रामः
 (Source de l'image : [Détails](/fr/licenses#uebung011))
-:::
-
----
+:::---
 
 ## Exercice de lecture
 
@@ -319,7 +317,7 @@ Hari rentre chez lui.
 सारथिना रथो नीयते ॥
 Le cocher conduit le char.
 
-::: media
+:::media
 ![](/images/uebung012.webp)
 Fig. : सारथी रथं नयति
 (Source de l'image : [Détails](/fr/licenses#uebung012))

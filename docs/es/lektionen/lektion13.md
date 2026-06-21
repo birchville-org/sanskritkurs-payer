@@ -11,20 +11,18 @@ last_reconstructed: 2026-05-21
 
 Para la distribución de los PPP en -ta- o -na-, no se pueden establecer reglas fijas. Sin embargo:
 
-::: grammar-box
+:::grammar-box
 
 Casi todas las raíces en -d forman el PPP en -na-. En este caso, -d-n- se reemplaza por -n-n-, lo cual no ocurre en el sandhi de palabras, sino que es una imitación del sandhi de oración.
 
 Ejemplo:
 pad 4 Ā PPP: panna 3 = पन्न
 
-:::
-
----
+:::---
 
 ## 13.2. Más sobre el uso del PPP
 
-:::: grammar-box
+::::grammar-box
 
 1. El PPP de verbos con el significado de "pensar", "desear", "conocer", "saber", "adorar" así como de otros verbos marcados en el Dhātupāṭha, el índice de raíces de Pāṇini, con ñi, no solo tiene significado de pasado, sino que también puede usarse con significado presente:
 
@@ -62,29 +60,23 @@ pad 4 Ā PPP: panna 3 = पन्न
     नृत्त n.: "el bailar, el baile"
     :::
 
-::::
-
----
+::::---
 
 ## 13.3. Determinantes atributivas de los nombres (orden de las palabras)
 
-:::: grammar-box
+::::grammar-box
 
 Los atributos (adjuntos) en la prosa se colocan en el orden normal de las palabras antes de la palabra que especifican. Los atributos adjetivos concuerdan con el nombre en número, caso y género:
 
 Ejemplo:
 
-::: indent
+:::indent
 साधुरिष्टं फलं पश्यति = "Un santo ve el fruto deseado (de sus obras)."
-:::
-
-::::
-
----
+:::::::---
 
 ## 13.4. Formación de adjetivos en -mant y -vant (taddhita)
 
-:::: grammar-box
+::::grammar-box
 
 Mediante los sufijos taddhita -mant o -vant se forman adjetivos posesivos a partir de nombres. Su significado es: "que posee lo designado por el nombre subyacente".
 
@@ -92,25 +84,19 @@ Mediante los sufijos taddhita -mant o -vant se forman adjetivos posesivos a part
 
 Ejemplos:
 
-::: indent
+:::indent
 पशुमन्त् "que posee ganado"
 
 गुणवन्त् "que posee buenas cualidades / virtud"
-:::
-
-::::
-
----
+:::::::---
 
 ## 13.5. Descenso de la raíz de los nombres
 
 Las raíces en -mant o -vant pertenecen a los nombres con descenso de raíz.
 
-::: grammar-box
+:::grammar-box
 En los nombres con descenso de raíz, se distingue entre casos fuertes (casos) y casos débiles. En los casos fuertes, el sufijo formador de la raíz —en el caso de los nombres radicales, el componente radical— tiene el grado alto o el grado alargado; en los casos débiles, el grado bajo.
-:::
-
-**Los casos fuertes son:**
+:::**Los casos fuertes son:**
 
 | | Singular[[br]]एकवचन | Dual[[br]]द्विवचन | Plural[[br]]बहुवचन |
 | :--- | :--- | :--- | :--- |
@@ -119,17 +105,15 @@ En los nombres con descenso de raíz, se distingue entre casos fuertes (casos) y
 
 **Todos los demás casos son débiles.**
 
-::: grammar-box
+:::grammar-box
 Como prefijo de un compuesto, un nombre con descenso de raíz aparece en la raíz débil (en el caso de los nombres de tres raíces, en la llamada raíz media).
-:::
-
----
+:::---
 
 ## 13.6. Sobre el Sandhi de palabras
 
 Para comprender las formas individuales de la declinación de los nombres terminados en -mant y -vant, son necesarias las siguientes leyes del sandhi de palabras:
 
-:::: grammar-box
+::::grammar-box
 
 1. Número de consonantes finales de una palabra: De dos o más consonantes con las que una palabra terminaría, solo se conserva la primera consonante; las demás se eliminan. Se permite la combinación -r- + consonante.
 
@@ -147,26 +131,22 @@ Para comprender las formas individuales de la declinación de los nombres termin
     -c + dh- » -g-dh- ग्ध्
     :::
 
-::::
-
----
+::::---
 
 ## 13.7. Desinencias casuales de las raíces consonánticas
 
-::: grammar-box
+:::grammar-box
 
 En el caso de las raíces que terminan en consonante:
 * la desinencia del acusativo (dvitīyā) en plural, masculino y femenino, es -as.
 * en las raíces de formación regular, el neutro en nominativo (prathamā) y acusativo (dvitīyā) singular carece de desinencia.
 * en las raíces de formación regular, en el neutro, la desinencia del nominativo y acusativo en plural es -i.
 
-:::
-
----
+:::---
 
 ## 13.8. Declinación de las raíces en -mant y -vant
 
-::: grammar-box
+:::grammar-box
 
 * raíz fuerte: sustantivo + -mant- / -vant-
 * raíz débil: sustantivo + -mat- / -vat- (de: *-mnt- / *-vnt-)
@@ -187,9 +167,7 @@ La raíz femenina de las raíces en -mant- y -vant- termina en -mat-ī o -vat-ī
 Ejemplo:
 * paśumatī, guṇavatī पशुमती गुणवती
 
-:::
-
----
+:::---
 
 ## 13.9. Lista de palabras
 
@@ -210,56 +188,44 @@ Aprenda las siguientes palabras:
 >
 > [Fuente: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
-::: media
+:::media
 ![](/images/lekt1301.webp)
 Fig.: महिषासुरः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1301))
-:::
-
-- **guṇa** m. गुण : hilo, cuerda; propiedad, buena propiedad
+:::- **guṇa** m. गुण : hilo, cuerda; propiedad, buena propiedad
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna पद् पद्यते पद्यते पन्न : ir, caer en
 - **as** 2 P (asti) अस् अस्ति : ser, estar presente
 - **as** 4 P (asyati), Pass.: asyate, PPP asta अस् अस्यति अस्यते अस्त : lanzar, (arrojar lejos)
 - **i** 2 P (eti), Pass.: īyate, PPP ita इ एति ईयते इत : ir
 - **pā** 2 P (pāti), Pass. pāyate, PPP pāta पा पाति पायते पात : proteger, guardar
 
-::: indent
+:::indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta पा पिबति पीयते पीत : beber (traditionally counted as class 1)
-:::
-
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa द्विष् द्वेष्टि द्विष्यते द्विष्ट : odiar, hostilizar
+:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa द्विष् द्वेष्टि द्विष्यते द्विष्ट : odiar, hostilizar
 - **ad** 2 P (atti), Pass. adyate, PPP anna अद् अत्ति अद्यते अन्न : comer, consumir
 - **anna** n. अन्न : comida (del PPP: *ad-na: lo comido)
 
-::: media
+:::media
 ![](/images/lekt1304.webp)
 Fig.: अन्नम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1304))
-:::
-
-Formación de palabras:
+:::Formación de palabras:
 
 pad 4 Ā:
 
-::: indent
+:::indent
 **pada** n. पद : paso, lugar, sitio
 
 **pāda** m. पाद : pie, una cuarta parte, línea de verso
-:::
-
-::: media
+::::::media
 ![](/images/lekt1303.webp)
 Fig.: चत्वारः पादाः : गजः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1303))
-:::
+:::dviṣ 2 U:
 
-dviṣ 2 U:
-
-::: indent
+:::indent
 **dveṣa** द्वेष : odio
-:::
-
----
+:::---
 
 ## 13.10. Ejercicio
 
@@ -269,13 +235,11 @@ A) Traduzca y convierta en oraciones en presente activo:
 २. बुद्धेन सत्यं बुद्धम् ।
 ३. बोध्या गौतमो मुक्तः ।
 
-::: media
+:::media
 ![](/images/lekt1305.webp)
 Fig.: अत्र गौतमो बुद्धो बोध्या मुक्तः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1305))
-:::
-
-४. शूद्रा मूढाः । (2 posibilidades)
+:::४. शूद्रा मूढाः । (2 posibilidades)
 ५. ब्राह्मणेन मोक्ष इष्टः ।
 ६. रामेण पुण्यं कृतम् ।
 ७. ऋषिभिः सत्यमेवोदितमित्युदितम् ।
@@ -328,13 +292,11 @@ B) Convierta las oraciones del ejercicio A) a voz pasiva.
 
 C) Forme una construcción de participio pasado pasivo (PPP) para las oraciones del ejercicio A).
 
-::: media
+:::media
 ![](/images/lekt1302.webp)
 Fig.: सत्यमेव जयते
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1302))
-:::
-
-D) ¿De qué combinaciones de sonidos pueden haber surgido las siguientes formas de Sandhi? Indique todas las posibilidades:
+:::D) ¿De qué combinaciones de sonidos pueden haber surgido las siguientes formas de Sandhi? Indique todas las posibilidades:
 
 1. -a ante vocal (excepto a-)
 2. -ā-

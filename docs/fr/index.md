@@ -22,7 +22,7 @@ features:
     details: Construit sur les fondations de VitePress pour une vitesse maximale.
 ---
 
-::: tip Version 1.4 — Offline-First PWA
+:::tip Version 1.4 — Offline-First PWA
 **Nouveautés de la v1.4 (Juin 2026):**
 
 - **Progressive Web App (PWA):** Le cours peut désormais être installé sous forme d'application sur ordinateur et smartphone (iOS/Android).

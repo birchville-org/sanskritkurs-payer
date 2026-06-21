@@ -12,18 +12,13 @@ status: stable
 ## 29.1. Utilisation du Parasmaipada (परस्मैपद) et Ātmanepada (आत्मनेपद) dans le causatif
 
 
-::: grammar-box
+:::grammar-box
 **Le causatif est, à de rares exceptions près, Ubhayapada (उभयपद)**
-:::
-
-
-::: grammar-box
+::::::grammar-box
 **Dans le causatif, on utilise l’Ātmanepada (आत्मनेपद) :**
 
 **1. Lorsque le fruit de l’action causée profite à celui qui cause :**
-:::
-
-Exemple :
+:::Exemple :
 
 रामः कटं कारयते = « Rāma fait faire une natte pour lui-même (dans son propre intérêt) »
 
@@ -42,13 +37,11 @@ Les règles correspondent donc, en règle générale, à celles de l’emploi de
 
 Préfixes verbaux :
 
-::: indent
+:::indent
 उद्° : sur, en haut, vers le haut, vers l’extérieur, hors, extra-
 
 परि° : autour, autour de (lieu, temps), par-ci par-là
-:::
-
-भू + परि 1P परिभवति : (devenir autour de quelqu’un = encercler =) maîtriser, vaincre ; mépriser, dédaigner
+:::भू + परि 1P परिभवति : (devenir autour de quelqu’un = encercler =) maîtriser, vaincre ; mépriser, dédaigner
 
 अवज्ञान n. : mépris
 
@@ -58,28 +51,24 @@ Préfixes verbaux :
 
 ग्रस् 1Ā ग्रसते : consommer, dévorer
 
-::: indent
+:::indent
 Fut. ग्रसिष्यते  
 Pass. ग्रस्यते  
 Kaus. ग्रासयति  
 PPP ग्रस्त  
 Inf. ग्रसितुम्
-:::
-
-तीक्ष्ण 3 : « sauvage », âpre, acéré, strict, violent, mordant
+:::तीक्ष्ण 3 : « sauvage », âpre, acéré, strict, violent, mordant
 
 न्याय m. : norme, règle, juste manière ; méthode, logique (de इ + नि)
 
 परिव्राजक m. : vagabond, moine itinérant, pèlerin
 
-::: media
+:::media
 ![](/images/lekt2903.webp)
 Fig. : परिव्राजकाः
 Pushkar = पुष्कर
 (Source de l’image : [Détails](/fr/licenses#lekt2903))
-:::
-
-पालयति : également synonyme de  पाति
+:::पालयति : également synonyme de  पाति
 
 पुनर् Indécl. : de nouveau, toujours, de retour, une fois de plus ; par contre, mais (devant des sons sonores sauf r- : पुनर्)
 
@@ -88,42 +77,34 @@ Pushkar = पुष्कर
 मत्स्य m. : poisson
 
 dont :
-::: indent
+:::indent
 मात्स्य 3 : appartenant au poisson (aux poissons)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2901.webp)
 Fig. : मत्स्यः
 रोहू मछली = Labeo rohita Hamilton
 (Source de l’image : [Détails](/fr/licenses#lekt2901))
-:::
-
-मृदु  3 (f. : मृद्वी) : doux, bénin, mou ; lent, faible
+:::मृदु  3 (f. : मृद्वी) : doux, bénin, mou ; lent, faible
 
 यथा Adv. : comment, comme
 
 रम् 1Ā रमते : rester immobile, se reposer, séjourner ; prendre plaisir, se réjouir
 
-::: indent
+:::indent
 Fut. रंस्यते  
 Pass. रम्यते  
 Kaus. रमयति  
 PPP रत  
 Inf. रन्तुम्
-:::
-
-वानप्रस्थ m. : ermite des bois (celui qui se trouve dans la 3. आश्रम)
+:::वानप्रस्थ m. : ermite des bois (celui qui se trouve dans la 3. आश्रम)
 
 शुचि 3 : éclatant, brillant, fin ; m. pureté
 
 पूज् 10P पूजयति : honorer, vénérer
 
-::: indent
+:::indent
 PPP पूजित
-:::
-
-## 29.3. Exercice de traduction pour révision
+:::## 29.3. Exercice de traduction pour révision
 
 Traduisez mot à mot en un bon allemand et apprenez les textes sanskrits par cœur :
 
@@ -150,21 +131,17 @@ Explication : आत्मसु = Loc. sg. de आत्मन् m. "Âme ; l'A
 **बलीयान**अबलं हि ग्रसते दण्डधराभावे ।१४।
 
 स तेन गुप्तः प्रभवतीति ।१५।
-::: indent
+:::indent
 **चतुर्व**र्णाश्रमो लोको  
 **राज्ञा** दण्डेन पालितः ।  
 स्वधर्मकर्माभिरतो  
 वर्तते **स्वेषु वर्त्मसु** ॥१६॥
-:::
-
-::: media
+::::::media
 ![](/images/lekt2902.jpg)
 Fig. : मात्स्यन्याय :
 (Dessin : Namcha Payer, 2002-11)
 (Source de l'image : [Détails](/fr/licenses#lekt2902))
-:::
-
-Explications :
+:::Explications :
 
 ।८। उद्वेजनीय ३ "quelque chose (quelqu'un), devant lequel on doit frémir"
 
@@ -188,7 +165,7 @@ Explications :
 
 ## 29.4. Futur et causatif des racines apprises jusqu'à présent
 
-::: grammar-box
+:::grammar-box
 
 | Racine[[br]]धातु | Futur[[br]]ऌत् | Causatif[[br]]कारित |
 | :--- | :--- | :--- |
@@ -277,8 +254,6 @@ Explications :
 |हन् २ प|हनिष्यति|घातयति|
 |हृ १ उ|हरिष्यति|हारयति|
 
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt2903:** Pushkar = ⟨

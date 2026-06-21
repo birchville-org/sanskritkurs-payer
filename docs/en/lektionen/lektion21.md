@@ -13,18 +13,15 @@ status: stable
 
 ### 21.1.1. Present Participle (लडादेशः) Parasmaipada
 
-:::: grammar-box
+::::grammar-box
 This participle is a nominal formation derived from the present stem, i.e., a true participle. It is an adjective indicating that someone or something is currently doing what is expressed by the verbal root (+ prefix) while something else is happening. A permanent state can also be expressed with it.
 
 **Examples:**
 
-::: indent
+:::indent
 "While father reads, he smokes = the reading father smokes"  
 "a being (= real, genuine) friend"
-:::
-::::
-
-:::: grammar-box
+:::::::::::grammar-box
 
 | **Formation of the Present Participle Parasmaipada for thematic present stems:** |||
 | :--- | :--- | :--- |
@@ -35,18 +32,13 @@ This participle is a nominal formation derived from the present stem, i.e., a tr
 | | | present stem + **-nt-** + **-ī** (declension like **devī**[[br]]देवी) |
 | | **6th present class** | present stem + **-nt-** + **-ī**[[br]]or:[[br]]present stem + **-t-** + **-ī** |
 
-::::
-
-
-Examples:
+::::Examples:
 
 1\. Present class:
 
-::: indent
+:::indent
 **yajant**[[br]]यजन्त् "one who worships with a sacrifice"
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 | | | Masculine[[br]]पुंस् | Neuter[[br]]नपुंसक | Feminine[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
@@ -59,31 +51,25 @@ Examples:
 | | **3. Instrumental**[[br]]तृतीया | **यजद्भिस्**[[br]]from yaja-t-bhis | **यजद्भिस्** | |
 | | **6. Genitive**[[br]]षष्ठी | **यजताम्**[[br]]yaja-t-ām | **यजताम्** | |
 
-::::
-
-Note the identity of **यजन्ति** (Nom. pl. Neuter) with the 3rd pl. P.!
+::::Note the identity of **यजन्ति** (Nom. pl. Neuter) with the 3rd pl. P.!
 
 4\. Present class
 
-::: indent
+:::indent
 **नृत्यन्त्** "dancing"
 
 *   Masculine Nom. sg. **नृत्यन्**
 *   Neuter Nom. Acc. sg. **नृत्यत्**
 *   Feminine Nom. sg. **नृत्यन्ती**
-:::
+:::6\. Present class
 
-6\. Present class
-
-::: indent
+:::indent
 **विशन्त्** "entering"
 
 *   Masculine Nom. sg. **विशन्**
 *   Neuter Nom. Acc. sg. **विशत्**
 *   Feminine Nom. sg. **विशन्ती** । **विशती**
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 | **Formation of the Present Participle Parasmaipada for athematic present stems (except 3rd present class):** |||
 | :--- | :--- | :--- |
@@ -93,16 +79,11 @@ Note the identity of **यजन्ति** (Nom. pl. Neuter) with the 3rd pl. P
 | **Feminine** | | |
 | | | present stem + **-at-** + **-ī** (declension like **devī**[[br]]देवी) |
 
-::::
+::::2\. Present class:
 
-
-2\. Present class:
-
-::: indent
+:::indent
 **अस्** "to be": **सन्त्** "being, real, good, true"
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 | | | Masculine[[br]]पुंस् | Neuter[[br]]नपुंसक | Feminine[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
@@ -115,45 +96,34 @@ Note the identity of **यजन्ति** (Nom. pl. Neuter) with the 3rd pl. P
 | | **3. Instrumental**[[br]]तृतीया | **सद्भिस्**[[br]]from s-at-bhis | **सद्भिस्** | |
 | | **6. Genitive**[[br]]षष्ठी | **सताम्**[[br]]s-at-ām | **सताम्** | |
 
-::::
-
-::: indent
+:::::::indent
 ¹ **सती** "a good (faithful) woman (who burns herself with her husband's corpse in later times)" English: sutee
-:::
-
-::: media
+::::::media
 ![](/images/lekt2101.webp)
 Fig.: सती-memorial plaque
 सती memorial plaque in the palace of Jodhpur - जोधपुर / Rajasthan - राजस्थान
 (Image source: [Details](/en/licenses#lekt2101))
-:::
+:::5\. Present class:
 
-
-5\. Present class:
-
-::: indent
+:::indent
 **सु** "to press": **सुन्वन्त्**
 
 *   Masculine Nom. sg. **सुन्वन्**
 *   Neuter Nom. Acc. sg. **सुन्वत्**
 *   Feminine Nom. sg. **सुन्वती**
-:::
+:::8\. Present class
 
-8\. Present class
-
-::: indent
+:::indent
 **कृ** "to do": **कुर्वन्त्**
 
 *   Masculine Nom. sg. **कुर्वन्**
 *   Neuter Nom. Acc. sg. **कुर्वत्**
 *   Feminine Nom. sg. **कुर्वती**
-:::
+:::### 21.1.2. महान्त् "great"
 
-### 21.1.2. महान्त् "great"
+::::grammar-box
 
-:::: grammar-box
-
-::: no-header
+:::no-header
 
 | | | |
 | :--- | :--- | :--- |
@@ -163,11 +133,7 @@ Fig.: सती-memorial plaque
 | **Feminine** | | |
 | | | **महती**[[br]]like **devī**[[br]]देवी |
 
-:::
-
-::::
-
-:::: grammar-box
+:::::::::::grammar-box
 
 | | | Masculine[[br]]पुंस् | Neuter[[br]]नपुंसक | Feminine[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
@@ -180,143 +146,102 @@ Fig.: सती-memorial plaque
 | | **3. Instrumental**[[br]]तृतीया | **महद्भिस्**[[br]]from mahat-bhis | **महद्भिस्** | |
 | | **6. Genitive**[[br]]षष्ठी | **महताम्**[[br]]mahat-ām | **महताम्** | |
 
-::::
-
-:::: grammar-box
+::::::::grammar-box
 **As the first member of a compound, instead of महत् महा appears:**
 
 **Examples:**
 
-::: indent
+:::indent
 **महादेव** "the great God" (e.g. शिव)  
 **महादेवी** "the great Goddess, the chief wife of a king (देव)"
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt2102.webp)
 Fig.: महादेवो विष्णुः
 "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
 (Image source: [Details](/en/licenses#lekt2102))
-:::
-
-
-::: indent
+::::::indent
 "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: 'Mihira, Vishnu and Shiva'."
-:::
+:::## 21.2. Sandhi for final nasals
 
-## 21.2. Sandhi for final nasals
-
-:::: grammar-box
+::::grammar-box
 **After a short vowel, final nasals – except -m – are doubled before an initial vowel.**
 
 **Example:**
 
-::: indent
+:::indent
 **जयन् + अरिः** » **जयन्नरिः** "the conquering enemy"
-:::
-::::
+:::::::## 21.3. Polite Forms of Address
 
-## 21.3. Polite Forms of Address
-
-:::: grammar-box
+::::grammar-box
 **In Sanskrit, one can address someone in the 2nd person singular without being impolite. However, if one wishes to be polite, one can use a noun meaning "Venerable" or similar, and put the verb in the 3rd person singular or plural, or use a passive construction. The escalation of politeness in the use of person in address is roughly as follows:**
 
-::: indent
+:::indent
 **2. sg. » 2. pl. » 3. sg. with corresponding noun » 3. pl. with corresponding noun**
-:::
-
-**The most important such politeness noun is भवन्त्, fem.: भवती. It corresponds in its usage to our polite "you" (formal).**
-::::
-
-This **भवन्त्** is a contraction of **भगवन्त्**; its declension is that of nouns ending in **-vant** (see [Lesson 13](lektion13.md)). This **भवन्त्** must be distinguished from the present participle P of **भू** "to become" **भवन्त्**: the nom. sg. masc. of **भवन्त्** "you" (formal) is **भवान्**, that of the participle **भवन्**.
+:::**The most important such politeness noun is भवन्त्, fem.: भवती. It corresponds in its usage to our polite "you" (formal).**
+::::This **भवन्त्** is a contraction of **भगवन्त्**; its declension is that of nouns ending in **-vant** (see [Lesson 13](lektion13.md)). This **भवन्त्** must be distinguished from the present participle P of **भू** "to become" **भवन्त्**: the nom. sg. masc. of **भवन्त्** "you" (formal) is **भवान्**, that of the participle **भवन्**.
 
 **Examples:**
 
-::: indent
+:::indent
 **किं भवान्करोति** = **किं भवता क्रियते** = "What are you doing?"
-:::
+:::more politely:
 
-more politely:
-
-::: indent
+:::indent
 **किं भवन्तः कुर्वन्ति** = **किं भवद्भिः क्रियते**
-:::
+:::Feminine:
 
-Feminine:
-
-::: indent
+:::indent
 **किं भवती करोति** = **किं भवत्या क्रियते**  
 **किं भवत्यः कुर्वन्ति** = **किं भवतीभिः क्रियते**
-:::
-
-Other words that can be used similarly to **भवन्त्**:
+:::Other words that can be used similarly to **भवन्त्**:
 
 *   **आर्य** (fem.: **आर्या**) "Noble". E.g., **यदार्य इच्छति** "What is your wish?"
 *   **महाभाग** "he whose share/fortune is great = Distinguished". Often used by women in address or when speaking about men of good standing. Very common in modern spoken Sanskrit.
 
 If one wishes to express not only politeness but also reverence for someone, one uses **अत्रभवन्त्** instead of **भवन्त्** for someone who is present or nearby, and **तत्रभवन्त्** for someone absent or distant. **अत्रभवन्त्** and **तत्रभवन्त्** can be translated as "you" (formal), "Your Venerability", "Your Eminence", etc.:
 
-::: indent
+:::indent
 **किमत्रभवत्यत्रभवतां भार्या** = "Is the gracious (here present) woman your wife?"  
 **किं तत्रभवतां कुशलवृत्तम्** (in a letter or telephone conversation) = "Are you well?"
-:::
-
-## 21.4. Word List
+:::## 21.4. Word List
 
 **भज् 1 U भजति Pass. भज्यते PPP भक्त :** to allocate something to someone (Acc.), to befall, to love, honor, revere someone
 
 derived from:
 
-::: indent
+:::indent
 **भक्ति f.:** devotion, loyalty, love (in the religious sphere: love and respect for a personal god. see Basham, Wonder p. 332f.)  
 **भाग m.:** share, part  
 **भग m.:** (good) share, fortune, well-being, dignity  
 **भगवन्त् 3:** fortune-having, dignity-having (epithet of विष्णु – कृष्ण)
-:::
-
-::: media
+::::::media
 ![](/images/lekt2103.webp)
 Fig.: भगवान्कृष्णः
 भगवान्कृष्णः as जगन्नाथ (right) with his half-sister सुभद्रा (center) and his older brother बलराम, Orissa = ଓଡ଼ିଶा
 (Image source: [Details](/en/licenses#lekt2103))
-:::
-
-::: indent
+::::::indent
 **भगवद्गीता f.:** "Song (गीता) of the Dignified (कृष्ण)"
-:::
-
-::: media
+::::::media
 ![](/images/lekt2105.webp)
 Fig.: भगवद्गीता
 भगवद्गीता - Manuscript, 19th century.
 (Image source: [Details](/en/licenses#lekt2105))
-:::
-
-::: indent
+::::::indent
 **भिक्ष् 1 Ā भिक्षते Pass. भिक्ष्यते PPP भिक्षित** (actually a desiderative form of भज्: to wish that one participates): to beg
-:::
+:::derived from:
 
-derived from:
-
-::: indent
+:::indent
 **भिक्षु m.:** beggar, monk
-:::
-
-::: media
+::::::media
 ![](/images/lekt2104.webp)
 Fig.: भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Image source: [Details](/en/licenses#lekt2104))
-:::
+:::**दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट :** to ruin (intransitive), to go bad, to be disgraced
 
-**दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट :** to ruin (intransitive), to go bad, to be disgraced
-
-::: indent
+:::indent
 **दोष m.:** fault
-:::
-
-**पच् 1 U पचति Pass. पच्यते (no PPP, instead पक्व 3: cooked, fermented) Absol. पक्त्वा :** to cook (transitive) = to boil, roast, toast, etc.
+:::**पच् 1 U पचति Pass. पच्यते (no PPP, instead पक्व 3: cooked, fermented) Absol. पक्त्वा :** to cook (transitive) = to boil, roast, toast, etc.
 
 ## 21.5. Exercise
 
@@ -344,7 +269,7 @@ B) Translate:
 
 जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥६॥
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt2101:** सती memorial plaque in the palace of Jodhpur - जोधपुर / Rajasthan - राजस्थान [Image source: Flicka / Wikipedia. GNU FDL license]
 

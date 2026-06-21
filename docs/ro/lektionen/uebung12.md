@@ -99,7 +99,7 @@ C) Transformați propozițiile din [Lecția 10](lektion10.md), Exercițiul C, la
 16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. के योधाः क्षत्रियैः सह युध्यन्ते
 कैर्योधैः क्षत्रियैः सह युद्धम् ।
 
-::: media
+:::media
 ![](/images/uebung020.webp)
 Fig.: ब्राह्मणो ऽग्निं करोति
 (Sursa imaginii: [Detalii](/licenses#uebung020))

@@ -140,13 +140,11 @@ sā brāhmaṇī nṛtyati.
 
 सा ब्राह्मणी नृत्यति ॥
 
-::: media
+:::media
 ![](/images/uebung004.jpg)
 Abb.: का नृत्यति ।
 (Bildquelle: [Details](/licenses#uebung004))
-:::
-
----
+:::---
 
 ## ਪਾਠ 6 ਦਾ ਦੁਹਰਾਓ ਅਭਿਆਸ
 
@@ -598,7 +596,7 @@ sarvathā kuśalam.
 
 सर्वथा कुशलम् ॥
 
-::: media
+:::media
 ![](/images/uebung005.webp)
 ਚਿੱਤਰ: देवतान्नपूर्णा
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/licenses#uebung005))

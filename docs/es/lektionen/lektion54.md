@@ -15,28 +15,23 @@ Las lecciones del curso de sánscrito abordan temas de gramática sánscrita que
 
 ## 54.2. Formación de palabras: Sufijo -u de कृत् en raíces desiderativas
 
-:::: grammar-box
+::::grammar-box
 **A las raíces desiderativas (इच्छाप्रकृति) («desear hacer algo»; «estar a punto de hacer algo») se añade el sufijo -u para formar nombres de agente.**
 
 (La formación de las raíces desiderativas se tratará más adelante)
 
 Ejemplo:
 
-::: indent
+:::indent
 युयुत्सु (yu-yudh + s + u) «deseoso de combatir, a punto de combatir»
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt5402.webp)
 Fig.: अयुयुत्सुरर्जुनः
 भगवद्गीतोपदेशः Tirupati = తిరుపతి
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5402))
-:::
+:::## 54.3. Métrica II: la épica त्रिष्टुभ् (triṣṭubh) y la जगती (jagatī)
 
-## 54.3. Métrica II: la épica त्रिष्टुभ् (triṣṭubh) y la जगती (jagatī)
-
-:::: grammar-box
+::::grammar-box
 La त्रिष्टुभ् ("tres júbilos") aparece en los épicos en medio de las secciones habituales de श्लोक (śloka), precisamente en aquellos puntos donde el estado de ánimo o la acción experimentan un impulso particular o un cierre.
 
 El verso त्रिष्टुभ् está compuesto por cuatro पाद (pada) de once sílabas, que no difieren entre sí en su estructura.
@@ -45,77 +40,55 @@ La त्रिष्टुभ् presenta dos esquemas básicos, dependiendo de
 
 Esquema I:
 
-::: metrik-schema
+:::metrik-schema
 × — × — / × ◡ — ***— ◡ — —***
-:::
+:::Esquema II:
 
-Esquema II:
-
-::: metrik-schema
+:::metrik-schema
 × — × — × / × ◡ ***— ◡ — —***
-:::
-
-La cuantidad de las cuatro últimas sílabas es, por tanto, idéntica en ambos esquemas.
+:::La cuantidad de las cuatro últimas sílabas es, por tanto, idéntica en ambos esquemas.
 
 Forma básica de जगती (jagatī): como en la त्रिष्टुभ्, pero de doce sílabas. Las últimas cinco sílabas de cada Pada presentan las siguientes cantidades:
 
-::: metrik-schema
+:::metrik-schema
 ***— ◡ — ◡ —***
-:::
+:::Además, existe la llamada त्रिष्टुभ् (triṣṭubh) típicamente sobredimensionada, con un primer miembro de cinco sílabas, que continúa como una त्रिष्टुभ् con un primer miembro de cuatro sílabas:
 
-Además, existe la llamada त्रिष्टुभ् (triṣṭubh) típicamente sobredimensionada, con un primer miembro de cinco sílabas, que continúa como una त्रिष्टुभ् con un primer miembro de cuatro sílabas:
-
-::: metrik-schema
+:::metrik-schema
 — × — × / × ◡ — ***— ◡ — —***
-:::
-
-En épocas posteriores, las formas de la त्रिष्टुभ् se fijan según un estricto esquema de largas y breves, y la cesura deja de tener importancia. Las formas posteriores más importantes son:
+:::En épocas posteriores, las formas de la त्रिष्टुभ् se fijan según un estricto esquema de largas y breves, y la cesura deja de tener importancia. Las formas posteriores más importantes son:
 
 a) इन्द्रवज्रा (indravajrā)
 
-::: metrik-schema
+:::metrik-schema
 ***—*** — ◡ — , — ◡ ◡ — ◡ — —
-:::
+:::b) उपेन्द्रवज्रा (upendravajrā)
 
-b) उपेन्द्रवज्रा (upendravajrā)
-
-::: metrik-schema
+:::metrik-schema
 ***◡*** — ◡ — , — ◡ ◡ — ◡ — —
-:::
+:::c) उपजाति (upajāti)
 
-c) उपजाति (upajāti)
-
-::: indent
+:::indent
 El पाद (pada) en इन्द्रवज्रा (indravajrā) y el पाद (pada) en उपेन्द्रवज्रा (upendravajrā) se mezclan en un mismo verso.
-:::
-::::
-
-:::: grammar-box
+:::::::::::grammar-box
 **Versos mnemotécnicos:**
 
 **स्यादिन्द्रवज्रा यदि तौ जगौ गः ।**
 
-::: indent
+:::indent
 "Es una Indra-vajrā si las sílabas en todos los Pādas son ta ta ja ga ga."
-:::
+:::उपेन्द्रवज्रा प्रथमे लघौ सा ।
 
-उपेन्द्रवज्रा प्रथमे लघौ सा ।
-
-::: indent
+:::indent
 "Una Upendravajrā es como una Indravajrā que tiene una sílaba breve al principio."
-:::
-
-अनन्तरोदीरितलक्ष्मभाजौ  
+:::अनन्तरोदीरितलक्ष्मभाजौ  
 पदौ यदीयावुपजातयस्ताः ।  
 इत्थं किलान्यास्वपिमिश्रितासु  
 वदन्ति जातिष्विदमिदमेवनाम ॥
 
-::: indent
+:::indent
 "Si dos Pādas, que poseen las características de Indravajrā y Upendravajrā respectivamente, participan en un verso, entonces se trata de Upajāti. Asimismo, cuando se mezclan otros metros en un verso, se denomina Upajāti."
-:::
-::::
-
-## 54.4. Ejercicio de métrica
+:::::::## 54.4. Ejercicio de métrica
 
 Identifique en el Bhagavadgītā II los versos Triṣṭubhs y Jagatīs.
 
@@ -123,13 +96,11 @@ Ejemplo de recitación: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](ht
 
 ## 54.5. Tipos de formación del aoristo (लुङ्)
 
-::: grammar-box
+:::grammar-box
 **Lo común a todos los tipos de formación del aoristo (लुङ्) es el augumento a-, que se antepone según las mismas reglas que en el imperfecto (लङ्).**
 
 En sánscrito, del aoristo solo son usuales el indicativo y el precativo.
-:::
-
-::: grammar-box
+::::::grammar-box
 **Existen los siguientes tipos de formación del aoristo (लुङ्):**
 
 1.  Aoristos no sibilánticos (asigmáticos):  
@@ -143,31 +114,25 @@ En sánscrito, del aoristo solo son usuales el indicativo y el precativo.
     *   54.7. Aoristo en -sa: Augumento + raíz + ***s*** + ***a*** + terminación secundaria
 
 Para la distribución de las raíces entre los distintos tipos de formación, véase la descripción de cada tipo individual.
-:::
+:::## 54.6. Aoristo de la raíz
 
-## 54.6. Aoristo de la raíz
-
-::: grammar-box
+:::grammar-box
 **Formación:**
 
 **Aumento + raíz + terminación secundaria**
-:::
-
-La terminación de la 3ª persona plural es *-ur*. La forma Ātmanepada no es de uso común.
+:::La terminación de la 3ª persona plural es *-ur*. La forma Ātmanepada no es de uso común.
 
 Ejemplo:
 
 पा 1P "beber"
 
-::: grammar-box
+:::grammar-box
 |   | Singular | Plural |
 | --- | --- | --- |
 | 1. Tercera persona | अपाम[[br]]a-pā + am | अपाम |
 | 2. Segunda persona | अपास् | अपात |
 | 3. Primera persona | अपात् | अपुर्[[br]]a-p-ur (grado reducido) |
-:::
-
-El aoristo de la raíz se forma únicamente a partir de 12 raíces:
+:::El aoristo de la raíz se forma únicamente a partir de 12 raíces:
 
 1.  गा 3 "ir"
 2.  घ्रा 1P "oler"
@@ -184,19 +149,17 @@ El aoristo de la raíz se forma únicamente a partir de 12 raíces:
 
 En el caso de la raíz भू 1P, el aoristo de la raíz se forma de la siguiente manera:
 
-::: grammar-box
+:::grammar-box
 |   | Singular | Plural |
 | --- | --- | --- |
 | 1. Tercera persona | अभूवम् | अभूम |
 | 2. Segunda persona | अभू्स् | अभूत |
 | 3. Primera persona | अभूत् | ***अभूवन्*** (!!!) |
-:::
-
-### 54.6.1. El aoristo de la 3.ª persona singular pasiva
+:::### 54.6.1. El aoristo de la 3.ª persona singular pasiva
 
 Una forma especial del aoristo de la raíz es el aoristo de la 3.ª persona singular pasiva. Este puede formarse a partir de todas las raíces.
 
-::: grammar-box
+:::grammar-box
 **Formación:**
 
 **Aumento + Raíz + i**
@@ -246,9 +209,7 @@ Infixo nasalizado:
     
 
 (Las demás formas del pasivo se expresan en el aoristo mediante formas de Ātmanepada).
-:::
-
-## 54.7. Ejercicio
+:::## 54.7. Ejercicio
 
 Traduzca por escrito las siguientes formas y forme las correspondientes formas de aoristo:
 
@@ -276,14 +237,12 @@ Traduzca por escrito las siguientes formas y forme las correspondientes formas d
 22.  गीयते
 23.  गम्यते
 
-::: media
+:::media
 ![](/images/lekt5401.webp)
 Fig.: त्रिचक्रेणेश्वरः स्तूयते
 Tamil Nadu
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5401))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 
 **lekt5402:** भगवद्गीतोपदेशः Tirupati = తిరుపతి [Fuente de la imagen: Raji Srinivas / Wikipedia. Licencia GNU FDL]

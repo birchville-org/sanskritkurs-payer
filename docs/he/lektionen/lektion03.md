@@ -11,63 +11,49 @@ status: stable
 
 
 
-::: deleteme-box
+:::deleteme-box
 **בשיעור זה תלמדו:**
 - יחיד מין נקבה במשקל נומינטיב
 - רבים מין זכר ונקבה במשקל נומינטיב
 - בניין מין נקבה לזכר
 - ווקאל סנדה
 - Satzsandhi von -ās
-:::
-
-:::
-
-## 3.1. יחיד זכר של נקבה
+::::::## 3.1. יחיד זכר של נקבה
 
 ### 3.1.1. יחיד נוקב על -ס
 
-::: info
+:::info
 **Hinweis:** Die Endung **-s** im Nominativ Singular ist charakteristisch für einige Substantivklassen, insbesondere für solche, die auf einen Konsonanten enden.
-:::
-
-⟨DEVA_1⟩ ⟨IAST_L_1⟩ [[br]] ⟨DEVA_2⟩ ⟨IAST_L_2⟩ [[br]] ⟨DEVA_3⟩ ⟨IAST_L_3⟩ [[br]] ⟨DEVA_4⟩ ⟨IAST_L_4⟩ [[br]] ⟨DEVA_5⟩ ⟨IAST_L_5⟩ [[br]] ⟨DEVA_6⟩ ⟨IAST_L_6⟩ [[br]] ⟨DEVA_7⟩ ⟨IAST_L_7⟩ [[br]] ⟨DEVA_8⟩ ⟨IAST_L_8⟩ [[br]] ⟨DEVA_9⟩ ⟨IAST_L_9⟩ [[br]] ⟨DEVA_10⟩ ⟨IAST_L_10⟩ [[br]] ⟨DEVA_11⟩ ⟨IAST_L_11⟩ [[br]] ⟨DEVA_12⟩ ⟨IAST_L_12⟩ [[br]] ⟨DEVA_13⟩ ⟨IAST_L_13⟩ [[br]] ⟨DEVA_14⟩ ⟨IAST_L_14⟩ [[br]] ⟨DEVA_15⟩ ⟨IAST_L_15⟩ [[br]] ⟨DEVA_16⟩ ⟨IAST_L_16⟩ [[br]] ⟨DEVA_17⟩ ⟨IAST_L_17⟩ [[br]] ⟨DEVA_18⟩ ⟨IAST_L_18⟩ [[br]] ⟨DEVA_19⟩ ⟨IAST_L_19⟩ [[br]] ⟨DEVA_20⟩ ⟨IAST_L_20⟩ [[br]] ⟨DEVA_21⟩ ⟨IAST_L_21⟩ [[br]] ⟨DEVA_22⟩ ⟨IAST_L_22⟩ [[br]] ⟨DEVA_23⟩ ⟨IAST_L_23⟩ [[br]] ⟨DEVA_24⟩ ⟨IAST_L_24⟩ [[br]] ⟨DEVA_25⟩ ⟨IAST_L_25⟩ [[br]] ⟨DEVA_26⟩ ⟨IAST_L_26⟩ [[br]] ⟨DEVA_27⟩ ⟨IAST_L_27⟩ [[br]] ⟨DEVA_28⟩ ⟨IAST_L_28⟩ [[br]] ⟨DEVA_29⟩ ⟨IAST_L_29⟩ [[br]] ⟨DEVA_30⟩ ⟨IAST_L_30⟩ [[br]] ⟨DEVA_31⟩ ⟨IAST_L_31⟩ [[br]] ⟨DEVA_32⟩ ⟨IAST_L_32⟩ [[br]] ⟨DEVA_33⟩ ⟨IAST_L_33⟩ [[br]] ⟨DEVA_34⟩ ⟨IAST_L_34⟩ [[br]] ⟨DEVA_35⟩ ⟨IAST_L_35⟩ [[br]] ⟨DEVA_36⟩ ⟨IAST_L_36⟩ [[br]] ⟨DEVA_37⟩ ⟨IAST_L_37⟩ [[br]] ⟨DEVA_38⟩ ⟨IAST_L_38⟩ [[br]] ⟨DEVA_39⟩ ⟨IAST_L_39⟩ [[br]] ⟨DEVA_40⟩ ⟨IAST_L_40⟩ [[br]] ⟨DEVA_41⟩ ⟨IAST_L_41⟩ [[br]] ⟨DEVA_42⟩ ⟨IAST_L_42⟩ [[br]] ⟨DEVA_43⟩ ⟨IAST_L_43⟩ [[br]] ⟨DEVA_44⟩ ⟨IAST_L_44⟩ [[br]] ⟨DEVA_45⟩ ⟨IAST_L_45⟩ [[br]] ⟨DEVA_46⟩ ⟨IAST_L_46⟩ [[br]] ⟨DEVA_47⟩ ⟨IAST_L_47⟩ [[br]] ⟨DEVA_48⟩ ⟨IAST_L_48⟩ [[br]] ⟨DEVA_49⟩ ⟨IAST_L_49⟩ [[br]] ⟨DEVA_50⟩ ⟨IAST_L_50⟩ [[br]] ⟨DEVA_51⟩ ⟨IAST_L_51⟩ [[br]] ⟨DEVA_52⟩ ⟨IAST_L_52⟩ [[br]] ⟨DEVA_53⟩ ⟨IAST_L_53⟩ [[br]] ⟨DEVA_54⟩ ⟨IAST_L_54⟩ [[br]] ⟨DEVA_55⟩ ⟨IAST_L_55⟩ [[br]] ⟨DEVA_56⟩ ⟨IAST_L_56⟩ [[br]] ⟨DEVA_57⟩ ⟨IAST_L_57⟩ [[br]] ⟨DEVA_58⟩ ⟨IAST_L_58⟩ [[br]] ⟨DEVA_59⟩ ⟨IAST_L_59⟩ [[br]] ⟨DEVA_60⟩ ⟨IAST_L_60⟩ [[br]] ⟨DEVA_61⟩ ⟨IAST_L_61⟩ [[br]] ⟨DEVA_62⟩ ⟨IAST_L_62⟩ [[br]] ⟨DEVA_63⟩ ⟨IAST_L_63⟩ [[br]] ⟨DEVA_64⟩ ⟨IAST_L_64⟩ [[br]] ⟨DEVA_65⟩ ⟨IAST_L_65⟩ [[br]] ⟨DEVA_66⟩ ⟨IAST_L_66⟩ [[br]] ⟨DEVA_67⟩ ⟨IAST_L_67⟩ [[br]] ⟨DEVA_68⟩ ⟨IAST_L_68⟩ [[br]] ⟨DEVA_69⟩ ⟨IAST_L_69⟩ [[br]] ⟨DEVA_70⟩ ⟨IAST_L_70⟩ [[br]] ⟨DEVA_71⟩ ⟨IAST_L_71⟩ [[br]] ⟨DEVA_72⟩ ⟨IAST_L_72⟩ [[br]] ⟨DEVA_73⟩ ⟨IAST_L_73⟩ [[br]] ⟨DEVA_74⟩ ⟨IAST_L_74⟩ [[br]] ⟨DEVA_75⟩ ⟨IAST_L_75⟩ [[br]] ⟨DEVA_76⟩ ⟨IAST_L_76⟩ [[br]] ⟨DEVA_77⟩ ⟨IAST_L_77⟩ [[br]] ⟨DEVA_78⟩ ⟨IAST_L_78⟩ [[br]] ⟨DEVA_79⟩ ⟨IAST_L_79⟩ [[br]] ⟨DEVA_80⟩ ⟨IAST_L_80⟩ [[br]] ⟨DEVA_81⟩ ⟨IAST_L_81⟩ [[br]] ⟨DEVA_82⟩ ⟨IAST_L_82⟩ [[br]] ⟨DEVA_83⟩ ⟨IAST_L_83⟩ [[br]] ⟨DEVA_84⟩ ⟨IAST_L_84⟩ [[br]] ⟨DEVA_85⟩ ⟨IAST_L_85⟩ [[br]] ⟨DEVA_86⟩ ⟨IAST_L_86⟩ [[br]] ⟨DEVA_87⟩ ⟨IAST_L_87⟩ [[br]] ⟨DEVA_88⟩ ⟨IAST_L_88⟩ [[br]] ⟨DEVA_89⟩ ⟨IAST_L_89⟩ [[br]] ⟨DEVA_90⟩ ⟨IAST_L_90⟩ [[br]] ⟨DEVA_91⟩ ⟨IAST_L_91⟩ [[br]] ⟨DEVA_92⟩ ⟨IAST_L_92⟩ [[br]] ⟨DEVA_93⟩ ⟨IAST_L_93⟩ [[br]] ⟨DEVA_94⟩ ⟨IAST_L_94⟩ [[br]] ⟨DEVA_95⟩ ⟨IAST_L_95⟩ [[br]] ⟨DEVA_96⟩ ⟨IAST_L_96⟩ [[br]] ⟨DEVA_97⟩ ⟨IAST_L_97⟩ [[br]] ⟨DEVA_98⟩ ⟨IAST_L_98⟩ [[br]] ⟨DEVA_99⟩ ⟨IAST_L_99⟩ [[br]] ⟨DEVA_100⟩ ⟨IAST_L_100⟩ [[br]] ⟨DEVA_101⟩ ⟨IAST_L_101⟩ [[br]] ⟨DEVA_102⟩ ⟨IAST_L_102⟩ [[br]] ⟨DEVA_103⟩ ⟨IAST_L_103⟩ [[br]] ⟨DEVA_104⟩ ⟨IAST_L_104⟩ [[br]] ⟨DEVA_105⟩ ⟨IAST_L_105⟩ [[br]] ⟨DEVA_106⟩ ⟨IAST_L_106⟩ [[br]] ⟨DEVA_107⟩ ⟨IAST_L_107⟩ [[br]] ⟨DEVA_108⟩ ⟨IAST_L_108⟩ [[br]] ⟨DEVA_109⟩ ⟨IAST_L_109⟩ [[br]] ⟨DEVA_110⟩ ⟨IAST_L_110⟩ [[br]] ⟨DEVA_111⟩ ⟨IAST_L_111⟩ [[br]] ⟨DEVA_112⟩ ⟨IAST_L_112⟩ [[br]] ⟨DEVA_113⟩ ⟨IAST_L_113⟩ [[br]] ⟨DEVA_114⟩ ⟨IAST_L_114⟩ [[br]] ⟨DEVA_115⟩ ⟨IAST_L_115⟩ [[br]] ⟨DEVA_116⟩ ⟨IAST_L_116⟩ [[br]] ⟨DEVA_117⟩ ⟨IAST_L_117⟩ [[br]] ⟨DEVA_118⟩ ⟨IAST_L_118⟩ [[br]] ⟨DEVA_119⟩ ⟨IAST_L_119⟩ [[br]] ⟨DEVA_120⟩ ⟨IAST_L_120⟩ [[br]] ⟨DEVA_121⟩ ⟨IAST_L_121⟩ [[br]] ⟨DEVA_122⟩ ⟨IAST_L_122⟩ [[br]] ⟨DEVA_123⟩ ⟨IAST_L_123⟩ [[br]] ⟨DEVA_124⟩ ⟨IAST_L_124⟩ [[br]] ⟨DEVA_125⟩ ⟨IAST_L_125⟩ [[br]] ⟨DEVA_126⟩ ⟨IAST_L_126⟩ [[br]] ⟨DEVA_127⟩ ⟨IAST_L_127⟩ [[br]] ⟨DEVA_128⟩ ⟨IAST_L_128⟩ [[br]] ⟨DEVA_129⟩ ⟨IAST_L_129⟩ [[br]] ⟨DEVA_130⟩ ⟨IAST_L_130⟩ [[br]] ⟨DEVA_131⟩ ⟨IAST_L_131⟩ [[br]] ⟨DEVA_132⟩ ⟨IAST_L_132⟩ [[br]] ⟨DEVA_133⟩ ⟨IAST_L_133⟩ [[br]] ⟨DEVA_134⟩ ⟨IAST_L_134⟩ [[br]] ⟨DEVA_135⟩ ⟨IAST_L_135⟩ [[br]] ⟨DEVA_136⟩ ⟨IAST_L_136⟩ [[br]] ⟨DEVA_137⟩ ⟨IAST_L_137⟩ [[br]] ⟨DEVA_138⟩ ⟨IAST_L_138⟩ [[br]] ⟨DEVA_139⟩ ⟨IAST_L_139⟩ [[br]] ⟨DEVA_140⟩ ⟨IAST_L_140⟩ [[br]] ⟨DEVA_141⟩ ⟨IAST_L_141⟩ [[br]] ⟨DEVA_142⟩ ⟨IAST_L_142⟩ [[br]] ⟨DEVA_143⟩ ⟨IAST_L_143⟩ [[br]] ⟨DEVA_144⟩ ⟨IAST_L_144⟩ [[br]] ⟨DEVA_145⟩ ⟨IAST_L_145⟩ [[br]] ⟨DEVA_146⟩ ⟨IAST_L_146⟩ [[br]] ⟨DEVA_147⟩ ⟨IAST_L_147⟩ [[br]] ⟨DEVA_148⟩ ⟨IAST_L_148⟩ [[br]] ⟨DEVA_149⟩ ⟨IAST_L_149⟩ [[br]] ⟨DEVA_150⟩ ⟨IAST_L_150⟩ [[br]] ⟨DEVA_151⟩ ⟨IAST_L_151⟩ [[br]] ⟨DEVA_152⟩ ⟨IAST_L_152⟩ [[br]] ⟨DEVA_153⟩ ⟨IAST_L_153⟩ [[br]] ⟨DEVA_154⟩ ⟨IAST_L_154⟩ [[br]] ⟨DEVA_155⟩ ⟨IAST_L_155⟩ [[br]] ⟨DEVA_156⟩ ⟨IAST_L_156⟩ [[br]] ⟨DEVA_157⟩ ⟨IAST_L_157⟩ [[br]] ⟨DEVA_158⟩ ⟨IAST_L_158⟩ [[br]] ⟨DEVA_159⟩ ⟨IAST_L_159⟩ [[br]] ⟨DEVA_160⟩ ⟨IAST_L_160⟩ [[br]] ⟨DEVA_161⟩ ⟨IAST_L_161⟩ [[br]] ⟨DEVA_162⟩ ⟨IAST_L_162⟩ [[br]] ⟨DEVA_163⟩ ⟨IAST_L_163⟩ [[br]] ⟨DEVA_164⟩ ⟨IAST_L_164⟩ [[br]] ⟨DEVA_165⟩ ⟨IAST_L_165⟩ [[br]] ⟨DEVA_166⟩ ⟨IAST_L_166⟩ [[br]] ⟨DEVA_167⟩ ⟨IAST_L_167⟩ [[br]] ⟨DEVA_168⟩ ⟨IAST_L_168⟩ [[br]] ⟨DEVA_169⟩ ⟨IAST_L_169⟩ [[br]] ⟨DEVA_170⟩ ⟨IAST_L_170⟩ [[br]] ⟨DEVA_171⟩ ⟨IAST_L_171⟩ [[br]] ⟨DEVA_172⟩ ⟨IAST_L_172⟩ [[br]] ⟨DEVA_173⟩ ⟨IAST_L_173⟩ [[br]] ⟨DEVA_174⟩ ⟨IAST_L_174⟩ [[br]] ⟨DEVA_175⟩ ⟨IAST_L_175⟩ [[br]] ⟨DEVA_176⟩ ⟨IAST_L_176⟩ [[br]] ⟨DEVA_177⟩ ⟨IAST_L_177⟩ [[br]] ⟨DEVA_178⟩ ⟨IAST_L_178⟩ [[br]] ⟨DEVA_179⟩ ⟨IAST_L_179⟩ [[br]] ⟨DEVA_180⟩ ⟨IAST_L_180⟩ [[br]] ⟨DEVA_181⟩ ⟨IAST_L_181⟩ [[br]] ⟨DEVA_182⟩ ⟨IAST_L_182⟩ [[br]] ⟨DEVA_183⟩ ⟨IAST_L_183⟩ [[br]] ⟨DEVA_184⟩ ⟨IAST_L_184⟩ [[br]] ⟨DEVA_185⟩ ⟨IAST_L_185⟩ [[br]] ⟨DEVA_186⟩ ⟨IAST_L_186⟩ [[br]] ⟨DEVA_187⟩ ⟨IAST_L_187⟩ [[br]] ⟨DEVA_188⟩ ⟨IAST_L_188⟩ [[br]] ⟨DEVA_189⟩ ⟨IAST_L_189⟩ [[br]] ⟨DEVA_190⟩ ⟨IAST_L_190⟩ [[br]] ⟨DEVA_191⟩ ⟨IAST_L_191⟩ [[br]] ⟨DEVA_192⟩ ⟨IAST_L_192⟩ [[br]] ⟨DEVA_193⟩ ⟨IAST_L_193⟩ [[br]] ⟨DEVA_194⟩ ⟨IAST_L_194⟩ [[br]] ⟨DEVA_195⟩ ⟨IAST_L_195⟩ [[br]] ⟨DEVA_196⟩ ⟨IAST_L_196⟩ [[br]] ⟨DEVA_197⟩ ⟨IAST_L_197⟩ [[br]] ⟨DEVA_198⟩ ⟨IAST_L_198⟩ [[br]] ⟨DEVA_199⟩ ⟨IAST_L_199⟩ [[br]] ⟨DEVA_200⟩ ⟨IAST_L_200⟩ [[br]] ⟨DEVA_201⟩ ⟨IAST_L_201⟩ [[br]] ⟨DEVA_202⟩ ⟨IAST_L_202⟩ [[br]] ⟨DEVA_203⟩ ⟨IAST_L_203⟩ [[br]] ⟨DEVA_204⟩ ⟨IAST_L_204⟩ [[br]] ⟨DEVA_205⟩ ⟨IAST_L_205⟩ [[br]] ⟨DEVA_206⟩ ⟨IAST_L_206⟩ [[br]] ⟨DEVA_207⟩ ⟨IAST_L_207⟩ [[br]] ⟨DEVA_208⟩ ⟨IAST_L_208⟩ [[br]] ⟨DEVA_209⟩ ⟨IAST_L_209⟩ [[br]] ⟨DEVA_210⟩ ⟨IAST_L_210⟩ [[br]] ⟨DEVA_211⟩ ⟨IAST_L_211⟩ [[br]] ⟨DEVA_212⟩ ⟨IAST_L_212⟩ [[br]] ⟨DEVA_21
+:::⟨DEVA_1⟩ ⟨IAST_L_1⟩ [[br]] ⟨DEVA_2⟩ ⟨IAST_L_2⟩ [[br]] ⟨DEVA_3⟩ ⟨IAST_L_3⟩ [[br]] ⟨DEVA_4⟩ ⟨IAST_L_4⟩ [[br]] ⟨DEVA_5⟩ ⟨IAST_L_5⟩ [[br]] ⟨DEVA_6⟩ ⟨IAST_L_6⟩ [[br]] ⟨DEVA_7⟩ ⟨IAST_L_7⟩ [[br]] ⟨DEVA_8⟩ ⟨IAST_L_8⟩ [[br]] ⟨DEVA_9⟩ ⟨IAST_L_9⟩ [[br]] ⟨DEVA_10⟩ ⟨IAST_L_10⟩ [[br]] ⟨DEVA_11⟩ ⟨IAST_L_11⟩ [[br]] ⟨DEVA_12⟩ ⟨IAST_L_12⟩ [[br]] ⟨DEVA_13⟩ ⟨IAST_L_13⟩ [[br]] ⟨DEVA_14⟩ ⟨IAST_L_14⟩ [[br]] ⟨DEVA_15⟩ ⟨IAST_L_15⟩ [[br]] ⟨DEVA_16⟩ ⟨IAST_L_16⟩ [[br]] ⟨DEVA_17⟩ ⟨IAST_L_17⟩ [[br]] ⟨DEVA_18⟩ ⟨IAST_L_18⟩ [[br]] ⟨DEVA_19⟩ ⟨IAST_L_19⟩ [[br]] ⟨DEVA_20⟩ ⟨IAST_L_20⟩ [[br]] ⟨DEVA_21⟩ ⟨IAST_L_21⟩ [[br]] ⟨DEVA_22⟩ ⟨IAST_L_22⟩ [[br]] ⟨DEVA_23⟩ ⟨IAST_L_23⟩ [[br]] ⟨DEVA_24⟩ ⟨IAST_L_24⟩ [[br]] ⟨DEVA_25⟩ ⟨IAST_L_25⟩ [[br]] ⟨DEVA_26⟩ ⟨IAST_L_26⟩ [[br]] ⟨DEVA_27⟩ ⟨IAST_L_27⟩ [[br]] ⟨DEVA_28⟩ ⟨IAST_L_28⟩ [[br]] ⟨DEVA_29⟩ ⟨IAST_L_29⟩ [[br]] ⟨DEVA_30⟩ ⟨IAST_L_30⟩ [[br]] ⟨DEVA_31⟩ ⟨IAST_L_31⟩ [[br]] ⟨DEVA_32⟩ ⟨IAST_L_32⟩ [[br]] ⟨DEVA_33⟩ ⟨IAST_L_33⟩ [[br]] ⟨DEVA_34⟩ ⟨IAST_L_34⟩ [[br]] ⟨DEVA_35⟩ ⟨IAST_L_35⟩ [[br]] ⟨DEVA_36⟩ ⟨IAST_L_36⟩ [[br]] ⟨DEVA_37⟩ ⟨IAST_L_37⟩ [[br]] ⟨DEVA_38⟩ ⟨IAST_L_38⟩ [[br]] ⟨DEVA_39⟩ ⟨IAST_L_39⟩ [[br]] ⟨DEVA_40⟩ ⟨IAST_L_40⟩ [[br]] ⟨DEVA_41⟩ ⟨IAST_L_41⟩ [[br]] ⟨DEVA_42⟩ ⟨IAST_L_42⟩ [[br]] ⟨DEVA_43⟩ ⟨IAST_L_43⟩ [[br]] ⟨DEVA_44⟩ ⟨IAST_L_44⟩ [[br]] ⟨DEVA_45⟩ ⟨IAST_L_45⟩ [[br]] ⟨DEVA_46⟩ ⟨IAST_L_46⟩ [[br]] ⟨DEVA_47⟩ ⟨IAST_L_47⟩ [[br]] ⟨DEVA_48⟩ ⟨IAST_L_48⟩ [[br]] ⟨DEVA_49⟩ ⟨IAST_L_49⟩ [[br]] ⟨DEVA_50⟩ ⟨IAST_L_50⟩ [[br]] ⟨DEVA_51⟩ ⟨IAST_L_51⟩ [[br]] ⟨DEVA_52⟩ ⟨IAST_L_52⟩ [[br]] ⟨DEVA_53⟩ ⟨IAST_L_53⟩ [[br]] ⟨DEVA_54⟩ ⟨IAST_L_54⟩ [[br]] ⟨DEVA_55⟩ ⟨IAST_L_55⟩ [[br]] ⟨DEVA_56⟩ ⟨IAST_L_56⟩ [[br]] ⟨DEVA_57⟩ ⟨IAST_L_57⟩ [[br]] ⟨DEVA_58⟩ ⟨IAST_L_58⟩ [[br]] ⟨DEVA_59⟩ ⟨IAST_L_59⟩ [[br]] ⟨DEVA_60⟩ ⟨IAST_L_60⟩ [[br]] ⟨DEVA_61⟩ ⟨IAST_L_61⟩ [[br]] ⟨DEVA_62⟩ ⟨IAST_L_62⟩ [[br]] ⟨DEVA_63⟩ ⟨IAST_L_63⟩ [[br]] ⟨DEVA_64⟩ ⟨IAST_L_64⟩ [[br]] ⟨DEVA_65⟩ ⟨IAST_L_65⟩ [[br]] ⟨DEVA_66⟩ ⟨IAST_L_66⟩ [[br]] ⟨DEVA_67⟩ ⟨IAST_L_67⟩ [[br]] ⟨DEVA_68⟩ ⟨IAST_L_68⟩ [[br]] ⟨DEVA_69⟩ ⟨IAST_L_69⟩ [[br]] ⟨DEVA_70⟩ ⟨IAST_L_70⟩ [[br]] ⟨DEVA_71⟩ ⟨IAST_L_71⟩ [[br]] ⟨DEVA_72⟩ ⟨IAST_L_72⟩ [[br]] ⟨DEVA_73⟩ ⟨IAST_L_73⟩ [[br]] ⟨DEVA_74⟩ ⟨IAST_L_74⟩ [[br]] ⟨DEVA_75⟩ ⟨IAST_L_75⟩ [[br]] ⟨DEVA_76⟩ ⟨IAST_L_76⟩ [[br]] ⟨DEVA_77⟩ ⟨IAST_L_77⟩ [[br]] ⟨DEVA_78⟩ ⟨IAST_L_78⟩ [[br]] ⟨DEVA_79⟩ ⟨IAST_L_79⟩ [[br]] ⟨DEVA_80⟩ ⟨IAST_L_80⟩ [[br]] ⟨DEVA_81⟩ ⟨IAST_L_81⟩ [[br]] ⟨DEVA_82⟩ ⟨IAST_L_82⟩ [[br]] ⟨DEVA_83⟩ ⟨IAST_L_83⟩ [[br]] ⟨DEVA_84⟩ ⟨IAST_L_84⟩ [[br]] ⟨DEVA_85⟩ ⟨IAST_L_85⟩ [[br]] ⟨DEVA_86⟩ ⟨IAST_L_86⟩ [[br]] ⟨DEVA_87⟩ ⟨IAST_L_87⟩ [[br]] ⟨DEVA_88⟩ ⟨IAST_L_88⟩ [[br]] ⟨DEVA_89⟩ ⟨IAST_L_89⟩ [[br]] ⟨DEVA_90⟩ ⟨IAST_L_90⟩ [[br]] ⟨DEVA_91⟩ ⟨IAST_L_91⟩ [[br]] ⟨DEVA_92⟩ ⟨IAST_L_92⟩ [[br]] ⟨DEVA_93⟩ ⟨IAST_L_93⟩ [[br]] ⟨DEVA_94⟩ ⟨IAST_L_94⟩ [[br]] ⟨DEVA_95⟩ ⟨IAST_L_95⟩ [[br]] ⟨DEVA_96⟩ ⟨IAST_L_96⟩ [[br]] ⟨DEVA_97⟩ ⟨IAST_L_97⟩ [[br]] ⟨DEVA_98⟩ ⟨IAST_L_98⟩ [[br]] ⟨DEVA_99⟩ ⟨IAST_L_99⟩ [[br]] ⟨DEVA_100⟩ ⟨IAST_L_100⟩ [[br]] ⟨DEVA_101⟩ ⟨IAST_L_101⟩ [[br]] ⟨DEVA_102⟩ ⟨IAST_L_102⟩ [[br]] ⟨DEVA_103⟩ ⟨IAST_L_103⟩ [[br]] ⟨DEVA_104⟩ ⟨IAST_L_104⟩ [[br]] ⟨DEVA_105⟩ ⟨IAST_L_105⟩ [[br]] ⟨DEVA_106⟩ ⟨IAST_L_106⟩ [[br]] ⟨DEVA_107⟩ ⟨IAST_L_107⟩ [[br]] ⟨DEVA_108⟩ ⟨IAST_L_108⟩ [[br]] ⟨DEVA_109⟩ ⟨IAST_L_109⟩ [[br]] ⟨DEVA_110⟩ ⟨IAST_L_110⟩ [[br]] ⟨DEVA_111⟩ ⟨IAST_L_111⟩ [[br]] ⟨DEVA_112⟩ ⟨IAST_L_112⟩ [[br]] ⟨DEVA_113⟩ ⟨IAST_L_113⟩ [[br]] ⟨DEVA_114⟩ ⟨IAST_L_114⟩ [[br]] ⟨DEVA_115⟩ ⟨IAST_L_115⟩ [[br]] ⟨DEVA_116⟩ ⟨IAST_L_116⟩ [[br]] ⟨DEVA_117⟩ ⟨IAST_L_117⟩ [[br]] ⟨DEVA_118⟩ ⟨IAST_L_118⟩ [[br]] ⟨DEVA_119⟩ ⟨IAST_L_119⟩ [[br]] ⟨DEVA_120⟩ ⟨IAST_L_120⟩ [[br]] ⟨DEVA_121⟩ ⟨IAST_L_121⟩ [[br]] ⟨DEVA_122⟩ ⟨IAST_L_122⟩ [[br]] ⟨DEVA_123⟩ ⟨IAST_L_123⟩ [[br]] ⟨DEVA_124⟩ ⟨IAST_L_124⟩ [[br]] ⟨DEVA_125⟩ ⟨IAST_L_125⟩ [[br]] ⟨DEVA_126⟩ ⟨IAST_L_126⟩ [[br]] ⟨DEVA_127⟩ ⟨IAST_L_127⟩ [[br]] ⟨DEVA_128⟩ ⟨IAST_L_128⟩ [[br]] ⟨DEVA_129⟩ ⟨IAST_L_129⟩ [[br]] ⟨DEVA_130⟩ ⟨IAST_L_130⟩ [[br]] ⟨DEVA_131⟩ ⟨IAST_L_131⟩ [[br]] ⟨DEVA_132⟩ ⟨IAST_L_132⟩ [[br]] ⟨DEVA_133⟩ ⟨IAST_L_133⟩ [[br]] ⟨DEVA_134⟩ ⟨IAST_L_134⟩ [[br]] ⟨DEVA_135⟩ ⟨IAST_L_135⟩ [[br]] ⟨DEVA_136⟩ ⟨IAST_L_136⟩ [[br]] ⟨DEVA_137⟩ ⟨IAST_L_137⟩ [[br]] ⟨DEVA_138⟩ ⟨IAST_L_138⟩ [[br]] ⟨DEVA_139⟩ ⟨IAST_L_139⟩ [[br]] ⟨DEVA_140⟩ ⟨IAST_L_140⟩ [[br]] ⟨DEVA_141⟩ ⟨IAST_L_141⟩ [[br]] ⟨DEVA_142⟩ ⟨IAST_L_142⟩ [[br]] ⟨DEVA_143⟩ ⟨IAST_L_143⟩ [[br]] ⟨DEVA_144⟩ ⟨IAST_L_144⟩ [[br]] ⟨DEVA_145⟩ ⟨IAST_L_145⟩ [[br]] ⟨DEVA_146⟩ ⟨IAST_L_146⟩ [[br]] ⟨DEVA_147⟩ ⟨IAST_L_147⟩ [[br]] ⟨DEVA_148⟩ ⟨IAST_L_148⟩ [[br]] ⟨DEVA_149⟩ ⟨IAST_L_149⟩ [[br]] ⟨DEVA_150⟩ ⟨IAST_L_150⟩ [[br]] ⟨DEVA_151⟩ ⟨IAST_L_151⟩ [[br]] ⟨DEVA_152⟩ ⟨IAST_L_152⟩ [[br]] ⟨DEVA_153⟩ ⟨IAST_L_153⟩ [[br]] ⟨DEVA_154⟩ ⟨IAST_L_154⟩ [[br]] ⟨DEVA_155⟩ ⟨IAST_L_155⟩ [[br]] ⟨DEVA_156⟩ ⟨IAST_L_156⟩ [[br]] ⟨DEVA_157⟩ ⟨IAST_L_157⟩ [[br]] ⟨DEVA_158⟩ ⟨IAST_L_158⟩ [[br]] ⟨DEVA_159⟩ ⟨IAST_L_159⟩ [[br]] ⟨DEVA_160⟩ ⟨IAST_L_160⟩ [[br]] ⟨DEVA_161⟩ ⟨IAST_L_161⟩ [[br]] ⟨DEVA_162⟩ ⟨IAST_L_162⟩ [[br]] ⟨DEVA_163⟩ ⟨IAST_L_163⟩ [[br]] ⟨DEVA_164⟩ ⟨IAST_L_164⟩ [[br]] ⟨DEVA_165⟩ ⟨IAST_L_165⟩ [[br]] ⟨DEVA_166⟩ ⟨IAST_L_166⟩ [[br]] ⟨DEVA_167⟩ ⟨IAST_L_167⟩ [[br]] ⟨DEVA_168⟩ ⟨IAST_L_168⟩ [[br]] ⟨DEVA_169⟩ ⟨IAST_L_169⟩ [[br]] ⟨DEVA_170⟩ ⟨IAST_L_170⟩ [[br]] ⟨DEVA_171⟩ ⟨IAST_L_171⟩ [[br]] ⟨DEVA_172⟩ ⟨IAST_L_172⟩ [[br]] ⟨DEVA_173⟩ ⟨IAST_L_173⟩ [[br]] ⟨DEVA_174⟩ ⟨IAST_L_174⟩ [[br]] ⟨DEVA_175⟩ ⟨IAST_L_175⟩ [[br]] ⟨DEVA_176⟩ ⟨IAST_L_176⟩ [[br]] ⟨DEVA_177⟩ ⟨IAST_L_177⟩ [[br]] ⟨DEVA_178⟩ ⟨IAST_L_178⟩ [[br]] ⟨DEVA_179⟩ ⟨IAST_L_179⟩ [[br]] ⟨DEVA_180⟩ ⟨IAST_L_180⟩ [[br]] ⟨DEVA_181⟩ ⟨IAST_L_181⟩ [[br]] ⟨DEVA_182⟩ ⟨IAST_L_182⟩ [[br]] ⟨DEVA_183⟩ ⟨IAST_L_183⟩ [[br]] ⟨DEVA_184⟩ ⟨IAST_L_184⟩ [[br]] ⟨DEVA_185⟩ ⟨IAST_L_185⟩ [[br]] ⟨DEVA_186⟩ ⟨IAST_L_186⟩ [[br]] ⟨DEVA_187⟩ ⟨IAST_L_187⟩ [[br]] ⟨DEVA_188⟩ ⟨IAST_L_188⟩ [[br]] ⟨DEVA_189⟩ ⟨IAST_L_189⟩ [[br]] ⟨DEVA_190⟩ ⟨IAST_L_190⟩ [[br]] ⟨DEVA_191⟩ ⟨IAST_L_191⟩ [[br]] ⟨DEVA_192⟩ ⟨IAST_L_192⟩ [[br]] ⟨DEVA_193⟩ ⟨IAST_L_193⟩ [[br]] ⟨DEVA_194⟩ ⟨IAST_L_194⟩ [[br]] ⟨DEVA_195⟩ ⟨IAST_L_195⟩ [[br]] ⟨DEVA_196⟩ ⟨IAST_L_196⟩ [[br]] ⟨DEVA_197⟩ ⟨IAST_L_197⟩ [[br]] ⟨DEVA_198⟩ ⟨IAST_L_198⟩ [[br]] ⟨DEVA_199⟩ ⟨IAST_L_199⟩ [[br]] ⟨DEVA_200⟩ ⟨IAST_L_200⟩ [[br]] ⟨DEVA_201⟩ ⟨IAST_L_201⟩ [[br]] ⟨DEVA_202⟩ ⟨IAST_L_202⟩ [[br]] ⟨DEVA_203⟩ ⟨IAST_L_203⟩ [[br]] ⟨DEVA_204⟩ ⟨IAST_L_204⟩ [[br]] ⟨DEVA_205⟩ ⟨IAST_L_205⟩ [[br]] ⟨DEVA_206⟩ ⟨IAST_L_206⟩ [[br]] ⟨DEVA_207⟩ ⟨IAST_L_207⟩ [[br]] ⟨DEVA_208⟩ ⟨IAST_L_208⟩ [[br]] ⟨DEVA_209⟩ ⟨IAST_L_209⟩ [[br]] ⟨DEVA_210⟩ ⟨IAST_L_210⟩ [[br]] ⟨DEVA_211⟩ ⟨IAST_L_211⟩ [[br]] ⟨DEVA_212⟩ ⟨IAST_L_212⟩ [[br]] ⟨DEVA_21
 
 כמו כן, שורשי שם עצם הבאים בסיום בתנובה, יוצרים את הנominative היחיד עם **-s**:
 
 
 
-::: grammar-box
+:::grammar-box
 - **נקבות בסיומת -i**: למשל **śruti** נ' "השמעה" -- נק' יח': **śrutis** = श्रुतिस्
 - **נקבות בסיומת -u**: למשל **dhenu** נ' "פרה מניקה" -- נק' יח': **dhenus** = धेनुस्
 
-:::
-
-### 3.1.2. יחיד נוקב ללא סיומת
+:::### 3.1.2. יחיד נוקב ללא סיומת
 
 נוצר ללא סיומת:
 
 
 
-::: grammar-box
+:::grammar-box
 - **נקבות בסיומת -ā**: למשל **devatā** נק' "אלוהות" -- נק' יח': **devatā** = देवता
 - **נקבות בסיומת -ī**: למשל **devī** נק' "אלוהה" -- נק' יח': **devī** = देवी
 
-:::
-
-
-
-::: important
+::::::important
 **שימו לב!** במקביל, יש שם-שורש נקבי חד-הברתי עם -ī, שבהגינה הנרטיבית היחידה מסתיימת ב-s: למשל, dhī f. "מחשבה" -- Nom. sg.: dhīs = धीस्. כמו כן, lakṣmī (लक्ष्मी) f., tarī (तरी) f. "סירה" ו- tantrī (तन्त्री) f. "מיתר" יוצרים באופן לא סדיר את ההגינה הנרטיבית היחידה עם -s: lakṣmīs = लक्ष्मीस्.
 
-:::
-
----
+:::---
 
 ## 3.2. יצירת נקבות לזכרים
 
 
 
-::: grammar-box
+:::grammar-box
 **זכרים הסוגים בסוף -a:**
 - **נקבות בסוף -ā**: למשל, **kṣatriya** ז. » **kṣatriyā** נ. "אישה כשוטרי" = क्षत्रिया
 - **נקבות בסוף -ī**: למשל, **brāhmaṇa** ז. » **brāhmaṇī** נ. "ברמנית" = ब्राह्मणी
@@ -76,15 +62,13 @@ status: stable
 - **נקבות הסופות ב-ī**: למשל, **sādhu** ז. » **sādhvī** נ. (טוב, קדוש) = साध्वी
   (**-u-** הופך ל-**v-** לפני תנועה, ולכן **-u- + -ī** » **-vī**)
 
-:::
-
----
+:::---
 
 ## 3.3. רבים לזכר ולנקבה במישור
 
 
 
-::: grammar-box
+:::grammar-box
 סיום הרבים בנominative בזכר ובנקבה הוא **-as**.
 - **זכרים המסתיימים ב-a**: **deva- + -as** » **devās** = देवास्
 - **נקבות המסתיימות ב-ā**: **devatā- + -as** » **devatās** = देवतास्
@@ -94,9 +78,7 @@ status: stable
 - **זכרים המסתיימים ב-u**: **guru-** » **guro- + -as** » **guravas** = गुरवस्
 - **נקבות המסתיימות ב-u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्
 
-:::
-
-הערה: **e** היא צורה מוגברת (**guṇa**) של **i**, **o** היא צורה מוגברת של **u**.
+:::הערה: **e** היא צורה מוגברת (**guṇa**) של **i**, **o** היא צורה מוגברת של **u**.
 
 ---
 
@@ -104,16 +86,14 @@ status: stable
 
 
 
-::: grammar-box
+:::grammar-box
 **תנועות פשוטות, שאינן נבדלות זו מזו אלא באורך בלבד, "מתמזגות" לתנועה ארוכה מתאימה:**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
 
-:::
-
-למשל
+:::למשל
 
 devatā + annapūrṇā » devatānnapūrṇā «אלוהה אנפורנה היא אלה» = देवतान्नपूर्णा
 
@@ -125,26 +105,18 @@ devatā + annapūrṇā » devatānnapūrṇā «אלוהה אנפורנה הי�
 
 
 
-::: מדיה
+:::מדיה
 ![](/images/lekt0301.webp)
 איור: אינדרה ואינדרני על הפיל איאראווטה, מיניאטורה, ראג'סטאן, 1670/80
 (מקור התמונה: [פרטים](/he/licenses#lekt0301))
 
-:::
-
-
-
-::: grammar-box
+::::::grammar-box
 **תנועות פשוטות (למעט -a / -ā) מוחלפות באמצע קול מתאים לפני תנועות לא דומות:**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
 (!! לכלל זה יש חריגות, במיוחד לצורות זוגיות !!)
-:::
-
-:::
-
-למשל
+::::::למשל
 
 דֵוִי + אוּמָה » דֵוִי אוּמָה "אומה היא / היא האלה" = देव्युमा
 
@@ -152,26 +124,22 @@ devatā + annapūrṇā » devatānnapūrṇā «אלוהה אנפורנה הי�
 
 
 
-::: grammar-box
+:::grammar-box
 **-a / -ā לפני תנועה לא דומה:**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
 
-:::
-
-לשנידה זו חל התבנית הבאה:
+:::לשנידה זו חל התבנית הבאה:
 
 
 
-::: מדיה
+:::מדיה
 ![](/images/lekt0302.jpg)
 (מקור התמונה: [פרטים](/he/licenses#lekt0302))
 
-:::
-
-לגבי דרגת השבט הנ"ל ראה להלן!
+:::לגבי דרגת השבט הנ"ל ראה להלן!
 
 למשל
 
@@ -183,12 +151,10 @@ devatā + annapūrṇā » devatānnapūrṇā «אלוהה אנפורנה הי�
 
 
 
-::: grammar-box
+:::grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 
-:::
-
-למשל
+:::למשל
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "וישיה הם בני שתי לידות" = द्विजा वैश्याः
 
@@ -239,14 +205,12 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "וישיה הם בני שתי לי�
 
 
 
-::: מדיה
+:::מדיה
 ![](/images/lekt0303.webp)
 איור: דורגה = दुर्गा, אוריסה
 (מקור התמונה: [פרטים](/images/lekt0303))
 
-:::
-
-**סָדְהוּוִי** f. = साध्वी : נקבה של sādhu.
+:::**סָדְהוּוִי** f. = साध्वी : נקבה של sādhu.
 
 **gurvī** f. = गुर्वी : נקבה של guru.
 

@@ -22,7 +22,7 @@ features:
     details: Construido sobre los cimientos de VitePress para máxima velocidad.
 ---
 
-::: tip Versión 1.3 — en desarrollo
+:::tip Versión 1.3 — en desarrollo
 **Novedades en v1.3 (junio de 2026):**
 
 - **Nuevos idiomas:** Punjabi (PA), Latín (LA), Rumantsch Grischun (RM), Rumano (RO)

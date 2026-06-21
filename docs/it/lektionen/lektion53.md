@@ -7,359 +7,282 @@ lesson_id: 53
 
 ## 53.1. Il duale (द्विवचन n.) dei nomi
 
-:::: grammar-box
+::::grammar-box
 **Il duale (द्विवचनम्) è utilizzato per indicare "due":**
 
-::: indent
+:::indent
 **अश्विनौ** "i due Aśvin"
-:::
+:::**L'uso del duale è obbligatorio quando si fa riferimento a due cose, ecc.:**
 
-**L'uso del duale è obbligatorio quando si fa riferimento a due cose, ecc.:**
-
-::: indent
+:::indent
 **हस्तौ** "le mani (di un individuo)"
 **पादौ** "i piedi (di un essere umano, di una scimmia o di qualsiasi altro bipede)"
-:::
+:::**A volte il duale indica un esemplare maschile e uno femminile della stessa classe (specie, genere):**
 
-**A volte il duale indica un esemplare maschile e uno femminile della stessa classe (specie, genere):**
-
-::: indent
+:::indent
 **पितरौ** "padre e madre = genitori"
-:::
+:::**Le parole che significano "una coppia" – ad esempio युग n., द्वन्द्व n., द्वय n. – vengono tuttavia sempre usate al singolare, a meno che non si tratti di due o più coppie:**
 
-**Le parole che significano "una coppia" – ad esempio युग n., द्वन्द्व n., द्वय n. – vengono tuttavia sempre usate al singolare, a meno che non si tratti di due o più coppie:**
-
-::: indent
+:::indent
 **बाहुद्वयम्** "una coppia di braccia"
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt5301.webp)
 Fig.: मार्जारयुगम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5301))
-:::
-
-::: media
+::::::media
 ![](/images/lekt5302.webp)
 Fig.: हस्तौ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5302))
-:::
+:::## 53.2. Desinenze del duale del nome
 
-## 53.2. Desinenze del duale del nome
-
-::: grammar-box
+:::grammar-box
 | | Maschile/Femminile [[br]] पुंस्/स्त्री | Neutro [[br]] नपुंसक
 | :---: | :---: | :---:
 | **Nominativo, Accusativo, Vocativo** | -au | -ī
 | **Accusativo, Dativo, Ablativo** | -bhyām ||
 | **Genitivo, Locativo** | -os ||
-:::
-
-::: grammar-box
+::::::grammar-box
 **Nei nomi con alternanza vocale della radice (stemma), il duale maschile/femminile del Nominativo, Accusativo e Vocativo presenta la forma forte della radice.**
-:::
-
-## 53.3. Il duale dei temi consonantici
+:::## 53.3. Il duale dei temi consonantici
 
 ### 53.3.1. Stämme senza flessione di genere
 
 सत्यवाच् 3 "che parla la verità"
 
-::: grammar-box
+:::grammar-box
 |   | Maschile/Femminile [[br]] पुंस्/स्त्री | Neutro [[br]] नपुंसक
 | :---: | :---: | :---:
 | **प्रथमा, द्वितीया, आमन्त्रितम्** | सत्यवाचौ | सत्यवाची
 | **तृतीया, चतुर्थी, पञ्चमी** | सत्यवाग्भ्याम् ||
 | **षष्ठी, सप्तमी** | सत्यवाचोस् ||
-:::
+:::बलिन 3 "(particolarmente) forte"
 
-बलिन 3 "(particolarmente) forte"
-
-::: grammar-box
+:::grammar-box
 |   | Maschile [[br]] पुंस् | Neutro [[br]] नपुंसक
 | :---: | :---: | :---:
 | **प्रथमा, द्वितीया, आमन्त्रितम्** | बलिनौ | बलिनी
 | **तृतीया, चतुर्थी, पञ्चमी** | बलिभ्याम् ||
 | **षष्ठी, सप्तमी** | बलिनोस् ||
-:::
+:::सुमनस् 3 "ben disposto"
 
-सुमनस् 3 "ben disposto"
-
-::: grammar-box
+:::grammar-box
 |   | Maschile/Femminile [[br]] पुंस्/स्त्री | Neutro [[br]] नपुंसक
 | :---: | :---: | :---:
 | **प्रथमा, द्वितीया, आमन्त्रितम्** | सुमनसौ | सुमनसी
 | **तृतीया, चतुर्थी, पञ्चमी** | सुमनोभ्याम् ||
 | **षष्ठी, सप्तमी** | सुमनसोस् ||
-:::
+:::हविस् n. "offerta sacrificale"
 
-हविस् n. "offerta sacrificale"
-
-::: grammar-box
+:::grammar-box
 |   | Neutro [[br]] नपुंसक |
 | :---: | :---: |
 | **प्रथमा, द्वितीया, आमन्त्रितम्** | हविषी |
 | **तृतीया, चतुर्थी, पञ्चमी** | हविर्भ्याम् |
 | **षष्ठी, सप्तमी** | हविषोस् |
-:::
+:::दीर्घायुस् 3 "di lunga vita"
 
-दीर्घायुस् 3 "di lunga vita"
-
-::: grammar-box
+:::grammar-box
 |   | Maschile/Femminile [[br]] पुंस्/स्त्री | Neutro [[br]] नपुंसक
 | :---: | :---: | :---:
 | **प्रथमा, द्वितीया, आमन्त्रितम्** | दीर्घायुषौ | दीर्घायुषी
 | **तृतीया, चतुर्थी, पञ्चमी** | दीर्घायुर्भ्याम् ||
 | **षष्ठी, सप्तमी** | दीर्घायुषोस् ||
-:::
-
-### 53.3.2. Temi con flessione di tema
+:::### 53.3.2. Temi con flessione di tema
 
 **Participio presente del Parasmaipada**
 
 भरन्त् 3 "che porta"
 
-::: grammar-box
+:::grammar-box
 |   | Maschile [[br]] पुंस् | Neutro [[br]] नपुंसक
 | :---: | :---: | :---:
 | **Nominativo, Accusativo, Vocativo** | भरन्तौ | ***भरन्ती (!)***
 | **Accusativo, Dativo, Ablativo** | भरद्भ्याम् ||
 | **Genitivo, Locativo** | भरतोस् ||
-:::
-
-::: media
+::::::media
 ![](/images/lekt5305.webp)
 Fig.: भरन्तौ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5305))
-:::
+:::ददत् 3 "che dà"
 
-ददत् 3 "che dà"
-
-::: grammar-box
+:::grammar-box
 |   | Maschile [[br]] पुंस् | Neutro [[br]] नपुंसक
 | :---: | :---: | :---:
 | **Nominativo, Accusativo, Vocativo** | ददतौ | ददती
 | **Accusativo, Dativo, Ablativo** | ददद्भ्याम् ||
 | **Genitivo, Locativo** | ददतोस् ||
-:::
-
-**Temi in -mant/-vant**
+:::**Temi in -mant/-vant**
 
 पशुमन्त् 3 "che possiede bestiame"
 
-::: grammar-box
+:::grammar-box
 |   | Maschile [[br]] पुंस् | Neutro [[br]] नपुंसक
 | :---: | :---: | :---:
 | **Nominativo, Accusativo, Vocativo** | पशुमन्तौ | पशुमती
 | **Accusativo, Dativo, Ablativo** | पशुमद्भ्याम् ||
 | **Genitivo, Locativo** | पशुमतोस् ||
-:::
+:::महान्त् 3 "grande"
 
-महान्त् 3 "grande"
-
-::: grammar-box
+:::grammar-box
 |   | Maschile [[br]] पुंस् | Neutro [[br]] नपुंसक
 | :---: | :---: | :---:
 | **Nominativo, Accusativo, Vocativo** | महान्तौ | महती
 | **Accusativo, Dativo, Ablativo** | महद्भ्याम् ||
 | **Genitivo, Locativo** | महतोस् ||
-:::
+:::आत्मन् m.
 
-आत्मन् m.
-
-::: grammar-box
+:::grammar-box
 |   | Maschile [[br]] पुंस् |
 | :---: | :---: |
 | **Nominativo, Accusativo, Vocativo** | आत्मानौ |
 | **Accusativo, Dativo, Ablativo** | आत्मभ्याम् |
 | **Genitivo, Locativo** | आत्मनोस् |
-:::
+:::ब्रह्मन् n.
 
-ब्रह्मन् n.
-
-::: grammar-box
+:::grammar-box
 |   | Neutro [[br]] नपुंसक |
 | :---: | :---: |
 | **Nominativo, Accusativo, Vocativo** | ब्रह्मणी |
 | **Accusativo, Dativo, Ablativo** | ब्रह्मभ्याम् |
 | **Genitivo, Locativo** | ब्रह्मणोस् |
-:::
+:::राजन् m. "Re"
 
-राजन् m. "Re"
-
-::: grammar-box
+:::grammar-box
 |   | Maschile [[br]] पुंस् |
 | :---: | :---: |
 | **Nominativo, Accusativo, Vocativo** | राजानौ |
 | **Accusativo, Dativo, Ablativo** | राजभ्याम् |
 | **Genitivo, Locativo** | राज्ञोस् |
-:::
+:::सीमन् f. "Confine"
 
-सीमन् f. "Confine"
-
-::: grammar-box
+:::grammar-box
 |   | Femminile [[br]] स्त्री |
 | :---: | :---: |
 | **Nominativo, Accusativo, Vocativo** | सीमानौ |
 | **Accusativo, Dativo, Ablativo** | सीमभ्याम् |
 | **Genitivo, Locativo** | सीम्नोस् |
-:::
+:::नामन् n. "Nome"
 
-नामन् n. "Nome"
-
-::: grammar-box
+:::grammar-box
 |   | Neutro [[br]] नपुंसक |
 | :---: | :---: |
 | **Nominativo, Accusativo, Vocativo** | नाम्नी [[br]] ***नामानी*** |
 | **Accusativo, Dativo, Ablativo** | नामभ्याम् |
 | **Genitivo, Locativo** | नाम्नोस् |
-:::
-
-## 53.4. Il duale dei temi vocalici
+:::## 53.4. Il duale dei temi vocalici
 
 **Temi in -a**
 
 देव m. "dio"  
 फल n. "frutto"
 
-::: grammar-box
+:::grammar-box
 |   | Maschile [[br]] पुंस् | Neutro [[br]] नपुंसक |
 | :---: | :---: | :---: |
 | **प्रथमा, द्वितीया, आमन्त्रितम्** | देवौ | फले |
 | **तृतीया, चतुर्थी, पञ्चमी** | ***देवाभ्याम्*** | ***फलाभ्याम्*** |
 | **षष्ठी, सप्तमी** | ***देवयोस्*** | ***फलयोस्*** |
-:::
-
-::: media
+::::::media
 ![](/images/lekt5306.webp)
 Fig.: फले
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5306))
-:::
-
-**Temi in -i**
+:::**Temi in -i**
 
 अग्नि m. "fuoco"  
 वारि n. "acqua"  
 मति f. "pensiero"
 
-::: grammar-box
+:::grammar-box
 |   | Maschile [[br]] पुंस् | Femminile [[br]] स्त्री | Neutro [[br]] नपुंसक |
 | :---: | :---: | :---: | :---: |
 | **प्रथमा, द्वितीया, आमन्त्रितम्** | ***अग्नी*** | ***मती*** | वारिणी |
 | **तृतीया, चतुर्थी, पञ्चमी** | अग्निभ्याम् | मतिभ्याम् | वारिभ्याम् |
 | **षष्ठी, सप्तमी** | अग्न्योस् | मत्योस् | वारिणोस् |
-:::
-
-**Temi in -u**
+:::**Temi in -u**
 
 शत्रु m.  
 धिनु f.  
 मधु n.
 
-::: grammar-box
+:::grammar-box
 |   | Maschile [[br]] पुंस् | Femminile [[br]] स्त्री | Neutro [[br]] नपुंसक |
 | :---: | :---: | :---: | :---: |
 | **प्रथमा, द्वितीया, आमन्त्रितम्** | ***शत्रू*** | ***धेनू*** | मधुनी |
 | **तृतीया, चतुर्थी, पञ्चमी** | शत्रुभ्याम् | धेनुभ्याम् | मधुभ्याम् |
 | **षष्ठी, सप्तमी** | शत्र्वोस् | धेन्वोस् | मधुनोस् |
-:::
-
-::: media
+::::::media
 ![](/images/lekt5307.webp)
 Fig.: धेनू
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5307))
-:::
-
-**Temi in -ā**
+:::**Temi in -ā**
 
 कन्या f. "ragazza"
 
-::: grammar-box
+:::grammar-box
 |   | Femminile [[br]] स्त्री |
 | :---: | :---: |
 | **प्रथमा, द्वितीया, आमन्त्रितम्** | ***कन्ये*** |
 | **तृतीया, चतुर्थी, पञ्चमी** | कन्याभ्याम् |
 | **षष्ठी, सप्तमी** | ***कन्ययोस्*** |
-:::
-
-**Temi polisillabici in -ī**
+:::**Temi polisillabici in -ī**
 
 देवी f. "dea"
 
-::: grammar-box
+:::grammar-box
 |   | Femminile [[br]] स्त्री |
 | :---: | :---: |
 | **प्रथमा, द्वितीया, आमन्त्रितम्** | देव्यौ |
 | **तृतीया, चतुर्थी, पञ्चमी** | देवीभ्याम् |
 | **षष्ठी, सप्तमी** | देव्योस् |
-:::
-
-**Temi in -ṛ**
+:::**Temi in -ṛ**
 
 दातृ 3 "donatore"
 
-::: grammar-box
+:::grammar-box
 |   | Maschile/Femminile [[br]] पुंस्/स्त्री | Neutro [[br]] नपुंसक
 | :---: | :---: | :---:
 | **प्रथमा, द्वितीया, आमन्त्रितम्** | दातारौ | ***दातृणी***
 | **तृतीया, चतुर्थी, पञ्चमी** | दातृभ्याम् ||
 | **षष्ठी, सप्तमी** | दात्रोस् ||
-:::
+:::पितृ m. "padre"
 
-पितृ m. "padre"
-
-::: grammar-box
+:::grammar-box
 |   | Maschile [[br]] पुंस् |
 | :---: | :---: |
 | **प्रथमा, द्वितीया, आमन्त्रितम्** | पितरौ |
 | **तृतीया, चतुर्थी, पञ्चमी** | पितृभ्याम् |
 | **षष्ठी, सप्तमी** | पित्रोस् |
-:::
-
-## 53.5. Dualdvandva
+:::## 53.5. Dualdvandva
 
 Esempi:
 
-::: indent
+:::indent
 **अर्थधर्मौ** "Utilità (अर्थ) e Dharma"
 **युधिष्ठिरार्जुनौ** "Yudhiṣṭhira e Arjuna"
 **सुखदुःखे** (accanto a: सुखदुःखम्) "Felicità e sofferenza"
 **शीतोष्णे** "Freddo e caldo"
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **Quando due parole di parentela terminanti in -ṛ (o due sostantivi in -ṛ che indicano sacerdoti sacrificatori) vengono composti in un Dvandva, il primo membro appare nella forma del Nominativo Singolare:**
 
-::: indent
+:::indent
 मा***ता***पितरौ "Madre e Padre"
-:::
+:::**Lo stesso avviene con una tale parola di parentela in un Dvandva prima di -पुत्र:**
 
-**Lo stesso avviene con una tale parola di parentela in un Dvandva prima di -पुत्र:**
-
-::: indent
+:::indent
 **पितापुत्रौ** "Padre e figlio"
-:::
+:::**Quando i nomi di due divinità, comunemente invocate nei sacrifici, formano un Dvandva, la vocale finale del primo membro viene solitamente allungata:**
 
-**Quando i nomi di due divinità, comunemente invocate nei sacrifici, formano un Dvandva, la vocale finale del primo membro viene solitamente allungata:**
-
-::: indent
+:::indent
 मि***त्रा***वरुणौ "Mitra e Varuṇa"
 **अग्नीसोमौ** "Agni e Soma"
-:::
-
-**Questo allungamento vocale si verifica anche in altri Dvandva.**
-::::
-
-::: media
+:::**Questo allungamento vocale si verifica anche in altri Dvandva.**
+:::::::media
 ![](/images/lekt5308.webp)
 Fig.: पितापुत्रौ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5308))
-:::
+:::## 53.6. Il duale dei pronomi
 
-## 53.6. Il duale dei pronomi
-
-::: grammar-box
+:::grammar-box
 |   | तद् | एतद् | इदम् | यद् | किम्
 | :--- | :---: | :---: | :---: | :---: | :---:
 | **Maschile** |   |   |   |   |  
@@ -376,9 +299,7 @@ Fig.: पितापुत्रौ
 | **Nominativo** | ते | एते | इमे | ये | के
 | **Accusativo** | ते | एते [[br]] एने | इमे [[br]] एने | ये | के
 |   | Il resto come il Maschile ||||||||
-:::
-
-I termini कतर 3 "chi dei due" e कतम 3 "chi tra diversi" si declinano in tutti i casi come यद्.
+:::I termini कतर 3 "chi dei due" e कतम 3 "chi tra diversi" si declinano in tutti i casi come यद्.
 
 ## 53.7. Aggettivi pronominali
 
@@ -402,7 +323,7 @@ I seguenti aggettivi pronominali vengono declinati come **सर्व**. Nell'A
 
 ## 53.8. Gradi irregolari
 
-::: grammar-box
+:::grammar-box
 **Un certo numero di aggettivi forma il comparativo e il superlativo utilizzando i seguenti suffissi कृत् (!):**
 
 *   Comparativo: **-īyas**
@@ -413,61 +334,45 @@ I seguenti aggettivi pronominali vengono declinati come **सर्व**. Nell'A
 **I superlativi in -iṣṭha (femminile: iṣṭhā) vengono declinati come le stemmi a- o ā.**
 
 **Vedi sotto la declinazione di -īyas.**
-:::
+:::Esempi:
 
-Esempi:
-
-::: grammar-box
+:::grammar-box
 | Radice | Aggettivo | Comparativo | Superlativo |
 | --- | --- | --- | --- |
 | क्षिप् 6P "gettare" | क्षिप्र 3 "veloce" | ***क्षेपीयस्*** 3 "più veloce" [[br]] क्षिप्रतर 3 | ***क्षेपिष्ठ*** 3 "il più veloce" [[br]] क्षिप्रतम 3 |
 | स्था 1P "stare" | स्थिर 3 "stabile, fermo" | ***स्थेयस्*** 3 "più stabile" [[br]] स्थिरतर 3 | ***स्थेष्ठ*** 3 "il più stabile" [[br]] स्थिरतम 3 |
-:::
+:::**Regole speciali per l'aggiunta di questi suffissi:**
 
-**Regole speciali per l'aggiunta di questi suffissi:**
-
-::: grammar-box
+:::grammar-box
 **Regola 1:** **La vocale finale di un tema maschile polisillabico, oppure la vocale finale e la vocale precedente, vengono eliminate.**
-:::
+:::Esempi:
 
-Esempi:
-
-::: grammar-box
+:::grammar-box
 | Aggettivo | Comparativo | Superlativo |
 | --- | --- | --- |
 | पाप 3 "cattivo" | पा***पी***यस् | पा***पि***ष्ठ |
 | महान्त् 3 "grande" | म***ही***यस् | म***हि***ष्ठ |
-:::
-
-::: grammar-box
+::::::grammar-box
 **Regola 2:** **I suffissi possessivi (-mant, vant, -vin, -in e simili) vengono eliminati. Se la parte restante consiste di una sola sillaba, essa non viene ulteriormente modificata; vengono annullate solo le alterazioni fonetiche dovute alla combinazione con il suffisso possessivo. Se la parte restante consiste di più di una sillaba, si applica la Regola 1.**
-:::
+:::Esempi:
 
-Esempi:
-
-::: grammar-box
+:::grammar-box
 | Aggettivo | Comparativo | Superlativo |
 | --- | --- | --- |
 | धनवन्त् 3 "ricco" | ध***नी***यस् | ध***नि***ष्ठ |
 | बलिन् 3 "(specialmente) forte" | ब***ली***यस् | ब***लि***ष्ठ |
 | वसुमन्त् "possessore di beni" | व***सी***यस् | व***सि***ष्ठ |
-:::
-
-::: grammar-box
+::::::grammar-box
 **Regola 3:** **Per -ṛ-, preceduto da una vocale iniziale e seguito da un solo consonante, si sostituisce -ra-.**
-:::
+:::Esempio:
 
-Esempio:
-
-::: grammar-box
+:::grammar-box
 | Aggettivo | Comparativo | Superlativo |
 | --- | --- | --- |
 | पृथु 3 "largo" | प्रथीयस् | प्रथिष्ठ |
-:::
+:::**Elenco delle forme comparative più comuni di questo tipo relative agli aggettivi studiati finora:**
 
-**Elenco delle forme comparative più comuni di questo tipo relative agli aggettivi studiati finora:**
-
-::: grammar-box
+:::grammar-box
 | Aggettivo | Comparativo | Superlativo |
 | --- | --- | --- |
 | अल्प 3 "piccolo, poco" | अल्पीयस् | अल्पिष्ठ |
@@ -485,17 +390,13 @@ Esempio:
 | स्थिर 3 "fermo" [[br]] (da स्था) | स्थेयस् | स्थेष्ठ |
 
 | ह्रस्व 3 "breve" | ह्रसीयस् | ह्रसिष्ठ |
-:::
-
-::: media
+::::::media
 ![](/images/lekt5309.webp)
 Fig.: द्राघीयो लिङ्गम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5309))
-:::
+:::**Alcune forme di comparazione di questo tipo non hanno affatto una forma base etimologicamente affine; sono "defettive". Pertanto, le seguenti serie vanno ricordate in modo particolare:**
 
-**Alcune forme di comparazione di questo tipo non hanno affatto una forma base etimologicamente affine; sono "defettive". Pertanto, le seguenti serie vanno ricordate in modo particolare:**
-
-::: grammar-box
+:::grammar-box
 | (Aggettivo) | Comparativo | Superlativo |
 | --- | ---
 | (अल्प 3 "piccolo, poco") | कनीयस् [[br]] cfr. कन्या f. "ragazza = la piccola" | कनिष्ठ |
@@ -504,16 +405,11 @@ Fig.: द्राघीयो लिङ्गम्
 | (बहु 3 "molto") | भूयस् | भूयिष्ठ |
 | (वृद्ध 3 "anziano") | वर्षीयस् [[br]] da वर्ष n.m. "stagione delle piogge, anno" | वर्षिष्ठ |
 | (वृद्ध 3 "anziano") | ज्यायस् [[br]] anche: "migliore" [[br]] da ज्या f. "prevalenza" | ज्येष्ठ [[br]] anche: "il migliore" |
-:::
+:::## 53.9. Declinazione dei comparativi in -īyas
 
-## 53.9. Declinazione dei comparativi in -īyas
-
-::: grammar-box
+:::grammar-box
 **I comparativi in -īyas formano il femminile in -īyasī (declinazione come देवी). Il maschile e il neutro vengono declinati secondo il seguente paradigma.**
-:::
-
-
-::: grammar-box
+::::::grammar-box
 
 |   | **Singolare** || **Duale** || **Plurale** ||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -526,17 +422,13 @@ Fig.: द्राघीयो लिङ्गम्
 | **Genitivo** | गरीयसस् || गरीयसोस् || गरीयसाम् ||
 | **Locativo** | गरीयसि || ^^ || गरीयस्सु ||
 | **Vocativo** | ***गरीयान्*** | **गरीयस्** | **गरीयांसौ** | **गरीयसी** | **गरीयांसस्** | **गरीयांसि** |
-:::
+:::## 53.10. Metrica (Dottrina delle misure versali)
 
-## 53.10. Metrica (Dottrina delle misure versali)
-
-::: media
+:::media
 ![](/images/lekt5303.jpg)
 Fig.: क्रिश्चियन-मोर्गन्स्टर्न्
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt5303))
-:::
-
-Si veda anche:
+:::Si veda anche:
 
 > **Payer, Alois &lt;1944 - &gt;:** Introduzione all’esegesi dei testi sanscriti : Dispensa. -- Cap. 8: L’esegesi propriamente detta, Parte II: Su singole questioni di comprensione sincronica. -- Appendice B: Sulla metrica dei testi sanscriti. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
@@ -548,15 +440,13 @@ La determinazione del metro è importante per le seguenti ragioni:
 2.  **Filologia testuale:** errori nel metro possono indicare che il testo non è stato tramandato correttamente in un determinato punto. Il metro aiuta a effettuare emendamenti testuali.
 3.  **Cronologia:** alcuni metri hanno subito determinate trasformazioni nel corso della storia. Ciò può essere utile per la datazione approssimativa di un testo. Si veda **Oldenberg, Hermann &lt;1854 - 1920&gt;:** Zur Geschichte der Triṣṭhubh ; idem: Zur Geschichte des Śloka. -- Entrambi ripubblicati in: [[br]] **Oldenberg, Hermann &lt;1854 - 1920&gt;:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
-::: media
+:::media
 ![](/images/lekt5304.jpg)
 Fig.: हर्मन्-ओल्डन्बेर्ग्
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt5304))
-:::
+:::### 53.10.2. Tipi di metri
 
-### 53.10.2. Tipi di metri
-
-::: grammar-box
+:::grammar-box
 **Gli Indiani distinguono:**
 
 *   **वृत्त n.:** metri nei quali è fissato il numero di sillabe (अक्षर)
@@ -566,30 +456,24 @@ Fig.: हर्मन्-ओल्डन्बेर्ग्
 
 *   metri nei quali è fissato il numero di sillabe, ma la quantità di queste sillabe è determinata solo parzialmente
 *   metri nei quali sono fissati sia il numero di sillabe sia la loro quantità
-:::
+:::### 53.10.3. La quantità metrica delle sillabe
 
-### 53.10.3. La quantità metrica delle sillabe
-
-:::: grammar-box
+::::grammar-box
 **Mnemotecnica**
 
-::: indent
+:::indent
 सानुस्वारश्च दीर्घश्च
 विसर्गी च गुरुर्भवेत् ।
 वर्णः संयोगपूर्वश्च
 तथा पादान्तगो ऽपि वा ॥
-:::
-
-"Una sillaba è **guru** (pesante),
+:::"Una sillaba è **guru** (pesante),
 
 *   se la sua vocale ha un Anusvāra,
 *   se è lunga,
 *   se ha un Visarga,
 *   così pure se è preceduta da un gruppo consonantico (saṃyoga),
 *   nonché se la sillaba si trova alla fine di un quarto di verso (pāda)."
-::::
-
-::: grammar-box
+:::::::grammar-box
 **Una sillaba è**
 
 *   oppure **लघु (laghu) = leggera**
@@ -612,44 +496,33 @@ Nell'analisi metrica significa:
 *   **—** = ग = गुरु (guru)
 *   **×** = laghu oppure guru
 *   **/** = cesura (divisione in parole)
-:::
+:::Esempio: Bhagavadgītā 1,1:
 
-Esempio: Bhagavadgītā 1,1:
-
-::: indent
+:::indent
 धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।
 मामकाः पाण्डवाश्चैव किम् अकुर्वत संजय ॥१॥
-:::
+:::Distribuzione di लघु (laghu) e गुरु (guru):
 
-Distribuzione di लघु (laghu) e गुरु (guru):
-
-::: metrik-schema
+:::metrik-schema
 — — — —    ***◡ — — —***  ◡ ◡ — —    ***◡ — ◡ —***
-:::
-::: metrik-schema
+::::::metrik-schema
 — ◡ — —    ***◡ — — —***  ◡ ◡ — ◡    ***◡ — ◡ —***
-:::
+:::### 53.10.4. Lo śloka epico (श्लोक m.)
 
-### 53.10.4. Lo śloka epico (श्लोक m.)
-
-:::: grammar-box
+::::grammar-box
 **Mnemonica:**
 
-::: indent
+:::indent
 श्लोके षष्ठं गुरु ज्ञेयं
 सर्वत्र लघु पञ्चमम् ।
 द्विचतुष्पादयोर्ह्रस्वं
 सप्तमं दीर्घमन्ययोः ॥
-:::
-
-"Nello śloka la sesta sillaba di un pāda è pesante (guru),  
+:::"Nello śloka la sesta sillaba di un pāda è pesante (guru),  
 la quinta è leggera (laghu) in tutti i pādas.  
 La settima sillaba è breve (hrasva) nel secondo e quarto pāda, lunga (dīrgha) negli altri due."
-::::
+::::La metrica più importante nei poemi epici (महाभारत, रामायण) e in innumerevoli altre opere è lo śloka ("chiamata", "rumore", "strofa", derivato da श्रु "udire").
 
-La metrica più importante nei poemi epici (महाभारत, रामायण) e in innumerevoli altre opere è lo śloka ("chiamata", "rumore", "strofa", derivato da श्रु "udire").
-
-:::: grammar-box
+::::grammar-box
 **Lo śloka è un distico composto da emistichi di 16 sillabe ciascuno. Ogni emistico si divide ulteriormente in due semistichi (पाद) di 8 sillabe ciascuno. Ogni semistico si divide in due parti di 4 sillabe ciascuna. L'intero verso (पद्य n.) è quindi costituito da quattro पाद (m. "piede, quarto"). I quattro पाद vengono numerati con a, b, c, d (क्, ख्, ग्, घ्).**
 
 **Struttura dello śloka:**
@@ -657,56 +530,38 @@ La metrica più importante nei poemi epici (महाभारत, रामा�
 **Schema fondamentale (पथ्या):**
 
 **a = c:**
-::: metrik-schema
+:::metrik-schema
 × × × ×   ***◡ — — —***
-:::
-
-**b = d:**
-::: metrik-schema
+:::**b = d:**
+:::metrik-schema
 × × × ×   ***◡ — ◡ —***
-:::
-
-La seconda e la terza sillaba di un pāda non dovrebbero essere entrambe leggere (laghu). In b e d, la sequenza sillabica 2-4 non può essere ¯ ˘ ¯.
+:::La seconda e la terza sillaba di un pāda non dovrebbero essere entrambe leggere (laghu). In b e d, la sequenza sillabica 2-4 non può essere ¯ ˘ ¯.
 
 **Schemi secondari (विपुला) per a e c:**
 
 **विपुला 1:**
-::: metrik-schema
+:::metrik-schema
 × × × —   ◡ ◡ ◡ —
-:::
-
-**विपुला 2:**
-::: metrik-schema
+:::**विपुला 2:**
+:::metrik-schema
 × — ◡ —   — ◡ ◡ —
-:::
-
-**विपुला 3:**
-::: metrik-schema
+:::**विपुला 3:**
+:::metrik-schema
 × — ◡ —   — / — — —
-:::
-
-**विपुला 4:**
-::: metrik-schema
+:::**विपुला 4:**
+:::metrik-schema
 × × × ×   / — ◡ — —
-:::
+:::**In tutte le forme dello śloka, la cesura principale si trova alla fine del 2. पाद: vi è fine di parola o, nel caso di lunghi composti, fine di un membro del composto.**
+::::## 53.11. Esercitazione
 
-**In tutte le forme dello śloka, la cesura principale si trova alla fine del 2. पाद: vi è fine di parola o, nel caso di lunghi composti, fine di un membro del composto.**
-::::
-
-## 53.11. Esercitazione
-
-::: grammar-box
+:::grammar-box
 **Identificare, tra tutti i versi studiati finora, le ślokas. Redigere per esse lo schema metrico scritto. Segnalare eventuali irregolarità o forme Vipulā.**
-:::
-
-::: center
+::::::center
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
 Alois Maria Payer  
 श्रीगणेशाय नमः
-:::
-
-::: deleteme-box
+::::::deleteme-box
 **Fonti**
 
 **Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- 53. Lezione 53 (Vacanze semestrali). -- Versione del 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
@@ -715,9 +570,7 @@ Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19  
 Alois Maria Payer  
 श्रीगणेशाय नमः
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 
 **Payer, Alois &lt;1944 - &gt;:** Corso di sanscrito. -- Lezione 53 (Vacanze semestrali). -- Versione del 19-01-2009. -- Fonte dell'immagine della tabella originale 53.9: screenshot della fonte originale (Payer).

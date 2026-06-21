@@ -11,7 +11,7 @@ status: stable
 
 
 
-::: deleteme-box
+:::deleteme-box
 **Dalam pelajaran ini Anda akan belajar:**
 - nominatif tunggal kata benda perempuan
 - nominatif jamak kata benda laki-laki dan perempuan
@@ -19,9 +19,7 @@ status: stable
 - sandhi vokal
 - Satzsandhi von -ās
 
-:::
-
-## 3.1. Nominatif Tunggal Feminin
+:::## 3.1. Nominatif Tunggal Feminin
 
 ### 3.1.1. Nominatif Tunggal pada -s
 
@@ -29,38 +27,30 @@ Selanjutnya, stem nominal berikut yang berakhir dengan vokal membentuk Nominatif
 
 
 
-::: grammar-box
+:::grammar-box
 - **Feminina pada -i**: Contoh **śruti** f. "mendengar" -- Nom. sg.: **śrutis** = श्रुतिस्
 - **Feminina pada -u**: Contoh **dhenu** f. "sapi perah" -- Nom. sg.: **dhenus** = धेनुस्
 
-:::
-
-### 3.1.2. Nominatif Tunggal tanpa Akhiran
+:::### 3.1.2. Nominatif Tunggal tanpa Akhiran
 
 Membentuk nominatif tunggal tanpa akhiran:
 
 
 
-::: grammar-box
+:::grammar-box
 - **Feminina pada -ā**: Contoh **devatā** f. "dewa" -- Nom. sg.: **devatā** = देवता
 - **Feminina pada -ī**: Contoh **devī** f. "dewi" -- Nom. sg.: **devī** = देवी
 
-:::
-
-
-
-::: important
+::::::important
 **Perhatian!** Di samping itu, terdapat nomina akar feminin bersuku kata tunggal berakhiran -ī, yang Nominatif Singularnya berakhiran -s: misalnya dhī f. "pikiran" -- Nom. sg.: dhīs = धीस्. Lakṣmī (लक्ष्मी) f., tarī (तरी) f. "perahu", dan tantrī (तन्त्री) f. "senar" juga membentuk Nominatif Singular secara tidak beraturan dengan akhiran -s: lakṣmīs = लक्ष्मीस्.
 
-:::
-
----
+:::---
 
 ## 3.2. Pembentukan Kata Benda Gender Perempuan dari Kata Benda Gender Laki-laki
 
 
 
-::: grammar-box
+:::grammar-box
 **Maskulinum berakhiran -a:**
 - **Femininum berakhiran -ā**: mis. **kṣatriya** m. » **kṣatriyā** f. "perempuan Kṣatriya" = क्षत्रिया
 - **Femininum berakhiran -ī**: mis. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ब्राह्मणी
@@ -69,15 +59,13 @@ Membentuk nominatif tunggal tanpa akhiran:
 - **Femininum berakhiran -ī**: mis. **sādhu** m. » **sādhvī** f. (baik, orang suci) = साध्वी
   (**-u-** berubah menjadi **-v-** sebelum vokal, oleh karena itu **-u- + -ī** » **-vī**)
 
-:::
-
----
+:::---
 
 ## 3.3. Nominatif Jamak Maskulinum dan Femininum
 
 
 
-::: grammar-box
+:::grammar-box
 Akhiran Nominatif Jamak pada Maskulin dan Feminin adalah **-as**.
 - **Maskulin berakhiran -a**: **deva- + -as** » **devās** = देवास्
 - **Feminin berakhiran -ā**: **devatā- + -as** » **devatās** = देवतास्
@@ -87,23 +75,19 @@ Akhiran Nominatif Jamak pada Maskulin dan Feminin adalah **-as**.
 - **Maskulin berakhiran -u**: **guru-** » **guro- + -as** » **guravas** = गुरवस्
 - **Feminin berakhiran -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्
 
-:::
-
-Catatan: **e** adalah tingkat tinggi (**guṇa**) dari **i**, **o** adalah tingkat tinggi dari **u**.
+:::Catatan: **e** adalah tingkat tinggi (**guṇa**) dari **i**, **o** adalah tingkat tinggi dari **u**.
 
 ---
 
 ## 3.4. Sandhi Vokal
 
-::: info Etimologi dan Penjelasan
+:::info Etimologi dan Penjelasan
 **Sandhi** (Sanskerta: संधि, *saṃdhi*) secara harfiah berarti "pertemuan", "sambungan", atau "aliansi". Dalam tata bahasa Sanskerta, istilah ini mengacu pada aturan fonologis yang mengatur bagaimana bunyi-bunyi pada batas kata berinteraksi dan menyatu ketika kata-kata tersebut diucapkan secara berurutan.
 
 **Vokalsandhi** adalah subset khusus dari sandhi yang melibatkan vokal. Aturan-aturan ini menentukan bagaimana dua vokal yang bersebelahan (satu dari akhir kata pertama dan satu dari awal kata kedua) berubah atau bergabung menjadi satu vokal baru, atau tetap terpisah tergantung pada konteks fonetiknya.
 
 Tujuan dari sandhi adalah untuk memastikan kelancaran ucapan (*pratyāhāra*) dan menjaga ritme puisi serta mantra. Tanpa sandhi, ucapan Sanskerta akan terdengar patah-patah dan tidak alami.
-:::
-
-⟨DEVA_1⟩
+:::⟨DEVA_1⟩
 
 ⟨IAST_L_1⟩
 
@@ -162,16 +146,14 @@ Jika kata pertama berakhir dengan *i* atau *ī*, dan kata kedua dimulai dengan *
 
 
 
-::: grammar-box
+:::grammar-box
 **Vokal sederhana yang hanya berbeda dalam panjangnya, atau tidak berbeda sama sekali, "berfusi" menjadi vokal panjang yang sesuai:**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
 
-:::
-
-misalnya
+:::misalnya
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā adalah seorang dewi" = देवतान्नपूर्णा
 
@@ -183,26 +165,18 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī adalah seorang dewi" = द�
 
 
 
-::: media
+:::media
 ![](/images/lekt0301.webp)
 Gambar: Indra dan Indrāṇī di atas gajah Airavata, miniatur, Rājasthān, 1670/80
 (Sumber gambar: [Details](/id/licenses#lekt0301))
 
-:::
-
-
-
-::: grammar-box
+::::::grammar-box
 **Vokal sederhana (kecuali -a / -ā) diganti dengan semivokal yang sesuai sebelum vokal yang tidak serupa:**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
 (!! Terdapat pengecualian untuk aturan ini, khususnya untuk bentuk dwitunggal !!)
-:::
-
-:::
-
-misalnya
+::::::misalnya
 
 devī + umā » devy umā "Umā adalah seorang / sang Dewi" = देव्युमा
 
@@ -210,26 +184,22 @@ devī + umā » devy umā "Umā adalah seorang / sang Dewi" = देव्यु
 
 
 
-::: grammar-box
+:::grammar-box
 **-a / -ā sebelum vokal yang tidak serupa:**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
 
-:::
-
-Untuk Sandhi ini, skema berikut berlaku:
+:::Untuk Sandhi ini, skema berikut berlaku:
 
 
 
-::: media
+:::media
 ![](/images/lekt0302.jpg)
 (Sumber gambar: [Rincian](/id/licenses#lekt0302))
 
-:::
-
-Tentang tingkatan klan yang disebut ini, lihat nanti!
+:::Tentang tingkatan klan yang disebut ini, lihat nanti!
 
 misalnya
 
@@ -241,12 +211,10 @@ misalnya
 
 
 
-::: grammar-box
+:::grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 
-:::
-
-misalnya
+:::misalnya
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas adalah orang yang lahir dua kali" = द्विजा वैश्याः
 
@@ -297,14 +265,12 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas adalah orang yang lahir du
 
 
 
-::: media
+:::media
 ![](/images/lekt0303.webp)
 Gambar: Durgā = दुर्गा, Orissa
 (Sumber gambar: [Details](/images/lekt0303))
 
-:::
-
-**sādhvī** f. = साध्वी : fem. dari sādhu.
+:::**sādhvī** f. = साध्वी : fem. dari sādhu.
 
 **gurvī** f. = गुर्वी : fem. dari guru.
 

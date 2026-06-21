@@ -9,44 +9,36 @@ status: stable
 
 # Lecția 3
 
-::: deleteme-box
+:::deleteme-box
 **În această lecție veți învăța:**
 - nominativul singular al femininului
 - nominativul plural al masculinului și al femininului
 - formarea femininului din masculin
 - sandhi vocalic
 - Satzsandhi von -ās
-:::
-
-## 3.1. Nominativ singular al femininului
+:::## 3.1. Nominativ singular al femininului
 
 ### 3.1.1. Nominativul singular terminat în -s
 
 De asemenea, următoarele teme nominal care se termină cu o vocală, formează Nominativul Singular în **-s**:
 
-::: grammar-box
+:::grammar-box
 - **Feminina pe -i**: ex. **śruti** f. "ascultarea" -- Nom. sg.: **śrutis** = श्रुतिस्
 - **Feminina pe -u**: ex. **dhenu** f. "vacă de lapte" -- Nom. sg.: **dhenus** = धेनुस्
-:::
-
-### 3.1.2. Nominativ Singular fără sufix
+:::### 3.1.2. Nominativ Singular fără sufix
 
 Nominativul singular se formează fără sufix:
 
-::: grammar-box
+:::grammar-box
 - **Feminine în -ā**: ex. **devatā** f. "zeitate" -- Nom. sg.: **devatā** = देवता
 - **Feminine în -ī**: ex. **devī** f. "zeiță" -- Nom. sg.: **devī** = देवी
-:::
-
-::: important
+::::::important
 **Atenție!** Există, de asemenea, substantive de rădăcină feminine monosilabice în -ī, ale căror nominativ singular se termină în -s: ex. dhī f. "gând" -- Nom. sg.: dhīs = धीस्. De asemenea, lakṣmī (लक्ष्मी) f., tarī (तरी) f. "barcă" și tantrī (तन्त्री) f. "coardă" formează irregulat nominativul singular în -s: lakṣmīs = लक्ष्मीस्.
-:::
-
----
+:::---
 
 ## 3.2. Formarea femininelor la masculine
 
-::: grammar-box
+:::grammar-box
 **Masculine în -a:**
 - **Feminin în -ā**: ex. **kṣatriya** m. » **kṣatriyā** f. „femeie Kṣatriya” = क्षत्रिया
 - **Feminin în -ī**: ex. **brāhmaṇa** m. » **brāhmaṇī** f. „Brahmană” = ब्राह्मणी
@@ -54,13 +46,11 @@ Nominativul singular se formează fără sufix:
 **Masculine în -u:**
 - **Feminin în -ī**: ex. **sādhu** m. » **sādhvī** f. (bun, sfânt) = साध्वी
   (**-u-** devine **-v-** înainte de vocală, prin urmare **-u- + -ī** » **-vī**)
-:::
-
----
+:::---
 
 ## 3.3. Nominativ plural masculin și feminin
 
-::: grammar-box
+:::grammar-box
 Sufixul nominativului plural la masculin și feminin este **-as**.
 - **Masculine în -a**: **deva- + -as** » **devās** = देवास्
 - **Feminine în -ā**: **devatā- + -as** » **devatās** = देवतास्
@@ -69,23 +59,19 @@ Sufixul nominativului plural la masculin și feminin este **-as**.
 - **Feminine în -ī**: **devī- + -as** » **devyas** = देव्यस्
 - **Masculine în -u**: **guru-** » **guro- + -as** » **guravas** = गुरवस्
 - **Feminine în -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्
-:::
-
-Notă: **e** este gradul ridicat (**guṇa**) al lui **i**, **o** este gradul ridicat al lui **u**.
+:::Notă: **e** este gradul ridicat (**guṇa**) al lui **i**, **o** este gradul ridicat al lui **u**.
 
 ---
 
 ## 3.4. Sandhi vocalic
 
-::: grammar-box
+:::grammar-box
 **Vocale simple care nu se deosebesc sau doar în lungime, „se contopesc” în corespunzătorul vocal lung:**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
-:::
-
-de ex.
+:::de ex.
 
 devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇā este o zeitate” = देवतान्नपूर्णा
 
@@ -95,42 +81,34 @@ devī + indrāṇī » devīndrāṇī „Indrāṇī este o zeiță” = दे
 
 > (Indrāṇī este soția zeului Indra.)
 
-::: media
+:::media
 ![](/images/lekt0301.webp)
 Fig.: Indra și Indrāṇī pe elefantul Airavata, miniatură, Rājasthān, 1670/80
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0301))
-:::
-
-::: grammar-box
+::::::grammar-box
 **Vocale simple (în afară de -a / -ā) sunt înlocuite, în fața unor vocale neasemănătoare, cu corespunzătorul semivocal:**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
 (!! Există excepții pentru această regulă, în special pentru formele de dual !!)
-:::
-
-de ex.
+:::de ex.
 
 devī + umā » devy umā „Umā este o / zeița” = देव्युमा
 
 > (Umā este un nume pentru Pārvatī, soția lui Śiva)
 
-::: grammar-box
+:::grammar-box
 **-a / -ā în fața unui vocal neasemănător:**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
-:::
+:::Pentru acest tip de sandhi se aplică următorul model:
 
-Pentru acest tip de sandhi se aplică următorul model:
-
-::: media
+:::media
 ![](/images/lekt0302.jpg)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0302))
-:::
-
-Referitor la această așa-numită inflexiune a temei, vezi mai târziu!
+:::Referitor la această așa-numită inflexiune a temei, vezi mai târziu!
 
 de ex.
 
@@ -140,11 +118,9 @@ de ex.
 
 ## 3.5. Satzsandhi de -ās
 
-::: grammar-box
+:::grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
-:::
-
-de exemplu
+:::de exemplu
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaișyș sunt de două ori născuți" = द्विजा वैश्याः
 
@@ -193,13 +169,11 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaișyș sunt de două ori născuț
 
 **devī** f. = देवी : zeiță, în special Durgā f. = दुर्गा, soția lui Śiva = शिव.
 
-::: media
+:::media
 ![](/images/lekt0303.webp)
 Fig.: Durgā = दुर्गा, Orissa
 (Sursa imaginii: [Detalii](/images/lekt0303))
-:::
-
-**sādhvī** f. = साध्वी : fem. pentru sādhu.
+:::**sādhvī** f. = साध्वी : fem. pentru sādhu.
 
 **gurvī** f. = गुर्वी : fem. pentru guru.
 

@@ -107,13 +107,11 @@ Parce qu'elle voulait entendre le Dharma, la Brahmane est allée dans la grande 
 धर्मेण हीनाः पशुभिः समानाः ॥  
 Manger, dormir, avoir peur et avoir des relations sexuelles sont communs aux humains et au bétail. La différence distinctive des humains réside dans le dharma. Sans dharma, ils sont égaux au bétail.
 
-::: media
+:::media
 ![](/images/uebung035.webp)
 Fig. : आहारनिद्राभयमैथुनं च
 (Source de l'image : [Détails](/fr/licenses#uebung035))
-:::
-
----
+:::---
 
 ## Exercices supplémentaires
 
@@ -169,7 +167,7 @@ B) Déclinez **क्षत्रिया** (f.) dans tous les cas que vous con
 
 C) Donnez les formes de base (sens, classe de présent, mode, 3e sg. présent indicatif, 3e sg. passif, PPP, absolutifs, infinitif) pour les verbes suivants :
 
-::: grammar-box
+:::grammar-box
 १. **सह्** (1Ā, supporter)
 
 | Forme | Valeur |
@@ -213,9 +211,7 @@ C) Donnez les formes de base (sens, classe de présent, mode, 3e sg. présent in
 | Absolutif 1 | हत्वा |
 | Absolutif 2 | -हत्य |
 | Infinitif | हन्तुम् |
-:::
-
-::: media
+::::::media
 ![](/images/uebung036.webp)
 Fig. : बालाः पिबन्ति
 (Source de l'image : [Détails](/fr/licenses#uebung036))

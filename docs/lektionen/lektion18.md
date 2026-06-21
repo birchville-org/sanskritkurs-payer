@@ -5,16 +5,14 @@ lesson_id: 18
 
 # Lektion 18
 
-## 18.1. सुभाषितम्
+## 18.1. ⟪सुभाषितम्⟫
 
-::: indent
-नास्ति कामसमो व्याधिर्  
-नास्ति मोहसमो रिपुः ।  
-नास्ति क्रोधसमो वह्निर्  
-नास्ति ज्ञानसमं सुखम् ॥
-:::
-
-## 18.2. Determinativkomposita (तत्पुरुष) mit adverbialem Vorderglied
+:::indent
+⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
+⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
+⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
+⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
+:::## 18.2. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
 
 Als adverbiales (nichtdeklinierbares) Vorderglied können
 
@@ -23,67 +21,57 @@ Als adverbiales (nichtdeklinierbares) Vorderglied können
 *   Partikel
 *   andere Indeklinabilia
 
-::: indent
-verwendet werden. Solche Tatpuruṣa gehören meist zur Klasse der Nityasamāsa = नित्यसमास (m. "ständiges Kompositum"), d.h. der Komposita, die man überhaupt nicht oder nicht nur mittels der im Kompositum selbst vorkommenden Wörter auflösen kann.
-:::
+:::indent
+verwendet werden. Solche Tatpuruṣa gehören meist zur Klasse der Nityasamāsa = ⟪नित्यसमास⟫ (m. "ständiges Kompositum"), d.h. der Komposita, die man überhaupt nicht oder nicht nur mittels der im Kompositum selbst vorkommenden Wörter auflösen kann.
+:::Beispiele:
+
+⟪अति⟫ "darüber hinaus":
+
+:::indent
+⟪अतिगुरु⟫ 3: überaus schwer, überaus gewichtig
+
+⟪अतिपुरुष⟫ m.: überragender Mann, Superman, Held
+
+⟪अतिस्तुति⟫ f.: übermäßiges Lob
+
+⟪अत्युक्ति⟫ f.: übermäßiges Sprechen, Übertreibung
+:::Die wichtigsten adverbialen Vorderglieder sind a-/an-, su-, dus-.
+
+⟪अ⟫ (vor Konsonant), ⟪अन्⟫ (vor Vokal): un-: steht im Kompositum anstelle von ⟪न⟫ "nicht".
 
 Beispiele:
 
-अति "darüber hinaus":
+:::indent
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): Unwahrheit, Lüge
 
-::: indent
-अतिगुरु 3: überaus schwer, überaus gewichtig
+⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: nicht getan, ungetan
 
-अतिपुरुष m.: überragender Mann, Superman, Held
+⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : eine Nichtbrahmanin, Unbrahmanin
 
-अतिस्तुति f.: übermäßiges Lob
-
-अत्युक्ति f.: übermäßiges Sprechen, Übertreibung
-:::
-
-Die wichtigsten adverbialen Vorderglieder sind a-/an-, su-, dus-.
-
-अ (vor Konsonant), अन् (vor Vokal): un-: steht im Kompositum anstelle von न "nicht".
+⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : ein Nichtgott, Ungott
+:::⟪सु⟫ "wohl, gut"; wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) ersetzt.
 
 Beispiele:
 
-::: indent
-अनृत n. = नर्तम् (= न + ऋतम्): Unwahrheit, Lüge
+:::indent
+⟪सुकवि⟫ m.: ein guter Dichter
 
-अकृत 3 = न कृत 3: nicht getan, ungetan
+⟪सुकृत⟫ n.: gute Tat
 
-अब्राह्मणी f. = न ब्राह्मणी : eine Nichtbrahmanin, Unbrahmanin
+⟪सुखादित⟫ 3: gut gekaut
 
-अदेव m. = न देवः : ein Nichtgott, Ungott
-:::
-
-सु "wohl, gut"; wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. सुष्टु 3, शोभन 3) ersetzt.
+⟪सुदुःख⟫ n.: großes Leid
+:::⟪दुस्⟫ "übel, schlecht" (Sandhi beachten!).
 
 Beispiele:
 
-::: indent
-सुकवि m.: ein guter Dichter
+:::indent
+⟪दुर्नय⟫ m.: schlechte Führung, schlechtes Betragen
 
-सुकृत n.: gute Tat
+⟪दुष्करण⟫ n.: schlechte Tat, schwierige Tat
+:::Dabei gilt folgendes Gesetz:
 
-सुखादित 3: gut gekaut
-
-सुदुःख n.: großes Leid
-:::
-
-दुस् "übel, schlecht" (Sandhi beachten!).
-
-Beispiele:
-
-::: indent
-दुर्नय m.: schlechte Führung, schlechtes Betragen
-
-दुष्करण n.: schlechte Tat, schwierige Tat
-:::
-
-Dabei gilt folgendes Gesetz:
-
-:::: grammar-box
+::::grammar-box
 
 Lautveränderung von -s in Komposita
 
@@ -91,310 +79,276 @@ Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita:
 
 \-s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ
 
-Deshalb: दुष्करण
+Deshalb: ⟪दुष्करण⟫
 
-::::
+::::### 18.2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
 
-### 18.2.1. Komposita vom Typ सुकर / दुष्कर
+::::grammar-box
 
-:::: grammar-box
-
-Komposita vom Typ सुकर / दुष्कर haben hauptsächlich die Bedeutung der passiven Möglichkeit:
+Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫ haben hauptsächlich die Bedeutung der passiven Möglichkeit:
 
 Beispiele:
 
-::: indent
-सुकर 3: leicht zu tun
+:::indent
+⟪सुकर⟫ 3: leicht zu tun
 
-सुगम 3: leicht zu gehen
+⟪सुगम⟫ 3: leicht zu gehen
 
-दुर्गम 3: schwer zu gehen
+⟪दुर्गम⟫ 3: schwer zu gehen
 
-सुदुर्गम 3: sehr schwer zu gehen
-:::
-
-::::
-
-### 18.2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
+⟪सुदुर्गम⟫ 3: sehr schwer zu gehen
+:::::::### 18.2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
 
 Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
 
-1.  Ähnlichkeit (तत्सादृश्यम्):  
-    अब्राह्मणः = ein Kṣatriya oder Vaiśya, der die heilige Schnur (यज्ञोपवीत n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein
-2.  Fehlen, Nichtvorhandensein (तदभावः):  
-    अज्ञानम् = Unwissenheit (Fehlen von Wissen)
-3.  Andersheit (तदन्यत्वम्):  
-    अपटम् = etwas, das kein Stoff / Gewand (पट m: Gewebe, Gewand) ist
-4.  Kleinheit (तदल्पता):  
-    अनुदरम् = ein kleiner Bauch (ein Nicht-Bauch)
-5.  Missbilligung (अप्राशास्त्यम्):  
-    अकालः = Unzeit
-6.  Feindschaft (निरोधः):  
-    असुरः = Gegengott (nach der falschen Etymologie a-sura)
+1.  Ähnlichkeit (⟪तत्सादृश्यम्⟫):  
+    ⟪अब्राह्मणः⟫ = ein Kṣatriya oder Vaiśya, der die heilige Schnur (⟪यज्ञोपवीत⟫ n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein
+2.  Fehlen, Nichtvorhandensein (⟪तदभावः⟫):  
+    ⟪अज्ञानम्⟫ = Unwissenheit (Fehlen von Wissen)
+3.  Andersheit (⟪तदन्यत्वम्⟫):  
+    ⟪अपटम्⟫ = etwas, das kein Stoff / Gewand (⟪पट⟫ m: Gewebe, Gewand) ist
+4.  Kleinheit (⟪तदल्पता⟫):  
+    ⟪अनुदरम्⟫ = ein kleiner Bauch (ein Nicht-Bauch)
+5.  Missbilligung (⟪अप्राशास्त्यम्⟫):  
+    ⟪अकालः⟫ = Unzeit
+6.  Feindschaft (⟪निरोधः⟫):  
+    ⟪असुरः⟫ = Gegengott (nach der falschen Etymologie a-sura)
 
 Folgender Vers fasst diese Bedeutungen zusammen:
 
-::: indent
-तत्सादृश्यमभावश्च  
-तदन्यत्वं तदल्पता ।  
-अप्राशास्त्यं निरोधश्च  
-नजर्थाः षट्प्रकीर्तिताः ॥
+:::indent
+⟪तत्सादृश्यमभावश्च⟫  
+⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
+⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
+⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
 
 Man nennt sechs Bedeutungen von nañ (= a-/an-) ....
-:::
+:::## 18.3. Verbalkomposita
 
-## 18.3. Verbalkomposita
+::::grammar-box
 
-:::: grammar-box
-
-::: indent
-उपसर्गेण धात्वर्थो  
-बलादन्यत्र नीयते ।  
-गङ्गासलिलमाधुर्यं  
-सागरेण यथाम्भसा ॥
-:::
-
-चन्द्रकीर्ति : प्रसन्नपदा S. 2 Zl. 14f.
+:::indent
+⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
+⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
+⟪गङ्गासलिलमाधुर्यं⟫  
+⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
+:::⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ S. 2 Zl. 14f.
 
 Durch ein Präverb wird die Bedeutung einer Wurzel gewaltsam verändert, so wie die Süße des Gangeswassers durch Meerwasser.
 
-::::
+::::::::grammar-box
 
-:::: grammar-box
+Verben können im Sanskrit mit Präverben (⟪उपसर्ग⟫ m.) verbunden werden. Dabei gilt meist der Satzsandhi. Präverbe können die Bedeutung der Wurzel u. U. bedeutend modifizieren, sodass in vielen Fällen die Bedeutung einer Wurzel mit Präverb gesondert gelernt werden muss. Verben mit Präverb können einen anderen Modus (P, Ā) haben als die einfache Wurzel. Vor eine Wurzel können gleichzeitig mehrere Präverbe gesetzt werden.
 
-Verben können im Sanskrit mit Präverben (उपसर्ग m.) verbunden werden. Dabei gilt meist der Satzsandhi. Präverbe können die Bedeutung der Wurzel u. U. bedeutend modifizieren, sodass in vielen Fällen die Bedeutung einer Wurzel mit Präverb gesondert gelernt werden muss. Verben mit Präverb können einen anderen Modus (P, Ā) haben als die einfache Wurzel. Vor eine Wurzel können gleichzeitig mehrere Präverbe gesetzt werden.
+::::Einige wichtige Präverbe sind:
 
-::::
-
-Einige wichtige Präverbe sind:
-
-उप "zu, hin, gegen"
+⟪उप⟫ "zu, hin, gegen"
 
 Beispiele:
 
-::: indent
-उपगम् 1 उपगच्छति : hingehen, darangehen
+:::indent
+⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : hingehen, darangehen
 
-उपदिश् 6 उपदिशति : hinweisen, belehren, anraten
+⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : hinweisen, belehren, anraten
 
-उपपद् 4 Ā उपपद्यते : hingelangen
+⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : hingelangen
 
-*   PPP उपपन्न 3: ausgestattet mit (Instrumentalis)
+*   PPP ⟪उपपन्न⟫ 3: ausgestattet mit (Instrumentalis)
 
-उपलभ् 1 Ā उपलभते : erfassen, erlangen
-:::
-
-प्र "vorwärts, hervor"
+⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : erfassen, erlangen
+:::⟪प्र⟫ "vorwärts, hervor"
 
 Beispiele:
 
-::: indent
-प्राप् (pra-āp) 5 प्राप्नोति : erlangen
+:::indent
+⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : erlangen
 
-प्रदिश् 6 प्रदिशति : zeigen
+⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : zeigen
 
-प्रबुध् 4 Ā प्रबुध्यते : aufwachen, erkennen
+⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : aufwachen, erkennen
 
-प्रभू 1 प्रभवति : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.)
 
-प्रवच् 2 प्रवक्ति PPP प्रोक्त (« pra + ukta) : erklären, mitteilen, aussprechen
+⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : erklären, mitteilen, aussprechen
 
-प्रवद् 1 प्रवदति : aussprechen, bezeichnen als, erklären für
+⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : aussprechen, bezeichnen als, erklären für
 
-प्रस्तु 2 प्रस्तौति : preisen vor, laut preisen, auf etwas zu sprechen kommen, beginnen
-:::
-
-वि "auseinander, weg, zer-, ver-"
+⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : preisen vor, laut preisen, auf etwas zu sprechen kommen, beginnen
+:::⟪वि⟫ "auseinander, weg, zer-, ver-"
 
 Beispiele:
 
-::: indent
-विगम् 1 विगच्छति : auseinandergehen, vergehen, verschwinden
+:::indent
+⟪विगम्⟫ 1 ⟪विगच्छति⟫ : auseinandergehen, vergehen, verschwinden
 
-विजि 1 Ā (!) विजयते : besiegen
+⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : besiegen
 
-विमुच् 6 विमुञ्चति : ablösen, befreien
+⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : ablösen, befreien
 
-विवद् 1 विवदति : disputieren, auseinandersetzen, erzählen
+⟪विवद्⟫ 1 ⟪विवदति⟫ : disputieren, auseinandersetzen, erzählen
 
-विस्मृ 1 विस्मरति : vergessen
+⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : vergessen
 
-विहन् 2 विहन्ति : zerschlagen, zerstören, vernichten
-:::
-
-सम् "zusammen, mit"
+⟪विहन्⟫ 2 ⟪विहन्ति⟫ : zerschlagen, zerstören, vernichten
+:::⟪सम्⟫ "zusammen, mit"
 
 Beispiele:
 
-::: indent
-समास् 2 Ā समास्ते : zusammensitzen, sich aufhalten, wohnen
+:::indent
+⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : zusammensitzen, sich aufhalten, wohnen
 
-समि 2 समेति : zusammenkommen, sich vereinigen
+⟪समि⟫ 2 ⟪समेति⟫ : zusammenkommen, sich vereinigen
 
-संगम् 1 Ā (!) संगच्छते : zusammenkommen, aufeinandertreffen (freundlich oder feindlich), Geschlechtsverkehr haben mit (Akk.)
+⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : zusammenkommen, aufeinandertreffen (freundlich oder feindlich), Geschlechtsverkehr haben mit (Akk.)
 
-संजन् 4 Ā संजायते : entstehen
+⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : entstehen
 
-*   PPP संजात 3: geboren, entstanden, geworden
+*   PPP ⟪संजात⟫ 3: geboren, entstanden, geworden
 
-सम्बुध् 4 Ā सम्बुध्यते : vollständig erwachen (zur Wahrheit)
+⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : vollständig erwachen (zur Wahrheit)
 
-सम्पद् 4 Ā सम्पद्यते : jemandem zuteil werden, gelingen
+⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : jemandem zuteil werden, gelingen
 
-*   PPP सम्पन्न 3: versehen mit (Instr.)
-:::
+*   PPP ⟪सम्पन्न⟫ 3: versehen mit (Instr.)
+:::::::grammar-box
 
-:::: grammar-box
+Die Wurzel ⟪कृ⟫ "tun" zeigt in Verbindung mit den Präverben ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ auch die Form ⟪स्कृ⟫
 
-Die Wurzel कृ "tun" zeigt in Verbindung mit den Präverben सम् । उप । अप । परि auch die Form स्कृ
+::::Beispiel:
 
-::::
+:::indent
+sam-kṛ 8 ⟪संस्करोति⟫ : zubereiten, fürs Opfer zubereiten, weihen
 
-Beispiel:
+*   PPP ⟪संस्कृत⟫ 3: fürs Opfer zubereitet ; ⟪संस्कृत⟫ n.: Sanskrit: die fürs Opfer geeignete Sprache ; Gegenstück ⟪प्राकृत⟫ 3: gewöhnlich, ordinär ; ⟪प्राकृत⟫ n.: gewöhnliche Sprache, Prakrit (Bezeichnung für die Volks- und Verkehrssprachen, die mit dem Sanskrit verwandt sind)
+:::### 18.3.1. Nominalbildungen zu Verbalkomposita
 
-::: indent
-sam-kṛ 8 संस्करोति : zubereiten, fürs Opfer zubereiten, weihen
-
-*   PPP संस्कृत 3: fürs Opfer zubereitet ; संस्कृत n.: Sanskrit: die fürs Opfer geeignete Sprache ; Gegenstück प्राकृत 3: gewöhnlich, ordinär ; प्राकृत n.: gewöhnliche Sprache, Prakrit (Bezeichnung für die Volks- und Verkehrssprachen, die mit dem Sanskrit verwandt sind)
-:::
-
-### 18.3.1. Nominalbildungen zu Verbalkomposita
-
-:::: grammar-box
+::::grammar-box
 
 Von Wurzeln mit Präverben können mittels kṛt-Suffixen Nomina gebildet werden.
 
-::::
+::::Beispiele:
 
-Beispiele:
+sam-kṛ + -a = ⟪संस्कार⟫ m.: Weihe, Zubereitung ; Übergangsrituale = Bezeichnung für die Zeremonien, die die verschiedenen Lebensabschnitte von der Empfängnis bis zum Tod begleiten (s. dazu die ausgezeichnete Zusammenfassung bei Basham, Wonder S. 160 - 170!)
 
-sam-kṛ + -a = संस्कार m.: Weihe, Zubereitung ; Übergangsrituale = Bezeichnung für die Zeremonien, die die verschiedenen Lebensabschnitte von der Empfängnis bis zum Tod begleiten (s. dazu die ausgezeichnete Zusammenfassung bei Basham, Wonder S. 160 - 170!)
-
-::: media
+:::media
 ![](/images/lekt1804.webp)
-Abb.: विवाहः
-Hochzeit = विवाह m., ein wichtiger संस्कारः
+Abb.: ⟪विवाहः⟫
+Hochzeit = ⟪विवाह⟫ m., ein wichtiger ⟪संस्कारः⟫
 (Bildquelle: [Details](/licenses#lekt1804))
-:::
+:::upa-nī + -ana = ⟪उपनयन⟫ n.: das Heranführen (ans Opferfeuer) = Zeremonie, bei der den männlichen Angehörigen der drei oberen Stände die heilige Schnur (⟪यज्ञोपवीत⟫ n.) angelegt wird sowie der hl. Vers ⟪सावित्री⟫ ins Ohr geflüstert wird, den sie von nun an täglich bei Sonnenauf- und Sonnenuntergang rezitieren. Für die Brahmanen ist das Ṛgveda III.62.10:
 
-upa-nī + -ana = उपनयन n.: das Heranführen (ans Opferfeuer) = Zeremonie, bei der den männlichen Angehörigen der drei oberen Stände die heilige Schnur (यज्ञोपवीत n.) angelegt wird sowie der hl. Vers सावित्री ins Ohr geflüstert wird, den sie von nun an täglich bei Sonnenauf- und Sonnenuntergang rezitieren. Für die Brahmanen ist das Ṛgveda III.62.10:
-
-::: indent
+:::indent
 "Mögen wir den vorzüglichen Glanz des Gottes 'Antreiber' empfangen, der unsere Gedanken in Bewegung setzen möge."
-:::
+:::Durch das Upanayana geschieht die zweite Geburt, deshalb: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
 
-Durch das Upanayana geschieht die zweite Geburt, deshalb: द्विज । द्विजाति
-
-::: media
+:::media
 ![](/images/lekt1801.webp)
-Abb.: उपनयनम्
+Abb.: ⟪उपनयनम्⟫
 "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
 (Bildquelle: [Details](/licenses#lekt1801))
-:::
+:::## 18.4. Wortliste
 
-## 18.4. Wortliste
+⟪सुष्टु⟫ 3: hochgepriesen, ausgezeichnet, gut
 
-सुष्टु 3: hochgepriesen, ausgezeichnet, gut
+⟪शोभन⟫ 3: glänzend, prächtig, herrlich, schön, gut
 
-शोभन 3: glänzend, prächtig, herrlich, schön, gut
+⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis)
 
-सम 3: gleich, eben, ähnlich (mit Instrumentalis)
+⟪व्याधि⟫ m.: Krankheit
 
-व्याधि m.: Krankheit
+⟪रिपु⟫ m. = ⟪शत्रु⟫ , Betrüger
 
-रिपु m. = शत्रु , Betrüger
+⟪वह्नि⟫ m. = ⟪अग्नि⟫
 
-वह्नि m. = अग्नि
+⟪ज्ञान⟫ n.: Erkenntnis
 
-ज्ञान n.: Erkenntnis
+⟪शूर⟫ 3: tapfer, heldenhaft ; m.: Held
 
-शूर 3: tapfer, heldenhaft ; m.: Held
+⟪शब्द⟫ m.: Laut, Ton, Signallaut: Wort
 
-शब्द m.: Laut, Ton, Signallaut: Wort
+⟪उदक⟫ n.: Wasser
 
-उदक n.: Wasser
+⟪अन्त⟫ m.: Ende, Grenze
 
-अन्त m.: Ende, Grenze
+⟪आदि⟫ m.: Anfang
 
-आदि m.: Anfang
+⟪दण्ड⟫ m.: Stock, Prügel, Strafe
 
-दण्ड m.: Stock, Prügel, Strafe
+⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Maß, Begrenzung
 
-मात्रा f. मात्र n.: Maß, Begrenzung
+⟪सहित⟫ 3: vereinigt, versehen mit
 
-सहित 3: vereinigt, versehen mit
+⟪हस्त⟫ m.: Hand
 
-हस्त m.: Hand
-
-प्रभृति f.: Anfang
+⟪प्रभृति⟫ f.: Anfang
 
 ## 18.5. Übung
 
-A) Übersetzen Sie das सुभाषित am Beginn der Lektion.
+A) Übersetzen Sie das ⟪सुभाषित⟫ am Beginn der Lektion.
 
 B) Übersetzen Sie folgende Tatpuruṣa:
 
-१. सुकर ३
+⟪१⟫. ⟪सुकर⟫ ⟪३⟫
 
-२. सुकुल n.
+⟪२⟫. ⟪सुकुल⟫ n.
 
-३. सुकृती f.
+⟪३⟫. ⟪सुकृती⟫ f.
 
-४. अकरण n.
+⟪४⟫. ⟪अकरण⟫ n.
 
-५. दुरिष्ट n.
+⟪५⟫. ⟪दुरिष्ट⟫ n.
 
-६. दुरिष्टि f.
+⟪६⟫. ⟪दुरिष्टि⟫ f.
 
-७. सुखादित 3
+⟪७⟫. ⟪सुखादित⟫ 3
 
-८. दुष्कर 3
+⟪८⟫. ⟪दुष्कर⟫ 3
 
-९. दुर्जय 3
+⟪९⟫. ⟪दुर्जय⟫ 3
 
-१०. सुगत m.
+⟪१०⟫. ⟪सुगत⟫ m.
 
-११. सुजन m.
+⟪११⟫. ⟪सुजन⟫ m.
 
-१२. दुरुक्ति f.
+⟪१२⟫. ⟪दुरुक्ति⟫ f.
 
-१३. दुरुपदेश m.
+⟪१३⟫. ⟪दुरुपदेश⟫ m.
 
-१४. सुजात 3
+⟪१४⟫. ⟪सुजात⟫ 3
 
-१५. सुगुरु 3
+⟪१५⟫. ⟪सुगुरु⟫ 3
 
-१६. अनाप्त 3
+⟪१६⟫. ⟪अनाप्त⟫ 3
 
-१७. अनीति f.
+⟪१७⟫. ⟪अनीति⟫ f.
 
-१८. अनीश्वरत्व n.
+⟪१८⟫. ⟪अनीश्वरत्व⟫ n.
 
-१९. सुदुःख n.
+⟪१९⟫. ⟪सुदुःख⟫ n.
 
-२०. दुर्जन m.
+⟪२०⟫. ⟪दुर्जन⟫ m.
 
-२१. दुर्दग्ध 3
+⟪२१⟫. ⟪दुर्दग्ध⟫ 3
 
-२२. अतिकृत 3
+⟪२२⟫. ⟪अतिकृत⟫ 3
 
-२३. सुपुत्र m.
+⟪२३⟫. ⟪सुपुत्र⟫ m.
 
-२४. सुबुद्धि f.
+⟪२४⟫. ⟪सुबुद्धि⟫ f.
 
-२५. दुष्पुत्र m.
+⟪२५⟫. ⟪दुष्पुत्र⟫ m.
 
-२६. दुष्प्रणीत 3
+⟪२६⟫. ⟪दुष्प्रणीत⟫ 3
 
-२७. सुमति f.
+⟪२७⟫. ⟪सुमति⟫ f.
 
-२८. दुर्लभ 3
+⟪२८⟫. ⟪दुर्लभ⟫ 3
 
-२९. दुर्वच 3
+⟪२९⟫. ⟪दुर्वच⟫ 3
 
-३०. दुर्वचन n.
+⟪३०⟫. ⟪दुर्वचन⟫ n.
 
-३१. अमृत n.
+⟪३१⟫. ⟪अमृत⟫ n.
 
 ## 18.6. Wiederholungsübung
 
@@ -402,32 +356,30 @@ Bitte keine Hilfsmittel benutzen!
 
 A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvorschläge:
 
-१. अन्तगत 3
+⟪१⟫. ⟪अन्तगत⟫ 3
 
-२. क्षमाकर 3
+⟪२⟫. ⟪क्षमाकर⟫ 3
 
-३. क्षेमेन्द्र m.
+⟪३⟫. ⟪क्षेमेन्द्र⟫ m.
 
-४. शस्त्रकोपनिरोध m.
+⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m.
 
-५. सिंहसंहनन n.
+⟪५⟫. ⟪सिंहसंहनन⟫ n.
 
-६. अरिसिंह m.
+⟪६⟫. ⟪अरिसिंह⟫ m.
 
-७. आहारनिद्राभय n.
+⟪७⟫. ⟪आहारनिद्राभय⟫ n.
 
-८. मृतिसाधनी f.
+⟪८⟫. ⟪मृतिसाधनी⟫ f.
 
-९. कुलोपदेश m.
+⟪९⟫. ⟪कुलोपदेश⟫ m.
 
-::: media
+:::media
 ![](/images/lekt1802.webp)
-Abb.: मृतिसाधनी काली
+Abb.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Print
 (Bildquelle: [Details](/licenses#lekt1802))
-:::
-
-B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
+:::B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
 
 1\. Der Brahmane preist die Göttinnen.
 
@@ -441,26 +393,24 @@ B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
 
 6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger.
 
-::: media
+:::media
 ![](/images/lekt1803.webp)
-Abb.: सुगतः
-गन्धार 1./2. Jhdt. n. Chr.
+Abb.: ⟪सुगतः⟫
+⟪गन्धार⟫ 1./2. Jhdt. n. Chr.
 (Bildquelle: [Details](/licenses#lekt1803))
-:::
-
-C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
+:::C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
 
 D) Übersetzen Sie:
 
-(धर्मः) सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥
+(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt1801:** "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya." [Bildquelle: Nagesh Rao / Wikipedia, GNU FDLicense]
 
 **lekt1802:** 1770 Print [Bildquelle: Wikipedia, Public domain]
 
-**lekt1803:** गन्धार 1./2. Jhdt. n. Chr. [Bildquelle: Wikipedia, Public domain]
+**lekt1803:** ⟪गन्धार⟫ 1./2. Jhdt. n. Chr. [Bildquelle: Wikipedia, Public domain]
 
-**lekt1804:** Hochzeit = विवाह m., ein wichtiger संस्कारः [Bildquelle: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt1804:** Hochzeit = ⟪विवाह⟫ m., ein wichtiger ⟪संस्कारः⟫ [Bildquelle: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 :::

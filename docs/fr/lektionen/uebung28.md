@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formez le causatif des formes verbales et des formes participiales suivantes :
 
-::: grammar-box
+:::grammar-box
 
 ### १. Avec une racine de niveau de guṇa élevé
 
@@ -45,9 +45,7 @@ A) Formez le causatif des formes verbales et des formes participiales suivantes 
 | स्रक्ष्यति | सर्जयिष्यति |
 | लिम्पन्ति | लेपयन्ति |
 | वृद्धाः | वर्धिताः |
-:::
-
-::: grammar-box
+::::::grammar-box
 
 ### २. Avec la racine à voyelle allongée (Vṛddhi)
 
@@ -92,9 +90,7 @@ A) Formez le causatif des formes verbales et des formes participiales suivantes 
 | सोढायाः | साहितायाः |
 | हरन्ती | हारयन्ती |
 | ऊढया | वाहितया |
-:::
-
-::: grammar-box
+::::::grammar-box
 
 ### ३. Causatif en -पय (et formes spéciales)
 
@@ -108,9 +104,7 @@ A) Formez le causatif des formes verbales et des formes participiales suivantes 
 | हन् | घातयति | faire tuer, faire périr |
 | जि | जापयति | faire triompher |
 | जीव् | जीवयति | animer |
-:::
-
-B) Traduisez les phrases suivantes et formez, à l'aide des verbes simples, des phrases exprimant ce qui se produit lorsque ce qui est exprimé par le causatif est réalisé.
+:::B) Traduisez les phrases suivantes et formez, à l'aide des verbes simples, des phrases exprimant ce qui se produit lorsque ce qui est exprimé par le causatif est réalisé.
 
 १. **शत्रुजयाय क्षत्रियो ब्राह्मणेन हरिहरं याजयित्वारीन्योत्स्यते ॥१॥**
 Le Kṣatriya, pour vaincre les ennemis, a fait honorer Hari et Hara par un Brahmane avec un sacrifice, et combattra les ennemis.
@@ -152,7 +146,7 @@ Pour conquérir des richesses, le grand Kṣatriya fera observer des vœux aux c
 Pour les affranchir du mal, le Bouddha fait que les personnes nobles comprennent les nobles vérités.
 (Base : **आर्यजना आर्यसत्यानि बुध्यन्ते ।**)
 
-::: media
+:::media
 ![](/images/uebung045.webp)
 Fig. : गर्भगृहे देवीप्रतिमा दर्श्यते
 (Source de l'image : [Détails](/fr/licenses#uebung045))

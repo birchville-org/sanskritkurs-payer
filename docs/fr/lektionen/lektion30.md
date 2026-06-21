@@ -11,7 +11,7 @@ status: stable
 
 ## 30.1. La 9e classe de présent (क्र्यादि = "क्री etc.")
 
-::: grammar-box
+:::grammar-box
 **Formation :**
 
 *   radical fort : racine au degré zéro + -nā-
@@ -21,66 +21,52 @@ status: stable
     *   devant consonne : racine au degré zéro + -nī-
         
     *   devant voyelle : racine au degré zéro + -n-
-:::
-        
+:::Exemple :
 
-Exemple :
-
-::: indent
+:::indent
 क्री 9U "acheter"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | |Singulier[[br]]एकवचन|Pluriel[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3e personne[[br]]Parasmaipada**|क्रीणाति[[br]](krī + nā + ti)|क्रीणन्ति[[br]](krī + n + anti)|
 |**3e personne[[br]]Ātmanepada**|क्रीणीते[[br]](krī + nī + te)|क्रीणते[[br]](krī + n + ate)|
 
-:::
+:::Pour cette classe de présent, il convient de noter particulièrement la formation du radical de présent à partir de la racine ज्ञा 9U "connaître, savoir" :
 
-Pour cette classe de présent, il convient de noter particulièrement la formation du radical de présent à partir de la racine ज्ञा 9U "connaître, savoir" :
-
-::: grammar-box
+:::grammar-box
 
 | |Singulier[[br]]एकवचन|Pluriel[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3e personne[[br]]Parasmaipada**|जानाति[[br]](jā-nā-ti)|जानन्ति[[br]](jā-n-anti)|
 |**3e personne[[br]]Ātmanepada**|जानीते[[br]](jā-nī-te)|जानते[[br]](jā-n-ate)|
 
-:::
-La forme जा qui sous-tend le radical de présent de ज्ञा s'explique soit par une série d'apophonie -ā (degré zéro) -nā (degré plein), soit par dissimilation à partir de *jñā-nā-ti.
+:::La forme जा qui sous-tend le radical de présent de ज्ञा s'explique soit par une série d'apophonie -ā (degré zéro) -nā (degré plein), soit par dissimilation à partir de *jñā-nā-ti.
 
 Certaines racines se terminant par une voyelle longue raccourcissent celle-ci devant le suffixe de radical de présent de la 9e classe :
 
 Exemple :
 
-::: indent
+:::indent
 पू 9U "purifier"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | |Singulier[[br]]एकवचन|Pluriel[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3e personne[[br]]Parasmaipada**|पुनाति[[br]](pu-nā-ti)|पुनन्ति[[br]](pu-n-anti)|
 |**3e personne[[br]]Ātmanepada**|पुनीते[[br]](pu-nī-te)|पुनते[[br]](pu-n-ate)|
 
-:::
-
-Formation du participe présent Parasmaipada :
+:::Formation du participe présent Parasmaipada :
 
 Exemple :
 
-::: indent
+:::indent
 क्रीणन्त् (krī + n + ant) ; fém. : क्रीणती (krī + n + at + ī)
-:::
-
-## 30.2. Usage de l'optatif (लिङ्)
+:::## 30.2. Usage de l'optatif (लिङ्)
 
 L'optatif est utilisé :
 
-::: grammar-box
+:::grammar-box
 **1. pour exprimer**
 
 *   **un souhait**
@@ -88,15 +74,11 @@ L'optatif est utilisé :
 *   **un ordre atténué**
 
 **(ici, l'optatif - लिङ् - chevauche l'impératif - लोट्)**
-:::
+:::Exemple :
 
-Exemple :
-
-::: indent
+:::indent
 दासो ग्राममागच्छेत् = « Que le serf vienne au village. »
-:::
-
-::: grammar-box
+::::::grammar-box
 **2. Lorsque quelque chose est présenté comme**
 
 *   **possible**
@@ -104,42 +86,32 @@ Exemple :
 *   **vraisemblable**
 
 **doit être représenté.**
-:::
+:::Exemple :
 
-Exemple :
-
-::: indent
+:::indent
 ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात् = « S'il sortait du village, il n'entendrait pas le maître. »
-:::
-
-::: grammar-box
+::::::grammar-box
 **3. Les propositions relatives à l'optatif ont parfois le sens : « Si quelqu'un... »**
-:::
+:::Exemple :
 
-Exemple :
-
-::: indent
+:::indent
 यो नृतं वदेत्स नरकं पतेत् = « Si quelqu'un disait le mensonge, il tomberait en enfer = Si quelqu'un dit le mensonge, il tombe en enfer. »
-:::
-
-## 30.3. Désinences secondaires de la 3e personne du singulier et du pluriel
+:::## 30.3. Désinences secondaires de la 3e personne du singulier et du pluriel
 
 L'optatif (लिङ्), l'imparfait (लङ्), l'aoriste (लुङ्), le précatif (आशिर्लिङ्) et le conditionnel possèdent les dites désinences secondaires :
 
-::: grammar-box
+:::grammar-box
 
 | |3e personne du singulier|3e personne du pluriel|
 | :--- | :--- | :--- |
 |**Parasmaipada**|**-t**|classes athématiques : **-an** ou **-ur**[[br]]Optatif : **-ur**|
 |**Ātmanepada**|**-ta**|classes athématiques : **-ata** (de *nta)[[br]]Optatif : **-ran**|
 
-:::
-
-## 30.4. Formation de l'optatif présent (लिङ्)
+:::## 30.4. Formation de l'optatif présent (लिङ्)
 
 ### 30.4.1. Classes thématiques du présent
 
-::: grammar-box
+:::grammar-box
 **devant des terminaisons commençant par une consonne :**
 
 **radical du présent + -i- (qui fusionne avec le -a- en -e-) + terminaisons secondaires**
@@ -147,61 +119,51 @@ L'optatif (लिङ्), l'imparfait (लङ्), l'aoriste (लुङ्), le 
 **devant des terminaisons commençant par une voyelle :**
 
 **radical du présent + -i- (» -e-) + -y- + terminaison secondaire**
-:::
-
-Exemples :
+:::Exemples :
 
 1\. Classe du présent :
 
 भू
-::: grammar-box
+:::grammar-box
 
 | |Singulier[[br]]एकवचन|Pluriel[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3ᵉ personne[[br]]Parasmaipada**|भवेत्[[br]](bhava + i + t)|भवेयुर्[[br]](bhava + i + y + ur)|
 |**3ᵉ personne[[br]]Ātmanepada**|भवेत[[br]](bhava + i + ta)|भवेरन्[[br]](bhava + i + ran)|
 
-:::
-
-4\. Classe du présent :
+:::4\. Classe du présent :
 
 नृत्
-::: grammar-box
+:::grammar-box
 
 | |Singulier[[br]]एकवचन|Pluriel[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3ᵉ personne[[br]]Parasmaipada**|नृत्येत्[[br]](nṛtya + i + t)|नृत्येयुर्[[br]](nṛtya + i + y + ur)|
 |**3ᵉ personne[[br]]Ātmanepada**|नृत्येत[[br]](nṛtya + i + ta)|नृत्येरन्[[br]](nṛtya + i + ran)|
 
-:::
-
-6\. Classe du présent
+:::6\. Classe du présent
 
 विश्
-::: grammar-box
+:::grammar-box
 
 | |Singulier[[br]]एकवचन|Pluriel[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3ᵉ personne[[br]]Parasmaipada**|विशेत्[[br]](viśa + i + t)|विशेयुर्[[br]](viśa + i + y + ur)|
 |**3ᵉ personne[[br]]Ātmanepada**|विशेत[[br]](viśa + i + ta)|विशेरन्[[br]](viśa + i + ran)|
 
-:::
-
-10\. Classe du présent et causatifs
+:::10\. Classe du présent et causatifs
 
 चुर्
-::: grammar-box
+:::grammar-box
 
 | |Singulier[[br]]एकवचन|Pluriel[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3ᵉ personne[[br]]Parasmaipada**|चोरयेत्[[br]](coraya + i + t)|चोरयेयुर्[[br]](coraya + i + y + ur)|
 |**3ᵉ personne[[br]]Ātmanepada**|चोरयेत[[br]](coraya + i + ta)|चोरयेरन्[[br]](coraya + i + ran)|
 
-:::
+:::### 30.4.2. Classes de présent athématiques
 
-### 30.4.2. Classes de présent athématiques
-
-::: grammar-box
+:::grammar-box
 **Parasmaipada :**
 
 **radical de présent faible + -yā- (devant -ur : -y-) + terminaison secondaire**
@@ -209,112 +171,89 @@ Exemples :
 **Ātmanepada:**
 
 **radical de présent faible + -ī- + terminaison secondaire**
-:::
-
-Exemples :
+:::Exemples :
 
 2\. classe de présent :
 
 द्विष्
-::: grammar-box
+:::grammar-box
 
 | |Singulier[[br]]एकवचन|Pluriel[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3ᵉ personne[[br]]Parasmaipada**|द्विष्यात्[[br]](dviṣ-yā-t)|द्विष्युर्[[br]](dviṣ-y-ur)|
 |**3ᵉ personne[[br]]Ātmanepada**|द्विषीत[[br]](dviṣ-ī-ta)|द्विषीरन्[[br]](dviṣ-ī-ran)|
 
-:::
-
-5\. classe de présent
+:::5\. classe de présent
 
 सु
-::: grammar-box
+:::grammar-box
 
 | |Singulier[[br]]एकवचन|Pluriel[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3ᵉ personne[[br]]Parasmaipada**|सुनुयात्[[br]](sunu-yā-t)|सुनुयुर्[[br]](sunu-y-ur)|
 |**3ᵉ personne[[br]]Ātmanepada**|सुन्वीत[[br]](sunu + ī + ta)|सुन्वीरन्[[br]](sunu + ī + ran)|
 
-:::
-
-8\. classe de présent
+:::8\. classe de présent
 
 तन्
-::: grammar-box
+:::grammar-box
 
 | |Singulier[[br]]एकवचन|Pluriel[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3ᵉ personne[[br]]Parasmaipada**|तनुयात्[[br]](tanu-yā-t)|तनुयुर्[[br]](tanu-y-ur)|
 |**3ᵉ personne[[br]]Ātmanepada**|तन्वीत[[br]](tanu + ī + ta)|तन्वीरन्[[br]](tanu + ī + ran)|
 
-:::
+:::**kṛ**[[br]](कृ)
 
-**kṛ**[[br]](कृ)
-
-::: grammar-box
+:::grammar-box
 
 | |Singulier[[br]]एकवचन|Pluriel[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3ᵉ personne[[br]]Parasmaipada**|कुर्यात्|कुर्युर्|
 |**3ᵉ personne[[br]]Ātmanepada**|कुर्वीत|कुर्वीरन्|
 
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | |Singulier[[br]]एकवचन|Pluriel[[br]]बहुवचन|
 | :--- | :--- | :--- |
 |**3ᵉ personne Parasmaipada**|क्रीणीयात्[[br]](krīṇī-yā-t)|क्रीणीयुर्[[br]](krīṇī-y-ur)|
 |**3ᵉ personne Ātmanepada**|क्रीणीत[[br]](krīṇ-ī-ta)|क्रीणीरन्[[br]](krīṇ-ī-ran)|
 
-:::
+:::## 30.5. Sandhi des auslautenden -r
 
-## 30.5. Sandhi des auslautenden -r
-
-::: grammar-box
+:::grammar-box
 **À l'exception de -ar, les mêmes règles de Sandhi s'appliquent au -r final qu'au -s final.**
 
 **-ar devant des sons sonores reste -ar, mais devant r-, le -r tombe et le -a- est remplacé par -ā-.**
-:::
+:::Exemples :
 
-
-Exemples :
-
-::: indent
+:::indent
 भवेयुर् + च » भवेयुश्च
 
 पुनर् + अग्निः » पुनरग्निः
 
 पुनर् + रोदिति » पुना रोदिति
-:::
-
-## 30.6. Liste de mots
+:::## 30.6. Liste de mots
 
 क्री 9U क्रीणाति : acheter
 
-::: indent
+:::indent
 Fut. क्रेष्यति  
 Pass. क्रीयते  
 PPP क्रीत  
 Inf. क्रेतुम्
-:::
+:::क्री + वि 9Ā विक्रीणीते : vendre
 
-क्री + वि 9Ā विक्रीणीते : vendre
-
-::: indent
+:::indent
 Absol. विक्रीय
-:::
-
-::: media
+::::::media
 ![](/images/lekt3001.webp)
 Fig. : क्रीणन्ति विक्रीणते च
 Bundi = बुन्दी, Rajasthan = राजस्थान
 (Source de l'image : [Détails](/fr/licenses#lekt3001))
-:::
+:::ज्ञा 9U जानाति : connaître, reconnaître, savoir, comprendre
 
-ज्ञा 9U जानाति : connaître, reconnaître, savoir, comprendre
-
-::: indent
+:::indent
 Fut. ज्ञास्यति  
 Pass. ज्ञायते  
 Caus. ज्ञापयति  
@@ -327,89 +266,67 @@ dont :
 ज्ञाति m. : (consanguin) parent (les parents sont ceux que l'on connaît !)
 
 ज्ञान n. : connaissance, savoir, compréhension (surtout des "vérités" supérieures en religion et philosophie)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3002.webp)
 Fig. : ज्ञातयः
 Darewadi, district d'Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र
 (Source de l'image : [Détails](/fr/licenses#lekt3002))
-:::
+:::पू 9U पुनाति : purifier
 
-पू 9U पुनाति : purifier
-
-::: indent
+:::indent
 Fut. पविष्यति  
 Pass. पूयते  
 Caus. पावयति  
 PPP पूत  
 Inf. पवितुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3003.webp)
 Fig. : श्रोत्राणि पुनाति
 (Source de l'image : [Détails](/fr/licenses#lekt3003))
-:::
+:::अश् 9P अश्नाति : manger, consommer
 
-अश् 9P अश्नाति : manger, consommer
-
-::: indent
+:::indent
 Fut. अशिष्यति  
 Pass. अश्यते  
 Caus. आशयति  
 PPP अशित  
 Inf. अशितुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3005.webp)
 Fig. : अश्नीयात्
 थाली, Inde du Sud
 (Source de l'image : [Détails](/fr/licenses#lekt3005))
-:::
+:::प्रिय ३ : cher, aimant, amical
 
-प्रिय ३ : cher, aimant, amical
-
-::: media
+:::media
 ![](/images/lekt3004.webp)
 Fig. : प्रिया
 (Source de l'image : [Détails](/fr/licenses#lekt3004))
-:::
+:::चेत् Conjonction : si ; à condition que (ne se trouve jamais au début d'une phrase)
 
-चेत् Conjonction : si ; à condition que (ne se trouve jamais au début d'une phrase)
-
-::: indent
+:::indent
 न चेत् : si ce n'est
-:::
+:::यदि Conjonction : si
 
-यदि Conjonction : si
-
-::: indent
+:::indent
 यद्यपि : même si, bien que
 
 यद्येवम् : si c'est le cas, dans ces circonstances
-:::
+:::पुनर् : de nouveau, toujours, de retour, encore une fois, au contraire, mais
 
-पुनर् : de nouveau, toujours, de retour, encore une fois, au contraire, mais
-
-::: indent
+:::indent
 पुनः पुनर् : de nouveau
 
 dont :
 
 पुनर्भव m. : renaissance
-:::
-
-::: media
+::::::media
 ![](/images/lekt2904.webp)
 Fig. : पुनर्भवः
 (Source de l'image : [Détails](/fr/licenses#lekt2904))
-:::
+:::जीव् 1P जीवति : vivre
 
-जीव् 1P जीवति : vivre
-
-::: indent
+:::indent
 Fut. जीविष्यति  
 Pass. जीव्यते  
 Caus. जीवयति  
@@ -419,9 +336,7 @@ Inf. जीवितुम्
 dont :
 
 जीव m./n. : vie, âme individuelle
-:::
-
-सनातन ३ fém. : सनातनी : éternel, impérissable, durable
+:::सनातन ३ fém. : सनातनी : éternel, impérissable, durable
 
 ## 30.7. Exercice
 
@@ -559,7 +474,7 @@ Déterminez et traduisez les formes de mots suivantes :
 39.  तस्मिन्
 40.  सते
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt3001:** Bundi = बुन्दी, Rajasthan = राजस्थान [Source de l'image : earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Consulté le 2008-12-21. -- Licence Creative Commons (Attribution, utilisation non commerciale, pas de travaux dérivés)]
 **lekt3002:** Darewadi, district d'Ahmed Nagar = अहमदनगर, Maharashtra = महाराष्ट्र [Source de l'image : Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Consulté le 2008-12-21. -- Licence Creative Commons (Attribution, utilisation non commerciale, partage à l'identique)]

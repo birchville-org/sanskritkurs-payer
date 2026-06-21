@@ -15,9 +15,9 @@ Pentru formarea compuselor, ale căror prime membre sunt rădăcini cu finală c
 
 Consoane ocluzive guturale, retroflexe, dentale și labiale finale (adică nu nazale și nu palatale).
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 |   |   |
 | :--- | :--- |
@@ -25,17 +25,13 @@ Consoane ocluzive guturale, retroflexe, dentale și labiale finale (adică nu na
 | **în fața sunetelor sonore non-nazale** | **Înlocuire cu sunetul sonor neaspirat corespunzător:** [[br]] **de ex.** [[br]] [[indent]] -t + g- » -dg- [[br]] [[indent]] -k + b- » -gb- [[br]] [[indent]] -dh + d- » -dd- [[br]] [[indent]] -k + a- » -ga- |
 | **în fața nazalelor** | **Înlocuire cu nazala corespunzătoare:** [[br]] **de ex.** [[br]] [[indent]] -t + n- » -nn- [[br]] [[indent]] -p + n- » -mn- |
 
-:::
-
-::::
-
-Excepție de la regula de mai sus:
+:::::::Excepție de la regula de mai sus:
 
 Ocluziv dental final (nu nazal):
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 |   |   |
 | :--- | :--- |
@@ -44,11 +40,7 @@ Ocluziv dental final (nu nazal):
 | **în fața retroflexelor** | **Înlocuire cu retroflexul neaspirat corespunzător:** [[br]] **adică** [[br]] [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- [[br]] [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
 | **în fața lui l-** | **Înlocuire cu -l:** [[br]] **adică** [[br]] [[indent]] -t/-th/-d/-dh + l- » -ll- |
 
-:::
-
-::::
-
-Exemple:
+:::::::Exemple:
 
 तद् + फल = तत्फल
 
@@ -70,32 +62,26 @@ Exemple:
 
 अध्यापन n.: predare, învățământ
 
-::: media
+:::media
 ![](/images/lekt1602.webp)
 Fig.: अध्यापनम्
 „Aceasta este o ceremonie specială într-un mic templu din Satara (सातारा). Este realizată de studenții Swami Muktananda Vedashala în cadrul celebrării Mahāśivarātri. Aceasta este o școală vedică, unde copiii pe dinafară texte sacre numite Vede. Această școală predă Krishna Yajurveda și unele porțiuni din Samaveda. Îmi fac teza de masterat despre această școală.”
 (Sursă imagine: [Detalii](/ro/licenses#lekt1602))
-:::
-
-अनसूया f.: lipsa cârtirii, lipsa invidiei
+:::अनसूया f.: lipsa cârtirii, lipsa invidiei
 
 नृशंस्य n.: răutate, vicleanie
 
 din care:
 
-::: indent
+:::indent
 अनृशंस्य n.: lipsa de răutate
-:::
-
-जीव् 1 P जीवति ; Pass. जीव्यते ; PPP जीवित: a trăi
+:::जीव् 1 P जीवति ; Pass. जीव्यते ; PPP जीवित: a trăi
 
 din care:
 
-::: indent
+:::indent
 आजीव m.: mijloc de existență
-:::
-
-क्षमा f.: răbdare, îndelungă răbdare, indulgență
+:::क्षमा f.: răbdare, îndelungă răbdare, indulgență
 
 क्षेम n.: liniște, pace, bunăstare, posesie sigură
 
@@ -107,14 +93,12 @@ din care:
 
 योग m.: legare, conexiune, unire, dobândire; Yoga
 
-::: media
+:::media
 ![](/images/lekt1601.webp)
 Fig.: योगी
 Birla Mandir, Delhi
 (Sursă imagine: [Detalii](/ro/licenses#lekt1601))
-:::
-
-वृत् 1 Ā वर्तते ; Pass. वृत्यते ; PPP वृत्त: a se roti, a se întoarce, a se afla (într-un loc), a locui
+:::वृत् 1 Ā वर्तते ; Pass. वृत्यते ; PPP वृत्त: a se roti, a se întoarce, a se afla (într-un loc), a locui
 
 शस्त्र (śastra) n.: uneaj de tăiere, armă tăioasă, sabie, armă
 
@@ -124,14 +108,12 @@ Birla Mandir, Delhi
 
 अहिंसा f.: a nu face rău nimănui, non-violență, non-agresiune
 
-::: media
+:::media
 ![](/images/lekt1603.jpg)
 Fig.: अहिंसा
 „Mâna cu un roată pe palmă simbolizează jurământul Jain al Ahimsa. Cuvântul din mijloc este „ahimsa”. Roata reprezintă dharmacakra, care stă pentru rezoluția de a opri ciclul reîncarnării prin urmărirea neobosită a adevărului și non-violeței.”
 (Sursă imagine: [Detalii](/ro/licenses#lekt1603))
-:::
-
-## 16.3. Exercițiu
+:::## 16.3. Exercițiu
 
 A) Transformați următoarele expresii în Tatpuruṣa și traduceți-le:
 
@@ -143,14 +125,12 @@ A) Transformați următoarele expresii în Tatpuruṣa și traduceți-le:
 
 ४. पशुमन्तो जनाः ।
 
-::: media
+:::media
 ![](/images/lekt1604.webp)
 Fig.: पशुमन्तो जनाः
 हरियाणा / ਹਰਿਆਣਾ
 (Sursă imagine: [Detalii](/ro/licenses#lekt1604))
-:::
-
-५. सुखवान्वैश्यायाः पुत्रः ।
+:::५. सुखवान्वैश्यायाः पुत्रः ।
 
 ६.  सुखवत्या वैश्यायाः पुत्रः ।
 
@@ -245,7 +225,7 @@ B) Traduceți și descompuneți toate compusele în Sanscrită:
 
 (कौटिलीयार्थशास्त्र १.३.५-८, १३)
 
-::: indent
+:::indent
 Explicații;
 
 Propoziția 7: कृषिपाशुपाल्ये Dual, Nom. Acuz.: Dvandva, care denumește două "lucruri"
@@ -253,11 +233,9 @@ Propoziția 7: कृषिपाशुपाल्ये Dual, Nom. Acuz.: Dvan
 Propoziția 8: कर्म Nom., Acuz. sg. Neutru la कर्मन् "faptă"
 
 Propoziția 13: सर्वेषाम् Gen. pl. masc. la सर्व "fiecare, toți" (pronume, nu se declină ca deva)
-:::
+:::३. आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः, तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १.४.३॥
 
-३. आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः, तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १.४.३॥
-
-::: deleteme-box
+:::deleteme-box
 
 **lekt1601:** Templul Birla, Delhi [Sursa imaginii: Deepak / Wikipedia ; Licență Creative Commons (atribuire, share alike)]
 

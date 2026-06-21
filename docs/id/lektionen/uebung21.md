@@ -46,7 +46,7 @@ A twice-born is a man who has been initiated into the Veda by the master.
 ६. जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥
 He who has conquered anger does not hate an enemy, even if that enemy kills him. But he who is conquered by anger hates.
 
-::: media
+:::media
 ![](/images/uebung033.webp)
 Fig.: हतान्धकारा दीपाः
 (Image source: [Details](/en/licenses#uebung033))

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Determinați și traduceți următoarele forme:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Formă | Determinare / Semnificație |
 |:---|:---|:---|
 | १. | **अस्मत्** | *वयम्*: Abl. (de la noi) |
@@ -94,9 +94,7 @@ Determinați și traduceți următoarele forme:
 | ७८. | **अकस्मात्** | neașteptat (Adv.) |
 | ७९. | **मित्रध्रुक्** | *मित्रद्रुह्*: Nom. Vok. Sg. m. f. n. (distrugătorul inamicilor) |
 | ८०. | **अवोचन्** | *वच्* 2P: 3. Pl. a-Aor. P. (au vorbit) |
-:::
-
-::: media
+::::::media
 ![](/images/uebung091.webp)
 Fig.: जेरिम
 (Sursa imaginii: [Detalii](/licenses#uebung091))

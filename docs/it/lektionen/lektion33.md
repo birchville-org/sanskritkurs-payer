@@ -21,14 +21,12 @@ La sillaba di reduplicazione è composta da (una consonante e) una vocale.
 
 ### 33.1.1. La consonante di reduplicazione
 
-::: grammar-box
+:::grammar-box
 **1. Abitualmente:**  
 **Ripetizione della prima consonante della radice**
-:::
+:::Esempi:
 
-Esempi:
-
-::: indent
+:::indent
 **दा** 3 "dare"
 * 3.sg.P.Ind.Pres. **ददाति**
 
@@ -37,58 +35,40 @@ Esempi:
 
 **मा** 3Ā "misurare"
 * 3.sg.Ā.Ind.Pres. ***मि***मीते
-:::
-
-::: grammar-box
+::::::grammar-box
 **2. Un consonante iniziale aspirata di una radice viene reduplicata dalla corrispondente consonante non aspirata.**
-:::
+:::Esempi:
 
-Esempi:
-
-::: indent
+:::indent
 **धा** 3 "porre"
 * 3.sg.P.Ind.Pres. **दधाति**
 
 **भी** 3 "temere"
 * 3.sg.P.Ind.Pres. ***बि***भेति
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **3. Una gutturale viene reduplicata dalla corrispondente palatale non aspirata:**
 
-::: indent
+:::indent
 **क्**, **ख्** attraverso **च्**  
 **ग्**, **घ्** attraverso **ज्**
-:::
+:::**ह् viene sempre reduplicato da ज्.**
+::::Esempi:
 
-**ह् viene sempre reduplicato da ज्.**
-::::
-
-Esempi:
-
-::: indent
+:::indent
 **हु** 3 "(sacrificare) versare nel fuoco"
 * 3.sg.P.Ind.Pres. **जुहोति**
-:::
-
-::: grammar-box
+::::::grammar-box
 **4. Se una radice inizia con più consonanti, viene ripetuta solo la prima (eventualmente applicando la regola 2 o 3).**
-:::
-
-::: grammar-box
+::::::grammar-box
 **5. Se una radice inizia con un gruppo di consonanti fricativa + consonante sorda, non viene reduplicata la fricativa, ma la consonante sorda seguente secondo le regole precedenti.**
-:::
+:::Esempio:
 
-Esempio:
-
-::: indent
+:::indent
 **स्था** 1 "stare"
 * 3.sg.P.Ind.Pres. **तिष्ठति**
-:::
+:::## 33.2. La terza classe del presente (जुहोत्यादि = "जुहोति ecc.")
 
-## 33.2. La terza classe del presente (जुहोत्यादि = "जुहोति ecc.")
-
-::: grammar-box
+:::grammar-box
 **Formazione:**
 
 **radice forte:**  
@@ -98,19 +78,15 @@ Esempio:
 **radice accentata con basso tono + desinenza**
 
 **Per la consonante di reduplicazione valgono le regole date sopra.**
-:::
+:::### 33.2.1. La vocale di reduplicazione della 3. classe di presente
 
-### 33.2.1. La vocale di reduplicazione della 3. classe di presente
-
-::: grammar-box
+:::grammar-box
 * **La vocale di reduplicazione regolare è -i-**
 * **Le radici contenenti -u reduplicano con -u-**
 * **le radici दा, धा, हा con -a-**
-:::
+:::Esempi:
 
-Esempi:
-
-:::: grammar-box
+::::grammar-box
 **हु** 3P "(versare) nel fuoco (dell'offerta)"
 
 * **radice forte:** जुहो
@@ -121,9 +97,7 @@ Esempi:
 | **Indicativo Presente** | जुहोति | जुह्वति[[br]]juhu + ati | &lt;जुहुते&gt; | &lt;जुह्वते&gt;[[br]]juhu + ate |
 | **Imperfetto** | अजुहोत्[[br]]a-juho-t | जुहवुर्[[br]]a-juho + ur | &lt;अजुहुत&gt; | &lt;अजुह्वत&gt;[[br]]a-juhu + ata |
 | **Optativo** | जुहुयात्[[br]]juhu-yā-t | जुहुयुर्[[br]]juhu-y-ur | &lt;जुह्वीत&gt;[[br]]juhu + ī-ta | &lt;जुह्वीरन्&gt;[[br]]juhu + ī-ran |
-::::
-
-## 33.3. Sul mutamento vocalico (Ablaut) di ā
+::::## 33.3. Sul mutamento vocalico (Ablaut) di ā
 
 ā kann
 
@@ -132,7 +106,7 @@ Esempi:
 
 Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
-::: grammar-box
+:::grammar-box
 **A.**
 
 * **Grado ridotto**
@@ -142,34 +116,26 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
     es. **धा** 3.pl.P.Ind.Präs. **दधति** (dadh-ati)
 * **Grado pieno: -ā-**  
   es. **धा** 3.sg.P.Ind.Präs. **दधाति**
-:::
+:::Qui appartiene, ad esempio, anche:
 
-Qui appartiene, ad esempio, anche:
-
-::: indent
+:::indent
 **स्था** 1
 * PPP **स्थित** (sthi-ta)
 * 3.sg.P.Fut. **स्थास्यति** (sthā-sya-ti)
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **B.**
 
 * **Grado ridotto: -ī-**  
   es. **पा** 1: PPP **पीत** (pī-ta)
 * **Grado pieno: -ā-**  
   es. **पा** 1: Inf. **पातुम्**
-::::
+::::## 33.4. Radici in -ā della terza classe di presente
 
-## 33.4. Radici in -ā della terza classe di presente
-
-::: grammar-box
+:::grammar-box
 **Le radici in -ā (tranne दा e धा) nel debole hanno solitamente la desinenza -ī-** (vedi Thumb-Hauschild Vol. 1,1 p. 271. Probabilmente la serie di ablaut B sopra menzionata agì da modello, sebbene queste radici altrimenti seguano la serie A), **davanti a desinenze vocaliche la vocale radicale scompare completamente (vedi serie di ablaut A).**
-:::
+:::Esempi:
 
-Esempi:
-
-:::: grammar-box
+::::grammar-box
 **मा** 3Ā "misurare"
 
 | | 3. sg. Ā. | 3. pl. Ā. |
@@ -177,9 +143,7 @@ Esempi:
 | **Indicativo Presente** | मिमीते[[br]]mimī-te | मिमते[[br]]mim-ate |
 | **Imperfetto** | अमिमीत | अमिमत |
 | **Optativo** | मिमीत[[br]]mim-ī-ta ! | मिमीरन्[[br]]mim-ī-ran |
-::::
-
-:::: grammar-box
+::::::::grammar-box
 **हा** 3P "abbandonare"
 
 | | 3. sg. P. | 3. pl. P. |
@@ -187,17 +151,13 @@ Esempi:
 | **Indicativo Presente** | जहाति | जहति[[br]]jah-ati |
 | **Imperfetto** | अजहात् | अजहुर् |
 | **Optativo** | जह्यात्[[br]]jah-yā-t[[br]](La radice **हा** ha prima dell'Optativo-yā/y la stessa forma che davanti alle vocali!) | जह्युर्[[br]]jah-y-ur |
-::::
+::::### 33.4.1. Le radici **दा** e **धा**
 
-### 33.4.1. Le radici **दा** e **धा**
-
-::: grammar-box
+:::grammar-box
 **Le radici दा e धा reduplicano con la vocale -a- e perdono la vocale radicale nella forma debole.**
 
 **Si osservi per धा la legge della dissimilazione dell'aspirazione!**
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **धा** 3U "porre, stabilire, assegnare"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
@@ -205,11 +165,9 @@ Esempi:
 | **Indicativo Presente** | दधाति | दधति[[br]]dadh-ati | धत्ते[[br]]dadh-te[[br]](Spiegazione: Thumb-Hauschild 1,1 pag. 302s.) | दधते[[br]]dadh-ate |
 | **Imperfetto** | अदधात् | अदधुर् | अधत्त[[br]]a + dadh + ta | अदधत |
 | **Optativo** | दध्यात्[[br]]dadh-yā-t | दध्युर् | दधीत[[br]]dadh-ī-ta | दधीरन् |
-::::
+::::Le forme di **दा** si ottengono sostituendo **dh** con **d** nel paradigma di **धा**. Quindi:
 
-Le forme di **दा** si ottengono sostituendo **dh** con **d** nel paradigma di **धा**. Quindi:
-
-:::: grammar-box
+::::grammar-box
 **दा** 3U "dare"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
@@ -217,19 +175,15 @@ Le forme di **दा** si ottengono sostituendo **dh** con **d** nel paradigma d
 | **Indicativo Presente** | ददाति | ददति | दत्ते | ददते |
 | **Imperfetto** | अददात् | अददुर् | अदत्त | अददत |
 | **Optativo** | दद्यात् | दद्युर् | ददीत | ददीरन् |
-::::
+::::## 33.5. Il participio presente Parasmaipada delle radici della 3. classe di presente
 
-## 33.5. Il participio presente Parasmaipada delle radici della 3. classe di presente
-
-::: grammar-box
+:::grammar-box
 **I verbi della 3. classe formano tutte le forme del participio presente Parasmaipada dalla forma debole.**
 
 **Eccezione: il Nominativo/Accusativo Plurale Neutro può essere formato opzionalmente dalla forma forte o debole.**
-:::
+:::**दा** Participio presente Parasmaipada:
 
-**दा** Participio presente Parasmaipada:
-
-:::: grammar-box
+::::grammar-box
 | | Maschile[[br]]पुंल्लिङ्ग | Neutro[[br]]नपुंसकलिङ्ग | Femminile[[br]]स्त्रीलिङ्ग |
 | :--- | :--- | :--- | :--- |
 | **Singolare** | | | |
@@ -238,15 +192,13 @@ Le forme di **दा** si ottengono sostituendo **dh** con **d** nel paradigma d
 | **Plurale** | | | |
 | **1. Nominativo** | ददतस् | ददति[[br]]dad-at-i[[br]]ददन्ति[[br]]dad-ant-i | |
 | **2. Accusativo** | ददतस् | ददति[[br]]ददन्ति | |
-::::
-
-Simile a **जुह्वत्** (juhu-at + s)
+::::Simile a **जुह्वत्** (juhu-at + s)
 
 ## 33.6. Elenco di parole
 
 **दा** 3U **ददाति**: dare
 
-::: indent
+:::indent
 **Fut.**  दास्यति  
 **Pass.** दीयते  
 **Kaus.** दापयति  
@@ -256,53 +208,39 @@ Simile a **जुह्वत्** (juhu-at + s)
 di cui:
 
 **दान** n.: dare, dono, generosità
-:::
-
-::: media
+::::::media
 ![](/images/lekt3306.webp)
 Fig.: दानम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3306))
-:::
+:::**दा** + **आ** 3Ā **अदत्ते**: (in ricezione) prendere, prendere in possesso, portare via
 
-**दा** + **आ** 3Ā **अदत्ते**: (in ricezione) prendere, prendere in possesso, portare via
-
-::: indent
+:::indent
 **Assol.** आदाय: con Acc.: in compagnia di, con
-:::
-
-::: media
+::::::media
 ![](/images/lekt3307.webp)
 Fig.: सा पुत्रमादाय भारं बिभ्रती गच्छति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3307))
-:::
+:::***धा*** 3U ***दधाति***: porre, stabilire, assegnare
 
-***धा*** 3U ***दधाति***: porre, stabilire, assegnare
-
-::: indent
+:::indent
 **Fut.** ***धास्यति***  
 **Pass.** ***धीयते***  
 **Kaus.** ***धापयति***  
 **PPP** ***हित*** (!!)  
 **Inf.** ***धातुम्***
-:::
+:::**धा** + **सम्** + **आ** 3U **समादधाति**: concentrare tutta l'attenzione su qualcosa, raccogliersi
 
-**धा** + **सम्** + **आ** 3U **समादधाति**: concentrare tutta l'attenzione su qualcosa, raccogliersi
-
-::: indent
+:::indent
 di cui:
 
 **समाधि** m.: raccoglimento interiore, massima attenzione
-:::
-
-::: media
+::::::media
 ![](/images/lekt3305.webp)
 Fig.: समाधि
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3305))
-:::
+:::**पॄ** 3P **पिपर्ति**: riempire, soddisfare
 
-**पॄ** 3P **पिपर्ति**: riempire, soddisfare
-
-::: indent
+:::indent
 Nota:
 3.pl.P ***पिपुरति***  
 3.sg.Impf.P ***अपिपर्*** (da: \*apipart)  
@@ -313,13 +251,11 @@ Nota:
 **Pass.** पूर्यते  
 **Kaus.** पूरयति / पारयति  
 **PPP** पूर्ण / पूर्त / पूरित
-:::
-
-**पॄ** + **सम्** solo **Pass.** सम्पूर्यते e **Kaus.** : riempire completamente
+:::**पॄ** + **सम्** solo **Pass.** सम्पूर्यते e **Kaus.** : riempire completamente
 
 **भी** 3P **बिभेति**: temere, aver paura di (Abl., Gen.)
 
-::: indent
+:::indent
 **Fut.** भेष्यति  
 **Pass.** भीयते  
 **Kaus.** भाययति  
@@ -329,17 +265,13 @@ Nota:
 di cui:
 
 **भय** n.: paura, timore; pericolo (il lato soggettivo e quello oggettivo)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3304.webp)
 Fig.: भयम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3304))
-:::
+:::**भृ** 3U **बिभर्ति**: portare, recare; mantenere, nutrire
 
-**भृ** 3U **बिभर्ति**: portare, recare; mantenere, nutrire
-
-::: indent
+:::indent
 **Fut.** भरिष्यति  
 **Pass.** भ्रियते  
 **Kaus.** भारयति  
@@ -349,31 +281,25 @@ Fig.: भयम्
 di cui:
 
 **भार** m.: carico
-:::
+:::**मा** 3Ā **मिमीते**: misurare
 
-**मा** 3Ā **मिमीते**: misurare
-
-::: indent
+:::indent
 **Fut.** मास्यति / मास्यते  
 **Pass.** मीयते  
 **Kaus.** मापयति  
 **PPP** मित  
 **Inf.** मातुम्
-:::
+:::**मा** + **उप** 3Ā **उपमिमीते**: confrontare
 
-**मा** + **उप** 3Ā **उपमिमीते**: confrontare
-
-::: indent
+:::indent
 di cui:
 
 **उपमा** f.: confronto
 
 **प्रतिमा** f.: immagine
-:::
+:::**हा** 3P **जहाति**: lasciare
 
-**हा** 3P **जहाति**: lasciare
-
-::: indent
+:::indent
 **Fut.** हास्यति  
 **Pass.** हीयते  
 **Kaus.** हापयति  
@@ -382,40 +308,30 @@ di cui:
 da PPP **हीन**:
 
 **हीनयान** n.: il veicolo difettoso (del Buddhismo): termine dispregiativo usato dai rappresentanti del "grande veicolo", del **महायान**; la via difettosa (**यान** a **या** 2: andare, viaggiare). L'espressione हीनयान non dovrebbe più essere utilizzata. La forma ancora esistente oggi dell'antico Buddhismo si chiama **थेरवाद**.
-:::
-
-::: media
+::::::media
 ![](/images/lekt3303.webp)
 Fig.: हीनयानमेव
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3303))
-:::
+:::**हु** 3P **जुहोति**: versare nel fuoco (come offerta, specialmente burro fuso)
 
-**हु** 3P **जुहोति**: versare nel fuoco (come offerta, specialmente burro fuso)
-
-::: indent
+:::indent
 **Fut.** होष्यति  
 **Pass.** हूयते  
 **Kaus.** हावयति  
 **PPP** हुत  
 **Inf.** होतुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3302.webp)
 Fig.: घृतमग्नौ जुहोति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3302))
 
-:::
+:::**घृत** n.: Burro chiarificato, ghee (घी / گھی / ঘী)
 
-**घृत** n.: Burro chiarificato, ghee (घी / گھی / ঘী)
-
-::: note-box
+:::note-box
 "Il ghee si ottiene cuocendo a fuoco lento burro non salato in una pentola capiente finché tutta l'acqua non è evaporata e le proteine non si sono depositate sul fondo. Il burro cotto e chiarificato viene poi rimosso con un cucchiaio per evitare di disturbare i solidi del latte sul fondo della padella. A differenza del burro, il ghee può essere conservato per periodi prolungati senza refrigerazione, purché sia conservato in un contenitore ermetico per prevenire l'ossidazione e rimanga privo di umidità. La consistenza, il colore o il gusto del ghee dipendono dalla fonte del latte da cui è stato prodotto il burro. In India, il ghee è solitamente prodotto con latte di bufala, poiché tende ad essere più bianco del latte di mucca."
 
 [Sorgente: http://en.wikipedia.org/wiki/Ghee. -- Accesso il 2008-12-26]
-:::
-
-## 33.7. Esercitazione
+:::## 33.7. Esercitazione
 
 A) Inserire nelle seguenti frasi le forme corrispondenti delle parole tra parentesi:
 
@@ -447,13 +363,11 @@ C) Tradurre e trasformare le frasi singolari in plurali e viceversa:
 
 ब्राह्मणा भारं न बिभ्रतीति ब्राह्मणदासो भारं गृहमबिभः ॥३॥
 
-::: media
+:::media
 ![](/images/lekt3308.webp)
 Fig.: पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3308))
-:::
-
-क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥
+:::क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥
 
 देवदत्तमपि सुखं दुःखमोक्षेष्टिं न पिपर्ति । सेष्टिः प्रज्ञयैव सम्पूर्यते ॥५॥
 
@@ -461,7 +375,7 @@ Fig.: पुरुषा भारं न बिभ्रतीति स्त�
 
 मितमतयो नरकभयात्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति । अमितप्रज्ञाबुद्धा हि नरकेभ्यो न बिभीयुः स्वर्गांश्च न लुभ्येयुः । ते भयं च लोभं चारुन्धन् ॥७॥
 
-::: deleteme-box
+:::deleteme-box
 
 **Definizione e dettagli del ghee:**
 * Fonte: http://en.wikipedia.org/wiki/Ghee (Accesso: 2008-12-26)
@@ -475,4 +389,3 @@ Fig.: पुरुषा भारं न बिभ्रतीति स्त�
 * **Fig. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Fonte dell'immagine: Dey (http://www.flickr.com/photos/dey/466758922/, accesso il 2008-12-26). Licenza Creative Commons (Attribuzione, uso non commerciale, share alike).
 * **Fig. lekt3308 (portatrice, Delhi):** Fonte dell'immagine: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, accesso il 2008-12-27). Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica).
 :::
-

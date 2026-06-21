@@ -2,12 +2,10 @@
 outline: 2
 ---
 
-::: deleteme-box
+:::deleteme-box
 **Quelle & Urheberrecht**
 
-:::
-
-# Glossary Sanskrit–English
+:::# Glossary Sanskrit–English
 
 *Compiled from the word lists of Alois Payer's Sanskrit course.*
 

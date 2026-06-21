@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Determinare e tradurre le seguenti forme:
 
-::: grammar-box
+:::grammar-box
 | Forma della parola | Determinazione | Significato |
 | :--- | :--- | :--- |
 | १. **वित्थ** | विद् (2P) 2. pl. P. Ind. Präs. | voi sapete |
@@ -66,9 +66,7 @@ A) Determinare e tradurre le seguenti forme:
 | ५०. **ददाने** | दा (3U) Part. Präs. Ā. Lok. sg. m./n. | nel donante |
 | ५१. **सुषुपुः** | स्वप् (2P) 3. pl. P. Perf. | hanno dormito |
 | ५२. **ऊसु** | वस् (1P) 2. pl. P. Perf. | avete abitato |
-:::
-
----
+:::---
 
 ## Massime (सुभाषितानि)
 
@@ -84,7 +82,7 @@ Dalla collera nasce l'oscurità, dall'oscurità la confusione della consapevolez
 ३. **नास्ति बुद्धिरयुक्तस्य ॥ ३ ॥**
 Per il non dominato (non yogī) non vi è comprensione.
 
-::: media
+:::media
 ![](/images/uebung080.webp)
 Fig.: सक्तः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung080))

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Formate le corrispondenti forme di aoristo dalle seguenti forme di presente o perfetto:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Determinazione / Significato | Aoristo |
 |:---|:---|:---|:---|
 | १. | **यन्ति** | essi vanno | **अगुः** |
@@ -36,9 +36,7 @@ Formate le corrispondenti forme di aoristo dalle seguenti forme di presente o pe
 | २१. | **जायते** | egli nasce | **अजनि** |
 | २२. | **गीयते** | viene cantato | **अगायि** |
 | २३. | **गम्यते** | è andato | **अगामि** |
-:::
-
-::: media
+::::::media
 ![](/images/uebung093.webp)
 Fig.: अगायि
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung093))

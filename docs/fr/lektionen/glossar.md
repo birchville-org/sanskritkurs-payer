@@ -2,12 +2,10 @@
 outline: 2
 ---
 
-::: deleteme-box
+:::deleteme-box
 **Quelle & Urheberrecht**
 
-:::
-
-# Glossaire Sanskrit–Français
+:::# Glossaire Sanskrit–Français
 
 *Compilé à partir des listes de mots du cours de sanskrit d'Alois Payer.*
 

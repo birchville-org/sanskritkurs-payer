@@ -90,13 +90,11 @@ Le scienze sono filosofia, vedica, economia e politica.
 
 आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः ।
 
-::: media
+:::media
 ![](/images/uebung010.webp)
 Fig.: अभ्निवेशो न वा ।
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung010))
-:::
-
----
+:::---
 
 ## Esercizio di ripetizione Lezione 5
 
@@ -164,7 +162,7 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 
 मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा (च) ब्रह्मविहाराः ॥
 
-::: media
+:::media
 ![](/images/uebung009.webp)
 Fig.: ऋग्वेदः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung009))

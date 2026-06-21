@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Determine las siguientes formas verbales y forme las correspondientes formas del imperfecto en persona, número y género verbal:
 
-::: grammar-box
+:::grammar-box
 | Presente / Futuro | Imperfecto |
 | :--- | :--- |
 | १. **हरिष्यन्ते** | अहरन्त |
@@ -88,9 +88,7 @@ A) Determine las siguientes formas verbales y forme las correspondientes formas 
 | ७३. **तनोति** | अतनोत् |
 | ७४. **प्रजानीते** | प्राजानीत |
 | ७५. **जीवन्ति** | अजीवन् |
-:::
-
-B) Traduzca y resuelva los compuestos en sánscrito:
+:::B) Traduzca y resuelva los compuestos en sánscrito:
 
 १. **आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥**
 (जनस्य इन्द्रस्य अग्रे । महत्-पुण्यम् । देवानां लोके)
@@ -111,19 +109,17 @@ Los brahmanes han estudiado y enseñado el Veda, han sido anfitriones de sacrifi
 (बुद्धस्य पुत्राः)
 Los hijos de Buda han reconocido la verdad, han detenido el sufrimiento y han alcanzado la liberación. Un monje que sigue el camino de Buda se denomina "Hijo de Buda".
 
-::: media
+:::media
 ![](/images/uebung050.webp)
 Fig.: सम्पन्नरूपा
 (Fuente de la imagen: [Detalles](/licenses#uebung050))
-:::
-
----
+:::---
 
 ## Determinación de formas verbales
 
 Determine y traduzca las siguientes palabras:
 
-::: grammar-box
+:::grammar-box
 | Forma de la palabra | Determinación | Significado |
 | :--- | :--- | :--- |
 | १. **देवस्य** | Gen. sg. m. | del dios |
@@ -211,15 +207,11 @@ Determine y traduzca las siguientes palabras:
 | ८२. **अधिकृतेषु** | Lok. pl. m./n. PPP | entre los encargados |
 | ८३. **अध्यापयति** | 3. sg. P. Ind. Präs. Kaus. | él enseña |
 | ८४. **वाचयन्ति** | 3. pl. P. Ind. Präs. Kaus. | ellos hacen leer |
-:::
-
-::: media
+::::::media
 ![](/images/uebung051.webp)
 Fig.: किमयं रथो बालान् सुखतां वहति
 (Fuente de la imagen: [Detalles](/licenses#uebung051))
-:::
-
----
+:::---
 
 ## Ejercicio de Sandhi
 
@@ -294,13 +286,11 @@ Inserte las palabras entre paréntesis en las siguientes oraciones y tenga en cu
 12\. ¡Adiós!
 **पुनर्दर्शनाय ॥**
 
-::: media
+:::media
 ![](/images/uebung052.webp)
 Fig.: पुनर्दर्शनाय
 (Fuente de la imagen: [Detalles](/licenses#uebung052))
-:::
-
----
+:::---
 
 ## Fragmento erudito (Stotra)
 
@@ -308,13 +298,11 @@ Fig.: पुनर्दर्शनाय
 **आशयच्चामृतं देवान्वेदमध्यापयद्विधिम् ।**  
 **आसयत्सलिले पृथ्वीं यः स मे श्रीहरिर्गतिः ॥** El excelso Hari es mi refugio, quien envió a sus enemigos al cielo, hizo que sus seguidores conocieran el sentido del Veda, dio a los dioses el amṛta para comer, enseñó el Veda al creador y fijó la tierra en el agua.
 
-::: media
+:::media
 ![](/images/uebung053.webp)
 Fig.: श्रीगङ्गाधराय नमः
 (Fuente de la imagen: [Detalles](/licenses#uebung053))
-:::
-
----
+:::---
 
 ## Narrativa: El anciano y los monos (Sanskrit-Bālādarśa)
 
@@ -323,7 +311,7 @@ Fig.: श्रीगङ्गाधराय नमः
 **Traducción:**
 Una vez, un anciano fue a otro pueblo y se cansó en el camino. Para descansar, se sentó al pie de un árbol de mango al borde del camino. En ese árbol colgaban frutos maduros. Al anciano se le antojaron, pero no podía subir al árbol para recogerlos. Por suerte, había algunos monos en el árbol que comían frutos. Cuando el anciano lo vio, se alegró. ¿Qué hizo? Tomó algunas piedras, apuntó a los monos y se las arrojó. Los monos se enfadaron, recogieron algunos frutos y se los arrojaron al anciano. El anciano tomó alegremente los frutos y siguió su camino. ¡Magnífico es el ingenio del anciano!
 
-::: media
+:::media
 ![](/images/uebung054.webp)
 Fig.: वानरः कुपितः
 (Fuente de la imagen: [Detalles](/licenses#uebung054))

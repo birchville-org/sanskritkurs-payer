@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Determinare le seguenti forme verbali e formare le corrispondenti forme dell'imperfetto in persona, numero e genere verbale:
 
-::: grammar-box
+:::grammar-box
 | Presente / Futuro | Imperfetto |
 | :--- | :--- |
 | १. **हरिष्यन्ते** | अहरन्त |
@@ -88,9 +88,7 @@ A) Determinare le seguenti forme verbali e formare le corrispondenti forme dell'
 | ७३. **तनोति** | अतनोत् |
 | ७४. **प्रजानीते** | प्राजानीत |
 | ७५. **जीवन्ति** | अजीवन् |
-:::
-
-B) Tradurre e risolvere i composti in sanscrito:
+:::B) Tradurre e risolvere i composti in sanscrito:
 
 १. **आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥**
 (जनस्य इन्द्रस्य अग्रे । महत्-पुण्यम् । देवानां लोके)
@@ -111,19 +109,17 @@ I brahmani hanno studiato e insegnato il Veda, hanno offerto sacrifici agli dèi
 (बुद्धस्य पुत्राः)
 I figli di Buddha hanno riconosciuto la verità, hanno fermato la sofferenza e hanno raggiunto la liberazione. Un monaco viene definito "figlio di Buddha" se segue il sentiero di Buddha.
 
-::: media
+:::media
 ![](/images/uebung050.webp)
 Fig.: सम्पन्नरूपा
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung050))
-:::
-
----
+:::---
 
 ## Determinazione della forma della parola
 
 Determinare e tradurre le seguenti parole:
 
-::: grammar-box
+:::grammar-box
 | Forma della parola | Determinazione | Significato |
 | :--- | :--- | :--- |
 | १. **देवस्य** | Gen. sg. m. | del dio |
@@ -211,15 +207,11 @@ Determinare e tradurre le seguenti parole:
 | ८२. **अधिकृतेषु** | Lok. pl. m./n. PPP | tra gli incaricati |
 | ८३. **अध्यापयति** | 3. sg. P. Ind. Präs. Kaus. | insegna |
 | ८४. **वाचयन्ति** | 3. pl. P. Ind. Präs. Kaus. | fanno leggere |
-:::
-
-::: media
+::::::media
 ![](/images/uebung051.webp)
 Fig.: किमयं रथो बालान् सुखतां वहति
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung051))
-:::
-
----
+:::---
 
 ## Esercizio sul Sandhi
 
@@ -294,13 +286,11 @@ Inserisci le parole tra parentesi nelle frasi seguenti, rispettando le regole de
 12\. Addio!
 **पुनर्दर्शनाय ॥**
 
-::: media
+:::media
 ![](/images/uebung052.webp)
 Fig.: पुनर्दर्शनाय
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung052))
-:::
-
----
+:::---
 
 ## Frammento Scolastico (Stotra)
 
@@ -309,13 +299,11 @@ Fig.: पुनर्दर्शनाय
 **आसयत्सलिले पृथ्वीं यः स मे श्रीहरिर्गतिः ॥**
 L'elevato Hari è il mio rifugio, che inviò i suoi nemici al cielo, fece conoscere ai suoi seguaci il senso del Veda, diede agli dei l'Amṛta da mangiare, insegnò il Veda al creatore e stabilì la terra nell'acqua.
 
-::: media
+:::media
 ![](/images/uebung053.webp)
 Fig.: श्रीगङ्गाधराय नमः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung053))
-:::
-
----
+:::---
 
 ## Racconto: Il vecchio e le scimmie (Sanskrit-Bālādarśa)
 
@@ -324,7 +312,7 @@ Fig.: श्रीगङ्गाधराय नमः
 **Traduzione:**
 Un giorno un vecchio andò in un altro villaggio e si stancò lungo il cammino. Per riposarsi, si sedette ai piedi di un mango sul ciglio della strada. Su quell'albero pendevano frutti maturi. Il vecchio ne ebbe voglia, ma non poteva arrampicarsi sull'albero per raccoglierli. Per fortuna c'erano alcune scimmie sull'albero che mangiavano i frutti. Quando il vecchio vide questo, si rallegrò. Cosa fece? Prese alcune pietre, mirò alle scimmie e le lanciò. Le scimmie si arrabbiarono, raccolsero alcuni frutti e li lanciarono sul vecchio. Il vecchio prese gioiosamente i frutti e proseguì il suo cammino. Grande è l'astuzia del vecchio!
 
-::: media
+:::media
 ![](/images/uebung054.webp)
 Fig.: वानरः कुपितः
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung054))

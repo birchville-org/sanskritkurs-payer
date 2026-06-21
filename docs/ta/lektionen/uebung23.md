@@ -107,13 +107,11 @@ Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfe
 धर्मेण हीनाः पशुभिः समानाः ॥  
 உணவு, உறக்கம், அச்சம் மற்றும் பாலியல் ஆகியவை மனிதர்களுக்கும் பசுக்களுக்கும் பொதுவானவை. மனிதர்களின் தனித்துவமான வேறுபாடு தர்மத்தில் உள்ளது. தர்மமின்றி அவை பசுக்களுக்குச் சமமானவை.
 
-::: media
+:::media
 ![](/images/uebung035.webp)
 அடிப்படை: आहारनिद्राभयमैथुनं च
 (பட மூலம்: [விவரங்கள்](/licenses#uebung035))
-:::
-
----
+:::---
 
 ## கூடுதல் பயிற்சிகள்
 
@@ -169,7 +167,7 @@ B) Deklinieren Sie in allen Ihnen bekannten Kasus **क्षत्रिया*
 
 C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben:
 
-::: grammar-box
+:::grammar-box
 १. **सह्** (1Ā, ertragen)
 
 | Form | Wert |
@@ -213,9 +211,7 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 | Absolutiv 1 | हत्वा |
 | Absolutiv 2 | -हत्य |
 | Infinitiv | हन्तुम् |
-:::
-
-::: media
+::::::media
 ![](/images/uebung036.webp)
 Abb.: बालाः पिबन्ति
 (Bildquelle: [Details](/licenses#uebung036))

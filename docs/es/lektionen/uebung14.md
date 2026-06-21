@@ -175,7 +175,7 @@ Rāma recuerda el mantra del maestro virtuoso.
 १३. कस्यान्नमनेनर्षिणेष्टम् ।
 ¿De quién la comida ha sacrificado este sabio védico?
 
-::: media
+:::media
 ![](/images/uebung017.webp)
 Fig.: नायकश्च नायिका च
 (Fuente de la imagen: [Detalles](/licenses#uebung017))

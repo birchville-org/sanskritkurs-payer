@@ -70,13 +70,11 @@ B) Résolvez les Tatpuruṣa suivants :
 
 २६. श्रुत्युदितम् । श्रुत्योदितम् । श्रुतेरुदितम् — ce qui est dit / prescrit par le Veda
 
-::: media
+:::media
 ![](/images/uebung014.webp)
 Fig. : जलेश्वरो वरुणः
 (Source de l’image : [Détails](/fr/licenses#uebung014))
-:::
-
----
+:::---
 
 ## Exercices supplémentaires
 
@@ -142,7 +140,7 @@ Résolvez les composés suivants comme des Tatpuruṣa en sanskrit et donnez une
 
 ३०. सत्यवदनम् । स्त्यस्य वदनम् — discours de la vérité, parole de la vérité
 
-::: media
+:::media
 ![](/images/uebung016.webp)
 Fig. : गृहकरणम्
 (Source de l'image : [Détails](/fr/licenses#uebung016))

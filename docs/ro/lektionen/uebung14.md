@@ -175,7 +175,7 @@ Cui îi aparțin aceste case?
 १३. कस्यान्नमनेनर्षिणेष्टम् ।
 Al cuiă mâncare a jertfit acest sfânt vedic?
 
-::: media
+:::media
 ![](/images/uebung017.webp)
 Fig.: नायकश्च नायिका च
 (Sursa imaginii: [Detalii](/licenses#uebung017))

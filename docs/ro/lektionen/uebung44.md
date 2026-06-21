@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Determinați și traduceți următoarele forme:
 
-::: grammar-box
+:::grammar-box
 | Formă lexicală | Determinare | Semnificație |
 | :--- | :--- | :--- |
 | १. **आदेः** | आदि (m.) Abl./Gen. sg. | al începutului / de la început |
@@ -66,9 +66,7 @@ A) Determinați și traduceți următoarele forme:
 | ५०. **चिनुथ** | चि (5U) 2. pl. P. Ind. Präs. | așezați la loc |
 | ५१. **हथ** | हन् (2P) 2. pl. P. Ind. Präs. | bateți |
 | ५२. **हतः** | हन् (2P) PPP Nom. sg. m. | bătut / omorât |
-:::
-
----
+:::---
 
 ## Traduceri
 
@@ -98,19 +96,17 @@ Chiar și ceea ce este urât, nu trebuie să-l urâți, și nici să nu fiți la
 ८. **अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः । मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥ ८ ॥**
 Ai plâns pentru cei care nu trebuie plânși și ai vrut să rostești cuvinte de înțelepciune; totuși, înțelepții nu plâng nici morții, nici cei vii.
 
-::: media
+:::media
 ![](/images/uebung072.webp)
 Fig.: मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति
 (Sursa imaginii: [Detalii](/licenses#uebung072))
-:::
-
----
+:::---
 
 ## Alte forme de determinare
 
 Determinați următoarele forme de cuvânt:
 
-::: grammar-box
+:::grammar-box
 | Formă de cuvânt | Determinare |
 | :--- | :--- |
 | १. **वदिता** | वदितृ (m.) Nom. sg. |
@@ -153,9 +149,7 @@ Determinați următoarele forme de cuvânt:
 | ३८. **पिपूर्मः** | पॄ (3P) 1. pl. P. Ind. Präs. |
 | ३९. **कैः** | किम् (m./n.) Instr. pl. |
 | ४०. **कृत्येन** | कृ (8U) Gerundiv Instr. sg. m./n. |
-:::
-
-::: media
+::::::media
 ![](/images/uebung073.webp)
 Fig.: वदिता
 (Sursa imaginii: [Detalii](/licenses#uebung073))

@@ -13,7 +13,7 @@ status: stable
 
 ### 42.1.1. Tribus avec grade long dans le thème fort
 
-::: grammar-box
+:::grammar-box
 Tous les masculins en -ṛ à l'exception des termes de parenté mentionnés en 1.3. Appartiennent également à cette catégorie les termes de parenté suivants :
 
 *   **नप्तृ** m. "petit-fils"
@@ -29,15 +29,11 @@ La majorité des noms appartenant à cette catégorie sont des noms d'agent form
     *   **devant consonne : -ṛ**
 
 Remarquez les formations irrégulières (marquées en ***rouge*** ) !
-:::
+:::Masculin :
 
-Masculin :
-
-::: indent
+:::indent
 **दातृ** m. "donneur"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | | एकवचनम् | बहुवचनम् |
 | :--- | :--- | :--- |
@@ -49,19 +45,15 @@ Masculin :
 | षष्ठी | ***दातुस्*** | ***दातॄणाम्*** |
 | सप्तमी | ***दातरि*** | दातृषु |
 
-:::
-
-Pour l'explication des formations irrégulières, voir Thumb-Hauschild I,2 p. 76-81
+:::Pour l'explication des formations irrégulières, voir Thumb-Hauschild I,2 p. 76-81
 
 Féminin :
 
-::: indent
+:::indent
 **स्वसृ** f. se décline comme **दातृ** à l'exception de l'accusatif (**द्वितीया**) pluriel : ***स्वसॄस्***.
-:::
+:::### 42.1.2. Formation nominale : Suffixe कृत् -तृ
 
-### 42.1.2. Formation nominale : Suffixe कृत् -तृ
-
-::: grammar-box
+:::grammar-box
 Avec le suffixe très fréquent कृत् -तृ, on forme des noms d'agent (désignations pour le कर्तृ) à partir de presque toutes les racines ou les formes causatives.
 
 **Formation :**
@@ -71,11 +63,9 @@ Avec le suffixe très fréquent कृत् -तृ, on forme des noms d'agent 
 ou
 
 *   **racine au degré plein / forme causative + i + tṛ**
-:::
+:::Exemples :
 
-Exemples :
-
-::: indent
+:::indent
 **कर्तृ** m. « Fauteur »
 
 **जेतृ** m. « Vainqueur »
@@ -85,25 +75,19 @@ Exemples :
 **रक्षितृ** m. « Protecteur »
 
 **बोधयितृ** m. « Réveilleur »
-:::
-
-::: media
+::::::media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Fig. : अयं बोधयिता
 (Source de l'image : [Détails](/fr/licenses#lekt4201))
-:::
-
-::: grammar-box
+::::::grammar-box
 Les neutres rares en -तृ ont une déclinaison partiellement autonome (cf. Kielhorn, Grammatik § 148).
 
 Le féminin des stems en -तृ se termine par **-त्री** (comme **देवी**).
 
 p. ex. **कर्त्री** f. « Fauteuse »
-:::
+:::### 42.1.3. Les tribus avec un grade supérieur dans la racine forte
 
-### 42.1.3. Les tribus avec un grade supérieur dans la racine forte
-
-::: grammar-box
+:::grammar-box
 Cela comprend les termes de parenté suivants :
 
 *   **पितृ** m. "Père"
@@ -120,17 +104,13 @@ Cela comprend les termes de parenté suivants :
 *   **racine faible**
     *   **devant voyelle : -r**
     *   **devant consonne : -ṛ**
-:::
+:::Exemples :
 
-Exemples :
-
-::: indent
+:::indent
 **पितृ** m. "Père"
 
 **मातृ** f. "Mère"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | | पुंस् (एकवचनम्) | पुंस् (बहुवचनम्) | स्त्री (एकवचनम्) | स्त्री (बहुवचनम्) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -138,18 +118,14 @@ Exemples :
 | द्वितीया | ***पितरम्*** | पितॄन् | ***मातरम्*** | मातॄस् |
 | Reste comme दातृ | ← | ← | ← | ← |
 
-:::
+:::### 42.1.4. Les tribus en -ṛ dans les composés
 
-### 42.1.4. Les tribus en -ṛ dans les composés
-
-::: grammar-box
+:::grammar-box
 En tant que premier membre d'un composé, les noms en -ṛ se présentent naturellement dans leur forme faible, c'est-à-dire :
 
 *   **devant une consonne : -ṛ**
 *   **devant une voyelle : -r**
-:::
-
-## 42.2. Liste de mots
+:::## 42.2. Liste de mots
 
 प्रकृति f. : (de कृ + प्र) forme fondamentale, état naturel, nature ; matière primordiale, substance primordiale
 
@@ -157,11 +133,9 @@ En tant que premier membre d'un composé, les noms en -ṛ se présentent nature
 
 स्था + अव 1Ā अवतिष्ठते : s'abstenir de, prendre ses distances, s'éloigner, rester, se tenir debout
 
-::: indent
+:::indent
 PPP अवस्थित 3 : debout, présent
-:::
-
-पुरा Adv. : autrefois, auparavant
+:::पुरा Adv. : autrefois, auparavant
 
 अनेक 3 : nombreux (pas quelques-uns)
 
@@ -181,7 +155,7 @@ PPP अवस्थित 3 : debout, présent
 
 चल् 1P चलति : entrer en mouvement
 
-::: indent
+:::indent
 Fut. चलिष्यति  
 Perf. Vb चचाल, चेलुर्  
 Pass. चल्यते  
@@ -189,9 +163,7 @@ Caus. चलयति । चालयति
 PPP चलित  
 Absol. -चल्य  
 Inf. चलितुम्
-:::
-
-अधिपति m. = राजन्
+:::अधिपति m. = राजन्
 
 आटोप m. : vanité, orgueil
 
@@ -209,7 +181,7 @@ Inf. चलितुम्
 
 शंस् 1P शंसति : louer, ordonner
 
-::: indent
+:::indent
 Fut. शंसिष्यति  
 Perf. I शशंस  
 Pass. शस्यते  
@@ -217,19 +189,15 @@ Caus. शंसयति
 PPP शस्त  
 Absol. शसित्वा । शस्त्वा  
 Inf. शंसितुम्
-:::
-
-हृदय n. : cœur
+:::हृदय n. : cœur
 
 ### 42.2.1. Certaines désignations de parenté
 
-::: media
+:::media
 ![lekt4202.jpg](/images/lekt4202.webp)
 Fig. : माता, पिता, पुत्रकः
 (Source de l'image : [Détails](/fr/licenses#lekt4202))
-::: 
-
-भर्तृ m. (de भृ "porter, maintenir") : celui qui maintient, celui qui nourrit, époux
+:::भर्तृ m. (de भृ "porter, maintenir") : celui qui maintient, celui qui nourrit, époux
 
 भार्या f., जाया f. पत्नी f. : épouse (भार्या = gérondif de भृ : celle qui doit être portée, celle qui doit être maintenue, ayant droit à l'entretien)
 
@@ -288,21 +256,17 @@ Traduisez :
 
 कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति ॥२॥
 
-::: media
+:::media
 ![lekt4203.jpg](/images/lekt4203.webp)
 Fig. : कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति
 (Source de l'image : [Détails](/fr/licenses#lekt4203))
-:::
+:::आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥
 
-आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥
-
-::: media
+:::media
 ![lekt4204.jpg](/images/lekt4204.webp)
 Fig. : अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति ।
 (Source de l'image : [Détails](/fr/licenses#lekt4204))
-:::
-
-कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥
+:::कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥
 
 भर्त्रा भार्या भर्तव्या । तस्माद्भार्येत्युच्यते ॥५॥
 
@@ -326,13 +290,11 @@ Fig. : अर्जुनो रथे सीदति । कृष्णो �
 
 सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे ***ऽयोध्या***धिपते***र्दशरथस्य*** पुत्रः श्री***रामः*** ***सलक्ष्मणो*** ***विश्वामित्रेण*** तत्रानीयत । श्री***रामो*** महर्षेर्***विश्वामित्र***स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥
 
-::: media
+:::media
 ![lekt4208.jpg](/images/lekt4208.webp)
 Fig. : धनुर्द्वेधा भग्नं बभूव
 (Source de l'image : [Détails](/fr/licenses#lekt4208))
-:::
-
-साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥
+:::साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥
 
 जनकस्य राज्ञो हृदयं प्रहृष्टं बभूव । ततः स दशरथादीनानाय्य महता विभवेन ***सीतारामयोर्वि***वाहोत्सवं निरवर्तयन् ॥
 
@@ -342,21 +304,17 @@ Explication des expressions mises en évidence en ***rouge*** :
 
 सीता f. nom propre : fille du roi जनक de विदेह. Elle était sortie de la terre lorsque le roi labourait le champ, d'où son nom : सीता f. "sillon du champ"
 
-::: media
+:::media
 ![lekt4205.jpg](/images/lekt4205.webp)
 Fig. : रामः, सीता, हनुमान्, लक्ष्मनः
 (Source de l'image : [Détails](/fr/licenses#lekt4205))
-:::
+:::मिथिला f. nom propre : capitale de विदेह
 
-मिथिला f. nom propre : capitale de विदेह
-
-::: media
+:::media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Fig. : मिथिला, विदेहः, अयोध्या, कोसलः
 (Source de l'image : [Détails](/fr/licenses#lekt4206))
-:::
-
-जनक m. nom propre : roi de विदेह
+:::जनक m. nom propre : roi de विदेह
 
 गुरुतर 3 : comparatif de गुरु 3 : lourd, très lourd
 
@@ -368,13 +326,11 @@ Fig. : मिथिला, विदेहः, अयोध्या, कोस�
 
 रावण m. noms propres ; souverain de लङ्का, souverain des राक्षस.
 
-::: media
+:::media
 ![lekt4207.jpg](/images/lekt4207.webp)
 Fig. : रावणः
 (Source de l'image : [Détails](/fr/licenses#lekt4207))
-:::
-
-अयोध्या f. noms propres : capitale de कोसल (voir carte ci-dessus !)
+:::अयोध्या f. noms propres : capitale de कोसल (voir carte ci-dessus !)
 
 दशरथ m. nom propre : roi de कोसल
 
@@ -386,7 +342,7 @@ Fig. : रावणः
 
 सीतारामयोस् Gén.Loc.Dual de सीताराम
 
-::: deleteme-box
+:::deleteme-box
 
 * **Fig. lekt4201** : अयं बोधयिता. (Source de l'image : Wikipédia. Domaine public)
 * **Fig. lekt4202** : माता, पिता, पुत्रकः. Le Diwan I Khas, ou Salle des audiences privées au Lal Qila (Fort Rouge) à Delhi. (Source de l'image : Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Consulté le 2009-01-04. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique))

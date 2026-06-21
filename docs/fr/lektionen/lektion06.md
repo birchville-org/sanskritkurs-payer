@@ -9,7 +9,7 @@ status: stable
 
 # Leçon 6
 
-::: deleteme-box
+:::deleteme-box
 **Dans cette leçon, vous apprendrez :**
 - La structure de la proposition verbale (Agent et forme verbale)
 - La formation des formes verbales (Parasmaipada, Ātmanepada, Passif)
@@ -17,19 +17,15 @@ status: stable
 - L'indicatif présent (laṭ) et les terminaisons primaires de la 3e personne
 - La formation de la racine présente (classes 1, 4 et 6)
 - L'alternance vocalique (Ablaut : Guṇa et Vṛddhi)
-:::
+:::## 6.1. La proposition verbale
 
-## 6.1. La proposition verbale
-
-::: grammar-box
+:::grammar-box
 **Schéma I : Forme verbale**
 - p. ex. **yajati** = यजति = « Il (elle, il) vénère par un sacrifice », « Il (elle, il) sacrifie »
 
 **Schéma II : Agent (kartṛ m. = कर्तृ) – Forme verbale**
 - p. ex. **rāmo yajati** = रामो यजति = « Rāma vénère par un sacrifice », « Rāma sacrifie »
-:::
-
-Lorsque l’agent (**kartṛ** m. = कर्तृ) est mentionné dans une proposition verbale qui n’est pas à la voix passive, l’agent se trouve au **nominatif** (premier cas, prathamā = प्रथमा). En nombre (numerus, vacana n. = वचन), l’agent et la forme verbale concordent.
+:::Lorsque l’agent (**kartṛ** m. = कर्तृ) est mentionné dans une proposition verbale qui n’est pas à la voix passive, l’agent se trouve au **nominatif** (premier cas, prathamā = प्रथमा). En nombre (numerus, vacana n. = वचन), l’agent et la forme verbale concordent.
 
 ---
 
@@ -70,11 +66,9 @@ Une forme verbale finie, c.-à-d. une forme verbale avec terminaison personnelle
 
 Le présent est le temps de la présence, en particulier aussi de la durée.
 
-::: grammar-box
+:::grammar-box
 **L’indicatif (forme déclarative) présent est formé en ajoutant les désinences primaires au radical de présent.**
-:::
-
-Exemples :
+:::Exemples :
 
 | Racine (dhātu) | Radical de présent | 3ᵉ personne singulier de l’indicatif présent Parasmaipada |
 | :--- | :--- | :--- |
@@ -86,14 +80,12 @@ Exemples :
 
 ## 6.4. Terminaisons primaires de la troisième personne (prathama m. = प्रथम = « première (!) personne »)
 
-::: grammar-box
+:::grammar-box
 | | Singulier (Einzahl)[[br]]ekavacana n.[[br]]एकवचन | Pluriel (Mehrzahl)[[br]]bahuvacana n.[[br]]बहुवचन |
 | :--- | :--- | :--- |
 | **Parasmaipada n.**[[br]]परस्मैपद | **-ti**[[br]]-ति | **-nti**[[br]]-न्ति |
 | **Ātmanepada n.**[[br]]आत्मनेपद | **-te**[[br]]-ते | **-nte**[[br]]-न्ते |
-:::
-
-Exemple **yaj** = यज् = « honorer par un sacrifice », « sacrifier » :
+:::Exemple **yaj** = यज् = « honorer par un sacrifice », « sacrifier » :
 - Radical de présent : **yaja** = यज
 - 3. sg. P. **yajati** = यजति
 - 3. pl. P. **yajanti** = यजन्ति
@@ -106,18 +98,16 @@ Exemple **yaj** = यज् = « honorer par un sacrifice », « sacrifier » :
 
 ### 6.5.1. Verbes de la 6e classe de présent (tudādi = तुदादि = "tud, etc.")
 
-::: grammar-box
+:::grammar-box
 **Stame du présent = racine au degré faible (tel qu’il est répertorié) + a-**
 
 | Racine (dhātu m.)[[br]]धातु | Stame du présent |
 | :--- | :--- |
 | **viś**[[br]]विश् | **viśa-**[[br]]विश- |
 | **sṛj**[[br]]सृज् | **sṛja-**[[br]]सृज- |
-:::
+:::### 6.5.2. Verbes de la première classe de présent (bhvādi / bhūvādi = भ्वादि / भूवादि = « bhū, etc. »)
 
-### 6.5.2. Verbes de la première classe de présent (bhvādi / bhūvādi = भ्वादि / भूवादि = « bhū, etc. »)
-
-::: grammar-box
+:::grammar-box
 | Radical de présent = racine au degré fort (rarement au degré allongé) + a- ||||
 | Racine (dhātu m.)[[br]]धातु | Degré fort | Degré fort devant a- | Radical de présent |
 | :--- | :--- | :--- | :--- |
@@ -127,14 +117,12 @@ Exemple **yaj** = यज् = « honorer par un sacrifice », « sacrifier » :
 | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaj**[[br]]यज् | **yaja-**[[br]]यज- |
 | Si la voyelle se trouve dans une syllabe longue fermée, c’est-à-dire une voyelle brève suivie de deux consonnes ou plus, la formation du degré fort est omise ||||
 | **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **nind**[[br]]निन्द् | **ninda-**[[br]]निन्द- |
-:::
-
-#### 6.5.2.1. Sandhi lexical de e et o
+:::#### 6.5.2.1. Sandhi lexical de e et o
 À l’intérieur des mots, devant les voyelles, **e** est remplacé par **ay**, **o** par **av**.
 
 #### 6.5.2.2. Alternance vocalique (Ablaut)
 
-::: grammar-box
+:::grammar-box
 | Degré faible[[br]]Degré réduit | Degré fort[[br]]Degré plein[[br]]Guṇa m.[[br]]गुण | Degré allongé[[br]]Vṛddhi f.[[br]]वृद्धि |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -142,11 +130,9 @@ Exemple **yaj** = यज् = « honorer par un sacrifice », « sacrifier » :
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
-:::
+:::### 6.5.3. Verbes de la 4e classe de présent (divādi = दिवादि = "div etc.")
 
-### 6.5.3. Verbes de la 4e classe de présent (divādi = दिवादि = "div etc.")
-
-::: grammar-box
+:::grammar-box
 **Stame du présent = racine au degré faible (tel qu'il est répertorié) + ya-**
 
 | Racine (dhātu m.)[[br]]धातु | Stame du présent |
@@ -155,40 +141,32 @@ Exemple **yaj** = यज् = « honorer par un sacrifice », « sacrifier » :
 | **muh**[[br]]मुह् | **muhya-**[[br]]मुह्य- |
 | **yudh**[[br]]युध् | **yudhya-**[[br]]युध्य- |
 | **man**[[br]]मन् | **manya-**[[br]]मन्य- |
-:::
+:::### 6.5.4. Voyelle thématique, classes de présent thématiques
 
-### 6.5.4. Voyelle thématique, classes de présent thématiques
-
-::: grammar-box
+:::grammar-box
 Le **a** dans les suffixes de formation de radical des classes de présent est appelé **voyelle thématique**. Les classes de présent avec **a** dans le suffixe de formation de radical sont donc appelées « classes de présent thématiques ».
-:::
-
----
+:::---
 
 ## 6.6. Sanskrit parlé : Autres questions (praśna m. = प्रश्न)
 
-::: grammar-box
+:::grammar-box
 - **N. N. kiṃ karoti?** = N.N. किं करोति = « Que fait N. N. ? »
 - **N. N. (plural) kiṃ kurvanti?** = N.N. किं कुर्वन्ति = « Que font les N.N. ? »
 - (karoti, kurvanti de **kṛ** = कृ 8 U : « faire, accomplir »)
 - **kiṃ kuśalam?** = किं कुशलम् = « Comment allez-vous ? »
 - Réponse : **sarvathā kuśalam** = सर्वथा कुशलम् = « (Je vais) bien sous tous les rapports. »
-:::
-
----
+:::---
 
 ## 6.7. Liste de vocabulaire
 
-::: grammar-box
+:::grammar-box
 En sanskrit, les verbes sont présentés sous leur **forme de racine**. Le chiffre après la racine indique la **classe de conjugaison**.
 
 - **P :** La racine est uniquement au Parasmaipada.
 - **Ā :** La racine est uniquement à l'Ātmanepada.
 - **U :** Ubhayapada (« les deux formes ») : La racine est utilisée au Parasmaipada et à l'Ātmanepada.
 - **():** Entre parenthèses se trouve la 3e personne du singulier du présent de l'indicatif (laṭ).
-:::
-
-**Apprenez les mots suivants :**
+:::**Apprenez les mots suivants :**
 - **yaj** 1 U (yajati) यज् यजति : honorer par un sacrifice, sacrifier
 - **bhū** 1 P (bhavati) भू भवति : devenir, surgir, être
 - **smṛ** 1 P (smarati) स्मृ स्मरति : actualiser, se souvenir
@@ -231,14 +209,12 @@ En sanskrit, les verbes sont présentés sous leur **forme de racine**. Le chiff
 12. Qui (fém.) danse ?
 13. La (mentionnée) Brahmane danse.
 
-::: media
+:::media
 ![](/images/lekt0601.webp)
 **Śivo nṛtyati** = शिवो नृत्यति
 Śiva Naṭarāja (नटराज), Kadavul Hindu Temple, Kauai, Hawaii
 (Source de l'image : Wikipedia, CC-BY-SA 2.5)
-:::
-
----
+:::---
 
 ## 6.9. Exercice de révision
 
@@ -311,13 +287,11 @@ En sanskrit, les verbes sont présentés sous leur **forme de racine**. Le chiff
 2. Durgā est une déesse.
 3. Mīnākṣī est une déesse.
 
-::: media
+:::media
 ![](/images/lekt0602.webp)
 **Mīnākṣī** (मीनाक्षी), Temple de Mīnākṣī, Madurai, Tamil Nadu
 (Source de l'image : Wikipedia, Domaine public)
-:::
-
-4. Ils sont confus.
+:::4. Ils sont confus.
 5. Rāma est un homme saint.
 6. Qui est le SEIGNEUR ?
 7. Indra est le SEIGNEUR.

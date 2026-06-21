@@ -99,7 +99,7 @@ C) Put the sentences of [Lesson 10](lektion10.md), Exercise C, into the passive 
 16\. Which warriors fight with the Kshatriyas? के योधाः क्षत्रियैः सह युध्यन्ते
 कैर्योधैः क्षत्रियैः सह युद्धम् ।
 
-::: media
+:::media
 ![](/images/uebung020.webp)
 Fig.: ब्राह्मणो ऽग्निं करोति
 (Image source: [Details](/en/licenses#uebung020))

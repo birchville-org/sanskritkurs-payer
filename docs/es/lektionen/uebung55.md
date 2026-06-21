@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Determine y traduzca las siguientes formas y forme las correspondientes formas del **aoristo de tema en a**:
 
-::: grammar-box
+:::grammar-box
 | Núm. | Forma | Determinación / Significado | aor. a |
 |:---|:---|:---|:---|
 | १. | **दोक्ष्यन्ति** | *दुष्* 4P: 3. Pl. Fut. P. (ellos destruirán) | **अदुषन्** |
@@ -46,9 +46,7 @@ Determine y traduzca las siguientes formas y forme las correspondientes formas d
 | ३१. | **अशुष्याम** | *शुष्* 4P: 1. Pl. Impf. P. (nosotros nos secamos) | **अशुषाम** |
 | ३२. | **सिष्णेह** | *स्निह्* 4P: 1. 3. Sg. Perf. P. (yo amé / él amó) | **अस्निहम् / अस्निहत्** |
 
-:::
-
-::: media
+::::::media
 ![](/images/uebung092.webp)
 Fig.: अशोभथाः । अशुभः
 (Fuente de la imagen: [Detalles](/licenses#uebung092))

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Determinați următoarele forme verbale și formați formele de imperfect corespunzătoare în persoană, număr și genul verbului:
 
-::: grammar-box
+:::grammar-box
 | Prezent / Viitor | Imperfect |
 | :--- | :--- |
 | १. **हरिष्यन्ते** | अहरन्त |
@@ -88,9 +88,7 @@ A) Determinați următoarele forme verbale și formați formele de imperfect cor
 | ७३. **तनोति** | अतनोत् |
 | ७४. **प्रजानीते** | प्राजानीत |
 | ७५. **जीवन्ति** | अजीवन् |
-:::
-
-B) Traduceți și descompuneți compusele în sanscrită:
+:::B) Traduceți și descompuneți compusele în sanscrită:
 
 १. **आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥**
 (जनस्य इन्द्रस्य अग्रे । महत्-पुण्यम् । देवानां लोके)
@@ -111,19 +109,17 @@ Brahmanii au studiat Veda și l-au predat, au fost stăpâni ai jertfei pentru z
 (बुद्धस्य पुत्राः)
 Fiii lui Buddha au recunoscut adevărul, au oprit suferința și au atins eliberarea. Un monah care urmează calea lui Buddha este numit „Fiul lui Buddha”.
 
-::: media
+:::media
 ![](/images/uebung050.webp)
 Fig.: सम्पन्नरूपा
 (Sursa imaginii: [Detalii](/licenses#uebung050))
-:::
-
----
+:::---
 
 ## Determinarea formei cuvântului
 
 Determinați și traduceți următoarele cuvinte:
 
-::: grammar-box
+:::grammar-box
 | Formă cuvânt | Determinare | Semnificație |
 | :--- | :--- | :--- |
 | १. **देवस्य** | Gen. sg. m. | al zeului |
@@ -211,15 +207,11 @@ Determinați și traduceți următoarele cuvinte:
 | ८२. **अधिकृतेषु** | Lok. pl. m./n. PPP | la cei însărcinați |
 | ८३. **अध्यापयति** | 3. sg. P. Ind. Präs. Kaus. | el instruiește |
 | ८४. **वाचयन्ति** | 3. pl. P. Ind. Präs. Kaus. | ei permit citirea |
-:::
-
-::: media
+::::::media
 ![](/images/uebung051.webp)
 Fig.: किमयं रथो बालान् सुखतां वहति
 (Sursă imagine: [Detalii](/licenses#uebung051))
-:::
-
----
+:::---
 
 ## Exercițiu privind Sandhi
 
@@ -294,13 +286,11 @@ Completați următoarele propoziții cu cuvintele din paranteze, respectând reg
 12\. La revedere!
 **पुनर्दर्शनाय ॥**
 
-::: media
+:::media
 ![](/images/uebung052.webp)
 Fig.: पुनर्दर्शनाय
 (Sursa imaginii: [Detalii](/licenses#uebung052))
-:::
-
----
+:::---
 
 ## Fragment Școlar (Stotra)
 
@@ -308,13 +298,11 @@ Fig.: पुनर्दर्शनाय
 **आशयच्चामृतं देवान्वेदमध्यापयद्विधिम् ।**  
 **आसयत्सलिले पृथ्वीं यः स मे श्रीहरिर्गतिः ॥** Înaltul Hari este refugiul meu, care i-a trimis pe dușmanii Săi în cer, le-a făcut cunoscuți Săilor sensul Vedei, zeilor le-a dat Amṛta de mâncare, creatorului i-a predat Veda și a fixat pământul în apă.
 
-::: media
+:::media
 ![](/images/uebung053.webp)
 Fig.: श्रीगङ्गाधराय नमः
 (Sursa imaginii: [Detalii](/licenses#uebung053))
-:::
-
----
+:::---
 
 ## Narațiune: Bătrânul și maimuțele (Sanskrit-Bālādarśa)
 
@@ -323,7 +311,7 @@ Fig.: श्रीगङ्गाधराय नमः
 **Traducere:**
 Într-o zi, un bătrân a mers într-un alt sat și s-a obosit pe drum. Pentru a se odihni, s-a așezat la piciorul unui copac de mango, de marginea drumului. Pe acest copac atârnau fructe coapte. Bătrânul a dorit să le mănânce, dar nu se putea urca pe copac pentru a le culege. Norocul a fost că pe copac erau câteva maimuțe, care mâncau fructe. Când bătrânul a observat acest lucru, s-a bucurat. Ce a făcut? A luat câteva pietre, Țintind spre maimuțe, le-a aruncat. Maimuțele s-au mâniat, au cules câteva fructe și le-au aruncat asupra bătrânului. Bătrânul a primit cu bucurie fructele și a continuat drumul. Este minunată ingeniozitatea bătrânului!
 
-::: media
+:::media
 ![](/images/uebung054.webp)
 Fig.: वानरः कुपितः
 (Sursa imaginii: [Detalii](/licenses#uebung054))

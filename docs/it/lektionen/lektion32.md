@@ -8,7 +8,7 @@ status: stable
 
 ## 32.1. I tempi del passato
 
-:::: grammar-box
+::::grammar-box
 **Nella letteratura sanscrita più antica e tra i grammatici indigeni, i tre tempi del passato sono chiaramente distinti nel loro uso:**
 
 *   **l'Aoristo (लुङ्, अद्यतनी) indica semplicemente il completamento di un'azione o ciò che è accaduto durante il giorno corrente, il passato recente**
@@ -20,7 +20,7 @@ status: stable
 
 ## 32.2. L’imperfetto (लङ्)
 
-:::: grammar-box
+::::grammar-box
 **Formazione:**
 
 **Augmento a- + tema del presente + desinenze secondarie**
@@ -28,27 +28,21 @@ status: stable
 **Le tre persone del singolare del Parasmaipada all’imperfetto si formano, per le radici atematiche, dal tema del presente forte; tutte le altre forme dal tema del presente debole.**
 
 **L’imperfetto ha solo l’indicativo.**
-::::
+::::Esempi:
 
-Esempi:
-
-::: indent
+:::indent
 **भू** 3. sg. Imp. P. **अभवत्** (a-bhava-t)
 
 **सु**
 *   3. sg. Imp. P. **असुनोत्** (a-suno-t)
 *   3. pl. Imp. P. **असुन्वन्** (a + sunu + an)
-:::
+:::## 32.3. Regole per l'augmento
 
-## 32.3. Regole per l'augmento
-
-:::: grammar-box
+::::grammar-box
 **1. Quando l'augmenta a- precede una radice che inizia con una vocale, l'augmenta e l'inizio della radice si fondono nella वृद्धि della vocale radicale.**
-::::
+::::Esempi:
 
-Esempi:
-
-:::: grammar-box
+::::grammar-box
 
 | | 3. sg. Impf. | 3. pl. Impf. |
 | :--- | :--- | :--- |
@@ -56,15 +50,11 @@ Esempi:
 | इ | ऐत्[[br]](a- + e + t) | आयन्[[br]](a + i + an) |
 | आस् | आस्त[[br]](a + ās-ta) | |
 
-::::
-
-:::: grammar-box
+::::::::grammar-box
 **2. Quando le preposizioni precedono una radice, l'augmenta a- segue le preposizioni e precede immediatamente la radice.**
-::::
+::::Esempi:
 
-Esempi:
-
-:::: grammar-box
+::::grammar-box
 
 | | 3. sg. Impf. |
 | :--- | :--- |
@@ -73,17 +63,13 @@ Esempi:
 | उपगम् | उपागच्छत्[[br]](upa + a + gaccha-t) |
 | उपागम् | उपागच्छत्[[br]](upa + ā + a + gaccha-t) |
 
-::::
+::::## 32.4. Esempi di formazione dell'imperfetto
 
-## 32.4. Esempi di formazione dell'imperfetto
-
-::: important
+:::important
 **Per dimostrare la formazione delle forme, vengono qui generate anche forme ātmanepada da radici parasmaipada! Queste forme artificiali sono racchiuse tra &lt; &gt;.**
-:::
+:::### 32.4.1. Classi tematiche del presente
 
-### 32.4.1. Classi tematiche del presente
-
-:::: grammar-box
+::::grammar-box
 
 | Classe del presente | Radice[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -93,11 +79,9 @@ Esempi:
 | 10. / Caus. | चुर् | अचोरयत् | अचोरयन् | अचोरयत | अचोरयन्त |
 | Passivo | गम् | अगम्यत | अगम्यन्त | | |
 
-::::
+::::### 32.4.2. Classi di presente atematico
 
-### 32.4.2. Classi di presente atematico
-
-:::: grammar-box
+::::grammar-box
 
 | Classe di presente | Radice[[br]]धातु | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -115,9 +99,7 @@ Esempi:
 | 7. | रुध् | अरुणत्[[br]](a-ruṇadh + t &gt; aruṇaddh &gt; aruṇat) | अरुन्धन् | अरुन्द्ध | अरुन्धत |
 | 9. | क्री | अक्रीणात्[[br]](a-krīṇā-t) | अक्रीणन्[[br]](a-krīṇ-an) | अक्रीणीत[[br]](a-krīṇī-ta) | अक्रीणत[[br]](a-krīṇ-ata) |
 
-::::
-
-## 32.5. Elenco di parole
+::::## 32.5. Elenco di parole
 
 **अग्र n.:** Punta, estremità
 
@@ -126,7 +108,7 @@ Esempi:
 **एकदा**
 
 **श्रम् श्राम्यते**
-::: indent
+:::indent
 श्रमिष्यते[[br]]
 श्रम्यते[[br]]
 श्रमयति[[br]]
@@ -134,20 +116,16 @@ Esempi:
 श्रमित्वा । श्रान्त्वा[[br]]
 -श्रम्य[[br]]
 श्रमितुम्
-:::
-
-**पार्श्व**
+:::**पार्श्व**
 
 **चूत**
 
-::: media
+:::media
 ![](/images/lekt3202.webp)
 Fig.: चूतः
 Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3202))
-:::
-
-**तरु** **वृक्ष**
+:::**तरु** **वृक्ष**
 
 **पचेलिम**
 
@@ -156,93 +134,75 @@ Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 **परम्**
 
 **रुह् रोहति**
-::: indent
+:::indent
 रोक्ष्यति[[br]]
 रुह्यते[[br]]
 रोहयति । रोपयति[[br]]
 रूढ[[br]]
 -रुह्य[[br]]
 रोढुम्
-:::
-
-**ग्रह् गृह्णाति**
-::: indent
+:::**ग्रह् गृह्णाति**
+:::indent
 ग्रहीष्यति (!)[[br]]
 गृह्यते[[br]]
 ग्राहयति[[br]]
 गृहीत[[br]]
 -गृह्य[[br]]
 ग्रहीतुम् (!)
-:::
+:::**वानर कपि**
 
-**वानर कपि**
-
-::: media
+:::media
 ![](/images/lekt3203.webp)
 Fig.: वानराः
 Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3203))
-:::
-
-**लोक् लोकयति**
-::: indent
+:::**लोक् लोकयति**
+:::indent
 लोकयिष्यति[[br]]
 लोक्यते[[br]]
 लोकित[[br]]
 -लोक्य[[br]]
 लोकितुम्
-:::
-
-**प्रहर्ष**
+:::**प्रहर्ष**
 
 **कति**
 
 **उपल**
 
-::: media
+:::media
 ![](/images/lekt3204.webp)
 Fig.: उपलाः
 Cava di pietra a sud di Pune, Maharashtra. [Fonte immagine: lecercle / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3204))
-:::
+:::**लक्ष्य**
 
-**लक्ष्य**
-
-::: media
+:::media
 ![](/images/lekt3205.webp)
 Fig.: लक्ष्यम्
 Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlogelin / Flickr. CC BY-NC]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3205))
-:::
-
-**क्षिप् क्षिपति**
-::: indent
+:::**क्षिप् क्षिपति**
+:::indent
 क्षेप्स्यति[[br]]
 क्षिप्यते[[br]]
 क्षेपयति[[br]]
 क्षिप्त[[br]]
 -क्षिप्य[[br]]
 क्षेप्तुम्
-:::
-
-**चि चिनोति**
-::: indent
+:::**चि चिनोति**
+:::indent
 चेष्यति[[br]]
 चीयते[[br]]
 चाययति[[br]]
 चित[[br]]
 -चित्य[[br]]
 चेतुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3207.webp)
 Fig.: चितं गोमयं दहति
 Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine: thebigdurian / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3207))
-:::
-
-**चि अव**
+:::**चि अव**
 
 **प्रति**
 
@@ -250,14 +210,12 @@ Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine
 
 **कौशल कुशल**
 
-::: media
+:::media
 ![](/images/lekt3206.webp)
 Fig.: कौशलम्
 Pittura di mehndi sulle mani a Mumbai. [Fonte immagine: the_gman / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3206))
-:::
-
-## 32.6. Esercizio
+:::## 32.6. Esercizio
 
 A) Determinare le seguenti forme verbali e formare le corrispondenti forme dell'imperfetto in persona, numero e genere verbale:
 
@@ -349,14 +307,12 @@ B) Tradurre e risolvere i composti in sanscrito:
 
 बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥
 
-::: media
+:::media
 ![](/images/lekt3208.webp)
 Fig.: बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते
 Monaco buddhista nello Sri Lanka. [Fonte immagine: Trollderella / Wikipedia. GNU FDL]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3208))
-:::
-
-## 32.7. Esercizio di ripasso durante le vacanze di Natale
+:::## 32.7. Esercizio di ripasso durante le vacanze di Natale
 
 Nota: originariamente questa lezione veniva tenuta presso l'Università di Tubinga in ogni semestre invernale. Con la Lezione 32 iniziarono le vacanze di Natale di due settimane.
 
@@ -573,14 +529,12 @@ C) Tradurre in Sanscrito:
 
 52. Arrivederci!
 
-::: media
+:::media
 ![](/images/lekt3209.webp)
 Fig.: पुनर्दर्शनाय
 Saluto indiano / congedo. [Fonte immagine: dhyanji / Flickr. CC BY-NC-ND]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3209))
-:::
-
-## 32.8. Esercizio di ripasso
+:::## 32.8. Esercizio di ripasso
 
 Tradurre e determinare le seguenti forme lessicali:
 
@@ -627,7 +581,7 @@ Tradurre e determinare le seguenti forme lessicali:
 
 ## 32.9. Esercizio di traduzione
 
-::: compact
+:::compact
 एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ**न्पथि** श्रान्तो ऽभवत् ।[[br]]
 अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥[[br]]
 तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।[[br]]
@@ -640,29 +594,23 @@ Tradurre e determinare le seguenti forme lessicali:
 वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् ।[[br]]
 वृद्धः सहर्षं तान्या**दाय** स्वाभीष्टदेशं गतः ॥[[br]]
 अहो वृद्धस्य कौशलम् ॥
-:::
-
-(da: संस्कृतबालादर्श)
+:::(da: संस्कृतबालादर्श)
 
 
 Spiegazioni:
 
-::: indent
+:::indent
 **पथि** Loc. sg. di **पथ् m.** "strada" (declinazione irregolare)
 
 **लक्ष्यीकृ** च्विऽ-suffisso अन् **लक्ष्य + कृ** : rendere qualcosa लक्ष्य, ciò che prima non लक्ष्य era
 
 **आदाय** Assolutivo di **आ-दा** (3ª classe del presente) "prendere"
-:::
-
-::: media
+::::::media
 ![](/images/lekt3210.webp)
 Fig.: तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त
 Scimmie negli alberi di mango. [Fonte immagine: Wikipedia. GNU FDL]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3210))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 
 **lekt3202:** Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]

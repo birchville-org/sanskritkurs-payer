@@ -11,11 +11,9 @@ status: stable
 
 ## 36.1. Formations particulières du parfait
 
-:::: grammar-box
+::::grammar-box
 1\. Certaines racines présentent, après la syllabe de reduplication, une modification de l’attaque de la racine.
-::::
-
-Exemples :
+::::Exemples :
 
 | Racine[[br]]धातु | 3. sg. Parf. P. | 3. pl. Parf. P. | 3. sg. Parf. Ā. | 3. pl. Parf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,56 +21,40 @@ Exemples :
 | **चि** 5U[[br]]Parf. IIIa | चि***का***य[[br]]**चिचाय** | चि***क्यु***र्[[br]]**चिच्युर्** | चि***क्ये***[[br]]**चिच्ये** | चि***क्यि***रे[[br]]**चिच्यिरे** |
 | **हन्** 2P[[br]]Parf. Va | ज***घा***न | ज***घ्नु***र् | | |
 
-:::: grammar-box
+::::grammar-box
 2\. La racine विद् 2P « savoir » possède un parfait à valeur présente.
-::::
-
-:::: grammar-box
+::::::::grammar-box
 | Racine[[br]]धातु | 3. sg. Parf. P. | 3. pl. Parf. P. |
 | :--- | :--- | :--- |
 | **विद्** 2P | **वेद**[[br]]il/elle sait | **विदुर्**[[br]]ils/elles savent |
-::::
-
-:::: grammar-box
+::::::::grammar-box
 3\. La racine अह् « dire » ne possède que des formes de parfait (Parfait I). Celles-ci ont une valeur présente.
-::::
-
-:::: grammar-box
+::::::::grammar-box
 | Racine[[br]]धातु | 3. sg. Parf. P. | 3. pl. Parf. P. |
 | :--- | :--- | :--- |
 | **अह्**[[br]]Parf. I | **आह**[[br]]il/elle dit | **आहुर्**[[br]]ils/elles disent |
-::::
-
-:::: grammar-box
+::::::::grammar-box
 4\. La racine भू 1P possède le thème de parfait बभू, devant voyelles बभूव्.
-::::
-
-:::: grammar-box
+::::::::grammar-box
 | Racine[[br]]धातु | 3. sg. Parf. P. | 3. pl. Parf. P. |
 | :--- | :--- | :--- |
 | **भू** 1P | **बभूव** | **बभूवुर्** |
-::::
+::::## 36.2. Le parfait périphrastique (अनुप्रयोगलिट्)
 
-## 36.2. Le parfait périphrastique (अनुप्रयोगलिट्)
-
-:::: grammar-box
+::::grammar-box
 Le parfait périphrastique (अनुप्रयोगलिट्) est utilisé :
 
 1. pour les conjugaisons dérivées (causatif, desideratif, fréquentatif, dénominaux)
 2. pour les racines commençant par une voyelle longue (sauf ā-) ou par une voyelle (sauf a-) suivie de deux consonnes
 3. pour certaines autres racines
-::::
-
-:::: grammar-box
+::::::::grammar-box
 **Formation :**
 
 radical de présent (faible) + -ām + forme de parfait correspondante de कृ, अस् ou भू
 
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - अस् et भू sont également conjugués au parasmaipada pour les verbes à ātmanepada.
-::::
-
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+::::Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 Exemples :
 
@@ -83,15 +65,12 @@ Exemples :
 
 ## 36.3. Passif du parfait
 
-:::: grammar-box
+::::grammar-box
 Pour le passif au parfait, on utilise les formes de l’Ātmanepada. On préfère cependant l’usage du PPP. La construction est dans les deux cas celle des phrases passives :
 
-::: indent
+:::indent
 तेन पुण्यं चक्रे = तेन पुण्यं कृतम् = « Il accomplit une œuvre méritoire »
-:::
-::::
-
-## 36.4. Liste de vocabulaire
+:::::::## 36.4. Liste de vocabulaire
 
 अह् P seulement parfait avec sens présent आह, आहुर् : dire, parler
 
@@ -99,62 +78,52 @@ Pour le passif au parfait, on utilise les formes de l’Ātmanepada. On préfèr
 
 ईक्ष् 1Ā ईक्षते : voir, (se) rendre visible, examiner
 
-::: indent
+:::indent
 Parf. ईक्षां चक्रे  
 Fut. ईक्षिष्यते  
 Pass. ईक्ष्यते  
 Caus. ईक्षयति  
 PPP ईक्षित  
 Inf. ईक्षितुम्
-:::
-चि 5U चिनोति : empiler, rassembler
+:::चि 5U चिनोति : empiler, rassembler
 
-::: indent
+:::indent
 Parf. चिकाय । चिचाय  
 Fut. चेष्यति  
 Pass. चीयते  
 Caus. चाययति । चापयति  
 PPP चित  
 Inf. चेतुम्
-:::
-::: media
+::::::media
 ![](/images/lekt3601.webp)
 Fig. : गोमयं चिकाय
 (Source de l'image : [Détails](/fr/licenses#lekt3601))
-:::
+:::व्रज् 1P व्रजति : marcher, aller, s'éloigner
 
-व्रज् 1P व्रजति : marcher, aller, s'éloigner
-
-::: indent
+:::indent
 Parf. Vc वव्राज, वव्रजुर्  
 Fut. व्रजिष्यति  
 Pass. व्रज्यते  
 Caus. व्राजयति  
 PPP व्रजित  
 Inf. व्रजितुम्
-:::
-व्रज् + प्र 1P प्रव्रजति : s'éloigner (en particulier quitter le foyer pour l'errance ascétique = devenir moine)
+:::व्रज् + प्र 1P प्रव्रजति : s'éloigner (en particulier quitter le foyer pour l'errance ascétique = devenir moine)
 
 अगार n.। आगार n. : maison, foyer
 
-::: media
+:::media
 ![](/images/lekt3602.webp)
 Fig. : अगारम्
 (Source de l'image : [Détails](/fr/licenses#lekt3602))
-:::
-
-::: indent
+::::::indent
 dont :
 
 अनगार्य n. । अनगारika f. : errance d'un moine ou novice bouddhiste
-:::
-
-::: media
+::::::media
 ![](/images/lekt3603.webp)
 Fig. : अनगार्यम्
 (Source de l'image : [Détails](/fr/licenses#lekt3603))
-:::
-अञ्जलि m. : Les deux mains jointes et levées en signe de respect
+:::अञ्जलि m. : Les deux mains jointes et levées en signe de respect
 
 आदृत 3 : estimé
 
@@ -164,32 +133,29 @@ Fig. : अनगार्यम्
 
 पृष्ठ n : dos, arrière
 
-::: indent
+:::indent
 पृष्ठम् : derrière
-:::
-प्रजापति m. : Seigneur des créatures, dieu créateur
+:::प्रजापति m. : Seigneur des créatures, dieu créateur
 
 अनु préfixe verbal : après, le long de, par-dessus - vers, le long de, selon, vers, derrière - vers
 
-::: indent
+:::indent
 par ex.
 
 अनुकृ : imiter, faire comme
 
 अनुगम् : suivre quelqu'un, marcher le long de
-:::
-अभि : vers, après - vers, vers - vers, contre, dans - dedans, par rapport à, sur, sur, à
+:::अभि : vers, après - vers, vers - vers, contre, dans - dedans, par rapport à, sur, sur, à
 
-::: indent
+:::indent
 par ex.
 
 अभिगम् : aller vers, s'approcher
 
 वद् + अभि Causatif Ā अभिवादयते : saluer formellement, interpeller
-:::
-ग्लै 1P ग्लायति : éprouver de la répulsion, disparaître
+:::ग्लै 1P ग्लायति : éprouver de la répulsion, disparaître
 
-::: indent
+:::indent
 Parf. IV जग्लौ  
 Fut. ग्लास्यति  
 Pass. ग्लायते  
@@ -197,10 +163,9 @@ Caus. ग्लापयति । ग्लपयति
 PPP ग्लान  
 Inf. ग्लातुम्  
 Absol. -ग्लाय
-:::
-घ्रा 1P ***जिघ्रति*** : sentir quelque chose
+:::घ्रा 1P ***जिघ्रति*** : sentir quelque chose
 
-::: indent
+:::indent
 Parf. IV जघ्रौ  
 Fut. घ्रास्यति  
 Pass. घ्रायते  
@@ -208,22 +173,20 @@ Caus. घ्रापयति
 PPP घ्रात । घ्राण  
 Inf. घ्रातुम्  
 Absol. -घ्राय
-:::
-प्री 9U प्रीणति : amuser, réjouir ; aimer, être favorable à quelqu'un
+:::प्री 9U प्रीणति : amuser, réjouir ; aimer, être favorable à quelqu'un
 
 प्री 4Ā प्रीयते : se réjouir
 
-::: indent
+:::indent
 Parf. IIIa पिप्राय, पिप्रिये  
 Fut. प्रेष्यति  
 Pass. प्रीयते  
 Caus. ***प्रीणयति***  
 PPP प्रीत  
 Inf. प्रेतुम्
-:::
-स्पृश् 6P स्पृशति : toucher
+:::स्पृश् 6P स्पृशति : toucher
 
-::: indent
+:::indent
 Parf. IIa पस्पर्श, पस्पृशुर्  
 Fut. स्पर्क्ष्यति । स्प्रक्ष्यति  
 Pass. स्पृश्यते  
@@ -231,29 +194,23 @@ Caus. स्पर्शयति
 PPP स्पृष्ट  
 Inf. स्पर्ष्तुम् । स्प्रष्तुम्  
 Absol. -स्पृश्य
-:::
-::: media
+::::::media
 ![](/images/lekt3606.webp)
 Fig. : सुगतो भूमीं पस्पर्श
 (Source de l'image : [Détails](/fr/licenses#lekt3606))
-:::
+:::हृष् 4P हृष्यति : devenir rigide : se dresser (cheveux), se réjouir de (Instr., Acc., Loc.)
 
-हृष् 4P हृष्यति : devenir rigide : se dresser (cheveux), se réjouir de (Instr., Acc., Loc.)
-
-::: indent
+:::indent
 Parf. II जहर्ष  
 Fut. हर्षिष्यति  
 Pass. हृष्यते  
 Caus. हर्षयति  
 PPP हृषित
-:::
-::: media
+::::::media
 ![](/images/lekt3604.webp)
 Fig. : लोमहर्षः
 (Source de l'image : [Détails](/fr/licenses#lekt3604))
-:::
-
-स्वक 3 : propre (le mien, le tien ...) ; m. : membre
+:::स्वक 3 : propre (le mien, le tien ...) ; m. : membre
 
 
 
@@ -291,13 +248,11 @@ D) Traduisez :
 
 पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज । बुद्ध्यार्यसत्यानि प्रज्ञाय प्रज्ञया च दुःखान्मुक्तो मोक्तुकामार्यजनान्बोधयामासेति भिक्षव आहुः ॥१॥
 
-::: media
+:::media
 ![](/images/lekt3605.webp)
 Fig. : पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज
 (Source de l’image : [Détails](/fr/licenses#lekt3605))
-:::
-
-ब्राह्मणा महादेवयज्ञायाग्निं चिक्यिरे । ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश । एवं यज्ञेन ब्राह्मणा महादेवैरादयां चक्रुस्तांश्च स्तोत्रानि श्रावयां बभूवुः ॥२॥
+:::ब्राह्मणा महादेवयज्ञायाग्निं चिक्यिरे । ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश । एवं यज्ञेन ब्राह्मणा महादेवैरादयां चक्रुस्तांश्च स्तोत्रानि श्रावयां बभूवुः ॥२॥
 
 रक्षितधर्मक्षत्रिययोधा महानगरं जेतुकामाञ्छत्रून्विजिग्युर्न तु जघ्नुः ॥३॥
 
@@ -420,7 +375,7 @@ Traduisez :
 
 1\. महाभारत १३.७.२५-२६
 
-::: indent
+:::indent
 येन प्रीणति ***पितरं***
 तेन प्रीतः प्रजापतिः ।
 प्रीणति ***मातरं*** येन
@@ -445,33 +400,25 @@ Explications :
 त्रयस् : Nom. pl. masc. de त्रि "trois"
 
 सर्वास् : Nom./Acc. pl. fém. de सर्व "tous, chaque"
-:::
-
-::: media
+::::::media
 ![](/images/lekt3607.webp)
 Fig. : येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।
 (Source de l'image : [Détails](/fr/licenses#lekt3607))
-::: 
+:::2\. मनुस्मृति ४.१५४ sur le comportement correct envers les aînés :
 
-2\. मनुस्मृति ४.१५४ sur le comportement correct envers les aînés :
-
-::: indent
+:::indent
 अभिवादयेद्वृद्धांश्च दद्याच्चैवासनं स्वकम् ।
 कृताञ्जलिरुपासीत गच्छतः पृष्ठतो ऽन्वियात् ॥
-:::
+:::3\. मनुस्मृति २.९८ : Qui est un जितेन्द्रिय :
 
-3\. मनुस्मृति २.९८ : Qui est un जितेन्द्रिय :
-
-::: indent
+:::indent
 श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च भुक्त्वा घ्रात्वा च यो नरः ।
 न हृष्यति ग्लायति वा स ***विज्ञेयो*** जितेन्द्रियः ॥
 
 Explication : विज्ञेय ३ : celui qui est reconnaissable ; celui qui est connaissable (en tant que)
-:::
+:::4\. मनुस्मृति २.११० sur le comportement correct d'un Brahmane :
 
-4\. मनुस्मृति २.११० sur le comportement correct d'un Brahmane :
-
-::: indent
+:::indent
 नापृष्टः कस्यचिद्ब्रूयान्न चान्यायेन पृच्छतः ।
 जानन्नपि हि मेधावी जडवल्लोक आचरेत् ॥
 
@@ -482,9 +429,7 @@ Dans ce vers, ब्रू est construit avec le génitif
 मेधावी : Nom. sg. masc. de मेधाविन् ३ "sage, intelligent"
 
 जडवत् Adv. "À la manière d'un stupide/obtus/imbécile"
-:::
-
-## 36.8. Exercice de révision sur la morphologie
+:::## 36.8. Exercice de révision sur la morphologie
 
 Déterminez et traduisez les formes de mots suivantes de toutes les manières possibles :
 
@@ -529,7 +474,7 @@ Déterminez et traduisez les formes de mots suivantes de toutes les manières po
 39.  अपिपः
 40.  अपिबत्
 
-::: deleteme-box
+:::deleteme-box
 
 - **lekt3601.jpg** : Fig. : गोमयं चिकाय Udaipur = उदयपुर [Source de l'image : whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Consulté le  2008-12-28. --   Licence Creative Commons (Attribution, pas d'utilisation commerciale)]
 - **lekt3602.jpg** : Fig. : अगारम् Shekawati = शेखावाटी [Source de l'image : bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Consulté le  2008-12-28. --   Licence Creative Commons (Attribution, partage à l'identique)]

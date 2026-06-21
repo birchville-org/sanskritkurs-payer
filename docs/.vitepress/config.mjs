@@ -4,17 +4,17 @@ import { de } from './locales/de.mjs'
 import { en } from './locales/en.mjs'
 import { fr } from './locales/fr.mjs'
 import { it } from './locales/it.mjs'
-// import { bg } from './locales/bg.mjs'
+import { bg } from './locales/bg.mjs'
 import { ru } from './locales/ru.mjs'
 import { uk } from './locales/uk.mjs'
-import { hi } from './locales/hi.mjs'
+// import { hi } from './locales/hi.mjs'
 // ── v1.3 languages ────────────────────────────────────────────────────────────
 import { es } from './locales/es.mjs'
 import { ta } from './locales/ta.mjs'
 import { pa } from './locales/pa.mjs'
 // ── v1.3 additional ───────────────────────────────────────────────────────────
-import { la } from './locales/la.mjs'
-import { rm } from './locales/rm.mjs'
+// import { la } from './locales/la.mjs'
+// import { rm } from './locales/rm.mjs'
 import { ro } from './locales/ro.mjs'
 // ── hidden (planned for later versions) ───────────────────────────────────────
 // import { ar } from './locales/ar.mjs'
@@ -27,9 +27,9 @@ import { ro } from './locales/ro.mjs'
 // import { akk } from './locales/akk.mjs'
 // import { cop } from './locales/cop.mjs'
 import { id } from './locales/id.mjs'
-import { zhCN } from './locales/zh-CN.mjs'
-import { zhTW } from './locales/zh-TW.mjs'
-import { th } from './locales/th.mjs'
+// import { zhCN } from './locales/zh-CN.mjs'
+// import { zhTW } from './locales/zh-TW.mjs'
+// import { th } from './locales/th.mjs'
 import { he } from './locales/he.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
@@ -74,17 +74,17 @@ uk.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Лекція', 'uk
 uk.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Письмо', 'uk')
 uk.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Вправа', 'uk', 10)
 
-hi.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'पाठ', 'hi', 10)
-hi.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'लिपि', 'hi')
-hi.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'अभ्यास', 'hi', 10)
+// hi.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'पाठ', 'hi', 10)
+// hi.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'लिपि', 'hi')
+// hi.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'अभ्यास', 'hi', 10)
 
 fr.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Leçon', 'fr', 10)
 fr.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Écriture', 'fr')
 fr.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercice', 'fr', 10)
 
-rm.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lecziun', 'rm', 10)
-rm.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Scrittira', 'rm')
-rm.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercizi', 'rm', 10)
+// rm.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lecziun', 'rm', 10)
+// rm.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Scrittira', 'rm')
+// rm.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercizi', 'rm', 10)
 
 ro.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lecție', 'ro', 10)
 ro.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Scriere', 'ro')
@@ -104,9 +104,9 @@ ro.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercițiu', 'ro', 
 // zh.themeConfig.sidebar[3].items = getSidebarItems('lektion', '第', 'zh', 10)
 // zh.themeConfig.sidebar[4].items = getSidebarItems('schrift', '书写', 'zh')
 // zh.themeConfig.sidebar[5].items = getSidebarItems('uebung', '练习', 'zh', 10)
-la.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Lectio', 'la', 10)
-la.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Scriptura', 'la')
-la.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Exercitatio', 'la', 10)
+// la.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Lectio', 'la', 10)
+// la.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Scriptura', 'la')
+// la.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Exercitatio', 'la', 10)
 // grc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Μάθημα', 'grc', 10)
 // grc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'grc')
 // grc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ἄσκησις', 'grc', 10)
@@ -127,24 +127,24 @@ id.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Pelajaran', 'id', 
 id.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Aksara', 'id')
 id.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Latihan', 'id', 10)
 
-zhCN.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'zh-CN', 10)
-zhCN.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'zh-CN')
-zhCN.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'zh-CN', 10)
+// zhCN.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'zh-CN', 10)
+// zhCN.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'zh-CN')
+// zhCN.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'zh-CN', 10)
 
-zhTW.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'zh-TW', 10)
-zhTW.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'zh-TW')
-zhTW.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'zh-TW', 10)
+// zhTW.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'zh-TW', 10)
+// zhTW.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'zh-TW')
+// zhTW.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'zh-TW', 10)
 
-th.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'th', 10)
-th.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'th')
-th.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'th', 10)
+// th.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'th', 10)
+// th.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'th')
+// th.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'th', 10)
 
 he.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'he', 10)
 he.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'he')
 he.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'he', 10)
 
 const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
-const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, zhCN, zhTW, th, he];
+const allLocales = [de, en, it, ru, uk, fr, es, ta, pa, ro, id, he];
 
 if (!isAuthorBuild) {
   for (const localeObj of allLocales) {
@@ -185,22 +185,22 @@ export default defineConfig({
     root: { ...de },
     en: { ...en },
     it: { ...it },
-    // bg: { ...bg },
+    bg: { ...bg },
     ru: { ...ru },
     uk: { ...uk },
-    hi: { ...hi },
+    // hi: { ...hi },
     fr: { ...fr },
     // ── v1.3 languages ───────────────────────────────────────────────────────────
     es: { ...es },
     ta: { ...ta },
     pa: { ...pa },
-    la: { ...la },
-    rm: { ...rm },
+    // la: { ...la },
+    // rm: { ...rm },
     ro: { ...ro },
     id: { ...id },
-    'zh-CN': { ...zhCN },
-    'zh-TW': { ...zhTW },
-    th: { ...th },
+    // 'zh-CN': { ...zhCN },
+    // 'zh-TW': { ...zhTW },
+    // th: { ...th },
     he: { ...he },
     // ── hidden (planned for later versions) ─────────────────────────────────────
     // ar: { ...ar },
@@ -218,6 +218,9 @@ export default defineConfig({
   themeConfig: {
     logo: '/birchville_logo.png',
     logoLink: 'https://www.birchville.cc',
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/marcodem/sanskritkurs-payer' }
+    ],
     search: { 
       provider: 'local', 
       options: {
@@ -259,7 +262,7 @@ export default defineConfig({
           root: { translations: { button: { buttonText: 'Suchen' } } },
           en: { translations: { button: { buttonText: 'Search' } } },
           it: { translations: { button: { buttonText: 'Cerca' } } },
-          // bg: { translations: { button: { buttonText: 'Търсене' } } },
+          bg: { translations: { button: { buttonText: 'Търсене' } } },
           ru: { translations: { button: { buttonText: 'Поиск' } } },
           uk: { translations: { button: { buttonText: 'Пошук' } } },
           hi: { translations: { button: { buttonText: 'खोज' } } },
@@ -294,9 +297,7 @@ export default defineConfig({
     lineNumbers: isAuthorBuild,
     breaks: true,
     config: (md) => {
-      md.core.ruler.before('normalize', 'prevent_br_link', (state) => {
-        state.src = state.src.replace(/\[\[br\]\]\(/g, '[[br]] (');
-      });
+
       md.use(multimd_table, {
         multiline: true,
         rowspan: true,
@@ -304,120 +305,47 @@ export default defineConfig({
         multiscript: true,
         colspans: true
       });
-      md.use(container, 'grammar-box', {
-        render: (tokens, idx) => {
-          if (tokens[idx].nesting === 1) {
-            return `<div class="grammar-box custom-block">\n`;
-          } else {
-            return `</div>\n`;
+      const customBoxes = {
+        'grammar-box': 'grammar-box',
+        'grammarbox': 'grammar-box',
+        'grammar-box2': 'grammar-box2',
+        'grammarbox2': 'grammar-box2',
+        'media': 'media',
+        'center': 'center',
+        'metrik-schema': 'metrik-schema',
+        'metrikschema': 'metrik-schema',
+        'important': 'important',
+        'deleteme-box': 'deleteme-box',
+        'deletemebox': 'deleteme-box',
+        'note-box': 'note-box',
+        'notebox': 'note-box',
+        'laut-table': 'laut-table',
+        'lauttable': 'laut-table',
+        'indent': 'indent',
+        'compact': 'compact',
+        'no-header': 'no-header',
+        'noheader': 'no-header'
+      };
+      Object.keys(customBoxes).forEach(box => {
+        const cssClass = customBoxes[box];
+        md.use(container, box, {
+          validate: (params) => params.trim().match(new RegExp(`^${box}(?:\\s+(.*))?$`)),
+          render: (tokens, idx) => {
+            const m = tokens[idx].info.trim().match(new RegExp(`^${box}(?:\\s+(.*))?$`));
+            if (tokens[idx].nesting === 1) {
+              let titleHtml = '';
+              if (m && m[1]) {
+                const titleMatch = m[1].match(/^\[([^\]]+)\]/);
+                if (titleMatch) {
+                  titleHtml = `<div class="md-box__title">${titleMatch[1]}</div>\n`;
+                }
+              }
+              return `<div class="${cssClass} custom-block">\n${titleHtml}`;
+            } else {
+              return `</div>\n`;
+            }
           }
-        }
-      });
-      md.use(container, 'grammar-box2', {
-        render: (tokens, idx) => {
-          if (tokens[idx].nesting === 1) {
-            return `<div class="grammar-box2 custom-block">\n`;
-          } else {
-            return `</div>\n`;
-          }
-        }
-      });
-      md.use(container, 'media', {
-        render: (tokens, idx) => {
-          if (tokens[idx].nesting === 1) {
-            return `<div class="media custom-block">\n`;
-          } else {
-            return `</div>\n`;
-          }
-        }
-      });
-      md.use(container, 'center', {
-        render: (tokens, idx) => {
-          if (tokens[idx].nesting === 1) {
-            return `<div class="center custom-block">\n`;
-          } else {
-            return `</div>\n`;
-          }
-        }
-      });
-      md.use(container, 'metrik-schema', {
-        render: (tokens, idx) => {
-          if (tokens[idx].nesting === 1) {
-            return `<div class="metrik-schema custom-block">\n`;
-          } else {
-            return `</div>\n`;
-          }
-        }
-      });
-      
-      md.use(container, 'important', {
-        render: (tokens, idx) => {
-          if (tokens[idx].nesting === 1) {
-            return `<div class="important custom-block">\n`;
-          } else {
-            return `</div>\n`;
-          }
-        }
-      });
-
-      md.use(container, 'deleteme-box', {
-        render: (tokens, idx) => {
-          if (tokens[idx].nesting === 1) {
-            return `<div class="deleteme-box custom-block">\n`;
-          } else {
-            return `</div>\n`;
-          }
-        }
-      });
-
-      md.use(container, 'note-box', {
-        render: (tokens, idx) => {
-          if (tokens[idx].nesting === 1) {
-            return `<div class="note-box custom-block">\n`;
-          } else {
-            return `</div>\n`;
-          }
-        }
-      });
-
-      md.use(container, 'laut-table', {
-        render: (tokens, idx) => {
-          if (tokens[idx].nesting === 1) {
-            return `<div class="laut-table custom-block">\n`;
-          } else {
-            return `</div>\n`;
-          }
-        }
-      });
-
-      md.use(container, 'indent', {
-        render: (tokens, idx) => {
-          if (tokens[idx].nesting === 1) {
-            return `<div class="indent custom-block">\n`;
-          } else {
-            return `</div>\n`;
-          }
-        }
-      });
-
-      md.use(container, 'compact', {
-        render: (tokens, idx) => {
-          if (tokens[idx].nesting === 1) {
-            return `<div class="compact custom-block">\n`;
-          } else {
-            return `</div>\n`;
-          }
-        }
-      });
-
-      md.use(container, 'no-header', {
-        render: (tokens, idx) => {
-          if (tokens[idx].nesting === 1) {
-            return `<div class="no-header custom-block">\n`;
-          } else {
-            return `</div>\n`;
-          }
-        }
+        });
       });
       
       // Fix for markdown-it-attrs tables tbody calculate error with markdown-it-multimd-table:
@@ -441,7 +369,7 @@ export default defineConfig({
         }
       });
       
-      // Auto-styling for Devanagari characters and [[br]] replacement
+      // Scholarly syntax: :br, :indent, ⟪Devanagari⟫
       md.core.ruler.after('linkify', 'scholarly_fixes', (state) => {
         const isHindiPage = state.env?.relativePath?.startsWith('hi/');
         state.tokens.forEach(token => {
@@ -449,55 +377,31 @@ export default defineConfig({
             let newChildren = [];
             token.children.forEach(child => {
               if (child.type === 'text') {
-                // Combined processing for [[br]] and Devanagari
-                let segments = [child.content];
-                if (child.content.includes('[[br]]')) {
-                  segments = child.content.split('[[br]]');
+                const SCHOLARLY_RE = /(⟪[^⟫]+⟫|(?<!:):br|(?<!:):indent)/g;
+                if (!SCHOLARLY_RE.test(child.content)) {
+                  newChildren.push(child);
+                  return;
                 }
-
-                segments.forEach((segment, index) => {
-                  // 1. Process Devanagari (\u27EAmarked\u27EB = Sanskrit, bare = locale-dependent) and [[indent]]
-                  const parts = segment.split(/(\u27EA[\u0900-\u097F]+\u27EB|[\u0900-\u097F]+|\[\[indent\]\])/g);
-                  parts.forEach(part => {
-                    if (part.startsWith('\u27EA') && part.endsWith('\u27EB')) {
-                      // Explicitly marked Sanskrit \u2014 always red, strip \u27EA\u27EB wrappers
-                      const span = new state.Token('span_open', 'span', 1);
-                      span.attrs = [['class', 'sanskrit-dev']];
-                      newChildren.push(span);
-                      const text = new state.Token('text', '', 0);
-                      text.content = part.slice(1, -1);
-                      newChildren.push(text);
-                      newChildren.push(new state.Token('span_close', 'span', -1));
-                    } else if (/[\u0900-\u097F]/.test(part)) {
-                      const span = new state.Token('span_open', 'span', 1);
-                      span.attrs = [['class', isHindiPage ? 'hindi-dev' : 'sanskrit-dev']];
-                      newChildren.push(span);
-
-                      const text = new state.Token('text', '', 0);
-                      text.content = part;
-                      newChildren.push(text);
-
-                      newChildren.push(new state.Token('span_close', 'span', -1));
-                    } else if (part === '[[indent]]') {
-                      const span = new state.Token('span_open', 'span', 1);
-                      span.attrs = [['class', 'indent-inline']];
-                      newChildren.push(span);
-                      newChildren.push(new state.Token('span_close', 'span', -1));
-                    } else if (part) {
-                      const text = new state.Token('text', '', 0);
-                      text.content = part;
-                      newChildren.push(text);
-                    }
-                  });
-
-                  // 2. Add break if not the last segment
-                  if (index < segments.length - 1) {
+                const parts = child.content.split(SCHOLARLY_RE);
+                parts.forEach(part => {
+                  if (!part) return;
+                  if (part.startsWith('⟪') && part.endsWith('⟫')) {
+                    const span = new state.Token('html_inline', '', 0);
+                    span.content = `<span class="${isHindiPage ? 'hindi-dev' : 'sanskrit-dev'}">${part.slice(1, -1)}</span>`;
+                    newChildren.push(span);
+                  } else if (part === ':br') {
                     newChildren.push(new state.Token('hardbreak', 'br', 0));
+                  } else if (part === ':indent') {
+                    const span = new state.Token('html_inline', '', 0);
+                    span.content = '<span class="indent-inline"></span>';
+                    newChildren.push(span);
+                  } else {
+                    const text = new state.Token('text', '', 0);
+                    text.content = part;
+                    newChildren.push(text);
                   }
                 });
-                return;
-              }
- else {
+              } else {
                 newChildren.push(child);
               }
             });

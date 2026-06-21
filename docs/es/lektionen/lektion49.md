@@ -11,111 +11,91 @@ last_reconstructed: 2026-05-21
 
 युज् 7U
 
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. persona**[[br]]तृतीयः | युनजानि[[br]]yu-na-j-āni | युनजाम | युनजै | युनजामहै |
 | **2. persona**[[br]]मध्यमः | युङ्ग्धि[[br]]yu-n-j + dhi[[br]]युङ्धि | युङ्क्त[[br]]युङ्त | युङ्क्ष्व | युङ्ग्ध्वं[[br]]युङ्ध्वम् |
 | **3. persona**[[br]]प्रथमः | युनक्तु[[br]]yu-na-j + tu | युञ्जन्तु | युङ्क्ताम्[[br]]यु्ङ्ताम् | युञ्जताम् |
-:::
+:::रुध् 7U
 
-रुध् 7U
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. persona**[[br]]तृतीयः | रुणधानि[[br]]ru-ṇa-dh-āni | रुणधाम | रुणधै | रुणधामहै |
 | **2. persona**[[br]]मध्यमः | रुन्द्धि | रुन्द्ध | रुन्त्स्व | रुन्द्ध्वम् |
 | **3. persona**[[br]]प्रथमः | रुणद्धु | रुन्धन्तु | रुन्द्धाम् | रुन्धताम् |
-:::
+:::### 49.1.2. Quinta clase de presente (स्वादि)
 
-### 49.1.2. Quinta clase de presente (स्वादि)
-
-::: grammar-box
+:::grammar-box
 La 2.sg.P Imperativo es sin desinencia en raíces de la 5. y 8. clase, donde al -u final del sufijo solo le precede una consonante.
-:::
+:::सु 5U
 
-सु 5U
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. Persona**[[br]]तृतीयः | सुनवानि | सुनवाम | सुनवै | सुनवाम |
 | **2. Persona**[[br]]मध्यमः | ***सुनु*** | सुनुत | सुनुष्व | सुनुध्वम् |
 | **3. Persona**[[br]]प्रथमः | सुनोतु | सुन्वन्तु | सुनुताम् | सुन्वताम्[[br]]su-nu + atām |
-:::
+:::आप् 5P
 
-आप् 5P
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् ||
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
 | **1. Persona**[[br]]तृतीयः | आप्नवानि | आप्नवाम |
 | **2. Persona**[[br]]मध्यमः | आप्नुहि | आप्नुत |
 | **3. Persona**[[br]]प्रथमः | आप्नोतु | आप्नुवन्तु |
-:::
-
-### 49.1.3. Octava clase de presente (तनादि)
+:::### 49.1.3. Octava clase de presente (तनादि)
 
 तन् 8U
 
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. Persona**[[br]]तृतीयः | तनवानि | तनवाम | तनवै | तनवामहै |
 | **2. Persona**[[br]]मध्यमः | ***तनु*** | तनुत | तनुष्व | तनुध्वम् |
 | **3. Persona**[[br]]प्रथमः | तनोतु | तन्वन्तु | तनुताम् | तन्वताम् |
-:::
+:::कृ 8U
 
-कृ 8U
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. Persona**[[br]]तृतीयः | करवाणि | करवाम | करवै | करवामहै |
 | **2. Persona**[[br]]मध्यमः | ***कुरु*** | कुरुत | कुरुष्व | कुरुध्वम् |
 | **3. Persona**[[br]]प्रथमः | करोतु | कुर्वन्तु | कुरुताम् | कुर्वताम् |
-:::
-
-### 49.1.4. Novena clase de presente (क्र्यादि)
+:::### 49.1.4. Novena clase de presente (क्र्यादि)
 
 क्री 9U
 
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. Persona**[[br]]तृतीयः | क्रीणानि[[br]]krī-ṇā + āni | क्रीणाम | क्रीणै[[br]]krī-ṇā + ai | क्रीणामहै |
 | **2. Persona**[[br]]मध्यमः | क्रीणीहि | क्रीणीत | क्रीणीष्व | क्रीणीध्वम् |
 | **3. Persona**[[br]]प्रथमः | क्रीणातु | क्रीणन्तु[[br]]krī-ṇ-antu | क्रीणीताम् | क्रीणताम् |
-:::
-
-::: grammar-box
+::::::grammar-box
 Las raíces de la 9.ª clase que terminan en consonante reemplazan el -nī-hi final del imperativo 2.sg. por -āna
-:::
+:::ग्रह् 9U
 
-ग्रह् 9U
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् ||
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
 | **1. Persona**[[br]]तृतीयः | गृह्णानि | गृह्णाम |
 | **2. Persona**[[br]]मध्यमः | ***गृहाण*** | गृह्णीत |
 | **3. Persona**[[br]]प्रथमः | गृह्णातु | गृहणन्तु |
-:::
-
-## 49.2. Declinación de las raíces nominales en -as, -is, -us
+:::## 49.2. Declinación de las raíces nominales en -as, -is, -us
 
 #### Neutros (नपुंसक)
 
-::: grammar-box
+:::grammar-box
 | | **मनस् n.**[[br]]"Pensamiento" | **हविस् n.**[[br]]"Ofrenda" | **चक्षुस् n.**[[br]]"Ojo" |
 | :---: | :---: | :---: | :---: |
 | **एकवचनम्** | | | |
@@ -132,37 +112,27 @@ Las raíces de la 9.ª clase que terminan en consonante reemplazan el -nī-hi fi
 | **पञ्चमी** | मनोभ्यस् | हविर्भ्यस् | चक्षुर्भ्यस् |
 | **षष्ठी** | मनसाम् | हविषाम् | चक्षुषाम् |
 | **सप्तमी** | मनस्सु[[br]]मनःसु | हविष्षु[[br]]हविःषु | चक्षुष्षु[[br]]चक्षुःषु |
-:::
-
-#### Masculinos (पुंस्) y Femeninos (स्त्री)
+:::#### Masculinos (पुंस्) y Femeninos (स्त्री)
 
 La mayoría de los casos son **बहुव्रीहि** con una raíz en -s (originalmente neutro) en el segundo miembro.
 
-::: grammar-box
+:::grammar-box
 | | **सुमनस् 3**[[br]]"de buen pensamiento, benevolente" | **दीर्घायुस् 3**[[br]]"longevo" |
 | :---: | :---: | :---: |
 | **एकवचनम्** | | |
 | **प्रथम** | सुमनास् | दीर्घायुस् |
 | **द्विटिया** | सुमनसम् | दीर्घायुषम् |
 | **आमन्त्रितम्** | सुमनस् | दीर्घायुस् |
-:::
-
-::: indent
+::::::indent
 El resto de los casos del singular como el neutro
-:::
-
-::: grammar-box
+::::::grammar-box
 | | **सुमनस् 3** | **दीर्घायुस् 3** |
 | :---: | :---: | :---: |
 | **बहुवचनम्** | | |
 | **प्रथमा, द्वितिया, आमन्त्रितम्** | सुमनसस् | दीर्घायुषस् |
-:::
-
-::: indent
+::::::indent
 El resto de los casos del plural como el neutro
-:::
-
-## 49.3. Formación nominal: कृत्-sufijo -as Neutro
+:::## 49.3. Formación nominal: कृत्-sufijo -as Neutro
 
 Con el sufijo कृत् -as neutro se forman numerosos sustantivos. Por lo general, se trata de abstractos o nomina actionis (palabras que designan la acción).
 
@@ -170,23 +140,19 @@ La vocal breve de la raíz ante una consonante simple, así como la vocal final 
 
 Ejemplos:
 
-::: grammar-box
+:::grammar-box
 | Raíz | Sustantivo en -as |
 | --- | --- |
 | मन् 4Ā "pensar" | मनस् n. "Pensamiento, idea, órgano del pensamiento" |
 | नम् 1P "doblar" | नमस् n. "Inclinación, veneración" |
 | चित् 1P "percibir, pensar" | चेतस् n. "Comprensión" |
-:::
+:::Los sustantivos en -is y -us son relativamente raros.
 
-Los sustantivos en -is y -us son relativamente raros.
-
-::: media
+:::media
 ![](/images/lekt4907.webp)
 Fig.: नमस्ते
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4907))
-:::
-
-## 49.4. Lista de palabras
+:::## 49.4. Lista de palabras
 
 दीर्घ 3: largo
 
@@ -194,21 +160,18 @@ Fig.: नमस्ते
 
 आयुस् n.: tiempo de vida (el tiempo de vida completo que se puede vivir, si nada interviene) ;
 
-:::: indent
+::::indent
 de ello:
 
 आयुर्वेद m.: el sistema médico tradicional de la India
 
 véase:
 
-::: indent
+:::indent
 **Carakasaṃhitā:** Textos seleccionados del Carakasaṃhitā / traducidos y comentados por Alois Payer &lt;1944 - &gt;. -- 0. Introducción. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
-:::
-::::
+:::::::क्षिप् 6P क्षिपति : lanzar, arrojar
 
-क्षिप् 6P क्षिपति : lanzar, arrojar
-
-::: indent
+:::indent
 Perf. II चिक्षेप, चिक्षेपिथ, चिक्षिपुर्
 Fut. क्षेप्स्यति
 Pass. क्षिप्यते
@@ -217,79 +180,68 @@ PPP क्षिप्त
 Inf. क्षेप्तुम्
 Absol. -क्षिप्य
 Gerundiv: क्षेप्य
-:::
+:::त्वर् 1Ā त्वरते : apresurarse
 
-त्वर् 1Ā त्वरते : apresurarse
-
-::: indent
+:::indent
 Perf. Vc तत्वरे
 Fut. त्वरिष्यते
 Pass. त्वर्यते
 Kaus. त्वरयति
 PPP त्वरित । ***तू्र्***ण
 Inf. त्वरितुम्
-:::
+:::द्रुह् 4P द्रुह्यति : dañar
 
-द्रुह् 4P द्रुह्यति : dañar
-
-::: indent
+:::indent
 Perf. II दुद्रोह, दुद्रुहुर्
 Fut. द्रोहिष्यति । ध्रोक्ष्यति
 Pass. द्रुह्यते
 Kaus. द्रोहयति
 PPP द्रुग्ध । द्रूढ
 Inf. द्रोग्धुम्
-:::
+:::कुलूहल n.: curiosidad, interés
 
-कुलूहल n.: curiosidad, interés
-
-::: media
+:::media
 ![](/images/lekt4901.webp)
 Fig.: कुलूहलम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4901))
-:::
-कृत्स्न 3: entero, completo
+:::कृत्स्न 3: entero, completo
 
 परिचय m.: conocimiento, familiaridad
 
 कला f.: arte
 
-::: media
+:::media
 ![](/images/lekt4902.webp)
 Fig.: उत्तमा काला
 शिवो नटराजा, siglo XI.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4902))
-:::
-वर m.n.: deseo
+:::वर m.n.: deseo
 
 उत Indekl.: y, también, o
 
 विहंग m.: ave ("en el sueño del aire स् - विह - yendo")
 
-::: media
+:::media
 ![](/images/lekt4903.jpg)
 Fig.: विहंगः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4903))
-:::
-वेष m.: vestido, apariencia, exterior
+:::वेष m.: vestido, apariencia, exterior
 
-::: media
+:::media
 ![](/images/lekt4904.webp)
 Fig.: वेषः
 वाराणस्याम्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4904))
-:::
-छन्न n.: manta, escondite
+:::छन्न n.: manta, escondite
 
 पञ्जर n.: jaula
 
-::: media
+:::media
 ![](/images/lekt4909.webp)
 Fig.: पञ्जरम्
 Adivino con loro en jaula: el loro saca papeletas en las que se indica el destino. Mysore.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4909))
-:::
-चाण्डाल । चण्डाल m.: nivel más bajo de los [Dalits](http://de.wikipedia.org/wiki/Dalit)
+:::चाण्डाल । चण्डाल m.: nivel más bajo de los [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
 स्वयम् Indekl.: mismo, por sí mismo
 
@@ -299,7 +251,7 @@ Adivino con loro en jaula: el loro saca papeletas en las que se indica el destin
 
 ध्यै 1P ध्यायति : imaginarse, pensar
 
-::: indent
+:::indent
 Perf. IV दध्यौ
 Fut. ध्यास्यति
 Pass. ध्यायते
@@ -307,30 +259,25 @@ Kaus. ध्यापयति
 PPP ध्यात
 Inf. ध्यातुम्
 Gerundiv ध्येय
-:::
+:::आदर m.: consideración, atención, respeto
 
-आदर m.: consideración, atención, respeto
-
-::: media
+:::media
 ![](/images/lekt4905.webp)
 Fig.: सादरः
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4905))
-:::
-कुतुक n. = कुलूहल n.
+:::कुतुक n. = कुलूहल n.
 
 परम 3: más lejano, más alto ; पञ्चम्या : mejor que, más alto que
 
 शिशु m.: niño, cría
 
-::: media
+:::media
 ![](/images/lekt4906.webp)
 Fig.: गजशिशुः
 Sri Lanka
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4906))
-:::
-
-## 49.5. Ejercicio de repaso sobre la morfología
+:::## 49.5. Ejercicio de repaso sobre la morfología
 
 Determine las siguientes formas:
 
@@ -384,14 +331,12 @@ Preguntas del rey शूद्रक de विदिशा al loro वैशम�
 
 वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥
 
-::: media
+:::media
 ![](/images/lekt4908.webp)
 Fig.: शुकः
 Loro cabecigrís = Psittacula cyanocephala
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4908))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 
 **lekt4907:** [Fuente de la imagen: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]

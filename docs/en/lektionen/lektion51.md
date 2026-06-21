@@ -11,7 +11,7 @@ status: stable
 
 ## 51.1. उपपद-Compounds
 
-:::: grammar-box
+::::grammar-box
 **उपपद-Compounds (उपपद n. "accompanying word") are तत्पुरुष with a verbal noun as the second member, which occurs only as the second member of compounds, not as an independent, standalone word. उपपद are formed with the कृत् suffixes**
 * **-Ø**
 * **-a**
@@ -23,63 +23,49 @@ status: stable
 
 Examples:
 
-::: indent
+:::indent
 सुखकरः = सुखं करोतीति सुखकरः
 
 कुलघ्नः = कुलम्हन्तीति कुलघ्नः
-:::
-::::
-
-Examples:
+:::::::Examples:
 
 a) कृत् suffix \-Ø
 
-::: indent
+:::indent
 \-नी 3 "leading" e.g. सेनानी m. "army leader" (सेना f. "army")
 
 \-भुज् 3 "enjoying, eating" e.g. भूमिभुज् m. "king" (भूमि f. "earth")
 
 \-विद् 3 "knowing" e.g. धर्मविद् 3 "one who knows the Dharma"
-:::
-
-::: media
+::::::media
 ![](/images/lekt5101.webp)
 Fig.: भूमिभुज्
 ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008)
 (Image source: [Details](/en/licenses#lekt5101))
-:::
+:::b) कृत् suffix -t
 
-b) कृत् suffix -t
-
-:::: indent
+::::indent
 \-कृत् 3 "making" e.g.
 
-::: indent
+:::indent
 कुलक्षयकृत् 3 "bringing about the destruction of the family"
 
 पापकृत् 3 "doing evil, wrongdoer"
-:::
+:::\-जित् 3 "conquering" e.g.
 
-\-जित् 3 "conquering" e.g.
-
-::: indent
+:::indent
 शत्रुजित् 3 "conquering the enemies"
 
 पुरुजित् 3 "conquering many" (पुरु 3 "many, abundant")
-:::
-
-\-भृत् 3 "bearing" e.g. भूमिभृत् m. "king"
-::::
-
-::: media
+:::\-भृत् 3 "bearing" e.g. भूमिभृत् m. "king"
+:::::::media
 ![](/images/lekt5103.webp)
 Fig.: पापकृत्
 भरतपुर, राजस्थान
 (Image source: [Details](/en/licenses#lekt5103))
-:::
-c) कृत् suffix -a
+:::c) कृत् suffix -a
 
-::: indent
+:::indent
 \-ग 3 "going (in, to)" (presumably from the root gā, deep form g + a) e.g. खग 3 "flying" m. "bird, wandering star" (ख n. "hole, 'air'space'")
 
 \-घ्न 3 "slaying" e.g. कुलघ 3 "killing families"
@@ -99,76 +85,58 @@ c) कृत् suffix -a
 \-कर 3 "bringing about, doing" e.g. सुखकर 3 "bringing about happiness"
 
 \-स्मर 3 "remembering" e.g. जातिस्मर 3 "remembering previous births"
-:::
-
-::: media
+::::::media
 ![](/images/lekt5102.webp)
 Fig.: द्विपो द्विर्पिबति : हस्तेन च मुखेन च
 नेपाल
 (Image source: [Details](/en/licenses#lekt5102))
-:::
+:::## 51.2. Declension of stems ending in a simple consonant (except nasal, semivowel, -s)
 
-## 51.2. Declension of stems ending in a simple consonant (except nasal, semivowel, -s)
-
-::: grammar-box
+:::grammar-box
 **Stems ending in a simple consonant (except nasal, semivowel, -s) have no stem gradation. The declension occurs completely regularly by appending the regular case endings.**
 
 **Sole irregularity: in Nom., Acc., Voc. pl. Neuter, a nasal is inserted before the stem ending.**
-:::
+:::### 51.2.1. Tribes on non-palatal plosive
 
-### 51.2.1. Tribes on non-palatal plosive
-
-::: grammar-box
+:::grammar-box
 **The usual sound change laws apply, i.e.**
 * **in word-final position stands the corresponding voiceless non-aspirate**
 * **before the -su of the locative plural, the word-final position is first replaced by the corresponding voiceless non-aspirate, then the corresponding sound changes occur**
 * **before a voiced consonant, the word-final position is replaced by the corresponding voiced non-aspirate.**
-:::
-
-Examples:
+:::Examples:
 
 शत्रुजित् 3 "slaying enemies"
 
-:::: indent
+::::indent
 Masculine, Feminine:
 
-:::: indent
+::::indent
 Singular:
 
-::: indent
+:::indent
 Nom.Voc. शत्रुजित् (śatrujit + s)
 Acc. शत्रुजितम्
-:::
+:::Plural:
 
-Plural:
-
-::: indent
+:::indent
 Nom.Acc.Voc. शत्रुजितस्
 Instr. शत्रुजिद्भिस्
 Loc. शत्रुजित्सु
-:::
-::::
+:::::::Neuter
 
-Neuter
-
-::: indent
+:::indent
 Singular Nom.Acc.Voc. शत्रुजित्
 Plural Nom.Acc.Voc. ***शत्रुजिन्ति***
-:::
-::::
+:::::::सुयुध् 3 "fighting well"
 
-सुयुध् 3 "fighting well"
-
-::: indent
+:::indent
 Singular.Nom.Voc.m.f.n. सुयुत्
 etc.
-:::
-
-Complete paradigms in Kielhorn, Grammar p. 16ff.
+:::Complete paradigms in Kielhorn, Grammar p. 16ff.
 
 ### 51.2.2. Tribes with palatal stop (c, ch, j), ś, ṣ
 
-::: grammar-box
+:::grammar-box
 **Before a vowel-initial ending, the final sound of the stem remains unchanged.**
 
 **Before all other endings:**
@@ -185,101 +153,75 @@ Complete paradigms in Kielhorn, Grammar p. 16ff.
 * **-j » -k or -ṭ**
 * **-ś » -ṭ or -k**
 * **-ṣ » -ṭ or -k**
-:::
-
-Examples:
+:::Examples:
 
 सत्यवाच् 3 "speaking the truth" (बहुव्रीहि)
 
-:::: indent
+::::indent
 Masculine, Feminine:
 
-:::: indent
+::::indent
 Singular:
 
-::: indent
+:::indent
 Nom.Voc. सत्यवाक्
 Acc. सत्यवाचम्
 Instr. सत्यवाचा
-:::
+:::Plural:
 
-Plural:
-
-::: indent
+:::indent
 Instr. सत्यवाग्भिस्
 Loc. सत्यवाक्षु
-:::
-::::
+:::::::Neuter
 
-Neuter
-
-::: indent
+:::indent
 Singular Nom.Acc.Voc. सत्यवाक्
 Plural Nom.Acc.Voc. सत्यवाञ्चि
-:::
-::::
+:::::::शेषभुज् 3 "eating food remnants"
 
-शेषभुज् 3 "eating food remnants"
-
-:::: indent
+::::indent
 Masculine, Feminine:
 
-:::: indent
+::::indent
 Singular:
 
-::: indent
+:::indent
 Nom.Voc. शेषभुक्
 Acc. शेषभुजम्
-:::
+:::Plural:
 
-Plural:
-
-::: indent
+:::indent
 Instr. शेषभुग्भिस्
 Loc. शेषभुक्षु
-:::
-::::
+:::::::Neuter
 
-Neuter
-
-::: indent
+:::indent
 Singular Nom.Acc.Voc. शेषभुक्
 Plural Nom.Acc.Voc. शेषभुञ्जि
-:::
-::::
+:::::::परिव्राज् m. "wandering monk"
 
-परिव्राज् m. "wandering monk"
-
-:::: indent
+::::indent
 Masculine, Feminine:
 
-:::: indent
+::::indent
 Singular:
 
-::: indent
+:::indent
 Nom.Voc. परिव्राट्
 Acc. परिव्राजम्
-:::
+:::Plural:
 
-Plural:
-
-::: indent
+:::indent
 Instr. परिव्राड्भिस्
 Loc. परिव्राट्सु
-:::
-::::
-::::
-
-::: media
+::::::::::::::media
 ![](/images/lekt5104.webp)
 Fig.: परिव्राट्
 पुष्कर
 (Image source: [Details](/en/licenses#lekt5104))
-:::
+:::### 51.2.3. Stems ending in -h
 
-### 51.2.3. Stems ending in -h
-
-::: grammar-box
+:::grammar-box
 **Before a vowel-initial ending, the -h remains unchanged.**
 
 **Before all other endings**
@@ -290,98 +232,75 @@ Fig.: परिव्राट्
 **After these replacements, the stem is further treated as if it ended in -ḍh, -gh, or -dh.**
 
 **See the paradigms in Kielhorn, Grammar, p. 20f.**
-:::
+:::Examples:
 
-Examples:
-
-:::: indent
+::::indent
 गुह् 3 "concealing"
 
 Masculine, Feminine:
 
-:::: indent
+::::indent
 Singular:
 
-::: indent
+:::indent
 Nom.Voc. घुट् (Grassmann's Law of Breath Dissimilation: गुढ् + s)
 Acc. गुहम्
-:::
+:::Plural:
 
-Plural:
-
-::: indent
+:::indent
 Instr. घुड्भिस्
 Loc. घुट्सु
-:::
-::::
-
-द्रुह् "harming, hating" (optionally -ḍh/-gh)
+:::::::द्रुह् "harming, hating" (optionally -ḍh/-gh)
 
 Masculine, Feminine:
 
-:::: indent
+::::indent
 Singular:
 
-::: indent
+:::indent
 Nom.Voc. ध्रुट् । ध्रुक्
 Acc. द्रुहम्
-:::
+:::Plural:
 
-Plural:
-
-::: indent
+:::indent
 Instr. ध्रुड्भिस् । ध्रुग्भिस्
 Loc. ध्रुट्सु । ध्रुक्षु
-:::
-::::
-::::
+:::::::::::## 51.3. Sandhi of initial h-
 
-## 51.3. Sandhi of initial h-
-
-:::: grammar-box
+::::grammar-box
 **Before an initial h-, a preceding stop is replaced by the corresponding voiced non-aspirated consonant, and the initial h- is replaced by the corresponding voiced aspirated consonant:**
 
-::: indent
+:::indent
 तत् + हि » तद्धि
 
 वाक् + हि » वाग्घि
 
 परिव्राट् + हि » परिव्राड्ढि
-:::
-::::
+:::::::## 51.4. Sandhi of initial ch-
 
-## 51.4. Sandhi of initial ch-
-
-:::: grammar-box
+::::grammar-box
 **Initial ch- is replaced by cch- after a short vowel, after मा "not" and after आ "to":**
 
-::: indent
+:::indent
 न + छिन्दति » न च्छिन्दति
-:::
-::::
+:::::::## 51.5. -ch- within the word
 
-## 51.5. -ch- within the word
-
-:::: grammar-box
+::::grammar-box
 **Within the word, -ch- is replaced by -cch- after all vowels:**
 
-::: indent
+:::indent
 e.g. छिद् » चिच्छेद
-:::
-::::
-
-## 51.6. Word List
+:::::::## 51.6. Word List
 
 अजिन n.: antelope skin, esp. the skin of the black antelope (nilgai: _Antilope cervicapra_ L. ). Originally occurred throughout the entire Indian subcontinent from Punjab and Sindh to Bengal and from Nepal to Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) See:
 
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193f.
 
-::: media
+:::media
 ![](/images/lekt5105.webp)
 Fig.:
 (Image source: [Details](/en/licenses#lekt5105))
-:::
-अतिथि m.: guest
+:::अतिथि m.: guest
 
 अभ्यन्तर 3: located inside, nearest; m. the nearest relative, native
 
@@ -389,29 +308,24 @@ Fig.:
 
 ऋतु m.: periodic event, season, time period, menstruation, time during which the woman is fertile and has a right to intercourse with her husband.
 
-::: indent
+:::indent
 Regarding ऋतु see Manu III, 45-48: according to this, ऋतु lasts 16 days (according to the alternative translation: 20 days) from the beginning of menstruation, sexual intercourse is prohibited on the first four days after the start of bleeding (According to the alternative translation: on the first eight (4 + 4) days), as well as on the 11th (resp. 15th) and 13th (resp. 18th) day. On even days the woman conceives sons, on odd days daughters. For the following, a ऋतु of a total of 16 days (not the alternative translation) is assumed, as most indigenous commentaries do, and which was therefore the prevailing view.
 
 Since ovulation occurs 14 days before the start of menstruation, with this determination of the fertile period, fertility is almost "guaranteed" for an interval between menstruations of 19 to 30 days. The prohibited days (11th and 13th) improve the probability of sexual intercourse on the 12th and 14th days, i.e., the probability of conception with a cycle of 28 days (the lifespan of sperm in the woman is approx. 3 days). These regulations are as it were a positive application of Knaus-Ogino.
-:::
-
-::: media
+::::::media
 ![](/images/lekt5106.jpg)
 Fig.: ऋतुः
 (Image source: [Details](/en/licenses#lekt5106))
-:::
-
-एकत्र Adv.: in one place
+:::एकत्र Adv.: in one place
 
 जटा f.: hair plait (ascetic hairstyle)
 
-::: media
+:::media
 ![](/images/lekt5107.webp)
 Fig.: जटा
 ऋषिकेश
 (Image source: [Details](/en/licenses#lekt5107))
-:::
-तुल्य 3: equal, comparable (तृतीयया)
+:::तुल्य 3: equal, comparable (तृतीयया)
 
 तरय 3 (f.: तरयी): threefold, consisting of three parts
 
@@ -425,102 +339,86 @@ Fig.: जटा
 
 शिष् 7P शिनष्टि : abandon, leave behind
 
-::: indent
+:::indent
 Perf.II शिशेषे, शिशिषुर्
 Fut. शेक्ष्यति
 Pass. शिष्यते
 Caus. शेषयति
 PPPशिष्ट
 Absol. -शिष्य
-:::
+:::शिष् + वि 7P विशिनष्टि : distinguish
 
-शिष् + वि 7P विशिनष्टि : distinguish
-
-::: indent
+:::indent
 Pass. विशिष्यते : differ from (पञ्चम्या, तृतीयया), be better than (पञ्चम्या, तृतीयया), be the best among (षष्ठ्या, सप्तम्या)
-:::
-
-समान 3: of the same kind, equal, similar; m.: contemporary
+:::समान 3: of the same kind, equal, similar; m.: contemporary
 
 स्व 3: own, his (my, your etc.) Declined like सर्व. In Abl.Loc.sg.m.n and in Nom.pl.m it can also be declined like देव:
 
-::: indent
+:::indent
 Abl.sg.m.n स्वस्मात् । ***स्वात्***
 Loc.sg.m.n. स्वस्मिन् । ***स्***वे
 Nom.pl.m स्वे । ***स्वास्***
-:::
+:::गर्ह् 1Ā गर्हते 10P गर्हयति : scold, blame
 
-गर्ह् 1Ā गर्हते 10P गर्हयति : scold, blame
-
-::: indent
+:::indent
 Perf I जगर्हे
 Fut. गर्हिष्यते
 PPP गर्हित
-:::
+:::पिशित n.: (prepared) meat
 
-पिशित n.: (prepared) meat
-
-::: media
+:::media
 ![](/images/lekt5108.webp)
 Fig.: पिशितम्
 Kolkata = কলকাতা
 (Image source: [Details](/en/licenses#lekt5108))
-:::
-उपहार m.: offering, sacrifice, gift
+:::उपहार m.: offering, sacrifice, gift
 
 मधु n.: honey, sweet drink, mead (honey wine)
 
-::: media
+:::media
 ![](/images/lekt5109.webp)
 Fig.: मधु
 City Palace, उदयपुर
 (Image source: [Details](/en/licenses#lekt5109))
-:::
-मांस n.: meat
+:::मांस n.: meat
 
 मृगया f.: hunt
 
-::: media
+:::media
 ![](/images/lekt5110.webp)
 Fig.: मृगया
 Hunting with चीता (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Image source: [Details](/en/licenses#lekt5110))
-:::
-शिवा f.: (female) jackal (golden jackal = _Canis aureus_)
+:::शिवा f.: (female) jackal (golden jackal = _Canis aureus_)
 
-::: media
+:::media
 ![](/images/lekt5111.webp)
 Fig.: शिवा
 _Canis aureus_, Kalatop Khajjiar Sanctuary
 (Image source: [Details](/en/licenses#lekt5111))
-:::
-रुत n.: screaming
+:::रुत n.: screaming
 
 कौशिक m.: owl
 
-::: media
+:::media
 ![](/images/lekt5112.webp)
 Fig.: कौशिकः
 Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
 (Image source: [Details](/en/licenses#lekt5112))
-:::
-शकुनि m.: bird
+:::शकुनि m.: bird
 
 श्वन् m.: dog
 
-::: indent
+:::indent
 strong stem श्वान्
 weak stem before vowel सुन्
 weak stem before consonant श्व
-:::
-
-::: media
+::::::media
 ![](/images/lekt5113.jpg)
 Fig.: श्वा लिङ्गं च
 Karnataka = ಕರ್ನಾಟಕ
 (Image source: [Details](/en/licenses#lekt5113))
-:::
-परिचित 3: familiar, known
+:::परिचित 3: familiar, known
 
 अटवी f.: forest
 
@@ -528,41 +426,36 @@ Karnataka = ಕರ್ನಾಟಕ
 
 आपान(क) n.: drinking bout
 
-::: media
+:::media
 ![](/images/lekt5114.webp)
 Fig.: आपानकम्
 जोधपुर
 (Image source: [Details](/en/licenses#lekt5114))
-:::
-क्रूर 3: raw, cruel
+:::क्रूर 3: raw, cruel
 
 दिह् 2U देग्धि, दिग्धे : smear, anoint
 
-::: indent
+:::indent
 Perf. II दिदेह
 Fut. धेक्ष्यति
 Pass. दिह्यते
 Caus. देहयति
 PPP दिग्ध
-:::
+:::विष n.: poison
 
-विष n.: poison
-
-::: media
+:::media
 ![](/images/lekt5115.webp)
 Fig.: मूषिकाविषाणि
 Bangalore = ಬೆಂಗಳೂರು
 (Image source: [Details](/en/licenses#lekt5115))
-:::
-भुजंग m.: snake
+:::भुजंग m.: snake
 
-::: media
+:::media
 ![](/images/lekt5116.webp)
 Fig.: भुजंगः
 Russell's viper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Image source: [Details](/en/licenses#lekt5116))
-:::
-सायक m.: arrow
+:::सायक m.: arrow
 
 उत्साद m.: destruction
 
@@ -582,36 +475,32 @@ Russell's viper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 
 मणि m.: jewel
 
-::: media
+:::media
 ![](/images/lekt5118.webp)
 Fig.: मणिः
 Hope Diamond from Guntur = ಗುಂಡೂರು, today Smithsonian Museum of Natural History, Washington DC
 (Image source: [Details](/en/licenses#lekt5118))
-:::
-वन n.: forest
+:::वन n.: forest
 
 मद m.: also "must" of an elephant (in [Musth](http://en.wikipedia.org/wiki/Musth))
 
-::: media
+:::media
 ![](/images/lekt5117.webp)
 Fig.: मदः
 (Image source: [Details](/en/licenses#lekt5117))
-:::
-राग m.: also: color, red color
+:::राग m.: also: color, red color
 
 कालन n.: forest
 
 खन् 1U खनति : dig
 
-::: indent
+:::indent
 Perf. चखान, चखने
 Fut. खनिष्यति
 Caus. खानयति
 PPP खात
 Absol खनित्वा । खात्वा
-:::
-
-चिन्त् 10 चिन्तयति : think, ponder
+:::चिन्त् 10 चिन्तयति : think, ponder
 
 शबर .:  proper name of a non-Aryan tribe
 
@@ -628,7 +517,7 @@ Explanation: -अभिषेकौ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 
 २. कौटिलीयार्थशास्त्र १, ३, १६ - १७ On the necessity of respecting the वर्नाश्रमधर्म
 
-::: indent
+:::indent
 तस्मात्स्वधर्मं भूतानाम्
 राजा न व्यभिचारयेत् ।स्
 स्वधर्मं संदधानो हि
@@ -637,9 +526,7 @@ Explanation: -अभिषेकौ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 कृतवर्णाश्रमस्थितिः ।
 त्रय्याभिरक्षितो लोकः
 प्रसीदति न सीदति ॥१७॥
-:::
-
-३. बाण (7th cent. CE): कादम्बरी ed. K.P. Parab, 1896, p. 65ff.: Reflections of the Parrot वैशम्पायन on the life of a hunter:
+:::३. बाण (7th cent. CE): कादम्बरी ed. K.P. Parab, 1896, p. 65ff.: Reflections of the Parrot वैशम्पायन on the life of a hunter:
 
 आसीच्च मे मनसि -- अहो मोहप्रायमेतेषां जीवितं साधुजनगर्हितं च चरितम् । तथा हि । पुरुषपिशितोपहारे धर्मबुद्धिः , अहारः साधुजनगर्हितो मधुमांसादिः , श्रमो मृगया , शास्त्रं शिवारुतम् , समुपदेष्टारः सद्सतां कौशिकाः , प्रज्ञा शकुनिज्ञानम् , परिचिताः श्वानः , राज्यं शून्यास्वटवीषु , आपानकमुत्सवः , मित्राणि क्रुरकर्मसाधनानि धनूंषि , सहाया विषदिग्धमुखा भुजंगा इव सायकाः , गीतमुत्सादकारि मुग्धमृगाणाम् , कलत्राणि बन्दीगृहीताः परयोषितः , क्रूरात्मभिः शार्दूलैः सह संवासः , पशुरुधिरेण देवतार्चनम् , मांसेन बलिकर्म , चौर्येण जीवनम् , भूषणानि भुजंगमणयः , वनकरिमदैरङ्गरागः , यस्मिन्नेव कानने निवसन्ति तदेवोत्ख्यातमूलमशेषतः कुर्वत इति चिन्तयत्येव मयि शबरसेनापतिः समुपाविशत् ॥
 
@@ -647,7 +534,7 @@ Explanation: -अभिषेकौ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 
 आसीच्चेति । मे मम मनसि चित्त आसीद्बभूव । खेद इति शेषः । तदेव दर्शयति -- अहो इत्यादिना । अहो इत्याश्चर्ये । एतेषां भिल्लानां जीवितं प्राणितं मोहो ऽज्ञानं प्रायं प्रचुरं यत्र तादृशम् । चः पुनरर्थे । चरितमाचरणं साधुजनैः सज्जनजनैर्गर्हितं निन्दितम् । तदेव विशेषतो दर्शयति -- तथा हीति । पुरुषेति । पुरुषस्य पुंसो यत्पिशितं मांसं तस्य य उपहारो भगवत्यै नैवेद्यदर्शनं तस्मिन्धर्मबुद्धिः श्रेयोधीः । आहार इति । आहारः प्रत्यवसानं साधुजनैर्गर्हितो निन्दितो मधुमांसादिर्मधुः मद्यं माक्षिकं वा । मांसं प्रतीतम् । ते आदौ यस्येति बहुव्रीहिः । आदिशब्दात्कन्दादिपरिग्रहः । श्रम इति । श्रमः शक्तिसाधनायासो मृगयाखेटकः । शास्त्रमिति । शिवा सृगाली तस्य रुतं शब्दितं शास्त्रमुच्चस्वरवेदपाठः । प्रबोधजनकत्वसाम्यात्तदुपमानम् । सदिति । सदसतां शुभाशुभानां समुपदेष्टारो बोधकाः कौशिका उलूकाः । प्रज्ञेति । शकुनयः पत्त्रिणस्तेषां स्थूलमहत्त्वादिना ज्ञानं तदेव प्रज्ञा विवेकबुद्धिः । परीति । श्वानः सारमेयाः परिचिता विश्वासपालत्राणि । राज्यमिति । शून्यासु जनरहितासु विन्ध्याटवीषु राज्यं स्वामित्वम् । आपानकेति । उत्सवः संतुष्टिकार्यं तदेवापानमेवापानकम् । स्वार्थे कः । पानगोष्ठिका । मित्राणीति । क्रूरं यत्कर्म तत्साधनानि तद्धेतुभूतानि धनूंष्येव चापान्येव मित्राणि सहृदः । हितचिन्तकानीति यावत् । सहाया इति । विषेण दिग्धं मुखमाननं येषामेवंविधाः सायका बाणास्त एव सहाया इष्टकार्यकर्तृत्वात्साहाय्यकारिणः । क इव । भुजंगाः सर्पा इव । एतेषां विषदिग्धमुखत्वं स्वाभाविकम् । तेषामौपाधिकमिति भावः । गीतमिति । मुग्धा अनभिज्ञा ये मृगा हरिणास्तेषामुत्साहकारि स्तब्धताविधायि गीतं गानम् । कलत्रेति । परयोषितो ऽन्यस्त्रिय एव बन्दी ग्रहकस्तद्रूपत्वेन गृहीताः स्त्रीकृताः कलत्राणि स्वपत्न्यः । क्रूरेति । क्रूरात्मभिर्दुष्टात्मभिः शार्दुलैश्चित्रकैः समं संवासः सहावस्थानम् । पश्वेति । पशवो महिषास्तेषां रुधिरेण रक्तेन देवतार्चनं देवपूजनम् । मांसेनेति । मांसेन पिशितेन बलिर्हन्तकरस्तत्कर्म तत्कृत्यम् । चौर्येणेति । चौर्येण परद्रव्यापहारेण जीवनं प्राणधारणम् । भूषणनीति । भूषणान्याभरणानि भुजंगमणयः सर्परत्नानि । पर्वतवासित्वात्तेषां ते सुलभा इति भावः । वनेति । वनकरिणामरण्यहस्तिनां मदैर्दानवारिभिरङ्गरागो विलेपनम् । यस्मिन्निति । अनिर्दिष्टनामनि कानने वने निवसन्ति निवासं कुर्वन्ति तदेव काननमशेषतः समग्रत उत्खातमुत्पाटितं मूलं मध्यभागो यस्यैवंभूतं कुर्वते विदधत इति पूर्वोक्तप्रकारेण मयि चन्तयति ध्यायति सत्येव ... ॥
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt5101:** ज्ञानेन्द्र वीर बिक्रम शाह, नेपालस्यान्तिमो राजा (2001 - 2008) [Image source: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Accessed on 2009-01-13. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
 

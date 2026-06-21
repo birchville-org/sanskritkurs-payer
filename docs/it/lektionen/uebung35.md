@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formare le corrispondenti forme del perfetto per le seguenti forme verbali:
 
-::: grammar-box
+:::grammar-box
 | Presente / Imperfetto | Perfetto |
 | :--- | :--- |
 | १. **गायन्ति** | जगुः |
@@ -54,9 +54,7 @@ A) Formare le corrispondenti forme del perfetto per le seguenti forme verbali:
 | ३९. **अचरत्** | चचार |
 | ४०. **जुह्वति** | जुहुवुः |
 | ४१. **अहरत्** | जहार |
-:::
-
-B) Tradurre:
+:::B) Tradurre:
 
 १. **एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥**
 Un tempo, un grande Kṣatriya iniziò a sacrificare. Indra rapì (prese) la sua vittima sacrificale. Ma quando l'animale scomparve, un malvagio Brahmano disse al Kṣatriya: "L'animale è scomparso a causa del cattivo comportamento del Kṣatriya."
@@ -84,7 +82,7 @@ C) Trasformare le frasi dell'esercizio B) sostituendo i perfetti con imperfetti:
 
 ४. अर्हन्तः कुलबन्धनमभिन्दंल्लोभं च क्रोधं च मोहं चारुन्धन्सत्यमजानन्दुःखान्मुक्ता मोक्षसुखमाप्नुवन् ॥
 
-::: media
+:::media
 ![](/images/uebung058.webp)
 Fig.: ब्राह्मणीषु पचन्तीषु ...
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung058))

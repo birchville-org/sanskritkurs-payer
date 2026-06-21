@@ -10,27 +10,23 @@ last_reconstructed: 2026-05-15
 
 A) Formez à partir des formes suivantes à la fois les formes de parfait redoublées et les formes de parfait périphrastiques :
 
-::: grammar-box
+:::grammar-box
 | Présent | Redoublé | Périphrastique |
 | :--- | :--- | :--- |
 | १. **बिभ्रते** | बभ्रिरे | बिभरां चक्रिरे / -आसुः / -बभूवुः |
 | २. **बिभ्यति** | बिभ्युः | बिभयां चक्रुः / -आसुः / -बभूवुः |
 | ३. **जुहोति** | जुहाव | जुहवां चकार / -आस / -बभूव |
 | ४. **वेत्ति** | विवेद | विदां चकार / -आस / -बभूव |
-:::
+:::B) Formez le parfait périphrastique de la racine **आस्** (s’asseoir) :
 
-B) Formez le parfait périphrastique de la racine **आस्** (s’asseoir) :
-
-::: grammar-box
+:::grammar-box
 | Présent | Parfait périphrastique |
 | :--- | :--- |
 | १. **आस्ते** | आसां चकre / -आस / -बभूव |
 | २. **आसते** | आसां चक्रिरे / -आसुः / -बभूवुः |
-:::
+:::C) Formez le parfait correspondant aux formes suivantes :
 
-C) Formez le parfait correspondant aux formes suivantes :
-
-::: grammar-box
+:::grammar-box
 | Présent / Imparfait | Parfait |
 | :--- | :--- |
 | १. **जीयते** | जिग्ये |
@@ -46,9 +42,7 @@ C) Formez le parfait correspondant aux formes suivantes :
 | ११. **क्रामन्ति** | चक्रमुः |
 | १२. **प्राव्रजन्** | प्रवव्रजुः |
 | १३. **त्यक्ष्यति** | तत्याज |
-:::
-
----
+:::---
 
 ## Traductions
 
@@ -67,13 +61,11 @@ Un Deux fois né, qui a étudié le Veda, connaît la justice et les coutumes de
 ५. **विद्ययैव जीवितुं न शक्यते । य एवं विदुर्नाधीयीरन् ॥५॥**
 On ne peut vivre uniquement de la science. Qui sait cela, ne devrait pas étudier.
 
-::: media
+:::media
 ![](/images/uebung061.webp)
 Fig. : विद्ययैव जीवितुं न शक्यते
 (Source de l'image : [Détails](/fr/licenses#uebung061))
-:::
-
----
+:::---
 
 ## Fragments savants
 
@@ -95,19 +87,17 @@ On doit saluer les personnes âgées avec les formalités appropriées, leur cé
 **न हृष्यति ग्लायति वा स विज्ञेयो जितेन्द्रियः ॥**  
 Si un homme ne se réjouit ni ne s’attriste, qu’il entende, touche, voie, goûte ou sente, alors on le considère comme celui qui a vaincu ses sens (**जितेन्द्रियः**).
 
-::: media
+:::media
 ![](/images/uebung060.webp)
 Lég. : भुक्त्वा घ्रात्वा च न हृष्यति ग्लायति वा
 (Source de l’image : [Détails](/fr/licenses#uebung060))
-:::
-
----
+:::---
 
 ## Détermination de la forme du mot
 
 Déterminez et traduisez les formes de mot suivantes :
 
-::: grammar-box
+:::grammar-box
 | Forme du mot | Détermination | Signification |
 | :--- | :--- | :--- |
 | १. **नयति** | नी (1U) 3. sg. P. Ind. Pr. | il mène |
@@ -146,9 +136,7 @@ Déterminez et traduisez les formes de mot suivantes :
 | ३४. **व्यानक्** | वि-अञ्ज् (7P) 3. sg. P. Impf. | il révéla |
 | ३५. **युङ्क्ते** | युज् (7U) 3. sg. Ā. Ind. Pr. | il relie pour lui |
 | ३६. **अपिबत्** | पा (1P) 3. sg. P. Impf. | il but |
-:::
-
-::: media
+::::::media
 ![](/images/uebung059.webp)
 Fig. : जगौ
 (Source de l'image : [Détails](/fr/licenses#uebung059))

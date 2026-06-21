@@ -139,13 +139,11 @@ kiṃ kāraṇam?
 
 किं कारणम् ॥
 
-::: media
+:::media
 ![](/images/uebung007.webp)
 Fig. : इमे योधाः किं कुर्वन्ति ।
 (Source de l'image : [Détails](/fr/licenses#uebung007))
-:::
-
----
+:::---
 
 ## Exercice de lecture
 
@@ -203,7 +201,7 @@ Le perroquet vole.
 18\. बालः पत्रिकां लिखति |
 Le garçon écrit une lettre.
 
-::: media
+:::media
 ![](/images/uebung008.webp)
 Fig. : कपिः फलं खदति
 (Source de l'image : [Détails](/fr/licenses#uebung008))

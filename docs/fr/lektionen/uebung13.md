@@ -120,13 +120,11 @@ Les sages védiques voient que le démon ne gagne en aucun cas.
 Que mangent et boivent les brāhmaṇes ?
 ब्राह्मणैः किं पीतं खादितं च ॥
 
-::: media
+:::media
 ![](/images/uebung019.webp)
 Fig. : अग्निर्गृहं दहति ।
 (Source de l'image : [Détails](/fr/licenses#uebung019))
-:::
-
----
+:::---
 
 ## Exercices supplémentaires
 
@@ -269,7 +267,7 @@ E) Traduisez en sanskrit :
 11\. Les prêtres sacrificiels ont pressé le soma.
 यजकैः सोमः सुतः ॥
 
-::: media
+:::media
 ![](/images/uebung018.webp)
 Fig. : बाला जलं पिबति । बालया जलं पीयते ।
 (Source de l'image : [Détails](/fr/licenses#uebung018))

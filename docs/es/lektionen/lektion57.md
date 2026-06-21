@@ -11,15 +11,13 @@ status: stable
 
 ## 57.1. Aoristo 4: s-Aorist
 
-::: grammar-box
+:::grammar-box
 **El s-Aorist se forma con la mayoría de las raíces अनिट्, siempre que no tengan exclusivamente otra forma de aoristo. Las raíces facultativas अनिट् pueden, en general, formar opcionalmente este aoristo o el aoristo iṣ. También las raíces अनिट्, que forman el परस्मैपद después de la 1., 2. o 6. forma del aoristo, forman el आत्मनेपद según el s-Aorist.**
 
 **Formación: Aumento + raíz + s + terminación secundaria atemática**
-:::
+:::Tabla de terminaciones con sufijo de formación de la raíz
 
-Tabla de terminaciones con sufijo de formación de la raíz
-
-::: grammar-box
+:::grammar-box
 
 |   | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -27,40 +25,29 @@ Tabla de terminaciones con sufijo de formación de la raíz
 | **1. तृतीयः** | -sam | -sma | -si | -smahi |
 | **2. द्वितीयः** | ***-sīs*** | -sta | -sthās | ***-dhvam*** |
 | **3. प्रथमः** | ***-sīt*** | -sur | -sta | -sata |
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **Se aplica la ley fonética general de que un sonido fricativo entre dos oclusivos se pierde (véase उद् + स्थित » उत्थित), es decir, el sufijo de formación de la raíz -s- se pierde antes de las terminaciones que comienzan con -t- o -th- (pero no después de nasales o r-).**
 
 Ejemplos:
 
-::: indent
+:::indent
 3.sg.Ā a-kṣip + s + ta » अ***क्षिप्त***
 2.sg.Ā a-kṣip + s + thās » अ***क्षिप्था***स्
-:::
+:::Tales formas también podrían pertenecer al aoristo de la raíz y probablemente en parte también pertenecen a él.
+::::Los gramáticos indios también contaron formas como अकृत (3.sg.Ā) como s-Aorist, que claramente pertenecen al aoristo de la raíz. Con este propósito, los gramáticos indios inventaron la siguiente regla fonética ad-hoc para el s-Aorist:
 
-Tales formas también podrían pertenecer al aoristo de la raíz y probablemente en parte también pertenecen a él.
-::::
-
-Los gramáticos indios también contaron formas como अकृत (3.sg.Ā) como s-Aorist, que claramente pertenecen al aoristo de la raíz. Con este propósito, los gramáticos indios inventaron la siguiente regla fonética ad-hoc para el s-Aorist:
-
-::: indent
+:::indent
 "Después de una vocal corta, las 'terminaciones' que comienzan con -st- o -sth- pierden la -s-."
-:::
-
-De lo contrario, se deben tener en cuenta las reglas fonéticas para la conexión de consonantes finales con s-.
+:::De lo contrario, se deben tener en cuenta las reglas fonéticas para la conexión de consonantes finales con s-.
 
 Para -dhvam se aplica:
 
-:::: grammar-box
+::::grammar-box
 **El -dh- de -dhvam se reemplaza por -ḍh- después de todas las vocales no a/ā, así como después de -r.**
 
-::: indent
+:::indent
 p.ej. ***चि*** 5U: 2.pl.Ā ***अचेढ्वम्***
-:::
-::::
-
-::: grammar-box
+::::::::::grammar-box
 **Forma de la raíz:**
 
 *   **परस्मैपद : Grado reforzado**
@@ -69,9 +56,7 @@ p.ej. ***चि*** 5U: 2.pl.Ā ***अचेढ्वम्***
     *   **-ṝ final se reemplaza por -īr o -ūr**
     *   **Raíces con ablaut en ā/e/o: Grado reducido**
     *   **Otros vocales de la raíz: inalterados (es decir, por lo general en grado reducido)**
-:::
-
-Ejemplos:
+:::Ejemplos:
 
 |   | **3.sg.P** |
 | --- | --- |
@@ -93,21 +78,16 @@ Ejemplos:
 | कृ 8U | अकृषि |
 | पच् 1U | अपक्षि |
 
-:::: grammar-box
+::::grammar-box
 **दृश् y सृज् tienen en el परस्मैपद grado reforzado con diptongo ascendente -rā-:**
 
-::: indent
+:::indent
 दृश् 3.sg.P अ***द्राक्षी***त्
-:::
+:::Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
-
-::: indent
+:::indent
 कृष् 1P/6U 3.sg.P अकार्क्षीत् / अ***क्राक्षी***त्
-:::
-::::
-
-Paradigmas:
+:::::::Paradigmas:
 
 नी 1U "conducir"
 
@@ -119,12 +99,11 @@ Paradigmas:
 | **2. द्वितीयः** | अनैषीस् | अनैष्ट | अनेष्ठास् | अने***ढ्वम्*** |
 | **3. प्रथमः** | अनैषीत् | अनैषुर् | नेष्ट | अनेषत |
 
-::: media
+:::media
 ![](/images/lekt5701.webp)
 Fig.: भीमराव रामजी आंबेडकर (१८९१ १९५६) । सो ऽनैषीद्दलितान् ॥
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5701))
-:::
-कृ 8U "hacer"
+:::कृ 8U "hacer"
 
 |   | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -142,7 +121,7 @@ Fig.: भीमराव रामजी आंबेडकर (१८९१ १
 | **2. द्वितीयः** | अतौत्सीस् | अतौत्त[[br]]de: a-taut + s + ta | अतुत्थास् | अतुद्ध्वम् |
 | **3. प्रथमः** | अतौत्सीत् | अतौत्सुर् | अतुत्त | अतुत्सत |
 
-::: grammar-box
+:::grammar-box
 **Formas irregulares:**
 
 **1. Las raíces con nasal (गम्, मन्, रम्) forman el aorista s con grado pleno:**
@@ -155,9 +134,7 @@ Fig.: भीमराव रामजी आंबेडकर (१८९१ १
 
 3.  बुध् Ā puede, en la 3.sg.Ā, opcionalmente adoptar la forma del aorista de raíz pasiva:
     अबोधि / अबुद्ध "él reconoció"
-:::
-
-## 57.2. Ejercicio
+:::## 57.2. Ejercicio
 
 A) Traduzca y determine sin herramientas auxiliares las siguientes formas y forme las correspondientes formas de aoristo. A excepción de causativos y raíces que forman el aoristo con s, se indica entre paréntesis la clase del aoristo correspondiente:
 
@@ -246,7 +223,7 @@ B) Traduzca y determine las siguientes formas:
 55.  पाणी
 56.  अस्प्राक्षम्
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt5701:** [Fuente de la imagen: Wikipedia. Dominio Público]
 

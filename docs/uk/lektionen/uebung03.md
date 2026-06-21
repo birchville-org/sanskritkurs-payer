@@ -165,7 +165,7 @@ dvijāḥ kṣatriyāḥ.
 
 शूद्राः साधवः
 
-::: media
+:::media
 ![](/images/uebung001.webp)
 Мал.: पशुर्धेनुः
 (Джерело зображення: [Деталі](/uk/licenses#uebung001))

@@ -13,7 +13,7 @@ status: stable
 
 Le desinenze verbali si attaccano direttamente alla radice. In questo contesto, è necessario prestare attenzione alle variazioni fonetiche risultanti dal sandhi lessicale.
 
-:::: grammar-box
+::::grammar-box
 
 Esistono le seguenti forme di formazione nella seconda classe del presente:
 
@@ -23,9 +23,7 @@ Esistono le seguenti forme di formazione nella seconda classe del presente:
 2.  Radici senza ablazione della radice (stemma)
 3.  Radici bisillabiche in -i/-ī con ablazione della radice (stemma)
 
-::::
-
-## 17.2. Radici della seconda classe di presente con alternanza di grado della radice: grado forte - grado debole
+::::## 17.2. Radici della seconda classe di presente con alternanza di grado della radice: grado forte - grado debole
 
 Esempi:
 
@@ -34,9 +32,9 @@ Esempi:
 *   radice di presente forte: dveṣ-
 *   radice di presente debole: dviṣ-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -45,11 +43,7 @@ Esempi:
 | 3\. sg. Pres. Ā | द्विष्टे (« dviṣ + -te) |
 | 3\. pl. Pres. Ā | द्विषते (dviṣ-ate) |
 
-:::
-
-::::
-
-In questo caso opera la seguente regola di sandhi lessicale:
+:::::::In questo caso opera la seguente regola di sandhi lessicale:
 
 Sandhi lessicale di -ṣ + t(h)-
 
@@ -64,9 +58,9 @@ Altri esempi:
     *   davanti a consonante: i-
     *   davanti a vocale: y-/iy-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -75,18 +69,14 @@ Altri esempi:
 | 3\. sg. Pres. Ā | इते (i-te) |
 | 3\. pl. Pres. Ā | इयते (iy-ate) |
 
-:::
-
-::::
-
-दुह् 2 U "mungere"
+:::::::दुह् 2 U "mungere"
 
 *   radice di presente forte: doh-
 *   radice di presente debole: duh-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -95,20 +85,16 @@ Altri esempi:
 | 3\. sg. Pres. Ā | दुग्धे (« duh- + -te) |
 | 3\. pl. Pres. Ā | दुहते (duh-ate) |
 
-:::
-
-::::
-
-हन् 2 P "colpire, uccidere"
+:::::::हन् 2 P "colpire, uccidere"
 
 *   radice di presente forte: han-
 *   radice di presente debole:
     *   davanti a consonante: ha- (« \*hn-)
     *   davanti a vocale: ghn-/han-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -117,29 +103,21 @@ Altri esempi:
 | 3\. sg. Pres. Ā | हते (ha-te) |
 | 3\. pl. Pres. Ā | घ्नते (ghn-ate) |
 
-:::
-
-::::
-
-अस् 2 P "essere"
+:::::::अस् 2 P "essere"
 
 *   radice di presente forte: as-
 *   radice di presente debole: s-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | अस्ति (as-ti) |
 | 3\. pl. Pres. P | सन्ति (s-anti) |
 
-:::
-
-::::
-
-## 17.3. Radici della seconda classe del presente con alternanza di grado della radice: grado allungato - grado ridotto
+:::::::## 17.3. Radici della seconda classe del presente con alternanza di grado della radice: grado allungato - grado ridotto
 
 Esempio:
 
@@ -150,9 +128,9 @@ Esempio:
     *   davanti a consonante: stu-
     *   davanti a vocale: stuv-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -161,11 +139,7 @@ Esempio:
 | 3\. sing. Pres. Ā | स्तुते (stu-te) |
 | 3\. pl. Pres. Ā | स्तुवते (stuv-ate) |
 
-:::
-
-::::
-
-## 17.4. Radici della seconda classe del presente senza ablaut
+:::::::## 17.4. Radici della seconda classe del presente senza ablaut
 
 Senza ablaut, le radici della seconda classe del presente terminano in -ā
 
@@ -173,69 +147,53 @@ Esempio:
 
 पा 2 P "proteggere, custodire, difendere"
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | पाति (pā-ti) |
 | 3\. pl. Pres. P | पान्ति (« pā- + -anti) |
 
-:::
-
-::::
-
-Anche altre radici della seconda classe non presentano ablaut:
+:::::::Anche altre radici della seconda classe non presentano ablaut:
 
 Esempi:
 
 अद् 2 P "mangiare"
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | अत्ति (« ad- + -ti) |
 | 3\. pl. Pres. P | अदन्ति (ad-anti) |
 
-:::
+:::::::आस् 2 Ā "sedersi"
 
-::::
+::::grammar-box
 
-आस् 2 Ā "sedersi"
-
-:::: grammar-box
-
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. Ā | आस्ते (ās-te) |
 | 3\. pl. Pres. Ā | आसते (ās-ate) |
 
-:::
+:::::::वच् 2 P "dire"
 
-::::
+::::grammar-box
 
-वच् 2 P "dire"
-
-:::: grammar-box
-
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | वक्ति (« vac- + -ti) |
 | 3\. pl. Pres. P | non si attesta |
 
-:::
-
-::::
-
-## 17.5. Radici bisillabiche in -i/-ī con ablazione della radice
+:::::::## 17.5. Radici bisillabiche in -i/-ī con ablazione della radice
 
 Diverse radici presentano, in una serie di forme, una struttura bisillabica, ovvero possiedono una vocale -i (o, in alcuni casi, -ī) prima di desinenze consonantiche. Nonostante ciò, i grammatici tradizionali e i lessici le classificano comunque come radici monosillabiche.
 
@@ -248,29 +206,25 @@ Esempi:
     *   prima di consonante: rudi-
     *   prima di vocale: rud-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sing. Pres. P | रोदिति (rodi-ti) |
 | 3\. pl. Pres. P | रुदन्ति (rud-anti) |
 
-:::
-
-::::
-
-ब्रू 2 U "parlare"
+:::::::ब्रू 2 U "parlare"
 
 *   tema forte del presente: bravī- (« bro- + -ī)
 *   tema debole del presente:
     *   prima di consonante: brū-
     *   prima di vocale: bruv-
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
@@ -279,87 +233,62 @@ Esempi:
 | 3\. sing. Pres. Ā | ब्रूते (brū-te) |
 | 3\. pl. Pres. Ā | ब्रुवते (bruv-ate) |
 
-:::
+:::::::Anche स्तु 2 U "lodare" presenta, oltre alle forme indicate al punto 3, forme secondo questo schema:
 
-::::
+::::grammar-box
 
-Anche स्तु 2 U "lodare" presenta, oltre alle forme indicate al punto 3, forme secondo questo schema:
-
-:::: grammar-box
-
-::: no-header
+:::no-header
 
 | | |
 | :--- | :--- |
 | 3\. sing. Pres. P | स्तवीति (« sto + ī + ti)[[br]]oppure: स्तौति |
 
-:::
-
-::::
-
-## 17.6. Glossario
+:::::::## 17.6. Glossario
 
 हन् 2 P हन्ति, घ्नन्ति Pass. हन्यते PPP हत : colpire, uccidere, ammazzare
 
 da ciò:
 
-::: indent
+:::indent
 घात m.: uccisione
-:::
-
-::: media
+::::::media
 ![](/images/lekt1703.webp)
 Fig.: घाताः
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1703))
-:::
-
-
-आस् 2Ā आस्ते Pass. आस्यते PPP आसित : sedere
+:::आस् 2Ā आस्ते Pass. आस्यते PPP आसित : sedere
 
 da ciò:
 
-::: indent
+:::indent
 आसन n.: il sedersi, sedile; anche: posizioni yogiche (āsana)
-:::
-
-::: media
+::::::media
 ![](/images/lekt1701.webp)
 Fig.: योगासनम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1701))
-:::
-
-
-रुद् 2 P रोदिति Pass. रुद्यते PPP रुदित : piangere, ululare
+:::रुद् 2 P रोदिति Pass. रुद्यते PPP रुदित : piangere, ululare
 
 da ciò:
 
-::: indent
+:::indent
 रुद्र m.: (l'Ululante =) il dio della tempesta Rudra
-:::
-
-ब्रू 2 U ब्रवीति Ā ब्रूते nessun Passivo e PPP: parlare, dire (a qualcuno: doppio accusativo)
+:::ब्रू 2 U ब्रवीति Ā ब्रूते nessun Passivo e PPP: parlare, dire (a qualcuno: doppio accusativo)
 
 दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : mungere
 
-::: media
+:::media
 ![](/images/lekt1702.webp)
 Fig.: दोग्धि
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1702))
-:::
- 
-
-दिश् 6 U दिशति Pass. दिश्यते PPP दिष्ट : mostrare, indicare, ordinare
+:::दिश् 6 U दिशति Pass. दिश्यते PPP दिष्ट : mostrare, indicare, ordinare
 
 da ciò:
 
-::: indent
+:::indent
 दिष्टि f.: istruzione, felice combinazione
 
 दिष्ट्या Instr.: (letteralmente: attraverso una felice combinazione) O felice combinazione (esclamazione di gioia e beatitudine)
-:::
-
-## 17.7. Esercizio 1
+:::## 17.7. Esercizio 1
 
 A) Inserite il verbo nelle seguenti frasi e traducete:
 
@@ -481,7 +410,7 @@ Tradurre le seguenti forme verbali e indicare la radice corrispondente:
 
 ४६. दिश्यन्ते
 
-::: deleteme-box
+:::deleteme-box
 
 
 **lekt1701:** [Fonte dell'immagine: di tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Accesso il 2008-12-07. -- Licenza Creative Commons (Attribuzione, nessuna opera derivata)]

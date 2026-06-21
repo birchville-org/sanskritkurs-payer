@@ -9,17 +9,15 @@ status: stable
 
 # Lecția 11
 
-::: deleteme-box
+:::deleteme-box
 **În această lecție veți învăța:**
 - Acuzativul dublu (Acuzativul persoanei și al lucrului)
 - Utilizarea particulelor **iti**, **evam** și **na**
 - Concepte de bază precum **dharma**, **adharma** și **putra**
 - Formarea substantivelor din rădăcinile **vad**, **prach** și **iṣ**
-:::
+:::## 11.1. Dublu acuzativ
 
-## 11.1. Dublu acuzativ
-
-::: grammar-box
+:::grammar-box
 **Unele verbe pot guverna un dublu acuzativ (dvitīyā): acuzativul persoanei și acuzativul lucrului.**
 
 **Între acestea se numără:**
@@ -37,9 +35,7 @@ de ex. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = रामो ब्रा
 
 de ex. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच्छति = „Rāma întreabă despre dharma.”
 » Pasiv: **rāmeṇa dharmaḥ pṛcchyate** = रामेण धर्मः पृच्छयते
-:::
-
----
+:::---
 
 ## 11.2. Listă de cuvinte
 
@@ -68,13 +64,11 @@ de ex. **rāmo dharmaṃ pṛcchati** = रामो धर्मं पृच�
   - **vāda** m. वाद : afirmație, declarație, cuvânt
   - **vadana** n. वदन : vorbirea; instrumentul vorbirii: gură, față
 
-::: media
+:::media
 ![](/images/lekt1102.webp)
 Fig.: **vadanāni** = वदनानि
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1102))
-:::
-
-- **prach** 6 P प्रच्छ् : întreba
+:::- **prach** 6 P प्रच्छ् : întreba
   - **praśna** m. प्रश्न : întrebare (sufixul **-na** ca în **yaj-ña**)
 
 - **iṣ** 6 P इष् : dori
@@ -105,13 +99,11 @@ Fig.: **vadanāni** = वदनानि
 
 **D) Formați vocea pasivă pentru propozițiile obținute la punctul C).**
 
-::: media
+:::media
 ![](/images/lekt1101.webp)
 Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश्यपः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1101))
-:::
-
----
+:::---
 
 ## 11.4. Exerciții de repetiție
 
@@ -148,7 +140,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = श्रावको महाकाश
 
 **E) Transformați propozițiile C) 1-5 în construcții active.**
 
-::: media
+:::media
 ![](/images/lekt1103.webp)
 Fig.: **karṣakeṇa kṛṣyate** = कर्षकेण कृष्यते
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1103))

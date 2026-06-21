@@ -33,19 +33,17 @@ Déterminez et traduisez les formes suivantes, puis formez les formes correspond
 18.  ऐक्षध्वम् - ईक्ष् 1Ā 2.pl.Impf.Ā vous vîtes - ऐक्षिध्वम्
 19.  अचेतः - चित् 1P 2.sg.Impf.P tu perçus - अचेतीः
 
-:::: media
+::::media
 ![](/images/uebung095.webp)
 Fig. : तब्लाः
 (Source de l'image : [Détails](/fr/licenses#uebung095))
-:::
-
----
+:::---
 
 ## B) Déterminations de mots
 
 Déterminez et traduisez les formes suivantes :
 
-::: media
+:::media
 ![](/images/uebung097.webp)
 Fig. : मातुलङ्गविक्रेतायं ना ॥  
 Pune - पुणे  

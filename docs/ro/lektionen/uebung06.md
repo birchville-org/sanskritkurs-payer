@@ -140,13 +140,11 @@ sā brāhmaṇī nṛtyati.
 
 सा ब्राह्मणी नृत्यति ॥
 
-::: media
+:::media
 ![](/images/uebung004.jpg)
 Fig.: का नृत्यति ।
 (Sursa imaginii: [Detalii](/licenses#uebung004))
-:::
-
----
+:::---
 
 ## Exerciții de recapitulare Lection 6
 
@@ -598,7 +596,7 @@ sarvathā kuśalam.
 
 सर्वथा कुशलम् ॥
 
-::: media
+:::media
 ![](/images/uebung005.webp)
 Fig.: देवतान्नपूर्णा
 (Sursă imagine: [Detalii](/licenses#uebung005))

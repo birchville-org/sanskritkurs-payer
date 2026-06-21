@@ -9,30 +9,26 @@ status: stable
 
 # Lecția 12
 
-::: deleteme-box
+:::deleteme-box
 **În această lecție veți învăța:**
 - Participiul Perfect Pasiv (PPP)
 - Semnificația PPP-ului
 - Formarea PPP-ului
 - Legăturile fonetice în cuvinte
 - Pasivul și PPP-ul rădăcinilor învățate până acum
-:::
-
----
+:::---
 
 ## 12.1. Participiul Perfect Pasiv (PPP)
 
 O modalitate de a forma propozițiile la pasiv în trecut este construcția cu așa-numitul Participiu Perfect Pasiv (PPP).
 
-::: grammar-box
+:::grammar-box
 **În realitate, PPP nu este un participiu adevărat, deoarece nu se formează dintr-o rădăcină de timp. El este, mai degrabă, o formare nominală a rădăcinii cu sufixul primar -ta, respectiv -na. De aceea, în gramatica indiană se vorbește despre sufixul kta.**
-:::
-
----
+:::---
 
 ### 12.1.1. Schema pentru verbe tranzitive
 
-::: grammar-box
+:::grammar-box
 **Agent (kartṛ) în instrumental (tṛtīyā) -- obiect direct (karman) în nominativ (prathamā) -- participiu perfect pasiv**
 
 În acest caz, PPP-ul se acordă în număr, caz și gen cu obiectul.
@@ -43,35 +39,29 @@ Exemple:
 > **sādhunā svarga āptaḥ** = साधुना स्वर्ग आप्तः = „(De către sfânt a fost obținut un cer) = Sfântul a obținut un cer.”
 > 
 > **brāhmaṇena devīṣṭā** = ब्राह्मणेन देवीष्टा = „(De către brahman a fost onorată zeița cu un sacrificiu) = Brahmanul a onorat zeița cu un sacrificiu.”
-:::
-
----
+:::---
 
 ### 12.1.2. Schema I pentru verbe intranzitive și verbe de mișcare
 
-::: grammar-box
+:::grammar-box
 **Agent (kartṛ) la nominativ (prathamā) -- Participiul Perfecț Passiv**
 
 În acest caz, PPP-ul se acordă cu agentul în număr, caz și gen. Participiul Perfecț „Passiv” are, în cazul verbelor intranzitive (verbe fără obiect direct) și al verbelor de mișcare, un sens activ.
 
 Exemplu:
 > **kṣatriyā nagaraṃ gatā** = क्षत्रिया नगरं गता = „Femeia kṣatriya a mers în oraș.”
-:::
-
----
+:::---
 
 ### 12.1.3. Schema II pentru verbe intranzitive și verbe de mișcare
 
-::: grammar-box
+:::grammar-box
 **Agent (kartṛ) în instrumental (tṛtīyā) -- PPP la nominativ singular neutru**
 
 Exemplu:
 > **kṣatriyeṇa (nagaraṃ) gatam** = क्षत्रियेण (नगरं) गतम् = „(De către kṣatriya s-a mers (în oraș)) = Kṣatriya a mers (în oraș).”
 
 Construcția conform Schema II este mult mai rară decât construcția conform Schema I.
-:::
-
----
+:::---
 
 ## 12.2. Despre semnificatul PPP
 
@@ -85,7 +75,7 @@ de ex.
 
 ## 12.3. Formarea PPP-ului
 
-::: grammar-box
+:::grammar-box
 Se întâlnesc următoarele modalități de formare (pentru fiecare rădăcină trebuie învățat PPP-ul corespunzător!):
 
 **(în majoritate) rădăcină la nivel vocalic coborât**
@@ -96,9 +86,7 @@ Se întâlnesc următoarele modalități de formare (pentru fiecare rădăcină 
 - **+ -na**
 
 Stemurile feminine se termină în: **-tā**, **-itā**, **-nā**; neutrul se declină ca **phala** n.
-:::
-
----
+:::---
 
 ### 12.3.1. PPP pe -ta (kta)
 
@@ -106,15 +94,13 @@ Stemurile feminine se termină în: **-tā**, **-itā**, **-nā**; neutrul se de
 
 *aniṭ* = „fără (*an-*) sufixul plasat înainte de (*-i-*) *t*“ (adică, fără vocala de legătură *i*).
 
-::: grammar-box
+:::grammar-box
 Fără vocală de legătură, participa trecut pasiv (PPP) se formează, în general, de la rădăcini care se termină vocalic, precum și de la multe alte rădăcini, fără ca să se poată da o regulă fixă privind structura rădăcinilor care determină apariția sau lipsa vocalei de legătură.
 
 O listă a rădăcinilor *aniṭ* se găsește la Kielhorn, *Gramatik* § 298.
-:::
+:::**Exemple:**
 
-**Exemple:**
-
-::: grammar-box
+:::grammar-box
 | Rădăcină | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P[[br]](भू) | **bhū-ta**[[br]](भूत) |
@@ -129,32 +115,28 @@ O listă a rădăcinilor *aniṭ* se găsește la Kielhorn, *Gramatik* § 298.
 | **kṛ** 8 U[[br]](कृ) | **kṛ-ta**[[br]](कृत) |
 | **tan** 8 U[[br]](तन्) | **ta-ta** (&lt; \*tn-ta)[[br]](तत) |
 | **iṣ** 6 P[[br]](इष्) | **iṣ-ṭa**[[br]](इष्ट) |
-:::
-
-#### 12.3.1.2. Cu vocală de legătură -i- (seṭ)
+:::#### 12.3.1.2. Cu vocală de legătură -i- (seṭ)
 
 *seṭ* = *sa-iṭ* = „cu (*sa-*) sufixul plasat înainte de (*-i-*) *t*“ (adică, cu vocala de legătură *i*).
 
 **Exemple:**
 
-::: grammar-box
+:::grammar-box
 | Rădăcină | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P[[br]](कुप्) | **kup-i-ta**[[br]](कुपित) |
 | **khād** 1 P[[br]](खाद्) | **khād-i-ta**[[br]](खादित) |
 | **rakṣ** 1 P[[br]](रक्ष्) | **rakṣ-i-ta**[[br]](रक्षित) |
 | **vad** 1 P[[br]](वद्) | **ud-i-ta** (&lt; \*vd-i-ta)[[br]](उदित) |
-:::
-
----
+:::---
 
 ## 12.4. Legile combinațiilor fonetice în cuvânt
 
 În formările *aniṭ* se au în vedere următoarele legi ale combinațiilor fonetice în cuvânt. **Aceste legi sunt foarte importante pentru înțelegul întregii morfologii sanscrite.**
 
-:::: grammar-box
+::::grammar-box
 
-::: no-header
+:::no-header
 | | |
 | :--- | :--- |
 | **1. k, t, p înaintea unei consoane ocluse surde (de ex. t, th) rămân neschimbate:** | **pt, tt, kt** = **प्त्, त्त्, क्त्** |
@@ -164,34 +146,26 @@ O listă a rădăcinilor *aniṭ* se găsește la Kielhorn, *Gramatik* § 298.
 | **5. jt este înlocuit cu kt sau ṣṭ (nu facultativ!):** | **yuj + ta » yuk-ta** = **युक्त**[[br]]**yaj + ta » iṣ-ṭa** = **इष्ट** (&lt; \*yj-ta)[[br]]**sṛj + ta » sṛṣ-ṭa** = **सृष्ट**[[br]]**sṛj + ti » sṛṣ-ṭi** = **सृष्टि** |
 | **6. Consoana ocluză sonoră aspirată + consoană ocluză surdă » consoană ocluză sonoră neaspirată + consoană ocluză sonoră aspirată (Legea aspirării Bartholomaei):** | **bh-t » b-dh:**[[br]]**labh + ta » lab-dha** = **लब्ध**[[br]]**dh-t » d-dh:**[[br]]**budh + ta » bud-dha** = **बुद्ध**[[br]]**yudh + ta » yud-dha** = **युद्ध**[[br]]**krudh + ta » krud-dha** = **क्रुद्ध** |
 | **7. h-t este înlocuit cu ḍh cu lungirea unui i sau u anterior; sau cu gdh. Înaintea unui astfel de ḍh, a este înlocuit cu o, rar cu ā:** | **dah + ta » dag-dha** = **दग्ध**[[br]]**guh + ta » gūḍha** = **गूढ** (guh 1 (gūhati) „a ascunde ceva”)[[br]]**muh + ta » mug-dha / mūḍha** = **मुग्ध / मूढ**[[br]]**sah + ta » soḍha** = **सोढ** |
-:::
-
-::::
-
----
+:::::::---
 
 ## 12.5. Listă de cuvinte
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** बुध् बुध्यते बोधति बुद्ध : a se trezi, a se trezi la cunoaștere, a recunoaște; PPP **buddha** 3 trezit, prin urmare **Buddha** = „cel trezit” (nu: cel iluminat)
 
-::: media
+:::media
 ![](/images/lekt1201.webp)
 Fig.: गौतमो बुद्धः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1201))
-:::
-
-- **dah** 1 P (dahati), PPP **dagdha** दह् दहति दग्ध : a arde (ceva)
+:::- **dah** 1 P (dahati), PPP **dagdha** दह् दहति दग्ध : a arde (ceva)
 - **sah** 1 Ā (sahate), PPP **soḍha** सह् sahate soḍha : a depăși, a suporta, a suporta cu răbdare = a ierta
 - **mṛga** m. मृग : animal sălbatic
 - **mārga** m. मार्ग : cale (drumurile erau adesea potecile animalelor sălbatice)
 
-::: media
+:::media
 ![](/images/lekt1202.webp)
 Fig.: मार्गः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1202))
-:::
-
-- **api** अपि : și (placat după)
+:::- **api** अपि : și (placat după)
 
 La a șasea clasă de prezente, gramaticienii nativi numără unele rădăcini care formează tema de prezent cu infix nasal și vocala tematică a, de ex.:
 
@@ -204,13 +178,11 @@ La formarea cuvintelor:
 - **sic** + **abhi-**: **abhiṣeka** m. अभिषेक : stropire a unui rege la încoronare, încoronare
 - **budh**: **bodhi** m./f. बोधि : trezirea (prin care un Buddha sau Jina ajunge la înțelegerea mântuitoare)
 
-::: media
+:::media
 ![](/images/lekt1203.webp)
 Fig.: महावीरो जिनः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1203))
-:::
-
-- **buddhi** f. (**budh** + **-ti**) बुद्धि : cunoaștere, organ al cunoașterii.
+:::- **buddhi** f. (**budh** + **-ti**) बुद्धि : cunoaștere, organ al cunoașterii.
 
 ---
 

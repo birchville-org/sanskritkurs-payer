@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Insérez dans les phrases suivantes la forme correspondante des mots entre parenthèses, puis traduisez :
 
-::: grammar-box
+:::grammar-box
 १. **राज्ञि** (ou : **राजनि**) **धर्मं रक्षत्यभया जनाः ॥ १ ॥** (राजन्)
 Si le roi préserve la justice et les coutumes, le peuple est sans crainte.
 
@@ -55,15 +55,11 @@ Les bons rois offrent aux hommes l'absence de crainte.
 
 १५. **राजसु धर्मं न रक्षत्सु सभया जनाः ॥ १५ ॥** (राजन्)
 Si les rois ne préservent pas la justice et les coutumes, les hommes sont pleins de crainte.
-:::
-
-::: media
+::::::media
 ![](/images/uebung063.webp)
 Fig. : राज्ञे बलिनो हस्तिनो दीयेरन्
 (Source de l'image : [Détails](/fr/licenses#uebung063))
-:::
-
----
+:::---
 
 ## Récit : Dix Sots (दश मूढाः)
 

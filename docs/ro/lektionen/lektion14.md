@@ -11,11 +11,9 @@ status: stable
 
 ## 14.1. Expresia relației dintre cele denumite prin substantive: genitivul (ṣaṣṭhī f. = षष्टी = al șaselea caz)
 
-::: grammar-box
+:::grammar-box
 Dacă se dorește exprimarea relației dintre cele denumite de două substantive, se utilizează genitivul (ṣaṣṭhī f. "al șaselea caz"). Genitivul se deosebește de toate celelalte cazuri prin aceea că, cu puține excepții, nu servește la determinarea mai precisă a acțiunii exprimate de verb, ci la exprimarea relației dintre persoane sau lucruri, denumite prin substantive. Genitivul se găsește frecvent la întrebarea: Cui?
-:::
-
-Exemple:
+:::Exemple:
 
 कवेः पुत्रः "Fiul poetului"
 
@@ -25,15 +23,13 @@ Exemple:
 
 रामस्य कृतम् "Fapta / O faptă a lui Rāma"
 
-::: grammar-box
+:::grammar-box
 Ordinul normal al cuvintelor este:
 
 > **Cuvântul determinativ în genitiv — Substantivul determinat mai precis într-un alt caz**
-:::
+:::**Genitivul și PPP:**
 
-**Genitivul și PPP:**
-
-::: grammar-box
+:::grammar-box
 La PPP, genitivul poate sta în locul instrumentalului (tṛtīyā) pentru agent (kartṛ); În construcția cu instrumentalul, PPP este considerat o formă verbală pasivă (cel care se găsește în instrumental indică agentul), în construcția cu genitivul, PPP este considerat un substantiv sau adjectiv (cel care se găsește în genitiv nu este, așadar, în mod propriu, un agent).
 
 Conform Pāṇini 2.3.67, la PPP, genitivul stă dacă PPP are sens prezent (vezi mai sus), instrumentalul, dacă PPP are sens trecut:
@@ -43,42 +39,36 @@ Conform Pāṇini 2.3.67, la PPP, genitivul stă dacă PPP are sens prezent (vez
 > रामेणेष्टं फलम् "Rodul pe care Rāma l-a dorit"
 
 Desigur, la un PPP Neutru Singular, care este folosit ca abstract verbal - adică ca substantiv - se găsește genitivul.
-:::
-
-## 14.2. Formarea genitivelor (ṣaṣṭhī f. = षष्ठी)
+:::## 14.2. Formarea genitivelor (ṣaṣṭhī f. = षष्ठी)
 
 Genitivul la rădăcinile verbale cu alternanță vocalică se formează de la forma slabă.
 
 **Genitivul rădăcinilor care se termină în consoană:**
 
-:::: grammar-box
+::::grammar-box
 
 După consoană, terminațiile regulate ale genitivului sunt:
 * Singular: **-as**
 * Plural: **-ām**
 
-::: center
+:::center
 
 | Rădăcină nominală | Forma slabă | Genitiv singular | Genitiv plural |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-**[[br]]**गुणवन्त्** | **guṇa-vat-**[[br]]**गुणवत्** | **guṇa-vat-as**[[br]]**गुणवतस्** | **guṇa-vat-ām**[[br]]**गुणवताम्** |
 | **paśu-mant-**[[br]]**पशुमन्त्** | **paśu-mat-**[[br]]**पशुमत्** | **paśu-mat-as**[[br]]**पशुमतस्** | **paśu-mat-ām**[[br]]**पशुमताम्** |
 
-:::
-
-::::
-
-**Genitivul rădăcinilor care se termină în vocalică, cu excepția numinelor monosilabice de rădăcină și a rădăcinilor care se termină în diftong:**
+:::::::**Genitivul rădăcinilor care se termină în vocalică, cu excepția numinelor monosilabice de rădăcină și a rădăcinilor care se termină în diftong:**
 
 **Plural:**
 
-:::: grammar-box
+::::grammar-box
 
 Genitivul plural al rădăcinilor care se termină în vocalică se formează astfel:
 
 > **-vocalică lungă de final a rădăcinii + -nām**
 
-::: center
+:::center
 
 | Rădăcină nominală | Genitiv plural |
 | :--- | :--- |
@@ -91,17 +81,13 @@ Genitivul plural al rădăcinilor care se termină în vocalică se formează as
 | **paśu** m.[[br]]**पशु** | **paśū-nām**[[br]]**पशूनाम्** |
 | **dhenu** f.[[br]]**धेनु** | **dhenū-nām**[[br]]**धेनूनाम्** |
 
-:::
+:::::::**Genitivul singular al rădăcinilor care se termină în vocalică:**
 
-::::
-
-**Genitivul singular al rădăcinilor care se termină în vocalică:**
-
-:::: grammar-box
+::::grammar-box
 
 Genitivul singular al rădăcinilor care se termină în vocalică se formează neregulat și trebuie învățat pe de rost.
 
-::: center
+:::center
 
 | Rădăcină | Genitiv singular |
 | :--- | :--- |
@@ -114,15 +100,11 @@ Genitivul singular al rădăcinilor care se termină în vocalică se formează 
 | **śruti** f.[[br]]**श्रुति** | **śrutes / śrutyās**[[br]]**श्रुतेस् / श्रुत्यास्**[[br]](adică fie ca kavi, fie ca devī) |
 | **dhenu** f.[[br]]**धेनु** | **dhenos / dhenvās**[[br]]**धेनोस् / धेन्वास्**[[br]](adică fie ca paśu, fie ca femininele polisilabice în -ū) |
 
-:::
+:::::::**Pronumele interogative și demonstrative:**
 
-::::
+::::grammar-box
 
-**Pronumele interogative și demonstrative:**
-
-:::: grammar-box
-
-::: center
+:::center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -132,23 +114,17 @@ Genitivul singular al rădăcinilor care se termină în vocalică se formează 
 
 | | **Genitiv plural** | kāsām[[br]]**कासाम्** | tāsām[[br]]**तासाम्** | etāsām[[br]]**एतासाम्** | āsām[[br]]**आसाम्** |
 
-:::
+:::::::**Identitate de formă:**
 
-::::
-
-**Identitate de formă:**
-
-::: important
+:::important
 
 La toate temele nominale, cu excepția masculinelor și neutrelor pe -a și a pronumelor, forma genitivului singular este identică cu forma ablativului (pañcamī "cinciua terminație cazuală") singular!
 
 Rețineți că la temele care se termină în consoană, ablativul și genitivul singular se pronunță la fel ca acuzativul plural masculin și feminin!
 
-:::
+:::## 14.3. Mai multe despre utilizarea genitivului (षष्ठी)
 
-## 14.3. Mai multe despre utilizarea genitivului (षष्ठी)
-
-::: grammar-box
+:::grammar-box
 Împotriva regulii generale de mai sus, genitivul este folosit pentru a exprima obiectul unor verbe, de exemplu, verbe ale amintirii:
 
 > देवानां स्मरति "El își amintește de zei"
@@ -158,21 +134,17 @@ Pentru toate aceste verbe, obiectul poate fi, de asemenea, în acuzativ:
 > देवान्स्मरति "El își amintește de zei"
 
 Mai multe detalii mai târziu.
-:::
-
-## 14.4. Listă de cuvinte
+:::## 14.4. Listă de cuvinte
 
 * **śīla n.** (शील) : (bun) caracter, moralitate
 * **bhūṣ-aṇa n** (भूषण) : bijuterii
 * **dīpa m.** (दीप) : lampă
 
-::: media
+:::media
 ![](/images/lekt1405.webp)
 Fig.: दीपाः
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1405))
-:::
-
-* **bala n.** (बल) : violență, putere, forță; putere militară, armată
+:::* **bala n.** (बल) : violență, putere, forță; putere militară, armată
 * **bāla 3** (बाल) : tânăr, infantil, nebun; m. băiat
 * **bālā f.** (बाला) : fată tânără
 * **nara m.** (नर) : bărbat, om
@@ -254,13 +226,11 @@ Traduceți următoarele proverbe și învățați-le pe de rost:
 
 २५. पुत्रवती
 
-::: media
+:::media
 ![](/images/lekt1404.webp)
 Fig.: पुत्रवती
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1404))
-:::
-
-२६. जल
+:::२६. जल
 
 २७. मार्ग
 
@@ -316,13 +286,11 @@ Fig.: पुत्रवती
 
 ५३. किम्
 
-::: media
+:::media
 ![](/images/lekt1403.webp)
 Fig.: अयं बालः कस्याः पुत्रः ।
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1403))
-:::
-
-**B) Traduceți:**
+:::**B) Traduceți:**
 
 १. ब्राह्मणस्य पुत्रो ब्राह्मण्या ग्रामं गतः । (2 posibilități)
 
@@ -350,7 +318,7 @@ Fig.: अयं बालः कस्याः पुत्रः ।
 
 १३. कस्यान्नमनेनर्षिणेष्टम् ।
 
-::: media
+:::media
 ![](/images/lekt1402.webp)
 Fig.: केषामिमानि गृहाणि ।
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1402))

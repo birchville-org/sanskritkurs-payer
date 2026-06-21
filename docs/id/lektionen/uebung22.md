@@ -87,13 +87,11 @@ The lion-like men have encountered the enemies who are not Āryas, and they achi
 १०. **पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥**
 If he has done meritorious deeds and spoken only the truth, a person does not go to any hell.
 
-::: media
+:::media
 ![](/images/uebung034.jpg)
 Fig.: धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति
 (Image source: [Details](/en/licenses#uebung034))
-:::
-
----
+:::---
 
 ## Passive Constructions
 

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Introduceți în propozițiile următoare forma corespunzătoare a cuvintelor din paranteze și traduceți:
 
-::: grammar-box
+:::grammar-box
 १. **राज्ञि** (sau: **राजनि**) **धर्मं रक्षत्यभया जनाः ॥ १ ॥** (राजन्)
 Dacă regele păstrează dreptatea și uzanțele, poporul este fără frică.
 
@@ -55,15 +55,11 @@ Regii buni oferă oamenilor lipsa de frică.
 
 १५. **राजसु धर्मं न रक्षत्सु सभया जनाः ॥ १५ ॥** (राजन्)
 Dacă regii nu păstrează dreptatea și uzanțele, oamenii sunt plini de frică.
-:::
-
-::: media
+::::::media
 ![](/images/uebung063.webp)
 Fig.: राज्ञे बलिनो हस्तिनो दीयेरन्
 (Sursa imaginii: [Detalii](/licenses#uebung063))
-:::
-
----
+:::---
 
 ## Narațiune: Zece Idioți (दश मूढाः)
 

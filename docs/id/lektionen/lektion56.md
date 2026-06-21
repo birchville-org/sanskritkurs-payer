@@ -11,7 +11,7 @@ status: stable
 
 ## 56.1. The reduplicated aorist
 
-::: grammar-box
+:::grammar-box
 **Formation:**
 
 **Augment + reduplicated root + a + thematic secondary ending**
@@ -21,9 +21,7 @@ status: stable
 **Final -i, -u is replaced by -iy or -uv.**
 
 **Final -ā (for -e) drops.**
-:::
-
-Paradigm:
+:::Paradigm:
 
 श्रि 1U "to go to, to lean on"
 
@@ -42,15 +40,13 @@ This form of the aorist is formed by, among others:
 *   पत् 1P "to fall": अपप्तत् (a-pa-pt-a-t; pt = low grade of pat)
 *   वच् 2P "to say": अवोचत् (a-va + uc-a-t)
 
-::: grammar-box
+:::grammar-box
 **All roots of the 10th class of present stems as well as all causatives always form the reduplicated aorist.**
-:::
-
-### 56.1.1. Formation of the Aorist of Causatives and Roots of the 10th Present Class
+:::### 56.1.1. Formation of the Aorist of Causatives and Roots of the 10th Present Class
 
 Stem syllable:
 
-::: grammar-box
+:::grammar-box
 **The starting point is the form of the present stem or the causative stem that remains after the removal of the formation element -aya- (i.e., a stem ending in -p for causatives in -paya-).**
 
 **The vowel of this so-called stem syllable is determined in the Aorist according to the following rules:**
@@ -72,13 +68,11 @@ Stem syllable:
 *   **ar, ār, īr, al, which precede the final consonant of the stem syllable and substitute for ṛ, ṝ, ḷ, remains optionally unchanged or is replaced by ṛ or ḷ:**  
     कॢप्  1Ā: Caus. ***कल्प***यति, Aor. अच***कल्प***त् / अची***कॢ***पत्  
     कृष् 1P/6U: Caus. ***कर्ष***यति, Aor. अच***कर्ष***त् / अची***कृ***षत्
-:::
-
-Vowel of the reduplication syllable:
+:::Vowel of the reduplication syllable:
 
 After the aforementioned rules have been applied to the stem syllable, the following rules for the vowel of the reduplication syllable must be observed:
 
-:::: grammar-box
+::::grammar-box
 **The starting point is the regular reduplication vowel, i.e.**
 
 *   a for a, ā, ṛ,  ṝ, ḷ
@@ -105,53 +99,41 @@ Particularities of certain roots in Kielhorn, Grammar § 435c ff.
 
 Vowel - first following consonant (respectively its representative required in a reduplication syllable) - ***i*** - all consonants
 
-::: indent
+:::indent
 अश् 9P: Caus. आशयति, reduplicated syllable आशिश्, Aor. आशिशत्
 इष् 6P: Caus. एषयति, reduplicated syllable एषिष्, Aor. ऐषिषत्
 ईक्ष् 1Ā: Caus. ईक्षयति, reduplicated syllable ईचिक्ष्, Aor. ऐचिक्षत्
-:::
-
-*   **If a consonant group starting with a nasal or with d or r follows the initial vowel, then the second consonant of the group (or its substitute) is inserted with i according to the following scheme:**
+:::*   **If a consonant group starting with a nasal or with d or r follows the initial vowel, then the second consonant of the group (or its substitute) is inserted with i according to the following scheme:**
     
 
 Vowel - first consonant - second consonant (substitute) - i - second consonant
 
-::: indent
+:::indent
 अञ्ज् 7P: Caus. अञ्जयति, reduplicated syllable अञ्जिज्, Aor. आञ्जिजत्
 ऋ 1P: Caus. अर्पयति, reduplicated syllable अर्पिप्, Aor. आर्पिपत्
 अर्ह् 1P: Caus. अर्हयति, reduplicated syllable अर्जिह्, Aor. आर्जिहत्
-:::
+:::This form of reduplication of derivational stems starting with a vowel (causatives) is called "Attic reduplication".
+::::## 56.2. The Injunctive
 
-This form of reduplication of derivational stems starting with a vowel (causatives) is called "Attic reduplication".
-::::
-
-## 56.2. The Injunctive
-
-::: grammar-box
+:::grammar-box
 **The Injunctive is the augmentless form corresponding to augmented forms, i.e., its forms are identical to the augmentless forms of the Indicative Imperfect or Aorist. Indigenous Indian grammar did not recognize the Injunctive as a distinct grammatical category.**
-:::
+:::According to the foundational work:
 
-According to the foundational work:
-
-::: media
+:::media
 ![](/images/lekt5601.jpg)
 Fig.:
 Professor of Comparative Linguistics, University of Erlangen-Nuremberg (1955 - 1983)
 (Image source: [Details](/en/licenses#lekt5601))
-:::
-
-::: indent
+::::::indent
 Hoffmann, Karl &lt;1915 - 1996&gt;: The Injunctive in the Veda : a synchronic functional study / by Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3. series, Investigations)
-:::
-
-the Injunctive in the Veda has the following properties:
+:::the Injunctive in the Veda has the following properties:
 
 *   it is not narrative, but mentionable
 *   it is tenseless
 *   the Injunctive Present (= augmentless Imperfect) denotes the imperfective aspect
 *   the Injunctive Aorist denotes the perfective aspect.
 
-::: grammar-box
+:::grammar-box
 **In post-Vedic Sanskrit, the Injunctive occurs only in connection with the prohibition particle मा (+ Injunctive Aorist) or मा स्म (+ Injunctive Present or Aorist); the distinction of aspect usually no longer applies.**
 
 (with aspect
@@ -160,36 +142,28 @@ the Injunctive in the Veda has the following properties:
 *   मा स्म + Injunctive Present would denote an Inhibitive sentence, i.e., an already ongoing action or an already existing state is prohibited: "Stop ...!", "Desist from ...!"
 
 However, this distinction is usually not made in Classical Sanskrit.)
-:::
+:::## 56.3. The Prohibitive Sentence
 
-## 56.3. The Prohibitive Sentence
-
-::: grammar-box
+:::grammar-box
 **Main Form:**
 
 **मा + Injunctive Aorist**
 
 **मा स्म + Injunctive Aorist or Injunctive Present**
-:::
+:::Examples:
 
-Examples:
-
-::: indent
+:::indent
 मा कर्महेतुर्भूः "Do not become one who is motivated by the fruit of an action!" (Injunctive Aorist) (भगवद्गीता 2,47c)
 
 क्लैब्यं मा स्म गमः "Do not become effeminate!" (Injunctive Aorist) (भगवद्गीता 2,3a)
-:::
-
-::: media
+::::::media
 ![](/images/lekt5602.webp)
 Fig.: क्लैब्यं मा स्म गमः
 Poster (Ernesto Che Guevara) of a political party in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
 (Image source: [Details](/en/licenses#lekt5602))
-:::
+:::Both examples have a prohibitive meaning. The Injunctive Aorist is thus used here in its original sense. (The predominance of the Injunctive Aorist in such sentences may perhaps be explained by the predominance of prohibitive sentences over inhibitive sentences, yet this question would still need to be investigated for Classical Sanskrit.)
 
-Both examples have a prohibitive meaning. The Injunctive Aorist is thus used here in its original sense. (The predominance of the Injunctive Aorist in such sentences may perhaps be explained by the predominance of prohibitive sentences over inhibitive sentences, yet this question would still need to be investigated for Classical Sanskrit.)
-
-:::: grammar-box
+::::grammar-box
 **Other Forms of Prohibitive Sentences:**
 
 *   **मा + (स्म) + Imperative (rare)  **
@@ -202,32 +176,24 @@ Both examples have a prohibitive meaning. The Injunctive Aorist is thus used her
 
 In addition, there are other, rarer forms of prohibitive sentences, see e.g.
 
-::: indent
+:::indent
 Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt5603.webp)
 Fig.: अलं  विषादेन
 (Image source: [Details](/en/licenses#lekt5603))
-:::
+:::## 56.4. स्म
 
-## 56.4. स्म
-
-:::: grammar-box
+::::grammar-box
 **स्म highlights: "truly, indeed, certainly, precisely"**
 
 **Furthermore, the following construction is very important:**
 
-::: indent
+:::indent
 स्म + Indicative Present serves for narrating in the past, especially to indicate a duration in the past:
 
 e.g. वसति स्म "there lived once" (स्म may sometimes also be absent).
-:::
-::::
-
-## 56.5. Exercise
+:::::::## 56.5. Exercise
 
 A) Determine and translate the following forms without aids (!):
 
@@ -312,7 +278,7 @@ A) Determine and translate the following forms without aids (!):
 79.  मित्रध्रुक्
 80.  अवोचन्
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt5601:** Professor of Comparative Linguistics, University of Erlangen-Nuremberg (1955 - 1983) [Image source: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Accessed on 2009-02-27]
 

@@ -105,7 +105,7 @@ Obbedienza verso i due volte nati, attività per il sostentamento, attività com
 
 L'economia è agricoltura, allevamento del bestiame e commercio.
 
-::: media
+:::media
 ![](/images/uebung013.webp)
 Fig.: रक्षणं सर्वभूतानाम्
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung013))

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Determinare e tradurre le seguenti forme:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung / Bedeutung |
 |:---|:---|:---|
 | १. | **अस्मत्** | *वयम्*: Abl. (da noi) |
@@ -94,9 +94,7 @@ Determinare e tradurre le seguenti forme:
 | ७८. | **अकस्मात्** | inaspettatamente (Avv.) |
 | ७९. | **मित्रध्रुक्** | *मित्रद्रुह्*: Nom. Vok. Sg. m. f. n. (distruttore di nemici) |
 | ८०. | **अवोचन्** | *वच्* 2P: 3. Pl. a-Aor. P. (parlarono) |
-:::
-
-::: media
+::::::media
 ![](/images/uebung091.webp)
 Fig.: जेरिम
 (Fonte immagine: [Dettagli](/it/licenses#uebung091))

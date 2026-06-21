@@ -24,7 +24,7 @@ features:
 
 
 
-::: tip Versi 1.4 — Offline-First PWA
+:::tip Versi 1.4 — Offline-First PWA
 **Baru di v1.4 (Juni 2026):**
 
 - **Progressive Web App (PWA):** Kurs kini dapat diinstal sebagai aplikasi di desktop dan smartphone (iOS/Android).
@@ -36,4 +36,3 @@ features:
 **Berpartisipasi sebagai penulis atau korektor:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
 :::
-

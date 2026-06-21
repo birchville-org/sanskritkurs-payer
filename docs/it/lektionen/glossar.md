@@ -2,12 +2,10 @@
 outline: 2
 ---
 
-::: deleteme-box
+:::deleteme-box
 **Quelle & Urheberrecht**
 
-:::
-
-# Glossario Sanscrito–Italiano
+:::# Glossario Sanscrito–Italiano
 
 *Compilato dalle liste di parole del corso di sanscrito di Alois Payer.*
 

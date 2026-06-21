@@ -120,13 +120,11 @@ Los sabios védicos ven que el demonio de ninguna manera triunfa.
 ¿Qué comen y beben los brahmanes?
 ब्राह्मणैः किं पीतं खादितं च ॥
 
-::: media
+:::media
 ![](/images/uebung019.webp)
 Fig.: अग्निर्गृहं दहति ।
 (Fuente de la imagen: [Detalles](/licenses#uebung019))
-:::
-
----
+:::---
 
 ## Ejercicios adicionales
 
@@ -269,7 +267,7 @@ E) Traduzca al sánscrito:
 11\. Los sacerdotes sacrificadores exprimieron el soma.
 यजकैः सोमः सुतः ॥
 
-::: media
+:::media
 ![](/images/uebung018.webp)
 Fig.: बाला जलं पिबति । बालया जलं पीयते ।
 (Fuente de la imagen: [Detalles](/licenses#uebung018))

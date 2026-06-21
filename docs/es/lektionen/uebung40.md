@@ -28,7 +28,7 @@ Un estudiante obtiene una cuarta parte (del conocimiento) de su maestro, una cua
 
 B) Transforme las siguientes formas verbales en sus correspondientes formas de pretérito perfecto (1.ª persona):
 
-::: grammar-box
+:::grammar-box
 | Presente / Imperfecto | Pretérito perfecto (1.ª persona) |
 | :--- | :--- |
 | १. **अश्नीमः** | आशिम |
@@ -100,21 +100,17 @@ B) Transforme las siguientes formas verbales en sus correspondientes formas de p
 | ६७. **अहनम्** | जघान / जघन |
 | ६८. **पश्यामः** | ददृशिम |
 | ६९. **ईक्षे** | ईक्षां चक्रे |
-:::
-
-::: media
+::::::media
 ![](/images/uebung065.webp)
 Fig.: आशिमेति
 (Fuente de la imagen: [Detalles](/licenses#uebung065))
-:::
-
----
+:::---
 
 ## Determinación de formas verbales
 
 Determine y traduzca las siguientes formas verbales:
 
-::: grammar-box
+:::grammar-box
 | Forma verbal | Determinación | Significado |
 | :--- | :--- | :--- |
 | १. **ददे** | दा (3U) 1./3. sg. Ā. Perf. | yo di / él dio para sí |
@@ -151,9 +147,7 @@ Determine y traduzca las siguientes formas verbales:
 | ३२. **ऐक्षे** | ईक्ष् (1Ā) 1. sg. Ā. Impf. | yo vi |
 | ३३. **आह** | अह् (P) 3. sg. P. Perf. | él dijo |
 | ३४. **आहन्** | आ-हन् (2P) 3. sg. P. Impf. | él golpeó |
-:::
-
-::: media
+::::::media
 ![](/images/uebung066.webp)
 Fig.: काश्चन वाहिकाः
 (Fuente de la imagen: [Detalles](/licenses#uebung066))

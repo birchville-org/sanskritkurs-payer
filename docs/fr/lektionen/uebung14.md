@@ -175,7 +175,7 @@ Le fils de qui est ce garçon ?
 १३. कस्यान्नमनेनर्षिणेष्टम् ।
 La nourriture de qui ce sage védique a-t-il sacrifiée ?
 
-::: media
+:::media
 ![](/images/uebung017.webp)
 Fig. : नायकश्च नायिका च
 (Source de l'image : [Détails](/fr/licenses#uebung017))

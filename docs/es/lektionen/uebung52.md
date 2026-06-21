@@ -25,13 +25,11 @@ last_reconstructed: 2026-05-15
 
 > Lo que, al hacerlo, conduce a la satisfacción interior, eso debe hacerse con diligencia; lo contrario, absténgase de ello.
 
-::: media
+:::media
 ![](/images/uebung087.webp)
 Fig.: सर्वं परवशं दुःखम्
 (Fuente de la imagen: [Detalles](/licenses#uebung087))
-:::
-
----
+:::---
 
 ## २. मनुस्मृति २, ६: Sobre las fuentes del धर्म
 
@@ -118,7 +116,7 @@ La comprensión liberadora de los Budas:
 
 > "Estos seres vivos, que han cometido malas acciones, van a una mala existencia; estos otros, que tienen buen karma, renacen en el cielo de Indra."
 
-::: media
+:::media
 ![](/images/uebung088.webp)
 Fig.: कदलीगर्भनिःसारः
 (Fuente de la imagen: [Detalles](/licenses#uebung088))

@@ -69,7 +69,7 @@ Vocatif singulier des masculins / neutres en -a se termine par -a : par ex. द�
 
 सर्व 3 "tout, entier" (décliné selon la déclinaison pronominale)
 
-:::: media
+::::media
 ![](/images/uebung057.jpg)
 Légende : तिलप्रमाणम्
 (Source de l'image : [Détails](/fr/licenses#uebung057))

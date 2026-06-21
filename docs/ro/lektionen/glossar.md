@@ -2,12 +2,10 @@
 outline: 2
 ---
 
-::: deleteme-box
+:::deleteme-box
 **Quelle & Urheberrecht**
 
-:::
-
-# Glosar Sanscrită–Română
+:::# Glosar Sanscrită–Română
 
 *Compilat din listele de cuvinte ale cursului de sanscrită al lui Alois Payer.*
 

@@ -11,7 +11,7 @@ status: stable
 
 ## 47.1. Imperativul (लोट्)
 
-::: grammar-box
+:::grammar-box
 Imperativul (लोट्) exprimă
 
 *   **poruncă** (poate fi exprimat și prin gerundiv (कृत्य))
@@ -30,11 +30,9 @@ Prin imperativ se exprimă, de asemenea:
 *   **permisiune**
 *   **faptul că o acțiune este la momentul potrivit** (poate fi exprimat și prin gerundiv (कृत्य))
 *   **dorință de binecuvântare**
-:::
+:::Exemple:
 
-Exemple:
-
-::: indent
+:::indent
 एहि । "Vino!"
 
 ग्रामं भवानागच्छतु । sau optativ: ग्रामं भवानगच्छेत् । "Vino la sat!"
@@ -48,120 +46,94 @@ Exemple:
 करोतु शस्त्रं भवान् । sau gerundiv: भवता शस्त्रं कर्तव्यम् । "Fă un cuțit!" ; "Ai voie să faci un cuțit." ; "Este momentul să faci un cuțit."
 
 चिरं जीवतु भवान् । "Să trăiești mult!"
-:::
-
-::: grammar-box
+::::::grammar-box
 Poruncile politicoase sunt adesea exprimate prin imperativul pasiv.
-:::
+:::Exemple:
 
-Exemple:
-
-::: indent
+:::indent
 भवता प्रविश्यताम् । "Te rog, intră!"
 
 निषद्यताम् । "Te rog, șezi!"
-:::
+:::În imperativul sanscrit clasic, formele de persoana I sunt forme vechi de conjunctiv. Conjunctivul vedic este, în special, modul care exprimă o dorință: "Vrem să mergem!" "Să mergem!"
 
-În imperativul sanscrit clasic, formele de persoana I sunt forme vechi de conjunctiv. Conjunctivul vedic este, în special, modul care exprimă o dorință: "Vrem să mergem!" "Să mergem!"
-
-::: grammar-box
+:::grammar-box
 Imperativul se formează din tema de prezent.
-:::
-
-## 47.2. Formarea imperativului (लोट्) la rădăcinile tematic de prezent
+:::## 47.2. Formarea imperativului (लोट्) la rădăcinile tematic de prezent
 
 ### 47.2.1. Sufixele imperativului la teme de prezent tematic
 
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | **Sufix** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Persoana 1**[[br]]तृतीयः | \-āni | \-āma | \-ai | \-āmahai |
 | **Persoana 2**[[br]]मध्यमः | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
 | **Persoana 3**[[br]]प्रथमः | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
-:::
+:::Notă: ¹ Sufixele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -tāt, când se exprimă o dorință de binecuvântare:
 
-Notă: ¹ Sufixele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -tāt, când se exprimă o dorință de binecuvântare:
-
-::: indent
+:::indent
 भद्रो भवतात् "Să fii fericit!" "Să fie fericit!"
 
 शुभं भवतु sau शुभं भवतात् "Să fie bine!" "Totul bun!"
-:::
+:::### 47.2.2. Prima clasă de prezent (भ्वादि)
 
-### 47.2.2. Prima clasă de prezent (भ्वादि)
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | **भू 1P** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Persoana 1**[[br]]तृतीयः | भवानि | भवाम | &lt;भवै&gt; | &lt;भवामहै&gt; |
 | **Persoana a 2-a**[[br]]मध्यमः | भव[[br]](bho + a + ø) | भवत | &lt;भवस्व&gt; | &lt;भवध्वम्&gt; |
 | **Persoana a 3-a**[[br]]प्रथमः | भवतु | भवन्तु | &lt;भ्वताम्&gt; | &lt;भवन्ताम्&gt; |
-:::
+:::### 47.2.3. A șasea clasă de prezens (तुदादि)
 
-### 47.2.3. A șasea clasă de prezens (तुदादि)
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | **विश् 6P** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **1. Persoană**[[br]]तृतीयः | विशानि | विशाम | &lt;विशै&gt;[[br]](viś-a + ai) | &lt;विशामहै&gt; |
 | **2. Persoană**[[br]]मध्यमः | विश | विशत | &lt;विशस्व&gt; | &lt;विशध्वम्&gt; |
 | **3. Persoană**[[br]]प्रथमः | विशतु | विशन्तु | &lt;विशताम्&gt; | &lt;विशन्ताम्&gt; |
-:::
-
-::: media
+::::::media
 ![](/images/lekt4702.webp)
 Fig.: प्रविशत
 Templul Hanuman, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4702))
-:::
+:::### 47.2.4. A patra clasă de prezente (दिवादि)
 
-### 47.2.4. A patra clasă de prezente (दिवादि)
-
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | **नृत् 4P** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Persoana 1**[[br]]तृतीयः | नृत्यानि | नृत्याम | &lt;नृत्यै&gt; | &lt;नृत्यामहै&gt; |
 | **Persoana a 2-a**[[br]]मध्यमः | नृत्य | नृत्यत | &lt;नृत्यस्व&gt; | &lt;नृत्यध्वम्&gt; |
 | **Persoana a 3-a**[[br]]प्रथमः | नृत्यतु | नृत्यन्तु | &lt;नृत्यताम्&gt; | &lt;नृत्यन्ताम्&gt; |
-:::
-
-::: media
+::::::media
 ![](/images/lekt4701.webp)
 Fig.: नृत्यत
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4701))
-:::
-
-### 47.2.5. A zecea clasă de prezent (चुरादि) și cauzativele
+:::### 47.2.5. A zecea clasă de prezent (चुरादि) și cauzativele
 
 चुर् 10U
 
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Persoana I**[[br]]तृतीयः | चोरयानि | चोरयाम | चोरयै | चोरयामहै |
 | **Persoana a II-a**[[br]]मध्यमः | चोरय | चोरयत | चोरयस्व | चोरयध्वम् |
 | **Persoana a III-a**[[br]]प्रथमः | चोरयतु | चोरयन्तु | चोरयताम् | चोरयन्ताम् |
-:::
-
-### 47.2.6. Pasivul
+:::### 47.2.6. Pasivul
 
 ईक्ष् 1Ā
 
-::: grammar-box
+:::grammar-box
 | | आत्मनेपदम् ||
 | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** |
 | **1. Persoana**[[br]]तृतीयः | ईक्ष्यै[[br]](īks-ya + ai) | ईक्ष्यामहै |
 | **2. Persoana**[[br]]मध्यमः | ईक्ष्यस्व | ईक्ष्यध्वम् |
 | **3. Persoana**[[br]]प्रथमः | ईक्ष्यताम् | ईक्ष्यन्ताम् |
-:::
-
-## 47.3. Exercițiu
+:::## 47.3. Exercițiu
 
 A) Traduceți:
 
@@ -171,23 +143,21 @@ A) Traduceți:
 
 भो राम यदि मया गन्तव्यं तदैषा कन्यापि मम सहायिनी भवतु ॥३॥
 
-::: media
+:::media
 ![](/images/lekt4703.webp)
 Fig.: भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4703))
-:::
-आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥४॥
+:::आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥४॥
 
 प्रसीदत्वार्यः ॥५॥
 
 आर्ये स्वागतं ते ॥६॥
 
-::: media
+:::media
 ![](/images/lekt4704.webp)
 Fig.: आर्ये स्वागतं ते
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4704))
-:::
-आज्ञापयत्वार्यः किं मया क्रियतामिति ॥७॥
+:::आज्ञापयत्वार्यः किं मया क्रियतामिति ॥७॥
 
 युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥८॥
 
@@ -267,7 +237,7 @@ B.) Traduceți în sanscrită (folosiți imperativul):
 
 34\. Să fie spre noroc (să se întâmple)! (Dorință de binecuvântare)
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt4702:** Templul Hanuman, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی [Sursa imaginii: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Accesat la 2009-01-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribuire, fără lucrări derivate)]
 

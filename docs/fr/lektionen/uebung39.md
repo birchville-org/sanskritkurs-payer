@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formez les formes de la première personne qui correspondent à ces formes verbales en nombre, temps, mode (indicatif, optatif) et voix (P, Ā, passif) :
 
-::: grammar-box
+:::grammar-box
 | 3. Personne | 1. Personne |
 | :--- | :--- |
 | १. **अदन्ति** | अद्मः |
@@ -103,9 +103,7 @@ A) Formez les formes de la première personne qui correspondent à ces formes ve
 
 | ८८. **अजुहवुः** | अजुहुम |
 | ८९. **हरति** | हरामि |
-:::
-
-::: media
+::::::media
 ![](/images/uebung064.webp)
 Fig. : आगारे सीदामः
 (Source de l'image : [Détails](/fr/licenses#uebung064))

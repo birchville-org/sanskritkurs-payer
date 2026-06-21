@@ -19,27 +19,22 @@ Les leçons du cours de sanskrit traitent de sujets de grammaire sanskrite qui n
 
 ## 54.2. Formation des vocabulaire : Suffixe कृत् -u aux racines desideratives
 
-:::: grammar-box
+::::grammar-box
 **Aux racines desideratives (इच्छाप्रकृति) (« vouloir faire quelque chose » ; « être sur le point de faire quelque chose ») s’ajoute le suffixe -u pour former des noms d’agent.**
 
 (La formation des racines desideratives est traitée plus loin)
 
 Exemple :
 
-::: indent
+:::indent
 युयुत्सु (yu-yudh + s + u) « désireux de combattre, sur le point de combattre »
-:::
-::::
-
-::: media
+::::::::::media
 ![](/images/lekt5402.webp)
 Fig. : अयुयुत्सुरर्जुनः
 (Source de l’image : [Détails](/fr/licenses#lekt5402))
-:::
+:::## 54.3. Métrique II : l’épique त्रिष्टुभ् et l’जगती
 
-## 54.3. Métrique II : l’épique त्रिष्टुभ् et l’जगती
-
-:::: grammar-box
+::::grammar-box
 L’त्रिष्टुभ् (« Trois cris ») apparaît dans les épopées au milieu des parties habituelles de श्लोक, précisément aux endroits où l’ambiance ou l’action connaissent un élan ou une conclusion particuliers.
 
 La strophe त्रिष्टुभ् se compose de quatre पाद à onze syllabes, qui ne diffèrent pas par leur structure.
@@ -48,77 +43,55 @@ L’त्रिष्टुभ् possède deux schémas fondamentaux, selon qu
 
 Schéma I :
 
-::: metrik-schema
+:::metrik-schema
 × — × — / × ◡ — ***— ◡ — —***
-:::
+:::Schéma II :
 
-Schéma II :
-
-::: metrik-schema
+:::metrik-schema
 × — × — × / × ◡ ***— ◡ — —***
-:::
-
-La quantité des quatre dernières syllabes est donc identique dans les deux schémas.
+:::La quantité des quatre dernières syllabes est donc identique dans les deux schémas.
 
 Forme fondamentale de l’जगती : comme pour l’त्रिष्टुभ्, mais à douze syllabes. Les cinq dernières syllabes de chaque Pada présentent les quantités suivantes :
 
-::: metrik-schema
+:::metrik-schema
 ***— ◡ — ◡ —***
-:::
+:::Parallèlement, il existe la soi-disant त्रिष्टुभ् typiquement supplémentaire, avec un premier membre de cinq syllabes, qui se poursuit comme une त्रिष्टुभ् avec un premier membre de quatre syllabes :
 
-Parallèlement, il existe la soi-disant त्रिष्टुभ् typiquement supplémentaire, avec un premier membre de cinq syllabes, qui se poursuit comme une त्रिष्टुभ् avec un premier membre de quatre syllabes :
-
-::: metrik-schema
+:::metrik-schema
 — × — × / × ◡ — ***— ◡ — —***
-:::
-
-À une époque plus tardive, les formes de l’त्रिष्टुभ् sont fixées selon un schéma rigoureux de longueurs et de brèves ; la césure n’a plus d’importance. Les formes tardives les plus importantes sont :
+:::À une époque plus tardive, les formes de l’त्रिष्टुभ् sont fixées selon un schéma rigoureux de longueurs et de brèves ; la césure n’a plus d’importance. Les formes tardives les plus importantes sont :
 
 a) इन्द्रवज्रा
 
-::: metrik-schema
+:::metrik-schema
 ***—*** — ◡ — , — ◡ ◡ — ◡ — —
-:::
+:::b) उपेन्द्रवज्रा
 
-b) उपेन्द्रवज्रा
-
-::: metrik-schema
+:::metrik-schema
 ***◡*** — ◡ — , — ◡ ◡ — ◡ — —
-:::
+:::c) उपजाति
 
-c) उपजाति
-
-::: indent
+:::indent
 L’पाद dans l’इन्द्रवज्रा et l’पाद dans l’उपेन्द्रवज्रा sont mélangés dans une strophe.
-:::
-::::
-
-:::: grammar-box
+:::::::::::grammar-box
 **Vers mnémotechniques :**
 
 **स्यादिन्द्रवज्रा यदि तौ जगौ गः ।**
 
-::: indent
+:::indent
 « C’est une Indravājrā si les syllabes dans tous les Pādas sont ta ta ja ga ga.
-:::
+:::उपेन्द्रवज्रा प्रथमे लघौ सा ।
 
-उपेन्द्रवज्रा प्रथमे लघौ सा ।
-
-::: indent
+:::indent
 « Une Upendravajrā est semblable à une Indravajrā qui possède au début une syllabe brève. »
-:::
-
-अनन्तरोदीरितलक्ष्मभाजौ  
+:::अनन्तरोदीरितलक्ष्मभाजौ  
 पदौ यदीयावुपजातयस्ताः ।  
 इत्थं किलान्यास्वपिमिश्रितासु  
 वदन्ति जातिष्विदमिदमेवनाम ॥
 
-::: indent
+:::indent
 « Lorsque deux Pādas, qui présentent les caractéristiques de l’Indravajrā ou de l’Upendravajrā, sont impliqués dans un vers, il s’agit d’Upajātis. Même lorsque d’autres mètres sont mélangés dans un vers, on l’appelle Upajāti. »
-:::
-::::
-
-## 54.4. Exercice de mètre
+:::::::## 54.4. Exercice de mètre
 
 Déterminez dans le Bhagavadgītā II les Triṣṭubhs et les Jagatīs.
 
@@ -126,13 +99,11 @@ Exemple de récitation : [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](h
 
 ## 54.5. Types de formation de l’aoriste (लुङ्)
 
-::: grammar-box
+:::grammar-box
 **Ce qui est commun à tous les types de formation de l’aoriste (लुङ्) est l’augment a-, qui est placé avant selon les mêmes règles que dans l’imparfait (लङ्).**
 
 En sanskrit, seuls l’indicatif et le prétérit-optatif de l’aoriste sont courants.
-:::
-
-::: grammar-box
+::::::grammar-box
 **Il existe les types de formation suivants de l’aoriste (लुङ्) :**
 
 1.  Aoristes non sifflants (asigmatiques) :
@@ -146,31 +117,25 @@ En sanskrit, seuls l’indicatif et le prétérit-optatif de l’aoriste sont co
     *   54.7. Aoriste en -sa : Augment + Racine + ***s*** + ***a*** + Terminaison secondaire
 
 Pour la répartition des racines sur les différents types de formation, voir les sections consacrées à chaque type
-:::
+:::## 54.6. Racine aoriste
 
-## 54.6. Racine aoriste
-
-::: grammar-box
+:::grammar-box
 **Formation :**
 
 **Augment + Racine + Désinence secondaire**
-:::
-
-La désinence de la 3e personne du pluriel est -ur. Le ātmanepada n'est pas courant.
+:::La désinence de la 3e personne du pluriel est -ur. Le ātmanepada n'est pas courant.
 
 Exemple :
 
 पा 1re personne "boire"
 
-::: grammar-box
+:::grammar-box
 |   | एकवचनम् | बहुवचनम् |
 | --- | --- | --- |
 | 1. तृतीयः | अपाम्[[br]]a-pā + am | अपाम |
 | 2. मध्यमः | अपास् | अपात |
 | 3. प्रथमः | अपात् | अपुर्[[br]]a-p-ur (niveau profond !) |
-:::
-
-Le racine aoriste n'est formé qu'à partir de 12 racines :
+:::Le racine aoriste n'est formé qu'à partir de 12 racines :
 
 1.  गा 3e personne "aller"
 2.  घ्रा 1re personne "sentir"
@@ -187,19 +152,17 @@ Le racine aoriste n'est formé qu'à partir de 12 racines :
 
 Pour भू 1re personne, le racine aoriste se forme ainsi :
 
-::: grammar-box
+:::grammar-box
 |   | एकवचनम् | बहुवचनम् |
 | --- | --- | --- |
 | 1\. तृतीयः | अभूवम् | अभूम |
 | 2\. मध्यमः | अभू्स् | अभूत |
 | 3\. प्रथमः | अभूत् | ***अभूवन्*** (!!!) |
-:::
-
-### 54.6.1. L’Aoriste du 3.sg.Passif
+:::### 54.6.1. L’Aoriste du 3.sg.Passif
 
 Une forme spéciale de l’aoriste de la racine est l’aoriste du 3.sg.Passif. Celui-ci peut être formé à partir de toutes les racines.
 
-::: grammar-box
+:::grammar-box
 **Formation :**
 
 **Augment + Racine + i**
@@ -249,9 +212,7 @@ Infixe nasalisé :
     
 
 (Les autres formes du Passif sont rendues à l’Aoriste par des formes Ātmanepada).
-:::
-
-## 54.7. Exercice
+:::## 54.7. Exercice
 
 Traduisez par écrit les formes suivantes et formez les formes d’aoriste correspondantes :
 
@@ -279,13 +240,11 @@ Traduisez par écrit les formes suivantes et formez les formes d’aoriste corre
 22.  गीयते
 23.  गम्यते
 
-::: media
+:::media
 ![](/images/lekt5401.webp)
 Fig. : त्रिचक्रेणेश्वरः स्तूयते
 (Source de l’image : [Détails](/fr/licenses#lekt5401))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt5402 :** भगवद्गीतोपदेशः Tirupati = తిరుపతి [Source de l’image : Raji Srinivas / Wikipédia. Licence GNU FDL]
 

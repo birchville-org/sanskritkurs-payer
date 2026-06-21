@@ -18,7 +18,7 @@ En el primer caso, la frontera entre la forma casua viva y el adverbio es difusa
 
 ### 37.2.1. Acusativo (द्वितीया)
 
-:::: grammar-box
+::::grammar-box
 El acusativo (द्वितीया) puede emplearse de manera adverbial en respuesta a las preguntas:
 
 *   ¿de qué manera?
@@ -44,11 +44,9 @@ El acusativo puede emplearse de manera adverbial:
     तद् "entonces, por eso"  
     यद् "si, que"  
     एतद् "así, aquí, ahora"
-::::
+::::### 37.2.2. Instrumental (तृतीया)
 
-### 37.2.2. Instrumental (तृतीया)
-
-:::: grammar-box
+::::grammar-box
 El instrumental (तृतीया) puede emplearse adverbialmente en respuesta a las preguntas:
 
 *   ¿por medio de qué?
@@ -66,25 +64,20 @@ El instrumental puede emplearse adverbialmente:
     Ejemplos:  
     दूरेन "lejos, desde la lejanía" (de दूर 3 "lejos, distante")  
     उच्चैस् "alto, en voz alta" (de उच्च 3 "alto, elevado, fuerte, agudo (respecto a la voz)")
-::::
+::::### 37.2.3. Dativo (चतुर्थी)
 
-### 37.2.3. Dativo (चतुर्थी)
-
-:::: grammar-box
+::::grammar-box
 Rara vez se utiliza el dativo (चतुर्थी) de manera adverbial para responder a las preguntas:
 
 *   ¿con qué propósito?
 *   etc.
 
 Ejemplo:
-::: indent
+:::indent
 अर्थाय "con el propósito de, por la causa de..."
-:::
-::::
+:::::::### 37.2.4. Ablativo (पञ्चमी)
 
-### 37.2.4. Ablativo (पञ्चमी)
-
-:::: grammar-box
+::::grammar-box
 El ablativo (पञ्चमी) puede emplearse adverbialmente en respuesta a las preguntas:
 
 *   ¿por qué?
@@ -104,19 +97,15 @@ El ablativo puede emplearse adverbialmente:
     Ejemplos:  
     कस्मात् "por qué"  
     अकस्मात् "inesperadamente"
-::::
+::::### 37.2.5. Genitivo (षष्ठी)
 
-### 37.2.5. Genitivo (षष्ठी)
-
-:::: grammar-box
+::::grammar-box
 Rara vez se utiliza el genitivo (षष्ठी) de manera adverbial para preguntar "¿después de cuánto tiempo?".
 
 p.ej. चिरस्य "después de mucho tiempo" (relativo a चिर 3 "largo (tiempo)")
-::::
+::::### 37.2.6. Locativo (सप्तमी)
 
-### 37.2.6. Locativo (सप्तमी)
-
-:::: grammar-box
+::::grammar-box
 El locativo (सप्तमी) puede emplearse adverbialmente en respuesta a las preguntas:
 
 *   ¿dónde?
@@ -124,27 +113,22 @@ El locativo (सप्तमी) puede emplearse adverbialmente en respuesta a l
 *   etc.
 
 Ejemplos:
-::: indent
+:::indent
 \-अर्थे "por causa de"  
 \-कृते "a fin de"  
 दूरे "lejos"
-:::
-::::
-
-## 37.3. Uso adverbial de formas casuales ya no en uso
+:::::::## 37.3. Uso adverbial de formas casuales ya no en uso
 
 Ejemplos:
-::: indent
+:::indent
 जातु "en absoluto" (originalmente "por nacimiento, por naturaleza", acusativo singular neutro de जातु &lt;ya no en uso como sustantivo&gt;)
 
 तूष्णीम् "en silencio" (acusativo singular de तूष्णी f. "silencio", forma ya no en uso)
 
 एवम् "así" (derivado de una raíz pronominal एव "uno, único", que de otro modo se ha perdido)
-:::
+:::## 37.4. Formación de adverbios con sufijos adverbiales
 
-## 37.4. Formación de adverbios con sufijos adverbiales
-
-:::: grammar-box
+::::grammar-box
 De las raíces pronominales तद्, इदम् o अ-, यद्, किम् o कु se pueden derivar los correspondientes adverbios pronominales mediante los sufijos adverbiales:
 
 *   \-तस् (Ablativo)
@@ -153,9 +137,7 @@ De las raíces pronominales तद्, इदम् o अ-, यद्, किम
 *   \-थम् (Modo)
 *   \-दा (Tiempo)
 
-::::
-
-:::: grammar-box
+::::::::grammar-box
 
 | Sufijo | Raíz pronominal | | | |
 | :--- | :--- | :--- | :--- | :--- |
@@ -166,19 +148,13 @@ De las raíces pronominales तद्, इदम् o अ-, यद्, किम
 | **-थम्**[[br]](Modo) | | | | **कथम्**[[br]]¿cómo? |
 | **-दा**[[br]](Tiempo) | **तदा**[[br]]entonces, en aquel momento | | **यदा**[[br]]cuando | **कदा**[[br]]¿cuándo? |
 
-::::
-
-:::: grammar-box
+::::::::grammar-box
 Otro adverbio interrogativo es: क्व "¿dónde?"
-::::
-
-::: media
+:::::::media
 ![lekt3701.jpg](/images/lekt3701.webp)
 Fig.: क्व
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3701))
-:::
-
-:::: grammar-box
+:::::::grammar-box
 
 
   
@@ -223,9 +199,7 @@ Fig.: क्व
   
 
 
-::::
-
-## 37.5. Compuestos adverbiales
+::::## 37.5. Compuestos adverbiales
 
 ### 37.5.1. Compuestos con un adverbio o un caso usado adverbialmente como segundo miembro
 
@@ -239,34 +213,28 @@ Ejemplo: रक्षार्थम् (rakṣārtham) «del tipo de alguien cu
 
 अव्ययीभाव = "que se ha vuelto invariable/no declinable"
 
-:::: grammar-box
+::::grammar-box
 Un अव्ययीभाव es un compuesto adverbial cuyo primer miembro es un indeclinable (postposición, partícula, etc.) y cuyo segundo miembro es un sustantivo que adopta la terminación de acusativo singular neutro.
 
 Al resolver el compuesto, el primer miembro regiría al segundo:
 
 Ejemplos:
-::: indent
+:::indent
 प्रत्यग्नि = अग्निं प्रति = "contra el fuego"
 
 यथाशक्ति = शक्तिमनतिक्रम्य = "según las fuerzas"
 
 अभिमुखम् = मुखम् अभि = "hacia adelante, en dirección a"
-:::
-
-Son particularmente importantes los अव्ययीभाव con यथा "como" como primer miembro:
+:::Son particularmente importantes los अव्ययीभाव con यथा "como" como primer miembro:
 
 p. ej. यथाकामम् = कामो यथास्ति = "como es el deseo, a voluntad, arbitrariamente"
-::::
-
-::: media
+:::::::media
 ![lekt3702.jpg](/images/lekt3702.webp)
 Fig.: यथाशक्ति
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3702))
-:::
+:::## 37.6. Sintaxis
 
-## 37.6. Sintaxis
-
-:::: grammar-box
+::::grammar-box
 En el caso de los verbos
 
 *   अस् 2P «ser»
@@ -276,17 +244,13 @@ En el caso de los verbos
 en lugar de un adjetivo predicativo puede aparecer un adverbio predicativo:
 
 p. ej. तूष्णीं बभूव «se hizo silencioso, guardó silencio»
-::::
-
-::: media
+:::::::media
 ![lekt3703.jpg](/images/lekt3703.webp)
 Fig.: तूष्णीं बभूवुः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3703))
-:::
+:::## 37.7. Pronombres indefinidos
 
-## 37.7. Pronombres indefinidos
-
-:::: grammar-box
+::::grammar-box
 Los pronombres indefinidos (*unbestimmte Fürwörter*) se forman añadiendo
 
 *   \-चिद्
@@ -296,15 +260,12 @@ Los pronombres indefinidos (*unbestimmte Fürwörter*) se forman añadiendo
 a los casos del pronombre interrogativo किम्.
 
 Ejemplo:
-::: indent
+:::indent
 कश्चिद् = कश्चन = को ऽपि = "alguna persona, alguien"  
 कस्यचिद् = de alguna persona
-:::
-::::
+:::::::## 37.8. La oración interrogativa
 
-## 37.8. La oración interrogativa
-
-:::: grammar-box
+::::grammar-box
 "¿Quién?, ¿cómo?, ¿qué?, ¿por qué?  
 Quien no pregunta, se queda ignorante."
 
@@ -314,9 +275,7 @@ Quien no pregunta, se queda ignorante."
 मूर्खस्तिष्ठेत् ॥
 
 Motto de la Plaza Sésamo, que constituye una buena directriz tanto para la vida como para el estudio del sánscrito.
-::::
-
-Véase también [Lección 4](lektion04.md).
+::::Véase también [Lección 4](lektion04.md).
 
 Es necesario distinguir entre:
 
@@ -338,45 +297,33 @@ En las preguntas por oraciones se interroga por todo el contenido de la oración
 
 ### 37.8.1. Preguntas sobre palabras (preguntas complementarias)
 
-:::: grammar-box
+::::grammar-box
 Esquema:
 
 Pronombre/Adverbio interrogativo - Oración
-::::
-
-Ejemplos:
-::: indent
+::::Ejemplos:
+:::indent
 को ग्रामं गच्छति =  केन ग्रामो गम्यते = "¿Quién va a la aldea?"
 
 किं बाला अधीयीरन् = "¿Qué debían aprender los niños?"
 
 क्व रामो वसति = ¿Dónde reside Rāma?
-:::
-
-::: media
+::::::media
 ![lekt3704.jpg](/images/lekt3704.webp)
 Fig.: किं बाला अधीयीरन्
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3704))
-:::
+:::### 37.8.2. Preguntas de oración
 
-### 37.8.2. Preguntas de oración
-
-:::: grammar-box
+::::grammar-box
 A veces solo es evidente por el contexto si una oración es una pregunta.
-::::
-
-:::: grammar-box
+::::::::grammar-box
 Esquema I:
 
 Verbo - resto de la oración
-::::
-
-Ejemplo:
-::: indent
+::::Ejemplo:
+:::indent
 गमिष्यति ब्राह्मणबालो गुरुम् । "¿Irán el joven brahmán al maestro?"
-:::
-
-:::: grammar-box
+:::::::grammar-box
 Esquema II:
 
 Partícula interrogativa (generalmente al inicio de la oración) - oración
@@ -391,49 +338,37 @@ Las partículas interrogativas más importantes son:
     
 
 Estas partículas corresponden al signo de interrogación.
-::::
-
-Ejemplo:
-::: indent
+::::Ejemplo:
+:::indent
 अपि सत्यम् । "¿Es también verdad?"
 
 किं शक्नोति । "¿Puede él, pues?"
 
 कच्चित्क्षत्रियेण शत्रवो जिताः । "¿Acaso el kṣatriya ha derrotado a los enemigos?"
-:::
-
-Nota: किम् puede significar además "¿qué?" y como partícula interrogativa también "¿por qué?, ¿para qué?". Especialmente con el instrumental (तृतीया):
-::: indent
+:::Nota: किम् puede significar además "¿qué?" y como partícula interrogativa también "¿por qué?, ¿para qué?". Especialmente con el instrumental (तृतीया):
+:::indent
 किं क्रोधेन । "¿De qué sirve la ira? ¿Qué utilidad tiene la ira? ¿Qué propósito tiene la ira?"
-:::
-
-## 37.9. Lista de vocabulario
+:::## 37.9. Lista de vocabulario
 
 मूर्ख 3: insensato, estúpido, tonto m. Tonto
 
 मुनि m.: Sabio, (asceta) silencioso
 
-::: indent
+:::indent
 शाक्यमुनि m.: Asceta perteneciente a la familia de शाक्य (Kṣatriyas de कपिलवस्तु) = Buda Gautama
-:::
-
-::: media
+::::::media
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Fig.: शाक्यमुनिः
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3705))
-:::
-
-दिन n.: Día
+:::दिन n.: Día
 
 वृक्ष m.: Árbol
 
-::: media
+:::media
 ![lekt3706.jpg](/images/lekt3706.webp)
 Fig.: वृक्षः
 (Fuente de la imagen: [Detalles](/es/licenses/lekt3706))
-:::
-
-मुख n.: Boca, rostro, parte frontal, comienzo
+:::मुख n.: Boca, rostro, parte frontal, comienzo
 
 ## 37.10. Ejercicio
 
@@ -465,21 +400,17 @@ Ejemplo: क आगच्छति (राम) । » राम आगच्छ�
 
 कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥ (देवकी)
 
-::: media
+:::media
 ![lekt3707.jpg](/images/lekt3707.webp)
 Fig.: कृष्णः बलरामश्च
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3707))
-:::
+:::क्व मर्तुं सज्जना इच्छन्ति ॥१३॥ (काशी = वाराणसी)
 
-क्व मर्तुं सज्जना इच्छन्ति ॥१३॥ (काशी = वाराणसी)
-
-::: media
+:::media
 ![lekt3708.jpg](/images/lekt3708.webp)
 Fig.: क्व मर्तुं सज्जना इच्छन्ति
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3708))
-:::
-
-केषां धर्मो वेदाध्ययनम् ॥१४॥ (द्विज, द्विजाति, आर्य)
+:::केषां धर्मो वेदाध्ययनम् ॥१४॥ (द्विज, द्विजाति, आर्य)
 
 कैर्वेदः प्रोक्तः ॥१५॥ (ऋषि)
 
@@ -505,84 +436,62 @@ C) Traduzca las siguientes अव्ययीभाव (compostos indeclinables)
 
 1\. अति Postposición con Acusativo: "más allá de ..."
 
-::: indent
+:::indent
 1.  अतिमात्रम्
 2.  अतिवसन्तम्
-:::
+:::2\. अधि "en"
 
-2\. अधि "en"
-
-::: indent
+:::indent
 1.  अधिहरि
 2.  अधिकेरलम्
-:::
-
-::: media
+::::::media
 ![lekt3709.jpg](/images/lekt3709.webp)
 Fig.: अधिकेरलं वर्तन्ते
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3709))
-:::
+:::3\. अनु "según, a lo largo de, hacia"
 
-3\. अनु "según, a lo largo de, hacia"
-
-::: indent
+:::indent
 1.  अनुरूपम्
 2.  अनुदिनम्
 3.  अनुगङ्गम्
 4.  अनुविष्णुम्
-:::
+:::4\. अप "sin"
 
-4\. अप "sin"
-
-::: indent
+:::indent
 1.  अपविष्णुम्
-:::
+:::5\. अभि "en dirección a"
 
-5\. अभि "en dirección a"
-
-::: indent
+:::indent
 1.  अभिमुखम्
 2.  अभ्यग्नि
-:::
+:::6\. आ "desde, hasta, inclusive"
 
-6\. आ "desde, hasta, inclusive"
-
-::: indent
+:::indent
 1.  आबालवृद्धम्
 2.  आमरणम्
-:::
-
-::: media
+::::::media
 ![lekt3710.jpg](/images/lekt3710.webp)
 Fig.: आबालवृद्धं लंदननगरे ववृतिरे
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3710))
-:::
+:::7\. उप "cerca de"
 
-7\. उप "cerca de"
-
-::: indent
+:::indent
 1.  उपवृक्षम्
-:::
-
-::: media
+::::::media
 ![lekt3711.jpg](/images/lekt3711.webp)
 Fig.: उपवृक्षं सीदन्ति
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3711))
-:::
+:::8\. यथा
 
-8\. यथा
-
-::: indent
+:::indent
 1.  यथास्थानम्
-:::
-
-## 37.11. Ejercicio de repaso
+:::## 37.11. Ejercicio de repaso
 
 Traduzca al sánscrito utilizando exclusivamente formas verbales del perfecto:
 
 Cuando un anciano fue a otro pueblo, se cansó en el camino. Entonces, para descansar, se dirigió a la base de un árbol de mango que estaba al lado. En ese árbol había frutos maduros. Al anciano le entraron ganas de comerlos. Pero no podía subir al árbol ni alcanzar los frutos. Por suerte, había algunos monos en ese árbol que comían frutos. Al verlos, el anciano se alegró. ¿Qué hizo? Tomó algunas piedras, apuntó a los monos y lanzó. Los monos, enfurecidos, recogieron algunos frutos y se los lanzaron al anciano. El anciano, contento, tomó los frutos y se dirigió a su destino. ¡Vean el destino del anciano!
 
-::: deleteme-box
+:::deleteme-box
 
 
 - **Image lekt3701.jpg** (Fig.: क्व): [Fuente de la imagen: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Acceso el 2008-12-30. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]

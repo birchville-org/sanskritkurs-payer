@@ -11,16 +11,14 @@ status: stable
 
 ## 43.1. Desinenze personali della 2. persona (मध्यमः = "media &lt;Persona&gt;")
 
-::: grammar-box
+:::grammar-box
 | | परस्मैपदम् || आत्मनेपदम् ||
 | --- | --- | --- | --- | --- |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Desinenze primarie** | -si | -tha | -se | -dhve |
 | **Desinenze secondarie** | -s | -ta | -thās | -dhvam |
 | **Desinenze perfettiche** | -tha | -a | -se | -dhve |
-:::
-
-Si noti che la desinenza secondaria della 2. persona plurale è identica alla desinenza secondaria della 3. persona singolare attiva.
+:::Si noti che la desinenza secondaria della 2. persona plurale è identica alla desinenza secondaria della 3. persona singolare attiva.
 
 ## 43.2. Formazione delle forme verbali della 2. persona (मध्यमः)
 
@@ -31,11 +29,9 @@ Si noti che la desinenza secondaria della 2. persona plurale è identica alla de
 
 ### 43.2.1. Temi tematici
 
-::: media
+:::media
 ![](/images/lekt4301.jpg)
-:::
-
-La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica alla 2.pl. dell’Imperfetto e Ottativo Prātipadika!
+:::La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica alla 2.pl. dell’Imperfetto e Ottativo Prātipadika!
 
 #### 43.2.1.1. Prima classe di presente (भ्वादि)
 
@@ -116,7 +112,7 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 *   Singolare: त्वद् "tu"
 *   Plurale: युष्मद् "voi"
 
-::: grammar-box
+:::grammar-box
 | | एकवचनम् (त्वद्) | बहुवचनम् (युष्मद्) |
 | --- | --- | --- |
 | **प्रथमा** | त्वम् | यूयम् |
@@ -126,36 +122,29 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 | **पञ्चमी** | त्वत् | युष्मत् |
 | **षष्ठी** | तव ते | युष्माकम् वस् |
 | **सप्तमी** | त्वयि | युष्मासु |
-:::
+:::Le forme त्वा, ते, वस् non possono essere utilizzate all'inizio di una frase o di un emistichio. Inoltre, non possono essere impiegate prima di च, वा, एव e di alcune altre particelle:
 
-Le forme त्वा, ते, वस् non possono essere utilizzate all'inizio di una frase o di un emistichio. Inoltre, non possono essere impiegate prima di च, वा, एव e di alcune altre particelle:
-
-::: indent
+:::indent
 त्वां मां च "te e me"
-:::
-
-## 43.4. Elenco di parole
+:::## 43.4. Elenco di parole
 
 ज्ञा + आ Causativo आज्ञापयति : ordinare, disporre
 
 आपण m.: mercato
 
-::: media
+:::media
 ![](/images/lekt4302.webp)
 Fig.: आपणः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4302))
-:::
-
-सत्वर 3: veloce, affrettato
+:::सत्वर 3: veloce, affrettato
 
 पण्य 3: vendibile; n.: merce, commercio
 
-::: media
+:::media
 ![]/images/lekt4303.webp
 Fig.: पण्यानि
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4303))
-:::
-आम् : sì
+:::आम् : sì
 
 सम m. = वर्ष n.
 
@@ -173,33 +162,27 @@ Fig.: पण्यानि
 
 विपणि f.: negozio
 
-::: media
+:::media
 ![](/images/lekt4304.webp)
 Fig.: विपणिः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4304))
-:::
+:::वणिज् m.: mercante
 
-वणिज् m.: mercante
-
-::: media
+:::media
 ![](/images/lekt4305.webp)
 Fig.: वणिक्
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4305))
-:::
-
-वर 3: migliore
+:::वर 3: migliore
 
 शीघ्र 3: veloce, rapido
 
 वत्स m.: vitello, cucciolo, figlio ; Voc.: mio caro
 
-::: media
+:::media
 ![](/images/lekt4306.webp)
 Fig.: वत्सः
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4306))
-:::
-
-उत्तम 3: supremo, migliore
+:::उत्तम 3: supremo, migliore
 
 अल्प 3: piccolo, minimo
 
@@ -215,13 +198,11 @@ Fig.: वत्सः
 
 तर्हि 10 तुल् तुलयति । : pesare
 
-::: media
+:::media
 ![](/images/lekt4307.webp)
 Fig.: तोलयति
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4307))
-:::
-
-तोलन्ति n.: carta
+:::तोलन्ति n.: carta
 
 कर्गल m.: scatola (qui: pacco, fascio)
 
@@ -233,7 +214,7 @@ Fig.: तोलयति
 
 जव 1P द्रु correre
 
-::: indent
+:::indent
 Perf. IIIa द्रवति, दुद्राव  
 Fut. दुद्रुवुर्  
 Pass. द्रोष्यति  
@@ -241,9 +222,7 @@ Caus. द्रूयते
 PPP द्रावयति  
 Assol. -द्रुत  
 Inf. द्रुत्य
-:::
-
-द्रोतुम् Interiezione: Ehi! Tu laggiù!
+:::द्रोतुम् Interiezione: Ehi! Tu laggiù!
 
 रे 3: un altro (declinazione come अन्यद् )
 
@@ -338,13 +317,11 @@ B) Tradurre in Sanscrito:
 
 10\. Come ti salvi (superi) davanti al nemico?
 
-::: media
+:::media
 ![](/images/lekt4308.webp)
 Fig.: कदा पूराववर्तथाः ।
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4308))
-:::
-
-## 43.6. संवादः = Conversazione
+:::## 43.6. संवादः = Conversazione
 
 | संवादः | Spiegazioni |
 | --- | --- |
@@ -374,13 +351,11 @@ Fig.: कदा पूराववर्तथाः ।
 | अशोको गृहमागत्य सर्वमपीतिवृत्तमकथयत् । तत्रस्था सर्वे ऽपि बान्धवा मित्राणि च परमानन्दं प्रापुः । इत्थं जन्मोत्सवः सानन्दं समाप्तिं यातः ॥ | |
 | (Dopo: Saral Sanskrit Shikshak III, pag. 4f.) | |
 
-::: media
+:::media
 ![](/images/lekt4309.webp)
 Fig.: शर्करा
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4309))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Accesso il 2009-01-06. -- Licenza Creative Commons (Attribuzione, uso non commerciale)
 

@@ -102,7 +102,7 @@ sādhur guruḥ.
 
 साधुर्गुरुः
 
-::: media
+:::media
 ![](/images/uebung002.jpg)
 Обр.: ईश्वरः शिवः
 (Източник на изображението: [Подробности](/bg/licenses#uebung002))

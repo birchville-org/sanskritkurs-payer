@@ -87,13 +87,11 @@ Les hommes semblables aux lions se sont heurtés aux ennemis qui ne sont pas des
 १०. **पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥**
 Si un homme a accompli des méritoires et n’a dit que la vérité, il ne tombe dans aucune enfer.
 
-::: media
+:::media
 ![](/images/uebung034.jpg)
 Fig. : धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति
 (Source de l’image : [Détails](/fr/licenses#uebung034))
-:::
-
----
+:::---
 
 ## Constructions passives
 

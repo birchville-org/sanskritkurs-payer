@@ -10,27 +10,23 @@ last_reconstructed: 2026-05-15
 
 A) Form both the reduplicated and the periphrastic perfect forms for the following forms:
 
-::: grammar-box
+:::grammar-box
 | Present | Reduplicated | Periphrastic |
 | :--- | :--- | :--- |
 | १. **बिभ्रते** | बभ्रिरे | बिभरां चक्रिरे / -आसुः / -बभूवुः |
 | २. **बिभ्यति** | बिभ्युः | बिभयां चक्रुः / -आसुः / -बभूवुः |
 | ३. **जुहोति** | जुहाव | जुहवां चकार / -आस / -बभूव |
 | ४. **वेत्ति** | विवेद | विदां चकार / -आस / -बभूव |
-:::
+:::B) Form the periphrastic perfect for the root **आस्** (to sit):
 
-B) Form the periphrastic perfect for the root **आस्** (to sit):
-
-::: grammar-box
+:::grammar-box
 | Present | Periphrastic Perfect |
 | :--- | :--- |
 | १. **आस्ते** | आसां चकre / -आस / -बभूव |
 | २. **आसते** | आसां चक्रिरे / -आसुः / -बभूवुः |
-:::
+:::C) Form the corresponding perfect for the following forms:
 
-C) Form the corresponding perfect for the following forms:
-
-::: grammar-box
+:::grammar-box
 | Present / Imperfect | Perfect |
 | :--- | :--- |
 | १. **जीयते** | जिग्ये |
@@ -46,9 +42,7 @@ C) Form the corresponding perfect for the following forms:
 | ११. **क्रामन्ति** | चक्रमुः |
 | १२. **प्राव्रजन्** | प्रवव्रजुः |
 | १३. **त्यक्ष्यति** | तत्याज |
-:::
-
----
+:::---
 
 ## Translations
 
@@ -67,13 +61,11 @@ A twice-born person, who has studied the Veda, knows the right and custom of the
 ५. **विद्ययैव जीवितुं न शक्यते । य एवं विदुर्नाधीयीरन् ॥५॥**
 One cannot live solely from science. Whoever knows this should not study.
 
-::: media
+:::media
 ![](/images/uebung061.webp)
 Fig.: विद्ययैव जीवितुं न शक्यते
 (Image source: [Details](/en/licenses#uebung061))
-:::
-
----
+:::---
 
 ## Scholarly Fragments
 
@@ -95,19 +87,17 @@ One should greet the elderly with proper form, yield one’s seat to them, and s
 **न हृष्यति ग्लायति वा स विज्ञेयो जितेन्द्रियः ॥**  
 If a man neither rejoices nor grieves, whether he hears, touches, sees, tastes, or smells, then he is considered one who has conquered his senses (**जितेन्द्रियः**).
 
-::: media
+:::media
 ![](/images/uebung060.webp)
 Fig.: भुक्त्वा घ्रात्वा च न हृष्यति ग्लायति वा
 (Image source: [Details](/en/licenses#uebung060))
-:::
-
----
+:::---
 
 ## Word Form Determination
 
 Determine and translate the following word forms:
 
-::: grammar-box
+:::grammar-box
 | Word Form | Determination | Meaning |
 | :--- | :--- | :--- |
 | १. **नयति** | नी (1U) 3. sg. P. Ind. Pres. | he leads |
@@ -146,9 +136,7 @@ Determine and translate the following word forms:
 | ३४. **व्यानक्** | वि-अञ्ज् (7P) 3. sg. P. Impf. | he revealed |
 | ३५. **युङ्क्ते** | युज् (7U) 3. sg. Ā. Ind. Pres. | he connects for himself |
 | ३६. **अपिबत्** | पा (1P) 3. sg. P. Impf. | he drank |
-:::
-
-::: media
+::::::media
 ![](/images/uebung059.webp)
 Fig.: जगौ
 (Image source: [Details](/en/licenses#uebung059))

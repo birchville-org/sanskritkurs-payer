@@ -21,14 +21,12 @@ The reduplication syllable consists of (a consonant and) a vowel.
 
 ### 33.1.1. The Reduplicating Consonant
 
-::: grammar-box
+:::grammar-box
 **1. Generally:**  
 **The first consonant of the root is repeated.**
-:::
+:::Examples:
 
-Examples:
-
-::: indent
+:::indent
 **दा** 3 "to give"
 * 3.sg.P.Ind.Pres. **ददाति**
 
@@ -37,58 +35,40 @@ Examples:
 
 **मा** 3Ā "to measure"
 * 3.sg.Ā.Ind.Pres. **मिमीते**
-:::
-
-::: grammar-box
+::::::grammar-box
 **2. An initial aspirated consonant of a root is reduplicated by the corresponding unaspirated consonant.**
-:::
+:::Examples:
 
-Examples:
-
-::: indent
+:::indent
 **धा** 3 "to place"
 * 3.sg.P.Ind.Pres. **दधाति**
 
 **भी** 3 "to fear"
 * 3.sg.P.Ind.Pres. **बिभेति**
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **3. A guttural is reduplicated by the corresponding unaspirated palatal:**
 
-::: indent
+:::indent
 **क्**, **ख्** by **च्**  
 **ग्**, **घ्** by **ज्**
-:::
+:::**ह् is always reduplicated by ज्.**
+::::Examples:
 
-**ह् is always reduplicated by ज्.**
-::::
-
-Examples:
-
-::: indent
+:::indent
 **हु** 3 "(to pour) into the fire"
 * 3.sg.P.Ind.Pres. **जुहोति**
-:::
-
-::: grammar-box
+::::::grammar-box
 **4. If a root begins with a consonant cluster, only the first consonant is repeated (applying rules 2 or 3 if necessary).**
-:::
-
-::: grammar-box
+::::::grammar-box
 **5. If a root begins with a sibilant + voiceless consonant cluster, the sibilant is not reduplicated; rather, the following voiceless consonant is reduplicated according to the above rules.**
-:::
+:::Example:
 
-Example:
-
-::: indent
+:::indent
 **स्था** 1 "to stand"
 * 3.sg.P.Ind.Pres. **तिष्ठति**
-:::
+:::## 33.2. The Third Present Class (जुहोत्यादि = "जुहोति et al.")
 
-## 33.2. The Third Present Class (जुहोत्यादि = "जुहोति et al.")
-
-::: grammar-box
+:::grammar-box
 **Formation:**
 
 **strong stem:**  
@@ -98,19 +78,15 @@ Example:
 **reduplicated low-grade root + ending**
 
 **The rules for the reduplication consonant provided above apply.**
-:::
+:::### 33.2.1. The Reduplicating Vowel of the 3rd Present Class
 
-### 33.2.1. The Reduplicating Vowel of the 3rd Present Class
-
-::: grammar-box
+:::grammar-box
 * **The regular reduplicating vowel is -i-**
 * **Roots containing -u- reduplicate with -u-**
 * **The roots दा, धा, हा reduplicate with -a-**
-:::
+:::Examples:
 
-Examples:
-
-:::: grammar-box
+::::grammar-box
 **हु** 3P "(to pour) into the fire (as an offering)"
 
 * **strong stem:** जुहो
@@ -121,9 +97,7 @@ Examples:
 | **Indicative Present** | जुहोति | जुह्वति[[br]](juhu + ati) | &lt;जुहुते&gt; | &lt;जुह्वते&gt;[[br]](juhu + ate) |
 | **Imperfect** | अजुहोत्[[br]](a-juho-t) | जुहवुर्[[br]](a-juho + ur) | &lt;अजुहुत&gt; | &lt;अजुह्वत&gt;[[br]](a-juhu + ata) |
 | **Optative** | जुहुयात्[[br]](juhu-yā-t) | जुहुयुर्[[br]](juhu-y-ur) | &lt;जुह्वीत&gt;[[br]](juhu + ī-ta) | &lt;जुह्वीरन्&gt;[[br]](juhu + ī-ran) |
-::::
-
-## 33.3. On the Ablaut of ā
+::::## 33.3. On the Ablaut of ā
 
 ā can
 
@@ -132,7 +106,7 @@ Examples:
 
 The two most important ablaut series of the ā-group are:
 
-::: grammar-box
+:::grammar-box
 **A.**
 
 * **Weak grade**
@@ -142,34 +116,26 @@ The two most important ablaut series of the ā-group are:
     e.g. **धा** 3.pl.P.Ind.Pres. **दधति** (dadh-ati)
 * **Strong grade: -ā-**  
   e.g. **धा** 3.sg.P.Ind.Pres. **दधाति**
-:::
+:::Also belonging here is, for example:
 
-Also belonging here is, for example:
-
-::: indent
+:::indent
 **स्था** 1
 * PPP **स्थित** (sthi-ta)
 * 3.sg.P.Fut. **स्थास्यति** (sthā-sya-ti)
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **B.**
 
 * **Weak grade: -ī-**  
   e.g. **पा** 1: PPP **पीत** (pī-ta)
 * **Strong grade: -ā-**  
   e.g. **पा** 1: Inf. **पातुम्**
-::::
+::::## 33.4. Roots ending in -ā of the third present class
 
-## 33.4. Roots ending in -ā of the third present class
-
-::: grammar-box
+:::grammar-box
 **Roots ending in -ā (except दा and धा) typically exhibit a stem form ending in -ī- in the weak stem** (see Thumb-Hauschild Vol. 1,1 p. 271. It is likely that the ablaut series B mentioned above served as a model here, although these roots otherwise follow series A), **before vocalic endings the root vowel disappears completely (see ablaut series A).**
-:::
+:::Examples:
 
-Examples:
-
-:::: grammar-box
+::::grammar-box
 **मा** 3Ā "to measure"
 
 | | 3. sg. Ā. | 3. pl. Ā. |
@@ -177,9 +143,7 @@ Examples:
 | **Indicative Present** | मिमीते[[br]](mimī-te) | मिमते[[br]](mim-ate) |
 | **Imperfect** | अमिमीत | अमिमत |
 | **Optative** | मिमीत[[br]](mim-ī-ta !) | मिमीरन्[[br]](mim-ī-ran) |
-::::
-
-:::: grammar-box
+::::::::grammar-box
 **हा** 3P "to leave"
 
 | | 3. sg. P. | 3. pl. P. |
@@ -187,17 +151,13 @@ Examples:
 | **Indicative Present** | जहाति | जहति[[br]](jah-ati) |
 | **Imperfect** | अजहात् | अजहुर् |
 | **Optative** | जह्यात्[[br]](jah-yā-t)[[br]](The root **हा** has the same form before the optative -yā/-y as before vowels!) | जह्युर्[[br]](jah-y-ur) |
-::::
+::::### 33.4.1. The Roots **दा** and **धा**
 
-### 33.4.1. The Roots **दा** and **धा**
-
-::: grammar-box
+:::grammar-box
 **The roots दा andधा reduplicate with the vowel -a- and lose the root vowel in the weak stem.**
 
 **Note the aspiration dissimilation rule for धा!**
-:::
-
-:::: grammar-box
+:::::::grammar-box
 **धा** 3U "to place, to fix, to distribute"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
@@ -205,11 +165,9 @@ Examples:
 | **Indicative Present** | दधाति | दधति[[br]](dadh-ati) | धत्ते[[br]](dadh-te)[[br]](Explanation: Thumb-Hauschild 1,1 p. 302f.) | दधते[[br]](dadh-ate) |
 | **Imperfect** | अदधात् | अदधुर् | अधत्त[[br]](a + dadh + ta) | अदधत |
 | **Optative** | दध्यात्[[br]](dadh-yā-t) | दध्युर् | दधीत[[br]](dadh-ī-ta) | दधीरन् |
-::::
+::::The forms of **दा** are obtained by replacing **dh** with **d** in the paradigm of **धा**. Thus:
 
-The forms of **दा** are obtained by replacing **dh** with **d** in the paradigm of **धा**. Thus:
-
-:::: grammar-box
+::::grammar-box
 **दा** 3U "to give"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
@@ -217,19 +175,15 @@ The forms of **दा** are obtained by replacing **dh** with **d** in the parad
 | **Indicative Present** | ददाति | ददति | दत्ते | ददते |
 | **Imperfect** | अददात् | अददुर् | अदत्त | अददत |
 | **Optative** | दद्यात् | दद्युर् | ददीत | ददीरन् |
-::::
+::::## 33.5. The Present Active Participle of the Roots of the 3rd Present Class
 
-## 33.5. The Present Active Participle of the Roots of the 3rd Present Class
-
-::: grammar-box
+:::grammar-box
 **The verbs of the 3rd class form all forms of the Present Active Participle from the weak stem.**
 
 **Exception: The Nominative/Accusative Plural Neuter may optionally be formed from either the strong or the weak stem.**
-:::
+:::**दा** Present Active Participle:
 
-**दा** Present Active Participle:
-
-:::: grammar-box
+::::grammar-box
 | | Masculine[[br]]पुंल्लिङ्ग | Neuter[[br]]नपुंसकलिङ्ग | Feminine[[br]]स्त्रीलिङ्ग |
 | :--- | :--- | :--- | :--- |
 | **Singular** | | | |
@@ -238,15 +192,13 @@ The forms of **दा** are obtained by replacing **dh** with **d** in the parad
 | **Plural** | | | |
 | **1. Nominative** | ददतस् | ददति[[br]](dad-at-i)[[br]]ददन्ति[[br]](dad-ant-i) | |
 | **2. Accusative** | ददतस् | ददति[[br]]ददन्ति | |
-::::
-
-Similarly **जुह्वत्** (juhu-at + s)
+::::Similarly **जुह्वत्** (juhu-at + s)
 
 ## 33.6. Word List
 
 **दा** 3U **ददाति**: to give
 
-::: indent
+:::indent
 **Fut.** दास्यति  
 **Pass.** दीयते  
 **Kaus.** दापयति  
@@ -256,53 +208,39 @@ Similarly **जुह्वत्** (juhu-at + s)
 derived from this:
 
 **दान** n.: giving, gift, generosity
-:::
-
-::: media
+::::::media
 ![](/images/lekt3306.webp)
 Fig.: दानम्
 (Image source: [Details](/en/licenses#lekt3306))
-:::
+:::**दा** + **आ** 3Ā **अदत्ते**: to take (into receipt), to take possession of, to take along
 
-**दा** + **आ** 3Ā **अदत्ते**: to take (into receipt), to take possession of, to take along
-
-::: indent
+:::indent
 **Absol.** आदाय: with Acc.: in the company of, with
-:::
-
-::: media
+::::::media
 ![](/images/lekt3307.webp)
 Fig.: सा पुत्रमादाय भारं बिभ्रती गच्छति
 (Image source: [Details](/en/licenses#lekt3307))
-:::
+:::***धा*** 3U ***दधाति***: to place, to fix, to allot
 
-***धा*** 3U ***दधाति***: to place, to fix, to allot
-
-::: indent
+:::indent
 **Fut.** ***धास्यति***  
 **Pass.** ***धीयते***  
 **Kaus.** ***धापयति***  
 **PPP** ***हित*** (!!)  
 **Inf.** ***धातुम्***
-:::
+:::**धा** + **सम्** + **आ** 3U **समादधाति**: to direct one’s full attention to something, to collect oneself
 
-**धा** + **सम्** + **आ** 3U **समादधाति**: to direct one’s full attention to something, to collect oneself
-
-::: indent
+:::indent
 derived from this:
 
 **समाधि** m.: inner concentration, highest attention
-:::
-
-::: media
+::::::media
 ![](/images/lekt3305.webp)
 Fig.: समाधि
 (Image source: [Details](/en/licenses#lekt3305))
-:::
+:::**पॄ** 3P **पिपर्ति**: to fill, to fulfill
 
-**पॄ** 3P **पिपर्ति**: to fill, to fulfill
-
-::: indent
+:::indent
 Note:
 3.pl.P ***पिपुरति***  
 3.sg.Impf.P ***अपिपर्*** (from: \*apipart)  
@@ -313,13 +251,11 @@ Note:
 **Pass.** पूर्यते  
 **Kaus.** पूरयति / पारयति  
 **PPP** पूर्ण / पूर्त / पूरित
-:::
-
-**पॄ** + **सम्** only **Pass.** सम्पूर्यते and **Kaus.**: to fill completely
+:::**पॄ** + **सम्** only **Pass.** सम्पूर्यते and **Kaus.**: to fill completely
 
 **भी** 3P **बिभेति**: to fear (Abl., Gen.)
 
-::: indent
+:::indent
 **Fut.** भेष्यति  
 **Pass.** भीयते  
 **Kaus.** भाययति  
@@ -329,17 +265,13 @@ Note:
 derived from this:
 
 **भय** n.: fear, dread; danger (the subjective and the objective aspect)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3304.webp)
 Fig.: भयम्
 (Image source: [Details](/en/licenses#lekt3304))
-:::
+:::**भृ** 3U **बिभर्ति**: to carry, to bring; to sustain, to nourish
 
-**भृ** 3U **बिभर्ति**: to carry, to bring; to sustain, to nourish
-
-::: indent
+:::indent
 **Fut.** भरिष्यति  
 **Pass.** भ्रियते  
 **Kaus.** भारयति  
@@ -349,31 +281,25 @@ Fig.: भयम्
 derived from this:
 
 **भार** m.: burden
-:::
+:::**मा** 3Ā **मिमीते**: to measure
 
-**मा** 3Ā **मिमीते**: to measure
-
-::: indent
+:::indent
 **Fut.** मास्यति / मास्यते  
 **Pass.** मीयते  
 **Kaus.** मापयति  
 **PPP** मित  
 **Inf.** मातुम्
-:::
+:::**मा** + **उप** 3Ā **उपमिमीते**: to compare
 
-**मा** + **उप** 3Ā **उपमिमीते**: to compare
-
-::: indent
+:::indent
 derived from this:
 
 **उपमा** f.: comparison
 
 **प्रतिमा** f.: image, likeness
-:::
+:::**हा** 3P **जहाति**: to leave
 
-**हा** 3P **जहाति**: to leave
-
-::: indent
+:::indent
 **Fut.** हास्यति  
 **Pass.** हीयते  
 **Kaus.** हापयति  
@@ -382,40 +308,30 @@ derived from this:
 from PPP **हीन**:
 
 **हीनयान** n.: the deficient vehicle (of Buddhism): a derogatory term used by proponents of the "Great Vehicle," the **महायान**; the deficient path (**यान** from **या** 2: to go, to travel). The term हीनयान should no longer be used. The surviving form of the ancient Buddhism is called **थेरवाद**.
-:::
-
-::: media
+::::::media
 ![](/images/lekt3303.webp)
 Fig.: हीनयानमेव
 (Image source: [Details](/en/licenses#lekt3303))
-:::
+:::**हु** 3P **जुहोति**: to pour into the fire (as an offering, esp. melted butter)
 
-**हु** 3P **जुहोति**: to pour into the fire (as an offering, esp. melted butter)
-
-::: indent
+:::indent
 **Fut.** होष्यति  
 **Pass.** हूयते  
 **Kaus.** हावयति  
 **PPP** हुत  
 **Inf.** होतुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3302.webp)
 Fig.: घृतमग्नौ जुहोति
 (Image source: [Details](/en/licenses#lekt3302))
 
-:::
+:::**घृत** n.: Clarified butter, Ghee (घी / گھی / ঘী)
 
-**घृत** n.: Clarified butter, Ghee (घी / گھی / ঘী)
-
-::: note-box
+:::note-box
 "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
 
 [Source: http://en.wikipedia.org/wiki/Ghee. -- Accessed on 2008-12-26]
-:::
-
-## 33.7. Exercise
+:::## 33.7. Exercise
 
 A) Insert the corresponding forms of the words in parentheses into the following sentence pattern:
 
@@ -447,13 +363,11 @@ C) Translate and convert singular sentences into plural sentences and vice versa
 
 ब्राह्मणा भारं न बिभ्रतीति ब्राह्मणदासो भारं गृहमबिभः ॥३॥
 
-::: media
+:::media
 ![](/images/lekt3308.webp)
 Fig.: पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः
 (Image source: [Details](/en/licenses#lekt3308))
-:::
-
-क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥
+:::क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥
 
 देवदत्तमपि सुखं दुःखमोक्षेष्टिं न पिपर्ति । सेष्टिः प्रज्ञयैव सम्पूर्यते ॥५॥
 
@@ -461,7 +375,7 @@ Fig.: पुरुषा भारं न बिभ्रतीति स्त�
 
 मितमतयो नरकभयात्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति । अमितप्रज्ञाबुद्धा हि नरकेभ्यो न बिभीयुः स्वर्गांश्च न लुभ्येयुः । ते भयं च लोभं चारुन्धन् ॥७॥
 
-::: deleteme-box
+:::deleteme-box
 
 ### Sources
 

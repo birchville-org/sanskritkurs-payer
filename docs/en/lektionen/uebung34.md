@@ -69,7 +69,7 @@ Vocative singular of masculines / neuters ending in -a ends in -a: e.g. दे�
 
 सर्व 3 "all, whole" (declined according to pronominal declension)
 
-:::: media
+::::media
 ![](/images/uebung057.jpg)
 Fig.: तिलप्रमाणम्
 (Image source: [Details](/en/licenses#uebung057))

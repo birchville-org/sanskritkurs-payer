@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Determinați și traduceți următoarele forme:
 
-::: grammar-box
+:::grammar-box
 | Formă lexicală | Determinare | Semnificație |
 | :--- | :--- | :--- |
 | १. **वित्थ** | विद् (2P) 2. pl. P. Ind. Prezent | voi știți |
@@ -66,9 +66,7 @@ A) Determinați și traduceți următoarele forme:
 | ५०. **ददाने** | दा (3U) Part. Präs. Ā. Lok. sg. m./n. | în cel care dăruiește |
 | ५१. **सुषुपुः** | स्वप् (2P) 3. pl. P. Perf. | au dormit |
 | ५२. **ऊसु** | वस् (1P) 2. pl. P. Perf. | ați locuit |
-:::
-
----
+:::---
 
 ## Proverbe (सुभाषितानि)
 
@@ -84,7 +82,7 @@ Din mânie provine orbirea, din orbire, confuzia atenției (amintirii); din pier
 ३. **नास्ति बुद्धिरयुक्तस्य ॥ ३ ॥**
 Pentru cel necontrolat (non-yogin) nu există înțelepciune.
 
-::: media
+:::media
 ![](/images/uebung080.webp)
 Fig.: सक्तः
 (Sursa imaginii: [Detalii](/licenses#uebung080))

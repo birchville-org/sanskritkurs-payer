@@ -13,37 +13,31 @@ status: stable
 
 मनुस्मृति ४.३२ sur l’urination correcte :
 
-::: indent
+:::indent
 प्रत्य***ग्नि*** प्रतिसूर्यं च  
 प्रतिसोमोदकद्विजम् ।  
 प्रति***गु*** प्रतिवातं च  
 प्रज्ञा नश्यति मेहतः ॥
-:::
-
-Explications :
+:::Explications :
 
 \-अग्नि Neutre Nominatif/Accusatif singulier de अग्नि m.
 
 \-गु Neutre Nominatif/Accusatif singulier de गो m.f. « bœuf, vache »
 
-::: media
+:::media
 ![](/images/lekt3801.webp)
 Fig. : प्रज्ञा नश्यति मेहतः
 (Source de l’image : [Détails](/fr/licenses#lekt3801))
-:::
+:::## 38.2. Mutation phonétique des nasales en position intervocalique
 
-## 38.2. Mutation phonétique des nasales en position intervocalique
-
-::: grammar-box
+:::grammar-box
 Les nasales en position intervocalique s'assimilent aux consonnes qui les suivent, c'est-à-dire qu'elles sont remplacées par la nasale correspondant à cette consonne.
 
 Après c- et j-, -n- est remplacé par -ñ-.
-:::
-
-## 38.3. Déclinaison des stems en -n
+:::## 38.3. Déclinaison des stems en -n
 
 ### 38.3.1. Noms en -an ainsi que noms en -man ou -van après voyelle
-::: grammar-box
+:::grammar-box
 Les noms en **-an** ainsi que les noms **-man** ou **-van** après voyelle ont trois stems :
 
 | Stem | -an | -man | -van | Usage |
@@ -53,9 +47,7 @@ Les noms en **-an** ainsi que les noms **-man** ou **-van** après voyelle ont t
 | **Stem le plus faible** | **-n** | **-mn** | **-vn** | Autres cas avant terminaison vocalique |
 
 **Les terminaisons sont régulières. Le nominatif singulier m. f. se forme sans -n final.**
-:::
-
-Exemples :
+:::Exemples :
 
 राजन् m. "Roi"
 
@@ -74,7 +66,7 @@ Exemples :
 *   stem fort : नामान्
 *   stem moyen : नाम
 *   stem le plus faible : नाम्न्
-:::: grammar-box
+::::grammar-box
 
 | | **राजन्** | **सीमन्** | **नामन्** |
 | :--- | :---: | :---: | :---: |
@@ -95,26 +87,20 @@ Exemples :
 | **षष्ठी** | **राज्ञाम्** | **सीम्नाम्** | **नाम्नाम्** |
 | **सप्तमी** | **राजसु** | **सीमसु** | **नामसु** |
 
-::::
-
-::: media
+:::::::media
 ![](/images/lekt3803.webp)
 Fig. : सीमा
 (Source de l'image : [Détails](/fr/licenses#lekt3803))
-:::
+:::### 38.3.2. Noms en -man ou -van après consonne
 
-### 38.3.2. Noms en -man ou -van après consonne
-
-::: grammar-box
+:::grammar-box
 *   Starker Stamm: -mān, -vān
 *   Radical faible :
     *   devant des terminaisons commençant par une consonne : -ma, -va (de -\*mn, -\*vn)
     *   devant des terminaisons commençant par une voyelle : ***\-man, -van***
 
 Formation sinon comme sous 3.1.
-:::
-
-Exemples :
+:::Exemples :
 
 आत्मन् n. « Âme »
 
@@ -129,7 +115,7 @@ Exemples :
 *   radical faible :
     *   devant consonne : ब्रह्म
     *   devant voyelle : ब्रह्मन्
-:::: grammar-box
+::::grammar-box
 
 | | **आत्मन्** | **ब्रह्मन्** |
 | :--- | :---: | :---: |
@@ -150,23 +136,19 @@ Exemples :
 | **षष्ठी** | **आत्मनाम्** | **ब्रह्मणाम्** |
 | **सप्तमी** | **आत्मसु** | **ब्रह्मसु** |
 
-::::
+::::### 38.3.3. Masculins et neutres en -in, -min, -vin
 
-### 38.3.3. Masculins et neutres en -in, -min, -vin
-
-::: grammar-box
+:::grammar-box
 Ces noms n’ont ***aucune*** ablaut.
 
 Le nominatif singulier masculin et le nominatif-accusatif pluriel neutre sont formés par analogie avec les racines en -an (allongement du -i-), de même que la racine en ***\-i-*** devant une terminaison consonantique.
 
 Le féminin est formé avec le suffixe -ī : par ex. बलिनी
-:::
-
-Exemple :
+:::Exemple :
 
 बलिन् m.n. « fort, puissant (marqué par un बल particulier, बल possédant) »
 
-:::: grammar-box
+::::grammar-box
 
 | | **पुंस्** | **नपुंसकम्** |
 | :--- | :---: | :---: |
@@ -187,144 +169,105 @@ Exemple :
 | **षष्ठी** | **बलिनाम्**||
 | **सप्तमी** | **बलिषु**||
 
-::::
+::::## 38.4. Sur la formation nominale : suffixe तद्धित -in
 
-## 38.4. Sur la formation nominale : suffixe तद्धित -in
-
-::: grammar-box
+:::grammar-box
 Avec le suffixe (très important !) तद्धित **-in**, on forme des adjectifs à partir de substantifs, avec le sens de :
 
 **marqué par, possédant**
 
 À l'origine, la formation avec le suffixe **-इन्** se distinguait de celle avec **-मन्त्/-वन्त्** par le fait que **-इन्** indiquait la marque par quelque chose de particulier, tandis que **-मन्त्/-वन्त्** exprimait la possession de, la marque par quelque chose d'ordinaire, de général.
-:::
-
-Exemple :
+:::Exemple :
 
 हस्तिन् m. : celui qui est marqué par une main particulière = l'éléphant (sa main n'est pas une main ordinaire, mais une trompe)
 
-::: media
+:::media
 ![](/images/lekt3806.webp)
 Fig. : हस्ती
 (Source de l'image : [Détails](/fr/licenses#lekt3806))
-:::
+:::हस्तवन्त् : celui qui a des mains (humaines)
 
-हस्तवन्त् : celui qui a des mains (humaines)
-
-::: media
+:::media
 ![](/images/lekt3807.webp)
 Fig. : हस्तवान्
 (Source de l'image : [Détails](/fr/licenses#lekt3807))
-:::
-
-::: grammar-box
+::::::grammar-box
 Les adjectifs en **-इन्** sont volontiers formés en composés.
-:::
-
-Exemple :
+:::Exemple :
 
 सत्यवादिन् de सत्यवाद m. "parole de vérité" : "celui qui est marqué par la parole de vérité = celui qui dit toujours la vérité"
 
 ## 38.5. Syntax zu नामन्
 
-::: grammar-box
+:::grammar-box
 Pour exprimer « quelqu’un nommé N. N. », on construit :
 
 **N.N. (au nominatif) नाम**
 
 Littéralement : « le nom est/était N.N. ». Il s’agit donc d’une proposition nominale insérée.
-:::
+:::Exemple :
 
-Exemple :
-
-::: indent
+:::indent
 आसीद्राजा नलो नाम वीरसेनसुतो बली । « Il était une fois un roi ***nommé Nala***, le puissant fils de Vīrasena. »
-:::
+:::Bien sûr, on peut exprimer la même idée avec un बहुव्रीहि :
 
-Bien sûr, on peut exprimer la même idée avec un बहुव्रीहि :
-
-::: indent
+:::indent
 देवदत्तनामा पुरुषः « un homme dont le nom est Devadatta »
 
 मदयन्तिकानाम्नी बाला « une fille dont le nom est Madayantika »
-:::
-
-::: media
+::::::media
 ![](/images/lekt3808.jpg)
 Fig. : आसीन्महात्मा गन्धी नाम
 (Source de l’image : [Détails](/fr/licenses#lekt3808))
-:::
+:::## 38.6. Syntax concernant आत्मन्
 
-## 38.6. Syntax concernant आत्मन्
-
-::: grammar-box
+:::grammar-box
 **आत्मन्** ***masculin*** peut être utilisé au ***singulier*** comme pronom réfléchi (pronom réfléchi) pour les trois genres, nombres (y compris le duel et le pluriel) et personnes.
-:::
+:::Exemples :
 
-Exemples :
-
-::: indent
+:::indent
 आत्मन्येषा दोषं न पश्यति । « Elle ne voit aucun défaut en elle-même »
 
 आत्मानं स्तुवन्ति । « Ils se glorifient eux-mêmes »
-:::
-
-::: grammar-box
+::::::grammar-box
 Le génitif (षष्ठी) **आत्मनस्** peut donc signifier « mon/ton/sien/... propre »
-:::
+:::Exemple :
 
-Exemple :
-
-::: indent
+:::indent
 आत्मनो गृहं प्रविशति । « Il entre dans sa propre maison. »
-:::
+:::## 38.7. Les stems consonantiques à la fin en tant que premiers membres de composés
 
-## 38.7. Les stems consonantiques à la fin en tant que premiers membres de composés
-
-::: grammar-box
+:::grammar-box
 Les stems qui se terminent par une consonne apparaissent comme premier membre d'un composé sous la forme du stem (faible) qu'ils prennent avant la terminaison -su du locatif (सप्तमी) pluriel.
-:::
+:::Exemple :
 
-Exemple :
-
-::: indent
+:::indent
 ***राज***पुत्र « fils de roi »
-:::
+:::## 38.8. Les souches en -an en tant que second élément d'un बहुव्रीहि
 
-## 38.8. Les souches en -an en tant que second élément d'un बहुव्रीहि
-
-::: grammar-box
+:::grammar-box
 En tant que second élément d'un बहुव्रीहि, une souche en -an peut être utilisée pour les trois genres. Cependant, le féminin est généralement formé avec le suffixe -ī à partir de la forme faible du masculin.
-:::
+:::Exemple :
 
-Exemple :
-
-::: indent
+:::indent
 दुर्णाम्नी « une dont le nom est mauvais ; déesse de la maladie »
-:::
-
-## 38.9. Liste de mots
+:::## 38.9. Liste de mots
 
 सूर्य m. : Soleil, dieu-soleil Sūrya
 
-::: media
+:::media
 ![](/images/lekt3802.webp)
 Fig. : सूर्यः
 (Source de l'image : [Détails](/fr/licenses#lekt3802))
-:::
- 
+:::उदक n. : Eau
 
-उदक n. : Eau
-
-::: media
+:::media
 ![](/images/lekt3805.webp)
 Fig. : उदकम्
 (Source de l'image : [Détails](/fr/licenses#lekt3805))
-:::
+:::वा 2P वाति : souffler, faire souffler
 
-वा 2P वाति : souffler, faire souffler
-
-::: indent
+:::indent
 Fut. वास्यति
 Perf. IV ववौ
 Pass. वायते
@@ -335,27 +278,21 @@ Inf. वातुम्
 dont :
 
 वात m. : Vent
-:::
+:::वा + निस् 2P निर्वाति : souffler, disperser, s'éteindre
 
-वा + निस् 2P निर्वाति : souffler, disperser, s'éteindre
-
-::: indent
+:::indent
 dont :
 
 निर्वाण n. : Éteignement, Nirvāṇa
 
 परिनिर्वाण n. : Éteignement parfait, libération parfaite (à la mort d'un Bouddha ou d'un Arhat)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3804.webp)
 Fig. : गौतमबुद्धस्य महापरिनिर्वाणम्
 (Source de l'image : [Détails](/fr/licenses#lekt3804))
-:::
+:::मिह् 1P मेहति : uriner, pisser, éjaculer
 
-मिह् 1P मेहति : uriner, pisser, éjaculer
-
-::: indent
+:::indent
 Fut. मेक्ष्यति
 Perf. II मिमेह, मिमिहुर्
 Pass. मिह्यते
@@ -365,13 +302,11 @@ PPP मीढ
 dont :
 
 मेघ m. : Nuage ("celui qui urine")
-:::
-
-सुत m. : Fils
+:::सुत m. : Fils
 
 राजन् m. : Roi (sur la royauté en Inde, voir Basham, Wonder pp. 82-94). En tant que dernier élément d'un composé (surtout तत्पुरुष) : généralement -राज m. (comme देव)
 
-::: indent
+:::indent
 Féminin :
 
 राज्ञी f. : Reine, épouse d'un roi
@@ -379,9 +314,7 @@ Féminin :
 de राज :
 
 राज्य 3 : royal ; n. Royaume, royauté, règne
-:::
-
-नामन् n. : Nom
+:::नामन् n. : Nom
 
 सीमन् f. : Limite
 
@@ -391,31 +324,25 @@ de राज :
 
 ब्रह्मन् m. : le dieu créateur pensé personnellement Brahmā
 
-::: media
+:::media
 ![](/images/lekt3809.webp)
 Fig. : ब्रह्मा
 (Source de l'image : [Détails](/fr/licenses#lekt3809))
-:::
+:::कर्मन् n. : à कृ 8U : action, acte, œuvre ; œuvre sacrée, action sacrificielle ; Karma : l'action passée qui apporte plus tard ses fruits (par exemple dans la réincarnation) 
 
-कर्मन् n. : à कृ 8U : action, acte, œuvre ; œuvre sacrée, action sacrificielle ; Karma : l'action passée qui apporte plus tard ses fruits (par exemple dans la réincarnation) 
-
-::: indent
+:::indent
 कर्मविपाक m. : Mûrissement des actions = les conséquences bonnes et mauvaises des actions dans les existations passées (à वि-पच्)
-:::
-
-हस्तिन् m. : Éléphant (_Elephas maximus_)
+:::हस्तिन् m. : Éléphant (_Elephas maximus_)
 
 मनु m. : Être humain, homme ; nom du père de l'espèce humaine (à मन् 4Ā)
 
-::: indent
+:::indent
 dont :
 
 मनुष्य m. : Être humain
-:::
+:::शुच् 1P शोचति : (flamber, briller) ; pleurer, déplorer
 
-शुच् 1P शोचति : (flamber, briller) ; pleurer, déplorer
-
-::: indent
+:::indent
 Perf. II शुशोच, शुशुचुर्
 Fut. शोचिष्यति
 Pass. शुच्यते
@@ -430,21 +357,15 @@ dont :
 शोक m. : Chagrin, tristesse
 
 अशोक 3 : exempt de chagrin ; arbre Ashoka = _Saraca asoca_ (Roxb.) Wilde ; nom de l'empereur Aśoka (देवानांप्रिय प्रियदर्शी) (env. 304 – 232 av. J.-C.)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3810.webp)
 Fig. : अशोकवृक्षः
 (Source de l'image : [Détails](/fr/licenses#lekt3810))
-:::
-
-::: media
+::::::media
 ![](/images/lekt3811.webp)
 Fig. : अशोकसाम्राज्यम्
 (Source de l'image : [Détails](/fr/licenses#lekt3811))
-:::
-
-## 38.10. Exercice
+:::## 38.10. Exercice
 
 A) Conjuguez les formes appropriées des mots entre parenthèses dans les phrases suivantes et traduisez :
 
@@ -484,87 +405,71 @@ A) Conjuguez les formes appropriées des mots entre parenthèses dans les phrase
 
 विनोद m. : passe-temps, divertissement, plaisir
 
-::: media
+:::media
 ![](/images/lekt3812.webp)
 Fig. : विनोदः
 (Source de l'image : [Détails](/fr/licenses#lekt3812))
-:::
+:::अट् 1P अटति : errer, vagabonder
 
-अट् 1P अटति : errer, vagabonder
-
-::: indent
+:::indent
 Parf. I आट, आटुः
 Fut. अटिष्यति
 Caus. आटयति
-:::
-
-गाध 3 : peu profond
+:::गाध 3 : peu profond
 
 तॄ 1P तरति : traverser, se sauver de (Acc.)
 
-::: indent
+:::indent
 Parf. IIIb ततार, तेरुः
 Fut. तरिष्यति । तरीष्यति
 Pass. तीर्यते
 Caus. टारयति
 PPP तीर्ण
 Inf. तरितुम् । तरीतुम्
-:::
-
-पार n.(m.) : l'autre rive, limite, but
+:::पार n.(m.) : l'autre rive, limite, but
 
 तीर n. : rive
 
-::: media
+:::media
 ![](/images/lekt3813.webp)
 Fig. : वाराणस्यां गङ्गातीरे
 (Source de l'image : [Détails](/fr/licenses#lekt3813))
-:::
-
-एकैकशस् Adv. : chacun individuellement
+:::एकैकशस् Adv. : chacun individuellement
 
 गण् 10P गणयति : compter
 
-::: indent
+:::indent
 Parf. गणयां चकार
 Fut. गणयिष्यति
 Pass. गण्यते
 PPP गणित
 Absol. -गणय्य
 Inf. गणयितुम्
-:::
-
-::: media
+::::::media
 ![](/images/lekt3814.webp)
 Fig. : गणयां चक्रुः
 (Source de l'image : [Détails](/fr/licenses#lekt3814))
-:::
+:::क्रुश् 1P क्रोशति : crier, se lamenter
 
-क्रुश् 1P क्रोशति : crier, se lamenter
-
-::: indent
+:::indent
 Parf. II चुक्रोश
 Fut. क्रोक्ष्यति
 Pass. क्रुश्यते
 Caus. क्रोशयति
 PPP क्रुष्ट
-:::
-
-इदानीम् Adv. : maintenant
+:::इदानीम् Adv. : maintenant
 
 नूनम् Adv. : maintenant ; donc, par conséquent ; certainement, sans aucun doute
 
 मज्ज् 6P मज्जति : sombrer, plonger
 
-::: indent
+:::indent
 PPP ममज्ज
 Fut. मङ्क्ष्यति
 Caus. मज्जयति
 PPP मग्न
 Absol. मङ्क्त्वा । मक्त्वा
-:::
-
-गवेषयति Dénominal : chercher
+:::गवेषयति Dénominal : chercher
 
 व्याकुल 3 : consterné, agité, confus
 
@@ -574,26 +479,22 @@ Absol. मङ्क्त्वा । मक्त्वा
 
 हस् 1P हसति : rire
 
-::: indent
+:::indent
 Parf. Vc जहास, जहसुर्
 Fut. हसिष्यति
 Pass. हस्यते
 Caus. हासयति
 PPP हसित
-:::
+:::सृ 1P सरति : courir
 
-सृ 1P सरति : courir
-
-::: indent
+:::indent
 Parf. ससार, सस्रुर्
 Fut. सरिष्यति
 Pass. स्रियते
 Caus. सारयति
 PPP सृत
 Inf. सर्तुम्
-:::
-
-कर्णयति Dénominal : entendre (à कर्ण m. "oreille")
+:::कर्णयति Dénominal : entendre (à कर्ण m. "oreille")
 
 लज्जा f. : honte
 
@@ -635,7 +536,7 @@ Explications :
 
 यूयम् Gen.pl. de युष्माकम्
 
-::: deleteme-box
+:::deleteme-box
 
 - **lekt3801.jpg** : Fig. : ... यूयम् प्रज्ञा नश्यति Bangalore = ಬೆಂಗಳೂರು \[Source de l'image : mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Consulté le 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale)\]
 - **lekt3802.jpg** : Fig. : मेहतः  सूर्यः सूर्य, Konark = मंदिर \[Source de l'image : PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Consulté le 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale)\]

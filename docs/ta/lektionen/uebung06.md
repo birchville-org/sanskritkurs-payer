@@ -140,13 +140,11 @@ sā brāhmaṇī nṛtyati.
 
 सा ब्राह्मणी नृत्यति ॥
 
-::: media
+:::media
 ![](/images/uebung004.jpg)
 Abb.: का नृत्यति ।
 (Bildquelle: [Details](/licenses#uebung004))
-:::
-
----
+:::---
 
 ## மீள்பயிற்சி பாடம் 6
 
@@ -598,7 +596,7 @@ sarvathā kuśalam.
 
 सर्वथा कुशलम् ॥
 
-::: media
+:::media
 ![](/images/uebung005.webp)
 அணி: देवतान्नपूर्णा
 (படம் மூலம்: [விவரங்கள்](/licenses#uebung005))

@@ -13,7 +13,7 @@ status: stable
 
 Desinențele persoanei primei persoane (***तृतीयः*** पुरुषः = "***a treia*** persoană") sunt:
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -25,21 +25,18 @@ Desinențele persoanei primei persoane (***तृतीयः*** पुरुष
 | **Desinență optativă** | ^^ | ^^ | **-a** | ^^ |
 | **Desinență perfectă** | **-a** | ^^ | **-e** | **-mahe** |
 
-::::
-1 Notă: de fapt, desinența primară a temelor ā este de asemenea de tipul -e, în fața căreia vocala tematică -a- dispare din motive de analogie. Efectul este însă ca și cum desinența -i s-ar alătura vocalei tematice -a: a + i » e.
+::::1 Notă: de fapt, desinența primară a temelor ā este de asemenea de tipul -e, în fața căreia vocala tematică -a- dispare din motive de analogie. Efectul este însă ca și cum desinența -i s-ar alătura vocalei tematice -a: a + i » e.
 
 ## 39.2. Formarea formelor verbale ale primei persoane, teme de prezent tematic
 
-::: grammar-box
+:::grammar-box
 **Regulă:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
-:::
-
-### 39.2.1. Prima clasă de prezent (भ्वादि)
+:::### 39.2.1. Prima clasă de prezent (भ्वादि)
 
 भू 1P
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -48,13 +45,11 @@ Desinențele persoanei primei persoane (***तृतीयः*** पुरुष
 | **Imperfect - लङ्** | **अभवम्** | **अभवाम** | **&lt;अभवे&gt;** | **&lt;अभवामहि&gt;** |
 | **Optativ - विधिलिङ्** | **भवेयम्**[[br]]bhava + iy-am | **भवेम**[[br]]bhava + i-ma | **&lt;भवेय&gt;**[[br]]bhava + iy-a | **&lt;भवेमहि&gt;**[[br]]bhava + i-mahi |
 
-::::
-
-### 39.2.2. A șasea clasă de prezente (तुदादि)
+::::### 39.2.2. A șasea clasă de prezente (तुदादि)
 
 विश् 6P
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -63,13 +58,11 @@ Desinențele persoanei primei persoane (***तृतीयः*** पुरुष
 | **Imperfect - लङ्** | **अविशम्** | **अविशाम** | **&lt;अविशे&gt;** | **&lt;अविशामहि&gt;** |
 | **Optativ - विधिलिङ्** | **विशेयम्** | **विशेम** | **&lt;विशेय&gt;** | **&lt;विशेमहि&gt;** |
 
-::::
-
-### 39.2.3. A patra clasă de prezent (दिवादि)
+::::### 39.2.3. A patra clasă de prezent (दिवादि)
 
 नृत् 1P
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -78,13 +71,11 @@ Desinențele persoanei primei persoane (***तृतीयः*** पुरुष
 | **Imperfect - लङ्** | **अनृत्यम्** | **अनृत्याम** | **&lt;अनृत्ये&gt;** | **&lt;अनृत्यामहि&gt;** |
 | **Optativ - विधिलिङ्** | **नृत्येयम्** | **नृत्येम** | **&lt;नृत्येय&gt;** | **&lt;नृत्येमहि&gt;** |
 
-::::
-
-### 39.2.4. A zecea clasă de prezent (चुरादि) și cauzative (णिजन्त)
+::::### 39.2.4. A zecea clasă de prezent (चुरादि) și cauzative (णिजन्त)
 
 चुर् 10U
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
@@ -93,13 +84,11 @@ Desinențele persoanei primei persoane (***तृतीयः*** पुरुष
 | **Imperfect - लङ्** | **अचोरयम्** | **अचोरयाम** | **अचोरये** | **अचोरयामहि** |
 | **Optativ - विधिलिङ्** | **चोरयेयम्** | **चोरयेम** | **चोरयेय** | **चोरयेमहि** |
 
-::::
-
-### 39.2.5. Pasivul (Sufixul यक्)
+::::### 39.2.5. Pasivul (Sufixul यक्)
 
 ईक्ष् 1Ā
 
-:::: grammar-box
+::::grammar-box
 
 | | **एकवचनम्** | **बहुवचनम्** |
 | :--- | :---: | :---: |
@@ -107,45 +96,37 @@ Desinențele persoanei primei persoane (***तृतीयः*** पुरुष
 | **Imperfect - लङ्** | **ऐक्ष्ये**[[br]]a + īkṣ-ya + i | **ऐक्ष्यामहि** |
 | **Optativ - विधिलिङ्** | **ईक्ष्येय**[[br]]īkṣ-ya + iy-a | **ईक्ष्येमहि**[[br]]īkṣ-ya + i-mahi |
 
-::::
+::::## 39.3. Formarea formelor verbale pentru persoana I a viitorului simplu - ऌत्
 
-## 39.3. Formarea formelor verbale pentru persoana I a viitorului simplu - ऌत्
-
-::: grammar-box
+:::grammar-box
 **Viitorul are o formare tematică. De aceea, se aplică și regula pentru temele tematice:**
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
-:::
-
-### 39.3.1. Formarea अनिट्
+:::### 39.3.1. Formarea अनिट्
 
 दा 3U
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Viitorul - ऌत्** | **दास्यामि**[[br]]dā-syā-mi | **दास्यामस्** | **दास्ये** | **दास्यामहे** |
 
-::::
-
-### 39.3.2. Formarea सेट्
+::::### 39.3.2. Formarea सेट्
 
 भू Persoana I singular
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
 | | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
 | **Viitorul - ऌत्** | **भविष्यामि**[[br]]bho + i + syā + mi | **भविष्यामस्** | **&lt;भविष्ये&gt;** | **&lt;भविष्यामहे&gt;** |
 
-::::
+::::## 39.4. Formarea formelor verbale ale primei persoane a temelor de prezent atematic
 
-## 39.4. Formarea formelor verbale ale primei persoane a temelor de prezent atematic
-
-::: grammar-box
+:::grammar-box
 **Rețineți că în interiorul cuvântului — spre deosebire de sandha la nivel de propoziție — înainte de terminații care încep cu**
 * **vocală**
 * **semi-vocală**
@@ -154,13 +135,11 @@ Desinențele persoanei primei persoane (***तृतीयः*** पुरुष
 **consoanele rămân, de regulă, neschimbate.**
 
 de ex. वच् 1.sg.Ind.Prez.P **व***च्मि***
-:::
-
-### 39.4.1. A doua clasă de prezent (अदादि)
+:::### 39.4.1. A doua clasă de prezent (अदादि)
 
 द्विष् 2U
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -169,11 +148,9 @@ de ex. वच् 1.sg.Ind.Prez.P **व***च्मि***
 | **Imperfect  - लङ्** | **अद्वेषम्** | **अद्विष्म** | **अद्विषि** | **अद्विष्महि** |
 | **Optativ  - विधिलिङ्** | **द्विष्याम्**[[br]]dviṣ-yā + m | **द्विष्याम** | **द्विषीय**[[br]]dviṣ-īy-a | **द्विषीमहि** |
 
-::::
+::::अस् 2P
 
-अस् 2P
-
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** ||
 | :--- | :---: | :---: |
@@ -182,19 +159,15 @@ de ex. वच् 1.sg.Ind.Prez.P **व***च्मि***
 | **Imperfect  - लङ्** | **आसाम्**[[br]]a + as-am | **आस्म** |
 | **Optativ  - विधिलिङ्** | **स्याम्**[[br]]s-yā + m | **स्याम** |
 
-::::
-
-::: media
+:::::::media
 ![lekt3901.jpg](/images/lekt3901.jpg)
 Fig.: सो ऽस्मि
 (Sursă imagine: [Detalii](/ro/licenses#lekt3901))
-:::
-
-### 39.4.2. A treia clasă de prezent (जुहोत्यादि)
+:::### 39.4.2. A treia clasă de prezent (जुहोत्यादि)
 
 हु 3P
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
@@ -203,11 +176,9 @@ Fig.: सो ऽस्मि
 | **Imperfect - लङ्** | **अजुहवम्**[[br]]a-juho + am | **अजुहुम** | **&lt;अजुहवि&gt;** | **&lt;अजुहुमहि&gt;** |
 | **Optativ - विधिलिङ्** | **जुहुयाम्** | **जुहुयाम** | **&lt;जुह्वीय&gt;**[[br]]juhu + īy-a | **&lt;जुह्वीमहि&gt;** |
 
-::::
+::::धा 3U
 
-धा 3U
-
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
@@ -216,17 +187,13 @@ Fig.: सो ऽस्मि
 | **Imperfect - लङ्** | **अदधाम्**[[br]]a-dadh + am | **अदध्म** | **अदधि** | **अदध्महि** |
 | **Optativ - विधिलिङ्** | **दध्याम्** | **दध्याम** | **दधीय** | **दधीमहि** |
 
-::::
+::::### 39.4.3. A cincea clasă de prezente (स्वादि)
 
-### 39.4.3. A cincea clasă de prezente (स्वादि)
-
-::: grammar-box
+:::grammar-box
 **La rădăcinile care se termină vocalic, sufixul de formare a temei (-nu) poate cădea opțional înainte de terminațiile care încep cu m-.**
-:::
+:::सु 5U
 
-सु 5U
-
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: |
@@ -235,13 +202,11 @@ Fig.: सो ऽस्मि
 | **Imperfect - लङ्** | **असुनवम्** | **असुनुम** / **असुन्म** | **असुन्वि** | **असुनुमहि** / **असुन्महि** |
 | **Optativ - विधिलिङ्** | **सुनुयाम्** | **सुनुयाम** | **सुन्वीय** | **सुन्वीमहि** |
 
-::::
-
-### 39.4.4. A opta clasă de prezent (तनादि)
+::::### 39.4.4. A opta clasă de prezent (तनादि)
 
 तन् 8U
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -250,11 +215,9 @@ Fig.: सो ऽस्मि
 | **Imperfect - लङ्** | **अतनवम्** | **अतनुम** / **अतन्म** | **अतन्वि** | **अतनुमहि** / **अतन्महि** |
 | **Optativ - विधिलिङ्** | **तनुयाम्** | **तनुयाम** | **तन्वीय** | **तन्वीमहि** |
 
-::::
+::::कृ 8U
 
-कृ 8U
-
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -263,13 +226,11 @@ Fig.: सो ऽस्मि
 | **Imperfect - लङ्** | **अकरवम्** | **अकुर्म** | **अकुर्वि** | **अकुर्महि** |
 | **Optativ - विधिलिङ्** | **कुर्याम्** | **कुर्याम** | **कुर्वीय** | **कुर्वीमहि** |
 
-::::
-
-### 39.4.5. A șaptea clasă de prezent (रुधादि)
+::::### 39.4.5. A șaptea clasă de prezent (रुधादि)
 
 युज् 7U
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -278,13 +239,11 @@ Fig.: सो ऽस्मि
 | **Imperfect - लङ्** | **अयुनजम्** | **अयुञ्ज्म** | **अयुञ्जि** | **अयुञ्ज्महि** |
 | **Optativ - विधिलिङ्** | **युञ्ज्याम्** | **युञ्ज्याम** | **युञ्जीय** | **युञ्जीमहि** |
 
-::::
-
-### 39.4.6. A noua clasă de prezent (क्र्यादि)
+::::### 39.4.6. A noua clasă de prezent (क्र्यादि)
 
 क्री 9U
 
-:::: grammar-box
+::::grammar-box
 
 | | **परस्मैपदम्** || **आत्मनेपदम्** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -293,9 +252,7 @@ Fig.: सो ऽस्मि
 | **Imperfect - लङ्** | **अक्रीणाम्**[[br]]a-krī + nā + am | **अक्रीणीम** | **अक्रीणि** | **अक्रीणीमहि** |
 | **Optativ - विधिलिङ्** | **क्रीणीयाम्** | **क्रीणीयाम** | **क्रीणीय**[[br]]krī + n-īy-a | **क्रीणीमहि** |
 
-::::
-
-## 39.5. Exercițiu
+::::## 39.5. Exercițiu
 
 Formați pentru următoarele forme verbale formele persoanei întâi, care corespund acestei forme verbale în număr, timp, mod (indicativ, optativ) și mod de acțiune (P, Ā, Pasiv).
 

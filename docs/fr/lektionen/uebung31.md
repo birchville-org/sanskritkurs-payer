@@ -29,19 +29,17 @@ Celui qui possède la compréhension est libéré de la souffrance ; c'est pourq
 (मोहेन सहितः । शोभनं रूपं यासां ताः । वीतो मोहो यस्य सः । सम्पन्नं रूपं यस्याः सा)
 Un homme obscurci savoure de bonnes nourritures et de belles femmes. Dont l'obscurité a disparu, ne désire ni bonne nourriture ni femme au corps parfait. Il empêche en effet l'avidité et la haine et se concentre sur la compréhension.
 
-::: media
+:::media
 ![](/images/uebung049.webp)
 Fig. : कुलबन्धनम्
 (Source de l'image : [Détails](/fr/licenses#uebung049))
-:::
-
----
+:::---
 
 ## Conjugaisons verbales (7e classe)
 
 B) Formez à partir des racines suivantes de la 7e classe les 3e personne du singulier et du pluriel (P et Ā) de l'indicatif et de l'optatif présent :
 
-::: grammar-box
+:::grammar-box
 
 ### १. **छिद्** (colonnes)
 

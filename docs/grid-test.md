@@ -10,7 +10,7 @@ title: "Grid Test"
 | Row 1 | Row 2 |
 +-------+-------+
 
-::: grammar-box
+:::grammar-box
 
 +-------+-------+
 | Box 1 | Box 2 |

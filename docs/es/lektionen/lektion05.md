@@ -9,15 +9,13 @@ status: stable
 
 # Lección 5
 
-::: deleteme-box
+:::deleteme-box
 **En esta lección aprenderá:**
 - Fundamentos de los compuestos nominales (samāsa)
 - Terminología técnica para compuestos
 - Compuestos copulativos (Dvandva)
 - El orden de los miembros en Dvandvas
-:::
-
-## 5.1. Compuestos nominales (samāsa m. = समास)
+:::## 5.1. Compuestos nominales (samāsa m. = समास)
 
 La formación de compuestos de palabras en un grado muy amplio es una característica del sánscrito.
 
@@ -45,7 +43,7 @@ Las formas de formación más importantes de compuestos son:
 
 Los compuestos copulativos sirven para vincular miembros gramaticalmente similares, coordinados (sustantivos o adjetivos).
 
-::: grammar-box
+:::grammar-box
 **Un Dvandva designa:**
 
 1. **ya sea la conexión sumativa de las personas, cosas o propiedades designadas por sus miembros individuales:**
@@ -62,9 +60,7 @@ El Dvandva es generalmente un neutro (independientemente del género del último
 
 **La resolución:**
 Se realiza con "y" (**ca** = च), ocasionalmente con "o" (**vā** = वा) o "cada uno".
-:::
-
-¡Véase más adelante sobre los Dvandvas duales!
+:::¡Véase más adelante sobre los Dvandvas duales!
 
 ### 5.3.1. Miembros anteriores de compuestos
 
@@ -106,13 +102,11 @@ Cuando dos de las tres últimas prescripciones mencionadas puedan aplicarse simu
 
 **kāma** m. = काम : deseo, anhelo, don deseado, placer sensual, amor; dios del amor Kāma.
 
-::: media
+:::media
 ![](/images/lekt0501.webp)
 Fig.: Dios Kāma = kāmadeva = कामदेव, siglo XVIII.
 (Fuente de la imagen: Wikipedia, dominio público)
-:::
-
-**krodha** m. = क्रोध : ira.
+:::**krodha** m. = क्रोध : ira.
 
 **kleśa** m. = क्लेश : tormento, plaga.
 

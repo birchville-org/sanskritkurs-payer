@@ -101,7 +101,7 @@ Le Śūdra a-t-il donc porté le fardeau ?
 
 C) Déterminez et traduisez les composés suivants :
 
-::: grammar-box
+:::grammar-box
 | Compoundé | Signification | Explication |
 | :--- | :--- | :--- |
 | **अतिमात्रम्** | excessivement | मात्रामतीत्य (au-delà de la mesure) |
@@ -119,15 +119,11 @@ C) Déterminez et traduisez les composés suivants :
 | **आमरणम्** | jusqu'à la mort | आ मरणात् (jusqu'à mourir) |
 | **उपवृक्षम्** | près de l'arbre | वृक्षस्य समीपे (près de l'arbre) |
 | **यथास्थानम्** | au bon endroit | स्थानमनतिक्रम्य (ne dépassant pas l'endroit) |
-:::
-
-::: media
+::::::media
 ![](/images/uebung062.webp)
 Fig. : पुत्रे जात आर्यः सुखमाप्नोति
 (Source de l'image : [Détails](/fr/licenses#uebung062))
-:::
-
----
+:::---
 
 ## Passé composé narratif (L’histoire du vieil homme)
 
