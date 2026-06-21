@@ -17,20 +17,20 @@ status: stable
 
 Beispiele:
 
-| Wurzel[[br]]⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **⟪जि⟫** 1P[[br]]Perf. IIIa | ⟪जि⟫***⟪गा⟫***⟪य⟫ | ⟪जि⟫***⟪ग्यु⟫***⟪र्⟫[[br]]ji-gi + ur | | |
-| **⟪चि⟫** 5U[[br]]Perf. IIIa | ⟪चि⟫***⟪का⟫***⟪य⟫[[br]]**⟪चिचाय⟫** | ⟪चि⟫***⟪क्यु⟫***⟪र्⟫[[br]]**⟪चिच्युर्⟫** | ⟪चि⟫***⟪क्ये⟫***[[br]]**⟪चिच्ये⟫** | ⟪चि⟫***⟪क्यि⟫***⟪रे⟫[[br]]**⟪चिच्यिरे⟫** |
-| **⟪हन्⟫** 2P[[br]]Perf. Va | ⟪ज⟫***⟪घा⟫***⟪न⟫ | ⟪ज⟫***⟪घ्नु⟫***⟪र्⟫ | | |
+| **⟪जि⟫** 1P:brPerf. IIIa | ⟪जि⟫***⟪गा⟫***⟪य⟫ | ⟪जि⟫***⟪ग्यु⟫***⟪र्⟫:brji-gi + ur | | |
+| **⟪चि⟫** 5U:brPerf. IIIa | ⟪चि⟫***⟪का⟫***⟪य⟫:br**⟪चिचाय⟫** | ⟪चि⟫***⟪क्यु⟫***⟪र्⟫:br**⟪चिच्युर्⟫** | ⟪चि⟫***⟪क्ये⟫***:br**⟪चिच्ये⟫** | ⟪चि⟫***⟪क्यि⟫***⟪रे⟫:br**⟪चिच्यिरे⟫** |
+| **⟪हन्⟫** 2P:brPerf. Va | ⟪ज⟫***⟪घा⟫***⟪न⟫ | ⟪ज⟫***⟪घ्नु⟫***⟪र्⟫ | | |
 
 :::: grammar-box
 2\. Die Wurzel ⟪विद्⟫ 2P "wissen" hat ein Perfekt mit präsentischer Bedeutung.
 ::::
 
 :::: grammar-box
-| Wurzel[[br]]⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| **⟪विद्⟫** 2P | **⟪वेद⟫**[[br]]er/sie/es weiß | **⟪विदुर्⟫**[[br]]sie wissen |
+| **⟪विद्⟫** 2P | **⟪वेद⟫**:brer/sie/es weiß | **⟪विदुर्⟫**:brsie wissen |
 ::::
 
 :::: grammar-box
@@ -38,9 +38,9 @@ Beispiele:
 ::::
 
 :::: grammar-box
-| Wurzel[[br]]⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| **⟪अह्⟫**[[br]]Perf. I | **⟪आह⟫**[[br]]er/sie/es sagt | **⟪आहुर्⟫**[[br]]sie sagen |
+| **⟪अह्⟫**:brPerf. I | **⟪आह⟫**:brer/sie/es sagt | **⟪आहुर्⟫**:brsie sagen |
 ::::
 
 :::: grammar-box
@@ -48,7 +48,7 @@ Beispiele:
 ::::
 
 :::: grammar-box
-| Wurzel[[br]]⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | **⟪भू⟫** 1P | **⟪बभूव⟫** | **⟪बभूवुर्⟫** |
 ::::
@@ -76,10 +76,10 @@ Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā
 
 Beispiele:
 
-| Wurzel[[br]]⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **⟪ईक्ष्⟫** 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫**[[br]]**⟪ईक्षामास⟫**[[br]]**⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫**[[br]]**⟪ईक्षामासुर्⟫**[[br]]**⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
-| **⟪बन्ध्⟫**[[br]]Kausativ: ⟪बन्धय⟫-[[br]]"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫**[[br]]**⟪बन्धयामास⟫**[[br]]**⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫**[[br]]**⟪बन्धयामासुर्⟫**[[br]]**⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
+| **⟪ईक्ष्⟫** 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫**:br**⟪ईक्षामास⟫**:br**⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫**:br**⟪ईक्षामासुर्⟫**:br**⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
+| **⟪बन्ध्⟫**:brKausativ: ⟪बन्धय⟫-:br"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫**:br**⟪बन्धयामास⟫**:br**⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫**:br**⟪बन्धयामासुर्⟫**:br**⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
 
 
 
@@ -312,7 +312,7 @@ Abb.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 
 ## 36.6. Das Perfekt (⟪लिट्⟫) zu den bisher gelernten Wurzeln
 
-| Wurzel[[br]]⟪धातु⟫ | Perfektklasse | Perfekt (⟪लिट्⟫) |
+| Wurzel:br⟪धातु⟫ | Perfektklasse | Perfekt (⟪लिट्⟫) |
 | :--- | :--- | :--- |
 | **⟪अञ्ज्⟫** 7P | I | **⟪आनञ्ज⟫** |
 | **⟪अद्⟫** 2P | I | **⟪आद⟫** |

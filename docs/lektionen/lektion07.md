@@ -61,16 +61,16 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 
 | Maskulina auf | Akkusativ Singular |
 | :--- | :--- |
-| **-a**: deva | **devam**[[br]]⟪देवम्⟫ |
-| **-i**: kavi | **kavim**[[br]]⟪कविम्⟫ |
-| **-u**: guru | **gurum**[[br]]⟪गुरुम्⟫ |
+| **-a**: deva | **devam**:br⟪देवम्⟫ |
+| **-i**: kavi | **kavim**:br⟪कविम्⟫ |
+| **-u**: guru | **gurum**:br⟪गुरुम्⟫ |
 
 | Feminina auf | Akkusativ Singular |
 | :--- | :--- |
-| **-ā**: devatā | **devatām**[[br]]⟪देवताम्⟫ |
-| **-i**: śruti | **śrutim**[[br]]⟪श्रुतिम्⟫ |
-| **-ī**: devī | **devīm**[[br]]⟪देवीम्⟫ |
-| **-u**: dhenu | **dhenum**[[br]]⟪धेनुम्⟫ |
+| **-ā**: devatā | **devatām**:br⟪देवताम्⟫ |
+| **-i**: śruti | **śrutim**:br⟪श्रुतिम्⟫ |
+| **-ī**: devī | **devīm**:br⟪देवीम्⟫ |
+| **-u**: dhenu | **dhenum**:br⟪धेनुम्⟫ |
 :::
 
 ::: grammar-box
@@ -78,9 +78,9 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 
 | Maskulina auf | Akkusativ Plural |
 | :--- | :--- |
-| **-a**: deva | **devān**[[br]]⟪देवान्⟫ |
-| **-i**: kavi | **kavīn**[[br]]⟪कवीन्⟫ |
-| **-u**: guru | **gurūn**[[br]]⟪गुरून्⟫ |
+| **-a**: deva | **devān**:br⟪देवान्⟫ |
+| **-i**: kavi | **kavīn**:br⟪कवीन्⟫ |
+| **-u**: guru | **gurūn**:br⟪गुरून्⟫ |
 :::
 
 ::: grammar-box
@@ -88,10 +88,10 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 
 | Feminina auf | Akkusativ Plural |
 | :--- | :--- |
-| **-ā**: devatā | **devatās**[[br]]⟪देवतास्⟫ |
-| **-i**: śruti | **śrutīs**[[br]]⟪श्रुतीस्⟫ |
-| **-ī**: devī | **devīs**[[br]]⟪देवीस्⟫ |
-| **-u**: dhenu | **dhenūs**[[br]]⟪धेनूस्⟫ |
+| **-ā**: devatā | **devatās**:br⟪देवतास्⟫ |
+| **-i**: śruti | **śrutīs**:br⟪श्रुतीस्⟫ |
+| **-ī**: devī | **devīs**:br⟪देवीस्⟫ |
+| **-u**: dhenu | **dhenūs**:br⟪धेनूस्⟫ |
 :::
 
 ---
@@ -101,14 +101,14 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 ::: grammar-box
 | | | Maskulinum | Femininum | Neutrum |
 | :--- | :--- | :--- | :--- | :--- |
-| **kim**[[br]]wer/was | sg. | **kam**[[br]]⟪कम्⟫ | **kām**[[br]]⟪काम्⟫ | **kim**[[br]]⟪किम्⟫ |
-| | pl. | **kān**[[br]]⟪कान्⟫ | **kās**[[br]]⟪कास्⟫ | **kāni**[[br]]⟪कानि⟫ |
-| **tad**[[br]]er/es/jenes | sg. | **tam**[[br]]⟪तम्⟫ | **tām**[[br]]⟪ताम्⟫ | **tad**[[br]]⟪तद्⟫ |
-| | pl. | **tān**[[br]]⟪तान्⟫ | **tās**[[br]]⟪तास्⟫ | **tāni**[[br]]⟪तानि⟫ |
-| **etad**[[br]]dieses hier | sg. | **etam / enam**[[br]]⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām**[[br]]⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad**[[br]]⟪एतद्⟫ / ⟪एनद्⟫ |
-| | pl. | **etān / enān**[[br]]⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās**[[br]]⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni**[[br]]⟪एतानि⟫ / ⟪एनानि⟫ |
-| **idam**[[br]]dieses | sg. | **imam / enam**[[br]]⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām**[[br]]⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad**[[br]]⟪इदम्⟫ / ⟪एनद्⟫ |
-| | pl. | **imān / enān**[[br]]⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās**[[br]]⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni**[[br]]⟪इमानि⟫ / ⟪एनानि⟫ |
+| **kim**:brwer/was | sg. | **kam**:br⟪कम्⟫ | **kām**:br⟪काम्⟫ | **kim**:br⟪किम्⟫ |
+| | pl. | **kān**:br⟪कान्⟫ | **kās**:br⟪कास्⟫ | **kāni**:br⟪कानि⟫ |
+| **tad**:brer/es/jenes | sg. | **tam**:br⟪तम्⟫ | **tām**:br⟪ताम्⟫ | **tad**:br⟪तद्⟫ |
+| | pl. | **tān**:br⟪तान्⟫ | **tās**:br⟪तास्⟫ | **tāni**:br⟪तानि⟫ |
+| **etad**:brdieses hier | sg. | **etam / enam**:br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām**:br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad**:br⟪एतद्⟫ / ⟪एनद्⟫ |
+| | pl. | **etān / enān**:br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās**:br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni**:br⟪एतानि⟫ / ⟪एनानि⟫ |
+| **idam**:brdieses | sg. | **imam / enam**:br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām**:br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad**:br⟪इदम्⟫ / ⟪एनद्⟫ |
+| | pl. | **imān / enān**:br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās**:br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni**:br⟪इमानि⟫ / ⟪एनानि⟫ |
 :::
 
 Die Formen **enam** (⟪एनम्⟫) usw. gehören zum Stamm **enad** (⟪एनद्⟫), der nur in einigen Kasus Formen bildet. Diese werden statt der Formen von **etad** und **idam** dann verwendet, wenn das damit Bezeichnete im Vorhergehenden bereits erwähnt wurde.
@@ -213,12 +213,12 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 
 **Beispiele:**
 
-| Wurzel[[br]]⟪धातु⟫ | Starker Stamm | Schwacher Stamm | Vor Vokal[[br]](schwach) |
+| Wurzel:br⟪धातु⟫ | Starker Stamm | Schwacher Stamm | Vor Vokal:br(schwach) |
 | :--- | :--- | :--- | :--- |
-| **āp**[[br]]5 P[[br]]⟪आप्⟫[[br]]"erreichen" | **āp-no**[[br]](3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv**[[br]](3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
-| **aś**[[br]]5 Ā[[br]]⟪अश्⟫[[br]]"erreichen" | — | **aś-nu**[[br]](3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv**[[br]](3.pl. aśnuvate = ⟪अश्नुवते⟫) |
-| **su**[[br]]5 U[[br]]⟪सु⟫[[br]]"auspressen" | **su-no**[[br]](3.sg. sunoti = ⟪सुनोति⟫) | **su-nu**[[br]](3.sg. sunute = ⟪सुनुते⟫) | **su-nv**[[br]](3.pl. sunvanti = ⟪सुन्वन्ति⟫,[[br]]3.pl. sunvate = ⟪सुन्वते⟫) |
-| **śru**[[br]]5 P[[br]]⟪श्रु⟫[[br]]"hören" | **śṛ-ṇo**[[br]](3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv**[[br]](3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
+| **āp**:br5 P:br⟪आप्⟫:br"erreichen" | **āp-no**:br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv**:br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
+| **aś**:br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu**:br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv**:br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
+| **su**:br5 U:br⟪सु⟫:br"auspressen" | **su-no**:br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu**:br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv**:br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
+| **śru**:br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo**:br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv**:br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
 ---
 

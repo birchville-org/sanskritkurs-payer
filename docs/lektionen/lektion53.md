@@ -49,7 +49,7 @@ Abb.: ⟪हस्तौ⟫
 ## 53.2. Dualendungen des Nomen
 
 ::: grammar-box
-|   | Maskulininum/Femininum [[br]] ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum [[br]] ⟪नपुंसक⟫
+|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām ||
@@ -67,7 +67,7 @@ Abb.: ⟪हस्तौ⟫
 ⟪सत्यवाच्⟫ 3 "die Wahrheit sprechend"
 
 ::: grammar-box
-|   | Maskulininum/Femininum [[br]] ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum [[br]] ⟪नपुंसक⟫
+|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
@@ -77,7 +77,7 @@ Abb.: ⟪हस्तौ⟫
 ⟪बलिन⟫ 3 "(besonders) stark"
 
 ::: grammar-box
-|   | Maskulininum [[br]] ⟪पुंस्⟫ | Neutrum [[br]] ⟪नपुंसक⟫
+|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ ||
@@ -87,7 +87,7 @@ Abb.: ⟪हस्तौ⟫
 ⟪सुमनस्⟫ 3 "wohlgesinnt"
 
 ::: grammar-box
-|   | Maskulininum/Femininum [[br]] ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum [[br]] ⟪नपुंसक⟫
+|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ ||
@@ -97,7 +97,7 @@ Abb.: ⟪हस्तौ⟫
 ⟪हविस्⟫ n. "Opfergabe"
 
 ::: grammar-box
-|   | Neutrum [[br]] ⟪नपुंसक⟫ |
+|   | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ |
@@ -107,7 +107,7 @@ Abb.: ⟪हस्तौ⟫
 ⟪दीर्घायुस्⟫ 3 "langlebig"
 
 ::: grammar-box
-|   | Maskulininum/Femininum [[br]] ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum [[br]] ⟪नपुंसक⟫
+|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
@@ -121,7 +121,7 @@ Abb.: ⟪हस्तौ⟫
 ⟪भरन्त्⟫ 3 "tragend"
 
 ::: grammar-box
-|   | Maskulininum [[br]] ⟪पुंस्⟫ | Neutrum [[br]] ⟪नपुंसक⟫
+|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***⟪भरन्ती⟫ (!)***
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
@@ -137,7 +137,7 @@ Abb.: ⟪भरन्तौ⟫
 ⟪ददत्⟫ 3 "gebend"
 
 ::: grammar-box
-|   | Maskulininum [[br]] ⟪पुंस्⟫ | Neutrum [[br]] ⟪नपुंसक⟫
+|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
@@ -149,7 +149,7 @@ Abb.: ⟪भरन्तौ⟫
 ⟪पशुमन्त्⟫ 3 "Vieh besitzend"
 
 ::: grammar-box
-|   | Maskulininum [[br]] ⟪पुंस्⟫ | Neutrum [[br]] ⟪नपुंसक⟫
+|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ ||
@@ -159,7 +159,7 @@ Abb.: ⟪भरन्तौ⟫
 ⟪महान्त्⟫ 3 "groß"
 
 ::: grammar-box
-|   | Maskulininum [[br]] ⟪पुंस्⟫ | Neutrum [[br]] ⟪नपुंसक⟫
+|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ ||
@@ -169,7 +169,7 @@ Abb.: ⟪भरन्तौ⟫
 ⟪आत्मन्⟫ m.
 
 ::: grammar-box
-|   | Maskulininum [[br]] ⟪पुंस्⟫ |
+|   | Maskulininum :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ |
@@ -179,7 +179,7 @@ Abb.: ⟪भरन्तौ⟫
 ⟪ब्रह्मन्⟫ n.
 
 ::: grammar-box
-|   | Neutrum [[br]] ⟪नपुंसक⟫ |
+|   | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ |
@@ -189,7 +189,7 @@ Abb.: ⟪भरन्तौ⟫
 ⟪राजन्⟫ m. "König"
 
 ::: grammar-box
-|   | Maskulininum [[br]] ⟪पुंस्⟫ |
+|   | Maskulininum :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ |
@@ -199,7 +199,7 @@ Abb.: ⟪भरन्तौ⟫
 ⟪सीमन्⟫ f. "Grenze"
 
 ::: grammar-box
-|   | Femininum [[br]] ⟪स्त्री⟫ |
+|   | Femininum :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ |
@@ -209,9 +209,9 @@ Abb.: ⟪भरन्तौ⟫
 ⟪नामन्⟫ n. "Name"
 
 ::: grammar-box
-|   | Neutrum [[br]] ⟪नपुंसक⟫ |
+|   | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ [[br]] ***⟪नामानी⟫*** |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br ***⟪नामानी⟫*** |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
@@ -224,7 +224,7 @@ Abb.: ⟪भरन्तौ⟫
 ⟪फल⟫ n. "Frucht"
 
 ::: grammar-box
-|   | Maskulininum [[br]] ⟪पुंस्⟫ | Neutrum [[br]] ⟪नपुंसक⟫ |
+|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ***⟪देवाभ्याम्⟫*** | ***⟪फलाभ्याम्⟫*** |
@@ -244,7 +244,7 @@ Abb.: ⟪फले⟫
 ⟪मति⟫ f. "Gedanke"
 
 ::: grammar-box
-|   | Maskulininum [[br]] ⟪पुंस्⟫ | Femininum [[br]] ⟪स्त्री⟫ | Neutrum [[br]] ⟪नपुंसक⟫ |
+|   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪अग्नी⟫*** | ***⟪मती⟫*** | ⟪वारिणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
@@ -258,7 +258,7 @@ Abb.: ⟪फले⟫
 ⟪मधु⟫ n.
 
 ::: grammar-box
-|   | Maskulininum [[br]] ⟪पुंस्⟫ | Femininum [[br]] ⟪स्त्री⟫ | Neutrum [[br]] ⟪नपुंसक⟫ |
+|   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪शत्रू⟫*** | ***⟪धेनू⟫*** | ⟪मधुनी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
@@ -276,7 +276,7 @@ Abb.: ⟪धेनू⟫
 ⟪कन्या⟫ f. "Mädchen"
 
 ::: grammar-box
-|   | Femininum [[br]] ⟪स्त्री⟫ |
+|   | Femininum :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪कन्ये⟫*** |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
@@ -288,7 +288,7 @@ Abb.: ⟪धेनू⟫
 ⟪देवी⟫ f. "Göttin"
 
 ::: grammar-box
-|   | Femininum [[br]] ⟪स्त्री⟫ |
+|   | Femininum :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
@@ -300,7 +300,7 @@ Abb.: ⟪धेनू⟫
 ⟪दातृ⟫ 3 "Geber"
 
 ::: grammar-box
-|   | Maskulininum/Femininum [[br]] ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum [[br]] ⟪नपुंसक⟫
+|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | ***⟪दातृणी⟫***
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
@@ -310,7 +310,7 @@ Abb.: ⟪धेनू⟫
 ⟪पितृ⟫ m. "Vater"
 
 ::: grammar-box
-|   | Maskulininum [[br]] ⟪पुंस्⟫ |
+|   | Maskulininum :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
@@ -364,17 +364,17 @@ Abb.: ⟪पितापुत्रौ⟫
 | :--- | :---: | :---: | :---: | :---: | :---:
 | **Maskulinum** |   |   |   |   |  
 | **⟪प्रथमा⟫** | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
-| **⟪द्वितीया⟫** | ⟪तौ⟫ | ⟪एतौ⟫ [[br]] ⟪एनौ⟫ | ⟪इमौ⟫ [[br]] ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| **⟪द्वितीया⟫** | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ [[br]] ⟪एनयोस्⟫ | ⟪अनयोस्⟫ [[br]] ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫
 |   |   |   |   |   |  
 | **Neutrum** |   |   |   |   |  
 | **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
-| **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ [[br]] ⟪एने⟫ | ⟪इमे⟫ [[br]] ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+| **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
 |   | Rest wie Maskulinum ||||||||
 | **Femininum** |   |   |   |   |  
 | **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
-| **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ [[br]] ⟪एने⟫ | ⟪इमे⟫ [[br]] ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+| **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
 |   | Rest wie Maskulinum ||||||||
 :::
 
@@ -420,8 +420,8 @@ Beispiele:
 ::: grammar-box
 | Wurzel | Adjektiv | Komparativ | Superlativ |
 | --- | --- | ---
-| ⟪क्षिप्⟫ 6P "werfen" | ⟪क्षिप्र⟫ 3 "schnell" | ***⟪क्षेपीयस्⟫*** 3 "schneller" [[br]] ⟪क्षिप्रतर⟫ 3 | ***⟪क्षेपिष्ठ⟫*** 3 "am schnellsten" [[br]] ⟪क्षिप्रतम⟫ 3 |
-| ⟪स्था⟫ 1P "stehen" | ⟪स्थिर⟫ 3 "beständig, fest" | ***⟪स्थेयस्⟫*** 3 "fester" [[br]] ⟪स्थिरतर⟫ 3 | ***⟪स्थेष्ठ⟫*** 3 "am festesten" [[br]] ⟪स्थिरतम⟫ 3 |
+| ⟪क्षिप्⟫ 6P "werfen" | ⟪क्षिप्र⟫ 3 "schnell" | ***⟪क्षेपीयस्⟫*** 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | ***⟪क्षेपिष्ठ⟫*** 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P "stehen" | ⟪स्थिर⟫ 3 "beständig, fest" | ***⟪स्थेयस्⟫*** 3 "fester" :br ⟪स्थिरतर⟫ 3 | ***⟪स्थेष्ठ⟫*** 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
 :::
 
 **Besondere Regeln für die Anfügung dieser Suffixe:**
@@ -471,10 +471,10 @@ Beispiel:
 | Adjektiv | Komparativ | Superlativ |
 | --- | ---
 | ⟪अल्प⟫ 3 "klein, wenig" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
-| ⟪क्षिप्र⟫ 3 "schnell" [[br]] (zu ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
-| ⟪गुरु⟫ 3 "schwer" [[br]] (zu *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
-| ⟪दीर्घ⟫ 3 "lang" [[br]] (zu *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
-| ⟪दूर⟫ 3 "fern" [[br]] (zu *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
+| ⟪क्षिप्र⟫ 3 "schnell" :br (zu ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
+| ⟪गुरु⟫ 3 "schwer" :br (zu *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
+| ⟪दीर्घ⟫ 3 "lang" :br (zu *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
+| ⟪दूर⟫ 3 "fern" :br (zu *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
 | ⟪धनवन्त्⟫ 3 "reich" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
 | ⟪पाप⟫ 3 "böse" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
 | ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
@@ -482,7 +482,7 @@ Beispiel:
 | ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
 | ⟪महान्त्⟫ 3 "groß" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
 | ⟪युवन्⟫ 3 "jung" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
-| ⟪स्थिर⟫ 3 "fest" [[br]] (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
+| ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
 | ⟪ह्रस्व⟫ 3 "kurz" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
 :::
 
@@ -497,12 +497,12 @@ Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 ::: grammar-box
 | (Adjektiv) | Komparativ | Superlativ |
 | --- | ---
-| (⟪अल्प⟫ 3 "klein, wenig") | ⟪कनीयस्⟫ [[br]] vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪श्रेयस्⟫ [[br]] zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪ज्यायस्⟫ [[br]] auch: "älter" [[br]] zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ [[br]] auch: "am ältesten" |
+| (⟪अल्प⟫ 3 "klein, wenig") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
 | (⟪बहु⟫ 3 "viel") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "alt") | ⟪वर्षीयस्⟫ [[br]] zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "alt") | ⟪ज्यायस्⟫ [[br]] auch: "besser" [[br]] zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ [[br]] auch: "bester" |
+| (⟪वृद्ध⟫ 3 "alt") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "alt") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
 
 ## 53.9. Deklination der Komparative auf -īyas
@@ -557,9 +557,9 @@ Siehe auch:
 
 Die Bestimmung des Metrums ist aus folgenden Gründen wichtig:
 
-1.  **Ästhetisch:** das Versmaß macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmaße u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmaße werden je verschieden rezitiert. [[br]] Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Ästhetisch:** das Versmaß macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmaße u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmaße werden je verschieden rezitiert. :br Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Textkritisch:** Fehler im Versmaß können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmaß hilft, Textverbesserungen vorzunehmen.
-3.  **Chronologisch:** gewisse Versmaße gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann &lt;1854 - 1920&gt;:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: [[br]] **Oldenberg, Hermann &lt;1854 - 1920&gt;:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+3.  **Chronologisch:** gewisse Versmaße gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann &lt;1854 - 1920&gt;:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: :br **Oldenberg, Hermann &lt;1854 - 1920&gt;:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)

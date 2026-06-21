@@ -93,8 +93,8 @@ Beispiele:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| ⟪वच्⟫ | ⟪उवाच⟫[[br]]u-vāc-a | ⟪ऊचुर्⟫[[br]]u + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫[[br]]i-yāj-a | ⟪ईजुर्⟫[[br]]i + ij-ur |
+| ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 ::::
 
@@ -110,7 +110,7 @@ Beispiele:
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫[[br]]a + as-a |
+| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
 
 ::::
 
@@ -124,8 +124,8 @@ Beispiele:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| ⟪इ⟫ | ⟪इयाय⟫[[br]]iy + ai + a | ⟪ईयुर्⟫[[br]]i + iy-ur |
-| ⟪इष्⟫ | ⟪इयेष⟫[[br]]iy-eṣ-a | ⟪ईषुर्⟫[[br]]i + iṣ-ur |
+| ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
 ::::
 
@@ -167,11 +167,11 @@ Beispiele:
 
 | Wurzel | 3. sg. Perf. | 3. pl. Perf. |
 | :--- | :--- | :--- |
-| ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫[[br]]ba-bandh-a | ⟪बबन्धुर्⟫ |
+| ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
-| ⟪आप्⟫ 5P | ⟪आप⟫[[br]]a + āp-a | ⟪आपुर्⟫ |
-| ⟪अस्⟫ 2P "sein"[[br]]⟪अस्⟫ 4 "werfen" | ⟪आस⟫[[br]]a + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫[[br]]unregelmäßige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
+| ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmäßige Reduplikation! | ⟪आनशिरे⟫ |
 
 ::::
 

@@ -66,14 +66,14 @@ Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel 
 
 **Beispiele:**
 
-| Wurzel[[br]]⟪धातु⟫ | + -aka / -ikā (kṛt) | Bedeutung |
+| Wurzel:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
-| **kṛ**[[br]]8 U[[br]]⟪कृ⟫[[br]]"machen" | **kāraka**[[br]](⟪कारक⟫) | "Bewirker, machend" |
-| **śru**[[br]]5 P[[br]]⟪श्रु⟫[[br]]"hören" | **śrāvaka** m.[[br]](⟪श्रावक⟫) | "Hörer, Schüler,[[br]]buddh.: Anhänger des Buddha" |
-| **nī**[[br]]1 U[[br]]⟪नी⟫[[br]]"führen" | **nāyaka** m.[[br]](⟪नायक⟫) /[[br]]**nāyikā** f.[[br]](⟪नायिका⟫) | "Führer, Gebieter, Gatte,[[br]]Liebhaber / Geliebte, Dame" |
-| **yaj**[[br]]1 U[[br]]⟪यज्⟫[[br]]"opfern" | **yājaka** m.[[br]](⟪याजक⟫) | "Opferer, Opferpriester" |
-| **nṛt**[[br]]4 P[[br]]⟪नृत्⟫[[br]]"tanzen" | **nartaka** m.[[br]](⟪नर्तक⟫) /[[br]]**nartakī** f.[[br]](⟪नर्तकी⟫) | "Tänzer / Tänzerin" |
-| **ji**[[br]]1 P[[br]]⟪जि⟫[[br]]"siegen" | **jayaka** 3[[br]](⟪जयक⟫) | "siegreich" |
+| **kṛ**:br8 U:br⟪कृ⟫:br"machen" | **kāraka**:br(⟪कारक⟫) | "Bewirker, machend" |
+| **śru**:br5 P:br⟪श्रु⟫:br"hören" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Hörer, Schüler,:brbuddh.: Anhänger des Buddha" |
+| **nī**:br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br**nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" |
+| **yaj**:br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" |
+| **nṛt**:br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br**nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" |
+| **ji**:br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
 ::: grammar-box
 **Einige dieser Bildungen haben die engere Bedeutung: "das durch die Wurzel ausgedrückte gewohnheitsmäßig oder als Obliegenheit oder gut vollziehend".**
@@ -83,11 +83,11 @@ siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka**
 
 **Beispiele:**
 
-| Wurzel[[br]]⟪धातु⟫ | + -aka (kṛt) | Bedeutung |
+| Wurzel:br⟪धातु⟫ | + -aka (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
-| **kṛṣ**[[br]]6 U[[br]]⟪कृष्⟫[[br]]"pflügen" | **kṛṣaka** m.[[br]](⟪कृषक⟫) | "Ackerbauer"[[br]](tiefstufig!) |
-| **kliś**[[br]]9 P[[br]]⟪क्लिशु⟫[[br]]"quälen" | **kleśaka** m.[[br]](⟪क्लेशक⟫) | "Quäler" |
-| **khād**[[br]]1 P[[br]]⟪खाद्⟫[[br]]"kauen, essen" | **khādaka** m.[[br]](⟪खादक⟫) | "Esser, Fresser" |
+| **kṛṣ**:br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) |
+| **kliś**:br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |
+| **khād**:br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" |
 
 Daneben gibt es noch einige weniger wichtige Verwendungen des Suffixes **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff.
 

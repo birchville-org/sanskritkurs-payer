@@ -69,18 +69,18 @@ In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mi
 
 **Beispiele:**
 
-| Wurzel[[br]]⟪धातु⟫ | + -a (kṛt) | Bedeutung |
+| Wurzel:br⟪धातु⟫ | + -a (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
-| **ji** 1 P[[br]]⟪आप्⟫[[br]]"siegen" | **jaya** m.[[br]]⟪जय⟫ | "das Siegen, der Sieg" |
-| **muh** 4 P[[br]]⟪मुह्⟫[[br]]"verwirrt sein" | **moha** m.[[br]]⟪मोह⟫ | "Verwirrung, Verblendung, Irrtum" |
-| **krudh** 4 P[[br]]⟪क्रुध्⟫[[br]]"zürnen" | **krodha** m.[[br]]⟪क्रोध⟫ | "Zorn" |
-| **kup** 4 P[[br]]⟪कुप्⟫[[br]]"zürnen" | **kopa** m.[[br]]⟪कोप⟫ | "Zorn" |
-| **lubh** 4 P[[br]]⟪लुभ्⟫[[br]]"begehren" | **lobha** m.[[br]]⟪लोभ⟫ | "Begierde" |
-| **labh** 1 Ā[[br]]⟪लभ्⟫[[br]]"bekommen" | **lābha** m.[[br]]⟪लाभ⟫ | "das Bekommen, Gewinn" |
-| **sṛj** 6 P[[br]]⟪सृज्⟫[[br]]"loslassen,[[br]]emanieren lassen" | **sarga** m.[[br]]⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
-| **śru** 5 P[[br]]⟪श्रु⟫[[br]]"hören" | **śrava** m.[[br]]⟪श्रव⟫ | "das Hören" |
-| **bhū** 1 P[[br]]⟪भू⟫[[br]]"werden, sein" | **bhāva** m.[[br]]⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
-| **yudh** 4 Ā[[br]]⟪युध्⟫[[br]]"kämpfen" | **yodha** m.[[br]]⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
+| **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "das Siegen, der Sieg" |
+| **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "Verwirrung, Verblendung, Irrtum" |
+| **krudh** 4 P:br⟪क्रुध्⟫:br"zürnen" | **krodha** m.:br⟪क्रोध⟫ | "Zorn" |
+| **kup** 4 P:br⟪कुप्⟫:br"zürnen" | **kopa** m.:br⟪कोप⟫ | "Zorn" |
+| **lubh** 4 P:br⟪लुभ्⟫:br"begehren" | **lobha** m.:br⟪लोभ⟫ | "Begierde" |
+| **labh** 1 Ā:br⟪लभ्⟫:br"bekommen" | **lābha** m.:br⟪लाभ⟫ | "das Bekommen, Gewinn" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" |
+| **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
 
 ---
 
@@ -92,14 +92,14 @@ In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mi
 
 **Beispiele:**
 
-| Wurzel[[br]]⟪धातु⟫ | + -ana (kṛt) | Bedeutung |
+| Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
-| **gam** 1 P[[br]]⟪गम्⟫[[br]]"gehen" | **gamana** n.[[br]]⟪गमन⟫ | "das Gehen" |
-| **nī** 1 U[[br]]⟪नी⟫[[br]]"führen" | **nayana** n.[[br]]⟪नयन⟫ | "(das Werkzeug des Führens, d.h.) Auge" |
-| **śru** 5 P[[br]]⟪श्रु⟫[[br]]"hören" | **śravaṇa** n.[[br]]⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" |
-| **kṛ** 8 U[[br]]⟪कृ⟫[[br]]"tun" | **kāraṇa** n.[[br]]⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
-| **bhū** 1 P[[br]]⟪भू⟫[[br]]"werden" | **bhavana** n.[[br]]⟪भवन⟫ | "das Werden, Entstehen" |
-| **dṛś** 4 P[[br]]⟪दृश्⟫[[br]]"sehen" | **darśana** n.[[br]]⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
+| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "das Gehen" |
+| **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(das Werkzeug des Führens, d.h.) Auge" |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" |
+| **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
+| **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
@@ -124,12 +124,12 @@ Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine
 
 **Beispiele:**
 
-| Wurzel[[br]]⟪धातु⟫ | + -tra (kṛt) | Bedeutung |
+| Wurzel:br⟪धातु⟫ | + -tra (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
-| **nī** 1 U[[br]]⟪नी⟫[[br]]"führen" | **netra** n.[[br]]⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
-| **śru** 5 P[[br]]⟪श्रु⟫[[br]]"hören" | **śrotra**[[br]]⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
-| **man** 4 Ā[[br]]⟪मन्⟫[[br]]"denken" | **mantra** **m. (!)**[[br]]⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
-| **tan** 8 U[[br]]⟪तन्⟫[[br]]"aufspannen" | **tantra** n.[[br]]⟪तन्त्र⟫ | "Webkette" |
+| **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra**:br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)**:br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
 
 ::: media
 **Das Ur-Mantra Oṃ (⟪ॐ⟫) in verschiedenen indischen Schriften**
@@ -154,15 +154,15 @@ Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine
 
 **Beispiele:**
 
-| Wurzel[[br]]⟪धातु⟫ | + -ti (kṛt) | Bedeutung |
+| Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
-| **śru** 5 P[[br]]⟪श्रु⟫[[br]]"hören" | **śruti** f.[[br]]⟪श्रुति⟫ | "das Hören, der Veda" |
-| **smṛ** 1 P[[br]]⟪स्मृ⟫[[br]]"vergegenwärtigen" | **smṛti** f.[[br]]⟪स्मृति⟫ | "Das Vergegenwärtigen, Erinnerung, Überlieferung, Achtsamkeit" |
-| **nī** 1 U[[br]]⟪नी⟫[[br]]"führen" | **nīti** f.[[br]]⟪नीति⟫ | "das Führen, Führung, Betragen" |
-| **sṛj** 6 P[[br]]⟪सृज्⟫[[br]]"emanieren lassen" | **sṛṣṭi** f.[[br]]⟪सृष्टि⟫ | "Emanation, Schöpfung" |
-| **dṛś** 4 P[[br]]⟪दृश्⟫[[br]]"sehen" | **dṛṣṭi** f.[[br]]⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
-| **gam** 1 P[[br]]⟪गम्⟫[[br]]"gehen" | **gati** f.[[br]]⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā[[br]]⟪मन्⟫[[br]]"denken" | **mati** f.[[br]]⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "das Hören, der Veda" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "Das Vergegenwärtigen, Erinnerung, Überlieferung, Achtsamkeit" |
+| **nī** 1 U:br⟪नी⟫:br"führen" | **nīti** f.:br⟪नीति⟫ | "das Führen, Führung, Betragen" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
+| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
 
 *Anmerkung: \* vor einer Form bedeutet, dass diese Form im Sanskrit nicht vorkommt, sondern theoretisch erschlossen ist als Voraussetzung für eine bestimmte Bildung. Die Tiefstufe von **gam** ist gṃ = \*gm, das m wird als sogenannte nasalis sonans durch **a** ersetzt » **ga**. Analoges gilt für **man** » **ma**.
 
@@ -176,11 +176,11 @@ Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine
 
 **Beispiele:**
 
-| Nominalstamm[[br]]⟪नामप्रातिपदिक⟫ | + -tva n.[[br]](taddhita) | + -tā f.[[br]](taddhita) | Bedeutung |
+| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Bedeutung |
 | :--- | :--- | :--- | :--- |
-| **guru**[[br]]⟪गुरु⟫[[br]]3 "schwer, würdig,[[br]]m. Meister" | **gurutva** n.[[br]]⟪गुरुत्व⟫ | **gurutā** f.[[br]]⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,[[br]]Das Lehrersein (Wesen oder Natur eines Lehrers)" |
-| **brāhmaṇa**[[br]]⟪ब्राह्मण⟫[[br]]m. "Brahmane" | **brāhmaṇatva** n.[[br]]⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.[[br]]⟪ब्राह्मणता⟫ | "das Brahmane-sein,[[br]]was einen Brahmanen zum Brahmanen macht,[[br]]Wesen / Natur eines Brahmanen" |
-| **deva**[[br]]⟪देव⟫[[br]]m. "Himmlischer, Gott" | — | **devatā** f.[[br]]⟪देवता⟫ | "Gottheit" |
+| **guru**:br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" |
+| **brāhmaṇa**:br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
+| **deva**:br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
 
 Diese Bildungen können praktisch zu jedem Nomen gebildet werden und sind in wissenschaftlichen Sanskritwerken sehr häufig.
 
@@ -194,10 +194,10 @@ Diese Bildungen können praktisch zu jedem Nomen gebildet werden und sind in wis
 - **Schwacher Stamm: Wurzel + -u- (vor Vokal: -v-)**
 
 Beispiel **tan** 8 U (⟪तन्⟫) "dehnen":
-- 3\. sg. P. **tanoti**[[br]]⟪तनोति⟫
-- 3\. pl. P. **tanvanti**[[br]]⟪तन्वन्ति⟫
-- 3\. sg. Ā. **tanute**[[br]]⟪तनुते⟫
-- 3\. pl. Ā. **tanvate**[[br]]⟪तन्वते⟫
+- 3\. sg. P. **tanoti**:br⟪तनोति⟫
+- 3\. pl. P. **tanvanti**:br⟪तन्वन्ति⟫
+- 3\. sg. Ā. **tanute**:br⟪तनुते⟫
+- 3\. pl. Ā. **tanvate**:br⟪तन्वते⟫
 :::
 
 Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
@@ -206,10 +206,10 @@ Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (⟪कृ⟫) "tun, machen
 
 ::: grammar-box
 **kṛ 8 U (⟪कृ⟫) "machen, tun"**
-- 3\. sg. P. **karoti**[[br]]⟪करोति⟫
-- 3\. pl. P. **kurvanti**[[br]]⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute**[[br]]⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate**[[br]]⟪कुर्वते⟫
+- 3\. sg. P. **karoti**:br⟪करोति⟫
+- 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
+- 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
+- 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
 :::
 
 ---

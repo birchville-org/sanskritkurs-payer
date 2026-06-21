@@ -30,13 +30,13 @@ Frage-, Relativ- und Demonstrativpronomina:
 
 :::: grammar-box
 
-| | Ablativ Singular[[br]]Maskulinum / Neutrum | Ablativ Singular[[br]]Femininum |
+| | Ablativ Singular:brMaskulinum / Neutrum | Ablativ Singular:brFemininum |
 | :--- | :--- | :--- |
-| **⟪किम्⟫** | **kasmāt**[[br]](⟪कस्मात्⟫) | **kasyāḥ**[[br]](⟪कस्याः⟫) |
-| **⟪यद्⟫** | **yasmāt**[[br]](⟪यस्मात्⟫) | **yasyāḥ**[[br]](⟪यस्याः⟫) |
-| **⟪तद्⟫** | **tasmāt**[[br]](⟪तस्मात्⟫) | **tasyāḥ**[[br]](⟪तस्याः⟫) |
-| **⟪एतद्⟫** | **etasmāt**[[br]](⟪एतस्मात्⟫) | **etasyāḥ**[[br]](⟪एतस्याः⟫) |
-| **⟪इदम्⟫** | **asmāt**[[br]](⟪अस्मात्⟫) | **asyāḥ**[[br]](⟪अस्याः⟫) |
+| **⟪किम्⟫** | **kasmāt**:br(⟪कस्मात्⟫) | **kasyāḥ**:br(⟪कस्याः⟫) |
+| **⟪यद्⟫** | **yasmāt**:br(⟪यस्मात्⟫) | **yasyāḥ**:br(⟪यस्याः⟫) |
+| **⟪तद्⟫** | **tasmāt**:br(⟪तस्मात्⟫) | **tasyāḥ**:br(⟪तस्याः⟫) |
+| **⟪एतद्⟫** | **etasmāt**:br(⟪एतस्मात्⟫) | **etasyāḥ**:br(⟪एतस्याः⟫) |
+| **⟪इदम्⟫** | **asmāt**:br(⟪अस्मात्⟫) | **asyāḥ**:br(⟪अस्याः⟫) |
 
 ::::
 

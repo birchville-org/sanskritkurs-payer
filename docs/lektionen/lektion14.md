@@ -61,8 +61,8 @@ Nach Konsonant sind die regelmäßigen Genetivendungen:
 
 | Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
 | :--- | :--- | :--- | :--- |
-| **guṇa-vant-**[[br]]**⟪गुणवन्त्⟫** | **guṇa-vat-**[[br]]**⟪गुणवत्⟫** | **guṇa-vat-as**[[br]]**⟪गुणवतस्⟫** | **guṇa-vat-ām**[[br]]**⟪गुणवताम्⟫** |
-| **paśu-mant-**[[br]]**⟪पशुमन्त्⟫** | **paśu-mat-**[[br]]**⟪पशुमत्⟫** | **paśu-mat-as**[[br]]**⟪पशुमतस्⟫** | **paśu-mat-ām**[[br]]**⟪पशुमताम्⟫** |
+| **guṇa-vant-**:br**⟪गुणवन्त्⟫** | **guṇa-vat-**:br**⟪गुणवत्⟫** | **guṇa-vat-as**:br**⟪गुणवतस्⟫** | **guṇa-vat-ām**:br**⟪गुणवताम्⟫** |
+| **paśu-mant-**:br**⟪पशुमन्त्⟫** | **paśu-mat-**:br**⟪पशुमत्⟫** | **paśu-mat-as**:br**⟪पशुमतस्⟫** | **paśu-mat-ām**:br**⟪पशुमताम्⟫** |
 
 :::
 
@@ -82,14 +82,14 @@ Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
 
 | Nominalstamm | Genetiv Plural |
 | :--- | :--- |
-| **deva** m.[[br]]**⟪देव⟫** | **devā-nām**[[br]]**⟪देवानाम्⟫** |
-| **phala** n.[[br]]**⟪फल⟫** | **phalā-nām**[[br]]**⟪फलानाम्⟫** |
-| **devatā** f.[[br]]**⟪देवता⟫** | **devatā-nām**[[br]]**⟪देवतानाम्⟫** |
-| **kavi** m.[[br]]**⟪कवि⟫** | **kavī-nām**[[br]]**⟪कवीनाम्⟫** |
-| **śruti** f.[[br]]**⟪श्रुति⟫** | **śrutī-nām**[[br]]**⟪श्रुतीनाम्⟫** |
-| **devī** f.[[br]]**⟪देवी⟫** | **devī-nām**[[br]]**⟪देवीनाम्⟫** |
-| **paśu** m.[[br]]**⟪पशु⟫** | **paśū-nām**[[br]]**⟪पशूनाम्⟫** |
-| **dhenu** f.[[br]]**⟪धेनु⟫** | **dhenū-nām**[[br]]**⟪धेनूनाम्⟫** |
+| **deva** m.:br**⟪देव⟫** | **devā-nām**:br**⟪देवानाम्⟫** |
+| **phala** n.:br**⟪फल⟫** | **phalā-nām**:br**⟪फलानाम्⟫** |
+| **devatā** f.:br**⟪देवता⟫** | **devatā-nām**:br**⟪देवतानाम्⟫** |
+| **kavi** m.:br**⟪कवि⟫** | **kavī-nām**:br**⟪कवीनाम्⟫** |
+| **śruti** f.:br**⟪श्रुति⟫** | **śrutī-nām**:br**⟪श्रुतीनाम्⟫** |
+| **devī** f.:br**⟪देवी⟫** | **devī-nām**:br**⟪देवीनाम्⟫** |
+| **paśu** m.:br**⟪पशु⟫** | **paśū-nām**:br**⟪पशूनाम्⟫** |
+| **dhenu** f.:br**⟪धेनु⟫** | **dhenū-nām**:br**⟪धेनूनाम्⟫** |
 
 :::
 
@@ -105,14 +105,14 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet
 
 | Stamm | Genetiv Singular |
 | :--- | :--- |
-| **deva** m.[[br]]**⟪देव⟫** | **devasya**[[br]]**⟪देवस्य⟫** |
-| **phala** n.[[br]]**⟪फल⟫** | **phalasya**[[br]]**⟪फलस्य⟫** |
-| **devatā** f.[[br]]**⟪देवता⟫** | **devatāyās**[[br]]**⟪देवतायास्⟫** |
-| **kavi** m.[[br]]**⟪कवि⟫** | **kaves**[[br]]**⟪कवेस्⟫** |
-| **paśu** m.[[br]]**⟪पशु⟫** | **paśos**[[br]]**⟪पशोस्⟫** |
-| **devī** f.[[br]]**⟪देवी⟫** | **devyās**[[br]]**⟪देव्यास्⟫** |
-| **śruti** f.[[br]]**⟪श्रुति⟫** | **śrutes / śrutyās**[[br]]**⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫**[[br]](d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.[[br]]**⟪धेनु⟫** | **dhenos / dhenvās**[[br]]**⟪धेनोस्⟫ / ⟪धेन्वास्⟫**[[br]](d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **deva** m.:br**⟪देव⟫** | **devasya**:br**⟪देवस्य⟫** |
+| **phala** n.:br**⟪फल⟫** | **phalasya**:br**⟪फलस्य⟫** |
+| **devatā** f.:br**⟪देवता⟫** | **devatāyās**:br**⟪देवतायास्⟫** |
+| **kavi** m.:br**⟪कवि⟫** | **kaves**:br**⟪कवेस्⟫** |
+| **paśu** m.:br**⟪पशु⟫** | **paśos**:br**⟪पशोस्⟫** |
+| **devī** f.:br**⟪देवी⟫** | **devyās**:br**⟪देव्यास्⟫** |
+| **śruti** f.:br**⟪श्रुति⟫** | **śrutes / śrutyās**:br**⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫**:br(d.h. entweder wir kavi oder wie devī) |
+| **dhenu** f.:br**⟪धेनु⟫** | **dhenos / dhenvās**:br**⟪धेनोस्⟫ / ⟪धेन्वास्⟫**:br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
 
@@ -126,10 +126,10 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya[[br]]**⟪कस्य⟫** | tasya[[br]]**⟪तस्य⟫** | etasya[[br]]**⟪एतस्य⟫** | asya[[br]]**⟪अस्य⟫** |
-| | **Genetiv Plural** | keṣām[[br]]**⟪केषाम्⟫** | teṣām[[br]]**⟪तेषाम्⟫** | eteṣām[[br]]**⟪एतेषाम्⟫** | eṣām[[br]]**⟪एषाम्⟫** |
-| **Femininum** | **Genetiv Singular** | kasyās[[br]]**⟪कस्यास्⟫** | tasyās[[br]]**⟪तस्यास्⟫** | etasyās[[br]]**⟪एतस्यास्⟫** | asyās[[br]]**⟪अस्यास्⟫** |
-| | **Genetiv Plural** | kāsām[[br]]**⟪कासाम्⟫** | tāsām[[br]]**⟪तासाम्⟫** | etāsām[[br]]**⟪एतासाम्⟫** | āsām[[br]]**⟪आसाम्⟫** |
+| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya:br**⟪कस्य⟫** | tasya:br**⟪तस्य⟫** | etasya:br**⟪एतस्य⟫** | asya:br**⟪अस्य⟫** |
+| | **Genetiv Plural** | keṣām:br**⟪केषाम्⟫** | teṣām:br**⟪तेषाम्⟫** | eteṣām:br**⟪एतेषाम्⟫** | eṣām:br**⟪एषाम्⟫** |
+| **Femininum** | **Genetiv Singular** | kasyās:br**⟪कस्यास्⟫** | tasyās:br**⟪तस्यास्⟫** | etasyās:br**⟪एतस्यास्⟫** | asyās:br**⟪अस्यास्⟫** |
+| | **Genetiv Plural** | kāsām:br**⟪कासाम्⟫** | tāsām:br**⟪तासाम्⟫** | etāsām:br**⟪एतासाम्⟫** | āsām:br**⟪आसाम्⟫** |
 
 :::
 

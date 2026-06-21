@@ -164,12 +164,12 @@ entsprechende Pronominaladverbien ableiten.
 
 | Suffix | Pronominalstamm | | | |
 | :--- | :--- | :--- | :--- | :--- |
-| | **⟪तद्⟫** | **⟪इदम्⟫**[[br]]**⟪अ⟫-** | **⟪यद्⟫** | **⟪किम्⟫**[[br]]**⟪कु⟫-** |
-| **-⟪तस्⟫**[[br]](Ablativ) | **⟪ततस्⟫**[[br]]von da, darauf, deshalb | **⟪इतस्⟫**[[br]]**⟪अतस्⟫**[[br]]von hier, dieserhalb | **⟪यतस्⟫**[[br]]woher, wovon | **⟪कुतस्⟫**[[br]]woher?, weshalb? |
-| **-⟪त्र⟫**[[br]](Lokativ) | **⟪तत्र⟫**[[br]]da, dort | **⟪अत्र⟫**[[br]]hier | **⟪यत्र⟫**[[br]]wo | **⟪कुत्र⟫**[[br]]wo? |
-| **-⟪था⟫**[[br]](Art und Weise) | **⟪तथा⟫**[[br]]so | | **⟪यथा⟫**[[br]]wie | |
-| **-⟪थम्⟫**[[br]](Art und Weise) | | | | **⟪कथम्⟫**[[br]]wie? |
-| **-⟪दा⟫**[[br]](Zeit) | **⟪तदा⟫**[[br]]damals, dann | | **⟪यदा⟫**[[br]]als | **⟪कदा⟫**[[br]]wann? |
+| | **⟪तद्⟫** | **⟪इदम्⟫**:br**⟪अ⟫-** | **⟪यद्⟫** | **⟪किम्⟫**:br**⟪कु⟫-** |
+| **-⟪तस्⟫**:br(Ablativ) | **⟪ततस्⟫**:brvon da, darauf, deshalb | **⟪इतस्⟫**:br**⟪अतस्⟫**:brvon hier, dieserhalb | **⟪यतस्⟫**:brwoher, wovon | **⟪कुतस्⟫**:brwoher?, weshalb? |
+| **-⟪त्र⟫**:br(Lokativ) | **⟪तत्र⟫**:brda, dort | **⟪अत्र⟫**:brhier | **⟪यत्र⟫**:brwo | **⟪कुत्र⟫**:brwo? |
+| **-⟪था⟫**:br(Art und Weise) | **⟪तथा⟫**:brso | | **⟪यथा⟫**:brwie | |
+| **-⟪थम्⟫**:br(Art und Weise) | | | | **⟪कथम्⟫**:brwie? |
+| **-⟪दा⟫**:br(Zeit) | **⟪तदा⟫**:brdamals, dann | | **⟪यदा⟫**:brals | **⟪कदा⟫**:brwann? |
 
 ::::
 
@@ -188,9 +188,9 @@ Abb.: ⟪क्व⟫
 
 | Suffix | |
 | :--- | :--- |
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie"[[br]]z.B. **⟪पुत्रवत्⟫** "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?"[[br]]z.B. **⟪आदितस्⟫** "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig"[[br]]z.B. **⟪द्विधा⟫** "zweifach"[[br]]2. in der Bedeutung "in der und der Weise"[[br]]z.B. **⟪समधा⟫** "in gleicher Weise" (zu **⟪सम⟫** 3 "gleich") |
+| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. **⟪पुत्रवत्⟫** "wie ein(en) Sohn" |
+| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. **⟪आदितस्⟫** "von Anfang an" |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. **⟪द्विधा⟫** "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. **⟪समधा⟫** "in gleicher Weise" (zu **⟪सम⟫** 3 "gleich") |
 
 ::::
 

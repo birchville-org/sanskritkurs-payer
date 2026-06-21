@@ -201,11 +201,11 @@ Beispiele:
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
-| ⟪भू⟫ | ⟪भावयति⟫[[br]](aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
-| ⟪इ⟫ | ⟪आययति⟫[[br]](aus: ai-aya-ti) | bewirken, dass jemand geht |
-| ⟪नी⟫ | ⟪नाययति⟫[[br]](aus: nai-aya-ti) | führen lassen |
-| ⟪कृ⟫ | ⟪कारयति⟫[[br]](kār-aya-ti) | machen lassen |
-| ⟪वच्⟫ | ⟪वाचयति⟫[[br]](vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
+| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
+| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht |
+| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen |
+| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
 
 ::: grammar-box
 **Bildungstyp 3: tiefstufige Wurzel + -aya-**
@@ -217,7 +217,7 @@ Beispiel:
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
-| ⟪दुष्⟫ | ⟪दूषयति⟫[[br]](dūṣ-aya-ti) | (jemanden) verderben |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben |
 
 ::: grammar-box
 **Bildungstyp 4: Wurzel + -paya-**
@@ -229,8 +229,8 @@ Beispiele:
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫[[br]](sthā-paya-ti) | stehen machen, aufstellen |
-| ⟪इ⟫ + ⟪अधि⟫[[br]]"studieren" | ⟪अध्यापयति⟫[[br]](aus: adhi+ā-paya-ti)[[br]](zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
+| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
 
 ::: grammar-box
 **Unregelmäßige Bildungen:**

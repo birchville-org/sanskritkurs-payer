@@ -158,7 +158,7 @@ Beispiel:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti)[[br]]oder: ⟪स्तवीति⟫ |
+| 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
 | 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
 | 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
 | 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
@@ -295,7 +295,7 @@ Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen 
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti)[[br]]oder: ⟪स्तौति⟫ |
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
 

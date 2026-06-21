@@ -71,11 +71,11 @@ Beispiele:
 | Wurzel / Klasse | Partizip Präsens Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | &lt;⟪जुह्वान⟫&gt;[[br]]ju-hu + āna |
-| **⟪सु⟫** 5U | ⟪सुन्वान⟫[[br]]su-nu + āna |
-| **⟪रुध्⟫** 7U | ⟪रुन्धान⟫[[br]]ru-n-dh-āna |
-| **⟪तन्⟫** 8U | ⟪तन्वान⟫[[br]]tan-u + āna |
-| **⟪क्री⟫** 9U | ⟪क्रीणान⟫[[br]]krī + n-āna |
+| **⟪हु⟫** 3P | &lt;⟪जुह्वान⟫&gt;:brju-hu + āna |
+| **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
+| **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
+| **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
+| **⟪क्री⟫** 9U | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
 
 ### 41.2.2. "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
@@ -139,8 +139,8 @@ Beispiele:
 | ⟪जि⟫ 1P | ⟪जयनीय⟫ 3 | "zu besiegender" |
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "zu tuendes" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "was man sehen muss; sehenswertes" |
-| ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3[[br]]bodh-aya - aya + -anīya | "ein zu weckender" |
-| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3[[br]]dā-paya - aya + -anīya | "was man geben lassen muss" |
+| ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "ein zu weckender" |
+| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
 
 :::
 
@@ -269,7 +269,7 @@ Beispiel:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3[[br]]mān-aya - aya + ya | "zu ehrender, hochverehrter" |
+| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" |
 
 :::
 ::: indent

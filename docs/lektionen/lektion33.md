@@ -118,9 +118,9 @@ Beispiele:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫[[br]]juhu + ati | &lt;⟪जुहुते⟫&gt; | &lt;⟪जुह्वते⟫&gt;[[br]]juhu + ate |
-| **Imperfekt** | ⟪अजुहोत्⟫[[br]]a-juho-t | ⟪जुहवुर्⟫[[br]]a-juho + ur | &lt;⟪अजुहुत⟫&gt; | &lt;⟪अजुह्वत⟫&gt;[[br]]a-juhu + ata |
-| **Optativ** | ⟪जुहुयात्⟫[[br]]juhu-yā-t | ⟪जुहुयुर्⟫[[br]]juhu-y-ur | &lt;⟪जुह्वीत⟫&gt;[[br]]juhu + ī-ta | &lt;⟪जुह्वीरन्⟫&gt;[[br]]juhu + ī-ran |
+| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | &lt;⟪जुहुते⟫&gt; | &lt;⟪जुह्वते⟫&gt;:brjuhu + ate |
+| **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | &lt;⟪अजुहुत⟫&gt; | &lt;⟪अजुह्वत⟫&gt;:bra-juhu + ata |
+| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | &lt;⟪जुह्वीत⟫&gt;:brjuhu + ī-ta | &lt;⟪जुह्वीरन्⟫&gt;:brjuhu + ī-ran |
 ::::
 
 ## 33.3. Zum Ablaut von ā
@@ -174,9 +174,9 @@ Beispiele:
 
 | | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪मिमीते⟫[[br]]mimī-te | ⟪मिमते⟫[[br]]mim-ate |
+| **Indikativ Präsens** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
 | **Imperfekt** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
-| **Optativ** | ⟪मिमीत⟫[[br]]mim-ī-ta ! | ⟪मिमीरन्⟫[[br]]mim-ī-ran |
+| **Optativ** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
 ::::
 
 :::: grammar-box
@@ -184,9 +184,9 @@ Beispiele:
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪जहाति⟫ | ⟪जहति⟫[[br]]jah-ati |
+| **Indikativ Präsens** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Optativ** | ⟪जह्यात्⟫[[br]]jah-yā-t[[br]](Die Wurzel **⟪हा⟫** hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫[[br]]jah-y-ur |
+| **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel **⟪हा⟫** hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 ::::
 ### 33.4.1. Die Wurzeln **⟪दा⟫** und **⟪धा⟫**
 
@@ -201,9 +201,9 @@ Beispiele:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪दधाति⟫ | ⟪दधति⟫[[br]]dadh-ati | ⟪धत्ते⟫[[br]]dadh-te[[br]](Erklärung: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫[[br]]dadh-ate |
-| **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫[[br]]a + dadh + ta | ⟪अदधत⟫ |
-| **Optativ** | ⟪दध्यात्⟫[[br]]dadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫[[br]]dadh-ī-ta | ⟪दधीरन्⟫ |
+| **Indikativ Präsens** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Erklärung: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
+| **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
+| **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 ::::
 
 Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **⟪धा⟫** **dh** durch **d** ersetzt. Also:
@@ -229,14 +229,14 @@ Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **⟪ध
 **⟪दा⟫** Partizip Präsens Parasmaipada:
 
 :::: grammar-box
-| | Maskulinum[[br]]⟪पुंल्लिङ्ग⟫ | Neutrum[[br]]⟪नपुंसकलिङ्ग⟫ | Femininum[[br]]⟪स्त्रीलिङ्ग⟫ |
+| | Maskulinum:br⟪पुंल्लिङ्ग⟫ | Neutrum:br⟪नपुंसकलिङ्ग⟫ | Femininum:br⟪स्त्रीलिङ्ग⟫ |
 | :--- | :--- | :--- | :--- |
 | **Singular** | | | |
-| **1. Nominativ** | ⟪ददत्⟫[[br]]dad-at + s | ⟪ददत्⟫[[br]]dad-at-Ø | ⟪ददती⟫ |
-| **2. Akkusativ** | ⟪ददतम्⟫[[br]]dad-at-am | ⟪ददत्⟫ | |
+| **1. Nominativ** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |
+| **2. Akkusativ** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | |
 | **Plural** | | | |
-| **1. Nominativ** | ⟪ददतस्⟫ | ⟪ददति⟫[[br]]dad-at-i[[br]]⟪ददन्ति⟫[[br]]dad-ant-i | |
-| **2. Akkusativ** | ⟪ददतस्⟫ | ⟪ददति⟫[[br]]⟪ददन्ति⟫ | |
+| **1. Nominativ** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
+| **2. Akkusativ** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
 ::::
 
 Ähnlich **⟪जुह्वत्⟫** (juhu-at + s)

@@ -38,7 +38,7 @@ status: stable
 ::: grammar-box
 | **Stämme** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫[[br]]"er, sie, es; der, die, das"[[br]](Erwähnte)** | **etad = ⟪एतद्⟫[[br]]"dieser, diese, dieses"[[br]](dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫[[br]]"dieser, diese, dieses"[[br]](Nahe)** |
+| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
 | **Nominativ singular** ||||
 | **Neutrum** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
 | **Maskulinum** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
@@ -89,12 +89,12 @@ Mittels dieser Pronomina bildet man z.B. folgende Frageformeln:
 ::: no-header
 | | | | |
 | :--- | :--- | :--- | :--- |
-| **Singular** | **Neutrum** | tat kim? /kiṃ tat?[[br]]⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫[[br]]etat kim? /kim etat?[[br]]⟪एतत्किम्⟫, ⟪किमेतत्⟫[[br]]idaṃ kim? / kim idam[[br]]⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Was ist das?" |
-| | **Maskulinum** | sa kaḥ? / kaḥ saḥ?[[br]]⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫[[br]]eṣa kaḥ? / ka eṣaḥ[[br]]⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫[[br]]ayaṃ kaḥ? / ko 'yam?[[br]]⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Wer ist das?"[[br]]"Was ist der?" |
-| | **Femininum** | sā kā? / kā sā?[[br]]⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫[[br]]eṣā kā? / kaiṣā? (= kā + eṣā)[[br]]⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫[[br]]iyaṃ kā? / keyam? (= kā + iyam)[[br]]⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Wer ist das?"[[br]]"Wer ist die?" |
-| **Plural** | **Neutrum** | tāni kāni? / kāni tāni?[[br]]⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫[[br]]etāni kāni? / kāny etāni?[[br]]⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫[[br]]imāni kāni? / kānīmāni? (= kāni + imāni)[[br]]⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
-| | **Maskulinum** | te ke? / ke te?[[br]]⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫[[br]]ete ke? / ka ete?[[br]]⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫[[br]]ime ke? / ka ime?[[br]]⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
-| | **Femininum** | tāḥ kāḥ? / kās tāḥ?[[br]]⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫[[br]]etāḥ kāḥ? / kā etāḥ?[[br]]⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫[[br]]imāḥ kāḥ? / kā imāḥ?[[br]]⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
+| **Singular** | **Neutrum** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Was ist das?" |
+| | **Maskulinum** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Wer ist das?":br"Was ist der?" |
+| | **Femininum** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Wer ist das?":br"Wer ist die?" |
+| **Plural** | **Neutrum** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
+| | **Maskulinum** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
+| | **Femininum** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 :::
 ::::
 

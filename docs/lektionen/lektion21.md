@@ -32,8 +32,8 @@ Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes P
 | | **starker Stamm** | Präsensstamm + **-nt-** |
 | | **schwacher Stamm** | Präsensstamm + **-t-** |
 | **Femininum** | | |
-| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī**[[br]]⟪देवी⟫) |
-| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī**[[br]]oder:[[br]]Präsensstamm + **-t-** + **-ī** |
+| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī**:br⟪देवी⟫) |
+| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī**:broder::brPräsensstamm + **-t-** + **-ī** |
 
 ::::
 
@@ -43,21 +43,21 @@ Beispiele:
 1\. Präsensklasse:
 
 ::: indent
-**yajant**[[br]]⟪यजन्त्⟫ "ein mit einem Opfer verehrender"
+**yajant**:br⟪यजन्त्⟫ "ein mit einem Opfer verehrender"
 :::
 
 :::: grammar-box
 
-| | | Maskulinum[[br]]⟪पुंस्⟫ | Neutrum[[br]]⟪नपुंसक⟫ | Femininum[[br]]⟪स्त्री⟫ |
+| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**[[br]]⟪एकवचन⟫ | **1. Nominativ**[[br]]⟪प्रथमा⟫ | **⟪यजन्⟫**[[br]]aus yaja-nt-s | **⟪यजत्⟫**[[br]]yaja-t-Ø | **⟪यजन्ती⟫**[[br]]yaja-ant-ī |
-| | **2. Akkusativ**[[br]]⟪द्वितीया⟫ | **⟪यजन्तम्⟫**[[br]]yaja-nt-am | **⟪यजत्⟫** | wie **devī**[[br]]⟪देवी⟫ |
-| | **3. Instrumentalis**[[br]]⟪तृतीया⟫ | **⟪यजता⟫**[[br]]yaja-t-ā | **⟪यजता⟫** | |
-| | **6. Genetiv**[[br]]⟪षष्ठी⟫ | **⟪यजतस्⟫**[[br]]yaja-t-as | **⟪यजतस्⟫** | |
-| **Plural**[[br]]⟪बहुवचन⟫ | **1. Nominativ**[[br]]⟪प्रथमा⟫ | **⟪यजन्तस्⟫**[[br]]yaja-nt-as | **⟪यजन्ति⟫**[[br]]yaja-nt-i | |
-| | **2. Akkusativ**[[br]]⟪द्वितीया⟫ | **⟪यजतस्⟫**[[br]]yaja-t-as | **⟪यजन्ति⟫** | |
-| | **3. Instrumentalis**[[br]]⟪तृतीया⟫ | **⟪यजद्भिस्⟫**[[br]]aus yaja-t-bhis | **⟪यजद्भिस्⟫** | |
-| | **6. Genetiv**[[br]]⟪षष्ठी⟫ | **⟪यजताम्⟫**[[br]]yaja-t-ām | **⟪यजताम्⟫** | |
+| **Singular**:br⟪एकवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪यजन्⟫**:braus yaja-nt-s | **⟪यजत्⟫**:bryaja-t-Ø | **⟪यजन्ती⟫**:bryaja-ant-ī |
+| | **2. Akkusativ**:br⟪द्वितीया⟫ | **⟪यजन्तम्⟫**:bryaja-nt-am | **⟪यजत्⟫** | wie **devī**:br⟪देवी⟫ |
+| | **3. Instrumentalis**:br⟪तृतीया⟫ | **⟪यजता⟫**:bryaja-t-ā | **⟪यजता⟫** | |
+| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪यजतस्⟫**:bryaja-t-as | **⟪यजतस्⟫** | |
+| **Plural**:br⟪बहुवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪यजन्तस्⟫**:bryaja-nt-as | **⟪यजन्ति⟫**:bryaja-nt-i | |
+| | **2. Akkusativ**:br⟪द्वितीया⟫ | **⟪यजतस्⟫**:bryaja-t-as | **⟪यजन्ति⟫** | |
+| | **3. Instrumentalis**:br⟪तृतीया⟫ | **⟪यजद्भिस्⟫**:braus yaja-t-bhis | **⟪यजद्भिस्⟫** | |
+| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪यजताम्⟫**:bryaja-t-ām | **⟪यजताम्⟫** | |
 
 ::::
 
@@ -89,9 +89,9 @@ Beachten Sie den Gleichlaut von **⟪यजन्ति⟫** (Nom. pl. Neutrum) 
 | :--- | :--- | :--- |
 | **Maskulinum, Neutrum** | | |
 | | **starker Stamm** | Präsensstamm + **-ant-** |
-| | **schwacher Stamm** | Präsensstamm + **-at-**[[br]](Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P.) |
+| | **schwacher Stamm** | Präsensstamm + **-at-**:br(Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P.) |
 | **Femininum** | | |
-| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī**[[br]]⟪देवी⟫) |
+| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī**:br⟪देवी⟫) |
 
 ::::
 
@@ -104,16 +104,16 @@ Beachten Sie den Gleichlaut von **⟪यजन्ति⟫** (Nom. pl. Neutrum) 
 
 :::: grammar-box
 
-| | | Maskulinum[[br]]⟪पुंस्⟫ | Neutrum[[br]]⟪नपुंसक⟫ | Femininum[[br]]⟪स्त्री⟫ |
+| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**[[br]]⟪एकवचन⟫ | **1. Nominativ**[[br]]⟪प्रथमा⟫ | **⟪सन्⟫**[[br]]aus s-ant-s | **⟪सत्⟫**[[br]]s-at-Ø | **⟪सती⟫**[[br]]s-at-ī |
-| | **2. Akkusativ**[[br]]⟪द्वितीया⟫ | **⟪सन्तम्⟫**[[br]]s-ant-am | **⟪सत्⟫** | wie **devī**[[br]]⟪देवी⟫ |
-| | **3. Instrumentalis**[[br]]⟪तृतीया⟫ | **⟪सता⟫**[[br]]s-at-ā | **⟪सता⟫** | |
-| | **6. Genetiv**[[br]]⟪षष्ठी⟫ | **⟪सतस्⟫**[[br]]s-at-as | **⟪सतस्⟫** | |
-| **Plural**[[br]]⟪बहुवचन⟫ | **1. Nominativ**[[br]]⟪प्रथमा⟫ | **⟪सन्तस्⟫**[[br]]s-ant-as | **⟪सन्ति⟫**[[br]]s-ant-i | |
-| | **2. Akkusativ**[[br]]⟪द्वितीया⟫ | **⟪सतस्⟫**[[br]]s-at-as | **⟪सन्ति⟫** | |
-| | **3. Instrumentalis**[[br]]⟪तृतीया⟫ | **⟪सद्भिस्⟫**[[br]]aus s-at-bhis | **⟪सद्भिस्⟫** | |
-| | **6. Genetiv**[[br]]⟪षष्ठी⟫ | **⟪सताम्⟫**[[br]]s-at-ām | **⟪सताम्⟫** | |
+| **Singular**:br⟪एकवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪सन्⟫**:braus s-ant-s | **⟪सत्⟫**:brs-at-Ø | **⟪सती⟫**:brs-at-ī |
+| | **2. Akkusativ**:br⟪द्वितीया⟫ | **⟪सन्तम्⟫**:brs-ant-am | **⟪सत्⟫** | wie **devī**:br⟪देवी⟫ |
+| | **3. Instrumentalis**:br⟪तृतीया⟫ | **⟪सता⟫**:brs-at-ā | **⟪सता⟫** | |
+| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪सतस्⟫**:brs-at-as | **⟪सतस्⟫** | |
+| **Plural**:br⟪बहुवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪सन्तस्⟫**:brs-ant-as | **⟪सन्ति⟫**:brs-ant-i | |
+| | **2. Akkusativ**:br⟪द्वितीया⟫ | **⟪सतस्⟫**:brs-at-as | **⟪सन्ति⟫** | |
+| | **3. Instrumentalis**:br⟪तृतीया⟫ | **⟪सद्भिस्⟫**:braus s-at-bhis | **⟪सद्भिस्⟫** | |
+| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪सताम्⟫**:brs-at-ām | **⟪सताम्⟫** | |
 
 ::::
 
@@ -161,7 +161,7 @@ Abb.: ⟪सती⟫-Gedenkplatte
 | | **starker Stamm** | **⟪महान्त्⟫** |
 | | **schwacher Stamm** | **⟪महत्⟫** |
 | **Femininum** | | |
-| | | **⟪महती⟫**[[br]]wie **devī**[[br]]⟪देवी⟫ |
+| | | **⟪महती⟫**:brwie **devī**:br⟪देवी⟫ |
 
 :::
 
@@ -169,16 +169,16 @@ Abb.: ⟪सती⟫-Gedenkplatte
 
 :::: grammar-box
 
-| | | Maskulinum[[br]]⟪पुंस्⟫ | Neutrum[[br]]⟪नपुंसक⟫ | Femininum[[br]]⟪स्त्री⟫ |
+| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**[[br]]⟪एकवचन⟫ | **1. Nominativ**[[br]]⟪प्रथमा⟫ | **⟪महान्⟫**[[br]]aus mahānt-s | **⟪महत्⟫**[[br]]mahat-Ø | **⟪महती⟫**[[br]]mahat-ī |
-| | **2. Akkusativ**[[br]]⟪द्वितीया⟫ | **⟪महान्तम्⟫**[[br]]mahānt-am | **⟪महत्⟫** | wie **devī**[[br]]⟪देवी⟫ |
-| | **3. Instrumentalis**[[br]]⟪तृतीया⟫ | **⟪महता⟫**[[br]]mahat-ā | **⟪महता⟫** | |
-| | **6. Genetiv**[[br]]⟪षष्ठी⟫ | **⟪महतस्⟫**[[br]]mahat-as | **⟪महतस्⟫** | |
-| **Plural**[[br]]⟪बहुवचन⟫ | **1. Nominativ**[[br]]⟪प्रथमा⟫ | **⟪महान्तस्⟫**[[br]]mahānt-as | **⟪महान्ति⟫**[[br]]mahānt-i | |
-| | **2. Akkusativ**[[br]]⟪द्वितीया⟫ | **⟪महतस्⟫**[[br]]mahat-as | **⟪महान्ति⟫** | |
-| | **3. Instrumentalis**[[br]]⟪तृतीया⟫ | **⟪महद्भिस्⟫**[[br]]aus mahat-bhis | **⟪महद्भिस्⟫** | |
-| | **6. Genetiv**[[br]]⟪षष्ठी⟫ | **⟪महताम्⟫**[[br]]mahat-ām | **⟪महताम्⟫** | |
+| **Singular**:br⟪एकवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪महान्⟫**:braus mahānt-s | **⟪महत्⟫**:brmahat-Ø | **⟪महती⟫**:brmahat-ī |
+| | **2. Akkusativ**:br⟪द्वितीया⟫ | **⟪महान्तम्⟫**:brmahānt-am | **⟪महत्⟫** | wie **devī**:br⟪देवी⟫ |
+| | **3. Instrumentalis**:br⟪तृतीया⟫ | **⟪महता⟫**:brmahat-ā | **⟪महता⟫** | |
+| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪महतस्⟫**:brmahat-as | **⟪महतस्⟫** | |
+| **Plural**:br⟪बहुवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪महान्तस्⟫**:brmahānt-as | **⟪महान्ति⟫**:brmahānt-i | |
+| | **2. Akkusativ**:br⟪द्वितीया⟫ | **⟪महतस्⟫**:brmahat-as | **⟪महान्ति⟫** | |
+| | **3. Instrumentalis**:br⟪तृतीया⟫ | **⟪महद्भिस्⟫**:braus mahat-bhis | **⟪महद्भिस्⟫** | |
+| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪महताम्⟫**:brmahat-ām | **⟪महताम्⟫** | |
 
 ::::
 

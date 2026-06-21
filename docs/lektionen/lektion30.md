@@ -32,10 +32,10 @@ Beispiel:
 
 ::: grammar-box
 
-| |Singular[[br]]⟪एकवचन⟫|Plural[[br]]⟪बहुवचन⟫|
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person[[br]]Parasmaipada**|⟪क्रीणाति⟫[[br]](krī + nā + ti)|⟪क्रीणन्ति⟫[[br]](krī + n + anti)|
-|**3. Person[[br]]Ātmanepada**|⟪क्रीणीते⟫[[br]](krī + nī + te)|⟪क्रीणते⟫[[br]](krī + n + ate)|
+|**3. Person:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
+|**3. Person:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
 
 :::
 
@@ -43,10 +43,10 @@ Bei dieser Präsensklasse ist besonders zu beachten die Bildung des Präsensstam
 
 ::: grammar-box
 
-| |Singular[[br]]⟪एकवचन⟫|Plural[[br]]⟪बहुवचन⟫|
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person[[br]]Parasmaipada**|⟪जानाति⟫[[br]](jā-nā-ti)|⟪जानन्ति⟫[[br]](jā-n-anti)|
-|**3. Person[[br]]Ātmanepada**|⟪जानीते⟫[[br]](jā-nī-te)|⟪जानते⟫[[br]](jā-n-ate)|
+|**3. Person:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
+|**3. Person:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
 
 :::
 Die Form ⟪जा⟫ die dem Präsensstamm von ⟪ज्ञा⟫ zugrundeliegt, ist entweder durch eine Ablautreihe -ā (Tiefstufe) -nā (Hochstufe) zu erklären, oder durch Dissimilation aus *jñā-nā-ti.
@@ -61,10 +61,10 @@ Beispiel:
 
 ::: grammar-box
 
-| |Singular[[br]]⟪एकवचन⟫|Plural[[br]]⟪बहुवचन⟫|
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person[[br]]Parasmaipada**|⟪पुनाति⟫[[br]](pu-nā-ti)|⟪पुनन्ति⟫[[br]](pu-n-anti)|
-|**3. Person[[br]]Ātmanepada**|⟪पुनीते⟫[[br]](pu-nī-te)|⟪पुनते⟫[[br]](pu-n-ate)|
+|**3. Person:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
+|**3. Person:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
 
 :::
 
@@ -130,8 +130,8 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 
 | |3. Person Singular|3. Person Plural|
 | :--- | :--- | :--- |
-|**Parasmaipada**|**-t**|athematische Klassen: **-an** oder **-ur**[[br]]Optativ: **-ur**|
-|**Ātmanepada**|**-ta**|athematische Klassen: **-ata** (aus *nta)[[br]]Optativ: **-ran**|
+|**Parasmaipada**|**-t**|athematische Klassen: **-an** oder **-ur**:brOptativ: **-ur**|
+|**Ātmanepada**|**-ta**|athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran**|
 
 :::
 
@@ -156,10 +156,10 @@ Beispiele:
 ⟪भू⟫
 ::: grammar-box
 
-| |Singular[[br]]⟪एकवचन⟫|Plural[[br]]⟪बहुवचन⟫|
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person[[br]]Parasmaipada**|⟪भवेत्⟫[[br]](bhava + i + t)|⟪भवेयुर्⟫[[br]](bhava + i + y + ur)|
-|**3. Person[[br]]Ātmanepada**|⟪भवेत⟫[[br]](bhava + i + ta)|⟪भवेरन्⟫[[br]](bhava + i + ran)|
+|**3. Person:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
+|**3. Person:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
 
 :::
 
@@ -168,10 +168,10 @@ Beispiele:
 ⟪नृत्⟫
 ::: grammar-box
 
-| |Singular[[br]]⟪एकवचन⟫|Plural[[br]]⟪बहुवचन⟫|
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person[[br]]Parasmaipada**|⟪नृत्येत्⟫[[br]](nṛtya + i + t)|⟪नृत्येयुर्⟫[[br]](nṛtya + i + y + ur)|
-|**3. Person[[br]]Ātmanepada**|⟪नृत्येत⟫[[br]](nṛtya + i + ta)|⟪नृत्येरन्⟫[[br]](nṛtya + i + ran)|
+|**3. Person:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
+|**3. Person:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
 
 :::
 
@@ -180,10 +180,10 @@ Beispiele:
 ⟪विश्⟫
 ::: grammar-box
 
-| |Singular[[br]]⟪एकवचन⟫|Plural[[br]]⟪बहुवचन⟫|
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person[[br]]Parasmaipada**|⟪विशेत्⟫[[br]](viśa + i + t)|⟪विशेयुर्⟫[[br]](viśa + i + y + ur)|
-|**3. Person[[br]]Ātmanepada**|⟪विशेत⟫[[br]](viśa + i + ta)|⟪विशेरन्⟫[[br]](viśa + i + ran)|
+|**3. Person:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
+|**3. Person:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
 
 :::
 
@@ -192,10 +192,10 @@ Beispiele:
 ⟪चुर्⟫
 ::: grammar-box
 
-| |Singular[[br]]⟪एकवचन⟫|Plural[[br]]⟪बहुवचन⟫|
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person[[br]]Parasmaipada**|⟪चोरयेत्⟫[[br]](coraya + i + t)|⟪चोरयेयुर्⟫[[br]](coraya + i + y + ur)|
-|**3. Person[[br]]Ātmanepada**|⟪चोरयेत⟫[[br]](coraya + i + ta)|⟪चोरयेरन्⟫[[br]](coraya + i + ran)|
+|**3. Person:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
+|**3. Person:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
 
 :::
 
@@ -218,10 +218,10 @@ Beispiele:
 ⟪द्विष्⟫
 ::: grammar-box
 
-| |Singular[[br]]⟪एकवचन⟫|Plural[[br]]⟪बहुवचन⟫|
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person[[br]]Parasmaipada**|⟪द्विष्यात्⟫[[br]](dviṣ-yā-t)|⟪द्विष्युर्⟫[[br]](dviṣ-y-ur)|
-|**3. Person[[br]]Ātmanepada**|⟪द्विषीत⟫[[br]](dviṣ-ī-ta)|⟪द्विषीरन्⟫[[br]](dviṣ-ī-ran)|
+|**3. Person:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
+|**3. Person:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
 
 :::
 
@@ -230,10 +230,10 @@ Beispiele:
 ⟪सु⟫
 ::: grammar-box
 
-| |Singular[[br]]⟪एकवचन⟫|Plural[[br]]⟪बहुवचन⟫|
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person[[br]]Parasmaipada**|⟪सुनुयात्⟫[[br]](sunu-yā-t)|⟪सुनुयुर्⟫[[br]](sunu-y-ur)|
-|**3. Person[[br]]Ātmanepada**|⟪सुन्वीत⟫[[br]](sunu + ī + ta)|⟪सुन्वीरन्⟫[[br]](sunu + ī + ran)|
+|**3. Person:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
+|**3. Person:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
 
 :::
 
@@ -242,30 +242,30 @@ Beispiele:
 ⟪तन्⟫
 ::: grammar-box
 
-| |Singular[[br]]⟪एकवचन⟫|Plural[[br]]⟪बहुवचन⟫|
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person[[br]]Parasmaipada**|⟪तनुयात्⟫[[br]](tanu-yā-t)|⟪तनुयुर्⟫[[br]](tanu-y-ur)|
-|**3. Person[[br]]Ātmanepada**|⟪तन्वीत⟫[[br]](tanu + ī + ta)|⟪तन्वीरन्⟫[[br]](tanu + ī + ran)|
+|**3. Person:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
+|**3. Person:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
 
 :::
 
-**kṛ**[[br]](⟪कृ⟫)
+**kṛ**:br(⟪कृ⟫)
 
 ::: grammar-box
 
-| |Singular[[br]]⟪एकवचन⟫|Plural[[br]]⟪बहुवचन⟫|
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person[[br]]Parasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
-|**3. Person[[br]]Ātmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
+|**3. Person:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
+|**3. Person:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
 
 :::
 
 ::: grammar-box
 
-| |Singular[[br]]⟪एकवचन⟫|Plural[[br]]⟪बहुवचन⟫|
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person Parasmaipada**|⟪क्रीणीयात्⟫[[br]](krīṇī-yā-t)|⟪क्रीणीयुर्⟫[[br]](krīṇī-y-ur)|
-|**3. Person Ātmanepada**|⟪क्रीणीत⟫[[br]](krīṇ-ī-ta)|⟪क्रीणीरन्⟫[[br]](krīṇ-ī-ran)|
+|**3. Person Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
+|**3. Person Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
 
 :::
 

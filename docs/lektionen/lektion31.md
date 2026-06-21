@@ -27,11 +27,11 @@ Beispiele:
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **Indikativ** | **3. sg.** | ⟪युनक्ति⟫[[br]]yu-na-j + -ti | ⟪युङ्क्ते⟫[[br]]yu + n + j + te[[br]](vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
-| | **3. pl.** | ⟪युञ्जन्ति⟫[[br]]yu + n + j-anti | ⟪युञ्जते⟫[[br]]yu + n + j-ate |
-| **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫[[br]]yu + n + j-yā-t | ⟪युञ्जीत⟫[[br]]yu + n + j-ī-ta |
-| | **3. pl.** | ⟪युञ्ज्युर्⟫[[br]]yu + n + j-y-ur | ⟪युञ्जीरन्⟫[[br]]yu + n + j-ī-ran |
-| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-[[br]]yu + n + j-ant-[[br]]fem.: ⟪युञ्जती⟫[[br]]yu + n + j-at-ī | |
+| **Indikativ** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
+| | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
+| **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
+| | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
+| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 ::::
 
@@ -41,11 +41,11 @@ Beispiele:
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **Indikativ** | **3. sg.** | ⟪रुणद्धि⟫[[br]]ru + na + dh + ti | ⟪रुन्द्धे⟫[[br]]ru-n + dh + te |
-| | **3. pl.** | ⟪रुन्धन्ति⟫[[br]]ru-n-dh-anti | ⟪रुन्धते⟫[[br]]ru-n-dh-ate |
-| **Optativ** | **3. sg.** | ⟪रुन्ध्यात्⟫[[br]]ru-n-dh-yā-t | ⟪रुन्धीत⟫[[br]]ru-n-dh-ī-ta |
-| | **3. pl.** | ⟪रुन्ध्युर्⟫[[br]]ru-n-dh-y-ur | ⟪रुन्धीरन्⟫[[br]]ru-n-dh-ī-ran |
-| **Partizip Präsens** | | ⟪रुन्धन्त्⟫-[[br]]ru-n-dh-ant-[[br]]fem.: ⟪रुन्धती⟫[[br]]ru-n-dh-at-ī | |
+| **Indikativ** | **3. sg.** | ⟪रुणद्धि⟫:brru + na + dh + ti | ⟪रुन्द्धे⟫:brru-n + dh + te |
+| | **3. pl.** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate |
+| **Optativ** | **3. sg.** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta |
+| | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
+| **Partizip Präsens** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
 
 ::::
 

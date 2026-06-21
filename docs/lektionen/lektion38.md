@@ -48,8 +48,8 @@ Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei St�
 
 | Stamm | -an | -man | -van | Verwendung |
 | :--- | :---: | :---: | :---: | :--- |
-| **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.[[br]]Nom., Akk., Vok. dual m. f.[[br]]Nom., Vok. pl. m. f.[[br]]Nom., Akk. pl. n. |
-| **Mittlerer Schwacher Stamm** | **-a**[[br]](aus -*n) | **-ma**[[br]](aus -*mn) | **-va**[[br]](aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung[[br]]Wahlweise auch Lok. sg. m. n. f. |
+| **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
+| **Mittlerer Schwacher Stamm** | **-a**:br(aus -*n) | **-ma**:br(aus -*mn) | **-va**:br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
 | **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
 
 **Die Endungen sind regelmäßig. Der Nominativ Singular m. f. wird ohne auslautendes -n gebildet.**

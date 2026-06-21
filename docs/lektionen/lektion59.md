@@ -14,9 +14,9 @@ status: stable
 ::: grammar-box
 |   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** |||
 | :--- | :---: | :---: | :---: | :---: | :---: |
-|   | sekundär | Imperativ (⟪लोट्⟫) | sekundär thematisch | sekundär athematisch[[br]]Optativ (⟪विधिलिङ्⟫) | Imperativ (⟪लोट्⟫) |
+|   | sekundär | Imperativ (⟪लोट्⟫) | sekundär thematisch | sekundär athematisch:brOptativ (⟪विधिलिङ्⟫) | Imperativ (⟪लोट्⟫) |
 | **1. ⟪तृतीयः⟫** | -va | -āva | -vahi || -āvahai |
-| **2. ⟪मध्यमः⟫** | -tam[[br]]-tām || -īthām | -āthām | -īthām / āthām |
+| **2. ⟪मध्यमः⟫** | -tam:br-tām || -īthām | -āthām | -īthām / āthām |
 | **3. ⟪प्रथमः⟫** | ^^ || -ītām | -ātām | -ītām / -ātām |
 :::
 
@@ -632,7 +632,7 @@ Optativ (⟪विधिलिङ्⟫)
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪क्रीणीयाव⟫ | ⟪क्रीणीवहि⟫[[br]]krī + n + ī + vahi |
+| 1\. ⟪तृतीयः⟫ | ⟪क्रीणीयाव⟫ | ⟪क्रीणीवहि⟫:brkrī + n + ī + vahi |
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीयातम्⟫ | ⟪क्रीणीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीयाताम्⟫ | ⟪क्रीणीयाताम्⟫ |
 :::
