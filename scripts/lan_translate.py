@@ -760,6 +760,27 @@ def protect_br(text):
 def restore_br(text):
     return text.replace(BR_PLACEHOLDER, '[[br]]')
 
+def protect_structure(text):
+    """Replace VitePress containers (:::) and horizontal rules (---) with placeholders."""
+    registry = {}
+    counter = [0]
+    result_lines = []
+    for line in text.split('\n'):
+        # Protect lines that are exactly '---' or start with ':::'
+        if line.strip() == '---' or line.strip().startswith(':::'):
+            key = f'⟨STRUCT_{counter[0]}⟩'
+            registry[key] = line
+            counter[0] += 1
+            result_lines.append(key)
+        else:
+            result_lines.append(line)
+    return '\n'.join(result_lines), registry
+
+def restore_structure(text, registry):
+    for key, original in registry.items():
+        text = text.replace(key, original)
+    return text
+
 
 def translate_text(text, target_lang):
     lang_name = LANG_NAMES.get(target_lang, target_lang)
@@ -767,11 +788,12 @@ def translate_text(text, target_lang):
     protected, deva_registry = protect_devanagari(text)
     protected, iast_registry = protect_iast_lines(protected)
     protected = protect_br(protected)
+    protected, struct_registry = protect_structure(protected)
     system = (
         f"You are a scholarly translator. Translate ALL German text in this Sanskrit-education markdown to {lang_name}. "
         "Rules: "
         "(1) Translate every German word — including captions, image descriptions, verse translations, and prose. "
-        "(2) Preserve unchanged: Markdown syntax, VitePress containers (:::), IAST transliterations, YAML frontmatter keys, HTML comments, ⟨DEVA_N⟩ placeholders, ⟨IAST_L_N⟩ placeholders, and ⟨BR⟩ placeholders. "
+        "(2) Preserve unchanged: Markdown syntax, IAST transliterations, YAML frontmatter keys, HTML comments, ⟨DEVA_N⟩ placeholders, ⟨IAST_L_N⟩ placeholders, ⟨BR⟩ placeholders, and ⟨STRUCT_N⟩ placeholders. "
         f"(3) Translate '# Lektion N' headings to the target-language equivalent (e.g. '# Lesson N' in English, '# Lezione N' in Italian, '# Lección N' in Spanish, '# Урок N' in Russian/Ukrainian/Bulgarian, '# पाठ N' in Hindi, '# Leçon N' in French, '# Lecziun N' in Romansh Grischun, '# பாடம் N' in Tamil, '# ਪਾਠ N' in Punjabi, '# الدرس N' in Arabic, '# ܡܠܦܢܘܬܐ N' in Aramaic, '# שיעור N' in Hebrew, '# 第N课' in Mandarin Chinese, '# บทที่ N' in Thai, '# Lectio N' in Latin, '# Μάθημα N' in Ancient Greek, '# Μάθημα N' in Modern Greek, '# درس N' in Persian, '# Ṭupšarru N' in Akkadian, '# ⲙⲁⲑⲏⲙⲁ N' in Coptic). "
         "(4) NEVER add TODO comments, fallback markers, or any annotations of your own. If unsure how to translate something, translate it as best you can. "
         "(5) Keep the scholarly editorial tone throughout. "
@@ -784,18 +806,30 @@ def translate_text(text, target_lang):
     best_result = None
     best_missing: list = list(deva_registry.keys())  # worst case: all missing
 
-    max_ph_retries = 3
+    max_ph_retries = 4
     for ph_attempt in range(max_ph_retries):
+        is_fallback = (ph_attempt == max_ph_retries - 1)
+        current_api_url = "https://openrouter.ai/api/v1/chat/completions" if is_fallback else API_URL
+        current_model = "qwen/qwen-2.5-72b-instruct" if is_fallback else MODEL
+
         # Bump temperature on retries so the model makes different choices.
-        temperature = 0.3 if ph_attempt == 0 else 0.6
+        temperature = 0.1 if ph_attempt == 0 else 0.3
+        
+        user_prompt = protected
+        if ph_attempt > 0 and 'qc_reason' in locals():
+            if is_fallback:
+                sys.stdout.write(f"\n[{target_lang}] FALLBACK TRIGGERED: Switching to OpenRouter ({current_model}) for this chunk due to persistent QC failures.\n")
+                sys.stdout.flush()
+            user_prompt = f"CRITICAL CORRECTION REQUIRED:\nYour previous translation failed Quality Control for this reason: {qc_reason}\n\nYou MUST fix this error. If you failed to translate sentences, translate EVERY single word now. If you dropped lines, preserve line count strictly. Translate the following text:\n\n{protected}"
+
         data = {
-            "model": MODEL,
+            "model": current_model,
             "messages": [
                 {"role": "system", "content": system},
-                {"role": "user", "content": protected}
+                {"role": "user", "content": user_prompt}
             ],
             "temperature": temperature,
-            "max_tokens": 4096
+            "max_tokens": 8192
         }
 
         max_retries = 5
@@ -804,11 +838,13 @@ def translate_text(text, target_lang):
             try:
                 import subprocess as _sp
                 start_time = time.time()
+                curl_cmd = ['curl', '-s', '-X', 'POST', current_api_url, '-H', 'Content-Type: application/json']
+                if 'OPENROUTER_API_KEY' in os.environ:
+                    curl_cmd.extend(['-H', f"Authorization: Bearer {os.environ['OPENROUTER_API_KEY']}"])
+                curl_cmd.extend(['-d', json.dumps(data), '--max-time', '1800', '--keepalive-time', '15'])
+                
                 _proc = _sp.run(
-                    ['curl', '-s', '-X', 'POST', API_URL,
-                     '-H', 'Content-Type: application/json',
-                     '-d', json.dumps(data),
-                     '--max-time', '1800'],
+                    curl_cmd,
                     capture_output=True, text=True, timeout=1820
                 )
                 end_time = time.time()
@@ -839,6 +875,43 @@ def translate_text(text, target_lang):
                                 sys.stdout.write(f"[{ts}] [!] SSH Neustart fehlgeschlagen: {ssh_e}\n")
                                 sys.stdout.flush()
 
+                # --- QUALITY CONTROL (QC) ---
+                source_lines = protected.split('\n')
+                result_lines = result.split('\n')
+                qc_failed = False
+                qc_reason = ""
+                
+                if len([l for l in source_lines if l.strip()]) != len([l for l in result_lines if l.strip()]):
+                    qc_failed = True
+                    qc_reason = f"Line count mismatch (Expected non-empty: {len([l for l in source_lines if l.strip()])}, Got: {len([l for l in result_lines if l.strip()])})"
+                else:
+                    missing_struct = [k for k in struct_registry if k not in result]
+                    if missing_struct:
+                        qc_failed = True
+                        qc_reason = f"Missing structure placeholders: {len(missing_struct)} dropped"
+                
+                if not qc_failed and target_lang != 'de':
+                    import re
+                    safe_german_words = ['und', 'oder', 'nicht', 'sich', 'wird', 'werden', 'auch', 'dass', 'auf', 'für']
+                    ger_pattern = re.compile(r'\b(' + '|'.join(safe_german_words) + r')\b', re.IGNORECASE)
+                    ger_result_count = len(ger_pattern.findall(result))
+                    if ger_result_count >= 3:
+                        ger_source_count = len(ger_pattern.findall(protected))
+                        if ger_result_count >= (ger_source_count * 0.2):
+                            qc_failed = True
+                            qc_reason = f"Untranslated German detected ({ger_result_count} marker words found)"
+
+                if qc_failed:
+                    if ph_attempt < max_ph_retries - 1:
+                        sys.stdout.write(f"[{target_lang}] QC failed: {qc_reason} — retrying ({ph_attempt + 2}/{max_ph_retries}, T={temperature})...\n")
+                        sys.stdout.flush()
+                        break  # break connection loop to retry generation outer loop
+                    else:
+                        sys.stdout.write(f"[{target_lang}] FATAL: QC failed on all retries. Reason: {qc_reason}. Aborting chunk.\n")
+                        sys.stdout.flush()
+                        return f"ERROR: QC failed. {qc_reason}", ph_attempt
+                # --- END QC ---
+
                 missing = [k for k in deva_registry if k not in result]
                 if len(missing) < len(best_missing):
                     best_result = result
@@ -847,13 +920,14 @@ def translate_text(text, target_lang):
                     result = restore_devanagari(result, deva_registry, _mark_skt)
                     result = restore_iast_lines(result, iast_registry)
                     result = restore_br(result)
-                    return result
+                    result = restore_structure(result, struct_registry)
+                    return result, ph_attempt
                 # Got a response but placeholders were dropped — retry outer loop.
                 if ph_attempt < max_ph_retries - 1:
                     sys.stdout.write(
                         f"[{target_lang}] Placeholder drop ({len(missing)}): "
                         f"{missing[:3]}{'…' if len(missing) > 3 else ''} "
-                        f"— retrying ({ph_attempt + 2}/{max_ph_retries}, T={0.6})...\n"
+                        f"— retrying ({ph_attempt + 2}/{max_ph_retries}, T={temperature})...\n"
                     )
                     sys.stdout.flush()
                 break  # break connection-retry loop; outer loop handles the rest
@@ -882,7 +956,9 @@ def translate_text(text, target_lang):
                 time.sleep(wait_time)
 
         if not got_response:
-            return f"ERROR: Failed to translate after {max_retries} attempts."
+            sys.stdout.write(f"[{target_lang}] FATAL: Maximum inner connection retries reached.\n")
+            sys.stdout.flush()
+            return f"ERROR: Failed to translate after {max_retries} attempts.", ph_attempt
 
     # All placeholder-retry attempts exhausted — use the best partial result.
     sys.stdout.write(
@@ -897,7 +973,8 @@ def translate_text(text, target_lang):
     result = restore_devanagari(best_result, deva_registry, _mark_skt)
     result = restore_iast_lines(result, iast_registry)
     result = restore_br(result)
-    return result
+    result = restore_structure(result, struct_registry)
+    return result, max_ph_retries - 1
 
 def escape_angle_brackets_in_tables(text):
     # LLMs sometimes convert &lt;form&gt; → <form>, breaking Vue (HTML is forbidden).
@@ -949,13 +1026,18 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
 
     chunks = chunk_content(content)
     translated_chunks = []
+    total_retries = 0
     for i, chunk in enumerate(chunks, 1):
         if not chunk.strip():
             translated_chunks.append(chunk)
             continue
         ts = time.strftime('%H:%M:%S')
         print(f"[{ts}]  -> section {i}/{len(chunks)}...")
-        result = translate_text(chunk, lang)
+        
+        result_tuple = translate_text(chunk, lang)
+        result = result_tuple[0]
+        total_retries += result_tuple[1]
+        
         if result.startswith("ERROR:"):
             print(f"  [!] Failed chunk {i}: {result}")
             return False
@@ -966,7 +1048,9 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
         translated = post_process(translated)
     with open(target_path, "w", encoding="utf-8") as f:
         f.write(translated)
-    print(f"[{lang}] Done {filename}.")
+    
+    retry_msg = f" (Total QC retries: {total_retries})" if total_retries > 0 else " (Flawless run)"
+    print(f"[{lang}] Done {filename}.{retry_msg}")
     time.sleep(2)
     return True
 
@@ -1053,10 +1137,12 @@ def parse_lesson_args(args):
 
 
 def parse_lang_args(args):
-    """Extract --lang/-l, --force/-f, --pages/-p options from args. Returns (languages, force, pages_only, remaining_args)."""
+    """Extract --lang/-l, --force/-f, --pages/-p, --api, --model options from args."""
     languages = []
     force = False
     pages_only = False
+    api_url = None
+    model_id = None
     remaining = []
     i = 0
     while i < len(args):
@@ -1069,6 +1155,12 @@ def parse_lang_args(args):
                 sys.exit(1)
             languages = codes
             i += 2
+        elif args[i] == "--api" and i + 1 < len(args):
+            api_url = args[i + 1]
+            i += 2
+        elif args[i] == "--model" and i + 1 < len(args):
+            model_id = args[i + 1]
+            i += 2
         elif args[i] in ("--force", "-f"):
             force = True
             i += 1
@@ -1078,7 +1170,7 @@ def parse_lang_args(args):
         else:
             remaining.append(args[i])
             i += 1
-    return languages, force, pages_only, remaining
+    return languages, force, pages_only, api_url, model_id, remaining
 
 
 def translate_main_pages(lang, force=False):
@@ -1124,7 +1216,14 @@ def main():
         print("  python3 scripts/lan_translate.py --lang la --pages")
         sys.exit(1)
 
-    active_languages, force, pages_only, remaining_args = parse_lang_args(args)
+    active_languages, force, pages_only, new_api, new_model, remaining_args = parse_lang_args(args)
+
+    if new_api:
+        global API_URL
+        API_URL = new_api
+    if new_model:
+        global MODEL
+        MODEL = new_model
 
     if not active_languages:
         print("Error: You must explicitly specify languages using --lang/-l (e.g., --lang he).")

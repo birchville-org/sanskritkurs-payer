@@ -538,18 +538,20 @@
                 <button class="control-btn" onclick="setSyncMode('pct')" id="btn-pct">Sync %</button>
                 <button class="control-btn" onclick="setSyncMode('off')" id="btn-off">Sync OFF</button>
                 <button class="control-btn" onclick="swapPanes()" id="btn-swap" title="Links und rechts tauschen">SWAP</button>
+                <button class="control-btn" onclick="swapPanes()" id="btn-swap" title="Swap left and right">SWAP</button>
             </div>
             <div class="btn-group" id="view-controls">
                 <button class="control-btn active" onclick="setViewMode('rendered')" id="btn-rendered">Rendered</button>
                 <button class="control-btn" onclick="setViewMode('raw')" id="btn-raw">Raw Source</button>
                 <button class="control-btn" onclick="setViewMode('editor')" id="btn-editor">Editor</button>
-                <button class="control-btn" onclick="exitQA()" id="btn-exit-qa" title="QA beenden, zurück zur Seite">END QA</button>
+                <button class="control-btn" onclick="document.getElementById('help-modal').style.display='flex'" id="btn-help" title="Manual & Help">Help</button>
+                <button class="control-btn" onclick="exitQA()" id="btn-exit-qa" title="End QA, return to page">END QA</button>
             </div>
             <div class="btn-group" id="editor-actions">
                 <button class="control-btn" onclick="setViewMode('rendered')" id="btn-viewer">← Viewer</button>
                 <button class="control-btn" onclick="openFile()" id="btn-open">OPEN</button>
                 <button class="control-btn" onclick="resetEditor()" id="btn-reset">Reset</button>
-                <button class="control-btn" onclick="saveEditor()" id="btn-save">Save</button>
+                <button class="control-btn" onclick="document.getElementById('save-modal').style.display='flex'" id="btn-save">Save</button>
             </div>
         </div>
 
@@ -562,7 +564,7 @@
             </button>
             <select id="right-lang" onchange="updateFrames()">
                 <option value="qa/lektion01.html">Original HTML</option>
-                <option value="lektionen/lektion01" selected>Deutsch (DE)</option>
+                <option value="lektionen/lektion01" selected>German (DE)</option>
                 <option value="en/lektionen/lektion01">English (EN)</option>
                 <option value="it/lektionen/lektion01">Italiano (IT)</option>
                 <option value="bg/lektionen/lektion01">Български (BG)</option>
@@ -587,36 +589,36 @@
     <div class="container" id="main-container">
         <div id="syntax-pane">
             <h4 data-syn-h="std">Standard Markdown</h4>
-            <div class="syn-row" onclick="insertSnippet('# ', '')"><code># Titel</code><span class="syn-desc" data-syn-d="h16">H1–H6</span></div>
-            <div class="syn-row" onclick="insertSnippet('**', '**')"><code>**fett**</code><span class="syn-desc" data-syn-d="bold">Fettdruck</span></div>
-            <div class="syn-row" onclick="insertSnippet('*', '*')"><code>*kursiv*</code><span class="syn-desc" data-syn-d="ital">Kursiv</span></div>
-            <div class="syn-row" onclick="insertSnippet('\`', '\`')"><code>`code`</code><span class="syn-desc" data-syn-d="code">Inline-Code</span></div>
+            <div class="syn-row" onclick="insertSnippet('# ', '')"><code># Title</code><span class="syn-desc" data-syn-d="h16">H1–H6</span></div>
+            <div class="syn-row" onclick="insertSnippet('**', '**')"><code>**bold**</code><span class="syn-desc" data-syn-d="bold">Bold</span></div>
+            <div class="syn-row" onclick="insertSnippet('*', '*')"><code>*italic*</code><span class="syn-desc" data-syn-d="ital">Italic</span></div>
+            <div class="syn-row" onclick="insertSnippet('\`', '\`')"><code>`code`</code><span class="syn-desc" data-syn-d="code">Inline code</span></div>
             <div class="syn-row" onclick="insertSnippet('\n> ', '')"><code>&gt; Text</code><span class="syn-desc" data-syn-d="bq">Blockquote</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n- ', '')"><code>- Item</code><span class="syn-desc" data-syn-d="list">Liste</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n- ', '')"><code>- Item</code><span class="syn-desc" data-syn-d="list">List</span></div>
             <div class="syn-row" onclick="insertSnippet('[', '](url)')"><code>[Text](url)</code><span class="syn-desc" data-syn-d="link">Link</span></div>
-            <div class="syn-row" onclick="insertSnippet('![', '](pfad)')"><code>![Alt](pfad)</code><span class="syn-desc" data-syn-d="img">Bild</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n| A | B |\n|---|---|\n| ', ' | |')"><code>| A | B |</code><span class="syn-desc" data-syn-d="tbl">Tabelle</span></div>
-            <div class="syn-row" onclick="insertSnippet(':br', '')"><code>:br</code><span class="syn-desc" data-syn-d="br">Zeilenumbruch</span></div>
-            <div class="syn-row" onclick="insertSnippet(':indent', '')"><code>:indent</code><span class="syn-desc" data-syn-d="ind">Einzug inline</span></div>
+            <div class="syn-row" onclick="insertSnippet('![', '](path)')"><code>![Alt](path)</code><span class="syn-desc" data-syn-d="img">Image</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n| A | B |\n|---|---|\n| ', ' | |')"><code>| A | B |</code><span class="syn-desc" data-syn-d="tbl">Table</span></div>
+            <div class="syn-row" onclick="insertSnippet(':br', '')"><code>:br</code><span class="syn-desc" data-syn-d="br">Line break</span></div>
+            <div class="syn-row" onclick="insertSnippet(':indent', '')"><code>:indent</code><span class="syn-desc" data-syn-d="ind">Inline indent</span></div>
             <div class="syn-row" onclick="insertSnippet('⟪', '⟫')"><code>⟪Sanskrit⟫</code><span class="syn-desc" data-syn-d="dev">Devanagari</span></div>
             <div class="syn-row" style="margin-top: 10px; border-bottom: 1px solid var(--vp-c-divider);"></div>
-            <div class="syn-row" onclick="insertSnippet('\n:::grammarbox\n', '\n:::')"><code>:::grammarbox</code><span class="syn-desc" data-syn-d="yel">gelb</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::grammarbox\n', '\n:::')"><code>:::grammarbox</code><span class="syn-desc" data-syn-d="yel">yellow</span></div>
             <div class="syn-row" onclick="insertSnippet('\n:::grammarbox2\n', '\n:::')"><code>:::grammarbox2</code><span class="syn-desc" data-syn-d="ora">orange</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n:::important\n', '\n:::')"><code>:::important</code><span class="syn-desc" data-syn-d="vio">violett</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n:::note-box\n', '\n:::')"><code>:::note-box</code><span class="syn-desc" data-syn-d="gry">grau</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n:::indent\n', '\n:::')"><code>:::indent</code><span class="syn-desc" data-syn-d="indt">eingerückt</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n:::center\n', '\n:::')"><code>:::center</code><span class="syn-desc" data-syn-d="ctr">zentriert</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n:::media\n', '\n:::')"><code>:::media</code><span class="syn-desc" data-syn-d="med">Bild-Block</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n:::deleteme-box\n', '\n:::')"><code>:::deleteme-box</code><span class="syn-desc" data-syn-d="del">unsichtbar</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n:::no-header\n', '\n:::')"><code>:::no-header</code><span class="syn-desc" data-syn-d="noh">Tabelle o. Kopf</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n:::compact\n', '\n:::')"><code>:::compact</code><span class="syn-desc" data-syn-d="cmp">enge Tabelle</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n:::laut-table\n', '\n:::')"><code>:::laut-table</code><span class="syn-desc" data-syn-d="laut">Laut-Tabelle</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n:::metrik-schema\n', '\n:::')"><code>:::metrik-schema</code><span class="syn-desc" data-syn-d="met">Metrik</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::important\n', '\n:::')"><code>:::important</code><span class="syn-desc" data-syn-d="vio">violet</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::note-box\n', '\n:::')"><code>:::note-box</code><span class="syn-desc" data-syn-d="gry">gray</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::indent\n', '\n:::')"><code>:::indent</code><span class="syn-desc" data-syn-d="indt">indented</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::center\n', '\n:::')"><code>:::center</code><span class="syn-desc" data-syn-d="ctr">centered</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::media\n', '\n:::')"><code>:::media</code><span class="syn-desc" data-syn-d="med">Image block</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::deleteme-box\n', '\n:::')"><code>:::deleteme-box</code><span class="syn-desc" data-syn-d="del">invisible</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::no-header\n', '\n:::')"><code>:::no-header</code><span class="syn-desc" data-syn-d="noh">Table no header</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::compact\n', '\n:::')"><code>:::compact</code><span class="syn-desc" data-syn-d="cmp">compact table</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::laut-table\n', '\n:::')"><code>:::laut-table</code><span class="syn-desc" data-syn-d="laut">Sound table</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n:::metrik-schema\n', '\n:::')"><code>:::metrik-schema</code><span class="syn-desc" data-syn-d="met">Metrics</span></div>
         </div>
         <div class="pane" id="left-pane">
             <iframe id="left-frame" src="about:blank"></iframe>
             <textarea id="left-raw" class="raw-viewer" readonly></textarea>
-            <textarea id="editor-input" class="editor-input" spellcheck="false" placeholder="Markdown hier eingeben..." style="display:none"></textarea>
+            <textarea id="editor-input" class="editor-input" spellcheck="false" placeholder="Enter Markdown here..." style="display:none"></textarea>
         </div>
         <div class="resizer" id="drag-bar"></div>
         <div class="pane" id="right-pane">
@@ -629,14 +631,14 @@
     <script>
         const baseUrl = window.location.origin + "/";
 
-        // ── Syntax-Panel Übersetzungen ──────────────────────────────────────
+        // ── Syntax-Panel Translations ──────────────────────────────────────
         const SYNTAX_I18N = {
             de: { std:'Standard Markdown', ext:'Erweiterungen (markdown-it)', mmd:'MultiMD-Tabellen', cnt:'Container-Blöcke',
                   h16:'H1–H6', bold:'Fettdruck', ital:'Kursiv', code:'Inline-Code', bq:'Blockquote', list:'Liste',
                   link:'Link', img:'Bild', tbl:'Tabelle', hr:'Linie', br:'Zeilenumbruch', ind:'Einzug inline',
                   cs:'Colspan', rs:'Rowspan', yel:'gelb', ora:'orange', vio:'violett', gry:'grau',
                   indt:'eingerückt', ctr:'zentriert', med:'Bild-Block', del:'unsichtbar',
-                  noh:'Tabelle o. Kopf', cmp:'enge Tabelle', laut:'Laut-Tabelle', met:'Metrik', deva:'Devanāgarī', deva:'Devanāgarī', skt:'explizit Sanskrit' },
+                  noh:'Tabelle o. Kopf', cmp:'enge Tabelle', laut:'Laut-Tabelle', met:'Metrik', deva:'Devanāgarī', skt:'explizit Sanskrit' },
             en: { std:'Standard Markdown', ext:'Extensions (markdown-it)', mmd:'MultiMD Tables', cnt:'Container Blocks',
                   h16:'H1–H6', bold:'Bold', ital:'Italic', code:'Inline code', bq:'Blockquote', list:'List',
                   link:'Link', img:'Image', tbl:'Table', hr:'Ruler', br:'Line break', ind:'Inline indent',
@@ -885,7 +887,7 @@
                 if (typeof window.buildRenderer === 'function') {
                     window.md = window.buildRenderer();
                 } else {
-                    editorPreview.innerHTML = '<p style="opacity:0.5">Renderer wird geladen…</p>';
+                    editorPreview.innerHTML = '<p style="opacity:0.5">Renderer loading...</p>';
                     return;
                 }
             }
@@ -896,6 +898,25 @@
         }
 
         window._editorFrontmatter = '';
+
+        window._originalEditorContentText = '';
+
+        function updateSaveButtonState() {
+            const btn = document.getElementById('btn-save');
+            const editorInput = document.getElementById('editor-input');
+            if (!btn || !editorInput) return;
+            if (editorInput.value === window._originalEditorContentText) {
+                btn.disabled = true;
+                btn.style.opacity = '0.5';
+                btn.style.cursor = 'not-allowed';
+                btn.title = 'No changes detected';
+            } else {
+                btn.disabled = false;
+                btn.style.opacity = '1';
+                btn.style.cursor = 'pointer';
+                btn.title = '';
+            }
+        }
 
         function stripFrontmatter(text) {
             const m = text.match(/^---\n([\s\S]*?\n)---\n/);
@@ -915,30 +936,61 @@
             updateSyntaxLang(editorLang);
             if (!leftVal.includes('lektionen')) {
                 editorInput.value = '';
-                editorInput.placeholder = 'HTML kann nicht editiert werden.';
+                editorInput.placeholder = 'HTML cannot be edited.';
                 renderPreview();
                 return;
             }
-            editorInput.placeholder = 'Markdown hier eingeben…';
+            editorInput.placeholder = 'Enter Markdown here...';
             const mdPath = leftVal.replace(/lektion\d+/, 'lektion' + num);
             const mdUrl = baseUrl + mdPath + '.md';
+            window._currentCloudFile = 'docs/' + mdPath + '.md';
             try {
                 const r = await fetch(mdUrl);
                 if (!r.ok) throw new Error('HTTP ' + r.status);
                 editorInput.value = stripFrontmatter(await r.text());
+                window._originalEditorContentText = editorInput.value;
             } catch(e) {
                 editorInput.value = '';
-                editorInput.placeholder = 'Fehler: ' + mdUrl + ' konnte nicht geladen werden.';
+                window._originalEditorContentText = '';
+                editorInput.placeholder = 'Error: ' + mdUrl + ' could not be loaded.';
             }
+            updateSaveButtonState();
             renderPreview();
         }
 
         let editorDebounce = null;
+        let isSyncingLeft = false;
+        let isSyncingRight = false;
+
         document.addEventListener('DOMContentLoaded', () => {
             const editorInput = document.getElementById('editor-input');
+            const editorPreview = document.getElementById('editor-preview');
+
             editorInput.addEventListener('input', () => {
+                updateSaveButtonState();
                 clearTimeout(editorDebounce);
                 editorDebounce = setTimeout(renderPreview, 300);
+            });
+
+            // Scroll Sync
+            editorInput.addEventListener('scroll', function() {
+                if (!isSyncingLeft && viewMode === 'edit') {
+                    isSyncingRight = true;
+                    if (this.scrollHeight <= this.clientHeight) return;
+                    const percentage = this.scrollTop / (this.scrollHeight - this.clientHeight);
+                    editorPreview.scrollTop = Math.round(percentage * (editorPreview.scrollHeight - editorPreview.clientHeight));
+                }
+                isSyncingLeft = false;
+            });
+
+            editorPreview.addEventListener('scroll', function() {
+                if (!isSyncingRight && viewMode === 'edit') {
+                    isSyncingLeft = true;
+                    if (this.scrollHeight <= this.clientHeight) return;
+                    const percentage = this.scrollTop / (this.scrollHeight - this.clientHeight);
+                    editorInput.scrollTop = Math.round(percentage * (editorInput.scrollHeight - editorInput.clientHeight));
+                }
+                isSyncingRight = false;
             });
         });
         // Fallback: register immediately if DOM already loaded
@@ -947,6 +999,7 @@
             if (editorInput && !editorInput._debounceRegistered) {
                 editorInput._debounceRegistered = true;
                 editorInput.addEventListener('input', () => {
+                    updateSaveButtonState();
                     clearTimeout(editorDebounce);
                     editorDebounce = setTimeout(renderPreview, 300);
                 });
@@ -1017,20 +1070,32 @@
                 notice.id = 'save-notice';
                 notice.style.cssText = 'position:fixed;bottom:2rem;left:50%;transform:translateX(-50%);' +
                     'background:var(--color-ink,#03192e);color:var(--color-parchment,#fcf9f2);' +
-                    'padding:0.85rem 1.5rem;border-radius:8px;font-size:0.9rem;z-index:9999;' +
-                    'box-shadow:0 4px 16px rgba(0,0,0,0.25);max-width:480px;text-align:center;line-height:1.5;';
+                    'padding:1.5rem 2rem;border-radius:12px;font-size:1rem;z-index:9999;' +
+                    'box-shadow:0 10px 30px rgba(0,0,0,0.5);max-width:500px;text-align:center;line-height:1.5; border: 2px solid #eab308;';
                 document.body.appendChild(notice);
             }
             const mail = 'webmaster@birchville.cc';
-            notice.innerHTML = `✓ Gespeichert: <strong>${filename}</strong><br>` +
-                `Bitte die Datei an <a href="mailto:${mail}?subject=Änderung: ${filename}" ` +
-                `style="color:#eab308">${mail}</a> senden.`;
+            const subject = encodeURIComponent(`Änderung: ${filename}`);
+            const bodyText = `Hallo Webmaster,\n\nIm Anhang findest du die überarbeitete Datei "${filename}" aus dem QA-Viewer.\n\nBitte ins Repository pushen.\n\nLiebe Grüße,\n[Dein Name]\n\n(Achtung: Bitte vergiss nicht, die soeben heruntergeladene Datei hier manuell als Anhang hinzuzufügen!)`;
+            const body = encodeURIComponent(bodyText);
+            
+            notice.innerHTML = `✓ Heruntergeladen: <strong>${filename}</strong><br>` +
+                `<span style="font-size:0.85rem; opacity:0.8;">(Die Datei befindet sich nun in Ihrem <strong>Downloads-Ordner</strong>)</span><br><br>` +
+                `<div style="font-size:0.9rem; opacity:0.9; margin-bottom:1rem; background:rgba(255,255,255,0.1); padding:0.75rem; border-radius:6px; text-align:left; line-height:1.4;">` +
+                `<strong style="color:#eab308">WICHTIG:</strong> Aus Sicherheitsgründen dürfen Webserver keine E-Mails automatisch im Hintergrund versenden oder Dateien eigenmächtig anhängen!<br><br>` +
+                `Pfad zum Suchen der Datei für den E-Mail-Anhang:<br>` +
+                `<code style="background:rgba(0,0,0,0.3); padding:2px 4px; border-radius:3px;">Mac: ~/Downloads/</code><br>` +
+                `<code style="background:rgba(0,0,0,0.3); padding:2px 4px; border-radius:3px; display:inline-block; margin-top:4px;">Win: C:\\Users\\[DeinName]\\Downloads\\</code><br><br>` +
+                `Bitte klicken Sie auf den Button unten, um Ihr E-Mail-Programm zu öffnen, und ziehen Sie die Datei dann manuell in den Anhang.` +
+                `</div>` +
+                `<a href="mailto:${mail}?subject=${subject}&body=${body}" ` +
+                `style="display:inline-block; background:#eab308; color:#03192e; text-decoration:none; padding:0.6rem 1.2rem; border-radius:6px; font-weight:600;">E-Mail manuell öffnen</a>`;
             notice.style.display = 'block';
             clearTimeout(notice._timer);
-            notice._timer = setTimeout(() => { notice.style.display = 'none'; }, 8000);
+            notice._timer = setTimeout(() => { notice.style.display = 'none'; }, 15000);
         }
 
-        const isServerMode = window.location.hostname.includes('autor') || window.location.port === '3000';
+        const isServerMode = window.location.hostname.includes('autor') || window.location.port === '3000' || window.location.port === '5173' || window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
 
         async function openCloudFile() {
             const num = document.getElementById('lesson-num').value.padStart(2, '0');
@@ -1047,7 +1112,9 @@
                 
                 const editorInput = document.getElementById('editor-input');
                 editorInput.value = stripFrontmatter(data.content);
-                editorInput.placeholder = 'Markdown hier eingeben…';
+                window._originalEditorContentText = editorInput.value;
+                updateSaveButtonState();
+                editorInput.placeholder = 'Enter Markdown here…';
                 document.getElementById('btn-open').textContent = '☁️ ' + relPath;
                 window._currentCloudFile = filepath;
                 renderPreview();
@@ -1073,6 +1140,8 @@
                     body: JSON.stringify({ filepath: window._currentCloudFile, content: text })
                 });
                 if (!res.ok) throw new Error('Save failed');
+                window._originalEditorContentText = editorInput.value;
+                updateSaveButtonState();
                 btn.textContent = '✓ Gespeichert';
                 setTimeout(() => { btn.textContent = 'Save'; }, 1800);
             } catch (e) {
@@ -1098,7 +1167,9 @@
                 const text = await file.text();
                 const editorInput = document.getElementById('editor-input');
                 editorInput.value = stripFrontmatter(text);
-                editorInput.placeholder = 'Markdown hier eingeben…';
+                window._originalEditorContentText = editorInput.value;
+                updateSaveButtonState();
+                editorInput.placeholder = 'Enter Markdown here…';
                 document.getElementById('btn-open').textContent = '📄 ' + handle.name;
                 renderPreview();
             } catch (e) {
@@ -1124,7 +1195,9 @@
                     const writable = await window._fileHandle.createWritable();
                     await writable.write(text);
                     await writable.close();
-                    btn.textContent = '✓ Gespeichert';
+                    window._originalEditorContentText = editorInput.value;
+                    updateSaveButtonState();
+                    btn.textContent = '✓ Saved';
                     setTimeout(() => { btn.textContent = 'Save'; }, 1800);
                     showSaveNotice(window._fileHandle.name);
                     return;
@@ -1160,15 +1233,35 @@
         }
 
         function fallbackSave(text, btn) {
-            const a = document.createElement('a');
             const num = document.getElementById('lesson-num').value.padStart(2, '0');
-            a.download = 'lektion' + num + '.md';
+            const filename = 'lektion' + num + '.md';
+
+            const a = document.createElement('a');
+            a.download = filename;
             a.href = URL.createObjectURL(new Blob([text], { type: 'text/markdown' }));
             a.click();
             URL.revokeObjectURL(a.href);
-            btn.textContent = '✓ Download';
+            
+            window._originalEditorContentText = editorInput.value;
+            updateSaveButtonState();
+            
+            btn.textContent = '✓ Downloaded';
             setTimeout(() => { btn.textContent = 'Save'; }, 1800);
-            showSaveNotice(a.download);
+            showSaveNotice(filename);
+
+            // (Auto-open disabled intentionally by user request)
+        }
+
+        function triggerDownloadAndMail() {
+            const editorInput = document.getElementById('editor-input');
+            const btn = document.getElementById('btn-save');
+            const text = (window._editorFrontmatter || '') + editorInput.value;
+            fallbackSave(text, btn);
+        }
+
+        function triggerSaveLocal() {
+            // Immer den Cloud/API-Save nutzen, da der Vite-Server jetzt /api/save unterstützt
+            saveCloudFile();
         }
 
         // --- Header matching utilities ---
@@ -1542,19 +1635,35 @@
             });
 
             // 3. Container plugins — all 12 in the order from config.mjs
-            const CONTAINERS = [
-                'grammar-box', 'grammar-box2', 'media', 'center', 'metrik-schema',
-                'important', 'deleteme-box', 'note-box', 'laut-table',
-                'indent', 'compact', 'no-header'
-            ];
-            for (const name of CONTAINERS) {
-                md.use(container, name, {
-                    render(tokens, idx) {
-                        return tokens[idx].nesting === 1
-                            ? `<div class="${name} custom-block">\n`
-                            : '</div>\n';
-                    }
-                });
+            const CONTAINERS = {
+                'grammar-box': ['grammar-box', 'grammarbox'],
+                'grammar-box2': ['grammar-box2', 'grammarbox2'],
+                'media': ['media'],
+                'center': ['center'],
+                'metrik-schema': ['metrik-schema', 'metrikschema'],
+                'important': ['important'],
+                'deleteme-box': ['deleteme-box', 'deletemebox'],
+                'note-box': ['note-box', 'notebox'],
+                'laut-table': ['laut-table', 'lauttable'],
+                'indent': ['indent'],
+                'compact': ['compact'],
+                'no-header': ['no-header', 'noheader']
+            };
+            
+            for (const [canonicalName, aliases] of Object.entries(CONTAINERS)) {
+                for (const alias of aliases) {
+                    md.use(container, alias, {
+                        validate(params) {
+                            if (params.startsWith(' ')) return false;
+                            return params.split(' ', 2)[0] === alias;
+                        },
+                        render(tokens, idx) {
+                            return tokens[idx].nesting === 1
+                                ? `<div class="${canonicalName} custom-block">\n`
+                                : '</div>\n';
+                        }
+                    });
+                }
             }
 
             // 4. scholarly_fixes — mirrors config.mjs lines 371-433 (Token API approach,
@@ -1626,6 +1735,80 @@
         // Exported convenience wrapper for direct render calls
         window.render = (text) => buildRenderer().render(text);
     </script>
+    <div id="help-modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(3,25,46,0.8); z-index:10000; justify-content:center; align-items:center; backdrop-filter:blur(4px);">
+        <div style="background:var(--color-parchment, #fcf9f2); color:var(--color-ink, #03192e); width:90%; max-width:800px; max-height:85vh; overflow-y:auto; border-radius:12px; padding:2rem; box-shadow:0 10px 30px rgba(0,0,0,0.5); position:relative; font-family:'Inter', sans-serif;">
+            <button onclick="document.getElementById('help-modal').style.display='none'" style="position:absolute; top:1.5rem; right:1.5rem; background:none; border:none; font-size:2rem; cursor:pointer; color:var(--color-slate, #48626e); line-height:1;">&times;</button>
+            <h2 style="margin-top:0; border-bottom:2px solid var(--color-slate, #48626e); padding-bottom:0.5rem; font-family:'Newsreader', serif;">QA-Viewer & Editor Help</h2>
+            
+            <h3 style="margin-top:1.5rem; color:var(--color-slate, #48626e);">1. Editorial Workflow</h3>
+            <ul style="line-height:1.6; padding-left:1.5rem;">
+                <li><strong>Left vs. Right:</strong> Set the target language on the left (e.g. ID) and the reference language on the right (usually DE).</li>
+                <li><strong>Synchronization:</strong> The left column controls the scrolling of the right column. The "Header-Sync" intelligently aligns based on heading numbers (e.g., "41.2.").</li>
+                <li><strong>Local Editing & Saving:</strong> In Editor mode, click <strong>OPEN</strong> first and select the Markdown file from your local cloned repo. When you subsequently click <strong>SAVE</strong>, the browser writes the changes <em>directly</em> back to the local file (thanks to the File System Access API). If <code>npm run docs:dev</code> is running in parallel, you'll see the changes live immediately!</li>
+            </ul>
+
+            <h3 style="margin-top:1.5rem; color:var(--color-slate, #48626e);">2. Important Markdown Rules (Payer Project)</h3>
+            <ul style="line-height:1.6; padding-left:1.5rem;">
+                <li><strong>Scholarly Images:</strong> Always wrap images in <code>:::media</code>. No image captions in translated languages — only pure Devanāgarī (e.g., <code>Abb.: ऊहापोहः</code>). Metadata goes into the sources section at the end of the file.</li>
+                <li><strong>Headers & Titles:</strong> The main title (H1) must strictly be <code># Lektion X</code>. All other headers require absolute numbering (e.g., <code>## 41.1.</code>).</li>
+                <li><strong>No HTML:</strong> Use pure Markdown syntax (e.g., <code>&gt;</code> for blockquotes). Legacy HTML like <code>&lt;br&gt;</code> is replaced by <code>[[br]]</code>.</li>
+            </ul>
+
+            <h3 style="margin-top:1.5rem; color:var(--color-slate, #48626e);">3. Payer Extended Syntax (Containers)</h3>
+            <p style="margin-bottom:0.5rem; background:rgba(234,179,8,0.2); padding:0.5rem; border-left:4px solid #eab308; border-radius:4px;"><strong>Warning:</strong> There must be <strong>no spaces</strong> between <code>:::</code> and the label (e.g., <code>:::grammar-box</code>, <strong>not</strong> <code>::: grammar-box</code>).</p>
+            <table style="width:100%; border-collapse:collapse; margin-bottom:1rem; font-size:0.95rem;">
+                <tr style="border-bottom:2px solid var(--color-slate, #48626e); text-align:left;">
+                    <th style="padding:0.5rem;">Syntax</th>
+                    <th style="padding:0.5rem;">Usage</th>
+                </tr>
+                <tr style="border-bottom:1px solid #ccc;">
+                    <td style="padding:0.5rem;"><code>:::grammar-box</code></td>
+                    <td style="padding:0.5rem;">For grammar rules and paradigm tables. Mirrors the indentation of the original HTML.</td>
+                </tr>
+                <tr style="border-bottom:1px solid #ccc;">
+                    <td style="padding:0.5rem;"><code>:::deleteme-box</code></td>
+                    <td style="padding:0.5rem;">For sources, copyright, and metadata at the very end. (Hidden in the frontend).</td>
+                </tr>
+                <tr style="border-bottom:1px solid #ccc;">
+                    <td style="padding:0.5rem;"><code>:::indent</code></td>
+                    <td style="padding:0.5rem;">For indented examples or vocabulary entries.</td>
+                </tr>
+                <tr style="border-bottom:1px solid #ccc;">
+                    <td style="padding:0.5rem;"><code>:::no-header</code></td>
+                    <td style="padding:0.5rem;">Inside a grammar-box, used to completely hide empty table headers <code>| | |</code>.</td>
+                </tr>
+            </table>
+
+            <h3 style="margin-top:1.5rem; color:var(--color-slate, #48626e);">4. Inline Extensions</h3>
+            <ul style="line-height:1.6; padding-left:1.5rem;">
+                <li><code>⟪...⟫</code>: Wraps genuine Devanāgarī text and enforces Sanskrit styling (e.g., <code>⟪देव⟫</code>).</li>
+                <li><code>[[br]]</code> or <code>:br</code>: Forces a safe line break inside Markdown table cells without breaking the table structure.</li>
+                <li><code>:indent</code> or <code>[[indent]]</code>: Creates an empty placeholder span for inline indentations within tables.</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- SAVE MODAL -->
+    <div id="save-modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(3,25,46,0.8); z-index:10000; justify-content:center; align-items:center; backdrop-filter:blur(4px);">
+        <div style="background:var(--color-parchment, #fcf9f2); color:var(--color-ink, #03192e); width:90%; max-width:600px; border-radius:12px; padding:2rem; box-shadow:0 10px 30px rgba(0,0,0,0.5); position:relative; font-family:'Inter', sans-serif;">
+            <button onclick="document.getElementById('save-modal').style.display='none'" style="position:absolute; top:1.5rem; right:1.5rem; background:none; border:none; font-size:2rem; cursor:pointer; color:var(--color-slate, #48626e); line-height:1;">&times;</button>
+            <h2 style="margin-top:0; border-bottom:2px solid var(--color-slate, #48626e); padding-bottom:0.5rem; font-family:'Newsreader', serif;">How would you like to save?</h2>
+            
+            <div style="display:flex; flex-direction:column; gap:1rem; margin-top:2rem;">
+                <!-- OPTION 1: DOWNLOAD & MAIL -->
+                <button onclick="document.getElementById('save-modal').style.display='none'; triggerDownloadAndMail();" style="display:flex; flex-direction:column; align-items:flex-start; background:#eab308; color:#03192e; border:none; padding:1rem 1.5rem; border-radius:8px; cursor:pointer; text-align:left; transition:opacity 0.2s;" onmouseover="this.style.opacity=0.9" onmouseout="this.style.opacity=1">
+                    <strong style="font-size:1.1rem; margin-bottom:0.25rem;">1. Download & Email to Webmaster</strong>
+                    <span style="font-size:0.9rem; opacity:0.9;">Downloads the file. Send this to webmaster@birchville.cc. (Changes are only visible once pushed). Standard option for external authors.</span>
+                </button>
+
+                <!-- OPTION 2: LOCAL REPO -->
+                <button onclick="document.getElementById('save-modal').style.display='none'; triggerSaveLocal();" style="display:flex; flex-direction:column; align-items:flex-start; background:var(--color-slate, #48626e); color:#fcf9f2; border:none; padding:1rem 1.5rem; border-radius:8px; cursor:pointer; text-align:left; transition:opacity 0.2s;" onmouseover="this.style.opacity=0.9" onmouseout="this.style.opacity=1">
+                    <strong style="font-size:1.1rem; margin-bottom:0.25rem;">2. Write directly to cloned Repo</strong>
+                    <span style="font-size:0.9rem; opacity:0.9;">Writes directly to your hard drive via the browser API. (Changes instantly visible in the live preview). Only works if the local dev server is running.</span>
+                </button>
+            </div>
+        </div>
+    </div>
 </body>
 
 </html>
