@@ -537,16 +537,7 @@ html {
   font-style: normal !important;
 }
 
-/* SignalRot: Sanskrit-Devanagari in erster Tabellenspalte (später in glossar.py auf alle Devanagari-Spalten erweiterbar) */
-.vp-doc table td:nth-child(1) {
-  color: #b22222 !important;
-  font-style: normal !important;
-}
 
-.dark .vp-doc table td:nth-child(1) {
-  color: #8b1a1a !important;
-  font-style: normal !important;
-}
 
 /* Hindi-Devanagari (Spalte 4) explizit schwarz */
 .vp-doc table td:nth-child(4) {
