@@ -3,10 +3,6 @@ name: Multi-Platform Docker Build
 on:
   push:
     tags: [ 'v*.*.*' ]
-    paths:
-      - 'docs/**'
-      - 'package*.json'
-      - 'Dockerfile'
 
 env:
   REGISTRY: ghcr.io
