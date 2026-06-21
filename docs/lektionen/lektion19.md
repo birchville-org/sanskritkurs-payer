@@ -67,16 +67,16 @@ Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstel
 
 **⟪यद्⟫ "welcher, welche, welches" dekliniert wie ⟪तद्⟫, aber mit regelmäßigem Sandhi.**
 
-| | | **Maskulinum**:br**⟪पुंस्⟫** | **Neutrum**:br**⟪नपुंसक⟫** | **Femininum**:br**⟪स्त्री⟫** |
+| | | **Maskulinum** :br **⟪पुंस्⟫** | **Neutrum** :br **⟪नपुंसक⟫** | **Femininum** :br **⟪स्त्री⟫** |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**:br**⟪एकवचन⟫** | **1. Nominativ**:br**⟪प्रथमा⟫** | **yas**:br**⟪यस्⟫** | **yad**:br**⟪यद्⟫** | **yā**:br**⟪या⟫** |
-| | **2. Akkusativ**:br**⟪द्वितीया⟫** | **yam**:br**⟪यम्⟫** | **yad**:br**⟪यद्⟫** | **yām**:br**⟪याम्⟫** |
-| | **3. Instrumentalis**:br**⟪तृतीया⟫** | **yena**:br**⟪येन⟫** | **yena**:br**⟪येन⟫** | **yayā**:br**⟪यया⟫** |
-| | **6. Genetiv**:br**⟪षष्ठी⟫** | **yasya**:br**⟪यस्य⟫** | **yasya**:br**⟪यस्य⟫** | **yasyās**:br**⟪यस्यास्⟫** |
-| **Plural**:br**⟪बहुवचन⟫** | **1. Nominativ**:br**⟪प्रथमा⟫** | **ye**:br**⟪ये⟫** | **yāni**:br**⟪यानि⟫** | **yās**:br**⟪यास्⟫** |
-| | **2. Akkusativ**:br**⟪द्वितीया⟫** | **yān**:br**⟪यान्⟫** | **yāni**:br**⟪यानि⟫** | **yās**:br**⟪यास्⟫** |
-| | **3. Instrumentalis**:br**⟪तृतीया⟫** | **yais**:br**⟪यैस्⟫** | **yais**:br**⟪यैस्⟫** | **yābhis**:br**⟪याभिस्⟫** |
-| | **6. Genetiv**:br**⟪षष्ठी⟫** | **yeṣām**:br**⟪येषाम्⟫** | **yeṣām**:br**⟪येषाम्⟫** | **yāsām**:br**⟪यासाम्⟫** |
+| **Singular** :br **⟪एकवचन⟫** | **1. Nominativ** :br **⟪प्रथमा⟫** | **yas** :br **⟪यस्⟫** | **yad** :br **⟪यद्⟫** | **yā** :br **⟪या⟫** |
+| | **2. Akkusativ** :br **⟪द्वितीया⟫** | **yam** :br **⟪यम्⟫** | **yad** :br **⟪यद्⟫** | **yām** :br **⟪याम्⟫** |
+| | **3. Instrumentalis** :br **⟪तृतीया⟫** | **yena** :br **⟪येन⟫** | **yena** :br **⟪येन⟫** | **yayā** :br **⟪यया⟫** |
+| | **6. Genetiv** :br **⟪षष्ठी⟫** | **yasya** :br **⟪यस्य⟫** | **yasya** :br **⟪यस्य⟫** | **yasyās** :br **⟪यस्यास्⟫** |
+| **Plural** :br **⟪बहुवचन⟫** | **1. Nominativ** :br **⟪प्रथमा⟫** | **ye** :br **⟪ये⟫** | **yāni** :br **⟪यानि⟫** | **yās** :br **⟪यास्⟫** |
+| | **2. Akkusativ** :br **⟪द्वितीया⟫** | **yān** :br **⟪यान्⟫** | **yāni** :br **⟪यानि⟫** | **yās** :br **⟪यास्⟫** |
+| | **3. Instrumentalis** :br **⟪तृतीया⟫** | **yais** :br **⟪यैस्⟫** | **yais** :br **⟪यैस्⟫** | **yābhis** :br **⟪याभिस्⟫** |
+| | **6. Genetiv** :br **⟪षष्ठी⟫** | **yeṣām** :br **⟪येषाम्⟫** | **yeṣām** :br **⟪येषाम्⟫** | **yāsām** :br **⟪यासाम्⟫** |
 
 **Als Vorderglied von Komposita erscheint der Stamm ⟪यद्⟫ (unter Beachtung des Sandhi).**
 

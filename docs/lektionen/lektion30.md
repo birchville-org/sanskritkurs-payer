@@ -130,7 +130,7 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 
 | |3. Person Singular|3. Person Plural|
 | :--- | :--- | :--- |
-|**Parasmaipada**|**-t**|athematische Klassen: **-an** oder **-ur**:brOptativ: **-ur**|
+|**Parasmaipada**|**-t**|athematische Klassen: **-an** oder **-ur** :brOptativ: **-ur**|
 |**Ātmanepada**|**-ta**|athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran**|
 
 :::
@@ -249,7 +249,7 @@ Beispiele:
 
 :::
 
-**kṛ**:br(⟪कृ⟫)
+**kṛ** :br(⟪कृ⟫)
 
 ::: grammar-box
 

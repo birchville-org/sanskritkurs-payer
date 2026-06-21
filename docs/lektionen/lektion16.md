@@ -196,10 +196,10 @@ Verwenden Sie dazu folgendes Schema, das der Reihenfolge der Kasus bei den indis
 
 | Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
-| **⟪१⟫. ⟪प्रथमा⟫**:brNominativ | **⟪१⟫. ⟪प्रथमा⟫** |
-| **⟪२⟫. ⟪द्वितीया⟫**:brAkkusativ | **⟪२⟫. ⟪द्वितीया⟫** |
-| **⟪३⟫. ⟪तृतीया⟫**:brInstrumentalis | **⟪३⟫. ⟪तृतीया⟫** |
-| **⟪६⟫. ⟪षष्ठी⟫**:brGenetiv | **⟪६⟫. ⟪षष्ठी⟫** |
+| **⟪१⟫. ⟪प्रथमा⟫** :brNominativ | **⟪१⟫. ⟪प्रथमा⟫** |
+| **⟪२⟫. ⟪द्वितीया⟫** :brAkkusativ | **⟪२⟫. ⟪द्वितीया⟫** |
+| **⟪३⟫. ⟪तृतीया⟫** :brInstrumentalis | **⟪३⟫. ⟪तृतीया⟫** |
+| **⟪६⟫. ⟪षष्ठी⟫** :brGenetiv | **⟪६⟫. ⟪षष्ठी⟫** |
 
 Lernen Sie die Deklinationsmuster nach diesen Beispielen auswendig!!!
 

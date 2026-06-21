@@ -89,8 +89,8 @@ Beispiele:
 ::: grammar-box
 | | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-| **Parasmaipada n.**:br⟪परस्मैपद⟫ | **-ti**:br-⟪ति⟫ | **-nti**:br-⟪न्ति⟫ |
-| **Ātmanepada n.**:br⟪आत्मनेपद⟫ | **-te**:br-⟪ते⟫ | **-nte**:br-⟪न्ते⟫ |
+| **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
+| **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
 :::
 
 Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
@@ -111,8 +111,8 @@ Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
 
 | Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
 | :--- | :--- |
-| **viś**:br⟪विश्⟫ | **viśa-**:br⟪विश⟫- |
-| **sṛj**:br⟪सृज्⟫ | **sṛja-**:br⟪सृज⟫- |
+| **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
+| **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
 :::
 
 ### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
@@ -121,12 +121,12 @@ Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
 | Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a- ||||
 | Wurzel (dhātu m.):br⟪धातु⟫ | Hochstufe | Hochstufe vor a- | Präsensstamm |
 | :--- | :--- | :--- | :--- |
-| **bhū**:br⟪भू⟫ | **bho**:br⟪भो⟫ | **bhav**:br⟪भव्⟫ | **bhava-**:br⟪भव⟫- |
-| **nī**:br⟪नी⟫ | **ne**:br⟪ने⟫ | **nay**:br⟪नय्⟫ | **naya-**:br⟪नय⟫- |
-| **smṛ**:br⟪स्मृ⟫ | **smar**:br⟪स्मर्⟫ | **smar**:br⟪स्मर्⟫ | **smara-**:br⟪स्मर⟫- |
-| **yaj**:br⟪यज्⟫ | **yaj**:br⟪यज्⟫ | **yaj**:br⟪यज्⟫ | **yaja-**:br⟪यज⟫- |
+| **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
+| **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
+| **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
+| **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
 | Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Bildung der Hochstufe ||||
-| **nind**:br⟪निन्द्⟫ | **nind**:br⟪निन्द्⟫ | **nind**:br⟪निन्द्⟫ | **ninda-**:br⟪निन्द⟫- |
+| **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 
 #### 6.5.2.1. Wortsandhi von e und o
@@ -151,10 +151,10 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 
 | Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
 | :--- | :--- |
-| **nṛt**:br⟪नृत्⟫ | **nṛtya-**:br⟪नृत्य⟫- |
-| **muh**:br⟪मुह्⟫ | **muhya-**:br⟪मुह्य⟫- |
-| **yudh**:br⟪युध्⟫ | **yudhya-**:br⟪युध्य⟫- |
-| **man**:br⟪मन्⟫ | **manya-**:br⟪मन्य⟫- |
+| **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
+| **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
+| **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
+| **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
 
 ### 6.5.4. Themavokal, thematische Präsensklassen

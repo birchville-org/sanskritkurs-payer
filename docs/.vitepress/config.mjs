@@ -146,19 +146,13 @@ he.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'he', 10
 const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
 const allLocales = [de, en, it, ru, uk, fr, es, ta, pa, ro, id, he];
 
-if (!isAuthorBuild) {
-  for (const localeObj of allLocales) {
-    if (localeObj.themeConfig && localeObj.themeConfig.nav) {
-      localeObj.themeConfig.nav = localeObj.themeConfig.nav.filter(item => item.text !== 'QA');
-    }
-  }
-} else {
-  for (const localeObj of allLocales) {
-    if (localeObj.themeConfig && localeObj.themeConfig.nav) {
-      localeObj.themeConfig.nav.push({ text: 'Author Logout', link: 'https://auth.birchville.cc/logout', target: '_self' });
-    }
-  }
-}
+// if (!isAuthorBuild) {
+//   for (const localeObj of allLocales) {
+//     if (localeObj.themeConfig && localeObj.themeConfig.nav) {
+//       localeObj.themeConfig.nav = localeObj.themeConfig.nav.filter(item => item.text !== 'QA');
+//     }
+//   }
+// }
 
 export default defineConfig({
   title: "Sanskritkurs",

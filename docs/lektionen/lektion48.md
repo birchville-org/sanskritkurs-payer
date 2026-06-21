@@ -35,9 +35,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
-| **2. Person**:br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3. Person**:br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br***3.Kl.: -atu***:br(aus. -\*ntu) | \-atām:br(aus: -\*ntām) |
+| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
+| **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br ***3.Kl.: -atu*** :br(aus. -\*ntu) | \-atām:br(aus: -\*ntām) |
 :::
 
 Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll. -tāt tritt (auch in der 3.sg.P) an den schwachen Stamm.
@@ -70,9 +70,9 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
-| **2. Person**:br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
-| **3. Person**:br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
 :::
 
 ⟪आस्⟫ 2Ā
@@ -81,9 +81,9 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
-| **2. Person**:br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
-| **3. Person**:br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
 :::
 
 ⟪दुह्⟫ 2U
@@ -92,9 +92,9 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
-| **2. Person**:br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
-| **3. Person**:br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
 :::
 
 ⟪इ⟫ 2P
@@ -103,9 +103,9 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
-| **2. Person**:br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
-| **3. Person**:br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
 :::
 
 ⟪शी⟫ 2Ā (immer hochstufig!)
@@ -114,9 +114,9 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
-| **2. Person**:br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
-| **3. Person**:br⟪प्रथमः⟫ | ⟪शेताम्⟫ | ***⟪शेरताम्⟫*** |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | ***⟪शेरताम्⟫*** |
 :::
 
 ⟪हन्⟫ 2P
@@ -125,9 +125,9 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
-| **2. Person**:br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(aus: \*hn-ta) |
-| **3. Person**:br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(aus: \*hn-ta) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
 
 Anm.: ¹ Erklärung von **⟪जहि⟫** siehe Thumb-Hauschild I,2 S. 253
 :::
@@ -138,9 +138,9 @@ Anm.: ¹ Erklärung von **⟪जहि⟫** siehe Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
-| **2. Person**:br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br***⟪स्तुवीहि⟫*** | ⟪स्तुत⟫:br***⟪स्तुवीत⟫*** | ⟪स्तुष्व⟫:br***⟪स्तुवीष्व⟫*** | ⟪स्तुध्वम्⟫:br***⟪स्तुवीध्वम्⟫*** |
-| **3. Person**:br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br***⟪स्तवीतु⟫*** | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br***⟪स्तुवीताम्⟫*** | ⟪स्तुवताम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br ***⟪स्तुवीहि⟫*** | ⟪स्तुत⟫:br ***⟪स्तुवीत⟫*** | ⟪स्तुष्व⟫:br ***⟪स्तुवीष्व⟫*** | ⟪स्तुध्वम्⟫:br ***⟪स्तुवीध्वम्⟫*** |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br ***⟪स्तवीतु⟫*** | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br ***⟪स्तुवीताम्⟫*** | ⟪स्तुवताम्⟫ |
 :::
 
 ⟪अस्⟫ 2P
@@ -149,9 +149,9 @@ Anm.: ¹ Erklärung von **⟪जहि⟫** siehe Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
-| **2. Person**:br⟪मध्यमः⟫ | ***⟪एधि⟫***:br(aus: \*s-dhi) | ⟪स्त⟫ |
-| **3. Person**:br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ***⟪एधि⟫*** :br(aus: \*s-dhi) | ⟪स्त⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
 :::
 
 ⟪शास्⟫ 2P
@@ -160,9 +160,9 @@ Anm.: ¹ Erklärung von **⟪जहि⟫** siehe Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
-| **2. Person**:br⟪मध्यमः⟫ | ***⟪शाधि⟫***:br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
-| **3. Person**:br⟪प्रथमः⟫ | ⟪शास्तु⟫ | ***⟪शासतु⟫***:brunregelm. hochstufig |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ***⟪शाधि⟫*** :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | ***⟪शासतु⟫*** :brunregelm. hochstufig |
 :::
 
 ### 48.2.4. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
@@ -177,9 +177,9 @@ Anm.: ¹ Erklärung von **⟪जहि⟫** siehe Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | &lt;⟪जुहवै⟫&gt; | &lt;⟪जुहवामहै⟫&gt; |
-| **2. Person**:br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmäßig¹ | ⟪जुहुत⟫ | &lt;⟪जुहुष्व⟫&gt; | &lt;⟪जुहुध्वम्⟫&gt; |
-| **3. Person**:br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | &lt;⟪जुहुताम्⟫&gt; | &lt;⟪जुह्वताम्⟫&gt; |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | &lt;⟪जुहवै⟫&gt; | &lt;⟪जुहवामहै⟫&gt; |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmäßig¹ | ⟪जुहुत⟫ | &lt;⟪जुहुष्व⟫&gt; | &lt;⟪जुहुध्वम्⟫&gt; |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | &lt;⟪जुहुताम्⟫&gt; | &lt;⟪जुह्वताम्⟫&gt; |
 
 Anm.: ¹ Dissimilation, sodass nicht zwei Silben mit **⟪ह्⟫** aufeinanderfolgen.
 :::
@@ -190,9 +190,9 @@ Anm.: ¹ Dissimilation, sodass nicht zwei Silben mit **⟪ह्⟫** aufeinande
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
-| **2. Person**:br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
-| **3. Person**:br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
 
 Anm.: ¹ **⟪धेहि⟫** aus \*dhazdhi: Wegfall des indogermanischen Zischlauts z unter Ersatzdehnung; s. Thumb-Hauschild I,1 S. 302
 :::
@@ -203,9 +203,9 @@ Anm.: ¹ **⟪धेहि⟫** aus \*dhazdhi: Wegfall des indogermanischen Zisc
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Person**:br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
-| **2. Person**:br⟪मध्यमः⟫ | ***⟪जहाहि⟫***:brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
-| **3. Person**:br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ***⟪जहाहि⟫*** :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
 
 ## 48.3. Zur Nominalbildung: ⟪तद्धित⟫-Suffixe -a und -ya
@@ -245,8 +245,8 @@ Beispiele:
 | :---: | :--- |
 | **\-ṛ** | **\-a** tritt in der Regel an den Auslaut **\-r**::brz.B. **⟪जेतृ⟫** "Sieger" » **⟪जैत्र⟫** 3 "siegreich" |
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. |
-| **\-i** | Wegfall des **\-i**:brz.B. **⟪प्रकृति⟫** f. "Natur" » **⟪प्राकृत⟫** 3 "natürlich, normal, üblich, vulgär" |
-| **\-u** | meistens: **\-av-a**:brz.B. **⟪गुरु⟫** 3 "schwer"; m. "Meister, Lehrer" » **⟪गौरव⟫** 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
+| **\-i** | Wegfall des **\-i** :brz.B. **⟪प्रकृति⟫** f. "Natur" » **⟪प्राकृत⟫** 3 "natürlich, normal, üblich, vulgär" |
+| **\-u** | meistens: **\-av-a** :brz.B. **⟪गुरु⟫** 3 "schwer"; m. "Meister, Lehrer" » **⟪गौरव⟫** 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
 | **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
 
 Vor dem Suffix **-ya** wird der Stammauslaut ähnlich wie vor dem Suffix **-a** behandelt.

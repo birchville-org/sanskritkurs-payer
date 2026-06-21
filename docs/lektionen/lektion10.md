@@ -69,42 +69,42 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 
 | | Instrumentalis Singular | Instrumentalis Plural |
 | :--- | :--- | :--- |
-| **Feminina auf -i**::brśruti:br⟪श्रुति⟫ | **śruty-ā**:br⟪श्रुत्या⟫ | **śruti-bhis**:br⟪श्रुतिभिस्⟫ |
-| **Feminina auf -ī**::brdevī:br⟪देवी⟫ | **devy-ā**:br⟪देव्या⟫ | **devī-bhis**:br⟪देवीभिस्⟫ |
-| **Feminina auf -u**::brdhenu:br⟪धेनु⟫ | **dhenv-ā**:br⟪धेन्वा⟫ | **dhenu-bhis**:br⟪धेनुभिस्⟫ |
+| **Feminina auf -i**::brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
+| **Feminina auf -ī**::brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
+| **Feminina auf -u**::brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
 
 **Unregelmäßige Bildungen (Singular):**
 
 | | Instrumentalis Singular | Instrumentalis Plural |
 | :--- | :--- | :--- |
-| **Maskulina auf -i**::brkavi:br⟪कवि⟫ | **kavi-n-ā**:br⟪कविना⟫ | **kavi-bhis**:br⟪कविभिस्⟫ |
-| **Maskulina auf -u**::brpaśu:br⟪पशु⟫ | **paśu-n-ā**:br⟪पशुना⟫ | **paśu-bhis**:br⟪पशुभिस्⟫ |
-| **Feminina auf -ā**::brdevatā:br⟪देवता⟫ | **devat-ay-ā**:br⟪देवतया⟫ | **devatā-bhis**:br⟪देवताभिस्⟫ |
+| **Maskulina auf -i**::brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
+| **Maskulina auf -u**::brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
+| **Feminina auf -ā**::brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
 **Maskulina und Neutra auf -a (unregelmäßig in Singular und Plural):**
 
 | | Instrumentalis Singular | Instrumentalis Plural |
 | :--- | :--- | :--- |
-| **Maskulina auf -a**::brdeva:br⟪देव⟫ | **devena**:br⟪देवेन⟫ | **devais**:br⟪देवैस्⟫ |
-| **Neutra auf -a**::brphala:br⟪फल⟫ | **phalena**:br⟪फलेन⟫ | **phalais**:br⟪फलैस्⟫ |
+| **Maskulina auf -a**::brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
+| **Neutra auf -a**::brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
 
 **Fragepronomen kim:**
 
 | | Instrumentalis Singular | Instrumentalis Plural |
 | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **kena**:br⟪केन⟫ | **kais**:br⟪कैस्⟫ |
-| **Femininum** | **kayā**:br⟪कया⟫ | **kābhis**:br⟪काभिस्⟫ |
+| **Maskulinum / Neutrum** | **kena** :br⟪केन⟫ | **kais** :br⟪कैस्⟫ |
+| **Femininum** | **kayā** :br⟪कया⟫ | **kābhis** :br⟪काभिस्⟫ |
 
 **Demonstrativpronomina:**
 
 | Pronomen | Genus | Instrumentalis Singular | Instrumentalis Plural |
 | :--- | :--- | :--- | :--- |
-| **tad**:br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena**:br⟪तेन⟫ | **tais**:br⟪तैस्⟫ |
-| | F | **tayā**:br⟪तया⟫ | **tābhis**:br⟪ताभिस्⟫ |
-| **etad**:br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena**:br⟪एतेन⟫ / ⟪एनेन⟫ | **etais**:br⟪एतैस्⟫ |
-| | F | **etayā / enayā**:br⟪एतया⟫ / ⟪एनया⟫ | **etābhis**:br⟪एताभिस्⟫ |
-| **idam**:br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena**:br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis**:br⟪एभिस्⟫ |
-| | F | **anayā / enayā**:br⟪अनया⟫ / ⟪एनया⟫ | **ābhis**:br⟪आभिस्⟫ |
+| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
+| | F | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
+| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
+| | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
+| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
+| | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
 ::: deleteme-box
@@ -126,7 +126,7 @@ Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepr
 2. **zur Angabe des Mittels oder Werkzeugs, mit dem etwas vollbracht wird**
 3. **zur Angabe des Weges, auf dem jemand wohin gelangt**
 4. **zum Ausdruck der Verbindung, Vereinigung, Begleitung von**
-5. **bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. saha = ⟪सह⟫ = "mit"**:brz.B.:br**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "gemeinsam mit dem Brahmanen"
+5. **bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. saha = ⟪सह⟫ = "mit"** :brz.B.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "gemeinsam mit dem Brahmanen"
 :::
 
 Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
@@ -144,11 +144,11 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 ::: grammar-box
 | | Instrumentalis Singular |
 | :--- | :--- |
-| **guru**:br⟪गुरु⟫ | **guruṇā**:br⟪गुरुणा⟫ |
-| **śūdra**:br⟪शूद्र⟫ | **śūdreṇa**:br⟪शूद्रेण⟫ |
-| **īśvara**:br⟪ईश्वर⟫ | **īśvereṇa**:br⟪ईश्वरेण⟫ |
-| **kṣatriya**:br⟪क्षत्रिय⟫ | **kṣatriyeṇa**:br⟪क्षत्रियेण⟫ |
-| **naraka**:br⟪नरक⟫ | **narakeṇa**:br⟪नरकेण⟫ |
+| **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
+| **śūdra** :br⟪शूद्र⟫ | **śūdreṇa** :br⟪शूद्रेण⟫ |
+| **īśvara** :br⟪ईश्वर⟫ | **īśvereṇa** :br⟪ईश्वरेण⟫ |
+| **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
+| **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
 :::
 
 **So ist auch das -ṇ- zu erklären in:**
@@ -177,9 +177,9 @@ z.B.
 
 | Wurzel:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
-| **nī**:br1 U:br(nayati) | **nīyate**:br(⟪नीयते⟫):br"er wird geführt" | **nīyante**:br(⟪नीयन्ते⟫) |
-| **man**:br4 Ā:br(manyate) | **manyate**:br(⟪मन्यते⟫):br"er wird gedacht" | **manyante**:br(⟪मन्यन्ते⟫) |
-| **viś**:br6 P:br(viśati) | **viśyate**:br(⟪विश्यते⟫):br"es wird betreten" | **viśyante**:br(⟪विश्यन्ते⟫) |
+| **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"er wird geführt" | **nīyante** :br(⟪नीयन्ते⟫) |
+| **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
+| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
 **Beachten Sie, dass bei Verben der 4. Präsensklasse das Ātmanepada und das Passiv identische Formen haben! Ob Ātmanepada oder Passiv vorliegt, lässt sich in diesem Fall nur aus der Satzkonstruktion erschließen.**
 
@@ -188,39 +188,39 @@ z.B.
 ### 10.4.1. Sonderregeln zur Bildung des Passiv
 
 1. **Wurzeln auf -i oder -u** dehnen ihren Vokal vor dem Passivsuffix **-ya-**:
-   * **ji** 1 P: **jīyate**, **jīyante**:br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 P: **śrūyate**, **śrūyante**:br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 U: **sūyate**, **sūyante**:br⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
+   * **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **Wurzeln mit -a- zwischen Konsonanten** (außer Nasalen, y, r, v) bleiben hochstufig:
-   * **labh** 1 Ā: **labhyate**, **labhyante**:br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Einige Wurzeln bilden ihr Passiv hochstufig** (oder in der Ablautstufe des Präsensstamms):
-   * **āp** 5 P: **āpyate**, **āpyante**:br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante**:br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante**:br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
+   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **Tiefstufe von Verben, die mit ya, va, ra beginnen, bzw. bei denen diese Laute nach einem anderen Konsonanten stehen (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
    | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
    | :--- | :--- | :--- |
-   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate**:br⟪इज्यते⟫:br**ijyante**:br⟪इज्यन्ते⟫ |
-   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate**:br⟪उद्यते⟫:br**udyante**:br⟪उद्यन्ते⟫ |
-   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate**:br⟪पृच्छ्यते⟫:br**pṛcchyante**:br⟪पृच्छ्यन्ते⟫ |
+   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
    Die traditionelle einheimische Bezeichnung für diese Bildung der Tiefstufe bei Verben mit **ya** bzw. **va** ist **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **Auslautendes -ṛ** nach einem einzigen Konsonanten wird vor dem Passivsuffix **-ya-** durch **-ri-** ersetzt:
-   * **kṛ** 8 U: **kriyate**, **kriyante**:br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * Aber: **smṛ** 1 P: **smaryate**:br⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
+   * Aber: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
 
 6. **Einige Wurzeln auf -an haben alternativ zwei Passivstamm-Bildungen:**
    * eine **-an-ya**
    * eine **-ā-ya-** (das lange **ā** ist ein Vertreter für einen hypothetischen langen Nasal)
 
    z.B. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte**:br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte**:br⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
+   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
+   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
 
 ---
 

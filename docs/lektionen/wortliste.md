@@ -584,50 +584,50 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 | Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
-| **aś** 5 Ā:br⟪अश्⟫ | **aśyate**:br⟪अश्यते⟫ | **aṣṭa**:br⟪अष्ट⟫ |
-| **āp** 5 P:br⟪आप्⟫ | **āpyate**:br⟪आप्यते⟫ | **āpta**:br⟪आप्त⟫ |
-| **as** 2 P:br⟪अस्⟫ | — | **bhūta**:br⟪भूत⟫ |
-| **bhaj** 1 U:br⟪भज्⟫ | **bhajyate**:br⟪भज्यते⟫ | **bhakta**:br⟪भक्त⟫ |
-| **bhū** 1 P:br⟪भू⟫ | **bhūyate**:br⟪भूयते⟫ | **bhūta**:br⟪भूत⟫ |
-| **budh** 4 Ā / 1 U:br⟪बुध्⟫ | **budhyate**:br⟪बुध्यते⟫ | **buddha**:br⟪बुद्ध⟫ |
-| **dah** 1 P:br⟪दह्⟫ | **dahyate**:br⟪दह्यते⟫ | **dagdha**:br⟪दग्ध⟫ |
-| **div** 4 P:br⟪दिव्⟫ | **dīvyate**:br⟪दीव्यते⟫ | **dyūta**:br⟪द्यूत⟫ |
-| **dṛś**:br⟪दृश्⟫ | **dṛśyate**:br⟪दृश्यते⟫ | **dṛṣṭa**:br⟪दृष्ट⟫ |
-| **gam** 1 P:br⟪गम्⟫ | **gamyate**:br⟪गम्यते⟫ | **gata**:br⟪गत⟫ |
-| **grah** 9 U:br⟪ग्रह्⟫ | **gṛhyate**:br⟪गृह्यते⟫ | **gṛhīta**:br⟪गृहीत⟫ |
-| **hṛ** 1 U:br⟪हृ⟫ | **hriyate**:br⟪ह्रियते⟫ | **hṛta**:br⟪हृत⟫ |
-| **i** 2 P:br⟪इ⟫ | **īyate**:br⟪ईयते⟫ | **ita**:br⟪इत⟫ |
-| **iṣ** 6 P:br⟪इष्⟫ | **iṣyate**:br⟪इष्यते⟫ | **iṣṭa**:br⟪इष्ट⟫ |
-| **jan** 4 Ā:br⟪जन्⟫ | **janyate**:br⟪जन्यते⟫ | **jāta**:br⟪जात⟫ |
-| **ji** 1 P:br⟪जि⟫ | **jīyate**:br⟪जीयते⟫ | **jita**:br⟪जित⟫ |
-| **kath** 10 U:br⟪कथ्⟫ | **kathyate**:br⟪कथ्यते⟫ | **kathita**:br⟪कथित⟫ |
-| **khād** 1 P:br⟪खाद्⟫ | **khādyate**:br⟪खाद्यते⟫ | **khādita**:br⟪खादित⟫ |
-| **kṛ** 8 U:br⟪कृ⟫ | **kriyate**:br⟪क्रियते⟫ | **kṛta**:br⟪कृत⟫ |
-| **krudh** 4 P:br⟪क्रुध्⟫ | **krudhyate**:br⟪क्रुध्यते⟫ | **kruddha**:br⟪क्रुद्ध⟫ |
-| **kup** 4 P:br⟪कुप्⟫ | **kupyate**:br⟪कुप्यते⟫ | **kupita**:br⟪कुपित⟫ |
-| **labh** 1 Ā:br⟪लभ्⟫ | **labhyate**:br⟪लभ्यते⟫ | **labdha**:br⟪लब्ध⟫ |
-| **man** 4 Ā:br⟪मन्⟫ | **manyate**:br⟪मन्यते⟫ | **mata**:br⟪मत⟫ |
-| **mṛ** 6 Ā:br⟪मृ⟫ | **mriyate**:br⟪म्रियते⟫ | **mṛta**:br⟪मृत⟫ |
-| **muc** 6 U:br⟪मुच्⟫ | **mucyate**:br⟪मुच्यते⟫ | **mukta**:br⟪मुक्त⟫ |
-| **nī** 1 U:br⟪नी⟫ | **nīyate**:br⟪नीयते⟫ | **nīta**:br⟪नीत⟫ |
-| **paś**:br⟪पश्⟫ | **(dṛśyate)**:br⟪दृश्यते⟫ | **(dṛṣṭa)**:br⟪दृष्ट⟫ |
-| **pat** 1 P:br⟪पत्⟫ | **patyate**:br⟪पत्यते⟫ | **patita**:br⟪पतित⟫ |
-| **prach** 6 P:br⟪प्रच्छ्⟫ | **pṛcchyate**:br⟪पृच्छ्यते⟫ | **pṛṣṭa**:br⟪पृष्ट⟫ |
-| **pūj** 10 U:br⟪पूज्⟫ | **pūjyate**:br⟪पूज्यते⟫ | **pūjita**:br⟪पूजित⟫ |
-| **rakṣ** 1 P:br⟪रक्ष्⟫ | **rakṣyate**:br⟪रक्ष्यते⟫ | **rakṣita**:br⟪रक्षित⟫ |
-| **ram** 1 Ā:br⟪रम्⟫ | **ramyate**:br⟪रम्यते⟫ | **rata**:br⟪रत⟫ |
-| **sah** 1 Ā:br⟪सह्⟫ | **sahyate**:br⟪सह्यते⟫ | **soḍha**:br⟪सोढ⟫ |
-| **sic** 6 U:br⟪सिच्⟫ | **sicyate**:br⟪सिच्यते⟫ | **sikta**:br⟪सिक्त⟫ |
-| **śru** 5 P:br⟪श्रु⟫ | **śrūyate**:br⟪श्रूयते⟫ | **śruta**:br⟪श्रुत⟫ |
-| **su** 5 U:br⟪सु⟫ | **sūyate**:br⟪सूयते⟫ | **suta**:br⟪सुत⟫ |
-| **svap** 2 P:br⟪स्वप्⟫ | **supyate**:br⟪सुप्यते⟫ | **supta**:br⟪सुप्त⟫ |
-| **tyaj** 1 P:br⟪त्यज्⟫ | **tyajyate**:br⟪त्यज्यते⟫ | **tyakta**:br⟪त्यक्त⟫ |
-| **uch**:br⟪उछ्⟫ | — | **uṣita**:br⟪उषित⟫ |
-| **vad** 1 P:br⟪वद्⟫ | **udyate**:br⟪उद्यते⟫ | **udita**:br⟪उदित⟫ |
-| **vas** 1 P:br⟪वस्⟫ | **uṣyate**:br⟪उष्यते⟫ | **uṣita**:br⟪उषित⟫ |
-| **vadh**:br⟪वध्⟫ | **vadyate**:br⟪वद्यते⟫ | **hata**:br⟪हत⟫ |
-| **yaj** 1 U:br⟪यज्⟫ | **ijyate**:br⟪इज्यते⟫ | **iṣṭa**:br⟪इष्ट⟫ |
-| **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate**:br⟪युध्यते⟫ | **yuddha**:br⟪युद्ध⟫ |
+| **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
+| **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
+| **as** 2 P:br⟪अस्⟫ | — | **bhūta** :br⟪भूत⟫ |
+| **bhaj** 1 U:br⟪भज्⟫ | **bhajyate** :br⟪भज्यते⟫ | **bhakta** :br⟪भक्त⟫ |
+| **bhū** 1 P:br⟪भू⟫ | **bhūyate** :br⟪भूयते⟫ | **bhūta** :br⟪भूत⟫ |
+| **budh** 4 Ā / 1 U:br⟪बुध्⟫ | **budhyate** :br⟪बुध्यते⟫ | **buddha** :br⟪बुद्ध⟫ |
+| **dah** 1 P:br⟪दह्⟫ | **dahyate** :br⟪दह्यते⟫ | **dagdha** :br⟪दग्ध⟫ |
+| **div** 4 P:br⟪दिव्⟫ | **dīvyate** :br⟪दीव्यते⟫ | **dyūta** :br⟪द्यूत⟫ |
+| **dṛś** :br⟪दृश्⟫ | **dṛśyate** :br⟪दृश्यते⟫ | **dṛṣṭa** :br⟪दृष्ट⟫ |
+| **gam** 1 P:br⟪गम्⟫ | **gamyate** :br⟪गम्यते⟫ | **gata** :br⟪गत⟫ |
+| **grah** 9 U:br⟪ग्रह्⟫ | **gṛhyate** :br⟪गृह्यते⟫ | **gṛhīta** :br⟪गृहीत⟫ |
+| **hṛ** 1 U:br⟪हृ⟫ | **hriyate** :br⟪ह्रियते⟫ | **hṛta** :br⟪हृत⟫ |
+| **i** 2 P:br⟪इ⟫ | **īyate** :br⟪ईयते⟫ | **ita** :br⟪इत⟫ |
+| **iṣ** 6 P:br⟪इष्⟫ | **iṣyate** :br⟪इष्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
+| **jan** 4 Ā:br⟪जन्⟫ | **janyate** :br⟪जन्यते⟫ | **jāta** :br⟪जात⟫ |
+| **ji** 1 P:br⟪जि⟫ | **jīyate** :br⟪जीयते⟫ | **jita** :br⟪जित⟫ |
+| **kath** 10 U:br⟪कथ्⟫ | **kathyate** :br⟪कथ्यते⟫ | **kathita** :br⟪कथित⟫ |
+| **khād** 1 P:br⟪खाद्⟫ | **khādyate** :br⟪खाद्यते⟫ | **khādita** :br⟪खादित⟫ |
+| **kṛ** 8 U:br⟪कृ⟫ | **kriyate** :br⟪क्रियते⟫ | **kṛta** :br⟪कृत⟫ |
+| **krudh** 4 P:br⟪क्रुध्⟫ | **krudhyate** :br⟪क्रुध्यते⟫ | **kruddha** :br⟪क्रुद्ध⟫ |
+| **kup** 4 P:br⟪कुप्⟫ | **kupyate** :br⟪कुप्यते⟫ | **kupita** :br⟪कुपित⟫ |
+| **labh** 1 Ā:br⟪लभ्⟫ | **labhyate** :br⟪लभ्यते⟫ | **labdha** :br⟪लब्ध⟫ |
+| **man** 4 Ā:br⟪मन्⟫ | **manyate** :br⟪मन्यते⟫ | **mata** :br⟪मत⟫ |
+| **mṛ** 6 Ā:br⟪मृ⟫ | **mriyate** :br⟪म्रियते⟫ | **mṛta** :br⟪मृत⟫ |
+| **muc** 6 U:br⟪मुच्⟫ | **mucyate** :br⟪मुच्यते⟫ | **mukta** :br⟪मुक्त⟫ |
+| **nī** 1 U:br⟪नी⟫ | **nīyate** :br⟪नीयते⟫ | **nīta** :br⟪नीत⟫ |
+| **paś** :br⟪पश्⟫ | **(dṛśyate)** :br⟪दृश्यते⟫ | **(dṛṣṭa)** :br⟪दृष्ट⟫ |
+| **pat** 1 P:br⟪पत्⟫ | **patyate** :br⟪पत्यते⟫ | **patita** :br⟪पतित⟫ |
+| **prach** 6 P:br⟪प्रच्छ्⟫ | **pṛcchyate** :br⟪पृच्छ्यते⟫ | **pṛṣṭa** :br⟪पृष्ट⟫ |
+| **pūj** 10 U:br⟪पूज्⟫ | **pūjyate** :br⟪पूज्यते⟫ | **pūjita** :br⟪पूजित⟫ |
+| **rakṣ** 1 P:br⟪रक्ष्⟫ | **rakṣyate** :br⟪रक्ष्यते⟫ | **rakṣita** :br⟪रक्षित⟫ |
+| **ram** 1 Ā:br⟪रम्⟫ | **ramyate** :br⟪रम्यते⟫ | **rata** :br⟪रत⟫ |
+| **sah** 1 Ā:br⟪सह्⟫ | **sahyate** :br⟪सह्यते⟫ | **soḍha** :br⟪सोढ⟫ |
+| **sic** 6 U:br⟪सिच्⟫ | **sicyate** :br⟪सिच्यते⟫ | **sikta** :br⟪सिक्त⟫ |
+| **śru** 5 P:br⟪श्रु⟫ | **śrūyate** :br⟪श्रूयते⟫ | **śruta** :br⟪श्रुत⟫ |
+| **su** 5 U:br⟪सु⟫ | **sūyate** :br⟪सूयते⟫ | **suta** :br⟪सुत⟫ |
+| **svap** 2 P:br⟪स्वप्⟫ | **supyate** :br⟪सुप्यते⟫ | **supta** :br⟪सुप्त⟫ |
+| **tyaj** 1 P:br⟪त्यज्⟫ | **tyajyate** :br⟪त्यज्यते⟫ | **tyakta** :br⟪त्यक्त⟫ |
+| **uch** :br⟪उछ्⟫ | — | **uṣita** :br⟪उषित⟫ |
+| **vad** 1 P:br⟪वद्⟫ | **udyate** :br⟪उद्यते⟫ | **udita** :br⟪उदित⟫ |
+| **vas** 1 P:br⟪वस्⟫ | **uṣyate** :br⟪उष्यते⟫ | **uṣita** :br⟪उषित⟫ |
+| **vadh** :br⟪वध्⟫ | **vadyate** :br⟪वद्यते⟫ | **hata** :br⟪हत⟫ |
+| **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
+| **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
 ---
 
@@ -1770,7 +1770,7 @@ Abb.: ⟪हिरण्यम्⟫
 **⟪वस्⟫** 1P (⟪वसति⟫): verweilen, wohnen (mit Lokativ der Person, bei der man wohnt)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫:br**Pass.:** ⟪उष्यते⟫:br**PPP:** ⟪उषित⟫:br**Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
 :::
 
 davon:
@@ -1786,7 +1786,7 @@ davon:
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): anziehen (Kleidung), tragen (Kleidung)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br**PPP:** ⟪वसित⟫:br**Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
 :::
 
 davon:
@@ -1820,7 +1820,7 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 **⟪हृ⟫** 1U (⟪हरति⟫): halten, tragen; holen, wegnehmen, rauben
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br**Pass.:** ⟪ह्रियते⟫:br**PPP:** ⟪हृत⟫:br**Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
 :::
 
 davon:
@@ -2721,9 +2721,9 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : verloren gehen, zugrundegehen, verschwinden
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**:br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
-**Kaus. ⟪नाशयति⟫**:br
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
+**Kaus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
 :::
 
@@ -2731,12 +2731,12 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : schreiten, gehen
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
-**Fut. ⟪क्रमिष्यति⟫**:br
-**Pass. ⟪क्रम्यते⟫**:br
-**Kaus. ⟪क्रमयति⟫**:br
-**PPP ***⟪क्रा⟫***⟪न्त⟫**:br
-**Inf. ⟪क्रमितुम्⟫**:br
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
+**Fut. ⟪क्रमिष्यति⟫** :br
+**Pass. ⟪क्रम्यते⟫** :br
+**Kaus. ⟪क्रमयति⟫** :br
+**PPP ***⟪क्रा⟫***⟪न्त⟫** :br
+**Inf. ⟪क्रमितुम्⟫** :br
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 
@@ -2749,11 +2749,11 @@ People walking, Senegal.
 
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
-**Fut. ⟪गास्यति⟫**:br
-**Pass. ⟪गीयते⟫**:br
-**Kaus. ⟪गापयति⟫**:br
-**PPP ⟪गीत⟫**:br
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
+**Fut. ⟪गास्यति⟫** :br
+**Pass. ⟪गीयते⟫** :br
+**Kaus. ⟪गापयति⟫** :br
+**PPP ⟪गीत⟫** :br
 **Inf. ⟪गातुम्⟫**
 
 davon:

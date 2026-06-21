@@ -164,12 +164,12 @@ entsprechende Pronominaladverbien ableiten.
 
 | Suffix | Pronominalstamm | | | |
 | :--- | :--- | :--- | :--- | :--- |
-| | **⟪तद्⟫** | **⟪इदम्⟫**:br**⟪अ⟫-** | **⟪यद्⟫** | **⟪किम्⟫**:br**⟪कु⟫-** |
-| **-⟪तस्⟫**:br(Ablativ) | **⟪ततस्⟫**:brvon da, darauf, deshalb | **⟪इतस्⟫**:br**⟪अतस्⟫**:brvon hier, dieserhalb | **⟪यतस्⟫**:brwoher, wovon | **⟪कुतस्⟫**:brwoher?, weshalb? |
-| **-⟪त्र⟫**:br(Lokativ) | **⟪तत्र⟫**:brda, dort | **⟪अत्र⟫**:brhier | **⟪यत्र⟫**:brwo | **⟪कुत्र⟫**:brwo? |
-| **-⟪था⟫**:br(Art und Weise) | **⟪तथा⟫**:brso | | **⟪यथा⟫**:brwie | |
-| **-⟪थम्⟫**:br(Art und Weise) | | | | **⟪कथम्⟫**:brwie? |
-| **-⟪दा⟫**:br(Zeit) | **⟪तदा⟫**:brdamals, dann | | **⟪यदा⟫**:brals | **⟪कदा⟫**:brwann? |
+| | **⟪तद्⟫** | **⟪इदम्⟫** :br **⟪अ⟫-** | **⟪यद्⟫** | **⟪किम्⟫** :br **⟪कु⟫-** |
+| **-⟪तस्⟫** :br(Ablativ) | **⟪ततस्⟫** :brvon da, darauf, deshalb | **⟪इतस्⟫** :br **⟪अतस्⟫** :brvon hier, dieserhalb | **⟪यतस्⟫** :brwoher, wovon | **⟪कुतस्⟫** :brwoher?, weshalb? |
+| **-⟪त्र⟫** :br(Lokativ) | **⟪तत्र⟫** :brda, dort | **⟪अत्र⟫** :brhier | **⟪यत्र⟫** :brwo | **⟪कुत्र⟫** :brwo? |
+| **-⟪था⟫** :br(Art und Weise) | **⟪तथा⟫** :brso | | **⟪यथा⟫** :brwie | |
+| **-⟪थम्⟫** :br(Art und Weise) | | | | **⟪कथम्⟫** :brwie? |
+| **-⟪दा⟫** :br(Zeit) | **⟪तदा⟫** :brdamals, dann | | **⟪यदा⟫** :brals | **⟪कदा⟫** :brwann? |
 
 ::::
 
