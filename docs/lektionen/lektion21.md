@@ -11,17 +11,20 @@ status: stable
 
 ## 21.1. Weitere Präsensstämme auf -nt
 
-### 21.1.1. Partizip Präsens (⟪लडादेशः⟫) Parasmaipada
+### 21.1.1. Partizip Präsens (लडादेशः) Parasmaipada
 
-::::grammar-box
+:::: grammar-box
 Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes Partizip. Es ist ein Adjektiv, das angibt, dass jemand oder etwas das durch die Verbalwurzel (+ Präverb) Ausgedrückte gerade tut, während etwas anderes geschieht. Auch ein dauernder Zustand kann damit ausgedrückt werden.
 
 **Beispiele:**
 
-:::indent
+::: indent
 "Während Vater liest, raucht er = der lesende Vater raucht"  
 "ein seiender (= wirklicher, echter) Freund"
-:::::::::::grammar-box
+:::
+::::
+
+:::: grammar-box
 
 | **Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:** |||
 | :--- | :--- | :--- |
@@ -29,255 +32,327 @@ Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes P
 | | **starker Stamm** | Präsensstamm + **-nt-** |
 | | **schwacher Stamm** | Präsensstamm + **-t-** |
 | **Femininum** | | |
-| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī**:br⟪देवी⟫) |
-| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī**:broder::brPräsensstamm + **-t-** + **-ī** |
+| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī**[[br]]देवी) |
+| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī**[[br]]oder:[[br]]Präsensstamm + **-t-** + **-ī** |
 
-::::Beispiele:
+::::
+
+
+Beispiele:
 
 1\. Präsensklasse:
 
-:::indent
-**yajant**:br⟪यजन्त्⟫ "ein mit einem Opfer verehrender"
-:::::::grammar-box
+::: indent
+**yajant**[[br]]यजन्त् "ein mit einem Opfer verehrender"
+:::
 
-| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
+:::: grammar-box
+
+| | | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**:br⟪एकवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪यजन्⟫**:braus yaja-nt-s | **⟪यजत्⟫**:bryaja-t-Ø | **⟪यजन्ती⟫**:bryaja-ant-ī |
-| | **2. Akkusativ**:br⟪द्वितीया⟫ | **⟪यजन्तम्⟫**:bryaja-nt-am | **⟪यजत्⟫** | wie **devī**:br⟪देवी⟫ |
-| | **3. Instrumentalis**:br⟪तृतीया⟫ | **⟪यजता⟫**:bryaja-t-ā | **⟪यजता⟫** | |
-| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪यजतस्⟫**:bryaja-t-as | **⟪यजतस्⟫** | |
-| **Plural**:br⟪बहुवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪यजन्तस्⟫**:bryaja-nt-as | **⟪यजन्ति⟫**:bryaja-nt-i | |
-| | **2. Akkusativ**:br⟪द्वितीया⟫ | **⟪यजतस्⟫**:bryaja-t-as | **⟪यजन्ति⟫** | |
-| | **3. Instrumentalis**:br⟪तृतीया⟫ | **⟪यजद्भिस्⟫**:braus yaja-t-bhis | **⟪यजद्भिस्⟫** | |
-| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪यजताम्⟫**:bryaja-t-ām | **⟪यजताम्⟫** | |
+| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **यजन्**[[br]]aus yaja-nt-s | **यजत्**[[br]]yaja-t-Ø | **यजन्ती**[[br]]yaja-ant-ī |
+| | **2. Akkusativ**[[br]]द्वितीया | **यजन्तम्**[[br]]yaja-nt-am | **यजत्** | wie **devī**[[br]]देवी |
+| | **3. Instrumentalis**[[br]]तृतीया | **यजता**[[br]]yaja-t-ā | **यजता** | |
+| | **6. Genetiv**[[br]]षष्ठी | **यजतस्**[[br]]yaja-t-as | **यजतस्** | |
+| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **यजन्तस्**[[br]]yaja-nt-as | **यजन्ति**[[br]]yaja-nt-i | |
+| | **2. Akkusativ**[[br]]द्वितीया | **यजतस्**[[br]]yaja-t-as | **यजन्ति** | |
+| | **3. Instrumentalis**[[br]]तृतीया | **यजद्भिस्**[[br]]aus yaja-t-bhis | **यजद्भिस्** | |
+| | **6. Genetiv**[[br]]षष्ठी | **यजताम्**[[br]]yaja-t-ām | **यजताम्** | |
 
-::::Beachten Sie den Gleichlaut von **⟪यजन्ति⟫** (Nom. pl. Neutrum) mit der 3. pl. P.!
+::::
+
+Beachten Sie den Gleichlaut von **यजन्ति** (Nom. pl. Neutrum) mit der 3. pl. P.!
 
 4\. Präsensklasse
 
-:::indent
-**⟪नृत्यन्त्⟫** "tanzend"
+::: indent
+**नृत्यन्त्** "tanzend"
 
-*   Maskulinum Nom. sg. **⟪नृत्यन्⟫**
-*   Neutrum Nom. Akk. sg. **⟪नृत्यत्⟫**
-*   Femininum Nom. sg. **⟪नृत्यन्ती⟫**
-:::6\. Präsensklasse
+*   Maskulinum Nom. sg. **नृत्यन्**
+*   Neutrum Nom. Akk. sg. **नृत्यत्**
+*   Femininum Nom. sg. **नृत्यन्ती**
+:::
 
-:::indent
-**⟪विशन्त्⟫** "eintretend"
+6\. Präsensklasse
 
-*   Maskulinum Nom. sg. **⟪विशन्⟫**
-*   Neutrum Nom. Akk. sg. **⟪विशत्⟫**
-*   Femininum Nom. sg. **⟪विशन्ती⟫** ⟪।⟫ **⟪विशती⟫**
-:::::::grammar-box
+::: indent
+**विशन्त्** "eintretend"
+
+*   Maskulinum Nom. sg. **विशन्**
+*   Neutrum Nom. Akk. sg. **विशत्**
+*   Femininum Nom. sg. **विशन्ती** । **विशती**
+:::
+
+:::: grammar-box
 
 | **Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (außer 3. Präsensklasse):** |||
 | :--- | :--- | :--- |
 | **Maskulinum, Neutrum** | | |
 | | **starker Stamm** | Präsensstamm + **-ant-** |
-| | **schwacher Stamm** | Präsensstamm + **-at-**:br(Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P.) |
+| | **schwacher Stamm** | Präsensstamm + **-at-**[[br]](Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P.) |
 | **Femininum** | | |
-| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī**:br⟪देवी⟫) |
+| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī**[[br]]देवी) |
 
-::::2\. Präsensklasse:
+::::
 
-:::indent
-**⟪अस्⟫** "sein": **⟪सन्त्⟫** "seiend, echter, guter, wahrer"
-:::::::grammar-box
 
-| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
+2\. Präsensklasse:
+
+::: indent
+**अस्** "sein": **सन्त्** "seiend, echter, guter, wahrer"
+:::
+
+:::: grammar-box
+
+| | | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**:br⟪एकवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪सन्⟫**:braus s-ant-s | **⟪सत्⟫**:brs-at-Ø | **⟪सती⟫**:brs-at-ī |
-| | **2. Akkusativ**:br⟪द्वितीया⟫ | **⟪सन्तम्⟫**:brs-ant-am | **⟪सत्⟫** | wie **devī**:br⟪देवी⟫ |
-| | **3. Instrumentalis**:br⟪तृतीया⟫ | **⟪सता⟫**:brs-at-ā | **⟪सता⟫** | |
-| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪सतस्⟫**:brs-at-as | **⟪सतस्⟫** | |
-| **Plural**:br⟪बहुवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪सन्तस्⟫**:brs-ant-as | **⟪सन्ति⟫**:brs-ant-i | |
-| | **2. Akkusativ**:br⟪द्वितीया⟫ | **⟪सतस्⟫**:brs-at-as | **⟪सन्ति⟫** | |
-| | **3. Instrumentalis**:br⟪तृतीया⟫ | **⟪सद्भिस्⟫**:braus s-at-bhis | **⟪सद्भिस्⟫** | |
-| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪सताम्⟫**:brs-at-ām | **⟪सताम्⟫** | |
+| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **सन्**[[br]]aus s-ant-s | **सत्**[[br]]s-at-Ø | **सती**[[br]]s-at-ī |
+| | **2. Akkusativ**[[br]]द्वितीया | **सन्तम्**[[br]]s-ant-am | **सत्** | wie **devī**[[br]]देवी |
+| | **3. Instrumentalis**[[br]]तृतीया | **सता**[[br]]s-at-ā | **सता** | |
+| | **6. Genetiv**[[br]]षष्ठी | **सतस्**[[br]]s-at-as | **सतस्** | |
+| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **सन्तस्**[[br]]s-ant-as | **सन्ति**[[br]]s-ant-i | |
+| | **2. Akkusativ**[[br]]द्वितीया | **सतस्**[[br]]s-at-as | **सन्ति** | |
+| | **3. Instrumentalis**[[br]]तृतीया | **सद्भिस्**[[br]]aus s-at-bhis | **सद्भिस्** | |
+| | **6. Genetiv**[[br]]षष्ठी | **सताम्**[[br]]s-at-ām | **सताम्** | |
 
-:::::::indent
-¹ **⟪सती⟫** "eine gute (treue) Frau (die sich in späterer Zeit nach dem Tod ihres Mannes mit diesem verbrennen lässt)" engl.: sutee
-::::::media
+::::
+
+::: indent
+¹ **सती** "eine gute (treue) Frau (die sich in späterer Zeit nach dem Tod ihres Mannes mit diesem verbrennen lässt)" engl.: sutee
+:::
+
+::: media
 ![](/images/lekt2101.webp)
-Abb.: ⟪सती⟫-Gedenkplatte
-⟪सती⟫-Gedenkplatte im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
+Abb.: सती-Gedenkplatte
+सती-Gedenkplatte im Palast von Jodhpur - जोधपुर / Rajasthan - राजस्थान
 (Bildquelle: [Details](/licenses#lekt2101))
-:::5\. Präsensklasse:
+:::
 
-:::indent
-**⟪सु⟫** "pressen": **⟪सुन्वन्त्⟫**
 
-*   Maskulinum Nom. sg. **⟪सुन्वन्⟫**
-*   Neutrum Nom. Akk. sg. **⟪सुन्वत्⟫**
-*   Femininum Nom. sg. **⟪सुन्वती⟫**
-:::8\. Präsensklasse
+5\. Präsensklasse:
 
-:::indent
-**⟪कृ⟫** "tun": **⟪कुर्वन्त्⟫**
+::: indent
+**सु** "pressen": **सुन्वन्त्**
 
-*   Maskulinum Nom. sg. **⟪कुर्वन्⟫**
-*   Neutrum Nom. Akk. sg. **⟪कुर्वत्⟫**
-*   Femininum Nom. sg. **⟪कुर्वती⟫**
-:::### 21.1.2. ⟪महान्त्⟫ "groß"
+*   Maskulinum Nom. sg. **सुन्वन्**
+*   Neutrum Nom. Akk. sg. **सुन्वत्**
+*   Femininum Nom. sg. **सुन्वती**
+:::
 
-::::grammar-box
+8\. Präsensklasse
 
-:::no-header
+::: indent
+**कृ** "tun": **कुर्वन्त्**
+
+*   Maskulinum Nom. sg. **कुर्वन्**
+*   Neutrum Nom. Akk. sg. **कुर्वत्**
+*   Femininum Nom. sg. **कुर्वती**
+:::
+
+### 21.1.2. महान्त् "groß"
+
+:::: grammar-box
+
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
 | **Maskulinum, Neutrum** | | |
-| | **starker Stamm** | **⟪महान्त्⟫** |
-| | **schwacher Stamm** | **⟪महत्⟫** |
+| | **starker Stamm** | **महान्त्** |
+| | **schwacher Stamm** | **महत्** |
 | **Femininum** | | |
-| | | **⟪महती⟫**:brwie **devī**:br⟪देवी⟫ |
+| | | **महती**[[br]]wie **devī**[[br]]देवी |
 
-:::::::::::grammar-box
+:::
 
-| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
+::::
+
+:::: grammar-box
+
+| | | Maskulinum[[br]]पुंस् | Neutrum[[br]]नपुंसक | Femininum[[br]]स्त्री |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**:br⟪एकवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪महान्⟫**:braus mahānt-s | **⟪महत्⟫**:brmahat-Ø | **⟪महती⟫**:brmahat-ī |
-| | **2. Akkusativ**:br⟪द्वितीया⟫ | **⟪महान्तम्⟫**:brmahānt-am | **⟪महत्⟫** | wie **devī**:br⟪देवी⟫ |
-| | **3. Instrumentalis**:br⟪तृतीया⟫ | **⟪महता⟫**:brmahat-ā | **⟪महता⟫** | |
-| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪महतस्⟫**:brmahat-as | **⟪महतस्⟫** | |
-| **Plural**:br⟪बहुवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪महान्तस्⟫**:brmahānt-as | **⟪महान्ति⟫**:brmahānt-i | |
-| | **2. Akkusativ**:br⟪द्वितीया⟫ | **⟪महतस्⟫**:brmahat-as | **⟪महान्ति⟫** | |
-| | **3. Instrumentalis**:br⟪तृतीया⟫ | **⟪महद्भिस्⟫**:braus mahat-bhis | **⟪महद्भिस्⟫** | |
-| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪महताम्⟫**:brmahat-ām | **⟪महताम्⟫** | |
+| **Singular**[[br]]एकवचन | **1. Nominativ**[[br]]प्रथमा | **महान्**[[br]]aus mahānt-s | **महत्**[[br]]mahat-Ø | **महती**[[br]]mahat-ī |
+| | **2. Akkusativ**[[br]]द्वितीया | **महान्तम्**[[br]]mahānt-am | **महत्** | wie **devī**[[br]]देवी |
+| | **3. Instrumentalis**[[br]]तृतीया | **महता**[[br]]mahat-ā | **महता** | |
+| | **6. Genetiv**[[br]]षष्ठी | **महतस्**[[br]]mahat-as | **महतस्** | |
+| **Plural**[[br]]बहुवचन | **1. Nominativ**[[br]]प्रथमा | **महान्तस्**[[br]]mahānt-as | **महान्ति**[[br]]mahānt-i | |
+| | **2. Akkusativ**[[br]]द्वितीया | **महतस्**[[br]]mahat-as | **महान्ति** | |
+| | **3. Instrumentalis**[[br]]तृतीया | **महद्भिस्**[[br]]aus mahat-bhis | **महद्भिस्** | |
+| | **6. Genetiv**[[br]]षष्ठी | **महताम्**[[br]]mahat-ām | **महताम्** | |
 
-::::::::grammar-box
-**Als Vorderglied eines Kompositums steht statt ⟪महत्⟫ ⟪महा⟫:**
+::::
+
+:::: grammar-box
+**Als Vorderglied eines Kompositums steht statt महत् महा:**
 
 **Beispiele:**
 
-:::indent
-**⟪महादेव⟫** "der große Gott" (z.B. ⟪शिव⟫)  
-**⟪महादेवी⟫** "die große Göttin, die Hauptfrau eines Königs (⟪देव⟫)"
-::::::::::media
+::: indent
+**महादेव** "der große Gott" (z.B. शिव)  
+**महादेवी** "die große Göttin, die Hauptfrau eines Königs (देव)"
+:::
+::::
+
+::: media
 ![](/images/lekt2102.webp)
-Abb.: ⟪महादेवो⟫ ⟪विष्णुः⟫
+Abb.: महादेवो विष्णुः
 "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
 (Bildquelle: [Details](/licenses#lekt2102))
-::::::indent
-"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: 'Mihira, Vishnu and Shiva'."
-:::## 21.2. Sandhi für auslautende Nasale
+:::
 
-::::grammar-box
+
+::: indent
+"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: 'Mihira, Vishnu and Shiva'."
+:::
+
+## 21.2. Sandhi für auslautende Nasale
+
+:::: grammar-box
 **Nach kurzem Vokal werden auslautende Nasale – außer -m – vor anlautendem Vokal verdoppelt.**
 
 **Beispiel:**
 
-:::indent
-**⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** "der siegende Feind"
-:::::::## 21.3. Höfliche Formen der Anrede
+::: indent
+**जयन् + अरिः** » **जयन्नरिः** "der siegende Feind"
+:::
+::::
 
-::::grammar-box
+## 21.3. Höfliche Formen der Anrede
+
+:::: grammar-box
 **Man kann im Sanskrit, ohne unhöflich zu sein, jemanden in der 2. Person Singular ansprechen. Will man aber höflich sein, kann man ein Nomen verwenden, dessen Bedeutung "Ehrwürdiger" und dergleichen ist, und das Verb in die 3. Person sg. oder pl. setzen bzw. eine Passivkonstruktion verwenden. Die Steigerung der Höflichkeit im Gebrauch der Person bei der Anrede ist etwa folgende:**
 
-:::indent
+::: indent
 **2. sg. » 2. pl. » 3. sg. mit entsprechendem Nomen » 3. pl. mit entspr. Nomen**
-:::**Das wichtigste solche Höflichkeitsnomen ist ⟪भवन्त्⟫ , fem.: ⟪भवती⟫ . Es entspricht in seiner Verwendung unserem höflichen "Sie".**
-::::Dieses **⟪भवन्त्⟫** ist eine Zusammenziehung aus **⟪भगवन्त्⟫**, seine Deklination ist die der Nomina auf **-vant** (siehe [Lektion 13](lektion13.md)). Dieses **⟪भवन्त्⟫** ist zu unterscheiden vom Partizip Präsens P von **⟪भू⟫** "werden" **⟪भवन्त्⟫** : der Nom sg. mask. von **⟪भवन्त्⟫** "Sie" lautet **⟪भवान्⟫**, der des Partizips **⟪भवन्⟫**. 
+:::
+
+**Das wichtigste solche Höflichkeitsnomen ist भवन्त् , fem.: भवती . Es entspricht in seiner Verwendung unserem höflichen "Sie".**
+::::
+
+Dieses **भवन्त्** ist eine Zusammenziehung aus **भगवन्त्**, seine Deklination ist die der Nomina auf **-vant** (siehe [Lektion 13](lektion13.md)). Dieses **भवन्त्** ist zu unterscheiden vom Partizip Präsens P von **भू** "werden" **भवन्त्** : der Nom sg. mask. von **भवन्त्** "Sie" lautet **भवान्**, der des Partizips **भवन्**. 
 
 **Beispiele:**
 
-:::indent
-**⟪किं⟫ ⟪भवान्करोति⟫** = **⟪किं⟫ ⟪भवता⟫ ⟪क्रियते⟫** = "Was tun Sie?"
-:::höflicher:
+::: indent
+**किं भवान्करोति** = **किं भवता क्रियते** = "Was tun Sie?"
+:::
 
-:::indent
-**⟪किं⟫ ⟪भवन्तः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवद्भिः⟫ ⟪क्रियते⟫**
-:::Femininum:
+höflicher:
 
-:::indent
-**⟪किं⟫ ⟪भवती⟫ ⟪करोति⟫** = **⟪किं⟫ ⟪भवत्या⟫ ⟪क्रियते⟫**  
-**⟪किं⟫ ⟪भवत्यः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवतीभिः⟫ ⟪क्रियते⟫**
-:::Weitere Wörter, die ähnlich wie **⟪भवन्त्⟫** verwendet werden können:
+::: indent
+**किं भवन्तः कुर्वन्ति** = **किं भवद्भिः क्रियते**
+:::
 
-*   **⟪आर्य⟫** (f.: **⟪आर्या⟫**) "Edler". z.B. **⟪यदार्य⟫ ⟪इच्छति⟫** "Was Sie wünschen"
-*   **⟪महाभाग⟫** "der dessen Anteil / Glück groß ist = Vornehmer". Oft verwendet von Frauen bei der Anrede oder beim Sprechen über Männer von gutem Stand. In modernem gesprochenem Sanskrit sehr häufig.
+Femininum:
 
-Will man nicht nur Höflichkeit, sondern auch Verehrung für jemanden ausdrücken, verwendet man bei jemandem, der anwesend oder in der Nähe ist, anstelle von **⟪भवन्त्⟫** **⟪अत्रभवन्त्⟫** , für jemanden Abwesenden oder Entfernten **⟪तत्रभवन्त्⟫**. **⟪अत्रभवन्त्⟫** und **⟪तत्रभवन्त्⟫** kann man mit "Sie", "Ehrwürden", "Hochwürden" usw. übersetzen:
+::: indent
+**किं भवती करोति** = **किं भवत्या क्रियते**  
+**किं भवत्यः कुर्वन्ति** = **किं भवतीभिः क्रियते**
+:::
 
-:::indent
-**⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = "Ist die gnädige (hier anwesende) Frau Ihre Gattin?"  
-**⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫** (in einem Brief oder Telefongespräch) = "Geht es Ihnen gut?"
-:::## 21.4. Wortliste
+Weitere Wörter, die ähnlich wie **भवन्त्** verwendet werden können:
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
+*   **आर्य** (f.: **आर्या**) "Edler". z.B. **यदार्य इच्छति** "Was Sie wünschen"
+*   **महाभाग** "der dessen Anteil / Glück groß ist = Vornehmer". Oft verwendet von Frauen bei der Anrede oder beim Sprechen über Männer von gutem Stand. In modernem gesprochenem Sanskrit sehr häufig.
+
+Will man nicht nur Höflichkeit, sondern auch Verehrung für jemanden ausdrücken, verwendet man bei jemandem, der anwesend oder in der Nähe ist, anstelle von **भवन्त्** **अत्रभवन्त्** , für jemanden Abwesenden oder Entfernten **तत्रभवन्त्**. **अत्रभवन्त्** und **तत्रभवन्त्** kann man mit "Sie", "Ehrwürden", "Hochwürden" usw. übersetzen:
+
+::: indent
+**किमत्रभवत्यत्रभवतां भार्या** = "Ist die gnädige (hier anwesende) Frau Ihre Gattin?"  
+**किं तत्रभवतां कुशलवृत्तम्** (in einem Brief oder Telefongespräch) = "Geht es Ihnen gut?"
+:::
+
+## 21.4. Wortliste
+
+**भज् 1 U भजति Pass. भज्यते PPP भक्त :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
 
 davon:
 
-:::indent
-**⟪भक्ति⟫ f.:** Ergebenheit, Treue, Liebe (im religiösen Bereich: Liebe und Respekt zu einem persönlichen Gott. siehe dazu Basham, Wonder S. 332f.)  
-**⟪भाग⟫ m.:** Anteil, Teil  
-**⟪भग⟫ m.:** (guter) Anteil, Glück, Wohlergehen, Würde  
-**⟪भगवन्त्⟫ 3:** Glück-besitzend, Würde-besitzend (Beiname von ⟪विष्णु⟫ – ⟪कृष्ण⟫)
-::::::media
-![](/images/lekt2103.webp)
-Abb.: ⟪भगवान्कृष्णः⟫
-⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(Bildquelle: [Details](/licenses#lekt2103))
-::::::indent
-**⟪भगवद्गीता⟫ f.:** "Gesang (⟪गीता⟫) des Würdigen (⟪कृष्ण⟫)"
-::::::media
-![](/images/lekt2105.webp)
-Abb.: ⟪भगवद्गीता⟫
-⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt.
-(Bildquelle: [Details](/licenses#lekt2105))
-::::::indent
-**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (eigentlich ein Desiderativum zu ⟪भज्⟫: wünschen, dass man teilhat): betteln
-:::davon:
+::: indent
+**भक्ति f.:** Ergebenheit, Treue, Liebe (im religiösen Bereich: Liebe und Respekt zu einem persönlichen Gott. siehe dazu Basham, Wonder S. 332f.)  
+**भाग m.:** Anteil, Teil  
+**भग m.:** (guter) Anteil, Glück, Wohlergehen, Würde  
+**भगवन्त् 3:** Glück-besitzend, Würde-besitzend (Beiname von विष्णु – कृष्ण)
+:::
 
-:::indent
-**⟪भिक्षु⟫ m.:** Bettler, Mönch
-::::::media
+::: media
+![](/images/lekt2103.webp)
+Abb.: भगवान्कृष्णः
+भगवान्कृष्णः als जगन्नाथ (rechts) mit seiner Halbschwester सुभद्रा (Mitte) und seinem älteren Bruder बलराम, Orissa = ଓଡ଼ିଶा
+(Bildquelle: [Details](/licenses#lekt2103))
+:::
+
+::: indent
+**भगवद्गीता f.:** "Gesang (गीता) des Würdigen (कृष्ण)"
+:::
+
+::: media
+![](/images/lekt2105.webp)
+Abb.: भगवद्गीता
+भगवद्गीता - Manuskript, 19. Jhdt.
+(Bildquelle: [Details](/licenses#lekt2105))
+:::
+
+::: indent
+**भिक्ष् 1 Ā भिक्षते Pass. भिक्ष्यते PPP भिक्षित** (eigentlich ein Desiderativum zu भज्: wünschen, dass man teilhat): betteln
+:::
+
+davon:
+
+::: indent
+**भिक्षु m.:** Bettler, Mönch
+:::
+
+::: media
 ![](/images/lekt2104.webp)
-Abb.: ⟪भिक्षवः⟫
+Abb.: भिक्षवः
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
 (Bildquelle: [Details](/licenses#lekt2104))
-:::**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** verderben (intransitiv), schlecht werden, zuschande werden
+:::
 
-:::indent
-**⟪दोष⟫ m.:** Fehler
-:::**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (kein PPP, dafür ⟪पक्व⟫ 3: gekocht, gegart) Absol. ⟪पक्त्वा⟫ :** garen (transitiv) = kochen, braten, rösten usw.
+**दुष् 4 P दुष्यति Pass. दुष्यते PPP दुष्ट :** verderben (intransitiv), schlecht werden, zuschande werden
+
+::: indent
+**दोष m.:** Fehler
+:::
+
+**पच् 1 U पचति Pass. पच्यते (kein PPP, dafür पक्व 3: gekocht, gegart) Absol. पक्त्वा :** garen (transitiv) = kochen, braten, rösten usw.
 
 ## 21.5. Übung
 
 A) Übersetzen Sie folgende Komposita:
 
-⟪१⟫. ⟪अनादिकालिकसंसारः⟫
+१. अनादिकालिकसंसारः
 
-⟪२⟫. ⟪अनादिमध्यान्तः⟫
+२. अनादिमध्यान्तः
 
-⟪३⟫. ⟪महामैत्रीकरुणाचित्तः⟫
+३. महामैत्रीकरुणाचित्तः
 
-⟪४⟫. ⟪सर्वहतान्धकारः⟫
+४. सर्वहतान्धकारः
 
 B) Übersetzen Sie:
 
-⟪मृतं⟫ ⟪दहन्नग्निः⟫ ⟪सतीमपि⟫ ⟪दहति⟫ ⟪॥१॥⟫
+मृतं दहन्नग्निः सतीमपि दहति ॥१॥
 
-⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं⟫ ⟪स्तौति⟫ ⟪॥२॥⟫
+सद्गुरुर्महाकविस्तोत्रैर्महादेवं स्तौति ॥२॥
 
-⟪महान्ति⟫ ⟪फलान्यदन्तो⟫ ⟪बाला⟫ ⟪जलमापि⟫ ⟪पिबन्ति⟫ ⟪॥३॥⟫
+महान्ति फलान्यदन्तो बाला जलमापि पिबन्ति ॥३॥
 
-⟪पूजां⟫ ⟪कुर्वञ्जनो⟫ ⟪यजते⟫ ⟪च⟫ ⟪स्तौति⟫ ⟪च⟫ ⟪देवताम्⟫ ⟪॥४॥⟫
+पूजां कुर्वञ्जनो यजते च स्तौति च देवताम् ॥४॥
 
-⟪गुरूपनीतनरो⟫ ⟪द्विजः⟫ ⟪॥५॥⟫
+गुरूपनीतनरो द्विजः ॥५॥
 
-⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
+जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥६॥
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt2101:** ⟪सती⟫-Gedenkplatte im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Bildquelle: Flicka / Wikipedia. GNU FDLicense]
+**lekt2101:** सती-Gedenkplatte im Palast von Jodhpur - जोधपुर / Rajasthan - राजस्थान [Bildquelle: Flicka / Wikipedia. GNU FDLicense]
 
 **lekt2102:** "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva". [Bildquelle: PHGCOM / Wikipedia. GNU FDLicense]
 
-**lekt2103:** ⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense]
+**lekt2103:** भगवान्कृष्णः als जगन्नाथ (rechts) mit seiner Halbschwester सुभद्रा (Mitte) und seinem älteren Bruder बलराम, Orissa = ଓଡ଼ିଶा [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense]
 
 **lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ [Bildquelle: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
 
-**lekt2105:** ⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt. [Bildquelle: Wikipedia, Public domain]
+**lekt2105:** भगवद्गीता - Manuskript, 19. Jhdt. [Bildquelle: Wikipedia, Public domain]
 :::
