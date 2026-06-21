@@ -41,6 +41,7 @@
   - No raw metadata blocks are allowed directly under images.
 
 ## 6. Migration & Build Integrity Rules
+- **DE Source Integrity Invariant**: The German source files (`docs/lektionen/*.md`) are the absolute source of truth. Under NO circumstances may an agent modify, format, or structurally alter the German files without an EXPLICIT, direct command from the user to do so. All translations must branch from this protected master without touching it.
 - **The Build Gate**: Every session MUST conclude with a successful `npm run docs:build`. A task is only "Done" if the build passes.
 - **Zero-HTML Invariant**: No raw HTML (tables, br, div, etc.) in Markdown. Use `scripts/purge_html.py` to sanitize content.
 - **Metadata Invisibility**: All scholarly metadata (citations, copyright) must be wrapped in `::: deleteme-box` containers.
