@@ -105,7 +105,7 @@ status: stable
 :::indent
 לפיצול הקהילה (⟪सङ्घभेद⟩) ראה:
 
-**Payer, Alois &lt;1944 -&gt;:** Vinayamukha : מושגי יסוד של חוקי הסדר ודיני הסדר של התייראווודה. -- חלק א'. -- (חומרים למושגי היסוד של הבודהיזם). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois &lt;1944 →:** Vinayamukha : מושגי יסוד של חוקי הסדר ודיני הסדר של התייראווודה. -- חלק א'. -- (חומרים למושגי היסוד של הבודהיזם). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::2\. האם נהניתם מהארץ?
 
 3\. האם קיבלת מתנה מהמלך?

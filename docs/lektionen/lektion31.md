@@ -67,7 +67,7 @@ status: stable
 **Inf. ⟪योक्तुम्⟫**
 
 davon:
-**⟪युग⟫ n. -&gt; ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
+**⟪युग⟫ n. → ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
 1. **⟪कृत⟫**
 2. **⟪त्रेता⟫**
 3. **⟪द्वापर⟫**
@@ -107,7 +107,7 @@ Yoga-Darstellung.
 **Kaus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
 **Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
-:::**⟪अञ्ज्⟫ + vi -&gt; ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : auseinanderschmieren = sich schminken, sich unterschieden machen
+:::**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : auseinanderschmieren = sich schminken, sich unterschieden machen
 :::indent
 **PPP ⟪व्यक्त⟫ :** unterschieden, entfaltet
 
@@ -130,7 +130,7 @@ Vorbereitung zum Kathakali-Tanz, Kochi.
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
 **Kaus. ⟪भोजयति⟫**
-**PPP bhukt -&gt; PPP ⟪भुक्त⟫**
+**PPP bhukt → PPP ⟪भुक्त⟫**
 **Inf. ⟪भोक्तुम्⟫**
 
 davon:
