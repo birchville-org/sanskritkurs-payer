@@ -17,34 +17,34 @@ Der Kurs zur Bhagavadgītā wird vorläufig noch nicht online zur Verfügung ges
 
 Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bisher noch nicht behandelt wurden.
 
-## 54.2. Wortbildung: कृत्-Suffix -u an Desiderativstämme
+## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
 
 :::: grammar-box
-**An Desiderativstämme (इच्छाप्रकृति) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.**
+**An Desiderativstämme (⟪इच्छाप्रकृति⟫) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.**
 
 (Bildung der Desiderativstämme folgt später)
 
 Beispiel:
 
 ::: indent
-युयुत्सु (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen"
+⟪युयुत्सु⟫ (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen"
 :::
 ::::
 
 ::: media
 ![](/images/lekt5402.webp)
-Abb.: अयुयुत्सुरर्जुनः
-भगवद्गीतोपदेशः Tirupati = తిరుపతి
+Abb.: ⟪अयुयुत्सुरर्जुनः⟫
+⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
 (Bildquelle: [Details](/licenses#lekt5402))
 :::
-## 54.3. Metrik II: die epische त्रिष्टुभ् und die जगती
+## 54.3. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
 
 :::: grammar-box
-Die त्रिष्टुभ् ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen श्लोक-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren.
+Die ⟪त्रिष्टुभ्⟫ ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen ⟪श्लोक⟫-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren.
 
-Die त्रिष्टुभ्-Strophe besteht aus vier elfsilbigen पाद, die sich im Bau nicht voneinander unterscheiden.
+Die ⟪त्रिष्टुभ्⟫-Strophe besteht aus vier elfsilbigen ⟪पाद⟫, die sich im Bau nicht voneinander unterscheiden.
 
-Die त्रिष्टुभ् hat zwei Grundschemata, je nachdem, ob die Zäsur (Wortende, Kompositionsfuge oder vor bestimmten Suffixen wie -tara, -tama u.ä.) nach der 4. oder 5. Silbe des पाद steht.
+Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob die Zäsur (Wortende, Kompositionsfuge oder vor bestimmten Suffixen wie -tara, -tama u.ä.) nach der 4. oder 5. Silbe des ⟪पाद⟫ steht.
 
 Schema I:
 
@@ -60,58 +60,58 @@ Schema II:
 
 Die Quantität der vier letzten Silben ist also in beiden Schemata gleich.
 
-जगती-Grundform: wie bei त्रिष्टुभ्, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten:
+⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten:
 
 ::: metrik-schema
 ***— ◡ — ◡ —***
 :::
 
-Daneben gibt es die sog. typisch überzählige त्रिष्टुभ् mit fünfsilbigem Anfangsglied, die weitergeht wie eine त्रिष्टुभ् mit viersilbigem Anfangsglied:
+Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied:
 
 ::: metrik-schema
 — × — × / × ◡ — ***— ◡ — —***
 :::
 
-In späterer Zeit werden die Formen der त्रिष्टुभ् festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
+In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
 
-a) इन्द्रवज्रा
+a) ⟪इन्द्रवज्रा⟫
 
 ::: metrik-schema
 ***—*** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 
-b) उपेन्द्रवज्रा
+b) ⟪उपेन्द्रवज्रा⟫
 
 ::: metrik-schema
 ***◡*** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 
-c) उपजाति
+c) ⟪उपजाति⟫
 
 ::: indent
-पाद in इन्द्रवज्रा und पाद in उपेन्द्रवज्रा sind in eine Strophe gemischt.
+⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ und ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sind in eine Strophe gemischt.
 :::
 ::::
 
 :::: grammar-box
 **Merkverse:**
 
-**स्यादिन्द्रवज्रा यदि तौ जगौ गः ।**
+**⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
 
 ::: indent
 "Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind.
 :::
 
-उपेन्द्रवज्रा प्रथमे लघौ सा ।
+⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
 ::: indent
 "Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat"
 :::
 
-अनन्तरोदीरितलक्ष्मभाजौ  
-पदौ यदीयावुपजातयस्ताः ।  
-इत्थं किलान्यास्वपिमिश्रितासु  
-वदन्ति जातिष्विदमिदमेवनाम ॥
+⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
+⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
+⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
+⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
 ::: indent
 "Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti."
@@ -124,16 +124,16 @@ Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 
 Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28
 
-## 54.5. Bildungstypen des Aorist (लुङ्)
+## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
 
 ::: grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (लुङ्) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (लङ्) vorgesetzt wird.**
+**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.**
 
 Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich.
 :::
 
 ::: grammar-box
-**Es gibt folgende Bildungstypen des Aorist (लुङ्):**
+**Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):**
 
 1.  Nichtsibilantische (asigmatische) Aoriste: 
     *   54.1. Wurzelaorist: Augment + Wurzel + Sekundärendung
@@ -159,39 +159,39 @@ Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich.
 
 Beispiel:
 
-पा 1P "trinken"
+⟪पा⟫ 1P "trinken"
 
 ::: grammar-box
-|   | एकवचनम् | बहुवचनम् |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
-| 1. तृतीयः | अपाम्[[br]]a-pā + am | अपाम |
-| 2. मध्यमः | अपास् | अपात |
-| 3. प्रथमः | अपात् | अपुर्[[br]]a-p-ur (Tiefstufe!) |
+| 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫[[br]]a-pā + am | ⟪अपाम⟫ |
+| 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫[[br]]a-p-ur (Tiefstufe!) |
 :::
 
 Nur von 12 Wurzeln wird der Wurzelaorist gebildet:
 
-1.  गा 3 "gehen"
-2.  घ्रा 1P "riechen"
-3.  छो 6 "schneiden" (अच्छात्)
-4.  दा 3U "geben"
-5.  दो  1, 4 "schneiden"
-6.  धा 3U "setzen"
-7.  धे 1 "saugen" (अधात्)
-8.  पा 1P "trinken"
-9.  शो 4P "schärfen"
-10.  सो "beendigen"
-11.  स्था 1P "stehen"
-12.  भू 1P "sein
+1.  ⟪गा⟫ 3 "gehen"
+2.  ⟪घ्रा⟫ 1P "riechen"
+3.  ⟪छो⟫ 6 "schneiden" (⟪अच्छात्⟫)
+4.  ⟪दा⟫ 3U "geben"
+5.  ⟪दो⟫  1, 4 "schneiden"
+6.  ⟪धा⟫ 3U "setzen"
+7.  ⟪धे⟫ 1 "saugen" (⟪अधात्⟫)
+8.  ⟪पा⟫ 1P "trinken"
+9.  ⟪शो⟫ 4P "schärfen"
+10.  ⟪सो⟫ "beendigen"
+11.  ⟪स्था⟫ 1P "stehen"
+12.  ⟪भू⟫ 1P "sein
 
-Zu भू 1P wird der Wurzelaorist so gebildet:
+Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet:
 
 ::: grammar-box
-|   | एकवचनम् | बहुवचनम् |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
-| 1\. तृतीयः | अभूवम् | अभूम |
-| 2\. मध्यमः | अभू्स् | अभूत |
-| 3\. प्रथमः | अभूत् | ***अभूवन्*** (!!!) |
+| 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
 :::
 
 ### 54.6.1. Der Aorist der 3.sg.Passiv
@@ -207,44 +207,44 @@ Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann vo
 
 Hochstufe:
 
-*   Wurzeln mit kurzem Vokal (außer a) vor einfachem Konsonanten sowie जन् und die meisten Wurzeln auf -am  
+*   Wurzeln mit kurzem Vokal (außer a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am  
     Beispiele:  
-    भिद् 7U: अभेदि "er wurde gespalten"  
-    तुद् 6U: अतोदि "er wurde gestoßen"
+    ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"  
+    ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestoßen"
 
 Dehnstufe:
 
 *   Wurzeln mit auslautendem Vokal  
     Beispiele:  
-    नी 1U: अनायि "er wurde geführt"  
-    स्तु 2U: अस्तावि "sie wurde gelobt"  
-    कृ 8U: अकारि "es wurde gemacht"  
+    ⟪नी⟫ 1U: ⟪अनायि⟫ "er wurde geführt"  
+    ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "sie wurde gelobt"  
+    ⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"  
      
     
-*   Wurzeln mit a vor einfachem Konsonanten (außer जन् und Wurzeln auf -am)  
+*   Wurzeln mit a vor einfachem Konsonanten (außer ⟪जन्⟫ und Wurzeln auf -am)  
     Beispiel:  
-    वद् 1P: अवादि "es wurde gesagt"  
+    ⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"  
     aber:  
-    जन् 4Ā: अजनि "sie wurde geboren"  
+    ⟪जन्⟫ 4Ā: ⟪अजनि⟫ "sie wurde geboren"  
      
 
 *   einige Wurzeln auf -am  
     Beispiel:  
-    गम् अगामि
+    ⟪गम्⟫ ⟪अगामि⟫
     
 
 Einschub von y vor Endung:
 
 *   Wurzeln auf -ā, -e, -ai, -o schieben zwischen das -ā der Wurzel und die Endung ein y ein:  
     Beispiel:  
-    दा 3U: अदायि "es wurde gegeben"
+    ⟪दा⟫ 3U: ⟪अदायि⟫ "es wurde gegeben"
     
 
 Nasalinfix:
 
 *   einige Wurzeln haben ein Nasalinfix:  
     Beispiel:  
-    लभ् 1Ā: अलम्भि neben अलाभि : "es wurde empfangen"
+    ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ neben ⟪अलाभि⟫ : "es wurde empfangen"
     
 
 (Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben).
@@ -254,40 +254,40 @@ Nasalinfix:
 
 Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen:
 
-1.  यन्ति
-2.  पिबामि
-3.  ददौ
-4.  बभूव
-5.  दधति
-6.  ऐम
-7.  पपिथ
-8.  तिष्ठति
-9.  इयेथ
-10.  पप
-11.  एष्यथ
-12.  तस्थुः
-13.  अधत्त
-14.  अददाः
-15.  अभवन्
-16.  ददिम
-17.  भिद्यते
-18.  उद्यते
-19.  स्तूयते
-20.  कृष्यते
-21.  जायते (Pass.)
-22.  गीयते
-23.  गम्यते
+1.  ⟪यन्ति⟫
+2.  ⟪पिबामि⟫
+3.  ⟪ददौ⟫
+4.  ⟪बभूव⟫
+5.  ⟪दधति⟫
+6.  ⟪ऐम⟫
+7.  ⟪पपिथ⟫
+8.  ⟪तिष्ठति⟫
+9.  ⟪इयेथ⟫
+10.  ⟪पप⟫
+11.  ⟪एष्यथ⟫
+12.  ⟪तस्थुः⟫
+13.  ⟪अधत्त⟫
+14.  ⟪अददाः⟫
+15.  ⟪अभवन्⟫
+16.  ⟪ददिम⟫
+17.  ⟪भिद्यते⟫
+18.  ⟪उद्यते⟫
+19.  ⟪स्तूयते⟫
+20.  ⟪कृष्यते⟫
+21.  ⟪जायते⟫ (Pass.)
+22.  ⟪गीयते⟫
+23.  ⟪गम्यते⟫
 
 ::: media
 ![](/images/lekt5401.webp)
-Abb.: त्रिचक्रेणेश्वरः स्तूयते
+Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Bildquelle: [Details](/licenses#lekt5401))
 :::
 
 ::: deleteme-box
 
-**lekt5402:** भगवद्गीतोपदेशः Tirupati = తిరుపతి [Bildquelle: Raji Srinivas / Wikipedia. GNU FDLicense]
+**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Bildquelle: Raji Srinivas / Wikipedia. GNU FDLicense]
 
 **lekt5401:** Tamil Nadu [Bildquelle: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Zugriff am 2009-01-28. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, shre alike)]
 

@@ -6,7 +6,7 @@ status: stable
 
 # Lektion 33
 
-## 33.1. Die Reduplikation (अभ्यास m.)
+## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
 
 * Die dritte Präsensklasse
 * (sowie einige Verben anderer Präsensklassen),
@@ -29,14 +29,14 @@ Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
 Beispiele:
 
 ::: indent
-**दा** 3 "geben"
-* 3.sg.P.Ind.Präs. **ददाति**
+**⟪दा⟫** 3 "geben"
+* 3.sg.P.Ind.Präs. **⟪ददाति⟫**
 
-**पॄ** 3 "füllen"
-* 3.sg.P.Ind.Präs. ***पि***पर्ति
+**⟪पॄ⟫** 3 "füllen"
+* 3.sg.P.Ind.Präs. ***⟪पि⟫***⟪पर्ति⟫
 
-**मा** 3Ā "messen"
-* 3.sg.Ā.Ind.Präs. ***मि***मीते
+**⟪मा⟫** 3Ā "messen"
+* 3.sg.Ā.Ind.Präs. ***⟪मि⟫***⟪मीते⟫
 :::
 
 ::: grammar-box
@@ -46,29 +46,29 @@ Beispiele:
 Beispiele:
 
 ::: indent
-**धा** 3 "setzen"
-* 3.sg.P.Ind.Präs. **दधाति**
+**⟪धा⟫** 3 "setzen"
+* 3.sg.P.Ind.Präs. **⟪दधाति⟫**
 
-**भी** 3 "fürchten"
-* 3.sg.P.Ind.Präs. ***बि***भेति
+**⟪भी⟫** 3 "fürchten"
+* 3.sg.P.Ind.Präs. ***⟪बि⟫***⟪भेति⟫
 :::
 
 :::: grammar-box
 **3. Ein Guttural wird durch den ihm entsprechenden nicht-aspirierten Palatal redupliziert:**
 
 ::: indent
-**क्**, **ख्** durch **च्**  
-**ग्**, **घ्** durch **ज्**
+**⟪क्⟫**, **⟪ख्⟫** durch **⟪च्⟫**  
+**⟪ग्⟫**, **⟪घ्⟫** durch **⟪ज्⟫**
 :::
 
-**ह् wird immer durch ज् redupliziert.**
+**⟪ह्⟫ wird immer durch ⟪ज्⟫ redupliziert.**
 ::::
 
 Beispiele:
 
 ::: indent
-**हु** 3 "(zum Opfer) ins Feuer gießen"
-* 3.sg.P.Ind.Präs. **जुहोति**
+**⟪हु⟫** 3 "(zum Opfer) ins Feuer gießen"
+* 3.sg.P.Ind.Präs. **⟪जुहोति⟫**
 :::
 
 ::: grammar-box
@@ -82,11 +82,11 @@ Beispiele:
 Beispiel:
 
 ::: indent
-**स्था** 1 "stehen"
-* 3.sg.P.Ind.Präs. **तिष्ठति**
+**⟪स्था⟫** 1 "stehen"
+* 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫**
 :::
 
-## 33.2. Die dritte Präsensklasse (जुहोत्यादि = "जुहोति u.s.w.")
+## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.")
 
 ::: grammar-box
 **Bildung:**
@@ -105,22 +105,22 @@ Beispiel:
 ::: grammar-box
 * **Der regelmäßige Reduplikationsvokal ist -i-**
 * **u-haltige Wurzeln reduplizieren mit -u-**
-* **die Wurzeln दा, धा, हा mit -a-**
+* **die Wurzeln ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ mit -a-**
 :::
 
 Beispiele:
 
 :::: grammar-box
-**हु** 3P "(zum Opfer) ins Feuer gießen"
+**⟪हु⟫** 3P "(zum Opfer) ins Feuer gießen"
 
-* **starker Stamm:** जुहो
-* **schwacher Stamm:** जुहु
+* **starker Stamm:** ⟪जुहो⟫
+* **schwacher Stamm:** ⟪जुहु⟫
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | जुहोति | जुह्वति[[br]]juhu + ati | &lt;जुहुते&gt; | &lt;जुह्वते&gt;[[br]]juhu + ate |
-| **Imperfekt** | अजुहोत्[[br]]a-juho-t | जुहवुर्[[br]]a-juho + ur | &lt;अजुहुत&gt; | &lt;अजुह्वत&gt;[[br]]a-juhu + ata |
-| **Optativ** | जुहुयात्[[br]]juhu-yā-t | जुहुयुर्[[br]]juhu-y-ur | &lt;जुह्वीत&gt;[[br]]juhu + ī-ta | &lt;जुह्वीरन्&gt;[[br]]juhu + ī-ran |
+| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫[[br]]juhu + ati | &lt;⟪जुहुते⟫&gt; | &lt;⟪जुह्वते⟫&gt;[[br]]juhu + ate |
+| **Imperfekt** | ⟪अजुहोत्⟫[[br]]a-juho-t | ⟪जुहवुर्⟫[[br]]a-juho + ur | &lt;⟪अजुहुत⟫&gt; | &lt;⟪अजुह्वत⟫&gt;[[br]]a-juhu + ata |
+| **Optativ** | ⟪जुहुयात्⟫[[br]]juhu-yā-t | ⟪जुहुयुर्⟫[[br]]juhu-y-ur | &lt;⟪जुह्वीत⟫&gt;[[br]]juhu + ī-ta | &lt;⟪जुह्वीरन्⟫&gt;[[br]]juhu + ī-ran |
 ::::
 
 ## 33.3. Zum Ablaut von ā
@@ -137,85 +137,85 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 * **Tiefstufe**
   * **vor Konsonant: -i-**  
-    z.B. **धा** PPP: **हित** (hi-ta)
+    z.B. **⟪धा⟫** PPP: **⟪हित⟫** (hi-ta)
   * **vor Vokal: Ø**  
-    z.B. **धा** 3.pl.P.Ind.Präs. **दधति** (dadh-ati)
+    z.B. **⟪धा⟫** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
 * **Hochstufe: -ā-**  
-  z.B. **धा** 3.sg.P.Ind.Präs. **दधाति**
+  z.B. **⟪धा⟫** 3.sg.P.Ind.Präs. **⟪दधाति⟫**
 :::
 
 Hierher gehört z.B. auch:
 
 ::: indent
-**स्था** 1
-* PPP **स्थित** (sthi-ta)
-* 3.sg.P.Fut. **स्थास्यति** (sthā-sya-ti)
+**⟪स्था⟫** 1
+* PPP **⟪स्थित⟫** (sthi-ta)
+* 3.sg.P.Fut. **⟪स्थास्यति⟫** (sthā-sya-ti)
 :::
 
 :::: grammar-box
 **B.**
 
 * **Tiefstufe: -ī-**  
-  z.B. **पा** 1: PPP **पीत** (pī-ta)
+  z.B. **⟪पा⟫** 1: PPP **⟪पीत⟫** (pī-ta)
 * **Hochstufe: -ā-**  
-  z.B. **पा** 1: Inf. **पातुम्**
+  z.B. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
 ::::
 
 ## 33.4. Wurzeln auf -ā der dritten Präsensklasse
 
 ::: grammar-box
-**Wurzeln auf -ā (außer दा und धा) lauten im schwachen Stamm gewöhnlich auf -ī- ab** (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich wirkte dabei die oben  genannte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).**
+**Wurzeln auf -ā (außer ⟪दा⟫ und ⟪धा⟫) lauten im schwachen Stamm gewöhnlich auf -ī- ab** (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich wirkte dabei die oben  genannte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).**
 :::
 
 Beispiele:
 
 :::: grammar-box
-**मा** 3Ā "messen"
+**⟪मा⟫** 3Ā "messen"
 
 | | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | मिमीते[[br]]mimī-te | मिमते[[br]]mim-ate |
-| **Imperfekt** | अमिमीत | अमिमत |
-| **Optativ** | मिमीत[[br]]mim-ī-ta ! | मिमीरन्[[br]]mim-ī-ran |
+| **Indikativ Präsens** | ⟪मिमीते⟫[[br]]mimī-te | ⟪मिमते⟫[[br]]mim-ate |
+| **Imperfekt** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
+| **Optativ** | ⟪मिमीत⟫[[br]]mim-ī-ta ! | ⟪मिमीरन्⟫[[br]]mim-ī-ran |
 ::::
 
 :::: grammar-box
-**हा** 3P "verlassen"
+**⟪हा⟫** 3P "verlassen"
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | जहाति | जहति[[br]]jah-ati |
-| **Imperfekt** | अजहात् | अजहुर् |
-| **Optativ** | जह्यात्[[br]]jah-yā-t[[br]](Die Wurzel **हा** hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | जह्युर्[[br]]jah-y-ur |
+| **Indikativ Präsens** | ⟪जहाति⟫ | ⟪जहति⟫[[br]]jah-ati |
+| **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
+| **Optativ** | ⟪जह्यात्⟫[[br]]jah-yā-t[[br]](Die Wurzel **⟪हा⟫** hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫[[br]]jah-y-ur |
 ::::
-### 33.4.1. Die Wurzeln **दा** und **धा**
+### 33.4.1. Die Wurzeln **⟪दा⟫** und **⟪धा⟫**
 
 ::: grammar-box
-**Die Wurzeln दा und धा reduplizieren mit dem Vokal -a- und verlieren im schwachen Stamm den Wurzelvokal.**
+**Die Wurzeln ⟪दा⟫ und ⟪धा⟫ reduplizieren mit dem Vokal -a- und verlieren im schwachen Stamm den Wurzelvokal.**
 
-**Beachten Sie bei धा das Hauchdissimilationsgesetz!**
+**Beachten Sie bei ⟪धा⟫ das Hauchdissimilationsgesetz!**
 :::
 
 :::: grammar-box
-**धा** 3U "setzen, festsetzen, zuteilen"
+**⟪धा⟫** 3U "setzen, festsetzen, zuteilen"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | दधाति | दधति[[br]]dadh-ati | धत्ते[[br]]dadh-te[[br]](Erklärung: Thumb-Hauschild 1,1 S. 302f.) | दधते[[br]]dadh-ate |
-| **Imperfekt** | अदधात् | अदधुर् | अधत्त[[br]]a + dadh + ta | अदधत |
-| **Optativ** | दध्यात्[[br]]dadh-yā-t | दध्युर् | दधीत[[br]]dadh-ī-ta | दधीरन् |
+| **Indikativ Präsens** | ⟪दधाति⟫ | ⟪दधति⟫[[br]]dadh-ati | ⟪धत्ते⟫[[br]]dadh-te[[br]](Erklärung: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫[[br]]dadh-ate |
+| **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫[[br]]a + dadh + ta | ⟪अदधत⟫ |
+| **Optativ** | ⟪दध्यात्⟫[[br]]dadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫[[br]]dadh-ī-ta | ⟪दधीरन्⟫ |
 ::::
 
-Die Formen von **दा** erhält man, indem man im Paradigma von **धा** **dh** durch **d** ersetzt. Also:
+Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **⟪धा⟫** **dh** durch **d** ersetzt. Also:
 
 :::: grammar-box
-**दा** 3U "geben"
+**⟪दा⟫** 3U "geben"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ददाति | ददति | दत्ते | ददते |
-| **Imperfekt** | अददात् | अददुर् | अदत्त | अददत |
-| **Optativ** | दद्यात् | दद्युर् | ददीत | ददीरन् |
+| **Indikativ Präsens** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
+| **Imperfekt** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
+| **Optativ** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 ::::
 
 ## 33.5. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
@@ -226,186 +226,186 @@ Die Formen von **दा** erhält man, indem man im Paradigma von **धा** **d
 **Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.**
 :::
 
-**दा** Partizip Präsens Parasmaipada:
+**⟪दा⟫** Partizip Präsens Parasmaipada:
 
 :::: grammar-box
-| | Maskulinum[[br]]पुंल्लिङ्ग | Neutrum[[br]]नपुंसकलिङ्ग | Femininum[[br]]स्त्रीलिङ्ग |
+| | Maskulinum[[br]]⟪पुंल्लिङ्ग⟫ | Neutrum[[br]]⟪नपुंसकलिङ्ग⟫ | Femininum[[br]]⟪स्त्रीलिङ्ग⟫ |
 | :--- | :--- | :--- | :--- |
 | **Singular** | | | |
-| **1. Nominativ** | ददत्[[br]]dad-at + s | ददत्[[br]]dad-at-Ø | ददती |
-| **2. Akkusativ** | ददतम्[[br]]dad-at-am | ददत् | |
+| **1. Nominativ** | ⟪ददत्⟫[[br]]dad-at + s | ⟪ददत्⟫[[br]]dad-at-Ø | ⟪ददती⟫ |
+| **2. Akkusativ** | ⟪ददतम्⟫[[br]]dad-at-am | ⟪ददत्⟫ | |
 | **Plural** | | | |
-| **1. Nominativ** | ददतस् | ददति[[br]]dad-at-i[[br]]ददन्ति[[br]]dad-ant-i | |
-| **2. Akkusativ** | ददतस् | ददति[[br]]ददन्ति | |
+| **1. Nominativ** | ⟪ददतस्⟫ | ⟪ददति⟫[[br]]dad-at-i[[br]]⟪ददन्ति⟫[[br]]dad-ant-i | |
+| **2. Akkusativ** | ⟪ददतस्⟫ | ⟪ददति⟫[[br]]⟪ददन्ति⟫ | |
 ::::
 
-Ähnlich **जुह्वत्** (juhu-at + s)
+Ähnlich **⟪जुह्वत्⟫** (juhu-at + s)
 
 ## 33.6. Wortliste
 
-**दा** 3U **ददाति**: geben
+**⟪दा⟫** 3U **⟪ददाति⟫**: geben
 
 ::: indent
-**Fut.**  दास्यति  
-**Pass.** दीयते  
-**Kaus.** दापयति  
-**PPP** दत्त  
-**Inf.** दातुम्
+**Fut.**  ⟪दास्यति⟫  
+**Pass.** ⟪दीयते⟫  
+**Kaus.** ⟪दापयति⟫  
+**PPP** ⟪दत्त⟫  
+**Inf.** ⟪दातुम्⟫
 
 davon:
 
-**दान** n.: Geben, Gabe, Freigebigkeit
+**⟪दान⟫** n.: Geben, Gabe, Freigebigkeit
 :::
 
 ::: media
 ![](/images/lekt3306.webp)
-Abb.: दानम्
+Abb.: ⟪दानम्⟫
 (Bildquelle: [Details](/licenses#lekt3306))
 :::
 
-**दा** + **आ** 3Ā **अदत्ते**: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
+**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
 
 ::: indent
-**Absol.** आदाय: mit Akk.: in Begleitung von, mit
+**Absol.** ⟪आदाय⟫: mit Akk.: in Begleitung von, mit
 :::
 
 ::: media
 ![](/images/lekt3307.webp)
-Abb.: सा पुत्रमादाय भारं बिभ्रती गच्छति
+Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Bildquelle: [Details](/licenses#lekt3307))
 :::
 
-***धा*** 3U ***दधाति***: setzen, festsetzen, zuteilen
+***⟪धा⟫*** 3U ***⟪दधाति⟫***: setzen, festsetzen, zuteilen
 
 ::: indent
-**Fut.** ***धास्यति***  
-**Pass.** ***धीयते***  
-**Kaus.** ***धापयति***  
-**PPP** ***हित*** (!!)  
-**Inf.** ***धातुम्***
+**Fut.** ***⟪धास्यति⟫***  
+**Pass.** ***⟪धीयते⟫***  
+**Kaus.** ***⟪धापयति⟫***  
+**PPP** ***⟪हित⟫*** (!!)  
+**Inf.** ***⟪धातुम्⟫***
 :::
 
-**धा** + **सम्** + **आ** 3U **समादधाति**: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
+**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
 
 ::: indent
 davon:
 
-**समाधि** m.: innere Sammlung, höchste Aufmerksamkeit
+**⟪समाधि⟫** m.: innere Sammlung, höchste Aufmerksamkeit
 :::
 
 ::: media
 ![](/images/lekt3305.webp)
-Abb.: समाधि
+Abb.: ⟪समाधि⟫
 (Bildquelle: [Details](/licenses#lekt3305))
 :::
 
-**पॄ** 3P **पिपर्ति**: füllen, erfüllen
+**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: füllen, erfüllen
 
 ::: indent
 Merke:
-3.pl.P ***पिपुरति***  
-3.sg.Impf.P ***अपिपर्*** (aus: \*apipart)  
-3.pl.Impf.P ***अपिपरुर्***  
-3.sg.Opt.P ***पिपूर्यात्***
+3.pl.P ***⟪पिपुरति⟫***  
+3.sg.Impf.P ***⟪अपिपर्⟫*** (aus: \*apipart)  
+3.pl.Impf.P ***⟪अपिपरुर्⟫***  
+3.sg.Opt.P ***⟪पिपूर्यात्⟫***
 
-**Fut.** परिष्यति / परीष्यति  
-**Pass.** पूर्यते  
-**Kaus.** पूरयति / पारयति  
-**PPP** पूर्ण / पूर्त / पूरित
+**Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
+**Pass.** ⟪पूर्यते⟫  
+**Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
+**PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
 :::
 
-**पॄ** + **सम्** nur **Pass.** सम्पूर्यते und **Kaus.**: gänzlich füllen
+**⟪पॄ⟫** + **⟪सम्⟫** nur **Pass.** ⟪सम्पूर्यते⟫ und **Kaus.**: gänzlich füllen
 
-**भी** 3P **बिभेति**: sich fürchten vor (Abl., Gen.)
+**⟪भी⟫** 3P **⟪बिभेति⟫**: sich fürchten vor (Abl., Gen.)
 
 ::: indent
-**Fut.** भेष्यति  
-**Pass.** भीयते  
-**Kaus.** भाययति  
-**PPP** भीत  
-**Inf.** भेतुम्
+**Fut.** ⟪भेष्यति⟫  
+**Pass.** ⟪भीयते⟫  
+**Kaus.** ⟪भाययति⟫  
+**PPP** ⟪भीत⟫  
+**Inf.** ⟪भेतुम्⟫
 
 davon:
 
-**भय** n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite)
+**⟪भय⟫** n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite)
 :::
 
 ::: media
 ![](/images/lekt3304.webp)
-Abb.: भयम्
+Abb.: ⟪भयम्⟫
 (Bildquelle: [Details](/licenses#lekt3304))
 :::
 
-**भृ** 3U **बिभर्ति**: tragen, bringen; erhalten, ernähren
+**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: tragen, bringen; erhalten, ernähren
 
 ::: indent
-**Fut.** भरिष्यति  
-**Pass.** भ्रियते  
-**Kaus.** भारयति  
-**PPP** भृत  
-**Inf.** भर्तुम्
+**Fut.** ⟪भरिष्यति⟫  
+**Pass.** ⟪भ्रियते⟫  
+**Kaus.** ⟪भारयति⟫  
+**PPP** ⟪भृत⟫  
+**Inf.** ⟪भर्तुम्⟫
 
 davon:
 
-**भार** m.: Last
+**⟪भार⟫** m.: Last
 :::
 
-**मा** 3Ā **मिमीते**: messen
+**⟪मा⟫** 3Ā **⟪मिमीते⟫**: messen
 
 ::: indent
-**Fut.** मास्यति / मास्यते  
-**Pass.** मीयते  
-**Kaus.** मापयति  
-**PPP** मित  
-**Inf.** मातुम्
+**Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
+**Pass.** ⟪मीयते⟫  
+**Kaus.** ⟪मापयति⟫  
+**PPP** ⟪मित⟫  
+**Inf.** ⟪मातुम्⟫
 :::
 
-**मा** + **उप** 3Ā **उपमिमीते**: vergleichen
+**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: vergleichen
 
 ::: indent
 davon:
 
-**उपमा** f.: Vergleich
+**⟪उपमा⟫** f.: Vergleich
 
-**प्रतिमा** f.: Abbild
+**⟪प्रतिमा⟫** f.: Abbild
 :::
 
-**हा** 3P **जहाति**: verlassen
+**⟪हा⟫** 3P **⟪जहाति⟫**: verlassen
 
 ::: indent
-**Fut.** हास्यति  
-**Pass.** हीयते  
-**Kaus.** हापयति  
-**PPP** हीन: verlassen von, ermangelnd, mangelhaft  
-**Inf.** हातुम्
-von PPP **हीन**:
+**Fut.** ⟪हास्यति⟫  
+**Pass.** ⟪हीयते⟫  
+**Kaus.** ⟪हापयति⟫  
+**PPP** ⟪हीन⟫: verlassen von, ermangelnd, mangelhaft  
+**Inf.** ⟪हातुम्⟫
+von PPP **⟪हीन⟫**:
 
-**हीनयान** n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "großen Fahrzeugs", des **महायान**; der mangelhafte Weg (**यान** zu **या** 2: gehen, fahren). Der Ausdruck हीनयान sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heißt **थेरवाद**.
+**⟪हीनयान⟫** n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "großen Fahrzeugs", des **⟪महायान⟫**; der mangelhafte Weg (**⟪यान⟫** zu **⟪या⟫** 2: gehen, fahren). Der Ausdruck ⟪हीनयान⟫ sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heißt **⟪थेरवाद⟫**.
 :::
 
 ::: media
 ![](/images/lekt3303.webp)
-Abb.: हीनयानमेव
+Abb.: ⟪हीनयानमेव⟫
 (Bildquelle: [Details](/licenses#lekt3303))
 :::
 
-**हु** 3P **जुहोति**: ins Feuer gießen (als Opfer, bes. Schmelzbutter)
+**⟪हु⟫** 3P **⟪जुहोति⟫**: ins Feuer gießen (als Opfer, bes. Schmelzbutter)
 
 ::: indent
-**Fut.** होष्यति  
-**Pass.** हूयते  
-**Kaus.** हावयति  
-**PPP** हुत  
-**Inf.** होतुम्
+**Fut.** ⟪होष्यति⟫  
+**Pass.** ⟪हूयते⟫  
+**Kaus.** ⟪हावयति⟫  
+**PPP** ⟪हुत⟫  
+**Inf.** ⟪होतुम्⟫
 :::
 
 ::: media
 ![](/images/lekt3302.webp)
-Abb.: घृतमग्नौ जुहोति
+Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Bildquelle: [Details](/licenses#lekt3302))
 :::
 
-**घृत** n.: Schmelzbutter, Ghee (घी / گھی / ঘী)
+**⟪घृत⟫** n.: Schmelzbutter, Ghee (⟪घी⟫ / گھی / ঘী)
 
 ::: note-box
 "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
@@ -417,47 +417,47 @@ Abb.: घृतमग्नौ जुहोति
 
 A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in der Klammer ein:
 
-रामस् ... (चतुर्थ्येकवचने बहुवचने च) ... अन्नं ददाति । (भिक्षु । अग्नि । शूद्रा । गुनवान्पुत्र । देवान्स्तुवन्कवि । ब्राह्मणी । महान्साधु । धेनु)
+⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
 B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein:
 
-ब्राह्मणो घृतमग्नौ ... (हु) ॥१॥
+⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 
-बुद्धगता भयान्न ... (भी) ॥२॥
+⟪बुद्धगता⟫ ⟪भयान्न⟫ ... (⟪भी⟫) ⟪॥२॥⟫
 
-सुगतः कुलम् ... (हा) ॥३॥
+⟪सुगतः⟫ ⟪कुलम्⟫ ... (⟪हा⟫) ⟪॥३॥⟫
 
-दुर्जना भिक्षुभ्यो ऽन्नं न ... (दा) ॥४॥
+⟪दुर्जना⟫ ⟪भिक्षुभ्यो⟫ ⟪ऽन्नं⟫ ⟪न⟫ ... (⟪दा⟫) ⟪॥४॥⟫
 
-साधुः कृष्णे मतिम् ... (धा + सम् + आ) ॥५॥
+⟪साधुः⟫ ⟪कृष्णे⟫ ⟪मतिम्⟫ ... (⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫) ⟪॥५॥⟫
 
-ईश्वरो लोकान् ... जनास्तु न ... (मा) ॥६॥
+⟪ईश्वरो⟫ ⟪लोकान्⟫ ... ⟪जनास्तु⟫ ⟪न⟫ ... (⟪मा⟫) ⟪॥६॥⟫
 
-दासा भारान् ... (भृ) ॥७॥
+⟪दासा⟫ ⟪भारान्⟫ ... (⟪भृ⟫) ⟪॥७॥⟫
 
-ब्राह्मणी पात्रं जलेन ... (पॄ) ॥८॥
+⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ... (⟪पॄ⟫) ⟪॥८॥⟫
 
 C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekehrt:
 
-योगयुक्तो मतिं दुःखमक्षनयन्त्यां प्रज्ञायां समाधत्ते ॥१॥
+⟪योगयुक्तो⟫ ⟪मतिं⟫ ⟪दुःखमक्षनयन्त्यां⟫ ⟪प्रज्ञायां⟫ ⟪समाधत्ते⟫ ⟪॥१॥⟫
 
-यो भिक्षवे दानानि दद्यात्सो ऽपि दानपुण्यमाददीत ॥२॥
+⟪यो⟫ ⟪भिक्षवे⟫ ⟪दानानि⟫ ⟪दद्यात्सो⟫ ⟪ऽपि⟫ ⟪दानपुण्यमाददीत⟫ ⟪॥२॥⟫
 
-ब्राह्मणा भारं न बिभ्रतीति ब्राह्मणदासो भारं गृहमबिभः ॥३॥
+⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫
 
 ::: media
 ![](/images/lekt3308.webp)
-Abb.: पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः
+Abb.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
 (Bildquelle: [Details](/licenses#lekt3308))
 :::
 
-क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥
+⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
 
-देवदत्तमपि सुखं दुःखमोक्षेष्टिं न पिपर्ति । सेष्टिः प्रज्ञयैव सम्पूर्यते ॥५॥
+⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
 
-यः साधुर्भूतेभ्यो ऽभयं ददाति तस्माद्भूतानि न बिभ्यति स च तेभ्यो न बिभेति ॥६॥
+⟪यः⟫ ⟪साधुर्भूतेभ्यो⟫ ⟪ऽभयं⟫ ⟪ददाति⟫ ⟪तस्माद्भूतानि⟫ ⟪न⟫ ⟪बिभ्यति⟫ ⟪स⟫ ⟪च⟫ ⟪तेभ्यो⟫ ⟪न⟫ ⟪बिभेति⟫ ⟪॥६॥⟫
 
-मितमतयो नरकभयात्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति । अमितप्रज्ञाबुद्धा हि नरकेभ्यो न बिभीयुः स्वर्गांश्च न लुभ्येयुः । ते भयं च लोभं चारुन्धन् ॥७॥
+⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
 ::: deleteme-box
 
