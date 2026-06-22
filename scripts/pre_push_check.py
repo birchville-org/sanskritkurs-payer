@@ -257,6 +257,28 @@ def check_licenses(files):
             errors.append((path, f'IDs fehlen in licenses.md: {sorted(missing)}'))
     return errors
 
+def check_release_version():
+    """Prüft ob die Version aus package.json auf der Startseite (docs/index.md) eingetragen ist."""
+    import json
+    pkg_path = ROOT / 'package.json'
+    idx_path = ROOT / 'docs/index.md'
+    if not pkg_path.exists() or not idx_path.exists():
+        return None
+    try:
+        pkg_data = json.loads(pkg_path.read_text('utf-8'))
+        version = pkg_data.get('version', '')
+        if not version: return None
+        
+        parts = version.split('.')
+        if len(parts) >= 2:
+            short_v = f"{parts[0]}.{parts[1]}"
+            idx_content = idx_path.read_text('utf-8')
+            if f"Version {short_v}" not in idx_content and f"v{short_v}" not in idx_content:
+                return f"Version {short_v} fehlt in docs/index.md (Release Notes nicht nachgetragen!)"
+    except Exception as e:
+        return f"Fehler beim Version-Check: {e}"
+    return None
+
 # ── Hauptprogramm ──────────────────────────────────────────────────────────────
 
 def main():
@@ -427,6 +449,15 @@ def main():
             total_errors += 1
         else:
             print(f"  ✓ Build OK")
+
+    # ── 10. Release-Version in index.md ──────────────────────────────────────
+    print("\n[7/7] Release-Version in docs/index.md prüfen...")
+    ver_err = check_release_version()
+    if ver_err:
+        print(f"  ❌ {ver_err}")
+        total_errors += 1
+    else:
+        print(f"  ✓ OK")
 
     # ── Zusammenfassung ──────────────────────────────────────────────────────
     print(f"\n{'='*60}")

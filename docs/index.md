@@ -22,13 +22,12 @@ features:
     details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
 ---
 
-:::tip Version 1.4 — Offline-First PWA
-**Neu in v1.4 (Juni 2026):**
+:::tip Version 1.5 — Hebrew Translation & Typography
+**Neu in v1.5 (Juni 2026):**
 
-- **Progressive Web App (PWA):** Der Kurs lässt sich nun als App auf Desktop und Smartphone (iOS/Android) installieren.
-- **Vollständig Offline:** Alle ausgewählten Inhalte werden lokal gespeichert und sind komplett ohne Internetverbindung nutzbar.
-- **Dynamisches Caching:** Über die Einstellungen (Settings) lässt sich jederzeit präzise steuern, welche der 14 Sprachen offline verfügbar sein sollen.
-- **High-Performance:** Massive Reduktion der Ladezeiten und des Datenverbrauchs durch hochkomprimierte WebP-Bilder.
+- **Neue Sprache (Hebräisch):** Der gesamte Kurs ist nun auch auf Hebräisch verfügbar (inkl. RTL-Support).
+- **Sanskrit Typografie:** Systemweite Vereinheitlichung und farbliche Hervorhebung von Devanagari in allen Übersetzungssprachen.
+- **PWA Verbesserungen:** Weitere Stabilisierung der Progressive Web App für die Offline-Nutzung.
 
 **Bemerkungen und Fehlermeldungen:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 **Als Autor oder Korrektor mitwirken:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
