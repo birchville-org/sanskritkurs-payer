@@ -1282,7 +1282,7 @@ def main():
                 translate_file(source_path, os.path.join(lesson_dir, filename), lang, force=force)
 
             # ── Sonderdateien in lektionen/ ──────────────────────────────────
-            for filename in ("wortliste.md", "inhaltsverzeichnis.md", "index.md"):
+            for filename in ("wortliste.md", "inhaltsverzeichnis.md", "index.md", "glossar.md"):
                 src = os.path.join(SOURCE_DIR, filename)
                 if os.path.exists(src):
                     translate_file(src, os.path.join(lesson_dir, filename), lang, force=force)

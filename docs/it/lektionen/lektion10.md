@@ -16,7 +16,8 @@ status: stable
 - La legge della cerebralizzazione per -n- (Sandhi delle parole)
 - La formazione del passivo (yak) nell'indicativo presente
 - Vocabolario su sacrificio, verità e ruoli sociali
-:::## 10.1. La frase passiva
+:::
+## 10.1. La frase passiva
 
 :::grammar-box
 **Schema:**
@@ -40,11 +41,14 @@ Alla frase attiva **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्र
 **I verbi intransitivi (verbi senza oggetto diretto) hanno spesso costruzioni passive, specialmente nelle richieste cortesi:**
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Si prega di entrare = Si prega di entrare = Entrate!"
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = "Si prega di sedersi = Si prega di sedersi = Si prega di prendere posto"
-:::Le costruzioni passive sanscrite sono estremamente frequenti: il passivo è infatti anche più facile da formare rispetto a numerosi stami di presente.
+:::
+Le costruzioni passive sanscrite sono estremamente frequenti: il passivo è infatti anche più facile da formare rispetto a numerosi stami di presente.
 
-:::important
+:::
+important
 **Le frasi passive sanscrite in generale non devono essere rese in tedesco mediante una frase passiva, poiché il passivo tedesco ha una funzione stilistica completamente diversa.**
-:::---
+:::
+---
 
 ## 10.2. L'ablativo-strumentale (tṛtīyā f. = ⟪तृतीया⟫ = "terza desinenza casuale")
 
@@ -95,7 +99,8 @@ Alla frase attiva **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्र
 | | F | **anayā / enayā**:br⟪अनया⟫ / ⟪एनया⟫ | **ābhis**:br⟪आभिस्⟫ |
 ::::::deleteme-box
 Fuori dal Nominativo e dall'Accusativo, le forme dei Neutri in -a, del pronome interrogativo e dei pronomi dimostrativi sono identiche alle forme del corrispondente Maschile.
-:::---
+:::
+---
 
 ### 10.2.1. Sull'uso dello strumentale (tṛtīyā = ⟪तृतीया⟫)
 
@@ -111,7 +116,8 @@ Fuori dal Nominativo e dall'Accusativo, le forme dei Neutri in -a, del pronome i
 3. **per indicare la via, attraverso cui qualcuno raggiunge una destinazione**
 4. **per esprimere l'unione, l'associazione, la compagnia con**
 5. **con le posposizioni nel significato di "insieme con, con"; ad es. saha = ⟪सह⟫ = "con"**:brad es.:br**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "insieme con il brāhmaṇa"
-:::Ulteriori usi dello strumentale (tṛtīyā) seguiranno più avanti.
+:::
+Ulteriori usi dello strumentale (tṛtīyā) seguiranno più avanti.
 
 ---
 
@@ -119,7 +125,8 @@ Fuori dal Nominativo e dall'Accusativo, le forme dei Neutri in -a, del pronome i
 
 :::grammar-box
 Una **-n-**, seguita da una vocale o da **n, m, y, v**, viene sostituita da **-ṇ-**, se **ṛ, ṝ, r, ṣ** precedono il **-n-** nella parola o se tra questi suoni e il **-n-** seguente nella parola non vi è altro suono che vocali, gutturali, labiali, **y, v, h** o Anusvāra.
-:::**Perciò:**
+:::
+**Perciò:**
 
 :::grammar-box
 | | Instrumentale Singolare |
@@ -129,7 +136,8 @@ Una **-n-**, seguita da una vocale o da **n, m, y, v**, viene sostituita da **-�
 | **īśvara**:br⟪ईश्वर⟫ | **īśvereṇa**:br⟪ईश्वरेण⟫ |
 | **kṣatriya**:br⟪क्षत्रिय⟫ | **kṣatriyeṇa**:br⟪क्षत्रियेण⟫ |
 | **naraka**:br⟪नरक⟫ | **narakeṇa**:br⟪नरकेण⟫ |
-:::**Così va spiegato anche il -ṇ- in:**
+:::
+**Così va spiegato anche il -ṇ- in:**
 
 :::indent
 **śravaṇa** ⟪श्रवण⟫
@@ -139,14 +147,16 @@ Una **-n-**, seguita da una vocale o da **n, m, y, v**, viene sostituita da **-�
 **kāraṇa** ⟪कारण⟫
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
-:::---
+:::
+---
 
 ## 10.4. Il passivo, indicativo presente (yak = ⟪यक्⟫)
 
 :::grammar-box
 **Formazione:**
 **(di solito) radice di grado ridotto + -ya- + desinenza Ātmanepada**
-:::ad esempio
+:::
+ad esempio
 
 | Radice:br⟪धातु⟫ | 3. sg. Pass. Pres. Indic.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Pres. Indic.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
@@ -220,7 +230,8 @@ Una **-n-**, seguita da una vocale o da **n, m, y, v**, viene sostituita da **-�
   :::- **pāpa** n. ⟪पाप⟫ : azione malvagia, male (contrario di **puṇya**)
 - **satya** n. ⟪सत्य⟫ : verità
 
-:::note-box
+:::
+note-box
 In India si attribuiva alla parola vera un potere magico; anzi, l'intero ordine cosmico viene mantenuto e creato dalla parola vera. Per questa importante concezione, si veda l'opera fondamentale:
 
 Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. A cura di Ludwig Alsdorf dal lascito. - Gottinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e il Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
@@ -228,7 +239,8 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. A cura di Ludw
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1003))
-:::- **anṛta** n. ⟪अनृत⟫ : falsità, menzogna (contrario di **satya**)
+:::
+- **anṛta** n. ⟪अनृत⟫ : falsità, menzogna (contrario di **satya**)
 
   :::note-box
   Formazione della parola **an-** ("non-") + **ṛta** n.
@@ -242,7 +254,8 @@ Fig.: ⟪वरुणः⟫
 ![](/images/lekt1002.jpg)
 Fig.: ⟪विश्वामित्रः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1002))
-:::- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : dire, parlare
+:::
+- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : dire, parlare
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : chiedere (qualcuno: Acc.; qualcosa: Acc.)
 - **saha** ⟪सह⟫ : insieme con, in comune con (anche nel contesto di "combattere con" ecc.) (Postposizione con strumentale)
 
@@ -305,7 +318,8 @@ Fig.: ⟪विश्वामित्रः⟫
 ![](/images/lekt1004.jpg)
 Fig.: ⟪तन्तुवायः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1004))
-:::5. Gli insegnanti chiedono. (costruzione passiva)
+:::
+5. Gli insegnanti chiedono. (costruzione passiva)
 6. L'occhio guida. (costruzione passiva)
 7. Il poeta vede una divinità. (costruzione passiva)
 8. Chi (fem.) custodisce la ragazza? (costruzione passiva)
@@ -350,12 +364,14 @@ Fig.: ⟪तन्तुवायः⟫
 **⟪क⟫**
 
 ⟪१⟫.
-:::center
+:::
+center
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
 ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
-:::⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
+:::
+⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
 ⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ | |
 ⟪४⟫. ⟪ऋषयः⟫ ⟪सूक्तानि⟫ ⟪पश्यन्ति⟫ | |
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ | |

@@ -37,7 +37,8 @@ Determine y traduzca las siguientes formas y forme las correspondientes formas d
 ![](/images/uebung095.webp)
 Fig.: ⟪तब्लाः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung095))
-:::---
+:::
+---
 
 ## B) Determinaciones de palabras
 

@@ -18,7 +18,8 @@ status: stable
 **En la Causativa se utiliza el Ātmanepada (⟪आत्मनेपद⟫):**
 
 **1. Cuando el fruto de la acción causada beneficia al causante:**
-:::Ejemplo:
+:::
+Ejemplo:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma hace que se haga una estera para sí (en su propio interés)"
 
@@ -41,7 +42,8 @@ Preposiciones:
 ⟪उद्⟫° : sobre, hacia arriba, en alto, hacia fuera, de, extraer-
 
 ⟪परि⟫° : alrededor, por (lugar, tiempo), por ahí
-:::⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (convertirse alrededor de alguien = rodear =) dominar, vencer; ignorar, menospreciar
+:::
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (convertirse alrededor de alguien = rodear =) dominar, vencer; ignorar, menospreciar
 
 ⟪अवज्ञान⟫ n.: menosprecio
 
@@ -57,7 +59,8 @@ Pás. ⟪ग्रस्यते⟫
 Caus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
-:::⟪तीक्ष्ण⟫ 3: "salvaje", agudo, afilado, severo, intenso, mordaz
+:::
+⟪तीक्ष्ण⟫ 3: "salvaje", agudo, afilado, severo, intenso, mordaz
 
 ⟪न्याय⟫ m.: norma, regla, manera correcta; método, lógica (de ⟪इ⟫ + ⟪नि⟫)
 
@@ -68,7 +71,8 @@ Inf. ⟪ग्रसितुम्⟫
 Fig.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2903))
-:::⟪पालयति⟫ : también sinónimo con  ⟪पाति⟫
+:::
+⟪पालयति⟫ : también sinónimo con  ⟪पाति⟫
 
 ⟪पुनर्⟫ Indec.: de nuevo, una y otra vez, de vuelta, otra vez; en cambio, pero (antes de sonidos sonoros excepto r-: ⟪पुनर्⟫)
 
@@ -83,7 +87,8 @@ de ello:
 ![](/images/lekt2901.webp)
 Fig.: ⟪मत्स्यः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2901))
-:::⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): suave, benigno, blando; lento, débil
+:::
+⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): suave, benigno, blando; lento, débil
 
 ⟪यथा⟫ Adv.: cómo, como si
 
@@ -95,7 +100,8 @@ Pás. ⟪रम्यते⟫
 Caus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
-:::⟪वानप्रस्थ⟫ m.: ermitaño del bosque (alguien que se encuentra en el 3. ⟪आश्रम⟫)
+:::
+⟪वानप्रस्थ⟫ m.: ermitaño del bosque (alguien que se encuentra en el 3. ⟪आश्रम⟫)
 
 ⟪शुचि⟫ 3: resplandeciente, brillante, fino; m.: pureza
 
@@ -103,7 +109,8 @@ Inf. ⟪रन्तुम्⟫
 
 :::indent
 PPP ⟪पूजित⟫
-:::## 29.3. Ejercicio de traducción para repaso
+:::
+## 29.3. Ejercicio de traducción para repaso
 
 Traduzca literalmente a un buen alemán y memorice los textos sánscritos:
 
@@ -139,7 +146,8 @@ Explicación: ⟪आत्मसु⟫ = Loc. sg. de ⟪आत्मन्⟫ m.
 ![](/images/lekt2902.jpg)
 Fig.: ⟪मात्स्यन्याय⟫:
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2902))
-:::Explicaciones:
+:::
+Explicaciones:
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "algo (alguien), ante lo cual uno debe temblar"
 

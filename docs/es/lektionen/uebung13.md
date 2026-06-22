@@ -124,7 +124,8 @@ Los sabios védicos ven que el demonio de ninguna manera triunfa.
 ![](/images/uebung019.webp)
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung019))
-:::---
+:::
+---
 
 ## Ejercicios adicionales
 

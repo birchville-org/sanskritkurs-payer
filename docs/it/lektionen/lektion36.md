@@ -13,7 +13,8 @@ status: stable
 
 ::::grammar-box
 1\. Alcune radici mostrano, dopo la sillaba di reduplicazione, una variazione dell'inizio della radice.
-::::Esempi:
+::::
+Esempi:
 
 | Radice:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -39,7 +40,8 @@ status: stable
 | Radice:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | **⟪भू⟫** 1P | **⟪बभूव⟫** | **⟪बभूवुर्⟫** |
-::::## 36.2. Il perfetto perifrastico (⟪अनुप्रयोगलिट्⟫)
+::::
+## 36.2. Il perfetto perifrastico (⟪अनुप्रयोगलिट्⟫)
 
 ::::grammar-box
 Il perfetto perifrastico (⟪अनुप्रयोगलिट्⟫) è usato:
@@ -54,7 +56,8 @@ radice del presente (debole) + -ām + la forma corrispondente del perfetto di �
 
 - La vocale finale del tema subisce guṇa prima di -ām.
 - ⟪अस्⟫ e ⟪भू⟫ sono coniugati anche nel Parasmaipada per i verbi Ātmanepada.
-::::Il perfetto perifrastico è probabilmente sorto dall'accusativo di un nome verbale in -ā. Questo accusativo viene usato -- come spesso altrove -- avverbialmente.
+::::
+Il perfetto perifrastico è probabilmente sorto dall'accusativo di un nome verbale in -ā. Questo accusativo viene usato -- come spesso altrove -- avverbialmente.
 
 Esempi:
 
@@ -70,7 +73,8 @@ Nel perfetto, per il passivo si utilizzano le forme dell'Ātmanepada. Si preferi
 
 :::indent
 ⟪तेन⟫ ⟪पुण्यं⟫ ⟪चक्रे⟫ = ⟪तेन⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ = "Egli compì un'opera meritoria"
-:::::::## 36.4. Elenco di parole
+:::::::
+## 36.4. Elenco di parole
 
 ⟪अह्⟫ P solo perfetto con significato presente ⟪आह⟫, ⟪आहुर्⟫ : dire, parlare
 
@@ -85,7 +89,8 @@ Pass. ⟪ईक्ष्यते⟫
 Kaus. ⟪ईक्षयति⟫  
 PPP ⟪ईक्षित⟫  
 Inf. ⟪ईक्षितुम्⟫
-:::⟪चि⟫ 5U ⟪चिनोति⟫ : accumulare, raccogliere
+:::
+⟪चि⟫ 5U ⟪चिनोति⟫ : accumulare, raccogliere
 
 :::indent
 Perf. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
@@ -98,7 +103,8 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3601))
-:::⟪व्रज्⟫ 1P ⟪व्रजति⟫ : procedere, andare, andarsene
+:::
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : procedere, andare, andarsene
 
 :::indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -107,7 +113,8 @@ Pass. ⟪व्रज्यते⟫
 Kaus. ⟪व्राजयति⟫  
 PPP ⟪व्रजित⟫  
 Inf. ⟪व्रजितुम्⟫
-:::⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : andarsene (in particolare dalla casa verso l'irrealtà come asceta = diventare un monaco)
+:::
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : andarsene (in particolare dalla casa verso l'irrealtà come asceta = diventare un monaco)
 
 ⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: casa, focolare
 
@@ -123,7 +130,8 @@ da ciò:
 ![](/images/lekt3603.webp)
 Fig.: ⟪अनगार्यम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3603))
-:::⟪अञ्जलि⟫ m.: Le due mani unite in alto per mostrare rispetto
+:::
+⟪अञ्जलि⟫ m.: Le due mani unite in alto per mostrare rispetto
 
 ⟪आदृत⟫ 3: stimato
 
@@ -135,7 +143,8 @@ Fig.: ⟪अनगार्यम्⟫
 
 :::indent
 ⟪पृष्ठम्⟫ : dietro
-:::⟪प्रजापति⟫ m.: signore delle creature, dio creatore
+:::
+⟪प्रजापति⟫ m.: signore delle creature, dio creatore
 
 ⟪अनु⟫ prefisso: dopo, lungo, sopra - attraverso, lungo, secondo, aggiungere, dietro - attraverso
 
@@ -145,7 +154,8 @@ ad esempio
 ⟪अनुकृ⟫ : imitare, fare come
 
 ⟪अनुगम्⟫ : seguire qualcuno, andare lungo
-:::⟪अभि⟫ : -, dopo - attraverso, verso - attraverso, verso - attraverso, contro, in - dentro, in relazione a, su, sopra, a
+:::
+⟪अभि⟫ : -, dopo - attraverso, verso - attraverso, verso - attraverso, contro, in - dentro, in relazione a, su, sopra, a
 
 :::indent
 ad esempio
@@ -153,7 +163,8 @@ ad esempio
 ⟪अभिगम्⟫ : andare verso, avvicinarsi
 
 ⟪वद्⟫ + ⟪अभि⟫ Causativo Ā ⟪अभिवादयते⟫ : salutare formalmente, rivolgere la parola
-:::⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : provare avversione, svanire
+:::
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : provare avversione, svanire
 
 :::indent
 Perf. IV ⟪जग्लौ⟫  
@@ -163,7 +174,8 @@ Kaus. ⟪ग्लापयति⟫ ⟪।⟫ ⟪ग्लपयति⟫
 PPP ⟪ग्लान⟫  
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
-:::⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : sentire odore di qualcosa
+:::
+⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : sentire odore di qualcosa
 
 :::indent
 Perf. IV ⟪जघ्रौ⟫  
@@ -173,7 +185,8 @@ Kaus. ⟪घ्रापयति⟫
 PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫  
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
-:::⟪प्री⟫ 9U ⟪प्रीणति⟫ : divertire, rallegrare; amare, essere favorevole a qualcuno
+:::
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : divertire, rallegrare; amare, essere favorevole a qualcuno
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : rallegrarsi
 
@@ -184,7 +197,8 @@ Pass. ⟪प्रीयते⟫
 Kaus. ***⟪प्रीणयति⟫***  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
-:::⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : toccare
+:::
+⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : toccare
 
 :::indent
 Perf IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
@@ -198,7 +212,8 @@ Absol. -⟪स्पृश्य⟫
 ![](/images/lekt3606.webp)
 Fig.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3606))
-:::⟪हृष्⟫ 4P ⟪हृष्यति⟫ : irrigidirsi: drizzarsi (capelli), rallegrarsi per (istr., acc., loc.)
+:::
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : irrigidirsi: drizzarsi (capelli), rallegrarsi per (istr., acc., loc.)
 
 :::indent
 Perf II ⟪जहर्ष⟫  
@@ -210,7 +225,8 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3604))
-:::⟪स्वक⟫ 3: proprio (mio, tuo ...) ; m.: membro
+:::
+⟪स्वक⟫ 3: proprio (mio, tuo ...) ; m.: membro
 
 
 
@@ -252,7 +268,8 @@ D) Tradurre:
 ![](/images/lekt3605.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3605))
-:::⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञेन⟫ ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫
+:::
+⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञेन⟫ ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫
 
 ⟪रक्षितधर्मक्षत्रिययोधा⟫ ⟪महानगरं⟫ ⟪जेतुकामाञ्छत्रून्विजिग्युर्न⟫ ⟪तु⟫ ⟪जघ्नुः⟫ ⟪॥३॥⟫
 
@@ -404,19 +421,22 @@ Spiegazioni:
 ![](/images/lekt3607.webp)
 Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3607))
-:::2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ sul corretto comportamento verso gli anziani:
+:::
+2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ sul corretto comportamento verso gli anziani:
 
 :::indent
 ⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫
 ⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫
-:::3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Chi è un ⟪जितेन्द्रिय⟫ :
+:::
+3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Chi è un ⟪जितेन्द्रिय⟫ :
 
 :::indent
 ⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫
 ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ***⟪विज्ञेयो⟫*** ⟪जितेन्द्रियः⟫ ⟪॥⟫
 
 Spiegazione: ⟪विज्ञेय⟫ ⟪३⟫: uno che è riconoscibile; uno che è conoscibile (come)
-:::4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ sul corretto comportamento di un Brahmano:
+:::
+4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ sul corretto comportamento di un Brahmano:
 
 :::indent
 ⟪नापृष्टः⟫ ⟪कस्यचिद्ब्रूयान्न⟫ ⟪चान्यायेन⟫ ⟪पृच्छतः⟫ ⟪।⟫
@@ -429,7 +449,8 @@ In questo verso ⟪ब्रू⟫ è costruito con il genitivo
 ⟪मेधावी⟫ : Nom. sg. masch. di ⟪मेधाविन्⟫ ⟪३⟫ "saggio, intelligente"
 
 ⟪जडवत्⟫ Avv. "Alla stregua di uno ottuso/stupido/idiota"
-:::## 36.8. Esercizio di ripasso sulla morfologia
+:::
+## 36.8. Esercizio di ripasso sulla morfologia
 
 Determinare e tradurre le seguenti forme verbali in tutti i modi possibili:
 

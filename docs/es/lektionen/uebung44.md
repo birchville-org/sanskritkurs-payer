@@ -66,7 +66,8 @@ A) Determine y traduzca las siguientes formas:
 | | ⟪५०⟫. **⟪चिनुथ⟫** | ⟪चि⟫ (5U) 2. pl. P. Ind. Präs. | vosotros apiláis |
 | | ⟪५१⟫. **⟪हथ⟫** | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | vosotros golpeáis |
 | | ⟪५२⟫. **⟪हतः⟫** | ⟪हन्⟫ (2P) PPP Nom. sg. m. | golpeado / muerto |
-:::---
+:::
+---
 
 ## Traducciones
 
@@ -100,7 +101,8 @@ Has llorado a los no dignos de llanto y querías pronunciar palabras de sabidur�
 ![](/images/uebung072.webp)
 Fig.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung072))
-:::---
+:::
+---
 
 ## Otras determinaciones de forma
 

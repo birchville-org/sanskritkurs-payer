@@ -22,7 +22,8 @@ status: stable
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | &lt;⟪जुहुषे⟫&gt; | &lt;⟪जुहुध्वे⟫&gt; |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | &lt;⟪अजुहुथास्⟫&gt; | &lt;⟪अजुहुध्वम्⟫&gt; |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | &lt;⟪जुह्वीथास्⟫&gt; | &lt;⟪जुह्वीध्वम्⟫&gt; |
-:::⟪धा⟫ 2U
+:::
+⟪धा⟫ 2U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -31,13 +32,15 @@ status: stable
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:brdin: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
-:::### 45.1.2. A șaptea clasă de prezintă (⟪रुधादि⟫)
+:::
+### 45.1.2. A șaptea clasă de prezintă (⟪रुधादि⟫)
 
 :::grammar-box
 **Dacă un k/g final al rădăcinii se află între nasalul ṅ și un dental al terminației, atunci k/g poate cădea în mod opțional**
 
 de ex. **⟪युज्⟫** 3.sg.Ind.Prez.Ā ⟪युङ्क्ते⟫ sau ⟪यु⟫***⟪ङ्ते⟫***
-:::⟪युज्⟫ 7U
+:::
+⟪युज्⟫ 7U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -46,7 +49,8 @@ de ex. **⟪युज्⟫** 3.sg.Ind.Prez.Ā ⟪युङ्क्ते⟫ sa
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अयुनक्⟫:brdin: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
-:::⟪रुध्⟫ 7U
+:::
+⟪रुध्⟫ 7U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -55,7 +59,8 @@ de ex. **⟪युज्⟫** 3.sg.Ind.Prez.Ā ⟪युङ्क्ते⟫ sa
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अरुणत्⟫:brdin a-ru-ṇa-dh + s:br ***⟪अरुण्स्⟫*** (nereg.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
-:::## 45.2. Vocativul singular (⟪आमन्त्रितमेकवचने⟫)
+:::
+## 45.2. Vocativul singular (⟪आमन्त्रितमेकवचने⟫)
 
 :::grammar-box
 **Majoritatea vocativelor la singular corespund temei cu final vocalic.**
@@ -91,7 +96,8 @@ De exemplu, **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪रा
 ![](/images/lekt4501.webp)
 Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4501))
-:::## 45.3. Listă de cuvinte
+:::
+## 45.3. Listă de cuvinte
 
 ⟪वा⟫ ... ⟪वा⟫ : fie ... fie
 
@@ -105,7 +111,8 @@ A) Traduceți în sanscrită (pentru formele de trecut, vă rugăm să utilizaț
 pentru divizarea comunității (⟪सङ्घभेद⟫) vezi:
 
 **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale privind conceptele fundamentale ale buddhismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::2\. V-ați bucurat de pământ?
+:::
+2\. V-ați bucurat de pământ?
 
 3\. Ai primit un dar de la rege?
 

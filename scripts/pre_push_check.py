@@ -456,9 +456,13 @@ def main():
     print("\n[5c] qa_viewer.html — Dropdown Parität und Aktualität...")
     qa_err = check_qa_viewer_dropdowns()
     if qa_err:
-        print(f"  ❌ {qa_err}")
-        print("     → Bitte docs/public/qa_viewer.html an docs/.vitepress/config.mjs (allLocales) angleichen")
-        total_errors += 1
+        if fix_mode:
+            subprocess.run(['python3', 'scripts/sync_qa_viewer.py'], cwd=ROOT)
+            print("  ✓ Automatisch repariert: Dropdowns synchronisiert")
+        else:
+            print(f"  ❌ {qa_err}")
+            print("     → Bitte docs/public/qa_viewer.html an docs/.vitepress/config.mjs (allLocales) angleichen")
+            total_errors += 1
     else:
         print("  ✓ OK — Dropdowns sind synchron und entsprechen allLocales")
 

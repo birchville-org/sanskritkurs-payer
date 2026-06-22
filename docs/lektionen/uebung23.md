@@ -111,7 +111,8 @@ Essen, Schlafen, Furcht und Sex ist den Menschen mit dem Vieh gemein. Der hervor
 ![](/images/uebung035.webp)
 Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Bildquelle: [Details](/licenses#uebung035))
-:::---
+:::
+---
 
 ## Zusätzliche Übungen
 

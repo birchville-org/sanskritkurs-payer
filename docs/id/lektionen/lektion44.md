@@ -15,7 +15,8 @@ status: stable
 ![](/images/lekt4301.jpg)
 ::::::grammar-box
 **The 3.sg.Ā.Imperfect is formally identical with the 2.pl.P.Imperfect!!!**
-:::### 44.1.1. Fifth Present Class (⟪स्वादि⟫)
+:::
+### 44.1.1. Fifth Present Class (⟪स्वादि⟫)
 
 ⟪सु⟫ 5U
 
@@ -26,7 +27,8 @@ status: stable
 | **Indicative Present**:br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
-:::### 44.1.2. Eighth Present Class (⟪तनादि⟫)
+:::
+### 44.1.2. Eighth Present Class (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -37,7 +39,8 @@ status: stable
 | **Indicative Present**:br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
-:::⟪कृ⟫ 8U
+:::
+⟪कृ⟫ 8U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -46,7 +49,8 @@ status: stable
 | **Indicative Present**:br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
-:::### 44.1.3. Ninth Present Class (⟪क्र्यादि⟫)
+:::
+### 44.1.3. Ninth Present Class (⟪क्र्यादि⟫)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -55,7 +59,8 @@ status: stable
 | **Indicative Present**:br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
-:::## 44.2. On Word-Sandhi
+:::
+## 44.2. On Word-Sandhi
 
 For present stems ending in a consonant, the already discussed rules of word-sandhi must be observed.
 
@@ -74,7 +79,8 @@ Furthermore, the following rules of word-sandhi apply.
    e.g. **⟪द्विष्⟫** 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » **⟪द्विड्ढ्वे⟫** (dvi**ḍḍh**ve)
 4. **-s + dh- » -dh-** (Loss of -s)
    e.g. **⟪आस्⟫** 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve)
-:::### 44.2.2. On s-Sandhi
+:::
+### 44.2.2. On s-Sandhi
 
 :::grammar-box
 1. **-s + s- » -ts- or (not optionally!) -ss-** (as in the 2nd Present class)
@@ -83,7 +89,8 @@ Furthermore, the following rules of word-sandhi apply.
    * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
    e.g. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
-:::## 44.3. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without a vocally ending suffix
+:::
+## 44.3. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without a vocally ending suffix
 
 ### 44.3.1. Second Present Class (⟪अदादि⟫)
 
@@ -94,7 +101,8 @@ Furthermore, the following rules of word-sandhi apply.
 | **Indicative Present**:br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
-:::⟪आस्⟫ 2Ā
+:::
+⟪आस्⟫ 2Ā
 
 :::grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
@@ -103,7 +111,8 @@ Furthermore, the following rules of word-sandhi apply.
 | **Indicative Present**:br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
-:::⟪दुह्⟫ 2U
+:::
+⟪दुह्⟫ 2U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -112,7 +121,8 @@ Furthermore, the following rules of word-sandhi apply.
 | **Indicative Present**:br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अधोक्⟫:brfrom: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
-:::⟪इ⟫ 2P
+:::
+⟪इ⟫ 2P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -128,7 +138,8 @@ Furthermore, the following rules of word-sandhi apply.
 | **Indicative Present**:br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:brfrom: *hn + ta |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अहन्⟫:brfrom: a-han + s | ⟪अहत⟫:brfrom: a-*hn + ta |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
-:::⟪स्तु⟫ 2U
+:::
+⟪स्तु⟫ 2U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -137,7 +148,8 @@ Furthermore, the following rules of word-sandhi apply.
 | **Indicative Present**:br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
-:::⟪अस्⟫ 2P (especially to be remembered!)
+:::
+⟪अस्⟫ 2P (especially to be remembered!)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -146,7 +158,8 @@ Furthermore, the following rules of word-sandhi apply.
 | **Indicative Present**:br⟪लट्⟫ | ***⟪असि⟫*** | ***⟪स्थ⟫*** |
 | **Imperfect**:br⟪लङ्⟫ | ***⟪आसीस्⟫*** | ***⟪आस्त⟫*** |
 | **Optative**:br⟪विधिलिङ्⟫ | ***⟪स्यास्⟫*** | ***⟪स्यात⟫*** |
-:::⟪तत्त्वमसि⟫
+:::
+⟪तत्त्वमसि⟫
 
 ⟪शास्⟫ 2P
 
@@ -165,18 +178,21 @@ Furthermore, the following rules of word-sandhi apply.
 
 | **Imperfect**:br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
-:::## 44.4. The Vocative (⟪आमन्त्रितम्⟫)
+:::
+## 44.4. The Vocative (⟪आमन्त्रितम्⟫)
 
 The native grammarians do not consider the vocative (⟪आमन्त्रितम्⟫) as an independent case, but only as a modification of the nominative (⟪प्रथमा⟫).
 
-::::important
+::::
+important
 **The vocative serves for calling out, addressing, and stands outside the context of the rest of the sentence, thus differing from the other cases that express a relationship to the verb or to another noun.**
 
 **Mostly, the vocative is placed at the beginning of the sentence:**
 
 :::indent
 ⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Child, what are you saying?"
-::::::::::important
+::::::::::
+important
 **Avoid translating the vocative with "**O** ...". We constantly use vocatives in German when we say, for example: "Darling, what are we cooking today?". Nobody would say in this meaning: "**O** Darling, what are we cooking today?"**
 ::::::media
 ![](/images/lekt4402.webp)
@@ -186,7 +202,8 @@ Fig.: On the correct use of "O" in German: **"O man!"**
 **The forms of the vocative plural and dual are identical to those of the nominative (⟪प्रथमा⟫) plural and dual.**
 
 **The forms of the vocative singular are given in [Lesson 45](lektion45.md).**
-:::## 44.5. Word List
+:::
+## 44.5. Word List
 
 ⟪प्रति⟫ Preverb: back, against, toward - away
 
@@ -198,7 +215,8 @@ e.g.
 **⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : to say back = to answer
 
 **⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : to reject, to spurn
-:::⟪या⟫ 2P ⟪याति⟫ : to go, to travel
+:::
+⟪या⟫ 2P ⟪याति⟫ : to go, to travel
 
 :::indent
 Perf. IV ⟪ययौ⟫  
@@ -215,7 +233,8 @@ therefrom:
 ![](/images/lekt4403.webp)
 Fig.: ⟪रेल्यानम्⟫
 (Image source: [Details](/en/licenses#lekt4403))
-:::**⟪शी⟫** 2Ā ⟪शेते⟫ : to lie. This root has in all forms of the present stem **Strong Grade:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). The following forms are particularly noteworthy: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
+:::
+**⟪शी⟫** 2Ā ⟪शेते⟫ : to lie. This root has in all forms of the present stem **Strong Grade:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). The following forms are particularly noteworthy: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
 
 :::indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -231,7 +250,8 @@ therefrom:
 ![](/images/lekt4404.webp)
 Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Image source: [Details](/en/licenses#lekt4404))
-:::⟪नन्द्⟫ 1P ⟪नन्दति⟫ : to rejoice in (⟪तृतीयया⟫)
+:::
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : to rejoice in (⟪तृतीयया⟫)
 
 :::indent
 Perf. I ⟪ननन्द⟫  
@@ -250,7 +270,8 @@ therefrom:
 ![](/images/lekt4405.webp)
 Fig.: ⟪नन्दी⟫
 (Image source: [Details](/en/licenses#lekt4405))
-:::⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : to take pleasure in (⟪द्वितीयया⟫), to greet someone joyfully, to welcome
+:::
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : to take pleasure in (⟪द्वितीयया⟫), to greet someone joyfully, to welcome
 
 **⟪यम्⟫** 1P ***⟪यच्छति⟫*** : to hold, to carry; to offer, to grant; to hold together, to restrain, to bridle, to conquer
 
@@ -262,7 +283,8 @@ Caus. ⟪यामयति⟫ but: ⟪नि⟫***⟪यम⟫***⟪यति�
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
-:::**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : to extend, to stretch out
+:::
+**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : to extend, to stretch out
 
 :::indent
 PPP ⟪आयत⟫ 3: long stretched out
@@ -270,7 +292,8 @@ PPP ⟪आयत⟫ 3: long stretched out
 ![](/images/lekt4406.webp)
 Fig.: ⟪आयतो⟫ ⟪मरुः⟫
 (Image source: [Details](/en/licenses#lekt4406))
-:::⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : to offer, to present, to hand over
+:::
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : to offer, to present, to hand over
 
 ⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : to bind together, to tie up, to restrain
 
@@ -291,7 +314,8 @@ therefrom:
 ![](/images/lekt4407.webp)
 Fig.: ⟪यत्नेन⟫
 (Image source: [Details](/en/licenses#lekt4407))
-:::**⟪रभ्⟫** 1Ā ⟪रभते⟫ (variant form to ⟪लभ्⟫): to grasp
+:::
+**⟪रभ्⟫** 1Ā ⟪रभते⟫ (variant form to ⟪लभ्⟫): to grasp
 
 :::indent
 Perf. Vb ⟪रेभे⟫  
@@ -301,7 +325,8 @@ Caus. ***⟪रम्भ⟫***⟪यति⟫
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
-:::⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : to touch, to begin, to undertake
+:::
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : to touch, to begin, to undertake
 
 ⟪प्रव्रज्या⟫ f. (to ⟪प्र⟫-⟪व्रज्⟫): the going out from home into homelessness; ceremony with which one becomes a Buddhist novice (Pali: ⟪पब्बजा⟫)
 
@@ -314,7 +339,8 @@ See:
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Image source: [Details](/en/licenses#lekt4408))
-:::## 44.6. Exercise
+:::
+## 44.6. Exercise
 
 A) Identify and translate the following forms:
 
@@ -375,7 +401,8 @@ A) Identify and translate the following forms:
 ![](/images/lekt4409.webp)
 Fig.: ⟪कस्माद्रोदिषि⟫
 (Image source: [Details](/en/licenses#lekt4409))
-:::B) Translate:
+:::
+B) Translate:
 
 ⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
 

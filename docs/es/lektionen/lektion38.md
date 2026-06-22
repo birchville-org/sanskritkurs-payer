@@ -18,7 +18,8 @@ status: stable
 ⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
 ⟪प्रति⟫***⟪गु⟫*** ⟪प्रतिवातं⟫ ⟪च⟫  
 ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
-:::Explicaciones:
+:::
+Explicaciones:
 
 \-⟪अग्नि⟫ Neutro Nom.Akk.sg. a ⟪अग्नि⟫ m.
 
@@ -28,13 +29,15 @@ status: stable
 ![](/images/lekt3801.webp)
 Fig.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3801))
-:::## 38.2. Cambio fonético de nasales en la palabra
+:::
+## 38.2. Cambio fonético de nasales en la palabra
 
 :::grammar-box
 Las nasales en la palabra se asimilan a los consonantes siguientes, es decir, se reemplazan por la nasal correspondiente a ese consonante.
 
 Después de c- y j-, -n- se reemplaza por -ñ-.
-:::## 38.3. Declinación de las raíces en -n
+:::
+## 38.3. Declinación de las raíces en -n
 
 ### 38.3.1. Nombres en -an, así como nombres en -man o -van tras vocal
 :::grammar-box
@@ -47,7 +50,8 @@ Los nombres en **-an** y los nombres **-man** o **-van** tras vocal tienen tres 
 | **Raíz más débil** | **-n** | **-mn** | **-vn** | Resto de casos ante terminación vocálica |
 
 **Las terminaciones son regulares. El Nominativo Singular m. f. se forma sin -n final.**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ⟪राजन्⟫ m. "Rey"
 
@@ -91,7 +95,8 @@ Los nombres en **-an** y los nombres **-man** o **-van** tras vocal tienen tres 
 ![](/images/lekt3803.webp)
 Fig.: ⟪सीमा⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3803))
-:::### 38.3.2. Sustantivos en -man o -van después de consonante
+:::
+### 38.3.2. Sustantivos en -man o -van después de consonante
 
 :::grammar-box
 *   Starker Stamm: -mān, -vān
@@ -100,7 +105,8 @@ Fig.: ⟪सीमा⟫
     *   antes de terminaciones que comienzan con vocal: **\-man, -van**
 
 El resto de la formación es como en 3.1.
-:::Ejemplos:
+:::
+Ejemplos:
 
 ⟪आत्मन्⟫ n. "alma"
 
@@ -136,7 +142,8 @@ El resto de la formación es como en 3.1.
 | **⟪षष्ठी⟫** | **⟪आत्मनाम्⟫** | **⟪ब्रह्मणाम्⟫** |
 | **⟪सप्तमी⟫** | **⟪आत्मसु⟫** | **⟪ब्रह्मसु⟫** |
 
-::::### 38.3.3. Masculinos y neutros en -in, -min, -vin
+::::
+### 38.3.3. Masculinos y neutros en -in, -min, -vin
 
 :::grammar-box
 Estos nombres **no tienen** ablaut de raíz.
@@ -144,7 +151,8 @@ Estos nombres **no tienen** ablaut de raíz.
 El Nom.sg.m. y el Nom.Akk.pl.n. se forman por analogía con las raíces en -an (alargamiento de -i-), al igual que la raíz en **\-i-** antes de una terminación consonántica.
 
 El femenino se forma con el sufijo -ī: p. ej. ⟪बलिनी⟫
-:::Ejemplo:
+:::
+Ejemplo:
 
 ⟪बलिन्⟫ m.n. "fuerte, vigoroso (caracterizado por un ⟪बल⟫ especial, poseedor de ⟪बल⟫)"
 
@@ -169,7 +177,8 @@ El femenino se forma con el sufijo -ī: p. ej. ⟪बलिनी⟫
 | **⟪षष्ठी⟫** | **⟪बलिनाम्⟫**||
 | **⟪सप्तमी⟫** | **⟪बलिषु⟫**||
 
-::::## 38.4. Sobre la formación nominal: Sufijo ⟪तद्धित⟫ -in
+::::
+## 38.4. Sobre la formación nominal: Sufijo ⟪तद्धित⟫ -in
 
 :::grammar-box
 Con el (¡muy importante!) sufijo ⟪तद्धित⟫ **-in** se forman adjetivos a partir de sustantivos con el significado:
@@ -177,7 +186,8 @@ Con el (¡muy importante!) sufijo ⟪तद्धित⟫ **-in** se forman adj
 **caracterizado por, poseedor de**
 
 Originalmente, la formación con el sufijo **-⟪इन्⟫** se diferenciaba de la formada con **-⟪मन्त्⟫/-⟪वन्त्⟫** en que **-⟪इन्⟫** designaba la caracterización por algo especial, mientras que **-⟪मन्त्⟫/-⟪वन्त्⟫** expresaba la posesión de, la caracterización por algo que es ordinario, común.
-:::Ejemplo:
+:::
+Ejemplo:
 
 ⟪हस्तिन्⟫ m.: el caracterizado por una mano especial = el elefante (su mano no es una mano ordinaria, sino una trompa)
 
@@ -185,7 +195,8 @@ Originalmente, la formación con el sufijo **-⟪इन्⟫** se diferenciaba 
 ![](/images/lekt3806.webp)
 Fig.: ⟪हस्ती⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3806))
-:::⟪हस्तवन्त्⟫ : uno que tiene (manos) humanas
+:::
+⟪हस्तवन्त्⟫ : uno que tiene (manos) humanas
 
 :::media
 ![](/images/lekt3807.webp)
@@ -193,7 +204,8 @@ Fig.: ⟪हस्तवान्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3807))
 ::::::grammar-box
 Los adjetivos terminados en **-⟪इन्⟫** se forman con gusto como compuestos.
-:::Ejemplo:
+:::
+Ejemplo:
 
 ⟪सत्यवादिन्⟫ de ⟪सत्यवाद⟫ m. "habla de la verdad": "alguien caracterizado por el habla de la verdad = uno que siempre dice la verdad"
 
@@ -205,11 +217,13 @@ Para expresar "alguien llamado N. N.", se construye:
 **N.N. (en nominativo) ⟪नाम⟫**
 
 Literalmente: "el nombre es/fue N.N". Se trata, por tanto, de una oración nominal intercalada.
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ "Había una vez un rey **llamado Nala**, el fuerte hijo de Vīrasena."
-:::Por supuesto, se puede expresar lo mismo con un ⟪बहुव्रीहि⟫:
+:::
+Por supuesto, se puede expresar lo mismo con un ⟪बहुव्रीहि⟫:
 
 :::indent
 ⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ "un hombre, cuyo nombre es Devadatta"
@@ -219,11 +233,13 @@ Literalmente: "el nombre es/fue N.N". Se trata, por tanto, de una oración nomin
 ![](/images/lekt3808.jpg)
 Fig.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3808))
-:::## 38.6. Sintaxis de ⟪आत्मन्⟫
+:::
+## 38.6. Sintaxis de ⟪आत्मन्⟫
 
 :::grammar-box
 **⟪आत्मन्⟫** **masculino** puede usarse en el **singular** como un pronombre reflexivo (pronombre reflexivo) para todos los tres géneros, números (incluyendo dual y plural) y personas.
-:::Ejemplos:
+:::
+Ejemplos:
 
 :::indent
 ⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Ella no ve ningún error en sí misma"
@@ -231,27 +247,33 @@ Fig.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪ना
 ⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "Ellos se glorifican a sí mismos"
 ::::::grammar-box
 El genitivo (⟪षष्ठी⟫) **⟪आत्मनस्⟫** puede estar allí por "mi/tu/su/... propio"
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Él entra en su propia casa."
-:::## 38.7. Raíces consonánticas como primer miembro de compuestos
+:::
+## 38.7. Raíces consonánticas como primer miembro de compuestos
 
 :::grammar-box
 Las raíces que terminan en una consonante aparecen como primer miembro de un compuesto en la forma (débil) de la raíz, que adoptan antes de la terminación -su del locativo (⟪सप्तमी⟫) plural.
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ***⟪राज⟫***⟪पुत्र⟫ "hijo del rey"
-:::## 38.8. Raíces en -an como segundo elemento de un ⟪बहुव्रीहि⟫
+:::
+## 38.8. Raíces en -an como segundo elemento de un ⟪बहुव्रीहि⟫
 
 :::grammar-box
 Como segundo elemento de un ⟪बहुव्रीहि⟫, se puede utilizar una raíz en -an para los tres géneros. Sin embargo, por lo general, el femenino se forma con el sufijo -ī a partir del grado más débil del masculino.
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪दुर्णाम्नी⟫ "aquel cuya nombre es malo; demonio de la enfermedad"
-:::## 38.9. Lista de palabras
+:::
+## 38.9. Lista de palabras
 
 ⟪सूर्य⟫ m.: Sol, dios del sol Sūrya
 
@@ -259,13 +281,15 @@ Como segundo elemento de un ⟪बहुव्रीहि⟫, se puede utilizar
 ![](/images/lekt3802.webp)
 Fig.: ⟪सूर्यः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3802))
-:::⟪उदक⟫ n.: Agua
+:::
+⟪उदक⟫ n.: Agua
 
 :::media
 ![](/images/lekt3805.webp)
 Fig.: ⟪उदकम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3805))
-:::⟪वा⟫ 2P ⟪वाति⟫ : soplar, hacer soplar
+:::
+⟪वा⟫ 2P ⟪वाति⟫ : soplar, hacer soplar
 
 :::indent
 Fut. ⟪वास्यति⟫
@@ -278,7 +302,8 @@ Inf. ⟪वातुम्⟫
 de ello:
 
 ⟪वात⟫ m.: Viento
-:::⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : soplar, dispersar, extinguirse
+:::
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : soplar, dispersar, extinguirse
 
 :::indent
 de ello:
@@ -290,7 +315,8 @@ de ello:
 ![](/images/lekt3804.webp)
 Fig.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3804))
-:::⟪मिह्⟫ 1P ⟪मेहति⟫ : orinar, hacer pis, eyacular
+:::
+⟪मिह्⟫ 1P ⟪मेहति⟫ : orinar, hacer pis, eyacular
 
 :::indent
 Fut. ⟪मेक्ष्यति⟫
@@ -302,7 +328,8 @@ PPP ⟪मीढ⟫
 de ello:
 
 ⟪मेघ⟫ m.: Nube ("que hace pis")
-:::⟪सुत⟫ m.: Hijo
+:::
+⟪सुत⟫ m.: Hijo
 
 ⟪राजन्⟫ m.: Rey (sobre la realeza en la India, véase Basham, Maravilla, págs. 82-94). Como segundo elemento de un compuesto (especialmente ⟪तत्पुरुष⟫) generalmente: -⟪राज⟫ m. (como ⟪देव⟫)
 
@@ -314,7 +341,8 @@ Femenino:
 de ⟪राज⟫ :
 
 ⟪राज्य⟫ 3: real; n. Reino, realeza, gobierno
-:::⟪नामन्⟫ n.: Nombre
+:::
+⟪नामन्⟫ n.: Nombre
 
 ⟪सीमन्⟫ f.: Límite
 
@@ -328,11 +356,13 @@ de ⟪राज⟫ :
 ![](/images/lekt3809.webp)
 Fig.: ⟪ब्रह्मा⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3809))
-:::⟪कर्मन्⟫ n. a ⟪कृ⟫ 8U: acción, hecho, obra; obra sagrada, acto de sacrificio; Karma: la acción pasada que más tarde trae sus frutos (por ejemplo, en un renacimiento) 
+:::
+⟪कर्मन्⟫ n. a ⟪कृ⟫ 8U: acción, hecho, obra; obra sagrada, acto de sacrificio; Karma: la acción pasada que más tarde trae sus frutos (por ejemplo, en un renacimiento) 
 
 :::indent
 ⟪कर्मविपाक⟫ m.: Rodaje de las acciones = las consecuencias buenas y malas de las acciones en existencias anteriores (a ⟪वि⟫-⟪पच्⟫)
-:::⟪हस्तिन्⟫ m.: Elefante (_Elephas maximus_)
+:::
+⟪हस्तिन्⟫ m.: Elefante (_Elephas maximus_)
 
 ⟪मनु⟫ m.: Ser humano, hombre; nombre del padre de la raza humana (a ⟪मन्⟫ 4Ā)
 
@@ -340,7 +370,8 @@ Fig.: ⟪ब्रह्मा⟫
 de ello:
 
 ⟪मनुष्य⟫ m.: Ser humano
-:::⟪शुच्⟫ 1P ⟪शोचति⟫ : (arder, brillar); lamentar, llorar
+:::
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (arder, brillar); lamentar, llorar
 
 :::indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
@@ -365,7 +396,8 @@ Fig.: ⟪अशोकवृक्षः⟫
 ![](/images/lekt3811.webp)
 Fig.: ⟪अशोकसाम्राज्यम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3811))
-:::## 38.10. Ejercicio
+:::
+## 38.10. Ejercicio
 
 A) Inserten en las siguientes oraciones la forma correspondiente de las palabras entre paréntesis y traduzcan:
 
@@ -409,13 +441,15 @@ A) Inserten en las siguientes oraciones la forma correspondiente de las palabras
 ![](/images/lekt3812.webp)
 Fig.: ⟪विनोदः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3812))
-:::⟪अट्⟫ 1P ⟪अटति⟫ : vagar
+:::
+⟪अट्⟫ 1P ⟪अटति⟫ : vagar
 
 :::indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
 Fut. ⟪अटिष्यति⟫
 Caus. ⟪आटयति⟫
-:::⟪गाध⟫ 3: poco profundo
+:::
+⟪गाध⟫ 3: poco profundo
 
 ⟪तॄ⟫ 1P ⟪तरति⟫ : cruzar, salvarse de (Akk.)
 
@@ -426,7 +460,8 @@ Pass. ⟪तीर्यते⟫
 Caus. ⟪टारयति⟫
 PPP ⟪तीर्ण⟫
 Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
-:::⟪पार⟫ n.(m.): orilla opuesta, límite, meta
+:::
+⟪पार⟫ n.(m.): orilla opuesta, límite, meta
 
 ⟪तीर⟫ n.: orilla
 
@@ -434,7 +469,8 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 ![](/images/lekt3813.webp)
 Fig.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3813))
-:::⟪एकैकशस्⟫ Adv.: uno por uno
+:::
+⟪एकैकशस्⟫ Adv.: uno por uno
 
 ⟪गण्⟫ 10P ⟪गणयति⟫ : contar
 
@@ -449,7 +485,8 @@ Inf. ⟪गणयितुम्⟫
 ![](/images/lekt3814.webp)
 Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3814))
-:::⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : gritar, lamentarse
+:::
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : gritar, lamentarse
 
 :::indent
 Perf. II ⟪चुक्रोश⟫
@@ -457,7 +494,8 @@ Fut. ⟪क्रोक्ष्यति⟫
 Pass. ⟪क्रुश्यते⟫
 Caus. ⟪क्रोशयति⟫
 PPP ⟪क्रुष्ट⟫
-:::⟪इदानीम्⟫ Adv.: ahora
+:::
+⟪इदानीम्⟫ Adv.: ahora
 
 ⟪नूनम्⟫ Adv.: ahora; así, por lo tanto; seguro, ciertamente
 
@@ -469,7 +507,8 @@ Fut. ⟪मङ्क्ष्यति⟫
 Caus. ⟪मज्जयति⟫
 PPP ⟪मग्न⟫
 Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
-:::⟪गवेषयति⟫ Denominativo: buscar
+:::
+⟪गवेषयति⟫ Denominativo: buscar
 
 ⟪व्याकुल⟫ 3: consternado, agitado, confundido
 
@@ -485,7 +524,8 @@ Fut. ⟪हसिष्यति⟫
 Pass. ⟪हस्यते⟫
 Caus. ⟪हासयति⟫
 PPP ⟪हसित⟫
-:::⟪सृ⟫ 1P ⟪सरति⟫ : correr
+:::
+⟪सृ⟫ 1P ⟪सरति⟫ : correr
 
 :::indent
 Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
@@ -494,7 +534,8 @@ Pass. ⟪स्रियते⟫
 Caus. ⟪सारयति⟫
 PPP ⟪सृत⟫
 Inf. ⟪सर्तुम्⟫
-:::⟪कर्णयति⟫ Denominativo: oír (a ⟪कर्ण⟫ m. "oreja")
+:::
+⟪कर्णयति⟫ Denominativo: oír (a ⟪कर्ण⟫ m. "oreja")
 
 ⟪लज्जा⟫ f.: vergüenza
 

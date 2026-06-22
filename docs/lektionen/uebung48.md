@@ -35,7 +35,8 @@ Die Kürze ist der Schmuck des Grammatikers.
 ![](/images/uebung083.webp)
 Abb.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 (Bildquelle: [Details](/licenses#uebung083))
-:::---
+:::
+---
 
 ## Übersetzungen ins Sanskrit (Imperativ)
 
@@ -57,7 +58,8 @@ Wir wollen sprechen.
 ![](/images/uebung085.webp)
 Abb.: ⟪वचाम⟫
 (Bildquelle: [Details](/licenses#uebung085))
-:::⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
+:::
+⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 Mit den Worten "Komm, Mönch!" nahm der Buddha den Mann in den Orden auf.
 
 ⟪६⟫. **⟪सन्मानवाः⟫ ⟪स्त⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
@@ -109,7 +111,8 @@ Ehemänner sollen ihre Gattinnen erhalten.
 ![](/images/uebung076.webp)
 Abb.: ⟪तानि⟫ ⟪फलान्यदाम⟫
 (Bildquelle: [Details](/licenses#uebung076))
-:::---
+:::
+---
 
 ## Dharma der Frauen (⟪स्त्रीधर्मः⟫)
 

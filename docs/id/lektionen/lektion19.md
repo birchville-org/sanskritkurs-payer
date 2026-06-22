@@ -13,11 +13,13 @@ lesson_id: 19
 
 :::indent
 **Relative Pronoun -- Relative Clause, which contains the noun to which the relative clause refers -- (Demonstrative Pronoun) -- Main Clause**
-:::**The relative clause can also follow the main clause, but it cannot be inserted into the main clause.**
+:::
+**The relative clause can also follow the main clause, but it cannot be inserted into the main clause.**
 
 **The relative pronoun and the referent, which, in contrast to German, stands in the relative clause, are in the case that the relative clause syntactically requires. The demonstrative pronoun is in the case that the main clause syntactically requires.**
 
-::::Examples:
+::::
+Examples:
 
 Note: In relative clauses of general validity, the optative is often used instead of the indicative. Many of our examples would therefore preferably be in the optative.
 
@@ -25,27 +27,33 @@ Note: In relative clauses of general validity, the optative is often used instea
 
 :::indent
 ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ etc. = "A man who performs meritorious deeds goes to heaven."
-:::**2. The direct object (⟪कर्म⟫) of the main clause is specified further by the relative clause:**
+:::
+**2. The direct object (⟪कर्म⟫) of the main clause is specified further by the relative clause:**
 
 :::indent
 ⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "The gods protect a Brahmin who sacrifices to them as the patron of the sacrifice."
-:::**3. The specification of a noun of the main clause stands in the relative clause:**
+:::
+**3. The specification of a noun of the main clause stands in the relative clause:**
 
 :::indent
 ⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Sons of men who do evil do not obtain wealth."
-:::**4. Relative pronoun and referent stand in the genitive (⟪षष्ठी⟫):**
+:::
+**4. Relative pronoun and referent stand in the genitive (⟪षष्ठी⟫):**
 
 :::indent
 ⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "The man is not happy whose sons do evil."
-:::**5. Relative pronoun and referent stand in the instrumental (⟪तृतीया⟫):**
+:::
+**5. Relative pronoun and referent stand in the instrumental (⟪तृतीया⟫):**
 
 :::indent
 ⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "They hate the enemy who has conquered / captured their village."
-:::**6. Relative pronoun and referent stand in the accusative (⟪द्वितीया⟫):**
+:::
+**6. Relative pronoun and referent stand in the accusative (⟪द्वितीया⟫):**
 
 :::indent
 ⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "A man whom the goddess protects attains happiness."
-:::## 19.2. The Relative Pronoun = ⟪व्यपेक्षकसर्वनाम⟫ n.
+:::
+## 19.2. The Relative Pronoun = ⟪व्यपेक्षकसर्वनाम⟫ n.
 
 ::::grammar-box
 
@@ -65,7 +73,8 @@ Note: In relative clauses of general validity, the optative is often used instea
 
 **As the first member of compounds, the stem ⟪यद्⟫ appears (observing Sandhi).**
 
-::::## 19.3. Word List
+::::
+## 19.3. Word List
 
 **⟪अर्थ⟫ m.:** purpose, goal, meaning (of a word), wealth, property, fortune. **⟪अर्थम्⟫** (Acc.), **⟪अर्थेन⟫** (Instr.) with Gen. or as the second member of a Tatpuruṣa: for the sake of ..., in order to.
 
@@ -82,7 +91,8 @@ Note: In relative clauses of general validity, the optative is often used instea
 Fig.: ⟪कामः⟫
 Illustration for ⟪कामसूत्र⟫
 (Image source: [Details](/en/licenses#lekt1809))
-:::**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stand, remain, persist, be located. (Traditionally counted among the 1st conjugation class, although it is a reduplicating thematic present class, like ⟪पा⟫ 1 ⟪पिबति⟫)
+:::
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stand, remain, persist, be located. (Traditionally counted among the 1st conjugation class, although it is a reduplicating thematic present class, like ⟪पा⟫ 1 ⟪पिबति⟫)
 
 **⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** step forward, place oneself in a respectful posture before someone
 
@@ -94,7 +104,8 @@ from **⟪स्था⟫** :
 **⟪स्थान⟫ n.:** place, (right) location, site
 
 **⟪स्थिति⟫ f.:** staying, steadfastness, persistence
-:::**⟪गर्भ⟫ m.:** womb, lap, interior, embryo / foetus. At the end of a Bahuvrīhi often: "interior", e.g.
+:::
+**⟪गर्भ⟫ m.:** womb, lap, interior, embryo / foetus. At the end of a Bahuvrīhi often: "interior", e.g.
 
 :::indent
 **⟪धनगर्भ⟫ 3:** "whose interior is money = in which money is located"
@@ -105,20 +116,23 @@ from **⟪स्था⟫** :
 Fig.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
 (Image source: [Details](/en/licenses#lekt1901))
-:::**⟪वारिद⟫ m.:** water-pourer = rain cloud
+:::
+**⟪वारिद⟫ m.:** water-pourer = rain cloud
 
 :::media
 ![](/images/lekt1902.jpg)
 Fig.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
 (Image source: [Details](/en/licenses#lekt1902))
-:::**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** blow
+:::
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** blow
 
 from this:
 
 :::indent
 **⟪वात⟫ m.:** wind
-:::**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** lead, drive (trans.)
+:::
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** lead, drive (trans.)
 
 **⟪छत्त्र⟫ n.:** sunshade, umbrella
 
@@ -127,14 +141,16 @@ from this:
 Fig.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
 (Image source: [Details](/en/licenses#lekt1904))
-:::**⟪पण्डित⟫ m.:** scholar, sage ; 3: clever, proficient (in)
+:::
+**⟪पण्डित⟫ m.:** scholar, sage ; 3: clever, proficient (in)
 
 :::media
 ![](/images/lekt1903.jpg)
 Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
 ⟪१९५९⟫
 (Image source: [Details](/en/licenses#lekt1903))
-:::**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** reside with, inhabit (Acc., Loc.) ; visit, go to (Acc.) ; serve, tend, worship ; practice, use ; attend, have sexual intercourse
+:::
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** reside with, inhabit (Acc., Loc.) ; visit, go to (Acc.) ; serve, tend, worship ; practice, use ; attend, have sexual intercourse
 
 **⟪नि⟫ Prefix:** down, into
 
@@ -181,14 +197,16 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 ⟪वारिदो⟫ ⟪वारि⟫ ⟪मुञ्चति⟫ ⟪।⟫  
 ⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
 ⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫
-:::Explanation: ⟪वारि⟫ Nom., Acc. sg. of ⟪वारि⟫ n.: water
+:::
+Explanation: ⟪वारि⟫ Nom., Acc. sg. of ⟪वारि⟫ n.: water
 
 :::indent
 ⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
 ⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
 ⟪धर्मार्थकामसंयोगं⟫  
 ⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
-:::Explanation: ⟪यथाकालम्⟫ Avyayībhāva compound: at the right time; whenever the right time for it is present.
+:::
+Explanation: ⟪यथाकालम्⟫ Avyayībhāva compound: at the right time; whenever the right time for it is present.
 
 :::indent
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
@@ -200,7 +218,8 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 ⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
-:::Explanation: ⟪पुमान्⟫ Nom. sg. of ⟪पुंस्⟫ "man" ; ⟪लोके⟫ Locative sg. of ⟪लोक⟫ m.: in the ...
+:::
+Explanation: ⟪पुमान्⟫ Nom. sg. of ⟪पुंस्⟫ "man" ; ⟪लोके⟫ Locative sg. of ⟪लोक⟫ m.: in the ...
 
 :::deleteme-box
 

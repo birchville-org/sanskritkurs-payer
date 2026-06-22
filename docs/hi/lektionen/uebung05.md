@@ -94,7 +94,8 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 ![](/images/uebung010.webp)
 अभ.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung010))
-:::---
+:::
+---
 
 ## पुनरावृत्ति-अभ्यास पाठ 5
 

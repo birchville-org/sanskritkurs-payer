@@ -17,7 +17,8 @@ status: stable
 *   **în tema slabă: -n-**
 
 **Pentru legarea consoanelor finale ale rădăcinii cu terminațiile care încep cu consoană, se aplică aceleași reguli ca și pentru clasa de prezent a 2-a.**
-::::Exemple:
+::::
+Exemple:
 
 ⟪युज्⟫ 7U "a lega, a împerechea"
 
@@ -31,7 +32,8 @@ status: stable
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
 | **Participiu Prezent** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
-::::⟪रुध्⟫ 7U "a opri, a aduce la oprire"
+::::
+⟪रुध्⟫ 7U "a opri, a aduce la oprire"
 
 ::::grammar-box
 
@@ -45,7 +47,8 @@ status: stable
 
 ::::::::grammar-box
 **La unele rădăcini, -n- al temei slabe de prezent a pătruns și în timpurile non-prezent, astfel încât aceste rădăcini sunt considerate cu infix nazal.**
-::::Exemplu:
+::::
+Exemplu:
 
 **⟪भञ्ज्⟫** 7P "a rupe"
 
@@ -56,7 +59,8 @@ status: stable
 *   Viitor: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
 *   Pasiv: **⟪भज्यते⟫** (fie din rădăcina originală **⟪भज्⟫**, fie din *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (posibil din *bhñj + na)
-:::## 31.2. Listă de cuvinte
+:::
+## 31.2. Listă de cuvinte
 
 **⟪युज्⟫** 7U **⟪युनक्ति⟫** : a încordă, a atârna, a lega, a fixa; Ā de asemenea: a se încorda (= a se strădui), a se uni cu, a se concentra pe (Locativ, ⟪सप्तमी⟫)
 :::indent
@@ -81,33 +85,38 @@ din care:
 Fig.: ⟪योगः⟫
 Reprezentare Yoga.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3101))
-:::**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : a opri, a aduce la oprire, a reține = a închide, a ascunde
+:::
+**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : a opri, a aduce la oprire, a reține = a închide, a ascunde
 :::indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
 **Kaus. ⟪रोधयति⟫**
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
-:::**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : a tăia
+:::
+**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : a tăia
 :::indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
 **Kaus. ⟪छेदयति⟫**
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
-:::**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : a (sfărâma) rupe
+:::
+**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : a (sfărâma) rupe
 :::indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
-:::**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : a unge, a unsura
+:::
+**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : a unge, a unsura
 :::indent
 **Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
 **Kaus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
 **Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
-:::**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : a unsura separat = a se machia, a se distinge
+:::
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : a unsura separat = a se machia, a se distinge
 :::indent
 **PPP ⟪व्यक्त⟫ :** distinct, dezvoltat
 
@@ -118,14 +127,16 @@ din care:
 Fig.: ⟪व्यञ्जनम्⟫
 Pregătire pentru dansul Kathakali, Kochi.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3102))
-:::**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : a despica
+:::
+**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : a despica
 :::indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
 **Kaus. ⟪भेदयति⟫**
 **PPP ⟪भिन्न⟫**
 **Inf. ⟪भेत्तुम्⟫**
-:::**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : a se bucura de (de ex. mâncare; "a se bucura de pământ" = a stăpâni pământul)
+:::
+**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : a se bucura de (de ex. mâncare; "a se bucura de pământ" = a stăpâni pământul)
 :::indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
@@ -135,7 +146,8 @@ Pregătire pentru dansul Kathakali, Kochi.
 
 din care:
 **⟪भोग⟫ m.:** bucurie, mâncare, plăcere, folos, impozit, taxă
-:::**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): a lega, a atârna
+:::
+**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): a lega, a atârna
 :::indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
@@ -145,7 +157,8 @@ din care:
 
 din care:
 **⟪बन्धन⟫ n.:** legare, lanț
-:::**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : a recunoaște, a înțelege
+:::
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : a recunoaște, a înțelege
 :::indent
 din care:
 **⟪प्रज्ञा⟫ f.:** înțelepciune, cunoaștere
@@ -154,7 +167,8 @@ din care:
 Fig.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3103))
-:::**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : a apărea, a exista
+:::
+**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : a apărea, a exista
 
 **⟪शरीर⟫ n.:** trup, corp
 
@@ -171,7 +185,8 @@ A) Traduceți următoarele propoziții și descompuneți compusele:
 Fig.: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
 Tancuri ale Căluerarilor 18 (Armata Indiană) în mișcare în timpul Războiului Indo-Pak din 1965.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3105))
-:::⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
+:::
+⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
 
 ⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫
 
@@ -180,7 +195,8 @@ Tancuri ale Căluerarilor 18 (Armata Indiană) în mișcare în timpul Războiul
 Fig.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
 Rāhula, der Sohn Buddhas, Laos.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3104))
-:::⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
+:::
+⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
 B) Formați pentru următoarele rădăcini din clasa a 7-a toate formele de persoana a III-a singular și plural, P și Ā, ale indicativului și optativului prezent:
 

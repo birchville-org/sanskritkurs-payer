@@ -16,7 +16,8 @@ status: stable
 - la formation du féminin à partir des masculins
 - le sandhi vocalique
 - Sandhi de phrase de -ās
-:::## 3.1. Singulier du nominatif du féminin
+:::
+## 3.1. Singulier du nominatif du féminin
 
 ### 3.1.1. Nominatif singulier en -s
 
@@ -25,16 +26,19 @@ Les racines nominales suivantes, qui se terminent par une voyelle, forment le no
 :::grammar-box
 - **Féminins en -i** : par ex. **śruti** f. "l'écoute" -- Nom. sg. : **śrutis** = ⟪श्रुतिस्⟫
 - **Féminins en -u** : par ex. **dhenu** f. "vache laitière" -- Nom. sg. : **dhenus** = ⟪धेनुस्⟫
-:::### 3.1.2. Nominatif singulier sans terminaison
+:::
+### 3.1.2. Nominatif singulier sans terminaison
 
 Le nominatif singulier se forme sans terminaison :
 
 :::grammar-box
 - **Féminins en -ā** : par ex. **devatā** f. « divinité » -- Nom. sg. : **devatā** = ⟪देवता⟫
 - **Féminins en -ī** : par ex. **devī** f. « déesse » -- Nom. sg. : **devī** = ⟪देवी⟫
-::::::important
+::::::
+important
 **Attention !** Il existe également des noms racinaux féminins monosyllabiques en -ī, dont le nominatif singulier se termine par -s : par ex. dhī f. « pensée » -- Nom. sg. : dhīs = ⟪धीस्⟫. De même, lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. « bateau » et tantrī (⟪तन्त्री⟫) f. « corde » forment irrégulièrement le nominatif singulier en -s : lakṣmīs = ⟪लक्ष्मीस्⟫.
-:::---
+:::
+---
 
 ## 3.2. Formation des féminins à partir des masculins
 
@@ -46,7 +50,8 @@ Le nominatif singulier se forme sans terminaison :
 **Masculins en -u :**
 - **Féminin en -ī** : par ex. **sādhu** m. » **sādhvī** f. (bon, sainte) = ⟪साध्वी⟫
   (**-u-** devient **-v-** devant une voyelle, donc **-u- + -ī** » **-vī**)
-:::---
+:::
+---
 
 ## 3.3. Nominatif pluriel masculin et féminin
 
@@ -59,7 +64,8 @@ La terminaison du nominatif pluriel au masculin et au féminin est **-as**.
 - **Féminins en -ī** : **devī- + -as** » **devyas** = ⟪देव्यस्⟫
 - **Masculins en -u** : **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
 - **Féminins en -u** : **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
-:::Remarque : **e** est le degré renforcé (**guṇa**) de **i**, **o** est le degré renforcé de **u**.
+:::
+Remarque : **e** est le degré renforcé (**guṇa**) de **i**, **o** est le degré renforcé de **u**.
 
 ---
 
@@ -71,7 +77,8 @@ La terminaison du nominatif pluriel au masculin et au féminin est **-as**.
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
-:::p. ex.
+:::
+p. ex.
 
 devatā + annapūrṇā » devatānnapūrṇā « Annapūrṇā est une divinité » = ⟪देवतान्नपूर्णा⟫
 
@@ -91,7 +98,8 @@ Fig. : Indra et Indrāṇī sur l’éléphant Airavata, miniature, Rājasthān,
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
 (!! Des exceptions à cette règle existent, en particulier pour les formes du duel !!)
-:::p. ex.
+:::
+p. ex.
 
 devī + umā » devy umā « Umā est une / la déesse » = ⟪देव्युमा⟫
 
@@ -103,12 +111,14 @@ devī + umā » devy umā « Umā est une / la déesse » = ⟪देव्य�
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
-:::Pour ce sandhi, le schéma suivant s’applique donc :
+:::
+Pour ce sandhi, le schéma suivant s’applique donc :
 
 :::media
 ![](/images/lekt0302.jpg)
 (Source de l’image : [Détails](/fr/licenses#lekt0302))
-:::Voir plus loin pour cette soi-disant alternance de racine !
+:::
+Voir plus loin pour cette soi-disant alternance de racine !
 
 p. ex.
 
@@ -120,7 +130,8 @@ p. ex.
 
 :::grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
-:::par exemple
+:::
+par exemple
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ « Les Vaiśyas sont des deux fois nés » = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -173,7 +184,8 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ « Les Vaiśyas sont des deux fois n
 ![](/images/lekt0303.webp)
 Fig. : Durgā = ⟪दुर्गा⟫, Orissa
 (Source de l'image : [Détails](/images/lekt0303))
-:::**sādhvī** f. = ⟪साध्वी⟫ : fém. de sādhu.
+:::
+**sādhvī** f. = ⟪साध्वी⟫ : fém. de sādhu.
 
 **gurvī** f. = ⟪गुर्वी⟫ : fém. de guru.
 

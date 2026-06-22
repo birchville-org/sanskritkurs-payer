@@ -19,11 +19,13 @@ status: stable
 - Neutrum dari stem-a
 - Kelas-kelas present athematic (sebagai contoh kelas 5)
 
-:::## Kutipan Mingguan
+:::
+## Kutipan Mingguan
 
 
 
-:::center
+:::
+center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ |
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +41,8 @@ Kebenaran menang, bukan ketidakjujuran,
 Kesabaran menang, bukan kemarahan,
 Tuhan menang, bukan dewa palsu.
 
-:::---
+:::
+---
 
 ## 7.1. Kalimat verbal dengan objek langsung
 
@@ -53,7 +56,8 @@ z.B.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma isst (kaut) eine Frucht."
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Der Brahmane verehrt einen Gott mit einem Opfer (für jemand anderes)."
 
-:::Apakah kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung (**karman** n. = ⟪कर्मन्⟫) umumnya berada dalam **Akkusativ** (Kasus Kedua, dvitīyā f. = ⟪द्वितीया⟫).
+:::
+Apakah kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung (**karman** n. = ⟪कर्मन्⟫) umumnya berada dalam **Akkusativ** (Kasus Kedua, dvitīyā f. = ⟪द्वितीया⟫).
 
 ---
 
@@ -122,7 +126,8 @@ z.B.
 
 | **-u**: dhenu | **dhenūs**:br⟪धेनूस्⟫ |
 
-:::---
+:::
+---
 
 ### 7.2.1. Akkusativ Singular dan Plural dari Kata Ganya Tanya dan Demonstratif
 
@@ -150,7 +155,8 @@ z.B.
 
 | | jamak | **imān / enān**:br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās**:br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni**:br⟪इमानि⟫ / ⟪एनानि⟫ |
 
-:::Bentuk-bentuk **enam** (⟪एनम्⟫) dan lain-lain termasuk ke dalam akar **enad** (⟪एनद्⟫), yang hanya membentuk beberapa kasus. Bentuk-bentuk ini digunakan sebagai pengganti bentuk-bentuk dari **etad** dan **idam** ketika yang dimaksud telah disebutkan sebelumnya.
+:::
+Bentuk-bentuk **enam** (⟪एनम्⟫) dan lain-lain termasuk ke dalam akar **enad** (⟪एनद्⟫), yang hanya membentuk beberapa kasus. Bentuk-bentuk ini digunakan sebagai pengganti bentuk-bentuk dari **etad** dan **idam** ketika yang dimaksud telah disebutkan sebelumnya.
 Misalnya, **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "Dia adalah seorang dewa. Mereka mempersembahkan korban kepadanya."
 
 ---
@@ -169,7 +175,8 @@ Kasus Akusatif (dvitīyā f. = ⟪द्वितीया⟫) menunjukkan:
    misalnya
    - **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ : "Ia pergi ke neraka."
 
-:::Penggunaan lain dari Akusatif akan dibahas kemudian.
+:::
+Penggunaan lain dari Akusatif akan dibahas kemudian.
 
 ---
 
@@ -199,7 +206,8 @@ Kasus Akusatif (dvitīyā f. = ⟪द्वितीया⟫) menunjukkan:
 
 4. Kecuali setelah vokal pendek (lihat nanti), akhiran **-n** dalam semua kasus lainnya tetap tidak berubah.
 
-:::---
+:::
+---
 
 ## 7.4. Kata Benda Netral (napuṃsaka n. = ⟪नपुंसक⟫)
 
@@ -208,7 +216,8 @@ Kasus Akusatif (dvitīyā f. = ⟪द्वितीया⟫) menunjukkan:
 :::grammar-box
 **Dalam neutrum, bentuk untuk Nominatif (prathamā) dan Akkusatif (dvitīyā) adalah identik.**
 
-:::### 7.4.1. Neutrum der Stämme auf -a
+:::
+### 7.4.1. Neutrum der Stämme auf -a
 
 
 
@@ -218,7 +227,8 @@ Kasus Akusatif (dvitīyā f. = ⟪द्वितीया⟫) menunjukkan:
 - **Akhiran Nominatif / Akusatif Plural: -āni**
   mis. **phala** n. = ⟪फल⟫: Nom. / Ak. pl. **phalāni** = ⟪फलानि⟫
 
-:::---
+:::
+---
 
 ## 7.5. Kelas-kelas Presenti Atematik
 
@@ -238,7 +248,8 @@ Kelas ke-5 Präsens membentuk apa yang disebut batang Präsens athematic, yaitu 
 
 **Semua bentuk lain memiliki batang present tense lemah.**
 
-:::### 7.5.1. Akhiran primer untuk Orang Ketiga Jamak pada Stamm yang Athematic
+:::
+### 7.5.1. Akhiran primer untuk Orang Ketiga Jamak pada Stamm yang Athematic
 
 
 
@@ -246,7 +257,8 @@ Kelas ke-5 Präsens membentuk apa yang disebut batang Präsens athematic, yaitu 
 **Untuk akar present tanpa tema, akhiran primer untuk orang ketiga jamak adalah:**
 - **Parasmaipada: -anti**
 - **Ātmanepada: -ate**
-::::::### 7.5.2. Kelas ke-5 dari Kalimat Sekarang (svādi = ⟪स्वादि⟫ = "su dll.")
+::::::
+### 7.5.2. Kelas ke-5 dari Kalimat Sekarang (svādi = ⟪स्वादि⟫ = "su dll.")
 
 
 
@@ -256,7 +268,8 @@ Kelas ke-5 Präsens membentuk apa yang disebut batang Präsens athematic, yaitu 
 
 **Di akhiran vokal, untuk akar yang berakhir dengan vokal, -nu- diganti dengan -nv-, sedangkan untuk akar yang berakhir dengan konsonan, -nu- diganti dengan -nuv- di depan akhiran vokal.**
 
-:::**Contoh:**
+:::
+**Contoh:**
 
 
 
@@ -292,7 +305,8 @@ Kelas ke-5 Präsens membentuk apa yang disebut batang Präsens athematic, yaitu 
 Gambar: Apakah ini tanaman soma Weda?: Jamur fly agaric: *Amanita muscaria* (L.) Lam.
 (Sumber gambar: [Detail](/id/licenses#lekt0701))
 
-:::- **phala** n. ⟪फल⟫ : Buah (juga dalam makna kiasan: (karmik) Buah dari sebuah tindakan)
+:::
+- **phala** n. ⟪फल⟫ : Buah (juga dalam makna kiasan: (karmik) Buah dari sebuah tindakan)
 - **nṛtya** n. ⟪नृत्य⟫ : Tari
 - **svarga** m. ⟪स्वर्ग⟫ : Langit
 - **naraka** m. ⟪नरक⟫ : Neraka (menurut pandangan Hindu, alam semesta memiliki bentuk seperti telur (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Telur Brahmā"): di atas bumi terdapat enam langit dengan kebahagiaan yang meningkat, di bawah bumi terdapat tujuh yang disebut **pātāla** n. = ⟪पाताल⟫, tempat tinggal **nāga** m. = ⟪नाग⟫ (ular) dan makhluk mitologis lainnya, di sana terdapat 7 neraka dengan siksaan yang meningkat)
@@ -319,7 +333,8 @@ Gambar: Apakah ini tanaman soma Weda?: Jamur fly agaric: *Amanita muscaria* (L.)
 Gambar: Viṣṇu = ⟪विष्णु⟫, abad ke-8/9.
 (Sumber gambar: [Detail](/id/licenses#lekt0704))
 
-:::2. guru ... memakan (buah)
+:::
+2. guru ... memakan (buah)
    ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
 3. orang bijak ... pergi (sorga)
    ⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
@@ -361,7 +376,8 @@ Gambar: Viṣṇu = ⟪विष्णु⟫, abad ke-8/9.
 Gambar: **yajati** = ⟪यजति⟫ — Korban Veda = **yajña** m. = ⟪यज्ञ⟫
 (Sumber gambar: [Detail](/id/licenses#lekt0702))
 
-:::**E) Bentuklah kasus akusatif (dvitīyā) tunggal dan jamak untuk semua nama yang telah dipelajari sejauh ini.**
+:::
+**E) Bentuklah kasus akusatif (dvitīyā) tunggal dan jamak untuk semua nama yang telah dipelajari sejauh ini.**
 
 **F) Terjemahkan:**
 
@@ -384,7 +400,8 @@ Gambar: **yajati** = ⟪यजति⟫ — Korban Veda = **yajña** m. = ⟪य
 Gambar: Kepada dewa mana orang mengorbankan diri di sini? Jawaban: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
 (Sumber gambar: [Details](/id/licenses#lekt0703))
 
-:::9. Apa yang dikunyah oleh orang suci ini?
+:::
+9. Apa yang dikunyah oleh orang suci ini?
 10. Apa yang diperas oleh mereka (di sini)?
 11. Ia adalah guru. Kepada-Nya orang mendengarkan (= mereka mendengarkan).
 

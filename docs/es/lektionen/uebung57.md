@@ -44,7 +44,8 @@ Traduzca y determine las siguientes formas y forme las correspondientes formas d
 ![](/images/uebung090.webp)
 Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung090))
-:::---
+:::
+---
 
 ## B) Determinaciones de palabras
 

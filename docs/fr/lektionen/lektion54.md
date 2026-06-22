@@ -32,7 +32,8 @@ Exemple :
 ![](/images/lekt5402.webp)
 Fig. : ⟪अयुयुत्सुरर्जुनः⟫
 (Source de l’image : [Détails](/fr/licenses#lekt5402))
-:::## 54.3. Métrique II : l’épique ⟪त्रिष्टुभ्⟫ et l’⟪जगती⟫
+:::
+## 54.3. Métrique II : l’épique ⟪त्रिष्टुभ्⟫ et l’⟪जगती⟫
 
 ::::grammar-box
 L’⟪त्रिष्टुभ्⟫ (« Trois cris ») apparaît dans les épopées au milieu des parties habituelles de ⟪श्लोक⟫, précisément aux endroits où l’ambiance ou l’action connaissent un élan ou une conclusion particuliers.
@@ -43,33 +44,45 @@ L’⟪त्रिष्टुभ्⟫ possède deux schémas fondamentaux, se
 
 Schéma I :
 
-:::metrik-schema
+:::
+metrik-schema
 × — × — / × ◡ — **— ◡ — —**
-:::Schéma II :
+:::
+Schéma II :
 
-:::metrik-schema
+:::
+metrik-schema
 × — × — × / × ◡ **— ◡ — —**
-:::La quantité des quatre dernières syllabes est donc identique dans les deux schémas.
+:::
+La quantité des quatre dernières syllabes est donc identique dans les deux schémas.
 
 Forme fondamentale de l’⟪जगती⟫ : comme pour l’⟪त्रिष्टुभ्⟫, mais à douze syllabes. Les cinq dernières syllabes de chaque Pada présentent les quantités suivantes :
 
-:::metrik-schema
+:::
+metrik-schema
 **— ◡ — ◡ —**
-:::Parallèlement, il existe la soi-disant ⟪त्रिष्टुभ्⟫ typiquement supplémentaire, avec un premier membre de cinq syllabes, qui se poursuit comme une ⟪त्रिष्टुभ्⟫ avec un premier membre de quatre syllabes :
+:::
+Parallèlement, il existe la soi-disant ⟪त्रिष्टुभ्⟫ typiquement supplémentaire, avec un premier membre de cinq syllabes, qui se poursuit comme une ⟪त्रिष्टुभ्⟫ avec un premier membre de quatre syllabes :
 
-:::metrik-schema
+:::
+metrik-schema
 — × — × / × ◡ — **— ◡ — —**
-:::À une époque plus tardive, les formes de l’⟪त्रिष्टुभ्⟫ sont fixées selon un schéma rigoureux de longueurs et de brèves ; la césure n’a plus d’importance. Les formes tardives les plus importantes sont :
+:::
+À une époque plus tardive, les formes de l’⟪त्रिष्टुभ्⟫ sont fixées selon un schéma rigoureux de longueurs et de brèves ; la césure n’a plus d’importance. Les formes tardives les plus importantes sont :
 
 a) ⟪इन्द्रवज्रा⟫
 
-:::metrik-schema
+:::
+metrik-schema
 **—** — ◡ — , — ◡ ◡ — ◡ — —
-:::b) ⟪उपेन्द्रवज्रा⟫
+:::
+b) ⟪उपेन्द्रवज्रा⟫
 
-:::metrik-schema
+:::
+metrik-schema
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
-:::c) ⟪उपजाति⟫
+:::
+c) ⟪उपजाति⟫
 
 :::indent
 L’⟪पाद⟫ dans l’⟪इन्द्रवज्रा⟫ et l’⟪पाद⟫ dans l’⟪उपेन्द्रवज्रा⟫ sont mélangés dans une strophe.
@@ -80,18 +93,21 @@ L’⟪पाद⟫ dans l’⟪इन्द्रवज्रा⟫ et l’⟪�
 
 :::indent
 « C’est une Indravājrā si les syllabes dans tous les Pādas sont ta ta ja ga ga.
-:::⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
+:::
+⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
 :::indent
 « Une Upendravajrā est semblable à une Indravajrā qui possède au début une syllabe brève. »
-:::⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
+:::
+⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
 ⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
 ⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
 ⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
 :::indent
 « Lorsque deux Pādas, qui présentent les caractéristiques de l’Indravajrā ou de l’Upendravajrā, sont impliqués dans un vers, il s’agit d’Upajātis. Même lorsque d’autres mètres sont mélangés dans un vers, on l’appelle Upajāti. »
-:::::::## 54.4. Exercice de mètre
+:::::::
+## 54.4. Exercice de mètre
 
 Déterminez dans le Bhagavadgītā II les Triṣṭubhs et les Jagatīs.
 
@@ -117,13 +133,15 @@ En sanskrit, seuls l’indicatif et le prétérit-optatif de l’aoriste sont co
     *   54.7. Aoriste en -sa : Augment + Racine + **s** + **a** + Terminaison secondaire
 
 Pour la répartition des racines sur les différents types de formation, voir les sections consacrées à chaque type
-:::## 54.6. Racine aoriste
+:::
+## 54.6. Racine aoriste
 
 :::grammar-box
 **Formation :**
 
 **Augment + Racine + Désinence secondaire**
-:::La désinence de la 3e personne du pluriel est -ur. Le ātmanepada n'est pas courant.
+:::
+La désinence de la 3e personne du pluriel est -ur. Le ātmanepada n'est pas courant.
 
 Exemple :
 
@@ -135,7 +153,8 @@ Exemple :
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (niveau profond !) |
-:::Le racine aoriste n'est formé qu'à partir de 12 racines :
+:::
+Le racine aoriste n'est formé qu'à partir de 12 racines :
 
 1.  ⟪गा⟫ 3e personne "aller"
 2.  ⟪घ्रा⟫ 1re personne "sentir"
@@ -158,7 +177,8 @@ Pour ⟪भू⟫ 1re personne, le racine aoriste se forme ainsi :
 | 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
-:::### 54.6.1. L’Aoriste du 3.sg.Passif
+:::
+### 54.6.1. L’Aoriste du 3.sg.Passif
 
 Une forme spéciale de l’aoriste de la racine est l’aoriste du 3.sg.Passif. Celui-ci peut être formé à partir de toutes les racines.
 
@@ -212,7 +232,8 @@ Infixe nasalisé :
     
 
 (Les autres formes du Passif sont rendues à l’Aoriste par des formes Ātmanepada).
-:::## 54.7. Exercice
+:::
+## 54.7. Exercice
 
 Traduisez par écrit les formes suivantes et formez les formes d’aoriste correspondantes :
 

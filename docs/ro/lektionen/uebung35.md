@@ -54,7 +54,8 @@ A) Formați formele de perfect corespunzătoare pentru următoarele forme verbal
 | ⟪३९⟫. **⟪अचरत्⟫** | ⟪चचार⟫ |
 | ⟪४०⟫. **⟪जुह्वति⟫** | ⟪जुहुवुः⟫ |
 | ⟪४१⟫. **⟪अहरत्⟫** | ⟪जहार⟫ |
-:::B) Traduceți:
+:::
+B) Traduceți:
 
 ⟪१⟫. **⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫**
 Pe vremuri, un mare kṣatriya a început să sacrifice. Indra i-a răpit (a luat) animalul de sacrificiu. Dar, când animalul a dispărut, un brahman rău i-a vorbit kṣatriyului: „Animalul a dispărut din cauza comportamentului necuviincios al kṣatriyului.”

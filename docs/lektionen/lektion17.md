@@ -23,7 +23,8 @@ Es gibt folgende Bildungsformen in der zweiten Präsensklasse:
 2.  Wurzeln ohne Stammabstufung 
 3.  zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
 
-:::## 17.2. Wurzeln der zweiten Präsensklasse mit Stammabstufung Hochstufe - Tiefstufe
+:::
+## 17.2. Wurzeln der zweiten Präsensklasse mit Stammabstufung Hochstufe - Tiefstufe
 
 Beispiele:
 
@@ -43,13 +44,15 @@ Beispiele:
 | 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
 | 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
-::::::Hierbei wirkt folgendes Wortsandhigesetz:
+::::::
+Hierbei wirkt folgendes Wortsandhigesetz:
 
 :::grammar-box
 Wortsandhi von -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
-:::Weitere Beispiele:
+:::
+Weitere Beispiele:
 
 ⟪इ⟫ 2 P "gehen" (Ā nach bestimmten Präverbien)
 
@@ -69,7 +72,8 @@ Wortsandhi von -ṣ + t(h)-
 | 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) |
 | 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
 
-::::::⟪दुह्⟫ 2 U "melken"
+::::::
+⟪दुह्⟫ 2 U "melken"
 
 *   starker Präsensstamm: doh-
 *   schwacher Präsensstamm: duh-
@@ -85,7 +89,8 @@ Wortsandhi von -ṣ + t(h)-
 | 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
 | 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
 
-::::::⟪हन्⟫ 2 P "schlagen, erschlagen, töten"
+::::::
+⟪हन्⟫ 2 P "schlagen, erschlagen, töten"
 
 *   starker Präsensstamm: han-
 *   schwacher Präsensstamm:
@@ -103,7 +108,8 @@ Wortsandhi von -ṣ + t(h)-
 | 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
 | 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
-::::::⟪अस्⟫ 2 P "sein"
+::::::
+⟪अस्⟫ 2 P "sein"
 
 *   starker Präsensstamm: as-
 *   schwacher Präsensstamm: s-
@@ -117,7 +123,8 @@ Wortsandhi von -ṣ + t(h)-
 | 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) |
 | 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
 
-::::::## 17.3. Wurzeln der zweiten Präsensklasse mit Stammabstufung Dehnstufe - Tiefstufe
+::::::
+## 17.3. Wurzeln der zweiten Präsensklasse mit Stammabstufung Dehnstufe - Tiefstufe
 
 Beispiel:
 
@@ -139,11 +146,13 @@ Beispiel:
 | 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
 | 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
-::::::## 17.4. Wurzeln der zweiten Präsensklasse ohne Stammabstufung
+::::::
+## 17.4. Wurzeln der zweiten Präsensklasse ohne Stammabstufung
 
 :::grammar-box
 Ohne Stammabstufung sind Wurzeln der zweiten Präsensklasse auf -ā
-:::Beispiel:
+:::
+Beispiel:
 
 ⟪पा⟫  2 P "schützen, behüten, hüten"
 
@@ -156,7 +165,8 @@ Ohne Stammabstufung sind Wurzeln der zweiten Präsensklasse auf -ā
 | 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
 | 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
-::::::Auch einige andere Wurzeln der zweiten Klasse haben keine Stammabstufung:
+::::::
+Auch einige andere Wurzeln der zweiten Klasse haben keine Stammabstufung:
 
 Beispiele:
 
@@ -171,7 +181,8 @@ Beispiele:
 | 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
 | 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
 
-::::::⟪आस्⟫ 2 Ā "sitzen"
+::::::
+⟪आस्⟫ 2 Ā "sitzen"
 
 :::grammar-box
 
@@ -182,7 +193,8 @@ Beispiele:
 | 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
 | 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
 
-::::::⟪वच्⟫ 2 P "sagen"
+::::::
+⟪वच्⟫ 2 P "sagen"
 
 :::grammar-box
 
@@ -193,7 +205,8 @@ Beispiele:
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
 | 3\. pl. Präs. P | kommt nicht vor |
 
-::::::## 17.5. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
+::::::
+## 17.5. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
 
 Mehrere Wurzeln sind in einer Reihe von Formen zweisilbig, d.h. sie haben vor konsonantischer Endung ein -i (bzw. vor einigen Endungen -ī). Diese Wurzeln werden aber trotzdem von den einheimischen Grammatikern und in Wörterbüchern usw. als einsilbig angesetzt.
 
@@ -215,7 +228,8 @@ Beispiele:
 | 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
 | 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
 
-::::::⟪ब्रू⟫ 2 U "sprechen"
+::::::
+⟪ब्रू⟫ 2 U "sprechen"
 
 *   starker Präsensstamm: bravī- (« bro- + -ī)
 *   schwacher Präsensstamm:
@@ -233,7 +247,8 @@ Beispiele:
 | 3\. sg. Präs. Ā | ⟪ब्रूते⟫ (brū-te) |
 | 3\. pl. Präs. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
-::::::Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen nach diesem Muster:
+::::::
+Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen nach diesem Muster:
 
 :::grammar-box
 
@@ -243,7 +258,8 @@ Beispiele:
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
-::::::## 17.6. Wortliste
+::::::
+## 17.6. Wortliste
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : schlagen, erschlagen, töten
 
@@ -256,7 +272,8 @@ davon:
 Abb.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt1703))
-:::⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sitzen
+:::
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sitzen
 
 davon:
 
@@ -266,13 +283,15 @@ davon:
 ![](/images/lekt1701.webp)
 Abb.: ⟪योगासनम्⟫
 (Bildquelle: [Details](/licenses#lekt1701))
-:::⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : weinen, heulen
+:::
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : weinen, heulen
 
 davon:
 
 :::indent
 ⟪रुद्र⟫ m.: (der Heuler =) der Sturmgott Rudra
-:::⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
+:::
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken
 
@@ -280,7 +299,8 @@ davon:
 ![](/images/lekt1702.webp)
 Abb.: ⟪दोग्धि⟫
 (Bildquelle: [Details](/licenses#lekt1702))
-:::⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : zeigen, anweisen, befehlen
+:::
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : zeigen, anweisen, befehlen
 
 davon:
 
@@ -288,7 +308,8 @@ davon:
 ⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung
 
 ⟪दिष्ट्या⟫ Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
-:::## 17.7. Übung 1
+:::
+## 17.7. Übung 1
 
 A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
 

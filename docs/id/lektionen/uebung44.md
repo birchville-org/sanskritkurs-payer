@@ -66,7 +66,8 @@ A) Determine and translate the following forms:
 | ⟪५०⟫. **⟪चिनुथ⟫** | ⟪चि⟫ (5U) 2. pl. P. Ind. Präs. | you pile up |
 | ⟪५१⟫. **⟪हथ⟫** | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | you strike |
 | ⟪५२⟫. **⟪हतः⟫** | ⟪हन्⟫ (2P) PPP Nom. sg. m. | struck / killed |
-:::---
+:::
+---
 
 ## Translations
 
@@ -100,7 +101,8 @@ You have mourned the unpitiable and wished to speak words of wisdom; yet the wis
 ![](/images/uebung072.webp)
 Fig.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Image source: [Details](/en/licenses#uebung072))
-:::---
+:::
+---
 
 ## Further Form Determinations
 

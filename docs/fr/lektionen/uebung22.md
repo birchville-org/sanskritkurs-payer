@@ -91,7 +91,8 @@ Si un homme a accompli des méritoires et n’a dit que la vérité, il ne tombe
 ![](/images/uebung034.jpg)
 Fig. : ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Source de l’image : [Détails](/fr/licenses#uebung034))
-:::---
+:::
+---
 
 ## Constructions passives
 

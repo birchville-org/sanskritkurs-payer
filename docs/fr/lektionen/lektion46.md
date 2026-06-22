@@ -18,15 +18,18 @@ status: stable
 | :---: | :---: | :---: | :---: | :---: |
 | **Terminaisons du parfait** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ^^ | \-tha | \-a | \-se | \-dhve |
-:::Notez que la terminaison -- la plupart du temps, mais pas toujours la forme ! -- de la 2e personne du pluriel du parfait (P) coïncide avec celle de la 1re et de la 3e personne du singulier du parfait (P).
+:::
+Notez que la terminaison -- la plupart du temps, mais pas toujours la forme ! -- de la 2e personne du pluriel du parfait (P) coïncide avec celle de la 1re et de la 3e personne du singulier du parfait (P).
 
 :::grammar-box
 Devant -tha, la plupart des racines se terminant par -ṛ n’ont pas de voyelle de liaison \-i-. Pour certaines racines, le \-i- devant \-tha- est facultatif.
-:::### 46.1.2. Modification phonétique de la terminaison -dhve
+:::
+### 46.1.2. Modification phonétique de la terminaison -dhve
 
 :::grammar-box
 La terminaison -dhve doit être remplacée au parfait par -ḍhve lorsqu'un -u ou -ṛ radical la précède immédiatement. Ce remplacement peut facultativement intervenir après la voyelle de liaison -i-, lorsqu'une semi-voyelle ou un h précède immédiatement celle-ci.
-:::### 46.1.3. Type de parfait I : pas d’alternance de la racine
+:::
+### 46.1.3. Type de parfait I : pas d’alternance de la racine
 
 Verbes qui suivent ce type :
 
@@ -37,28 +40,32 @@ Verbes qui suivent ce type :
 
 :::grammar-box
 1.sg.P = 3.sg.P = 2.pl.P
-:::⟪बन्ध्⟫ 9P
+:::
+⟪बन्ध्⟫ 9P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪बबन्धिथ⟫:br⟪बबन्द्ध⟫ | ⟪बबन्ध⟫ |
-:::⟪जीव्⟫ 1P
+:::
+⟪जीव्⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | &lt;⟪जिजीविषे⟫&gt; | &lt;⟪जिजीविध्वे⟫&gt;:br&lt;⟪जिजीविढ्वे⟫&gt; |
-:::⟪अस्⟫ 2P, 4P
+:::
+⟪अस्⟫ 2P, 4P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪आसिथ⟫ | ⟪आस⟫ | &lt;⟪आसिषे⟫&gt; | &lt;⟪आसिध्वे⟫&gt; |
-:::### 46.1.4. Type de parfait II : radical fort en grade fort, radical faible en grade faible
+:::
+### 46.1.4. Type de parfait II : radical fort en grade fort, radical faible en grade faible
 
 Verbes qui suivent ce type :
 
@@ -71,14 +78,16 @@ Verbes qui suivent ce type :
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪बिभेदिथ⟫ | ⟪बिभिद⟫ | ⟪बिभिदिषे⟫ | ⟪बिभिदिध्वे⟫ |
-:::⟪मुह्⟫ 4P facultatif ⟪अनिट्⟫
+:::
+⟪मुह्⟫ 4P facultatif ⟪अनिट्⟫
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
-:::### 46.1.5. Type III du parfait : Radical fort en grade fort/étendu
+:::
+### 46.1.5. Type III du parfait : Radical fort en grade fort/étendu
 
 #### 46.1.5.1. Type IIIa du parfait : Radical fort en grade fort/étendu, radical faible en grade faible
 
@@ -94,28 +103,32 @@ Verbes qui suivent ce type :
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪इयेथ⟫:br⟪इययिथ⟫:briy-e + i-tha | ⟪ईय⟫:bri + iy-a |
-:::⟪नी⟫ 2U
+:::
+⟪नी⟫ 2U
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪निनयिथ⟫:br⟪निनेथ⟫ | ⟪निन्य⟫:brninī + a | ⟪निन्यिषे⟫ | ⟪निन्यिध्वे⟫:br⟪निन्यिढ्वे⟫ |
-:::⟪स्तु⟫ 2U (⟪अनिट्⟫)
+:::
+⟪स्तु⟫ 2U (⟪अनिट्⟫)
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪तुष्टोथ⟫ | ⟪तिष्टुव⟫ | ⟪तुष्टुषे⟫ | ⟪तुष्टुढ्वे⟫ |
-:::⟪कृ⟫ 8U (⟪अनिट्⟫)
+:::
+⟪कृ⟫ 8U (⟪अनिट्⟫)
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
-:::#### 46.1.5.2. Type IIIb du parfait : Radical fort en grade fort/étendu, radical fort en grade fort
+:::
+#### 46.1.5.2. Type IIIb du parfait : Radical fort en grade fort/étendu, radical fort en grade fort
 
 Verbes qui suivent ce type :
 
@@ -129,14 +142,16 @@ Verbes qui suivent ce type :
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪पपरिथ⟫ | ⟪पपर⟫:br= 1.sg.P |
-:::⟪संस्कृ⟫ 8U
+:::
+⟪संस्कृ⟫ 8U
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
-:::### 46.1.6. Type IV du parfait : Racines en -ā / -ai
+:::
+### 46.1.6. Type IV du parfait : Racines en -ā / -ai
 
 *   Radical faible :
     *   devant consonne : degré profond-i
@@ -149,14 +164,16 @@ Verbes qui suivent ce type :
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪ददाथ⟫:br⟪ददिथ⟫:brda-di-tha:brou ::brda-d-i-tha | ⟪दद⟫ | ⟪ददिषे⟫ | ⟪ददिध्वे⟫ |
-:::⟪गै⟫ 1P
+:::
+⟪गै⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
-:::### 46.1.7. Parfait Type V : Consonne-a-Consonne
+:::
+### 46.1.7. Parfait Type V : Consonne-a-Consonne
 
 #### 46.1.7.1. Parfait Type Va : Consonne-a-Consonne, racine faible au degré zéro
 
@@ -170,74 +187,85 @@ Verbes qui suivent ce type :
 5.  vad « parler »
 6.  yaj « sacrifier »
 7.  etc.
-:::⟪गम्⟫ 1P
+:::
+⟪गम्⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪जगमिथ⟫:br⟪जगन्थ⟫ | ⟪जग्म⟫ |
-:::⟪हन्⟫ 2P
+:::
+⟪हन्⟫ 2P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪जघनित⟫:br⟪जगन्थ⟫ | ⟪जघ्न⟫ |
-:::⟪जन्⟫ 4Ā
+:::
+⟪जन्⟫ 4Ā
 
 :::grammar-box
 | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪जज्ञिषे⟫ | ⟪जज्ञिध्वे⟫ |
-:::⟪यज्⟫ 1U
+:::
+⟪यज्⟫ 1U
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪इयजिथ⟫:br⟪इयष्ठ⟫ | ⟪ईज⟫ | ⟪ईजिषे⟫ | ⟪ईजिध्वे⟫ |
-:::⟪वच्⟫ 1P
+:::
+⟪वच्⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪उवचिथ⟫:br⟪उवक्थ⟫ | ⟪ऊच⟫ |
-:::⟪वह्⟫ 1U
+:::
+⟪वह्⟫ 1U
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪उवहिथ⟫:br⟪उवोढ⟫ | ⟪ऊह⟫ | ⟪ऊहिषे⟫ | ⟪ऊहिध्वे⟫:br⟪ऊहिढ्वे⟫ |
-:::⟪वद्⟫ 1P
+:::
+⟪वद्⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪उवदिथ⟫ | ⟪ऊद⟫ |
-:::⟪स्वप्⟫ 2P
+:::
+⟪स्वप्⟫ 2P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:brde : su + *svp + a |
-:::#### 46.1.7.2. Parfait Type Vb : Consonne-a-Consonne, consonne initiale non gutturale, aspirée, h, racine faible sans redoublement, avec -e-
+:::
+#### 46.1.7.2. Parfait Type Vb : Consonne-a-Consonne, consonne initiale non gutturale, aspirée, h, racine faible sans redoublement, avec -e-
 
 :::grammar-box
 La 2.sg.P. est formée à partir de la racine faible lorsque la voyelle de liaison -i- intervient.
-:::⟪पच्⟫ 1U
+:::
+⟪पच्⟫ 1U
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪पपक्थ⟫:br***⟪पेचिथ⟫*** | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
-:::#### 46.1.7.3. Parfait Type Vc : Consonne-a-Consonne, racine faible au degré plein
+:::
+#### 46.1.7.3. Parfait Type Vc : Consonne-a-Consonne, racine faible au degré plein
 
 Verbes qui suivent ce type :
 
@@ -250,7 +278,8 @@ Verbes qui suivent ce type :
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
-:::### 46.1.8. Formations particulières du parfait
+:::
+### 46.1.8. Formations particulières du parfait
 
 ⟪विद्⟫ 2P parfait présentique
 
@@ -259,28 +288,32 @@ Verbes qui suivent ce type :
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪वेत्थ⟫ | ⟪विद⟫ |
-:::⟪अह्⟫
+:::
+⟪अह्⟫
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪आत्थ⟫ | \--- |
-:::⟪भू⟫ 1P
+:::
+⟪भू⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪बभूविथ⟫ | ⟪बभूव⟫:br= 1.3.sg.P |
-:::⟪जि⟫ 1P
+:::
+⟪जि⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
-:::### 46.1.9. Le parfait périphrastique (⟪अनुप्रयोगलिट्⟫)
+:::
+### 46.1.9. Le parfait périphrastique (⟪अनुप्रयोगलिट्⟫)
 
 Le parfait périphrastique est formé par :
 
@@ -302,7 +335,8 @@ Le parfait périphrastique est formé par :
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
-:::## 46.2. Liste de mots
+:::
+## 46.2. Liste de mots
 
 ⟪सम⟫ 3 : égal, juste, semblable
 
@@ -312,7 +346,8 @@ dérivé :
 ⟪समता⟫ f. : égalité d'âme
 ⟪विषम⟫ 3 : inégal, débonnaire, méchant
 
-:::⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : saisir, attraper, prendre
+:::
+⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : saisir, attraper, prendre
 
 :::indent
 Parfait Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
@@ -335,7 +370,8 @@ dérivé :
 8.  ⟪राहुः⟫
 9.  ⟪केतुः⟫
 
-:::Pour ⟪राहु⟫ et ⟪केतु⟫ voir :
+:::
+Pour ⟪राहु⟫ et ⟪केतु⟫ voir :
 
 > **Payer, Alois &lt;1944 - &gt; : Dharmashastra : Introduction et aperçu. -- 10. Sacrements et rites de passage (samskara). -- Annexe C : Rahu et Ketu, les planètes errantes invisibles . -- URL : [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)**
 :::media
@@ -354,7 +390,8 @@ Fig. : [⟪शुक्रः⟫, ⟪शनिः⟫](/fr/licenses#lekt4604)
 ![](/images/lekt4605.webp)
 Fig. : [⟪राहुः⟫, ⟪केतुः⟫](/fr/licenses#lekt4605)
 (Source de l'image : [Détails](/fr/licenses#lekt4605))
-:::⟪तुष्⟫ 4P ⟪तुष्यति⟫ : se contenter, être satisfait de (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+:::
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : se contenter, être satisfait de (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
 :::indent
 Parfait. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
@@ -364,7 +401,8 @@ Causatif ⟪तोषयति⟫
 PPP ⟪तुष्ट⟫  
 Infinitif ⟪तोष्टुम्⟫
 
-:::⟪नम्⟫ 1P ⟪नमति⟫ : se plier, s'incliner, se pencher, s'incliner profondément
+:::
+⟪नम्⟫ 1P ⟪नमति⟫ : se plier, s'incliner, se pencher, s'incliner profondément
 
 :::indent
 Parfait. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
@@ -378,7 +416,8 @@ Infinitif ⟪नन्तुम्⟫
 ![](/images/lekt4607.webp)
 Fig. : [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/fr/licenses#lekt4607)
 (Source de l'image : [Détails](/fr/licenses#lekt4607))
-:::⟪रुह्⟫ 1P ⟪रोहति⟫ : gravir, monter
+:::
+⟪रुह्⟫ 1P ⟪रोहति⟫ : gravir, monter
 
 :::indent
 Parfait. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
@@ -392,7 +431,8 @@ Infinitif ⟪रोढुम्⟫
 ![](/images/lekt4606.webp)
 Fig. : [⟪अश्वरोहकः⟫](/fr/licenses#lekt4606)
 (Source de l'image : [Détails](/fr/licenses#lekt4606))
-:::⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : appeler, invoquer
+:::
+⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : appeler, invoquer
 
 :::indent
 Parfait. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
@@ -410,7 +450,8 @@ Fig. : [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 ::::::indent
 1 ⟪महामात्र⟫ m. "Mahout" ; ⟪चरिष्णु⟫ 3 "mobile", ⟪दूरशब्द⟫ m. "téléphone à longue distance" » ⟪चरिष्णुदूरशब्द⟫ "téléphone mobile" (formation de mot : A. Payer)
 
-:::⟪विभ्रम⟫ m. : le va-et-vient
+:::
+⟪विभ्रम⟫ m. : le va-et-vient
 
 ⟪भ्रंश⟫ m. : la chute
 
@@ -431,7 +472,8 @@ dérivé :
 ![](/images/lekt4609.webp)
 Fig. : [⟪श्रान्तः⟫](/fr/licenses#lekt4609)
 (Source de l'image : [Détails](/fr/licenses#lekt4609))
-:::⟪श्रि⟫ 1U ⟪श्रयति⟫ : s'appuyer, se reposer, trouver un soutien, se rendre auprès de quelqu'un (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+:::
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : s'appuyer, se reposer, trouver un soutien, se rendre auprès de quelqu'un (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 :::indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
@@ -441,7 +483,8 @@ Caus. ⟪श्राययति⟫
 PPP ⟪श्रित⟫  
 Inf. ⟪श्रयितुम्⟫
 
-:::⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : attacher, se fixer à (⟪सप्तम्या⟫)
+:::
+⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : attacher, se fixer à (⟪सप्तम्या⟫)
 
 :::indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -457,7 +500,8 @@ dont :
 ![](/images/lekt4610.webp)
 Fig. : [⟪सङ्गः⟫](/fr/licenses#lekt4610)
 (Source de l'image : [Détails](/fr/licenses#lekt4610))
-:::⟪द्रु⟫ 1P ⟪द्रवति⟫ : courir, se hâter
+:::
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : courir, se hâter
 
 :::indent
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
@@ -468,7 +512,8 @@ PPP ⟪द्रुत⟫
 Inf. ⟪द्रोतुम्⟫  
 Absol. -⟪द्रुत्य⟫
 
-:::⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : errer, vagabonder
+:::
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : errer, vagabonder
 
 :::indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
@@ -480,7 +525,8 @@ Absol. -⟪भ्रम्य⟫
 dont :
 ⟪विभ्रम⟫ m. : errance, confusion, erreur
 
-:::⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : pendre de (⟪सप्तम्या⟫), être suspendu à (⟪सप्तम्या⟫)
+:::
+⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : pendre de (⟪सप्तम्या⟫), être suspendu à (⟪सप्तम्या⟫)
 
 :::indent
 Perf. I ⟪ललम्बे⟫  
@@ -495,7 +541,8 @@ Absol. -⟪लम्ब्य⟫
 ![](/images/lekt4601.jpg)
 Fig. : [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/fr/licenses#lekt4601)
 (Source de l'image : [Détails](/fr/licenses#lekt4601))
-:::⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : se suspendre à (⟪द्वितीयया⟫)
+:::
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : se suspendre à (⟪द्वितीयया⟫)
 
 ⟪यदि⟫ Conjonction :  si
 
@@ -504,19 +551,22 @@ Fig. : [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/fr
 :::indent
 PPP ⟪परिभूत⟫ 3 : vaincu, humilié, abaissé
 
-:::⟪नि⟫ Préfixe : vers le bas, en bas, dedans, en arrière
+:::
+⟪नि⟫ Préfixe : vers le bas, en bas, dedans, en arrière
 
 :::indent
 par ex.
 ⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : s'asseoir
 
-:::⟪भोस्⟫ Particule vocative : exclamation d'appel, par ex. : hé, hola, oh, hé, bonjour, salut ! souvent non traduisible. Cette particule a un sandhi spécial : devant tous les sons sonores, il est ***⟪भो⟫***.
+:::
+⟪भोस्⟫ Particule vocative : exclamation d'appel, par ex. : hé, hola, oh, hé, bonjour, salut ! souvent non traduisible. Cette particule a un sandhi spécial : devant tous les sons sonores, il est ***⟪भो⟫***.
 
 :::media
 ![](/images/lekt4611.webp)
 Fig. : [⟪भोः⟫](/fr/licenses#lekt4611)
 (Source de l'image : [Détails](/fr/licenses#lekt4611))
-:::## 46.3. Exercice
+:::
+## 46.3. Exercice
 
 A) Déterminez et traduisez les formes suivantes :
 
@@ -583,7 +633,8 @@ B) Traduisez :
 ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫  
 ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥२॥⟫
 
-:::⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
+:::
+⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
 
 :::media
 ![](/images/lekt4612.webp)

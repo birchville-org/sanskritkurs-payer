@@ -144,7 +144,8 @@ sā brāhmaṇī nṛtyati.
 ![](/images/uebung004.jpg)
 अभ.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Bildquelle: [Details](/hi/licenses#uebung004))
-:::---
+:::
+---
 
 ## पुनरावृत्ति-अभ्यास पाठ 6
 

@@ -52,7 +52,8 @@ B) Formez des questions pour l'exercice de lecture suivant selon le modèle etat
 ![](/images/lekt0401.webp)
 Fig. : ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫ ⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#lekt0401))
-:::eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
+:::
+eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
 
 ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫
 

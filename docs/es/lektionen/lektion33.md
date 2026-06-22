@@ -24,7 +24,8 @@ La sílaba de reduplicación consiste en (una consonante y) una vocal.
 :::grammar-box
 **1. Por lo común:**  
 **Repetición de la primera consonante de la raíz**
-:::Ejemplos:
+:::
+Ejemplos:
 
 :::indent
 **⟪दा⟫** 3 "dar"
@@ -37,7 +38,8 @@ La sílaba de reduplicación consiste en (una consonante y) una vocal.
 * 3.sg.Ā.Ind.Pres. ***⟪मि⟫***⟪मीते⟫
 ::::::grammar-box
 **2. Un consonante inicial aspirada de una raíz se reduplica mediante la correspondiente consonante no aspirada.**
-:::Ejemplos:
+:::
+Ejemplos:
 
 :::indent
 **⟪धा⟫** 3 "colocar"
@@ -51,8 +53,10 @@ La sílaba de reduplicación consiste en (una consonante y) una vocal.
 :::indent
 **⟪क्⟫**, **⟪ख्⟫** por **⟪च्⟫**  
 **⟪ग्⟫**, **⟪घ्⟫** por **⟪ज्⟫**
-:::**⟪ह्⟫ se reduplica siempre por ⟪ज्⟫.**
-::::Ejemplos:
+:::
+**⟪ह्⟫ se reduplica siempre por ⟪ज्⟫.**
+::::
+Ejemplos:
 
 :::indent
 **⟪हु⟫** 3 "(para el sacrificio) verter en el fuego"
@@ -61,12 +65,14 @@ La sílaba de reduplicación consiste en (una consonante y) una vocal.
 **4. Si una raíz comienza con varias consonantes, se repite únicamente la primera (en su caso, aplicando la regla 2 o 3).**
 ::::::grammar-box
 **5. Si una raíz comienza con un grupo de consonantes fricativa sibilante + consonante sorda, no se reduplica la sibilante, sino la consonante sorda siguiente, de acuerdo con las reglas anteriores.**
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 **⟪स्था⟫** 1 "estar de pie"
 * 3.sg.P.Ind.Pres. **⟪तिष्ठति⟫**
-:::## 33.2. La tercera clase de presente (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫, etc.")
+:::
+## 33.2. La tercera clase de presente (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫, etc.")
 
 :::grammar-box
 **Formación:**
@@ -78,13 +84,15 @@ La sílaba de reduplicación consiste en (una consonante y) una vocal.
 **raíz acentuada en grado reducido con reduplicación + terminación**
 
 **Las reglas para el consonante de reduplicación indicadas anteriormente se aplican.**
-:::### 33.2.1. La vocal de reduplicación de la 3. clase de presente
+:::
+### 33.2.1. La vocal de reduplicación de la 3. clase de presente
 
 :::grammar-box
 * **La vocal de reduplicación regular es -i-**
 * **Las raíces que contienen -u se reduplican con -u-**
 * **las raíces ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ con -a-**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ::::grammar-box
 **⟪हु⟫** 3ª persona singular "(verter) al fuego (como ofrenda)"
@@ -97,7 +105,8 @@ La sílaba de reduplicación consiste en (una consonante y) una vocal.
 | **Indicativo Presente** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | &lt;⟪जुहुते⟫&gt; | &lt;⟪जुह्वते⟫&gt;:brjuhu + ate |
 | **Imperfecto** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | &lt;⟪अजुहुत⟫&gt; | &lt;⟪अजुह्वत⟫&gt;:bra-juhu + ata |
 | **Optativo** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | &lt;⟪जुह्वीत⟫&gt;:brjuhu + ī-ta | &lt;⟪जुह्वीरन्⟫&gt;:brjuhu + ī-ran |
-::::## 33.3. Sobre la ablaut de ā
+::::
+## 33.3. Sobre la ablaut de ā
 
 ā kann
 
@@ -116,7 +125,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
     p. ej. **⟪धा⟫** 3.pl.P.Ind.Prés. **⟪दधति⟫** (dadh-ati)
 * **Grado reforzado: -ā-**  
   p. ej. **⟪धा⟫** 3.sg.P.Ind.Prés. **⟪दधाति⟫**
-:::Aquí pertenecen, p. ej., también:
+:::
+Aquí pertenecen, p. ej., también:
 
 :::indent
 **⟪स्था⟫** 1
@@ -129,11 +139,13 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
   p. ej. **⟪पा⟫** 1: PPP **⟪पीत⟫** (pī-ta)
 * **Grado reforzado: -ā-**  
   p. ej. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
-::::## 33.4. Raíces en -ā de la tercera clase de presente
+::::
+## 33.4. Raíces en -ā de la tercera clase de presente
 
 :::grammar-box
 **Las raíces en -ā (excepto ⟪दा⟫ y ⟪धा⟫) tienen en la forma débil habitualmente la terminación -ī-** (ver al respecto Thumb-Hauschild Vol. 1,1 p. 271. Probablemente la serie de ablaut B mencionada anteriormente actuó como modelo, aunque estas raíces de otro modo siguen la serie A para el ablaut), **ante terminaciones vocálicas, la vocal de la raíz desaparece completamente (ver serie de ablaut A).**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ::::grammar-box
 **⟪मा⟫** 3Ā "medir"
@@ -151,7 +163,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Indicativo Presente** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Imperfecto** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativo** | ⟪जह्यात्⟫:brjah-yā-t:br(¡La raíz **⟪हा⟫** tiene antes de la terminación optativa -yā/y la misma forma que ante vocales!) | ⟪जह्युर्⟫:brjah-y-ur |
-::::### 33.4.1. Las raíces **⟪दा⟫** y **⟪धा⟫**
+::::
+### 33.4.1. Las raíces **⟪दा⟫** y **⟪धा⟫**
 
 :::grammar-box
 **Las raíces ⟪दा⟫ y ⟪धा⟫ se reduplican con la vocal -a- y pierden la vocal de la raíz en la forma débil.**
@@ -165,7 +178,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Indicativo Presente** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Explicación: Thumb-Hauschild 1,1 p. 302s.) | ⟪दधते⟫:brdadh-ate |
 | **Imperfecto** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativo** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
-::::Las formas de **⟪दा⟫** se obtienen reemplazando **dh** por **d** en el paradigma de **⟪धा⟫**. Es decir:
+::::
+Las formas de **⟪दा⟫** se obtienen reemplazando **dh** por **d** en el paradigma de **⟪धा⟫**. Es decir:
 
 ::::grammar-box
 **⟪दा⟫** 3U "dar"
@@ -175,13 +189,15 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Indicativo Presente** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
 | **Imperfecto** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optativo** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
-::::## 33.5. El participio presente de la voz activa de las raíces de la 3.ª clase de presente
+::::
+## 33.5. El participio presente de la voz activa de las raíces de la 3.ª clase de presente
 
 :::grammar-box
 **Los verbos de la 3.ª clase forman todas las formas del participio presente de la voz activa a partir del tema débil.**
 
 **Excepción: El nominativo/acusativo plural neutro puede formarse opcionalmente a partir del tema fuerte o del tema débil.**
-:::**⟪दा⟫** Participio presente de la voz activa:
+:::
+**⟪दा⟫** Participio presente de la voz activa:
 
 ::::grammar-box
 | | Masculino:br⟪पुंल्लिङ्ग⟫ | Neutro:br⟪नपुंसकलिङ्ग⟫ | Femenino:br⟪स्त्रीलिङ्ग⟫ |
@@ -192,7 +208,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Plural** | | | |
 | **1. Nominativo** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
 | **2. Acusativo** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
-::::De manera similar **⟪जुह्वत्⟫** (juhu-at + s)
+::::
+De manera similar **⟪जुह्वत्⟫** (juhu-at + s)
 
 ## 33.6. Lista de palabras
 
@@ -212,7 +229,8 @@ de ello:
 ![](/images/lekt3306.webp)
 Fig.: ⟪दानम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3306))
-:::**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (en recepción) tomar, tomar posesión, llevarse
+:::
+**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (en recepción) tomar, tomar posesión, llevarse
 
 :::indent
 **Absol.** ⟪आदाय⟫: con Ac.: en compañía de, con
@@ -220,7 +238,8 @@ Fig.: ⟪दानम्⟫
 ![](/images/lekt3307.webp)
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3307))
-:::***⟪धा⟫*** 3U ***⟪दधाति⟫***: poner, establecer, asignar
+:::
+***⟪धा⟫*** 3U ***⟪दधाति⟫***: poner, establecer, asignar
 
 :::indent
 **Fut.** ***⟪धास्यति⟫***  
@@ -228,7 +247,8 @@ Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **Kaus.** ***⟪धापयति⟫***  
 **PPP** ***⟪हित⟫*** (!!)  
 **Inf.** ***⟪धातुम्⟫***
-:::**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: dirigir toda la atención en algo, reunirse
+:::
+**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: dirigir toda la atención en algo, reunirse
 
 :::indent
 de ello:
@@ -238,7 +258,8 @@ de ello:
 ![](/images/lekt3305.webp)
 Fig.: ⟪समाधि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3305))
-:::**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: llenar, llenar
+:::
+**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: llenar, llenar
 
 :::indent
 Recordar:
@@ -251,7 +272,8 @@ Recordar:
 **Pass.** ⟪पूर्यते⟫  
 **Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
 **PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
-:::**⟪पॄ⟫** + **⟪सम्⟫** solo **Pass.** ⟪सम्पूर्यते⟫ y **Kaus.**: llenar completamente
+:::
+**⟪पॄ⟫** + **⟪सम्⟫** solo **Pass.** ⟪सम्पूर्यते⟫ y **Kaus.**: llenar completamente
 
 **⟪भी⟫** 3P **⟪बिभेति⟫**: temer a (Abl., Gen.)
 
@@ -269,7 +291,8 @@ de ello:
 ![](/images/lekt3304.webp)
 Fig.: ⟪भयम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3304))
-:::**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: llevar, traer; mantener, nutrir
+:::
+**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: llevar, traer; mantener, nutrir
 
 :::indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -281,7 +304,8 @@ Fig.: ⟪भयम्⟫
 de ello:
 
 **⟪भार⟫** m.: Carga
-:::**⟪मा⟫** 3Ā **⟪मिमीते⟫**: medir
+:::
+**⟪मा⟫** 3Ā **⟪मिमीते⟫**: medir
 
 :::indent
 **Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
@@ -289,7 +313,8 @@ de ello:
 **Kaus.** ⟪मापयति⟫  
 **PPP** ⟪मित⟫  
 **Inf.** ⟪मातुम्⟫
-:::**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: comparar
+:::
+**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: comparar
 
 :::indent
 de ello:
@@ -297,7 +322,8 @@ de ello:
 **⟪उपमा⟫** f.: Comparación
 
 **⟪प्रतिमा⟫** f.: Imagen
-:::**⟪हा⟫** 3P **⟪जहाति⟫**: abandonar
+:::
+**⟪हा⟫** 3P **⟪जहाति⟫**: abandonar
 
 :::indent
 **Fut.** ⟪हास्यति⟫  
@@ -312,7 +338,8 @@ de PPP **⟪हीन⟫**:
 ![](/images/lekt3303.webp)
 Fig.: ⟪हीनयानमेव⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3303))
-:::**⟪हु⟫** 3P **⟪जुहोति⟫**: verter en el fuego (como ofrenda, especialmente mantequilla fundida)
+:::
+**⟪हु⟫** 3P **⟪जुहोति⟫**: verter en el fuego (como ofrenda, especialmente mantequilla fundida)
 
 :::indent
 **Fut.** ⟪होष्यति⟫  
@@ -325,13 +352,16 @@ Fig.: ⟪हीनयानमेव⟫
 Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3302))
 
-:::**⟪घृत⟫** n.: Mantequilla clarificada, ghee (⟪घी⟫ / گھی / ঘী)
+:::
+**⟪घृत⟫** n.: Mantequilla clarificada, ghee (⟪घी⟫ / گھی / ঘী)
 
-:::note-box
+:::
+note-box
 "El ghee se elabora hirviendo suavemente mantequilla sin sal en una olla grande hasta que toda el agua se haya evaporado y las proteínas se hayan depositado en el fondo. Luego se retira la mantequilla cocida y clarificada con una cuchara para evitar alterar los sólidos lácteos del fondo de la sartén. A diferencia de la mantequilla, el ghee puede almacenarse durante períodos prolongados sin refrigeración, siempre que se guarde en un recipiente hermético para prevenir la oxidación y se mantenga libre de humedad. La textura, el color o el sabor del ghee dependen de la fuente de leche de la que se elaboró la mantequilla. En la India, el ghee se elabora generalmente con leche de búfala, ya que tiende a ser más blanca que la leche de vaca."
 
 [Fuente: http://en.wikipedia.org/wiki/Ghee. -- Acceso el 2008-12-26]
-:::## 33.7. Ejercicio
+:::
+## 33.7. Ejercicio
 
 A) Inserte en el siguiente patrón de oración las formas correspondientes de las palabras entre paréntesis:
 
@@ -367,7 +397,8 @@ C) Traduzca y convierta oraciones singulares en oraciones plurales y viceversa:
 ![](/images/lekt3308.webp)
 Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3308))
-:::⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
+:::
+⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
 
 ⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
 

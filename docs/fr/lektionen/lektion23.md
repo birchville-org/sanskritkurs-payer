@@ -50,7 +50,8 @@ par exemple
 **Lorsque l'infinitif dépend d'un nom, il ne doit pas être lié à celui-ci sous forme de composé. Sont exceptés les Bahuvrīhi, dont le deuxième membre est ⟪काम⟫ ou ⟪मनस्⟫ :**
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = « celui dont le souhait est de parler ; celui qui souhaite parler ».
-:::## 23.2. Formation de l'infinitif (⟪तुमुन्⟫)
+:::
+## 23.2. Formation de l'infinitif (⟪तुमुन्⟫)
 
 :::grammar-box
 **racine au degré plein + -tum**
@@ -62,12 +63,14 @@ par exemple
 **Les consonnes finales de la racine sont modifiées devant -tum selon les mêmes règles que devant le -ta du PPP.**
 
 **Les verbes avec préverbe forment l'infinitif de la même manière que les racines simples.**
-:::Exemples :
+:::
+Exemples :
 
 :::indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
-:::On ne peut pas établir de règles fixes concernant l'utilisation de la voyelle de liaison -i-. Essentiellement, la distribution de la voyelle de liaison à l'infinitif correspond à celle du futur.
+:::
+On ne peut pas établir de règles fixes concernant l'utilisation de la voyelle de liaison -i-. Essentiellement, la distribution de la voyelle de liaison à l'infinitif correspond à celle du futur.
 
 Parmi les racines apprises jusqu'à présent, les infinitifs suivants méritent une attention particulière :
 
@@ -75,13 +78,15 @@ Parmi les racines apprises jusqu'à présent, les infinitifs suivants méritent 
 ⟪गम्⟫ : ⟪गन्तुम्⟫
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
-:::-ra- comme degré plein de -ṛ- ont dans l'infinitif :
+:::
+-ra- comme degré plein de -ṛ- ont dans l'infinitif :
 
 :::indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
-:::Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+:::
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. L'infinitif (⟪तुमुन्⟫) des racines apprises jusqu'à présent
 
@@ -229,14 +234,16 @@ D) Traduisez et résolvez les composés :
 Fig. : ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thaïlande = ประเทศไทย
 (Source de l'image : [Détails](/fr/licenses#lekt2303))
-:::⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
+:::
+⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
 :::media
 ![](/images/lekt2301.webp)
 Fig. : ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thaïlande = เชียงใหม่, ประเทศไทย
 (Source de l'image : [Détails](/fr/licenses#lekt2301))
-:::⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
+:::
+⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
 
 ⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫
 
@@ -258,7 +265,8 @@ Explication : ⟪हीन⟫ ⟪३⟫ : PPP de ⟪हा⟫ 3 : quitter ; ⟪�
 Fig. : ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2302))
-:::## 23.6. Exercice de révision
+:::
+## 23.6. Exercice de révision
 
 Veuillez ne pas utiliser d'aides !
 
@@ -283,7 +291,8 @@ A) Traduisez en sanskrit :
 Fig. : ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Premier ministre de l'Inde = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, depuis 2004
 (Source de l'image : [Détails](/fr/licenses#lekt2304))
-:::8\. Épouse, fils et esclave, ces trois (⟪त्रयस्⟫) sont, selon la tradition, sans biens. À quoi ces derniers viennent, cela appartient à celui à qui ces (trois) appartiennent.
+:::
+8\. Épouse, fils et esclave, ces trois (⟪त्रयस्⟫) sont, selon la tradition, sans biens. À quoi ces derniers viennent, cela appartient à celui à qui ces (trois) appartiennent.
 
 9\. Les moustiques souhaitent une plaie, les souverains souhaitent des biens, les inférieurs souhaitent des querelles, les bons souhaitent la paix.
 

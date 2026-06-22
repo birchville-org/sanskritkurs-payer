@@ -17,7 +17,8 @@ status: stable
 - L'indicatif présent (laṭ) et les terminaisons primaires de la 3e personne
 - La formation de la racine présente (classes 1, 4 et 6)
 - L'alternance vocalique (Ablaut : Guṇa et Vṛddhi)
-:::## 6.1. La proposition verbale
+:::
+## 6.1. La proposition verbale
 
 :::grammar-box
 **Schéma I : Forme verbale**
@@ -25,7 +26,8 @@ status: stable
 
 **Schéma II : Agent (kartṛ m. = ⟪कर्तृ⟫) – Forme verbale**
 - p. ex. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = « Rāma vénère par un sacrifice », « Rāma sacrifie »
-:::Lorsque l’agent (**kartṛ** m. = ⟪कर्तृ⟫) est mentionné dans une proposition verbale qui n’est pas à la voix passive, l’agent se trouve au **nominatif** (premier cas, prathamā = ⟪प्रथमा⟫). En nombre (numerus, vacana n. = ⟪वचन⟫), l’agent et la forme verbale concordent.
+:::
+Lorsque l’agent (**kartṛ** m. = ⟪कर्तृ⟫) est mentionné dans une proposition verbale qui n’est pas à la voix passive, l’agent se trouve au **nominatif** (premier cas, prathamā = ⟪प्रथमा⟫). En nombre (numerus, vacana n. = ⟪वचन⟫), l’agent et la forme verbale concordent.
 
 ---
 
@@ -68,7 +70,8 @@ Le présent est le temps de la présence, en particulier aussi de la durée.
 
 :::grammar-box
 **L’indicatif (forme déclarative) présent est formé en ajoutant les désinences primaires au radical de présent.**
-:::Exemples :
+:::
+Exemples :
 
 | Racine (dhātu) | Radical de présent | 3ᵉ personne singulier de l’indicatif présent Parasmaipada |
 | :--- | :--- | :--- |
@@ -85,7 +88,8 @@ Le présent est le temps de la présence, en particulier aussi de la durée.
 | :--- | :--- | :--- |
 | **Parasmaipada n.**:br⟪परस्मैपद⟫ | **-ti**:br-⟪ति⟫ | **-nti**:br-⟪न्ति⟫ |
 | **Ātmanepada n.**:br⟪आत्मनेपद⟫ | **-te**:br-⟪ते⟫ | **-nte**:br-⟪न्ते⟫ |
-:::Exemple **yaj** = ⟪यज्⟫ = « honorer par un sacrifice », « sacrifier » :
+:::
+Exemple **yaj** = ⟪यज्⟫ = « honorer par un sacrifice », « sacrifier » :
 - Radical de présent : **yaja** = ⟪यज⟫
 - 3. sg. P. **yajati** = ⟪यजति⟫
 - 3. pl. P. **yajanti** = ⟪यजन्ति⟫
@@ -105,7 +109,8 @@ Le présent est le temps de la présence, en particulier aussi de la durée.
 | :--- | :--- |
 | **viś**:br⟪विश्⟫ | **viśa-**:br⟪विश⟫- |
 | **sṛj**:br⟪सृज्⟫ | **sṛja-**:br⟪सृज⟫- |
-:::### 6.5.2. Verbes de la première classe de présent (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = « bhū, etc. »)
+:::
+### 6.5.2. Verbes de la première classe de présent (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = « bhū, etc. »)
 
 :::grammar-box
 | Radical de présent = racine au degré fort (rarement au degré allongé) + a- ||||
@@ -117,7 +122,8 @@ Le présent est le temps de la présence, en particulier aussi de la durée.
 | **yaj**:br⟪यज्⟫ | **yaj**:br⟪यज्⟫ | **yaj**:br⟪यज्⟫ | **yaja-**:br⟪यज⟫- |
 | Si la voyelle se trouve dans une syllabe longue fermée, c’est-à-dire une voyelle brève suivie de deux consonnes ou plus, la formation du degré fort est omise ||||
 | **nind**:br⟪निन्द्⟫ | **nind**:br⟪निन्द्⟫ | **nind**:br⟪निन्द्⟫ | **ninda-**:br⟪निन्द⟫- |
-:::#### 6.5.2.1. Sandhi lexical de e et o
+:::
+#### 6.5.2.1. Sandhi lexical de e et o
 À l’intérieur des mots, devant les voyelles, **e** est remplacé par **ay**, **o** par **av**.
 
 #### 6.5.2.2. Alternance vocalique (Ablaut)
@@ -130,7 +136,8 @@ Le présent est le temps de la présence, en particulier aussi de la durée.
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
-:::### 6.5.3. Verbes de la 4e classe de présent (divādi = ⟪दिवादि⟫ = "div etc.")
+:::
+### 6.5.3. Verbes de la 4e classe de présent (divādi = ⟪दिवादि⟫ = "div etc.")
 
 :::grammar-box
 **Stame du présent = racine au degré faible (tel qu'il est répertorié) + ya-**
@@ -141,11 +148,13 @@ Le présent est le temps de la présence, en particulier aussi de la durée.
 | **muh**:br⟪मुह्⟫ | **muhya-**:br⟪मुह्य⟫- |
 | **yudh**:br⟪युध्⟫ | **yudhya-**:br⟪युध्य⟫- |
 | **man**:br⟪मन्⟫ | **manya-**:br⟪मन्य⟫- |
-:::### 6.5.4. Voyelle thématique, classes de présent thématiques
+:::
+### 6.5.4. Voyelle thématique, classes de présent thématiques
 
 :::grammar-box
 Le **a** dans les suffixes de formation de radical des classes de présent est appelé **voyelle thématique**. Les classes de présent avec **a** dans le suffixe de formation de radical sont donc appelées « classes de présent thématiques ».
-:::---
+:::
+---
 
 ## 6.6. Sanskrit parlé : Autres questions (praśna m. = ⟪प्रश्न⟫)
 
@@ -155,7 +164,8 @@ Le **a** dans les suffixes de formation de radical des classes de présent est a
 - (karoti, kurvanti de **kṛ** = ⟪कृ⟫ 8 U : « faire, accomplir »)
 - **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = « Comment allez-vous ? »
 - Réponse : **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = « (Je vais) bien sous tous les rapports. »
-:::---
+:::
+---
 
 ## 6.7. Liste de vocabulaire
 
@@ -166,7 +176,8 @@ En sanskrit, les verbes sont présentés sous leur **forme de racine**. Le chiff
 - **Ā :** La racine est uniquement à l'Ātmanepada.
 - **U :** Ubhayapada (« les deux formes ») : La racine est utilisée au Parasmaipada et à l'Ātmanepada.
 - **():** Entre parenthèses se trouve la 3e personne du singulier du présent de l'indicatif (laṭ).
-:::**Apprenez les mots suivants :**
+:::
+**Apprenez les mots suivants :**
 - **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : honorer par un sacrifice, sacrifier
 - **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : devenir, surgir, être
 - **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : actualiser, se souvenir
@@ -214,7 +225,8 @@ En sanskrit, les verbes sont présentés sous leur **forme de racine**. Le chiff
 **Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
 (Source de l'image : Wikipedia, CC-BY-SA 2.5)
-:::---
+:::
+---
 
 ## 6.9. Exercice de révision
 
@@ -291,7 +303,8 @@ En sanskrit, les verbes sont présentés sous leur **forme de racine**. Le chiff
 ![](/images/lekt0602.webp)
 **Mīnākṣī** (⟪मीनाक्षी⟫), Temple de Mīnākṣī, Madurai, Tamil Nadu
 (Source de l'image : Wikipedia, Domaine public)
-:::4. Ils sont confus.
+:::
+4. Ils sont confus.
 5. Rāma est un homme saint.
 6. Qui est le SEIGNEUR ?
 7. Indra est le SEIGNEUR.

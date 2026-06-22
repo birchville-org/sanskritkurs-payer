@@ -35,7 +35,8 @@ Scurcimea este ornamentul gramaticianului.
 ![](/images/uebung083.webp)
 Fig.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung083))
-:::---
+:::
+---
 
 ## Traduceri în sanscrită (Imperativ)
 
@@ -57,7 +58,8 @@ Vrem să vorbim.
 ![](/images/uebung085.webp)
 Fig.: ⟪वचाम⟫
 (Sursa imaginii: [Detalii](/licenses#uebung085))
-:::⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
+:::
+⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 Cu cuvintele „Vino, monah!” Buddha l-a primit pe bărbat în ordine.
 
 ⟪६⟫. **⟪सन्मानवाः⟫ ⟪स्त⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
@@ -109,7 +111,8 @@ Soții trebuie să-și întrețină soțiile.
 ![](/images/uebung076.webp)
 Fig.: ⟪तानि⟫ ⟪फलान्यदाम⟫
 (Sursa imaginii: [Detalii](/licenses#uebung076))
-:::---
+:::
+---
 
 ## Dharma-ul femeilor (⟪स्त्रीधर्मः⟫)
 

@@ -29,7 +29,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
-:::⟪भाष्⟫ 1Ā "parler"
+:::
+⟪भाष्⟫ 1Ā "parler"
 
 :::grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -37,7 +38,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
-:::### 60.2.2. Type 2 : forte racine au niveau supérieur, faible racine au niveau inférieur
+:::
+### 60.2.2. Type 2 : forte racine au niveau supérieur, faible racine au niveau inférieur
 
 ⟪भिद्⟫ 7U "fendre"
 
@@ -47,7 +49,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
-:::### 60.2.3. Type 3 : Radical fort au degré plein/long
+:::
+### 60.2.3. Type 3 : Radical fort au degré plein/long
 
 #### 60.2.3.1. Type 3a : Radical fort au degré plein/long, radical faible au degré réduit
 
@@ -59,7 +62,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
-:::⟪स्तु⟫ 2U (⟪अनिट्⟫) « louer »
+:::
+⟪स्तु⟫ 2U (⟪अनिट्⟫) « louer »
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -67,7 +71,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
-:::⟪कृ⟫ 8U (⟪अनिट्⟫) « faire »
+:::
+⟪कृ⟫ 8U (⟪अनिट्⟫) « faire »
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -75,7 +80,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
-:::#### 60.2.3.2. Type 3b : Radical fort au degré plein/long, radical fort au degré plein
+:::
+#### 60.2.3.2. Type 3b : Radical fort au degré plein/long, radical fort au degré plein
 
 ⟪स्मृ⟫ 1P « rendre présent »
 
@@ -85,7 +91,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
-:::### 60.2.4. Type 4 : Racines en -ā / -ai
+:::
+### 60.2.4. Type 4 : Racines en -ā / -ai
 
 ⟪दा⟫ 3U "donner"
 
@@ -97,7 +104,8 @@ status: stable
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
 \* identique aux formes correspondantes de l'indicatif présent !
-:::### 60.2.5. Type 5 : Consonne-a-Consonne
+:::
+### 60.2.5. Type 5 : Consonne-a-Consonne
 
 #### 60.2.5.1. Type 5a : Consonne-a-Consonne, racine faible, degré profond
 
@@ -109,7 +117,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
-:::#### 60.2.5.2. Type 5b : Consonne-a-Consonne, consonne initiale non gutturale, non aspirée, pas de h, racine faible sans redoublement, avec -e-
+:::
+#### 60.2.5.2. Type 5b : Consonne-a-Consonne, consonne initiale non gutturale, non aspirée, pas de h, racine faible sans redoublement, avec -e-
 
 ⟪पच्⟫ 1U "cuire"
 
@@ -119,7 +128,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
-:::#### 60.2.5.3. Type 5c : Consonne-a-Consonne, racine faible, degré élevé
+:::
+#### 60.2.5.3. Type 5c : Consonne-a-Consonne, racine faible, degré élevé
 
 ⟪क्रम्⟫ 1U "progresser"
 
@@ -129,7 +139,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
-:::## 60.3. Le duel du parfait périphrastique (⟪अनुप्रयोगलिट्⟫)
+:::
+## 60.3. Le duel du parfait périphrastique (⟪अनुप्रयोगलिट्⟫)
 
 ⟪गण्⟫ 10P "compter"
 
@@ -139,7 +150,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ |
-:::⟪आस्⟫ 2Ā "s'asseoir"
+:::
+⟪आस्⟫ 2Ā "s'asseoir"
 
 :::grammar-box
 |   | **⟪आत्मनेपदम्⟫** |
@@ -147,7 +159,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
-:::## 60.4. Le participe ⟪परस्मैपद⟫ du parfait redoublé (⟪द्वित्वलिट्⟫)
+:::
+## 60.4. Le participe ⟪परस्मैपद⟫ du parfait redoublé (⟪द्वित्वलिट्⟫)
 
 :::grammar-box
 **Formation :**
@@ -155,7 +168,8 @@ status: stable
 **radical faible du parfait + vāṃs**
 
 **Si le radical faible du parfait ne consiste qu’en une seule syllabe, une voyelle de liaison -i- est ajoutée. Pour certains parfaits, la voyelle de liaison est facultative.**
-:::Exemples :
+:::
+Exemples :
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ « quelqu’un qui a fendu » |
 | --- | --- |
@@ -179,7 +193,8 @@ status: stable
 **radical faible devant voyelle + -ī (décliné comme ⟪देवी⟫)**
 
 Exemple : ⟪विदुषी⟫ « une savante »
-:::Voir les paradigmes dans Kielhorn, Grammatik § 124 :
+:::
+Voir les paradigmes dans Kielhorn, Grammatik § 124 :
 
 :::media
 ![](/images/lekt6001.webp)
@@ -187,11 +202,13 @@ Exemple : ⟪विदुषी⟫ « une savante »
 ::::::media
 ![](/images/lekt6002.webp)
 (Source de l’image : [Détails](/fr/licenses#lekt6002))
-:::## 60.5. Déclinaison des stems en -añc (-ac)
+:::
+## 60.5. Déclinaison des stems en -añc (-ac)
 
 :::grammar-box
 **Les stems en -añc/-ac sont des composés de préfixes verbaux, etc., avec le nom radical de la racine ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "se mouvoir".**
-:::### 60.5.1. Tribus à trois syllabes en -añc
+:::
+### 60.5.1. Tribus à trois syllabes en -añc
 
 :::grammar-box
 **Formation :**
@@ -212,7 +229,8 @@ Exemple : ⟪विदुषी⟫ « une savante »
 **thème faible devant voyelle + -ī (décliné comme ⟪देवी⟫)**
 
 Exemple : ⟪प्रतीची⟫
-:::####  Voir les paradigmes dans Kielhorn, Grammatik § 128 :
+:::
+####  Voir les paradigmes dans Kielhorn, Grammatik § 128 :
 
 :::media
 ![](/images/lekt6003.webp)
@@ -220,7 +238,8 @@ Exemple : ⟪प्रतीची⟫
 ::::::media
 ![](/images/lekt6004.webp)
 (Source de l'image : [Détails](/fr/licenses#lekt6004))
-:::Appartiennent à cette catégorie :
+:::
+Appartiennent à cette catégorie :
 
 *   ⟪प्रत्यञ्च्⟫ 3 « en arrière, vers l'ouest »
     
@@ -243,7 +262,8 @@ Exemple : ⟪प्रतीची⟫
 
 *   **stème fort : -añc**
 *   **stème faible devant consonne ou voyelle : -ac**
-:::Voici les mots concernés :
+:::
+Voici les mots concernés :
 
 *   ⟪प्राञ्च्⟫ 3 « dirigé vers l’avant, oriental »
 *   ⟪अवाञ्च्⟫ 3 « dirigé vers le bas »
@@ -268,7 +288,8 @@ Les quatre points cardinaux
 
 *   **une personne ou une chose souhaite faire ou subir ce qui est exprimé par la racine ou le causatif**
 *   **plus rarement : quelqu’un ou quelque chose est sur le point de faire ce qui est exprimé par la racine ou le causatif**
-:::####  Exemples :
+:::
+####  Exemples :
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ « il souhaite faire » |
 | --- | --- |
@@ -346,12 +367,14 @@ Les règles d'utilisation de la voyelle de jonction -i- voir chez Kielhorn, Gram
 3.  La formation desiderative particulière de certaines racines voir chez Kielhorn, Grammatique § 451.
 ::::::grammar-box
 **Pour certaines racines, des desideratifs sont formés sans signification desiderative. À ces desideratifs peuvent être formés des desideratifs avec une signification desiderative.**
-:::Liste chez Kielhorn, Grammatique § 452 :
+:::
+Liste chez Kielhorn, Grammatique § 452 :
 
 :::media
 ![](/images/lekt6006.webp)
 (Source de l'image : [Détails](/fr/licenses#lekt6006))
-:::### 60.6.2. Conjugaison du Désidératif (⟪सन्⟫)
+:::
+### 60.6.2. Conjugaison du Désidératif (⟪सन्⟫)
 
 ::::grammar-box
 **Le Désidératif est - à quelques exceptions près - P, Ā ou U, selon que la racine sous-jacente (ou le radical verbal sous-jacent) est P, Ā ou U.**
@@ -364,19 +387,23 @@ Les règles d'utilisation de la voyelle de jonction -i- voir chez Kielhorn, Gram
 P : ⟪यियक्षति⟫ « il souhaite, pour quelqu'un d'autre, sacrifier »
 Ā : ⟪यियक्षते⟫ « il souhaite, pour lui-même (en tant que maître de l'offrande) sacrifier »
 Passif : ⟪यियक्ष्यते⟫ « il est souhaité de sacrifier »
-:::**Parfait : périphrastique :**
+:::
+**Parfait : périphrastique :**
 
 :::indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ « il souhaita obtenir »
-:::**Aorist: iṣ-Aorist:**
+:::
+**Aorist: iṣ-Aorist:**
 
 :::indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
-:::**Futur : ⟪सेट्⟫**
+:::
+**Futur : ⟪सेट्⟫**
 
 :::indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
-:::::::Pour la formation de noms d'agent en -u à partir du radical du désidératif, voir [Leçon 54](lektion54.md).
+:::::::
+Pour la formation de noms d'agent en -u à partir du radical du désidératif, voir [Leçon 54](lektion54.md).
 
 ## 60.7. Exercice
 
@@ -391,7 +418,8 @@ A) Étudiez dans Kielhorn, Grammatik § 451 les formations irrégulières du des
 ::::::media
 ![](/images/lekt6009.webp)
 (Source de l'image : [Détails](/fr/licenses#lekt6009))
-:::B) Déterminez et traduisez sans aide les formes suivantes :
+:::
+B) Déterminez et traduisez sans aide les formes suivantes :
 
 1.  ⟪ददुषोः⟫
     

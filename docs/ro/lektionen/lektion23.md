@@ -50,7 +50,8 @@ de exemplu,
 **Când infinitivul depinde de un substantiv, acesta nu trebuie să formeze cu acesta un compus. Sunt exceptate compusele Bahuvrīhi, al cărui al doilea element este ⟪काम⟫ sau ⟪मनस्⟫:**
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = „cel al cărui dorință este de a vorbi; cel care dorește să vorbească”.
-:::## 23.2. Formarea infinitivului (⟪तुमुन्⟫)
+:::
+## 23.2. Formarea infinitivului (⟪तुमुन्⟫)
 
 :::grammar-box
 **radacina la gradul maxim + -tum**
@@ -62,12 +63,14 @@ de exemplu,
 **Consoanele finale ale radacinii se modifică înainte de -tum conform acelorași reguli ca și înainte de -ta al PPP.**
 
 **Verbele cu prefix formează infinitivul în același mod ca și radacinile simple.**
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
-:::Nu se pot stabili reguli fixe privind utilizarea vocalei de legătură -i-. În esență, distribuția vocalei de legătură la infinitiv corespunde celei de la viitor.
+:::
+Nu se pot stabili reguli fixe privind utilizarea vocalei de legătură -i-. În esență, distribuția vocalei de legătură la infinitiv corespunde celei de la viitor.
 
 Între radacinile învățate până acum, următorii infinitivi merită o atenție deosebită:
 
@@ -75,13 +78,15 @@ de exemplu,
 ⟪गम्⟫ : ⟪गन्तुम्⟫
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
-:::-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+:::
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
 :::indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
-:::Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+:::
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. Infinitivul (⟪तुमुन्⟫) pentru rădăcinile învățate până acum
 
@@ -229,14 +234,16 @@ D) Traduceți și descompuneți compusele:
 Fig.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thailanda = ประเทศไทย
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2303))
-:::⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
+:::
+⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
 :::media
 ![](/images/lekt2301.webp)
 Fig.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thailanda = เชียงใหม่, ประเทศไทย
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2301))
-:::⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
+:::
+⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
 
 ⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫
 
@@ -258,7 +265,8 @@ Explicație: ⟪हीन⟫ ⟪३⟫: PPP la ⟪हा⟫ 3: a părăsi ; ⟪�
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2302))
-:::## 23.6. Exercițiu de recapitulare
+:::
+## 23.6. Exercițiu de recapitulare
 
 Vă rugăm să nu folosiți instrumente auxiliare!
 
@@ -283,7 +291,8 @@ A) Traduceți în sanscrită:
 Fig.: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prim-ministru al Indiei = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, din 2004
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2304))
-:::8\. Soția, fiul și sclavul, acești trei (⟪त्रयस्⟫) sunt, conform tradiției, fără proprietate. Ceea ce le aparține, aparține celui căruia le aparțin (acești trei).
+:::
+8\. Soția, fiul și sclavul, acești trei (⟪त्रयस्⟫) sunt, conform tradiției, fără proprietate. Ceea ce le aparține, aparține celui căruia le aparțin (acești trei).
 
 9Țânțarii doresc o rană, conducătorii doresc proprietate, josnicii doresc conflict, bunii doresc pace.
 

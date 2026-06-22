@@ -23,7 +23,8 @@ status: stable
 **L’Ātmanepada est rare ; pour les racines Ubhayapada, il est généralement formé selon d’autres classes d’aoriste (voir Kielhorn, Grammatik §340, ainsi qu’aux sections correspondantes sur les classes d’aoriste ci-dessous).**
 
 **Liste des racines ayant cet aoriste, dans Kielhorn, Grammatik §340.**
-:::Exemple :
+:::
+Exemple :
 
 ⟪सिच्⟫ 6U « asperger »
 
@@ -34,7 +35,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪असिचम्⟫ | ⟪असिचाम⟫ | ⟪असिचे⟫ | ⟪असिचामहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
-:::Formations irrégulières :
+:::
+Formations irrégulières :
 
 :::indent
 ⟪अस्⟫ 4P « jeter » : ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (explication voir Thumb-Hauschild §541,4)
@@ -42,11 +44,13 @@ status: stable
 ⟪ख्या⟫ + ⟪आ⟫ 2P « raconter » : ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
 
 ⟪दृश्⟫ « voir » : ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (degré plein !)
-:::Remarquer :
+:::
+Remarquer :
 
 :::indent
 ⟪शास्⟫ 2P « ordonner » : ⟪अशिषत्⟫ (degré zéro régulier !)
-:::## 55.2. Exercice
+:::
+## 55.2. Exercice
 
 Déterminez et traduisez par écrit les formes suivantes, puis formez les formes correspondantes de l’aoriste en a- :
 

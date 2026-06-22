@@ -104,7 +104,8 @@ B) Transform the following verbal forms into the corresponding perfect forms (1s
 ![](/images/uebung065.webp)
 Fig.: ⟪आशिमेति⟫
 (Image source: [Details](/en/licenses#uebung065))
-:::---
+:::
+---
 
 ## Word Form Determination
 

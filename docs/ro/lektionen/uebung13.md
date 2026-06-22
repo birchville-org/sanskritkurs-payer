@@ -124,7 +124,8 @@ Ce mănâncă și beau brahmanii?
 ![](/images/uebung019.webp)
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung019))
-:::---
+:::
+---
 
 ## Exerciții suplimentare
 

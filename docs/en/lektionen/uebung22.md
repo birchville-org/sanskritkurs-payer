@@ -91,7 +91,8 @@ If he has done meritorious deeds and spoken only the truth, a person does not go
 ![](/images/uebung034.jpg)
 Fig.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Image source: [Details](/en/licenses#uebung034))
-:::---
+:::
+---
 
 ## Passive Constructions
 

@@ -76,7 +76,8 @@ Riflessioni del pappagallo **⟪वैशम्पायन⟫** sulla vita del 
 ![](/images/uebung086.webp)
 Fig.: Cacciatore
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung086))
-:::---
+:::
+---
 
 ## ⟪४⟫. Commento di ⟪भानुचन्द्र⟫ (⟪१६⟫. sec.)
 

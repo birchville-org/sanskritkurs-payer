@@ -59,7 +59,8 @@ Si los reyes no guardan la justicia y la costumbre, los hombres están llenos de
 ![](/images/uebung063.webp)
 Fig.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung063))
-:::---
+:::
+---
 
 ## Relato: Diez tontos (⟪दश⟫ ⟪मूढाः⟫)
 

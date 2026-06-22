@@ -88,7 +88,8 @@ A) Déterminez les formes verbales suivantes et formez les formes d'imparfait co
 | ⟪७३⟫. **⟪तनोति⟫** | ⟪अतनोत्⟫ |
 | ⟪७४⟫. **⟪प्रजानीते⟫** | ⟪प्राजानीत⟫ |
 | ⟪७५⟫. **⟪जीवन्ति⟫** | ⟪अजीवन्⟫ |
-:::B) Traduisez et résolvez les composés en sanskrit :
+:::
+B) Traduisez et résolvez les composés en sanskrit :
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
 (⟪जनस्य⟫ ⟪इन्द्रस्य⟫ ⟪अग्रे⟫ ⟪।⟫ ⟪महत्⟫-⟪पुण्यम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪लोके⟫)
@@ -113,7 +114,8 @@ Les fils de Bouddha ont reconnu la vérité, arrêté la souffrance et atteint l
 ![](/images/uebung050.webp)
 Fig. : ⟪सम्पन्नरूपा⟫
 (Source de l’image : [Détails](/fr/licenses#uebung050))
-:::---
+:::
+---
 
 ## Détermination de la forme du mot
 
@@ -211,7 +213,8 @@ Déterminez et traduisez les mots suivants :
 ![](/images/uebung051.webp)
 Fig. : ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Source de l'image : [Détails](/fr/licenses#uebung051))
-:::---
+:::
+---
 
 ## Exercice sur le Sandhi
 
@@ -290,7 +293,8 @@ Insérez les mots entre parenthèses dans les phrases suivantes, en respectant l
 ![](/images/uebung052.webp)
 Fig. : ⟪पुनर्दर्शनाय⟫
 (Source de l'image : [Détails](/fr/licenses#uebung052))
-:::---
+:::
+---
 
 ## Fragment savant (Stotra)
 
@@ -302,7 +306,8 @@ Fig. : ⟪पुनर्दर्शनाय⟫
 ![](/images/uebung053.webp)
 Fig. : ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 (Source de l’image : [Détails](/fr/licenses#uebung053))
-:::---
+:::
+---
 
 ## Récit : Le Vieillard et les Singes (Sanskrit-Bālādarśa)
 

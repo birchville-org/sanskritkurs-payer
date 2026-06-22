@@ -37,7 +37,8 @@ Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entspreche
 ![](/images/uebung095.webp)
 Abb.: ⟪तब्लाः⟫
 (Bildquelle: [Details](/licenses#uebung095))
-:::---
+:::
+---
 
 ## B) Wortbestimmungen
 

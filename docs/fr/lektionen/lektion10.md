@@ -16,7 +16,8 @@ status: stable
 - La loi de cérébralisation pour -n- (sandhi lexical)
 - La formation du passif (yak) à l'indicatif présent
 - Vocabulaire relatif aux sacrifices, à la vérité et aux rôles sociaux
-:::## 10.1. La phrase passive
+:::
+## 10.1. La phrase passive
 
 :::grammar-box
 **Schéma :**
@@ -40,11 +41,14 @@ Cette phrase est **totalement (!) synonyme** de la phrase :
 **Les verbes intransitifs (verbes sans objet direct) ont fréquemment des constructions passives, surtout dans les formules de politesse :**
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = « Qu’on veuille bien entrer = Veuillez entrer = Entrez ! »
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = « Qu’on veuille bien s’asseoir = Veuillez vous asseoir = Prenez place, s’il vous plaît »
-:::Les constructions passives en sanskrit sont extrêmement fréquentes : le passif est en effet plus facile à former que, par exemple, de nombreuses racines de présent.
+:::
+Les constructions passives en sanskrit sont extrêmement fréquentes : le passif est en effet plus facile à former que, par exemple, de nombreuses racines de présent.
 
-:::important
+:::
+important
 **Les phrases passives en sanskrit ne doivent généralement pas être rendues en allemand par une phrase passive, car le passif allemand a une fonction stylistique tout à fait différente.**
-:::---
+:::
+---
 
 ## 10.2. L’Instrumental (tṛtīyā f. = ⟪तृतीया⟫ = « troisième désinence casuelle »)
 
@@ -95,7 +99,8 @@ Cette phrase est **totalement (!) synonyme** de la phrase :
 | | F | **anayā / enayā**:br⟪अनया⟫ / ⟪एनया⟫ | **ābhis**:br⟪आभिस्⟫ |
 ::::::deleteme-box
 À l’exception du Nominatif et de l’Accusatif, les formes des Neutres en -a, du pronom interrogatif et des pronoms démonstratifs sont identiques à celles des masculins correspondants.
-:::---
+:::
+---
 
 ### 10.2.1. Sur l’usage de l’instrumental (tṛtīyā = ⟪तृतीया⟫)
 
@@ -111,7 +116,8 @@ Cette phrase est **totalement (!) synonyme** de la phrase :
 3. **pour indiquer le chemin par lequel quelqu’un atteint une destination**
 4. **pour exprimer la connexion, l’union, l’accompagnement de**
 5. **avec les postpositions signifiant « ensemble avec, avec » ; par ex. saha = ⟪सह⟫ = « avec »**:brpar ex.:br**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = « conjointement avec le brāhmaṇa »
-:::D’autres usages de l’instrumental (tṛtīyā) suivront plus tard.
+:::
+D’autres usages de l’instrumental (tṛtīyā) suivront plus tard.
 
 ---
 
@@ -119,7 +125,8 @@ Cette phrase est **totalement (!) synonyme** de la phrase :
 
 :::grammar-box
 Un **-n-**, suivi d'une voyelle ou de **n, m, y, v**, est remplacé par **-ṇ-**, lorsque **ṛ, ṝ, r, ṣ** précèdent le **-n-** dans le mot, ou qu'aucun autre son que des voyelles, des gutturales, des labiales, **y, v, h** ou Anusvāra ne se trouve entre ces sons et le **-n-** suivant dans le mot.
-:::**Par conséquent :**
+:::
+**Par conséquent :**
 
 :::grammar-box
 | | Instrumental Singulier |
@@ -129,7 +136,8 @@ Un **-n-**, suivi d'une voyelle ou de **n, m, y, v**, est remplacé par **-ṇ-*
 | **īśvara**:br⟪ईश्वर⟫ | **īśvereṇa**:br⟪ईश्वरेण⟫ |
 | **kṣatriya**:br⟪क्षत्रिय⟫ | **kṣatriyeṇa**:br⟪क्षत्रियेण⟫ |
 | **naraka**:br⟪नरक⟫ | **narakeṇa**:br⟪नरकेण⟫ |
-:::**Aussi, l' -ṇ- est-il à expliquer dans :**
+:::
+**Aussi, l' -ṇ- est-il à expliquer dans :**
 
 :::indent
 **śravaṇa** ⟪श्रवण⟫
@@ -139,14 +147,16 @@ Un **-n-**, suivi d'une voyelle ou de **n, m, y, v**, est remplacé par **-ṇ-*
 **kāraṇa** ⟪कारण⟫
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
-:::---
+:::
+---
 
 ## 10.4. Le Passif, Indicatif Présent (yak = ⟪यक्⟫)
 
 :::grammar-box
 **Formation :**
 **(généralement) racine au degré zéro + -ya- + terminaison Ātmanepada**
-:::par ex.
+:::
+par ex.
 
 | Racine:br⟪धातु⟫ | 3. sg. Pass. Prés. Ind.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Prés. Ind.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
@@ -220,7 +230,8 @@ Un **-n-**, suivi d'une voyelle ou de **n, m, y, v**, est remplacé par **-ṇ-*
   :::- **pāpa** n. ⟪पाप⟫ : méfait, mal (contraire de **puṇya**)
 - **satya** n. ⟪सत्य⟫ : vérité
 
-:::note-box
+:::
+note-box
 En Inde, on attribuait au mot vrai un pouvoir magique, et même tout l'ordre cosmique est maintenu et créé par le mot vrai. Pour cette conception importante, voir l'ouvrage fondamental :
 
 Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Publié à partir des archives par Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna et le Ṛta. -- 1959. -- XXIII p., p. 340 - 764
@@ -228,7 +239,8 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Publié à par
 ![](/images/lekt1003.webp)
 Fig. : ⟪वरुणः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1003))
-:::- **anṛta** n. ⟪अनृत⟫ : fausseté, mensonge (contraire de **satya**)
+:::
+- **anṛta** n. ⟪अनृत⟫ : fausseté, mensonge (contraire de **satya**)
 
   :::note-box
   Formation du mot **an-** (« non- ») + **ṛta** n.
@@ -242,7 +254,8 @@ Fig. : ⟪वरुणः⟫
 ![](/images/lekt1002.jpg)
 Fig. : ⟪विश्वामित्रः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1002))
-:::- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : dire, parler
+:::
+- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : dire, parler
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : demander (quelqu'un : Acc. ; quelque chose : Acc.)
 - **saha** ⟪सह⟫ : avec, conjointement avec (aussi dans le cas de « combattre avec », etc.) (Postposition avec le instrumental)
 
@@ -305,7 +318,8 @@ Fig. : ⟪विश्वामित्रः⟫
 ![](/images/lekt1004.jpg)
 Fig. : ⟪तन्तुवायः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1004))
-:::5. Les enseignants posent des questions. (Construction passive)
+:::
+5. Les enseignants posent des questions. (Construction passive)
 6. L'œil conduit. (Construction passive)
 7. Le poète voit une divinité. (Construction passive)
 8. Qui (féminin) garde la fille ? (Construction passive)
@@ -350,12 +364,14 @@ Fig. : ⟪तन्तुवायः⟫
 **⟪क⟫**
 
 ⟪१⟫.
-:::center
+:::
+center
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
 ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
-:::⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
+:::
+⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
 ⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ | |
 ⟪४⟫. ⟪ऋषयः⟫ ⟪सूक्तानि⟫ ⟪पश्यन्ति⟫ | |
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ | |

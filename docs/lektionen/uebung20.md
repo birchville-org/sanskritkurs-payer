@@ -68,7 +68,8 @@ B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit:
 ![](/images/uebung031.webp)
 Abb.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Bildquelle: [Details](/licenses#uebung031))
-:::---
+:::
+---
 
 ## Komposita-Analyse
 
@@ -240,7 +241,8 @@ Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatp
 ![](/images/uebung030.webp)
 Abb.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Bildquelle: [Details](/licenses#uebung030))
-:::---
+:::
+---
 
 ## Scholarly Fragments
 
@@ -253,7 +255,8 @@ Yoga der Tat ist Askese, Vedastudium und aufmerksamer Dienst am HERRN. Er hat al
 
 :::deleteme-box Erläuterung
 Die fünf "Qualen" (⟪क्लेश⟫) sind: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — Unwissenheit, Ichbezogenheit, Gier, Hass und Anhänglichkeit an den Leib.
-:::⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
+:::
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Das höchste Ziel des Menschen ist, dass das dreifache Leid völlig verschwindet. (*Dreifaches Leid: aus einem selbst, von den Objekten, von den Göttern.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  

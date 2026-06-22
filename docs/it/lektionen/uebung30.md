@@ -78,7 +78,8 @@ A) Convertire le seguenti forme verbali nelle corrispondenti forme ottative per 
 | ⟪६३⟫. **⟪अर्हति⟫** | ⟪अर्हेत्⟫ |
 | ⟪६४⟫. **⟪अदन्ति⟫** | ⟪अद्युः⟫ |
 | ⟪६५⟫. **⟪अध्यापयन्ति⟫** | ⟪अध्यापयेयुः⟫ |
-:::B) Tradurre le seguenti frasi e risolvere i composti in sanscrito:
+:::
+B) Tradurre le seguenti frasi e risolvere i composti in sanscrito:
 
 ⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
 (⟪आर्याणि⟫ ⟪सत्यानि⟫)
@@ -119,7 +120,8 @@ Si dica la verità che è piacevole, non si dica la verità sgradevole; non si d
 ![](/images/uebung048.webp)
 Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung048))
-:::---
+:::
+---
 
 ## Determinazione delle forme verbali
 

@@ -35,7 +35,8 @@ La brièveté est l'ornement du grammairien.
 ![](/images/uebung083.webp)
 Fig. : ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 (Source de l'image : [Détails](/fr/licenses#uebung083))
-:::---
+:::
+---
 
 ## Traductions en sanskrit (Impératif)
 
@@ -57,7 +58,8 @@ Nous voulons parler.
 ![](/images/uebung085.webp)
 Légende : ⟪वचाम⟫
 (Source de l'image : [Détails](/fr/licenses#uebung085))
-:::⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
+:::
+⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 Avec les mots « Viens, moine ! », le Bouddha accepta l’homme dans l’ordre.
 
 ⟪६⟫. **⟪सन्मानवाः⟫ ⟪स्त⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
@@ -109,7 +111,8 @@ Les maris doivent entretenir leurs épouses.
 ![](/images/uebung076.webp)
 Légende : ⟪तानि⟫ ⟪फलान्यदाम⟫
 (Source de l'image : [Détails](/fr/licenses#uebung076))
-:::---
+:::
+---
 
 ## Le Dharma des femmes (⟪स्त्रीधर्मः⟫)
 

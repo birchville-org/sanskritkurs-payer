@@ -15,12 +15,14 @@ status: stable
 **-s-** est remplacé par **-ṣ-**, lorsque **k, r, l** ou une **voyelle** — sauf **a, ā** — précède immédiatement ou seulement séparée par **⟪अनुस्वार⟫** ou **⟪विसर्ग⟫** et qu'un autre son que **ṛ, r** suit.
 
 Ce sandhi s'applique aussi à **⟪दुस्⟫-** devant les gutturaux sourds et les labiales dans les composés.
-:::*Exemples :*
+:::
+*Exemples :*
 :::indent
 **⟪तेषाम्⟫** (de : *te-sām*)
 
 mais : **⟪तासाम्⟫** (*tā-sām*)
-:::## 26.2. Loi de cérébralisation des dentales à l'intérieur du mot
+:::
+## 26.2. Loi de cérébralisation des dentales à l'intérieur du mot
 
 :::grammar-box
 Les occlusives dentales sont remplacées par les rétroflexes correspondantes après les rétroflexes (y compris **-ṣ-**):
@@ -28,13 +30,15 @@ Les occlusives dentales sont remplacées par les rétroflexes correspondantes ap
 - **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
   *(**ṣ** dû au **i** précédent, **ṭh** dû au **ṣ** qui le suit)*
-:::## 26.3. Wortsandhi pour les palataux, gutturaux, ṣ, h + -s
+:::
+## 26.3. Wortsandhi pour les palataux, gutturaux, ṣ, h + -s
 
 :::grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
 Exemples ci-dessous
-:::## 26.4. Loi de dissimilation de l’aspiration de Grassmann
+:::
+## 26.4. Loi de dissimilation de l’aspiration de Grassmann
 
 ::::grammar-box
 **Une conséquence immédiate de deux aspirées (aspirée - voyelle - aspirée) est la perte de l’aspiration du premier son :**
@@ -43,20 +47,23 @@ Exemple :
 
 :::indent
 \*dhu(gh) » du(g)h
-:::**Si, en vertu de lois phonétiques, le deuxième son perd son aspiration, alors l’aspiration réapparaît sur le premier son.**
+:::
+**Si, en vertu de lois phonétiques, le deuxième son perd son aspiration, alors l’aspiration réapparaît sur le premier son.**
 
 Exemples : voir ci-dessous le futur de  ⟪दुह्⟫ et  ⟪बुध्⟫
 :::::::media
 ![](/images/lekt2601.webp)
 Fig. : Hermann Grassmann
 (Source de l’image : [Détails](/fr/licenses#lekt2601))
-:::## 26.5. Wortsandhi für -m, -n vor Zischlaut
+:::
+## 26.5. Wortsandhi für -m, -n vor Zischlaut
 
 :::grammar-box
 **Devant les consonnes fricatives, -n et -m sont remplacés par -ṃ- :**
 
 Exemple : v. ci-dessous le futur de ⟪मन्⟫
-:::## 26.6. Usage du futur simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+:::
+## 26.6. Usage du futur simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 :::grammar-box
 **Le Futur Simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) exprime :**
@@ -71,14 +78,16 @@ Exemple : v. ci-dessous le futur de ⟪मन्⟫
 - **l'ordre**
 
 **Le futur est en concurrence partielle avec l'optatif (voir plus loin).**
-:::p. ex. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Quelqu'un qui souhaite faire un vœu se rend au temple."
+:::
+p. ex. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Quelqu'un qui souhaite faire un vœu se rend au temple."
 
 
 :::media
 ![](/images/lekt2602.webp)
 Fig. : ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2602))
-:::## 26.7. Formation du futur simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+:::
+## 26.7. Formation du futur simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 
 ::::grammar-box
 **Futur simple :**
@@ -92,14 +101,16 @@ Fig. : ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫
 **(généralement) racine au degré plein + -sya**  
 **ou**  
 **(généralement) racine au degré plein + -i- + -sya (= - iṣya)**
-:::**Il faut apprendre avec les formes de base quelle racine forme quel type de radical du futur !**  
+:::
+**Il faut apprendre avec les formes de base quelle racine forme quel type de radical du futur !**  
 **En général, la forme de la racine et le voyelle de jonction du futur correspondent à ceux de l’infinitif.**  
 **Certaines racines peuvent former le futur de manière optionnelle, avec ou sans la voyelle de jonction -i-.**  
 **Le participe au parasmaipada du futur se forme en ajoutant le suffixe -nt- au radical du futur, le féminin facultativement en -ntī ou -tī :**
 
 :::indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
-:::::::Exemples :
+:::::::
+Exemples :
 
 ::::grammar-box
 
@@ -119,7 +130,8 @@ Fig. : ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫
 | ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ devant sourde = ⟪भोत्⟫) |
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
-::::## 26.8. Exercice
+::::
+## 26.8. Exercice
 
 Formez les formes futures correspondantes en nombre, personne et genre verbal (Parasmaipada, Ātmanepada) :  
   

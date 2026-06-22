@@ -17,14 +17,16 @@ status: stable
 *   1.sg.P : grade fort ou grade renforcé, au choix
 
 **radical faible :** voir les sous-types
-:::### 35.1.1. Type de parfait IIIa : Radical fort en grade fort/long, radical faible en grade réduit
+:::
+### 35.1.1. Type de parfait IIIa : Radical fort en grade fort/long, radical faible en grade réduit
 
 ::::grammar-box
 **Formation :**
 
 :::indent
 **radical faible :** grade réduit
-:::Est formé à partir des racines des types :
+:::
+Est formé à partir des racines des types :
 *   (Consonne)-(Consonne) - i/ī/u/ū
 *   (Consonne) - ṛ
 
@@ -32,7 +34,8 @@ Devant une terminaison commençant par une voyelle, on remplace :
 *   -i/-ī par -iy
 *   -u/-ū par -uv
 *   -ṛ durch r
-::::Exemples :
+::::
+Exemples :
 
 ::::grammar-box
 
@@ -44,17 +47,20 @@ Devant une terminaison commençant par une voyelle, on remplace :
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-::::### 35.1.2. Type IIIb du parfait : radical fort en grade élevé/long, radical faible en grade élevé
+::::
+### 35.1.2. Type IIIb du parfait : radical fort en grade élevé/long, radical faible en grade élevé
 
 ::::grammar-box
 **Formation :**
 
 :::indent
 **radical faible :** grade élevé
-:::Est formé à partir des racines des types :
+:::
+Est formé à partir des racines des types :
 *   (Consonne)-(Consonne)-ṝ
 *   Consonne-Consonne-ṛ (c.-à-d. racines se terminant par -ṛ, lorsque plusieurs consonnes les précèdent)
-::::Exemples :
+::::
+Exemples :
 
 ::::grammar-box
 
@@ -64,7 +70,8 @@ Devant une terminaison commençant par une voyelle, on remplace :
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-::::## 35.2. Type IV du parfait : racines en -ā / -āi
+::::
+## 35.2. Type IV du parfait : racines en -ā / -āi
 
 :::grammar-box
 **Formation :**
@@ -78,7 +85,8 @@ Devant une terminaison commençant par une voyelle, on remplace :
 *   devant voyelle : degré faible Ø
 
 Formé à partir de racines en -ā / -āi
-:::Exemple :
+:::
+Exemple :
 
 ::::grammar-box
 
@@ -86,7 +94,8 @@ Formé à partir de racines en -ā / -āi
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-::::## 35.3. Type de parfait : Racines Consonne-a-Consonne
+::::
+## 35.3. Type de parfait : Racines Consonne-a-Consonne
 
 :::grammar-box
 **Formation :**
@@ -99,21 +108,24 @@ Formé à partir de racines en -ā / -āi
 **thème faible :** voir sous-types
 
 Se forme à partir de racines de type (Consonne)-Consonne-a-Consonne
-:::### 35.3.1. Type de parfait Va : radical faible, degré profond
+:::
+### 35.3.1. Type de parfait Va : radical faible, degré profond
 
 ::::grammar-box
 **Formation :**
 
 :::indent
 **radical faible :** degré profond
-:::Est formé, entre autres, à partir des racines :
+:::
+Est formé, entre autres, à partir des racines :
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-::::Exemples :
+::::
+Exemples :
 
 ::::grammar-box
 
@@ -126,7 +138,8 @@ Se forme à partir de racines de type (Consonne)-Consonne-a-Consonne
 | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | &lt;⟪ऊदे⟫&gt; | &lt;⟪ऊदिरे⟫&gt; |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-::::### 35.3.2. Type Vb de parfait : radical faible, contraction (type e)
+::::
+### 35.3.2. Type Vb de parfait : radical faible, contraction (type e)
 
 ::::grammar-box
 **Formation :**
@@ -134,8 +147,10 @@ Se forme à partir de racines de type (Consonne)-Consonne-a-Consonne
 :::indent
 **radical faible :** aucune reduplication. Remplacement du -a- de la racine par -e-  
 (pour l'explication, voir Thumb-Hauschild 1,2 p. 286s.)
-:::Est formé à partir de racines contenant un -a- entre deux consonnes simples, dont la consonne initiale de la syllabe de reduplication n'est pas modifiée (c'est-à-dire que la consonne initiale de la racine n'est ni un guttural, ni un aspiré, ni un h).
-::::Exemple :
+:::
+Est formé à partir de racines contenant un -a- entre deux consonnes simples, dont la consonne initiale de la syllabe de reduplication n'est pas modifiée (c'est-à-dire que la consonne initiale de la racine n'est ni un guttural, ni un aspiré, ni un h).
+::::
+Exemple :
 
 ::::grammar-box
 
@@ -143,7 +158,8 @@ Se forme à partir de racines de type (Consonne)-Consonne-a-Consonne
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | ***⟪पे⟫***⟪चुर्⟫ | ***⟪पे⟫***⟪चे⟫ | ***⟪पे⟫***⟪चिरे⟫ |
 
-::::### 35.3.3. Type Vc du parfait : racines à structure Consonne-a-Consonne. Radical faible au degré fort
+::::
+### 35.3.3. Type Vc du parfait : racines à structure Consonne-a-Consonne. Radical faible au degré fort
 
 :::grammar-box
 **Formation :**
@@ -157,7 +173,8 @@ Est formé à partir de toutes les autres racines contenant un -a- médian, c'es
 *   qui commencent par h
 
 à condition qu'elles n'appartiennent pas au Type Va du parfait.
-:::Exemple :
+:::
+Exemple :
 
 ::::grammar-box
 
@@ -165,7 +182,8 @@ Est formé à partir de toutes les autres racines contenant un -a- médian, c'es
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-::::## 35.4. Liste de mots
+::::
+## 35.4. Liste de mots
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : périr, se perdre, disparaître
 :::indent
@@ -173,7 +191,8 @@ Est formé à partir de toutes les autres racines contenant un -a- médian, c'es
 **Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
 **Kaus. ⟪नाशयति⟫**:br
 **PPP ⟪नष्ट⟫**
-:::**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : disparaître, se perdre, périr
+:::
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : disparaître, se perdre, périr
 
 **⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : avancer, aller
 :::indent
@@ -189,7 +208,8 @@ Est formé à partir de toutes les autres racines contenant un -a- médian, c'es
 Fig. : ⟪क्रामन्ति⟫
 Personnes marchant, Sénégal.
 (Source de l'image : [Détails](/fr/licenses#lekt3502))
-:::**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti) : chanter, réciter sur un ton chantant, annoncer en vers
+:::
+**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti) : chanter, réciter sur un ton chantant, annoncer en vers
 :::indent
 **IV Perf. ⟪जगौ⟫, ⟪जगुर्⟫**:br
 **Fut. ⟪गास्यति⟫**:br
@@ -205,7 +225,8 @@ dont :
 Fig. : ⟪जगुः⟫
 Musiciens du temple Kaadu Malleswara Temple Bangalore.
 (Source de l'image : [Détails](/fr/licenses#lekt3501))
-:::## 35.5. Exercice
+:::
+## 35.5. Exercice
 
 A) Formez les formes de parfait correspondantes aux formes verbales suivantes :
 
@@ -269,7 +290,8 @@ B) Traduisez :
 Fig. : ... ⟪ब्राह्मणाश्चेजुः⟫
 Yajña ceremony, Shiva ashram, Ganeshpuri.
 (Source de l'image : [Détails](/fr/licenses#lekt3504))
-:::⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
+:::
+⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
 C) Transformez les phrases de l'exercice B) en remplaçant les imparfaits par des imparfaits.
 

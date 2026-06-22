@@ -111,7 +111,8 @@ Mangiare, dormire, paura e sesso sono comuni agli esseri umani e al bestiame. La
 ![](/images/uebung035.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung035))
-:::---
+:::
+---
 
 ## Esercizi aggiuntivi
 

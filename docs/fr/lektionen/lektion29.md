@@ -18,7 +18,8 @@ status: stable
 **Dans le causatif, on utilise l’Ātmanepada (⟪आत्मनेपद⟫) :**
 
 **1. Lorsque le fruit de l’action causée profite à celui qui cause :**
-:::Exemple :
+:::
+Exemple :
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = « Rāma fait faire une natte pour lui-même (dans son propre intérêt) »
 
@@ -41,7 +42,8 @@ Préfixes verbaux :
 ⟪उद्⟫° : sur, en haut, vers le haut, vers l’extérieur, hors, extra-
 
 ⟪परि⟫° : autour, autour de (lieu, temps), par-ci par-là
-:::⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (devenir autour de quelqu’un = encercler =) maîtriser, vaincre ; mépriser, dédaigner
+:::
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (devenir autour de quelqu’un = encercler =) maîtriser, vaincre ; mépriser, dédaigner
 
 ⟪अवज्ञान⟫ n. : mépris
 
@@ -57,7 +59,8 @@ Pass. ⟪ग्रस्यते⟫
 Kaus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
-:::⟪तीक्ष्ण⟫ 3 : « sauvage », âpre, acéré, strict, violent, mordant
+:::
+⟪तीक्ष्ण⟫ 3 : « sauvage », âpre, acéré, strict, violent, mordant
 
 ⟪न्याय⟫ m. : norme, règle, juste manière ; méthode, logique (de ⟪इ⟫ + ⟪नि⟫)
 
@@ -68,7 +71,8 @@ Inf. ⟪ग्रसितुम्⟫
 Fig. : ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Source de l’image : [Détails](/fr/licenses#lekt2903))
-:::⟪पालयति⟫ : également synonyme de  ⟪पाति⟫
+:::
+⟪पालयति⟫ : également synonyme de  ⟪पाति⟫
 
 ⟪पुनर्⟫ Indécl. : de nouveau, toujours, de retour, une fois de plus ; par contre, mais (devant des sons sonores sauf r- : ⟪पुनर्⟫)
 
@@ -84,7 +88,8 @@ dont :
 Fig. : ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (Source de l’image : [Détails](/fr/licenses#lekt2901))
-:::⟪मृदु⟫  3 (f. : ⟪मृद्वी⟫) : doux, bénin, mou ; lent, faible
+:::
+⟪मृदु⟫  3 (f. : ⟪मृद्वी⟫) : doux, bénin, mou ; lent, faible
 
 ⟪यथा⟫ Adv. : comment, comme
 
@@ -96,7 +101,8 @@ Pass. ⟪रम्यते⟫
 Kaus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
-:::⟪वानप्रस्थ⟫ m. : ermite des bois (celui qui se trouve dans la 3. ⟪आश्रम⟫)
+:::
+⟪वानप्रस्थ⟫ m. : ermite des bois (celui qui se trouve dans la 3. ⟪आश्रम⟫)
 
 ⟪शुचि⟫ 3 : éclatant, brillant, fin ; m. pureté
 
@@ -104,7 +110,8 @@ Inf. ⟪रन्तुम्⟫
 
 :::indent
 PPP ⟪पूजित⟫
-:::## 29.3. Exercice de traduction pour révision
+:::
+## 29.3. Exercice de traduction pour révision
 
 Traduisez mot à mot en un bon allemand et apprenez les textes sanskrits par cœur :
 
@@ -141,7 +148,8 @@ Explication : ⟪आत्मसु⟫ = Loc. sg. de ⟪आत्मन्⟫ m.
 Fig. : ⟪मात्स्यन्याय⟫ :
 (Dessin : Namcha Payer, 2002-11)
 (Source de l'image : [Détails](/fr/licenses#lekt2902))
-:::Explications :
+:::
+Explications :
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "quelque chose (quelqu'un), devant lequel on doit frémir"
 

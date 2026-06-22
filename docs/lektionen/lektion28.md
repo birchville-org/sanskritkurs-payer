@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-16
 Beispiel:
 ⟪गम्⟫ "gehen" » Kausativ: ⟪गमयति⟫ "er veranlasst, dass jemand geht; er schickt"
 ⟪दृश्⟫ "sehen" » Kausativ: ⟪दर्शयति⟫ "er macht sehen = er zeigt"
-:::---
+:::
+---
 
 ## 28.2. Satzkonstruktion mit dem Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
@@ -25,7 +26,8 @@ Beispiel:
 **Wenn die dem Kausativ zugrundeliegende Wurzel (mit oder ohne Präverb) INTRANSITIV ist (d.h. kein Akkusativobjekt bei sich haben kann) oder Bewegung, Wissen, Information oder Essen ausdrückt:**
 
 **Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Akkusativ (⟪द्वितीया⟫) — (Ziel der Bewegung, Objekt des Wissens usw. im Akkusativ = ⟪द्वितीया⟫) — Verb im Kausativ**
-:::Beispiele:
+:::
+Beispiele:
 
 ⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "ein böser Mensch bewirkt, dass Rāma verwirrt ist = verwirrt den Rāma = bewirkt, dass Rāma irrt"
 Ergebnis: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma ist verwirrt / verblendet / irrt."
@@ -54,7 +56,8 @@ ISKCON Temple Bangalore.
 
 Beispiel:
 (⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "er zeigt dem Rāma den Sohn"
-:::Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusammen (bei den Verbalformen handelt es sich jeweils um die 3. Person Imperfekt Parasmaipada):
+:::
+Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusammen (bei den Verbalformen handelt es sich jeweils um die 3. Person Imperfekt Parasmaipada):
 
 ⟪शत्रूनगमयत्स्वर्गं⟫
 ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
@@ -100,7 +103,8 @@ Ergebnis dieses Ergebnisses: ⟪गोविन्दो⟫ ⟪गच्छत�
 - **⟪स्मृ⟫ "vergegenwärtigen" (es gibt dazu Ausnahmen)**
 - **⟪अद्⟫ "essen"**
 - **⟪खाद्⟫ "kauen"**
-:::Beispiele:
+:::
+Beispiele:
 
 ⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma lässt den Diener die Last führen bzw. fahren"
 Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "Der Diener führt bzw. fährt die Last"
@@ -117,7 +121,8 @@ Ergebnis: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma erinnert sich"
 - **⟪हृ⟫ "halten, holen"**
 - **⟪कृ⟫ "tun, machen"**
 - **Ātmanepadakausativ zu ⟪दृश्⟫**
-:::Beispiele:
+:::
+Beispiele:
 
 ⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma lässt den Diener eine Matte (⟪कट⟫ m.) machen bzw. holen"
 oder:
@@ -135,7 +140,8 @@ Wird das Kausativum in einer Passivkonstruktion verwendet, so findet fast immer 
 **Schema A (Passivkonstruktion):**
 
 **Agens des Kausativums im Instrumentalis (⟪तृतीया⟫) — Agens der veranlassten Handlung im Nominativ (⟪प्रथमा⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum**
-:::Beispiele:
+:::
+Beispiele:
 
 ⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "Der Meister schickt Rāma ins Dorf"
 Ergebnis: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma geht ins Dorf"
@@ -152,11 +158,13 @@ Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der 
 
 :::grammar-box
 **An den Kausativstamm treten die thematischen Endungen des Präsensstamms**
-:::Es gibt verschiedene Bildungstypen:
+:::
+Es gibt verschiedene Bildungstypen:
 
 :::grammar-box
 **Bildungstyp 1: (meist) hochstufige Wurzel + -aya-**
-:::Beispiele:
+:::
+Beispiele:
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
@@ -169,7 +177,8 @@ Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der 
 **Bildungstyp 2: dehnstufige Wurzel + -aya-**
 
 **Oft bei Wurzeln, die vokalisch enden, und bei Wurzeln, bei denen auf -a- ein einziger Endkonsonant folgt.**
-:::Beispiele:
+:::
+Beispiele:
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
@@ -183,7 +192,8 @@ Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der 
 **Bildungstyp 3: tiefstufige Wurzel + -aya-**
 
 **Kommt vor.**
-:::Beispiel:
+:::
+Beispiel:
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
@@ -193,7 +203,8 @@ Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der 
 **Bildungstyp 4: Wurzel + -paya-**
 
 **Bei Wurzeln auf -ā und einigen anderen Wurzeln.**
-:::Beispiele:
+:::
+Beispiele:
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
@@ -207,7 +218,8 @@ Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der 
 
 - **han** : Kaus. **ghātayati**¹ "erschlagen lassen, töten lassen"
 - **pā** 2 "hüten": **pālayati**² "hinüberbringen, retten, schützen"
-:::Anmerkungen:
+:::
+Anmerkungen:
 1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. "Schlag" abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird.
 2. **pālayati** ist ein echtes Kausativum, allerdings zur Wurzel **pṛ** 3 "hinüberbringen, retten, schützen": **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r).
 
@@ -223,7 +235,8 @@ Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der 
 Beispiele:
 **bhāvyate** (bhāv-ya-te) "er/sie/es wird hervorgebracht"
 **sthāpyate** (sthāp-ya-te) "er/sie/es wird aufgestellt"
-:::Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird.
+:::
+Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird.
 
 ---
 
@@ -236,7 +249,8 @@ Beispiele:
 
 Beispiel:
 **budh** Futur-Kausativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "er/sie/es wird aufwecken"
-:::---
+:::
+---
 
 ## 28.6. Bildung des PPP (⟪क्त⟫) zum Kausativ
 
@@ -246,7 +260,8 @@ Beispiel:
 Beispiele:
 **gam** — **gamayati** — **gamita** (gam-i-ta) "gesendet" (PPP der einfachen Wurzel: **gata**)
 **sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt"
-:::---
+:::
+---
 
 ## 28.7. Bildung des Absolutivs (⟪क्त्वा⟫ . ⟪ल्यप्⟫) zum Kausativ
 
@@ -268,7 +283,8 @@ Beispiele:
 
 Beispiel:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat"
-:::---
+:::
+---
 
 ## 28.8. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ
 
@@ -279,7 +295,8 @@ Beispiel:
 
 Beispiel:
 **jan** — **janayati** — **janayitum** (janay-i-tum) "um zu erzeugen"
-:::---
+:::
+---
 
 ## 28.9. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.)
 
@@ -291,7 +308,8 @@ Beispiele:
 2.  Hochstufige Wurzel + -aya- : **cur** 10U **corayati** "stehlen"; Futur: **corayiṣyate**; Pass.: **coryate**
 ::::::grammar-box
 **Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den Formen des einfachen Verbs. Die Entscheidung darüber, ob ein Kausativ vorliegt, ist nur aus dem Sinn bzw. manchmal aus der Konstruktion möglich.**
-:::---
+:::
+---
 
 ## 28.10. Wortliste
 
@@ -344,14 +362,16 @@ Inf. **coritum**
 Abb.: ⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā-Spielerin.
 (Bildquelle: [Details](/licenses#lekt2803))
-:::**⟪भार⟫** m.: Last
+:::
+**⟪भार⟫** m.: Last
 
 :::media
 ![](/images/lekt2805.webp)
 Abb.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
 Mädchen trägt Last. Bei Ahmedabad.
 (Bildquelle: [Details](/licenses#lekt2805))
-:::**⟪भृत्य⟫** m.: Untergebener, Diener
+:::
+**⟪भृत्य⟫** m.: Untergebener, Diener
 
 ---
 

@@ -37,7 +37,8 @@ Determinați și traduceți următoarele forme și formați formele corespunzăt
 ![](/images/uebung095.webp)
 Fig.: ⟪तब्लाः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung095))
-:::---
+:::
+---
 
 ## B) Determinări de cuvinte
 

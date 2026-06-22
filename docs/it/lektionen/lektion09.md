@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-07
 - La formazione di stemmi nominali con i suffissi **-ka** (taddhita) e **-aka** (kṛt)
 - Vocabolario relativo a professioni e ruoli sociali
 - Citazioni da testi classici del Dharma (Dharmaśāstras)
-:::---
+:::
+---
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Riepilogo dvandva")
 
@@ -23,7 +24,8 @@ last_reconstructed: 2026-05-07
 **Quando un dvandva esprime che una serie di cose, ecc., formano un'unità, esso è generalmente al singolare neutro:**
 
 ad es. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ non significa semplicemente "assunzione di cibo (**āhāra** m.), sonno (**nidrā** f.), accoppiamento (**maithuna** n.) e paura (**bhaya** n.)", ma queste quattro come **unità**, che caratterizza la vita animale.
-:::Oltre a questa regola fondamentale per la formazione dei Samāhāradvandvas, vi sono altre regole che si trovano in Pāṇini 2,4,2-17 o ad es. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. Nei vari stadi dello sviluppo linguistico non sono state sempre rispettate le stesse regole!
+:::
+Oltre a questa regola fondamentale per la formazione dei Samāhāradvandvas, vi sono altre regole che si trovano in Pāṇini 2,4,2-17 o ad es. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. Nei vari stadi dello sviluppo linguistico non sono state sempre rispettate le stesse regole!
 
 ---
 
@@ -48,7 +50,8 @@ ad es. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम
 4\. **Nomi che esprimono "in relazione con il concetto della parola base":**
    **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "nativo di Benares, originario di Benares"**
    **rūpa n. "forma" » rūpaka 3 ⟪रूपक⟫ "che possiede la forma di qualcosa"**
-:::---
+:::
+---
 
 ### 9.2.2. -aka (kṛt), fem. spesso -ikā
 
@@ -56,7 +59,8 @@ ad es. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम
 **Il suffisso kṛt -aka, con femminile spesso -ikā, forma nomi agentivi (nomi che esprimono l'agente) da ogni radice.**
 
 Una vocale finale della radice, nonché **-a-** nella penultima posizione della radice, vengono sostituite dal loro grado allungato (**vṛddhi**) (vi sono alcune eccezioni), le altre vocali vengono sostituite dal loro grado rafforzato (**guṇa**).
-:::**Esempi:**
+:::
+**Esempi:**
 
 | Radice:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Significato |
 | :--- | :--- | :--- |
@@ -69,7 +73,8 @@ Una vocale finale della radice, nonché **-a-** nella penultima posizione della 
 
 :::grammar-box
 **Alcune di queste formazioni hanno il significato più ristretto: "colui che compie abitualmente o come obbligo o bene ciò espresso dalla radice".**
-:::vedere sopra ad es. **śrāvaka**, **yājaka**, **jayaka**
+:::
+vedere sopra ad es. **śrāvaka**, **yājaka**, **jayaka**
 
 **Esempi:**
 
@@ -93,13 +98,15 @@ Inoltre vi sono alcuni usi meno importanti del suffisso **-aka**. Vgl. Wackernag
 ![](/images/lekt0903.webp)
 Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram presso Madurai.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0903))
-:::- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artigiano
+:::
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artigiano
 
 :::media
 ![](/images/lekt0902.webp)
 Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0902))
-:::- **kuśīlava** m. (⟪कुशीलव⟫) : (itinerante) Spettacolista, attore, cantante
+:::
+- **kuśīlava** m. (⟪कुशीलव⟫) : (itinerante) Spettacolista, attore, cantante
 - **kusīda** n. (⟪कुसीद⟫) : Usura
 - **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : tirare
 - **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : arare
@@ -132,7 +139,8 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 ![](/images/lekt0901.webp)
 Fig.: **karṣaka** = ⟪कर्षक⟫.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0901))
-:::8\. kleśa (⟪क्लेश⟫)
+:::
+8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
 11\. nartaka (f. nartakī) (⟪नर्तक⟫ / ⟪नर्तकी⟫)

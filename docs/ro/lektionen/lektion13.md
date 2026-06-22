@@ -22,7 +22,8 @@ Aproape toate rădăcinile pe -d formează PPP pe -na-. În acest caz, -d-n- est
 Exemplu:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
-:::---
+:::
+---
 
 ## 13.2. Mai multe despre utilizarea PPP-ului
 
@@ -68,7 +69,8 @@ Exemplu:
 
 :::indent
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = „Un sfânt vede roada dorită (a faptelor sale).”
-:::::::---
+:::::::
+---
 
 ## 13.4. Formarea adjectivelor cu sufixele -mant și -vant (taddhita)
 
@@ -84,7 +86,8 @@ Exemple:
 ⟪पशुमन्त्⟫ "care posedă vite"
 
 ⟪गुणवन्त्⟫ "care posedă calități bune / virtute"
-:::::::---
+:::::::
+---
 
 ## 13.5. Declinarea tematică a substantivelor
 
@@ -92,7 +95,8 @@ Rădăcinile în -mant, respectiv -vant, fac parte din rădăcinile nominale cu 
 
 :::grammar-box
 La rădăcinile nominale cu declinare tematică, se face distincție între cazurile puternice și cele slabe. În cazurile puternice, sufixul formativ de temă — la substantivul derivat din rădăcină, componenta rădăcinică — prezintă gradul ridicat, respectiv gradul lung; în cazurile slabe, gradul scăzut.
-:::**Cazurile puternice sunt:**
+:::
+**Cazurile puternice sunt:**
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
@@ -103,7 +107,8 @@ La rădăcinile nominale cu declinare tematică, se face distincție între cazu
 
 :::grammar-box
 În compunere, un substantiv cu declinare tematică stă în prima parte, la forma de temă slabă (la substantivul cu trei rădăcini, la ceea ce se numește „temă medie”).
-:::---
+:::
+---
 
 ## 13.6. Despre sandha cuvântului
 
@@ -136,7 +141,8 @@ La rădăcinile care se termină cu consoană:
 * la rădăcinile formate în mod regulat, neutru la singular, nominativ (prathamā) și acuzativ (dvitīyā) este fără desinență.
 * la rădăcinile formate în mod regulat, la neutru, desinenza nominativului și acuzativului la plural este -i.
 
-:::---
+:::
+---
 
 ## 13.8. Declinarea rădăcinilor în -mant și -vant
 
@@ -161,7 +167,8 @@ Rădăcina feminină a rădăcinilor în -mant- și -vant- se termină în -mat-
 Exemplu:
 * paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
 
-:::---
+:::
+---
 
 ## 13.9. Listă de cuvinte
 
@@ -186,7 +193,8 @@ Exemplu:
 ![](/images/lekt1301.webp)
 Fig.: ⟪महिषासुरः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt1301))
-:::- **guṇa** m. ⟪गुण⟫ : fir, coardă; proprietate, calitate bună
+:::
+- **guṇa** m. ⟪गुण⟫ : fir, coardă; proprietate, calitate bună
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : merge, ajunge în
 - **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : fi, a fi prezent
 - **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : arunca, (arunca) departe
@@ -195,7 +203,8 @@ Fig.: ⟪महिषासुरः⟫
 
 :::indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : bea (tradițional considerat ca aparținând clasei 1)
-:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : urî, invidia
+:::
+- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : urî, invidia
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : mânca, consuma
 - **anna** n. ⟪अन्न⟫ : mâncare (din PPP: *ad-na: ceea ce este mâncat)
 
@@ -203,7 +212,8 @@ Fig.: ⟪महिषासुरः⟫
 ![](/images/lekt1304.webp)
 Fig.: ⟪अन्नम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1304))
-:::Formarea cuvintelor:
+:::
+Formarea cuvintelor:
 
 pad 4 Ā:
 
@@ -215,11 +225,13 @@ pad 4 Ā:
 ![](/images/lekt1303.webp)
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1303))
-:::dviṣ 2 U:
+:::
+dviṣ 2 U:
 
 :::indent
 **dveṣa** ⟪द्वेष⟫ : ură
-:::---
+:::
+---
 
 ## 13.10. Exercițiu
 
@@ -233,7 +245,8 @@ A) Traduceți și transformați în propoziții la prezent activ:
 ![](/images/lekt1305.webp)
 Fig.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1305))
-:::⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 posibilități)
+:::
+⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 posibilități)
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
@@ -290,7 +303,8 @@ C) Formați o construcție PPP pentru propozițiile din exercițiul A).
 ![](/images/lekt1302.webp)
 Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1302))
-:::D) Din ce combinații de sunete pot fi derivate următoarele forme Sandhi? Dați toate posibilitățile:
+:::
+D) Din ce combinații de sunete pot fi derivate următoarele forme Sandhi? Dați toate posibilitățile:
 
 1. -a înainte de vocală (în afară de a-)
 2. -ā-

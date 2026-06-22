@@ -33,7 +33,8 @@ Un ignorante disfruta de buena comida y hermosas mujeres. Quien ha desaparecido 
 ![](/images/uebung049.webp)
 Fig.: ⟪कुलबन्धनम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung049))
-:::---
+:::
+---
 
 ## Paradigmas verbales (7.º curso)
 

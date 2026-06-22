@@ -18,7 +18,8 @@ status: stable
 **Im Kausativum wird das Ātmanepada (⟪आत्मनेपद⟫) verwendet:**
 
 **1. Wenn die Frucht der veranlassten Handlung dem Veranlasser zugute kommt:**
-:::Beispiel:
+:::
+Beispiel:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma lässt für sich (im eigenen Interesse) eine Matte machen"
 
@@ -41,7 +42,8 @@ Präverben:
 ⟪उद्⟫° : auf, hinauf, empor, hinaus, aus, aus-
 
 ⟪परि⟫° : herum, um (Ort, Zeit), umher
-:::⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten
+:::
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten
 
 ⟪अवज्ञान⟫ n.: Missachtung
 
@@ -57,7 +59,8 @@ Pass. ⟪ग्रस्यते⟫
 Kaus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
-:::⟪तीक्ष्ण⟫ 3: "wild", scharf, spitz, streng, heftig, scharfzüngig
+:::
+⟪तीक्ष्ण⟫ 3: "wild", scharf, spitz, streng, heftig, scharfzüngig
 
 ⟪न्याय⟫ m.: Norm, Regel, rechte Art und Weise; Methode, Logik (von ⟪इ⟫ + ⟪नि⟫)
 
@@ -68,7 +71,8 @@ Inf. ⟪ग्रसितुम्⟫
 Abb.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Bildquelle: [Details](/licenses#lekt2903))
-:::⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
+:::
+⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
 
 ⟪पुनर्⟫ Indekl.: wieder, immer wieder, zurück, noch einmal ; dagegen, aber (vor stimmhaften Lauten außer r-: ⟪पुनर्⟫)
 
@@ -84,7 +88,8 @@ davon:
 Abb.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (Bildquelle: [Details](/licenses#lekt2901))
-:::⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
+:::
+⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
 
 ⟪यथा⟫ Adv.: wie, gleichsam
 
@@ -96,7 +101,8 @@ Pass. ⟪रम्यते⟫
 Kaus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
-:::⟪वानप्रस्थ⟫ m.: Waldeinsiedler (jemand, der sich im 3. ⟪आश्रम⟫ befindet)
+:::
+⟪वानप्रस्थ⟫ m.: Waldeinsiedler (jemand, der sich im 3. ⟪आश्रम⟫ befindet)
 
 ⟪शुचि⟫ 3: leuchtend, glänzend, fein ; m.: Reinheit
 
@@ -104,7 +110,8 @@ Inf. ⟪रन्तुम्⟫
 
 :::indent
 PPP ⟪पूजित⟫
-:::## 29.3. Übersetzungsübung zur Wiederholung
+:::
+## 29.3. Übersetzungsübung zur Wiederholung
 
 Übersetzen Sie wortgetreu in gutes Deutsch und lernen Sie die Sanskrittexte auswendig:
 
@@ -141,7 +148,8 @@ Erklärung: ⟪आत्मसु⟫ = Lok. sg. zu ⟪आत्मन्⟫ m. "
 Abb.: ⟪मात्स्यन्याय⟫:
 (Zeichnung: Namcha Payer, 2002-11)
 (Bildquelle: [Details](/licenses#lekt2902))
-:::Erklärungen:
+:::
+Erklärungen:
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "etwas (jemand), vor dem man schaudern muss"
 

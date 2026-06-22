@@ -45,13 +45,15 @@ For example:
 
 The gender of a *Tatpuruṣa* is—with few exceptions—that of its final member.
 
-:::## 15.3. Determinative Compounds with Attributive / Appositional First Member = Karmadhāraya m. = ⟪कर्मधारय⟫
+:::
+## 15.3. Determinative Compounds with Attributive / Appositional First Member = Karmadhāraya m. = ⟪कर्मधारय⟫
 
 :::grammar-box
 
 When resolving a Karmadhāraya, both members of the compound stand in the same case.
 
-:::For example:
+:::
+For example:
 
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = “a son with good qualities”  
 Acc. sg. ⟪गुणवत्पुत्रम्⟫  
@@ -86,13 +88,15 @@ The following special rule applies to the order of members in a Karmadhāraya:
 ![](/images/lekt1503.webp)
 Fig.: ⟪नरसिंहः⟫
 (Image source: [Details](/en/licenses#lekt1503))
-:::## 15.4. Determinative Compounds with a First Member in a Non-Attributive/Appositional Case Relation to the Second Member = Tatpuruṣa in the Narrower Sense
+:::
+## 15.4. Determinative Compounds with a First Member in a Non-Attributive/Appositional Case Relation to the Second Member = Tatpuruṣa in the Narrower Sense
 
 :::grammar-box
 
 Tatpuruṣa compounds are possible for combinations of nouns (nouns and adjectives), in which the first member can stand in any case, according to the rules of syntax. As expected, the first member most frequently represents a genitive (⟪षष्ठी⟫), since this is the case used to express the relationship between nouns.
 
-:::For example:
+:::
+For example:
 
 ⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "the son of a Kṣatriya", "a young Kṣatriya", "a member of the group of Kṣatriyas"  
 Acc. sg. ⟪क्षत्रियपुत्रम्⟫  
@@ -113,7 +117,8 @@ However, the first member of a Tatpuruṣa can, in principle, represent any case
 
 The first member, when the compound is resolved, may appear in the singular, dual, or plural. Which of these possibilities applies must be inferred from meaning and context.
 
-:::Examples:
+:::
+Examples:
 
 The first member represents the accusative (⟪द्वितीया⟫): for example, in certain past participles (PPP) derived from verbs of motion (Pāṇini 2.1.24):
 
@@ -136,7 +141,8 @@ Although Sanskrit allows for the formation of compounds of arbitrary length—an
 :::media
 ![]/images/lekt1502.jpg
 (Image source: [Details](/en/licenses#lekt1502))
-:::and so on, until one reaches the individual word stems.
+:::
+and so on, until one reaches the individual word stems.
 
 For example:
 
@@ -181,7 +187,8 @@ For example:
 > 3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "the meritorious deed done by my son"
 >    2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "the meritorious deed of my son"
 
-:::## 15.6. The Form of the First Member in Compounds (⟪समास⟫ m.)
+:::
+## 15.6. The Form of the First Member in Compounds (⟪समास⟫ m.)
 
 :::grammar-box
 
@@ -192,7 +199,8 @@ For example:
 ⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "a Kṣatriya woman who possesses merit"  
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "a son with good qualities"
 
-:::## 15.7. Classification of ⟪तत्पुरुष⟫
+:::
+## 15.7. Classification of ⟪तत्पुरुष⟫
 
 1.  **⟪प्रथमातत्पुरुषः⟫** : The first member stands in the nominative (⟪प्रथमा⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
 2.  **⟪द्वितीयातत्पुरुषः⟫** : The first member stands in the accusative (⟪द्वितीया⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
@@ -247,14 +255,16 @@ pūjā f.: honor, honorable reception, religious worship (Pūjā)
 ![](/images/lekt1504.webp)
 Fig.: pūjā
 (Image source: [Details](/en/licenses#lekt1504))
-:::kula n.: herd, multitude, lineage, ancestry, family
+:::
+kula n.: herd, multitude, lineage, ancestry, family
 
 indra m.: prince, first, best among ; king of gods Indra
 :::media
 ![](/images/lekt1505.webp)
 Fig.: indraḥ
 (Image source: [Details](/en/licenses#lekt1505))
-:::dāsa m.: slave, serf, servant
+:::
+dāsa m.: slave, serf, servant
 
 dāsī f.: slave woman, serf woman, female servant
 
@@ -274,17 +284,20 @@ from this:
 stuti f.: praise, hymn of praise
 
 stotra n.: (means of praise =) hymn of praise, hymn
-:::siṃha m.: lion (_Panthera leo persica_)
+:::
+siṃha m.: lion (_Panthera leo persica_)
 :::media
 ![](/images/lekt1506.webp)
 Fig.: siṃhaḥ
 (Image source: [Details](/en/licenses#lekt1506))
-:::vyāghra m.: tiger (_Panthera tigris tigris_) (literally: yawner)
+:::
+vyāghra m.: tiger (_Panthera tigris tigris_) (literally: yawner)
 :::media
 ![](/images/lekt1507.webp)
 Fig.: vyāghraḥ
 (Image source: [Details](/en/licenses#lekt1507))
-:::iva (postposed): as if, like (in comparisons: vyāghra iva puruṣaḥ = “a man like a tiger,” “a tiger-like man”)
+:::
+iva (postposed): as if, like (in comparisons: vyāghra iva puruṣaḥ = “a man like a tiger,” “a tiger-like man”)
 
 eva (postposed): emphasizes the preceding word, often corresponding in German to emphasis, a kind of emoticon `<!>`, e.g., satyameva jayati “truth alone triumphs,” “truth specifically triumphs,” “truth triumphs”
 
@@ -292,11 +305,13 @@ ari m.: enemy (according to Thieme, Der Fremdling im Ṛgveda: originally = stra
 
 :::indent
 ārya 3: Aryan, noble ; m. Aryan (self-designation of Sanskrit-speaking ancient Indians, literally: hospitable (Thieme)) ; noble person, gentleman
-:::to jan
+:::
+to jan
 
 :::indent
 jāti f.: birth, kind, caste (on jāti as caste, see Basham, Wonder, pp. 148ff.)
-:::mṛ 4 Ā mriyate ; Pass. mriyate ; PPP mṛta : die (according to Indian grammarians: 6 Ā)
+:::
+mṛ 4 Ā mriyate ; Pass. mriyate ; PPP mṛta : die (according to Indian grammarians: 6 Ā)
 
 from this:
 
@@ -306,7 +321,8 @@ maraṇa n.: dying, death
 mṛti f.: dying, death
 
 mṛtyu m.: death ; personified: god of death
-:::## 15.9. Exercise 1
+:::
+## 15.9. Exercise 1
 
 Resolve the following Sanskrit compounds as *Tatpuruṣa* and provide a German translation. Provide all resolutions and translations that appear plausible to you. Also indicate the case and number of the entire compound.
 
@@ -498,7 +514,8 @@ Resolve the following *Tatpuruṣa* compounds, as in Exercise 1:
 ![](/images/lekt1508.webp)
 Fig.: ⟪ग्रामदेवता⟫
 (Image source: [Details](/en/licenses#lekt1508))
-:::## 15.11. Exercise 3
+:::
+## 15.11. Exercise 3
 
 A) Translate the proverb at the beginning of the lesson
 

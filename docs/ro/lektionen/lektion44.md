@@ -15,7 +15,8 @@ status: stable
 ![](/images/lekt4301.jpg)
 ::::::grammar-box
 **A 3.sg.Ā.Imperfect este identică formal cu a 2.pl.P.Imperfect!!!**
-:::### 44.1.1. Cincia clasă de prezenț (⟪स्वादि⟫)
+:::
+### 44.1.1. Cincia clasă de prezenț (⟪स्वादि⟫)
 
 ⟪सु⟫ 5U
 
@@ -26,7 +27,8 @@ status: stable
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralizare! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralizare! | ⟪सुनुध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
-:::### 44.1.2. A opta clasă de prezent (⟪तनादि⟫)
+:::
+### 44.1.2. A opta clasă de prezent (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -37,7 +39,8 @@ status: stable
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
-:::⟪कृ⟫ 8U
+:::
+⟪कृ⟫ 8U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -46,7 +49,8 @@ status: stable
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
-:::### 44.1.3. A noua clasă de prezent (⟪क्र्यादि⟫)
+:::
+### 44.1.3. A noua clasă de prezent (⟪क्र्यादि⟫)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -55,7 +59,8 @@ status: stable
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralizare! | ⟪क्रीणीध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
-:::## 44.2. Despre Wortsandhi
+:::
+## 44.2. Despre Wortsandhi
 
 La rădăcinile de prezent care se termină în consoană, se aplică legile deja tratate ale Wortsandhi.
 
@@ -74,7 +79,8 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
    de ex. **⟪द्विष्⟫** 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » **⟪द्विड्ढ्वे⟫** (dvi**ḍḍh**ve)
 4. **-s + dh- » -dh-** (Dispariția lui -s)
    de ex. **⟪आस्⟫** 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve)
-:::### 44.2.2. Despre sandhi-ul de cuvinte pentru s-
+:::
+### 44.2.2. Despre sandhi-ul de cuvinte pentru s-
 
 :::grammar-box
 1. **-s + s- » -ts- sau (nu opțional!) -ss-** (așa cum este în clasa de prezent 2)
@@ -83,7 +89,8 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
    * **⟪वस्⟫** Pers. 2, Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
    De exemplu, **⟪द्विष्⟫** Pers. 2, U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
-:::## 44.3. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) a rădăcinilor neatomice, fără sufix cu finală vocalică
+:::
+## 44.3. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) a rădăcinilor neatomice, fără sufix cu finală vocalică
 
 ### 44.3.1. A doua clasă de prezent (⟪अदादि⟫)
 
@@ -94,7 +101,8 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
-:::⟪आस्⟫ 2Ā
+:::
+⟪आस्⟫ 2Ā
 
 :::grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
@@ -103,7 +111,8 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
-:::⟪दुह्⟫ 2U
+:::
+⟪दुह्⟫ 2U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -112,7 +121,8 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अधोक्⟫:brdin: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
-:::⟪इ⟫ 2P
+:::
+⟪इ⟫ 2P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -128,7 +138,8 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:brdin: *hn + ta |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अहन्⟫:brdin: a-han + s | ⟪अहत⟫:brdin: a-*hn + ta |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
-:::⟪स्तु⟫ 2U
+:::
+⟪स्तु⟫ 2U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -137,7 +148,8 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
-:::⟪अस्⟫ 2P (de reținut în mod special!)
+:::
+⟪अस्⟫ 2P (de reținut în mod special!)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -146,7 +158,8 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 | **Indicativ Prezent**:br⟪लट्⟫ | ***⟪असि⟫*** | ***⟪स्थ⟫*** |
 | **Imperfect**:br⟪लङ्⟫ | ***⟪आसीस्⟫*** | ***⟪आस्त⟫*** |
 | **Optativ**:br⟪विधिलिङ्⟫ | ***⟪स्यास्⟫*** | ***⟪स्यात⟫*** |
-:::⟪तत्त्वमसि⟫
+:::
+⟪तत्त्वमसि⟫
 
 ⟪शास्⟫ 2P
 
@@ -165,18 +178,21 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 
 | **Imperfect**:br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
-:::## 44.4. Vocativul (⟪आमन्त्रितम्⟫)
+:::
+## 44.4. Vocativul (⟪आमन्त्रितम्⟫)
 
 Gramaticienii indigeni nu consideră vocativul (⟪आमन्त्रितम्⟫) ca un caz distinct, ci doar ca o modificare a nominativului (⟪प्रथमा⟫).
 
-::::important
+::::
+important
 **Vocativul servește pentru adresare, pentru vorbirea directă și se află în afara relației cu restul propoziției, distingându-se astfel de celelalte cazuri, care exprimă o relație cu verbul sau cu un alt substantiv.**
 
 **În majoritatea cazurilor, vocativul este plasat la începutul propoziției:**
 
 :::indent
 ⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = „Copile, ce spui?”
-::::::::::important
+::::::::::
+important
 **Evitați traducerea vocativului cu „**O** ...”. În limba germană folosim constant vocativi, de exemplu când spunem: „Dragule, ce gătim astăzi?”. Nimeni nu va spune în acest sens: „**O** dragule, ce gătim astăzi?”**
 ::::::media
 ![](/images/lekt4402.webp)
@@ -186,7 +202,8 @@ Ilustr.: Utilizarea corectă a „O” în limba germană: **„O Doamne!”**
 **Formele vocativului la plural și dual sunt identice cu cele ale nominativului (⟪प्रथमा⟫) la plural, respectiv dual.**
 
 **Formele vocativului la singular sunt prezentate în [Lecția 45](lektion45.md).**
-:::## 44.5. Listă de cuvinte
+:::
+## 44.5. Listă de cuvinte
 
 ⟪प्रति⟫ Prefix verbal: înapoi, împotriva, contra - înainte
 
@@ -198,7 +215,8 @@ de ex.
 **⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : a spune înapoi = a răspunde
 
 **⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : a respinge, a disprețui
-:::⟪या⟫ 2P ⟪याति⟫ : a merge, a călători
+:::
+⟪या⟫ 2P ⟪याति⟫ : a merge, a călători
 
 :::indent
 Perf. IV ⟪ययौ⟫  
@@ -215,7 +233,8 @@ din care:
 ![](/images/lekt4403.webp)
 Fig.: ⟪रेल्यानम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4403))
-:::**⟪शी⟫** 2Ā ⟪शेते⟫ : a se întinde. Această rădăcină are în toate formele temei prezentului **gradul înalt:** 1.sg.Ind.Prez.Ā ***⟪शेये⟫*** (śe + e). Formele următoare sunt deosebit de importante: 3.pl.Ind.Prez.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
+:::
+**⟪शी⟫** 2Ā ⟪शेते⟫ : a se întinde. Această rădăcină are în toate formele temei prezentului **gradul înalt:** 1.sg.Ind.Prez.Ā ***⟪शेये⟫*** (śe + e). Formele următoare sunt deosebit de importante: 3.pl.Ind.Prez.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
 
 :::indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -231,7 +250,8 @@ din care:
 ![](/images/lekt4404.webp)
 Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4404))
-:::⟪नन्द्⟫ 1P ⟪नन्दति⟫ : a se bucura de (⟪तृतीयया⟫)
+:::
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : a se bucura de (⟪तृतीयया⟫)
 
 :::indent
 Perf. I ⟪ननन्द⟫  
@@ -250,7 +270,8 @@ din care:
 ![](/images/lekt4405.webp)
 Fig.: ⟪नन्दी⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4405))
-:::⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : a-și găsi bucuria în (⟪द्वितीयया⟫), a întâmpina pe cineva cu bucurie, a bineveni
+:::
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : a-și găsi bucuria în (⟪द्वितीयया⟫), a întâmpina pe cineva cu bucurie, a bineveni
 
 **⟪यम्⟫** 1P ***⟪यच्छति⟫*** : a ține, a purta; a oferi, a acorda; a țunit împreună, a stăpâni, a frâna, a învinge
 
@@ -262,7 +283,8 @@ Kaus. ⟪यामयति⟫ dar: ⟪नि⟫***⟪यम⟫***⟪यति�
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
-:::**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : a întinde, a întinde afară
+:::
+**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : a întinde, a întinde afară
 
 :::indent
 PPP ⟪आयत⟫ 3: întins lung
@@ -270,7 +292,8 @@ PPP ⟪आयत⟫ 3: întins lung
 ![](/images/lekt4406.webp)
 Fig.: ⟪आयतो⟫ ⟪मरुः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4406))
-:::⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : a oferi, a prezenta, a predă
+:::
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : a oferi, a prezenta, a predă
 
 ⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : a lega împreună, a lega, a stăpâni
 
@@ -291,7 +314,8 @@ din care:
 ![](/images/lekt4407.webp)
 Fig.: ⟪यत्नेन⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4407))
-:::**⟪रभ्⟫** 1Ā ⟪रभते⟫ (formă alternativă la ⟪लभ्⟫): a prinde
+:::
+**⟪रभ्⟫** 1Ā ⟪रभते⟫ (formă alternativă la ⟪लभ्⟫): a prinde
 
 :::indent
 Perf. Vb ⟪रेभे⟫  
@@ -301,7 +325,8 @@ Kaus. ***⟪रम्भ⟫***⟪यति⟫
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
-:::⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : a atinge, a începe, a întreprinde
+:::
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : a atinge, a începe, a întreprinde
 
 ⟪प्रव्रज्या⟫ f. (la ⟪प्र⟫-⟪व्रज्⟫): ieșirea din casă în lipsa de casă; ceremonie prin care devii novic buddhist (Pali: ⟪पब्बजा⟫)
 
@@ -314,7 +339,8 @@ Vezi:
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt4408))
-:::## 44.6. Exercițiu
+:::
+## 44.6. Exercițiu
 
 A) Determinați și traduceți următoarele forme:
 
@@ -375,7 +401,8 @@ A) Determinați și traduceți următoarele forme:
 ![](/images/lekt4409.webp)
 Fig.: ⟪कस्माद्रोदिषि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4409))
-:::B) Traduceți:
+:::
+B) Traduceți:
 
 ⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
 

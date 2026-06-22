@@ -17,14 +17,16 @@ A) Form both the reduplicated and the periphrastic perfect forms for the followi
 | ⟪२⟫. **⟪बिभ्यति⟫** | ⟪बिभ्युः⟫ | ⟪बिभयां⟫ ⟪चक्रुः⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪३⟫. **⟪जुहोति⟫** | ⟪जुहाव⟫ | ⟪जुहवां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪४⟫. **⟪वेत्ति⟫** | ⟪विवेद⟫ | ⟪विदां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
-:::B) Form the periphrastic perfect for the root **⟪आस्⟫** (to sit):
+:::
+B) Form the periphrastic perfect for the root **⟪आस्⟫** (to sit):
 
 :::grammar-box
 | Present | Periphrastic Perfect |
 | :--- | :--- |
 | ⟪१⟫. **⟪आस्ते⟫** | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. **⟪आसते⟫** | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
-:::C) Form the corresponding perfect for the following forms:
+:::
+C) Form the corresponding perfect for the following forms:
 
 :::grammar-box
 | Present / Imperfect | Perfect |
@@ -42,7 +44,8 @@ A) Form both the reduplicated and the periphrastic perfect forms for the followi
 | ⟪११⟫. **⟪क्रामन्ति⟫** | ⟪चक्रमुः⟫ |
 | ⟪१२⟫. **⟪प्राव्रजन्⟫** | ⟪प्रवव्रजुः⟫ |
 | ⟪१३⟫. **⟪त्यक्ष्यति⟫** | ⟪तत्याज⟫ |
-:::---
+:::
+---
 
 ## Translations
 
@@ -65,7 +68,8 @@ One cannot live solely from science. Whoever knows this should not study.
 ![](/images/uebung061.webp)
 Fig.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (Image source: [Details](/en/licenses#uebung061))
-:::---
+:::
+---
 
 ## Scholarly Fragments
 
@@ -91,7 +95,8 @@ If a man neither rejoices nor grieves, whether he hears, touches, sees, tastes, 
 ![](/images/uebung060.webp)
 Fig.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Image source: [Details](/en/licenses#uebung060))
-:::---
+:::
+---
 
 ## Word Form Determination
 

@@ -68,7 +68,8 @@ B) Translate into Sanskrit using compounds:
 ![](/images/uebung031.webp)
 Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Image source: [Details](/en/licenses#uebung031))
-:::---
+:::
+---
 
 ## Compound Analysis
 
@@ -240,7 +241,8 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 ![](/images/uebung030.webp)
 Fig.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Image source: [Details](/en/licenses#uebung030))
-:::---
+:::
+---
 
 ## Scholarly Fragments
 
@@ -253,7 +255,8 @@ Yoga of action is asceticism, study of the Vedas, and attentive service to the L
 
 :::deleteme-box Explanation
 The five "afflictions" (⟪क्लेश⟫) are: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — ignorance, egoism, greed, hatred, and attachment to the body.
-:::⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
+:::
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 The highest goal of man is that triple suffering disappears completely. (*Triple suffering: from oneself, from objects, from the gods.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  

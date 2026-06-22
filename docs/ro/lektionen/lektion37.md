@@ -48,7 +48,8 @@ Acuzativul poate fi folosit adverbial:
     ⟪तद्⟫ "atunci, de aceea"  
     ⟪यद्⟫ "dacă, că"  
     ⟪एतद्⟫ "așa, aici, acum"
-::::### 37.2.2. Instrumentalul (⟪तृतीया⟫)
+::::
+### 37.2.2. Instrumentalul (⟪तृतीया⟫)
 
 ::::grammar-box
 Instrumentalul (⟪तृतीया⟫) poate fi folosit adverbial, la întrebările:
@@ -68,7 +69,8 @@ Instrumentalul poate fi folosit adverbial:
     Exemple:  
     ⟪दूरेण⟫ "departe, din depărtare" (la ⟪दूर⟫ 3 "departe, îndepărtat de")  
     ⟪उच्चैस्⟫ "înalt, tare" (la ⟪उच्च⟫ 3 "înalt, ridicat, tare, ascuțit (de voce)")
-::::### 37.2.3. Dativul (⟪चतुर्थी⟫)
+::::
+### 37.2.3. Dativul (⟪चतुर्थी⟫)
 
 ::::grammar-box
 Rar se folosește dativul (⟪चतुर्थी⟫) adverbial, la întrebările:
@@ -79,7 +81,8 @@ Rar se folosește dativul (⟪चतुर्थी⟫) adverbial, la întrebăr
 Exemplu:
 :::indent
 ⟪अर्थाय⟫ "în scopul de, pentru ... bine"
-:::::::### 37.2.4. Ablativul (⟪पञ्चमी⟫)
+:::::::
+### 37.2.4. Ablativul (⟪पञ्चमी⟫)
 
 ::::grammar-box
 Ablativul (⟪पञ्चमी⟫) poate fi folosit adverbial, răspunzând la întrebările:
@@ -101,13 +104,15 @@ Ablativul poate fi folosit adverbial:
     Exemple:  
     ⟪कस्मात्⟫ "de ce"  
     ⟪अकस्मात्⟫ "neașteptat"
-::::### 37.2.5. Genitivul (⟪षष्ठी⟫)
+::::
+### 37.2.5. Genitivul (⟪षष्ठी⟫)
 
 ::::grammar-box
 Rar este cazul în care genitivul (⟪षष्ठी⟫) este folosit adverbial, la întrebarea „după cât timp?”
 
 de ex. ⟪चिरस्य⟫ „după mult timp” (la ⟪चिर⟫ 3 „lung (timp)”)
-::::### 37.2.6. Locativul (⟪सप्तमी⟫)
+::::
+### 37.2.6. Locativul (⟪सप्तमी⟫)
 
 ::::grammar-box
 Locativul (⟪सप्तमी⟫) poate fi folosit adverbial, la întrebările:
@@ -121,7 +126,8 @@ Exemple:
 \-⟪अर्थे⟫ "din cauza"  
 \-⟪कृते⟫ "pentru binele"  
 ⟪दूरे⟫ "departe"
-:::::::## 37.3. Utilizare adverbială a formelor de caz care nu mai sunt uzuale
+:::::::
+## 37.3. Utilizare adverbială a formelor de caz care nu mai sunt uzuale
 
 Exemple:
 :::indent
@@ -130,7 +136,8 @@ Exemple:
 ⟪तूष्णीम्⟫ "în tăcere" (Ac.sg. corespunzător unui ⟪तूष्णी⟫ f. "tăcere" care nu mai este uzual)
 
 ⟪एवम्⟫ "astfel" (corespunzător unei rădăcini pronominalice altfel pierdute ⟪एव⟫ "unul, unic")
-:::## 37.4. Formarea adverbelor cu sufixe adverbiale
+:::
+## 37.4. Formarea adverbelor cu sufixe adverbiale
 
 ::::grammar-box
 De la rădăcinile pronominale ⟪तद्⟫, ⟪इदम्⟫ respectiv ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ respectiv ⟪कु⟫ se pot deriva, folosind sufixele adverbiale:
@@ -169,7 +176,8 @@ Fig.: ⟪क्व⟫
 | **-⟪तस्⟫** | la substantive și pronume. Majoritatea cu sens ablativ "de unde?", dar și "unde?", "încotro?":brex. **⟪आदितस्⟫** "de la început" |
 | **-⟪धा⟫** | 1. La adverbe numerale cu sensul "-pliu", "-fald":brex. **⟪द्विधा⟫** "dublu":br2. cu sensul "în felul și felul":brex. **⟪समधा⟫** "în același fel" (la **⟪सम⟫** 3 "egal") |
 
-::::## 37.5. Compozite adverbiale
+::::
+## 37.5. Compozite adverbiale
 
 ### 37.5.1. Compozite cu un adverb sau un caz cu funcție adverbială ca element posterior
 
@@ -195,14 +203,16 @@ Exemple:
 ⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = „după puteri“
 
 ⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = „înainte, în fața“
-:::Sunt deosebit de importante ⟪अव्ययीभाव⟫ cu ⟪यथा⟫ „cum“ ca prim element:
+:::
+Sunt deosebit de importante ⟪अव्ययीभाव⟫ cu ⟪यथा⟫ „cum“ ca prim element:
 
 de ex. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = „după cum este dorința, după dorință, arbitrar“
 :::::::media
 ![lekt3702.jpg](/images/lekt3702.webp)
 Fig.: ⟪यथाशक्ति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3702))
-:::## 37.6. Sintactic
+:::
+## 37.6. Sintactic
 
 ::::grammar-box
 La verbele
@@ -218,7 +228,8 @@ de ex. ⟪तूष्णीं⟫ ⟪बभूव⟫ "a tăcut, a mutrat"
 ![lekt3703.jpg](/images/lekt3703.webp)
 Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3703))
-:::## 37.7. Pronume nehotărâte
+:::
+## 37.7. Pronume nehotărâte
 
 ::::grammar-box
 Pronumele nehotărâte (pronume nehotărâte) se formează prin adăugarea
@@ -233,7 +244,8 @@ de ex.
 :::indent
 ⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "oricare, oricine"  
 ⟪कस्यचिद्⟫ = al cuiva
-:::::::## 37.8. Propoziția interogativă
+:::::::
+## 37.8. Propoziția interogativă
 
 ::::grammar-box
 „Cine?, cum?, ce?, de ce? de ce? de ce?  
@@ -245,7 +257,8 @@ Cine nu întreabă, rămâne prost.”
 ⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
 
 Motto-ul Străzii Sesam, care este un ghid bun pentru viață și pentru studiul sanscritului
-::::Vedeți, de asemenea, [Lecția 4](lektion04.md).
+::::
+Vedeți, de asemenea, [Lecția 4](lektion04.md).
 
 Trebuie să distingem
 
@@ -271,7 +284,8 @@ La întrebările cu propoziții se întreagă întregul conținut al propoziție
 Schema:
 
 Pronume/Adverb de întrebare - Propoziție
-::::Exemple:
+::::
+Exemple:
 :::indent
 ⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Cine merge în sat?"
 
@@ -282,7 +296,8 @@ Pronume/Adverb de întrebare - Propoziție
 ![lekt3704.jpg](/images/lekt3704.webp)
 Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3704))
-:::### 37.8.2. Întrebări de propoziție
+:::
+### 37.8.2. Întrebări de propoziție
 
 ::::grammar-box
 Uneori, este clar doar din context dacă o propoziție este o întrebare.
@@ -290,7 +305,8 @@ Uneori, este clar doar din context dacă o propoziție este o întrebare.
 Schema I:
 
 Verb - restul propoziției
-::::Exemplu:
+::::
+Exemplu:
 :::indent
 ⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Va merge băiatul brahman la un maestru?"
 :::::::grammar-box
@@ -308,17 +324,20 @@ Cele mai importante particule de întrebare sunt:
     
 
 Aceste particule corespund semnului de întrebare.
-::::Exemplu:
+::::
+Exemplu:
 :::indent
 ⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Este și acesta adevărat?"
 
 ⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Poare el oare?"
 
 ⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Oare kṣatriya l-a învins pe dușmani?"
-:::Notă: ⟪किम्⟫ poate însemna, pe lângă "ce?", și ca particulă de întrebare "de ce?, în scopul căruia?". Astfel, în special cu instrumentalul (⟪तृतीया⟫):
+:::
+Notă: ⟪किम्⟫ poate însemna, pe lângă "ce?", și ca particulă de întrebare "de ce?, în scopul căruia?". Astfel, în special cu instrumentalul (⟪तृतीया⟫):
 :::indent
 ⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "La ce mânia? La ce folosește mânia? La ce ar trebui mânia?"
-:::## 37.9. Listă de cuvinte
+:::
+## 37.9. Listă de cuvinte
 
 ⟪मूर्ख⟫ 3: obtuz, stupid, prost m. Idiot
 
@@ -330,7 +349,8 @@ Aceste particule corespund semnului de întrebare.
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Fig.: ⟪शाक्यमुनिः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3705))
-:::⟪दिन⟫ n.: Zi
+:::
+⟪दिन⟫ n.: Zi
 
 ⟪वृक्ष⟫ m.: Arbore
 
@@ -338,7 +358,8 @@ Fig.: ⟪शाक्यमुनिः⟫
 ![lekt3706.jpg](/images/lekt3706.webp)
 Fig.: ⟪वृक्षः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3706))
-:::⟪मुख⟫ n.: Gură, față, parte anterioară, început
+:::
+⟪मुख⟫ n.: Gură, față, parte anterioară, început
 
 ## 37.10. Exerciții
 
@@ -374,13 +395,15 @@ Exemplu: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » �
 ![lekt3707.jpg](/images/lekt3707.webp)
 Fig.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3707))
-:::⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
+:::
+⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 :::media
 ![lekt3708.jpg](/images/lekt3708.webp)
 Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3708))
-:::⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
+:::
+⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
 ⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫)
 
@@ -409,7 +432,8 @@ C) Traduceți următoarele ⟪अव्ययीभाव⟫ :
 :::indent
 1.  ⟪अतिमात्रम्⟫
 2.  ⟪अतिवसन्तम्⟫
-:::2\. ⟪अधि⟫ "în"
+:::
+2\. ⟪अधि⟫ "în"
 
 :::indent
 1.  ⟪अधिहरि⟫
@@ -418,23 +442,27 @@ C) Traduceți următoarele ⟪अव्ययीभाव⟫ :
 ![lekt3709.jpg](/images/lekt3709.webp)
 Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3709))
-:::3\. ⟪अनु⟫ "potrivit, de-a lungul, conform"
+:::
+3\. ⟪अनु⟫ "potrivit, de-a lungul, conform"
 
 :::indent
 1.  ⟪अनुरूपम्⟫
 2.  ⟪अनुदिनम्⟫
 3.  ⟪अनुगङ्गम्⟫
 4.  ⟪अनुविष्णुम्⟫
-:::4\. ⟪अप⟫ "fără"
+:::
+4\. ⟪अप⟫ "fără"
 
 :::indent
 1.  ⟪अपविष्णुम्⟫
-:::5\. ⟪अभि⟫ "în direcția către"
+:::
+5\. ⟪अभि⟫ "în direcția către"
 
 :::indent
 1.  ⟪अभिमुखम्⟫
 2.  ⟪अभ्यग्नि⟫
-:::6\. ⟪आ⟫ "din, până la, inclusiv"
+:::
+6\. ⟪आ⟫ "din, până la, inclusiv"
 
 :::indent
 1.  ⟪आबालवृद्धम्⟫
@@ -443,7 +471,8 @@ Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 ![lekt3710.jpg](/images/lekt3710.webp)
 Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3710))
-:::7\. ⟪उप⟫ "aproape"
+:::
+7\. ⟪उप⟫ "aproape"
 
 :::indent
 1.  ⟪उपवृक्षम्⟫
@@ -451,11 +480,13 @@ Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 ![lekt3711.jpg](/images/lekt3711.webp)
 Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3711))
-:::8\. ⟪यथा⟫
+:::
+8\. ⟪यथा⟫
 
 :::indent
 1.  ⟪यथास्थानम्⟫
-:::## 37.11. Exercițiu de recapitulare
+:::
+## 37.11. Exercițiu de recapitulare
 
 Traduceți în sanscrită folosind exclusiv forme verbale ale perfectului:
 

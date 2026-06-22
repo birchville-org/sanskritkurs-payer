@@ -27,21 +27,24 @@ La traducerea în limba germană, se evită repetarea constantă a cuvântului �
 
 (determinare suplimentară a ablativului absolut: circumstanțial, obiect etc.) – ablativ absolut – ablativ absolut – ... – ablativ absolut – ... agent + propoziție verbală (la activ sau pasiv)
 
-:::**Exemple:**
+:::
+**Exemple:**
 
 :::indent
 **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = construcție pasivă: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
 „Bărbatul intră în casă, vede fetița și îi vorbește.”
 
 La plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
-:::## 22.2. Formarea ablativului
+:::
+## 22.2. Formarea ablativului
 
 :::grammar-box
 **Formarea ablativului**
 
 *   Verbe fără preverb: ablativ în **-tvā**
 *   Verbe cu preverb: ablativ în **-ya** sau **-tya**
-:::### 22.2.1. Verbe fără prefix: Absolutiv în -⟪त्वा⟫
+:::
+### 22.2.1. Verbe fără prefix: Absolutiv în -⟪त्वा⟫
 
 :::grammar-box
 
@@ -51,7 +54,8 @@ La plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बाला�
 
 Doar negația **a-** / **an-** se potrivește cu sufixul **-⟪त्वा⟫** : **⟪अकृत्वा⟫** "fără a fi făcut"
 
-:::**Exemple:**
+:::
+**Exemple:**
 
 :::indent
 **⟪आप्त्वा⟫** "după ce el/ea/ello/eu/voi/ele/noi/voi/ele au atins / au atins"
@@ -65,7 +69,8 @@ Doar negația **a-** / **an-** se potrivește cu sufixul **-⟪त्वा⟫**
 **⟪जित्वा⟫** "după ce el (...) a câștigat / a câștigat"
 
 **⟪उक्त्वा⟫** "după ce el (...) a vorbit / a vorbit"
-:::### 22.2.2. Verbe cu prepozitii
+:::
+### 22.2.2. Verbe cu prepozitii
 
 #### 22.2.2.1. Rădăcini cu vocală lungă (în afară de -ā) sau cu consoană
 
@@ -73,7 +78,8 @@ Doar negația **a-** / **an-** se potrivește cu sufixul **-⟪त्वा⟫**
 
 **(de obicei) rădăcină la nivel scăzut + -ya**
 
-:::**Exemple:**
+:::
+**Exemple:**
 
 :::indent
 **⟪उपनीय⟫** "după ce a (...) adus / a adus"
@@ -81,23 +87,27 @@ Doar negația **a-** / **an-** se potrivește cu sufixul **-⟪त्वा⟫**
 **⟪प्रभूय⟫** "după ce a (...) ieșit la iveală / a ieșit la iveală" "după ce a (...) avut putere"
 
 **⟪प्राप्य⟫** "după ce a (...) obținut / a obținut"
-:::#### 22.2.2.2. Rădăcini cu -ā
+:::
+#### 22.2.2.2. Rădăcini cu -ā
 
 :::grammar-box
 
 **rădăcină la nivel înalt, neschimbată + -ya**
 
-:::**Exemplu:**
+:::
+**Exemplu:**
 
 :::indent
 **⟪उपस्थाय⟫** "după ce a (...) pășit / a pășit" ; (dar fără prepoziție: **⟪स्थित्वा⟫**)
-:::#### 22.2.2.3. Rădăcini care la nivelul scăzut se termină cu -i, -u, -ṛ scurt
+:::
+#### 22.2.2.3. Rădăcini care la nivelul scăzut se termină cu -i, -u, -ṛ scurt
 
 :::grammar-box
 
 **rădăcină la nivel scăzut + -tya**
 
-:::**Exemple:**
+:::
+**Exemple:**
 
 :::indent
 **⟪प्रस्तुत्य⟫** "după ce a (...) lăudat cu voce tare / a lăudat cu voce tare"
@@ -105,7 +115,8 @@ Doar negația **a-** / **an-** se potrivește cu sufixul **-⟪त्वा⟫**
 **⟪विस्मृत्य⟫** "după ce a (...) uitat / a uitat"
 
 **⟪संस्कृत्य⟫** "după ce a (...) pregătit pentru jertfă / a pregătit pentru jertfă"
-:::#### 22.2.2.4. Rădăcini cu -am / -an, care la nivelul scăzut se termină cu -a
+:::
+#### 22.2.2.4. Rădăcini cu -am / -an, care la nivelul scăzut se termină cu -a
 
 :::grammar-box
 
@@ -117,11 +128,13 @@ sau:
 
 Rădăcină cu **-a** + **-tya**
 
-:::**Exemplu:**
+:::
+**Exemplu:**
 
 :::indent
 **⟪विगम्य⟫** sau **⟪विगत्य⟫** "după ce a (...) trecut / a trecut"
-:::## 22.3. Listă de cuvinte
+:::
+## 22.3. Listă de cuvinte
 
 **⟪काम⟫ m.:** dor, poftă; dar dorit, plăcere senzorială, iubire, zeul iubirii
 
@@ -132,7 +145,8 @@ Rădăcină cu **-a** + **-tya**
 Fig.: ⟪कामदेवः⟫
 sec. al XIX-lea
 (sursă imagine: [Detalii](/ro/licenses#lekt2202))
-:::**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** a fi capabil, a putea
+:::
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** a fi capabil, a putea
 
 din aceasta:
 
@@ -145,11 +159,13 @@ din aceasta:
 Fig.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (sursă imagine: [Detalii](/ro/licenses#lekt2203))
-:::**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** a merita (a fi demn de ceva), a avea dreptul, a fi obligat să, trebuie (în persoana a II-a, **⟪अर्ह्⟫** + infinitiv este adesea folosit ca o poruncă blândă: "Ar trebui să")
+:::
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** a merita (a fi demn de ceva), a avea dreptul, a fi obligat să, trebuie (în persoana a II-a, **⟪अर्ह्⟫** + infinitiv este adesea folosit ca o poruncă blândă: "Ar trebui să")
 
 :::indent
 **⟪अर्हन्त्⟫ 3** Part. Prez. P: un demn. În budism și Jainism: cineva care a atins eliberarea finală
-:::**⟪व्रत⟫ n.:** jurământ, datorie religioasă, practică religioasă (o persoană îi promite zeului ceva, pentru a obține ceva de la ea. Exemplu: o mamă promite să ofere fiica sa ca prostituată a templului (**⟪देवदासी⟫**) dacă fiica sa se vindecă. **⟪व्रत⟫** importante astăzi: post; abținere de la alimente preferate; abținere sexuală; citirea scriurilor sacre; îndeplinirea unor rituri anumite; hrănirea brahmanilor etc. Scurt despre **⟪व्रत⟫**: Walker, Hindu World vol. II, p. 581ss. Detaliat: P. V. Kane: History of Dharmaśāstra vol. 5,1 p. 1 - 462. Acolo p. 253 - 462 listă de **⟪व्रत⟫** și sărbători religioase ("următoarea listă ... nu pretinde a fi exhaustivă" !!!)
+:::
+**⟪व्रत⟫ n.:** jurământ, datorie religioasă, practică religioasă (o persoană îi promite zeului ceva, pentru a obține ceva de la ea. Exemplu: o mamă promite să ofere fiica sa ca prostituată a templului (**⟪देवदासी⟫**) dacă fiica sa se vindecă. **⟪व्रत⟫** importante astăzi: post; abținere de la alimente preferate; abținere sexuală; citirea scriurilor sacre; îndeplinirea unor rituri anumite; hrănirea brahmanilor etc. Scurt despre **⟪व्रत⟫**: Walker, Hindu World vol. II, p. 581ss. Detaliat: P. V. Kane: History of Dharmaśāstra vol. 5,1 p. 1 - 462. Acolo p. 253 - 462 listă de **⟪व्रत⟫** și sărbători religioase ("următoarea listă ... nu pretinde a fi exhaustivă" !!!)
 
 **⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** a păști, a umbla, a se mișca, a acționa, a exercita ceva, a îndeplini (de ex. **⟪व्रतं⟫ ⟪चर्⟫**: a practica un jurământ, în special abținerea sexuală)
 
@@ -168,7 +184,8 @@ din aceasta:
 Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (sursă imagine: [Detalii](/ro/licenses#lekt2201))
-:::## 22.4. Exercițiu
+:::
+## 22.4. Exercițiu
 
 **A) Formați și traduceți absolutivul pentru următoarele verbe:**
 

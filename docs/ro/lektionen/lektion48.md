@@ -11,7 +11,8 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-:::center
+:::
+center
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
 ⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
@@ -25,7 +26,8 @@ status: stable
 ⟪विद्याविहीनः⟫ ⟪पशुः⟫ ⟪॥६॥⟫
 
 ⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
-:::## 48.2. Formarea imperativului (⟪लोट्⟫) la rădăcinile de prezent neatematic
+:::
+## 48.2. Formarea imperativului (⟪लोट्⟫) la rădăcinile de prezent neatematic
 
 ### 48.2.1. Desinențele imperativului la rădăcini de prezent atematic
 
@@ -36,7 +38,8 @@ status: stable
 | **Persoana 1**:br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
 | **Persoana 2**:br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
 | **Persoana 3**:br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br**3.Cl.: -atu**:br(din -\*ntu) | \-atām:br(din: -\*ntām) |
-:::Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -tāt, dacă se exprimă o dorină de binecuvântare. -tāt apare (chiar și la persoana a 3-a singular) la rădăcina slabă.
+:::
+Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -tāt, dacă se exprimă o dorină de binecuvântare. -tāt apare (chiar și la persoana a 3-a singular) la rădăcina slabă.
 
 :::grammar-box
 | **Despre forma desinenței persoanei a 2-a singular imperativ:** ||
@@ -45,7 +48,8 @@ status: stable
 | **\-āna** | Rădăcinile clasei a 9-a, care se termină într-un consonant, substituie pentru \-nī+desinență cu \-āna |
 | **\-hi** | toate celelalte rădăcini de prezent, care se termină într-un vocal sau semivocal (excepție: **⟪जुहुधि⟫** la **⟪हु⟫ 3**) |
 | **\-dhi** | toate celelalte cazuri |
-:::### 48.2.2. Forma rădăcinii la prezent
+:::
+### 48.2.2. Forma rădăcinii la prezent
 
 :::grammar-box
 **Rădăcină puternică:**
@@ -54,7 +58,8 @@ status: stable
 *   **3.sg. Imperativ**
 
 **Rădăcină slabă: toate celelalte forme**
-:::### 48.2.3. A doua clasă de prezent (⟪अदादि⟫)
+:::
+### 48.2.3. A doua clasă de prezent (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
@@ -65,7 +70,8 @@ status: stable
 | **1. Persoana**:br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
 | **2. Persoana**:br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
 | **3. Persoana**:br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
-:::⟪आस्⟫ 2Ā
+:::
+⟪आस्⟫ 2Ā
 
 :::grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
@@ -74,7 +80,8 @@ status: stable
 | **1. Persoana**:br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
 | **2. Persoana**:br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
 | **3. Persoana**:br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
-:::⟪दुह्⟫ 2U
+:::
+⟪दुह्⟫ 2U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -83,7 +90,8 @@ status: stable
 | **1. Persoana**:br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
 | **2. Persoana**:br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
 | **3. Persoana**:br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
-:::⟪इ⟫ 2P
+:::
+⟪इ⟫ 2P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -92,7 +100,8 @@ status: stable
 | **1. Persoana**:br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
 | **2. Persoana**:br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
 | **3. Persoana**:br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
-:::⟪शी⟫ 2Ā (întotdeauna cu grad intens!)
+:::
+⟪शी⟫ 2Ā (întotdeauna cu grad intens!)
 
 :::grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
@@ -101,7 +110,8 @@ status: stable
 | **1. Persoana**:br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
 | **2. Persoana**:br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
 | **3. Persoana**:br⟪प्रथमः⟫ | ⟪शेताम्⟫ | ***⟪शेरताम्⟫*** |
-:::⟪हन्⟫ 2P
+:::
+⟪हन्⟫ 2P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -112,7 +122,8 @@ status: stable
 | **3. Persoana**:br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
 
 Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
-:::⟪स्तु⟫ 2U
+:::
+⟪स्तु⟫ 2U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -121,7 +132,8 @@ Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 | **1. Persoana**:br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
 | **2. Persoana**:br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br***⟪स्तुवीहि⟫*** | ⟪स्तुत⟫:br***⟪स्तुवीत⟫*** | ⟪स्तुष्व⟫:br***⟪स्तुवीष्व⟫*** | ⟪स्तुध्वम्⟫:br***⟪स्तुवीध्वम्⟫*** |
 | **3. Persoana**:br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br***⟪स्तवीतु⟫*** | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br***⟪स्तुवीताम्⟫*** | ⟪स्तुवताम्⟫ |
-:::⟪अस्⟫ 2P
+:::
+⟪अस्⟫ 2P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -130,7 +142,8 @@ Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 | **1. Persoana**:br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
 | **2. Persoana**:br⟪मध्यमः⟫ | ***⟪एधि⟫***:br(din: \*s-dhi) | ⟪स्त⟫ |
 | **3. Persoana**:br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
-:::⟪शास्⟫ 2P
+:::
+⟪शास्⟫ 2P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -140,11 +153,13 @@ Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 | **1. Persoană**:br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
 | **2. Persoană**:br⟪मध्यमः⟫ | ***⟪शाधि⟫***:br(din: śās + dhi):brnereg. superlativ | ⟪शिष्ट⟫ |
 | **3. Persoană**:br⟪प्रथमः⟫ | ⟪शास्तु⟫ | ***⟪शासतु⟫***:brnereg. superlativ |
-:::### 48.2.4. A treia clasă de prezintă (⟪जुहोत्यादि⟫)
+:::
+### 48.2.4. A treia clasă de prezintă (⟪जुहोत्यादि⟫)
 
 :::grammar-box
 **Sfârșitul 3.pl.P cu \-atu !**
-:::⟪हु⟫ 3P
+:::
+⟪हु⟫ 3P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -155,7 +170,8 @@ Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 | **Persoana 3**:br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | &lt;⟪जुहुताम्⟫&gt; | &lt;⟪जुह्वताम्⟫&gt; |
 
 Nota: ¹ Dissimilație, astfel încât două silabe cu **⟪ह्⟫** nu se succed.
-:::⟪धा⟫ 3U
+:::
+⟪धा⟫ 3U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -166,7 +182,8 @@ Nota: ¹ Dissimilație, astfel încât două silabe cu **⟪ह्⟫** nu se su
 | **Persoana 3**:br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
 
 Nota: ¹ **⟪धेहि⟫** din \*dhazdhi: dispariția sunetului sibilant indo-european z, înlocuit prin extindere vocalică; v. Thumb-Hauschild I,1 p. 302
-:::⟪हा⟫ 3P
+:::
+⟪हा⟫ 3P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -175,7 +192,8 @@ Nota: ¹ **⟪धेहि⟫** din \*dhazdhi: dispariția sunetului sibilant in
 | **Persoana 1**:br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
 | **Persoana 2**:br⟪मध्यमः⟫ | ***⟪जहाहि⟫***:brnereg. puternic. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
 | **Persoana 3**:br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
-:::## 48.3. Despre formarea substantivelor: sufixele -a și -ya de tipul ⟪तद्धित⟫
+:::
+## 48.3. Despre formarea substantivelor: sufixele -a și -ya de tipul ⟪तद्धित⟫
 
 :::grammar-box
 Cu sufixul **-a** și (mai rar) **-ya** se poate deriva un substantiv din alt substantiv. În acest caz, prima silabă a substantivului original primește gradul lung (**⟪वृद्धि⟫**). Dacă radicalul cuvântului original se termină deja în **-a**, atunci **⟪वृद्धि⟫** este singurul semn al derivării, deoarece nu se produce nicio modificare la finalul radicalului.
@@ -190,7 +208,8 @@ de exemplu:
 *   "care aparține de"
 
 Cuvintele formate astfel sunt adjective, dar pot fi substantivate, de exemplu ca patronime (formare de nume după tată: "fiul lui N.N.") sau abstracte (de obicei neutre).
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 | Cuvânt de bază | Derivare |
@@ -213,7 +232,8 @@ Cuvintele formate astfel sunt adjective, dar pot fi substantivate, de exemplu ca
 | **alte tipuri de declinare:** | vezi Wackernagel, Gramatica sanscrită veche II,2 § 38 |
 
 Înainte de sufixul **-ya**, finalul radicalului este tratat similar ca înainte de sufixul **-a**.
-:::Vezi exemplele de mai sus!
+:::
+Vezi exemplele de mai sus!
 
 :::grammar-box
 **Cu ajutorul acestor sufixe se pot forma și derivări din compuse.**
@@ -227,7 +247,8 @@ de exemplu, **⟪व्याघ्र⟫** m. "tigru" » **⟪वैयाघ�
 ![](/images/lekt4801.webp)
 Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4801))
-:::## 48.4. Listă de cuvinte
+:::
+## 48.4. Listă de cuvinte
 
 ⟪श्वस्⟫ : mâine
 
@@ -249,7 +270,8 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 Fig.: ⟪तन्त्री⟫
 Muzician la sitar = ⟪सितारवादकः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4803))
-:::⟪स्त्री⟫ f.: femeie, soție ; feminin
+:::
+⟪स्त्री⟫ f.: femeie, soție ; feminin
 
 Declinare:
 
@@ -269,7 +291,8 @@ Declinare:
 Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 [Grup de auto-ajutorare (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4804))
-:::⟪दिवानिशम्⟫ Adverb: ziua și noaptea
+:::
+⟪दिवानिशम्⟫ Adverb: ziua și noaptea
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : a atârna, a se atașa
 
@@ -280,14 +303,16 @@ Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 Fig.: ⟪कुमारः⟫
 Festivalul Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4805))
-:::⟪कुमारी⟫ f.: fată, fiică
+:::
+⟪कुमारी⟫ f.: fată, fiică
 
 :::media
 ![](/images/lekt4806.webp)
 Fig.: ⟪कुमारी⟫
 ⟪नेपाल⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4806))
-:::⟪कौमर⟫ n.: copilărie
+:::
+⟪कौमर⟫ n.: copilărie
 
 ⟪यौवन⟫ n.: tinerețe
 
@@ -298,7 +323,8 @@ Fig.: ⟪कुमारी⟫
 Fig.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4807))
-:::⟪स्थाविर⟫ n.: (înaltă) bătrânețe
+:::
+⟪स्थाविर⟫ n.: (înaltă) bătrânețe
 
 ⟪वाच्य⟫ 3: de asemenea: demn de mustrare
 
@@ -309,7 +335,8 @@ Fig.: ⟪स्थविराः⟫
 Fig.: ⟪सूक्ष्मम्⟫
 Lacul Karanji = ಕಾರಂಜಿ ಕೆರೆ
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4808))
-:::⟪प्रसङ्ग⟫ m.: atașament, inclinație ; oportunitate
+:::
+⟪प्रसङ्ग⟫ m.: atașament, inclinație ; oportunitate
 
 ⟪विशेष⟫ m.: diferență, particularitate
 
@@ -324,7 +351,8 @@ Lacul Karanji = ಕಾರಂಜಿ ಕೆರೆ
 Fig.: ⟪मम⟫ ⟪जाया⟫
 (Imagine: Payer)
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4809))
-:::## 48.5. Exerciții
+:::
+## 48.5. Exerciții
 
 A) Traduceți ⟪सुभाषितानि⟫ de la începutul lecției.
 
@@ -370,7 +398,8 @@ B) Traduceți în sanscrită (folosiți imperativul și, pe cât posibil, rădă
 ⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥७॥⟫  
 ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫  
 ⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫
-:::Explicație:  
+:::
+Explicație:  
 ⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual la ⟪द्वे⟫ ⟪कुले⟫ "două familii"
 
 :::deleteme-box

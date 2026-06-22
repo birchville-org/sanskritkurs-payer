@@ -17,14 +17,16 @@ status: stable
 *   1.sg.P: grado pieno o grado allungato a scelta
 
 **radice debole:** vedi sotto i sottotipi
-:::### 35.1.1. Tipo di Perfetto IIIa: Radice forte grado alto/lungo, radice debole grado basso
+:::
+### 35.1.1. Tipo di Perfetto IIIa: Radice forte grado alto/lungo, radice debole grado basso
 
 ::::grammar-box
 **Formazione:**
 
 :::indent
 **radice debole:** grado basso
-:::Si forma da radici dei tipi:
+:::
+Si forma da radici dei tipi:
 *   (Consonante)-(Consonante) - i/ī/u/ū
 *   (Consonante) - ṛ
 
@@ -32,7 +34,8 @@ Davanti a desinenza vocalica iniziale viene sostituito:
 *   -i/-ī con -iy
 *   -u/-ū con -uv
 *   -ṛ con r
-::::Esempi:
+::::
+Esempi:
 
 ::::grammar-box
 
@@ -44,17 +47,20 @@ Davanti a desinenza vocalica iniziale viene sostituito:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-::::### 35.1.2. Tipo III del Perfetto: Radice forte grado alto/lungo, radice debole grado alto
+::::
+### 35.1.2. Tipo III del Perfetto: Radice forte grado alto/lungo, radice debole grado alto
 
 ::::grammar-box
 **Formazione:**
 
 :::indent
 **radice debole:** grado alto
-:::È formato da radici dei tipi:
+:::
+È formato da radici dei tipi:
 *   (Consonante)-(Consonante)-ṝ
 *   Consonante-Consonante-ṛ (cioè radici in -ṛ, quando ne precedono più consonanti)
-::::Esempi:
+::::
+Esempi:
 
 ::::grammar-box
 
@@ -64,7 +70,8 @@ Davanti a desinenza vocalica iniziale viene sostituito:
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-::::## 35.2. Perfetto Tipo IV: Radici con -ā / -āi
+::::
+## 35.2. Perfetto Tipo IV: Radici con -ā / -āi
 
 :::grammar-box
 **Formazione:**
@@ -78,7 +85,8 @@ Davanti a desinenza vocalica iniziale viene sostituito:
 *   prima di vocale: grado basso Ø
 
 Si forma da radici con -ā / -āi
-:::Esempio:
+:::
+Esempio:
 
 ::::grammar-box
 
@@ -86,7 +94,8 @@ Si forma da radici con -ā / -āi
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-::::## 35.3. Tipo V del Perfetto: Radici Consonante-a-Consonante
+::::
+## 35.3. Tipo V del Perfetto: Radici Consonante-a-Consonante
 
 :::grammar-box
 **Formazione:**
@@ -99,21 +108,24 @@ Si forma da radici con -ā / -āi
 **stema debole:** vedi sottotipi
 
 Si forma da radici del tipo (Consonante)-Consonante-a-Consonante
-:::### 35.3.1. Tipo di Perfetto Va: radice debole grado profondo
+:::
+### 35.3.1. Tipo di Perfetto Va: radice debole grado profondo
 
 ::::grammar-box
 **Formazione:**
 
 :::indent
 **radice debole:** grado profondo
-:::Viene formato, tra le altre, dalle radici:
+:::
+Viene formato, tra le altre, dalle radici:
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-::::Esempi:
+::::
+Esempi:
 
 ::::grammar-box
 
@@ -126,7 +138,8 @@ Si forma da radici del tipo (Consonante)-Consonante-a-Consonante
 | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | &lt;⟪ऊदे⟫&gt; | &lt;⟪ऊदिरे⟫&gt; |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-::::### 35.3.2. Tipo di Perfetto Vb: radice debole, contrazione (tipo e)
+::::
+### 35.3.2. Tipo di Perfetto Vb: radice debole, contrazione (tipo e)
 
 ::::grammar-box
 **Formazione:**
@@ -134,8 +147,10 @@ Si forma da radici del tipo (Consonante)-Consonante-a-Consonante
 :::indent
 **radice debole:** nessuna reduplicazione. Sostituzione della -a- della radice con -e-  
 (per la spiegazione, vedere Thumb-Hauschild 1,2 pag. 286f.)
-:::È formato da radici con -a- tra due consonanti semplici, la cui consonante iniziale nella sillaba di reduplicazione non viene modificata (cioè la cui consonante iniziale non è un gutturale, un aspirato o h).
-::::Esempio:
+:::
+È formato da radici con -a- tra due consonanti semplici, la cui consonante iniziale nella sillaba di reduplicazione non viene modificata (cioè la cui consonante iniziale non è un gutturale, un aspirato o h).
+::::
+Esempio:
 
 ::::grammar-box
 
@@ -143,7 +158,8 @@ Si forma da radici del tipo (Consonante)-Consonante-a-Consonante
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | ***⟪पे⟫***⟪चुर्⟫ | ***⟪पे⟫***⟪चे⟫ | ***⟪पे⟫***⟪चिरे⟫ |
 
-::::### 35.3.3. Tipo di Perfetto Vc: Radici Consonante-a-Consonante. Debole stemma grado alto
+::::
+### 35.3.3. Tipo di Perfetto Vc: Radici Consonante-a-Consonante. Debole stemma grado alto
 
 :::grammar-box
 **Formazione:**
@@ -157,7 +173,8 @@ Viene formato da tutte le altre radici con la vocale media -a-, cioè radici con
 *   che iniziano con h
 
 a condizione che non appartengano al Tipo di Perfetto Va.
-:::Esempio:
+:::
+Esempio:
 
 ::::grammar-box
 
@@ -165,7 +182,8 @@ a condizione che non appartengano al Tipo di Perfetto Va.
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-::::## 35.4. Elenco di parole
+::::
+## 35.4. Elenco di parole
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : perdersi, andare perduto, scomparire
 :::indent
@@ -173,7 +191,8 @@ a condizione che non appartengano al Tipo di Perfetto Va.
 **Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
 **Caus. ⟪नाशयति⟫**:br
 **PPP ⟪नष्ट⟫**
-:::**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : scomparire, perdersi, andare perduto
+:::
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : scomparire, perdersi, andare perduto
 
 **⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : procedere, andare
 :::indent
@@ -189,7 +208,8 @@ a condizione che non appartengano al Tipo di Perfetto Va.
 Fig.: ⟪क्रामन्ति⟫
 Persone che camminano, Senegal. [Fonte immagine: Curt Carnemark / World Bank. CC BY-NC-ND]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3502))
-:::**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): cantare, recitare in tono cantilenante, annunziare in discorso poetico
+:::
+**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): cantare, recitare in tono cantilenante, annunziare in discorso poetico
 :::indent
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
 **Fut. ⟪गास्यति⟫**:br
@@ -205,7 +225,8 @@ da ciò:
 Fig.: ⟪जगुः⟫
 Musicisti del tempio Kaadu Malleswara Temple Bangalore. [Fonte immagine: Samuelraj / Flickr. CC BY-NC]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3501))
-:::## 35.5. Esercizio
+:::
+## 35.5. Esercizio
 
 A) Formare le corrispondenti forme del Perfetto per le seguenti forme verbali:
 
@@ -268,7 +289,8 @@ B) Tradurre:
 Fig.: ... ⟪ब्राह्मणाश्चेजुः⟫
 Cerimonia Yajña, ashram Shiva, Ganeshpuri. [Fonte immagine: Dey / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3504))
-:::⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
+:::
+⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
 C) Trasformare le frasi dell'esercizio B) sostituendo i Perfetti con gli Imperfetti.
 

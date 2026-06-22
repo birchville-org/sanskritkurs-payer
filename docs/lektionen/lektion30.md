@@ -21,7 +21,8 @@ status: stable
     *   vor Konsonant: Tiefstufige Wurzel + -nī-
         
     *   vor Vokal: tiefstufige Wurzel + -n-
-:::Beispiel:
+:::
+Beispiel:
 
 :::indent
 ⟪क्री⟫ 9U "kaufen"
@@ -32,7 +33,8 @@ status: stable
 |**3. Person:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
 |**3. Person:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
 
-:::Bei dieser Präsensklasse ist besonders zu beachten die Bildung des Präsensstamms zur Wurzel ⟪ज्ञा⟫ 9U "erkennen, wissen":
+:::
+Bei dieser Präsensklasse ist besonders zu beachten die Bildung des Präsensstamms zur Wurzel ⟪ज्ञा⟫ 9U "erkennen, wissen":
 
 :::grammar-box
 
@@ -41,7 +43,8 @@ status: stable
 |**3. Person:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
 |**3. Person:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
 
-:::Die Form ⟪जा⟫ die dem Präsensstamm von ⟪ज्ञा⟫ zugrundeliegt, ist entweder durch eine Ablautreihe -ā (Tiefstufe) -nā (Hochstufe) zu erklären, oder durch Dissimilation aus *jñā-nā-ti.
+:::
+Die Form ⟪जा⟫ die dem Präsensstamm von ⟪ज्ञा⟫ zugrundeliegt, ist entweder durch eine Ablautreihe -ā (Tiefstufe) -nā (Hochstufe) zu erklären, oder durch Dissimilation aus *jñā-nā-ti.
 
 Einige Wurzeln auf langen Vokal verkürzen diesen vor dem Präsensstammsuffix der 9. Klasse:
 
@@ -56,13 +59,15 @@ Beispiel:
 |**3. Person:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
 |**3. Person:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
 
-:::Bildung des Partizip Präsens Parasmaipada:
+:::
+Bildung des Partizip Präsens Parasmaipada:
 
 Beispiel:
 
 :::indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
-:::## 30.2. Gebrauch des Optativ (⟪लिङ्⟫)
+:::
+## 30.2. Gebrauch des Optativ (⟪लिङ्⟫)
 
 Der Optativ wird gebraucht:
 
@@ -74,7 +79,8 @@ Der Optativ wird gebraucht:
 *   **eines gemilderten Befehls**
 
 **(hierbei überschneidet sich der Optativ - ⟪लिङ्⟫ - mit dem Imperativ - ⟪लोट्⟫)**
-:::Beispiel:
+:::
+Beispiel:
 
 :::indent
 ⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Der Leibeigene möge ins Dorf kommen"
@@ -86,17 +92,20 @@ Der Optativ wird gebraucht:
 *   **vermutlich**
 
 **dargestellt werden soll.**
-:::Beispiel:
+:::
+Beispiel:
 
 :::indent
 ⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Wenn er aus dem Dorf ginge, würde er den Meister nicht hören"
 ::::::grammar-box
 **3. Relativsätze mit Optativ haben manchmal die Bedeutung: "Wenn jemand ..."**
-:::Beispiel:
+:::
+Beispiel:
 
 :::indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Wenn jemand die Unwahrheit sagen würde, würde er in die Hölle fallen = Wenn jemand Unwahrheit sagt, fällt er in die Hölle"
-:::## 30.3. Sekundärendungen der 3. Personen Singular und Plural
+:::
+## 30.3. Sekundärendungen der 3. Personen Singular und Plural
 
 Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (⟪लुङ्⟫), Prekativ (⟪आशिर्लिङ्⟫) und Konditionalis haben die sog. Sekundärendungen:
 
@@ -107,7 +116,8 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 |**Parasmaipada**|**-t**|athematische Klassen: **-an** oder **-ur** :brOptativ: **-ur**|
 |**Ātmanepada**|**-ta**|athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran**|
 
-:::## 30.4. Bildung des Optativ Präsens (⟪लिङ्⟫)
+:::
+## 30.4. Bildung des Optativ Präsens (⟪लिङ्⟫)
 
 ### 30.4.1. Thematische Präsensklassen
 
@@ -119,7 +129,8 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 **vor vokalisch anlautenden Endungen:**
 
 **Präsensstamm + -i- (» -e-) + -y- + Sekundärendung**
-:::Beispiele:
+:::
+Beispiele:
 
 1\. Präsensklasse:
 
@@ -131,7 +142,8 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 |**3. Person:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
 |**3. Person:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
 
-:::4\. Präsensklasse:
+:::
+4\. Präsensklasse:
 
 ⟪नृत्⟫
 :::grammar-box
@@ -141,7 +153,8 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 |**3. Person:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
 |**3. Person:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
 
-:::6\. Präsensklasse
+:::
+6\. Präsensklasse
 
 ⟪विश्⟫
 :::grammar-box
@@ -151,7 +164,8 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 |**3. Person:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
 |**3. Person:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
 
-:::10\. Präsensklasse und Kausative
+:::
+10\. Präsensklasse und Kausative
 
 ⟪चुर्⟫
 :::grammar-box
@@ -161,7 +175,8 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 |**3. Person:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
 |**3. Person:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
 
-:::### 30.4.2. Athematische Präsensklassen
+:::
+### 30.4.2. Athematische Präsensklassen
 
 :::grammar-box
 **Parasmaipada:**
@@ -171,7 +186,8 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 **Ātmanepada:**
 
 **schwacher Präsensstamm + -ī- + Sekundärendung**
-:::Beispiele:
+:::
+Beispiele:
 
 2\. Präsensklasse:
 
@@ -183,7 +199,8 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 |**3. Person:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
 |**3. Person:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
 
-:::5\. Präsensklasse
+:::
+5\. Präsensklasse
 
 ⟪सु⟫
 :::grammar-box
@@ -193,7 +210,8 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 |**3. Person:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
 |**3. Person:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
 
-:::8\. Präsensklasse
+:::
+8\. Präsensklasse
 
 ⟪तन्⟫
 :::grammar-box
@@ -203,7 +221,8 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 |**3. Person:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
 |**3. Person:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
 
-:::**kṛ** :br(⟪कृ⟫)
+:::
+**kṛ** :br(⟪कृ⟫)
 
 :::grammar-box
 
@@ -219,13 +238,15 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 |**3. Person Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
 |**3. Person Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
 
-:::## 30.5. Sandhi von auslautendem -r
+:::
+## 30.5. Sandhi von auslautendem -r
 
 :::grammar-box
 **Außer für -ar gelten für auslautendes -r dieselben Sandhiregeln wie für auslautendes -s.**
 
 **-ar vor tönenden Lauten bleibt -ar, vor r- aber fällt das -r aus und das -a- wird durch -ā- ersetzt.**
-:::Beispiele:
+:::
+Beispiele:
 
 :::indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
@@ -233,7 +254,8 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 ⟪पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः⟫
 
 ⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
-:::## 30.6. Wortliste
+:::
+## 30.6. Wortliste
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : kaufen
 
@@ -242,7 +264,8 @@ Fut. ⟪क्रेष्यति⟫
 Pass. ⟪क्रीयते⟫  
 PPP ⟪क्रीत⟫  
 Inf. ⟪क्रेतुम्⟫
-:::⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : verkaufen
+:::
+⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : verkaufen
 
 :::indent
 Absol. ⟪विक्रीय⟫
@@ -251,7 +274,8 @@ Absol. ⟪विक्रीय⟫
 Abb.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (Bildquelle: [Details](/licenses#lekt3001))
-:::⟪ज्ञा⟫ 9U ⟪जानाति⟫ : kennen, erkennen, wissen, verstehen
+:::
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : kennen, erkennen, wissen, verstehen
 
 :::indent
 Fut. ⟪ज्ञास्यति⟫  
@@ -271,7 +295,8 @@ davon:
 Abb.: ⟪ज्ञातयः⟫
 Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (Bildquelle: [Details](/licenses#lekt3002))
-:::⟪पू⟫ 9U ⟪पुनाति⟫ : reinigen
+:::
+⟪पू⟫ 9U ⟪पुनाति⟫ : reinigen
 
 :::indent
 Fut. ⟪पविष्यति⟫  
@@ -283,7 +308,8 @@ Inf. ⟪पवितुम्⟫
 ![](/images/lekt3003.webp)
 Abb.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Bildquelle: [Details](/licenses#lekt3003))
-:::⟪अश्⟫ 9P ⟪अश्नाति⟫ : essen, verzehren
+:::
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : essen, verzehren
 
 :::indent
 Fut. ⟪अशिष्यति⟫  
@@ -296,23 +322,27 @@ Inf. ⟪अशितुम्⟫
 Abb.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, Südindien
 (Bildquelle: [Details](/licenses#lekt3005))
-:::⟪प्रिय⟫ ⟪३⟫: lieb, liebend, freundlich
+:::
+⟪प्रिय⟫ ⟪३⟫: lieb, liebend, freundlich
 
 :::media
 ![](/images/lekt3004.webp)
 Abb.: ⟪प्रिया⟫
 (Bildquelle: [Details](/licenses#lekt3004))
-:::⟪चेत्⟫ Konjunktion: wenn; vorausgesetzt, dass (steht nie am Anfang eines Satzes)
+:::
+⟪चेत्⟫ Konjunktion: wenn; vorausgesetzt, dass (steht nie am Anfang eines Satzes)
 
 :::indent
 ⟪न⟫ ⟪चेत्⟫ : wenn nicht
-:::⟪यदि⟫ Konjunktion: wenn
+:::
+⟪यदि⟫ Konjunktion: wenn
 
 :::indent
 ⟪यद्यपि⟫ : wenn auch, selbst wenn, obgleich
 
 ⟪यद्येवम्⟫ : wenn es so ist, unter diesen Umständen
-:::⟪पुनर्⟫ : wieder, immer wieder, zurück, noch einmal, dagegen, aber
+:::
+⟪पुनर्⟫ : wieder, immer wieder, zurück, noch einmal, dagegen, aber
 
 :::indent
 ⟪पुनः⟫ ⟪पुनर्⟫ : immer wieder
@@ -324,7 +354,8 @@ davon:
 ![](/images/lekt2904.webp)
 Abb.: ⟪पुनर्भवः⟫
 (Bildquelle: [Details](/licenses#lekt2904))
-:::⟪जीव्⟫ 1P ⟪जीवति⟫ : leben
+:::
+⟪जीव्⟫ 1P ⟪जीवति⟫ : leben
 
 :::indent
 Fut. ⟪जीविष्यति⟫  
@@ -336,7 +367,8 @@ Inf. ⟪जीवितुम्⟫
 davon:
 
 ⟪जीव⟫ m./n.: Leben, individuelle Seele
-:::⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ewig, unvergänglich, beständig
+:::
+⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ewig, unvergänglich, beständig
 
 ## 30.7. Übung
 

@@ -94,7 +94,8 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 ![](/images/uebung010.webp)
 Ил.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (Източник на изображението: [Подробности](/bg/licenses#uebung010))
-:::---
+:::
+---
 
 ## Повторяща упражнение Урок 5
 

@@ -41,7 +41,8 @@ El padre deseaba la obtención de nietos.
 ![](/images/uebung068.webp)
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung068))
-:::---
+:::
+---
 
 ## Narrativa: La boda de Sītā (⟪सीताविवाहः⟫)
 

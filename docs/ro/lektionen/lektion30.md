@@ -21,7 +21,8 @@ status: stable
     *   înaintea consoanelor: rădăcină în gradul cel mai scăzut + -nī-
         
     *   înaintea vocalelor: rădăcină în gradul cel mai scăzut + -n-
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪क्री⟫ 9U "a cumpăra"
@@ -32,7 +33,8 @@ status: stable
 |**Persoana a 3-a:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
 |**Persoana a 3-a:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
 
-:::La această clasă de prezintă, trebuie acordată o atenție deosebită formării stemei de prezent pentru rădăcina ⟪ज्ञा⟫ 9U "a recunoaște, a ști":
+:::
+La această clasă de prezintă, trebuie acordată o atenție deosebită formării stemei de prezent pentru rădăcina ⟪ज्ञा⟫ 9U "a recunoaște, a ști":
 
 :::grammar-box
 
@@ -41,7 +43,8 @@ status: stable
 |**Persoana a 3-a:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
 |**Persoana a 3-a:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
 
-:::Forma ⟪जा⟫, care stă la baza stemei de prezent a lui ⟪ज्ञा⟫, poate fi explicată fie printr-un sistem de ablaut -ā (gradul cel mai scăzut) -nā (gradul înalt), fie prin disimilare din *jñā-nā-ti.
+:::
+Forma ⟪जा⟫, care stă la baza stemei de prezent a lui ⟪ज्ञा⟫, poate fi explicată fie printr-un sistem de ablaut -ā (gradul cel mai scăzut) -nā (gradul înalt), fie prin disimilare din *jñā-nā-ti.
 
 Unele rădăcini cu vocale lungi le scurtează înainte de sufixul de stemă de prezent al clasei a 9-a:
 
@@ -56,13 +59,15 @@ Exemplu:
 |**Persoana a 3-a:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
 |**Persoana a 3-a:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
 
-:::Formarea participiului de prezent Parasmaipada:
+:::
+Formarea participiului de prezent Parasmaipada:
 
 Exemplu:
 
 :::indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
-:::## 30.2. Utilizarea optativului (⟪लिङ्⟫)
+:::
+## 30.2. Utilizarea optativului (⟪लिङ्⟫)
 
 Optativul este folosit:
 
@@ -74,7 +79,8 @@ Optativul este folosit:
 *   **a unei porunci atenuate**
 
 **(în acest caz, optativul - ⟪लिङ्⟫ - se suprapune cu imperativul - ⟪लोट्⟫)**
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Să vină sclavul în sat"
@@ -86,17 +92,20 @@ Optativul este folosit:
 *   **ca presupus**
 
 **a fi.**
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Dacă ar ieși din sat, nu l-ar auzi pe maestru"
 ::::::grammar-box
 **3. Propozițiile relative cu optativ au uneori sensul: "Dacă cineva ..."**
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Dacă cineva ar spune minciuna, ar cădea în iad = Dacă cineva spune minciuna, cade în iad"
-:::## 30.3. Desinențe secundare ale persoanei a III-a singular și plural
+:::
+## 30.3. Desinențe secundare ale persoanei a III-a singular și plural
 
 Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪लुङ्⟫), prekativul (⟪आशिर्लिङ्⟫) și condiționalul au desinențele numite secundare:
 
@@ -107,7 +116,8 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 |**Parasmaipada**|**-t**|clasele atematic: **-an** sau **-ur**:brOptativ: **-ur**|
 |**Ātmanepada**|**-ta**|clasele atematic: **-ata** (din *nta):brOptativ: **-ran**|
 
-:::## 30.4. Formarea Optativului la Prezent (⟪लिङ्⟫)
+:::
+## 30.4. Formarea Optativului la Prezent (⟪लिङ्⟫)
 
 ### 30.4.1. Clase tematice de prezent
 
@@ -119,7 +129,8 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 **înaintea terminațiilor care încep cu vocală:**
 
 **Stem de prezent + -i- (» -e-) + -y- + terminație secundară**
-:::Exemple:
+:::
+Exemple:
 
 1\. Clasa de prezent:
 
@@ -131,7 +142,8 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 |**Persoana a 3-a:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
 |**Persoana a 3-a:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
 
-:::4\. Clasa de prezent:
+:::
+4\. Clasa de prezent:
 
 ⟪नृत्⟫
 :::grammar-box
@@ -141,7 +153,8 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 |**Persoana a 3-a:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
 |**Persoana a 3-a:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
 
-:::6\. Clasa de prezent
+:::
+6\. Clasa de prezent
 
 ⟪विश्⟫
 :::grammar-box
@@ -151,7 +164,8 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 |**Persoana a 3-a:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
 |**Persoana a 3-a:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
 
-:::10\. Clasa de prezent și cauzativele
+:::
+10\. Clasa de prezent și cauzativele
 
 ⟪चुर्⟫
 :::grammar-box
@@ -161,7 +175,8 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 |**Persoana a 3-a:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
 |**Persoana a 3-a:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
 
-:::### 30.4.2. Clase de prezent atematic
+:::
+### 30.4.2. Clase de prezent atematic
 
 :::grammar-box
 **Parasmaipada:**
@@ -171,7 +186,8 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 **Ātmanepada:**
 
 **tămân de prezent slab + -ī- + terminație secundară**
-:::Exemple:
+:::
+Exemple:
 
 2\. Clasa de prezent:
 
@@ -183,7 +199,8 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 |**Persoana a 3-a:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
 |**Persoana a 3-a:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
 
-:::5\. Clasa de prezent
+:::
+5\. Clasa de prezent
 
 ⟪सु⟫
 :::grammar-box
@@ -193,7 +210,8 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 |**Persoana a 3-a:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
 |**Persoana a 3-a:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
 
-:::8\. Clasa de prezent
+:::
+8\. Clasa de prezent
 
 ⟪तन्⟫
 :::grammar-box
@@ -203,7 +221,8 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 |**Persoana a 3-a:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
 |**Persoana a 3-a:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
 
-:::**kṛ**:br(⟪कृ⟫)
+:::
+**kṛ**:br(⟪कृ⟫)
 
 :::grammar-box
 
@@ -219,13 +238,15 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 |**Persoana a 3-a Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
 |**Persoana a 3-a Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
 
-:::## 30.5. Sandhi al sunetelor finale -r
+:::
+## 30.5. Sandhi al sunetelor finale -r
 
 :::grammar-box
 **În afară de -ar, regulile de Sandhi pentru sunetele finale -r sunt aceleași ca pentru sunetele finale -s.**
 
 **-ar înainte de sunete voilate rămâne -ar, dar înainte de r- se pierde -r, iar -a- este înlocuit cu -ā-.**
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
@@ -233,7 +254,8 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 ⟪पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः⟫
 
 ⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
-:::## 30.6. Listă de cuvinte
+:::
+## 30.6. Listă de cuvinte
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : cumpăra
 
@@ -242,7 +264,8 @@ Fut. ⟪क्रेष्यति⟫
 Pass. ⟪क्रीयते⟫  
 PPP ⟪क्रीत⟫  
 Inf. ⟪क्रेतुम्⟫
-:::⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : vinde
+:::
+⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : vinde
 
 :::indent
 Absol. ⟪विक्रीय⟫
@@ -251,7 +274,8 @@ Absol. ⟪विक्रीय⟫
 Fig.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3001))
-:::⟪ज्ञा⟫ 9U ⟪जानाति⟫ : cunoaște, recunoaște, ști, înțelege
+:::
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : cunoaște, recunoaște, ști, înțelege
 
 :::indent
 Fut. ⟪ज्ञास्यति⟫  
@@ -271,7 +295,8 @@ din care:
 Fig.: ⟪ज्ञातयः⟫
 Darewadi, Districtul Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3002))
-:::⟪पू⟫ 9U ⟪पुनाति⟫ : curăța
+:::
+⟪पू⟫ 9U ⟪पुनाति⟫ : curăța
 
 :::indent
 Fut. ⟪पविष्यति⟫  
@@ -283,7 +308,8 @@ Inf. ⟪पवितुम्⟫
 ![](/images/lekt3003.webp)
 Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3003))
-:::⟪अश्⟫ 9P ⟪अश्नाति⟫ : mânca, consuma
+:::
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : mânca, consuma
 
 :::indent
 Fut. ⟪अशिष्यति⟫  
@@ -296,23 +322,27 @@ Inf. ⟪अशितुम्⟫
 Fig.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, India de Sud
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3005))
-:::⟪प्रिय⟫ ⟪३⟫: iubit, iubitor, prietenos
+:::
+⟪प्रिय⟫ ⟪३⟫: iubit, iubitor, prietenos
 
 :::media
 ![](/images/lekt3004.webp)
 Fig.: ⟪प्रिया⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3004))
-:::⟪चेत्⟫ Conjuncție: dacă; cu condiția ca (nu apare niciodată la începutul unei propoziții)
+:::
+⟪चेत्⟫ Conjuncție: dacă; cu condiția ca (nu apare niciodată la începutul unei propoziții)
 
 :::indent
 ⟪न⟫ ⟪चेत्⟫ : dacă nu
-:::⟪यदि⟫ Conjuncție: dacă
+:::
+⟪यदि⟫ Conjuncție: dacă
 
 :::indent
 ⟪यद्यपि⟫ : chiar dacă, deși, chiar și dacă
 
 ⟪यद्येवम्⟫ : dacă este așa, în aceste circumstanțe
-:::⟪पुनर्⟫ : din nou, din nou și din nou, înapoi, din nou, în schimb, dar
+:::
+⟪पुनर्⟫ : din nou, din nou și din nou, înapoi, din nou, în schimb, dar
 
 :::indent
 ⟪पुनः⟫ ⟪पुनर्⟫ : din nou și din nou
@@ -324,7 +354,8 @@ din care:
 ![](/images/lekt2904.webp)
 Fig.: ⟪पुनर्भवः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2904))
-:::⟪जीव्⟫ 1P ⟪जीवति⟫ : trăi
+:::
+⟪जीव्⟫ 1P ⟪जीवति⟫ : trăi
 
 :::indent
 Fut. ⟪जीविष्यति⟫  
@@ -336,7 +367,8 @@ Inf. ⟪जीवितुम्⟫
 din care:
 
 ⟪जीव⟫ m./n.: viață, suflet individual
-:::⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : etern, veșnic, durabil
+:::
+⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : etern, veșnic, durabil
 
 ## 30.7. Exercițiu
 

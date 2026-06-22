@@ -76,7 +76,8 @@ Considerations of the Parrot **⟪वैशम्पायन⟫** on the life o
 ![](/images/uebung086.webp)
 Fig.: Hunter
 (Image source: [Details](/en/licenses#uebung086))
-:::---
+:::
+---
 
 ## ⟪४⟫. Commentary of the ⟪भानुचन्द्र⟫ (⟪१६⟫. Cent.)
 

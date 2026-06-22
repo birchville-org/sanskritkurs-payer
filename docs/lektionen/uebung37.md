@@ -123,7 +123,8 @@ C) Bestimmen und übersetzen Sie folgende Komposita:
 ![](/images/uebung062.webp)
 Abb.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Bildquelle: [Details](/licenses#uebung062))
-:::---
+:::
+---
 
 ## Narratives Perfekt (Die Geschichte vom Greis)
 

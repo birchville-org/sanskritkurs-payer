@@ -16,7 +16,8 @@ status: stable
 - La formazione del PPP
 - Le leggi della combinazione fonetica nella parola
 - Il passivo e il PPP delle radici finora studiate
-:::---
+:::
+---
 
 ## 12.1. Participio Perfetto Passivo (PPP)
 
@@ -24,7 +25,8 @@ Un modo per formare frasi passive al passato è la costruzione con il cosiddetto
 
 :::grammar-box
 **In realtà, il PPP non è un vero participio, poiché non viene formato da una radice temporale. È piuttosto una formazione nominale della radice con il suffisso primario -ta o -na. Pertanto, nella grammatica indiana si parla del suffisso kta.**
-:::---
+:::
+---
 
 ### 12.1.1. Schema per i verbi transitivi
 
@@ -39,7 +41,8 @@ Esempi:
 > **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = "(Dal santo è stato ottenuto un cielo) = Il santo ha ottenuto un cielo."
 > 
 > **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = "(Dal brāhmaṇo è stata venerata la dea con un sacrificio) = Il brāhmaṇo ha venerato la dea con un sacrificio."
-:::---
+:::
+---
 
 ### 12.1.2. Schema I per i verbi intransitivi e i verbi di movimento
 
@@ -50,7 +53,8 @@ In questo caso, il PPP concorda con l'Agente in numero, caso e genere. Il Partic
 
 Esempio:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "La donna Kṣatriya è andata in città."
-:::---
+:::
+---
 
 ### 12.1.3. Schema II per i verbi intransitivi e i verbi di movimento
 
@@ -61,7 +65,8 @@ Esempio:
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Dal Kṣatriya è stato (nella città) andato) = Il Kṣatriya è (nella città) andato.“
 
 La costruzione secondo lo Schema II è molto più rara rispetto alla costruzione secondo lo Schema I.
-:::---
+:::
+---
 
 ## 12.2. Sul significato del PPP
 
@@ -86,7 +91,8 @@ Si riscontrano le seguenti modalità di formazione (per ogni radice va appreso i
 - **+ -na**
 
 I temi femminili sono: **-tā**, **-itā**, **-nā**; il neutro declina come **phala** n.
-:::---
+:::
+---
 
 ### 12.3.1. PPP su -ta (kta)
 
@@ -98,7 +104,8 @@ I temi femminili sono: **-tā**, **-itā**, **-nā**; il neutro declina come **p
 Senza vocale di collegamento si forma il PPP in generale dalle radici che terminano in vocale, nonché da molte altre radici, senza che si possa dare una regola fissa su quali radici strutturate abbiano o meno la vocale di collegamento.
 
 Un elenco delle radici *aniṭ* si trova in Kielhorn, *Grammatik* § 298.
-:::**Esempi:**
+:::
+**Esempi:**
 
 :::grammar-box
 | Radice | PPP (kta) |
@@ -115,7 +122,8 @@ Un elenco delle radici *aniṭ* si trova in Kielhorn, *Grammatik* § 298.
 | **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta**:br(⟪कृत⟫) |
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (&lt; \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa**:br(⟪इष्ट⟫) |
-:::#### 12.3.1.2. Con vocale di collegamento -i- (seṭ)
+:::
+#### 12.3.1.2. Con vocale di collegamento -i- (seṭ)
 
 *seṭ* = *sa-iṭ* = „con (*sa-*) la *t* prefissa al suffisso (*-i-*)“ (cioè con la vocale di collegamento *i*).
 
@@ -128,7 +136,8 @@ Un elenco delle radici *aniṭ* si trova in Kielhorn, *Grammatik* § 298.
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta**:br(⟪खादित⟫) |
 | **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta**:br(⟪रक्षित⟫) |
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (&lt; \*vd-i-ta):br(⟪उदित⟫) |
-:::---
+:::
+---
 
 ## 12.4. Leggi della combinazione fonetica nella parola
 
@@ -146,7 +155,8 @@ Nelle formazioni *aniṭ* si devono osservare le seguenti leggi della combinazio
 | **5. jt viene sostituito da kt o ṣṭ (non facoltativo!):** | **yuj + ta » yuk-ta** = **⟪युक्त⟫**:br**yaj + ta » iṣ-ṭa** = **⟪इष्ट⟫** (&lt; \*yj-ta):br**sṛj + ta » sṛṣ-ṭa** = **⟪सृष्ट⟫**:br**sṛj + ti » sṛṣ-ṭi** = **⟪सृष्टि⟫** |
 | **6. Un'occlusiva sonora aspirata + un'occlusiva sorda » un'occlusiva sonora non aspirata + un'occlusiva sonora aspirata (Legge dell'aspirazione di Bartholomae):** | **bh-t » b-dh:**:br**labh + ta » lab-dha** = **⟪लब्ध⟫**:br**dh-t » d-dh:**:br**budh + ta » bud-dha** = **⟪बुद्ध⟫**:br**yudh + ta » yud-dha** = **⟪युद्ध⟫**:br**krudh + ta » krud-dha** = **⟪क्रुद्ध⟫** |
 | **7. h-t viene sostituito da ḍh con allungamento di una precedente i o u; oppure da gdh. Davanti a un tale ḍh, a viene sostituito da o, raramente da ā:** | **dah + ta » dag-dha** = **⟪दग्ध⟫**:br**guh + ta » gūḍha** = **⟪गूढ⟫** (guh 1 (gūhati) „nascondere qualcosa”):br**muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫**:br**sah + ta » soḍha** = **⟪सोढ⟫** |
-:::::::---
+:::::::
+---
 
 ## 12.5. Elenco di parole
 
@@ -156,7 +166,8 @@ Nelle formazioni *aniṭ* si devono osservare le seguenti leggi della combinazio
 ![](/images/lekt1201.webp)
 Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1201))
-:::- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (qualcosa) bruciare
+:::
+- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (qualcosa) bruciare
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : superare, sopportare, sopportare pazientemente = perdonare
 - **mṛga** m. ⟪मृग⟫ : animale selvatico
 - **mārga** m. ⟪मार्ग⟫ : via (i percorsi erano spesso i sentieri delle bestie)
@@ -165,7 +176,8 @@ Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 ![](/images/lekt1202.webp)
 Fig.: ⟪मार्गः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1202))
-:::- **api** ⟪अपि⟫ : anche (postposto)
+:::
+- **api** ⟪अपि⟫ : anche (postposto)
 
 Per la 6ª classe del presente, i grammatici indigeni contano alcune radici che formano il tema del presente con il nasale infix e la vocale tematica a, ad esempio:
 
@@ -182,7 +194,8 @@ Per la formazione delle parole:
 ![](/images/lekt1203.webp)
 Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1203))
-:::- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : conoscenza, organo della conoscenza.
+:::
+- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : conoscenza, organo della conoscenza.
 
 ---
 

@@ -80,7 +80,8 @@ Il vénère la divinité personnelle du Vaiśya méritoire.
 ![](/images/uebung023.webp)
 Légende : ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#uebung023))
-:::---
+:::
+---
 
 ## Modèles de déclinaison
 
@@ -217,7 +218,8 @@ A) Formez tous les cas appris jusqu'à présent pour les mots suivants, à titre
 | 2. Akk. | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
 | 3. Instr. | ⟪अनेन⟫ / ⟪एनेन⟫ | — | ⟪अनया⟫ / ⟪एनया⟫ | ⟪एभिस्⟫ (⟪एभिः⟫) | — | ⟪आभिस्⟫ (⟪आभिः⟫) |
 | 6. Gen. | ⟪अस्य⟫ | — | ⟪अस्यास्⟫ (⟪अस्याः⟫) | ⟪एषाम्⟫ | — | ⟪आसाम्⟫ |
-:::---
+:::
+---
 
 ## Exercices supplémentaires
 
@@ -250,7 +252,8 @@ La fonction de tous est : non-violence, véracité, pureté, ne pas se plaindre 
 Phrase 7 : **⟪कृषिपाशुपाल्ये⟫** duel, nom. acc. : dvandva, désignant les deux "choses"
 Phrase 8 : **⟪कर्म⟫** nom., acc. sg. neutre à ⟪कर्मन्⟫ "acte"
 Phrase 13 : **⟪सर्वेषाम्⟫** gén. pl. masc. à ⟪सर्व⟫ "chaque, tous" (pronom, ne se décline pas comme deva)
-:::⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
+:::
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 Le bâton provoque l'acquisition et la possession sûre de la philosophie, de la védologie et de l'économie. La direction du bâton est la politique.
 

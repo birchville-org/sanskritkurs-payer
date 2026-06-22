@@ -74,7 +74,8 @@ B) பின்வரும் தத்புருஷாவைத் தீர
 ![](/images/uebung014.webp)
 Abb.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 (Bildquelle: [Details](/licenses#uebung014))
-:::---
+:::
+---
 
 ## கூடுதல் பயிற்சிகள்
 

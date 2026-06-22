@@ -76,7 +76,8 @@ Ein Śūdra ist Knecht der Zweimalgeborenen.
 ![](/images/uebung025.webp)
 מקור: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (מקור התמונה: [פרטים](/licenses#uebung025))
-:::---
+:::
+---
 
 ## תרגיל צורות פועל
 

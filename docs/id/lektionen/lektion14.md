@@ -13,7 +13,8 @@ status: stable
 
 :::grammar-box
 If the relationship expressed by two nouns is to be designated, the genitive (ṣaṣṭhī f. "sixth case ending") is used. The genitive differs from all other cases in that it -- with few exceptions -- does not serve for the closer determination of the action expressed by the verb, but for the expression of the relationship between persons or things designated by nouns. Frequently the genitive stands in answer to the question: Whose?
-:::Examples:
+:::
+Examples:
 
 ⟪कवेः⟫ ⟪पुत्रः⟫ "The poet's son"
 
@@ -27,7 +28,8 @@ If the relationship expressed by two nouns is to be designated, the genitive (�
 The normal word order is:
 
 > **Determining word in the genitive — Further specified noun in another case**
-:::**Genitive and PPP:**
+:::
+**Genitive and PPP:**
 
 :::grammar-box
 With PPPs, the genitive can stand instead of the instrumental (tṛtīyā) for the agent (kartṛ); In the construction with the instrumental, the PPP is regarded as a passive verbal form (that standing in the instrumental designates the agent), in the construction with the genitive, the PPP is regarded as a noun or adjective (that standing in the genitive is thus not actually an agent).
@@ -39,7 +41,8 @@ According to Pāṇini 2.3.67, with a PPP the genitive stands if the PPP has pre
 > ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "The fruit that Rāma has desired"
 
 Naturally, with a PPP neuter singular, which is used as a verbal abstract -- i.e. as a noun -- the genitive stands.
-:::## 14.2. Formation of Genitive Forms (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+:::
+## 14.2. Formation of Genitive Forms (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 The genitive is formed for verbal stems with stem gradation from the weak stem.
 
@@ -51,14 +54,16 @@ After a consonant, the regular genitive endings are:
 * Singular: **-as**
 * Plural: **-ām**
 
-:::center
+:::
+center
 
 | Nominal Stem | Weak Stem | Genitive Singular | Genitive Plural |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-**:br**⟪गुणवन्त्⟫** | **guṇa-vat-**:br**⟪गुणवत्⟫** | **guṇa-vat-as**:br**⟪गुणवतस्⟫** | **guṇa-vat-ām**:br**⟪गुणवताम्⟫** |
 | **paśu-mant-**:br**⟪पशुमन्त्⟫** | **paśu-mat-**:br**⟪पशुमत्⟫** | **paśu-mat-as**:br**⟪पशुमतस्⟫** | **paśu-mat-ām**:br**⟪पशुमताम्⟫** |
 
-:::::::**Genitive of vowel-ending stems, except for monosyllabic root nouns and diphthong-ending stems:**
+:::::::
+**Genitive of vowel-ending stems, except for monosyllabic root nouns and diphthong-ending stems:**
 
 **Plural:**
 
@@ -68,7 +73,8 @@ The genitive plural of vowel-ending stems is formed as follows:
 
 > **-long vowel of the stem + -nām**
 
-:::center
+:::
+center
 
 | Nominal Stem | Genitive Plural |
 | :--- | :--- |
@@ -81,13 +87,15 @@ The genitive plural of vowel-ending stems is formed as follows:
 | **paśu** m.:br**⟪पशु⟫** | **paśū-nām**:br**⟪पशूनाम्⟫** |
 | **dhenu** f.:br**⟪धेनु⟫** | **dhenū-nām**:br**⟪धेनूनाम्⟫** |
 
-:::::::**Genitive Singular of vowel-ending stems:**
+:::::::
+**Genitive Singular of vowel-ending stems:**
 
 ::::grammar-box
 
 The genitive singular of vowel-ending stems is formed irregularly and must be memorized well.
 
-:::center
+:::
+center
 
 | Stem | Genitive Singular |
 | :--- | :--- |
@@ -100,11 +108,13 @@ The genitive singular of vowel-ending stems is formed irregularly and must be me
 | **śruti** f.:br**⟪श्रुति⟫** | **śrutes / śrutyās**:br**⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫**:br(i.e. either like kavi or like devī) |
 | **dhenu** f.:br**⟪धेनु⟫** | **dhenos / dhenvās**:br**⟪धेनोस्⟫ / ⟪धेन्वास्⟫**:br(i.e. either like paśu or like polysyllabic feminines ending in -ū) |
 
-:::::::**Interrogative and Demonstrative Pronouns:**
+:::::::
+**Interrogative and Demonstrative Pronouns:**
 
 ::::grammar-box
 
-:::center
+:::
+center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -114,15 +124,18 @@ The genitive singular of vowel-ending stems is formed irregularly and must be me
 
 | | **Genitive Plural** | kāsām:br**⟪कासाम्⟫** | tāsām:br**⟪तासाम्⟫** | etāsām:br**⟪एतासाम्⟫** | āsām:br**⟪आसाम्⟫** |
 
-:::::::**Formal Identity:**
+:::::::
+**Formal Identity:**
 
-:::important
+:::
+important
 
 For all nominal stems except masculines and neuters ending in -a, and except for pronouns, the form of the Genitive Singular is identical to that of the Ablative (pañcamī "fifth case ending") Singular!
 
 Note that for stems ending in a consonant, the Ablative and Genitive Singular sound the same as the Accusative Plural Masculine and Feminine!
 
-:::## 14.3. Further on the Use of the Genitive (⟪षष्ठी⟫)
+:::
+## 14.3. Further on the Use of the Genitive (⟪षष्ठी⟫)
 
 :::grammar-box
 Contrary to the basic rule above, the genitive is used to express the object of certain verbs, e.g. verbs of remembrance:
@@ -134,7 +147,8 @@ With all these verbs, however, the object can also be in the accusative:
 > ⟪देवान्स्मरति⟫ "He remembers the gods"
 
 More on this later.
-:::## 14.4. Word List
+:::
+## 14.4. Word List
 
 * **śīla n.** (⟪शील⟫) : (good) character, morality
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : jewelry
@@ -144,7 +158,8 @@ More on this later.
 ![](/images/lekt1405.webp)
 Fig.: ⟪दीपाः⟫
 (Image source: [Details](/en/licenses#lekt1405))
-:::* **bala n.** (⟪बल⟫) : violence, power, strength; military force, army
+:::
+* **bala n.** (⟪बल⟫) : violence, power, strength; military force, army
 * **bāla 3** (⟪बाल⟫) : young, childish, foolish; m. boy
 * **bālā f.** (⟪बाला⟫) : young girl
 * **nara m.** (⟪नर⟫) : man, human being
@@ -230,7 +245,8 @@ Translate the following proverbs and memorize them:
 ![](/images/lekt1404.webp)
 Fig.: ⟪पुत्रवती⟫
 (Image source: [Details](/en/licenses#lekt1404))
-:::⟪२६⟫. ⟪जल⟫
+:::
+⟪२६⟫. ⟪जल⟫
 
 ⟪२७⟫. ⟪मार्ग⟫
 
@@ -290,7 +306,8 @@ Fig.: ⟪पुत्रवती⟫
 ![](/images/lekt1403.webp)
 Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#lekt1403))
-:::**B) Translate:**
+:::
+**B) Translate:**
 
 ⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 possibilities)
 

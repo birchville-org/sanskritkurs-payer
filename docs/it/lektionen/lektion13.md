@@ -22,7 +22,8 @@ Quasi tutte le radici che terminano in -d formano il PPP su -na-. In questo caso
 Esempio:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
-:::---
+:::
+---
 
 ## 13.2. Ulteriori informazioni sull'uso del PPP
 
@@ -68,7 +69,8 @@ Esempio:
 
 :::indent
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Un santo vede il frutto desiderato (delle sue opere)."
-:::::::---
+:::::::
+---
 
 ## 13.4. Formazione di aggettivi in -mant e -vant (taddhita)
 
@@ -84,7 +86,8 @@ Esempi:
 ⟪पशुमन्त्⟫ "che possiede bestiame"
 
 ⟪गुणवन्त्⟫ "che possiede buone qualità / virtù"
-:::::::---
+:::::::
+---
 
 ## 13.5. Classi di declinazione dei sostantivi
 
@@ -92,7 +95,8 @@ Le radici in -mant o -vant appartengono alle radici nominali con classe di decli
 
 :::grammar-box
 Nelle radici nominali con classe di declinazione si distingue tra casi forti (casi) e casi deboli. Nei casi forti, il suffisso formante la radice — nei nomi radicali, la componente radicale — ha il grado pieno o il grado allungato, nei casi deboli il grado ridotto.
-:::**I casi forti sono:**
+:::
+**I casi forti sono:**
 
 | | Singolare:br⟪एकवचन⟫ | Duale:br⟪द्विवचन⟫ | Plurale:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
@@ -103,7 +107,8 @@ Nelle radici nominali con classe di declinazione si distingue tra casi forti (ca
 
 :::grammar-box
 Come primo elemento di un composto, un sostantivo con classe di declinazione si trova nella radice debole (nei nomi tri-radicali, nel cosiddetto medio).
-:::---
+:::
+---
 
 ## 13.6. Sul Wortsandhi
 
@@ -136,7 +141,8 @@ Per le radici con terminazione consonantica:
 * nelle radici formate regolarmente, il neutro è privo di desinenza nel nominativo (prathamā) e nell'accusativo (dvitīyā) singolare.
 * nelle radici formate regolarmente, nel neutro la desinenza del nominativo e dell'accusativo plurale è -i.
 
-:::---
+:::
+---
 
 ## 13.8. Declinazione dei temi in -mant e -vant
 
@@ -161,7 +167,8 @@ Il tema femminile dei temi in -mant- e -vant- termina in -mat-ī o -vat-ī. La d
 Esempio:
 * paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
 
-:::---
+:::
+---
 
 ## 13.9. Elenco delle parole
 
@@ -186,7 +193,8 @@ Imparate le seguenti parole:
 ![](/images/lekt1301.webp)
 Fig.: ⟪महिषासुरः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1301))
-:::- **guṇa** m. ⟪गुण⟫ : filo, corda; proprietà, buona proprietà
+:::
+- **guṇa** m. ⟪गुण⟫ : filo, corda; proprietà, buona proprietà
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : andare, cadere in
 - **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : essere, essere presente
 - **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : lanciare, (lontano-)gettare
@@ -195,7 +203,8 @@ Fig.: ⟪महिषासुरः⟫
 
 :::indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : bere (tradizionalmente calcolato alla 1. classe)
-:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : odiare, inimicarsi
+:::
+- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : odiare, inimicarsi
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : mangiare, consumare
 - **anna** n. ⟪अन्न⟫ : cibo (da PPP: *ad-na: il mangiato)
 
@@ -203,7 +212,8 @@ Fig.: ⟪महिषासुरः⟫
 ![](/images/lekt1304.webp)
 Fig.: ⟪अन्नम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1304))
-:::Formazione delle parole:
+:::
+Formazione delle parole:
 
 pad 4 Ā:
 
@@ -215,11 +225,13 @@ pad 4 Ā:
 ![](/images/lekt1303.webp)
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1303))
-:::dviṣ 2 U:
+:::
+dviṣ 2 U:
 
 :::indent
 **dveṣa** ⟪द्वेष⟫ : odio
-:::---
+:::
+---
 
 ## 13.10. Esercizio
 
@@ -233,7 +245,8 @@ A) Tradurre e trasformare in frasi al presente attivo:
 ![](/images/lekt1305.webp)
 Fig.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1305))
-:::⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 possibilità)
+:::
+⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 possibilità)
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
@@ -290,7 +303,8 @@ C) Formare una costruzione PPP per le frasi dell'esercizio A).
 ![](/images/lekt1302.webp)
 Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1302))
-:::D) Da quali combinazioni di suoni possono essere derivate le seguenti forme Sandhi? Fornire tutte le possibilità:
+:::
+D) Da quali combinazioni di suoni possono essere derivate le seguenti forme Sandhi? Fornire tutte le possibilità:
 
 1. -a davanti a vocale (eccetto a-)
 2. -ā-

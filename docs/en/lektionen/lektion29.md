@@ -18,7 +18,8 @@ status: stable
 **In the causative, the Ātmanepada (⟪आत्मनेपद⟫) is used:**
 
 **1. When the result of the caused action benefits the causer:**
-:::Example:
+:::
+Example:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma has a mat made for himself (in his own interest)"
 
@@ -41,7 +42,8 @@ Prefixes:
 ⟪उद्⟫° : up, upward, aloft, out, out-
 
 ⟪परि⟫° : around, about (place, time), about
-:::⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (to become around someone = to encircle =) to master, to conquer; to disregard, to despise
+:::
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (to become around someone = to encircle =) to master, to conquer; to disregard, to despise
 
 ⟪अवज्ञान⟫ n.: disregard
 
@@ -57,7 +59,8 @@ Pass. ⟪ग्रस्यते⟫
 Caus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
-:::⟪तीक्ष्ण⟫ 3: "wild", sharp, keen, strict, fierce, sharp-tongued
+:::
+⟪तीक्ष्ण⟫ 3: "wild", sharp, keen, strict, fierce, sharp-tongued
 
 ⟪न्याय⟫ m.: norm, rule, right manner; method, logic (from ⟪इ⟫ + ⟪नि⟫)
 
@@ -68,7 +71,8 @@ Inf. ⟪ग्रसितुम्⟫
 Fig.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Image source: [Details](/en/licenses#lekt2903))
-:::⟪पालयति⟫ : also synonymous with  ⟪पाति⟫
+:::
+⟪पालयति⟫ : also synonymous with  ⟪पाति⟫
 
 ⟪पुनर्⟫ Indecl.: again, again and again, back, once more; however, but (before voiced sounds except r-: ⟪पुनर्⟫)
 
@@ -83,7 +87,8 @@ from which:
 ![](/images/lekt2901.webp)
 Fig.: ⟪मत्स्यः⟫
 (Image source: [Details](/en/licenses#lekt2901))
-:::⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): gentle, mild, soft; slow, weak
+:::
+⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): gentle, mild, soft; slow, weak
 
 ⟪यथा⟫ Adv.: how, as if
 
@@ -95,7 +100,8 @@ Pass. ⟪रम्यते⟫
 Caus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
-:::⟪वानप्रस्थ⟫ m.: forest hermit (someone who is in the 3rd ⟪आश्रम⟫)
+:::
+⟪वानप्रस्थ⟫ m.: forest hermit (someone who is in the 3rd ⟪आश्रम⟫)
 
 ⟪शुचि⟫ 3: shining, gleaming, fine; m.: purity
 
@@ -103,7 +109,8 @@ Inf. ⟪रन्तुम्⟫
 
 :::indent
 PPP ⟪पूजित⟫
-:::## 29.3. Translation Exercise for Review
+:::
+## 29.3. Translation Exercise for Review
 
 Translate word-for-word into good German and memorize the Sanskrit texts:
 
@@ -139,7 +146,8 @@ Explanation: ⟪आत्मसु⟫ = Loc. sg. of ⟪आत्मन्⟫ m. 
 ![](/images/lekt2902.jpg)
 Fig.: ⟪मात्स्यन्याय⟫:
 (Image source: [Details](/en/licenses#lekt2902))
-:::Explanations:
+:::
+Explanations:
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "something (someone) before whom one must shudder"
 

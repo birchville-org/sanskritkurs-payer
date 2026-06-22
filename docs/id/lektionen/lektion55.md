@@ -23,7 +23,8 @@ status: stable
 **The Ātmanepada is rare; for Ubhayapada roots it is mostly formed according to other aorist classes (see Kielhorn, Grammar §340 and below under the corresponding aorist classes).**
 
 **List of roots that have this aorist, in Kielhorn, Grammar §340.**
-:::Example:
+:::
+Example:
 
 ⟪सिच्⟫ 6U "to sprinkle"
 
@@ -34,7 +35,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪असिचम्⟫ | ⟪असिचाम⟫ | ⟪असिचे⟫ | ⟪असिचामहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
-:::Irregular formations:
+:::
+Irregular formations:
 
 :::indent
 ⟪अस्⟫ 4P "to throw": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Explanation see Thumb-Hauschild §541,4)
@@ -42,11 +44,13 @@ status: stable
 ⟪ख्या⟫ + ⟪आ⟫ 2P "to tell": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
 
 ⟪दृश्⟫ "to see": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (Strong grade!)
-:::Note:
+:::
+Note:
 
 :::indent
 ⟪शास्⟫ 2P "to command": ⟪अशिषत्⟫ (regular zero-grade!)
-:::## 55.2. Exercise
+:::
+## 55.2. Exercise
 
 Determine and translate the following forms in writing, and form the corresponding aorist forms:
 

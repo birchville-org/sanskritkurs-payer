@@ -14,7 +14,8 @@ last_reconstructed: 2026-05-21
 | **Desinencias primarias** | -si | -tha | -se | -dhve |
 | **Desinencias secundarias** | -s | -ta | -thās | -dhvam |
 | **Desinencias del perfecto** | -tha | -a | -se | -dhve |
-:::Obsérvese que la desinencia secundaria de la segunda persona del plural es idéntica a la desinencia secundaria de la tercera persona del singular de la voz media (⟪आत्मनेपदम्⟫).
+:::
+Obsérvese que la desinencia secundaria de la segunda persona del plural es idéntica a la desinencia secundaria de la tercera persona del singular de la voz media (⟪आत्मनेपदम्⟫).
 
 ## 43.2. Formación de las formas verbales de la segunda persona (⟪मध्यमः⟫)
 
@@ -27,7 +28,8 @@ Segunda persona:
 
 :::media
 ![](/images/lekt4301.jpg)
-:::La 3.ª persona singular del imperfecto y optativo de la voz activa (parasmaipada) es formalmente idéntica a la 2.ª persona plural del imperfecto y optativo de la voz media (atmanepada).
+:::
+La 3.ª persona singular del imperfecto y optativo de la voz activa (parasmaipada) es formalmente idéntica a la 2.ª persona plural del imperfecto y optativo de la voz media (atmanepada).
 
 #### 43.2.1.1. Primera clase de presente (⟪भ्वादि⟫ bhvādi)
 
@@ -118,11 +120,13 @@ Segunda persona:
 | **⟪पञ्चमी⟫** | ⟪त्वत्⟫ | ⟪युष्मत्⟫ |
 | **⟪षष्ठी⟫** | ⟪तव⟫ ⟪ते⟫ | ⟪युष्माकम्⟫ ⟪वस्⟫ |
 | **⟪सप्तमी⟫** | ⟪त्वयि⟫ | ⟪युष्मासु⟫ |
-:::Las formas ⟪त्वा⟫, te y ⟪वस्⟫ no deben emplearse al inicio de una oración o de un verso. Asimismo, no pueden utilizarse delante de las partículas ⟪च⟫, ⟪वा⟫, ⟪एव⟫ y otras similares:
+:::
+Las formas ⟪त्वा⟫, te y ⟪वस्⟫ no deben emplearse al inicio de una oración o de un verso. Asimismo, no pueden utilizarse delante de las partículas ⟪च⟫, ⟪वा⟫, ⟪एव⟫ y otras similares:
 
 :::indent
 ⟪त्वां⟫ ⟪मां⟫ ⟪च⟫ "a ti y a mí"
-:::## 43.4. Lista de vocabulario
+:::
+## 43.4. Lista de vocabulario
 
 ⟪ज्ञा⟫ + ⟪आ⟫ Caus. ⟪आज्ञापयति⟫ : ordenar, disponer
 
@@ -132,7 +136,8 @@ Segunda persona:
 ![](/images/lekt4302.webp)
 Fig.: ⟪आपणः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4302))
-:::⟪सत्वर⟫ 3: rápido, apresurado
+:::
+⟪सत्वर⟫ 3: rápido, apresurado
 
 ⟪पण्य⟫ 3: vendible; n.: mercancía, comercio
 
@@ -140,7 +145,8 @@ Fig.: ⟪आपणः⟫
 ![](/images/lekt4303.webp)
 Fig.: ⟪पण्यानि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4303))
-:::⟪आम्⟫ : sí
+:::
+⟪आम्⟫ : sí
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -162,13 +168,15 @@ Fig.: ⟪पण्यानि⟫
 ![](/images/lekt4304.webp)
 Fig.: ⟪विपणिः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4304))
-:::⟪वणिज्⟫ m.: comerciante
+:::
+⟪वणिज्⟫ m.: comerciante
 
 :::media
 ![](/images/lekt4305.webp)
 Fig.: ⟪वणिक्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4305))
-:::⟪वर⟫ 3: mejor
+:::
+⟪वर⟫ 3: mejor
 
 ⟪शीघ्र⟫ 3: rápido, veloz
 
@@ -178,7 +186,8 @@ Fig.: ⟪वणिक्⟫
 ![](/images/lekt4306.webp)
 Fig.: ⟪वत्सः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4306))
-:::⟪उत्तम⟫ 3: supremo, mejor
+:::
+⟪उत्तम⟫ 3: supremo, mejor
 
 ⟪अल्प⟫ 3: pequeño, escaso
 
@@ -198,7 +207,8 @@ Fig.: ⟪वत्सः⟫
 ![](/images/lekt4307.webp)
 Fig.: ⟪तोलन्ति⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4307))
-:::⟪कर्गल⟫ n.: papel
+:::
+⟪कर्गल⟫ n.: papel
 
 ⟪संपुट⟫ m.: caja (aquí: paquete, fardo)
 
@@ -218,7 +228,8 @@ Kaus. ⟪द्रावयति⟫
 PPP ⟪द्रुत⟫  
 Absol. -⟪द्रुत्य⟫  
 Inf. ⟪द्रोतुम्⟫
-:::⟪रे⟫ Interjección: ¡Oye! ¡Tú ahí!
+:::
+⟪रे⟫ Interjección: ¡Oye! ¡Tú ahí!
 
 ⟪अन्यद्⟫ 3: otro (declinación como ⟪यद्⟫ )
 
@@ -317,7 +328,8 @@ B) Traduzca al sánscrito:
 ![](/images/lekt4308.webp)
 Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4308))
-:::## 43.6. ⟪संवादः⟫ = Diálogo
+:::
+## 43.6. ⟪संवादः⟫ = Diálogo
 
 | ⟪संवादः⟫ | Explicaciones |
 | --- | --- |

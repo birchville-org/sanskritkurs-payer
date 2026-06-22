@@ -111,7 +111,8 @@ Eating, sleeping, fear, and sex are shared by humans and cattle. The distinguish
 ![](/images/uebung035.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Image source: [Details](/en/licenses#uebung035))
-:::---
+:::
+---
 
 ## Additional Exercises
 

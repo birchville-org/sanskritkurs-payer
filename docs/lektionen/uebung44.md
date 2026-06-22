@@ -65,7 +65,8 @@ A) Bestimmen und übersetzen Sie folgende Formen:
 | ⟪५०⟫. **⟪चिनुथ⟫** | ⟪चि⟫ (5U) 2. pl. P. Ind. Präs. | ihr schichtet auf |
 | ⟪५१⟫. **⟪हथ⟫** | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | ihr schlagt |
 | ⟪५२⟫. **⟪हतः⟫** | ⟪हन्⟫ (2P) PPP Nom. sg. m. | geschlagen / getötet |
-:::---
+:::
+---
 
 ## Übersetzungen
 
@@ -99,7 +100,8 @@ Du hast die Nicht-zu-Beklagenden beklagt und wolltest Worte der Weisheit spreche
 ![](/images/uebung072.webp)
 Abb.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Bildquelle: [Details](/licenses#uebung072))
-:::---
+:::
+---
 
 ## Weitere Formbestimmungen
 

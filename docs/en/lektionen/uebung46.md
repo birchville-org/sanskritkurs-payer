@@ -66,7 +66,8 @@ A) Determine and translate the following forms:
 | ⟪५०⟫. **⟪ददाने⟫** | ⟪दा⟫ (3U) Part. Pres. Ā. Loc. sg. m./n. | in the giving |
 | ⟪५१⟫. **⟪सुषुपुः⟫** | ⟪स्वप्⟫ (2P) 3. pl. P. Perf. | they have slept |
 | ⟪५२⟫. **⟪ऊसु⟫** | ⟪वस्⟫ (1P) 2. pl. P. Perf. | you have lived |
-:::---
+:::
+---
 
 ## Verses (⟪सुभाषितानि⟫)
 

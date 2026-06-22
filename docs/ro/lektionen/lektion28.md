@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-16
 Exemplu:
 ⟪गम्⟫ "a merge" » Cauzal: ⟪गमयति⟫ "el determină pe cineva să meargă; el trimite"
 ⟪दृश्⟫ "a vedea" » Cauzal: ⟪दर्शयति⟫ "el face să vadă = el arată"
-:::---
+:::
+---
 
 ## 28.2. Construcția propoziției cu causativul (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
@@ -25,7 +26,8 @@ Exemplu:
 **Dacă rădăcina de bază a causativului (cu sau fără prefix verbal) este INTRANSITIVĂ (adică nu poate avea un complement direct) sau exprimă mișcare, cunoaștere, informație sau mâncare:**
 
 **Agentul (⟪कर्ता⟫) causativului în Nominativ (⟪प्रथमा⟫) — Agentul acțiunii cauzate în Acuzativ (⟪द्वितीया⟫) — (Ținta mișcării, obiectul cunoașterii etc. în Acuzativ = ⟪द्वितीया⟫) — Verb la Causativ**
-:::Exemple:
+:::
+Exemple:
 
 ⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "o persoană rea determină ca Rāma să fie confuz = îl confuză pe Rāma = determină ca Rāma să greșească"
 Rezultat: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma este confuz / orb / greșește."
@@ -54,7 +56,8 @@ Templul ISKCON Bangalore.
 
 Exemplu:
 (⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "îi arată lui Rāma fiul"
-:::Următorul vers rezumă exemple pentru formarea causativului conform Schemei 1 (formele verbale sunt fiecare la persoana a III-a, Imperfect, Parasmaipada):
+:::
+Următorul vers rezumă exemple pentru formarea causativului conform Schemei 1 (formele verbale sunt fiecare la persoana a III-a, Imperfect, Parasmaipada):
 
 ⟪शत्रूनगमयत्स्वर्गं⟫
 ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
@@ -100,7 +103,8 @@ Rezultatul acestui rezultat: ⟪गोविन्दो⟫ ⟪गच्छत�
 - **⟪स्मृ⟫ "a-și aminti" (există excepții în acest sens)**
 - **⟪अद्⟫ "a mânca"**
 - **⟪खाद्⟫ "a mesteca"**
-:::Exemple:
+:::
+Exemple:
 
 ⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma îl lasă pe slujitor să conducă sau să călătorească cu povara"
 Rezultat: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "Slujitorul conduce sau călătorește cu povara"
@@ -117,7 +121,8 @@ Rezultat: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma își amintește"
 - **⟪हृ⟫ "a ține, a aduce"**
 - **⟪कृ⟫ "a face, a realiza"**
 - **Cauzativ Ātmanepadakau pentru ⟪दृश्⟫**
-:::Exemple:
+:::
+Exemple:
 
 ⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma îl lasă pe slujitor să facă sau să aducă un covor (⟪कट⟫ m.)"
 sau:
@@ -135,7 +140,8 @@ Când cauzativul este utilizat într-o construcție pasivă, se aplică aproape 
 **Schema A (construcție pasivă):**
 
 **Agentul cauzativului în instrumental (⟪तृतीया⟫) — Agentul acțiunii determinate în nominativ (⟪प्रथमा⟫) — Obiectul acțiunii determinate în cazul pe care l-ar avea conform verbului simplu (adică, de obicei, în acuzativ) — Verbul la cauzativ**
-:::Exemple:
+:::
+Exemple:
 
 ⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "Maestrul îl trimite pe Rāma în sat"
 Rezultat: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma merge în sat"
@@ -152,11 +158,13 @@ Rezultat: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Sluj
 
 :::grammar-box
 **La rădăcina cauzativă se adaugă terminațiile tematice ale prezentei**
-:::Există diferite tipuri de formare:
+:::
+Există diferite tipuri de formare:
 
 :::grammar-box
 **Tipul de formare 1: (de obicei) gradul plin al rădăcinii + -aya-**
-:::Exemple:
+:::
+Exemple:
 
 | Rădăcină | Cauzativ 3. sg. Indicativ Prezent | Semnificație |
 | :--- | :--- | :--- |
@@ -169,7 +177,8 @@ Rezultat: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Sluj
 **Tipul de formare 2: gradul alungit al rădăcinii + -aya-**
 
 **Adesea la rădăcinile care se termină vocalic și la rădăcinile în care după -a urmează un singur consonant final.**
-:::Exemple:
+:::
+Exemple:
 
 | Rădăcină | Cauzativ 3. sg. Indicativ Prezent | Semnificație |
 | :--- | :--- | :--- |
@@ -183,7 +192,8 @@ Rezultat: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Sluj
 **Tipul de formare 3: gradul scurt al rădăcinii + -aya-**
 
 **Apare.**
-:::Exemplu:
+:::
+Exemplu:
 
 | Rădăcină | Cauzativ 3. sg. Indicativ Prezent | Semnificație |
 | :--- | :--- | :--- |
@@ -193,7 +203,8 @@ Rezultat: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Sluj
 **Tipul de formare 4: rădăcină + -paya-**
 
 **La rădăcinile pe -ā și la unele alte rădăcini.**
-:::Exemple:
+:::
+Exemple:
 
 | Rădăcină | Cauzativ 3. sg. Indicativ Prezent | Semnificație |
 | :--- | :--- | :--- |
@@ -207,7 +218,8 @@ Rezultat: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Sluj
 
 - **han** : Cauz. **ghātayati**¹ "a lăsa să lovească, a lăsa să omoare"
 - **pā** 2 "a păstra": **pālayati**² "a transporta dincolo, a salva, a proteja"
-:::Note:
+:::
+Note:
 1. **ghātayati** este de fapt un verb derivat din substantivul **ghāta** m. "lovitură" (denominativ) și este folosit în loc de cauzativul lui **han**.
 2. **pālayati** este un cauzativ adevărat, dar derivat din rădăcina **pṛ** 3 "a transporta dincolo, a salva, a proteja": **pārayati** (pār-aya-ti) » **pālayati** (în unele regiuni ale Indiei, corespunde lui r un l, în altele invers, lui l îi corespunde un r).
 
@@ -223,7 +235,8 @@ Rezultat: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Sluj
 Exemple:
 **bhāvyate** (bhāv-ya-te) „el/ea este adus la existență”
 **sthāpyate** (sthāp-ya-te) „el/ea este așezat”
-:::În timp ce pasivul corespunzător rădăcinii originale este de obicei derivat din rădăcina cu grad redus, pasivul cauzativului poate fi de obicei recunoscut prin faptul că este derivat din rădăcina cu grad ridicat, respectiv lungit.
+:::
+În timp ce pasivul corespunzător rădăcinii originale este de obicei derivat din rădăcina cu grad redus, pasivul cauzativului poate fi de obicei recunoscut prin faptul că este derivat din rădăcina cu grad ridicat, respectiv lungit.
 
 ---
 
@@ -236,7 +249,8 @@ Exemple:
 
 Exemplu:
 **budh** viitor-cauzativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): „el/ea va trezi”
-:::---
+:::
+---
 
 ## 28.6. Formarea PPP (⟪क्त⟫) la Causativ
 
@@ -246,7 +260,8 @@ Exemplu:
 Exemple:
 **gam** — **gamayati** — **gamita** (gam-i-ta) "trimis" (PPP al rădăcinii simple: **gata**)
 **sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "așezat"
-:::---
+:::
+---
 
 ## 28.7. Formarea abstractivei (⟪क्त्वा⟫ . ⟪ल्यप्⟫) la cauzativ
 
@@ -268,7 +283,8 @@ Exemple:
 
 Exemplu:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) „după ce a făcut să vină”
-:::---
+:::
+---
 
 ## 28.8. Formarea infinitivului (⟪तुमुन्⟫) la cauzativ
 
@@ -279,7 +295,8 @@ Exemplu:
 
 Exemplu:
 **jan** — **janayati** — **janayitum** (janay-i-tum) "pentru a produce"
-:::---
+:::
+---
 
 ## 28.9. A zecea clasă de prezent (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
 
@@ -291,7 +308,8 @@ Exemple:
 2. Rădăcină cu gradul maxim + -aya-: **cur** 10U **corayati** "a fura"; viitor: **corayiṣyate**; pasiv: **coryate**
 ::::::grammar-box
 **Formele cauzativului pentru verbele din cea de-a zecea clasă de prezent sunt identice cu formele verbului simplu. Decizia dacă există un cauzativ se poate face doar din sens, sau uneori din construcție.**
-:::---
+:::
+---
 
 ## 28.10. Listă de cuvinte
 
@@ -344,14 +362,16 @@ Inf. **coritum**
 Fig.: ⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā-Spielerin.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2803))
-:::**⟪भार⟫** m.: povară
+:::
+**⟪भार⟫** m.: povară
 
 :::media
 ![](/images/lekt2805.webp)
 Fig.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
 Fetiță poartă povara. Lângă Ahmedabad.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2805))
-:::**⟪भृत्य⟫** m: subordonat, servitor
+:::
+**⟪भृत्य⟫** m: subordonat, servitor
 
 ---
 

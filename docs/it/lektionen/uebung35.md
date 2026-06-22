@@ -54,7 +54,8 @@ A) Formare le corrispondenti forme del perfetto per le seguenti forme verbali:
 | ⟪३९⟫. **⟪अचरत्⟫** | ⟪चचार⟫ |
 | ⟪४०⟫. **⟪जुह्वति⟫** | ⟪जुहुवुः⟫ |
 | ⟪४१⟫. **⟪अहरत्⟫** | ⟪जहार⟫ |
-:::B) Tradurre:
+:::
+B) Tradurre:
 
 ⟪१⟫. **⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫**
 Un tempo, un grande Kṣatriya iniziò a sacrificare. Indra rapì (prese) la sua vittima sacrificale. Ma quando l'animale scomparve, un malvagio Brahmano disse al Kṣatriya: "L'animale è scomparso a causa del cattivo comportamento del Kṣatriya."

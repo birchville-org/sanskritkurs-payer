@@ -33,7 +33,8 @@ Esempio:
 Fig.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5402))
-:::## 54.3. Metrica II: l'epica ⟪त्रिष्टुभ्⟫ e la ⟪जगती⟫
+:::
+## 54.3. Metrica II: l'epica ⟪त्रिष्टुभ्⟫ e la ⟪जगती⟫
 
 ::::grammar-box
 La ⟪त्रिष्टुभ्⟫ ("Tre-lamento") appare negli epici nel mezzo delle solite parti ⟪श्लोक⟫ proprio nei punti in cui l'atmosfera o l'azione subiscono un particolare slancio o conclusione.
@@ -44,33 +45,45 @@ La ⟪त्रिष्टुभ्⟫ ha due schemi fondamentali, a seconda ch
 
 Schema I:
 
-:::metrik-schema
+:::
+metrik-schema
 × — × — / × ◡ — **— ◡ — —**
-:::Schema II:
+:::
+Schema II:
 
-:::metrik-schema
+:::
+metrik-schema
 × — × — × / × ◡ **— ◡ — —**
-:::La quantità delle ultime quattro sillabe è quindi identica in entrambi gli schemi.
+:::
+La quantità delle ultime quattro sillabe è quindi identica in entrambi gli schemi.
 
 Forma base ⟪जगती⟫: come nella ⟪त्रिष्टुभ्⟫, ma di dodici sillabe. Le ultime cinque sillabe di ogni Pada presentano le seguenti quantità:
 
-:::metrik-schema
+:::
+metrik-schema
 **— ◡ — ◡ —**
-:::Inoltre esiste la cosiddetta tipica ⟪त्रिष्टुभ्⟫ sovrabbondante con un primo membro di cinque sillabe, che prosegue come una ⟪त्रिष्टुभ्⟫ con un primo membro di quattro sillabe:
+:::
+Inoltre esiste la cosiddetta tipica ⟪त्रिष्टुभ्⟫ sovrabbondante con un primo membro di cinque sillabe, che prosegue come una ⟪त्रिष्टुभ्⟫ con un primo membro di quattro sillabe:
 
-:::metrik-schema
+:::
+metrik-schema
 — × — × / × ◡ — **— ◡ — —**
-:::In epoca successiva le forme della ⟪त्रिष्टुभ्⟫ vengono stabilite secondo uno schema rigoroso di lunghezze e brevizze; la cesura non ha più importanza. Le forme successive più importanti sono:
+:::
+In epoca successiva le forme della ⟪त्रिष्टुभ्⟫ vengono stabilite secondo uno schema rigoroso di lunghezze e brevizze; la cesura non ha più importanza. Le forme successive più importanti sono:
 
 a) ⟪इन्द्रवज्रा⟫
 
-:::metrik-schema
+:::
+metrik-schema
 **—** — ◡ — , — ◡ ◡ — ◡ — —
-:::b) ⟪उपेन्द्रवज्रा⟫
+:::
+b) ⟪उपेन्द्रवज्रा⟫
 
-:::metrik-schema
+:::
+metrik-schema
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
-:::c) ⟪उपजाति⟫
+:::
+c) ⟪उपजाति⟫
 
 :::indent
 ⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ e ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sono mescolati in una strofa.
@@ -81,18 +94,21 @@ a) ⟪इन्द्रवज्रा⟫
 
 :::indent
 "È una Indravājrā, se le sillabe in tutti i Pādas sono ta ta ja ga ga.
-:::⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
+:::
+⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
 :::indent
 "Una Upendravajrā è come una Indravajrā che all'inizio ha una sillaba breve"
-:::⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
+:::
+⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
 ⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
 ⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
 ⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
 :::indent
 "Se due Pādas, che presentano le caratteristiche di Indravajrā o Upendravajrā, sono coinvolti in un verso, allora sono Upajātis. Anche se altri metri sono mescolati in un verso, si chiama Upajāti."
-:::::::## 54.4. Eseritazione sulla metrica
+:::::::
+## 54.4. Eseritazione sulla metrica
 
 Determinare nel Bhagavadgītā II le Triṣṭubhs e le Jagatīs.
 
@@ -118,13 +134,15 @@ Dell'aoristo nel sanscrito sono in uso solo l'indicativo e il precativo.
     *   54.7. Aoristo in -sa: Augment + Radice + **s** + **a** + Desinenza secondaria
 
 La distribuzione delle radici sui singoli tipi di formazione si veda presso i singoli tipi
-:::## 54.6. Radice aoristo
+:::
+## 54.6. Radice aoristo
 
 :::grammar-box
 **Formazione:**
 
 **Augumento + Radice + Desinenza secondaria**
-:::La desinenza della 3ª persona plurale è -ur. Il ātmanepada non è d'uso comune.
+:::
+La desinenza della 3ª persona plurale è -ur. Il ātmanepada non è d'uso comune.
 
 Esempio:
 
@@ -136,7 +154,8 @@ Esempio:
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (grado ridotto!) |
-:::Solo da 12 radici si forma l'aoristo radicale:
+:::
+Solo da 12 radici si forma l'aoristo radicale:
 
 1.  ⟪गा⟫ 3ª "andare"
 2.  ⟪घ्रा⟫ 1ª persona "odorare"
@@ -159,7 +178,8 @@ Per ⟪भू⟫ 1ª persona l'aoristo radicale si forma così:
 | 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
-:::### 54.6.1. L'Aoristo del 3.sg.Passivo
+:::
+### 54.6.1. L'Aoristo del 3.sg.Passivo
 
 Una forma speciale del radice-aoristo è l'aoristo del 3.sg.Passivo. Questo può essere formato da tutte le radici.
 
@@ -213,7 +233,8 @@ Infix nasale:
     
 
 (Le altre forme del Passivo nell'aoristo sono espresse da forme di Ātmanepada).
-:::## 54.7. Esercizio
+:::
+## 54.7. Esercizio
 
 Tradurre per iscritto le seguenti forme e formare le corrispondenti forme dell’aoristo:
 

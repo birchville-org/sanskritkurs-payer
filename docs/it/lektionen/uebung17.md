@@ -76,7 +76,8 @@ B) Inserite negli frasi formate in A) l'agente e il verbo al plurale
 ![](/images/uebung025.webp)
 Fig.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung025))
-:::---
+:::
+---
 
 ## Esercizio sulle forme verbali
 

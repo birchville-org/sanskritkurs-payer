@@ -21,7 +21,8 @@ status: stable
 **Auslautendes -i, -u wird durch -iy bzw. -uv ersetzt.**
 
 **Auslautendes -ā (für -e) fällt ab.**
-:::Paradigma:
+:::
+Paradigma:
 
 ⟪श्रि⟫ 1U "sich begeben zu, sich anlehnen"
 
@@ -42,7 +43,8 @@ Diese Form des Aorist bilden u.a.:
 
 :::grammar-box
 **Alle Wurzeln der 10. Präsensklasse sowie alle Kausative bilden stets den reduplizierten Aorist.**
-:::### 56.1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
+:::
+### 56.1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
 
 Stammsilbe:
 
@@ -68,7 +70,8 @@ Stammsilbe:
 *   **dem auslautenden Konsonanten der Stammsilbe unmittelbar vorangehendes, für ṛ, ṝ, ḷ substituiertes ar, ār, īr, al bleibt wahlweise unverändert oder wird durch ṛ bzw. ḷ ersetzt:**  
     ⟪कॢप्⟫  1Ā: Kaus. ***⟪कल्प⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
     ⟪कृष्⟫ 1P/6U: Kaus. ***⟪कर्ष⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
-:::Vokal der Reduplikationssilbe:
+:::
+Vokal der Reduplikationssilbe:
 
 Nachdem die eben genannten Regeln auf die Stammsilbe angewandt sind, müssen folgende Regeln für den Vokal der Reduplikationssilbe befolgt werden:
 
@@ -103,7 +106,8 @@ Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssi
 ⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, reduplizierte Silbe ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
 ⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, reduplizierte Silbe ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
 ⟪ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, reduplizierte Silbe ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
-:::*   **Folgt dem anlautenden Vokal eine mit einem Nasal oder d oder r anfangende Konsonantengruppe, so wird der zweite Konsonant der Gruppe (oder sein Stellvertreter) mit i nach folgendem schema eingeschoben:**
+:::
+*   **Folgt dem anlautenden Vokal eine mit einem Nasal oder d oder r anfangende Konsonantengruppe, so wird der zweite Konsonant der Gruppe (oder sein Stellvertreter) mit i nach folgendem schema eingeschoben:**
     
 
 Vokal - erster Konsonant - zweiter Konsonant (Stellvertreter) - i - zweiter Konsonant
@@ -112,12 +116,15 @@ Vokal - erster Konsonant - zweiter Konsonant (Stellvertreter) - i - zweiter Kons
 ⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, reduplizierte Silbe ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
 ⟪ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, reduplizierte Silbe ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
 ⟪अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, reduplizierte Silbe ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
-:::Diese Form der Reduplikation vokalisch anlautender abgeleiteter Stämme (Kausative) nennt man "attische Reduplikation".
-:::## 56.2. Der Injunktiv
+:::
+Diese Form der Reduplikation vokalisch anlautender abgeleiteter Stämme (Kausative) nennt man "attische Reduplikation".
+:::
+## 56.2. Der Injunktiv
 
 :::grammar-box
 **Der Injunktiv ist die augmentlose Form zu Augmentformen, d.h. seine Formen sind identisch mit den augmentlosen Formen des Indikativ Imperfekt oder Aorist. Die einheimische indische Grammatik hat den Injunktiv nicht als besondere grammatische Kategorie erkannt.**
-:::Gemäß der grundlegenden Arbeit:
+:::
+Gemäß der grundlegenden Arbeit:
 
 :::media
 ![](/images/lekt5601.jpg)
@@ -126,7 +133,8 @@ Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg
 (Bildquelle: [Details](/licenses#lekt5601))
 ::::::indent
 Hoffmann, Karl &lt;1915 - 1996&gt;: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
-:::hat der Injunktiv im Veda folgende Eigenschaften:
+:::
+hat der Injunktiv im Veda folgende Eigenschaften:
 
 *   er ist nicht berichtend, sondern erwähnend
 *   er ist zeitstufenlos
@@ -142,7 +150,8 @@ Hoffmann, Karl &lt;1915 - 1996&gt;: Der Injunktiv im Veda : eine synchronische F
 *   würde ⟪मा⟫ ⟪स्म⟫ + Injunktiv Präsens einen Inhibitivsatz bezeichnen, d.h. eine schon verlaufende Handlung oder ein schon bestehender Zustand wird verboten: "Höre auf, zu ...!", "Lass ab von ...!"
 
 Dieser Unterschied wird jedoch im klassischen Sanskrit meist nicht gemacht.)
-:::## 56.3. Der Verbotssatz
+:::
+## 56.3. Der Verbotssatz
 
 :::grammar-box
 **Hauptform:**
@@ -150,7 +159,8 @@ Dieser Unterschied wird jedoch im klassischen Sanskrit meist nicht gemacht.)
 **⟪मा⟫ + Injunktiv Aorist**
 
 **⟪मा⟫ ⟪स्म⟫ + Injunktiv Aorist oder Injunktiv Präsens**
-:::Beispiele:
+:::
+Beispiele:
 
 :::indent
 ⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Werde nicht einer, der durch die Frucht einer Tat motiviert wird!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,47c)
@@ -161,7 +171,8 @@ Dieser Unterschied wird jedoch im klassischen Sanskrit meist nicht gemacht.)
 Abb.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
 Poster (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
 (Bildquelle: [Details](/licenses#lekt5602))
-:::Beide Beispiele haben prohibitiven Sinn. Der Injunktiv Aorist ist hier also in seiner ursprünglichen Bedeutung gebraucht. (Das Überwiegen des Injunktiv Aorist in solchen Sätzen erklärt sich vielleicht aus dem Überwiegen der Prohibitivsätze gegenüber Inhibitivsätzen, doch müsste diese Frage für das klassische Sanskrit noch untersucht werden.)
+:::
+Beide Beispiele haben prohibitiven Sinn. Der Injunktiv Aorist ist hier also in seiner ursprünglichen Bedeutung gebraucht. (Das Überwiegen des Injunktiv Aorist in solchen Sätzen erklärt sich vielleicht aus dem Überwiegen der Prohibitivsätze gegenüber Inhibitivsätzen, doch müsste diese Frage für das klassische Sanskrit noch untersucht werden.)
 
 :::grammar-box
 **Andere Formen von Verbotssätzen:**
@@ -182,7 +193,8 @@ Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit sytax. -- Leyden : B
 ![](/images/lekt5603.webp)
 Abb.: ⟪अलं⟫  ⟪विषादेन⟫
 (Bildquelle: [Details](/licenses#lekt5603))
-:::## 56.4. ⟪स्म⟫
+:::
+## 56.4. ⟪स्म⟫
 
 :::grammar-box
 **⟪स्म⟫ hebt hervor: "wahrlich, allerdings, gewiss, gerade"**
@@ -193,7 +205,8 @@ Abb.: ⟪अलं⟫  ⟪विषादेन⟫
 ⟪स्म⟫ + Indikativ Präsens dient zum Erzählen in der Vergangenheit, vor allem um eine Dauer in der Vergangenheit zu bezeichnen:
 
 z.B. ⟪वसति⟫ ⟪स्म⟫ "es wohnte einmal" (⟪स्म⟫ kann manchmal auch fehlen).
-::::::## 56.5. Übung
+::::::
+## 56.5. Übung
 
 A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen:
 

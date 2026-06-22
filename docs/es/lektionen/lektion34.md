@@ -19,7 +19,8 @@ En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y partic
 1. **en las conjugaciones derivadas (causativo, desiderativo, frecuentativo, denominativos)**
 2. **en raíces que comienzan con una vocal larga (excepto ā-) o con una vocal (excepto a-) antes de dos consonantes**
 3. **en algunas otras raíces**
-:::## 34.2. El perfecto con reduplicación (⟪द्वित्वलिट्⟫)
+:::
+## 34.2. El perfecto con reduplicación (⟪द्वित्वलिट्⟫)
 
 ### 34.2.1. Abstención de la raíz
 
@@ -39,7 +40,8 @@ En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y partic
 **En el perfecto, además, no tienen abstención de raíz las raíces de la forma:**
 *   **a-Consonante**
 *   **ā-Consonante**
-:::### 34.2.2. Las desinencias del perfecto
+:::
+### 34.2.2. Las desinencias del perfecto
 
 ::::grammar-box
 
@@ -48,11 +50,13 @@ En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y partic
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
-::::### 34.2.3. Vowel de conexión -i-
+::::
+### 34.2.3. Vowel de conexión -i-
 
 :::grammar-box
 **Antes de la terminación de la 3.pl.Ā (-re) siempre aparece la vocal de conexión -i-, antes de las demás terminaciones que comienzan con consonante en el caso de la mayoría de las raíces.**
-:::### 34.2.4. Reduplicación de raíces que comienzan con consonante
+:::
+### 34.2.4. Reduplicación de raíces que comienzan con consonante
 
 :::grammar-box
 **Para la reduplicación de consonantes iniciales se aplican las reglas establecidas en [Lección 33](lektion33.md).**
@@ -62,7 +66,8 @@ En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y partic
 **Los diptongos antes de una consonante se reducen mediante la correspondiente vocal breve del grado cero.**
 
 **ṛ, ṝ, ḷ y los diptongos finales se reduplican con -a-.**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ::::grammar-box
 
@@ -74,7 +79,8 @@ En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y partic
 
 :::::::grammar-box
 **Algunas raíces que comienzan con y- o v- se reduplican con i- o u-, que en las formas débiles se "fusiona" con la vocal de la raíz.**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ::::grammar-box
 
@@ -83,11 +89,13 @@ En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y partic
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
-::::### 34.2.5. Reduplicación de raíces que comienzan con vocal
+::::
+### 34.2.5. Reduplicación de raíces que comienzan con vocal
 
 :::grammar-box
 **1. a-, ā- inicial se reduplica con a-, de modo que aparece ā-.**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ::::grammar-box
 
@@ -97,7 +105,8 @@ En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y partic
 
 :::::::grammar-box
 **2. Las raíces con i- inicial tienen como sílaba de reduplicación en la forma fuerte iy-, en la forma débil i-, que se "fusiona" con la vocal de la raíz para dar ī-. Lo análogo ocurre con u- inicial.**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ::::grammar-box
 
@@ -108,7 +117,8 @@ En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y partic
 
 :::::::grammar-box
 **3. Las raíces que comienzan con a- ante dos consonantes o con ṛ- tienen como sílaba de reduplicación ān-**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ::::grammar-box
 
@@ -117,7 +127,8 @@ En el sánscrito clásico, de la raíz del perfecto solo hay indicativo y partic
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
-::::## 34.3. Tipos del perfecto con reduplicación
+::::
+## 34.3. Tipos del perfecto con reduplicación
 
 Principio de clasificación: particularidades de la gradación del tema:
 *   Perfecto sin gradación del tema: Tipo I
@@ -132,7 +143,8 @@ Principio de clasificación: particularidades de la gradación del tema:
 *   **(Consonante)-Consonante-Vocal-Consonante-Consonante**
 *   **a-Consonante**
 *   **ā-Consonante**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ::::grammar-box
 
@@ -144,7 +156,8 @@ Principio de clasificación: particularidades de la gradación del tema:
 | ⟪अस्⟫ 2P "ser":br⟪अस्⟫ 4 "lanzar" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
 | ⟪अश्⟫ | ⟪आनशे⟫:brreduplicación irregular | ⟪आनशिरे⟫ |
 
-::::## 34.5. Tipo de perfecto II: raíz fuerte en grado pleno, raíz débil en grado reducido
+::::
+## 34.5. Tipo de perfecto II: raíz fuerte en grado pleno, raíz débil en grado reducido
 
 :::grammar-box
 **Se forma a partir de raíces de la forma:**
@@ -153,7 +166,8 @@ Principio de clasificación: particularidades de la gradación del tema:
 **Formación:**
 *   **raíz fuerte: grado pleno**
 *   **raíz débil: grado reducido**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ::::grammar-box
 
@@ -165,7 +179,8 @@ Principio de clasificación: particularidades de la gradación del tema:
 | ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
-::::## 34.6. Lista de palabras
+::::
+## 34.6. Lista de palabras
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -176,7 +191,8 @@ Principio de clasificación: particularidades de la gradación del tema:
 Fig.: ⟪सस्यम्⟫
 Campo de arroz en la India.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3406))
-:::**⟪यावत्⟫ :** cuánto tiempo, cuán grande
+:::
+**⟪यावत्⟫ :** cuánto tiempo, cuán grande
 
 **⟪तावत्⟫ :** tanto tiempo, tan grande
 
@@ -189,7 +205,8 @@ Campo de arroz en la India.
 Fig.: ⟪लक्षद्वीपाः⟫
 Mapa de las Islas Lakshadweep.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3405))
-:::**⟪मर्त्य⟫ 3:** mortal (de **⟪मृ⟫**)
+:::
+**⟪मर्त्य⟫ 3:** mortal (de **⟪मृ⟫**)
 
 **⟪तिल⟫ m.:** sésamo (grano) (*Sesamum indicum* L.)
 
@@ -203,14 +220,16 @@ Semillas de sésamo.
 Fig.: *Sesamum indicum* L.
 Floración de la planta de sésamo.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3404))
-:::**⟪स्वर्ण⟫ n.:** (de hermoso color =) oro
+:::
+**⟪स्वर्ण⟫ n.:** (de hermoso color =) oro
 
 :::media
 ![](/images/lekt3402.webp)
 Fig.: ⟪स्वर्णम्⟫
 Templo Dorado (Harmandir Sahib), Amritsar.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3402))
-:::**⟪निकेतन⟫ n.:** morada, templo
+:::
+**⟪निकेतन⟫ n.:** morada, templo
 
 **⟪कोटि⟫ f.:** punta; 10 millones
 
@@ -225,7 +244,8 @@ Templo Dorado (Harmandir Sahib), Amritsar.
 Fig.: ⟪ऋषभः⟫
 Estatua del toro Nandi, Colinas de Chamundi, Mysore.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3401))
-:::**⟪यम्⟫ 1P ⟪यच्छति⟫ :** contener, retener, ofrecer, conceder
+:::
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** contener, retener, ofrecer, conceder
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** extender, ofrecer, entregar
 

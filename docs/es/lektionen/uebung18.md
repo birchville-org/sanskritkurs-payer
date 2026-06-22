@@ -87,7 +87,8 @@ B) Traduzca los siguientes Tatpuruṣa:
 ![](/images/uebung027.jpg)
 Fig.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung027))
-:::---
+:::
+---
 
 ## Ejercicios adicionales
 

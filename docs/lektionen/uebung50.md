@@ -59,7 +59,8 @@ A) Zur Wiederholung der Deklination: Folgender Vers enthält alle Deklinationsfo
 ![](/images/uebung081.webp)
 Abb.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫ ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫ ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫ ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung081))
-:::---
+:::
+---
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers
 
@@ -79,7 +80,8 @@ Abb.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 ![](/images/uebung082.webp)
 Abb.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫ ⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung082))
-:::---
+:::
+---
 
 ### ⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
 

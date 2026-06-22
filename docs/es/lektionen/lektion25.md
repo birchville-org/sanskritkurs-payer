@@ -15,13 +15,15 @@ status: stable
 Excepto en los masculinos / neutros en -a y en los pronombres, en el singular las formas del ablativo (⟪पञ्चमी⟫) en todas las clases de declinación son idénticas a las del genitivo (⟪षष्ठी⟫).
 
 Excepto en los pronombres personales, en todas las declinaciones en el plural las formas del ablativo son idénticas a las del dativo (⟪चतुर्थी⟫).
-:::Ahora reconocen la razón del orden de los casos (⟪विभक्ति⟫) en sánscrito: están dispuestos de manera que las formas homófonas estén lo más juntas posible — o entre sí.
+:::
+Ahora reconocen la razón del orden de los casos (⟪विभक्ति⟫) en sánscrito: están dispuestos de manera que las formas homófonas estén lo más juntas posible — o entre sí.
 
 :::grammar-box
 **Ablativo singular de los masculinos / neutros en -a**
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
-:::Pronombres interrogativos, relativos y demostrativos:
+:::
+Pronombres interrogativos, relativos y demostrativos:
 
 ::::grammar-box
 
@@ -33,7 +35,8 @@ Excepto en los pronombres personales, en todas las declinaciones en el plural la
 | **⟪एतद्⟫** | **etasmāt**:br(⟪एतस्मात्⟫) | **etasyāḥ**:br(⟪एतस्याः⟫) |
 | **⟪इदम्⟫** | **asmāt**:br(⟪अस्मात्⟫) | **asyāḥ**:br(⟪अस्याः⟫) |
 
-::::## 25.2. Uso del Ablativo (⟪पञ्चमी⟫)
+::::
+## 25.2. Uso del Ablativo (⟪पञ्चमी⟫)
 
 "El ablativo designa aquello que permanece fijo cuando algo se aleja de él."
 
@@ -45,7 +48,8 @@ El ablativo se utiliza principalmente para responder a las preguntas "¿De dónd
 1\. El ablativo designa por lo tanto el punto de partida, el origen y la materia.
 
 El ablativo puede por lo tanto designar a la persona de la que se compra, escucha, desea, etc. algo.
-:::Ejemplos:
+:::
+Ejemplos:
 
 :::indent
 ⟪ग्रमादागच्छति⟫ = "Él viene del pueblo"
@@ -53,7 +57,8 @@ El ablativo puede por lo tanto designar a la persona de la que se compra, escuch
 ⟪अश्वात्पतितः⟫ = "caído del caballo"
 
 ⟪तेभ्यो⟫ ⟪लब्धम्⟫ = "recibido de ellos (de aquí)"
-:::Ejemplos:
+:::
+Ejemplos:
 
 :::indent
 ⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "él escucha del maestro sobre el Dharma"
@@ -61,13 +66,15 @@ El ablativo puede por lo tanto designar a la persona de la que se compra, escuch
 ⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "el brahmán desea de un kṣatriya una vaca lechera"
 ::::::grammar-box
 2\. El ablativo se usa con verbos que significan "abstenerse de", "proteger de", "defender contra", "temer a":
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "él protege a los enemigos"
 ::::::grammar-box
 3\. El ablativo designa la razón o la causa:
-:::Ejemplos:
+:::
+Ejemplos:
 
 :::indent
 ⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "Él mata a su hijo por ira"
@@ -75,13 +82,15 @@ El ablativo puede por lo tanto designar a la persona de la que se compra, escuch
 ⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Porque ha hecho el mal, va al infierno" (« Porque es alguien por quien se ha hecho el mal)
 
 ⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Porque hace / hizo el mal, va al infierno"
-:::Los nombres que no son femeninos pueden, para designar la razón de una actividad, estar en instrumental (⟪तृतीया⟫) o ablativo (⟪पञ्चमी⟫). Los femeninos están en este sentido generalmente en instrumental, pero pueden ocasionalmente también estar en ablativo.
+:::
+Los nombres que no son femeninos pueden, para designar la razón de una actividad, estar en instrumental (⟪तृतीया⟫) o ablativo (⟪पञ्चमी⟫). Los femeninos están en este sentido generalmente en instrumental, pero pueden ocasionalmente también estar en ablativo.
 
 ## 25.3. El sufijo -⟪तस्⟫
 
 :::grammar-box
 Si se desea expresar en singular (de manera inequívoca) que la palabra se utiliza con significado ablativo, se puede añadir al radical de la palabra el sufijo -⟪तस्⟫, que forma adverbios con significado mayoritariamente ablativo (respondiendo a la pregunta "¿De dónde?"):
-:::Ejemplos:
+:::
+Ejemplos:
 
 :::indent
 ⟪आदितस्⟫ = "desde el principio"
@@ -95,7 +104,8 @@ El sufijo -⟪तस्⟫ también aparece en radicales pronominales:
 ⟪यद्⟫ : ⟪यतस्⟫ "del cual, de lo cual, de dónde, dónde, hacia dónde, por qué, porque" (relativo)
 
 ⟪किम्⟫ :  ⟪कुतस्⟫ "¿de dónde?" "¿por qué?"
-:::## 25.4. Otras formas de expresar razones
+:::
+## 25.4. Otras formas de expresar razones
 
 :::grammar-box
 **1\. Oraciones relativas**
@@ -109,7 +119,8 @@ Formas del pronombre relativo que sirven como conjunción causal:
     *   ⟪यस्मात्⟫ ... oración subordinada ... ⟪तस्मात्⟫ ... oración principal ... = "ya que ..., por lo tanto ..."
 *   instrumental:
     *   ⟪येन⟫ ... oración subordinada ... ⟪तेन⟫ ... oración principal ... = "mediante lo cual / ya que ..., por ello / por eso ..."
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = "Debido a que Rāma desea la prosperidad, practica la promesa"
@@ -117,7 +128,8 @@ Formas del pronombre relativo que sirven como conjunción causal:
 **2\. ⟪हि⟫**
 
 Las oraciones principales pueden conectarse entre sí mediante la partícula ⟪हि⟫ "pues, porque". Una oración con ⟪हि⟫ (que no puede estar en primera posición, sino que en prosa debe ocupar la segunda posición) indica una razón ya sea para la oración precedente o para la subsiguiente:
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "La gente realiza méritos. Quieren, en efecto, ir al cielo."
@@ -125,7 +137,8 @@ Las oraciones principales pueden conectarse entre sí mediante la partícula ⟪
 **3\. Instrumental (⟪तृतीया⟫)**
 
 Además del ablativo (⟪पञ्चमी⟫), se utiliza el instrumental (⟪तृतीया⟫) para expresar la razón o la causa. Con sustantivos femeninos, el instrumental es generalmente obligatorio.
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "Golpea a su hijo por ira" = "Golpea a su hijo en su ira"
@@ -139,7 +152,8 @@ Además, por supuesto, también se pueden expresar razones mediante construccion
 *   otros sustantivos con el significado de "causa"
 
 \+ Genitivo (⟪षष्ठी⟫) o como segundo elemento de compuestos:
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ etc.) = "por la mérito"
@@ -147,11 +161,13 @@ Además, por supuesto, también se pueden expresar razones mediante construccion
 **5\. ⟪इति⟫**
 
 El motivo de una actividad se puede expresar como un pensamiento con ⟪इति⟫:
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Dado que el Sugata ha despertado completamente a la verdad, Ānanda pregunta a Gautama sobre su doctrina" (« "Pensando "El Sugata ha despertado completamente a la verdad" ...)
-:::## 25.5. Lista de palabras
+:::
+## 25.5. Lista de palabras
 
 ⟪त्यज्⟫ 1P ⟪त्यजति⟫  abandonar, dejar, dejar en la estacada
 
@@ -165,7 +181,8 @@ Absol. 2: -⟪त्यज्य⟫
 de lo cual:
 
 ⟪त्याग⟫ m.: abandono, renuncia, evitación
-:::⟪दार⟫ m. pl. (!!!): esposa
+:::
+⟪दार⟫ m. pl. (!!!): esposa
 
 ⟪द्रव्य⟫ n.: objeto, posesión, posesión material, dinero
 
@@ -175,7 +192,8 @@ de lo cual:
 ![](/images/lekt2501.webp)
 Fig.: ⟪धान्यम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2501))
-:::⟪धृ⟫ 1U ⟪धरति⟫ : sostener, retener
+:::
+⟪धृ⟫ 1U ⟪धरति⟫ : sostener, retener
 
 :::indent
 Fut. ⟪धरिष्यति⟫  
@@ -187,11 +205,13 @@ Absol. 2: -⟪धृत्य⟫
 de lo cual:
 
 ⟪धर्म⟫ m.: lo que es firme y sostiene = Dharma
-:::⟪नित्य⟫ ⟪३⟫ : constantemente, permanente, eterno
+:::
+⟪नित्य⟫ ⟪३⟫ : constantemente, permanente, eterno
 
 :::indent
 ⟪नित्यम्⟫ Adv.: siempre, constantemente, siempre
-:::⟪प्रज्ञा⟫ f.:  sabiduría, conocimiento
+:::
+⟪प्रज्ञा⟫ f.:  sabiduría, conocimiento
 
 ⟪प्रदान⟫ n.: dar, donar; regalo, donación
 
@@ -206,7 +226,8 @@ Inf. ⟪मदितुम्⟫
 de lo cual:
 
 ⟪मद⟫ m.: embriaguez, embriaguez sensorial = placer sensorial
-:::⟪मान⟫ m.: evaluación, reputación, fama, honor, orgullo, presunción, sentimiento de inferioridad; (uno se compara con otros)
+:::
+⟪मान⟫ m.: evaluación, reputación, fama, honor, orgullo, presunción, sentimiento de inferioridad; (uno se compara con otros)
 
 ⟪यदि⟫ Conjunción: si
 
@@ -221,7 +242,8 @@ Pas. ⟪यायते⟫
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
 Absol. 2: -⟪याय⟫
-:::⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
+:::
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
 
 ⟪प्रदान⟫ n. = ⟪दान⟫
 
@@ -235,7 +257,8 @@ Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 de lo cual:
 
 ⟪शिक्षा⟫ f.: ciencia, enseñanza; fonética
-:::⟪स्तेन⟫ m.: ladrón
+:::
+⟪स्तेन⟫ m.: ladrón
 
 ⟪स्तेय⟫ n.: robo
 
@@ -249,7 +272,8 @@ de lo cual:
 ![](/images/lekt2502.webp)
 Fig.: ⟪मूलानि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2502))
-:::⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): untar, enmascarar
+:::
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): untar, enmascarar
 
 :::indent
 Fut. ⟪लेप्स्यति⟫  
@@ -264,7 +288,8 @@ de lo cual:
 ![](/images/lekt2503.webp)
 Fig.: ⟪लिप्तिः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2503))
-:::⟪वर्ष⟫ n.,m.: lluvia, temporada de lluvias, año
+:::
+⟪वर्ष⟫ n.,m.: lluvia, temporada de lluvias, año
 
 ⟪वह्⟫ 1U ⟪वहति⟫ : conducir, viajar, soplar (viento)
 
@@ -284,13 +309,15 @@ de lo cual:
 ![](/images/lekt2504.webp)
 Fig.: ⟪विवाहः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2504))
-:::⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : llevarse, instruir, educar
+:::
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : llevarse, instruir, educar
 
 :::indent
 de lo cual:
 
 ⟪विनय⟫ m.: alejamiento, educación, disciplina, budista: disciplina monástica, derecho monástico
-:::⟪विज्ञान⟫ n.: conocimiento, cognición
+:::
+⟪विज्ञान⟫ n.: conocimiento, cognición
 
 ⟪विष्टि⟫ f.: trabajo, servicio laboral
 
@@ -298,7 +325,8 @@ de lo cual:
 ![](/images/lekt2505.webp)
 Fig.: ⟪विष्टिः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2505))
-:::⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : crecer, hacerse más grande
+:::
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : crecer, hacerse más grande
 
 :::indent
 Fut. ⟪वर्धिष्यते⟫  
@@ -309,7 +337,8 @@ Inf. ⟪वर्धितुम्⟫
 de eso:
 
 ⟪वृद्धि⟫ f.: Crecimiento, crecimiento, grado de dilatación (de: vṛdh-ti)
-:::⟪सामर्थ्य⟫ n.: lo que corresponde a su propósito
+:::
+⟪सामर्थ्य⟫ n.: lo que corresponde a su propósito
 
 ⟪स्वभाव⟫ m.: Ser, naturaleza, carácter
 
@@ -321,7 +350,8 @@ de eso:
 ![](/images/lekt2506.webp)
 Fig.: ⟪हिरण्यम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2506))
-:::⟪अणु⟫ ⟪३⟫ : delgado, fino, muy pequeño ; m.: átomo
+:::
+⟪अणु⟫ ⟪३⟫ : delgado, fino, muy pequeño ; m.: átomo
 
 ⟪गोदान⟫ n.: Dar vacas / una vaca; segunda ceremonia de corte de cabello (un ⟪संस्कार⟫)
 
@@ -376,7 +406,8 @@ B) Traduzca y resuelva los compuestos en sánscrito:
 :::media
 ![](/images/lekt2507.webp)
 Fig.: ⟪लोकादधिको⟫ ⟪हरिः⟫
-:::## 25.7. ⟪सुभाषितानि⟫
+:::
+## 25.7. ⟪सुभाषितानि⟫
 
 ⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫  
 ⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
@@ -385,7 +416,8 @@ Fig.: ⟪लोकादधिको⟫ ⟪हरिः⟫
 
 :::indent
 Explicación: ⟪सर्वतस्⟫ = sarva "cada uno, todos" + -tas ; ⟪अणु⟫ = Nom., Acus. sg. neut.
-:::⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
+:::
+⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
 ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
 ⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫  
 ⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥२॥⟫
@@ -401,7 +433,8 @@ Explicación: ⟪सर्वतस्⟫ = sarva "cada uno, todos" + -tas ; ⟪
 
 :::indent
 Explicación: ⟪राजा⟫ = Nom. sg. de ⟪राजन्⟫ m. = ⟪नृप⟫
-:::## 25.8. Ejercicio de traducción
+:::
+## 25.8. Ejercicio de traducción
 
 1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. sobre la utilidad de la economía:
 

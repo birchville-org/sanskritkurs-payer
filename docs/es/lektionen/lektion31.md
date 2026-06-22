@@ -17,7 +17,8 @@ status: stable
 *   **en la raíz débil: -n-**
 
 **Para la conexión de las consonantes finales de la raíz con terminaciones que comienzan con consonante se aplican las mismas reglas que para la 2. clase de presente.**
-::::Ejemplos:
+::::
+Ejemplos:
 
 ⟪युज्⟫ 7U "conectar, engarzar"
 
@@ -31,7 +32,8 @@ status: stable
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:br(yu + n + j-y-ur) | ⟪युञ्जीरन्⟫:br(yu + n + j-ī-ran) |
 | **Participio Presente** | | ⟪युञ्जन्त्⟫-:br(yu + n + j-ant-):brfem.: ⟪युञ्जती⟫:br(yu + n + j-at-ī) | |
 
-::::⟪रुध्⟫ 7U "detener, llevar a la inmovilidad"
+::::
+⟪रुध्⟫ 7U "detener, llevar a la inmovilidad"
 
 ::::grammar-box
 
@@ -45,7 +47,8 @@ status: stable
 
 ::::::::grammar-box
 **En algunas raíces, la -n- de la raíz de presente débil ha penetrado también en tiempos no presentes, de modo que estas raíces se establecen con infix nasal.**
-::::Ejemplo:
+::::
+Ejemplo:
 
 **⟪भञ्ज्⟫** 7P "romper"
 
@@ -56,7 +59,8 @@ status: stable
 *   Futuro: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
 *   Pasivo: **⟪भज्यते⟫** (ya sea de la raíz original **⟪भज्⟫** o de *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (posiblemente de *bhñj + na)
-:::## 31.2. Lista de palabras
+:::
+## 31.2. Lista de palabras
 
 **⟪युज्⟫** 7U **⟪युनक्ति⟫** : engancher, acollarar, tensar, fijar; Ā también: tensarse (= esforzarse), unirse con, concentrarse en (Locativo, ⟪सप्तमी⟫)
 :::indent
@@ -81,33 +85,38 @@ La **⟪कलियुग⟫** comenzó alrededor del 3102 a. C., el año de la
 Fig.: ⟪योगः⟫
 Representación del yoga.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3101))
-:::**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : detener, llevar a un estado de quietud, retener = encerrar, cubrir
+:::
+**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : detener, llevar a un estado de quietud, retener = encerrar, cubrir
 :::indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
 **Kaus. ⟪रोधयति⟫**
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
-:::**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : cortar
+:::
+**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : cortar
 :::indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
 **Kaus. ⟪छेदयति⟫**
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
-:::**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : (algo) romper
+:::
+**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : (algo) romper
 :::indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
-:::**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : untar, embadurnar
+:::
+**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : untar, embadurnar
 :::indent
 **Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
 **Kaus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
 **Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
-:::**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : untar por separado = maquillarse, diferenciarse
+:::
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : untar por separado = maquillarse, diferenciarse
 :::indent
 **PPP ⟪व्यक्त⟫ :** diferenciado, desplegado
 
@@ -118,14 +127,16 @@ de ello:
 Fig.: ⟪व्यञ्जनम्⟫
 Preparación para el baile Kathakali, Kochi.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3102))
-:::**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : dividir
+:::
+**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : dividir
 :::indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
 **Kaus. ⟪भेदयति⟫**
 **PPP ⟪भिन्न⟫**
 **Inf. ⟪भेत्तुम्⟫**
-:::**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : disfrutar (p. ej. comida; "disfrutar de la tierra" = dominar la tierra)
+:::
+**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : disfrutar (p. ej. comida; "disfrutar de la tierra" = dominar la tierra)
 :::indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
@@ -135,7 +146,8 @@ Preparación para el baile Kathakali, Kochi.
 
 de ello:
 **⟪भोग⟫ m.:** disfrute, comida, placer, beneficio, impuesto, contribución
-:::**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): atar, amarrar
+:::
+**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): atar, amarrar
 :::indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
@@ -145,7 +157,8 @@ de ello:
 
 de ello:
 **⟪बन्धन⟫ n.:** atadura, cadena
-:::**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : reconocer, comprender
+:::
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : reconocer, comprender
 :::indent
 de ello:
 **⟪प्रज्ञा⟫ f.:** sabiduría, conocimiento
@@ -154,7 +167,8 @@ de ello:
 Fig.: ⟪प्रज्ञापारमिता⟫
 De un manuscrito de Prajñāpāramitā.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3103))
-:::**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : surgir, existir
+:::
+**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : surgir, existir
 
 **⟪शरीर⟫ n.:** cuerpo, físico
 
@@ -171,7 +185,8 @@ A) Traduzca las siguientes oraciones y descomponga los compuestos:
 Fig.: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
 Tanques del 18.º Regimiento de Caballería (Ejército indio) en movimiento durante la guerra indo-pakistaní de 1965.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3105))
-:::⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
+:::
+⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
 
 ⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫
 
@@ -180,7 +195,8 @@ Tanques del 18.º Regimiento de Caballería (Ejército indio) en movimiento dura
 Fig.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
 Rāhula, hijo de Buda, Laos.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3104))
-:::⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
+:::
+⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
 B) Forme para las siguientes raíces de la 7. clase todas las formas de tercera persona singular y plural, P y Ā, del Indicativo y Optativo Presente:
 

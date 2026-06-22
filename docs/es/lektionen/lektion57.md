@@ -15,7 +15,8 @@ status: stable
 **El s-Aorist se forma con la mayoría de las raíces ⟪अनिट्⟫, siempre que no tengan exclusivamente otra forma de aoristo. Las raíces facultativas ⟪अनिट्⟫ pueden, en general, formar opcionalmente este aoristo o el aoristo iṣ. También las raíces ⟪अनिट्⟫, que forman el ⟪परस्मैपद⟫ después de la 1., 2. o 6. forma del aoristo, forman el ⟪आत्मनेपद⟫ según el s-Aorist.**
 
 **Formación: Aumento + raíz + s + terminación secundaria atemática**
-:::Tabla de terminaciones con sufijo de formación de la raíz
+:::
+Tabla de terminaciones con sufijo de formación de la raíz
 
 :::grammar-box
 
@@ -33,12 +34,15 @@ Ejemplos:
 :::indent
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫
-:::Tales formas también podrían pertenecer al aoristo de la raíz y probablemente en parte también pertenecen a él.
-::::Los gramáticos indios también contaron formas como ⟪अकृत⟫ (3.sg.Ā) como s-Aorist, que claramente pertenecen al aoristo de la raíz. Con este propósito, los gramáticos indios inventaron la siguiente regla fonética ad-hoc para el s-Aorist:
+:::
+Tales formas también podrían pertenecer al aoristo de la raíz y probablemente en parte también pertenecen a él.
+::::
+Los gramáticos indios también contaron formas como ⟪अकृत⟫ (3.sg.Ā) como s-Aorist, que claramente pertenecen al aoristo de la raíz. Con este propósito, los gramáticos indios inventaron la siguiente regla fonética ad-hoc para el s-Aorist:
 
 :::indent
 "Después de una vocal corta, las 'terminaciones' que comienzan con -st- o -sth- pierden la -s-."
-:::De lo contrario, se deben tener en cuenta las reglas fonéticas para la conexión de consonantes finales con s-.
+:::
+De lo contrario, se deben tener en cuenta las reglas fonéticas para la conexión de consonantes finales con s-.
 
 Para -dhvam se aplica:
 
@@ -56,7 +60,8 @@ p.ej. ***⟪चि⟫*** 5U: 2.pl.Ā ***⟪अचेढ्वम्⟫***
     *   **-ṝ final se reemplaza por -īr o -ūr**
     *   **Raíces con ablaut en ā/e/o: Grado reducido**
     *   **Otros vocales de la raíz: inalterados (es decir, por lo general en grado reducido)**
-:::Ejemplos:
+:::
+Ejemplos:
 
 |   | **3.sg.P** |
 | --- | --- |
@@ -83,11 +88,13 @@ p.ej. ***⟪चि⟫*** 5U: 2.pl.Ā ***⟪अचेढ्वम्⟫***
 
 :::indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫***⟪द्राक्षी⟫***⟪त्⟫
-:::Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+:::
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 :::indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***⟪क्राक्षी⟫***⟪त्⟫
-:::::::Paradigmas:
+:::::::
+Paradigmas:
 
 ⟪नी⟫ 1U "conducir"
 
@@ -103,7 +110,8 @@ p.ej. ***⟪चि⟫*** 5U: 2.pl.Ā ***⟪अचेढ्वम्⟫***
 ![](/images/lekt5701.webp)
 Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5701))
-:::⟪कृ⟫ 8U "hacer"
+:::
+⟪कृ⟫ 8U "hacer"
 
 |   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -134,7 +142,8 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 
 3.  ⟪बुध्⟫ Ā puede, en la 3.sg.Ā, opcionalmente adoptar la forma del aorista de raíz pasiva:
     ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "él reconoció"
-:::## 57.2. Ejercicio
+:::
+## 57.2. Ejercicio
 
 A) Traduzca y determine sin herramientas auxiliares las siguientes formas y forme las correspondientes formas de aoristo. A excepción de causativos y raíces que forman el aoristo con s, se indica entre paréntesis la clase del aoristo correspondiente:
 

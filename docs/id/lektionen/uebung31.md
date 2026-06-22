@@ -33,7 +33,8 @@ A deluded person enjoys good food and beautiful women. Whose delusion has disapp
 ![](/images/uebung049.webp)
 Fig.: ⟪कुलबन्धनम्⟫
 (Image source: [Details](/en/licenses#uebung049))
-:::---
+:::
+---
 
 ## Verb Paradigms (7th Grade)
 

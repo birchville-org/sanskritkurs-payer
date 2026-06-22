@@ -5,7 +5,8 @@ outline: 2
 :::deleteme-box
 **Quelle & Urheberrecht**
 
-:::# Glosario Sánscrito–Español
+:::
+# Glosario Sánscrito–Español
 
 *Compilado a partir de las listas de palabras del curso de sánscrito de Alois Payer.*
 

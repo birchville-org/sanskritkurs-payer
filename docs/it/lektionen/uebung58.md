@@ -37,7 +37,8 @@ Determinare e tradurre le seguenti forme e formare le corrispondenti forme dell�
 ![](/images/uebung095.webp)
 Fig.: ⟪तब्लाः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung095))
-:::---
+:::
+---
 
 ## B) Determinazioni delle parole
 

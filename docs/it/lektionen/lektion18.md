@@ -12,7 +12,8 @@ lesson_id: 18
 ⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
 ⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
-:::## 18.2. Composti determinativi (⟪तत्पुरुष⟫) con membro anteriore avverbiale
+:::
+## 18.2. Composti determinativi (⟪तत्पुरुष⟫) con membro anteriore avverbiale
 
 Come elemento anteriore avverbiale (indeclinabile) possono
 
@@ -23,7 +24,8 @@ Come elemento anteriore avverbiale (indeclinabile) possono
 
 :::indent
 essere utilizzati. Tali Tatpuruṣa appartengono per lo più alla classe dei Nityasamāsa = ⟪नित्यसमास⟫ (m. "composto fisso"), cioè dei composti che non possono essere affatto o non solo risolti mediante le parole presenti nel composto stesso.
-:::Esempi:
+:::
+Esempi:
 
 ⟪अति⟫ "oltre":
 
@@ -35,7 +37,8 @@ essere utilizzati. Tali Tatpuruṣa appartengono per lo più alla classe dei Nit
 ⟪अतिस्तुति⟫ f.: lode eccessiva
 
 ⟪अत्युक्ति⟫ f.: discorso eccessivo, esagerazione
-:::Gli elementi anteriori avverbiali più importanti sono a-/an-, su-, dus-.
+:::
+Gli elementi anteriori avverbiali più importanti sono a-/an-, su-, dus-.
 
 ⟪अ⟫ (prima di consonante), ⟪अन्⟫ (prima di vocale): un-: sta nel composto al posto di ⟪न⟫ "non".
 
@@ -49,7 +52,8 @@ Esempi:
 ⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : una non-brahmana, non-brahmana
 
 ⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : un non-dio, non-dio
-:::⟪सु⟫ "bene, buono"; nella risoluzione del composto è sostituito dai commentatori da un aggettivo con il significato di "buono" (ad es. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
+:::
+⟪सु⟫ "bene, buono"; nella risoluzione del composto è sostituito dai commentatori da un aggettivo con il significato di "buono" (ad es. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
 
 Esempi:
 
@@ -61,7 +65,8 @@ Esempi:
 ⟪सुखादित⟫ 3: ben masticato
 
 ⟪सुदुःख⟫ n.: grande sofferenza
-:::⟪दुस्⟫ "male, cattivo" (attenzione al Sandhi!).
+:::
+⟪दुस्⟫ "male, cattivo" (attenzione al Sandhi!).
 
 Esempi:
 
@@ -69,7 +74,8 @@ Esempi:
 ⟪दुर्नय⟫ m.: cattiva guida, cattiva condotta
 
 ⟪दुष्करण⟫ n.: azione cattiva, azione difficile
-:::Si applica la seguente regola:
+:::
+Si applica la seguente regola:
 
 ::::grammar-box
 
@@ -81,7 +87,8 @@ A differenza del Sandhi di frase, nella posizione finale dell'elemento anteriore
 
 Perciò: ⟪दुष्करण⟫
 
-::::### 18.2.1. Composti di tipo ⟪सुकर⟫ / ⟪दुष्कर⟫
+::::
+### 18.2.1. Composti di tipo ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::::grammar-box
 
@@ -97,7 +104,8 @@ Esempi:
 ⟪दुर्गम⟫ 3: difficile da andare
 
 ⟪सुदुर्गम⟫ 3: molto difficile da andare
-:::::::### 18.2.2. Significati di nañ-Tatpuruṣa (a- / an-)
+:::::::
+### 18.2.2. Significati di nañ-Tatpuruṣa (a- / an-)
 
 I Tatpuruṣa con a- / an- possono avere i seguenti significati:
 
@@ -123,7 +131,8 @@ Il seguente verso riassume questi significati:
 ⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
 
 Si nominano sei significati di nañ (= a-/an-) ....
-:::## 18.3. Composti verbali
+:::
+## 18.3. Composti verbali
 
 ::::grammar-box
 
@@ -132,7 +141,8 @@ Si nominano sei significati di nañ (= a-/an-) ....
 ⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
 ⟪गङ्गासलिलमाधुर्यं⟫  
 ⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
-:::⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ pag. 2 righe 14s.
+:::
+⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ pag. 2 righe 14s.
 
 Una preposizione verbale modifica violentemente il significato di una radice, come l'acqua dolce del Gange viene alterata dall'acqua di mare.
 
@@ -140,7 +150,8 @@ Una preposizione verbale modifica violentemente il significato di una radice, co
 
 I verbi possono essere combinati in sanscrito con preposizioni verbali (⟪उपसर्ग⟫ m.). In genere si applica il Sandhi della frase. Le preposizioni verbali possono, a volte, modificare significativamente il significato della radice, per cui in molti casi il significato di una radice con preposizione verbale deve essere appreso separatamente. I verbi con preposizione verbale possono avere un modo diverso (P, Ā) rispetto alla radice semplice. Possono essere poste contemporaneamente più preposizioni verbali prima di una radice.
 
-::::Alcune importanti preposizioni verbali sono:
+::::
+Alcune importanti preposizioni verbali sono:
 
 ⟪उप⟫ "a, verso, contro"
 
@@ -156,7 +167,8 @@ Esempi:
 *   PPP ⟪उपपन्न⟫ 3: dotato di (strumentale)
 
 ⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : afferrare, ottenere
-:::⟪प्र⟫ "avanti, fuori"
+:::
+⟪प्र⟫ "avanti, fuori"
 
 Esempi:
 
@@ -174,7 +186,8 @@ Esempi:
 ⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : esprimere, indicare come, dichiarare come
 
 ⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : lodare prima, lodare ad alta voce, menzionare qualcosa, iniziare
-:::⟪वि⟫ "separatamente, via, via-, dis-"
+:::
+⟪वि⟫ "separatamente, via, via-, dis-"
 
 Esempi:
 
@@ -190,7 +203,8 @@ Esempi:
 ⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : dimenticare
 
 ⟪विहन्⟫ 2 ⟪विहन्ति⟫ : frantumare, distruggere, annientare
-:::⟪सम्⟫ "insieme, con"
+:::
+⟪सम्⟫ "insieme, con"
 
 Esempi:
 
@@ -214,19 +228,22 @@ Esempi:
 
 La radice ⟪कृ⟫ "fare" mostra, in combinazione con le preposizioni verbali ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ anche la forma ⟪स्कृ⟫
 
-::::Esempio:
+::::
+Esempio:
 
 :::indent
 sam-kṛ 8 ⟪संस्करोति⟫ : preparare, preparare per il sacrificio, consacrare
 
 *   PPP ⟪संस्कृत⟫ 3: preparato per il sacrificio ; ⟪संस्कृत⟫ n.: sanscrito: la lingua adatta per il sacrificio ; opposto ⟪प्राकृत⟫ 3: comune, ordinario ; ⟪प्राकृत⟫ n.: lingua comune, Prakrit (denominazione delle lingue popolari e di comunicazione, correlate al sanscrito)
-:::### 18.3.1. Derivazione nominale da composti verbali
+:::
+### 18.3.1. Derivazione nominale da composti verbali
 
 ::::grammar-box
 
 Da radici con prefissi possono essere derivati nominali mediante suffissi kṛt.
 
-::::Esempi:
+::::
+Esempi:
 
 sam-kṛ + -a = ⟪संस्कार⟫ m.: consacrazione, preparazione; riti di transizione = termine per le cerimonie che accompagnano le varie fasi della vita, dal concepimento alla morte (si veda a riguardo l'eccellente sintesi di Basham, Meraviglie, pp. 160-170!)
 
@@ -235,18 +252,21 @@ sam-kṛ + -a = ⟪संस्कार⟫ m.: consacrazione, preparazione; rit
 Fig.: ⟪विवाहः⟫
 Matrimonio = ⟪विवाह⟫ m., un importante ⟪संस्कारः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1804))
-:::upa-nī + -ana = ⟪उपनयन⟫ n.: l'avvicinare (al fuoco sacrificale) = cerimonia mediante la quale ai maschi appartenenti ai tre ordini superiori viene posta la corda sacra (⟪यज्ञोपवीत⟫ n.) e sussurrato all'orecchio il verso sacro ⟪सावित्री⟫, che essi dovranno recitare quotidianamente all'alba e al tramonto. Per i Brahmani il Ṛgveda III.62.10 recita:
+:::
+upa-nī + -ana = ⟪उपनयन⟫ n.: l'avvicinare (al fuoco sacrificale) = cerimonia mediante la quale ai maschi appartenenti ai tre ordini superiori viene posta la corda sacra (⟪यज्ञोपवीत⟫ n.) e sussurrato all'orecchio il verso sacro ⟪सावित्री⟫, che essi dovranno recitare quotidianamente all'alba e al tramonto. Per i Brahmani il Ṛgveda III.62.10 recita:
 
 :::indent
 "Possiamo ricevere l'eccellente splendore del Dio 'Colui che guida', che metta in movimento i nostri pensieri."
-:::Attraverso l'Upanayana avviene la seconda nascita, pertanto: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
+:::
+Attraverso l'Upanayana avviene la seconda nascita, pertanto: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
 
 :::media
 ![](/images/lekt1801.webp)
 Fig.: ⟪उपनयनम्⟫
 "Un giovane ragazzo è visto durante il rituale di upanayana. Il filo giallo, sottile, che va dalla spalla sinistra alla vita è Yagnopaivta. Si noti anche la cintura di erba munja intorno alla vita. Il rametto nella mano destra (di solito dall'albero peepa) siginifica il suo ingresso in Brahmacharya."
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1801))
-:::## 18.4. Elenco di parole
+:::
+## 18.4. Elenco di parole
 
 ⟪सुष्टु⟫ 3: altamente lodato, eccellente, buono
 
@@ -379,7 +399,8 @@ A) Risolvere i seguenti composti in sanscrito e fornire proposte di traduzione:
 Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Stampa
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1802))
-:::B) Tradurre utilizzando verbi della seconda classe di presente:
+:::
+B) Tradurre utilizzando verbi della seconda classe di presente:
 
 1\. Il brāhmaṇa loda le dee.
 
@@ -398,7 +419,8 @@ Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 Fig.: ⟪सुगतः⟫
 ⟪गन्धार⟫ 1./2. Sec. d.C.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1803))
-:::C) Fornire in sanscrito la definizione di yoga in due modi: una volta utilizzando un composto, una volta risolvendo il composto.
+:::
+C) Fornire in sanscrito la definizione di yoga in due modi: una volta utilizzando un composto, una volta risolvendo il composto.
 
 D) Tradurre:
 

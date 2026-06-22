@@ -143,7 +143,8 @@ kiṃ kāraṇam?
 ![](/images/uebung007.webp)
 Fig. : ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#uebung007))
-:::---
+:::
+---
 
 ## Exercice de lecture
 

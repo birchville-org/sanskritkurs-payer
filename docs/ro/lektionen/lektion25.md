@@ -15,13 +15,15 @@ status: stable
 În afară de masculine/neutre pe -a și pronume, în singular, în toate clasele de declinare, formele ablativului (⟪पञ्चमी⟫) sunt identice cu cele ale genitivului (⟪षष्ठी⟫).
 
 În afară de pronumele personale, în toate declinările, în plural, formele ablativului sunt identice cu cele ale dativului (⟪चतुर्थी⟫).
-:::Acum recunoașteți motivul pentru ordinea cazurilor (⟪विभक्ति⟫) în sanscrită: sunt aranjate astfel încât formele cu același sunet să fie cât mai aproape una de cealaltă, respectiv unele sub altele.
+:::
+Acum recunoașteți motivul pentru ordinea cazurilor (⟪विभक्ति⟫) în sanscrită: sunt aranjate astfel încât formele cu același sunet să fie cât mai aproape una de cealaltă, respectiv unele sub altele.
 
 :::grammar-box
 **Ablativ singular al masculinelor/neutrelor pe -a**
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
-:::Pronume interogative, relative și demonstrative:
+:::
+Pronume interogative, relative și demonstrative:
 
 ::::grammar-box
 
@@ -33,7 +35,8 @@ status: stable
 | **⟪एतद्⟫** | **etasmāt**:br(⟪एतस्मात्⟫) | **etasyāḥ**:br(⟪एतस्याः⟫) |
 | **⟪इदम्⟫** | **asmāt**:br(⟪अस्मात्⟫) | **asyāḥ**:br(⟪अस्याः⟫) |
 
-::::## 25.2. Utilizarea ablativului (⟪पञ्चमी⟫)
+::::
+## 25.2. Utilizarea ablativului (⟪पञ्चमी⟫)
 
 „Ablativul indică ceea ce rămâne fix, când ceva se îndepărtează de acesta.”
 
@@ -45,7 +48,8 @@ Ablativul apare în principal în răspuns la întrebările „De unde?”, „D
 1\. Ablativul indică, așadar, punctul de plecare, originea și materialul.
 
 Ablativul poate, prin urmare, să indice și persoana de la care cumperi, auzi, ceri etc.
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 ⟪ग्रमादागच्छति⟫ = „El vine din sat”
@@ -53,7 +57,8 @@ Ablativul poate, prin urmare, să indice și persoana de la care cumperi, auzi, 
 ⟪अश्वात्पतितः⟫ = „căzând de pe cal”
 
 ⟪तेभ्यो⟫ ⟪लब्धम्⟫ = „primind de la ei (în jos)”
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 ⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = „el aude de la învățător despre dharma”
@@ -61,13 +66,15 @@ Ablativul poate, prin urmare, să indice și persoana de la care cumperi, auzi, 
 ⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = „brahmanul își dorește de la kṣatriya o vacă de lapte”
 ::::::grammar-box
 2\. Ablativul apare la verbe cu sensurile „a abate de la”, „a proteja împotriva”, „a apăra împotriva”, „a se teme de”:
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪अरिभ्यो⟫ ⟪रक्षति⟫ = „el se protejează împotriva dușmanilor”
 ::::::grammar-box
 3\. Ablativul indică motivul sau cauza:
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 ⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = „Îl ucide pe fiul său din mânie”
@@ -75,13 +82,15 @@ Ablativul poate, prin urmare, să indice și persoana de la care cumperi, auzi, 
 ⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = „Pentru că a făcut rău, ajunge în iad” („Pentru că este unul prin care s-a făcut rău”)
 
 ⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = „Pentru că face / a făcut rău, ajunge în iad”
-:::Substantivele care nu sunt de gen feminin pot, pentru a indica motivul unei activități, să apară în instrumental (⟪तृतीया⟫) sau ablativ (⟪पञ्चमी⟫). Substantivele de gen feminin apar în acest sens, de regulă, în instrumental, dar pot, ocazional, să apară și în ablativ.
+:::
+Substantivele care nu sunt de gen feminin pot, pentru a indica motivul unei activități, să apară în instrumental (⟪तृतीया⟫) sau ablativ (⟪पञ्चमी⟫). Substantivele de gen feminin apar în acest sens, de regulă, în instrumental, dar pot, ocazional, să apară și în ablativ.
 
 ## 25.3. Suffixul -⟪तस्⟫
 
 :::grammar-box
 Dacă se dorește exprimarea clară în singular a faptului că cuvântul este folosit cu sens ablativ, se poate atașa la rădăcina cuvântului sufixul -⟪तस्⟫, care formează adverbe cu sens, de obicei, ablativ (la întrebarea „De unde?”):
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 ⟪आदितस्⟫ = „de la început”
@@ -95,7 +104,8 @@ Sufixul -⟪तस्⟫ apare și la rădăcinile pronominal:
 ⟪यद्⟫ : ⟪यतस्⟫ „din care, despre care, de unde, unde, încotro, de ce, deoarece” (relativ)
 
 ⟪किम्⟫ :  ⟪कुतस्⟫ „de unde?” „de ce?”
-:::## 25.4. Alte modalități de a exprima motivele
+:::
+## 25.4. Alte modalități de a exprima motivele
 
 :::grammar-box
 **1\. Propoziții relative**
@@ -109,7 +119,8 @@ Forme ale pronumelui relativ care funcționează ca o conjuncție cauzală:
     *   ⟪यस्मात्⟫ ... propoziție subordonată ... ⟪तस्मात्⟫ ... propoziție principală ... = "deoarece ..., prin urmare ..."
 *   instrumental:
     *   ⟪येन⟫ ... propoziție subordonată ... ⟪तेन⟫ ... propoziție principală ... = "prin care/deoarece ..., prin aceasta / de aceea ..."
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = "Deoarece Rāma dorește prosperitatea, el practică jurământul"
@@ -117,7 +128,8 @@ Forme ale pronumelui relativ care funcționează ca o conjuncție cauzală:
 **2\. ⟪हि⟫**
 
 Propozițiile principale pot fi legate între ele folosind particula ⟪हि⟫ "căci, deoarece". O propoziție cu ⟪हि⟫ (care nu poate sta pe prima poziție, ci trebuie să fie pe a doua poziție în proză) indică o justificare fie pentru propoziția anterioară, fie pentru propoziția următoare:
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Oamenii fac lucruri meritorii. Ei vor, de fapt, să ajungă în cer."
@@ -125,7 +137,8 @@ Propozițiile principale pot fi legate între ele folosind particula ⟪हि�
 **3\. Instrumentalul (⟪तृतीया⟫)**
 
 Pe lângă ablativ (⟪पञ्चमी⟫), instrumentalul (⟪तृतीया⟫) este folosit pentru a indica motivul sau cauza. La substantivele feminine, instrumentalul este, în general, obligatoriu.
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "El îl ucide pe fiul său din mânie" = "El îl ucide pe fiul său în mânie"
@@ -139,7 +152,8 @@ Pe lângă acestea, desigur, se pot exprima motivele și prin construcții cu
 *   alte substantive cu sensul de "cauză"
 
 + Genitiv (⟪षष्ठी⟫) sau ca element final al compuselor:
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ ș.a.) = "din cauza meritului"
@@ -147,11 +161,13 @@ Pe lângă acestea, desigur, se pot exprima motivele și prin construcții cu
 **5\. ⟪इति⟫**
 
 Motivația unei acțiuni poate fi exprimată ca un gând folosind ⟪इति⟫:
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Deoarece Sugata s-a trezit perfect la adevăr, Ānanda îl întreabă pe Gautama despre învățătura sa" (« "Gândind "Sugata s-a trezit perfect la adevăr" ...)
-:::## 25.5. Listă de cuvinte
+:::
+## 25.5. Listă de cuvinte
 
 ⟪त्यज्⟫ 1P ⟪त्यजति⟫  a părăsi, a abandona, a lăsa în paragă
 
@@ -165,7 +181,8 @@ Absol. 2: -⟪त्यज्य⟫
 de la care:
 
 ⟪त्याग⟫ m.: abandon, renunțare, evitare
-:::⟪दार⟫ m. pl. (!!!): soție
+:::
+⟪दार⟫ m. pl. (!!!): soție
 
 ⟪द्रव्य⟫ n.: obiect, avere, posesiune materială, bani
 
@@ -175,7 +192,8 @@ de la care:
 ![](/images/lekt2501.webp)
 Fig.: ⟪धान्यम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2501))
-:::⟪धृ⟫ 1U ⟪धरति⟫ : a ține, a reține
+:::
+⟪धृ⟫ 1U ⟪धरति⟫ : a ține, a reține
 
 :::indent
 Fut. ⟪धरिष्यति⟫  
@@ -187,11 +205,13 @@ Absol. 2: -⟪धृत्य⟫
 de la care:
 
 ⟪धर्म⟫ m.: ceea ce este ferm și ferm = Dharma
-:::⟪नित्य⟫ ⟪३⟫ : constant, persistent, etern
+:::
+⟪नित्य⟫ ⟪३⟫ : constant, persistent, etern
 
 :::indent
 ⟪नित्यम्⟫ Adv.: mereu, constant, întotdeauna
-:::⟪प्रज्ञा⟫ f.:  înțelepciune, cunoaștere
+:::
+⟪प्रज्ञा⟫ f.:  înțelepciune, cunoaștere
 
 ⟪प्रदान⟫ n.: a da, donații; dar, donație
 
@@ -206,7 +226,8 @@ Inf. ⟪मदितुम्⟫
 de la care:
 
 ⟪मद⟫ m.: euforie, euforie senzorială = plăcere senzorială
-:::⟪मान⟫ m.: evaluare, reputație, renume, onoare, mândrie, aroganță, sentiment de inferioritate; (te evaluezi pe alții)
+:::
+⟪मान⟫ m.: evaluare, reputație, renume, onoare, mândrie, aroganță, sentiment de inferioritate; (te evaluezi pe alții)
 
 ⟪यदि⟫ Conjuncție: dacă
 
@@ -221,7 +242,8 @@ Pass. ⟪यायते⟫
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
 Absol. 2: -⟪याय⟫
-:::⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
+:::
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
 
 ⟪प्रदान⟫ n. = ⟪दान⟫
 
@@ -235,7 +257,8 @@ Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 de la care:
 
 ⟪शिक्षा⟫ f.: știință, instruire; fonetică
-:::⟪स्तेन⟫ m.: hoț
+:::
+⟪स्तेन⟫ m.: hoț
 
 ⟪स्तेय⟫ n.: furt
 
@@ -249,7 +272,8 @@ de la care:
 ![](/images/lekt2502.webp)
 Fig.: ⟪मूलानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2502))
-:::⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): a unsge, a unge
+:::
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): a unsge, a unge
 
 :::indent
 Fut. ⟪लेप्स्यति⟫  
@@ -264,7 +288,8 @@ de la care:
 ![](/images/lekt2503.webp)
 Fig.: ⟪लिप्तिः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2503))
-:::⟪वर्ष⟫ n.,m.: ploaie, sezonul ploilor, an
+:::
+⟪वर्ष⟫ n.,m.: ploaie, sezonul ploilor, an
 
 ⟪वह्⟫ 1U ⟪वहति⟫ : a conduce, a conduce, a sufla (vânt)
 
@@ -284,13 +309,15 @@ de la care:
 ![](/images/lekt2504.webp)
 Fig.: ⟪विवाहः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2504))
-:::⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : a duce departe, a instrui, a educa
+:::
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : a duce departe, a instrui, a educa
 
 :::indent
 de la care:
 
 ⟪विनय⟫ m.: îndepărtare, educație, disciplină, budist.: disciplină monahală, drept monahal
-:::⟪विज्ञान⟫ n.: cunoaștere, cunoștință
+:::
+⟪विज्ञान⟫ n.: cunoaștere, cunoștință
 
 ⟪विष्टि⟫ f.: muncă, muncă forțată
 
@@ -298,7 +325,8 @@ de la care:
 ![](/images/lekt2505.webp)
 Fig.: ⟪विष्टिः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2505))
-:::⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : a crește, a deveni mai mare
+:::
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : a crește, a deveni mai mare
 
 :::indent
 Fut. ⟪वर्धिष्यते⟫  
@@ -309,7 +337,8 @@ Inf. ⟪वर्धितुम्⟫
 din:
 
 ⟪वृद्धि⟫ f.: creștere, dezvoltare, grad de extindere (din: vṛdh-ti)
-:::⟪सामर्थ्य⟫ n.: ceea ce corespunde scopului său
+:::
+⟪सामर्थ्य⟫ n.: ceea ce corespunde scopului său
 
 ⟪स्वभाव⟫ m.: ființă, natură, caracter
 
@@ -321,7 +350,8 @@ din:
 ![](/images/lekt2506.webp)
 Fig.: ⟪हिरण्यम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2506))
-:::⟪अणु⟫ ⟪३⟫ : subțire, fin, foarte mic ; m.: atom
+:::
+⟪अणु⟫ ⟪३⟫ : subțire, fin, foarte mic ; m.: atom
 
 ⟪गोदान⟫ n.: dare de vaci / a unei vaci; a doua ceremonie de tundere a părului (un ⟪संस्कार⟫)
 
@@ -376,7 +406,8 @@ B) Traduceți și rezolvați compusele în sanscrită:
 :::media
 ![](/images/lekt2507.webp)
 Fig.: ⟪लोकादधिको⟫ ⟪हरिः⟫
-:::## 25.7. ⟪सुभाषितानि⟫
+:::
+## 25.7. ⟪सुभाषितानि⟫
 
 ⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫  
 ⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
@@ -385,7 +416,8 @@ Fig.: ⟪लोकादधिको⟫ ⟪हरिः⟫
 
 :::indent
 Explicație: ⟪सर्वतस्⟫ = sarva "orice, toți" + -tas ; ⟪अणु⟫ = Nom., Akk. sg. neutr.
-:::⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
+:::
+⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
 ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
 ⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫  
 ⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥२॥⟫
@@ -401,7 +433,8 @@ Explicație: ⟪सर्वतस्⟫ = sarva "orice, toți" + -tas ; ⟪अ�
 
 :::indent
 Explicație: ⟪राजा⟫ = Nom. sg. la ⟪राजन्⟫ m. = ⟪नृप⟫
-:::## 25.8. Exercițiu de traducere
+:::
+## 25.8. Exercițiu de traducere
 
 1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. despre utilitatea economiei:
 

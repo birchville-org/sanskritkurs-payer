@@ -16,7 +16,8 @@ status: stable
 **În fața terminațiilor vocalice, vocala de bază a temei are gradul zero Ø în cazurile slabe.**
 
 **Declinarea la masculin și feminin este identică.**
-:::Paradigmă:
+:::
+Paradigmă:
 
 ⟪विश्वपा⟫ m.f. "cel care protejează totul"
 
@@ -36,7 +37,8 @@ status: stable
 **Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
 **Pe lângă formele cu terminațiile cazuale regulate, în Dat.Ab.Gen.Lok.sg. și Gen.pl. apar și forme după modelul femininelor polisilabice în -ī (⟪देवी⟫).**
-:::Paradigmă:
+:::
+Paradigmă:
 
 ⟪धी⟫ f. "gând"
 
@@ -67,7 +69,8 @@ Neregulat: ⟪स्त्री⟫ f. "femeie"
 ![](/images/lekt6102.webp)
 Fig.: ⟪स्त्रियः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6102))
-:::### 61.1.3. Nume de rădăcină cu sufixul -ī la finalul lui ⟪तत्पुरुष⟫
+:::
+### 61.1.3. Nume de rădăcină cu sufixul -ī la finalul lui ⟪तत्पुरुष⟫
 
 :::grammar-box
 **Înainte de terminații vocalice, -ī este înlocuit cu -y, dacă îi precede un singur consoană aparținând rădăcinii. Dacă precede mai multe consoane aparținând rădăcinii, -ī înainte de terminația vocalică este înlocuit cu -iy.**
@@ -76,7 +79,8 @@ Fig.: ⟪स्त्रियः⟫
 
 **Neregularitate: Compusele cu sufixul -⟪नी⟫ "care conduce" au în locativul singular terminația -ām (ca și ⟪देवी⟫):**
 de ex. ⟪ग्रामणी⟫ "care conduce un grup/vilag": loc.sg.m.f. ⟪ग्रामण्याम्⟫
-:::Paradigme:
+:::
+Paradigme:
 
 ⟪शुद्धधी⟫ m., f. "Gândind pur"
 
@@ -108,7 +112,8 @@ de ex. ⟪ग्रामणी⟫ "care conduce un grup/vilag": loc.sg.m.f. ⟪
 **Stem înaintea vocală: -uv**
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
-:::Paradigmă:
+:::
+Paradigmă:
 
 ⟪भू⟫ f. "Pământ"
 
@@ -128,7 +133,8 @@ de ex. ⟪ग्रामणी⟫ "care conduce un grup/vilag": loc.sg.m.f. ⟪
 **Înainte de terminații vocale, -ū este înlocuit cu -v, dacă este precedat doar de un singur consoană care aparține rădăcinii. Dacă sunt precedate mai multe consoane care aparțin rădăcinii, -ū înainte de terminația vocală este înlocuit cu -uv.**
 
 **Declinarea este identică în masculin și feminin.**
-:::Paradigmă:
+:::
+Paradigmă:
 
 ⟪खलपू⟫ m., f. "cel care curăță grajdul"
 
@@ -147,11 +153,13 @@ de ex. ⟪ग्रामणी⟫ "care conduce un grup/vilag": loc.sg.m.f. ⟪
 Fig.: ⟪रथ्याप्वः⟫
 ⟪काशीपुर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6106))
-:::### 61.1.6. Declinarea femininelor polisilabice în -ū
+:::
+### 61.1.6. Declinarea femininelor polisilabice în -ū
 
 :::grammar-box
 **Femininele polisilabice în -ū se declină analog cu rădăcinile polisilabice în -ī (⟪देवी⟫), dar se termină în Nom. sg. în -s.**
-:::Paradigmă:
+:::
+Paradigmă:
 
 ⟪वधू⟫ f. "femeie tânără, mireasă"
 
@@ -171,7 +179,8 @@ Fig.: ⟪रथ्याप्वः⟫
 Fig.: ⟪वध्वौ⟫
 ⟪जोधपुर⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt6107))
-:::## 61.2. Viitorul perifrastic (⟪लुट्⟫)
+:::
+## 61.2. Viitorul perifrastic (⟪लुट्⟫)
 
 :::grammar-box
 **Pe lângă viitorul simplu (⟪ऌत्⟫) există un viitor perifrastic (⟪लुट्⟫). Conform învățăturii gramaticienilor indigeni, acesta este folosit pentru a indica viitorul îndepărtat („după ziua curent”), în timp ce viitorul simplu indică viitorul apropiat („în ziua curentă”). În sanscrita clasică, se pare că de obicei nu se face nicio diferență în utilizarea celor două viitoare.**
@@ -179,7 +188,8 @@ Fig.: ⟪वध्वौ⟫
 **Formare:**
 
 **Viitorul perifrastic se formează prin combinarea unui nume de agent în -tṛ cu prezentul verbului ⟪अस्⟫ 2. A treia persoană servește ca nume simplu în numărul corespunzător, fără distincție de gen gramatical. În legăturile cu ⟪अस्⟫, numele are în toate persoanele și numerele forma de nominativ singular în -tā.**
-:::Sufixele viitorului perifrastic sunt, așadar:
+:::
+Sufixele viitorului perifrastic sunt, așadar:
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -190,7 +200,8 @@ Fig.: ⟪वध्वौ⟫
 | **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
 ::::::grammar-box
 **Forma rădăcinii: Rădăcina are, în general, aceeași formă ca în viitorul simplu. Acesta este și cazul pentru vocala de legătură -i-.**
-:::Exemple:
+:::
+Exemple:
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ etc. |
 | --- | --- |
@@ -211,7 +222,8 @@ Paradigmă:
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 ::::::grammar-box
 **Foarte rar, verbul ⟪अस्⟫ este separat de tema nominală.**
-:::## 61.3. Intensivul (Frecventativul) (⟪चर्करीतम्⟫)
+:::
+## 61.3. Intensivul (Frecventativul) (⟪चर्करीतम्⟫)
 
 :::grammar-box
 **De fiecare rădăcină monosilabică, care începe cu consoană, din primele nouă clase de prezente, se poate forma un intensiv (⟪चर्करीतम्⟫); adică: cu puține excepții, nu se poate forma un intensiv din rădăcini disilabice (de ex. ⟪जागृ⟫), din rădăcini care încep cu vocală și din rădăcinile celei de-a zecea clase de prezente (⟪चुरादिगण⟫).**
@@ -245,7 +257,8 @@ Karnataka = ಕರ್ನಾಟಕ
 *   **Intensiv în Parasmaipada**
 
 **Ambele se formează din rădăcina reduplicată cu reduplicare puternică. Ambele nu diferă în sens. Ambele pot fi formate pentru aceleași rădăcini.**
-:::### 61.3.1. Intensivul Ātmanepada
+:::
+### 61.3.1. Intensivul Ātmanepada
 
 ::::grammar-box
 **Formare:**
@@ -259,10 +272,12 @@ Exemple:
 :::indent
 ⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
 ⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
-:::Regulile în detaliu la Kielhorn, Gramatikă § 461.
+:::
+Regulile în detaliu la Kielhorn, Gramatikă § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-::::Exemple:
+::::
+Exemple:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -277,7 +292,8 @@ Exemple:
 
 :::indent
 z.B. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
-:::**La unele rădăcini apare între vocala silabei de reduplicare și consoana inițială a rădăcinii -nī- respectiv -rī- (-rī- la rădăcinile care conțin un ṛ în intensīv).**
+:::
+**La unele rădăcini apare între vocala silabei de reduplicare și consoana inițială a rădăcinii -nī- respectiv -rī- (-rī- la rădăcinile care conțin un ṛ în intensīv).**
 
 :::indent
 z.B.
@@ -293,7 +309,8 @@ z.B.
     *   **Aorist: aorist iṣ (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
     *   **Viitor: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
     *   **viitor perifrastic: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
-:::### 61.3.2. Intensivul Parasmaipada
+:::
+### 61.3.2. Intensivul Parasmaipada
 
 :::grammar-box
 **Tema de prezent (alte forme sunt extrem de rare): Formare și conjugare ca un verb din cl. a III-a de prezent (⟪जुहोत्यादिगण⟫) cu diferența că vocala silabei de reduplicare este în gradul gur, iar la -a- în gradul dīrgha.**
@@ -301,7 +318,8 @@ z.B.
 **La singular indicativ prezent, precum și la 2.3.sg. imperfect și 3.sg. imperativ, se poate insera un -ī- între rădăcină și desinență. Dacă se inserează acest -ī-, nu se poate face gurul unei vocale scurte în penultima poziție.**
 
 **În ceea ce privește reduplicarea cu nazală, precum și inserarea lui -nī- sau -rī-, se aplică aceleași reguli ca și pentru intensul Ātmanepada. În loc de -rī- se poate folosi opțional -ri-.**
-:::Paradigmă:
+:::
+Paradigmă:
 
 ⟪भू⟫ 1P
 
@@ -313,7 +331,8 @@ Indicativ prezent (⟪लट्⟫):
 | 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
-:::Imperfect (⟪लङ्⟫):
+:::
+Imperfect (⟪लङ्⟫):
 
 :::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -321,7 +340,8 @@ Indicativ prezent (⟪लट्⟫):
 | 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
-:::Imperativ (⟪लोट्⟫):
+:::
+Imperativ (⟪लोट्⟫):
 
 :::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -329,7 +349,8 @@ Indicativ prezent (⟪लट्⟫):
 | 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
-:::Optativ (⟪विधिलिङ्⟫):
+:::
+Optativ (⟪विधिलिङ्⟫):
 
 :::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -337,7 +358,8 @@ Indicativ prezent (⟪लट्⟫):
 | 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
-:::## 61.4. Denominative (⟪नामधातु⟫)
+:::
+## 61.4. Denominative (⟪नामधातु⟫)
 
 Denominativele (⟪नामधातवः⟫) se formează, spre deosebire de verbele tratate până acum, nu de o rădăcină verbală, ci de o stemă nominală. Există diferite tipuri de formare.
 
@@ -348,11 +370,13 @@ Denominativele (⟪नामधातवः⟫) se formează, spre deosebire de 
 
 :::indent
 **o persoană sau o lucrare se comportă așa cum, sau seamănă cu, ceea ce este indicat de tema nominală.**
-:::**Conjugare:**
+:::
+**Conjugare:**
 
 :::indent
 **la tema prezentului, ca un verb din clasa I de prezent (⟪भ्वादिगण⟫). Dacă numele are ca vocală finală un vocal, doar ultimul vocal este tratat ca vocala rădăcinii clasei I. -a final dispare înainte de vocala tematică. Vocala dinaintea nasalului final este înlocuită cu lungimul corespunzător.**
-:::::::Exemple:
+:::::::
+Exemple:
 
 | ⟪कवि⟫ m. "poet" | ⟪कवयति⟫ "el se comportă ca un poet" |
 | --- | --- |
@@ -382,7 +406,8 @@ Denominativele (⟪नामधातवः⟫) se formează, spre deosebire de 
 *   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
 *   **nasalul final cade, vocala dinaintea sa este tratată conform regulilor de mai sus:** ⟪राजन्⟫ » ⟪राजीय⟫-
 *   **celelalte consoane finale rămân neschimbate**
-:::::::Exemple:
+:::::::
+Exemple:
 
 | ⟪पुत्र⟫ m. "fiu" | ⟪पुत्रीयति⟫ "el își dorește un fiu" |
 | --- | --- |
@@ -407,13 +432,15 @@ Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ![](/images/lekt6103.webp)
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6103))
-:::### 61.4.3. Formare cu sufixul -kāmya, Parasmaipada
+:::
+### 61.4.3. Formare cu sufixul -kāmya, Parasmaipada
 
 :::grammar-box
 **Semnificație:**
 
 **cineva își dorește ceea ce este indicat de baza nominală**
-:::Exemple:
+:::
+Exemple:
 
 | ⟪पुत्र⟫ m. "fiu" | ⟪पुत्रकाय्म्यति⟫ "el își dorește un fiu" |
 | --- | --- |
@@ -424,14 +451,16 @@ Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥�
 Fig.: ⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6109))
-:::### 61.4.4. Formare cu sufixul -sya sau -asya, Parasmaipada
+:::
+### 61.4.4. Formare cu sufixul -sya sau -asya, Parasmaipada
 
 ::::grammar-box
 **Semnificație:**
 
 :::indent
 **cineva dorește intens ceea ce este indicat de baza nominală.**
-:::::::Exemple:
+:::::::
+Exemple:
 
 :::grammar-box
 | ⟪मधु⟫ n. "miere" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "el dorește intens mierea" |
@@ -442,14 +471,16 @@ Fig.: ⟪यशस्काम्यन्ति⟫
 Fig.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
 Karli
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6110))
-:::### 61.4.5. Formare cu sufixul -ya, Ātmanepada
+:::
+### 61.4.5. Formare cu sufixul -ya, Ātmanepada
 
 ::::grammar-box
 **Semnificație:**
 
 :::indent
 **cineva se comportă ca acel, sau seamănă cu, ceea ce este indicat de baza nominală.**
-:::**Formare:**
+:::
+**Formare:**
 
 *   **finalul -a » -ā**
 *   **finalul -ā rămâne neschimbat**
@@ -457,7 +488,8 @@ Karli
 *   **finalul -as opțional » -ā**
 *   **baza feminină de obicei » baza masculină**
 
-::::Exemple:
+::::
+Exemple:
 
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "el se comportă ca Kṛṣṇa" |
 | --- | --- |
@@ -469,7 +501,8 @@ Karli
 
 :::indent
 de ex. ⟪उन्मनस्⟫ 3 "stârnit": ⟪उन्मनायते⟫ "el devine stârnit"
-:::**În unele cazuri, cu acest sufix se formează verbe cu alte semnificații:**
+:::
+**În unele cazuri, cu acest sufix se formează verbe cu alte semnificații:**
 
 Exemple:
 
@@ -480,13 +513,15 @@ Exemple:
 ![](/images/lekt6111.webp)
 Fig.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6111))
-:::### 61.4.6. Formarea cu sufixul -aya, -āpaya
+:::
+### 61.4.6. Formarea cu sufixul -aya, -āpaya
 
 :::grammar-box
 **Diverse semnificații.**
 
 **Se conjugă ca verbele cauzative.**
-:::Exemple:
+:::
+Exemple:
 
 | ⟪सत्य⟫ 3 "adevărat" | ⟪स्तयपायति⟫ "el declară adevărat" |
 | --- | --- |
@@ -497,7 +532,8 @@ Fig.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
 Fig.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
 Thailanda - เมืองไทย
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6113))
-:::O listă de derivate nominalizate, de exemplu, în:
+:::
+O listă de derivate nominalizate, de exemplu, în:
 
 :::media
 ![](/images/lekt6112.jpg)
@@ -506,14 +542,16 @@ Fig.:
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6112))
 ::::::indent
 **Westergaard**, Niels Ludvig &lt;1815-1878&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- P. 335 - 341.
-:::## 61.5. Benedictivul (⟪आशीर्लिङ्⟫)
+:::
+## 61.5. Benedictivul (⟪आशीर्लिङ्⟫)
 
 ::::grammar-box
 **Semnificație:**
 
 :::indent
 **Dorință de binecuvântare**
-:::**Formare:**
+:::
+**Formare:**
 
 **Parasmaipada:**
 
@@ -521,7 +559,8 @@ Fig.:
 
 :::indent
 ex. ⟪बुध्यासम्⟫ "să cunosc!"
-:::**Ātmanepada:**
+:::
+**Ātmanepada:**
 
 **(de obicei) rădăcină în grad înalt + sī(y) + terminație secundară**
 
@@ -533,9 +572,11 @@ ex. ⟪बुध्यासम्⟫ "să cunosc!"
 ex.
 ⟪जि⟫ : ⟪जेषीय⟫ "să înving în propriul meu interes!"
 ⟪बुध्⟫ : ⟪बोधिषीय⟫ "să cunosc"
-:::**Regulile privind forma rădăcinii în detaliu la Kielhorn, Gramatică § 380ss.**
+:::
+**Regulile privind forma rădăcinii în detaliu la Kielhorn, Gramatică § 380ss.**
 
-::::Paradigmă:
+::::
+Paradigmă:
 
 ⟪बुध्⟫ "a se trezi"
 
@@ -551,11 +592,13 @@ ex.
 Fig.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
 Bazilica Santa Cruz, Kochi = കൊച്ചി
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6114))
-:::## 61.6. Condiționalul (⟪ऌङ्⟫)
+:::
+## 61.6. Condiționalul (⟪ऌङ्⟫)
 
 :::grammar-box
 **Condiționalul (⟪ऌङ्⟫) este utilizat atunci când se dorește exprimarea, în propozițiile condiționale, că ceea ce este menționat ca condiție nu este / nu a fost / nu va fi cazul. Condiționalul trebuie utilizat în astfel de propoziții atât în propoziția condițională, cât și în propoziția principală.**
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ „Dacă ar fi plouat bine (sau ar ploua), ar exista hrană abundentă. (Dar nu a plouat (suficient).)”
@@ -567,7 +610,8 @@ Bazilica Santa Cruz, Kochi = കൊച്ചി
 adică, ca un imperfect (⟪लङ्⟫) la tema viitorului.
 
 de ex. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
-:::Paradigmă:
+:::
+Paradigmă:
 
 ⟪भू⟫ „a fi, a deveni”
 
@@ -578,13 +622,15 @@ de ex. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪�
 | **1\. ⟪तृतीयः⟫** | ⟪अभविष्यम्⟫ | ⟪अभविष्याव⟫ | ⟪अभविष्याम⟫ | ⟪अभविष्ये⟫ | ⟪अभविष्यावहि⟫ | ⟪अभविष्यामहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
-:::## 61.7. Declinarea substantivelor cu sufixul -ai, -o, -au
+:::
+## 61.7. Declinarea substantivelor cu sufixul -ai, -o, -au
 
 :::grammar-box
 **Înainte de consoane, aceste teme se termină în -ai, -o, -au; înainte de vocale, în -āy, -av, -āv**
 
 **⟪गो⟫ m.f. "bou, vacă" prezintă alternanță de grad al temei.** Vedeți explicația detaliată la Thumb-Hauschild § 296/7.
-:::Paradigme: Kielhorn, Grammatik § 153:
+:::
+Paradigme: Kielhorn, Grammatik § 153:
 
 :::media
 ![](/images/lekt6115.webp)
@@ -593,7 +639,8 @@ de ex. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪�
 ![](/images/lekt6118.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6118))
-:::## 61.8. Pronume rămase
+:::
+## 61.8. Pronume rămase
 
 ### 61.8.1. Pronume personale la dual
 
@@ -607,7 +654,8 @@ Kielhorn, Gramatică § 177:
 Ilustr.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
 Populația Apatani, Arunachal Pradesh
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6117))
-:::### 61.8.2. Pronume demonstrative ⟪अदस्⟫ "acel (îndepărtat)"
+:::
+### 61.8.2. Pronume demonstrative ⟪अदस्⟫ "acel (îndepărtat)"
 
 Masculin (⟪पुंस्⟫)
 
@@ -621,7 +669,8 @@ Masculin (⟪पुंस्⟫)
 | **⟪पञ्चमी⟫** | ⟪अमुष्मात्⟫ | ^^ | ^^ |
 | **⟪षष्ठी⟫** | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
-:::Neutru (⟪नपुंसक⟫)
+:::
+Neutru (⟪नपुंसक⟫)
 
 :::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -631,7 +680,8 @@ Masculin (⟪पुंस्⟫)
 
 Restul ca la Masculin
 
-:::Feminin (⟪स्त्री⟫)
+:::
+Feminin (⟪स्त्री⟫)
 
 :::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -643,7 +693,8 @@ Restul ca la Masculin
 | **⟪पञ्चमी⟫** | ⟪अमुष्यास्⟫ | ^^ | ^^ |
 | **⟪षष्ठी⟫** | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
-:::## 61.9. Eliberarea în oceanul literaturii sanscrite: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+:::
+## 61.9. Eliberarea în oceanul literaturii sanscrite: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
 După finalizarea cursului de sanscrită, începe cu adevărat „înotul” propriu-zis în oceanul literaturii sanscrite. Deoarece acest ocean este plin de obstacole, este adecvat să începem această nouă etapă a vieții cu o invocație către Gaṇeśa:
 
@@ -657,7 +708,8 @@ Halebidu (ಹಳೆಬೀಡು), sec. al XII-lea/al XIII-lea d. Hr.
 |   |   |
 | --- | --- |
 | ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
-:::::::***ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫*** de Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
+:::::::
+***ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫*** de Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
 Compozitor și poet: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
@@ -674,11 +726,13 @@ Tāla: Rūpaka: o |4
 ![](/images/lekt6119.webp)
 Fig.: Melodia, raportată la do, poate fi transpusă în funcție de registrul vocal.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6119))
-:::ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ se află la începutul predării muzicii kannareze. Vedeți videoclipul: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accesat la data de 05.03.2009 
+:::
+ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ se află la începutul predării muzicii kannareze. Vedeți videoclipul: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accesat la data de 05.03.2009 
 
 După ce ați învățat acum bazele sanscrite, sunteți, sper, ca bebelușii din videoclip: uneori stângaci, dar dornici de învățare și cunoaștere, și bucuroși în ceea ce faceți. Păstrați până la sfârșitul vieții „o minte de începător”.
 
-:::center
+:::
+center
 Acesta este dorința dumneavoastră, Alois Payer
 
 Ofterdingen, 09.03.2009
@@ -686,7 +740,8 @@ Ofterdingen, 09.03.2009
 ***⟪ॐ⟫***
 
 Sfârșitul cursului de sanscrită
-:::---
+:::
+---
 
 :::deleteme-box
 

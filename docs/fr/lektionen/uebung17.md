@@ -76,7 +76,8 @@ B) Insérez l'agent et le verbe au pluriel dans les phrases formées en A)
 ![](/images/uebung025.webp)
 Fig. : ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Source de l'image : [Détails](/fr/licenses#uebung025))
-:::---
+:::
+---
 
 ## Exercice sur les formes verbales
 

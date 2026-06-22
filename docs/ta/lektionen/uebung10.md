@@ -211,7 +211,8 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 ![](/images/uebung011.webp)
 படம்: ⟪ग्रामः⟫
 (படம் மூலம்: [விவரங்கள்](/licenses#uebung011))
-:::---
+:::
+---
 
 ## வாசனை பயிற்சி
 

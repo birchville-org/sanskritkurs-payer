@@ -35,7 +35,8 @@ This triple refuge is crucial for possessing the necessary motivation and persev
 The essential point, however, is not the liberator's personality, but the doctrine of liberation, which enables the individual to walk the path themselves. One must be so convinced by the teaching that one expends the energy to test it for its truth value (**Refuge in the Dharma**).
 
 Furthermore, one must be convinced that others have successfully walked this path. This is the **Refuge in the Sangha**, the community of those who have reached liberation on the Buddha's path.
-:::⟪२⟫. **⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
+:::
+⟪२⟫. **⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 "I will go to Benares (Kāśī), see the Ganges, and die there" — with this thought, the venerable old man left behind sons, grandsons, and property, and moved to Benares. I think that by doing so, he will overcome the suffering that is to be ended.
 
 ⟪३⟫. **⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**

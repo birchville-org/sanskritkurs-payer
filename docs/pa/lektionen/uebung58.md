@@ -37,7 +37,8 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung095.webp)
 ਚਿੱਤਰ: ⟪तब्लाः⟫
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/licenses#uebung095))
-:::---
+:::
+---
 
 ## ਬ) ਸ਼ਬਦ ਨਿਰਦੇਸ਼
 

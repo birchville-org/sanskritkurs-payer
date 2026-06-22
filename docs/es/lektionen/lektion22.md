@@ -27,21 +27,24 @@ Al traducir al alemán, evite decir constantemente "después de". En su lugar, u
 
 (determinación del absolutivo: adjunto circunstancial, objeto, etc.) - absolutivo - absolutivo - ... - absolutivo - ... agente + oración verbal (en activo o pasivo)
 
-:::**Ejemplos:**
+:::
+**Ejemplos:**
 
 :::indent
 **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = construcción pasiva: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
 "El hombre entra en la casa, ve a la niña pequeña y le habla."
 
 Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
-:::## 22.2. Formación del absolutivo
+:::
+## 22.2. Formación del absolutivo
 
 :::grammar-box
 **Formación del absolutivo**
 
 *   Verbos sin prefijo: absolutivo en **-tvā**
 *   Verbos con prefijo: absolutivo en **-ya** o **-tya**
-:::### 22.2.1. Verbos sin prefijo: Absoluto en -⟪त्वा⟫
+:::
+### 22.2.1. Verbos sin prefijo: Absoluto en -⟪त्वा⟫
 
 :::grammar-box
 
@@ -51,7 +54,8 @@ Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां�
 
 Solo la negación **a-** / **an-** es compatible con el sufijo **-⟪त्वा⟫** : **⟪अकृत्वा⟫** "sin haber hecho"
 
-:::**Ejemplos:**
+:::
+**Ejemplos:**
 
 :::indent
 **⟪आप्त्वा⟫** "después de que él / ella / ello / yo / tú / nosotros / vosotros / ellos / nosotros dos / vosotros dos / ellos dos han alcanzado / habían alcanzado"
@@ -65,7 +69,8 @@ Solo la negación **a-** / **an-** es compatible con el sufijo **-⟪त्व�
 **⟪जित्वा⟫** "después de que él (...) ha triunfado / había triunfado"
 
 **⟪उक्त्वा⟫** "después de que él (...) ha hablado / había hablado"
-:::### 22.2.2. Verbos con prefijo verbal
+:::
+### 22.2.2. Verbos con prefijo verbal
 
 #### 22.2.2.1. Raíces con vocal larga (excepto -ā) o con consonante final
 
@@ -73,7 +78,8 @@ Solo la negación **a-** / **an-** es compatible con el sufijo **-⟪त्व�
 
 **(por lo general) raíz en grado cero + -ya**
 
-:::**Ejemplos:**
+:::
+**Ejemplos:**
 
 :::indent
 **⟪उपनीय⟫** "después de que (...) ha conducido / había conducido"
@@ -81,23 +87,27 @@ Solo la negación **a-** / **an-** es compatible con el sufijo **-⟪त्व�
 **⟪प्रभूय⟫** "después de que (...) ha sobresalido / había sobresalido" "después de que (...) ha tenido poder"
 
 **⟪प्राप्य⟫** "después de que (...) ha obtenido / había obtenido"
-:::#### 22.2.2.2. Raíces en -ā
+:::
+#### 22.2.2.2. Raíces en -ā
 
 :::grammar-box
 
 **raíz en grado pleno invariable + -ya**
 
-:::**Ejemplo:**
+:::
+**Ejemplo:**
 
 :::indent
 **⟪उपस्थाय⟫** "después de que (...) ha entrado / había entrado" ; (pero sin prefijo verbal: **⟪स्थित्वा⟫**)
-:::#### 22.2.2.3. Raíces que en grado cero terminan en -i, -u, -ṛ breves
+:::
+#### 22.2.2.3. Raíces que en grado cero terminan en -i, -u, -ṛ breves
 
 :::grammar-box
 
 **raíz en grado cero + -tya**
 
-:::**Ejemplos:**
+:::
+**Ejemplos:**
 
 :::indent
 **⟪प्रस्तुत्य⟫** "después de que (...) ha alabado en voz alta / había alabado en voz alta"
@@ -105,7 +115,8 @@ Solo la negación **a-** / **an-** es compatible con el sufijo **-⟪त्व�
 **⟪विस्मृत्य⟫** "después de que (...) ha olvidado / había olvidado"
 
 **⟪संस्कृत्य⟫** "después de que (...) ha preparado para el sacrificio / había preparado para el sacrificio"
-:::#### 22.2.2.4. Raíces en -am / -an que en grado cero terminan en -a
+:::
+#### 22.2.2.4. Raíces en -am / -an que en grado cero terminan en -a
 
 :::grammar-box
 
@@ -117,11 +128,13 @@ o:
 
 Raíz en **-a** + **-tya**
 
-:::**Ejemplo:**
+:::
+**Ejemplo:**
 
 :::indent
 **⟪विगम्य⟫** o **⟪विगत्य⟫** "después de que (...) ha pasado / había pasado"
-:::## 22.3. Lista de palabras
+:::
+## 22.3. Lista de palabras
 
 **⟪काम⟫ m.:** deseo, anhelo; regalo deseado, placer sensual, amor, dios del amor
 
@@ -132,7 +145,8 @@ Raíz en **-a** + **-tya**
 Fig.: ⟪कामदेवः⟫
 Siglo XIX
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2202))
-:::**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pas.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** ser capaz, poder
+:::
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pas.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** ser capaz, poder
 
 de ello:
 
@@ -145,11 +159,13 @@ de ello:
 Fig.: ⟪दुर्गाशक्तिः⟫
 Calcuta = কলকাতা
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2203))
-:::**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pas.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** merecer algo (ser digno de algo), deber, estar obligado a, deber (en la 2.ª persona, **⟪अर्ह्⟫** + infinitivo se usa a menudo como orden suave: "Deberías")
+:::
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pas.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** merecer algo (ser digno de algo), deber, estar obligado a, deber (en la 2.ª persona, **⟪अर्ह्⟫** + infinitivo se usa a menudo como orden suave: "Deberías")
 
 :::indent
 **⟪अर्हन्त्⟫ 3** Part. Pres. P: un digno. En el budismo y el jainismo: alguien que ha alcanzado la liberación final
-:::**⟪व्रत⟫ n.:** voto, obligación religiosa, observancia religiosa (uno promete algo a la deidad para obtener algo de ella. Ejemplo: una madre promete entregar a su hija como prostituta sagrada (**⟪देवदासी⟫**) si su hija se recupera. **⟪व्रत⟫** importantes hoy: ayuno; abstinencia de alimentos que se aman; abstinencia sexual; lectura de escrituras sagradas; realización de ciertos rituales; alimentación de brahmanes, etc. Breve sobre **⟪व्रत⟫**: Walker, Hindu World Vol. II, p. 581ss. Detallado: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. Allí p. 253 - 462 lista de **⟪व्रत⟫** y festividades religiosas ("la siguiente lista ... no pretende ser exhaustiva" !!!)
+:::
+**⟪व्रत⟫ n.:** voto, obligación religiosa, observancia religiosa (uno promete algo a la deidad para obtener algo de ella. Ejemplo: una madre promete entregar a su hija como prostituta sagrada (**⟪देवदासी⟫**) si su hija se recupera. **⟪व्रत⟫** importantes hoy: ayuno; abstinencia de alimentos que se aman; abstinencia sexual; lectura de escrituras sagradas; realización de ciertos rituales; alimentación de brahmanes, etc. Breve sobre **⟪व्रत⟫**: Walker, Hindu World Vol. II, p. 581ss. Detallado: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. Allí p. 253 - 462 lista de **⟪व्रत⟫** y festividades religiosas ("la siguiente lista ... no pretende ser exhaustiva" !!!)
 
 **⟪चर्⟫ 1 P  charati Pas.  charyate PPP  charita Inf.  charitum (Sánscrito: ⟪चर्⟫ 1 P ⟪चरति⟫ Pas.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** pastorear, vagar, moverse, actuar, ejercer algo, realizar (por ejemplo, **⟪व्रतं⟫ ⟪चर्⟫**: practicar un voto, especialmente abstinencia sexual)
 
@@ -168,7 +184,8 @@ de ello:
 Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2201))
-:::## 22.4. Ejercicio
+:::
+## 22.4. Ejercicio
 
 **A) Formar y traducir el Absoluto para los siguientes verbos:**
 

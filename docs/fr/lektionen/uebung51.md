@@ -76,7 +76,8 @@ Réflexions du perroquet **⟪वैशम्पायन⟫** sur la vie de cha
 ![](/images/uebung086.webp)
 Fig. : Chasseur
 (Source de l’image : [Détails](/fr/licenses#uebung086))
-:::---
+:::
+---
 
 ## ⟪४⟫. Commentaire de ⟪भानुचन्द्र⟫ (⟪१६⟫. s.)
 

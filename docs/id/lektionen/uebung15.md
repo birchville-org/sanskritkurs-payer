@@ -74,7 +74,8 @@ B) Resolve the following Tatpuruṣa compounds:
 ![](/images/uebung014.webp)
 Fig.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 (Image source: [Details](/en/licenses#uebung014))
-:::---
+:::
+---
 
 ## Additional Exercises
 

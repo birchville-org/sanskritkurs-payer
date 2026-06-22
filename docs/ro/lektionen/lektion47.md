@@ -30,7 +30,8 @@ Prin imperativ se exprimă, de asemenea:
 *   **permisiune**
 *   **faptul că o acțiune este la momentul potrivit** (poate fi exprimat și prin gerundiv (⟪कृत्य⟫))
 *   **dorință de binecuvântare**
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 ⟪एहि⟫ ⟪।⟫ "Vino!"
@@ -48,17 +49,20 @@ Prin imperativ se exprimă, de asemenea:
 ⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ "Să trăiești mult!"
 ::::::grammar-box
 Poruncile politicoase sunt adesea exprimate prin imperativul pasiv.
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 ⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "Te rog, intră!"
 
 ⟪निषद्यताम्⟫ ⟪।⟫ "Te rog, șezi!"
-:::În imperativul sanscrit clasic, formele de persoana I sunt forme vechi de conjunctiv. Conjunctivul vedic este, în special, modul care exprimă o dorință: "Vrem să mergem!" "Să mergem!"
+:::
+În imperativul sanscrit clasic, formele de persoana I sunt forme vechi de conjunctiv. Conjunctivul vedic este, în special, modul care exprimă o dorință: "Vrem să mergem!" "Să mergem!"
 
 :::grammar-box
 Imperativul se formează din tema de prezent.
-:::## 47.2. Formarea imperativului (⟪लोट्⟫) la rădăcinile tematic de prezent
+:::
+## 47.2. Formarea imperativului (⟪लोट्⟫) la rădăcinile tematic de prezent
 
 ### 47.2.1. Sufixele imperativului la teme de prezent tematic
 
@@ -69,13 +73,15 @@ Imperativul se formează din tema de prezent.
 | **Persoana 1**:br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
 | **Persoana 2**:br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
 | **Persoana 3**:br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
-:::Notă: ¹ Sufixele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -tāt, când se exprimă o dorință de binecuvântare:
+:::
+Notă: ¹ Sufixele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -tāt, când se exprimă o dorință de binecuvântare:
 
 :::indent
 ⟪भद्रो⟫ ⟪भवतात्⟫ "Să fii fericit!" "Să fie fericit!"
 
 ⟪शुभं⟫ ⟪भवतु⟫ sau ⟪शुभं⟫ ⟪भवतात्⟫ "Să fie bine!" "Totul bun!"
-:::### 47.2.2. Prima clasă de prezent (⟪भ्वादि⟫)
+:::
+### 47.2.2. Prima clasă de prezent (⟪भ्वादि⟫)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -84,7 +90,8 @@ Imperativul se formează din tema de prezent.
 | **Persoana 1**:br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | &lt;⟪भवै⟫&gt; | &lt;⟪भवामहै⟫&gt; |
 | **Persoana a 2-a**:br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | &lt;⟪भवस्व⟫&gt; | &lt;⟪भवध्वम्⟫&gt; |
 | **Persoana a 3-a**:br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | &lt;⟪भ्वताम्⟫&gt; | &lt;⟪भवन्ताम्⟫&gt; |
-:::### 47.2.3. A șasea clasă de prezens (⟪तुदादि⟫)
+:::
+### 47.2.3. A șasea clasă de prezens (⟪तुदादि⟫)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -98,7 +105,8 @@ Imperativul se formează din tema de prezent.
 Fig.: ⟪प्रविशत⟫
 Templul Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4702))
-:::### 47.2.4. A patra clasă de prezente (⟪दिवादि⟫)
+:::
+### 47.2.4. A patra clasă de prezente (⟪दिवादि⟫)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -111,7 +119,8 @@ Templul Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 ![](/images/lekt4701.webp)
 Fig.: ⟪नृत्यत⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4701))
-:::### 47.2.5. A zecea clasă de prezent (⟪चुरादि⟫) și cauzativele
+:::
+### 47.2.5. A zecea clasă de prezent (⟪चुरादि⟫) și cauzativele
 
 ⟪चुर्⟫ 10U
 
@@ -122,7 +131,8 @@ Fig.: ⟪नृत्यत⟫
 | **Persoana I**:br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
 | **Persoana a II-a**:br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
 | **Persoana a III-a**:br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
-:::### 47.2.6. Pasivul
+:::
+### 47.2.6. Pasivul
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -133,7 +143,8 @@ Fig.: ⟪नृत्यत⟫
 | **1. Persoana**:br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
 | **2. Persoana**:br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
 | **3. Persoana**:br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
-:::## 47.3. Exercițiu
+:::
+## 47.3. Exercițiu
 
 A) Traduceți:
 
@@ -147,7 +158,8 @@ A) Traduceți:
 ![](/images/lekt4703.webp)
 Fig.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4703))
-:::⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
+:::
+⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
 
 ⟪प्रसीदत्वार्यः⟫ ⟪॥५॥⟫
 
@@ -157,7 +169,8 @@ Fig.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्�
 ![](/images/lekt4704.webp)
 Fig.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4704))
-:::⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
+:::
+⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
 
 ⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥८॥⟫
 

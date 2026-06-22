@@ -50,7 +50,8 @@ z.B.
 **Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied ⟪काम⟫ oder ⟪मनस्⟫ ist:**
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht".
-:::## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫)
+:::
+## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫)
 
 :::grammar-box
 **hochstufige Wurzel + -tum**
@@ -62,12 +63,14 @@ z.B.
 **Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.**
 
 **Verben mit Präverb bilden den Infinitiv in gleicher Weise wie die einfachen Wurzeln.**
-:::Beispiele:
+:::
+Beispiele:
 
 :::indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
-:::Über die Verwendung des Bindevokals -i- lassen sich keine festen Regeln aufstellen. Im Wesentlichen stimmt die Verteilung des Bindevokals beim Infinitiv mit der des Futurs überein.
+:::
+Über die Verwendung des Bindevokals -i- lassen sich keine festen Regeln aufstellen. Im Wesentlichen stimmt die Verteilung des Bindevokals beim Infinitiv mit der des Futurs überein.
 
 Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten:
 
@@ -75,13 +78,15 @@ Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten:
 ⟪गम्⟫ : ⟪गन्तुम्⟫
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
-:::-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+:::
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
 :::indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
-:::Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+:::
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 
 ## 23.3. Der Infinitiv (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln
@@ -233,14 +238,16 @@ D) Übersetzen Sie und lösen Sie die Komposita auf:
 Abb.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
 (Bildquelle: [Details](/licenses#lekt2303))
-:::⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
+:::
+⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
 :::media
 ![](/images/lekt2301.webp)
 Abb.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
 (Bildquelle: [Details](/licenses#lekt2301))
-:::⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
+:::
+⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
 
 ⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫
 
@@ -262,7 +269,8 @@ Erklärung: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪ध
 Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Bildquelle: [Details](/licenses#lekt2302))
-:::## 23.6. Wiederholungsübung
+:::
+## 23.6. Wiederholungsübung
 
 Bitte keine Hilfsmittel benutzen!
 
@@ -287,7 +295,8 @@ A) Übersetzen Sie ins Sanskrit:
 Abb.: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004
 (Bildquelle: [Details](/licenses#lekt2304))
-:::8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäß der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
+:::
+8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäß der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
 
 9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden.
 

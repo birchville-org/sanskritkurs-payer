@@ -17,7 +17,8 @@ status: stable
 *   **in the weak stem: -n-**
 
 **The rules for the combination of the root's final consonants with consonant-initial endings are the same as for the 2nd Present Class.**
-::::Examples:
+::::
+Examples:
 
 ⟪युज्⟫ 7U "to bind, to yoke"
 
@@ -31,7 +32,8 @@ status: stable
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
 | **Present Participle** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
-::::⟪रुध्⟫ 7U "to stop, to bring to a standstill"
+::::
+⟪रुध्⟫ 7U "to stop, to bring to a standstill"
 
 ::::grammar-box
 
@@ -45,7 +47,8 @@ status: stable
 
 ::::::::grammar-box
 **In the case of some roots, the -n- of the weak present stem has also penetrated into non-present tenses, so that these roots are posited with an infix nasal.**
-::::Example:
+::::
+Example:
 
 **⟪भञ्ज्⟫** 7P "to break"
 
@@ -56,7 +59,8 @@ status: stable
 *   Future: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
 *   Passive: **⟪भज्यते⟫** (either from the original root **⟪भज्⟫** or from *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (possibly from *bhñj + na)
-:::## 31.2. Word List
+:::
+## 31.2. Word List
 
 **⟪युज्⟫** 7U **⟪युनक्ति⟫** : to harness, to yoke, to fasten, to attach; Ā also: to strain (= to exert oneself), to connect with, to concentrate on (Locative, ⟪सप्तमी⟫)
 :::indent
@@ -81,33 +85,38 @@ The **⟪कलियुग⟫** began around 3102 BCE, the year of the **⟪म
 Fig.: ⟪योगः⟫
 Yoga depiction.
 (Image source: [Details](/en/licenses#lekt3101))
-:::**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : to stop, to bring to a standstill, to hold back = to enclose, to cover
+:::
+**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : to stop, to bring to a standstill, to hold back = to enclose, to cover
 :::indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
 **Kaus. ⟪रोधयति⟫**
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
-:::**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : to cut off
+:::
+**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : to cut off
 :::indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
 **Kaus. ⟪छेदयति⟫**
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
-:::**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : to break (something)
+:::
+**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : to break (something)
 :::indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
-:::**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : to anoint, to smear
+:::
+**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : to anoint, to smear
 :::indent
 **Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
 **Kaus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
 **Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
-:::**⟪अञ्ज्⟫ + vi -> ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : to smear apart = to apply cosmetics, to distinguish oneself
+:::
+**⟪अञ्ज्⟫ + vi -> ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : to smear apart = to apply cosmetics, to distinguish oneself
 :::indent
 **PPP ⟪व्यक्त⟫ :** distinguished, unfolded
 
@@ -118,14 +127,16 @@ therefrom:
 Fig.: ⟪व्यञ्जनम्⟫
 Preparation for Kathakali dance, Kochi.
 (Image source: [Details](/en/licenses#lekt3102))
-:::**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : to split
+:::
+**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : to split
 :::indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
 **Kaus. ⟪भेदयति⟫**
 **PPP ⟪भिन्न⟫**
 **Inf. ⟪भेत्तुम्⟫**
-:::**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : to enjoy (e.g. food; "to enjoy the earth" = to rule the earth)
+:::
+**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : to enjoy (e.g. food; "to enjoy the earth" = to rule the earth)
 :::indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
@@ -135,7 +146,8 @@ Preparation for Kathakali dance, Kochi.
 
 therefrom:
 **⟪भोग⟫ m.:** enjoyment, food, pleasure, benefit, tax, levy
-:::**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): to bind, to tie
+:::
+**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): to bind, to tie
 :::indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
@@ -145,7 +157,8 @@ therefrom:
 
 therefrom:
 **⟪बन्धन⟫ n.:** binding, fetter
-:::**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : to recognize, to understand
+:::
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : to recognize, to understand
 :::indent
 therefrom:
 **⟪प्रज्ञा⟫ f.:** wisdom, knowledge
@@ -154,7 +167,8 @@ therefrom:
 Fig.: ⟪प्रज्ञापारमिता⟫
 From a Prajñāpāramitā manuscript.
 (Image source: [Details](/en/licenses#lekt3103))
-:::**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : to arise, to exist
+:::
+**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : to arise, to exist
 
 **⟪शरीर⟫ n.:** torso, body
 
@@ -171,7 +185,8 @@ A) Translate the following sentences and resolve the compounds:
 Fig.: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
 Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
 (Image source: [Details](/en/licenses#lekt3105))
-:::⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
+:::
+⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
 
 ⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫
 
@@ -180,7 +195,8 @@ Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
 Fig.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
 Rāhula, the son of the Buddha, Laos.
 (Image source: [Details](/en/licenses#lekt3104))
-:::⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
+:::
+⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
 B) For the following 7th-class roots, form all 3rd person singular and plural, P and Ā, of the Indicative and Optative Present:
 

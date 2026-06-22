@@ -80,7 +80,8 @@ Los guerreros fuertes han ido a la aldea de los brahmanes.
 ![](/images/uebung023.webp)
 Leyenda: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung023))
-:::---
+:::
+---
 
 ## Patrón de declinación
 
@@ -217,7 +218,8 @@ A) Forme todos los casos aprendidos hasta ahora para las siguientes palabras com
 | 2. Akk. | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
 | 3. Instr. | ⟪अनेन⟫ / ⟪एनेन⟫ | — | ⟪अनया⟫ / ⟪एनया⟫ | ⟪एभिस्⟫ (⟪एभिः⟫) | — | ⟪आभिस्⟫ (⟪आभिः⟫) |
 | 6. Gen. | ⟪अस्य⟫ | — | ⟪अस्यास्⟫ (⟪अस्याः⟫) | ⟪एषाम्⟫ | — | ⟪आसाम्⟫ |
-:::---
+:::
+---
 
 ## Ejercicios adicionales
 
@@ -250,7 +252,8 @@ El deber de todos es: no violencia, veracidad, pureza, no murmurar sobre su suer
 Oración 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Ac.: Dvandva, que designa las dos "cosas"
 Oración 8: **⟪कर्म⟫** Nom., Ac. sg. Neutro a ⟪कर्मन्⟫ "acción"
 Oración 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. a ⟪सर्व⟫ "cada uno, todos" (pronombre, no declinado como deva)
-:::⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
+:::
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 El palo provoca la adquisición y la posesión segura de filosofía, vedística y economía. La dirección del palo es política.
 

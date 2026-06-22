@@ -211,7 +211,8 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 ![](/images/uebung011.webp)
 Abb.: ⟪ग्रामः⟫
 (Bildquelle: [Details](/licenses#uebung011))
-:::---
+:::
+---
 
 ## Leseübung
 
@@ -224,7 +225,7 @@ Lesen und übersetzen Sie und setzen Sie ins Passiv:
 > ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 > ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
 > ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
-&gt;
+>
 > ⟪मक्षिकाभिर्व्रण⟫ ⟪इष्यते⟫
 > ⟪धनमिष्यते⟫ ⟪पार्थिवैः⟫ ⟪।⟫
 > ⟪नीचैः⟫ ⟪कलह⟫ ⟪इष्यते⟫

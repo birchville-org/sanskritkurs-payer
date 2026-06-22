@@ -211,7 +211,8 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 ![](/images/uebung011.webp)
 Fig.: ⟪ग्रामः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung011))
-:::---
+:::
+---
 
 ## Ejercicio de lectura
 

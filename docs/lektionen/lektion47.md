@@ -30,7 +30,8 @@ Mit dem Imperativ drückt man auch aus:
 *   **Erlaubnis**
 *   **dass eine Handlung an der Zeit ist** (wird auch durch das Gerundivum (⟪कृत्य⟫) ausgedrückt)
 *   **Segenswunsch**
-:::Beispiele:
+:::
+Beispiele:
 
 :::indent
 ⟪एहि⟫ ⟪।⟫ "Komm!"
@@ -48,17 +49,20 @@ Mit dem Imperativ drückt man auch aus:
 ⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ "Lange mögen Sie leben!"
 ::::::grammar-box
 Höfliche Befehle werden gerne durch Passiv-Imperative ausgedrückt.
-:::Beispiele:
+:::
+Beispiele:
 
 :::indent
 ⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "Treten Sie **bitte** ein!"
 
 ⟪निषद्यताम्⟫ ⟪।⟫ "Bitte, setzen Sie sich!"
-:::Im Imperativ des klassischen Sanskrit sind die Formen der 1. Personen alte Konjunktivformen. Der vedische Konjunktiv ist vor allem der Modus, der einen Wunsch ausdrückt: "Wir wollen gehen!" "Lasst uns gehen!"
+:::
+Im Imperativ des klassischen Sanskrit sind die Formen der 1. Personen alte Konjunktivformen. Der vedische Konjunktiv ist vor allem der Modus, der einen Wunsch ausdrückt: "Wir wollen gehen!" "Lasst uns gehen!"
 
 :::grammar-box
 Der Imperativ wird vom Präsensstamm gebildet.
-:::## 47.2. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme
+:::
+## 47.2. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme
 
 ### 47.2.1. Endungen des Imperativ an thematischen Präsensstämmen
 
@@ -69,13 +73,15 @@ Der Imperativ wird vom Präsensstamm gebildet.
 | **1. Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
 | **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
 | **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
-:::Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll:
+:::
+Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll:
 
 :::indent
 ⟪भद्रो⟫ ⟪भवतात्⟫ "Mögest du glücklich sein!" "Er möge glücklich sein!"
 
 ⟪शुभं⟫ ⟪भवतु⟫ oder ⟪शुभं⟫ ⟪भवतात्⟫ "Möge es gut sein!" "Alles Gute!"
-:::### 47.2.2. Erste Präsensklasse (⟪भ्वादि⟫)
+:::
+### 47.2.2. Erste Präsensklasse (⟪भ्वादि⟫)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -84,7 +90,8 @@ Der Imperativ wird vom Präsensstamm gebildet.
 | **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | &lt;⟪भवै⟫&gt; | &lt;⟪भवामहै⟫&gt; |
 | **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | &lt;⟪भवस्व⟫&gt; | &lt;⟪भवध्वम्⟫&gt; |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | &lt;⟪भ्वताम्⟫&gt; | &lt;⟪भवन्ताम्⟫&gt; |
-:::### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫)
+:::
+### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -98,7 +105,8 @@ Der Imperativ wird vom Präsensstamm gebildet.
 Abb.: ⟪प्रविशत⟫
 Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
 (Bildquelle: [Details](/licenses#lekt4702))
-:::### 47.2.4. Vierte Präsensklasse (⟪दिवादि⟫)
+:::
+### 47.2.4. Vierte Präsensklasse (⟪दिवादि⟫)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -111,7 +119,8 @@ Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 ![](/images/lekt4701.webp)
 Abb.: ⟪नृत्यत⟫
 (Bildquelle: [Details](/licenses#lekt4701))
-:::### 47.2.5. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative
+:::
+### 47.2.5. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative
 
 ⟪चुर्⟫ 10U
 
@@ -122,7 +131,8 @@ Abb.: ⟪नृत्यत⟫
 | **1. Person** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
 | **2. Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
-:::### 47.2.6. Passiv
+:::
+### 47.2.6. Passiv
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -133,7 +143,8 @@ Abb.: ⟪नृत्यत⟫
 | **1. Person** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
 | **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
-:::## 47.3. Übung
+:::
+## 47.3. Übung
 
 A) Übersetzen Sie:
 
@@ -147,7 +158,8 @@ A) Übersetzen Sie:
 ![](/images/lekt4703.webp)
 Abb.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
 (Bildquelle: [Details](/licenses#lekt4703))
-:::⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
+:::
+⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
 
 ⟪प्रसीदत्वार्यः⟫ ⟪॥५॥⟫
 
@@ -157,7 +169,8 @@ Abb.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्�
 ![](/images/lekt4704.webp)
 Abb.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
 (Bildquelle: [Details](/licenses#lekt4704))
-:::⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
+:::
+⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
 
 ⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥८॥⟫
 

@@ -24,7 +24,8 @@ Silba de reduplicare este compusă din (un consoană și) o vocală.
 :::grammar-box
 **1. În mod obișnuit:**  
 **Repetarea primului consonant al rădăcinii**
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 **⟪दा⟫** 3 "a da"
@@ -37,7 +38,8 @@ Silba de reduplicare este compusă din (un consoană și) o vocală.
 * 3.sg.Ā.Ind.Prés. ***⟪मि⟫***⟪मीते⟫
 ::::::grammar-box
 **2. Un consonant inițial aspirat al unei rădăcini este reduplicat prin consonantul corespunzător neaspirat.**
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 **⟪धा⟫** 3 "a așeza"
@@ -51,8 +53,10 @@ Silba de reduplicare este compusă din (un consoană și) o vocală.
 :::indent
 **⟪क्⟫**, **⟪ख्⟫** prin **⟪च्⟫**  
 **⟪ग्⟫**, **⟪घ्⟫** prin **⟪ज्⟫**
-:::**⟪ह्⟫ este întotdeauna reduplicat prin ⟪ज्⟫.**
-::::Exemple:
+:::
+**⟪ह्⟫ este întotdeauna reduplicat prin ⟪ज्⟫.**
+::::
+Exemple:
 
 :::indent
 **⟪हु⟫** 3 "(în sacrificiu) a turna în foc"
@@ -61,12 +65,14 @@ Silba de reduplicare este compusă din (un consoană și) o vocală.
 **4. Dacă o rădăcină începe cu mai mulți consoane, se repetă doar primul (eventual aplicând regulile 2 sau 3).**
 ::::::grammar-box
 **5. Dacă o rădăcină începe cu un grup de consoane format din sibilant + consoană surdă, nu se reduplică sibilantul, ci consoana surdă care urmează, conform regulilor de mai sus.**
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 **⟪स्था⟫** 1 "a sta"
 * 3.sg.P.Ind.Prés. **⟪तिष्ठति⟫**
-:::## 33.2. A treia clasă de prezente (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etc.")
+:::
+## 33.2. A treia clasă de prezente (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etc.")
 
 :::grammar-box
 **Formare:**
@@ -78,13 +84,15 @@ Silba de reduplicare este compusă din (un consoană și) o vocală.
 **rădăcină cu ton ascens reduplicat, la nivel coborât, + terminație**
 
 **Pentru consoana de reduplicare se aplică regulile date mai sus.**
-:::### 33.2.1. Vocalul de reduplicare al celei de-a treia clase de prezente
+:::
+### 33.2.1. Vocalul de reduplicare al celei de-a treia clase de prezente
 
 :::grammar-box
 * **Vocalul de reduplicare regulat este -i-**
 * **Rădăcinile care conțin -u se reduplică cu -u-**
 * **Rădăcinile ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ cu -a-**
-:::Exemple:
+:::
+Exemple:
 
 ::::grammar-box
 **⟪हु⟫** Pers. a 3-a „a turna în foc (ca ofrandă)”
@@ -97,7 +105,8 @@ Silba de reduplicare este compusă din (un consoană și) o vocală.
 | **Indicativ Prezent** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | &lt;⟪जुहुते⟫&gt; | &lt;⟪जुह्वते⟫&gt;:brjuhu + ate |
 | **Imperfect** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | &lt;⟪अजुहुत⟫&gt; | &lt;⟪अजुह्वत⟫&gt;:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | &lt;⟪जुह्वीत⟫&gt;:brjuhu + ī-ta | &lt;⟪जुह्वीरन्⟫&gt;:brjuhu + ī-ran |
-::::## 33.3. Despre ablautele lui ā
+::::
+## 33.3. Despre ablautele lui ā
 
 ā kann
 
@@ -116,7 +125,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
     ex. **⟪धा⟫** 3.pl.P.Ind.Prăs. **⟪दधति⟫** (dadh-ati)
 * **Gradul înalt: -ā-**  
   ex. **⟪धा⟫** 3.sg.P.Ind.Prăs. **⟪दधाति⟫**
-:::Aici se încadrează, de exemplu:
+:::
+Aici se încadrează, de exemplu:
 
 :::indent
 **⟪स्था⟫** 1
@@ -129,11 +139,13 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
   ex. **⟪पा⟫** 1: PPP **⟪पीत⟫** (pī-ta)
 * **Gradul înalt: -ā-**  
   ex. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
-::::## 33.4. Rădăcini cu sufixul -ā din a treia clasă de prezente
+::::
+## 33.4. Rădăcini cu sufixul -ā din a treia clasă de prezente
 
 :::grammar-box
 **Rădăcinile cu sufixul -ā (în afară de ⟪दा⟫ și ⟪धा⟫) au, de obicei, în tema slabă terminația -ī-** (vezi Thumb-Hauschild vol. 1,1 p. 271. Se presupune că seria de ablaut menționată mai sus a servit ca model, deși aceste rădăcini urmează, în general, seria A de ablaut), **în fața terminațiilor vocale, vocala rădăcinii dispare complet (vezi seria de ablaut A).**
-:::Exemple:
+:::
+Exemple:
 
 ::::grammar-box
 **⟪मा⟫** 3Ā "a măsura"
@@ -151,7 +163,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Indicativ Prezent** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Rădăcina **⟪हा⟫** are, înainte de Optativ-yā/y, aceeași formă ca înainte de vocale!) | ⟪जह्युर्⟫:brjah-y-ur |
-::::### 33.4.1. Rădăcinile **⟪दा⟫** și **⟪धा⟫**
+::::
+### 33.4.1. Rădăcinile **⟪दा⟫** și **⟪धा⟫**
 
 :::grammar-box
 **Rădăcinile ⟪दा⟫ și ⟪धा⟫ se reduplică cu vocala -a- și pierd vocala rădăcinii în tema slabă.**
@@ -165,7 +178,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Indicativ Prezent** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Explicație: Thumb-Hauschild 1,1 p. 302s.) | ⟪दधते⟫:brdadh-ate |
 | **Imperfect** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
-::::Formele pentru **⟪दा⟫** se obțin înlocuind **dh** cu **d** în paradigma pentru **⟪धा⟫**. Așadar:
+::::
+Formele pentru **⟪दा⟫** se obțin înlocuind **dh** cu **d** în paradigma pentru **⟪धा⟫**. Așadar:
 
 ::::grammar-box
 **⟪दा⟫** 3U "a da"
@@ -175,13 +189,15 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Indicativ Prezent** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
 | **Imperfect** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optativ** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
-::::## 33.5. Participiul prezent Parasmaipada al rădăcinilor clasei a 3-a de prezent
+::::
+## 33.5. Participiul prezent Parasmaipada al rădăcinilor clasei a 3-a de prezent
 
 :::grammar-box
 **Verbele clasei a 3-a formează toate formele participiului prezent Parasmaipada de la tema slabă.**
 
 **Excepție: Nominativ/Acuzativ plural neutru poate fi format opțional de la tema puternică sau slabă.**
-:::**⟪दा⟫** Participiu prezent Parasmaipada:
+:::
+**⟪दा⟫** Participiu prezent Parasmaipada:
 
 ::::grammar-box
 | | Masculin:br⟪पुंल्लिङ्ग⟫ | Neutru:br⟪नपुंसकलिङ्ग⟫ | Feminin:br⟪स्त्रीलिङ्ग⟫ |
@@ -192,7 +208,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Plural** | | | |
 | **1. Nominativ** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
 | **2. Acuzativ** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
-::::Similar **⟪जुह्वत्⟫** (juhu-at + s)
+::::
+Similar **⟪जुह्वत्⟫** (juhu-at + s)
 
 ## 33.6. Listă de cuvinte
 
@@ -212,7 +229,8 @@ din care:
 ![](/images/lekt3306.webp)
 Fig.: ⟪दानम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3306))
-:::**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (în primire) a lua, a poseda, a lua cu sine
+:::
+**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (în primire) a lua, a poseda, a lua cu sine
 
 :::indent
 **Absol.** ⟪आदाय⟫: cu Acuzativul: însoțit de, cu
@@ -220,7 +238,8 @@ Fig.: ⟪दानम्⟫
 ![](/images/lekt3307.webp)
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3307))
-:::***⟪धा⟫*** 3U ***⟪दधाति⟫***: a așeza, a stabili, a distribui
+:::
+***⟪धा⟫*** 3U ***⟪दधाति⟫***: a așeza, a stabili, a distribui
 
 :::indent
 **Fut.** ***⟪धास्यति⟫***  
@@ -228,7 +247,8 @@ Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **Kaus.** ***⟪धापयति⟫***  
 **PPP** ***⟪हित⟫*** (!!)  
 **Inf.** ***⟪धातुम्⟫***
-:::**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: a îndrepta întreaga atenție asupra cuiva/ceva, a se concentra
+:::
+**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: a îndrepta întreaga atenție asupra cuiva/ceva, a se concentra
 
 :::indent
 din care:
@@ -238,7 +258,8 @@ din care:
 ![](/images/lekt3305.webp)
 Fig.: ⟪समाधि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3305))
-:::**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: a umple, a împlini
+:::
+**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: a umple, a împlini
 
 :::indent
 Ține minte:
@@ -251,7 +272,8 @@ Fig.: ⟪समाधि⟫
 **Pass.** ⟪पूर्यते⟫  
 **Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
 **PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
-:::**⟪पॄ⟫** + **⟪सम्⟫** doar **Pass.** ⟪सम्पूर्यते⟫ și **Kaus.**: a umple complet
+:::
+**⟪पॄ⟫** + **⟪सम्⟫** doar **Pass.** ⟪सम्पूर्यते⟫ și **Kaus.**: a umple complet
 
 **⟪भी⟫** 3P **⟪बिभेति⟫**: a se teme de (Ablativ, Genitiv)
 
@@ -269,7 +291,8 @@ din care:
 ![](/images/lekt3304.webp)
 Fig.: ⟪भयम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3304))
-:::**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: a purta, a aduce; a întreține, a hrăni
+:::
+**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: a purta, a aduce; a întreține, a hrăni
 
 :::indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -281,7 +304,8 @@ Fig.: ⟪भयम्⟫
 din care:
 
 **⟪भार⟫** m.: povară
-:::**⟪मा⟫** 3Ā **⟪मिमीते⟫**: a măsura
+:::
+**⟪मा⟫** 3Ā **⟪मिमीते⟫**: a măsura
 
 :::indent
 **Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
@@ -289,7 +313,8 @@ din care:
 **Kaus.** ⟪मापयति⟫  
 **PPP** ⟪मित⟫  
 **Inf.** ⟪मातुम्⟫
-:::**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: a compara
+:::
+**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: a compara
 
 :::indent
 din care:
@@ -297,7 +322,8 @@ din care:
 **⟪उपमा⟫** f.: comparație
 
 **⟪प्रतिमा⟫** f.: imagine, reprezentare
-:::**⟪हा⟫** 3P **⟪जहाति⟫**: a părăsi
+:::
+**⟪हा⟫** 3P **⟪जहाति⟫**: a părăsi
 
 :::indent
 **Fut.** ⟪हास्यति⟫  
@@ -312,7 +338,8 @@ din PPP **⟪हीन⟫**:
 ![](/images/lekt3303.webp)
 Fig.: ⟪हीनयानमेव⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3303))
-:::**⟪हु⟫** 3P **⟪जुहोति⟫**: a turna în foc (ca ofrandă, în special unt topit)
+:::
+**⟪हु⟫** 3P **⟪जुहोति⟫**: a turna în foc (ca ofrandă, în special unt topit)
 
 :::indent
 **Fut.** ⟪होष्यति⟫  
@@ -325,13 +352,16 @@ Fig.: ⟪हीनयानमेव⟫
 Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3302))
 
-:::**⟪घृत⟫** n.: unt topit, ghee (⟪घी⟫ / گھی / ঘী)
+:::
+**⟪घृत⟫** n.: unt topit, ghee (⟪घी⟫ / گھی / ঘী)
 
-:::note-box
+:::
+note-box
 „Ghee se prepară prin fierberea untului nesărat într-o oală mare, până când toată apa a fiert și proteinele s-au depus la fund. Untul gătit și clarificat se ia apoi cu lingura, pentru a nu tulbura reziduurile de lapte de la fundul vasului. Spre deosebire de unt, ghee-ul se poate păstra pe perioade îndelungate fără refrigerare, cu condiția să fie păstrat într-un recipient ermetic, pentru a preveni oxidarea, și să rămână lipsit de umiditate. Textura, culoarea sau gustul ghee-ului depind de sursa laptelui din care a fost preparat untul. În India, ghee-ul se prepară de obicei din lapte de bivol, deoarece tinde să fie mai alb decât laptele de vacă.”
 
 [Sursă: http://en.wikipedia.org/wiki/Ghee. -- Accesat la 2008-12-26]
-:::## 33.7. Exerciții
+:::
+## 33.7. Exerciții
 
 A) Introduceți în următorul model de propoziție formele corespunzătoare ale cuvintelor din paranteză:
 
@@ -367,7 +397,8 @@ C) Traduceți și transformați propozițiile la singular în propoziții la plu
 ![](/images/lekt3308.webp)
 Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3308))
-:::⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
+:::
+⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
 
 ⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
 

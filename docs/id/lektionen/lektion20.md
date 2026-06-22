@@ -16,7 +16,8 @@ status: stable
 Fig.: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
 Jodhpur = ⟪जोधपुर⟫
 (Image source: [Details](/en/licenses#lekt2004))
-:::⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "one who possesses much rice"
+:::
+⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "one who possesses much rice"
 
 ::::grammar-box
 
@@ -30,7 +31,8 @@ Jodhpur = ⟪जोधपुर⟫
 
 **1. First member usually in the Nominative (⟪प्रथमा⟫) Sing., Dual, or Plural -- 2. Second member in the Nominative Sing., Dual, or Plural -- Relative pronoun in a case other than Nominative (usually Genitive - ⟪षष्ठी⟫) and in gender and number of the total Bahuvrīhi -- Demonstrative pronoun in number, case, and gender of the total Bahuvrīhi.**
 
-::::Examples:
+::::
+Examples:
 
 
 :::indent
@@ -62,7 +64,8 @@ etc.
 
 **As with a Tatpuruṣa, the more specifically determined member usually stands in the second position.**
 
-::::Traditionally, one distinguishes:
+::::
+Traditionally, one distinguishes:
 
 *   ⟪समानाधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ the first and second members are in the same case
     
@@ -76,11 +79,13 @@ etc.
 
 :::indent
 **Adjective -- Noun**
-:::**Example:**
+:::
+**Example:**
 
 :::indent
 ⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "a Brahmin who possesses good qualities (son / sons)"
-:::**Participles (PPP) are particularly frequent in forming -- rare in Tatpuruṣa -- attributive determinations. In the resolution, the relative pronoun usually stands in the Instrumental case (⟪तृतीया⟫) (rarely in the Genitive / ⟪षष्ठी⟫).**
+:::
+**Participles (PPP) are particularly frequent in forming -- rare in Tatpuruṣa -- attributive determinations. In the resolution, the relative pronoun usually stands in the Instrumental case (⟪तृतीया⟫) (rarely in the Genitive / ⟪षष्ठी⟫).**
 
 **Rule of thumb:**
 
@@ -91,7 +96,8 @@ etc.
 
 :::indent
 ⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = "one (m/f/n) who has produced a result, someone / something effective"
-:::::::## 20.3. Bahuvrīhi with Appositional First Member
+:::::::
+## 20.3. Bahuvrīhi with Appositional First Member
 
 ::::grammar-box
 
@@ -99,7 +105,8 @@ etc.
 
 :::indent
 **Noun -- Noun**
-:::**Examples:**
+:::
+**Examples:**
 
 :::indent
 ⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "a man whose sons are heroes"
@@ -113,13 +120,15 @@ etc.
 
 :::indent
 ⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = "the gods whose beginning is Indra" = "the gods Indra etc." = "Indra and the other gods"
-:::**To express "only", one can use bahuvrīhis with ⟪मात्रा⟫ f. "measure, limit" as the second member:**
+:::
+**To express "only", one can use bahuvrīhis with ⟪मात्रा⟫ f. "measure, limit" as the second member:**
 
 **Example:**
 
 :::indent
 ⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = "that whose measure is a word" = "only a word"
-:::**⟪मात्र⟫ after a PPP is to be translated as "as soon as":**
+:::
+**⟪मात्र⟫ after a PPP is to be translated as "as soon as":**
 
 **Example:**
 
@@ -130,7 +139,8 @@ etc.
 Fig.: ⟪देवा⟫ ⟪यीश्वादयः⟫
 Jesus and the other gods, Ahmedabad
 (Image source: [Details](/en/licenses#lekt2005))
-:::## 20.4. Bahuvrīhi with a case-marked first member
+:::
+## 20.4. Bahuvrīhi with a case-marked first member
 that is, Bahuvrīhi compounds whose first member represents a case other than the nominative (⟪प्रथमा⟫).
 Example:
 :::indent
@@ -146,7 +156,8 @@ Example:
 Fig.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Cambodia, 9th century CE.
 (Image source: [Details](/en/licenses#lekt2001))
-:::## 20.5. Bahuvrīhi with adverbial first member
+:::
+## 20.5. Bahuvrīhi with adverbial first member
 
 The first member consists of an adverb, a preposition, a preverb, or another indeclinable; such compounds are generally ⟪नित्यसमास⟫.
 
@@ -169,7 +180,8 @@ Examples:
 Fig.: ⟪सपुत्रा⟫
 Madhya Pradesh
 (Image source: [Details](/en/licenses#lekt2006))
-:::## 20.6. Inflection of the Final Member of a Bahuvrīhi
+:::
+## 20.6. Inflection of the Final Member of a Bahuvrīhi
 
 ::::grammar-box
 
@@ -181,7 +193,8 @@ Madhya Pradesh
 *   **-a-stems (m., n.) form their Feminine on -ā or -ī**
 *   **-ī-stems (f.) must take the suffix -ka, -kā, -ka (n.) at the end of Bahuvrīhis; this suffix can or must also be taken by many other Bahuvrīhis**
 
-::::## 20.7. Another Classification of Types of Bahuvrīhis
+::::
+## 20.7. Another Classification of Types of Bahuvrīhis
 
 The examples are provided here for later study; for some, the necessary grammar and vocabulary have not yet been discussed.
 
@@ -204,7 +217,8 @@ The examples are provided here for later study; for some, the necessary grammar 
 Fig.: ⟪कृतकटा⟫
 Chennai = சென்னை
 (Image source: [Details](/en/licenses#lekt2007))
-:::## 20.8. Relationship between Bahuvrīhi and Relative Clause
+:::
+## 20.8. Relationship between Bahuvrīhi and Relative Clause
 
 Although every Bahuvrīhi can be resolved into a relative clause, not every relative clause can be replaced by a Bahuvrīhi. Hermann Georg Jacobi (1850 - 1937), who examined the relationship between the two in greater detail (Compositum und Nebensatz, 1897), writes:
 
@@ -214,7 +228,8 @@ Although every Bahuvrīhi can be resolved into a relative clause, not every rela
 ![](/images/lekt2002.jpg)
 Fig.: Hermann Jacobi
 (Image source: [Details](/en/licenses#lekt2002))
-:::That may be true. However, the Indians then view many things as embellishing and descriptive, which we would consider "conceptually necessary or important."
+:::
+That may be true. However, the Indians then view many things as embellishing and descriptive, which we would consider "conceptually necessary or important."
 
 ## 20.9. Word List
 
@@ -227,7 +242,8 @@ Fig.: Hermann Jacobi
 Fig.: ⟪आश्रमः⟫
 Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
 (Image source: [Details](/en/licenses#lekt2008))
-:::⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : doing, making, causing
+:::
+⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : doing, making, causing
 
 ⟪कर⟫ m.: hand (to ⟪कृ⟫ 8)
 
@@ -443,7 +459,8 @@ B) Translate into Sanskrit using compounds:
 
 :::indent
 Explanation: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + suffix -tas, which has ablative meaning. Translate: "on account of ..." or similar.
-:::⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
+:::
+⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪२॥⟫
 
 :::indent
@@ -453,24 +470,28 @@ Explanation: ⟪तपस्⟫ n. (declension later): glow, heat, torment; asce
 Fig.: ⟪तपस्⟫
 Buddha as an ascetic before his liberating insight, Gandhara, 2nd/3rd century CE.
 (Image source: [Details](/en/licenses#lekt2010))
-:::⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (On the Sāṃkhya system, see Basham, Wonder pp. 324f.)
+:::
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (On the Sāṃkhya system, see Basham, Wonder pp. 324f.)
 
 :::indent
 Explanation: ⟪त्रिविध⟫ ⟪३⟫ : "triple"
-:::Definition of liberation according to the Nyāya system:
+:::
+Definition of liberation according to the Nyāya system:
 
 :::indent
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२१॥⟫
 
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२२॥⟫
-:::Statement of the Materialists according to the ⟪सर्वदर्शनसंग्रह⟫ :
+:::
+Statement of the Materialists according to the ⟪सर्वदर्शनसंग्रह⟫ :
 
 :::indent
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
 ⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
 
 Explanation: ⟪अत्मा⟫ = nom. sg. masc. of ⟪आत्मन्⟫ m. "self, soul; the Absolute, insofar as it is realized in an individual"
-:::A ⟪सुभाषितम्⟫ :
+:::
+A ⟪सुभाषितम्⟫ :
 
 :::indent
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
@@ -484,7 +505,8 @@ Explanation: -da at the end of a compound: "giving"
 Fig.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
 (Image source: [Details](/en/licenses#lekt2009))
-:::On matters of property:
+:::
+On matters of property:
 
 :::indent
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
@@ -493,7 +515,8 @@ Karnataka
 ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪४१६॥⟫
 
 Explanation: ⟪त्रयस्⟫ = nom. masc. pl. of ⟪त्रि⟫ "three"
-:::A ⟪सुभाषितम्⟫ on female beauty:
+:::
+A ⟪सुभाषितम्⟫ on female beauty:
 
 :::indent
 ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
@@ -507,7 +530,8 @@ Explanation: all forms except ⟪कं⟫ and ⟪स्त्रीणाम्
 Fig.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
 (Image source: [Details](/en/licenses#lekt2003))
-:::Yet another ⟪सुभाषितम्⟫ :
+:::
+Yet another ⟪सुभाषितम्⟫ :
 
 :::indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫

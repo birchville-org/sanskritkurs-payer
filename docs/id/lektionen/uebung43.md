@@ -69,7 +69,8 @@ A) Form the corresponding **second person** of the following verb forms in tense
 ![](/images/uebung070.webp)
 Fig.: ⟪दिशसि⟫
 (Image source: [Details](/en/licenses#uebung070))
-:::---
+:::
+---
 
 ## Translations into Sanskrit
 
@@ -109,7 +110,8 @@ How do you save yourself (cross the river) from the enemy?
 ![](/images/uebung071.jpg)
 Fig.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 (Image source: [Details](/en/licenses#uebung071))
-:::---
+:::
+---
 
 ## Conversation (⟪संवादः⟫)
 

@@ -16,7 +16,8 @@ status: stable
 ⟪परहस्ते⟫ ⟪च⟫ ⟪यद्धनम्⟫ ⟪।⟫  
 ⟪कार्यकाले⟫ ⟪समुत्पन्ने⟫  
 ⟪न⟫ ⟪सा⟫ ⟪विद्या⟫ ⟪न⟫ ⟪तद्धनम्⟫ ⟪॥१॥⟫
-:::Explicație: ⟪पर⟫ "altul"
+:::
+Explicație: ⟪पर⟫ "altul"
 
 :::media
 ![lekt4102.jpg](/images/lekt4102.webp)
@@ -27,7 +28,8 @@ Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 ⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫  
 ⟪पयःपानं⟫ ⟪भुजङ्गानां⟫  
 ⟪केवलं⟫ ⟪विषवर्धनम्⟫ ⟪॥२॥⟫
-:::Explicație: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
+:::
+Explicație: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
 ## 41.2. Alte forme de ⟪कृत्⟫ cu sufixul -a
 
@@ -39,7 +41,8 @@ Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 **Formare:**
 
 tema de prezent / tema de pasiv / tema de viitor + -māna (fem. mānā)
-:::Exemple:
+:::
+Exemple:
 
 ⟪यज्⟫ 1U, Part.Prez.Ā ⟪यजमान⟫ 3 „cineva care este onorat cu un sacrificiu în propriul interes = stăpânul sacrificiului”
 
@@ -55,7 +58,8 @@ tema de prezent / tema de pasiv / tema de viitor + -māna (fem. mānā)
 **Formare:**
 
 tema slabă de prezent (în forma pe care o are înainte de terminația -ate a 3.pl.Ā) + -āna (fem. -ānā)
-:::Exemple:
+:::
+Exemple:
 
 :::grammar-box
 | Rădăcină / Clasă | Participul prezent Ā |
@@ -66,7 +70,8 @@ tema slabă de prezent (în forma pe care o are înainte de terminația -ate a 3
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
 | **⟪क्री⟫** 9U | ⟪क्रीणान⟫:brkrī + n-āna |
-:::### 41.2.2. „Participiul“ al necesității pasive (Gerundivum) (⟪कृत्य⟫)
+:::
+### 41.2.2. „Participiul“ al necesității pasive (Gerundivum) (⟪कृत्य⟫)
 
 :::grammar-box
 **Pentru a exprima necesitatea pasivă („ce trebuie făcut/îndeplinit”), se pot forma opțional adjective din rădăcini și rădăcini verbale derivate, folosind următoarele sufixe:**
@@ -75,7 +80,8 @@ tema slabă de prezent (în forma pe care o are înainte de terminația -ate a 3
 * **-⟪अनीय⟫** (fem. **-⟪अनीया⟫**)
 * **-⟪य⟫** (fem. **-⟪या⟫**)
 * **-⟪त्य⟫** (fem. **-⟪त्या⟫**) (în loc de **-⟪य⟫**/**-⟪या⟫**)
-:::#### 41.2.2.1. Sufixul -⟪तव्य⟫ / -⟪तव्या⟫
+:::
+#### 41.2.2.1. Sufixul -⟪तव्य⟫ / -⟪तव्या⟫
 
 :::grammar-box
 **Sufixul -⟪तव्य⟫ / -⟪तव्या⟫ se adaugă la rădăcini și la rădăcini verbale derivate (de ex. cauzativ) în același mod în care se adaugă sufixul infinitivului -⟪तुम्⟫ (vezi [Lecția 23](lektion23.md)), adică**
@@ -89,7 +95,8 @@ sau
 **La cauzativ:**
 
 * **rădăcină cauzativă pe -ay + -i- + ⟪तव्य⟫**
-:::Exemple:
+:::
+Exemple:
 
 :::no-header
 
@@ -99,7 +106,8 @@ sau
 | ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | „locul în care trebuie să te afli” |
 | ⟪बुध्⟫ Cauz. | ⟪बोधयितव्य⟫ | „cel care trebuie trezit; unul de trezit” |
 
-:::#### 41.2.2.2. Sufixul -⟪अनीय⟫ / -⟪अनीया⟫
+:::
+#### 41.2.2.2. Sufixul -⟪अनीय⟫ / -⟪अनीया⟫
 
 :::grammar-box
 **Formare:**
@@ -109,7 +117,8 @@ Rădăcină în gradul maxim (guṇa) + -⟪अनीय⟫ / -⟪अनीय�
 **Cauzativ și clasa a 10-a de prezent:**
 
 Rădăcină, așa cum apare în rădăcina cauzativă, fără -aya- + -⟪अनीय⟫ / -⟪अनीया⟫
-:::Exemple:
+:::
+Exemple:
 
 :::no-header
 
@@ -122,7 +131,8 @@ Rădăcină, așa cum apare în rădăcina cauzativă, fără -aya- + -⟪अन
 | ⟪बुध्⟫ Cauz. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | „unul de trezit” |
 | ⟪दा⟫ Cauz. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | „ce trebuie lăsat să fie dat” |
 
-:::#### 41.2.2.3. Sufixul -⟪य⟫ / -⟪या⟫
+:::
+#### 41.2.2.3. Sufixul -⟪य⟫ / -⟪या⟫
 
 :::grammar-box
 **Formare:**
@@ -130,11 +140,13 @@ Rădăcină, așa cum apare în rădăcina cauzativă, fără -aya- + -⟪अन
 Rădăcină (în gradul slab, gradul maxim sau gradul lung) + -⟪य⟫
 
 Vedeți regulile exacte la Kielhorn, Gramatica limbii sanscrite, p. 195 - 197!
-:::Tratamentul vocalelor finale:
+:::
+Tratamentul vocalelor finale:
 
 :::grammar-box
 **1. Rădăcinile pe -ā formează acest gerundiv pe -eya**
-:::Exemple:
+:::
+Exemple:
 
 :::no-header
 
@@ -145,7 +157,8 @@ Vedeți regulile exacte la Kielhorn, Gramatica limbii sanscrite, p. 195 - 197!
 
 ::::::grammar-box
 **2. Rădăcinile pe -i /-ī / -u / -ū /-ṛ au de obicei gradul maxim (guṇa) sau gradul lung (vṛddhi), cu excepția cazului în care aparțin acelorași rădăcini pe -i / -u /-ṛ care formează un gerundiv cu sufixul -⟪त्य⟫ (fem. -⟪त्या⟫) (lista acestor rădăcini la Kielhorn, Gramatica §537).**
-:::Exemplu:
+:::
+Exemplu:
 
 :::no-header
 
@@ -155,7 +168,8 @@ Vedeți regulile exacte la Kielhorn, Gramatica limbii sanscrite, p. 195 - 197!
 
 ::::::grammar-box
 **2a. Rădăcinile pe -i/-ī au gradul maxim (guṇa)**
-:::Exemple:
+:::
+Exemple:
 
 :::no-header
 
@@ -171,7 +185,8 @@ Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 ::::::grammar-box
 **2b. Rădăcinile pe -u /-ū înlocuiesc -o din gradul maxim (guṇa) înainte de -ya cu -av, iar -au din gradul lung (vṛddhi) cu -āv. Formarea în gradul lung (vṛddhi) înseamnă în acest caz necesitate.**
 
-:::Exemplu:
+:::
+Exemplu:
 
 :::no-header
 
@@ -180,7 +195,8 @@ Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 | ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "ce ce trebuie lăudat" |
 |   | ⟪स्ताव्य⟫ 3 | "ce trebuie neapărat lăudat" |
 
-:::Exemple pentru rădăcini cu finală consonantică (reguli v. Kielhorn, Gramatică § 533ss.):
+:::
+Exemple pentru rădăcini cu finală consonantică (reguli v. Kielhorn, Gramatică § 533ss.):
 
 Formare la nivel scăzut:
 
@@ -197,7 +213,8 @@ Exemple:
 ![lekt4106.jpg](/images/lekt4106.webp)
 Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt4106))
-:::Formare la nivel înalt:
+:::
+Formare la nivel înalt:
 
 Exemple:
 
@@ -214,7 +231,8 @@ Exemple:
 **Formare:**
 
 Rădăcină cauzativă/stim de prezent fără -aya- + -⟪य⟫
-:::Exemplu:
+:::
+Exemplu:
 
 :::no-header
 
@@ -228,7 +246,8 @@ Rădăcină cauzativă/stim de prezent fără -aya- + -⟪य⟫
 ![lekt4107.jpg](/images/lekt4107.jpg)
 Fig.: ⟪मान्यः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt4107))
-:::#### 41.2.2.4. Suffixul -⟪त्य⟫ / ⟪त्या⟫ (în loc de -⟪य⟫ / -⟪या⟫)
+:::
+#### 41.2.2.4. Suffixul -⟪त्य⟫ / ⟪त्या⟫ (în loc de -⟪य⟫ / -⟪या⟫)
 
 :::grammar-box
 Lista rădăcinilor pe -i / -u /-ṛ, care formează un gerundiv nu cu -⟪य⟫ / -⟪या⟫, ci cu sufixul -⟪त्य⟫ (fem. -⟪त्या⟫), la Kielhorn, Gramatică §537.
@@ -236,7 +255,8 @@ Lista rădăcinilor pe -i / -u /-ṛ, care formează un gerundiv nu cu -⟪य�
 **Formare:**
 
 rădăcină la nivel scăzut + -⟪त्य⟫ / -⟪त्या⟫
-:::Exemple:
+:::
+Exemple:
 
 :::no-header
 
@@ -246,14 +266,16 @@ rădăcină la nivel scăzut + -⟪त्य⟫ / -⟪त्या⟫
 |  ⟪श्रु⟫ 5P |  ⟪श्रुत्य⟫ 3 | "de auzit" |
 | ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "de făcut" |
 
-:::### 41.2.3. Aspecte sintactice despre „participiul” necesității pasive (Gerundivum) (⟪कृत्य⟫)
+:::
+### 41.2.3. Aspecte sintactice despre „participiul” necesității pasive (Gerundivum) (⟪कृत्य⟫)
 
 ::::grammar-box
 Gerundivul poate fi folosit atributiv:
 
 :::indent
 **⟪दर्शनीयं⟫ ⟪नगरम्⟫** = „un oraș pe care trebuie să-l vezi; un oraș demn de vizitat”
-:::Gerundivul poate fi, de asemenea, folosit ca nume predicativ în propoziții cu construcție pasivă, care exprimă o obligație sau o poruncă (cu ⟪न⟫ o interdicție, o imposibilitate):
+:::
+Gerundivul poate fi, de asemenea, folosit ca nume predicativ în propoziții cu construcție pasivă, care exprimă o obligație sau o poruncă (cu ⟪न⟫ o interdicție, o imposibilitate):
 
 :::indent
 **⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = „Dvija-șii trebuie să vadă Benares”
@@ -261,18 +283,21 @@ Gerundivul poate fi folosit atributiv:
 ![lekt4108.jpg](/images/lekt4108.webp)
 Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4108))
-:::### 41.2.4. Diferențe în utilizarea sufixelor gerundivale
+:::
+### 41.2.4. Diferențe în utilizarea sufixelor gerundivale
 
 :::grammar-box
 Utilizarea acestor sufixe se suprapune, în mare parte,
 
 * **-⟪तव्य⟫ (fem. -⟪तव्या⟫):** exprimă întotdeauna o necesitate și este utilizată de preferință predicativ (mai rar atributiv). Formările cu acest sufix nu trebuie utilizate în compuse nominale.
 * **-⟪अनीय⟫ (fem. -⟪अनीया⟫) și -⟪य⟫ (fem. -⟪या⟫) / -⟪त्य⟫ (fem. -⟪त्या⟫) (în loc de -⟪य⟫/-⟪या⟫):** pot avea un sens suplimentar (în special -⟪य⟫) în sensul german "-wert" (de ex. "demn de văzut") sau doar al unei posibilități "-bar" (⟪दृश्य⟫ "vizibil"). Formările cu aceste sufixe pot fi negate cu ⟪अ⟫/-⟪अन्⟫ (dar nu și formările cu -⟪तव्य⟫) și există ⟪तत्पुरुष⟫ ca element final al acestora.
-:::### 41.2.5. Nicio legătură cu ⟪सु⟫- și ⟪दुस्⟫-
+:::
+### 41.2.5. Nicio legătură cu ⟪सु⟫- și ⟪दुस्⟫-
 
 :::grammar-box
 Cu ⟪सु⟫- și ⟪दुस्⟫- în sensul de "ușor" respectiv "greu", gerativele nu trebuie combinate. În schimb, stau ⟪तत्पुरुष⟫ de tipul ⟪सुकर⟫ 3 ("ușor de făcut") (v. [Lecția 18](lektion18.md)).
-:::## 41.3. Listă de cuvinte
+:::
+## 41.3. Listă de cuvinte
 
 ⟪मूर्ख⟫ m = ⟪मूढ⟫
 
@@ -282,7 +307,8 @@ Cu ⟪सु⟫- și ⟪दुस्⟫- în sensul de "ușor" respectiv "greu",
 ![lekt4105.jpg](/images/lekt4105.webp)
 Fig.: ⟪भुजङ्गः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4105))
-:::⟪केवलम्⟫ Adv.: doar, singur, complet
+:::
+⟪केवलम्⟫ Adv.: doar, singur, complet
 
 ⟪विष⟫ n.: venin
 
@@ -290,7 +316,8 @@ Fig.: ⟪भुजङ्गः⟫
 ![lekt4104.jpg](/images/lekt4104.webp)
 Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4104))
-:::⟪शास्⟫ 2P ⟪शास्ति⟫ : mustrare, stăpânire, poruncă, învățătură
+:::
+⟪शास्⟫ 2P ⟪शास्ति⟫ : mustrare, stăpânire, poruncă, învățătură
 
 :::indent
 are forma slabă de prezent **⟪शिष्⟫** : **⟪शिष्मस्⟫**, dar a 3.pl. P. are forma puternică: **⟪शासति⟫** (!! sufix -ati) alături de ocazional **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. De asemenea, întregul ⟪आत्मनेपद⟫ are, în măsura în care apare, forma puternică: **⟪शास्ते⟫**
@@ -319,7 +346,8 @@ Fig.: ⟪शास्त्री⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4110))
 ::::::indent
 **⟪शिष्य⟫** 3: cel care trebuie învățat = elev
-:::⟪शरण⟫ 3: protectiv, apărător; n. protecție, refugiu, luarea de refugiu
+:::
+⟪शरण⟫ 3: protectiv, apărător; n. protecție, refugiu, luarea de refugiu
 
 ⟪सङ्घ⟫ n.: (la ⟪सम्⟫-⟪हन्⟫ : a bate împreună): grup, mulțime, comunitate (de ex. budistă)
 
@@ -327,7 +355,8 @@ Fig.: ⟪शास्त्री⟫
 vezi și:
 
 **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale pentru conceptele fundamentale ale budismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::⟪कन्या⟫ f.: fată tânără, fiică, fecioară
+:::
+⟪कन्या⟫ f.: fată tânără, fiică, fecioară
 
 ⟪अति⟫ Prefix verbal: peste, peste tot, dincolo (în spațiu, în timp, în număr, în cantitate, în ordine, în putere, în intensitate), extrem de
 
@@ -335,7 +364,8 @@ vezi și:
 
 :::indent
 PPP **⟪अतीत⟫** : n. trecut
-:::## 41.4. Exerciții
+:::
+## 41.4. Exerciții
 
 A) Traduceți cele două proverbe de la începutul lecției.
 
@@ -349,7 +379,8 @@ B) Traduceți:
 ![lekt4111.jpg](/images/lekt4111.webp)
 Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ...
 (Sursă imagine: [Detalii](/ro/licenses#lekt4111))
-:::⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥३॥⟫
+:::
+⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥३॥⟫
 
 ⟪विक्रेयाणि⟫ ⟪विक्रीयापुत्रवैश्यो⟫ ⟪भिक्षुभ्यो⟫ ⟪विक्रयफलमददाद्दानपुण्यं⟫ ⟪चादत्त⟫ ⟪।⟫ ⟪एतत्कर्म⟫ ⟪स्तुत्यमिति⟫ ⟪भिक्षवः⟫ ⟪प्रोचुर्बुद्धिमन्तस्तु⟫ ⟪विकल्पयन्ति⟫ ⟪किमेवं⟫ ⟪कुर्वाणो⟫ ⟪वश्यः⟫ ⟪पुण्यं⟫ ⟪चकारेति⟫ ⟪॥४॥⟫
 

@@ -29,7 +29,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
-:::⟪भाष्⟫ 1Ā "hablar"
+:::
+⟪भाष्⟫ 1Ā "hablar"
 
 :::grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -37,7 +38,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
-:::### 60.2.2. Tipo 2: raíz fuerte en grado pleno, raíz débil en grado reducido
+:::
+### 60.2.2. Tipo 2: raíz fuerte en grado pleno, raíz débil en grado reducido
 
 ⟪भिद्⟫ 7U "partir"
 
@@ -47,7 +49,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
-:::### 60.2.3. Tipo 3: Raíz fuerte, grado pleno/gradado
+:::
+### 60.2.3. Tipo 3: Raíz fuerte, grado pleno/gradado
 
 #### 60.2.3.1. Tipo 3a: Raíz fuerte, grado pleno/gradado; raíz débil, grado cero
 
@@ -59,7 +62,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
-:::⟪स्तु⟫ 2U (⟪अनिट्⟫) "alabar"
+:::
+⟪स्तु⟫ 2U (⟪अनिट्⟫) "alabar"
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -67,7 +71,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
-:::⟪कृ⟫ 8U (⟪अनिट्⟫) "hacer"
+:::
+⟪कृ⟫ 8U (⟪अनिट्⟫) "hacer"
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -75,7 +80,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
-:::#### 60.2.3.2. Tipo 3b: Raíz fuerte, grado pleno/gradado; raíz débil, grado pleno
+:::
+#### 60.2.3.2. Tipo 3b: Raíz fuerte, grado pleno/gradado; raíz débil, grado pleno
 
 ⟪स्मृ⟫ 1P "presentar"
 
@@ -85,7 +91,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
-:::### 60.2.4. Tipo 4: Raíces en -ā / -ai
+:::
+### 60.2.4. Tipo 4: Raíces en -ā / -ai
 
 ⟪दा⟫ 3U "dar"
 
@@ -97,7 +104,8 @@ status: stable
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
 \* ¡idéntico a las formas correspondientes del Indicativo Presente!
-:::### 60.2.5. Tipo 5: Consonante-a-Consonante
+:::
+### 60.2.5. Tipo 5: Consonante-a-Consonante
 
 #### 60.2.5.1. Tipo 5a: Consonante-a-Consonante, raíz débil, grado profundo
 
@@ -109,7 +117,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
-:::#### 60.2.5.2. Tipo 5b: Consonante-a-Consonante, consonante inicial no gutural, aspirada, h, raíz débil sin reduplicación, con -e-
+:::
+#### 60.2.5.2. Tipo 5b: Consonante-a-Consonante, consonante inicial no gutural, aspirada, h, raíz débil sin reduplicación, con -e-
 
 ⟪पच्⟫ 1U "cocinar"
 
@@ -119,7 +128,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
-:::#### 60.2.5.3. Tipo 5c: Consonante-a-Consonante, raíz débil, grado agudo
+:::
+#### 60.2.5.3. Tipo 5c: Consonante-a-Consonante, raíz débil, grado agudo
 
 ⟪क्रम्⟫ 1U "avanzar"
 
@@ -129,7 +139,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
-:::## 60.3. El dual del perfecto perifrástico (⟪अनुप्रयोगलिट्⟫)
+:::
+## 60.3. El dual del perfecto perifrástico (⟪अनुप्रयोगलिट्⟫)
 
 ⟪गण्⟫ 10P "contar"
 
@@ -139,7 +150,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ |
-:::⟪आस्⟫ 2Ā "sentarse"
+:::
+⟪आस्⟫ 2Ā "sentarse"
 
 :::grammar-box
 |   | **⟪आत्मनेपदम्⟫** |
@@ -147,7 +159,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
-:::## 60.4. El participio ⟪परस्मैपद⟫ del perfecto reduplicado (⟪द्वित्वलिट्⟫)
+:::
+## 60.4. El participio ⟪परस्मैपद⟫ del perfecto reduplicado (⟪द्वित्वलिट्⟫)
 
 :::grammar-box
 **Formación:**
@@ -155,7 +168,8 @@ status: stable
 **raíz de perfecto débil + vāṃs**
 
 **Si la raíz de perfecto débil consta de una sola sílaba, se añade la vocal de unión -i-. En algunos perfectos, la vocal de unión es opcional.**
-:::Ejemplos:
+:::
+Ejemplos:
 
 | ⟪भिद्⟫ 3U | ⟪बिभिद्वांस्⟫ "alguien que ha partido" |
 | --- | --- |
@@ -179,7 +193,8 @@ status: stable
 **raíz débil antes de vocal + -ī (declinado como ⟪देवी⟫)**
 
 Ejemplo: ⟪विदुषी⟫ "una sabia"
-:::Ver paradigmas en Kielhorn, Gramática § 124:
+:::
+Ver paradigmas en Kielhorn, Gramática § 124:
 
 :::media
 ![](/images/lekt6001.webp)
@@ -187,11 +202,13 @@ Ejemplo: ⟪विदुषी⟫ "una sabia"
 ::::::media
 ![](/images/lekt6002.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6002))
-:::## 60.5. Declinación de las raíces en -añc (-ac)
+:::
+## 60.5. Declinación de las raíces en -añc (-ac)
 
 :::grammar-box
 **Las raíces en -añc/-ac son combinaciones de prefijos, etc., con el nombre de raíz de la raíz ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "moverse".**
-:::### 60.5.1. Tribus de tres raíces con terminación -añc
+:::
+### 60.5.1. Tribus de tres raíces con terminación -añc
 
 :::grammar-box
 **Formación:**
@@ -212,7 +229,8 @@ Ejemplo: ⟪विदुषी⟫ "una sabia"
 **forma débil antes de vocal + -ī (declinada como ⟪देवी⟫)**
 
 Ejemplo: ⟪प्रतीची⟫
-:::####  Véanse paradigmas en Kielhorn, Grammatik § 128:
+:::
+####  Véanse paradigmas en Kielhorn, Grammatik § 128:
 
 :::media
 ![](/images/lekt6003.webp)
@@ -220,7 +238,8 @@ Ejemplo: ⟪प्रतीची⟫
 ::::::media
 ![](/images/lekt6004.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6004))
-:::Pertenecen a esta categoría:
+:::
+Pertenecen a esta categoría:
 
 *   ⟪प्रत्यञ्च्⟫ 3 "hacia atrás, hacia el oeste"
     
@@ -243,7 +262,8 @@ Ejemplo: ⟪प्रतीची⟫
 
 *   **forma fuerte: -añc**
 *   **forma débil ante consonante o vocal: -ac**
-:::Aquí pertenecen:
+:::
+Aquí pertenecen:
 
 *   ⟪प्राञ्च्⟫ 3 "dirigido hacia adelante, oriental"
 *   ⟪अवाञ्च्⟫ 3 "dirigido hacia abajo"
@@ -268,7 +288,8 @@ Las direcciones cardinales principales
 
 *   **una persona o cosa desea hacer o padecer lo que es expresado por la raíz o el causativo**
 *   **con menor frecuencia: alguien o algo está a punto de hacer lo que es expresado por la raíz o el causativo**
-:::####  Ejemplos:
+:::
+####  Ejemplos:
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "él desea hacer" |
 | --- | --- |
@@ -346,12 +367,14 @@ Véanse las reglas para el uso de la vocal de unión -i- en Kielhorn, Gramática
 3.  Véase en Kielhorn, Gramática § 451 la formación especial del desiderativo de ciertas raíces.
 ::::::grammar-box
 **Se forman desiderativos para ciertas raíces sin significado desiderativo. Para estos desiderativos se pueden formar desiderativos con significado desiderativo.**
-:::Lista en Kielhorn, Gramática § 452:
+:::
+Lista en Kielhorn, Gramática § 452:
 
 :::media
 ![](/images/lekt6006.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6006))
-:::### 60.6.2. Conjugación del Desiderativo (⟪सन्⟫)
+:::
+### 60.6.2. Conjugación del Desiderativo (⟪सन्⟫)
 
 ::::grammar-box
 **El Desiderativo es, con pocas excepciones, P, Ā o U, dependiendo de si la raíz subyacente (o la forma verbal subyacente) es P, Ā o U.**
@@ -364,19 +387,23 @@ Véanse las reglas para el uso de la vocal de unión -i- en Kielhorn, Gramática
 P: ⟪यियक्षति⟫ "él desea, sacrificar para otra persona"
 Ā: ⟪यियक्षते⟫ "él desea, sacrificar para sí mismo (como dueño de la ofrenda)"
 Pasivo: ⟪यियक्ष्यते⟫ "se desea sacrificar"
-:::**Perfecto: perifrástico:**
+:::
+**Perfecto: perifrástico:**
 
 :::indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "él deseó obtener"
-:::**Aorist: iṣ-Aorist:**
+:::
+**Aorist: iṣ-Aorist:**
 
 :::indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
-:::**Futuro: ⟪सेट्⟫**
+:::
+**Futuro: ⟪सेट्⟫**
 
 :::indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
-:::::::Para la formación de nombres de agente en -u a partir del tema del Desiderativo, véase [Lección 54](lektion54.md).
+:::::::
+Para la formación de nombres de agente en -u a partir del tema del Desiderativo, véase [Lección 54](lektion54.md).
 
 ## 60.7. Ejercicio
 
@@ -391,7 +418,8 @@ A) Estudie en Kielhorn, Gramática § 451 las formaciones irregulares del deside
 ::::::media
 ![](/images/lekt6009.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6009))
-:::B) Determine y traduzca las siguientes formas sin ayuda de herramientas:
+:::
+B) Determine y traduzca las siguientes formas sin ayuda de herramientas:
 
 1.  ⟪ददुषोः⟫
     

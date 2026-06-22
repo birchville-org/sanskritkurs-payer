@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-16
 Ejemplo:
 ⟪गम्⟫ "ir" » Causativo: ⟪गमयति⟫ "él induce que alguien vaya; él envía"
 ⟪दृश्⟫ "ver" » Causativo: ⟪दर्शयति⟫ "él hace ver = él muestra"
-:::---
+:::
+---
 
 ## 28.2. Construcción de oraciones con el causativo (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
@@ -25,7 +26,8 @@ Ejemplo:
 **Si la raíz subyacente al causativo (con o sin prefijo verbal) es INTRANSITIVA (es decir, no puede llevar un objeto en acusativo) o expresa movimiento, conocimiento, información o comer:**
 
 **Agente (⟪कर्ता⟫) del causativo en nominativo (⟪प्रथमा⟫) — Agente de la acción causada en acusativo (⟪द्वितीया⟫) — (Objeto del movimiento, objeto del conocimiento, etc. en acusativo = ⟪द्वितीया⟫) — Verbo en causativo**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "una persona malvada provoca que Rāma esté confundido = confunde a Rāma = provoca que Rāma se equivoque"
 Resultado: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma está confundido / cegado / se equivoca."
@@ -54,7 +56,8 @@ Templo ISKCON Bangalore.
 
 Ejemplo:
 (⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "él muestra a Rāma al hijo"
-:::El siguiente verso resume ejemplos de la formación del causativo según el Esquema 1 (las formas verbales son respectivamente la 3.ª persona Imperfecto Parasmaipada):
+:::
+El siguiente verso resume ejemplos de la formación del causativo según el Esquema 1 (las formas verbales son respectivamente la 3.ª persona Imperfecto Parasmaipada):
 
 ⟪शत्रूनगमयत्स्वर्गं⟫
 ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
@@ -100,7 +103,8 @@ Resultado de este resultado: ⟪गोविन्दो⟫ ⟪गच्छत�
 - **⟪स्मृ⟫ "recordar" (existen excepciones a esto)**
 - **⟪अद्⟫ "comer"**
 - **⟪खाद्⟫ "masticar"**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma hace que el sirviente guíe o viaje con la carga"
 Resultado: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "El sirviente guía o viaja con la carga"
@@ -117,7 +121,8 @@ Resultado: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma recuerda"
 - **⟪हृ⟫ "sostener, traer"**
 - **⟪कृ⟫ "hacer"**
 - **Causativo en Ātmanepada de ⟪दृश्⟫**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma hace que el sirviente haga o traiga una esterilla (⟪कट⟫ m.)"
 o bien:
@@ -135,7 +140,8 @@ Si el causativo se utiliza en una construcción pasiva, casi siempre se aplica e
 **Esquema A (construcción pasiva):**
 
 **Agente del causativo en instrumental (⟪तृतीया⟫) — Agente de la acción inducida en nominativo (⟪प्रथमा⟫) — Objeto de la acción inducida en el caso que tendría según el verbo simple (es decir, generalmente en acusativo) — Verbo en causativo**
-:::Ejemplos:
+:::
+Ejemplos:
 
 ⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "El maestro envía a Rāma al pueblo"
 Resultado: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma va al pueblo"
@@ -152,11 +158,13 @@ Resultado: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "El 
 
 :::grammar-box
 **El tema de causativo recibe las terminaciones temáticas del tema de presente**
-:::Existen diversos tipos de formación:
+:::
+Existen diversos tipos de formación:
 
 :::grammar-box
 **Tipo de formación 1: (por lo general) raíz en grado pleno + -aya-**
-:::Ejemplos:
+:::
+Ejemplos:
 
 | Raíz | Causativo 3. sg. Indicativo Presente | Significado |
 | :--- | :--- | :--- |
@@ -169,7 +177,8 @@ Resultado: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "El 
 **Tipo de formación 2: raíz en grado reforzado + -aya-**
 
 **Frecuente en raíces que terminan en vocal y en raíces en las que una única consonante final sigue a -a-.**
-:::Ejemplos:
+:::
+Ejemplos:
 
 | Raíz | Causativo 3. sg. Indicativo Presente | Significado |
 | :--- | :--- | :--- |
@@ -183,7 +192,8 @@ Resultado: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "El 
 **Tipo de formación 3: raíz en grado debilitado + -aya-**
 
 **Se presenta.**
-:::Ejemplo:
+:::
+Ejemplo:
 
 | Raíz | Causativo 3. sg. Indicativo Presente | Significado |
 | :--- | :--- | :--- |
@@ -193,7 +203,8 @@ Resultado: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "El 
 **Tipo de formación 4: raíz + -paya-**
 
 **En raíces que terminan en -ā y en algunas otras raíces.**
-:::Ejemplos:
+:::
+Ejemplos:
 
 | Raíz | Causativo 3. sg. Indicativo Presente | Significado |
 | :--- | :--- | :--- |
@@ -207,7 +218,8 @@ Resultado: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "El 
 
 - **han** : Caus. **ghātayati**¹ "hacer golpear, dejar matar"
 - **pā** 2 "proteger": **pālayati**² "hacer cruzar, salvar, proteger"
-:::Notas:
+:::
+Notas:
 1. **ghātayati** es en realidad un verbo derivado del sustantivo **ghāta** m. "golpe" (denominativo) y se utiliza en lugar del causativo de **han**.
 2. **pālayati** es un causativo genuino, pero de la raíz **pṛ** 3 "hacer cruzar, salvar, proteger": **pārayati** (pār-aya-ti) » **pālayati** (en algunas regiones de la India una r equivale a una l, en otras una l equivale a una r).
 
@@ -223,7 +235,8 @@ Resultado: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "El 
 Ejemplos:
 **bhāvyate** (bhāv-ya-te) "él/ella/ello es producido"
 **sthāpyate** (sthāp-ya-te) "él/ella/ello es establecido"
-:::Mientras que el Pasivo de la raíz original se forma generalmente a partir de la raíz en grado cero, el Pasivo del Causativo se reconoce generalmente porque se forma a partir de la raíz en grado pleno o alargado.
+:::
+Mientras que el Pasivo de la raíz original se forma generalmente a partir de la raíz en grado cero, el Pasivo del Causativo se reconoce generalmente porque se forma a partir de la raíz en grado pleno o alargado.
 
 ---
 
@@ -236,7 +249,8 @@ Ejemplos:
 
 Ejemplo:
 **budh** futuro-causativo: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "él/ella despertará"
-:::---
+:::
+---
 
 ## 28.6. Formación del PPP (⟪क्त⟫) del Causativo
 
@@ -246,7 +260,8 @@ Ejemplo:
 Ejemplos:
 **gam** — **gamayati** — **gamita** (gam-i-ta) "enviado" (PPP de la raíz simple: **gata**)
 **sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "colocado"
-:::---
+:::
+---
 
 ## 28.7. Formación del absolutivo (⟪क्त्वा⟫ . ⟪ल्यप्⟫) del causativo
 
@@ -268,7 +283,8 @@ Ejemplos:
 
 Ejemplo:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "después de haber hecho venir"
-:::---
+:::
+---
 
 ## 28.8. Formación del infinitivo (⟪तुमुन्⟫) del causativo
 
@@ -279,7 +295,8 @@ Ejemplo:
 
 Ejemplo:
 **jan** — **janayati** — **janayitum** (janay-i-tum) "para generar"
-:::---
+:::
+---
 
 ## 28.9. La 10. clase de presente (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
 
@@ -291,7 +308,8 @@ Ejemplos:
 2. Raíz en grado alto + -aya-: **cur** 10U **corayati** "robar"; Futuro: **corayiṣyate**; Pasivo: **coryate**
 ::::::grammar-box
 **Las formas del causativo de los verbos de la 10. clase de presente son idénticas a las formas del verbo simple. La decisión sobre si se trata de un causativo solo es posible a partir del significado o, a veces, de la construcción.**
-:::---
+:::
+---
 
 ## 28.10. Lista de palabras
 
@@ -344,14 +362,16 @@ Inf. **coritum**
 Fig.: ⟪वीणां⟫ ⟪वादयति⟫
 Tocar la Vīṇā.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2803))
-:::**⟪भार⟫** m.: carga
+:::
+**⟪भार⟫** m.: carga
 
 :::media
 ![](/images/lekt2805.webp)
 Fig.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
 Niña carga peso. Cerca de Ahmedabad.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2805))
-:::**⟪भृत्य⟫** m.: subordinado, sirviente
+:::
+**⟪भृत्य⟫** m.: subordinado, sirviente
 
 ---
 

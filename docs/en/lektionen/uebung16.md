@@ -80,7 +80,8 @@ He venerates the personal deity of the meritorious Vaiśya.
 ![](/images/uebung023.webp)
 Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Image source: [Details](/en/licenses#uebung023))
-:::---
+:::
+---
 
 ## Declension Patterns
 
@@ -217,7 +218,8 @@ A) Form all previously learned cases for the following words as examples of the 
 | 2. Akk. | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
 | 3. Instr. | ⟪अनेन⟫ / ⟪एनेन⟫ | — | ⟪अनया⟫ / ⟪एनया⟫ | ⟪एभिस्⟫ (⟪एभिः⟫) | — | ⟪आभिस्⟫ (⟪आभिः⟫) |
 | 6. Gen. | ⟪अस्य⟫ | — | ⟪अस्यास्⟫ (⟪अस्याः⟫) | ⟪एषाम्⟫ | — | ⟪आसाम्⟫ |
-:::---
+:::
+---
 
 ## Additional Exercises
 
@@ -250,7 +252,8 @@ The duty of all is: non-violence, truthfulness, purity, not murmuring about one'
 Sentence 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Acc.: Dvandva, denoting the two "things"
 Sentence 8: **⟪कर्म⟫** Nom., Acc. sg. Neuter to ⟪कर्मन्⟫ "action"
 Sentence 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. to ⟪सर्व⟫ "each, all" (pronoun, declined not like deva)
-:::⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
+:::
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 The staff produces acquisition and secure possession of philosophy, Vedic studies, and economics. The wielding of the staff is politics.
 

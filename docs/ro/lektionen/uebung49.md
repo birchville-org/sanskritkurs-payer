@@ -56,7 +56,8 @@ Determinați următoarele forme:
 ![](/images/uebung078.webp)
 Fig.: ⟪गायी⟫
 (Sursa imaginii: [Detalii](/licenses#uebung078))
-:::---
+:::
+---
 
 ## ⟪बाण⟫ (⟪७⟫. sec. d. Hr.): ⟪कादम्बरी⟫
 

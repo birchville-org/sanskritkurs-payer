@@ -33,7 +33,8 @@ Un neștiutor se bucură de mâncare bună și femei frumoase. Cui i-a dispărut
 ![](/images/uebung049.webp)
 Fig.: ⟪कुलबन्धनम्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung049))
-:::---
+:::
+---
 
 ## Verbparadigmen (7. Klasse)
 

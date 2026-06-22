@@ -128,7 +128,8 @@ D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion
 ![](/images/uebung022.webp)
 Abb.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung022))
-:::---
+:::
+---
 
 ## Zusätzliche Übungen
 

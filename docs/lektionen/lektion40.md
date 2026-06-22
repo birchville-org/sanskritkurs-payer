@@ -30,7 +30,8 @@ status: stable
 ![lekt4005.jpg](/images/lekt4005.webp)
 Abb.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 (Bildquelle: [Details](/licenses#lekt4005))
-:::## 40.2. Bildung der Verbformen der ersten Person Perfekt (⟪लिट्⟫)
+:::
+## 40.2. Bildung der Verbformen der ersten Person Perfekt (⟪लिट्⟫)
 
 Endungen der ersten Person (⟪तृतीयः⟫) im Perfekt (⟪लिट्⟫)
 
@@ -64,7 +65,8 @@ Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor
 8.  ⟪स्रु⟫ 1P "fließen"
 
 Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3)
-:::### 40.2.1. Perfekt Typ I: keine Stammabstufung
+:::
+### 40.2.1. Perfekt Typ I: keine Stammabstufung
 
 1.sg. = 3.sg.
 
@@ -80,22 +82,26 @@ Verben, die diesem Typ folgen:
 :::indent
 *   1.sg.P ⟪बबन्ध⟫
 *   1.pl.P ⟪बबन्धिम⟫
-:::⟪जीव्⟫ 1P
+:::
+⟪जीव्⟫ 1P
 
 :::indent
 *   1.sg.P ⟪जिजीव⟫
 *   1.pl.P ⟪जिजिविम⟫
-:::⟪अश्⟫ 5Ā
+:::
+⟪अश्⟫ 5Ā
 
 :::indent
 *   1.sg.Ā ⟪आनशे⟫
 *   1.pl.Ā ⟪आनशिमहे⟫
-:::⟪अस्⟫ 2P und ⟪अस्⟫ 4P
+:::
+⟪अस्⟫ 2P und ⟪अस्⟫ 4P
 
 :::indent
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
-:::### 40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+:::
+### 40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
 Verben, die diesem Typ folgen:
 
@@ -111,13 +117,15 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪बिभिदे⟫
     
 *   1.pl.Ā ⟪बिभिदिमहे⟫
-:::⟪मुह्⟫ 4P fakultativ ⟪अनिट्⟫
+:::
+⟪मुह्⟫ 4P fakultativ ⟪अनिट्⟫
 
 :::indent
 *   1.sg.P ⟪मुमोह⟫
     
 *   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
-:::### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+:::
+### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
 
 1.sg.P wahlweise hochstufig oder dehnstufig
 
@@ -134,7 +142,8 @@ Verben, die diesem Typ folgen:
 *   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a)
     
 *   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
-:::⟪नी⟫ 1U
+:::
+⟪नी⟫ 1U
 
 :::indent
 *   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
@@ -144,7 +153,8 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪निन्ये⟫
     
 *   1.pl.Ā ⟪निन्यिमहे⟫
-:::⟪स्तु⟫ 2U strikt ⟪अनिट्⟫
+:::
+⟪स्तु⟫ 2U strikt ⟪अनिट्⟫
 
 :::indent
 *   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
@@ -154,7 +164,8 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪तुष्टुवे⟫
     
 *   1.pl.Ā ⟪तुष्टुमहे⟫
-:::⟪कृ⟫ 8U strikt ⟪अनिट्⟫
+:::
+⟪कृ⟫ 8U strikt ⟪अनिट्⟫
 
 :::indent
 *   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
@@ -164,7 +175,8 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪चक्रे⟫
     
 *   1.pl.Ā ⟪चकृमहे⟫
-:::#### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+:::
+#### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
 
 Verben, die diesem Typ folgen:
 
@@ -177,13 +189,15 @@ Verben, die diesem Typ folgen:
 *   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
     
 *   1.pl.P ⟪पपरिम⟫
-:::⟪स्मृ⟫ 1P
+:::
+⟪स्मृ⟫ 1P
 
 :::indent
 *   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
     
 *   1.pl.P ⟪सस्मरिम⟫
-:::⟪संस्कृ⟫ 8U
+:::
+⟪संस्कृ⟫ 8U
 
 :::indent
 *   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
@@ -193,7 +207,8 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪सञ्चस्करे⟫
     
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
-:::### 40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
+:::
+### 40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
 
 *   Starker Stamm:
     *   1.,3. sg. Parasamaip.: -au
@@ -211,7 +226,8 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪ददे⟫
     
 *   1.pl.Ā ⟪ददिमहे⟫
-:::### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
+:::
+### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
 
 1.sg.P. wahlweise hochstufig oder dehnstufig
 
@@ -227,31 +243,36 @@ Verben, die diesem Typ folgen:
 5.  vad "sprechen"
 6.  yaj "opfern"
 7.  u.a.
-:::⟪गम्⟫ 1P
+:::
+⟪गम्⟫ 1P
 
 :::indent
 *   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
     
 *   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
-:::⟪हन्⟫ 2P
+:::
+⟪हन्⟫ 2P
 
 :::indent
 *   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
     
 *   1.pl.P ⟪जघ्निम⟫
-:::⟪जन्⟫ 4Ā
+:::
+⟪जन्⟫ 4Ā
 
 :::indent
 *   1.sg.Ā ⟪जज्ञे⟫
     
 *   1.pl.Ā ⟪जज्ञिमहे⟫
-:::⟪वच्⟫ 2P
+:::
+⟪वच्⟫ 2P
 
 :::indent
 *   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
     
 *   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
-:::⟪वद्⟫ 1P (Ā)
+:::
+⟪वद्⟫ 1P (Ā)
 
 :::indent
 *   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
@@ -261,7 +282,8 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪ऊदे⟫
     
 *   1.pl.Ā  ⟪ऊदिमहे⟫
-:::⟪यज्⟫ 1U
+:::
+⟪यज्⟫ 1U
 
 :::indent
 *   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
@@ -271,7 +293,8 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪ईजे⟫
     
 *   1.pl.Ā ⟪ईजिमहे⟫
-:::#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+:::
+#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
 
 ⟪पच्⟫ 1U
 
@@ -283,7 +306,8 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪पेचे⟫
     
 *   1.pl.Ā ⟪पेचिमहे⟫
-:::#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+:::
+#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
 
 Verben, die diesem Typ folgen:
 
@@ -299,7 +323,8 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪चक्रमे⟫
     
 *   1.pl.Ā ⟪चक्रमिमहे⟫
-:::### 40.2.6. Besondere Perfekt-Bildungen
+:::
+### 40.2.6. Besondere Perfekt-Bildungen
 
 ⟪विद्⟫ 2P präsentisches Perfekt:
 
@@ -307,7 +332,8 @@ Verben, die diesem Typ folgen:
 *   1.sg.P ⟪वेद⟫ (= 3.sg.P)
     
 *   1.pl.P ⟪विद्म⟫
-:::⟪अह्⟫ 1. Person nicht gebräuchlich!
+:::
+⟪अह्⟫ 1. Person nicht gebräuchlich!
 
 ⟪भू⟫ 1P
 
@@ -315,13 +341,15 @@ Verben, die diesem Typ folgen:
 *   1.sg.P ⟪बभूव⟫ (= 3.sg.P)
     
 *   1.pl.P ⟪बभूविम⟫
-:::⟪जि⟫ 1P
+:::
+⟪जि⟫ 1P
 
 :::indent
 *   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
     
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
-:::## 40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+:::
+## 40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
 
 Das periphrastische Perfekt wird gebildet von:
 
@@ -342,17 +370,20 @@ Das periphrastische Perfekt wird gebildet von:
 *   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
     
 *   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
-:::⟪बन्ध्⟫ Kausativum P: ⟪बन्धयति⟫
+:::
+⟪बन्ध्⟫ Kausativum P: ⟪बन्धयति⟫
 
 :::indent
 *   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
     
 *   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
-:::## 40.4. Syntaktisches zur ersten Person (⟪तृतीयः⟫)
+:::
+## 40.4. Syntaktisches zur ersten Person (⟪तृतीयः⟫)
 
 :::grammar-box
 Da ein Verbum finitum (konjugiertes Verb) den Agens (⟪कर्तृ⟫) mit ausdrückt, braucht das "ich", "wir" in nicht-passiven Verbalsätzen mit Verbum finitum nicht extra durch ein Personalpronomen ausgedrückt werden
-:::## 40.5. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫) der 1. Person Singular und Plural
+:::
+## 40.5. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫) der 1. Person Singular und Plural
 
 :::grammar-box
 Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe.
@@ -387,7 +418,8 @@ Als Vorderglied von Komposita stehen für diese Pronomina die Stämme:
 *   pl. ⟪अस्मद्⟫
 
 z.B. ⟪मत्पुस्तकम्⟫ "mein Buch" ; ⟪अस्मद्पुस्तकानि⟫ "unsere Bücher"
-:::## 40.6. Wortliste
+:::
+## 40.6. Wortliste
 
 ⟪पात्र⟫ n.: Ehrwürdiger, Meister, Würdiger
 
@@ -407,13 +439,15 @@ Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्�
 davon:
 
 ⟪कल्पना⟫ f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion
-:::⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (sich verschieden vorstellen =) in Frage stellen, bezweifeln
+:::
+⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (sich verschieden vorstellen =) in Frage stellen, bezweifeln
 
 :::indent
 davon:
 
 ⟪विक्ल्प⟫ m.: Alternative, Zweifel
-:::⟪तुद्⟫ 6U ⟪तुदति⟫ : schlagen
+:::
+⟪तुद्⟫ 6U ⟪तुदति⟫ : schlagen
 
 :::indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -422,7 +456,8 @@ Pass. ⟪तुद्यते⟫
 Kaus. ⟪तोदयति⟫  
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
-:::⟪तॄ⟫ 1P ⟪तरति⟫ :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten)
+:::
+⟪तॄ⟫ 1P ⟪तरति⟫ :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten)
 
 :::indent
 Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
@@ -445,7 +480,8 @@ Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 ![lekt4002.jpg](/images/lekt4002.webp)
 Abb.: ⟪तीर्थङ्करः⟫
 (Bildquelle: [Details](/licenses#lekt4002))
-:::⟪अव⟫ Präverb.: herab, hinab, weg, ab-
+:::
+⟪अव⟫ Präverb.: herab, hinab, weg, ab-
 
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : herabsteigen
 
@@ -457,7 +493,8 @@ davon:
 ![lekt4001.jpg](/images/lekt4001.webp)
 Abb.: ⟪विष्णोर्दशावताराः⟫
 (Bildquelle: [Details](/licenses#lekt4001))
-:::⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : schlafen, sich schlafen legen
+:::
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : schlafen, sich schlafen legen
 
 :::indent
 Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
@@ -477,7 +514,8 @@ davon:
 ![lekt4004.jpg](/images/lekt4004.webp)
 Abb.: ⟪स्वपन्ति⟫
 (Bildquelle: [Details](/licenses#lekt4004))
-:::## 40.7. Übung
+:::
+## 40.7. Übung
 
 A) Übersetzen sie die ⟪सुभाषितानि⟫ am Beginn der Lektion.
 

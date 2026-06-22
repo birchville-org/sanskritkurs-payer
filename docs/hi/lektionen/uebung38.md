@@ -59,7 +59,8 @@ Brahmā hat die Welten erschaffen.
 ![](/images/uebung063.webp)
 अभ.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung063))
-:::---
+:::
+---
 
 ## कथा: दस मूर्ख (⟪दश⟫ ⟪मूढाः⟫)
 

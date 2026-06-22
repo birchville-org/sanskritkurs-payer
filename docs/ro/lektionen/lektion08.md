@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-07
 - Sufixe nominale importante (-a, -ana, -tra, -ti, -tva, -tā)
 - Clasa a 8-a de prezent (tanādi)
 - Conjugarea verbului **kṛ** (tun, a face)
-:::---
+:::
+---
 
 ## 8.1. Despre formarea numelor substantive
 
@@ -29,7 +30,8 @@ last_reconstructed: 2026-05-07
 **Rădăcină + sufix kṛt » stemen nominal etc. + sufix taddhita » nouă stemen nominal etc.**
 
 **Stemen nominal + terminație de caz » nume sintactic**
-:::---
+:::
+---
 
 ## 8.2. Clasificarea sufixelor nominale
 
@@ -59,7 +61,8 @@ last_reconstructed: 2026-05-07
 
 :::grammar-box
 **Sufixul kṛt -a formează substantive masculine (rar neutre) care denumesc o acțiune sau o stare indicată de rădăcină; uneori și adjective sau substantive care exprimă agentul (kartṛ) acțiunii indicată de rădăcina verbală. Pentru penultima scurtă (= vocală înainte de consoanța pe care se termină rădăcina) sau vocala finală a rădăcinii, se substituie de obicei gradul ridicat (guṇa) sau gradul lungit (vṛddhi).**
-:::**Exemple:**
+:::
+**Exemple:**
 
 | Rădăcină:br⟪धातु⟫ | + -a (kṛt) | Semnificație |
 | :--- | :--- | :--- |
@@ -80,7 +83,8 @@ last_reconstructed: 2026-05-07
 
 :::grammar-box
 **Sufixul kṛt -ana formează de obicei substantive neutre care denotă o acțiune, o stare sau mijlocul/unealta prin care acțiunea indicată de rădăcină sau de un temei verbal se realizează. Pentru o penultimă scurtă sau un vocal final al rădăcinii, se substituie de obicei gradul ridicat (guṇa).**
-:::**Exemple:**
+:::
+**Exemple:**
 
 | Rădăcină:br⟪धातु⟫ | + -ana (kṛt) | Semnificație |
 | :--- | :--- | :--- |
@@ -95,18 +99,21 @@ last_reconstructed: 2026-05-07
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0801))
-::::::note-box
+::::::
+note-box
 **"Darshan"** sau **"Darshana"** este un termen din hinduism pentru viziunea și vederea sfântului și divinului. Sub *Darshana* se înțelege, de exemplu, întâlnirea oficială dintre elev și maestru, la care elevul a fost invitat de maestru. Poate însemna, de asemenea, *cufundarea* în contemplarea unei icoane divine. Această din urmă semnificație este cea mai frecventă în limbajul hindi contemporan. În contextul lui Mata Amritanandamayi, Darshan înseamnă îmbrățișarea de către Guru.
 
 Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un simbol sau o statuie, în care se consideră prezența spirituală a zeului. În acest sens, este și o binecuvântare din partea zeului. Darshan poate fi, de asemenea, primit prin viziunea zeității în timpul rugăciunii sau meditației. De asemenea, o persoană vie, considerată ca o întrupare a zeității, cum ar fi un Avatara, poate oferi Darshan.
 (Sursă: Wikipedia)
-:::---
+:::
+---
 
 ### 8.3.3. -tra n. (kṛt)
 
 :::grammar-box
 **Sufixul kṛt -tra formează (în majoritate) substantive neutre, care indică mijlocul sau instrumentul prin care se realizează acțiunea indicată de rădăcină. Vocala scurtă penultimă și vocala finală a rădăcinii sunt înlocuite prin etapa superioară (guṇa).**
-:::**Exemple:**
+:::
+**Exemple:**
 
 | Rădăcină:br⟪धातु⟫ | + -tra (kṛt) | Semnificație |
 | :--- | :--- | :--- |
@@ -126,13 +133,15 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam-Schrift | Jaina-Oṃ |
 (Sursele imaginilor: [Detalii](/ro/licenses#lekt0803))
-:::---
+:::
+---
 
 ### 8.3.4. -ti f. (kṛt)
 
 :::grammar-box
 **Sufixul kṛt -ti formează substantive feminine care, în general, exprimă acțiunea indicată de rădăcină sau starea indicată de rădăcină. Forma rădăcinii este în grad redus.**
-:::**Exemple:**
+:::
+**Exemple:**
 
 | Rădăcină:br⟪धातु⟫ | + -ti (kṛt) | Semnificație |
 | :--- | :--- | :--- |
@@ -152,7 +161,8 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 
 :::grammar-box
 **Sufixele taddhita -tva n. respectiv -tā f. formează substantive abstracte la nominal. Forma radicalului nominal de bază rămâne neschimbată.**
-:::**Exemple:**
+:::
+**Exemple:**
 
 | Radical nominal:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Semnificație |
 | :--- | :--- | :--- | :--- |
@@ -176,7 +186,8 @@ Exemplu **tan** 8 U (⟪तन्⟫) „a întinde”:
 - 3\. pl. P. **tanvanti**:br⟪तन्वन्ति⟫
 - 3\. sg. Ā. **tanute**:br⟪तनुते⟫
 - 3\. pl. Ā. **tanvate**:br⟪तन्वते⟫
-:::Notă: În legătură cu disputa privind faptul dacă **tan** este de fapt o rădăcină a celei de-a 5-a clase (*tn » ta + no-), vezi Thumb-Hauschild, Handbuch des Sanskrit II, 265.
+:::
+Notă: În legătură cu disputa privind faptul dacă **tan** este de fapt o rădăcină a celei de-a 5-a clase (*tn » ta + no-), vezi Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
 Cea mai importantă rădăcină a celei de-a 8-a clase este **kṛ** 8 U (⟪कृ⟫) „a face, a executa”. Conjugarea sa este neregulată:
 
@@ -186,7 +197,8 @@ Cea mai importantă rădăcină a celei de-a 8-a clase este **kṛ** 8 U (⟪क
 - 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
 - 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
 - 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
-:::---
+:::
+---
 
 ## 8.5. Listă de cuvinte
 
@@ -218,7 +230,8 @@ Fig.: **likh** (⟪लिख्⟫) : instrument de scris indian din oțel pentr
 ![](/images/lekt0810.jpg)
 Fig.: **likh** (⟪लिख्⟫) : bețișor de scris al Batak (Sumatra), așa cum era probabil folosit și în India
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0809))
-:::- **sukha** n. ⟪सुख⟫ : fericire, bunăstare
+:::
+- **sukha** n. ⟪सुख⟫ : fericire, bunăstare
 - **duḥkha** n. ⟪दुःख⟫ : nefericire, suferință
 
 ---

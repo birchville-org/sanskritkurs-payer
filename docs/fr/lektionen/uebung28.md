@@ -104,7 +104,8 @@ A) Formez le causatif des formes verbales et des formes participiales suivantes 
 | ⟪हन्⟫ | ⟪घातयति⟫ | faire tuer, faire périr |
 | ⟪जि⟫ | ⟪जापयति⟫ | faire triompher |
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | animer |
-:::B) Traduisez les phrases suivantes et formez, à l'aide des verbes simples, des phrases exprimant ce qui se produit lorsque ce qui est exprimé par le causatif est réalisé.
+:::
+B) Traduisez les phrases suivantes et formez, à l'aide des verbes simples, des phrases exprimant ce qui se produit lorsque ce qui est exprimé par le causatif est réalisé.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
 Le Kṣatriya, pour vaincre les ennemis, a fait honorer Hari et Hara par un Brahmane avec un sacrifice, et combattra les ennemis.

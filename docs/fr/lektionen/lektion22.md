@@ -27,21 +27,24 @@ Lors de la traduction en allemand, évitez de dire constamment « après que ».
 
 (précision concernant l'absolutif : complément circonstanciel, objet, etc.) - Absolutif - Absolutif - ... - Absolutif - ... Agent + phrase verbale (à la voix active ou passive)
 
-:::**Exemples :**
+:::
+**Exemples :**
 
 :::indent
 **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = Construction passive : **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
 « L'homme entre dans la maison, voit la petite fille et lui parle. »
 
 Pluriel : **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
-:::## 22.2. Formation de l’absolutif
+:::
+## 22.2. Formation de l’absolutif
 
 :::grammar-box
 **Formation de l’absolutif**
 
 *   Verbes sans préfixe : absolutif en **-tvā**
 *   Verbes avec préfixe : absolutif en **-ya** ou **-tya**
-:::### 22.2.1. Verbes sans préfixe : Absolutif en -⟪त्वा⟫
+:::
+### 22.2.1. Verbes sans préfixe : Absolutif en -⟪त्वा⟫
 
 :::grammar-box
 
@@ -51,7 +54,8 @@ Pluriel : **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां
 
 Seule la négation **a-** / **an-** est compatible avec le suffixe **-⟪त्वा⟫** : **⟪अकृत्वा⟫** "n’ayant pas fait"
 
-:::**Exemples :**
+:::
+**Exemples :**
 
 :::indent
 **⟪आप्त्वा⟫** "après qu’il / elle / il / je / tu / nous / vous / ils / nous deux / vous deux / ils deux ont atteint / avaient atteint"
@@ -65,7 +69,8 @@ Seule la négation **a-** / **an-** est compatible avec le suffixe **-⟪त्�
 **⟪जित्वा⟫** "après qu’il (...) a vaincu / avait vaincu"
 
 **⟪उक्त्वा⟫** "après qu’il (...) a parlé / avait parlé"
-:::### 22.2.2. Verbes avec préverbe
+:::
+### 22.2.2. Verbes avec préverbe
 
 #### 22.2.2.1. Racines se terminant par une voyelle longue (sauf -ā) ou par une consonne
 
@@ -73,7 +78,8 @@ Seule la négation **a-** / **an-** est compatible avec le suffixe **-⟪त्�
 
 **(généralement) racine au niveau profond + -ya**
 
-:::**Exemples :**
+:::
+**Exemples :**
 
 :::indent
 **⟪उपनीय⟫** « après avoir (...) conduit / avait conduit »
@@ -81,23 +87,27 @@ Seule la négation **a-** / **an-** est compatible avec le suffixe **-⟪त्�
 **⟪प्रभूय⟫** « après s'être (...) dépassé / était dépassé » « après avoir eu (...) le pouvoir »
 
 **⟪प्राप्य⟫** « après avoir (...) obtenu / avait obtenu »
-:::#### 22.2.2.2. Racines se terminant par -ā
+:::
+#### 22.2.2.2. Racines se terminant par -ā
 
 :::grammar-box
 
 **racine au niveau aigu inchangée + -ya**
 
-:::**Exemple :**
+:::
+**Exemple :**
 
 :::indent
 **⟪उपस्थाय⟫** « après être (...) entré / était entré » ; (mais sans préverbe : **⟪स्थित्वा⟫**)
-:::#### 22.2.2.3. Racines qui se terminent au niveau profond par un -i, -u, -ṛ bref
+:::
+#### 22.2.2.3. Racines qui se terminent au niveau profond par un -i, -u, -ṛ bref
 
 :::grammar-box
 
 **racine au niveau profond + -tya**
 
-:::**Exemples :**
+:::
+**Exemples :**
 
 :::indent
 **⟪प्रस्तुत्य⟫** « après avoir (...) loué à haute voix / avait loué à haute voix »
@@ -105,7 +115,8 @@ Seule la négation **a-** / **an-** est compatible avec le suffixe **-⟪त्�
 **⟪विस्मृत्य⟫** « après avoir (...) oublié / avait oublié »
 
 **⟪संस्कृत्य⟫** « après avoir (...) préparé pour le sacrifice / avait préparé pour le sacrifice »
-:::#### 22.2.2.4. Racines se terminant par -am / -an, qui se terminent au niveau profond par -a
+:::
+#### 22.2.2.4. Racines se terminant par -am / -an, qui se terminent au niveau profond par -a
 
 :::grammar-box
 
@@ -117,11 +128,13 @@ ou :
 
 Racine se terminant par **-a** + **-tya**
 
-:::**Exemple :**
+:::
+**Exemple :**
 
 :::indent
 **⟪विगम्य⟫** ou **⟪विगत्य⟫** « après être (...) passé / était passé »
-:::## 22.3. Liste de mots
+:::
+## 22.3. Liste de mots
 
 **⟪काम⟫ m. :** souhait, désir ; don souhaité, plaisir des sens, amour, dieu de l'amour
 
@@ -132,7 +145,8 @@ Racine se terminant par **-a** + **-tya**
 Fig. : ⟪कामदेवः⟫
 XIXe siècle
 (Source de l'image : [Détails](/fr/licenses#lekt2202))
-:::**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** être capable, pouvoir
+:::
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** être capable, pouvoir
 
 dérivés :
 
@@ -145,11 +159,13 @@ dérivés :
 Fig. : ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (Source de l'image : [Détails](/fr/licenses#lekt2203))
-:::**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** mériter (être digne de quelque chose), avoir le droit, être obligé à, devoir (à la 2e personne, **⟪अर्ह्⟫** + infinitif est souvent utilisé comme un ordre atténué : « Tu devrais »)
+:::
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** mériter (être digne de quelque chose), avoir le droit, être obligé à, devoir (à la 2e personne, **⟪अर्ह्⟫** + infinitif est souvent utilisé comme un ordre atténué : « Tu devrais »)
 
 :::indent
 **⟪अर्हन्त्⟫ 3** Part. prés. P : un digne. Dans le bouddhisme et le jaïnisme : quelqu'un qui a atteint la libération finale
-:::**⟪व्रत⟫ n. :** vœu, devoir religieux, observance religieuse (on promet quelque chose à la divinité pour obtenir quelque chose d'elle. Exemple : une mère promet de donner sa fille comme prostituée de temple (**⟪देवदासी⟫**) si sa fille guérit. **⟪व्रत⟫** importants aujourd'hui : jeûne ; abstinence de plats aimés ; abstinence sexuelle ; lecture de textes sacrés ; accomplissement de certains rituels ; offrandes aux brahmanes, etc. Bref sur les **⟪व्रत⟫** : Walker, Hindu World vol. II, p. 581s. Détaillé : P. V. Kane : History of Dharmaśāstra vol. 5,1 p. 1 - 462. Là p. 253 - 462 liste de **⟪व्रत⟫** et de fêtes religieuses (« la liste suivante ... ne prétend pas être complètement exhaustive » !!!)
+:::
+**⟪व्रत⟫ n. :** vœu, devoir religieux, observance religieuse (on promet quelque chose à la divinité pour obtenir quelque chose d'elle. Exemple : une mère promet de donner sa fille comme prostituée de temple (**⟪देवदासी⟫**) si sa fille guérit. **⟪व्रत⟫** importants aujourd'hui : jeûne ; abstinence de plats aimés ; abstinence sexuelle ; lecture de textes sacrés ; accomplissement de certains rituels ; offrandes aux brahmanes, etc. Bref sur les **⟪व्रत⟫** : Walker, Hindu World vol. II, p. 581s. Détaillé : P. V. Kane : History of Dharmaśāstra vol. 5,1 p. 1 - 462. Là p. 253 - 462 liste de **⟪व्रत⟫** et de fêtes religieuses (« la liste suivante ... ne prétend pas être complètement exhaustive » !!!)
 
 **⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (sanskrit : ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** pâturer, errer, se mouvoir, agir, exercer, accomplir (par ex. **⟪व्रतं⟫ ⟪चर्⟫** : pratiquer un vœu, notamment l'abstinence sexuelle)
 
@@ -168,7 +184,8 @@ dérivés :
 Fig. : ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2201))
-:::## 22.4. Exercice
+:::
+## 22.4. Exercice
 
 **A) Formez et traduisez l’absolutif pour les verbes suivants :**
 

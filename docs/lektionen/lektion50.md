@@ -29,19 +29,23 @@ Abb.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
 
 :::indent
 z.B. ⟪सुचितर⟫ 3 "ziemlich rein", "sehr rein", "zu rein"
-:::**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Ablativ (⟪पञ्चमी⟫). Komparativ + Ablativ entspricht der Steigerung mit "als" im Deutschen.**
+:::
+**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Ablativ (⟪पञ्चमी⟫). Komparativ + Ablativ entspricht der Steigerung mit "als" im Deutschen.**
 
 :::indent
 z.B. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = wörtl.: "von Devadatta aus gesehen ist Rāma einsichtiger" = "Rāma ist einsichtiger als Devadatta"
-:::**Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äußerst, sehr":**
+:::
+**Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äußerst, sehr":**
 
 :::indent
 z.B. ⟪सत्तम⟫ 3 (zu ⟪सन्त्⟫) "äußerst gut, sehr gut"
-:::**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Genetiv (⟪षष्ठी⟫) ("von", "unter") und der Superlativ entspricht dem deutschen Superlativ (Höchststufe):**
+:::
+**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Genetiv (⟪षष्ठी⟫) ("von", "unter") und der Superlativ entspricht dem deutschen Superlativ (Höchststufe):**
 
 :::indent
 z.B. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "der beste der Zweimalgeborenen"
-:::**Die Suffixe -⟪तर⟫ und -⟪तम⟫ können nicht nur an Adjektive treten, sondern auch an Substantive, Indeklinabilia und sogar Verbalformen:**
+:::
+**Die Suffixe -⟪तर⟫ und -⟪तम⟫ können nicht nur an Adjektive treten, sondern auch an Substantive, Indeklinabilia und sogar Verbalformen:**
 
 Beispiele:
 
@@ -51,7 +55,8 @@ Beispiele:
 ⟪गोतम⟫ m. "der größte Ochse" (⟪गो⟫) oder: "am reichsten an Rindern"
 
 ⟪उद्⟫ Indekl. "auf", "hinauf" » ⟪उत्तर⟫ 3 "höherer" » ⟪उत्तम⟫ 3 "höchster"
-:::**Treten diese Suffixe an eine Verbalform, so erscheinen sie stets in der adverbialen Form:**
+:::
+**Treten diese Suffixe an eine Verbalform, so erscheinen sie stets in der adverbialen Form:**
 
 * **-⟪तराम्⟫**
 * **-⟪तमाम्⟫**
@@ -62,7 +67,8 @@ Beispiele:
 ⟪पचतितराम्⟫ "er/sie/es kocht besser"
 
 ⟪पचतितमाम्⟫ "er/sie/es kocht am besten"
-:::**Diese Form haben diese Suffixe auch, wenn sie an ein Indeklinabile treten und das abgeleitete Wort adverbial gebraucht wird:**
+:::
+**Diese Form haben diese Suffixe auch, wenn sie an ein Indeklinabile treten und das abgeleitete Wort adverbial gebraucht wird:**
 
 :::indent
 z.B. ⟪सुतराम्⟫ (zu ⟪सु⟫) "auf bessere Weise" (adverbial)
@@ -71,7 +77,8 @@ z.B. ⟪सुतराम्⟫ (zu ⟪सु⟫) "auf bessere Weise" (adverbia
 Abb.: ⟪का⟫ ⟪पचतितमाम्⟫
 Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Bildquelle: [Details](/licenses#lekt5006))
-:::## 50.2. Wortliste
+:::
+## 50.2. Wortliste
 
 ⟪ध्रुव⟫ 3: fest, unveränderlich
 
@@ -88,7 +95,8 @@ Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 Abb.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
 (Bildquelle: [Details](/licenses#lekt5001))
-:::⟪रहस्⟫ n.: Geheimnis, Einsamkeit
+:::
+⟪रहस्⟫ n.: Geheimnis, Einsamkeit
 
 ⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen
 
@@ -98,7 +106,8 @@ Fut. ⟪रेषिष्यति⟫
 Pass. ⟪रिष्यते⟫
 Kaus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
-:::**⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : brechen, zerstören
+:::
+**⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : brechen, zerstören
 
 :::indent
 Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
@@ -108,7 +117,8 @@ Kaus. ⟪लोपयति⟫
 PPP ⟪लुप्त⟫
 Inf. ⟪लोप्तुम्⟫
 Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
-:::⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
+:::
+⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
 
 ⟪वृष्⟫ 1P ⟪वर्षति⟫ : regnen (meist mit einem ⟪कर्तृ⟫ -- einem Gott oder einer Wolke)
 
@@ -126,7 +136,8 @@ Absol.-⟪वृष्य⟫
 Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt5002))
-:::⟪संयक्⟫ Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
+:::
+⟪संयक्⟫ Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
 
 ⟪आदित्य⟫ m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse
 
@@ -134,7 +145,8 @@ Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
 ![](/images/lekt5005.jpg)
 Abb.: ⟪आदित्यः⟫
 (Bildquelle: [Details](/licenses#lekt5005))
-:::⟪सर्व⟫ 3: jeder, alle
+:::
+⟪सर्व⟫ 3: jeder, alle
 
 Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
 
@@ -149,7 +161,8 @@ Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
 | **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
 | **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
-:::⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
+:::
+⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
 
 ⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
 
@@ -161,19 +174,22 @@ Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
 ![](/images/lekt5003.webp)
 Abb.: ⟪कल्याणी⟫
 (Bildquelle: [Details](/licenses#lekt5003))
-:::⟪कु⟫- : als Vorderglied von Komposita: schlecht
+:::
+⟪कु⟫- : als Vorderglied von Komposita: schlecht
 
 :::media
 ![](/images/lekt5004.webp)
 Abb.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Bildquelle: [Details](/licenses#lekt5004))
-:::⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen
+:::
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen
 
 :::indent
 Perf. ⟪चचक्षे⟫
 in den übrigen Tempora nicht verwendet
-:::⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen
+:::
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen
 
 ⟪देश⟫ m.: Ort, Platz, Land, Gegend
 
@@ -191,7 +207,8 @@ A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsfo
 Abb.: ⟪गुरुमेव⟫ ⟪भजे⟫
 Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt
 (Bildquelle: [Details](/licenses#lekt5008))
-:::B) Übersetzen Sie:
+:::
+B) Übersetzen Sie:
 
 ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
 
@@ -200,21 +217,24 @@ Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt
 ⟪येन⟫ ⟪याताः⟫ ⟪पितामहाः⟫ ⟪।⟫
 ⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫
 ⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥१॥⟫
-:::⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
+:::
+⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
 
 :::indent
 ⟪कुविवाहैः⟫ ⟪क्रियालोपैर्⟫
 ⟪वेदानध्ययनेन⟫ ⟪च⟫ ⟪।⟫
 ⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫
 ⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥२॥⟫
-:::⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
+:::
+⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
 
 :::indent
 ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫
 ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫
 ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫
 ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥३॥⟫
-:::⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers
+:::
+⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers
 
 :::indent
 ⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫
@@ -225,7 +245,8 @@ Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt
 ⟪आदित्यमुपतिष्ठते⟫ ⟪।⟫
 ⟪आदित्याज्जायते⟫ ⟪वृष्टिर्⟫
 ⟪वृष्टेरन्नं⟫ ⟪ततः⟫ ⟪प्रजाः⟫ ⟪॥५॥⟫
-:::⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
+:::
+⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
 
 :::indent
 ⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥६॥⟫
@@ -233,14 +254,16 @@ Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt
 
 Erklärung:
 ⟪द्रष्टृदृश्ययोः⟫ : Gen.Lok.m.n.f.Dual (Dualdvandva)
-:::⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
+:::
+⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
 
 :::indent
 ⟪न⟫ ⟪किंचिदवमन्येत⟫
 ⟪सर्वस्य⟫ ⟪शृणुयानमतम्⟫ ⟪।⟫
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫
 ⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥८॥⟫
-:::⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
+:::
+⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
 
 :::indent
 ⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫

@@ -17,7 +17,8 @@ status: stable
 - Indicativo Presente (laṭ) y las terminaciones primarias de la 3.ª persona
 - La formación del tema del presente (clases 1, 4 y 6)
 - La gradación vocálica (Ablaut: Guṇa y Vṛddhi)
-:::## 6.1. La oración verbal
+:::
+## 6.1. La oración verbal
 
 :::grammar-box
 **Esquema I: Forma verbal**
@@ -25,7 +26,8 @@ status: stable
 
 **Esquema II: Agente (kartṛ m. = ⟪कर्तृ⟫) – Forma verbal**
 - p.ej. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma venera con un sacrificio", "Rāma sacrifica"
-:::Cuando se menciona el agente (**kartṛ** m. = ⟪कर्तृ⟫) en una oración verbal que no está en voz pasiva, entonces el agente está en **nominativo** (primer caso, prathamā = ⟪प्रथमा⟫). En el número (número, vacana n. = ⟪वचन⟫), el agente y la forma verbal coinciden.
+:::
+Cuando se menciona el agente (**kartṛ** m. = ⟪कर्तृ⟫) en una oración verbal que no está en voz pasiva, entonces el agente está en **nominativo** (primer caso, prathamā = ⟪प्रथमा⟫). En el número (número, vacana n. = ⟪वचन⟫), el agente y la forma verbal coinciden.
 
 ---
 
@@ -68,7 +70,8 @@ El presente es el tiempo del presente, particularmente también del durativo.
 
 :::grammar-box
 **El Indicativo (forma enunciativa) Presente se forma añadiendo al tema del presente las llamadas terminaciones primarias.**
-:::Ejemplos:
+:::
+Ejemplos:
 
 | Raíz (dhātu) | Tema del presente | 3.ª persona singular del Indicativo Presente Parasmaipada |
 | :--- | :--- | :--- |
@@ -85,7 +88,8 @@ El presente es el tiempo del presente, particularmente también del durativo.
 | :--- | :--- | :--- |
 | **Parasmaipada n.**:br⟪परस्मैपद⟫ | **-ti**:br-⟪ति⟫ | **-nti**:br-⟪न्ति⟫ |
 | **Ātmanepada n.**:br⟪आत्मनेपद⟫ | **-te**:br-⟪ते⟫ | **-nte**:br-⟪न्ते⟫ |
-:::Ejemplo **yaj** = ⟪यज्⟫ = "honrar con un sacrificio", "sacrificar":
+:::
+Ejemplo **yaj** = ⟪यज्⟫ = "honrar con un sacrificio", "sacrificar":
 - Tema de presente: **yaja** = ⟪यज⟫
 - 3. sg. P. **yajati** = ⟪यजति⟫
 - 3. pl. P. **yajanti** = ⟪यजन्ति⟫
@@ -105,7 +109,8 @@ El presente es el tiempo del presente, particularmente también del durativo.
 | :--- | :--- |
 | **viś**:br⟪विश्⟫ | **viśa-**:br⟪विश⟫- |
 | **sṛj**:br⟪सृज्⟫ | **sṛja-**:br⟪सृज⟫- |
-:::### 6.5.2. Verbos de la primera clase de presente (bhādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū, etc.")
+:::
+### 6.5.2. Verbos de la primera clase de presente (bhādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū, etc.")
 
 :::grammar-box
 | Raíz del presente = raíz en grado completo (raramente en grado reforzado) + a- ||||
@@ -117,7 +122,8 @@ El presente es el tiempo del presente, particularmente también del durativo.
 | **yaj**:br⟪यज्⟫ | **yaj**:br⟪यज्⟫ | **yaj**:br⟪यज्⟫ | **yaja-**:br⟪यज⟫- |
 | Si la vocal se encuentra en una sílaba cerrada larga, es decir, vocal corta seguida de dos o más consonantes, se omite la formación del grado completo ||||
 | **nind**:br⟪निन्द्⟫ | **nind**:br⟪निन्द्⟫ | **nind**:br⟪निन्द्⟫ | **ninda-**:br⟪निन्द⟫- |
-:::#### 6.5.2.1. Sandhi léxico de e y o
+:::
+#### 6.5.2.1. Sandhi léxico de e y o
 Ante vocales, en interior de palabra, **e** se reemplaza por **ay**, **o** se reemplaza por **av**.
 
 #### 6.5.2.2. Gradación vocálica (Ablaut)
@@ -130,7 +136,8 @@ Ante vocales, en interior de palabra, **e** se reemplaza por **ay**, **o** se re
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
-:::### 6.5.3. Verbos de la 4.ª clase de presente (divādi = ⟪दिवादि⟫ = "div etc.")
+:::
+### 6.5.3. Verbos de la 4.ª clase de presente (divādi = ⟪दिवादि⟫ = "div etc.")
 
 :::grammar-box
 **Tema del presente = raíz en grado reducido (en el que se presenta) + ya-**
@@ -141,11 +148,13 @@ Ante vocales, en interior de palabra, **e** se reemplaza por **ay**, **o** se re
 | **muh**:br⟪मुह्⟫ | **muhya-**:br⟪मुह्य⟫- |
 | **yudh**:br⟪युध्⟫ | **yudhya-**:br⟪युध्य⟫- |
 | **man**:br⟪मन्⟫ | **manya-**:br⟪मन्य⟫- |
-:::### 6.5.4. Vocablo temático, clases de presente temático
+:::
+### 6.5.4. Vocablo temático, clases de presente temático
 
 :::grammar-box
 La **a** en los sufijos de formación de raíz de las clases de presente se llama **vocablo temático**. Las clases de presente con **a** en el sufijo de formación de raíz se denominan por ello "clases de presente temático".
-:::---
+:::
+---
 
 ## 6.6. Sánscrito hablado: Otras preguntas (praśna m. = ⟪प्रश्न⟫)
 
@@ -155,7 +164,8 @@ La **a** en los sufijos de formación de raíz de las clases de presente se llam
 - (karoti, kurvanti de **kṛ** = ⟪कृ⟫ 8 U: "hacer, hacer")
 - **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "¿Le va bien?, ¿Cómo está?"
 - Respuesta: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Me va) bien en todos los aspectos."
-:::---
+:::
+---
 
 ## 6.7. Lista de palabras
 
@@ -166,7 +176,8 @@ En sánscrito, los verbos se presentan en la **forma de raíz**. El número desp
 - **Ā:** La raíz es solo Ātmanepada
 - **U:** Ubhayapada ("ambas formas de palabra"): La raíz se utiliza en Parasmaipada y Ātmanepada.
 - **():** Entre paréntesis se indica la tercera persona del singular del presente de indicativo (laṭ).
-:::**Aprenda las siguientes palabras:**
+:::
+**Aprenda las siguientes palabras:**
 - **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : honrar con un sacrificio, ofrecer
 - **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : llegar a ser, surgir, ser
 - **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : presentar, recordar
@@ -214,7 +225,8 @@ En sánscrito, los verbos se presentan en la **forma de raíz**. El número desp
 **Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
 (Fuente de la imagen: Wikipedia, CC-BY-SA 2.5)
-:::---
+:::
+---
 
 ## 6.9. Ejercicio de repaso
 
@@ -291,7 +303,8 @@ En sánscrito, los verbos se presentan en la **forma de raíz**. El número desp
 ![](/images/lekt0602.webp)
 **Mīnākṣī** (⟪मीनाक्षी⟫), Templo de Mīnākṣī, Madurai, Tamil Nadu
 (Fuente de la imagen: Wikipedia, Dominio público)
-:::4. Ellos están confundidos.
+:::
+4. Ellos están confundidos.
 5. Rāma es un hombre sagrado.
 6. ¿Quién es el SEÑOR?
 7. Indra es el SEÑOR.

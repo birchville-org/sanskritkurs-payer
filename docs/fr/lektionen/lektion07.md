@@ -16,9 +16,11 @@ status: stable
 - Le Sandhi de la finale -n
 - Le neutre des thèmes en a
 - Les classes de présent athématiques (exemple de la 5e classe)
-:::## Proverbe de la semaine
+:::
+## Proverbe de la semaine
 
-:::center
+:::
+center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ |
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -33,7 +35,8 @@ Le droit triomphe, non l’injustice,
 La vérité triomphe, non le mensonge,
 La clémence triomphe, non la colère,
 Dieu triomphe, non le faux-dieu.
-:::---
+:::
+---
 
 ## 7.1. La proposition verbale avec objet direct
 
@@ -44,7 +47,8 @@ Dieu triomphe, non le faux-dieu.
 p. ex.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : « Rāma mange (consomme) un fruit. »
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : « Le Brahmane vénère une divinité par un sacrifice (pour autrui). »
-:::Lorsque le verbe est au Parasmaipada ou au Ātmanepada, l’objet direct (**karman** n. = ⟪कर्मन्⟫) se trouve généralement à l’**accusatif** (cas direct, dvitīyā f. = ⟪द्वितीया⟫).
+:::
+Lorsque le verbe est au Parasmaipada ou au Ātmanepada, l’objet direct (**karman** n. = ⟪कर्मन्⟫) se trouve généralement à l’**accusatif** (cas direct, dvitīyā f. = ⟪द्वितीया⟫).
 
 ---
 
@@ -82,7 +86,8 @@ p. ex.
 | **-i** : śruti | **śrutīs**:br⟪श्रुतीस्⟫ |
 | **-ī** : devī | **devīs**:br⟪देवीस्⟫ |
 | **-u** : dhenu | **dhenūs**:br⟪धेनूस्⟫ |
-:::---
+:::
+---
 
 ### 7.2.1. Singulier et pluriel de l’accusatif des pronoms interrogatifs et démonstratifs
 
@@ -97,7 +102,8 @@ p. ex.
 | | pl. | **etān / enān**:br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās**:br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni**:br⟪एतानि⟫ / ⟪एनानि⟫ |
 | **idam**:brcelui-ci | sg. | **imam / enam**:br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām**:br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad**:br⟪इदम्⟫ / ⟪एनद्⟫ |
 | | pl. | **imān / enān**:br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās**:br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni**:br⟪इमानि⟫ / ⟪एनानि⟫ |
-:::Les formes **enam** (⟪एनम्⟫), etc., appartiennent à la racine **enad** (⟪एनद्⟫), qui ne forme des cas que dans certains cas. Elles sont utilisées à la place des formes de **etad** et **idam** lorsque ce qui est désigné a déjà été mentionné précédemment.
+:::
+Les formes **enam** (⟪एनम्⟫), etc., appartiennent à la racine **enad** (⟪एनद्⟫), qui ne forme des cas que dans certains cas. Elles sont utilisées à la place des formes de **etad** et **idam** lorsque ce qui est désigné a déjà été mentionné précédemment.
 par ex. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : « Il est un dieu. On lui sacrifie. »
 
 ---
@@ -113,7 +119,8 @@ L’accusatif (dvitīyā f. = ⟪द्वितीया⟫) exprime :
 2. Avec des verbes exprimant un mouvement, une action de se diriger, de conduire ou similaire vers quelque chose, l’accusatif indique la destination du mouvement :
    Par exemple :
    - **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ : « Il va en enfer. »
-:::D’autres emplois de l’accusatif seront traités ultérieurement.
+:::
+D’autres emplois de l’accusatif seront traités ultérieurement.
 
 ---
 
@@ -140,20 +147,23 @@ L’accusatif (dvitīyā f. = ⟪द्वितीया⟫) exprime :
    **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : « mais les dieux (Acc.) »
 
 4. Sauf après une voyelle brève (voir plus tard), le **-n** final reste inchangé dans tous les autres cas.
-:::---
+:::
+---
 
 ## 7.4. Le neutre (napuṃsaka n. = ⟪नपुंसक⟫)
 
 :::grammar-box
 **Au neutre, les formes du nominatif (prathamā) et de l’accusatif (dvitīyā) sont identiques.**
-:::### 7.4.1. Neutre des stems en -a
+:::
+### 7.4.1. Neutre des stems en -a
 
 :::grammar-box
 - **Terminaison Nominatif / Accusatif Singulier : -m**
   par ex. **phala** n. = ⟪फल⟫ = « fruit » : Nom. / Acc. sg. **phalam** = ⟪फलम्⟫
 - **Terminaison Nominatif / Accusatif Pluriel : -āni**
   par ex. **phala** n. = ⟪फल⟫ : Nom. / Acc. pl. **phalāni** = ⟪फलानि⟫
-:::---
+:::
+---
 
 ## 7.5. Classes de présent athématique
 
@@ -170,20 +180,23 @@ La 5e classe de présent forme ce qu'on appelle un radical de présent athémati
 - à la troisième personne du singulier de l'impératif (loṭ) parasmaipada
 
 **Toutes les autres formes possèdent le radical de présent faible.**
-:::### 7.5.1. Terminaisons primaires de la 3e personne du pluriel pour les racines athématiques
+:::
+### 7.5.1. Terminaisons primaires de la 3e personne du pluriel pour les racines athématiques
 
 :::grammar-box
 **Pour les racines de présent athématiques, les terminaisons primaires de la 3e personne du pluriel sont :**
 - **Parasmaipada : -anti**
 - **Ātmanepada : -ate**
-:::### 7.5.2. La 5e classe de présent (svādi = ⟪स्वादि⟫ = "su, etc.")
+:::
+### 7.5.2. La 5e classe de présent (svādi = ⟪स्वादि⟫ = "su, etc.")
 
 :::grammar-box
 - **Thème fort** : (généralement) racine au degré zéro (comme indiqué) + **-no-**
 - **Thème faible** : (généralement) racine au degré zéro (comme indiqué) + **-nu-**
 
 **Devant les terminaisons vocaliques, -nu- est remplacé par -nv- pour les racines se terminant par une voyelle, et -nu- est remplacé par -nuv- pour les racines se terminant par une consonne.**
-:::**Exemples :**
+:::
+**Exemples :**
 
 | Racine:br⟪धातु⟫ | Thème fort | Thème faible | Devant voyelle:br(faible) |
 | :--- | :--- | :--- | :--- |
@@ -210,7 +223,8 @@ La 5e classe de présent forme ce qu'on appelle un radical de présent athémati
 ![](/images/lekt0701.webp)
 Fig. : S'agissait-il de la plante védique du Soma ? : Amanite tue-mouches : *Amanita muscaria* (L.) Lam.
 (Source de l'image : [Détails](/fr/licenses#lekt0701))
-:::- **phala** n. ⟪फल⟫ : fruit (aussi au sens figuré : fruit (karmique) d'une action)
+:::
+- **phala** n. ⟪फल⟫ : fruit (aussi au sens figuré : fruit (karmique) d'une action)
 - **nṛtya** n. ⟪नृत्य⟫ : danse
 - **svarga** m. ⟪स्वर्ग⟫ : ciel
 - **naraka** m. ⟪नरक⟫ : enfer (selon une conception hindoue, l'Univers a la forme d'un œuf (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Œuf de Brahmā") : au-dessus de la Terre se trouvent six cieux avec une béatitude croissante, en dessous de la Terre se trouvent sept **pātāla** n. = ⟪पाताल⟫, demeures des **nāga** m. = ⟪नाग⟫ (serpents) et autres êtres mythiques, parmi lesquels se trouvent sept enfers avec des tourments croissants)
@@ -232,7 +246,8 @@ Fig. : S'agissait-il de la plante védique du Soma ? : Amanite tue-mouches : *Am
 ![](/images/lekt0704.webp)
 Fig. : Viṣṇu = ⟪विष्णु⟫, VIIIe/IXe siècle.
 (Source de l’image : [Détails](/fr/licenses#lekt0704))
-:::2. gurus ... khādati (phala)
+:::
+2. gurus ... khādati (phala)
    ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
 3. sādhus ... gacchati (svarga)
    ⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
@@ -271,7 +286,8 @@ Fig. : Viṣṇu = ⟪विष्णु⟫, VIIIe/IXe siècle.
 ![](/images/lekt0702.webp)
 Fig. : **yajati** = ⟪यजति⟫ — Sacrifice védique = **yajña** m. = ⟪यज्ञ⟫
 (Source de l’image : [Détails](/fr/licenses#lekt0702))
-:::**E) Formez l’accusatif (dvitīyā) sg. et pl. pour tous les noms appris jusqu’à présent.**
+:::
+**E) Formez l’accusatif (dvitīyā) sg. et pl. pour tous les noms appris jusqu’à présent.**
 
 **F) Traduisez :**
 
@@ -291,6 +307,7 @@ Fig. : **yajati** = ⟪यजति⟫ — Sacrifice védique = **yajña** m. = 
 ![](/images/lekt0703.webp)
 Fig. : À quel dieu sacrifie-t-on ici ? Réponse : Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
 (Source de l’image : [Détails](/fr/licenses#lekt0703))
-:::9. Que mâche cet homme saint ?
+:::
+9. Que mâche cet homme saint ?
 10. Que pressent ces (ici) ?
 11. Il est le professeur. On l’écoute (= ils l’écoutent).

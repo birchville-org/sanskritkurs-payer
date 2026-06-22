@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-07
 - Sufijos nominales importantes (-a, -ana, -tra, -ti, -tva, -tā)
 - La 8. clase de presente (tanādi)
 - La conjugación de **kṛ** (tun, hacer)
-:::---
+:::
+---
 
 ## 8.1. Sobre la formación de nombres
 
@@ -29,7 +30,8 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 **Raíz + sufijo kṛt » raíz nominal etc. + sufijo taddhita » nueva raíz nominal etc.**
 
 **Raíz nominal + terminación casuática » nombre sintácticamente funcional**
-:::---
+:::
+---
 
 ## 8.2. Clasificación de los sufijos nominales
 
@@ -61,7 +63,8 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 
 :::grammar-box
 **El sufijo kṛt -a forma sustantivos masculinos (rara vez neutros) que designan una acción o un estado indicado por la raíz; a veces también adjetivos o sustantivos que expresan el agente (kartṛ) de la acción indicada por la raíz verbal. Para penúltimas breves (= vocal antes de consonante, en la que termina la raíz) o vocal final de raíz, generalmente se sustituye por el grado alto (guṇa) o el grado alargado (vṛddhi).**
-:::**Ejemplos:**
+:::
+**Ejemplos:**
 
 | Raíz:br⟪धातु⟫ | + -a (kṛt) | Significado |
 | :--- | :--- | :--- |
@@ -82,7 +85,8 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 
 :::grammar-box
 **El sufijo kṛt -ana forma generalmente sustantivos neutros que designan una acción, un estado o el medio o instrumento mediante el cual se lleva a cabo la acción designada por la raíz o el tema verbal. Para una penúltima breve o una vocal final de la raíz, por lo general se sustituye por el grado alto (guṇa).**
-:::**Ejemplos:**
+:::
+**Ejemplos:**
 
 | Raíz:br⟪धातु⟫ | + -ana (kṛt) | Significado |
 | :--- | :--- | :--- |
@@ -97,18 +101,21 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0801))
-::::::note-box
+::::::
+note-box
 **"Darshan"** o **"Darshana"** es un término del hinduismo para la visión y la visión de lo santo y lo divino. Bajo *Darshana* se entiende, por ejemplo, el encuentro oficial entre alumno y maestro, en el que el alumno fue invitado por el maestro. Pero también puede significar el *sumergirse* al contemplar una imagen de un dios. Este último significado es el más común en el uso actual del hindi. En relación con Mata Amritanandamayi, Darshan significa el abrazo del Guru.
 
 Los hindúes piadosos van al templo para obtener la visión de Dios a través de un símbolo o una estatua, en la que se asume la presencia espiritual de la deidad. En este sentido, también una bendición por la deidad. Sin embargo, Darshan también puede recibirse a través de una visión de la deidad en la oración o la meditación. También una persona viva, que se considera una encarnación de la deidad, como por ejemplo un Avatara, puede dar Darshan.
 (Fuente: Wikipedia)
-:::---
+:::
+---
 
 ### 8.3.3. -tra n. (kṛt)
 
 :::grammar-box
 **El sufijo kṛt -tra forma (mayormente) sustantivos neutros, que designan el medio o instrumento, por el cual se lleva a cabo la acción designada por la raíz. La penúltima corta y la vocal final de la raíz se reemplazan por el grado fuerte (guṇa).**
-:::**Ejemplos:**
+:::
+**Ejemplos:**
 
 | Raíz:br⟪धातु⟫ | + -tra (kṛt) | Significado |
 | :--- | :--- | :--- |
@@ -128,13 +135,15 @@ Los hindúes piadosos van al templo para obtener la visión de Dios a través de
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | En escritura malayalé | Oṃ jaina |
 (Fuentes de las imágenes: [Detalles](/es/licenses#lekt0803))
-:::---
+:::
+---
 
 ### 8.3.4. -ti f. (kṛt)
 
 :::grammar-box
 **El sufijo kṛt -ti forma sustantivos femeninos que, en general, expresan la acción designada por la raíz o el estado designado por la raíz. La forma de la raíz es del grado reducido.**
-:::**Ejemplos:**
+:::
+**Ejemplos:**
 
 | Raíz:br⟪धातु⟫ | + -ti (kṛt) | Significado |
 | :--- | :--- | :--- |
@@ -154,7 +163,8 @@ Los hindúes piadosos van al templo para obtener la visión de Dios a través de
 
 :::grammar-box
 **Los sufijos taddhita -tva n. y -tā f. forman sustantivos abstractos a partir de nomina. La forma de la raíz nominal subyacente permanece inalterada.**
-:::**Ejemplos:**
+:::
+**Ejemplos:**
 
 | Raíz nominal:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Significado |
 | :--- | :--- | :--- | :--- |
@@ -178,7 +188,8 @@ Ejemplo **tan** 8 U (⟪तन्⟫) "extender":
 - 3\. pl. P. **tanvanti**:br⟪तन्वन्ति⟫
 - 3\. sg. Ā. **tanute**:br⟪तनुते⟫
 - 3\. pl. Ā. **tanvate**:br⟪तन्वते⟫
-:::Nota: Respecto a la controversia sobre si **tan** es en realidad una raíz de la 5. clase (*tn » ta + no-), véase Thumb-Hauschild, Handbuch des Sanskrit II, 265.
+:::
+Nota: Respecto a la controversia sobre si **tan** es en realidad una raíz de la 5. clase (*tn » ta + no-), véase Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
 La raíz más importante de la 8. clase es **kṛ** 8 U (⟪कृ⟫) "hacer, realizar". Su conjugación es irregular:
 
@@ -188,7 +199,8 @@ La raíz más importante de la 8. clase es **kṛ** 8 U (⟪कृ⟫) "hacer, r
 - 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
 - 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
 - 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
-:::---
+:::
+---
 
 ## 8.5. Lista de palabras
 
@@ -220,7 +232,8 @@ Fig.: **likh** (⟪लिख्⟫) : Estilete de escritura indio de acero para 
 ![](/images/lekt0810.jpg)
 Fig.: **likh** (⟪लिख्⟫) : Palillo de escribir de los Batak (Sumatra), como probablemente también se usaba en la India
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0809))
-:::- **sukha** n. ⟪सुख⟫ : felicidad, bienestar
+:::
+- **sukha** n. ⟪सुख⟫ : felicidad, bienestar
 - **duḥkha** n. ⟪दुःख⟫ : desgracia, sufrimiento
 
 ---

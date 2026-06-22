@@ -94,7 +94,8 @@ Sciences are philosophy, Vedic studies, economics, and politics.
 ![](/images/uebung010.webp)
 Fig.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#uebung010))
-:::---
+:::
+---
 
 ## Review Exercise Lesson 5
 

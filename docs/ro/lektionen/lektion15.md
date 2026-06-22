@@ -44,12 +44,14 @@ de exemplu:
 
 Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
-:::## 15.3. Compuse determinative cu elementul anterior atributiv / apositional = Karmadhāraya m. = ⟪कर्मधारय⟫
+:::
+## 15.3. Compuse determinative cu elementul anterior atributiv / apositional = Karmadhāraya m. = ⟪कर्मधारय⟫
 :::grammar-box
 
 La descompunerea Karmadhāraya, ambele componente ale compusului se află în același caz.
 
-:::de ex.
+:::
+de ex.
 
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "un fiu cu însușiri bune"  
 Ac. sg. ⟪गुणवत्पुत्रम्⟫  
@@ -84,13 +86,15 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 ![](/images/lekt1503.webp)
 Fig.: ⟪नरसिंहः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1503))
-:::## 15.4. Compuse determinative cu un prim element care se află în raport cu al doilea element într-o relație de caz non-atributiv/apozițional = Tatpuruṣa în sensul strict
+:::
+## 15.4. Compuse determinative cu un prim element care se află în raport cu al doilea element într-o relație de caz non-atributiv/apozițional = Tatpuruṣa în sensul strict
 
 :::grammar-box
 
 Legăturile Tatpuruṣa sunt posibile pentru conexiuni de substantive (substantive și adjective), în care primul element - conform regulilor sintaxei - poate fi în orice caz. Așteptând, primul element reprezintă cel mai frecvent un genitiv (⟪षष्ठी⟫), deoarece acesta este cazul care exprimă relația dintre substantive.
 
-:::de ex.
+:::
+de ex.
 
 ⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "fiul unui Kṣatriya", "un tânăr Kṣatriya", "un membru al grupului Kṣatriyas"  
 Ac. sg. ⟪क्षत्रियपुत्रम्⟫  
@@ -111,7 +115,8 @@ Primul element al unui Tatpuruṣa poate, în principiu, să reprezinte orice ca
 
 Primul element poate, la descompunerea compusului, să fie în singular, dual sau plural. Care dintre aceste posibilități este prezentă trebuie dedusă din sens și context.
 
-:::Exemple:
+:::
+Exemple:
 
 Primul element reprezintă acuzativul (⟪द्वितीया⟫): de ex. la anumite PPP la verbe de mișcare (Pāṇini 2,1,24):
 
@@ -134,7 +139,8 @@ Deși în sanscrită se pot forma compuse de orice lungime și sunt formate foar
 ![](/images/lekt1502.jpg)
 Fig.: ⟪समासविच्छेदः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1502))
-:::și așa mai departe, până când se ajunge la rădăcinile individuale ale cuvintelor.
+:::
+și așa mai departe, până când se ajunge la rădăcinile individuale ale cuvintelor.
 
 de exemplu,
 
@@ -148,7 +154,8 @@ de exemplu,
 3\. Etapa (a doua secundară): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
 = "fapta meritorie (meritul) pe care fiul său virtuos a făcut-o"
-:::În acest proces, pot fi amestecate diferite tipuri de compuse, de exemplu, partea anterioară: Bahuvrīhi (⟪बहुव्रीहि⟫) - partea posterioară: Tatpuruṣa etc.
+:::
+În acest proces, pot fi amestecate diferite tipuri de compuse, de exemplu, partea anterioară: Bahuvrīhi (⟪बहुव्रीहि⟫) - partea posterioară: Tatpuruṣa etc.
 
 de exemplu,
 
@@ -160,7 +167,8 @@ de exemplu,
 2\. Etapa: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
 
 = "dharma brahmanilor, kṣatriyelor și vaișyelor"
-:::Foarte des, există diverse posibilități de descompunere pentru un compus. Care este corectă sau cel puțin cea mai bună, poate fi decisă doar din contextul și conținutul textului. Uneori, o astfel de decizie nu este posibilă. Adesea, autorul intenționează probabil două posibilități de descompunere. Atunci trebuie să redăm în traducere ambele posibilități de descompunere (conectate cu „și”, „sau”, „respectiv” și altele).
+:::
+Foarte des, există diverse posibilități de descompunere pentru un compus. Care este corectă sau cel puțin cea mai bună, poate fi decisă doar din contextul și conținutul textului. Uneori, o astfel de decizie nu este posibilă. Adesea, autorul intenționează probabil două posibilități de descompunere. Atunci trebuie să redăm în traducere ambele posibilități de descompunere (conectate cu „și”, „sau”, „respectiv” și altele).
 
 de exemplu,
 
@@ -179,7 +187,8 @@ de exemplu,
 2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "fapta fiului meu meritoriu"
 3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "fapta meritorie, făcută de fiul meu"
    2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "fapta meritorie a fiului meu"
-:::::::## 15.6. Forma componentei anterioare în compuse (⟪समास⟫ m.)
+:::::::
+## 15.6. Forma componentei anterioare în compuse (⟪समास⟫ m.)
 :::grammar-box
 
 În toate tipurile de compuse, componenta anterioară este, de regulă, rădăcina cuvântului neschimbată. Numele compuse din două rădăcini se află la forma slabă. Adjectivele feminine, care specifică un component următor în compus, se află, în general, la forma masculină:
@@ -189,7 +198,8 @@ de exemplu:
 ⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "o femeie Kṣatriya care posedă merit"  
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "un fiu cu calități bune"
 
-:::## 15.7. Clasificarea ⟪तत्पुरुष⟫
+:::
+## 15.7. Clasificarea ⟪तत्पुरुष⟫
 
 1.  ⟪प्रथमातत्पुरुषः⟫ : componenta anterioară se află în ⟪विग्रहवाक्य⟫ la Nominativ (⟪प्रथमा⟫)
 2.  ⟪द्वितीयातत्पुरुषः⟫ : componenta anterioară se află în ⟪विग्रहवाक्य⟫ la Acuzativ (⟪द्वितीया⟫)
@@ -244,14 +254,16 @@ de exemplu:
 ![](/images/lekt1504.webp)
 Fig.: ⟪पूजा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1504))
-:::⟪कुल⟫ n.: turmă, mulțime, neam, origine, familie
+:::
+⟪कुल⟫ n.: turmă, mulțime, neam, origine, familie
 
 ⟪इन्द्र⟫ m.: prinț, primul, cel mai bun dintre ; regele zeilor Indra
 :::media
 ![](/images/lekt1505.webp)
 Fig.: ⟪इन्द्रः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1505))
-:::⟪दास⟫ m.: sclav, rob, servitor
+:::
+⟪दास⟫ m.: sclav, rob, servitor
 
 ⟪दासी⟫ f.: sclavă, robă, servitoare
 
@@ -271,17 +283,20 @@ din care:
 ⟪स्तुति⟫ f.: laudă, cântec de laudă
 
 ⟪स्तोत्र⟫ n.: (mijloc de preamărire =) cântec de laudă, himn
-:::⟪सिंह⟫ m.: leu (_Panthera leo persica_)
+:::
+⟪सिंह⟫ m.: leu (_Panthera leo persica_)
 :::media
 ![](/images/lekt1506.webp)
 Fig.: ⟪सिंहः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1506))
-:::⟪व्याघ्र⟫ m.: tigru (_Panthera tigris tigris_) (literal: hăituitor)
+:::
+⟪व्याघ्र⟫ m.: tigru (_Panthera tigris tigris_) (literal: hăituitor)
 :::media
 ![](/images/lekt1507.webp)
 Fig.: ⟪व्याघ्रः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1507))
-:::⟪इव⟫ (postpus): ca și cum, precum (în comparații: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un om ca un tigru", "un om egal cu un tigru"
+:::
+⟪इव⟫ (postpus): ca și cum, precum (în comparații: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un om ca un tigru", "un om egal cu un tigru"
 
 ⟪एव⟫ (postpus): subliniază ceea ce a precedat, corespunde în germană adesea accentuării, un fel de emoticon `&lt;!&gt;`, de ex. ⟪सत्यमेव⟫ ⟪जयति⟫ "doar adevărul învinge", "chiar adevărul învinge", "adevărul învinge"
 
@@ -289,11 +304,13 @@ Fig.: ⟪व्याघ्रः⟫
 
 :::indent
 ⟪आर्य⟫ 3: arian, nobil ; m. arian (autodenumire a vechilor indieni vorbitori de sanscrită, literal: ospitalier (Thieme)) ; om nobil, om onorabil
-:::la ⟪जन्⟫
+:::
+la ⟪जन्⟫
 
 :::indent
 ⟪जाति⟫ f.: naștere, tip, castă (la ⟪जाति⟫ ca castă vezi Basham, Minune, p. 148ss.)
-:::⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : a muri (conform gramaticienilor indieni: 6 Ā)
+:::
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : a muri (conform gramaticienilor indieni: 6 Ā)
 
 din care:
 
@@ -303,7 +320,8 @@ din care:
 ⟪मृति⟫ f.: moarte, deces
 
 ⟪मृत्यु⟫ m.: moarte ; personificat: zeul morții
-:::## 15.9. Exercițiul 1
+:::
+## 15.9. Exercițiul 1
 
 Rezolvați următoarele compuse ca Tatpuruṣa în sanscrită și oferiți o traducere în limba germană. Oferiți toate rezolvările și traducerea pe care le considerați posibile. Indicați, de asemenea, cazul și numărul compusului total.
 
@@ -494,7 +512,8 @@ Rezolvați, așa cum ați făcut la Exercițiul 1, următoarele Tatpuruṣa:
 ![](/images/lekt1508.webp)
 Fig.: ⟪ग्रामदेवता⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1508))
-:::## 15.11. Exercițiul 3
+:::
+## 15.11. Exercițiul 3
 
 A) Traduceți proverbul de la începutul lecției
 

@@ -76,7 +76,8 @@ Gândirile papagalului **⟪वैशम्पायन⟫** despre viața de v�
 ![](/images/uebung086.webp)
 Fig.: Vânător
 (Sursa imaginii: [Detalii](/licenses#uebung086))
-:::---
+:::
+---
 
 ## ⟪४⟫. Comentariul lui ⟪भानुचन्द्र⟫ (⟪१६⟫. sec. al...)
 

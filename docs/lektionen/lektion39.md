@@ -25,14 +25,16 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Optativendung** | ^^ | ^^ | **-a** | ^^ |
 | **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** |
 
-:::1 Anmerkung: eigentlich ist die Primärendung Ā thematischer Stämme auch als -e anzusetzen, vor dem der Themavokal -a- aus Analogiegründen wegfällt. Der Effekt ist aber so, als ob die Endung -i an den Themavokal -a- treten würde: a + i » e.
+:::
+1 Anmerkung: eigentlich ist die Primärendung Ā thematischer Stämme auch als -e anzusetzen, vor dem der Themavokal -a- aus Analogiegründen wegfällt. Der Effekt ist aber so, als ob die Endung -i an den Themavokal -a- treten würde: a + i » e.
 
 ## 39.2. Bildung der Verbformen der ersten Person thematischer Präsensstämme
 
 :::grammar-box
 **Regel:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
-:::### 39.2.1. Erste Präsensklasse (⟪भ्वादि⟫)
+:::
+### 39.2.1. Erste Präsensklasse (⟪भ्वादि⟫)
 
 ⟪भू⟫ 1P
 
@@ -45,7 +47,8 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Imperfekt  - ⟪लङ्⟫** | **⟪अभवम्⟫** | **⟪अभवाम⟫** | **&lt;⟪अभवे⟫&gt;** | **&lt;⟪अभवामहि⟫&gt;** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪भवेयम्⟫** :brbhava + iy-am | **⟪भवेम⟫** :brbhava + i-ma | **&lt;⟪भवेय⟫&gt;** :brbhava + iy-a | **&lt;⟪भवेमहि⟫&gt;** :brbhava + i-mahi |
 
-:::### 39.2.2. Sechste Präsensklasse (⟪तुदादि⟫)
+:::
+### 39.2.2. Sechste Präsensklasse (⟪तुदादि⟫)
 
 ⟪विश्⟫ 6P
 
@@ -58,7 +61,8 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Imperfekt  - ⟪लङ्⟫** | **⟪अविशम्⟫** | **⟪अविशाम⟫** | **&lt;⟪अविशे⟫&gt;** | **&lt;⟪अविशामहि⟫&gt;** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪विशेयम्⟫** | **⟪विशेम⟫** | **&lt;⟪विशेय⟫&gt;** | **&lt;⟪विशेमहि⟫&gt;** |
 
-:::### 39.2.3. Vierte Präsensklasse (⟪दिवादि⟫)
+:::
+### 39.2.3. Vierte Präsensklasse (⟪दिवादि⟫)
 
 ⟪नृत्⟫ 1P
 
@@ -71,7 +75,8 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Imperfekt  - ⟪लङ्⟫** | **⟪अनृत्यम्⟫** | **⟪अनृत्याम⟫** | **&lt;⟪अनृत्ये⟫&gt;** | **&lt;⟪अनृत्यामहि⟫&gt;** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪नृत्येयम्⟫** | **⟪नृत्येम⟫** | **&lt;⟪नृत्येय⟫&gt;** | **&lt;⟪नृत्येमहि⟫&gt;** |
 
-:::### 39.2.4. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative (⟪णिजन्त⟫)
+:::
+### 39.2.4. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U
 
@@ -84,7 +89,8 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Imperfekt  - ⟪लङ्⟫** | **⟪अचोरयम्⟫** | **⟪अचोरयाम⟫** | **⟪अचोरये⟫** | **⟪अचोरयामहि⟫** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪चोरयेयम्⟫** | **⟪चोरयेम⟫** | **⟪चोरयेय⟫** | **⟪चोरयेमहि⟫** |
 
-:::### 39.2.5. Passiv (Suffix ⟪यक्⟫)
+:::
+### 39.2.5. Passiv (Suffix ⟪यक्⟫)
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -96,13 +102,15 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Imperfekt  - ⟪लङ्⟫** | **⟪ऐक्ष्ये⟫** :bra + īkṣ-ya + i | **⟪ऐक्ष्यामहि⟫** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪ईक्ष्येय⟫** :brīkṣ-ya + iy-a | **⟪ईक्ष्येमहि⟫** :brīkṣ-ya + i-mahi |
 
-:::## 39.3. Bildung der Verbformen der ersten Person des einfachen Futur  - ⟪ऌत्⟫
+:::
+## 39.3. Bildung der Verbformen der ersten Person des einfachen Futur  - ⟪ऌत्⟫
 
 :::grammar-box
 **Das Futur hat thematische Bildung. Deshalb gilt auch die Regel für thematische Stämme:**
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
-:::### 39.3.1. ⟪अनिट्⟫-Bildung
+:::
+### 39.3.1. ⟪अनिट्⟫-Bildung
 
 ⟪दा⟫ 3U
 
@@ -113,7 +121,8 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | **Futur  - ⟪ऌत्⟫** | **⟪दास्यामि⟫** :brdā-syā-mi | **⟪दास्यामस्⟫** | **⟪दास्ये⟫** | **⟪दास्यामहे⟫** |
 
-:::### 39.3.2. ⟪सेट्⟫-Bildung
+:::
+### 39.3.2. ⟪सेट्⟫-Bildung
 
 ⟪भू⟫ 1P
 
@@ -124,7 +133,8 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | **Futur  - ⟪ऌत्⟫** | **⟪भविष्यामि⟫** :brbho + i + syā + mi | **⟪भविष्यामस्⟫** | **&lt;⟪भविष्ये⟫&gt;** | **&lt;⟪भविष्यामहे⟫&gt;** |
 
-:::## 39.4. Bildung der Verbformen der ersten Person athematischer Präsensstämme
+:::
+## 39.4. Bildung der Verbformen der ersten Person athematischer Präsensstämme
 
 :::grammar-box
 **Beachten Sie, dass im Wortinnern - im Gegensatz zum Satzsandhi - vor Endungen, die mit**
@@ -135,7 +145,8 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 **beginnen, Konsonanten in der Regel unverändert bleiben.**
 
 z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P **⟪व⟫***⟪च्मि⟫***
-:::### 39.4.1. Zweite Präsensklasse (⟪अदादि⟫)
+:::
+### 39.4.1. Zweite Präsensklasse (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
@@ -148,7 +159,8 @@ z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P **⟪व⟫***⟪च्मि⟫***
 | **Imperfekt  - ⟪लङ्⟫** | **⟪अद्वेषम्⟫** | **⟪अद्विष्म⟫** | **⟪अद्विषि⟫** | **⟪अद्विष्महि⟫** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪द्विष्याम्⟫** :brdviṣ-yā + m | **⟪द्विष्याम⟫** | **⟪द्विषीय⟫** :brdviṣ-īy-a | **⟪द्विषीमहि⟫** |
 
-:::⟪अस्⟫ 2P
+:::
+⟪अस्⟫ 2P
 
 :::grammar-box
 
@@ -163,7 +175,8 @@ z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P **⟪व⟫***⟪च्मि⟫***
 ![lekt3901.jpg](/images/lekt3901.jpg)
 Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 (Bildquelle: [Details](/licenses#lekt3901))
-:::### 39.4.2. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
+:::
+### 39.4.2. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
 
 ⟪हु⟫ 3P
 
@@ -176,7 +189,8 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Imperfekt  - ⟪लङ्⟫** | **⟪अजुहवम्⟫** :bra-juho + am | **⟪अजुहुम⟫** | **&lt;⟪अजुहवि⟫&gt;** | **&lt;⟪अजुहुमहि⟫&gt;** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪जुहुयाम्⟫** | **⟪जुहुयाम⟫** | **&lt;⟪जुह्वीय⟫&gt;** :brjuhu + īy-a | **&lt;⟪जुह्वीमहि⟫&gt;** |
 
-:::⟪धा⟫ 3U
+:::
+⟪धा⟫ 3U
 
 :::grammar-box
 
@@ -187,11 +201,13 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Imperfekt  - ⟪लङ्⟫** | **⟪अदधाम्⟫** :bra-dadh + am | **⟪अदध्म⟫** | **⟪अदधि⟫** | **⟪अदध्महि⟫** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪दध्याम्⟫** | **⟪दध्याम⟫** | **⟪दधीय⟫** | **⟪दधीमहि⟫** |
 
-:::### 39.4.3. Fünfte Präsensklasse (⟪स्वादि⟫)
+:::
+### 39.4.3. Fünfte Präsensklasse (⟪स्वादि⟫)
 
 :::grammar-box
 **Bei vokalisch auslautenden Wurzeln kann wahlweise vor mit m- beginnenden Endungen das -u des Stammbildungssuffixes (-nu) wegfallen.**
-:::⟪सु⟫ 5U
+:::
+⟪सु⟫ 5U
 
 :::grammar-box
 
@@ -202,7 +218,8 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Imperfekt  - ⟪लङ्⟫** | **⟪असुनवम्⟫** | **⟪असुनुम⟫** / **⟪असुन्म⟫** | **⟪असुन्वि⟫** | **⟪असुनुमहि⟫** / **⟪असुन्महि⟫** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪सुनुयाम्⟫** | **⟪सुनुयाम⟫** | **⟪सुन्वीय⟫** | **⟪सुन्वीमहि⟫** |
 
-:::### 39.4.4. Achte Präsensklasse (⟪तनादि⟫)
+:::
+### 39.4.4. Achte Präsensklasse (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -215,7 +232,8 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Imperfekt  - ⟪लङ्⟫** | **⟪अतनवम्⟫** | **⟪अतनुम⟫** / **⟪अतन्म⟫** | **⟪अतन्वि⟫** | **⟪अतनुमहि⟫** / **⟪अतन्महि⟫** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪तनुयाम्⟫** | **⟪तनुयाम⟫** | **⟪तन्वीय⟫** | **⟪तन्वीमहि⟫** |
 
-:::⟪कृ⟫ 8U
+:::
+⟪कृ⟫ 8U
 
 :::grammar-box
 
@@ -226,7 +244,8 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Imperfekt  - ⟪लङ्⟫** | **⟪अकरवम्⟫** | **⟪अकुर्म⟫** | **⟪अकुर्वि⟫** | **⟪अकुर्महि⟫** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪कुर्याम्⟫** | **⟪कुर्याम⟫** | **⟪कुर्वीय⟫** | **⟪कुर्वीमहि⟫** |
 
-:::### 39.4.5. Siebte Präsensklasse (⟪रुधादि⟫)
+:::
+### 39.4.5. Siebte Präsensklasse (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
@@ -239,7 +258,8 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Imperfekt  - ⟪लङ्⟫** | **⟪अयुनजम्⟫** | **⟪अयुञ्ज्म⟫** | **⟪अयुञ्जि⟫** | **⟪अयुञ्ज्महि⟫** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪युञ्ज्याम्⟫** | **⟪युञ्ज्याम⟫** | **⟪युञ्जीय⟫** | **⟪युञ्जीमहि⟫** |
 
-:::### 39.4.6. Neunte Präsensklasse (⟪क्र्यादि⟫)
+:::
+### 39.4.6. Neunte Präsensklasse (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 
@@ -252,7 +272,8 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Imperfekt  - ⟪लङ्⟫** | **⟪अक्रीणाम्⟫** :bra-krī + nā + am | **⟪अक्रीणीम⟫** | **⟪अक्रीणि⟫** | **⟪अक्रीणीमहि⟫** |
 | **Optativ  - ⟪विधिलिङ्⟫** | **⟪क्रीणीयाम्⟫** | **⟪क्रीणीयाम⟫** | **⟪क्रीणीय⟫** :brkrī + n-īy-a | **⟪क्रीणीमहि⟫** |
 
-:::## 39.5. Übung
+:::
+## 39.5. Übung
 
 Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen.
 

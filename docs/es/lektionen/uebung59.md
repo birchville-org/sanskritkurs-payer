@@ -12,7 +12,8 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung098.webp)
 Fig.: ⟪रावणः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung098))
-:::---
+:::
+---
 
 ## A) Análisis del texto
 

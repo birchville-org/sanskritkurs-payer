@@ -19,7 +19,8 @@ status: stable
 - Sandhi dari akhiran -d
 - Frasa pertanyaan sederhana
 
-:::## 4.1. Pertanyaan Pelengkap Sederhana (Pertanyaan Kata) dan Jawaban
+:::
+## 4.1. Pertanyaan Pelengkap Sederhana (Pertanyaan Kata) dan Jawaban
 
 ### 4.1.1. Kata Ganti Tanya dan Kata Ganti Penunjuk
 
@@ -39,7 +40,8 @@ status: stable
 
 | **Femininum** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
 
-:::#### 4.1.1.2. Kata Ganti Penunjuk (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+:::
+#### 4.1.1.2. Kata Ganti Penunjuk (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 
 
@@ -67,7 +69,8 @@ status: stable
 
 | **Femininum** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
 
-:::**Untuk Nom. sg. mask.:**
+:::
+**Untuk Nom. sg. mask.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) muncul sebelum semua bunyi kecuali **-a** pendek
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) muncul sebelum **-a**, yang dielisis dengan Avagraha (hilang)
 - **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) hanya muncul dalam jeda (akhir kalimat, akhir bait)
@@ -80,7 +83,8 @@ Agar dapat membentuk kalimat dengan kata ganti ini (sarvanāman n.), diperlukan 
 
 :::grammar-box
 **-m di akhir kata digantikan oleh Anusvāra (-ṃ) sebelum konsonan. Di akhir kalimat atau bait, dan sebelum vokal, -m tetap dipertahankan.**
-::::::### 4.1.3. Sandhi dari akhiran -e
+::::::
+### 4.1.3. Sandhi dari akhiran -e
 
 
 
@@ -91,15 +95,18 @@ Agar dapat membentuk kalimat dengan kata ganti ini (sarvanāman n.), diperlukan 
 2. **Di depan vokal lain selain a- pendek, -e biasanya diganti dengan -a dengan hiatus. Penggantian dengan -ay juga terjadi:**
    mis. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (langka: imay īśvarāh = ⟪इमयीश्वराः⟫) "TUAN-TUAN ini"
 
-:::### 4.1.4. Sandhi dari akhirat -d
+:::
+### 4.1.4. Sandhi dari akhirat -d
 
 
 
 :::grammar-box
 **-d di akhir suku kata diganti dengan -t dalam jeda serta sebelum gutural tak bersuara (k, kh) dan labial (p, ph).**
-:::Penggantian sebelum konsonan lain akan dibahas kemudian. Hindari tabrakan bunyi seperti itu untuk sementara!
+:::
+Penggantian sebelum konsonan lain akan dibahas kemudian. Hindari tabrakan bunyi seperti itu untuk sementara!
 
-:::### 4.1.5. Rumus Pertanyaan
+:::
+### 4.1.5. Rumus Pertanyaan
 
 Dengan kata ganti ini, misalnya, dibentuk rumus pertanyaan berikut:
 
@@ -125,7 +132,8 @@ Dengan kata ganti ini, misalnya, dibentuk rumus pertanyaan berikut:
 
 | | **Femininum** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 
-:::::::Contoh pertanyaan lain:
+:::::::
+Contoh pertanyaan lain:
 
 > viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Jawaban: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Dalam kalimat nominal, subjek dapat diletakkan di awal, misalnya, untuk menekankan kesinambungan dengan pertanyaan.)
 

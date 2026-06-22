@@ -48,7 +48,8 @@ The accusative can be used adverbially:
     ⟪तद्⟫ "then, therefore"  
     ⟪यद्⟫ "if, that"  
     ⟪एतद्⟫ "thus, here, now"
-::::### 37.2.2. Instrumental (⟪तृतीया⟫)
+::::
+### 37.2.2. Instrumental (⟪तृतीया⟫)
 
 ::::grammar-box
 The Instrumental (⟪तृतीया⟫) can be used adverbially in response to the questions:
@@ -68,7 +69,8 @@ The Instrumental can be used adverbially:
     Examples:  
     ⟪दूरेण⟫ "distant, from afar" (related to ⟪दूर⟫ 3 "distant, far from")  
     ⟪उच्चैस्⟫ "high, loud" (related to ⟪उच्च⟫ 3 "high, elevated, loud, shrill (of voice)")
-::::### 37.2.3. Dative (⟪चतुर्थी⟫)
+::::
+### 37.2.3. Dative (⟪चतुर्थी⟫)
 
 ::::grammar-box
 Rarely is the dative (⟪चतुर्थी⟫) used adverbially in response to the questions:
@@ -79,7 +81,8 @@ Rarely is the dative (⟪चतुर्थी⟫) used adverbially in response 
 Example:
 :::indent
 ⟪अर्थाय⟫ "for the purpose of, for the sake of ..."
-:::::::### 37.2.4. Ablative (⟪पञ्चमी⟫)
+:::::::
+### 37.2.4. Ablative (⟪पञ्चमी⟫)
 
 ::::grammar-box
 The Ablative (⟪पञ्चमी⟫) can be used adverbially in response to the questions:
@@ -101,13 +104,15 @@ The Ablative can be used adverbially:
     Examples:  
     ⟪कस्मात्⟫ "why"  
     ⟪अकस्मात्⟫ "unexpectedly"
-::::### 37.2.5. Genitive (⟪षष्ठी⟫)
+::::
+### 37.2.5. Genitive (⟪षष्ठी⟫)
 
 ::::grammar-box
 Rarely is the genitive (⟪षष्ठी⟫) used adverbially to ask "after how long a time?"
 
 e.g. ⟪चिरस्य⟫ "after a long time" (to ⟪चिर⟫ 3 "long (time)")
-::::### 37.2.6. Locative (⟪सप्तमी⟫)
+::::
+### 37.2.6. Locative (⟪सप्तमी⟫)
 
 ::::grammar-box
 The locative (⟪सप्तमी⟫) can be used adverbially in response to the questions:
@@ -121,7 +126,8 @@ Examples:
 \-⟪अर्थे⟫ "because of"  
 \-⟪कृते⟫ "for the sake of"  
 ⟪दूरे⟫ "far"
-:::::::## 37.3. Adverbial Use of Case Forms No Longer in Common Use
+:::::::
+## 37.3. Adverbial Use of Case Forms No Longer in Common Use
 
 Examples:
 :::indent
@@ -130,7 +136,8 @@ Examples:
 ⟪तूष्णीम्⟫ "silently" (acc.sg. to a no longer common ⟪तूष्णी⟫ f. "silence")
 
 ⟪एवम्⟫ "thus" (to an otherwise lost pronominal stem ⟪एव⟫ "one, single")
-:::## 37.4. Formation of Adverbs with Adverbial Suffixes
+:::
+## 37.4. Formation of Adverbs with Adverbial Suffixes
 
 ::::grammar-box
 From the pronominal stems ⟪तद्⟫, ⟪इदम्⟫ respectively ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ respectively ⟪कु⟫ one can derive corresponding pronominal adverbs with the adverbial suffixes
@@ -169,7 +176,8 @@ Fig.: ⟪क्व⟫
 | **-⟪तस्⟫** | to nouns and pronouns. Mostly ablative meaning "from where?", but also "where?", "to where?":bre.g. **⟪आदितस्⟫** "from the beginning" |
 | **-⟪धा⟫** | 1. With numeral adverbs in the meaning "-fold", "-fold":bre.g. **⟪द्विधा⟫** "twofold":br2. in the meaning "in such and such a way":bre.g. **⟪समधा⟫** "in the same way" (to **⟪सम⟫** 3 "same") |
 
-::::## 37.5. Adverbial Compounds
+::::
+## 37.5. Adverbial Compounds
 
 ### 37.5.1. Compounds with an Adverb or a Case Used Adverbially as the Second Member
 
@@ -195,14 +203,16 @@ Examples:
 ⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "to the best of one's ability"
 
 ⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "forward, towards"
-:::Especially important are ⟪अव्ययीभाव⟫ with ⟪यथा⟫ "as" as the first member:
+:::
+Especially important are ⟪अव्ययीभाव⟫ with ⟪यथा⟫ "as" as the first member:
 
 e.g. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "as the desire is, according to desire, arbitrarily"
 :::::::media
 ![lekt3702.jpg](/images/lekt3702.webp)
 Fig.: ⟪यथाशक्ति⟫
 (Image source: [Details](/en/licenses#lekt3702))
-:::## 37.6. Syntactical
+:::
+## 37.6. Syntactical
 
 ::::grammar-box
 With the verbs
@@ -218,7 +228,8 @@ e.g. ⟪तूष्णीं⟫ ⟪बभूव⟫ "he became silent, he fell s
 ![lekt3703.jpg](/images/lekt3703.webp)
 Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
 (Image source: [Details](/en/licenses#lekt3703))
-:::## 37.7. Indefinite Pronouns
+:::
+## 37.7. Indefinite Pronouns
 
 ::::grammar-box
 Indefinite pronouns (unbestimmte Fürwörter) are formed by appending
@@ -233,7 +244,8 @@ e.g.
 :::indent
 ⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "someone, anyone"  
 ⟪कस्यचिद्⟫ = someone's
-:::::::## 37.8. The Interrogative Sentence
+:::::::
+## 37.8. The Interrogative Sentence
 
 ::::grammar-box
 "Who?, how?, what?, why?  
@@ -245,7 +257,8 @@ He who does not ask remains stupid."
 ⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
 
 Motto of Sesame Street, which is a good guideline for life and for the study of Sanskrit
-::::See also [Lesson 4](lektion04.md).
+::::
+See also [Lesson 4](lektion04.md).
 
 One must distinguish
 
@@ -271,7 +284,8 @@ In sentence questions, the entire content of the sentence is queried, e.g.
 Schema:
 
 Interrogative pronoun/interrogative adverb - sentence
-::::Examples:
+::::
+Examples:
 :::indent
 ⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Who goes to the village?"
 
@@ -282,7 +296,8 @@ Interrogative pronoun/interrogative adverb - sentence
 ![lekt3704.jpg](/images/lekt3704.webp)
 Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
 (Image source: [Details](/en/licenses#lekt3704))
-:::### 37.8.2. Interrogative Sentences
+:::
+### 37.8.2. Interrogative Sentences
 
 ::::grammar-box
 Sometimes it is only clear from the context whether a sentence is an interrogative sentence.
@@ -290,7 +305,8 @@ Sometimes it is only clear from the context whether a sentence is an interrogati
 Schema I:
 
 Verb - rest of the sentence
-::::Example:
+::::
+Example:
 :::indent
 ⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Will the Brāhmaṇa boy go to become a master?"
 :::::::grammar-box
@@ -308,17 +324,20 @@ The most important interrogative particles are:
     
 
 These particles correspond to the question mark.
-::::Example:
+::::
+Example:
 :::indent
 ⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Is it also true?"
 
 ⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Can he, then?"
 
 ⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Has the Kṣatriya perhaps defeated the enemies?"
-:::Note: ⟪किम्⟫ can mean, besides "what?" and as an interrogative particle, also "why?, for what purpose?". So esp. with the instrumental case (⟪तृतीया⟫):
+:::
+Note: ⟪किम्⟫ can mean, besides "what?" and as an interrogative particle, also "why?, for what purpose?". So esp. with the instrumental case (⟪तृतीया⟫):
 :::indent
 ⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "For what purpose the anger? What is the use of the anger? What is the purpose of the anger?"
-:::## 37.9. Word List
+:::
+## 37.9. Word List
 
 ⟪मूर्ख⟫ 3: stupid, foolish, dumb m. fool
 
@@ -330,7 +349,8 @@ These particles correspond to the question mark.
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Fig.: ⟪शाक्यमुनिः⟫
 (Image source: [Details](/en/licenses#lekt3705))
-:::⟪दिन⟫ n.: day
+:::
+⟪दिन⟫ n.: day
 
 ⟪वृक्ष⟫ m.: tree
 
@@ -338,7 +358,8 @@ Fig.: ⟪शाक्यमुनिः⟫
 ![lekt3706.jpg](/images/lekt3706.webp)
 Fig.: ⟪वृक्षः⟫
 (Image source: [Details](/en/licenses#lekt3706))
-:::⟪मुख⟫ n.: mouth, face, front part, beginning
+:::
+⟪मुख⟫ n.: mouth, face, front part, beginning
 
 ## 37.10. Exercise
 
@@ -374,13 +395,15 @@ Example: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » �
 ![lekt3707.jpg](/images/lekt3707.webp)
 Fig.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
 (Image source: [Details](/en/licenses#lekt3707))
-:::⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
+:::
+⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 :::media
 ![lekt3708.jpg](/images/lekt3708.webp)
 Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
 (Image source: [Details](/en/licenses#lekt3708))
-:::⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
+:::
+⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
 ⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫)
 
@@ -409,7 +432,8 @@ C) Translate the following ⟪अव्ययीभाव⟫ :
 :::indent
 1.  ⟪अतिमात्रम्⟫
 2.  ⟪अतिवसन्तम्⟫
-:::2\. ⟪अधि⟫ "in"
+:::
+2\. ⟪अधि⟫ "in"
 
 :::indent
 1.  ⟪अधिहरि⟫
@@ -418,23 +442,27 @@ C) Translate the following ⟪अव्ययीभाव⟫ :
 ![lekt3709.jpg](/images/lekt3709.webp)
 Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 (Image source: [Details](/en/licenses#lekt3709))
-:::3\. ⟪अनु⟫ "according to, along, after"
+:::
+3\. ⟪अनु⟫ "according to, along, after"
 
 :::indent
 1.  ⟪अनुरूपम्⟫
 2.  ⟪अनुदिनम्⟫
 3.  ⟪अनुगङ्गम्⟫
 4.  ⟪अनुविष्णुम्⟫
-:::4\. ⟪अप⟫ "without"
+:::
+4\. ⟪अप⟫ "without"
 
 :::indent
 1.  ⟪अपविष्णुम्⟫
-:::5\. ⟪अभि⟫ "in the direction of"
+:::
+5\. ⟪अभि⟫ "in the direction of"
 
 :::indent
 1.  ⟪अभिमुखम्⟫
 2.  ⟪अभ्यग्नि⟫
-:::6\. ⟪आ⟫ "since, until, including"
+:::
+6\. ⟪आ⟫ "since, until, including"
 
 :::indent
 1.  ⟪आबालवृद्धम्⟫
@@ -443,7 +471,8 @@ Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 ![lekt3710.jpg](/images/lekt3710.webp)
 Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
 (Image source: [Details](/en/licenses#lekt3710))
-:::7\. ⟪उप⟫ "near"
+:::
+7\. ⟪उप⟫ "near"
 
 :::indent
 1.  ⟪उपवृक्षम्⟫
@@ -451,11 +480,13 @@ Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 ![lekt3711.jpg](/images/lekt3711.webp)
 Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Image source: [Details](/en/licenses#lekt3711))
-:::8\. ⟪यथा⟫
+:::
+8\. ⟪यथा⟫
 
 :::indent
 1.  ⟪यथास्थानम्⟫
-:::## 37.11. Review Exercise
+:::
+## 37.11. Review Exercise
 
 Translate into Sanskrit using exclusively perfect tense verb forms:
 

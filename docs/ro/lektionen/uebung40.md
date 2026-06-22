@@ -104,7 +104,8 @@ B) Transformați următoarele forme verbale în formele corespunzătoare de Perf
 ![](/images/uebung065.webp)
 Fig.: ⟪आशिमेति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung065))
-:::---
+:::
+---
 
 ## Determinarea formei cuvântului
 

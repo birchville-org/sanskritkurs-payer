@@ -65,7 +65,8 @@ A) Bestimmen und übersetzen Sie folgende Formen:
 | ⟪५०⟫. **⟪ददाने⟫** | ⟪दा⟫ (3U) Part. Präs. Ā. Lok. sg. m./n. | im Gebenden |
 | ⟪५१⟫. **⟪सुषुपुः⟫** | ⟪स्वप्⟫ (2P) 3. pl. P. Perf. | sie haben geschlafen |
 | ⟪५२⟫. **⟪ऊसु⟫** | ⟪वस्⟫ (1P) 2. pl. P. Perf. | ihr habt gewohnt |
-:::---
+:::
+---
 
 ## Sprüche (⟪सुभाषितानि⟫)
 

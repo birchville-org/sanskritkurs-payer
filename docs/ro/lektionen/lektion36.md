@@ -13,7 +13,8 @@ status: stable
 
 ::::grammar-box
 1\. Unele rădăcini arată, după silaba de reduplicare, o modificare a inițialului rădăcinii.
-::::Exemple:
+::::
+Exemple:
 
 | Rădăcină:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -39,7 +40,8 @@ status: stable
 | Rădăcină:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | **⟪भू⟫** 1P | **⟪बभूव⟫** | **⟪बभूवुर्⟫** |
-::::## 36.2. Perfektul perifrastic (⟪अनुप्रयोगलिट्⟫)
+::::
+## 36.2. Perfektul perifrastic (⟪अनुप्रयोगलिट्⟫)
 
 ::::grammar-box
 Perfektul perifrastic (⟪अनुप्रयोगलिट्⟫) este folosit:
@@ -54,7 +56,8 @@ timp prezent (slab) + -ām + forma corespunzătoare de perfect a lui ⟪कृ�
 
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ și ⟪भू⟫ sunt, de asemenea, conjugate la Parasmaipada pentru verbele Ātmanepada.
-::::Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+::::
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 Exemple:
 
@@ -70,7 +73,8 @@ Exemple:
 
 :::indent
 ⟪तेन⟫ ⟪पुण्यं⟫ ⟪चक्रे⟫ = ⟪तेन⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ = "El a făcut o faptă meritorie"
-:::::::## 36.4. Listă de cuvinte
+:::::::
+## 36.4. Listă de cuvinte
 
 ⟪अह्⟫ P doar Perfect cu sens de Prezent ⟪आह⟫, ⟪आहुर्⟫ : a spune, a vorbi
 
@@ -85,7 +89,8 @@ Pasiv. ⟪ईक्ष्यते⟫
 Cauzativ. ⟪ईक्षयति⟫  
 PPP ⟪ईक्षित⟫  
 Inf. ⟪ईक्षितुम्⟫
-:::⟪चि⟫ 5U ⟪चिनोति⟫ : a amassa, a colecta
+:::
+⟪चि⟫ 5U ⟪चिनोति⟫ : a amassa, a colecta
 
 :::indent
 Perfect. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
@@ -98,7 +103,8 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3601))
-:::⟪व्रज्⟫ 1P ⟪व्रजति⟫ : a pașna, a merge, a pleca
+:::
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : a pașna, a merge, a pleca
 
 :::indent
 Perfect. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -107,7 +113,8 @@ Pasiv. ⟪व्रज्यते⟫
 Cauzativ. ⟪व्राजयति⟫  
 PPP ⟪व्रजित⟫  
 Inf. ⟪व्रजितुम्⟫
-:::⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : a pleca (în special din casă în lipsa casei ca ascet = a deveni monah)
+:::
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : a pleca (în special din casă în lipsa casei ca ascet = a deveni monah)
 
 ⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: casă, cămin
 
@@ -123,7 +130,8 @@ din care:
 ![](/images/lekt3603.webp)
 Fig.: ⟪अनगार्यम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3603))
-:::⟪अञ्जलि⟫ m.: cele două mâini unite în sus pentru respect
+:::
+⟪अञ्जलि⟫ m.: cele două mâini unite în sus pentru respect
 
 ⟪आदृत⟫ 3: respectat
 
@@ -135,7 +143,8 @@ Fig.: ⟪अनगार्यम्⟫
 
 :::indent
 ⟪पृष्ठम्⟫ : în spate
-:::⟪प्रजापति⟫ m.: stăpânul creaturilor, zeul creator
+:::
+⟪प्रजापति⟫ m.: stăpânul creaturilor, zeul creator
 
 ⟪अनु⟫ Pref.: după, de-a lungul, peste - în, lung, conform, adăugat, în spate - în
 
@@ -145,7 +154,8 @@ de ex.
 ⟪अनुकृ⟫ : a imita, a copia
 
 ⟪अनुगम्⟫ : a merge după cineva, a merge de-a lungul
-:::⟪अभि⟫ : a, după - în, către - în, către - în, împotriva, în - în, cu referire la, pe, peste, la
+:::
+⟪अभि⟫ : a, după - în, către - în, către - în, împotriva, în - în, cu referire la, pe, peste, la
 
 :::indent
 de ex.
@@ -153,7 +163,8 @@ de ex.
 ⟪अभिगम्⟫ : a merge, a se apropia
 
 ⟪वद्⟫ + ⟪अभि⟫ Cauzativ Ā ⟪अभिवादयते⟫ : a saluta formal, a adresa
-:::⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : a simți disconfort, a dispărea
+:::
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : a simți disconfort, a dispărea
 
 :::indent
 Perfect. IV ⟪जग्लौ⟫  
@@ -163,7 +174,8 @@ Cauzativ. ⟪ग्लापयति⟫ ⟪।⟫ ⟪ग्लपयति⟫
 PPP ⟪ग्लान⟫  
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
-:::⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : a mirosi ceva
+:::
+⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : a mirosi ceva
 
 :::indent
 Perfect. IV ⟪जघ्रौ⟫  
@@ -173,7 +185,8 @@ Cauzativ. ⟪घ्रापयति⟫
 PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫  
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
-:::⟪प्री⟫ 9U ⟪प्रीणति⟫ : a vesele, a plăcea; a iubi, a fi favorabil cuiva
+:::
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : a vesele, a plăcea; a iubi, a fi favorabil cuiva
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : a se bucura
 
@@ -184,7 +197,8 @@ Pasiv. ⟪प्रीयते⟫
 Cauzativ. ***⟪प्रीणयति⟫***  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
-:::⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : a atinge
+:::
+⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : a atinge
 
 :::indent
 Perfect IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
@@ -198,7 +212,8 @@ Absol. -⟪स्पृश्य⟫
 ![](/images/lekt3606.webp)
 Fig.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3606))
-:::⟪हृष्⟫ 4P ⟪हृष्यति⟫ : a deveni rigid: a se ridica (părul), a se bucura de (Instr., Akk., Lok.)
+:::
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : a deveni rigid: a se ridica (părul), a se bucura de (Instr., Akk., Lok.)
 
 :::indent
 Perfect II ⟪जहर्ष⟫  
@@ -210,7 +225,8 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3604))
-:::⟪स्वक⟫ 3: propriu (al meu, al tău ...) ; m.: membru
+:::
+⟪स्वक⟫ 3: propriu (al meu, al tău ...) ; m.: membru
 
 
 
@@ -252,7 +268,8 @@ D) Traduceți:
 ![](/images/lekt3605.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3605))
-:::⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञेन⟫ ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫
+:::
+⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञेन⟫ ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫
 
 ⟪रक्षितधर्मक्षत्रिययोधा⟫ ⟪महानगरं⟫ ⟪जेतुकामाञ्छत्रून्विजिग्युर्न⟫ ⟪तु⟫ ⟪जघ्नुः⟫ ⟪॥३॥⟫
 
@@ -404,19 +421,22 @@ Explicații:
 ![](/images/lekt3607.webp)
 Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt3607))
-:::2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ despre comportamentul corect față de vârstnici:
+:::
+2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ despre comportamentul corect față de vârstnici:
 
 :::indent
 ⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫
 ⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫
-:::3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Cine este un ⟪जितेन्द्रिय⟫:
+:::
+3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Cine este un ⟪जितेन्द्रिय⟫:
 
 :::indent
 ⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫
 ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ***⟪विज्ञेयो⟫*** ⟪जितेन्द्रियः⟫ ⟪॥⟫
 
 Explicație: ⟪विज्ञेय⟫ ⟪३⟫: unul care poate fi recunoscut; unul care poate fi cunoscut (ca)
-:::4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ despre comportamentul corect al unui brahman:
+:::
+4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ despre comportamentul corect al unui brahman:
 
 :::indent
 ⟪नापृष्टः⟫ ⟪कस्यचिद्ब्रूयान्न⟫ ⟪चान्यायेन⟫ ⟪पृच्छतः⟫ ⟪।⟫
@@ -429,7 +449,8 @@ Explicații:
 ⟪मेधावी⟫ : Nom. sg. masc. la ⟪मेधाविन्⟫ ⟪३⟫ "înțelept, isteț"
 
 ⟪जडवत्⟫ Adv. "În felul unui obtuz/întârziat/moș"
-:::## 36.8. Exercițiu de repetiție privind morfologia
+:::
+## 36.8. Exercițiu de repetiție privind morfologia
 
 Determinați și traduceți următoarele forme de cuvânt în toate modurile posibile:
 

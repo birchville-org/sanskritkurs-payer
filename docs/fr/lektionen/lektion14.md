@@ -13,7 +13,8 @@ status: stable
 
 :::grammar-box
 Si l'on veut exprimer la relation entre deux substantifs, on utilise le génitif (ṣaṣṭhī f. « sixième désinence casuelle »). Le génitif se distingue de tous les autres cas par le fait qu'il ne sert, à de rares exceptions près, pas à déterminer plus précisément l'action exprimée par le verbe, mais à exprimer la relation entre des personnes ou des choses désignées par des substantifs. Le génitif répond souvent à la question : À qui ? De qui ?
-:::Exemples :
+:::
+Exemples :
 
 ⟪कवेः⟫ ⟪पुत्रः⟫ « Le fils du poète »
 
@@ -27,7 +28,8 @@ Si l'on veut exprimer la relation entre deux substantifs, on utilise le génitif
 L'ordre des mots normal est :
 
 > **Mot déterminant au génitif — Substantif déterminé dans un autre cas**
-:::**Génitif et participe passé passif (PPP) :**
+:::
+**Génitif et participe passé passif (PPP) :**
 
 :::grammar-box
 Dans le cas des PPP, le génitif peut remplacer l'instrumental (tṛtīyā) pour l'agent (kartṛ) ; dans la construction avec l'instrumental, le PPP est considéré comme une forme verbale passive (ce qui est à l'instrumental désigne l'agent), tandis que dans la construction avec le génitif, le PPP est considéré comme un substantif ou un adjectif (ce qui est au génitif n'est donc pas proprement l'agent).
@@ -39,7 +41,8 @@ Selon Pāṇini 2.3.67, lorsque le PPP a un sens présent, le génitif est utili
 > ⟪रामेणेष्टं⟫ ⟪फलम्⟫ « Le fruit que Rāma a désiré »
 
 Bien entendu, lorsqu'un PPP au neutre singulier est utilisé comme abstraction verbale — c'est-à-dire comme substantif — le génitif est employé.
-:::## 14.2. Formation des génitif (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+:::
+## 14.2. Formation des génitif (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 Le génitif des racines verbales avec alternance vocalique est formé à partir du thème faible.
 
@@ -51,14 +54,16 @@ Après une consonne, les terminaisons régulières du génitif sont :
 * Singulier : **-as**
 * Pluriel : **-ām**
 
-:::center
+:::
+center
 
 | Thème nominal | Thème faible | Génitif singulier | Génitif pluriel |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-**:br**⟪गुणवन्त्⟫** | **guṇa-vat-**:br**⟪गुणवत्⟫** | **guṇa-vat-as**:br**⟪गुणवतस्⟫** | **guṇa-vat-ām**:br**⟪गुणवताम्⟫** |
 | **paśu-mant-**:br**⟪पशुमन्त्⟫** | **paśu-mat-**:br**⟪पशुमत्⟫** | **paśu-mat-as**:br**⟪पशुमतस्⟫** | **paśu-mat-ām**:br**⟪पशुमताम्⟫** |
 
-:::::::**Génitif des thèmes à terminaison vocalique, à l'exception des noms de racine monosyllabiques et des thèmes à terminaison diphtonguée :**
+:::::::
+**Génitif des thèmes à terminaison vocalique, à l'exception des noms de racine monosyllabiques et des thèmes à terminaison diphtonguée :**
 
 **Pluriel :**
 
@@ -68,7 +73,8 @@ Le génitif pluriel des thèmes à terminaison vocalique se forme ainsi :
 
 > **-vocalique long de terminaison du thème + -nām**
 
-:::center
+:::
+center
 
 | Thème nominal | Génitif pluriel |
 | :--- | :--- |
@@ -81,13 +87,15 @@ Le génitif pluriel des thèmes à terminaison vocalique se forme ainsi :
 | **paśu** m.:br**⟪पशु⟫** | **paśū-nām**:br**⟪पशूनाम्⟫** |
 | **dhenu** f.:br**⟪धेनु⟫** | **dhenū-nām**:br**⟪धेनूनाम्⟫** |
 
-:::::::**Génitif singulier des thèmes à terminaison vocalique :**
+:::::::
+**Génitif singulier des thèmes à terminaison vocalique :**
 
 ::::grammar-box
 
 Le génitif singulier des thèmes à terminaison vocalique est formé de manière irrégulière et doit être appris par cœur.
 
-:::center
+:::
+center
 
 | Thème | Génitif singulier |
 | :--- | :--- |
@@ -100,11 +108,13 @@ Le génitif singulier des thèmes à terminaison vocalique est formé de manièr
 | **śruti** f.:br**⟪श्रुति⟫** | **śrutes / śrutyās**:br**⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫**:br(c'est-à-dire soit comme kavi, soit comme devī) |
 | **dhenu** f.:br**⟪धेनु⟫** | **dhenos / dhenvās**:br**⟪धेनोस्⟫ / ⟪धेन्वास्⟫**:br(c'est-à-dire soit comme paśu, soit comme les féminins polysyllabiques en -ū) |
 
-:::::::**Pronoms interrogatifs et pronoms démonstratifs :**
+:::::::
+**Pronoms interrogatifs et pronoms démonstratifs :**
 
 ::::grammar-box
 
-:::center
+:::
+center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -114,15 +124,18 @@ Le génitif singulier des thèmes à terminaison vocalique est formé de manièr
 
 | | **Genitif Pluriel** | kāsām:br**⟪कासाम्⟫** | tāsām:br**⟪तासाम्⟫** | etāsām:br**⟪एतासाम्⟫** | āsām:br**⟪आसाम्⟫** |
 
-:::::::**Identité de forme :**
+:::::::
+**Identité de forme :**
 
-:::important
+:::
+important
 
 Pour toutes les racines nominales, à l'exception des masculins et des neutres en -a ainsi que des pronoms, la forme du génitif singulier est identique à celle de l'ablatif (pañcamī « cinquième terminaison casuelle ») singulier !
 
 Notez que pour les racines à terminaison consonantique, l'ablatif et le génitif singulier ont la même prononciation que l'accusatif pluriel masculin et féminin !
 
-:::## 14.3. Compléments sur l’usage du génitif (⟪षष्ठी⟫)
+:::
+## 14.3. Compléments sur l’usage du génitif (⟪षष्ठी⟫)
 
 :::grammar-box
 Contrairement à la règle générale ci-dessus, le génitif est utilisé pour exprimer l’objet de certains verbes, par exemple les verbes de mémoire :
@@ -134,7 +147,8 @@ Pour tous ces verbes, l’objet peut également être à l’accusatif :
 > ⟪देवान्स्मरति⟫ « Il se souvient des dieux. »
 
 Voir plus loin.
-:::## 14.4. Liste de vocabulaire
+:::
+## 14.4. Liste de vocabulaire
 
 * **śīla n.** (⟪शील⟫) : (bon) caractère, moralité
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : bijou
@@ -144,7 +158,8 @@ Voir plus loin.
 ![](/images/lekt1405.webp)
 Fig. : ⟪दीपाः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1405))
-:::* **bala n.** (⟪बल⟫) : violence, force, puissance ; force militaire, armée
+:::
+* **bala n.** (⟪बल⟫) : violence, force, puissance ; force militaire, armée
 * **bāla 3** (⟪बाल⟫) : jeune, enfantin, insensé ; m. garçon
 * **bālā f.** (⟪बाला⟫) : jeune fille
 * **nara m.** (⟪नर⟫) : homme, être humain
@@ -230,7 +245,8 @@ Traduisez les proverbes suivants et apprenez-les par cœur :
 ![](/images/lekt1404.webp)
 Fig. : ⟪पुत्रवती⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1404))
-:::⟪२६⟫. ⟪जल⟫
+:::
+⟪२६⟫. ⟪जल⟫
 
 ⟪२७⟫. ⟪मार्ग⟫
 
@@ -290,7 +306,8 @@ Fig. : ⟪पुत्रवती⟫
 ![](/images/lekt1403.webp)
 Fig. : ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1403))
-:::**B) Traduisez :**
+:::
+**B) Traduisez :**
 
 ⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 possibilités)
 

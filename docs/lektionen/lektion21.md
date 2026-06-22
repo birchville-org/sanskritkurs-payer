@@ -32,7 +32,8 @@ Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes P
 | | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
 | | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī** :broder::brPräsensstamm + **-t-** + **-ī** |
 
-:::Beispiele:
+:::
+Beispiele:
 
 1\. Präsensklasse:
 
@@ -51,7 +52,8 @@ Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes P
 | | **3. Instrumentalis** :br⟪तृतीया⟫ | **⟪यजद्भिस्⟫** :braus yaja-t-bhis | **⟪यजद्भिस्⟫** | |
 | | **6. Genetiv** :br⟪षष्ठी⟫ | **⟪यजताम्⟫** :bryaja-t-ām | **⟪यजताम्⟫** | |
 
-:::Beachten Sie den Gleichlaut von **⟪यजन्ति⟫** (Nom. pl. Neutrum) mit der 3. pl. P.!
+:::
+Beachten Sie den Gleichlaut von **⟪यजन्ति⟫** (Nom. pl. Neutrum) mit der 3. pl. P.!
 
 4\. Präsensklasse
 
@@ -61,7 +63,8 @@ Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes P
 *   Maskulinum Nom. sg. **⟪नृत्यन्⟫**
 *   Neutrum Nom. Akk. sg. **⟪नृत्यत्⟫**
 *   Femininum Nom. sg. **⟪नृत्यन्ती⟫**
-:::6\. Präsensklasse
+:::
+6\. Präsensklasse
 
 :::indent
 **⟪विशन्त्⟫** "eintretend"
@@ -79,7 +82,8 @@ Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes P
 | **Femininum** | | |
 | | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
 
-:::2\. Präsensklasse:
+:::
+2\. Präsensklasse:
 
 :::indent
 **⟪अस्⟫** "sein": **⟪सन्त्⟫** "seiend, echter, guter, wahrer"
@@ -103,7 +107,8 @@ Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes P
 Abb.: ⟪सती⟫-Gedenkplatte
 ⟪सती⟫-Gedenkplatte im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
 (Bildquelle: [Details](/licenses#lekt2101))
-:::5\. Präsensklasse:
+:::
+5\. Präsensklasse:
 
 :::indent
 **⟪सु⟫** "pressen": **⟪सुन्वन्त्⟫**
@@ -111,7 +116,8 @@ Abb.: ⟪सती⟫-Gedenkplatte
 *   Maskulinum Nom. sg. **⟪सुन्वन्⟫**
 *   Neutrum Nom. Akk. sg. **⟪सुन्वत्⟫**
 *   Femininum Nom. sg. **⟪सुन्वती⟫**
-:::8\. Präsensklasse
+:::
+8\. Präsensklasse
 
 :::indent
 **⟪कृ⟫** "tun": **⟪कुर्वन्त्⟫**
@@ -119,7 +125,8 @@ Abb.: ⟪सती⟫-Gedenkplatte
 *   Maskulinum Nom. sg. **⟪कुर्वन्⟫**
 *   Neutrum Nom. Akk. sg. **⟪कुर्वत्⟫**
 *   Femininum Nom. sg. **⟪कुर्वती⟫**
-:::### 21.1.2. ⟪महान्त्⟫ "groß"
+:::
+### 21.1.2. ⟪महान्त्⟫ "groß"
 
 :::grammar-box
 
@@ -161,7 +168,8 @@ Abb.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 (Bildquelle: [Details](/licenses#lekt2102))
 ::::::indent
 "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: 'Mihira, Vishnu and Shiva'."
-:::## 21.2. Sandhi für auslautende Nasale
+:::
+## 21.2. Sandhi für auslautende Nasale
 
 :::grammar-box
 **Nach kurzem Vokal werden auslautende Nasale – außer -m – vor anlautendem Vokal verdoppelt.**
@@ -170,30 +178,36 @@ Abb.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 
 :::indent
 **⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** "der siegende Feind"
-::::::## 21.3. Höfliche Formen der Anrede
+::::::
+## 21.3. Höfliche Formen der Anrede
 
 :::grammar-box
 **Man kann im Sanskrit, ohne unhöflich zu sein, jemanden in der 2. Person Singular ansprechen. Will man aber höflich sein, kann man ein Nomen verwenden, dessen Bedeutung "Ehrwürdiger" und dergleichen ist, und das Verb in die 3. Person sg. oder pl. setzen bzw. eine Passivkonstruktion verwenden. Die Steigerung der Höflichkeit im Gebrauch der Person bei der Anrede ist etwa folgende:**
 
 :::indent
 **2. sg. » 2. pl. » 3. sg. mit entsprechendem Nomen » 3. pl. mit entspr. Nomen**
-:::**Das wichtigste solche Höflichkeitsnomen ist ⟪भवन्त्⟫ , fem.: ⟪भवती⟫ . Es entspricht in seiner Verwendung unserem höflichen "Sie".**
-:::Dieses **⟪भवन्त्⟫** ist eine Zusammenziehung aus **⟪भगवन्त्⟫**, seine Deklination ist die der Nomina auf **-vant** (siehe [Lektion 13](lektion13.md)). Dieses **⟪भवन्त्⟫** ist zu unterscheiden vom Partizip Präsens P von **⟪भू⟫** "werden" **⟪भवन्त्⟫** : der Nom sg. mask. von **⟪भवन्त्⟫** "Sie" lautet **⟪भवान्⟫**, der des Partizips **⟪भवन्⟫**. 
+:::
+**Das wichtigste solche Höflichkeitsnomen ist ⟪भवन्त्⟫ , fem.: ⟪भवती⟫ . Es entspricht in seiner Verwendung unserem höflichen "Sie".**
+:::
+Dieses **⟪भवन्त्⟫** ist eine Zusammenziehung aus **⟪भगवन्त्⟫**, seine Deklination ist die der Nomina auf **-vant** (siehe [Lektion 13](lektion13.md)). Dieses **⟪भवन्त्⟫** ist zu unterscheiden vom Partizip Präsens P von **⟪भू⟫** "werden" **⟪भवन्त्⟫** : der Nom sg. mask. von **⟪भवन्त्⟫** "Sie" lautet **⟪भवान्⟫**, der des Partizips **⟪भवन्⟫**. 
 
 **Beispiele:**
 
 :::indent
 **⟪किं⟫ ⟪भवान्करोति⟫** = **⟪किं⟫ ⟪भवता⟫ ⟪क्रियते⟫** = "Was tun Sie?"
-:::höflicher:
+:::
+höflicher:
 
 :::indent
 **⟪किं⟫ ⟪भवन्तः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवद्भिः⟫ ⟪क्रियते⟫**
-:::Femininum:
+:::
+Femininum:
 
 :::indent
 **⟪किं⟫ ⟪भवती⟫ ⟪करोति⟫** = **⟪किं⟫ ⟪भवत्या⟫ ⟪क्रियते⟫**  
 **⟪किं⟫ ⟪भवत्यः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवतीभिः⟫ ⟪क्रियते⟫**
-:::Weitere Wörter, die ähnlich wie **⟪भवन्त्⟫** verwendet werden können:
+:::
+Weitere Wörter, die ähnlich wie **⟪भवन्त्⟫** verwendet werden können:
 
 *   **⟪आर्य⟫** (f.: **⟪आर्या⟫**) "Edler". z.B. **⟪यदार्य⟫ ⟪इच्छति⟫** "Was Sie wünschen"
 *   **⟪महाभाग⟫** "der dessen Anteil / Glück groß ist = Vornehmer". Oft verwendet von Frauen bei der Anrede oder beim Sprechen über Männer von gutem Stand. In modernem gesprochenem Sanskrit sehr häufig.
@@ -203,7 +217,8 @@ Will man nicht nur Höflichkeit, sondern auch Verehrung für jemanden ausdrücke
 :::indent
 **⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = "Ist die gnädige (hier anwesende) Frau Ihre Gattin?"  
 **⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫** (in einem Brief oder Telefongespräch) = "Geht es Ihnen gut?"
-:::## 21.4. Wortliste
+:::
+## 21.4. Wortliste
 
 **⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
 
@@ -228,7 +243,8 @@ Abb.: ⟪भगवद्गीता⟫
 (Bildquelle: [Details](/licenses#lekt2105))
 ::::::indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (eigentlich ein Desiderativum zu ⟪भज्⟫: wünschen, dass man teilhat): betteln
-:::davon:
+:::
+davon:
 
 :::indent
 **⟪भिक्षु⟫ m.:** Bettler, Mönch
@@ -237,11 +253,13 @@ Abb.: ⟪भगवद्गीता⟫
 Abb.: ⟪भिक्षवः⟫
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
 (Bildquelle: [Details](/licenses#lekt2104))
-:::**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** verderben (intransitiv), schlecht werden, zuschande werden
+:::
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** verderben (intransitiv), schlecht werden, zuschande werden
 
 :::indent
 **⟪दोष⟫ m.:** Fehler
-:::**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (kein PPP, dafür ⟪पक्व⟫ 3: gekocht, gegart) Absol. ⟪पक्त्वा⟫ :** garen (transitiv) = kochen, braten, rösten usw.
+:::
+**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (kein PPP, dafür ⟪पक्व⟫ 3: gekocht, gegart) Absol. ⟪पक्त्वा⟫ :** garen (transitiv) = kochen, braten, rösten usw.
 
 ## 21.5. Übung
 

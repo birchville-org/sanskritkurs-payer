@@ -128,7 +128,8 @@ D) Formez la voix passive des phrases construites selon C)
 ![](/images/uebung022.webp)
 Fig. : ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#uebung022))
-:::---
+:::
+---
 
 ## Exercices supplémentaires
 

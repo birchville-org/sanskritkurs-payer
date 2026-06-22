@@ -44,7 +44,8 @@ Traduceți și determinați următoarele forme și formați formele corespunzăt
 ![](/images/uebung090.webp)
 Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung090))
-:::---
+:::
+---
 
 ## B) Determinări de cuvinte
 

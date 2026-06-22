@@ -59,7 +59,8 @@ A) Pour revoir la déclinaison : Le verset suivant contient toutes les formes de
 ![](/images/uebung081.webp)
 Fig. : ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫ ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫ ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫ ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫
 (Source de l'image : [Détails](/fr/licenses#uebung081))
-:::---
+:::
+---
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫ : De la nécessité du sacrifice
 
@@ -79,7 +80,8 @@ Fig. : ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्�
 ![](/images/uebung082.webp)
 Fig. : ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫ ⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫
 (Source de l'image : [Détails](/fr/licenses#uebung082))
-:::---
+:::
+---
 
 ### ⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
 

@@ -19,7 +19,8 @@ Existen las siguientes formas de formación en la segunda clase del presente:
 2.  Raíces sin ablación de la raíz
 3.  Raíces bisílabas en -i/-ī con ablación de la raíz
 
-::::## 17.2. Raíces de la segunda clase de presente con ablaut del tema: nivel alto - nivel bajo
+::::
+## 17.2. Raíces de la segunda clase de presente con ablaut del tema: nivel alto - nivel bajo
 
 Ejemplos:
 
@@ -39,13 +40,15 @@ Ejemplos:
 | 3\. sg. Pres. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
 | 3\. pl. Pres. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
-:::::::Aquí opera la siguiente regla de sandhi de palabra:
+:::::::
+Aquí opera la siguiente regla de sandhi de palabra:
 
 :::grammar-box
 Sandhi de palabra de -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
-:::Otros ejemplos:
+:::
+Otros ejemplos:
 
 ⟪इ⟫ 2 P "ir" (Ā después de ciertos prefijos)
 
@@ -65,7 +68,8 @@ Sandhi de palabra de -ṣ + t(h)-
 | 3\. sg. Pres. Ā | ⟪इते⟫ (i-te) |
 | 3\. pl. Pres. Ā | ⟪इयते⟫ (iy-ate) |
 
-:::::::⟪दुह्⟫ 2 U "ordeñar"
+:::::::
+⟪दुह्⟫ 2 U "ordeñar"
 
 *   tema fuerte del presente: doh-
 *   tema débil del presente: duh-
@@ -81,7 +85,8 @@ Sandhi de palabra de -ṣ + t(h)-
 | 3\. sg. Pres. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
 | 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) |
 
-:::::::⟪हन्⟫ 2 P "golpear, matar, asesinar"
+:::::::
+⟪हन्⟫ 2 P "golpear, matar, asesinar"
 
 *   tema fuerte del presente: han-
 *   tema débil del presente:
@@ -99,7 +104,8 @@ Sandhi de palabra de -ṣ + t(h)-
 | 3\. sg. Pres. Ā | ⟪हते⟫ (ha-te) |
 | 3\. pl. Pres. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
-:::::::⟪अस्⟫ 2 P "ser"
+:::::::
+⟪अस्⟫ 2 P "ser"
 
 *   tema fuerte del presente: as-
 *   tema débil del presente: s-
@@ -113,7 +119,8 @@ Sandhi de palabra de -ṣ + t(h)-
 | 3\. sg. Pres. P | ⟪अस्ति⟫ (as-ti) |
 | 3\. pl. Pres. P | ⟪सन्ति⟫ (s-anti) |
 
-:::::::## 17.3. Raíces de la segunda clase de presente con ablaut de la raíz: grado pleno - grado reducido
+:::::::
+## 17.3. Raíces de la segunda clase de presente con ablaut de la raíz: grado pleno - grado reducido
 
 Ejemplo:
 
@@ -135,11 +142,13 @@ Ejemplo:
 | 3\. sg. Pres. Ā | ⟪स्तुते⟫ (stu-te) |
 | 3\. pl. Pres. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
-:::::::## 17.4. Raíces de la segunda clase de presente sin ablaut de raíz
+:::::::
+## 17.4. Raíces de la segunda clase de presente sin ablaut de raíz
 
 :::grammar-box
 Sin ablaut de raíz, las raíces de la segunda clase de presente terminan en -ā
-:::Ejemplo:
+:::
+Ejemplo:
 
 ⟪पा⟫ 2 P "proteger, guardar, custodiar"
 
@@ -152,7 +161,8 @@ Sin ablaut de raíz, las raíces de la segunda clase de presente terminan en -ā
 | 3\. sg. Pres. P | ⟪पाति⟫ (pā-ti) |
 | 3\. pl. Pres. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
-:::::::También algunas otras raíces de la segunda clase no tienen ablaut de raíz:
+:::::::
+También algunas otras raíces de la segunda clase no tienen ablaut de raíz:
 
 Ejemplos:
 
@@ -167,7 +177,8 @@ Ejemplos:
 | 3\. sg. Pres. P | ⟪अत्ति⟫ (« ad- + -ti) |
 | 3\. pl. Pres. P | ⟪अदन्ति⟫ (ad-anti) |
 
-:::::::⟪आस्⟫ 2 Ā "sentarse"
+:::::::
+⟪आस्⟫ 2 Ā "sentarse"
 
 ::::grammar-box
 
@@ -178,7 +189,8 @@ Ejemplos:
 | 3\. sg. Pres. Ā | ⟪आस्ते⟫ (ās-te) |
 | 3\. pl. Pres. Ā | ⟪आसते⟫ (ās-ate) |
 
-:::::::⟪वच्⟫ 2 P "decir"
+:::::::
+⟪वच्⟫ 2 P "decir"
 
 ::::grammar-box
 
@@ -189,7 +201,8 @@ Ejemplos:
 | 3\. sg. Pres. P | ⟪वक्ति⟫ (« vac- + -ti) |
 | 3\. pl. Pres. P | no ocurre |
 
-:::::::## 17.5. Raíces bisílabas en -i/-ī con ablaut de raíz
+:::::::
+## 17.5. Raíces bisílabas en -i/-ī con ablaut de raíz
 
 Varias raíces son bisílabas en una serie de formas, es decir, tienen una -i (respectivamente -ī antes de algunas terminaciones) antes de una terminación consonántica. Sin embargo, estos raíces son consideradas por los gramáticos nativos y en diccionarios, etc., como monosílabas.
 
@@ -211,7 +224,8 @@ Ejemplos:
 | 3\. sg. Pres. P | ⟪रोदिति⟫ (rodi-ti) |
 | 3\. pl. Pres. P | ⟪रुदन्ति⟫ (rud-anti) |
 
-:::::::⟪ब्रू⟫ 2 U "hablar"
+:::::::
+⟪ब्रू⟫ 2 U "hablar"
 
 *   raíz presente fuerte: bravī- (« bro- + -ī)
 *   raíz presente débil:
@@ -229,7 +243,8 @@ Ejemplos:
 | 3\. sg. Pres. Ā | ⟪ब्रूते⟫ (brū-te) |
 | 3\. pl. Pres. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
-:::::::También ⟪स्तु⟫ 2 U "alabar" tiene, además de las formas indicadas bajo 3., formas según este patrón:
+:::::::
+También ⟪स्तु⟫ 2 U "alabar" tiene, además de las formas indicadas bajo 3., formas según este patrón:
 
 ::::grammar-box
 
@@ -239,7 +254,8 @@ Ejemplos:
 | :--- | :--- |
 | 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):bro: ⟪स्तौति⟫ |
 
-:::::::## 17.6. Lista de palabras
+:::::::
+## 17.6. Lista de palabras
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : golpear, matar, asesinar
 
@@ -252,7 +268,8 @@ de ello:
 Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1703))
-:::⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sentarse
+:::
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sentarse
 
 de ello:
 
@@ -262,13 +279,15 @@ de ello:
 ![](/images/lekt1701.webp)
 Fig.: ⟪योगासनम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1701))
-:::⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : llorar, aullar
+:::
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : llorar, aullar
 
 de ello:
 
 :::indent
 ⟪रुद्र⟫ m.: (el aullador =) el dios de la tormenta Rudra
-:::⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ sin Pasivo y PPP: hablar, decir (algo a alguien: acusativo doble)
+:::
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ sin Pasivo y PPP: hablar, decir (algo a alguien: acusativo doble)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : ordeñar
 
@@ -276,7 +295,8 @@ de ello:
 ![](/images/lekt1702.webp)
 Fig.: ⟪दोग्धि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1702))
-:::⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : mostrar, indicar, ordenar
+:::
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : mostrar, indicar, ordenar
 
 de ello:
 
@@ -284,7 +304,8 @@ de ello:
 ⟪दिष्टि⟫ f.: instrucción, giro favorable
 
 ⟪दिष्ट्या⟫ Instr.: (literalmente: por un giro favorable) ¡Oh giro favorable! (exclamación de alegría y dicha)
-:::## 17.7. Ejercicio 1
+:::
+## 17.7. Ejercicio 1
 
 A) Inserte el verbo en las siguientes oraciones y traduzca:
 

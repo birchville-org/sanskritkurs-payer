@@ -19,7 +19,8 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 1. **in derived conjugations (causative, desiderative, frequentative, denominative)**
 2. **with roots that begin with a long vowel (except ā-) or with a vowel (except a-) before two consonants**
 3. **with some other roots**
-:::## 34.2. The reduplicated perfect (⟪द्वित्वलिट्⟫)
+:::
+## 34.2. The reduplicated perfect (⟪द्वित्वलिट्⟫)
 
 ### 34.2.1. Stem Gradation
 
@@ -39,7 +40,8 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 **In the perfect, additionally, stems of the following forms do not undergo stem gradation:**
 *   **a-Consonant**
 *   **ā-Consonant**
-:::### 34.2.2. The Perfect Endings
+:::
+### 34.2.2. The Perfect Endings
 
 ::::grammar-box
 
@@ -48,11 +50,13 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
-::::### 34.2.3. Connecting Vowel -i-
+::::
+### 34.2.3. Connecting Vowel -i-
 
 :::grammar-box
 **The connecting vowel -i- always precedes the 3rd person plural ending -re, and precedes other consonant-initial endings for the majority of roots.**
-:::### 34.2.4. Reduplication of roots beginning with a consonant
+:::
+### 34.2.4. Reduplication of roots beginning with a consonant
 
 :::grammar-box
 **For the reduplication of initial consonants, the rules given in [Lesson 33](lektion33.md) apply.**
@@ -62,7 +66,8 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 **Diphthongs before a consonant are reduced to the corresponding short low-grade vowel.**
 
 **ṛ, ṝ, ḷ, and final diphthongs are reduplicated with -a-.**
-:::Examples:
+:::
+Examples:
 
 ::::grammar-box
 
@@ -74,7 +79,8 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 
 :::::::grammar-box
 **Some roots beginning with y- or v- reduplicate with i- or u-, which in the weak forms "merges" with the root vowel.**
-:::Examples:
+:::
+Examples:
 
 ::::grammar-box
 
@@ -83,11 +89,13 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
-::::### 34.2.5. Reduplication of Vowel-Initial Roots
+::::
+### 34.2.5. Reduplication of Vowel-Initial Roots
 
 :::grammar-box
 **1. Initial a-, ā- is reduplicated with a-, resulting in ā-.**
-:::Examples:
+:::
+Examples:
 
 ::::grammar-box
 
@@ -97,7 +105,8 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 
 :::::::grammar-box
 **2. Roots with initial i- have iy- as the reduplicating syllable in the strong stem, and i- in the weak stem, which merges with the root vowel to form ī-. The same applies to initial u-.**
-:::Examples:
+:::
+Examples:
 
 ::::grammar-box
 
@@ -108,7 +117,8 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 
 :::::::grammar-box
 **3. Roots that begin with a- followed by two consonants, or with ṛ-, have ān- as the reduplicating syllable.**
-:::Examples:
+:::
+Examples:
 
 ::::grammar-box
 
@@ -117,7 +127,8 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
-::::## 34.3. Types of the reduplicated perfect
+::::
+## 34.3. Types of the reduplicated perfect
 
 Classification principle: Peculiarities of stem gradation:
 *   Perfect without stem gradation: Type I
@@ -132,7 +143,8 @@ Classification principle: Peculiarities of stem gradation:
 *   **(Consonant)-Consonant-Vowel-Consonant-Consonant**
 *   **a-Consonant**
 *   **ā-Consonant**
-:::Examples:
+:::
+Examples:
 
 ::::grammar-box
 
@@ -144,7 +156,8 @@ Classification principle: Peculiarities of stem gradation:
 | ⟪अस्⟫ 2P "to be":br⟪अस्⟫ 4 "to throw" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
 | ⟪अश्⟫ | ⟪आनशे⟫:brirregular reduplication! | ⟪आनशिरे⟫ |
 
-::::## 34.5. Perfect Type II: Strong stem with Vṛddhi grade, weak stem with Guṇa grade
+::::
+## 34.5. Perfect Type II: Strong stem with Vṛddhi grade, weak stem with Guṇa grade
 
 :::grammar-box
 **Formed from roots of the form:**
@@ -153,7 +166,8 @@ Classification principle: Peculiarities of stem gradation:
 **Formation:**
 *   **strong stem: Vṛddhi grade**
 *   **weak stem: Guṇa grade**
-:::Examples:
+:::
+Examples:
 
 ::::grammar-box
 
@@ -165,7 +179,8 @@ Classification principle: Peculiarities of stem gradation:
 | ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
-::::## 34.6. Word List
+::::
+## 34.6. Word List
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -176,7 +191,8 @@ Classification principle: Peculiarities of stem gradation:
 Fig.: ⟪सस्यम्⟫
 Rice field in India.
 (Image source: [Details](/en/licenses#lekt3406))
-:::**⟪यावत्⟫ :** how long, how great
+:::
+**⟪यावत्⟫ :** how long, how great
 
 **⟪तावत्⟫ :** so long, so great
 
@@ -189,7 +205,8 @@ Rice field in India.
 Fig.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
 (Image source: [Details](/en/licenses#lekt3405))
-:::**⟪मर्त्य⟫ 3:** mortal (from **⟪मृ⟫**)
+:::
+**⟪मर्त्य⟫ 3:** mortal (from **⟪मृ⟫**)
 
 **⟪तिल⟫ m.:** sesame (seed) (*Sesamum indicum* L.)
 
@@ -203,14 +220,16 @@ Sesame seeds.
 Fig.: *Sesamum indicum* L.
 Sesame plant flowering.
 (Image source: [Details](/en/licenses#lekt3404))
-:::**⟪स्वर्ण⟫ n.:** (beautifully colored =) gold
+:::
+**⟪स्वर्ण⟫ n.:** (beautifully colored =) gold
 
 :::media
 ![](/images/lekt3402.webp)
 Fig.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
 (Image source: [Details](/en/licenses#lekt3402))
-:::**⟪निकेतन⟫ n.:** dwelling, temple
+:::
+**⟪निकेतन⟫ n.:** dwelling, temple
 
 **⟪कोटि⟫ f.:** peak; 10 million
 
@@ -225,7 +244,8 @@ Golden Temple (Harmandir Sahib), Amritsar.
 Fig.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Image source: [Details](/en/licenses#lekt3401))
-:::**⟪यम्⟫ 1P ⟪यच्छति⟫ :** restrain, hold, offer, grant
+:::
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** restrain, hold, offer, grant
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** extend, offer, deliver
 

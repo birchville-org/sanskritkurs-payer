@@ -19,7 +19,8 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 1. **bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa)**
 2. **bei Wurzeln, die mit einem langen Vokal (außer ā-) beginnen, bzw. mit einem Vokal (außer a-) vor zwei Konsonanten**
 3. **bei einigen sonstigen Wurzeln**
-:::## 34.2. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
+:::
+## 34.2. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
 
 ### 34.2.1. Stammabstufung
 
@@ -39,7 +40,8 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 **Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:**
 *   **a-Konsonant**
 *   **ā-Konsonant**
-:::### 34.2.2. Die Perfektendungen
+:::
+### 34.2.2. Die Perfektendungen
 
 :::grammar-box
 
@@ -48,11 +50,13 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
-:::### 34.2.3. Bindevokal -i-
+:::
+### 34.2.3. Bindevokal -i-
 
 :::grammar-box
 **Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.**
-:::### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
+:::
+### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
 
 :::grammar-box
 **Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.**
@@ -62,7 +66,8 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 **Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.**
 
 **ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 
@@ -74,7 +79,8 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 
 ::::::grammar-box
 **Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 
@@ -83,11 +89,13 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
-:::### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
+:::
+### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
 
 :::grammar-box
 **1. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 
@@ -97,7 +105,8 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 
 ::::::grammar-box
 **2. Wurzeln mit anlautendem i- haben als Reduplikationssilbe im starken Stamm iy-, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- "verschmilzt. Analoges gilt für anlautendes u-.**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 
@@ -108,7 +117,8 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 
 ::::::grammar-box
 **3. Wurzeln die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben als Reduplikationssilbe ān-**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 
@@ -117,7 +127,8 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
-:::## 34.3. Typen des reduplizierten Perfekts
+:::
+## 34.3. Typen des reduplizierten Perfekts
 
 Einteilungsprinzip: Besonderheiten der Stammabstufung:
 *   Perfekt ohne Stammabstufung: Typ I
@@ -132,7 +143,8 @@ Einteilungsprinzip: Besonderheiten der Stammabstufung:
 *   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
 *   **a-Konsonant**
 *   **ā-Konsonant**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 
@@ -144,7 +156,8 @@ Einteilungsprinzip: Besonderheiten der Stammabstufung:
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
 | ⟪अश्⟫ | ⟪आनशे⟫:brunregelmäßige Reduplikation! | ⟪आनशिरे⟫ |
 
-:::## 34.5. Perfekt Typ II: Starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+:::
+## 34.5. Perfekt Typ II: Starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
 :::grammar-box
 **Wird gebildet von Wurzeln der Form:**
@@ -153,7 +166,8 @@ Einteilungsprinzip: Besonderheiten der Stammabstufung:
 **Bildung:**
 *   **starker Stamm: Hochstufe**
 *   **schwacher Stamm: Tiefstufe**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 
@@ -165,7 +179,8 @@ Einteilungsprinzip: Besonderheiten der Stammabstufung:
 | ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
-:::## 34.6. Wortliste
+:::
+## 34.6. Wortliste
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -176,7 +191,8 @@ Einteilungsprinzip: Besonderheiten der Stammabstufung:
 Abb.: ⟪सस्यम्⟫
 Rice field in India.
 (Bildquelle: [Details](/licenses#lekt3406))
-:::**⟪यावत्⟫ :** wie lange, wie groß
+:::
+**⟪यावत्⟫ :** wie lange, wie groß
 
 **⟪तावत्⟫ :** so lange, so groß
 
@@ -189,7 +205,8 @@ Rice field in India.
 Abb.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
 (Bildquelle: [Details](/licenses#lekt3405))
-:::**⟪मर्त्य⟫ 3:** sterblich (zu **⟪मृ⟫**)
+:::
+**⟪मर्त्य⟫ 3:** sterblich (zu **⟪मृ⟫**)
 
 **⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.)
 
@@ -203,14 +220,16 @@ Sesame seeds.
 Abb.: *Sesamum indicum* L.
 Sesame plant flowering.
 (Bildquelle: [Details](/licenses#lekt3404))
-:::**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold
+:::
+**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold
 
 :::media
 ![](/images/lekt3402.webp)
 Abb.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
 (Bildquelle: [Details](/licenses#lekt3402))
-:::**⟪निकेतन⟫ n.:** Wohnstatt, Tempel
+:::
+**⟪निकेतन⟫ n.:** Wohnstatt, Tempel
 
 **⟪कोटि⟫ f.:** Spitze; 10 Millionen
 
@@ -225,7 +244,8 @@ Golden Temple (Harmandir Sahib), Amritsar.
 Abb.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Bildquelle: [Details](/licenses#lekt3401))
-:::**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren
+:::
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern
 
@@ -245,7 +265,7 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 6. ⟪भनक्ति⟫
 7. ⟪लुभ्यन्ति⟫
 8. ⟪रुन्धते⟫
-9. ⟪रोदित⟫i -&gt; ⟪रोदिति⟫
+9. ⟪रोदित⟫i → ⟪रोदिति⟫
 10. ⟪बध्नाति⟫
 11. ⟪युध्यन्ते⟫
 12. ⟪युङ्क्ते⟫

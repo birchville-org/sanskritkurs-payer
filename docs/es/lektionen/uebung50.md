@@ -59,7 +59,8 @@ A) Para repasar la declinación: El siguiente verso contiene todas las formas de
 ![](/images/uebung081.webp)
 Fig.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫ ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫ ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫ ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung081))
-:::---
+:::
+---
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Sobre la necesidad del sacrificio
 
@@ -79,7 +80,8 @@ Fig.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 ![](/images/uebung082.webp)
 Fig.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫ ⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung082))
-:::---
+:::
+---
 
 ### ⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
 

@@ -15,7 +15,8 @@ last_reconstructed: 2026-04-30
 **Esquema: Nombre predicativo - Sujeto**
 
 p. ej. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu es un dios."
-:::No es necesaria una cópula verbal ("es", "son", "soy", "eres", "sois"), pero a veces puede aparecer.
+:::
+No es necesaria una cópula verbal ("es", "son", "soy", "eres", "sois"), pero a veces puede aparecer.
 
 **No hay artículos**: **devaḥ** -- ⟪देवः⟫ puede significar "el dios" o "un dios".
 
@@ -56,7 +57,8 @@ En los diccionarios de sánscrito, los sustantivos se listan en su **tema nomina
 
 :::grammar-box
 **El nominativo singular termina en -s = -⟪स्⟫ o bien es sin terminación.**
-:::### 2.3.1. Nominativo singular en -s
+:::
+### 2.3.1. Nominativo singular en -s
 
 Los siguientes stems nominales, que terminan en una vocal, forman el nominativo singular en **-s**:
 
@@ -64,7 +66,8 @@ Los siguientes stems nominales, que terminan en una vocal, forman el nominativo 
 **Masculinos en -a:** p. ej. deva m. = ⟪देव⟫ "Dios" -- Nom. sg.: devas = ⟪देवस्⟫
 **Masculinos en -i:** p. ej. kavi m. = ⟪कवि⟫ "Poeta" -- Nom. sg.: kavis = ⟪कविस्⟫
 **Masculinos en -u:** p. ej. guru m. = ⟪गुरु⟫ "Maestro" -- Nom. sg.: gurus = ⟪गुरुस्⟫
-:::---
+:::
+---
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
@@ -119,7 +122,8 @@ La **-s** final:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (estado de servicios).
 
-:::tip Los cuatro estados (varna)
+:::
+tip Los cuatro estados (varna)
 Según la teoría clásica (p. ej. Manusmṛti I, 88-91), las tareas se distribuyen:
 
 - **de los Brahmanes**
@@ -145,7 +149,8 @@ Según la teoría clásica (p. ej. Manusmṛti I, 88-91), las tareas se distribu
   - Estudio de los Vedas
 - **de los Śūdras**
   - servir a las tres clases superiores
-:::**dvija** m. -- ⟪द्विज⟫ : "Dos veces nacido" (iniciados de las tres clases superiores: Brāhmaṇa, Kṣatriya, Vaiśya).
+:::
+**dvija** m. -- ⟪द्विज⟫ : "Dos veces nacido" (iniciados de las tres clases superiores: Brāhmaṇa, Kṣatriya, Vaiśya).
 
 **varṇa** m. -- ⟪वर्ण⟫ : Color, estado de nacimiento (tendencia).
 
@@ -155,7 +160,8 @@ Los cuatro estados (**varṇa** m.) se confunden a menudo con las castas. Sin em
 ![](/images/lekt0201.webp)
 Fig.: Representación de la división de estados de la Europa medieval (grabado en madera de finales del siglo XV).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0201))
-:::**Etiquetas:**
+:::
+**Etiquetas:**
 - **Estado sacerdotal** (~Brāhmaṇa): Tu supplex ora = ¡Tú, suplicante, ora!
 - **Estado noble** (~Kṣatriya): Tu protege = ¡Tú, protege!
 - **Estado campesino** (~Vaiśya/Śūdra): Tuque labora = ¡Y tú, trabaja!
@@ -164,7 +170,8 @@ Los tres estados llevan el traje correspondiente a su estado. Sobre los estados,
 
 Max Weber &lt;1864 – 1920&gt; define estado así:
 
-:::note-box
+:::
+note-box
 "**Estado**" debe significar una multitud de personas que, dentro de una asociación,
 a) ejercen una estimación especial de estado, - posiblemente también
 b) reclaman monopolios especiales de estado.
@@ -183,7 +190,8 @@ Mientras que las clases ocupacionales crecen sobre la base de la economía orien
 Cada sociedad estamental es convencional, ordenada por reglas de conducta, crea por tanto condiciones de consumo económicamente irracionales y obstaculiza de esta manera mediante apropiaciones monopolísticas y mediante la exclusión de la libre disposición de la propia capacidad de ganancia la libre formación del mercado.
 
 [**Weber, Max &lt;1864 – 1920&gt;:** Economía y sociedad : bosquejo de una sociología comprensiva. – 5., revisada ed. – Tubinga : Mohr, 1976. – P. 625 ss.]
-:::Los varṇas son, por consiguiente, estamentos de nacimiento.
+:::
+Los varṇas son, por consiguiente, estamentos de nacimiento.
 
 **kavi** m. -- ⟪कवि⟫ : poeta.
 
@@ -193,7 +201,8 @@ Cada sociedad estamental es convencional, ordenada por reglas de conducta, crea 
 ![](/images/lekt0203.jpg)
 Fig.: Dios Agni, miniatura, s. XVIII.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0203))
-:::**sādhu** 3 -- ⟪साधु⟫ : correcto, bueno.
+:::
+**sādhu** 3 -- ⟪साधु⟫ : correcto, bueno.
 
 **sādhu** m. -- ⟪साधु⟫ : hombre «santo», Sādhu.
 
@@ -201,7 +210,8 @@ Fig.: Dios Agni, miniatura, s. XVIII.
 ![](/images/lekt0202.webp)
 Fig.: Sādhu (⟪साधु⟫), Templo Pashupatinath, Katmandú.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0202))
-:::**guru** 3 -- ⟪गुरु⟫ : pesado, importante, digno de veneración
+:::
+**guru** 3 -- ⟪गुरु⟫ : pesado, importante, digno de veneración
 
 **guru** m. -- ⟪गुरु⟫ : persona digna de veneración: padre, madre, pariente mayor, especialmente maestro, maestro
 

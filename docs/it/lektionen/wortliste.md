@@ -21,7 +21,8 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (ordine dei servizi).
 
-:::tip I quattro ordini (varna)
+:::
+tip I quattro ordini (varna)
 Secondo la teoria classica (ad es. Manusmṛti I, 88-91) i compiti sono distribuiti:
 
 - **dei Bramini**
@@ -47,7 +48,8 @@ Secondo la teoria classica (ad es. Manusmṛti I, 88-91) i compiti sono distribu
   - studio dei Veda
 - **dei Śūdra**
   - servire le tre classi superiori
-:::**dvija** m. -- ⟪द्विज⟫ : "Due volte nato" (iniziati dei tre ordini superiori: Brāhmaṇa, Kṣatriya, Vaiśya).
+:::
+**dvija** m. -- ⟪द्विज⟫ : "Due volte nato" (iniziati dei tre ordini superiori: Brāhmaṇa, Kṣatriya, Vaiśya).
 
 **varṇa** m. -- ⟪वर्ण⟫ : Colore, ordine di nascita (aspirazione).
 
@@ -57,7 +59,8 @@ I quattro ordini (**varṇa** m.) sono spesso confusi con le caste. I quattro or
 ![](/images/lekt0201.webp)
 Fig.: Rappresentazione della suddivisione degli ordini nell'Europa medievale (xilografia della fine del XV secolo).
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0201))
-:::**Didascalia:**
+:::
+**Didascalia:**
 - **Ordine sacerdotale** (~Brāhmaṇa): Tu supplex ora = Tu prega umilmente!
 - **Ordine nobiliare** (~Kṣatriya): Tu protege = Tu proteggi!
 - **Ordine contadino** (~Vaiśya/Śūdra): Tuque labora = E tu lavora!
@@ -66,7 +69,8 @@ I tre ordini indossano l'abito tipico del rispettivo ordine. Sopra di essi, indi
 
 Max Weber &lt;1864 – 1920&gt; definisce "ordine" (Stand) così:
 
-:::note-box
+:::
+note-box
 "»Ordine« (Stand) dovrebbe significare una moltitudine di persone che, all'interno di un'associazione,
 a) esercitano una stima speciale di ordine, - eventualmente anche
 b) rivendicano privilegi speciali di ordine.
@@ -85,7 +89,8 @@ Mentre le classi professionali crescono sul terreno dell’economia orientata al
 Ogni società ordinale è convenzionale, ordinata da regole di condotta di vita, crea quindi condizioni di consumo economicamente irrazionali e osticola in tal modo, attraverso appropriazioni monopolistiche e attraverso l’esclusione della libera disposizione della propria capacità di guadagno, la libera formazione del mercato.
 
 [**Weber, Max &lt;1864 – 1920&gt;:** Economia e società : abbozzo di una sociologia comprensiva. – 5., riveduta ed. – Tubinga : Mohr, 1976. – P. 625 s.]
-:::I Varṇa sono pertanto ordini di nascita.
+:::
+I Varṇa sono pertanto ordini di nascita.
 
 **kavi** m. -- ⟪कवि⟫ : poeta.
 
@@ -95,7 +100,8 @@ Ogni società ordinale è convenzionale, ordinata da regole di condotta di vita,
 ![](/images/lekt0203.jpg)
 Fig.: Dio Agni, miniatura, 18° sec.
 (Fonte immagine: [Dettagli](/it/licenses#lekt0203))
-:::**sādhu** 3 -- ⟪साधु⟫ : corretto, buono.
+:::
+**sādhu** 3 -- ⟪साधु⟫ : corretto, buono.
 
 **sādhu** m. -- ⟪साधु⟫ : uomo «sacro», Sādhu.
 
@@ -103,7 +109,8 @@ Fig.: Dio Agni, miniatura, 18° sec.
 ![](/images/lekt0202.webp)
 Fig.: Sādhu (⟪साधु⟫), Tempio Pashupatinath, Katmandu.
 (Fonte immagine: [Dettagli](/it/licenses#lekt0202))
-:::**guru** 3 -- ⟪गुरु⟫ : pesante, importante, degno di venerazione
+:::
+**guru** 3 -- ⟪गुरु⟫ : pesante, importante, degno di venerazione
 
 **guru** m. -- ⟪गुरु⟫ : persona degna di venerazione: padre, madre, parente anziano, in particolare insegnante, maestro
 
@@ -157,7 +164,8 @@ Fig.: Sādhu (⟪साधु⟫), Tempio Pashupatinath, Katmandu.
 ![](/images/lekt0303.webp)
 Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 (Fonte dell'immagine: [Dettagli](/images/lekt0303))
-:::**sādhvī** f. = ⟪साध्वी⟫ : fem. di sādhu.
+:::
+**sādhvī** f. = ⟪साध्वी⟫ : fem. di sādhu.
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. di guru.
 
@@ -186,7 +194,8 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 ![](/images/lekt0501.webp)
 Fig.: Dio Kāma = kāmadeva = ⟪कामदेव⟫, XVIII secolo.
 (Fonte dell'immagine: Wikipedia, dominio pubblico)
-:::**krodha** m. = ⟪क्रोध⟫ : ira.
+:::
+**krodha** m. = ⟪क्रोध⟫ : ira.
 
 **kleśa** m. = ⟪क्लेश⟫ : tormento, flagello.
 
@@ -229,7 +238,8 @@ In sanscrito, i verbi sono elencati nella **forma della radice**. Il numero dopo
 - **Ā:** La radice è solo Ātmanepada
 - **U:** Ubhayapada ("entrambe le forme verbali"): la radice viene utilizzata sia nel Parasmaipada che nell'Ātmanepada.
 - **():** Tra parentesi è indicata la terza persona singolare del presente indicativo (laṭ).
-:::**Impara le seguenti parole:**
+:::
+**Impara le seguenti parole:**
 - **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : onorare con un sacrificio, sacrificare
 - **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : diventare, emergere, essere
 - **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : rendere presente, ricordare
@@ -260,7 +270,8 @@ In sanscrito, i verbi sono elencati nella **forma della radice**. Il numero dopo
 ![](/images/lekt0701.webp)
 Fig.: Era questa la pianta vedica del Soma?: Fungo mosca: *Amanita muscaria* (L.) Lam.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0701))
-:::- **phala** n. ⟪फल⟫ : frutto (anche in senso figurato: (karmico) frutto di un'azione)
+:::
+- **phala** n. ⟪फल⟫ : frutto (anche in senso figurato: (karmico) frutto di un'azione)
 - **nṛtya** n. ⟪नृत्य⟫ : danza
 - **svarga** m. ⟪स्वर्ग⟫ : cielo
 - **naraka** m. ⟪नरक⟫ : inferno (secondo una concezione induista, l'universo ha la forma di un uovo (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Uovo di Brahmā"): al di sopra della terra vi sono sei cieli con beatitudine crescente, al di sotto della terra vi sono sette cosiddetti **pātāla** n. = ⟪पाताल⟫, dimore degli **nāga** m. = ⟪नाग⟫ (serpenti) e di altre creature mitiche, tra cui vi sono 7 inferni con pene crescenti)
@@ -302,7 +313,8 @@ Fig.: **likh** (⟪लिख्⟫) : stilo indiano in acciaio per incidere su f
 ![](/images/lekt0810.jpg)
 Fig.: **likh** (⟪लिख्⟫) : bastoncino da scrittura dei Batak (Sumatra), come probabilmente era in uso anche in India
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0809))
-:::- **sukha** n. ⟪सुख⟫ : felicità, benessere
+:::
+- **sukha** n. ⟪सुख⟫ : felicità, benessere
 - **duḥkha** n. ⟪दुःख⟫ : sfortuna, sofferenza
 
 ---
@@ -318,13 +330,15 @@ Fig.: **likh** (⟪लिख्⟫) : bastoncino da scrittura dei Batak (Sumatra
 ![](/images/lekt0903.webp)
 Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram presso Madurai.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0903))
-:::- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artigiano
+:::
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artigiano
 
 :::media
 ![](/images/lekt0902.webp)
 Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0902))
-:::- **kuśīlava** m. (⟪कुशीलव⟫) : (itinerante) Spettacolista, attore, cantante
+:::
+- **kuśīlava** m. (⟪कुशीलव⟫) : (itinerante) Spettacolista, attore, cantante
 - **kusīda** n. (⟪कुसीद⟫) : Usura
 - **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : tirare
 - **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : arare
@@ -366,7 +380,8 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
   :::- **pāpa** n. ⟪पाप⟫ : azione malvagia, male (contrario di **puṇya**)
 - **satya** n. ⟪सत्य⟫ : verità
 
-:::note-box
+:::
+note-box
 In India si attribuiva alla parola vera un potere magico; anzi, l'intero ordine cosmico viene mantenuto e creato dalla parola vera. Per questa importante concezione, si veda l'opera fondamentale:
 
 Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. A cura di Ludwig Alsdorf dal lascito. - Gottinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e il Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
@@ -374,7 +389,8 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. A cura di Ludw
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1003))
-:::- **anṛta** n. ⟪अनृत⟫ : falsità, menzogna (contrario di **satya**)
+:::
+- **anṛta** n. ⟪अनृत⟫ : falsità, menzogna (contrario di **satya**)
 
   :::note-box
   Formazione della parola **an-** ("non-") + **ṛta** n.
@@ -388,7 +404,8 @@ Fig.: ⟪वरुणः⟫
 ![](/images/lekt1002.jpg)
 Fig.: ⟪विश्वामित्रः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1002))
-:::- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : dire, parlare
+:::
+- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : dire, parlare
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : chiedere (qualcuno: Acc.; qualcosa: Acc.)
 - **saha** ⟪सह⟫ : insieme con, in comune con (anche nel contesto di "combattere con" ecc.) (Postposizione con strumentale)
 
@@ -454,7 +471,8 @@ Fig.: ⟪विश्वामित्रः⟫
 ![](/images/lekt1102.webp)
 Fig.: **vadanāni** = ⟪वदनानि⟫, distretto di Jamalpur, Bangladesh.
 (Fonte dell'immagine: [Details](/it/licenses#lekt1102))
-:::- **prach** 6 P ⟪प्रच्छ्⟫ : chiedere
+:::
+- **prach** 6 P ⟪प्रच्छ्⟫ : chiedere
   - **praśna** m. ⟪प्रश्न⟫ : domanda (suffisso **-na** come in **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : desiderare
@@ -471,7 +489,8 @@ Fig.: **vadanāni** = ⟪वदनानि⟫, distretto di Jamalpur, Banglades
 ![](/images/lekt1201.webp)
 Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1201))
-:::- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (qualcosa) bruciare
+:::
+- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (qualcosa) bruciare
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : superare, sopportare, sopportare pazientemente = perdonare
 - **mṛga** m. ⟪मृग⟫ : animale selvatico
 - **mārga** m. ⟪मार्ग⟫ : via (i percorsi erano spesso i sentieri delle bestie)
@@ -480,7 +499,8 @@ Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 ![](/images/lekt1202.webp)
 Fig.: ⟪मार्गः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1202))
-:::- **api** ⟪अपि⟫ : anche (postposto)
+:::
+- **api** ⟪अपि⟫ : anche (postposto)
 
 Per la 6ª classe del presente, i grammatici indigeni contano alcune radici che formano il tema del presente con il nasale infix e la vocale tematica a, ad esempio:
 
@@ -497,7 +517,8 @@ Per la formazione delle parole:
 ![](/images/lekt1203.webp)
 Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1203))
-:::- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : conoscenza, organo della conoscenza.
+:::
+- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : conoscenza, organo della conoscenza.
 
 ---
 
@@ -577,7 +598,8 @@ Imparate le seguenti parole:
 ![](/images/lekt1301.webp)
 Fig.: ⟪महिषासुरः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1301))
-:::- **guṇa** m. ⟪गुण⟫ : filo, corda; proprietà, buona proprietà
+:::
+- **guṇa** m. ⟪गुण⟫ : filo, corda; proprietà, buona proprietà
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : andare, cadere in
 - **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : essere, essere presente
 - **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : lanciare, (lontano-)gettare
@@ -586,7 +608,8 @@ Fig.: ⟪महिषासुरः⟫
 
 :::indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : bere (tradizionalmente calcolato alla 1. classe)
-:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : odiare, inimicarsi
+:::
+- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : odiare, inimicarsi
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : mangiare, consumare
 - **anna** n. ⟪अन्न⟫ : cibo (da PPP: *ad-na: il mangiato)
 
@@ -594,7 +617,8 @@ Fig.: ⟪महिषासुरः⟫
 ![](/images/lekt1304.webp)
 Fig.: ⟪अन्नम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1304))
-:::Formazione delle parole:
+:::
+Formazione delle parole:
 
 pad 4 Ā:
 
@@ -606,11 +630,13 @@ pad 4 Ā:
 ![](/images/lekt1303.webp)
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1303))
-:::dviṣ 2 U:
+:::
+dviṣ 2 U:
 
 :::indent
 **dveṣa** ⟪द्वेष⟫ : odio
-:::---
+:::
+---
 
 
 ## Lezione 14
@@ -623,7 +649,8 @@ Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 ![](/images/lekt1405.webp)
 Fig.: ⟪दीपाः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1405))
-:::* **bala n.** (⟪बल⟫) : violenza, forza, potenza; forza militare, schiera di guerrieri
+:::
+* **bala n.** (⟪बल⟫) : violenza, forza, potenza; forza militare, schiera di guerrieri
 * **bāla 3** (⟪बाल⟫) : giovane, infantile, stolto; m. ragazzo
 * **bālā f.** (⟪बाला⟫) : giovane ragazza
 * **nara m.** (⟪नर⟫) : uomo, essere umano
@@ -692,7 +719,8 @@ Fig.: ⟪दीपाः⟫
 Fig.: ⟪कामः⟫
 Illustrazione relativa a ⟪कामसूत्र⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1809))
-:::**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stare, rimanere, persistere, trovarsi. (È tradizionalmente classificato nella prima classe di presente, sebbene si tratti di una classe tematica di presente reduplicata, come ⟪पा⟫ 1 ⟪पिबति⟫)
+:::
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stare, rimanere, persistere, trovarsi. (È tradizionalmente classificato nella prima classe di presente, sebbene si tratti di una classe tematica di presente reduplicata, come ⟪पा⟫ 1 ⟪पिबति⟫)
 
 **⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** avvicinarsi, porsi in posizione di rispetto davanti a qualcuno
 
@@ -704,7 +732,8 @@ da **⟪स्था⟫** :
 **⟪स्थान⟫ n.:** Luogo, (giusto) posto, ubicazione
 
 **⟪स्थिति⟫ f.:** Soggiorno, fermezza, persistenza
-:::**⟪गर्भ⟫ m.:** Grembo, utero, interno, embrione / feto. Alla fine di un Bahuvrīhi spesso: "Interno", ad esempio
+:::
+**⟪गर्भ⟫ m.:** Grembo, utero, interno, embrione / feto. Alla fine di un Bahuvrīhi spesso: "Interno", ad esempio
 
 :::indent
 **⟪धनगर्भ⟫ 3:** "il cui interno è denaro = in cui si trova denaro"
@@ -715,20 +744,23 @@ da **⟪स्था⟫** :
 Fig.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1901))
-:::**⟪वारिद⟫ m.:** Portatore d'acqua = nuvola di pioggia
+:::
+**⟪वारिद⟫ m.:** Portatore d'acqua = nuvola di pioggia
 
 :::media
 ![](/images/lekt1902.jpg)
 Fig.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1902))
-:::**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** soffiare
+:::
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** soffiare
 
 da ciò:
 
 :::indent
 **⟪वात⟫ m.:** Vento
-:::**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** guidare, viaggiare (trans.)
+:::
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** guidare, viaggiare (trans.)
 
 **⟪छत्त्र⟫ n.:** Ombrello, parasole
 
@@ -737,14 +769,16 @@ da ciò:
 Fig.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), con l'abito tradizionale, è una consuetudine nelle parti meridionali del Kerala. _Onappottan_ visita le case durante la festa di _onam_ e impartisce benedizioni. Recentemente, la figura di _onappottan_ è diventata una vista rara, confinata ai villaggi."
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1904))
-:::**⟪पण्डित⟫ m.:** Dotta, saggio ; 3: intelligente, esperto (in)
+:::
+**⟪पण्डित⟫ m.:** Dotta, saggio ; 3: intelligente, esperto (in)
 
 :::media
 ![](/images/lekt1903.jpg)
 Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
 ⟪१९५९⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1903))
-:::**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** risiedere presso, abitare (Acc., Loc.) ; visitare, recarsi a (Acc.) ; servire, prendersi cura, venerare ; praticare, usare ; assistere, avere rapporti sessuali
+:::
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** risiedere presso, abitare (Acc., Loc.) ; visitare, recarsi a (Acc.) ; servire, prendersi cura, venerare ; praticare, usare ; assistere, avere rapporti sessuali
 
 **⟪नि⟫ Prefisso:** giù, dentro
 
@@ -778,7 +812,8 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 Fig.: ⟪आश्रमः⟫
 Rishikesh = ⟪ऋषिकेश⟫. "Questo in realtà fa parte dell'ashram a Rishikesh dove i Beatles hanno soggiornato. Questa parte specifica non c'era quando erano lì, ma ha un bell'aspetto." [Fonte immagine: da ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2008))
-:::⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : facente, operante, causante
+:::
+⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : facente, operante, causante
 
 ⟪कर⟫ m.: mano (a ⟪कृ⟫ 8)
 
@@ -894,7 +929,8 @@ Fig.: ⟪भगवद्गीता⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2105))
 ::::::indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (in realtà un desiderativo per ⟪भज्⟫: desiderare che qualcuno partecipi): mendicare
-:::di cui:
+:::
+di cui:
 
 :::indent
 **⟪भिक्षु⟫ m.:** mendicante, monaco
@@ -903,11 +939,13 @@ Fig.: ⟪भगवद्गीता⟫
 Fig.: ⟪भिक्षवः⟫
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Fonte immagine: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2104))
-:::**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** corrompere (intransitivo), diventare cattivo, essere umiliato
+:::
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** corrompere (intransitivo), diventare cattivo, essere umiliato
 
 :::indent
 **⟪दोष⟫ m.:** errore
-:::**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (nessun PPP, invece ⟪पक्व⟫ 3: cotto, fermentato) Absol. ⟪पक्त्वा⟫ :** cuocere (transitivo) = bollire, friggere, tostare ecc.
+:::
+**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (nessun PPP, invece ⟪पक्व⟫ 3: cotto, fermentato) Absol. ⟪पक्त्वा⟫ :** cuocere (transitivo) = bollire, friggere, tostare ecc.
 
 
 ## Lezione 22
@@ -921,7 +959,8 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Fo
 Fig.: ⟪कामदेवः⟫
 Secolo XIX
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2202))
-:::**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** essere capace, potere
+:::
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** essere capace, potere
 
 da ciò:
 
@@ -934,11 +973,13 @@ da ciò:
 Fig.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2203))
-:::**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** meritare qualcosa (essere degno di qualcosa), avere il diritto, essere obbligato a, dovere (nella seconda persona **⟪अर्ह्⟫** + infinito è spesso usato come un ordine mitigato: "Dovresti")
+:::
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** meritare qualcosa (essere degno di qualcosa), avere il diritto, essere obbligato a, dovere (nella seconda persona **⟪अर्ह्⟫** + infinito è spesso usato come un ordine mitigato: "Dovresti")
 
 :::indent
 **⟪अर्हन्त्⟫ 3** Part. Pres. P: un degno. Nel Buddhismo e nel Giainismo: qualcuno che ha raggiunto la liberazione finale
-:::**⟪व्रत⟫ n.:** voto, dovere religioso, osservanza religiosa (si promette qualcosa alla divinità per ottenere qualcosa da lei. Esempio: una madre promette di dedicare sua figlia come prostituta sacra (**⟪देवदासी⟫**) se sua figlia si ammalerà di nuovo. Importanti **⟪व्रत⟫** oggi: digiuno; astinenza da cibi amati; astinenza sessuale; lettura di scritture sacre; esecuzione di certi riti; nutrizione di brahmani e simili. Breve sui **⟪व्रत⟫**: Walker, Hindu World Vol. II, pag. 581ss. Dettagliato: P. V. Kane: History of Dharmaśāstra Vol. 5,1 pag. 1 - 462. Lì pag. 253 - 462 elenco di **⟪व्रत⟫** e feste religiose ("il seguente elenco ... non pretende di essere completamente esaustivo" !!!)
+:::
+**⟪व्रत⟫ n.:** voto, dovere religioso, osservanza religiosa (si promette qualcosa alla divinità per ottenere qualcosa da lei. Esempio: una madre promette di dedicare sua figlia come prostituta sacra (**⟪देवदासी⟫**) se sua figlia si ammalerà di nuovo. Importanti **⟪व्रत⟫** oggi: digiuno; astinenza da cibi amati; astinenza sessuale; lettura di scritture sacre; esecuzione di certi riti; nutrizione di brahmani e simili. Breve sui **⟪व्रत⟫**: Walker, Hindu World Vol. II, pag. 581ss. Dettagliato: P. V. Kane: History of Dharmaśāstra Vol. 5,1 pag. 1 - 462. Lì pag. 253 - 462 elenco di **⟪व्रत⟫** e feste religiose ("il seguente elenco ... non pretende di essere completamente esaustivo" !!!)
 
 **⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** pascolare, vagare, agitarsi, muoversi, agire, esercitare qualcosa, compiere (ad esempio **⟪व्रतं⟫ ⟪चर्⟫**: praticare un voto, in particolare l'astinenza sessuale)
 
@@ -957,7 +998,8 @@ da ciò:
 Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2201))
-:::## Lezione 23
+:::
+## Lezione 23
 
 ⟪समान⟫ ⟪३⟫: uguale
 
@@ -984,7 +1026,8 @@ Allo stesso modo in cui ⟪अलम्⟫ con strumentale viene utilizzato:
 ![](/images/lekt2405.webp)
 Fig.: ⟪अलंकारः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2405))
-:::⟪हेतु⟫ m.: impulso, incitazione, causa, motivo; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ con genitivo o come secondo elemento di un composto = "per ... volere, a causa di"
+:::
+⟪हेतु⟫ m.: impulso, incitazione, causa, motivo; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ con genitivo o come secondo elemento di un composto = "per ... volere, a causa di"
 
 ⟪प्रतिमा⟫ f.: immagine, ritratto
 
@@ -993,7 +1036,8 @@ Fig.: ⟪अलंकारः⟫
 Fig.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2406))
-:::⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : avvenire, accadere, sorgere
+:::
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : avvenire, accadere, sorgere
 
 Da ⟪वृत्⟫:
 
@@ -1001,7 +1045,8 @@ Da ⟪वृत्⟫:
 ⟪वृत्ति⟫ f.: comportamento, attività, stile di vita
 
 ⟪वृत्त⟫ n.: comportamento
-:::⟪अभि⟫ Prefisso:  pre-, dopo - verso, a - da, a - verso, contro, in - dentro, in relazione a, su, sopra, a
+:::
+⟪अभि⟫ Prefisso:  pre-, dopo - verso, a - da, a - verso, contro, in - dentro, in relazione a, su, sopra, a
 
 ⟪नि⟫ Prefisso: verso il basso, giù, dentro, all'indietro
 
@@ -1026,7 +1071,8 @@ da ciò
 Fig.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor delegato degli esteri, CNN-IBN Network 18, India, modera una tavola rotonda al Vertice Economico India 2008 del Forum Economico Mondiale a Nuova Delhi."
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2407))
-:::⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : utile
+:::
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : utile
 
 ⟪कुप्य⟫ n.: prodotto della foresta, metallo (non metallo prezioso)
 
@@ -1049,7 +1095,8 @@ Fig.: ⟪आख्यानम्⟫
 da ciò:
 
 ⟪संख्या⟫ f.: conteggio, enumerazione; ⟪सांख्य⟫ n.: uno dei sei sistemi filosofici (breve: Basham, Wonder pag. 326f.)
-:::⟪ग्रहण⟫ n.: afferrare
+:::
+⟪ग्रहण⟫ n.: afferrare
 
 ⟪चौल⟫ n.: cerimonia (⟪संस्कार⟫) di taglio dei capelli (all'età di 3 anni)
 
@@ -1068,7 +1115,8 @@ da ciò:
 Fig.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 Manoscritto del ⟪गीतगोविन्द⟫, 1730 d.C.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2411))
-:::⟪स्वागत⟫ n.: benvenuto (da su-ā-gata)
+:::
+⟪स्वागत⟫ n.: benvenuto (da su-ā-gata)
 
 ⟪तृण⟫ n.: stelo d'erba
 
@@ -1089,7 +1137,8 @@ Absol. 2: -⟪त्यज्य⟫
 di cui:
 
 ⟪त्याग⟫ m.: abbandono, rinuncia, evitamento
-:::⟪दार⟫ m. pl. (!!!): moglie
+:::
+⟪दार⟫ m. pl. (!!!): moglie
 
 ⟪द्रव्य⟫ n.: oggetto, beni, possesso materiale, denaro
 
@@ -1099,7 +1148,8 @@ di cui:
 ![](/images/lekt2501.webp)
 Fig.: ⟪धान्यम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2501))
-:::⟪धृ⟫ 1U ⟪धरति⟫ : tenere, trattenere
+:::
+⟪धृ⟫ 1U ⟪धरति⟫ : tenere, trattenere
 
 :::indent
 Fut. ⟪धरिष्यति⟫  
@@ -1111,11 +1161,13 @@ Absol. 2: -⟪धृत्य⟫
 di cui:
 
 ⟪धर्म⟫ m.: ciò che è solido e trattiene = Dharma
-:::⟪नित्य⟫ ⟪३⟫ : costantemente, stabile, eterno
+:::
+⟪नित्य⟫ ⟪३⟫ : costantemente, stabile, eterno
 
 :::indent
 ⟪नित्यम्⟫ Avv.: sempre, costantemente, sempre
-:::⟪प्रज्ञा⟫ f.:  saggezza, conoscenza
+:::
+⟪प्रज्ञा⟫ f.:  saggezza, conoscenza
 
 ⟪प्रदान⟫ n.: dare, donare; dono, offerta
 
@@ -1130,7 +1182,8 @@ Inf. ⟪मदितुम्⟫
 di cui:
 
 ⟪मद⟫ m.: ebbrezza, ebbrezza sensoriale = piacere sensoriale
-:::⟪मान⟫ m.: valutazione, reputazione, fama, onore, orgoglio, superbia, senso di inferiorità; (ci si confronta con gli altri)
+:::
+⟪मान⟫ m.: valutazione, reputazione, fama, onore, orgoglio, superbia, senso di inferiorità; (ci si confronta con gli altri)
 
 ⟪यदि⟫ Congiunzione: se
 
@@ -1145,7 +1198,8 @@ Pass. ⟪यायते⟫
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
 Absol. 2: -⟪याय⟫
-:::⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
+:::
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
 
 ⟪प्रदान⟫ n. = ⟪दान⟫
 
@@ -1159,7 +1213,8 @@ Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 di cui:
 
 ⟪शिक्षा⟫ f.: scienza, istruzione; fonetica
-:::⟪स्तेन⟫ m.: ladro
+:::
+⟪स्तेन⟫ m.: ladro
 
 ⟪स्तेय⟫ n.: furto
 
@@ -1173,7 +1228,8 @@ di cui:
 ![](/images/lekt2502.webp)
 Fig.: ⟪मूलानि⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2502))
-:::⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): ungere, spalmare
+:::
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): ungere, spalmare
 
 :::indent
 Fut. ⟪लेप्स्यति⟫  
@@ -1188,7 +1244,8 @@ di cui:
 ![](/images/lekt2503.webp)
 Fig.: ⟪लिप्तिः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2503))
-:::⟪वर्ष⟫ n.,m.: pioggia, stagione delle piogge, anno
+:::
+⟪वर्ष⟫ n.,m.: pioggia, stagione delle piogge, anno
 
 ⟪वह्⟫ 1U ⟪वहति⟫ : condurre, guidare, soffiare (vento)
 
@@ -1208,13 +1265,15 @@ di cui:
 ![](/images/lekt2504.webp)
 Fig.: ⟪विवाहः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2504))
-:::⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : condurre via, istruire, educare
+:::
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : condurre via, istruire, educare
 
 :::indent
 di cui:
 
 ⟪विनय⟫ m.: allontanamento, educazione, disciplina, buddh.: disciplina monastica, diritto monastico
-:::⟪विज्ञान⟫ n.: conoscenza, cognizione
+:::
+⟪विज्ञान⟫ n.: conoscenza, cognizione
 
 ⟪विष्टि⟫ f.: lavoro, lavoro forzato
 
@@ -1222,7 +1281,8 @@ di cui:
 ![](/images/lekt2505.webp)
 Fig.: ⟪विष्टिः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2505))
-:::⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : crescere, diventare più grande
+:::
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : crescere, diventare più grande
 
 :::indent
 Fut. ⟪वर्धिष्यते⟫  
@@ -1233,7 +1293,8 @@ Inf. ⟪वर्धितुम्⟫
 davanti:
 
 ⟪वृद्धि⟫ f.: crescita, accrescimento, grado di dilatazione (da: vṛdh-ti)
-:::⟪सामर्थ्य⟫ n.: ciò che corrisponde allo scopo
+:::
+⟪सामर्थ्य⟫ n.: ciò che corrisponde allo scopo
 
 ⟪स्वभाव⟫ m.: essere, natura, carattere
 
@@ -1245,7 +1306,8 @@ davanti:
 ![](/images/lekt2506.webp)
 Fig.: ⟪हिरण्यम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2506))
-:::⟪अणु⟫ ⟪३⟫ : sottile, fine, molto piccolo ; m.: atomo
+:::
+⟪अणु⟫ ⟪३⟫ : sottile, fine, molto piccolo ; m.: atomo
 
 ⟪गोदान⟫ n.: dare mucche / una mucca ; seconda cerimonia di taglio dei capelli (un ⟪संस्कार⟫)
 
@@ -1256,18 +1318,21 @@ Fig.: ⟪हिरण्यम्⟫
 
 :::indent
 **Fut.:** ⟪वत्स्यति⟫:br**Pass.:** ⟪उष्यते⟫:br**PPP:** ⟪उषित⟫:br**Inf.:** ⟪वस्तुम्⟫
-:::di cui:
+:::
+di cui:
 
 ::::indent
 **⟪वस्तु⟫** n.: sede, luogo; realtà, cosa reale, realtà, oggetto
 
 :::indent
 **⟪वस्तुतस्⟫**: in realtà, realmente
-:::::::**⟪वस्⟫** 2Ā (⟪वस्ते⟫): indossare (vestiti), portare (vestiti)
+:::::::
+**⟪वस्⟫** 2Ā (⟪वस्ते⟫): indossare (vestiti), portare (vestiti)
 
 :::indent
 **Fut.:** ⟪वसिष्यते⟫:br**PPP:** ⟪वसित⟫:br**Inf.:** ⟪वसितुम्⟫
-:::di cui:
+:::
+di cui:
 
 :::indent
 **⟪वस्त्र⟫** n.: mezzo per indossare = vestito, abito, tessuto
@@ -1276,7 +1341,8 @@ Fig.: ⟪हिरण्यम्⟫
 Fig.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2706))
-:::**⟪वस्⟫** 6P (⟪उच्छति⟫): brillare (questa radice è importante per le formazioni nominali:)
+:::
+**⟪वस्⟫** 6P (⟪उच्छति⟫): brillare (questa radice è importante per le formazioni nominali:)
 
 :::indent
 **⟪वसु⟫** n.: ricchezza, tesoro, averi, proprietà
@@ -1287,15 +1353,18 @@ Vastrāṇi. Majuli, Assam.
 Fig.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2707))
-:::**⟪हृ⟫** 1U (⟪हरति⟫): tenere, portare; prendere, portare via, rubare
+:::
+**⟪हृ⟫** 1U (⟪हरति⟫): tenere, portare; prendere, portare via, rubare
 
 :::indent
 **Fut.:** ⟪हरिष्यति⟫:br**Pass.:** ⟪ह्रियते⟫:br**PPP:** ⟪हृत⟫:br**Inf.:** ⟪हर्तुम्⟫
-:::di cui:
+:::
+di cui:
 
 :::indent
 **⟪हर⟫** 3: che prende via; m.: il distruttore = epiteto di Śiva
-:::Controparte di **⟪हर⟫**:
+:::
+Controparte di **⟪हर⟫**:
 
 **⟪हरि⟫** 3: biondo, giallo, verde; m. epiteto di Viṣṇu (non appartiene alla radice ⟪हृ⟫ 1)
 
@@ -1311,7 +1380,8 @@ Harihara (a sinistra: Viṣṇu, a destra: Śiva).
 Fig.: ⟪हरिहरः⟫
 Harihara (a sinistra: Viṣṇu, a destra: Śiva). Godrumdwip, Bengala occidentale.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2705))
-:::## Lezione 28
+:::
+## Lezione 28
 
 :::indent
 **⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: sapere, conoscere
@@ -1362,14 +1432,16 @@ Inf. **coritum**
 Fig.: ⟪वीणां⟫ ⟪वादयति⟫
 Musicista di Vīṇā.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2803))
-:::**⟪भार⟫** m.: carico
+:::
+**⟪भार⟫** m.: carico
 
 :::media
 ![](/images/lekt2805.webp)
 Fig.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
 Ragazza che trasporta un carico. Vicino ad Ahmedabad.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2805))
-:::**⟪भृत्य⟫** m.: subordinato, servo
+:::
+**⟪भृत्य⟫** m.: subordinato, servo
 
 ---
 
@@ -1382,7 +1454,8 @@ Prefissi:
 ⟪उद्⟫° : su, in alto, verso l'alto, fuori, da, da-
 
 ⟪परि⟫° : intorno, attorno (luogo, tempo), d'intorno
-:::⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (diventare intorno a qualcuno = accerchiare =) dominare, sconfiggere; trascurare, disprezzare
+:::
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (diventare intorno a qualcuno = accerchiare =) dominare, sconfiggere; trascurare, disprezzare
 
 ⟪अवज्ञान⟫ n.: disprezzo
 
@@ -1398,7 +1471,8 @@ Pass. ⟪ग्रस्यते⟫
 Caus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
-:::⟪तीक्ष्ण⟫ 3: "selvaggio", aspro, tagliente, severo, violento, pungente
+:::
+⟪तीक्ष्ण⟫ 3: "selvaggio", aspro, tagliente, severo, violento, pungente
 
 ⟪न्याय⟫ m.: norma, regola, modo giusto e corretto; metodo, logica (da ⟪इ⟫ + ⟪नि⟫)
 
@@ -1409,7 +1483,8 @@ Inf. ⟪ग्रसितुम्⟫
 Fig.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫ [Fonte immagine: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accesso 2008-12-20. -- Licenza Creative Commons (Attribuzione, uso non commerciale, condividi allo stesso modo)]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2903))
-:::⟪पालयति⟫ : anche sinonimo di  ⟪पाति⟫
+:::
+⟪पालयति⟫ : anche sinonimo di  ⟪पाति⟫
 
 ⟪पुनर्⟫ Indec.: di nuovo, sempre di nuovo, indietro, ancora una volta; invece, ma (prima di suoni sonori eccetto r-: ⟪पुनर्⟫)
 
@@ -1424,7 +1499,8 @@ da ciò:
 ![](/images/lekt2901.webp)
 Fig.: ⟪मत्स्यः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2901))
-:::⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): gentile, mite, morbido; lento, debole
+:::
+⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): gentile, mite, morbido; lento, debole
 
 ⟪यथा⟫ Avv.: come, quasi
 
@@ -1436,7 +1512,8 @@ Pass. ⟪रम्यते⟫
 Caus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
-:::⟪वानप्रस्थ⟫ m.: eremita del bosco (qualcuno che si trova nel 3. ⟪आश्रम⟫)
+:::
+⟪वानप्रस्थ⟫ m.: eremita del bosco (qualcuno che si trova nel 3. ⟪आश्रम⟫)
 
 ⟪शुचि⟫ 3: lucente, splendente, fine; m.: purezza
 
@@ -1444,7 +1521,8 @@ Inf. ⟪रन्तुम्⟫
 
 :::indent
 PPP ⟪पूजित⟫
-:::## Lezione 30
+:::
+## Lezione 30
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : comprare
 
@@ -1453,7 +1531,8 @@ Fut. ⟪क्रेष्यति⟫
 Pass. ⟪क्रीयते⟫  
 PPP ⟪क्रीत⟫  
 Inf. ⟪क्रेतुम्⟫
-:::⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : vendere
+:::
+⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : vendere
 
 :::indent
 Assol. ⟪विक्रीय⟫
@@ -1462,7 +1541,8 @@ Assol. ⟪विक्रीय⟫
 Fig.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3001))
-:::⟪ज्ञा⟫ 9U ⟪जानाति⟫ : conoscere, riconoscere, sapere, comprendere
+:::
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : conoscere, riconoscere, sapere, comprendere
 
 :::indent
 Fut. ⟪ज्ञास्यति⟫  
@@ -1482,7 +1562,8 @@ di cui:
 Fig.: ⟪ज्ञातयः⟫
 Darewadi, Distretto di Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3002))
-:::⟪पू⟫ 9U ⟪पुनाति⟫ : purificare
+:::
+⟪पू⟫ 9U ⟪पुनाति⟫ : purificare
 
 :::indent
 Fut. ⟪पविष्यति⟫  
@@ -1494,7 +1575,8 @@ Inf. ⟪पवितुम्⟫
 ![](/images/lekt3003.webp)
 Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3003))
-:::⟪अश्⟫ 9P ⟪अश्नाति⟫ : mangiare, consumare
+:::
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : mangiare, consumare
 
 :::indent
 Fut. ⟪अशिष्यति⟫  
@@ -1507,23 +1589,27 @@ Inf. ⟪अशितुम्⟫
 Fig.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, Sud dell'India
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3005))
-:::⟪प्रिय⟫ ⟪३⟫: amabile, amante, amichevole
+:::
+⟪प्रिय⟫ ⟪३⟫: amabile, amante, amichevole
 
 :::media
 ![](/images/lekt3004.webp)
 Fig.: ⟪प्रिया⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3004))
-:::⟪चेत्⟫ Congiunzione: se; a patto che (non sta mai all'inizio di una frase)
+:::
+⟪चेत्⟫ Congiunzione: se; a patto che (non sta mai all'inizio di una frase)
 
 :::indent
 ⟪न⟫ ⟪चेत्⟫ : se non
-:::⟪यदि⟫ Congiunzione: se
+:::
+⟪यदि⟫ Congiunzione: se
 
 :::indent
 ⟪यद्यपि⟫ : sebbene, anche se, quantunque
 
 ⟪यद्येवम्⟫ : se è così, in queste circostanze
-:::⟪पुनर्⟫ : di nuovo, sempre di nuovo, indietro, ancora una volta, invece, ma
+:::
+⟪पुनर्⟫ : di nuovo, sempre di nuovo, indietro, ancora una volta, invece, ma
 
 :::indent
 ⟪पुनः⟫ ⟪पुनर्⟫ : sempre di nuovo
@@ -1535,7 +1621,8 @@ di cui:
 ![](/images/lekt2904.webp)
 Fig.: ⟪पुनर्भवः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2904))
-:::⟪जीव्⟫ 1P ⟪जीवति⟫ : vivere
+:::
+⟪जीव्⟫ 1P ⟪जीवति⟫ : vivere
 
 :::indent
 Fut. ⟪जीविष्यति⟫  
@@ -1547,7 +1634,8 @@ Inf. ⟪जीवितुम्⟫
 di cui:
 
 ⟪जीव⟫ m./n.: vita, anima individuale
-:::⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : eterno, imperituro, stabile
+:::
+⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : eterno, imperituro, stabile
 
 
 ## Lezione 32
@@ -1567,7 +1655,8 @@ di cui:
 ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
 -⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
-:::**⟪पार्श्व⟫**
+:::
+**⟪पार्श्व⟫**
 
 **⟪चूत⟫**
 
@@ -1576,7 +1665,8 @@ di cui:
 Fig.: ⟪चूतः⟫
 Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3202))
-:::**⟪तरु⟫** **⟪वृक्ष⟫**
+:::
+**⟪तरु⟫** **⟪वृक्ष⟫**
 
 **⟪पचेलिम⟫**
 
@@ -1592,7 +1682,8 @@ Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 ⟪रूढ⟫:br
 -⟪रुह्य⟫:br
 ⟪रोढुम्⟫
-:::**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+:::
+**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 :::indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
@@ -1600,21 +1691,24 @@ Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 ⟪गृहीत⟫:br
 -⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
-:::**⟪वानर⟫ ⟪कपि⟫**
+:::
+**⟪वानर⟫ ⟪कपि⟫**
 
 :::media
 ![](/images/lekt3203.webp)
 Fig.: ⟪वानराः⟫
 Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3203))
-:::**⟪लोक्⟫ ⟪लोकयति⟫**
+:::
+**⟪लोक्⟫ ⟪लोकयति⟫**
 :::indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
 -⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
-:::**⟪प्रहर्ष⟫**
+:::
+**⟪प्रहर्ष⟫**
 
 **⟪कति⟫**
 
@@ -1625,14 +1719,16 @@ Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 Fig.: ⟪उपलाः⟫
 Cava di pietra a sud di Pune, Maharashtra. [Fonte immagine: lecercle / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3204))
-:::**⟪लक्ष्य⟫**
+:::
+**⟪लक्ष्य⟫**
 
 :::media
 ![](/images/lekt3205.webp)
 Fig.: ⟪लक्ष्यम्⟫
 Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlogelin / Flickr. CC BY-NC]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3205))
-:::**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+:::
+**⟪क्षिप्⟫ ⟪क्षिपति⟫**
 :::indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
@@ -1640,7 +1736,8 @@ Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlo
 ⟪क्षिप्त⟫:br
 -⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
-:::**⟪चि⟫ ⟪चिनोति⟫**
+:::
+**⟪चि⟫ ⟪चिनोति⟫**
 :::indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
@@ -1653,7 +1750,8 @@ Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlo
 Fig.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine: thebigdurian / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3207))
-:::**⟪चि⟫ ⟪अव⟫**
+:::
+**⟪चि⟫ ⟪अव⟫**
 
 **⟪प्रति⟫**
 
@@ -1666,7 +1764,8 @@ Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine
 Fig.: ⟪कौशलम्⟫
 Pittura di mehndi sulle mani a Mumbai. [Fonte immagine: the_gman / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3206))
-:::## Lezione 33
+:::
+## Lezione 33
 
 **⟪दा⟫** 3U **⟪ददाति⟫**: dare
 
@@ -1684,7 +1783,8 @@ di cui:
 ![](/images/lekt3306.webp)
 Fig.: ⟪दानम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3306))
-:::**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (in ricezione) prendere, prendere in possesso, portare via
+:::
+**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (in ricezione) prendere, prendere in possesso, portare via
 
 :::indent
 **Assol.** ⟪आदाय⟫: con Acc.: in compagnia di, con
@@ -1692,7 +1792,8 @@ Fig.: ⟪दानम्⟫
 ![](/images/lekt3307.webp)
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3307))
-:::***⟪धा⟫*** 3U ***⟪दधाति⟫***: porre, stabilire, assegnare
+:::
+***⟪धा⟫*** 3U ***⟪दधाति⟫***: porre, stabilire, assegnare
 
 :::indent
 **Fut.** ***⟪धास्यति⟫***  
@@ -1700,7 +1801,8 @@ Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **Kaus.** ***⟪धापयति⟫***  
 **PPP** ***⟪हित⟫*** (!!)  
 **Inf.** ***⟪धातुम्⟫***
-:::**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: concentrare tutta l'attenzione su qualcosa, raccogliersi
+:::
+**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: concentrare tutta l'attenzione su qualcosa, raccogliersi
 
 :::indent
 di cui:
@@ -1710,7 +1812,8 @@ di cui:
 ![](/images/lekt3305.webp)
 Fig.: ⟪समाधि⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3305))
-:::**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: riempire, soddisfare
+:::
+**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: riempire, soddisfare
 
 :::indent
 Nota:
@@ -1723,7 +1826,8 @@ Nota:
 **Pass.** ⟪पूर्यते⟫  
 **Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
 **PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
-:::**⟪पॄ⟫** + **⟪सम्⟫** solo **Pass.** ⟪सम्पूर्यते⟫ e **Kaus.** : riempire completamente
+:::
+**⟪पॄ⟫** + **⟪सम्⟫** solo **Pass.** ⟪सम्पूर्यते⟫ e **Kaus.** : riempire completamente
 
 **⟪भी⟫** 3P **⟪बिभेति⟫**: temere, aver paura di (Abl., Gen.)
 
@@ -1741,7 +1845,8 @@ di cui:
 ![](/images/lekt3304.webp)
 Fig.: ⟪भयम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3304))
-:::**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: portare, recare; mantenere, nutrire
+:::
+**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: portare, recare; mantenere, nutrire
 
 :::indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -1753,7 +1858,8 @@ Fig.: ⟪भयम्⟫
 di cui:
 
 **⟪भार⟫** m.: carico
-:::**⟪मा⟫** 3Ā **⟪मिमीते⟫**: misurare
+:::
+**⟪मा⟫** 3Ā **⟪मिमीते⟫**: misurare
 
 :::indent
 **Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
@@ -1761,7 +1867,8 @@ di cui:
 **Kaus.** ⟪मापयति⟫  
 **PPP** ⟪मित⟫  
 **Inf.** ⟪मातुम्⟫
-:::**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: confrontare
+:::
+**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: confrontare
 
 :::indent
 di cui:
@@ -1769,7 +1876,8 @@ di cui:
 **⟪उपमा⟫** f.: confronto
 
 **⟪प्रतिमा⟫** f.: immagine
-:::**⟪हा⟫** 3P **⟪जहाति⟫**: lasciare
+:::
+**⟪हा⟫** 3P **⟪जहाति⟫**: lasciare
 
 :::indent
 **Fut.** ⟪हास्यति⟫  
@@ -1784,7 +1892,8 @@ da PPP **⟪हीन⟫**:
 ![](/images/lekt3303.webp)
 Fig.: ⟪हीनयानमेव⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3303))
-:::**⟪हु⟫** 3P **⟪जुहोति⟫**: versare nel fuoco (come offerta, specialmente burro fuso)
+:::
+**⟪हु⟫** 3P **⟪जुहोति⟫**: versare nel fuoco (come offerta, specialmente burro fuso)
 
 :::indent
 **Fut.** ⟪होष्यति⟫  
@@ -1797,13 +1906,16 @@ Fig.: ⟪हीनयानमेव⟫
 Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3302))
 
-:::**⟪घृत⟫** n.: Burro chiarificato, ghee (⟪घी⟫ / گھی / ঘী)
+:::
+**⟪घृत⟫** n.: Burro chiarificato, ghee (⟪घी⟫ / گھی / ঘী)
 
-:::note-box
+:::
+note-box
 "Il ghee si ottiene cuocendo a fuoco lento burro non salato in una pentola capiente finché tutta l'acqua non è evaporata e le proteine non si sono depositate sul fondo. Il burro cotto e chiarificato viene poi rimosso con un cucchiaio per evitare di disturbare i solidi del latte sul fondo della padella. A differenza del burro, il ghee può essere conservato per periodi prolungati senza refrigerazione, purché sia conservato in un contenitore ermetico per prevenire l'ossidazione e rimanga privo di umidità. La consistenza, il colore o il gusto del ghee dipendono dalla fonte del latte da cui è stato prodotto il burro. In India, il ghee è solitamente prodotto con latte di bufala, poiché tende ad essere più bianco del latte di mucca."
 
 [Sorgente: http://en.wikipedia.org/wiki/Ghee. -- Accesso il 2008-12-26]
-:::## Lezione 34
+:::
+## Lezione 34
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -1814,7 +1926,8 @@ Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 Fig.: ⟪सस्यम्⟫
 Campo di riso in India.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3406))
-:::**⟪यावत्⟫ :** quanto a lungo, quanto grande
+:::
+**⟪यावत्⟫ :** quanto a lungo, quanto grande
 
 **⟪तावत्⟫ :** tanto a lungo, tanto grande
 
@@ -1827,7 +1940,8 @@ Campo di riso in India.
 Fig.: ⟪लक्षद्वीपाः⟫
 Mappa delle Isole Lakshadweep.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3405))
-:::**⟪मर्त्य⟫ 3:** mortale (da **⟪मृ⟫**)
+:::
+**⟪मर्त्य⟫ 3:** mortale (da **⟪मृ⟫**)
 
 **⟪तिल⟫ m.:** sesamo (*Sesamum indicum* L.)
 
@@ -1841,14 +1955,16 @@ Semi di sesamo.
 Fig.: *Sesamum indicum* L.
 Fioritura della pianta del sesamo.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3404))
-:::**⟪स्वर्ण⟫ n.:** (di bel colore =) oro
+:::
+**⟪स्वर्ण⟫ n.:** (di bel colore =) oro
 
 :::media
 ![](/images/lekt3402.webp)
 Fig.: ⟪स्वर्णम्⟫
 Tempio d'Oro (Harmandir Sahib), Amritsar.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3402))
-:::**⟪निकेतन⟫ n.:** dimora, tempio
+:::
+**⟪निकेतन⟫ n.:** dimora, tempio
 
 **⟪कोटि⟫ f.:** punta; 10 milioni
 
@@ -1863,7 +1979,8 @@ Tempio d'Oro (Harmandir Sahib), Amritsar.
 Fig.: ⟪ऋषभः⟫
 Statua del toro Nandi, Colline di Chamundi, Mysore.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3401))
-:::**⟪यम्⟫ 1P ⟪यच्छति⟫ :** trattenere, tenere, offrire, concedere
+:::
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** trattenere, tenere, offrire, concedere
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** porgerla, offrire, consegnare
 
@@ -1880,7 +1997,8 @@ Statua del toro Nandi, Colline di Chamundi, Mysore.
 **Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
 **Caus. ⟪नाशयति⟫**:br
 **PPP ⟪नष्ट⟫**
-:::**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : scomparire, perdersi, andare perduto
+:::
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : scomparire, perdersi, andare perduto
 
 **⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : procedere, andare
 :::indent
@@ -1896,7 +2014,8 @@ Statua del toro Nandi, Colline di Chamundi, Mysore.
 Fig.: ⟪क्रामन्ति⟫
 Persone che camminano, Senegal. [Fonte immagine: Curt Carnemark / World Bank. CC BY-NC-ND]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3502))
-:::**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): cantare, recitare in tono cantilenante, annunziare in discorso poetico
+:::
+**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): cantare, recitare in tono cantilenante, annunziare in discorso poetico
 :::indent
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
 **Fut. ⟪गास्यति⟫**:br
@@ -1912,7 +2031,8 @@ da ciò:
 Fig.: ⟪जगुः⟫
 Musicisti del tempio Kaadu Malleswara Temple Bangalore. [Fonte immagine: Samuelraj / Flickr. CC BY-NC]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3501))
-:::## Lezione 36
+:::
+## Lezione 36
 
 ⟪अह्⟫ P solo perfetto con significato presente ⟪आह⟫, ⟪आहुर्⟫ : dire, parlare
 
@@ -1927,7 +2047,8 @@ Pass. ⟪ईक्ष्यते⟫
 Kaus. ⟪ईक्षयति⟫  
 PPP ⟪ईक्षित⟫  
 Inf. ⟪ईक्षितुम्⟫
-:::⟪चि⟫ 5U ⟪चिनोति⟫ : accumulare, raccogliere
+:::
+⟪चि⟫ 5U ⟪चिनोति⟫ : accumulare, raccogliere
 
 :::indent
 Perf. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
@@ -1940,7 +2061,8 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3601))
-:::⟪व्रज्⟫ 1P ⟪व्रजति⟫ : procedere, andare, andarsene
+:::
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : procedere, andare, andarsene
 
 :::indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -1949,7 +2071,8 @@ Pass. ⟪व्रज्यते⟫
 Kaus. ⟪व्राजयति⟫  
 PPP ⟪व्रजित⟫  
 Inf. ⟪व्रजितुम्⟫
-:::⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : andarsene (in particolare dalla casa verso l'irrealtà come asceta = diventare un monaco)
+:::
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : andarsene (in particolare dalla casa verso l'irrealtà come asceta = diventare un monaco)
 
 ⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: casa, focolare
 
@@ -1965,7 +2088,8 @@ da ciò:
 ![](/images/lekt3603.webp)
 Fig.: ⟪अनगार्यम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3603))
-:::⟪अञ्जलि⟫ m.: Le due mani unite in alto per mostrare rispetto
+:::
+⟪अञ्जलि⟫ m.: Le due mani unite in alto per mostrare rispetto
 
 ⟪आदृत⟫ 3: stimato
 
@@ -1977,7 +2101,8 @@ Fig.: ⟪अनगार्यम्⟫
 
 :::indent
 ⟪पृष्ठम्⟫ : dietro
-:::⟪प्रजापति⟫ m.: signore delle creature, dio creatore
+:::
+⟪प्रजापति⟫ m.: signore delle creature, dio creatore
 
 ⟪अनु⟫ prefisso: dopo, lungo, sopra - attraverso, lungo, secondo, aggiungere, dietro - attraverso
 
@@ -1987,7 +2112,8 @@ ad esempio
 ⟪अनुकृ⟫ : imitare, fare come
 
 ⟪अनुगम्⟫ : seguire qualcuno, andare lungo
-:::⟪अभि⟫ : -, dopo - attraverso, verso - attraverso, verso - attraverso, contro, in - dentro, in relazione a, su, sopra, a
+:::
+⟪अभि⟫ : -, dopo - attraverso, verso - attraverso, verso - attraverso, contro, in - dentro, in relazione a, su, sopra, a
 
 :::indent
 ad esempio
@@ -1995,7 +2121,8 @@ ad esempio
 ⟪अभिगम्⟫ : andare verso, avvicinarsi
 
 ⟪वद्⟫ + ⟪अभि⟫ Causativo Ā ⟪अभिवादयते⟫ : salutare formalmente, rivolgere la parola
-:::⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : provare avversione, svanire
+:::
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : provare avversione, svanire
 
 :::indent
 Perf. IV ⟪जग्लौ⟫  
@@ -2005,7 +2132,8 @@ Kaus. ⟪ग्लापयति⟫ ⟪।⟫ ⟪ग्लपयति⟫
 PPP ⟪ग्लान⟫  
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
-:::⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : sentire odore di qualcosa
+:::
+⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : sentire odore di qualcosa
 
 :::indent
 Perf. IV ⟪जघ्रौ⟫  
@@ -2015,7 +2143,8 @@ Kaus. ⟪घ्रापयति⟫
 PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫  
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
-:::⟪प्री⟫ 9U ⟪प्रीणति⟫ : divertire, rallegrare; amare, essere favorevole a qualcuno
+:::
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : divertire, rallegrare; amare, essere favorevole a qualcuno
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : rallegrarsi
 
@@ -2026,7 +2155,8 @@ Pass. ⟪प्रीयते⟫
 Kaus. ***⟪प्रीणयति⟫***  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
-:::⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : toccare
+:::
+⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : toccare
 
 :::indent
 Perf IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
@@ -2040,7 +2170,8 @@ Absol. -⟪स्पृश्य⟫
 ![](/images/lekt3606.webp)
 Fig.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3606))
-:::⟪हृष्⟫ 4P ⟪हृष्यति⟫ : irrigidirsi: drizzarsi (capelli), rallegrarsi per (istr., acc., loc.)
+:::
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : irrigidirsi: drizzarsi (capelli), rallegrarsi per (istr., acc., loc.)
 
 :::indent
 Perf II ⟪जहर्ष⟫  
@@ -2052,7 +2183,8 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3604))
-:::⟪स्वक⟫ 3: proprio (mio, tuo ...) ; m.: membro
+:::
+⟪स्वक⟫ 3: proprio (mio, tuo ...) ; m.: membro
 
 
 ## Lezione 37
@@ -2067,7 +2199,8 @@ Fig.: ⟪लोमहर्षः⟫
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Fig.: ⟪शाक्यमुनिः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3705))
-:::⟪दिन⟫ n.: Giorno
+:::
+⟪दिन⟫ n.: Giorno
 
 ⟪वृक्ष⟫ m.: Albero
 
@@ -2075,7 +2208,8 @@ Fig.: ⟪शाक्यमुनिः⟫
 ![lekt3706.jpg](/images/lekt3706.webp)
 Fig.: ⟪वृक्षः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3706))
-:::⟪मुख⟫ n.: Bocca, volto, parte anteriore, inizio
+:::
+⟪मुख⟫ n.: Bocca, volto, parte anteriore, inizio
 
 
 ## Lezione 38
@@ -2086,13 +2220,15 @@ Fig.: ⟪वृक्षः⟫
 ![](/images/lekt3802.webp)
 Fig.: ⟪सूर्यः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3802))
-:::⟪उदक⟫ n.: Acqua
+:::
+⟪उदक⟫ n.: Acqua
 
 :::media
 ![](/images/lekt3805.webp)
 Fig.: ⟪उदकम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3805))
-:::⟪वा⟫ 2P ⟪वाति⟫ : soffiare, gonfiare
+:::
+⟪वा⟫ 2P ⟪वाति⟫ : soffiare, gonfiare
 
 :::indent
 Fut. ⟪वास्यति⟫
@@ -2105,7 +2241,8 @@ Inf. ⟪वातुम्⟫
 da ciò:
 
 ⟪वात⟫ m.: Vento
-:::⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : soffiare, disperare, spegnersi
+:::
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : soffiare, disperare, spegnersi
 
 :::indent
 da ciò:
@@ -2117,7 +2254,8 @@ da ciò:
 ![](/images/lekt3804.webp)
 Fig.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3804))
-:::⟪मिह्⟫ 1P ⟪मेहति⟫ : urinare, pisciare, eiaculare
+:::
+⟪मिह्⟫ 1P ⟪मेहति⟫ : urinare, pisciare, eiaculare
 
 :::indent
 Fut. ⟪मेक्ष्यति⟫
@@ -2129,7 +2267,8 @@ PPP ⟪मीढ⟫
 da ciò:
 
 ⟪मेघ⟫ m.: Nuvola ("colui che urina")
-:::⟪सुत⟫ m.: Figlio
+:::
+⟪सुत⟫ m.: Figlio
 
 ⟪राजन्⟫ m.: Re (per il regno in India vedi Basham, Meraviglie pagg. 82 -94). Come componente finale di un composto (soprattutto ⟪तत्पुरुष⟫) di solito: -⟪राज⟫ m. (come ⟪देव⟫)
 
@@ -2141,7 +2280,8 @@ Femminile:
 da ⟪राज⟫ :
 
 ⟪राज्य⟫ 3: regio; n. Regno, reame, dominio
-:::⟪नामन्⟫ n.: Nome
+:::
+⟪नामन्⟫ n.: Nome
 
 ⟪सीमन्⟫ f.: Confine
 
@@ -2155,11 +2295,13 @@ da ⟪राज⟫ :
 ![](/images/lekt3809.webp)
 Fig.: ⟪ब्रह्मा⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3809))
-:::⟪कर्मन्⟫ n. a ⟪कृ⟫ 8U: azione, fatto, opera; opera sacra, azione sacrificale; Karma: l'azione precedente che più tardi ne porta i frutti (ad esempio nella rinascita) 
+:::
+⟪कर्मन्⟫ n. a ⟪कृ⟫ 8U: azione, fatto, opera; opera sacra, azione sacrificale; Karma: l'azione precedente che più tardi ne porta i frutti (ad esempio nella rinascita) 
 
 :::indent
 ⟪कर्मविपाक⟫ m.: Maturazione delle azioni = le conseguenze buone e cattive delle azioni nelle esistenze precedenti (a ⟪वि⟫-⟪पच्⟫)
-:::⟪हस्तिन्⟫ m.: Elefante (_Elephas maximus_)
+:::
+⟪हस्तिन्⟫ m.: Elefante (_Elephas maximus_)
 
 ⟪मनु⟫ m.: Uomo, uomo; nome del padre della specie umana (a ⟪मन्⟫ 4Ā)
 
@@ -2167,7 +2309,8 @@ Fig.: ⟪ब्रह्मा⟫
 da ciò:
 
 ⟪मनुष्य⟫ m.: Uomo
-:::⟪शुच्⟫ 1P ⟪शोचति⟫ : (fiammeggiare, brillare); piangere, compiangere
+:::
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (fiammeggiare, brillare); piangere, compiangere
 
 :::indent
 Perf. II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
@@ -2192,7 +2335,8 @@ Fig.: ⟪अशोकवृक्षः⟫
 ![](/images/lekt3811.webp)
 Fig.: ⟪अशोकसाम्राज्यम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3811))
-:::## Lezione 40
+:::
+## Lezione 40
 
 ⟪पात्र⟫ n.: Venerabile, Maestro, Degno
 
@@ -2212,13 +2356,15 @@ Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्�
 da ciò:
 
 ⟪कल्पना⟫ f.: La formazione nel pensiero, assunzione di qualcosa di non esistente nella realtà, finzione
-:::⟪कॢप्⟫ + ⟪वि⟫ Caus. ⟪विकल्पयति⟫ : (immaginarsi in modo diverso =) mettere in discussione, dubitare
+:::
+⟪कॢप्⟫ + ⟪वि⟫ Caus. ⟪विकल्पयति⟫ : (immaginarsi in modo diverso =) mettere in discussione, dubitare
 
 :::indent
 da ciò:
 
 ⟪विक्ल्प⟫ m.: Alternativa, dubbio
-:::⟪तुद्⟫ 6U ⟪तुदति⟫ : colpire
+:::
+⟪तुद्⟫ 6U ⟪तुदति⟫ : colpire
 
 :::indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -2227,7 +2373,8 @@ Pass. ⟪तुद्यते⟫
 Caus. ⟪तोदयति⟫  
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
-:::⟪तॄ⟫ 1P ⟪तरति⟫ : attraversare, oltrepassare, salvarsi da qualcuno (Acc. = oltrepassare qualcuno)
+:::
+⟪तॄ⟫ 1P ⟪तरति⟫ : attraversare, oltrepassare, salvarsi da qualcuno (Acc. = oltrepassare qualcuno)
 
 :::indent
 Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
@@ -2250,7 +2397,8 @@ Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 ![lekt4002.jpg](/images/lekt4002.webp)
 Fig.: ⟪तीर्थङ्करः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4002))
-:::⟪अव⟫ Prefisso: giù, verso il basso, via, via-
+:::
+⟪अव⟫ Prefisso: giù, verso il basso, via, via-
 
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : scendere
 
@@ -2262,7 +2410,8 @@ da ciò:
 ![lekt4001.jpg](/images/lekt4001.webp)
 Fig.: ⟪विष्णोर्दशावताराः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4001))
-:::⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : dormire, sdraiarsi per dormire
+:::
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : dormire, sdraiarsi per dormire
 
 :::indent
 Imperf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
@@ -2282,7 +2431,8 @@ da ciò:
 ![lekt4004.jpg](/images/lekt4004.webp)
 Fig.: ⟪स्वपन्ति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4004))
-:::## Lezione 41
+:::
+## Lezione 41
 
 ⟪मूर्ख⟫ m = ⟪मूढ⟫
 
@@ -2292,7 +2442,8 @@ Fig.: ⟪स्वपन्ति⟫
 ![lekt4105.jpg](/images/lekt4105.webp)
 Fig.: ⟪भुजङ्गः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4105))
-:::⟪केवलम्⟫ Avv.: solo, soltanto, completamente
+:::
+⟪केवलम्⟫ Avv.: solo, soltanto, completamente
 
 ⟪विष⟫ n.: veleno
 
@@ -2300,7 +2451,8 @@ Fig.: ⟪भुजङ्गः⟫
 ![lekt4104.jpg](/images/lekt4104.webp)
 Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4104))
-:::⟪शास्⟫ 2P ⟪शास्ति⟫ : rimproverare, dominare, ordinare, insegnare
+:::
+⟪शास्⟫ 2P ⟪शास्ति⟫ : rimproverare, dominare, ordinare, insegnare
 
 :::indent
 ha la debole radice del presente **⟪शिष्⟫** : **⟪शिष्मस्⟫**, la 3.Pl. P. ha però radice forte: **⟪शासति⟫** (!! desinenza -ati) accanto a occasionale **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. Anche l'intero ⟪आत्मनेपद⟫ ha, per quanto attesta l'uso, la radice forte: **⟪शास्ते⟫**
@@ -2329,7 +2481,8 @@ Fig.: ⟪शास्त्री⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4110))
 ::::::indent
 **⟪शिष्य⟫** 3: da istruire = discepolo
-:::⟪शरण⟫ 3: protettivo, schermante; n. protezione, rifugio, il rifugiarsi
+:::
+⟪शरण⟫ 3: protettivo, schermante; n. protezione, rifugio, il rifugiarsi
 
 ⟪सङ्घ⟫ n.: (a ⟪सम्⟫-⟪हन्⟫ : battere insieme): schiera, branco, comunità (ad es. buddhista)
 
@@ -2337,7 +2490,8 @@ Fig.: ⟪शास्त्री⟫
 cfr. inoltre:
 
 **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::⟪कन्या⟫ f.: giovane ragazza, figlia, vergine
+:::
+⟪कन्या⟫ f.: giovane ragazza, figlia, vergine
 
 ⟪अति⟫ Prefisso: sopra, oltre, in avanti (nello spazio, nel tempo, in numero, in quantità, nell'ordine, in potenza, in intensità), estremamente
 
@@ -2345,7 +2499,8 @@ cfr. inoltre:
 
 :::indent
 PPP **⟪अतीत⟫** : n. passato
-:::## Lezione 42
+:::
+## Lezione 42
 
 ⟪प्रकृति⟫ f.: (da ⟪कृ⟫ + ⟪प्र⟫) forma fondamentale, stato naturale, natura; materia primordiale, sostanza primordiale
 
@@ -2355,7 +2510,8 @@ PPP **⟪अतीत⟫** : n. passato
 
 :::indent
 PPP ⟪अवस्थित⟫ 3: in piedi, esistente
-:::⟪पुरा⟫ Avv.: un tempo, in passato
+:::
+⟪पुरा⟫ Avv.: un tempo, in passato
 
 ⟪अनेक⟫ 3: molti (non alcuni)
 
@@ -2383,7 +2539,8 @@ Caus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫
 PPP ⟪चलित⟫  
 Assol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
-:::⟪अधिपति⟫ m. = ⟪राजन्⟫
+:::
+⟪अधिपति⟫ m. = ⟪राजन्⟫
 
 ⟪आटोप⟫ m.: vanità, orgoglio
 
@@ -2409,7 +2566,8 @@ Caus. ⟪शंसयति⟫
 PPP ⟪शस्त⟫  
 Assol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
-:::⟪हृदय⟫ n.: cuore
+:::
+⟪हृदय⟫ n.: cuore
 
 ### 42.2.1. Alcune denominazioni di parentela
 
@@ -2417,7 +2575,8 @@ Inf. ⟪शंसितुम्⟫
 ![lekt4202.jpg](/images/lekt4202.webp)
 Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4202))
-:::⟪भर्तृ⟫ m. (da ⟪भृ⟫ "portare, sostenere"): Sostenitore, Nutritore, Sposo
+:::
+⟪भर्तृ⟫ m. (da ⟪भृ⟫ "portare, sostenere"): Sostenitore, Nutritore, Sposo
 
 ⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Moglie (⟪भार्या⟫ = gerundivo di ⟪भृ⟫ : da portare, da sostenere, avente diritto al sostentamento)
 
@@ -2479,7 +2638,8 @@ Si compiono riti per entrambi, detti ⟪श्राद्ध⟫ n. Ogni giorno 
 ![](/images/lekt4302.webp)
 Fig.: ⟪आपणः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4302))
-:::⟪सत्वर⟫ 3: veloce, affrettato
+:::
+⟪सत्वर⟫ 3: veloce, affrettato
 
 ⟪पण्य⟫ 3: vendibile; n.: merce, commercio
 
@@ -2487,7 +2647,8 @@ Fig.: ⟪आपणः⟫
 ![]/images/lekt4303.webp
 Fig.: ⟪पण्यानि⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4303))
-:::⟪आम्⟫ : sì
+:::
+⟪आम्⟫ : sì
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -2509,13 +2670,15 @@ Fig.: ⟪पण्यानि⟫
 ![](/images/lekt4304.webp)
 Fig.: ⟪विपणिः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4304))
-:::⟪वणिज्⟫ m.: mercante
+:::
+⟪वणिज्⟫ m.: mercante
 
 :::media
 ![](/images/lekt4305.webp)
 Fig.: ⟪वणिक्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4305))
-:::⟪वर⟫ 3: migliore
+:::
+⟪वर⟫ 3: migliore
 
 ⟪शीघ्र⟫ 3: veloce, rapido
 
@@ -2525,7 +2688,8 @@ Fig.: ⟪वणिक्⟫
 ![](/images/lekt4306.webp)
 Fig.: ⟪वत्सः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4306))
-:::⟪उत्तम⟫ 3: supremo, migliore
+:::
+⟪उत्तम⟫ 3: supremo, migliore
 
 ⟪अल्प⟫ 3: piccolo, minimo
 
@@ -2545,7 +2709,8 @@ Fig.: ⟪वत्सः⟫
 ![](/images/lekt4307.webp)
 Fig.: ⟪तोलयति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4307))
-:::⟪तोलन्ति⟫ n.: carta
+:::
+⟪तोलन्ति⟫ n.: carta
 
 ⟪कर्गल⟫ m.: scatola (qui: pacco, fascio)
 
@@ -2565,7 +2730,8 @@ Caus. ⟪द्रूयते⟫
 PPP ⟪द्रावयति⟫  
 Assol. -⟪द्रुत⟫  
 Inf. ⟪द्रुत्य⟫
-:::⟪द्रोतुम्⟫ Interiezione: Ehi! Tu laggiù!
+:::
+⟪द्रोतुम्⟫ Interiezione: Ehi! Tu laggiù!
 
 ⟪रे⟫ 3: un altro (declinazione come ⟪अन्यद्⟫ )
 
@@ -2594,7 +2760,8 @@ ad esempio
 **⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : rispondere = rispondere
 
 **⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : respingere, disprezzare
-:::⟪या⟫ 2P ⟪याति⟫ : andare, viaggiare
+:::
+⟪या⟫ 2P ⟪याति⟫ : andare, viaggiare
 
 :::indent
 Perf. IV ⟪ययौ⟫  
@@ -2611,7 +2778,8 @@ di cui:
 ![](/images/lekt4403.webp)
 Fig.: ⟪रेल्यानम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4403))
-:::**⟪शी⟫** 2Ā ⟪शेते⟫ : giacere. Questa radice ha in tutte le forme del tema presente **grado alto:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). Le seguenti forme sono particolarmente da notare: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
+:::
+**⟪शी⟫** 2Ā ⟪शेते⟫ : giacere. Questa radice ha in tutte le forme del tema presente **grado alto:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). Le seguenti forme sono particolarmente da notare: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
 
 :::indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -2627,7 +2795,8 @@ di cui:
 ![](/images/lekt4404.webp)
 Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4404))
-:::⟪नन्द्⟫ 1P ⟪नन्दति⟫ : rallegrarsi di (⟪तृतीयया⟫)
+:::
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : rallegrarsi di (⟪तृतीयया⟫)
 
 :::indent
 Perf. I ⟪ननन्द⟫  
@@ -2646,7 +2815,8 @@ di cui:
 ![](/images/lekt4405.webp)
 Fig.: ⟪नन्दी⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4405))
-:::⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : avere la propria gioia in (⟪द्वितीयया⟫), salutare con gioia qualcuno, dare il benvenuto
+:::
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : avere la propria gioia in (⟪द्वितीयया⟫), salutare con gioia qualcuno, dare il benvenuto
 
 **⟪यम्⟫** 1P ***⟪यच्छति⟫*** : tenere, portare; offrire, concedere; tenere insieme, domare, frenare, sottomettere
 
@@ -2658,7 +2828,8 @@ Kaus. ⟪यामयति⟫ ma: ⟪नि⟫***⟪यम⟫***⟪यति⟫
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Assol. -⟪यम्य⟫
-:::**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : allungare, stendere
+:::
+**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : allungare, stendere
 
 :::indent
 PPP ⟪आयत⟫ 3: disteso a lungo
@@ -2666,7 +2837,8 @@ PPP ⟪आयत⟫ 3: disteso a lungo
 ![](/images/lekt4406.webp)
 Fig.: ⟪आयतो⟫ ⟪मरुः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4406))
-:::⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : offrire, presentare, consegnare
+:::
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : offrire, presentare, consegnare
 
 ⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : legare insieme, legare, domare
 
@@ -2687,7 +2859,8 @@ di cui:
 ![](/images/lekt4407.webp)
 Fig.: ⟪यत्नेन⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4407))
-:::**⟪रभ्⟫** 1Ā ⟪रभते⟫ (forma alternativa a ⟪लभ्⟫): afferrare
+:::
+**⟪रभ्⟫** 1Ā ⟪रभते⟫ (forma alternativa a ⟪लभ्⟫): afferrare
 
 :::indent
 Perf. Vb ⟪रेभे⟫  
@@ -2697,7 +2870,8 @@ Kaus. ***⟪रम्भ⟫***⟪यति⟫
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Assol. -⟪रभ्य⟫
-:::⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : toccare, iniziare, intraprendere
+:::
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : toccare, iniziare, intraprendere
 
 ⟪प्रव्रज्या⟫ f. (a ⟪प्र⟫-⟪व्रज्⟫): l'andare via dalla casa verso l'essere senza casa; cerimonia con cui si diventa novizio buddhista (Pali: ⟪पब्बजा⟫)
 
@@ -2710,7 +2884,8 @@ Vedere:
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4408))
-:::## Lezione 45
+:::
+## Lezione 45
 
 ⟪वा⟫ ... ⟪वा⟫ : oppure ... oppure
 
@@ -2725,7 +2900,8 @@ Derivati:
 ⟪समता⟫ f.: equanimità
 ⟪विषम⟫ 3: disuguale, irregolare, maligno
 
-:::⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : afferrare, agguantare, prendere
+:::
+⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : afferrare, agguantare, prendere
 
 :::indent
 Perfetto Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
@@ -2748,7 +2924,8 @@ Derivati:
 8.  ⟪राहुः⟫
 9.  ⟪केतुः⟫
 
-:::Per ⟪राहु⟫ e ⟪केतु⟫ vedere:
+:::
+Per ⟪राहु⟫ e ⟪केतु⟫ vedere:
 
 > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Introduzione e panoramica. -- 10. Sacramenti e riti di passaggio (samskara). -- Appendice C: Rahu e Ketu, i pianeti erranti invisibili. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 :::media
@@ -2767,7 +2944,8 @@ Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/it/licenses#lekt4604)
 ![](/images/lekt4605.webp)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/it/licenses#lekt4605)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4605))
-:::⟪तुष्⟫ 4P ⟪तुष्यति⟫ : accontentarsi, essere soddisfatto di (genitivo, dativo, strumentale, ablativo)
+:::
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : accontentarsi, essere soddisfatto di (genitivo, dativo, strumentale, ablativo)
 
 :::indent
 Perfetto II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
@@ -2777,7 +2955,8 @@ Causativo ⟪तोषयति⟫
 PPP ⟪तुष्ट⟫  
 Infinito ⟪तोष्टुम्⟫
 
-:::⟪नम्⟫ 1P ⟪नमति⟫ : piegarsi, inchinarsi, inclinarsi, prostrarsi
+:::
+⟪नम्⟫ 1P ⟪नमति⟫ : piegarsi, inchinarsi, inclinarsi, prostrarsi
 
 :::indent
 Perfetto Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
@@ -2791,7 +2970,8 @@ Infinito ⟪नन्तुम्⟫
 ![](/images/lekt4607.webp)
 Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/it/licenses#lekt4607)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4607))
-:::⟪रुह्⟫ 1P ⟪रोहति⟫ : salire, arrampicarsi
+:::
+⟪रुह्⟫ 1P ⟪रोहति⟫ : salire, arrampicarsi
 
 :::indent
 Perfetto II ⟪रुरोह⟫, ⟪रुरुहे⟫  
@@ -2805,7 +2985,8 @@ Infinito ⟪रोढुम्⟫
 ![](/images/lekt4606.webp)
 Fig.: [⟪अश्वरोहकः⟫](/it/licenses#lekt4606)
 (Fonte immagine: [Dettagli](/it/licenses#lekt4606))
-:::⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : chiamare, convocare
+:::
+⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : chiamare, convocare
 
 :::indent
 Perfetto IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
@@ -2823,7 +3004,8 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 ::::::indent
 1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "mobile", ⟪दूरशब्द⟫ m. "telefonata a distanza, telefono" » ⟪चरिष्णुदूरशब्द⟫ "telefono cellulare" (formazione lessicale: A. Payer)
 
-:::⟪विभ्रम⟫ m.: l'andare e venire
+:::
+⟪विभ्रम⟫ m.: l'andare e venire
 
 ⟪भ्रंश⟫ m.: il cadere, il distacco
 
@@ -2844,7 +3026,8 @@ Derivati:
 ![](/images/lekt4609.webp)
 Fig.: [⟪श्रान्तः⟫](/it/licenses#lekt4609)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4609))
-:::⟪श्रि⟫ 1U ⟪श्रयति⟫ : appoggiarsi, appoggiarsi a, trovare sostegno, recarsi da qualcuno (con il dativo, ablativo)
+:::
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : appoggiarsi, appoggiarsi a, trovare sostegno, recarsi da qualcuno (con il dativo, ablativo)
 
 :::indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
@@ -2854,7 +3037,8 @@ Caus. ⟪श्राययति⟫
 PPP ⟪श्रित⟫  
 Inf. ⟪श्रयितुम्⟫
 
-:::⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : attaccare, aderire a (con l'ablativo)
+:::
+⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : attaccare, aderire a (con l'ablativo)
 
 :::indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -2870,7 +3054,8 @@ da ciò:
 ![](/images/lekt4610.webp)
 Fig.: [⟪सङ्गः⟫](/it/licenses#lekt4610)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4610))
-:::⟪द्रु⟫ 1P ⟪द्रवति⟫ : correre, affrettarsi
+:::
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : correre, affrettarsi
 
 :::indent
 Perf IIIa (Aniṭ) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
@@ -2881,7 +3066,8 @@ PPP ⟪द्रुत⟫
 Inf. ⟪द्रोतुम्⟫  
 Assol. -⟪द्रुत्य⟫
 
-:::⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : errare, vagare
+:::
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : errare, vagare
 
 :::indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
@@ -2893,7 +3079,8 @@ Assol. -⟪भ्रम्य⟫
 da ciò:
 ⟪विभ्रम⟫ m.: errare, confusione, errore
 
-:::⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : pendere da (con l'ablativo), appendersi a (con l'ablativo)
+:::
+⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : pendere da (con l'ablativo), appendersi a (con l'ablativo)
 
 :::indent
 Perf. I ⟪ललम्बे⟫  
@@ -2908,7 +3095,8 @@ Assol. -⟪लम्ब्य⟫
 ![](/images/lekt4601.jpg)
 Fig.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/it/licenses#lekt4601)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4601))
-:::⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : appendersi a (con l'accusativo)
+:::
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : appendersi a (con l'accusativo)
 
 ⟪यदि⟫ congiunzione:  se
 
@@ -2917,19 +3105,22 @@ Fig.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/it/
 :::indent
 PPP ⟪परिभूत⟫ 3: sconfitto, umiliato, abbattuto
 
-:::⟪नि⟫ prefisso verbale: verso il basso, giù, dentro, all'indietro
+:::
+⟪नि⟫ prefisso verbale: verso il basso, giù, dentro, all'indietro
 
 :::indent
 ad es.
 ⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : sedersi
 
-:::⟪भोस्⟫ particella vocativa: esclamazione di indirizzo, ad es.: ehi, ehi là, oh, eh, ciao, hi! Spesso non traducibile. Questa particella presenta un Sandhi speciale: davanti a tutti i suoni sonori, la forma è ***⟪भो⟫***.
+:::
+⟪भोस्⟫ particella vocativa: esclamazione di indirizzo, ad es.: ehi, ehi là, oh, eh, ciao, hi! Spesso non traducibile. Questa particella presenta un Sandhi speciale: davanti a tutti i suoni sonori, la forma è ***⟪भो⟫***.
 
 :::media
 ![](/images/lekt4611.webp)
 Fig.: [⟪भोः⟫](/it/licenses#lekt4611)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4611))
-:::## Lezione 48
+:::
+## Lezione 48
 
 ⟪श्वस्⟫ : domani
 
@@ -2951,7 +3142,8 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 Fig.: ⟪तन्त्री⟫
 Musicisti di sitar = ⟪सितारवादकः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4803))
-:::⟪स्त्री⟫ f.: Donna, moglie ; Femminile
+:::
+⟪स्त्री⟫ f.: Donna, moglie ; Femminile
 
 Declinazione:
 
@@ -2971,7 +3163,8 @@ Declinazione:
 Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 [Gruppo di auto-aiuto (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4804))
-:::⟪दिवानिशम्⟫ Avverbio: di giorno e di notte
+:::
+⟪दिवानिशम्⟫ Avverbio: di giorno e di notte
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : appendere, aderire
 
@@ -2982,14 +3175,16 @@ Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 Fig.: ⟪कुमारः⟫
 Festival Thaipusam = தைப்பூசம், Batu Caves, Malesia
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4805))
-:::⟪कुमारी⟫ f.: Ragazza, figlia
+:::
+⟪कुमारी⟫ f.: Ragazza, figlia
 
 :::media
 ![](/images/lekt4806.webp)
 Fig.: ⟪कुमारी⟫
 ⟪नेपाल⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4806))
-:::⟪कौमर⟫ n.: Infanzia
+:::
+⟪कौमर⟫ n.: Infanzia
 
 ⟪यौवन⟫ n.: Giovinezza
 
@@ -3000,7 +3195,8 @@ Fig.: ⟪कुमारी⟫
 Fig.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4807))
-:::⟪स्थाविर⟫ n.: (alto) Età
+:::
+⟪स्थाविर⟫ n.: (alto) Età
 
 ⟪वाच्य⟫ 3: anche: biasimevole
 
@@ -3011,7 +3207,8 @@ Fig.: ⟪स्थविराः⟫
 Fig.: ⟪सूक्ष्मम्⟫
 Lago Karanji = ಕಾರಂಜಿ ಕೆರೆ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4808))
-:::⟪प्रसङ्ग⟫ m.: Attaccamento, inclinazione ; Occasione
+:::
+⟪प्रसङ्ग⟫ m.: Attaccamento, inclinazione ; Occasione
 
 ⟪विशेष⟫ m.: Differenza, particolarità
 
@@ -3026,7 +3223,8 @@ Lago Karanji = ಕಾರಂಜಿ ಕೆರೆ
 Fig.: ⟪मम⟫ ⟪जाया⟫
 (Immagine: Payer)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4809))
-:::## Lezione 49
+:::
+## Lezione 49
 
 ⟪दीर्घ⟫ 3: lungo
 
@@ -3043,7 +3241,8 @@ vedi:
 
 :::indent
 **Carakasaṃhitā:** Testi scelti dal Carakasaṃhitā / tradotti e commentati da Alois Payer &lt;1944 - &gt;. -- 0. Introduzione. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
-:::::::⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : gettare, scagliare
+:::::::
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : gettare, scagliare
 
 :::indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -3054,7 +3253,8 @@ PPP ⟪क्षिप्त⟫
 Inf. ⟪क्षेप्तुम्⟫
 Assol. -⟪क्षिप्य⟫
 Gerundivo: ⟪क्षेप्य⟫
-:::⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : affrettarsi
+:::
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : affrettarsi
 
 :::indent
 Perf. Vc ⟪तत्वरे⟫
@@ -3063,7 +3263,8 @@ Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
 PPP ⟪त्वरित⟫ ⟪।⟫ ***⟪तू्र्⟫***⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
-:::⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : danneggiare
+:::
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : danneggiare
 
 :::indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
@@ -3072,13 +3273,15 @@ Pass. ⟪द्रुह्यते⟫
 Kaus. ⟪द्रोहयति⟫
 PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
 Inf. ⟪द्रोग्धुम्⟫
-:::⟪कुलूहल⟫ n.: curiosità, interesse
+:::
+⟪कुलूहल⟫ n.: curiosità, interesse
 
 :::media
 ![](/images/lekt4901.webp)
 Fig.: ⟪कुलूहलम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4901))
-:::⟪कृत्स्न⟫ 3: intero, completo
+:::
+⟪कृत्स्न⟫ 3: intero, completo
 
 ⟪परिचय⟫ m.: conoscenza
 
@@ -3089,7 +3292,8 @@ Fig.: ⟪कुलूहलम्⟫
 Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, XI sec.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4902))
-:::⟪वर⟫ m.n.: desiderio
+:::
+⟪वर⟫ m.n.: desiderio
 
 ⟪उत⟫ Indecl.: e, anche, o
 
@@ -3099,14 +3303,16 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ![](/images/lekt4903.jpg)
 Fig.: ⟪विहंगः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4903))
-:::⟪वेष⟫ m.: vestito, aspetto, esteriore
+:::
+⟪वेष⟫ m.: vestito, aspetto, esteriore
 
 :::media
 ![](/images/lekt4904.webp)
 Fig.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4904))
-:::⟪छन्न⟫ n.: coperta, nascondiglio
+:::
+⟪छन्न⟫ n.: coperta, nascondiglio
 
 ⟪पञ्जर⟫ n.: gabbia
 
@@ -3115,7 +3321,8 @@ Fig.: ⟪वेषः⟫
 Fig.: ⟪पञ्जरम्⟫
 Indovino con pappagallo in gabbia: il pappagallo estrae bigliettini sui quali è scritto il destino Mysore
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4909))
-:::⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: livello più basso dei [Dalit](http://de.wikipedia.org/wiki/Dalit)
+:::
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: livello più basso dei [Dalit](http://de.wikipedia.org/wiki/Dalit)
 
 ⟪स्वयम्⟫ Indecl.: stesso, da sé
 
@@ -3133,14 +3340,16 @@ Kaus. ⟪ध्यापयति⟫
 PPP ⟪ध्यात⟫
 Inf. ⟪ध्यातुम्⟫
 Gerundivo ⟪ध्येय⟫
-:::⟪आदर⟫ m.: considerazione, attenzione, rispetto
+:::
+⟪आदर⟫ m.: considerazione, attenzione, rispetto
 
 :::media
 ![](/images/lekt4905.webp)
 Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4905))
-:::⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+:::
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
 ⟪परम⟫ 3: più lontano, più alto; ⟪पञ्चम्या⟫ : migliore di, più alto di
 
@@ -3151,7 +3360,8 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 Fig.: ⟪गजशिशुः⟫
 Sri Lanka
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4906))
-:::## Lezione 50
+:::
+## Lezione 50
 
 ⟪ध्रुव⟫ 3: fisso, immutabile
 
@@ -3168,7 +3378,8 @@ Sri Lanka
 Fig.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), ministro federale nel Ministero della Scienza e della Tecnologia e nel Ministero delle Scienze della Terra (dal 2006)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5001))
-:::⟪रहस्⟫ n.: mistero, solitudine
+:::
+⟪रहस्⟫ n.: mistero, solitudine
 
 ⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : essere danneggiato, fallire, rovinare
 
@@ -3178,7 +3389,8 @@ Fut. ⟪रेषिष्यति⟫
 Pass. ⟪रिष्यते⟫
 Kaus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
-:::**⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : rompere, distruggere
+:::
+**⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : rompere, distruggere
 
 :::indent
 Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
@@ -3188,7 +3400,8 @@ Kaus. ⟪लोपयति⟫
 PPP ⟪लुप्त⟫
 Inf. ⟪लोप्तुम्⟫
 Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
-:::⟪विधि⟫ m.: anche: destino (a ⟪विधा⟫)
+:::
+⟪विधि⟫ m.: anche: destino (a ⟪विधा⟫)
 
 ⟪वृष्⟫ 1P ⟪वर्षति⟫ : piovere (di solito con un ⟪कर्तृ⟫ -- un dio o una nuvola)
 
@@ -3206,7 +3419,8 @@ Assol.-⟪वृष्य⟫
 Fig.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 Arrivo del monsone, Bangalore  ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5002))
-:::⟪संयक्⟫ Avv.: correttamente, veritiero, nel modo dovuto; del tutto, completamente
+:::
+⟪संयक्⟫ Avv.: correttamente, veritiero, nel modo dovuto; del tutto, completamente
 
 ⟪आदित्य⟫ m.: Sole; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : una certa classe di dèi
 
@@ -3214,7 +3428,8 @@ Arrivo del monsone, Bangalore  ಬೆಂಗಳೂರು
 ![](/images/lekt5005.jpg)
 Fig.: ⟪आदित्यः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5005))
-:::⟪सर्व⟫ 3: ciascuno, tutti
+:::
+⟪सर्व⟫ 3: ciascuno, tutti
 
 Declinazione come ⟪यद्⟫ (eccezione: Nom.Akk.sg.Neutro)
 
@@ -3229,7 +3444,8 @@ Declinazione come ⟪यद्⟫ (eccezione: Nom.Akk.sg.Neutro)
 | **5. Ablativo:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **6. Genitivo:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
 | **7. Locativo:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
-:::⟪वै⟫ : particella che enfatizza la parola precedente: davvero, certamente, ma
+:::
+⟪वै⟫ : particella che enfatizza la parola precedente: davvero, certamente, ma
 
 ⟪इह⟫ Avv.: qui, qui sulla terra, qui; ora. Prima dei sostantivi al Locativo (⟪षष्ठी⟫) equivalente a ⟪अस्मिन्⟫, ⟪अस्याम्⟫
 
@@ -3241,19 +3457,22 @@ Declinazione come ⟪यद्⟫ (eccezione: Nom.Akk.sg.Neutro)
 ![](/images/lekt5003.webp)
 Fig.: ⟪कल्याणी⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5003))
-:::⟪कु⟫- : come elemento iniziale di composti: cattivo
+:::
+⟪कु⟫- : come elemento iniziale di composti: cattivo
 
 :::media
 ![](/images/lekt5004.webp)
 Fig.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5004))
-:::⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : vedere
+:::
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : vedere
 
 :::indent
 Perf. ⟪चचक्षे⟫
 non usato negli altri tempi
-:::⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : raccontare, considerare, chiamare
+:::
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : raccontare, considerare, chiamare
 
 ⟪देश⟫ m.: luogo, posto, paese, regione
 
@@ -3268,7 +3487,8 @@ non usato negli altri tempi
 ![](/images/lekt5105.webp)
 Fig.:
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5105))
-:::⟪अतिथि⟫ m.: Ospite
+:::
+⟪अतिथि⟫ m.: Ospite
 
 ⟪अभ्यन्तर⟫ 3: situato all'interno, più vicino ; m. il più vicino parente, nativo
 
@@ -3284,7 +3504,8 @@ Poiché l'ovulazione avviene 14 giorni prima dell'inizio delle mestruazioni, con
 ![](/images/lekt5106.jpg)
 Fig.: ⟪ऋतुः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5106))
-:::⟪एकत्र⟫ Avv.: in un luogo
+:::
+⟪एकत्र⟫ Avv.: in un luogo
 
 ⟪जटा⟫ f.: trecce di capelli (acconciatura dell'asceta)
 
@@ -3293,7 +3514,8 @@ Fig.: ⟪ऋतुः⟫
 Fig.: ⟪जटा⟫
 ⟪ऋषिकेश⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5107))
-:::⟪तुल्य⟫ 3: uguale, comparabile (⟪तृतीयया⟫)
+:::
+⟪तुल्य⟫ 3: uguale, comparabile (⟪तृतीयया⟫)
 
 ⟪तरय⟫ 3 (f.: ⟪तरयी⟫): triplice, composto da tre parti
 
@@ -3314,11 +3536,13 @@ Pass. ⟪शिष्यते⟫
 Caus. ⟪शेषयति⟫
 PPP⟪शिष्ट⟫
 Assol. -⟪शिष्य⟫
-:::⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : distinguere
+:::
+⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : distinguere
 
 :::indent
 Pass. ⟪विशिष्यते⟫ : differire da (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), essere migliore di (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), essere il migliore tra (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
-:::⟪समान⟫ 3: di tipo simile, uguale, simile ; m. coetaneo
+:::
+⟪समान⟫ 3: di tipo simile, uguale, simile ; m. coetaneo
 
 ⟪स्व⟫ 3: proprio, suo (mio, tuo, ecc.) Si declina come ⟪सर्व⟫. Nell'ablativo-locativo singolare maschile-neutro e nel nominativo plurale maschile può essere declinato anche come ⟪देव⟫:
 
@@ -3326,20 +3550,23 @@ Pass. ⟪विशिष्यते⟫ : differire da (⟪पञ्चम्य
 Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
 Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ ***⟪स्⟫***⟪वे⟫
 Nom.pl.m ⟪स्वे⟫ ⟪।⟫ ***⟪स्वास्⟫***
-:::⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : sgridare, biasimare
+:::
+⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : sgridare, biasimare
 
 :::indent
 Perf I ⟪जगर्हे⟫
 Fut. ⟪गर्हिष्यते⟫
 PPP ⟪गर्हित⟫
-:::⟪पिशित⟫ n.: (preparato) carne
+:::
+⟪पिशित⟫ n.: (preparato) carne
 
 :::media
 ![](/images/lekt5108.webp)
 Fig.: ⟪पिशितम्⟫
 Kolkata = কলকাতা
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5108))
-:::⟪उपहार⟫ m.: offerta, sacrificio, dono
+:::
+⟪उपहार⟫ m.: offerta, sacrificio, dono
 
 ⟪मधु⟫ n.: miele, bevanda dolce, idromele (vino di miele)
 
@@ -3348,7 +3575,8 @@ Kolkata = কলকাতা
 Fig.: ⟪मधु⟫
 Palazzo City, ⟪उदयपुर⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5109))
-:::⟪मांस⟫ n.: carne
+:::
+⟪मांस⟫ n.: carne
 
 ⟪मृगया⟫ f.: caccia
 
@@ -3357,14 +3585,16 @@ Palazzo City, ⟪उदयपुर⟫
 Fig.: ⟪मृगया⟫
 Caccia con ⟪चीता⟫ (_Acinonyx jubatus venaticus*) Gujarat = ગુજરાત, 1812
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5110))
-:::⟪शिवा⟫ f.: (femminile) sciacallo (sciacallo dorato = _Canis aureus_)
+:::
+⟪शिवा⟫ f.: (femminile) sciacallo (sciacallo dorato = _Canis aureus_)
 
 :::media
 ![](/images/lekt5111.webp)
 Fig.: ⟪शिवा⟫
 _Canis aureus_, Santuario di Kalatop Khajjiar
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5111))
-:::⟪रुत⟫ n.: urlo
+:::
+⟪रुत⟫ n.: urlo
 
 ⟪कौशिक⟫ m.: gufo
 
@@ -3373,7 +3603,8 @@ _Canis aureus_, Santuario di Kalatop Khajjiar
 Fig.: ⟪कौशिकः⟫
 Gufo del Brahman (_Athene brama_), Mahesana = મહેસાણા
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5112))
-:::⟪शकुनि⟫ m.: uccello
+:::
+⟪शकुनि⟫ m.: uccello
 
 ⟪श्वन्⟫ m.: cane
 
@@ -3386,7 +3617,8 @@ radice debole davanti a consonante ⟪श्व⟫
 Fig.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5113))
-:::⟪परिचित⟫ 3: familiare, noto
+:::
+⟪परिचित⟫ 3: familiare, noto
 
 ⟪अटवी⟫ f.: foresta
 
@@ -3399,7 +3631,8 @@ Karnataka = ಕರ್ನಾಟಕ
 Fig.: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5114))
-:::⟪क्रूर⟫ 3: crudo, crudele
+:::
+⟪क्रूर⟫ 3: crudo, crudele
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : ungere, spalmare
 
@@ -3409,21 +3642,24 @@ Fut. ⟪धेक्ष्यति⟫
 Pass. ⟪दिह्यते⟫
 Kaus. ⟪देहयति⟫
 PPP ⟪दिग्ध⟫
-:::⟪विष⟫ n.: veleno
+:::
+⟪विष⟫ n.: veleno
 
 :::media
 ![](/images/lekt5115.webp)
 Fig.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5115))
-:::⟪भुजंग⟫ m.: serpente
+:::
+⟪भुजंग⟫ m.: serpente
 
 :::media
 ![](/images/lekt5116.webp)
 Fig.: ⟪भुजंगः⟫
 Vipera a catena (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5116))
-:::⟪सायक⟫ m.: freccia
+:::
+⟪सायक⟫ m.: freccia
 
 ⟪उत्साद⟫ m.: distruzione
 
@@ -3448,7 +3684,8 @@ Vipera a catena (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 Fig.: ⟪मणिः⟫
 Diamante Hope da Guntur = ಗುಂಡೂರು, oggi Museo Smithsonian di Storia Naturale, Washington DC
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5118))
-:::⟪वन⟫ n.: foresta
+:::
+⟪वन⟫ n.: foresta
 
 ⟪मद⟫ m.: anche "linfa di estro" di un elefante (nel [Musht](http://en.wikipedia.org/wiki/Musth))
 
@@ -3456,7 +3693,8 @@ Diamante Hope da Guntur = ಗುಂಡೂರು, oggi Museo Smithsonian di Stori
 ![](/images/lekt5117.webp)
 Fig.: ⟪मदः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5117))
-:::⟪राग⟫ m.: anche: colore, colore rosso
+:::
+⟪राग⟫ m.: anche: colore, colore rosso
 
 ⟪कालन⟫ n.: foresta
 
@@ -3468,7 +3706,8 @@ Fut. ⟪खनिष्यति⟫
 Kaus. ⟪खानयति⟫
 PPP ⟪खात⟫
 Assol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
-:::⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : pensare, riflettere
+:::
+⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : pensare, riflettere
 
 ⟪शबर⟫ .:  nome proprio di una tribù non ariana
 
@@ -3488,7 +3727,8 @@ da:
 Fig.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5210))
-:::⟪अन्तर्⟫ Avv.: dentro, all'interno ; postposizione con Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): all'interno, in mezzo ; postposizione con Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): fuori da ...
+:::
+⟪अन्तर्⟫ Avv.: dentro, all'interno ; postposizione con Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): all'interno, in mezzo ; postposizione con Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): fuori da ...
 
 ⟪अन्योन्य⟫ 3: reciprocamente, l'un l'altro
 
@@ -3496,7 +3736,8 @@ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 
 :::indent
 PPP ⟪विपरीत⟫ 3: distorto, falso
-:::⟪त्रि⟫ 3: tre
+:::
+⟪त्रि⟫ 3: tre
 
 :::grammar-box
 | | **Maschile:br⟪पुंस्⟫** | **Neutro:br⟪नपुंसकम्⟫** | **Femminile:br⟪स्त्री⟫** |
@@ -3508,7 +3749,8 @@ PPP ⟪विपरीत⟫ 3: distorto, falso
 | **5. Ablativo:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
 | **6. Genitivo:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
 | **7. Locativo:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
-:::⟪निस्⟫ Postposizione e prefisso per sostantivi e verbi: fuori, via, fuori, fuori, da, via, senza - da
+:::
+⟪निस्⟫ Postposizione e prefisso per sostantivi e verbi: fuori, via, fuori, fuori, da, via, senza - da
 
 ⟪पीड्⟫ 10P ⟪पीडयति⟫ : premere, tormentare ; opprimere, assediare, infastidire
 
@@ -3517,13 +3759,15 @@ PPP ⟪विपरीत⟫ 3: distorto, falso
 Fig.: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5212))
-:::⟪पर⟫ 3: (declinazione come ⟪सर्व⟫) distante, straniero, più alto di (⟪पञ्चम्या⟫), estremo, supremo ; altro, straniero, ostile ; m.: straniero
+:::
+⟪पर⟫ 3: (declinazione come ⟪सर्व⟫) distante, straniero, più alto di (⟪पञ्चम्या⟫), estremo, supremo ; altro, straniero, ostile ; m.: straniero
 
 :::indent
 da cui:
 
 ⟪परम्⟫ Avv.: in alto grado, su questo, più tardi, ma, tuttavia
-:::⟪प्रति⟫ Postposizione (⟪द्वितीयया⟫): verso - verso, dopo, riguardo a, di fronte a
+:::
+⟪प्रति⟫ Postposizione (⟪द्वितीयया⟫): verso - verso, dopo, riguardo a, di fronte a
 
 ⟪प्रधान⟫ 3: principale, migliore ; n.: il più importante
 
@@ -3532,13 +3776,15 @@ da cui:
 Fig.: ⟪प्रधानः⟫
 ⟪मुंबई⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5213))
-:::⟪लौल्य⟫ n.: avidità, lussuria
+:::
+⟪लौल्य⟫ n.: avidità, lussuria
 
 ⟪वर्ग⟫ m.: sezione, dipartimento, schiera
 
 :::indent
 ⟪त्रिवर्ग⟫ m.: gruppo di tre (ad es. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; oppure: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; oppure: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
-:::⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : volere, comandare, desiderare
+:::
+⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : volere, comandare, desiderare
 
 :::indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -3548,7 +3794,8 @@ Kaus. ⟪वाशयति⟫
 PPP ⟪उशित⟫
 Inf. ⟪वशितुम्⟫
 Assol. -⟪वश्य⟫
-:::⟪वा⟫ 2P ⟪वाति⟫ : soffiare, ventare
+:::
+⟪वा⟫ 2P ⟪वाति⟫ : soffiare, ventare
 
 :::indent
 Perf IV ⟪ववौ⟫
@@ -3561,7 +3808,8 @@ Inf. ⟪वातुम्⟫
 da cui:
 
 ⟪वात⟫ m.: vento
-:::⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : girare, ruotare ; respingere, escludere
+:::
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : girare, ruotare ; respingere, escludere
 
 :::indent
 Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
@@ -3571,7 +3819,8 @@ Kaus. ⟪वर्जयति⟫ : eliminare
 Kaus. PPP ⟪वर्जित⟫ : privo di qualcosa, libero da
 PPP ⟪वृक्त⟫
 Inf. ⟪वर्जितुम्⟫
-:::⟪व्यवहार⟫ m.: attività, comportamento, relazione, commercio, affari, commercio, (processo giudiziario)
+:::
+⟪व्यवहार⟫ m.: attività, comportamento, relazione, commercio, affari, commercio, (processo giudiziario)
 
 ⟪शील⟫ n.: abitudine, consuetudine, natura, carattere, buona abitudine = morale
 
@@ -3591,7 +3840,8 @@ Assol. -⟪सेव्य⟫
 da cui:
 
 ⟪सेवा⟫ f.: servizio, udienza
-:::⟪धीर⟫ 3: fermo, stabile, continuo, persistente
+:::
+⟪धीर⟫ 3: fermo, stabile, continuo, persistente
 
 ⟪शम्⟫ ⟪शाम्यति⟫
 
@@ -3602,7 +3852,8 @@ da cui:
 ⟪शमयति⟫
 ⟪शान्त⟫
 ⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
-:::⟪कोविद⟫ 3: esperto in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
+:::
+⟪कोविद⟫ 3: esperto in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
 
 ⟪याम⟫ m.: turno di notte (ciascuno di tre ore)
 
@@ -3618,7 +3869,8 @@ Fut. ⟪च्योष्यते⟫
 Pass. ⟪च्यूयते⟫
 Caus. ⟪च्यावयति⟫
 PPP ⟪च्युत⟫
-:::⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : riconoscere, percepire, avvertire, sperimentare
+:::
+⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : riconoscere, percepire, avvertire, sperimentare
 
 ⟪चक्र⟫ n.: ruota
 
@@ -3627,14 +3879,16 @@ PPP ⟪च्युत⟫
 Fig.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5214))
-:::⟪कदली⟫ f.: banano (_Musa_ sp.)
+:::
+⟪कदली⟫ f.: banano (_Musa_ sp.)
 
 :::media
 ![](/images/lekt5208.webp)
 Fig.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5208))
-:::⟪सार⟫ m.n.: nocciolo, midollo, essenza, sostanza
+:::
+⟪सार⟫ m.n.: nocciolo, midollo, essenza, sostanza
 
 ⟪दिव्य⟫ 3: celeste, divino
 
@@ -3649,7 +3903,8 @@ Hampi = ಹಂಪೆ
 Fig.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5215))
-:::⟪त्रिपिष्टप⟫ n.: cielo di Indra
+:::
+⟪त्रिपिष्टप⟫ n.: cielo di Indra
 
 ⟪मार⟫ m.: il male personificato, la tentazione/manipolazione personificata, diavolo
 
@@ -3658,7 +3913,8 @@ Fig.: ⟪मलम्⟫
 Fig.:
 Amaravati = అమరావతి, II sec. d.C.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5217))
-:::⟪विजिज्ञासु⟫ 3: colui che vuole conoscere completamente
+:::
+⟪विजिज्ञासु⟫ 3: colui che vuole conoscere completamente
 
 ⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : proteggere, salvare
 

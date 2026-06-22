@@ -15,7 +15,8 @@ status: stable
 **Lo s-Aorist si forma per la maggior parte delle radici ⟪अनिट्⟫, purché non abbiano esclusivamente un'altra forma di aoristo. Le radici ⟪अनिट्⟫ facoltative possono in generale formare opzionalmente questo o l'iṣ-Aorist. Anche le radici ⟪अनिट्⟫, che formano lo ⟪परस्मैपद⟫ dopo la 1., 2. o 6. forma dell'aoristo, formano lo ⟪आत्मनेपद⟫ secondo lo s-Aorist.**
 
 **Formazione: Augmento + Radice + s + desinenze secondarie atematiche**
-:::Tabella delle desinenze con suffisso di formazione del tema
+:::
+Tabella delle desinenze con suffisso di formazione del tema
 
 :::grammar-box
 
@@ -33,12 +34,15 @@ Esempi:
 :::indent
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫
-:::Tali forme potrebbero appartenere anche al radice-aorist e probabilmente appartengono in parte anche a quello.
-::::I grammatici indiani hanno contato anche forme come ⟪अकृत⟫ (3.sg.Ā) allo s-Aorist, che appartengono chiaramente al radice-aorist. A questo scopo, i grammatici indiani hanno inventato la seguente regola fonetica ad hoc per lo s-Aorist:
+:::
+Tali forme potrebbero appartenere anche al radice-aorist e probabilmente appartengono in parte anche a quello.
+::::
+I grammatici indiani hanno contato anche forme come ⟪अकृत⟫ (3.sg.Ā) allo s-Aorist, che appartengono chiaramente al radice-aorist. A questo scopo, i grammatici indiani hanno inventato la seguente regola fonetica ad hoc per lo s-Aorist:
 
 :::indent
 "Dopo una vocale breve, le 'desinenze' che iniziano con -st- o -sth- perdono la -s-."
-:::In caso contrario, si devono osservare le regole fonetiche per la connessione di consonanti finali con s-.
+:::
+In caso contrario, si devono osservare le regole fonetiche per la connessione di consonanti finali con s-.
 
 Per -dhvam vale:
 
@@ -51,7 +55,8 @@ Per -dhvam vale:
     *   **-ṝ finale viene sostituito da -īr o -ūr**
     *   **Radici ablautanti su ā/e/o: Grado debole**
     *   **altri vocali radicali: invariati (cioè di solito grado debole)**
-:::Esempi:
+:::
+Esempi:
 
 |   | **3.sg.P** |
 | --- | --- |
@@ -78,11 +83,13 @@ Per -dhvam vale:
 
 :::indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫***⟪द्राक्षी⟫***⟪त्⟫
-:::Anche l'aoristo di altre radici con -ṛ- in posizione penultima può essere formato in questo modo:
+:::
+Anche l'aoristo di altre radici con -ṛ- in posizione penultima può essere formato in questo modo:
 
 :::indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***⟪क्राक्षी⟫***⟪त्⟫
-:::::::Paradigmi:
+:::::::
+Paradigmi:
 
 ⟪नी⟫ 1U "condurre"
 
@@ -98,7 +105,8 @@ Per -dhvam vale:
 ![](/images/lekt5701.webp)
 Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5701))
-:::⟪कृ⟫ 8U "fare"
+:::
+⟪कृ⟫ 8U "fare"
 
 |   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -129,7 +137,8 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 
 3.  ⟪बुध्⟫ Ā può assumere facoltativamente nella 3.sg.Ā la forma dell'aoristo della radice passivo:
     ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "egli riconobbe"
-:::## 57.2. Esercizio
+:::
+## 57.2. Esercizio
 
 A) Tradurre e determinare senza ausili i seguenti forme e formare le corrispondenti forme di aoristo. Eccetto per le causative e le radici che formano l'aoristo in s, è indicata tra parentesi la classe dell'aoristo corrispondente:
 

@@ -74,7 +74,8 @@ B) Risolvere i seguenti Tatpuruṣa:
 ![](/images/uebung014.webp)
 Fig.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung014))
-:::---
+:::
+---
 
 ## Esercizi aggiuntivi
 

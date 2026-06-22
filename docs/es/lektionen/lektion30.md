@@ -21,7 +21,8 @@ status: stable
     *   antes de consonante: raíz en grado cero + -nī-
         
     *   antes de vocal: raíz en grado cero + -n-
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪क्री⟫ 9U "comprar"
@@ -32,7 +33,8 @@ status: stable
 |**3. persona:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
 |**3. persona:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
 
-:::En esta clase de presente, es especialmente importante observar la formación de la raíz del presente para la raíz ⟪ज्ञा⟫ 9U "reconocer, saber":
+:::
+En esta clase de presente, es especialmente importante observar la formación de la raíz del presente para la raíz ⟪ज्ञा⟫ 9U "reconocer, saber":
 
 :::grammar-box
 
@@ -41,7 +43,8 @@ status: stable
 |**3. persona:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
 |**3. persona:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
 
-:::La forma ⟪जा⟫ que subyace a la raíz del presente de ⟪ज्ञा⟫, se explica ya sea por una serie de ablaut -ā (grado cero) -nā (grado alto), ya sea por disimilación de *jñā-nā-ti.
+:::
+La forma ⟪जा⟫ que subyace a la raíz del presente de ⟪ज्ञा⟫, se explica ya sea por una serie de ablaut -ā (grado cero) -nā (grado alto), ya sea por disimilación de *jñā-nā-ti.
 
 Algunas raíces con vocal larga acortan esta antes del sufijo de la raíz del presente de la 9. clase:
 
@@ -56,13 +59,15 @@ Ejemplo:
 |**3. persona:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
 |**3. persona:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
 
-:::Formación del participio presente Parasmaipada:
+:::
+Formación del participio presente Parasmaipada:
 
 Ejemplo:
 
 :::indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
-:::## 30.2. Uso del optativo (⟪लिङ्⟫)
+:::
+## 30.2. Uso del optativo (⟪लिङ्⟫)
 
 El optativo se usa:
 
@@ -74,7 +79,8 @@ El optativo se usa:
 *   **una orden atenuada**
 
 **(aquí se solapa el optativo - ⟪लिङ्⟫ - con el imperativo - ⟪लोट्⟫)**
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "El siervo pueda venir al pueblo"
@@ -86,17 +92,20 @@ El optativo se usa:
 *   **presumible**
 
 **se debe representar.**
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Si él saliera del pueblo, no escucharía al maestro"
 ::::::grammar-box
 **3. Las oraciones relativas con optativo a veces tienen el significado: "Si alguien ..."**
-:::Ejemplo:
+:::
+Ejemplo:
 
 :::indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Si alguien dijera la mentira, caería en el infierno = Si alguien dice la mentira, cae en el infierno"
-:::## 30.3. Desinencias secundarias de la tercera persona singular y plural
+:::
+## 30.3. Desinencias secundarias de la tercera persona singular y plural
 
 El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (⟪लुङ्⟫), el precativo (⟪आशिर्लिङ्⟫) y el condicional presentan las llamadas desinencias secundarias:
 
@@ -107,7 +116,8 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 |**Parasmaipada**|**-t**|clases atemáticas: **-an** o **-ur**:brOptativo: **-ur**|
 |**Ātmanepada**|**-ta**|clases atemáticas: **-ata** (de *nta):brOptativo: **-ran**|
 
-:::## 30.4. Formación del Optativo Presente (⟪लिङ्⟫)
+:::
+## 30.4. Formación del Optativo Presente (⟪लिङ्⟫)
 
 ### 30.4.1. Clases temáticas de presente
 
@@ -119,7 +129,8 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 **ante terminaciones que comienzan con vocal:**
 
 **raíz del presente + -i- (» -e-) + -y- + terminación secundaria**
-:::Ejemplos:
+:::
+Ejemplos:
 
 1\. Clase de presente:
 
@@ -131,7 +142,8 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 |**3. Persona:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
 |**3. Persona:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
 
-:::4\. Clase de presente:
+:::
+4\. Clase de presente:
 
 ⟪नृत्⟫
 :::grammar-box
@@ -141,7 +153,8 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 |**3. Persona:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
 |**3. Persona:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
 
-:::6\. Clase de presente
+:::
+6\. Clase de presente
 
 ⟪विश्⟫
 :::grammar-box
@@ -151,7 +164,8 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 |**3. Persona:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
 |**3. Persona:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
 
-:::10\. Clase de presente y causativos
+:::
+10\. Clase de presente y causativos
 
 ⟪चुर्⟫
 :::grammar-box
@@ -161,7 +175,8 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 |**3. Persona:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
 |**3. Persona:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
 
-:::### 30.4.2. Clases de presente atemático
+:::
+### 30.4.2. Clases de presente atemático
 
 :::grammar-box
 **Parasmaipada:**
@@ -171,7 +186,8 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 **Ātmanepada:**
 
 **raíz de presente débil + -ī- + terminación secundaria**
-:::Ejemplos:
+:::
+Ejemplos:
 
 2\. Clase de presente:
 
@@ -183,7 +199,8 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 |**3. Persona:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
 |**3. Persona:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
 
-:::5\. Clase de presente
+:::
+5\. Clase de presente
 
 ⟪सु⟫
 :::grammar-box
@@ -193,7 +210,8 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 |**3. Persona:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
 |**3. Persona:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
 
-:::8\. Clase de presente
+:::
+8\. Clase de presente
 
 ⟪तन्⟫
 :::grammar-box
@@ -203,7 +221,8 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 |**3. Persona:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
 |**3. Persona:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
 
-:::**kṛ**:br(⟪कृ⟫)
+:::
+**kṛ**:br(⟪कृ⟫)
 
 :::grammar-box
 
@@ -219,13 +238,15 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 |**3. Persona Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
 |**3. Persona Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
 
-:::## 30.5. Sandhi de -r final
+:::
+## 30.5. Sandhi de -r final
 
 :::grammar-box
 **Excepto para -ar, se aplican las mismas reglas de Sandhi para -r final que para -s final.**
 
 **-ar antes de sonoros permanece -ar, pero antes de r- se pierde la -r y la -a- se reemplaza por -ā-.**
-:::Ejemplos:
+:::
+Ejemplos:
 
 :::indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
@@ -233,7 +254,8 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 ⟪पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः⟫
 
 ⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
-:::## 30.6. Lista de palabras
+:::
+## 30.6. Lista de palabras
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : comprar
 
@@ -242,7 +264,8 @@ Fut. ⟪क्रेष्यति⟫
 Pas. ⟪क्रीयते⟫  
 PPP ⟪क्रीत⟫  
 Inf. ⟪क्रेतुम्⟫
-:::⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : vender
+:::
+⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : vender
 
 :::indent
 Absol. ⟪विक्रीय⟫
@@ -251,7 +274,8 @@ Absol. ⟪विक्रीय⟫
 Fig.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3001))
-:::⟪ज्ञा⟫ 9U ⟪जानाति⟫ : conocer, reconocer, saber, entender
+:::
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : conocer, reconocer, saber, entender
 
 :::indent
 Fut. ⟪ज्ञास्यति⟫  
@@ -271,7 +295,8 @@ de los cuales:
 Fig.: ⟪ज्ञातयः⟫
 Darewadi, Distrito de Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3002))
-:::⟪पू⟫ 9U ⟪पुनाति⟫ : purificar
+:::
+⟪पू⟫ 9U ⟪पुनाति⟫ : purificar
 
 :::indent
 Fut. ⟪पविष्यति⟫  
@@ -283,7 +308,8 @@ Inf. ⟪पवितुम्⟫
 ![](/images/lekt3003.webp)
 Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3003))
-:::⟪अश्⟫ 9P ⟪अश्नाति⟫ : comer, consumir
+:::
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : comer, consumir
 
 :::indent
 Fut. ⟪अशिष्यति⟫  
@@ -296,23 +322,27 @@ Inf. ⟪अशितुम्⟫
 Fig.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, Sur de la India
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3005))
-:::⟪प्रिय⟫ ⟪३⟫: querido, amoroso, amable
+:::
+⟪प्रिय⟫ ⟪३⟫: querido, amoroso, amable
 
 :::media
 ![](/images/lekt3004.webp)
 Fig.: ⟪प्रिया⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3004))
-:::⟪चेत्⟫ Conjunción: si; con la condición de que (nunca se encuentra al inicio de una oración)
+:::
+⟪चेत्⟫ Conjunción: si; con la condición de que (nunca se encuentra al inicio de una oración)
 
 :::indent
 ⟪न⟫ ⟪चेत्⟫ : si no
-:::⟪यदि⟫ Conjunción: si
+:::
+⟪यदि⟫ Conjunción: si
 
 :::indent
 ⟪यद्यपि⟫ : aunque, incluso si, a pesar de que
 
 ⟪यद्येवम्⟫ : si es así, en estas circunstancias
-:::⟪पुनर्⟫ : de nuevo, una y otra vez, atrás, otra vez, en cambio, pero
+:::
+⟪पुनर्⟫ : de nuevo, una y otra vez, atrás, otra vez, en cambio, pero
 
 :::indent
 ⟪पुनः⟫ ⟪पुनर्⟫ : una y otra vez
@@ -324,7 +354,8 @@ de los cuales:
 ![](/images/lekt2904.webp)
 Fig.: ⟪पुनर्भवः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2904))
-:::⟪जीव्⟫ 1P ⟪जीवति⟫ : vivir
+:::
+⟪जीव्⟫ 1P ⟪जीवति⟫ : vivir
 
 :::indent
 Fut. ⟪जीविष्यति⟫  
@@ -336,7 +367,8 @@ Inf. ⟪जीवितुम्⟫
 de los cuales:
 
 ⟪जीव⟫ m./n.: vida, alma individual
-:::⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : eterno, incólume, permanente
+:::
+⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : eterno, incólume, permanente
 
 ## 30.7. Ejercicio
 

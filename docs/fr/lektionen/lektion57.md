@@ -15,7 +15,8 @@ status: stable
 **Le s-aoriste se forme pour la plupart des racines ⟪अनिट्⟫, à moins qu’elles n’aient exclusivement une autre forme d’aoriste. Les racines facultatives ⟪अनिट्⟫ peuvent généralement former soit ce aoriste, soit l’iṣ-aoriste. Les racines ⟪अनिट्⟫ qui forment le ⟪परस्मैपद⟫ après la 1re, 2e ou 6e forme de l’aoriste forment également le ⟪आत्मनेपद⟫ selon le s-aoriste.**
 
 **Formation : Augment + racine + s + désinences secondaires athématiques**
-:::Table des désinences avec suffixe de formation de la base
+:::
+Table des désinences avec suffixe de formation de la base
 
 :::grammar-box
 
@@ -33,12 +34,15 @@ Exemples :
 :::indent
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫
-:::De telles formes pourraient également appartenir au racine-aoriste et appartiennent probablement en partie à celui-ci.
-::::Les grammairiens indiens ont également compté des formes telles que ⟪अकृत⟫ (3.sg.Ā) parmi le s-aoriste, qui appartiennent clairement au racine-aoriste. À cette fin, les grammairiens indiens ont inventé la règle phonétique ad hoc suivante pour le s-aoriste :
+:::
+De telles formes pourraient également appartenir au racine-aoriste et appartiennent probablement en partie à celui-ci.
+::::
+Les grammairiens indiens ont également compté des formes telles que ⟪अकृत⟫ (3.sg.Ā) parmi le s-aoriste, qui appartiennent clairement au racine-aoriste. À cette fin, les grammairiens indiens ont inventé la règle phonétique ad hoc suivante pour le s-aoriste :
 
 :::indent
 « Après une voyelle brève, les « désinences » commençant par -st- ou -sth- perdent le -s-. »
-:::Par ailleurs, les règles phonétiques concernant la liaison des consonnes finales avec s- doivent être respectées.
+:::
+Par ailleurs, les règles phonétiques concernant la liaison des consonnes finales avec s- doivent être respectées.
 
 Pour -dhvam :
 
@@ -56,7 +60,8 @@ par ex. ***⟪चि⟫*** 5U : 2.pl.Ā ***⟪अचेढ्वम्⟫***
     *   **-ṝ final est remplacé par -īr ou -ūr**
     *   **Racines à ablaut en ā/e/o : degré faible**
     *   **autres voyelles de racine : inchangées (c’est-à-dire généralement au degré faible)**
-:::Exemples :
+:::
+Exemples :
 
 |   | **3.sg.P** |
 | --- | --- |
@@ -83,11 +88,13 @@ par ex. ***⟪चि⟫*** 5U : 2.pl.Ā ***⟪अचेढ्वम्⟫***
 
 :::indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫***⟪द्राक्षी⟫***⟪त्⟫
-:::L'aoriste d'autres racines avec -ṛ- en avant-dernière position peut aussi être formé ainsi :
+:::
+L'aoriste d'autres racines avec -ṛ- en avant-dernière position peut aussi être formé ainsi :
 
 :::indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***⟪क्राक्षी⟫***⟪त्⟫
-:::::::Paradigmes :
+:::::::
+Paradigmes :
 
 ⟪नी⟫ 1U « mener »
 
@@ -103,7 +110,8 @@ par ex. ***⟪चि⟫*** 5U : 2.pl.Ā ***⟪अचेढ्वम्⟫***
 ![](/images/lekt5701.webp)
 Fig. : ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
 (Source de l'image : [Détails](/fr/licenses#lekt5701))
-:::⟪कृ⟫ 8U "faire"
+:::
+⟪कृ⟫ 8U "faire"
 
 |   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -134,7 +142,8 @@ Fig. : ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर�
 
 3.  ⟪बुध्⟫ Ā peut à la 3.sg.Ā prendre optionnellement la forme de l'aoriste de racine passif :
     ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "il a reconnu"
-:::## 57.2. Exercice
+:::
+## 57.2. Exercice
 
 A) Traduisez et identifiez sans aide les formes suivantes, puis formez les formes correspondantes de l’aoriste. Sauf pour les causatifs et les racines qui forment l’aoriste en s, la classe de l’aoriste correspondant est indiquée entre parenthèses :
 

@@ -16,7 +16,8 @@ status: stable
 - Die Bildung des PPP
 - Gesetze der Lautverbindung im Wort
 - Passiv und PPP der bisher gelernten Wurzeln
-:::---
+:::
+---
 
 ## 12.1. Partizip Perfekt Passiv (PPP)
 
@@ -24,7 +25,8 @@ Eine Möglichkeit, Passivsätze der Vergangenheit zu bilden, ist die Konstruktio
 
 :::grammar-box
 **In Wirklichkeit ist das PPP kein echtes Partizip, da es nicht von einem Tempusstamm gebildet wird. Es ist vielmehr eine Nominalbildung zur Wurzel mit dem Primärsuffix -ta bzw. -na. Deshalb spricht man in der indischen Grammatik vom Suffix kta.**
-:::---
+:::
+---
 
 ### 12.1.1. Schema für transitive Verben
 
@@ -39,7 +41,8 @@ Beispiele:
 > **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
 > 
 > **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
-:::---
+:::
+---
 
 ### 12.1.2. Schema I für intransitive Verben und Verben der Bewegung
 
@@ -50,7 +53,8 @@ In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überei
 
 Beispiel:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
-:::---
+:::
+---
 
 ### 12.1.3. Schema II für intransitive Verben und Verben der Bewegung
 
@@ -61,7 +65,8 @@ Beispiel:
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“
 
 Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I.
-:::---
+:::
+---
 
 ## 12.2. Zur Bedeutung des PPP
 
@@ -86,7 +91,8 @@ Es kommen folgende Bildungsweisen vor (zu jeder Wurzel ist jeweils ihr PPP zu le
 - **+ -na**
 
 Die Femininstämme lauten: **-tā**, **-itā**, **-nā**; das Neutrum flektiert wie **phala** n.
-:::---
+:::
+---
 
 ### 12.3.1. PPP auf -ta (kta)
 
@@ -98,7 +104,8 @@ Die Femininstämme lauten: **-tā**, **-itā**, **-nā**; das Neutrum flektiert 
 Ohne Bindevokal bildet man das PPP im Allgemeinen von vokalisch auslautenden Wurzeln sowie vielen anderen Wurzeln, ohne dass man eine feste Regel dafür angeben könnte, bei wie strukturierten Wurzeln der Bindevokal auftritt oder nicht.
 
 Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
-:::**Beispiele:**
+:::
+**Beispiele:**
 
 :::grammar-box
 | Wurzel | PPP (kta) |
@@ -115,7 +122,8 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta** :br(⟪कृत⟫) |
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (&lt; \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
-:::#### 12.3.1.2. Mit Bindevokal -i- (seṭ)
+:::
+#### 12.3.1.2. Mit Bindevokal -i- (seṭ)
 
 *seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*).
 
@@ -128,7 +136,8 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
 | **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta** :br(⟪रक्षित⟫) |
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (&lt; \*vd-i-ta):br(⟪उदित⟫) |
-:::---
+:::
+---
 
 ## 12.4. Gesetze der Lautverbindung im Wort
 
@@ -146,7 +155,8 @@ Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beach
 | **5. jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = **⟪युक्त⟫** :br **yaj + ta » iṣ-ṭa** = **⟪इष्ट⟫** (&lt; \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = **⟪सृष्ट⟫** :br **sṛj + ti » sṛṣ-ṭi** = **⟪सृष्टि⟫** |
 | **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = **⟪लब्ध⟫** :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = **⟪बुद्ध⟫** :br **yudh + ta » yud-dha** = **⟪युद्ध⟫** :br **krudh + ta » krud-dha** = **⟪क्रुद्ध⟫** |
 | **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = **⟪दग्ध⟫** :br **guh + ta » gūḍha** = **⟪गूढ⟫** (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = **⟪सोढ⟫** |
-::::::---
+::::::
+---
 
 ## 12.5. Wortliste
 
@@ -156,7 +166,8 @@ Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beach
 ![](/images/lekt1201.webp)
 Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 (Bildquelle: [Details](/licenses#lekt1201))
-:::- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
+:::
+- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
 - **mṛga** m. ⟪मृग⟫ : Wildtier
 - **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel)
@@ -165,7 +176,8 @@ Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 ![](/images/lekt1202.webp)
 Abb.: ⟪मार्गः⟫
 (Bildquelle: [Details](/licenses#lekt1202))
-:::- **api** ⟪अपि⟫ : auch (nachgestellt)
+:::
+- **api** ⟪अपि⟫ : auch (nachgestellt)
 
 Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
 
@@ -182,7 +194,8 @@ Zur Wortbildung:
 ![](/images/lekt1203.webp)
 Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 (Bildquelle: [Details](/licenses#lekt1203))
-:::- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
+:::
+- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
 
 ---
 

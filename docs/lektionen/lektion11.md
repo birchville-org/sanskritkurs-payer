@@ -15,7 +15,8 @@ status: stable
 - Den Gebrauch der Partikel **iti**, **evam** und **na**
 - Grundlegende Begriffe wie **dharma**, **adharma** und **putra**
 - Die Bildung von Nomina zu den Wurzeln **vad**, **prach** und **iṣ**
-:::## 11.1. Doppelter Akkusativ
+:::
+## 11.1. Doppelter Akkusativ
 
 :::grammar-box
 **Einige Verben können einen doppelten Akkusativ (dvitīyā) regieren: Akkusativ der Person und Akkusativ der Sache.**
@@ -35,7 +36,8 @@ z.B. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब�
 
 z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt nach dem Dharma."
 » Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
-:::---
+:::
+---
 
 ## 11.2. Wortliste
 
@@ -68,7 +70,8 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 ![](/images/lekt1102.webp)
 Abb.: **vadanāni** = ⟪वदनानि⟫
 (Bildquelle: [Details](/licenses#lekt1102))
-:::- **prach** 6 P ⟪प्रच्छ्⟫ : fragen
+:::
+- **prach** 6 P ⟪प्रच्छ्⟫ : fragen
   - **praśna** m. ⟪प्रश्न⟫ : Frage (Suffix **-na** wie in **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : wünschen
@@ -103,7 +106,8 @@ Abb.: **vadanāni** = ⟪वदनानि⟫
 ![](/images/lekt1101.webp)
 Abb.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
 (Bildquelle: [Details](/licenses#lekt1101))
-:::---
+:::
+---
 
 ## 11.4. Wiederholungsübung
 

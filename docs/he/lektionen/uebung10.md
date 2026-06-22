@@ -211,7 +211,8 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 ![](/images/uebung011.webp)
 איור: ⟪ग्रामः⟫
 (מקור התמונה: [פרטים](/licenses#uebung011))
-:::---
+:::
+---
 
 ## תרגום קריאה
 

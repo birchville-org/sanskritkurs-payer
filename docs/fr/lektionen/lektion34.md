@@ -19,7 +19,8 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 1. **pour les conjugaisons dérivées (causatif, desideratif, fréquentatif, dénominal)**
 2. **pour les racines commençant par une voyelle longue (sauf ā-) ou par une voyelle (sauf a-) suivie de deux consonnes**
 3. **pour certaines autres racines**
-:::## 34.2. Le parfait à redoublement (⟪द्वित्वलिट्⟫)
+:::
+## 34.2. Le parfait à redoublement (⟪द्वित्वलिट्⟫)
 
 ### 34.2.1. Degré de la racine
 
@@ -39,7 +40,8 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 **Au parfait, n'ont également pas de degré de racine les racines de la forme :**
 *   **a-Consonne**
 *   **ā-Consonne**
-:::### 34.2.2. Les désinences du parfait
+:::
+### 34.2.2. Les désinences du parfait
 
 ::::grammar-box
 
@@ -48,11 +50,13 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
-::::### 34.2.3. Voyelle de liaison -i-
+::::
+### 34.2.3. Voyelle de liaison -i-
 
 :::grammar-box
 **Avant la terminaison de la 3e personne du pluriel Ā (-re), la voyelle de liaison -i- s'ajoute toujours, avant les autres terminaisons commençant par une consonne pour la majorité des racines.**
-:::### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
+:::
+### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
 
 :::grammar-box
 **Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.**
@@ -62,7 +66,8 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 **Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.**
 
 **ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.**
-:::Beispiele:
+:::
+Beispiele:
 
 ::::grammar-box
 
@@ -74,7 +79,8 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 
 :::::::grammar-box
 **Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".**
-:::Beispiele:
+:::
+Beispiele:
 
 ::::grammar-box
 
@@ -83,11 +89,13 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
-::::### 34.2.5. Reduplication des vocaliques initiales
+::::
+### 34.2.5. Reduplication des vocaliques initiales
 
 :::grammar-box
 **1. le a-, ā- initial est redoublé par a-, de sorte que ā- apparaît.**
-:::Exemples :
+:::
+Exemples :
 
 ::::grammar-box
 
@@ -97,7 +105,8 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 
 :::::::grammar-box
 **2. Les racines avec un i- initial ont comme syllabe de reduplication iy- dans le thème fort, i- dans le thème faible, qui se « fusionne » avec le vocalisme de la racine en ī-. Une analogie similaire vaut pour un u- initial.**
-:::Exemples :
+:::
+Exemples :
 
 ::::grammar-box
 
@@ -108,7 +117,8 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 
 :::::::grammar-box
 **3. Les racines qui commencent par a- devant deux consonnes ou par ṛ- ont comme syllabe de reduplication ān-**
-:::Exemples :
+:::
+Exemples :
 
 ::::grammar-box
 
@@ -117,7 +127,8 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
-::::## 34.3. Types de parfait à redoublement
+::::
+## 34.3. Types de parfait à redoublement
 
 Principe de classification : particularités de l’alternance vocalique du radical :
 *   Parfait sans alternance vocalique du radical : Type I
@@ -132,7 +143,8 @@ Principe de classification : particularités de l’alternance vocalique du radi
 *   **(Consonne)-Consonne-Voyelle-Consonne-Consonne**
 *   **a-Consonne**
 *   **ā-Consonne**
-:::Exemples :
+:::
+Exemples :
 
 ::::grammar-box
 
@@ -144,7 +156,8 @@ Principe de classification : particularités de l’alternance vocalique du radi
 | ⟪अस्⟫ 2P "être":br⟪अस्⟫ 4 "jeter" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
 | ⟪अश्⟫ | ⟪आनशे⟫:brreduplication irrégulière ! | ⟪आनशिरे⟫ |
 
-::::## 34.5. Type de parfait II : Radical fort au degré supérieur, radical faible au degré inférieur
+::::
+## 34.5. Type de parfait II : Radical fort au degré supérieur, radical faible au degré inférieur
 
 :::grammar-box
 **Formé à partir de racines de la forme :**
@@ -153,7 +166,8 @@ Principe de classification : particularités de l’alternance vocalique du radi
 **Formation :**
 *   **radical fort : degré supérieur**
 *   **radical faible : degré inférieur**
-:::Exemples :
+:::
+Exemples :
 
 ::::grammar-box
 
@@ -165,7 +179,8 @@ Principe de classification : particularités de l’alternance vocalique du radi
 | ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
-::::## 34.6. Liste de mots
+::::
+## 34.6. Liste de mots
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -176,7 +191,8 @@ Principe de classification : particularités de l’alternance vocalique du radi
 Fig. : ⟪सस्यम्⟫
 Champ de riz en Inde.
 (Source de l'image : [Détails](/fr/licenses#lekt3406))
-:::**⟪यावत्⟫ :** combien de temps, quelle taille
+:::
+**⟪यावत्⟫ :** combien de temps, quelle taille
 
 **⟪तावत्⟫ :** aussi longtemps, aussi grand
 
@@ -189,7 +205,8 @@ Champ de riz en Inde.
 Fig. : ⟪लक्षद्वीपाः⟫
 Carte des îles Lakshadweep.
 (Source de l'image : [Détails](/fr/licenses#lekt3405))
-:::**⟪मर्त्य⟫ 3 :** mortel (de **⟪मृ⟫**)
+:::
+**⟪मर्त्य⟫ 3 :** mortel (de **⟪मृ⟫**)
 
 **⟪तिल⟫ m. :** sésame (graine) (*Sesamum indicum* L.)
 
@@ -203,14 +220,16 @@ Graines de sésame.
 Fig. : *Sesamum indicum* L.
 Fleuraison de la plante de sésame.
 (Source de l'image : [Détails](/fr/licenses#lekt3404))
-:::**⟪स्वर्ण⟫ n. :** (de belle couleur =) or
+:::
+**⟪स्वर्ण⟫ n. :** (de belle couleur =) or
 
 :::media
 ![](/images/lekt3402.webp)
 Fig. : ⟪स्वर्णम्⟫
 Temple d'Or (Harmandir Sahib), Amritsar.
 (Source de l'image : [Détails](/fr/licenses#lekt3402))
-:::**⟪निकेतन⟫ n. :** demeure, temple
+:::
+**⟪निकेतन⟫ n. :** demeure, temple
 
 **⟪कोटि⟫ f. :** pointe ; 10 millions
 
@@ -225,7 +244,8 @@ Temple d'Or (Harmandir Sahib), Amritsar.
 Fig. : ⟪ऋषभः⟫
 Statue du taureau Nandi, collines de Chamundi, Mysore.
 (Source de l'image : [Détails](/fr/licenses#lekt3401))
-:::**⟪यम्⟫ 1P ⟪यच्छति⟫ :** retenir, garder, offrir, accorder
+:::
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** retenir, garder, offrir, accorder
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** tendre, présenter, livrer
 

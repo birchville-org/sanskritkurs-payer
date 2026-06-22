@@ -15,12 +15,14 @@ status: stable
 **-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — außer **a, ā** — unmittelbar oder nur durch **⟪अनुस्वार⟫** oder **⟪विसर्ग⟫** getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt.
 
 Diesem Sandhi folgt auch **⟪दुस्⟫-** vor tonlosen Gutturalen und Labialen in Komposita.
-:::*Beispiele:*
+:::
+*Beispiele:*
 :::indent
 **⟪तेषाम्⟫** (aus: *te-sām*)
 
 aber: **⟪तासाम्⟫** (*tā-sām*)
-:::## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
+:::
+## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
 
 :::grammar-box
 Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die entsprechenden Retroflexe ersetzt:
@@ -28,13 +30,15 @@ Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die 
 - **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
   *(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)*
-:::## 26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
+:::
+## 26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
 
 :::grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
 Beispiele siehe unten
-:::## 26.4. Grassmannsches Hauchdissimilationsgesetz
+:::
+## 26.4. Grassmannsches Hauchdissimilationsgesetz
 
 :::grammar-box
 **Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:**
@@ -43,20 +47,23 @@ Beispiel:
 
 :::indent
 \*dhu(gh) » du(g)h
-:::**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.**
+:::
+**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.**
 
 Beispiele: siehe unten Futur von  ⟪दुह्⟫ und  ⟪बुध्⟫
 ::::::media
 ![](/images/lekt2601.webp)
 Abb.: Hermann Graßmann
 (Bildquelle: [Details](/licenses#lekt2601))
-:::## 26.5. Wortsandhi für -m, -n vor Zischlaut
+:::
+## 26.5. Wortsandhi für -m, -n vor Zischlaut
 
 :::grammar-box
 **Vor Zischlauten werden -n und -m durch -ṃ- ersetzt:**
 
 Beispiel: s. unten Futur von ⟪मन्⟫
-:::## 26.6. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+:::
+## 26.6. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 :::grammar-box
 **Das Einfache Futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) drückt aus:**
@@ -71,14 +78,16 @@ Beispiel: s. unten Futur von ⟪मन्⟫
 - **Befehl**
 
 **Das Futur steht teilweise in Konkurrenz zum Optativ (siehe später).**
-:::z. B. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel."
+:::
+z. B. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel."
 
 
 :::media
 ![](/images/lekt2602.webp)
 Abb.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
 (Bildquelle: [Details](/licenses#lekt2602))
-:::## 26.7. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+:::
+## 26.7. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 
 :::grammar-box
 **Einfaches Futur:**
@@ -92,14 +101,16 @@ Abb.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ 
 **(meist) hochstufige Wurzel + -sya**  
 **oder**  
 **(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)**
-:::**Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!**  
+:::
+**Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!**  
 **Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv überein.**  
 **Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.**  
 **Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:**
 
 :::indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
-::::::Beispiele:
+::::::
+Beispiele:
 
 :::grammar-box
 
@@ -119,7 +130,8 @@ Abb.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ 
 | ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ vor Stimmlosem = ⟪भोत्⟫) |
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
-:::## 26.8. Übung
+:::
+## 26.8. Übung
 
 Bilden Sie die in Zahl, Person und Genus verbi (Parasmaipada, Ātmanepada) entsprechenden Futurformen:  
   

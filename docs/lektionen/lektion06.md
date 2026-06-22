@@ -17,7 +17,8 @@ status: stable
 - Indikativ Präsens (laṭ) und die Primärendungen der 3. Person
 - Die Bildung des Präsensstamms (Klassen 1, 4 und 6)
 - Die Lautabstufung (Ablaut: Guṇa und Vṛddhi)
-:::## 6.1. Der Verbalsatz
+:::
+## 6.1. Der Verbalsatz
 
 :::grammar-box
 **Schema I: Verbalform**
@@ -25,7 +26,8 @@ status: stable
 
 **Schema II: Agens (kartṛ m. = ⟪कर्तृ⟫) – Verbalform**
 - z.B. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma verehrt mit einem Opfer", "Rāma opfert"
-:::Wird der Agens (**kartṛ** m. = ⟪कर्तृ⟫) in einem Verbalsatz genannt, der nicht im Passiv steht, dann steht der Agens im **Nominativ** (erster Fall, prathamā = ⟪प्रथमा⟫). Im Numerus (Zahl, vacana n. = ⟪वचन⟫) stimmen dann Agens und Verbalform überein.
+:::
+Wird der Agens (**kartṛ** m. = ⟪कर्तृ⟫) in einem Verbalsatz genannt, der nicht im Passiv steht, dann steht der Agens im **Nominativ** (erster Fall, prathamā = ⟪प्रथमा⟫). Im Numerus (Zahl, vacana n. = ⟪वचन⟫) stimmen dann Agens und Verbalform überein.
 
 ---
 
@@ -68,7 +70,8 @@ Das Präsens ist das Tempus der Gegenwart, insbesondere auch der Dauer.
 
 :::grammar-box
 **Der Indikativ (Aussageform) Präsens wird gebildet, indem an den Präsensstamm die sogenannten Primärendungen angefügt werden.**
-:::Beispiele:
+:::
+Beispiele:
 
 | Wurzel (dhātu) | Präsensstamm | 3. Person Singular Indikativ Präsens Parasmaipada |
 | :--- | :--- | :--- |
@@ -85,7 +88,8 @@ Das Präsens ist das Tempus der Gegenwart, insbesondere auch der Dauer.
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
-:::Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
+:::
+Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
 - Präsensstamm: **yaja** = ⟪यज⟫
 - 3. sg. P. **yajati** = ⟪यजति⟫
 - 3. pl. P. **yajanti** = ⟪यजन्ति⟫
@@ -105,7 +109,8 @@ Das Präsens ist das Tempus der Gegenwart, insbesondere auch der Dauer.
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
-:::### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
+:::
+### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
 
 :::grammar-box
 | Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a- ||||
@@ -117,7 +122,8 @@ Das Präsens ist das Tempus der Gegenwart, insbesondere auch der Dauer.
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
 | Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Bildung der Hochstufe ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
-:::#### 6.5.2.1. Wortsandhi von e und o
+:::
+#### 6.5.2.1. Wortsandhi von e und o
 Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 
 #### 6.5.2.2. Lautabstufung (Ablaut)
@@ -130,7 +136,8 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
-:::### 6.5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
+:::
+### 6.5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
 
 :::grammar-box
 **Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + ya-**
@@ -141,11 +148,13 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
-:::### 6.5.4. Themavokal, thematische Präsensklassen
+:::
+### 6.5.4. Themavokal, thematische Präsensklassen
 
 :::grammar-box
 Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavokal**. Präsensklassen mit **a** im Stammbildungssuffix heißen deswegen "thematische Präsensklassen".
-:::---
+:::
+---
 
 ## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
 
@@ -155,7 +164,8 @@ Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavoka
 - (karoti, kurvanti zu **kṛ** = ⟪कृ⟫ 8 U: "tun, machen")
 - **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Geht es Ihnen gut?, Wie geht es Ihnen?"
 - Antwort: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Es geht mir) in jeder Hinsicht gut."
-:::---
+:::
+---
 
 ## 6.7. Wortliste
 
@@ -166,7 +176,8 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 - **Ā:** Wurzel ist nur Ātmanepada
 - **U:** Ubhayapada ("beide Wortformen"): Wurzel wird im Parasmaipada und Ātmanepada verwendet.
 - **():** In Klammern steht die 3. Person Singular Präsens Indikativ (laṭ).
-:::**Lernen Sie folgende Wörter:**
+:::
+**Lernen Sie folgende Wörter:**
 - **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : mit einem Opfer verehren, opfern
 - **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : werden, entstehen, sein
 - **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : vergegenwärtigen, sich erinnern
@@ -214,7 +225,8 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 **Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
 (Bildquelle: Wikipedia, CC-BY-SA 2.5)
-:::---
+:::
+---
 
 ## 6.9. Wiederholungsübung
 
@@ -291,7 +303,8 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 ![](/images/lekt0602.webp)
 **Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-Tempel, Madurai, Tamil Nadu
 (Bildquelle: Wikipedia, Public domain)
-:::4. Sie sind verwirrt.
+:::
+4. Sie sind verwirrt.
 5. Rāma ist ein heiliger Mann.
 6. Wer ist der HERR?
 7. Indra ist der HERR.

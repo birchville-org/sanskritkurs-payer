@@ -104,7 +104,8 @@ B) Trasformare le seguenti forme verbali nelle corrispondenti forme del Perfetto
 ![](/images/uebung065.webp)
 Fig.: ⟪आशिमेति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung065))
-:::---
+:::
+---
 
 ## Determinazione delle forme verbali
 

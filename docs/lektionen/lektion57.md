@@ -15,7 +15,8 @@ status: stable
 **Der s-Aorist wird zu den meisten ⟪अनिट्⟫-Wurzeln gebildet, sofern sie nicht ausschließlich eine andere Aoristform haben. Fakultative ⟪अनिट्⟫-Wurzeln können im allgemeinen wahlweise diesen oder den iṣ-Aorist bilden. Auch ⟪अनिट्⟫-Wurzeln, die das ⟪परस्मैपद⟫ nach der 1.,2. oder 6. Form des Aorist bilden, bilden das ⟪आत्मनेपद⟫ nach dem s-Aorist.**
 
 **Bildung: Augment + Wurzel + s + athematische Sekundärendung**
-:::Tabelle der Endungen mit Stammbildungssuffix
+:::
+Tabelle der Endungen mit Stammbildungssuffix
 
 :::grammar-box
 
@@ -33,12 +34,15 @@ Beispiele:
 :::indent
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫
-:::Solche Formen könnten auch zum Wurzelaorist gehören und gehören vermutlich z.T. auch dorthin.
-:::Die indischen Grammatiker haben auch Formen wie ⟪अकृत⟫ (3.sg.Ā) zum s-Aorist gerechnet, die eindeutig zum Wurzelaorist gehören. Zu diesem Zweck haben die indischen Grammatiker folgende ad-hoc Lautregel für den s-Aorist erfunden:
+:::
+Solche Formen könnten auch zum Wurzelaorist gehören und gehören vermutlich z.T. auch dorthin.
+:::
+Die indischen Grammatiker haben auch Formen wie ⟪अकृत⟫ (3.sg.Ā) zum s-Aorist gerechnet, die eindeutig zum Wurzelaorist gehören. Zu diesem Zweck haben die indischen Grammatiker folgende ad-hoc Lautregel für den s-Aorist erfunden:
 
 :::indent
 "Nach kurzem Vokal verlieren die "Endungen", die mit -st- oder -sth- beginnen, das -s-."
-:::Sonst sind die Lautregeln für die Verbindung auslautender Konsonanten mit s- zu beachten.
+:::
+Sonst sind die Lautregeln für die Verbindung auslautender Konsonanten mit s- zu beachten.
 
 Für -dhvam gilt:
 
@@ -56,7 +60,8 @@ z.B. ***⟪चि⟫*** 5U: 2.pl.Ā ***⟪अचेढ्वम्⟫***
     *   **auslautendes -ṝ wird durch -īr oder -ūr ersetzt**
     *   **ablautfähige Wurzeln auf ā/e/o: Tiefstufe**
     *   **andere Wurzelvokale: unverändert (d.h. in der Regel tiefstufig)**
-:::Beispiele:
+:::
+Beispiele:
 
 |   | **3.sg.P** |
 | --- | --- |
@@ -83,11 +88,13 @@ z.B. ***⟪चि⟫*** 5U: 2.pl.Ā ***⟪अचेढ्वम्⟫***
 
 :::indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫***⟪द्राक्षी⟫***⟪त्⟫
-:::Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+:::
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 :::indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***⟪क्राक्षी⟫***⟪त्⟫
-::::::Paradigmen:
+::::::
+Paradigmen:
 
 ⟪नी⟫ 1U "führen"
 
@@ -102,7 +109,8 @@ z.B. ***⟪चि⟫*** 5U: 2.pl.Ā ***⟪अचेढ्वम्⟫***
 ![](/images/lekt5701.webp)
 Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#lekt5701))
-:::⟪कृ⟫ 8U "tun"
+:::
+⟪कृ⟫ 8U "tun"
 
 |   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -133,7 +141,8 @@ Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 
 3.  ⟪बुध्⟫ Ā kann in der 3.sg.Ā wahlweise die Form des passiven Wurzelaorists annehmen:
     ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "er erkannte"
-:::## 57.2. Übung
+:::
+## 57.2. Übung
 
 A) Übersetzen und bestimmen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Aoristformen. Außer bei Kausativen und Wurzeln, die den s-Aorist bilden, ist in Klammer die Klasse des entsprechenden Aorists angegeben:
 

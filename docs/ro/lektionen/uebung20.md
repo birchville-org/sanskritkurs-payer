@@ -68,7 +68,8 @@ B) Traduceți folosind compusele în sanscrită:
 ![](/images/uebung031.webp)
 Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung031))
-:::---
+:::
+---
 
 ## Analiza compuselor
 
@@ -240,7 +241,8 @@ Rezolvați următoarele compuse ca Bahuvrīhi și/sau Dvandva și/sau Tatpuruṣ
 ![](/images/uebung030.webp)
 Fig.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Sursa imaginii: [Detalii](/licenses#uebung030))
-:::---
+:::
+---
 
 ## Fragmente Școlare
 
@@ -253,7 +255,8 @@ Yoga acțiunii este ascetismul, studierea Vedei și slujirea atentă a DOMNULUI.
 
 :::deleteme-box Explicație
 Cele cinci „suferințe” (⟪क्लेश⟫) sunt: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Sūtra de Yoga 2.3) — ignoranța, egoismul, lăcomia, ura și atașamentul față de corp.
-:::⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
+:::
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Cel mai înalt scop al omului este ca suferința triplă să dispară complet. (*Suferință triplă: din sine, de la obiecte, de la zei.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  

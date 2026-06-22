@@ -12,16 +12,19 @@ lesson_id: 53
 
 :::indent
 **⟪अश्विनौ⟫** „cei doi Aśvin”
-:::**Utilizarea dualului este obligatorie acolo unde este vorba despre două lucruri etc.:**
+:::
+**Utilizarea dualului este obligatorie acolo unde este vorba despre două lucruri etc.:**
 
 :::indent
 **⟪हस्तौ⟫** „mâinile (unui individ)”
 **⟪पादौ⟫** „picioarele (ale unui om, maimuță sau alt biped)”
-:::**Uneori, dualul desemnează un exemplar masculin și unul feminin din aceeași clasă (specie, gen):**
+:::
+**Uneori, dualul desemnează un exemplar masculin și unul feminin din aceeași clasă (specie, gen):**
 
 :::indent
 **⟪पितरौ⟫** „tată și mamă = părinți”
-:::**Cuvintele care înseamnă „o pereche” – de ex. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. – sunt totuși utilizate întotdeauna la singular, cu excepția cazului în care este vorba despre două sau mai multe perechi:**
+:::
+**Cuvintele care înseamnă „o pereche” – de ex. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. – sunt totuși utilizate întotdeauna la singular, cu excepția cazului în care este vorba despre două sau mai multe perechi:**
 
 :::indent
 **⟪बाहुद्वयम्⟫** „o pereche de brațe”
@@ -33,7 +36,8 @@ Fig.: ⟪मार्जारयुगम्⟫
 ![](/images/lekt5302.webp)
 Fig.: ⟪हस्तौ⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5302))
-:::## 53.2. Terminări de dual pentru substantive
+:::
+## 53.2. Terminări de dual pentru substantive
 
 :::grammar-box
 |   | Masculin/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutru :br ⟪नपुंसक⟫
@@ -43,7 +47,8 @@ Fig.: ⟪हस्तौ⟫
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
 ::::::grammar-box
 **Pentru substantive cu alternanță de stemă, nominativul, acuzativul și vocativul de dual masculin/feminin au stama puternică**
-:::## 53.3. Dualul stemelor care se termină cu consoană
+:::
+## 53.3. Dualul stemelor care se termină cu consoană
 
 ### 53.3.1. Triburi fără ierarhie tribală
 
@@ -55,7 +60,8 @@ Fig.: ⟪हस्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ ||
-:::⟪बलिन⟫ 3 „(în special) puternic”
+:::
+⟪बलिन⟫ 3 „(în special) puternic”
 
 :::grammar-box
 |   | Masculin :br ⟪पुंस्⟫ | Neutru :br ⟪नपुंसक⟫
@@ -63,7 +69,8 @@ Fig.: ⟪हस्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ ||
-:::⟪सुमनस्⟫ 3 „binevoitor”
+:::
+⟪सुमनस्⟫ 3 „binevoitor”
 
 :::grammar-box
 |   | Masculin/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutru :br ⟪नपुंसक⟫
@@ -71,7 +78,8 @@ Fig.: ⟪हस्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ ||
-:::⟪हविस्⟫ n. „jertfă”
+:::
+⟪हविस्⟫ n. „jertfă”
 
 :::grammar-box
 |   | Neutru :br ⟪नपुंसक⟫ |
@@ -79,7 +87,8 @@ Fig.: ⟪हस्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪हविषोस्⟫ |
-:::⟪दीर्घायुस्⟫ 3 „longeviv”
+:::
+⟪दीर्घायुस्⟫ 3 „longeviv”
 
 :::grammar-box
 |   | Masculin/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutru :br ⟪नपुंसक⟫
@@ -87,7 +96,8 @@ Fig.: ⟪हस्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
-:::### 53.3.2. Treci cu stratificare tribală
+:::
+### 53.3.2. Treci cu stratificare tribală
 
 **Participul prezent al Paradigmei Parasmaipada**
 
@@ -103,7 +113,8 @@ Fig.: ⟪हस्तौ⟫
 ![](/images/lekt5305.webp)
 Fig.: ⟪भरन्तौ⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5305))
-:::⟪ददत्⟫ 3 "dând"
+:::
+⟪ददत्⟫ 3 "dând"
 
 :::grammar-box
 |   | Masculin :br ⟪पुंस्⟫ | Neutru :br ⟪नपुंसक⟫
@@ -111,7 +122,8 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
-:::**Treci cu sufixul -mant/-vant**
+:::
+**Treci cu sufixul -mant/-vant**
 
 ⟪पशुमन्त्⟫ 3 "deținând vite"
 
@@ -121,7 +133,8 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ ||
-:::⟪महान्त्⟫ 3 "mare"
+:::
+⟪महान्त्⟫ 3 "mare"
 
 :::grammar-box
 |   | Masculin :br ⟪पुंस्⟫ | Neutru :br ⟪नपुंसक⟫
@@ -129,7 +142,8 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ ||
-:::⟪आत्मन्⟫ m.
+:::
+⟪आत्मन्⟫ m.
 
 :::grammar-box
 |   | Masculin :br ⟪पुंस्⟫ |
@@ -137,7 +151,8 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪आत्मनोस्⟫ |
-:::⟪ब्रह्मन्⟫ n.
+:::
+⟪ब्रह्मन्⟫ n.
 
 :::grammar-box
 |   | Neutru :br ⟪नपुंसक⟫ |
@@ -145,7 +160,8 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ब्रह्मणोस्⟫ |
-:::⟪राजन्⟫ m. "rege"
+:::
+⟪राजन्⟫ m. "rege"
 
 :::grammar-box
 |   | Masculin :br ⟪पुंस्⟫ |
@@ -153,7 +169,8 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪राज्ञोस्⟫ |
-:::⟪सीमन्⟫ f. "graniță"
+:::
+⟪सीमन्⟫ f. "graniță"
 
 :::grammar-box
 |   | Feminin :br ⟪स्त्री⟫ |
@@ -161,7 +178,8 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सीम्नोस्⟫ |
-:::⟪नामन्⟫ n. "nume"
+:::
+⟪नामन्⟫ n. "nume"
 
 :::grammar-box
 |   | Neutru :br ⟪नपुंसक⟫ |
@@ -169,7 +187,8 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br ***⟪नामानी⟫*** |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
-:::## 53.4. Dualul stemelor vocale care se termină
+:::
+## 53.4. Dualul stemelor vocale care se termină
 
 **Steme pe -a**
 
@@ -186,7 +205,8 @@ Fig.: ⟪भरन्तौ⟫
 ![](/images/lekt5306.webp)
 Fig.: ⟪फले⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5306))
-:::**Steme pe -i**
+:::
+**Steme pe -i**
 
 ⟪अग्नि⟫ m. "foc"  
 ⟪वारि⟫ n. "apă"  
@@ -198,7 +218,8 @@ Fig.: ⟪फले⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪अग्नी⟫*** | ***⟪मती⟫*** | ⟪वारिणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
-:::**Steme pe -u**
+:::
+**Steme pe -u**
 
 ⟪शत्रु⟫ m.  
 ⟪धिनु⟫ f.  
@@ -214,7 +235,8 @@ Fig.: ⟪फले⟫
 ![](/images/lekt5307.webp)
 Fig.: ⟪धेनू⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5307))
-:::**Steme pe -ā**
+:::
+**Steme pe -ā**
 
 ⟪कन्या⟫ f. "fată"
 
@@ -224,7 +246,8 @@ Fig.: ⟪धेनू⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪कन्ये⟫*** |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ***⟪कन्ययोस्⟫*** |
-:::**Steme polisilabice pe -ī**
+:::
+**Steme polisilabice pe -ī**
 
 ⟪देवी⟫ f. "zeiță"
 
@@ -234,7 +257,8 @@ Fig.: ⟪धेनू⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ |
-:::**Steme pe -ṛ**
+:::
+**Steme pe -ṛ**
 
 ⟪दातृ⟫ 3 "dăruitor"
 
@@ -244,7 +268,8 @@ Fig.: ⟪धेनू⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | ***⟪दातृणी⟫***
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
-:::⟪पितृ⟫ m. "tată"
+:::
+⟪पितृ⟫ m. "tată"
 
 :::grammar-box
 |   | Masculin :br ⟪पुंस्⟫ |
@@ -252,7 +277,8 @@ Fig.: ⟪धेनू⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
-:::## 53.5. Dualdvandva
+:::
+## 53.5. Dualdvandva
 
 Exemple:
 
@@ -266,21 +292,25 @@ Exemple:
 
 :::indent
 ⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ "Mamă și tată"
-:::**Același lucru se întâmplă cu un astfel de cuvânt de rudenie într-un Dvandva înaintea lui -⟪पुत्र⟫ :**
+:::
+**Același lucru se întâmplă cu un astfel de cuvânt de rudenie într-un Dvandva înaintea lui -⟪पुत्र⟫ :**
 
 :::indent
 **⟪पितापुत्रौ⟫"Tată și fiu"**
-:::**Când numele a două zeități, care sunt menționate în mod obișnuit în timpul sacrificiilor, formează un Dvandva, vocala finală a primului element este de obicei lungită:**
+:::
+**Când numele a două zeități, care sunt menționate în mod obișnuit în timpul sacrificiilor, formează un Dvandva, vocala finală a primului element este de obicei lungită:**
 
 :::indent
 ⟪मि⟫***⟪त्रा⟫***⟪वरुणौ⟫ "Mitra și Varuṇa"
 **⟪अग्नीसोमौ⟫"Agni și Soma"**
-:::**Această lungire vocalică apare și în alte Dvandva.**
+:::
+**Această lungire vocalică apare și în alte Dvandva.**
 :::::::media
 ![](/images/lekt5308.webp)
 Fig.: ⟪पितापुत्रौ⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5308))
-:::## 53.6. Dualul pronumelor
+:::
+## 53.6. Dualul pronumelor
 
 :::grammar-box
 |   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
@@ -299,7 +329,8 @@ Fig.: ⟪पितापुत्रौ⟫
 | **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
 | **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
 |   | Restul ca la Masculin ||||||||
-:::⟪कतर⟫ 3 „cine dintre amândoi” și ⟪कतम⟫ 3 „cine dintre mai mulți” se declină în toate cazurile ca ⟪यद्⟫.
+:::
+⟪कतर⟫ 3 „cine dintre amândoi” și ⟪कतम⟫ 3 „cine dintre mai mulți” se declină în toate cazurile ca ⟪यद्⟫.
 
 ## 53.7. Adjective pronominale
 
@@ -334,18 +365,21 @@ Următoarele adjective pronominale se declină ca ⟪सर्व⟫. La ablativ
 **Superlativul în -iṣṭha (fem.: iṣṭhā) se declină ca declinarea temelor în a- sau ā-.**
 
 **Deklination von -īyas siehe unten.**
-:::Exemple:
+:::
+Exemple:
 
 :::grammar-box
 | Rădăcină | Adjectiv | Comparativ | Superlativ |
 | --- | --- | --- | --- |
 | ⟪क्षिप्⟫ 6P "a arunca" | ⟪क्षिप्र⟫ 3 "rapid" | ***⟪क्षेपीयस्⟫*** 3 "mai rapid" :br ⟪क्षिप्रतर⟫ 3 | ***⟪क्षेपिष्ठ⟫*** 3 "cel mai rapid" :br ⟪क्षिप्रतम⟫ 3 |
 | ⟪स्था⟫ 1P "a sta" | ⟪स्थिर⟫ 3 "stabil, ferm" | ***⟪स्थेयस्⟫*** 3 "mai ferm" :br ⟪स्थिरतर⟫ 3 | ***⟪स्थेष्ठ⟫*** 3 "cel mai ferm" :br ⟪स्थिरतम⟫ 3 |
-:::**Reguli speciale pentru atașarea acestor sufixe:**
+:::
+**Reguli speciale pentru atașarea acestor sufixe:**
 
 :::grammar-box
 **Regula 1:** **Vocala finală a unei teme masculine polisilabice, respectiv vocala finală și vocala anterioară, se elidează.**
-:::Exemple:
+:::
+Exemple:
 
 :::grammar-box
 | Adjectiv | Comparativ | Superlativ |
@@ -354,7 +388,8 @@ Următoarele adjective pronominale se declină ca ⟪सर्व⟫. La ablativ
 | ⟪महान्त्⟫ 3 "mare" | ⟪म⟫***⟪ही⟫***⟪यस्⟫ | ⟪म⟫***⟪हि⟫***⟪ष्ठ⟫ |
 ::::::grammar-box
 **Regula 2:** **Sufixele posesive (-mant, vant, -vin, -in etc.) se elidează. Dacă părtea rămasă constă dintr-o singură silabă, aceasta nu este modificată în continuare, se anulează doar modificările fonetice cauzate de atașarea sufixului posesiv. Dacă însă restul constă din mai mult de o silabă, intră în vigoare Regula 1.**
-:::Exemple:
+:::
+Exemple:
 
 :::grammar-box
 | Adjectiv | Comparativ | Superlativ |
@@ -364,13 +399,15 @@ Următoarele adjective pronominale se declină ca ⟪सर्व⟫. La ablativ
 | ⟪वसुमन्त्⟫ "care posedă bunuri" | ⟪व⟫***⟪सी⟫***⟪यस्⟫ | ⟪व⟫***⟪सि⟫***⟪ष्ठ⟫ |
 ::::::grammar-box
 **Regula 3:** **Pentru -ṛ-, care este precedată de o vocală inițială și urmată de un singur consonant, se substituie -ra-.**
-:::Exemplu:
+:::
+Exemplu:
 
 :::grammar-box
 | Adjectiv | Comparativ | Superlativ |
 | --- | --- | --- |
 | ⟪पृथु⟫ 3 "lat" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
-:::**Lista formelor de comparație cele mai frecvente de acest fel, pentru adjectivele învățate până acum:**
+:::
+**Lista formelor de comparație cele mai frecvente de acest fel, pentru adjectivele învățate până acum:**
 
 :::grammar-box
 | Adjectiv | Comparativ | Superlativ |
@@ -394,7 +431,8 @@ Următoarele adjective pronominale se declină ca ⟪सर्व⟫. La ablativ
 ![](/images/lekt5309.webp)
 Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5309))
-:::**Unele forme de comparație de acest tip nu au deloc o formă de bază derivată din rădăcină, ele sunt "defective". De aceea, următoarele serii trebuie reținute cu deosebită atenție:**
+:::
+**Unele forme de comparație de acest tip nu au deloc o formă de bază derivată din rădăcină, ele sunt "defective". De aceea, următoarele serii trebuie reținute cu deosebită atenție:**
 
 :::grammar-box
 | (Adjectiv) | Comparativ | Superlativ |
@@ -405,7 +443,8 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪बहु⟫ 3 "mult") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "bătrân") | ⟪वर्षीयस्⟫ :br la ⟪वर्ष⟫ n.m. "perioada ploilor, an" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "bătrân") | ⟪ज्यायस्⟫ :br de asemenea: "mai bun" :br la ⟪ज्या⟫ f. "supremație" | ⟪ज्येष्ठ⟫ :br de asemenea: "cel mai bun" |
-:::## 53.9. Declinarea comparativelor în -īyas
+:::
+## 53.9. Declinarea comparativelor în -īyas
 
 :::grammar-box
 **Comparativele în -īyas formează femininul în -īyasī (declinare conform cu ⟪देवी⟫). Masculinul și neutrul se declină conform următorului paradigmă.**
@@ -422,13 +461,15 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | **⟪षष्ठी⟫** | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
 | **⟪सप्तमी⟫** | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
 | **⟪आमन्त्रितम्⟫** | ***⟪गरीयान्⟫*** | **⟪गरीयस्⟫** | **⟪गरीयांसौ⟫** | **⟪गरीयसी⟫** | **⟪गरीयांसस्⟫** | **⟪गरीयांसि⟫** |
-:::## 53.10. Metrică (învățământ despre măsurile versurilor)
+:::
+## 53.10. Metrică (învățământ despre măsurile versurilor)
 
 :::media
 ![](/images/lekt5303.jpg)
 Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5303))
-:::Vedeți, de asemenea:
+:::
+Vedeți, de asemenea:
 
 > **Payer, Alois &lt;1944 - &gt;:** Introducere în exegesa textelor sanscrite: manual. -- Cap. 8: Exegesa propriu-zisă, Partea a II-a: Cu privire la anumite aspecte ale înțelegerii sincrone. -- Anexa B: Cu privire la metrica textelor sanscrite. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
@@ -444,7 +485,8 @@ Stabilirea metricii este importantă din următoarele motive:
 ![](/images/lekt5304.jpg)
 Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5304))
-:::### 53.10.2. Tipuri de metre
+:::
+### 53.10.2. Tipuri de metre
 
 :::grammar-box
 **Indienii fac distincția:**
@@ -456,7 +498,8 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 
 *   metre în care numărul de silabe este fixat, dar cantitatea acestor silabe este fixată doar parțial
 *   metre în care atât numărul de silabe, cât și cantitatea lor sunt fixate
-:::### 53.10.3. Cantitatea metrică a silabelor
+:::
+### 53.10.3. Cantitatea metrică a silabelor
 
 ::::grammar-box
 **Mnemotehnică**
@@ -466,7 +509,8 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 ⟪विसर्गी⟫ ⟪च⟫ ⟪गुरुर्भवेत्⟫ ⟪।⟫
 ⟪वर्णः⟫ ⟪संयोगपूर्वश्च⟫
 ⟪तथा⟫ ⟪पादान्तगो⟫ ⟪ऽपि⟫ ⟪वा⟫ ⟪॥⟫
-:::„O silabă este grea,
+:::
+„O silabă este grea,
 
 *   wenn ihr Vokal einen Anusvāra hat,
 *   lungă,
@@ -496,18 +540,23 @@ Kurze Vokale sind a, i, u, ṛ, ḷ
 *   **—** = ⟪ग⟫ = ⟪गुरु⟫
 *   **×** = ⟪लघु⟫ sau ⟪गुरु⟫
 *   **/** = cezură (separare de cuvinte)
-:::Exemplu: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
+:::
+Exemplu: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 
 :::indent
 ⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫
 ⟪मामकाः⟫ ⟪पाण्डवाश्चैव⟫ ⟪किम्⟫ ⟪अकुर्वत⟫ ⟪संजय⟫ ⟪॥१॥⟫
-:::Distribuirea ⟪लघु⟫ și ⟪गुरु⟫ :
+:::
+Distribuirea ⟪लघु⟫ și ⟪गुरु⟫ :
 
-:::metrik-schema
+:::
+metrik-schema
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
-::::::metrik-schema
+::::::
+metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
-:::### 53.10.4. El śloka epic (⟪श्लोक⟫ m.)
+:::
+### 53.10.4. El śloka epic (⟪श्लोक⟫ m.)
 
 ::::grammar-box
 **Mnemotehnică:**
@@ -517,10 +566,12 @@ Kurze Vokale sind a, i, u, ṛ, ḷ
 ⟪सर्वत्र⟫ ⟪लघु⟫ ⟪पञ्चमम्⟫ ⟪।⟫
 ⟪द्विचतुष्पादयोर्ह्रस्वं⟫
 ⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫
-:::"În śloka, a șasea silabă a unui pāda este grea,  
+:::
+"În śloka, a șasea silabă a unui pāda este grea,  
 a cincea în toate pādas-urile ușoară.  
 A șaptea silabă este în al doilea și al patrulea pāda scurtă, lungă în celelalte două."
-::::Cel mai important metru în epopee (⟪महाभारत⟫, ⟪रामायण⟫) precum și în nenumărate alte opere este śloka ("chemare", "zgomot", "strofă" de la ⟪श्रु⟫ "a auzi").
+::::
+Cel mai important metru în epopee (⟪महाभारत⟫, ⟪रामायण⟫) precum și în nenumărate alte opere este śloka ("chemare", "zgomot", "strofă" de la ⟪श्रु⟫ "a auzi").
 
 ::::grammar-box
 **⟪श्लोक⟫ este un dublet de vers format din hemistihuri de câte 16 silabe. Fiecare hemistih se descompune la rândul său în două sferturi de vers (⟪पाद⟫) de câte 8 silabe. Fiecare sfert de vers se descompune în două părți de câte 4 silabe. Versul întreg (⟪पद्य⟫ n.) constă deci din patru ⟪पाद⟫ (m. "picior, sfert"). Cele patru ⟪पाद⟫ sunt numerotate cu a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫).**
@@ -530,33 +581,47 @@ A șaptea silabă este în al doilea și al patrulea pāda scurtă, lungă în c
 **Schema de bază (⟪पथ्या⟫):**
 
 **a = c:**
-:::metrik-schema
+:::
+metrik-schema
 × × × ×   **◡ — — —**
-:::**b = d:**
-:::metrik-schema
+:::
+**b = d:**
+:::
+metrik-schema
 × × × ×   **◡ — ◡ —**
-:::A doua și a treia silabă a unui ⟪पाद⟫ nu ar trebui să fie simultan ⟪लघु⟫. În b și d, silabele 2 - 4 nu pot fi ¯ ˘ ¯.
+:::
+A doua și a treia silabă a unui ⟪पाद⟫ nu ar trebui să fie simultan ⟪लघु⟫. În b și d, silabele 2 - 4 nu pot fi ¯ ˘ ¯.
 
 **Scheme secundare (⟪विपुला⟫) pentru a și c:**
 
 **⟪विपुला⟫ 1:**
-:::metrik-schema
+:::
+metrik-schema
 × × × —   ◡ ◡ ◡ —
-:::**⟪विपुला⟫ 2:**
-:::metrik-schema
+:::
+**⟪विपुला⟫ 2:**
+:::
+metrik-schema
 × — ◡ —   — ◡ ◡ —
-:::**⟪विपुला⟫ 3:**
-:::metrik-schema
+:::
+**⟪विपुला⟫ 3:**
+:::
+metrik-schema
 × — ◡ —   — / — — —
-:::**⟪विपुला⟫ 4:**
-:::metrik-schema
+:::
+**⟪विपुला⟫ 4:**
+:::
+metrik-schema
 × × × ×   / — ◡ — —
-:::**În toate formele śloka, cauzura principală se află la sfârșitul celui de-al doilea ⟪पाद⟫: acolo fie se termină cuvântul, fie — în cazul compuselor lungi — se termină un element compozitional.**
-::::## 53.11. Exercițiu
+:::
+**În toate formele śloka, cauzura principală se află la sfârșitul celui de-al doilea ⟪पाद⟫: acolo fie se termină cuvântul, fie — în cazul compuselor lungi — se termină un element compozitional.**
+::::
+## 53.11. Exercițiu
 
 :::grammar-box
 **Determinați printre toate versurile învățate până acum Ślokas. Întocmiți pentru acestea schema metrică scrisă. Semnalați eventualele neregularități sau forme Vipulā.**
-::::::center
+::::::
+center
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

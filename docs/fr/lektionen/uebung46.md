@@ -66,7 +66,8 @@ A) Déterminez et traduisez les formes suivantes :
 | ⟪५०⟫. **⟪ददाने⟫** | ⟪दा⟫ (3U) Part. Präs. Ā. Lok. sg. m./n. | dans le donateur |
 | ⟪५१⟫. **⟪सुषुपुः⟫** | ⟪स्वप्⟫ (2P) 3. pl. P. Perf. | ils ont dormi |
 | ⟪५२⟫. **⟪ऊसु⟫** | ⟪वस्⟫ (1P) 2. pl. P. Perf. | vous avez habité |
-:::---
+:::
+---
 
 ## Verses (⟪सुभाषितानि⟫)
 

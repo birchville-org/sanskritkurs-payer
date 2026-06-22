@@ -17,14 +17,16 @@ A) Bilden Sie zu folgenden Formen sowohl die reduplizierten als auch die periphr
 | ⟪२⟫. **⟪बिभ्यति⟫** | ⟪बिभ्युः⟫ | ⟪बिभयां⟫ ⟪चक्रुः⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪३⟫. **⟪जुहोति⟫** | ⟪जुहाव⟫ | ⟪जुहवां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪४⟫. **⟪वेत्ति⟫** | ⟪विवेद⟫ | ⟪विदां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
-:::B) Bilden Sie das periphrastische Perfekt zur Wurzel **⟪आस्⟫** (sitzen):
+:::
+B) Bilden Sie das periphrastische Perfekt zur Wurzel **⟪आस्⟫** (sitzen):
 
 :::grammar-box
 | Präsens | Periphrastisches Perfekt |
 | :--- | :--- |
 | ⟪१⟫. **⟪आस्ते⟫** | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. **⟪आसते⟫** | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
-:::C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
+:::
+C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
 
 :::grammar-box
 | Präsens / Imperfekt | Perfekt |
@@ -42,7 +44,8 @@ A) Bilden Sie zu folgenden Formen sowohl die reduplizierten als auch die periphr
 | ⟪११⟫. **⟪क्रामन्ति⟫** | ⟪चक्रमुः⟫ |
 | ⟪१२⟫. **⟪प्राव्रजन्⟫** | ⟪प्रवव्रजुः⟫ |
 | ⟪१३⟫. **⟪त्यक्ष्यति⟫** | ⟪तत्याज⟫ |
-:::---
+:::
+---
 
 ## Übersetzungen
 
@@ -65,7 +68,8 @@ Allein von der Wissenschaft kann man nicht leben. Wer das weiß, sollte nicht st
 ![](/images/uebung061.webp)
 Abb.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (Bildquelle: [Details](/licenses#uebung061))
-:::---
+:::
+---
 
 ## Scholarly Fragments
 
@@ -91,7 +95,8 @@ Wenn ein Mann sich weder freut noch verdrießt, wenn er hört, berührt, sieht, 
 ![](/images/uebung060.webp)
 Abb.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Bildquelle: [Details](/licenses#uebung060))
-:::---
+:::
+---
 
 ## Wortformbestimmung
 

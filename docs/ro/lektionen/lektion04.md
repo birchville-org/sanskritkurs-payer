@@ -16,7 +16,8 @@ status: stable
 - Sandhi pentru -e final
 - Sandhi pentru -d final
 - Formule simple de întrebare
-:::## 4.1. Întrebări simple de completare (întrebări cu cuvinte) și răspunsuri
+:::
+## 4.1. Întrebări simple de completare (întrebări cu cuvinte) și răspunsuri
 
 ### 4.1.1. Pronume interogative și pronume demonstrative
 
@@ -28,7 +29,8 @@ status: stable
 | **Neutrum** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
 | **Maskulinum** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
 | **Feminimum** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
-:::#### 4.1.1.2. Pronume demonstrative (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+:::
+#### 4.1.1.2. Pronume demonstrative (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 :::grammar-box
 | **Steme** ||||
@@ -42,7 +44,8 @@ status: stable
 | **Neutrum** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
 | **Maskulinum** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
 | **Femininum** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
-:::**Pentru Nom. sg. masc.:**
+:::
+**Pentru Nom. sg. masc.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) apare înainte de toate sunetele, cu excepția scurtului **-a**
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) apare înainte de **-a**, care este elidat prin Avagraha (dispare)
 - **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) apare doar în pauză (sfârșit de propoziție, sfârșit de vers)
@@ -53,7 +56,8 @@ Pentru a putea forma propoziții cu aceste pronume (sarvanāman n.), este necesa
 
 :::grammar-box
 **Sunetul -m final este înlocuit cu Anusvāra (-ṃ) în fața consoanelor. La sfârșitul propoziției sau versului și în fața vocalelor, -m se păstrează.**
-:::### 4.1.3. Sandhi de -e final
+:::
+### 4.1.3. Sandhi de -e final
 
 :::grammar-box
 1. **înaintea lui a-, -e rămâne neschimbat: a- inițial se elidează cu Avagraha:**
@@ -61,13 +65,15 @@ Pentru a putea forma propoziții cu aceste pronume (sarvanāman n.), este necesa
 
 2. **Înaintea altor vocale decât a- scurt, -e este de obicei înlocuit cu -a cu hiat. De asemenea, înlocuirea cu -ay apare:**
    ex. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (rar: imay īśvarāh = ⟪इमयीश्वराः⟫) "Acești DOMNI"
-:::### 4.1.4. Sandhi al sunetului -d
+:::
+### 4.1.4. Sandhi al sunetului -d
 
 :::grammar-box
 **Sunetul final -d se înlocuiește cu -t în pauză, precum și în fața guturalelor surde (k, kh) și a labialelor (p, ph).**
 
 Înlocuirea în fața altor consoane va fi discutată mai târziu. Evitați pe cât posibil aceste coliziuni fonetice!
-:::### 4.1.5. Formule de întrebare
+:::
+### 4.1.5. Formule de întrebare
 
 Prin intermediul acestor pronume se formează, de exemplu, următoarele formule de întrebare:
 
@@ -81,7 +87,8 @@ Prin intermediul acestor pronume se formează, de exemplu, următoarele formule 
 | **Plural** | **Neutru** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
 | | **Masculin** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
 | | **Feminin** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
-:::::::Un exemplu de alte întrebări:
+:::::::
+Un exemplu de alte întrebări:
 
 > viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Răspuns: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (În această construcție nominală, se poate plasa subiectul, de exemplu, la început, pentru a sublinia legătura cu întrebarea.)
 

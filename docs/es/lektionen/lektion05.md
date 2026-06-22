@@ -15,7 +15,8 @@ status: stable
 - Terminología técnica para compuestos
 - Compuestos copulativos (Dvandva)
 - El orden de los miembros en Dvandvas
-:::## 5.1. Compuestos nominales (samāsa m. = ⟪समास⟫)
+:::
+## 5.1. Compuestos nominales (samāsa m. = ⟪समास⟫)
 
 La formación de compuestos de palabras en un grado muy amplio es una característica del sánscrito.
 
@@ -60,7 +61,8 @@ El Dvandva es generalmente un neutro (independientemente del género del último
 
 **La resolución:**
 Se realiza con "y" (**ca** = ⟪च⟫), ocasionalmente con "o" (**vā** = ⟪वा⟫) o "cada uno".
-:::¡Véase más adelante sobre los Dvandvas duales!
+:::
+¡Véase más adelante sobre los Dvandvas duales!
 
 ### 5.3.1. Miembros anteriores de compuestos
 
@@ -106,7 +108,8 @@ Cuando dos de las tres últimas prescripciones mencionadas puedan aplicarse simu
 ![](/images/lekt0501.webp)
 Fig.: Dios Kāma = kāmadeva = ⟪कामदेव⟫, siglo XVIII.
 (Fuente de la imagen: Wikipedia, dominio público)
-:::**krodha** m. = ⟪क्रोध⟫ : ira.
+:::
+**krodha** m. = ⟪क्रोध⟫ : ira.
 
 **kleśa** m. = ⟪क्लेश⟫ : tormento, plaga.
 

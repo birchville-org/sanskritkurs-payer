@@ -22,7 +22,8 @@ status: stable
 | **1st Person**:br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
 | **2nd Person**:br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
 | **3rd Person**:br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
-:::⟪रुध्⟫ 7U
+:::
+⟪रुध्⟫ 7U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -31,11 +32,13 @@ status: stable
 | **1st Person**:br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
 | **2nd Person**:br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
 | **3rd Person**:br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
-:::### 49.1.2. Fifth Present Class (⟪स्वादि⟫)
+:::
+### 49.1.2. Fifth Present Class (⟪स्वादि⟫)
 
 :::grammar-box
 The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where only a consonant precedes the final -u of the suffix.
-:::⟪सु⟫ 5U
+:::
+⟪सु⟫ 5U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -44,7 +47,8 @@ The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where on
 | **1st Person**:br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
 | **2nd Person**:br⟪मध्यमः⟫ | ***⟪सुनु⟫*** | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
 | **3rd Person**:br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
-:::⟪आप्⟫ 5P
+:::
+⟪आप्⟫ 5P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -53,7 +57,8 @@ The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where on
 | **1st Person**:br⟪तृतीयः⟫ | ⟪आप्नवानि⟫ | ⟪आप्नवाम⟫ |
 | **2nd Person**:br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
 | **3rd Person**:br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
-:::### 49.1.3. Eighth Present Class (⟪तनादि⟫)
+:::
+### 49.1.3. Eighth Present Class (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -64,7 +69,8 @@ The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where on
 | **1st Person**:br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
 | **2nd Person**:br⟪मध्यमः⟫ | ***⟪तनु⟫*** | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
 | **3rd Person**:br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
-:::⟪कृ⟫ 8U
+:::
+⟪कृ⟫ 8U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -73,7 +79,8 @@ The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where on
 | **1st Person**:br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
 | **2nd Person**:br⟪मध्यमः⟫ | ***⟪कुरु⟫*** | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
 | **3rd Person**:br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
-:::### 49.1.4. Ninth Present Class (⟪क्र्यादि⟫)
+:::
+### 49.1.4. Ninth Present Class (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 
@@ -86,7 +93,8 @@ The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where on
 | **3rd Person**:br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
 ::::::grammar-box
 Roots of the 9th class ending in a consonant replace the final -nī-hi of the 2.sg. Imperative with -āna
-:::⟪ग्रह्⟫ 9U
+:::
+⟪ग्रह्⟫ 9U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -95,7 +103,8 @@ Roots of the 9th class ending in a consonant replace the final -nī-hi of the 2.
 | **1st Person**:br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
 | **2nd Person**:br⟪मध्यमः⟫ | ***⟪गृहाण⟫*** | ⟪गृह्णीत⟫ |
 | **3rd Person**:br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
-:::## 49.2. Declension of nominal stems ending in -as, -is, -us
+:::
+## 49.2. Declension of nominal stems ending in -as, -is, -us
 
 #### Neuters (⟪नपुंसक⟫)
 
@@ -116,7 +125,8 @@ Roots of the 9th class ending in a consonant replace the final -nī-hi of the 2.
 | **⟪पञ्चमी⟫** | ⟪मनोभ्यस्⟫ | ⟪हविर्भ्यस्⟫ | ⟪चक्षुर्भ्यस्⟫ |
 | **⟪षष्ठी⟫** | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
-:::#### Masculines (⟪पुंस्⟫) and Feminines (⟪स्त्री⟫)
+:::
+#### Masculines (⟪पुंस्⟫) and Feminines (⟪स्त्री⟫)
 
 Most cases are **⟪बहुव्रीहि⟫** with a -s stem (originally neuter) in the second member.
 
@@ -136,7 +146,8 @@ Remaining cases of the singular as with Neuter
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
 ::::::indent
 Remaining cases of the plural as with Neuter
-:::## 49.3. Nominal Derivation: ⟪कृत्⟫-Suffix -as Neuter
+:::
+## 49.3. Nominal Derivation: ⟪कृत्⟫-Suffix -as Neuter
 
 With the ⟪कृत्⟫-suffix -as Neuter, numerous nouns are formed. Mostly these are abstracta or nomina actionis (words that denote the action).
 
@@ -150,13 +161,15 @@ Examples:
 | ⟪मन्⟫ 4Ā "to think" | ⟪मनस्⟫ n. "thinking, thought, organ of thought" |
 | ⟪नम्⟫ 1P "to bend" | ⟪नमस्⟫ n. "bowing, reverence" |
 | ⟪चित्⟫ 1P "to perceive, to think" | ⟪चेतस्⟫ n. "insight" |
-:::Nouns on -is and -us are relatively rare.
+:::
+Nouns on -is and -us are relatively rare.
 
 :::media
 ![](/images/lekt4907.webp)
 Fig.: ⟪नमस्ते⟫
 (Image source: [Details](/en/licenses#lekt4907))
-:::## 49.4. Word List
+:::
+## 49.4. Word List
 
 ⟪दीर्घ⟫ 3: long
 
@@ -173,7 +186,8 @@ see:
 
 :::indent
 **Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer &lt;1944 - &gt;. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
-:::::::⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : throw, hurl
+:::::::
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : throw, hurl
 
 :::indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -184,7 +198,8 @@ PPP ⟪क्षिप्त⟫
 Inf. ⟪क्षेप्तुम्⟫
 Absol. -⟪क्षिप्य⟫
 Gerundive: ⟪क्षेप्य⟫
-:::⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : hasten
+:::
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : hasten
 
 :::indent
 Perf. Vc ⟪तत्वरे⟫
@@ -193,7 +208,8 @@ Pass. ⟪त्वर्यते⟫
 Caus. ⟪त्वरयति⟫
 PPP ⟪त्वरित⟫ ⟪।⟫ ***⟪तू्र्⟫***⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
-:::⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : harm
+:::
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : harm
 
 :::indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
@@ -202,13 +218,15 @@ Pass. ⟪द्रुह्यते⟫
 Caus. ⟪द्रोहयति⟫
 PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
 Inf. ⟪द्रोग्धुम्⟫
-:::⟪कुलूहल⟫ n.: curiosity, interest
+:::
+⟪कुलूहल⟫ n.: curiosity, interest
 
 :::media
 ![](/images/lekt4901.webp)
 Fig.: ⟪कुलूहलम्⟫
 (Image source: [Details](/en/licenses#lekt4901))
-:::⟪कृत्स्न⟫ 3: whole, complete
+:::
+⟪कृत्स्न⟫ 3: whole, complete
 
 ⟪परिचय⟫ m.: acquaintance
 
@@ -219,7 +237,8 @@ Fig.: ⟪कुलूहलम्⟫
 Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, 11th cent.
 (Image source: [Details](/en/licenses#lekt4902))
-:::⟪वर⟫ m.n.: wish
+:::
+⟪वर⟫ m.n.: wish
 
 ⟪उत⟫ Indecl.: and, also, or
 
@@ -229,14 +248,16 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ![](/images/lekt4903.jpg)
 Fig.: ⟪विहंगः⟫
 (Image source: [Details](/en/licenses#lekt4903))
-:::⟪वेष⟫ m.: garment, appearance, exterior
+:::
+⟪वेष⟫ m.: garment, appearance, exterior
 
 :::media
 ![](/images/lekt4904.webp)
 Fig.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
 (Image source: [Details](/en/licenses#lekt4904))
-:::⟪छन्न⟫ n.: blanket, hiding place
+:::
+⟪छन्न⟫ n.: blanket, hiding place
 
 ⟪पञ्जर⟫ n.: cage
 
@@ -245,7 +266,8 @@ Fig.: ⟪वेषः⟫
 Fig.: ⟪पञ्जरम्⟫
 Fortune teller with parrot in cage: the parrot draws slips of paper on which fate is written Mysore
 (Image source: [Details](/en/licenses#lekt4909))
-:::⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: lowest level of the [Dalits](http://de.wikipedia.org/wiki/Dalit)
+:::
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: lowest level of the [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
 ⟪स्वयम्⟫ Indecl.: self, of itself
 
@@ -263,14 +285,16 @@ Caus. ⟪ध्यापयति⟫
 PPP ⟪ध्यात⟫
 Inf. ⟪ध्यातुम्⟫
 Gerundive ⟪ध्येय⟫
-:::⟪आदर⟫ m.: consideration, attention, respect
+:::
+⟪आदर⟫ m.: consideration, attention, respect
 
 :::media
 ![](/images/lekt4905.webp)
 Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Image source: [Details](/en/licenses#lekt4905))
-:::⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+:::
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
 ⟪परम⟫ 3: farthest, highest ; ⟪पञ्चम्या⟫ : better than, higher than
 
@@ -281,7 +305,8 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 Fig.: ⟪गजशिशुः⟫
 Sri Lanka
 (Image source: [Details](/en/licenses#lekt4906))
-:::## 49.5. Form Review Exercise
+:::
+## 49.5. Form Review Exercise
 
 Determine the following forms:
 

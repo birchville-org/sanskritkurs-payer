@@ -68,7 +68,8 @@ B) Tradurre utilizzando composti in sanscrito:
 ![](/images/uebung031.webp)
 Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung031))
-:::---
+:::
+---
 
 ## Analisi dei composti
 
@@ -240,7 +241,8 @@ Risolvere i seguenti composti come Bahuvrīhi e/o Dvandva e/o Tatpuruṣa in tut
 ![](/images/uebung030.webp)
 Fig.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung030))
-:::---
+:::
+---
 
 ## Frammenti accademici
 
@@ -253,7 +255,8 @@ Lo yoga dell'azione è ascesi, studio dei Veda e servizio attento al SIGNORE. Ha
 
 :::deleteme-box Spiegazione
 Le cinque "sofferenze" (⟪क्लेश⟫) sono: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — ignoranza, egoismo, avidità, odio e attaccamento al corpo.
-:::⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
+:::
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Il più alto obiettivo dell'essere umano è che il triplice dolore scompaia completamente. (*Triplice dolore: da sé stessi, dagli oggetti, dagli dèi.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  

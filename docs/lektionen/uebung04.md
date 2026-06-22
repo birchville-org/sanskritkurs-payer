@@ -52,7 +52,8 @@ B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (⟪ए�
 ![](/images/lekt0401.webp)
 Abb.: ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫ ⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#lekt0401))
-:::eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
+:::
+eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
 
 ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫
 

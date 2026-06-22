@@ -94,7 +94,8 @@ Wissenschaften sind Philosophie, Vedistik, Ökonomie und Politik.
 ![](/images/uebung010.webp)
 Abb.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung010))
-:::---
+:::
+---
 
 ## Wiederholungsübung Lektion 5
 

@@ -13,7 +13,8 @@ status: stable
 
 :::grammar-box
 Se si vuole esprimere la relazione tra due sostantivi, si utilizza il genitivo (ṣaṣṭhī f. "sesta desinenza casuale"). Il genitivo si distingue da tutti gli altri casi in quanto, con poche eccezioni, non serve a determinare più da vicino l'azione espressa dal verbo, ma a esprimere la relazione tra persone o cose designate da sostantivi. Spesso il genitivo risponde alla domanda: Di chi?
-:::Esempi:
+:::
+Esempi:
 
 ⟪कवेः⟫ ⟪पुत्रः⟫ "Il figlio del poeta"
 
@@ -27,7 +28,8 @@ Se si vuole esprimere la relazione tra due sostantivi, si utilizza il genitivo (
 La normale posizione della parola è:
 
 > **Parola determinante al genitivo — Sostantivo ulteriormente determinato in un altro caso**
-:::**Genitivo e PPP:**
+:::
+**Genitivo e PPP:**
 
 :::grammar-box
 Nei PPP il genitivo può sostituire l'ablativo (tṛtīyā) per l'agente (kartṛ); nella costruzione con l'ablativo il PPP è considerato una forma verbale passiva (ciò che è nell'ablativo designa l'agente), nella costruzione con il genitivo il PPP è considerato un sostantivo o aggettivo (ciò che è nel genitivo non è propriamente un agente).
@@ -39,7 +41,8 @@ Secondo Pāṇini 2.3.67, quando il PPP ha un significato presente, si usa il ge
 > ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Il frutto che Rāma ha desiderato"
 
 Naturalmente, quando un PPP neutro singolare è usato come astratto verbale - cioè come sostantivo - si usa il genitivo.
-:::## 14.2. Formazione delle forme del genitivo (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+:::
+## 14.2. Formazione delle forme del genitivo (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 Il genitivo viene formato per le radici verbali con ablaut dalla forma debole.
 
@@ -51,14 +54,16 @@ Dopo una consonante le desinenze regolari del genitivo sono:
 * Singolare: **-as**
 * Plurale: **-ām**
 
-:::center
+:::
+center
 
 | Radice nominale | Forma debole | Genitivo singolare | Genitivo plurale |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-**:br**⟪गुणवन्त्⟫** | **guṇa-vat-**:br**⟪गुणवत्⟫** | **guṇa-vat-as**:br**⟪गुणवतस्⟫** | **guṇa-vat-ām**:br**⟪गुणवताम्⟫** |
 | **paśu-mant-**:br**⟪पशुमन्त्⟫** | **paśu-mat-**:br**⟪पशुमत्⟫** | **paśu-mat-as**:br**⟪पशुमतस्⟫** | **paśu-mat-ām**:br**⟪पशुमताम्⟫** |
 
-:::::::**Genitivo di radici con desinenza vocalica, eccetto nomi radicali monosillabici e radici con desinenza dittongica:**
+:::::::
+**Genitivo di radici con desinenza vocalica, eccetto nomi radicali monosillabici e radici con desinenza dittongica:**
 
 **Plurale:**
 
@@ -68,7 +73,8 @@ Il genitivo plurale di radici con desinenza vocalica si forma come segue:
 
 > **-vocale lunga della radice + -nām**
 
-:::center
+:::
+center
 
 | Radice nominale | Genitivo plurale |
 | :--- | :--- |
@@ -81,13 +87,15 @@ Il genitivo plurale di radici con desinenza vocalica si forma come segue:
 | **paśu** m.:br**⟪पशु⟫** | **paśū-nām**:br**⟪पशूनाम्⟫** |
 | **dhenu** f.:br**⟪धेनु⟫** | **dhenū-nām**:br**⟪धेनूनाम्⟫** |
 
-:::::::**Genitivo singolare di radici con desinenza vocalica:**
+:::::::
+**Genitivo singolare di radici con desinenza vocalica:**
 
 ::::grammar-box
 
 Il genitivo singolare di radici con desinenza vocalica si forma in modo irregolare ed è bene impararlo a memoria.
 
-:::center
+:::
+center
 
 | Radice | Genitivo singolare |
 | :--- | :--- |
@@ -100,11 +108,13 @@ Il genitivo singolare di radici con desinenza vocalica si forma in modo irregola
 | **śruti** f.:br**⟪श्रुति⟫** | **śrutes / śrutyās**:br**⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫**:br(cioè o come kavi o come devī) |
 | **dhenu** f.:br**⟪धेनु⟫** | **dhenos / dhenvās**:br**⟪धेनोस्⟫ / ⟪धेन्वास्⟫**:br(cioè o come paśu o come femminili plurisillabici in -ū) |
 
-:::::::**Pronomi interrogativi e pronomi dimostrativi:**
+:::::::
+**Pronomi interrogativi e pronomi dimostrativi:**
 
 ::::grammar-box
 
-:::center
+:::
+center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -114,19 +124,24 @@ Il genitivo singolare di radici con desinenza vocalica si forma in modo irregola
 
 | | **Genitivo Plurale** | kāsām:br**⟪कासाम्⟫** | tāsām:br**⟪तासाम्⟫** | etāsām:br**⟪एतासाम्⟫** | āsām:br**⟪आसाम्⟫** |
 
-:::::::**Identità formale:**
+:::::::
+**Identità formale:**
 
-::::important
-
-:::media
-![](/images/lekt1401.jpg)
-:::In tutte le radici nominali, ad eccezione dei maschili e dei neutri in -a e dei pronomi, la forma del genitivo singolare è identica alla forma dell'ablativo (pañcamī "quinta desinenza casuale") singolare!
+::::
+important
 
 :::media
 ![](/images/lekt1401.jpg)
-:::Si noti che nelle radici con desinenza consonantica, l'ablativo e il genitivo singolare hanno la stessa pronuncia dell'accusativo plurale maschile e femminile!
+:::
+In tutte le radici nominali, ad eccezione dei maschili e dei neutri in -a e dei pronomi, la forma del genitivo singolare è identica alla forma dell'ablativo (pañcamī "quinta desinenza casuale") singolare!
 
-::::## 14.3. Ulteriore sull'uso del genitivo (⟪षष्ठी⟫)
+:::media
+![](/images/lekt1401.jpg)
+:::
+Si noti che nelle radici con desinenza consonantica, l'ablativo e il genitivo singolare hanno la stessa pronuncia dell'accusativo plurale maschile e femminile!
+
+::::
+## 14.3. Ulteriore sull'uso del genitivo (⟪षष्ठी⟫)
 
 :::grammar-box
 Contrariamente alla regola generale sopra esposta, il genitivo viene utilizzato per esprimere l'oggetto di alcuni verbi, ad esempio i verbi di ricordo:
@@ -138,7 +153,8 @@ Per tutti questi verbi l'oggetto può tuttavia trovarsi anche all'accusativo:
 > ⟪देवान्स्मरति⟫ "Egli ricorda gli dèi"
 
 Ulteriore materiale più avanti.
-:::## 14.4. Elenco delle parole
+:::
+## 14.4. Elenco delle parole
 
 * **śīla n.** (⟪शील⟫) : (buon) carattere, moralità
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : ornamento
@@ -148,7 +164,8 @@ Ulteriore materiale più avanti.
 ![](/images/lekt1405.webp)
 Fig.: ⟪दीपाः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1405))
-:::* **bala n.** (⟪बल⟫) : violenza, forza, potenza; forza militare, schiera di guerrieri
+:::
+* **bala n.** (⟪बल⟫) : violenza, forza, potenza; forza militare, schiera di guerrieri
 * **bāla 3** (⟪बाल⟫) : giovane, infantile, stolto; m. ragazzo
 * **bālā f.** (⟪बाला⟫) : giovane ragazza
 * **nara m.** (⟪नर⟫) : uomo, essere umano
@@ -234,7 +251,8 @@ Tradurre i seguenti proverbi e impararli a memoria:
 ![](/images/lekt1404.webp)
 Fig.: ⟪पुत्रवती⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1404))
-:::⟪२६⟫. ⟪जल⟫
+:::
+⟪२६⟫. ⟪जल⟫
 
 ⟪२७⟫. ⟪मार्ग⟫
 
@@ -294,7 +312,8 @@ Fig.: ⟪पुत्रवती⟫
 ![](/images/lekt1403.webp)
 Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1403))
-:::**B) Tradurre:**
+:::
+**B) Tradurre:**
 
 ⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 possibilità)
 

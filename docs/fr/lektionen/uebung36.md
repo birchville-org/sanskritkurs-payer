@@ -17,14 +17,16 @@ A) Formez à partir des formes suivantes à la fois les formes de parfait redoub
 | ⟪२⟫. **⟪बिभ्यति⟫** | ⟪बिभ्युः⟫ | ⟪बिभयां⟫ ⟪चक्रुः⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪३⟫. **⟪जुहोति⟫** | ⟪जुहाव⟫ | ⟪जुहवां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪४⟫. **⟪वेत्ति⟫** | ⟪विवेद⟫ | ⟪विदां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
-:::B) Formez le parfait périphrastique de la racine **⟪आस्⟫** (s’asseoir) :
+:::
+B) Formez le parfait périphrastique de la racine **⟪आस्⟫** (s’asseoir) :
 
 :::grammar-box
 | Présent | Parfait périphrastique |
 | :--- | :--- |
 | ⟪१⟫. **⟪आस्ते⟫** | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. **⟪आसते⟫** | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
-:::C) Formez le parfait correspondant aux formes suivantes :
+:::
+C) Formez le parfait correspondant aux formes suivantes :
 
 :::grammar-box
 | Présent / Imparfait | Parfait |
@@ -42,7 +44,8 @@ A) Formez à partir des formes suivantes à la fois les formes de parfait redoub
 | ⟪११⟫. **⟪क्रामन्ति⟫** | ⟪चक्रमुः⟫ |
 | ⟪१२⟫. **⟪प्राव्रजन्⟫** | ⟪प्रवव्रजुः⟫ |
 | ⟪१३⟫. **⟪त्यक्ष्यति⟫** | ⟪तत्याज⟫ |
-:::---
+:::
+---
 
 ## Traductions
 
@@ -65,7 +68,8 @@ On ne peut vivre uniquement de la science. Qui sait cela, ne devrait pas étudie
 ![](/images/uebung061.webp)
 Fig. : ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (Source de l'image : [Détails](/fr/licenses#uebung061))
-:::---
+:::
+---
 
 ## Fragments savants
 
@@ -91,7 +95,8 @@ Si un homme ne se réjouit ni ne s’attriste, qu’il entende, touche, voie, go
 ![](/images/uebung060.webp)
 Lég. : ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Source de l’image : [Détails](/fr/licenses#uebung060))
-:::---
+:::
+---
 
 ## Détermination de la forme du mot
 

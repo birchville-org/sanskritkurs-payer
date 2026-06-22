@@ -66,7 +66,8 @@ A) Déterminez et traduisez les formes suivantes :
 | ⟪५०⟫. **⟪चिनुथ⟫** | ⟪चि⟫ (5U) 2. pl. P. Ind. Präs. | vous empilez |
 | ⟪५१⟫. **⟪हथ⟫** | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | vous frappez |
 | ⟪५२⟫. **⟪हतः⟫** | ⟪हन्⟫ (2P) PPP Nom. sg. m. | frappé / tué |
-:::---
+:::
+---
 
 ## Traductions
 
@@ -100,7 +101,8 @@ Vous pleurez ceux qui ne sont pas dignes de pleurs, et vous souhaitez proférer 
 ![](/images/uebung072.webp)
 Fig. : ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Source de l’image : [Détails](/fr/licenses#uebung072))
-:::---
+:::
+---
 
 ## Autres déterminations de forme
 

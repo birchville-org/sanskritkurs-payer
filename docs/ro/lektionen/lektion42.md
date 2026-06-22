@@ -29,7 +29,8 @@ Majoritatea substantivelor de aici sunt substantive de agentivitate cu sufixul �
     *   **înaintea consoanei: -ṛ**
 
 Observați formele neregulate (marcate cu **roșu**)!
-:::Substantiv masculin:
+:::
+Substantiv masculin:
 
 :::indent
 **⟪दातृ⟫** m. "dător"
@@ -45,13 +46,15 @@ Observați formele neregulate (marcate cu **roșu**)!
 | ⟪षष्ठी⟫ | ***⟪दातुस्⟫*** | ***⟪दातॄणाम्⟫*** |
 | ⟪सप्तमी⟫ | ***⟪दातरि⟫*** | ⟪दातृषु⟫ |
 
-:::Pentru explicarea formelor neregulate, consultați Thumb-Hauschild I,2 pag. 76 -81
+:::
+Pentru explicarea formelor neregulate, consultați Thumb-Hauschild I,2 pag. 76 -81
 
 Substantiv feminin:
 
 :::indent
 **⟪स्वसृ⟫** f. se declină ca **⟪दातृ⟫** cu excepția acuzativului (**⟪द्वितीया⟫**) plural: ***⟪स्वसॄस्⟫***.
-:::### 42.1.2. Formarea substantivelor: sufixul ⟪कृत्⟫ -⟪तृ⟫
+:::
+### 42.1.2. Formarea substantivelor: sufixul ⟪कृत्⟫ -⟪तृ⟫
 
 :::grammar-box
 Cu sufixul foarte frecvent ⟪कृत्⟫ -⟪तृ⟫ se formează nume de agent (denumiri pentru ⟪कर्तृ⟫) aproape pentru fiecare rădăcină sau pentru tema cauzativă.
@@ -63,7 +66,8 @@ Cu sufixul foarte frecvent ⟪कृत्⟫ -⟪तृ⟫ se formează nume de
 sau
 
 *   **rădăcină în gradul plin / tema cauzativă + i + tṛ**
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 **⟪कर्तृ⟫** m. "făcător"
@@ -85,7 +89,8 @@ Neutre rare cu sufixul -⟪तृ⟫ au o declinare parțial distinctă (a se ve
 Femininul pentru temele în -⟪तृ⟫ se termină în **-⟪त्री⟫** (ca **⟪देवी⟫**).
 
 de ex. **⟪कर्त्री⟫** f. "făcătoare"
-:::### 42.1.3. Treci cu grad ridicat în rădăcina puternică
+:::
+### 42.1.3. Treci cu grad ridicat în rădăcina puternică
 
 :::grammar-box
 Printre acestea se numără următoarele denumiri de rude:
@@ -104,7 +109,8 @@ Printre acestea se numără următoarele denumiri de rude:
 *   **rădăcină slabă**
     *   **înaintea vocală: -r**
     *   **înaintea consoanei: -ṛ**
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 **⟪पितृ⟫** m. "tată"
@@ -118,14 +124,16 @@ Printre acestea se numără următoarele denumiri de rude:
 | ⟪द्वितीया⟫ | ***⟪पितरम्⟫*** | ⟪पितॄन्⟫ | ***⟪मातरम्⟫*** | ⟪मातॄस्⟫ |
 | Restul ca la ⟪दातृ⟫ | ← | ← | ← | ← |
 
-:::### 42.1.4. Tulpuri pe -ṛ în compuse
+:::
+### 42.1.4. Tulpuri pe -ṛ în compuse
 
 :::grammar-box
 În calitate de prim element al unui compus, substantivele pe -ṛ stă, desigur, la forma slabă a temei, adică:
 
 *   **înaintea consoanelor: -ṛ**
 *   **înaintea vocalelor: -r**
-:::## 42.2. Listă de cuvinte
+:::
+## 42.2. Listă de cuvinte
 
 ⟪प्रकृति⟫ f.: (de la ⟪कृ⟫ + ⟪प्र⟫) formă de bază, stare naturală, natură; materie primă, esență primordială
 
@@ -135,7 +143,8 @@ Printre acestea se numără următoarele denumiri de rude:
 
 :::indent
 PPP ⟪अवस्थित⟫ 3: stând, existent
-:::⟪पुरा⟫ Adv.: odată, mai devreme
+:::
+⟪पुरा⟫ Adv.: odată, mai devreme
 
 ⟪अनेक⟫ 3: mulți (nu câțiva)
 
@@ -163,7 +172,8 @@ Caus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
-:::⟪अधिपति⟫ m. = ⟪राजन्⟫
+:::
+⟪अधिपति⟫ m. = ⟪राजन्⟫
 
 ⟪आटोप⟫ m.: vanitate, mândrie
 
@@ -189,7 +199,8 @@ Caus. ⟪शंसयति⟫
 PPP ⟪शस्त⟫  
 Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
-:::⟪हृदय⟫ n.: inimă
+:::
+⟪हृदय⟫ n.: inimă
 
 ### 42.2.1. Unele denumiri de rudenie
 
@@ -197,7 +208,8 @@ Inf. ⟪शंसितुम्⟫
 ![lekt4202.jpg](/images/lekt4202.webp)
 Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4202))
-:::⟪भर्तृ⟫ m. (de la ⟪भृ⟫ "a purta, a întreține"): Cel care întreține, cel care hrănește, soț
+:::
+⟪भर्तृ⟫ m. (de la ⟪भृ⟫ "a purta, a întreține"): Cel care întreține, cel care hrănește, soț
 
 ⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Soție (⟪भार्या⟫ = gerunziu la ⟪भृ⟫ : cea care trebuie purtată, cea care trebuie întreținută, cea îndreptățită la întreținere)
 
@@ -260,13 +272,15 @@ Traduceți:
 ![lekt4203.jpg](/images/lekt4203.webp)
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4203))
-:::⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
+:::
+⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
 :::media
 ![lekt4204.jpg](/images/lekt4204.webp)
 Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4204))
-:::⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
+:::
+⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
 
 ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫
 
@@ -294,7 +308,8 @@ Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 ![lekt4208.jpg](/images/lekt4208.webp)
 Fig.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4208))
-:::⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
+:::
+⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
 ⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ***⟪सीतारामयोर्वि⟫***⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
 
@@ -308,13 +323,15 @@ Expresii evidențiate în **roșu**:
 ![lekt4205.jpg](/images/lekt4205.webp)
 Fig.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4205))
-:::⟪मिथिला⟫ f. Nume propriu: capitala lui ⟪विदेह⟫
+:::
+⟪मिथिला⟫ f. Nume propriu: capitala lui ⟪विदेह⟫
 
 :::media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4206))
-:::⟪जनक⟫ m. Nume propriu: rege al lui ⟪विदेह⟫
+:::
+⟪जनक⟫ m. Nume propriu: rege al lui ⟪विदेह⟫
 
 ⟪गुरुतर⟫ 3: Comparativ la ⟪गुरु⟫ 3: mai greu, foarte greu
 
@@ -330,7 +347,8 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 ![lekt4207.jpg](/images/lekt4207.webp)
 Fig.: ⟪रावणः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4207))
-:::⟪अयोध्या⟫ f. Nume propriu: capitala lui ⟪कोसल⟫ (vezi harta de mai sus!)
+:::
+⟪अयोध्या⟫ f. Nume propriu: capitala lui ⟪कोसल⟫ (vezi harta de mai sus!)
 
 ⟪दशरथ⟫ m. Nume propriu: rege al lui ⟪कोसल⟫
 

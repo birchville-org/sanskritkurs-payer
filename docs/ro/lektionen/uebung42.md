@@ -41,7 +41,8 @@ Tatăl a dorit obținerea de nepoți.
 ![](/images/uebung068.webp)
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Sursă imagine: [Detalii](/licenses#uebung068))
-:::---
+:::
+---
 
 ## Narațiune: Nunta Sītās (⟪सीताविवाहः⟫)
 

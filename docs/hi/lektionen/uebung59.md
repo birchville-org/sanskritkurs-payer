@@ -12,7 +12,8 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung098.webp)
 अभिकल्पना: ⟪रावणः⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung098))
-:::---
+:::
+---
 
 ## A) पाठ विश्लेषण
 

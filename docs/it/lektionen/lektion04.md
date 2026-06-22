@@ -16,7 +16,8 @@ status: stable
 - Sandhi della -e finale
 - Sandhi della -d finale
 - Formule interrogative semplici
-:::## 4.1. Domande di completamento semplici (domande sulla parola) e risposte
+:::
+## 4.1. Domande di completamento semplici (domande sulla parola) e risposte
 
 ### 4.1.1. Pronomi interrogativi e pronomi dimostrativi
 
@@ -28,7 +29,8 @@ status: stable
 | **Neutro** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
 | **Maschile** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
 | **Femminile** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
-:::#### 4.1.1.2. Pronomi dimostrativi (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+:::
+#### 4.1.1.2. Pronomi dimostrativi (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 :::grammar-box
 | **Basi** ||||
@@ -43,7 +45,8 @@ status: stable
 | **Neutro** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
 | **Maschile** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
 | **Femminile** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
-:::**Per il Nom. sg. masc.:**
+:::
+**Per il Nom. sg. masc.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) sta davanti a tutti i suoni tranne la **-a** breve
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) sta davanti a **-a**, che viene elisa con Avagraha (caduta)
 - **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) sta solo in pausa (fine di frase, fine di verso)
@@ -54,7 +57,8 @@ Per poter formare frasi con questi pronomi (sarvanāman n.) è necessaria la con
 
 :::grammar-box
 **Il -m finale viene sostituito da Anusvāra (-ṃ) davanti a consonanti. Alla fine di frase o verso e davanti a vocali, il -m rimane invariato.**
-:::### 4.1.3. Sandhi di -e finale
+:::
+### 4.1.3. Sandhi di -e finale
 
 :::grammar-box
 1. **davanti a- la -e rimane invariata: la a- iniziale si elide con Avagraha:**
@@ -62,13 +66,15 @@ Per poter formare frasi con questi pronomi (sarvanāman n.) è necessaria la con
 
 2. **Davanti ad altre vocali oltre alla a- breve, la -e viene di solito sostituita da -a con iato. È presente anche la sostituzione con -ay:**
    es. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (raro: imay īśvarāh = ⟪इमयीश्वराः⟫) "Questi SIGNORI"
-:::### 4.1.4. Sandhi di -d finale
+:::
+### 4.1.4. Sandhi di -d finale
 
 :::grammar-box
 **Il -d finale viene sostituito da -t in pausa, nonché davanti a gutturali sordine (k, kh) e labiali (p, ph).**
 
 La sostituzione davanti ad altre consonanti verrà discussa in seguito. Evitare per il momento tali collisioni fonetiche!
-:::### 4.1.5. Formule interrogative
+:::
+### 4.1.5. Formule interrogative
 
 Mediante di questi pronomi si formano, ad esempio, le seguenti formule interrogative:
 
@@ -82,7 +88,8 @@ Mediante di questi pronomi si formano, ad esempio, le seguenti formule interroga
 | **Plurale** | **Neutro** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:br:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:br:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
 | | **Maschile** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:br:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:br:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
 | | **Femminile** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:br:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:br:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
-:::::::Un esempio di altre domande:
+:::::::
+Un esempio di altre domande:
 
 > viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Risposta: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (In questo caso, nella proposizione nominale, si può porre il soggetto, ad esempio, all'inizio, per enfatizzare la connessione con la domanda.)
 

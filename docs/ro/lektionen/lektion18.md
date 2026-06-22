@@ -12,7 +12,8 @@ lesson_id: 18
 ⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
 ⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
-:::## 18.2. Compuse determinative (⟪तत्पुरुष⟫) cu element anterior adverbial
+:::
+## 18.2. Compuse determinative (⟪तत्पुरुष⟫) cu element anterior adverbial
 
 Ca element anterior (nedeclinabil) adverbial pot fi utilizate
 
@@ -23,7 +24,8 @@ Ca element anterior (nedeclinabil) adverbial pot fi utilizate
 
 :::indent
 să fie utilizate. Astfel de Tatpuruṣa aparțin de obicei clasei Nityasamāsa = ⟪नित्यसमास⟫ (m. „compus constant”), adică a compuselor care nu pot fi deloc sau nu pot fi decât parțial rezolvate exclusiv prin intermediul cuvintelor prezente în compusul însuși.
-:::Exemple:
+:::
+Exemple:
 
 ⟪अति⟫ „în plus”:
 
@@ -35,7 +37,8 @@ să fie utilizate. Astfel de Tatpuruṣa aparțin de obicei clasei Nityasamāsa 
 ⟪अतिस्तुति⟫ f.: laudă excesivă
 
 ⟪अत्युक्ति⟫ f.: vorbărie excesivă, exagerare
-:::Cele mai importante elemente adverbiale anterioare sunt a-/an-, su-, dus-.
+:::
+Cele mai importante elemente adverbiale anterioare sunt a-/an-, su-, dus-.
 
 ⟪अ⟫ (înaintea consoanelor), ⟪अन्⟫ (înaintea vocalelor): ne-: apare în compus în locul lui ⟪न⟫ „nu”.
 
@@ -49,7 +52,8 @@ Exemple:
 ⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : o non-brahmană, nebrahmană
 
 ⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : un non-dumnezeu, nedumnezeu
-:::⟪सु⟫ „bine, bun”; la rezolvarea compusului, comentatorii îl înlocuiesc cu un adjectiv cu sensul de „bun” (de ex. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
+:::
+⟪सु⟫ „bine, bun”; la rezolvarea compusului, comentatorii îl înlocuiesc cu un adjectiv cu sensul de „bun” (de ex. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
 
 Exemple:
 
@@ -61,7 +65,8 @@ Exemple:
 ⟪सुखादित⟫ 3: mestecat bine
 
 ⟪सुदुःख⟫ n.: suferință mare
-:::⟪दुस्⟫ „rău, prost” (a se respecta Sandhi-ul!).
+:::
+⟪दुस्⟫ „rău, prost” (a se respecta Sandhi-ul!).
 
 Exemple:
 
@@ -69,7 +74,8 @@ Exemple:
 ⟪दुर्नय⟫ m.: conducere proastă, comportament necinstit
 
 ⟪दुष्करण⟫ n.: faptă rea, faptă dificilă
-:::Se aplică următoarea regulă:
+:::
+Se aplică următoarea regulă:
 
 ::::grammar-box
 
@@ -81,7 +87,8 @@ Modificarea fonetică a lui -s în compuse
 
 Prin urmare: ⟪दुष्करण⟫
 
-::::### 18.2.1. Compuse de tipul ⟪सुकर⟫ / ⟪दुष्कर⟫
+::::
+### 18.2.1. Compuse de tipul ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::::grammar-box
 
@@ -97,7 +104,8 @@ Exemple:
 ⟪दुर्गम⟫ 3: greu de mers
 
 ⟪सुदुर्गम⟫ 3: foarte greu de mers
-:::::::### 18.2.2. Semantici ai Tatpuruṣa cu a- / an-
+:::::::
+### 18.2.2. Semantici ai Tatpuruṣa cu a- / an-
 
 Tatpuruṣa cu a- / an- pot avea următoarele semnificații:
 
@@ -123,7 +131,8 @@ Următorul verset rezumă aceste semnificații:
 ⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
 
 Se numesc șase semnificații ale nañ (= a-/an-) ....
-:::## 18.3. Compuși verbalici
+:::
+## 18.3. Compuși verbalici
 
 ::::grammar-box
 
@@ -132,7 +141,8 @@ Se numesc șase semnificații ale nañ (= a-/an-) ....
 ⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
 ⟪गङ्गासलिलमाधुर्यं⟫  
 ⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
-:::⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ p. 2, col. 14-15
+:::
+⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ p. 2, col. 14-15
 
 Un prefix modifică violent sensul unei rădăcini, la fel cum apa dulce a Gangei este modificată de apa mării.
 
@@ -140,7 +150,8 @@ Un prefix modifică violent sensul unei rădăcini, la fel cum apa dulce a Gange
 
 În sanscrită, verbele pot fi combinate cu prefixe (⟪उपसर्ग⟫ m.). În general, se aplică sandhi-ul de propoziție. Prefixele pot modifica semnificativ sensul rădăcinii, astfel încât, în multe cazuri, sensul unui verb cu prefix trebuie învățat separat. Verbele cu prefix pot avea un mod diferit (P, Ā) față de rădăcina simplă. Mai multe prefixe pot fi plasate simultan înainte de o rădăcină.
 
-::::Unele prefixe importante sunt:
+::::
+Unele prefixe importante sunt:
 
 ⟪उप⟫ "către, spre, împotriva"
 
@@ -156,7 +167,8 @@ Exemple:
 *   PPP ⟪उपपन्न⟫ 3: echipat cu (Instrumental)
 
 ⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : a cuprinde, a obține
-:::⟪प्र⟫ "înainte, în afară"
+:::
+⟪प्र⟫ "înainte, în afară"
 
 Exemple:
 
@@ -174,7 +186,8 @@ Exemple:
 ⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : a exprima, a numi, a considera
 
 ⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : a lăuda, a lăuda cu voce tare, a menționa, a începe
-:::⟪वि⟫ "împreună, departe, des-, dis-"
+:::
+⟪वि⟫ "împreună, departe, des-, dis-"
 
 Exemple:
 
@@ -190,7 +203,8 @@ Exemple:
 ⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : a uita
 
 ⟪विहन्⟫ 2 ⟪विहन्ति⟫ : a sfărâma, a distruge, a nimici
-:::⟪सम्⟫ "împreună, cu"
+:::
+⟪सम्⟫ "împreună, cu"
 
 Exemple:
 
@@ -214,19 +228,22 @@ Exemple:
 
 Rădăcina ⟪कृ⟫ "a face" arată, în combinație cu prefixele ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫, și forma ⟪स्कृ⟫
 
-::::Exemplu:
+::::
+Exemplu:
 
 :::indent
 sam-kṛ 8 ⟪संस्करोति⟫ : a pregăti, a pregăti pentru jertfă, a consacra
 
 *   PPP ⟪संस्कृत⟫ 3: pregătit pentru jertfă ; ⟪संस्कृत⟫ n.: sanscrită: limba potrivită pentru jertfă ; opus ⟪प्राकृत⟫ 3: obișnuit, vulgar ; ⟪प्राकृत⟫ n.: limbă obișnuită, Prakrit (denumire pentru limbile vorbite și de circulație, înrudite cu sanscrita)
-:::### 18.3.1. Formarea substantivelor din compusele verbale
+:::
+### 18.3.1. Formarea substantivelor din compusele verbale
 
 ::::grammar-box
 
 Din rădăcini cu preverb, se pot forma substantive prin intermediul sufixelor kṛt.
 
-::::Exemple:
+::::
+Exemple:
 
 sam-kṛ + -a = ⟪संस्कार⟫ m.: inițiere, preparare; Ritualuri de tranziție = denumire pentru ceremoniile care însoțesc diferitele etape ale vieții, de la concepție până la moarte (a se vedea rezumatul excelent de Basham, Wonder pp. 160 - 170!)
 
@@ -235,18 +252,21 @@ sam-kṛ + -a = ⟪संस्कार⟫ m.: inițiere, preparare; Ritualuri 
 Fig.: ⟪विवाहः⟫
 Nuntă = ⟪विवाह⟫ m., un important ⟪संस्कारः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1804))
-:::upa-nī + -ana = ⟪उपनयन⟫ n.: aducerea (la focul de jertfă) = ceremonie în care membrilor masculini ai celor trei caste superioare li se atașează coarda sacră (⟪यज्ञोपवीत⟫ n.) și li se șoptește în ureche versul sacru ⟪सावित्री⟫, pe care ei îl vor recita zilnic la răsăritul și apusul soarelui. Pentru brahmani, Ṛgveda III.62.10:
+:::
+upa-nī + -ana = ⟪उपनयन⟫ n.: aducerea (la focul de jertfă) = ceremonie în care membrilor masculini ai celor trei caste superioare li se atașează coarda sacră (⟪यज्ञोपवीत⟫ n.) și li se șoptește în ureche versul sacru ⟪सावित्री⟫, pe care ei îl vor recita zilnic la răsăritul și apusul soarelui. Pentru brahmani, Ṛgveda III.62.10:
 
 :::indent
 „Să primim strălucirea excelentă a zeului 'Stimulent', care să ne pună gândurile în mișcare.”
-:::Prin Upanayana are loc a doua naștere, de aceea: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
+:::
+Prin Upanayana are loc a doua naștere, de aceea: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
 
 :::media
 ![](/images/lekt1801.webp)
 Fig.: ⟪उपनयनम्⟫
 „Se vede un tânăr băiat în timpul ritualului upanayana. Firul galben, subțire, care trece de la umărul stâng la talie este Yagnopaivta. De asemenea, se observă brățara de iarbă munja de la talie. Crenguța din mâna dreaptă (de obicei din copacul peepa) semnifică intrarea sa în Brahmacharya.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1801))
-:::## 18.4. Listă de cuvinte
+:::
+## 18.4. Listă de cuvinte
 
 ⟪सुष्टु⟫ 3: lăudat pe cinste, excelent, bun
 
@@ -379,7 +399,8 @@ A) Rezolvați următoarele compuse în sanscrită și oferiți propuneri de trad
 Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Imprimat
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1802))
-:::B) Traduceți folosind verbe din clasa a II-a de prezent:
+:::
+B) Traduceți folosind verbe din clasa a II-a de prezent:
 
 1\. Brahmanul laudă zeițele.
 
@@ -398,7 +419,8 @@ Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 Fig.: ⟪सुगतः⟫
 ⟪गन्धार⟫ Sec. I/II d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1803))
-:::C) Dați în sanscrită definiția yoga în două moduri: o dată folosind un compus, o dată rezolvând compusul.
+:::
+C) Dați în sanscrită definiția yoga în două moduri: o dată folosind un compus, o dată rezolvând compusul.
 
 D) Traduceți:
 

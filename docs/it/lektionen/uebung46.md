@@ -66,7 +66,8 @@ A) Determinare e tradurre le seguenti forme:
 | ⟪५०⟫. **⟪ददाने⟫** | ⟪दा⟫ (3U) Part. Präs. Ā. Lok. sg. m./n. | nel donante |
 | ⟪५१⟫. **⟪सुषुपुः⟫** | ⟪स्वप्⟫ (2P) 3. pl. P. Perf. | hanno dormito |
 | ⟪५२⟫. **⟪ऊसु⟫** | ⟪वस्⟫ (1P) 2. pl. P. Perf. | avete abitato |
-:::---
+:::
+---
 
 ## Massime (⟪सुभाषितानि⟫)
 

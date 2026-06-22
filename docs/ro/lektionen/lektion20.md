@@ -16,7 +16,8 @@ status: stable
 Fig.: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
 Jodhpur = ⟪जोधपुर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2004))
-:::⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "cel care posedă mult orez"
+:::
+⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "cel care posedă mult orez"
 
 ::::grammar-box
 
@@ -30,7 +31,8 @@ Jodhpur = ⟪जोधपुर⟫
 
 **1. Prima componentă, de obicei în Nominativ (⟪प्रथमा⟫) Singular, Dual sau Plural -- 2. A doua componentă în Nominativ Singular, Dual sau Plural -- Pronume relativ într-un caz diferit de Nominativ (de obicei Genitiv - ⟪षष्ठी⟫) și în gen și număr al Bahuvrīhi-ului total -- Pronume demonstrativ în număr, caz și gen al Bahuvrīhi-ului total.**
 
-::::Exemple:
+::::
+Exemple:
 
 
 :::indent
@@ -62,7 +64,8 @@ etc.
 
 **La fel ca la Tatpuruṣa, componenta mai determinată se află de obicei pe locul al doilea.**
 
-::::Tradițional, se face distincția între:
+::::
+Tradițional, se face distincția între:
 
 *   ⟪समानाधिकरणबहुव्रीहिः⟫ : în ⟪विग्रहवाक्य⟫ prima componentă și a doua componentă se află în același caz
     
@@ -76,11 +79,13 @@ etc.
 
 :::indent
 **Adjectiv -- Substantiv**
-:::**Exemplu:**
+:::
+**Exemplu:**
 
 :::indent
 ⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "un brahman, al cărui fiu / fii posedă / posedă însușiri bune"
-:::**Foarte frecvent este determinarea atributivă — rară în cazul Tatpuruṣa — printr-un PPP. Pronumele relativ se află atunci, în general, în instrumental (⟪तृतीया⟫) (mai rar în genitiv / ⟪षष्ठी⟫).**
+:::
+**Foarte frecvent este determinarea atributivă — rară în cazul Tatpuruṣa — printr-un PPP. Pronumele relativ se află atunci, în general, în instrumental (⟪तृतीया⟫) (mai rar în genitiv / ⟪षष्ठी⟫).**
 
 **Regulă practică:**
 
@@ -91,7 +96,8 @@ etc.
 
 :::indent
 ⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = "cel / cea / cel care a născut un rezultat, cineva / ceva eficient"
-:::::::## 20.3. Bahuvrīhi cu un component anterior apositional
+:::::::
+## 20.3. Bahuvrīhi cu un component anterior apositional
 
 ::::grammar-box
 
@@ -99,7 +105,8 @@ etc.
 
 :::indent
 **Substantiv -- Substantiv**
-:::**Exemple:**
+:::
+**Exemple:**
 
 :::indent
 ⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "un bărbat, al cărui fii sunt eroi"
@@ -113,13 +120,15 @@ etc.
 
 :::indent
 ⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = "Zeii, al căror început este Indra" = "Zeii Indra etc." = "Indra și ceilalți zei"
-:::**Pentru exprimarea "doar" se pot folosi bahuvrīhi-uri cu ⟪मात्रा⟫ f. "măsură, limită" ca component final:**
+:::
+**Pentru exprimarea "doar" se pot folosi bahuvrīhi-uri cu ⟪मात्रा⟫ f. "măsură, limită" ca component final:**
 
 **Exemplu:**
 
 :::indent
 ⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = "cel al cărui măsură este un cuvânt" = "doar un cuvânt"
-:::**⟪मात्र⟫ după un PPP se traduce cu "de îndată ce":**
+:::
+**⟪मात्र⟫ după un PPP se traduce cu "de îndată ce":**
 
 **Exemplu:**
 
@@ -130,7 +139,8 @@ etc.
 Fig.: ⟪देवा⟫ ⟪यीश्वादयः⟫
 Isus și ceilalți zei, Ahmedabad
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2005))
-:::## 20.4. Bahuvrīhi cu un prim element cauzal
+:::
+## 20.4. Bahuvrīhi cu un prim element cauzal
 
 adică Bahuvrīhi, al cărui prim element reprezintă un caz altul decât nominativul (⟪प्रथमा⟫).
 
@@ -153,7 +163,8 @@ Exemplu:
 Fig.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Cambodgia, sec. al IX-lea d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2001))
-:::## 20.5. Bahuvrīhi cu element anterior adverbial
+:::
+## 20.5. Bahuvrīhi cu element anterior adverbial
 
 În elementul anterior se află un adverb, o prepoziție, un prefix verbal sau alt neinflectabil; astfel de compuse sunt în general ⟪नित्यसमास⟫.
 
@@ -176,7 +187,8 @@ Exemple:
 Fig.: ⟪सपुत्रा⟫
 Madhya Pradesh
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2006))
-:::## 20.6. Flexiunea componentei finale a unui Bahuvrīhi
+:::
+## 20.6. Flexiunea componentei finale a unui Bahuvrīhi
 
 ::::grammar-box
 
@@ -188,7 +200,8 @@ Madhya Pradesh
 *   **Stemele în -a (m., n.) își formează Femininul pe -ā sau -ī**
 *   **Stemele în -ī (f.) trebuie să ia la finalul unui Bahuvrīhi sufixul -ka, -kā, -ka (n.); acest sufix îl pot, respectiv trebuie, să ia și multe alte Bahuvrīhi**
 
-::::## 20.7. O altă clasificare a tipurilor de Bahuvrīhi
+::::
+## 20.7. O altă clasificare a tipurilor de Bahuvrīhi
 
 Exemplele sunt date aici pentru studiere ulterioară, pentru unele gramatica necesară și vocabularul nu au fost încă discutate
 
@@ -211,7 +224,8 @@ Exemplele sunt date aici pentru studiere ulterioară, pentru unele gramatica nec
 Fig.: ⟪कृतकटा⟫
 Chennai = சென்னை
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2007))
-:::## 20.8. Relația dintre Bahuvrīhi și propoziția relativă
+:::
+## 20.8. Relația dintre Bahuvrīhi și propoziția relativă
 
 Deși fiecare Bahuvrīhi poate fi descompus într-o propoziție relativă, nu fiecare propoziție relativă poate fi înlocuită cu un Bahuvrīhi. Hermann Georg Jacobi (1850 - 1937), care a examinat mai îndeaproape relația dintre cele două (Compositum und Nebensatz, 1897), scrie:
 
@@ -221,7 +235,8 @@ Deși fiecare Bahuvrīhi poate fi descompus într-o propoziție relativă, nu fi
 ![](/images/lekt2002.jpg)
 Fig.: Hermann Jacobi
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2002))
-:::Acest lucru poate fi adevărat. Cu toate acestea, indienii consideră atunci multe lucruri ca fiind ornamentale și descriptive, ceea ce noi am considera „conceptual necesar sau important”.
+:::
+Acest lucru poate fi adevărat. Cu toate acestea, indienii consideră atunci multe lucruri ca fiind ornamentale și descriptive, ceea ce noi am considera „conceptual necesar sau important”.
 
 ## 20.9. Listă de cuvinte
 
@@ -234,7 +249,8 @@ Fig.: Hermann Jacobi
 Fig.: ⟪आश्रमः⟫
 Rishikesh = ⟪ऋषिकेश⟫. "Aceasta este de fapt o parte din Ashramul din Rishikesh unde au stat Beatles. Această parte specifică nu exista când erau ei acolo, dar arată foarte bine."
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2008))
-:::⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : făcând, producând, cauzând
+:::
+⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : făcând, producând, cauzând
 
 ⟪कर⟫ m.: mână (la ⟪कृ⟫ 8)
 
@@ -450,7 +466,8 @@ B) Traduceți folosind compuse în sanscrită:
 
 :::indent
 Explicație: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + sufixul -tas, care are sensul ablativ. Traduceți: "din cauza..." sau similar.
-:::⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
+:::
+⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪२॥⟫
 
 :::indent
@@ -460,24 +477,28 @@ Explicație: ⟪तपस्⟫ n. (declinare mai târziu): cărbune încins, c�
 Ilustr.: ⟪तपस्⟫
 Buddha ca ascet înainte de iluminarea sa eliberatoare, Gandhara, sec. 2./3. d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2010))
-:::⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (Pentru sistemul Sāṃkhya, vezi Basham, Minuni p. 324f.)
+:::
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (Pentru sistemul Sāṃkhya, vezi Basham, Minuni p. 324f.)
 
 :::indent
 Explicație: ⟪त्रिविध⟫ ⟪३⟫ : "triplicat"
-:::Definirea eliberării conform sistemului Nyāya:
+:::
+Definirea eliberării conform sistemului Nyāya:
 
 :::indent
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२१॥⟫
 
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२२॥⟫
-:::Declarația materialistelor conform ⟪सर्वदर्शनसंग्रह⟫ :
+:::
+Declarația materialistelor conform ⟪सर्वदर्शनसंग्रह⟫ :
 
 :::indent
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
 ⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
 
 Explicație: ⟪अत्मा⟫ = Nominativ singular masculin la ⟪आत्मन्⟫ m. "Sine, suflet; absolutul, în măsura în care este realizat într-un individ"
-:::Un ⟪सुभाषितम्⟫ :
+:::
+Un ⟪सुभाषितम्⟫ :
 
 :::indent
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
@@ -491,7 +512,8 @@ Explicație: -da la finalul unui compus: "dând"
 Ilustr.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2009))
-:::Despre relațiile de proprietate:
+:::
+Despre relațiile de proprietate:
 
 :::indent
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
@@ -500,7 +522,8 @@ Karnataka
 ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪४१६॥⟫
 
 Explicație: ⟪त्रयस्⟫ = Nominativ masculin plural la ⟪त्रि⟫ "trei"
-:::Un ⟪सुभाषितम्⟫ despre frumusețea feminină:
+:::
+Un ⟪सुभाषितम्⟫ despre frumusețea feminină:
 
 :::indent
 ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
@@ -514,7 +537,8 @@ Explicație: toate formele, cu excepția ⟪कं⟫ și ⟪स्त्री�
 Ilustr.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2003))
-:::Încă un ⟪सुभाषितम्⟫ :
+:::
+Încă un ⟪सुभाषितम्⟫ :
 
 :::indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫

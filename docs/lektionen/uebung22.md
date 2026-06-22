@@ -91,7 +91,8 @@ Wenn er Verdienstvolles getan hat und nur die Wahrheit gesprochen hat, kommt ein
 ![](/images/uebung034.jpg)
 Abb.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Bildquelle: [Details](/licenses#uebung034))
-:::---
+:::
+---
 
 ## Passiv-Konstruktionen
 

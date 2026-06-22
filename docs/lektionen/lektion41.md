@@ -16,7 +16,8 @@ status: stable
 ⟪परहस्ते⟫ ⟪च⟫ ⟪यद्धनम्⟫ ⟪।⟫  
 ⟪कार्यकाले⟫ ⟪समुत्पन्ने⟫  
 ⟪न⟫ ⟪सा⟫ ⟪विद्या⟫ ⟪न⟫ ⟪तद्धनम्⟫ ⟪॥१॥⟫
-:::Erklärung: ⟪पर⟫ "anderer"
+:::
+Erklärung: ⟪पर⟫ "anderer"
 
 :::media
 ![lekt4102.jpg](/images/lekt4102.webp)
@@ -27,7 +28,8 @@ Abb.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 ⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫  
 ⟪पयःपानं⟫ ⟪भुजङ्गानां⟫  
 ⟪केवलं⟫ ⟪विषवर्धनम्⟫ ⟪॥२॥⟫
-:::Erklärung: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
+:::
+Erklärung: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
 ## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
 
@@ -39,7 +41,8 @@ Abb.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 **Bildung:**
 
 Präsensstamm / Passivstamm / Futurstamm + -māna (fem. mānā)
-:::Beispiele:
+:::
+Beispiele:
 
 ⟪यज्⟫ 1U, Part.Präs.Ā ⟪यजमान⟫ 3 "jemand, der im eignen Interesse mit einem Opfer verehrt = Opferherr"
 
@@ -55,7 +58,8 @@ Präsensstamm / Passivstamm / Futurstamm + -māna (fem. mānā)
 **Bildung:**
 
 Schwacher Präsensstamm (in der Form, die er vor der Endung -ate der 3.pl.Ā hat) + -āna (fem. -ānā)
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 | Wurzel / Klasse | Partizip Präsens Ā |
@@ -66,7 +70,8 @@ Schwacher Präsensstamm (in der Form, die er vor der Endung -ate der 3.pl.Ā hat
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
 | **⟪क्री⟫** 9U | ⟪क्रीणान⟫:brkrī + n-āna |
-:::### 41.2.2. "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
+:::
+### 41.2.2. "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
 
 :::grammar-box
 **Um die passive Notwendigkeit auszudrücken ("was getan werden muss/soll"), kann man Adjektive aus Wurzeln und abgeleiteten Verbalstämmen wahlweise mit folgenden Suffixen bilden:**
@@ -75,7 +80,8 @@ Schwacher Präsensstamm (in der Form, die er vor der Endung -ate der 3.pl.Ā hat
 * **-⟪अनीय⟫** (fem. **-⟪अनीया⟫**)
 * **-⟪य⟫** (fem. **-⟪या⟫**)
 * **-⟪त्य⟫** (fem. **-⟪त्या⟫**) (statt **-⟪य⟫**/**-⟪या⟫**)
-:::#### 41.2.2.1. Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫
+:::
+#### 41.2.2.1. Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫
 
 :::grammar-box
 **Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫ wird an Wurzeln und abgeleitete Verbalstämme (z.B. Kausativ) auf dieselbe Weise angefügt wie das Infinitivsuffix -⟪तुम्⟫ (s. [Lektion 23](lektion23.md)), d.h.**
@@ -89,7 +95,8 @@ oder
 **Im Kausativ:**
 
 * **Kausativstamm auf -ay + -i- + ⟪तव्य⟫**
-:::Beispiele:
+:::
+Beispiele:
 
 :::no-header
 
@@ -99,7 +106,8 @@ oder
 | ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | "das, wo man sich befinden soll" |
 | ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" |
 
-:::#### 41.2.2.2. Das Suffix -⟪अनीय⟫ / -⟪अनीया⟫
+:::
+#### 41.2.2.2. Das Suffix -⟪अनीय⟫ / -⟪अनीया⟫
 
 :::grammar-box
 **Bildung:**
@@ -109,7 +117,8 @@ Hochstufige Wurzel + -⟪अनीय⟫ / -⟪अनीया⟫
 **Kausativ und 10. Präsensklasse:**
 
 Wurzel, wie sie im Kausativstamm erscheint, ohne -aya- + -⟪अनीय⟫ / -⟪अनीया⟫
-:::Beispiele:
+:::
+Beispiele:
 
 :::no-header
 
@@ -122,7 +131,8 @@ Wurzel, wie sie im Kausativstamm erscheint, ohne -aya- + -⟪अनीय⟫ / -
 | ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "ein zu weckender" |
 | ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
 
-:::#### 41.2.2.3. Das Suffix -⟪य⟫ / -⟪या⟫
+:::
+#### 41.2.2.3. Das Suffix -⟪य⟫ / -⟪या⟫
 
 :::grammar-box
 **Bildung:**
@@ -130,11 +140,13 @@ Wurzel, wie sie im Kausativstamm erscheint, ohne -aya- + -⟪अनीय⟫ / -
 Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫
 
 Die genauen Regeln siehe bei Kielhorn, Grammatik der Sanskrit-Sprache, S. 195 - 197!
-:::Behandlung auslautender Vokale:
+:::
+Behandlung auslautender Vokale:
 
 :::grammar-box
 **1. Wurzeln auf -ā bilden dieses Gerundiv auf -eya**
-:::Beispiele:
+:::
+Beispiele:
 
 :::no-header
 
@@ -145,7 +157,8 @@ Die genauen Regeln siehe bei Kielhorn, Grammatik der Sanskrit-Sprache, S. 195 - 
 
 ::::::grammar-box
 **2. Wurzeln auf -i /-ī / -u / -ū /-ṛ haben in der Regel Hoch- oder Dehnstufe, es sei denn sie gehören zu denjenigen Wurzeln auf -i / -u /-ṛ, die ein Gerundiv mit dem Suffix -⟪त्य⟫ (fem. -⟪त्या⟫) bilden (Liste dieser Wurzeln bei Kielhorn, Grammatik §537).**
-:::Beispiel:
+:::
+Beispiel:
 
 :::no-header
 
@@ -155,7 +168,8 @@ Die genauen Regeln siehe bei Kielhorn, Grammatik der Sanskrit-Sprache, S. 195 - 
 
 ::::::grammar-box
 **2a. Wurzeln auf -i/-ī haben Hochstufe**
-:::Beispiele:
+:::
+Beispiele:
 
 :::no-header
 
@@ -170,7 +184,8 @@ Abb.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Bildquelle: [Details](/licenses#lekt4103))
 ::::::grammar-box
 **2b. Wurzeln auf -u /-ū ersetzen das hochstufige -o vor dem -ya durch -av, das dehnstufige -au durch -āv. Dehnstufige Bildung bedeutet in diesem Fall Notwendigkeit.**
-:::Beispiel:
+:::
+Beispiel:
 
 :::no-header
 
@@ -179,7 +194,8 @@ Abb.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 | ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "was gepriesen werden soll" |
 |   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" |
 
-:::Beispiele für konsonantisch auslautende Wurzeln (Regeln s. Kielhorn, Grammatik § 533ff.):
+:::
+Beispiele für konsonantisch auslautende Wurzeln (Regeln s. Kielhorn, Grammatik § 533ff.):
 
 Tiefstufige Bildung:
 
@@ -196,7 +212,8 @@ Beispiele:
 ![lekt4106.jpg](/images/lekt4106.webp)
 Abb.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 (Bildquelle: [Details](/licenses#lekt4106))
-:::Hochstufige Bildung:
+:::
+Hochstufige Bildung:
 
 Beispiele:
 
@@ -213,7 +230,8 @@ Beispiele:
 **Bildung:**
 
 Kausativ-/Präsensstamm ohne -aya- + -⟪य⟫
-:::Beispiel:
+:::
+Beispiel:
 
 :::no-header
 
@@ -227,7 +245,8 @@ Kausativ-/Präsensstamm ohne -aya- + -⟪य⟫
 ![lekt4107.jpg](/images/lekt4107.jpg)
 Abb.: ⟪मान्यः⟫
 (Bildquelle: [Details](/licenses#lekt4107))
-:::#### 41.2.2.4. Das Suffix -⟪त्य⟫ / ⟪त्या⟫ (statt -⟪य⟫ / -⟪या⟫)
+:::
+#### 41.2.2.4. Das Suffix -⟪त्य⟫ / ⟪त्या⟫ (statt -⟪य⟫ / -⟪या⟫)
 
 :::grammar-box
 Liste der Wurzeln auf -i / -u /-ṛ, die ein Gerundiv statt mit -⟪य⟫ / -⟪या⟫ mit dem Suffix -⟪त्य⟫ (fem. -⟪त्या⟫) bilden, bei Kielhorn, Grammatik §537.
@@ -235,7 +254,8 @@ Liste der Wurzeln auf -i / -u /-ṛ, die ein Gerundiv statt mit -⟪य⟫ / -�
 **Bildung:**
 
 tiefstufige Wurzel + -⟪त्य⟫ / -⟪त्या⟫
-:::Beispiele:
+:::
+Beispiele:
 
 :::no-header
 
@@ -245,14 +265,16 @@ tiefstufige Wurzel + -⟪त्य⟫ / -⟪त्या⟫
 |  ⟪श्रु⟫ 5P |  ⟪श्रुत्य⟫ 3 | "zu hörender" |
 | ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" |
 
-:::### 41.2.3. Syntaktisches zum "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
+:::
+### 41.2.3. Syntaktisches zum "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
 
 :::grammar-box
 Das Gerundiv kann attributiv verwendet werden:
 
 :::indent
 **⟪दर्शनीयं⟫ ⟪नगरम्⟫** = "eine Stadt, die man sehen muss; eine sehenswerte Stadt"
-:::Das Gerundiv kann auch als Prädikatsnomen in Sätzen mit Passivkonstruktion verwendet werden, die eine Verpflichtung oder einen Befehl ausdrücken (mit ⟪न⟫ ein Verbot, eine Unmöglichkeit):
+:::
+Das Gerundiv kann auch als Prädikatsnomen in Sätzen mit Passivkonstruktion verwendet werden, die eine Verpflichtung oder einen Befehl ausdrücken (mit ⟪न⟫ ein Verbot, eine Unmöglichkeit):
 
 :::indent
 **⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = "Zweimalgeborene müssen Benares sehen"
@@ -260,18 +282,21 @@ Das Gerundiv kann attributiv verwendet werden:
 ![lekt4108.jpg](/images/lekt4108.webp)
 Abb.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
 (Bildquelle: [Details](/licenses#lekt4108))
-:::### 41.2.4. Unterschiede im Gebrauch der Gerundiv-Suffixe
+:::
+### 41.2.4. Unterschiede im Gebrauch der Gerundiv-Suffixe
 
 :::grammar-box
 Weitgehend überschneidet sich der Gebrauch dieser Suffixe
 
 * **-⟪तव्य⟫ (fem. -⟪तव्या⟫):** drückt immer eine Notwendigkeit aus und wird bevorzugt prädikativ gebraucht (seltener attributiv). Bildungen mit diesem Suffix sollen nicht in Nominalkomposita verwendet werden.
 * **-⟪अनीय⟫ (fem. -⟪अनीया⟫) und -⟪य⟫ (fem. -⟪या⟫) / -⟪त्य⟫ (fem. -⟪त्या⟫) (statt -⟪य⟫/-⟪या⟫):** können eine weitere Bedeutung haben (bes. -⟪य⟫) im Sinne des deutschen "-wert" (z.B. "sehenswert") oder nur einer Möglichkeit "-bar" (⟪दृश्य⟫ "sichtbar"). Bildungen mit diesen Suffixen können mit ⟪अ⟫-/-⟪अन्⟫- verneint werden (nicht aber Bildungen mit -⟪तव्य⟫) und es gibt ⟪तत्पुरुष⟫ als deren Hinterglied sie vorkommen.
-:::### 41.2.5. Keine Verbindung mit ⟪सु⟫- und ⟪दुस्⟫-
+:::
+### 41.2.5. Keine Verbindung mit ⟪सु⟫- und ⟪दुस्⟫-
 
 :::grammar-box
 Mit  ⟪सु⟫- und ⟪दुस्⟫- in der Bedeutung "leicht" bzw. "schwer" dürfen Gerundive nicht verbunden werden. Statt dessen stehen ⟪तत्पुरुष⟫ vom Typ  ⟪सुकर⟫ 3 ("leicht zu tun") (s. [Lektion 18](lektion18.md)).
-:::## 41.3. Wortliste
+:::
+## 41.3. Wortliste
 
 ⟪मूर्ख⟫ m = ⟪मूढ⟫
 
@@ -281,7 +306,8 @@ Mit  ⟪सु⟫- und ⟪दुस्⟫- in der Bedeutung "leicht" bzw. "schwe
 ![lekt4105.jpg](/images/lekt4105.webp)
 Abb.: ⟪भुजङ्गः⟫
 (Bildquelle: [Details](/licenses#lekt4105))
-:::⟪केवलम्⟫ Adv.: nur, allein, vollständig
+:::
+⟪केवलम्⟫ Adv.: nur, allein, vollständig
 
 ⟪विष⟫ n.: Gift
 
@@ -289,7 +315,8 @@ Abb.: ⟪भुजङ्गः⟫
 ![lekt4104.jpg](/images/lekt4104.webp)
 Abb.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 (Bildquelle: [Details](/licenses#lekt4104))
-:::⟪शास्⟫ 2P ⟪शास्ति⟫ : zurechtweisen, beherrschen, befehlen, lehren
+:::
+⟪शास्⟫ 2P ⟪शास्ति⟫ : zurechtweisen, beherrschen, befehlen, lehren
 
 :::indent
 hat den schwachen Präsensstamm **⟪शिष्⟫** : **⟪शिष्मस्⟫**, die 3.Pl. P. hat aber starken Stamm: **⟪शासति⟫** (!! Endung -ati) neben gelegentlich **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. Auch das ganze ⟪आत्मनेपद⟫ hat, soweit es vorkommt, den starken Stamm: **⟪शास्ते⟫**
@@ -318,7 +345,8 @@ Abb.: ⟪शास्त्री⟫
 (Bildquelle: [Details](/licenses#lekt4110))
 ::::::indent
 **⟪शिष्य⟫** 3: zu belehrender = Schüler
-:::⟪शरण⟫ 3: schützend, schirmend ; n. Schutz, Zuflucht, das Zufluchnehmen zu
+:::
+⟪शरण⟫ 3: schützend, schirmend ; n. Schutz, Zuflucht, das Zufluchnehmen zu
 
 ⟪सङ्घ⟫ n.: (zu ⟪सम्⟫-⟪हन्⟫ : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische)
 
@@ -326,7 +354,8 @@ Abb.: ⟪शास्त्री⟫
 s. dazu:
 
 **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
+:::
+⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
 ⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
 
@@ -334,7 +363,8 @@ s. dazu:
 
 :::indent
 PPP **⟪अतीत⟫** : n. Vergangenheit
-:::## 41.4. Übung
+:::
+## 41.4. Übung
 
 A) Übersetzen Sie die beiden Sprichwörter am Anfang der Lektion.
 
@@ -348,7 +378,8 @@ B) Übersetzen Sie:
 ![lekt4111.jpg](/images/lekt4111.webp)
 Abb.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ...
 (Bildquelle: [Details](/licenses#lekt4111))
-:::⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥३॥⟫
+:::
+⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥३॥⟫
 
 ⟪विक्रेयाणि⟫ ⟪विक्रीयापुत्रवैश्यो⟫ ⟪भिक्षुभ्यो⟫ ⟪विक्रयफलमददाद्दानपुण्यं⟫ ⟪चादत्त⟫ ⟪।⟫ ⟪एतत्कर्म⟫ ⟪स्तुत्यमिति⟫ ⟪भिक्षवः⟫ ⟪प्रोचुर्बुद्धिमन्तस्तु⟫ ⟪विकल्पयन्ति⟫ ⟪किमेवं⟫ ⟪कुर्वाणो⟫ ⟪वश्यः⟫ ⟪पुण्यं⟫ ⟪चकारेति⟫ ⟪॥४॥⟫
 

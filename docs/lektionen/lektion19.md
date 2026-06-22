@@ -13,11 +13,13 @@ lesson_id: 19
 
 :::indent
 **Relativpronomen -- Relativsatz, der das Nomen enthält, auf den sich der Relativsatz bezieht -- (Demonstrativpronomen) -- Hauptsatz**
-:::**Der Relativsatz kann auch nach dem Hauptsatz stehen, er kann aber nicht in den Hauptsatz eingeschoben werden.**
+:::
+**Der Relativsatz kann auch nach dem Hauptsatz stehen, er kann aber nicht in den Hauptsatz eingeschoben werden.**
 
 **Das Relativpronomen und das Beziehungswort, das ja - im Gegensatz zum Deutschen - im Relativsatz steht, stehen in dem Kasus, den der Relativsatz syntaktisch erfordert. Das Demonstrativpronomen steht in dem Kasus, den der Hauptsatz syntaktisch erfordert.**
 
-:::Beispiele:
+:::
+Beispiele:
 
 Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstelle des Indikativs verwendet. Viele unserer Beispiele würden also bevorzugt im Optativ stehen.
 
@@ -25,27 +27,33 @@ Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstel
 
 :::indent
 ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ u.s.w. = "Ein Mann, der Verdienstvolles tut, kommt in den Himmel."
-:::**2. Das direkte Objekt (⟪कर्म⟫) des Hauptsatzes wird durch den Relativsatz näher bestimmt:**
+:::
+**2. Das direkte Objekt (⟪कर्म⟫) des Hauptsatzes wird durch den Relativsatz näher bestimmt:**
 
 :::indent
 ⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "Die Götter beschützen einen Brahmanen, der ihnen als Opferherr opfert."
-:::**3. Die nähere Bestimmung eines Nomens des Hauptsatzes steht im Relativsatz:**
+:::
+**3. Die nähere Bestimmung eines Nomens des Hauptsatzes steht im Relativsatz:**
 
 :::indent
 ⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Söhne von Männern, die Böses tun, erhalten keinen Reichtum."
-:::**4. Relativpronomen und Beziehungswort stehen im Genetiv (⟪षष्ठी⟫):**
+:::
+**4. Relativpronomen und Beziehungswort stehen im Genetiv (⟪षष्ठी⟫):**
 
 :::indent
 ⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "Nicht ist der Mann glücklich, dessen Söhne Böses tun."
-:::**5. Relativpronomen und Beziehungswort stehen im Instrumentalis (⟪तृतीया⟫):**
+:::
+**5. Relativpronomen und Beziehungswort stehen im Instrumentalis (⟪तृतीया⟫):**
 
 :::indent
 ⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "Sie hassen den Feind, der ihr Dorf besiegt / erobert hat."
-:::**6. Relativpronomen und Beziehungswort stehen im Akkusativ (⟪द्वितीया⟫):**
+:::
+**6. Relativpronomen und Beziehungswort stehen im Akkusativ (⟪द्वितीया⟫):**
 
 :::indent
 ⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "Ein Mann, den die Göttin beschützt, erlangt Glück."
-:::## 19.2. Das Relativpronomen = ⟪व्यपेक्षकसर्वनाम⟫ n.
+:::
+## 19.2. Das Relativpronomen = ⟪व्यपेक्षकसर्वनाम⟫ n.
 
 :::grammar-box
 
@@ -64,7 +72,8 @@ Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstel
 
 **Als Vorderglied von Komposita erscheint der Stamm ⟪यद्⟫ (unter Beachtung des Sandhi).**
 
-:::## 19.3. Wortliste
+:::
+## 19.3. Wortliste
 
 **⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. **⟪अर्थम्⟫** (Akk.), **⟪अर्थेन⟫** (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
 
@@ -81,7 +90,8 @@ Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstel
 Abb.: ⟪कामः⟫
 Illustration zum ⟪कामसूत्र⟫
 (Bildquelle: [Details](/licenses#lekt1809))
-:::**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫)
+:::
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫)
 
 **⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen
 
@@ -93,7 +103,8 @@ von **⟪स्था⟫** :
 **⟪स्थान⟫ n.:** Stelle, (rechter) Ort, Standort
 
 **⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
-:::**⟪गर्भ⟫ m.:** Gebärmutter, Schoß, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+:::
+**⟪गर्भ⟫ m.:** Gebärmutter, Schoß, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
 
 :::indent
 **⟪धनगर्भ⟫ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet"
@@ -104,20 +115,23 @@ von **⟪स्था⟫** :
 Abb.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
 (Bildquelle: [Details](/licenses#lekt1901))
-:::**⟪वारिद⟫ m.:** Wassergeber = Regenwolke
+:::
+**⟪वारिद⟫ m.:** Wassergeber = Regenwolke
 
 :::media
 ![](/images/lekt1902.jpg)
 Abb.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
 (Bildquelle: [Details](/licenses#lekt1902))
-:::**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** wehen
+:::
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** wehen
 
 davon:
 
 :::indent
 **⟪वात⟫ m.:** Wind
-:::**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
+:::
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
 
 **⟪छत्त्र⟫ n.:** Sonnenschirm, Schirm
 
@@ -126,14 +140,16 @@ davon:
 Abb.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
 (Bildquelle: [Details](/licenses#lekt1904))
-:::**⟪पण्डित⟫ m.:** Gelehrter, Weiser ; 3: klug, bewandert (in)
+:::
+**⟪पण्डित⟫ m.:** Gelehrter, Weiser ; 3: klug, bewandert (in)
 
 :::media
 ![](/images/lekt1903.jpg)
 Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
 ⟪१९५९⟫
 (Bildquelle: [Details](/licenses#lekt1903))
-:::**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
+:::
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
 
 **⟪नि⟫ Präverb:** nieder, hinein
 
@@ -178,14 +194,16 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 ⟪वारिदो⟫ ⟪वारि⟫ ⟪मुञ्चति⟫ ⟪।⟫  
 ⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
 ⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫
-:::Erklärung: ⟪वारि⟫ Nom., Akk. sg. zu ⟪वारि⟫ n.: Wasser
+:::
+Erklärung: ⟪वारि⟫ Nom., Akk. sg. zu ⟪वारि⟫ n.: Wasser
 
 :::indent
 ⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
 ⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
 ⟪धर्मार्थकामसंयोगं⟫  
 ⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
-:::Erklärung: ⟪यथाकालम्⟫ Avyayībhāvakompositum: zur rechten Zeit ; immer, wenn dafür der rechte Zeitpunkt vorliegt.
+:::
+Erklärung: ⟪यथाकालम्⟫ Avyayībhāvakompositum: zur rechten Zeit ; immer, wenn dafür der rechte Zeitpunkt vorliegt.
 
 :::indent
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
@@ -197,7 +215,8 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 ⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
-:::Erklärung: ⟪पुमान्⟫ Nom. sg. zu ⟪पुंस्⟫ "Mann" ; ⟪लोके⟫ Lokativ sg. zu ⟪लोक⟫ m.: in der ...
+:::
+Erklärung: ⟪पुमान्⟫ Nom. sg. zu ⟪पुंस्⟫ "Mann" ; ⟪लोके⟫ Lokativ sg. zu ⟪लोक⟫ m.: in der ...
 
 :::deleteme-box
 

@@ -13,7 +13,8 @@ status: stable
 
 ::::grammar-box
 1. Some roots show a change of the root initial after the reduplication syllable.
-::::Examples:
+::::
+Examples:
 
 | Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -39,7 +40,8 @@ status: stable
 | Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | **⟪भू⟫** 1P | **⟪बभूव⟫** | **⟪बभूवुर्⟫** |
-::::## 36.2. The periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
+::::
+## 36.2. The periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
 
 ::::grammar-box
 The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used:
@@ -54,7 +56,8 @@ The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used
 
 - The final stem vowel is guṇa-substituted before -ām.
 - ⟪अस्⟫ and ⟪भू⟫ are also conjugated in the parasmaipada for ātmanepada verbs.
-::::The periphrastic perfect probably arose from the accusative of a verbal noun in -ā. This accusative is used -- as often elsewhere -- adverbially.
+::::
+The periphrastic perfect probably arose from the accusative of a verbal noun in -ā. This accusative is used -- as often elsewhere -- adverbially.
 
 Examples:
 
@@ -70,7 +73,8 @@ In the perfect, the forms of the Ātmanepada are used for the passive. In contra
 
 :::indent
 ⟪तेन⟫ ⟪पुण्यं⟫ ⟪चक्रे⟫ = ⟪तेन⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ = "He performed a meritorious deed"
-:::::::## 36.4. Word List
+:::::::
+## 36.4. Word List
 
 ⟪अह्⟫ P only Perfect with present meaning ⟪आह⟫, ⟪आहुर्⟫ : to say, to speak
 
@@ -85,7 +89,8 @@ Pass. ⟪ईक्ष्यते⟫
 Kaus. ⟪ईक्षयति⟫  
 PPP ⟪ईक्षित⟫  
 Inf. ⟪ईक्षितुम्⟫
-:::⟪चि⟫ 5U ⟪चिनोति⟫ : to heap up, to collect
+:::
+⟪चि⟫ 5U ⟪चिनोति⟫ : to heap up, to collect
 
 :::indent
 Perf. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
@@ -98,7 +103,8 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Image source: [Details](/en/licenses#lekt3601))
-:::⟪व्रज्⟫ 1P ⟪व्रजति⟫ : to stride, to go, to go away
+:::
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : to stride, to go, to go away
 
 :::indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -107,7 +113,8 @@ Pass. ⟪व्रज्यते⟫
 Kaus. ⟪व्राजयति⟫  
 PPP ⟪व्रजित⟫  
 Inf. ⟪व्रजितुम्⟫
-:::⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : to go away (esp. from home into homelessness as an ascetic = to become a monk)
+:::
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : to go away (esp. from home into homelessness as an ascetic = to become a monk)
 
 ⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: house, home
 
@@ -123,7 +130,8 @@ therefrom:
 ![](/images/lekt3603.webp)
 Fig.: ⟪अनगार्यम्⟫
 (Image source: [Details](/en/licenses#lekt3603))
-:::⟪अञ्जलि⟫ m.: The two hands placed high together in reverence
+:::
+⟪अञ्जलि⟫ m.: The two hands placed high together in reverence
 
 ⟪आदृत⟫ 3: respected
 
@@ -135,7 +143,8 @@ Fig.: ⟪अनगार्यम्⟫
 
 :::indent
 ⟪पृष्ठम्⟫ : behind
-:::⟪प्रजापति⟫ m.: lord of creatures, creator god
+:::
+⟪प्रजापति⟫ m.: lord of creatures, creator god
 
 ⟪अनु⟫ prefix: after, along, over - hin, along, according to, to, behind - her
 
@@ -145,7 +154,8 @@ e.g.
 ⟪अनुकृ⟫ : to imitate, to do after
 
 ⟪अनुगम्⟫ : to follow someone, to go along
-:::⟪अभि⟫ : to-, after - hin, to - her, to - hin, against, in - into, with regard to, on, over, at
+:::
+⟪अभि⟫ : to-, after - hin, to - her, to - hin, against, in - into, with regard to, on, over, at
 
 :::indent
 e.g.
@@ -153,7 +163,8 @@ e.g.
 ⟪अभिगम्⟫ : to go to, to approach
 
 ⟪वद्⟫ + ⟪अभि⟫ Causative Ā ⟪अभिवादयते⟫ : to formally greet, to address
-:::⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : to feel reluctance, to fade away
+:::
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : to feel reluctance, to fade away
 
 :::indent
 Perf. IV ⟪जग्लौ⟫  
@@ -163,7 +174,8 @@ Kaus. ⟪ग्लापयति⟫ ⟪।⟫ ⟪ग्लपयति⟫
 PPP ⟪ग्लान⟫  
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
-:::⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : to smell something
+:::
+⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : to smell something
 
 :::indent
 Perf. IV ⟪जघ्रौ⟫  
@@ -173,7 +185,8 @@ Kaus. ⟪घ्रापयति⟫
 PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫  
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
-:::⟪प्री⟫ 9U ⟪प्रीणति⟫ : to delight, to please; to love, to be inclined towards someone
+:::
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : to delight, to please; to love, to be inclined towards someone
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : to rejoice
 
@@ -184,7 +197,8 @@ Pass. ⟪प्रीयते⟫
 Kaus. ***⟪प्रीणयति⟫***  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
-:::⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : to touch
+:::
+⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : to touch
 
 :::indent
 Perf IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
@@ -198,7 +212,8 @@ Absol. -⟪स्पृश्य⟫
 ![](/images/lekt3606.webp)
 Fig.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
 (Image source: [Details](/en/licenses#lekt3606))
-:::⟪हृष्⟫ 4P ⟪हृष्यति⟫ : to become stiff: to bristle (hair), to rejoice over (Instr., Acc., Loc.)
+:::
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : to become stiff: to bristle (hair), to rejoice over (Instr., Acc., Loc.)
 
 :::indent
 Perf II ⟪जहर्ष⟫  
@@ -210,7 +225,8 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Image source: [Details](/en/licenses#lekt3604))
-:::⟪स्वक⟫ 3: own (my, your ...) ; m.: member
+:::
+⟪स्वक⟫ 3: own (my, your ...) ; m.: member
 
 
 
@@ -252,7 +268,8 @@ D) Translate:
 ![](/images/lekt3605.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫
 (Image source: [Details](/en/licenses#lekt3605))
-:::⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञेन⟫ ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫
+:::
+⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञेन⟫ ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫
 
 ⟪रक्षितधर्मक्षत्रिययोधा⟫ ⟪महानगरं⟫ ⟪जेतुकामाञ्छत्रून्विजिग्युर्न⟫ ⟪तु⟫ ⟪जघ्नुः⟫ ⟪॥३॥⟫
 
@@ -404,19 +421,22 @@ Explanations:
 ![](/images/lekt3607.webp)
 Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#lekt3607))
-:::2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ on the proper conduct towards the elderly:
+:::
+2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ on the proper conduct towards the elderly:
 
 :::indent
 ⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫
 ⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫
-:::3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Who is a ⟪जितेन्द्रिय⟫:
+:::
+3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Who is a ⟪जितेन्द्रिय⟫:
 
 :::indent
 ⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫
 ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ***⟪विज्ञेयो⟫*** ⟪जितेन्द्रियः⟫ ⟪॥⟫
 
 Explanation: ⟪विज्ञेय⟫ ⟪३⟫: one who is to be recognized; one who is to be known (as)
-:::4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ on the proper conduct of a Brahmin:
+:::
+4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ on the proper conduct of a Brahmin:
 
 :::indent
 ⟪नापृष्टः⟫ ⟪कस्यचिद्ब्रूयान्न⟫ ⟪चान्यायेन⟫ ⟪पृच्छतः⟫ ⟪।⟫
@@ -429,7 +449,8 @@ In this verse, ⟪ब्रू⟫ is constructed with the genitive
 ⟪मेधावी⟫ : Nom. sg. masc. of ⟪मेधाविन्⟫ ⟪३⟫ "intelligent, wise"
 
 ⟪जडवत्⟫ Adv. "In the manner of a dull/stubborn/foolish person"
-:::## 36.8. Form Exercise
+:::
+## 36.8. Form Exercise
 
 Determine and translate the following word forms in all possible ways:
 

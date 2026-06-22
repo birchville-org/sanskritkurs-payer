@@ -41,7 +41,8 @@ Der Vater wünschte die Erlangung von Enkeln.
 ![](/images/uebung068.webp)
 Abb.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Bildquelle: [Details](/licenses#uebung068))
-:::---
+:::
+---
 
 ## Erzählung: Sītās Hochzeit (⟪सीताविवाहः⟫)
 

@@ -74,7 +74,8 @@ B) Lösen Sie folgende Tatpuruṣa auf:
 ![](/images/uebung014.webp)
 Abb.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 (Bildquelle: [Details](/licenses#uebung014))
-:::---
+:::
+---
 
 ## Zusätzliche Übungen
 

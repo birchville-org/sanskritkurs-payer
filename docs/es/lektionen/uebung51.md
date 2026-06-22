@@ -76,7 +76,8 @@ Reflexionen del loro **⟪वैशम्पायन⟫** sobre la vida de caza
 ![](/images/uebung086.webp)
 Fig.: Cazador
 (Fuente de la imagen: [Detalles](/licenses#uebung086))
-:::---
+:::
+---
 
 ## ⟪४⟫. Comentario de ⟪भानुचन्द्र⟫ (⟪१६⟫. s.)
 

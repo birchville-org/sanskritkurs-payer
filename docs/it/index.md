@@ -22,7 +22,8 @@ features:
     details: Costruito sulle fondamenta di VitePress per la massima velocità.
 ---
 
-:::tip Version 1.5 — Hebrew Translation & Typography
+:::
+tip Version 1.5 — Hebrew Translation & Typography
 **Novità nella v1.5 (giugno 2026):**
 
 - **Nuova lingua (ebraico):** L'intero corso è ora disponibile anche in ebraico (incluso il supporto RTL).

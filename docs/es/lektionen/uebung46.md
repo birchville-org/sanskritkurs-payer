@@ -66,7 +66,8 @@ A) Determine y traduzca las siguientes formas:
 | ⟪५०⟫. **⟪ददाने⟫** | ⟪दा⟫ (3U) Part. Präs. Ā. Lok. sg. m./n. | en el dador |
 | ⟪५१⟫. **⟪सुषुपुः⟫** | ⟪स्वप्⟫ (2P) 3. pl. P. Perf. | ellos han dormido |
 | ⟪५२⟫. **⟪ऊसु⟫** | ⟪वस्⟫ (1P) 2. pl. P. Perf. | vosotros habéis residido |
-:::---
+:::
+---
 
 ## Proverbios (⟪सुभाषितानि⟫)
 

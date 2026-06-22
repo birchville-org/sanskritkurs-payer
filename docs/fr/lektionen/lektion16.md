@@ -25,7 +25,8 @@ Consonnes occlusives gutturales, rétroflexes, dentales et labiales finales (c�
 | **devant des sons sonores non nasaux** | **Remplacement par le son sonore non aspiré correspondant :** :br **par ex.** :br [[indent]] -t + g- » -dg- :br [[indent]] -k + b- » -gb- :br [[indent]] -dh + d- » -dd- :br [[indent]] -k + a- » -ga- |
 | **devant des nasales** | **Remplacement par la nasale correspondante :** :br **par ex.** :br [[indent]] -t + n- » -nn- :br [[indent]] -p + n- » -mn- |
 
-:::::::Exception à la règle ci-dessus :
+:::::::
+Exception à la règle ci-dessus :
 
 Occlusive dentale finale (pas de nasale) :
 
@@ -40,7 +41,8 @@ Occlusive dentale finale (pas de nasale) :
 | **devant une rétroflexe** | **Remplacement par la rétroflexe non aspirée concernée :** :br **c’est-à-dire** :br [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
 | **devant l-** | **Remplacement par -l :** :br **c’est-à-dire** :br [[indent]] -t/-th/-d/-dh + l- » -ll- |
 
-:::::::Exemples :
+:::::::
+Exemples :
 
 ⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल⟫
 
@@ -67,7 +69,8 @@ Occlusive dentale finale (pas de nasale) :
 Fig. : ⟪अध्यापनम्⟫
 « Il s’agit d’une cérémonie spéciale dans un petit temple de Satara (⟪सातारा⟫). Elle est accomplie par les étudiants de la Swami Muktananda Vedashala à l’occasion de la célébration de Mahāśivarātri. Il s’agit d’une école védique où les enfants apprennent par cœur les textes sacrés appelés les Védas. Cette école enseigne le Krishna Yajurveda et certaines parties du Samaveda. Je rédige mon mémoire de master sur cette école. »
 (Source de l’image : [Détails](/fr/licenses#lekt1602))
-:::⟪अनसूया⟫ f. : Absence de murmures, absence d’envie
+:::
+⟪अनसूया⟫ f. : Absence de murmures, absence d’envie
 
 ⟪नृशंस्य⟫ n. : Méchanceté, bassesse
 
@@ -75,13 +78,15 @@ dont :
 
 :::indent
 ⟪अनृशंस्य⟫ n. : Absence de méchanceté
-:::⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : vivre
+:::
+⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : vivre
 
 dont :
 
 :::indent
 ⟪आजीव⟫ m. : Subsistance
-:::⟪क्षमा⟫ f. : Patience, longanimité, indulgence
+:::
+⟪क्षमा⟫ f. : Patience, longanimité, indulgence
 
 ⟪क्षेम⟫ n. : Calme, paix, bien-être, possession sûre
 
@@ -98,7 +103,8 @@ dont :
 Fig. : ⟪योगी⟫
 Temple Birla, Delhi
 (Source de l’image : [Détails](/fr/licenses#lekt1601))
-:::⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : tourner, se retourner, se trouver (quelque part), habiter
+:::
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : tourner, se retourner, se trouver (quelque part), habiter
 
 ⟪शस्त्र⟫ (śastra) n. : Outil tranchant, arme blanche, épée, arme
 
@@ -113,7 +119,8 @@ Temple Birla, Delhi
 Fig. : ⟪अहिंसा⟫
 « La main avec une roue sur la paume symbolise le vœu jaïn d’Ahimsa. Le mot au milieu est « ahimsa ». La roue représente le dharmacakra, qui symbolise la résolution d’arrêter le cycle des réincarnations par une poursuite implacable de la vérité et de la non-violence. »
 (Source de l’image : [Détails](/fr/licenses#lekt1603))
-:::## 16.3. Exercice
+:::
+## 16.3. Exercice
 
 A) Transformez les expressions suivantes en Tatpuruṣa et traduisez-les :
 
@@ -130,7 +137,8 @@ A) Transformez les expressions suivantes en Tatpuruṣa et traduisez-les :
 Fig. : ⟪पशुमन्तो⟫ ⟪जनाः⟫
 ⟪हरियाणा⟫ / ਹਰਿਆਣਾ
 (Source de l'image : [Détails](/fr/licenses#lekt1604))
-:::⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
+:::
+⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
 ⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
@@ -233,7 +241,8 @@ Phrase 7 : ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Acc. : Dv
 Phrase 8 : ⟪कर्म⟫ Nom., Acc. sg. Neutre à ⟪कर्मन्⟫ "Action"
 
 Phrase 13 : ⟪सर्वेषाम्⟫ Gén. pl. masc. à ⟪सर्व⟫ "chaque, tous" (Pronom, ne se décline pas comme deva)
-:::⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
+:::
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
 :::deleteme-box
 

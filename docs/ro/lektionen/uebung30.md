@@ -78,7 +78,8 @@ A) Transformați următoarele forme verbale în forme optative corespunzătoare 
 | ⟪६३⟫. **⟪अर्हति⟫** | ⟪अर्हेत्⟫ |
 | ⟪६४⟫. **⟪अदन्ति⟫** | ⟪अद्युः⟫ |
 | ⟪६५⟫. **⟪अध्यापयन्ति⟫** | ⟪अध्यापयेयुः⟫ |
-:::B) Traduceți următoarele propoziții și descompuneți compusele în sanscrită:
+:::
+B) Traduceți următoarele propoziții și descompuneți compusele în sanscrită:
 
 ⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
 (⟪आर्याणि⟫ ⟪सत्यानि⟫)
@@ -119,7 +120,8 @@ Să se spună adevăruri plăcute, să nu se spună adevăruri neplăcute; să n
 ![](/images/uebung048.webp)
 Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung048))
-:::---
+:::
+---
 
 ## Determinarea formei cuvântului
 

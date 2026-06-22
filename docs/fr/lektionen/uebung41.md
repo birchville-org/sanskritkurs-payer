@@ -35,7 +35,8 @@ Ce triple refuge est essentiel pour posséder la motivation et la persévérance
 L'essentiel n'est cependant pas la personnalité du libérateur, mais la doctrine de libération qui permet à l'individu de parcourir le chemin lui-même. Il faut être si convaincu par la doctrine qu'on déploie l'énergie nécessaire pour en tester la véracité (**Refuge en le Dharma**).
 
 De plus, il faut être convaincu que d'autres ont également parcouru ce chemin avec succès. C'est le **Refuge en le Saṅgha**, la communauté de ceux qui sont parvenus à la libération sur le chemin du Bouddha.
-:::⟪२⟫. **⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
+:::
+⟪२⟫. **⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 « Je me rendrai à Bénarès (Kāśī), verrai le Gange et y mourrai » — avec cette pensée, l'honorable vieillard quitta ses fils, petits-fils et biens, et s'installa à Bénarès. Je pense qu'il surmontera ainsi la souffrance à achever.
 
 ⟪३⟫. **⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**

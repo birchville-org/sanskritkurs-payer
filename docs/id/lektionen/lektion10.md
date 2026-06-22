@@ -16,7 +16,8 @@ status: stable
 - The law of cerebralization for -n- (word sandhi)
 - The formation of the passive (yak) in the Indicative Present
 - Vocabulary related to sacrifice, truth, and social roles
-:::## 10.1. The Passive Sentence
+:::
+## 10.1. The Passive Sentence
 
 :::grammar-box
 **Schema:**
@@ -40,11 +41,14 @@ The active sentence **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्�
 **Intransitive verbs (verbs without a direct object) frequently have passive constructions, esp. also in polite requests:**
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = "One may enter = Please enter = Come in!"
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = "One may sit down = Please sit down = Please take a seat"
-:::Sanskrit passive constructions are extremely frequent: the passive is also easier to form than, e.g., numerous present stems.
+:::
+Sanskrit passive constructions are extremely frequent: the passive is also easier to form than, e.g., numerous present stems.
 
-:::important
+:::
+important
 **Sanskrit passive sentences generally should not be rendered in German by a passive sentence, since the German passive has a completely different stylistic function.**
-:::---
+:::
+---
 
 ## 10.2. The Instrumental (tṛtīyā f. = ⟪तृतीया⟫ = "third case ending")
 
@@ -95,7 +99,8 @@ The active sentence **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्�
 | | F | **anayā / enayā**:br⟪अनया⟫ / ⟪एनया⟫ | **ābhis**:br⟪आभिस्⟫ |
 ::::::deleteme-box
 Except in the Nominative and Accusative, the forms of the Neuters in -a, of the interrogative pronoun, and of the demonstrative pronouns are identical to the forms of the corresponding Masculine.
-:::---
+:::
+---
 
 ### 10.2.1. On the Use of the Instrumental (tṛtīyā = ⟪तृतीया⟫)
 
@@ -111,7 +116,8 @@ Except in the Nominative and Accusative, the forms of the Neuters in -a, of the 
 3. **to indicate the path by which someone reaches a destination**
 4. **to express connection, union, or accompaniment by**
 5. **with postpositions meaning "together with, with"; e.g. saha = ⟪सह⟫ = "with"**:bre.g.:br**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "together with the Brahmin"
-:::Further uses of the Instrumental (tṛtīyā) will follow later.
+:::
+Further uses of the Instrumental (tṛtīyā) will follow later.
 
 ---
 
@@ -119,7 +125,8 @@ Except in the Nominative and Accusative, the forms of the Neuters in -a, of the 
 
 :::grammar-box
 An **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if **ṛ, ṝ, r, ṣ** precede the **-n-** in the word, or if no other sound than vowels, gutturals, labials, **y, v, h** or Anusvāra stands between these sounds and the following **-n-** in the word.
-:::**Therefore:**
+:::
+**Therefore:**
 
 :::grammar-box
 | | Instrumental Singular |
@@ -129,7 +136,8 @@ An **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if *
 | **īśvara**:br⟪ईश्वर⟫ | **īśvereṇa**:br⟪ईश्वरेण⟫ |
 | **kṣatriya**:br⟪क्षत्रिय⟫ | **kṣatriyeṇa**:br⟪क्षत्रियेण⟫ |
 | **naraka**:br⟪नरक⟫ | **narakeṇa**:br⟪नरकेण⟫ |
-:::**Thus, the -ṇ- is also to be explained in:**
+:::
+**Thus, the -ṇ- is also to be explained in:**
 
 :::indent
 **śravaṇa** ⟪श्रवण⟫
@@ -139,14 +147,16 @@ An **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if *
 **kāraṇa** ⟪कारण⟫
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
-:::---
+:::
+---
 
 ## 10.4. The Passive, Indicative Present (yak = ⟪यक्⟫)
 
 :::grammar-box
 **Formation:**
 **(mostly) guṇa-grade root + -ya- + Ātmanepada ending**
-:::e.g.
+:::
+e.g.
 
 | Root:br⟪धातु⟫ | 3. sg. Pass. Pres. Indic.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Pres. Indic.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
@@ -220,7 +230,8 @@ An **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if *
   :::- **pāpa** n. ⟪पाप⟫ : evil deed, evil (opposite of **puṇya**)
 - **satya** n. ⟪सत्य⟫ : truth
 
-:::note-box
+:::
+note-box
 In India, the true word was attributed with magical power; indeed, the entire cosmic order is maintained and created by the true word. For this important concept, see the fundamental work:
 
 Lüders, Heinrich &lt;1869 - 1943&gt;: Varuṇa / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuṇa and Ṛta. -- 1959. -- XXIII pp., pp. 340 - 764
@@ -228,7 +239,8 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuṇa / Heinrich Lüders. Edited from 
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
 (Image source: [Details](/en/licenses#lekt1003))
-:::- **anṛta** n. ⟪अनृत⟫ : untruth, lie (opposite of **satya**)
+:::
+- **anṛta** n. ⟪अनृत⟫ : untruth, lie (opposite of **satya**)
 
   :::note-box
   Word formation **an-** ("un-") + **ṛta** n.
@@ -242,7 +254,8 @@ Fig.: ⟪वरुणः⟫
 ![](/images/lekt1002.jpg)
 Fig.: ⟪विश्वामित्रः⟫
 (Image source: [Details](/en/licenses#lekt1002))
-:::- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : to say, to speak
+:::
+- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : to say, to speak
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : to ask (someone: Acc.; about something: Acc.)
 - **saha** ⟪सह⟫ : together with, jointly with (also with "fight with" etc.) (postposition with instrumental case)
 
@@ -305,7 +318,8 @@ Fig.: ⟪विश्वामित्रः⟫
 ![](/images/lekt1004.jpg)
 Fig.: ⟪तन्तुवायः⟫
 (Image source: [Details](/en/licenses#lekt1004))
-:::5. Teachers are asked. (Passive construction)
+:::
+5. Teachers are asked. (Passive construction)
 6. The eye leads. (Passive construction)
 7. The poet sees a deity. (Passive construction)
 8. Who (fem.) tends the girl? (Passive construction)
@@ -350,12 +364,14 @@ Fig.: ⟪तन्तुवायः⟫
 **⟪क⟫**
 
 ⟪१⟫.
-:::center
+:::
+center
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
 ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
-:::⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
+:::
+⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
 ⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ | |
 ⟪४⟫. ⟪ऋषयः⟫ ⟪सूक्तानि⟫ ⟪पश्यन्ति⟫ | |
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ | |

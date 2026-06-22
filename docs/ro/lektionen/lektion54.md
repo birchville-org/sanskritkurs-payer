@@ -33,7 +33,8 @@ Exemplu:
 Fig.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5402))
-:::## 54.3. Metrika II: epica ⟪त्रिष्टुभ्⟫ și ⟪जगती⟫
+:::
+## 54.3. Metrika II: epica ⟪त्रिष्टुभ्⟫ și ⟪जगती⟫
 
 ::::grammar-box
 ⟪त्रिष्टुभ्⟫ („Triplu suspin”) apare în epopee, în mijlocul părților obișnuite de ⟪श्लोक⟫, exact în punctele în care starea de spirit sau acțiunea experimentează un impuls special sau o încheiere.
@@ -44,33 +45,45 @@ Strofa ⟪त्रिष्टुभ्⟫ constă din patru ⟪पाद⟫ de
 
 Schema I:
 
-:::metrik-schema
+:::
+metrik-schema
 × — × — / × ◡ — **— ◡ — —**
-:::Schema II:
+:::
+Schema II:
 
-:::metrik-schema
+:::
+metrik-schema
 × — × — × / × ◡ **— ◡ — —**
-:::Quantitatea celor patru ultime silabe este, așadar, aceeași în ambele scheme.
+:::
+Quantitatea celor patru ultime silabe este, așadar, aceeași în ambele scheme.
 
 Forma de bază ⟪जगती⟫: ca la ⟪त्रिष्टुभ्⟫, dar de douăsprezece silabe. Ultimele cinci silabe ale fiecărui Pada evidențiază următoarele cantități:
 
-:::metrik-schema
+:::
+metrik-schema
 **— ◡ — ◡ —**
-:::Împreună cu aceasta există așa-numita ⟪त्रिष्टुभ्⟫ tipic suplimentară, cu un segment inițial de cinci silabe, care continuă ca o ⟪त्रिष्टुभ्⟫ cu un segment inițial de patru silabe:
+:::
+Împreună cu aceasta există așa-numita ⟪त्रिष्टुभ्⟫ tipic suplimentară, cu un segment inițial de cinci silabe, care continuă ca o ⟪त्रिष्टुभ्⟫ cu un segment inițial de patru silabe:
 
-:::metrik-schema
+:::
+metrik-schema
 — × — × / × ◡ — **— ◡ — —**
-:::În perioadele ulterioare, formele ⟪त्रिष्टुभ्⟫ sunt stabilite conform unei scheme riguroase de lungimi și scurtimi, pauza jucând un rol nul. Cele mai importante forme ulterioare sunt:
+:::
+În perioadele ulterioare, formele ⟪त्रिष्टुभ्⟫ sunt stabilite conform unei scheme riguroase de lungimi și scurtimi, pauza jucând un rol nul. Cele mai importante forme ulterioare sunt:
 
 a) ⟪इन्द्रवज्रा⟫
 
-:::metrik-schema
+:::
+metrik-schema
 **—** — ◡ — , — ◡ ◡ — ◡ — —
-:::b) ⟪उपेन्द्रवज्रा⟫
+:::
+b) ⟪उपेन्द्रवज्रा⟫
 
-:::metrik-schema
+:::
+metrik-schema
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
-:::c) ⟪उपजाति⟫
+:::
+c) ⟪उपजाति⟫
 
 :::indent
 ⟪पाद⟫ în ⟪इन्द्रवज्रा⟫ și ⟪पाद⟫ în ⟪उपेन्द्रवज्रा⟫ sunt amestecate într-o strofă.
@@ -81,18 +94,21 @@ a) ⟪इन्द्रवज्रा⟫
 
 :::indent
 „Este o Indravājrā, dacă silabele din toate Pādas sunt ta ta ja ga ga.
-:::⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
+:::
+⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
 :::indent
 „O Upendravajrā este ca o Indravajrā, care la început are o silabă ușoară”
-:::⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
+:::
+⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
 ⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
 ⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
 ⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
 :::indent
 „Dacă doi Pādas, care au caracteristicile Indravajrā, respectiv Upendravajrā, sunt implicați într-un vers, atunci sunt Upajātis. De asemenea, dacă alte metrice sunt amestecate într-un vers, se numește Upajāti.”
-:::::::## 54.4. Exercițiu de metrică
+:::::::
+## 54.4. Exercițiu de metrică
 
 Determinați în Bhagavadgītā II triṣṭubh-urile și jagatī-urile.
 
@@ -118,13 +134,15 @@ Exemplu de recitare: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http:
     *   54.7. Aorist cu -sa: Augment + radical + **s** + **a** + desinență secundară
 
 Distribuția radicaleslor pe tipurile individuale de formare se găsește la tipurile individuale
-:::## 54.6. Aoristul radical
+:::
+## 54.6. Aoristul radical
 
 :::grammar-box
 **Formare:**
 
 **Augment + Rădăcină + Terminație secundară**
-:::Terminația pentru persoana a III-a plural este -ur. Forma la ātmanepada nu este uzuală.
+:::
+Terminația pentru persoana a III-a plural este -ur. Forma la ātmanepada nu este uzuală.
 
 Exemplu:
 
@@ -136,7 +154,8 @@ Exemplu:
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (gradul redus!) |
-:::Aoristul radical se formează doar de la 12 rădăcini:
+:::
+Aoristul radical se formează doar de la 12 rădăcini:
 
 1.  ⟪गा⟫ Persoana a III-a plural "a merge"
 2.  ⟪घ्रा⟫ Persoana I singular "a mirosi"
@@ -159,7 +178,8 @@ Pentru ⟪भू⟫ Persoana I singular, aoristul radical se formează astfel:
 | 1. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
-:::### 54.6.1. Aoristul la persoana a III-a singular, vocea pasivă
+:::
+### 54.6.1. Aoristul la persoana a III-a singular, vocea pasivă
 
 O formă specială a aoristului de rădăcină este aoristul la persoana a III-a singular, vocea pasivă. Acesta se poate forma din toate rădăcinile.
 
@@ -213,7 +233,8 @@ Nasal-infix:
     
 
 (celelalte forme ale pasivului sunt exprimate în aorist prin forme de Ātmanepada).
-:::## 54.7. Exercițiu
+:::
+## 54.7. Exercițiu
 
 Traduceți scris următoarele forme și formați corespunzătoarele forme de aorist:
 

@@ -11,7 +11,8 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-:::center
+:::
+center
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
 ⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
@@ -25,7 +26,8 @@ status: stable
 ⟪विद्याविहीनः⟫ ⟪पशुः⟫ ⟪॥६॥⟫
 
 ⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
-:::## 48.2. Formation de l'impératif (⟪लोट्⟫) des racines de présent athématique
+:::
+## 48.2. Formation de l'impératif (⟪लोट्⟫) des racines de présent athématique
 
 ### 48.2.1. Terminaisons de l’impératif sur les racines de présent athématiques
 
@@ -36,7 +38,8 @@ status: stable
 | **1re personne**:br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
 | **2e personne**:br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
 | **3e personne**:br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br**3e cl. : -atu**:br(issu de -\*ntu) | \-atām:br(issu de : -\*ntām) |
-:::Rem. : ¹ Les terminaisons de la 2e et de la 3e personne du singulier peuvent être remplacées par -tāt lorsqu’un vœu de bénédiction est exprimé. -tāt s’ajoute (même à la 3e personne du singulier) à la racine faible.
+:::
+Rem. : ¹ Les terminaisons de la 2e et de la 3e personne du singulier peuvent être remplacées par -tāt lorsqu’un vœu de bénédiction est exprimé. -tāt s’ajoute (même à la 3e personne du singulier) à la racine faible.
 
 :::grammar-box
 | **Concernant la forme de la terminaison de la 2e personne du singulier de l’impératif :** ||
@@ -45,7 +48,8 @@ status: stable
 | **\-āna** | Racines de la 9e classe, se terminant par une consonne, substituent à \-nī+terminaison \-āna |
 | **\-hi** | tous les autres stems de présent, se terminant par une voyelle ou une semi-voyelle (exception : **⟪जुहुधि⟫** pour **⟪हु⟫ 3**) |
 | **\-dhi** | Tous les autres cas |
-:::### 48.2.2. Form du radical de présent
+:::
+### 48.2.2. Form du radical de présent
 
 :::grammar-box
 **Radical fort :**
@@ -54,7 +58,8 @@ status: stable
 *   **3.sg.P imp.**
 
 **Radical faible : toutes les autres formes**
-:::### 48.2.3. Deuxième classe de présent (⟪अदादि⟫)
+:::
+### 48.2.3. Deuxième classe de présent (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
@@ -65,7 +70,8 @@ status: stable
 | **1re personne**:br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
-:::⟪आस्⟫ 2Ā
+:::
+⟪आस्⟫ 2Ā
 
 :::grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
@@ -74,7 +80,8 @@ status: stable
 | **1re personne**:br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
-:::⟪दुह्⟫ 2U
+:::
+⟪दुह्⟫ 2U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -83,7 +90,8 @@ status: stable
 | **1re personne**:br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
-:::⟪इ⟫ 2P
+:::
+⟪इ⟫ 2P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -92,7 +100,8 @@ status: stable
 | **1re personne**:br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
-:::⟪शी⟫ 2Ā (toujours au degré plein !)
+:::
+⟪शी⟫ 2Ā (toujours au degré plein !)
 
 :::grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
@@ -101,7 +110,8 @@ status: stable
 | **1re personne**:br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪शेताम्⟫ | ***⟪शेरताम्⟫*** |
-:::⟪हन्⟫ 2P
+:::
+⟪हन्⟫ 2P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -112,7 +122,8 @@ status: stable
 | **3e personne**:br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
 
 Rem. : ¹ Explication de **⟪जहि⟫** voir Thumb-Hauschild I,2 p. 253
-:::⟪स्तु⟫ 2U
+:::
+⟪स्तु⟫ 2U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -121,7 +132,8 @@ Rem. : ¹ Explication de **⟪जहि⟫** voir Thumb-Hauschild I,2 p. 253
 | **1re personne**:br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br***⟪स्तुवीहि⟫*** | ⟪स्तुत⟫:br***⟪स्तुवीत⟫*** | ⟪स्तुष्व⟫:br***⟪स्तुवीष्व⟫*** | ⟪स्तुध्वम्⟫:br***⟪स्तुवीध्वम्⟫*** |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br***⟪स्तवीतु⟫*** | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br***⟪स्तुवीताम्⟫*** | ⟪स्तुवताम्⟫ |
-:::⟪अस्⟫ 2P
+:::
+⟪अस्⟫ 2P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -130,7 +142,8 @@ Rem. : ¹ Explication de **⟪जहि⟫** voir Thumb-Hauschild I,2 p. 253
 | **1re personne**:br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ***⟪एधि⟫***:br(de : \*s-dhi) | ⟪स्त⟫ |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
-:::⟪शास्⟫ 2P
+:::
+⟪शास्⟫ 2P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -140,11 +153,13 @@ Rem. : ¹ Explication de **⟪जहि⟫** voir Thumb-Hauschild I,2 p. 253
 | **1re personne**:br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ***⟪शाधि⟫***:br(de : śās + dhi):brirrégul. à superlatif | ⟪शिष्ट⟫ |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪शास्तु⟫ | ***⟪शासतु⟫***:brirrégul. à superlatif |
-:::### 48.2.4. Troisième classe de présent (⟪जुहोत्यादि⟫)
+:::
+### 48.2.4. Troisième classe de présent (⟪जुहोत्यादि⟫)
 
 :::grammar-box
 **La 3.pl.P se termine par \-atu !**
-:::⟪हु⟫ 3P
+:::
+⟪हु⟫ 3P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -155,7 +170,8 @@ Rem. : ¹ Explication de **⟪जहि⟫** voir Thumb-Hauschild I,2 p. 253
 | **3ème personne**:br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | &lt;⟪जुहुताम्⟫&gt; | &lt;⟪जुह्वताम्⟫&gt; |
 
 Rem. : ¹ Dissimilation, de sorte que deux syllabes avec **⟪ह्⟫** ne se suivent pas.
-:::⟪धा⟫ 3U
+:::
+⟪धा⟫ 3U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -166,7 +182,8 @@ Rem. : ¹ Dissimilation, de sorte que deux syllabes avec **⟪ह्⟫** ne se 
 | **3ème personne**:br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
 
 Rem. : ¹ **⟪धेहि⟫** issu de \*dhazdhi : disparition de la sifflante indo-européenne z sous allongement compensatoire ; v. Thumb-Hauschild I,1 p. 302
-:::⟪हा⟫ 3P
+:::
+⟪हा⟫ 3P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -175,7 +192,8 @@ Rem. : ¹ **⟪धेहि⟫** issu de \*dhazdhi : disparition de la sifflante
 | **1ère personne**:br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
 | **2ème personne**:br⟪मध्यमः⟫ | ***⟪जहाहि⟫***:brirrég. fort. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
 | **3ème personne**:br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
-:::## 48.3. Sur la formation nominale : suffixes ⟪तद्धित⟫ -a et -ya
+:::
+## 48.3. Sur la formation nominale : suffixes ⟪तद्धित⟫ -a et -ya
 
 :::grammar-box
 Avec le suffixe **-a** et (plus rarement) **-ya**, un autre nom peut être dérivé d'un nom. La première syllabe du nom original reçoit alors le degré allongé (**⟪वृद्धि⟫**). Si le radical du mot original se termine déjà par **-a**, la **⟪वृद्धि⟫** est le seul signe de la dérivation, car la terminaison du radical ne change pas.
@@ -190,7 +208,8 @@ par exemple :
 *   "appartenant à"
 
 Les mots formés ainsi sont des adjectifs, mais ils peuvent être substantivés, par exemple comme patronymes (formation de noms selon le père : "fils de N.N.") ou abstrats (la plupart des neutres).
-:::Exemples :
+:::
+Exemples :
 
 :::indent
 | Mot de base | Dérivation |
@@ -213,7 +232,8 @@ Les mots formés ainsi sont des adjectifs, mais ils peuvent être substantivés,
 | **autres radicaux de déclinaison :** | voir Wackernagel, Grammaire de l'ancien indien II,2 § 38 |
 
 Avant le suffixe **-ya**, la terminaison du radical est traitée de manière similaire qu'avant le suffixe **-a**.
-:::Voir exemples ci-dessus !
+:::
+Voir exemples ci-dessus !
 
 :::grammar-box
 **Avec ces suffixes, des dérivations peuvent également être formées à partir de composés.**
@@ -227,7 +247,8 @@ par ex. **⟪व्याघ्र⟫** m. "tigre" » **⟪वैयाघ्र
 ![](/images/lekt4801.webp)
 Fig. : ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4801))
-:::## 48.4. Liste de mots
+:::
+## 48.4. Liste de mots
 
 ⟪श्वस्⟫ : demain
 
@@ -249,7 +270,8 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 Fig. : ⟪तन्त्री⟫
 Joueur de sitar = ⟪सितारवादकः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4803))
-:::⟪स्त्री⟫ f. : femme, épouse ; féminin
+:::
+⟪स्त्री⟫ f. : femme, épouse ; féminin
 
 Déclinaison :
 
@@ -269,7 +291,8 @@ Déclinaison :
 Fig. : ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 [Groupe d'entraide (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Source de l'image : [Détails](/fr/licenses#lekt4804))
-:::⟪दिवानिशम्⟫ adverbe : de jour comme de nuit
+:::
+⟪दिवानिशम्⟫ adverbe : de jour comme de nuit
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : suspendre, adhérer
 
@@ -280,14 +303,16 @@ Fig. : ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 Fig. : ⟪कुमारः⟫
 Festival Thaipusam = தைப்பூசம், Batu Caves, Malaisie
 (Source de l'image : [Détails](/fr/licenses#lekt4805))
-:::⟪कुमारी⟫ f. : fille, jeune fille
+:::
+⟪कुमारी⟫ f. : fille, jeune fille
 
 :::media
 ![](/images/lekt4806.webp)
 Fig. : ⟪कुमारी⟫
 ⟪नेपाल⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4806))
-:::⟪कौमर⟫ n. : enfance
+:::
+⟪कौमर⟫ n. : enfance
 
 ⟪यौवन⟫ n. : jeunesse
 
@@ -298,7 +323,8 @@ Fig. : ⟪कुमारी⟫
 Fig. : ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4807))
-:::⟪स्थाविर⟫ n. : (haute) vieillesse
+:::
+⟪स्थाविर⟫ n. : (haute) vieillesse
 
 ⟪वाच्य⟫ 3 : aussi : blâmable
 
@@ -309,7 +335,8 @@ Fig. : ⟪स्थविराः⟫
 Fig. : ⟪सूक्ष्मम्⟫
 Lac Karanji = ಕಾರಂಜಿ ಕೆರೆ
 (Source de l'image : [Détails](/fr/licenses#lekt4808))
-:::⟪प्रसङ्ग⟫ m. : attachement, inclination ; occasion
+:::
+⟪प्रसङ्ग⟫ m. : attachement, inclination ; occasion
 
 ⟪विशेष⟫ m. : différence, particularité
 
@@ -324,7 +351,8 @@ Lac Karanji = ಕಾರಂಜಿ ಕೆರೆ
 Fig. : ⟪मम⟫ ⟪जाया⟫
 (Image: Payer)
 (Source de l'image : [Détails](/fr/licenses#lekt4809))
-:::## 48.5. Exercice
+:::
+## 48.5. Exercice
 
 A) Traduisez les ⟪सुभाषितानि⟫ au début de la leçon.
 
@@ -370,7 +398,8 @@ B) Traduisez en sanskrit (utilisez l'impératif et de préférence les racines d
 ⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥७॥⟫  
 ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫  
 ⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫
-:::Explication :  
+:::
+Explication :  
 ⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gén. (⟪षष्ठी⟫) duel de ⟪द्वे⟫ ⟪कुले⟫ « deux familles »
 
 :::deleteme-box

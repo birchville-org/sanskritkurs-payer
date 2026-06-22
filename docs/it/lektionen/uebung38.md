@@ -59,7 +59,8 @@ Se i re non custodiscono la giustizia e l'usanza, gli uomini sono pieni di timor
 ![](/images/uebung063.webp)
 Fig.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung063))
-:::---
+:::
+---
 
 ## Racconto: Dieci sciocchi (⟪दश⟫ ⟪मूढाः⟫)
 

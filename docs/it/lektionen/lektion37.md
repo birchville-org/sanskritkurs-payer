@@ -48,7 +48,8 @@ L'accusativo può essere usato in senso avverbiale:
     ⟪तद्⟫ "allora, perciò"  
     ⟪यद्⟫ "se, che"  
     ⟪एतद्⟫ "così, qui, ora"
-::::### 37.2.2. Strumentale (⟪तृतीया⟫)
+::::
+### 37.2.2. Strumentale (⟪तृतीया⟫)
 
 ::::grammar-box
 Lo Strumentale (⟪तृतीया⟫) può essere usato in senso avverbiale alle domande:
@@ -68,7 +69,8 @@ Lo Strumentale può essere usato in senso avverbiale:
     Esempi:  
     ⟪दूरेण⟫ "lontano, da lontano" (a ⟪दूर⟫ 3 "lontano, distante da")  
     ⟪उच्चैस्⟫ "alto, forte" (a ⟪उच्च⟫ 3 "alto, elevato, forte, acuto (di voce)")
-::::### 37.2.3. Dativo (⟪चतुर्थी⟫)
+::::
+### 37.2.3. Dativo (⟪चतुर्थी⟫)
 
 ::::grammar-box
 Raramente il dativo (⟪चतुर्थी⟫) è usato in senso avverbiale alle domande:
@@ -79,7 +81,8 @@ Raramente il dativo (⟪चतुर्थी⟫) è usato in senso avverbiale a
 Esempio:
 :::indent
 ⟪अर्थाय⟫ "a scopo di, per il bene di ..."
-:::::::### 37.2.4. Ablativo (⟪पञ्चमी⟫)
+:::::::
+### 37.2.4. Ablativo (⟪पञ्चमी⟫)
 
 ::::grammar-box
 L'ablativo (⟪पञ्चमी⟫) può essere usato in senso avverbiale alle domande:
@@ -101,13 +104,15 @@ L'ablativo può essere usato in senso avverbiale:
     Esempi:  
     ⟪कस्मात्⟫ "perché"  
     ⟪अकस्मात्⟫ "inaspettatamente"
-::::### 37.2.5. Genitivo (⟪षष्ठी⟫)
+::::
+### 37.2.5. Genitivo (⟪षष्ठी⟫)
 
 ::::grammar-box
 Raramente il genitivo (⟪षष्ठी⟫) è usato in senso avverbiale per la domanda "dopo quanto tempo?"
 
 ad es. ⟪चिरस्य⟫ "dopo molto tempo" (riferito a ⟪चिर⟫ 3 "lungo (tempo)")
-::::### 37.2.6. Locativo (⟪सप्तमी⟫)
+::::
+### 37.2.6. Locativo (⟪सप्तमी⟫)
 
 ::::grammar-box
 Il locativo (⟪सप्तमी⟫) può essere usato in senso avverbiale alle domande:
@@ -121,7 +126,8 @@ Esempi:
 \-⟪अर्थे⟫ "a causa di"  
 \-⟪कृते⟫ "per il bene di"  
 ⟪दूरे⟫ "lontano"
-:::::::## 37.3. Uso avverbiale di forme di caso non più d'uso comune
+:::::::
+## 37.3. Uso avverbiale di forme di caso non più d'uso comune
 
 Esempi:
 :::indent
@@ -130,7 +136,8 @@ Esempi:
 ⟪तूष्णीम्⟫ "in silenzio" (acc.sg. a un ⟪तूष्णी⟫ f. "silenzio" non più d'uso comune)
 
 ⟪एवम्⟫ "così" (a una radice pronominali altrimenti perduta ⟪एव⟫ "uno, unico")
-:::## 37.4. Formazione di avverbi con suffissi avverbiali
+:::
+## 37.4. Formazione di avverbi con suffissi avverbiali
 
 ::::grammar-box
 Dalle radici pronominali ⟪तद्⟫, ⟪इदम्⟫ rispettivamente ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ rispettivamente ⟪कु⟫ si possono derivare, mediante i suffissi avverbiali
@@ -169,7 +176,8 @@ Fig.: ⟪क्व⟫
 | **-⟪तस्⟫** | a sostantivi e pronomi. Solitamente significato ablativo "da dove?", ma anche "dove?", "dove?":brad es. **⟪आदितस्⟫** "fin dall'inizio" |
 | **-⟪धा⟫** | 1. Negli avverbi numerali nel significato "-volte", "-volte":brad es. **⟪द्विधा⟫** "doppio":br2. nel significato "in tale e tale modo":brad es. **⟪समधा⟫** "allo stesso modo" (a **⟪सम⟫** 3 "uguale") |
 
-::::## 37.5. Composti avverbiali
+::::
+## 37.5. Composti avverbiali
 
 ### 37.5.1. Composti con un avverbio o un caso usato in senso avverbiale come secondo membro
 
@@ -195,14 +203,16 @@ Esempi:
 ⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "con le proprie forze"
 
 ⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "in avanti, di fronte"
-:::Particolarmente importanti sono ⟪अव्ययीभाव⟫ con ⟪यथा⟫ "come" come primo elemento:
+:::
+Particolarmente importanti sono ⟪अव्ययीभाव⟫ con ⟪यथा⟫ "come" come primo elemento:
 
 ad esempio ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "come è il desiderio, a piacere, arbitrariamente"
 :::::::media
 ![lekt3702.jpg](/images/lekt3702.webp)
 Fig.: ⟪यथाशक्ति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3702))
-:::## 37.6. Sintattico
+:::
+## 37.6. Sintattico
 
 ::::grammar-box
 Per i verbi
@@ -218,7 +228,8 @@ ad es. ⟪तूष्णीं⟫ ⟪बभूव⟫ "divenne silenzioso, tacqu
 ![lekt3703.jpg](/images/lekt3703.webp)
 Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3703))
-:::## 37.7. Pronomi indefiniti
+:::
+## 37.7. Pronomi indefiniti
 
 ::::grammar-box
 I pronomi indefiniti (pronomi indefiniti) si formano aggiungendo
@@ -233,7 +244,8 @@ ad esempio:
 :::indent
 ⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "uno qualsiasi, qualcuno"  
 ⟪कस्यचिद्⟫ = di qualcuno
-:::::::## 37.8. La frase interrogativa
+:::::::
+## 37.8. La frase interrogativa
 
 ::::grammar-box
 "Chi?, come?, cosa, perché? perché? perché?  
@@ -245,7 +257,8 @@ Chi non chiede resta ignorante."
 ⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
 
 Motto della Sesamstraße, che è una buona linea guida per la vita e per lo studio del sanscrito
-::::Vedi anche [Lezione 4](lektion04.md).
+::::
+Vedi anche [Lezione 4](lektion04.md).
 
 Bisogna distinguere
 
@@ -271,7 +284,8 @@ Nelle domande di frase si chiede l'intero contenuto della frase, ad esempio
 Schema:
 
 Pronome interrogativo/Avverbio interrogativo - Frase
-::::Esempi:
+::::
+Esempi:
 :::indent
 ⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Chi va al villaggio?"
 
@@ -282,7 +296,8 @@ Pronome interrogativo/Avverbio interrogativo - Frase
 ![lekt3704.jpg](/images/lekt3704.webp)
 Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3704))
-:::### 37.8.2. Domande dirette
+:::
+### 37.8.2. Domande dirette
 
 ::::grammar-box
 A volte è evidente solo dal contesto se una frase è una domanda.
@@ -290,7 +305,8 @@ A volte è evidente solo dal contesto se una frase è una domanda.
 Schema I:
 
 Verbo - resto della frase
-::::Esempio:
+::::
+Esempio:
 :::indent
 ⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Il giovane brahmano diventerà un maestro?"
 :::::::grammar-box
@@ -308,17 +324,20 @@ Le particelle interrogative più importanti sono:
     
 
 Queste particelle corrispondono al punto interrogativo.
-::::Esempio:
+::::
+Esempio:
 :::indent
 ⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "È anche vero?"
 
 ⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Può davvero?"
 
 ⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Forse il kṣatriya ha sconfitto i nemici?"
-:::Nota: ⟪किम्⟫ può significare, oltre a "cosa?", anche "perché?, a che scopo?" come particella interrogativa. Specialmente con l'ablativo (⟪तृतीया⟫):
+:::
+Nota: ⟪किम्⟫ può significare, oltre a "cosa?", anche "perché?, a che scopo?" come particella interrogativa. Specialmente con l'ablativo (⟪तृतीया⟫):
 :::indent
 ⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "A che serve la rabbia? A che serve la rabbia? Che cosa dovrebbe fare la rabbia?"
-:::## 37.9. Elenco di parole
+:::
+## 37.9. Elenco di parole
 
 ⟪मूर्ख⟫ 3: ottuso, stupido, sciocco m. Stupido
 
@@ -330,7 +349,8 @@ Queste particelle corrispondono al punto interrogativo.
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Fig.: ⟪शाक्यमुनिः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3705))
-:::⟪दिन⟫ n.: Giorno
+:::
+⟪दिन⟫ n.: Giorno
 
 ⟪वृक्ष⟫ m.: Albero
 
@@ -338,7 +358,8 @@ Fig.: ⟪शाक्यमुनिः⟫
 ![lekt3706.jpg](/images/lekt3706.webp)
 Fig.: ⟪वृक्षः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3706))
-:::⟪मुख⟫ n.: Bocca, volto, parte anteriore, inizio
+:::
+⟪मुख⟫ n.: Bocca, volto, parte anteriore, inizio
 
 ## 37.10. Esercizio
 
@@ -374,13 +395,15 @@ Esempio: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » �
 ![lekt3707.jpg](/images/lekt3707.webp)
 Fig.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3707))
-:::⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
+:::
+⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 :::media
 ![lekt3708.jpg](/images/lekt3708.webp)
 Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3708))
-:::⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
+:::
+⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
 ⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫)
 
@@ -409,7 +432,8 @@ C) Tradurre le seguenti ⟪अव्ययीभाव⟫ :
 :::indent
 1.  ⟪अतिमात्रम्⟫
 2.  ⟪अतिवसन्तम्⟫
-:::2\. ⟪अधि⟫ "in"
+:::
+2\. ⟪अधि⟫ "in"
 
 :::indent
 1.  ⟪अधिहरि⟫
@@ -418,23 +442,27 @@ C) Tradurre le seguenti ⟪अव्ययीभाव⟫ :
 ![lekt3709.jpg](/images/lekt3709.webp)
 Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3709))
-:::3\. ⟪अनु⟫ "secondo, lungo, dopo"
+:::
+3\. ⟪अनु⟫ "secondo, lungo, dopo"
 
 :::indent
 1.  ⟪अनुरूपम्⟫
 2.  ⟪अनुदिनम्⟫
 3.  ⟪अनुगङ्गम्⟫
 4.  ⟪अनुविष्णुम्⟫
-:::4\. ⟪अप⟫ "senza"
+:::
+4\. ⟪अप⟫ "senza"
 
 :::indent
 1.  ⟪अपविष्णुम्⟫
-:::5\. ⟪अभि⟫ "in direzione di"
+:::
+5\. ⟪अभि⟫ "in direzione di"
 
 :::indent
 1.  ⟪अभिमुखम्⟫
 2.  ⟪अभ्यग्नि⟫
-:::6\. ⟪आ⟫ "da, fino, compreso"
+:::
+6\. ⟪आ⟫ "da, fino, compreso"
 
 :::indent
 1.  ⟪आबालवृद्धम्⟫
@@ -443,7 +471,8 @@ Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 ![lekt3710.jpg](/images/lekt3710.webp)
 Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3710))
-:::7\. ⟪उप⟫ "vicino"
+:::
+7\. ⟪उप⟫ "vicino"
 
 :::indent
 1.  ⟪उपवृक्षम्⟫
@@ -451,11 +480,13 @@ Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 ![lekt3711.jpg](/images/lekt3711.webp)
 Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3711))
-:::8\. ⟪यथा⟫
+:::
+8\. ⟪यथा⟫
 
 :::indent
 1.  ⟪यथास्थानम्⟫
-:::## 37.11. Esercizio di ripasso
+:::
+## 37.11. Esercizio di ripasso
 
 Tradurre in sanscrito usando esclusivamente forme verbali del perfetto:
 

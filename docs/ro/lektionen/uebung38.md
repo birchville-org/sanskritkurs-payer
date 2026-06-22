@@ -59,7 +59,8 @@ Dacă regii nu păstrează dreptatea și uzanțele, oamenii sunt plini de frică
 ![](/images/uebung063.webp)
 Fig.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung063))
-:::---
+:::
+---
 
 ## Narațiune: Zece Idioți (⟪दश⟫ ⟪मूढाः⟫)
 

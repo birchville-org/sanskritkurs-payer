@@ -1,0 +1,34 @@
+---
+layout: doc
+title: Impressum & Citatio
+---
+
+# Impressum, Copyright & Citatio
+
+*Textus sequens in conversione e libris lectionum excisus est, ut fluxus lectionis melior fieret.*
+
+## Citatio | cite as:
+**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- Versio anni 2010. -- URL: http://www.payer.de/sanskritkurs/
+
+## Occasio
+Constitutus pro consiliis docendi 1980 - 1984
+
+## Copyright
+Hic textus ad rem publicam pertinet. 
+Utilizatio in publicationibus, quae citata ordinaria excedit, requirit expressam licentiam auctoris.
+
+Hic textus pars est sectionis Sanskrit **Bibliothecae Globalis Tüpfli's Global Village**.
+
+---
+
+## Licentia huius publicationis
+
+**Textus originalis** (lectiones Germanicae): © Alois Payer. Textus ad rem publicam pertinet; utilizatio in publicationibus requirit expressam licentiam auctoris.
+
+**Translationes ab AI generatae** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) et **pipeline technica** (scripta, inspector QA, configuratio VitePress):
+
+- Translationes: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Nominatio, sub eadem licentia divulgatio
+- Code/Pipeline: [MIT License](https://opensource.org/licenses/MIT)
+
+**Citatio pro translationibus:**
+> Payer, Alois: Sanskritkurs. Versio cum auxilio AI. Marco Demarmels (ed.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0

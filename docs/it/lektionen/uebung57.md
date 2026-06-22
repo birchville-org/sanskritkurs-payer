@@ -44,7 +44,8 @@ Traduci e determina le seguenti forme e forma le corrispondenti forme dell’**A
 ![](/images/uebung090.webp)
 Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Fonte immagine: [Dettagli](/it/licenses#uebung090))
-:::---
+:::
+---
 
 ## B) Determinazioni delle parole
 

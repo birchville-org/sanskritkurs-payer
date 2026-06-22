@@ -52,7 +52,8 @@ B) Formulate questions for the following reading exercise according to the patte
 ![](/images/lekt0401.webp)
 Fig.: ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫ ⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0401))
-:::eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
+:::
+eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
 
 ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫
 

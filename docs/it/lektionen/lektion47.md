@@ -30,7 +30,8 @@ Con l'imperativo si esprime anche:
 *   **permesso**
 *   **che un'azione è il momento giusto** (è espresso anche dal gerundivo (⟪कृत्य⟫))
 *   **augurio di benedizione**
-:::Esempi:
+:::
+Esempi:
 
 :::indent
 ⟪एहि⟫ ⟪।⟫ "Vieni!"
@@ -48,17 +49,20 @@ Con l'imperativo si esprime anche:
 ⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ "Che tu viva a lungo!"
 ::::::grammar-box
 Gli ordini cortesi sono spesso espressi con l'imperativo passivo.
-:::Esempi:
+:::
+Esempi:
 
 :::indent
 ⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "Entri **per favore**!"
 
 ⟪निषद्यताम्⟫ ⟪।⟫ "Per favore, si sieda!"
-:::Nell'imperativo del sanscrito classico, le forme della prima persona sono antiche forme del congiuntivo. Il congiuntivo vedico è principalmente il modo che esprime un desiderio: "Vogliamo andare!" "Andiamo!"
+:::
+Nell'imperativo del sanscrito classico, le forme della prima persona sono antiche forme del congiuntivo. Il congiuntivo vedico è principalmente il modo che esprime un desiderio: "Vogliamo andare!" "Andiamo!"
 
 :::grammar-box
 L'imperativo si forma dalla radice del presente.
-:::## 47.2. Formazione dell'imperativo (⟪लोट्⟫) delle radici di presente tematico
+:::
+## 47.2. Formazione dell'imperativo (⟪लोट्⟫) delle radici di presente tematico
 
 ### 47.2.1. Desinenze dell'imperativo alle radici di presente tematico
 
@@ -69,13 +73,15 @@ L'imperativo si forma dalla radice del presente.
 | **1. Persona**:br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
 | **2. Persona**:br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
 | **3. Persona**:br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
-:::Nota: ¹ Le desinenze della 2. e 3.sg. possono essere sostituite da -tāt, quando si vuole esprimere un augurio:
+:::
+Nota: ¹ Le desinenze della 2. e 3.sg. possono essere sostituite da -tāt, quando si vuole esprimere un augurio:
 
 :::indent
 ⟪भद्रो⟫ ⟪भवतात्⟫ "Sii felice!" "Che sia felice!"
 
 ⟪शुभं⟫ ⟪भवतु⟫ oppure ⟪शुभं⟫ ⟪भवतात्⟫ "Che sia bene!" "Tutto il bene!"
-:::### 47.2.2. Prima classe del presente (⟪भ्वादि⟫)
+:::
+### 47.2.2. Prima classe del presente (⟪भ्वादि⟫)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -84,7 +90,8 @@ L'imperativo si forma dalla radice del presente.
 | **1ª persona**:br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | &lt;⟪भवै⟫&gt; | &lt;⟪भवामहै⟫&gt; |
 | **2ª persona**:br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | &lt;⟪भवस्व⟫&gt; | &lt;⟪भवध्वम्⟫&gt; |
 | **3ª persona**:br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | &lt;⟪भ्वताम्⟫&gt; | &lt;⟪भवन्ताम्⟫&gt; |
-:::### 47.2.3. Sesta classe del presente (⟪तुदादि⟫)
+:::
+### 47.2.3. Sesta classe del presente (⟪तुदादि⟫)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -98,7 +105,8 @@ L'imperativo si forma dalla radice del presente.
 Fig.: ⟪प्रविशत⟫
 Tempio di Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4702))
-:::### 47.2.4. Quarta classe del presente (⟪दिवादि⟫)
+:::
+### 47.2.4. Quarta classe del presente (⟪दिवादि⟫)
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -111,7 +119,8 @@ Tempio di Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫,
 ![](/images/lekt4701.webp)
 Fig.: ⟪नृत्यत⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4701))
-:::### 47.2.5. Decima classe del presente (⟪चुरादि⟫) e causativi
+:::
+### 47.2.5. Decima classe del presente (⟪चुरादि⟫) e causativi
 
 ⟪चुर्⟫ 10U
 
@@ -122,7 +131,8 @@ Fig.: ⟪नृत्यत⟫
 | **1. Persona**:br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
 | **2. Persona**:br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
 | **3. Persona**:br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
-:::### 47.2.6. Passivo
+:::
+### 47.2.6. Passivo
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -133,7 +143,8 @@ Fig.: ⟪नृत्यत⟫
 | **1. Persona**:br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
 | **2. Persona**:br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
 | **3. Persona**:br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
-:::## 47.3. Esercizio
+:::
+## 47.3. Esercizio
 
 A) Tradurre:
 
@@ -147,7 +158,8 @@ A) Tradurre:
 ![](/images/lekt4703.webp)
 Fig.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4703))
-:::⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
+:::
+⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
 
 ⟪प्रसीदत्वार्यः⟫ ⟪॥५॥⟫
 
@@ -157,7 +169,8 @@ Fig.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्�
 ![](/images/lekt4704.webp)
 Fig.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4704))
-:::⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
+:::
+⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
 
 ⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥८॥⟫
 

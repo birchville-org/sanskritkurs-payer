@@ -23,7 +23,8 @@ status: stable
 **Forma Ātmanepada este rară; pentru rădăcinile Ubhayapada, aceasta se formează de obicei conform altor clase de aorist (vezi Kielhorn, Gramatică §340, precum și mai jos la clasele corespunzătoare de aorist).**
 
 **Lista rădăcinilor care au acest aorist se găsește la Kielhorn, Gramatică §340.**
-:::Exemplu:
+:::
+Exemplu:
 
 ⟪सिच्⟫ 6U "a stropi"
 
@@ -34,7 +35,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪असिचम्⟫ | ⟪असिचाम⟫ | ⟪असिचे⟫ | ⟪असिचामहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
-:::Formări neregulate:
+:::
+Formări neregulate:
 
 :::indent
 ⟪अस्⟫ 4P "a arunca": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Explicație vezi Thumb-Hauschild §541,4)
@@ -42,11 +44,13 @@ status: stable
 ⟪ख्या⟫ + ⟪आ⟫ 2P "a povesti": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
 
 ⟪दृश्⟫ "a vedea": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (Gradul ridicat!)
-:::Observați:
+:::
+Observați:
 
 :::indent
 ⟪शास्⟫ 2P "a porunci": ⟪अशिषत्⟫ (gradul redus regulat!)
-:::## 55.2. Exercițiu
+:::
+## 55.2. Exercițiu
 
 Determinați și traduceți scris următoarele forme și formați formele corespunzătoare ale aoristului a:
 

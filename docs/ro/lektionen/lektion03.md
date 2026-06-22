@@ -16,7 +16,8 @@ status: stable
 - formarea femininului din masculin
 - sandhi vocalic
 - Satzsandhi von -ās
-:::## 3.1. Nominativ singular al femininului
+:::
+## 3.1. Nominativ singular al femininului
 
 ### 3.1.1. Nominativul singular terminat în -s
 
@@ -25,16 +26,19 @@ De asemenea, următoarele teme nominal care se termină cu o vocală, formează 
 :::grammar-box
 - **Feminina pe -i**: ex. **śruti** f. "ascultarea" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Feminina pe -u**: ex. **dhenu** f. "vacă de lapte" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
-:::### 3.1.2. Nominativ Singular fără sufix
+:::
+### 3.1.2. Nominativ Singular fără sufix
 
 Nominativul singular se formează fără sufix:
 
 :::grammar-box
 - **Feminine în -ā**: ex. **devatā** f. "zeitate" -- Nom. sg.: **devatā** = ⟪देवता⟫
 - **Feminine în -ī**: ex. **devī** f. "zeiță" -- Nom. sg.: **devī** = ⟪देवी⟫
-::::::important
+::::::
+important
 **Atenție!** Există, de asemenea, substantive de rădăcină feminine monosilabice în -ī, ale căror nominativ singular se termină în -s: ex. dhī f. "gând" -- Nom. sg.: dhīs = ⟪धीस्⟫. De asemenea, lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "barcă" și tantrī (⟪तन्त्री⟫) f. "coardă" formează irregulat nominativul singular în -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
-:::---
+:::
+---
 
 ## 3.2. Formarea femininelor la masculine
 
@@ -46,7 +50,8 @@ Nominativul singular se formează fără sufix:
 **Masculine în -u:**
 - **Feminin în -ī**: ex. **sādhu** m. » **sādhvī** f. (bun, sfânt) = ⟪साध्वी⟫
   (**-u-** devine **-v-** înainte de vocală, prin urmare **-u- + -ī** » **-vī**)
-:::---
+:::
+---
 
 ## 3.3. Nominativ plural masculin și feminin
 
@@ -59,7 +64,8 @@ Sufixul nominativului plural la masculin și feminin este **-as**.
 - **Feminine în -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
 - **Masculine în -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
 - **Feminine în -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
-:::Notă: **e** este gradul ridicat (**guṇa**) al lui **i**, **o** este gradul ridicat al lui **u**.
+:::
+Notă: **e** este gradul ridicat (**guṇa**) al lui **i**, **o** este gradul ridicat al lui **u**.
 
 ---
 
@@ -71,7 +77,8 @@ Sufixul nominativului plural la masculin și feminin este **-as**.
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
-:::de ex.
+:::
+de ex.
 
 devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇā este o zeitate” = ⟪देवतान्नपूर्णा⟫
 
@@ -91,7 +98,8 @@ Fig.: Indra și Indrāṇī pe elefantul Airavata, miniatură, Rājasthān, 1670
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
 (!! Există excepții pentru această regulă, în special pentru formele de dual !!)
-:::de ex.
+:::
+de ex.
 
 devī + umā » devy umā „Umā este o / zeița” = ⟪देव्युमा⟫
 
@@ -103,12 +111,14 @@ devī + umā » devy umā „Umā este o / zeița” = ⟪देव्युम�
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
-:::Pentru acest tip de sandhi se aplică următorul model:
+:::
+Pentru acest tip de sandhi se aplică următorul model:
 
 :::media
 ![](/images/lekt0302.jpg)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0302))
-:::Referitor la această așa-numită inflexiune a temei, vezi mai târziu!
+:::
+Referitor la această așa-numită inflexiune a temei, vezi mai târziu!
 
 de ex.
 
@@ -120,7 +130,8 @@ de ex.
 
 :::grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
-:::de exemplu
+:::
+de exemplu
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaișyș sunt de două ori născuți" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -173,7 +184,8 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaișyș sunt de două ori născuț
 ![](/images/lekt0303.webp)
 Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 (Sursa imaginii: [Detalii](/images/lekt0303))
-:::**sādhvī** f. = ⟪साध्वी⟫ : fem. pentru sādhu.
+:::
+**sādhvī** f. = ⟪साध्वी⟫ : fem. pentru sādhu.
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. pentru guru.
 

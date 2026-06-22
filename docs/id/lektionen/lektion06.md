@@ -20,7 +20,8 @@ status: stable
 - Pembentukan akar präsens (Kelas 1, 4, dan 6)
 - Perubahan bunyi (Ablaut: Guṇa dan Vṛddhi)
 
-:::## 6.1. Kalimat Verba
+:::
+## 6.1. Kalimat Verba
 
 
 
@@ -31,7 +32,8 @@ status: stable
 **Schema II: Agen (kartṛ m. = ⟪कर्तृ⟫) – Bentuk Verbal**
 - mis. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma melakukan pemujaan dengan korban", "Rāma berkorban"
 
-:::Apakah agen (**kartṛ** m. = ⟪कर्तृ⟫) disebutkan dalam kalimat verbal yang tidak berbentuk pasif, maka agen berada dalam **Nominatif** (kasus pertama, prathamā = ⟪प्रथमा⟫). Dalam numerus (jumlah, vacana n. = ⟪वचन⟫), agen dan bentuk verbal harus sesuai.
+:::
+Apakah agen (**kartṛ** m. = ⟪कर्तृ⟫) disebutkan dalam kalimat verbal yang tidak berbentuk pasif, maka agen berada dalam **Nominatif** (kasus pertama, prathamā = ⟪प्रथमा⟫). Dalam numerus (jumlah, vacana n. = ⟪वचन⟫), agen dan bentuk verbal harus sesuai.
 
 ---
 
@@ -77,7 +79,8 @@ Kata kerja masa kini adalah tenses untuk masa kini, khususnya juga untuk masa be
 :::grammar-box
 **Indikatif (kalimat pernyataan) pada waktu sekarang dibentuk dengan menambahkan akhiran primer yang disebut pada akar waktu sekarang.**
 
-:::Contoh:
+:::
+Contoh:
 
 
 
@@ -107,7 +110,8 @@ Kata kerja masa kini adalah tenses untuk masa kini, khususnya juga untuk masa be
 
 | **Ātmanepada n.**:br⟪आत्मनेपद⟫ | **-te**:br-⟪ते⟫ | **-nte**:br-⟪न्ते⟫ |
 
-:::Contoh **yaj** = ⟪यज्⟫ = "memuliakan dengan sebuah persembahan", "berkorban":
+:::
+Contoh **yaj** = ⟪यज्⟫ = "memuliakan dengan sebuah persembahan", "berkorban":
 - Pokok kata sekarang: **yaja** = ⟪यज⟫
 - 3. sg. P. **yajati** = ⟪यजति⟫
 - 3. pl. P. **yajanti** = ⟪यजन्ति⟫
@@ -135,7 +139,8 @@ Kata kerja masa kini adalah tenses untuk masa kini, khususnya juga untuk masa be
 
 | **sṛj**:br⟪सृज्⟫ | **sṛja-**:br⟪सृज⟫- |
 
-:::### 6.5.2. Kata kerja Kelas Präsens 1 (bhādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū dll.")
+:::
+### 6.5.2. Kata kerja Kelas Präsens 1 (bhādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū dll.")
 
 
 
@@ -159,7 +164,8 @@ Kata kerja masa kini adalah tenses untuk masa kini, khususnya juga untuk masa be
 
 | **nind**:br⟪निन्द्⟫ | **nind**:br⟪निन्द्⟫ | **nind**:br⟪निन्द्⟫ | **ninda-**:br⟪निन्द⟫- |
 
-:::#### 6.5.2.1. Wortsandhi von e und o
+:::
+#### 6.5.2.1. Wortsandhi von e und o
 Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan **av**.
 
 #### 6.5.2.2. Tingkatan Bunyi (Ablaut)
@@ -182,7 +188,8 @@ Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan *
 
 | **ḷ** | **al** | **āl** |
 
-:::### 6.5.3. Kata kerja Kelas Präsens ke-4 (divādi = ⟪दिवादि⟫ = "div dll.")
+:::
+### 6.5.3. Kata kerja Kelas Präsens ke-4 (divādi = ⟪दिवादि⟫ = "div dll.")
 
 
 
@@ -203,14 +210,16 @@ Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan *
 
 | **man**:br⟪मन्⟫ | **manya-**:br⟪मन्य⟫- |
 
-:::### 6.5.4. Vokal Tema, Kelas Present Tematik
+:::
+### 6.5.4. Vokal Tema, Kelas Present Tematik
 
 
 
 :::grammar-box
 **a** pada akhiran pembentukan akar kelas-kelas kala sekarang disebut **vokal tema**. Kelas-kelas kala sekarang dengan **a** pada akhiran pembentukan akar oleh karena itu disebut "kelas kala sekarang tematik".
 
-:::---
+:::
+---
 
 ## 6.6. Sanskerta Lisan: Pertanyaan Lainnya (praśna m. = ⟪प्रश्न⟫)
 
@@ -223,7 +232,8 @@ Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan *
 - **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Apakah Anda baik-baik saja?, Bagaimana kabar Anda?"
 - Jawaban: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Saya baik-baik saja) dalam segala hal."
 
-:::---
+:::
+---
 
 ## 6.7. Daftar Kata
 
@@ -237,7 +247,8 @@ Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **Bentuk Akar**. Angka sete
 - **U:** Ubhayapada ("kedua bentuk kata"): Akar digunakan dalam Parasmaipada dan Ātmanepada.
 - **():** Dalam kurung adalah orang ketiga tunggal Present Indikatif (laṭ).
 
-:::**Pelajari kata-kata berikut:**
+:::
+**Pelajari kata-kata berikut:**
 - **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : menyembah dengan persembahan, mengorbankan
 - **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : menjadi, muncul, ada
 - **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : menghadirkan kembali, mengingat
@@ -288,7 +299,8 @@ Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **Bentuk Akar**. Angka sete
 Śiva Naṭarāja (⟪नटराज⟫), Kuil Hindu Kadavul, Kauai, Hawaii
 (Sumber gambar: Wikipedia, CC-BY-SA 2.5)
 
-:::---
+:::
+---
 
 ## 6.9. Latihan Ulang
 
@@ -368,7 +380,8 @@ Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **Bentuk Akar**. Angka sete
 **Mīnākṣī** (⟪मीनाक्षी⟫), Kuil Mīnākṣī, Madurai, Tamil Nadu
 (Sumber gambar: Wikipedia, Domain publik)
 
-:::4. Mereka bingung.
+:::
+4. Mereka bingung.
 5. Rāma adalah seorang pria suci.
 6. Siapakah TUHAN itu?
 7. Indra adalah TUHAN.

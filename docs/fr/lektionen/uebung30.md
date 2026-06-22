@@ -78,7 +78,8 @@ A) Transformez les formes verbales suivantes en formes optatives correspondant �
 | ⟪६३⟫. **⟪अर्हति⟫** | ⟪अर्हेत्⟫ |
 | ⟪६४⟫. **⟪अदन्ति⟫** | ⟪अद्युः⟫ |
 | ⟪६५⟫. **⟪अध्यापयन्ति⟫** | ⟪अध्यापयेयुः⟫ |
-:::B) Traduisez les phrases suivantes et résolvez les composés en sanskrit :
+:::
+B) Traduisez les phrases suivantes et résolvez les composés en sanskrit :
 
 ⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
 (⟪आर्याणि⟫ ⟪सत्यानि⟫)
@@ -119,7 +120,8 @@ On doit dire des vérités agréables, on ne doit pas dire des vérités désagr
 ![](/images/uebung048.webp)
 Fig. : ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Source de l’image : [Détails](/fr/licenses#uebung048))
-:::---
+:::
+---
 
 ## Détermination de la forme du mot
 

@@ -16,7 +16,8 @@ status: stable
 *   **das Perfekt (⟪लिट्⟫) bezeichnet wie das Imperfekt die entfernte Vergangenheit, wird aber, im Gegensatz zum Imperfekt, nur von Ereignissen gebraucht, die der Sprechende selbst nicht gesehen hat**
 
 **In der klassischen Sanskritliteratur werden die drei Vergangenheitstempora ohne Bedeutungsunterschied gebraucht (Ausnahme: ⟪भारवि⟫'s Kunstgedicht ⟪किरातार्जुनीय⟫).**
-:::## 32.2. Das Imperfekt (⟪लङ्⟫)
+:::
+## 32.2. Das Imperfekt (⟪लङ्⟫)
 
 :::grammar-box
 **Bildung:**
@@ -26,7 +27,8 @@ status: stable
 **Die drei Personen des Singular Parasmaipada Imperfekt werden bei athematischen Stämmen vom starken Präsensstamm gebildet, alle übrigen Formen vom schwachen Präsensstamm.**
 
 **Das Imperfekt hat nur den Indikativ.**
-:::Beispiele:
+:::
+Beispiele:
 
 :::indent
 **⟪भू⟫** 3. sg. Impf. P. **⟪अभवत्⟫** (a-bhava-t)
@@ -34,11 +36,13 @@ status: stable
 **⟪सु⟫**
 *   3. sg. Impf. P. **⟪असुनोत्⟫** (a-suno-t)
 *   3. pl. Impf. P. **⟪असुन्वन्⟫** (a + sunu + an)
-:::## 32.3. Regeln für das Augment
+:::
+## 32.3. Regeln für das Augment
 
 :::grammar-box
 **1. Tritt das Augment a- vor eine vokalisch anlautende Wurzel, so verschmelzen das Augment und der Wurzelanlaut zur ⟪वृद्धि⟫ des Wurzelvokals.**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 
@@ -50,7 +54,8 @@ status: stable
 
 ::::::grammar-box
 **2. Stehen Präverben vor einer Wurzel, so tritt das Augment a- hinter die Präverben unmittelbar vor die Wurzel.**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 
@@ -61,11 +66,14 @@ status: stable
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
-:::## 32.4. Beispiele für die Imperfektbildung
+:::
+## 32.4. Beispiele für die Imperfektbildung
 
-:::important
+:::
+important
 **Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen &lt; &gt;.**
-:::### 32.4.1. Thematische Präsensklassen
+:::
+### 32.4.1. Thematische Präsensklassen
 
 :::grammar-box
 
@@ -77,7 +85,8 @@ status: stable
 | 10. / Kaus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
 | Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
-:::### 32.4.2. Athematische Präsensklassen
+:::
+### 32.4.2. Athematische Präsensklassen
 
 :::grammar-box
 
@@ -97,7 +106,8 @@ status: stable
 | 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t &gt; aruṇaddh &gt; aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
-:::## 32.5. Wortliste
+:::
+## 32.5. Wortliste
 
 **⟪अग्र⟫ n.:** Spitze, äußerstes Ende
 
@@ -114,7 +124,8 @@ status: stable
 ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
 -⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
-:::**⟪पार्श्व⟫**
+:::
+**⟪पार्श्व⟫**
 
 **⟪चूत⟫**
 
@@ -123,7 +134,8 @@ status: stable
 Abb.: ⟪चूतः⟫
 Mangobaum, Kanpur.
 (Bildquelle: [Details](/licenses#lekt3202))
-:::**⟪तरु⟫** **⟪वृक्ष⟫**
+:::
+**⟪तरु⟫** **⟪वृक्ष⟫**
 
 **⟪पचेलिम⟫**
 
@@ -139,7 +151,8 @@ Mangobaum, Kanpur.
 ⟪रूढ⟫:br
 -⟪रुह्य⟫:br
 ⟪रोढुम्⟫
-:::**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+:::
+**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 :::indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
@@ -147,21 +160,24 @@ Mangobaum, Kanpur.
 ⟪गृहीत⟫:br
 -⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
-:::**⟪वानर⟫ ⟪कपि⟫**
+:::
+**⟪वानर⟫ ⟪कपि⟫**
 
 :::media
 ![](/images/lekt3203.webp)
 Abb.: ⟪वानराः⟫
 Affen (rhesus macaques) in Delhi.
 (Bildquelle: [Details](/licenses#lekt3203))
-:::**⟪लोक्⟫ ⟪लोकयति⟫**
+:::
+**⟪लोक्⟫ ⟪लोकयति⟫**
 :::indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
 -⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
-:::**⟪प्रहर्ष⟫**
+:::
+**⟪प्रहर्ष⟫**
 
 **⟪कति⟫**
 
@@ -172,14 +188,16 @@ Affen (rhesus macaques) in Delhi.
 Abb.: ⟪उपलाः⟫
 Stone quarry south of Pune, Maharashtra.
 (Bildquelle: [Details](/licenses#lekt3204))
-:::**⟪लक्ष्य⟫**
+:::
+**⟪लक्ष्य⟫**
 
 :::media
 ![](/images/lekt3205.webp)
 Abb.: ⟪लक्ष्यम्⟫
 Target practice / arrow target, Karnataka.
 (Bildquelle: [Details](/licenses#lekt3205))
-:::**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+:::
+**⟪क्षिप्⟫ ⟪क्षिपति⟫**
 :::indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
@@ -187,7 +205,8 @@ Target practice / arrow target, Karnataka.
 ⟪क्षिप्त⟫:br
 -⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
-:::**⟪चि⟫ ⟪चिनोति⟫**
+:::
+**⟪चि⟫ ⟪चिनोति⟫**
 :::indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
@@ -200,7 +219,8 @@ Target practice / arrow target, Karnataka.
 Abb.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Burning cowdung patties in Rajasthan.
 (Bildquelle: [Details](/licenses#lekt3207))
-:::**⟪चि⟫ ⟪अव⟫**
+:::
+**⟪चि⟫ ⟪अव⟫**
 
 **⟪प्रति⟫**
 
@@ -213,7 +233,8 @@ Burning cowdung patties in Rajasthan.
 Abb.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
 (Bildquelle: [Details](/licenses#lekt3206))
-:::## 32.6. Übung
+:::
+## 32.6. Übung
 
 A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbis entsprechenden Imperfektformen:
 
@@ -310,7 +331,8 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 Abb.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Buddhist monk in Sri Lanka.
 (Bildquelle: [Details](/licenses#lekt3208))
-:::## 32.7. Übung zur Wiederholung über die Weihnachtsferien
+:::
+## 32.7. Übung zur Wiederholung über die Weihnachtsferien
 
 Anmerkung: ursprünglich wurde dieser an der Universität Tübingen jeweils im Wintersemester gehalten. Bei Lektion 32 begannen die zweiwöchigen Weihnachtsferien.
 
@@ -532,7 +554,8 @@ C) Übersetzen Sie ins Sanskrit:
 Abb.: ⟪पुनर्दर्शनाय⟫
 Indian greeting / farewell.
 (Bildquelle: [Details](/licenses#lekt3209))
-:::## 32.8. Übung zur Wiederholung
+:::
+## 32.8. Übung zur Wiederholung
 
 Übersetzen und bestimmen Sie folgende Wortformen:
 
@@ -579,7 +602,8 @@ Indian greeting / farewell.
 
 ## 32.9. Übersetzungsübung
 
-:::compact
+:::
+compact
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
@@ -592,7 +616,8 @@ Indian greeting / farewell.
 ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
 ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫**⟪दाय⟫** ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
-:::(aus: ⟪संस्कृतबालादर्श⟫)
+:::
+(aus: ⟪संस्कृतबालादर्श⟫)
 
 
 Erklärungen:

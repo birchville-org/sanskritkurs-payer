@@ -29,7 +29,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
-:::⟪भाष्⟫ 1Ā "a vorbi"
+:::
+⟪भाष्⟫ 1Ā "a vorbi"
 
 :::grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -37,7 +38,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
-:::### 60.2.2. Tipul 2: rădăcină puternică la nivel ridicat, rădăcină slabă la nivel scăzut
+:::
+### 60.2.2. Tipul 2: rădăcină puternică la nivel ridicat, rădăcină slabă la nivel scăzut
 
 ⟪भिद्⟫ 7U "a despica"
 
@@ -47,7 +49,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
-:::### 60.2.3. Tipul 3: Stăvân puternic, nivel înalt/nivel alungit
+:::
+### 60.2.3. Tipul 3: Stăvân puternic, nivel înalt/nivel alungit
 
 #### 60.2.3.1. Tipul 3a: Stăvân puternic, nivel înalt/nivel alungit, stăvân slab, nivel jos
 
@@ -59,7 +62,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
-:::⟪स्तु⟫ 2U (⟪अनिट्⟫) „a lăuda”
+:::
+⟪स्तु⟫ 2U (⟪अनिट्⟫) „a lăuda”
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -67,7 +71,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
-:::⟪कृ⟫ 8U (⟪अनिट्⟫) „a face, a face”
+:::
+⟪कृ⟫ 8U (⟪अनिट्⟫) „a face, a face”
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -75,7 +80,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
-:::#### 60.2.3.2. Tipul 3b: Stăvân puternic, nivel înalt/nivel alungit, stăvân slab, nivel înalt
+:::
+#### 60.2.3.2. Tipul 3b: Stăvân puternic, nivel înalt/nivel alungit, stăvân slab, nivel înalt
 
 ⟪स्मृ⟫ 1P „a prezenta, a reprezenta”
 
@@ -85,7 +91,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
-:::### 60.2.4. Tipul 4: Rădăcini în -ā / -ai
+:::
+### 60.2.4. Tipul 4: Rădăcini în -ā / -ai
 
 ⟪दा⟫ 3U "a da"
 
@@ -97,7 +104,8 @@ status: stable
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
 \* identic cu formele corespunzătoare ale Indicativului Prezent!
-:::### 60.2.5. Tipul 5: Consonant-a-Consonant
+:::
+### 60.2.5. Tipul 5: Consonant-a-Consonant
 
 #### 60.2.5.1. Tipul 5a: Consonant-a-Consonant, rădăcină slabă, treapta joasă
 
@@ -109,7 +117,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
-:::#### 60.2.5.2. Tipul 5b: Consonant-a-Consonant, consonantul inițial nu este gutural, aspirat, h, rădăcină slabă fără reduplicare, cu -e-
+:::
+#### 60.2.5.2. Tipul 5b: Consonant-a-Consonant, consonantul inițial nu este gutural, aspirat, h, rădăcină slabă fără reduplicare, cu -e-
 
 ⟪पच्⟫ 1U "a găti"
 
@@ -119,7 +128,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
-:::#### 60.2.5.3. Tipul 5c: Consonant-a-Consonant, rădăcină slabă, treapta înaltă
+:::
+#### 60.2.5.3. Tipul 5c: Consonant-a-Consonant, rădăcină slabă, treapta înaltă
 
 ⟪क्रम्⟫ 1U "a pașna"
 
@@ -129,7 +139,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
-:::## 60.3. Dualul perfectului periphrastic (⟪अनुप्रयोगलिट्⟫)
+:::
+## 60.3. Dualul perfectului periphrastic (⟪अनुप्रयोगलिट्⟫)
 
 ⟪गण्⟫ 10P "număra"
 
@@ -139,7 +150,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ |
-:::⟪आस्⟫ 2Ā "ședea"
+:::
+⟪आस्⟫ 2Ā "ședea"
 
 :::grammar-box
 |   | **⟪आत्मनेपदम्⟫** |
@@ -147,7 +159,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
-:::## 60.4. Participiul ⟪परस्मैपद⟫ al perfectului reduplicat (⟪द्वित्वलिट्⟫)
+:::
+## 60.4. Participiul ⟪परस्मैपद⟫ al perfectului reduplicat (⟪द्वित्वलिट्⟫)
 
 :::grammar-box
 **Formare:**
@@ -155,7 +168,8 @@ status: stable
 **trecut perfect slab + vāṃs**
 
 **Dacă rădăcina de trecut perfect slab constă dintr-o singură silabă, se adaugă vocala de legătură -i-. La unele forme de perfect, vocala de legătură este opțională.**
-:::Exemple:
+:::
+Exemple:
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "cel care a despicat" |
 | --- | --- |
@@ -179,7 +193,8 @@ status: stable
 **trecut slab înaintea vocalei + -ī (declinat ca ⟪देवी⟫)**
 
 Exemplu: ⟪विदुषी⟫ "o înțeleaptă"
-:::Paradigme vezi Kielhorn, Gramatică § 124:
+:::
+Paradigme vezi Kielhorn, Gramatică § 124:
 
 :::media
 ![](/images/lekt6001.webp)
@@ -187,11 +202,13 @@ Exemplu: ⟪विदुषी⟫ "o înțeleaptă"
 ::::::media
 ![](/images/lekt6002.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6002))
-:::## 60.5. Declinarea stemelor în -añc (-ac)
+:::
+## 60.5. Declinarea stemelor în -añc (-ac)
 
 :::grammar-box
 **Stemele în -añc/-ac sunt combinații de preverbe etc. cu substantivul de rădăcină al rădăcinii ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "a se mișca".**
-:::### 60.5.1. Stamuri cu trei silabe în -añc
+:::
+### 60.5.1. Stamuri cu trei silabe în -añc
 
 :::grammar-box
 **Formare:**
@@ -212,7 +229,8 @@ Exemplu: ⟪विदुषी⟫ "o înțeleaptă"
 **formă slabă înaintea vocalei + -ī (declinată ca ⟪देवी⟫)**
 
 Exemplu: ⟪प्रतीची⟫
-:::####  Vezi paradigmă la Kielhorn, Gramatikă § 128:
+:::
+####  Vezi paradigmă la Kielhorn, Gramatikă § 128:
 
 :::media
 ![](/images/lekt6003.webp)
@@ -220,7 +238,8 @@ Exemplu: ⟪प्रतीची⟫
 ::::::media
 ![](/images/lekt6004.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6004))
-:::Aici apar:
+:::
+Aici apar:
 
 *   ⟪प्रत्यञ्च्⟫ 3 "înapoi, spre vest"
     
@@ -243,7 +262,8 @@ Exemplu: ⟪प्रतीची⟫
 
 *   **stăvân puternic: -añc**
 *   **stăvân slab în fața consoanei, respectiv vocală: -ac**
-:::Aici aparțin:
+:::
+Aici aparțin:
 
 *   ⟪प्राञ्च्⟫ 3 "orientat înainte, estic"
 *   ⟪अवाञ्च्⟫ 3 "orientat în jos"
@@ -268,7 +288,8 @@ Direcțiile principale ale cerului
 
 *   **o persoană sau o lucrare dorește să facă sau să sufere ceea ce este exprimat de rădăcină sau de cauzativ**
 *   **mai rar: cineva sau ceva este pe punctul de a face ceea ce este exprimat de rădăcină sau de cauzativ**
-:::####  Exemple:
+:::
+####  Exemple:
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "el dorește să facă" |
 | --- | --- |
@@ -346,12 +367,14 @@ Regulile privind utilizarea vocalei de legătură -i- se găsesc la Kielhorn, Gr
 3.  Formarea specială a desiderativelor pentru anumite rădăcini se găsește la Kielhorn, Gramatik § 451.
 ::::::grammar-box
 **Pentru unele rădăcini se formează desiderative fără sens desiderativ. Pentru aceste desiderative se pot forma desiderative cu sens desiderativ.**
-:::Lista la Kielhorn, Gramatik § 452:
+:::
+Lista la Kielhorn, Gramatik § 452:
 
 :::media
 ![](/images/lekt6006.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6006))
-:::### 60.6.2. Conjugarea desiderativului (⟪सन्⟫)
+:::
+### 60.6.2. Conjugarea desiderativului (⟪सन्⟫)
 
 ::::grammar-box
 **Desiderativul este, cu puține excepții, P, Ā sau U, în funcție de faptul dacă rădăcina de bază (sau, respectiv, tema verbală de bază) este P, Ā sau U.**
@@ -364,19 +387,23 @@ Regulile privind utilizarea vocalei de legătură -i- se găsesc la Kielhorn, Gr
 P: ⟪यियक्षति⟫ "el dorește să sacrifice pentru altcineva"
 Ā: ⟪यियक्षते⟫ "el dorește să sacrifice pentru sine însuși (ca stăpân al ofrandei)"
 Pasiv: ⟪यियक्ष्यते⟫ "se dorește sacrificarea"
-:::**Perfect: perifrastic:**
+:::
+**Perfect: perifrastic:**
 
 :::indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "el dorise să obțină"
-:::**Aorist: iṣ-Aorist:**
+:::
+**Aorist: iṣ-Aorist:**
 
 :::indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
-:::**Viitor: ⟪सेट्⟫**
+:::
+**Viitor: ⟪सेट्⟫**
 
 :::indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
-:::::::Pentru formarea substantivelor de agent pe -u din tema desiderativului, vezi [Lecția 54](lektion54.md).
+:::::::
+Pentru formarea substantivelor de agent pe -u din tema desiderativului, vezi [Lecția 54](lektion54.md).
 
 ## 60.7. Exercițiu
 
@@ -391,7 +418,8 @@ A) Studiați în Kielhorn, Gramatică § 451 formele neregulate de desiderativ p
 ::::::media
 ![](/images/lekt6009.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6009))
-:::B) Determinați și traduceți fără instrumente auxiliare următoarele forme:
+:::
+B) Determinați și traduceți fără instrumente auxiliare următoarele forme:
 
 1.  ⟪ददुषोः⟫
     

@@ -69,7 +69,8 @@ A) Forme la **segunda persona** correspondiente en tiempo, número, modo, etc. d
 ![](/images/uebung070.webp)
 Fig.: ⟪दिशसि⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung070))
-:::---
+:::
+---
 
 ## Traducciones al sánscrito
 
@@ -109,7 +110,8 @@ B) Traducir al sánscrito:
 ![](/images/uebung071.jpg)
 Fig.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung071))
-:::---
+:::
+---
 
 ## Conversación (⟪संवादः⟫)
 

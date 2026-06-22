@@ -76,7 +76,8 @@ B) Introduceți agentul și verbul la plural în propozițiile formate în A)
 ![](/images/uebung025.webp)
 Fig.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung025))
-:::---
+:::
+---
 
 ## Exerciții de forme verbale
 

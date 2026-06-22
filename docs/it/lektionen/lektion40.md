@@ -30,7 +30,8 @@ status: stable
 ![lekt4005.jpg](/images/lekt4005.webp)
 Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4005))
-:::## 40.2. Formazione delle forme verbali della prima persona del Perfetto (⟪लिट्⟫)
+:::
+## 40.2. Formazione delle forme verbali della prima persona del Perfetto (⟪लिट्⟫)
 
 Desinenze della prima persona (⟪तृतीयः⟫) nel Perfetto (⟪लिट्⟫)
 
@@ -64,7 +65,8 @@ Tranne prima della desinenza -re, prima della quale deve sempre comparire -i-, l
 8.  ⟪स्रु⟫ 1P "fluire"
 
 Nelle cosiddette radici ⟪अनिट्⟫ facoltative, la vocale di collegamento può essere inserita facoltativamente oppure no. (Elenco di queste radici in Kielhorn, Grammatik pag. 92 § 298b,2,3)
-:::### 40.2.1. Tipo di perfetto I: nessuna ablazione della radice
+:::
+### 40.2.1. Tipo di perfetto I: nessuna ablazione della radice
 
 1.sg. = 3.sg.
 
@@ -80,22 +82,26 @@ Verbi che seguono questo tipo:
 :::indent
 *   1.sg.P ⟪बबन्ध⟫
 *   1.pl.P ⟪बबन्धिम⟫
-:::⟪जीव्⟫ 1P
+:::
+⟪जीव्⟫ 1P
 
 :::indent
 *   1.sg.P ⟪जिजीव⟫
 *   1.pl.P ⟪जिजिविम⟫
-:::⟪अश्⟫ 5Ā
+:::
+⟪अश्⟫ 5Ā
 
 :::indent
 *   1.sg.Ā ⟪आनशे⟫
 *   1.pl.Ā ⟪आनशिमहे⟫
-:::⟪अस्⟫ 2P e ⟪अस्⟫ 4P
+:::
+⟪अस्⟫ 2P e ⟪अस्⟫ 4P
 
 :::indent
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
-:::### 40.2.2. Tipo di perfetto II: radice forte in grado alto, radice debole in grado basso
+:::
+### 40.2.2. Tipo di perfetto II: radice forte in grado alto, radice debole in grado basso
 
 Verbi che seguono questo tipo:
 
@@ -111,13 +117,15 @@ Verbi che seguono questo tipo:
 *   1.sg.Ā ⟪बिभिदे⟫
     
 *   1.pl.Ā ⟪बिभिदिमहे⟫
-:::⟪मुह्⟫ 4P facoltativo ⟪अनिट्⟫
+:::
+⟪मुह्⟫ 4P facoltativo ⟪अनिट्⟫
 
 :::indent
 *   1.sg.P ⟪मुमोह⟫
     
 *   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
-:::### 40.2.3. Tipo III del Perfetto: Radice forte in grado elevato/lungo
+:::
+### 40.2.3. Tipo III del Perfetto: Radice forte in grado elevato/lungo
 
 1.sg.P grado elevato o grado lungo a scelta
 
@@ -134,7 +142,8 @@ Verbi che seguono questo tipo:
 *   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a)
     
 *   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
-:::⟪नी⟫ 1U
+:::
+⟪नी⟫ 1U
 
 :::indent
 *   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
@@ -144,7 +153,8 @@ Verbi che seguono questo tipo:
 *   1.sg.Ā ⟪निन्ये⟫
     
 *   1.pl.Ā ⟪निन्यिमहे⟫
-:::⟪स्तु⟫ 2U strettamente ⟪अनिट्⟫
+:::
+⟪स्तु⟫ 2U strettamente ⟪अनिट्⟫
 
 :::indent
 *   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
@@ -154,7 +164,8 @@ Verbi che seguono questo tipo:
 *   1.sg.Ā ⟪तुष्टुवे⟫
     
 *   1.pl.Ā ⟪तुष्टुमहे⟫
-:::⟪कृ⟫ 8U strettamente ⟪अनिट्⟫
+:::
+⟪कृ⟫ 8U strettamente ⟪अनिट्⟫
 
 :::indent
 *   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
@@ -164,7 +175,8 @@ Verbi che seguono questo tipo:
 *   1.sg.Ā ⟪चक्रे⟫
     
 *   1.pl.Ā ⟪चकृमहे⟫
-:::#### 40.2.3.2. Tipo IIIb del Perfetto: Radice forte in grado elevato/lungo, radice debole in grado elevato
+:::
+#### 40.2.3.2. Tipo IIIb del Perfetto: Radice forte in grado elevato/lungo, radice debole in grado elevato
 
 Verbi che seguono questo tipo:
 
@@ -177,13 +189,15 @@ Verbi che seguono questo tipo:
 *   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
     
 *   1.pl.P ⟪पपरिम⟫
-:::⟪स्मृ⟫ 1P
+:::
+⟪स्मृ⟫ 1P
 
 :::indent
 *   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
     
 *   1.pl.P ⟪सस्मरिम⟫
-:::⟪संस्कृ⟫ 8U
+:::
+⟪संस्कृ⟫ 8U
 
 :::indent
 *   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
@@ -193,7 +207,8 @@ Verbi che seguono questo tipo:
 *   1.sg.Ā ⟪सञ्चस्करे⟫
     
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
-:::### 40.2.4. Tipo IV del Perfetto: Radici in -ā / -ai
+:::
+### 40.2.4. Tipo IV del Perfetto: Radici in -ā / -ai
 
 *   Radice forte:
     *   1.,3. sg. Parasemaip.: -au
@@ -211,7 +226,8 @@ Verbi che seguono questo tipo:
 *   1.sg.Ā ⟪ददे⟫
     
 *   1.pl.Ā ⟪ददिमहे⟫
-:::### 40.2.5. Tipo V del Perfetto: Consonante-a-Consonante
+:::
+### 40.2.5. Tipo V del Perfetto: Consonante-a-Consonante
 
 1.sg.P. facoltativamente in grado alto o in grado allungato
 
@@ -227,31 +243,36 @@ Verbi che seguono questo tipo:
 5.  vad "parlare"
 6.  yaj "sacrificare"
 7.  ecc.
-:::⟪गम्⟫ 1P
+:::
+⟪गम्⟫ 1P
 
 :::indent
 *   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
     
 *   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
-:::⟪हन्⟫ 2P
+:::
+⟪हन्⟫ 2P
 
 :::indent
 *   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
     
 *   1.pl.P ⟪जघ्निम⟫
-:::⟪जन्⟫ 4Ā
+:::
+⟪जन्⟫ 4Ā
 
 :::indent
 *   1.sg.Ā ⟪जज्ञे⟫
     
 *   1.pl.Ā ⟪जज्ञिमहे⟫
-:::⟪वच्⟫ 2P
+:::
+⟪वच्⟫ 2P
 
 :::indent
 *   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
     
 *   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
-:::⟪वद्⟫ 1P (Ā)
+:::
+⟪वद्⟫ 1P (Ā)
 
 :::indent
 *   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
@@ -261,7 +282,8 @@ Verbi che seguono questo tipo:
 *   1.sg.Ā ⟪ऊदे⟫
     
 *   1.pl.Ā  ⟪ऊदिमहे⟫
-:::⟪यज्⟫ 1U
+:::
+⟪यज्⟫ 1U
 
 :::indent
 *   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
@@ -271,7 +293,8 @@ Verbi che seguono questo tipo:
 *   1.sg.Ā ⟪ईजे⟫
     
 *   1.pl.Ā ⟪ईजिमहे⟫
-:::#### 40.2.5.2. Tipo Vb del Perfetto: Consonante-a-Consonante, iniziale non gutturale, aspirata, h, radice debole senza reduplicazione, con -e-
+:::
+#### 40.2.5.2. Tipo Vb del Perfetto: Consonante-a-Consonante, iniziale non gutturale, aspirata, h, radice debole senza reduplicazione, con -e-
 
 ⟪पच्⟫ 1U
 
@@ -283,7 +306,8 @@ Verbi che seguono questo tipo:
 *   1.sg.Ā ⟪पेचे⟫
     
 *   1.pl.Ā ⟪पेचिमहे⟫
-:::#### 40.2.5.3. Tipo Vc del Perfetto: Consonante-a-Consonante, radice debole in grado alto
+:::
+#### 40.2.5.3. Tipo Vc del Perfetto: Consonante-a-Consonante, radice debole in grado alto
 
 Verbi che seguono questo tipo:
 
@@ -299,7 +323,8 @@ Verbi che seguono questo tipo:
 *   1.sg.Ā ⟪चक्रमे⟫
     
 *   1.pl.Ā ⟪चक्रमिमहे⟫
-:::### 40.2.6. Formazioni perfette speciali
+:::
+### 40.2.6. Formazioni perfette speciali
 
 ⟪विद्⟫ 2P perfetto presentico:
 
@@ -307,7 +332,8 @@ Verbi che seguono questo tipo:
 *   1.sg.P ⟪वेद⟫ (= 3.sg.P)
     
 *   1.pl.P ⟪विद्म⟫
-:::⟪अह्⟫ 1ª persona non usuale!
+:::
+⟪अह्⟫ 1ª persona non usuale!
 
 ⟪भू⟫ 1P
 
@@ -315,13 +341,15 @@ Verbi che seguono questo tipo:
 *   1.sg.P ⟪बभूव⟫ (= 3.sg.P)
     
 *   1.pl.P ⟪बभूविम⟫
-:::⟪जि⟫ 1P
+:::
+⟪जि⟫ 1P
 
 :::indent
 *   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
     
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
-:::## 40.3. Formazione delle forme verbali della prima persona del perfetto perifrastico (⟪अनुप्रयोगलिट्⟫)
+:::
+## 40.3. Formazione delle forme verbali della prima persona del perfetto perifrastico (⟪अनुप्रयोगलिट्⟫)
 
 Il perfetto perifrastico è formato da:
 
@@ -342,17 +370,20 @@ Il perfetto perifrastico è formato da:
 *   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
     
 *   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
-:::⟪बन्ध्⟫ Causativo P: ⟪बन्धयति⟫
+:::
+⟪बन्ध्⟫ Causativo P: ⟪बन्धयति⟫
 
 :::indent
 *   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
     
 *   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
-:::## 40.4. Sintassi sulla prima persona (⟪तृतीयः⟫)
+:::
+## 40.4. Sintassi sulla prima persona (⟪तृतीयः⟫)
 
 :::grammar-box
 Poiché un verbo finito (verbo coniugato) esprime anche l'Agente (⟪कर्तृ⟫), "io", "noi" nelle frasi verbali non passive con verbo finito non devono essere esplicitati extra da un pronome personale
-:::## 40.5. Pronomi personali (⟪पुरुषार्थकसर्वनाम⟫) della prima persona singolare e plurale
+:::
+## 40.5. Pronomi personali (⟪पुरुषार्थकसर्वनाम⟫) della prima persona singolare e plurale
 
 :::grammar-box
 La forma del pronome personale (pronome personale) è la stessa per tutti i generi.
@@ -387,7 +418,8 @@ Come primo membro di composti, per questi pronomi si impiegano le radici:
 *   pl. ⟪अस्मद्⟫
 
 ad es. ⟪मत्पुस्तकम्⟫ "il mio libro" ; ⟪अस्मद्पुस्तकानि⟫ "i nostri libri"
-:::## 40.6. Elenco di parole
+:::
+## 40.6. Elenco di parole
 
 ⟪पात्र⟫ n.: Venerabile, Maestro, Degno
 
@@ -407,13 +439,15 @@ Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्�
 da ciò:
 
 ⟪कल्पना⟫ f.: La formazione nel pensiero, assunzione di qualcosa di non esistente nella realtà, finzione
-:::⟪कॢप्⟫ + ⟪वि⟫ Caus. ⟪विकल्पयति⟫ : (immaginarsi in modo diverso =) mettere in discussione, dubitare
+:::
+⟪कॢप्⟫ + ⟪वि⟫ Caus. ⟪विकल्पयति⟫ : (immaginarsi in modo diverso =) mettere in discussione, dubitare
 
 :::indent
 da ciò:
 
 ⟪विक्ल्प⟫ m.: Alternativa, dubbio
-:::⟪तुद्⟫ 6U ⟪तुदति⟫ : colpire
+:::
+⟪तुद्⟫ 6U ⟪तुदति⟫ : colpire
 
 :::indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -422,7 +456,8 @@ Pass. ⟪तुद्यते⟫
 Caus. ⟪तोदयति⟫  
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
-:::⟪तॄ⟫ 1P ⟪तरति⟫ : attraversare, oltrepassare, salvarsi da qualcuno (Acc. = oltrepassare qualcuno)
+:::
+⟪तॄ⟫ 1P ⟪तरति⟫ : attraversare, oltrepassare, salvarsi da qualcuno (Acc. = oltrepassare qualcuno)
 
 :::indent
 Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
@@ -445,7 +480,8 @@ Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 ![lekt4002.jpg](/images/lekt4002.webp)
 Fig.: ⟪तीर्थङ्करः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4002))
-:::⟪अव⟫ Prefisso: giù, verso il basso, via, via-
+:::
+⟪अव⟫ Prefisso: giù, verso il basso, via, via-
 
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : scendere
 
@@ -457,7 +493,8 @@ da ciò:
 ![lekt4001.jpg](/images/lekt4001.webp)
 Fig.: ⟪विष्णोर्दशावताराः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4001))
-:::⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : dormire, sdraiarsi per dormire
+:::
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : dormire, sdraiarsi per dormire
 
 :::indent
 Imperf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
@@ -477,7 +514,8 @@ da ciò:
 ![lekt4004.jpg](/images/lekt4004.webp)
 Fig.: ⟪स्वपन्ति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4004))
-:::## 40.7. Esercizio
+:::
+## 40.7. Esercizio
 
 A) Tradurre le ⟪सुभाषितानि⟫ all'inizio della lezione.
 

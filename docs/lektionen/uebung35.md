@@ -54,7 +54,8 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 | ⟪३९⟫. **⟪अचरत्⟫** | ⟪चचार⟫ |
 | ⟪४०⟫. **⟪जुह्वति⟫** | ⟪जुहुवुः⟫ |
 | ⟪४१⟫. **⟪अहरत्⟫** | ⟪जहार⟫ |
-:::B) Übersetzen Sie:
+:::
+B) Übersetzen Sie:
 
 ⟪१⟫. **⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫**
 Einstmals begann ein großer Kṣatriya zu opfern. Indra entführte (nahm) sein Opfertier. Als aber das Tier verschwunden war, sprach ein böser Brahmane zum Kṣatriya: "Das Tier ist wegen des schlechten Betragens des Kṣatriya verschwunden."

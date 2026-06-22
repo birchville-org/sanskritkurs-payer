@@ -94,7 +94,8 @@ Les sciences sont la philosophie, la védique, l'économie et la politique.
 ![](/images/uebung010.webp)
 Fig. : ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#uebung010))
-:::---
+:::
+---
 
 ## Exercice de révision Leçon 5
 

@@ -20,7 +20,8 @@ instead of:
 
 :::indent
 ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
-:::one can also say:
+:::
+one can also say:
 
 :::indent
 ⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
@@ -28,7 +29,8 @@ instead of:
 or:
 
 ⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
-:::= "Rāma has gone in order to hear the teacher's speech."
+:::
+= "Rāma has gone in order to hear the teacher's speech."
 :::::::media
 ![](/images/lekt2404.webp)
 Fig.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
@@ -40,7 +42,8 @@ Example:
 
 :::indent
 ⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "He goes to the village for the purpose of fruits = He goes to the village in order to fetch fruits."
-:::**In the same way, the dative (⟪चतुर्थी⟫) denotes the purpose of a thing or an action:**
+:::
+**In the same way, the dative (⟪चतुर्थी⟫) denotes the purpose of a thing or an action:**
 
 Example:
 
@@ -77,7 +80,8 @@ Examples:
 Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
 (Image source: [Details](/en/licenses#lekt2403))
-:::Further uses of the dative later.
+:::
+Further uses of the dative later.
 
 ## 24.2. Formation of the Dative (⟪चतुर्थी⟫)
 
@@ -86,7 +90,8 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 
 * **Singular: -e ; vowel-ending feminine stems: -ai**
 * **Plural: Dative and Ablative ⟪पञ्चमी⟫: -bhyas**
-:::### 24.2.1. Consonantal Stems
+:::
+### 24.2.1. Consonantal Stems
 
 ::::grammar-box
 
@@ -97,7 +102,8 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | ⟪पशुमन्त्⟫ | **⟪पशुमते⟫** | **⟪पशुमद्भ्यस्⟫** |
 | ⟪गुणवन्त्⟫ | **⟪गुणवते⟫** | **⟪गुणवद्भ्यस्⟫** |
 
-::::### 24.2.2. Interrogative Pronouns
+::::
+### 24.2.2. Interrogative Pronouns
 
 ::::grammar-box
 
@@ -106,7 +112,8 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | **Dative Singular** | **⟪कस्मै⟫** | **⟪कस्यै⟫** |
 | **Dative Plural** | **⟪केभ्यस्⟫** | **⟪काभ्यस्⟫** |
 
-::::### 24.2.3. Demonstrative Pronouns
+::::
+### 24.2.3. Demonstrative Pronouns
 
 ::::grammar-box
 
@@ -117,7 +124,8 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | **Feminine** | **Dat. sg.** | **⟪तस्यै⟫** | **⟪एतस्यै⟫** | **⟪अस्यै⟫** |
 | | **Dat. pl.** | **⟪ताभ्यस्⟫** | **⟪एताभ्यस्⟫** | **⟪आभ्यस्⟫** |
 
-::::### 24.2.4. Vowel Stems
+::::
+### 24.2.4. Vowel Stems
 
 :::grammar-box
 **Vowel Stems**
@@ -143,7 +151,8 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 * **Feminine in -u:** ⟪धेनु⟫
   * Dat. sg. **⟪धेनवे⟫** or **⟪धेन्वै⟫**
   * Dat. pl. **⟪धेनुभ्यस्⟫**
-:::## 24.3. Sandhi of final -ai and -au
+:::
+## 24.3. Sandhi of final -ai and -au
 
 ::::grammar-box
 **Sandhi of final -ai and -au**
@@ -155,7 +164,8 @@ Example:
 
 :::indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "to this fire"
-:::::::## 24.4. Word List
+:::::::
+## 24.4. Word List
 
 ⟪अलम्⟫ Adverb: enough, sufficient, equal to (someone, something); with Dative: enough for, sufficient for, equal to; with Instrumental: enough with, stop , e.g. ⟪अलं⟫ ⟪क्रोधेन⟫ = "enough with the anger = stop the anger!"
 
@@ -171,7 +181,8 @@ In the same way as ⟪अलम्⟫ with the Instrumental is used:
 ![](/images/lekt2405.webp)
 Fig.: ⟪अलंकारः⟫
 (Image source: [Details](/en/licenses#lekt2405))
-:::⟪हेतु⟫ m.: motive, occasion, cause, reason; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ with Genitive or as the second member of a compound = "for the sake of ..., because of"
+:::
+⟪हेतु⟫ m.: motive, occasion, cause, reason; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ with Genitive or as the second member of a compound = "for the sake of ..., because of"
 
 ⟪प्रतिमा⟫ f.: image, likeness
 
@@ -180,7 +191,8 @@ Fig.: ⟪अलंकारः⟫
 Fig.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Image source: [Details](/en/licenses#lekt2406))
-:::⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : to occur, to happen, to arise
+:::
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : to occur, to happen, to arise
 
 From ⟪वृत्⟫:
 
@@ -188,7 +200,8 @@ From ⟪वृत्⟫:
 ⟪वृत्ति⟫ f.: behavior, activity, way of life
 
 ⟪वृत्त⟫ n.: behavior
-:::⟪अभि⟫ Prefix:  be-, after - towards, to - here, to - towards, against, in - into, in relation to, on, over, at
+:::
+⟪अभि⟫ Prefix:  be-, after - towards, to - here, to - towards, against, in - into, in relation to, on, over, at
 
 ⟪नि⟫ Prefix: downwards, down, into, backwards
 
@@ -213,7 +226,8 @@ from this
 Fig.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
 (Image source: [Details](/en/licenses#lekt2407))
-:::⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : useful
+:::
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : useful
 
 ⟪कुप्य⟫ n.: forest product, metal (not precious metal)
 
@@ -236,7 +250,8 @@ Fig.: ⟪आख्यानम्⟫
 from this:
 
 ⟪संख्या⟫ f.: counting, enumeration; ⟪सांख्य⟫ n.: one of the six philosophical systems (short: Basham, Wonder p. 326f.)
-:::⟪ग्रहण⟫ n.: grasping
+:::
+⟪ग्रहण⟫ n.: grasping
 
 ⟪चौल⟫ n.: ceremony (⟪संस्कार⟫) of hair cutting (at the age of 3 years)
 
@@ -255,7 +270,8 @@ from this:
 Fig.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE.
 (Image source: [Details](/en/licenses#lekt2411))
-:::⟪स्वागत⟫ n.: welcome (from su-ā-gata)
+:::
+⟪स्वागत⟫ n.: welcome (from su-ā-gata)
 
 ⟪तृण⟫ n.: blade of grass
 
@@ -339,7 +355,8 @@ Translate into Sanskrit:
 ![](/images/lekt2409.webp)
 Fig.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 (Image source: [Details](/en/licenses#lekt2409))
-:::6. Farewell! (= Well-being (⟪स्वस्ति⟫ f.) to you!)
+:::
+6. Farewell! (= Well-being (⟪स्वस्ति⟫ f.) to you!)
 
 7. This fruit is sufficient for eating.
 
@@ -356,7 +373,8 @@ Explanation: ⟪मुनित्रयम्⟫ "the triad of sages = the thre
 Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
 ⟪नरसिंह⟫ torn apart ⟪हिरण्यकशिपु⟫, page from a manuscript of the ⟪भागवतपुराण⟫
 (Image source: [Details](/en/licenses#lekt2410))
-:::11. Welcome (⟪स्वागतम्⟫) to you. Welcome to the queen.
+:::
+11. Welcome (⟪स्वागतम्⟫) to you. Welcome to the queen.
 
 12. I wish you well-being (⟪कुशल⟫) = Well-being to you!
 

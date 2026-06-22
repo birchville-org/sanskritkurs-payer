@@ -123,7 +123,8 @@ C) Determinați și traduceți următoarele compozite:
 ![](/images/uebung062.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung062))
-:::---
+:::
+---
 
 ## Narațiune Perfekt (Povrânsul bătrânului)
 

@@ -128,7 +128,8 @@ D) Forme la construcción pasiva de las oraciones formadas en C)
 ![](/images/uebung022.webp)
 Fig.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung022))
-:::---
+:::
+---
 
 ## Ejercicios adicionales
 

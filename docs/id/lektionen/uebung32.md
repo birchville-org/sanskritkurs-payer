@@ -88,7 +88,8 @@ A) Determine the following verb forms and form the corresponding imperfect forms
 | ⟪७३⟫. **⟪तनोति⟫** | ⟪अतनोत्⟫ |
 | ⟪७४⟫. **⟪प्रजानीते⟫** | ⟪प्राजानीत⟫ |
 | ⟪७५⟫. **⟪जीवन्ति⟫** | ⟪अजीवन्⟫ |
-:::B) Translate and resolve the Sanskrit compounds:
+:::
+B) Translate and resolve the Sanskrit compounds:
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
 (⟪जनस्य⟫ ⟪इन्द्रस्य⟫ ⟪अग्रे⟫ ⟪।⟫ ⟪महत्⟫-⟪पुण्यम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪लोके⟫)
@@ -113,7 +114,8 @@ Sons of the Buddha have recognized the truth, brought suffering to a standstill,
 ![](/images/uebung050.webp)
 Fig.: ⟪सम्पन्नरूपा⟫
 (Image source: [Details](/en/licenses#uebung050))
-:::---
+:::
+---
 
 ## Word Form Determination
 
@@ -211,7 +213,8 @@ Determine and translate the following words:
 ![](/images/uebung051.webp)
 Fig.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Image source: [Details](/en/licenses#uebung051))
-:::---
+:::
+---
 
 ## Sandhi Exercise
 
@@ -290,7 +293,8 @@ Insert the words in parentheses into the following sentences, observing the Sand
 ![](/images/uebung052.webp)
 Fig.: ⟪पुनर्दर्शनाय⟫
 (Image source: [Details](/en/licenses#uebung052))
-:::---
+:::
+---
 
 ## Scholarly Fragment (Stotra)
 
@@ -303,7 +307,8 @@ The exalted Hari is my refuge, who sent his enemies to heaven, let his followers
 ![](/images/uebung053.webp)
 Fig.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 (Image source: [Details](/en/licenses#uebung053))
-:::---
+:::
+---
 
 ## Narrative: The Old Man and the Monkeys (Sanskrit Bālādarśa)
 

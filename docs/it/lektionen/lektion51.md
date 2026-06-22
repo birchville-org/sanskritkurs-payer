@@ -27,7 +27,8 @@ Esempi:
 ⟪सुखकरः⟫ = ⟪सुखं⟫ ⟪करोतीति⟫ ⟪सुखकरः⟫
 
 ⟪कुलघ्नः⟫ = ⟪कुलम्हन्तीति⟫ ⟪कुलघ्नः⟫
-:::::::Esempi:
+:::::::
+Esempi:
 
 a) Suffisso ⟪कृत्⟫ \-Ø
 
@@ -42,7 +43,8 @@ a) Suffisso ⟪कृत्⟫ \-Ø
 Fig.: ⟪भूमिभुज्⟫
 ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5101))
-:::b) Suffisso ⟪कृत्⟫ -t
+:::
+b) Suffisso ⟪कृत्⟫ -t
 
 ::::indent
 \-⟪कृत्⟫ 3 "che fa" p.es.
@@ -51,19 +53,22 @@ Fig.: ⟪भूमिभुज्⟫
 ⟪कुलक्षयकृत्⟫ 3 "che causa la distruzione della famiglia"
 
 ⟪पापकृत्⟫ 3 "che fa il male, malfattore"
-:::\-⟪जित्⟫ 3 "che vince" p.es.
+:::
+\-⟪जित्⟫ 3 "che vince" p.es.
 
 :::indent
 ⟪शत्रुजित्⟫ 3 "che vince i nemici"
 
 ⟪पुरुजित्⟫ 3 "che vince molti" (⟪पुरु⟫ 3 "molto, abbondante")
-:::\-⟪भृत्⟫ 3 "che porta" p.es. ⟪भूमिभृत्⟫ m. "re"
+:::
+\-⟪भृत्⟫ 3 "che porta" p.es. ⟪भूमिभृत्⟫ m. "re"
 :::::::media
 ![](/images/lekt5103.webp)
 Fig.: ⟪पापकृत्⟫
 ⟪भरतपुर⟫, ⟪राजस्थान⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5103))
-:::c) Suffisso ⟪कृत्⟫ -a
+:::
+c) Suffisso ⟪कृत्⟫ -a
 
 :::indent
 \-⟪ग⟫ 3 "che va (in, a)" (probabilmente alla radice gā, forma profonda g + a) p.es. ⟪खग⟫ 3 "che vola" m. "uccello, pianeta" (⟪ख⟫ n. "buco, 'spazio aereo'")
@@ -90,20 +95,23 @@ Fig.: ⟪पापकृत्⟫
 Fig.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪हस्तेन⟫ ⟪च⟫ ⟪मुखेन⟫ ⟪च⟫
 ⟪नेपाल⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5102))
-:::## 51.2. Declinazione delle stemmi che terminano con una consonante semplice (tranne nasale, semivocale, -s)
+:::
+## 51.2. Declinazione delle stemmi che terminano con una consonante semplice (tranne nasale, semivocale, -s)
 
 :::grammar-box
 **Gli stemmi che terminano con una consonante semplice (tranne nasale, semivocale, -s) non presentano ablazione dello stemma. La declinazione avviene completamente regolarmente mediante l’aggiunta delle desinenze casuali regolari.**
 
 **Unica irregolarità: nel Nominativo, Accusativo, Vocativo plurale neutro viene inserito un nasale prima della terminazione dello stemma.**
-:::### 51.2.1. Tribù con consonante occlusiva non palatale
+:::
+### 51.2.1. Tribù con consonante occlusiva non palatale
 
 :::grammar-box
 **Si applicano le solite leggi fonetiche, cioè:**
 * **in fine di parola si trova la corrispondente occlusiva sorda non aspirata**
 * **prima del -su del locativo plurale la fine della parola viene inizialmente sostituita dalla corrispondente occlusiva sorda non aspirata, quindi si verificano le corrispondenti modifiche fonetiche**
 * **prima di una consonante sonora la fine della parola viene sostituita dalla corrispondente occlusiva sonora non aspirata.**
-:::Esempi:
+:::
+Esempi:
 
 ⟪शत्रुजित्⟫ 3 "vincitore dei nemici"
 
@@ -116,23 +124,27 @@ Singolare:
 :::indent
 Nom.Voc. ⟪शत्रुजित्⟫ (śatrujit + s)
 Acc. ⟪शत्रुजितम्⟫
-:::Plurale:
+:::
+Plurale:
 
 :::indent
 Nom.Acc.Voc. ⟪शत्रुजितस्⟫
 Istr. ⟪शत्रुजिद्भिस्⟫
 Loc. ⟪शत्रुजित्सु⟫
-:::::::Neutro
+:::::::
+Neutro
 
 :::indent
 Singolare Nom.Acc.Voc. ⟪शत्रुजित्⟫
 Plurale Nom.Acc.Voc. ***⟪शत्रुजिन्ति⟫***
-:::::::⟪सुयुध्⟫ 3 "che combatte bene"
+:::::::
+⟪सुयुध्⟫ 3 "che combatte bene"
 
 :::indent
 Singolare.Nom.Voc.m.f.n. ⟪सुयुत्⟫
 ecc.
-:::Paradigmi completi in Kielhorn, Grammatik pag. 16ss.
+:::
+Paradigmi completi in Kielhorn, Grammatik pag. 16ss.
 
 ### 51.2.2. Parole della radice con consonante occlusiva palatale (c, ch, j), ś, ṣ
 
@@ -153,7 +165,8 @@ ecc.
 * **-j » -k o -ṭ**
 * **-ś » -ṭ o -k**
 * **-ṣ » -ṭ o -k**
-:::Esempi:
+:::
+Esempi:
 
 ⟪सत्यवाच्⟫ 3 "che dice la verità" (⟪बहुव्रीहि⟫)
 
@@ -167,17 +180,20 @@ Singolare:
 Nom.Voc. ⟪सत्यवाक्⟫
 Acc. ⟪सत्यवाचम्⟫
 Istr. ⟪सत्यवाचा⟫
-:::Plurale:
+:::
+Plurale:
 
 :::indent
 Istr. ⟪सत्यवाग्भिस्⟫
 Loc. ⟪सत्यवाक्षु⟫
-:::::::Neutro
+:::::::
+Neutro
 
 :::indent
 Singolare Nom.Acc.Voc. ⟪सत्यवाक्⟫
 Plurale Nom.Acc.Voc. ⟪सत्यवाञ्चि⟫
-:::::::⟪शेषभुज्⟫ 3 "che mangia avanzi di cibo"
+:::::::
+⟪शेषभुज्⟫ 3 "che mangia avanzi di cibo"
 
 ::::indent
 Maschile, Femminile:
@@ -188,17 +204,20 @@ Singolare:
 :::indent
 Nom.Voc. ⟪शेषभुक्⟫
 Acc. ⟪शेषभुजम्⟫
-:::Plurale:
+:::
+Plurale:
 
 :::indent
 Istr. ⟪शेषभुग्भिस्⟫
 Loc. ⟪शेषभुक्षु⟫
-:::::::Neutro
+:::::::
+Neutro
 
 :::indent
 Singolare Nom.Acc.Voc. ⟪शेषभुक्⟫
 Plurale Nom.Acc.Voc. ⟪शेषभुञ्जि⟫
-:::::::⟪परिव्राज्⟫ m. "monaco itinerante"
+:::::::
+⟪परिव्राज्⟫ m. "monaco itinerante"
 
 ::::indent
 Maschile, Femminile:
@@ -209,7 +228,8 @@ Singolare:
 :::indent
 Nom.Voc. ⟪परिव्राट्⟫
 Acc. ⟪परिव्राजम्⟫
-:::Plurale:
+:::
+Plurale:
 
 :::indent
 Istr. ⟪परिव्राड्भिस्⟫
@@ -219,7 +239,8 @@ Loc. ⟪परिव्राट्सु⟫
 Fig.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Fonte immagine: [Dettagli](/it/licenses#lekt5104))
-:::### 51.2.3. Stemmi in -h
+:::
+### 51.2.3. Stemmi in -h
 
 :::grammar-box
 **Davanti a una desinenza che inizia per vocale, la -h rimane invariata.**
@@ -232,7 +253,8 @@ Fig.: ⟪परिव्राट्⟫
 **Dopo queste sostituzioni, lo stemma viene ulteriormente trattato come se terminasse con -ḍh, -gh o -dh.**
 
 **Vedi i paradigmi in Kielhorn, Grammatik, pag. 20s.**
-:::Esempi:
+:::
+Esempi:
 
 ::::indent
 ⟪गुह्⟫ 3 "che nasconde"
@@ -245,12 +267,14 @@ Singolare:
 :::indent
 Nom.Voc. ⟪घुट्⟫ (Legge di dissimilazione dell'aspirazione di Grassmann: ⟪गुढ्⟫ + s)
 Akk. ⟪गुहम्⟫
-:::Plurale:
+:::
+Plurale:
 
 :::indent
 Str. ⟪घुड्भिस्⟫
 Loc. ⟪घुट्सु⟫
-:::::::⟪द्रुह्⟫ "che danneggia, che odia" (facoltativo -ḍh/-gh)
+:::::::
+⟪द्रुह्⟫ "che danneggia, che odia" (facoltativo -ḍh/-gh)
 
 Maschile, Femminile:
 
@@ -260,12 +284,14 @@ Singolare:
 :::indent
 Nom.Voc. ⟪ध्रुट्⟫ ⟪।⟫ ⟪ध्रुक्⟫
 Akk. ⟪द्रुहम्⟫
-:::Plurale:
+:::
+Plurale:
 
 :::indent
 Str. ⟪ध्रुड्भिस्⟫ ⟪।⟫ ⟪ध्रुग्भिस्⟫
 Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
-:::::::::::## 51.3. Sandhi di h- iniziale
+:::::::::::
+## 51.3. Sandhi di h- iniziale
 
 ::::grammar-box
 **Davanti a una h- iniziale, un precedente consonante occlusiva viene sostituita dalla corrispondente occlusiva sonora non aspirata e la h- iniziale viene sostituita dall'occlusiva sonora aspirata corrispondente a tale occlusiva:**
@@ -276,21 +302,24 @@ Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ⟪वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि⟫
 
 ⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
-:::::::## 51.4. Sandhi di ch- iniziale
+:::::::
+## 51.4. Sandhi di ch- iniziale
 
 ::::grammar-box
 **La ch- iniziale viene sostituita da cch- dopo una vocale breve, dopo ⟪मा⟫ "non" e dopo ⟪आ⟫ "a":**
 
 :::indent
 ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न⟫ ⟪च्छिन्दति⟫
-:::::::## 51.5. -ch- all’interno della parola
+:::::::
+## 51.5. -ch- all’interno della parola
 
 ::::grammar-box
 **All’interno della parola, -ch- dopo tutte le vocali viene sostituito da -cch-:**
 
 :::indent
 ad es. ⟪छिद्⟫ » ⟪चिच्छेद⟫
-:::::::## 51.6. Elenco di parole
+:::::::
+## 51.6. Elenco di parole
 
 ⟪अजिन⟫ n.: Pelliccia di antilope, in particolare la pelliccia dell'antilope nera (antilope cervicapra : _Antilope cervicapra_ L. ). Originariamente presente in tutto il subcontinente indiano, dal Punjab e dal Sind al Bengala e dal Nepal al Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Vedi:
 
@@ -300,7 +329,8 @@ ad es. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 ![](/images/lekt5105.webp)
 Fig.:
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5105))
-:::⟪अतिथि⟫ m.: Ospite
+:::
+⟪अतिथि⟫ m.: Ospite
 
 ⟪अभ्यन्तर⟫ 3: situato all'interno, più vicino ; m. il più vicino parente, nativo
 
@@ -316,7 +346,8 @@ Poiché l'ovulazione avviene 14 giorni prima dell'inizio delle mestruazioni, con
 ![](/images/lekt5106.jpg)
 Fig.: ⟪ऋतुः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5106))
-:::⟪एकत्र⟫ Avv.: in un luogo
+:::
+⟪एकत्र⟫ Avv.: in un luogo
 
 ⟪जटा⟫ f.: trecce di capelli (acconciatura dell'asceta)
 
@@ -325,7 +356,8 @@ Fig.: ⟪ऋतुः⟫
 Fig.: ⟪जटा⟫
 ⟪ऋषिकेश⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5107))
-:::⟪तुल्य⟫ 3: uguale, comparabile (⟪तृतीयया⟫)
+:::
+⟪तुल्य⟫ 3: uguale, comparabile (⟪तृतीयया⟫)
 
 ⟪तरय⟫ 3 (f.: ⟪तरयी⟫): triplice, composto da tre parti
 
@@ -346,11 +378,13 @@ Pass. ⟪शिष्यते⟫
 Caus. ⟪शेषयति⟫
 PPP⟪शिष्ट⟫
 Assol. -⟪शिष्य⟫
-:::⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : distinguere
+:::
+⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : distinguere
 
 :::indent
 Pass. ⟪विशिष्यते⟫ : differire da (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), essere migliore di (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), essere il migliore tra (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
-:::⟪समान⟫ 3: di tipo simile, uguale, simile ; m. coetaneo
+:::
+⟪समान⟫ 3: di tipo simile, uguale, simile ; m. coetaneo
 
 ⟪स्व⟫ 3: proprio, suo (mio, tuo, ecc.) Si declina come ⟪सर्व⟫. Nell'ablativo-locativo singolare maschile-neutro e nel nominativo plurale maschile può essere declinato anche come ⟪देव⟫:
 
@@ -358,20 +392,23 @@ Pass. ⟪विशिष्यते⟫ : differire da (⟪पञ्चम्य
 Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
 Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ ***⟪स्⟫***⟪वे⟫
 Nom.pl.m ⟪स्वे⟫ ⟪।⟫ ***⟪स्वास्⟫***
-:::⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : sgridare, biasimare
+:::
+⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : sgridare, biasimare
 
 :::indent
 Perf I ⟪जगर्हे⟫
 Fut. ⟪गर्हिष्यते⟫
 PPP ⟪गर्हित⟫
-:::⟪पिशित⟫ n.: (preparato) carne
+:::
+⟪पिशित⟫ n.: (preparato) carne
 
 :::media
 ![](/images/lekt5108.webp)
 Fig.: ⟪पिशितम्⟫
 Kolkata = কলকাতা
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5108))
-:::⟪उपहार⟫ m.: offerta, sacrificio, dono
+:::
+⟪उपहार⟫ m.: offerta, sacrificio, dono
 
 ⟪मधु⟫ n.: miele, bevanda dolce, idromele (vino di miele)
 
@@ -380,7 +417,8 @@ Kolkata = কলকাতা
 Fig.: ⟪मधु⟫
 Palazzo City, ⟪उदयपुर⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5109))
-:::⟪मांस⟫ n.: carne
+:::
+⟪मांस⟫ n.: carne
 
 ⟪मृगया⟫ f.: caccia
 
@@ -389,14 +427,16 @@ Palazzo City, ⟪उदयपुर⟫
 Fig.: ⟪मृगया⟫
 Caccia con ⟪चीता⟫ (_Acinonyx jubatus venaticus*) Gujarat = ગુજરાત, 1812
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5110))
-:::⟪शिवा⟫ f.: (femminile) sciacallo (sciacallo dorato = _Canis aureus_)
+:::
+⟪शिवा⟫ f.: (femminile) sciacallo (sciacallo dorato = _Canis aureus_)
 
 :::media
 ![](/images/lekt5111.webp)
 Fig.: ⟪शिवा⟫
 _Canis aureus_, Santuario di Kalatop Khajjiar
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5111))
-:::⟪रुत⟫ n.: urlo
+:::
+⟪रुत⟫ n.: urlo
 
 ⟪कौशिक⟫ m.: gufo
 
@@ -405,7 +445,8 @@ _Canis aureus_, Santuario di Kalatop Khajjiar
 Fig.: ⟪कौशिकः⟫
 Gufo del Brahman (_Athene brama_), Mahesana = મહેસાણા
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5112))
-:::⟪शकुनि⟫ m.: uccello
+:::
+⟪शकुनि⟫ m.: uccello
 
 ⟪श्वन्⟫ m.: cane
 
@@ -418,7 +459,8 @@ radice debole davanti a consonante ⟪श्व⟫
 Fig.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5113))
-:::⟪परिचित⟫ 3: familiare, noto
+:::
+⟪परिचित⟫ 3: familiare, noto
 
 ⟪अटवी⟫ f.: foresta
 
@@ -431,7 +473,8 @@ Karnataka = ಕರ್ನಾಟಕ
 Fig.: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5114))
-:::⟪क्रूर⟫ 3: crudo, crudele
+:::
+⟪क्रूर⟫ 3: crudo, crudele
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : ungere, spalmare
 
@@ -441,21 +484,24 @@ Fut. ⟪धेक्ष्यति⟫
 Pass. ⟪दिह्यते⟫
 Kaus. ⟪देहयति⟫
 PPP ⟪दिग्ध⟫
-:::⟪विष⟫ n.: veleno
+:::
+⟪विष⟫ n.: veleno
 
 :::media
 ![](/images/lekt5115.webp)
 Fig.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5115))
-:::⟪भुजंग⟫ m.: serpente
+:::
+⟪भुजंग⟫ m.: serpente
 
 :::media
 ![](/images/lekt5116.webp)
 Fig.: ⟪भुजंगः⟫
 Vipera a catena (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5116))
-:::⟪सायक⟫ m.: freccia
+:::
+⟪सायक⟫ m.: freccia
 
 ⟪उत्साद⟫ m.: distruzione
 
@@ -480,7 +526,8 @@ Vipera a catena (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 Fig.: ⟪मणिः⟫
 Diamante Hope da Guntur = ಗುಂಡೂರು, oggi Museo Smithsonian di Storia Naturale, Washington DC
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5118))
-:::⟪वन⟫ n.: foresta
+:::
+⟪वन⟫ n.: foresta
 
 ⟪मद⟫ m.: anche "linfa di estro" di un elefante (nel [Musht](http://en.wikipedia.org/wiki/Musth))
 
@@ -488,7 +535,8 @@ Diamante Hope da Guntur = ಗುಂಡೂರು, oggi Museo Smithsonian di Stori
 ![](/images/lekt5117.webp)
 Fig.: ⟪मदः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5117))
-:::⟪राग⟫ m.: anche: colore, colore rosso
+:::
+⟪राग⟫ m.: anche: colore, colore rosso
 
 ⟪कालन⟫ n.: foresta
 
@@ -500,7 +548,8 @@ Fut. ⟪खनिष्यति⟫
 Kaus. ⟪खानयति⟫
 PPP ⟪खात⟫
 Assol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
-:::⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : pensare, riflettere
+:::
+⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : pensare, riflettere
 
 ⟪शबर⟫ .:  nome proprio di una tribù non ariana
 
@@ -526,7 +575,8 @@ Spiegazione: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 ⟪कृतवर्णाश्रमस्थितिः⟫ ⟪।⟫
 ⟪त्रय्याभिरक्षितो⟫ ⟪लोकः⟫
 ⟪प्रसीदति⟫ ⟪न⟫ ⟪सीदति⟫ ⟪॥१७॥⟫
-:::⟪३⟫. ⟪बाण⟫ (VII sec. d.C.): ⟪कादम्बरी⟫ ed. K.P. Parab, 1896, p. 65ss.: Riflessioni del pappagallo ⟪वैशम्पायन⟫ sulla vita del cacciatore:
+:::
+⟪३⟫. ⟪बाण⟫ (VII sec. d.C.): ⟪कादम्बरी⟫ ed. K.P. Parab, 1896, p. 65ss.: Riflessioni del pappagallo ⟪वैशम्पायन⟫ sulla vita del cacciatore:
 
 ⟪आसीच्च⟫ ⟪मे⟫ ⟪मनसि⟫ -- ⟪अहो⟫ ⟪मोहप्रायमेतेषां⟫ ⟪जीवितं⟫ ⟪साधुजनगर्हितं⟫ ⟪च⟫ ⟪चरितम्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ ⟪।⟫ ⟪पुरुषपिशितोपहारे⟫ ⟪धर्मबुद्धिः⟫ , ⟪अहारः⟫ ⟪साधुजनगर्हितो⟫ ⟪मधुमांसादिः⟫ , ⟪श्रमो⟫ ⟪मृगया⟫ , ⟪शास्त्रं⟫ ⟪शिवारुतम्⟫ , ⟪समुपदेष्टारः⟫ ⟪सद्सतां⟫ ⟪कौशिकाः⟫ , ⟪प्रज्ञा⟫ ⟪शकुनिज्ञानम्⟫ , ⟪परिचिताः⟫ ⟪श्वानः⟫ , ⟪राज्यं⟫ ⟪शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि⟫ ⟪क्रुरकर्मसाधनानि⟫ ⟪धनूंषि⟫ , ⟪सहाया⟫ ⟪विषदिग्धमुखा⟫ ⟪भुजंगा⟫ ⟪इव⟫ ⟪सायकाः⟫ , ⟪गीतमुत्सादकारि⟫ ⟪मुग्धमृगाणाम्⟫ , ⟪कलत्राणि⟫ ⟪बन्दीगृहीताः⟫ ⟪परयोषितः⟫ , ⟪क्रूरात्मभिः⟫ ⟪शार्दूलैः⟫ ⟪सह⟫ ⟪संवासः⟫ , ⟪पशुरुधिरेण⟫ ⟪देवतार्चनम्⟫ , ⟪मांसेन⟫ ⟪बलिकर्म⟫ , ⟪चौर्येण⟫ ⟪जीवनम्⟫ , ⟪भूषणानि⟫ ⟪भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव⟫ ⟪कानने⟫ ⟪निवसन्ति⟫ ⟪तदेवोत्ख्यातमूलमशेषतः⟫ ⟪कुर्वत⟫ ⟪इति⟫ ⟪चिन्तयत्येव⟫ ⟪मयि⟫ ⟪शबरसेनापतिः⟫ ⟪समुपाविशत्⟫ ⟪॥⟫
 

@@ -76,7 +76,8 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung086.webp)
 Abb.: Jäger
 (Bildquelle: [Details](/licenses#uebung086))
-:::---
+:::
+---
 
 ## ⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (⟪१६⟫. Jhdt.)
 

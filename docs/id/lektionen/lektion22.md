@@ -27,21 +27,24 @@ In translating into German, one should avoid constantly saying "after." Instead,
 
 (determining specification of the absolutive: adverbial modifier, object, etc.) - absolutive - absolutive - ... - absolutive - ... agent + verbal sentence (in active or passive)
 
-:::**Examples:**
+:::
+**Examples:**
 
 :::indent
 **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = passive construction: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
 "The man enters the house, sees the little girl, and addresses her."
 
 Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
-:::## 22.2. Formation of the Absolutive
+:::
+## 22.2. Formation of the Absolutive
 
 :::grammar-box
 **Formation of the Absolutive**
 
 *   Verbs without prefix: Absolutive in **-tvā**
 *   Verbs with prefix: Absolutive in **-ya** or **-tya**
-:::### 22.2.1. Verbs without prefix: Absolutive in -⟪त्वा⟫
+:::
+### 22.2.1. Verbs without prefix: Absolutive in -⟪त्वा⟫
 
 :::grammar-box
 
@@ -51,7 +54,8 @@ Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां�
 
 Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्वा⟫** : **⟪अकृत्वा⟫** "without having done"
 
-:::**Examples:**
+:::
+**Examples:**
 
 :::indent
 **⟪आप्त्वा⟫** "after he / she / it / I / you / we / they / we two / you two / they two has / had reached"
@@ -65,7 +69,8 @@ Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्व
 **⟪जित्वा⟫** "after he (...) has / had won"
 
 **⟪उक्त्वा⟫** "after he (...) has / had spoken"
-:::### 22.2.2. Verbs with Preverbs
+:::
+### 22.2.2. Verbs with Preverbs
 
 #### 22.2.2.1. Roots ending in a long vowel (except -ā) or in a consonant
 
@@ -73,7 +78,8 @@ Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्व
 
 **(mostly) low-grade root + -ya**
 
-:::**Examples:**
+:::
+**Examples:**
 
 :::indent
 **⟪उपनीय⟫** "after he (...) has led forward / had led forward"
@@ -81,23 +87,27 @@ Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्व
 **⟪प्रभूय⟫** "after he (...) has protruded / was protruding" "after he (...) had power"
 
 **⟪प्राप्य⟫** "after he (...) has obtained / had obtained"
-:::#### 22.2.2.2. Roots ending in -ā
+:::
+#### 22.2.2.2. Roots ending in -ā
 
 :::grammar-box
 
 **unmodified high-grade root + -ya**
 
-:::**Example:**
+:::
+**Example:**
 
 :::indent
 **⟪उपस्थाय⟫** "after he (...) had stepped forward / has stepped forward" ; (but without preverb: **⟪स्थित्वा⟫**)
-:::#### 22.2.2.3. Roots that end in short -i, -u, -ṛ in the low grade
+:::
+#### 22.2.2.3. Roots that end in short -i, -u, -ṛ in the low grade
 
 :::grammar-box
 
 **low-grade root + -tya**
 
-:::**Examples:**
+:::
+**Examples:**
 
 :::indent
 **⟪प्रस्तुत्य⟫** "after he (...) has loudly praised / had loudly praised"
@@ -105,7 +115,8 @@ Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्व
 **⟪विस्मृत्य⟫** "after he (...) has forgotten / had forgotten"
 
 **⟪संस्कृत्य⟫** "after he (...) has prepared for the sacrifice / had prepared for the sacrifice"
-:::#### 22.2.2.4. Roots ending in -am / -an, which end in -a in the low grade
+:::
+#### 22.2.2.4. Roots ending in -am / -an, which end in -a in the low grade
 
 :::grammar-box
 
@@ -117,11 +128,13 @@ or:
 
 Root ending in **-a** + **-tya**
 
-:::**Example:**
+:::
+**Example:**
 
 :::indent
 **⟪विगम्य⟫** or **⟪विगत्य⟫** "after he (...) has passed / was passing"
-:::## 22.3. Word List
+:::
+## 22.3. Word List
 
 **⟪काम⟫ m.:** wish, desire; desired gift, sensual pleasure, love, god of love
 
@@ -132,7 +145,8 @@ Root ending in **-a** + **-tya**
 Fig.: ⟪कामदेवः⟫
 19th century
 (Image source: [Details](/en/licenses#lekt2202))
-:::**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** to be able, to be capable
+:::
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** to be able, to be capable
 
 from this:
 
@@ -145,11 +159,13 @@ from this:
 Fig.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (Image source: [Details](/en/licenses#lekt2203))
-:::**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** to deserve (to be worthy of something), to be allowed, to be obliged to, should (in the 2nd person, **⟪अर्ह्⟫** + infinitive is often used as a mild command: "You should")
+:::
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** to deserve (to be worthy of something), to be allowed, to be obliged to, should (in the 2nd person, **⟪अर्ह्⟫** + infinitive is often used as a mild command: "You should")
 
 :::indent
 **⟪अर्हन्त्⟫ 3** Pres. Part. P: a worthy one. In Buddhism and Jainism: someone who has attained final liberation
-:::**⟪व्रत⟫ n.:** vow, religious duty, religious observance (one promises something to the deity in order to receive something from it. Example: a mother promises to give her daughter as a temple prostitute (**⟪देवदासी⟫**) if her daughter recovers. Important **⟪व्रत⟫** today: fasting; abstinence from foods one loves; sexual abstinence; reading sacred texts; performing certain rituals; feeding Brahmins, etc. Briefly on **⟪व्रत⟫**: Walker, Hindu World Vol. II, p. 581f. In detail: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. There p. 253 - 462 list of **⟪व्रत⟫** and religious festivals ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+:::
+**⟪व्रत⟫ n.:** vow, religious duty, religious observance (one promises something to the deity in order to receive something from it. Example: a mother promises to give her daughter as a temple prostitute (**⟪देवदासी⟫**) if her daughter recovers. Important **⟪व्रत⟫** today: fasting; abstinence from foods one loves; sexual abstinence; reading sacred texts; performing certain rituals; feeding Brahmins, etc. Briefly on **⟪व्रत⟫**: Walker, Hindu World Vol. II, p. 581f. In detail: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. There p. 253 - 462 list of **⟪व्रत⟫** and religious festivals ("the following list ... does not claim to be thoroughly exhaustive" !!!)
 
 **⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** to graze, to wander, to move, to act, to exercise, to perform (e.g. **⟪व्रतं⟫ ⟪चर्⟫**: to practice a vow, especially sexual abstinence)
 
@@ -168,7 +184,8 @@ from this:
 Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Image source: [Details](/en/licenses#lekt2201))
-:::## 22.4. Exercise
+:::
+## 22.4. Exercise
 
 **A) Form and translate the Absolute to the following verbs:**
 

@@ -69,7 +69,8 @@ A) Formez la **2e personne** correspondante en temps, nombre, mode, etc. des for
 ![](/images/uebung070.webp)
 Fig. : ⟪दिशसि⟫
 (Source de l'image : [Détails](/fr/licenses#uebung070))
-:::---
+:::
+---
 
 ## Traductions en sanskrit
 
@@ -109,7 +110,8 @@ Comment te sauves-tu (traverses-tu le courant) devant l’ennemi ?
 ![](/images/uebung071.jpg)
 Fig. : ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 (Source de l’image : [Détails](/fr/licenses#uebung071))
-:::---
+:::
+---
 
 ## Conversation (⟪संवादः⟫)
 

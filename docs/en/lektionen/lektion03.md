@@ -16,7 +16,8 @@ status: stable
 - the formation of the feminine from masculines
 - vowel sandhi
 - Sentence sandhi of -ās
-:::## 3.1. Nominative Singular of the Feminine
+:::
+## 3.1. Nominative Singular of the Feminine
 
 ### 3.1.1. Nominative Singular ending in -s
 
@@ -25,16 +26,19 @@ The following nominal stems, which end in a vowel, also form the nominative sing
 :::grammar-box
 - **Feminines in -i**: e.g., **śruti** f. "hearing" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Feminines in -u**: e.g., **dhenu** f. "milch cow" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
-:::### 3.1.2. Nominative Singular without Ending
+:::
+### 3.1.2. Nominative Singular without Ending
 
 The nominative singular is formed without an ending:
 
 :::grammar-box
 - **Feminines in -ā**: e.g. **devatā** f. "deity" -- Nom. sg.: **devatā** = ⟪देवता⟫
 - **Feminines in -ī**: e.g. **devī** f. "goddess" -- Nom. sg.: **devī** = ⟪देवी⟫
-::::::important
+::::::
+important
 **Attention!** In addition, there are monosyllabic feminine root nouns in -ī, whose nominative singular ends in -s: e.g. dhī f. "thought" -- Nom. sg.: dhīs = ⟪धीस्⟫. Also lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "boat" and tantrī (⟪तन्त्री⟫) f. "string" form the nominative singular irregularly with -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
-:::---
+:::
+---
 
 ## 3.2. Formation of Feminines from Masculines
 
@@ -46,7 +50,8 @@ The nominative singular is formed without an ending:
 **Masculines in -u:**
 - **Feminine in -ī**: e.g. **sādhu** m. » **sādhvī** f. (good, holy woman) = ⟪साध्वी⟫
   (**-u-** becomes **-v-** before a vowel, hence **-u- + -ī** » **-vī**)
-:::---
+:::
+---
 
 ## 3.3. Nominative Plural Masculine and Feminine
 
@@ -59,7 +64,8 @@ The ending of the Nominative Plural in the Masculine and Feminine is **-as**.
 - **Feminines in -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
 - **Masculines in -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
 - **Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
-:::Note: **e** is the strong grade (**guṇa**) of **i**, **o** is the strong grade of **u**.
+:::
+Note: **e** is the strong grade (**guṇa**) of **i**, **o** is the strong grade of **u**.
 
 ---
 
@@ -71,7 +77,8 @@ The ending of the Nominative Plural in the Masculine and Feminine is **-as**.
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
-:::e.g.
+:::
+e.g.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā is a deity" = ⟪देवतान्नपूर्णा⟫
 
@@ -91,7 +98,8 @@ Fig.: Indra and Indrāṇī on the elephant Airavata, miniature, Rājasthān, 16
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
 (!! There are exceptions to this rule, particularly for dual forms !!)
-:::e.g.
+:::
+e.g.
 
 devī + umā » devy umā "Umā is a / the goddess" = ⟪देव्युमा⟫
 
@@ -103,12 +111,14 @@ devī + umā » devy umā "Umā is a / the goddess" = ⟪देव्युम�
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
-:::For this sandhi, the following scheme applies:
+:::
+For this sandhi, the following scheme applies:
 
 :::media
 ![](/images/lekt0302.jpg)
 (Image source: [Details](/en/licenses#lekt0302))
-:::See later regarding this so-called stem gradation!
+:::
+See later regarding this so-called stem gradation!
 
 e.g.
 
@@ -120,7 +130,8 @@ e.g.
 
 :::grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
-:::e.g.
+:::
+e.g.
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are twice-born" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -173,7 +184,8 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are twice-born" = ⟪द�
 ![](/images/lekt0303.webp)
 Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 (Image source: [Details](/images/lekt0303))
-:::**sādhvī** f. = ⟪साध्वी⟫ : fem. of sādhu.
+:::
+**sādhvī** f. = ⟪साध्वी⟫ : fem. of sādhu.
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. of guru.
 

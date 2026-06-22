@@ -20,7 +20,8 @@ en lugar de:
 
 :::indent
 ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
-:::también se puede decir:
+:::
+también se puede decir:
 
 :::indent
 ⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
@@ -28,7 +29,8 @@ en lugar de:
 o bien:
 
 ⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
-:::= "Rāma se ha ido para escuchar el discurso del maestro."
+:::
+= "Rāma se ha ido para escuchar el discurso del maestro."
 :::::::media
 ![](/images/lekt2404.webp)
 Fig.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
@@ -40,7 +42,8 @@ Ejemplo:
 
 :::indent
 ⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Él va al pueblo con el propósito de obtener frutos = Él va al pueblo para obtener frutos."
-:::**De la misma manera, el dativo (⟪चतुर्थी⟫) designa el propósito de una cosa o de una acción:**
+:::
+**De la misma manera, el dativo (⟪चतुर्थी⟫) designa el propósito de una cosa o de una acción:**
 
 Ejemplo:
 
@@ -77,7 +80,8 @@ Ejemplos:
 Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "Rama (derecha) sentado sobre los hombros de Hanuman, batalla contra el rey demonio Ravana." ca 1820
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2403))
-:::Otros usos del dativo más adelante.
+:::
+Otros usos del dativo más adelante.
 
 ## 24.2. Formación del dativo (⟪चतुर्थी⟫)
 
@@ -86,7 +90,8 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 
 * **Singular: -e ; temas femeninos que terminan en vocal: -ai**
 * **Plural: dativo y ablativo ⟪पञ्चमी⟫: -bhyas**
-:::### 24.2.1. Tem consonánticos
+:::
+### 24.2.1. Tem consonánticos
 
 ::::grammar-box
 
@@ -97,7 +102,8 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | ⟪पशुमन्त्⟫ | **⟪पशुमते⟫** | **⟪पशुमद्भ्यस्⟫** |
 | ⟪गुणवन्त्⟫ | **⟪गुणवते⟫** | **⟪गुणवद्भ्यस्⟫** |
 
-::::### 24.2.2. Pronombres interrogativos
+::::
+### 24.2.2. Pronombres interrogativos
 
 ::::grammar-box
 
@@ -106,7 +112,8 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | **Dativo Singular** | **⟪कस्मै⟫** | **⟪कस्यै⟫** |
 | **Dativo Plural** | **⟪केभ्यस्⟫** | **⟪काभ्यस्⟫** |
 
-::::### 24.2.3. Pronombres demostrativos
+::::
+### 24.2.3. Pronombres demostrativos
 
 ::::grammar-box
 
@@ -117,7 +124,8 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | **Femenino** | **Dat. sg.** | **⟪तस्यै⟫** | **⟪एतस्यै⟫** | **⟪अस्यै⟫** |
 | | **Dat. pl.** | **⟪ताभ्यस्⟫** | **⟪एताभ्यस्⟫** | **⟪आभ्यस्⟫** |
 
-::::### 24.2.4. Temáticos vocálicos
+::::
+### 24.2.4. Temáticos vocálicos
 
 :::grammar-box
 **Temáticos vocálicos**
@@ -143,7 +151,8 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 * **Femeninos en -u:** ⟪धेनु⟫
   * Dat. sg. **⟪धेनवे⟫** o **⟪धेन्वै⟫**
   * Dat. pl. **⟪धेनुभ्यस्⟫**
-:::## 24.3. Sandhi de -ai y -au finales
+:::
+## 24.3. Sandhi de -ai y -au finales
 
 ::::grammar-box
 **Sandhi de -ai y -au finales**
@@ -155,7 +164,8 @@ Ejemplo:
 
 :::indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "a este fuego"
-:::::::## 24.4. Lista de palabras
+:::::::
+## 24.4. Lista de palabras
 
 ⟪अलम्⟫ Adverbio: suficiente, bastante, capaz de (alguien, algo); con dativo: suficiente para, bastante para, capaz de; con instrumental: suficiente con, abstente de , p. ej. ⟪अलं⟫ ⟪क्रोधेन⟫ = "suficiente con la ira = ¡abstente de la ira!"
 
@@ -171,7 +181,8 @@ De la misma manera que ⟪अलम्⟫ con instrumental se utiliza:
 ![](/images/lekt2405.webp)
 Fig.: ⟪अलंकारः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2405))
-:::⟪हेतु⟫ m.: impulso, motivo, causa, razón; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ con genitivo o como segundo miembro de un compuesto = "por ... causa, debido a"
+:::
+⟪हेतु⟫ m.: impulso, motivo, causa, razón; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ con genitivo o como segundo miembro de un compuesto = "por ... causa, debido a"
 
 ⟪प्रतिमा⟫ f.: imagen, retrato
 
@@ -180,7 +191,8 @@ Fig.: ⟪अलंकारः⟫
 Fig.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2406))
-:::⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : ocurrir, suceder, surgir
+:::
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : ocurrir, suceder, surgir
 
 De ⟪वृत्⟫:
 
@@ -188,7 +200,8 @@ De ⟪वृत्⟫:
 ⟪वृत्ति⟫ f.: conducta, actividad, modo de vida
 
 ⟪वृत्त⟫ n.: conducta
-:::⟪अभि⟫ Prefijo:  pre-, después - hacia, hacia - hacia, hacia, en - dentro, en relación con, sobre, sobre, a
+:::
+⟪अभि⟫ Prefijo:  pre-, después - hacia, hacia - hacia, hacia, en - dentro, en relación con, sobre, sobre, a
 
 ⟪नि⟫ Prefijo: hacia abajo, hacia abajo, hacia dentro, hacia atrás
 
@@ -213,7 +226,8 @@ de eso
 Fig.: ⟪ऊहापोहः⟫
 "NUEVA DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor adjunto de Asuntos Exteriores de la Red CNN-IBN 18, India, modera un panel de discusión en la Cumbre Económica India del Foro Económico Mundial 2008 en Nueva Delhi."
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2407))
-:::⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : útil
+:::
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : útil
 
 ⟪कुप्य⟫ n.: producto del bosque, metal (no metal precioso)
 
@@ -236,7 +250,8 @@ Fig.: ⟪आख्यानम्⟫
 de eso:
 
 ⟪संख्या⟫ f.: conteo, enumeración; ⟪सांख्य⟫ n.: uno de los seis sistemas filosóficos (abreviado: Basham, Wonder p. 326f.)
-:::⟪ग्रहण⟫ n.: agarrar
+:::
+⟪ग्रहण⟫ n.: agarrar
 
 ⟪चौल⟫ n.: ceremonia (⟪संस्कार⟫) de corte de cabello (a los 3 años)
 
@@ -255,7 +270,8 @@ de eso:
 Fig.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 Manuscrito del ⟪गीतगोविन्द⟫, 1730 d. C.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2411))
-:::⟪स्वागत⟫ n.: bienvenida (de su-ā-gata)
+:::
+⟪स्वागत⟫ n.: bienvenida (de su-ā-gata)
 
 ⟪तृण⟫ n.: tallo de hierba
 
@@ -339,7 +355,8 @@ Traduzca al sánscrito:
 ![](/images/lekt2409.webp)
 Fig.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2409))
-:::6\. ¡Adiós! (= Bienestar (⟪स्वस्ति⟫ f.) ¡para ti!)
+:::
+6\. ¡Adiós! (= Bienestar (⟪स्वस्ति⟫ f.) ¡para ti!)
 
 7\. Esta fruta basta para comer.
 
@@ -356,7 +373,8 @@ Explicación: ⟪मुनित्रयम्⟫ "la Trinidad de los sabios = 
 Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
 ⟪नरसिंह⟫ desgarrado ⟪हिरण्यकशिपु⟫, página de un manuscrito del ⟪भागवतपुराण⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2410))
-:::11\. Bienvenido (⟪स्वागतम्⟫) para ti. Bienvenido a la reina.
+:::
+11\. Bienvenido (⟪स्वागतम्⟫) para ti. Bienvenido a la reina.
 
 12\. Le deseo bienestar (⟪कुशल⟫) = ¡Bienestar para ti!
 

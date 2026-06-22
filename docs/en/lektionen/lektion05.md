@@ -15,7 +15,8 @@ status: stable
 - Terminology for compounds
 - Copulative compounds (Dvandva)
 - The order of members in Dvandvas
-:::## 5.1. Nominal Compounds (samāsa m. = ⟪समास⟫)
+:::
+## 5.1. Nominal Compounds (samāsa m. = ⟪समास⟫)
 
 The formation of word compounds on a very large scale is a characteristic feature of Sanskrit.
 
@@ -60,7 +61,8 @@ The Dvandva is generally neuter (regardless of the gender of the final element) 
 
 **The resolution:**
 Occurs with "and" (**ca** = ⟪च⟫), occasionally with "or" (**vā** = ⟪वा⟫) or "each".
-:::See later for dual dvandvas!
+:::
+See later for dual dvandvas!
 
 ### 5.3.1. Prefixes of Compounds
 
@@ -106,7 +108,8 @@ Where two of the three last-mentioned prescriptions can apply simultaneously, th
 ![](/images/lekt0501.webp)
 Fig.: God Kāma = kāmadeva = ⟪कामदेव⟫, 18th century.
 (Image source: Wikipedia, Public domain)
-:::**krodha** m. = ⟪क्रोध⟫ : anger.
+:::
+**krodha** m. = ⟪क्रोध⟫ : anger.
 
 **kleśa** m. = ⟪क्लेश⟫ : affliction, torment.
 

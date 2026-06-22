@@ -91,7 +91,8 @@ Se ha compiuto azioni meritorie e ha detto solo la verità, un uomo non cade in 
 ![](/images/uebung034.jpg)
 Fig.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung034))
-:::---
+:::
+---
 
 ## Costruzioni passive
 

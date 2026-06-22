@@ -59,7 +59,8 @@ Wenn Könige Recht und Sitte nicht hüten, sind die Menschen voll Furcht.
 ![](/images/uebung063.webp)
 Abb.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Bildquelle: [Details](/licenses#uebung063))
-:::---
+:::
+---
 
 ## Erzählung: Zehn Toren (⟪दश⟫ ⟪मूढाः⟫)
 

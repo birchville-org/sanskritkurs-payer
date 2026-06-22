@@ -17,14 +17,16 @@ A) Forme tanto las formas del perfecto con reduplicación como las perifrástica
 | ⟪२⟫. **⟪बिभ्यति⟫** | ⟪बिभ्युः⟫ | ⟪बिभयां⟫ ⟪चक्रुः⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪३⟫. **⟪जुहोति⟫** | ⟪जुहाव⟫ | ⟪जुहवां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪४⟫. **⟪वेत्ति⟫** | ⟪विवेद⟫ | ⟪विदां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
-:::B) Forme el perfecto perifrástico para la raíz **⟪आस्⟫** (sentarse):
+:::
+B) Forme el perfecto perifrástico para la raíz **⟪आस्⟫** (sentarse):
 
 :::grammar-box
 | Presente | Perfecto perifrástico |
 | :--- | :--- |
 | ⟪१⟫. **⟪आस्ते⟫** | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. **⟪आसते⟫** | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
-:::C) Forme el correspondiente perfecto para las siguientes formas:
+:::
+C) Forme el correspondiente perfecto para las siguientes formas:
 
 :::grammar-box
 | Presente / Imperfecto | Perfecto |
@@ -42,7 +44,8 @@ A) Forme tanto las formas del perfecto con reduplicación como las perifrástica
 | ⟪११⟫. **⟪क्रामन्ति⟫** | ⟪चक्रमुः⟫ |
 | ⟪१२⟫. **⟪प्राव्रजन्⟫** | ⟪प्रवव्रजुः⟫ |
 | ⟪१३⟫. **⟪त्यक्ष्यति⟫** | ⟪तत्याज⟫ |
-:::---
+:::
+---
 
 ## Traducciones
 
@@ -65,7 +68,8 @@ Uno no puede vivir únicamente de la ciencia. Quien sepa esto, no debería estud
 ![](/images/uebung061.webp)
 Fig.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung061))
-:::---
+:::
+---
 
 ## Fragmentos eruditos
 
@@ -91,7 +95,8 @@ Si un hombre no se alegra ni se entristece cuando oye, toca, ve, saborea o huele
 ![](/images/uebung060.webp)
 Lám.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung060))
-:::---
+:::
+---
 
 ## Determinación de formas verbales
 

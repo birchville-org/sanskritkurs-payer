@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-07
 - Wichtige Nominalsuffixe (-a, -ana, -tra, -ti, -tva, -tā)
 - Die 8. Präsensklasse (tanādi)
 - Die Konjugation von **kṛ** (tun, machen)
-:::---
+:::
+---
 
 ## 8.1. Zur Bildung von Nomina
 
@@ -29,7 +30,8 @@ In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mi
 **Wurzel + kṛt-Suffix » Nominalstamm usw. + taddhita-Suffix » neuer Nominalstamm usw.**
 
 **Nominalstamm + Kasusendung » syntaxfähiges Nomen**
-:::---
+:::
+---
 
 ## 8.2. Einteilung der Nominalsuffixe
 
@@ -61,7 +63,8 @@ In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mi
 
 :::grammar-box
 **Das kṛt-Suffix -a bildet maskuline (seltener neutrale) Substantive, die eine Handlung oder einen Zustand bezeichnen, der durch die Wurzel bezeichnet wird; manchmal auch Adjektive oder Substantive, die den Agens (kartṛ) der von der Verbalwurzel bezeichneten Handlung ausdrücken. Für kurze Penultima (= Vokal vor Konsonant, auf den die Wurzel auslautet) oder auslautenden Wurzelvokal wird meist Hochstufe (guṇa) oder Dehnstufe (vṛddhi) substituiert.**
-:::**Beispiele:**
+:::
+**Beispiele:**
 
 | Wurzel:br⟪धातु⟫ | + -a (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
@@ -82,7 +85,8 @@ In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mi
 
 :::grammar-box
 **Das kṛt-Suffix -ana bildet meist neutrale Substantive, die eine Handlung, einen Zustand oder das Mittel bzw. Werkzeug bezeichnen, durch welches die von der Wurzel oder einem Verbalstamm bezeichnete Handlung zustande gebracht wird. Für eine kurze Penultima oder einen auslautenden Vokal der Wurzel wird gewöhnlich Hochstufe (guṇa) substituiert.**
-:::**Beispiele:**
+:::
+**Beispiele:**
 
 | Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
@@ -97,18 +101,21 @@ In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mi
 ![](/images/lekt0801.webp)
 Abb.: Maa Batakali Darshan, Puri, Orissa
 (Bildquelle: [Details](/licenses#lekt0801))
-::::::note-box
+::::::
+note-box
 **"Darshan"** oder **"Darshana"** ist ein Begriff aus dem Hinduismus für die Sicht und Vision des Heiligen und Göttlichen. Unter *Darshana* wird z.B. das offizielle Treffen von Schüler und Meister verstanden, bei dem der Schüler vom Meister geladen wurde. Es kann aber auch das *sich Versenken* beim Betrachten eines Götterbildes bedeuten. Letztere Bedeutung ist diejenige, die im heutigen Sprachgebrauch des Hindi die häufigste ist. Im Zusammenhang mit Mata Amritanandamayi bedeutet Darshan die Umarmung durch den Guru.
 
 Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine Statue, in der die geistige Anwesenheit der Gottheit angenommen wird, zu erlangen. In diesem Sinne auch eine Segnung durch die Gottheit. Darshan kann jedoch auch durch eine Vision der Gottheit bei Gebet oder der Meditation empfangen werden. Auch eine lebendige Person, die als Inkarnation der Gottheit angesehen wird, wie z. Bsp. ein Avatara, kann Darshan geben.
 (Quelle: Wikipedia)
-:::---
+:::
+---
 
 ### 8.3.3. -tra n. (kṛt)
 
 :::grammar-box
 **Das kṛt-Suffix -tra bildet (meist) neutrale Substantive, welche das Mittel oder Werkzeug bezeichnen, durch welches die von der Wurzel bezeichnete Handlung zustande kommt. Kurze Penultima und auslautender Vokal der Wurzel wird durch Hochstufe (guṇa) ersetzt.**
-:::**Beispiele:**
+:::
+**Beispiele:**
 
 | Wurzel:br⟪धातु⟫ | + -tra (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
@@ -128,13 +135,15 @@ Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam-Schrift | Jaina-Oṃ |
 (Bildquellen: [Details](/licenses#lekt0803))
-:::---
+:::
+---
 
 ### 8.3.4. -ti f. (kṛt)
 
 :::grammar-box
 **Das kṛt-Suffix -ti bildet feminine Substantive, die im Allgemeinen die von der Wurzel bezeichnete Handlung oder den von der Wurzel bezeichneten Zustand ausdrückt. Die Form der Wurzel ist tiefstufig.**
-:::**Beispiele:**
+:::
+**Beispiele:**
 
 | Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
@@ -154,7 +163,8 @@ Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine
 
 :::grammar-box
 **Die taddhita-Suffixe -tva n. bzw. -tā f. bilden abstrakte Substantive zu Nomina. Die Form des zugrundeliegenden Nominalstamms bleibt unverändert.**
-:::**Beispiele:**
+:::
+**Beispiele:**
 
 | Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Bedeutung |
 | :--- | :--- | :--- | :--- |
@@ -178,7 +188,8 @@ Beispiel **tan** 8 U (⟪तन्⟫) "dehnen":
 - 3\. pl. P. **tanvanti** :br⟪तन्वन्ति⟫
 - 3\. sg. Ā. **tanute** :br⟪तनुते⟫
 - 3\. pl. Ā. **tanvate** :br⟪तन्वते⟫
-:::Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
+:::
+Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
 Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (⟪कृ⟫) "tun, machen". Ihre Konjugation ist unregelmäßig:
 
@@ -188,7 +199,8 @@ Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (⟪कृ⟫) "tun, machen
 - 3\. pl. P. **kurvanti** :br⟪कुर्वन्ति⟫
 - 3\. sg. Ā. **kurute** :br⟪कुरुते⟫
 - 3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫
-:::---
+:::
+---
 
 ## 8.5. Wortliste
 
@@ -220,7 +232,8 @@ Abb.: **likh** (⟪लिख्⟫) : Indischer Schreibgriffel aus Stahl zum Ein
 ![](/images/lekt0810.jpg)
 Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
 (Bildquelle: [Details](/licenses#lekt0809))
-:::- **sukha** n. ⟪सुख⟫ : Glück, Wohlsein
+:::
+- **sukha** n. ⟪सुख⟫ : Glück, Wohlsein
 - **duḥkha** n. ⟪दुःख⟫ : Unglück, Leid
 
 ---

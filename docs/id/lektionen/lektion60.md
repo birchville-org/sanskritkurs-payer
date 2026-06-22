@@ -29,7 +29,8 @@ status: stable
 | 1. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
-:::⟪भाष्⟫ 1Ā "sprechen"
+:::
+⟪भाष्⟫ 1Ā "sprechen"
 
 :::grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -37,7 +38,8 @@ status: stable
 | 1. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
-:::### 60.2.2. Type 2: strong stem strong grade, weak stem weak grade
+:::
+### 60.2.2. Type 2: strong stem strong grade, weak stem weak grade
 
 ⟪भिद्⟫ 7U "to split"
 
@@ -47,7 +49,8 @@ status: stable
 | 1. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
-:::### 60.2.3. Type 3: Strong Stem High Grade/Lengthened Grade
+:::
+### 60.2.3. Type 3: Strong Stem High Grade/Lengthened Grade
 
 #### 60.2.3.1. Type 3a: Strong Stem High Grade/Lengthened Grade, Weak Stem Low Grade
 
@@ -59,7 +62,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
-:::⟪स्तु⟫ 2U (⟪अनिट्⟫) "to praise"
+:::
+⟪स्तु⟫ 2U (⟪अनिट्⟫) "to praise"
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -67,7 +71,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
-:::⟪कृ⟫ 8U (⟪अनिट्⟫) "to do, to make"
+:::
+⟪कृ⟫ 8U (⟪अनिट्⟫) "to do, to make"
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -75,7 +80,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
-:::#### 60.2.3.2. Type 3b: Strong Stem High Grade/Lengthened Grade, Weak Stem High Grade
+:::
+#### 60.2.3.2. Type 3b: Strong Stem High Grade/Lengthened Grade, Weak Stem High Grade
 
 ⟪स्मृ⟫ 1P "to make present"
 
@@ -85,7 +91,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
-:::### 60.2.4. Type 4: Roots ending in -ā / -ai
+:::
+### 60.2.4. Type 4: Roots ending in -ā / -ai
 
 ⟪दा⟫ 3U "to give"
 
@@ -97,7 +104,8 @@ status: stable
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ * |
 
 * identical to the corresponding forms of the Indicative Present!
-:::### 60.2.5. Type 5: Consonant-a-Consonant
+:::
+### 60.2.5. Type 5: Consonant-a-Consonant
 
 #### 60.2.5.1. Type 5a: Consonant-a-Consonant, weak stem, strong grade
 
@@ -109,7 +117,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
-:::#### 60.2.5.2. Type 5b: Consonant-a-Consonant, initial consonant not guttural, aspirate, or h, weak stem without reduplication, with -e-
+:::
+#### 60.2.5.2. Type 5b: Consonant-a-Consonant, initial consonant not guttural, aspirate, or h, weak stem without reduplication, with -e-
 
 ⟪पच्⟫ 1U "to cook"
 
@@ -119,7 +128,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
-:::#### 60.2.5.3. Type 5c: Consonant-a-Consonant, weak stem, strong grade
+:::
+#### 60.2.5.3. Type 5c: Consonant-a-Consonant, weak stem, strong grade
 
 ⟪क्रम्⟫ 1U "to stride"
 
@@ -129,7 +139,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
-:::## 60.3. The Dual of the Periphrastic Perfect (⟪अनुप्रयोगलिट्⟫)
+:::
+## 60.3. The Dual of the Periphrastic Perfect (⟪अनुप्रयोगलिट्⟫)
 
 ⟪गण्⟫ 10P "to count"
 
@@ -139,7 +150,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ |
-:::⟪आस्⟫ 2Ā "to sit"
+:::
+⟪आस्⟫ 2Ā "to sit"
 
 :::grammar-box
 |   | **⟪आत्मनेपदम्⟫** |
@@ -147,7 +159,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
-:::## 60.4. The Participle ⟪परस्मैपद⟫ of the reduplicated perfect (⟪द्वित्वलिट्⟫)
+:::
+## 60.4. The Participle ⟪परस्मैपद⟫ of the reduplicated perfect (⟪द्वित्वलिट्⟫)
 
 :::grammar-box
 **Formation:**
@@ -155,7 +168,8 @@ status: stable
 **weak perfect stem + vāṃs**
 
 **If the weak perfect stem consists of only one syllable, the connecting vowel -i- is added. For some perfects, the connecting vowel is optional.**
-:::Examples:
+:::
+Examples:
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "one who has split" |
 | --- | --- |
@@ -179,7 +193,8 @@ status: stable
 **weak stem before vowel + -ī (declined like ⟪देवी⟫)**
 
 Example: ⟪विदुषी⟫ "a knowing one"
-:::Paradigms see Kielhorn, Grammar § 124:
+:::
+Paradigms see Kielhorn, Grammar § 124:
 
 :::media
 ![](/images/lekt6001.webp)
@@ -187,11 +202,13 @@ Example: ⟪विदुषी⟫ "a knowing one"
 ::::::media
 ![](/images/lekt6002.webp)
 (Image source: [Details](/en/licenses#lekt6002))
-:::## 60.5. Declension of stems ending in -añc (-ac)
+:::
+## 60.5. Declension of stems ending in -añc (-ac)
 
 :::grammar-box
 **Stems ending in -añc/-ac are compounds of prefixes, etc., with the root noun of the root ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "to move".**
-:::### 60.5.1. Tri-stemmed stems in -añc
+:::
+### 60.5.1. Tri-stemmed stems in -añc
 
 :::grammar-box
 **Formation:**
@@ -212,7 +229,8 @@ Example: ⟪विदुषी⟫ "a knowing one"
 **weak stem before vowel + -ī (declined like ⟪देवी⟫)**
 
 Example: ⟪प्रतीची⟫
-:::####  Paradigms see Kielhorn, Grammar § 128:
+:::
+####  Paradigms see Kielhorn, Grammar § 128:
 
 :::media
 ![](/images/lekt6003.webp)
@@ -220,7 +238,8 @@ Example: ⟪प्रतीची⟫
 ::::::media
 ![](/images/lekt6004.webp)
 (Image source: [Details](/en/licenses#lekt6004))
-:::Here belong:
+:::
+Here belong:
 
 *   ⟪प्रत्यञ्च्⟫ 3 "backward, western"
     
@@ -243,7 +262,8 @@ Example: ⟪प्रतीची⟫
 
 *   **strong stem: -añc**
 *   **weak stem before consonant or vowel: -ac**
-:::Here belong:
+:::
+Here belong:
 
 *   ⟪प्राञ्च्⟫ 3 "directed forward, eastern"
 *   ⟪अवाञ्च्⟫ 3 "directed downward"
@@ -268,7 +288,8 @@ The main directions of the sky
 
 *   **a person or thing wishes to do or undergo what is expressed by the root or the causative**
 *   **rarely: someone or something is about to do what is expressed by the root or the causative**
-:::####  Examples:
+:::
+####  Examples:
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "he wishes to do" |
 | --- | --- |
@@ -346,12 +367,14 @@ See Kielhorn, Grammar §§ 443 - 445 for the rules on the use of the connecting 
 3.  On the special desiderative formation of certain roots, see Kielhorn, Grammar § 451.
 ::::::grammar-box
 **Desideratives without desiderative meaning are formed for some roots. Desideratives with desiderative meaning can be formed for these desideratives.**
-:::List in Kielhorn, Grammar § 452:
+:::
+List in Kielhorn, Grammar § 452:
 
 :::media
 ![](/images/lekt6006.webp)
 (Image source: [Details](/en/licenses#lekt6006))
-:::### 60.6.2. Conjugation of the Desiderative (⟪सन्⟫)
+:::
+### 60.6.2. Conjugation of the Desiderative (⟪सन्⟫)
 
 ::::grammar-box
 **The Desiderative is - with a few exceptions - P, Ā, or U, depending on whether the underlying root (or underlying verbal stem) is P, Ā, or U.**
@@ -364,19 +387,23 @@ See Kielhorn, Grammar §§ 443 - 445 for the rules on the use of the connecting 
 P: ⟪यियक्षति⟫ "he wishes to sacrifice for another"
 Ā: ⟪यियक्षते⟫ "he wishes to sacrifice for himself (as the sacrificer)"
 Passive: ⟪यियक्ष्यते⟫ "it is wished to sacrifice"
-:::**Perfect: periphrastic:**
+:::
+**Perfect: periphrastic:**
 
 :::indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "he wished to attain"
-:::**Aorist: iṣ-Aorist:**
+:::
+**Aorist: iṣ-Aorist:**
 
 :::indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
-:::**Future: ⟪सेट्⟫**
+:::
+**Future: ⟪सेट्⟫**
 
 :::indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
-:::::::For the formation of agent nouns in -u from the desiderative stem, see [Lesson 54](lektion54.md).
+:::::::
+For the formation of agent nouns in -u from the desiderative stem, see [Lesson 54](lektion54.md).
 
 ## 60.7. Exercise
 
@@ -391,7 +418,8 @@ A) Study in Kielhorn, Grammar § 451 the irregular desiderative formations for v
 ::::::media
 ![](/images/lekt6009.webp)
 (Image source: [Details](/en/licenses#lekt6009))
-:::B) Determine and translate the following forms without aids:
+:::
+B) Determine and translate the following forms without aids:
 
 1.  ⟪ददुषोः⟫
     

@@ -54,7 +54,8 @@ A) Form the corresponding perfect forms for the following verb forms:
 | ⟪३९⟫. **⟪अचरत्⟫** | ⟪चचार⟫ |
 | ⟪४०⟫. **⟪जुह्वति⟫** | ⟪जुहुवुः⟫ |
 | ⟪४१⟫. **⟪अहरत्⟫** | ⟪जहार⟫ |
-:::B) Translate:
+:::
+B) Translate:
 
 ⟪१⟫. **⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫**
 Once upon a time, a great Kṣatriya began to sacrifice. Indra abducted (took) his sacrificial animal. But when the animal had disappeared, a wicked Brahman spoke to the Kṣatriya: "The animal has disappeared because of the bad conduct of the Kṣatriya."

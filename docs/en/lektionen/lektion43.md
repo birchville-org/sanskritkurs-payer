@@ -18,7 +18,8 @@ status: stable
 | **Primary endings** | -si | -tha | -se | -dhve |
 | **Secondary endings** | -s | -ta | -thās | -dhvam |
 | **Perfect endings** | -tha | -a | -se | -dhve |
-:::Note that the secondary ending of the 2nd plural person is identical to the secondary ending of the 3rd singular active.
+:::
+Note that the secondary ending of the 2nd plural person is identical to the secondary ending of the 3rd singular active.
 
 ## 43.2. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫)
 
@@ -31,7 +32,8 @@ status: stable
 
 :::media
 ![](/images/lekt4301.jpg)
-:::The 3.sg. Ā. Imperfect or Optative is formally identical with the 2.pl. P. Imperfect or Optative!
+:::
+The 3.sg. Ā. Imperfect or Optative is formally identical with the 2.pl. P. Imperfect or Optative!
 
 #### 43.2.1.1. First Present Class (⟪भ्वादि⟫)
 
@@ -122,11 +124,13 @@ status: stable
 | **⟪पञ्चमी⟫** | ⟪त्वत्⟫ | ⟪युष्मत्⟫ |
 | **⟪षष्ठी⟫** | ⟪तव⟫ ⟪ते⟫ | ⟪युष्माकम्⟫ ⟪वस्⟫ |
 | **⟪सप्तमी⟫** | ⟪त्वयि⟫ | ⟪युष्मासु⟫ |
-:::The forms ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ must not be used at the beginning of a sentence or a verse half-line. Nor may they be used before ⟪च⟫, ⟪वा⟫, ⟪एव⟫ and some other particles:
+:::
+The forms ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ must not be used at the beginning of a sentence or a verse half-line. Nor may they be used before ⟪च⟫, ⟪वा⟫, ⟪एव⟫ and some other particles:
 
 :::indent
 ⟪त्वां⟫ ⟪मां⟫ ⟪च⟫ "you and me"
-:::## 43.4. Word List
+:::
+## 43.4. Word List
 
 ⟪ज्ञा⟫ + ⟪आ⟫ Causative ⟪आज्ञापयति⟫ : to command, to order
 
@@ -136,7 +140,8 @@ status: stable
 ![](/images/lekt4302.webp)
 Fig.: ⟪आपणः⟫
 (Image source: [Details](/en/licenses#lekt4302))
-:::⟪सत्वर⟫ 3: fast, hurried
+:::
+⟪सत्वर⟫ 3: fast, hurried
 
 ⟪पण्य⟫ 3: for sale; n.: goods, trade
 
@@ -144,7 +149,8 @@ Fig.: ⟪आपणः⟫
 ![]/images/lekt4303.webp
 Fig.: ⟪पण्यानि⟫
 (Image source: [Details](/en/licenses#lekt4303))
-:::⟪आम्⟫ : yes
+:::
+⟪आम्⟫ : yes
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -166,13 +172,15 @@ Fig.: ⟪पण्यानि⟫
 ![](/images/lekt4304.webp)
 Fig.: ⟪विपणिः⟫
 (Image source: [Details](/en/licenses#lekt4304))
-:::⟪वणिज्⟫ m.: merchant
+:::
+⟪वणिज्⟫ m.: merchant
 
 :::media
 ![](/images/lekt4305.webp)
 Fig.: ⟪वणिक्⟫
 (Image source: [Details](/en/licenses#lekt4305))
-:::⟪वर⟫ 3: best
+:::
+⟪वर⟫ 3: best
 
 ⟪शीघ्र⟫ 3: fast, quick
 
@@ -182,7 +190,8 @@ Fig.: ⟪वणिक्⟫
 ![](/images/lekt4306.webp)
 Fig.: ⟪वत्सः⟫
 (Image source: [Details](/en/licenses#lekt4306))
-:::⟪उत्तम⟫ 3: highest, best
+:::
+⟪उत्तम⟫ 3: highest, best
 
 ⟪अल्प⟫ 3: small, little
 
@@ -202,7 +211,8 @@ Fig.: ⟪वत्सः⟫
 ![](/images/lekt4307.webp)
 Fig.: ⟪तोलन्ति⟫
 (Image source: [Details](/en/licenses#lekt4307))
-:::⟪कर्गल⟫ n.: paper
+:::
+⟪कर्गल⟫ n.: paper
 
 ⟪संपुट⟫ m.: box (here: package, bundle)
 
@@ -222,7 +232,8 @@ Caus. ⟪द्रावयति⟫
 PPP ⟪द्रुत⟫  
 Absol. -⟪द्रुत्य⟫  
 Inf. ⟪द्रोतुम्⟫
-:::⟪रे⟫ Interjection: Hey! You there!
+:::
+⟪रे⟫ Interjection: Hey! You there!
 
 ⟪अन्यद्⟫ 3: another (declension like ⟪यद्⟫ )
 
@@ -321,7 +332,8 @@ B) Translate into Sanskrit:
 ![](/images/lekt4308.webp)
 Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#lekt4308))
-:::## 43.6. ⟪संवादः⟫ = Conversation
+:::
+## 43.6. ⟪संवादः⟫ = Conversation
 
 | ⟪संवादः⟫ | Explanations |
 | --- | --- |

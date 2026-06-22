@@ -88,7 +88,8 @@ A) Determine las siguientes formas verbales y forme las correspondientes formas 
 | ⟪७३⟫. **⟪तनोति⟫** | ⟪अतनोत्⟫ |
 | ⟪७४⟫. **⟪प्रजानीते⟫** | ⟪प्राजानीत⟫ |
 | ⟪७५⟫. **⟪जीवन्ति⟫** | ⟪अजीवन्⟫ |
-:::B) Traduzca y resuelva los compuestos en sánscrito:
+:::
+B) Traduzca y resuelva los compuestos en sánscrito:
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
 (⟪जनस्य⟫ ⟪इन्द्रस्य⟫ ⟪अग्रे⟫ ⟪।⟫ ⟪महत्⟫-⟪पुण्यम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪लोके⟫)
@@ -113,7 +114,8 @@ Los hijos de Buda han reconocido la verdad, han detenido el sufrimiento y han al
 ![](/images/uebung050.webp)
 Fig.: ⟪सम्पन्नरूपा⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung050))
-:::---
+:::
+---
 
 ## Determinación de formas verbales
 
@@ -211,7 +213,8 @@ Determine y traduzca las siguientes palabras:
 ![](/images/uebung051.webp)
 Fig.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung051))
-:::---
+:::
+---
 
 ## Ejercicio de Sandhi
 
@@ -290,7 +293,8 @@ Inserte las palabras entre paréntesis en las siguientes oraciones y tenga en cu
 ![](/images/uebung052.webp)
 Fig.: ⟪पुनर्दर्शनाय⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung052))
-:::---
+:::
+---
 
 ## Fragmento erudito (Stotra)
 
@@ -302,7 +306,8 @@ Fig.: ⟪पुनर्दर्शनाय⟫
 ![](/images/uebung053.webp)
 Fig.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung053))
-:::---
+:::
+---
 
 ## Narrativa: El anciano y los monos (Sanskrit-Bālādarśa)
 

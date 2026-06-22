@@ -15,7 +15,8 @@ status: stable
 - L'uso delle particelle **iti**, **evam** e **na**
 - Concetti fondamentali come **dharma**, **adharma** e **putra**
 - La formazione di nominali dalle radici **vad**, **prach** e **iṣ**
-:::## 11.1. Accusativo doppio
+:::
+## 11.1. Accusativo doppio
 
 :::grammar-box
 **Alcuni verbi possono reggere un doppio accusativo (dvitīyā): accusativo della persona e accusativo della cosa.**
@@ -35,7 +36,8 @@ ad es. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब
 
 ad es. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma chiede riguardo al dharma."
 » Passivo: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
-:::---
+:::
+---
 
 ## 11.2. Elenco di parole
 
@@ -68,7 +70,8 @@ ad es. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫
 ![](/images/lekt1102.webp)
 Fig.: **vadanāni** = ⟪वदनानि⟫, distretto di Jamalpur, Bangladesh.
 (Fonte dell'immagine: [Details](/it/licenses#lekt1102))
-:::- **prach** 6 P ⟪प्रच्छ्⟫ : chiedere
+:::
+- **prach** 6 P ⟪प्रच्छ्⟫ : chiedere
   - **praśna** m. ⟪प्रश्न⟫ : domanda (suffisso **-na** come in **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : desiderare
@@ -103,7 +106,8 @@ Fig.: **vadanāni** = ⟪वदनानि⟫, distretto di Jamalpur, Banglades
 ![](/images/lekt1101.webp)
 Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
 (Fonte dell'immagine: [Details](/it/licenses#lekt1101))
-:::---
+:::
+---
 
 ## 11.4. Esercizio di ripasso
 

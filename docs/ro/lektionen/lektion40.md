@@ -30,7 +30,8 @@ status: stable
 ![lekt4005.jpg](/images/lekt4005.webp)
 Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4005))
-:::## 40.2. Formarea formelor verbale ale persoanei I Perfect (⟪लिट्⟫)
+:::
+## 40.2. Formarea formelor verbale ale persoanei I Perfect (⟪लिट्⟫)
 
 Sufixele persoanei I (⟪तृतीयः⟫) în Perfect (⟪लिट्⟫)
 
@@ -64,7 +65,8 @@ La tipurile de Perfect III și V, persoana I singular P și persoana a III-a sin
 8.  ⟪स्रु⟫ 1P "a curge"
 
 La rădăcinile cosiddicte facultative ⟪अनिट्⟫, vocala de legătură poate fi inserată opțional sau nu. (Lista acestor rădăcini la Kielhorn, Gramatikă p. 92 § 298b,2,3)
-:::### 40.2.1. Tipul Perfectului I: fără alternanța de stemă
+:::
+### 40.2.1. Tipul Perfectului I: fără alternanța de stemă
 
 1.sg. = 3.sg.
 
@@ -80,22 +82,26 @@ Verbe care urmează acest tip:
 :::indent
 *   1.sg.P ⟪बबन्ध⟫
 *   1.pl.P ⟪बबन्धिम⟫
-:::⟪जीव्⟫ 1P
+:::
+⟪जीव्⟫ 1P
 
 :::indent
 *   1.sg.P ⟪जिजीव⟫
 *   1.pl.P ⟪जिजिविम⟫
-:::⟪अश्⟫ 5Ā
+:::
+⟪अश्⟫ 5Ā
 
 :::indent
 *   1.sg.Ā ⟪आनशे⟫
 *   1.pl.Ā ⟪आनशिमहे⟫
-:::⟪अस्⟫ 2P și ⟪अस्⟫ 4P
+:::
+⟪अस्⟫ 2P și ⟪अस्⟫ 4P
 
 :::indent
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
-:::### 40.2.2. Tipul Perfectului II: rădăcină puternică la treapta superioară, rădăcină slabă la treapta inferioară
+:::
+### 40.2.2. Tipul Perfectului II: rădăcină puternică la treapta superioară, rădăcină slabă la treapta inferioară
 
 Verbe care urmează acest tip:
 
@@ -111,13 +117,15 @@ Verbe care urmează acest tip:
 *   1.sg.Ā ⟪बिभिदे⟫
     
 *   1.pl.Ā ⟪बिभिदिमहे⟫
-:::⟪मुह्⟫ 4P facultativ ⟪अनिट्⟫
+:::
+⟪मुह्⟫ 4P facultativ ⟪अनिट्⟫
 
 :::indent
 *   1.sg.P ⟪मुमोह⟫
     
 *   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
-:::### 40.2.3. Tipul III al Perfectului: Rădăcină puternică, nivel înalt/îndelungat
+:::
+### 40.2.3. Tipul III al Perfectului: Rădăcină puternică, nivel înalt/îndelungat
 
 1.sg.P opțional nivel înalt sau îndelungat
 
@@ -134,7 +142,8 @@ Verbe care urmează acest tip:
 *   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a)
     
 *   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
-:::⟪नी⟫ 1U
+:::
+⟪नी⟫ 1U
 
 :::indent
 *   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
@@ -144,7 +153,8 @@ Verbe care urmează acest tip:
 *   1.sg.Ā ⟪निन्ये⟫
     
 *   1.pl.Ā ⟪निन्यिमहे⟫
-:::⟪स्तु⟫ 2U strict ⟪अनिट्⟫
+:::
+⟪स्तु⟫ 2U strict ⟪अनिट्⟫
 
 :::indent
 *   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
@@ -154,7 +164,8 @@ Verbe care urmează acest tip:
 *   1.sg.Ā ⟪तुष्टुवे⟫
     
 *   1.pl.Ā ⟪तुष्टुमहे⟫
-:::⟪कृ⟫ 8U strict ⟪अनिट्⟫
+:::
+⟪कृ⟫ 8U strict ⟪अनिट्⟫
 
 :::indent
 *   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
@@ -164,7 +175,8 @@ Verbe care urmează acest tip:
 *   1.sg.Ā ⟪चक्रे⟫
     
 *   1.pl.Ā ⟪चकृमहे⟫
-:::#### 40.2.3.2. Tipul IIIb al Perfectului: Rădăcină puternică, nivel înalt/îndelungat, rădăcină slabă, nivel înalt
+:::
+#### 40.2.3.2. Tipul IIIb al Perfectului: Rădăcină puternică, nivel înalt/îndelungat, rădăcină slabă, nivel înalt
 
 Verbe care urmează acest tip:
 
@@ -177,13 +189,15 @@ Verbe care urmează acest tip:
 *   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
     
 *   1.pl.P ⟪पपरिम⟫
-:::⟪स्मृ⟫ 1P
+:::
+⟪स्मृ⟫ 1P
 
 :::indent
 *   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
     
 *   1.pl.P ⟪सस्मरिम⟫
-:::⟪संस्कृ⟫ 8U
+:::
+⟪संस्कृ⟫ 8U
 
 :::indent
 *   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
@@ -193,7 +207,8 @@ Verbe care urmează acest tip:
 *   1.sg.Ā ⟪सञ्चस्करे⟫
     
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
-:::### 40.2.4. Tipul IV de Perfect: Rădăcini cu -ā / -ai
+:::
+### 40.2.4. Tipul IV de Perfect: Rădăcini cu -ā / -ai
 
 *   Tărie puternică:
     *   Pers. sg. 1.,3. Parasamaip.: -au
@@ -211,7 +226,8 @@ Verbe care urmează acest tip:
 *   Pers. sg. Ā ⟪ददे⟫
     
 *   Pers. pl. Ā ⟪ददिमहे⟫
-:::### 40.2.5. Tipul Perfectului V: Consonant-a-Consonant
+:::
+### 40.2.5. Tipul Perfectului V: Consonant-a-Consonant
 
 1.sg.P. opțional cu vârf intens sau cu vârf lungit
 
@@ -227,31 +243,36 @@ Verbe care urmează acest tip:
 5.  vad "a vorbi"
 6.  yaj "a jertfi"
 7.  ș.a.
-:::⟪गम्⟫ 1P
+:::
+⟪गम्⟫ 1P
 
 :::indent
 *   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
     
 *   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
-:::⟪हन्⟫ 2P
+:::
+⟪हन्⟫ 2P
 
 :::indent
 *   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
     
 *   1.pl.P ⟪जघ्निम⟫
-:::⟪जन्⟫ 4Ā
+:::
+⟪जन्⟫ 4Ā
 
 :::indent
 *   1.sg.Ā ⟪जज्ञे⟫
     
 *   1.pl.Ā ⟪जज्ञिमहे⟫
-:::⟪वच्⟫ 2P
+:::
+⟪वच्⟫ 2P
 
 :::indent
 *   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
     
 *   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
-:::⟪वद्⟫ 1P (Ā)
+:::
+⟪वद्⟫ 1P (Ā)
 
 :::indent
 *   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
@@ -261,7 +282,8 @@ Verbe care urmează acest tip:
 *   1.sg.Ā ⟪ऊदे⟫
     
 *   1.pl.Ā  ⟪ऊदिमहे⟫
-:::⟪यज्⟫ 1U
+:::
+⟪यज्⟫ 1U
 
 :::indent
 *   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
@@ -271,7 +293,8 @@ Verbe care urmează acest tip:
 *   1.sg.Ā ⟪ईजे⟫
     
 *   1.pl.Ā ⟪ईजिमहे⟫
-:::#### 40.2.5.2. Tipul Perfectului Vb: Consonant-a-Consonant, consonanta inițială nu este guturală, aspirată, h, Rădăcină slabă fără reduplicare, cu -e-
+:::
+#### 40.2.5.2. Tipul Perfectului Vb: Consonant-a-Consonant, consonanta inițială nu este guturală, aspirată, h, Rădăcină slabă fără reduplicare, cu -e-
 
 ⟪पच्⟫ 1U
 
@@ -283,7 +306,8 @@ Verbe care urmează acest tip:
 *   1.sg.Ā ⟪पेचे⟫
     
 *   1.pl.Ā ⟪पेचिमहे⟫
-:::#### 40.2.5.3. Tipul Perfectului Vc: Consonant-a-Consonant, rădăcină slabă, gradul intens
+:::
+#### 40.2.5.3. Tipul Perfectului Vc: Consonant-a-Consonant, rădăcină slabă, gradul intens
 
 Verbe care urmează acest tip:
 
@@ -299,7 +323,8 @@ Verbe care urmează acest tip:
 *   1.sg.Ā ⟪चक्रमे⟫
     
 *   1.pl.Ā ⟪चक्रमिमहे⟫
-:::### 40.2.6. Formări speciale ale Perfectului
+:::
+### 40.2.6. Formări speciale ale Perfectului
 
 ⟪विद्⟫ Perfectul prezent al celei de-a doua persoane:
 
@@ -307,7 +332,8 @@ Verbe care urmează acest tip:
 *   1.sg.P ⟪वेद⟫ (= 3.sg.P)
     
 *   1.pl.P ⟪विद्म⟫
-:::⟪अह्⟫ Persoana I nu este uzuală!
+:::
+⟪अह्⟫ Persoana I nu este uzuală!
 
 ⟪भू⟫ Persoana I
 
@@ -315,13 +341,15 @@ Verbe care urmează acest tip:
 *   1.sg.P ⟪बभूव⟫ (= 3.sg.P)
     
 *   1.pl.P ⟪बभूविम⟫
-:::⟪जि⟫ Persoana I
+:::
+⟪जि⟫ Persoana I
 
 :::indent
 *   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
     
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
-:::## 40.3. Formarea formelor verbale a primei persoane a perfectului perifrastic (⟪अनुप्रयोगलिट्⟫)
+:::
+## 40.3. Formarea formelor verbale a primei persoane a perfectului perifrastic (⟪अनुप्रयोगलिट्⟫)
 
 Perfectul perifrastic se formează de către:
 
@@ -342,17 +370,20 @@ Perfectul perifrastic se formează de către:
 *   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
     
 *   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
-:::⟪बन्ध्⟫ Cauzativ P: ⟪बन्धयति⟫
+:::
+⟪बन्ध्⟫ Cauzativ P: ⟪बन्धयति⟫
 
 :::indent
 *   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
     
 *   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
-:::## 40.4. Aspecte sintactice privind prima persoană (⟪तृतीयः⟫)
+:::
+## 40.4. Aspecte sintactice privind prima persoană (⟪तृतीयः⟫)
 
 :::grammar-box
 Deoarece un verb finit (verb conjugat) exprimă și agentul (⟪कर्तृ⟫), „eu”, „noi” nu trebuie exprimat suplimentar printr-un pronume personal în propozițiile verbale active cu verb finit
-:::## 40.5. Pronume personale (⟪पुरुषार्थकसर्वनाम⟫) ale persoanei I, singular și plural
+:::
+## 40.5. Pronume personale (⟪पुरुषार्थकसर्वनाम⟫) ale persoanei I, singular și plural
 
 :::grammar-box
 Forma pronumelui personal (pronumelui personal) este aceeași pentru toate genurile.
@@ -387,7 +418,8 @@ Ca prim component al compuselor, pentru aceste pronume există temele:
 *   pl. ⟪अस्मद्⟫
 
 de ex. ⟪मत्पुस्तकम्⟫ "cartea mea" ; ⟪अस्मद्पुस्तकानि⟫ "cărțile noastre"
-:::## 40.6. Listă de cuvinte
+:::
+## 40.6. Listă de cuvinte
 
 ⟪पात्र⟫ n.: Onorabil, Maestru, Demn
 
@@ -407,13 +439,15 @@ Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्�
 din care:
 
 ⟪कल्पना⟫ f.: Formarea în gând, asumarea a ceva care nu există în realitate, Ficțiune
-:::⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (a se imagina diferit =) a pune la îndoială, a pune la îndoială
+:::
+⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (a se imagina diferit =) a pune la îndoială, a pune la îndoială
 
 :::indent
 din care:
 
 ⟪विक्ल्प⟫ m.: Alternativă, Îndoială
-:::⟪तुद्⟫ 6U ⟪तुदति⟫ : a lovi
+:::
+⟪तुद्⟫ 6U ⟪तुदति⟫ : a lovi
 
 :::indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -422,7 +456,8 @@ Pass. ⟪तुद्यते⟫
 Kaus. ⟪तोदयति⟫  
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
-:::⟪तॄ⟫ 1P ⟪तरति⟫ : a trece, a depăși, a se salva de cineva (Ac. = a depăși pe cineva)
+:::
+⟪तॄ⟫ 1P ⟪तरति⟫ : a trece, a depăși, a se salva de cineva (Ac. = a depăși pe cineva)
 
 :::indent
 Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
@@ -445,7 +480,8 @@ Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 ![lekt4002.jpg](/images/lekt4002.webp)
 Fig.: ⟪तीर्थङ्करः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4002))
-:::⟪अव⟫ Pref.: jos, în jos, departe, des-
+:::
+⟪अव⟫ Pref.: jos, în jos, departe, des-
 
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : a coborî
 
@@ -457,7 +493,8 @@ din care:
 ![lekt4001.jpg](/images/lekt4001.webp)
 Fig.: ⟪विष्णोर्दशावताराः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4001))
-:::⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : a dormi, a se culca
+:::
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : a dormi, a se culca
 
 :::indent
 Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
@@ -477,7 +514,8 @@ din care:
 ![lekt4004.jpg](/images/lekt4004.webp)
 Fig.: ⟪स्वपन्ति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4004))
-:::## 40.7. Exercițiu
+:::
+## 40.7. Exercițiu
 
 A) Traduceți ⟪सुभाषितानि⟫ de la începutul lecției.
 

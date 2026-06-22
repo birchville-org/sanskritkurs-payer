@@ -104,7 +104,8 @@ B) Transforme las siguientes formas verbales en sus correspondientes formas de p
 ![](/images/uebung065.webp)
 Fig.: ⟪आशिमेति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung065))
-:::---
+:::
+---
 
 ## Determinación de formas verbales
 

@@ -123,7 +123,8 @@ C) Déterminez et traduisez les composés suivants :
 ![](/images/uebung062.webp)
 Fig. : ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Source de l'image : [Détails](/fr/licenses#uebung062))
-:::---
+:::
+---
 
 ## Passé composé narratif (L’histoire du vieil homme)
 

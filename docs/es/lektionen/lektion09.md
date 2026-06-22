@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-07
 - La formación de raíces nominales con los sufijos **-ka** (taddhita) y **-aka** (kṛt)
 - Vocabulario sobre profesiones y roles sociales
 - Citas de textos clásicos de derecho (Dharmaśāstras)
-:::---
+:::
+---
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Resumen de dvandva")
 
@@ -23,7 +24,8 @@ last_reconstructed: 2026-05-07
 **Cuando un dvandva debe expresar que una serie de cosas, etc., forman una unidad, generalmente está en singular neutro:**
 
 por ejemplo, **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ no significa simplemente "ingesta de alimentos (**āhāra** m.), sueño (**nidrā** f.), apareamiento (**maithuna** n.) y miedo (**bhaya** n.)", sino estas cuatro como una **unidad**, que caracteriza la vida animal.
-:::Además de esta regla básica para la formación de Samāhāradvandvas, hay una serie de otras reglas que se pueden encontrar en Pāṇini 2,4,2-17 o, por ejemplo, en Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. ¡En las diferentes etapas del desarrollo del lenguaje no siempre se respetaron las mismas reglas!
+:::
+Además de esta regla básica para la formación de Samāhāradvandvas, hay una serie de otras reglas que se pueden encontrar en Pāṇini 2,4,2-17 o, por ejemplo, en Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. ¡En las diferentes etapas del desarrollo del lenguaje no siempre se respetaron las mismas reglas!
 
 ---
 
@@ -48,7 +50,8 @@ por ejemplo, **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्र
 4\. **Nombres que expresan "en relación con el concepto de la palabra base":**
    **kāśi f. "Benarés" » kāśika 3 ⟪काशिक⟫ "originario de Benarés, procedente de Benarés"**
    **rūpa n. "forma" » rūpaka 3 ⟪रूपक⟫ "que posee la forma de algo"**
-:::---
+:::
+---
 
 ### 9.2.2. -aka (kṛt), f. a menudo -ikā
 
@@ -56,7 +59,8 @@ por ejemplo, **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्र
 **El sufijo kṛt -aka, femenino a menudo -ikā, forma nombres de agente (nombres que expresan al agente) a cualquier raíz.**
 
 Una vocal final de la raíz, así como **-a-** en la penúltima posición de la raíz, se reemplazan por su grado de alargamiento (**vṛddhi**) (hay algunas excepciones), las demás vocales se reemplazan por su grado alto (**guṇa**).
-:::**Ejemplos:**
+:::
+**Ejemplos:**
 
 | Raíz:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Significado |
 | :--- | :--- | :--- |
@@ -69,7 +73,8 @@ Una vocal final de la raíz, así como **-a-** en la penúltima posición de la 
 
 :::grammar-box
 **Algunas de estas formaciones tienen el significado más estricto: "el que habitualmente o como obligación o bien realiza lo expresado por la raíz".**
-:::ver arriba por ejemplo **śrāvaka**, **yājaka**, **jayaka**
+:::
+ver arriba por ejemplo **śrāvaka**, **yājaka**, **jayaka**
 
 **Ejemplos:**
 
@@ -93,13 +98,15 @@ Además, existen algunos usos menos importantes del sufijo **-aka**. Véase Wack
 ![](/images/lekt0903.webp)
 Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram cerca de Madurai.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0903))
-:::- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artesano
+:::
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artesano
 
 :::media
 ![](/images/lekt0902.webp)
 Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0902))
-:::- **kuśīlava** m. (⟪कुशीलव⟫) : (itinerante) exhibidor, actor, cantante
+:::
+- **kuśīlava** m. (⟪कुशीलव⟫) : (itinerante) exhibidor, actor, cantante
 - **kusīda** n. (⟪कुसीद⟫) : Usura
 - **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : tirar
 - **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : arar
@@ -132,7 +139,8 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 ![](/images/lekt0901.webp)
 Fig.: **karṣaka** = ⟪कर्षक⟫.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0901))
-:::8\. kleśa (⟪क्लेश⟫)
+:::
+8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
 11\. nartaka (f. nartakī) (⟪नर्तक⟫ / ⟪नर्तकी⟫)

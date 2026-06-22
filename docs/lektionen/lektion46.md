@@ -18,15 +18,18 @@ status: stable
 | :---: | :---: | :---: | :---: | :---: |
 | **Perfektendungen** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ^^ | \-tha | \-a | \-se | \-dhve |
-:::Beachten Sie, dass die Endung -- meistens aber nicht die Form! -- der 2.pl.P mit der der 1. und 3.sg.P übereinstimmt.
+:::
+Beachten Sie, dass die Endung -- meistens aber nicht die Form! -- der 2.pl.P mit der der 1. und 3.sg.P übereinstimmt.
 
 :::grammar-box
 Vor -tha tritt bei den meisten Wurzeln auf -ṛ kein Bindevokal \-i-. Bei manchen Wurzeln ist vor \-tha das \-i- fakultativ.
-:::### 46.1.2. Lautveränderung der Endung -dhve
+:::
+### 46.1.2. Lautveränderung der Endung -dhve
 
 :::grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
-:::### 46.1.3. Perfekt Typ I: keine Stammabstufung
+:::
+### 46.1.3. Perfekt Typ I: keine Stammabstufung
 
 Verben, die diesem Typ folgen:
 
@@ -37,28 +40,32 @@ Verben, die diesem Typ folgen:
 
 :::grammar-box
 1.sg.P = 3.sg.P = 2.pl.P
-:::⟪बन्ध्⟫ 9P
+:::
+⟪बन्ध्⟫ 9P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪बबन्धिथ⟫:br⟪बबन्द्ध⟫ | ⟪बबन्ध⟫ |
-:::⟪जीव्⟫ 1P
+:::
+⟪जीव्⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | &lt;⟪जिजीविषे⟫&gt; | &lt;⟪जिजीविध्वे⟫&gt;:br&lt;⟪जिजीविढ्वे⟫&gt; |
-:::⟪अस्⟫ 2P, 4P
+:::
+⟪अस्⟫ 2P, 4P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪आसिथ⟫ | ⟪आस⟫ | &lt;⟪आसिषे⟫&gt; | &lt;⟪आसिध्वे⟫&gt; |
-:::### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+:::
+### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
 Verben, die diesem Typ folgen:
 
@@ -71,14 +78,16 @@ Verben, die diesem Typ folgen:
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪बिभेदिथ⟫ | ⟪बिभिद⟫ | ⟪बिभिदिषे⟫ | ⟪बिभिदिध्वे⟫ |
-:::⟪मुह्⟫ 4P fakultativ ⟪अनिट्⟫
+:::
+⟪मुह्⟫ 4P fakultativ ⟪अनिट्⟫
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
-:::### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+:::
+### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
 
 #### 46.1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
 
@@ -94,28 +103,32 @@ Verben, die diesem Typ folgen:
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪इयेथ⟫:br⟪इययिथ⟫:briy-e + i-tha | ⟪ईय⟫:bri + iy-a |
-:::⟪नी⟫ 2U
+:::
+⟪नी⟫ 2U
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪निनयिथ⟫:br⟪निनेथ⟫ | ⟪निन्य⟫:brninī + a | ⟪निन्यिषे⟫ | ⟪निन्यिध्वे⟫:br⟪निन्यिढ्वे⟫ |
-:::⟪स्तु⟫ 2U (⟪अनिट्⟫)
+:::
+⟪स्तु⟫ 2U (⟪अनिट्⟫)
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪तुष्टोथ⟫ | ⟪तिष्टुव⟫ | ⟪तुष्टुषे⟫ | ⟪तुष्टुढ्वे⟫ |
-:::⟪कृ⟫ 8U (⟪अनिट्⟫)
+:::
+⟪कृ⟫ 8U (⟪अनिट्⟫)
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
-:::#### 46.1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+:::
+#### 46.1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
 
 Verben, die diesem Typ folgen:
 
@@ -129,14 +142,16 @@ Verben, die diesem Typ folgen:
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪पपरिथ⟫ | ⟪पपर⟫:br= 1.sg.P |
-:::⟪संस्कृ⟫ 8U
+:::
+⟪संस्कृ⟫ 8U
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
-:::### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
+:::
+### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
 
 *   Schwacher Stamm:
     *   vor Konsonant: Tiefstufe-i
@@ -149,14 +164,16 @@ Verben, die diesem Typ folgen:
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪ददाथ⟫:br⟪ददिथ⟫:brda-di-tha:broder::brda-d-i-tha | ⟪दद⟫ | ⟪ददिषे⟫ | ⟪ददिध्वे⟫ |
-:::⟪गै⟫ 1P
+:::
+⟪गै⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
-:::### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
+:::
+### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
 
 #### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
 
@@ -170,74 +187,85 @@ Verben, die diesem Typ folgen:
 5.  vad "sprechen"
 6.  yaj "opfern"
 7.  u.a.
-:::⟪गम्⟫ 1P
+:::
+⟪गम्⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪जगमिथ⟫:br⟪जगन्थ⟫ | ⟪जग्म⟫ |
-:::⟪हन्⟫ 2P
+:::
+⟪हन्⟫ 2P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪जघनित⟫:br⟪जगन्थ⟫ | ⟪जघ्न⟫ |
-:::⟪जन्⟫ 4Ā
+:::
+⟪जन्⟫ 4Ā
 
 :::grammar-box
 | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪जज्ञिषे⟫ | ⟪जज्ञिध्वे⟫ |
-:::⟪यज्⟫ 1U
+:::
+⟪यज्⟫ 1U
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪इयजिथ⟫:br⟪इयष्ठ⟫ | ⟪ईज⟫ | ⟪ईजिषे⟫ | ⟪ईजिध्वे⟫ |
-:::⟪वच्⟫ 1P
+:::
+⟪वच्⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪उवचिथ⟫:br⟪उवक्थ⟫ | ⟪ऊच⟫ |
-:::⟪वह्⟫ 1U
+:::
+⟪वह्⟫ 1U
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪उवहिथ⟫:br⟪उवोढ⟫ | ⟪ऊह⟫ | ⟪ऊहिषे⟫ | ⟪ऊहिध्वे⟫:br⟪ऊहिढ्वे⟫ |
-:::⟪वद्⟫ 1P
+:::
+⟪वद्⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪उवदिथ⟫ | ⟪ऊद⟫ |
-:::⟪स्वप्⟫ 2P
+:::
+⟪स्वप्⟫ 2P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
-:::#### 46.1.7.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+:::
+#### 46.1.7.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
 
 :::grammar-box
 Die 2.sg.P. wird vom schwachen Stamm gebildet, wenn der Bindevokal -i- antritt.
-:::⟪पच्⟫ 1U
+:::
+⟪पच्⟫ 1U
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪पपक्थ⟫:br ***⟪पेचिथ⟫*** | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
-:::#### 46.1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+:::
+#### 46.1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
 
 Verben, die diesem Typ folgen:
 
@@ -250,7 +278,8 @@ Verben, die diesem Typ folgen:
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
-:::### 46.1.8. Besondere Perfekt-Bildungen
+:::
+### 46.1.8. Besondere Perfekt-Bildungen
 
 ⟪विद्⟫ 2P präsentisches Perfekt
 
@@ -259,28 +288,32 @@ Verben, die diesem Typ folgen:
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪वेत्थ⟫ | ⟪विद⟫ |
-:::⟪अह्⟫
+:::
+⟪अह्⟫
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪आत्थ⟫ | \--- |
-:::⟪भू⟫ 1P
+:::
+⟪भू⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪बभूविथ⟫ | ⟪बभूव⟫:br= 1.3.sg.P |
-:::⟪जि⟫ 1P
+:::
+⟪जि⟫ 1P
 
 :::grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
-:::### 46.1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
+:::
+### 46.1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
 
 Das periphrastische Perfekt wird gebildet von:
 
@@ -302,7 +335,8 @@ Das periphrastische Perfekt wird gebildet von:
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
-:::## 46.2. Wortliste
+:::
+## 46.2. Wortliste
 
 ⟪सम⟫ 3: gleich, eben, ähnlich
 
@@ -312,7 +346,8 @@ davon:
 ⟪समता⟫ f.: Gleichmut
 ⟪विषम⟫ 3: ungleich, uneben, böse
 
-:::⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : ergreifen, packen, fassen
+:::
+⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : ergreifen, packen, fassen
 
 :::indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
@@ -335,7 +370,8 @@ davon:
 8.  ⟪राहुः⟫
 9.  ⟪केतुः⟫
 
-:::Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+:::
+Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
 
 > **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 :::media
@@ -354,7 +390,8 @@ Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
 ![](/images/lekt4605.webp)
 Abb.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
 (Bildquelle: [Details](/licenses#lekt4605))
-:::⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sich zufrieden geben, zufrieden sein mit (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+:::
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sich zufrieden geben, zufrieden sein mit (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
 :::indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
@@ -364,7 +401,8 @@ Kaus. ⟪तोषयति⟫
 PPP ⟪तुष्ट⟫  
 Inf. ⟪तोष्टुम्⟫
 
-:::⟪नम्⟫ 1P ⟪नमति⟫ : sich beugen, sich verbeugen, sich neigen, sich verneigen
+:::
+⟪नम्⟫ 1P ⟪नमति⟫ : sich beugen, sich verbeugen, sich neigen, sich verneigen
 
 :::indent
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
@@ -378,7 +416,8 @@ Inf. ⟪नन्तुम्⟫
 ![](/images/lekt4607.webp)
 Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/licenses#lekt4607)
 (Bildquelle: [Details](/licenses#lekt4607))
-:::⟪रुह्⟫ 1P ⟪रोहति⟫ : ersteigen, besteigen
+:::
+⟪रुह्⟫ 1P ⟪रोहति⟫ : ersteigen, besteigen
 
 :::indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
@@ -392,7 +431,8 @@ Inf. ⟪रोढुम्⟫
 ![](/images/lekt4606.webp)
 Abb.: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
 (Bildquelle: [Details](/licenses#lekt4606))
-:::⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : rufen, herbeirufen
+:::
+⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : rufen, herbeirufen
 
 :::indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
@@ -410,7 +450,8 @@ Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 ::::::indent
 1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Wortbildung: A. Payer)
 
-:::⟪विभ्रम⟫ m.: das Hin- und Hergehen
+:::
+⟪विभ्रम⟫ m.: das Hin- und Hergehen
 
 ⟪भ्रंश⟫ m.: das Entfallen
 
@@ -431,7 +472,8 @@ davon:
 ![](/images/lekt4609.webp)
 Abb.: [⟪श्रान्तः⟫](/licenses#lekt4609)
 (Bildquelle: [Details](/licenses#lekt4609))
-:::⟪श्रि⟫ 1U ⟪श्रयति⟫ : lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+:::
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 :::indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
@@ -441,7 +483,8 @@ Kaus. ⟪श्राययति⟫
 PPP ⟪श्रित⟫  
 Inf. ⟪श्रयितुम्⟫
 
-:::⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : anhängen, sich heften an (⟪सप्तम्या⟫)
+:::
+⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : anhängen, sich heften an (⟪सप्तम्या⟫)
 
 :::indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -457,7 +500,8 @@ davon:
 ![](/images/lekt4610.webp)
 Abb.: [⟪सङ्गः⟫](/licenses#lekt4610)
 (Bildquelle: [Details](/licenses#lekt4610))
-:::⟪द्रु⟫ 1P ⟪द्रवति⟫ : laufen, eilen
+:::
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : laufen, eilen
 
 :::indent
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
@@ -468,7 +512,8 @@ PPP ⟪द्रुत⟫
 Inf. ⟪द्रोतुम्⟫  
 Absol. -⟪द्रुत्य⟫
 
-:::⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : umherirren, umherstreifen
+:::
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : umherirren, umherstreifen
 
 :::indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
@@ -480,7 +525,8 @@ Absol. -⟪भ्रम्य⟫
 davon:
 ⟪विभ्रम⟫ m.: Umherirren, Verwirrung, Irrtum
 
-:::⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : herabhängen von (⟪सप्तम्या⟫), hängen an (⟪सप्तम्या⟫)
+:::
+⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : herabhängen von (⟪सप्तम्या⟫), hängen an (⟪सप्तम्या⟫)
 
 :::indent
 Perf. I ⟪ललम्बे⟫  
@@ -495,7 +541,8 @@ Absol. -⟪लम्ब्य⟫
 ![](/images/lekt4601.jpg)
 Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
 (Bildquelle: [Details](/licenses#lekt4601))
-:::⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
+:::
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
 
 ⟪यदि⟫ Konjunktion:  wenn
 
@@ -504,19 +551,22 @@ Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/lic
 :::indent
 PPP ⟪परिभूत⟫ 3: besiegt, gedemütigt, erniedrigt
 
-:::⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+:::
+⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
 
 :::indent
 z.B.
 ⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : sich niedersetzen
 
-:::⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er ***⟪भो⟫***.
+:::
+⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er ***⟪भो⟫***.
 
 :::media
 ![](/images/lekt4611.webp)
 Abb.: [⟪भोः⟫](/licenses#lekt4611)
 (Bildquelle: [Details](/licenses#lekt4611))
-:::## 46.3. Übung
+:::
+## 46.3. Übung
 
 A) Bestimmen und übersetzen Sie folgende Formen:
 
@@ -583,7 +633,8 @@ B) Übersetzen Sie:
 ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫  
 ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥२॥⟫
 
-:::⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
+:::
+⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
 
 :::media
 ![](/images/lekt4612.webp)

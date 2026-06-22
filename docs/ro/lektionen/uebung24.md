@@ -42,7 +42,8 @@ A) Formați dativul singular și dativul (respectiv ablativul) plural și indica
 | ⟪२७⟫. **⟪पूजा⟫** | Închinare | ⟪पूजायै⟫ | ⟪पूजाभ्यः⟫ |
 | ⟪२८⟫. **⟪दासी⟫** | Servitoare | ⟪दास्यै⟫ | ⟪दासीभ्यः⟫ |
 | ⟪२९⟫. **⟪गुरु⟫** | Stăpân | ⟪गुरवे⟫ (m) / ⟪गुर्व्यै⟫ (f) | ⟪गुरुभ्यः⟫ / ⟪गुर्वीभ्यः⟫ |
-:::B) Traduceți și descompuneți compusele în sanscrită:
+:::
+B) Traduceți și descompuneți compusele în sanscrită:
 
 ⟪१⟫. **⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विश⟫ati ⟪॥१॥⟫**
 (⟪देवस्य⟫ ⟪प्रतिमाया⟫ ⟪दर्शनाय⟫ ⟪।⟫ ⟪गर्भ⟫ ⟪एव⟫ ⟪गृहम्⟫)
@@ -82,7 +83,8 @@ Pentru a muri, ființele se nasc.
 ![](/images/uebung037.webp)
 Fig.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung037))
-:::---
+:::
+---
 
 ## Variații sintactice
 

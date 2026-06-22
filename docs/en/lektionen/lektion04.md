@@ -16,7 +16,8 @@ status: stable
 - Sandhi of final -e
 - Sandhi of final -d
 - Simple question formulas
-:::## 4.1. Simple Complement Questions (Word Questions) and Answers
+:::
+## 4.1. Simple Complement Questions (Word Questions) and Answers
 
 ### 4.1.1. Interrogative and Demonstrative Pronouns
 
@@ -28,7 +29,8 @@ status: stable
 | **Neuter** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
 | **Masculine** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
 | **Feminine** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
-:::#### 4.1.1.2. Demonstrative Pronouns (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+:::
+#### 4.1.1.2. Demonstrative Pronouns (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 :::grammar-box
 | **Stems** ||||
@@ -43,7 +45,8 @@ status: stable
 | **Neuter** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
 | **Masculine** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
 | **Feminine** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
-:::**Regarding Nom. sg. masc.:**
+:::
+**Regarding Nom. sg. masc.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) stands before all sounds except short **-a**
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) stands before **-a**, which is elided (omitted) with Avagraha
 - **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) stands only in pause (end of sentence, end of verse)
@@ -54,7 +57,8 @@ In order to be able to form sentences with these pronouns (sarvanāman n.), know
 
 :::grammar-box
 **Final -m is replaced by Anusvāra (-ṃ) before consonants. At the end of a sentence or verse and before vowels, -m remains unchanged.**
-:::### 4.1.3. Sandhi of final -e
+:::
+### 4.1.3. Sandhi of final -e
 
 :::grammar-box
 1. **before a- final -e remains unchanged: the initial a- elides with Avagraha:**
@@ -62,13 +66,15 @@ In order to be able to form sentences with these pronouns (sarvanāman n.), know
 
 2. **Before vowels other than short a- final -e is usually replaced by -a with hiatus. Replacement by -ay also occurs:**
    e.g. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (rare: imay īśvarāh = ⟪इमयीश्वराः⟫) "These LORDS"
-:::### 4.1.4. Sandhi of final -d
+:::
+### 4.1.4. Sandhi of final -d
 
 :::grammar-box
 **Final -d is replaced by -t in pause as well as before voiceless gutturals (k, kh) and labials (p, ph).**
 
 The replacement before other consonants will be discussed later. Avoid such sound collisions for now!
-:::### 4.1.5. Question Formulas
+:::
+### 4.1.5. Question Formulas
 
 Using these pronouns, one forms, for example, the following question formulas:
 
@@ -82,7 +88,8 @@ Using these pronouns, one forms, for example, the following question formulas:
 | **Plural** | **Neuter** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:br:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:br:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
 | | **Masculine** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:br:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:br:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
 | | **Feminine** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:br:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:br:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
-:::::::An example of other questions:
+:::::::
+An example of other questions:
 
 > viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Answer: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Here, one can place the subject, for example, at the beginning of the nominal sentence, to emphasize the connection to the question.)
 

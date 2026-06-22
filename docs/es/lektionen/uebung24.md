@@ -42,7 +42,8 @@ A) Forme el dativo singular y el dativo (respectivamente ablativo) plural y prop
 | ⟪२७⟫. **⟪पूजा⟫** | Adoración | ⟪पूजायै⟫ | ⟪पूजाभ्यः⟫ |
 | ⟪२८⟫. **⟪दासी⟫** | Servidora | ⟪दास्यै⟫ | ⟪दासीभ्यः⟫ |
 | ⟪२९⟫. **⟪गुरु⟫** | Maestro | ⟪गुरवे⟫ (m) / ⟪गुर्व्यै⟫ (f) | ⟪गुरुभ्यः⟫ / ⟪गुर्वीभ्यः⟫ |
-:::B) Traduzca y resuelva los compuestos en sánscrito:
+:::
+B) Traduzca y resuelva los compuestos en sánscrito:
 
 ⟪१⟫. **⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विश⟫ati ⟪॥१॥⟫**
 (⟪देवस्य⟫ ⟪प्रतिमाया⟫ ⟪दर्शनाय⟫ ⟪।⟫ ⟪गर्भ⟫ ⟪एव⟫ ⟪गृहम्⟫)
@@ -82,7 +83,8 @@ Para morir, los seres nacen.
 ![](/images/uebung037.webp)
 Fig.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung037))
-:::---
+:::
+---
 
 ## Variaciones sintácticas
 

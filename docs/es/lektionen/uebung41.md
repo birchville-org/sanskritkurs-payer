@@ -35,7 +35,8 @@ Esta triple refugio es crucial para poseer la motivación y la perseverancia nec
 Lo esencial, sin embargo, no es la personalidad del salvador, sino la doctrina de salvación, que permite al individuo recorrer el camino por sí mismo. Hay que estar tan convencido de la doctrina que se movilice la energía para probar su veracidad (**Refugio en el Dharma**).
 
 Además, hay que estar convencido de que otros han recorrido este camino con éxito. Esta es la **Refugio en la Sangha**, la comunidad de aquellos que han alcanzado la liberación en el camino de Buda.
-:::⟪२⟫. **⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
+:::
+⟪२⟫. **⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 "Iré a Benarés (Kāśī), veré el Ganges y moriré allí" — con este pensamiento, el venerable anciano dejó a sus hijos, nietos y posesiones y se trasladó a Benarés. Creo que así superará el sufrimiento que debe terminar.
 
 ⟪३⟫. **⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**

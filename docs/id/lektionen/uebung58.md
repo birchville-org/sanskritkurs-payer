@@ -37,7 +37,8 @@ Determine and translate the following forms and form the corresponding **iṣ-Ao
 ![](/images/uebung095.webp)
 Fig.: ⟪तब्लाः⟫
 (Image source: [Details](/en/licenses#uebung095))
-:::---
+:::
+---
 
 ## B) Word Determinations
 

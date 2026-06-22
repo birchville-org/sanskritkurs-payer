@@ -104,7 +104,8 @@ A) Form the causative for the following verb forms and participial forms:
 | ⟪हन्⟫ | ⟪घातयति⟫ | to have killed, to cause to die |
 | ⟪जि⟫ | ⟪जापयति⟫ | to cause to conquer |
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | to enliven |
-:::B) Translate the following sentences and form sentences using the simple verbs that express what happens when that which is expressed by the causative is brought about.
+:::
+B) Translate the following sentences and form sentences using the simple verbs that express what happens when that which is expressed by the causative is brought about.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
 The Kṣatriya, in order to defeat the enemies, has had a Brāhmaṇa named Hari and Hara worshipped with a sacrifice and will fight the enemies.

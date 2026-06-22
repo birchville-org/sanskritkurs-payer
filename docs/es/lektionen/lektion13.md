@@ -18,7 +18,8 @@ Casi todas las raíces en -d forman el PPP en -na-. En este caso, -d-n- se reemp
 Ejemplo:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
-:::---
+:::
+---
 
 ## 13.2. Más sobre el uso del PPP
 
@@ -64,7 +65,8 @@ Ejemplo:
 
 :::indent
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Un santo ve el fruto deseado (de sus obras)."
-:::::::---
+:::::::
+---
 
 ## 13.4. Formación de adjetivos en -mant y -vant (taddhita)
 
@@ -80,7 +82,8 @@ Ejemplos:
 ⟪पशुमन्त्⟫ "que posee ganado"
 
 ⟪गुणवन्त्⟫ "que posee buenas cualidades / virtud"
-:::::::---
+:::::::
+---
 
 ## 13.5. Descenso de la raíz de los nombres
 
@@ -88,7 +91,8 @@ Las raíces en -mant o -vant pertenecen a los nombres con descenso de raíz.
 
 :::grammar-box
 En los nombres con descenso de raíz, se distingue entre casos fuertes (casos) y casos débiles. En los casos fuertes, el sufijo formador de la raíz —en el caso de los nombres radicales, el componente radical— tiene el grado alto o el grado alargado; en los casos débiles, el grado bajo.
-:::**Los casos fuertes son:**
+:::
+**Los casos fuertes son:**
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
@@ -99,7 +103,8 @@ En los nombres con descenso de raíz, se distingue entre casos fuertes (casos) y
 
 :::grammar-box
 Como prefijo de un compuesto, un nombre con descenso de raíz aparece en la raíz débil (en el caso de los nombres de tres raíces, en la llamada raíz media).
-:::---
+:::
+---
 
 ## 13.6. Sobre el Sandhi de palabras
 
@@ -132,7 +137,8 @@ En el caso de las raíces que terminan en consonante:
 * en las raíces de formación regular, el neutro en nominativo (prathamā) y acusativo (dvitīyā) singular carece de desinencia.
 * en las raíces de formación regular, en el neutro, la desinencia del nominativo y acusativo en plural es -i.
 
-:::---
+:::
+---
 
 ## 13.8. Declinación de las raíces en -mant y -vant
 
@@ -157,7 +163,8 @@ La raíz femenina de las raíces en -mant- y -vant- termina en -mat-ī o -vat-ī
 Ejemplo:
 * paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
 
-:::---
+:::
+---
 
 ## 13.9. Lista de palabras
 
@@ -182,7 +189,8 @@ Aprenda las siguientes palabras:
 ![](/images/lekt1301.webp)
 Fig.: ⟪महिषासुरः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1301))
-:::- **guṇa** m. ⟪गुण⟫ : hilo, cuerda; propiedad, buena propiedad
+:::
+- **guṇa** m. ⟪गुण⟫ : hilo, cuerda; propiedad, buena propiedad
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : ir, caer en
 - **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : ser, estar presente
 - **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : lanzar, (arrojar lejos)
@@ -191,7 +199,8 @@ Fig.: ⟪महिषासुरः⟫
 
 :::indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : beber (traditionally counted as class 1)
-:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : odiar, hostilizar
+:::
+- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : odiar, hostilizar
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : comer, consumir
 - **anna** n. ⟪अन्न⟫ : comida (del PPP: *ad-na: lo comido)
 
@@ -199,7 +208,8 @@ Fig.: ⟪महिषासुरः⟫
 ![](/images/lekt1304.webp)
 Fig.: ⟪अन्नम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1304))
-:::Formación de palabras:
+:::
+Formación de palabras:
 
 pad 4 Ā:
 
@@ -211,11 +221,13 @@ pad 4 Ā:
 ![](/images/lekt1303.webp)
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1303))
-:::dviṣ 2 U:
+:::
+dviṣ 2 U:
 
 :::indent
 **dveṣa** ⟪द्वेष⟫ : odio
-:::---
+:::
+---
 
 ## 13.10. Ejercicio
 
@@ -229,7 +241,8 @@ A) Traduzca y convierta en oraciones en presente activo:
 ![](/images/lekt1305.webp)
 Fig.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1305))
-:::⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 posibilidades)
+:::
+⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 posibilidades)
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
@@ -286,7 +299,8 @@ C) Forme una construcción de participio pasado pasivo (PPP) para las oraciones 
 ![](/images/lekt1302.webp)
 Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1302))
-:::D) ¿De qué combinaciones de sonidos pueden haber surgido las siguientes formas de Sandhi? Indique todas las posibilidades:
+:::
+D) ¿De qué combinaciones de sonidos pueden haber surgido las siguientes formas de Sandhi? Indique todas las posibilidades:
 
 1. -a ante vocal (excepto a-)
 2. -ā-

@@ -78,7 +78,8 @@ A) Convert the following verbal forms into the corresponding optative forms with
 | ⟪६३⟫. **⟪अर्हति⟫** | ⟪अर्हेत्⟫ |
 | ⟪६४⟫. **⟪अदन्ति⟫** | ⟪अद्युः⟫ |
 | ⟪६५⟫. **⟪अध्यापयन्ति⟫** | ⟪अध्यापयेयुः⟫ |
-:::B) Translate the following sentences and resolve the Sanskrit compounds:
+:::
+B) Translate the following sentences and resolve the Sanskrit compounds:
 
 ⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
 (⟪आर्याणि⟫ ⟪सत्यानि⟫)
@@ -119,7 +120,8 @@ Speak truths that are pleasant; do not speak unpleasant truths. Do not speak ple
 ![](/images/uebung048.webp)
 Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Image source: [Details](/en/licenses#uebung048))
-:::---
+:::
+---
 
 ## Word-form determination
 

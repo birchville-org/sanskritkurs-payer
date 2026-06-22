@@ -18,7 +18,8 @@ last_reconstructed: 2026-05-07
 - Kelas 8 kata kerja sekarang (tanādi)
 - Konjugasi **kṛ** (tun, membuat)
 
-:::---
+:::
+---
 
 ## 8.1. Tentang pembentukan nomina
 
@@ -35,7 +36,8 @@ Dalam tata bahasa India tradisional, dibedakan pada akhiran, dengan mana akar no
 
 **Stem nominal + akhiran kasus » kata benda yang bersintaksis**
 
-:::---
+:::
+---
 
 ## 8.2. Pembagian Akhiran Nomina
 
@@ -70,7 +72,8 @@ Dalam tata bahasa India tradisional, dibedakan pada akhiran, dengan mana akar no
 :::grammar-box
 **Afiks kṛt -a membentuk kata benda maskulin (jarang netral) yang menunjukkan tindakan atau keadaan yang ditunjuk oleh akar; kadang-kadang juga kata sifat atau kata benda yang mengekspresikan agen (kartṛ) dari tindakan yang ditunjuk oleh akar verba. Untuk penultima pendek (= vokal sebelum konsonan, di mana akar berakhir) atau vokal akar akhir, biasanya diganti dengan tingkat tinggi (guṇa) atau tingkat panjang (vṛddhi).**
 
-:::**Contoh:**
+:::
+**Contoh:**
 
 
 
@@ -107,7 +110,8 @@ Dalam tata bahasa India tradisional, dibedakan pada akhiran, dengan mana akar no
 :::grammar-box
 **Afiks kṛt -ana umumnya membentuk kata benda netral yang menunjukkan tindakan, keadaan, atau alat/perangkat yang melalui mana tindakan yang dinyatakan oleh akar atau bentuk verbal terwujud. Untuk penultima pendek atau vokal akhir akar, biasanya diganti dengan tingkat tinggi (guṇa).**
 
-:::**Contoh:**
+:::
+**Contoh:**
 
 
 
@@ -134,13 +138,15 @@ Dalam tata bahasa India tradisional, dibedakan pada akhiran, dengan mana akar no
 Gambar: Maa Batakali Darshan, Puri, Orissa
 (Sumber gambar: [Details](/id/licenses#lekt0801))
 
-::::::note-box
+::::::
+note-box
 **"Darshan"** atau **"Darshana"** adalah istilah dalam Hinduisme yang merujuk pada pandangan dan visi terhadap yang suci dan ilahi. Di bawah *Darshana*, misalnya, dimaksudkan pertemuan resmi antara murid dan guru, di mana murid telah diundang oleh guru. Namun, hal ini juga dapat berarti *menyatu* saat memandang patung dewa. Makna terakhir inilah yang paling umum digunakan dalam bahasa Hindi kontemporer. Dalam konteks Mata Amritanandamayi, Darshan berarti pelukan dari Guru.
 
 Orang-orang Hindu yang saleh pergi ke kuil untuk mendapatkan pandangan terhadap Tuhan melalui simbol atau patung, di mana kehadiran spiritual dewa dianggap ada. Dalam arti ini, juga berupa berkah dari dewa. Darshan juga dapat diterima melalui visi terhadap dewa saat berdoa atau meditasi. Seorang manusia hidup yang dianggap sebagai inkarnasi dewa, seperti seorang Avatara, juga dapat memberikan Darshan.
 (Sumber: Wikipedia)
 
-:::---
+:::
+---
 
 ### 8.3.3. -tra n. (kṛt)
 
@@ -149,7 +155,8 @@ Orang-orang Hindu yang saleh pergi ke kuil untuk mendapatkan pandangan terhadap 
 :::grammar-box
 **Afiks kṛt -tra membentuk (biasanya) kata benda netral yang menunjukkan alat atau sarana, melalui mana tindakan yang dinyatakan oleh akar kata terjadi. Penultima pendek dan vokal akhir akar kata digantikan oleh tingkat tinggi (guṇa).** :::
 
-:::**Contoh:**
+:::
+**Contoh:**
 
 
 
@@ -187,7 +194,8 @@ Orang-orang Hindu yang saleh pergi ke kuil untuk mendapatkan pandangan terhadap 
 | In Malayalam-Schrift | Jaina-Oṃ |
 (Sumber gambar: [Rincian](/id/licenses#lekt0803))
 
-:::---
+:::
+---
 
 ### 8.3.4. -ti f. (kṛt)
 
@@ -196,7 +204,8 @@ Orang-orang Hindu yang saleh pergi ke kuil untuk mendapatkan pandangan terhadap 
 :::grammar-box
 **Sufiks kṛt -ti membentuk kata benda feminin, yang umumnya mengekspresikan tindakan yang ditunjuk oleh akar kata atau keadaan yang ditunjuk oleh akar kata. Bentuk akar kata berada dalam tingkat rendah (guṇa).**
 
-:::**Contoh:**
+:::
+**Contoh:**
 
 
 
@@ -229,7 +238,8 @@ Orang-orang Hindu yang saleh pergi ke kuil untuk mendapatkan pandangan terhadap 
 :::grammar-box
 **Afiks taddhita -tva n. dan -tā f. membentuk kata benda abstrak dari nomina. Bentuk dasar nominal yang mendasarinya tetap tidak berubah.**
 
-:::**Contoh:**
+:::
+**Contoh:**
 
 
 
@@ -262,7 +272,8 @@ Contoh **tan** 8 U (⟪तन्⟫) "merenggangkan":
 - 3\. sg. Ā. **tanute**:br⟪तनुते⟫
 - 3\. pl. Ā. **tanvate**:br⟪तन्वते⟫
 
-:::Catatan: Mengenai perdebatan apakah **tan** sebenarnya merupakan akar dari kelas ke-5 (*tn » ta + no-), lihat Thumb-Hauschild, Handbuch des Sanskrit II, 265.
+:::
+Catatan: Mengenai perdebatan apakah **tan** sebenarnya merupakan akar dari kelas ke-5 (*tn » ta + no-), lihat Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
 Akar utama dari Kelas 8 adalah **kṛ** 8 U (⟪कृ⟫) "melakukan, membuat". Konjugasinya tidak beraturan:
 
@@ -275,7 +286,8 @@ Akar utama dari Kelas 8 adalah **kṛ** 8 U (⟪कृ⟫) "melakukan, membuat".
 - 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
 - 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
 
-:::---
+:::
+---
 
 ## 8.5. Daftar Kosakata
 
@@ -311,7 +323,8 @@ Gambar: **likh** (⟪लिख्⟫) : Pensil tulis India dari baja untuk mengg
 Gambar: **likh** (⟪लिख्⟫) : batang tulis dari suku Batak (Sumatra), yang kemungkinan juga digunakan di India
 (Sumber gambar: [Detail](/id/licenses#lekt0809))
 
-:::- **sukha** n. ⟪सुख⟫ : Kebahagiaan, kesejahteraan
+:::
+- **sukha** n. ⟪सुख⟫ : Kebahagiaan, kesejahteraan
 - **duḥkha** n. ⟪दुःख⟫ : Kesengsaraan, penderitaan
 
 ---

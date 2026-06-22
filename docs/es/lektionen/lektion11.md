@@ -15,7 +15,8 @@ status: stable
 - El uso de las partículas **iti**, **evam** y **na**
 - Conceptos básicos como **dharma**, **adharma** y **putra**
 - La formación de nombres a partir de las raíces **vad**, **prach** e **iṣ**
-:::## 11.1. Acusativo doble
+:::
+## 11.1. Acusativo doble
 
 :::grammar-box
 **Algunos verbos pueden regir un doble acusativo (dvitīyā): acusativo de la persona y acusativo de la cosa.**
@@ -35,7 +36,8 @@ p.ej. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब�
 
 p.ej. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma pregunta por el dharma."
 » Pasiva: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
-:::---
+:::
+---
 
 ## 11.2. Lista de palabras
 
@@ -68,7 +70,8 @@ p.ej. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ 
 ![](/images/lekt1102.webp)
 Fig.: **vadanāni** = ⟪वदनानि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1102))
-:::- **prach** 6 P ⟪प्रच्छ्⟫ : preguntar
+:::
+- **prach** 6 P ⟪प्रच्छ्⟫ : preguntar
   - **praśna** m. ⟪प्रश्न⟫ : pregunta (sufijo **-na** como en **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : desear
@@ -103,7 +106,8 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 ![](/images/lekt1101.webp)
 Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1101))
-:::---
+:::
+---
 
 ## 11.4. Ejercicio de repaso
 

@@ -45,13 +45,15 @@ ad esempio:
 
 Il genere di un Tatpuruṣa è, con poche eccezioni, quello del suo secondo elemento.
 
-:::## 15.3. Determinativkomposita mit attributivem/appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
+:::
+## 15.3. Determinativkomposita mit attributivem/appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
 
 :::grammar-box
 
 Nella scomposizione del Karmadhāraya, entrambi i membri del composto si trovano nello stesso caso.
 
-:::ad es.
+:::
+ad es.
 
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "un figlio con buone qualità"  
 Acc. sg. ⟪गुणवत्पुत्रम्⟫  
@@ -86,13 +88,15 @@ Per quanto riguarda la sequenza dei membri in un Karmadhāraya, si deve osservar
 ![](/images/lekt1503.webp)
 Fig.: ⟪नरसिंहः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1503))
-:::## 15.4. Composti determinativi con un primo membro che ha con il secondo membro una relazione casuale non attributiva/appositiva = Tatpuruṣa in senso stretto
+:::
+## 15.4. Composti determinativi con un primo membro che ha con il secondo membro una relazione casuale non attributiva/appositiva = Tatpuruṣa in senso stretto
 
 :::grammar-box
 
 Le combinazioni di tipo *Tatpuruṣa* sono possibili per connessioni di nominali (sostantivi e aggettivi), nelle quali il primo membro – in conformità alle regole della sintassi – può trovarsi in qualsiasi caso. Come previsto, il primo membro rappresenta più frequentemente il genitivo (⟪षष्ठी⟫), poiché questo è il caso che esprime la relazione tra nominali.
 
-:::ad es.
+:::
+ad es.
 
 ⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "il figlio di un Kṣatriya", "un giovane Kṣatriya", "un membro del gruppo dei Kṣatriyas"  
 Acc. sg. ⟪क्षत्रियपुत्रम्⟫  
@@ -113,7 +117,8 @@ Il primo membro di un *Tatpuruṣa* può però, in linea di principio, rappresen
 
 Il primo membro può trovarsi, nella risoluzione del composto, al singolare, duale o plurale. Quale delle possibilità sia in gioco deve essere dedotto dal significato e dal contesto.
 
-:::Esempi:
+:::
+Esempi:
 
 Il primo membro rappresenta l’accusativo (⟪द्वितीया⟫): ad es., in alcuni participi passati (PPP) derivati da verbi di movimento (Pāṇini 2,1,24):
 
@@ -136,7 +141,8 @@ Sebbene in sanscrito si possano formare composti di lunghezza arbitraria e ciò 
 :::media
 ![]/images/lekt1502.jpg
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt1502))
-:::e così via, fino a giungere ai singoli stemi lessicali.
+:::
+e così via, fino a giungere ai singoli stemi lessicali.
 
 Esempio:
 
@@ -181,7 +187,8 @@ Esempio:
 > 3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = “ciò che è stato fatto, meritorio, dal mio figlio”
 >    2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = “la meritosa azione del mio figlio”
 
-:::## 15.6. La forma del primo membro nei composti (⟪समास⟫ m.)
+:::
+## 15.6. La forma del primo membro nei composti (⟪समास⟫ m.)
 
 :::grammar-box
 
@@ -192,7 +199,8 @@ ad esempio:
 ⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "una donna Kṣatriya che possiede merito"  
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "un figlio con buone qualità"
 
-:::## 15.7. Classificazione dei ⟪तत्पुरुष⟫
+:::
+## 15.7. Classificazione dei ⟪तत्पुरुष⟫
 
 1.  **⟪प्रथमातत्पुरुषः⟫**: il primo componente (Vorderglied) si trova nel ⟪विग्रहवाक्य⟫ (frase di analisi) al nominativo (⟪प्रथमा⟫).
 2.  **⟪द्वितीयातत्पुरुषः⟫**: il primo componente si trova nel ⟪विग्रहवाक्य⟫ all'accusativo (⟪द्वितीया⟫).
@@ -247,14 +255,16 @@ ad esempio:
 ![](/images/lekt1504.webp)
 Fig.: ⟪पूजा⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1504))
-:::⟪कुल⟫ n.: branco, moltitudine, stirpe, discendenza, famiglia
+:::
+⟪कुल⟫ n.: branco, moltitudine, stirpe, discendenza, famiglia
 
 ⟪इन्द्र⟫ m.: principe, primo, il migliore tra; re degli dei Indra
 :::media
 ![](/images/lekt1505.webp)
 Fig.: ⟪इन्द्रः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1505))
-:::⟪दास⟫ m.: schiavo, servo, domestico
+:::
+⟪दास⟫ m.: schiavo, servo, domestico
 
 ⟪दासी⟫ f.: schiava, serva, domestica
 
@@ -274,17 +284,20 @@ da ciò:
 ⟪स्तुति⟫ f.: lode, canto di lode
 
 ⟪स्तोत्र⟫ n.: (mezzo per lodare =) canto di lode, inno
-:::⟪सिंह⟫ m.: leone (_Panthera leo persica_)
+:::
+⟪सिंह⟫ m.: leone (_Panthera leo persica_)
 :::media
 ![](/images/lekt1506.webp)
 Fig.: ⟪सिंहः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1506))
-:::⟪व्याघ्र⟫ m.: tigre (_Panthera tigris tigris_) (letteralmente: sbadigliatore)
+:::
+⟪व्याघ्र⟫ m.: tigre (_Panthera tigris tigris_) (letteralmente: sbadigliatore)
 :::media
 ![](/images/lekt1507.webp)
 Fig.: ⟪व्याघ्रः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1507))
-:::⟪इव⟫ (posposto): come, quasi (nei confronti: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un uomo come una tigre", "un uomo simile a una tigre")
+:::
+⟪इव⟫ (posposto): come, quasi (nei confronti: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un uomo come una tigre", "un uomo simile a una tigre")
 
 ⟪एव⟫ (posposto): enfatizza il precedente, in tedesco corrisponde spesso all'enfasi, un tipo di emoticon `&lt;!&gt;`, es. ⟪सत्यमेव⟫ ⟪जयति⟫ "solo la verità vince", "proprio la verità vince", "la verità vince"
 
@@ -292,11 +305,13 @@ Fig.: ⟪व्याघ्रः⟫
 
 :::indent
 ⟪आर्य⟫ 3: ariano, nobile; m. Ariano (autodefinizione degli antichi indiani parlanti sanscrito, letteralmente: Ospitale (Thieme)); Nobile, Uomo d'onore
-:::a ⟪जन्⟫
+:::
+a ⟪जन्⟫
 
 :::indent
 ⟪जाति⟫ f.: nascita, tipo, casta (per ⟪जाति⟫ come casta vedere Basham, Wonder, pagg. 148ss.)
-:::⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : morire (secondo i grammatici indiani: 6 Ā)
+:::
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : morire (secondo i grammatici indiani: 6 Ā)
 
 da ciò:
 
@@ -306,7 +321,8 @@ da ciò:
 ⟪मृति⟫ f.: morire, morte
 
 ⟪मृत्यु⟫ m.: morte; personificato: dio della morte
-:::## 15.9. Esercizio 1
+:::
+## 15.9. Esercizio 1
 
 Scomporre i seguenti composti tatpuruṣa in sanscrito e fornire una traduzione in tedesco. Indicare tutte le scomposizioni e le traduzioni che si ritengono possibili. Specificare inoltre il caso e il numero del composto nel suo complesso.
 
@@ -498,7 +514,8 @@ Risolvere, come nell’Esercizio 1, i seguenti composti tatpuruṣa:
 ![](/images/lekt1508.webp)
 Fig.: ⟪ग्रामदेवता⟫
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt1508))
-:::## 15.11. Esercizio 3
+:::
+## 15.11. Esercizio 3
 
 A) Tradurre il proverbio all’inizio della lezione
 

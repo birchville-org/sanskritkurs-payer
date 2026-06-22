@@ -24,7 +24,8 @@ La syllabe de répétition est composée d'(un consonne et) d'une voyelle.
 :::grammar-box
 **1. Habituellement :**  
 **Répétition de la première consonne de la racine**
-:::Exemples :
+:::
+Exemples :
 
 :::indent
 **⟪दा⟫** 3 "donner"
@@ -37,7 +38,8 @@ La syllabe de répétition est composée d'(un consonne et) d'une voyelle.
 * 3.sg.Ā.Ind.Présent. ***⟪मि⟫***⟪मीते⟫
 ::::::grammar-box
 **2. Un consonne initial aspiré d'une racine est redoublé par le consonne non-aspiré correspondant.**
-:::Exemples :
+:::
+Exemples :
 
 :::indent
 **⟪धा⟫** 3 "placer"
@@ -51,8 +53,10 @@ La syllabe de répétition est composée d'(un consonne et) d'une voyelle.
 :::indent
 **⟪क्⟫**, **⟪ख्⟫** par **⟪च्⟫**  
 **⟪ग्⟫**, **⟪घ्⟫** par **⟪ज्⟫**
-:::**⟪ह्⟫ est toujours redoublé par ⟪ज्⟫.**
-::::Exemples :
+:::
+**⟪ह्⟫ est toujours redoublé par ⟪ज्⟫.**
+::::
+Exemples :
 
 :::indent
 **⟪हु⟫** 3 "(verser) dans le feu"
@@ -61,12 +65,14 @@ La syllabe de répétition est composée d'(un consonne et) d'une voyelle.
 **4. Si une racine commence par plusieurs consonnes, seule la première (le cas échéant en appliquant les règles 2 ou 3) est répétée.**
 ::::::grammar-box
 **5. Si une racine commence par un groupe de consonnes sifflante + consonne sourde, ce n'est pas la sifflante qui est redoublée, mais la consonne sourde suivante selon les règles ci-dessus.**
-:::Exemple :
+:::
+Exemple :
 
 :::indent
 **⟪स्था⟫** 1 "se tenir debout"
 * 3.sg.P.Ind.Présent. **⟪तिष्ठति⟫**
-:::## 33.2. La troisième classe de présent (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etc.")
+:::
+## 33.2. La troisième classe de présent (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etc.")
 
 :::grammar-box
 **Formation :**
@@ -78,13 +84,15 @@ La syllabe de répétition est composée d'(un consonne et) d'une voyelle.
 **racine redoublée au niveau accentué bas + désinence**
 
 **Les règles données ci-dessus s’appliquent à la consonne de redoublement.**
-:::### 33.2.1. Le voyable de redoublement de la 3e classe de présent
+:::
+### 33.2.1. Le voyable de redoublement de la 3e classe de présent
 
 :::grammar-box
 * **Le voyable de redoublement régulier est -i-**
 * **les racines contenant -u redoublent avec -u-**
 * **les racines ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ avec -a-**
-:::Exemples :
+:::
+Exemples :
 
 ::::grammar-box
 **⟪हु⟫** 3P « verser dans le feu (pour le sacrifice) »
@@ -97,7 +105,8 @@ La syllabe de répétition est composée d'(un consonne et) d'une voyelle.
 | **Indicatif présent** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | &lt;⟪जुहुते⟫&gt; | &lt;⟪जुह्वते⟫&gt;:brjuhu + ate |
 | **Imparfait** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | &lt;⟪अजुहुत⟫&gt; | &lt;⟪अजुह्वत⟫&gt;:bra-juhu + ata |
 | **Optatif** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | &lt;⟪जुह्वीत⟫&gt;:brjuhu + ī-ta | &lt;⟪जुह्वीरन्⟫&gt;:brjuhu + ī-ran |
-::::## 33.3. Sur l’ablaut de ā
+::::
+## 33.3. Sur l’ablaut de ā
 
 ā kann
 
@@ -116,7 +125,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
     ex. **⟪धा⟫** 3.pl.P.Ind.Présent. **⟪दधति⟫** (dadh-ati)
 * **Degré fort : -ā-**  
   ex. **⟪धा⟫** 3.sg.P.Ind.Présent. **⟪दधाति⟫**
-:::Ici appartiennent par ex. aussi :
+:::
+Ici appartiennent par ex. aussi :
 
 :::indent
 **⟪स्था⟫** 1
@@ -129,11 +139,13 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
   ex. **⟪पा⟫** 1 : PPP **⟪पीत⟫** (pī-ta)
 * **Degré fort : -ā-**  
   ex. **⟪पा⟫** 1 : Inf. **⟪पातुम्⟫**
-::::## 33.4. Racines en -ā de la troisième classe de présent
+::::
+## 33.4. Racines en -ā de la troisième classe de présent
 
 :::grammar-box
 **Les racines en -ā (sauf ⟪दा⟫ et ⟪धा⟫) ont généralement un thème faible se terminant par -ī-** (voir Thumb-Hauschild Vol. 1,1 p. 271. Il est probable que la série d’ablaut B mentionnée ci-dessus ait servi de modèle, bien que ces racines suivent autrement la série A), **devant les terminaisons vocaliques, la voyelle de la racine disparaît complètement (voir série d’ablaut A).**
-:::Exemples :
+:::
+Exemples :
 
 ::::grammar-box
 **⟪मा⟫** 3Ā "mesurer"
@@ -151,7 +163,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Indicatif Présent** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Imparfait** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optatif** | ⟪जह्यात्⟫:brjah-yā-t:br(La racine **⟪हा⟫** a avant l’optatif-yā/y la même forme qu’avant les voyelles !) | ⟪जह्युर्⟫:brjah-y-ur |
-::::### 33.4.1. Les racines **⟪दा⟫** et **⟪धा⟫**
+::::
+### 33.4.1. Les racines **⟪दा⟫** et **⟪धा⟫**
 
 :::grammar-box
 **Les racines ⟪दा⟫ et ⟪धा⟫ se redupliquent avec la voyelle -a- et perdent la voyelle racine dans le thème faible.**
@@ -165,7 +178,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Indicatif présent** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Explication : Thumb-Hauschild 1,1 p. 302s.) | ⟪दधते⟫:brdadh-ate |
 | **Imparfait** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optatif** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
-::::Les formes de **⟪दा⟫** s’obtiennent en remplaçant **dh** par **d** dans le paradigme de **⟪धा⟫**. Ainsi :
+::::
+Les formes de **⟪दा⟫** s’obtiennent en remplaçant **dh** par **d** dans le paradigme de **⟪धा⟫**. Ainsi :
 
 ::::grammar-box
 **⟪दा⟫** 3U "donner"
@@ -175,13 +189,15 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Indicatif présent** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
 | **Imparfait** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optatif** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
-::::## 33.5. Le participe présent Parasmaipada des racines de la 3e classe de présent
+::::
+## 33.5. Le participe présent Parasmaipada des racines de la 3e classe de présent
 
 :::grammar-box
 **Les verbes de la 3e classe forment toutes les formes du participe présent Parasmaipada à partir du thème faible.**
 
 **Exception : le nominatif/accusatif pluriel neutre peut être formé soit à partir du thème fort, soit à partir du thème faible.**
-:::**⟪दा⟫** Participe présent Parasmaipada :
+:::
+**⟪दा⟫** Participe présent Parasmaipada :
 
 ::::grammar-box
 | | Masculin:br⟪पुंल्लिङ्ग⟫ | Neutre:br⟪नपुंसकलिङ्ग⟫ | Féminin:br⟪स्त्रीलिङ्ग⟫ |
@@ -192,7 +208,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Pluriel** | | | |
 | **1. Nominatif** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
 | **2. Accusatif** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
-::::De manière similaire **⟪जुह्वत्⟫** (juhu-at + s)
+::::
+De manière similaire **⟪जुह्वत्⟫** (juhu-at + s)
 
 ## 33.6. Liste de mots
 
@@ -212,7 +229,8 @@ dont :
 ![](/images/lekt3306.webp)
 Fig. : ⟪दानम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3306))
-:::**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫** : (en réception) prendre, prendre possession, emporter
+:::
+**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫** : (en réception) prendre, prendre possession, emporter
 
 :::indent
 **Absol.** ⟪आदाय⟫ : avec Acc. : en compagnie de, avec
@@ -220,7 +238,8 @@ Fig. : ⟪दानम्⟫
 ![](/images/lekt3307.webp)
 Fig. : ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3307))
-:::***⟪धा⟫*** 3U ***⟪दधाति⟫*** : placer, fixer, attribuer
+:::
+***⟪धा⟫*** 3U ***⟪दधाति⟫*** : placer, fixer, attribuer
 
 :::indent
 **Fut.** ***⟪धास्यति⟫***  
@@ -228,7 +247,8 @@ Fig. : ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **Kaus.** ***⟪धापयति⟫***  
 **PPP** ***⟪हित⟫*** (!!)  
 **Inf.** ***⟪धातुम्⟫***
-:::**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫** : diriger toute l'attention sur quelque chose, se recueillir
+:::
+**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫** : diriger toute l'attention sur quelque chose, se recueillir
 
 :::indent
 dont :
@@ -238,7 +258,8 @@ dont :
 ![](/images/lekt3305.webp)
 Fig. : ⟪समाधि⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3305))
-:::**⟪पॄ⟫** 3P **⟪पिपर्ति⟫** : remplir, remplir
+:::
+**⟪पॄ⟫** 3P **⟪पिपर्ति⟫** : remplir, remplir
 
 :::indent
 Retenir :
@@ -251,7 +272,8 @@ Retenir :
 **Pass.** ⟪पूर्यते⟫  
 **Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
 **PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
-:::**⟪पॄ⟫** + **⟪सम्⟫** seulement **Pass.** ⟪सम्पूर्यते⟫ et **Kaus.** : remplir entièrement
+:::
+**⟪पॄ⟫** + **⟪सम्⟫** seulement **Pass.** ⟪सम्पूर्यते⟫ et **Kaus.** : remplir entièrement
 
 **⟪भी⟫** 3P **⟪बिभेति⟫** : avoir peur de (Abl., Gen.)
 
@@ -269,7 +291,8 @@ dont :
 ![](/images/lekt3304.webp)
 Fig. : ⟪भयम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3304))
-:::**⟪भृ⟫** 3U **⟪बिभर्ति⟫** : porter, apporter ; maintenir, nourrir
+:::
+**⟪भृ⟫** 3U **⟪बिभर्ति⟫** : porter, apporter ; maintenir, nourrir
 
 :::indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -281,7 +304,8 @@ Fig. : ⟪भयम्⟫
 dont :
 
 **⟪भार⟫** m. : fardeau
-:::**⟪मा⟫** 3Ā **⟪मिमीते⟫** : mesurer
+:::
+**⟪मा⟫** 3Ā **⟪मिमीते⟫** : mesurer
 
 :::indent
 **Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
@@ -289,7 +313,8 @@ dont :
 **Kaus.** ⟪मापयति⟫  
 **PPP** ⟪मित⟫  
 **Inf.** ⟪मातुम्⟫
-:::**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫** : comparer
+:::
+**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫** : comparer
 
 :::indent
 dont :
@@ -297,7 +322,8 @@ dont :
 **⟪उपमा⟫** f. : comparaison
 
 **⟪प्रतिमा⟫** f. : image
-:::**⟪हा⟫** 3P **⟪जहाति⟫** : quitter
+:::
+**⟪हा⟫** 3P **⟪जहाति⟫** : quitter
 
 :::indent
 **Fut.** ⟪हास्यति⟫  
@@ -312,7 +338,8 @@ de PPP **⟪हीन⟫** :
 ![](/images/lekt3303.webp)
 Fig. : ⟪हीनयानमेव⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3303))
-:::**⟪हु⟫** 3P **⟪जुहोति⟫** : verser dans le feu (comme offrande, surtout beurre fondu)
+:::
+**⟪हु⟫** 3P **⟪जुहोति⟫** : verser dans le feu (comme offrande, surtout beurre fondu)
 
 :::indent
 **Fut.** ⟪होष्यति⟫  
@@ -325,13 +352,16 @@ Fig. : ⟪हीनयानमेव⟫
 Fig. : ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3302))
 
-:::**⟪घृत⟫** n.: Beurre clarifié, ghee (⟪घी⟫ / گھی / ⟪घी⟫)
+:::
+**⟪घृत⟫** n.: Beurre clarifié, ghee (⟪घी⟫ / گھی / ⟪घी⟫)
 
-:::note-box
+:::
+note-box
 « Le ghee est produit en faisant mijoter du beurre non salé dans une grande casserole jusqu'à ce que toute l'eau se soit évaporée et que les protéines se soient déposées au fond. Le beurre cuit et clarifié est ensuite prélevé à la cuillère pour éviter de troubler les solides laitiers au fond de la poêle. Contrairement au beurre, le ghee peut être conservé pendant de longues périodes sans réfrigération, à condition d'être conservé dans un contenant hermétique pour prévenir l'oxydation et de rester exempt d'humidité. La texture, la couleur ou le goût du ghee dépendent de la source de lait à partir de laquelle le beurre a été fabriqué. En Inde, le ghee est généralement produit à partir de lait de bufflonne, car il a tendance à être plus blanc que le lait de vache. »
 
 [Source : http://en.wikipedia.org/wiki/Ghee. -- Consulté le 2008-12-26]
-:::## 33.7. Exercice
+:::
+## 33.7. Exercice
 
 A) Insérez dans le modèle de phrase suivant les formes correspondantes des mots entre parenthèses :
 
@@ -367,7 +397,8 @@ C) Traduisez et transformez les phrases au singulier en phrases au pluriel et vi
 ![](/images/lekt3308.webp)
 Fig. : ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3308))
-:::⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
+:::
+⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
 
 ⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
 

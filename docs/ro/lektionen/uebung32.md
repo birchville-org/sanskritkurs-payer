@@ -88,7 +88,8 @@ A) Determinați următoarele forme verbale și formați formele de imperfect cor
 | ⟪७३⟫. **⟪तनोति⟫** | ⟪अतनोत्⟫ |
 | ⟪७४⟫. **⟪प्रजानीते⟫** | ⟪प्राजानीत⟫ |
 | ⟪७५⟫. **⟪जीवन्ति⟫** | ⟪अजीवन्⟫ |
-:::B) Traduceți și descompuneți compusele în sanscrită:
+:::
+B) Traduceți și descompuneți compusele în sanscrită:
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
 (⟪जनस्य⟫ ⟪इन्द्रस्य⟫ ⟪अग्रे⟫ ⟪।⟫ ⟪महत्⟫-⟪पुण्यम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪लोके⟫)
@@ -113,7 +114,8 @@ Fiii lui Buddha au recunoscut adevărul, au oprit suferința și au atins eliber
 ![](/images/uebung050.webp)
 Fig.: ⟪सम्पन्नरूपा⟫
 (Sursa imaginii: [Detalii](/licenses#uebung050))
-:::---
+:::
+---
 
 ## Determinarea formei cuvântului
 
@@ -211,7 +213,8 @@ Determinați și traduceți următoarele cuvinte:
 ![](/images/uebung051.webp)
 Fig.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Sursă imagine: [Detalii](/licenses#uebung051))
-:::---
+:::
+---
 
 ## Exercițiu privind Sandhi
 
@@ -290,7 +293,8 @@ Completați următoarele propoziții cu cuvintele din paranteze, respectând reg
 ![](/images/uebung052.webp)
 Fig.: ⟪पुनर्दर्शनाय⟫
 (Sursa imaginii: [Detalii](/licenses#uebung052))
-:::---
+:::
+---
 
 ## Fragment Școlar (Stotra)
 
@@ -302,7 +306,8 @@ Fig.: ⟪पुनर्दर्शनाय⟫
 ![](/images/uebung053.webp)
 Fig.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung053))
-:::---
+:::
+---
 
 ## Narațiune: Bătrânul și maimuțele (Sanskrit-Bālādarśa)
 

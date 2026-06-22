@@ -14,7 +14,8 @@ last_reconstructed: 2026-05-21
 | **1. ⟪तृतीयः⟫** | -vas | -vahe ||
 | **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
 | **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
-:::## 58.2. El dual de las clases temáticas del presente: Indicativo presente (⟪लट्⟫)
+:::
+## 58.2. El dual de las clases temáticas del presente: Indicativo presente (⟪लट्⟫)
 
 Ante -vas y -vahe, la vocal temática -a- se reemplaza por -ā-.
 
@@ -43,7 +44,8 @@ Ante -vas y -vahe, la vocal temática -a- se reemplaza por -ā-.
 Fig.: ⟪नृत्यतः⟫
 Odisea
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5802))
-:::### 58.2.3. Sexta clase de presente (⟪तुदादिगणः⟫)
+:::
+### 58.2.3. Sexta clase de presente (⟪तुदादिगणः⟫)
 
 ⟪तुद्⟫ 6U "empujar, golpear"
 
@@ -53,7 +55,8 @@ Odisea
 | 1\. tercera persona | ⟪तुदावस्⟫ | ⟪तुदावहे⟫ |
 | 2\. segunda persona | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
 | 3\. primera persona | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
-:::### 58.2.4. Décima clase de presente (⟪चुरादिगणः⟫) y causativos (⟪णिजन्त⟫)
+:::
+### 58.2.4. Décima clase de presente (⟪चुरादिगणः⟫) y causativos (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U "robar"
 
@@ -68,7 +71,8 @@ Odisea
 Fig.: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪चोरयतः⟫
 Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5803))
-:::## 58.3. El dual del futuro simple (⟪ऌत्⟫)
+:::
+## 58.3. El dual del futuro simple (⟪ऌत्⟫)
 
 ### 58.3.1. ⟪अनिट्⟫
 
@@ -80,7 +84,8 @@ Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 1\. ⟪तृतीयः⟫ | ⟪दास्यावस्⟫ | ⟪दास्यावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪दास्यथस्⟫ | ⟪दास्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दास्यतस्⟫ | ⟪दास्येते⟫ |
-:::### 58.3.2. ⟪सेट्⟫
+:::
+### 58.3.2. ⟪सेट्⟫
 
 ⟪भू⟫ 1P "ser, llegar a ser"
 
@@ -90,7 +95,8 @@ Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 1\. ⟪तृतीयः⟫ | ⟪भविष्यावस्⟫ | ⟪भविष्यावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
-:::## 58.4. El Dual del Pasivo (sufijo -⟪यक्⟫)
+:::
+## 58.4. El Dual del Pasivo (sufijo -⟪यक्⟫)
 
 ⟪तुद्⟫ 6U "impulsar, golpear"
 
@@ -99,7 +105,8 @@ Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | --- | --- |
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
-:::## 58.5. El dual de las clases de presente atemático: Indicativo presente (⟪लट्⟫)
+:::
+## 58.5. El dual de las clases de presente atemático: Indicativo presente (⟪लट्⟫)
 
 ### 58.5.1. Segunda clase de presente (⟪अदादिगणः⟫)
 
@@ -111,7 +118,8 @@ Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 1\. tercera persona | ⟪द्विष्वस्⟫ | ⟪द्विष्वहे⟫ |
 | 2\. segunda persona | ⟪द्विष्ठस्⟫ | ⟪द्विषाथे⟫ |
 | 3\. primera persona | ⟪द्विष्टस्⟫ | ⟪द्विषाते⟫ |
-:::⟪दुह्⟫ 2U "ordeñar"
+:::
+⟪दुह्⟫ 2U "ordeñar"
 
 :::grammar-box
 |   | parasmaipada | ātmanepada |
@@ -119,7 +127,8 @@ Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 1\. tercera persona | ⟪दुह्वस्⟫ | ⟪दुह्वहे⟫ |
 | 2\. segunda persona | ***⟪दुग्धस्⟫*** | ⟪दुहाथे⟫ |
 | 3\. primera persona | ***⟪दुग्धस्⟫*** | ⟪दुहाते⟫ |
-:::⟪इ⟫ 2P "ir"
+:::
+⟪इ⟫ 2P "ir"
 
 :::grammar-box
 |   | parasmaipada |
@@ -131,7 +140,8 @@ Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 ![](/images/lekt5806.webp)
 Fig.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5806))
-:::⟪इ⟫ + ⟪अधि⟫ 2Ā "estudiar"
+:::
+⟪इ⟫ + ⟪अधि⟫ 2Ā "estudiar"
 
 :::grammar-box
 |   | ātmanepada |
@@ -143,7 +153,8 @@ Fig.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 ![](/images/lekt5804.webp)
 Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5804))
-:::⟪हन्⟫ 2P "matar"
+:::
+⟪हन्⟫ 2P "matar"
 
 :::grammar-box
 |   | **parasmaipada** |
@@ -151,7 +162,8 @@ Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
 | **1. tercera persona** | ⟪हन्वस्⟫ |
 | **2. segunda persona** | ***⟪हथस्⟫***:br*hn-thas |
 | **3. primera persona** | ***⟪हतस्⟫*** |
-:::⟪अस्⟫ 2P "ser"
+:::
+⟪अस्⟫ 2P "ser"
 
 :::grammar-box
 |   | **parasmaipada** |
@@ -163,7 +175,8 @@ Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
 ![](/images/lekt5805.webp)
 Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5805))
-:::### 58.5.2. Tercera clase de presente (⟪जुहोत्यादिगणः⟫)
+:::
+### 58.5.2. Tercera clase de presente (⟪जुहोत्यादिगणः⟫)
 
 ⟪हु⟫ 3P "verter en el fuego del sacrificio"
 
@@ -173,7 +186,8 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 | 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | &lt;⟪जुहुवहे⟫&gt; |
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | &lt;⟪जुह्वाथे⟫&gt; |
 | 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | &lt;⟪जुह्वाते⟫&gt; |
-:::⟪धा⟫ 3U "colocar, poner, situar"
+:::
+⟪धा⟫ 3U "colocar, poner, situar"
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -181,7 +195,8 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 | 1\. ⟪तृतीयः⟫ | ⟪दध्वस्⟫ | ⟪दध्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪धत्थस्⟫ | ⟪दधाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्तस्⟫ | ⟪दधाते⟫ |
-:::### 58.5.3. Quinta clase de presente (⟪स्वादिगणः⟫)
+:::
+### 58.5.3. Quinta clase de presente (⟪स्वादिगणः⟫)
 
 ⟪सु⟫ 5U "exprimir"
 
@@ -196,7 +211,8 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Pune
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5807))
-:::### 58.5.4. Octava clase de presente (⟪तनादिगणः⟫)
+:::
+### 58.5.4. Octava clase de presente (⟪तनादिगणः⟫)
 
 ⟪तन्⟫ 8U "extender, tensar"
 
@@ -206,7 +222,8 @@ Pune
 | 1\. ⟪तृतीयः⟫ | ⟪तनुवस्⟫ / ⟪तन्वस्⟫ | ⟪तनुवहे⟫ / ⟪तन्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तनुथस्⟫ | ⟪तन्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुतस्⟫ | ⟪तन्वाते⟫ |
-:::⟪कृ⟫ 8U "hacer, realizar"
+:::
+⟪कृ⟫ 8U "hacer, realizar"
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -214,7 +231,8 @@ Pune
 | 1\. ⟪तृतीयः⟫ | ⟪कुर्वस्⟫ | ⟪कुर्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुथस्⟫ | ⟪कुर्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुरुतस्⟫ | ⟪कुर्वाते⟫ |
-:::### 58.5.5. Séptima clase de presente (⟪गण⟫ ⟪रुधादि⟫)
+:::
+### 58.5.5. Séptima clase de presente (⟪गण⟫ ⟪रुधादि⟫)
 
 ⟪रुध्⟫ 7U "detener"
 
@@ -224,7 +242,8 @@ Pune
 | 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्वस्⟫ | ⟪रुन्ध्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ***⟪रुन्द्धस्⟫*** | ⟪रुन्धाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धस्⟫ | ⟪रुन्धाते⟫ |
-:::⟪युज्⟫ 7U "arrear"
+:::
+⟪युज्⟫ 7U "arrear"
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -232,7 +251,8 @@ Pune
 | 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्वस्⟫ | ⟪युञ्ज्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्थस्⟫ | ⟪युञ्जाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्तस्⟫ | ⟪युञ्जाते⟫ |
-:::### 58.5.6. Novena clase de presente (⟪क्र्यादिगणः⟫)
+:::
+### 58.5.6. Novena clase de presente (⟪क्र्यादिगणः⟫)
 
 ⟪क्री⟫ 9U "comprar"
 
@@ -246,7 +266,8 @@ Pune
 ![](/images/lekt5801.webp)
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5801))
-:::## 58.6. Aoristo 5: Aoristo iṣ
+:::
+## 58.6. Aoristo 5: Aoristo iṣ
 
 :::grammar-box
 **El aoristo iṣ se forma a partir de todas las raíces seṭ para las cuales no se enseña explícitamente únicamente otra forma de aoristo.**
@@ -256,7 +277,8 @@ Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
 **Aumento + raíz + i + s + terminación secundaria átema**
 
 **!!!** La 2.sg.P y la 3.sg.P derivan de **-**īs y -īt respectivamente, a partir de **-** (¡esto proviene de la transferencia del imperfecto de raíces del tipo ⟪अब्रवीत्⟫; por lo tanto, son en realidad formas de aoristo de raíz).
-:::El sufijo de formación de la base + las terminaciones del aoristo iṣ son, por tanto:
+:::
+El sufijo de formación de la base + las terminaciones del aoristo iṣ son, por tanto:
 
 :::grammar-box
 
@@ -292,7 +314,8 @@ Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
     ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
     pero:  
     ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
-:::Paradigmas:
+:::
+Paradigmas:
 
 ⟪पू⟫ 9U "limpiar"
 
@@ -303,7 +326,8 @@ Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
 | **1. Tercera persona** | ⟪अपाविषम्⟫ | ⟪पाविष्म⟫ | ⟪अपविषि⟫ | ⟪अपविष्महि⟫ |
 | **2. Segunda persona** | ⟪अपावीस्⟫ | ⟪अपाविष्ट⟫ | ⟪अपविष्ठास्⟫ | ⟪अपविध्वम्⟫ / :br⟪अपविढ्वम्⟫ |
 | **3. Primera persona** | ⟪अपावीत्⟫ | ⟪अपाविषुर्⟫ | ⟪अपविष्ट⟫ | ⟪पविषत⟫ |
-:::⟪बुध्⟫ 1U "despertar, reconocer"
+:::
+⟪बुध्⟫ 1U "despertar, reconocer"
 
 :::indent
 |   | **Parasmaipadam** ||
@@ -312,7 +336,8 @@ Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
 | **1. Tercera persona** | ⟪अबोधिषम्⟫ | ⟪अबोधिष्म⟫ |
 | **2. Segunda persona** | ⟪अबोधीस्⟫ | ⟪अबोधिष्ट⟫ |
 | **3. Primera persona** | ⟪अबोधीत्⟫ | ⟪अबोधिषुर्⟫ |
-:::⟪कॢप्⟫ 1Ā "ser apropiado"
+:::
+⟪कॢप्⟫ 1Ā "ser apropiado"
 
 :::indent
 |   | **Ātmanepadam** ||
@@ -339,7 +364,8 @@ Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
 ![](/images/lekt5808.webp)
 Fig.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5808))
-:::## 58.7. Ejercicio
+:::
+## 58.7. Ejercicio
 
 A) Determine y traduzca las siguientes formas sin utilizar materiales auxiliares, y forme las correspondientes formas del aoristo de la raíz *i-* (i-Aorist):
 

@@ -17,14 +17,16 @@ A) Formați pentru următoarele forme atât perfectul reduplicat, cât și perfe
 | ⟪२⟫. **⟪बिभ्यति⟫** | ⟪बिभ्युः⟫ | ⟪बिभयां⟫ ⟪चक्रुः⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪३⟫. **⟪जुहोति⟫** | ⟪जुहाव⟫ | ⟪जुहवां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪४⟫. **⟪वेत्ति⟫** | ⟪विवेद⟫ | ⟪विदां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
-:::B) Formați perfectul periphrastic pentru rădăcina **⟪आस्⟫** (a ședea):
+:::
+B) Formați perfectul periphrastic pentru rădăcina **⟪आस्⟫** (a ședea):
 
 :::grammar-box
 | Prezent | Perfect periphrastic |
 | :--- | :--- |
 | ⟪१⟫. **⟪आस्ते⟫** | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. **⟪आसते⟫** | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
-:::C) Formați perfectul corespunzător pentru următoarele forme:
+:::
+C) Formați perfectul corespunzător pentru următoarele forme:
 
 :::grammar-box
 | Prezent / Imperfect | Perfect |
@@ -42,7 +44,8 @@ A) Formați pentru următoarele forme atât perfectul reduplicat, cât și perfe
 | ⟪११⟫. **⟪क्रामन्ति⟫** | ⟪चक्रमुः⟫ |
 | ⟪१२⟫. **⟪प्राव्रजन्⟫** | ⟪प्रवव्रजुः⟫ |
 | ⟪१३⟫. **⟪त्यक्ष्यति⟫** | ⟪तत्याज⟫ |
-:::---
+:::
+---
 
 ## Traduceri
 
@@ -65,7 +68,8 @@ Nu se poate trăi doar din știință. Cine știe acest lucru, nu ar trebui să 
 ![](/images/uebung061.webp)
 Fig.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung061))
-:::---
+:::
+---
 
 ## Fragmente Școlare
 
@@ -91,7 +95,8 @@ Dacă un bărbat nu se bucură și nu se întristează, când aude, atinge, vede
 ![](/images/uebung060.webp)
 Fig.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Sursa imaginii: [Detalii](/licenses#uebung060))
-:::---
+:::
+---
 
 ## Bestimmung der Wortform
 

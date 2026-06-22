@@ -41,7 +41,8 @@ A) Complétez les exemples de déclinaison de la leçon 16 en ajoutant le 4. Dat
 | 3. Instr. | ⟪येन⟫ | ⟪यैः⟫ | ⟪येन⟫ | ⟪यैः⟫ | ⟪यया⟫ | ⟪याभिः⟫ |
 | 4. Dat. | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्यै⟫ | ⟪याभ्यः⟫ |
 | 5. Abl. | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्याः⟫ | ⟪याभ्यः⟫ |
-:::B) Traduisez et résolvez les composés en sanskrit :
+:::
+B) Traduisez et résolvez les composés en sanskrit :
 
 ⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
 Sur l'ordre du maître, Rāma quitte le village pour la ville, entre dans la maison du saint, se présente devant le saint avec respect et dit : « Assez de colère ! »
@@ -69,7 +70,8 @@ Par l'avidité, la haine et l'obscurité, les gens se perdent. Lorsque le temps 
 ![](/images/uebung040.webp)
 Fig. : ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#uebung040))
-:::⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
+:::
+⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
 Le Kṣatriya amène des guerriers héroïques de la grande ville pour combattre le village des ennemis.
 
 ⟪९⟫. **⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫**
@@ -119,7 +121,8 @@ Les enfers naissent du mal, le mal naît de la pauvreté, la pauvreté naît du 
 ![](/images/uebung041.webp)
 Fig. : ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Source de l'image : [Détails](/fr/licenses#uebung041))
-:::⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
+:::
+⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
 Un voleur est libéré de la dette de vol par le châtiment ou par la libération. Mais si le roi ne le punit pas, il assume la dette du voleur.
 
@@ -134,5 +137,6 @@ L'économie est utile car elle produit du grain, du bétail, de l'or, des métau
 ![](/images/uebung042.webp)
 Fig. : ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Source de l'image : [Détails](/fr/licenses#uebung042))
-:::⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
+:::
+⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
 C'est pourquoi les trois sciences ont le bâton (daṇḍa) pour fondement. Le bâton, qui est le fondement d'une bonne conduite, procure aux êtres vivants la subsistance et une possession sûre. La bonne conduite est acquise par l'effort ou innée. L'activité éduque en effet une matière appropriée, non inappropriée. La science éduque un esprit qui, par l'obéissance, l'écoute, l'expérimentation, la compréhension et la réflexion, est parvenu à la vérité, non un autre. ... De l'ouïe naît la connaissance, de la connaissance la pratique, de la pratique l'autorité ; ainsi les sciences répondent à leur but. La connaissance et la bonne conduite sont la cause de la victoire sur les sens. Celle-ci est nécessaire pour se débarrasser de la luxure, de la haine, de l'avidité, de l'orgueil, de l'ivresse et de l'excitation.

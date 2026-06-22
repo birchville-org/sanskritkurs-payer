@@ -104,7 +104,8 @@ B) Transformez les formes verbales suivantes en leurs formes correspondantes au 
 ![](/images/uebung065.webp)
 Fig. : ⟪आशिमेति⟫
 (Source de l'image : [Détails](/fr/licenses#uebung065))
-:::---
+:::
+---
 
 ## Détermination des formes de mots
 

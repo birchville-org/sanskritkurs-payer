@@ -78,7 +78,8 @@ A) Wandeln Sie folgende Verbalformen in die in Person, Zahl und Genus verbi ents
 | ⟪६३⟫. **⟪अर्हति⟫** | ⟪अर्हेत्⟫ |
 | ⟪६४⟫. **⟪अदन्ति⟫** | ⟪अद्युः⟫ |
 | ⟪६५⟫. **⟪अध्यापयन्ति⟫** | ⟪अध्यापयेयुः⟫ |
-:::B) Übersetzen Sie die folgenden Sätze und lösen Sie die Komposita auf Sanskrit auf:
+:::
+B) Übersetzen Sie die folgenden Sätze und lösen Sie die Komposita auf Sanskrit auf:
 
 ⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
 (⟪आर्याणि⟫ ⟪सत्यानि⟫)
@@ -119,7 +120,8 @@ Man sage Wahrheiten, die angenehm sind, unangenehme Wahrheiten sage man nicht; n
 ![](/images/uebung048.webp)
 Abb.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Bildquelle: [Details](/licenses#uebung048))
-:::---
+:::
+---
 
 ## Wortformbestimmung
 

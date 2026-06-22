@@ -18,7 +18,8 @@ La ignorancia significa considerar lo impermanente, lo impuro, lo doloroso y lo 
 
 :::deleteme-box Explicación
 **⟪आत्मसु⟫** = Loc. sg. de ⟪आत्मन्⟫ m. "Alma; lo Absoluto, en la medida en que se realiza en el individuo"
-:::### ⟪२⟫. Sobre el uso correcto del ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
+:::
+### ⟪२⟫. Sobre el uso correcto del ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
 
 ⟪तीक्ष्णदण्डो⟫ ⟪भूतानामुद्वेजनीयो⟫ ⟪भवति⟫ ⟪।⟫ ⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।⟫ ⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।⟫ ⟪सुविज्ञातप्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामैर्योजयति⟫ ⟪।⟫ ⟪दुष्प्रणीतः⟫ ⟪कामक्रोधाभ्यामवज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, ⟪किमङ्ग⟫ ⟪पुनर्गृहस्थान्⟫ ⟪।⟫ ⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।⟫ ⟪बलीयानबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।⟫ ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।⟫
 

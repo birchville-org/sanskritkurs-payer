@@ -16,9 +16,11 @@ status: stable
 - The Sandhi of final -n
 - The neuter gender of a-stems
 - The athematic present classes (using the 5th class as an example)
-:::## Weekly Verse
+:::
+## Weekly Verse
 
-:::center
+:::
+center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ |
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -33,7 +35,8 @@ Right conquers, not wrong,
 Truth conquers, not untruth,
 Patience conquers, not anger,
 God conquers, not the anti-god.
-:::---
+:::
+---
 
 ## 7.1. The verbal sentence with direct object
 
@@ -44,7 +47,8 @@ God conquers, not the anti-god.
 e.g.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma eats (a) fruit."
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "The Brahman venerates a god with a sacrifice (for someone else)."
-:::If the verb is in the Parasmaipada or Ātmanepada, the direct object (**karman** n. = ⟪कर्मन्⟫) is generally in the **Accusative** (second case, dvitīyā f. = ⟪द्वितीया⟫).
+:::
+If the verb is in the Parasmaipada or Ātmanepada, the direct object (**karman** n. = ⟪कर्मन्⟫) is generally in the **Accusative** (second case, dvitīyā f. = ⟪द्वितीया⟫).
 
 ---
 
@@ -82,7 +86,8 @@ e.g.
 | **-i**: śruti | **śrutīs**:br⟪श्रुतीस्⟫ |
 | **-ī**: devī | **devīs**:br⟪देवीस्⟫ |
 | **-u**: dhenu | **dhenūs**:br⟪धेनूस्⟫ |
-:::---
+:::
+---
 
 ### 7.2.1. Accusative singular and plural of the interrogative and demonstrative pronouns
 
@@ -97,7 +102,8 @@ e.g.
 | | pl. | **etān / enān**:br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās**:br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni**:br⟪एतानि⟫ / ⟪एनानि⟫ |
 | **idam**:brthis | sg. | **imam / enam**:br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām**:br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad**:br⟪इदम्⟫ / ⟪एनद्⟫ |
 | | pl. | **imān / enān**:br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās**:br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni**:br⟪इमानि⟫ / ⟪एनानि⟫ |
-:::The forms **enam** (⟪एनम्⟫) etc. belong to the stem **enad** (⟪एनद्⟫), which forms case endings only in some cases. These are used instead of the forms of **etad** and **idam** when the entity referred to has already been mentioned in the preceding context.
+:::
+The forms **enam** (⟪एनम्⟫) etc. belong to the stem **enad** (⟪एनद्⟫), which forms case endings only in some cases. These are used instead of the forms of **etad** and **idam** when the entity referred to has already been mentioned in the preceding context.
 e.g. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "He is a god. They sacrifice to him."
 
 ---
@@ -113,7 +119,8 @@ The accusative (dvitīyā f. = ⟪द्वितीया⟫) denotes:
 2. With verbs that express going, movement, leading, or similar, the accusative denotes the goal of the movement:
    e.g.
    - **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ : "He goes to hell."
-:::Further uses of the accusative will be treated later.
+:::
+Further uses of the accusative will be treated later.
 
 ---
 
@@ -140,20 +147,23 @@ The accusative (dvitīyā f. = ⟪द्वितीया⟫) denotes:
    **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "but the gods (Acc.)"
 
 4. Except after a short vowel (see later), final **-n** remains unchanged in all other cases.
-:::---
+:::
+---
 
 ## 7.4. The Neuter (napuṃsaka n. = ⟪नपुंसक⟫)
 
 :::grammar-box
 **In the neuter, the forms for the nominative (prathamā) and accusative (dvitīyā) are identical.**
-:::### 7.4.1. Neuter of stems ending in -a
+:::
+### 7.4.1. Neuter of stems ending in -a
 
 :::grammar-box
 - **Nominative / Accusative singular ending: -m**
   e.g. **phala** n. = ⟪फल⟫ = "fruit": Nom. / Acc. sg. **phalam** = ⟪फलम्⟫
 - **Nominative / Accusative plural ending: -āni**
   e.g. **phala** n. = ⟪फल⟫: Nom. / Acc. pl. **phalāni** = ⟪फलानि⟫
-:::---
+:::
+---
 
 ## 7.5. Athemeatic Present Classes
 
@@ -170,20 +180,23 @@ The 5th present class forms a so-called athemeatic present stem, i.e., the prese
 - in the third person Singular Imperative (loṭ) Parasmaipada
 
 **All other forms have the weak present stem.**
-:::### 7.5.1. Primary endings of the 3rd person plural in athematic stems
+:::
+### 7.5.1. Primary endings of the 3rd person plural in athematic stems
 
 :::grammar-box
 **In the case of athematic present stems, the primary endings of the 3rd person plural are:**
 - **Parasmaipada: -anti**
 - **Ātmanepada: -ate**
-:::### 7.5.2. The 5. Present Class (svādi = ⟪स्वादि⟫ = "su etc.")
+:::
+### 7.5.2. The 5. Present Class (svādi = ⟪स्वादि⟫ = "su etc.")
 
 :::grammar-box
 - **Strong Stem**: (mostly) guṇa-grade root (as stated) + **-no-**
 - **Weak Stem**: (mostly) zero-grade root (as stated) + **-nu-**
 
 **Before vocalic endings, for roots ending in a vowel, -nu- is replaced by -nv-, and for roots ending in a consonant, -nu- is replaced by -nuv- before vocalic endings.**
-:::**Examples:**
+:::
+**Examples:**
 
 | Root:br⟪धातु⟫ | Strong Stem | Weak Stem | Before Vowel:br(weak) |
 | :--- | :--- | :--- | :--- |
@@ -210,7 +223,8 @@ The 5th present class forms a so-called athemeatic present stem, i.e., the prese
 ![](/images/lekt0701.webp)
 Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
 (Image source: [Details](/en/licenses#lekt0701))
-:::- **phala** n. ⟪फल⟫ : fruit (also in a figurative sense: (karmic) fruit of an action)
+:::
+- **phala** n. ⟪फल⟫ : fruit (also in a figurative sense: (karmic) fruit of an action)
 - **nṛtya** n. ⟪नृत्य⟫ : dance
 - **svarga** m. ⟪स्वर्ग⟫ : heaven
 - **naraka** m. ⟪नरक⟫ : hell (according to a Hindu conception, the universe has the form of an egg (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Egg of Brahmā"): above the earth are six heavens with increasing bliss, below the earth are seven so-called **pātāla** n. = ⟪पाताल⟫, dwellings of the **nāga** m. = ⟪नाग⟫ (serpents) and other mythical beings, below these are 7 hells with increasing torments)
@@ -232,7 +246,8 @@ Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
 ![](/images/lekt0704.webp)
 Fig.: Viṣṇu = ⟪विष्णु⟫, 8th/9th century.
 (Image source: [Details](/en/licenses#lekt0704))
-:::2. gurus ... khādati (phala)
+:::
+2. gurus ... khādati (phala)
    ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
 3. sādhus ... gacchati (svarga)
    ⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
@@ -271,7 +286,8 @@ Fig.: Viṣṇu = ⟪विष्णु⟫, 8th/9th century.
 ![](/images/lekt0702.webp)
 Fig.: **yajati** = ⟪यजति⟫ — Vedic sacrifice = **yajña** m. = ⟪यज्ञ⟫
 (Image source: [Details](/en/licenses#lekt0702))
-:::**E) Form the accusative (dvitīyā) singular and plural for all nouns learned so far.**
+:::
+**E) Form the accusative (dvitīyā) singular and plural for all nouns learned so far.**
 
 **F) Translate:**
 
@@ -291,6 +307,7 @@ Fig.: **yajati** = ⟪यजति⟫ — Vedic sacrifice = **yajña** m. = ⟪�
 ![](/images/lekt0703.webp)
 Fig.: To which god does one sacrifice here? Answer: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
 (Image source: [Details](/en/licenses#lekt0703))
-:::9. What does this holy man chew?
+:::
+9. What does this holy man chew?
 10. What do these (here) press out?
 11. He is the teacher. To him one listens (= they listen).

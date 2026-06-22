@@ -29,7 +29,8 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung087.webp)
 Abb.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 (Bildquelle: [Details](/licenses#uebung087))
-:::---
+:::
+---
 
 ## ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫: Über die Quellen des ⟪धर्म⟫
 

@@ -111,7 +111,8 @@ Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfe
 ![](/images/uebung035.webp)
 תמונה: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (מקור התמונה: [פרטים](/licenses#uebung035))
-:::---
+:::
+---
 
 ## Zusätzliche Übungen
 

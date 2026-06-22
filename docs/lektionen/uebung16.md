@@ -80,7 +80,8 @@ Er verehrt die persönliche Gottheit des verdienstvollen Vaiśya.
 ![](/images/uebung023.webp)
 Abb.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Bildquelle: [Details](/licenses#uebung023))
-:::---
+:::
+---
 
 ## Deklinationsmuster
 
@@ -216,7 +217,8 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 2. Akk. | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
 | 3. Instr. | ⟪अनेन⟫ / ⟪एनेन⟫ | — | ⟪अनया⟫ / ⟪एनया⟫ | ⟪एभिस्⟫ (⟪एभिः⟫) | — | ⟪आभिस्⟫ (⟪आभिः⟫) |
 | 6. Gen. | ⟪अस्य⟫ | — | ⟪अस्यास्⟫ (⟪अस्याः⟫) | ⟪एषाम्⟫ | — | ⟪आसाम्⟫ |
-:::---
+:::
+---
 
 ## Zusätzliche Übungen
 
@@ -249,7 +251,8 @@ Pflicht aller ist: Gewaltlosigkeit, Wahrhaftigkeit, Reinheit, Nicht über sein L
 Satz 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet
 Satz 8: **⟪कर्म⟫** Nom., Akk. sg. Neutrum zu ⟪कर्मन्⟫ "Tat"
 Satz 13: **⟪सर्वेषाम्⟫** Gen. pl. mask. zu ⟪सर्व⟫ "jeder, alle" (Pronomen, dekliniert nicht wie deva)
-:::⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
+:::
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 Der Prügel bewirkt Erwerb und sicheren Besitz von Philosophie, Vedististik und Ökonomie. Die Führung des Prügels ist Politik.
 

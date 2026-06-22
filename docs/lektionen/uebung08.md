@@ -148,7 +148,8 @@ kiṃ kāraṇam?
 ![](/images/uebung007.webp)
 Abb.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung007))
-:::---
+:::
+---
 
 ## Leseübung
 

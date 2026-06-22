@@ -17,7 +17,8 @@ last_reconstructed: 2026-05-21
 **Il -i e il -u finali vengono sostituiti rispettivamente da -iy e -uv.**
 
 **Il -ā finale (per -e) cade.**
-:::Paradigma:
+:::
+Paradigma:
 
 ⟪श्रि⟫ 1U "recarsi presso, appoggiarsi"
 
@@ -38,7 +39,8 @@ Questa forma di aoristo è formata, tra le altre, da:
 
 :::grammar-box
 **Tutte le radici della decima classe di presente, nonché tutti i causativi, formano sempre l’aoristo reduplicato.**
-:::### 56.1.1. Formazione dell’Aoristo dei Causativi e delle Radici della 10ª Classe di Presente
+:::
+### 56.1.1. Formazione dell’Aoristo dei Causativi e delle Radici della 10ª Classe di Presente
 
 Sillaba tematica:
 
@@ -64,7 +66,8 @@ Sillaba tematica:
 *   **ar, ār, īr, al, che precedono immediatamente la consonante finale della sillaba tematica e sostituiscono ṛ, ṝ, ḷ, rimane facoltativamente invariato oppure viene sostituito da ṛ o ḷ:**  
     ⟪कॢप्⟫  1Ā: Caus. ***⟪कल्प⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
     ⟪कृष्⟫ 1P/6U: Caus. ***⟪कर्ष⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
-:::Vocale della sillaba di reduplicazione:
+:::
+Vocale della sillaba di reduplicazione:
 
 Dopo aver applicato le regole appena menzionate alla sillaba tematica, devono essere seguite le seguenti regole per la vocale della sillaba di reduplicazione:
 
@@ -99,7 +102,8 @@ Vocale - prima consonante che segue (ovvero il suo rappresentante richiesto in u
 ⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, sillaba di reduplicazione ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
 ⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, sillaba di reduplicazione ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
 ⟪ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, sillaba di reduplicazione ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
-:::*   **Se a una vocale iniziale segue un gruppo consonantico che inizia con una nasale, con d o con r, la seconda consonante del gruppo (o il suo sostituto) viene inserita con la i, secondo il seguente schema:**
+:::
+*   **Se a una vocale iniziale segue un gruppo consonantico che inizia con una nasale, con d o con r, la seconda consonante del gruppo (o il suo sostituto) viene inserita con la i, secondo il seguente schema:**
 
 Vocale - prima consonante - seconda consonante (sostituto) - i - seconda consonante
 
@@ -107,12 +111,15 @@ Vocale - prima consonante - seconda consonante (sostituto) - i - seconda consona
 ⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, sillaba di reduplicazione ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
 ⟪ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, sillaba di reduplicazione ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
 ⟪अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, sillaba di reduplicazione ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
-:::Questa forma di reduplicazione dei temi derivati vocalici iniziali (causativi) è detta "reduplicazione attica".
-::::## 56.2. L’Ingiuntivo
+:::
+Questa forma di reduplicazione dei temi derivati vocalici iniziali (causativi) è detta "reduplicazione attica".
+::::
+## 56.2. L’Ingiuntivo
 
 :::grammar-box
 **L’Ingiuntivo è la forma senza augumento delle forme con augumento, ovvero le sue forme sono identiche alle forme senza augumento dell’Indicativo Imperfetto o Aoristo. La grammatica indiana nativa non ha riconosciuto l’Ingiuntivo come una categoria grammaticale distinta.**
-:::Secondo l’opera fondamentale:
+:::
+Secondo l’opera fondamentale:
 
 :::media
 ![](/images/lekt5601.jpg)
@@ -121,7 +128,8 @@ Professore di Linguistica Comparata, Università di Erlangen-Norimberga (1955 - 
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt5601))
 ::::::indent
 Hoffmann, Karl &lt;1915 - 1996&gt;: Der Injunktiv im Veda : una ricerca sincronica sulle funzioni / di Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3a serie, Untersuchungen)
-:::l’Ingiuntivo nel Veda presenta le seguenti proprietà:
+:::
+l’Ingiuntivo nel Veda presenta le seguenti proprietà:
 
 *   non è narrativo, ma evocativo;
 *   è atemporale;
@@ -137,7 +145,8 @@ Hoffmann, Karl &lt;1915 - 1996&gt;: Der Injunktiv im Veda : una ricerca sincroni
 *   ⟪मा⟫ ⟪स्म⟫ + Ingiuntivo Presente indicherebbe una proposizione inibitiva, cioè vieta un’azione già in corso o uno stato già esistente: "Smetti di...!", "Astieniti da...!"
 
 Tuttavia, questa distinzione non è solitamente mantenuta nel sanscrito classico.)
-:::## 56.3. La proposizione proibitiva
+:::
+## 56.3. La proposizione proibitiva
 
 :::grammar-box
 **Forma principale:**
@@ -145,7 +154,8 @@ Tuttavia, questa distinzione non è solitamente mantenuta nel sanscrito classico
 **⟪मा⟫ + Ingiuntivo Aoristo**
 
 **⟪मा⟫ ⟪स्म⟫ + Ingiuntivo Aoristo o Ingiuntivo Presente**
-:::Esempi:
+:::
+Esempi:
 
 :::indent
 ⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Non diventare colui che è motivato dal frutto di un'azione!" (Ingiuntivo Aoristo) (⟪भगवद्गीता⟫ 2,47c)
@@ -156,7 +166,8 @@ Tuttavia, questa distinzione non è solitamente mantenuta nel sanscrito classico
 Fig.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
 Poster (Ernesto Che Guevara) di un partito politico a Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). "La traduzione approssimativa di ciò che vi è scritto è: 'Il martirio è un'esperienza affascinante per un rivoluzionario. E un ripiego spaventoso per un codardo. Che non è un modello da seguire per i vigliacchi.'"
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5602))
-:::Entrambi gli esempi hanno un significato proibitivo. L'Ingiuntivo Aoristo è qui quindi utilizzato nel suo significato originario. (Il predominio dell'Ingiuntivo Aoristo in tali frasi si spiega forse con il predominio delle frasi proibitive rispetto alle frasi inibitive, ma questa questione dovrebbe essere ancora studiata per il Sanscrito classico.)
+:::
+Entrambi gli esempi hanno un significato proibitivo. L'Ingiuntivo Aoristo è qui quindi utilizzato nel suo significato originario. (Il predominio dell'Ingiuntivo Aoristo in tali frasi si spiega forse con il predominio delle frasi proibitive rispetto alle frasi inibitive, ma questa questione dovrebbe essere ancora studiata per il Sanscrito classico.)
 
 ::::grammar-box
 **Altre forme di proposizioni proibitive:**
@@ -177,7 +188,8 @@ Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit syntax. -- Leyden : 
 ![](/images/lekt5603.webp)
 Fig.: ⟪अलं⟫ ⟪विषादेन⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5603))
-:::## 56.4. ⟪स्म⟫
+:::
+## 56.4. ⟪स्म⟫
 
 ::::grammar-box
 **⟪स्म⟫ sottolinea: "veramente, infatti, certo, proprio"**
@@ -188,7 +200,8 @@ Fig.: ⟪अलं⟫ ⟪विषादेन⟫
 ⟪स्म⟫ + Indicativo Presente serve a narrare al passato, soprattutto per indicare una durata nel passato:
 
 ad es. ⟪वसति⟫ ⟪स्म⟫ "abitava una volta" (⟪स्म⟫ può talvolta mancare).
-:::::::## 56.5. Esercitazione
+:::::::
+## 56.5. Esercitazione
 
 A) Determinare e tradurre le seguenti forme senza ausili (!):
 

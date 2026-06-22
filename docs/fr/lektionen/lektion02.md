@@ -15,7 +15,8 @@ last_reconstructed: 2026-04-30
 **Schéma : Nom prédicatif - Sujet**
 
 p. ex. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = « Viṣṇu est un dieu. »
-:::Une copule verbale (« est », « sont », « suis », « es », « êtes ») n’est pas nécessaire, mais peut parfois apparaître.
+:::
+Une copule verbale (« est », « sont », « suis », « es », « êtes ») n’est pas nécessaire, mais peut parfois apparaître.
 
 Il n’y a **pas d’articles** : **devaḥ** -- ⟪देवः⟫ peut signifier « le dieu » ou « un dieu ».
 
@@ -56,7 +57,8 @@ Dans les dictionnaires de sanskrit, les noms sont donnés sous forme de **base n
 
 :::grammar-box
 **Le nominatif singulier se termine par -s = -⟪स्⟫ ou est sans terminaison.**
-:::### 2.3.1. Nominatif singulier en -s
+:::
+### 2.3.1. Nominatif singulier en -s
 
 Les racines nominales suivantes, qui se terminent par une voyelle, forment le nominatif singulier en **-s** :
 
@@ -64,7 +66,8 @@ Les racines nominales suivantes, qui se terminent par une voyelle, forment le no
 **Masculins en -a :** par ex. deva m. = ⟪देव⟫ "dieu" -- Nom. sg. : devas = ⟪देवस्⟫
 **Masculins en -i :** par ex. kavi m. = ⟪कवि⟫ "poète" -- Nom. sg. : kavis = ⟪कविस्⟫
 **Masculins en -u :** par ex. guru m. = ⟪गुरु⟫ "professeur" -- Nom. sg. : gurus = ⟪गुरुस्⟫
-:::---
+:::
+---
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
@@ -119,7 +122,8 @@ Voyez aussi le résumé :
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (caste des prestataires de services).
 
-:::tip Les quatre castes (varna)
+:::
+tip Les quatre castes (varna)
 Selon la théorie classique (p. ex. Manusmṛti I, 88-91), les tâches sont réparties :
 
 - **des Brāhmaṇas**
@@ -145,7 +149,8 @@ Selon la théorie classique (p. ex. Manusmṛti I, 88-91), les tâches sont rép
   - Étude des Védas
 - **des Śūdras**
   - Servir les trois classes supérieures
-:::**dvija** m. -- ⟪द्विज⟫ : « Deux fois né » (initiés des trois castes supérieures : Brāhmaṇa, Kṣatriya, Vaiśya).
+:::
+**dvija** m. -- ⟪द्विज⟫ : « Deux fois né » (initiés des trois castes supérieures : Brāhmaṇa, Kṣatriya, Vaiśya).
 
 **varṇa** m. -- ⟪वर्ण⟫ : Couleur, caste de naissance (aspiration).
 
@@ -155,7 +160,8 @@ Les quatre castes (**varṇa** m.) sont souvent confondues avec les castes rigid
 ![](/images/lekt0201.webp)
 Fig. : Représentation de la division des ordres de l'Europe médiévale (gravure sur bois de la fin du XVe siècle).
 (Source de l'image : [Détails](/fr/licenses#lekt0201))
-:::**Légende :**
+:::
+**Légende :**
 - **Ordre sacerdotal** (~Brāhmaṇa) : Tu supplex ora = Que tu pries avec instance !
 - **Ordre noble** (~Kṣatriya) : Tu protege = Que tu protèges !
 - **Ordre paysan** (~Vaiśya/Śūdra) : Tuque labora = Et que tu travailles !
@@ -164,7 +170,8 @@ Les trois ordres portent les vêtements propres à leur ordre. Au-dessus des –
 
 Max Weber &lt;1864 – 1920&gt; définit l'ordre ainsi :
 
-:::note-box
+:::
+note-box
 »**Ordre**« doit signifier une multitude d'hommes qui, au sein d'une association,
 a) exercent une estimation spéciale d'ordre, - éventuellement aussi
 b) revendiquent des monopoles spéciaux d'ordre.
@@ -183,7 +190,8 @@ Pendant que les classes professionnelles se développent sur le fondement de l'�
 Toute société ordinaire est conventionnelle, ordonnée par des règles de conduite, crée donc des conditions de consommation économiquement irrationnelles et entrave de cette manière, par des appropriations monopolistiques et par l'exclusion de la libre disposition de sa propre capacité de gain, la libre formation du marché.
 
 [**Weber, Max &lt;1864 – 1920&gt; : Économie et Société : Aperçu de la sociologie compréhensive. – 5e éd. révisée. – Tubingue : Mohr, 1976. – p. 625 sq.]
-:::Les Varṇas sont par conséquent des ordres de naissance.
+:::
+Les Varṇas sont par conséquent des ordres de naissance.
 
 **kavi** m. -- ⟪कवि⟫ : poète.
 
@@ -193,7 +201,8 @@ Toute société ordinaire est conventionnelle, ordonnée par des règles de cond
 ![](/images/lekt0203.jpg)
 Fig. : Dieu Agni, miniature, 18e siècle.
 (Source de l'image : [Détails](/fr/licenses#lekt0203))
-:::**sādhu** 3 -- ⟪साधु⟫ : correct, bon.
+:::
+**sādhu** 3 -- ⟪साधु⟫ : correct, bon.
 
 **sādhu** m. -- ⟪साधु⟫ : homme « saint », Sādhu.
 
@@ -201,7 +210,8 @@ Fig. : Dieu Agni, miniature, 18e siècle.
 ![](/images/lekt0202.webp)
 Fig. : Sādhu (⟪साधु⟫), temple Pashupatinath, Katmandou.
 (Source de l'image : [Détails](/fr/licenses#lekt0202))
-:::**guru** 3 -- ⟪गुरु⟫ : lourd, important, digne de vénération
+:::
+**guru** 3 -- ⟪गुरु⟫ : lourd, important, digne de vénération
 
 **guru** m. -- ⟪गुरु⟫ : personne digne de vénération : père, mère, parent plus âgé, en particulier enseignant, maître
 

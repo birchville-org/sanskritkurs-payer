@@ -27,21 +27,24 @@ Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man
 
 (nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv)
 
-:::**Beispiele:**
+:::
+**Beispiele:**
 
 :::indent
 **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = Passivkonstruktion: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
 "Der Mann betritt das Haus, sieht das kleine Mädchen und spricht es an."
 
 Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
-:::## 22.2. Bildung des Absolutivums
+:::
+## 22.2. Bildung des Absolutivums
 
 :::grammar-box
 **Bildung des Absolutivums**
 
 *   Verben ohne Präverb: Absolutiv auf **-tvā**
 *   Verben mit Präverb: Absolutiv auf **-ya** bzw. **-tya**
-:::### 22.2.1. Verben ohne Präverb: Absolutiv auf -⟪त्वा⟫
+:::
+### 22.2.1. Verben ohne Präverb: Absolutiv auf -⟪त्वा⟫
 
 :::grammar-box
 
@@ -51,7 +54,8 @@ Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां�
 
 Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-⟪त्वा⟫** : **⟪अकृत्वा⟫** "ohne getan zu haben"
 
-:::**Beispiele:**
+:::
+**Beispiele:**
 
 :::indent
 **⟪आप्त्वा⟫** "nachdem er / sie / es / ich / du / wir / ihr / sie / wir beide / ihr beide / sie beide erreicht hat / hatte / haben / hatten"
@@ -65,7 +69,8 @@ Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-⟪त्�
 **⟪जित्वा⟫** "nachdem er (...) gesiegt hat / hatte"
 
 **⟪उक्त्वा⟫** "nachdem er (...) gesprochen hat / hatte"
-:::### 22.2.2. Verben mit Präverb
+:::
+### 22.2.2. Verben mit Präverb
 
 #### 22.2.2.1. Wurzeln auf langen Vokal (außer -ā) oder auf Konsonant
 
@@ -73,7 +78,8 @@ Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-⟪त्�
 
 **(meist) tiefstufige Wurzel + -ya**
 
-:::**Beispiele:**
+:::
+**Beispiele:**
 
 :::indent
 **⟪उपनीय⟫** "nachdem er (...) herangeführt hat / hatte"
@@ -81,23 +87,27 @@ Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-⟪त्�
 **⟪प्रभूय⟫** "nachdem er (...) herausgeragt ist / war" "nachdem er (...) Macht hatte"
 
 **⟪प्राप्य⟫** "nachdem er (...) erlangt hat / hatte"
-:::#### 22.2.2.2. Wurzeln auf -ā
+:::
+#### 22.2.2.2. Wurzeln auf -ā
 
 :::grammar-box
 
 **unverändert hochstufige Wurzel + -ya**
 
-:::**Beispiel:**
+:::
+**Beispiel:**
 
 :::indent
 **⟪उपस्थाय⟫** "nachdem er (...) hingetreten war / ist" ; (aber ohne Präverb: **⟪स्थित्वा⟫**)
-:::#### 22.2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
+:::
+#### 22.2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
 
 :::grammar-box
 
 **tiefstufige Wurzel + -tya**
 
-:::**Beispiele:**
+:::
+**Beispiele:**
 
 :::indent
 **⟪प्रस्तुत्य⟫** "nachdem er (...) laut gepriesen hat / hatte"
@@ -105,7 +115,8 @@ Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-⟪त्�
 **⟪विस्मृत्य⟫** "nachdem er (...) vergessen hat / hatte"
 
 **⟪संस्कृत्य⟫** "nachdem er (...) fürs Opfer zubereitet hat / hatte"
-:::#### 22.2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
+:::
+#### 22.2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
 
 :::grammar-box
 
@@ -117,11 +128,13 @@ oder:
 
 Wurzel auf **-a** + **-tya**
 
-:::**Beispiel:**
+:::
+**Beispiel:**
 
 :::indent
 **⟪विगम्य⟫** oder **⟪विगत्य⟫** "nachdem er (...) vergangen ist / war"
-:::## 22.3. Wortliste
+:::
+## 22.3. Wortliste
 
 **⟪काम⟫ m.:** Wunsch, Begehren; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
 
@@ -132,7 +145,8 @@ Wurzel auf **-a** + **-tya**
 Abb.: ⟪कामदेवः⟫
 19. Jhdt
 (Bildquelle: [Details](/licenses#lekt2202))
-:::**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** fähig sein, können
+:::
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** fähig sein, können
 
 davon:
 
@@ -145,11 +159,13 @@ davon:
 Abb.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (Bildquelle: [Details](/licenses#lekt2203))
-:::**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird **⟪अर्ह्⟫** + Infinitiv oft als milder Befehl verwendet: "Du solltest")
+:::
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird **⟪अर्ह्⟫** + Infinitiv oft als milder Befehl verwendet: "Du solltest")
 
 :::indent
 **⟪अर्हन्त्⟫ 3** Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
-:::**⟪व्रत⟫ n.:** Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (**⟪देवदासी⟫**) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige **⟪व्रत⟫** heute: Fasten; Enthaltsamkeit von Speisen, die man liebt; sexuelle Enthaltsamkeit; Lesen heiliger Schriften; Vollzug bestimmter Riten; Speisung von Brahmanen u. ä. Kurz zu den **⟪व्रत⟫**: Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von **⟪व्रत⟫** und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+:::
+**⟪व्रत⟫ n.:** Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (**⟪देवदासी⟫**) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige **⟪व्रत⟫** heute: Fasten; Enthaltsamkeit von Speisen, die man liebt; sexuelle Enthaltsamkeit; Lesen heiliger Schriften; Vollzug bestimmter Riten; Speisung von Brahmanen u. ä. Kurz zu den **⟪व्रत⟫**: Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von **⟪व्रत⟫** und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
 
 **⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. **⟪व्रतं⟫ ⟪चर्⟫**: ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
 
@@ -168,7 +184,8 @@ davon:
 Abb.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Bildquelle: [Details](/licenses#lekt2201))
-:::## 22.4. Übung
+:::
+## 22.4. Übung
 
 **A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:**
 

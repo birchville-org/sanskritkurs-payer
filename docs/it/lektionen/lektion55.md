@@ -23,7 +23,8 @@ status: stable
 **L'ātmanepāda è raro; per le radici ubhayapada di solito si forma secondo altre classi di aoristo (vedi Kielhorn, Grammatik §340 e sotto per le corrispondenti classi di aoristo).**
 
 **Elenco delle radici che hanno questo aoristo, in Kielhorn, Grammatik §340.**
-:::Esempio:
+:::
+Esempio:
 
 ⟪सिच्⟫ 6U "bagnare"
 
@@ -34,7 +35,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪असिचम्⟫ | ⟪असिचाम⟫ | ⟪असिचे⟫ | ⟪असिचामहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
-:::Formazioni irregolari:
+:::
+Formazioni irregolari:
 
 :::indent
 ⟪अस्⟫ 4P "gettare": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Spiegazione vedi Thumb-Hauschild §541,4)
@@ -42,11 +44,13 @@ status: stable
 ⟪ख्या⟫ + ⟪आ⟫ 2P "raccontare": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
 
 ⟪दृश्⟫ "vedere": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (Grado forte!)
-:::Nota:
+:::
+Nota:
 
 :::indent
 ⟪शास्⟫ 2P "ordinare": ⟪अशिषत्⟫ (grado debole regolare!)
-:::## 55.2. Esercizio
+:::
+## 55.2. Esercizio
 
 Determinare e tradurre per iscritto le seguenti forme e formare le forme corrispondenti dell'aoristo in a-:
 

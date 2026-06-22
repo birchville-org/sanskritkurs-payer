@@ -18,7 +18,8 @@ status: stable
 - Majemuk kopulatif (Dvandva)
 - Urutan anggota dalam Dvandva
 
-:::## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
+:::
+## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
 
 Pembentukan kata majemuk dalam skala yang sangat besar adalah ciri khas bahasa Sanskerta.
 
@@ -66,7 +67,8 @@ Dvandva secara umum adalah kata benda netral (terlepas dari jenis kelamin anggot
 **Penyelesaiannya:**
 Dilakukan dengan "dan" (**ca** = ⟪च⟫), kadang-kadang dengan "atau" (**vā** = ⟪वा⟫) atau "tergantung".
 
-:::Untuk dvandva dwandwa, lihat nanti!
+:::
+Untuk dvandva dwandwa, lihat nanti!
 
 ### 5.3.1. Unsur depan majemuk
 
@@ -115,7 +117,8 @@ Apabila dua dari tiga ketentuan yang disebutkan terakhir dapat berlaku secara be
 Gambar: Dewa Kāma = kāmadeva = ⟪कामदेव⟫, abad ke-18
 (Sumber gambar: Wikipedia, Domain Publik)
 
-:::**krodha** m. = ⟪क्रोध⟫ : kemarahan.
+:::
+**krodha** m. = ⟪क्रोध⟫ : kemarahan.
 
 **kleśa** m. = ⟪क्लेश⟫ : Kesusahan, penderitaan.
 

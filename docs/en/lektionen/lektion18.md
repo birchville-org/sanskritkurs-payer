@@ -14,9 +14,11 @@ lesson_id: 18
 ⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
 ⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
-:::⟪चाणक्य⟫
+:::
+⟪चाणक्य⟫
 
-::::## 18.2. Determinative Compounds (⟪तत्पुरुष⟫) with Adverbial First Member
+::::
+## 18.2. Determinative Compounds (⟪तत्पुरुष⟫) with Adverbial First Member
 
 As an adverbial (indeclinable) first member,
 
@@ -27,7 +29,8 @@ As an adverbial (indeclinable) first member,
 
 :::indent
 may be used. Such Tatpuruṣa compounds mostly belong to the class of Nityasamāsa = ⟪नित्यसमास⟫ (m. "permanent compound"), i.e., compounds that cannot be resolved at all, or not merely by means of the words occurring within the compound itself.
-:::Examples:
+:::
+Examples:
 
 ⟪अति⟫ "beyond, moreover":
 
@@ -39,7 +42,8 @@ may be used. Such Tatpuruṣa compounds mostly belong to the class of Nityasamā
 ⟪अतिस्तुति⟫ f.: excessive praise
 
 ⟪अत्युक्ति⟫ f.: excessive speech, exaggeration
-:::The most important adverbial first members are a-/an-, su-, dus-.
+:::
+The most important adverbial first members are a-/an-, su-, dus-.
 
 ⟪अ⟫ (before consonants), ⟪अन्⟫ (before vowels): un-: stands in the compound in place of ⟪न⟫ "not".
 
@@ -53,7 +57,8 @@ Examples:
 ⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : a non-Brahmin woman, non-Brahmin
 
 ⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : a non-god, non-god
-:::⟪सु⟫ "well, good"; when resolving the compound, commentators replace it with an adjective meaning "good" (e.g., ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
+:::
+⟪सु⟫ "well, good"; when resolving the compound, commentators replace it with an adjective meaning "good" (e.g., ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
 
 Examples:
 
@@ -65,7 +70,8 @@ Examples:
 ⟪सुखादित⟫ 3: well chewed
 
 ⟪सुदुःख⟫ n.: great suffering
-:::⟪दुस्⟫ "bad, evil" (observe Sandhi!).
+:::
+⟪दुस्⟫ "bad, evil" (observe Sandhi!).
 
 Examples:
 
@@ -73,7 +79,8 @@ Examples:
 ⟪दुर्नय⟫ m.: bad guidance, bad conduct
 
 ⟪दुष्करण⟫ n.: bad deed, difficult deed
-:::The following rule applies:
+:::
+The following rule applies:
 
 ::::grammar-box
 
@@ -85,7 +92,8 @@ Contrary to sentence Sandhi, in the final position of the first member of compou
 
 Therefore: ⟪दुष्करण⟫
 
-::::### 18.2.1. Compounds of Type ⟪सुकर⟫ / ⟪दुष्कर⟫
+::::
+### 18.2.1. Compounds of Type ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::::grammar-box
 
@@ -101,7 +109,8 @@ Examples:
 ⟪दुर्गम⟫ 3: difficult to go
 
 ⟪सुदुर्गम⟫ 3: very difficult to go
-:::::::### 18.2.2. Meanings of nañ-Tatpuruṣa (a- / an-)
+:::::::
+### 18.2.2. Meanings of nañ-Tatpuruṣa (a- / an-)
 
 Tatpuruṣa with a- / an- can have the following meanings:
 
@@ -127,7 +136,8 @@ The following verse summarizes these meanings:
 ⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
 
 Six meanings of nañ (= a-/an-) are named ....
-:::## 18.3. Verbal Compounds
+:::
+## 18.3. Verbal Compounds
 
 ::::grammar-box
 
@@ -136,7 +146,8 @@ Six meanings of nañ (= a-/an-) are named ....
 ⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
 ⟪गङ्गासलिलमाधुर्यं⟫  
 ⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
-:::⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ p. 2 l. 14f.
+:::
+⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ p. 2 l. 14f.
 
 A prefix violently alters the meaning of a root, just as the sweetness of the Ganges water is altered by seawater.
 
@@ -144,7 +155,8 @@ A prefix violently alters the meaning of a root, just as the sweetness of the Ga
 
 Verbs in Sanskrit can be combined with prefixes (⟪उपसर्ग⟫ m.). In doing so, sentence sandhi usually applies. Prefixes can significantly modify the meaning of the root, so that in many cases the meaning of a root with a prefix must be learned separately. Verbs with a prefix can have a different mood (P, Ā) than the simple root. Multiple prefixes can be placed before a root simultaneously.
 
-::::Some important prefixes are:
+::::
+Some important prefixes are:
 
 ⟪उप⟫ "to, towards, against"
 
@@ -160,7 +172,8 @@ Examples:
 *   PPP ⟪उपपन्न⟫ 3: equipped with (Instrumental)
 
 ⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : to grasp, to attain
-:::⟪प्र⟫ "forward, forth"
+:::
+⟪प्र⟫ "forward, forth"
 
 Examples:
 
@@ -178,7 +191,8 @@ Examples:
 ⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : to utter, to designate as, to declare as
 
 ⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : to praise before, to loudly praise, to mention something, to begin
-:::⟪वि⟫ "apart, away, apart, ver-"
+:::
+⟪वि⟫ "apart, away, apart, ver-"
 
 Examples:
 
@@ -194,7 +208,8 @@ Examples:
 ⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : to forget
 
 ⟪विहन्⟫ 2 ⟪विहन्ति⟫ : to shatter, to destroy, to annihilate
-:::⟪सम्⟫ "together, with"
+:::
+⟪सम्⟫ "together, with"
 
 Examples:
 
@@ -218,19 +233,22 @@ Examples:
 
 The root ⟪कृ⟫ "to do" shows, in connection with the prefixes ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫, also the form ⟪स्कृ⟫
 
-::::Example:
+::::
+Example:
 
 :::indent
 sam-kṛ 8 ⟪संस्करोति⟫ : to prepare, to prepare for sacrifice, to consecrate
 
 *   PPP ⟪संस्कृत⟫ 3: prepared for sacrifice ; ⟪संस्कृत⟫ n.: Sanskrit: the language suitable for sacrifice ; counterpart ⟪प्राकृत⟫ 3: ordinary, common ; ⟪प्राकृत⟫ n.: common language, Prakrit (designation for the folk and trade languages related to Sanskrit)
-:::### 18.3.1. Nominal formations from verbal compounds
+:::
+### 18.3.1. Nominal formations from verbal compounds
 
 ::::grammar-box
 
 From roots with preverbs, nouns can be formed using kṛt suffixes.
 
-::::Examples:
+::::
+Examples:
 
 sam-kṛ + -a = ⟪संस्कार⟫ m.: consecration, preparation ; transition rituals = designation for the ceremonies that accompany the various stages of life from conception to death (see the excellent summary by Basham, Wonder pp. 160 - 170!)
 
@@ -239,18 +257,21 @@ sam-kṛ + -a = ⟪संस्कार⟫ m.: consecration, preparation ; tran
 Fig.: ⟪विवाहः⟫
 Wedding = ⟪विवाह⟫ m., an important ⟪संस्कारः⟫
 (Image source: [Details](/en/licenses#lekt1804))
-:::upa-nī + -ana = ⟪उपनयन⟫ n.: the leading near (to the sacrificial fire) = ceremony in which the sacred thread (⟪यज्ञोपवीत⟫ n.) is placed on the male members of the three upper castes and the sacred verse ⟪सावित्री⟫ is whispered into their ear, which they are to recite daily at sunrise and sunset from then on. For the Brahmins, this is Ṛgveda III.62.10:
+:::
+upa-nī + -ana = ⟪उपनयन⟫ n.: the leading near (to the sacrificial fire) = ceremony in which the sacred thread (⟪यज्ञोपवीत⟫ n.) is placed on the male members of the three upper castes and the sacred verse ⟪सावित्री⟫ is whispered into their ear, which they are to recite daily at sunrise and sunset from then on. For the Brahmins, this is Ṛgveda III.62.10:
 
 :::indent
 "May we receive the excellent radiance of the god 'Driver,' who may set our thoughts in motion."
-:::Through the Upanayana, the second birth occurs, therefore: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
+:::
+Through the Upanayana, the second birth occurs, therefore: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
 
 :::media
 ![](/images/lekt1801.webp)
 Fig.: ⟪उपनयनम्⟫
 "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
 (Image source: [Details](/en/licenses#lekt1801))
-:::## 18.4. Word List
+:::
+## 18.4. Word List
 
 ⟪सुष्टु⟫ 3: highly praised, distinguished, good
 
@@ -383,7 +404,8 @@ A) Resolve the following Sanskrit compounds and provide translation suggestions:
 Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Print
 (Image source: [Details](/en/licenses#lekt1802))
-:::B) Translate using verbs of the 2nd present class:
+:::
+B) Translate using verbs of the 2nd present class:
 
 1. The Brahmin praises the goddesses.
 
@@ -402,7 +424,8 @@ Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 Fig.: ⟪सुगतः⟫
 ⟪गन्धार⟫ 1st/2nd cent. CE
 (Image source: [Details](/en/licenses#lekt1803))
-:::C) Provide the definition of Yoga in Sanskrit in two ways: once using a compound, once by resolving the compound.
+:::
+C) Provide the definition of Yoga in Sanskrit in two ways: once using a compound, once by resolving the compound.
 
 D) Translate:
 

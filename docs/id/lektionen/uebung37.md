@@ -123,7 +123,8 @@ C) Determine and translate the following compounds:
 ![](/images/uebung062.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Image source: [Details](/en/licenses#uebung062))
-:::---
+:::
+---
 
 ## Narrative Perfect (The Story of the Old Man)
 

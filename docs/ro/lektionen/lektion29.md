@@ -18,7 +18,8 @@ status: stable
 **În causativ se folosește Ātmanepada (⟪आत्मनेपद⟫):**
 
 **1. Când rezultatul acțiunii cauzate îi folosește celui care cauzează:**
-:::Exemplu:
+:::
+Exemplu:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = „Rāma face să fie făcută o saltea pentru sine (în propriul interes)”
 
@@ -41,7 +42,8 @@ Prepozitii:
 ⟪उद्⟫° : sus, în sus, în sus, afară, din, des-
 
 ⟪परि⟫° : în jur, în jur (loc, timp), prin
-:::⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (a deveni în jurul cuiva = a înconjura =) a stăpâni, a învinge; a disprețui, a disprețui
+:::
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (a deveni în jurul cuiva = a înconjura =) a stăpâni, a învinge; a disprețui, a disprețui
 
 ⟪अवज्ञान⟫ n.: dispreț
 
@@ -57,7 +59,8 @@ Pass. ⟪ग्रस्यते⟫
 Kaus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
-:::⟪तीक्ष्ण⟫ 3: "sălbatic", ascuțit, ascuțit, sever, violent, ascuțit la limbă
+:::
+⟪तीक्ष्ण⟫ 3: "sălbatic", ascuțit, ascuțit, sever, violent, ascuțit la limbă
 
 ⟪न्याय⟫ m.: normă, regulă, mod corect și potrivit; metodă, logică (de la ⟪इ⟫ + ⟪नि⟫)
 
@@ -68,7 +71,8 @@ Inf. ⟪ग्रसितुम्⟫
 Fig.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2903))
-:::⟪पालयति⟫ : de asemenea, sinonim cu  ⟪पाति⟫
+:::
+⟪पालयति⟫ : de asemenea, sinonim cu  ⟪पाति⟫
 
 ⟪पुनर्⟫ Indekl.: din nou, mereu din nou, înapoi, încă o dată; în schimb, dar (înaintea sunetelor voilate, cu excepția r-: ⟪पुनर्⟫)
 
@@ -84,7 +88,8 @@ din acesta:
 Fig.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2901))
-:::⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): blând, mititel, moale; lent, slab
+:::
+⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): blând, mititel, moale; lent, slab
 
 ⟪यथा⟫ Adv.: cum, ca și cum
 
@@ -96,7 +101,8 @@ Pass. ⟪रम्यते⟫
 Kaus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
-:::⟪वानप्रस्थ⟫ m.: ermit de pădure (cineva care se află în al 3-lea ⟪आश्रम⟫)
+:::
+⟪वानप्रस्थ⟫ m.: ermit de pădure (cineva care se află în al 3-lea ⟪आश्रम⟫)
 
 ⟪शुचि⟫ 3: strălucitor, lucios, fin; m. puritate
 
@@ -104,7 +110,8 @@ Inf. ⟪रन्तुम्⟫
 
 :::indent
 PPP ⟪पूजित⟫
-:::## 29.3. Exercițiu de traducere pentru recapitulare
+:::
+## 29.3. Exercițiu de traducere pentru recapitulare
 
 Traduceți literal în limba germană corectă și învățați pe de rost textele sanscrite:
 
@@ -141,7 +148,8 @@ Explicație: ⟪आत्मसु⟫ = Loc. sg. la ⟪आत्मन्⟫ m. 
 Fig.: ⟪मात्स्यन्याय⟫:
 (Desen: Namcha Payer, 2002-11)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2902))
-:::Explicații:
+:::
+Explicații:
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "ceva (cineva), în fața căruia trebuie să te cutremuri"
 

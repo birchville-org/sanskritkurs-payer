@@ -496,14 +496,13 @@ html {
 /* Hellrot-Hervorhebung (Explizit via ***word*** oder <strong><em>) */
 .vp-doc strong em,
 .vp-doc em strong {
-  color: #b22222 !important;
   font-style: normal !important;
   font-weight: 800 !important;
 }
 
 .dark .vp-doc strong em,
 .dark .vp-doc em strong {
-  color: #8b1a1a !important;
+  /* color removed to prevent red Latin letters */
 }
 
 /* Robust SignalRot handling: targets .sanskrit-dev whether it's a child SPAN or applied directly to the EM */
@@ -552,12 +551,10 @@ html {
 
 /* SignalRot auch in Tabellen-Zellen erzwingen (fallback für strong+em) */
 .vp-doc table strong em {
-  color: #b22222 !important;
   font-style: normal !important;
 }
 
 .dark .vp-doc table strong em {
-  color: #8b1a1a !important;
   font-style: normal !important;
 }
 

@@ -15,7 +15,8 @@ status: stable
 - Fachterminologie für Komposita
 - Kopulative Komposita (Dvandva)
 - Die Reihenfolge der Glieder in Dvandvas
-:::## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
+:::
+## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
 
 Die Bildung von Wortzusammensetzungen in sehr großem Umfang ist ein Charakteristikum des Sanskrit.
 
@@ -60,7 +61,8 @@ Das Dvandva ist im Allgemeinen ein Neutrum (unabhängig vom Geschlecht des letzt
 
 **Die Auflösung:**
 Erfolgt mit "und" (**ca** = ⟪च⟫), gelegentlich mit "oder" (**vā** = ⟪वा⟫) oder "je".
-:::Zu den Dualdvandva siehe später!
+:::
+Zu den Dualdvandva siehe später!
 
 ### 5.3.1. Vorderglieder von Komposita
 
@@ -106,7 +108,8 @@ Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen könne
 ![](/images/lekt0501.webp)
 Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 (Bildquelle: Wikipedia, Public domain)
-:::**krodha** m. = ⟪क्रोध⟫ : Zorn.
+:::
+**krodha** m. = ⟪क्रोध⟫ : Zorn.
 
 **kleśa** m. = ⟪क्लेश⟫ : Qual, Plage.
 

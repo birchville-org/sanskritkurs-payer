@@ -15,7 +15,8 @@ status: stable
 - Terminologia tecnica per i composti
 - Composti copulativi (Dvandva)
 - L'ordine dei membri nei Dvandva
-:::## 5.1. Composti nominali (samāsa m. = ⟪समास⟫)
+:::
+## 5.1. Composti nominali (samāsa m. = ⟪समास⟫)
 
 La formazione di composti lessicali in grande abbondanza è una caratteristica del sanscrito.
 
@@ -60,7 +61,8 @@ Il Dvandva è in generale un neutro (indipendentemente dal genere dell'ultimo me
 
 **La risoluzione:**
 Avviene con "e" (**ca** = ⟪च⟫), occasionalmente con "o" (**vā** = ⟪वा⟫) o "ciascuno".
-:::Per i Dvandva duale, vedere più avanti!
+:::
+Per i Dvandva duale, vedere più avanti!
 
 ### 5.3.1. Elementi iniziali dei composti
 
@@ -106,7 +108,8 @@ Quando due delle tre ultime disposizioni possono applicarsi contemporaneamente, 
 ![](/images/lekt0501.webp)
 Fig.: Dio Kāma = kāmadeva = ⟪कामदेव⟫, XVIII secolo.
 (Fonte dell'immagine: Wikipedia, dominio pubblico)
-:::**krodha** m. = ⟪क्रोध⟫ : ira.
+:::
+**krodha** m. = ⟪क्रोध⟫ : ira.
 
 **kleśa** m. = ⟪क्लेश⟫ : tormento, flagello.
 

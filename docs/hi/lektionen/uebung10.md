@@ -211,7 +211,8 @@ kṣatriyeṇeśvara ijyate.
 ![](/images/uebung011.webp)
 चित्रम् : ⟪ग्रामः⟫
 (चित्रस्य मूलम् : [विवरणम्](/hi/licenses#uebung011))
-:::---
+:::
+---
 
 ## पाठ अभ्यास
 

@@ -80,7 +80,8 @@ El onorează zeitatea personală a Vaiśya-ului meritoriu.
 ![](/images/uebung023.webp)
 Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung023))
-:::---
+:::
+---
 
 ## Modele de declinare
 
@@ -217,7 +218,8 @@ A) Formați toate cazurile învățate până acum pentru următoarele cuvinte, 
 | 2. Akk. | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
 | 3. Instr. | ⟪अनेन⟫ / ⟪एनेन⟫ | — | ⟪अनया⟫ / ⟪एनया⟫ | ⟪एभिस्⟫ (⟪एभिः⟫) | — | ⟪आभिस्⟫ (⟪आभिः⟫) |
 | 6. Gen. | ⟪अस्य⟫ | — | ⟪अस्यास्⟫ (⟪अस्याः⟫) | ⟪एषाम्⟫ | — | ⟪आसाम्⟫ |
-:::---
+:::
+---
 
 ## Suplimentare exerciții
 
@@ -250,7 +252,8 @@ Datoria tuturor este: non-violența, veridicitatea, puritatea, neplângerea împ
 Propoziția 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nominativ Acuzativ: Dvandva, care indică cele două "lucruri"
 Propoziția 8: **⟪कर्म⟫** Nominativ, Acuzativ singular Neutru la ⟪कर्मन्⟫ "faptă"
 Propoziția 13: **⟪सर्वेषाम्⟫** Genitiv plural masculin la ⟪सर्व⟫ "fiecare, toți" (pronume, nu declinat ca deva)
-:::⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
+:::
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 Bătaia produce dobândirea și posesia sigură a filosofiei, vedisticii și economiei. Conducerea bătaiei este politica.
 

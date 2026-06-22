@@ -69,7 +69,8 @@ A) Bilden Sie die in Zeit, Zahl, Modus u. s. w. entsprechende **2. Person** zu f
 ![](/images/uebung070.webp)
 Abb.: ⟪दिशसि⟫
 (Bildquelle: [Details](/licenses#uebung070))
-:::---
+:::
+---
 
 ## Übersetzungen ins Sanskrit
 
@@ -109,7 +110,8 @@ Wie rettest du dich (überschreitest du den Strom) vor dem Feind?
 ![](/images/uebung071.jpg)
 Abb.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 (Bildquelle: [Details](/licenses#uebung071))
-:::---
+:::
+---
 
 ## Gespräch (⟪संवादः⟫)
 

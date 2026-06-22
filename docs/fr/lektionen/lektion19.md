@@ -13,11 +13,13 @@ lesson_id: 19
 
 :::indent
 **Pronom relatif -- Proposition relative, contenant le nom auquel se rapporte la proposition relative -- (Pronom démonstratif) -- Phrase principale**
-:::**La proposition relative peut également se trouver après la phrase principale, mais elle ne peut pas être insérée dans la phrase principale.**
+:::
+**La proposition relative peut également se trouver après la phrase principale, mais elle ne peut pas être insérée dans la phrase principale.**
 
 **Le pronom relatif et le mot de relation, qui se trouve dans la proposition relative, contrairement à l'allemand, sont dans le cas que la proposition relative exige syntaxiquement. Le pronom démonstratif est dans le cas que la phrase principale exige syntaxiquement.**
 
-::::Exemples :
+::::
+Exemples :
 
 Remarque : Dans les relatives de contenu universel, on utilise volontiers l'optatif au lieu de l'indicatif. La plupart de nos exemples seraient donc préférablement à l'optatif.
 
@@ -25,27 +27,33 @@ Remarque : Dans les relatives de contenu universel, on utilise volontiers l'opta
 
 :::indent
 ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ etc. = "Un homme qui accomplit des mérites va au ciel."
-:::**2. L'objet direct (⟪कर्म⟫) de la phrase principale est précisé par la proposition relative :**
+:::
+**2. L'objet direct (⟪कर्म⟫) de la phrase principale est précisé par la proposition relative :**
 
 :::indent
 ⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "Les dieux protègent un brahmane qui offre un sacrifice en tant que maître de l'offrande."
-:::**3. La précision d'un nom de la phrase principale se trouve dans la proposition relative :**
+:::
+**3. La précision d'un nom de la phrase principale se trouve dans la proposition relative :**
 
 :::indent
 ⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Les fils d'hommes qui font le mal ne reçoivent pas de richesse."
-:::**4. Le pronom relatif et le mot de relation sont au génitif (⟪षष्ठी⟫) :**
+:::
+**4. Le pronom relatif et le mot de relation sont au génitif (⟪षष्ठी⟫) :**
 
 :::indent
 ⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "L'homme n'est pas heureux dont les fils font le mal."
-:::**5. Le pronom relatif et le mot de relation sont à l'instrumental (⟪तृतीया⟫) :**
+:::
+**5. Le pronom relatif et le mot de relation sont à l'instrumental (⟪तृतीया⟫) :**
 
 :::indent
 ⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "Ils haïssent l'ennemi qui a vaincu / conquis leur village."
-:::**6. Le pronom relatif et le mot de relation sont à l'accusatif (⟪द्वितीया⟫) :**
+:::
+**6. Le pronom relatif et le mot de relation sont à l'accusatif (⟪द्वितीया⟫) :**
 
 :::indent
 ⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "Un homme protégé par la déesse obtient le bonheur."
-:::## 19.2. Le pronom relatif = ⟪व्यपेक्षकसर्वनाम⟫ n.
+:::
+## 19.2. Le pronom relatif = ⟪व्यपेक्षकसर्वनाम⟫ n.
 
 ::::grammar-box
 
@@ -64,7 +72,8 @@ Remarque : Dans les relatives de contenu universel, on utilise volontiers l'opta
 
 **En tant que premier membre de composés, la base ⟪यद्⟫ apparaît (en respectant le sandhi).**
 
-::::## 19.3. Liste de mots
+::::
+## 19.3. Liste de mots
 
 **⟪अर्थ⟫ m.** : but, objectif, signification (d’un mot), richesse, bien, avoir. **⟪अर्थम्⟫** (acc.), **⟪अर्थेन⟫** (instr.) avec gén. ou comme second membre d’un Tatpuruṣa : pour l’amour de ..., afin de.
 
@@ -81,7 +90,8 @@ Remarque : Dans les relatives de contenu universel, on utilise volontiers l'opta
 Fig. : ⟪कामः⟫
 Illustration concernant le ⟪कामसूत्र⟫
 (Source de l’image : [Détails](/fr/licenses#lekt1809))
-:::**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫** : être debout, rester, persister, se trouver. (Est traditionnellement compté dans la première classe de présent, bien qu’il s’agisse d’une classe thématique de présent à redoublement, comme ⟪पा⟫ 1 ⟪पिबति⟫)
+:::
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫** : être debout, rester, persister, se trouver. (Est traditionnellement compté dans la première classe de présent, bien qu’il s’agisse d’une classe thématique de présent à redoublement, comme ⟪पा⟫ 1 ⟪पिबति⟫)
 
 **⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫** : se tenir debout devant, se placer devant quelqu’un avec respect
 
@@ -93,7 +103,8 @@ de **⟪स्था⟫** :
 **⟪स्थान⟫ n.** : endroit, (bon) lieu, emplacement
 
 **⟪स्थिति⟫ f.** : séjour, fermeté, persévérance
-:::**⟪गर्भ⟫ m.** : utérus, sein, intérieur, embryon / fœtus. À la fin d’un Bahuvrīhi souvent : « intérieur », par ex.
+:::
+**⟪गर्भ⟫ m.** : utérus, sein, intérieur, embryon / fœtus. À la fin d’un Bahuvrīhi souvent : « intérieur », par ex.
 
 :::indent
 **⟪धनगर्भ⟫ 3** : « dont l’intérieur est l’argent = dans lequel se trouve de l’argent »
@@ -104,20 +115,23 @@ de **⟪स्था⟫** :
 Fig. : ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
 (Source de l’image : [Détails](/fr/licenses#lekt1901))
-:::**⟪वारिद⟫ m.** : porteur d’eau = nuage de pluie
+:::
+**⟪वारिद⟫ m.** : porteur d’eau = nuage de pluie
 
 :::media
 ![](/images/lekt1902.jpg)
 Fig. : ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
 (Source de l’image : [Détails](/fr/licenses#lekt1902))
-:::**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫** : souffler
+:::
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫** : souffler
 
 de cela :
 
 :::indent
 **⟪वात⟫ m.** : vent
-:::**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫** : conduire, voyager (trans.)
+:::
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫** : conduire, voyager (trans.)
 
 **⟪छत्त्र⟫ n.** : parasol, ombrelle
 
@@ -126,14 +140,16 @@ de cela :
 Fig. : ⟪छत्त्रम्⟫
 « _Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), en costume traditionnel, est une coutume dans les régions méridionales du Kerala. _Onappottan_ visite les maisons pendant le _onam_ et donne des bénédictions. Récemment, _onappottan_ est devenu une vue rare, confinée aux villages. »
 (Source de l’image : [Détails](/fr/licenses#lekt1904))
-:::**⟪पण्डित⟫ m.** : érudit, sage ; 3 : intelligent, versé (dans)
+:::
+**⟪पण्डित⟫ m.** : érudit, sage ; 3 : intelligent, versé (dans)
 
 :::media
 ![](/images/lekt1903.jpg)
 Fig. : ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
 ⟪१९५९⟫
 (Source de l’image : [Détails](/fr/licenses#lekt1903))
-:::**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫** : résider chez, habiter (acc., loc.) ; visiter, se rendre à (acc.) ; servir, soigner, vénérer ; pratiquer, utiliser ; assister, avoir des rapports sexuels
+:::
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫** : résider chez, habiter (acc., loc.) ; visiter, se rendre à (acc.) ; servir, soigner, vénérer ; pratiquer, utiliser ; assister, avoir des rapports sexuels
 
 **⟪नि⟫ préverbe** : en bas, dans
 
@@ -178,14 +194,16 @@ Fig. : ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेह�
 ⟪वारिदो⟫ ⟪वारि⟫ ⟪मुञ्चति⟫ ⟪।⟫  
 ⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
 ⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫
-:::Explication : ⟪वारि⟫ Nom., Acc. sg. de ⟪वारि⟫ n. : eau
+:::
+Explication : ⟪वारि⟫ Nom., Acc. sg. de ⟪वारि⟫ n. : eau
 
 :::indent
 ⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
 ⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
 ⟪धर्मार्थकामसंयोगं⟫  
 ⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
-:::Explication : ⟪यथाकालम्⟫ Avyayībhāvatikompositum : à la bonne heure ; toujours, lorsque le bon moment se présente.
+:::
+Explication : ⟪यथाकालम्⟫ Avyayībhāvatikompositum : à la bonne heure ; toujours, lorsque le bon moment se présente.
 
 :::indent
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
@@ -197,7 +215,8 @@ Fig. : ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेह�
 ⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
-:::Explication : ⟪पुमान्⟫ Nom. sg. de ⟪पुंस्⟫ "homme" ; ⟪लोके⟫ Locatif sg. de ⟪लोक⟫ m. : dans le ...
+:::
+Explication : ⟪पुमान्⟫ Nom. sg. de ⟪पुंस्⟫ "homme" ; ⟪लोके⟫ Locatif sg. de ⟪लोक⟫ m. : dans le ...
 
 :::deleteme-box
 

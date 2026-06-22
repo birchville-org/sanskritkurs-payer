@@ -33,7 +33,8 @@ Un homme obscurci savoure de bonnes nourritures et de belles femmes. Dont l'obsc
 ![](/images/uebung049.webp)
 Fig. : ⟪कुलबन्धनम्⟫
 (Source de l'image : [Détails](/fr/licenses#uebung049))
-:::---
+:::
+---
 
 ## Conjugaisons verbales (7e classe)
 

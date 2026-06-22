@@ -25,7 +25,8 @@ Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. kei
 | **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
 | **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
-::::::Ausnahme zu obiger Regel:
+::::::
+Ausnahme zu obiger Regel:
 
 Auslautender dentaler Verschlusslaut (nicht Nasal):
 
@@ -40,7 +41,8 @@ Auslautender dentaler Verschlusslaut (nicht Nasal):
 | **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
 | **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
-::::::Beispiele:
+::::::
+Beispiele:
 
 ⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल⟫
 
@@ -67,7 +69,8 @@ Auslautender dentaler Verschlusslaut (nicht Nasal):
 Abb.: ⟪अध्यापनम्⟫
 "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
 (Bildquelle: [Details](/licenses#lekt1602))
-:::⟪अनसूया⟫ f.: Nicht-Murren, Neidlosigkeit
+:::
+⟪अनसूया⟫ f.: Nicht-Murren, Neidlosigkeit
 
 ⟪नृशंस्य⟫ n.: Boshaftigkeit, Niedertracht
 
@@ -75,13 +78,15 @@ davon:
 
 :::indent
 ⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit
-:::⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leben
+:::
+⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leben
 
 davon:
 
 :::indent
 ⟪आजीव⟫ m.: Lebensunterhalt
-:::⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht
+:::
+⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht
 
 ⟪क्षेम⟫ n.: Ruhe, Frieden, Wohlergehen, sicherer Besitz
 
@@ -98,7 +103,8 @@ davon:
 Abb.: ⟪योगी⟫
 Birla Mandir, Delhi
 (Bildquelle: [Details](/licenses#lekt1601))
-:::⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen
+:::
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen
 
 ⟪शस्त्र⟫ (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe
 
@@ -113,7 +119,8 @@ Birla Mandir, Delhi
 Abb.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
 (Bildquelle: [Details](/licenses#lekt1603))
-:::## 16.3. Übung
+:::
+## 16.3. Übung
 
 A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie:
 
@@ -130,7 +137,8 @@ A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie:
 Abb.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 ⟪हरियाणा⟫ / ਹਰਿਆਣਾ
 (Bildquelle: [Details](/licenses#lekt1604))
-:::⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
+:::
+⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
 ⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
@@ -233,7 +241,8 @@ Satz 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandv
 Satz 8: ⟪कर्म⟫ Nom., Akk. sg. Neutrum zu ⟪कर्मन्⟫ "Tat"
 
 Satz 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. zu ⟪सर्व⟫ "jeder, alle" (Pronomen, dekliniert nicht wie deva)
-:::⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
+:::
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
 :::deleteme-box
 

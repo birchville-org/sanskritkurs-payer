@@ -32,7 +32,8 @@ Acest particip este o formare nominală din tema de prezent, adică un particip 
 | | | tema de prezent + **-nt-** + **-ī** (declinare ca **devī**:br⟪देवी⟫) |
 | | **clasa a 6-a de prezent** | tema de prezent + **-nt-** + **-ī**:brsau::brtema de prezent + **-t-** + **-ī** |
 
-::::Exemple:
+::::
+Exemple:
 
 1\. clasa de prezent:
 
@@ -51,7 +52,8 @@ Acest particip este o formare nominală din tema de prezent, adică un particip 
 | | **3. Instrumental**:br⟪तृतीया⟫ | **⟪यजद्भिस्⟫**:brdin yaja-t-bhis | **⟪यजद्भिस्⟫** | |
 | | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪यजताम्⟫**:bryaja-t-ām | **⟪यजताम्⟫** | |
 
-::::Observați identitatea de formă a lui **⟪यजन्ति⟫** (Nom. pl. Neutru) cu persoana a 3-a plural!
+::::
+Observați identitatea de formă a lui **⟪यजन्ति⟫** (Nom. pl. Neutru) cu persoana a 3-a plural!
 
 4\. clasa de prezent
 
@@ -61,7 +63,8 @@ Acest particip este o formare nominală din tema de prezent, adică un particip 
 *   Masculin Nom. sg. **⟪नृत्यन्⟫**
 *   Neutru Nom. Ac. sg. **⟪नृत्यत्⟫**
 *   Feminin Nom. sg. **⟪नृत्यन्ती⟫**
-:::6\. clasa de prezent
+:::
+6\. clasa de prezent
 
 :::indent
 **⟪विशन्त्⟫** „intrând”
@@ -79,7 +82,8 @@ Acest particip este o formare nominală din tema de prezent, adică un particip 
 | **Feminin** | | |
 | | | tema de prezent + **-at-** + **-ī** (declinare ca **devī**:br⟪देवी⟫) |
 
-::::2\. clasa de prezent:
+::::
+2\. clasa de prezent:
 
 :::indent
 **⟪अस्⟫** „a fi”: **⟪सन्त्⟫** „fiind, autentic, bun, adevărat”
@@ -103,7 +107,8 @@ Acest particip este o formare nominală din tema de prezent, adică un particip 
 Fig.: placă memorială ⟪सती⟫
 Placă memorială ⟪सती⟫ în Palatul din Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2101))
-:::5\. Clasa de prezent:
+:::
+5\. Clasa de prezent:
 
 :::indent
 **⟪सु⟫** "a presa": **⟪सुन्वन्त्⟫**
@@ -111,7 +116,8 @@ Placă memorială ⟪सती⟫ în Palatul din Jodhpur - ⟪जोधपु�
 *   Masculin Nom. sg. **⟪सुन्वन्⟫**
 *   Neutru Nom. Acuz. sg. **⟪सुन्वत्⟫**
 *   Feminin Nom. sg. **⟪सुन्वती⟫**
-:::8\. Clasa de prezent
+:::
+8\. Clasa de prezent
 
 :::indent
 **⟪कृ⟫** "a face": **⟪कुर्वन्त्⟫**
@@ -119,7 +125,8 @@ Placă memorială ⟪सती⟫ în Palatul din Jodhpur - ⟪जोधपु�
 *   Masculin Nom. sg. **⟪कुर्वन्⟫**
 *   Neutru Nom. Acuz. sg. **⟪कुर्वत्⟫**
 *   Feminin Nom. sg. **⟪कुर्वती⟫**
-:::### 21.1.2. ⟪महान्त्⟫ "mare"
+:::
+### 21.1.2. ⟪महान्त्⟫ "mare"
 
 ::::grammar-box
 
@@ -161,7 +168,8 @@ Fig.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2102))
 ::::::indent
 "Un sigiliu de sardonyx din secolele IV-VI e.n., reprezentându-l pe Vișnu cu un închinător. Inscripția în bactrian cursiv spune: 'Mihira, Vișnu și Śiva'."
-:::## 21.2. Sandhi pentru nasalele finale
+:::
+## 21.2. Sandhi pentru nasalele finale
 
 ::::grammar-box
 **După o vocală scurtă, nasalele finale – cu excepția lui -m – se dublează în fața unei vocale inițiale.**
@@ -170,30 +178,36 @@ Fig.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 
 :::indent
 **⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** „inamicul biruitor”
-:::::::## 21.3. Forme politice de adresare
+:::::::
+## 21.3. Forme politice de adresare
 
 ::::grammar-box
 **În sanscrită, se poate adresa cuiva la persoana a II-a singular, fără a fi nepoliticos. Dacă se dorește totuși o atitudine politicoasă, se poate folosi un substantiv cu sensul de „Cuvinte cuvenită” și similare, iar verbul se pune la persoana a III-a singular sau plural, sau se utilizează o construcție pasivă. Gradarea politicii în utilizarea persoanei la adresare este aproximativ următoarea:**
 
 :::indent
 **pers. a II-a sg. » pers. a II-a pl. » pers. a III-a sg. cu substantiv corespunzător » pers. a III-a pl. cu substantiv corespunzător**
-:::**Cel mai important astfel de substantiv de politețe este ⟪भवन्त्⟫, fem.: ⟪भवती⟫. În utilizarea sa, corespunde „Dvs.” nostru politicos.**
-::::Acest **⟪भवन्त्⟫** este o contragere din **⟪भगवन्त्⟫**, declinarea sa este cea a substantivelor în **-vant** (vezi [Lecția 13](lektion13.md)). Acest **⟪भवन्त्⟫** trebuie deosebit de participul prezent P al verbului **⟪भू⟫** „a deveni” **⟪भवन्त्⟫** : nominativul singular masculin al lui **⟪भवन्त्⟫** „Dvs.” este **⟪भवान्⟫**, iar al participului **⟪भवन्⟫**. 
+:::
+**Cel mai important astfel de substantiv de politețe este ⟪भवन्त्⟫, fem.: ⟪भवती⟫. În utilizarea sa, corespunde „Dvs.” nostru politicos.**
+::::
+Acest **⟪भवन्त्⟫** este o contragere din **⟪भगवन्त्⟫**, declinarea sa este cea a substantivelor în **-vant** (vezi [Lecția 13](lektion13.md)). Acest **⟪भवन्त्⟫** trebuie deosebit de participul prezent P al verbului **⟪भू⟫** „a deveni” **⟪भवन्त्⟫** : nominativul singular masculin al lui **⟪भवन्त्⟫** „Dvs.” este **⟪भवान्⟫**, iar al participului **⟪भवन्⟫**. 
 
 **Exemple:**
 
 :::indent
 **⟪किं⟫ ⟪भवान्करोति⟫** = **⟪किं⟫ ⟪भवता⟫ ⟪क्रियते⟫** = „Ce faceți?”
-:::mai politicos:
+:::
+mai politicos:
 
 :::indent
 **⟪किं⟫ ⟪भवन्तः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवद्भिः⟫ ⟪क्रियते⟫**
-:::feminin:
+:::
+feminin:
 
 :::indent
 **⟪किं⟫ ⟪भवती⟫ ⟪करोति⟫** = **⟪किं⟫ ⟪भवत्या⟫ ⟪क्रियते⟫**  
 **⟪किं⟫ ⟪भवत्यः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवतीभिः⟫ ⟪क्रियते⟫**
-:::Alte cuvinte care pot fi utilizate similar cu **⟪भवन्त्⟫**:
+:::
+Alte cuvinte care pot fi utilizate similar cu **⟪भवन्त्⟫**:
 
 *   **⟪आर्य⟫** (fem.: **⟪आर्या⟫**) „Nobil”. De exemplu, **⟪यदार्य⟫ ⟪इच्छति⟫** „Ce doriți?”
 *   **⟪महाभाग⟫** „celuia al cărui destin / noroc este mare = Elegant”. Adesea utilizat de femei la adresare sau vorbind despre bărbați de bună condiție. În sanscrita vorbită modernă, foarte frecvent.
@@ -203,7 +217,8 @@ Dacă nu se dorește doar politetea, ci și exprimarea venerației pentru cineva
 :::indent
 **⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = „Este soacra (prezentă aici) soția dumneavoastră?”  
 **⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫** (într-o scrisoare sau conversație telefonică) = „Sunteți bine?”
-:::## 21.4. Listă de cuvinte
+:::
+## 21.4. Listă de cuvinte
 
 **⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** a cuiva (Ac.) a distribui, a veni, a iubi pe cineva, a onora, a venera
 
@@ -228,7 +243,8 @@ Fig.: ⟪भगवद्गीता⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2105))
 ::::::indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (într-adevăr un desiderativ pentru ⟪भज्⟫: a dori să participe): a cere milostenie
-:::din aceasta:
+:::
+din aceasta:
 
 :::indent
 **⟪भिक्षु⟫ m.:** cerșetor, monah
@@ -237,11 +253,13 @@ Fig.: ⟪भगवद्गीता⟫
 Fig.: ⟪भिक्षवः⟫
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2104))
-:::**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** a distruge (intransitiv), a se înrăutăți, a fi rușinat
+:::
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** a distruge (intransitiv), a se înrăutăți, a fi rușinat
 
 :::indent
 **⟪दोष⟫ m.:** greșeală
-:::**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (fără PPP, în schimb ⟪पक्व⟫ 3: gătit, fermentat) Absol. ⟪पक्त्वा⟫ :** a găti (transitiv) = a fierbe, a prăji, a rumeni etc.
+:::
+**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (fără PPP, în schimb ⟪पक्व⟫ 3: gătit, fermentat) Absol. ⟪पक्त्वा⟫ :** a găti (transitiv) = a fierbe, a prăji, a rumeni etc.
 
 ## 21.5. Exerciții
 

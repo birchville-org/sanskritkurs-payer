@@ -20,7 +20,8 @@ last_reconstructed: 2026-04-30
 
 misalnya, devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu adalah seorang dewa."
 
-:::Kopula verbal ("adalah", "adalah", "aku adalah", "kamu adalah", "kalian adalah") tidak diperlukan, tetapi kadang-kadang dapat muncul.
+:::
+Kopula verbal ("adalah", "adalah", "aku adalah", "kamu adalah", "kalian adalah") tidak diperlukan, tetapi kadang-kadang dapat muncul.
 
 Tidak ada **artikel**: **devaḥ** -- ⟪देवः⟫ dapat berarti "dewa itu" atau "seorang dewa".
 
@@ -64,7 +65,8 @@ Dalam kamus bahasa Sanskerta, kata benda dicantumkan dalam **batang nominal**:
 :::grammar-box
 **Nominatif tunggal berakhir dengan -s = -⟪स्⟫ atau bebas akhiran.**
 
-:::### 2.3.1. Nominatif Tunggal pada -s
+:::
+### 2.3.1. Nominatif Tunggal pada -s
 
 Berikut adalah akar nomina yang berakhir dengan vokal, membentuk Nominatif Singular dengan akhiran **-s**:
 
@@ -75,7 +77,8 @@ Berikut adalah akar nomina yang berakhir dengan vokal, membentuk Nominatif Singu
 **Maskulinum berakhiran -i:** mis. kavi m. = ⟪कवि⟫ "penyair" -- Nom. sg.: kavis = ⟪कविस्⟫
 **Maskulinum berakhiran -u:** mis. guru m. = ⟪गुरु⟫ "guru" -- Nom. sg.: gurus = ⟪गुरुस्⟫
 
-:::---
+:::
+---
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
@@ -132,7 +135,8 @@ Auslautendes **-s**:
 
 
 
-:::tip Empat kasta (varna)
+:::
+tip Empat kasta (varna)
 Menurut teori klasik (mis. Manusmṛti I, 88-91), tugas-tugas dibagi:
 
 - **para Brahmana**
@@ -159,7 +163,8 @@ Menurut teori klasik (mis. Manusmṛti I, 88-91), tugas-tugas dibagi:
 - **para Śūdra**
   - melayani tiga kelas atas
 
-:::**dvija** m. -- ⟪द्विज⟫ : "Dua Kali Lahir" (Mereka yang diinisiasi dari tiga kasta atas: Brāhmaṇa, Kṣatriya, Vaiśya).
+:::
+**dvija** m. -- ⟪द्विज⟫ : "Dua Kali Lahir" (Mereka yang diinisiasi dari tiga kasta atas: Brāhmaṇa, Kṣatriya, Vaiśya).
 
 **varṇa** m. -- ⟪वर्ण⟫ : Warna, status kelahiran (kecenderungan).
 
@@ -172,7 +177,8 @@ Keempat varṇa (m.) sering disamakan dengan kasta. Namun, keempat varṇa — b
 Gambar: Penggambaran pembagian kasta masyarakat Eropa Abad Pertengahan (ukiran kayu dari akhir abad ke-15).
 (Sumber gambar: [Detail](/id/licenses#lekt0201))
 
-:::**Keterangan:**
+:::
+**Keterangan:**
 - **Kasta imam** (~Brāhmaṇa): Tu supplex ora = Berdoalah dengan memohon!
 - **Kasta bangsawan** (~Kṣatriya): Tu protege = Lindungilah!
 - **Kasta petani** (~Vaiśya/Śūdra): Tuque labora = Dan bekerjalah!
@@ -183,7 +189,8 @@ Max Weber &lt;1864 – 1920&gt; mendefinisikan Stand sebagai berikut:
 
 
 
-:::note-box
+:::
+note-box
 "**Stand**" haruslah bermakna suatu kumpulan orang yang, dalam suatu ikatan,
 a) menuntut penilaian khusus berdasarkan status — mungkin juga
 b) menuntut monopoli khusus berdasarkan status.
@@ -203,7 +210,8 @@ Setiap masyarakat kasta bersifat konvensional, diatur oleh aturan-aturan hidup, 
 
 [**Weber, Max &lt;1864 – 1920&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 
-:::Varṇa adalah kasta kelahiran.
+:::
+Varṇa adalah kasta kelahiran.
 
 **kavi** m. -- ⟪कवि⟫ : Penyair.
 
@@ -216,7 +224,8 @@ Setiap masyarakat kasta bersifat konvensional, diatur oleh aturan-aturan hidup, 
 Gambar: Dewa Agni, miniatur, abad ke-18.
 (Sumber gambar: [Rincian](/id/licenses#lekt0203))
 
-:::**sādhu** 3 -- ⟪साधु⟫ : benar, baik.
+:::
+**sādhu** 3 -- ⟪साधु⟫ : benar, baik.
 
 **sādhu** m. -- ⟪साधु⟫ : "suci" Pria, Sādhu.
 
@@ -227,7 +236,8 @@ Gambar: Dewa Agni, miniatur, abad ke-18.
 Gambar: Sādhu (⟪साधु⟫), Kuil Pashupatinath, Kathmandu.
 (Sumber gambar: [Rincian](/id/licenses#lekt0202))
 
-:::**guru** 3 -- ⟪गुरु⟫ : berat, penting, layak disembah
+:::
+**guru** 3 -- ⟪गुरु⟫ : berat, penting, layak disembah
 
 **guru** m. -- ⟪गुरु⟫ : pribadi yang patut disembahkan: ayah, ibu, kerabat yang lebih tua, khususnya guru, master
 

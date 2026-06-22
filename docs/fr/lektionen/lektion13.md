@@ -22,7 +22,8 @@ Presque toutes les racines se terminant par -d forment le PPP en -na-. Dans ce c
 Exemple :
 pad 4 Ā PPP : panna 3 = ⟪पन्न⟫
 
-:::---
+:::
+---
 
 ## 13.2. Autres précisions sur l’usage du participe passé
 
@@ -68,7 +69,8 @@ Exemple :
 
 :::indent
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = « Un saint voit le fruit désiré (de ses œuvres). »
-:::::::---
+:::::::
+---
 
 ## 13.4. Formation d’adjectifs en -mant et -vant (taddhita)
 
@@ -84,7 +86,8 @@ Exemples :
 ⟪पशुमन्त्⟫ « possédant du bétail »
 
 ⟪गुणवन्त्⟫ « possédant de bonnes qualités / vertus »
-:::::::---
+:::::::
+---
 
 ## 13.5. Déclinaison des thèmes nominaux
 
@@ -92,7 +95,8 @@ Les thèmes en -mant ou -vant appartiennent aux thèmes nominaux à déclinaison
 
 :::grammar-box
 Pour les thèmes nominaux à déclinaison, on distingue entre les cas forts et les cas faibles. Dans les cas forts, le suffixe formant le thème — pour les noms radicaux, la partie radicale — est au degré plein ou au degré allongé, tandis que dans les cas faibles, il est au degré réduit.
-:::**Les cas forts sont :**
+:::
+**Les cas forts sont :**
 
 | | Singulier:br⟪एकवचन⟫ | Duel:br⟪द्विवचन⟫ | Pluriel:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
@@ -103,7 +107,8 @@ Pour les thèmes nominaux à déclinaison, on distingue entre les cas forts et l
 
 :::grammar-box
 En tant que premier membre d'un composé, un nom à déclinaison se présente sous sa forme faible (pour les noms à trois thèmes, sous ce qu'on appelle le thème moyen).
-:::---
+:::
+---
 
 ## 13.6. Du sandhi des mots
 
@@ -136,7 +141,8 @@ Pour les stems se terminant par une consonne :
 * pour les stems à formation régulière, le neutre au nominatif (prathamā) et à l'accusatif (dvitīyā) singulier est sans terminaison.
 * pour les stems à formation régulière, au neutre, la terminaison du nominatif et de l'accusatif pluriel est -i.
 
-:::---
+:::
+---
 
 ## 13.8. Déclinaison des stems en -mant et -vant
 
@@ -161,7 +167,8 @@ Le stem féminin des stems en -mant- et -vant- se termine par -mat-ī ou -vat-ī
 Exemple :
 * paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
 
-:::---
+:::
+---
 
 ## 13.9. Liste de mots
 
@@ -186,7 +193,8 @@ Apprenez les mots suivants :
 ![](/images/lekt1301.webp)
 Fig. : ⟪महिषासुरः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1301))
-:::- **guṇa** m. ⟪गुण⟫ : fil, corde ; propriété, bonne propriété
+:::
+- **guṇa** m. ⟪गुण⟫ : fil, corde ; propriété, bonne propriété
 - **pad** 4 Ā (padyate), Pass. : padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : aller, entrer dans
 - **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : être, être présent
 - **as** 4 P (asyati), Pass. : asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : jeter, (jeter loin)
@@ -195,7 +203,8 @@ Fig. : ⟪महिषासुरः⟫
 
 :::indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : boire (traditionnellement compté comme la 1ère classe)
-:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : haïr, hostiliser
+:::
+- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : haïr, hostiliser
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : manger, consommer
 - **anna** n. ⟪अन्न⟫ : nourriture (du PPP : *ad-na: ce qui est mangé)
 
@@ -203,7 +212,8 @@ Fig. : ⟪महिषासुरः⟫
 ![](/images/lekt1304.webp)
 Fig. : ⟪अन्नम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1304))
-:::Formation des mots :
+:::
+Formation des mots :
 
 pad 4 Ā :
 
@@ -215,11 +225,13 @@ pad 4 Ā :
 ![](/images/lekt1303.webp)
 Fig. : ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1303))
-:::dviṣ 2 U :
+:::
+dviṣ 2 U :
 
 :::indent
 **dveṣa** ⟪द्वेष⟫ : haine
-:::---
+:::
+---
 
 ## 13.10. Exercice
 
@@ -233,7 +245,8 @@ A) Traduisez et transformez en phrases au présent actif :
 ![](/images/lekt1305.webp)
 Fig. : ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1305))
-:::⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 possibilités)
+:::
+⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 possibilités)
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
@@ -290,7 +303,8 @@ C) Formez une construction de participe passé passif (PPP) à partir des phrase
 ![](/images/lekt1302.webp)
 Fig. : ⟪सत्यमेव⟫ ⟪जयते⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1302))
-:::D) De quelles combinaisons de sons les formes de sandhi suivantes peuvent-elles être issues ? Indiquez toutes les possibilités :
+:::
+D) De quelles combinaisons de sons les formes de sandhi suivantes peuvent-elles être issues ? Indiquez toutes les possibilités :
 
 1. -a devant une voyelle (sauf a-)
 2. -ā-

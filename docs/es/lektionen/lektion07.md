@@ -16,9 +16,11 @@ status: stable
 - El sandhi de la -n final
 - El neutro de las raíces en a
 - Las clases de presente atemático (como ejemplo, la 5.ª clase)
-:::## Aforismo de la semana
+:::
+## Aforismo de la semana
 
-:::center
+:::
+center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ |
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -33,7 +35,8 @@ La justicia prevalece, no la injusticia,
 La verdad prevalece, no la falsedad,
 La indulgencia prevalece, no la ira,
 Dios prevalece, no el adversario divino.
-:::---
+:::
+---
 
 ## 7.1. La oración verbal con objeto directo
 
@@ -44,7 +47,8 @@ Dios prevalece, no el adversario divino.
 p.ej.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma come (devora) una fruta."
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "El brahmán venera a un dios con un sacrificio (para alguien más)."
-:::Si el verbo está en parasmaipada o Ātmanepada, el objeto directo (**karman** n. = ⟪कर्मन्⟫) está generalmente en **acusativo** (caso directo, dvitīyā f. = ⟪द्वितीया⟫).
+:::
+Si el verbo está en parasmaipada o Ātmanepada, el objeto directo (**karman** n. = ⟪कर्मन्⟫) está generalmente en **acusativo** (caso directo, dvitīyā f. = ⟪द्वितीया⟫).
 
 ---
 
@@ -82,7 +86,8 @@ p.ej.
 | **-i**: śruti | **śrutīs**:br⟪श्रुतीस्⟫ |
 | **-ī**: devī | **devīs**:br⟪देवीस्⟫ |
 | **-u**: dhenu | **dhenūs**:br⟪धेनूस्⟫ |
-:::---
+:::
+---
 
 ### 7.2.1. Acusativo singular y plural de los pronombres interrogativos y demostrativos
 
@@ -97,7 +102,8 @@ p.ej.
 | | pl. | **etān / enān**:br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās**:br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni**:br⟪एतानि⟫ / ⟪एनानि⟫ |
 | **idam**:breste | sg. | **imam / enam**:br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām**:br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad**:br⟪इदम्⟫ / ⟪एनद्⟫ |
 | | pl. | **imān / enān**:br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās**:br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni**:br⟪इमानि⟫ / ⟪एनानि⟫ |
-:::Las formas **enam** (⟪एनम्⟫) etc. pertenecen a la raíz **enad** (⟪एनद्⟫), la cual forma casos solo en algunas declinaciones. Estas se usan en lugar de las formas de **etad** e **idam** cuando lo designado ya ha sido mencionado anteriormente.
+:::
+Las formas **enam** (⟪एनम्⟫) etc. pertenecen a la raíz **enad** (⟪एनद्⟫), la cual forma casos solo en algunas declinaciones. Estas se usan en lugar de las formas de **etad** e **idam** cuando lo designado ya ha sido mencionado anteriormente.
 p.ej. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "Él es un dios. Le sacrifican."
 
 ---
@@ -113,7 +119,8 @@ El acusativo (dvitīyā f. = ⟪द्वितीया⟫) designa:
 2. En verbos que expresan ir, un movimiento, conducir o similar hacia algo, el acusativo designa el objetivo del movimiento:
    p. ej.
    - **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ : "Él va al infierno."
-:::Otros usos del acusativo se tratarán más adelante.
+:::
+Otros usos del acusativo se tratarán más adelante.
 
 ---
 
@@ -140,20 +147,23 @@ El acusativo (dvitīyā f. = ⟪द्वितीया⟫) designa:
    **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "pero los dioses (Ac.)"
 
 4. Excepto después de una vocal corta (ver más adelante), la **-n** final permanece inalterada en todos los demás casos.
-:::---
+:::
+---
 
 ## 7.4. El neutro (napuṃsaka n. = ⟪नपुंसक⟫)
 
 :::grammar-box
 **En el neutro, las formas del nominativo (prathamā) y del acusativo (dvitīyā) son idénticas.**
-:::### 7.4.1. Neutro de las raíces en -a
+:::
+### 7.4.1. Neutro de las raíces en -a
 
 :::grammar-box
 - **Terminación Nominativo / Acusativo Singular: -m**
   p. ej. **phala** n. = ⟪फल⟫ = "fruto": Nom. / Ac. sg. **phalam** = ⟪फलम्⟫
 - **Terminación Nominativo / Acusativo Plural: -āni**
   p. ej. **phala** n. = ⟪फल⟫: Nom. / Ac. pl. **phalāni** = ⟪फलानि⟫
-:::---
+:::
+---
 
 ## 7.5. Clases de presente atemático
 
@@ -170,20 +180,23 @@ La 5.ª clase de presente forma un llamado tema de presente atemático, es decir
 - en la tercera persona del singular del imperativo (loṭ) parasmaipada
 
 **Todas las demás formas tienen el tema de presente débil.**
-:::### 7.5.1. Desinencias primarias de la tercera persona del plural en raíces atemáticas
+:::
+### 7.5.1. Desinencias primarias de la tercera persona del plural en raíces atemáticas
 
 :::grammar-box
 **En las raíces de presente atemáticas, las desinencias primarias de la tercera persona del plural son:**
 - **Parasmaipada: -anti**
 - **Ātmanepada: -ate**
-:::### 7.5.2. La 5. clase de presente (svādi = ⟪स्वादि⟫ = "su, etc.")
+:::
+### 7.5.2. La 5. clase de presente (svādi = ⟪स्वादि⟫ = "su, etc.")
 
 :::grammar-box
 - **Tema fuerte**: (por lo general) raíz en grado cero (como se indica) + **-no-**
 - **Tema débil**: (por lo general) raíz en grado cero (como se indica) + **-nu-**
 
 **Ante terminaciones vocálicas, en las raíces que terminan en vocal, -nu- se reemplaza por -nv-; en las raíces que terminan en consonante, ante terminaciones vocálicas, -nu- se reemplaza por -nuv-.**
-:::**Ejemplos:**
+:::
+**Ejemplos:**
 
 | Raíz:br⟪धातु⟫ | Tema fuerte | Tema débil | Ante vocal:br(débil) |
 | :--- | :--- | :--- | :--- |
@@ -210,7 +223,8 @@ La 5.ª clase de presente forma un llamado tema de presente atemático, es decir
 ![](/images/lekt0701.webp)
 Fig.: ¿Era esta la planta vedica del Soma?: Hongo matamoscas: *Amanita muscaria* (L.) Lam.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0701))
-:::- **phala** n. ⟪फल⟫ : fruto (también en sentido figurado: fruto (kármico) de una acción)
+:::
+- **phala** n. ⟪फल⟫ : fruto (también en sentido figurado: fruto (kármico) de una acción)
 - **nṛtya** n. ⟪नृत्य⟫ : baile
 - **svarga** m. ⟪स्वर्ग⟫ : cielo
 - **naraka** m. ⟪नरक⟫ : infierno (según una concepción hinduista, el universo tiene la forma de un huevo (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Huevo de Brahmā"): por encima de la tierra hay seis cielos con dicha creciente, por debajo de la tierra hay siete llamados **pātāla** n. = ⟪पाताल⟫, moradas de **nāga** m. = ⟪नाग⟫ (serpientes) y otros seres míticos, entre ellos hay 7 infiernos con tormentos crecientes)
@@ -232,7 +246,8 @@ Fig.: ¿Era esta la planta vedica del Soma?: Hongo matamoscas: *Amanita muscaria
 ![](/images/lekt0704.webp)
 Fig.: Viṣṇu = ⟪विष्णु⟫, siglos VIII/IX.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0704))
-:::2. gurus ... khādati (phala)
+:::
+2. gurus ... khādati (phala)
    ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
 3. sādhus ... gacchati (svarga)
    ⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
@@ -271,7 +286,8 @@ Fig.: Viṣṇu = ⟪विष्णु⟫, siglos VIII/IX.
 ![](/images/lekt0702.webp)
 Fig.: **yajati** = ⟪यजति⟫ — Sacrificio védico = **yajña** m. = ⟪यज्ञ⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0702))
-:::**E) Forme para todos los nombres aprendidos hasta ahora el acusativo (dvitīyā) sg. y pl.**
+:::
+**E) Forme para todos los nombres aprendidos hasta ahora el acusativo (dvitīyā) sg. y pl.**
 
 **F) Traduzca:**
 
@@ -291,6 +307,7 @@ Fig.: **yajati** = ⟪यजति⟫ — Sacrificio védico = **yajña** m. = �
 ![](/images/lekt0703.webp)
 Fig.: ¿A qué dios se sacrifica aquí? Respuesta: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0703))
-:::9. ¿Qué mastican este hombre sagrado?
+:::
+9. ¿Qué mastican este hombre sagrado?
 10. ¿Qué exprimen estos (aquí)?
 11. Él es el maestro. A él se escucha (= escuchan ellos).

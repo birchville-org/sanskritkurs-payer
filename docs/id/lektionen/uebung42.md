@@ -41,7 +41,8 @@ The father desired the attainment of grandsons.
 ![](/images/uebung068.webp)
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Image source: [Details](/en/licenses#uebung068))
-:::---
+:::
+---
 
 ## Narrative: Sītā’s Wedding (⟪सीताविवाहः⟫)
 

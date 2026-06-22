@@ -68,7 +68,8 @@ B) Traduisez en sanskrit en utilisant des composés :
 ![](/images/uebung031.webp)
 Fig. : ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Source de l’image : [Détails](/fr/licenses#uebung031))
-:::---
+:::
+---
 
 ## Analyse des composés
 
@@ -240,7 +241,8 @@ Résolvez les composés suivants comme Bahuvrīhi et/ou Dvandva et/ou Tatpuruṣ
 ![](/images/uebung030.webp)
 Fig. : ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Source de l’image : [Détails](/fr/licenses#uebung030))
-:::---
+:::
+---
 
 ## Fragments savants
 
@@ -253,7 +255,8 @@ Le yoga de l'action est l'ascèse, l'étude des Védas et le service attentif au
 
 :::deleteme-box Explication
 Les cinq "souffrances" (⟪क्लेश⟫) sont : **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — l'ignorance, l'egoïsme, l'avidité, la haine et l'attachement au corps.
-:::⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
+:::
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Le plus haut but de l'homme est que la triple souffrance disparaisse complètement. (*Triple souffrance : venant de soi-même, des objets, des dieux.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  

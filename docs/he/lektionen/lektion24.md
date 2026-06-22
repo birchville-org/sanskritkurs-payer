@@ -27,7 +27,8 @@ status: יציב
 :::indent
 ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
 
-:::גם אפשר לומר:
+:::
+גם אפשר לומר:
 
 
 
@@ -38,9 +39,11 @@ status: יציב
 
 ⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
 
-:::רָמָה הָלַךְ לִשְׁמֹעַ אֶת דִּבְרֵי הָרַב.
+:::
+רָמָה הָלַךְ לִשְׁמֹעַ אֶת דִּבְרֵי הָרַב.
 
-:::::::מדיה
+:::::::
+מדיה
 ![](/images/lekt2404.webp)
 איור: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
 (מקור התמונה: [פרטים](/he/licenses#lekt2404))
@@ -55,7 +58,8 @@ status: יציב
 :::indent
 ⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "הוא הולך לכפר למען פירות = הוא הולך לכפר כדי להשיג פירות."
 
-:::**באותה מידה, הדאטיב (⟪चतुर्थी⟫) מציין את מטרתו של דבר מה או פעולה:**
+:::
+**באותה מידה, הדאטיב (⟪चतुर्थी⟫) מציין את מטרתו של דבר מה או פעולה:**
 
 דוגמה:
 
@@ -80,7 +84,8 @@ status: יציב
 :::indent
 ⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "הוא נותן לרָמה פרי." (שורש ⟪दा⟫ 3. כיתה פרזנס)
 
-::::::::::מדיה
+::::::::::
+מדיה
 ![](/images/lekt2402.webp)
 איור: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
 חג רקשה בדאן נחוג בהתלהבות ובשמחה בכל רחבי הודו. חג זה משקף את האהבה הבלתי מותנית בין אחים ואחיות.
@@ -98,13 +103,15 @@ status: יציב
 
 ⟪अलम्⟫ מילת תואר: "די, מספיק, ראוי": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "לוחם אחד עומד מול לוחם שני"
 
-::::::::::מדיה
+::::::::::
+מדיה
 ![](/images/lekt2403.webp)
 איור: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "רמה (מימין) יושב על כתפיו של האנומאן, נלחם במלך השדים ראבאנה." סביב 1820
 (מקור התמונה: [פרטים](/he/licenses#lekt2403))
 
-:::שימושים נוספים של הדאטיב בהמשך.
+:::
+שימושים נוספים של הדאטיב בהמשך.
 
 ## 24.2. בניית הדיטיב (⟪चतुर्थी⟫)
 
@@ -116,11 +123,13 @@ status: יציב
 * **יחיד: -e ; סיומות תארים נקביים בתנועה: -ai**
 * **רבים: דאטיב ואבלטיב ⟪पञ्चमी⟫: -bhyas**
 
-:::### 24.2.1. שׁוֹרָשִׁים עִם עֲצָרוֹת
+:::
+### 24.2.1. שׁוֹרָשִׁים עִם עֲצָרוֹת
 
 
 
-::::תיבת דקדוק
+::::
+תיבת דקדוק
 
 
 
@@ -138,11 +147,13 @@ status: יציב
 
 
 
-::::### 24.2.2. שאלות מילת שאלה
+::::
+### 24.2.2. שאלות מילת שאלה
 
 
 
-::::תיבת דקדוק
+::::
+תיבת דקדוק
 
 
 
@@ -156,7 +167,8 @@ status: יציב
 
 
 
-::::### 24.2.3. תארוכי פירומינא
+::::
+### 24.2.3. תארוכי פירומינא
 
 ```html
 &lt;!-- 24.2.3. Demonstrativpronomina --&gt;
@@ -164,7 +176,8 @@ status: יציב
 
 
 
-::::תיבת דקדוק
+::::
+תיבת דקדוק
 
 
 
@@ -182,7 +195,8 @@ status: יציב
 
 
 
-::::### 24.2.4. שׁוֹרָשִׁים תְּנוּעִים
+::::
+### 24.2.4. שׁוֹרָשִׁים תְּנוּעִים
 
 
 
@@ -211,7 +225,8 @@ status: יציב
   * דט. יח' **⟪धेनवे⟫** או **⟪धेन्वै⟫**
   * דט. רב' **⟪धेनुभ्यस्⟫**
 
-:::## 24.3. סנדי של -ai ו-au בסוף מילה
+:::
+## 24.3. סנדי של -ai ו-au בסוף מילה
 
 
 
@@ -228,7 +243,8 @@ status: יציב
 :::indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "לאש זו"
 
-:::::::## 24.4. מילון מילים
+:::::::
+## 24.4. מילון מילים
 
 ⟪अलम्⟫ מילת תואר: מספיק, הולם, (למישהו, משהו) מסוגל; עם דאטיוו: מספיק ל-, הולם ל-, מסוגל ל-; עם אינסטרומטיוו: מספיק עם-, הרף מ-, למשל, ⟪अलं⟫ ⟪क्रोधेन⟫ = "די בכעס = הרף מהכעס!"
 
@@ -243,24 +259,28 @@ status: יציב
 :::indent
 ⟪अलंकार⟫ m.: תכשיט, אמצעי קישוט (בשירה)
 
-::::::מדיה
+::::::
+מדיה
 ![](/images/lekt2405.webp)
 איור: ⟪अलंकारः⟫
 (מקור התמונה: [פרטים](/he/licenses#lekt2405))
 
-:::⟪हेतु⟫ מ.: מניע, גורם, סיבה, עילה ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ עם תואר הגנטיבי או כחלק מאחורי קומפוזיציה = "בשביל ..., בגלל"
+:::
+⟪हेतु⟫ מ.: מניע, גורם, סיבה, עילה ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ עם תואר הגנטיבי או כחלק מאחורי קומפוזיציה = "בשביל ..., בגלל"
 
 ⟪प्रतिमा⟫ f.: דמות, תמונה
 
 
 
-:::מדיה
+:::
+מדיה
 ![](/images/lekt2406.webp)
 איור: ⟪देवीप्रतिमा⟫
 המפי = ಹಂಪೆ, קרנאטקה = ಕರ್ನಾಟಕ
 (מקור התמונה: [פרטים](/he/licenses#lekt2406))
 
-:::⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : להתרחש, לקרות, להיווצר
+:::
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : להתרחש, לקרות, להיווצר
 
 מ-⟪वृत्⟫:
 
@@ -271,7 +291,8 @@ status: יציב
 
 ⟪वृत्त⟫ נ': התנהגות
 
-:::⟪अभि⟫ נָשֵׂא:  be-, nach - hin, zu - her, zu - hin, נֶגֶד, בְּ - פְּנִים, בְּהַקְשָׁרָה לְ, עַל, עַל, עַל
+:::
+⟪अभि⟫ נָשֵׂא:  be-, nach - hin, zu - her, zu - hin, נֶגֶד, בְּ - פְּנִים, בְּהַקְשָׁרָה לְ, עַל, עַל, עַל
 
 ⟪नि⟫ נטית: כלפי מטה, מטה, פנימה, לאחור
 
@@ -294,13 +315,15 @@ status: יציב
 
 ⟪ऊहापोह⟫ מ.: דיון על הטענות בעד ונגד
 
-::::::מדיה
+::::::
+מדיה
 ![](/images/lekt2407.webp)
 איור: ⟪ऊहापोहः⟫
 "ניו דלהי/הודו, 16נוב08 - סוהסיני חידאר, עורכת משנה לענייני חוץ ברשת CNN-IBN 18, הודו, מנחה דיון פאנל בפורום הכלכלה העולמית - פסגת הכלכלה ההודית 2008 בניו דלהי."
 (מקור התמונה: [פרטים](/he/licenses#lekt2407))
 
-:::⟪औपकारिक⟫ 3 פ.: -⟪ई⟫ : מועיל
+:::
+⟪औपकारिक⟫ 3 פ.: -⟪ई⟫ : מועיל
 
 ⟪कुप्य⟫ n.: תוצרת יער, מתכת (לא מתכת יקרה)
 
@@ -315,7 +338,8 @@ status: יציב
 
 ⟪आख्यान⟫ n.: סיפור
 
-::::::מדיה
+::::::
+מדיה
 ![](/images/lekt2408.webp)
 איור: ⟪आख्यानम्⟫
 "המספר סיפורים ג'ף בירס מספר סיפור לתושני צ'נרי, כפר אירולה. המתרגם ג'יבה ראג'ונת' מתרגם לטמילית עבור הכפרנים."
@@ -328,7 +352,8 @@ status: יציב
 
 ⟪संख्या⟫ f.: מניין, פירוט ; ⟪सांख्य⟫ n.: אחד מששת מערכות הפילוסופיה (בקיצור: באשמ, פלאות עמ' 326–327)
 
-:::⟪ग्रहण⟫ n.: תפיסה
+:::
+⟪ग्रहण⟫ n.: תפיסה
 
 ⟪चौल⟫ n.: טקס (⟪संस्कार⟫) של חיתוך שיער (בגיל 3 שנים)
 
@@ -345,13 +370,15 @@ status: יציב
 :::indent
 ⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : להתכופף, להעריך, לברך
 
-::::::מדיה
+::::::
+מדיה
 ![](/images/lekt2411.webp)
 איור: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 כתב יד של ⟪गीतगोविन्द⟫, שנת 1730 לספירה
 (מקור התמונה: [פרטים](/he/licenses#lekt2411))
 
-:::⟪स्वागत⟫ n.: ברוך הבא (מ-su-ā-gata)
+:::
+⟪स्वागत⟫ n.: ברוך הבא (מ-su-ā-gata)
 
 ⟪तृण⟫ n.: גבעול דשא
 
@@ -421,9 +448,11 @@ D) החליפו במשפט א') 7 את הבניין עם -⟪अर्थ⟫ ב�
 
 # שיעור 1
 
-:::info
+:::
+info
 **Hinweis:** Diese Lektion enthält Übersetzungsaufgaben ins Sanskrit. Die Lösungen finden Sie am Ende der Lektion.
-:::## 1.1.1. Einführung in die Übersetzung
+:::
+## 1.1.1. Einführung in die Übersetzung
 
 Willkommen zur ersten Lektion des Sanskrit-Kurses! In dieser Lektion werden wir uns mit den Grundlagen der Übersetzung aus dem Deutschen ins Sanskrit befassen. Sanskrit ist eine der ältesten und reichsten Sprachen der Welt und hat einen enormen Einfluss auf viele andere Sprachen, insbesondere im indischen Subkontinent.
 
@@ -448,18 +477,22 @@ Sanskrit hat acht Fälle (Vibhakti), die die Rolle eines Substantivs im Satz anz
 
 Jedes Substantiv im Sanskrit wird nach seinem Geschlecht (maskulin, feminin, neutral), seiner Zahl (Singular, Dual, Plural) und seinem Fall dekliniert.
 
-:::tip
+:::
+tip
 **Beispiel:** Das Wort "rāma" (⟪राम⟫) ist ein maskulines Substantiv. Im Nominativ Singular lautet es "rāmaḥ" (⟪रामः⟫), im Akkusativ Singular "rāmam" (⟪रामम्⟫) und im Genitiv Singular "rāmasya" (⟪रामस्य⟫).
-:::### 1.1.2.2. Verben und Konjugation
+:::
+### 1.1.2.2. Verben und Konjugation
 
 Sanskrit-Verben werden nach Person (erste, zweite, dritte), Zahl (Singular, Dual, Plural) und Zeit (Präsens, Imperfekt, Perfekt, etc.) konjugiert. Das Verb "bhū" (⟪भू⟫) bedeutet "sein" oder "werden" und ist eines der häufigsten Verben im Sanskrit.
 
-:::tip
+:::
+tip
 **Beispiel:** Das Verb "bhū" wird im Präsens Indikativ wie folgt konjugiert:
 - 1. Person Singular: "bhavāmi" (⟪भवामि⟫) - ich bin
 - 2. Person Singular: "bhavasi" (⟪भवसि⟫) - du bist
 - 3. Person Singular: "bhavati" (⟪भवति⟫) - er/sie/es ist
-:::## 1.1.3. Vokabular
+:::
+## 1.1.3. Vokabular
 
 Um erfolgreich ins Sanskrit zu übersetzen, müssen Sie einen grundlegenden Wortschatz beherrschen. Hier sind einige wichtige Wörter und Ausdrücke, die Sie in dieser Lektion lernen werden:
 
@@ -476,9 +509,11 @@ Um erfolgreich ins Sanskrit zu übersetzen, müssen Sie einen grundlegenden Wort
 | Gott    | devaḥ            | ⟪देवः⟫                | Gott      |
 | Mensch  | manuṣyaḥ         | ⟪मनुष्यः⟫              | Mensch    |
 
-:::warning
+:::
+warning
 **Hinweis:** Die Bedeutung von Wörtern kann je nach Kontext variieren. Es ist wichtig, den Kontext zu berücksichtigen, wenn man Wörter übersetzt.
-:::## 1.1.4. Übungsaufgaben
+:::
+## 1.1.4. Übungsaufgaben
 
 Übersetzen Sie die folgenden Sätze ins Sanskrit:
 
@@ -488,7 +523,8 @@ Um erfolgreich ins Sanskrit zu übersetzen, müssen Sie einen grundlegenden Wort
 4. Der Gott wohnt im Himmel.
 5. Die Erde ist groß.
 
-:::details
+:::
+details
 **Lösung:**
 
 1. ⟪पुरुषः⟫ ⟪ग्रन्थं⟫ ⟪पठति⟫ ⟪।⟫ (puruṣaḥ grantham paṭhati.)
@@ -496,15 +532,18 @@ Um erfolgreich ins Sanskrit zu übersetzen, müssen Sie einen grundlegenden Wort
 3. ⟪बालः⟫ ⟪गृहे⟫ ⟪खेडति⟫ ⟪।⟫ (bālaḥ gṛhe kheḍati.)
 4. ⟪देवः⟫ ⟪स्वर्गे⟫ ⟪वासयति⟫ ⟪।⟫ (devaḥ svarge vāsayati.)
 5. ⟪पृथ्वी⟫ ⟪महती⟫ ⟪अस्ति⟫ ⟪।⟫ (pṛthvī mahatī asti.)
-:::## 1.1.5. Zusammenfassung
+:::
+## 1.1.5. Zusammenfassung
 
 In dieser Lektion haben wir die Grundlagen der Übersetzung aus dem Deutschen ins Sanskrit behandelt. Wir haben uns mit der Grammatik von Substantiven und Verben befasst und einen grundlegenden Wortschatz gelernt.
 
 Um Ihre Übersetzungsfähigkeiten zu verbessern, üben Sie regelmäßig und lesen Sie Sanskrit-Texte. Je mehr Sie sich mit der Sprache vertraut machen, desto leichter wird es Ihnen fallen, korrekt zu übersetzen.
 
-:::tip
+:::
+tip
 **Tipp:** Versuchen Sie, einfache Sätze zu übersetzen und steigern Sie allmählich die Komplexität. Nutzen Sie Wörterbücher und Grammatikbücher, um Ihre Kenntnisse zu vertiefen.
-:::## 1.1.6. Weiterführende Literatur
+:::
+## 1.1.6. Weiterführende Literatur
 
 Für diejenigen, die mehr über Sanskrit lernen möchten, empfehlen wir die folgenden Bücher:
 
@@ -514,9 +553,11 @@ Für diejenigen, die mehr über Sanskrit lernen möchten, empfehlen wir die folg
 
 Diese Bücher bieten detaillierte Erklärungen der Grammatik und zahlreiche Übungsaufgaben, um Ihre Kenntnisse zu festigen.
 
-:::info
+:::
+info
 **Nächste Lektion:** In der nächsten Lektion werden wir uns mit der Übersetzung von Sätzen in den verschiedenen Fällen befassen. Bereiten Sie sich darauf vor, indem Sie die Deklinationstabellen der Substantive wiederholen.
-:::1\. האלהות שלא הקריבו לה, כועסת על האנשים.
+:::
+1\. האלהות שלא הקריבו לה, כועסת על האנשים.
 
 2. הוא משחרר את הפרה לכפר.
 
@@ -528,12 +569,14 @@ Diese Bücher bieten detaillierte Erklärungen der Grammatik und zahlreiche Übu
 
 
 
-:::מדיה
+:::
+מדיה
 ![](/images/lekt2409.webp)
 איור: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 (מקור התמונה: [פרטים](/he/licenses#lekt2409))
 
-:::6. להתראות! (= שלום (⟪स्वस्ति⟫ f.) לך!)
+:::
+6. להתראות! (= שלום (⟪स्वस्ति⟫ f.) לך!)
 
 7\. פרי זה מספיק לאכילה.
 
@@ -554,7 +597,8 @@ Diese Bücher bieten detaillierte Erklärungen der Grammatik und zahlreiche Übu
 ⟪नरसिंह⟫ קורע ⟪हिरण्यकशिपु⟫, דף מכתב יד של ⟪भागवतपुराण⟫
 (מקור התמונה: [פרטים](/he/licenses#lekt2410))
 
-:::11\. ברוך הבא (⟪स्वागतम्⟫) אליך. ברוך הבא למלכה.
+:::
+11\. ברוך הבא (⟪स्वागतम्⟫) אליך. ברוך הבא למלכה.
 
 12\. אני מאחל לך רווחה (⟪कुशल⟫) = רווחה לך!
 

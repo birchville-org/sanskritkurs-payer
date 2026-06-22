@@ -87,7 +87,8 @@ B) Translate the following Tatpuruṣa compounds:
 ![](/images/uebung027.jpg)
 Fig.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
 (Image source: [Details](/en/licenses#uebung027))
-:::---
+:::
+---
 
 ## Additional Exercises
 

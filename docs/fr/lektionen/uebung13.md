@@ -124,7 +124,8 @@ Que mangent et boivent les brāhmaṇes ?
 ![](/images/uebung019.webp)
 Fig. : ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#uebung019))
-:::---
+:::
+---
 
 ## Exercices supplémentaires
 

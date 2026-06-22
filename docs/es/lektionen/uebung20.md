@@ -68,7 +68,8 @@ B) Traduzca utilizando compuestos al sánscrito:
 ![](/images/uebung031.webp)
 Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung031))
-:::---
+:::
+---
 
 ## Análisis de compuestos
 
@@ -240,7 +241,8 @@ Resuelva los siguientes compuestos como Bahuvrīhi y/o Dvandva y/o Tatpuruṣa d
 ![](/images/uebung030.webp)
 Fig.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung030))
-:::---
+:::
+---
 
 ## Fragmentos eruditos
 
@@ -253,7 +255,8 @@ El yoga de la acción es austeridad, estudio de los Vedas y servicio atento al S
 
 :::deleteme-box Explicación
 Los cinco "dolor" (⟪क्लेश⟫) son: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — Ignorancia, egoísmo, codicia, aversión y apego al cuerpo.
-:::⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
+:::
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 El más alto objetivo del ser humano es que el triple sufrimiento desaparezca por completo. (*Triple sufrimiento: de uno mismo, de los objetos, de los dioses.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  

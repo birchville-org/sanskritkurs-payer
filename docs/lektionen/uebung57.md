@@ -44,7 +44,8 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung090.webp)
 Abb.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Bildquelle: [Details](/licenses#uebung090))
-:::---
+:::
+---
 
 ## B) Wortbestimmungen
 

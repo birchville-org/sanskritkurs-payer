@@ -20,7 +20,8 @@ anstatt:
 
 :::indent
 ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
-:::kann man auch sagen:
+:::
+kann man auch sagen:
 
 :::indent
 ⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
@@ -28,7 +29,8 @@ anstatt:
 oder:
 
 ⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
-:::= "Rāma ist gegangen, um die Rede des Lehrers zu hören."
+:::
+= "Rāma ist gegangen, um die Rede des Lehrers zu hören."
 ::::::media
 ![](/images/lekt2404.webp)
 Abb.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
@@ -40,7 +42,8 @@ Beispiel:
 
 :::indent
 ⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Er geht zum Zweck von Früchten ins Dorf = Er geht ins Dorf, um Früchte zu holen."
-:::**In gleicher Weise bezeichnet der Dativ (⟪चतुर्थी⟫) den Zweck eines Dinges oder einer Handlung:**
+:::
+**In gleicher Weise bezeichnet der Dativ (⟪चतुर्थी⟫) den Zweck eines Dinges oder einer Handlung:**
 
 Beispiel:
 
@@ -77,7 +80,8 @@ Beispiele:
 Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
 (Bildquelle: [Details](/licenses#lekt2403))
-:::Weitere Verwendungen des Dativ später.
+:::
+Weitere Verwendungen des Dativ später.
 
 ## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
 
@@ -86,7 +90,8 @@ Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 
 * **Singular: -e ; vokalisch endende Femininstämme: -ai**
 * **Plural: Dativ und Ablativ ⟪पञ्चमी⟫: -bhyas**
-:::### 24.2.1. Konsonantische Stämme
+:::
+### 24.2.1. Konsonantische Stämme
 
 :::grammar-box
 
@@ -97,7 +102,8 @@ Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | ⟪पशुमन्त्⟫ | **⟪पशुमते⟫** | **⟪पशुमद्भ्यस्⟫** |
 | ⟪गुणवन्त्⟫ | **⟪गुणवते⟫** | **⟪गुणवद्भ्यस्⟫** |
 
-:::### 24.2.2. Fragepronomen
+:::
+### 24.2.2. Fragepronomen
 
 :::grammar-box
 
@@ -106,7 +112,8 @@ Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | **Dativ Singular** | **⟪कस्मै⟫** | **⟪कस्यै⟫** |
 | **Dativ Plural** | **⟪केभ्यस्⟫** | **⟪काभ्यस्⟫** |
 
-:::### 24.2.3. Demonstrativpronomina
+:::
+### 24.2.3. Demonstrativpronomina
 
 :::grammar-box
 
@@ -117,7 +124,8 @@ Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | **Femininum** | **Dat. sg.** | **⟪तस्यै⟫** | **⟪एतस्यै⟫** | **⟪अस्यै⟫** |
 | | **Dat. pl.** | **⟪ताभ्यस्⟫** | **⟪एताभ्यस्⟫** | **⟪आभ्यस्⟫** |
 
-:::### 24.2.4. Vokalische Stämme
+:::
+### 24.2.4. Vokalische Stämme
 
 :::grammar-box
 **Vokalische Stämme**
@@ -143,7 +151,8 @@ Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 * **Feminina auf -u:** ⟪धेनु⟫
   * Dat. sg. **⟪धेनवे⟫** oder **⟪धेन्वै⟫**
   * Dat. pl. **⟪धेनुभ्यस्⟫**
-:::## 24.3. Sandhi von auslautendem -ai und -au
+:::
+## 24.3. Sandhi von auslautendem -ai und -au
 
 :::grammar-box
 **Sandhi von auslautendem -ai und -au**
@@ -155,7 +164,8 @@ Beispiel:
 
 :::indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "diesem Feuer"
-::::::## 24.4. Wortliste
+::::::
+## 24.4. Wortliste
 
 ⟪अलम्⟫ Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. ⟪अलं⟫ ⟪क्रोधेन⟫ = "genug mit dem Zorn = lass ab vom Zorn!"
 
@@ -171,7 +181,8 @@ In gleicher Weise wie ⟪अलम्⟫ mit Instrumentalis wird verwendet:
 ![](/images/lekt2405.webp)
 Abb.: ⟪अलंकारः⟫
 (Bildquelle: [Details](/licenses#lekt2405))
-:::⟪हेतु⟫ m.: Antribe, Veranslassung, Ursache, Grund ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen"
+:::
+⟪हेतु⟫ m.: Antribe, Veranslassung, Ursache, Grund ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen"
 
 ⟪प्रतिमा⟫ f.: Bildnis, Abbild
 
@@ -180,7 +191,8 @@ Abb.: ⟪अलंकारः⟫
 Abb.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Bildquelle: [Details](/licenses#lekt2406))
-:::⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : erfolgen, geschehen, entstehen
+:::
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : erfolgen, geschehen, entstehen
 
 Von ⟪वृत्⟫:
 
@@ -188,7 +200,8 @@ Von ⟪वृत्⟫:
 ⟪वृत्ति⟫ f.: Benehmen, Tätigkeit, Lebensweise
 
 ⟪वृत्त⟫ n.: Benehmen
-:::⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+:::
+⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
 
 ⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
 
@@ -213,7 +226,8 @@ davon
 Abb.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
 (Bildquelle: [Details](/licenses#lekt2407))
-:::⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : nützlich
+:::
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : nützlich
 
 ⟪कुप्य⟫ n.: Walderzeugnis, Metall (nicht Edelmetall)
 
@@ -236,7 +250,8 @@ Abb.: ⟪आख्यानम्⟫
 davon:
 
 ⟪संख्या⟫ f.: Zählung, Aufzählung ; ⟪सांख्य⟫ n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.)
-:::⟪ग्रहण⟫ n.: Ergreifen
+:::
+⟪ग्रहण⟫ n.: Ergreifen
 
 ⟪चौल⟫ n.: Zermonie (⟪संस्कार⟫) des Haarschneidens (im Alter von 3 Jahren)
 
@@ -255,7 +270,8 @@ davon:
 Abb.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
 (Bildquelle: [Details](/licenses#lekt2411))
-:::⟪स्वागत⟫ n.: Willkommen (aus su-ā-gata)
+:::
+⟪स्वागत⟫ n.: Willkommen (aus su-ā-gata)
 
 ⟪तृण⟫ n.: Grashalm
 
@@ -339,7 +355,8 @@ E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Kons
 ![](/images/lekt2409.webp)
 Abb.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 (Bildquelle: [Details](/licenses#lekt2409))
-:::6\. Auf Wiedersehen! (= Wohlergehen (⟪स्वस्ति⟫ f.)  Ihnen!)
+:::
+6\. Auf Wiedersehen! (= Wohlergehen (⟪स्वस्ति⟫ f.)  Ihnen!)
 
 7\. Diese Frucht reicht zum Essen.
 
@@ -356,7 +373,8 @@ Erklärung: ⟪मुनित्रयम्⟫ "die Dreiheit der Weisen = die 
 Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
 ⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫
 (Bildquelle: [Details](/licenses#lekt2410))
-:::11\. Willkommen (⟪स्वागतम्⟫)  Ihnen. Willkommen der Königin.
+:::
+11\. Willkommen (⟪स्वागतम्⟫)  Ihnen. Willkommen der Königin.
 
 12\. Ich wünsche Ihnen Wohlergehen (⟪कुशल⟫) = Wohlergehen Ihnen!
 

@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-16
 Example:
 ⟪गम्⟫ "to go" » Causative: ⟪गमयति⟫ "he causes someone to go; he sends"
 ⟪दृश्⟫ "to see" » Causative: ⟪दर्शयति⟫ "he makes see = he shows"
-:::---
+:::
+---
 
 ## 28.2. Sentence Construction with the Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
@@ -25,7 +26,8 @@ Example:
 **If the root underlying the causative (with or without prefix) is INTRANSITIVE (i.e., cannot take an accusative object) or expresses movement, knowledge, information, or eating:**
 
 **Agent (⟪कर्ता⟫) of the causative in the Nominative (⟪प्रथमा⟫) — Agent of the caused action in the Accusative (⟪द्वितीया⟫) — (Goal of movement, object of knowledge, etc. in the Accusative = ⟪द्वितीया⟫) — Verb in the causative**
-:::Examples:
+:::
+Examples:
 
 ⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "an evil person causes Rāma to be confused = confuses Rāma = causes Rāma to err"
 Result: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma is confused / deluded / errs."
@@ -54,7 +56,8 @@ ISKCON Temple Bangalore.
 
 Example:
 (⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "he shows the son to Rāma"
-:::The following verse summarizes examples of causative formation according to Schema 1 (the verbal forms are each the 3rd person Imperfect Parasmaipada):
+:::
+The following verse summarizes examples of causative formation according to Schema 1 (the verbal forms are each the 3rd person Imperfect Parasmaipada):
 
 ⟪शत्रूनगमयत्स्वर्गं⟫
 ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
@@ -100,7 +103,8 @@ Result of this result: ⟪गोविन्दो⟫ ⟪गच्छति⟫ =
 - **⟪स्मृ⟫ "to recall" (there are exceptions to this)**
 - **⟪अद्⟫ "to eat"**
 - **⟪खाद्⟫ "to chew"**
-:::Examples:
+:::
+Examples:
 
 ⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma has the servant lead or drive the burden"
 Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "The servant leads or drives the burden"
@@ -117,7 +121,8 @@ Result: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma remembers"
 - **⟪हृ⟫ "to hold, to fetch"**
 - **⟪कृ⟫ "to do, to make"**
 - **Ātmanepadakausative of ⟪दृश्⟫**
-:::Examples:
+:::
+Examples:
 
 ⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma has the servant make or fetch a mat (⟪कट⟫ m.)"
 or:
@@ -135,7 +140,8 @@ When the causative is used in a passive construction, the following schema is al
 **Schema A (Passive Construction):**
 
 **Agent of the causative in the Instrumental (⟪तृतीया⟫) — Agent of the caused action in the Nominative (⟪प्रथमा⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
-:::Examples:
+:::
+Examples:
 
 ⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "The master sends Rāma to the village"
 Result: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma goes to the village"
@@ -152,11 +158,13 @@ Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "The se
 
 :::grammar-box
 **The thematic endings of the present stem are added to the causative stem**
-:::There are various formation types:
+:::
+There are various formation types:
 
 :::grammar-box
 **Formation type 1: (mostly) guṇited root + -aya-**
-:::Examples:
+:::
+Examples:
 
 | Root | Causative 3rd sg. Indicative Present | Meaning |
 | :--- | :--- | :--- |
@@ -169,7 +177,8 @@ Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "The se
 **Formation type 2: dīrghited root + -aya-**
 
 **Often with roots ending in a vowel, and with roots where a single final consonant follows -a-.**
-:::Examples:
+:::
+Examples:
 
 | Root | Causative 3rd sg. Indicative Present | Meaning |
 | :--- | :--- | :--- |
@@ -183,7 +192,8 @@ Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "The se
 **Formation type 3: weak-grade root + -aya-**
 
 **Occurs.**
-:::Example:
+:::
+Example:
 
 | Root | Causative 3rd sg. Indicative Present | Meaning |
 | :--- | :--- | :--- |
@@ -193,7 +203,8 @@ Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "The se
 **Formation type 4: root + -paya-**
 
 **With roots ending in -ā and some other roots.**
-:::Examples:
+:::
+Examples:
 
 | Root | Causative 3rd sg. Indicative Present | Meaning |
 | :--- | :--- | :--- |
@@ -207,7 +218,8 @@ Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "The se
 
 - **han** : Caus. **ghātayati**¹ "to cause to strike, to cause to kill"
 - **pā** 2 "to guard": **pālayati**² "to bring across, to save, to protect"
-:::Notes:
+:::
+Notes:
 1. **ghātayati** is in fact a verb derived from the noun **ghāta** m. "strike" (denominative) and is used instead of the causative of **han**.
 2. **pālayati** is a genuine causative, but from the root **pṛ** 3 "to bring across, to save, to protect": **pārayati** (pār-aya-ti) » **pālayati** (in some parts of India an r corresponds to an l, in others conversely an l corresponds to an r).
 
@@ -223,7 +235,8 @@ Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "The se
 Examples:
 **bhāvyate** (bhāv-ya-te) "he/she/it is brought forth"
 **sthāpyate** (sthāp-ya-te) "he/she/it is placed"
-:::While the passive from the original root is usually formed from the guṇa-grade root, the passive of the causative can usually be recognized by the fact that it is formed from the strong or dīrgha-grade root.
+:::
+While the passive from the original root is usually formed from the guṇa-grade root, the passive of the causative can usually be recognized by the fact that it is formed from the strong or dīrgha-grade root.
 
 ---
 
@@ -236,7 +249,8 @@ Examples:
 
 Example:
 **budh** Future-Causative: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "he/she/it will awaken"
-:::---
+:::
+---
 
 ## 28.6. Formation of the PPP (⟪क्त⟫) for the Causative
 
@@ -246,7 +260,8 @@ Example:
 Examples:
 **gam** — **gamayati** — **gamita** (gam-i-ta) "sent" (PPP of the simple root: **gata**)
 **sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "placed"
-:::---
+:::
+---
 
 ## 28.7. Formation of the Absolutiv (⟪क्त्वा⟫ . ⟪ल्यप्⟫) from the Causative
 
@@ -268,7 +283,8 @@ Examples:
 
 Example:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "after he has caused to come"
-:::---
+:::
+---
 
 ## 28.8. Formation of the Infinitive (⟪तुमुन्⟫) for the Causative
 
@@ -279,7 +295,8 @@ Example:
 
 Example:
 **jan** — **janayati** — **janayitum** (janay-i-tum) "to produce"
-:::---
+:::
+---
 
 ## 28.9. The 10th Present Class (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
 
@@ -291,7 +308,8 @@ Examples:
 2.  Guṇa-grade root + -aya-: **cur** 10U **corayati** "to steal"; Future: **corayiṣyate**; Passive: **coryate**
 ::::::grammar-box
 **The forms of the causative for verbs of the 10th Present Class are identical to the forms of the simple verb. The decision as to whether a causative is present is possible only from the meaning or sometimes from the construction.**
-:::---
+:::
+---
 
 ## 28.10. Word List
 
@@ -344,14 +362,16 @@ Inf. **coritum**
 Fig.: ⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā player.
 (Image source: [Details](/en/licenses#lekt2803))
-:::**⟪भार⟫** m.: burden
+:::
+**⟪भार⟫** m.: burden
 
 :::media
 ![](/images/lekt2805.webp)
 Fig.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
 Girl carrying load. Near Ahmedabad.
 (Image source: [Details](/en/licenses#lekt2805))
-:::**⟪भृत्य⟫** m.: subordinate, servant
+:::
+**⟪भृत्य⟫** m.: subordinate, servant
 
 ---
 

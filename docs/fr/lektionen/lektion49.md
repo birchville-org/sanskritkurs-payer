@@ -22,7 +22,8 @@ status: stable
 | **1re personne**:br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
-:::⟪रुध्⟫ 7U
+:::
+⟪रुध्⟫ 7U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -31,11 +32,13 @@ status: stable
 | **1re personne**:br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
-:::### 49.1.2. Cinquième classe de présent (⟪स्वादि⟫)
+:::
+### 49.1.2. Cinquième classe de présent (⟪स्वादि⟫)
 
 :::grammar-box
 L’impératif 2.sg. est sans désinence pour les racines de la 5e et de la 8e classe, lorsque le -u final du suffixe est précédé uniquement d’une consonne.
-:::⟪सु⟫ 5U
+:::
+⟪सु⟫ 5U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -44,7 +47,8 @@ L’impératif 2.sg. est sans désinence pour les racines de la 5e et de la 8e c
 | **1re personne**:br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ***⟪सुनु⟫*** | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
-:::⟪आप्⟫ 5P
+:::
+⟪आप्⟫ 5P
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -53,7 +57,8 @@ L’impératif 2.sg. est sans désinence pour les racines de la 5e et de la 8e c
 | **1re personne**:br⟪तृतीयः⟫ | ⟪आप्नवानि⟫ | ⟪आप्नवाम⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
-:::### 49.1.3. Huitième classe de présent (⟪तनादि⟫)
+:::
+### 49.1.3. Huitième classe de présent (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -64,7 +69,8 @@ L’impératif 2.sg. est sans désinence pour les racines de la 5e et de la 8e c
 | **1re personne**:br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ***⟪तनु⟫*** | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
-:::⟪कृ⟫ 8U
+:::
+⟪कृ⟫ 8U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -73,7 +79,8 @@ L’impératif 2.sg. est sans désinence pour les racines de la 5e et de la 8e c
 | **1re personne**:br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
 | **2e personne**:br⟪मध्यमः⟫ | ***⟪कुरु⟫*** | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
 | **3e personne**:br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
-:::### 49.1.4. Neuvième classe de présent (⟪क्र्यादि⟫)
+:::
+### 49.1.4. Neuvième classe de présent (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 
@@ -86,7 +93,8 @@ L’impératif 2.sg. est sans désinence pour les racines de la 5e et de la 8e c
 | **3. Personne**:br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
 ::::::grammar-box
 Racines de la 9e classe se terminant par une consonne, remplacent la terminaison -nī-hi de l'impératif 2.sg. par -āna
-:::⟪ग्रह्⟫ 9U
+:::
+⟪ग्रह्⟫ 9U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -95,7 +103,8 @@ Racines de la 9e classe se terminant par une consonne, remplacent la terminaison
 | **1. Personne**:br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
 | **2. Personne**:br⟪मध्यमः⟫ | ***⟪गृहाण⟫*** | ⟪गृह्णीत⟫ |
 | **3. Personne**:br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
-:::## 49.2. Déclinaison des radicaux nominaux en -as, -is, -us
+:::
+## 49.2. Déclinaison des radicaux nominaux en -as, -is, -us
 
 #### Neutres (⟪नपुंसक⟫)
 
@@ -116,7 +125,8 @@ Racines de la 9e classe se terminant par une consonne, remplacent la terminaison
 | **⟪पञ्चमी⟫** | ⟪मनोभ्यस्⟫ | ⟪हविर्भ्यस्⟫ | ⟪चक्षुर्भ्यस्⟫ |
 | **⟪षष्ठी⟫** | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
-:::#### Masculins (⟪पुंस्⟫) et Féminins (⟪स्त्री⟫)
+:::
+#### Masculins (⟪पुंस्⟫) et Féminins (⟪स्त्री⟫)
 
 La plupart des cas sont **⟪बहुव्रीहि⟫** avec un radical en -s (neutre originel) dans le second membre.
 
@@ -136,7 +146,8 @@ Les autres cas du singulier comme le neutre
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
 ::::::indent
 Les autres cas du pluriel comme le neutre
-:::## 49.3. Formation nominale : suffixe ⟪कृत्⟫ -as Neutre
+:::
+## 49.3. Formation nominale : suffixe ⟪कृत्⟫ -as Neutre
 
 Avec le suffixe ⟪कृत्⟫ -as Neutre, de nombreux substantifs sont formés. Il s’agit le plus souvent d’abstraits ou de noms d’action (mots désignant l’action).
 
@@ -150,13 +161,15 @@ Exemples :
 | ⟪मन्⟫ 4Ā « penser » | ⟪मनस्⟫ n. « Pensée, pensée, organe de la pensée » |
 | ⟪नम्⟫ 1P « plier » | ⟪नमस्⟫ n. « Inclinaison, vénération » |
 | ⟪चित्⟫ 1P « percevoir, penser » | ⟪चेतस्⟫ n. « Compréhension » |
-:::Les noms en -is et -us sont relativement rares.
+:::
+Les noms en -is et -us sont relativement rares.
 
 :::media
 ![](/images/lekt4907.webp)
 Fig. : ⟪नमस्ते⟫
 (Source de l’image : [Détails](/fr/licenses#lekt4907))
-:::## 49.4. Liste de mots
+:::
+## 49.4. Liste de mots
 
 ⟪दीर्घ⟫ 3 : long
 
@@ -173,7 +186,8 @@ voir :
 
 :::indent
 **Carakasaṃhitā :** Textes choisis du Carakasaṃhitā / traduits et commentés par Alois Payer &lt;1944 - &gt;. -- 0. Introduction. -- URL : [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
-:::::::⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : jeter, lancer
+:::::::
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : jeter, lancer
 
 :::indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -184,7 +198,8 @@ PPP ⟪क्षिप्त⟫
 Inf. ⟪क्षेप्तुम्⟫
 Absol. -⟪क्षिप्य⟫
 Gérondif : ⟪क्षेप्य⟫
-:::⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : se hâter
+:::
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : se hâter
 
 :::indent
 Perf. Vc ⟪तत्वरे⟫
@@ -193,7 +208,8 @@ Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
 PPP ⟪त्वरित⟫ ⟪।⟫ ***⟪तू्र्⟫***⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
-:::⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : nuire
+:::
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : nuire
 
 :::indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
@@ -202,13 +218,15 @@ Pass. ⟪द्रुह्यते⟫
 Kaus. ⟪द्रोहयति⟫
 PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
 Inf. ⟪द्रोग्धुम्⟫
-:::⟪कुलूहल⟫ n. : curiosité, intérêt
+:::
+⟪कुलूहल⟫ n. : curiosité, intérêt
 
 :::media
 ![](/images/lekt4901.webp)
 Fig. : ⟪कुलूहलम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4901))
-:::⟪कृत्स्न⟫ 3 : entier, complet
+:::
+⟪कृत्स्न⟫ 3 : entier, complet
 
 ⟪परिचय⟫ m. : connaissance, familiarité
 
@@ -219,7 +237,8 @@ Fig. : ⟪कुलूहलम्⟫
 Fig. : ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, XIe s.
 (Source de l'image : [Détails](/fr/licenses#lekt4902))
-:::⟪वर⟫ m.n. : désir
+:::
+⟪वर⟫ m.n. : désir
 
 ⟪उत⟫ Indécl. : et, aussi, ou
 
@@ -229,14 +248,16 @@ Fig. : ⟪उत्तमा⟫ ⟪काला⟫
 ![](/images/lekt4903.jpg)
 Fig. : ⟪विहंगः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4903))
-:::⟪वेष⟫ m. : vêtement, apparence, extérieur
+:::
+⟪वेष⟫ m. : vêtement, apparence, extérieur
 
 :::media
 ![](/images/lekt4904.webp)
 Fig. : ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4904))
-:::⟪छन्न⟫ n. : couverture, cachette
+:::
+⟪छन्न⟫ n. : couverture, cachette
 
 ⟪पञ्जर⟫ n. : cage
 
@@ -245,7 +266,8 @@ Fig. : ⟪वेषः⟫
 Fig. : ⟪पञ्जरम्⟫
 Devin avec perroquet dans une cage : le perroquet tire des billets sur lesquels le destin est écrit Mysore
 (Source de l'image : [Détails](/fr/licenses#lekt4909))
-:::⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m. : niveau le plus bas des [Dalits](http://de.wikipedia.org/wiki/Dalit)
+:::
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m. : niveau le plus bas des [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
 ⟪स्वयम्⟫ Indécl. : soi-même, de soi-même
 
@@ -263,14 +285,16 @@ Kaus. ⟪ध्यापयति⟫
 PPP ⟪ध्यात⟫
 Inf. ⟪ध्यातुम्⟫
 Gérondif ⟪ध्येय⟫
-:::⟪आदर⟫ m. : considération, attention, respect
+:::
+⟪आदर⟫ m. : considération, attention, respect
 
 :::media
 ![](/images/lekt4905.webp)
 Fig. : ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Source de l'image : [Détails](/fr/licenses#lekt4905))
-:::⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+:::
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
 ⟪परम⟫ 3 : le plus éloigné, le plus haut ; ⟪पञ्चम्या⟫ : meilleur que, plus haut que
 
@@ -281,7 +305,8 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 Fig. : ⟪गजशिशुः⟫
 Sri Lanka
 (Source de l'image : [Détails](/fr/licenses#lekt4906))
-:::## 49.5. Exercice de révision sur la morphologie
+:::
+## 49.5. Exercice de révision sur la morphologie
 
 Déterminez les formes suivantes :
 

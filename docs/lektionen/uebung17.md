@@ -76,7 +76,8 @@ B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
 ![](/images/uebung025.webp)
 Abb.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Bildquelle: [Details](/licenses#uebung025))
-:::---
+:::
+---
 
 ## Verbformen-Übung
 

@@ -22,7 +22,8 @@ Fast alle Wurzeln auf -d bilden das PPP auf -na-. In diesem Fall wird -d-n- durc
 Beispiel:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
-:::---
+:::
+---
 
 ## 13.2. Weiteres zum Gebrauch des PPP
 
@@ -68,7 +69,8 @@ Beispiel:
 
 :::indent
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Ein Heiliger sieht die erwünschte Frucht (seiner Werke)."
-::::::---
+::::::
+---
 
 ## 13.4. Bildung von Adjektiven auf -mant und -vant (taddhita)
 
@@ -84,7 +86,8 @@ Beispiele:
 ⟪पशुमन्त्⟫ "Vieh besitzend"
 
 ⟪गुणवन्त्⟫ "gute Eigenschaften / Tugend besitzend"
-::::::---
+::::::
+---
 
 ## 13.5. Stammabstufung von Nomina
 
@@ -92,7 +95,8 @@ Die Stämme auf -mant bzw. -vant gehören zu den Nominalstämmen mit Stammabstuf
 
 :::grammar-box
 Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und schwachen Kasus (Fällen). In den starken Kasus hat das stammbildende Suffix — bei Wurzelnomina der wurzelhafte Bestandteil — Hochstufe bzw. Dehnstufe, in den schwachen Kasus Tiefstufe.
-:::**Starke Kasus sind:**
+:::
+**Starke Kasus sind:**
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
@@ -103,7 +107,8 @@ Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und sc
 
 :::grammar-box
 Als Vorderglied eines Kompositums steht ein Nomen mit Stammabstufung im schwachen Stamm (bei dreistämmigen Nomina im sog. mittleren).
-:::---
+:::
+---
 
 ## 13.6. Zum Wortsandhi
 
@@ -136,7 +141,8 @@ Bei konsonantisch auslautenden Stämmen:
 * ist bei regelmäßig bildenden Stämmen das Neutrum in Nominativ (prathamā) und Akkusativ (dvitīyā) Singular endungslos.
 * ist bei regelmäßig bildenden Stämmen im Neutrum die Endung des Nominativ und Akkusativ Plural -i.
 
-:::---
+:::
+---
 
 ## 13.8. Deklination der Stämme auf -mant und -vant
 
@@ -161,7 +167,8 @@ Der Femininstamm der Stämme auf -mant- und -vant- lautet auf -mat-ī bzw. -vat-
 Beispiel:
 * paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
 
-:::---
+:::
+---
 
 ## 13.9. Wortliste
 
@@ -171,22 +178,23 @@ Lernen Sie folgende Wörter:
 - **asura** m. ⟪असुर⟫ : Dämon
 
 > **ASURA.** 'Spiritual, divine.'
-&gt;
+>
 > In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
-&gt;
+>
 > The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
-&gt;
+>
 > According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
-&gt;
+>
 > In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
-&gt;
+>
 > [Quelle: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 :::media
 ![](/images/lekt1301.webp)
 Abb.: ⟪महिषासुरः⟫
 (Bildquelle: [Details](/licenses#lekt1301))
-:::- **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
+:::
+- **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : gehen, geraten in
 - **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : sein, da sein
 - **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : schleudern, (weg-)werfen
@@ -195,7 +203,8 @@ Abb.: ⟪महिषासुरः⟫
 
 :::indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : trinken (traditionell zur 1. Klasse gerechnet)
-:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : hassen, anfeinden
+:::
+- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : hassen, anfeinden
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : essen, verzehren
 - **anna** n. ⟪अन्न⟫ : Speise (aus PPP: *ad-na: das Gegessene)
 
@@ -203,7 +212,8 @@ Abb.: ⟪महिषासुरः⟫
 ![](/images/lekt1304.webp)
 Abb.: ⟪अन्नम्⟫
 (Bildquelle: [Details](/licenses#lekt1304))
-:::Wortbildung:
+:::
+Wortbildung:
 
 pad 4 Ā:
 
@@ -215,11 +225,13 @@ pad 4 Ā:
 ![](/images/lekt1303.webp)
 Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Bildquelle: [Details](/licenses#lekt1303))
-:::dviṣ 2 U:
+:::
+dviṣ 2 U:
 
 :::indent
 **dveṣa** ⟪द्वेष⟫ : Hass
-:::---
+:::
+---
 
 ## 13.10. Übung
 
@@ -233,7 +245,8 @@ A) Übersetzen Sie und verwandeln Sie in aktive Präsenssätze:
 ![](/images/lekt1305.webp)
 Abb.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
 (Bildquelle: [Details](/licenses#lekt1305))
-:::⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
+:::
+⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
@@ -290,7 +303,8 @@ C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion.
 ![](/images/lekt1302.webp)
 Abb.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Bildquelle: [Details](/licenses#lekt1302))
-:::D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:
+:::
+D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:
 
 1. -a vor Vokal (außer a-)
 2. -ā-

@@ -15,7 +15,8 @@ last_reconstructed: 2026-04-30
 **Schema: Predicato nominale - Soggetto**
 
 p. es. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu è un dio."
-:::Una copula verbale ("è", "sono", "sei", "siete") non è necessaria, ma può talvolta comparire.
+:::
+Una copula verbale ("è", "sono", "sei", "siete") non è necessaria, ma può talvolta comparire.
 
 Non esistono **articoli**: **devaḥ** -- ⟪देवः⟫ può significare "il dio" o "un dio".
 
@@ -56,7 +57,8 @@ Ne dizionari sanscriti i nomi sono elencati nello **stema nominale**:
 
 :::grammar-box
 **Il Nominativo Singolare termina in -s = -⟪स्⟫ oppure è privo di desinenza.**
-:::### 2.3.1. Nominativo singolare in -s
+:::
+### 2.3.1. Nominativo singolare in -s
 
 I seguenti temi nominali, che terminano con una vocale, formano il nominativo singolare in **-s**:
 
@@ -64,7 +66,8 @@ I seguenti temi nominali, che terminano con una vocale, formano il nominativo si
 **Maschili in -a:** es. deva m. = ⟪देव⟫ "dio" -- Nom. sg.: devas = ⟪देवस्⟫
 **Maschili in -i:** es. kavi m. = ⟪कवि⟫ "poeta" -- Nom. sg.: kavis = ⟪कविस्⟫
 **Maschili in -u:** es. guru m. = ⟪गुरु⟫ "insegnante" -- Nom. sg.: gurus = ⟪गुरुस्⟫
-:::---
+:::
+---
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
@@ -119,7 +122,8 @@ La **-s** finale:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (ordine dei servizi).
 
-:::tip I quattro ordini (varna)
+:::
+tip I quattro ordini (varna)
 Secondo la teoria classica (ad es. Manusmṛti I, 88-91) i compiti sono distribuiti:
 
 - **dei Bramini**
@@ -145,7 +149,8 @@ Secondo la teoria classica (ad es. Manusmṛti I, 88-91) i compiti sono distribu
   - studio dei Veda
 - **dei Śūdra**
   - servire le tre classi superiori
-:::**dvija** m. -- ⟪द्विज⟫ : "Due volte nato" (iniziati dei tre ordini superiori: Brāhmaṇa, Kṣatriya, Vaiśya).
+:::
+**dvija** m. -- ⟪द्विज⟫ : "Due volte nato" (iniziati dei tre ordini superiori: Brāhmaṇa, Kṣatriya, Vaiśya).
 
 **varṇa** m. -- ⟪वर्ण⟫ : Colore, ordine di nascita (aspirazione).
 
@@ -155,7 +160,8 @@ I quattro ordini (**varṇa** m.) sono spesso confusi con le caste. I quattro or
 ![](/images/lekt0201.webp)
 Fig.: Rappresentazione della suddivisione degli ordini nell'Europa medievale (xilografia della fine del XV secolo).
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0201))
-:::**Didascalia:**
+:::
+**Didascalia:**
 - **Ordine sacerdotale** (~Brāhmaṇa): Tu supplex ora = Tu prega umilmente!
 - **Ordine nobiliare** (~Kṣatriya): Tu protege = Tu proteggi!
 - **Ordine contadino** (~Vaiśya/Śūdra): Tuque labora = E tu lavora!
@@ -164,7 +170,8 @@ I tre ordini indossano l'abito tipico del rispettivo ordine. Sopra di essi, indi
 
 Max Weber &lt;1864 – 1920&gt; definisce "ordine" (Stand) così:
 
-:::note-box
+:::
+note-box
 "»Ordine« (Stand) dovrebbe significare una moltitudine di persone che, all'interno di un'associazione,
 a) esercitano una stima speciale di ordine, - eventualmente anche
 b) rivendicano privilegi speciali di ordine.
@@ -183,7 +190,8 @@ Mentre le classi professionali crescono sul terreno dell’economia orientata al
 Ogni società ordinale è convenzionale, ordinata da regole di condotta di vita, crea quindi condizioni di consumo economicamente irrazionali e osticola in tal modo, attraverso appropriazioni monopolistiche e attraverso l’esclusione della libera disposizione della propria capacità di guadagno, la libera formazione del mercato.
 
 [**Weber, Max &lt;1864 – 1920&gt;:** Economia e società : abbozzo di una sociologia comprensiva. – 5., riveduta ed. – Tubinga : Mohr, 1976. – P. 625 s.]
-:::I Varṇa sono pertanto ordini di nascita.
+:::
+I Varṇa sono pertanto ordini di nascita.
 
 **kavi** m. -- ⟪कवि⟫ : poeta.
 
@@ -193,7 +201,8 @@ Ogni società ordinale è convenzionale, ordinata da regole di condotta di vita,
 ![](/images/lekt0203.jpg)
 Fig.: Dio Agni, miniatura, 18° sec.
 (Fonte immagine: [Dettagli](/it/licenses#lekt0203))
-:::**sādhu** 3 -- ⟪साधु⟫ : corretto, buono.
+:::
+**sādhu** 3 -- ⟪साधु⟫ : corretto, buono.
 
 **sādhu** m. -- ⟪साधु⟫ : uomo «sacro», Sādhu.
 
@@ -201,7 +210,8 @@ Fig.: Dio Agni, miniatura, 18° sec.
 ![](/images/lekt0202.webp)
 Fig.: Sādhu (⟪साधु⟫), Tempio Pashupatinath, Katmandu.
 (Fonte immagine: [Dettagli](/it/licenses#lekt0202))
-:::**guru** 3 -- ⟪गुरु⟫ : pesante, importante, degno di venerazione
+:::
+**guru** 3 -- ⟪गुरु⟫ : pesante, importante, degno di venerazione
 
 **guru** m. -- ⟪गुरु⟫ : persona degna di venerazione: padre, madre, parente anziano, in particolare insegnante, maestro
 

@@ -124,7 +124,8 @@ What do Brahmins eat and drink?
 ![](/images/uebung019.webp)
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#uebung019))
-:::---
+:::
+---
 
 ## Additional Exercises
 

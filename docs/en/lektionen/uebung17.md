@@ -76,7 +76,8 @@ B) Insert the agent and verb in the plural in the sentences formed in A)
 ![](/images/uebung025.webp)
 Fig.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Image source: [Details](/en/licenses#uebung025))
-:::---
+:::
+---
 
 ## Verb Forms Exercise
 

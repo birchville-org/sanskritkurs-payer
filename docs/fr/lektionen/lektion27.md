@@ -74,7 +74,8 @@ Holi.
 
 > ⟪भू⟫ ⟪सत्तायाम्⟫ = "la racine ⟪भू⟫ dans le sens de 'être' (sat-tā)"
 
-::::D'autres détails sur l'usage du cas locatif suivront plus tard.
+::::
+D'autres détails sur l'usage du cas locatif suivront plus tard.
 
 ## 27.2. Formation du locatif (⟪सप्तमी⟫)
 
@@ -86,7 +87,8 @@ Holi.
 
 **Notez les modifications phonétiques devant -su, ainsi que la possible cérébralisation de -su en -ṣu !**
 
-:::### 27.2.1. Thèmes consonantiques
+:::
+### 27.2.1. Thèmes consonantiques
 
 :::grammar-box
 
@@ -97,7 +99,8 @@ Holi.
 | ⟪पशुमन्त्⟫ | ⟪पशुमति⟫ | ⟪पशुमत्सु⟫ |
 | ⟪गुणवन्त्⟫ | ⟪गुणवति⟫ | ⟪गुणवत्सु⟫ |
 
-:::### 27.2.2. Pronoms interrogatifs, démonstratifs et relatifs
+:::
+### 27.2.2. Pronoms interrogatifs, démonstratifs et relatifs
 
 :::grammar-box
 
@@ -108,7 +111,8 @@ Holi.
 | Féminin:brLocatif Singulier | ⟪कस्याम्⟫ | ⟪यस्याम्⟫ | ⟪तस्याम्⟫ | ⟪एतस्याम्⟫ | ⟪अस्याम्⟫ |
 | Féminin:brLocatif Pluriel | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
-:::### 27.2.3. Thèmes vocaliques
+:::
+### 27.2.3. Thèmes vocaliques
 
 :::grammar-box
 
@@ -122,7 +126,8 @@ Holi.
 | **⟪श्रुति⟫** f. | **⟪श्रुतौ⟫** ou **⟪श्रुत्याम्⟫**:br(c.-à-d. soit comme **kavi**:br⟪कवि⟫ soit comme **devī**:br⟪देवी⟫) | **⟪श्रुतिषु⟫** |
 | **⟪धेनु⟫** f. | **⟪धेनौ⟫** ou **⟪धेन्वाम्⟫** | **⟪धेनुषु⟫** |
 
-:::## 27.3. Vue d’ensemble des terminaisons casuelles régulières (⟪विभक्ति⟫)
+:::
+## 27.3. Vue d’ensemble des terminaisons casuelles régulières (⟪विभक्ति⟫)
 
 :::grammar-box
 
@@ -137,7 +142,8 @@ Holi.
 | **6. Génitif**:br**⟪६⟫. ⟪षष्ठी⟫** | -as || -ām ||
 | **7. Locatif**:br**⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
-:::**Signalés en rouge** : cas forts (avec abîfi de la racine).
+:::
+**Signalés en rouge** : cas forts (avec abîfi de la racine).
 
 ## 27.4. Un vers avec toutes les formes de déclinaison (singulier) concernant ⟪राम⟫
 
@@ -146,7 +152,8 @@ Holi.
 Fig. : ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (Source de l'image : [Détails](/fr/licenses#lekt2708))
-:::***⟪रामो⟫*** ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ ***⟪रामं⟫*** ⟪रमेशं⟫ ⟪भजे⟫:br***⟪रामेणा⟫***⟪भिहता⟫ ⟪निशाचरचमू⟫ ***⟪रामाय⟫*** ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br***⟪रामान्ना⟫***⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ ***⟪रामस्य⟫*** ⟪दासोऽस्म्यहम्⟫:br***⟪रामे⟫*** ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ***⟪राम⟫*** ⟪मामुद्धर⟫ ⟪॥⟫
+:::
+***⟪रामो⟫*** ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ ***⟪रामं⟫*** ⟪रमेशं⟫ ⟪भजे⟫:br***⟪रामेणा⟫***⟪भिहता⟫ ⟪निशाचरचमू⟫ ***⟪रामाय⟫*** ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br***⟪रामान्ना⟫***⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ ***⟪रामस्य⟫*** ⟪दासोऽस्म्यहम्⟫:br***⟪रामे⟫*** ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ***⟪राम⟫*** ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Traduction :**
 1. **Nominatif :** Rāma, le joyau (⟪मणि⟫ m.) parmi les rois (⟪राजन्⟫ m.) triomphe toujours (⟪सदा⟫).
@@ -164,18 +171,21 @@ Rāma-Satz.
 
 :::indent
 **Fut. :** ⟪वत्स्यति⟫:br**Pass. :** ⟪उष्यते⟫:br**PPP :** ⟪उषित⟫:br**Inf. :** ⟪वस्तुम्⟫
-:::dont :
+:::
+dont :
 
 ::::indent
 **⟪वस्तु⟫** n. : siège, lieu ; réalité, chose réelle, réalité, objet
 
 :::indent
 **⟪वस्तुतस्⟫** : en réalité, vraiment
-:::::::**⟪वस्⟫** 2Ā (⟪वस्ते⟫): revêtir (un vêtement), porter (un vêtement)
+:::::::
+**⟪वस्⟫** 2Ā (⟪वस्ते⟫): revêtir (un vêtement), porter (un vêtement)
 
 :::indent
 **Fut. :** ⟪वसिष्यते⟫:br**PPP :** ⟪वसित⟫:br**Inf. :** ⟪वसितुम्⟫
-:::dont :
+:::
+dont :
 
 :::indent
 **⟪वस्त्र⟫** n. : moyen de se revêtir = vêtement, robe, tissu
@@ -184,7 +194,8 @@ Rāma-Satz.
 Fig. : ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (Source de l'image : [Détails](/fr/licenses#lekt2706))
-:::**⟪वस्⟫** 6P (⟪उच्छति⟫): resplendir (cette racine est importante en raison des formations nominales :)
+:::
+**⟪वस्⟫** 6P (⟪उच्छति⟫): resplendir (cette racine est importante en raison des formations nominales :)
 
 :::indent
 **⟪वसु⟫** n. : richesse, trésor, avoir, possession
@@ -195,15 +206,18 @@ Vastrāṇi. Majuli, Assam.
 Fig. : ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Source de l'image : [Détails](/fr/licenses#lekt2707))
-:::**⟪हृ⟫** 1U (⟪हरति⟫): tenir, porter ; prendre, emporter, voler
+:::
+**⟪हृ⟫** 1U (⟪हरति⟫): tenir, porter ; prendre, emporter, voler
 
 :::indent
 **Fut. :** ⟪हरिष्यति⟫:br**Pass. :** ⟪ह्रियते⟫:br**PPP :** ⟪हृत⟫:br**Inf. :** ⟪हर्तुम्⟫
-:::dont :
+:::
+dont :
 
 :::indent
 **⟪हर⟫** 3 : prenant ; m. : le destructeur = épithète de Śiva
-:::Équivalent de **⟪हर⟫** :
+:::
+Équivalent de **⟪हर⟫** :
 
 **⟪हरि⟫** 3 : blond, jaune, vert ; m. épithète de Viṣṇu (n'appartient pas à la racine ⟪हृ⟫ 1)
 
@@ -219,7 +233,8 @@ Harihara (à gauche : Viṣṇu, à droite : Śiva).
 Fig. : ⟪हरिहरः⟫
 Harihara (à gauche : Viṣṇu, à droite : Śiva). Godrumdwip, Bengale-Occidental.
 (Source de l'image : [Détails](/fr/licenses#lekt2705))
-:::## 27.6. Exercice
+:::
+## 27.6. Exercice
 
 **A) Insérez dans la phrase suivante les expressions entre parenthèses au cas locatif (⟪सप्तमी⟫) singulier et, lorsque cela est pertinent, pluriel. Tenez compte des différents Sandhi, c'est-à-dire écrivez à chaque fois la phrase complète !**
 
@@ -238,7 +253,8 @@ Harihara (à gauche : Viṣṇu, à droite : Śiva). Godrumdwip, Bengale-Occiden
 Fig. : ⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥⟫
 Peinture de Rāja Ravi Varmā (1848 - 1906).
 (Source de l'image : [Détails](/fr/licenses#lekt2709))
-:::⟪पुत्रे⟫ ⟪मृतेऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫
+:::
+⟪पुत्रे⟫ ⟪मृतेऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫
 
 ⟪उपनीतबालैर्गुरुकुले⟫ ⟪उष्यते⟫ ⟪॥५॥⟫
 
@@ -273,7 +289,8 @@ Peinture de Rāja Ravi Varmā (1848 - 1906).
 Fig. : ⟪नराः⟫
 Naran. Udaipur.
 (Source de l'image : [Détails](/fr/licenses#lekt2711))
-:::### 27.7.2. Neutres en -a : ⟪फल⟫
+:::
+### 27.7.2. Neutres en -a : ⟪फल⟫
 
 :::grammar-box
 
@@ -292,7 +309,8 @@ Naran. Udaipur.
 Fig. : ⟪फलानि⟫
 Fruits. Bangalore.
 (Source de l'image : [Détails](/fr/licenses#lekt2710))
-:::### 27.7.3. Les féminins en -ā : ⟪क्षत्रिया⟫
+:::
+### 27.7.3. Les féminins en -ā : ⟪क्षत्रिया⟫
 
 :::grammar-box
 
@@ -311,7 +329,8 @@ Fruits. Bangalore.
 Fig. : ⟪क्षत्रिया⟫
 Maharani Vani Vilasa Sannidhana (1866 - 1934) avec son petit-fils le prince Jaya Chamaraja Wadiyar, Mysore.
 (Source de l'image : [Détails](/fr/licenses#lekt2718))
-:::### 27.7.4. Les masculins en -i : ⟪अरि⟫
+:::
+### 27.7.4. Les masculins en -i : ⟪अरि⟫
 
 :::grammar-box
 
@@ -330,7 +349,8 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) avec son petit-fils le prince Jaya
 Fig. : ⟪अरयः⟫
 Exécution par pendaison de deux participants de la rébellion de 1857. Photographie de Felice Beato (1833/1834 - env. 1907).
 (Source de l'image : [Détails](/fr/licenses#lekt2712))
-:::### 27.7.5. Féminins en -i : ⟪मति⟫
+:::
+### 27.7.5. Féminins en -i : ⟪मति⟫
 
 :::grammar-box
 
@@ -344,7 +364,8 @@ Exécution par pendaison de deux participants de la rébellion de 1857. Photogra
 | **6. Génitif**:br**⟪६⟫. ⟪षष्ठी⟫** | ⟪मतेस्⟫ / ⟪मत्यास्⟫ | ⟪मतीणाम्⟫ |
 | **7. Locatif**:br**⟪७⟫. ⟪सप्तमी⟫** | ⟪मतौ⟫ / ⟪मत्याम्⟫ | ⟪मतिषु⟫ |
 
-:::### 27.7.6. Les masculins en -u : ⟪गुरु⟫
+:::
+### 27.7.6. Les masculins en -u : ⟪गुरु⟫
 
 :::grammar-box
 
@@ -363,7 +384,8 @@ Exécution par pendaison de deux participants de la rébellion de 1857. Photogra
 Fig. : ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Source de l'image : [Détails](/fr/licenses#lekt2713))
-:::### 27.7.7. Les féminins en -u : ⟪धेनु⟫
+:::
+### 27.7.7. Les féminins en -u : ⟪धेनु⟫
 
 :::grammar-box
 
@@ -382,7 +404,8 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 Fig. : ⟪धेनुः⟫
 Vache à Udaipur.
 (Source de l'image : [Détails](/fr/licenses#lekt2714))
-:::### 27.7.8. Féminins polysyllabiques en -ī : ⟪देवी⟫
+:::
+### 27.7.8. Féminins polysyllabiques en -ī : ⟪देवी⟫
 
 :::grammar-box
 
@@ -401,7 +424,8 @@ Vache à Udaipur.
 Fig. : ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Source de l'image : [Détails](/fr/licenses#lekt2715))
-:::### 27.7.9. Participe présent Parasmaipada en -ant : ⟪सन्त्⟫
+:::
+### 27.7.9. Participe présent Parasmaipada en -ant : ⟪सन्त्⟫
 
 :::grammar-box
 
@@ -420,7 +444,8 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 Fig. : ⟪सद्गुरुः⟫
 Sai Baba de Shirdi (1835 - 1918).
 (Source de l'image : [Détails](/fr/licenses#lekt2716))
-:::### 27.7.10. ⟪महान्त्⟫
+:::
+### 27.7.10. ⟪महान्त्⟫
 
 :::grammar-box
 
@@ -434,7 +459,8 @@ Sai Baba de Shirdi (1835 - 1918).
 | **6. Génitif**:br**⟪६⟫. ⟪षष्ठी⟫** | ⟪महतस्⟫ || ⟪महताम्⟫ ||
 | **7. Locatif**:br**⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
 
-:::### 27.7.11. Masculins et neutres en -vant / -mant : ⟪गुणवन्त्⟫
+:::
+### 27.7.11. Masculins et neutres en -vant / -mant : ⟪गुणवन्त्⟫
 
 :::grammar-box
 
@@ -448,7 +474,8 @@ Sai Baba de Shirdi (1835 - 1918).
 | **6. Génitif**:br**⟪६⟫. ⟪षष्ठी⟫** | ⟪गुणवतस्⟫ || ⟪गुणवताम्⟫ ||
 | **7. Locatif**:br**⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
 
-:::### 27.7.12. Pronoms démonstratifs : ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
+:::
+### 27.7.12. Pronoms démonstratifs : ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
 
 :::grammar-box
 
@@ -488,7 +515,8 @@ Sai Baba de Shirdi (1835 - 1918).
 | **6. Génitif**:br**⟪६⟫. ⟪षष्ठी⟫** | ⟪अस्य⟫ || ⟪अस्यास्⟫ | ⟪एषाम्⟫ || ⟪आसाम्⟫ |
 | **7. Locatif**:br**⟪७⟫. ⟪सप्तमी⟫** | ⟪अस्मिन्⟫ || ⟪अस्याम्⟫ | ⟪एषु⟫ || ⟪आसु⟫ |
 
-:::### 27.7.13. Pronoms relatifs : ⟪यद्⟫
+:::
+### 27.7.13. Pronoms relatifs : ⟪यद्⟫
 
 :::grammar-box
 
@@ -502,7 +530,8 @@ Sai Baba de Shirdi (1835 - 1918).
 | **6. Génitif**:br**⟪६⟫. ⟪षष्ठी⟫** | ⟪यस्य⟫ || ⟪यस्यास्⟫ | ⟪येषाम्⟫ || ⟪यासाम्⟫ |
 | **7. Locatif**:br**⟪७⟫. ⟪सप्तमी⟫** | ⟪यस्मिन्⟫ || ⟪यस्याम्⟫ | ⟪येषु⟫ || ⟪यासु⟫ |
 
-:::### 27.7.14. Pronoms interrogatifs : ⟪किम्⟫
+:::
+### 27.7.14. Pronoms interrogatifs : ⟪किम्⟫
 
 :::grammar-box
 

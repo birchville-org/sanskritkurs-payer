@@ -17,14 +17,16 @@ status: stable
 *   1.sg.P: opțional nivel înalt sau nivel alungit
 
 **rădăcină slabă:** vezi la subtipuri
-:::### 35.1.1. Perfect Tipul IIIa: Rădăcină puternică, nivel ridicat/îndreptat, rădăcină slabă, nivel scăzut
+:::
+### 35.1.1. Perfect Tipul IIIa: Rădăcină puternică, nivel ridicat/îndreptat, rădăcină slabă, nivel scăzut
 
 ::::grammar-box
 **Formare:**
 
 :::indent
 **rădăcină slabă:** nivel scăzut
-:::Se formează din rădăcini de tipurile:
+:::
+Se formează din rădăcini de tipurile:
 *   (Consoană)-(Consoană) - i/ī/u/ū
 *   (Consoană) - ṛ
 
@@ -32,7 +34,8 @@ status: stable
 *   -i/-ī cu -iy
 *   -u/-ū cu -uv
 *   -ṛ durch r
-::::Exemple:
+::::
+Exemple:
 
 ::::grammar-box
 
@@ -44,17 +47,20 @@ status: stable
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-::::### 35.1.2. Perfect Tipul IIIb: Rădăcină puternică la nivelul înalt/lungit, rădăcină slabă la nivelul înalt
+::::
+### 35.1.2. Perfect Tipul IIIb: Rădăcină puternică la nivelul înalt/lungit, rădăcină slabă la nivelul înalt
 
 ::::grammar-box
 **Formare:**
 
 :::indent
 **rădăcină slabă:** nivelul înalt
-:::Se formează din rădăcini de tipurile:
+:::
+Se formează din rădăcini de tipurile:
 *   (Consonant)-(Consonant)-ṝ
 *   Consonant-Consonant-ṛ (adică, rădăcini cu sufixul -ṛ, când le preced mai mulți consoane)
-::::Exemple:
+::::
+Exemple:
 
 ::::grammar-box
 
@@ -64,7 +70,8 @@ status: stable
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-::::## 35.2. Tipul IV al Perfectului: Rădăcini cu -ā / -āi
+::::
+## 35.2. Tipul IV al Perfectului: Rădăcini cu -ā / -āi
 
 :::grammar-box
 **Formare:**
@@ -78,7 +85,8 @@ status: stable
 *   înaintea vocalelor: nivel scăzut Ø
 
 Se formează din rădăcini cu -ā / -āi
-:::Exemplu:
+:::
+Exemplu:
 
 ::::grammar-box
 
@@ -86,7 +94,8 @@ Se formează din rădăcini cu -ā / -āi
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-::::## 35.3. Tipul V al Perfectului: Rădăcini cu modelul Consonant-a-Consonant
+::::
+## 35.3. Tipul V al Perfectului: Rădăcini cu modelul Consonant-a-Consonant
 
 :::grammar-box
 **Formare:**
@@ -99,21 +108,24 @@ Se formează din rădăcini cu -ā / -āi
 **temă slabă:** vezi subtipurile
 
 Se formează din rădăcini de tipul (Consonant)-Consonant-a-Consonant
-:::### 35.3.1. Tipul Perfect: rădăcină slabă, gradul profund
+:::
+### 35.3.1. Tipul Perfect: rădăcină slabă, gradul profund
 
 ::::grammar-box
 **Formare:**
 
 :::indent
 **rădăcină slabă:** gradul profund
-:::Se formează, printre altele, de la rădăcini:
+:::
+Se formează, printre altele, de la rădăcini:
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-::::Exemple:
+::::
+Exemple:
 
 ::::grammar-box
 
@@ -126,7 +138,8 @@ Se formează din rădăcini de tipul (Consonant)-Consonant-a-Consonant
 | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | &lt;⟪ऊदे⟫&gt; | &lt;⟪ऊदिरे⟫&gt; |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-::::### 35.3.2. Tipul Perfect Vb: rădăcină slabă, contractie (tipul e)
+::::
+### 35.3.2. Tipul Perfect Vb: rădăcină slabă, contractie (tipul e)
 
 ::::grammar-box
 **Formare:**
@@ -134,8 +147,10 @@ Se formează din rădăcini de tipul (Consonant)-Consonant-a-Consonant
 :::indent
 **rădăcină slabă:** fără reduplicare. Înlocuirea lui -a- din rădăcină cu -e-  
 (pentru explicații, vezi Thumb-Hauschild 1,2 p. 286ss.)
-:::Se formează din rădăcini cu -a- între doi consoane simpli, a căror consoană inițială nu se modifică în silaba de reduplicare (adică, a căror consoană inițială nu este guturală, aspirată sau h).
-::::Exemplu:
+:::
+Se formează din rădăcini cu -a- între doi consoane simpli, a căror consoană inițială nu se modifică în silaba de reduplicare (adică, a căror consoană inițială nu este guturală, aspirată sau h).
+::::
+Exemplu:
 
 ::::grammar-box
 
@@ -143,7 +158,8 @@ Se formează din rădăcini de tipul (Consonant)-Consonant-a-Consonant
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | ***⟪पे⟫***⟪चुर्⟫ | ***⟪पे⟫***⟪चे⟫ | ***⟪पे⟫***⟪चिरे⟫ |
 
-::::### 35.3.3. Tipul Vc al Perfectului: Rădăcini Consonant-a-Consonant. Tăria slabă, gradul ridicat
+::::
+### 35.3.3. Tipul Vc al Perfectului: Rădăcini Consonant-a-Consonant. Tăria slabă, gradul ridicat
 
 :::grammar-box
 **Formare:**
@@ -157,7 +173,8 @@ Se formează de la toate celelalte rădăcini cu -a- mediu, adică rădăcini cu
 *   care încep cu h
 
 cu condiția să nu aparțină Perfectului Tipul Va.
-:::Exemplu:
+:::
+Exemplu:
 
 ::::grammar-box
 
@@ -165,7 +182,8 @@ cu condiția să nu aparțină Perfectului Tipul Va.
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-::::## 35.4. Listă de cuvinte
+::::
+## 35.4. Listă de cuvinte
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : a se pierde, a fi distrus, a dispărea
 :::indent
@@ -173,7 +191,8 @@ cu condiția să nu aparțină Perfectului Tipul Va.
 **Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
 **Kaus. ⟪नाशयति⟫**:br
 **PPP ⟪नष्ट⟫**
-:::**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : a dispărea, a se pierde, a fi distrus
+:::
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : a dispărea, a se pierde, a fi distrus
 
 **⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : a merge, a merge înainte
 :::indent
@@ -189,7 +208,8 @@ cu condiția să nu aparțină Perfectului Tipul Va.
 Fig.: ⟪क्रामन्ति⟫
 Oameni mergând, Senegal.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3502))
-:::**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): a cânta, a recita în ton cântător, a anunța în vorbire poetică
+:::
+**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): a cânta, a recita în ton cântător, a anunța în vorbire poetică
 :::indent
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
 **Fut. ⟪गास्यति⟫**:br
@@ -205,7 +225,8 @@ din care:
 Fig.: ⟪जगुः⟫
 Muzicieni de templu Kaadu Malleswara Temple Bangalore.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3501))
-:::## 35.5. Exercițiu
+:::
+## 35.5. Exercițiu
 
 A) Formați formele de perfect corespunzătoare pentru următoarele forme verbale:
 
@@ -269,7 +290,8 @@ B) Traduceți:
 Fig.: ... ⟪ब्राह्मणाश्चेजुः⟫
 Yajña ceremony, Shiva ashram, Ganeshpuri.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3504))
-:::⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
+:::
+⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
 C) Transformați propozițiile din exercițiul B) înlocuind perfectele cu imperfecte.
 

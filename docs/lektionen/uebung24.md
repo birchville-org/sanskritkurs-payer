@@ -42,7 +42,8 @@ A) Bilden Sie den Dativ Singular und den Dativ (bzw. Ablativ) Plural und geben S
 | ⟪२७⟫. **⟪पूजा⟫** | Verehrung | ⟪पूजायै⟫ | ⟪पूजाभ्यः⟫ |
 | ⟪२८⟫. **⟪दासी⟫** | Dienerin | ⟪दास्यै⟫ | ⟪दासीभ्यः⟫ |
 | ⟪२९⟫. **⟪गुरु⟫** | Meister | ⟪गुरवे⟫ (m) / ⟪गुर्व्यै⟫ (f) | ⟪गुरुभ्यः⟫ / ⟪गुर्वीभ्यः⟫ |
-:::B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+:::
+B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ⟪१⟫. **⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विश⟫ati ⟪॥१॥⟫**
 (⟪देवस्य⟫ ⟪प्रतिमाया⟫ ⟪दर्शनाय⟫ ⟪।⟫ ⟪गर्भ⟫ ⟪एव⟫ ⟪गृहम्⟫)
@@ -82,7 +83,8 @@ Um zu sterben, werden Lebewesen geboren.
 ![](/images/uebung037.webp)
 Abb.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Bildquelle: [Details](/licenses#uebung037))
-:::---
+:::
+---
 
 ## Syntaktische Variationen
 

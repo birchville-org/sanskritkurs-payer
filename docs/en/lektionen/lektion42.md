@@ -29,7 +29,8 @@ The majority of the nouns belonging here are agent nouns formed with the ⟪क�
     *   **before consonant: -ṛ**
 
 Note the irregular formations (marked in **red**)!
-:::Masculine:
+:::
+Masculine:
 
 :::indent
 **⟪दातृ⟫** m. "giver"
@@ -45,13 +46,15 @@ Note the irregular formations (marked in **red**)!
 | ⟪षष्ठी⟫ | ***⟪दातुस्⟫*** | ***⟪दातॄणाम्⟫*** |
 | ⟪सप्तमी⟫ | ***⟪दातरि⟫*** | ⟪दातृषु⟫ |
 
-:::For an explanation of the irregular formations, see Thumb-Hauschild I,2 pp. 76-81
+:::
+For an explanation of the irregular formations, see Thumb-Hauschild I,2 pp. 76-81
 
 Feminine:
 
 :::indent
 **⟪स्वसृ⟫** f. is declined like **⟪दातृ⟫** with the exception of the accusative (**⟪द्वितीया⟫**) plural: ***⟪स्वसॄस्⟫***.
-:::### 42.1.2. Nominal Derivation: ⟪कृत्⟫ Suffix -⟪तृ⟫
+:::
+### 42.1.2. Nominal Derivation: ⟪कृत्⟫ Suffix -⟪तृ⟫
 
 :::grammar-box
 The very common ⟪कृत्⟫ suffix -⟪तृ⟫ is used to form nominal agents (designations for the ⟪कर्तृ⟫) from almost any root or causative stem.
@@ -63,7 +66,8 @@ The very common ⟪कृत्⟫ suffix -⟪तृ⟫ is used to form nominal 
 or
 
 *   **strong-grade root / causative stem + i + tṛ**
-:::Examples:
+:::
+Examples:
 
 :::indent
 **⟪कर्तृ⟫** m. "agent"
@@ -85,7 +89,8 @@ Rarely occurring neuters in -⟪तृ⟫ have a partially independent declensio
 The feminine of stems in -⟪तृ⟫ ends in **-⟪त्री⟫** (cf. **⟪देवी⟫**).
 
 e.g. **⟪कर्त्री⟫** f. "female agent"
-:::### 42.1.3. Tribes with strong stem grade
+:::
+### 42.1.3. Tribes with strong stem grade
 
 :::grammar-box
 The following kinship terms belong to this category:
@@ -104,7 +109,8 @@ The following kinship terms belong to this category:
 *   **weak stem**
     *   **before vowel: -r**
     *   **before consonant: -ṛ**
-:::Examples:
+:::
+Examples:
 
 :::indent
 **⟪पितृ⟫** m. "father"
@@ -118,14 +124,16 @@ The following kinship terms belong to this category:
 | ⟪द्वितीया⟫ | ***⟪पितरम्⟫*** | ⟪पितॄन्⟫ | ***⟪मातरम्⟫*** | ⟪मातॄस्⟫ |
 | Rest as ⟪दातृ⟫ | ← | ← | ← | ← |
 
-:::### 42.1.4. Stems ending in -ṛ in compounds
+:::
+### 42.1.4. Stems ending in -ṛ in compounds
 
 :::grammar-box
 As the first member of a compound, nouns ending in -ṛ naturally stand in their weak stem, i.e.
 
 *   **before consonants: -ṛ**
 *   **before vowels: -r**
-:::## 42.2. Word List
+:::
+## 42.2. Word List
 
 ⟪प्रकृति⟫ f.: (from ⟪कृ⟫ + ⟪प्र⟫) basic form, natural state, nature; primordial matter, prime substance
 
@@ -135,7 +143,8 @@ As the first member of a compound, nouns ending in -ṛ naturally stand in their
 
 :::indent
 PPP ⟪अवस्थित⟫ 3: standing, located
-:::⟪पुरा⟫ Adv.: once, formerly
+:::
+⟪पुरा⟫ Adv.: once, formerly
 
 ⟪अनेक⟫ 3: many (not a few)
 
@@ -163,7 +172,8 @@ Caus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
-:::⟪अधिपति⟫ m. = ⟪राजन्⟫
+:::
+⟪अधिपति⟫ m. = ⟪राजन्⟫
 
 ⟪आटोप⟫ m.: vanity, pride
 
@@ -189,7 +199,8 @@ Caus. ⟪शंसयति⟫
 PPP ⟪शस्त⟫  
 Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
-:::⟪हृदय⟫ n.: heart
+:::
+⟪हृदय⟫ n.: heart
 
 ### 42.2.1. Some Kinship Terms
 
@@ -197,7 +208,8 @@ Inf. ⟪शंसितुम्⟫
 ![lekt4202.jpg](/images/lekt4202.webp)
 Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Image source: [Details](/en/licenses#lekt4202))
-:::⟪भर्तृ⟫ m. (from ⟪भृ⟫ "to carry, to sustain"): Sustainer, Nourisher, Husband
+:::
+⟪भर्तृ⟫ m. (from ⟪भृ⟫ "to carry, to sustain"): Sustainer, Nourisher, Husband
 
 ⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f.: Wife (⟪भार्या⟫ = gerundive from ⟪भृ⟫ : one to be carried, one to be sustained, one entitled to maintenance)
 
@@ -260,13 +272,15 @@ Translate:
 ![lekt4203.jpg](/images/lekt4203.webp)
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Image source: [Details](/en/licenses#lekt4203))
-:::⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
+:::
+⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
 :::media
 ![lekt4204.jpg](/images/lekt4204.webp)
 Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#lekt4204))
-:::⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
+:::
+⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
 
 ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫
 
@@ -294,7 +308,8 @@ Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 ![lekt4208.jpg](/images/lekt4208.webp)
 Fig.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
 (Image source: [Details](/en/licenses#lekt4208))
-:::⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
+:::
+⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
 ⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ***⟪सीतारामयोर्वि⟫***⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
 
@@ -308,13 +323,15 @@ Explanation of the **red** highlighted expressions:
 ![lekt4205.jpg](/images/lekt4205.webp)
 Fig.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Image source: [Details](/en/licenses#lekt4205))
-:::⟪मिथिला⟫ f. proper name: capital of ⟪विदेह⟫
+:::
+⟪मिथिला⟫ f. proper name: capital of ⟪विदेह⟫
 
 :::media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Image source: [Details](/en/licenses#lekt4206))
-:::⟪जनक⟫ m. proper name: king of ⟪विदेह⟫
+:::
+⟪जनक⟫ m. proper name: king of ⟪विदेह⟫
 
 ⟪गुरुतर⟫ 3: comparative of ⟪गुरु⟫ 3: heavier, very heavy
 
@@ -330,7 +347,8 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 ![lekt4207.jpg](/images/lekt4207.webp)
 Fig.: ⟪रावणः⟫
 (Image source: [Details](/en/licenses#lekt4207))
-:::⟪अयोध्या⟫ f. proper name: capital of ⟪कोसल⟫ (see map above!)
+:::
+⟪अयोध्या⟫ f. proper name: capital of ⟪कोसल⟫ (see map above!)
 
 ⟪दशरथ⟫ m. proper name: king of ⟪कोसल⟫
 

@@ -33,7 +33,8 @@ Un ignorante gode di buon cibo e belle donne. La cui ignoranza è scomparsa, non
 ![](/images/uebung049.webp)
 Fig.: ⟪कुलबन्धनम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung049))
-:::---
+:::
+---
 
 ## Paradigmi verbali (7ª classe)
 

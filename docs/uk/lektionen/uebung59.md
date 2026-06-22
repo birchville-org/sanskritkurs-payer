@@ -12,7 +12,8 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung098.webp)
 Мал.: ⟪रावणः⟫
 (Джерело зображення: [Деталі](/uk/licenses#uebung098))
-:::---
+:::
+---
 
 ## A) Аналіз тексту
 

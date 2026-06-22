@@ -66,7 +66,8 @@ A) Determinați și traduceți următoarele forme:
 | ⟪५०⟫. **⟪चिनुथ⟫** | ⟪चि⟫ (5U) 2. pl. P. Ind. Präs. | așezați la loc |
 | ⟪५१⟫. **⟪हथ⟫** | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | bateți |
 | ⟪५२⟫. **⟪हतः⟫** | ⟪हन्⟫ (2P) PPP Nom. sg. m. | bătut / omorât |
-:::---
+:::
+---
 
 ## Traduceri
 
@@ -100,7 +101,8 @@ Ai plâns pentru cei care nu trebuie plânși și ai vrut să rostești cuvinte 
 ![](/images/uebung072.webp)
 Fig.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung072))
-:::---
+:::
+---
 
 ## Alte forme de determinare
 

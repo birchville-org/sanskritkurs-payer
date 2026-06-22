@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-07
 - La formation de radicaux nominaux avec les suffixes **-ka** (taddhita) et **-aka** (kṛt)
 - Le vocabulaire relatif aux professions et aux rôles sociaux
 - Des citations tirées de textes classiques de Dharmaśāstra
-:::---
+:::
+---
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = « résumé dvandva »)
 
@@ -23,7 +24,8 @@ last_reconstructed: 2026-05-07
 **Si un dvandva doit exprimer qu’une série de choses, etc., forment une unité, il est généralement au singulier neutre :**
 
 p. ex. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ ne signifie pas simplement « prise de nourriture (**āhāra** m.), sommeil (**nidrā** f.), accouplement (**maithuna** n.) et peur (**bhaya** n.) », mais ces quatre comme **unité**, qui caractérise la vie animale.
-:::Outre cette règle fondamentale de formation des Samāhāradvandvas, il existe une série d’autres règles que l’on trouve chez Pāṇini 2,4,2-17 ou par ex. Mr R. Kale, A higher Sanskrit grammar, réimpression 1969, § 189 - 192 a. Aux différentes étapes du développement linguistique, les mêmes règles n’ont pas toujours été respectées !
+:::
+Outre cette règle fondamentale de formation des Samāhāradvandvas, il existe une série d’autres règles que l’on trouve chez Pāṇini 2,4,2-17 ou par ex. Mr R. Kale, A higher Sanskrit grammar, réimpression 1969, § 189 - 192 a. Aux différentes étapes du développement linguistique, les mêmes règles n’ont pas toujours été respectées !
 
 ---
 
@@ -48,7 +50,8 @@ p. ex. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम
 4\. **Noms exprimant "en relation avec le concept du mot de base" :**
    **kāśi f. "Bénarès" » kāśika 3 ⟪काशिक⟫ "né à Bénarès, originaire de Bénarès"**
    **rūpa n. "forme" » rūpaka 3 ⟪रूपक⟫ "ayant la forme de quelque chose"**
-:::---
+:::
+---
 
 ### 9.2.2. -aka (kṛt), fém. souvent -ikā
 
@@ -56,7 +59,8 @@ p. ex. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम
 **Le suffixe kṛt -aka, au féminin souvent -ikā, forme des noms d’agent (noms exprimant l’exécutant) à partir de n’importe quelle racine.**
 
 Une voyelle finale de la racine, ainsi qu’une voyelle **-a-** à l’avant-dernière position de la racine, sont remplacées par leur degré allongé (**vṛddhi**) (il existe quelques exceptions) ; les autres voyelles sont remplacées par leur degré renforcé (**guṇa**).
-:::**Exemples :**
+:::
+**Exemples :**
 
 | Racine:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Signification |
 | :--- | :--- | :--- |
@@ -69,7 +73,8 @@ Une voyelle finale de la racine, ainsi qu’une voyelle **-a-** à l’avant-der
 
 :::grammar-box
 **Certaines de ces formations ont le sens plus restreint : "celui qui accomplit habituellement ou comme obligation ou bien ce qui est exprimé par la racine".**
-:::voir ci-dessus par ex. **śrāvaka**, **yājaka**, **jayaka**
+:::
+voir ci-dessus par ex. **śrāvaka**, **yājaka**, **jayaka**
 
 **Exemples :**
 
@@ -93,13 +98,15 @@ Par ailleurs, il existe encore quelques utilisations moins importantes du suffix
 ![](/images/lekt0903.webp)
 Fig. : **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram près de Madurai.
 (Source de l'image : [Détails](/fr/licenses#lekt0903))
-:::- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artisan
+:::
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artisan
 
 :::media
 ![](/images/lekt0902.webp)
 Fig. : **kāru** = ⟪कारु⟫, Gujarat.
 (Source de l'image : [Détails](/fr/licenses#lekt0902))
-:::- **kuśīlava** m. (⟪कुशीलव⟫) : (itinérant) montreur de marionnettes, acteur, chanteur
+:::
+- **kuśīlava** m. (⟪कुशीलव⟫) : (itinérant) montreur de marionnettes, acteur, chanteur
 - **kusīda** n. (⟪कुसीद⟫) : Usure
 - **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : tirer
 - **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : labourer
@@ -132,7 +139,8 @@ Fig. : **kāru** = ⟪कारु⟫, Gujarat.
 ![](/images/lekt0901.webp)
 Fig. : **karṣaka** = ⟪कर्षक⟫.
 (Source de l'image : [Détails](/fr/licenses#lekt0901))
-:::8\. kleśa (⟪क्लेश⟫)
+:::
+8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
 11\. nartaka (f. nartakī) (⟪नर्तक⟫ / ⟪नर्तकी⟫)

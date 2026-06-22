@@ -9,65 +9,65 @@ outline: [2, 3]
 
 ## 1. ध्वनिविज्ञान एवं लिपि (संहिता एवं लिपि)
 
-*   **ध्वनि परिचय**: व्यवस्था और उच्चारण -&gt; [पाठ 1](/lektionen/lektion01)
+*   **ध्वनि परिचय**: व्यवस्था और उच्चारण → [पाठ 1](/lektionen/lektion01)
 *   **लिपि परिचय (देवनागरी)**:
-    *   स्वर और सरल व्यंजन -&gt; [पाठ 40](/lektionen/lektion40)
-    *   संयुक्त व्यंजन (लिगेचर) -&gt; [पाठ 41](/lektionen/lektion41) और [पाठ 42](/lektionen/lektion42)
+    *   स्वर और सरल व्यंजन → [पाठ 40](/lektionen/lektion40)
+    *   संयुक्त व्यंजन (लिगेचर) → [पाठ 41](/lektionen/lektion41) और [पाठ 42](/lektionen/lektion42)
 *   **संधि (ध्वनि संयोग)**:
-    *   निष्ठागत **-स/विसर्ग** की संधि -&gt; [पाठ 2](/lektionen/lektion02), [पाठ 3](/lektionen/lektion03), [पाठ 30](/lektionen/lektion30)
-    *   **-म, -ए, -द** की संधि -&gt; [पाठ 4](/lektionen/lektion04)
-    *   **स्वरसंधि** -&gt; [पाठ 3](/lektionen/lektion03), [पाठ 24](/lektionen/lektion24)
-    *   **-न** की संधि -&gt; [पाठ 7](/lektionen/lektion07)
-    *   **अनुनासिकों** के लिए संधि -&gt; [पाठ 21](/lektionen/lektion21), [पाठ 26](/lektionen/lektion26)
-    *   मूर्धन्यीकरण (**n -&gt; ṇ / s -&gt; ṣ**) -&gt; [पाठ 10](/lektionen/lektion10), [पाठ 26](/lektionen/lektion26)
-    *   शब्दसंधि (h-, ch-) -&gt; [पाठ 44](/lektionen/lektion44), [पाठ 51](/lektionen/lektion51)
-    *   **व्यंजनसंधि** (सारांश) -&gt; [पाठ 16](/lektionen/lektion16), [पाठ 43](/lektionen/lektion43)
+    *   निष्ठागत **-स/विसर्ग** की संधि → [पाठ 2](/lektionen/lektion02), [पाठ 3](/lektionen/lektion03), [पाठ 30](/lektionen/lektion30)
+    *   **-म, -ए, -द** की संधि → [पाठ 4](/lektionen/lektion04)
+    *   **स्वरसंधि** → [पाठ 3](/lektionen/lektion03), [पाठ 24](/lektionen/lektion24)
+    *   **-न** की संधि → [पाठ 7](/lektionen/lektion07)
+    *   **अनुनासिकों** के लिए संधि → [पाठ 21](/lektionen/lektion21), [पाठ 26](/lektionen/lektion26)
+    *   मूर्धन्यीकरण (**n → ṇ / s → ṣ**) → [पाठ 10](/lektionen/lektion10), [पाठ 26](/lektionen/lektion26)
+    *   शब्दसंधि (h-, ch-) → [पाठ 44](/lektionen/lektion44), [पाठ 51](/lektionen/lektion51)
+    *   **व्यंजनसंधि** (सारांश) → [पाठ 16](/lektionen/lektion16), [पाठ 43](/lektionen/lektion43)
 
 ## 2. शब्दविद्या (रूपविज्ञान)
 
 ### 2.1 संज्ञाएँ और विशेषण (विभक्ति)
 
-*   **मूलभूत**: विसर्ग सिद्धांत -&gt; [पाठ 1](/lektionen/lektion01), [पाठ 2](/lektionen/lektion02)
-*   **अ-प्रत्यय** (पुल्लिंग और नपुंसकलिङ्ग) -&gt; [पाठ 2](/lektionen/lektion02), [पाठ 7](/lektionen/lektion07)
-*   **इ- और उ-प्रत्यय** -&gt; [पाठ 3](/lektionen/lektion03), [पाठ 27](/lektionen/lektion27), [पाठ 52](/lektionen/lektion52)
+*   **मूलभूत**: विसर्ग सिद्धांत → [पाठ 1](/lektionen/lektion01), [पाठ 2](/lektionen/lektion02)
+*   **अ-प्रत्यय** (पुल्लिंग और नपुंसकलिङ्ग) → [पाठ 2](/lektionen/lektion02), [पाठ 7](/lektionen/lektion07)
+*   **इ- और उ-प्रत्यय** → [पाठ 3](/lektionen/lektion03), [पाठ 27](/lektionen/lektion27), [पाठ 52](/lektionen/lektion52)
 *   **व्यंजनप्रत्यय**:
-    *   **-mant / -vant** पर समाप्त होने वाले प्रत्यय -&gt; [पाठ 13](/lektionen/lektion13)
-    *   **-n** पर समाप्त होने वाले प्रत्यय (राजन्, आत्मन्) -&gt; [पाठ 38](/lektionen/lektion38)
-    *   सरल व्यंजनप्रत्यय -&gt; [पाठ 51](/lektionen/lektion51), [पाठ 54](/lektionen/lektion54)
-    *   **-ā, -ī, -ū** पर समाप्त होने वाले मूलनाम -&gt; [पाठ 61](/lektionen/lektion61)
-*   **द्विवचन** (द्विवचन) संज्ञाओं का -&gt; [पाठ 49](/lektionen/lektion49), [पाठ 50](/lektionen/lektion50), [पाठ 53](/lektionen/lektion53)
+    *   **-mant / -vant** पर समाप्त होने वाले प्रत्यय → [पाठ 13](/lektionen/lektion13)
+    *   **-n** पर समाप्त होने वाले प्रत्यय (राजन्, आत्मन्) → [पाठ 38](/lektionen/lektion38)
+    *   सरल व्यंजनप्रत्यय → [पाठ 51](/lektionen/lektion51), [पाठ 54](/lektionen/lektion54)
+    *   **-ā, -ī, -ū** पर समाप्त होने वाले मूलनाम → [पाठ 61](/lektionen/lektion61)
+*   **द्विवचन** (द्विवचन) संज्ञाओं का → [पाठ 49](/lektionen/lektion49), [पाठ 50](/lektionen/lektion50), [पाठ 53](/lektionen/lektion53)
 *   **संख्याएँ & तुलना**:
-    *   संख्यावाचक शब्द (कार्डिनल/ऑर्डिनल) -&gt; [पाठ 52](/lektionen/lektion52)
-    *   तुलना (संपरिक्कत/सुपरलेटिव) -&gt; [पाठ 53](/lektionen/lektion53)
+    *   संख्यावाचक शब्द (कार्डिनल/ऑर्डिनल) → [पाठ 52](/lektionen/lektion52)
+    *   तुलना (संपरिक्कत/सुपरलेटिव) → [पाठ 53](/lektionen/lektion53)
 
 ### 2.2 सर्वनामाणि व अव्ययानि
 
 *   **सर्वनाम**:
-    *   प्रश्नवाचक व प्रदर्शक सर्वनाम -&gt; [पाठ 4](/lektionen/lektion04)
-    *   संबंधवाचक सर्वनाम (यद्) -&gt; [पाठ 19](/lektionen/lektion19)
-    *   व्यक्तिवाचक सर्वनाम (प्रथम व द्वितीय पुरुष) -&gt; [पाठ 46](/lektionen/lektion46), [पाठ 47](/lektionen/lektion47)
-    *   अनिश्चित सर्वनाम -&gt; [पाठ 37](/lektionen/lektion37)
+    *   प्रश्नवाचक व प्रदर्शक सर्वनाम → [पाठ 4](/lektionen/lektion04)
+    *   संबंधवाचक सर्वनाम (यद्) → [पाठ 19](/lektionen/lektion19)
+    *   व्यक्तिवाचक सर्वनाम (प्रथम व द्वितीय पुरुष) → [पाठ 46](/lektionen/lektion46), [पाठ 47](/lektionen/lektion47)
+    *   अनिश्चित सर्वनाम → [पाठ 37](/lektionen/lektion37)
 *   **क्रियाविशेषण व सम्बोधन**:
-    *   क्रियाविशेषणों का निर्माण -&gt; [पाठ 37](/lektionen/lektion37), [पाठ 52](/lektionen/lektion52)
-    *   आदरसूचक सम्बोधन व वॉकेटिव -&gt; [पाठ 21](/lektionen/lektion21), [पाठ 44](/lektionen/lektion44)
+    *   क्रियाविशेषणों का निर्माण → [पाठ 37](/lektionen/lektion37), [पाठ 52](/lektionen/lektion52)
+    *   आदरसूचक सम्बोधन व वॉकेटिव → [पाठ 21](/lektionen/lektion21), [पाठ 44](/lektionen/lektion44)
 
 ### 2.3 क्रियाएँ (सर्वनाम)
 
 *   **वर्तमानकाल प्रणाली (सूचक)**:
-    *   व्यक्तिप्रत्यय (३., २., १. पुरुष) -&gt; [पाठ 6](/lektionen/lektion06), [पाठ 44](/lektionen/lektion44), [पाठ 39](/lektionen/lektion39)
-    *   विषयक वर्ग (१, ४, ६, १०) -&gt; [पाठ 6](/lektionen/lektion06), [पाठ 28](/lektionen/lektion28)
-    *   अविषयक वर्ग -&gt; [पाठ 17](/lektionen/lektion17), [पाठ 33](/lektionen/lektion33), [पाठ 7](/lektionen/lektion07), [पाठ 31](/lektionen/lektion31), [पाठ 8](/lektionen/lektion08), [पाठ 30](/lektionen/lektion30)
+    *   व्यक्तिप्रत्यय (३., २., १. पुरुष) → [पाठ 6](/lektionen/lektion06), [पाठ 44](/lektionen/lektion44), [पाठ 39](/lektionen/lektion39)
+    *   विषयक वर्ग (१, ४, ६, १०) → [पाठ 6](/lektionen/lektion06), [पाठ 28](/lektionen/lektion28)
+    *   अविषयक वर्ग → [पाठ 17](/lektionen/lektion17), [पाठ 33](/lektionen/lektion33), [पाठ 7](/lektionen/lektion07), [पाठ 31](/lektionen/lektion31), [पाठ 8](/lektionen/lektion08), [पाठ 30](/lektionen/lektion30)
 *   **अन्य काल एवं विलंबक**:
-    *   **अपूर्णकाल** (भूतकाल) -&gt; [पाठ 32](/lektionen/lektion32)
-    *   **आशावाचक एवं आज्ञावाचक** -&gt; [पाठ 30](/lektionen/lektion30), [पाठ 48](/lektionen/lektion48)
-    *   **पूर्णकाल** (एकवचन/बहुवचन) -&gt; [पाठ 34](/lektionen/lektion34), [पाठ 35](/lektionen/lektion35), [पाठ 36](/lektionen/lektion36)
-    *   **पूर्णकाल (द्विवचन)** -&gt; [पाठ 60](/lektionen/lektion60)
-    *   **भविष्यकाल** (सरल एवं परिप्रस्थित) -&gt; [पाठ 26](/lektionen/lektion26), [पाठ 61](/lektionen/lektion61)
-    *   **अभूतकाल** (भूतकाल) -&gt; [पाठ 54](/lektionen/lektion54), [पाठ 55](/lektionen/lektion55), [पाठ 56](/lektionen/lektion56), [पाठ 57](/lektionen/lektion57), [पाठ 58](/lektionen/lektion58)
+    *   **अपूर्णकाल** (भूतकाल) → [पाठ 32](/lektionen/lektion32)
+    *   **आशावाचक एवं आज्ञावाचक** → [पाठ 30](/lektionen/lektion30), [पाठ 48](/lektionen/lektion48)
+    *   **पूर्णकाल** (एकवचन/बहुवचन) → [पाठ 34](/lektionen/lektion34), [पाठ 35](/lektionen/lektion35), [पाठ 36](/lektionen/lektion36)
+    *   **पूर्णकाल (द्विवचन)** → [पाठ 60](/lektionen/lektion60)
+    *   **भविष्यकाल** (सरल एवं परिप्रस्थित) → [पाठ 26](/lektionen/lektion26), [पाठ 61](/lektionen/lektion61)
+    *   **अभूतकाल** (भूतकाल) → [पाठ 54](/lektionen/lektion54), [पाठ 55](/lektionen/lektion55), [पाठ 56](/lektionen/lektion56), [पाठ 57](/lektionen/lektion57), [पाठ 58](/lektionen/lektion58)
 *   **निष्पन्न क्रियापद**:
-    *   **कर्मणि प्रयोग एवं कारणक** -&gt; [पाठ 10](/lektionen/lektion10), [पाठ 28](/lektionen/lektion28), [पाठ 29](/lektionen/lektion29)
-    *   **आत्मनेपद एवं नामज** -&gt; [पाठ 61](/lektionen/lektion61)
-*   **द्विवचन में क्रियापद** -&gt; [पाठ 59](/lektionen/lektion59), [पाठ 60](/lektionen/lektion60)
+    *   **कर्मणि प्रयोग एवं कारणक** → [पाठ 10](/lektionen/lektion10), [पाठ 28](/lektionen/lektion28), [पाठ 29](/lektionen/lektion29)
+    *   **आत्मनेपद एवं नामज** → [पाठ 61](/lektionen/lektion61)
+*   **द्विवचन में क्रियापद** → [पाठ 59](/lektionen/lektion59), [पाठ 60](/lektionen/lektion60)
 
 ### 2.4 संस्कृत-निर्मित शब्द एवं समास
 

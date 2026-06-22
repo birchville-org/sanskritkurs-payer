@@ -5,7 +5,8 @@ outline: 2
 :::deleteme-box
 **Quelle & Urheberrecht**
 
-:::# Glossar Sanskrit–Deutsch
+:::
+# Glossar Sanskrit–Deutsch
 
 *Zusammengestellt aus den Wortlisten des Sanskrit-Kurses von Alois Payer.  
 © Simone Dünneisen (FS 2011), Lektionen 1–46. Ergänzt um Lektionen 47–61.*

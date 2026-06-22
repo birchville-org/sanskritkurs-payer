@@ -16,7 +16,8 @@ status: stable
 - La formation du PPP
 - Les lois de la combinaison phonétique dans le mot
 - Le passif et le PPP des racines apprises jusqu'à présent
-:::---
+:::
+---
 
 ## 12.1. Participe passé passif (PPP)
 
@@ -24,7 +25,8 @@ Une manière de former des phrases passées au passif est la construction avec l
 
 :::grammar-box
 **En réalité, le PPP n'est pas un véritable participe, car il ne se forme pas à partir d'une racine verbale. Il s'agit plutôt d'une formation nominale à partir de la racine avec le suffixe primaire -ta ou -na. C'est pourquoi, dans la grammaire indienne, on parle du suffixe kta.**
-:::---
+:::
+---
 
 ### 12.1.1. Schéma pour les verbes transitifs
 
@@ -39,7 +41,8 @@ Exemples :
 > **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = « (Le ciel a été obtenu par le saint) = Le saint a obtenu un ciel. »
 > 
 > **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = « (La déesse a été vénérée par le brāhmane par un sacrifice) = Le brāhmane a vénéré la déesse par un sacrifice. »
-:::---
+:::
+---
 
 ### 12.1.2. Schéma I pour les verbes intransitifs et les verbes de mouvement
 
@@ -50,7 +53,8 @@ Dans ce cas, le PPP s’accorde en nombre, cas et genre avec l’agent. Le parti
 
 Exemple :
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = « La femme kṣatriya est allée à la ville. »
-:::---
+:::
+---
 
 ### 12.1.3. Schéma II pour les verbes intransitifs et les verbes de mouvement
 
@@ -61,7 +65,8 @@ Exemple :
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = « (Par le Kṣatriya, il a été (dans la ville) allé) = Le Kṣatriya est (dans la ville) allé. »
 
 La construction selon le schéma II est beaucoup plus rare que la construction selon le schéma I.
-:::---
+:::
+---
 
 ## 12.2. Sur la signification du PPP
 
@@ -86,7 +91,8 @@ Les formations suivantes sont attestées (pour chaque racine, il convient d’ap
 - **+ -na**
 
 Les thèmes féminins se terminent par : **-tā**, **-itā**, **-nā** ; le neutre se décline comme **phala** n.
-:::---
+:::
+---
 
 ### 12.3.1. PPP en -ta (kta)
 
@@ -98,7 +104,8 @@ Les thèmes féminins se terminent par : **-tā**, **-itā**, **-nā** ; le neut
 Sans voyelle d’insertion, on forme le PPP en général à partir des racines à terminaison vocalique, ainsi que de nombreuses autres racines, sans qu’il soit possible d’énoncer une règle fixe quant à la structure des racines pour lesquelles la voyelle d’insertion apparaît ou non.
 
 Une liste des racines *aniṭ* se trouve chez Kielhorn, *Grammatik* § 298.
-:::**Exemples :**
+:::
+**Exemples :**
 
 :::grammar-box
 | Racine | PPP (kta) |
@@ -115,7 +122,8 @@ Une liste des racines *aniṭ* se trouve chez Kielhorn, *Grammatik* § 298.
 | **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta**:br(⟪कृत⟫) |
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (&lt; \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa**:br(⟪इष्ट⟫) |
-:::#### 12.3.1.2. Avec voyelle d’insertion -i- (seṭ)
+:::
+#### 12.3.1.2. Avec voyelle d’insertion -i- (seṭ)
 
 *seṭ* = *sa-iṭ* = « avec (*sa-*) le suffixe précédé (*-i-*) *t* » (c.-à-d. avec la voyelle d’insertion *i*).
 
@@ -128,7 +136,8 @@ Une liste des racines *aniṭ* se trouve chez Kielhorn, *Grammatik* § 298.
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta**:br(⟪खादित⟫) |
 | **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta**:br(⟪रक्षित⟫) |
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (&lt; \*vd-i-ta):br(⟪उदित⟫) |
-:::---
+:::
+---
 
 ## 12.4. Lois de la combinaison phonétique dans le mot
 
@@ -146,7 +155,8 @@ Dans les formations *aniṭ*, les lois suivantes de la combinaison phonétique d
 | **5. jt est remplacé par kt ou ṣṭ (non facultatif !) :** | **yuj + ta » yuk-ta** = **⟪युक्त⟫**:br**yaj + ta » iṣ-ṭa** = **⟪इष्ट⟫** (&lt; \*yj-ta):br**sṛj + ta » sṛṣ-ṭa** = **⟪सृष्ट⟫**:br**sṛj + ti » sṛṣ-ṭi** = **⟪सृष्टि⟫** |
 | **6. Occlusive sonore aspirée + occlusive sourde » occlusive sonore non aspirée + occlusive sonore aspirée (loi de l’aspirée de Bartholomae) :** | **bh-t » b-dh:**:br**labh + ta » lab-dha** = **⟪लब्ध⟫**:br**dh-t » d-dh:**:br**budh + ta » bud-dha** = **⟪बुद्ध⟫**:br**yudh + ta » yud-dha** = **⟪युद्ध⟫**:br**krudh + ta » krud-dha** = **⟪क्रुद्ध⟫** |
 | **7. h-t est remplacé par ḍh avec allongement d’un i ou u précédent ; ou par gdh. Devant un tel ḍh, a est remplacé par o, rarement par ā :** | **dah + ta » dag-dha** = **⟪दग्ध⟫**:br**guh + ta » gūḍha** = **⟪गूढ⟫** (guh 1 (gūhati) « cacher quelque chose »):br**muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫**:br**sah + ta » soḍha** = **⟪सोढ⟫** |
-:::::::---
+:::::::
+---
 
 ## 12.5. Liste des mots
 
@@ -156,7 +166,8 @@ Dans les formations *aniṭ*, les lois suivantes de la combinaison phonétique d
 ![](/images/lekt1201.webp)
 Fig. : ⟪गौतमो⟫ ⟪बुद्धः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1201))
-:::- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (quelque chose) brûler
+:::
+- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (quelque chose) brûler
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : surmonter, endurer, endurer patiemment = pardonner
 - **mṛga** m. ⟪मृग⟫ : animal sauvage
 - **mārga** m. ⟪मार्ग⟫ : chemin (les chemins étaient souvent des sentiers de bêtes)
@@ -165,7 +176,8 @@ Fig. : ⟪गौतमो⟫ ⟪बुद्धः⟫
 ![](/images/lekt1202.webp)
 Fig. : ⟪मार्गः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1202))
-:::- **api** ⟪अपि⟫ : aussi (postposé)
+:::
+- **api** ⟪अपि⟫ : aussi (postposé)
 
 Pour la 6e classe de présent, les grammairiens natifs comptent certaines racines qui forment le thème de présent avec un infixes nasal et la voyelle thématique a, par ex. :
 
@@ -182,7 +194,8 @@ Pour la formation des mots :
 ![](/images/lekt1203.webp)
 Fig. : ⟪महावीरो⟫ ⟪जिनः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1203))
-:::- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : connaissance, organe de connaissance.
+:::
+- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : connaissance, organe de connaissance.
 
 ---
 

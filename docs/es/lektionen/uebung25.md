@@ -41,7 +41,8 @@ A) Complete los ejemplos de declinación de la Lección 16 agregando el 4. Dativ
 | 3. Instr. | ⟪येन⟫ | ⟪यैः⟫ | ⟪येन⟫ | ⟪यैः⟫ | ⟪यया⟫ | ⟪याभिः⟫ |
 | 4. Dat. | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्यै⟫ | ⟪याभ्यः⟫ |
 | 5. Abl. | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्याः⟫ | ⟪याभ्यः⟫ |
-:::B) Traduzca y resuelva los compuestos en sánscrito:
+:::
+B) Traduzca y resuelva los compuestos en sánscrito:
 
 ⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
 Según la orden del maestro, Rāma sale de la aldea hacia la ciudad, entra en la casa del santo, se presenta ante el santo con reverencia y dice: «¡Basta de ira!».
@@ -69,7 +70,8 @@ Por codicia, odio e ignorancia, los seres humanos se corrompen. Cuando llega el 
 ![](/images/uebung040.webp)
 Fig.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung040))
-:::⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
+:::
+⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
 El kṣatriya trae guerreros heroicos de la gran ciudad para combatir a la aldea de los enemigos.
 
 ⟪९⟫. **⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫**
@@ -119,7 +121,8 @@ Los infiernos surgen a causa del mal, el mal surge de la pobreza, la pobreza sur
 ![](/images/uebung041.webp)
 Fig.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung041))
-:::⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
+:::
+⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
 Un ladrón queda liberado de la culpa del robo mediante el castigo o mediante la liberación. Pero si el rey no lo castiga, entonces asume la culpa del ladrón.
 
@@ -134,5 +137,6 @@ La economía es útil porque produce grano, ganado, oro, metales y trabajo.
 ![](/images/uebung042.webp)
 Fig.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung042))
-:::⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
+:::
+⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
 Por eso, las tres ciencias tienen el bastón (daṇḍa) como base. El bastón, que es la base del buen comportamiento, trae a los seres vivos la obtención y la posesión segura. El buen comportamiento se adquiere o se hereda. La actividad educa, de hecho, un material adecuado, no un material inadecuado. El conocimiento educa una mente que ha llegado a la verdad mediante la obediencia, la escucha, la captación, la comprensión y la reflexión, no otra. ... De lo oído surge el conocimiento, del conocimiento surge la práctica, de la práctica surge la posesión de sí mismo; así, las ciencias cumplen su propósito. El conocimiento y el buen comportamiento son la causa de la victoria sobre los sentidos. Esto es necesario para deshacerse del deseo, el odio, la codicia, la presunción, la embriaguez y la excitación.

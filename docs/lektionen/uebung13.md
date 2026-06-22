@@ -124,7 +124,8 @@ Was essen und trinken Brahmanen?
 ![](/images/uebung019.webp)
 Abb.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung019))
-:::---
+:::
+---
 
 ## Zusätzliche Übungen
 

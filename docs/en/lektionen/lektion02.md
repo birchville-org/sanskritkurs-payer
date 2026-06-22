@@ -15,7 +15,8 @@ last_reconstructed: 2026-04-30
 **Schema: Predicative Noun - Subject**
 
 e.g. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu is a god."
-:::A verbal copula ("is", "are", "am", "art", "be") is not necessary, but may sometimes occur.
+:::
+A verbal copula ("is", "are", "am", "art", "be") is not necessary, but may sometimes occur.
 
 There are **no articles**: **devaḥ** -- ⟪देवः⟫ can mean "the god" or "a god".
 
@@ -56,7 +57,8 @@ In Sanskrit dictionaries, nouns are listed in the **nominal stem**:
 
 :::grammar-box
 **The Nominative Singular ends in -s = -⟪स्⟫ or is zero-ending.**
-:::### 2.3.1. Nominative Singular ending in -s
+:::
+### 2.3.1. Nominative Singular ending in -s
 
 The following nominal stems, which end in a vowel, form the nominative singular with **-s**:
 
@@ -64,7 +66,8 @@ The following nominal stems, which end in a vowel, form the nominative singular 
 **Masculines in -a:** e.g. deva m. = ⟪देव⟫ "god" -- Nom. sg.: devas = ⟪देवस्⟫
 **Masculines in -i:** e.g. kavi m. = ⟪कवि⟫ "poet" -- Nom. sg.: kavis = ⟪कविस्⟫
 **Masculines in -u:** e.g. guru m. = ⟪गुरु⟫ "teacher" -- Nom. sg.: gurus = ⟪गुरुस्⟫
-:::---
+:::
+---
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
@@ -119,7 +122,8 @@ Final **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (service estate).
 
-:::tip The four estates (varna)
+:::
+tip The four estates (varna)
 According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed:
 
 - **of the Brahmins**
@@ -145,7 +149,8 @@ According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distr
   - study of the Vedas
 - **of the Śūdras**
   - serve the three upper classes
-:::**dvija** m. -- ⟪द्विज⟫ : "Twice-born" (initiates of the upper three estates: Brāhmaṇa, Kṣatriya, Vaiśya).
+:::
+**dvija** m. -- ⟪द्विज⟫ : "Twice-born" (initiates of the upper three estates: Brāhmaṇa, Kṣatriya, Vaiśya).
 
 **varṇa** m. -- ⟪वर्ण⟫ : Color, birth estate (aspiration).
 
@@ -155,7 +160,8 @@ The four estates (**varṇa** m.) are often confused with castes. However, the f
 ![](/images/lekt0201.webp)
 Fig.: Representation of the estate division of the European Middle Ages (woodcut from the late 15th century).
 (Image source: [Details](/en/licenses#lekt0201))
-:::**Labels:**
+:::
+**Labels:**
 - **Priestly estate** (~Brāhmaṇa): Tu supplex ora = You pray earnestly!
 - **Noble estate** (~Kṣatriya): Tu protege = You protect!
 - **Peasant estate** (~Vaiśya/Śūdra): Tuque labora = And you work!
@@ -164,7 +170,8 @@ The three estates wear the respective estate attire. Above them -- thus designat
 
 Max Weber &lt;1864 – 1920&gt; defines estate as follows:
 
-:::note-box
+:::
+note-box
 "**Estate**" is meant to denote a multitude of people who, within an association, effectively
 a) claim an estate-specific special esteem, - possibly also
 b) estate-specific special monopolies.
@@ -183,7 +190,8 @@ As occupational classes grow on the basis of a market-oriented economy, estates 
 Every corporately organized society is conventional, ordered by rules of conduct, thereby creates economically irrational consumption conditions and hinders free market formation in this manner through monopolistic appropriations and by excluding free disposal of one's own earning capacity.
 
 [**Weber, Max &lt;1864 – 1920&gt;: Economy and Society : Outline of Understanding Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – P. 625 f.]
-:::Varṇas are accordingly birth estates.
+:::
+Varṇas are accordingly birth estates.
 
 **kavi** m. -- ⟪कवि⟫ : Poet.
 
@@ -193,7 +201,8 @@ Every corporately organized society is conventional, ordered by rules of conduct
 ![](/images/lekt0203.jpg)
 Fig.: God Agni, Miniature, 18th century.
 (Image source: [Details](/en/licenses#lekt0203))
-:::**sādhu** 3 -- ⟪साधु⟫ : correct, good.
+:::
+**sādhu** 3 -- ⟪साधु⟫ : correct, good.
 
 **sādhu** m. -- ⟪साधु⟫ : "holy" man, Sādhu.
 
@@ -201,7 +210,8 @@ Fig.: God Agni, Miniature, 18th century.
 ![](/images/lekt0202.webp)
 Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 (Image source: [Details](/en/licenses#lekt0202))
-:::**guru** 3 -- ⟪गुरु⟫ : heavy, significant, worthy of veneration
+:::
+**guru** 3 -- ⟪गुरु⟫ : heavy, significant, worthy of veneration
 
 **guru** m. -- ⟪गुरु⟫ : worthy of veneration person: father, mother, older relative, esp. teacher, master
 

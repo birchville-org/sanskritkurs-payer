@@ -17,7 +17,8 @@ status: stable
 *   **nel tema debole: -n-**
 
 **Per la combinazione dei consonanti finali della radice con le desinenze che iniziano per consonante, valgono le stesse regole della seconda classe di presente.**
-::::Esempi:
+::::
+Esempi:
 
 ⟪युज्⟫ 7U "unire, attaccare (i cavalli)"
 
@@ -31,7 +32,8 @@ status: stable
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:br(yu + n + j-y-ur) | ⟪युञ्जीरन्⟫:br(yu + n + j-ī-ran) |
 | **Participio Presente** | | ⟪युञ्जन्त्⟫-:br(yu + n + j-ant-):brfem.: ⟪युञ्जती⟫:br(yu + n + j-at-ī) | |
 
-::::⟪रुध्⟫ 7U "fermare, arrestare"
+::::
+⟪रुध्⟫ 7U "fermare, arrestare"
 
 ::::grammar-box
 
@@ -45,7 +47,8 @@ status: stable
 
 ::::::::grammar-box
 **In alcune radici, la -n- del tema di presente debole è penetrata anche nei tempi non presenti, per cui queste radici vengono analizzate con l'infix nasale inserito.**
-::::Esempio:
+::::
+Esempio:
 
 **⟪भञ्ज्⟫** 7P "rompere"
 
@@ -56,7 +59,8 @@ status: stable
 *   Futuro: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
 *   Passivo: **⟪भज्यते⟫** (o dalla radice originale **⟪भज्⟫** o da *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (eventualmente da *bhñj + na)
-:::## 31.2. Glossario
+:::
+## 31.2. Glossario
 
 **⟪युज्⟫** 7U **⟪युनक्ति⟫** : accoppiare, imbragare, tendere, fissare; Ā anche: tendersi (= sforzarsi), unirsi con, concentrarsi su (Locativo, ⟪सप्तमी⟫)
 :::indent
@@ -81,33 +85,38 @@ Il **⟪कलियुग⟫** iniziò intorno al 3102 a.C., l'anno della guerr
 Fig.: ⟪योगः⟫
 Rappresentazione dello Yoga.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3101))
-:::**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : arrestare, fermare, trattenere = racchiudere, nascondere
+:::
+**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : arrestare, fermare, trattenere = racchiudere, nascondere
 :::indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
 **Kaus. ⟪रोधयति⟫**
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
-:::**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : tagliare
+:::
+**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : tagliare
 :::indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
 **Kaus. ⟪छेदयति⟫**
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
-:::**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : (qualcosa) rompere
+:::
+**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : (qualcosa) rompere
 :::indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
-:::**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : ungere, spalmare
+:::
+**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : ungere, spalmare
 :::indent
 **Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
 **Kaus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
 **Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
-:::**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : spalmare separatamente = truccarsi, distinguersi
+:::
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : spalmare separatamente = truccarsi, distinguersi
 :::indent
 **PPP ⟪व्यक्त⟫ :** distinto, sviluppato
 
@@ -118,14 +127,16 @@ da ciò:
 Fig.: ⟪व्यञ्जनम्⟫
 Preparazione alla danza Kathakali, Kochi.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3102))
-:::**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : spaccare
+:::
+**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : spaccare
 :::indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
 **Kaus. ⟪भेदयति⟫**
 **PPP ⟪भिन्न⟫**
 **Inf. ⟪भेत्तुम्⟫**
-:::**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : gustare (ad es. il cibo; "gustare la terra" = dominare la terra)
+:::
+**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : gustare (ad es. il cibo; "gustare la terra" = dominare la terra)
 :::indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
@@ -135,7 +146,8 @@ Preparazione alla danza Kathakali, Kochi.
 
 da ciò:
 **⟪भोग⟫ m.:** godimento, cibo, piacere, vantaggio, tassa, tributo
-:::**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): legare, annodare
+:::
+**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): legare, annodare
 :::indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
@@ -145,7 +157,8 @@ da ciò:
 
 da ciò:
 **⟪बन्धन⟫ n.:** legare, catena
-:::**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : riconoscere, comprendere
+:::
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : riconoscere, comprendere
 :::indent
 da ciò:
 **⟪प्रज्ञा⟫ f.:** saggezza, conoscenza
@@ -154,7 +167,8 @@ da ciò:
 Fig.: ⟪प्रज्ञापारमिता⟫
 Da un manoscritto della Prajñāpāramitā.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3103))
-:::**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : emergere, esistere
+:::
+**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : emergere, esistere
 
 **⟪शरीर⟫ n.:** corpo, fisico
 
@@ -171,7 +185,8 @@ A) Tradurre le seguenti frasi e scomporre i composti (samāsa):
 Fig.: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
 Carri armati del 18º Reggimento Cavalleria (Esercito indiano) in movimento durante la guerra indo-pakistana del 1965.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3105))
-:::⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
+:::
+⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
 
 ⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫
 
@@ -180,7 +195,8 @@ Carri armati del 18º Reggimento Cavalleria (Esercito indiano) in movimento dura
 Fig.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
 Rāhula, figlio del Buddha, Laos.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3104))
-:::⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
+:::
+⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
 B) Formare per le seguenti radici della 7ª classe tutte le forme di 3ª persona singolare e plurale, P (Parasmaipada) e Ā (Ātmanapada), dell'Indicativo e dell'Ottativo al Presente:
 

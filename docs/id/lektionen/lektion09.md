@@ -18,7 +18,8 @@ last_reconstructed: 2026-05-07
 - Kosakata tentang topik pekerjaan dan peran sosial
 - Kutipan dari teks hukum klasik (Dharmaśāstra)
 
-:::---
+:::
+---
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Samāhāra-dvandva")
 
@@ -29,7 +30,8 @@ last_reconstructed: 2026-05-07
 
 misalnya **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ tidak hanya berarti "makanan (**āhāra** m.), tidur (**nidrā** f.), perkawinan (**maithuna** n.), dan ketakutan (**bhaya** n.)", melainkan keempat hal tersebut sebagai **kesatuan** yang mencirikan kehidupan hewan.
 
-:::Selain dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Reihe weiterer Regeln, die man bei Pāṇini 2,4,2-17 oder z.B. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a findet. In den verschiedenen Stufen der Sprachentwicklung wurden nicht immer die gleichen Regeln eingehalten!
+:::
+Selain dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Reihe weiterer Regeln, die man bei Pāṇini 2,4,2-17 oder z.B. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a findet. In den verschiedenen Stufen der Sprachentwicklung wurden nicht immer die gleichen Regeln eingehalten!
 
 ---
 
@@ -57,7 +59,8 @@ misalnya **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रा�
    **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "berasal dari Benares, berasal dari Benares"**
    **rūpa n. "Bentuk" » rūpaka 3 ⟪रूपक⟫ "memiliki bentuk sesuatu"**
 
-:::---
+:::
+---
 
 ### 9.2.2. -aka (kṛt), fem. sering -ikā
 
@@ -68,7 +71,8 @@ misalnya **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रा�
 
 Vokal akhir dari akar serta **-a-** pada posisi kedua dari akhir akar diganti dengan tingkat panjangnya (**vṛddhi**) (ada beberapa pengecualian), sedangkan vokal lainnya diganti dengan tingkat tingginya (**guṇa**).
 
-:::**Contoh:**
+:::
+**Contoh:**
 
 
 
@@ -93,7 +97,8 @@ Vokal akhir dari akar serta **-a-** pada posisi kedua dari akhir akar diganti de
 :::grammar-box
 **Beberapa pembentukan ini memiliki makna lebih sempit: "melakukan secara habitual atau sebagai kewajiban atau dengan baik sesuai dengan yang diekspresikan oleh akar kata".**
 
-:::lihat di atas misalnya **śrāvaka**, **yājaka**, **jayaka**
+:::
+lihat di atas misalnya **śrāvaka**, **yājaka**, **jayaka**
 
 **Contoh:**
 
@@ -126,7 +131,8 @@ Selain diesen gibt es noch einige weniger wichtige Verwendungen des Suffixes **-
 Gambar: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram dekat Madurai.
 (Sumber gambar: [Details](/id/licenses#lekt0903))
 
-:::- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Pengrajin
+:::
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Pengrajin
 
 
 
@@ -135,7 +141,8 @@ Gambar: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tir
 Gambar: **kāru** = ⟪कारु⟫, Gujarat.
 (Sumber gambar: [Detail](/id/licenses#lekt0902))
 
-:::- **kuśīlava** m. (⟪कुशीलव⟫) : (berkeliling) pesulap, aktor, penyanyi
+:::
+- **kuśīlava** m. (⟪कुशीलव⟫) : (berkeliling) pesulap, aktor, penyanyi
 - **kusīda** n. (⟪कुसीद⟫) : rentenir
 - **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : menarik
 - **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : membajak
@@ -171,7 +178,8 @@ Gambar: **kāru** = ⟪कारु⟫, Gujarat.
 Gambar: **karṣaka** = ⟪कर्षक⟫.
 (Sumber gambar: [Rincian](/id/licenses#lekt0901))
 
-:::8\. kleśa (⟪क्लेश⟫)
+:::
+8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
 11\. nartaka (f. nartakī) (⟪नर्तक⟫ / ⟪नर्तकी⟫)

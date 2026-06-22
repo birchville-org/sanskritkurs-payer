@@ -17,14 +17,16 @@ A) Formare per le seguenti forme sia le perfette reduplicati sia le perfette per
 | ⟪२⟫. **⟪बिभ्यति⟫** | ⟪बिभ्युः⟫ | ⟪बिभयां⟫ ⟪चक्रुः⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪३⟫. **⟪जुहोति⟫** | ⟪जुहाव⟫ | ⟪जुहवां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪४⟫. **⟪वेत्ति⟫** | ⟪विवेद⟫ | ⟪विदां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
-:::B) Formare il perfetto perifrastico per la radice **⟪आस्⟫** (sedere):
+:::
+B) Formare il perfetto perifrastico per la radice **⟪आस्⟫** (sedere):
 
 :::grammar-box
 | Presente | Perfetto Perifrastico |
 | :--- | :--- |
 | ⟪१⟫. **⟪आस्ते⟫** | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. **⟪आसते⟫** | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
-:::C) Formare il corrispondente perfetto per le seguenti forme:
+:::
+C) Formare il corrispondente perfetto per le seguenti forme:
 
 :::grammar-box
 | Presente / Imperfetto | Perfetto |
@@ -42,7 +44,8 @@ A) Formare per le seguenti forme sia le perfette reduplicati sia le perfette per
 | ⟪११⟫. **⟪क्रामन्ति⟫** | ⟪चक्रमुः⟫ |
 | ⟪१२⟫. **⟪प्राव्रजन्⟫** | ⟪प्रवव्रजुः⟫ |
 | ⟪१३⟫. **⟪त्यक्ष्यति⟫** | ⟪तत्याज⟫ |
-:::---
+:::
+---
 
 ## Traduzioni
 
@@ -65,7 +68,8 @@ Non si può vivere solo della scienza. Chi lo sa, non dovrebbe studiare.
 ![](/images/uebung061.webp)
 Fig.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung061))
-:::---
+:::
+---
 
 ## Frammenti accademici
 
@@ -91,7 +95,8 @@ Quando un uomo non si rallegra né si rattrista, quando ascolta, tocca, vede, gu
 ![](/images/uebung060.webp)
 Fig.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung060))
-:::---
+:::
+---
 
 ## Determinazione delle forme verbali
 

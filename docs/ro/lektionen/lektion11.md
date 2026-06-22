@@ -15,7 +15,8 @@ status: stable
 - Utilizarea particulelor **iti**, **evam** și **na**
 - Concepte de bază precum **dharma**, **adharma** și **putra**
 - Formarea substantivelor din rădăcinile **vad**, **prach** și **iṣ**
-:::## 11.1. Dublu acuzativ
+:::
+## 11.1. Dublu acuzativ
 
 :::grammar-box
 **Unele verbe pot guverna un dublu acuzativ (dvitīyā): acuzativul persoanei și acuzativul lucrului.**
@@ -35,7 +36,8 @@ de ex. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब
 
 de ex. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = „Rāma întreabă despre dharma.”
 » Pasiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
-:::---
+:::
+---
 
 ## 11.2. Listă de cuvinte
 
@@ -68,7 +70,8 @@ de ex. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫
 ![](/images/lekt1102.webp)
 Fig.: **vadanāni** = ⟪वदनानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1102))
-:::- **prach** 6 P ⟪प्रच्छ्⟫ : întreba
+:::
+- **prach** 6 P ⟪प्रच्छ्⟫ : întreba
   - **praśna** m. ⟪प्रश्न⟫ : întrebare (sufixul **-na** ca în **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : dori
@@ -103,7 +106,8 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 ![](/images/lekt1101.webp)
 Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1101))
-:::---
+:::
+---
 
 ## 11.4. Exerciții de repetiție
 

@@ -22,7 +22,8 @@ status: stable
 | **Indicative Present**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | &lt;⟪जुहुषे⟫&gt; | &lt;⟪जुहुध्वे⟫&gt; |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | &lt;⟪अजुहुथास्⟫&gt; | &lt;⟪अजुहुध्वम्⟫&gt; |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | &lt;⟪जुह्वीथास्⟫&gt; | &lt;⟪जुह्वीध्वम्⟫&gt; |
-:::⟪धा⟫ 2U
+:::
+⟪धा⟫ 2U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -31,13 +32,15 @@ status: stable
 | **Indicative Present**:br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:brfrom: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
-:::### 45.1.2. Seventh Present Class (⟪रुधादि⟫)
+:::
+### 45.1.2. Seventh Present Class (⟪रुधादि⟫)
 
 :::grammar-box
 **If a final k/g of the root comes between the nasal ṅ and a dental of the ending, then the k/g may optionally drop**
 
 e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or ⟪यु⟫***⟪ङ्ते⟫***
-:::⟪युज्⟫ 7U
+:::
+⟪युज्⟫ 7U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -46,7 +49,8 @@ e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or �
 | **Indicative Present**:br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अयुनक्⟫:brfrom: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
-:::⟪रुध्⟫ 7U
+:::
+⟪रुध्⟫ 7U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -55,7 +59,8 @@ e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or �
 | **Indicative Present**:br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अरुणत्⟫:brfrom a-ru-ṇa-dh + s:br ***⟪अरुण्स्⟫*** (irreg.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
-:::## 45.2. The Vocative Singular (⟪आमन्त्रितमेकवचने⟫)
+:::
+## 45.2. The Vocative Singular (⟪आमन्त्रितमेकवचने⟫)
 
 :::grammar-box
 **Most vocatives of the singular are the stem with a high-grade ending.**
@@ -91,7 +96,8 @@ e.g. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 ![](/images/lekt4501.webp)
 Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 (Image source: [Details](/en/licenses#lekt4501))
-:::## 45.3. Word List
+:::
+## 45.3. Word List
 
 ⟪वा⟫ ... ⟪वा⟫ : either ... or
 
@@ -105,7 +111,8 @@ A) Translate into Sanskrit (for past tense forms, please use the imperfect &lt;�
 regarding the schism of the community (⟪सङ्घभेद⟫) see:
 
 **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Basic concepts of the monastic rules and monastic law of the Theravāda. -- Part I. -- (Materials on the basic concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::2\. Have you enjoyed the earth?
+:::
+2\. Have you enjoyed the earth?
 
 3\. Have you received a gift from the king?
 

@@ -15,7 +15,8 @@ last_reconstructed: 2026-04-30
 **Schema: Nume predicativ - Subiect**
 
 de ex. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu este un zeu."
-:::O copulă verbală ("este", "sunt", "sunt", "ești", "sunteți") nu este necesară, dar poate apărea uneori.
+:::
+O copulă verbală ("este", "sunt", "sunt", "ești", "sunteți") nu este necesară, dar poate apărea uneori.
 
 Nu există **articole**: **devaḥ** -- ⟪देवः⟫ poate însemna "zeul" sau "un zeu".
 
@@ -56,7 +57,8 @@ Exemplu: **devas** = ⟪देवस्⟫ (Nominativ Singular Masculin) "zeul/u
 
 :::grammar-box
 **Nominativul singular se termină în -s = -⟪स्⟫ sau este lipsit de terminație.**
-:::### 2.3.1. Nominativul singular terminat în -s
+:::
+### 2.3.1. Nominativul singular terminat în -s
 
 Următoarele rădăcini nominale, care se termină cu o vocală, formează nominativul singular în **-s**:
 
@@ -64,7 +66,8 @@ Următoarele rădăcini nominale, care se termină cu o vocală, formează nomin
 **Masculine pe -a:** ex. deva m. = ⟪देव⟫ "zeu" -- Nom. sg.: devas = ⟪देवस्⟫
 **Masculine pe -i:** ex. kavi m. = ⟪कवि⟫ "poet" -- Nom. sg.: kavis = ⟪कविस्⟫
 **Masculine pe -u:** ex. guru m. = ⟪गुरु⟫ "profesor" -- Nom. sg.: gurus = ⟪गुरुस्⟫
-:::---
+:::
+---
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
@@ -119,7 +122,8 @@ Sunetul final **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (clasa serviciilor).
 
-:::tip Cele patru caste (varna)
+:::
+tip Cele patru caste (varna)
 Conform teoriei clasice (de ex. Manusmṛti I, 88-91), sarcinile sunt distribuite:
 
 - **a brahmanilor**
@@ -145,7 +149,8 @@ Conform teoriei clasice (de ex. Manusmṛti I, 88-91), sarcinile sunt distribuit
   - studierea Vedelor
 - **a șudrelor**
   - slujirea celor trei clase superioare
-:::**dvija** m. -- ⟪द्विज⟫ : "De două ori născut" (inițiații celor trei caste superioare: Brāhmaṇa, Kṣatriya, Vaiśya).
+:::
+**dvija** m. -- ⟪द्विज⟫ : "De două ori născut" (inițiații celor trei caste superioare: Brāhmaṇa, Kṣatriya, Vaiśya).
 
 **varṇa** m. -- ⟪वर्ण⟫ : Culoare, caste de naștere (tendință).
 
@@ -155,7 +160,8 @@ Cele patru caste (**varṇa** m.) sunt adesea confundate cu castele. Dar cele pa
 ![](/images/lekt0201.webp)
 Fig.: Reprezentarea diviziunii pe caste a Europei medievale (gravură pe lemn din sfârșitul secolului al XV-lea).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0201))
-:::**Etichetare:**
+:::
+**Etichetare:**
 - **Clera** (~Brāhmaṇa): Tu supplex ora = Tu roagă-te cu umilință!
 - **Nobilimea** (~Kṣatriya): Tu protege = Tu protejează!
 - **Țărănimii** (~Vaiśya/Śūdra): Tuque labora = Și tu muncește!
@@ -164,7 +170,8 @@ Cele trei caste poartă vestimentația specifică fiecărei caste. Deasupra – 
 
 Max Weber &lt;1864 – 1920&gt; definește castea astfel:
 
-:::note-box
+:::
+note-box
 »**Casta**« ar trebui să însemne o mulțime de oameni care, în interiorul unei asociații, exercită
 a) o apreciere specială de castă, - eventual, de asemenea,
 b) monopoluri speciale de castă.
@@ -183,7 +190,8 @@ Dezvoltarea castei de naștere este, în mod regulat, o formă de apropiere (ere
 Orice societate castală este convențională, ordonată prin reguli de conduită, creează, prin urmare, condiții economice de consum irationale și, în acest fel, prin aproprierea monopolistă și prin excluderea dispoziției libere asupra capacității proprii de câștig, împiedică formarea liberă a pieței.
 
 [**Weber, Max &lt;1864 – 1920&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
-:::Varṇas sunt, în consecință, caste de naștere.
+:::
+Varṇas sunt, în consecință, caste de naștere.
 
 **kavi** m. -- ⟪कवि⟫: poet.
 
@@ -193,7 +201,8 @@ Orice societate castală este convențională, ordonată prin reguli de conduit�
 ![](/images/lekt0203.jpg)
 Fig.: Zeul Agni, miniatură, sec. al XVIII-lea.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0203))
-:::**sādhu** 3 -- ⟪साधु⟫: corect, bun.
+:::
+**sādhu** 3 -- ⟪साधु⟫: corect, bun.
 
 **sādhu** m. -- ⟪साधु⟫: om »sfânt«, Sādhu.
 
@@ -201,7 +210,8 @@ Fig.: Zeul Agni, miniatură, sec. al XVIII-lea.
 ![](/images/lekt0202.webp)
 Fig.: Sādhu (⟪साधु⟫), Templul Pashupatinath, Kathmandu.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0202))
-:::**guru** 3 -- ⟪गुरु⟫: greu, important, demn de venerare
+:::
+**guru** 3 -- ⟪गुरु⟫: greu, important, demn de venerare
 
 **guru** m. -- ⟪गुरु⟫: persoană demnă de venerare: tată, mamă, rudă mai în vârstă, în special învățător, maestru
 

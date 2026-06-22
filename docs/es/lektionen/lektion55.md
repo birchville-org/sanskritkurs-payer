@@ -19,7 +19,8 @@ last_reconstructed: 2026-05-21
 **El Ātmanepada es raro; para las raíces Ubhayapada, por lo general se forma según otras clases de aoristo (véase Kielhorn, Grammatik §340, así como más abajo en las correspondientes clases de aoristo).**
 
 **Lista de las raíces que tienen este aoristo en Kielhorn, Grammatik §340.**
-:::Ejemplo:
+:::
+Ejemplo:
 
 ⟪सिच्⟫ 6U "rociar"
 
@@ -30,7 +31,8 @@ last_reconstructed: 2026-05-21
 | 1\. Tercera persona | ⟪असिचम्⟫ | ⟪असिचाम⟫ | ⟪असिचे⟫ | ⟪असिचामहि⟫ |
 | 2\. Segunda persona | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. Primera persona | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
-:::Formaciones irregulares:
+:::
+Formaciones irregulares:
 
 :::indent
 ⟪अस्⟫ 4P "lanzar": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (véase la explicación en Thumb-Hauschild §541,4)
@@ -38,11 +40,13 @@ last_reconstructed: 2026-05-21
 ⟪ख्या⟫ + ⟪आ⟫ 2P "relatar": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
 
 ⟪दृश्⟫ "ver": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (grado elevado)
-:::Obsérvese:
+:::
+Obsérvese:
 
 :::indent
 ⟪शास्⟫ 2P "ordenar": ⟪अशिषत्⟫ (grado reducido regular)
-:::## 55.2. Ejercicio
+:::
+## 55.2. Ejercicio
 
 Determinar y traducir por escrito las siguientes formas, y formar las correspondientes formas del aoristo de tema en *a*:
 

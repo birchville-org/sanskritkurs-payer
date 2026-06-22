@@ -22,7 +22,8 @@ Almost all roots ending in -d form the PPP on -na-. In this case, -d-n- is repla
 Example:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
-:::---
+:::
+---
 
 ## 13.2. Further on the Use of the PPP
 
@@ -68,7 +69,8 @@ Example:
 
 :::indent
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "A holy person sees the desired fruit (of their deeds)."
-:::::::---
+:::::::
+---
 
 ## 13.4. Formation of Adjectives in -mant and -vant (taddhita)
 
@@ -84,7 +86,8 @@ Examples:
 ⟪पशुमन्त्⟫ "possessing cattle"
 
 ⟪गुणवन्त्⟫ "possessing good qualities / virtue"
-:::::::---
+:::::::
+---
 
 ## 13.5. Stem Inflection of Nouns
 
@@ -92,7 +95,8 @@ Stems ending in -mant or -vant belong to the nominal stems with stem gradation.
 
 :::grammar-box
 In nominal stems with stem gradation, one distinguishes between strong and weak cases (cases). In the strong cases, the stem-forming suffix — in the case of root nouns, the root-like component — has the strong grade or lengthened grade, in the weak cases the weak grade.
-:::**Strong cases are:**
+:::
+**Strong cases are:**
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
@@ -103,7 +107,8 @@ In nominal stems with stem gradation, one distinguishes between strong and weak 
 
 :::grammar-box
 As the first member of a compound, a noun with stem gradation stands in the weak stem (in the case of three-stemmed nouns, in the so-called middle stem).
-:::---
+:::
+---
 
 ## 13.6. On Word Sandhi
 
@@ -136,7 +141,8 @@ For consonant-ending stems:
 * for regularly formed stems, the neuter in nominative (prathamā) and accusative (dvitīyā) singular is without ending.
 * for regularly formed stems, the neuter has the ending of the nominative and accusative plural -i.
 
-:::---
+:::
+---
 
 ## 13.8. Declension of stems in -mant and -vant
 
@@ -161,7 +167,8 @@ The feminine stem of stems in -mant- and -vant- ends in -mat-ī or -vat-ī. The 
 Example:
 * paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
 
-:::---
+:::
+---
 
 ## 13.9. Word List
 
@@ -186,7 +193,8 @@ Learn the following words:
 ![](/images/lekt1301.webp)
 Fig.: ⟪महिषासुरः⟫
 (Image source: [Details](/en/licenses#lekt1301))
-:::- **guṇa** m. ⟪गुण⟫ : thread, cord; quality, good quality
+:::
+- **guṇa** m. ⟪गुण⟫ : thread, cord; quality, good quality
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : to go, to fall into
 - **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : to be, to exist
 - **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : to throw, (away-)cast
@@ -195,7 +203,8 @@ Fig.: ⟪महिषासुरः⟫
 
 :::indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : to drink (traditionally counted among the 1st class)
-:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : to hate, to be hostile to
+:::
+- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : to hate, to be hostile to
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : to eat, to consume
 - **anna** n. ⟪अन्न⟫ : food (from PPP: *ad-na: that which is eaten)
 
@@ -203,7 +212,8 @@ Fig.: ⟪महिषासुरः⟫
 ![](/images/lekt1304.webp)
 Fig.: ⟪अन्नम्⟫
 (Image source: [Details](/en/licenses#lekt1304))
-:::Word formation:
+:::
+Word formation:
 
 pad 4 Ā:
 
@@ -215,11 +225,13 @@ pad 4 Ā:
 ![](/images/lekt1303.webp)
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Image source: [Details](/en/licenses#lekt1303))
-:::dviṣ 2 U:
+:::
+dviṣ 2 U:
 
 :::indent
 **dveṣa** ⟪द्वेष⟫ : hatred
-:::---
+:::
+---
 
 ## 13.10. Exercise
 
@@ -233,7 +245,8 @@ A) Translate and convert into active present tense sentences:
 ![](/images/lekt1305.webp)
 Fig.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
 (Image source: [Details](/en/licenses#lekt1305))
-:::⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 possibilities)
+:::
+⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 possibilities)
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
@@ -290,7 +303,8 @@ C) Form a PPP construction for the sentences from Exercise A).
 ![](/images/lekt1302.webp)
 Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Image source: [Details](/en/licenses#lekt1302))
-:::D) From which sound combinations could the following Sandhi forms have arisen? Provide all possibilities:
+:::
+D) From which sound combinations could the following Sandhi forms have arisen? Provide all possibilities:
 
 1. -a before a vowel (except a-)
 2. -ā-

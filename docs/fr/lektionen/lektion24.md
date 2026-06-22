@@ -20,7 +20,8 @@ au lieu de :
 
 :::indent
 ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
-:::on peut aussi dire :
+:::
+on peut aussi dire :
 
 :::indent
 ⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
@@ -28,7 +29,8 @@ au lieu de :
 ou :
 
 ⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
-:::= "Rāma est parti pour écouter le discours du maître."
+:::
+= "Rāma est parti pour écouter le discours du maître."
 :::::::media
 ![](/images/lekt2404.webp)
 Fig. : ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
@@ -40,7 +42,8 @@ Exemple :
 
 :::indent
 ⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Il va au village dans le but de fruits = Il va au village pour cueillir des fruits."
-:::**De la même manière, le datif (⟪चतुर्थी⟫) désigne le but d'une chose ou d'une action :**
+:::
+**De la même manière, le datif (⟪चतुर्थी⟫) désigne le but d'une chose ou d'une action :**
 
 Exemple :
 
@@ -77,7 +80,8 @@ Exemples :
 Fig. : ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "Rama (à droite) assis sur les épaules de Hanuman, combat le roi-démon Ravana." vers 1820
 (Source de l'image : [Détails](/fr/licenses#lekt2403))
-:::Autres utilisations du datif plus loin.
+:::
+Autres utilisations du datif plus loin.
 
 ## 24.2. Formation du datif (⟪चतुर्थी⟫)
 
@@ -86,7 +90,8 @@ Fig. : ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 
 * **Singulier : -e ; les stems de féminin se terminant par une voyelle : -ai**
 * **Pluriel : Datif et ablatif ⟪पञ्चमी⟫ : -bhyas**
-:::### 24.2.1. Stèmes consonantiques
+:::
+### 24.2.1. Stèmes consonantiques
 
 ::::grammar-box
 
@@ -97,7 +102,8 @@ Fig. : ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | ⟪पशुमन्त्⟫ | **⟪पशुमते⟫** | **⟪पशुमद्भ्यस्⟫** |
 | ⟪गुणवन्त्⟫ | **⟪गुणवते⟫** | **⟪गुणवद्भ्यस्⟫** |
 
-::::### 24.2.2. Pronoms interrogatifs
+::::
+### 24.2.2. Pronoms interrogatifs
 
 ::::grammar-box
 
@@ -106,7 +112,8 @@ Fig. : ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | **Datif Singulier** | **⟪कस्मै⟫** | **⟪कस्यै⟫** |
 | **Datif Pluriel** | **⟪केभ्यस्⟫** | **⟪काभ्यस्⟫** |
 
-::::### 24.2.3. Pronoms démonstratifs
+::::
+### 24.2.3. Pronoms démonstratifs
 
 ::::grammar-box
 
@@ -117,7 +124,8 @@ Fig. : ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | **Féminin** | **Dat. sg.** | **⟪तस्यै⟫** | **⟪एतस्यै⟫** | **⟪अस्यै⟫** |
 | | **Dat. pl.** | **⟪ताभ्यस्⟫** | **⟪एताभ्यस्⟫** | **⟪आभ्यस्⟫** |
 
-::::### 24.2.4. Souches vocaliques
+::::
+### 24.2.4. Souches vocaliques
 
 :::grammar-box
 **Souches vocaliques**
@@ -143,7 +151,8 @@ Fig. : ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 * **Féminins en -u :** ⟪धेनु⟫
   * Dat. sg. **⟪धेनवे⟫** ou **⟪धेन्वै⟫**
   * Dat. pl. **⟪धेनुभ्यस्⟫**
-:::## 24.3. Sandhi de -ai et -au en position finale
+:::
+## 24.3. Sandhi de -ai et -au en position finale
 
 ::::grammar-box
 **Sandhi de -ai et -au en position finale**
@@ -155,7 +164,8 @@ Exemple :
 
 :::indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = « ce feu »
-:::::::## 24.4. Liste de mots
+:::::::
+## 24.4. Liste de mots
 
 ⟪अलम्⟫ Adv. : assez, suffisant, (à qqn, qqch) à la hauteur ; avec datif : assez pour, suffisant pour, à la hauteur de ; avec instrumental : assez avec, cesse de , p. ex. ⟪अलं⟫ ⟪क्रोधेन⟫ = « assez de colère = cesse de te fâcher ! »
 
@@ -171,7 +181,8 @@ De la même manière que ⟪अलम्⟫ avec l'instrumental est utilisé :
 ![](/images/lekt2405.webp)
 Fig. : ⟪अलंकारः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2405))
-:::⟪हेतु⟫ m. : motif, incitation, cause, raison ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ avec génitif ou comme second membre d'un composé = « pour ... le bien, à cause de »
+:::
+⟪हेतु⟫ m. : motif, incitation, cause, raison ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ avec génitif ou comme second membre d'un composé = « pour ... le bien, à cause de »
 
 ⟪प्रतिमा⟫ f. : image, représentation
 
@@ -180,7 +191,8 @@ Fig. : ⟪अलंकारः⟫
 Fig. : ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Source de l'image : [Détails](/fr/licenses#lekt2406))
-:::⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : se produire, arriver, surgir
+:::
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : se produire, arriver, surgir
 
 De ⟪वृत्⟫ :
 
@@ -188,7 +200,8 @@ De ⟪वृत्⟫ :
 ⟪वृत्ति⟫ f. : comportement, activité, mode de vie
 
 ⟪वृत्त⟫ n. : comportement
-:::⟪अभि⟫ Préfixe verbal :  be-, après - vers, à - vers, à - vers, contre, dans - à l'intérieur, par rapport à, sur, au-dessus, à
+:::
+⟪अभि⟫ Préfixe verbal :  be-, après - vers, à - vers, à - vers, contre, dans - à l'intérieur, par rapport à, sur, au-dessus, à
 
 ⟪नि⟫ Préfixe verbal : vers le bas, vers le bas, à l'intérieur, en arrière
 
@@ -213,7 +226,8 @@ de cela
 Fig. : ⟪ऊहापोहः⟫
 « NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, rédactrice adjointe des affaires étrangères, CNN-IBN Network 18, Inde, modère un panel de discussion lors du Sommet économique de l'Indie 2008 du Forum économique mondial à New Delhi. »
 (Source de l'image : [Détails](/fr/licenses#lekt2407))
-:::⟪औपकारिक⟫ 3 f. : -⟪ई⟫ : utile
+:::
+⟪औपकारिक⟫ 3 f. : -⟪ई⟫ : utile
 
 ⟪कुप्य⟫ n. : produit forestier, métal (non précieux)
 
@@ -236,7 +250,8 @@ Fig. : ⟪आख्यानम्⟫
 de cela :
 
 ⟪संख्या⟫ f. : comptage, énumération ; ⟪सांख्य⟫ n. : l'un des six systèmes philosophiques (bref : Basham, Wonder p. 326s.)
-:::⟪ग्रहण⟫ n. : saisie
+:::
+⟪ग्रहण⟫ n. : saisie
 
 ⟪चौल⟫ n. : cérémonie (⟪संस्कार⟫) de coupe de cheveux (à l'âge de 3 ans)
 
@@ -256,7 +271,8 @@ de cela :
 Fig. : ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 Manuscrit du ⟪गीतगोविन्द⟫, 1730 après J.-C.
 (Source de l'image : [Détails](/fr/licenses#lekt2411))
-:::⟪स्वागत⟫ n. : Bienvenue (de su-ā-gata)
+:::
+⟪स्वागत⟫ n. : Bienvenue (de su-ā-gata)
 
 ⟪तृण⟫ n. : Tige d'herbe
 
@@ -340,7 +356,8 @@ Traduisez en sanskrit :
 ![](/images/lekt2409.webp)
 Fig. : ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 (Source de l’image : [Détails](/fr/licenses#lekt2409))
-:::6. Au revoir ! (= Bien-être (⟪स्वस्ति⟫ f.) à vous !)
+:::
+6. Au revoir ! (= Bien-être (⟪स्वस्ति⟫ f.) à vous !)
 
 7. Ce fruit suffit pour manger.
 
@@ -357,7 +374,8 @@ Explication : ⟪मुनित्रयम्⟫ "la Trinité des sages = les 
 Fig. : ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
 ⟪नरसिंह⟫ déchiquette ⟪हिरण्यकशिपु⟫, page d’un manuscrit du ⟪भागवतपुराण⟫
 (Source de l’image : [Détails](/fr/licenses#lekt2410))
-:::11. Bienvenue (⟪स्वागतम्⟫) à vous. Bienvenue à la reine.
+:::
+11. Bienvenue (⟪स्वागतम्⟫) à vous. Bienvenue à la reine.
 
 12. Je vous souhaite le bien-être (⟪कुशल⟫) = Bien-être à vous !
 

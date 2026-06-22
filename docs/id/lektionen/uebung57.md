@@ -44,7 +44,8 @@ Translate and determine the following forms and form the corresponding **aorist*
 ![](/images/uebung090.webp)
 Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Image source: [Details](/en/licenses#uebung090))
-:::---
+:::
+---
 
 ## B) Word Determinations
 

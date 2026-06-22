@@ -69,7 +69,8 @@ A) Formați persoana a **2-a** corespunzătoare, în timp, număr, mod etc., pen
 ![](/images/uebung070.webp)
 Fig.: ⟪दिशसि⟫
 (Sursa imaginii: [Detalii](/licenses#uebung070))
-:::---
+:::
+---
 
 ## Traduceri în sanscrită
 
@@ -109,7 +110,8 @@ Cum te salvezi (depășești râul) în fața inamicului?
 ![](/images/uebung071.jpg)
 Fig.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung071))
-:::---
+:::
+---
 
 ## Conversație (⟪संवादः⟫)
 

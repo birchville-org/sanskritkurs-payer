@@ -88,7 +88,8 @@ A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genu
 | ⟪७३⟫. **⟪तनोति⟫** | ⟪अतनोत्⟫ |
 | ⟪७४⟫. **⟪प्रजानीते⟫** | ⟪प्राजानीत⟫ |
 | ⟪७५⟫. **⟪जीवन्ति⟫** | ⟪अजीवन्⟫ |
-:::B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+:::
+B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
 (⟪जनस्य⟫ ⟪इन्द्रस्य⟫ ⟪अग्रे⟫ ⟪।⟫ ⟪महत्⟫-⟪पुण्यम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪लोके⟫)
@@ -113,7 +114,8 @@ Söhne Buddhas haben die Wahrheit erkannt, das Leiden zum Stillstand gebracht un
 ![](/images/uebung050.webp)
 Abb.: ⟪सम्पन्नरूपा⟫
 (Bildquelle: [Details](/licenses#uebung050))
-:::---
+:::
+---
 
 ## Wortformbestimmung
 
@@ -210,7 +212,8 @@ Bestimmen und übersetzen Sie folgende Wörter:
 ![](/images/uebung051.webp)
 Abb.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Bildquelle: [Details](/licenses#uebung051))
-:::---
+:::
+---
 
 ## Übung zum Sandhi
 
@@ -289,7 +292,8 @@ Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein und beachten Sie
 ![](/images/uebung052.webp)
 Abb.: ⟪पुनर्दर्शनाय⟫
 (Bildquelle: [Details](/licenses#uebung052))
-:::---
+:::
+---
 
 ## Scholarly Fragment (Stotra)
 
@@ -302,7 +306,8 @@ Der hehre Hari ist meine Zuflucht, der seine Feinde in den Himmel schickte, die 
 ![](/images/uebung053.webp)
 Abb.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 (Bildquelle: [Details](/licenses#uebung053))
-:::---
+:::
+---
 
 ## Erzählung: Der Greis und die Affen (Sanskrit-Bālādarśa)
 

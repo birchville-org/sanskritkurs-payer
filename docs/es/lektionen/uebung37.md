@@ -123,7 +123,8 @@ C) Determinar y traducir los siguientes compuestos:
 ![](/images/uebung062.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung062))
-:::---
+:::
+---
 
 ## Narrativo del Perfecto (La historia del anciano)
 

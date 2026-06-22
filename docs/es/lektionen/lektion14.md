@@ -13,7 +13,8 @@ status: stable
 
 :::grammar-box
 Si se desea expresar la relación de lo designado por dos sustantivos, se utiliza el genitivo (ṣaṣṭhī f. "sexta terminación casuál"). El genitivo se distingue de todos los demás casos en que, con pocas excepciones, no sirve para una determinación más precisa de la acción expresada por el verbo, sino para la expresión de la relación entre personas o cosas designadas por sustantivos. Frecuentemente se usa el genitivo para la pregunta: ¿De quién?
-:::Ejemplos:
+:::
+Ejemplos:
 
 ⟪कवेः⟫ ⟪पुत्रः⟫ "El hijo del poeta"
 
@@ -27,7 +28,8 @@ Si se desea expresar la relación de lo designado por dos sustantivos, se utiliz
 La posición normal de las palabras es:
 
 > **Palabra determinativa en genitivo — Sustantivo más precisamente determinado en otro caso**
-:::**Genitivo y participio de pasado pasivo:**
+:::
+**Genitivo y participio de pasado pasivo:**
 
 :::grammar-box
 En los participios de pasado pasivo, el genitivo puede ocupar el lugar del instrumental (tṛtīyā) para el agente (kartṛ); en la construcción con el instrumental, el participio de pasado pasivo se considera una forma verbal pasiva (lo que está en el instrumental designa al agente), mientras que en la construcción con el genitivo, el participio de pasado pasivo se considera un sustantivo o adjetivo (por lo tanto, lo que está en el genitivo no se considera realmente como un agente).
@@ -39,7 +41,8 @@ Según Pāṇini 2.3.67, en el participio de pasado pasivo se usa el genitivo si
 > ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "La fruta que Rāma ha deseado"
 
 Por supuesto, en un participio de pasado pasivo neutro singular, que se usa como un abstracto verbal, es decir, como un sustantivo, se utiliza el genitivo.
-:::## 14.2. Formación de las formas genitivas (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+:::
+## 14.2. Formación de las formas genitivas (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 El genitivo se forma en las raíces verbales con ablaut a partir de la forma débil.
 
@@ -51,14 +54,16 @@ Después de una consonante, las terminaciones regulares del genitivo son:
 * Singular: **-as**
 * Plural: **-ām**
 
-:::center
+:::
+center
 
 | Raíz nominal | Raíz débil | Genitivo singular | Genitivo plural |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-**:br**⟪गुणवन्त्⟫** | **guṇa-vat-**:br**⟪गुणवत्⟫** | **guṇa-vat-as**:br**⟪गुणवतस्⟫** | **guṇa-vat-ām**:br**⟪गुणवताम्⟫** |
 | **paśu-mant-**:br**⟪पशुमन्त्⟫** | **paśu-mat-**:br**⟪पशुमत्⟫** | **paśu-mat-as**:br**⟪पशुमतस्⟫** | **paśu-mat-ām**:br**⟪पशुमताम्⟫** |
 
-:::::::**Genitivo de raíces terminadas en vocal, excepto nombres de raíz monosilábicos y raíces terminadas en diptongo:**
+:::::::
+**Genitivo de raíces terminadas en vocal, excepto nombres de raíz monosilábicos y raíces terminadas en diptongo:**
 
 **Plural:**
 
@@ -68,7 +73,8 @@ El genitivo plural de las raíces terminadas en vocal se forma de la siguiente m
 
 > **-vocal larga final de la raíz + -nām**
 
-:::center
+:::
+center
 
 | Raíz nominal | Genitivo plural |
 | :--- | :--- |
@@ -81,13 +87,15 @@ El genitivo plural de las raíces terminadas en vocal se forma de la siguiente m
 | **paśu** m.:br**⟪पशु⟫** | **paśū-nām**:br**⟪पशूनाम्⟫** |
 | **dhenu** f.:br**⟪धेनु⟫** | **dhenū-nām**:br**⟪धेनूनाम्⟫** |
 
-:::::::**Genitivo singular de raíces terminadas en vocal:**
+:::::::
+**Genitivo singular de raíces terminadas en vocal:**
 
 ::::grammar-box
 
 El genitivo singular de las raíces terminadas en vocal se forma de manera irregular y debe aprenderse de memoria.
 
-:::center
+:::
+center
 
 | Raíz | Genitivo singular |
 | :--- | :--- |
@@ -100,11 +108,13 @@ El genitivo singular de las raíces terminadas en vocal se forma de manera irreg
 | **śruti** f.:br**⟪श्रुति⟫** | **śrutes / śrutyās**:br**⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫**:br(es decir, ya sea como kavi o como devī) |
 | **dhenu** f.:br**⟪धेनु⟫** | **dhenos / dhenvās**:br**⟪धेनोस्⟫ / ⟪धेन्वास्⟫**:br(es decir, ya sea como paśu o como femeninos polisílabos terminados en -ū) |
 
-:::::::**Pronombres interrogativos y pronombres demostrativos:**
+:::::::
+**Pronombres interrogativos y pronombres demostrativos:**
 
 ::::grammar-box
 
-:::center
+:::
+center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -114,15 +124,18 @@ El genitivo singular de las raíces terminadas en vocal se forma de manera irreg
 
 | | **Genitivo plural** | kāsām:br**⟪कासाम्⟫** | tāsām:br**⟪तासाम्⟫** | etāsām:br**⟪एतासाम्⟫** | āsām:br**⟪आसाम्⟫** |
 
-:::::::**Identidad de forma:**
+:::::::
+**Identidad de forma:**
 
-:::important
+:::
+important
 
 En todas las raíces nominales, excepto los masculinos y neutros en -a y los pronombres, la forma del genitivo singular es idéntica a la forma del ablativo (pañcamī "quinta terminación casual") singular.
 
 Tenga en cuenta que, en las raíces que terminan en consonante, el ablativo y el genitivo singular suenan igual que el acusativo plural de masculino y femenino.
 
-:::## 14.3. Más sobre el uso del genitivo (⟪षष्ठी⟫)
+:::
+## 14.3. Más sobre el uso del genitivo (⟪षष्ठी⟫)
 
 :::grammar-box
 Contrario a la regla anterior, se usa el genitivo para expresar el objeto de ciertos verbos, por ejemplo, verbos de recuerdo:
@@ -134,7 +147,8 @@ Sin embargo, con todos estos verbos, el objeto también puede estar en acusativo
 > ⟪देवान्स्मरति⟫ "Él recuerda a los dioses"
 
 Más detalles más adelante.
-:::## 14.4. Lista de palabras
+:::
+## 14.4. Lista de palabras
 
 * **śīla n.** (⟪शील⟫) : (bueno) Carácter, Moralidad
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : Joyas
@@ -144,7 +158,8 @@ Más detalles más adelante.
 ![](/images/lekt1405.webp)
 Fig.: ⟪दीपाः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1405))
-:::* **bala n.** (⟪बल⟫) : Violencia, Fuerza, Fortaleza; Fuerza militar, Ejército
+:::
+* **bala n.** (⟪बल⟫) : Violencia, Fuerza, Fortaleza; Fuerza militar, Ejército
 * **bāla 3** (⟪बाल⟫) : joven, infantil, insensato; m. Niño
 * **bālā f.** (⟪बाला⟫) : joven chica
 * **nara m.** (⟪नर⟫) : Hombre, Ser humano
@@ -230,7 +245,8 @@ Traduzca los siguientes proverbios y memorícelos:
 ![](/images/lekt1404.webp)
 Fig.: ⟪पुत्रवती⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1404))
-:::⟪२६⟫. ⟪जल⟫
+:::
+⟪२६⟫. ⟪जल⟫
 
 ⟪२७⟫. ⟪मार्ग⟫
 
@@ -290,7 +306,8 @@ Fig.: ⟪पुत्रवती⟫
 ![](/images/lekt1403.webp)
 Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1403))
-:::**B) Traduce:**
+:::
+**B) Traduce:**
 
 ⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 posibilidades)
 

@@ -111,7 +111,8 @@ Manger, dormir, avoir peur et avoir des relations sexuelles sont communs aux hum
 ![](/images/uebung035.webp)
 Fig. : ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Source de l'image : [Détails](/fr/licenses#uebung035))
-:::---
+:::
+---
 
 ## Exercices supplémentaires
 

@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-07
 - Suffissi nominali importanti (-a, -ana, -tra, -ti, -tva, -tā)
 - La 8ª classe del presente (tanādi)
 - La coniugazione di **kṛ** (tun, fare)
-:::---
+:::
+---
 
 ## 8.1. Sulla formazione dei nomi
 
@@ -29,7 +30,8 @@ Nella grammatica indiana tradizionale si distinguono, tra i suffissi con cui si 
 **Radice + suffisso kṛt » tema nominale ecc. + suffisso taddhita » nuovo tema nominale ecc.**
 
 **Tema nominale + desinenza casuale » nome sintatticamente utilizzabile**
-:::---
+:::
+---
 
 ## 8.2. Classificazione dei suffissi nominali
 
@@ -61,7 +63,8 @@ Nella grammatica indiana tradizionale si distinguono, tra i suffissi con cui si 
 
 :::grammar-box
 **Il suffisso kṛt -a forma sostantivi maschili (raramente neutri) che indicano un'azione o uno stato designato dalla radice; talvolta anche aggettivi o sostantivi che esprimono l'agente (kartṛ) dell'azione designata dalla radice verbale. Per penultima breve (= vocale prima di consonante, su cui termina la radice) o vocale radicalesca finale, di solito viene sostituita la forma forte (guṇa) o la forma allungata (vṛddhi).**
-:::**Esempi:**
+:::
+**Esempi:**
 
 | Radice:br⟪धातु⟫ | + -a (kṛt) | Significato |
 | :--- | :--- | :--- |
@@ -82,7 +85,8 @@ Nella grammatica indiana tradizionale si distinguono, tra i suffissi con cui si 
 
 :::grammar-box
 **Il suffisso kṛt -ana forma di solito sostantivi neutri che indicano un'azione, uno stato o il mezzo/strumento attraverso il quale l'azione designata dalla radice o da un tema verbale viene realizzata. Per una penultima breve o una vocale finale della radice, di solito viene sostituita la forma rafforzata (guṇa).**
-:::**Esempi:**
+:::
+**Esempi:**
 
 | Radice:br⟪धातु⟫ | + -ana (kṛt) | Significato |
 | :--- | :--- | :--- |
@@ -97,18 +101,21 @@ Nella grammatica indiana tradizionale si distinguono, tra i suffissi con cui si 
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0801))
-::::::note-box
+::::::
+note-box
 **"Darshan"** o **"Darshana"** è un termine dell'induismo per la visione e la visione del Sacro e del Divino. Sotto *Darshana* si intende, ad esempio, l'incontro ufficiale tra discepolo e maestro, in cui il discepolo è stato invitato dal maestro. Ma può anche significare l'*immergersi* contemplando un'immagine divina. Quest'ultimo significato è quello più comune nell'uso linguistico odierno dell'hindi. In relazione a Mata Amritanandamayi, Darshan significa l'abbraccio del Guru.
 
 I devoti induisti vanno al tempio per ottenere la visione di Dio attraverso un simbolo o una statua, in cui si presume la presenza spirituale della divinità. In questo senso, anche una benedizione da parte della divinità. Darshan può tuttavia essere ricevuto anche attraverso una visione della divinità durante la preghiera o la meditazione. Anche una persona vivente, considerata un'incarnazione della divinità, come ad esempio un Avatara, può dare Darshan.
 (Fonte: Wikipedia)
-:::---
+:::
+---
 
 ### 8.3.3. -tra n. (kṛt)
 
 :::grammar-box
 **Il suffisso kṛt -tra forma (di solito) sostantivi neutri, che indicano il mezzo o lo strumento, attraverso il quale l'azione designata dalla radice si realizza. La penultima breve e la vocale finale della radice vengono sostituite dal grado rafforzato (guṇa).**
-:::**Esempi:**
+:::
+**Esempi:**
 
 | Radice:br⟪धातु⟫ | + -tra (kṛt) | Significato |
 | :--- | :--- | :--- |
@@ -128,13 +135,15 @@ I devoti induisti vanno al tempio per ottenere la visione di Dio attraverso un s
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In scrittura Malayalam | Jaina-Oṃ |
 (Fonti delle immagini: [Dettagli](/it/licenses#lekt0803))
-:::---
+:::
+---
 
 ### 8.3.4. -ti f. (kṛt)
 
 :::grammar-box
 **Il suffisso kṛt -ti forma sostantivi femminili che, in generale, esprimono l'azione indicata dalla radice o lo stato da essa designato. La forma della radice è al grado ridotto.**
-:::**Esempi:**
+:::
+**Esempi:**
 
 | Radice:br⟪धातु⟫ | + -ti (kṛt) | Significato |
 | :--- | :--- | :--- |
@@ -154,7 +163,8 @@ I devoti induisti vanno al tempio per ottenere la visione di Dio attraverso un s
 
 :::grammar-box
 **I suffissi taddhita -tva n. e -tā f. formano sostantivi astratti da nominali. La forma del tema nominale sottostante rimane invariata.**
-:::**Esempi:**
+:::
+**Esempi:**
 
 | Tema nominale:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Significato |
 | :--- | :--- | :--- | :--- |
@@ -178,7 +188,8 @@ Esempio **tan** 8 U (⟪तन्⟫) "stendere":
 - 3\. pl. P. **tanvanti**:br⟪तन्वन्ति⟫
 - 3\. sg. Ā. **tanute**:br⟪तनुते⟫
 - 3\. pl. Ā. **tanvate**:br⟪तन्वते⟫
-:::Nota: Per la controversia se **tan** sia in realtà una radice della 5ª classe (*tn » ta + no-), cfr. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
+:::
+Nota: Per la controversia se **tan** sia in realtà una radice della 5ª classe (*tn » ta + no-), cfr. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
 La radice più importante della 8ª classe è **kṛ** 8 U (⟪कृ⟫) "fare, fare". La sua coniugazione è irregolare:
 
@@ -188,7 +199,8 @@ La radice più importante della 8ª classe è **kṛ** 8 U (⟪कृ⟫) "fare,
 - 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
 - 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
 - 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
-:::---
+:::
+---
 
 ## 8.5. Elenco di parole
 
@@ -220,7 +232,8 @@ Fig.: **likh** (⟪लिख्⟫) : stilo indiano in acciaio per incidere su f
 ![](/images/lekt0810.jpg)
 Fig.: **likh** (⟪लिख्⟫) : bastoncino da scrittura dei Batak (Sumatra), come probabilmente era in uso anche in India
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0809))
-:::- **sukha** n. ⟪सुख⟫ : felicità, benessere
+:::
+- **sukha** n. ⟪सुख⟫ : felicità, benessere
 - **duḥkha** n. ⟪दुःख⟫ : sfortuna, sofferenza
 
 ---

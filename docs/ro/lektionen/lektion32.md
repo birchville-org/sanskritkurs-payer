@@ -16,7 +16,8 @@ status: stable
 *   **perfectul (⟪लिट्⟫) indică, la fel ca imperfectul, trecutul îndepărtat, dar, spre deosebire de imperfect, este folosit doar pentru evenimente pe care vorbitorul însuși nu le-a observat**
 
 **În literatura sanscrită clasică, cele trei timpuri ale trecutului sunt utilizate fără nicio diferență de sens (exceptie: poezia artistică a lui ⟪भारवि⟫, ⟪किरातार्जुनीय⟫).**
-::::**
+::::
+**
 
 ## 32.2. Imperfectul (⟪लङ्⟫)
 
@@ -28,7 +29,8 @@ status: stable
 **Cele trei persoane ale singularului la indicativul imperfect, activ, pentru temele athematice, se formează din tema puternică de prezent, toate celelalte forme din tema slabă de prezent.**
 
 **Imperfectul are doar indicativul.**
-::::Exemple:
+::::
+Exemple:
 
 :::indent
 **⟪भू⟫** 3. sg. Imp. Act. **⟪अभवत्⟫** (a-bhava-t)
@@ -36,11 +38,13 @@ status: stable
 **⟪सु⟫**
 *   3. sg. Imp. Act. **⟪असुनोत्⟫** (a-suno-t)
 *   3. pl. Imp. Act. **⟪असुन्वन्⟫** (a + sunu + an)
-:::## 32.3. Reguli pentru augment
+:::
+## 32.3. Reguli pentru augment
 
 ::::grammar-box
 **1. Dacă augmentul a- precedă o rădăcină care începe cu o vocală, augmentul și inițiala rădăcinii se contopesc în ⟪वृद्धि⟫ vocalei rădăcinii.**
-::::Exemple:
+::::
+Exemple:
 
 ::::grammar-box
 
@@ -52,7 +56,8 @@ status: stable
 
 ::::::::grammar-box
 **2. Dacă preverbele precedă o rădăcină, augmentul a- apare imediat după preverbe, înainte de rădăcină.**
-::::Exemple:
+::::
+Exemple:
 
 ::::grammar-box
 
@@ -63,11 +68,14 @@ status: stable
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
-::::## 32.4. Exemple de formare a imperfectului
+::::
+## 32.4. Exemple de formare a imperfectului
 
-:::important
+:::
+important
 **Pentru a demonstra formarea formelor, sunt formate aici și forme Ātmanepada pentru rădăcinile Parasmaipada! Aceste forme artificiale se află între &lt; &gt;.**
-:::### 32.4.1. Clase tematice de prezent
+:::
+### 32.4.1. Clase tematice de prezent
 
 ::::grammar-box
 
@@ -79,7 +87,8 @@ status: stable
 | 10. / Cauz. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
 | Pasiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
-::::### 32.4.2. Clase de prezent atematice
+::::
+### 32.4.2. Clase de prezent atematice
 
 ::::grammar-box
 
@@ -99,7 +108,8 @@ status: stable
 | 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t > aruṇaddh > aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
-::::## 32.5. Listă de cuvinte
+::::
+## 32.5. Listă de cuvinte
 
 **⟪अग्र⟫ n.:** vârf, capăt extrem
 
@@ -116,7 +126,8 @@ status: stable
 ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
 -⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
-:::**⟪पार्श्व⟫**
+:::
+**⟪पार्श्व⟫**
 
 **⟪चूत⟫**
 
@@ -125,7 +136,8 @@ status: stable
 Fig.: ⟪चूतः⟫
 Copac de mango, Kanpur.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3202))
-:::**⟪तरु⟫** **⟪वृक्ष⟫**
+:::
+**⟪तरु⟫** **⟪वृक्ष⟫**
 
 **⟪पचेलिम⟫**
 
@@ -141,7 +153,8 @@ Copac de mango, Kanpur.
 ⟪रूढ⟫:br
 -⟪रुह्य⟫:br
 ⟪रोढुम्⟫
-:::**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+:::
+**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 :::indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
@@ -149,21 +162,24 @@ Copac de mango, Kanpur.
 ⟪गृहीत⟫:br
 -⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
-:::**⟪वानर⟫ ⟪कपि⟫**
+:::
+**⟪वानर⟫ ⟪कपि⟫**
 
 :::media
 ![](/images/lekt3203.webp)
 Fig.: ⟪वानराः⟫
 Maimuțe (macaci rhesus) în Delhi.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3203))
-:::**⟪लोक्⟫ ⟪लोकयति⟫**
+:::
+**⟪लोक्⟫ ⟪लोकयति⟫**
 :::indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
 -⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
-:::**⟪प्रहर्ष⟫**
+:::
+**⟪प्रहर्ष⟫**
 
 **⟪कति⟫**
 
@@ -174,14 +190,16 @@ Maimuțe (macaci rhesus) în Delhi.
 Fig.: ⟪उपलाः⟫
 Carieră de piatră la sud de Pune, Maharashtra.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3204))
-:::**⟪लक्ष्य⟫**
+:::
+**⟪लक्ष्य⟫**
 
 :::media
 ![](/images/lekt3205.webp)
 Fig.: ⟪लक्ष्यम्⟫
 Exercițiu de tragere / țintă cu săgeți, Karnataka.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3205))
-:::**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+:::
+**⟪क्षिप्⟫ ⟪क्षिपति⟫**
 :::indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
@@ -189,7 +207,8 @@ Exercițiu de tragere / țintă cu săgeți, Karnataka.
 ⟪क्षिप्त⟫:br
 -⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
-:::**⟪चि⟫ ⟪चिनोति⟫**
+:::
+**⟪चि⟫ ⟪चिनोति⟫**
 :::indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
@@ -202,7 +221,8 @@ Exercițiu de tragere / țintă cu săgeți, Karnataka.
 Fig.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Bucăți de gunoi de vacă ars în Rajasthan.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3207))
-:::**⟪चि⟫ ⟪अव⟫**
+:::
+**⟪चि⟫ ⟪अव⟫**
 
 **⟪प्रति⟫**
 
@@ -215,7 +235,8 @@ Bucăți de gunoi de vacă ars în Rajasthan.
 Fig.: ⟪कौशलम्⟫
 Pictură Mehndi pe mâini în Mumbai.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3206))
-:::## 32.6. Exerciții
+:::
+## 32.6. Exerciții
 
 A) Determinați următoarele forme verbale și formați corespunzătoarele forme de imperfect în persoană, număr și genul verbului:
 
@@ -312,7 +333,8 @@ B) Traduceți și descompuneți compusele în sanscrită:
 Fig.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Călugăr budist din Sri Lanka.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3208))
-:::## 32.7. Exercițiu de recapitulare pentru vacanțele de Crăciun
+:::
+## 32.7. Exercițiu de recapitulare pentru vacanțele de Crăciun
 
 Notă: în mod original, acest curs a fost ținut la Universitatea din Tübingen, în fiecare semestru de iarnă. La Lecția 32, au început vacanțele de Crăciun, care dureau două săptămâni.
 
@@ -533,7 +555,8 @@ C) Traduceți în sanscrită:
 Fig.: ⟪पुनर्दर्शनाय⟫
 Salut / adio indian.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3209))
-:::## 32.8. Exercițiu de recapitulare
+:::
+## 32.8. Exercițiu de recapitulare
 
 Traduceți și determinați următoarele forme de cuvinte:
 
@@ -580,7 +603,8 @@ Traduceți și determinați următoarele forme de cuvinte:
 
 ## 32.9. Exercițiu de traducere
 
-:::compact
+:::
+compact
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
@@ -593,7 +617,8 @@ Traduceți și determinați următoarele forme de cuvinte:
 ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
 ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫**⟪दाय⟫** ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
-:::(din: ⟪संस्कृतबालादर्श⟫)
+:::
+(din: ⟪संस्कृतबालादर्श⟫)
 
 
 Explicații:

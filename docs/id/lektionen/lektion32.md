@@ -16,7 +16,8 @@ status: stable
 *   **The Perfect (⟪लिट्⟫), like the Imperfect, denotes the distant past; however, in contrast to the Imperfect, it is used exclusively for events that the speaker themselves did not witness.**
 
 **In classical Sanskrit literature, the three past tenses are used without semantic distinction (exception: Bhāravi’s poetic work ⟪किरातार्जुनीय⟫).**
-::::## 32.2. The Imperfect (⟪लङ्⟫)
+::::
+## 32.2. The Imperfect (⟪लङ्⟫)
 
 ::::grammar-box
 **Formation:**
@@ -26,7 +27,8 @@ status: stable
 **The three singular persons of the Parasmaipada Imperfect are formed from the strong present stem for athematic stems; all other forms are derived from the weak present stem.**
 
 **The Imperfect has only the indicative mood.**
-::::Examples:
+::::
+Examples:
 
 :::indent
 **⟪भू⟫** 3rd sg. Impf. P. **⟪अभवत्⟫** (a-bhava-t)
@@ -34,11 +36,13 @@ status: stable
 **⟪सु⟫**
 *   3rd sg. Impf. P. **⟪असुनोत्⟫** (a-suno-t)
 *   3rd pl. Impf. P. **⟪असुन्वन्⟫** (a + sunu + an)
-:::## 32.3. Rules for the Augment
+:::
+## 32.3. Rules for the Augment
 
 ::::grammar-box
 **1. If the augment *a-* precedes a root beginning with a vowel, the augment and the initial vowel of the root fuse to form the *vṛddhi* grade of the root vowel.**
-::::Examples:
+::::
+Examples:
 
 ::::grammar-box
 
@@ -50,7 +54,8 @@ status: stable
 
 ::::::::grammar-box
 **2. If preverbs precede a root, the augment *a-* follows the preverbs and immediately precedes the root.**
-::::Examples:
+::::
+Examples:
 
 ::::grammar-box
 
@@ -61,11 +66,14 @@ status: stable
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
-::::## 32.4. Examples of Imperfect Formation
+::::
+## 32.4. Examples of Imperfect Formation
 
-:::important
+:::
+important
 **To demonstrate the formation of forms, Ātmanepada forms are also generated for Parasmaipada roots here! These artificial forms are enclosed within &lt; &gt;.**
-:::### 32.4.1. Thematic Present Classes
+:::
+### 32.4.1. Thematic Present Classes
 
 ::::grammar-box
 
@@ -77,7 +85,8 @@ status: stable
 | 10. / Caus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
 | Passive | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
-::::### 32.4.2. Atherematic Present Classes
+::::
+### 32.4.2. Atherematic Present Classes
 
 ::::grammar-box
 
@@ -97,7 +106,8 @@ status: stable
 | 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t > aruṇaddh > aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
-::::## 32.5. Word List
+::::
+## 32.5. Word List
 
 **⟪अग्र⟫ n.:** tip, extreme end
 
@@ -114,7 +124,8 @@ status: stable
 ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
 -⟪श्रम्य⟫:br
 ⟪श्रितुम्⟫
-:::**⟪पार्श्व⟫**
+:::
+**⟪पार्श्व⟫**
 
 **⟪चूत⟫**
 
@@ -123,7 +134,8 @@ status: stable
 Fig.: ⟪चूतः⟫
 Mango tree, Kanpur.
 (Image source: [Details](/en/licenses#lekt3202))
-:::**⟪तरु⟫** **⟪वृक्ष⟫**
+:::
+**⟪तरु⟫** **⟪वृक्ष⟫**
 
 **⟪पचेलिम⟫**
 
@@ -139,7 +151,8 @@ Mango tree, Kanpur.
 ⟪रूढ⟫:br
 -⟪रुह्य⟫:br
 ⟪रोढुम्⟫
-:::**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+:::
+**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 :::indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
@@ -147,21 +160,24 @@ Mango tree, Kanpur.
 ⟪गृहीत⟫:br
 -⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
-:::**⟪वानर⟫ ⟪कपि⟫**
+:::
+**⟪वानर⟫ ⟪कपि⟫**
 
 :::media
 ![](/images/lekt3203.webp)
 Fig.: ⟪वानराः⟫
 Monkeys (rhesus macaques) in Delhi.
 (Image source: [Details](/en/licenses#lekt3203))
-:::**⟪लोक्⟫ ⟪लोकयति⟫**
+:::
+**⟪लोक्⟫ ⟪लोकयति⟫**
 :::indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
 -⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
-:::**⟪प्रहर्ष⟫**
+:::
+**⟪प्रहर्ष⟫**
 
 **⟪कति⟫**
 
@@ -172,14 +188,16 @@ Monkeys (rhesus macaques) in Delhi.
 Fig.: ⟪उपलाः⟫
 Stone quarry south of Pune, Maharashtra.
 (Image source: [Details](/en/licenses#lekt3204))
-:::**⟪लक्ष्य⟫**
+:::
+**⟪लक्ष्य⟫**
 
 :::media
 ![](/images/lekt3205.webp)
 Fig.: ⟪लक्ष्यम्⟫
 Target practice / arrow target, Karnataka.
 (Image source: [Details](/en/licenses#lekt3205))
-:::**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+:::
+**⟪क्षिप्⟫ ⟪क्षिपति⟫**
 :::indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
@@ -187,7 +205,8 @@ Target practice / arrow target, Karnataka.
 ⟪क्षिप्त⟫:br
 -⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
-:::**⟪चि⟫ ⟪चिनोति⟫**
+:::
+**⟪चि⟫ ⟪चिनोति⟫**
 :::indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
@@ -200,7 +219,8 @@ Target practice / arrow target, Karnataka.
 Fig.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Burning cow dung patties in Rajasthan.
 (Image source: [Details](/en/licenses#lekt3207))
-:::**⟪चि⟫ ⟪अव⟫**
+:::
+**⟪चि⟫ ⟪अव⟫**
 
 **⟪प्रति⟫**
 
@@ -213,7 +233,8 @@ Burning cow dung patties in Rajasthan.
 Fig.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
 (Image source: [Details](/en/licenses#lekt3206))
-:::## 32.6. Exercise
+:::
+## 32.6. Exercise
 
 A) Identify the following verb forms and form the corresponding imperfect forms with respect to person, number, and verbal gender (genus verbi):
 
@@ -310,7 +331,8 @@ B) Translate and resolve the compounds in Sanskrit:
 Fig.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Buddhist monk in Sri Lanka.
 (Image source: [Details](/en/licenses#lekt3208))
-:::## 32.7. Review Exercise for the Christmas Holidays
+:::
+## 32.7. Review Exercise for the Christmas Holidays
 
 Note: Originally, this was taught at the University of Tübingen in each winter semester. The two-week Christmas holidays began with Lesson 32.
 
@@ -532,7 +554,8 @@ C) Translate into Sanskrit:
 Fig.: ⟪पुनर्दर्शनाय⟫
 Indian greeting / farewell.
 (Image source: [Details](/en/licenses#lekt3209))
-:::## 32.8. Review Exercise
+:::
+## 32.8. Review Exercise
 
 Translate and analyze the following word forms:
 
@@ -579,7 +602,8 @@ Translate and analyze the following word forms:
 
 ## 32.9. Translation Exercise
 
-:::compact
+:::
+compact
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
@@ -592,7 +616,8 @@ Translate and analyze the following word forms:
 ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
 ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫**⟪दाय⟫** ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
-:::(from: ⟪संस्कृतबालादर्श⟫)
+:::
+(from: ⟪संस्कृतबालादर्श⟫)
 
 Explanations:
 

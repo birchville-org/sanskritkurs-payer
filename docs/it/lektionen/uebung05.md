@@ -94,7 +94,8 @@ Le scienze sono filosofia, vedica, economia e politica.
 ![](/images/uebung010.webp)
 Fig.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung010))
-:::---
+:::
+---
 
 ## Esercizio di ripetizione Lezione 5
 

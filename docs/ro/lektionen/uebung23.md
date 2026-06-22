@@ -111,7 +111,8 @@ Mâncatul, somnul, frica și sexul sunt comune oamenilor cu animalele. Diferenț
 ![](/images/uebung035.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Sursa imaginii: [Detalii](/licenses#uebung035))
-:::---
+:::
+---
 
 ## Exerciții suplimentare
 

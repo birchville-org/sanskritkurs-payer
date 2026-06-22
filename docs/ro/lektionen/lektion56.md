@@ -21,7 +21,8 @@ status: stable
 **-i, -u final se înlocuiește cu -iy, respectiv -uv.**
 
 **-ā final (pentru -e) se elidează.**
-:::Paradigmă:
+:::
+Paradigmă:
 
 ⟪श्रि⟫ 1U "a se deplina spre, a se sprijini"
 
@@ -42,7 +43,8 @@ Această formă de aorist se formează, printre altele, de către:
 
 :::grammar-box
 **Toate rădăcinile celei de-a 10-a clase de prezent, precum și toate causativele, formează întotdeauna aoristul reduplicat.**
-:::### 56.1.1. Formarea aoristului cauzativelor și a rădăcinilor clasei de prezenț a 10-a
+:::
+### 56.1.1. Formarea aoristului cauzativelor și a rădăcinilor clasei de prezenț a 10-a
 
 Silba de stemă:
 
@@ -68,7 +70,8 @@ Silba de stemă:
 *   **ar, ār, īr, al, care precedă imediat consoana finală a silbei de stemă, substituind pe ṛ, ṝ, ḷ, rămâne opțional neschimbat sau este înlocuit cu ṛ, respectiv ḷ:**  
     ⟪कॢप्⟫ 1Ā: Cauz. ***⟪कल्प⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
     ⟪कृष्⟫ 1P/6U: Cauz. ***⟪कर्ष⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
-:::Vocala silbei de reduplicare:
+:::
+Vocala silbei de reduplicare:
 
 După ce regulile menționate mai sus au fost aplicate silbei de stemă, trebuie respectate următoarele reguli pentru vocala silbei de reduplicare:
 
@@ -103,7 +106,8 @@ Vocală - prima consoană care urmează (respectiv reprezentantul său cerut în
 ⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, silabă reduplicată ⟪आशिश्⟫, Aorist ⟪आशिशत्⟫
 ⟪इष्⟫ 6P: Caus. ⟪एषयति⟫, silabă reduplicată ⟪एषिष्⟫, Aorist ⟪ऐषिषत्⟫
 ⟪ईक्ष्⟫ 1Ā: Caus. ⟪ईक्षयति⟫, silabă reduplicată ⟪ईचिक्ष्⟫, Aorist ⟪ऐचिक्षत्⟫
-:::*   **Dacă după vocala inițială urmează un grup consonantic care începe cu un nazal sau cu d sau r, atunci a doua consonantă a grupului (sau reprezentantul său) se inserează cu i, conform schemei de mai jos:**
+:::
+*   **Dacă după vocala inițială urmează un grup consonantic care începe cu un nazal sau cu d sau r, atunci a doua consonantă a grupului (sau reprezentantul său) se inserează cu i, conform schemei de mai jos:**
 
 Vocală - prima consonantă - a doua consonantă (reprezentant) - i - a doua consonantă
 
@@ -111,12 +115,15 @@ Vocală - prima consonantă - a doua consonantă (reprezentant) - i - a doua con
 ⟪अञ्ज्⟫ 7P: Caus. ⟪अञ्जयति⟫, silabă reduplicată ⟪अञ्जिज्⟫, Aorist ⟪आञ्जिजत्⟫
 ⟪ऋ⟫ 1P: Caus. ⟪अर्पयति⟫, silabă reduplicată ⟪अर्पिप्⟫, Aorist ⟪आर्पिपत्⟫
 ⟪अर्ह्⟫ 1P: Caus. ⟪अर्हयति⟫, silabă reduplicată ⟪अर्जिह्⟫, Aorist ⟪आर्जिहत्⟫
-:::Această formă de reduplicare a stemelor derivate care încep cu vocală (cauzative) se numește „reduplicare attică”.
-::::## 56.2. Injunctivul
+:::
+Această formă de reduplicare a stemelor derivate care încep cu vocală (cauzative) se numește „reduplicare attică”.
+::::
+## 56.2. Injunctivul
 
 :::grammar-box
 **Injunctivul este forma fără augment a formelor cu augment, adică formele sale sunt identice cu formele fără augment ale Indicativului la Imperfect sau Aorist. Gramatica indiană autohtonă nu a recunoscut injunctivul ca o categorie gramaticală distinctă.**
-:::Conform lucrării fundamentale:
+:::
+Conform lucrării fundamentale:
 
 :::media
 ![](/images/lekt5601.jpg)
@@ -125,7 +132,8 @@ Profesor de Lingvistică Comparată, Universitatea Erlangen-Nürnberg (1955 - 19
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5601))
 ::::::indent
 Hoffmann, Karl &lt;1915 - 1996&gt;: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
-:::injunctivul în Veda are următoarele proprietăți:
+:::
+injunctivul în Veda are următoarele proprietăți:
 
 *   nu este narativ, ci menționativ
 *   este atemporal
@@ -141,7 +149,8 @@ Hoffmann, Karl &lt;1915 - 1996&gt;: Der Injunktiv im Veda : eine synchronische F
 *   ⟪मा⟫ ⟪स्म⟫ + injunctiv la Prezent ar indica o propoziție inhibitorie, adică o acțiune deja în curs sau o stare deja existentă este interzisă: "Cesează să ...!", "Renunță la ...!"
 
 Această distincție nu este însă făcută de obicei în sanscrita clasică.)
-:::## 56.3. Propoziția de interdicție
+:::
+## 56.3. Propoziția de interdicție
 
 :::grammar-box
 **Forma principală:**
@@ -149,7 +158,8 @@ Această distincție nu este însă făcută de obicei în sanscrita clasică.)
 **⟪मा⟫ + Injunctiv Aorist**
 
 **⟪मा⟫ ⟪स्म⟫ + Injunctiv Aorist sau Injunctiv Prezent**
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 ⟪मा⟫ ⟪कर्महेतुर्भूः⟫ „Nu deveni unul dintre cei motivați de rodul unei acțiuni!” (Injunctiv Aorist) (⟪भगवद्गीता⟫ 2,47c)
@@ -160,7 +170,8 @@ Această distincție nu este însă făcută de obicei în sanscrita clasică.)
 Fig.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
 Poster (Ernesto Che Guevara) al unui partid politic din Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). „Traducerea aproximativă a ceea ce este scris pe el ar fi: Martiriul este o experiență fascinantă pentru un revoluționar. Și un recurs descurajant pentru un laș. Che nu este un model de urmat pentru lași.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5602))
-:::Ambele exemple au sens prohibitiv. Injunctivul Aorist este aici, așadar, folosit în sensul său original. (Preponderența Injunctivului Aorist în astfel de propoziții se explică poate prin preponderența propozițiilor de interdicție față de cele de inhibiție, dar această întrebare trebuie încă investigată pentru sanscrita clasică.)
+:::
+Ambele exemple au sens prohibitiv. Injunctivul Aorist este aici, așadar, folosit în sensul său original. (Preponderența Injunctivului Aorist în astfel de propoziții se explică poate prin preponderența propozițiilor de interdicție față de cele de inhibiție, dar această întrebare trebuie încă investigată pentru sanscrita clasică.)
 
 ::::grammar-box
 **Alte forme ale propozițiilor de interdicție:**
@@ -181,7 +192,8 @@ Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit sytax. -- Leyden : B
 ![](/images/lekt5603.webp)
 Fig.: ⟪अलं⟫  ⟪विषादेन⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5603))
-:::## 56.4. ⟪स्म⟫
+:::
+## 56.4. ⟪स्म⟫
 
 ::::grammar-box
 **⟪स्म⟫ subliniază: "adevărat, cu adevărat, sigur, chiar"**
@@ -192,7 +204,8 @@ Fig.: ⟪अलं⟫  ⟪विषादेन⟫
 ⟪स्म⟫ + Indicativ Prezent servește la nararea în trecut, în special pentru a indica o durată în trecut:
 
 de ex. ⟪वसति⟫ ⟪स्म⟫ "a locuit odată" (⟪स्म⟫ poate uneori să lipsească).
-:::::::## 56.5. Exerciții
+:::::::
+## 56.5. Exerciții
 
 A) Determinați și traduceți fără instrumente de ajutor (!) următoarele forme:
 

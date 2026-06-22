@@ -144,7 +144,8 @@ sā brāhmaṇī nṛtyati.
 ![](/images/uebung004.jpg)
 Fig. : ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Source de l’image : [Détails](/fr/licenses#uebung004))
-:::---
+:::
+---
 
 ## Exercice de révision Leçon 6
 

@@ -78,7 +78,8 @@ A) Convierta las siguientes formas verbales en formas optativas correspondientes
 | ⟪६३⟫. **⟪अर्हति⟫** | ⟪अर्हेत्⟫ |
 | ⟪६४⟫. **⟪अदन्ति⟫** | ⟪अद्युः⟫ |
 | ⟪६५⟫. **⟪अध्यापयन्ति⟫** | ⟪अध्यापयेयुः⟫ |
-:::B) Traduzca las siguientes oraciones y resuelva los compuestos en sánscrito:
+:::
+B) Traduzca las siguientes oraciones y resuelva los compuestos en sánscrito:
 
 ⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
 (⟪आर्याणि⟫ ⟪सत्यानि⟫)
@@ -119,7 +120,8 @@ Diganse verdades que sean agradables, no se digan verdades desagradables; no se 
 ![](/images/uebung048.webp)
 Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung048))
-:::---
+:::
+---
 
 ## Determinación de formas verbales
 

@@ -15,7 +15,8 @@ status: stable
 - La terminologie technique des composés
 - Les composés copulatifs (Dvandva)
 - L'ordre des membres dans les Dvandvas
-:::## 5.1. Les composés nominaux (samāsa m. = ⟪समास⟫)
+:::
+## 5.1. Les composés nominaux (samāsa m. = ⟪समास⟫)
 
 La formation de composés de mots dans une très grande ampleur est une caractéristique du sanskrit.
 
@@ -60,7 +61,8 @@ Le Dvandva est généralement un neutre (indépendamment du genre du dernier mem
 
 **La résolution :**
 Se fait avec « et » (**ca** = ⟪च⟫), parfois avec « ou » (**vā** = ⟪वा⟫) ou « chacun ».
-:::Voir plus loin pour les Dvandva duels !
+:::
+Voir plus loin pour les Dvandva duels !
 
 ### 5.3.1. Avant-composés de composés
 
@@ -106,7 +108,8 @@ Lorsque deux des trois dernières prescriptions peuvent simultanément s'appliqu
 ![](/images/lekt0501.webp)
 Fig. : Dieu Kāma = kāmadeva = ⟪कामदेव⟫, XVIIIe siècle.
 (Source de l'image : Wikipedia, domaine public)
-:::**krodha** m. = ⟪क्रोध⟫ : colère.
+:::
+**krodha** m. = ⟪क्रोध⟫ : colère.
 
 **kleśa** m. = ⟪क्लेश⟫ : tourment, fléau.
 

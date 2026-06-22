@@ -24,7 +24,8 @@ Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
 :::grammar-box
 **1. Gewöhnlich:**  
 **Wiederholung des ersten Konsonanten der Wurzel**
-:::Beispiele:
+:::
+Beispiele:
 
 :::indent
 **⟪दा⟫** 3 "geben"
@@ -37,7 +38,8 @@ Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
 * 3.sg.Ā.Ind.Präs. ***⟪मि⟫***⟪मीते⟫
 ::::::grammar-box
 **2. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.**
-:::Beispiele:
+:::
+Beispiele:
 
 :::indent
 **⟪धा⟫** 3 "setzen"
@@ -51,8 +53,10 @@ Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
 :::indent
 **⟪क्⟫**, **⟪ख्⟫** durch **⟪च्⟫**  
 **⟪ग्⟫**, **⟪घ्⟫** durch **⟪ज्⟫**
-:::**⟪ह्⟫ wird immer durch ⟪ज्⟫ redupliziert.**
-:::Beispiele:
+:::
+**⟪ह्⟫ wird immer durch ⟪ज्⟫ redupliziert.**
+:::
+Beispiele:
 
 :::indent
 **⟪हु⟫** 3 "(zum Opfer) ins Feuer gießen"
@@ -61,12 +65,14 @@ Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
 **4. Beginnt eine Wurzel mit mehreren Konsonanten, so wird nur der erste (gegebenenfalls unter Anwendung von Regel 2 bzw. 3) wiederholt.**
 ::::::grammar-box
 **5. Beginnt eine Wurzel mit einer Konsonantengruppe Zischlaut + tonloser Konsonant, so wird nicht der Zischlaut, sondern der darauf folgende tonlose Konsonant gemäß obigen Regeln redupliziert.**
-:::Beispiel:
+:::
+Beispiel:
 
 :::indent
 **⟪स्था⟫** 1 "stehen"
 * 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫**
-:::## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.")
+:::
+## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.")
 
 :::grammar-box
 **Bildung:**
@@ -78,13 +84,15 @@ Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
 **reduplizierte tiefstufige Wurzel + Endung**
 
 **Für den Reduplikationskonsonanten gelten die oben gegebenen Regeln.**
-:::### 33.2.1. Der Reduplikationsvokal der 3. Präsensklasse
+:::
+### 33.2.1. Der Reduplikationsvokal der 3. Präsensklasse
 
 :::grammar-box
 * **Der regelmäßige Reduplikationsvokal ist -i-**
 * **u-haltige Wurzeln reduplizieren mit -u-**
 * **die Wurzeln ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ mit -a-**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 **⟪हु⟫** 3P "(zum Opfer) ins Feuer gießen"
@@ -97,7 +105,8 @@ Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
 | **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | &lt;⟪जुहुते⟫&gt; | &lt;⟪जुह्वते⟫&gt;:brjuhu + ate |
 | **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | &lt;⟪अजुहुत⟫&gt; | &lt;⟪अजुह्वत⟫&gt;:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | &lt;⟪जुह्वीत⟫&gt;:brjuhu + ī-ta | &lt;⟪जुह्वीरन्⟫&gt;:brjuhu + ī-ran |
-:::## 33.3. Zum Ablaut von ā
+:::
+## 33.3. Zum Ablaut von ā
 
 ā kann
 
@@ -116,7 +125,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
     z.B. **⟪धा⟫** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
 * **Hochstufe: -ā-**  
   z.B. **⟪धा⟫** 3.sg.P.Ind.Präs. **⟪दधाति⟫**
-:::Hierher gehört z.B. auch:
+:::
+Hierher gehört z.B. auch:
 
 :::indent
 **⟪स्था⟫** 1
@@ -129,11 +139,13 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
   z.B. **⟪पा⟫** 1: PPP **⟪पीत⟫** (pī-ta)
 * **Hochstufe: -ā-**  
   z.B. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
-:::## 33.4. Wurzeln auf -ā der dritten Präsensklasse
+:::
+## 33.4. Wurzeln auf -ā der dritten Präsensklasse
 
 :::grammar-box
 **Wurzeln auf -ā (außer ⟪दा⟫ und ⟪धा⟫) lauten im schwachen Stamm gewöhnlich auf -ī- ab** (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich wirkte dabei die oben  genannte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 **⟪मा⟫** 3Ā "messen"
@@ -151,7 +163,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Indikativ Präsens** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel **⟪हा⟫** hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
-:::### 33.4.1. Die Wurzeln **⟪दा⟫** und **⟪धा⟫**
+:::
+### 33.4.1. Die Wurzeln **⟪दा⟫** und **⟪धा⟫**
 
 :::grammar-box
 **Die Wurzeln ⟪दा⟫ und ⟪धा⟫ reduplizieren mit dem Vokal -a- und verlieren im schwachen Stamm den Wurzelvokal.**
@@ -165,7 +178,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Indikativ Präsens** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Erklärung: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
 | **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
-:::Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **⟪धा⟫** **dh** durch **d** ersetzt. Also:
+:::
+Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **⟪धा⟫** **dh** durch **d** ersetzt. Also:
 
 :::grammar-box
 **⟪दा⟫** 3U "geben"
@@ -175,13 +189,15 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Indikativ Präsens** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
 | **Imperfekt** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optativ** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
-:::## 33.5. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
+:::
+## 33.5. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
 
 :::grammar-box
 **Die Verben der 3. Klasse bilden alle Formen des Partizip Präsens Parasmaipada vom schwachen Stamm.**
 
 **Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.**
-:::**⟪दा⟫** Partizip Präsens Parasmaipada:
+:::
+**⟪दा⟫** Partizip Präsens Parasmaipada:
 
 :::grammar-box
 | | Maskulinum:br⟪पुंल्लिङ्ग⟫ | Neutrum:br⟪नपुंसकलिङ्ग⟫ | Femininum:br⟪स्त्रीलिङ्ग⟫ |
@@ -192,7 +208,8 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Plural** | | | |
 | **1. Nominativ** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
 | **2. Akkusativ** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
-:::Ähnlich **⟪जुह्वत्⟫** (juhu-at + s)
+:::
+Ähnlich **⟪जुह्वत्⟫** (juhu-at + s)
 
 ## 33.6. Wortliste
 
@@ -212,7 +229,8 @@ davon:
 ![](/images/lekt3306.webp)
 Abb.: ⟪दानम्⟫
 (Bildquelle: [Details](/licenses#lekt3306))
-:::**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
+:::
+**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
 
 :::indent
 **Absol.** ⟪आदाय⟫: mit Akk.: in Begleitung von, mit
@@ -220,7 +238,8 @@ Abb.: ⟪दानम्⟫
 ![](/images/lekt3307.webp)
 Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Bildquelle: [Details](/licenses#lekt3307))
-:::***⟪धा⟫*** 3U ***⟪दधाति⟫***: setzen, festsetzen, zuteilen
+:::
+***⟪धा⟫*** 3U ***⟪दधाति⟫***: setzen, festsetzen, zuteilen
 
 :::indent
 **Fut.** ***⟪धास्यति⟫***  
@@ -228,7 +247,8 @@ Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **Kaus.** ***⟪धापयति⟫***  
 **PPP** ***⟪हित⟫*** (!!)  
 **Inf.** ***⟪धातुम्⟫***
-:::**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
+:::
+**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
 
 :::indent
 davon:
@@ -238,7 +258,8 @@ davon:
 ![](/images/lekt3305.webp)
 Abb.: ⟪समाधि⟫
 (Bildquelle: [Details](/licenses#lekt3305))
-:::**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: füllen, erfüllen
+:::
+**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: füllen, erfüllen
 
 :::indent
 Merke:
@@ -251,7 +272,8 @@ Merke:
 **Pass.** ⟪पूर्यते⟫  
 **Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
 **PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
-:::**⟪पॄ⟫** + **⟪सम्⟫** nur **Pass.** ⟪सम्पूर्यते⟫ und **Kaus.**: gänzlich füllen
+:::
+**⟪पॄ⟫** + **⟪सम्⟫** nur **Pass.** ⟪सम्पूर्यते⟫ und **Kaus.**: gänzlich füllen
 
 **⟪भी⟫** 3P **⟪बिभेति⟫**: sich fürchten vor (Abl., Gen.)
 
@@ -269,7 +291,8 @@ davon:
 ![](/images/lekt3304.webp)
 Abb.: ⟪भयम्⟫
 (Bildquelle: [Details](/licenses#lekt3304))
-:::**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: tragen, bringen; erhalten, ernähren
+:::
+**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: tragen, bringen; erhalten, ernähren
 
 :::indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -281,7 +304,8 @@ Abb.: ⟪भयम्⟫
 davon:
 
 **⟪भार⟫** m.: Last
-:::**⟪मा⟫** 3Ā **⟪मिमीते⟫**: messen
+:::
+**⟪मा⟫** 3Ā **⟪मिमीते⟫**: messen
 
 :::indent
 **Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
@@ -289,7 +313,8 @@ davon:
 **Kaus.** ⟪मापयति⟫  
 **PPP** ⟪मित⟫  
 **Inf.** ⟪मातुम्⟫
-:::**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: vergleichen
+:::
+**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: vergleichen
 
 :::indent
 davon:
@@ -297,7 +322,8 @@ davon:
 **⟪उपमा⟫** f.: Vergleich
 
 **⟪प्रतिमा⟫** f.: Abbild
-:::**⟪हा⟫** 3P **⟪जहाति⟫**: verlassen
+:::
+**⟪हा⟫** 3P **⟪जहाति⟫**: verlassen
 
 :::indent
 **Fut.** ⟪हास्यति⟫  
@@ -312,7 +338,8 @@ von PPP **⟪हीन⟫**:
 ![](/images/lekt3303.webp)
 Abb.: ⟪हीनयानमेव⟫
 (Bildquelle: [Details](/licenses#lekt3303))
-:::**⟪हु⟫** 3P **⟪जुहोति⟫**: ins Feuer gießen (als Opfer, bes. Schmelzbutter)
+:::
+**⟪हु⟫** 3P **⟪जुहोति⟫**: ins Feuer gießen (als Opfer, bes. Schmelzbutter)
 
 :::indent
 **Fut.** ⟪होष्यति⟫  
@@ -324,13 +351,16 @@ Abb.: ⟪हीनयानमेव⟫
 ![](/images/lekt3302.webp)
 Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Bildquelle: [Details](/licenses#lekt3302))
-:::**⟪घृत⟫** n.: Schmelzbutter, Ghee (⟪घी⟫ / گھی / ঘী)
+:::
+**⟪घृत⟫** n.: Schmelzbutter, Ghee (⟪घी⟫ / گھی / ঘী)
 
-:::note-box
+:::
+note-box
 "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
 
 [Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
-:::## 33.7. Übung
+:::
+## 33.7. Übung
 
 A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in der Klammer ein:
 
@@ -366,7 +396,8 @@ C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekeh
 ![](/images/lekt3308.webp)
 Abb.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
 (Bildquelle: [Details](/licenses#lekt3308))
-:::⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
+:::
+⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
 
 ⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
 

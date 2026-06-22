@@ -87,7 +87,8 @@ B) Übersetzen Sie folgende Tatpuruṣa:
 ![](/images/uebung027.jpg)
 Abb.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
 (Bildquelle: [Details](/licenses#uebung027))
-:::---
+:::
+---
 
 ## Zusätzliche Übungen
 

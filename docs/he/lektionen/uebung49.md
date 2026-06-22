@@ -56,7 +56,8 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung078.webp)
 תמונה: ⟪गायी⟫
 (מקור התמונה: [פרטים](/licenses#uebung078))
-:::---
+:::
+---
 
 ## ⟪बाण⟫ (⟪७⟫. Jhdt. n. Chr.): ⟪कादम्बरी⟫
 

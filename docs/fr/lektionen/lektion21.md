@@ -32,7 +32,8 @@ Ce participe est une formation nominale à partir du thème de présent, c'est-�
 | | | thème de présent + **-nt-** + **-ī** (déclinaison comme **devī**:br⟪देवी⟫) |
 | | **6. classe de présent** | thème de présent + **-nt-** + **-ī**:brou ::brthème de présent + **-t-** + **-ī** |
 
-::::Exemples :
+::::
+Exemples :
 
 1\. Classe de présent :
 
@@ -51,7 +52,8 @@ Ce participe est une formation nominale à partir du thème de présent, c'est-�
 | | **3. Instrumental**:br⟪तृतीया⟫ | **⟪यजद्भिस्⟫**:brde yaja-t-bhis | **⟪यजद्भिस्⟫** | |
 | | **6. Génitif**:br⟪षष्ठी⟫ | **⟪यजताम्⟫**:bryaja-t-ām | **⟪यजताम्⟫** | |
 
-::::Notez l'identité de forme de **⟪यजन्ति⟫** (Nom. pl. Neutre) avec la 3. pl. P.!
+::::
+Notez l'identité de forme de **⟪यजन्ति⟫** (Nom. pl. Neutre) avec la 3. pl. P.!
 
 4\. Classe de présent
 
@@ -61,7 +63,8 @@ Ce participe est une formation nominale à partir du thème de présent, c'est-�
 *   Masculin Nom. sg. **⟪नृत्यन्⟫**
 *   Neutre Nom. Acc. sg. **⟪नृत्यत्⟫**
 *   Féminin Nom. sg. **⟪नृत्यन्ती⟫**
-:::6\. Classe de présent
+:::
+6\. Classe de présent
 
 :::indent
 **⟪विशन्त्⟫** « entrant »
@@ -79,7 +82,8 @@ Ce participe est une formation nominale à partir du thème de présent, c'est-�
 | **Féminin** | | |
 | | | thème de présent + **-at-** + **-ī** (déclinaison comme **devī**:br⟪देवी⟫) |
 
-::::2\. Classe de présent :
+::::
+2\. Classe de présent :
 
 :::indent
 **⟪अस्⟫** « être » : **⟪सन्त्⟫** « étant, véritable, bon, vrai »
@@ -103,7 +107,8 @@ Ce participe est une formation nominale à partir du thème de présent, c'est-�
 Fig. : Plaque commémorative ⟪सती⟫
 Plaque commémorative de ⟪सती⟫ au palais de Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2101))
-:::5\. Classe de présent :
+:::
+5\. Classe de présent :
 
 :::indent
 **⟪सु⟫** « presser » : **⟪सुन्वन्त्⟫**
@@ -111,7 +116,8 @@ Plaque commémorative de ⟪सती⟫ au palais de Jodhpur - ⟪जोधप�
 *   Masculin Nom. sg. **⟪सुन्वन्⟫**
 *   Neutre Nom. Acc. sg. **⟪सुन्वत्⟫**
 *   Féminin Nom. sg. **⟪सुन्वती⟫**
-:::8\. Classe de présent
+:::
+8\. Classe de présent
 
 :::indent
 **⟪कृ⟫** « faire » : **⟪कुर्वन्त्⟫**
@@ -119,7 +125,8 @@ Plaque commémorative de ⟪सती⟫ au palais de Jodhpur - ⟪जोधप�
 *   Masculin Nom. sg. **⟪कुर्वन्⟫**
 *   Neutre Nom. Acc. sg. **⟪कुर्वत्⟫**
 *   Féminin Nom. sg. **⟪कुर्वती⟫**
-:::### 21.1.2. ⟪महान्त्⟫ « grand »
+:::
+### 21.1.2. ⟪महान्त्⟫ « grand »
 
 ::::grammar-box
 
@@ -161,7 +168,8 @@ Fig. : ⟪महादेवो⟫ ⟪विष्णुः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2102))
 ::::::indent
 « Sceau en sardoine du 4e au 6e siècle de notre ère représentant Vishnu avec un adorateur. L'inscription en bactrien cursif lit : « Mihira, Vishnu et Shiva ». »
-:::## 21.2. Sandhi pour les nasales finales
+:::
+## 21.2. Sandhi pour les nasales finales
 
 ::::grammar-box
 **Après une voyelle brève, les nasales finales – sauf -m – sont doublées devant une voyelle initiale.**
@@ -170,30 +178,36 @@ Fig. : ⟪महादेवो⟫ ⟪विष्णुः⟫
 
 :::indent
 **⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** « l'ennemi vainqueur »
-:::::::## 21.3. Formes polies d'adresse
+:::::::
+## 21.3. Formes polies d'adresse
 
 ::::grammar-box
 **On peut en sanskrit, sans être impoli, s'adresser à quelqu'un à la 2e personne du singulier. Mais si l'on veut être poli, on peut utiliser un nom dont le sens est « Vénérable » et autres, et mettre le verbe à la 3e personne du singulier ou du pluriel, ou bien utiliser une construction passive. L'augmentation de la politesse dans l'usage de la personne lors de l'adresse est à peu près la suivante :**
 
 :::indent
 **2e sg. » 2e pl. » 3e sg. avec nom correspondant » 3e pl. avec nom corresp.**
-:::**Le nom de politesse le plus important est ⟪भवन्त्⟫ , fém. : ⟪भवती⟫ . Il correspond dans son usage à notre « Vous » poli.**
-::::Ce **⟪भवन्त्⟫** est une contraction de **⟪भगवन्त्⟫**, sa déclinaison est celle des noms en **-vant** (voir [Leçon 13](lektion13.md)). Ce **⟪भवन्त्⟫** doit être distingué du participe présent P de **⟪भू⟫** « devenir » **⟪भवन्त्⟫** : le nom. sg. masc. de **⟪भवन्त्⟫** « Vous » est **⟪भवान्⟫**, celui du participe **⟪भवन्⟫**. 
+:::
+**Le nom de politesse le plus important est ⟪भवन्त्⟫ , fém. : ⟪भवती⟫ . Il correspond dans son usage à notre « Vous » poli.**
+::::
+Ce **⟪भवन्त्⟫** est une contraction de **⟪भगवन्त्⟫**, sa déclinaison est celle des noms en **-vant** (voir [Leçon 13](lektion13.md)). Ce **⟪भवन्त्⟫** doit être distingué du participe présent P de **⟪भू⟫** « devenir » **⟪भवन्त्⟫** : le nom. sg. masc. de **⟪भवन्त्⟫** « Vous » est **⟪भवान्⟫**, celui du participe **⟪भवन्⟫**. 
 
 **Exemples :**
 
 :::indent
 **⟪किं⟫ ⟪भवान्करोति⟫** = **⟪किं⟫ ⟪भवता⟫ ⟪क्रियते⟫** = « Que faites-vous ? »
-:::plus poli :
+:::
+plus poli :
 
 :::indent
 **⟪किं⟫ ⟪भवन्तः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवद्भिः⟫ ⟪क्रियते⟫**
-:::féminin :
+:::
+féminin :
 
 :::indent
 **⟪किं⟫ ⟪भवती⟫ ⟪करोति⟫** = **⟪किं⟫ ⟪भवत्या⟫ ⟪क्रियते⟫**  
 **⟪किं⟫ ⟪भवत्यः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवतीभिः⟫ ⟪क्रियते⟫**
-:::D'autres mots, qui peuvent être utilisés de manière similaire à **⟪भवन्त्⟫** :
+:::
+D'autres mots, qui peuvent être utilisés de manière similaire à **⟪भवन्त्⟫** :
 
 *   **⟪आर्य⟫** (f. : **⟪आर्या⟫**) « Noble ». par ex. **⟪यदार्य⟫ ⟪इच्छति⟫** « Ce que vous souhaitez »
 *   **⟪महाभाग⟫** « celui dont la part / le bonheur est grand = Noble ». Souvent utilisé par les femmes dans l'adresse ou en parlant d'hommes de bon rang. Très fréquent en sanskrit parlé moderne.
@@ -203,7 +217,8 @@ Si l'on veut exprimer non seulement la politesse, mais aussi le respect pour que
 :::indent
 **⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = « La dame gracieuse (ici présente) est-elle votre épouse ? »  
 **⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫** (dans une lettre ou une conversation téléphonique) = « Comment allez-vous ? »
-:::## 21.4. Liste de mots
+:::
+## 21.4. Liste de mots
 
 **⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** attribuer à quelqu'un (Acc.), échoir, aimer quelqu'un, honorer, vénérer
 
@@ -228,7 +243,8 @@ Fig. : ⟪भगवद्गीता⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2105))
 ::::::indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (en réalité un desideratif de ⟪भज्⟫ : souhaiter que l'on participe) : mendier
-:::dont :
+:::
+dont :
 
 :::indent
 **⟪भिक्षु⟫ m.** : mendiant, moine
@@ -237,11 +253,13 @@ Fig. : ⟪भगवद्गीता⟫
 Fig. : ⟪भिक्षवः⟫
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Source de l'image : [Détails](/fr/licenses#lekt2104))
-:::**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** perdre (intransitif), devenir mauvais, être déshonoré
+:::
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** perdre (intransitif), devenir mauvais, être déshonoré
 
 :::indent
 **⟪दोष⟫ m.** : erreur
-:::**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (pas de PPP, mais ⟪पक्व⟫ 3 : cuit, fermenté) Absol. ⟪पक्त्वा⟫ :** cuire (transitif) = bouillir, frire, griller, etc.
+:::
+**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (pas de PPP, mais ⟪पक्व⟫ 3 : cuit, fermenté) Absol. ⟪पक्त्वा⟫ :** cuire (transitif) = bouillir, frire, griller, etc.
 
 ## 21.5. Exercice
 

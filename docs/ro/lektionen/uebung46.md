@@ -66,7 +66,8 @@ A) Determinați și traduceți următoarele forme:
 | ⟪५०⟫. **⟪ददाने⟫** | ⟪दा⟫ (3U) Part. Präs. Ā. Lok. sg. m./n. | în cel care dăruiește |
 | ⟪५१⟫. **⟪सुषुपुः⟫** | ⟪स्वप्⟫ (2P) 3. pl. P. Perf. | au dormit |
 | ⟪५२⟫. **⟪ऊसु⟫** | ⟪वस्⟫ (1P) 2. pl. P. Perf. | ați locuit |
-:::---
+:::
+---
 
 ## Proverbe (⟪सुभाषितानि⟫)
 

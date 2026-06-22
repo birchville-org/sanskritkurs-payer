@@ -128,7 +128,8 @@ D) Formare le costruzioni passive alle frasi formate in C)
 ![](/images/uebung022.webp)
 Fig.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung022))
-:::---
+:::
+---
 
 ## Esercizi aggiuntivi
 

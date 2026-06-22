@@ -59,7 +59,8 @@ If kings do not uphold justice and custom, the people are full of fear.
 ![](/images/uebung063.webp)
 Fig.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Image source: [Details](/en/licenses#uebung063))
-:::---
+:::
+---
 
 ## Narrative: Ten Fools (⟪दश⟫ ⟪मूढाः⟫)
 

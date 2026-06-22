@@ -22,7 +22,8 @@ features:
     details: अधिकगतिना VitePress आधारस्य निर्मितम्।
 ---
 
-:::tip Version 1.5 — Hebrew Translation & Typography
+:::
+tip Version 1.5 — Hebrew Translation & Typography
 **v1.5 (जून 2026) मध्ये नूतनम्:**
 
 - **नूतनभाषा (हिब्रू):** सम्पूर्णपाठः हिब्रूभाषायामपि उपलब्धः (RTL समर्थनसहितम्)।

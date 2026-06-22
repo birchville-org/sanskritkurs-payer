@@ -18,7 +18,8 @@ status: stable
 | **1. ⟪तृतीयः⟫** | -vas | -vahe ||
 | **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
 | **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
-:::## 58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
+:::
+## 58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
 
 Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt.
 
@@ -47,7 +48,8 @@ Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt.
 Abb.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
 (Bildquelle: [Details](/licenses#lekt5802))
-:::### 58.2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
+:::
+### 58.2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
 
 ⟪तुद्⟫ 6U "stoßen, schlagen"
 
@@ -57,7 +59,8 @@ Abb.: ⟪नृत्यतः⟫
 | 1\. ⟪तृतीयः⟫ | ⟪तुदावस्⟫ | ⟪तुदावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
-:::### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
+:::
+### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U "stehlen"
 
@@ -72,7 +75,8 @@ Abb.: ⟪नृत्यतः⟫
 Abb.: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪चोरयतः⟫
 Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 (Bildquelle: [Details](/licenses#lekt5803))
-:::## 58.3. Der Dual des einfachen Futurs (⟪ऌत्⟫)
+:::
+## 58.3. Der Dual des einfachen Futurs (⟪ऌत्⟫)
 
 ### 58.3.1. ⟪अनिट्⟫
 
@@ -84,7 +88,8 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 1\. ⟪तृतीयः⟫ | ⟪दास्यावस्⟫ | ⟪दास्यावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪दास्यथस्⟫ | ⟪दास्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दास्यतस्⟫ | ⟪दास्येते⟫ |
-:::### 58.3.2. ⟪सेट्⟫
+:::
+### 58.3.2. ⟪सेट्⟫
 
 ⟪भू⟫ 1P "werden, sein"
 
@@ -94,7 +99,8 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 1\. ⟪तृतीयः⟫ | ⟪भविष्यावस्⟫ | ⟪भविष्यावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
-:::## 58.4. Der Dual Passiv (Suffix -⟪यक्⟫)
+:::
+## 58.4. Der Dual Passiv (Suffix -⟪यक्⟫)
 
 ⟪तुद्⟫ 6U "stoßen, schlagen"
 
@@ -103,7 +109,8 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | --- | --- |
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
-:::## 58.5. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
+:::
+## 58.5. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
 
 ### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
 
@@ -115,7 +122,8 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 1\. ⟪तृतीयः⟫ | ⟪द्विष्वस्⟫ | ⟪द्विष्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्ठस्⟫ | ⟪द्विषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪द्विष्टस्⟫ | ⟪द्विषाते⟫ |
-:::⟪दुह्⟫ 2U "melken"
+:::
+⟪दुह्⟫ 2U "melken"
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -123,7 +131,8 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 1\. ⟪तृतीयः⟫ | ⟪दुह्वस्⟫ | ⟪दुह्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ***⟪दुग्धस्⟫*** | ⟪दुहाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ***⟪दुग्धस्⟫*** | ⟪दुहाते⟫ |
-:::⟪इ⟫ 2P "gehen"
+:::
+⟪इ⟫ 2P "gehen"
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -135,7 +144,8 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 ![](/images/lekt5806.webp)
 Abb.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 (Bildquelle: [Details](/licenses#lekt5806))
-:::⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren"
+:::
+⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren"
 
 :::grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -147,7 +157,8 @@ Abb.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 ![](/images/lekt5804.webp)
 Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
 (Bildquelle: [Details](/licenses#lekt5804))
-:::⟪हन्⟫ 2P "erschlagen"
+:::
+⟪हन्⟫ 2P "erschlagen"
 
 :::grammar-box
 |   | **⟪परस्मैपदम्⟫** |
@@ -155,7 +166,8 @@ Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
 | **1. ⟪तृतीयः⟫** | ⟪हन्वस्⟫ |
 | **2. ⟪मध्यमः⟫** | ***⟪हथस्⟫*** :br*hn-thas |
 | **3. ⟪प्रथमः⟫** | ***⟪हतस्⟫*** |
-:::⟪अस्⟫ 2P "sein"
+:::
+⟪अस्⟫ 2P "sein"
 
 :::grammar-box
 |   | **⟪परस्मैपदम्⟫** |
@@ -167,7 +179,8 @@ Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
 ![](/images/lekt5805.webp)
 Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 (Bildquelle: [Details](/licenses#lekt5805))
-:::### 58.5.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
+:::
+### 58.5.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
 
 ⟪हु⟫ 3P "ins Opferfeuer gießen"
 
@@ -177,7 +190,8 @@ Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 | 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | &lt;⟪जुहुवहे⟫&gt; |
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | &lt;⟪जुह्वाथे⟫&gt; |
 | 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | &lt;⟪जुह्वाते⟫&gt; |
-:::⟪धा⟫ 3U "setzen, legen, stellen"
+:::
+⟪धा⟫ 3U "setzen, legen, stellen"
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -185,7 +199,8 @@ Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 | 1\. ⟪तृतीयः⟫ | ⟪दध्वस्⟫ | ⟪दध्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪धत्थस्⟫ | ⟪दधाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्तस्⟫ | ⟪दधाते⟫ |
-:::### 58.5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+:::
+### 58.5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
 
 ⟪सु⟫ 5U "auspressen"
 
@@ -200,7 +215,8 @@ Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
 (Bildquelle: [Details](/licenses#lekt5807))
-:::### 58.5.4. Achte Präsensklasse (⟪तनादिगणः⟫)
+:::
+### 58.5.4. Achte Präsensklasse (⟪तनादिगणः⟫)
 
 ⟪तन्⟫ 8U "aufspannen"
 
@@ -210,7 +226,8 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 1\. ⟪तृतीयः⟫ | ⟪तनुवस्⟫ / ⟪तन्वस्⟫ | ⟪तनुवहे⟫ / ⟪तन्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तनुथस्⟫ | ⟪तन्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुतस्⟫ | ⟪तन्वाते⟫ |
-:::⟪कृ⟫ 8U "tun, machen"
+:::
+⟪कृ⟫ 8U "tun, machen"
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -218,7 +235,8 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 1\. ⟪तृतीयः⟫ | ⟪कुर्वस्⟫ | ⟪कुर्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुथस्⟫ | ⟪कुर्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुरुतस्⟫ | ⟪कुर्वाते⟫ |
-:::### 58.5.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
+:::
+### 58.5.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
 
 ⟪रुध्⟫ 7U "stoppen"
 
@@ -228,7 +246,8 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्वस्⟫ | ⟪रुन्ध्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ***⟪रुन्द्धस्⟫*** | ⟪रुन्धाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धस्⟫ | ⟪रुन्धाते⟫ |
-:::⟪युज्⟫ 7U "anschirren"
+:::
+⟪युज्⟫ 7U "anschirren"
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -236,7 +255,8 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्वस्⟫ | ⟪युञ्ज्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्थस्⟫ | ⟪युञ्जाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्तस्⟫ | ⟪युञ्जाते⟫ |
-:::### 58.5.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
+:::
+### 58.5.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
 
 ⟪क्री⟫ 9U "kaufen"
 
@@ -250,7 +270,8 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ![](/images/lekt5801.webp)
 Abb.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Bildquelle: [Details](/licenses#lekt5801))
-:::## 58.6. Aorist 5: iṣ-Aorist
+:::
+## 58.6. Aorist 5: iṣ-Aorist
 
 :::grammar-box
 **Der iṣ-Aorist wird von allen seṭ-Wurzeln gebildet, für die nicht ausdrücklich ausschließlich eine andere Form des Aorist gelehrt wird.**
@@ -260,7 +281,8 @@ Abb.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
 **Augment + Wurzel + i + s + athematische Sekundärendung**
 
 **!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Wurzelaorist-Formen).
-:::Stammbildungssuffix + Endungen des iṣ-Aorist lauten also:
+:::
+Stammbildungssuffix + Endungen des iṣ-Aorist lauten also:
 
 :::grammar-box
 
@@ -296,7 +318,8 @@ Abb.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
     ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
     aber:  
     ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
-:::Paradigmen:
+:::
+Paradigmen:
 
 ⟪पू⟫ 9U "reinigen"
 
@@ -307,7 +330,8 @@ Abb.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
 | **1. ⟪तृतीयः⟫** | ⟪अपाविषम्⟫ | ⟪पाविष्म⟫ | ⟪अपविषि⟫ | ⟪अपविष्महि⟫ |
 | **2. ⟪द्वितीयः⟫** | ⟪अपावीस्⟫ | ⟪अपाविष्ट⟫ | ⟪अपविष्ठास्⟫ | ⟪अपविध्वम्⟫ / :br⟪अपविढ्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अपावीत्⟫ | ⟪अपाविषुर्⟫ | ⟪अपविष्ट⟫ | ⟪पविषत⟫ |
-:::⟪बुध्⟫ 1U "erwachen, erkennen"
+:::
+⟪बुध्⟫ 1U "erwachen, erkennen"
 
 :::indent
 |   | **⟪परस्मैपदम्⟫** ||
@@ -316,7 +340,8 @@ Abb.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
 | **1. ⟪तृतीयः⟫** | ⟪अबोधिषम्⟫ | ⟪अबोधिष्म⟫ |
 | **2. ⟪द्वितीयः⟫** | ⟪अबोधीस्⟫ | ⟪अबोधिष्ट⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अबोधीत्⟫ | ⟪अबोधिषुर्⟫ |
-:::⟪कॢप्⟫ 1Ā "passend sein"
+:::
+⟪कॢप्⟫ 1Ā "passend sein"
 
 :::indent
 |   | **⟪आत्मनेपदम्⟫** ||
@@ -343,7 +368,8 @@ Abb.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
 ![](/images/lekt5808.webp)
 Abb.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#lekt5808))
-:::## 58.7. Übung
+:::
+## 58.7. Übung
 
 A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Formen des i-Aorist:
 

@@ -16,7 +16,8 @@ status: stable
 - Legea cerebrale pentru -n- (Wortsandhi)
 - Formarea pasivului (yak) la indicativul prezent
 - Vocabular referitor la jertfă, adevăr și roluri sociale
-:::## 10.1. Propoziția pasivă
+:::
+## 10.1. Propoziția pasivă
 
 :::grammar-box
 **Schema:**
@@ -40,11 +41,14 @@ La propoziția activă **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग�
 **Verbele intranzitive (verbe fără obiect direct) au adesea construcții pasive, în special în cereri politicoase:**
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Se rogă să intre = Te rog să intri = Intrați!"
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = "Se rogă să se așeze = Te rog să te așezi = Te rog să iei loc"
-:::Construcțiile pasive sanscrite sunt extrem de frecvente: pasivul este, de asemenea, mai ușor de format decât, de exemplu, numeroasele rădăcini de prezent.
+:::
+Construcțiile pasive sanscrite sunt extrem de frecvente: pasivul este, de asemenea, mai ușor de format decât, de exemplu, numeroasele rădăcini de prezent.
 
-:::important
+:::
+important
 **Propozițiile pasive sanscrite nu trebuie, în general, redate în germană printr-o propoziție pasivă, deoarece pasivul german are o funcție stilistică complet diferită.**
-:::---
+:::
+---
 
 ## 10.2. Instrumentalul (tṛtīyā f. = ⟪तृतीया⟫ = "a trecea terminație de caz")
 
@@ -95,7 +99,8 @@ La propoziția activă **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग�
 | | F | **anayā / enayā**:br⟪अनया⟫ / ⟪एनया⟫ | **ābhis**:br⟪आभिस्⟫ |
 ::::::deleteme-box
 Î afară de Nominativ și Acuzativ, formele Neutrelor în -a, ale pronumelui interogativ și ale pronumelor demonstrative sunt identice cu formele corespunzătoare ale Masculinului.
-:::---
+:::
+---
 
 ### 10.2.1. Despre utilizarea instrumentalului (tṛtīyā = ⟪तृतीया⟫)
 
@@ -111,7 +116,8 @@ La propoziția activă **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग�
 3. **pentru a indica calea pe care cineva ajunge undeva**
 4. **pentru a exprima conexiunea, unirea, însoțirea de**
 5. **înaintea postpozițiilor cu sensul "împreună cu, cu"; de ex. saha = ⟪सह⟫ = "cu"**:brde ex.:br**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "împreună cu brahmanul"
-:::Alte utilizări ale instrumentalului (tṛtīyā) vor urma mai târziu.
+:::
+Alte utilizări ale instrumentalului (tṛtīyā) vor urma mai târziu.
 
 ---
 
@@ -119,7 +125,8 @@ La propoziția activă **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग�
 
 :::grammar-box
 Un **-n-**, urmat de o vocală sau **n, m, y, v**, este înlocuit cu **-ṇ-**, dacă **ṛ, ṝ, r, ṣ** din cuvânt precedă **-n-** sau dacă nu există niciun alt sunet decât vocale, guturale, labiale, **y, v, h** sau Anusvāra între aceste sunete și următorul **-n-** din cuvânt.
-:::**Prin urmare:**
+:::
+**Prin urmare:**
 
 :::grammar-box
 | | Instrumental Singular |
@@ -129,7 +136,8 @@ Un **-n-**, urmat de o vocală sau **n, m, y, v**, este înlocuit cu **-ṇ-**, 
 | **īśvara**:br⟪ईश्वर⟫ | **īśvereṇa**:br⟪ईश्वरेण⟫ |
 | **kṣatriya**:br⟪क्षत्रिय⟫ | **kṣatriyeṇa**:br⟪क्षत्रियेण⟫ |
 | **naraka**:br⟪नरक⟫ | **narakeṇa**:br⟪नरकेण⟫ |
-:::**La fel, și -ṇ- trebuie explicat în:**
+:::
+**La fel, și -ṇ- trebuie explicat în:**
 
 :::indent
 **śravaṇa** ⟪श्रवण⟫
@@ -139,14 +147,16 @@ Un **-n-**, urmat de o vocală sau **n, m, y, v**, este înlocuit cu **-ṇ-**, 
 **kāraṇa** ⟪कारण⟫
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
-:::---
+:::
+---
 
 ## 10.4. Pasivul, Indicativ Prezent (yak = ⟪यक्⟫)
 
 :::grammar-box
 **Formare:**
 **(de obicei) rădăcină la gradul redus + -ya- + terminație Ātmanepada**
-:::de ex.
+:::
+de ex.
 
 | Rădăcină:br⟪धातु⟫ | Pers. a 3-a sg. Pas. Prez. Ind.:br⟪यक्⟫ ⟪लट्⟫ | Pers. a 3-a pl. Pas. Prez. Ind.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
@@ -220,7 +230,8 @@ Un **-n-**, urmat de o vocală sau **n, m, y, v**, este înlocuit cu **-ṇ-**, 
   :::- **pāpa** n. ⟪पाप⟫ : faptă rea, rău (opusul lui **puṇya**)
 - **satya** n. ⟪सत्य⟫ : adevăr
 
-:::note-box
+:::
+note-box
 În India, se atribuia cuvântului adevărat o putere magică; ba chiar întreaga ordine cosmică este menținută și creată de cuvântul adevărat. Pentru această concepție importantă, consultați lucrarea fundamentală:
 
 Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Editat din arhivă de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
@@ -228,7 +239,8 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Editat din arh
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt1003))
-:::- **anṛta** n. ⟪अनृत⟫ : minciună, falsitate (opusul lui **satya**)
+:::
+- **anṛta** n. ⟪अनृत⟫ : minciună, falsitate (opusul lui **satya**)
 
   :::note-box
   Derivare **an-** („ne-“) + **ṛta** n.
@@ -242,7 +254,8 @@ Fig.: ⟪वरुणः⟫
 ![](/images/lekt1002.jpg)
 Fig.: ⟪विश्वामित्रः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt1002))
-:::- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : a spune, a vorbi
+:::
+- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : a spune, a vorbi
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : a întreba (pe cineva: Acuzativ; despre ceva: Acuzativ)
 - **saha** ⟪सह⟫ : împreună cu, alături de (și în contextul „a lupta cu” etc.) (Postpoziție cu Instrumental)
 
@@ -305,7 +318,8 @@ Fig.: ⟪विश्वामित्रः⟫
 ![](/images/lekt1004.jpg)
 Fig.: ⟪तन्तुवायः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1004))
-:::5. Învățătorii întreabă. (Construcție pasivă)
+:::
+5. Învățătorii întreabă. (Construcție pasivă)
 6. Ochii conduc. (Construcție pasivă)
 7. Poetul vede o zeitate. (Construcție pasivă)
 8. Cine (fem.) păzește fata? (Construcție pasivă)
@@ -350,12 +364,14 @@ Fig.: ⟪तन्तुवायः⟫
 **⟪क⟫**
 
 ⟪१⟫.
-:::center
+:::
+center
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
 ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
-:::⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
+:::
+⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
 ⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ | |
 ⟪४⟫. ⟪ऋषयः⟫ ⟪सूक्तानि⟫ ⟪पश्यन्ति⟫ | |
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ | |

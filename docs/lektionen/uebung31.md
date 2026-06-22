@@ -33,7 +33,8 @@ Ein Verblendeter genießt gute Speisen und schöne Frauen. Wessen Verblendung ve
 ![](/images/uebung049.webp)
 Abb.: ⟪कुलबन्धनम्⟫
 (Bildquelle: [Details](/licenses#uebung049))
-:::---
+:::
+---
 
 ## Verbparadigmen (7. Klasse)
 

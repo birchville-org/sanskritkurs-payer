@@ -12,16 +12,19 @@ lesson_id: 53
 
 :::indent
 **⟪अश्विनौ⟫** "die beiden Aśvin"
-:::**Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:**
+:::
+**Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:**
 
 :::indent
 **⟪हस्तौ⟫** "die Hände (eines Individuums)"
 **⟪पादौ⟫** "die Füße (eines Menschen, Affen oder sonstigen Zweifüßers)"
-:::**Manchmal bezeichnet der Dual ein männliches plus ein weibliches Exemplar derselben Klasse (Art, Gattung):**
+:::
+**Manchmal bezeichnet der Dual ein männliches plus ein weibliches Exemplar derselben Klasse (Art, Gattung):**
 
 :::indent
 **⟪पितरौ⟫** "Vater und Mutter = Eltern"
-:::**Wörter, die "ein Paar" bedeuten - z.B. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:**
+:::
+**Wörter, die "ein Paar" bedeuten - z.B. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:**
 
 :::indent
 **⟪बाहुद्वयम्⟫** "ein Paar Arme"
@@ -33,7 +36,8 @@ Abb.: ⟪मार्जारयुगम्⟫
 ![](/images/lekt5302.webp)
 Abb.: ⟪हस्तौ⟫
 (Bildquelle: [Details](/licenses#lekt5302))
-:::## 53.2. Dualendungen des Nomen
+:::
+## 53.2. Dualendungen des Nomen
 
 :::grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
@@ -43,7 +47,8 @@ Abb.: ⟪हस्तौ⟫
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
 ::::::grammar-box
 **Bei Nomina mit Stammabstufung haben der Nom.Akk.Vok.Dual m.f. den starken Stamm**
-:::## 53.3. Der Dual konsonantisch auslautender Stämme
+:::
+## 53.3. Der Dual konsonantisch auslautender Stämme
 
 ### 53.3.1. Stämme ohne Stammabstufung
 
@@ -55,7 +60,8 @@ Abb.: ⟪हस्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ ||
-:::⟪बलिन⟫ 3 "(besonders) stark"
+:::
+⟪बलिन⟫ 3 "(besonders) stark"
 
 :::grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
@@ -63,7 +69,8 @@ Abb.: ⟪हस्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ ||
-:::⟪सुमनस्⟫ 3 "wohlgesinnt"
+:::
+⟪सुमनस्⟫ 3 "wohlgesinnt"
 
 :::grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
@@ -71,7 +78,8 @@ Abb.: ⟪हस्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ ||
-:::⟪हविस्⟫ n. "Opfergabe"
+:::
+⟪हविस्⟫ n. "Opfergabe"
 
 :::grammar-box
 |   | Neutrum :br ⟪नपुंसक⟫ |
@@ -79,7 +87,8 @@ Abb.: ⟪हस्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪हविषोस्⟫ |
-:::⟪दीर्घायुस्⟫ 3 "langlebig"
+:::
+⟪दीर्घायुस्⟫ 3 "langlebig"
 
 :::grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
@@ -87,7 +96,8 @@ Abb.: ⟪हस्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
-:::### 53.3.2. Stämme mit Stammabstufung
+:::
+### 53.3.2. Stämme mit Stammabstufung
 
 **Partizip Präsens Parasmaipada**
 
@@ -103,7 +113,8 @@ Abb.: ⟪हस्तौ⟫
 ![](/images/lekt5305.webp)
 Abb.: ⟪भरन्तौ⟫
 (Bildquelle: [Details](/licenses#lekt5305))
-:::⟪ददत्⟫ 3 "gebend"
+:::
+⟪ददत्⟫ 3 "gebend"
 
 :::grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
@@ -111,7 +122,8 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
-:::**Stämme auf -mant/-vant**
+:::
+**Stämme auf -mant/-vant**
 
 ⟪पशुमन्त्⟫ 3 "Vieh besitzend"
 
@@ -121,7 +133,8 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ ||
-:::⟪महान्त्⟫ 3 "groß"
+:::
+⟪महान्त्⟫ 3 "groß"
 
 :::grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
@@ -129,7 +142,8 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ ||
-:::⟪आत्मन्⟫ m.
+:::
+⟪आत्मन्⟫ m.
 
 :::grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ |
@@ -137,7 +151,8 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪आत्मनोस्⟫ |
-:::⟪ब्रह्मन्⟫ n.
+:::
+⟪ब्रह्मन्⟫ n.
 
 :::grammar-box
 |   | Neutrum :br ⟪नपुंसक⟫ |
@@ -145,7 +160,8 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ब्रह्मणोस्⟫ |
-:::⟪राजन्⟫ m. "König"
+:::
+⟪राजन्⟫ m. "König"
 
 :::grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ |
@@ -153,7 +169,8 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪राज्ञोस्⟫ |
-:::⟪सीमन्⟫ f. "Grenze"
+:::
+⟪सीमन्⟫ f. "Grenze"
 
 :::grammar-box
 |   | Femininum :br ⟪स्त्री⟫ |
@@ -161,7 +178,8 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सीम्नोस्⟫ |
-:::⟪नामन्⟫ n. "Name"
+:::
+⟪नामन्⟫ n. "Name"
 
 :::grammar-box
 |   | Neutrum :br ⟪नपुंसक⟫ |
@@ -169,7 +187,8 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br ***⟪नामानी⟫*** |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
-:::## 53.4. Der Dual vokalisch auslautender Stämme
+:::
+## 53.4. Der Dual vokalisch auslautender Stämme
 
 **Stämme auf -a**
 
@@ -186,7 +205,8 @@ Abb.: ⟪भरन्तौ⟫
 ![](/images/lekt5306.webp)
 Abb.: ⟪फले⟫
 (Bildquelle: [Details](/licenses#lekt5306))
-:::**Stämme auf -i**
+:::
+**Stämme auf -i**
 
 ⟪अग्नि⟫ m. "Feuer"  
 ⟪वारि⟫ n. "Wasser"  
@@ -198,7 +218,8 @@ Abb.: ⟪फले⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪अग्नी⟫*** | ***⟪मती⟫*** | ⟪वारिणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
-:::**Stämme auf -u**
+:::
+**Stämme auf -u**
 
 ⟪शत्रु⟫ m.  
 ⟪धिनु⟫ f.  
@@ -214,7 +235,8 @@ Abb.: ⟪फले⟫
 ![](/images/lekt5307.webp)
 Abb.: ⟪धेनू⟫
 (Bildquelle: [Details](/licenses#lekt5307))
-:::**Stämme auf -ā**
+:::
+**Stämme auf -ā**
 
 ⟪कन्या⟫ f. "Mädchen"
 
@@ -224,7 +246,8 @@ Abb.: ⟪धेनू⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪कन्ये⟫*** |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ***⟪कन्ययोस्⟫*** |
-:::**Mehrsilbige Stämme auf -ī**
+:::
+**Mehrsilbige Stämme auf -ī**
 
 ⟪देवी⟫ f. "Göttin"
 
@@ -234,7 +257,8 @@ Abb.: ⟪धेनू⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ |
-:::**Stämme auf -ṛ**
+:::
+**Stämme auf -ṛ**
 
 ⟪दातृ⟫ 3 "Geber"
 
@@ -244,7 +268,8 @@ Abb.: ⟪धेनू⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | ***⟪दातृणी⟫***
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
-:::⟪पितृ⟫ m. "Vater"
+:::
+⟪पितृ⟫ m. "Vater"
 
 :::grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ |
@@ -252,7 +277,8 @@ Abb.: ⟪धेनू⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
-:::## 53.5. Dualdvandva
+:::
+## 53.5. Dualdvandva
 
 Beispiele:
 
@@ -266,21 +292,25 @@ Beispiele:
 
 :::indent
 ⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ "Mutter und Vater"
-:::**Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -⟪पुत्र⟫ :**
+:::
+**Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -⟪पुत्र⟫ :**
 
 :::indent
 **⟪पितापुत्रौ⟫** "Vater und Sohn"
-:::**Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:**
+:::
+**Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:**
 
 :::indent
 ⟪मि⟫***⟪त्रा⟫***⟪वरुणौ⟫ "Mitra und Varuṇa"
 **⟪अग्नीसोमौ⟫** "Agni und Soma"
-:::**Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.**
+:::
+**Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.**
 ::::::media
 ![](/images/lekt5308.webp)
 Abb.: ⟪पितापुत्रौ⟫
 (Bildquelle: [Details](/licenses#lekt5308))
-:::## 53.6. Der Dual von Pronomina
+:::
+## 53.6. Der Dual von Pronomina
 
 :::grammar-box
 |   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
@@ -299,7 +329,8 @@ Abb.: ⟪पितापुत्रौ⟫
 | **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
 | **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
 |   | Rest wie Maskulinum ||||||||
-:::⟪कतर⟫ 3 "wer von beiden" und ⟪कतम⟫ 3 "wer von mehreren" werden in allen Kasus wie ⟪यद्⟫ dekliniert.
+:::
+⟪कतर⟫ 3 "wer von beiden" und ⟪कतम⟫ 3 "wer von mehreren" werden in allen Kasus wie ⟪यद्⟫ dekliniert.
 
 ## 53.7. Pronominaladjektive
 
@@ -334,18 +365,21 @@ Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lo
 **Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.**
 
 **Deklination von -īyas siehe unten.**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 | Wurzel | Adjektiv | Komparativ | Superlativ |
 | --- | --- | ---
 | ⟪क्षिप्⟫ 6P "werfen" | ⟪क्षिप्र⟫ 3 "schnell" | ***⟪क्षेपीयस्⟫*** 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | ***⟪क्षेपिष्ठ⟫*** 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
 | ⟪स्था⟫ 1P "stehen" | ⟪स्थिर⟫ 3 "beständig, fest" | ***⟪स्थेयस्⟫*** 3 "fester" :br ⟪स्थिरतर⟫ 3 | ***⟪स्थेष्ठ⟫*** 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
-:::**Besondere Regeln für die Anfügung dieser Suffixe:**
+:::
+**Besondere Regeln für die Anfügung dieser Suffixe:**
 
 :::grammar-box
 **Regel 1:** **Der auslautende Vokal eines mehrsilbigen Maskulinstammes oder der auslautende Vokal und der vorausgehende Vokal fallen ab.**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 | Adjektiv | Komparativ | Superlativ |
@@ -354,7 +388,8 @@ Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lo
 | ⟪महान्त्⟫ 3 "groß" | ⟪म⟫***⟪ही⟫***⟪यस्⟫ | ⟪म⟫***⟪हि⟫***⟪ष्ठ⟫ |
 ::::::grammar-box
 **Regel 2:** **Possessivsuffixe (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.**
-:::Beispiele:
+:::
+Beispiele:
 
 :::grammar-box
 | Adjektiv | Komparativ | Superlativ |
@@ -364,13 +399,15 @@ Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lo
 | ⟪वसुमन्त्⟫ "Güter besitzend" | ⟪व⟫***⟪सी⟫***⟪यस्⟫ | ⟪व⟫***⟪सि⟫***⟪ष्ठ⟫ |
 ::::::grammar-box
 **Regel 3:** **Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.**
-:::Beispiel:
+:::
+Beispiel:
 
 :::grammar-box
 | Adjektiv | Komparativ | Superlativ |
 | --- | ---
 | ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
-:::**Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:**
+:::
+**Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:**
 
 :::grammar-box
 | Adjektiv | Komparativ | Superlativ |
@@ -393,7 +430,8 @@ Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lo
 ![](/images/lekt5309.webp)
 Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 (Bildquelle: [Details](/licenses#lekt5309))
-:::**Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:**
+:::
+**Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:**
 
 :::grammar-box
 | (Adjektiv) | Komparativ | Superlativ |
@@ -404,7 +442,8 @@ Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪बहु⟫ 3 "viel") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "alt") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "alt") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
-:::## 53.9. Deklination der Komparative auf -īyas
+:::
+## 53.9. Deklination der Komparative auf -īyas
 
 :::grammar-box
 **Komparative auf -īyas bilden das Femininum auf -īyasī (Deklination wie ⟪देवी⟫). Das maskulinum und Neutrum wird nach folgendem Paradigma dekliniert.**
@@ -421,13 +460,15 @@ Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | **⟪षष्ठी⟫** | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
 | **⟪सप्तमी⟫** | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
 | **⟪आमन्त्रितम्⟫** | ***⟪गरीयान्⟫*** | **⟪गरीयस्⟫** | **⟪गरीयांसौ⟫** | **⟪गरीयसी⟫** | **⟪गरीयांसस्⟫** | **⟪गरीयांसि⟫** |
-:::## 53.10. Metrik (Lehre von den Versmaßen)
+:::
+## 53.10. Metrik (Lehre von den Versmaßen)
 
 :::media
 ![](/images/lekt5303.jpg)
 Abb.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
 (Bildquelle: [Details](/licenses#lekt5303))
-:::Siehe auch:
+:::
+Siehe auch:
 
 > **Payer, Alois &lt;1944 - &gt;:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
@@ -443,7 +484,8 @@ Die Bestimmung des Metrums ist aus folgenden Gründen wichtig:
 ![](/images/lekt5304.jpg)
 Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 (Bildquelle: [Details](/licenses#lekt5304))
-:::### 53.10.2. Arten von Metren
+:::
+### 53.10.2. Arten von Metren
 
 :::grammar-box
 **Die Inder unterscheiden:**
@@ -455,7 +497,8 @@ Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 
 *   Metren, bei denen die Zahl der Silben festgelegt ist, die Quantität dieser Silben aber nur teilweise
 *   Metren, bei denen die Zahl der Silben and deren Quantität festgelegt ist
-:::### 53.10.3. Die metrische Quantität von Silben
+:::
+### 53.10.3. Die metrische Quantität von Silben
 
 :::grammar-box
 **Merkvers**
@@ -465,7 +508,8 @@ Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 ⟪विसर्गी⟫ ⟪च⟫ ⟪गुरुर्भवेत्⟫ ⟪।⟫
 ⟪वर्णः⟫ ⟪संयोगपूर्वश्च⟫
 ⟪तथा⟫ ⟪पादान्तगो⟫ ⟪ऽपि⟫ ⟪वा⟫ ⟪॥⟫
-:::"Eine Silber ist schwer,
+:::
+"Eine Silber ist schwer,
 
 *   wenn ihr Vokal einen Anusvāra hat,
 *   lang ist,
@@ -495,18 +539,23 @@ In der metrischen Analyse bedeutet:
 *   **—** = ⟪ग⟫ = ⟪गुरु⟫
 *   **×** = ⟪लघु⟫ oder ⟪गुरु⟫
 *   **/** = Zäsur (Worttrennung)
-:::Beispiel: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
+:::
+Beispiel: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 
 :::indent
 ⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫
 ⟪मामकाः⟫ ⟪पाण्डवाश्चैव⟫ ⟪किम्⟫ ⟪अकुर्वत⟫ ⟪संजय⟫ ⟪॥१॥⟫
-:::Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ :
+:::
+Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ :
 
-:::metrik-schema
+:::
+metrik-schema
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
-::::::metrik-schema
+::::::
+metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
-:::### 53.10.4. Der epische Śloka (⟪श्लोक⟫ m.)
+:::
+### 53.10.4. Der epische Śloka (⟪श्लोक⟫ m.)
 
 :::grammar-box
 **Merkvers:**
@@ -516,10 +565,12 @@ In der metrischen Analyse bedeutet:
 ⟪सर्वत्र⟫ ⟪लघु⟫ ⟪पञ्चमम्⟫ ⟪।⟫
 ⟪द्विचतुष्पादयोर्ह्रस्वं⟫
 ⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫
-:::"Im Śloka ist die sechste Silbe eines Pāda schwer,  
+:::
+"Im Śloka ist die sechste Silbe eines Pāda schwer,  
 die fünfte in allen Pādas leicht  
 Die siebte Silbe ist im zweiten und vierten Pāda kurz, lang in den beiden anderen."
-:::Das wichtigste Versmaß in den Epen (⟪महाभारत⟫, ⟪रामायण⟫) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu ⟪श्रु⟫ "hören").
+:::
+Das wichtigste Versmaß in den Epen (⟪महाभारत⟫, ⟪रामायण⟫) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu ⟪श्रु⟫ "hören").
 
 :::grammar-box
 **Der ⟪श्लोक⟫ ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (⟪पाद⟫) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (⟪पद्य⟫ n.) besteht also aus vier ⟪पाद⟫ (m. "Fuß, Viertel"). Die vier ⟪पाद⟫ werden mit a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫) durchgezählt.**
@@ -529,33 +580,47 @@ Die siebte Silbe ist im zweiten und vierten Pāda kurz, lang in den beiden ander
 **Grundschema (⟪पथ्या⟫):**
 
 **a = c:**
-:::metrik-schema
+:::
+metrik-schema
 × × × ×   **◡ — — —**
-:::**b = d:**
-:::metrik-schema
+:::
+**b = d:**
+:::
+metrik-schema
 × × × ×   **◡ — ◡ —**
-:::Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein.
+:::
+Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein.
 
 **Nebenschemata (⟪विपुला⟫) für a und c:**
 
 **⟪विपुला⟫ 1:**
-:::metrik-schema
+:::
+metrik-schema
 × × × —   ◡ ◡ ◡ —
-:::**⟪विपुला⟫ 2:**
-:::metrik-schema
+:::
+**⟪विपुला⟫ 2:**
+:::
+metrik-schema
 × — ◡ —   — ◡ ◡ —
-:::**⟪विपुला⟫ 3:**
-:::metrik-schema
+:::
+**⟪विपुला⟫ 3:**
+:::
+metrik-schema
 × — ◡ —   — / — — —
-:::**⟪विपुला⟫ 4:**
-:::metrik-schema
+:::
+**⟪विपुला⟫ 4:**
+:::
+metrik-schema
 × × × ×   / — ◡ — —
-:::**Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. ⟪पाद⟫ : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.**
-:::## 53.11. Übung
+:::
+**Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. ⟪पाद⟫ : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.**
+:::
+## 53.11. Übung
 
 :::grammar-box
 **Bestimmen sie unter allen bisher gelernten Versen die Ślokas. Machen Sie zu diesen schriftlich das metrische Schema. Weisen Sie auf eventuelle Unregelmäßigkeiten bzw. Vipulāformen hin.**
-::::::center
+::::::
+center
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

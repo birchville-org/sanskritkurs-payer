@@ -36,7 +36,8 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung095.webp)
 מק.: ⟪तब्लाः⟫
 (מקור התמונה: [פרטים](/licenses#uebung095))
-:::---
+:::
+---
 
 ## B) קביעות מילים
 

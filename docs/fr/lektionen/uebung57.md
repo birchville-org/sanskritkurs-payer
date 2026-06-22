@@ -44,7 +44,8 @@ Traduisez et déterminez les formes suivantes, puis formez les formes correspond
 ![](/images/uebung090.webp)
 Fig. : ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Source de l’image : [Détails](/fr/licenses#uebung090))
-:::---
+:::
+---
 
 ## B) Déterminations lexicales
 

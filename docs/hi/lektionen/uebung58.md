@@ -37,7 +37,8 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung095.webp)
 अभि.: ⟪तब्लाः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#uebung095))
-:::---
+:::
+---
 
 ## B) शब्द निर्धारण
 

@@ -29,7 +29,8 @@ La majorité des noms appartenant à cette catégorie sont des noms d'agent form
     *   **devant consonne : -ṛ**
 
 Remarquez les formations irrégulières (marquées en **rouge** ) !
-:::Masculin :
+:::
+Masculin :
 
 :::indent
 **⟪दातृ⟫** m. "donneur"
@@ -45,13 +46,15 @@ Remarquez les formations irrégulières (marquées en **rouge** ) !
 | ⟪षष्ठी⟫ | ***⟪दातुस्⟫*** | ***⟪दातॄणाम्⟫*** |
 | ⟪सप्तमी⟫ | ***⟪दातरि⟫*** | ⟪दातृषु⟫ |
 
-:::Pour l'explication des formations irrégulières, voir Thumb-Hauschild I,2 p. 76-81
+:::
+Pour l'explication des formations irrégulières, voir Thumb-Hauschild I,2 p. 76-81
 
 Féminin :
 
 :::indent
 **⟪स्वसृ⟫** f. se décline comme **⟪दातृ⟫** à l'exception de l'accusatif (**⟪द्वितीया⟫**) pluriel : ***⟪स्वसॄस्⟫***.
-:::### 42.1.2. Formation nominale : Suffixe ⟪कृत्⟫ -⟪तृ⟫
+:::
+### 42.1.2. Formation nominale : Suffixe ⟪कृत्⟫ -⟪तृ⟫
 
 :::grammar-box
 Avec le suffixe très fréquent ⟪कृत्⟫ -⟪तृ⟫, on forme des noms d'agent (désignations pour le ⟪कर्तृ⟫) à partir de presque toutes les racines ou les formes causatives.
@@ -63,7 +66,8 @@ Avec le suffixe très fréquent ⟪कृत्⟫ -⟪तृ⟫, on forme des n
 ou
 
 *   **racine au degré plein / forme causative + i + tṛ**
-:::Exemples :
+:::
+Exemples :
 
 :::indent
 **⟪कर्तृ⟫** m. « Fauteur »
@@ -85,7 +89,8 @@ Les neutres rares en -⟪तृ⟫ ont une déclinaison partiellement autonome (
 Le féminin des stems en -⟪तृ⟫ se termine par **-⟪त्री⟫** (comme **⟪देवी⟫**).
 
 p. ex. **⟪कर्त्री⟫** f. « Fauteuse »
-:::### 42.1.3. Les tribus avec un grade supérieur dans la racine forte
+:::
+### 42.1.3. Les tribus avec un grade supérieur dans la racine forte
 
 :::grammar-box
 Cela comprend les termes de parenté suivants :
@@ -104,7 +109,8 @@ Cela comprend les termes de parenté suivants :
 *   **racine faible**
     *   **devant voyelle : -r**
     *   **devant consonne : -ṛ**
-:::Exemples :
+:::
+Exemples :
 
 :::indent
 **⟪पितृ⟫** m. "Père"
@@ -118,14 +124,16 @@ Cela comprend les termes de parenté suivants :
 | ⟪द्वितीया⟫ | ***⟪पितरम्⟫*** | ⟪पितॄन्⟫ | ***⟪मातरम्⟫*** | ⟪मातॄस्⟫ |
 | Reste comme ⟪दातृ⟫ | ← | ← | ← | ← |
 
-:::### 42.1.4. Les tribus en -ṛ dans les composés
+:::
+### 42.1.4. Les tribus en -ṛ dans les composés
 
 :::grammar-box
 En tant que premier membre d'un composé, les noms en -ṛ se présentent naturellement dans leur forme faible, c'est-à-dire :
 
 *   **devant une consonne : -ṛ**
 *   **devant une voyelle : -r**
-:::## 42.2. Liste de mots
+:::
+## 42.2. Liste de mots
 
 ⟪प्रकृति⟫ f. : (de ⟪कृ⟫ + ⟪प्र⟫) forme fondamentale, état naturel, nature ; matière primordiale, substance primordiale
 
@@ -135,7 +143,8 @@ En tant que premier membre d'un composé, les noms en -ṛ se présentent nature
 
 :::indent
 PPP ⟪अवस्थित⟫ 3 : debout, présent
-:::⟪पुरा⟫ Adv. : autrefois, auparavant
+:::
+⟪पुरा⟫ Adv. : autrefois, auparavant
 
 ⟪अनेक⟫ 3 : nombreux (pas quelques-uns)
 
@@ -163,7 +172,8 @@ Caus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
-:::⟪अधिपति⟫ m. = ⟪राजन्⟫
+:::
+⟪अधिपति⟫ m. = ⟪राजन्⟫
 
 ⟪आटोप⟫ m. : vanité, orgueil
 
@@ -189,7 +199,8 @@ Caus. ⟪शंसयति⟫
 PPP ⟪शस्त⟫  
 Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
-:::⟪हृदय⟫ n. : cœur
+:::
+⟪हृदय⟫ n. : cœur
 
 ### 42.2.1. Certaines désignations de parenté
 
@@ -197,7 +208,8 @@ Inf. ⟪शंसितुम्⟫
 ![lekt4202.jpg](/images/lekt4202.webp)
 Fig. : ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4202))
-:::⟪भर्तृ⟫ m. (de ⟪भृ⟫ "porter, maintenir") : celui qui maintient, celui qui nourrit, époux
+:::
+⟪भर्तृ⟫ m. (de ⟪भृ⟫ "porter, maintenir") : celui qui maintient, celui qui nourrit, époux
 
 ⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f. : épouse (⟪भार्या⟫ = gérondif de ⟪भृ⟫ : celle qui doit être portée, celle qui doit être maintenue, ayant droit à l'entretien)
 
@@ -260,13 +272,15 @@ Traduisez :
 ![lekt4203.jpg](/images/lekt4203.webp)
 Fig. : ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4203))
-:::⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
+:::
+⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
 :::media
 ![lekt4204.jpg](/images/lekt4204.webp)
 Fig. : ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4204))
-:::⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
+:::
+⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
 
 ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫
 
@@ -294,7 +308,8 @@ Fig. : ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 ![lekt4208.jpg](/images/lekt4208.webp)
 Fig. : ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4208))
-:::⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
+:::
+⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
 ⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ***⟪सीतारामयोर्वि⟫***⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
 
@@ -308,13 +323,15 @@ Explication des expressions mises en évidence en **rouge** :
 ![lekt4205.jpg](/images/lekt4205.webp)
 Fig. : ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4205))
-:::⟪मिथिला⟫ f. nom propre : capitale de ⟪विदेह⟫
+:::
+⟪मिथिला⟫ f. nom propre : capitale de ⟪विदेह⟫
 
 :::media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Fig. : ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4206))
-:::⟪जनक⟫ m. nom propre : roi de ⟪विदेह⟫
+:::
+⟪जनक⟫ m. nom propre : roi de ⟪विदेह⟫
 
 ⟪गुरुतर⟫ 3 : comparatif de ⟪गुरु⟫ 3 : lourd, très lourd
 
@@ -330,7 +347,8 @@ Fig. : ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य
 ![lekt4207.jpg](/images/lekt4207.webp)
 Fig. : ⟪रावणः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4207))
-:::⟪अयोध्या⟫ f. noms propres : capitale de ⟪कोसल⟫ (voir carte ci-dessus !)
+:::
+⟪अयोध्या⟫ f. noms propres : capitale de ⟪कोसल⟫ (voir carte ci-dessus !)
 
 ⟪दशरथ⟫ m. nom propre : roi de ⟪कोसल⟫
 

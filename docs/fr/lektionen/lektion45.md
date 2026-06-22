@@ -22,7 +22,8 @@ status: stable
 | **Indicatif présent**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | &lt;⟪जुहुषे⟫&gt; | &lt;⟪जुहुध्वे⟫&gt; |
 | **Imparfait**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | &lt;⟪अजुहुथास्⟫&gt; | &lt;⟪अजुहुध्वम्⟫&gt; |
 | **Optatif**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | &lt;⟪जुह्वीथास्⟫&gt; | &lt;⟪जुह्वीध्वम्⟫&gt; |
-:::⟪धा⟫ 2U
+:::
+⟪धा⟫ 2U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -31,13 +32,15 @@ status: stable
 | **Indicatif présent**:br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:brde : dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
 | **Imparfait**:br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
 | **Optatif**:br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
-:::### 45.1.2. Septième classe de présent (⟪रुधादि⟫)
+:::
+### 45.1.2. Septième classe de présent (⟪रुधादि⟫)
 
 :::grammar-box
 **Lorsque le k/g final de la racine se trouve entre le nasal ṅ et un dental de la désinence, le k/g peut facultativement disparaître**
 
 p.ex. **⟪युज्⟫** 3.sg.Ind.Présent.Ā ⟪युङ्क्ते⟫ ou ⟪यु⟫***⟪ङ्ते⟫***
-:::⟪युज्⟫ 7U
+:::
+⟪युज्⟫ 7U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -46,7 +49,8 @@ p.ex. **⟪युज्⟫** 3.sg.Ind.Présent.Ā ⟪युङ्क्ते⟫
 | **Indicatif Présent**:br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
 | **Imparfait**:br⟪लङ्⟫ | ⟪अयुनक्⟫:brde : a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
 | **Optatif**:br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
-:::⟪रुध्⟫ 7U
+:::
+⟪रुध्⟫ 7U
 
 :::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -55,7 +59,8 @@ p.ex. **⟪युज्⟫** 3.sg.Ind.Présent.Ā ⟪युङ्क्ते⟫
 | **Indicatif Présent**:br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
 | **Imparfait**:br⟪लङ्⟫ | ⟪अरुणत्⟫:brde a-ru-ṇa-dh + s:br ***⟪अरुण्स्⟫*** (irrég. !) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
 | **Optatif**:br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
-:::## 45.2. Le vocatif singulier (⟪आमन्त्रितमेकवचने⟫)
+:::
+## 45.2. Le vocatif singulier (⟪आमन्त्रितमेकवचने⟫)
 
 :::grammar-box
 **La plupart des vocatifs du singulier sont le radical avec une terminaison haute.**
@@ -91,7 +96,8 @@ par ex. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राज�
 ![](/images/lekt4501.webp)
 Fig. : ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4501))
-:::## 45.3. Liste de mots
+:::
+## 45.3. Liste de mots
 
 ⟪वा⟫ ... ⟪वा⟫ : soit ... soit
 
@@ -105,7 +111,8 @@ A) Traduisez en sanskrit (pour les formes passées, veuillez utiliser l’imparf
 voir la division de la communauté (⟪सङ्घभेद⟫) :
 
 **Payer, Alois &lt;1944 - &gt; : Vinayamukha : Concepts fondamentaux des règles monastiques et du droit monastique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::2\. Avez-vous joui de la terre ?
+:::
+2\. Avez-vous joui de la terre ?
 
 3\. As-tu reçu une offrande du roi ?
 

@@ -31,7 +31,8 @@ status: stable
 | **⟪पञ्चमी⟫** | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ |
 | **⟪षष्ठी⟫** | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪वारिषु⟫ | ⟪मधुषु⟫ |
-:::## 52.2. Formarea substantivelor
+:::
+## 52.2. Formarea substantivelor
 
 ### 52.2.1. PPP + -vant: Participiul trecut al Parasmaipada
 
@@ -40,7 +41,8 @@ status: stable
 
 **PPP + -vant / fem.: vatī**
 **Declinație ca și temele în -vant, respectiv f. ⟪देवी⟫**
-:::PPP + -vant / fem.: vatī
+:::
+PPP + -vant / fem.: vatī
 
 Declinație ca și temele în -vant, respectiv f. ⟪देवी⟫
 
@@ -50,7 +52,8 @@ Exemple:
 ⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "cel/cea care a făcut"
 
 ⟪भिन्नवन्त्⟫ "cel care a spart"
-:::### 52.2.2. Suffixul ⟪तद्धित⟫ -maya / -mayī
+:::
+### 52.2.2. Suffixul ⟪तद्धित⟫ -maya / -mayī
 
 :::grammar-box
 **Suffixul ⟪तद्धित⟫ -maya / f.: -mayī formează adjective din substantive cu sensul**
@@ -60,7 +63,8 @@ Exemple:
 *   **"plin de"**
 
 **Înainte de -maya (așa cum înainte de -⟪मात्र⟫), consoanele de închidere de la finalul formei de pauză trebuie înlocuite cu nasalul corespunzător acestora.**
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 ⟪अन्नमय⟫ 3 "plîn de hrană"
@@ -79,7 +83,8 @@ de ex. ⟪अन्नमय⟫ n. "abundență de hrană"
 Fig.: ⟪अन्नमयम्⟫
 ⟪विवाहः⟫, Chennai = சென்னை
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5202))
-:::### 52.2.3. Sufixul ⟪तद्धित⟫ -eya
+:::
+### 52.2.3. Sufixul ⟪तद्धित⟫ -eya
 
 :::grammar-box
 **Sufixul ⟪तद्धित⟫ -eya / f.: -eyī aparește, printre altele, la feminine în sensul de**
@@ -95,7 +100,8 @@ de ex. ⟪कौन्तेय⟫ m. "Fiul lui ⟪कुन्ती⟫"
 Fig.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
 Figură Wayang, Java, Indonezia
 (Sursă imagine: [Detalii](/ro/licenses#lekt5203))
-:::## 52.3. Formarea adverbelor: sufixul adverbial -śas
+:::
+## 52.3. Formarea adverbelor: sufixul adverbial -śas
 
 :::grammar-box
 **Sufixul adverbial -śas formează adverbe cu sens (în principal) distributiv:**
@@ -116,7 +122,8 @@ Figură Wayang, Java, Indonezia
 Fig.: ⟪अनुक्रमेणैकशः⟫
 Coadă de așteptare în fața templului, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5204))
-:::## 52.4. Compuse verbale care exprimă că ceva devine sau este făcut ceva ce nu era înainte (⟪अभुततद्भावः⟫)
+:::
+## 52.4. Compuse verbale care exprimă că ceva devine sau este făcut ceva ce nu era înainte (⟪अभुततद्भावः⟫)
 
 ### 52.4.1. Formări cu cvi
 
@@ -158,7 +165,8 @@ Finalul substantivului este tratat astfel:
 Fig.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
 Arare cu tăiere și ardere, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5209))
-:::### 52.4.2. Suffixul -sāt
+:::
+### 52.4.2. Suffixul -sāt
 
 :::grammar-box
 **Pentru a exprima că o persoană sau un lucru devine complet ceea ce, sau că cineva face pe cineva sau ceva complet ceea ce este indicat de un substantiv, se poate atașa substantivului**
@@ -173,7 +181,8 @@ Arare cu tăiere și ardere, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪
 *   ⟪सम्⟫-⟪पद्⟫ 4Ā
 
 **pentru a forma un compus verbal.**
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 ⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫ "el devine complet foc"
@@ -188,7 +197,8 @@ Arare cu tăiere și ardere, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪
 *   **sau că cineva face pe cineva dependent de**
 
 **ceea ce este indicat de substantiv**
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪राजसाद्भवति⟫ "el devine dependent de rege, el devine proprietatea regelui"
@@ -197,7 +207,8 @@ Arare cu tăiere și ardere, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪
 
 :::indent
 ⟪भस्मसात्कृ⟫***⟪त्वा⟫***
-:::::::## 52.5. Repetiții de cuvinte (⟪द्विरुक्तम्⟫)
+:::::::
+## 52.5. Repetiții de cuvinte (⟪द्विरुक्तम्⟫)
 
 ::::grammar-box
 **Repetiția de cuvinte exprimă în sanscrită:**
@@ -218,8 +229,10 @@ Exemple:
 ⟪एकैक⟫ 3 "fiecare individual"
 ⟪अल्पाल्प⟫ 3 "foarte mic"
 ⟪नवनव⟫ 3 "mereu nou"
-:::În cazul așa-numitelor compuse ⟪आम्रेडित⟫, în care cuvintele flexionare sunt repetate, dar al doilea capătă un accent în perioada preclasică, deci există un compus, vezi Wackernagel, Gramatică veche indiană II,1 p. 142ss.
-::::## 52.6. Numeralul (⟪सम्ख्या⟫ f.)
+:::
+În cazul așa-numitelor compuse ⟪आम्रेडित⟫, în care cuvintele flexionare sunt repetate, dar al doilea capătă un accent în perioada preclasică, deci există un compus, vezi Wackernagel, Gramatică veche indiană II,1 p. 142ss.
+::::
+## 52.6. Numeralul (⟪सम्ख्या⟫ f.)
 
 Ceea ce nu este tratat aici, vezi, de exemplu, la Kielhorn, Gramatică §201f.
 
@@ -234,7 +247,8 @@ Ceea ce nu este tratat aici, vezi, de exemplu, la Kielhorn, Gramatică §201f.
 **Pentru cuvintele numerale pentru **5 până la 19** ***(⟪नवदशन्⟫)*** există o singură declinare pentru cele trei genuri.**
 
 **Pentru aceste adjective numerale, valabil ca pentru toate adjectivele: trebuie să fie în același caz, număr și gen cu substantivul corespunzător și invers (adică pentru 1 singular, pentru 2 dual, pentru restul plural).**
-:::Adjective numerale:
+:::
+Adjective numerale:
 
 :::indent
 1 ⟪एक⟫ 3 (Declinare ca ⟪सर्व⟫, la plural: "câțiva")
@@ -247,7 +261,8 @@ Ceea ce nu este tratat aici, vezi, de exemplu, la Kielhorn, Gramatică §201f.
 8 ⟪अष्टन्⟫ 3
 9 ⟪नवन्⟫ 3
 10 ⟪दशन्⟫ 3
-:::Declinarea urmează, acolo unde este cazul, în listele de cuvinte.
+:::
+Declinarea urmează, acolo unde este cazul, în listele de cuvinte.
 
 Celelalte adverbe numerale până la 19 vezi, de exemplu, la Kielhorn, Gramatică §201.
 
@@ -261,15 +276,18 @@ Exemple:
 :::indent
 20 ⟪विंशति⟫ f.:br
 30 ⟪त्रिंशत्⟫ f.
-:::**Cuvintele numerale pentru numere **de la 100 în sus** sunt substantive neutre. Se declină ca ⟪फलम्⟫.**
+:::
+**Cuvintele numerale pentru numere **de la 100 în sus** sunt substantive neutre. Se declină ca ⟪फलम्⟫.**
 
 Exemple:
 
 :::indent
 100 ⟪शत⟫ n.:br
 1000 ⟪सहस्र⟫ n.
-:::Substantivele numerale individuale vezi, de exemplu, la Kielhorn, Gramatică §201.
-::::#### 52.6.1.3. Aspecte sintactice ale numerelor cardinale
+:::
+Substantivele numerale individuale vezi, de exemplu, la Kielhorn, Gramatică §201.
+::::
+#### 52.6.1.3. Aspecte sintactice ale numerelor cardinale
 
 :::grammar-box
 **Din diferența dintre adjectivele verbale și substantivele verbale pentru numerele cardine rezultă următoarea consecință pentru sintaxă:**
@@ -283,7 +301,8 @@ Exemple:
     *   stau ca al doilea element al unui ⟪तत्पुरुष⟫ cu număratul ca prim element  
         de exemplu, ⟪गोविंशत्या⟫ "prin 20 de vaci" 
 
-:::### 52.6.2. Numere ordinale
+:::
+### 52.6.2. Numere ordinale
 
 Vezi, de exemplu, la Kielhorn, Grammatik §201f.
 
@@ -297,17 +316,20 @@ de două ori: ⟪द्विस्⟫
 de trei ori: ⟪त्रिस्⟫
 de patru ori: ⟪चतुस्⟫
 de cinci ori etc. se formează cu sufixul ***\-⟪कृत्वस्⟫***: ⟪पञ्चकृत्वस्⟫
-:::b) "-fach": se exprimă cu sufixul ***\-⟪धा⟫***
+:::
+b) "-fach": se exprimă cu sufixul ***\-⟪धा⟫***
 
 :::indent
 simplu: ⟪एकधा⟫
 dublu: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
 etc.
-:::c) "je ...", "zu ...": se exprimă cu sufixul ***\-⟪शस्⟫*** (vezi mai sus!)
+:::
+c) "je ...", "zu ...": se exprimă cu sufixul ***\-⟪शस्⟫*** (vezi mai sus!)
 
 :::indent
 ⟪द्विशस्⟫ "doi câte doi, câte doi"
-:::### 52.6.4. Adjective numerale
+:::
+### 52.6.4. Adjective numerale
 
 "-fältig":
 
@@ -316,13 +338,15 @@ zweifältig, aus zweien bestehend
 dreifältig, aus drei Teilen bestehend
 
 ab 4 wird "-fältig" durch das Suffix ***\-⟪तय⟫ (f.: -⟪तयी⟫)*** ausgedrückt: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "vierfältig"
-:::Weitere Bildungen entnehme man den Wörterbüchern oder Grammatiken.
+:::
+Weitere Bildungen entnehme man den Wörterbüchern oder Grammatiken.
 
 ### 52.6.5. Compuse cu numere cardinale în primul component
 
 :::grammar-box
 **⟪बहुव्रीहि⟫ acestea sunt formate foarte regulat.**
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪चतुर्मुख⟫ m. "cel care are patru fețe" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (un epitet al lui Brahmā)
@@ -334,7 +358,8 @@ Fig.: ⟪चतुर्मुखः⟫
 **⟪तत्पुरुष⟫ cu un număr cardinal în primul component nu pot fi formate arbitrar:**
 
 **Regula 1: Cuvintele care indică o direcție cardinală (cum ar fi ⟪पूर्व⟫ 3 "oriental", ⟪उत्तर⟫ 3 "nordic"), și cuvintele pentru numere cardinale pot forma un compus ⟪कर्मधारय⟫ cu alte cuvuri doar dacă compusul este folosit ca nume propriu.**
-:::Prin urmare, de exemplu, nu se poate forma un Tatpuruṣa din ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "copaci nordici" sau din ⟪पञ्च⟫ ⟪ब्राह्मणः⟫. Din ⟪सप्तन्⟫ și ⟪ऋषि⟫ se poate însă forma Tatpuruṣa ⟪सप्तर्षि⟫ m. "cei șapte Ṛṣi" dacă acesta este folosit ca nume pentru constelația Ursa Majoră (Ursa maior).
+:::
+Prin urmare, de exemplu, nu se poate forma un Tatpuruṣa din ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "copaci nordici" sau din ⟪पञ्च⟫ ⟪ब्राह्मणः⟫. Din ⟪सप्तन्⟫ și ⟪ऋषि⟫ se poate însă forma Tatpuruṣa ⟪सप्तर्षि⟫ m. "cei șapte Ṛṣi" dacă acesta este folosit ca nume pentru constelația Ursa Majoră (Ursa maior).
 :::media
 ![](/images/lekt5206.jpg)
 Fig.: ⟪सप्तर्षयः⟫
@@ -368,7 +393,8 @@ Jalakandapuram = ஜலகண்டபுரம்
 
 **Compusele Dvigu, care indică o unitate, sunt de obicei neutre. Dacă al doilea component se termină în -a, atunci sufixul feminin -ī poate fi adăugat. Dacă al doilea component se termină în fem. -ā, atunci acesta este înlocuit fie cu neutru -a, fie cu feminin -ī. Dacă al doilea component se termină în -an, atunci acesta este înlocuit cu -a sau -ī.**
 
-:::Exemple:
+:::
+Exemple:
 
 :::indent
 ⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. „agregatul celor trei lumi, cele trei lumi ca unitate, tri-lumea (cer-pământ-lumea subterană)
@@ -376,11 +402,13 @@ Jalakandapuram = ஜலகண்டபுரம்
 ⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. „tri-lume”
 ::::::grammar-box
 **Compozitele Dvigu, cărora nu li se adaugă un sufix Taddhita, dar care au sensul indicat de un sufix Taddhita, își reglează genul după substantivul pe care îl specifică (sunt în realitate probabil Bahuvrīhi)**
-:::Exemplu:
+:::
+Exemplu:
 
 :::indent
 ⟪पञ्चगु⟫ 3: „cumpărat pentru cinci vaci”
-:::## 52.7. Listă de cuvinte
+:::
+## 52.7. Listă de cuvinte
 
 ⟪अखिल⟫ 3: fără lacune, întreg
 
@@ -395,7 +423,8 @@ de la:
 Fig.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5210))
-:::⟪अन्तर्⟫ Adv.: în interior, în interior ; postpoziție cu Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): în interior, în mijloc ; postpoziție cu Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): din ... afară
+:::
+⟪अन्तर्⟫ Adv.: în interior, în interior ; postpoziție cu Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): în interior, în mijloc ; postpoziție cu Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): din ... afară
 
 ⟪अन्योन्य⟫ 3: reciproc, unul altuia
 
@@ -403,7 +432,8 @@ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 
 :::indent
 PPP ⟪विपरीत⟫ 3: greșit, fals
-:::⟪त्रि⟫ 3: trei
+:::
+⟪त्रि⟫ 3: trei
 
 :::grammar-box
 | | **Masculin:br⟪पुंस्⟫** | **Neutru:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
@@ -415,7 +445,8 @@ PPP ⟪विपरीत⟫ 3: greșit, fals
 | **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
 | **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
 | **7. Locativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
-:::⟪निस्⟫ Postpoziție și prefix la substantive și verbe: afară, departe, în afară, în afară, din, departe, fără - de
+:::
+⟪निस्⟫ Postpoziție și prefix la substantive și verbe: afară, departe, în afară, în afară, din, departe, fără - de
 
 ⟪पीड्⟫ 10P ⟪पीडयति⟫ : a apăsa, a chinui ; a asedia, a asedia, a chinui
 
@@ -424,13 +455,15 @@ PPP ⟪विपरीत⟫ 3: greșit, fals
 Fig.: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5212))
-:::⟪पर⟫ 3: (declinare ca ⟪सर्व⟫) îndepărtat, străin, mai sus de (⟪पञ्चम्या⟫), extrem, cel mai înalt ; alt, străin, ostil ; m.: străin
+:::
+⟪पर⟫ 3: (declinare ca ⟪सर्व⟫) îndepărtat, străin, mai sus de (⟪पञ्चम्या⟫), extrem, cel mai înalt ; alt, străin, ostil ; m.: străin
 
 :::indent
 din acesta:
 
 ⟪परम्⟫ Adv.: în mare măsură, pe acesta, mai târziu, dar, totuși
-:::⟪प्रति⟫ Postpoziție (⟪द्वितीयया⟫): către - spre, după, în ceea ce privește, față de
+:::
+⟪प्रति⟫ Postpoziție (⟪द्वितीयया⟫): către - spre, după, în ceea ce privește, față de
 
 ⟪प्रधान⟫ 3: principal, cel mai bun ; n.: cel mai important
 
@@ -439,13 +472,15 @@ din acesta:
 Fig.: ⟪प्रधानः⟫
 ⟪मुंबई⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5213))
-:::⟪लौल्य⟫ n.: lăcomie, poftă
+:::
+⟪लौल्य⟫ n.: lăcomie, poftă
 
 ⟪वर्ग⟫ m.: secțiune, departament, grupă
 
 :::indent
 ⟪त्रिवर्ग⟫ m.: grupă de trei (de ex. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; sau: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; sau: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
-:::⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : a vrea, a porunci, a cere
+:::
+⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : a vrea, a porunci, a cere
 
 :::indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -455,7 +490,8 @@ Kaus. ⟪वाशयति⟫
 PPP ⟪उशित⟫
 Inf. ⟪वशितुम्⟫
 Absol. -⟪वश्य⟫
-:::⟪वा⟫ 2P ⟪वाति⟫ : a sufla, a bate
+:::
+⟪वा⟫ 2P ⟪वाति⟫ : a sufla, a bate
 
 :::indent
 Perf IV ⟪ववौ⟫
@@ -468,7 +504,8 @@ Inf. ⟪वातुम्⟫
 din acesta:
 
 ⟪वात⟫ m.: vânt
-:::⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : a întoarce, a roti ; a respinge, a exclude
+:::
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : a întoarce, a roti ; a respinge, a exclude
 
 :::indent
 Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
@@ -478,7 +515,8 @@ Kaus. ⟪वर्जयति⟫ : a elimina
 Kaus. PPP ⟪वर्जित⟫ : lipsit de ceva, liber de
 PPP ⟪वृक्त⟫
 Inf. ⟪वर्जितुम्⟫
-:::⟪व्यवहार⟫ m.: activitate, comportament, relații, comerț, afaceri, comerț, (proces judiciar) proces
+:::
+⟪व्यवहार⟫ m.: activitate, comportament, relații, comerț, afaceri, comerț, (proces judiciar) proces
 
 ⟪शील⟫ n.: uz, obicei, natură, caracter, bună obișnuință = morală
 
@@ -499,7 +537,8 @@ din acesta:
 
 ⟪सेवा⟫ f.: serviciu, vizită
 
-:::⟪धीर⟫ 3: ferm, steadfast, continuu, persistent
+:::
+⟪धीर⟫ 3: ferm, steadfast, continuu, persistent
 
 ⟪शम्⟫ ⟪शाम्यति⟫
 
@@ -510,7 +549,8 @@ din acesta:
 ⟪शमयति⟫
 ⟪शान्त⟫
 ⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
-:::⟪कोविद⟫ 3: expert în (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
+:::
+⟪कोविद⟫ 3: expert în (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
 
 ⟪याम⟫ m.: garda de noapte (fiecare trei ore)
 
@@ -526,7 +566,8 @@ Fut. ⟪च्योष्यते⟫
 Pass. ⟪च्यूयते⟫
 Kaus. ⟪च्यावयति⟫
 PPP ⟪च्युत⟫
-:::⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : recunoaște, simți, percepe, experimenta
+:::
+⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : recunoaște, simți, percepe, experimenta
 
 ⟪चक्र⟫ n.: roată
 
@@ -535,14 +576,16 @@ PPP ⟪च्युत⟫
 Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5214))
-:::⟪कदली⟫ f.: bananier (_Musa_ sp.)
+:::
+⟪कदली⟫ f.: bananier (_Musa_ sp.)
 
 :::media
 ![](/images/lekt5208.webp)
 Abb.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5208))
-:::⟪सार⟫ m.n.: miez, esență, substanță
+:::
+⟪सार⟫ m.n.: miez, esență, substanță
 
 ⟪दिव्य⟫ 3: ceresc, divin
 
@@ -557,7 +600,8 @@ Hampi = ಹಂಪೆ
 Abb.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5215))
-:::⟪त्रिपिष्टप⟫ n.: cerul lui Indra
+:::
+⟪त्रिपिष्टप⟫ n.: cerul lui Indra
 
 ⟪मार⟫ m.: răul personificat, tentația/personificarea manipulării, diavolul
 
@@ -566,7 +610,8 @@ Abb.: ⟪मलम्⟫
 Abb.:
 Amaravati = అమరావతి, sec. II d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5217))
-:::⟪विजिज्ञासु⟫ 3: cineva care vrea să recunoască complet
+:::
+⟪विजिज्ञासु⟫ 3: cineva care vrea să recunoască complet
 
 ⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : proteja, salva
 
@@ -577,7 +622,8 @@ Pass. ⟪त्रायते⟫
 Kaus. ⟪त्रापयति⟫
 PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 Inf. ⟪त्रातुम्⟫
-:::## 52.8. Exercițiu de traducere
+:::
+## 52.8. Exercițiu de traducere
 
 ⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
 
@@ -598,7 +644,8 @@ Inf. ⟪त्रातुम्⟫
 ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
 
 Explicație: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvandva)
-:::⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Despre sursele ⟪धर्म⟫
+:::
+⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Despre sursele ⟪धर्म⟫
 
 :::indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
@@ -607,7 +654,8 @@ Explicație: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvand
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
 Explicație: ⟪स्मृतिशीले⟫ Nom.Acc.Dual.n. (Dualdvandva)
-:::⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Despre ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ în viața prințului
+:::
+⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Despre ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ în viața prințului
 
 ⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫***⟪मितरौ⟫*** ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫***⟪मूलौ⟫*** ⟪हि⟫ ⟪धर्मका⟫***⟪मावि⟫***⟪ति⟫ ⟪।७।⟫
 
@@ -617,7 +665,8 @@ Explicații:
 ⟪इतरौ⟫ Nom.Acc.Dual.m către ⟪इतर⟫ 3 "altul"
 
 ⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Acc.Dual.m (⟪धर्मकामौ⟫ este Dualdvandva)
-:::⟪४⟫. ⟪अश्वघोष⟫ (sec. II d.Hr.): ⟪बुद्धचरित⟫ ⟪४⟫ Înțelepciunea eliberatoare a lui Buddha
+:::
+⟪४⟫. ⟪अश्वघोष⟫ (sec. II d.Hr.): ⟪बुद्धचरित⟫ ⟪४⟫ Înțelepciunea eliberatoare a lui Buddha
 
 :::media
 ![](/images/lekt5216.webp)
@@ -674,7 +723,8 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, circa 1810
 ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫
 ⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫
 ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥१०॥⟫
-:::## 52.9. Sarcini în timpul vacanțelor semestriale
+:::
+## 52.9. Sarcini în timpul vacanțelor semestriale
 
 Cu Lecția 52 se încheie primul semestru (13 săptămâți x 4 ore de curs) al cursului de sanscrită.
 

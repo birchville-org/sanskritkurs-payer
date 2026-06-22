@@ -88,7 +88,8 @@ A) Determinare le seguenti forme verbali e formare le corrispondenti forme dell'
 | ⟪७३⟫. **⟪तनोति⟫** | ⟪अतनोत्⟫ |
 | ⟪७४⟫. **⟪प्रजानीते⟫** | ⟪प्राजानीत⟫ |
 | ⟪७५⟫. **⟪जीवन्ति⟫** | ⟪अजीवन्⟫ |
-:::B) Tradurre e risolvere i composti in sanscrito:
+:::
+B) Tradurre e risolvere i composti in sanscrito:
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
 (⟪जनस्य⟫ ⟪इन्द्रस्य⟫ ⟪अग्रे⟫ ⟪।⟫ ⟪महत्⟫-⟪पुण्यम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪लोके⟫)
@@ -113,7 +114,8 @@ I figli di Buddha hanno riconosciuto la verità, hanno fermato la sofferenza e h
 ![](/images/uebung050.webp)
 Fig.: ⟪सम्पन्नरूपा⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung050))
-:::---
+:::
+---
 
 ## Determinazione della forma della parola
 
@@ -211,7 +213,8 @@ Determinare e tradurre le seguenti parole:
 ![](/images/uebung051.webp)
 Fig.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung051))
-:::---
+:::
+---
 
 ## Esercizio sul Sandhi
 
@@ -290,7 +293,8 @@ Inserisci le parole tra parentesi nelle frasi seguenti, rispettando le regole de
 ![](/images/uebung052.webp)
 Fig.: ⟪पुनर्दर्शनाय⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung052))
-:::---
+:::
+---
 
 ## Frammento Scolastico (Stotra)
 
@@ -303,7 +307,8 @@ L'elevato Hari è il mio rifugio, che inviò i suoi nemici al cielo, fece conosc
 ![](/images/uebung053.webp)
 Fig.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung053))
-:::---
+:::
+---
 
 ## Racconto: Il vecchio e le scimmie (Sanskrit-Bālādarśa)
 

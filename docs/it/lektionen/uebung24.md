@@ -42,7 +42,8 @@ A) Formare il dativo singolare e il dativo (ovvero l'ablativo) plurale e indicar
 | ⟪२७⟫. **⟪पूजा⟫** | Venerazione | ⟪पूजायै⟫ | ⟪पूजाभ्यः⟫ |
 | ⟪२८⟫. **⟪दासी⟫** | Serva | ⟪दास्यै⟫ | ⟪दासीभ्यः⟫ |
 | ⟪२९⟫. **⟪गुरु⟫** | Maestro | ⟪गुरवे⟫ (m) / ⟪गुर्व्यै⟫ (f) | ⟪गुरुभ्यः⟫ / ⟪गुर्वीभ्यः⟫ |
-:::B) Tradurre e risolvere i composti in sanscrito:
+:::
+B) Tradurre e risolvere i composti in sanscrito:
 
 ⟪१⟫. **⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विश⟫ati ⟪॥१॥⟫**
 (⟪देवस्य⟫ ⟪प्रतिमाया⟫ ⟪दर्शनाय⟫ ⟪।⟫ ⟪गर्भ⟫ ⟪एव⟫ ⟪गृहम्⟫)
@@ -82,7 +83,8 @@ Per morire, gli esseri viventi nascono.
 ![](/images/uebung037.webp)
 Fig.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung037))
-:::---
+:::
+---
 
 ## Variazioni sintattiche
 

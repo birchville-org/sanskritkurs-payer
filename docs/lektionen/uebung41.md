@@ -34,7 +34,8 @@ Diese dreifache Zuflucht ist entscheidend, um auf dem Weg zur Erlösung die nöt
 Das Wesentliche ist jedoch nicht die Erlöserpersönlichkeit, sondern die Erlösungslehre, die es dem Einzelnen ermöglicht, den Weg selbst zu gehen. Man muss von der Lehre so überzeugt sein, dass man die Energie aufbringt, sie auf ihren Wahrheitsgehalt zu testen (**Zuflucht zum Dharma**).
 
 Zudem muss man überzeugt sein, dass auch andere diesen Weg erfolgreich gegangen sind. Dies ist die **Zuflucht zum Sangha**, der Gemeinschaft derer, die auf dem Weg Buddhas zur Erlösung gelangt sind.
-:::⟪२⟫. **⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
+:::
+⟪२⟫. **⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 "Ich werde nach Benares (Kāśī) gehen, den Ganges sehen und dort sterben" — mit diesem Gedanken verließ der ehrenwerte alte Mann Söhne, Enkelsöhne und Besitz und zog nach Benares aus. Ich denke, dass er so das zu beendende Leiden überwinden wird.
 
 ⟪३⟫. **⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**

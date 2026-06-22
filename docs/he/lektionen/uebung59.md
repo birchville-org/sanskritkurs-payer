@@ -12,7 +12,8 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung098.webp)
 תמונה: ⟪रावणः⟫
 (מקור התמונה: [פרטים](/licenses#uebung098))
-:::---
+:::
+---
 
 ## A) ניתוח טקסט
 

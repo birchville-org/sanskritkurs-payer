@@ -16,7 +16,8 @@ status: stable
 **Before vocal endings, the stem vowel in the weak cases has the zero-grade Ø.**
 
 **Declension in the masculine and feminine is identical.**
-:::Paradigm:
+:::
+Paradigm:
 
 ⟪विश्वपा⟫ m.f. "protecting the all"
 
@@ -36,7 +37,8 @@ status: stable
 **Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
 **In addition to formations with the regular case endings, formations following the pattern of multisyllabic feminine nouns in -ī (⟪देवी⟫) also occur in the Dat.Ab.Gen.Loc.sg. and Gen.pl.**
-:::Paradigm:
+:::
+Paradigm:
 
 ⟪धी⟫ f. "thought"
 
@@ -67,7 +69,8 @@ Irregular: ⟪स्त्री⟫ f. "woman"
 ![](/images/lekt6102.webp)
 Fig.: ⟪स्त्रियः⟫
 (Image source: [Details](/en/licenses#lekt6102))
-:::### 61.1.3. Root nouns ending in -ī in ⟪तत्पुरुष⟫
+:::
+### 61.1.3. Root nouns ending in -ī in ⟪तत्पुरुष⟫
 
 :::grammar-box
 **Before vocalic endings, -ī is replaced by -y if it is preceded only by a consonant belonging to the root. If several consonants belonging to the root precede, the -ī before a vocalic ending is replaced by -iy.**
@@ -76,7 +79,8 @@ Fig.: ⟪स्त्रियः⟫
 
 **Irregularity: Compounds ending in -⟪नी⟫ "leading" have the ending -ām in the loc.sg (like ⟪देवी⟫):**
 e.g. ⟪ग्रामणी⟫ "leading a troop/a village": loc.sg.m.f. ⟪ग्रामण्याम्⟫
-:::Paradigms:
+:::
+Paradigms:
 
 ⟪शुद्धधी⟫ m., f. "Thinking purely"
 
@@ -108,7 +112,8 @@ e.g. ⟪ग्रामणी⟫ "leading a troop/a village": loc.sg.m.f. ⟪ग
 **Stem before vowel: -uv**
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
-:::Paradigm:
+:::
+Paradigm:
 
 ⟪भू⟫ f. "Earth"
 
@@ -128,7 +133,8 @@ e.g. ⟪ग्रामणी⟫ "leading a troop/a village": loc.sg.m.f. ⟪ग
 **Before vocal endings, -ū is replaced by -v if it is preceded only by a consonant belonging to the root. If several consonants belonging to the root precede, the -ū before a vocal ending is replaced by -uv.**
 
 **Declension is identical in the masculine and feminine.**
-:::Paradigm:
+:::
+Paradigm:
 
 ⟪खलपू⟫ m., f. "one who sweeps the barn"
 
@@ -147,11 +153,13 @@ e.g. ⟪ग्रामणी⟫ "leading a troop/a village": loc.sg.m.f. ⟪ग
 Fig.: ⟪रथ्याप्वः⟫
 ⟪काशीपुर⟫
 (Image source: [Details](/en/licenses#lekt6106))
-:::### 61.1.6. Declension of multisyllabic feminine nouns ending in -ū
+:::
+### 61.1.6. Declension of multisyllabic feminine nouns ending in -ū
 
 :::grammar-box
 **Multisyllabic feminine nouns ending in -ū are declined analogously to multisyllabic stems ending in -ī (⟪देवी⟫), but they end in -s in the Nom. sg.**
-:::Paradigm:
+:::
+Paradigm:
 
 ⟪वधू⟫ f. "young woman, bride"
 
@@ -171,7 +179,8 @@ Fig.: ⟪रथ्याप्वः⟫
 Fig.: ⟪वध्वौ⟫
 ⟪जोधपुर⟫
 (Image source: [Details](/en/licenses#lekt6107))
-:::## 61.2. The periphrastic future (⟪लुट्⟫)
+:::
+## 61.2. The periphrastic future (⟪लुट्⟫)
 
 :::grammar-box
 **In addition to the simple future (⟪ऌत्⟫), there is a periphrastic future (⟪लुट्⟫). According to the teaching of native grammarians, it is used to denote the distant future ("after the current day"), while the simple future denotes the near future ("on the current day"). In Classical Sanskrit, it seems that no difference in the use of the two futures is usually made.**
@@ -179,7 +188,8 @@ Fig.: ⟪वध्वौ⟫
 **Formation:**
 
 **The periphrastic future is formed by connecting a nominal agent in -tṛ with the present tense of ⟪अस्⟫ 2. As the third person, the simple noun serves in the corresponding number, without distinction in grammatical gender. In the combinations with ⟪अस्⟫, the noun in all persons and numbers has the form of the nominative singular in -tā.**
-:::The endings of the periphrastic future are therefore:
+:::
+The endings of the periphrastic future are therefore:
 
 :::grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -190,7 +200,8 @@ Fig.: ⟪वध्वौ⟫
 | **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
 ::::::grammar-box
 **Form of the root: The root generally has the same form as in the simple future. The same applies to the connecting vowel -i-.**
-:::Examples:
+:::
+Examples:
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ etc. |
 | --- | --- |
@@ -211,7 +222,8 @@ Paradigm:
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 ::::::grammar-box
 **The verb ⟪अस्⟫ is separated from the nominal stem only very rarely.**
-:::## 61.3. The Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
+:::
+## 61.3. The Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
 
 :::grammar-box
 **An Intensivum (⟪चर्करीतम्⟫) can be formed from every monosyllabic root beginning with a consonant of the first nine present classes; that is: with few exceptions, no Intensivum can be formed from disyllabic roots (e.g. ⟪जागृ⟫), roots beginning with a vowel, and roots of the 10th present class (⟪चुरादिगण⟫).**
@@ -245,7 +257,8 @@ Karnataka = ಕರ್ನಾಟಕ
 *   **Parasmaipada-Intensivum**
 
 **Both are formed from the root reduplicated with strong reduplication. Both differ in meaning not. Both can be formed for the same roots.**
-:::### 61.3.1. Ātmanepada Intensive
+:::
+### 61.3.1. Ātmanepada Intensive
 
 ::::grammar-box
 **Formation:**
@@ -259,10 +272,12 @@ Examples:
 :::indent
 ⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intensive ⟪सोषुप्यते⟫
 ⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intensive ⟪देदीयते⟫
-:::The rules in detail in Kielhorn, Grammar § 461.
+:::
+The rules in detail in Kielhorn, Grammar § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-::::Examples:
+::::
+Examples:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -277,7 +292,8 @@ Examples:
 
 :::indent
 e.g. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
-:::**With some roots, between the vowel of the reduplicating syllable and the initial consonant of the root, -nī- or -rī- appears (-rī- with roots that contain an ṛ in the Intensive).**
+:::
+**With some roots, between the vowel of the reduplicating syllable and the initial consonant of the root, -nī- or -rī- appears (-rī- with roots that contain an ṛ in the Intensive).**
 
 :::indent
 e.g.
@@ -293,7 +309,8 @@ e.g.
     *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
     *   **Future: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
     *   **periphrastic future: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
-:::### 61.3.2. Parasmaipada-Intensivum
+:::
+### 61.3.2. Parasmaipada-Intensivum
 
 :::grammar-box
 **Present stem (other forms are extremely rare): Formation and conjugation like a verb of the 3rd present class (⟪जुहोत्यादिगण⟫) with the difference that the vowel of the reduplication syllable is high-grade, with -a- being extended-grade.**
@@ -301,7 +318,8 @@ e.g.
 **In the singular indicative present as well as 2.3.sg. imperfect and 3.sg.imperative, an -ī- can be inserted between root and ending. If this -ī- is inserted, a short vowel in penultimate position must not be guṇated.**
 
 **Regarding reduplication with nasal as well as the insertion of -nī- or -rī-, the same applies as for the Ātmanepada-Intensivum. Instead of -rī-, -ri- may optionally stand.**
-:::Paradigm:
+:::
+Paradigm:
 
 ⟪भू⟫ 1P
 
@@ -313,7 +331,8 @@ Indicative Present (⟪लट्⟫):
 | 1. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
-:::Imperfect (⟪लङ्⟫):
+:::
+Imperfect (⟪लङ्⟫):
 
 :::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -321,7 +340,8 @@ Indicative Present (⟪लट्⟫):
 | 1. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
-:::Imperative (⟪लोट्⟫):
+:::
+Imperative (⟪लोट्⟫):
 
 :::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -329,7 +349,8 @@ Indicative Present (⟪लट्⟫):
 | 1. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
-:::Optative (⟪विधिलिङ्⟫):
+:::
+Optative (⟪विधिलिङ्⟫):
 
 :::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -337,7 +358,8 @@ Indicative Present (⟪लट्⟫):
 | 1. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
-:::## 61.4. Denominatives (⟪नामधातु⟫)
+:::
+## 61.4. Denominatives (⟪नामधातु⟫)
 
 Denominatives (⟪नामधातवः⟫) are formed, in contrast to the verbs treated so far, not from a verbal root, but from a nominal stem. There are various types of formation.
 
@@ -348,11 +370,13 @@ Denominatives (⟪नामधातवः⟫) are formed, in contrast to the ve
 
 :::indent
 **a person or thing behaves as that which, or resembles that which, is designated by the nominal stem.**
-:::**Conjugation:**
+:::
+**Conjugation:**
 
 :::indent
 **in the present stem like a verb of the 1st present class (⟪भ्वादिगण⟫). If the noun has mehl as a vowel, only the final vowel is treated like the root vowel of the 1st class. Final -a is dropped before the thematic vowel. A vowel before a final nasal is replaced by the corresponding long vowel.**
-:::::::Examples:
+:::::::
+Examples:
 
 | ⟪कवि⟫ m. "poet" | ⟪कवयति⟫ "he behaves like a poet" |
 | --- | --- |
@@ -382,7 +406,8 @@ Denominatives (⟪नामधातवः⟫) are formed, in contrast to the ve
 *   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
 *   **final nasal drops out, preceding vowel is treated according to the rules just mentioned:** ⟪राजन्⟫ » ⟪राजीय⟫-
 *   **other final consonants remain unchanged**
-:::::::Examples:
+:::::::
+Examples:
 
 | ⟪पुत्र⟫ m. "son" | ⟪पुत्रीयति⟫ "he desires a son" |
 | --- | --- |
@@ -407,13 +432,15 @@ Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ![](/images/lekt6103.webp)
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
 (Image source: [Details](/en/licenses#lekt6103))
-:::### 61.4.3. Formation with the Suffix -kāmya, Parasmaipada
+:::
+### 61.4.3. Formation with the Suffix -kāmya, Parasmaipada
 
 :::grammar-box
 **Meaning:**
 
 **one wishes for that which is designated by the nominal stem**
-:::Examples:
+:::
+Examples:
 
 | ⟪पुत्र⟫ m. "son" | ⟪पुत्रकाय्म्यति⟫ "he wishes for a son" |
 | --- | --- |
@@ -424,14 +451,16 @@ Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥�
 Fig.: ⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
 (Image source: [Details](/en/licenses#lekt6109))
-:::### 61.4.4. Formation with the Suffix -sya or -asya, Parasmaipada
+:::
+### 61.4.4. Formation with the Suffix -sya or -asya, Parasmaipada
 
 ::::grammar-box
 **Meaning:**
 
 :::indent
 **someone desires intensely that which is designated by the nominal stem.**
-:::::::Examples:
+:::::::
+Examples:
 
 :::grammar-box
 | ⟪मधु⟫ n. "honey" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "he desires honey intensely" |
@@ -442,14 +471,16 @@ Fig.: ⟪यशस्काम्यन्ति⟫
 Fig.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
 Karli
 (Image source: [Details](/en/licenses#lekt6110))
-:::### 61.4.5. Formation with the suffix -ya, Ātmanepada
+:::
+### 61.4.5. Formation with the suffix -ya, Ātmanepada
 
 ::::grammar-box
 **Meaning:**
 
 :::indent
 **someone behaves as that which, or resembles that which, is designated by the nominal stem.**
-:::**Formation:**
+:::
+**Formation:**
 
 *   **final -a » -ā**
 *   **final -ā remains unchanged**
@@ -457,7 +488,8 @@ Karli
 *   **final -as optionally » -ā**
 *   **feminine stem mostly » masculine stem**
 
-::::Examples:
+::::
+Examples:
 
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "he behaves like Kṛṣṇa" |
 | --- | --- |
@@ -469,7 +501,8 @@ Karli
 
 :::indent
 e.g. ⟪उन्मनस्⟫ 3 "excited": ⟪उन्मनायते⟫ "he becomes excited"
-:::**In some cases, verbs with other meanings are formed with this suffix:**
+:::
+**In some cases, verbs with other meanings are formed with this suffix:**
 
 Examples:
 
@@ -480,13 +513,15 @@ Examples:
 ![](/images/lekt6111.webp)
 Fig.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
 (Image source: [Details](/en/licenses#lekt6111))
-:::### 61.4.6. Formation with the suffix -aya, -āpaya
+:::
+### 61.4.6. Formation with the suffix -aya, -āpaya
 
 :::grammar-box
 **Various meanings.**
 
 **Conjugated like causatives.**
-:::Examples:
+:::
+Examples:
 
 | ⟪सत्य⟫ 3 "true" | ⟪स्तयपायति⟫ "he declares true" |
 | --- | --- |
@@ -497,7 +532,8 @@ Fig.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
 Fig.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
 Thailand - เมืองไทย
 (Image source: [Details](/en/licenses#lekt6113))
-:::A list of denominatives e.g. in:
+:::
+A list of denominatives e.g. in:
 
 :::media
 ![](/images/lekt6112.jpg)
@@ -506,14 +542,16 @@ Fig.:
 (Image source: [Details](/en/licenses#lekt6112))
 ::::::indent
 **Westergaard**, Niels Ludvig &lt;1815-1878&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
-:::## 61.5. The Benedictive (⟪आशीर्लिङ्⟫)
+:::
+## 61.5. The Benedictive (⟪आशीर्लिङ्⟫)
 
 ::::grammar-box
 **Meaning:**
 
 :::indent
 **Blessing**
-:::**Formation:**
+:::
+**Formation:**
 
 **Parasmaipada:**
 
@@ -521,7 +559,8 @@ Fig.:
 
 :::indent
 e.g. ⟪बुध्यासम्⟫ "may I know!"
-:::**Ātmanepada:**
+:::
+**Ātmanepada:**
 
 **(usually) strong-grade root + sī(y) + secondary ending**
 
@@ -533,9 +572,11 @@ e.g. ⟪बुध्यासम्⟫ "may I know!"
 e.g.
 ⟪जि⟫ : ⟪जेषीय⟫ "may I conquer for my own benefit!"
 ⟪बुध्⟫ : ⟪बोधिषीय⟫ "may I know"
-:::**The rules for the form of the root in detail can be found in Kielhorn, Grammar § 380ff.**
+:::
+**The rules for the form of the root in detail can be found in Kielhorn, Grammar § 380ff.**
 
-::::Paradigm:
+::::
+Paradigm:
 
 ⟪बुध्⟫ "to awaken"
 
@@ -551,11 +592,13 @@ e.g.
 Fig.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
 Santa Cruz Basilica, Kochi = കൊച്ചി
 (Image source: [Details](/en/licenses#lekt6114))
-:::## 61.6. The Conditional (⟪ऌङ्⟫)
+:::
+## 61.6. The Conditional (⟪ऌङ्⟫)
 
 :::grammar-box
 **The Conditional (⟪ऌङ्⟫) is used when one wishes to express in conditional sentences that what is stated as the condition is not the case / has not been the case / will not be the case. The Conditional must be used in such sentences in both the conditional clause and the main clause.**
-:::Example:
+:::
+Example:
 
 :::indent
 ⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "If it had rained well (or were to rain), there would be abundant food. (But it has not (sufficiently) rained.)"
@@ -567,7 +610,8 @@ Santa Cruz Basilica, Kochi = കൊച്ചി
 i.e., like an Imperfect (⟪लङ्⟫) to the future stem.
 
 e.g., ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
-:::Paradigm:
+:::
+Paradigm:
 
 ⟪भू⟫ "to be, to become"
 
@@ -578,13 +622,15 @@ e.g., ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪�
 | **1\. ⟪तृतीयः⟫** | ⟪अभविष्यम्⟫ | ⟪अभविष्याव⟫ | ⟪अभविष्याम⟫ | ⟪अभविष्ये⟫ | ⟪अभविष्यावहि⟫ | ⟪अभविष्यामहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
-:::## 61.7. Declension of Nouns in -ai, -o, -au
+:::
+## 61.7. Declension of Nouns in -ai, -o, -au
 
 :::grammar-box
 **Before consonants, these stems end in -ai, -o, -au; before consonants in -āy, -av, -āv**
 
 **⟪गो⟫ m.f. "ox, cow" exhibits stem gradation.** See the detailed explanation in Thumb-Hauschild § 296/7.
-:::Paradigms: Kielhorn, Grammar § 153:
+:::
+Paradigms: Kielhorn, Grammar § 153:
 
 :::media
 ![](/images/lekt6115.webp)
@@ -593,7 +639,8 @@ e.g., ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪�
 ![](/images/lekt6118.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 (Image source: [Details](/en/licenses#lekt6118))
-:::## 61.8. Remaining Pronouns
+:::
+## 61.8. Remaining Pronouns
 
 ### 61.8.1. Personal pronouns of the dual
 
@@ -607,7 +654,8 @@ Kielhorn, Grammar § 177:
 Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
 Apatani people, Arunachal Pradesh
 (Image source: [Details](/en/licenses#lekt6117))
-:::### 61.8.2. Demonstrative Pronouns ⟪अदस्⟫ "that (distant)"
+:::
+### 61.8.2. Demonstrative Pronouns ⟪अदस्⟫ "that (distant)"
 
 Masculine (⟪पुंस्⟫)
 
@@ -621,7 +669,8 @@ Masculine (⟪पुंस्⟫)
 | **⟪पञ्चमी⟫** | ⟪अमुष्मात्⟫ | ^^ | ^^ |
 | **⟪षष्ठी⟫** | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
-:::Neuter (⟪नपुंसक⟫)
+:::
+Neuter (⟪नपुंसक⟫)
 
 :::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -631,7 +680,8 @@ Masculine (⟪पुंस्⟫)
 
 Rest as Masculine
 
-:::Feminine (⟪स्त्री⟫)
+:::
+Feminine (⟪स्त्री⟫)
 
 :::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -643,7 +693,8 @@ Rest as Masculine
 | **⟪पञ्चमी⟫** | ⟪अमुष्यास्⟫ | ^^ | ^^ |
 | **⟪षष्ठी⟫** | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
-:::## 61.9. Release into the Ocean of Sanskrit Literature: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+:::
+## 61.9. Release into the Ocean of Sanskrit Literature: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
 After completing the Sanskrit course, the actual "swimming" in the ocean of Sanskrit literature only begins. Since this ocean is full of obstacles, it is appropriate to begin this new phase of life with an invocation of Gaṇeśa:
 
@@ -657,7 +708,8 @@ Halebidu (ಹಳೆಬೀಡು), 12th/13th century CE
 |   |   |
 | --- | --- |
 | ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
-:::::::***ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫*** by Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
+:::::::
+***ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫*** by Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
 Composer and poet: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
@@ -674,11 +726,13 @@ Tāla: Rūpaka: o |4
 ![](/images/lekt6119.webp)
 Fig.: Melody, referenced to c, can be transposed depending on vocal range.
 (Image source: [Details](/en/licenses#lekt6119))
-:::ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ stands at the beginning of instruction in Kannarese music. See the video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accessed on 2009-03-05 
+:::
+ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ stands at the beginning of instruction in Kannarese music. See the video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accessed on 2009-03-05 
 
 After you have now learned the basics of Sanskrit, you are hopefully like the toddlers in the video: sometimes clumsy, but eager to learn and full of curiosity, and enjoying the process. Keep "a beginner's mind" until the end of your life.
 
-:::center
+:::
+center
 This is your wish from your Alois Payer
 
 Ofterdingen, 2009-03-09
@@ -686,7 +740,8 @@ Ofterdingen, 2009-03-09
 ***⟪ॐ⟫***
 
 END OF THE SANSKRIT COURSE
-:::---
+:::
+---
 
 :::deleteme-box
 

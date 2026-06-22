@@ -69,7 +69,8 @@ A) Formare la **seconda persona** corrispondente per tempo, numero, modo, ecc. a
 ![](/images/uebung070.webp)
 Fig.: ⟪दिशसि⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung070))
-:::---
+:::
+---
 
 ## Traduzioni in sanscrito
 
@@ -109,7 +110,8 @@ Come ti salvi (attraversi il fiume) dal nemico?
 ![](/images/uebung071.jpg)
 Fig.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung071))
-:::---
+:::
+---
 
 ## Conversazione (⟪संवादः⟫)
 

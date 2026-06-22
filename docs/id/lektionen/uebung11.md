@@ -128,7 +128,8 @@ D) Form the passive construction for the sentences formed in C)
 ![](/images/uebung022.webp)
 Fig.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#uebung022))
-:::---
+:::
+---
 
 ## Additional Exercises
 

@@ -104,7 +104,8 @@ A) Formați cauzativul pentru următoarele forme verbale și forme participiale:
 | ⟪हन्⟫ | ⟪घातयति⟫ | a porunci uciderea, a omorî |
 | ⟪जि⟫ | ⟪जापयति⟫ | a porunci victoria |
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | a da viață |
-:::B) Traduceți următoarele propoziții și formați, folosind verbele simple, propoziții care exprimă ceea ce se întâmplă atunci când ceea ce este exprimat prin causativ este realizat.
+:::
+B) Traduceți următoarele propoziții și formați, folosind verbele simple, propoziții care exprimă ceea ce se întâmplă atunci când ceea ce este exprimat prin causativ este realizat.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
 Kṣatriya, pentru a-i învinge pe dușmani, i-a poruncit brahmanului Hari și Hara să fie onorați printr-un jertfă și va lupta împotriva dușmanilor.

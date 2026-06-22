@@ -41,7 +41,8 @@ Il padre desiderava il conseguimento di nipoti.
 ![](/images/uebung068.webp)
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung068))
-:::---
+:::
+---
 
 ## Racconto: Il matrimonio di Sītā (⟪सीताविवाहः⟫)
 

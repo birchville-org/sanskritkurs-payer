@@ -35,7 +35,8 @@ La brevedad es el adorno del gramático.
 ![](/images/uebung083.webp)
 Fig.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung083))
-:::---
+:::
+---
 
 ## Traducciones al sánscrito (Imperativo)
 
@@ -57,7 +58,8 @@ Hablemos.
 ![](/images/uebung085.webp)
 Fig.: ⟪वचाम⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung085))
-:::⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
+:::
+⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 Con las palabras «Ven, monje», el Buda aceptó al hombre en la orden.
 
 ⟪६⟫. **⟪सन्मानवाः⟫ ⟪स्त⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
@@ -109,7 +111,8 @@ Los maridos deben mantener a sus esposas.
 ![](/images/uebung076.webp)
 Fig.: ⟪तानि⟫ ⟪फलान्यदाम⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung076))
-:::---
+:::
+---
 
 ## El Dharma de las mujeres (⟪स्त्रीधर्मः⟫)
 

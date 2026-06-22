@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-07
 - Important nominal suffixes (-a, -ana, -tra, -ti, -tva, -tā)
 - The 8th present class (tanādi)
 - The conjugation of **kṛ** (tun, to make)
-:::---
+:::
+---
 
 ## 8.1. On the Formation of Nouns
 
@@ -29,7 +30,8 @@ In traditional Indian grammar, a distinction is made among the suffixes used to 
 **Root + kṛt-suffix » nominal stem etc. + taddhita-suffix » new nominal stem etc.**
 
 **Nominal stem + case ending » syntactically functional noun**
-:::---
+:::
+---
 
 ## 8.2. Classification of Nominal Suffixes
 
@@ -61,7 +63,8 @@ In traditional Indian grammar, a distinction is made among the suffixes used to 
 
 :::grammar-box
 **The kṛt suffix -a forms masculine (rarely neuter) nouns that denote an action or state designated by the root; sometimes also adjectives or nouns that express the agent (kartṛ) of the action designated by the verbal root. For short penultimate (= vowel before consonant, on which the root ends) or final root vowel, usually strong grade (guṇa) or lengthened grade (vṛddhi) is substituted.**
-:::**Examples:**
+:::
+**Examples:**
 
 | Root:br⟪धातु⟫ | + -a (kṛt) | Meaning |
 | :--- | :--- | :--- |
@@ -82,7 +85,8 @@ In traditional Indian grammar, a distinction is made among the suffixes used to 
 
 :::grammar-box
 **The kṛt suffix -ana usually forms neuter nouns that denote an action, a state, or the means or instrument by which the action designated by the root or verbal stem is accomplished. For a short penultimate or an ending vowel of the root, high grade (guṇa) substitution is usually made.**
-:::**Examples:**
+:::
+**Examples:**
 
 | Root:br⟪धातु⟫ | + -ana (kṛt) | Meaning |
 | :--- | :--- | :--- |
@@ -97,18 +101,21 @@ In traditional Indian grammar, a distinction is made among the suffixes used to 
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Image source: [Details](/en/licenses#lekt0801))
-::::::note-box
+::::::
+note-box
 **"Darshan"** or **"Darshana"** is a term from Hinduism for the sight and vision of the sacred and divine. Under *Darshana* is understood, for example, the official meeting of student and master, in which the student was invited by the master. But it can also mean *sinking into oneself* when viewing an image of a god. The latter meaning is the one that is most common in the modern usage of Hindi. In connection with Mata Amritanandamayi, Darshan means the embrace by the Guru.
 
 Devout Hindus go to the temple to obtain the sight of God through a symbol or statue in which the spiritual presence of the deity is assumed. In this sense, also a blessing by the deity. However, Darshan can also be received through a vision of the deity during prayer or meditation. A living person who is regarded as an incarnation of the deity, such as an Avatara, can also give Darshan.
 (Source: Wikipedia)
-:::---
+:::
+---
 
 ### 8.3.3. -tra n. (kṛt)
 
 :::grammar-box
 **The kṛt suffix -tra forms (mostly) neuter nouns that denote the means or instrument by which the action designated by the root comes about. A short penultimate and a final vowel of the root is replaced by strong grade (guṇa).**
-:::**Examples:**
+:::
+**Examples:**
 
 | Root:br⟪धातु⟫ | + -tra (kṛt) | Meaning |
 | :--- | :--- | :--- |
@@ -128,13 +135,15 @@ Devout Hindus go to the temple to obtain the sight of God through a symbol or st
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam script | Jaina-Oṃ |
 (Image sources: [Details](/en/licenses#lekt0803))
-:::---
+:::
+---
 
 ### 8.3.4. -ti f. (kṛt)
 
 :::grammar-box
 **The kṛt suffix -ti forms feminine nouns that generally express the action designated by the root or the state designated by the root. The form of the root is in the guṇa grade.**
-:::**Examples:**
+:::
+**Examples:**
 
 | Root:br⟪धातु⟫ | + -ti (kṛt) | Meaning |
 | :--- | :--- | :--- |
@@ -154,7 +163,8 @@ Devout Hindus go to the temple to obtain the sight of God through a symbol or st
 
 :::grammar-box
 **The taddhita suffixes -tva n. and -tā f. form abstract nouns from nominal stems. The form of the underlying nominal stem remains unchanged.**
-:::**Examples:**
+:::
+**Examples:**
 
 | Nominal stem:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Meaning |
 | :--- | :--- | :--- | :--- |
@@ -178,7 +188,8 @@ Example **tan** 8 U (⟪तन्⟫) "to stretch":
 - 3\. pl. P. **tanvanti**:br⟪तन्वन्ति⟫
 - 3\. sg. Ā. **tanute**:br⟪तनुते⟫
 - 3\. pl. Ā. **tanvate**:br⟪तन्वते⟫
-:::Note: Regarding the debate whether **tan** is actually a root of the 5th class (*tn » ta + no-), see Thumb-Hauschild, Handbuch des Sanskrit II, 265.
+:::
+Note: Regarding the debate whether **tan** is actually a root of the 5th class (*tn » ta + no-), see Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
 The most important root of the 8th class is **kṛ** 8 U (⟪कृ⟫) "to do, to make". Its conjugation is irregular:
 
@@ -188,7 +199,8 @@ The most important root of the 8th class is **kṛ** 8 U (⟪कृ⟫) "to do, 
 - 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
 - 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
 - 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
-:::---
+:::
+---
 
 ## 8.5. Word List
 
@@ -220,7 +232,8 @@ Fig.: **likh** (⟪लिख्⟫) : Indian steel writing stylus for engraving 
 ![](/images/lekt0810.jpg)
 Fig.: **likh** (⟪लिख्⟫) : Writing stick of the Batak (Sumatra), as it was presumably also used in India
 (Image source: [Details](/en/licenses#lekt0809))
-:::- **sukha** n. ⟪सुख⟫ : happiness, well-being
+:::
+- **sukha** n. ⟪सुख⟫ : happiness, well-being
 - **duḥkha** n. ⟪दुःख⟫ : misfortune, suffering
 
 ---

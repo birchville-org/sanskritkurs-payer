@@ -56,7 +56,8 @@ Determine las siguientes formas:
 ![](/images/uebung078.webp)
 Fig.: ⟪गायी⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung078))
-:::---
+:::
+---
 
 ## ⟪बाण⟫ (⟪७⟫. s. d. C.): ⟪कादम्बरी⟫
 

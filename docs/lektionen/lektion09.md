@@ -15,7 +15,8 @@ last_reconstructed: 2026-05-07
 - Die Bildung von Nominalstämmen mit den Suffixen **-ka** (taddhita) und **-aka** (kṛt)
 - Wortschatz zum Thema Berufe und soziale Rollen
 - Zitate aus klassischen Gesetzestexten (Dharmaśāstras)
-:::---
+:::
+---
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva")
 
@@ -23,7 +24,8 @@ last_reconstructed: 2026-05-07
 **Wenn ein Dvandva ausdrücken soll, dass eine Reihe von Dingen usw. eine Einheit bilden, dann steht es im Allgemeinen im Singular Neutrum:**
 
 z.B. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ bedeutet nicht einfach "Nahrungsaufnahme (**āhāra** m.), Schlaf (**nidrā** f.), Paarung (**maithuna** n.) und Angst (**bhaya** n.)", sondern diese vier als **Einheit**, die das tierische Leben charakterisiert.
-:::Neben dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Reihe weiterer Regeln, die man bei Pāṇini 2,4,2-17 oder z.B. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a findet. In den verschiedenen Stufen der Sprachentwicklung wurden nicht immer die gleichen Regeln eingehalten!
+:::
+Neben dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Reihe weiterer Regeln, die man bei Pāṇini 2,4,2-17 oder z.B. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a findet. In den verschiedenen Stufen der Sprachentwicklung wurden nicht immer die gleichen Regeln eingehalten!
 
 ---
 
@@ -48,7 +50,8 @@ z.B. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम�
 4\. **Nomina, die ausdrücken "zum Begriff des Grundwortes in Beziehung stehend":**
    **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "in Benares gebürtig, aus Benares stammend"**
    **rūpa n. "Gestalt" » rūpaka 3 ⟪रूपक⟫ "die Gestalt von etwas besitzend"**
-:::---
+:::
+---
 
 ### 9.2.2. -aka (kṛt), fem. oft -ikā
 
@@ -56,7 +59,8 @@ z.B. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम�
 **Das kṛt-Suffix -aka, Femininum oft -ikā, bildet Nomina agentis (Nomina, die den Täter ausdrücken) zu jeder Wurzel.**
 
 Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel werden durch ihre Dehnstufe (**vṛddhi**) ersetzt (es gibt einige Ausnahmen), die übrigen Vokale werden durch ihre Hochstufe (**guṇa**) ersetzt.
-:::**Beispiele:**
+:::
+**Beispiele:**
 
 | Wurzel:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
@@ -69,7 +73,8 @@ Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel 
 
 :::grammar-box
 **Einige dieser Bildungen haben die engere Bedeutung: "das durch die Wurzel ausgedrückte gewohnheitsmäßig oder als Obliegenheit oder gut vollziehend".**
-:::siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka**
+:::
+siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka**
 
 **Beispiele:**
 
@@ -93,13 +98,15 @@ Daneben gibt es noch einige weniger wichtige Verwendungen des Suffixes **-aka**.
 ![](/images/lekt0903.webp)
 Abb.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
 (Bildquelle: [Details](/licenses#lekt0903))
-:::- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Handwerker
+:::
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Handwerker
 
 :::media
 ![](/images/lekt0902.webp)
 Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 (Bildquelle: [Details](/licenses#lekt0902))
-:::- **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger
+:::
+- **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger
 - **kusīda** n. (⟪कुसीद⟫) : Wucher
 - **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : ziehen
 - **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : pflügen
@@ -132,7 +139,8 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 ![](/images/lekt0901.webp)
 Abb.: **karṣaka** = ⟪कर्षक⟫.
 (Bildquelle: [Details](/licenses#lekt0901))
-:::8\. kleśa (⟪क्लेश⟫)
+:::
+8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
 11\. nartaka (f. nartakī) (⟪नर्तक⟫ / ⟪नर्तकी⟫)

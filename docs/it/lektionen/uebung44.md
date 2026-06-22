@@ -66,7 +66,8 @@ A) Determinare e tradurre le seguenti forme:
 | ⟪५०⟫. **⟪चिनुथ⟫** | ⟪चि⟫ (5U) 2. pl. P. Ind. Präs. | voi ammassate |
 | ⟪५१⟫. **⟪हथ⟫** | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | voi colpite |
 | ⟪५२⟫. **⟪हतः⟫** | ⟪हन्⟫ (2P) PPP Nom. sg. m. | colpito / ucciso |
-:::---
+:::
+---
 
 ## Traduzioni
 
@@ -100,7 +101,8 @@ Hai pianto gli indegni di pianto e volevi pronunciare parole di saggezza; ma i s
 ![](/images/uebung072.webp)
 Fig.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Fonte dell’immagine: [Dettagli](/it/licenses#uebung072))
-:::---
+:::
+---
 
 ## Ulteriori determinazioni di forma
 

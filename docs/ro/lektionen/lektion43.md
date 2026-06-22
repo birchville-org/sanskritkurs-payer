@@ -18,7 +18,8 @@ status: stable
 | **Terminări primare** | -si | -tha | -se | -dhve |
 | **Terminări secundare** | -s | -ta | -thās | -dhvam |
 | **Terminări perfect** | -tha | -a | -se | -dhve |
-:::Rețineți că terminația secundă a celei de-a 2-a persoane plural este identică cu terminația secundă a celei de-a 3-a persoane singular activ.
+:::
+Rețineți că terminația secundă a celei de-a 2-a persoane plural este identică cu terminația secundă a celei de-a 3-a persoane singular activ.
 
 ## 43.2. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫)
 
@@ -31,7 +32,8 @@ Persoana a II-a:
 
 :::media
 ![](/images/lekt4301.jpg)
-:::Singularul 3. al Imperfectului și al Optativului în Ā, respectiv Pluralul 2. al Imperfectului și al Optativului, sunt formal identice!
+:::
+Singularul 3. al Imperfectului și al Optativului în Ā, respectiv Pluralul 2. al Imperfectului și al Optativului, sunt formal identice!
 
 #### 43.2.1.1.1. Prima clasă de prezent (⟪भ्वादि⟫)
 
@@ -122,11 +124,13 @@ Persoana a II-a:
 | **⟪पञ्चमी⟫** | ⟪त्वत्⟫ | ⟪युष्मत्⟫ |
 | **⟪षष्ठी⟫** | ⟪तव⟫ ⟪ते⟫ | ⟪युष्माकम्⟫ ⟪वस्⟫ |
 | **⟪सप्तमी⟫** | ⟪त्वयि⟫ | ⟪युष्मासु⟫ |
-:::Formele ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ nu pot fi folosite la începutul unei propoziții sau al unei jumătăți de vers. De asemenea, nu pot fi utilizate înainte de ⟪च⟫, ⟪वा⟫, ⟪एव⟫ și alte particule similare:
+:::
+Formele ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ nu pot fi folosite la începutul unei propoziții sau al unei jumătăți de vers. De asemenea, nu pot fi utilizate înainte de ⟪च⟫, ⟪वा⟫, ⟪एव⟫ și alte particule similare:
 
 :::indent
 ⟪त्वां⟫ ⟪मां⟫ ⟪च⟫ "pe tine și pe mine"
-:::## 43.4. Listă de cuvinte
+:::
+## 43.4. Listă de cuvinte
 
 ⟪ज्ञा⟫ + ⟪आ⟫ Causativ ⟪आज्ञापयति⟫ : porunci, dispune
 
@@ -136,7 +140,8 @@ Persoana a II-a:
 ![](/images/lekt4302.webp)
 Fig.: ⟪आपणः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4302))
-:::⟪सत्वर⟫ 3: rapid, grăbit
+:::
+⟪सत्वर⟫ 3: rapid, grăbit
 
 ⟪पण्य⟫ 3: vândut; n.: marfă, comerț
 
@@ -144,7 +149,8 @@ Fig.: ⟪आपणः⟫
 ![]/images/lekt4303.webp
 Fig.: ⟪पण्यानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4303))
-:::⟪आम्⟫ : da
+:::
+⟪आम्⟫ : da
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -166,13 +172,15 @@ Fig.: ⟪पण्यानि⟫
 ![](/images/lekt4304.webp)
 Fig.: ⟪विपणिः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4304))
-:::⟪वणिज्⟫ m.: comerciant
+:::
+⟪वणिज्⟫ m.: comerciant
 
 :::media
 ![](/images/lekt4305.webp)
 Fig.: ⟪वणिक्⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4305))
-:::⟪वर⟫ 3: cel mai bun
+:::
+⟪वर⟫ 3: cel mai bun
 
 ⟪शीघ्र⟫ 3: rapid, repede
 
@@ -182,7 +190,8 @@ Fig.: ⟪वणिक्⟫
 ![](/images/lekt4306.webp)
 Fig.: ⟪वत्सः⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4306))
-:::⟪उत्तम⟫ 3: suprem, cel mai bun
+:::
+⟪उत्तम⟫ 3: suprem, cel mai bun
 
 ⟪अल्प⟫ 3: mic, puțin
 
@@ -202,7 +211,8 @@ Fig.: ⟪वत्सः⟫
 ![](/images/lekt4307.webp)
 Fig.: ⟪तोलयति⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4307))
-:::⟪तोलन्ति⟫ n.: hârtie
+:::
+⟪तोलन्ति⟫ n.: hârtie
 
 ⟪कर्गल⟫ m.: cutie (aici: pachet, legătură)
 
@@ -222,7 +232,8 @@ Caus. ⟪द्रूयते⟫
 PPP ⟪द्रावयति⟫  
 Absol. -⟪द्रुत⟫  
 Inf. ⟪द्रुत्य⟫
-:::⟪द्रोतुम्⟫ Interjecție: Hei! Tu acolo!
+:::
+⟪द्रोतुम्⟫ Interjecție: Hei! Tu acolo!
 
 ⟪रे⟫ 3: altul (declinație ca ⟪अन्यद्⟫ )
 
@@ -321,7 +332,8 @@ B) Traduceți în sanscrită:
 ![](/images/lekt4308.webp)
 Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4308))
-:::## 43.6. ⟪संवादः⟫ = Discuție
+:::
+## 43.6. ⟪संवादः⟫ = Discuție
 
 | ⟪संवादः⟫ | Explicații |
 | --- | --- |

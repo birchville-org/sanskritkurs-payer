@@ -15,12 +15,14 @@ status: stable
 **-s-** este înlocuit cu **-ṣ-** atunci când **k, r, l** sau un **vocal** — cu excepția **a, ā** — urmează imediat sau doar prin intermediul **⟪अनुस्वार⟫** sau **⟪विसर्ग⟫** și este urmat de un alt sunet decât **ṛ, r**.
 
 Acest Sandhi se aplică și **⟪दुस्⟫-** în fața guturalelor și labialelor surde în compuse.
-:::*Exemple:*
+:::
+*Exemple:*
 :::indent
 **⟪तेषाम्⟫** (din: *te-sām*)
 
 dar: **⟪तासाम्⟫** (*tā-sām*)
-:::## 26.2. Lege de cerebralizare pentru dentale în interiorul cuvântului
+:::
+## 26.2. Lege de cerebralizare pentru dentale în interiorul cuvântului
 
 :::grammar-box
 Consoanele oclusive dentale sunt înlocuite cu retroflexele corespunzătoare după retroflexe (inclusiv **-ṣ-**):
@@ -28,13 +30,15 @@ Consoanele oclusive dentale sunt înlocuite cu retroflexele corespunzătoare dup
 - **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
   *(**ṣ** datorită **i**-lui anterior, **ṭh** datorită **ṣ**-ului care urmează apoi)*
-:::## 26.3. Wortsandhi pentru palatale, guturale, ṣ, h + -s
+:::
+## 26.3. Wortsandhi pentru palatale, guturale, ṣ, h + -s
 
 :::grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
 Exemple vezi mai jos
-:::## 26.4. Lege lui disimilarea suflului lui Grassmann
+:::
+## 26.4. Lege lui disimilarea suflului lui Grassmann
 
 ::::grammar-box
 **O consecință imediată a două aspirate (aspirat - vocală - aspirat) este pierderea suflului primului sunet:**
@@ -43,20 +47,23 @@ Exemplu:
 
 :::indent
 \*dhu(gh) » du(g)h
-:::**Dacă, în urma legilor fonetice, al doilea sunet își pierde suflul, atunci suflul reapare la primul sunet.**
+:::
+**Dacă, în urma legilor fonetice, al doilea sunet își pierde suflul, atunci suflul reapare la primul sunet.**
 
 Exemple: vezi mai jos viitorul verbului  ⟪दुह्⟫ și  ⟪बुध्⟫
 :::::::media
 ![](/images/lekt2601.webp)
 Fig.: Hermann Graßmann
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2601))
-:::## 26.5. Wortsandhi pentru -m, -n în fața sunetelor sibilante
+:::
+## 26.5. Wortsandhi pentru -m, -n în fața sunetelor sibilante
 
 :::grammar-box
 **În fața sunetelor sibilante, -n și -m sunt înlocuite cu -ṃ-:**
 
 Exemplu: v. mai jos viitorul verbului ⟪मन्⟫
-:::## 26.6. Utilizarea viitorului simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+:::
+## 26.6. Utilizarea viitorului simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 :::grammar-box
 **Viitorul simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) exprimă:**
@@ -71,14 +78,16 @@ Exemplu: v. mai jos viitorul verbului ⟪मन्⟫
 - **porunca**
 
 **Viitorul se află parțial în competiție cu optativul (vezi mai târziu).**
-:::de ex. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = „Cine dorește să facă o jurământ, se duce la templu.”
+:::
+de ex. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = „Cine dorește să facă o jurământ, se duce la templu.”
 
 
 :::media
 ![](/images/lekt2602.webp)
 Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2602))
-:::## 26.7. Formarea viitorului simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+:::
+## 26.7. Formarea viitorului simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 
 ::::grammar-box
 **Viitor simplu:**
@@ -92,14 +101,16 @@ Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ 
 **(de obicei) rădăcină la gradul maxim + -sya**  
 **sau**  
 **(de obicei) rădăcină la gradul maxim + -i- + -sya (= - iṣya)**
-:::**Care rădăcină are ce formă de tema viitorului, trebuie învățat cu formele de bază!**  
+:::
+**Care rădăcină are ce formă de tema viitorului, trebuie învățat cu formele de bază!**  
 **În general, forma rădăcinii și vocala de legătură a viitorului corespund cu infinitivul.**  
 **Unele rădăcini pot forma viitorul opțional cu și fără vocala de legătură -i-.**  
 **Participiul Parasmaipada al viitorului se formează prin adăugarea sufixului -nt la tema viitorului, feminin facultativ pe -ntī sau -tī:**
 
 :::indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
-:::::::Exemple:
+:::::::
+Exemple:
 
 ::::grammar-box
 
@@ -119,7 +130,8 @@ Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ 
 | ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ înaintea surd = ⟪भोत्⟫) |
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
-::::## 26.8. Exercițiu
+::::
+## 26.8. Exercițiu
 
 Formați viitoarele corespunzătoare în număr, persoană și gen verbal (Parasmaipada, Ātmanepada):  
   

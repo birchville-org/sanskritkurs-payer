@@ -23,7 +23,8 @@ status: stable
 **Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen).**
 
 **Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340.**
-:::Beispiel:
+:::
+Beispiel:
 
 ⟪सिच्⟫ 6U "beträufeln"
 
@@ -34,7 +35,8 @@ status: stable
 | 1\. ⟪तृतीयः⟫ | ⟪असिचम्⟫ | ⟪असिचाम⟫ | ⟪असिचे⟫ | ⟪असिचामहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
-:::Unregelmäßige Bildungen:
+:::
+Unregelmäßige Bildungen:
 
 :::indent
 ⟪अस्⟫ 4P "werfen": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Erklärung siehe Thumb-Hauschild §541,4)
@@ -42,11 +44,13 @@ status: stable
 ⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
 
 ⟪दृश्⟫ "sehen": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (Hochstufe!)
-:::Beachte:
+:::
+Beachte:
 
 :::indent
 ⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmäßige Tiefstufe!)
-:::## 55.2. Übung
+:::
+## 55.2. Übung
 
 Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist:
 

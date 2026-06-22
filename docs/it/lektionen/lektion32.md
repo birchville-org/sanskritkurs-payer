@@ -16,7 +16,8 @@ status: stable
 *   **il Perfetto (⟪लिट्⟫) indica, come l'Imperfetto, il passato remoto, ma, a differenza dell'Imperfetto, è usato solo per eventi che il parlante stesso non ha visto**
 
 **Nella letteratura sanscrita classica, i tre tempi del passato sono usati senza distinzione di significato (eccezione: la poesia di ⟪भारवि⟫ ⟪किरातार्जुनीय⟫).**
-::::**
+::::
+**
 
 ## 32.2. L’imperfetto (⟪लङ्⟫)
 
@@ -28,7 +29,8 @@ status: stable
 **Le tre persone del singolare del Parasmaipada all’imperfetto si formano, per le radici atematiche, dal tema del presente forte; tutte le altre forme dal tema del presente debole.**
 
 **L’imperfetto ha solo l’indicativo.**
-::::Esempi:
+::::
+Esempi:
 
 :::indent
 **⟪भू⟫** 3. sg. Imp. P. **⟪अभवत्⟫** (a-bhava-t)
@@ -36,11 +38,13 @@ status: stable
 **⟪सु⟫**
 *   3. sg. Imp. P. **⟪असुनोत्⟫** (a-suno-t)
 *   3. pl. Imp. P. **⟪असुन्वन्⟫** (a + sunu + an)
-:::## 32.3. Regole per l'augmento
+:::
+## 32.3. Regole per l'augmento
 
 ::::grammar-box
 **1. Quando l'augmenta a- precede una radice che inizia con una vocale, l'augmenta e l'inizio della radice si fondono nella ⟪वृद्धि⟫ della vocale radicale.**
-::::Esempi:
+::::
+Esempi:
 
 ::::grammar-box
 
@@ -52,7 +56,8 @@ status: stable
 
 ::::::::grammar-box
 **2. Quando le preposizioni precedono una radice, l'augmenta a- segue le preposizioni e precede immediatamente la radice.**
-::::Esempi:
+::::
+Esempi:
 
 ::::grammar-box
 
@@ -63,11 +68,14 @@ status: stable
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
-::::## 32.4. Esempi di formazione dell'imperfetto
+::::
+## 32.4. Esempi di formazione dell'imperfetto
 
-:::important
+:::
+important
 **Per dimostrare la formazione delle forme, vengono qui generate anche forme ātmanepada da radici parasmaipada! Queste forme artificiali sono racchiuse tra &lt; &gt;.**
-:::### 32.4.1. Classi tematiche del presente
+:::
+### 32.4.1. Classi tematiche del presente
 
 ::::grammar-box
 
@@ -79,7 +87,8 @@ status: stable
 | 10. / Caus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
 | Passivo | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
-::::### 32.4.2. Classi di presente atematico
+::::
+### 32.4.2. Classi di presente atematico
 
 ::::grammar-box
 
@@ -99,7 +108,8 @@ status: stable
 | 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t &gt; aruṇaddh &gt; aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
-::::## 32.5. Elenco di parole
+::::
+## 32.5. Elenco di parole
 
 **⟪अग्र⟫ n.:** Punta, estremità
 
@@ -116,7 +126,8 @@ status: stable
 ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
 -⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
-:::**⟪पार्श्व⟫**
+:::
+**⟪पार्श्व⟫**
 
 **⟪चूत⟫**
 
@@ -125,7 +136,8 @@ status: stable
 Fig.: ⟪चूतः⟫
 Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3202))
-:::**⟪तरु⟫** **⟪वृक्ष⟫**
+:::
+**⟪तरु⟫** **⟪वृक्ष⟫**
 
 **⟪पचेलिम⟫**
 
@@ -141,7 +153,8 @@ Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 ⟪रूढ⟫:br
 -⟪रुह्य⟫:br
 ⟪रोढुम्⟫
-:::**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+:::
+**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 :::indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
@@ -149,21 +162,24 @@ Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 ⟪गृहीत⟫:br
 -⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
-:::**⟪वानर⟫ ⟪कपि⟫**
+:::
+**⟪वानर⟫ ⟪कपि⟫**
 
 :::media
 ![](/images/lekt3203.webp)
 Fig.: ⟪वानराः⟫
 Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3203))
-:::**⟪लोक्⟫ ⟪लोकयति⟫**
+:::
+**⟪लोक्⟫ ⟪लोकयति⟫**
 :::indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
 -⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
-:::**⟪प्रहर्ष⟫**
+:::
+**⟪प्रहर्ष⟫**
 
 **⟪कति⟫**
 
@@ -174,14 +190,16 @@ Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 Fig.: ⟪उपलाः⟫
 Cava di pietra a sud di Pune, Maharashtra. [Fonte immagine: lecercle / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3204))
-:::**⟪लक्ष्य⟫**
+:::
+**⟪लक्ष्य⟫**
 
 :::media
 ![](/images/lekt3205.webp)
 Fig.: ⟪लक्ष्यम्⟫
 Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlogelin / Flickr. CC BY-NC]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3205))
-:::**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+:::
+**⟪क्षिप्⟫ ⟪क्षिपति⟫**
 :::indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
@@ -189,7 +207,8 @@ Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlo
 ⟪क्षिप्त⟫:br
 -⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
-:::**⟪चि⟫ ⟪चिनोति⟫**
+:::
+**⟪चि⟫ ⟪चिनोति⟫**
 :::indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
@@ -202,7 +221,8 @@ Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlo
 Fig.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine: thebigdurian / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3207))
-:::**⟪चि⟫ ⟪अव⟫**
+:::
+**⟪चि⟫ ⟪अव⟫**
 
 **⟪प्रति⟫**
 
@@ -215,7 +235,8 @@ Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine
 Fig.: ⟪कौशलम्⟫
 Pittura di mehndi sulle mani a Mumbai. [Fonte immagine: the_gman / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3206))
-:::## 32.6. Esercizio
+:::
+## 32.6. Esercizio
 
 A) Determinare le seguenti forme verbali e formare le corrispondenti forme dell'imperfetto in persona, numero e genere verbale:
 
@@ -312,7 +333,8 @@ B) Tradurre e risolvere i composti in sanscrito:
 Fig.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Monaco buddhista nello Sri Lanka. [Fonte immagine: Trollderella / Wikipedia. GNU FDL]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3208))
-:::## 32.7. Esercizio di ripasso durante le vacanze di Natale
+:::
+## 32.7. Esercizio di ripasso durante le vacanze di Natale
 
 Nota: originariamente questa lezione veniva tenuta presso l'Università di Tubinga in ogni semestre invernale. Con la Lezione 32 iniziarono le vacanze di Natale di due settimane.
 
@@ -534,7 +556,8 @@ C) Tradurre in Sanscrito:
 Fig.: ⟪पुनर्दर्शनाय⟫
 Saluto indiano / congedo. [Fonte immagine: dhyanji / Flickr. CC BY-NC-ND]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3209))
-:::## 32.8. Esercizio di ripasso
+:::
+## 32.8. Esercizio di ripasso
 
 Tradurre e determinare le seguenti forme lessicali:
 
@@ -581,7 +604,8 @@ Tradurre e determinare le seguenti forme lessicali:
 
 ## 32.9. Esercizio di traduzione
 
-:::compact
+:::
+compact
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
@@ -594,7 +618,8 @@ Tradurre e determinare le seguenti forme lessicali:
 ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
 ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫**⟪दाय⟫** ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
-:::(da: ⟪संस्कृतबालादर्श⟫)
+:::
+(da: ⟪संस्कृतबालादर्श⟫)
 
 
 Spiegazioni:

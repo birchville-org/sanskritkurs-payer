@@ -27,7 +27,8 @@ Exemple:
 ⟪सुखकरः⟫ = ⟪सुखं⟫ ⟪करोतीति⟫ ⟪सुखकरः⟫
 
 ⟪कुलघ्नः⟫ = ⟪कुलम्हन्तीति⟫ ⟪कुलघ्नः⟫
-:::::::Exemple:
+:::::::
+Exemple:
 
 a) Sufixul ⟪कृत्⟫ \-Ø
 
@@ -42,7 +43,8 @@ a) Sufixul ⟪कृत्⟫ \-Ø
 Fig.: ⟪भूमिभुज्⟫
 ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5101))
-:::b) Sufixul ⟪कृत्⟫ -t
+:::
+b) Sufixul ⟪कृत्⟫ -t
 
 ::::indent
 \-⟪कृत्⟫ 3 "făcând" de ex.
@@ -51,19 +53,22 @@ Fig.: ⟪भूमिभुज्⟫
 ⟪कुलक्षयकृत्⟫ 3 "cauzând distrugerea familiei"
 
 ⟪पापकृत्⟫ 3 "făcând rău, făptuitor de rău"
-:::\-⟪जित्⟫ 3 "învingând", de ex.
+:::
+\-⟪जित्⟫ 3 "învingând", de ex.
 
 :::indent
 ⟪शत्रुजित्⟫ 3 "învingând pe dușmani"
 
 ⟪पुरुजित्⟫ 3 "învingând pe mulți" (⟪पुरु⟫ 3 "mult, abundent")
-:::\-⟪भृत्⟫ 3 "purtând" de ex.  ⟪भूमिभृत्⟫ m. "rege"
+:::
+\-⟪भृत्⟫ 3 "purtând" de ex.  ⟪भूमिभृत्⟫ m. "rege"
 :::::::media
 ![](/images/lekt5103.webp)
 Fig.: ⟪पापकृत्⟫
 ⟪भरतपुर⟫, ⟪राजस्थान⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5103))
-:::c) Sufixul ⟪कृत्⟫ -a
+:::
+c) Sufixul ⟪कृत्⟫ -a
 
 :::indent
 \-⟪ग⟫ 3 "mergând (în, către)" (probabil la rădăcina gā, forma profundă g + a) de ex. ⟪खग⟫ 3 "zburând" m. "pasăre, planetă" (⟪ख⟫ n. "gaură, spațiu 'aerian'")
@@ -90,20 +95,23 @@ Fig.: ⟪पापकृत्⟫
 Fig.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪हस्तेन⟫ ⟪च⟫ ⟪मुखेन⟫ ⟪च⟫
 ⟪नेपाल⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5102))
-:::## 51.2. Declinarea stemelor care se termină într-o consoană simplă (în afară de nazală, semivocală, -s)
+:::
+## 51.2. Declinarea stemelor care se termină într-o consoană simplă (în afară de nazală, semivocală, -s)
 
 :::grammar-box
 **Stemele care se termină într-o consoană simplă (în afară de nazală, semivocală, -s) nu au alternanță de stemă. Declinarea se face complet regulat, prin adăugarea terminațiilor cazuale regulate.**
 
 **Singura neregularitate: în Nom., Akk., Vok. pl. Neutru, se inserează o nazală înainte de terminația stemei.**
-:::### 51.2.1. Trible pe consoane ocluzive nepalatale
+:::
+### 51.2.1. Trible pe consoane ocluzive nepalatale
 
 :::grammar-box
 **Se aplică regulile obişnuite de schimbare fonetică, adică**
 * **la final de cuvânt se află corespondentul neaspirat surd**
 * **înaintea sufixului -su al genitivului plural, finalul de cuvânt este mai întâi înlocuit cu corespondentul neaspirat surd, apoi au loc modificările fonetice corespunzătoare**
 * **înaintea unei consoane sonore, finalul de cuvânt este înlocuit cu corespondentul neaspirat sonor.**
-:::Exemple:
+:::
+Exemple:
 
 ⟪शत्रुजित्⟫ 3 "Învingând duşmanii"
 
@@ -116,23 +124,27 @@ Singular:
 :::indent
 Nom.Voc. ⟪शत्रुजित्⟫ (śatrujit + s)
 Ac. ⟪शत्रुजितम्⟫
-:::Plural:
+:::
+Plural:
 
 :::indent
 Nom.Ac.Voc. ⟪शत्रुजितस्⟫
 Ins. ⟪शत्रुजिद्भिस्⟫
 Loc. ⟪शत्रुजित्सु⟫
-:::::::Neutru
+:::::::
+Neutru
 
 :::indent
 Singular Nom.Ac.Voc. ⟪शत्रुजित्⟫
 Plural Nom.Ac.Voc. ***⟪शत्रुजिन्ति⟫***
-:::::::⟪सुयुध्⟫ 3 "luptând bine"
+:::::::
+⟪सुयुध्⟫ 3 "luptând bine"
 
 :::indent
 Singular.Nom.Voc.m.f.n. ⟪सुयुत्⟫
 etc.
-:::Paradigme complete la Kielhorn, Gramatică p. 16ss.
+:::
+Paradigme complete la Kielhorn, Gramatică p. 16ss.
 
 ### 51.2.2. Tulpuri pe consoane de închidere palatale (c, ch, j), ś, ṣ
 
@@ -153,7 +165,8 @@ etc.
 * **-j » -k sau -ṭ**
 * **-ś » -ṭ sau -k**
 * **-ṣ » -ṭ sau -k**
-:::Exemple:
+:::
+Exemple:
 
 ⟪सत्यवाच्⟫ 3 "vorbind adevărul" (⟪बहुव्रीहि⟫)
 
@@ -167,17 +180,20 @@ Singular:
 Nom.Voc. ⟪सत्यवाक्⟫
 Ac. ⟪सत्यवाचम्⟫
 Instr. ⟪सत्यवाचा⟫
-:::Plural:
+:::
+Plural:
 
 :::indent
 Instr. ⟪सत्यवाग्भिस्⟫
 Loc. ⟪सत्यवाक्षु⟫
-:::::::Neutru
+:::::::
+Neutru
 
 :::indent
 Singular Nom.Ac.Voc. ⟪सत्यवाक्⟫
 Plural Nom.Ac.Voc. ⟪सत्यवाञ्चि⟫
-:::::::⟪शेषभुज्⟫ 3 "mâncând resturi de mâncare"
+:::::::
+⟪शेषभुज्⟫ 3 "mâncând resturi de mâncare"
 
 ::::indent
 Masculin, Feminin:
@@ -188,17 +204,20 @@ Singular:
 :::indent
 Nom.Voc. ⟪शेषभुक्⟫
 Ac. ⟪शेषभुजम्⟫
-:::Plural:
+:::
+Plural:
 
 :::indent
 Instr. ⟪शेषभुग्भिस्⟫
 Loc. ⟪शेषभुक्षु⟫
-:::::::Neutru
+:::::::
+Neutru
 
 :::indent
 Singular Nom.Ac.Voc. ⟪शेषभुक्⟫
 Plural Nom.Ac.Voc. ⟪शेषभुञ्जि⟫
-:::::::⟪परिव्राज्⟫ m. "călugăr itinerant"
+:::::::
+⟪परिव्राज्⟫ m. "călugăr itinerant"
 
 ::::indent
 Masculin, Feminin:
@@ -209,7 +228,8 @@ Singular:
 :::indent
 Nom.Voc. ⟪परिव्राट्⟫
 Ac. ⟪परिव्राजम्⟫
-:::Plural:
+:::
+Plural:
 
 :::indent
 Instr. ⟪परिव्राड्भिस्⟫
@@ -219,7 +239,8 @@ Loc. ⟪परिव्राट्सु⟫
 Fig.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5104))
-:::### 51.2.3. Teme pe -h
+:::
+### 51.2.3. Teme pe -h
 
 :::grammar-box
 **Înainte de o terminație care începe cu o vocală, -h rămâne neschimbat.**
@@ -232,7 +253,8 @@ Fig.: ⟪परिव्राट्⟫
 **După aceste înlocuiri, tema este tratată mai departe, ca și cum ar termina în -ḍh, -gh sau -dh.**
 
 **Vedeți paradigmelor la Kielhorn, Gramatică, p. 20f.**
-:::Exemple:
+:::
+Exemple:
 
 ::::indent
 ⟪गुह्⟫ 3 "ascunzând"
@@ -245,12 +267,14 @@ Singular:
 :::indent
 Nom.Voc. ⟪घुट्⟫ (Legea disimilării suflului lui Grassmann: ⟪गुढ्⟫ + s)
 Akk. ⟪गुहम्⟫
-:::Plural:
+:::
+Plural:
 
 :::indent
 Instr. ⟪घुड्भिस्⟫
 Lok. ⟪घुट्सु⟫
-:::::::⟪द्रुह्⟫ "dăunător, urând" (opțional -ḍh/-gh)
+:::::::
+⟪द्रुह्⟫ "dăunător, urând" (opțional -ḍh/-gh)
 
 Masculin, Feminin:
 
@@ -260,12 +284,14 @@ Singular:
 :::indent
 Nom.Voc. ⟪ध्रुट्⟫ ⟪।⟫ ⟪ध्रुक्⟫
 Akk. ⟪द्रुहम्⟫
-:::Plural:
+:::
+Plural:
 
 :::indent
 Instr. ⟪ध्रुड्भिस्⟫ ⟪।⟫ ⟪ध्रुग्भिस्⟫
 Lok. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
-:::::::::::## 51.3. Sandhi de h- inițial
+:::::::::::
+## 51.3. Sandhi de h- inițial
 
 ::::grammar-box
 **Înainte de un h- inițial, un consoană oclusivă precedentă este înlocuită cu corespunzătorul său sonor neaspirat, iar h- inițial este înlocuit cu corespunzătorul său sonor aspirat:**
@@ -276,21 +302,24 @@ Lok. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ⟪वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि⟫
 
 ⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
-:::::::## 51.4. Sandhi al ch- inițial
+:::::::
+## 51.4. Sandhi al ch- inițial
 
 ::::grammar-box
 **ch- inițial este înlocuit cu cch- după o vocală scurtă, după ⟪मा⟫ „nu” și după ⟪आ⟫ „la”:**
 
 :::indent
 ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न⟫ ⟪च्छिन्दति⟫
-:::::::## 51.5. -ch- în interiorul cuvântului
+:::::::
+## 51.5. -ch- în interiorul cuvântului
 
 ::::grammar-box
 **În interiorul cuvântului, -ch- se înlocuiește cu -cch- după toate vocalele:**
 
 :::indent
 ex. ⟪छिद्⟫ » ⟪चिच्छेद⟫
-:::::::## 51.6. Listă de cuvinte
+:::::::
+## 51.6. Listă de cuvinte
 
 ⟪अजिन⟫ n.: blană de antilopă, în special blana antilopii negre (antilopă cerb-capră: _Antilope cervicapra_ L.). Era originar pe întregul subcontinent indian, de la Punjab și Sind până în Bengal și de la Nepal până la Kanyakumari (Capul Comorin) (Tamil: கன்னியாகுமரி) Vezi:
 
@@ -300,7 +329,8 @@ ex. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 ![](/images/lekt5105.webp)
 Fig.:
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5105))
-:::⟪अतिथि⟫ m.: oaspete
+:::
+⟪अतिथि⟫ m.: oaspete
 
 ⟪अभ्यन्तर⟫ 3: situat în interior, cel mai apropiat; m. cel mai apropiat membru, autohton
 
@@ -316,7 +346,8 @@ Deoarece ovulația are loc cu 14 zile înainte de începutul menstruației, acea
 ![](/images/lekt5106.jpg)
 Fig.: ⟪ऋतुः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5106))
-:::⟪एकत्र⟫ Adv.: într-un loc
+:::
+⟪एकत्र⟫ Adv.: într-un loc
 
 ⟪जटा⟫ f.: coadă de cal (coafură a ascetului)
 
@@ -325,7 +356,8 @@ Fig.: ⟪ऋतुः⟫
 Fig.: ⟪जटा⟫
 ⟪ऋषिकेश⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5107))
-:::⟪तुल्य⟫ 3: egal, comparabil (⟪तृतीयया⟫)
+:::
+⟪तुल्य⟫ 3: egal, comparabil (⟪तृतीयया⟫)
 
 ⟪तरय⟫ 3 (f.: ⟪तरयी⟫): triplu, compus din trei părți
 
@@ -346,11 +378,13 @@ Pass. ⟪शिष्यते⟫
 Kaus. ⟪शेषयति⟫
 PPP⟪शिष्ट⟫
 Absol. -⟪शिष्य⟫
-:::⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : a distinge
+:::
+⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : a distinge
 
 :::indent
 Pass. ⟪विशिष्यते⟫ : a se distinge de (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), a fi mai bun decât (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), a fi cel mai bun printre (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
-:::⟪समान⟫ 3: de același fel, egal, similar; m.: coleg de vârstă
+:::
+⟪समान⟫ 3: de același fel, egal, similar; m.: coleg de vârstă
 
 ⟪स्व⟫ 3: propriu, al său (al meu, al tău etc.) Se declină ca ⟪सर्व⟫. În Abl.Loc.sg.m.n și în Nom.pl.m poate fi, de asemenea, declinat ca ⟪देव⟫:
 
@@ -358,20 +392,23 @@ Pass. ⟪विशिष्यते⟫ : a se distinge de (⟪पञ्चम�
 Gen. sg. masc. neut. ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
 Loc. sg. masc. neut. ⟪स्वस्मिन्⟫ ⟪।⟫ ***⟪स्⟫***⟪वे⟫
 Nom. pl. masc. ⟪स्वे⟫ ⟪।⟫ ***⟪स्वास्⟫***
-:::⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : maldice, mustră
+:::
+⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : maldice, mustră
 
 :::indent
 Perf. I ⟪जगर्हे⟫
 Fut. ⟪गर्हिष्यते⟫
 PPP ⟪गर्हित⟫
-:::⟪पिशित⟫ n.: (preparat) carne
+:::
+⟪पिशित⟫ n.: (preparat) carne
 
 :::media
 ![](/images/lekt5108.webp)
 Fig.: ⟪पिशितम्⟫
 Kolkata = কলকাতা
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5108))
-:::⟪उपहार⟫ m.: ofrandă, sacrificiu, dar
+:::
+⟪उपहार⟫ m.: ofrandă, sacrificiu, dar
 
 ⟪मधु⟫ n.: miere, băutură dulce, hidromel (vin de miere)
 
@@ -380,7 +417,8 @@ Kolkata = কলকাতা
 Fig.: ⟪मधु⟫
 Palatul Orașului, ⟪उदयपुर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5109))
-:::⟪मांस⟫ n.: carne
+:::
+⟪मांस⟫ n.: carne
 
 ⟪मृगया⟫ f.: vânătoare
 
@@ -389,14 +427,16 @@ Palatul Orașului, ⟪उदयपुर⟫
 Fig.: ⟪मृगया⟫
 Vânătoare cu ⟪चीता⟫ (_Acinonyx jubatus venaticus\") Gujarat = ગુજરાત, 1812
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5110))
-:::⟪शिवा⟫ f.: (fem.) șacal (șacal auriu = _Canis aureus\")
+:::
+⟪शिवा⟫ f.: (fem.) șacal (șacal auriu = _Canis aureus\")
 
 :::media
 ![](/images/lekt5111.webp)
 Fig.: ⟪शिवा⟫
 _Canis aureus\", Sanctuarul Kalatop Khajjiar
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5111))
-:::⟪रुत⟫ n.: zgomot, țipete
+:::
+⟪रुत⟫ n.: zgomot, țipete
 
 ⟪कौशिक⟫ m.: bufniță
 
@@ -405,7 +445,8 @@ _Canis aureus\", Sanctuarul Kalatop Khajjiar
 Fig.: ⟪कौशिकः⟫
 Bufnița lui Brahma (_Athene brama\"), Mahesana = મહેસાણા
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5112))
-:::⟪शकुनि⟫ m.: pasăre
+:::
+⟪शकुनि⟫ m.: pasăre
 
 ⟪श्वन्⟫ m.: câine
 
@@ -418,7 +459,8 @@ stam slab înainte de consoană ⟪श्व⟫
 Fig.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
 Karnataka = ಕರ್ನಾಟક
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5113))
-:::⟪परिचित⟫ 3: familiar, cunoscut
+:::
+⟪परिचित⟫ 3: familiar, cunoscut
 
 ⟪अटवी⟫ f.: pădure
 
@@ -431,7 +473,8 @@ Karnataka = ಕರ್ನಾಟક
 Fig.: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5114))
-:::⟪क्रूर⟫ 3: crud, crud, brutal
+:::
+⟪क्रूर⟫ 3: crud, crud, brutal
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : unge, unsură
 
@@ -441,21 +484,24 @@ Fut. ⟪धेक्ष्यति⟫
 Pass. ⟪दिह्यते⟫
 Kaus. ⟪देहयति⟫
 PPP ⟪दिग्ध⟫
-:::⟪विष⟫ n.: venin
+:::
+⟪विष⟫ n.: venin
 
 :::media
 ![](/images/lekt5115.webp)
 Fig.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5115))
-:::⟪भुजंग⟫ m: șarpe
+:::
+⟪भुजंग⟫ m: șarpe
 
 :::media
 ![](/images/lekt5116.webp)
 Fig.: ⟪भुजंगः⟫
 Vipera lanț (_Daboia russelii\"), Bangalore = ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5116))
-:::⟪सायक⟫ m.: săgeată
+:::
+⟪सायक⟫ m.: săgeată
 
 ⟪उत्साद⟫ m.: pierdere, distrugere
 
@@ -480,7 +526,8 @@ Vipera lanț (_Daboia russelii\"), Bangalore = ಬೆಂಗಳೂರು
 Fig.: ⟪मणिः⟫
 Diamantul Hope din Guntur = ગુંતૂર, astăzi Muzeul Național de Istorie Naturală Smithsonian, Washington DC
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5118))
-:::⟪वन⟫ n.: pădure
+:::
+⟪वन⟫ n.: pădure
 
 ⟪मद⟫ m.: de asemenea „suc de rută” al unui elefant (în [Musht](http://en.wikipedia.org/wiki/Musth))
 
@@ -488,7 +535,8 @@ Diamantul Hope din Guntur = ગુંતૂર, astăzi Muzeul Național de Isto
 ![](/images/lekt5117.webp)
 Fig.: ⟪मदः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5117))
-:::⟪राग⟫ m.: de asemenea: culoare, culoare roșie
+:::
+⟪राग⟫ m.: de asemenea: culoare, culoare roșie
 
 ⟪कालन⟫ n.: pădure
 
@@ -500,7 +548,8 @@ Fut. ⟪खनिष्यति⟫
 Kaus. ⟪खानयति⟫
 PPP ⟪खात⟫
 Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
-:::⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : gândi, reflecta
+:::
+⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : gândi, reflecta
 
 ⟪शबर⟫ .:  nume propriu al unui trib non-ari
 
@@ -526,7 +575,8 @@ Explicație: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 ⟪कृतवर्णाश्रमस्थितिः⟫ ⟪।⟫
 ⟪त्रय्याभिरक्षितो⟫ ⟪लोकः⟫
 ⟪प्रसीदति⟫ ⟪न⟫ ⟪सीदति⟫ ⟪॥१७॥⟫
-:::⟪३⟫. ⟪बाण⟫ (sec. al VII-lea d.Hr.): ⟪कादम्बरी⟫ ed. K.P. Parab, 1896, p. 65ss.: Gânduri ale papagalului ⟪वैशम्पायन⟫ despre viața de vânător:
+:::
+⟪३⟫. ⟪बाण⟫ (sec. al VII-lea d.Hr.): ⟪कादम्बरी⟫ ed. K.P. Parab, 1896, p. 65ss.: Gânduri ale papagalului ⟪वैशम्पायन⟫ despre viața de vânător:
 
 ⟪आसीच्च⟫ ⟪मे⟫ ⟪मनसि⟫ -- ⟪अहो⟫ ⟪मोहप्रायमेतेषां⟫ ⟪जीवितं⟫ ⟪साधुजनगर्हितं⟫ ⟪च⟫ ⟪चरितम्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ ⟪।⟫ ⟪पुरुषपिशितोपहारे⟫ ⟪धर्मबुद्धिः⟫ , ⟪अहारः⟫ ⟪साधुजनगर्हितो⟫ ⟪मधुमांसादिः⟫ , ⟪श्रमो⟫ ⟪मृगया⟫ , ⟪शास्त्रं⟫ ⟪शिवारुतम्⟫ , ⟪समुपदेष्टारः⟫ ⟪सद्सतां⟫ ⟪कौशिकाः⟫ , ⟪प्रज्ञा⟫ ⟪शकुनिज्ञानम्⟫ , ⟪परिचिताः⟫ ⟪श्वानः⟫ , ⟪राज्यं⟫ ⟪शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि⟫ ⟪क्रुरकर्मसाधनानि⟫ ⟪धनूंषि⟫ , ⟪सहाया⟫ ⟪विषदिग्धमुखा⟫ ⟪भुजंगा⟫ ⟪इव⟫ ⟪सायकाः⟫ , ⟪गीतमुत्सादकारि⟫ ⟪मुग्धमृगाणाम्⟫ , ⟪कलत्राणि⟫ ⟪बन्दीगृहीताः⟫ ⟪परयोषितः⟫ , ⟪क्रूरात्मभिः⟫ ⟪शार्दूलैः⟫ ⟪सह⟫ ⟪संवासः⟫ , ⟪पशुरुधिरेण⟫ ⟪देवतार्चनम्⟫ , ⟪मांसेन⟫ ⟪बलिकर्म⟫ , ⟪चौर्येण⟫ ⟪जीवनम्⟫ , ⟪भूषणानि⟫ ⟪भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव⟫ ⟪कानने⟫ ⟪निवसन्ति⟫ ⟪तदेवोत्ख्यातमूलमशेषतः⟫ ⟪कुर्वत⟫ ⟪इति⟫ ⟪चिन्तयत्येव⟫ ⟪मयि⟫ ⟪शबरसेनापतिः⟫ ⟪समुपाविशत्⟫ ⟪॥⟫
 

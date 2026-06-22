@@ -101,7 +101,8 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 | ⟪हन्⟫ | ⟪घातयति⟫ | erschlagen lassen, töten |
 | ⟪जि⟫ | ⟪जापयति⟫ | siegen lassen |
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | beleben |
-:::B) Übersetzen Sie folgende Sätze und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird.
+:::
+B) Übersetzen Sie folgende Sätze und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
 Der Kṣatriya hat, um die Feinde zu besiegen, einen Brahmanen Hari und Hara mit einem Opfer verehren lassen und wird die Feinde bekämpfen.

@@ -19,7 +19,8 @@ status: stable
 - sandhi vokal
 - Satzsandhi von -ās
 
-:::## 3.1. Nominatif Tunggal Feminin
+:::
+## 3.1. Nominatif Tunggal Feminin
 
 ### 3.1.1. Nominatif Tunggal pada -s
 
@@ -31,7 +32,8 @@ Selanjutnya, stem nominal berikut yang berakhir dengan vokal membentuk Nominatif
 - **Feminina pada -i**: Contoh **śruti** f. "mendengar" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Feminina pada -u**: Contoh **dhenu** f. "sapi perah" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 
-:::### 3.1.2. Nominatif Tunggal tanpa Akhiran
+:::
+### 3.1.2. Nominatif Tunggal tanpa Akhiran
 
 Membentuk nominatif tunggal tanpa akhiran:
 
@@ -41,10 +43,12 @@ Membentuk nominatif tunggal tanpa akhiran:
 - **Feminina pada -ā**: Contoh **devatā** f. "dewa" -- Nom. sg.: **devatā** = ⟪देवता⟫
 - **Feminina pada -ī**: Contoh **devī** f. "dewi" -- Nom. sg.: **devī** = ⟪देवी⟫
 
-::::::important
+::::::
+important
 **Perhatian!** Di samping itu, terdapat nomina akar feminin bersuku kata tunggal berakhiran -ī, yang Nominatif Singularnya berakhiran -s: misalnya dhī f. "pikiran" -- Nom. sg.: dhīs = ⟪धीस्⟫. Lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "perahu", dan tantrī (⟪तन्त्री⟫) f. "senar" juga membentuk Nominatif Singular secara tidak beraturan dengan akhiran -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 
-:::---
+:::
+---
 
 ## 3.2. Pembentukan Kata Benda Gender Perempuan dari Kata Benda Gender Laki-laki
 
@@ -59,7 +63,8 @@ Membentuk nominatif tunggal tanpa akhiran:
 - **Femininum berakhiran -ī**: mis. **sādhu** m. » **sādhvī** f. (baik, orang suci) = ⟪साध्वी⟫
   (**-u-** berubah menjadi **-v-** sebelum vokal, oleh karena itu **-u- + -ī** » **-vī**)
 
-:::---
+:::
+---
 
 ## 3.3. Nominatif Jamak Maskulinum dan Femininum
 
@@ -75,13 +80,15 @@ Akhiran Nominatif Jamak pada Maskulin dan Feminin adalah **-as**.
 - **Maskulin berakhiran -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
 - **Feminin berakhiran -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 
-:::Catatan: **e** adalah tingkat tinggi (**guṇa**) dari **i**, **o** adalah tingkat tinggi dari **u**.
+:::
+Catatan: **e** adalah tingkat tinggi (**guṇa**) dari **i**, **o** adalah tingkat tinggi dari **u**.
 
 ---
 
 ## 3.4. Sandhi Vokal
 
-:::info Etimologi dan Penjelasan
+:::
+info Etimologi dan Penjelasan
 **Sandhi** (Sanskerta: ⟪संधि⟫, *saṃdhi*) secara harfiah berarti "pertemuan", "sambungan", atau "aliansi". Dalam tata bahasa Sanskerta, istilah ini mengacu pada aturan fonologis yang mengatur bagaimana bunyi-bunyi pada batas kata berinteraksi dan menyatu ketika kata-kata tersebut diucapkan secara berurutan.
 
 **Vokalsandhi** adalah subset khusus dari sandhi yang melibatkan vokal. Aturan-aturan ini menentukan bagaimana dua vokal yang bersebelahan (satu dari akhir kata pertama dan satu dari awal kata kedua) berubah atau bergabung menjadi satu vokal baru, atau tetap terpisah tergantung pada konteks fonetiknya.
@@ -149,7 +156,8 @@ Jika kata pertama berakhir dengan *i* atau *ī*, dan kata kedua dimulai dengan *
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
 
-:::misalnya
+:::
+misalnya
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā adalah seorang dewi" = ⟪देवतान्नपूर्णा⟫
 
@@ -172,7 +180,8 @@ Gambar: Indra dan Indrāṇī di atas gajah Airavata, miniatur, Rājasthān, 167
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
 (!! Terdapat pengecualian untuk aturan ini, khususnya untuk bentuk dwitunggal !!)
-::::::misalnya
+::::::
+misalnya
 
 devī + umā » devy umā "Umā adalah seorang / sang Dewi" = ⟪देव्युमा⟫
 
@@ -187,7 +196,8 @@ devī + umā » devy umā "Umā adalah seorang / sang Dewi" = ⟪देव्य
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
 
-:::Untuk Sandhi ini, skema berikut berlaku:
+:::
+Untuk Sandhi ini, skema berikut berlaku:
 
 
 
@@ -195,7 +205,8 @@ devī + umā » devy umā "Umā adalah seorang / sang Dewi" = ⟪देव्य
 ![](/images/lekt0302.jpg)
 (Sumber gambar: [Rincian](/id/licenses#lekt0302))
 
-:::Tentang tingkatan klan yang disebut ini, lihat nanti!
+:::
+Tentang tingkatan klan yang disebut ini, lihat nanti!
 
 misalnya
 
@@ -210,7 +221,8 @@ misalnya
 :::grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 
-:::misalnya
+:::
+misalnya
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas adalah orang yang lahir dua kali" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -266,7 +278,8 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas adalah orang yang lahir du
 Gambar: Durgā = ⟪दुर्गा⟫, Orissa
 (Sumber gambar: [Details](/images/lekt0303))
 
-:::**sādhvī** f. = ⟪साध्वी⟫ : fem. dari sādhu.
+:::
+**sādhvī** f. = ⟪साध्वी⟫ : fem. dari sādhu.
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. dari guru.
 

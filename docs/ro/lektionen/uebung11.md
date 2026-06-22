@@ -128,7 +128,8 @@ D) Formați construcțiile pasive pentru propozițiile formate la C)
 ![](/images/uebung022.webp)
 Fig.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung022))
-:::---
+:::
+---
 
 ## Exercises suplimentare
 

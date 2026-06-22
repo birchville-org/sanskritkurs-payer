@@ -15,13 +15,15 @@ status: stable
 Außer bei Maskulina / Neutra auf -a sowie den Pronomina sind im Singular in allen Deklinationsklassen die Formen des Ablativ (⟪पञ्चमी⟫) mit denen des Genetiv (⟪षष्ठी⟫) identisch.
 
 Außer bei den Personalpronomina sind in allen Deklinationen im Plural die Formen des Ablativ mit denen des Dativ (⟪चतुर्थी⟫) identisch.
-:::Jetzt erkennen Sie den Grund für die Reihenfolge der Kasus (⟪विभक्ति⟫) im Sanskrit: sie sind so angeordnet, dass gleichlautende Formen möglichst beieinander - bzw. untereinander - stehen.
+:::
+Jetzt erkennen Sie den Grund für die Reihenfolge der Kasus (⟪विभक्ति⟫) im Sanskrit: sie sind so angeordnet, dass gleichlautende Formen möglichst beieinander - bzw. untereinander - stehen.
 
 :::grammar-box
 **Ablativ Singular der Maskulina / Neutra auf -a**
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
-:::Frage-, Relativ- und Demonstrativpronomina:
+:::
+Frage-, Relativ- und Demonstrativpronomina:
 
 :::grammar-box
 
@@ -33,7 +35,8 @@ Außer bei den Personalpronomina sind in allen Deklinationen im Plural die Forme
 | **⟪एतद्⟫** | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
 | **⟪इदम्⟫** | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
-:::## 25.2. Gebrauch des Ablativ (⟪पञ्चमी⟫)
+:::
+## 25.2. Gebrauch des Ablativ (⟪पञ्चमी⟫)
 
 "Der Ablativ bezeichnet dasjenige, das fest bleibt, wenn etwas davon weggeht."
 
@@ -45,7 +48,8 @@ Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?".
 1\. Der Ablativ bezeichnet also den Ausgangspunkt, die Herkunft und den Stoff.
 
 Der Ablativ kann daher auch die Person bezeichnen, von der man etwas kauft, hört, wünscht usw.
-:::Beispiele:
+:::
+Beispiele:
 
 :::indent
 ⟪ग्रमादागच्छति⟫ = "Er kommt aus dem Dorf"
@@ -53,7 +57,8 @@ Der Ablativ kann daher auch die Person bezeichnen, von der man etwas kauft, hör
 ⟪अश्वात्पतितः⟫ = "vom Pferde gefallen"
 
 ⟪तेभ्यो⟫ ⟪लब्धम्⟫ = "von ihnen (her) empfangen"
-:::Beispiele:
+:::
+Beispiele:
 
 :::indent
 ⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "er hört vom Lehrer über den Dharma"
@@ -61,13 +66,15 @@ Der Ablativ kann daher auch die Person bezeichnen, von der man etwas kauft, hör
 ⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "der Brahmane wünscht sich vom Kṣatriya eine Milchkuh"
 ::::::grammar-box
 2\. Der Ablativ steht bei Verben mit den Bedeutungen "abhalten von", "schützen vor", "verteidigen gegen", "sich fürchten vor":
-:::Beispiel:
+:::
+Beispiel:
 
 :::indent
 ⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "er schützt vor den Feinden"
 ::::::grammar-box
 3\. Der Ablativ bezeichnet den Grund oder die Ursache:
-:::Beispiele:
+:::
+Beispiele:
 
 :::indent
 ⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn"
@@ -75,13 +82,15 @@ Der Ablativ kann daher auch die Person bezeichnen, von der man etwas kauft, hör
 ⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses getan hat, kommt er in die Hölle" (« Weil er einer ist, durch den Böses getan wurde)
 
 ⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses tut / tat, kommt er in die Hölle"
-:::Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (⟪तृतीया⟫) oder Ablativ (⟪पञ्चमी⟫) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen.
+:::
+Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (⟪तृतीया⟫) oder Ablativ (⟪पञ्चमी⟫) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen.
 
 ## 25.3. Das Suffix -⟪तस्⟫
 
 :::grammar-box
 Will man im Singular (eindeutig) ausdrücken, dass das Wort in ablativischer Bedeutung verwendet wird, kann man an den Wortstamm das Suffix -⟪तस्⟫ anhängen, das Adverbien mit meist ablativischer Bedeutung bildet (auf die Frage "Woher?"):
-:::Beispiele:
+:::
+Beispiele:
 
 :::indent
 ⟪आदितस्⟫ = "von Anfang an"
@@ -95,7 +104,8 @@ Das Suffix -⟪तस्⟫ tritt auch an Pronominalstämme:
 ⟪यद्⟫ : ⟪यतस्⟫ "von welchem, wovon, woher, wo, wohin, weshalb, weil" (relativ)
 
 ⟪किम्⟫ :  ⟪कुतस्⟫ "woher?" "warum?"
-:::## 25.4. Andere Möglichkeiten, Begründungen auszudrücken
+:::
+## 25.4. Andere Möglichkeiten, Begründungen auszudrücken
 
 :::grammar-box
 **1\. Relativsätze**
@@ -109,7 +119,8 @@ Formen des Relativpronomens, die als kausale Konjunktion dienen:
     *   ⟪यस्मात्⟫ ... Nebensatz ... ⟪तस्मात्⟫ ... Hauptsatz ... = "weil ..., deshalb ..."
 *   instrumental:
     *   ⟪येन⟫ ... Nebensatz ... ⟪तेन⟫ ... Hauptsatz ... = "wodurch/weil ..., dadurch / deswegen ..."
-:::Beispiel:
+:::
+Beispiel:
 
 :::indent
 ⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = "Weil Rāma Wohlstand wünscht, praktiziert er das Gelübde"
@@ -117,7 +128,8 @@ Formen des Relativpronomens, die als kausale Konjunktion dienen:
 **2\. ⟪हि⟫**
 
 Hauptsätze kann man mittels der Partikel ⟪हि⟫ "denn, weil" miteinander verknüpfen. Ein Satz mit ⟪हि⟫ (das nicht an erster Stelle stehen darf, sondern in Prosa an zweiter Stelle stehen muss) gibt eine Begründung an entweder für den vorhergehenden Satz oder für den darauffolgenden Satz:
-:::Beispiel:
+:::
+Beispiel:
 
 :::indent
 ⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Die Leute tun Verdienstliches. Sie wollen nämlich in den Himmel kommen."
@@ -125,7 +137,8 @@ Hauptsätze kann man mittels der Partikel ⟪हि⟫ "denn, weil" miteinander 
 **3\. Instrumentalis (⟪तृतीया⟫)**
 
 Neben dem Ablativ (⟪पञ्चमी⟫) wird der Instrumentalis (⟪तृतीया⟫) zur Angabe des Grundes oder der Ursache verwendet. Bei femininen Nomina ist der Instrumentalis im Allgemeinen obligatorisch.
-:::Beispiel:
+:::
+Beispiel:
 
 :::indent
 ⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn" = "Er erschlägt seinen Sohn im Zorn"
@@ -139,7 +152,8 @@ Daneben kann man selbstverständlich Begründungen auch ausdrücken durch Konstr
 *   andere Nomina in der Bedeutung "Ursache"
 
 \+ Genetiv (⟪षष्ठी⟫) oder als Hinterglied von Komposita:
-:::Beispiel:
+:::
+Beispiel:
 
 :::indent
 ⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ u.s.w.) = "wegen des Verdienstes"
@@ -147,11 +161,13 @@ Daneben kann man selbstverständlich Begründungen auch ausdrücken durch Konstr
 **5\. ⟪इति⟫**
 
 Das Motiv für eine Tätigkeit kann man als Gedanken mit ⟪इति⟫ angeben:
-:::Beispiel:
+:::
+Beispiel:
 
 :::indent
 ⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Weil der Sugata vollkommen zur Wahrheit erwacht ist, fragt Ānanda den Gautama nach seiner Lehre" (« "Denkend "Der Sugata ist vollkommen zur Wahrheit erwacht" ...)
-:::## 25.5. Wortliste
+:::
+## 25.5. Wortliste
 
 ⟪त्यज्⟫ 1P ⟪त्यजति⟫  verlassen, aufgeben, im Stich lassen
 
@@ -165,7 +181,8 @@ Absol. 2: -⟪त्यज्य⟫
 davon:
 
 ⟪त्याग⟫ m.: Aufgeben, Verzicht, Meiden
-:::⟪दार⟫ m. pl. (!!!): Ehefrau
+:::
+⟪दार⟫ m. pl. (!!!): Ehefrau
 
 ⟪द्रव्य⟫ n.: Gegenstand, Habe, materieller Besitz, Geld
 
@@ -175,7 +192,8 @@ davon:
 ![](/images/lekt2501.webp)
 Abb.: ⟪धान्यम्⟫
 (Bildquelle: [Details](/licenses#lekt2501))
-:::⟪धृ⟫ 1U ⟪धरति⟫ : halten, festhalten
+:::
+⟪धृ⟫ 1U ⟪धरति⟫ : halten, festhalten
 
 :::indent
 Fut. ⟪धरिष्यति⟫  
@@ -187,11 +205,13 @@ Absol. 2: -⟪धृत्य⟫
 davon:
 
 ⟪धर्म⟫ m.: das, was fest ist und fest hält = Dharma
-:::⟪नित्य⟫ ⟪३⟫ : ständig, beständig, ewig
+:::
+⟪नित्य⟫ ⟪३⟫ : ständig, beständig, ewig
 
 :::indent
 ⟪नित्यम्⟫ Adv.: stets, beständig immer
-:::⟪प्रज्ञा⟫ f.:  Weisheit, Erkenntnis
+:::
+⟪प्रज्ञा⟫ f.:  Weisheit, Erkenntnis
 
 ⟪प्रदान⟫ n.: Geben, Spenden ; Gabe, Spende
 
@@ -206,7 +226,8 @@ Inf. ⟪मदितुम्⟫
 davon:
 
 ⟪मद⟫ m.: Rausch, Sinnenrausch = Sinneslust
-:::⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
+:::
+⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
 
 ⟪यदि⟫ Konjunktion: wenn
 
@@ -221,7 +242,8 @@ Pass. ⟪यायते⟫
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
 Absol. 2: -⟪याय⟫
-:::⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
+:::
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
 
 ⟪प्रदान⟫ n. = ⟪दान⟫
 
@@ -235,7 +257,8 @@ Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 davon:
 
 ⟪शिक्षा⟫ f.: Wissenschaft, Unterricht ; Phonetik
-:::⟪स्तेन⟫ m.: Dieb
+:::
+⟪स्तेन⟫ m.: Dieb
 
 ⟪स्तेय⟫ n.: Diebstahl
 
@@ -249,7 +272,8 @@ davon:
 ![](/images/lekt2502.webp)
 Abb.: ⟪मूलानि⟫
 (Bildquelle: [Details](/licenses#lekt2502))
-:::⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bestreichen, beschmieren
+:::
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bestreichen, beschmieren
 
 :::indent
 Fut. ⟪लेप्स्यति⟫  
@@ -264,7 +288,8 @@ davon:
 ![](/images/lekt2503.webp)
 Abb.: ⟪लिप्तिः⟫
 (Bildquelle: [Details](/licenses#lekt2503))
-:::⟪वर्ष⟫ n.,m.: Regen, Regenzeit, Jahr
+:::
+⟪वर्ष⟫ n.,m.: Regen, Regenzeit, Jahr
 
 ⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind)
 
@@ -284,13 +309,15 @@ davon:
 ![](/images/lekt2504.webp)
 Abb.: ⟪विवाहः⟫
 (Bildquelle: [Details](/licenses#lekt2504))
-:::⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegführen, unterrichten, erziehen
+:::
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegführen, unterrichten, erziehen
 
 :::indent
 davon:
 
 ⟪विनय⟫ m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht
-:::⟪विज्ञान⟫ n.: Erkenntnis, Kenntnis
+:::
+⟪विज्ञान⟫ n.: Erkenntnis, Kenntnis
 
 ⟪विष्टि⟫ f.: Arbeit, Frondienst
 
@@ -298,7 +325,8 @@ davon:
 ![](/images/lekt2505.webp)
 Abb.: ⟪विष्टिः⟫
 (Bildquelle: [Details](/licenses#lekt2505))
-:::⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, größer werden
+:::
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, größer werden
 
 :::indent
 Fut. ⟪वर्धिष्यते⟫  
@@ -309,7 +337,8 @@ Inf. ⟪वर्धितुम्⟫
 davon:
 
 ⟪वृद्धि⟫ f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti)
-:::⟪सामर्थ्य⟫ n.: das seinem Zweck Entsprechen
+:::
+⟪सामर्थ्य⟫ n.: das seinem Zweck Entsprechen
 
 ⟪स्वभाव⟫ m.: Wesen, Natur, Charakter
 
@@ -321,7 +350,8 @@ davon:
 ![](/images/lekt2506.webp)
 Abb.: ⟪हिरण्यम्⟫
 (Bildquelle: [Details](/licenses#lekt2506))
-:::⟪अणु⟫ ⟪३⟫ : dünn, fein, sehr klein ; m.: Atom
+:::
+⟪अणु⟫ ⟪३⟫ : dünn, fein, sehr klein ; m.: Atom
 
 ⟪गोदान⟫ n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein ⟪संस्कार⟫)
 
@@ -376,7 +406,8 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 :::media
 ![](/images/lekt2507.webp)
 Abb.: ⟪लोकादधिको⟫ ⟪हरिः⟫
-:::## 25.7. ⟪सुभाषितानि⟫
+:::
+## 25.7. ⟪सुभाषितानि⟫
 
 ⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫  
 ⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
@@ -385,7 +416,8 @@ Abb.: ⟪लोकादधिको⟫ ⟪हरिः⟫
 
 :::indent
 Erklärung: ⟪सर्वतस्⟫ = sarva "jeder, alle" + -tas ; ⟪अणु⟫ = Nom., Akk. sg. neutr.
-:::⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
+:::
+⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
 ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
 ⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫  
 ⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥२॥⟫
@@ -401,7 +433,8 @@ Erklärung: ⟪सर्वतस्⟫ = sarva "jeder, alle" + -tas ; ⟪अण
 
 :::indent
 Erklärung: ⟪राजा⟫ = Nom. sg. zu ⟪राजन्⟫ m. = ⟪नृप⟫
-:::## 25.8. Übersetzungsübung
+:::
+## 25.8. Übersetzungsübung
 
 1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. über den Nutzen der Ökonomie:
 

@@ -35,7 +35,8 @@ Brevity is the ornament of the grammarian.
 ![](/images/uebung083.webp)
 Fig.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 (Image source: [Details](/en/licenses#uebung083))
-:::---
+:::
+---
 
 ## Translations into Sanskrit (Imperative)
 
@@ -57,7 +58,8 @@ We want to speak.
 ![](/images/uebung085.webp)
 Fig.: ⟪वचाम⟫
 (Image source: [Details](/en/licenses#uebung085))
-:::⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
+:::
+⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 With the words "Come, monk!" the Buddha admitted the man into the order.
 
 ⟪६⟫. **⟪सन्मानवाः⟫ ⟪स्त⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
@@ -109,7 +111,8 @@ Husbands should maintain their wives.
 ![](/images/uebung076.webp)
 Fig.: ⟪तानि⟫ ⟪फलान्यदाम⟫
 (Image source: [Details](/en/licenses#uebung076))
-:::---
+:::
+---
 
 ## The Dharma of Women (⟪स्त्रीधर्मः⟫)
 

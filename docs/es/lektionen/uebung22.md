@@ -91,7 +91,8 @@ Si ha realizado acciones meritorias y solo ha hablado la verdad, un ser humano n
 ![](/images/uebung034.jpg)
 Fig.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung034))
-:::---
+:::
+---
 
 ## Construcciones pasivas
 

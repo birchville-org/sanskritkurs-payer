@@ -19,7 +19,8 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 1. **nelle coniugazioni derivate (causativo, desiderativo, frequentativo, denominativi)**
 2. **nelle radici che iniziano con una vocale lunga (tranne ā-) o con una vocale (tranne a-) seguita da due consonanti**
 3. **in alcune altre radici**
-:::## 34.2. Il perfetto con reduplicazione (⟪द्वित्वलिट्⟫)
+:::
+## 34.2. Il perfetto con reduplicazione (⟪द्वित्वलिट्⟫)
 
 ### 34.2.1. Gradazione della radice
 
@@ -39,7 +40,8 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 **Nel perfetto, inoltre, non subiscono gradazione le radici della forma:**
 *   **a-Consonante**
 *   **ā-Consonante**
-:::### 34.2.2. Le desinenze del perfetto
+:::
+### 34.2.2. Le desinenze del perfetto
 
 ::::grammar-box
 
@@ -48,11 +50,13 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 | **Parasmaipāda** | **-a** | **-ur** |
 | **Ātmanepāda** | **-e** | **-re** |
 
-::::### 34.2.3. Vocale di giunzione -i-
+::::
+### 34.2.3. Vocale di giunzione -i-
 
 :::grammar-box
 **Prima della desinenza della 3.pl.Ā (-re) compare sempre la vocale di giunzione -i-, prima delle altre desinenze che iniziano con una consonante, nella maggioranza delle radici.**
-:::### 34.2.4. Raddoppiamento delle radici inizianti per consonante
+:::
+### 34.2.4. Raddoppiamento delle radici inizianti per consonante
 
 :::grammar-box
 **Per il raddoppiamento delle consonanti iniziali valgono le regole fornite nella [Lezione 33](lektion33.md).**
@@ -62,7 +66,8 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 **I dittonghi seguiti da consonante si riducono mediante la corrispondente vocale breve di grado debole (guṇa/zero).**
 
 **ṛ, ṝ, ḷ e i dittonghi finali si raddoppiano con -a-.**
-:::Esempi:
+:::
+Esempi:
 
 ::::grammar-box
 
@@ -74,7 +79,8 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 
 :::::::grammar-box
 **Alcune radici inizianti per y- o v- si raddoppiano con i- o u-, che nelle forme deboli si "fonde" con la vocale radice.**
-:::Esempi:
+:::
+Esempi:
 
 ::::grammar-box
 
@@ -83,11 +89,13 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
-::::### 34.2.5. Raddoppiamento delle radici inizianti per vocale
+::::
+### 34.2.5. Raddoppiamento delle radici inizianti per vocale
 
 :::grammar-box
 **1. Le radici inizianti con a-, ā- vengono raddoppiate con a-, risultando in ā-.**
-:::Esempi:
+:::
+Esempi:
 
 ::::grammar-box
 
@@ -97,7 +105,8 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 
 :::::::grammar-box
 **2. Le radici inizianti con i- presentano come sillaba di raddoppiamento iy- nella forma forte e i- nella forma debole, che si fondono con la vocale radicale dando ī-. Analogamente vale per le radici inizianti con u-.**
-:::Esempi:
+:::
+Esempi:
 
 ::::grammar-box
 
@@ -108,7 +117,8 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 
 :::::::grammar-box
 **3. Le radici che iniziano con a- seguita da due consonanti, oppure con ṛ-, presentano come sillaba di raddoppiamento ān-.**
-:::Esempi:
+:::
+Esempi:
 
 ::::grammar-box
 
@@ -117,7 +127,8 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
-::::## 34.3. Tipi del perfetto reduplicato
+::::
+## 34.3. Tipi del perfetto reduplicato
 
 Criterio di classificazione: particolarità dell'alternanza della radice:
 
@@ -133,7 +144,8 @@ Criterio di classificazione: particolarità dell'alternanza della radice:
 *   **(Consonante)-Consonante-Vocale-Consonante-Consonante**
 *   **a-Consonante**
 *   **ā-Consonante**
-:::Esempi:
+:::
+Esempi:
 
 ::::grammar-box
 
@@ -145,7 +157,8 @@ Criterio di classificazione: particolarità dell'alternanza della radice:
 | ⟪अस्⟫ 2P "essere":br⟪अस्⟫ 4 "gettare" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
 | ⟪अश्⟫ | ⟪आनशे⟫:brreduplicazione irregolare! | ⟪आनशिरे⟫ |
 
-::::## 34.5. Tipo II del Perfetto: Radice forte in grado alto, radice debole in grado basso
+::::
+## 34.5. Tipo II del Perfetto: Radice forte in grado alto, radice debole in grado basso
 
 :::grammar-box
 **Si forma da radici della forma:**
@@ -154,7 +167,8 @@ Criterio di classificazione: particolarità dell'alternanza della radice:
 **Formazione:**
 *   **radice forte: grado alto (guṇa/vedico)**
 *   **radice debole: grado basso (zero-grade)**
-:::Esempi:
+:::
+Esempi:
 
 ::::grammar-box
 
@@ -166,7 +180,8 @@ Criterio di classificazione: particolarità dell'alternanza della radice:
 | ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
-::::## 34.6. Elenco lessicale
+::::
+## 34.6. Elenco lessicale
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -177,7 +192,8 @@ Criterio di classificazione: particolarità dell'alternanza della radice:
 Fig.: ⟪सस्यम्⟫
 Campo di riso in India.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3406))
-:::**⟪यावत्⟫ :** quanto a lungo, quanto grande
+:::
+**⟪यावत्⟫ :** quanto a lungo, quanto grande
 
 **⟪तावत्⟫ :** tanto a lungo, tanto grande
 
@@ -190,7 +206,8 @@ Campo di riso in India.
 Fig.: ⟪लक्षद्वीपाः⟫
 Mappa delle Isole Lakshadweep.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3405))
-:::**⟪मर्त्य⟫ 3:** mortale (da **⟪मृ⟫**)
+:::
+**⟪मर्त्य⟫ 3:** mortale (da **⟪मृ⟫**)
 
 **⟪तिल⟫ m.:** sesamo (*Sesamum indicum* L.)
 
@@ -204,14 +221,16 @@ Semi di sesamo.
 Fig.: *Sesamum indicum* L.
 Fioritura della pianta del sesamo.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3404))
-:::**⟪स्वर्ण⟫ n.:** (di bel colore =) oro
+:::
+**⟪स्वर्ण⟫ n.:** (di bel colore =) oro
 
 :::media
 ![](/images/lekt3402.webp)
 Fig.: ⟪स्वर्णम्⟫
 Tempio d'Oro (Harmandir Sahib), Amritsar.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3402))
-:::**⟪निकेतन⟫ n.:** dimora, tempio
+:::
+**⟪निकेतन⟫ n.:** dimora, tempio
 
 **⟪कोटि⟫ f.:** punta; 10 milioni
 
@@ -226,7 +245,8 @@ Tempio d'Oro (Harmandir Sahib), Amritsar.
 Fig.: ⟪ऋषभः⟫
 Statua del toro Nandi, Colline di Chamundi, Mysore.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3401))
-:::**⟪यम्⟫ 1P ⟪यच्छति⟫ :** trattenere, tenere, offrire, concedere
+:::
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** trattenere, tenere, offrire, concedere
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** porgerla, offrire, consegnare
 

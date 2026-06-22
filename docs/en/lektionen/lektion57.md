@@ -15,7 +15,8 @@ status: stable
 **The s-aorist is formed for most ⟪अनिट्⟫-roots, provided they do not exclusively have another aorist form. Optional ⟪अनिट्⟫-roots can generally optionally form this or the iṣ-aorist. Also ⟪अनिट्⟫-roots that form the ⟪परस्मैपद⟫ after the 1st, 2nd or 6th form of the aorist form the ⟪आत्मनेपद⟫ according to the s-aorist.**
 
 **Formation: Augment + Root + s + athematic secondary endings**
-:::Table of endings with stem-forming suffix
+:::
+Table of endings with stem-forming suffix
 
 :::grammar-box
 
@@ -33,12 +34,15 @@ Examples:
 :::indent
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫
-:::Such forms could also belong to the root aorist and probably also partly belong there.
-::::The Indian grammarians also counted forms like ⟪अकृत⟫ (3.sg.Ā) to the s-aorist, which clearly belong to the root aorist. For this purpose, the Indian grammarians invented the following ad-hoc sound rule for the s-aorist:
+:::
+Such forms could also belong to the root aorist and probably also partly belong there.
+::::
+The Indian grammarians also counted forms like ⟪अकृत⟫ (3.sg.Ā) to the s-aorist, which clearly belong to the root aorist. For this purpose, the Indian grammarians invented the following ad-hoc sound rule for the s-aorist:
 
 :::indent
 "After a short vowel, the 'endings' that begin with -st- or -sth- lose the -s-."
-:::Otherwise, the sound rules for the connection of final consonants with s- must be observed.
+:::
+Otherwise, the sound rules for the connection of final consonants with s- must be observed.
 
 For -dhvam applies:
 
@@ -51,7 +55,8 @@ For -dhvam applies:
     *   **final -ṝ is replaced by -īr or -ūr**
     *   **ablaut-capable roots on ā/e/o: Weak stage**
     *   **other root vowels: unchanged (i.e. usually weak-stage)**
-:::Examples:
+:::
+Examples:
 
 |   | **3.sg.P** |
 | --- | --- |
@@ -78,11 +83,13 @@ For -dhvam applies:
 
 :::indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫***⟪द्राक्षी⟫***⟪त्⟫
-:::The aorist of other roots with -ṛ- in penultimate position can also be formed this way:
+:::
+The aorist of other roots with -ṛ- in penultimate position can also be formed this way:
 
 :::indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***⟪क्राक्षी⟫***⟪त्⟫
-:::::::Paradigms:
+:::::::
+Paradigms:
 
 ⟪नी⟫ 1U "lead"
 
@@ -98,7 +105,8 @@ For -dhvam applies:
 ![](/images/lekt5701.webp)
 Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
 (Image source: [Details](/en/licenses#lekt5701))
-:::⟪कृ⟫ 8U "to do"
+:::
+⟪कृ⟫ 8U "to do"
 
 |   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -129,7 +137,8 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 
 3.  ⟪बुध्⟫ Ā can optionally take the form of the passive root aorist in the 3.sg.Ā:
     ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "he recognized"
-:::## 57.2. Exercise
+:::
+## 57.2. Exercise
 
 A) Translate and identify the following forms without aids, and form the corresponding Aorist forms. Except for causatives and roots that form the s-Aorist, the class of the corresponding Aorist is given in parentheses:
 

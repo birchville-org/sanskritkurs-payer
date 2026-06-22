@@ -16,7 +16,8 @@ status: stable
 - Das Cerebralisationsgesetz für -n- (Wortsandhi)
 - Die Bildung des Passivs (yak) im Indikativ Präsens
 - Vokabular zu Opfer, Wahrheit und gesellschaftlichen Rollen
-:::## 10.1. Der Passivsatz
+:::
+## 10.1. Der Passivsatz
 
 :::grammar-box
 **Schema:**
@@ -40,11 +41,14 @@ Dem Aktivsatz **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रा�
 **Intransitive Verben (Verben ohne direktes Objekt) haben häufig Passivkonstruktionen, bes. auch in höflichen Aufforderungen:**
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Man möge eintreten = Bitte treten Sie ein = Herein!"
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = "Man möge sich setzen = Bitte setzen Sie sich = Bitte nehmen Sie Platz"
-:::Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch leichter bildbar als z.B. zahlreiche Präsensstämme.
+:::
+Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch leichter bildbar als z.B. zahlreiche Präsensstämme.
 
-:::important
+:::
+important
 **Sanskrit-Passivsätze dürfen im Allgemeinen im Deutschen nicht durch einen Passivsatz wiedergegeben werden, da das deutsche Passiv eine ganz andere stilistische Funktion hat.**
-:::---
+:::
+---
 
 ## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
 
@@ -95,7 +99,8 @@ Dem Aktivsatz **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रा�
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 ::::::deleteme-box
 Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepronomens und der Demonstrativpronomina mit den Formen des entsprechenden Maskulinums identisch.
-:::---
+:::
+---
 
 ### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
 
@@ -111,7 +116,8 @@ Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepr
 3. **zur Angabe des Weges, auf dem jemand wohin gelangt**
 4. **zum Ausdruck der Verbindung, Vereinigung, Begleitung von**
 5. **bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. saha = ⟪सह⟫ = "mit"** :brz.B.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "gemeinsam mit dem Brahmanen"
-:::Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
+:::
+Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 
 ---
 
@@ -119,7 +125,8 @@ Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepr
 
 :::grammar-box
 Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** ersetzt, wenn **ṛ, ṝ, r, ṣ** im Wort dem **-n-** vorausgehen oder kein anderer Laut als Vokale, Gutturale, Labiale, **y, v, h** oder Anusvāra zwischen diesen Lauten und dem folgenden **-n-** im Wort steht.
-:::**Deshalb:**
+:::
+**Deshalb:**
 
 :::grammar-box
 | | Instrumentalis Singular |
@@ -129,7 +136,8 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 | **īśvara** :br⟪ईश्वर⟫ | **īśvereṇa** :br⟪ईश्वरेण⟫ |
 | **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
 | **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
-:::**So ist auch das -ṇ- zu erklären in:**
+:::
+**So ist auch das -ṇ- zu erklären in:**
 
 :::indent
 **śravaṇa** ⟪श्रवण⟫
@@ -139,14 +147,16 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 **kāraṇa** ⟪कारण⟫
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
-:::---
+:::
+---
 
 ## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
 
 :::grammar-box
 **Bildung:**
 **(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung**
-:::z.B.
+:::
+z.B.
 
 | Wurzel:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
@@ -220,7 +230,8 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
   :::- **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
 - **satya** n. ⟪सत्य⟫ : Wahrheit
 
-:::note-box
+:::
+note-box
 In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
 
 Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
@@ -228,7 +239,8 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 ![](/images/lekt1003.webp)
 Abb.: ⟪वरुणः⟫
 (Bildquelle: [Details](/licenses#lekt1003))
-:::- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+:::
+- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
 
   :::note-box
   Wortbildung **an-** („un-“) + **ṛta** n.
@@ -242,7 +254,8 @@ Abb.: ⟪वरुणः⟫
 ![](/images/lekt1002.jpg)
 Abb.: ⟪विश्वामित्रः⟫
 (Bildquelle: [Details](/licenses#lekt1002))
-:::- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
+:::
+- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
 - **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
 
@@ -305,7 +318,8 @@ Abb.: ⟪विश्वामित्रः⟫
 ![](/images/lekt1004.jpg)
 Abb.: ⟪तन्तुवायः⟫
 (Bildquelle: [Details](/licenses#lekt1004))
-:::5. Lehrer fragen. (Passivkonstruktion)
+:::
+5. Lehrer fragen. (Passivkonstruktion)
 6. Das Auge führt. (Passivkonstruktion)
 7. Der Dichter sieht eine Gottheit. (Passivkonstruktion)
 8. Wer (fem.) hütet das Mädchen? (Passivkonstruktion)
@@ -350,12 +364,14 @@ Abb.: ⟪तन्तुवायः⟫
 **⟪क⟫**
 
 ⟪१⟫.
-:::center
+:::
+center
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
 ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
-:::⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
+:::
+⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
 ⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ | |
 ⟪४⟫. ⟪ऋषयः⟫ ⟪सूक्तानि⟫ ⟪पश्यन्ति⟫ | |
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ | |

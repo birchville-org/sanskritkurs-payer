@@ -18,7 +18,8 @@ status: stable
 | **Terminaisons primaires** | -si | -tha | -se | -dhve |
 | **Terminaisons secondaires** | -s | -ta | -thās | -dhvam |
 | **Terminaisons parfait** | -tha | -a | -se | -dhve |
-:::Notez que la terminaison secondaire de la 2ᵉ personne du pluriel est identique à celle de la 3ᵉ personne du singulier de la voix active.
+:::
+Notez que la terminaison secondaire de la 2ᵉ personne du pluriel est identique à celle de la 3ᵉ personne du singulier de la voix active.
 
 ## 43.2. Formation des formes verbales de la 2ᵉ personne (⟪मध्यमः⟫)
 
@@ -31,7 +32,8 @@ status: stable
 
 :::media
 ![](/images/lekt4301.jpg)
-:::La 3.sg.Ā.Imparfait ou Subjonctif est formellement identique à la 2.pl.P.Imparfait ou Subjonctif !
+:::
+La 3.sg.Ā.Imparfait ou Subjonctif est formellement identique à la 2.pl.P.Imparfait ou Subjonctif !
 
 #### 43.2.1.1. Première classe de présent (⟪भ्वादि⟫)
 
@@ -122,11 +124,13 @@ status: stable
 | **⟪पञ्चमी⟫** | ⟪त्वत्⟫ | ⟪युष्मत्⟫ |
 | **⟪षष्ठी⟫** | ⟪तव⟫ ⟪ते⟫ | ⟪युष्माकम्⟫ ⟪वस्⟫ |
 | **⟪सप्तमी⟫** | ⟪त्वयि⟫ | ⟪युष्मासु⟫ |
-:::Les formes ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ ne doivent pas être utilisées en première position d'une phrase ou d'une demi-période de vers. Elles ne peuvent pas non plus être employées avant ⟪च⟫, ⟪वा⟫, ⟪एव⟫ et certaines autres particules :
+:::
+Les formes ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ ne doivent pas être utilisées en première position d'une phrase ou d'une demi-période de vers. Elles ne peuvent pas non plus être employées avant ⟪च⟫, ⟪वा⟫, ⟪एव⟫ et certaines autres particules :
 
 :::indent
 ⟪त्वां⟫ ⟪मां⟫ ⟪च⟫ "toi et moi"
-:::## 43.4. Liste de mots
+:::
+## 43.4. Liste de mots
 
 ⟪ज्ञा⟫ + ⟪आ⟫ Causatif ⟪आज्ञापयति⟫ : ordonner, prescrire
 
@@ -136,7 +140,8 @@ status: stable
 ![](/images/lekt4302.webp)
 Fig. : ⟪आपणः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4302))
-:::⟪सत्वर⟫ 3 : rapide, pressé
+:::
+⟪सत्वर⟫ 3 : rapide, pressé
 
 ⟪पण्य⟫ 3 : à vendre ; n. : marchandise, commerce
 
@@ -144,7 +149,8 @@ Fig. : ⟪आपणः⟫
 ![]/images/lekt4303.webp
 Fig. : ⟪पण्यानि⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4303))
-:::⟪आम्⟫ : oui
+:::
+⟪आम्⟫ : oui
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -166,13 +172,15 @@ Fig. : ⟪पण्यानि⟫
 ![](/images/lekt4304.webp)
 Fig. : ⟪विपणिः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4304))
-:::⟪वणिज्⟫ m. : commerçant
+:::
+⟪वणिज्⟫ m. : commerçant
 
 :::media
 ![](/images/lekt4305.webp)
 Fig. : ⟪वणिक्⟫
 (Source de l'image : [Détails](/fr/licenses/lekt4305))
-:::⟪वर⟫ 3 : meilleur
+:::
+⟪वर⟫ 3 : meilleur
 
 ⟪शीघ्र⟫ 3 : rapide, prompt
 
@@ -182,7 +190,8 @@ Fig. : ⟪वणिक्⟫
 ![](/images/lekt4306.webp)
 Fig. : ⟪वत्सः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4306))
-:::⟪उत्तम⟫ 3 : suprême, meilleur
+:::
+⟪उत्तम⟫ 3 : suprême, meilleur
 
 ⟪अल्प⟫ 3 : petit, minime
 
@@ -202,7 +211,8 @@ Fig. : ⟪वत्सः⟫
 ![](/images/lekt4307.webp)
 Fig. : ⟪तोलन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4307))
-:::⟪कर्गल⟫ n. : papier
+:::
+⟪कर्गल⟫ n. : papier
 
 ⟪संपुट⟫ m. : boîte (ici : paquet, colis)
 
@@ -222,7 +232,8 @@ Caus. ⟪द्रावयति⟫
 PPP ⟪द्रुत⟫  
 Absol. -⟪द्रुत्य⟫  
 Inf. ⟪द्रोतुम्⟫
-:::⟪रे⟫ Interjection : Hé ! Toi là !
+:::
+⟪रे⟫ Interjection : Hé ! Toi là !
 
 ⟪अन्यद्⟫ 3 : un autre (déclinaison comme ⟪यद्⟫ )
 
@@ -321,7 +332,8 @@ B) Traduisez en sanskrit :
 ![](/images/lekt4308.webp)
 Fig. : ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4308))
-:::## 43.6. ⟪संवादः⟫ = Conversation
+:::
+## 43.6. ⟪संवादः⟫ = Conversation
 
 | ⟪संवादः⟫ | Explications |
 | --- | --- |

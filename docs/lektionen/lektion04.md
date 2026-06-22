@@ -16,7 +16,8 @@ status: stable
 - Sandhi von auslautendem -e
 - Sandhi von auslautendem -d
 - Einfache Frageformeln
-:::## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
+:::
+## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
 
 ### 4.1.1. Fragepronomina und Demonstrativpronomina
 
@@ -28,7 +29,8 @@ status: stable
 | **Neutrum** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
 | **Maskulinum** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
 | **Feminimum** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
-:::#### 4.1.1.2. Demonstrativpronomina (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+:::
+#### 4.1.1.2. Demonstrativpronomina (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 :::grammar-box
 | **Stämme** ||||
@@ -42,7 +44,8 @@ status: stable
 | **Neutrum** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
 | **Maskulinum** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
 | **Femininum** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
-:::**Zum Nom. sg. mask.:**
+:::
+**Zum Nom. sg. mask.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) steht vor allen Lauten außer kurzem **-a**
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) steht vor **-a**, welches mit Avagraha elidiert (ausfällt)
 - **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) steht nur in Pausa (Satzende, Versende)
@@ -53,7 +56,8 @@ Um mit diesen Pronomina (sarvanāman n.) Sätze bilden zu können, ist noch die 
 
 :::grammar-box
 **Auslautendes -m wird vor Konsonanten durch Anusvāra (-ṃ) ersetzt. Am Satz- bzw. Versende und vor Vokalen bleibt -m erhalten.**
-:::### 4.1.3. Sandhi von auslautendem -e
+:::
+### 4.1.3. Sandhi von auslautendem -e
 
 :::grammar-box
 1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:**
@@ -61,13 +65,15 @@ Um mit diesen Pronomina (sarvanāman n.) Sätze bilden zu können, ist noch die 
 
 2. **Vor anderen Vokalen als kurzem a- wird -e gewöhnlich durch -a mit Hiatus ersetzt. Auch die Ersetzung durch -ay kommt vor:**
    z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (selten: imay īśvarāh = ⟪इमयीश्वराः⟫) "Diese HERREN"
-:::### 4.1.4. Sandhi von auslautendem -d
+:::
+### 4.1.4. Sandhi von auslautendem -d
 
 :::grammar-box
 **Auslautendes -d wird in Pausa sowie vor stimmlosen Gutturalen (k, kh) und Labialen (p, ph) durch -t ersetzt.**
 
 Die Ersetzung vor anderen Konsonanten wird später besprochen. Vermeiden Sie vorläufig solche Lautzusammenstöße!
-:::### 4.1.5. Frageformeln
+:::
+### 4.1.5. Frageformeln
 
 Mittels dieser Pronomina bildet man z.B. folgende Frageformeln:
 
@@ -81,7 +87,8 @@ Mittels dieser Pronomina bildet man z.B. folgende Frageformeln:
 | **Plural** | **Neutrum** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
 | | **Maskulinum** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
 | | **Femininum** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
-::::::Ein Beispiel anderer Fragen:
+::::::
+Ein Beispiel anderer Fragen:
 
 > viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Antwort: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hier kann man im Nominalsatz das Subjekt z.B. an den Anfang stellen, um den Anschluss an die Frage zu betonen.)
 

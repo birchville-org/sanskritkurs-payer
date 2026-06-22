@@ -104,7 +104,8 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 ![](/images/uebung065.webp)
 Abb.: ⟪आशिमेति⟫
 (Bildquelle: [Details](/licenses#uebung065))
-:::---
+:::
+---
 
 ## Wortformbestimmung
 

@@ -41,7 +41,8 @@ Le père souhaitait l’obtention de petits-fils.
 ![](/images/uebung068.webp)
 Fig. : ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Source de l’image : [Détails](/fr/licenses#uebung068))
-:::---
+:::
+---
 
 ## Récit : Le mariage de Sītā (⟪सीताविवाहः⟫)
 
