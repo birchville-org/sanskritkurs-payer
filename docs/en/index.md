@@ -17,18 +17,18 @@ features:
   - title: Devanāgarī ready
     details: Perfect, integrated typography for Indian scripts.
   - title: Easily Searchable
-    details: Deep local full-text search keeps knowledge at your fingertips.
+    details: A deep local full-text search keeps knowledge at your fingertips.
   - title: Modern Architecture
     details: Built on the foundation of VitePress for maximum speed.
 ---
 
-:::tip Version 1.4 — Offline-First PWA
-**New in v1.4 (June 2026):**
+:::tip Version 1.5 — Hebrew Translation & Typography
+**New in v1.5 (June 2026):**
 
-- **Progressive Web App (PWA):** The course can now be installed as an app on your desktop and smartphone (iOS/Android).
-- **Fully Offline:** All selected content is stored locally and can be used completely without an internet connection.
-- **Dynamic Caching:** You can use the Settings to precisely control which of the 14 languages should be available offline at any time.
-- **High Performance:** Massive reduction in loading times and data consumption thanks to highly compressed WebP images.
+- **New Language (Hebrew):** The entire course is now also available in Hebrew (including RTL support).
+- **Sanskrit Typography:** System-wide standardization and color highlighting of Devanagari in all translation languages.
+- **PWA Improvements:** Further stabilization of the Progressive Web App for offline use.
 
-**Comments and bug reports:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Comments and Error Reports:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Participate as an Author or Corrector:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 :::

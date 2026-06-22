@@ -25,13 +25,11 @@ last_reconstructed: 2026-05-15
 
 > Was, wenn man es tut, zur inneren Befriedigung gereicht, das soll man eifrig tun; Gegenteiliges aber unterlasse man.
 
-::: media
+:::media
 ![](/images/uebung087.webp)
 Abb.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 (Bildquelle: [Details](/licenses#uebung087))
-:::
-
----
+:::---
 
 ## ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫: Über die Quellen des ⟪धर्म⟫
 
@@ -118,7 +116,7 @@ Buddhas erlösende Erkenntnis:
 
 > "Diese Lebewesen, die böse Taten begangen haben, gehen in eine schlechte Existenz; diese anderen, die gutes Karma haben, entstehen wieder in Indras Himmel."
 
-::: media
+:::media
 ![](/images/uebung088.webp)
 Abb.: ⟪कदलीगर्भनिःसारः⟫
 (Bildquelle: [Details](/licenses#uebung088))

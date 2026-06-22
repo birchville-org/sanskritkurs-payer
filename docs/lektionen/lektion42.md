@@ -13,7 +13,7 @@ status: stable
 
 ### 42.1.1. Stämme mit Dehnstufe im starken Stamm
 
-::: grammar-box
+:::grammar-box
 Alle Maskulina auf -ṛ mit Ausnahme der unter 1.3. angeführten Verwandtschaftsbezeichnungen. Hierher gehören auch die Verwandtschaftsbezeichnungen:
 
 *   **⟪नप्तृ⟫** m. "Enkel"
@@ -28,16 +28,12 @@ Den Großteil der hierhergehörigen Nomina bilden Nomina agentis auf das ⟪क�
     *   **vor Vokal: -r**
     *   **vor Konsonant: -ṛ**
 
-Beachten Sie die unregelmäßigen Bildungen (durch ***rot*** gekennzeichnet)!
-:::
+Beachten Sie die unregelmäßigen Bildungen (durch **rot** gekennzeichnet)!
+:::Maskulinum:
 
-Maskulinum:
-
-::: indent
+:::indent
 **⟪दातृ⟫** m. "Geber"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :--- | :--- |
@@ -49,19 +45,15 @@ Maskulinum:
 | ⟪षष्ठी⟫ | ***⟪दातुस्⟫*** | ***⟪दातॄणाम्⟫*** |
 | ⟪सप्तमी⟫ | ***⟪दातरि⟫*** | ⟪दातृषु⟫ |
 
-:::
-
-Zur Erklärung der unregelmäßigen Bildungen siehe Thumb-Hauschild I,2 S. 76 -81
+:::Zur Erklärung der unregelmäßigen Bildungen siehe Thumb-Hauschild I,2 S. 76 -81
 
 Femininum:
 
-::: indent
+:::indent
 **⟪स्वसृ⟫** f. wird wie **⟪दातृ⟫** dekliniert mit Ausnahme des Akkusativ (**⟪द्वितीया⟫**) Plural: ***⟪स्वसॄस्⟫***.
-:::
+:::### 42.1.2. Nominalbildung: ⟪कृत्⟫-Suffix -⟪तृ⟫
 
-### 42.1.2. Nominalbildung: ⟪कृत्⟫-Suffix -⟪तृ⟫
-
-::: grammar-box
+:::grammar-box
 Mit dem sehr häufig vorkommenden ⟪कृत्⟫-Suffix -⟪तृ⟫ bildet man Nomina agentis (Bezeichnungen für den ⟪कर्तृ⟫) zu fast jeder Wurzel bzw. Kausativstamm.
 
 **Bildung:**
@@ -71,11 +63,9 @@ Mit dem sehr häufig vorkommenden ⟪कृत्⟫-Suffix -⟪तृ⟫ bildet
 oder
 
 *   **hochstufige Wurzel / Kausativstamm + i + tṛ**
-:::
+:::Beispiele:
 
-Beispiele:
-
-::: indent
+:::indent
 **⟪कर्तृ⟫** m. "Täter"
 
 **⟪जेतृ⟫** m. "Sieger"
@@ -85,25 +75,19 @@ Beispiele:
 **⟪रक्षितृ⟫** m. "Beschützer"
 
 **⟪बोधयितृ⟫** m. "Wecker"
-:::
-
-::: media
+::::::media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Abb.: ⟪अयं⟫ ⟪बोधयिता⟫
 (Bildquelle: [Details](/licenses#lekt4201))
-:::
-
-::: grammar-box
+::::::grammar-box
 Selten vorkommende Neutra auf -⟪तृ⟫ haben eine teilweise eigene Deklination (s. Kielhorn, Grammatik § 148).
 
 Das Femininum zu den Stämmen auf -⟪तृ⟫ lautet auf **-⟪त्री⟫** (wie **⟪देवी⟫**).
 
 z.B. **⟪कर्त्री⟫** f. "Täterin"
-:::
+:::### 42.1.3. Stämme mit Hochstufe im starken Stamm
 
-### 42.1.3. Stämme mit Hochstufe im starken Stamm
-
-::: grammar-box
+:::grammar-box
 Dazu gehören folgende Verwandtschaftsbezeichnungen:
 
 *   **⟪पितृ⟫** m. "Vater"
@@ -120,17 +104,13 @@ Dazu gehören folgende Verwandtschaftsbezeichnungen:
 *   **schwacher Stamm**
     *   **vor Vokal: -r**
     *   **vor Konsonant: -ṛ**
-:::
+:::Beispiele:
 
-Beispiele:
-
-::: indent
+:::indent
 **⟪पितृ⟫** m. "Vater"
 
 **⟪मातृ⟫** f. "Mutter"
-:::
-
-::: grammar-box
+::::::grammar-box
 
 | | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -138,18 +118,14 @@ Beispiele:
 | ⟪द्वितीया⟫ | ***⟪पितरम्⟫*** | ⟪पितॄन्⟫ | ***⟪मातरम्⟫*** | ⟪मातॄस्⟫ |
 | Rest wie ⟪दातृ⟫ | ← | ← | ← | ← |
 
-:::
+:::### 42.1.4. Stämme auf -ṛ in Komposita
 
-### 42.1.4. Stämme auf -ṛ in Komposita
-
-::: grammar-box
+:::grammar-box
 Als Vorderglied eines Kompositums stehen Nomina auf -ṛ selbstverständlich in ihrem schwachen Stamm, d.h.
 
 *   **vor Konsonant: -ṛ**
 *   **vor Vokal: -r**
-:::
-
-## 42.2. Wortliste
+:::## 42.2. Wortliste
 
 ⟪प्रकृति⟫ f.: (zu ⟪कृ⟫ + ⟪प्र⟫) Grundform, natürlicher Zustand, Natur; Urmaterie, Urstoff
 
@@ -157,11 +133,9 @@ Als Vorderglied eines Kompositums stehen Nomina auf -ṛ selbstverständlich in 
 
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstehen von, Abstand nehmen von, sich fernhalten, verbleiben, dastehen
 
-::: indent
+:::indent
 PPP ⟪अवस्थित⟫ 3: dastehend, befindlich
-:::
-
-⟪पुरा⟫ Adv.: einst, früher
+:::⟪पुरा⟫ Adv.: einst, früher
 
 ⟪अनेक⟫ 3: viele (nicht einige)
 
@@ -181,7 +155,7 @@ PPP ⟪अवस्थित⟫ 3: dastehend, befindlich
 
 ⟪चल्⟫ 1P ⟪चलति⟫ : in Bewegung geraten
 
-::: indent
+:::indent
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
@@ -189,9 +163,7 @@ Kaus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
-:::
-
-⟪अधिपति⟫ m. = ⟪राजन्⟫
+:::⟪अधिपति⟫ m. = ⟪राजन्⟫
 
 ⟪आटोप⟫ m.: Eitelkeit, Stolz
 
@@ -209,7 +181,7 @@ Inf. ⟪चलितुम्⟫
 
 ⟪शंस्⟫ 1P ⟪शंसति⟫ : loben, gebieten
 
-::: indent
+:::indent
 Fut. ⟪शंसिष्यति⟫  
 Perf. I ⟪शशंस⟫  
 Pass. ⟪शस्यते⟫  
@@ -217,19 +189,15 @@ Kaus. ⟪शंसयति⟫
 PPP ⟪शस्त⟫  
 Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
-:::
-
-⟪हृदय⟫ n.: Herz
+:::⟪हृदय⟫ n.: Herz
 
 ### 42.2.1. Einige Verwandtschaftsbezeichnungen
 
-::: media
+:::media
 ![lekt4202.jpg](/images/lekt4202.webp)
 Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Bildquelle: [Details](/licenses#lekt4202))
-::: 
-
-⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): Erhalter, Ernährer, Gatte
+:::⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): Erhalter, Ernährer, Gatte
 
 ⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
 
@@ -288,21 +256,17 @@ Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werd
 
 ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫
 
-::: media
+:::media
 ![lekt4203.jpg](/images/lekt4203.webp)
 Abb.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Bildquelle: [Details](/licenses#lekt4203))
-:::
+:::⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
-⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
-
-::: media
+:::media
 ![lekt4204.jpg](/images/lekt4204.webp)
 Abb.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#lekt4204))
-:::
-
-⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
+:::⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
 
 ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫
 
@@ -326,37 +290,31 @@ Abb.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 ⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ ***⟪ऽयोध्या⟫***⟪धिपते⟫***⟪र्दशरथस्य⟫*** ⟪पुत्रः⟫ ⟪श्री⟫***⟪रामः⟫*** ***⟪सलक्ष्मणो⟫*** ***⟪विश्वामित्रेण⟫*** ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫***⟪रामो⟫*** ⟪महर्षेर्⟫***⟪विश्वामित्र⟫***⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
 
-::: media
+:::media
 ![lekt4208.jpg](/images/lekt4208.webp)
 Abb.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
 (Bildquelle: [Details](/licenses#lekt4208))
-:::
-
-⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
+:::⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
 ⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ***⟪सीतारामयोर्वि⟫***⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
 
 (⟪संस्कृतप्रथमादर्शे⟫)
 
-Erklärung der ***rot*** hervorgehobenen Ausdrücke:
+Erklärung der **rot** hervorgehobenen Ausdrücke:
 
 ⟪सीता⟫ f. Eigenname: Tochter des Königs ⟪जनक⟫ von ⟪विदेह⟫. Sie war aus der Erde herausgekommen, als der König einst den Acker pflügte, deshalb ihr Name: ⟪सीता⟫ f. "Ackerfurche"
 
-::: media
+:::media
 ![lekt4205.jpg](/images/lekt4205.webp)
 Abb.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Bildquelle: [Details](/licenses#lekt4205))
-:::
+:::⟪मिथिला⟫ f. Eigenname: Hauptstadt von ⟪विदेह⟫
 
-⟪मिथिला⟫ f. Eigenname: Hauptstadt von ⟪विदेह⟫
-
-::: media
+:::media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Abb.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Bildquelle: [Details](/licenses#lekt4206))
-:::
-
-⟪जनक⟫ m. Eigenname: König von ⟪विदेह⟫
+:::⟪जनक⟫ m. Eigenname: König von ⟪विदेह⟫
 
 ⟪गुरुतर⟫ 3: Komparativ zu ⟪गुरु⟫ 3: schwerer, sehr schwer
 
@@ -368,13 +326,11 @@ Abb.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪रावण⟫ m. Eigennamen; Herrscher von ⟪लङ्का⟫, Herrscher der ⟪राक्षस⟫.
 
-::: media
+:::media
 ![lekt4207.jpg](/images/lekt4207.webp)
 Abb.: ⟪रावणः⟫
 (Bildquelle: [Details](/licenses#lekt4207))
-:::
-
-⟪अयोध्या⟫ f. Eigennamen: Hauptstadt von ⟪कोसल⟫ (siehe Karte oben!)
+:::⟪अयोध्या⟫ f. Eigennamen: Hauptstadt von ⟪कोसल⟫ (siehe Karte oben!)
 
 ⟪दशरथ⟫ m. Eigenname: König von ⟪कोसल⟫
 
@@ -386,7 +342,7 @@ Abb.: ⟪रावणः⟫
 
 ⟪सीतारामयोस्⟫ Gen.Lok.Dual zu ⟪सीताराम⟫
 
-::: deleteme-box
+:::deleteme-box
 
 * **Abb. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Bildquelle: Wikipedia. Public domain)
 * **Abb. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Bildquelle: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike))

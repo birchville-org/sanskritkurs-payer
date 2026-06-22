@@ -38,11 +38,11 @@ Davanti a desinenza vocalica iniziale viene sostituito:
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| इ 2P | इयाय[[br]]iy-ai + a | ईयुर्[[br]]i + iy + ur | | |
-| नी 1U | निनाय | निन्युर्[[br]]ni-nī + ur | निन्ये | निन्यिरे |
-| स्तु 2U | तुष्टाव[[br]]tu + stau + a | तुष्टुवुर्[[br]]tu + stuv-ur | तुष्टुवे | तुष्टुविरे |
-| पू | पुपाव[[br]]pu-pau + a | पुपुवुर्[[br]]pu-puv-ur | पुपुवे | पुपुविरे |
-| कृ | चकार | चक्रुर्[[br]]ca-kr-ur | चक्रे | चक्रिरे |
+| ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:bri + iy + ur | | |
+| ⟪नी⟫ 1U | ⟪निनाय⟫ | ⟪निन्युर्⟫:brni-nī + ur | ⟪निन्ये⟫ | ⟪निन्यिरे⟫ |
+| ⟪स्तु⟫ 2U | ⟪तुष्टाव⟫:brtu + stau + a | ⟪तुष्टुवुर्⟫:brtu + stuv-ur | ⟪तुष्टुवे⟫ | ⟪तुष्टुविरे⟫ |
+| ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
+| ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
 ::::### 35.1.2. Tipo III del Perfetto: Radice forte grado alto/lungo, radice debole grado alto
 
@@ -60,9 +60,9 @@ Davanti a desinenza vocalica iniziale viene sostituito:
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| पॄ 3P | पपार | पपरुर् | | |
-| स्मृ 1P | सस्मार | सस्मरुर् | | |
-| संस्कृ 8U | सञ्चस्कार[[br]]sam + ca-skār-a | सञ्चस्करुर् | सञ्चस्करे | सञ्चस्करिरे |
+| ⟪पॄ⟫ 3P | ⟪पपार⟫ | ⟪पपरुर्⟫ | | |
+| ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
+| ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
 ::::## 35.2. Perfetto Tipo IV: Radici con -ā / -āi
 
@@ -82,9 +82,9 @@ Si forma da radici con -ā / -āi
 
 ::::grammar-box
 
-| Radice | 3. sg. Perf. P.[[br]]1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Radice | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| दा 3U | ददौ | ददुर्[[br]]da-d-ur | ददे | ददिरे[[br]]da-d-i-re |
+| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
 ::::## 35.3. Tipo V del Perfetto: Radici Consonante-a-Consonante
 
@@ -107,24 +107,24 @@ Si forma da radici del tipo (Consonante)-Consonante-a-Consonante
 :::indent
 **radice debole:** grado profondo
 :::Viene formato, tra le altre, dalle radici:
-*   गम्
-*   हन्
-*   जन्
-*   वच्
-*   वद्
-*   यज्
+*   ⟪गम्⟫
+*   ⟪हन्⟫
+*   ⟪जन्⟫
+*   ⟪वच्⟫
+*   ⟪वद्⟫
+*   ⟪यज्⟫
 ::::Esempi:
 
 ::::grammar-box
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| गम् 1P | जगाम | जग्मुर्[[br]]ja-gm-ur | | |
-| हन् 2P | ***जघान***[[br]]ja-***ghān***-a | ***जघ्नुर्*** | | |
-| जन् 4Ā | | | जज्ञे[[br]]ja-jñ-e | जज्ञिरे |
-| वच् 2P | उवाच | ऊचुर्[[br]]u + uc-ur | | |
-| वद् 1P | उवाद | ऊदुर् | &lt;ऊदे&gt; | &lt;ऊदिरे&gt; |
-| यज् 1U | इयाज | ईजुर्[[br]]i + ij-ur | ईजे | ईजिरे |
+| ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
+| ⟪हन्⟫ 2P | ***⟪जघान⟫***:brja-**ghān**-a | ***⟪जघ्नुर्⟫*** | | |
+| ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
+| ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | &lt;⟪ऊदे⟫&gt; | &lt;⟪ऊदिरे⟫&gt; |
+| ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
 ::::### 35.3.2. Tipo di Perfetto Vb: radice debole, contrazione (tipo e)
 
@@ -141,7 +141,7 @@ Si forma da radici del tipo (Consonante)-Consonante-a-Consonante
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| पच् 1U | पपाच | ***पे***चुर् | ***पे***चे | ***पे***चिरे |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | ***⟪पे⟫***⟪चुर्⟫ | ***⟪पे⟫***⟪चे⟫ | ***⟪पे⟫***⟪चिरे⟫ |
 
 ::::### 35.3.3. Tipo di Perfetto Vc: Radici Consonante-a-Consonante. Debole stemma grado alto
 
@@ -163,113 +163,112 @@ a condizione che non appartengano al Tipo di Perfetto Va.
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| क्रम् 1U | चक्राम | चक्रमुर् | चक्रमे | चक्रमिरे |
+| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
 ::::## 35.4. Elenco di parole
 
-**नश्** 4P **नश्यति** : perdersi, andare perduto, scomparire
+**⟪नश्⟫** 4P **⟪नश्यति⟫** : perdersi, andare perduto, scomparire
 :::indent
-**Vb Perf. ननाश, नेशुर्**[[br]]
-**Fut. नशिष्यति । नङ्क्ष्यति**[[br]]
-**Caus. नाशयति**[[br]]
-**PPP नष्ट**
-:::**नश् + प्र** 4P **प्र***ण*श्यति** : scomparire, perdersi, andare perduto
+**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**:br
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
+**Caus. ⟪नाशयति⟫**:br
+**PPP ⟪नष्ट⟫**
+:::**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : scomparire, perdersi, andare perduto
 
-**क्रम्** 1U *****क्रा*****मति**, 4P *****क्रा*****म्यति** : procedere, andare
+**⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : procedere, andare
 :::indent
-**Vc Perf. चक्राम, चक्रमुर्**[[br]]
-**Fut. क्रमिष्यति**[[br]]
-**Pass. क्रम्यते**[[br]]
-**Caus. क्रमयति**[[br]]
-**PPP ***क्रा***न्त**[[br]]
-**Inf. क्रमितुम्**[[br]]
-**Assol. क्रमित्वा । क्रन्त्वा । क्रान्त्वा**
+**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
+**Fut. ⟪क्रमिष्यति⟫**:br
+**Pass. ⟪क्रम्यते⟫**:br
+**Caus. ⟪क्रमयति⟫**:br
+**PPP ***⟪क्रा⟫***⟪न्त⟫**:br
+**Inf. ⟪क्रमितुम्⟫**:br
+**Assol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 ::::::media
 ![](/images/lekt3502.webp)
-Fig.: क्रामन्ति
+Fig.: ⟪क्रामन्ति⟫
 Persone che camminano, Senegal. [Fonte immagine: Curt Carnemark / World Bank. CC BY-NC-ND]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3502))
-:::**गै** 1P **गायति** (gai + a-ti): cantare, recitare in tono cantilenante, annunziare in discorso poetico
+:::**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): cantare, recitare in tono cantilenante, annunziare in discorso poetico
 :::indent
-**Perf. IV जगौ, जगुर्**[[br]]
-**Fut. गास्यति**[[br]]
-**Pass. गीयते**[[br]]
-**Caus. गापयति**[[br]]
-**PPP गीत**[[br]]
-**Inf. गातुम्**
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
+**Fut. ⟪गास्यति⟫**:br
+**Pass. ⟪गीयते⟫**:br
+**Caus. ⟪गापयति⟫**:br
+**PPP ⟪गीत⟫**:br
+**Inf. ⟪गातुम्⟫**
 
 da ciò:
-**गीता f.:** canto, canzone
+**⟪गीता⟫ f.:** canto, canzone
 ::::::media
 ![](/images/lekt3501.webp)
-Fig.: जगुः
+Fig.: ⟪जगुः⟫
 Musicisti del tempio Kaadu Malleswara Temple Bangalore. [Fonte immagine: Samuelraj / Flickr. CC BY-NC]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3501))
 :::## 35.5. Esercizio
 
 A) Formare le corrispondenti forme del Perfetto per le seguenti forme verbali:
 
-1. गायन्ति
-2. स्मरन्ति
-3. एष्यति
-4. गच्छन्ति
-5. कुरुते
-6. नेष्यन्ते
-7. जायते
-8. जानाति
-9. संस्करोति
-10. पुनीते
-11. बिभ्यति
-12. पिपुरति
-13. दत्ते
-14. यजन्ते irregolare, secondo il tipo Vb!
-15. वक्ति
-16. अदधुः
-17. बिभ्रते
-18. मरिष्यन्ति
-19. अशक्नुवन्
-20. अवदन्
-21. अपिबत्
-22. अपान्
-23. अलभत
-24. अहन्
-25. मन्यन्ते
-26. अक्रामन्
-27. अशृण्वन्
-28. मिमति  
-    ::: media
+1. ⟪गायन्ति⟫
+2. ⟪स्मरन्ति⟫
+3. ⟪एष्यति⟫
+4. ⟪गच्छन्ति⟫
+5. ⟪कुरुते⟫
+6. ⟪नेष्यन्ते⟫
+7. ⟪जायते⟫
+8. ⟪जानाति⟫
+9. ⟪संस्करोति⟫
+10. ⟪पुनीते⟫
+11. ⟪बिभ्यति⟫
+12. ⟪पिपुरति⟫
+13. ⟪दत्ते⟫
+14. ⟪यजन्ते⟫ irregolare, secondo il tipo Vb!
+15. ⟪वक्ति⟫
+16. ⟪अदधुः⟫
+17. ⟪बिभ्रते⟫
+18. ⟪मरिष्यन्ति⟫
+19. ⟪अशक्नुवन्⟫
+20. ⟪अवदन्⟫
+21. ⟪अपिबत्⟫
+22. ⟪अपान्⟫
+23. ⟪अलभत⟫
+24. ⟪अहन्⟫
+25. ⟪मन्यन्ते⟫
+26. ⟪अक्रामन्⟫
+27. ⟪अशृण्वन्⟫
+28. ⟪मिमति⟫  
+    :::media
     ![](/images/lekt3503.webp)
-    Fig.: मिमति
+    Fig.: ⟪मिमति⟫
 Mercato a Vadaseri, Tamil Nadu. [Fonte immagine: kifo / Flickr. CC BY-SA]
     (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3503))
-    :::
-29. अपद्यत
-30. सुनोति
-31. अतिष्ठत्
-32. पतिष्यन्ति
-33. अपचत्
-34. अजहुर्
-35. धक्ष्यन्ति
-36. स्तौति
-37. तनुते
-38. अचरत्
-39. जुह्वति
-40. अहरत्
+    :::29. ⟪अपद्यत⟫
+30. ⟪सुनोति⟫
+31. ⟪अतिष्ठत्⟫
+32. ⟪पतिष्यन्ति⟫
+33. ⟪अपचत्⟫
+34. ⟪अजहुर्⟫
+35. ⟪धक्ष्यन्ति⟫
+36. ⟪स्तौति⟫
+37. ⟪तनुते⟫
+38. ⟪अचरत्⟫
+39. ⟪जुह्वति⟫
+40. ⟪अहरत्⟫
 
 B) Tradurre:
 
-एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥
+⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫
 
-रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवुर् रामाय चेष्टपुत्रं ददुः ॥२॥
+⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवुर्⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫
 
-ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥
+⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫
 
 :::media
 ![](/images/lekt3504.webp)
-Fig.: ... ब्राह्मणाश्चेजुः
+Fig.: ... ⟪ब्राह्मणाश्चेजुः⟫
 Cerimonia Yajña, ashram Shiva, Ganeshpuri. [Fonte immagine: Dey / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3504))
-:::अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥
+:::⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
 C) Trasformare le frasi dell'esercizio B) sostituendo i Perfetti con gli Imperfetti.
 

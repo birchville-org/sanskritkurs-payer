@@ -64,13 +64,11 @@ B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit:
 4\. Auch Śūdrafrauen haben als Dharma Gewaltlosigkeit, Wahrheit, Reinheit, Nicht-Murren, Nicht-Boshaftigkeit und Langmut.
 ⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः⟫ ⟪शूद्रा⟫ ⟪अपि⟫ ⟪॥⟫
 
-::: media
+:::media
 ![](/images/uebung031.webp)
 Abb.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Bildquelle: [Details](/licenses#uebung031))
-:::
-
----
+:::---
 
 ## Komposita-Analyse
 
@@ -238,13 +236,11 @@ Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatp
 
 ⟪८१⟫. **⟪सोढदुःखाः⟫** ⟪।⟫ ⟪सोढं⟫ ⟪दुःखं⟫ ⟪यैस्ते⟫ ⟪।⟫
 
-::: media
+:::media
 ![](/images/uebung030.webp)
 Abb.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Bildquelle: [Details](/licenses#uebung030))
-:::
-
----
+:::---
 
 ## Scholarly Fragments
 
@@ -255,11 +251,9 @@ Die Abklärung des Geistes geschieht durch die Entfaltung von freundlichem Wohlw
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
 Yoga der Tat ist Askese, Vedastudium und aufmerksamer Dienst am HERRN. Er hat als Ziel die Entfaltung der Sammlung und die Schwächung der "Qualen".
 
-::: deleteme-box Erläuterung
+:::deleteme-box Erläuterung
 Die fünf "Qualen" (⟪क्लेश⟫) sind: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — Unwissenheit, Ichbezogenheit, Gier, Hass und Anhänglichkeit an den Leib.
-:::
-
-⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
+:::⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Das höchste Ziel des Menschen ist, dass das dreifache Leid völlig verschwindet. (*Dreifaches Leid: aus einem selbst, von den Objekten, von den Göttern.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  
@@ -294,7 +288,7 @@ In der Mitte schlank, an den Hüften breit, mit roten Lippen, schwarzen Augen, m
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
 Arme, die sie nicht wünschen, haben sehr viele Söhne, Reiche haben keinen einzigen Sohn. Seltsam ist der Lauf der Schöpfung.
 
-::: media
+:::media
 ![](/images/uebung032.webp)
 Abb.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Bildquelle: [Details](/licenses#uebung032))

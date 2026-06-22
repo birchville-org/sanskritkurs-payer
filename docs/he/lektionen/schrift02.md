@@ -1,4 +1,4 @@
-# דेवनागरी = ⟪देवनागरी⟫
+# ד⟪ेवनागरी⟫ = ⟪देवनागरी⟫
 
 ## תרגיל כתיבה 2
 
@@ -6,7 +6,7 @@
 
 ## תרגיל
 
-א) כתוב בदेוונאגרי:
+א) כתוב ב⟪दे⟫וונאגרי:
 
 jagat dā dīpikā pāda pīḍ ḍī bata jāti jāgṛ jṝ gato gati gadā gajo gai gopī ḍāka ḍoḍa dadṛt bako baṭuko bad
 

@@ -18,7 +18,7 @@ A) Escriba en Devanāgarī:
 
 B) Lea y translitere:
 
-१२ २३ २४ ५३६ ६५ ८७ १९४४ २००८ ९९० ८७ ७६ ६५ ५४ ४३ ३२ २१ १९ २८ ८३ ७४ ५७ ६६
+⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
 
 ### Clasificación de los sonidos del sánscrito (de: Kielhorn: Gramática de la lengua sánscrita)
 
@@ -26,4 +26,4 @@ B) Lea y translitere:
 
 ### Fin de los ejercicios de escritura
 
-## ॐ श्रीगणेशाय नमः ॐ
+## ⟪ॐ⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪ॐ⟫

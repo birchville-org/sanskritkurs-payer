@@ -15,4 +15,3 @@ The Grammar Index lists all grammatical topics and phenomena from the Sanskrit c
   padding: 32px 48px 64px !important;
 }
 </style>
-

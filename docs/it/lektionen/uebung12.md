@@ -10,97 +10,97 @@ last_reconstructed: 2026-05-15
 
 A) Formulate passive sentences in the past tense from the active sentences of [Lesson 7](lektion07.md), Exercise A, and for intransitive verbs and verbs of motion, formulate active sentences in the past tense.
 
-१. ब्राह्मणेन देव इष्टः । देवीष्टा । विष्णुरिष्टः । ब्राह्मणेनाग्निरिष्टः । देवतेष्टा ।
+⟪१⟫. ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इष्टः⟫ ⟪।⟫ ⟪देवीष्टा⟫ ⟪।⟫ ⟪विष्णुरिष्टः⟫ ⟪।⟫ ⟪ब्राह्मणेनाग्निरिष्टः⟫ ⟪।⟫ ⟪देवतेष्टा⟫ ⟪।⟫
 
-२. Il frutto è stato mangiato dal guru.
-गुरुणा फलं खादितम् ।
+⟪२⟫. Il frutto è stato mangiato dal guru.
+⟪गुरुणा⟫ ⟪फलं⟫ ⟪खादितम्⟫ ⟪।⟫
 
-३. Il saggio è andato al cielo.
-साधुः स्वर्गं गतः ।
+⟪३⟫. Il saggio è andato al cielo.
+⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गतः⟫ ⟪।⟫
 
-४. La śūdra è andata all'inferno.
-शूद्रा नरकं गता ।
+⟪४⟫. La śūdra è andata all'inferno.
+⟪शूद्रा⟫ ⟪नरकं⟫ ⟪गता⟫ ⟪।⟫
 
-५. Lo śūdra è stato vinto ॥
-शूद्रो जितः ॥
+⟪५⟫. Lo śūdra è stato vinto ⟪॥⟫
+⟪शूद्रो⟫ ⟪जितः⟫ ⟪॥⟫
 
 B) Formulate the corresponding PPPs (Participi del Passato Passivo) for the verb forms of [Lesson 10](lektion10.md), Exercise A. Note that a form like sṛjati corresponds to PPPs in all three genders.
 
-1. sṛjati सृजति : सृष्टः ३ (सृष्टः । सृष्टा । सृष्टम्)
-2. yudhyate युध्यते : युद्धः ३
-3. bhavanti भवन्ति : भूताः ३ (भूताः । भूताः । भूतानि)
-4. yajati यजति : इष्टः ३
-5. nṛtyati नृत्यति : नृत्तः ३
-6. nayanti नयन्ति : नीताः ३
-7. smarati स्मरति : स्मृतः ३
-8. śṛṇvanti शृण्वन्ति : श्रुताः ३
-9. pāśyati पश्यति (Il passivo è formato da dṛś!) : दृष्टः ३
-10. jayanti जयन्ति : जिताः ३
-11. kurvate कुर्वते : कृताः ३
-12. āpnuvanti आप्नुवन्ति : आप्ताः ३
-13. viśati विशति : विष्टः ३
-14. khādanti खादन्ति : खादिताः ३
-15. sunoti सुनोति : सुतः ३
-16. gacchati गच्छति : गतः ३
-17. manyante मन्यन्ते : मताः ३
-18. labhante लभन्ते : लब्धाः ३
-19. rakṣanti रक्षन्ति : रक्षिताः ३
-20. vadanti वदन्ति : उदिताः ३
-21. pṛcchanti पृच्छन्ति : पृष्टाः ३
-22. tanvanti तन्वन्ति : तताः ३
+1. sṛjati ⟪सृजति⟫ : ⟪सृष्टः⟫ ⟪३⟫ (⟪सृष्टः⟫ ⟪।⟫ ⟪सृष्टा⟫ ⟪।⟫ ⟪सृष्टम्⟫)
+2. yudhyate ⟪युध्यते⟫ : ⟪युद्धः⟫ ⟪३⟫
+3. bhavanti ⟪भवन्ति⟫ : ⟪भूताः⟫ ⟪३⟫ (⟪भूताः⟫ ⟪।⟫ ⟪भूताः⟫ ⟪।⟫ ⟪भूतानि⟫)
+4. yajati ⟪यजति⟫ : ⟪इष्टः⟫ ⟪३⟫
+5. nṛtyati ⟪नृत्यति⟫ : ⟪नृत्तः⟫ ⟪३⟫
+6. nayanti ⟪नयन्ति⟫ : ⟪नीताः⟫ ⟪३⟫
+7. smarati ⟪स्मरति⟫ : ⟪स्मृतः⟫ ⟪३⟫
+8. śṛṇvanti ⟪शृण्वन्ति⟫ : ⟪श्रुताः⟫ ⟪३⟫
+9. pāśyati ⟪पश्यति⟫ (Il passivo è formato da dṛś!) : ⟪दृष्टः⟫ ⟪३⟫
+10. jayanti ⟪जयन्ति⟫ : ⟪जिताः⟫ ⟪३⟫
+11. kurvate ⟪कुर्वते⟫ : ⟪कृताः⟫ ⟪३⟫
+12. āpnuvanti ⟪आप्नुवन्ति⟫ : ⟪आप्ताः⟫ ⟪३⟫
+13. viśati ⟪विशति⟫ : ⟪विष्टः⟫ ⟪३⟫
+14. khādanti ⟪खादन्ति⟫ : ⟪खादिताः⟫ ⟪३⟫
+15. sunoti ⟪सुनोति⟫ : ⟪सुतः⟫ ⟪३⟫
+16. gacchati ⟪गच्छति⟫ : ⟪गतः⟫ ⟪३⟫
+17. manyante ⟪मन्यन्ते⟫ : ⟪मताः⟫ ⟪३⟫
+18. labhante ⟪लभन्ते⟫ : ⟪लब्धाः⟫ ⟪३⟫
+19. rakṣanti ⟪रक्षन्ति⟫ : ⟪रक्षिताः⟫ ⟪३⟫
+20. vadanti ⟪वदन्ति⟫ : ⟪उदिताः⟫ ⟪३⟫
+21. pṛcchanti ⟪पृच्छन्ति⟫ : ⟪पृष्टाः⟫ ⟪३⟫
+22. tanvanti ⟪तन्वन्ति⟫ : ⟪तताः⟫ ⟪३⟫
 
 C) Convert the sentences of [Lesson 10](lektion10.md), Exercise C, into the passive voice in the past tense.
 
-1\. Il brāhmaṇa venera la dea. ब्राह्मणो देवीं यजति
-ब्रामणेन देवीष्टा ।
+1\. Il brāhmaṇa venera la dea. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
+⟪ब्रामणेन⟫ ⟪देवीष्टा⟫ ⟪।⟫
 
-2\. Il saggio va al cielo. साधुः स्वर्गं गच्छति
-साधुः स्वर्गं गतः ।
+2\. Il saggio va al cielo. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫
+⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गतः⟫ ⟪।⟫
 
-3\. Vince lo śūdra. शूद्रं जयti
-शूद्रो जितः ।
+3\. Vince lo śūdra. ⟪शूद्रं⟫ ⟪जय⟫ti
+⟪शूद्रो⟫ ⟪जितः⟫ ⟪।⟫
 
-4\. Il guru mangia i frutti. गुरुः फलानि खादति
-गुरुणा फलानि खादितानि ।
+4\. Il guru mangia i frutti. ⟪गुरुः⟫ ⟪फलानि⟫ ⟪खादति⟫
+⟪गुरुणा⟫ ⟪फलानि⟫ ⟪खादितानि⟫ ⟪।⟫
 
-5\. Il guru ascolta. गुरूञ्छृणोति
-ग्रुरवः श्रुताः ।
+5\. Il guru ascolta. ⟪गुरूञ्छृणोति⟫
+⟪ग्रुरवः⟫ ⟪श्रुताः⟫ ⟪।⟫
 
-6\. Chi vede il fuoco? को ऽग्निं पश्यति
-केनाग्निर्दृष्टः ।
+6\. Chi vede il fuoco? ⟪को⟫ ⟪ऽग्निं⟫ ⟪पश्यति⟫
+⟪केनाग्निर्दृष्टः⟫ ⟪।⟫
 
-7\. Questo poeta ricorda il mantra. अयं कविर्मन्त्रं स्मरति
-अनेन कविना मन्त्रः स्मृतः ।
+7\. Questo poeta ricorda il mantra. ⟪अयं⟫ ⟪कविर्मन्त्रं⟫ ⟪स्मरति⟫
+⟪अनेन⟫ ⟪कविना⟫ ⟪मन्त्रः⟫ ⟪स्मृतः⟫ ⟪।⟫
 
-8\. Questa dea kṣatriya protegge. इयं देवी क्त्रिया रक्षति
-अनया देव्या क्षत्रिया रक्षिताः ।
+8\. Questa dea kṣatriya protegge. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
+⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्षिताः⟫ ⟪।⟫
 
-9\. Le kṣatriya venerano Viṣṇu. क्षत्रिया विष्णुं यजन्ते (2 possibilità)
-क्षत्रियैर्विष्णुरिष्टः । क्षत्रियाभिर्विष्णुरिष्टः ।
+9\. Le kṣatriya venerano Viṣṇu. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 possibilità)
+⟪क्षत्रियैर्विष्णुरिष्टः⟫ ⟪।⟫ ⟪क्षत्रियाभिर्विष्णुरिष्टः⟫ ⟪।⟫
 
-10\. Il brāhmaṇa fa il fuoco. ब्राह्मणो ऽग्निं करोति
-ब्राह्मणेनाग्निः कृतः ।
+10\. Il brāhmaṇa fa il fuoco. ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
+⟪ब्राह्मणेनाग्निः⟫ ⟪कृतः⟫ ⟪।⟫
 
-11\. I vaiśya vanno a questo villaggio. वैश्या इमं ग्रामं गच्छन्ति
-वैश्या इमं ग्रामं गताः ।
+11\. I vaiśya vanno a questo villaggio. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫
+⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गताः⟫ ⟪।⟫
 
-12\. Questi ascoltano i guru. एते गुरूंस्तु शृण्वन्ति
-एतैर्गुरवस्तु श्रुताः ।
+12\. Questi ascoltano i guru. ⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
+⟪एतैर्गुरवस्तु⟫ ⟪श्रुताः⟫ ⟪।⟫
 
-13\. Il saggio raggiunge il cielo. साधुः स्वर्गमाप्नोति
-साधुना स्वर्ग आप्ताः ।
+13\. Il saggio raggiunge il cielo. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
+⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्ताः⟫ ⟪।⟫
 
-14\. I brāhmaṇa versano il soma. ब्राह्मणाः सोमं सुन्वन्ति
-ब्राह्मणैः सोमः सुतः ।
+14\. I brāhmaṇa versano il soma. ⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫
+⟪ब्राह्मणैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪।⟫
 
-15\. Ottiene gli animali. पशूल्ंलभते
-पशवो लब्धाः ।
+15\. Ottiene gli animali. ⟪पशूल्ंलभते⟫
+⟪पशवो⟫ ⟪लब्धाः⟫ ⟪।⟫
 
-16\. Quali guerrieri combattono con i kṣatriya? के योधाः क्षत्रियैः सह युध्यन्ते
-कैर्योधैः क्षत्रियैः सह युद्धम् ।
+16\. Quali guerrieri combattono con i kṣatriya? ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
+⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युद्धम्⟫ ⟪।⟫
 
 :::media
 ![](/images/uebung020.webp)
-Fig.: ब्राह्मणो ऽग्निं करोति
+Fig.: ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung020))
 :::

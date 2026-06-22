@@ -207,13 +207,11 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 
 ⟪दानेन⟫ ⟪श्रावकः⟫ ⟪स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते⟫ ⟪।⟫
 
-::: media
+:::media
 ![](/images/uebung011.webp)
 Abb.: ⟪ग्रामः⟫
 (Bildquelle: [Details](/licenses#uebung011))
-:::
-
----
+:::---
 
 ## Leseübung
 
@@ -319,7 +317,7 @@ Hari geht nachhause.
 ⟪सारथिना⟫ ⟪रथो⟫ ⟪नीयते⟫ ⟪॥⟫
 Der Fuhrmann lenkt den Wagen.
 
-::: media
+:::media
 ![](/images/uebung012.webp)
 Abb.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (Bildquelle: [Details](/licenses#uebung012))

@@ -12,13 +12,11 @@ last_reconstructed: 2026-04-30
 
 ## 2.1. Der Nominalsatz
 
-::: grammar-box
+:::grammar-box
 **Schema: Prädikatsnomen - Subjekt**
 
 z.B. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu ist ein Gott."
-:::
-
-Eine verbale Kopula ("ist", "sind", "bin", "bist", "seid") ist nicht nötig, kann aber manchmal vorkommen.
+:::Eine verbale Kopula ("ist", "sind", "bin", "bist", "seid") ist nicht nötig, kann aber manchmal vorkommen.
 
 Es gibt **keine Artikel**: **devaḥ** -- ⟪देवः⟫ kann bedeuten "der Gott" oder "ein Gott".
 
@@ -57,21 +55,17 @@ In Sanskritwörterbüchern werden Nomina im **Nominalstamm** angeführt:
 
 **Nominativ Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
-::: grammar-box
+:::grammar-box
 **Der Nominativ Singular endet auf -s = -⟪स्⟫ bzw. ist endungsfrei.**
-:::
-
-### 2.3.1. Nominativ Singular auf -s
+:::### 2.3.1. Nominativ Singular auf -s
 
 Folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
 
-::: grammar-box
+:::grammar-box
 **Maskulina auf -a:** z.B. deva m. = ⟪देव⟫ "Gott" -- Nom. sg.: devas = ⟪देवस्⟫
 **Maskulina auf -i:** z.B. kavi m. = ⟪कवि⟫ "Dichter" -- Nom. sg.: kavis = ⟪कविस्⟫
 **Maskulina auf -u:** z.B. guru m. = ⟪गुरु⟫ "Lehrer" -- Nom. sg.: gurus = ⟪गुरुस्⟫
-:::
-
----
+:::---
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
@@ -126,7 +120,7 @@ Auslautendes **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
 
-::: tip Die vier Stände (varna)
+:::tip Die vier Stände (varna)
 Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt:
 
 - **der Brahmanen**
@@ -152,21 +146,17 @@ Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben vert
   - Vedastudium
 - **der Śūdras**
   - den drei oberen Klassen dienen
-:::
-
-**dvija** m. -- ⟪द्विज⟫ : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya).
+:::**dvija** m. -- ⟪द्विज⟫ : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya).
 
 **varṇa** m. -- ⟪वर्ण⟫ : Farbe, Geburtsstand (Strebung).
 
 Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
 
-::: media
+:::media
 ![](/images/lekt0201.webp)
 Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
 (Bildquelle: [Details](/licenses#lekt0201))
-:::
-
-**Beschriftung:**
+:::**Beschriftung:**
 - **Priesterstand** (~Brāhmaṇa): Tu supplex ora = Du bete flehend!
 - **Adelsstand** (~Kṣatriya): Tu protege = Du schütze!
 - **Bauernstand** (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite!
@@ -175,7 +165,7 @@ Die drei Stände tragen die jeweilige Standestracht. Über den – damit als got
 
 Max Weber &lt;1864 – 1920&gt; definiert Stand so:
 
-::: note-box
+:::note-box
 »**Stand**« soll eine Vielheit von Menschen heißen, die innerhalb eines Verbandes wirksam
 a) eine ständische Sonderschätzung, - eventuell also auch
 b) ständische Sondermonopole in Anspruch nehmen.
@@ -194,31 +184,25 @@ Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, 
 Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
 
 [**Weber, Max &lt;1864 – 1920&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
-:::
-
-Varṇas sind demgemäß Geburtsstände.
+:::Varṇas sind demgemäß Geburtsstände.
 
 **kavi** m. -- ⟪कवि⟫ : Dichter.
 
 **agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni.
 
-::: media
+:::media
 ![](/images/lekt0203.jpg)
 Abb.: Gott Agni, Miniatur, 18. Jh.
 (Bildquelle: [Details](/licenses#lekt0203))
-:::
-
-**sādhu** 3 -- ⟪साधु⟫ : richtig, gut.
+:::**sādhu** 3 -- ⟪साधु⟫ : richtig, gut.
 
 **sādhu** m. -- ⟪साधु⟫ : "heiliger" Mann, Sādhu.
 
-::: media
+:::media
 ![](/images/lekt0202.webp)
 Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 (Bildquelle: [Details](/licenses#lekt0202))
-:::
-
-**guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert
+:::**guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert
 
 **guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister
 

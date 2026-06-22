@@ -8,7 +8,7 @@ status: stable
 
 ## 32.1. Die Vergangenheitstempora
 
-:::: grammar-box
+:::grammar-box
 **In der älteren Sanskritliteratur und von den einheimischen Grammatikern werden die drei Tempora der Vergangenheit in ihrem Gebrauch klar unterschieden:**
 
 *   **der Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) bezeichnet entweder einfach die Vollendung einer Handlung oder er bezeichnet, was sich am laufenden Tag ereignet hat, die nahe Vergangenheit**
@@ -16,11 +16,9 @@ status: stable
 *   **das Perfekt (⟪लिट्⟫) bezeichnet wie das Imperfekt die entfernte Vergangenheit, wird aber, im Gegensatz zum Imperfekt, nur von Ereignissen gebraucht, die der Sprechende selbst nicht gesehen hat**
 
 **In der klassischen Sanskritliteratur werden die drei Vergangenheitstempora ohne Bedeutungsunterschied gebraucht (Ausnahme: ⟪भारवि⟫'s Kunstgedicht ⟪किरातार्जुनीय⟫).**
-::::
+:::## 32.2. Das Imperfekt (⟪लङ्⟫)
 
-## 32.2. Das Imperfekt (⟪लङ्⟫)
-
-:::: grammar-box
+:::grammar-box
 **Bildung:**
 
 **Augment a- + Präsensstamm + Sekundärendung**
@@ -28,27 +26,21 @@ status: stable
 **Die drei Personen des Singular Parasmaipada Imperfekt werden bei athematischen Stämmen vom starken Präsensstamm gebildet, alle übrigen Formen vom schwachen Präsensstamm.**
 
 **Das Imperfekt hat nur den Indikativ.**
-::::
+:::Beispiele:
 
-Beispiele:
-
-::: indent
+:::indent
 **⟪भू⟫** 3. sg. Impf. P. **⟪अभवत्⟫** (a-bhava-t)
 
 **⟪सु⟫**
 *   3. sg. Impf. P. **⟪असुनोत्⟫** (a-suno-t)
 *   3. pl. Impf. P. **⟪असुन्वन्⟫** (a + sunu + an)
-:::
+:::## 32.3. Regeln für das Augment
 
-## 32.3. Regeln für das Augment
-
-:::: grammar-box
+:::grammar-box
 **1. Tritt das Augment a- vor eine vokalisch anlautende Wurzel, so verschmelzen das Augment und der Wurzelanlaut zur ⟪वृद्धि⟫ des Wurzelvokals.**
-::::
+:::Beispiele:
 
-Beispiele:
-
-:::: grammar-box
+:::grammar-box
 
 | | 3. sg. Impf. | 3. pl. Impf. |
 | :--- | :--- | :--- |
@@ -56,15 +48,11 @@ Beispiele:
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
 | ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
-::::
-
-:::: grammar-box
+::::::grammar-box
 **2. Stehen Präverben vor einer Wurzel, so tritt das Augment a- hinter die Präverben unmittelbar vor die Wurzel.**
-::::
+:::Beispiele:
 
-Beispiele:
-
-:::: grammar-box
+:::grammar-box
 
 | | 3. sg. Impf. |
 | :--- | :--- |
@@ -73,17 +61,13 @@ Beispiele:
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
-::::
+:::## 32.4. Beispiele für die Imperfektbildung
 
-## 32.4. Beispiele für die Imperfektbildung
-
-::: important
+:::important
 **Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen &lt; &gt;.**
-:::
+:::### 32.4.1. Thematische Präsensklassen
 
-### 32.4.1. Thematische Präsensklassen
-
-:::: grammar-box
+:::grammar-box
 
 | Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -93,11 +77,9 @@ Beispiele:
 | 10. / Kaus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
 | Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
-::::
+:::### 32.4.2. Athematische Präsensklassen
 
-### 32.4.2. Athematische Präsensklassen
-
-:::: grammar-box
+:::grammar-box
 
 | Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -115,9 +97,7 @@ Beispiele:
 | 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t &gt; aruṇaddh &gt; aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
-::::
-
-## 32.5. Wortliste
+:::## 32.5. Wortliste
 
 **⟪अग्र⟫ n.:** Spitze, äußerstes Ende
 
@@ -126,7 +106,7 @@ Beispiele:
 **⟪एकदा⟫**
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
-::: indent
+:::indent
 ⟪श्रमिष्यते⟫:br
 ⟪श्रम्यते⟫:br
 ⟪श्रमयति⟫:br
@@ -134,20 +114,16 @@ Beispiele:
 ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
 -⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
-:::
-
-**⟪पार्श्व⟫**
+:::**⟪पार्श्व⟫**
 
 **⟪चूत⟫**
 
-::: media
+:::media
 ![](/images/lekt3202.webp)
 Abb.: ⟪चूतः⟫
 Mangobaum, Kanpur.
 (Bildquelle: [Details](/licenses#lekt3202))
-:::
-
-**⟪तरु⟫** **⟪वृक्ष⟫**
+:::**⟪तरु⟫** **⟪वृक्ष⟫**
 
 **⟪पचेलिम⟫**
 
@@ -156,93 +132,75 @@ Mangobaum, Kanpur.
 **⟪परम्⟫**
 
 **⟪रुह्⟫ ⟪रोहति⟫**
-::: indent
+:::indent
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
 ⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
 ⟪रूढ⟫:br
 -⟪रुह्य⟫:br
 ⟪रोढुम्⟫
-:::
-
-**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
-::: indent
+:::**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+:::indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
 ⟪ग्राहयति⟫:br
 ⟪गृहीत⟫:br
 -⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
-:::
+:::**⟪वानर⟫ ⟪कपि⟫**
 
-**⟪वानर⟫ ⟪कपि⟫**
-
-::: media
+:::media
 ![](/images/lekt3203.webp)
 Abb.: ⟪वानराः⟫
 Affen (rhesus macaques) in Delhi.
 (Bildquelle: [Details](/licenses#lekt3203))
-:::
-
-**⟪लोक्⟫ ⟪लोकयति⟫**
-::: indent
+:::**⟪लोक्⟫ ⟪लोकयति⟫**
+:::indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
 -⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
-:::
-
-**⟪प्रहर्ष⟫**
+:::**⟪प्रहर्ष⟫**
 
 **⟪कति⟫**
 
 **⟪उपल⟫**
 
-::: media
+:::media
 ![](/images/lekt3204.webp)
 Abb.: ⟪उपलाः⟫
 Stone quarry south of Pune, Maharashtra.
 (Bildquelle: [Details](/licenses#lekt3204))
-:::
+:::**⟪लक्ष्य⟫**
 
-**⟪लक्ष्य⟫**
-
-::: media
+:::media
 ![](/images/lekt3205.webp)
 Abb.: ⟪लक्ष्यम्⟫
 Target practice / arrow target, Karnataka.
 (Bildquelle: [Details](/licenses#lekt3205))
-:::
-
-**⟪क्षिप्⟫ ⟪क्षिपति⟫**
-::: indent
+:::**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+:::indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
 ⟪क्षेपयति⟫:br
 ⟪क्षिप्त⟫:br
 -⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
-:::
-
-**⟪चि⟫ ⟪चिनोति⟫**
-::: indent
+:::**⟪चि⟫ ⟪चिनोति⟫**
+:::indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
 ⟪चाययति⟫:br
 ⟪चित⟫:br
 -⟪चित्य⟫:br
 ⟪चेतुम्⟫
-:::
-
-::: media
+::::::media
 ![](/images/lekt3207.webp)
 Abb.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Burning cowdung patties in Rajasthan.
 (Bildquelle: [Details](/licenses#lekt3207))
-:::
-
-**⟪चि⟫ ⟪अव⟫**
+:::**⟪चि⟫ ⟪अव⟫**
 
 **⟪प्रति⟫**
 
@@ -250,14 +208,12 @@ Burning cowdung patties in Rajasthan.
 
 **⟪कौशल⟫ ⟪कुशल⟫**
 
-::: media
+:::media
 ![](/images/lekt3206.webp)
 Abb.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
 (Bildquelle: [Details](/licenses#lekt3206))
-:::
-
-## 32.6. Übung
+:::## 32.6. Übung
 
 A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbis entsprechenden Imperfektformen:
 
@@ -349,14 +305,12 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
 
-::: media
+:::media
 ![](/images/lekt3208.webp)
 Abb.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Buddhist monk in Sri Lanka.
 (Bildquelle: [Details](/licenses#lekt3208))
-:::
-
-## 32.7. Übung zur Wiederholung über die Weihnachtsferien
+:::## 32.7. Übung zur Wiederholung über die Weihnachtsferien
 
 Anmerkung: ursprünglich wurde dieser an der Universität Tübingen jeweils im Wintersemester gehalten. Bei Lektion 32 begannen die zweiwöchigen Weihnachtsferien.
 
@@ -573,14 +527,12 @@ C) Übersetzen Sie ins Sanskrit:
 
 52. Auf Wiedersehen!
 
-::: media
+:::media
 ![](/images/lekt3209.webp)
 Abb.: ⟪पुनर्दर्शनाय⟫
 Indian greeting / farewell.
 (Bildquelle: [Details](/licenses#lekt3209))
-:::
-
-## 32.8. Übung zur Wiederholung
+:::## 32.8. Übung zur Wiederholung
 
 Übersetzen und bestimmen Sie folgende Wortformen:
 
@@ -627,7 +579,7 @@ Indian greeting / farewell.
 
 ## 32.9. Übersetzungsübung
 
-::: compact
+:::compact
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
@@ -640,29 +592,23 @@ Indian greeting / farewell.
 ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
 ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫**⟪दाय⟫** ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
-:::
-
-(aus: ⟪संस्कृतबालादर्श⟫)
+:::(aus: ⟪संस्कृतबालादर्श⟫)
 
 
 Erklärungen:
 
-::: indent
+:::indent
 **⟪पथि⟫** Lok. sg. zu **⟪पथ्⟫ m.** "Weg" (unregelmäßige Deklination)
 
 **⟪लक्ष्यीकृ⟫** ⟪च्विऽ⟫-Suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : etwas zum ⟪लक्ष्य⟫ machen, was vorher nicht ⟪लक्ष्य⟫ war
 
 **⟪आदाय⟫** Absolutiv zu **⟪आ⟫-⟪दा⟫** (3. Präsensklasse) "nehmen"
-:::
-
-::: media
+::::::media
 ![](/images/lekt3210.webp)
 Abb.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Monkeys in mango trees.
 (Bildquelle: [Details](/licenses#lekt3210))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt3202:** Mangobaum, Kanpur. [Bildquelle: AmarChandra / Wikipedia. CC BY-SA]
 

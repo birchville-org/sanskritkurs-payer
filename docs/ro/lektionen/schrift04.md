@@ -1,16 +1,16 @@
-# Devanāgarī = देवनागरी
+# Devanāgarī = ⟪देवनागरी⟫
 
 ## Scriere scrisă 4
 
 ![](/images/schrift006.webp)
 
-Anusvāra ṃ: Punct deasupra literelor. care precedă sunetul: कं कां किं कीं कुं कूं कें कैं कों कौं
+Anusvāra ṃ: Punct deasupra literelor. care precedă sunetul: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
 
 Scriere:
 
 ![](/images/schrift007.jpg)
 
-Luați în considerare scrierea obligatorie a hṛ: हृ
+Luați în considerare scrierea obligatorie a hṛ: ⟪हृ⟫
 
 ## Exercițiu
 
@@ -20,7 +20,7 @@ nṛt nī man muh sṛjati viśati yajate viśeṣaḥ namas doṣo mūlaṃ mer
 
 B) Citiți și transliterați:
 
-हृषिकेश | विषूचिका | देवनागरी | संयोगं | सिंहं | संसारः | नमो | रुह् | मुसलं | मुनिः | तुष् | दानवः | दहति | नागं | रामो नयति | देवः सृजति ||
+⟪हृषिकेश⟫ | ⟪विषूचिका⟫ | ⟪देवनागरी⟫ | ⟪संयोगं⟫ | ⟪सिंहं⟫ | ⟪संसारः⟫ | ⟪नमो⟫ | ⟪रुह्⟫ | ⟪मुसलं⟫ | ⟪मुनिः⟫ | ⟪तुष्⟫ | ⟪दानवः⟫ | ⟪दहति⟫ | ⟪नागं⟫ | ⟪रामो⟫ ⟪नयति⟫ | ⟪देवः⟫ ⟪सृजति⟫ ||
 
 La Lecția 6
 

@@ -1,16 +1,16 @@
-# Devanāgarī = देवनागरी
+# Devanāgarī = ⟪देवनागरी⟫
 
 ## Writing Exercise 4
 
 ![](/images/schrift006.webp)
 
-Anusvāra ṃ: Dot above the letter. preceding the sound: कं कां किं कीं कुं कूं कें कैं कों कौं
+Anusvāra ṃ: Dot above the letter. preceding the sound: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
 
 Writing:
 
 ![](/images/schrift007.jpg)
 
-Note the mandatory writing of hṛ: हृ
+Note the mandatory writing of hṛ: ⟪हृ⟫
 
 ## Exercise
 
@@ -20,7 +20,7 @@ nṛt nī man muh sṛjati viśati yajate viśeṣaḥ namas doṣo mūlaṃ mer
 
 B) Read and transliterate:
 
-हृषिकेश | विषूचिका | देवनागरी | संयोगं | सिंहं | संसारः | नमो | रुह् | मुसलं | मुनिः | तुष् | दानवः | दहति | नागं | रामो नयति | देवः सृजति ||
+⟪हृषिकेश⟫ | ⟪विषूचिका⟫ | ⟪देवनागरी⟫ | ⟪संयोगं⟫ | ⟪सिंहं⟫ | ⟪संसारः⟫ | ⟪नमो⟫ | ⟪रुह्⟫ | ⟪मुसलं⟫ | ⟪मुनिः⟫ | ⟪तुष्⟫ | ⟪दानवः⟫ | ⟪दहति⟫ | ⟪नागं⟫ | ⟪रामो⟫ ⟪नयति⟫ | ⟪देवः⟫ ⟪सृजति⟫ ||
 
 To Lesson 6
 

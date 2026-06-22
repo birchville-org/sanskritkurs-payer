@@ -23,28 +23,28 @@ status: stable
 Los siguientes stems nominales, que terminan en una vocal, también forman el nominativo singular en **-s**:
 
 :::grammar-box
-- **Femeninos en -i**: p. ej. **śruti** f. "la escucha" -- Nom. sg.: **śrutis** = श्रुतिस्
-- **Femeninos en -u**: p. ej. **dhenu** f. "vaca lechera" -- Nom. sg.: **dhenus** = धेनुस्
+- **Femeninos en -i**: p. ej. **śruti** f. "la escucha" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
+- **Femeninos en -u**: p. ej. **dhenu** f. "vaca lechera" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::### 3.1.2. Nominativo singular sin terminación
 
 El nominativo singular se forma sin terminación:
 
 :::grammar-box
-- **Femeninos en -ā**: p. ej. **devatā** f. "divinidad" -- Nom. sg.: **devatā** = देवता
-- **Femeninos en -ī**: p. ej. **devī** f. "diosa" -- Nom. sg.: **devī** = देवी
+- **Femeninos en -ā**: p. ej. **devatā** f. "divinidad" -- Nom. sg.: **devatā** = ⟪देवता⟫
+- **Femeninos en -ī**: p. ej. **devī** f. "diosa" -- Nom. sg.: **devī** = ⟪देवी⟫
 ::::::important
-**¡Atención!** Además, existen nombres radicales femeninos monosílabos en -ī, cuyo nominativo singular termina en -s: p. ej. dhī f. "pensamiento" -- Nom. sg.: dhīs = धीस्. También **lakṣmī** (लक्ष्मी) f., **tarī** (तरी) f. "barca" y **tantrī** (तन्त्री) f. "cuerda" forman irregularmente el nominativo singular en -s: **lakṣmīs** = लक्ष्मीस्.
+**¡Atención!** Además, existen nombres radicales femeninos monosílabos en -ī, cuyo nominativo singular termina en -s: p. ej. dhī f. "pensamiento" -- Nom. sg.: dhīs = ⟪धीस्⟫. También **lakṣmī** (⟪लक्ष्मी⟫) f., **tarī** (⟪तरी⟫) f. "barca" y **tantrī** (⟪तन्त्री⟫) f. "cuerda" forman irregularmente el nominativo singular en -s: **lakṣmīs** = ⟪लक्ष्मीस्⟫.
 :::---
 
 ## 3.2. Formación de los femeninos a partir de los masculinos
 
 :::grammar-box
 **Masculinos en -a:**
-- **Femenino en -ā**: p. ej. **kṣatriya** m. » **kṣatriyā** f. «Mujer kṣatriya» = क्षत्रिया
-- **Femenino en -ī**: p. ej. **brāhmaṇa** m. » **brāhmaṇī** f. «Brahmana» = ब्राह्मणी
+- **Femenino en -ā**: p. ej. **kṣatriya** m. » **kṣatriyā** f. «Mujer kṣatriya» = ⟪क्षत्रिया⟫
+- **Femenino en -ī**: p. ej. **brāhmaṇa** m. » **brāhmaṇī** f. «Brahmana» = ⟪ब्राह्मणी⟫
 
 **Masculinos en -u:**
-- **Femenino en -ī**: p. ej. **sādhu** m. » **sādhvī** f. (bueno, santa) = साध्वी
+- **Femenino en -ī**: p. ej. **sādhu** m. » **sādhvī** f. (bueno, santa) = ⟪साध्वी⟫
   (**-u-** se convierte en **-v-** antes de vocal, por lo tanto **-u- + -ī** » **-vī**)
 :::---
 
@@ -52,13 +52,13 @@ El nominativo singular se forma sin terminación:
 
 :::grammar-box
 La terminación del nominativo plural en masculino y femenino es **-as**.
-- **Masculinos en -a**: **deva- + -as** » **devās** = देवास्
-- **Femeninos en -ā**: **devatā- + -as** » **devatās** = देवतास्
-- **Masculinos en -i**: **kavi-** » **kave- + -as** » **kavayas** = कवयस्
-- **Femeninos en -i**: **śruti-** » **śrute- + -as** » **śrutayas** = श्रुतयस्
-- **Femeninos en -ī**: **devī- + -as** » **devyas** = देव्यस्
-- **Masculinos en -u**: **guru-** » **guro- + -as** » **guravas** = गुरवस्
-- **Femeninos en -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्
+- **Masculinos en -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+- **Femeninos en -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+- **Masculinos en -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+- **Femeninos en -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+- **Femeninos en -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+- **Masculinos en -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+- **Femeninos en -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::Nota: **e** es la forma reforzada (**guṇa**) de **i**, **o** es la forma reforzada de **u**.
 
 ---
@@ -73,11 +73,11 @@ La terminación del nominativo plural en masculino y femenino es **-as**.
 - (-ṛ + ṛ- » **-ṝ-**)
 :::p. ej.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā es una deidad" = देवतान्नपूर्णा
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā es una deidad" = ⟪देवतान्नपूर्णा⟫
 
 > (Annapūrṇā es la diosa de los alimentos y la cocina, se la considera una encarnación de Pārvatī, la esposa de Śiva.)
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī es una diosa" = देवीन्द्राणी
+devī + indrāṇī » devīndrāṇī "Indrāṇī es una diosa" = ⟪देवीन्द्राणी⟫
 
 > (Indrāṇī es la esposa del dios Indra.)
 
@@ -93,7 +93,7 @@ Fig.: Indra e Indrāṇī sobre el elefante Airavata, miniatura, Rājasthān, 16
 (!! ¡Existen excepciones a esta regla, especialmente para formas duales !!)
 :::p. ej.
 
-devī + umā » devy umā "Umā es una / la diosa" = देव्युमा
+devī + umā » devy umā "Umā es una / la diosa" = ⟪देव्युमा⟫
 
 > (Umā es un nombre para Pārvatī, la esposa de Śiva)
 
@@ -112,7 +112,7 @@ devī + umā » devy umā "Umā es una / la diosa" = देव्युमा
 
 p. ej.
 
-śūdrā + itarā » śudretarā "Itarā es una mujer śūdra" = शूद्रेतरा
+śūdrā + itarā » śudretarā "Itarā es una mujer śūdra" = ⟪शूद्रेतरा⟫
 
 ---
 
@@ -122,7 +122,7 @@ p. ej.
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::por ejemplo
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Los vaiśyas son dos veces nacidos" = द्विजा वैश्याः
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Los vaiśyas son dos veces nacidos" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
 ---
 
@@ -130,62 +130,62 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Los vaiśyas son dos veces nacidos"
 
 **Aprenda las siguientes palabras:**
 
-**śruti** f. = श्रुति : la escucha, la tradición eterna (denominación para los Vedas y los Brāhmaṇa's).
+**śruti** f. = ⟪श्रुति⟫ : la escucha, la tradición eterna (denominación para los Vedas y los Brāhmaṇa's).
 
-**smṛti** f. = स्मृति : presencia, recuerdo, presencia meditativa = atención, tradición (concepto opuesto a **śruti**). Incluye:
-- las seis **vedāṅga** n. (वेदाङ्ग)
-  1. **śikṣā** f. (शिक्षा): pronunciación correcta
-  2. **chandas** n. (छन्दस्): metro
-  3. **vyākaraṇa** n. (व्याकरण): gramática
-  4. **nirukta** n. (निरुक्त) : explicación de palabras, etimología
-  5. **jyotiṣa** n. (ज्योतिष) : astronomía, teoría del calendario
-  6. **kalpa** m. (कल्प) : ceremonial
-- **śrautasūtra** n. (श्रौतसूत्र) : obras didácticas para la realización de los grandes sacrificios
-- **gṛhyasūtra** n. (गृह्यसूत्र) : obras didácticas para las ceremonias y sacrificios de la vida cotidiana
-- **dharmasūtra** n. (धर्मसूत्र) y **dharmaśāstra** n. (धर्मशास्त्र) : obras didácticas sobre derecho y costumbre (comportamiento correcto)
-- las grandes epopeyas **mahābhārata** n. (महाभारत) y **rāmāyaṇa** n. (रामायण)
-- las **purāṇa** n. (पुराण)
-- **nītiśāstra** n. (नीतिशास्त्र) : obras didácticas de la sabiduría práctica
+**smṛti** f. = ⟪स्मृति⟫ : presencia, recuerdo, presencia meditativa = atención, tradición (concepto opuesto a **śruti**). Incluye:
+- las seis **vedāṅga** n. (⟪वेदाङ्ग⟫)
+  1. **śikṣā** f. (⟪शिक्षा⟫): pronunciación correcta
+  2. **chandas** n. (⟪छन्दस्⟫): metro
+  3. **vyākaraṇa** n. (⟪व्याकरण⟫): gramática
+  4. **nirukta** n. (⟪निरुक्त⟫) : explicación de palabras, etimología
+  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomía, teoría del calendario
+  6. **kalpa** m. (⟪कल्प⟫) : ceremonial
+- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : obras didácticas para la realización de los grandes sacrificios
+- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : obras didácticas para las ceremonias y sacrificios de la vida cotidiana
+- **dharmasūtra** n. (⟪धर्मसूत्र⟫) y **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : obras didácticas sobre derecho y costumbre (comportamiento correcto)
+- las grandes epopeyas **mahābhārata** n. (⟪महाभारत⟫) y **rāmāyaṇa** n. (⟪रामायण⟫)
+- las **purāṇa** n. (⟪पुराण⟫)
+- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : obras didácticas de la sabiduría práctica
 
 **smṛti** es especialmente también denominación para obras didácticas sobre Dharma.
 
-**dhenu** f. = धेनु : (vaca de) leche.
+**dhenu** f. = ⟪धेनु⟫ : (vaca de) leche.
 
-**paśu** m. = पशु : animal doméstico de utilidad, ganado (colectivo).
+**paśu** m. = ⟪पशु⟫ : animal doméstico de utilidad, ganado (colectivo).
 
-**devatā** f. = देवता : deidad (abstracta y concreta).
+**devatā** f. = ⟪देवता⟫ : deidad (abstracta y concreta).
 
-**brāhmaṇī** f. = ब्राह्मणी : brahmán.
+**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : brahmán.
 
-**kṣatriyā** f. = क्षत्रिया : kṣatriya femenina.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya femenina.
 
-**kṣatriyī** f. = क्षत्रियी : esposa de un kṣatriya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : esposa de un kṣatriya.
 
-**vaiśyā** f. = वैश्या : vaiśya femenina.
+**vaiśyā** f. = ⟪वैश्या⟫ : vaiśya femenina.
 
-**śūdrā** f. = शूद्रा : śūdra femenina.
+**śūdrā** f. = ⟪शूद्रा⟫ : śūdra femenina.
 
-**śūdrī** f. / **śūdrāṇī** f. = शूद्री शूद्राणी : esposa de un śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : esposa de un śūdra.
 
-**devī** f. = देवी : diosa, en especial Durgā f. = दुर्गा, la esposa de Śiva = शिव.
+**devī** f. = ⟪देवी⟫ : diosa, en especial Durgā f. = ⟪दुर्गा⟫, la esposa de Śiva = ⟪शिव⟫.
 
 :::media
 ![](/images/lekt0303.webp)
-Fig.: Durgā = दुर्गा, Orissa
+Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 (Fuente de la imagen: [Detalles](/images/lekt0303))
-:::**sādhvī** f. = साध्वी : fem. de sādhu.
+:::**sādhvī** f. = ⟪साध्वी⟫ : fem. de sādhu.
 
-**gurvī** f. = गुर्वी : fem. de guru.
+**gurvī** f. = ⟪गुर्वी⟫ : fem. de guru.
 
-**asmitā** f. = अस्मिता : "yo-soy-idad", es decir, la (falsa) creencia: **Yo** soy quien ve, etc.
+**asmitā** f. = ⟪अस्मिता⟫ : "yo-soy-idad", es decir, la (falsa) creencia: **Yo** soy quien ve, etc.
 
-**ānvīkṣikī** f. = आन्वीक्षिकी : filosofía (la ciencia que llega a sus conclusiones mediante argumentos lógicamente correctos).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filosofía (la ciencia que llega a sus conclusiones mediante argumentos lógicamente correctos).
 
-**upekṣā** f. = उपेक्षा : no atención, ecuanimidad.
+**upekṣā** f. = ⟪उपेक्षा⟫ : no atención, ecuanimidad.
 
-**karuṇā** f. = करुणा : compasión, lástima.
+**karuṇā** f. = ⟪करुणा⟫ : compasión, lástima.
 
-**muditā** f. = मुदिता : alegría, especialmente alegría compartida (opuesto a la envidia).
+**muditā** f. = ⟪मुदिता⟫ : alegría, especialmente alegría compartida (opuesto a la envidia).
 
 ---
 
@@ -193,30 +193,30 @@ Fig.: Durgā = दुर्गा, Orissa
 
 **A) Convierta las siguientes oraciones al plural:**
 
-1. dvijo brāhmaṇaḥ = द्विजो ब्राह्मणः
-2. dvijaḥ kṣatriyaḥ = द्विजः क्षत्रियः
-3. dvijo vaiśyaḥ = द्विजो वैश्यः
-4. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
-5. sādhur guruḥ = साधुर्गुरुः
-6. guruḥ kaviḥ = गुरुः कविः
-7. sādhvī brāhmaṇī = साध्वी ब्राह्मणी
-8. devatā guruḥ = देवता गुरुः
-9. paśur dhenuḥ = पशुर्धेनुः
-10. gurvī sādhvī = गुर्वी साध्वी
+1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
+2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫
+3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫
+4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+5. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫
+7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫
+8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫
+9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫
+10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫
 
 **B) Forme oraciones nominales mediante la inserción:**
 
-1. śrutis ... (veda) = श्रुतिस् ... वेद
-2. paśus ... (dhenu) = पशुस् ... धेनु
-3. devī ... (durgā, umā, indrāṇī) = देवी ... दुर्गा, उमा, इन्द्राणी
-4. devatā ... (mīnākṣī, annapūrṇā) = देवता ... मीनाक्षी, अन्नपूर्णा
-5. śūdrā ... (itarā) = शूद्रा ... इतरा
+1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
+2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫
+3. devī ... (durgā, umā, indrāṇī) = ⟪देवी⟫ ... ⟪दुर्गा⟫, ⟪उमा⟫, ⟪इन्द्राणी⟫
+4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫
+5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫
 
 **C) Transfiera al femenino:**
 
-1. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
-2. sādhur guruḥ = साधुर्गुरुः
-3. kṣatriyaḥ sādhuḥ = क्षत्रियः साधुः
+1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫
 
 **D) Traduzca al sánscrito:**
 

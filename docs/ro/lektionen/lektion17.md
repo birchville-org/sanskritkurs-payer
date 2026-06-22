@@ -1,6 +1,6 @@
 ---
 title: Lecția 17
-subtitle: "A doua clasă de prezintă (अदादि = अद् etc.)"
+subtitle: "A doua clasă de prezintă (⟪अदादि⟫ = ⟪अद्⟫ etc.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Gramatică"
@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 17
 
-## 17.1. A doua clasă de prezent (अदादि = अद् etc.)
+## 17.1. A doua clasă de prezent (⟪अदादि⟫ = ⟪अद्⟫ etc.)
 
 Terminațiile verbale se atașează direct rădăcinii. În acest caz, trebuie luate în considerare modificările fonetice rezultate din sandha lexicală.
 
@@ -27,7 +27,7 @@ Există următoarele forme de formare în a doua clasă de prezent:
 
 Exemple:
 
-द्विष् 2 U "a urî"
+⟪द्विष्⟫ 2 U "a urî"
 
 *   stemă de prezent puternică: dveṣ-
 *   stemă de prezent slabă: dviṣ-
@@ -38,10 +38,10 @@ Exemple:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prezent P | द्वेष्टि (« dveṣ + -ti) |
-| 3\. pl. Prezent P | द्विषन्ति (dviṣ-anti) |
-| 3\. sg. Prezent Ā | द्विष्टे (« dviṣ + -te) |
-| 3\. pl. Prezent Ā | द्विषते (dviṣ-ate) |
+| 3\. sg. Prezent P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
+| 3\. pl. Prezent P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
+| 3\. sg. Prezent Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
+| 3\. pl. Prezent Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::::::În acest caz, se aplică următoarea regulă de sandhi al cuvintelor:
 
@@ -51,7 +51,7 @@ Sandhi al cuvintelor pentru -ṣ + t(h)-
 \-ṣ + t(h)- » -ṣṭ(h)-
 :::Alte exemple:
 
-इ 2 P "a merge" (Ā după anumite prefixe)
+⟪इ⟫ 2 P "a merge" (Ā după anumite prefixe)
 
 *   stemă de prezent puternică: e-
 *   stemă de prezent slabă:
@@ -64,12 +64,12 @@ Sandhi al cuvintelor pentru -ṣ + t(h)-
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prezent P | एति (e-ti) |
-| 3\. pl. Prezent P | यन्ति (y-anti) |
-| 3\. sg. Prezent Ā | इते (i-te) |
-| 3\. pl. Prezent Ā | इयते (iy-ate) |
+| 3\. sg. Prezent P | ⟪एति⟫ (e-ti) |
+| 3\. pl. Prezent P | ⟪यन्ति⟫ (y-anti) |
+| 3\. sg. Prezent Ā | ⟪इते⟫ (i-te) |
+| 3\. pl. Prezent Ā | ⟪इयते⟫ (iy-ate) |
 
-:::::::दुह् 2 U "a mulge"
+:::::::⟪दुह्⟫ 2 U "a mulge"
 
 *   stemă de prezent puternică: doh-
 *   stemă de prezent slabă: duh-
@@ -80,12 +80,12 @@ Sandhi al cuvintelor pentru -ṣ + t(h)-
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prezent P | दोग्धि (« doh- + -ti) |
-| 3\. pl. Prezent P | दुहन्ति (duh-anti) |
-| 3\. sg. Prezent Ā | दुग्धे (« duh- + -te) |
-| 3\. pl. Prezent Ā | दुहते (duh-ate) |
+| 3\. sg. Prezent P | ⟪दोग्धि⟫ (« doh- + -ti) |
+| 3\. pl. Prezent P | ⟪दुहन्ति⟫ (duh-anti) |
+| 3\. sg. Prezent Ā | ⟪दुग्धे⟫ (« duh- + -te) |
+| 3\. pl. Prezent Ā | ⟪दुहते⟫ (duh-ate) |
 
-:::::::हन् 2 P "a lovi, a ucide, a omorî"
+:::::::⟪हन्⟫ 2 P "a lovi, a ucide, a omorî"
 
 *   stemă de prezent puternică: han-
 *   stemă de prezent slabă:
@@ -98,12 +98,12 @@ Sandhi al cuvintelor pentru -ṣ + t(h)-
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prezent P | हन्ति (han-ti) |
-| 3\. pl. Prezent P | घ्नन्ति (ghn-anti) |
-| 3\. sg. Prezent Ā | हते (ha-te) |
-| 3\. pl. Prezent Ā | घ्नते (ghn-ate) |
+| 3\. sg. Prezent P | ⟪हन्ति⟫ (han-ti) |
+| 3\. pl. Prezent P | ⟪घ्नन्ति⟫ (ghn-anti) |
+| 3\. sg. Prezent Ā | ⟪हते⟫ (ha-te) |
+| 3\. pl. Prezent Ā | ⟪घ्नते⟫ (ghn-ate) |
 
-:::::::अस् 2 P "a fi"
+:::::::⟪अस्⟫ 2 P "a fi"
 
 *   stemă de prezent puternică: as-
 *   stemă de prezent slabă: s-
@@ -114,14 +114,14 @@ Sandhi al cuvintelor pentru -ṣ + t(h)-
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prezent P | अस्ति (as-ti) |
-| 3\. pl. Prezent P | सन्ति (s-anti) |
+| 3\. sg. Prezent P | ⟪अस्ति⟫ (as-ti) |
+| 3\. pl. Prezent P | ⟪सन्ति⟫ (s-anti) |
 
 :::::::## 17.3. Rădăcinile celei de-a doua clase de prezente cu alternanță de stemă: gradul lung - gradul redus
 
 Exemplu:
 
-स्तु 2 U "a lăuda"
+⟪स्तु⟫ 2 U "a lăuda"
 
 *   stemă de prezent puternică: stau-
 *   stemă de prezent slabă:
@@ -134,10 +134,10 @@ Exemplu:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prez. P | स्तौति (stau-ti)[[br]]sau: स्तवीति |
-| 3\. pl. Prez. P | स्तुवन्ति (stuv-anti) |
-| 3\. sg. Prez. Ā | स्तुते (stu-te) |
-| 3\. pl. Prez. Ā | स्तुवते (stuv-ate) |
+| 3\. sg. Prez. P | ⟪स्तौति⟫ (stau-ti):brsau: ⟪स्तवीति⟫ |
+| 3\. pl. Prez. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
+| 3\. sg. Prez. Ā | ⟪स्तुते⟫ (stu-te) |
+| 3\. pl. Prez. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
 :::::::## 17.4. Rădăcinile celei de-a doua clase de prezente fără abstracțiune de stemă
 
@@ -145,7 +145,7 @@ Exemplu:
 Fără abstracțiune de stemă, rădăcinile celei de-a doua clase de prezente sunt în -ā
 :::Exemplu:
 
-पा  2 P "a proteja, a păzi, a îngriji"
+⟪पा⟫  2 P "a proteja, a păzi, a îngriji"
 
 ::::grammar-box
 
@@ -153,14 +153,14 @@ Fără abstracțiune de stemă, rădăcinile celei de-a doua clase de prezente s
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prez. P | पाति (pā-ti) |
-| 3\. pl. Prez. P | पान्ति (« pā- + -anti) |
+| 3\. sg. Prez. P | ⟪पाति⟫ (pā-ti) |
+| 3\. pl. Prez. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
 :::::::De asemenea, unele alte rădăcini din a doua clasă nu au abstracțiune de stemă:
 
 Exemple:
 
-अद् 2 P "a mânca"
+⟪अद्⟫ 2 P "a mânca"
 
 ::::grammar-box
 
@@ -168,21 +168,10 @@ Exemple:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prez. P | अत्ति (« ad- + -ti) |
-| 3\. pl. Prez. P | अदन्ति (ad-anti) |
+| 3\. sg. Prez. P | ⟪अत्ति⟫ (« ad- + -ti) |
+| 3\. pl. Prez. P | ⟪अदन्ति⟫ (ad-anti) |
 
-:::::::आस् 2 Ā "a ședea"
-
-::::grammar-box
-
-:::no-header
-
-| | |
-| :--- | :--- |
-| 3\. sg. Prez. Ā | आस्ते (ās-te) |
-| 3\. pl. Prez. Ā | आसते (ās-ate) |
-
-:::::::वच् 2 P "a spune"
+:::::::⟪आस्⟫ 2 Ā "a ședea"
 
 ::::grammar-box
 
@@ -190,7 +179,18 @@ Exemple:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prez. P | वक्ति (« vac- + -ti) |
+| 3\. sg. Prez. Ā | ⟪आस्ते⟫ (ās-te) |
+| 3\. pl. Prez. Ā | ⟪आसते⟫ (ās-ate) |
+
+:::::::⟪वच्⟫ 2 P "a spune"
+
+::::grammar-box
+
+:::no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. Prez. P | ⟪वक्ति⟫ (« vac- + -ti) |
 | 3\. pl. Prez. P | nu apare |
 
 :::::::## 17.5. Rădăcini disilabice în -i/-ī cu alternanță de stemă
@@ -199,7 +199,7 @@ Mai multe rădăcini sunt, într-o serie de forme, disilabice, adică au un -i (
 
 Exemple:
 
-रुद् 3 P "a plânge, a urla"
+⟪रुद्⟫ 3 P "a plânge, a urla"
 
 *   stemă de prezent puternică: rodi-
 *   stemă de prezent slabă:
@@ -212,10 +212,10 @@ Exemple:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prezent P | रोदिति (rodi-ti) |
-| 3\. pl. Prezent P | रुदन्ति (rud-anti) |
+| 3\. sg. Prezent P | ⟪रोदिति⟫ (rodi-ti) |
+| 3\. pl. Prezent P | ⟪रुदन्ति⟫ (rud-anti) |
 
-:::::::ब्रू 2 U "a vorbi"
+:::::::⟪ब्रू⟫ 2 U "a vorbi"
 
 *   stemă de prezent puternică: bravī- (« bro- + -ī)
 *   stemă de prezent slabă:
@@ -228,12 +228,12 @@ Exemple:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prezent P | ब्रवीति (bravī-ti) |
-| 3\. pl. Prezent P | ब्रुवन्ति (bruv-anti) |
-| 3\. sg. Prezent Ā | ब्रूते (brū-te) |
-| 3\. pl. Prezent Ā | ब्रुवते (bruv-ate) |
+| 3\. sg. Prezent P | ⟪ब्रवीति⟫ (bravī-ti) |
+| 3\. pl. Prezent P | ⟪ब्रुवन्ति⟫ (bruv-anti) |
+| 3\. sg. Prezent Ā | ⟪ब्रूते⟫ (brū-te) |
+| 3\. pl. Prezent Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
-:::::::De asemenea, स्तु 2 U "a lăuda" are, alături de formele indicate la punctul 3, și forme după acest model:
+:::::::De asemenea, ⟪स्तु⟫ 2 U "a lăuda" are, alături de formele indicate la punctul 3, și forme după acest model:
 
 ::::grammar-box
 
@@ -241,76 +241,76 @@ Exemple:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prezent P | स्तवीति (« sto + ī + ti)[[br]]sau: स्तौति |
+| 3\. sg. Prezent P | ⟪स्तवीति⟫ (« sto + ī + ti):brsau: ⟪स्तौति⟫ |
 
 :::::::## 17.6. Listă de cuvinte
 
-हन् 2 P हन्ति, घ्नन्ति Pass. हन्यते  PPP हत : a lovi, a ucide, a omorî
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : a lovi, a ucide, a omorî
 
 de acolo:
 
 :::indent
-घात m.: ucidere
+⟪घात⟫ m.: ucidere
 ::::::media
 ![](/images/lekt1703.webp)
-Fig.: घाताः
+Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1703))
-:::आस् 2Ā आस्ते Pass. आस्यते PPP आसित : a ședea
+:::⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : a ședea
 
 de acolo:
 
 :::indent
-आसन n.: șederea, locul de ședere ; de asemenea: pozițiile de ședere ale yoghinului
+⟪आसन⟫ n.: șederea, locul de ședere ; de asemenea: pozițiile de ședere ale yoghinului
 ::::::media
 ![](/images/lekt1701.webp)
-Fig.: योगासनम्
+Fig.: ⟪योगासनम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1701))
-:::रुद् 2 P रोदिति Pass. रुद्यते PPP रुदित : a plânge, a urla
+:::⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : a plânge, a urla
 
 de acolo:
 
 :::indent
-रुद्र m.: (cel care urlă =) zeul furtunii Rudra
-:::ब्रू 2 U ब्रवीति Ā ब्रूते niciun Passiv și PPP: a vorbi, a spune (cuiva: acuzativ dublu)
+⟪रुद्र⟫ m.: (cel care urlă =) zeul furtunii Rudra
+:::⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ niciun Passiv și PPP: a vorbi, a spune (cuiva: acuzativ dublu)
 
-दुह् 2 U दोग्धि Pass. दुह्यते PPP दुग्ध : a mulge
+⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : a mulge
 
 :::media
 ![](/images/lekt1702.webp)
-Fig.: दोग्धि
+Fig.: ⟪दोग्धि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1702))
-:::दिश् 6 U दिशति Pass. दिश्यते PPP दिष्ट : a arăta, a indica, a porunci
+:::⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : a arăta, a indica, a porunci
 
 de acolo:
 
 :::indent
-दिष्टि f.: indicație, dispoziție fericită
+⟪दिष्टि⟫ f.: indicație, dispoziție fericită
 
-दिष्ट्या Instr.: (literal: printr-o dispoziție fericită) O dispoziție fericită (exclamație de bucurie și binecuvântare)
+⟪दिष्ट्या⟫ Instr.: (literal: printr-o dispoziție fericită) O dispoziție fericită (exclamație de bucurie și binecuvântare)
 :::## 17.7. Exercițiul 1
 
 A) Introduceți verbul în propozițiile de mai jos și traduceți:
 
-१. ब्राह्मणो ऽनृतं न ... (ब्रू । वच् । वद्)
+⟪१⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫)
 
-२. क्षत्रियो जनान् ... (पा । रक्ष्)
+⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫)
 
-३. बलवद्योधो द्विजारीन् ... (जि । हन् । युध्)
+⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫)
 
-४. ब्राह्मणकविर्लोकेश्वरम् ... (स्तु । यज्)
+⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫)
 
-५. अग्निर्यज्ञान्नम् ... (अद् । दह्)
+⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫)
 
-६. बालवैश्यो धेनुम् ... (दुह् । रक्ष् । पा)
+⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫)
 
-७. द्विजदासो मृगमार्गेण ब्राह्मणग्रामम् ... (गम् । इ । पद्)
+⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫)
 
-८. द्विजदासः शूद्रस् ... (अस् २ । भू)
+⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫)
 
-९. बालब्राह्मणी ... (रुद् । आस् । मृ)
+⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद्⟫ ⟪।⟫ ⟪आस्⟫ ⟪।⟫ ⟪मृ⟫)
 
-१०. साधुजनो ऽधर्मम् ... (द्विष् । न कृ)
+⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫)
 
 B) Introduceți agentul și verbul la plural în propozițiile formate la punctul A)
 
@@ -318,97 +318,97 @@ B) Introduceți agentul și verbul la plural în propozițiile formate la punctu
 
 Traduceți următoarele forme verbale și indicați rădăcina corespunzătoare:
 
-१. अदन्ति
+⟪१⟫. ⟪अदन्ति⟫
 
-२. सन्ति
+⟪२⟫. ⟪सन्ति⟫
 
-३. आसते
+⟪३⟫. ⟪आसते⟫
 
-४. यन्ति
+⟪४⟫. ⟪यन्ति⟫
 
-५. इच्छति
+⟪५⟫. ⟪इच्छति⟫
 
-६. कुर्वते
+⟪६⟫. ⟪कुर्वते⟫
 
-७. गच्छन्ति
+⟪७⟫. ⟪गच्छन्ति⟫
 
-८. जायते
+⟪८⟫. ⟪जायते⟫
 
-९. जयति
+⟪९⟫. ⟪जयति⟫
 
-१०. तनोति
+⟪१०⟫. ⟪तनोति⟫
 
-११. दहति
+⟪११⟫. ⟪दहति⟫
 
-१२. दोग्धि
+⟪१२⟫. ⟪दोग्धि⟫
 
-१३. पश्यति
+⟪१३⟫. ⟪पश्यति⟫
 
-१४. द्विष्टे
+⟪१४⟫. ⟪द्विष्टे⟫
 
-१५. नयन्ति
+⟪१५⟫. ⟪नयन्ति⟫
 
-१६. नृत्यति
+⟪१६⟫. ⟪नृत्यति⟫
 
-१७. पद्यन्ते
+⟪१७⟫. ⟪पद्यन्ते⟫
 
-१८. पिबति
+⟪१८⟫. ⟪पिबति⟫
 
-१९. पान्ति
+⟪१९⟫. ⟪पान्ति⟫
 
-२०. पृच्छति
+⟪२०⟫. ⟪पृच्छति⟫
 
-२१. बुध्यन्ते
+⟪२१⟫. ⟪बुध्यन्ते⟫
 
-२२. ब्रवीति
+⟪२२⟫. ⟪ब्रवीति⟫
 
-२३. भवन्ति
+⟪२३⟫. ⟪भवन्ति⟫
 
-२४. मन्यते
+⟪२४⟫. ⟪मन्यते⟫
 
-२५. मुञ्चन्ति
+⟪२५⟫. ⟪मुञ्चन्ति⟫
 
-२६. म्रियन्ते
+⟪२६⟫. ⟪म्रियन्ते⟫
 
-२७. यजते
+⟪२७⟫. ⟪यजते⟫
 
-२८. युध्यन्ते
+⟪२८⟫. ⟪युध्यन्ते⟫
 
-२९. रक्षति
+⟪२९⟫. ⟪रक्षति⟫
 
-३०. रोदिति
+⟪३०⟫. ⟪रोदिति⟫
 
-३१. लभते
+⟪३१⟫. ⟪लभते⟫
 
-३२. वक्ति
+⟪३२⟫. ⟪वक्ति⟫
 
-३३. वदति
+⟪३३⟫. ⟪वदति⟫
 
-३४. शृणोति
+⟪३४⟫. ⟪शृणोति⟫
 
-३५. स्तौति
+⟪३५⟫. ⟪स्तौति⟫
 
-३६. स्मरति
+⟪३६⟫. ⟪स्मरति⟫
 
-३७. हन्ति
+⟪३७⟫. ⟪हन्ति⟫
 
-३८. अश्नुवते
+⟪३८⟫. ⟪अश्नुवते⟫
 
-३९. कुप्यते
+⟪३९⟫. ⟪कुप्यते⟫
 
-४० कर्षन्ति
+⟪४०⟫ ⟪कर्षन्ति⟫
 
-४१. उद्यते
+⟪४१⟫. ⟪उद्यते⟫
 
-४२. सहन्ते
+⟪४२⟫. ⟪सहन्ते⟫
 
-४३. सिच्यन्ते
+⟪४३⟫. ⟪सिच्यन्ते⟫
 
-४४. आप्नोति
+⟪४४⟫. ⟪आप्नोति⟫
 
-४५. जीव्यते
+⟪४५⟫. ⟪जीव्यते⟫
 
-४६. दिश्यन्ते
+⟪४६⟫. ⟪दिश्यन्ते⟫
 
 :::deleteme-box
 

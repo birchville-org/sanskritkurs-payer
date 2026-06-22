@@ -16,33 +16,33 @@ last_reconstructed: 2026-05-07
 
 ### 4.1.1. Pronombres interrogativos y pronombres demostrativos
 
-#### 4.1.1.1. Pronombres interrogativos (praśnārthakasarvanāma n. = प्रश्नार्थकसर्वनामन्)
+#### 4.1.1.1. Pronombres interrogativos (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
 :::grammar-box
 | | Nominativo singular | Nominativo plural |
 | :--- | :--- | :--- |
-| **Neutro** | **kim = किम्** | **kāni = कानि** |
-| **Masculino** | **kas = कस्** | **ke = के** |
-| **Femenino** | **kā = का** | **kās = कास्** |
-:::#### 4.1.1.2. Pronombres demostrativos (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि)
+| **Neutro** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
+| **Masculino** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
+| **Femenino** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
+:::#### 4.1.1.2. Pronombres demostrativos (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 :::grammar-box
 | **Radicales** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = तद्[[br]]"él, ella, eso; el, la, lo"[[br]](Mencionado)** | **etad = एतद्[[br]]"este, esta, esto"[[br]](muy cercano al hablante)** | **idam = इदम्[[br]]"este, esta, esto"[[br]](Cercano)** |
+| | **tad = ⟪तद्⟫:br"él, ella, eso; el, la, lo":br(Mencionado)** | **etad = ⟪एतद्⟫:br"este, esta, esto":br(muy cercano al hablante)** | **idam = ⟪इदम्⟫:br"este, esta, esto":br(Cercano)** |
 | **Nominativo singular** ||||
-| **Neutro** | **tad = तद्** | **etad = एतद्** | **idam = इदम्** |
-| **Masculino** | **sa, so saḥ = स सो सः** | **eṣa, eṣo, eṣaḥ = एष एषो एषः** | **ayam = अयम्** |
-| **Femenino** | **sā = सा** | **eṣā = एषा** | **iyam = इयम्** |
+| **Neutro** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
+| **Masculino** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
+| **Femenino** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
 | | | | |
 | **Nominativo plural** ||||
-| **Neutro** | **tāni = तानि** | **etāni = एतानि** | **imāni = इमानि** |
-| **Masculino** | **te = ते** | **ete = एते** | **ime = इमे** |
-| **Femenino** | **tās = तास्** | **etās = एतास्** | **imās इमास्** |
+| **Neutro** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
+| **Masculino** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
+| **Femenino** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
 :::**Respecto al Nom. sg. masc.:**
-- **sa, eṣa** (स एष) se anteponen a todos los sonidos excepto a la **-a** breve
-- **so, eṣo** (सो एषो) se anteponen a **-a**, que se elide con Avagraha (desaparece)
-- **saḥ, eṣaḥ** (सः एषः) solo se usan en pausa (final de oración, final de verso)
+- **sa, eṣa** (⟪स⟫ ⟪एष⟫) se anteponen a todos los sonidos excepto a la **-a** breve
+- **so, eṣo** (⟪सो⟫ ⟪एषो⟫) se anteponen a **-a**, que se elide con Avagraha (desaparece)
+- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) solo se usan en pausa (final de oración, final de verso)
 
 Para poder formar oraciones con estos pronombres (sarvanāman n.), se necesita además conocer las siguientes reglas de Sandhi:
 
@@ -54,10 +54,10 @@ Para poder formar oraciones con estos pronombres (sarvanāman n.), se necesita a
 
 :::grammar-box
 1. **ante a- permanece -e sin cambiar: el a- inicial se elide con Avagraha:**
-   p. ej. ete + agnayas » ete 'gnayaḥ = एते ऽग्नयः "Estos fuegos"
+   p. ej. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Estos fuegos"
 
 2. **Ante otras vocales que no sea a- breve, -e se reemplaza habitualmente por -a con hiato. También se produce el reemplazo por -ay:**
-   p. ej. ime + īśvarās » ima īśvarāḥ = इम ईश्वराः (raro: imay īśvarāh = इमयीश्वराः) "Estos SEÑORES"
+   p. ej. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (raro: imay īśvarāh = ⟪इमयीश्वराः⟫) "Estos SEÑORES"
 :::### 4.1.4. Sandhi de -d final
 
 :::grammar-box
@@ -72,15 +72,15 @@ Mediante estos pronombres se forman, por ejemplo, las siguientes fórmulas inter
 :::no-header
 | | | | |
 | :--- | :--- | :--- | :--- |
-| **Singular** | **Neutro** | tat kim? / kiṃ tat?[[br]]तत्किम्, किं तत्[[br]][[br]]etat kim? / kim etat?[[br]]एतत्किम्, किमेतत्[[br]][[br]]idaṃ kim? / kim idam[[br]]इदं किम्, किमिदम् | «¿Qué es eso?» |
-| | **Masculino** | sa kaḥ? / kaḥ saḥ?[[br]]स कः, कः सः[[br]][[br]]eṣa kaḥ? / ka eṣaḥ[[br]]एष कः, क एषः[[br]][[br]]ayaṃ kaḥ? / ko 'yam?[[br]]अयं कः, को ऽयम् | «¿Quién es eso?»[[br]]«¿Qué es el?» |
-| | **Femenino** | sā kā? / kā sā?[[br]]सा का, का सा[[br]][[br]]eṣā kā? / kaiṣā? (= kā + eṣā)[[br]]एषा का, कैषा[[br]][[br]]iyaṃ kā? / keyam? (= kā + iyam)[[br]]इयं का, केयम् | «¿Quién es eso?»[[br]]«¿Quién es ella?» |
-| **Plural** | **Neutro** | tāni kāni? / kāni tāni?[[br]]तानि कानि, कानि तानि[[br]][[br]]etāni kāni? / kāny etāni?[[br]]एतानि कानि, कान्येतानि[[br]][[br]]imāni kāni? / kānīmāni? (= kāni + imāni)[[br]]इमानि कानि, कानीमानि | |
-| | **Masculino** | te ke? / ke te?[[br]]ते के, के ते[[br]][[br]]ete ke? / ka ete?[[br]]एते के, क एते[[br]][[br]]ime ke? / ka ime?[[br]]इमे के, क इमे | |
-| | **Femenino** | tāḥ kāḥ? / kās tāḥ?[[br]]ताः काः, कास्ताः[[br]][[br]]etāḥ kāḥ? / kā etāḥ?[[br]]एताः काः, का एताः[[br]][[br]]imāḥ kāḥ? / kā imāḥ?[[br]]इमाः काः, का इमाः | |
+| **Singular** | **Neutro** | tat kim? / kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:br:bretat kim? / kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:br:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | «¿Qué es eso?» |
+| | **Masculino** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:br:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:br:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | «¿Quién es eso?»:br«¿Qué es el?» |
+| | **Femenino** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:br:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:br:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | «¿Quién es eso?»:br«¿Quién es ella?» |
+| **Plural** | **Neutro** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:br:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:br:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
+| | **Masculino** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:br:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:br:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
+| | **Femenino** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:br:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:br:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 :::::::Un ejemplo de otras preguntas:
 
-> viṣṇuḥ kaḥ? = विष्णुः कः Respuesta: viṣṇur īśvaraḥ = विष्णुरीश्वरः. (Aquí se puede colocar el sujeto al principio de la oración nominal, por ejemplo, para enfatizar la conexión con la pregunta.)
+> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Respuesta: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Aquí se puede colocar el sujeto al principio de la oración nominal, por ejemplo, para enfatizar la conexión con la pregunta.)
 
 NOTA: Las respuestas que puede dar a estas preguntas con sus conocimientos actuales de sánscrito, por supuesto, aún no son idiomáticamente perfectas en todos los aspectos.
 
@@ -88,13 +88,13 @@ NOTA: Las respuestas que puede dar a estas preguntas con sus conocimientos actua
 
 ## 4.2. Ejercicio
 
-**A) Forme oralmente preguntas con las siguientes palabras según el esquema viṣṇuḥ kaḥ (विष्णुः कः) y responda las preguntas en sánscrito:**
+**A) Forme oralmente preguntas con las siguientes palabras según el esquema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) y responda las preguntas en sánscrito:**
 
 śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa
 
-= श्रुति, शिव, ब्राह्मण, द्विज (बहुवचनम्), इन्द्राणी, धेनु, तुलाधर, कालिदास
+= ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
 
-**B) Forme preguntas para el siguiente ejercicio de lectura según el patrón etat kim (एतत्किम्) y responda las preguntas con las palabras indicadas y los pronombres demostrativos, por ejemplo eṣa bālaḥ (एष बालः):**
+**B) Forme preguntas para el siguiente ejercicio de lectura según el patrón etat kim (⟪एतत्किम्⟫) y responda las preguntas con las palabras indicadas y los pronombres demostrativos, por ejemplo eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):**
 
 :::media
 ![](/images/lekt0401.webp)

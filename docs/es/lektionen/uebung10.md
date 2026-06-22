@@ -10,138 +10,138 @@ last_reconstructed: 2026-05-15
 
 A) Forme el pasivo de las siguientes formas verbales (con la traducción de la forma verbal), es decir, el pasivo que corresponde a la forma verbal en persona y número:
 
-1. sṛjati सृजति : sṛjyate सृज्यते
-2. yudhyate युध्यते : yudhyate युध्यते
-3. bhavanti भवन्ति : bhūyante भूयन्ते
-4. yajati यजति : ijyate इज्यते
-5. nṛtyati नृत्यति : nṛtyate नृत्यते
-6. nayanti नयन्ति : nīyante नीयन्ते
-7. smarati स्मरति : smaryate स्मर्यते
-8. śṛṇvanti शृण्वन्ति : śrūyante श्रूयन्ते
-9. pāśyati पश्यति (¡El pasivo se forma a partir de dṛś!) : dṛśyate दृश्यते
-10. jayanti जयन्ति : jīyante जीयन्ते
-11. kurvate कुर्वते : kriyante क्रियन्ते
-12. āpnuvanti आप्नुवन्ति : āpyante आप्यन्ते
-13. viśati विशति : viśyate विश्यते
-14. khādanti खादन्ति : khādyante खाद्यन्ते
-15. sunoti सुनोति : sūyate सूयन्ते
-16. gacchati गच्छति : gamyate गम्यते
-17. manyante मन्यन्ते : manyante मन्यन्ते
-18. labhante लभन्ते : labhyante लभ्यन्ते
-19. rakṣanti रक्षन्ति : rakṣyante रक्ष्यन्ते
-20. vadanti वदन्ति : udyante उद्यन्ते
-21. pṛcchanti पृच्छन्ति : pṛcchyante पृच्छ्यन्ते
-22. tanvanti तन्वन्ति (¡2 formas!) : tanyante / tāyante तन्यन्ते तायन्ते
+1. sṛjati ⟪सृजति⟫ : sṛjyate ⟪सृज्यते⟫
+2. yudhyate ⟪युध्यते⟫ : yudhyate ⟪युध्यते⟫
+3. bhavanti ⟪भवन्ति⟫ : bhūyante ⟪भूयन्ते⟫
+4. yajati ⟪यजति⟫ : ijyate ⟪इज्यते⟫
+5. nṛtyati ⟪नृत्यति⟫ : nṛtyate ⟪नृत्यते⟫
+6. nayanti ⟪नयन्ति⟫ : nīyante ⟪नीयन्ते⟫
+7. smarati ⟪स्मरति⟫ : smaryate ⟪स्मर्यते⟫
+8. śṛṇvanti ⟪शृण्वन्ति⟫ : śrūyante ⟪श्रूयन्ते⟫
+9. pāśyati ⟪पश्यति⟫ (¡El pasivo se forma a partir de dṛś!) : dṛśyate ⟪दृश्यते⟫
+10. jayanti ⟪जयन्ति⟫ : jīyante ⟪जीयन्ते⟫
+11. kurvate ⟪कुर्वते⟫ : kriyante ⟪क्रियन्ते⟫
+12. āpnuvanti ⟪आप्नुवन्ति⟫ : āpyante ⟪आप्यन्ते⟫
+13. viśati ⟪विशति⟫ : viśyate ⟪विश्यते⟫
+14. khādanti ⟪खादन्ति⟫ : khādyante ⟪खाद्यन्ते⟫
+15. sunoti ⟪सुनोति⟫ : sūyate ⟪सूयन्ते⟫
+16. gacchati ⟪गच्छति⟫ : gamyate ⟪गम्यते⟫
+17. manyante ⟪मन्यन्ते⟫ : manyante ⟪मन्यन्ते⟫
+18. labhante ⟪लभन्ते⟫ : labhyante ⟪लभ्यन्ते⟫
+19. rakṣanti ⟪रक्षन्ति⟫ : rakṣyante ⟪रक्ष्यन्ते⟫
+20. vadanti ⟪वदन्ति⟫ : udyante ⟪उद्यन्ते⟫
+21. pṛcchanti ⟪पृच्छन्ति⟫ : pṛcchyante ⟪पृच्छ्यन्ते⟫
+22. tanvanti ⟪तन्वन्ति⟫ (¡2 formas!) : tanyante / tāyante ⟪तन्यन्ते⟫ ⟪तायन्ते⟫
 
 B) Forme el instrumental singular y plural de todos los sustantivos aprendidos hasta ahora
 
 C) Transforme las siguientes oraciones al pasivo y tradúzcalas:
 
-1\. brāhmaṇo devīm yajati. ब्राह्मणो देवीं यजति
+1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 
 brāhmaṇena devījyate.
 
-ब्राह्मणेन देवीज्यते ।
+⟪ब्राह्मणेन⟫ ⟪देवीज्यते⟫ ⟪।⟫
 
-2\. sādhuḥ svargaṃ gacchati. साधुः स्वर्गं गच्छति
+2\. sādhuḥ svargaṃ gacchati. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫
 
 sādhunā svargaṃ / svargo gamyate.
 
-साधुना स्वर्गं गम्यते ।
+⟪साधुना⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫
 
-3\. śūdraṃ jayati. शूद्रं जयति
+3\. śūdraṃ jayati. ⟪शूद्रं⟫ ⟪जयति⟫
 
 śūdro jīyate.
 
-शूद्रो जीयते ।
+⟪शूद्रो⟫ ⟪जीयते⟫ ⟪।⟫
 
-4\. guruḥ phalāni khādati. गुरुः फलानि खादति
+4\. guruḥ phalāni khādati. ⟪गुरुः⟫ ⟪फलानि⟫ ⟪खादति⟫
 
 guruṇā phalāni khādyante.
 
-गुरुना फलानि खाद्यन्ते ।
+⟪गुरुना⟫ ⟪फलानि⟫ ⟪खाद्यन्ते⟫ ⟪।⟫
 
-5\. gurūñchṛṇoti. गुरूञ्छृणोति
+5\. gurūñchṛṇoti. ⟪गुरूञ्छृणोति⟫
 
 guravaḥ śrūyante.
 
-गुरवः श्रूयन्ते ।
+⟪गुरवः⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
 
-6\. ko 'gniṃ paśyati. को ऽग्निं पश्यति
+6\. ko 'gniṃ paśyati. ⟪को⟫ ⟪ऽग्निं⟫ ⟪पश्यति⟫
 
 kenāgnir dṛśyate.
 
-केनाग्निर्दृश्यते ।
+⟪केनाग्निर्दृश्यते⟫ ⟪।⟫
 
-7\. ayaṃ kavirmantraṃ smarati. अयं कविर्मन्त्रं स्मरति
+7\. ayaṃ kavirmantraṃ smarati. ⟪अयं⟫ ⟪कविर्मन्त्रं⟫ ⟪स्मरति⟫
 
 anena kavinā mantraḥ smaryate.
 
-अनेन कविना मन्त्रः स्मर्यते ।
+⟪अनेन⟫ ⟪कविना⟫ ⟪मन्त्रः⟫ ⟪स्मर्यते⟫ ⟪।⟫
 
-8\. iyaṃ devī kṣatriyā rakṣati. इयं देवी क्त्रिया रक्षति
+8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
 
 anayā devyā kṣatriyā rakṣyante.
 
-अनया देव्या क्षत्रिया रक्ष्यन्ते ।
+⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्ष्यन्ते⟫ ⟪।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. क्षत्रिया विष्णुं यजन्ते (2 posibilidades)
+9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 posibilidades)
 
 kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
-क्षत्रियैर्विष्णुरिज्यते । क्षत्रियाभिर्विष्णुरिज्यते ।
+⟪क्षत्रियैर्विष्णुरिज्यते⟫ ⟪।⟫ ⟪क्षत्रियाभिर्विष्णुरिज्यते⟫ ⟪।⟫
 
-10\. brāhmaṇo 'gniṃ karoti. ब्राह्मणो ऽग्निं करोति
+10\. brāhmaṇo 'gniṃ karoti. ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
 
 brāhmaṇenāgniḥ kriyate.
 
-ब्राह्मणेनाग्निः क्रियते ।
+⟪ब्राह्मणेनाग्निः⟫ ⟪क्रियते⟫ ⟪।⟫
 
-11\. vaiśyā imaṃ grāmaṃ  gacchanti. वैश्या इमं ग्रामं गच्छन्ति (2 posibilidades)
+11\. vaiśyā imaṃ grāmaṃ  gacchanti. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ (2 posibilidades)
 
 vaiśyair / vaiśyābhir imaṃ grāmaṃ / ayaṃ grāmo gamyate.
 
-वैश्यैरिमं ग्रामं गम्यते । वैश्यैरयं ग्रामो गम्यते । वैश्याभिरिमं ग्रामं गम्यते । वैश्याभिरयं ग्रामो गम्यते ।
+⟪वैश्यैरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्यैरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 
 Los vaiśyas / las mujeres vaiśya van a esta aldea.
 
-12\. ete gurūṃstu śṛṇvanti. एते गुरूंस्तु शृण्वन्ति
+12\. ete gurūṃstu śṛṇvanti. ⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
 
 etair guravas tu śrūyante.
 
-एतैर्गुरवस्तु श्रूयन्ते ।
+⟪एतैर्गुरवस्तु⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
 
 Ellos escuchan, sin embargo, a sus maestros.
 
-13\. sādhuḥ svargamāpnoti. साधुः स्वर्गमाप्नोति
+13\. sādhuḥ svargamāpnoti. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
 
 sādhunā svarga āpyate.
 
-साधुना स्वर्ग आप्यते ।
+⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫
 
 Un santo alcanza el cielo.
 
-14\. brāhmāṇāḥ somaṃ sunvanti. ब्राह्मणाः सोमं सुन्वन्ति
+14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫
 
 brāhmaṇaiḥ somaḥ sūyate.
 
-ब्राह्मणैः सोमः सूयते ।
+⟪ब्राह्मणैः⟫ ⟪सोमः⟫ ⟪सूयते⟫ ⟪।⟫
 
 Los brahmanes presionan el soma.
 
-15\. paśūṃllabhate. पशूल्ंलभते
+15\. paśūṃllabhate. ⟪पशूल्ंलभते⟫
 
 paśavo labhyante.
 
-पशवो लभ्यन्ते ।
+⟪पशवो⟫ ⟪लभ्यन्ते⟫ ⟪।⟫
 
 Se obtienen animales domésticos.
 
-16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. के योधाः क्षत्रियैः सह युध्यन्ते
+16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
 
 kair yodhaiḥ kṣatriyaiḥ saha yudhyate.
 
-कैर्योधैः क्षत्रियैः सह युध्यते ॥
+⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪॥⟫
 
 ¿Qué soldados luchan (juntos) con los kṣatriyas?
 
@@ -151,65 +151,65 @@ D) Traduzca al sánscrito:
 
 brāhmano vaiśyena saha grāmaṃ gacchati.
 
-ब्राह्मणो वैश्येन सह ग्रामं गच्छति ।
+⟪ब्राह्मणो⟫ ⟪वैश्येन⟫ ⟪सह⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 
 2\. Él venera a viṣṇu con un sacrificio. (¡Expresar sacrificio con yajña!)
 
 yajñena viṣṇuṃ yajati / yajate.
 
-यज्ञेन विष्णुं यजति / यजते ।
+⟪यज्ञेन⟫ ⟪विष्णुं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
 
 3\. El veda se llama śruti. (vad)
 
 vedaḥ śrutir (ity) udyate.
 
-वेदः श्रुतिरित्युद्यते ।
+⟪वेदः⟫ ⟪श्रुतिरित्युद्यते⟫ ⟪।⟫
 
 4\. Se tensa la urdimbre. (2 posibilidades)
 
 tantraṃ tanyate / tāyate / tanvanti.
 
-तन्त्रं तन्यते / तायते / तन्वन्ति ।
+⟪तन्त्रं⟫ ⟪तन्यते⟫ / ⟪तायते⟫ / ⟪तन्वन्ति⟫ ⟪।⟫
 
 5\. Los maestros preguntan. (Construcción pasiva)
 
 gurubhiḥ pṛcchyate.
 
-गुरुभिः प्र्च्छ्यते ।
+⟪गुरुभिः⟫ ⟪प्र्च्छ्यते⟫ ⟪।⟫
 
 6\. El ojo guía. (Construcción pasiva) (Los ojos y las orejas normalmente se usan en dual)
 
 netreṇa nīyate.
 
-नेत्रेण नीयते ।
+⟪नेत्रेण⟫ ⟪नीयते⟫ ⟪।⟫
 
 7\. El poeta ve una deidad. (Construcción pasiva)
 
 kavinā devatā dṛśyate.
 
-कविना देवता दृश्यते ।
+⟪कविना⟫ ⟪देवता⟫ ⟪दृश्यते⟫ ⟪।⟫
 
 8\. ¿Quién (fem.) cuida a la niña? (Construcción pasiva)
 
 kayā bālā rakṣyate.
 
-कया बाला रक्ष्यते ।
+⟪कया⟫ ⟪बाला⟫ ⟪रक्ष्यते⟫ ⟪।⟫
 
 9\. El kṣatriya veneró al SEÑOR con un sacrificio. (Construcción pasiva, sin usar la palabra yajña)
 
 kṣatriyeṇeśvara ijyate.
 
-क्षत्रियेनेश्वर इज्यते ।
+⟪क्षत्रियेनेश्वर⟫ ⟪इज्यते⟫ ⟪।⟫
 
 10\. Mediante la generosidad, un seguidor de buda alcanza un cielo.
 
 dānena śrāvakaḥ svargam āpnoti / aśnute.
 
-दानेन श्रावकः स्वर्गमाप्नोति / स्वर्गमश्नुते ।
+⟪दानेन⟫ ⟪श्रावकः⟫ ⟪स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते⟫ ⟪।⟫
 
 :::media
 ![](/images/uebung011.webp)
-Fig.: ग्रामः
+Fig.: ⟪ग्रामः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung011))
 :::---
 
@@ -217,108 +217,108 @@ Fig.: ग्रामः
 
 Lea y traduzca, y convierta a pasiva:
 
-**क**
+**⟪क⟫**
 
-१.
-> मक्सिका व्रणमिच्छन्ति
-> धनमिच्छन्ति पार्थिवाः |
-> नीचाः कलहमिच्छन्ति
-> शान्तिमिच्छन्ति साधवः ||
+⟪१⟫.
+> ⟪मक्सिका⟫ ⟪व्रणमिच्छन्ति⟫
+> ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
+> ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
+> ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
 >
-> मक्षिकाभिर्व्रण इष्यते
-> धनमिष्यते पार्थिवैः ।
-> नीचैः कलह इष्यते
-> शान्तिरिष्यते साधuभिः ॥
+> ⟪मक्षिकाभिर्व्रण⟫ ⟪इष्यते⟫
+> ⟪धनमिष्यते⟫ ⟪पार्थिवैः⟫ ⟪।⟫
+> ⟪नीचैः⟫ ⟪कलह⟫ ⟪इष्यते⟫
+> ⟪शान्तिरिष्यते⟫ ⟪साध⟫u⟪भिः⟫ ⟪॥⟫
 
 Los pájaros desean una herida,
 Los reyes desean riqueza,
 Los viles desean contienda,
 Los santos desean paz.
 
-२. नरान्सृजति देवः |
-नरा देवैः सृज्यन्ते ।
+⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ |
+⟪नरा⟫ ⟪देवैः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫
 Los dioses crean a los seres humanos.
 
-३. कवयो धनं लुभ्यन्ति |
-कविभिर्धनं लभ्यते ।
+⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ |
+⟪कविभिर्धनं⟫ ⟪लभ्यते⟫ ⟪।⟫
 Los poetas anhelan riqueza.
 
-४. ऋषिः सूक्तानि पश्यति |
-ऋषिणा सूक्तानि दृश्यन्ते ।
+⟪४⟫. ⟪ऋषिः⟫ ⟪सूक्तानि⟫ ⟪पश्यति⟫ |
+⟪ऋषिणा⟫ ⟪सूक्तानि⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
 El sabio védico ve los himnos védicos.
 
-५. विष्णुमृषिर्यजति |
-विष्णुरृषिणेज्यते ।
+⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ |
+⟪विष्णुरृषिणेज्यते⟫ ⟪।⟫
 Der vedische Weise opfert Viṣṇu.
 
-६. गुरूञ्शिष्यांश्च पश्यति |
-गुरवः शिष्याश्च दृश्यन्ते ।
+⟪६⟫. ⟪गुरूञ्शिष्यांश्च⟫ ⟪पश्यति⟫ |
+⟪गुरवः⟫ ⟪शिष्याश्च⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
 Él ve al maestro y al alumno.
 
-७. स्वर्गं लभन्ते |
-स्वर्गो लभ्यते ।
+⟪७⟫. ⟪स्वर्गं⟫ ⟪लभन्ते⟫ |
+⟪स्वर्गो⟫ ⟪लभ्यते⟫ ⟪।⟫
 Ellos alcanzan el cielo.
 
-८. अत्रर्षिर्भानुं वन्दते |
-अत्रर्षिणा भानुर्वन्स्यते ।
+⟪८⟫. ⟪अत्रर्षिर्भानुं⟫ ⟪वन्दते⟫ |
+⟪अत्रर्षिणा⟫ ⟪भानुर्वन्स्यते⟫ ⟪।⟫
 Allí un sabio védico saluda al sol.
 
-९. ग्रामं गच्छन्ति |
-ग्रामं गम्यते । ग्रामो गम्यते ।
+⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
+⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 Ellos van a la aldea.
 
-१०. दानानि वर्षन्ति नृपाः ||
-दानानि वृष्यन्ते नृपैः ॥
+⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
+⟪दानानि⟫ ⟪वृष्यन्ते⟫ ⟪नृपैः⟫ ⟪॥⟫
 Los reyes hacen llover regalos.
 
-**ख**
+**⟪ख⟫**
 
-१. सदा देवान्स्मरन्ति |
-सदा देवाः स्मर्यन्ते।
+⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ |
+⟪सदा⟫ ⟪देवाः⟫ ⟪स्मर्यन्ते।⟫
 Ellos se representan constantemente a los dioses.
 
-२. ऋषिभी रामो वसति |
-ऋषिभिः सह रामेणोष्यते ।
+⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ |
+⟪ऋषिभिः⟫ ⟪सह⟫ ⟪रामेणोष्यते⟫ ⟪।⟫
 Rāma wohnt bei den vedischen Weisen.
 
-३. हरिं क्षीरेण यजति |
-हरिः क्षीरेणेज्यते ।
+⟪३⟫. ⟪हरिं⟫ ⟪क्षीरेण⟫ ⟪यजति⟫ |
+⟪हरिः⟫ ⟪क्षीरेणेज्यते⟫ ⟪।⟫
 Él venera a Hari con una ofrenda de leche.
 
-४. मार्गेण ग्रामं गच्छन्ति |
-मार्गेन ग्रामं गम्यते । मार्गेन ग्रामो गम्यते ।
+⟪४⟫. ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
+⟪मार्गेन⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪मार्गेन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 Ellos van por el camino a la aldea.
 
-५. धनेन सुखमिच्छन्ति नराः |
-धनेने नरैः सुखमिष्यते ।
+⟪५⟫. ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪नराः⟫ |
+⟪धनेने⟫ ⟪नरैः⟫ ⟪सुखमिष्यते⟫ ⟪।⟫
 Los seres humanos desean felicidad mediante la riqueza.
 
-६. एवं वदन्ति |
-एवमुद्यते ।
+⟪६⟫. ⟪एवं⟫ ⟪वदन्ति⟫ |
+⟪एवमुद्यते⟫ ⟪।⟫
 Así se dice.
 
-७. शान्त्यर्षय इह शोभन्ते |
-शान्त्यर्षिभिरिह शुभ्यते ।
+⟪७⟫. ⟪शान्त्यर्षय⟫ ⟪इह⟫ ⟪शोभन्ते⟫ |
+⟪शान्त्यर्षिभिरिह⟫ ⟪शुभ्यते⟫ ⟪।⟫
 En la tierra brillan los santos por su pacifismo.
 
-८. कपयः फलानि खादन्ति |
-कपिभिः फलानि खाद्यन्ते ।
+⟪८⟫. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
+⟪कपिभिः⟫ ⟪फलानि⟫ ⟪खाद्यन्ते⟫ ⟪।⟫
 Los monos comen frutas.
 
-९. गजो गच्छति |
-गजेन गम्यते ।
+⟪९⟫. ⟪गजो⟫ ⟪गच्छति⟫ |
+⟪गजेन⟫ ⟪गम्यते⟫ ⟪।⟫
 El elefante corre.
 
-१०. हरिर्गृहं गच्छti |
-हरिणा गृहं गम्यते ।
+⟪१०⟫. ⟪हरिर्गृहं⟫ ⟪गच्छ⟫ti |
+⟪हरिणा⟫ ⟪गृहं⟫ ⟪गम्यते⟫ ⟪।⟫
 Hari va a casa.
 
-११. सारथी रथं नयति ||
-सारथिना रथो नीयते ॥
+⟪११⟫. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ ||
+⟪सारथिना⟫ ⟪रथो⟫ ⟪नीयते⟫ ⟪॥⟫
 El cochero conduce el carro.
 
 :::media
 ![](/images/uebung012.webp)
-Fig.: सारथी रथं नयति
+Fig.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung012))
 :::

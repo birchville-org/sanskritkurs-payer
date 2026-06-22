@@ -1,4 +1,4 @@
-# דेवनागरी = ⟪देवनागरी⟫
+# ד⟪ेवनागरी⟫ = ⟪देवनागरी⟫
 
 ## תרגיל כתיבה 6
 
@@ -14,7 +14,7 @@
 
 ## תרגיל
 
-א) כתוב בदेוונאג'רי:
+א) כתוב ב⟪दे⟫וונאג'רי:
 
 bhavati yudh dhenuḥ sādhavaḥ bhūmiḥ ḍhuḍhi ghaṭa ḍuḍhauke jhālā ḍhola ghoṣaṃ bhṛ jaghajhagāyamāno bhos jhāḍhāmalā bhogaḥ
 

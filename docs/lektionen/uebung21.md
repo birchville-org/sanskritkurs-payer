@@ -46,7 +46,7 @@ Ein Zweimalgeborener ist ein Mann, der vom Meister in den Veda initiiert wurde.
 ⟪६⟫. ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥⟫
 Wer den Zorn besiegt hat, der hasst einen Feind nicht, auch wenn dieser ihn tötet. Wer aber vom Zorn besiegt ist, hasst.
 
-::: media
+:::media
 ![](/images/uebung033.webp)
 Abb.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
 (Bildquelle: [Details](/licenses#uebung033))

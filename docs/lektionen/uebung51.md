@@ -72,13 +72,11 @@ last_reconstructed: 2026-05-15
 
 > Und es kam mir zu Bewusstsein: Ach, ihr [der Jäger] Leben besteht hauptsächlich aus Verblendung und ihr Wandel wird von den Guten getadelt. So nämlich: Sie halten die Darbringung von Menschenfleisch für rechte Religion; ihre Nahrung besteht in von den Guten getadeltem Honigwein, Fleisch und Ähnlichem; ihr Bemühen ist Jagd; ihr Lehrwerk das Geheul der Schakale; Eulen sind ihre Lehrer von Gut und Böse; ihre Weisheit ist Vogelkunde; ihre Vertrauten sind Hunde; ihr Reich ist in leeren Wäldern; ihr Fest ist Besäufnis; ihre Freunde sind Bogen, die grausame Taten vollbringen; ihre Gefährten sind Pfeile, deren Spitze mit Gift beschmiert ist wie Schlangen; ihr Gesang bringt verwirrtem Wild Verderben; ihre Frauen sind die geraubten jungen Mädchen anderer; sie wohnen zusammen mit grausamen Tigern; mit Tierblut verehren sie die Gottheiten; Fleisch bringen sie als Opfergaben dar; von Raub leben sie; ihr Schmuck sind Schlangenedelsteine; ihre Glieder reiben sie mit dem Brunst-Saft von Waldelefanten ein; jeden Wald, in dem sie sich niederlassen, entwurzeln sie vollständig – Während ich so überlegte, trat der General der Śabaras zu mir ein.
 
-::: media
+:::media
 ![](/images/uebung086.webp)
 Abb.: Jäger
 (Bildquelle: [Details](/licenses#uebung086))
-:::
-
----
+:::---
 
 ## ⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (⟪१६⟫. Jhdt.)
 
@@ -90,7 +88,7 @@ Kommentar zum vorhergehenden Abschnitt der **⟪कादम्बरी⟫**:
 > Als erste Einführung in das Kommentar-Sanskrit eignet sich:
 > **Tubb, Gary A. & Boose, Emery R.: Scholastic Sanskrit: A Handbook for Students.** New York: American Institute of Buddhist Studies, 2007.
 
-::: media
+:::media
 ![](/images/uebung089.jpg)
 Abb.: Scholastic Sanskrit
 (Bildquelle: [Details](/licenses#uebung089))

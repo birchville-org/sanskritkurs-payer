@@ -12,11 +12,11 @@ and the following word begins with a consonant. The same applies in cases where,
 
 ### Punctuation
 
-The end of a sentence in prose is marked with | (ardhadhaṇḍa m.). In verses, | marks the end of the half-stanza, while || (daṇḍa m.) marks the end of the full stanza. In prose, || indicates a larger break (e.g., the end of a paragraph). Verse numbering is placed between two ||, e.g., ||१||.
+The end of a sentence in prose is marked with | (ardhadhaṇḍa m.). In verses, | marks the end of the half-stanza, while || (daṇḍa m.) marks the end of the full stanza. In prose, || indicates a larger break (e.g., the end of a paragraph). Verse numbering is placed between two ||, e.g., ||⟪१⟫||.
 
 ### Abbreviation
 
-Abbreviation marks (e.g., in references to works) are °, e.g., पा° = pā(ṇinīye) = "In the grammatical treatise of Pāṇini".
+Abbreviation marks (e.g., in references to works) are °, e.g., ⟪पा⟫° = pā(ṇinīye) = "In the grammatical treatise of Pāṇini".
 
 ### Further Vowels in Initial Position
 
@@ -34,4 +34,4 @@ A) Write in Devanāgarī:
 
 B) Read and transliterate:
 
-ए इ उ अ ऋ ई ऊ ओ ऐ आ औ ॠ अथ इष् उत् एक इन् ओत् अद् ऐश ऋध् ऊह् एध् ईश् उद्य औम् ऋण ऊढ इह उष् अद् अल् ॐ ओख् ऋच् ऐण उदङ् ऋणम् ईषत् ऊहनम् ऋषभ औषधम् ऐषमस् उपकरणम् ||
+⟪ए⟫ ⟪इ⟫ ⟪उ⟫ ⟪अ⟫ ⟪ऋ⟫ ⟪ई⟫ ⟪ऊ⟫ ⟪ओ⟫ ⟪ऐ⟫ ⟪आ⟫ ⟪औ⟫ ⟪ॠ⟫ ⟪अथ⟫ ⟪इष्⟫ ⟪उत्⟫ ⟪एक⟫ ⟪इन्⟫ ⟪ओत्⟫ ⟪अद्⟫ ⟪ऐश⟫ ⟪ऋध्⟫ ⟪ऊह्⟫ ⟪एध्⟫ ⟪ईश्⟫ ⟪उद्य⟫ ⟪औम्⟫ ⟪ऋण⟫ ⟪ऊढ⟫ ⟪इह⟫ ⟪उष्⟫ ⟪अद्⟫ ⟪अल्⟫ ⟪ॐ⟫ ⟪ओख्⟫ ⟪ऋच्⟫ ⟪ऐण⟫ ⟪उदङ्⟫ ⟪ऋणम्⟫ ⟪ईषत्⟫ ⟪ऊहनम्⟫ ⟪ऋषभ⟫ ⟪औषधम्⟫ ⟪ऐषमस्⟫ ⟪उपकरणम्⟫ ||

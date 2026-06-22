@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Bilden Sie die in Zeit, Zahl, Modus u. s. w. entsprechende **2. Person** zu folgenden Verbformen:
 
-::: grammar-box
+:::grammar-box
 | 1. Person / 3. Person | 2. Person |
 | :--- | :--- |
 | ⟪१⟫. **⟪आर्हम्⟫** | ⟪आर्हः⟫ |
@@ -65,15 +65,11 @@ A) Bilden Sie die in Zeit, Zahl, Modus u. s. w. entsprechende **2. Person** zu f
 | ⟪५०⟫. **⟪सीदामि⟫** | ⟪सीदसि⟫ |
 | ⟪५१⟫. **⟪तिष्ठन्ति⟫** | ⟪तिष्ठथ⟫ |
 | ⟪५२⟫. **⟪आहरत्⟫** | ⟪आहरः⟫ |
-:::
-
-::: media
+::::::media
 ![](/images/uebung070.webp)
 Abb.: ⟪दिशसि⟫
 (Bildquelle: [Details](/licenses#uebung070))
-:::
-
----
+:::---
 
 ## Übersetzungen ins Sanskrit
 
@@ -109,13 +105,11 @@ In welcher Stadt wurdest du geboren?
 ⟪१०⟫. **⟪कथं⟫ ⟪शत्रुं⟫ ⟪तरसि⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 Wie rettest du dich (überschreitest du den Strom) vor dem Feind?
 
-::: media
+:::media
 ![](/images/uebung071.jpg)
 Abb.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 (Bildquelle: [Details](/licenses#uebung071))
-:::
-
----
+:::---
 
 ## Gespräch (⟪संवादः⟫)
 

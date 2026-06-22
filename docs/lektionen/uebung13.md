@@ -120,13 +120,11 @@ Die vedischen Weisen sehen, dass der Dämon auf keinen Fall siegt.
 Was essen und trinken Brahmanen?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
-::: media
+:::media
 ![](/images/uebung019.webp)
 Abb.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung019))
-:::
-
----
+:::---
 
 ## Zusätzliche Übungen
 
@@ -269,7 +267,7 @@ E) Übersetzen Sie ins Sanskrit:
 11\. Die Opferpriester haben den Soma gepresst.
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
-::: media
+:::media
 ![](/images/uebung018.webp)
 Abb.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung018))

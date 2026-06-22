@@ -74,7 +74,7 @@ kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatri
 
 kṣatriyo brāhmaṇaṃ / brāhmaṇān / vaiśyaṃ / vaiśyān rakṣati. kṣatriyaḥ śūdraṃ / śūdrān. kṣatriyo brāhmaṇīṃ / brāhmaṇī rakṣati. kṣatriyaḥ kṣatriyāṃ / kṣatriyā rakṣati.
 
-क्षत्रियो ब्राह्मणं रक्षति । क्षत्रियो ब्राह्मणान्रक्षति । क्त्रियो वैश्यं रक्षति । क्षत्रियो वैश्यान्रक्षति । क्षत्रियः शूद्रं रक्षति । क्षत्रियः शूद्रान्रक्षति । क्षत्रियो ब्राह्मणीं रक्षति । क्षत्रियो ब्राह्मणी रक्षति । क्षत्रियः क्षत्रियां रक्षति । क्षत्रियः क्षत्रिया रक्षति ॥
+⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणान्रक्षति⟫ ⟪।⟫ ⟪क्त्रियो⟫ ⟪वैश्यं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪वैश्यान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणीं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणी⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रियां⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रिया⟫ ⟪रक्षति⟫ ⟪॥⟫
 
 D) Traduceți
 
@@ -82,127 +82,127 @@ D) Traduceți
 
 kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / kṣatriyā brāhmaṇavaiśyaśūdrān rakṣanti.
 
-क्षत्रिया ब्राह्मणांश्च वैश्यांश्च शूद्रांश्च रक्षन्ति । क्षत्रिया ब्राह्मणवैश्यशूद्रान्रक्षन्ति ।
+⟪क्षत्रिया⟫ ⟪ब्राह्मणांश्च⟫ ⟪वैश्यांश्च⟫ ⟪शूद्रांश्च⟫ ⟪रक्षन्ति⟫ ⟪।⟫ ⟪क्षत्रिया⟫ ⟪ब्राह्मणवैश्यशूद्रान्रक्षन्ति⟫ ⟪।⟫
 
 2\. Un omagiu sfânt vede atât cerul, cât și iadul.
 
 sādhuḥ svargāmś ca narakāmś ca paśyati.
 
-साधुः स्वर्गांश्च नरकांश्च पश्यति ।
+⟪साधुः⟫ ⟪स्वर्गांश्च⟫ ⟪नरकांश्च⟫ ⟪पश्यति⟫ ⟪।⟫
 
 3\. El îi învinge pe kṣatriyas.
 
 kṣatriyāñ jayati.
 
-क्षत्रियञ्जयति ।
+⟪क्षत्रियञ्जयति⟫ ⟪।⟫
 
 4\. Ea întinde urzeala.
 
 tantraṃ tanoti.
 
-तन्त्रं तनोति ।
+⟪तन्त्रं⟫ ⟪तनोति⟫ ⟪।⟫
 
 5\. Soldații luptă.
 
 yodhā yudhyante.
 
-योधा युध्यन्ते ।
+⟪योधा⟫ ⟪युध्यन्ते⟫ ⟪।⟫
 
 6\. Brahmanul face un foc.
 brāhmaṇo 'gniṃ karoti.
 
-ब्राह्मणो ऽग्निं करोति ।
+⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫ ⟪।⟫
 
 7\. Brahmanii fac focuri.
 
 brāhmaṇā agniṃ kurvanti.
 
-ब्राह्मणा अग्निं कुर्वन्ति ।
+⟪ब्राह्मणा⟫ ⟪अग्निं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 
 8\. Ce fac acești luptători?
 ime yodhāḥ kiṃ kurvanti?
 
-इमे योधाः किं कुर्वन्ति ।
+⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 
 9\. Pe cine vede ochiul?
 netraṃ (nayanaṃ) kaṃ paśyati?
 
-नेत्रं (नयनं) कं पश्यति ।
+⟪नेत्रं⟫ (⟪नयनं⟫) ⟪कं⟫ ⟪पश्यति⟫ ⟪।⟫
 
 10\. Ce doresc zeii?
 devāḥ kiṃ lubhyanti?
 
-देवाः किं लुभ्यन्ति ।
+⟪देवाः⟫ ⟪किं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
 
 11\. Care este motivul?
 kiṃ kāraṇam?
 
-किं कारणम् ॥
+⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
 :::media
 ![](/images/uebung007.webp)
-Fig.: इमे योधाः किं कुर्वन्ति ।
+Fig.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung007))
 :::---
 
 ## Exercițiu de citire
 
-1\. शूद्रो बालं नयति |
+1\. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 Șudra conduce copilul.
 
-2\. कविर्देवं यजते |
+2\. ⟪कविर्देवं⟫ ⟪यजते⟫ |
 Poetul aduce jertfă zeului.
 
-3\. साधुः फलानि खादति |
+3\. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
 Sfântul mănâncă fructe.
 
-4\. गुरुः क्रोधं जयति |
+4\. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
 Maestrul învinge mânia sa.
 
-5\. देवो नरकं सृजति |
+5\. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
 Zeul creează iadul.
 
-6\. धेनुर्ग्रामं विशति |
+6\. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
 Vaca intră în sat.
 
-7\. कामक्रोधलोभा नरकं नयन्ति |
+7\. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
 Pasiunea, mânia și lăcomia duc la iad.
 
-8\. देवतां यजति |
+8\. ⟪देवतां⟫ ⟪यजति⟫ |
 El aduce jertfă pentru un stăpân al jertfei zeului.
 
-9\. बाला भवति |
+9\. ⟪बाला⟫ ⟪भवति⟫ |
 Se naște o fată.
 
-10\. सारथी रथं नयति |
+10\. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
 Un carăuș conduce carul.
 
-11\. कपयः फलानि खादन्ति |
+11\. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
 Maimuțele mănâncă fructele.
 
-12\. बाला लिखति |
+12\. ⟪बाला⟫ ⟪लिखति⟫ |
 Fata scrie sau desenează.
 
-13\. कुमारी गृहं विशति |
+13\. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
 Fecioara intră în casă.
 
-14\. देवो नागं सृजति |
+14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
 Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 
-15\. बालो गजं नयति |
+15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 Copilul conduce elefantul.
 
-16\. विमला शोचति | (विमला Nume propriu Vimalā)
+16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Nume propriu Vimalā)
 Vimalā ist traurig.
 
-17\. शुकः पतति |
+17\. ⟪शुकः⟫ ⟪पतति⟫ |
 Papagalul zboară.
 
-18\. बालः पत्रिकां लिखति |
+18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
 Copilul scrie o scrisoare.
 
 :::media
 ![](/images/uebung008.webp)
-Fig.: कपिः फलं खदति
+Fig.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung008))
 :::

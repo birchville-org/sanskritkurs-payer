@@ -18,7 +18,7 @@ A) Scrieți în Devanāgarī:
 
 B) Citiți și transliterați:
 
-१२ २३ २४ ५३६ ६५ ८७ १९४४ २००८ ९९० ८७ ७६ ६५ ५४ ४३ ३२ २१ १९ २८ ८३ ७४ ५७ ६६
+⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
 
 ### Clasificarea sunetelor limbii sanscrită (din: Kielhorn: Gramatică limbii sanscrite)
 
@@ -26,4 +26,4 @@ B) Citiți și transliterați:
 
 ### Sfârșitul exercițiilor de scriere
 
-## ॐ श्रीगणेशाय नमः ॐ
+## ⟪ॐ⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪ॐ⟫

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbi entsprechenden Imperfektformen:
 
-::: grammar-box
+:::grammar-box
 | Präsens / Futur | Imperfekt |
 | :--- | :--- |
 | ⟪१⟫. **⟪हरिष्यन्ते⟫** | ⟪अहरन्त⟫ |
@@ -88,9 +88,7 @@ A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genu
 | ⟪७३⟫. **⟪तनोति⟫** | ⟪अतनोत्⟫ |
 | ⟪७४⟫. **⟪प्रजानीते⟫** | ⟪प्राजानीत⟫ |
 | ⟪७५⟫. **⟪जीवन्ति⟫** | ⟪अजीवन्⟫ |
-:::
-
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+:::B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
 (⟪जनस्य⟫ ⟪इन्द्रस्य⟫ ⟪अग्रे⟫ ⟪।⟫ ⟪महत्⟫-⟪पुण्यम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪लोके⟫)
@@ -111,19 +109,17 @@ Brahmanen haben den Veda studiert und gelehrt, den Göttern als Opferherren und 
 (⟪बुद्धस्य⟫ ⟪पुत्राः⟫)
 Söhne Buddhas haben die Wahrheit erkannt, das Leiden zum Stillstand gebracht und die Erlösung erreicht. Als "Sohn Buddhas" wird ein Mönch bezeichnet, der den Weg Buddhas geht.
 
-::: media
+:::media
 ![](/images/uebung050.webp)
 Abb.: ⟪सम्पन्नरूपा⟫
 (Bildquelle: [Details](/licenses#uebung050))
-:::
-
----
+:::---
 
 ## Wortformbestimmung
 
 Bestimmen und übersetzen Sie folgende Wörter:
 
-::: grammar-box
+:::grammar-box
 | Wortform | Bestimmung | Bedeutung |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪देवस्य⟫** | Gen. sg. m. | des Gottes |
@@ -210,15 +206,11 @@ Bestimmen und übersetzen Sie folgende Wörter:
 | ⟪८२⟫. **⟪अधिकृतेषु⟫** | Lok. pl. m./n. PPP | bei den Beauftragten |
 | ⟪८३⟫. **⟪अध्यापयति⟫** | 3. sg. P. Ind. Präs. Kaus. | er unterrichtet |
 | ⟪८४⟫. **⟪वाचयन्ति⟫** | 3. pl. P. Ind. Präs. Kaus. | sie lassen lesen |
-:::
-
-::: media
+::::::media
 ![](/images/uebung051.webp)
 Abb.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Bildquelle: [Details](/licenses#uebung051))
-:::
-
----
+:::---
 
 ## Übung zum Sandhi
 
@@ -293,13 +285,11 @@ Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein und beachten Sie
 12\. Auf Wiedersehen!
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
 
-::: media
+:::media
 ![](/images/uebung052.webp)
 Abb.: ⟪पुनर्दर्शनाय⟫
 (Bildquelle: [Details](/licenses#uebung052))
-:::
-
----
+:::---
 
 ## Scholarly Fragment (Stotra)
 
@@ -308,13 +298,11 @@ Abb.: ⟪पुनर्दर्शनाय⟫
 **⟪आसयत्सलिले⟫ ⟪पृथ्वीं⟫ ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिर्गतिः⟫ ⟪॥⟫**  
 Der hehre Hari ist meine Zuflucht, der seine Feinde in den Himmel schickte, die Seinen den Sinn des Veda wissen ließ, den Göttern Amṛta zu essen gab, den Schöpfer den Veda lehrte und die Erde im Wasser festsetzte.
 
-::: media
+:::media
 ![](/images/uebung053.webp)
 Abb.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 (Bildquelle: [Details](/licenses#uebung053))
-:::
-
----
+:::---
 
 ## Erzählung: Der Greis und die Affen (Sanskrit-Bālādarśa)
 
@@ -323,7 +311,7 @@ Abb.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 **Übersetzung:**
 Einst ging ein Greis in ein anderes Dorf und wurde unterwegs müde. Um sich auszuruhen, ging er an den Fuß eines Mangobaums am Wegrand. Auf diesem Baum hingen reife Früchte. Der Greis bekam Lust auf sie, aber er konnte nicht auf den Baum steigen, um sie zu pflücken. Zum Glück waren auf dem Baum einige Affen, die Früchte fraßen. Als der Greis dies sah, freute er sich. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf sie. Die Affen wurden wütend, pflückten einige Früchte und warfen sie auf den Greis. Der Greis nahm freudig die Früchte und ging seines Weges. Großartig ist das Geschick des Greises!
 
-::: media
+:::media
 ![](/images/uebung054.webp)
 Abb.: ⟪वानरः⟫ ⟪कुपितः⟫
 (Bildquelle: [Details](/licenses#uebung054))

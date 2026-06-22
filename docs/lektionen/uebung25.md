@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Ergänzen Sie die Deklinationsbeispiele von Lektion 16 durch Hinzufügen von 4. Dativ (⟪चतुर्थी⟫) und 5. Ablativ (⟪पञ्चमी⟫).
 
-::: grammar-box
+:::grammar-box
 ### ⟪१⟫. **⟪सन्त्⟫** (seiend, gut)
 
 | Kasus | m. Singular | m. Plural | n. Singular | n. Plural |
@@ -40,9 +40,7 @@ A) Ergänzen Sie die Deklinationsbeispiele von Lektion 16 durch Hinzufügen von 
 | 3. Instr. | ⟪येन⟫ | ⟪यैः⟫ | ⟪येन⟫ | ⟪यैः⟫ | ⟪यया⟫ | ⟪याभिः⟫ |
 | 4. Dat. | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्यै⟫ | ⟪याभ्यः⟫ |
 | 5. Abl. | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्याः⟫ | ⟪याभ्यः⟫ |
-:::
-
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+:::B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
 Auf Anweisung des Lehrers geht Rāma aus dem Dorf in die Stadt, betritt das Haus des Heiligen, stellt sich ehrerbietig vor den Heiligen und spricht: "Genug des Zornes!"
@@ -66,13 +64,11 @@ Buddhas und Arhants sind vom Leid befreit. Sie haben nämlich die erlösende Ein
 ⟪७⟫. **⟪लोभ⟫en ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫**
 Durch Gier, Hass und Verblendung verderben Menschen. Wenn die Zeit gekommen ist, fallen sie dann in eine Hölle.
 
-::: media
+:::media
 ![](/images/uebung040.webp)
 Abb.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Bildquelle: [Details](/licenses#uebung040))
-:::
-
-⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
+:::⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
 Der Kṣatriya bringt heldenhafte Krieger aus der Großstadt, um das Dorf der Feinde zu bekämpfen.
 
 ⟪९⟫. **⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫**
@@ -118,13 +114,11 @@ Wenn jemand aus Hochmut, Gier, Zorn oder Furcht ein falsches Gerichtsurteil spri
 ⟪दारिद्र्यमप्रदानेन⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫  
 Höllen entstehen wegen des Bösen, Böses entsteht aus Armut, Armut entsteht aus Nicht-Geben.
 
-::: media
+:::media
 ![](/images/uebung041.webp)
 Abb.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Bildquelle: [Details](/licenses#uebung041))
-:::
-
-⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
+:::⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
 Ein Dieb wird von der Diebstahlsschuld befreit durch Bestrafung oder durch Freilassung. Wenn ihn aber der König nicht bestraft, dann übernimmt er die Schuld des Diebes.
 
@@ -135,11 +129,9 @@ Ein Dieb wird von der Diebstahlsschuld befreit durch Bestrafung oder durch Freil
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 Die Wirtschaft ist nützlich, weil sie Getreide, Vieh, Gold, Metalle und Arbeit hervorbringt.
 
-::: media
+:::media
 ![](/images/uebung042.webp)
 Abb.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Bildquelle: [Details](/licenses#uebung042))
-:::
-
-⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
+:::⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
 Deswegen haben die drei Wissenschaften den Stock (daṇḍa) als Grundlage. Der Stock, der die Grundlage von gutem Verhalten ist, bringt den Lebewesen Erwerb und sicheren Besitz. Gutes Verhalten ist erarbeitet bzw. angeboren. Tätigkeit erzieht nämlich ein geeignetes Material, kein ungeeignetes. Wissen erzieht einen Geist, der durch Gehorsam, Zuhören, Bergreifen, Verstehen und Überlegen zur Wahrheit gekommen ist, nicht einen anderen. ... Aus Gehörten entsteht nämlich Erkenntnis, aus Erkenntnis Praxis, aus Praxis Selbstbesitz; so entsprechen die Wissenschaften ihrem Zweck. Wissen und gutes Verhalten ist die Ursache für den Sieg über die Sinne. Dieser ist nötig, um Lüsternheit, Hass, Gier, Einbildung, Rausch und Erregung abzulegen.

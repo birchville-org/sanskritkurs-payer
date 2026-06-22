@@ -21,8 +21,8 @@ last_reconstructed: 2026-05-07
 
 În gramatica tradițională indiană se face distincție între sufixele cu care se formează rădăcinile nominale:
 
-- **sufixe kṛt (कृत्) (sufixe primare):** formează din rădăcinile verbale (**dhātu** m. = धातु) și din stemelor verbale, stemen nominale, absolutivi și infinitivi.
-- **sufixe taddhita (तद्धित) (sufixe secundare):** se atașează la stemen nominale și indeclinabile și formează noi stemen nominale, respectiv indeclinabile.
+- **sufixe kṛt (⟪कृत्⟫) (sufixe primare):** formează din rădăcinile verbale (**dhātu** m. = ⟪धातु⟫) și din stemelor verbale, stemen nominale, absolutivi și infinitivi.
+- **sufixe taddhita (⟪तद्धित⟫) (sufixe secundare):** se atașează la stemen nominale și indeclinabile și formează noi stemen nominale, respectiv indeclinabile.
 
 :::grammar-box
 **Schema:**
@@ -33,23 +33,23 @@ last_reconstructed: 2026-05-07
 
 ## 8.2. Clasificarea sufixelor nominale
 
-- **kṛt (kṛdanta) = कृत् (कृदन्त)**
-  - **kārakakṛt** (कारककृत्) » nume de agent (denumesc pe cineva care face ceea ce indică rădăcina)
-  - **kṛtikṛt** (कृतिकृत्) » nume de acțiune (denumesc acțiunea exprimată de rădăcină) respectiv abstracte
+- **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
+  - **kārakakṛt** (⟪कारककृत्⟫) » nume de agent (denumesc pe cineva care face ceea ce indică rădăcina)
+  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nume de acțiune (denumesc acțiunea exprimată de rădăcină) respectiv abstracte
 
 - **taddhita**
-  - **viśeṣyataddhita** (विशेष्यतद्धित) » adjective
-  - **bhāvārthakataddhita (tanmātrataddhita)** (भावार्थकतद्धित / तन्मात्रतद्धित) » abstracte
-  - **tadvattaddhita** (तद्वत्तद्धित) » posesiv (de ex. **-mant** -मन्त्, **-vant** -वन्त्)
-  - **tolanataddhita (atiśāyanataddhita)** (तोलनतद्धित / अतिशायनतद्धित) » comparație (comparativ, superlativ), comparație
-  - **pūraṇataddhita** (पूरणतद्धित) » numere ordinale (primul etc.)
-  - **vibhaktitaddhita** (विभक्तितद्धित) » în loc de terminații cazuale (de ex. **-tas** -तस्, **-tra** -त्र)
-  - **abhūtatadbhāva (cvitaddhita)** (अभूततद्भाव / च्वितद्धित) » (formări cvi च्वि, **-sāt** -सात्)
+  - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » adjective
+  - **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » abstracte
+  - **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » posesiv (de ex. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
+  - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » comparație (comparativ, superlativ), comparație
+  - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » numere ordinale (primul etc.)
+  - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » în loc de terminații cazuale (de ex. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
+  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (formări cvi ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
 **Clasificare după ablaut:**
-- **guṇya** (गुण्य): formare cu grad intens
-- **na guṇya** (न गुण्य): formare cu grad scăzut
-- **vṛddhyarha** (वृद्ध्यर्ह): formare cu grad lung
+- **guṇya** (⟪गुण्य⟫): formare cu grad intens
+- **na guṇya** (⟪न⟫ ⟪गुण्य⟫): formare cu grad scăzut
+- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): formare cu grad lung
 
 ## 8.3. Unele sufixe nominale importante
 
@@ -61,18 +61,18 @@ last_reconstructed: 2026-05-07
 **Sufixul kṛt -a formează substantive masculine (rar neutre) care denumesc o acțiune sau o stare indicată de rădăcină; uneori și adjective sau substantive care exprimă agentul (kartṛ) acțiunii indicată de rădăcina verbală. Pentru penultima scurtă (= vocală înainte de consoanța pe care se termină rădăcina) sau vocala finală a rădăcinii, se substituie de obicei gradul ridicat (guṇa) sau gradul lungit (vṛddhi).**
 :::**Exemple:**
 
-| Rădăcină[[br]]धातु | + -a (kṛt) | Semnificație |
+| Rădăcină:br⟪धातु⟫ | + -a (kṛt) | Semnificație |
 | :--- | :--- | :--- |
-| **ji** 1 P[[br]]आप्[[br]]"a învinge" | **jaya** m.[[br]]जय | "învingerea, victoria" |
-| **muh** 4 P[[br]]मुह्[[br]]"a fi confuz" | **moha** m.[[br]]मोह | "confuzie, iluzie, eroare" |
-| **krudh** 4 P[[br]]क्रुध्[[br]]"a se mânia" | **krodha** m.[[br]]क्रोध | "mânie" |
-| **kup** 4 P[[br]]कुप्[[br]]"a se mânia" | **kopa** m.[[br]]कोप | "mânie" |
-| **lubh** 4 P[[br]]लुभ्[[br]]"a dori" | **lobha** m.[[br]]लोभ | "poftă" |
-| **labh** 1 Ā[[br]]लभ्[[br]]"a obține" | **lābha** m.[[br]]लाभ | "obținerea, profitul" |
-| **sṛj** 6 P[[br]]सृज्[[br]]"a elibera,⟨BR>a lăsa să emană" | **sarga** m.[[br]]सर्ग | "eliberarea, emanarea, creația" (pentru sandhi cuvântului j » g vezi mai târziu) |
-| **śru** 5 P[[br]]श्रु[[br]]"a auzi" | **śrava** m.[[br]]श्रव | "ascultarea" |
-| **bhū** 1 P[[br]]भू[[br]]"a deveni, a fi" | **bhāva** m.[[br]]भाव | "devenirea, (a fi) ceva, natură, caracter" |
-| **yudh** 4 Ā[[br]]युध्[[br]]"a lupta" | **yodha** m.[[br]]योध | "luptător, soldat" |
+| **ji** 1 P:br⟪आप्⟫:br"a învinge" | **jaya** m.:br⟪जय⟫ | "învingerea, victoria" |
+| **muh** 4 P:br⟪मुह्⟫:br"a fi confuz" | **moha** m.:br⟪मोह⟫ | "confuzie, iluzie, eroare" |
+| **krudh** 4 P:br⟪क्रुध्⟫:br"a se mânia" | **krodha** m.:br⟪क्रोध⟫ | "mânie" |
+| **kup** 4 P:br⟪कुप्⟫:br"a se mânia" | **kopa** m.:br⟪कोप⟫ | "mânie" |
+| **lubh** 4 P:br⟪लुभ्⟫:br"a dori" | **lobha** m.:br⟪लोभ⟫ | "poftă" |
+| **labh** 1 Ā:br⟪लभ्⟫:br"a obține" | **lābha** m.:br⟪लाभ⟫ | "obținerea, profitul" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"a elibera,⟨BR>a lăsa să emană" | **sarga** m.:br⟪सर्ग⟫ | "eliberarea, emanarea, creația" (pentru sandhi cuvântului j » g vezi mai târziu) |
+| **śru** 5 P:br⟪श्रु⟫:br"a auzi" | **śrava** m.:br⟪श्रव⟫ | "ascultarea" |
+| **bhū** 1 P:br⟪भू⟫:br"a deveni, a fi" | **bhāva** m.:br⟪भाव⟫ | "devenirea, (a fi) ceva, natură, caracter" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"a lupta" | **yodha** m.:br⟪योध⟫ | "luptător, soldat" |
 
 ---
 
@@ -82,14 +82,14 @@ last_reconstructed: 2026-05-07
 **Sufixul kṛt -ana formează de obicei substantive neutre care denotă o acțiune, o stare sau mijlocul/unealta prin care acțiunea indicată de rădăcină sau de un temei verbal se realizează. Pentru o penultimă scurtă sau un vocal final al rădăcinii, se substituie de obicei gradul ridicat (guṇa).**
 :::**Exemple:**
 
-| Rădăcină[[br]]धातु | + -ana (kṛt) | Semnificație |
+| Rădăcină:br⟪धातु⟫ | + -ana (kṛt) | Semnificație |
 | :--- | :--- | :--- |
-| **gam** 1 P[[br]]गम्[[br]]"a merge" | **gamana** n.[[br]]गमन | "mersul" |
-| **nī** 1 U[[br]]नी[[br]]"a conduce" | **nayana** n.[[br]]नयन | "(unealta de a conduce, adică) ochi" |
-| **śru** 5 P[[br]]श्रु[[br]]"a auzi" | **śravaṇa** n.[[br]]श्रवण | "(unealta de a auzi =) ureche" |
-| **kṛ** 8 U[[br]]कृ[[br]]"a face" | **kāraṇa** n.[[br]]कारण | "(ceea ce face ceva, adică) cauză, motiv" |
-| **bhū** 1 P[[br]]भू[[br]]"a deveni" | **bhavana** n.[[br]]भवन | " devenirea, nașterea" |
-| **dṛś** 4 P[[br]]दृश्[[br]]"a vedea" | **darśana** n.[[br]]दर्शन | "vederea, perspectiva, sistemul filosofic, aparența, în special: Darśan" |
+| **gam** 1 P:br⟪गम्⟫:br"a merge" | **gamana** n.:br⟪गमन⟫ | "mersul" |
+| **nī** 1 U:br⟪नी⟫:br"a conduce" | **nayana** n.:br⟪नयन⟫ | "(unealta de a conduce, adică) ochi" |
+| **śru** 5 P:br⟪श्रु⟫:br"a auzi" | **śravaṇa** n.:br⟪श्रवण⟫ | "(unealta de a auzi =) ureche" |
+| **kṛ** 8 U:br⟪कृ⟫:br"a face" | **kāraṇa** n.:br⟪कारण⟫ | "(ceea ce face ceva, adică) cauză, motiv" |
+| **bhū** 1 P:br⟪भू⟫:br"a deveni" | **bhavana** n.:br⟪भवन⟫ | " devenirea, nașterea" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"a vedea" | **darśana** n.:br⟪दर्शन⟫ | "vederea, perspectiva, sistemul filosofic, aparența, în special: Darśan" |
 
 :::media
 ![](/images/lekt0801.webp)
@@ -108,15 +108,15 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 **Sufixul kṛt -tra formează (în majoritate) substantive neutre, care indică mijlocul sau instrumentul prin care se realizează acțiunea indicată de rădăcină. Vocala scurtă penultimă și vocala finală a rădăcinii sunt înlocuite prin etapa superioară (guṇa).**
 :::**Exemple:**
 
-| Rădăcină[[br]]धातु | + -tra (kṛt) | Semnificație |
+| Rădăcină:br⟪धातु⟫ | + -tra (kṛt) | Semnificație |
 | :--- | :--- | :--- |
-| **nī** 1 U[[br]]नी[[br]]"a conduce" | **netra** n.[[br]]नेत्र | "(Mijlocul de a conduce =) ochi" |
-| **śru** 5 P[[br]]श्रु[[br]]"a auzi" | **śrotra**[[br]]श्रोत्र | "(Instrumentul de auzire =) ureche" |
-| **man** 4 Ā[[br]]मन्[[br]]"a gândi" | **mantra** **m. (!)**[[br]]मन्त्र | "(Instrumentul de gândire:) formulă, formulă 'magică' (mantra)" |
-| **tan** 8 U[[br]]तन्[[br]]"a întinde" | **tantra** n.[[br]]तन्त्र | "urzeală" |
+| **nī** 1 U:br⟪नी⟫:br"a conduce" | **netra** n.:br⟪नेत्र⟫ | "(Mijlocul de a conduce =) ochi" |
+| **śru** 5 P:br⟪श्रु⟫:br"a auzi" | **śrotra**:br⟪श्रोत्र⟫ | "(Instrumentul de auzire =) ureche" |
+| **man** 4 Ā:br⟪मन्⟫:br"a gândi" | **mantra** **m. (!)**:br⟪मन्त्र⟫ | "(Instrumentul de gândire:) formulă, formulă 'magică' (mantra)" |
+| **tan** 8 U:br⟪तन्⟫:br"a întinde" | **tantra** n.:br⟪तन्त्र⟫ | "urzeală" |
 
 :::media
-**Mantra primordială Oṃ (ॐ) în diverse texte indiene**
+**Mantra primordială Oṃ (⟪ॐ⟫) în diverse texte indiene**
 
 | ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
 | :---: | :---: |
@@ -134,15 +134,15 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 **Sufixul kṛt -ti formează substantive feminine care, în general, exprimă acțiunea indicată de rădăcină sau starea indicată de rădăcină. Forma rădăcinii este în grad redus.**
 :::**Exemple:**
 
-| Rădăcină[[br]]धातु | + -ti (kṛt) | Semnificație |
+| Rădăcină:br⟪धातु⟫ | + -ti (kṛt) | Semnificație |
 | :--- | :--- | :--- |
-| **śru** 5 P[[br]]श्रु[[br]]"a auzi" | **śruti** f.[[br]]श्रुति | "ascultarea, Veda" |
-| **smṛ** 1 P[[br]]स्मृ[[br]]"a reaminti" | **smṛti** f.[[br]]स्मृति | "Reamintirea, amintire, tradiție, atenție" |
-| **nī** 1 U[[br]]नी[[br]]"a conduce" | **nīti** f.[[br]]नीति | "conducerea, ghidare, comportament" |
-| **sṛj** 6 P[[br]]सृज्[[br]]"a emana" | **sṛṣṭi** f.[[br]]सृष्टि | "emanare, creație" |
-| **dṛś** 4 P[[br]]दृश्[[br]]"a vedea" | **dṛṣṭi** f.[[br]]दृष्टि | "privire, față, perspectivă" |
-| **gam** 1 P[[br]]गम्[[br]]"a merge" | **gati** f.[[br]]गति | "mers, curs, scopul mersului" (din *gm » ga + -ti) |
-| **man** 4 Ā[[br]]मन्[[br]]"a gândi" | **mati** f.[[br]]मति | "gândire, gând, opinie" (din *mn » ma + -ti) |
+| **śru** 5 P:br⟪श्रु⟫:br"a auzi" | **śruti** f.:br⟪श्रुति⟫ | "ascultarea, Veda" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"a reaminti" | **smṛti** f.:br⟪स्मृति⟫ | "Reamintirea, amintire, tradiție, atenție" |
+| **nī** 1 U:br⟪नी⟫:br"a conduce" | **nīti** f.:br⟪नीति⟫ | "conducerea, ghidare, comportament" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"a emana" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "emanare, creație" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"a vedea" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "privire, față, perspectivă" |
+| **gam** 1 P:br⟪गम्⟫:br"a merge" | **gati** f.:br⟪गति⟫ | "mers, curs, scopul mersului" (din *gm » ga + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"a gândi" | **mati** f.:br⟪मति⟫ | "gândire, gând, opinie" (din *mn » ma + -ti) |
 
 *Notă: \* în fața unei forme indică faptul că această formă nu apare în sanscrită, ci este dedusă teoretic ca premisă pentru o anumită formare. Gradul redus al **gam** este gṃ = \*gm, iar m este înlocuit prin **a** ca nasalis sonans » **ga**. Analogie se aplică și pentru **man** » **ma**.
 
@@ -154,72 +154,72 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 **Sufixele taddhita -tva n. respectiv -tā f. formează substantive abstracte la nominal. Forma radicalului nominal de bază rămâne neschimbată.**
 :::**Exemple:**
 
-| Radical nominal[[br]]नामप्रातिपदिक | + -tva n.[[br]](taddhita) | + -tā f.[[br]](taddhita) | Semnificație |
+| Radical nominal:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Semnificație |
 | :--- | :--- | :--- | :--- |
-| **guru**[[br]]गुरु[[br]]3 "greu, demn,[[br]]m. maestru" | **gurutva** n.[[br]]गुरुत्व | **gurutā** f.[[br]]गुरुता | "greutate, demnitate,[[br]]a fi maestru (esența sau natura unui maestru)" |
-| **brāhmaṇa**[[br]]ब्राह्मण[[br]]m. "brahman" | **brāhmaṇatva** n.[[br]]ब्राह्मणत्व | **brāhmaṇatā** f.[[br]]ब्राह्मणता | "a fi brahman,[[br]]ceea ce face pe cineva brahman,[[br]]esență/natură a unui brahman" |
-| **deva**[[br]]देव[[br]]m. "ceresc, zeu" | — | **devatā** f.[[br]]देवता | "zeitate" |
+| **guru**:br⟪गुरु⟫:br3 "greu, demn,:brm. maestru" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "greutate, demnitate,:bra fi maestru (esența sau natura unui maestru)" |
+| **brāhmaṇa**:br⟪ब्राह्मण⟫:brm. "brahman" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "a fi brahman,:brceea ce face pe cineva brahman,:bresență/natură a unui brahman" |
+| **deva**:br⟪देव⟫:brm. "ceresc, zeu" | — | **devatā** f.:br⟪देवता⟫ | "zeitate" |
 
 Aceste formațiuni pot fi formate practic la orice substantiv și sunt foarte frecvente în lucrările științifice de sanscrită.
 
 ---
 
-## 8.4. Clasa a 8-a de prezens (tanādi = तनादि = „tan și altele”)
+## 8.4. Clasa a 8-a de prezens (tanādi = ⟪तनादि⟫ = „tan și altele”)
 
 :::grammar-box
 **Formarea temei:**
 - **Temă puternică: Rădăcină + -o-**
 - **Temă slabă: Rădăcină + -u- (înaintea vocală: -v-)**
 
-Exemplu **tan** 8 U (तन्) „a întinde”:
-- 3\. sg. P. **tanoti**[[br]]तनोति
-- 3\. pl. P. **tanvanti**[[br]]तन्वन्ति
-- 3\. sg. Ā. **tanute**[[br]]तनुते
-- 3\. pl. Ā. **tanvate**[[br]]तन्वते
+Exemplu **tan** 8 U (⟪तन्⟫) „a întinde”:
+- 3\. sg. P. **tanoti**:br⟪तनोति⟫
+- 3\. pl. P. **tanvanti**:br⟪तन्वन्ति⟫
+- 3\. sg. Ā. **tanute**:br⟪तनुते⟫
+- 3\. pl. Ā. **tanvate**:br⟪तन्वते⟫
 :::Notă: În legătură cu disputa privind faptul dacă **tan** este de fapt o rădăcină a celei de-a 5-a clase (*tn » ta + no-), vezi Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
-Cea mai importantă rădăcină a celei de-a 8-a clase este **kṛ** 8 U (कृ) „a face, a executa”. Conjugarea sa este neregulată:
+Cea mai importantă rădăcină a celei de-a 8-a clase este **kṛ** 8 U (⟪कृ⟫) „a face, a executa”. Conjugarea sa este neregulată:
 
 :::grammar-box
-**kṛ 8 U (कृ) „a face, a executa”**
-- 3\. sg. P. **karoti**[[br]]करोति
-- 3\. pl. P. **kurvanti**[[br]]कुर्वन्ति
-- 3\. sg. Ā. **kurute**[[br]]कुरुते
-- 3\. pl. Ā. **kurvate**[[br]]कुर्वते
+**kṛ 8 U (⟪कृ⟫) „a face, a executa”**
+- 3\. sg. P. **karoti**:br⟪करोति⟫
+- 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
+- 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
+- 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
 :::---
 
 ## 8.5. Listă de cuvinte
 
 **Învățați următoarele cuvinte:**
 
-- **ji** 1 P (jayati) जि जयति : a învinge, a birui, a cucerii
-- **labh** 1 Ā (labhate) लभ् लभते : a apuca, a obține, a prinde
-- **tu** तु : dar (se află după primul cuvânt al propoziției sau părții de propoziție opuse)
-- **paś** 4 P (paśyati) पश् पश्यति : a vedea, a zări (este folosit ca temă de prezent în loc de rădăcina **dṛś** 0 "a vedea, a zări")
-- **kṛ** 8 U (karoti) कृ करोति : a face, a face
-- **tan** 8 U (tanoti) तन् तनोति : a întinde
-- **rakṣ** 1 P (rakṣati) रक्ष् रक्षति : a păzi
-- **sārathi** m. सारथि : caruț, șofer de caruță
-- **kapi** m. कपि : maimuță
-- **kumārī** f. कुमारी : fata, fecioara
-- **nāga** m. नाग : cel nud, elefantul, șarpele (elefantul și șarpele nu au blană, la fel ca și "omul nud" maimuță)
-- **gaja** m. गज : elefant
-- **śuc** 1 P (śocati) शुच् शोचति : a plânge, a fi întristat
-- **śuka** m. शुक : papagal
-- **pat** 1 P (patati) पत् पतति : a cădea, a zbura
-- **patrikā** f. पत्रिका : scrisoare
-- **likh** 1 P (likhati) लिख् लिखति : a grava, a scrie (inițial cu un instrument de grăpat pe o frunză de palmier, apoi în general)
+- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : a învinge, a birui, a cucerii
+- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : a apuca, a obține, a prinde
+- **tu** ⟪तु⟫ : dar (se află după primul cuvânt al propoziției sau părții de propoziție opuse)
+- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : a vedea, a zări (este folosit ca temă de prezent în loc de rădăcina **dṛś** 0 "a vedea, a zări")
+- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : a face, a face
+- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : a întinde
+- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : a păzi
+- **sārathi** m. ⟪सारथि⟫ : caruț, șofer de caruță
+- **kapi** m. ⟪कपि⟫ : maimuță
+- **kumārī** f. ⟪कुमारी⟫ : fata, fecioara
+- **nāga** m. ⟪नाग⟫ : cel nud, elefantul, șarpele (elefantul și șarpele nu au blană, la fel ca și "omul nud" maimuță)
+- **gaja** m. ⟪गज⟫ : elefant
+- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : a plânge, a fi întristat
+- **śuka** m. ⟪शुक⟫ : papagal
+- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : a cădea, a zbura
+- **patrikā** f. ⟪पत्रिका⟫ : scrisoare
+- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : a grava, a scrie (inițial cu un instrument de grăpat pe o frunză de palmier, apoi în general)
 
 :::media
 ![](/images/lekt0809.jpg)
-Fig.: **likh** (लिख्) : instrument de scris indian din oțel pentru gravat pe frunze de palmier
+Fig.: **likh** (⟪लिख्⟫) : instrument de scris indian din oțel pentru gravat pe frunze de palmier
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0809))
 ::::::media
 ![](/images/lekt0810.jpg)
-Fig.: **likh** (लिख्) : bețișor de scris al Batak (Sumatra), așa cum era probabil folosit și în India
+Fig.: **likh** (⟪लिख्⟫) : bețișor de scris al Batak (Sumatra), așa cum era probabil folosit și în India
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0809))
-:::- **sukha** n. सुख : fericire, bunăstare
-- **duḥkha** n. दुःख : nefericire, suferință
+:::- **sukha** n. ⟪सुख⟫ : fericire, bunăstare
+- **duḥkha** n. ⟪दुःख⟫ : nefericire, suferință
 
 ---
 
@@ -277,21 +277,21 @@ Fig.: **likh** (लिख्) : bețișor de scris al Batak (Sumatra), așa cum 
 
 ## 8.7. Exercițiu de citire și traducere
 
-1. शूद्रो बालं नयति |
-2. कविर्देवं यजते |
-3. साधुः फलानि खादति |
-4. गुरुः क्रोधं जयति |
-5. देवो नरकं सृजति |
-6. धेनुर्ग्रामं विशति |
-7. कामक्रोधलोभा नरकं नयन्ति |
-8. देवतां यजति |
-9. बाला भवति |
-10. सारथी रथं नयति |
-11. कपयः फलानि खादन्ति |
-12. बाला लिखति |
-13. कुमारी गृहं विशति |
-14. देवो नागं सृजति |
-15. बालो गजं नयति |
-16. विमला शोचति | (विमला nume propriu Vimalā)
-17. शुकः पतति |
-18. बालः पत्रिकां लिखति |
+1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
+2. ⟪कविर्देवं⟫ ⟪यजते⟫ |
+3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
+4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
+5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
+6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
+7. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
+8. ⟪देवतां⟫ ⟪यजति⟫ |
+9. ⟪बाला⟫ ⟪भवति⟫ |
+10. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
+11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
+12. ⟪बाला⟫ ⟪लिखति⟫ |
+13. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
+14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
+15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
+16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ nume propriu Vimalā)
+17. ⟪शुकः⟫ ⟪पतति⟫ |
+18. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |

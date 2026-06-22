@@ -4,10 +4,10 @@ layout: home
 hero:
   name: Cours de sanskrit
   text: Un cours complet
-  tagline: par Alois Payer (Bibliothèque de la Communauté Mondiale de Tüpfli)
+  tagline: par Alois Payer (Bibliothèque du Village Global de Tüpfli)
   actions:
     - theme: brand
-      text: Lancer le cours
+      text: Commencer le cours
       link: /fr/lektionen/lektion01
     - theme: alt
       text: Sujets de grammaire
@@ -15,20 +15,20 @@ hero:
 
 features:
   - title: Devanāgarī ready
-    details: Une typographie parfaite et intégrée pour les écritures indiennes.
+    details: Typographie parfaite et intégrée pour les écritures indiennes.
   - title: Facilement consultable
     details: Une recherche en texte intégral locale approfondie garde le savoir à portée de clic.
   - title: Architecture moderne
     details: Construit sur les fondations de VitePress pour une vitesse maximale.
 ---
 
-:::tip Version 1.4 — Offline-First PWA
-**Nouveautés de la v1.4 (Juin 2026):**
+:::tip Version 1.5 — Hebrew Translation & Typography
+**Nouveau dans v1.5 (juin 2026) :**
 
-- **Progressive Web App (PWA):** Le cours peut désormais être installé sous forme d'application sur ordinateur et smartphone (iOS/Android).
-- **Entièrement Hors Ligne:** Tout le contenu sélectionné est stocké localement et est utilisable sans connexion Internet.
-- **Mise en cache dynamique:** Les paramètres (Settings) permettent de contrôler à tout moment quelles des 14 langues doivent être disponibles hors ligne.
-- **Haute Performance:** Réduction massive des temps de chargement et de la consommation de données grâce aux images WebP hautement compressées.
+- **Nouvelle langue (hébreu) :** Le cours entier est désormais également disponible en hébreu (avec prise en charge RTL).
+- **Typographie sanskrite :** Uniformisation à l'échelle du système et mise en évidence colorée du devanāgarī dans toutes les langues de traduction.
+- **Améliorations PWA :** Stabilisation accrue de l'application web progressive pour l'utilisation hors ligne.
 
-**Remarques et rapports de bogues:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Remarques et signalements d'erreurs :** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Contribuer en tant qu'auteur ou correcteur :** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 :::

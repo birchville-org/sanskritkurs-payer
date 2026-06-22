@@ -107,13 +107,11 @@ Weil sie über den Dharma hören wollte, ist die Brahmanin mit ihrem Sohn in die
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫  
 Essen, Schlafen, Furcht und Sex ist den Menschen mit dem Vieh gemein. Der hervorhebende Unterschied der Menschen liegt im Dharma. Ohne Dharma sind sie dem Vieh gleich.
 
-::: media
+:::media
 ![](/images/uebung035.webp)
 Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Bildquelle: [Details](/licenses#uebung035))
-:::
-
----
+:::---
 
 ## Zusätzliche Übungen
 
@@ -169,7 +167,7 @@ B) Deklinieren Sie in allen Ihnen bekannten Kasus **⟪क्षत्रिय�
 
 C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben:
 
-::: grammar-box
+:::grammar-box
 ⟪१⟫. **⟪सह्⟫** (1Ā, ertragen)
 
 | Form | Wert |
@@ -213,9 +211,7 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 | Absolutiv 1 | ⟪हत्वा⟫ |
 | Absolutiv 2 | -⟪हत्य⟫ |
 | Infinitiv | ⟪हन्तुम्⟫ |
-:::
-
-::: media
+::::::media
 ![](/images/uebung036.webp)
 Abb.: ⟪बालाः⟫ ⟪पिबन्ति⟫
 (Bildquelle: [Details](/licenses#uebung036))

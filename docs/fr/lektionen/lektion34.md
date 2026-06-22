@@ -6,20 +6,20 @@ status: stable
 
 # Leçon 34
 
-## 34.1. Le parfait (लिट्)
+## 34.1. Le parfait (⟪लिट्⟫)
 
 En sanskrit classique, il n’existe que l’indicatif et le participe à partir du thème du parfait.
 
 :::grammar-box
 **Il existe deux types de formation du parfait :**
-*   **le parfait redoublé = द्वित्वलिट्**
-*   **le parfait périphrastique = अनुप्रयोगलिट्**
+*   **le parfait redoublé = ⟪द्वित्वलिट्⟫**
+*   **le parfait périphrastique = ⟪अनुप्रयोगलिट्⟫**
 ::::::grammar-box
-**Le parfait périphrastique (अनुप्रयोगलिट्) est utilisé :**
+**Le parfait périphrastique (⟪अनुप्रयोगलिट्⟫) est utilisé :**
 1. **pour les conjugaisons dérivées (causatif, desideratif, fréquentatif, dénominal)**
 2. **pour les racines commençant par une voyelle longue (sauf ā-) ou par une voyelle (sauf a-) suivie de deux consonnes**
 3. **pour certaines autres racines**
-:::## 34.2. Le parfait à redoublement (द्वित्वलिट्)
+:::## 34.2. Le parfait à redoublement (⟪द्वित्वलिट्⟫)
 
 ### 34.2.1. Degré de la racine
 
@@ -68,9 +68,9 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| भिद् | ***बि***भेद |
-| मुच् | ***मु***मोच |
-| भृ | ***ब***भार |
+| ⟪भिद्⟫ | ***⟪बि⟫***⟪भेद⟫ |
+| ⟪मुच्⟫ | ***⟪मु⟫***⟪मोच⟫ |
+| ⟪भृ⟫ | ***⟪ब⟫***⟪भार⟫ |
 
 :::::::grammar-box
 **Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".**
@@ -80,8 +80,8 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| वच् | उवाच[[br]]u-vāc-a | ऊचुर्[[br]]u + uc-ur |
-| यज् | इयाज[[br]]i-yāj-a | ईजुर्[[br]]i + ij-ur |
+| ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 ::::### 34.2.5. Reduplication des vocaliques initiales
 
@@ -93,7 +93,7 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 
 | Racine | 3. sg. Perf. P. |
 | :--- | :--- |
-| अस् 2 "être" et अस् 4 "jeter" | आस[[br]]a + as-a |
+| ⟪अस्⟫ 2 "être" et ⟪अस्⟫ 4 "jeter" | ⟪आस⟫:bra + as-a |
 
 :::::::grammar-box
 **2. Les racines avec un i- initial ont comme syllabe de reduplication iy- dans le thème fort, i- dans le thème faible, qui se « fusionne » avec le vocalisme de la racine en ī-. Une analogie similaire vaut pour un u- initial.**
@@ -103,8 +103,8 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 
 | Racine | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| इ | इयाय[[br]]iy + ai + a | ईयुर्[[br]]i + iy-ur |
-| इष् | इयेष[[br]]iy-eṣ-a | ईषुर्[[br]]i + iṣ-ur |
+| ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
 :::::::grammar-box
 **3. Les racines qui commencent par a- devant deux consonnes ou par ṛ- ont comme syllabe de reduplication ān-**
@@ -114,8 +114,8 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 
 | Racine | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| अञ्ज् | आनञ्ज | आनञ्जुर् |
-| एध् | आनर्ध | आनृधुर् |
+| ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
+| ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
 ::::## 34.3. Types de parfait à redoublement
 
@@ -138,11 +138,11 @@ Principe de classification : particularités de l’alternance vocalique du radi
 
 | Racine | 3. sg. Parf. | 3. pl. Parf. |
 | :--- | :--- | :--- |
-| बन्ध् 9P | बबन्ध[[br]]ba-bandh-a | बबन्धुर् |
-| जीव् 1P | जिजीव | जिजीवुर् |
-| आप् 5P | आप[[br]]a + āp-a | आपुर् |
-| अस् 2P "être"[[br]]अस् 4 "jeter" | आस[[br]]a + as-a | आसुर् |
-| अश् | आनशे[[br]]reduplication irrégulière ! | आनशिरे |
+| ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
+| ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
+| ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
+| ⟪अस्⟫ 2P "être":br⟪अस्⟫ 4 "jeter" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brreduplication irrégulière ! | ⟪आनशिरे⟫ |
 
 ::::## 34.5. Type de parfait II : Radical fort au degré supérieur, radical faible au degré inférieur
 
@@ -159,43 +159,43 @@ Principe de classification : particularités de l’alternance vocalique du radi
 
 | Racine | 3. sg. Parf. P. | 3. pl. Parf. P. | 3. sg. Parf. Ā. | 3. pl. Parf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| भिद् | बिभेद | बिभिदुर् | बिभिदे | बिभिदिरे |
-| इष् | इयेष | ईषुर् | | |
-| मुच् | मुमोच | मुमुचुर् | मुमुचे | मुमुचिरे |
-| वृत् | | | ववृते | ववृतिरे |
-| कॢप् | | | चकॢपे | चकॢपिरे |
+| ⟪भिद्⟫ | ⟪बिभेद⟫ | ⟪बिभिदुर्⟫ | ⟪बिभिदे⟫ | ⟪बिभिदिरे⟫ |
+| ⟪इष्⟫ | ⟪इयेष⟫ | ⟪ईषुर्⟫ | | |
+| ⟪मुच्⟫ | ⟪मुमोच⟫ | ⟪मुमुचुर्⟫ | ⟪मुमुचे⟫ | ⟪मुमुचिरे⟫ |
+| ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
+| ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
 ::::## 34.6. Liste de mots
 
-**क्षिति f. = पृथ्वी = मही = भूमी**
+**⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**शस्य = सस्य n. sg. et pl. :** semence, culture, céréale
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. et pl. :** semence, culture, céréale
 
 :::media
 ![](/images/lekt3406.webp)
-Fig. : सस्यम्
+Fig. : ⟪सस्यम्⟫
 Champ de riz en Inde.
 (Source de l'image : [Détails](/fr/licenses#lekt3406))
-:::**यावत् :** combien de temps, quelle taille
+:::**⟪यावत्⟫ :** combien de temps, quelle taille
 
-**तावत् :** aussi longtemps, aussi grand
+**⟪तावत्⟫ :** aussi longtemps, aussi grand
 
-**उत्तम 3 :** le plus élevé
+**⟪उत्तम⟫ 3 :** le plus élevé
 
-**द्वीप m.n. :** île, continent
+**⟪द्वीप⟫ m.n. :** île, continent
 
 :::media
 ![](/images/lekt3405.webp)
-Fig. : लक्षद्वीपाः
+Fig. : ⟪लक्षद्वीपाः⟫
 Carte des îles Lakshadweep.
 (Source de l'image : [Détails](/fr/licenses#lekt3405))
-:::**मर्त्य 3 :** mortel (de **मृ**)
+:::**⟪मर्त्य⟫ 3 :** mortel (de **⟪मृ⟫**)
 
-**तिल m. :** sésame (graine) (*Sesamum indicum* L.)
+**⟪तिल⟫ m. :** sésame (graine) (*Sesamum indicum* L.)
 
 :::media
 ![](/images/lekt3403.webp)
-Fig. : तिलाः
+Fig. : ⟪तिलाः⟫
 Graines de sésame.
 (Source de l'image : [Détails](/fr/licenses#lekt3403))
 ::::::media
@@ -203,102 +203,102 @@ Graines de sésame.
 Fig. : *Sesamum indicum* L.
 Fleuraison de la plante de sésame.
 (Source de l'image : [Détails](/fr/licenses#lekt3404))
-:::**स्वर्ण n. :** (de belle couleur =) or
+:::**⟪स्वर्ण⟫ n. :** (de belle couleur =) or
 
 :::media
 ![](/images/lekt3402.webp)
-Fig. : स्वर्णम्
+Fig. : ⟪स्वर्णम्⟫
 Temple d'Or (Harmandir Sahib), Amritsar.
 (Source de l'image : [Détails](/fr/licenses#lekt3402))
-:::**निकेतन n. :** demeure, temple
+:::**⟪निकेतन⟫ n. :** demeure, temple
 
-**कोटि f. :** pointe ; 10 millions
+**⟪कोटि⟫ f. :** pointe ; 10 millions
 
-**श्रेष्ठ 3 :** le meilleur
+**⟪श्रेष्ठ⟫ 3 :** le meilleur
 
-**तल m.n. :** plaine, surface
+**⟪तल⟫ m.n. :** plaine, surface
 
-**ऋषभ m. :** taureau
+**⟪ऋषभ⟫ m. :** taureau
 
 :::media
 ![](/images/lekt3401.webp)
-Fig. : ऋषभः
+Fig. : ⟪ऋषभः⟫
 Statue du taureau Nandi, collines de Chamundi, Mysore.
 (Source de l'image : [Détails](/fr/licenses#lekt3401))
-:::**यम् 1P यच्छति :** retenir, garder, offrir, accorder
+:::**⟪यम्⟫ 1P ⟪यच्छति⟫ :** retenir, garder, offrir, accorder
 
-**यम् + प्र 1P प्रयच्छति :** tendre, présenter, livrer
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** tendre, présenter, livrer
 
-**या 2P याति :** aller, voyager
+**⟪या⟫ 2P ⟪याति⟫ :** aller, voyager
 
-**कन्या f. :** fille, vierge
+**⟪कन्या⟫ f. :** fille, vierge
 
 ## 34.7. Exercice
 
 Formez les formes de parfait correspondant en personne, nombre et genre aux formes verbales suivantes :
 
-1. रक्षिष्यन्ति
-2. स्रक्ष्यति
-3. सिञ्चते
-4. वर्तते
-5. प्रवेक्ष्यति
-6. भनक्ति
-7. लुभ्यन्ति
-8. रुन्धते
-9. रोदितi → रोदिति
-10. बध्नाति
-11. युध्यन्ते
-12. युङ्क्ते
-13. मुह्यन्ति
-14. मुञ्चते
-15. जीवन्ति
-16. भोक्ष्यते
-17. आप्नुवन्ति
-18. भिन्त्ते
-19. भोत्स्यन्ते
-20. नर्तिष्यति
-21. अश्नाति
-22. द्वेष्टि
-23. पश्यन्ति
-24. दुग्धे
-25. सन्ति
-26. आदेक्ष्यन्ति
-27. छिनत्ति
-28. क्रुध्यति
-29. अस्यति
-30. कुप्यन्ति
-31. इच्छन्ति
+1. ⟪रक्षिष्यन्ति⟫
+2. ⟪स्रक्ष्यति⟫
+3. ⟪सिञ्चते⟫
+4. ⟪वर्तते⟫
+5. ⟪प्रवेक्ष्यति⟫
+6. ⟪भनक्ति⟫
+7. ⟪लुभ्यन्ति⟫
+8. ⟪रुन्धते⟫
+9. ⟪रोदित⟫i → ⟪रोदिति⟫
+10. ⟪बध्नाति⟫
+11. ⟪युध्यन्ते⟫
+12. ⟪युङ्क्ते⟫
+13. ⟪मुह्यन्ति⟫
+14. ⟪मुञ्चते⟫
+15. ⟪जीवन्ति⟫
+16. ⟪भोक्ष्यते⟫
+17. ⟪आप्नुवन्ति⟫
+18. ⟪भिन्त्ते⟫
+19. ⟪भोत्स्यन्ते⟫
+20. ⟪नर्तिष्यति⟫
+21. ⟪अश्नाति⟫
+22. ⟪द्वेष्टि⟫
+23. ⟪पश्यन्ति⟫
+24. ⟪दुग्धे⟫
+25. ⟪सन्ति⟫
+26. ⟪आदेक्ष्यन्ति⟫
+27. ⟪छिनत्ति⟫
+28. ⟪क्रुध्यति⟫
+29. ⟪अस्यति⟫
+30. ⟪कुप्यन्ति⟫
+31. ⟪इच्छन्ति⟫
 
 ## 34.8. Exercice de traduction
 
-Traduisez le texte suivant depuis le पद्मपुराण concernant les dons aux Brahmanes :
+Traduisez le texte suivant depuis le ⟪पद्मपुराण⟫ concernant les dons aux Brahmanes :
 
-क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजो***त्तम*** ।  
-विष्णुलोके सुखं भुङ्क्ते यावदिन्द्रा***श्चतुर्दश*** ॥१॥  
-***सप्त***द्वीपां महीं दत्त्वा यत्पुण्यं प्राप्यते द्विज ।  
-तत्पुण्यं प्राप्नुयान्मर्त्यो धेनुं यच्छन्द्विजातये ॥२॥  
-तिलप्रमाणं स्वर्णं यो ब्राह्मणाय प्रयच्छति ।  
-हरिनिकेतनं याति युक्तं कोटिकुलैरपि ॥३॥  
-सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः ।  
-स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥  
-अन्नं वारि द्विजश्रेष्ठ येन दत्तं महीतले ।  
-तेन दत्तानि दानानि सर्वाणि च द्विजर्षभ ॥५॥
+⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫***⟪त्तम⟫*** ⟪।⟫  
+⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫***⟪श्चतुर्दश⟫*** ⟪॥१॥⟫  
+***⟪सप्त⟫***⟪द्वीपां⟫ ⟪महीं⟫ ⟪दत्त्वा⟫ ⟪यत्पुण्यं⟫ ⟪प्राप्यते⟫ ⟪द्विज⟫ ⟪।⟫  
+⟪तत्पुण्यं⟫ ⟪प्राप्नुयान्मर्त्यो⟫ ⟪धेनुं⟫ ⟪यच्छन्द्विजातये⟫ ⟪॥२॥⟫  
+⟪तिलप्रमाणं⟫ ⟪स्वर्णं⟫ ⟪यो⟫ ⟪ब्राह्मणाय⟫ ⟪प्रयच्छति⟫ ⟪।⟫  
+⟪हरिनिकेतनं⟫ ⟪याति⟫ ⟪युक्तं⟫ ⟪कोटिकुलैरपि⟫ ⟪॥३॥⟫  
+⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫  
+⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
+⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तं⟫ ⟪महीतले⟫ ⟪।⟫  
+⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
 Explications :
 
 :::indent
-**Vocatif sing.** des masculins / neutres en -a se termine par -a : par ex. **देव** "Dieu !"
+**Vocatif sing.** des masculins / neutres en -a se termine par -a : par ex. **⟪देव⟫** "Dieu !"
 
-**चतुर्दश** quatorze
+**⟪चतुर्दश⟫** quatorze
 
-**सप्त** sept
+**⟪सप्त⟫** sept
 
-**जन्म** Nom./Acc. sg. de **जन्मन्** n. naissance
+**⟪जन्म⟫** Nom./Acc. sg. de **⟪जन्मन्⟫** n. naissance
 
-**सर्व 3** "tous, entier" (décliné selon la déclinaison pronominale)
+**⟪सर्व⟫ 3** "tous, entier" (décliné selon la déclinaison pronominale)
 ::::::media
 ![](/images/lekt3407.webp)
-Fig. : सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन***र्जन्म*** न विद्यते ॥४॥
+Fig. : ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Rituel de mariage hindou.
 (Source de l'image : [Détails](/fr/licenses#lekt3407))
 ::::::deleteme-box

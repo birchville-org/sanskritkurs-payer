@@ -11,7 +11,7 @@ status: stable
 
 ## 23.1. Der Infinitiv (⟪तुमुन्⟫)
 
-::: grammar-box
+:::grammar-box
 **Will man in Sanskrit ausdrücken, dass eine Tätigkeit um einer anderen Tätigkeit willen geschieht ("um zu"), kann man für die Tätigkeit, um deren willen es geschieht, den Infinitiv (⟪तुमुन्⟫) verwenden. Der Infinitiv bezeichnet in erster Linie den Zweck oder die Absicht:**
 
 > ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma ist gegangen, um die Rede des Meisters zu hören."
@@ -50,12 +50,9 @@ z.B.
 **Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied ⟪काम⟫ oder ⟪मनस्⟫ ist:**
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht".
-:::
+:::## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫)
 
-
-## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫)
-
-::: grammar-box
+:::grammar-box
 **hochstufige Wurzel + -tum**
 
 **oder**
@@ -65,34 +62,26 @@ z.B.
 **Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.**
 
 **Verben mit Präverb bilden den Infinitiv in gleicher Weise wie die einfachen Wurzeln.**
-:::
+:::Beispiele:
 
-Beispiele:
-
-::: indent
+:::indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
-:::
-
-Über die Verwendung des Bindevokals -i- lassen sich keine festen Regeln aufstellen. Im Wesentlichen stimmt die Verteilung des Bindevokals beim Infinitiv mit der des Futurs überein.
+:::Über die Verwendung des Bindevokals -i- lassen sich keine festen Regeln aufstellen. Im Wesentlichen stimmt die Verteilung des Bindevokals beim Infinitiv mit der des Futurs überein.
 
 Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten:
 
-::: indent
+:::indent
 ⟪गम्⟫ : ⟪गन्तुम्⟫
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
-:::
+:::-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
-
-::: indent
+:::indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
-:::
-
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+:::Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 
 ## 23.3. Der Infinitiv (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln
@@ -239,25 +228,19 @@ D) Übersetzen Sie und lösen Sie die Komposita auf:
 
 ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
 
-::: media
+:::media
 ![](/images/lekt2303.webp)
 Abb.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
 (Bildquelle: [Details](/licenses#lekt2303))
-:::
+:::⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
-
-⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
-
-::: media
+:::media
 ![](/images/lekt2301.webp)
 Abb.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
 (Bildquelle: [Details](/licenses#lekt2301))
-:::
-
-
-⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
+:::⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
 
 ⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫
 
@@ -274,15 +257,12 @@ C) Übersetzen Sie folgendes ⟪सुभाषितम्⟫
 
 Erklärung: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..."
 
-::: media
+:::media
 ![](/images/lekt2302.webp)
 Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Bildquelle: [Details](/licenses#lekt2302))
-:::
-
-
-## 23.6. Wiederholungsübung
+:::## 23.6. Wiederholungsübung
 
 Bitte keine Hilfsmittel benutzen!
 
@@ -302,16 +282,12 @@ A) Übersetzen Sie ins Sanskrit:
 
 7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik.
 
-::: media
+:::media
 ![](/images/lekt2304.jpg)
 Abb.: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004
 (Bildquelle: [Details](/licenses#lekt2304))
-:::
-
-
-
-8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäß der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
+:::8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäß der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
 
 9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden.
 
@@ -335,7 +311,7 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Bildquelle: Wikipedia. GNU FDLicense]
 

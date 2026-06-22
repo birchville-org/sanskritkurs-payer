@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammern ein und übersetzen Sie:
 
-::: grammar-box
+:::grammar-box
 ⟪१⟫. **⟪राज्ञि⟫** (oder: **⟪राजनि⟫**) **⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪राजन्⟫)
 Wenn der König Recht und Sitte hütet, sind die Leute ohne Furcht.
 
@@ -55,15 +55,11 @@ Gute Könige schenken den Menschen Furchtlosigkeit.
 
 ⟪१५⟫. **⟪राजसु⟫ ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫** (⟪राजन्⟫)
 Wenn Könige Recht und Sitte nicht hüten, sind die Menschen voll Furcht.
-:::
-
-::: media
+::::::media
 ![](/images/uebung063.webp)
 Abb.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Bildquelle: [Details](/licenses#uebung063))
-:::
-
----
+:::---
 
 ## Erzählung: Zehn Toren (⟪दश⟫ ⟪मूढाः⟫)
 

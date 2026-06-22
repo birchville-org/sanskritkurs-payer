@@ -273,6 +273,9 @@ def translate_phrase(text, lang):
     if not text.strip():
         return text
     
+    if lang not in GRAMMAR_DICT:
+        return text
+        
     translated = text
     # Order keys by length descending to prevent substring issues
     keys_sorted = sorted(GRAMMAR_DICT[lang].keys(), key=len, reverse=True)
@@ -502,7 +505,7 @@ def align_and_merge_blocks(german_blocks, target_blocks, lang):
                 elif '[[br]]' in g_cell and any(c for c in g_cell if '\u0900' <= c <= '\u097f'):
                     cell_val = translate_phrase(g_cell, lang)
                 # If cell is purely grammatical (like 'Singular', 'Dativ'), translate it
-                elif not g_anchors and any(k in g_cell for k in GRAMMAR_DICT[lang].keys()):
+                elif not g_anchors and any(k in g_cell for k in GRAMMAR_DICT.get(lang, {}).keys()):
                     cell_val = translate_phrase(g_cell, lang)
                 # If cell is a Sanskrit grammatical ending or placeholder, keep the German master's style
                 elif '-' in g_cell or 'Ø' in g_cell:

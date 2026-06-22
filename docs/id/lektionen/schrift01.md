@@ -1,4 +1,4 @@
-# Devanāgarī = देवनागरी
+# Devanāgarī = ⟪देवनागरी⟫
 
 ## Writing Exercise 1
 
@@ -12,15 +12,15 @@ The most important modern North Indian Sanskrit script is Devanāgarī:
 
 ![](/images/schrift002.webp)
 
-Each consonant character denotes a following "a" with the consonant. If the pure consonant is to be written (without a following vowel), this must be indicated by an underlined slash -- virāma = विराम --:
+Each consonant character denotes a following "a" with the consonant. If the pure consonant is to be written (without a following vowel), this must be indicated by an underlined slash -- virāma = ⟪विराम⟫ --:
 
-क् = k, च् = c, ट् = ṭ, त्  = t, प् = p
+⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
 Vowels following a consonant -- except "a" -- are written as follows:
 
-का = kā, कि = ki, की = kī, कु = ku, कू = kū, कृ = kṛ, कॄ = kṝ, कॢ  = kḷ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
-के = ke, कै = kai, को = ko, कौ = kau
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
 The order when writing these combinations of consonant + vowel is:
 
@@ -36,8 +36,8 @@ kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā p�
 
 Read and transliterate:
 
-तॄ पाप चट् चि चाप पॄ पति पितृ कॢप् कृ कुप् कुतो चैक पुट पचति तौ पू चेत् पतति ततो तट तपति तु ते कृ पीतौ
+⟪तॄ⟫ ⟪पाप⟫ ⟪चट्⟫ ⟪चि⟫ ⟪चाप⟫ ⟪पॄ⟫ ⟪पति⟫ ⟪पितृ⟫ ⟪कॢप्⟫ ⟪कृ⟫ ⟪कुप्⟫ ⟪कुतो⟫ ⟪चैक⟫ ⟪पुट⟫ ⟪पचति⟫ ⟪तौ⟫ ⟪पू⟫ ⟪चेत्⟫ ⟪पतति⟫ ⟪ततो⟫ ⟪तट⟫ ⟪तपति⟫ ⟪तु⟫ ⟪ते⟫ ⟪कृ⟫ ⟪पीतौ⟫
 
 Additional reading exercise:
 
-पिता Father, कपि Monkey, कृत done, टीका Subcommentary, तत् this, तट Shore, पत् to shoot forth, पट Fabric, काच Glass, काकुत् Palate, चित् to perceive, पृच् to mix, पोटक Servant, चेतु Intention, तौतातित Follower of Kumārila (Mīmāṃsā), तूत Mulberry tree, पीत drunk, पीति Drink, कॢप् to fit, कृपते he laments, पुटी Fold, चापि likewise, तोक Offspring, तृपत् full, पॄ to fill, कृकाटी Neck joint, पूपौ two cakes, पैतृकी paternal (fem.), कौट fraudulent, कच Topknot, कुतपे on the goat-hair mat, कुचौ Breast, चकिता frightened (fem.)
+⟪पिता⟫ Father, ⟪कपि⟫ Monkey, ⟪कृत⟫ done, ⟪टीका⟫ Subcommentary, ⟪तत्⟫ this, ⟪तट⟫ Shore, ⟪पत्⟫ to shoot forth, ⟪पट⟫ Fabric, ⟪काच⟫ Glass, ⟪काकुत्⟫ Palate, ⟪चित्⟫ to perceive, ⟪पृच्⟫ to mix, ⟪पोटक⟫ Servant, ⟪चेतु⟫ Intention, ⟪तौतातित⟫ Follower of Kumārila (Mīmāṃsā), ⟪तूत⟫ Mulberry tree, ⟪पीत⟫ drunk, ⟪पीति⟫ Drink, ⟪कॢप्⟫ to fit, ⟪कृपते⟫ he laments, ⟪पुटी⟫ Fold, ⟪चापि⟫ likewise, ⟪तोक⟫ Offspring, ⟪तृपत्⟫ full, ⟪पॄ⟫ to fill, ⟪कृकाटी⟫ Neck joint, ⟪पूपौ⟫ two cakes, ⟪पैतृकी⟫ paternal (fem.), ⟪कौट⟫ fraudulent, ⟪कच⟫ Topknot, ⟪कुतपे⟫ on the goat-hair mat, ⟪कुचौ⟫ Breast, ⟪चकिता⟫ frightened (fem.)

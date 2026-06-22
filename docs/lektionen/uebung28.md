@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 
-::: grammar-box
+:::grammar-box
 ### ⟪१⟫. Mit hochstufiger Wurzel (Guṇa)
 
 | Form | Kausativ |
@@ -44,9 +44,7 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 | ⟪स्रक्ष्यति⟫ | ⟪सर्जयिष्यति⟫ |
 | ⟪लिम्पन्ति⟫ | ⟪लेपयन्ति⟫ |
 | ⟪वृद्धाः⟫ | ⟪वर्धिताः⟫ |
-:::
-
-::: grammar-box
+::::::grammar-box
 ### ⟪२⟫. Mit dehnstufiger Wurzel (Vṛddhi)
 
 | Form | Kausativ |
@@ -90,9 +88,7 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 | ⟪सोढायाः⟫ | ⟪साहितायाः⟫ |
 | ⟪हरन्ती⟫ | ⟪हारयन्ती⟫ |
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
-:::
-
-::: grammar-box
+::::::grammar-box
 ### ⟪३⟫. Kausativ auf -⟪पय⟫ (und Sonderformen)
 
 | Wurzel | Kausativ | Bedeutung |
@@ -105,9 +101,7 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 | ⟪हन्⟫ | ⟪घातयति⟫ | erschlagen lassen, töten |
 | ⟪जि⟫ | ⟪जापयति⟫ | siegen lassen |
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | beleben |
-:::
-
-B) Übersetzen Sie folgende Sätze und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird.
+:::B) Übersetzen Sie folgende Sätze und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
 Der Kṣatriya hat, um die Feinde zu besiegen, einen Brahmanen Hari und Hara mit einem Opfer verehren lassen und wird die Feinde bekämpfen.
@@ -149,7 +143,7 @@ Um Reichtümer zu erobern, wird der große Kṣatriya die tigergleichen Kämpfer
 Um sie vom Übel zu befreien, lässt Buddha edle Menschen die edlen Wahrheiten erkennen.
 (Basis: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
 
-::: media
+:::media
 ![](/images/uebung045.webp)
 Abb.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
 (Bildquelle: [Details](/licenses#uebung045))

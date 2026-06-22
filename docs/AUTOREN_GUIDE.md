@@ -19,7 +19,7 @@ Um bestimmte Inhalte hervorzuheben, nutzen wir "Container". Diese beginnen und e
 ## 2. Sanskrit-Eingabe
 Du musst keine speziellen Codes verwenden, um Sanskrit-Zeichen darzustellen.
 
-- **Devanagari:** Schreibe die Zeichen einfach direkt (z.B. `अ`, `Sanskrit-Wörter`). Das System erkennt sie automatisch und formatiert sie korrekt.
+- **Devanagari:** Schreibe die Zeichen einfach direkt (z.B. `⟪अ⟫`, `Sanskrit-Wörter`). Das System erkennt sie automatisch und formatiert sie korrekt.
 - **Umschrift (IAST):** Nutze für die wissenschaftliche Umschrift die korrekten Sonderzeichen (Diakritika), zum Beispiel: `ā`, `ī`, `ū`, `ṛ`, `ṝ`, `ḷ`, `ṁ`, `ṃ`, `ḥ`, `ṅ`, `ñ`, `ṭ`, `ḍ`, `ṇ`, `ś`, `ṣ`.
 
 ---
@@ -59,13 +59,13 @@ Die Dateien sind nach Sprachen in Ordnern organisiert. Wenn du eine Lektion übe
 ## 5. Tabellen-Syntax
 Wir verwenden ein erweitertes Tabellen-Format. Besonders wichtig ist der Zeilenumbruch innerhalb einer Zelle.
 
-- **Zeilenumbruch in Zellen:** Nutze `[[br]]`, um innerhalb einer Tabellenzelle eine neue Zeile zu beginnen.
+- **Zeilenumbruch in Zellen:** Nutze `:br`, um innerhalb einer Tabellenzelle eine neue Zeile zu beginnen.
 - **Beispiel:**
 ```markdown
 | Begriff | Erklärung |
 | :--- | :--- |
-| **Sanskrit** | Eine alte Sprache[[br]]aus Indien. |
-| **Veda** | Die heiligen[[br]]Schriften. |
+| **Sanskrit** | Eine alte Sprache:braus Indien. |
+| **Veda** | Die heiligen:brSchriften. |
 ```
 
 ---
@@ -73,5 +73,5 @@ Wir verwenden ein erweitertes Tabellen-Format. Besonders wichtig ist der Zeilenu
 ## 6. Häufige Fehler (Vermeidung)
 - **Container nicht schließen:** Achte darauf, dass jede Box, die mit `::: name` beginnt, auch mit `:::` am Ende geschlossen wird.
 - **Falscher Ordner:** Prüfe genau, ob du dich im richtigen Sprachordner befindest (z.B. `/en/lektionen/` statt `/lektionen/`).
-- **Einfache Umbrüche in Tabellen:** Drücke in Tabellenzellen nicht einfach die Enter-Taste, sondern nutze immer `[[br]]`.
+- **Einfache Umbrüche in Tabellen:** Drücke in Tabellenzellen nicht einfach die Enter-Taste, sondern nutze immer `:br`.
 - **Frontmatter löschen:** Die `---` Blöcke am Anfang der Datei dürfen nicht entfernt werden, da sonst die Seite im Menü verschwindet.

@@ -9,44 +9,36 @@ status: stable
 
 # Lektion 3
 
-::: deleteme-box
+:::deleteme-box
 **In dieser Lektion lernen Sie:**
 - den Nominativ Singular des Femininums
 - den Nominativ Plural des Maskulinums und Femininums
 - die Bildung des Femininums zu Maskulina
 - Vokalsandhi
 - Satzsandhi von -ās
-:::
-
-## 3.1. Nominativ Singular des Femininums
+:::## 3.1. Nominativ Singular des Femininums
 
 ### 3.1.1. Nominativ Singular auf -s
 
 Auch folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
 
-::: grammar-box
+:::grammar-box
 - **Feminina auf -i**: z.B. **śruti** f. "das Hören" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Feminina auf -u**: z.B. **dhenu** f. "Milchkuh" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
-:::
-
-### 3.1.2. Nominativ Singular ohne Endung
+:::### 3.1.2. Nominativ Singular ohne Endung
 
 Den Nominativ Singular bilden ohne Endung:
 
-::: grammar-box
+:::grammar-box
 - **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = ⟪देवता⟫
 - **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = ⟪देवी⟫
-:::
-
-::: important
+::::::important
 **Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = ⟪धीस्⟫. Auch lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "Boot" und tantrī (⟪तन्त्री⟫) f. "Saite" bilden unregelmäßig den Nominativ Singular auf -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
-:::
-
----
+:::---
 
 ## 3.2. Bildung der Feminina zu Maskulina
 
-::: grammar-box
+:::grammar-box
 **Maskulina auf -a:**
 - **Femininum auf -ā**: z.B. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriyafrau" = ⟪क्षत्रिया⟫
 - **Femininum auf -ī**: z.B. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫
@@ -54,13 +46,11 @@ Den Nominativ Singular bilden ohne Endung:
 **Maskulina auf -u:**
 - **Femininum auf -ī**: z.B. **sādhu** m. » **sādhvī** f. (gut, Heilige) = ⟪साध्वी⟫
   (**-u-** wird vor Vokal zu **-v-**, daher **-u- + -ī** » **-vī**)
-:::
-
----
+:::---
 
 ## 3.3. Nominativ Plural Maskulinum und Femininum
 
-::: grammar-box
+:::grammar-box
 Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**.
 - **Maskulina auf -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
 - **Feminina auf -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
@@ -69,23 +59,19 @@ Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**.
 - **Feminina auf -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
 - **Maskulina auf -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
 - **Feminina auf -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
-:::
-
-Anmerkung: **e** ist Hochstufe (**guṇa**) zu **i**, **o** ist Hochstufe zu **u**.
+:::Anmerkung: **e** ist Hochstufe (**guṇa**) zu **i**, **o** ist Hochstufe zu **u**.
 
 ---
 
 ## 3.4. Vokalsandhi
 
-::: grammar-box
+:::grammar-box
 **Einfache Vokale, die sich nicht oder nur in ihrer Länge unterscheiden, "verschmelzen" zum entsprechenden langen Vokal:**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
-:::
-
-z.B.
+:::z.B.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = ⟪देवतान्नपूर्णा⟫
 
@@ -95,42 +81,34 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = ⟪द�
 
 > (Indrāṇī ist die Gattin des Gottes Indra.)
 
-::: media
+:::media
 ![](/images/lekt0301.webp)
 Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80
 (Bildquelle: [Details](/licenses#lekt0301))
-:::
-
-::: grammar-box
+::::::grammar-box
 **Einfache Vokale (außer -a / -ā) werden vor unähnlichen Vokalen durch den entsprechenden Halbvokal ersetzt:**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
 (!! Zu dieser Regel gibt es insbesondere für Dualformen Ausnahmen !!)
-:::
-
-z.B.
+:::z.B.
 
 devī + umā » devy umā "Umā ist eine / die Göttin" = ⟪देव्युमा⟫
 
 > (Umā ist ein Name für Pārvatī, die Gattin Śivas)
 
-::: grammar-box
+:::grammar-box
 **-a / -ā vor unähnlichem Vokal:**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
-:::
+:::Für diesen Sandhi gilt also folgendes Schema:
 
-Für diesen Sandhi gilt also folgendes Schema:
-
-::: media
+:::media
 ![](/images/lekt0302.jpg)
 (Bildquelle: [Details](/licenses#lekt0302))
-:::
-
-Zu dieser sog. Stammabstufung siehe später!
+:::Zu dieser sog. Stammabstufung siehe später!
 
 z.B.
 
@@ -140,11 +118,9 @@ z.B.
 
 ## 3.5. Satzsandhi von -ās
 
-::: grammar-box
+:::grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
-:::
-
-z.B.
+:::z.B.
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -193,13 +169,11 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = �
 
 **devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
 
-::: media
+:::media
 ![](/images/lekt0303.webp)
 Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 (Bildquelle: [Details](/images/lekt0303))
-:::
-
-**sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu.
+:::**sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu.
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru.
 

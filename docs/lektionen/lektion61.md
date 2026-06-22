@@ -12,13 +12,11 @@ status: stable
 
 ### 61.1.1. Wurzelnomina auf -ā am Ende von ⟪तत्पुरुष⟫
 
-::: grammar-box
+:::grammar-box
 **Vor vokalischen Endungen hat der Stammvokal in den schwachen Kasus die Schwundstufe Ø.**
 
 **Die Deklination im Maskulinum und Femininum ist identisch.**
-:::
-
-Paradigma:
+:::Paradigma:
 
 ⟪विश्वपा⟫ m.f. "das All beschützend"
 
@@ -34,13 +32,11 @@ Paradigma:
 
 ### 61.1.2. Feminine Wurzelnomina auf -ī
 
-::: grammar-box
+:::grammar-box
 **Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
 **Neben den Bildungen mit den regulären Kasusendungen kommen im Dat.Ab.Gen.Lok.sg. und Gen.pl. auch Bildungen nach dem Muster mehrsilbiger Feminina auf -ī (⟪देवी⟫) vor.**
-:::
-
-Paradigma:
+:::Paradigma:
 
 ⟪धी⟫ f. "Gedanke"
 
@@ -56,7 +52,7 @@ Paradigma:
 
 Unregelmäßig: ⟪स्त्री⟫ f. "Frau"
 
-::: grammar-box
+:::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
@@ -67,26 +63,20 @@ Unregelmäßig: ⟪स्त्री⟫ f. "Frau"
 | **⟪षष्ठी⟫** | ^^ | ⟪स्त्रियोस्⟫ | ⟪स्त्रीणाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ^^ | ⟪स्त्रीषु⟫ |
 | **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
-:::
-
-::: media
+::::::media
 ![](/images/lekt6102.webp)
 Abb.: ⟪स्त्रियः⟫
 (Bildquelle: [Details](/licenses#lekt6102))
-:::
+:::### 61.1.3. Wurzelnomina auf -ī am Ende von ⟪तत्पुरुष⟫
 
-### 61.1.3. Wurzelnomina auf -ī am Ende von ⟪तत्पुरुष⟫
-
-::: grammar-box
+:::grammar-box
 **Vor vokalischen Endungen wird -ī durch -y ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ī vor vokalischer Endung durch -iy ersetzt.**
 
 **Die Deklination ist im Maskulinum und Femininum identisch.**
 
 **Unregelmäßigkeit: Komposita auf -⟪नी⟫ "führend" haben im Lok.sg die Endung -ām (wie ⟪देवी⟫):**
 z.B. ⟪ग्रामणी⟫ "eine Schar/ein Dorf führend": Lok.sg.m.f. ⟪ग्रामण्याम्⟫
-:::
-
-Paradigmen:
+:::Paradigmen:
 
 ⟪शुद्धधी⟫ m., f. "Reines denkend"
 
@@ -114,13 +104,11 @@ Paradigmen:
 
 ### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
 
-::: grammar-box
+:::grammar-box
 **Stamm vor Vokal: -uv**
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
-:::
-
-Paradigma:
+:::Paradigma:
 
 ⟪भू⟫ f. "Erde"
 
@@ -136,13 +124,11 @@ Paradigma:
 
 ### 61.1.5. Wurzelnomina auf -ū am Ende von ⟪तत्पुरुष⟫
 
-::: grammar-box
+:::grammar-box
 **Vor vokalischen Endungen wird -ū durch -v ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ū vor vokalischer Endung durch -uv ersetzt.**
 
 **Die Deklination ist im Maskulinum und Femininum identisch.**
-:::
-
-Paradigma:
+:::Paradigma:
 
 ⟪खलपू⟫ m., f. "die Scheune kehrend"
 
@@ -156,20 +142,16 @@ Paradigma:
 | **⟪षष्ठी⟫** | ^^ | ⟪खलप्वोस्⟫ | ⟪खलप्वाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪खलप्वि⟫ | ^^ | ⟪खलपूषु⟫ |
 
-::: media
+:::media
 ![](/images/lekt6106.webp)
 Abb.: ⟪रथ्याप्वः⟫
 ⟪काशीपुर⟫
 (Bildquelle: [Details](/licenses#lekt6106))
-:::
+:::### 61.1.6. Deklination mehrsilbiger Feminina auf -ū
 
-### 61.1.6. Deklination mehrsilbiger Feminina auf -ū
-
-::: grammar-box
+:::grammar-box
 **Mehrsilbige Feminina auf -ū werden analog zu mehrsilbigen Stämmen auf -ī (⟪देवी⟫) dekliniert, sie enden aber im Nom. sg. auf -s.**
-:::
-
-Paradigma:
+:::Paradigma:
 
 ⟪वधू⟫ f. "junge Frau, Braut"
 
@@ -184,38 +166,31 @@ Paradigma:
 | **⟪सप्तमी⟫** | ⟪वध्वाम्⟫ | ^^ | ⟪वधूषु⟫ |
 | **⟪आमन्त्रितम्⟫** | ⟪वधु⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
 
-::: media
+:::media
 ![](/images/lekt6107.webp)
 Abb.: ⟪वध्वौ⟫
 ⟪जोधपुर⟫
 (Bildquelle: [Details](/licenses#lekt6107))
-:::
-## 61.2. Das periphrastische Futur (⟪लुट्⟫)
+:::## 61.2. Das periphrastische Futur (⟪लुट्⟫)
 
-::: grammar-box
+:::grammar-box
 **Neben dem einfachen Futur (⟪ऌत्⟫) gibt es ein periphrastisches Futur (⟪लुट्⟫). Nach der Lehre der einheimischen Grammatiker wird es verwendet, um die entfernte Zukunft ("nach dem laufenden Tag") zu bezeichnen, während das einfache Futur die nahe Zukunft ("am laufenden Tag") bezeichnet. Im klassischen Sanskrit scheint meist kein Unterschied im Gebrauch der beiden Futura gemacht zu werden.**
 
 **Bildung:**
 
 **Das periphrastische Futur wird gebildet durch die Verbindung eines nomen agentis auf -tṛ mit dem Präsens von ⟪अस्⟫ 2. Als dritte Person dient das einfache Nomen in der entsprechenden Zahl, ohne Unterscheidung im grammatischen Geschlecht. Bei den Verbindungen mit ⟪अस्⟫ hat das Nomen in allen Personen und Numeri die Form des Nom.sg. auf -tā.**
-:::
+:::Die Endungen des periphrastischen Futur lauten also:
 
-Die Endungen des periphrastischen Futur lauten also:
-
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | \-tāsmi:br(-tā + asmi) | \-tāsvas | \-tāsmas:br(-tā smas) | ***\-tāhe*** | \-tāsvahe | \-tāsmahe |
+| **1\. ⟪तृतीयः⟫** | \-tāsmi:br(-tā + asmi) | \-tāsvas | \-tāsmas:br(-tā smas) | **\-tāhe** | \-tāsvahe | \-tāsmahe |
 | **2\. ⟪मध्यमः⟫** | \-tāsi | \-tāsthas | \-tāstha | \-tāse | \-tāsāthe | \-tādhve |
 | **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
-:::
-
-::: grammar-box
+::::::grammar-box
 **Form der Wurzel: Die Wurzel hat im allgemeinen dieselbe Form wie im einfachen Futur. Dasselbe gilt für den Bindevokal -i-.**
-:::
-
-Beispiele:
+:::Beispiele:
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
 | --- | --- |
@@ -227,22 +202,18 @@ Paradigma:
 
 ⟪दा⟫ 3U
 
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | ***⟪दाताहे⟫*** | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
-:::
-
-::: grammar-box
+::::::grammar-box
 **Nur ganz selten wird das Verb ⟪अस्⟫ vom Nominalstamm getrennt.**
-:::
+:::## 61.3. Das Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
 
-## 61.3. Das Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
-
-::: grammar-box
+:::grammar-box
 **Von jeder einsilbigen, konsonantisch anlautenden Wurzel der ersten neun Präsensklassen kan ein Intensivum (⟪चर्करीतम्⟫)  gebildet werden; das heißt: mit wenigen Ausnahmen kann von zweisilbigen Wurzeln (z.B. ⟪जागृ⟫), vokalisch anlautenden Wurzeln und Wurzeln der 10. Präsensklasse (⟪चुरादिगण⟫) kein Intensivum gebildet werden.**
 
 **Das Intensivum bedeutet:**
@@ -260,15 +231,12 @@ Paradigma:
 *   **bei einigen Wurzeln (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:**  
     ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"  
     ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht"
-:::
-
-::: media
+::::::media
 ![](/images/lekt6104.webp)
 Abb.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Bildquelle: [Details](/licenses#lekt6104))
-:::
-::: grammar-box
+::::::grammar-box
 **Bildung des Intensivums:**
 
 **Es gibt zwei Bildungstypen des Intensivums:**
@@ -277,11 +245,9 @@ Karnataka = ಕರ್ನಾಟಕ
 *   **Parasmaipada-Intensivum**
 
 **Beide werden von der mit starker Reduplikation reduplizierten Wurzel gebildet. Beide unterscheiden sich in der Bedeutung nicht. Beide können zu denselben Wurzeln gebildet werden.**
-:::
+:::### 61.3.1. Ātmanepada-Intensivum
 
-### 61.3.1. Ātmanepada-Intensivum
-
-:::: grammar-box
+:::grammar-box
 **Bildung:**
 
 **reduplizierte Wurzel + -ya-**
@@ -290,17 +256,13 @@ Karnataka = ಕರ್ನಾಟಕ
 
 Beispiele:
 
-::: indent
+:::indent
 ⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
 ⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
-:::
-
-Die Regeln im einzelnen bei Kielhorn, Grammatik § 461.
+:::Die Regeln im einzelnen bei Kielhorn, Grammatik § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-::::
-
-Beispiele:
+:::Beispiele:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -310,24 +272,18 @@ Beispiele:
 | ⟪शास्⟫ 2P | ⟪शेशिष्य⟫- |
 | ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
 
-:::: grammar-box
+:::grammar-box
 **Wurzeln der Form -a-Nasal verlängern in der Reduplikationssilbe den Vokal nicht, sondern wiederholen den Nasal.**
 
-::: indent
+:::indent
 z.B. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
-:::
+:::**Bei einigen Wurzeln tritt zwischen den Vokal der Reduplikationssilbe und den anlautenden Konsonanten der Wurzel -nī- bzw. -rī- (-rī- bei Wurzeln, die im Intensiv ein ṛ enthalten).**
 
-**Bei einigen Wurzeln tritt zwischen den Vokal der Reduplikationssilbe und den anlautenden Konsonanten der Wurzel -nī- bzw. -rī- (-rī- bei Wurzeln, die im Intensiv ein ṛ enthalten).**
-
-::: indent
+:::indent
 z.B.
 ⟪पत्⟫ 1P: ⟪प⟫***⟪नी⟫***⟪पत्य⟫-
 ⟪वृत्⟫ 1Ā: ⟪व⟫***⟪री⟫***⟪वृत्य⟫-
-:::
-
-::::
-
-::: grammar-box
+:::::::::grammar-box
 **Konjugation:**
 
 *   **Präsensstamm: wie ein Ātmanepada der 4. Präsensklasse (⟪दिवादिगण⟫).**
@@ -337,83 +293,66 @@ z.B.
     *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
     *   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
     *   **periphrastisches Futur: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
-:::
+:::### 61.3.2. Parasmaipada-Intensivum
 
-### 61.3.2. Parasmaipada-Intensivum
-
-::: grammar-box
+:::grammar-box
 **Präsensstamm (andere Formen sind äußerst selten): Bildung und Konjugation wie ein Verb der 3. Präsensklasse (⟪जुहोत्यादिगण⟫) mit dem Unterschied, dass der Vokal der Reduplikationssilbe hochstufig, bei -a- dehnstufig ist.**
 
 **Im Singular Indikativ Präsens sowie 2.3.sg. Imperfekt und 3.sg.Imperativ kann zwischen Wurzel und Endung ein -ī- eingeschoben werden. Wird dieses -ī- eingeschoben, darf ein kurzer Vokal an vorletzter Stelle nicht guṇiert werden.**
 
 **Bezüglich der Reduplikation mit Nasal sowie der Einschiebung von -nī- bzw. -rī- gilt dasselbe wie für das Ātmanepada-Intensivum. Statt -rī- kann wahlweise -ri- stehen.**
-:::
-
-Paradigma:
+:::Paradigma:
 
 ⟪भू⟫ 1P
 
 Indikativ Präsens (⟪लट्⟫):
 
-::: grammar-box
+:::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
-:::
+:::Imperfekt (⟪लङ्⟫):
 
-Imperfekt (⟪लङ्⟫):
-
-::: grammar-box
+:::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
-:::
+:::Imperativ (⟪लोट्⟫):
 
-Imperativ (⟪लोट्⟫):
-
-::: grammar-box
+:::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
-:::
+:::Optativ (⟪विधिलिङ्⟫):
 
-Optativ (⟪विधिलिङ्⟫):
-
-::: grammar-box
+:::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
-:::
-
-## 61.4. Denominativa (⟪नामधातु⟫)
+:::## 61.4. Denominativa (⟪नामधातु⟫)
 
 Denominativa (⟪नामधातवः⟫) werden, im Gegensatz zu den bisher behandelten Verben, nicht von einer Verbalwurzel, sondern von einem Nominalstamm gebildet. Dabei gibt es verschiedene Bildungstypen.
 
 ### 61.4.1. Bildung ohne besonderes Suffix, Parasmaipada
 
-:::: grammar-box
+:::grammar-box
 **Bedeutung:**
 
-::: indent
+:::indent
 **eine Person oder Sache verhält sich so wie das, oder gleicht dem, was vom Nominalstamm bezeichnet wird.**
-:::
+:::**Konjugation:**
 
-**Konjugation:**
-
-::: indent
+:::indent
 **im Präsensstamm wie ein Verb der 1. Präsensklasse (⟪भ्वादिगण⟫). Hat das Nomen mehl als einen vokal, so wird nur der letzte Vokal wie der Wurzelvokal der 1. Klasse behandelt. Auslautendes -a entfällt vor dem Themavokal. Vokal vor auslautendem Nasal wird durch den entsprechenden Langvokal ersetzt.**
-:::
-::::
-
-Beispiele:
+::::::Beispiele:
 
 | ⟪कवि⟫ m. "Dichter" | ⟪कवयति⟫ "er verhält sich wie ein Dichter" |
 | --- | --- |
@@ -425,7 +364,7 @@ Beispiele:
 
 ### 61.4.2. Bildung mit Suffix -ya, Parasmaipada
 
-:::: grammar-box
+:::grammar-box
 **Bedeutung:**
 
 *   **jemand wünscht sich das, was durch den Nominalstamm bezeichnet wird**
@@ -433,7 +372,7 @@ Beispiele:
 
 **Stammbildung:**
 
-::: indent
+:::indent
 **vor dem -ya unterliegt der Auslauts des Nominalstamms folgenden Veränderungen:**
 
 *   **a, ā » ī :** ⟪पुत्र⟫ » ⟪पुत्रीय⟫-
@@ -443,11 +382,7 @@ Beispiele:
 *   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
 *   **auslautender Nasal fällt ab, davor stehender Vokal wird nach den eben genannten Regeln behandelt:** ⟪राजन्⟫ » ⟪राजीय⟫-
 *   **andere auslautende Konsonanten bleiben unverändert**
-:::
-
-::::
-
-Beispiele:
+::::::Beispiele:
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रीयति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
@@ -463,71 +398,58 @@ Beachten sie die Bedeutung von:
 | --- | --- |
 | ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
 
-::: media
+:::media
 ![](/images/lekt6105.webp)
 Abb.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ⟪हरिद्वार⟫
 (Bildquelle: [Details](/licenses#lekt6105))
-:::
-::: media
+::::::media
 ![](/images/lekt6103.webp)
 Abb.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#lekt6103))
-:::
-### 61.4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
+:::### 61.4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
 
-::: grammar-box
+:::grammar-box
 **Bedeutung:**
 
 **jemand wünsch sich das, was durch den Nominalstamm bezeichnet wird**
-:::
-
-Beispiele:
+:::Beispiele:
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
 | ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
 
-::: media
+:::media
 ![](/images/lekt6109.webp)
 Abb.: ⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
 (Bildquelle: [Details](/licenses#lekt6109))
-:::
-### 61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
+:::### 61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
 
-:::: grammar-box
+:::grammar-box
 **Bedeutung:**
 
-::: indent
+:::indent
 **jemand verlangt heftig nach dem, was durch den Nominalstamm bezeichnet wird.**
-:::
-::::
+::::::Beispiele:
 
-Beispiele:
-
-::: grammar-box
+:::grammar-box
 | ⟪मधु⟫ n. "Honig" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "er verlangt heftig nach Honig" |
 | --- | --- |
 | ⟪अश्व⟫ m. "Hengst" | ⟪अश्वस्यति⟫ "(die Stute) verlangt heftig nach dem Hengst" |
-:::
-
-::: media
+::::::media
 ![](/images/lekt6110.webp)
 Abb.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
 Karli
 (Bildquelle: [Details](/licenses#lekt6110))
-:::
-### 61.4.5. Bildung mit dem Suffix -ya, Ātmanepada
+:::### 61.4.5. Bildung mit dem Suffix -ya, Ātmanepada
 
-:::: grammar-box
+:::grammar-box
 **Bedeutung:**
 
-::: indent
+:::indent
 **jemand verhält sich als das, oder gleicht dem, was durch den Nominalstamm bezeichnet wird.**
-:::
-
-**Bildung:**
+:::**Bildung:**
 
 *   **auslautendes -a » -ā**
 *   **auslautendes -ā bleibt unverändert**
@@ -535,90 +457,71 @@ Karli
 *   **auslautendes -as wahlweise » -ā**
 *   **Femininstamm meist » Maskulinstamm**
 
-::::
-
-Beispiele:
+:::Beispiele:
 
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
 | --- | --- |
 | ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
 | ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
 
-:::: grammar-box
+:::grammar-box
 **Bei einigen Nominalstämmen bedeutet dieses Suffix: etwas wird wie das, oder wird zu dem, was durch den Nominalstamm bezeichnet wird:**
 
-::: indent
+:::indent
 z.B. ⟪उन्मनस्⟫ 3 "erregt": ⟪उन्मनायते⟫ "er wird erregt"
-:::
-
-**In einigen Fällen werden mit diesem Suffix Verben in anderen Bedeutungen gebildet:**
+:::**In einigen Fällen werden mit diesem Suffix Verben in anderen Bedeutungen gebildet:**
 
 Beispiele:
 
-::: indent
+:::indent
 ⟪दुःख⟫ n. "Leid" : ⟪दुःखायते⟫ "er empfindet Leid"
 ⟪शब्द⟫ m. "Laut" : ⟪शब्दायते⟫ "er gibt einen Ton von sich"
-:::
-
-::::
-
-::: media
+:::::::::media
 ![](/images/lekt6111.webp)
 Abb.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
 (Bildquelle: [Details](/licenses#lekt6111))
-:::
-### 61.4.6. Bildung mit dem Suffix -aya, -āpaya
+:::### 61.4.6. Bildung mit dem Suffix -aya, -āpaya
 
-::: grammar-box
+:::grammar-box
 **Verschiedene Bedeutungen.**
 
 **Konjugiert wie Kausativa.**
-:::
-
-Beispiele:
+:::Beispiele:
 
 | ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
 | ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
 
-::: media
+:::media
 ![](/images/lekt6113.webp)
 Abb.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
 Thailand - เมืองไทย
 (Bildquelle: [Details](/licenses#lekt6113))
-:::
-Eine Liste von Denominative z.B. in:
+:::Eine Liste von Denominative z.B. in:
 
-::: media
+:::media
 ![](/images/lekt6112.jpg)
 Abb.:
 1845 - 1878 Professor der indisch-orientalischen Philologie an der Universität Kopenhagen
 (Bildquelle: [Details](/licenses#lekt6112))
-:::
-::: indent
+::::::indent
 **Westergaard**, Niels Ludvig &lt;1815-1878&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
-:::
+:::## 61.5. Der Benediktiv (⟪आशीर्लिङ्⟫)
 
-## 61.5. Der Benediktiv (⟪आशीर्लिङ्⟫)
-
-:::: grammar-box
+:::grammar-box
 **Bedeutung:**
 
-::: indent
+:::indent
 **Segenswunsch**
-:::
-
-**Bildung:**
+:::**Bildung:**
 
 **Parasmaipada:**
 
 **tiefstufige Wurzel + yās + Sekundärendung**
 
-::: indent
+:::indent
 z.B. ⟪बुध्यासम्⟫ "möge ich erkennen!"
-:::
-
-**Ātmanepada:**
+:::**Ātmanepada:**
 
 **(meist) hochstufige Wurzel + sī(y) + Sekundärendung**
 
@@ -626,48 +529,37 @@ z.B. ⟪बुध्यासम्⟫ "möge ich erkennen!"
 
 **(hochstufige) Wurzel + ⟪ै⟫ + sī(y) + Sekundäraendung**
 
-::: indent
+:::indent
 z.B.
 ⟪जि⟫ : ⟪जेषीय⟫ "möge ich im eigenen Interesse siegen!"
 ⟪बुध्⟫ : ⟪बोधिषीय⟫ "möge ich erkennen"
-:::
+:::**Die Regeln zur Form der Wurzel im Einzelnen bei Kielhorn, Grammatik § 380ff.**
 
-**Die Regeln zur Form der Wurzel im Einzelnen bei Kielhorn, Grammatik § 380ff.**
-
-::::
-
-Paradigma:
+:::Paradigma:
 
 ⟪बुध्⟫ "erwachen"
 
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ***⟪बुध्यात्⟫*** | ⟪बुध्यास्ताम्⟫ | ***⟪बुध्यासुर्⟫*** | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
-:::
-
-::: media
+::::::media
 ![](/images/lekt6114.webp)
 Abb.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
 Santa Cruz Basilica, Kochi = കൊച്ചി
 (Bildquelle: [Details](/licenses#lekt6114))
-:::
-## 61.6. Der Konditionalis (⟪ऌङ्⟫)
+:::## 61.6. Der Konditionalis (⟪ऌङ्⟫)
 
-::: grammar-box
+:::grammar-box
 **Der Konditionalis (⟪ऌङ्⟫) wird verwendet, wenn man in Bedingungssätzen ausdrücken will, dass das, was als Bedingung genannt wird, nicht der Fall ist / gewesen ist / sein wird. Der Konditionalis muss bei solchen Sätzen sowohl im Bedingungssatz wie im Hauptsatz verwendet werden.**
-:::
+:::Beispiel:
 
-Beispiel:
-
-::: indent
+:::indent
 ⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Wenn es gut geregnet hätte (oder regnen würde), würde es trreichlich Nahrung geben. (Es hat aber nicht (genügend) geregnet.)"
-:::
-
-::: grammar-box
+::::::grammar-box
 **Bildung des Konditionalis (⟪ऌङ्⟫):**
 
 **Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung**
@@ -675,61 +567,51 @@ Beispiel:
 d.h. wie ein Imperfekt (⟪लङ्⟫) zum Futurstamm.
 
 z.B. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
-:::
-
-Paradigma:
+:::Paradigma:
 
 ⟪भू⟫ "sein, werden"
 
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | ⟪अभविष्यम्⟫ | ⟪अभविष्याव⟫ | ⟪अभविष्याम⟫ | ⟪अभविष्ये⟫ | ⟪अभविष्यावहि⟫ | ⟪अभविष्यामहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
-:::
+:::## 61.7. Deklination der Nomina auf -ai, -o, -au
 
-## 61.7. Deklination der Nomina auf -ai, -o, -au
-
-::: grammar-box
+:::grammar-box
 **Vor Konsonant lauten diese Stämme auf -ai, -o, -au; vor Konsonant auf -āy, -av, -āv**
 
 **⟪गो⟫ m.f. "Ochse, Kuh" hat Stammabstufung.** Siehe die Erklärung im Einzelnen bei Thumb-Hauschild § 296/7.
-:::
+:::Paradigmen: Kielhorn, Grammatik § 153:
 
-Paradigmen: Kielhorn, Grammatik § 153:
-
-::: media
+:::media
 ![](/images/lekt6115.webp)
 (Bildquelle: [Details](/licenses#lekt6115))
-:::
-::: media
+::::::media
 ![](/images/lekt6118.webp)
 Abb.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#lekt6118))
-:::
-## 61.8. Restliche Pronomina
+:::## 61.8. Restliche Pronomina
 
 ### 61.8.1. Personalpronomen des Dual
 
 Kielhorn, Grammatik § 177:
 
-::: media
+:::media
 ![](/images/lekt6116.jpg)
 (Bildquelle: [Details](/licenses#lekt6116))
-:::
-::: media
+::::::media
 ![](/images/lekt6117.webp)
 Abb.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
 Apatani-Volk, Arunachal Pradesh
 (Bildquelle: [Details](/licenses#lekt6117))
-:::
-### 61.8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)"
+:::### 61.8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)"
 
 Maskulinum (⟪पुंस्⟫)
 
-::: grammar-box
+:::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: | :---: |
 | **⟪प्रथमा⟫** | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमी⟫ |
@@ -739,11 +621,9 @@ Maskulinum (⟪पुंस्⟫)
 | **⟪पञ्चमी⟫** | ⟪अमुष्मात्⟫ | ^^ | ^^ |
 | **⟪षष्ठी⟫** | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
-:::
+:::Neutrum (⟪नपुंसक⟫)
 
-Neutrum (⟪नपुंसक⟫)
-
-::: grammar-box
+:::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: | :---: |
 | **⟪प्रथमा⟫** | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
@@ -751,11 +631,9 @@ Neutrum (⟪नपुंसक⟫)
 
 Rest wie Maskulinum
 
-:::
+:::Femininum (⟪स्त्री⟫)
 
-Femininum (⟪स्त्री⟫)
-
-::: grammar-box
+:::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: | :---: |
 | **⟪प्रथमा⟫** | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमूस्⟫ |
@@ -765,27 +643,21 @@ Femininum (⟪स्त्री⟫)
 | **⟪पञ्चमी⟫** | ⟪अमुष्यास्⟫ | ^^ | ^^ |
 | **⟪षष्ठी⟫** | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
-:::
-
-## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+:::## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
 Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" im Ozean der Sanskritliteratur. Da dieser Ozean voller Hindernisse ist, ist es angemessen, diesen neuen Lebensabschnitt mit einer Anrufung Gaṇeśas zu beginnen:
 
-::: media
+:::media
 ![](/images/lekt6101.webp)
 Abb.: ⟪श्रीगणनाथः⟫
 Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.
 (Bildquelle: [Details](/licenses#lekt6101))
-:::
-:::: grammar-box
-::: no-header
+::::::grammar-box
+:::no-header
 |   |   |
 | --- | --- |
 | ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
-:::
-::::
-
-***ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫*** von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
+::::::***ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫*** von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
 Komponist und Dichter: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
@@ -798,16 +670,15 @@ Rāga: Malahari (zu ⟪मायामाळवगौळ⟫ = Māyāmālavagau�
 
 Tāla: Rūpaka: o |4
 
-::: media
+:::media
 ![](/images/lekt6119.webp)
 Abb.: Melodie, auf c bezogen, kann je nach Stimmlage transponiert werden.
 (Bildquelle: [Details](/licenses#lekt6119))
-:::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ steht am Beginn des Unterrichts in kannaresischer Musik. Siehe das Video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Zugriff am 2009-03-05 
+:::ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ steht am Beginn des Unterrichts in kannaresischer Musik. Siehe das Video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Zugriff am 2009-03-05 
 
 Nachdem Sie jetzt die Grundlagen des Sanskrit gelernt haben, sind Sie hoffentlich wie die Kleinkinder im Video: manchmal ungeschickt, aber lern- und wissensbegierig und mit Freude bei der Sache. Behalten Sie bis an Ihr Lebensende "a beginner's mind".
 
-::: center
+:::center
 Das wünscht Ihnen Ihr Alois Payer
 
 Ofterdingen, 2009-03-09
@@ -815,11 +686,9 @@ Ofterdingen, 2009-03-09
 ***⟪ॐ⟫***
 
 ENDE DES SANSKRITKURSES
-:::
+:::---
 
----
-
-::: deleteme-box
+:::deleteme-box
 
 **lekt6102:** [Bildquelle: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Zugriff am 2009-03-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 

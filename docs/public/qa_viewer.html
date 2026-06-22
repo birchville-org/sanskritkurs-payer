@@ -834,6 +834,12 @@
         }
 
         function exitQA() {
+            const editorInput = document.getElementById('editor-input');
+            if (editorInput && window._originalEditorContentText !== undefined && editorInput.value !== window._originalEditorContentText) {
+                if (!confirm("Achtung: Es gibt ungespeicherte Änderungen! Wirklich beenden?")) {
+                    return;
+                }
+            }
             const num = lessonInput.value.padStart(2, '0');
             // Bevorzuge die aktuell gewählte Sprache über den Referrer
             function langValToPath(val) {

@@ -90,13 +90,11 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
 
-::: media
+:::media
 ![](/images/uebung010.webp)
 अभ.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung010))
-:::
-
----
+:::---
 
 ## पुनरावृत्ति-अभ्यास पाठ 5
 
@@ -164,7 +162,7 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 
 ⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪॥⟫
 
-::: media
+:::media
 ![](/images/uebung009.webp)
 अभ.: ⟪ऋग्वेदः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#uebung009))

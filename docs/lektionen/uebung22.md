@@ -87,13 +87,11 @@ Die löwengleichen Männer sind mit den Feinden, die keine Ārya sind, zusammeng
 ⟪१०⟫. **⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫**
 Wenn er Verdienstvolles getan hat und nur die Wahrheit gesprochen hat, kommt ein Mensch in keine Hölle.
 
-::: media
+:::media
 ![](/images/uebung034.jpg)
 Abb.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Bildquelle: [Details](/licenses#uebung034))
-:::
-
----
+:::---
 
 ## Passiv-Konstruktionen
 

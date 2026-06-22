@@ -2,12 +2,10 @@
 outline: 2
 ---
 
-::: deleteme-box
+:::deleteme-box
 **Quelle & Urheberrecht**
 
-:::
-
-# Glossar Sanskrit–Deutsch
+:::# Glossar Sanskrit–Deutsch
 
 *Zusammengestellt aus den Wortlisten des Sanskrit-Kurses von Alois Payer.  
 © Simone Dünneisen (FS 2011), Lektionen 1–46. Ergänzt um Lektionen 47–61.*
@@ -86,7 +84,7 @@ outline: 2
 | ⟪आन्वीक्षिकी⟫ | [ānvīkṣikī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ānvīkṣikī&filter=roman&accent=no&transLit=roman) | f | Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt) | [3](/lektionen/lektion03#_3-6-wortliste) |
 | ⟪आपण⟫ | [āpaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āpaṇa&filter=roman&accent=no&transLit=roman) | m | Markt | [43](/lektionen/lektion43#_43-4-wortliste) |
 | ⟪आप्⟫ ⟪आप्नोति⟫ | [āp](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āp&filter=roman&accent=no&transLit=roman) | 5 P (āpnoti) | erreichen, erlangen | [7](/lektionen/lektion07#_7-6-wortliste) |
-| ⟪आयच्छति⟫ | ⟪यम्⟫ + ⟪आ⟫ | 1***U*** | dehnen, ausstrecken | [44](/lektionen/lektion44#_44-5-wortliste) |
+| ⟪आयच्छति⟫ | ⟪यम्⟫ + ⟪आ⟫ | 1**U** | dehnen, ausstrecken | [44](/lektionen/lektion44#_44-5-wortliste) |
 | ⟪आयुर्वेद⟫ | [āyurveda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āyurveda&filter=roman&accent=no&transLit=roman) | m | das traditionelle medizinische System Indiens | [49](/lektionen/lektion49#_49-4-wortliste) |
 | ⟪आयुस्⟫ | [āyus](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āyus&filter=roman&accent=no&transLit=roman) | n | Lebenszeit (die volle Lebenszeit, die man leben kann, wenn nichts dazwischen kommt) ; | [49](/lektionen/lektion49#_49-4-wortliste) |
 | ⟪आर्य⟫ | [ārya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ārya&filter=roman&accent=no&transLit=roman) | 3 | arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; E | [15](/lektionen/lektion15#_15-8-wortliste) |
@@ -640,7 +638,7 @@ outline: 2
 | ⟪शूद्री⟫ ⟪शूद्राणी⟫ | [śūdrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrī&filter=roman&accent=no&transLit=roman) | f. / **śūdrāṇī** f | Frau eines Śūdra | [3](/lektionen/lektion03#_3-6-wortliste) |
 | ⟪शून्य⟫ | [śūnya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūnya&filter=roman&accent=no&transLit=roman) | 3 | leer, öde | [51](/lektionen/lektion51#_51-6-wortliste) |
 | ⟪शूर⟫ | [śūra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūra&filter=roman&accent=no&transLit=roman) | 3 | tapfer, heldenhaft ; m.: Held | [18](/lektionen/lektion18#_18-4-wortliste) |
-| ⟪शेते⟫ | ⟪शी⟫ | 2Ā | liegen. Diese Wurzel hat in allen Formen des Präsensstamms ***Hochstufe:*** 1.sg.Ind.Präs.Ā ***⟪शेये⟫*** (śe + e). Folgend | [44](/lektionen/lektion44#_44-5-wortliste) |
+| ⟪शेते⟫ | ⟪शी⟫ | 2Ā | liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā ***⟪शेये⟫*** (śe + e). Folgend | [44](/lektionen/lektion44#_44-5-wortliste) |
 | ⟪शोक⟫ | [śoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śoka&filter=roman&accent=no&transLit=roman) | m | Trauer, Gram | [38](/lektionen/lektion38#_38-9-wortliste) |
 | ⟪शोभन⟫ | [śobhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śobhana&filter=roman&accent=no&transLit=roman) | 3 | glänzend, prächtig, herrlich, schön, gut | [18](/lektionen/lektion18#_18-4-wortliste) |
 | ⟪शौच⟫ | [śauca](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śauca&filter=roman&accent=no&transLit=roman) | n | Reinigung, Reinheit | [16](/lektionen/lektion16#_16-2-wortliste) |

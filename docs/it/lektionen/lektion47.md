@@ -1,6 +1,6 @@
 ---
 title: Lezione 47
-subtitle: "L'imperativo (लोट्)"
+subtitle: "L'imperativo (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatica"
@@ -9,12 +9,12 @@ status: stable
 
 # Lezione 47
 
-## 47.1. L'imperativo (लोट्)
+## 47.1. L'imperativo (⟪लोट्⟫)
 
 :::grammar-box
-L'imperativo (लोट्) esprime
+L'imperativo (⟪लोट्⟫) esprime
 
-*   **ordine** (è espresso anche dal gerundivo (कृत्य))
+*   **ordine** (è espresso anche dal gerundivo (⟪कृत्य⟫))
 *   **regola**
 *   **richiesta**
 *   **desiderio**
@@ -23,149 +23,149 @@ L'imperativo (लोट्) esprime
 *   **riflessione**
 *   **domanda**
 
-I significati sopra elencati sono condivisi con l'ottativo (विधिलिङ्).
+I significati sopra elencati sono condivisi con l'ottativo (⟪विधिलिङ्⟫).
 
 Con l'imperativo si esprime anche:
 
 *   **permesso**
-*   **che un'azione è il momento giusto** (è espresso anche dal gerundivo (कृत्य))
+*   **che un'azione è il momento giusto** (è espresso anche dal gerundivo (⟪कृत्य⟫))
 *   **augurio di benedizione**
 :::Esempi:
 
 :::indent
-एहि । "Vieni!"
+⟪एहि⟫ ⟪।⟫ "Vieni!"
 
-ग्रामं भवानागच्छतु । o ottativo: ग्रामं भवानगच्छेत् । "Vieni al villaggio!"
+⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ o ottativo: ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ "Vieni al villaggio!"
 
-वेदमध्ययै । o ottativo: वेदमधीयीय । "Vorrei studiare il Veda."
+⟪वेदमध्ययै⟫ ⟪।⟫ o ottativo: ⟪वेदमधीयीय⟫ ⟪।⟫ "Vorrei studiare il Veda."
 
-इच्छामि भुङ्क्तां भवान् । o ottativo: इच्छामि भुञ्जीत भवान् । "Desidero che mangino."
+⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ o ottativo: ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ "Desidero che mangino."
 
-किं वेदमध्ययै । o ottativo: किं वेदमधीयीय । "Dovrei studiare il Veda?"
+⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ o ottativo: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ "Dovrei studiare il Veda?"
 
-करोतु शस्त्रं भवान् । o gerundivo: भवता शस्त्रं कर्तव्यम् । "Fai un coltello!" ; "Puoi fare un coltello." ; "È il momento di fare un coltello."
+⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ o gerundivo: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ "Fai un coltello!" ; "Puoi fare un coltello." ; "È il momento di fare un coltello."
 
-चिरं जीवतु भवान् । "Che tu viva a lungo!"
+⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ "Che tu viva a lungo!"
 ::::::grammar-box
 Gli ordini cortesi sono spesso espressi con l'imperativo passivo.
 :::Esempi:
 
 :::indent
-भवता प्रविश्यताम् । "Entri ***per favore***!"
+⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "Entri **per favore**!"
 
-निषद्यताम् । "Per favore, si sieda!"
+⟪निषद्यताम्⟫ ⟪।⟫ "Per favore, si sieda!"
 :::Nell'imperativo del sanscrito classico, le forme della prima persona sono antiche forme del congiuntivo. Il congiuntivo vedico è principalmente il modo che esprime un desiderio: "Vogliamo andare!" "Andiamo!"
 
 :::grammar-box
 L'imperativo si forma dalla radice del presente.
-:::## 47.2. Formazione dell'imperativo (लोट्) delle radici di presente tematico
+:::## 47.2. Formazione dell'imperativo (⟪लोट्⟫) delle radici di presente tematico
 
 ### 47.2.1. Desinenze dell'imperativo alle radici di presente tematico
 
 :::grammar-box
-| | परस्मैपदम् || आत्मनेपदम् ||
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Desinenze** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **1. Persona**[[br]]तृतीयः | \-āni | \-āma | \-ai | \-āmahai |
-| **2. Persona**[[br]]मध्यमः | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
-| **3. Persona**[[br]]प्रथमः | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
+| **Desinenze** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **1. Persona**:br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **2. Persona**:br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **3. Persona**:br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::Nota: ¹ Le desinenze della 2. e 3.sg. possono essere sostituite da -tāt, quando si vuole esprimere un augurio:
 
 :::indent
-भद्रो भवतात् "Sii felice!" "Che sia felice!"
+⟪भद्रो⟫ ⟪भवतात्⟫ "Sii felice!" "Che sia felice!"
 
-शुभं भवतु oppure शुभं भवतात् "Che sia bene!" "Tutto il bene!"
-:::### 47.2.2. Prima classe del presente (भ्वादि)
-
-:::grammar-box
-| | परस्मैपदम् || आत्मनेपदम् ||
-| :---: | :---: | :---: | :---: | :---: |
-| **भू 1P** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **1ª persona**[[br]]तृतीयः | भवानि | भवाम | &lt;भवै&gt; | &lt;भवामहै&gt; |
-| **2ª persona**[[br]]मध्यमः | भव[[br]](bho + a + ø) | भवत | &lt;भवस्व&gt; | &lt;भवध्वम्&gt; |
-| **3ª persona**[[br]]प्रथमः | भवतु | भवन्तु | &lt;भ्वताम्&gt; | &lt;भवन्ताम्&gt; |
-:::### 47.2.3. Sesta classe del presente (तुदादि)
+⟪शुभं⟫ ⟪भवतु⟫ oppure ⟪शुभं⟫ ⟪भवतात्⟫ "Che sia bene!" "Tutto il bene!"
+:::### 47.2.2. Prima classe del presente (⟪भ्वादि⟫)
 
 :::grammar-box
-| | परस्मैपदम् || आत्मनेपदम् ||
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **विश् 6P** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **1. Persona**[[br]]तृतीयः | विशानि | विशाम | &lt;विशै&gt;[[br]](viś-a + ai) | &lt;विशामहै&gt; |
-| **2. Persona**[[br]]मध्यमः | विश | विशत | &lt;विशस्व&gt; | &lt;विशध्वम्&gt; |
-| **3. Persona**[[br]]प्रथमः | विशतु | विशन्तु | &lt;विशताम्&gt; | &lt;विशन्ताम्&gt; |
+| **⟪भू⟫ 1P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **1ª persona**:br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | &lt;⟪भवै⟫&gt; | &lt;⟪भवामहै⟫&gt; |
+| **2ª persona**:br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | &lt;⟪भवस्व⟫&gt; | &lt;⟪भवध्वम्⟫&gt; |
+| **3ª persona**:br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | &lt;⟪भ्वताम्⟫&gt; | &lt;⟪भवन्ताम्⟫&gt; |
+:::### 47.2.3. Sesta classe del presente (⟪तुदादि⟫)
+
+:::grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| **⟪विश्⟫ 6P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **1. Persona**:br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | &lt;⟪विशै⟫&gt;:br(viś-a + ai) | &lt;⟪विशामहै⟫&gt; |
+| **2. Persona**:br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | &lt;⟪विशस्व⟫&gt; | &lt;⟪विशध्वम्⟫&gt; |
+| **3. Persona**:br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | &lt;⟪विशताम्⟫&gt; | &lt;⟪विशन्ताम्⟫&gt; |
 ::::::media
 ![](/images/lekt4702.webp)
-Fig.: प्रविशत
-Tempio di Hanuman, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی
+Fig.: ⟪प्रविशत⟫
+Tempio di Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4702))
-:::### 47.2.4. Quarta classe del presente (दिवादि)
+:::### 47.2.4. Quarta classe del presente (⟪दिवादि⟫)
 
 :::grammar-box
-| | परस्मैपदम् || आत्मनेपदम् ||
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **नृत् 4P** | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **1. Persona**[[br]]तृतीयः | नृत्यानि | नृत्याम | &lt;नृत्यै&gt; | &lt;नृत्यामहै&gt; |
-| **2. Persona**[[br]]मध्यमः | नृत्य | नृत्यत | &lt;नृत्यस्व&gt; | &lt;नृत्यध्वम्&gt; |
-| **3. Persona**[[br]]प्रथमः | नृत्यतु | नृत्यन्तु | &lt;नृत्यताम्&gt; | &lt;नृत्यन्ताम्&gt; |
+| **⟪नृत्⟫ 4P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **1. Persona**:br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | &lt;⟪नृत्यै⟫&gt; | &lt;⟪नृत्यामहै⟫&gt; |
+| **2. Persona**:br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | &lt;⟪नृत्यस्व⟫&gt; | &lt;⟪नृत्यध्वम्⟫&gt; |
+| **3. Persona**:br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | &lt;⟪नृत्यताम्⟫&gt; | &lt;⟪नृत्यन्ताम्⟫&gt; |
 ::::::media
 ![](/images/lekt4701.webp)
-Fig.: नृत्यत
+Fig.: ⟪नृत्यत⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4701))
-:::### 47.2.5. Decima classe del presente (चुरादि) e causativi
+:::### 47.2.5. Decima classe del presente (⟪चुरादि⟫) e causativi
 
-चुर् 10U
+⟪चुर्⟫ 10U
 
 :::grammar-box
-| | परस्मैपदम् || आत्मनेपदम् ||
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **एकवचनम्** | **बहुवचनम्** | **एकवचनम्** | **बहुवचनम्** |
-| **1. Persona**[[br]]तृतीयः | चोरयानि | चोरयाम | चोरयै | चोरयामहै |
-| **2. Persona**[[br]]मध्यमः | चोरय | चोरयत | चोरयस्व | चोरयध्वम् |
-| **3. Persona**[[br]]प्रथमः | चोरयतु | चोरयन्तु | चोरयताम् | चोरयन्ताम् |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **1. Persona**:br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
+| **2. Persona**:br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
+| **3. Persona**:br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
 :::### 47.2.6. Passivo
 
-ईक्ष् 1Ā
+⟪ईक्ष्⟫ 1Ā
 
 :::grammar-box
-| | आत्मनेपदम् ||
+| | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **एकवचनम्** | **बहुवचनम्** |
-| **1. Persona**[[br]]तृतीयः | ईक्ष्यै[[br]](īks-ya + ai) | ईक्ष्यामहै |
-| **2. Persona**[[br]]मध्यमः | ईक्ष्यस्व | ईक्ष्यध्वम् |
-| **3. Persona**[[br]]प्रथमः | ईक्ष्यताम् | ईक्ष्यन्ताम् |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **1. Persona**:br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
+| **2. Persona**:br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
+| **3. Persona**:br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::## 47.3. Esercizio
 
 A) Tradurre:
 
-यदि गच्छसि गच्छ त्वम् । अहं न गमिष्यामि ॥१॥
+⟪यदि⟫ ⟪गच्छसि⟫ ⟪गच्छ⟫ ⟪त्वम्⟫ ⟪।⟫ ⟪अहं⟫ ⟪न⟫ ⟪गमिष्यामि⟫ ⟪॥१॥⟫
 
-आर्य प्रेक्षस्व मे परिभवम् ॥२॥
+⟪आर्य⟫ ⟪प्रेक्षस्व⟫ ⟪मे⟫ ⟪परिभवम्⟫ ⟪॥२॥⟫
 
-भो राम यदि मया गन्तव्यं तदैषा कन्यापि मम सहायिनी भवतु ॥३॥
+⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥३॥⟫
 
 :::media
 ![](/images/lekt4703.webp)
-Fig.: भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु
+Fig.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4703))
-:::आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥४॥
+:::⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
 
-प्रसीदत्वार्यः ॥५॥
+⟪प्रसीदत्वार्यः⟫ ⟪॥५॥⟫
 
-आर्ये स्वागतं ते ॥६॥
+⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥६॥⟫
 
 :::media
 ![](/images/lekt4704.webp)
-Fig.: आर्ये स्वागतं ते
+Fig.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4704))
-:::आज्ञापयत्वार्यः किं मया क्रियतामिति ॥७॥
+:::⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
 
-युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥८॥
+⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥८॥⟫
 
-प्रश्नः : कस्मात्त्वं भीतः । प्रतिवचनम् : तस्य रामस्य गुणेभ्यः । प्रष्टा : के तस्य गुणा यस्य गृहं प्रविश्याशितव्यमपि नास्ति ॥९॥
+⟪प्रश्नः⟫ : ⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥९॥⟫
 
-तवैव हस्ते शस्त्रं तिष्ठतु ॥१०॥
+⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥१०॥⟫
 
-भवति न ते परिभवस्तत्रभवतो रामस्य निवेदयितव्यः ॥११॥
+⟪भवति⟫ ⟪न⟫ ⟪ते⟫ ⟪परिभवस्तत्रभवतो⟫ ⟪रामस्य⟫ ⟪निवेदयितव्यः⟫ ⟪॥११॥⟫
 
 B.) Tradurre in sanscrito (usare l'imperativo):
 
@@ -175,7 +175,7 @@ B.) Tradurre in sanscrito (usare l'imperativo):
 
 3\. Vogliamo chiamare.
 
-4\. Voglio piegarmi a te (चतुर्थ्या).
+4\. Voglio piegarmi a te (⟪चतुर्थ्या⟫).
 
 5\. Questa azione deve essere compiuta.
 
@@ -185,13 +185,13 @@ B.) Tradurre in sanscrito (usare l'imperativo):
 
 8\. Inizia lo studio!
 
-9\. Dai (प्र-यम्) agli antenati palline di riso!
+9\. Dai (⟪प्र⟫-⟪यम्⟫) agli antenati palline di riso!
 
 10\. Devono rallegrarsi!
 
 11\. Voglio guardare verso il mondo.
 
-12\. Vogliamo andare a Benares (पद्).
+12\. Vogliamo andare a Benares (⟪पद्⟫).
 
 13\. Devono (pl.) onorare gli dèi con un sacrificio come padroni dell'offerta.
 
@@ -239,7 +239,7 @@ B.) Tradurre in sanscrito (usare l'imperativo):
 
 :::deleteme-box
 
-**lekt4702:** Tempio di Hanuman, Delhi = हनुमान् मन्दिर, दिल्ली / دہلی [Fonte dell'immagine: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Accesso il 2009-01-09. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribuzione, nessuna opera derivata)]
+**lekt4702:** Tempio di Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Fonte dell'immagine: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Accesso il 2009-01-09. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribuzione, nessuna opera derivata)]
 
 **lekt4701:** [Fonte dell'immagine: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Accesso il 2009-01-09. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, share alike)]
 

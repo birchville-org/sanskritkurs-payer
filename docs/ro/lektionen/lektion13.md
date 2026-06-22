@@ -20,7 +20,7 @@ Pentru distribuirea PPP-urilor pe -ta- respectiv -na- nu se pot stabili reguli f
 Aproape toate rădăcinile pe -d formează PPP pe -na-. În acest caz, -d-n- este înlocuit cu -n-n-, ceea ce nu se întâmplă în general în sandha cuvântului, ci este o imitație a sandhei de propoziție.
 
 Exemplu:
-pad 4 Ā PPP: panna 3 = पन्न
+pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::---
 
@@ -32,39 +32,31 @@ pad 4 Ā PPP: panna 3 = पन्न
 
     de exemplu:
 
-    ::: indent
-    इष्ट „dorit” (adică nu doar dorit în trecut, ci și în prezent)
+    :::indent
+    ⟪इष्ट⟫ „dorit” (adică nu doar dorit în trecut, ci și în prezent)
 
-    त्वरित „grăbit, urgent” (PPP la tvar 1 Ā „a grăbi”; Dhātupāṭha: ñitvárā)
-    :::
-
-2. PPP-ul poate fi utilizat atributiv ca adjectiv:
+    ⟪त्वरित⟫ „grăbit, urgent” (PPP la tvar 1 Ā „a grăbi”; Dhātupāṭha: ñitvárā)
+    :::2. PPP-ul poate fi utilizat atributiv ca adjectiv:
 
     de exemplu:
 
-    ::: indent
-    इष्टं फलम् „roada dorită (de exemplu, a faptelor)”
-    :::
-
-    Dacă în acest caz अपि urmează după PPP, अपि are sensul „deși”:
+    :::indent
+    ⟪इष्टं⟫ ⟪फलम्⟫ „roada dorită (de exemplu, a faptelor)”
+    :::Dacă în acest caz ⟪अपि⟫ urmează după PPP, ⟪अपि⟫ are sensul „deși”:
 
     de exemplu:
 
-    ::: indent
-    इष्टमपि फलं न लभते = „Deși cel care dorește roada, nu o obține.”
-    :::
-
-3. Neutru singular al PPP-ului fiecărui verb poate fi, de asemenea, utilizat ca substantiv verbal:
+    :::indent
+    ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = „Deși cel care dorește roada, nu o obține.”
+    :::3. Neutru singular al PPP-ului fiecărui verb poate fi, de asemenea, utilizat ca substantiv verbal:
 
     de exemplu:
 
-    ::: indent
-    गत n.: „mersul, mersul”
+    :::indent
+    ⟪गत⟫ n.: „mersul, mersul”
 
-    नृत्त n.: „dansul, dansul”
-    :::
-
-::::---
+    ⟪नृत्त⟫ n.: „dansul, dansul”
+    :::::::---
 
 ## 13.3. Determinative atributive ale substantivel (poziția cuvântului)
 
@@ -75,7 +67,7 @@ Atributele (adițiile) apar în proză în ordinea normală a cuvintelor, înain
 Exemplu:
 
 :::indent
-साधुरिष्टं फलं पश्यति = „Un sfânt vede roada dorită (a faptelor sale).”
+⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = „Un sfânt vede roada dorită (a faptelor sale).”
 :::::::---
 
 ## 13.4. Formarea adjectivelor cu sufixele -mant și -vant (taddhita)
@@ -89,9 +81,9 @@ Prin intermediul sufixelor taddhita -mant, respectiv -vant, se formează adjecti
 Exemple:
 
 :::indent
-पशुमन्त् "care posedă vite"
+⟪पशुमन्त्⟫ "care posedă vite"
 
-गुणवन्त् "care posedă calități bune / virtute"
+⟪गुणवन्त्⟫ "care posedă calități bune / virtute"
 :::::::---
 
 ## 13.5. Declinarea tematică a substantivelor
@@ -102,10 +94,10 @@ Rădăcinile în -mant, respectiv -vant, fac parte din rădăcinile nominale cu 
 La rădăcinile nominale cu declinare tematică, se face distincție între cazurile puternice și cele slabe. În cazurile puternice, sufixul formativ de temă — la substantivul derivat din rădăcină, componenta rădăcinică — prezintă gradul ridicat, respectiv gradul lung; în cazurile slabe, gradul scăzut.
 :::**Cazurile puternice sunt:**
 
-| | Singular[[br]]एकवचन | Dual[[br]]द्विवचन | Plural[[br]]बहुवचन |
+| | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **La masculine și feminine**[[br]]पुंस्, स्त्री | Nominativ[[br]]प्रथमा[[br]]Acuzativ[[br]]द्वितीया[[br]]Vocativ[[br]]सम्बोधनप्रथमा | Nominativ[[br]]प्रथमा[[br]]Acuzativ[[br]]द्वितीया[[br]]Vocativ[[br]]सम्बोधनप्रथमा | Nominativ[[br]]प्रथमा[[br]][[br]]Vocativ[[br]]सम्बोधनप्रथमा |
-| **La neutre**[[br]]नपुंसक | — | — | Nominativ[[br]]प्रथमा[[br]]Acuzativ[[br]]द्वितीया[[br]]Vocativ[[br]]सम्बोधनप्रथमा |
+| **La masculine și feminine**:br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAcuzativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAcuzativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVocativ:br⟪सम्बोधनप्रथमा⟫ |
+| **La neutre**:br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAcuzativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ |
 
 **Toate celelalte cazuri sunt slabe.**
 
@@ -125,17 +117,15 @@ Pentru înțelegerea formelor individuale ale declinării substantivelor pe -man
 
     Exemple:
 
-    ::: indent
-    -t + bh- » -d-bh- द्भ्
+    :::indent
+    -t + bh- » -d-bh- ⟪द्भ्⟫
 
-    -k + bh- » -g-bh- ग्भ्
+    -k + bh- » -g-bh- ⟪ग्भ्⟫
 
-    -c + bh- » -g-bh- ग्भ्
+    -c + bh- » -g-bh- ⟪ग्भ्⟫
 
-    -c + dh- » -g-dh- ग्ध्
-    :::
-
-::::---
+    -c + dh- » -g-dh- ⟪ग्ध्⟫
+    :::::::---
 
 ## 13.7. Desinenzele de caz ale rădăcinilor consonantice
 
@@ -157,19 +147,19 @@ La rădăcinile care se termină cu consoană:
 
 | | | Masculin || Neutru ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| Singular[[br]]एकवचन | Nominativ[[br]]प्रथमा | paśu-mān[[br]]पशुमान् | guṇa-vān[[br]]गुणवान् | paśu-mat[[br]]पशुमत् | guṇa-vat[[br]]गुणवत् |
-| | Acuzativ[[br]]द्वितीया | paśu-mant-am[[br]]पशुमन्तम् | guṇa-vant-am[[br]]गुणवन्तम् | paśu-mat[[br]]पशुमत् | guṇa-vat[[br]]गुणवत् |
-| | Instrumental[[br]]तृतीया | paśu-mat-ā[[br]]पशुमता | guṇa-vat-ā[[br]]गुणवता | paśu-mat-ā[[br]]पशुमता | guṇa-vat-ā[[br]]गुणवता |
-| Plural[[br]]बहुवचन | Nominativ[[br]]प्रथमा | paśu-mant-as[[br]]पशुमन्तस् | guṇa-vant-as[[br]]गुणवन्तस् | paśu-mant-i[[br]]पशुमन्ति | guṇa-vant-i[[br]]गुणवन्ति |
-| | Acuzativ[[br]]द्वितीया | paśu-mat-as[[br]]पशुमतस् | guṇa-vat-as[[br]]गुणवतस् | paśu-mant-i[[br]]पशुमन्ति | guṇa-vant-i[[br]]गुणवन्ति |
-| | Instrumental[[br]]तृतीया | paśu-mad-bhis[[br]]पशुमद्भिस् | guṇa-vad-bhis[[br]]गुणवद्भिस् | paśu-mad-bhis[[br]]पशुमद्भिस् | guṇa-vad-bhis[[br]]गुणवद्भिस् |
+| Singular:br⟪एकवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Acuzativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Instrumental:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
+| Plural:br⟪बहुवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Acuzativ:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Instrumental:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
 Feminin:
 
 Rădăcina feminină a rădăcinilor în -mant- și -vant- se termină în -mat-ī, respectiv -vat-ī. Declinarea este ca la devī, adică nu există alternanță de rădăcină.
 
 Exemplu:
-* paśumatī, guṇavatī पशुमती गुणवती
+* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
 
 :::---
 
@@ -177,8 +167,8 @@ Exemplu:
 
 Învățați următoarele cuvinte:
 
-- **eva** एव : subliniază cuvântul anterior
-- **asura** m. असुर : demon
+- **eva** ⟪एव⟫ : subliniază cuvântul anterior
+- **asura** m. ⟪असुर⟫ : demon
 
 > **ASURA.** 'Spiritual, divin.'
 >
@@ -194,82 +184,82 @@ Exemplu:
 
 :::media
 ![](/images/lekt1301.webp)
-Fig.: महिषासुरः
+Fig.: ⟪महिषासुरः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt1301))
-:::- **guṇa** m. गुण : fir, coardă; proprietate, calitate bună
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna पद् पद्यते पद्यते पन्न : merge, ajunge în
-- **as** 2 P (asti) अस् अस्ति : fi, a fi prezent
-- **as** 4 P (asyati), Pass.: asyate, PPP asta अस् अस्यति अस्यते अस्त : arunca, (arunca) departe
-- **i** 2 P (eti), Pass.: īyate, PPP ita इ एति ईयते इत : merge
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta पा पाति पायते पात : proteja, păzi
+:::- **guṇa** m. ⟪गुण⟫ : fir, coardă; proprietate, calitate bună
+- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : merge, ajunge în
+- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : fi, a fi prezent
+- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : arunca, (arunca) departe
+- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : merge
+- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : proteja, păzi
 
 :::indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta पा पिबति पीयते पीत : bea (tradițional considerat ca aparținând clasei 1)
-:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa द्विष् द्वेष्टि द्विष्यते द्विष्ट : urî, invidia
-- **ad** 2 P (atti), Pass. adyate, PPP anna अद् अत्ति अद्यते अन्न : mânca, consuma
-- **anna** n. अन्न : mâncare (din PPP: *ad-na: ceea ce este mâncat)
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : bea (tradițional considerat ca aparținând clasei 1)
+:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : urî, invidia
+- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : mânca, consuma
+- **anna** n. ⟪अन्न⟫ : mâncare (din PPP: *ad-na: ceea ce este mâncat)
 
 :::media
 ![](/images/lekt1304.webp)
-Fig.: अन्नम्
+Fig.: ⟪अन्नम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1304))
 :::Formarea cuvintelor:
 
 pad 4 Ā:
 
 :::indent
-**pada** n. पद : pas, loc, locație
+**pada** n. ⟪पद⟫ : pas, loc, locație
 
-**pāda** m. पाद : picior, o sfert, vers
+**pāda** m. ⟪पाद⟫ : picior, o sfert, vers
 ::::::media
 ![](/images/lekt1303.webp)
-Fig.: चत्वारः पादाः : गजः
+Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1303))
 :::dviṣ 2 U:
 
 :::indent
-**dveṣa** द्वेष : ură
+**dveṣa** ⟪द्वेष⟫ : ură
 :::---
 
 ## 13.10. Exercițiu
 
 A) Traduceți și transformați în propoziții la prezent activ:
 
-१. अग्निना गृहं दग्धम् ।
-२. बुद्धेन सत्यं बुद्धम् ।
-३. बोध्या गौतमो मुक्तः ।
+⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
+⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
+⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
 
 :::media
 ![](/images/lekt1305.webp)
-Fig.: अत्र गौतमो बुद्धो बोध्या मुक्तः
+Fig.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1305))
-:::४. शूद्रा मूढाः । (2 posibilități)
-५. ब्राह्मणेन मोक्ष इष्टः ।
-६. रामेण पुण्यं कृतम् ।
-७. ऋषिभिः सत्यमेवोदितमित्युदितम् ।
-८. धर्मेण स्वर्गं नीतम् ।
-९. साधुनाधर्मो न कृतम् ।
-१०. मन्त्रेण मोक्षो लब्धः ।
-११. कया रक्षिकयेयं बाला रक्षिता ॥
+:::⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 posibilități)
+⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
+⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
+⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
+⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
+⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
+⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
+⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
 
 B) Traduceți și transformați în propoziții la perfect pasiv:
 
-१. राम इष्टमपि मोक्षं न लभते ।
-२. योद्धा न मुञ्चति ।
-३. साधवो देवान्स्मरन्ति ।
-४. पुण्यवान्पुत्रो देवान् यजते ।
-५. सुखवान्क्षत्रियो धर्मं रक्षति ।
-६. पुत्रवान्नरकं न गच्छति ।
-७. धर्मवती पापं न करोतीति गुरुर्वदति ।
-८. बुद्धिमन्तः सत्यवतो धर्मं पृच्छन्ति ।
-९. धर्मवन्तः फलवत्पुण्यं कुर्वन्ति ।
-१०. ब्राह्मणा गुणवतः पुत्रानिच्छन्ति ।
-११. कयर्ग्वेदं शृण्वन्ति ।
-१२. किमीश्वरः सृजति ।
-१३. साधुः कृतं पापं सहते ।
-१४. पार्थिवो धनमिच्छतीति नीचा मन्यन्ते ।
-१५. नैवासुरो जयतीत्यृषयः पश्यन्ति ।
-१६. ब्राह्मणाः किं पिबन्ति खादन्ति च ॥
+⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
+⟪२⟫. ⟪योद्धा⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
+⟪३⟫. ⟪साधवो⟫ ⟪देवान्स्मरन्ति⟫ ⟪।⟫
+⟪४⟫. ⟪पुण्यवान्पुत्रो⟫ ⟪देवान्⟫ ⟪यजते⟫ ⟪।⟫
+⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
+⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫
+⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫
+⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪।⟫
+⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
+⟪११⟫. ⟪कयर्ग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
+⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
+⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
+⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
+⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
+⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
 
 ---
 
@@ -277,20 +267,20 @@ B) Traduceți și transformați în propoziții la perfect pasiv:
 
 A) Traduceți următoarele propoziții:
 
-१. रामो मार्गेण ग्रामं गच्छति ।
-२. नरा धनेन सुखमिच्छन्ति ।
-३. नरः पुत्रेण नगरं पद्यते ।
-४. देवो लोकान्सृजति ।
-५. बाला जलं पिबति ।
-६. कवयो धनं लुभ्यन्ति ।
-७. बलवान्क्षत्रियः शूद्राञ्जयति ।
-८. गुणवान् द्विष्टमपि शत्रुं न युध्यते ।
-९. अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिर्वदति ।
-१०. बाला अन्नेन बलमाप्नुवन्ति ।
-११. बुद्धिमन्तः सत्येन मोक्षं लभन्ते ।
-१२. इमाः साध्व्यः पापं सहन्ते ।
-१३. कां देवतामृषिः पश्यति ।
-१४. कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।
+⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
+⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
+⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
+⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
+⟪५⟫. ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫
+⟪६⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
+⟪७⟫. ⟪बलवान्क्षत्रियः⟫ ⟪शूद्राञ्जयति⟫ ⟪।⟫
+⟪८⟫. ⟪गुणवान्⟫ ⟪द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫
+⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
+⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
+⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्येन⟫ ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
+⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
+⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
+⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
 
 B) Transformați propozițiile din exercițiul A) la vocea pasivă.
 
@@ -298,7 +288,7 @@ C) Formați o construcție PPP pentru propozițiile din exercițiul A).
 
 :::media
 ![](/images/lekt1302.webp)
-Fig.: सत्यमेव जयते
+Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1302))
 :::D) Din ce combinații de sunete pot fi derivate următoarele forme Sandhi? Dați toate posibilitățile:
 

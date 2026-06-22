@@ -9,18 +9,16 @@ status: stable
 
 # Lektion 10
 
-::: deleteme-box
+:::deleteme-box
 **In dieser Lektion lernen Sie:**
 - Den Passivsatz (Instrumentalis des Agens)
 - Die Deklination des Instrumentalis (tṛtīyā)
 - Das Cerebralisationsgesetz für -n- (Wortsandhi)
 - Die Bildung des Passivs (yak) im Indikativ Präsens
 - Vokabular zu Opfer, Wahrheit und gesellschaftlichen Rollen
-:::
+:::## 10.1. Der Passivsatz
 
-## 10.1. Der Passivsatz
-
-::: grammar-box
+:::grammar-box
 **Schema:**
 **(Agens - kartṛ - im Instrumentalis (tṛtīyā)) - (direktes Objekt - karman - im Nominativ) - passive Verbalform**
 
@@ -28,39 +26,29 @@ z.B. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪द
 
 Dieser Satz ist **völlig (!) bedeutungsgleich** mit dem Satz:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫
-:::
-
-::: grammar-box
+::::::grammar-box
 - Im Passivsatz steht der Agens (**kartṛ**) im **Instrumentalis** (tṛtīyā f. "dritte Kasusendung"), das direkte Objekt (**karman** n.) im **Nominativ** (prathamā f.).
 - Passivsätze, in denen der Agens nicht bezeichnet wird, haben meist unpersönliche Bedeutung ("man"):
   z.B. **ijyate** = ⟪इज्यते⟫ "Man opfert" (wörtlich: "es wird mit einem Opfer verehrt").
-:::
-
-::: grammar-box
+::::::grammar-box
 **Auch wenn der entsprechende aktive Satz einen Akkusativ (dvitīyā) des Zieles enthalten würde, kann dieser im Passivsatz in den Nominativ (prathamā) gesetzt werden:**
 
 Dem Aktivsatz **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma geht ins Dorf." entsprechen die Passivsätze:
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
 - alternativ: **rāmeṇa grāmo gamyate** = ⟪रामेण⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫
-:::
-
-::: grammar-box
+::::::grammar-box
 **Intransitive Verben (Verben ohne direktes Objekt) haben häufig Passivkonstruktionen, bes. auch in höflichen Aufforderungen:**
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Man möge eintreten = Bitte treten Sie ein = Herein!"
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = "Man möge sich setzen = Bitte setzen Sie sich = Bitte nehmen Sie Platz"
-:::
+:::Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch leichter bildbar als z.B. zahlreiche Präsensstämme.
 
-Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch leichter bildbar als z.B. zahlreiche Präsensstämme.
-
-::: important
+:::important
 **Sanskrit-Passivsätze dürfen im Allgemeinen im Deutschen nicht durch einen Passivsatz wiedergegeben werden, da das deutsche Passiv eine ganz andere stilistische Funktion hat.**
-:::
-
----
+:::---
 
 ## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
 
-::: grammar-box
+:::grammar-box
 **Die regulären Endungen des Instrumentalis (tṛtīyā):**
 - **Singular: -ā**
 - **Plural: -bhis**
@@ -105,17 +93,13 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 | | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
 | **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
-:::
-
-::: deleteme-box
+::::::deleteme-box
 Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepronomens und der Demonstrativpronomina mit den Formen des entsprechenden Maskulinums identisch.
-:::
-
----
+:::---
 
 ### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
 
-::: grammar-box
+:::grammar-box
 **Der Instrumentalis (tṛtīyā) steht hauptsächlich auf die Fragen:**
 - **Wodurch?**
 - **Womit?**
@@ -127,21 +111,17 @@ Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepr
 3. **zur Angabe des Weges, auf dem jemand wohin gelangt**
 4. **zum Ausdruck der Verbindung, Vereinigung, Begleitung von**
 5. **bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. saha = ⟪सह⟫ = "mit"** :brz.B.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "gemeinsam mit dem Brahmanen"
-:::
-
-Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
+:::Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 
 ---
 
 ## 10.3. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
 
-::: grammar-box
+:::grammar-box
 Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** ersetzt, wenn **ṛ, ṝ, r, ṣ** im Wort dem **-n-** vorausgehen oder kein anderer Laut als Vokale, Gutturale, Labiale, **y, v, h** oder Anusvāra zwischen diesen Lauten und dem folgenden **-n-** im Wort steht.
-:::
+:::**Deshalb:**
 
-**Deshalb:**
-
-::: grammar-box
+:::grammar-box
 | | Instrumentalis Singular |
 | :--- | :--- |
 | **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
@@ -149,11 +129,9 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 | **īśvara** :br⟪ईश्वर⟫ | **īśvereṇa** :br⟪ईश्वरेण⟫ |
 | **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
 | **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
-:::
+:::**So ist auch das -ṇ- zu erklären in:**
 
-**So ist auch das -ṇ- zu erklären in:**
-
-::: indent
+:::indent
 **śravaṇa** ⟪श्रवण⟫
 
 **śṛṇoti** ⟪शृणोति⟫
@@ -161,19 +139,14 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 **kāraṇa** ⟪कारण⟫
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
-:::
-
-
----
+:::---
 
 ## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
 
-::: grammar-box
+:::grammar-box
 **Bildung:**
 **(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung**
-:::
-
-z.B.
+:::z.B.
 
 | Wurzel:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
@@ -232,62 +205,44 @@ z.B.
 - **grāma** m. ⟪ग्राम⟫ : Dorf
 - **nagara** n. ⟪नगर⟫ : Stadt
 
-  ::: note-box
+  :::note-box
   Zum Stadt- und Dorfleben siehe Basham, *Wonder*, Kap. 6.
-  :::
+  :::- **yajña** m. ⟪यज्ञ⟫ : Opfer
 
-- **yajña** m. ⟪यज्ञ⟫ : Opfer
-
-  ::: note-box
+  :::note-box
   Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit.
   
   Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**.
-  :::
+  :::- **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
 
-- **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
-
-  ::: note-box
+  :::note-box
   Wodurch man sich Wohlergehen und gute Wiedergeburten verdient.
-  :::
-
-- **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
+  :::- **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
 - **satya** n. ⟪सत्य⟫ : Wahrheit
 
-::: note-box
+:::note-box
 In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
 
 Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
-:::
-
-::: media
+::::::media
 ![](/images/lekt1003.webp)
 Abb.: ⟪वरुणः⟫
 (Bildquelle: [Details](/licenses#lekt1003))
-:::
+:::- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
 
-
-- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
-
-  ::: note-box
+  :::note-box
   Wortbildung **an-** („un-“) + **ṛta** n.
   
   **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
-  :::
+  :::- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
 
-- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
-
-  ::: note-box
+  :::note-box
   Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
-  :::
-
-::: media
+  ::::::media
 ![](/images/lekt1002.jpg)
 Abb.: ⟪विश्वामित्रः⟫
 (Bildquelle: [Details](/licenses#lekt1002))
-:::
-
-
-- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
+:::- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
 - **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
 
@@ -346,14 +301,11 @@ Abb.: ⟪विश्वामित्रः⟫
 3. Der Veda wird śruti genannt. (**vad**)
 4. Man spannt die Webkette auf. (2 Möglichkeiten)
 
-::: media
+:::media
 ![](/images/lekt1004.jpg)
 Abb.: ⟪तन्तुवायः⟫
 (Bildquelle: [Details](/licenses#lekt1004))
-:::
-
-
-5. Lehrer fragen. (Passivkonstruktion)
+:::5. Lehrer fragen. (Passivkonstruktion)
 6. Das Auge führt. (Passivkonstruktion)
 7. Der Dichter sieht eine Gottheit. (Passivkonstruktion)
 8. Wer (fem.) hütet das Mädchen? (Passivkonstruktion)
@@ -398,14 +350,12 @@ Abb.: ⟪तन्तुवायः⟫
 **⟪क⟫**
 
 ⟪१⟫.
-::: center
+:::center
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
 ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
-:::
-
-⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
+:::⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
 ⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ | |
 ⟪४⟫. ⟪ऋषयः⟫ ⟪सूक्तानि⟫ ⟪पश्यन्ति⟫ | |
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ | |

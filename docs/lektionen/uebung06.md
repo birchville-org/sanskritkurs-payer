@@ -140,13 +140,11 @@ sā brāhmaṇī nṛtyati.
 
 ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
 
-::: media
+:::media
 ![](/images/uebung004.jpg)
 Abb.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung004))
-:::
-
----
+:::---
 
 ## Wiederholungsübung Lektion 6
 
@@ -598,7 +596,7 @@ sarvathā kuśalam.
 
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
-::: media
+:::media
 ![](/images/uebung005.webp)
 Abb.: ⟪देवतान्नपूर्णा⟫
 (Bildquelle: [Details](/licenses#uebung005))

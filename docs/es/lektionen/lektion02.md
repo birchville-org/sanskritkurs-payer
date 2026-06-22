@@ -14,14 +14,14 @@ last_reconstructed: 2026-04-30
 :::grammar-box
 **Esquema: Nombre predicativo - Sujeto**
 
-p. ej. devo viṣṇuḥ = देवो विष्णुः = "Viṣṇu es un dios."
+p. ej. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu es un dios."
 :::No es necesaria una cópula verbal ("es", "son", "soy", "eres", "sois"), pero a veces puede aparecer.
 
-**No hay artículos**: **devaḥ** -- देवः puede significar "el dios" o "un dios".
+**No hay artículos**: **devaḥ** -- ⟪देवः⟫ puede significar "el dios" o "un dios".
 
 Aunque en sánscrito la estructura de la oración es bastante libre (especialmente en versos), al traducir una oración nominal siempre se debe considerar en primer lugar una traducción de acuerdo con el esquema estándar anterior.
 
-En la oración nominal, el sujeto está en nominativo (primer caso = **prathamā** f. = प्रथमा). El nombre predicativo concuerda con el sujeto en número y caso; si el nombre predicativo es un adjetivo, también concuerda en género.
+En la oración nominal, el sujeto está en nominativo (primer caso = **prathamā** f. = ⟪प्रथमा⟫). El nombre predicativo concuerda con el sujeto en número y caso; si el nombre predicativo es un adjetivo, también concuerda en género.
 
 ---
 
@@ -29,46 +29,46 @@ En la oración nominal, el sujeto está en nominativo (primer caso = **prathamā
 
 En sánscrito hay:
 
-- **tres números** (formas de conteo) = **vacana** n. -- वचन
-  - Singular (número singular) = **ekavacana** n. -- एकवचन
-  - Dual (número dual) = **dvivacana** n. -- द्विवचन
-  - Plural (número plural) = **bahuvacana** n. -- बहुवचन
-- **tres géneros** (gégramáticos) = **liṅga** n. / **vyakti** f. -- लिङ्ग / व्यक्ति
-  - Masculino (masculino) = **puṃs** m. -- पुंस्
-  - Femenino (femenino) = **strī** f. -- स्त्री
-  - Neutro (neutro) = **napuṃsaka** n. -- नपुंसक
-- **ocho casos** (casos gramaticales) = **sup** -- सुप् (= terminaciones casuales)
+- **tres números** (formas de conteo) = **vacana** n. -- ⟪वचन⟫
+  - Singular (número singular) = **ekavacana** n. -- ⟪एकवचन⟫
+  - Dual (número dual) = **dvivacana** n. -- ⟪द्विवचन⟫
+  - Plural (número plural) = **bahuvacana** n. -- ⟪बहुवचन⟫
+- **tres géneros** (gégramáticos) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
+  - Masculino (masculino) = **puṃs** m. -- ⟪पुंस्⟫
+  - Femenino (femenino) = **strī** f. -- ⟪स्त्री⟫
+  - Neutro (neutro) = **napuṃsaka** n. -- ⟪नपुंसक⟫
+- **ocho casos** (casos gramaticales) = **sup** -- ⟪सुप्⟫ (= terminaciones casuales)
 
-Para la declinación, las terminaciones casuales (**sup** = सुप्) se añaden al llamado **tema nominal** (forma del sustantivo sin terminaciones casuales).
+Para la declinación, las terminaciones casuales (**sup** = ⟪सुप्⟫) se añaden al llamado **tema nominal** (forma del sustantivo sin terminaciones casuales).
 
-Ejemplo: **devas** = देवस् (nominativo singular masculino) "el/un dios" = **deva-** -- देव- (tema nominal) + **-s** -- -स् (terminación casual).
+Ejemplo: **devas** = ⟪देवस्⟫ (nominativo singular masculino) "el/un dios" = **deva-** -- ⟪देव⟫- (tema nominal) + **-s** -- -⟪स्⟫ (terminación casual).
 
 En los diccionarios de sánscrito, los sustantivos se listan en su **tema nominal**:
-- **deva** m. -- देव m. (masculino)
-- **vacana** n. -- वचन n. (neutro)
-- **vyakti** f. -- व्यक्ति f. (femenino)
+- **deva** m. -- ⟪देव⟫ m. (masculino)
+- **vacana** n. -- ⟪वचन⟫ n. (neutro)
+- **vyakti** f. -- ⟪व्यक्ति⟫ f. (femenino)
 
 ---
 
 ## 2.3. El nominativo singular
 
-**Nominativo singular = prathamā ekavacanam = प्रथमा एकवचनम्**
+**Nominativo singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
 :::grammar-box
-**El nominativo singular termina en -s = -स् o bien es sin terminación.**
+**El nominativo singular termina en -s = -⟪स्⟫ o bien es sin terminación.**
 :::### 2.3.1. Nominativo singular en -s
 
 Los siguientes stems nominales, que terminan en una vocal, forman el nominativo singular en **-s**:
 
 :::grammar-box
-**Masculinos en -a:** p. ej. deva m. = देव "Dios" -- Nom. sg.: devas = देवस्
-**Masculinos en -i:** p. ej. kavi m. = कवि "Poeta" -- Nom. sg.: kavis = कविस्
-**Masculinos en -u:** p. ej. guru m. = गुरु "Maestro" -- Nom. sg.: gurus = गुरुस्
+**Masculinos en -a:** p. ej. deva m. = ⟪देव⟫ "Dios" -- Nom. sg.: devas = ⟪देवस्⟫
+**Masculinos en -i:** p. ej. kavi m. = ⟪कवि⟫ "Poeta" -- Nom. sg.: kavis = ⟪कविस्⟫
+**Masculinos en -u:** p. ej. guru m. = ⟪गुरु⟫ "Maestro" -- Nom. sg.: gurus = ⟪गुरुस्⟫
 :::---
 
-## 2.4. Sandhi -- सन्धि
+## 2.4. Sandhi -- ⟪सन्धि⟫
 
-La terminación de una palabra se ajusta en sánscrito también según la inicial de la palabra siguiente. Este fenómeno se denomina **Sandhi** (m.) = सन्धि ("conexión").
+La terminación de una palabra se ajusta en sánscrito también según la inicial de la palabra siguiente. Este fenómeno se denomina **Sandhi** (m.) = ⟪सन्धि⟫ ("conexión").
 
 ### 2.4.1. Sandhi de la -s final
 
@@ -79,45 +79,45 @@ Véase también el resumen:
 La **-s** final:
 
 - **en posición absoluta final** (final de oración) se convierte en **Visarga (-ḥ)**:
-  - **devas** = देवस् » **devaḥ** = देवः
-  - **kavis** = कविस् » **kaviḥ** = कविः
-  - **gurus** = गुरुस् » **guruḥ** = गुरुः
+  - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
+  - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
+  - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
 - **antes de sonidos sordos**:
   - antes de **k, kh, p, ph** y **ś, ṣ, s**: se convierte en **Visarga (-ḥ)**
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = देवः शिवः ("Śiva es un dios")
+    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva es un dios")
   - antes de **c, ch**: se convierte en **-ś**
   - antes de **ṭ, ṭh**: se convierte en **-ṣ**
   - antes de **t, th**: se mantiene **-s**
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = साधुश्चैतन्यः ("Caitanya es un santo")
+    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya es un santo")
 
 - **antes de sonidos sonoros**:
   - después de vocales distintas de a: se convierte en **-r**
-    - **kavis + Māghas** » **kavir māghaḥ** = कविर्माघः ("Māgha es un poeta")
+    - **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha es un poeta")
   - después de vocales distintas de a antes de **r-**: **-s** se pierde, la vocal se alarga.
-    - **gurus + rāmas** » **gurū rāmaḥ** = गुरू रामः ("Rāma es un maestro")
+    - **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("Rāma es un maestro")
   - después de **a-**: **-as**
-    - antes de consonantes sonoras/a: se convierte en **-o** (la a inicial se pierde » ऽ)
-      - **devas viṣṇus** » **devo viṣṇuḥ** = देवो विष्णुः
-      - **devas agnis** » **devo 'gniḥ** = देवो ऽग्निः
+    - antes de consonantes sonoras/a: se convierte en **-o** (la a inicial se pierde » ⟪ऽ⟫)
+      - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
+      - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
     - antes de otras vocales: se convierte en **-a** (hiato)
-      - **devas + indras** » **deva indraḥ** = देव इन्द्रः
+      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
 
 ---
 
 ## 2.5. Lista de palabras
 
-**deva** m. -- देव : Celestial, dios; príncipe, rey.
+**deva** m. -- ⟪देव⟫ : Celestial, dios; príncipe, rey.
 
-**īśvara** m. -- ईश्वर : Señor, soberano, dios (monoteísta).
+**īśvara** m. -- ⟪ईश्वर⟫ : Señor, soberano, dios (monoteísta).
 
-**brāhmaṇa** m. -- ब्राह्मण : Brahmanes (estado sacerdotal).
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmanes (estado sacerdotal).
 
-**kṣatriya** m. -- क्षत्रिय : Kṣatriya (estado de príncipes y guerreros).
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (estado de príncipes y guerreros).
 
-**vaiśya** m. -- वैश्य : Vaiśya (estado de ganaderos y comerciantes).
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (estado de ganaderos y comerciantes).
 
-**śūdra** m. -- शूद्र : Śūdra (estado de servicios).
+**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (estado de servicios).
 
 :::tip Los cuatro estados (varna)
 Según la teoría clásica (p. ej. Manusmṛti I, 88-91), las tareas se distribuyen:
@@ -145,9 +145,9 @@ Según la teoría clásica (p. ej. Manusmṛti I, 88-91), las tareas se distribu
   - Estudio de los Vedas
 - **de los Śūdras**
   - servir a las tres clases superiores
-:::**dvija** m. -- द्विज : "Dos veces nacido" (iniciados de las tres clases superiores: Brāhmaṇa, Kṣatriya, Vaiśya).
+:::**dvija** m. -- ⟪द्विज⟫ : "Dos veces nacido" (iniciados de las tres clases superiores: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- वर्ण : Color, estado de nacimiento (tendencia).
+**varṇa** m. -- ⟪वर्ण⟫ : Color, estado de nacimiento (tendencia).
 
 Los cuatro estados (**varṇa** m.) se confunden a menudo con las castas. Sin embargo, los cuatro estados, a diferencia de las castas, no son algo específicamente indio; en Europa también tuvimos un sistema de estados (en parte hasta la Primera Guerra Mundial), como demuestra la siguiente ilustración del siglo XV:
 
@@ -185,42 +185,42 @@ Cada sociedad estamental es convencional, ordenada por reglas de conducta, crea 
 [**Weber, Max &lt;1864 – 1920&gt;:** Economía y sociedad : bosquejo de una sociología comprensiva. – 5., revisada ed. – Tubinga : Mohr, 1976. – P. 625 ss.]
 :::Los varṇas son, por consiguiente, estamentos de nacimiento.
 
-**kavi** m. -- कवि : poeta.
+**kavi** m. -- ⟪कवि⟫ : poeta.
 
-**agni** m. -- अग्नि : fuego, dios Agni.
+**agni** m. -- ⟪अग्नि⟫ : fuego, dios Agni.
 
 :::media
 ![](/images/lekt0203.jpg)
 Fig.: Dios Agni, miniatura, s. XVIII.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0203))
-:::**sādhu** 3 -- साधु : correcto, bueno.
+:::**sādhu** 3 -- ⟪साधु⟫ : correcto, bueno.
 
-**sādhu** m. -- साधु : hombre «santo», Sādhu.
+**sādhu** m. -- ⟪साधु⟫ : hombre «santo», Sādhu.
 
 :::media
 ![](/images/lekt0202.webp)
-Fig.: Sādhu (साधु), Templo Pashupatinath, Katmandú.
+Fig.: Sādhu (⟪साधु⟫), Templo Pashupatinath, Katmandú.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0202))
-:::**guru** 3 -- गुरु : pesado, importante, digno de veneración
+:::**guru** 3 -- ⟪गुरु⟫ : pesado, importante, digno de veneración
 
-**guru** m. -- गुरु : persona digna de veneración: padre, madre, pariente mayor, especialmente maestro, maestro
+**guru** m. -- ⟪गुरु⟫ : persona digna de veneración: padre, madre, pariente mayor, especialmente maestro, maestro
 
 ## 2.6. Ejercicio
 
 **A) Inserte, teniendo en cuenta el sandhi, y forme oraciones nominales:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
-   = देवस् ... (शिव, अग्नि, विष्णु, गणेश, कृष्ण, इन्द्र)
+   = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
-   = द्विजस् ... (ब्राह्मण, क्षत्रिय, वैश्य)
+   = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
 3. **gurus ... (brāhmaṇa, Candrakīrti)**
-   = गुरुस् ... (ब्राह्मण, चन्द्रकीर्ति)
+   = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
 4. **vaiśyas ... (Tulādhara)**
-   = वैश्यस् ... (तुलाधर)
+   = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
 5. **sādhus ... (guru, Rāma)**
-   = साधुस् ... (गुरु, राम)
+   = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
 6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
-   = कविस् ... (कालिदास, माघ, भारवि, हर्षदेव)
+   = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
 **B) Traduzca al sánscrito:**
 

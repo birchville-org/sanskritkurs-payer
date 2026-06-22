@@ -8,7 +8,7 @@ status: stable
 
 ## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.")
 
-:::: grammar-box
+:::grammar-box
 **Bildung:**
 
 **Vor den auslautenden Konsonanten der tiefstufigen Wurzel wird ein sog. Nasalinfix (-na- bzw. -n-) eingeschoben:**
@@ -17,13 +17,11 @@ status: stable
 *   **im schwachen Stamm: -n-**
 
 **Für die Verbindung der Endkonsonanten der Wurzel mit konsonantisch beginnenden Endungen gelten dieselben Regeln wie für die 2. Präsensklasse.**
-::::
-
-Beispiele:
+:::Beispiele:
 
 ⟪युज्⟫ 7U "verbinden, anschirren"
 
-:::: grammar-box
+:::grammar-box
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
@@ -33,11 +31,9 @@ Beispiele:
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
 | **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
-::::
+:::⟪रुध्⟫ 7U "stoppen, zum Stillstand bringen"
 
-⟪रुध्⟫ 7U "stoppen, zum Stillstand bringen"
-
-:::: grammar-box
+:::grammar-box
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
@@ -47,29 +43,23 @@ Beispiele:
 | | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
 | **Partizip Präsens** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
 
-::::
-
-:::: grammar-box
+::::::grammar-box
 **Bei einigen Wurzeln ist das -n- des schwachen Präsensstamms auch in außerpräsentische Tempora eingedrungen, sodass diese Wurzeln mit infigiertem Nasal angesetzt werden.**
-::::
-
-Beispiel:
+:::Beispiel:
 
 **⟪भञ्ज्⟫** 7P "brechen"
 
-::: indent
+:::indent
 *   Indikativ Präsens
     *   3.sg.P. **⟪भनक्ति⟫** (bha-na + j + ti)
     *   3.pl.P. **⟪भञ्जन्ति⟫** (bha + n + j-anti)
 *   Futur: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
 *   Passiv: **⟪भज्यते⟫** (entweder aus ursprünglicher Wurzel **⟪भज्⟫** oder aus *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (evtl. aus *bhñj + na)
-:::
-
-## 31.2. Wortliste
+:::## 31.2. Wortliste
 
 **⟪युज्⟫** 7U **⟪युनक्ति⟫** : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, ⟪सप्तमी⟫)
-::: indent
+:::indent
 **Fut. ⟪योक्ष्यति⟫**
 **Pass. ⟪युज्यते⟫**
 **Kaus. ⟪योजयति⟫**
@@ -86,75 +76,57 @@ davon:
 Das **⟪कलियुग⟫** begann um 3102 v. Chr., dem Jahr des **⟪महाभारत⟫**-Krieges. Näheres bei Basham, Wonder S. 323)
 
 **⟪योग⟫ m.:** "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3101.webp)
 Abb.: ⟪योगः⟫
 Yoga-Darstellung.
 (Bildquelle: [Details](/licenses#lekt3101))
-:::
-
-**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : stoppen, zum Stillstand bringen, zurückhalten = einschließen, verdecken
-::: indent
+:::**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : stoppen, zum Stillstand bringen, zurückhalten = einschließen, verdecken
+:::indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
 **Kaus. ⟪रोधयति⟫**
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
-:::
-
-**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : abschneiden
-::: indent
+:::**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : abschneiden
+:::indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
 **Kaus. ⟪छेदयति⟫**
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
-:::
-
-**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : (etwas) zerbrechen
-::: indent
+:::**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : (etwas) zerbrechen
+:::indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
-:::
-
-**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : salben, beschmieren
-::: indent
+:::**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : salben, beschmieren
+:::indent
 **Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
 **Kaus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
 **Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
-:::
-
-**⟪अञ्ज्⟫ + vi -&gt; ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : auseinanderschmieren = sich schminken, sich unterschieden machen
-::: indent
+:::**⟪अञ्ज्⟫ + vi -&gt; ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : auseinanderschmieren = sich schminken, sich unterschieden machen
+:::indent
 **PPP ⟪व्यक्त⟫ :** unterschieden, entfaltet
 
 davon:
 **⟪व्यञ्जन⟫ n.:** Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3102.webp)
 Abb.: ⟪व्यञ्जनम्⟫
 Vorbereitung zum Kathakali-Tanz, Kochi.
 (Bildquelle: [Details](/licenses#lekt3102))
-:::
-
-**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : spalten
-::: indent
+:::**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : spalten
+:::indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
 **Kaus. ⟪भेदयति⟫**
 **PPP ⟪भिन्न⟫**
 **Inf. ⟪भेत्तुम्⟫**
-:::
-
-**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : genießen (z.B. Essen ; "die Erde genießen" = die Erde beherrschen)
-::: indent
+:::**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : genießen (z.B. Essen ; "die Erde genießen" = die Erde beherrschen)
+:::indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
 **Kaus. ⟪भोजयति⟫**
@@ -163,10 +135,8 @@ Vorbereitung zum Kathakali-Tanz, Kochi.
 
 davon:
 **⟪भोग⟫ m.:** Genuss, Essen, Lust, Nutzen, Steuer, Abgabe
-:::
-
-**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): binden, anbinden
-::: indent
+:::**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): binden, anbinden
+:::indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
 **Kaus. ⟪बन्धयति⟫**
@@ -175,22 +145,16 @@ davon:
 
 davon:
 **⟪बन्धन⟫ n.:** Binden, Fessel
-:::
-
-**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : erkennen, verstehen
-::: indent
+:::**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : erkennen, verstehen
+:::indent
 davon:
 **⟪प्रज्ञा⟫ f.:** Weisheit, Erkenntnis
-:::
-
-::: media
+::::::media
 ![](/images/lekt3103.webp)
 Abb.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (Bildquelle: [Details](/licenses#lekt3103))
-:::
-
-**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : entstehen, existieren
+:::**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : entstehen, existieren
 
 **⟪शरीर⟫ n.:** Leib, Körper
 
@@ -202,25 +166,21 @@ A) Übersetzen Sie folgende Sätze und lösen Sie die Komposita auf:
 
 ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫
 
-::: media
+:::media
 ![](/images/lekt3105.jpg)
 Abb.: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
 Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
 (Bildquelle: [Details](/licenses#lekt3105))
-:::
-
-⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
+:::⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
 
 ⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫
 
-::: media
+:::media
 ![](/images/lekt3104.webp)
 Abb.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
 Rāhula, der Sohn Buddhas, Laos.
 (Bildquelle: [Details](/licenses#lekt3104))
-:::
-
-⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
+:::⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
 B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und Plural, P und Ā, des Indikativ und Optativ Präsens:
 
@@ -234,7 +194,7 @@ B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und P
 
 ⟪५⟫. ⟪भञ्ज्⟫ (nur P)
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt3101:** Yoga-Darstellung. [Bildquelle: Flickr, 2008-12-25. CC BY]
 

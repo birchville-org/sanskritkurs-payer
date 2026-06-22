@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Bestimmen und übersetzen Sie folgende Formen:
 
-::: grammar-box
+:::grammar-box
 | Wortform | Bestimmung | Bedeutung |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪वित्थ⟫** | ⟪विद्⟫ (2P) 2. pl. P. Ind. Präs. | ihr wisst |
@@ -65,9 +65,7 @@ A) Bestimmen und übersetzen Sie folgende Formen:
 | ⟪५०⟫. **⟪ददाने⟫** | ⟪दा⟫ (3U) Part. Präs. Ā. Lok. sg. m./n. | im Gebenden |
 | ⟪५१⟫. **⟪सुषुपुः⟫** | ⟪स्वप्⟫ (2P) 3. pl. P. Perf. | sie haben geschlafen |
 | ⟪५२⟫. **⟪ऊसु⟫** | ⟪वस्⟫ (1P) 2. pl. P. Perf. | ihr habt gewohnt |
-:::
-
----
+:::---
 
 ## Sprüche (⟪सुभाषितानि⟫)
 
@@ -83,7 +81,7 @@ Aus Zorn entsteht Verblendung, aus Verblendung die Verwirrung der Achtsamkeit (E
 ⟪३⟫. **⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 Für den Unbeherrschten (Nicht-Yogin) gibt es keine Einsicht.
 
-::: media
+:::media
 ![](/images/uebung080.webp)
 Abb.: ⟪सक्तः⟫
 (Bildquelle: [Details](/licenses#uebung080))

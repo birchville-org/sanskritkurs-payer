@@ -10,27 +10,23 @@ last_reconstructed: 2026-05-15
 
 A) Bilden Sie zu folgenden Formen sowohl die reduplizierten als auch die periphrastischen Perfektformen:
 
-::: grammar-box
+:::grammar-box
 | Präsens | Redupliziert | Periphrastisch |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪बिभ्रते⟫** | ⟪बभ्रिरे⟫ | ⟪बिभरां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪२⟫. **⟪बिभ्यति⟫** | ⟪बिभ्युः⟫ | ⟪बिभयां⟫ ⟪चक्रुः⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪३⟫. **⟪जुहोति⟫** | ⟪जुहाव⟫ | ⟪जुहवां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪४⟫. **⟪वेत्ति⟫** | ⟪विवेद⟫ | ⟪विदां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
-:::
+:::B) Bilden Sie das periphrastische Perfekt zur Wurzel **⟪आस्⟫** (sitzen):
 
-B) Bilden Sie das periphrastische Perfekt zur Wurzel **⟪आस्⟫** (sitzen):
-
-::: grammar-box
+:::grammar-box
 | Präsens | Periphrastisches Perfekt |
 | :--- | :--- |
 | ⟪१⟫. **⟪आस्ते⟫** | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. **⟪आसते⟫** | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
-:::
+:::C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
 
-C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
-
-::: grammar-box
+:::grammar-box
 | Präsens / Imperfekt | Perfekt |
 | :--- | :--- |
 | ⟪१⟫. **⟪जीयते⟫** | ⟪जिग्ये⟫ |
@@ -46,9 +42,7 @@ C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
 | ⟪११⟫. **⟪क्रामन्ति⟫** | ⟪चक्रमुः⟫ |
 | ⟪१२⟫. **⟪प्राव्रजन्⟫** | ⟪प्रवव्रजुः⟫ |
 | ⟪१३⟫. **⟪त्यक्ष्यति⟫** | ⟪तत्याज⟫ |
-:::
-
----
+:::---
 
 ## Übersetzungen
 
@@ -67,13 +61,11 @@ Ein Zweimalgeborener, der den Veda studiert hat, kennt Recht und Sitte der Zweim
 ⟪५⟫. **⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪।⟫ ⟪य⟫ ⟪एवं⟫ ⟪विदुर्नाधीयीरन्⟫ ⟪॥५॥⟫**
 Allein von der Wissenschaft kann man nicht leben. Wer das weiß, sollte nicht studieren.
 
-::: media
+:::media
 ![](/images/uebung061.webp)
 Abb.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (Bildquelle: [Details](/licenses#uebung061))
-:::
-
----
+:::---
 
 ## Scholarly Fragments
 
@@ -95,19 +87,17 @@ Man grüße Alte formgerecht, überlasse ihnen seinen Sitz und stehe bei ihnen m
 **⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ⟪विज्ञेयो⟫ ⟪जितेन्द्रियः⟫ ⟪॥⟫**  
 Wenn ein Mann sich weder freut noch verdrießt, wenn er hört, berührt, sieht, schmeckt oder riecht, dann gilt er als einer, der seine Sinne besiegt hat (**⟪जितेन्द्रियः⟫**).
 
-::: media
+:::media
 ![](/images/uebung060.webp)
 Abb.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Bildquelle: [Details](/licenses#uebung060))
-:::
-
----
+:::---
 
 ## Wortformbestimmung
 
 Bestimmen und übersetzen Sie folgende Wortformen:
 
-::: grammar-box
+:::grammar-box
 | Wortform | Bestimmung | Bedeutung |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪नयति⟫** | ⟪नी⟫ (1U) 3. sg. P. Ind. Präs. | er führt |
@@ -146,9 +136,7 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 | ⟪३४⟫. **⟪व्यानक्⟫** | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | er offenbarte |
 | ⟪३५⟫. **⟪युङ्क्ते⟫** | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Präs. | er verbindet für sich |
 | ⟪३६⟫. **⟪अपिबत्⟫** | ⟪पा⟫ (1P) 3. sg. P. Impf. | er trank |
-:::
-
-::: media
+::::::media
 ![](/images/uebung059.webp)
 Abb.: ⟪जगौ⟫
 (Bildquelle: [Details](/licenses#uebung059))

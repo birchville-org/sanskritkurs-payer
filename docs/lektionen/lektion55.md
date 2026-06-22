@@ -11,7 +11,7 @@ status: stable
 
 ## 55.1. Der a-Aorist (Aorist mit Themavokal)
 
-::: grammar-box
+:::grammar-box
 **Der a-Aorist wird gebildet wie ein Imperfekt (⟪लङ्⟫) der 6. Präsensklasse (⟪तुदादि⟫), d.h.:**
 
 **Augment + tiefstufige Wurzel + a + Sekundärendung**
@@ -23,38 +23,30 @@ status: stable
 **Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen).**
 
 **Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340.**
-:::
-
-Beispiel:
+:::Beispiel:
 
 ⟪सिच्⟫ 6U "beträufeln"
 
-::: indent
+:::indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | 1\. ⟪तृतीयः⟫ | ⟪असिचम्⟫ | ⟪असिचाम⟫ | ⟪असिचे⟫ | ⟪असिचामहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
-:::
+:::Unregelmäßige Bildungen:
 
-Unregelmäßige Bildungen:
-
-::: indent
+:::indent
 ⟪अस्⟫ 4P "werfen": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Erklärung siehe Thumb-Hauschild §541,4)
 
 ⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
 
 ⟪दृश्⟫ "sehen": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (Hochstufe!)
-:::
+:::Beachte:
 
-Beachte:
-
-::: indent
+:::indent
 ⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmäßige Tiefstufe!)
-:::
-
-## 55.2. Übung
+:::## 55.2. Übung
 
 Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist:
 
@@ -91,14 +83,12 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
-::: media
+:::media
 ![](/images/lekt5501.webp)
 Abb.: ⟪अजीर्यमिति⟫
 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
 (Bildquelle: [Details](/licenses#lekt5501))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt5501:** 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618 [Bildquelle: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Zugriff am 2009-01-28. Gemeinfrei]
 

@@ -214,7 +214,7 @@ sa guruḥ. enaṃ śṛṇvanti.
 
 ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 
-::: media
+:::media
 ![](/images/uebung006.jpg)
 Abb.: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung006))

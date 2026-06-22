@@ -28,7 +28,7 @@ Ein Schüler erhält ein Viertel (des Wissens) von seinem Lehrer, ein Viertel du
 
 B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. Person):
 
-::: grammar-box
+:::grammar-box
 | Präsens / Imperfekt | Perfekt (1. Person) |
 | :--- | :--- |
 | ⟪१⟫. **⟪अश्नीमः⟫** | ⟪आशिम⟫ |
@@ -100,21 +100,17 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪६७⟫. **⟪अहनम्⟫** | ⟪जघान⟫ / ⟪जघन⟫ |
 | ⟪६८⟫. **⟪पश्यामः⟫** | ⟪ददृशिम⟫ |
 | ⟪६९⟫. **⟪ईक्षे⟫** | ⟪ईक्षां⟫ ⟪चक्रे⟫ |
-:::
-
-::: media
+::::::media
 ![](/images/uebung065.webp)
 Abb.: ⟪आशिमेति⟫
 (Bildquelle: [Details](/licenses#uebung065))
-:::
-
----
+:::---
 
 ## Wortformbestimmung
 
 Bestimmen und übersetzen Sie folgende Wortformen:
 
-::: grammar-box
+:::grammar-box
 | Wortform | Bestimmung | Bedeutung |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | ich gab / er gab für sich |
@@ -151,9 +147,7 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 | ⟪३२⟫. **⟪ऐक्षे⟫** | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | ich sah |
 | ⟪३३⟫. **⟪आह⟫** | ⟪अह्⟫ (P) 3. sg. P. Perf. | er sagte |
 | ⟪३४⟫. **⟪आहन्⟫** | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | er schlug |
-:::
-
-::: media
+::::::media
 ![](/images/uebung066.webp)
 Abb.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
 (Bildquelle: [Details](/licenses#uebung066))

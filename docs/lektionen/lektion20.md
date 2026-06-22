@@ -11,36 +11,29 @@ status: stable
 
 ## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
 
-::: media
+:::media
 ![](/images/lekt2004.webp)
 Abb.: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
 Jodhpur = ⟪जोधपुर⟫
 (Bildquelle: [Details](/licenses#lekt2004))
-:::
+:::⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, der viel Reis besitzt"
 
-
-⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, der viel Reis besitzt"
-
-:::: grammar-box
+:::grammar-box
 
 **Ein Bahuvrīhi bezeichnet im Unterschied zum Tatpuruṣa etwas anderes, als durch seine Glieder ausgedrückt wird: während ⟪बालपुत्रः⟫ als Tatpuruṣa aufgelöst "ein junger Sohn" bedeutet, also etwas, das durch das Schlussglied des Kompositums (⟪पुत्र⟫) ausgedrückt wird, bedeutet ⟪बालपुत्रः⟫ als Bahuvrīhi aufgelöst "einer, dessen Sohn jung ist", d.h. das Bezeichnete ist weder der Sohn (⟪पुत्र⟫) noch unbedingt jung (⟪बाल⟫), sondern eine vom jungen Sohn verschiedene Person, nämlich sein Vater.**
 
 **Possessivkomposita sind zunächst immer Adjektive, die allerdings substantiviert werden können. Deshalb hängt das grammatische Geschlecht eine Bahuvrīhi von dem ab, worauf sich das Bahuvrīhi bezieht, und nicht von Geschlecht des letzten Kompositionsgliedes.**
 
-::::
-
-:::: grammar-box
+::::::grammar-box
 
 **Schema für die Auflösung eines Bahuvrīhi:**
 
 **1. Glied meist im Nominativ (⟪प्रथमा⟫) Sing., Dual oder Plural -- 2. Glied im Nominativ Sing., Dual oder Plural -- Relativpronomen in einem anderen Kasus als Nominativ (meist Genetiv - ⟪षष्ठी⟫) und in Geschlecht und Zahl des Gesamtbahuvrīhi -- Demonstrativpronomen in Zahl, Fall und Geschlecht des Gesamtbahuvrīhi.**
 
-::::
-
-Beispiele:
+:::Beispiele:
 
 
-::: indent
+:::indent
 ⟪गतपापः⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, dessen Böses gegangen ist" = "einer, der frei von Übeltaten ist"
 
 Akk. sg. ⟪गतपापम्⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तम्⟫
@@ -58,9 +51,7 @@ usw.
 ⟪प्राप्तोदको⟫ ⟪ग्रामः⟫ = ⟪प्राप्तमुदकं⟫ ⟪यं⟫ s ⟪ग्रामः⟫ = "Ein Dorf, an das das Wasser herangekommen ist" = "ein von der Überschwemmung bedrohtes Dorf"
 
 ⟪पुण्यवत्पुत्रः⟫ als Bahuvrīhi = ⟪पुण्यवान्पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫, oder: ⟪पुण्यवन्तः⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, dessen Sohn Verdienst besitzt" oder: "einer, dessen Söhne Verdienst besitzen"
-:::
-
-:::: grammar-box
+::::::grammar-box
 
 **Das Verhältnis von Vorderglied zu Hinterglied kann bei einem Bahuvrīhi sein:**
 
@@ -71,9 +62,7 @@ usw.
 
 **Wie beim Tatpuruṣa steht das näher bestimmte Glied meist an zweiter Stelle.**
 
-::::
-
-Traditionell unterscheidet man:
+:::Traditionell unterscheidet man:
 
 *   ⟪समानाधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ stehen Vorderglied und Hinterglied im selben Kasus
     
@@ -82,21 +71,17 @@ Traditionell unterscheidet man:
 
 ## 20.2. Bahuvrīhi mit attributivem Vorderglied
 
-:::: grammar-box
+:::grammar-box
 
 **Schema:**
 
-::: indent
+:::indent
 **Adjektiv -- Nomen**
-:::
+:::**Beispiel:**
 
-**Beispiel:**
-
-::: indent
+:::indent
 ⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "ein Brahmane, dessen Sohn / Söhne gute Eigenschaften besitzt / besitzen"
-:::
-
-**Besonders häufig ist die -- bei Tatpuruṣa seltene -- Attributivbestimmung durch ein PPP. Das Relativpronomen steht dann bei der Auflösung meist im Instrumentalis (⟪तृतीया⟫) (seltener im Genetiv / ⟪षष्ठी⟫).**
+:::**Besonders häufig ist die -- bei Tatpuruṣa seltene -- Attributivbestimmung durch ein PPP. Das Relativpronomen steht dann bei der Auflösung meist im Instrumentalis (⟪तृतीया⟫) (seltener im Genetiv / ⟪षष्ठी⟫).**
 
 **Faustregel:**
 
@@ -105,79 +90,56 @@ Traditionell unterscheidet man:
 
 **Beispiel:**
 
-::: indent
+:::indent
 ⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = "einer / eine / eines, der / die / das ein Ergebnis hervorgebracht hat, jemand / etwas effektives"
-:::
+::::::## 20.3. Bahuvrīhi mit appositionellem Vorderglied
 
-::::
-
-## 20.3. Bahuvrīhi mit appositionellem Vorderglied
-
-:::: grammar-box
+:::grammar-box
 
 **Schema:**
 
-::: indent
+:::indent
 **Substantiv -- Substantiv**
-:::
+:::**Beispiele:**
 
-**Beispiele:**
-
-::: indent
+:::indent
 ⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "ein Mann, dessen Söhne Helden sind"
 
 ⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "der / die / das, dessen Ende dieses ist" = "damit endender"
-:::
-
-::::
-
-:::: grammar-box
+:::::::::grammar-box
 
 **Sehr wichtig sind appositionelle Bahuvrīhi mit den Endgliedern ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "erster, Anfang", seltener ⟪प्रभृति⟫ "Anfang". Solche Komposita entsprechen dem "u.s.w.":**
 
 **Beispiel:**
 
-::: indent
+:::indent
 ⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = "Die Götter, deren Anfang Indra ist" = "die Götter Indra u.s.w." = "Indra und die übrigen Götter"
-:::
-
-**Zum Ausdruck von "nur" kann man bahuvrīhis mit ⟪मात्रा⟫ f. "Maß, Begrenzung" als Hinterglied verwenden:**
+:::**Zum Ausdruck von "nur" kann man bahuvrīhis mit ⟪मात्रा⟫ f. "Maß, Begrenzung" als Hinterglied verwenden:**
 
 **Beispiel:**
 
-::: indent
+:::indent
 ⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = "das, dessen Maß ein Wort ist" = "nur ein Wort"
-:::
-
-**⟪मात्र⟫ nach einem PPP ist mit "sobald als" zu übersetzen:**
+:::**⟪मात्र⟫ nach einem PPP ist mit "sobald als" zu übersetzen:**
 
 **Beispiel:**
 
-::: indent
+:::indent
 ⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = "sie erschlagen einen Feind, dessen Maß das Entstehen ist" = "sie erschlagen den Feind, sobald er entstanden ist"
-:::
-
-::::
-
-::: media
+:::::::::media
 ![](/images/lekt2005.webp)
 Abb.: ⟪देवा⟫ ⟪यीश्वादयः⟫
 Jesus und die übrigen Götter, Ahmedabad
 (Bildquelle: [Details](/licenses#lekt2005))
-:::
-
-
-## 20.4. Bahuvrīhi mit kasuellem Vorderglied
+:::## 20.4. Bahuvrīhi mit kasuellem Vorderglied
 
 d.h. Bahuvrīhi, deren Vorderglied einen anderen Kasus als den Nominativ (⟪प्रथमा⟫) vertritt.
 
 Beispiel:
 
-::: indent
+:::indent
 ⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = "eine (Frau), deren Gestalt die eines Gottes ist" "eine Frau von göttlichem Aussehen"
-:::
-
-:::: grammar-box
+::::::grammar-box
 
 **Ausnahme zur allgemeinen Regel über die Reihenfolge der Kompositionsglieder:**
 
@@ -185,55 +147,39 @@ Beispiel:
 
 **Beispiel:**
 
-::: indent
+:::indent
 ⟪दण्डहस्तः⟫ =  ⟪दण्डो⟫ ⟪हस्ते⟫ (Lok. sg.) ⟪यस्य⟫ ⟪सः⟫ = "einer, in dessen Hand sich ein Stock befindet" = "einer, der einen Stock in der Hand trägt."
-:::
-
-::::
-
-::: media
+:::::::::media
 ![](/images/lekt2001.webp)
 Abb.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr.
 (Bildquelle: [Details](/licenses#lekt2001))
-:::
-
-
-## 20.5. Bahuvrīhi mit adverbiellem Vorderglied
+:::## 20.5. Bahuvrīhi mit adverbiellem Vorderglied
 
 Im Vorderglied steht ein Adverb, eine Präposition, ein Präverb oder ein anderes Indeklinabile; solche Komposita sind in der Regel ⟪नित्यसमास⟫.
 
 Beispiele:
 
-::: indent
+:::indent
 ⟪अपुत्रो⟫ ⟪नरः⟫ = ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪नास्ति⟫ ⟪स⟫ ⟪नरः⟫ = "ein Mann, der keinen Sohn hat" = "ein sohnloser Mann"
 
 ⟪दुर्बल⟫ ⟪३⟫ = "jemand / etwas, dessen Kraft schlecht ist" = "kraftlos, schwach"
-:::
-
-:::: grammar-box
+::::::grammar-box
 
 **⟪सह⟫ "mit" als Vorderglied eines Bahuvrīhi wird oft durch ⟪स⟫ ersetzt.**
 
 **Beispiel:**
 
-::: indent
+:::indent
 ⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "mit einem Sohn", "von einem Sohn begleitet"
-:::
-
-::::
-
-::: media
+:::::::::media
 ![](/images/lekt2006.webp)
 Abb.: ⟪सपुत्रा⟫
 Madhya Pradesh
 (Bildquelle: [Details](/licenses#lekt2006))
-:::
+:::## 20.6. Flexion des Schlussglieds eines Bahuvrīhi
 
-
-## 20.6. Flexion des Schlussglieds eines Bahuvrīhi
-
-:::: grammar-box
+:::grammar-box
 
 **Das Schlussglied eines Bahuvrīhi wird unabhängig von seinem ursprünglichen Geschlecht als mehrgeschlechtliches Adjektiv flektiert. Hat also in einem Kompositum das Schlussglied ein anderes als sein ursprüngliches Geschlecht, so muss es ein Bahuvrīhi sein, wenn es kein Samāhāradvanva (Neutrum sing.) ist.**
 
@@ -243,9 +189,7 @@ Madhya Pradesh
 *   **-a-Stämme (m., n.) bilden ihr Femininum auf -ā oder -ī**
 *   **-ī-Stämme (f.) müssen am Ende von Bahuvrīhis das Suffix -ka, -kā, -ka (n.) annehmen; dieses Suffix können bzw. müssen auch viele andere Bahuvrīhi annehmen**
 
-::::
-
-## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
+:::## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
 
 Die Beispiele sind hier zur späteren Durcharbeitung gegeben, für einige sind bisher die nötige Grammatik und der Wortschatz noch nicht besprochen
 
@@ -263,30 +207,22 @@ Die Beispiele sind hier zur späteren Durcharbeitung gegeben, für einige sind b
 12.  PPP als Vorderglied: ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
 13.  und andere
 
-::: media
+:::media
 ![](/images/lekt2007.webp)
 Abb.: ⟪कृतकटा⟫
 Chennai = சென்னை
 (Bildquelle: [Details](/licenses#lekt2007))
-:::
-
-
-## 20.8. Verhältnis von Bahuvrīhi und Relativsatz
+:::## 20.8. Verhältnis von Bahuvrīhi und Relativsatz
 
 Obwohl jedes Bahuvrīhi durch einen Relativsatz aufgelöst wird, kann nicht jeder Relativsatz durch ein Bahuvrīhi ersetzt werden. Hermann Georg Jacobi (1850 - 1937), der das Verhältnis beider näher untersucht hat (Compositum und Nebensatz, 1897), schreibt:
 
-::: indent
+:::indent
 "Wenn man aus dem Deutschen oder einer anderen modernen Sprache ins Sanskrit übersetzt, dürfen nicht alle Nebensätze durch Composita wiedergegeben werden, sondern nur die ausschmückenden und beschreibenden; diejenigen aber, welche eine begrifflich notwendige oder wichtige Bestimmung enthalten, erscheinen auch im Sanskrit als Relativsätze."
-:::
-
-::: media
+::::::media
 ![](/images/lekt2002.jpg)
 Abb.: Hermann Jacobi
 (Bildquelle: [Details](/licenses#lekt2002))
-:::
-
-
-Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und beschreibend an, was wir als "begrifflich notwendig oder wichtig" ansehen würden.
+:::Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und beschreibend an, was wir als "begrifflich notwendig oder wichtig" ansehen würden.
 
 ## 20.9. Wortliste
 
@@ -294,15 +230,12 @@ Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und b
 
 ⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.)
 
-::: media
+:::media
 ![](/images/lekt2008.webp)
 Abb.: ⟪आश्रमः⟫
 Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
 (Bildquelle: [Details](/licenses#lekt2008))
-:::
-
-
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tuend, machend, bewirkend
+:::⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tuend, machend, bewirkend
 
 ⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8)
 
@@ -516,109 +449,82 @@ B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit:
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
 
-::: indent
+:::indent
 Erklärung: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + Suffix -tas, das ablativische Bedeutung hat. Übersetzen Sie: "aufgrund von ..." oder ähnlich.
-:::
-
-⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
+:::⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪२॥⟫
 
-::: indent
+:::indent
 Erklärung: ⟪तपस्⟫ n. (Deklination später): Glut, Hitze, Qual ; Askeseglut, Kasteiung
-:::
-
-::: media
+::::::media
 ![](/images/lekt2010.webp)
 Abb.: ⟪तपस्⟫
 Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt.
 (Bildquelle: [Details](/licenses#lekt2010))
-:::
+:::⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (Zum Sāṃkhyasystem siehe Basham, Wonder S. 324f.)
 
-
-⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (Zum Sāṃkhyasystem siehe Basham, Wonder S. 324f.)
-
-::: indent
+:::indent
 Erklärung: ⟪त्रिविध⟫ ⟪३⟫ : "dreifach"
-:::
+:::Definition der Erlösung nach dem Nyāyasystem:
 
-Definition der Erlösung nach dem Nyāyasystem:
-
-::: indent
+:::indent
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२१॥⟫
 
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२२॥⟫
-:::
+:::Ausspruch der Materialisten nach dem ⟪सर्वदर्शनसंग्रह⟫ :
 
-Ausspruch der Materialisten nach dem ⟪सर्वदर्शनसंग्रह⟫ :
-
-::: indent
+:::indent
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
 ⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
 
 Erklärung: ⟪अत्मा⟫ = Nom.sg. mask. zu ⟪आत्मन्⟫ m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird"
-:::
+:::Ein ⟪सुभाषितम्⟫ :
 
-Ein ⟪सुभाषितम्⟫ :
-
-::: indent
+:::indent
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
 ⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
 ⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
 ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫
 
 Erläuterung: -da am Ende eines Kompositums: "gebend"
-:::
-
-::: media
+::::::media
 ![](/images/lekt2009.webp)
 Abb.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
 (Bildquelle: [Details](/licenses#lekt2009))
-:::
+:::Über Besitzverhältnisse:
 
-
-Über Besitzverhältnisse:
-
-::: indent
+:::indent
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
 ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫
 ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫
 ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪४१६॥⟫
 
 Erklärung: ⟪त्रयस्⟫ = Nom. mask. pl. zu ⟪त्रि⟫ "drei"
-:::
+:::Ein ⟪सुभाषितम्⟫ über weibliche Schönheit:
 
-Ein ⟪सुभाषितम्⟫ über weibliche Schönheit:
-
-::: indent
+:::indent
 ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 ⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫
 ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
 
 Erklärung: alle Formen außer ⟪कं⟫ und ⟪स्त्रीणाम्⟫ sind Nom. sg. neut. und beziehen sich auf ⟪वपुस्⟫.
-:::
-
-::: media
+::::::media
 ![](/images/lekt2003.webp)
 Abb.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
 (Bildquelle: [Details](/licenses#lekt2003))
-:::
+:::Noch ein ⟪सुभाषितम्⟫ :
 
-
-Noch ein ⟪सुभाषितम्⟫ :
-
-::: indent
+:::indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
 ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
 Erklärung: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P zu ⟪इष्⟫ : der wünschenden
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt2001:** Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr. [Bildquelle: Wikipedia, Public domain]
 

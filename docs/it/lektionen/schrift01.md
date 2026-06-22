@@ -1,4 +1,4 @@
-# Devanāgarī = देवनागरी
+# Devanāgarī = ⟪देवनागरी⟫
 
 ## Esercizio di scrittura 1
 
@@ -12,15 +12,15 @@ Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
 ![](/images/schrift002.webp)
 
-Ogni segno consonantico indica anche una "a" che segue la consonante. Se si vuole scrivere la pura consonante (senza vocale successiva), ciò deve essere contrassegnato da una barra obliqua sottostante -- virāma = विराम --:
+Ogni segno consonantico indica anche una "a" che segue la consonante. Se si vuole scrivere la pura consonante (senza vocale successiva), ciò deve essere contrassegnato da una barra obliqua sottostante -- virāma = ⟪विराम⟫ --:
 
-क् = k, च् = c, ट् = ṭ, त्  = t, प् = p
+⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
 Le vocali che seguono una consonante -- eccetto "a" -- si scrivono così:
 
-का = kā, कि = ki, की = kī, कु = ku, कू = kū, कृ = kṛ, कॄ = kṝ, कॢ  = kḷ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
-के = ke, कै = kai, को = ko, कौ = kau
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
 L'ordine durante la scrittura di queste combinazioni di consonante + vocale è:
 
@@ -36,8 +36,8 @@ kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā p�
 
 Leggere e traslitterare:
 
-तॄ पाप चट् चि चाप पॄ पति पितृ कॢप् कृ कुप् कुतो चैक पुट पचति तौ पू चेत् पतति ततो तट तपति तु ते कृ पीतौ
+⟪तॄ⟫ ⟪पाप⟫ ⟪चट्⟫ ⟪चि⟫ ⟪चाप⟫ ⟪पॄ⟫ ⟪पति⟫ ⟪पितृ⟫ ⟪कॢप्⟫ ⟪कृ⟫ ⟪कुप्⟫ ⟪कुतो⟫ ⟪चैक⟫ ⟪पुट⟫ ⟪पचति⟫ ⟪तौ⟫ ⟪पू⟫ ⟪चेत्⟫ ⟪पतति⟫ ⟪ततो⟫ ⟪तट⟫ ⟪तपति⟫ ⟪तु⟫ ⟪ते⟫ ⟪कृ⟫ ⟪पीतौ⟫
 
 Ulteriore esercizio di lettura:
 
-पिता Padre, कपि Scimmia, कृत Fatto, टीका Sottocommentario, तत् Questo, तट Riva, पत् Scoccare, पट Tessuto, काच Vetro, काकुत् Palato, चित् Percepire, पृच् Mescolare, पोटक Servo, चेतु Intenzione, तौतातित Seguace di Kumārila (Mīmāṃsā), तूत Gelso, पीत Bevuto, पीति Bevanda, कॢप् Adatto, कृपते Egli geme, पुटी Piegatura, चापि Simile, तोक Progenie, तृपत् Sazio, पॄ Riempiere, कृकाटी Giunto del collo, पूपौ Due torte, पैतृकी Paterno (fem.), कौट Fraudolento, कच Capigliatura, कुतपे Sulla coperta di pelo di capra, कुचौ Seno, चकिता Spaventato (fem.)
+⟪पिता⟫ Padre, ⟪कपि⟫ Scimmia, ⟪कृत⟫ Fatto, ⟪टीका⟫ Sottocommentario, ⟪तत्⟫ Questo, ⟪तट⟫ Riva, ⟪पत्⟫ Scoccare, ⟪पट⟫ Tessuto, ⟪काच⟫ Vetro, ⟪काकुत्⟫ Palato, ⟪चित्⟫ Percepire, ⟪पृच्⟫ Mescolare, ⟪पोटक⟫ Servo, ⟪चेतु⟫ Intenzione, ⟪तौतातित⟫ Seguace di Kumārila (Mīmāṃsā), ⟪तूत⟫ Gelso, ⟪पीत⟫ Bevuto, ⟪पीति⟫ Bevanda, ⟪कॢप्⟫ Adatto, ⟪कृपते⟫ Egli geme, ⟪पुटी⟫ Piegatura, ⟪चापि⟫ Simile, ⟪तोक⟫ Progenie, ⟪तृपत्⟫ Sazio, ⟪पॄ⟫ Riempiere, ⟪कृकाटी⟫ Giunto del collo, ⟪पूपौ⟫ Due torte, ⟪पैतृकी⟫ Paterno (fem.), ⟪कौट⟫ Fraudolento, ⟪कच⟫ Capigliatura, ⟪कुतपे⟫ Sulla coperta di pelo di capra, ⟪कुचौ⟫ Seno, ⟪चकिता⟫ Spaventato (fem.)

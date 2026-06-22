@@ -23,7 +23,7 @@ status: stable
 
 ### 4.1.1. Kata Ganti Tanya dan Kata Ganti Penunjuk
 
-#### 4.1.1.1. Kata tanya (praśnārthakasarvanāma n. = प्रश्नार्थकसर्वनामन्)
+#### 4.1.1.1. Kata tanya (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
 
 
@@ -33,13 +33,13 @@ status: stable
 
 | :--- | :--- | :--- |
 
-| **Neutrum** | **kim = किम्** | **kāni = कानि** |
+| **Neutrum** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
 
-| **Maskulinum** | **kas = कस्** | **ke = के** |
+| **Maskulinum** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
 
-| **Femininum** | **kā = का** | **kās = कास्** |
+| **Femininum** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
 
-:::#### 4.1.1.2. Kata Ganti Penunjuk (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि)
+:::#### 4.1.1.2. Kata Ganti Penunjuk (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 
 
@@ -49,28 +49,28 @@ status: stable
 
 | :--- | :---: | :---: | :---: |
 
-| | **tad = तद्[[br]]"dia, mereka; yang itu"[[br]](Yang Disebut)** | **etad = एतद्[[br]]"ini, ini, ini"[[br]](Sangat Dekat dengan Pembicara)** | **idam = इदम्[[br]]"ini, ini, ini"[[br]](Dekat)** |
+| | **tad = ⟪तद्⟫:br"dia, mereka; yang itu":br(Yang Disebut)** | **etad = ⟪एतद्⟫:br"ini, ini, ini":br(Sangat Dekat dengan Pembicara)** | **idam = ⟪इदम्⟫:br"ini, ini, ini":br(Dekat)** |
 
 | **Nominatif tunggal** ||||
 
-| **Neutrum** | **tad = तद्** | **etad = एतद्** | **idam = इदम्** |
+| **Neutrum** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
 
-| **Maskulinum** | **sa, so saḥ = स सो सः** | **eṣa, eṣo, eṣaḥ = एष एषो एषः** | **ayam = अयम्** |
+| **Maskulinum** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
 
-| **Femininum** | **sā = सा** | **eṣā = एषा** | **iyam = इयम्** |
+| **Femininum** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
 
 | **Nominatif jamak** ||||
 
-| **Neutrum** | **tāni = तानि** | **etāni = एतानि** | **imāni = इमानि** |
+| **Neutrum** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
 
-| **Maskulinum** | **te = ते** | **ete = एते** | **ime = इमे** |
+| **Maskulinum** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
 
-| **Femininum** | **tās = तास्** | **etās = एतास्** | **imās इमास्** |
+| **Femininum** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
 
 :::**Untuk Nom. sg. mask.:**
-- **sa, eṣa** (स एष) muncul sebelum semua bunyi kecuali **-a** pendek
-- **so, eṣo** (सो एषो) muncul sebelum **-a**, yang dielisis dengan Avagraha (hilang)
-- **saḥ, eṣaḥ** (सः एषः) hanya muncul dalam jeda (akhir kalimat, akhir bait)
+- **sa, eṣa** (⟪स⟫ ⟪एष⟫) muncul sebelum semua bunyi kecuali **-a** pendek
+- **so, eṣo** (⟪सो⟫ ⟪एषो⟫) muncul sebelum **-a**, yang dielisis dengan Avagraha (hilang)
+- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) hanya muncul dalam jeda (akhir kalimat, akhir bait)
 
 Agar dapat membentuk kalimat dengan kata ganti ini (sarvanāman n.), diperlukan juga pengetahuan tentang aturan Sandha berikut:
 
@@ -86,10 +86,10 @@ Agar dapat membentuk kalimat dengan kata ganti ini (sarvanāman n.), diperlukan 
 
 :::grammar-box
 1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:**
-   z.B. ete + agnayas » ete 'gnayaḥ = एते ऽग्नयः "Diese Feuer"
+   z.B. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Diese Feuer"
 
 2. **Di depan vokal lain selain a- pendek, -e biasanya diganti dengan -a dengan hiatus. Penggantian dengan -ay juga terjadi:**
-   mis. ime + īśvarās » ima īśvarāḥ = इम ईश्वराः (langka: imay īśvarāh = इमयीश्वराः) "TUAN-TUAN ini"
+   mis. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (langka: imay īśvarāh = ⟪इमयीश्वराः⟫) "TUAN-TUAN ini"
 
 :::### 4.1.4. Sandhi dari akhirat -d
 
@@ -113,21 +113,21 @@ Dengan kata ganti ini, misalnya, dibentuk rumus pertanyaan berikut:
 
 | :--- | :--- | :--- | :--- |
 
-| **Singular** | **Neutrum** | tat kim? /kiṃ tat?[[br]]तत्किम्, किं तत्[[br]]etat kim? /kim etat?[[br]]एतत्किम्, किमेतत्[[br]]idaṃ kim? / kim idam[[br]]इदं किम्, किमिदम् | "Apa itu?" |
+| **Singular** | **Neutrum** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Apa itu?" |
 
-| | **Maskulinum** | sa kaḥ? / kaḥ saḥ?[[br]]स कः, कः सः[[br]]eṣa kaḥ? / ka eṣaḥ[[br]]एष कः, क एषः[[br]]ayaṃ kaḥ? / ko 'yam?[[br]]अयं कः, को ऽयम् | "Siapa itu?"[[br]]"Siapa dia (laki-laki)?" |
+| | **Maskulinum** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Siapa itu?":br"Siapa dia (laki-laki)?" |
 
-| | **Femininum** | sā kā? / kā sā?[[br]]सा का, का सा[[br]]eṣā kā? / kaiṣā? (= kā + eṣā)[[br]]एषा का, कैषा[[br]]iyaṃ kā? / keyam? (= kā + iyam)[[br]]इयं का, केयम् | "Siapa itu?"[[br]]"Siapa dia (perempuan)?" |
+| | **Femininum** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Siapa itu?":br"Siapa dia (perempuan)?" |
 
-| **Jamak** | **Netral** | tāni kāni? / kāni tāni?[[br]]तानि कानि, कानि तानि[[br]]etāni kāni? / kāny etāni?[[br]]एतानि कानि, कान्येतानि[[br]]imāni kāni? / kānīmāni? (= kāni + imāni)[[br]]इमानि कानि, कानीमानि | |
+| **Jamak** | **Netral** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
 
-| | **Maskulinum** | te ke? / ke te?[[br]]ते के, के ते[[br]]ete ke? / ka ete?[[br]]एते के, क एते[[br]]ime ke? / ka ime?[[br]]इमे के, क इमे | |
+| | **Maskulinum** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
 
-| | **Femininum** | tāḥ kāḥ? / kās tāḥ?[[br]]ताः काः, कास्ताः[[br]]etāḥ kāḥ? / kā etāḥ?[[br]]एताः काः, का एताः[[br]]imāḥ kāḥ? / kā imāḥ?[[br]]इमाः काः, का इमाः | |
+| | **Femininum** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 
 :::::::Contoh pertanyaan lain:
 
-> viṣṇuḥ kaḥ? = विष्णुः कः Jawaban: viṣṇur īśvaraḥ = विष्णुरीश्वरः. (Dalam kalimat nominal, subjek dapat diletakkan di awal, misalnya, untuk menekankan kesinambungan dengan pertanyaan.)
+> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Jawaban: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Dalam kalimat nominal, subjek dapat diletakkan di awal, misalnya, untuk menekankan kesinambungan dengan pertanyaan.)
 
 CATATAN: Jawaban-jawaban yang dapat Anda berikan dengan pengetahuan Sanskerta Anda sejauh ini, tentu saja, belum sepenuhnya sesuai dengan bahasa Sanskerta idiomatik yang baik.
 
@@ -135,13 +135,13 @@ CATATAN: Jawaban-jawaban yang dapat Anda berikan dengan pengetahuan Sanskerta An
 
 ## 4.2. Latihan
 
-**A) Bentuklah secara lisan pertanyaan-pertanyaan mengenai kata-kata berikut dengan skema viṣṇuḥ kaḥ (विष्णुः कः) dan jawablah pertanyaan-pertanyaan tersebut dalam bahasa Sanskerta:**
+**A) Bentuklah secara lisan pertanyaan-pertanyaan mengenai kata-kata berikut dengan skema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) dan jawablah pertanyaan-pertanyaan tersebut dalam bahasa Sanskerta:**
 
 śruti, śiva, brāhmaṇa, dvija (jamak), indrāṇī, dhenu, tulādhara, kālidāsa
 
-= श्रुति, शिव, ब्राह्मण, द्विज (बहुवचनम्), इन्द्राणी, धेनु, तुलाधर, कालिदास
+= ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
 
-**B) Bentuklah pertanyaan untuk latihan membaca berikut dengan pola etat kim (एतत्किम्) dan jawablah pertanyaan-pertanyaan tersebut dengan kata-kata yang ditentukan serta kata ganti demonstratif, misalnya eṣa bālaḥ (एष बालः):**
+**B) Bentuklah pertanyaan untuk latihan membaca berikut dengan pola etat kim (⟪एतत्किम्⟫) dan jawablah pertanyaan-pertanyaan tersebut dengan kata-kata yang ditentukan serta kata ganti demonstratif, misalnya eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):**
 
 
 

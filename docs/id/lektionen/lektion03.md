@@ -28,8 +28,8 @@ Selanjutnya, stem nominal berikut yang berakhir dengan vokal membentuk Nominatif
 
 
 :::grammar-box
-- **Feminina pada -i**: Contoh **śruti** f. "mendengar" -- Nom. sg.: **śrutis** = श्रुतिस्
-- **Feminina pada -u**: Contoh **dhenu** f. "sapi perah" -- Nom. sg.: **dhenus** = धेनुस्
+- **Feminina pada -i**: Contoh **śruti** f. "mendengar" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
+- **Feminina pada -u**: Contoh **dhenu** f. "sapi perah" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 
 :::### 3.1.2. Nominatif Tunggal tanpa Akhiran
 
@@ -38,11 +38,11 @@ Membentuk nominatif tunggal tanpa akhiran:
 
 
 :::grammar-box
-- **Feminina pada -ā**: Contoh **devatā** f. "dewa" -- Nom. sg.: **devatā** = देवता
-- **Feminina pada -ī**: Contoh **devī** f. "dewi" -- Nom. sg.: **devī** = देवी
+- **Feminina pada -ā**: Contoh **devatā** f. "dewa" -- Nom. sg.: **devatā** = ⟪देवता⟫
+- **Feminina pada -ī**: Contoh **devī** f. "dewi" -- Nom. sg.: **devī** = ⟪देवी⟫
 
 ::::::important
-**Perhatian!** Di samping itu, terdapat nomina akar feminin bersuku kata tunggal berakhiran -ī, yang Nominatif Singularnya berakhiran -s: misalnya dhī f. "pikiran" -- Nom. sg.: dhīs = धीस्. Lakṣmī (लक्ष्मी) f., tarī (तरी) f. "perahu", dan tantrī (तन्त्री) f. "senar" juga membentuk Nominatif Singular secara tidak beraturan dengan akhiran -s: lakṣmīs = लक्ष्मीस्.
+**Perhatian!** Di samping itu, terdapat nomina akar feminin bersuku kata tunggal berakhiran -ī, yang Nominatif Singularnya berakhiran -s: misalnya dhī f. "pikiran" -- Nom. sg.: dhīs = ⟪धीस्⟫. Lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "perahu", dan tantrī (⟪तन्त्री⟫) f. "senar" juga membentuk Nominatif Singular secara tidak beraturan dengan akhiran -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 
 :::---
 
@@ -52,11 +52,11 @@ Membentuk nominatif tunggal tanpa akhiran:
 
 :::grammar-box
 **Maskulinum berakhiran -a:**
-- **Femininum berakhiran -ā**: mis. **kṣatriya** m. » **kṣatriyā** f. "perempuan Kṣatriya" = क्षत्रिया
-- **Femininum berakhiran -ī**: mis. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ब्राह्मणी
+- **Femininum berakhiran -ā**: mis. **kṣatriya** m. » **kṣatriyā** f. "perempuan Kṣatriya" = ⟪क्षत्रिया⟫
+- **Femininum berakhiran -ī**: mis. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫
 
 **Maskulinum berakhiran -u:**
-- **Femininum berakhiran -ī**: mis. **sādhu** m. » **sādhvī** f. (baik, orang suci) = साध्वी
+- **Femininum berakhiran -ī**: mis. **sādhu** m. » **sādhvī** f. (baik, orang suci) = ⟪साध्वी⟫
   (**-u-** berubah menjadi **-v-** sebelum vokal, oleh karena itu **-u- + -ī** » **-vī**)
 
 :::---
@@ -67,13 +67,13 @@ Membentuk nominatif tunggal tanpa akhiran:
 
 :::grammar-box
 Akhiran Nominatif Jamak pada Maskulin dan Feminin adalah **-as**.
-- **Maskulin berakhiran -a**: **deva- + -as** » **devās** = देवास्
-- **Feminin berakhiran -ā**: **devatā- + -as** » **devatās** = देवतास्
-- **Maskulin berakhiran -i**: **kavi-** » **kave- + -as** » **kavayas** = कवयस्
-- **Feminin berakhiran -i**: **śruti-** » **śrute- + -as** » **śrutayas** = श्रुतयस्
-- **Feminin berakhiran -ī**: **devī- + -as** » **devyas** = देव्यस्
-- **Maskulin berakhiran -u**: **guru-** » **guro- + -as** » **guravas** = गुरवस्
-- **Feminin berakhiran -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = धेनवस्
+- **Maskulin berakhiran -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+- **Feminin berakhiran -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+- **Maskulin berakhiran -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+- **Feminin berakhiran -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+- **Feminin berakhiran -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+- **Maskulin berakhiran -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+- **Feminin berakhiran -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 
 :::Catatan: **e** adalah tingkat tinggi (**guṇa**) dari **i**, **o** adalah tingkat tinggi dari **u**.
 
@@ -82,7 +82,7 @@ Akhiran Nominatif Jamak pada Maskulin dan Feminin adalah **-as**.
 ## 3.4. Sandhi Vokal
 
 :::info Etimologi dan Penjelasan
-**Sandhi** (Sanskerta: संधि, *saṃdhi*) secara harfiah berarti "pertemuan", "sambungan", atau "aliansi". Dalam tata bahasa Sanskerta, istilah ini mengacu pada aturan fonologis yang mengatur bagaimana bunyi-bunyi pada batas kata berinteraksi dan menyatu ketika kata-kata tersebut diucapkan secara berurutan.
+**Sandhi** (Sanskerta: ⟪संधि⟫, *saṃdhi*) secara harfiah berarti "pertemuan", "sambungan", atau "aliansi". Dalam tata bahasa Sanskerta, istilah ini mengacu pada aturan fonologis yang mengatur bagaimana bunyi-bunyi pada batas kata berinteraksi dan menyatu ketika kata-kata tersebut diucapkan secara berurutan.
 
 **Vokalsandhi** adalah subset khusus dari sandhi yang melibatkan vokal. Aturan-aturan ini menentukan bagaimana dua vokal yang bersebelahan (satu dari akhir kata pertama dan satu dari awal kata kedua) berubah atau bergabung menjadi satu vokal baru, atau tetap terpisah tergantung pada konteks fonetiknya.
 
@@ -151,11 +151,11 @@ Jika kata pertama berakhir dengan *i* atau *ī*, dan kata kedua dimulai dengan *
 
 :::misalnya
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā adalah seorang dewi" = देवतान्नपूर्णा
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā adalah seorang dewi" = ⟪देवतान्नपूर्णा⟫
 
 > (Annapūrṇā adalah dewi makanan dan memasak, ia dianggap sebagai perwujudan Pārvatī, istri Śiva.)
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī adalah seorang dewi" = देवीन्द्राणी
+devī + indrāṇī » devīndrāṇī "Indrāṇī adalah seorang dewi" = ⟪देवीन्द्राणी⟫
 
 > (Indrāṇī adalah istri dari dewa Indra.)
 
@@ -174,7 +174,7 @@ Gambar: Indra dan Indrāṇī di atas gajah Airavata, miniatur, Rājasthān, 167
 (!! Terdapat pengecualian untuk aturan ini, khususnya untuk bentuk dwitunggal !!)
 ::::::misalnya
 
-devī + umā » devy umā "Umā adalah seorang / sang Dewi" = देव्युमा
+devī + umā » devy umā "Umā adalah seorang / sang Dewi" = ⟪देव्युमा⟫
 
 > (Umā adalah nama untuk Pārvatī, istri Śiva)
 
@@ -199,7 +199,7 @@ devī + umā » devy umā "Umā adalah seorang / sang Dewi" = देव्यु
 
 misalnya
 
-śūdrā + itarā » śudretarā "Itarā adalah seorang wanita Śūdra" = शूद्रेतरा
+śūdrā + itarā » śudretarā "Itarā adalah seorang wanita Śūdra" = ⟪शूद्रेतरा⟫
 
 ---
 
@@ -212,7 +212,7 @@ misalnya
 
 :::misalnya
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas adalah orang yang lahir dua kali" = द्विजा वैश्याः
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas adalah orang yang lahir dua kali" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
 ---
 
@@ -220,65 +220,65 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas adalah orang yang lahir du
 
 **Pelajari kata-kata berikut:**
 
-**śruti** f. = श्रुति : mendengar, tradisi abadi (sebutan untuk Veda dan Brāhmaṇa).
+**śruti** f. = ⟪श्रुति⟫ : mendengar, tradisi abadi (sebutan untuk Veda dan Brāhmaṇa).
 
-**smṛti** f. = स्मृति : Penghadapan kembali, Ingatan, penghadapan kembali meditatif = Kesadaran penuh, Tradisi (konsep berlawanan dengan **śruti**). Mencakup:
-- enam **vedāṅga** n. (वेदाङ्ग)
-  1. **śikṣā** f. (शिक्षा): pengucapan yang benar
-  2. **chandas** n. (छन्दस्): metrum
-  3. **vyākaraṇa** n. (व्याकरण): tata bahasa
-  4. **nirukta** n. (निरुक्त) : penjelasan kata, etimologi
-  5. **jyotiṣa** n. (ज्योतिष) : astronomi, ilmu kalender
-  6. **kalpa** m. (कल्प) : tata upacara
-- **śrautasūtra** n. (श्रौतसूत्र) : karya ajar untuk pelaksanaan upacara besar
-- **gṛhyasūtra** n. (गृह्यसूत्र) : karya ajar untuk upacara dan korban kehidupan sehari-hari
-- **dharmasūtra** n. (धर्मसूत्र) dan **dharmaśāstra** n. (धर्मशास्त्र) : karya ajar tentang hukum dan adat (perilaku yang benar)
-- epik besar **mahābhārata** n. (महाभारत) dan **rāmāyaṇa** n. (रामायण)
-- **purāṇa** n. (पुराण)
-- **nītiśāstra** n. (नीतिशास्त्र) : karya ajar kebijaksanaan hidup
+**smṛti** f. = ⟪स्मृति⟫ : Penghadapan kembali, Ingatan, penghadapan kembali meditatif = Kesadaran penuh, Tradisi (konsep berlawanan dengan **śruti**). Mencakup:
+- enam **vedāṅga** n. (⟪वेदाङ्ग⟫)
+  1. **śikṣā** f. (⟪शिक्षा⟫): pengucapan yang benar
+  2. **chandas** n. (⟪छन्दस्⟫): metrum
+  3. **vyākaraṇa** n. (⟪व्याकरण⟫): tata bahasa
+  4. **nirukta** n. (⟪निरुक्त⟫) : penjelasan kata, etimologi
+  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomi, ilmu kalender
+  6. **kalpa** m. (⟪कल्प⟫) : tata upacara
+- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : karya ajar untuk pelaksanaan upacara besar
+- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : karya ajar untuk upacara dan korban kehidupan sehari-hari
+- **dharmasūtra** n. (⟪धर्मसूत्र⟫) dan **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : karya ajar tentang hukum dan adat (perilaku yang benar)
+- epik besar **mahābhārata** n. (⟪महाभारत⟫) dan **rāmāyaṇa** n. (⟪रामायण⟫)
+- **purāṇa** n. (⟪पुराण⟫)
+- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : karya ajar kebijaksanaan hidup
 
 **smṛti** juga merupakan sebutan khusus untuk karya-karya ajaran Dharma.
 
-**dhenu** f. = धेनु : (sapi) penghasil susu.
+**dhenu** f. = ⟪धेनु⟫ : (sapi) penghasil susu.
 
-**paśu** m. = पशु : ternak domestik, hewan ternak (kolektiva).
+**paśu** m. = ⟪पशु⟫ : ternak domestik, hewan ternak (kolektiva).
 
-**devatā** f. = देवता : dewata (abstrak dan konkret).
+**devatā** f. = ⟪देवता⟫ : dewata (abstrak dan konkret).
 
-**brāhmaṇī** f. = ब्राह्मणी : Brahmanin.
+**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
-**kṣatriyā** f. = क्षत्रिया : wanita Kṣatriya.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : wanita Kṣatriya.
 
-**kṣatriyī** f. = क्षत्रियी : istri seorang Kṣatriya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : istri seorang Kṣatriya.
 
-**vaiśyā** f. = वैश्या : wanita Vaiśya.
+**vaiśyā** f. = ⟪वैश्या⟫ : wanita Vaiśya.
 
-**śūdrā** f. = शूद्रा : perempuan Śūdra.
+**śūdrā** f. = ⟪शूद्रा⟫ : perempuan Śūdra.
 
-**śūdrī** f. / **śūdrāṇī** f. = शूद्री शूद्राणी : Istri seorang Śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Istri seorang Śūdra.
 
-**devī** f. = देवी : Dewi, khususnya Durgā f. = दुर्गा, istri Śiva = शिव.
+**devī** f. = ⟪देवी⟫ : Dewi, khususnya Durgā f. = ⟪दुर्गा⟫, istri Śiva = ⟪शिव⟫.
 
 
 
 :::media
 ![](/images/lekt0303.webp)
-Gambar: Durgā = दुर्गा, Orissa
+Gambar: Durgā = ⟪दुर्गा⟫, Orissa
 (Sumber gambar: [Details](/images/lekt0303))
 
-:::**sādhvī** f. = साध्वी : fem. dari sādhu.
+:::**sādhvī** f. = ⟪साध्वी⟫ : fem. dari sādhu.
 
-**gurvī** f. = गुर्वी : fem. dari guru.
+**gurvī** f. = ⟪गुर्वी⟫ : fem. dari guru.
 
-**asmitā** f. = अस्मिता : "keberadaan-aku", yaitu keyakinan (salah): **Aku** adalah yang melihat, dll.
+**asmitā** f. = ⟪अस्मिता⟫ : "keberadaan-aku", yaitu keyakinan (salah): **Aku** adalah yang melihat, dll.
 
-**ānvīkṣikī** f. = आन्वीक्षिकी : filsafat (ilmu yang mencapai kesimpulannya melalui justifikasi logis yang benar).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filsafat (ilmu yang mencapai kesimpulannya melalui justifikasi logis yang benar).
 
-**upekṣā** f. = उपेक्षा : pengabaian, ketenangan batin.
+**upekṣā** f. = ⟪उपेक्षा⟫ : pengabaian, ketenangan batin.
 
-**karuṇā** f. = करुणा : rasa welas asih, kasihan.
+**karuṇā** f. = ⟪करुणा⟫ : rasa welas asih, kasihan.
 
-**muditā** f. = मुदिता : Kebaikan hati, terutama sukacita bersama (kebalikan dari iri hati).
+**muditā** f. = ⟪मुदिता⟫ : Kebaikan hati, terutama sukacita bersama (kebalikan dari iri hati).
 
 ---
 
@@ -286,30 +286,30 @@ Gambar: Durgā = दुर्गा, Orissa
 
 **A) Ubahlah kalimat-kalimat berikut ke dalam bentuk jamak:**
 
-1. dvijo brāhmaṇaḥ = द्विजो ब्राह्मणः
-2. dvijaḥ kṣatriyaḥ = द्विजः क्षत्रियः
-3. dvijo vaiśyaḥ = द्विजो वैश्यः
-4. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
-5. sādhur guruḥ = साधुर्गुरुः
-6. guruḥ kaviḥ = गुरुः कविः
-7. sādhvī brāhmaṇī = साध्वी ब्राह्मणी
-8. devatā guruḥ = देवता गुरुः
-9. paśur dhenuḥ = पशुर्धेनुः
-10. gurvī sādhvī = गुर्वी साध्वी
+1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
+2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫
+3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫
+4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+5. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫
+7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫
+8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫
+9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫
+10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫
 
 **B) Bentuklah kalimat nominal dengan mengisi:**
 
-1. śrutis ... (veda) = श्रुतिस् ... वेद
-2. paśus ... (dhenu) = पशुस् ... धेनु
-3. devī ... (durgā, umā, indrāṇī) = देवी ... दुर्गा, उमा, इन्द्राणी
-4. devatā ... (mīnākṣī, annapūrṇā) = देवता ... मीनाक्षी, अन्नपूर्णा
-5. śūdrā ... (itarā) = शूद्रा ... इतरा
+1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
+2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫
+3. devī ... (durgā, umā, indrāṇī) = ⟪देवी⟫ ... ⟪दुर्गा⟫, ⟪उमा⟫, ⟪इन्द्राणी⟫
+4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫
+5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫
 
 **C) Terjemahkan ke dalam bentuk feminin:**
 
-1. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
-2. sādhur guruḥ = साधुर्गुरुः
-3. kṣatriyaḥ sādhuḥ = क्षत्रियः साधुः
+1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫
 
 **D) Terjemahkan ke dalam bahasa Sanskerta:**
 

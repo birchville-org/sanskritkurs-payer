@@ -11,7 +11,7 @@ last_reconstructed: 2026-04-30
 
 
 :::center
-गणेशपूजनम्
+⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Cultul lui Gaṇeśa
 ::::::media
@@ -19,10 +19,10 @@ Cultul lui Gaṇeśa
 Ilustr.: Gaṇeśa, Adamspeak, Sri Lanka
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0102))
 ::::::center
-लम्बोदर नमस् तुभ्यं
-सततं मोदकप्रिय |
-निर्विघ्नं कुरु मे देव
-सर्वकार्येषु सर्वदा |
+⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
+⟪सततं⟫ ⟪मोदकप्रिय⟫ |
+⟪निर्विघ्नं⟫ ⟪कुरु⟫ ⟪मे⟫ ⟪देव⟫
+⟪सर्वकार्येषु⟫ ⟪सर्वदा⟫ |
 
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
@@ -36,7 +36,7 @@ Să fie libere de obstacole!
 :::---
 
 :::center
-मङ्गलचरणम्
+⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Început auspicios"
 ::::::media
@@ -44,10 +44,10 @@ maṅgalacaraṇam
 Ilustr.: Ardhanarīśvara
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0101))
 ::::::center
-वागर्थाविव संपृक्तौ
-वागर्थप्रतिपत्तये |
-जगतः पितरौ वन्दे
-पार्वतीपरमेश्वरौ |
+⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
+⟪वागर्थप्रतिपत्तये⟫ |
+⟪जगतः⟫ ⟪पितरौ⟫ ⟪वन्दे⟫
+⟪पार्वतीपरमेश्वरौ⟫ |
 
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
@@ -123,33 +123,33 @@ Sunetele sanscrite conform clasificării tradiționale indiene și transcrierea 
 
 :::tip Clasificare
 
-- **vocale simple** (samānākṣara -- समानाक्षर):
-  अ a, आ ā, इ i, ई ī, उ u, ऊ ū, ऋ ṛ, ॠ ṝ, ऌ ḷ
-- **diftonguri** (sandhyakṣara -- सन्ध्यक्षर):
-  ए e, ऐ ai, ओ o, औ au
-- **consoane** (vyañjana / hal -- व्यञ्जन / हल्):
-  क ka, ख kha, ग ga, घ gha, ङ ṅa
-  च ca, छ cha, ज ja, झ jha, ञ ña
-  ट ṭa, ठ ṭha, ड ḍa, ढ ḍha, ण ṇa
-  त ta, थ tha, द da, ध dha, न na
-  प pa, फ pha, ब ba, भ bha, म ma
-  य ya, र ra, ल la, व va
-  श śa, ष ṣa, स sa
-  ह ha
+- **vocale simple** (samānākṣara -- ⟪समानाक्षर⟫):
+  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+- **diftonguri** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
+  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+- **consoane** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
+  ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
+  ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
+  ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
+  ⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
+  ⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
+  ⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
+  ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
+  ⟪ह⟫ ha
 :::### 1.2.1. Despre pronunția unor sunete individuale
 
 :::laut-table
 | Sunet | Descriere |
 | :--- | :--- |
-| **a - अ** | "a scurt" este pronunțat de indieni -- încă din vremuri străvechi -- adesea ca ə. În Europa se pronunță ca a scurt, în Bengal ca o scurt întunecat. |
-| **ṛ - ऋ** | ca r-ul vocalizat cehesc. Un ușor ecou de i. |
-| **ṝ - ॠ** | ca r-ul vocalizat cehesc. Un ușor ecou de u. |
-| **jñ - ज्ञ्** | de asemenea ca dny (Marāṭhī) sau gy (Nord-indian). |
-| **ś - श्** | sunet de tip sch cu vârful limbii îndoit în jos. Similar cu sch din "a amesteca". |
-| **ṣ - ष्** | sunet de tip ach cu vârful limbii îndoit în spate. Adesea articulat atât de departe în spatele gâtului, încât sună aproape ca kh. |
-| **h - ह्** | sunet de suflare, niciodată semn de lungime. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Sunet de suflare surd cu ecou al vocalicului precedent sau al celei de-a doua părți a diphtongului anterior: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
-| **ṃ** | **Anusvara** -- अनुस्वर. În fața sunetelor șuierătoare, h, l: nazalizarea vocalicului. La final de cuvânt = m. În interiorul cuvântului, în fața consoanelor: nazalul corespunzător consoanei următoare: saṃdhi -- संधि = sandhi -- सन्धि |
+| **a - ⟪अ⟫** | "a scurt" este pronunțat de indieni -- încă din vremuri străvechi -- adesea ca ə. În Europa se pronunță ca a scurt, în Bengal ca o scurt întunecat. |
+| **ṛ - ⟪ऋ⟫** | ca r-ul vocalizat cehesc. Un ușor ecou de i. |
+| **ṝ - ⟪ॠ⟫** | ca r-ul vocalizat cehesc. Un ușor ecou de u. |
+| **jñ - ⟪ज्ञ्⟫** | de asemenea ca dny (Marāṭhī) sau gy (Nord-indian). |
+| **ś - ⟪श्⟫** | sunet de tip sch cu vârful limbii îndoit în jos. Similar cu sch din "a amesteca". |
+| **ṣ - ⟪ष्⟫** | sunet de tip ach cu vârful limbii îndoit în spate. Adesea articulat atât de departe în spatele gâtului, încât sună aproape ca kh. |
+| **h - ⟪ह्⟫** | sunet de suflare, niciodată semn de lungime. |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Sunet de suflare surd cu ecou al vocalicului precedent sau al celei de-a doua părți a diphtongului anterior: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
+| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. În fața sunetelor șuierătoare, h, l: nazalizarea vocalicului. La final de cuvânt = m. În interiorul cuvântului, în fața consoanelor: nazalul corespunzător consoanei următoare: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::Cea mai bună pronunție se obține atunci când se citesc propozițiile, versurile sau cuvintele destul de lent și monotone, cu o atenție precisă la lungimea vocalicelor.
 
 ---
@@ -158,15 +158,15 @@ Sunetele sanscrite conform clasificării tradiționale indiene și transcrierea 
 
 **A) Citiți următoarele cuvinte:**
 
-1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र
-2. brahmā viṣṇu śiva — ब्रह्मा विष्णु शिव
-3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन्
-4. ṛgveda sāmaveda yajurveda atharvaveda — ऋग्वेद सामवेद यजुर्वेद अथर्ववेद
-5. upaniṣad — उपनिषद्
-6. jaina bauddha — जैन बौद्ध
-7. prajñāpāramitā — प्रज्ञापारमिता
-8. cakra vajra — चक्र वज्र
-9. pitṝn — पितॄन्
-10. saṃskṛta — संस्कृत
+1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫
+2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫
+3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम⟫ ⟪ब्राह्मचारिन्⟫ ⟪गृहस्थ⟫ ⟪वानप्रस्थ⟫ ⟪संन्यासिन्⟫
+4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद⟫ ⟪सामवेद⟫ ⟪यजुर्वेद⟫ ⟪अथर्ववेद⟫
+5. upaniṣad — ⟪उपनिषद्⟫
+6. jaina bauddha — ⟪जैन⟫ ⟪बौद्ध⟫
+7. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫
+8. cakra vajra — ⟪चक्र⟫ ⟪वज्र⟫
+9. pitṝn — ⟪पितॄन्⟫
+10. saṃskṛta — ⟪संस्कृत⟫
 
 **B) Citiți expresiile în sanscrită din clasificarea fonetică de mai sus.**

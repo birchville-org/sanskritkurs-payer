@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Index Gramatical
+# Index de gramatică
 
-Indexul de gramatică enumeră toate temele și fenomenele gramaticale din cursul de sanscrită și permite acces rapid la lecțiile specifice.
+Indexul de gramatică enumeră toate subiectele și fenomenele gramaticale din cursul de sanscrită și permite accesul rapid la lecțiile specifice.
 
 <PayerTopicIndex />
 
@@ -15,4 +15,3 @@ Indexul de gramatică enumeră toate temele și fenomenele gramaticale din cursu
   padding: 32px 48px 64px !important;
 }
 </style>
-

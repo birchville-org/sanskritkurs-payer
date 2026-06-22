@@ -6,23 +6,23 @@ title: "Sanskrit Grid Test"
 
 ## 1. Striktes 1:1 Alignment (Visuell schief, technisch evtl. korrekt)
 +---+---+
-| क | ख |
+| ⟪क⟫ | ⟪ख⟫ |
 +---+---+
-| ग | घ |
+| ⟪ग⟫ | ⟪घ⟫ |
 +---+---+
 
 ## 2. Visuelles 2:1 Alignment (Visuell gerade, technisch evtl. schief)
 +----+----+
-|  क |  ख |
+|  ⟪क⟫ |  ⟪ख⟫ |
 +----+----+
-|  ग |  घ |
+|  ⟪ग⟫ |  ⟪घ⟫ |
 +----+----+
 
 ## 3. Komplexer Test (Rowspans 1:1)
 +-------+-------+-------+
 | Text  | Sans  | Trans |
 +-------+-------+-------+
-| S1    | क     | ka    |
+| S1    | ⟪क⟫     | ka    |
 +       +-------+-------+
-|       | ख     | kha   |
+|       | ⟪ख⟫     | kha   |
 +-------+-------+-------+

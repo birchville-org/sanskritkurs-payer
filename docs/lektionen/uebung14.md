@@ -175,7 +175,7 @@ Wem gehören diese Häuser?
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 Wessen Speise hat dieser vedische Weise geopfert?
 
-::: media
+:::media
 ![](/images/uebung017.webp)
 Abb.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Bildquelle: [Details](/licenses#uebung017))

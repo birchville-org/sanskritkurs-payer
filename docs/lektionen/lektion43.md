@@ -11,16 +11,14 @@ status: stable
 
 ## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere &lt;Person&gt;")
 
-::: grammar-box
+:::grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | **Primärendungen** | -si | -tha | -se | -dhve |
 | **Sekundärendungen** | -s | -ta | -thās | -dhvam |
 | **Perfektendungen** | -tha | -a | -se | -dhve |
-:::
-
-Beachten Sie, dass die Sekundärendung der 2.pl.P. identisch ist mit der Sekundärendung der 3.sg.Ā.
+:::Beachten Sie, dass die Sekundärendung der 2.pl.P. identisch ist mit der Sekundärendung der 3.sg.Ā.
 
 ## 43.2. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫)
 
@@ -31,11 +29,9 @@ Beachten Sie, dass die Sekundärendung der 2.pl.P. identisch ist mit der Sekund�
 
 ### 43.2.1. Thematische Stämme
 
-::: media
+:::media
 ![](/images/lekt4301.jpg)
-:::
-
-Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. Optativ!
+:::Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. Optativ!
 
 #### 43.2.1.1. Erste Präsensklasse (⟪भ्वादि⟫)
 
@@ -116,7 +112,7 @@ Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. 
 *   Singular: ⟪त्वद्⟫ "du"
 *   Plural: ⟪युष्मद्⟫ "ihr"
 
-::: grammar-box
+:::grammar-box
 | | ⟪एकवचनम्⟫ (⟪त्वद्⟫) | ⟪बहुवचनम्⟫ (⟪युष्मद्⟫) |
 | --- | --- | --- |
 | **⟪प्रथमा⟫** | ⟪त्वम्⟫ | ⟪यूयम्⟫ |
@@ -126,36 +122,29 @@ Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. 
 | **⟪पञ्चमी⟫** | ⟪त्वत्⟫ | ⟪युष्मत्⟫ |
 | **⟪षष्ठी⟫** | ⟪तव⟫ ⟪ते⟫ | ⟪युष्माकम्⟫ ⟪वस्⟫ |
 | **⟪सप्तमी⟫** | ⟪त्वयि⟫ | ⟪युष्मासु⟫ |
-:::
+:::Die Formen ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ dürfen nicht an erster Stelle eines Satzes oder einer Vershälfte gebraucht werden. Auch vor ⟪च⟫, ⟪वा⟫, ⟪एव⟫ und einigen anderen Partikeln dürfen sie nicht verwendet werden:
 
-Die Formen ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ dürfen nicht an erster Stelle eines Satzes oder einer Vershälfte gebraucht werden. Auch vor ⟪च⟫, ⟪वा⟫, ⟪एव⟫ und einigen anderen Partikeln dürfen sie nicht verwendet werden:
-
-::: indent
+:::indent
 ⟪त्वां⟫ ⟪मां⟫ ⟪च⟫ "dich und mich"
-:::
-
-## 43.4. Wortliste
+:::## 43.4. Wortliste
 
 ⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen
 
 ⟪आपण⟫ m.: Markt
 
-::: media
+:::media
 ![](/images/lekt4302.webp)
 Abb.: ⟪आपणः⟫
 (Bildquelle: [Details](/licenses#lekt4302))
-:::
-
-⟪सत्वर⟫ 3: schnell, eilig
+:::⟪सत्वर⟫ 3: schnell, eilig
 
 ⟪पण्य⟫ 3: käuflich; n.: Ware, Handel
 
-::: media
+:::media
 ![]/images/lekt4303.webp
 Abb.: ⟪पण्यानि⟫
 (Bildquelle: [Details](/licenses#lekt4303))
-:::
-⟪आम्⟫ : ja
+:::⟪आम्⟫ : ja
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -173,33 +162,27 @@ Abb.: ⟪पण्यानि⟫
 
 ⟪विपणि⟫ f.: Laden
 
-::: media
+:::media
 ![](/images/lekt4304.webp)
 Abb.: ⟪विपणिः⟫
 (Bildquelle: [Details](/licenses#lekt4304))
-:::
+:::⟪वणिज्⟫ m.: Kaufmann
 
-⟪वणिज्⟫ m.: Kaufmann
-
-::: media
+:::media
 ![](/images/lekt4305.webp)
 Abb.: ⟪वणिक्⟫
 (Bildquelle: [Details](/licenses#lekt4305))
-:::
-
-⟪वर⟫ 3: bester
+:::⟪वर⟫ 3: bester
 
 ⟪शीघ्र⟫ 3: schnell, rasch
 
 ⟪वत्स⟫ m.: Kalb, Junges, Kind ; Vok.: mein Lieber
 
-::: media
+:::media
 ![](/images/lekt4306.webp)
 Abb.: ⟪वत्सः⟫
 (Bildquelle: [Details](/licenses#lekt4306))
-:::
-
-⟪उत्तम⟫ 3: oberster, bester
+:::⟪उत्तम⟫ 3: oberster, bester
 
 ⟪अल्प⟫ 3: klein, gering
 
@@ -215,13 +198,11 @@ Abb.: ⟪वत्सः⟫
 
 ⟪तुल्⟫ 10 ⟪तुलयति⟫ ⟪।⟫ ⟪तोलयति⟫ : wägen
 
-::: media
+:::media
 ![](/images/lekt4307.webp)
 Abb.: ⟪तोलन्ति⟫
 (Bildquelle: [Details](/licenses#lekt4307))
-:::
-
-⟪कर्गल⟫ n.: Papier
+:::⟪कर्गल⟫ n.: Papier
 
 ⟪संपुट⟫ m.: Dose (hier: Paket, Bündel)
 
@@ -233,7 +214,7 @@ Abb.: ⟪तोलन्ति⟫
 
 ⟪द्रु⟫ 1P ⟪द्रवति⟫ rennen
 
-::: indent
+:::indent
 Perf. IIIa ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
 Fut. ⟪द्रोष्यति⟫  
 Pass. ⟪द्रूयते⟫  
@@ -241,9 +222,7 @@ Kaus. ⟪द्रावयति⟫
 PPP ⟪द्रुत⟫  
 Absol. -⟪द्रुत्य⟫  
 Inf. ⟪द्रोतुम्⟫
-:::
-
-⟪रे⟫ Interjektion: He! Du da!
+:::⟪रे⟫ Interjektion: He! Du da!
 
 ⟪अन्यद्⟫ 3: ein anderer (Deklination wie ⟪यद्⟫ )
 
@@ -338,13 +317,11 @@ B) Übersetzen Sie ins Sanskrit:
 
 10\. Wie rettest du dich (überschreitest) vor dem Feind?
 
-::: media
+:::media
 ![](/images/lekt4308.webp)
 Abb.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#lekt4308))
-:::
-
-## 43.6. ⟪संवादः⟫ = Gespräch
+:::## 43.6. ⟪संवादः⟫ = Gespräch
 
 | ⟪संवादः⟫ | Erklärungen |
 | --- | --- |
@@ -374,13 +351,11 @@ Abb.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 | ⟪अशोको⟫ ⟪गृहमागत्य⟫ ⟪सर्वमपीतिवृत्तमकथयत्⟫ ⟪।⟫ ⟪तत्रस्था⟫ ⟪सर्वे⟫ ⟪ऽपि⟫ ⟪बान्धवा⟫ ⟪मित्राणि⟫ ⟪च⟫ ⟪परमानन्दं⟫ ⟪प्रापुः⟫ ⟪।⟫ ⟪इत्थं⟫ ⟪जन्मोत्सवः⟫ ⟪सानन्दं⟫ ⟪समाप्तिं⟫ ⟪यातः⟫ ⟪॥⟫ | |
 | (Nach: Saral Sanskrit Shikshak III, S. 4f.) | |
 
-::: media
+:::media
 ![](/images/lekt4309.webp)
 Abb.: ⟪शर्करा⟫
 (Bildquelle: [Details](/licenses#lekt4309))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)
 

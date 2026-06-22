@@ -9,17 +9,15 @@ status: stable
 
 # Lektion 11
 
-::: deleteme-box
+:::deleteme-box
 **In dieser Lektion lernen Sie:**
 - Den doppelten Akkusativ (Akkusativ der Person und der Sache)
 - Den Gebrauch der Partikel **iti**, **evam** und **na**
 - Grundlegende Begriffe wie **dharma**, **adharma** und **putra**
 - Die Bildung von Nomina zu den Wurzeln **vad**, **prach** und **iṣ**
-:::
+:::## 11.1. Doppelter Akkusativ
 
-## 11.1. Doppelter Akkusativ
-
-::: grammar-box
+:::grammar-box
 **Einige Verben können einen doppelten Akkusativ (dvitīyā) regieren: Akkusativ der Person und Akkusativ der Sache.**
 
 **Hierzu gehören:**
@@ -37,9 +35,7 @@ z.B. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब�
 
 z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt nach dem Dharma."
 » Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
-:::
-
----
+:::---
 
 ## 11.2. Wortliste
 
@@ -68,13 +64,11 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
   - **vāda** m. ⟪वाद⟫ : Ausspruch, Aussage, Wort
   - **vadana** n. ⟪वदन⟫ : das Sprechen; Sprechwerkzeug: Mund, Gesicht
 
-::: media
+:::media
 ![](/images/lekt1102.webp)
 Abb.: **vadanāni** = ⟪वदनानि⟫
 (Bildquelle: [Details](/licenses#lekt1102))
-:::
-
-- **prach** 6 P ⟪प्रच्छ्⟫ : fragen
+:::- **prach** 6 P ⟪प्रच्छ्⟫ : fragen
   - **praśna** m. ⟪प्रश्न⟫ : Frage (Suffix **-na** wie in **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : wünschen
@@ -105,13 +99,11 @@ Abb.: **vadanāni** = ⟪वदनानि⟫
 
 **D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion.**
 
-::: media
+:::media
 ![](/images/lekt1101.webp)
 Abb.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
 (Bildquelle: [Details](/licenses#lekt1101))
-:::
-
----
+:::---
 
 ## 11.4. Wiederholungsübung
 
@@ -148,7 +140,7 @@ Abb.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 
 **E) Verwandeln Sie die Sätze C) 1-5 in Aktivkonstruktionen.**
 
-::: media
+:::media
 ![](/images/lekt1103.webp)
 Abb.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Bildquelle: [Details](/licenses#lekt1103))

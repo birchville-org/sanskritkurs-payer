@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 6
 
-::: deleteme-box
+:::deleteme-box
 **In dieser Lektion lernen Sie:**
 - Den Aufbau des Verbalsatzes (Agens und Verbalform)
 - Die Bildung von Verbalformen (Parasmaipada, Ātmanepada, Passiv)
@@ -17,19 +17,15 @@ status: stable
 - Indikativ Präsens (laṭ) und die Primärendungen der 3. Person
 - Die Bildung des Präsensstamms (Klassen 1, 4 und 6)
 - Die Lautabstufung (Ablaut: Guṇa und Vṛddhi)
-:::
+:::## 6.1. Der Verbalsatz
 
-## 6.1. Der Verbalsatz
-
-::: grammar-box
+:::grammar-box
 **Schema I: Verbalform**
 - z.B. **yajati** = ⟪यजति⟫ = "Er (sie, es) verehrt mit einem Opfer", "Er (sie, es) opfert"
 
 **Schema II: Agens (kartṛ m. = ⟪कर्तृ⟫) – Verbalform**
 - z.B. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma verehrt mit einem Opfer", "Rāma opfert"
-:::
-
-Wird der Agens (**kartṛ** m. = ⟪कर्तृ⟫) in einem Verbalsatz genannt, der nicht im Passiv steht, dann steht der Agens im **Nominativ** (erster Fall, prathamā = ⟪प्रथमा⟫). Im Numerus (Zahl, vacana n. = ⟪वचन⟫) stimmen dann Agens und Verbalform überein.
+:::Wird der Agens (**kartṛ** m. = ⟪कर्तृ⟫) in einem Verbalsatz genannt, der nicht im Passiv steht, dann steht der Agens im **Nominativ** (erster Fall, prathamā = ⟪प्रथमा⟫). Im Numerus (Zahl, vacana n. = ⟪वचन⟫) stimmen dann Agens und Verbalform überein.
 
 ---
 
@@ -70,11 +66,9 @@ Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sans
 
 Das Präsens ist das Tempus der Gegenwart, insbesondere auch der Dauer.
 
-::: grammar-box
+:::grammar-box
 **Der Indikativ (Aussageform) Präsens wird gebildet, indem an den Präsensstamm die sogenannten Primärendungen angefügt werden.**
-:::
-
-Beispiele:
+:::Beispiele:
 
 | Wurzel (dhātu) | Präsensstamm | 3. Person Singular Indikativ Präsens Parasmaipada |
 | :--- | :--- | :--- |
@@ -86,14 +80,12 @@ Beispiele:
 
 ## 6.4. Primärendungen der dritten Person (prathama m. = ⟪प्रथम⟫ = "erste (!) Person")
 
-::: grammar-box
+:::grammar-box
 | | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
-:::
-
-Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
+:::Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
 - Präsensstamm: **yaja** = ⟪यज⟫
 - 3. sg. P. **yajati** = ⟪यजति⟫
 - 3. pl. P. **yajanti** = ⟪यजन्ति⟫
@@ -106,18 +98,16 @@ Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
 
 ### 6.5.1. Verben der 6. Präsensklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
 
-::: grammar-box
+:::grammar-box
 **Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + a-**
 
 | Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
-:::
+:::### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
 
-### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
-
-::: grammar-box
+:::grammar-box
 | Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a- ||||
 | Wurzel (dhātu m.):br⟪धातु⟫ | Hochstufe | Hochstufe vor a- | Präsensstamm |
 | :--- | :--- | :--- | :--- |
@@ -127,14 +117,12 @@ Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
 | Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Bildung der Hochstufe ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
-:::
-
-#### 6.5.2.1. Wortsandhi von e und o
+:::#### 6.5.2.1. Wortsandhi von e und o
 Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 
 #### 6.5.2.2. Lautabstufung (Ablaut)
 
-::: grammar-box
+:::grammar-box
 | Tiefstufe:brSchwundstufe | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -142,11 +130,9 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
-:::
+:::### 6.5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
 
-### 6.5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
-
-::: grammar-box
+:::grammar-box
 **Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + ya-**
 
 | Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
@@ -155,40 +141,32 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
-:::
+:::### 6.5.4. Themavokal, thematische Präsensklassen
 
-### 6.5.4. Themavokal, thematische Präsensklassen
-
-::: grammar-box
+:::grammar-box
 Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavokal**. Präsensklassen mit **a** im Stammbildungssuffix heißen deswegen "thematische Präsensklassen".
-:::
-
----
+:::---
 
 ## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
 
-::: grammar-box
+:::grammar-box
 - **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Was tut N. N.?"
 - **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = "Was tun die N.N.s?"
 - (karoti, kurvanti zu **kṛ** = ⟪कृ⟫ 8 U: "tun, machen")
 - **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Geht es Ihnen gut?, Wie geht es Ihnen?"
 - Antwort: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Es geht mir) in jeder Hinsicht gut."
-:::
-
----
+:::---
 
 ## 6.7. Wortliste
 
-::: grammar-box
+:::grammar-box
 Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach der Wurzel bedeutet die **Konjugationsklasse**.
 
 - **P:** Wurzel ist nur Parasmaipada
 - **Ā:** Wurzel ist nur Ātmanepada
 - **U:** Ubhayapada ("beide Wortformen"): Wurzel wird im Parasmaipada und Ātmanepada verwendet.
 - **():** In Klammern steht die 3. Person Singular Präsens Indikativ (laṭ).
-:::
-
-**Lernen Sie folgende Wörter:**
+:::**Lernen Sie folgende Wörter:**
 - **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : mit einem Opfer verehren, opfern
 - **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : werden, entstehen, sein
 - **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : vergegenwärtigen, sich erinnern
@@ -231,14 +209,12 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 12. Wer (fem.) tanzt?
 13. Die (erwähnte) Brahmanin tanzt.
 
-::: media
+:::media
 ![](/images/lekt0601.webp)
 **Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
 (Bildquelle: Wikipedia, CC-BY-SA 2.5)
-:::
-
----
+:::---
 
 ## 6.9. Wiederholungsübung
 
@@ -311,13 +287,11 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 2. Durgā ist eine Göttin.
 3. Mīnākṣī ist eine Göttin.
 
-::: media
+:::media
 ![](/images/lekt0602.webp)
 **Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-Tempel, Madurai, Tamil Nadu
 (Bildquelle: Wikipedia, Public domain)
-:::
-
-4. Sie sind verwirrt.
+:::4. Sie sind verwirrt.
 5. Rāma ist ein heiliger Mann.
 6. Wer ist der HERR?
 7. Indra ist der HERR.

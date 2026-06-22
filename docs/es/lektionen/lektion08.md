@@ -21,8 +21,8 @@ last_reconstructed: 2026-05-07
 
 En la gramática india tradicional se distingue entre los sufijos con los que se forman las raíces nominales:
 
-- **sufijos kṛt (कृत्) (sufijos primarios):** forman a partir de raíces verbales (**dhātu** m. = धातु) y raíces verbales, raíces nominales, absolutivos e infinitivos.
-- **sufijos taddhita (तद्धित) (sufijos secundarios):** se añaden a raíces nominales e indeclinables y forman nuevas raíces nominales o indeclinables.
+- **sufijos kṛt (⟪कृत्⟫) (sufijos primarios):** forman a partir de raíces verbales (**dhātu** m. = ⟪धातु⟫) y raíces verbales, raíces nominales, absolutivos e infinitivos.
+- **sufijos taddhita (⟪तद्धित⟫) (sufijos secundarios):** se añaden a raíces nominales e indeclinables y forman nuevas raíces nominales o indeclinables.
 
 :::grammar-box
 **Esquema:**
@@ -33,23 +33,23 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 
 ## 8.2. Clasificación de los sufijos nominales
 
-- **kṛt (kṛdanta) = कृत् (कृदन्त)**
-  - **kārakakṛt** (कारककृत्) » nomina agentis (designan a alguien que hace lo que indica la raíz)
-  - **kṛtikṛt** (कृतिकृत्) » nomina actionis (designan la acción expresada por la raíz) o bien abstractos
+- **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
+  - **kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (designan a alguien que hace lo que indica la raíz)
+  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (designan la acción expresada por la raíz) o bien abstractos
 
 - **taddhita**
-  - **viśeṣyataddhita** (विशेष्यतद्धित) » adjetivos
-  - **bhāvārthakataddhita (tanmātrataddhita)** (भावार्थकतद्धित / तन्मात्रतद्धित) » abstractos
-  - **tadvattaddhita** (तद्वत्तद्धित) » posesivos (p. ej. **-mant** -मन्त्, **-vant** -वन्त्)
-  - **tolanataddhita (atiśāyanataddhita)** (तोलनतद्धित / अतिशायनतद्धित) » grados de comparación (comparativo, superlativo), comparación
-  - **pūraṇataddhita** (पूरणतद्धित) » números ordinales (primero, etc.)
-  - **vibhaktitaddhita** (विभक्तितद्धित) » en lugar de terminaciones casuales (p. ej. **-tas** -तस्, **-tra** -त्र)
-  - **abhūtatadbhāva (cvitaddhita)** (अभूततद्भाव / च्वितद्धित) » (formaciones con cvī च्वि, **-sāt** -सात्)
+  - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » adjetivos
+  - **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » abstractos
+  - **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » posesivos (p. ej. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
+  - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » grados de comparación (comparativo, superlativo), comparación
+  - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » números ordinales (primero, etc.)
+  - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » en lugar de terminaciones casuales (p. ej. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
+  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (formaciones con cvī ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
 **Clasificación según el ablaut:**
-- **guṇya** (गुण्य): formación en grado alto
-- **na guṇya** (न गुण्य): formación en grado bajo
-- **vṛddhyarha** (वृद्ध्यर्ह): formación en grado prolongado
+- **guṇya** (⟪गुण्य⟫): formación en grado alto
+- **na guṇya** (⟪न⟫ ⟪गुण्य⟫): formación en grado bajo
+- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): formación en grado prolongado
 
 ---
 
@@ -63,18 +63,18 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 **El sufijo kṛt -a forma sustantivos masculinos (rara vez neutros) que designan una acción o un estado indicado por la raíz; a veces también adjetivos o sustantivos que expresan el agente (kartṛ) de la acción indicada por la raíz verbal. Para penúltimas breves (= vocal antes de consonante, en la que termina la raíz) o vocal final de raíz, generalmente se sustituye por el grado alto (guṇa) o el grado alargado (vṛddhi).**
 :::**Ejemplos:**
 
-| Raíz[[br]]धातु | + -a (kṛt) | Significado |
+| Raíz:br⟪धातु⟫ | + -a (kṛt) | Significado |
 | :--- | :--- | :--- |
-| **ji** 1 P[[br]]आप्[[br]]"vencer" | **jaya** m.[[br]]जय | "la victoria, el vencedor" |
-| **muh** 4 P[[br]]मुह्[[br]]"estar confundido" | **moha** m.[[br]]मोह | "confusión, ceguera, error" |
-| **krudh** 4 P[[br]]क्रुध्[[br]]"enojarse" | **krodha** m.[[br]]क्रोध | "ira" |
-| **kup** 4 P[[br]]कुप्[[br]]"enojarse" | **kopa** m.[[br]]कोप | "ira" |
-| **lubh** 4 P[[br]]लुभ्[[br]]"desear" | **lobha** m.[[br]]लोभ | "codicia" |
-| **labh** 1 Ā[[br]]लभ्[[br]]"obtener" | **lābha** m.[[br]]लाभ | "la obtención, ganancia" |
-| **sṛj** 6 P[[br]]सृज्[[br]]"soltar,[[br]]dejar emanar" | **sarga** m.[[br]]सर्ग | "el soltar, la emanación, la creación" (para el sandhi de palabras j » g ver más adelante) |
-| **śru** 5 P[[br]]श्रु[[br]]"oír" | **śrava** m.[[br]]श्रव | "la audición" |
-| **bhū** 1 P[[br]]भू[[br]]"ser, llegar a ser" | **bhāva** m.[[br]]भाव | "el ser, el (algo) ser, naturaleza, carácter" |
-| **yudh** 4 Ā[[br]]युध्[[br]]"luchar" | **yodha** m.[[br]]योध | "combatiente, guerrero, soldado" |
+| **ji** 1 P:br⟪आप्⟫:br"vencer" | **jaya** m.:br⟪जय⟫ | "la victoria, el vencedor" |
+| **muh** 4 P:br⟪मुह्⟫:br"estar confundido" | **moha** m.:br⟪मोह⟫ | "confusión, ceguera, error" |
+| **krudh** 4 P:br⟪क्रुध्⟫:br"enojarse" | **krodha** m.:br⟪क्रोध⟫ | "ira" |
+| **kup** 4 P:br⟪कुप्⟫:br"enojarse" | **kopa** m.:br⟪कोप⟫ | "ira" |
+| **lubh** 4 P:br⟪लुभ्⟫:br"desear" | **lobha** m.:br⟪लोभ⟫ | "codicia" |
+| **labh** 1 Ā:br⟪लभ्⟫:br"obtener" | **lābha** m.:br⟪लाभ⟫ | "la obtención, ganancia" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"soltar,:brdejar emanar" | **sarga** m.:br⟪सर्ग⟫ | "el soltar, la emanación, la creación" (para el sandhi de palabras j » g ver más adelante) |
+| **śru** 5 P:br⟪श्रु⟫:br"oír" | **śrava** m.:br⟪श्रव⟫ | "la audición" |
+| **bhū** 1 P:br⟪भू⟫:br"ser, llegar a ser" | **bhāva** m.:br⟪भाव⟫ | "el ser, el (algo) ser, naturaleza, carácter" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"luchar" | **yodha** m.:br⟪योध⟫ | "combatiente, guerrero, soldado" |
 
 ---
 
@@ -84,14 +84,14 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 **El sufijo kṛt -ana forma generalmente sustantivos neutros que designan una acción, un estado o el medio o instrumento mediante el cual se lleva a cabo la acción designada por la raíz o el tema verbal. Para una penúltima breve o una vocal final de la raíz, por lo general se sustituye por el grado alto (guṇa).**
 :::**Ejemplos:**
 
-| Raíz[[br]]धातु | + -ana (kṛt) | Significado |
+| Raíz:br⟪धातु⟫ | + -ana (kṛt) | Significado |
 | :--- | :--- | :--- |
-| **gam** 1 P[[br]]गम्[[br]]"ir" | **gamana** n.[[br]]गमन | "el ir" |
-| **nī** 1 U[[br]]नी[[br]]"guiar" | **nayana** n.[[br]]नयन | "(el instrumento de guiar, es decir) ojo" |
-| **śru** 5 P[[br]]श्रु[[br]]"oír" | **śravaṇa** n.[[br]]श्रवण | "(instrumento de oír =) oreja" |
-| **kṛ** 8 U[[br]]कृ[[br]]"hacer" | **kāraṇa** n.[[br]]कारण | "(lo mediante lo cual se hace algo, es decir) causa, razón" |
-| **bhū** 1 P[[br]]भू[[br]]"ser" | **bhavana** n.[[br]]भवन | "el ser, surgir" |
-| **dṛś** 4 P[[br]]दृश्[[br]]"ver" | **darśana** n.[[br]]दर्शन | "el ver, punto de vista, sistema filosófico, apariencia, específicamente: Darśan" |
+| **gam** 1 P:br⟪गम्⟫:br"ir" | **gamana** n.:br⟪गमन⟫ | "el ir" |
+| **nī** 1 U:br⟪नी⟫:br"guiar" | **nayana** n.:br⟪नयन⟫ | "(el instrumento de guiar, es decir) ojo" |
+| **śru** 5 P:br⟪श्रु⟫:br"oír" | **śravaṇa** n.:br⟪श्रवण⟫ | "(instrumento de oír =) oreja" |
+| **kṛ** 8 U:br⟪कृ⟫:br"hacer" | **kāraṇa** n.:br⟪कारण⟫ | "(lo mediante lo cual se hace algo, es decir) causa, razón" |
+| **bhū** 1 P:br⟪भू⟫:br"ser" | **bhavana** n.:br⟪भवन⟫ | "el ser, surgir" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"ver" | **darśana** n.:br⟪दर्शन⟫ | "el ver, punto de vista, sistema filosófico, apariencia, específicamente: Darśan" |
 
 :::media
 ![](/images/lekt0801.webp)
@@ -110,15 +110,15 @@ Los hindúes piadosos van al templo para obtener la visión de Dios a través de
 **El sufijo kṛt -tra forma (mayormente) sustantivos neutros, que designan el medio o instrumento, por el cual se lleva a cabo la acción designada por la raíz. La penúltima corta y la vocal final de la raíz se reemplazan por el grado fuerte (guṇa).**
 :::**Ejemplos:**
 
-| Raíz[[br]]धातु | + -tra (kṛt) | Significado |
+| Raíz:br⟪धातु⟫ | + -tra (kṛt) | Significado |
 | :--- | :--- | :--- |
-| **nī** 1 U[[br]]नी[[br]]"conducir" | **netra** n.[[br]]नेत्र | "(Medio de conducción =) Ojo" |
-| **śru** 5 P[[br]]श्रु[[br]]"oír" | **śrotra**[[br]]श्रोत्र | "(Instrumento de audición =) Oreja" |
-| **man** 4 Ā[[br]]मन्[[br]]"pensar" | **mantra** **m. (!)**[[br]]मन्त्र | "(Instrumento de pensamiento:) Verso, fórmula 'mágica' (Mantra)" |
-| **tan** 8 U[[br]]तन्[[br]]"extender" | **tantra** n.[[br]]तन्त्र | "Urdimbre" |
+| **nī** 1 U:br⟪नी⟫:br"conducir" | **netra** n.:br⟪नेत्र⟫ | "(Medio de conducción =) Ojo" |
+| **śru** 5 P:br⟪श्रु⟫:br"oír" | **śrotra**:br⟪श्रोत्र⟫ | "(Instrumento de audición =) Oreja" |
+| **man** 4 Ā:br⟪मन्⟫:br"pensar" | **mantra** **m. (!)**:br⟪मन्त्र⟫ | "(Instrumento de pensamiento:) Verso, fórmula 'mágica' (Mantra)" |
+| **tan** 8 U:br⟪तन्⟫:br"extender" | **tantra** n.:br⟪तन्त्र⟫ | "Urdimbre" |
 
 :::media
-**El Mantra primordial Oṃ (ॐ) en diversas escrituras indias**
+**El Mantra primordial Oṃ (⟪ॐ⟫) en diversas escrituras indias**
 
 | ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
 | :---: | :---: |
@@ -136,15 +136,15 @@ Los hindúes piadosos van al templo para obtener la visión de Dios a través de
 **El sufijo kṛt -ti forma sustantivos femeninos que, en general, expresan la acción designada por la raíz o el estado designado por la raíz. La forma de la raíz es del grado reducido.**
 :::**Ejemplos:**
 
-| Raíz[[br]]धातु | + -ti (kṛt) | Significado |
+| Raíz:br⟪धातु⟫ | + -ti (kṛt) | Significado |
 | :--- | :--- | :--- |
-| **śru** 5 P[[br]]श्रु[[br]]"oír" | **śruti** f.[[br]]श्रुति | "el oír, el Veda" |
-| **smṛ** 1 P[[br]]स्मृ[[br]]"presentar" | **smṛti** f.[[br]]स्मृति | "La presentación, recuerdo, tradición, atención" |
-| **nī** 1 U[[br]]नी[[br]]"guiar" | **nīti** f.[[br]]नीति | "el guiar, dirección, conducta" |
-| **sṛj** 6 P[[br]]सृज्[[br]]"hemanar" | **sṛṣṭi** f.[[br]]सृष्टि | "Emanación, creación" |
-| **dṛś** 4 P[[br]]दृश्[[br]]"ver" | **dṛṣṭi** f.[[br]]दृष्टि | "Mirada, rostro, perspectiva" |
-| **gam** 1 P[[br]]गम्[[br]]"ir" | **gati** f.[[br]]गति | "Paso, trayectoria, objetivo del ir" (de *gm » ga + -ti) |
-| **man** 4 Ā[[br]]मन्[[br]]"pensar" | **mati** f.[[br]]मति | "Pensamiento, idea, opinión" (de *mn » ma + -ti) |
+| **śru** 5 P:br⟪श्रु⟫:br"oír" | **śruti** f.:br⟪श्रुति⟫ | "el oír, el Veda" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"presentar" | **smṛti** f.:br⟪स्मृति⟫ | "La presentación, recuerdo, tradición, atención" |
+| **nī** 1 U:br⟪नी⟫:br"guiar" | **nīti** f.:br⟪नीति⟫ | "el guiar, dirección, conducta" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"hemanar" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanación, creación" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"ver" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Mirada, rostro, perspectiva" |
+| **gam** 1 P:br⟪गम्⟫:br"ir" | **gati** f.:br⟪गति⟫ | "Paso, trayectoria, objetivo del ir" (de *gm » ga + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"pensar" | **mati** f.:br⟪मति⟫ | "Pensamiento, idea, opinión" (de *mn » ma + -ti) |
 
 *Nota: \* delante de una forma significa que esta forma no aparece en sánscrito, sino que se reconstruye teóricamente como requisito para una determinada formación. El grado reducido de **gam** es gṃ = \*gm, la m se sustituye por **a** como nasalis sonans » **ga**. Lo análogo ocurre con **man** » **ma**.
 
@@ -156,72 +156,72 @@ Los hindúes piadosos van al templo para obtener la visión de Dios a través de
 **Los sufijos taddhita -tva n. y -tā f. forman sustantivos abstractos a partir de nomina. La forma de la raíz nominal subyacente permanece inalterada.**
 :::**Ejemplos:**
 
-| Raíz nominal[[br]]नामप्रातिपदिक | + -tva n.[[br]](taddhita) | + -tā f.[[br]](taddhita) | Significado |
+| Raíz nominal:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Significado |
 | :--- | :--- | :--- | :--- |
-| **guru**[[br]]गुरु[[br]]3 "pesado, digno,[[br]]m. maestro" | **gurutva** n.[[br]]गुरुत्व | **gurutā** f.[[br]]गुरुता | "pesadez, dignidad,[[br]]la condición de maestro (esencia o naturaleza de un maestro)" |
-| **brāhmaṇa**[[br]]ब्राह्मण[[br]]m. "brahmán" | **brāhmaṇatva** n.[[br]]ब्राह्मणत्व | **brāhmaṇatā** f.[[br]]ब्राह्मणता | "la condición de brahmán,[[br]lo que hace a uno un brahmán,[[br]]esencia / naturaleza de un brahmán" |
-| **deva**[[br]]देव[[br]]m. "celestial, dios" | — | **devatā** f.[[br]]देवता | "divinidad" |
+| **guru**:br⟪गुरु⟫:br3 "pesado, digno,:brm. maestro" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "pesadez, dignidad,:brla condición de maestro (esencia o naturaleza de un maestro)" |
+| **brāhmaṇa**:br⟪ब्राह्मण⟫:brm. "brahmán" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "la condición de brahmán,[:brlo que hace a uno un brahmán,:bresencia / naturaleza de un brahmán" |
+| **deva**:br⟪देव⟫:brm. "celestial, dios" | — | **devatā** f.:br⟪देवता⟫ | "divinidad" |
 
 Estas formaciones pueden crearse prácticamente con cualquier nombre y son muy frecuentes en obras científicas en sánscrito.
 
 ---
 
-## 8.4. La 8. clase de presente (tanādi = तनादि = "tan, etc.")
+## 8.4. La 8. clase de presente (tanādi = ⟪तनादि⟫ = "tan, etc.")
 
 :::grammar-box
 **Formación de la raíz:**
 - **Raíz fuerte: Raíz + -o-**
 - **Raíz débil: Raíz + -u- (ante vocal: -v-)**
 
-Ejemplo **tan** 8 U (तन्) "extender":
-- 3\. sg. P. **tanoti**[[br]]तनोति
-- 3\. pl. P. **tanvanti**[[br]]तन्वन्ति
-- 3\. sg. Ā. **tanute**[[br]]तनुते
-- 3\. pl. Ā. **tanvate**[[br]]तन्वते
+Ejemplo **tan** 8 U (⟪तन्⟫) "extender":
+- 3\. sg. P. **tanoti**:br⟪तनोति⟫
+- 3\. pl. P. **tanvanti**:br⟪तन्वन्ति⟫
+- 3\. sg. Ā. **tanute**:br⟪तनुते⟫
+- 3\. pl. Ā. **tanvate**:br⟪तन्वते⟫
 :::Nota: Respecto a la controversia sobre si **tan** es en realidad una raíz de la 5. clase (*tn » ta + no-), véase Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
-La raíz más importante de la 8. clase es **kṛ** 8 U (कृ) "hacer, realizar". Su conjugación es irregular:
+La raíz más importante de la 8. clase es **kṛ** 8 U (⟪कृ⟫) "hacer, realizar". Su conjugación es irregular:
 
 :::grammar-box
-**kṛ 8 U (कृ) "hacer, realizar"**
-- 3\. sg. P. **karoti**[[br]]करोति
-- 3\. pl. P. **kurvanti**[[br]]कुर्वन्ति
-- 3\. sg. Ā. **kurute**[[br]]कुरुते
-- 3\. pl. Ā. **kurvate**[[br]]कुर्वते
+**kṛ 8 U (⟪कृ⟫) "hacer, realizar"**
+- 3\. sg. P. **karoti**:br⟪करोति⟫
+- 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
+- 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
+- 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
 :::---
 
 ## 8.5. Lista de palabras
 
 **Aprenda las siguientes palabras:**
 
-- **ji** 1 P (jayati) जि जयति : vencer, ganar, conquistar
-- **labh** 1 Ā (labhate) लभ् लभते : agarrar, obtener, tomar
-- **tu** तु : pero (se coloca después de la primera palabra de la oración o parte de la oración opuesta)
-- **paś** 4 P (paśyati) पश् पश्यति : ver, avistar (se utiliza como raíz del presente en lugar de la raíz **dṛś** 0 "ver, avistar")
-- **kṛ** 8 U (karoti) कृ करोति : hacer, realizar
-- **tan** 8 U (tanoti) तन् तनोति : extender
-- **rakṣ** 1 P (rakṣati) रक्ष् रक्षति : guardar
-- **sārathi** m. सारथि : cochero, conductor
-- **kapi** m. कपि : mono
-- **kumārī** f. कुमारी : la muchacha, la doncella
-- **nāga** m. नाग : el desnudo, el elefante, la serpiente (el elefante y la serpiente no tienen pelaje, al igual que el "mono desnudo" ser humano)
-- **gaja** m. गज : elefante
-- **śuc** 1 P (śocati) शुच् शोचति : lamentarse
-- **śuka** m. शुक : loro
-- **pat** 1 P (patati) पत् पतति : caer, volar
-- **patrikā** f. पत्रिका : carta
-- **likh** 1 P (likhati) लिख् लिखति : grabar, escribir (originalmente con un punzón en una hoja de palma, pero luego en general)
+- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : vencer, ganar, conquistar
+- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : agarrar, obtener, tomar
+- **tu** ⟪तु⟫ : pero (se coloca después de la primera palabra de la oración o parte de la oración opuesta)
+- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : ver, avistar (se utiliza como raíz del presente en lugar de la raíz **dṛś** 0 "ver, avistar")
+- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : hacer, realizar
+- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : extender
+- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : guardar
+- **sārathi** m. ⟪सारथि⟫ : cochero, conductor
+- **kapi** m. ⟪कपि⟫ : mono
+- **kumārī** f. ⟪कुमारी⟫ : la muchacha, la doncella
+- **nāga** m. ⟪नाग⟫ : el desnudo, el elefante, la serpiente (el elefante y la serpiente no tienen pelaje, al igual que el "mono desnudo" ser humano)
+- **gaja** m. ⟪गज⟫ : elefante
+- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : lamentarse
+- **śuka** m. ⟪शुक⟫ : loro
+- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : caer, volar
+- **patrikā** f. ⟪पत्रिका⟫ : carta
+- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : grabar, escribir (originalmente con un punzón en una hoja de palma, pero luego en general)
 
 :::media
 ![](/images/lekt0809.jpg)
-Fig.: **likh** (लिख्) : Estilete de escritura indio de acero para grabar en hojas de palma
+Fig.: **likh** (⟪लिख्⟫) : Estilete de escritura indio de acero para grabar en hojas de palma
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0809))
 ::::::media
 ![](/images/lekt0810.jpg)
-Fig.: **likh** (लिख्) : Palillo de escribir de los Batak (Sumatra), como probablemente también se usaba en la India
+Fig.: **likh** (⟪लिख्⟫) : Palillo de escribir de los Batak (Sumatra), como probablemente también se usaba en la India
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0809))
-:::- **sukha** n. सुख : felicidad, bienestar
-- **duḥkha** n. दुःख : desgracia, sufrimiento
+:::- **sukha** n. ⟪सुख⟫ : felicidad, bienestar
+- **duḥkha** n. ⟪दुःख⟫ : desgracia, sufrimiento
 
 ---
 
@@ -279,21 +279,21 @@ Fig.: **likh** (लिख्) : Palillo de escribir de los Batak (Sumatra), como
 
 ## 8.7. Ejercicio de lectura y traducción
 
-1. शूद्रो बालं नयति |
-2. कविर्देवं यजते |
-3. साधुः फलानि खादति |
-4. गुरुः क्रोधं जयति |
-5. देवो नरकं सृजति |
-6. धेनुर्ग्रामं विशति |
-7. कामक्रोधलोभा नरकं नयन्ति |
-8. देवतां यजति |
-9. बाला भवति |
-10. सारथी रथं नयति |
-11. कपयः फलानि खादन्ति |
-12. बाला लिखति |
-13. कुमारी गृहं विशति |
-14. देवो नागं सृजति |
-15. बालो गजं नयति |
-16. विमला शोचति | (विमला nombre propio Vimalā)
-17. शुकः पतति |
-18. बालः पत्रिकां लिखति |
+1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
+2. ⟪कविर्देवं⟫ ⟪यजते⟫ |
+3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
+4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
+5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
+6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
+7. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
+8. ⟪देवतां⟫ ⟪यजति⟫ |
+9. ⟪बाला⟫ ⟪भवति⟫ |
+10. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
+11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
+12. ⟪बाला⟫ ⟪लिखति⟫ |
+13. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
+14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
+15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
+16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ nombre propio Vimalā)
+17. ⟪शुकः⟫ ⟪पतति⟫ |
+18. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |

@@ -72,13 +72,11 @@ B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मं⟫ ⟪द्विषन्ति⟫ ⟪।⟫ ⟪द्विषते⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वते⟫ ⟪।⟫
 
-::: media
+:::media
 ![](/images/uebung025.webp)
 Abb.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Bildquelle: [Details](/licenses#uebung025))
-:::
-
----
+:::---
 
 ## Verbformen-Übung
 
@@ -176,7 +174,7 @@ Abb.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 
 ⟪४६⟫. **⟪दिश्यन्न्ते⟫** (⟪दिश्⟫ 6U): sie werden gezeigt
 
-::: media
+:::media
 ![](/images/uebung026.webp)
 Abb.: ⟪शृणोति⟫
 (Bildquelle: [Details](/licenses#uebung026))

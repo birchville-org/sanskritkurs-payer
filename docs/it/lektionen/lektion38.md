@@ -11,22 +11,22 @@ status: stable
 
 ## 38.1. Soluzione della settimana
 
-मनुस्मृति ४.३२ riguardo alla corretta minzione:
+⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ riguardo alla corretta minzione:
 
 :::indent
-प्रत्य***ग्नि*** प्रतिसूर्यं च  
-प्रतिसोमोदकद्विजम् ।  
-प्रति***गु*** प्रतिवातं च  
-प्रज्ञा नश्यति मेहतः ॥
+⟪प्रत्य⟫***⟪ग्नि⟫*** ⟪प्रतिसूर्यं⟫ ⟪च⟫  
+⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
+⟪प्रति⟫***⟪गु⟫*** ⟪प्रतिवातं⟫ ⟪च⟫  
+⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
 :::Spiegazioni:
 
-\-अग्नि Neutro Nominativo/Accusativo singolare di अग्नि m.
+\-⟪अग्नि⟫ Neutro Nominativo/Accusativo singolare di ⟪अग्नि⟫ m.
 
-\-गु Neutro Nominativo/Accusativo singolare di गो m.f. "bue, vacca"
+\-⟪गु⟫ Neutro Nominativo/Accusativo singolare di ⟪गो⟫ m.f. "bue, vacca"
 
 :::media
 ![](/images/lekt3801.webp)
-Fig.: प्रज्ञा नश्यति मेहतः
+Fig.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3801))
 :::## 38.2. Mutamento fonetico delle nasali nella parola
 
@@ -42,54 +42,54 @@ I nomi in **-an** nonché i nomi **-man** o **-van** dopo vocale hanno tre stemm
 
 | Stemma | -an | -man | -van | Uso |
 | :--- | :---: | :---: | :---: | :--- |
-| **Stemma forte** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.[[br]]Nom., Acc., Voc. du. m. f.[[br]]Nom., Voc. pl. m. f.[[br]]Nom., Acc. pl. n. |
-| **Stemma debole intermedio** | **-a**[[br]](da -*n) | **-ma**[[br]](da -*mn) | **-va**[[br]](da -*vn) | Casi restanti con desinenza iniziante per consonante[[br]]Facoltativamente anche Loc. sg. m. n. f. |
+| **Stemma forte** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.:brNom., Acc., Voc. du. m. f.:brNom., Voc. pl. m. f.:brNom., Acc. pl. n. |
+| **Stemma debole intermedio** | **-a**:br(da -*n) | **-ma**:br(da -*mn) | **-va**:br(da -*vn) | Casi restanti con desinenza iniziante per consonante:brFacoltativamente anche Loc. sg. m. n. f. |
 | **Stemma più debole** | **-n** | **-mn** | **-vn** | Casi restanti con desinenza iniziante per vocale |
 
 **Le desinenze sono regolari. Il Nominativo Singolare m. f. si forma senza -n finale.**
 :::Esempi:
 
-राजन् m. "Re"
+⟪राजन्⟫ m. "Re"
 
-*   stemma forte: राजान्
-*   stemma intermedio: राज
-*   stemma più debole: राज्ञ्
+*   stemma forte: ⟪राजान्⟫
+*   stemma intermedio: ⟪राज⟫
+*   stemma più debole: ⟪राज्ञ्⟫
 
-सीमन् f. "Confine"
+⟪सीमन्⟫ f. "Confine"
 
-*   stemma forte: सीमान्
-*   stemma intermedio: सीम
-*   stemma più debole: सीम्न्
+*   stemma forte: ⟪सीमान्⟫
+*   stemma intermedio: ⟪सीम⟫
+*   stemma più debole: ⟪सीम्न्⟫
 
-नामन् n. "Nome"
+⟪नामन्⟫ n. "Nome"
 
-*   stemma forte: नामान्
-*   stemma intermedio: नाम
-*   stemma più debole: नाम्न्
+*   stemma forte: ⟪नामान्⟫
+*   stemma intermedio: ⟪नाम⟫
+*   stemma più debole: ⟪नाम्न्⟫
 ::::grammar-box
 
-| | **राजन्** | **सीमन्** | **नामन्** |
+| | **⟪राजन्⟫** | **⟪सीमन्⟫** | **⟪नामन्⟫** |
 | :--- | :---: | :---: | :---: |
-| **एकवचनम्** | | | |
-| **प्रथमा** | **राजा** | **सीमा** | **नाम** |
-| **द्वितीया** | **राजानम्** | **सीमानम्** | **नाम** |
-| **तृतीया** | **राज्ञा** | **सीम्ना** | **नाम्ना** |
-| **चतुर्थी** | **राज्ञे** | **सीम्ने** | **नाम्ने** |
-| **पञ्चमी** | **राज्ञस्** | **सीम्नस्** | **नाम्नस्** |
-| **षष्ठी** | **राज्ञस्** | **सीम्नस्** | **नाम्नस्** |
-| **सप्तमी** | **राज्ञि** / **राजानि** | **सीम्नि** / **सीमनि** | **नाम्नि** / **नामनि** |
-| **बहुवचनम्** | | | |
-| **प्रथमा** | **राजानस्** | **सीमानस्** | **नामानि** |
-| **द्वितीया** | **राज्ञस्** | **सीम्नस्** | **नामानि** |
-| **तृतीया** | **राजभिस्** | **सीम्नभिस्** | **नामभिस्** |
-| **चतुर्थी** | **राजभ्यस्** | **सीम्नभ्यस्** | **नामभ्यस्** |
-| **पञ्चमी** | **राजभ्यस्** | **सीम्नभ्यस्** | **नामभ्यस्** |
-| **षष्ठी** | **राज्ञाम्** | **सीम्नाम्** | **नाम्नाम्** |
-| **सप्तमी** | **राजसु** | **सीमसु** | **नामसु** |
+| **⟪एकवचनम्⟫** | | | |
+| **⟪प्रथमा⟫** | **⟪राजा⟫** | **⟪सीमा⟫** | **⟪नाम⟫** |
+| **⟪द्वितीया⟫** | **⟪राजानम्⟫** | **⟪सीमानम्⟫** | **⟪नाम⟫** |
+| **⟪तृतीया⟫** | **⟪राज्ञा⟫** | **⟪सीम्ना⟫** | **⟪नाम्ना⟫** |
+| **⟪चतुर्थी⟫** | **⟪राज्ञे⟫** | **⟪सीम्ने⟫** | **⟪नाम्ने⟫** |
+| **⟪पञ्चमी⟫** | **⟪राज्ञस्⟫** | **⟪सीम्नस्⟫** | **⟪नाम्नस्⟫** |
+| **⟪षष्ठी⟫** | **⟪राज्ञस्⟫** | **⟪सीम्नस्⟫** | **⟪नाम्नस्⟫** |
+| **⟪सप्तमी⟫** | **⟪राज्ञि⟫** / **⟪राजानि⟫** | **⟪सीम्नि⟫** / **⟪सीमनि⟫** | **⟪नाम्नि⟫** / **⟪नामनि⟫** |
+| **⟪बहुवचनम्⟫** | | | |
+| **⟪प्रथमा⟫** | **⟪राजानस्⟫** | **⟪सीमानस्⟫** | **⟪नामानि⟫** |
+| **⟪द्वितीया⟫** | **⟪राज्ञस्⟫** | **⟪सीम्नस्⟫** | **⟪नामानि⟫** |
+| **⟪तृतीया⟫** | **⟪राजभिस्⟫** | **⟪सीम्नभिस्⟫** | **⟪नामभिस्⟫** |
+| **⟪चतुर्थी⟫** | **⟪राजभ्यस्⟫** | **⟪सीम्नभ्यस्⟫** | **⟪नामभ्यस्⟫** |
+| **⟪पञ्चमी⟫** | **⟪राजभ्यस्⟫** | **⟪सीम्नभ्यस्⟫** | **⟪नामभ्यस्⟫** |
+| **⟪षष्ठी⟫** | **⟪राज्ञाम्⟫** | **⟪सीम्नाम्⟫** | **⟪नाम्नाम्⟫** |
+| **⟪सप्तमी⟫** | **⟪राजसु⟫** | **⟪सीमसु⟫** | **⟪नामसु⟫** |
 
 :::::::media
 ![](/images/lekt3803.webp)
-Fig.: सीमा
+Fig.: ⟪सीमा⟫
 (Fonte immagine: [Dettagli](/it/licenses#lekt3803))
 :::### 38.3.2. Nomi in -man o -van dopo consonante
 
@@ -97,460 +97,460 @@ Fig.: सीमा
 *   Starker Stamm: -mān, -vān
 *   Radice debole:
     *   davanti a desinenze con iniziale consonantica: -ma, -va (da -\*mn, -\*vn)
-    *   davanti a desinenze con iniziale vocalica: ***\-man, -van***
+    *   davanti a desinenze con iniziale vocalica: **\-man, -van**
 
 Altrimenti formazione come sotto 3.1.
 :::Esempi:
 
-आत्मन् n. "Anima"
+⟪आत्मन्⟫ n. "Anima"
 
-*   radice forte: आत्मान्
+*   radice forte: ⟪आत्मान्⟫
 *   radice debole:
-    *   davanti a consonante: आत्म
-    *   davanti a vocale: आत्मन्
+    *   davanti a consonante: ⟪आत्म⟫
+    *   davanti a vocale: ⟪आत्मन्⟫
 
-ब्रह्मन् n.: Assoluto, Veda, Brahman
+⟪ब्रह्मन्⟫ n.: Assoluto, Veda, Brahman
 
-*   radice forte: ब्रह्मान्
+*   radice forte: ⟪ब्रह्मान्⟫
 *   radice debole:
-    *   davanti a consonante: ब्रह्म
-    *   davanti a vocale: ब्रह्मन्
+    *   davanti a consonante: ⟪ब्रह्म⟫
+    *   davanti a vocale: ⟪ब्रह्मन्⟫
 ::::grammar-box
 
-| | **आत्मन्** | **ब्रह्मन्** |
+| | **⟪आत्मन्⟫** | **⟪ब्रह्मन्⟫** |
 | :--- | :---: | :---: |
-| **एकवचनम्** | | |
-| **प्रथमा** | **आत्मा** | **ब्रह्म** |
-| **द्वितीया** | **आत्मानम्** | **ब्रह्म** |
-| **तृतीया** | **आत्मना** | **ब्रह्मणा** |
-| **चतुर्थी** | **आत्मने** | **ब्रह्मणे** |
-| **पञ्चमी** | **आत्मनस्** | **ब्रह्मणस्** |
-| **षष्ठी** | **आत्मनस्** | **ब्रह्मणस्** |
-| **सप्तमी** | **आत्मनि** | **ब्रह्मणि** |
-| **बहुवचनम्** | | |
-| **प्रथमा** | **आत्मानस्** | **ब्रह्माणि** |
-| **द्वितीया** | **आत्मनस्** | **ब्रह्माणि** |
-| **तृतीया** | **आत्मभिस्** | **ब्रह्मभिस्** |
-| **चतुर्थी** | **आत्मभ्यस्** | **ब्रह्मभ्यस्** |
-| **पञ्चमी** | **आत्मभ्यस्** | **ब्रह्मभ्यस्** |
-| **षष्ठी** | **आत्मनाम्** | **ब्रह्मणाम्** |
-| **सप्तमी** | **आत्मसु** | **ब्रह्मसु** |
+| **⟪एकवचनम्⟫** | | |
+| **⟪प्रथमा⟫** | **⟪आत्मा⟫** | **⟪ब्रह्म⟫** |
+| **⟪द्वितीया⟫** | **⟪आत्मानम्⟫** | **⟪ब्रह्म⟫** |
+| **⟪तृतीया⟫** | **⟪आत्मना⟫** | **⟪ब्रह्मणा⟫** |
+| **⟪चतुर्थी⟫** | **⟪आत्मने⟫** | **⟪ब्रह्मणे⟫** |
+| **⟪पञ्चमी⟫** | **⟪आत्मनस्⟫** | **⟪ब्रह्मणस्⟫** |
+| **⟪षष्ठी⟫** | **⟪आत्मनस्⟫** | **⟪ब्रह्मणस्⟫** |
+| **⟪सप्तमी⟫** | **⟪आत्मनि⟫** | **⟪ब्रह्मणि⟫** |
+| **⟪बहुवचनम्⟫** | | |
+| **⟪प्रथमा⟫** | **⟪आत्मानस्⟫** | **⟪ब्रह्माणि⟫** |
+| **⟪द्वितीया⟫** | **⟪आत्मनस्⟫** | **⟪ब्रह्माणि⟫** |
+| **⟪तृतीया⟫** | **⟪आत्मभिस्⟫** | **⟪ब्रह्मभिस्⟫** |
+| **⟪चतुर्थी⟫** | **⟪आत्मभ्यस्⟫** | **⟪ब्रह्मभ्यस्⟫** |
+| **⟪पञ्चमी⟫** | **⟪आत्मभ्यस्⟫** | **⟪ब्रह्मभ्यस्⟫** |
+| **⟪षष्ठी⟫** | **⟪आत्मनाम्⟫** | **⟪ब्रह्मणाम्⟫** |
+| **⟪सप्तमी⟫** | **⟪आत्मसु⟫** | **⟪ब्रह्मसु⟫** |
 
 ::::### 38.3.3. Maschili e neutri in -in, -min, -vin
 
 :::grammar-box
-Questi nomi non hanno ***nessuna*** ablaut.
+Questi nomi non hanno **nessuna** ablaut.
 
-Il Nom.sg.m. e il Nom.Akk.pl.n. sono formati per analogia con le radici in -an (allungamento del -i-), così come la radice in ***\-i-*** prima di una desinenza consonantica.
+Il Nom.sg.m. e il Nom.Akk.pl.n. sono formati per analogia con le radici in -an (allungamento del -i-), così come la radice in **\-i-** prima di una desinenza consonantica.
 
-Il femminile si forma con il suffisso -ī: ad es. बलिनी
+Il femminile si forma con il suffisso -ī: ad es. ⟪बलिनी⟫
 :::Esempio:
 
-बलिन् m.n. "forte, robusto (contrassegnato da uno speciale बल, बल possidente)"
+⟪बलिन्⟫ m.n. "forte, robusto (contrassegnato da uno speciale ⟪बल⟫, ⟪बल⟫ possidente)"
 
 ::::grammar-box
 
-| | **पुंस्** | **नपुंसकम्** |
+| | **⟪पुंस्⟫** | **⟪नपुंसकम्⟫** |
 | :--- | :---: | :---: |
-| **एकवचनम्** | | |
-| **प्रथमा** | **बली** | **बलि** |
-| **द्वितीया** | **बलिनम्** | **बलि** |
-| **तृतीया** | **बलिना**||
-| **चतुर्थी** | **बलिने**||
-| **पञ्चमी** | **बलिनस्**||
-| **षष्ठी** | **बलिनस्**||
-| **सप्तमी** | **बलिनि**||
-| **बहुवचनम्** | | |
-| **प्रथमा** | **बलिनस्** | **बलीनि** |
-| **द्वितीया** | **बलिनस्** | **बलीनि** |
-| **तृतीया** | **बलिभिस्**||
-| **चतुर्थी** | **बलिभ्यस्**||
-| **पञ्चमी** | **बलिभ्यस्**||
-| **षष्ठी** | **बलिनाम्**||
-| **सप्तमी** | **बलिषु**||
+| **⟪एकवचनम्⟫** | | |
+| **⟪प्रथमा⟫** | **⟪बली⟫** | **⟪बलि⟫** |
+| **⟪द्वितीया⟫** | **⟪बलिनम्⟫** | **⟪बलि⟫** |
+| **⟪तृतीया⟫** | **⟪बलिना⟫**||
+| **⟪चतुर्थी⟫** | **⟪बलिने⟫**||
+| **⟪पञ्चमी⟫** | **⟪बलिनस्⟫**||
+| **⟪षष्ठी⟫** | **⟪बलिनस्⟫**||
+| **⟪सप्तमी⟫** | **⟪बलिनि⟫**||
+| **⟪बहुवचनम्⟫** | | |
+| **⟪प्रथमा⟫** | **⟪बलिनस्⟫** | **⟪बलीनि⟫** |
+| **⟪द्वितीया⟫** | **⟪बलिनस्⟫** | **⟪बलीनि⟫** |
+| **⟪तृतीया⟫** | **⟪बलिभिस्⟫**||
+| **⟪चतुर्थी⟫** | **⟪बलिभ्यस्⟫**||
+| **⟪पञ्चमी⟫** | **⟪बलिभ्यस्⟫**||
+| **⟪षष्ठी⟫** | **⟪बलिनाम्⟫**||
+| **⟪सप्तमी⟫** | **⟪बलिषु⟫**||
 
-::::## 38.4. Sulla formazione nominale: suffisso तद्धित -in
+::::## 38.4. Sulla formazione nominale: suffisso ⟪तद्धित⟫ -in
 
 :::grammar-box
-Con il suffisso (molto importante!) तद्धित **-in** si formano aggettivi da sostantivi con il significato di:
+Con il suffisso (molto importante!) ⟪तद्धित⟫ **-in** si formano aggettivi da sostantivi con il significato di:
 
 **contrassegnato da, possidente**
 
-Originariamente, la formazione con il suffisso **-इन्** differiva da quella con **-मन्त्/-वन्त्** nel fatto che **-इन्** indicava la contrassegnazione da qualcosa di speciale, mentre **-मन्त्/-वन्त्** esprimeva il possesso di, la contrassegnazione da qualcosa di solito, comune.
+Originariamente, la formazione con il suffisso **-⟪इन्⟫** differiva da quella con **-⟪मन्त्⟫/-⟪वन्त्⟫** nel fatto che **-⟪इन्⟫** indicava la contrassegnazione da qualcosa di speciale, mentre **-⟪मन्त्⟫/-⟪वन्त्⟫** esprimeva il possesso di, la contrassegnazione da qualcosa di solito, comune.
 :::Esempio:
 
-हस्तिन् m.: colui che è contrassegnato da una mano speciale = l'elefante (la sua mano non è una mano comune, ma una proboscide)
+⟪हस्तिन्⟫ m.: colui che è contrassegnato da una mano speciale = l'elefante (la sua mano non è una mano comune, ma una proboscide)
 
 :::media
 ![](/images/lekt3806.webp)
-Fig.: हस्ती
+Fig.: ⟪हस्ती⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3806))
-:::हस्तवन्त् : uno che ha (mani umane)
+:::⟪हस्तवन्त्⟫ : uno che ha (mani umane)
 
 :::media
 ![](/images/lekt3807.webp)
-Fig.: हस्तवान्
+Fig.: ⟪हस्तवान्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3807))
 ::::::grammar-box
-Gli aggettivi in **-इन्** sono volentieri formati in composti.
+Gli aggettivi in **-⟪इन्⟫** sono volentieri formati in composti.
 :::Esempio:
 
-सत्यवादिन् da सत्यवाद m. "parlare della verità": "qualcuno che è contrassegnato dal parlare della verità = uno che dice sempre la verità"
+⟪सत्यवादिन्⟫ da ⟪सत्यवाद⟫ m. "parlare della verità": "qualcuno che è contrassegnato dal parlare della verità = uno che dice sempre la verità"
 
-## 38.5. Sintassi di नामन्
+## 38.5. Sintassi di ⟪नामन्⟫
 
 :::grammar-box
 Per esprimere "qualcuno di nome N. N.", si costruisce:
 
-**N.N. (in nominativo) नाम**
+**N.N. (in nominativo) ⟪नाम⟫**
 
 Letteralmente: "il nome è/era N.N.". Si tratta quindi di una proposizione nominale intercalata.
 :::Esempio:
 
 :::indent
-आसीद्राजा नलो नाम वीरसेनसुतो बली । "C'era una volta un re ***di nome Nala***, il forte figlio di Vīrasena."
-:::Naturalmente si può esprimere lo stesso concetto con un बहुव्रीहि:
+⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ "C'era una volta un re **di nome Nala**, il forte figlio di Vīrasena."
+:::Naturalmente si può esprimere lo stesso concetto con un ⟪बहुव्रीहि⟫:
 
 :::indent
-देवदत्तनामा पुरुषः "un uomo, il cui nome è Devadatta"
+⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ "un uomo, il cui nome è Devadatta"
 
-मदयन्तिकानाम्नी बाला "una ragazza, il cui nome è Madayantika"
+⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ "una ragazza, il cui nome è Madayantika"
 ::::::media
 ![](/images/lekt3808.jpg)
-Fig.: आसीन्महात्मा गन्धी नाम
+Fig.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3808))
-:::## 38.6. Sintassi di आत्मन्
+:::## 38.6. Sintassi di ⟪आत्मन्⟫
 
 :::grammar-box
-**आत्मन्** ***maschile*** può essere usato al ***singolare*** come pronome riflessivo (pronome riflessivo) per tutti e tre i generi, i numeri (anche duale e plurale) e le persone.
+**⟪आत्मन्⟫** **maschile** può essere usato al **singolare** come pronome riflessivo (pronome riflessivo) per tutti e tre i generi, i numeri (anche duale e plurale) e le persone.
 :::Esempi:
 
 :::indent
-आत्मन्येषा दोषं न पश्यति । "Non vede alcun errore in sé stessa"
+⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Non vede alcun errore in sé stessa"
 
-आत्मानं स्तुवन्ति । "Si lodano da sé"
+⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "Si lodano da sé"
 ::::::grammar-box
-Il genitivo (षष्ठी) **आत्मनस्** può quindi stare per "mio/tuo/suo/... proprio"
+Il genitivo (⟪षष्ठी⟫) **⟪आत्मनस्⟫** può quindi stare per "mio/tuo/suo/... proprio"
 :::Esempio:
 
 :::indent
-आत्मनो गृहं प्रविशति । "Entra nella propria casa."
+⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Entra nella propria casa."
 :::## 38.7. Temi consonantici come primi membri di composti
 
 :::grammar-box
-I temi che terminano con una consonante compaiono come primo membro di un composto nella forma (debole) del tema che assumono prima della desinenza -su del locativo (सप्तमी) plurale.
+I temi che terminano con una consonante compaiono come primo membro di un composto nella forma (debole) del tema che assumono prima della desinenza -su del locativo (⟪सप्तमी⟫) plurale.
 :::Esempio:
 
 :::indent
-***राज***पुत्र "figlio del re"
-:::## 38.8. Temi in -an come componente finale di un बहुव्रीहि
+***⟪राज⟫***⟪पुत्र⟫ "figlio del re"
+:::## 38.8. Temi in -an come componente finale di un ⟪बहुव्रीहि⟫
 
 :::grammar-box
-Come componente finale di un बहुव्रीहि, un tema in -an può essere utilizzato per tutti e tre i generi. Di solito, tuttavia, il femminile è formato con il suffisso -ī a partire dallo stemma maschile debole.
+Come componente finale di un ⟪बहुव्रीहि⟫, un tema in -an può essere utilizzato per tutti e tre i generi. Di solito, tuttavia, il femminile è formato con il suffisso -ī a partire dallo stemma maschile debole.
 :::Esempio:
 
 :::indent
-दुर्णाम्नी "una, il cui nome è malefico; demone della malattia"
+⟪दुर्णाम्नी⟫ "una, il cui nome è malefico; demone della malattia"
 :::## 38.9. Elenco di parole
 
-सूर्य m.: Sole, dio del sole Sūrya
+⟪सूर्य⟫ m.: Sole, dio del sole Sūrya
 
 :::media
 ![](/images/lekt3802.webp)
-Fig.: सूर्यः
+Fig.: ⟪सूर्यः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3802))
-:::उदक n.: Acqua
+:::⟪उदक⟫ n.: Acqua
 
 :::media
 ![](/images/lekt3805.webp)
-Fig.: उदकम्
+Fig.: ⟪उदकम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3805))
-:::वा 2P वाति : soffiare, gonfiare
+:::⟪वा⟫ 2P ⟪वाति⟫ : soffiare, gonfiare
 
 :::indent
-Fut. वास्यति
-Perf. IV ववौ
-Pass. वायते
-Kaus. वापयति
-PPP वान । वात
-Inf. वातुम्
+Fut. ⟪वास्यति⟫
+Perf. IV ⟪ववौ⟫
+Pass. ⟪वायते⟫
+Kaus. ⟪वापयति⟫
+PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+Inf. ⟪वातुम्⟫
 
 da ciò:
 
-वात m.: Vento
-:::वा + निस् 2P निर्वाति : soffiare, disperare, spegnersi
+⟪वात⟫ m.: Vento
+:::⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : soffiare, disperare, spegnersi
 
 :::indent
 da ciò:
 
-निर्वाण n.: Spegnimento, Nirvāṇa
+⟪निर्वाण⟫ n.: Spegnimento, Nirvāṇa
 
-परिनिर्वाण n.: Spegnimento perfetto, liberazione perfetta (alla fine della vita di un Buddha o di un Arhat)
+⟪परिनिर्वाण⟫ n.: Spegnimento perfetto, liberazione perfetta (alla fine della vita di un Buddha o di un Arhat)
 ::::::media
 ![](/images/lekt3804.webp)
-Fig.: गौतमबुद्धस्य महापरिनिर्वाणम्
+Fig.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3804))
-:::मिह् 1P मेहति : urinare, pisciare, eiaculare
+:::⟪मिह्⟫ 1P ⟪मेहति⟫ : urinare, pisciare, eiaculare
 
 :::indent
-Fut. मेक्ष्यति
-Perf. II मिमेह, मिमिहुर्
-Pass. मिह्यते
-Kaus. मेहयति
-PPP मीढ
+Fut. ⟪मेक्ष्यति⟫
+Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
+Pass. ⟪मिह्यते⟫
+Kaus. ⟪मेहयति⟫
+PPP ⟪मीढ⟫
 
 da ciò:
 
-मेघ m.: Nuvola ("colui che urina")
-:::सुत m.: Figlio
+⟪मेघ⟫ m.: Nuvola ("colui che urina")
+:::⟪सुत⟫ m.: Figlio
 
-राजन् m.: Re (per il regno in India vedi Basham, Meraviglie pagg. 82 -94). Come componente finale di un composto (soprattutto तत्पुरुष) di solito: -राज m. (come देव)
+⟪राजन्⟫ m.: Re (per il regno in India vedi Basham, Meraviglie pagg. 82 -94). Come componente finale di un composto (soprattutto ⟪तत्पुरुष⟫) di solito: -⟪राज⟫ m. (come ⟪देव⟫)
 
 :::indent
 Femminile:
 
-राज्ञी f.: Regina, moglie di un re
+⟪राज्ञी⟫ f.: Regina, moglie di un re
 
-da राज :
+da ⟪राज⟫ :
 
-राज्य 3: regio; n. Regno, reame, dominio
-:::नामन् n.: Nome
+⟪राज्य⟫ 3: regio; n. Regno, reame, dominio
+:::⟪नामन्⟫ n.: Nome
 
-सीमन् f.: Confine
+⟪सीमन्⟫ f.: Confine
 
-आत्मन् m.: Sé, propria persona, essenza più intima. Filosoficamente e nelle dottrine di liberazione: l'Assoluto nell'individuo, di cui l'individuo a volte non è consapevole (v. Stietencron)
+⟪आत्मन्⟫ m.: Sé, propria persona, essenza più intima. Filosoficamente e nelle dottrine di liberazione: l'Assoluto nell'individuo, di cui l'individuo a volte non è consapevole (v. Stietencron)
 
-ब्रह्मन् n.: l'Assoluto, il Veda (secondo Thieme originariamente: la verità formulata, da cui ब्राह्मण "formulatore della verità")
+⟪ब्रह्मन्⟫ n.: l'Assoluto, il Veda (secondo Thieme originariamente: la verità formulata, da cui ⟪ब्राह्मण⟫ "formulatore della verità")
 
-ब्रह्मन् m.: il dio creatore personale Brahmā
+⟪ब्रह्मन्⟫ m.: il dio creatore personale Brahmā
 
 :::media
 ![](/images/lekt3809.webp)
-Fig.: ब्रह्मा
+Fig.: ⟪ब्रह्मा⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3809))
-:::कर्मन् n. a कृ 8U: azione, fatto, opera; opera sacra, azione sacrificale; Karma: l'azione precedente che più tardi ne porta i frutti (ad esempio nella rinascita) 
+:::⟪कर्मन्⟫ n. a ⟪कृ⟫ 8U: azione, fatto, opera; opera sacra, azione sacrificale; Karma: l'azione precedente che più tardi ne porta i frutti (ad esempio nella rinascita) 
 
 :::indent
-कर्मविपाक m.: Maturazione delle azioni = le conseguenze buone e cattive delle azioni nelle esistenze precedenti (a वि-पच्)
-:::हस्तिन् m.: Elefante (_Elephas maximus_)
+⟪कर्मविपाक⟫ m.: Maturazione delle azioni = le conseguenze buone e cattive delle azioni nelle esistenze precedenti (a ⟪वि⟫-⟪पच्⟫)
+:::⟪हस्तिन्⟫ m.: Elefante (_Elephas maximus_)
 
-मनु m.: Uomo, uomo; nome del padre della specie umana (a मन् 4Ā)
+⟪मनु⟫ m.: Uomo, uomo; nome del padre della specie umana (a ⟪मन्⟫ 4Ā)
 
 :::indent
 da ciò:
 
-मनुष्य m.: Uomo
-:::शुच् 1P शोचति : (fiammeggiare, brillare); piangere, compiangere
+⟪मनुष्य⟫ m.: Uomo
+:::⟪शुच्⟫ 1P ⟪शोचति⟫ : (fiammeggiare, brillare); piangere, compiangere
 
 :::indent
-Perf. II शुशोच, शुशुचुर्
-Fut. शोचिष्यति
-Pass. शुच्यते
-Kaus. शोचयति
-Inf. शुचितुम्
-Assol. शोचित्वा । शुचित्वा
+Perf. II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
+Fut. ⟪शोचिष्यति⟫
+Pass. ⟪शुच्यते⟫
+Kaus. ⟪शोचयति⟫
+Inf. ⟪शुचितुम्⟫
+Assol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫
 
 da ciò:
 
-शुचि 3: lucente, puro, chiaro
+⟪शुचि⟫ 3: lucente, puro, chiaro
 
-शोक m.: Dolore, afflizione
+⟪शोक⟫ m.: Dolore, afflizione
 
-अशोक 3: libero da dolore; albero Ashoka = _Saraca asoca_ (Roxb.) Wilde; nome dell'imperatore Aśoka (देवानांप्रिय प्रियदर्शी) (ca. 304   232 a.C.)
+⟪अशोक⟫ 3: libero da dolore; albero Ashoka = _Saraca asoca_ (Roxb.) Wilde; nome dell'imperatore Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 a.C.)
 ::::::media
 ![](/images/lekt3810.webp)
-Fig.: अशोकवृक्षः
+Fig.: ⟪अशोकवृक्षः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3810))
 ::::::media
 ![](/images/lekt3811.webp)
-Fig.: अशोकसाम्राज्यम्
+Fig.: ⟪अशोकसाम्राज्यम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3811))
 :::## 38.10. Esercizio
 
 A) Inserite nelle seguenti frasi la forma corrispondente delle parole tra parentesi e traducete:
 
-... (सप्तमी विभक्तिः) ... धर्मं रक्षत्यभया जनाः ॥१॥ (राजन्)
+... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫)
 
-आसीद्राजपुत्रो गौतमस् ... सुकृतकर्मोपपन्नो बुद्ध्या रूपामितबलः ॥२॥ (नामन्)
+⟪आसीद्राजपुत्रो⟫ ⟪गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूपामितबलः⟫ ⟪॥२॥⟫ (⟪नामन्⟫)
 
-राज्यस्य ... (सप्तमी बहुवचने) ... अरयो राजानं योद्धुं तिष्ठन्ति ॥३॥ (सीमन्)
+⟪राज्यस्य⟫ ... (⟪सप्तमी⟫ ⟪बहुवचने⟫) ... ⟪अरयो⟫ ⟪राजानं⟫ ⟪योद्धुं⟫ ⟪तिष्ठन्ति⟫ ⟪॥३॥⟫ (⟪सीमन्⟫)
 
-वैश्यानां कानि ... ॥४॥ (नामन्)
+⟪वैश्यानां⟫ ⟪कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫)
 
-वैश्यास् ... ॥५॥ (किंनामन्)
+⟪वैश्यास्⟫ ... ⟪॥५॥⟫ (⟪किंनामन्⟫)
 
-... (सप्तम्येकवचने) ... अकर्म यः पश्येदकर्मणि च कर्म यः स बुद्धिमान्मनुष्येषु स युक्त इति भगवद्गीतायाम् ॥६॥ (कर्मन्)
+... (⟪सप्तम्येकवचने⟫) ... ⟪अकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥६॥⟫ (⟪कर्मन्⟫)
 
-किम् ... किमकर्मेति कवयो ऽप्यत्र मोहिताः ॥७॥ (कर्मन्)
+⟪किम्⟫ ... ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥७॥⟫ (⟪कर्मन्⟫)
 
-ब्रह्मभूतस् ... (प्रथमैकवचने) ... न शोचति न लुभ्यति ॥८॥ (प्रसन्नात्मन्)
+⟪ब्रह्मभूतस्⟫ ... (⟪प्रथमैकवचने⟫) ... ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥८॥⟫ (⟪प्रसन्नात्मन्⟫)
 
-... (षष्ठ्येकवचने) ... सुकृतस्य सुफलमाहुः ॥९॥ (कर्मन्)
+... (⟪षष्ठ्येकवचने⟫) ... ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥९॥⟫ (⟪कर्मन्⟫)
 
-महीभोगस् ... (शष्ठी बहुवचने) ... धर्मः ॥१०॥ (राजन्)
+⟪महीभोगस्⟫ ... (⟪शष्ठी⟫ ⟪बहुवचने⟫) ... ⟪धर्मः⟫ ⟪॥१०॥⟫ (⟪राजन्⟫)
 
-राज्ञे ... दीयेरन् ॥११॥ (बलिन् हस्तिन्)
+⟪राज्ञे⟫ ... ⟪दीयेरन्⟫ ⟪॥११॥⟫ (⟪बलिन्⟫ ⟪हस्तिन्⟫)
 
-... (तृतीया विभक्तिः) ... लोका असृज्यन्त ॥१२॥ (ब्रह्मन् m.)
+... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥१२॥⟫ (⟪ब्रह्मन्⟫ m.)
 
-... (तृतीया विभक्तिः) ... कृतं पापं... (तृतीया विभक्तिः) ... अकृतं पापम् ॥१३॥ (आत्मन्)
+... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪कृतं⟫ ⟪पापं⟫... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪अकृतं⟫ ⟪पापम्⟫ ⟪॥१३॥⟫ (⟪आत्मन्⟫)
 
-सद्भिस् ... जनेभ्यो ऽभयं दीयते ॥१४॥ (राजन्)
+⟪सद्भिस्⟫ ... ⟪जनेभ्यो⟫ ⟪ऽभयं⟫ ⟪दीयते⟫ ⟪॥१४॥⟫ (⟪राजन्⟫)
 
-... धर्मं न रक्षत्सु सभया जनाः ॥१५॥ (राजन्)
+... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
 
 ## 38.11. Elenco di parole per l'esercizio di traduzione
 
-प्राय  m.: cosa principale, istr. प्रायेण : di solito, abitualmente (a प्र-इ)
+⟪प्राय⟫  m.: cosa principale, istr. ⟪प्रायेण⟫ : di solito, abitualmente (a ⟪प्र⟫-⟪इ⟫)
 
-विनोद m.: passatempo, intrattenimento, piacere
+⟪विनोद⟫ m.: passatempo, intrattenimento, piacere
 
 :::media
 ![](/images/lekt3812.webp)
-Fig.: विनोदः
+Fig.: ⟪विनोदः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3812))
-:::अट् 1P अटति : vagare
+:::⟪अट्⟫ 1P ⟪अटति⟫ : vagare
 
 :::indent
-Perf. I आट, आटुः
-Fut. अटिष्यति
-Caus. आटयति
-:::गाध 3: poco profondo
+Perf. I ⟪आट⟫, ⟪आटुः⟫
+Fut. ⟪अटिष्यति⟫
+Caus. ⟪आटयति⟫
+:::⟪गाध⟫ 3: poco profondo
 
-तॄ 1P तरति : attraversare, salvarsi da (Acc.)
+⟪तॄ⟫ 1P ⟪तरति⟫ : attraversare, salvarsi da (Acc.)
 
 :::indent
-Perf. IIIb ततार, तेरुः
-Fut. तरिष्यति । तरीष्यति
-Pass. तीर्यते
-Caus. टारयति
-PPP तीर्ण
-Inf. तरितुम् । तरीतुम्
-:::पार n.(m.): sponda oltre, confine, obiettivo
+Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
+Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
+Pass. ⟪तीर्यते⟫
+Caus. ⟪टारयति⟫
+PPP ⟪तीर्ण⟫
+Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+:::⟪पार⟫ n.(m.): sponda oltre, confine, obiettivo
 
-तीर n.: sponda
+⟪तीर⟫ n.: sponda
 
 :::media
 ![](/images/lekt3813.webp)
-Fig.: वाराणस्यां गङ्गातीरे
+Fig.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3813))
-:::एकैकशस् Avv.: ciascuno singolarmente
+:::⟪एकैकशस्⟫ Avv.: ciascuno singolarmente
 
-गण् 10P गणयति : contare
+⟪गण्⟫ 10P ⟪गणयति⟫ : contare
 
 :::indent
-Perf. गणयां चकार
-Fut. गणयिष्यति
-Pass. गण्यते
-PPP गणित
-Assol. -गणय्य
-Inf. गणयितुम्
+Perf. ⟪गणयां⟫ ⟪चकार⟫
+Fut. ⟪गणयिष्यति⟫
+Pass. ⟪गण्यते⟫
+PPP ⟪गणित⟫
+Assol. -⟪गणय्य⟫
+Inf. ⟪गणयितुम्⟫
 ::::::media
 ![](/images/lekt3814.webp)
-Fig.: गणयां चक्रुः
+Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3814))
-:::क्रुश् 1P क्रोशति : gridare, lamentarsi
+:::⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : gridare, lamentarsi
 
 :::indent
-Perf. II चुक्रोश
-Fut. क्रोक्ष्यति
-Pass. क्रुश्यते
-Caus. क्रोशयति
-PPP क्रुष्ट
-:::इदानीम् Avv.: ora
+Perf. II ⟪चुक्रोश⟫
+Fut. ⟪क्रोक्ष्यति⟫
+Pass. ⟪क्रुश्यते⟫
+Caus. ⟪क्रोशयति⟫
+PPP ⟪क्रुष्ट⟫
+:::⟪इदानीम्⟫ Avv.: ora
 
-नूनम् Avv.: ora; dunque, perciò; certo, sicuramente
+⟪नूनम्⟫ Avv.: ora; dunque, perciò; certo, sicuramente
 
-मज्ज् 6P मज्जति : affondare, immergersi
-
-:::indent
-PPP ममज्ज
-Fut. मङ्क्ष्यति
-Caus. मज्जयति
-PPP मग्न
-Assol. मङ्क्त्वा । मक्त्वा
-:::गवेषयति Denominativo: cercare
-
-व्याकुल 3: turbato, agitato, confuso
-
-कोलाहल m.n.: grido, rumore
-
-विवेष्टित n.: la ricerca circostante
-
-हस् 1P हसति : ridere
+⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : affondare, immergersi
 
 :::indent
-Perf. Vc जहास, जहसुर्
-Fut. हसिष्यति
-Pass. हस्यते
-Caus. हासयति
-PPP हसित
-:::सृ 1P सरति : correre
+PPP ⟪ममज्ज⟫
+Fut. ⟪मङ्क्ष्यति⟫
+Caus. ⟪मज्जयति⟫
+PPP ⟪मग्न⟫
+Assol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
+:::⟪गवेषयति⟫ Denominativo: cercare
+
+⟪व्याकुल⟫ 3: turbato, agitato, confuso
+
+⟪कोलाहल⟫ m.n.: grido, rumore
+
+⟪विवेष्टित⟫ n.: la ricerca circostante
+
+⟪हस्⟫ 1P ⟪हसति⟫ : ridere
 
 :::indent
-Perf. ससार, सस्रुर्
-Fut. सरिष्यति
-Pass. स्रियते
-Caus. सारयति
-PPP सृत
-Inf. सर्तुम्
-:::कर्णयति Denominativo: ascoltare (a कर्ण m. "orecchio")
+Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
+Fut. ⟪हसिष्यति⟫
+Pass. ⟪हस्यते⟫
+Caus. ⟪हासयति⟫
+PPP ⟪हसित⟫
+:::⟪सृ⟫ 1P ⟪सरति⟫ : correre
 
-लज्जा f.: vergogna
+:::indent
+Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
+Fut. ⟪सरिष्यति⟫
+Pass. ⟪स्रियते⟫
+Caus. ⟪सारयति⟫
+PPP ⟪सृत⟫
+Inf. ⟪सर्तुम्⟫
+:::⟪कर्णयति⟫ Denominativo: ascoltare (a ⟪कर्ण⟫ m. "orecchio")
 
-अधस् Avv.: verso il basso
+⟪लज्जा⟫ f.: vergogna
+
+⟪अधस्⟫ Avv.: verso il basso
 
 ## 38.12. Esercizio di traduzione
 
-***दश*** मूढाः
+***⟪दश⟫*** ⟪मूढाः⟫
 
-मूढानां चेष्टितानि प्रायेण विनोदावहानि । यथा हि -- एकदा दश मूढा देशाटनाय प्रस्थिताः । किञ्चिद्दूरं गतानां तेषामुपस्थिता काचिदगाधा नदी । ***बाहुभ्यां*** तरन्तस्ते कथमपि नदीं तीर्त्वा पारं गताः ॥
+⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ ***⟪बाहुभ्यां⟫*** ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
-आसीत्तेषां मध्ये कश्चन वृद्धः । स किं ***सर्वे*** तीरमनुप्राप्ता ईति ***जिज्ञासमान***स्तानेकैकशो गणयामास । परं ***नवै***व परिगणितास्तेन । ततः स आक्रोशत् । अहो ***वयम्*** दश प्रस्थिताः । इदानीं नवैव ***स्मः*** । नूनमस्माकमेको नद्यां निमग्नः । ***गवेषयत*** तमिति । ततस्तेषा***मेकैको*** ऽपि गणनां चकार । परं नवैव दृश्यन्ते । ततस्तेषां व्याकुलीभूतानां महान्कोलाहलः ***समजनि*** । तत्रैव नातिदूरे कस्यचिदृषेराश्रमो ऽवर्तत । तत्र वसन्नृषिस्तेषां विवेष्टितमवलोक्योच्चैर्जहास । तस्य हासशब्दं श्रुत्वा मूढा***स्तरसा*** समुपसृत्य हासकारणमपृच्छन् । ऋषिराह । अहो । अनात्मज्ञा ***यूयम्*** । ***युष्माकमे***कैको ऽपि नात्मानमगणयत् । तेनायं व्यामोहः संजात इति । तदाकर्ण्य ते मूढाः सलज्जमधोमुखाः प्रययुः ॥ (संस्कृतप्रथमादर्शः)
+⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ ***⟪सर्वे⟫*** ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ ***⟪जिज्ञासमान⟫***⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ ***⟪नवै⟫***⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ ***⟪वयम्⟫*** ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ ***⟪स्मः⟫*** ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ ***⟪गवेषयत⟫*** ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫***⟪मेकैको⟫*** ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ ***⟪समजनि⟫*** ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫***⟪स्तरसा⟫*** ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ ***⟪यूयम्⟫*** ⟪।⟫ ***⟪युष्माकमे⟫***⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
 Spiegazioni:
 
-दश Nom.Akk.pl.m.f.n. per दशन् "dieci"
+⟪दश⟫ Nom.Akk.pl.m.f.n. per ⟪दशन्⟫ "dieci"
 
-बाहुभ्याम् Instr.Dat.Abl. Duale per बाहु m. "Braccio"
+⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Duale per ⟪बाहु⟫ m. "Braccio"
 
-सर्वे Nom.pl.m. per सर्व 3 "ogni, tutti"
+⟪सर्वे⟫ Nom.pl.m. per ⟪सर्व⟫ 3 "ogni, tutti"
 
-जिज्ञासमान Part.Präs.Ā.Destesiderativo per ज्ञा 9U जिज्ञासते "voler conoscere, voler sapere"
+⟪जिज्ञासमान⟫ Part.Präs.Ā.Destesiderativo per ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "voler conoscere, voler sapere"
 
-नव Nom.Akk.pl.m.f.n. per नवन् "nove"
+⟪नव⟫ Nom.Akk.pl.m.f.n. per ⟪नवन्⟫ "nove"
 
-वयम् Nom.pl. "noi"
+⟪वयम्⟫ Nom.pl. "noi"
 
-स्मस् 1.pl.Ind.Prés.P per अस् 2P
+⟪स्मस्⟫ 1.pl.Ind.Prés.P per ⟪अस्⟫ 2P
 
-गवेषयत 2.pl.Imperativo P
+⟪गवेषयत⟫ 2.pl.Imperativo P
 
-एकैक "ogni uno"
+⟪एकैक⟫ "ogni uno"
 
-समजनि 3.sg.Passivo Aoristo per जन्
+⟪समजनि⟫ 3.sg.Passivo Aoristo per ⟪जन्⟫
 
-तरसा Instr. sg. per तरस् n. "Energia", usato avverbialmente: "rapidamente, con forza"
+⟪तरसा⟫ Instr. sg. per ⟪तरस्⟫ n. "Energia", usato avverbialmente: "rapidamente, con forza"
 
-यूयम् Nom.pl. "voi"
+⟪यूयम्⟫ Nom.pl. "voi"
 
-युष्माकम् Gen.pl. per यूयम्
+⟪युष्माकम्⟫ Gen.pl. per ⟪यूयम्⟫
 
 :::deleteme-box
 
-- **lekt3801.jpg**: Imm.: ... प्रज्ञा नश्यति मेहतः Bangalore = ಬೆಂಗಳೂರು \[Fonte dell'immagine: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Accesso il 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale)\]
-- **lekt3802.jpg**: Imm.: सूर्यः  सूर्य मंदिर, Konark = कोनार्क \[Fonte dell'immagine: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Accesso il 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale)\]
-- **lekt3803.jpg**: Imm.: सीमा  Valico di frontiera tra India e Pakistan a Wagah (वाघा / واہگہ / ਵਾਘਾ) \[Fonte dell'immagine: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Accesso il 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, share alike)\]
-- **lekt3804.jpg**: Imm.: गौतमबुद्धस्य महापरिनिर्वाणम्  Gandhara, 2./3. sec. d.C. \[Fonte dell'immagine: Wikipedia. Dominio pubblico\]
-- **lekt3805.jpg**: Imm.: उदकम्  villaggio di Darewadi, Distretto di Ahmed Nagar = अहमदनगर, महाराष्ट्र \[Fonte dell'immagine: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, share alike)\]
-- **lekt3806.jpg**: Imm.: हस्ती  Parco Nazionale di Nagarhole = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Fonte dell'immagine: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Accesso il 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, share alike)\]
-- **lekt3807.jpg**: Imm.: हस्तवान्  जयपुर \[Fonte dell'immagine: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, nessuna modifica)\]
-- **lekt3808.jpg**: Imm.: आसीन्महात्मा गन्धी नाम  Anni '30 \[Fonte dell'immagine: Wikipedia. Dominio pubblico\]
-- **lekt3809.jpg**: Imm.: ब्रह्मा  Halebidu = ಹಳೆಬೀಡು \[Fonte dell'immagine: Wikipedia. Licenza GNU FDL\]
+- **lekt3801.jpg**: Imm.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ Bangalore = ಬೆಂಗಳೂರು \[Fonte dell'immagine: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Accesso il 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale)\]
+- **lekt3802.jpg**: Imm.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Fonte dell'immagine: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Accesso il 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale)\]
+- **lekt3803.jpg**: Imm.: ⟪सीमा⟫  Valico di frontiera tra India e Pakistan a Wagah (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Fonte dell'immagine: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Accesso il 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, share alike)\]
+- **lekt3804.jpg**: Imm.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, 2./3. sec. d.C. \[Fonte dell'immagine: Wikipedia. Dominio pubblico\]
+- **lekt3805.jpg**: Imm.: ⟪उदकम्⟫  villaggio di Darewadi, Distretto di Ahmed Nagar = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Fonte dell'immagine: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, share alike)\]
+- **lekt3806.jpg**: Imm.: ⟪हस्ती⟫  Parco Nazionale di Nagarhole = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Fonte dell'immagine: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Accesso il 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, share alike)\]
+- **lekt3807.jpg**: Imm.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Fonte dell'immagine: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, nessuna modifica)\]
+- **lekt3808.jpg**: Imm.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  Anni '30 \[Fonte dell'immagine: Wikipedia. Dominio pubblico\]
+- **lekt3809.jpg**: Imm.: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Fonte dell'immagine: Wikipedia. Licenza GNU FDL\]
 - **lekt3810.jpg**: Imm.: Albero di Ashoka = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা \[Fonte dell'immagine: J.M.Garg / Wikipedia. Licenza GNU FDL\]
 - **lekt3811.jpg**: Imm.: Massima estensione dell'Impero di Aśoka nonché luoghi di ritrovamento dei suoi editti rupestri e delle sue colonne \[Fonte dell'immagine: Wikipedia.Licenza GNU FDL\]
-- **lekt3812.jpg**: Imm.: विनोदः  Gioco del Carrom \[Fonte dell'immagine: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, share alike)\]
-- **lekt3813.jpg**: Imm.: वाराणस्यां गङ्गातीरे \[Fonte dell'immagine: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale)\]
-- **lekt3814.jpg**: Imm.: गणयां चक्रुः  करणी माता मंदिर, देशनोके \[Fonte dell'immagine: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, nessuna modifica)\]
+- **lekt3812.jpg**: Imm.: ⟪विनोदः⟫  Gioco del Carrom \[Fonte dell'immagine: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, share alike)\]
+- **lekt3813.jpg**: Imm.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Fonte dell'immagine: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale)\]
+- **lekt3814.jpg**: Imm.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Fonte dell'immagine: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, nessuna modifica)\]
 
 :::

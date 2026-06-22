@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Bestimmen und übersetzen Sie die folgenden Formen:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung / Bedeutung |
 |:---|:---|:---|
 | ⟪१⟫. | **⟪अस्मत्⟫** | *⟪वयम्⟫*: Abl. (von uns) |
@@ -93,9 +93,7 @@ Bestimmen und übersetzen Sie die folgenden Formen:
 | ⟪७८⟫. | **⟪अकस्मात्⟫** | unerwartet (Adv.) |
 | ⟪७९⟫. | **⟪मित्रध्रुक्⟫** | *⟪मित्रद्रुह्⟫*: Nom. Vok. Sg. m. f. n. (Feindeschädiger) |
 | ⟪८०⟫. | **⟪अवोचन्⟫** | *⟪वच्⟫* 2P: 3. Pl. a-Aor. P. (sie sprachen) |
-:::
-
-::: media
+::::::media
 ![](/images/uebung091.webp)
 Abb.: ⟪जेरिम⟫
 (Bildquelle: [Details](/licenses#uebung091))

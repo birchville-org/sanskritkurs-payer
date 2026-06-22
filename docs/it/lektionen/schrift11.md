@@ -18,7 +18,7 @@ A) Scrivere in Devanāgarī:
 
 B) Leggere e traslitterare:
 
-१२ २३ २४ ५३६ ६५ ८७ १९४४ २००८ ९९० ८७ ७६ ६५ ५४ ४३ ३२ २१ १९ २८ ८३ ७४ ५७ ६६
+⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
 
 ### Classificazione dei suoni del sanscrito (da: Kielhorn: Grammatica della lingua sanscrita)
 
@@ -26,4 +26,4 @@ B) Leggere e traslitterare:
 
 ### Fine degli esercizi di scrittura
 
-## ॐ श्रीगणेशाय नमः ॐ
+## ⟪ॐ⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪ॐ⟫

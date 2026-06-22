@@ -15,80 +15,64 @@ status: stable
 
 Für die Verteilung der PPPs auf -ta- bzw. -na- lassen sich keine festen Regeln aufstellen. Doch:
 
-::: grammar-box
+:::grammar-box
 
 Fast alle Wurzeln auf -d bilden das PPP auf -na-. In diesem Fall wird -d-n- durch -n-n- ersetzt, was sonst im Wortsandhi nicht geschieht, sondern eine Nachahmung des Satzsandhi ist.
 
 Beispiel:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
-:::
-
----
+:::---
 
 ## 13.2. Weiteres zum Gebrauch des PPP
 
-:::: grammar-box
+:::grammar-box
 
 1. Das PPP zu Verben der Bedeutung "denken", "wünschen", "kennen", "wissen", "verehren" sowie einiger weiterer Verben, die im Dhātupāṭha, dem Wurzelverzeichnis zu Pāṇini, durch ñi gekennzeichnet sind, hat nicht nur Vergangenheitsbedeutung, sondern kann auch in präsentischer Bedeutung verwendet werden:
 
     z.B.
 
-    ::: indent
+    :::indent
     ⟪इष्ट⟫ "erwünscht" (d.h. nicht nur in der Vergangenheit gewünscht, sondern auch in der Gegenwart)
 
     ⟪त्वरित⟫ "eilend, eilig" (PPP zu tvar 1 Ā "eilen"; Dhātupāṭha: ñitvárā)
-    :::
-
-2. Das PPP kann als Adjektiv attributiv verwendet werden:
+    :::2. Das PPP kann als Adjektiv attributiv verwendet werden:
 
     z.B.
 
-    ::: indent
+    :::indent
     ⟪इष्टं⟫ ⟪फलम्⟫ "die erwünschte Frucht (z.B. der Taten)"
-    :::
-
-    Wenn in diesem Fall ⟪अपि⟫ nach dem PPP steht, hat ⟪अपि⟫ die Bedeutung "obwohl":
+    :::Wenn in diesem Fall ⟪अपि⟫ nach dem PPP steht, hat ⟪अपि⟫ die Bedeutung "obwohl":
 
     z.B.
 
-    ::: indent
+    :::indent
     ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Obwohl der die Frucht wünscht, erhält er sie nicht."
-    :::
-
-3. Das Neutrum Singular des PPP von jedem Verb kann auch als Verbalabstraktum verwendet werden:
+    :::3. Das Neutrum Singular des PPP von jedem Verb kann auch als Verbalabstraktum verwendet werden:
 
     z.B.
 
-    ::: indent
+    :::indent
     ⟪गत⟫ n.: "das Gehen, der Gang"
 
     ⟪नृत्त⟫ n.: "das Tanzen, der Tanz"
-    :::
-
-::::
-
----
+    ::::::---
 
 ## 13.3. Attributive Bestimmungen von Nomina (Wortstellung)
 
-:::: grammar-box
+:::grammar-box
 
 Attribute (Beifügungen) stehen in Prosa in der normalen Wortfolge vor dem Wort, das sie näher bestimmen. Adjektivische Attribute stimmen mit dem Nomen in Zahl, Fall und Geschlecht überein:
 
 Beispiel:
 
-::: indent
+:::indent
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Ein Heiliger sieht die erwünschte Frucht (seiner Werke)."
-:::
-
-::::
-
----
+::::::---
 
 ## 13.4. Bildung von Adjektiven auf -mant und -vant (taddhita)
 
-:::: grammar-box
+:::grammar-box
 
 Mittels der taddhita-Suffixe -mant bzw. -vant werden von Nomina besitzanzeigende Adjektive gebildet. Ihre Bedeutung ist: "das durch das zugrundeliegende Nomen Bezeichnete besitzend".
 
@@ -96,25 +80,19 @@ Mittels der taddhita-Suffixe -mant bzw. -vant werden von Nomina besitzanzeigende
 
 Beispiele:
 
-::: indent
+:::indent
 ⟪पशुमन्त्⟫ "Vieh besitzend"
 
 ⟪गुणवन्त्⟫ "gute Eigenschaften / Tugend besitzend"
-:::
-
-::::
-
----
+::::::---
 
 ## 13.5. Stammabstufung von Nomina
 
 Die Stämme auf -mant bzw. -vant gehören zu den Nominalstämmen mit Stammabstufung.
 
-::: grammar-box
+:::grammar-box
 Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und schwachen Kasus (Fällen). In den starken Kasus hat das stammbildende Suffix — bei Wurzelnomina der wurzelhafte Bestandteil — Hochstufe bzw. Dehnstufe, in den schwachen Kasus Tiefstufe.
-:::
-
-**Starke Kasus sind:**
+:::**Starke Kasus sind:**
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
@@ -123,17 +101,15 @@ Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und sc
 
 **Alle übrigen Kasus sind schwach.**
 
-::: grammar-box
+:::grammar-box
 Als Vorderglied eines Kompositums steht ein Nomen mit Stammabstufung im schwachen Stamm (bei dreistämmigen Nomina im sog. mittleren).
-:::
-
----
+:::---
 
 ## 13.6. Zum Wortsandhi
 
 Zum Verständnis der einzelnen Formen der Deklination von Nomina auf -mant und -vant sind folgende Gesetze des Wortsandhi nötig:
 
-:::: grammar-box
+:::grammar-box
 
 1. Anzahl der auslautenden Konsonanten eines Wortes: Von zwei oder mehr Konsonanten, auf die ein Wort schließen würde, bleibt nur der erste Konsonant erhalten, die übrigen fallen ab. Erlaubt ist die Verbindung -r- + Konsonant.
 
@@ -141,7 +117,7 @@ Zum Verständnis der einzelnen Formen der Deklination von Nomina auf -mant und -
 
     Beispiele:
 
-    ::: indent
+    :::indent
     -t + bh- » -d-bh- ⟪द्भ्⟫
 
     -k + bh- » -g-bh- ⟪ग्भ्⟫
@@ -149,28 +125,22 @@ Zum Verständnis der einzelnen Formen der Deklination von Nomina auf -mant und -
     -c + bh- » -g-bh- ⟪ग्भ्⟫
 
     -c + dh- » -g-dh- ⟪ग्ध्⟫
-    :::
-
-::::
-
----
+    ::::::---
 
 ## 13.7. Kasusendungen konsonantischer Stämme
 
-::: grammar-box
+:::grammar-box
 
 Bei konsonantisch auslautenden Stämmen:
 * ist die Endung des Akkusativ (dvitīyā) Plural Maskulinum und Femininum -as.
 * ist bei regelmäßig bildenden Stämmen das Neutrum in Nominativ (prathamā) und Akkusativ (dvitīyā) Singular endungslos.
 * ist bei regelmäßig bildenden Stämmen im Neutrum die Endung des Nominativ und Akkusativ Plural -i.
 
-:::
-
----
+:::---
 
 ## 13.8. Deklination der Stämme auf -mant und -vant
 
-::: grammar-box
+:::grammar-box
 
 * starker Stamm: Nomen + -mant- / -vant-
 * schwacher Stamm: Nomen + -mat- / -vat- (aus: *-mnt- / *-vnt-)
@@ -191,9 +161,7 @@ Der Femininstamm der Stämme auf -mant- und -vant- lautet auf -mat-ī bzw. -vat-
 Beispiel:
 * paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
 
-:::
-
----
+:::---
 
 ## 13.9. Wortliste
 
@@ -214,56 +182,44 @@ Lernen Sie folgende Wörter:
 &gt;
 > [Quelle: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
-::: media
+:::media
 ![](/images/lekt1301.webp)
 Abb.: ⟪महिषासुरः⟫
 (Bildquelle: [Details](/licenses#lekt1301))
-:::
-
-- **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
+:::- **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : gehen, geraten in
 - **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : sein, da sein
 - **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : schleudern, (weg-)werfen
 - **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : gehen
 - **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : schützen, behüten
 
-::: indent
+:::indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : trinken (traditionell zur 1. Klasse gerechnet)
-:::
-
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : hassen, anfeinden
+:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : hassen, anfeinden
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : essen, verzehren
 - **anna** n. ⟪अन्न⟫ : Speise (aus PPP: *ad-na: das Gegessene)
 
-::: media
+:::media
 ![](/images/lekt1304.webp)
 Abb.: ⟪अन्नम्⟫
 (Bildquelle: [Details](/licenses#lekt1304))
-:::
-
-Wortbildung:
+:::Wortbildung:
 
 pad 4 Ā:
 
-::: indent
+:::indent
 **pada** n. ⟪पद⟫ : Schritt, Standort, Stätte
 
 **pāda** m. ⟪पाद⟫ : Fuß, ein Viertel, Verszeile
-:::
-
-::: media
+::::::media
 ![](/images/lekt1303.webp)
 Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Bildquelle: [Details](/licenses#lekt1303))
-:::
+:::dviṣ 2 U:
 
-dviṣ 2 U:
-
-::: indent
+:::indent
 **dveṣa** ⟪द्वेष⟫ : Hass
-:::
-
----
+:::---
 
 ## 13.10. Übung
 
@@ -273,13 +229,11 @@ A) Übersetzen Sie und verwandeln Sie in aktive Präsenssätze:
 ⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
 ⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
 
-::: media
+:::media
 ![](/images/lekt1305.webp)
 Abb.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
 (Bildquelle: [Details](/licenses#lekt1305))
-:::
-
-⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
+:::⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
@@ -332,13 +286,11 @@ B) Setzen Sie die Sätze Übung A) ins Passiv.
 
 C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion.
 
-::: media
+:::media
 ![](/images/lekt1302.webp)
 Abb.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Bildquelle: [Details](/licenses#lekt1302))
-:::
-
-D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:
+:::D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:
 
 1. -a vor Vokal (außer a-)
 2. -ā-

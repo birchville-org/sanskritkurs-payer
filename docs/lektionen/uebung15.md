@@ -70,13 +70,11 @@ B) Lösen Sie folgende Tatpuruṣa auf:
 
 ⟪२६⟫. ⟪श्रुत्युदितम्⟫ ⟪।⟫ ⟪श्रुत्योदितम्⟫ ⟪।⟫ ⟪श्रुतेरुदितम्⟫ — vom Veda Gesagtes / Vorgeschriebenes
 
-::: media
+:::media
 ![](/images/uebung014.webp)
 Abb.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 (Bildquelle: [Details](/licenses#uebung014))
-:::
-
----
+:::---
 
 ## Zusätzliche Übungen
 
@@ -142,7 +140,7 @@ Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine
 
 ⟪३०⟫. ⟪सत्यवदनम्⟫ ⟪।⟫ ⟪स्त्यस्य⟫ ⟪वदनम्⟫ — Wahrheitsrede, Sprechen der Wahrheit
 
-::: media
+:::media
 ![](/images/uebung016.webp)
 Abb.: ⟪गृहकरणम्⟫
 (Bildquelle: [Details](/licenses#uebung016))

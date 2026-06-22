@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aoristformen:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung / Bedeutung | Aorist |
 |:---|:---|:---|:---|
 | ⟪१⟫. | **⟪यन्ति⟫** | sie gehen | **⟪अगुः⟫** |
@@ -36,9 +36,7 @@ Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aori
 | ⟪२१⟫. | **⟪जायते⟫** | er wird geboren | **⟪अजनि⟫** |
 | ⟪२२⟫. | **⟪गीयते⟫** | es wird gesungen | **⟪अगायि⟫** |
 | ⟪२३⟫. | **⟪गम्यते⟫** | es wird gegangen | **⟪अगामि⟫** |
-:::
-
-::: media
+::::::media
 ![](/images/uebung093.webp)
 Abb.: ⟪अगायि⟫
 (Bildquelle: [Details](/licenses#uebung093))

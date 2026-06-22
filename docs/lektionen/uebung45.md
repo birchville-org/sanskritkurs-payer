@@ -58,7 +58,7 @@ Brahmane, hast du Ghee ins Opferfeuer gegossen?
 ⟪४⟫. **⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Feind, mit dem Schwert spaltest du nicht die Seele (das Leben).
 
-::: media
+:::media
 ![](/images/uebung074.webp)
 Abb.: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
 (Bildquelle: [Details](/licenses#uebung074))

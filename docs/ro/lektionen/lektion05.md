@@ -15,14 +15,14 @@ status: stable
 - Terminologia de specialitate pentru compuse
 - Compuse copulative (Dvandva)
 - Ordinea componentelor în Dvandvas
-:::## 5.1. Compuse nominale (samāsa m. = समास)
+:::## 5.1. Compuse nominale (samāsa m. = ⟪समास⟫)
 
 Formarea compuselor de cuvinte într-un volum foarte mare este un caracteristic al sanscritei.
 
 Formele principale de formare a compuselor sunt:
-- **compuse copulative** (dvandva n. = द्वन्द्व)
-- **compuse determinative** (tatpuruṣa m. = तत्पुरुष)
-- **compuse posesive** (bahuvrīhi m. = बहुव्रीहि)
+- **compuse copulative** (dvandva n. = ⟪द्वन्द्व⟫)
+- **compuse determinative** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
+- **compuse posesive** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
 
 (Referitor la ultimele două menționate, vezi mai târziu!)
 
@@ -30,16 +30,16 @@ Formele principale de formare a compuselor sunt:
 
 ## 5.2. Despre terminologia sanscrită pentru compuse
 
-- **ghaṭakapadāni** n. pl. = घटकपदानि : Membrele unui compus
-- **vigrahavākyam** n. = विग्रहवाक्यम् : Descompunerea unui compus
-- **nityasamāsaḥ** m. = नित्यसमासः : Compus pentru care nu există un vigrahavākya sau al cărui vigrahavākya nu este posibil cu cuvintele compusului.
-- **aluksamāsaḥ** m. = अलुक्समासः : Compus în care primul membru își păstrează terminația cazului
-- **luksamāsaḥ** m. = लुक्समासः : Compus al cărui prim membru este fără terminații de caz (cazul normal)
-- **madhyamapadalopī** m. = मध्यमपदलोपी : Compus în care unul sau mai multe membre intermediare sunt omise
+- **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Membrele unui compus
+- **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Descompunerea unui compus
+- **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : Compus pentru care nu există un vigrahavākya sau al cărui vigrahavākya nu este posibil cu cuvintele compusului.
+- **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : Compus în care primul membru își păstrează terminația cazului
+- **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Compus al cărui prim membru este fără terminații de caz (cazul normal)
+- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Compus în care unul sau mai multe membre intermediare sunt omise
 
 ---
 
-## 5.3. Compuse copulative (Dvandva n. = द्वन्द्व)
+## 5.3. Compuse copulative (Dvandva n. = ⟪द्वन्द्व⟫)
 
 Compusele copulative servesc pentru legarea elementelor gramatical similare, coordonate (substantive sau adjective).
 
@@ -47,10 +47,10 @@ Compusele copulative servesc pentru legarea elementelor gramatical similare, coo
 **Un Dvandva indică:**
 
 1. **fie conexiunea sumativă a persoanelor, lucrurilor, proprietăților indicate de componentele sale individuale:**
-   Itaretaradvandva = इतरेतरद्वन्द्व
+   Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
 
 2. **sau le reunește pe aceste persoane, lucruri sau proprietăți într-o unitate:**
-   Samāhāradvandva ("Dvandva de sinteză") = समाहारद्वन्द्व
+   Samāhāradvandva ("Dvandva de sinteză") = ⟪समाहारद्वन्द्व⟫
 
 **În primul caz (Itaretaradvandva):**
 Dvandva primește genul gramatical al ultimei sale componente și terminațiile dualului (pentru două lucruri) sau ale pluralului (pentru mai mult de două lucruri). Sunt permise și terminațiile singularului.
@@ -59,7 +59,7 @@ Dvandva primește genul gramatical al ultimei sale componente și terminațiile 
 Dvandva este, în general, un neutru (indiferent de genul ultimei componente) și apare la singular.
 
 **Rezolvarea:**
-Se face cu „și” (**ca** = च), ocazional cu „sau” (**vā** = वा) sau „fie”.
+Se face cu „și” (**ca** = ⟪च⟫), ocazional cu „sau” (**vā** = ⟪वा⟫) sau „fie”.
 :::Referitor la Dvandva la dual, vezi mai târziu!
 
 ### 5.3.1. Elemente anterioare de compuse
@@ -70,15 +70,15 @@ Elementele anterioare ale compuselor (nu doar Dvandvas) au, în general, forma *
 
 Exemple de Pluraldvandva:
 
-**brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ब्राह्मणक्षत्रियवैश्यशूद्राः
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च
+**brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
+> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
 > (Brahmani, Kṣatriya, Vaișya și Śūdra)
 > 
-> sau = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च
+> sau = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
 > (un/în Brahman, Kṣatriya, Vaișya și Śūdra)
 
-**kavi-guravaḥ** = कविगुरवः
-> = kavayo guravaś ca = कवयो गुरवश्च
+**kavi-guravaḥ** = ⟪कविगुरवः⟫
+> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
 > (Poeți și profesori [Plur.])
 > (Notă: „Un poet și un profesor” ar trebui să fie la dual!)
 
@@ -98,44 +98,44 @@ Exemple de Pluraldvandva:
 
 **Învățați următoarele cuvinte:**
 
-**abhiniveṣa** m. = अभिनिवेष : inclinație, tenacitate, insistență; în special: atașament față de corp, considerându-l ca fiind al său.
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : inclinație, tenacitate, insistență; în special: atașament față de corp, considerându-l ca fiind al său.
 
-**kāma** m. = काम : dorință, poftă, dar dorit, plăcere senzorială, iubire; zeul iubirii Kāma.
+**kāma** m. = ⟪काम⟫ : dorință, poftă, dar dorit, plăcere senzorială, iubire; zeul iubirii Kāma.
 
 :::media
 ![](/images/lekt0501.webp)
-Fig.: zeul Kāma = kāmadeva = कामदेव, sec. al XVIII-lea
+Fig.: zeul Kāma = kāmadeva = ⟪कामदेव⟫, sec. al XVIII-lea
 (Sursa imaginii: Wikipedia, Domeniu public)
-:::**krodha** m. = क्रोध : furie.
+:::**krodha** m. = ⟪क्रोध⟫ : furie.
 
-**kleśa** m. = क्लेश : suferință, chin.
+**kleśa** m. = ⟪क्लेश⟫ : suferință, chin.
 
-**trayī** f. = त्रयी : triplă; în special, cele trei Vede (Ṛgveda, Sāmaveda, Yajurveda).
+**trayī** f. = ⟪त्रयी⟫ : triplă; în special, cele trei Vede (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = दण्डनीति : politică (un Tatpuruṣa format din daṇḍa m. = „băț, putere, domnie, pedeapsă” și nīti f. = „conducere corectă”).
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politică (un Tatpuruṣa format din daṇḍa m. = „băț, putere, domnie, pedeapsă” și nīti f. = „conducere corectă”).
 
-**dvijāti** 3 / **dvija** 3 = द्विजाति / द्विज : de două ori născut.
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : de două ori născut.
 
-**dveṣa** m. = द्वेष : ură.
+**dveṣa** m. = ⟪द्वेष⟫ : ură.
 
-**maitrī** f. = मैत्री : prietenie, amabilitate, bunăvoință prietenoasă.
+**maitrī** f. = ⟪मैत्री⟫ : prietenie, amabilitate, bunăvoință prietenoasă.
 
-**rāga** m. = राग : (culoare) roșie, pasiune, iubire.
+**rāga** m. = ⟪राग⟫ : (culoare) roșie, pasiune, iubire.
 
-**lobha** m. = लोभ : lăcomie, avărie.
+**lobha** m. = ⟪लोभ⟫ : lăcomie, avărie.
 
-**varṇa** m. = वर्ण : culoare, gen, stare socială.
+**varṇa** m. = ⟪वर्ण⟫ : culoare, gen, stare socială.
 
-**vārttā** f. = वार्त्ता : câștig, economie (știința economică).
+**vārttā** f. = ⟪वार्त्ता⟫ : câștig, economie (știința economică).
 
-**vidyā** f. = विद्या : cunoaștere, știință.
+**vidyā** f. = ⟪विद्या⟫ : cunoaștere, știință.
 
-**avidyā** f. = अविद्या : ignoranță, necunoaștere.
+**avidyā** f. = ⟪अविद्या⟫ : ignoranță, necunoaștere.
 
-**ca** = च : și.
-(Se plasează după cuvântul pe care îl leagă. Când se leagă mai multe cuvinte, se plasează ideal după primul cuvânt din ultimul element de legătură: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च).
+**ca** = ⟪च⟫ : și.
+(Se plasează după cuvântul pe care îl leagă. Când se leagă mai multe cuvinte, se plasează ideal după primul cuvânt din ultimul element de legătură: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
 
-**ca ... ca** = च ... च : atât ... cât și.
+**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : atât ... cât și.
 
 ---
 
@@ -145,35 +145,35 @@ Fig.: zeul Kāma = kāmadeva = कामदेव, sec. al XVIII-lea
 
 1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
    (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
-   चत्वारो वर्णा ब्राह्मणक्षत्रियवैश्यशूद्राः ||
-   (Explicație: catvāras = चत्वारस् = "patru")
+   ⟪चत्वारो⟫ ⟪वर्णा⟫ ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
+   (Explicație: catvāras = ⟪चत्वारस्⟫ = "patru")
 
 2. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ.
    (Vāsiṣṭhadharmaśāstra II,1)
-   त्रयो वर्णा द्विजातयो ब्राह्मणक्षत्रियवैश्याः ||
-   (Explicație: trayas = त्रयस् = "trei")
+   ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ||
+   (Explicație: trayas = ⟪त्रयस्⟫ = "trei")
 
 3. sāmavedargvedayajurvedās trayī.
    (Kauṭilīya-arthaśāstra 1.3.1. / în sanscrită bună: sāmārgyajurvedās trayī)
-   सामवेदर्ग्वेदयजुर्वेदास्त्रयी ||
-   (în sanscrită bună: सामार्यजुर्वेदास्त्रयी)
+   ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
+   (în sanscrită bună: ⟪सामार्यजुर्वेदास्त्रयी⟫)
 
 4. Cei trei dușmani ai omului, care formează poarta spre iad (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
-   कामक्रोधलोभाः ||
+   ⟪कामक्रोधलोभाः⟫ ||
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
-   मैत्रीकरुणामुदितोपेक्षाश्चत्वारो ब्रह्मविहाराः ||
+   ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
    (Explicație: brahmavihāra: "stări de reședință ale lui Brahman", numite și "Infinituri". Sunt forme de meditație budiste.)
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
    (Yogasūtra 2,3)
-   अविद्यास्मितारागद्वेषाभिनिवेषाः पञ्च क्लेशाः ||
+   ⟪अविद्यास्मितारागद्वेषाभिनिवेषाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ||
    (Explicație: pañca = "cinci")
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
    (Conform Kauṭilīya-arthaśāstra 1.2.1.)
-   आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः ||
+   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
 
 ---
 
@@ -182,29 +182,29 @@ Fig.: zeul Kāma = kāmadeva = कामदेव, sec. al XVIII-lea
 **A) Traduceți:**
 
 1. vidyā vārttā.
-   विद्या वार्त्ता |
+   ⟪विद्या⟫ ⟪वार्त्ता⟫ |
 
 2. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
-   ब्राह्मणः क्षत्रियो वैश्यश्च त्रयो वर्णा द्विजातयः |
+   ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫ |
 
 3. dvijā vaiśyāḥ. (2 posibilități)
-   द्विजा वैश्याः |
+   ⟪द्विजा⟫ ⟪वैश्याः⟫ |
 
 **B) Introduceți forma corespunzătoare:**
 
 1. (dvija, sādhu, kavi) ... rāmaḥ
-   (द्विज, साधु, कवि) ... रामः |
+   (⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
 
 2. (devī) ... indrāṇī
-   (देवी) ... इन्द्राणी |
+   (⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
 
 3. dvijātayas ... (vaiśyā, kṣatriya)
-   द्विजातयस् ... (वैश्या, क्षत्रिय) |
+   ⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
 
 **C) Rezolvați compusul în următorul propoziție în sanscrită și formați cu această formă descompusă aceeași propoziție:**
 
 sāmargyajurvedās trayī.
-सामर्ग्यजुर्वेदास्त्रयी |
+⟪सामर्ग्यजुर्वेदास्त्रयी⟫ |
 
 **D) Traduceți în sanscrită în două moduri (o dată cu un compus, o dată fără):**
 

@@ -11,11 +11,9 @@ status: stable
 
 ## 52.1. Neutrum der Stämme auf -i und -u
 
-::: grammar-box
+:::grammar-box
 **Vor vokalisch anlautenden Endungen wird ein -n- eingeschoben, dies ist ein Einfluss der n-Stämme (-in).**
-:::
-
-::: grammar-box
+::::::grammar-box
 | | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** |
 | :--- | :---: | :---: |
 | **⟪एकवचनम्⟫** |||
@@ -33,33 +31,28 @@ status: stable
 | **⟪पञ्चमी⟫** | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ |
 | **⟪षष्ठी⟫** | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪वारिषु⟫ | ⟪मधुषु⟫ |
-:::
-## 52.2. Nominalbildung
+:::## 52.2. Nominalbildung
 
 ### 52.2.1. PPP + -vant: Partizip der Vergangenheit Parasmaipada
 
-::: grammar-box
+:::grammar-box
 **Ein Partizip Parasmaipada der Vergangenheit wird so gebildet:**
 
 **PPP + -vant / fem.: vatī**
 **Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫**
-:::
-
-PPP + -vant / fem.: vatī
+:::PPP + -vant / fem.: vatī
 
 Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫
 
 Beispiele:
 
-::: indent
+:::indent
 ⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "einer/eine, der/die getan hat"
 
 ⟪भिन्नवन्त्⟫ "einer, der gespalten hat"
-:::
+:::### 52.2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
 
-### 52.2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
-
-::: grammar-box
+:::grammar-box
 **Das ⟪तद्धित⟫-Suffix -maya / f.: -mayī bildet zu Substantiven Adjektive der Bedeutung**
 
 *   **"gemacht aus"**
@@ -67,11 +60,9 @@ Beispiele:
 *   **"reich an"**
 
 **Vor -maya müssen (wie vor -⟪मात्र⟫) auslautende Verschlusslaute der Pausaform durch den ihnen entsprechenden Nasal ersetzt werden.**
-:::
+:::Beispiele:
 
-Beispiele:
-
-::: indent
+:::indent
 ⟪अन्नमय⟫ 3 "reich an Speise"
 
 ⟪चिन्मय⟫ 3 (zu ⟪चित्⟫ f. "Intellekt") "aus Denken / Verstand bestehend"
@@ -79,25 +70,18 @@ Beispiele:
 ⟪वाङ्मय⟫ 3 (zu ⟪वाच्⟫ f. "Sprache") "aus Rede bestehend"
 
 ⟪सोममय⟫ 3 "aus Soma gemacht, aus Soma bestehend"
-:::
-
-::: grammar-box
+::::::grammar-box
 **Nomina auf -maya werden gelegentlich als neutrale Substantive gebraucht und bezeichnen dann Überfluss an dem, was durch das Substantiv, dem -maya angefügt ist, bezeichnet wird.**
-:::
-
-::: indent
+::::::indent
 z.B. ⟪अन्नमय⟫ n. "Überfluss an Speise"
-:::
-
-::: media
+::::::media
 ![](/images/lekt5202.webp)
 Abb.: ⟪अन्नमयम्⟫
 ⟪विवाहः⟫, Chennai = சென்னை
 (Bildquelle: [Details](/licenses#lekt5202))
-:::
-### 52.2.3. ⟪तद्धित⟫-Suffix -eya
+:::### 52.2.3. ⟪तद्धित⟫-Suffix -eya
 
-::: grammar-box
+:::grammar-box
 **Das ⟪तद्धित⟫-Suffix -eya / f.: -eyī tritt u.a. an Feminina im Sinne von**
 
 *   **"Kind der"**
@@ -106,17 +90,14 @@ Abb.: ⟪अन्नमयम्⟫
 **Dehnstufe (⟪वृद्धि⟫) des ersten Vokals.**
 
 z.B. ⟪कौन्तेय⟫ m. "Sohn der ⟪कुन्ती⟫"
-:::
-
-::: media
+::::::media
 ![](/images/lekt5203.webp)
 Abb.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
 Wayang-Figur, Java, Indonesien
 (Bildquelle: [Details](/licenses#lekt5203))
-:::
-## 52.3. Adverbialbildung: Adverbialsuffix -śas
+:::## 52.3. Adverbialbildung: Adverbialsuffix -śas
 
-::: grammar-box
+:::grammar-box
 **Das Adverbialsuffix -śas bildet Adverbien von (hauptsächlich) distributiver Bedeutung aus:**
 
 *   **Zahlwörtern**  
@@ -130,18 +111,16 @@ Wayang-Figur, Java, Indonesien
     ⟪भागशस्⟫ "Teil für Teil"  
     ⟪सर्वशस्⟫ "überall, gar alle"  
     ⟪नित्यशस्⟫ "beständig"
-:::
-::: media
+::::::media
 ![](/images/lekt5204.webp)
 Abb.: ⟪अनुक्रमेणैकशः⟫
 Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Bildquelle: [Details](/licenses#lekt5204))
-:::
-## 52.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (⟪अभुततद्भावः⟫)
+:::## 52.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (⟪अभुततद्भावः⟫)
 
 ### 52.4.1. cvi-Bildungen
 
-::: grammar-box
+:::grammar-box
 **Vor die Wurzeln**
 
 *   **⟪कृ⟫ 8U "tun"**
@@ -174,16 +153,14 @@ Der Auslaut des Nomens wird folgendermaßen behandelt:
 
 *   **mehrstämmige andere Nomina stehen in der Form des Stammes, den sie im Lokativ (⟪सप्तमी⟫) Plural haben. Der Stamm unterliegt dann den üblichen Sandhiregeln. Siehe Kielhorn, Grammatik § 489,3.  **
     z.B. ⟪तिर्यक्करोति⟫ "er legt seitwärts (⟪तिर्यच्⟫)"
-:::
-::: media
+::::::media
 ![](/images/lekt5209.webp)
 Abb.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
 Brandrodung, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Bildquelle: [Details](/licenses#lekt5209))
-:::
-### 52.4.2. Suffix -sāt
+:::### 52.4.2. Suffix -sāt
 
-::: grammar-box
+:::grammar-box
 **Um auszudrücken, dass eine Person oder Sache vollständig zu dem wird, oder dass jemand etwas oder jemand ganz und gar zu dem macht, was durch ein Nomen bezeichnet wird, kann an das Nomen**
 
 **das Suffix -sāt (das nie -ṣāt wird)**
@@ -196,17 +173,13 @@ Brandrodung, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदे�
 *   ⟪सम्⟫-⟪पद्⟫ 4Ā
 
 **zu einem Verbalkompositum verbunden werden.**
-:::
+:::Beispiele:
 
-Beispiele:
-
-::: indent
+:::indent
 ⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫  "er wird vollständig zu Feuer"
 
 ⟪भस्मसात्करोति⟫ "er verwandelt ganz und gar in Asche (⟪भस्मन्⟫ n. "Asche"))
-:::
-
-::: grammar-box
+::::::grammar-box
 **Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
 
 
@@ -215,25 +188,18 @@ Beispiele:
 *   **oder dass jemand von dem abhängig macht**
 
 **das vom Nomen bezeichnet wird**
-:::
+:::Beispiel:
 
-Beispiel:
-
-::: indent
+:::indent
 ⟪राजसाद्भवति⟫ "er wird vom König abhängig, er wird Eigentum des Königs"
-:::
-
-:::: grammar-box
+::::::grammar-box
 **Nach den Bildungen mit -sāt werden Wurzeln nicht wie nach Präverben behandelt, also Absolutiv:**
 
-::: indent
+:::indent
 ⟪भस्मसात्कृ⟫***⟪त्वा⟫***
-:::
-::::
+::::::## 52.5. Wortwiederholungen (⟪द्विरुक्तम्⟫)
 
-## 52.5. Wortwiederholungen (⟪द्विरुक्तम्⟫)
-
-:::: grammar-box
+:::grammar-box
 **Wortwiederholung drückt im Sanskrit aus:**
 
 *   **Wiederholung der Handlung**  
@@ -248,15 +214,12 @@ Beispiel:
 
 Beispiele:
 
-::: indent
+:::indent
 ⟪एकैक⟫ 3 "jeder einzelne"
 ⟪अल्पाल्प⟫ 3 "ganz klein"
 ⟪नवनव⟫ 3 "stets neu"
-:::
-
-Zu den sog. ⟪आम्रेडित⟫-Komposita, in denen flektierte Wörter wiederholt werden, das zweite aber in vorklassischer Zeit einen Akzent bekam, also ein Kompositum vorliegt, siehe Wackernagel, Altindische Grammatik II,1 S. 142ff.
-::::
-## 52.6. Das Zahlwort (⟪सम्ख्या⟫ f.)
+:::Zu den sog. ⟪आम्रेडित⟫-Komposita, in denen flektierte Wörter wiederholt werden, das zweite aber in vorklassischer Zeit einen Akzent bekam, also ein Kompositum vorliegt, siehe Wackernagel, Altindische Grammatik II,1 S. 142ff.
+:::## 52.6. Das Zahlwort (⟪सम्ख्या⟫ f.)
 
 Hier nicht behandeltes siehe z.B. bei Kielhorn, Grammatik §201f.
 
@@ -264,17 +227,16 @@ Hier nicht behandeltes siehe z.B. bei Kielhorn, Grammatik §201f.
 
 #### 52.6.1.1. Zahladjektive (für 1 bis 19)
 
-::: grammar-box
+:::grammar-box
 **Die Zahlwörter für *1 bis 19* sind Adjektive.**
-**Die Zahlwörter für ***1 bis 4*** sind für die drei Geschlechter in der Deklination unterschioedlich.**
+**Die Zahlwörter für **1 bis 4** sind für die drei Geschlechter in der Deklination unterschioedlich.**
 
-**Für die Zahlwörter für ***5 bis 19*** ***(⟪नवदशन्⟫)*** gibt es nur eine einzige Deklination für die drei Geschlechter.**
+**Für die Zahlwörter für **5 bis 19** ***(⟪नवदशन्⟫)*** gibt es nur eine einzige Deklination für die drei Geschlechter.**
 
 **Für diese Zahladjektive gilt wie für alle Adjektive: es muss in gleichen Fall, Zahl und Geschlecht stehen wie das zugehörige Nomen und umgekehrt (d.h. für 1 Singular, für 2 Dual, für die übrigen Plural).**
-:::
-Zahladjektive:
+:::Zahladjektive:
 
-::: indent
+:::indent
 1 ⟪एक⟫ 3 (Deklination wie ⟪सर्व⟫, im Plural: "einige")
 2 ⟪द्वि⟫ 3
 3 ⟪त्रि⟫ 3
@@ -285,38 +247,31 @@ Zahladjektive:
 8 ⟪अष्टन्⟫ 3
 9 ⟪नवन्⟫ 3
 10 ⟪दशन्⟫ 3
-:::
-
-Die Deklination folgt an gegebener Stelle in den Wortlisten.
+:::Die Deklination folgt an gegebener Stelle in den Wortlisten.
 
 Die weiteren Zahladverbien bis 19 siehe z.B. bei Kielhorn, Grammatik §201.
 
 #### 52.6.1.2. Zahlsubstantive (für 19ff.)
 
-:::: grammar-box
+:::grammar-box
 **Die Zahlwörter für *19 (⟪एकोनविंशति⟫* "eins weniger als 20") *bis 99* sind feminine Substantive und werden wie ⟪मति⟫ f.  bzw. Wurzelnomina auf -t (z.B. ⟪त्रिंशत्⟫ f.) dekliniert.**
 
 Beispiele:
 
-::: indent
+:::indent
 20 ⟪विंशति⟫ f.:br
 30 ⟪त्रिंशत्⟫ f.
-:::
-
-**Die Zahlwörter für Zahlen ***ab 100*** sind neutrale Substantive. Sie werden wie ⟪फलम्⟫ dekliniert.**
+:::**Die Zahlwörter für Zahlen **ab 100** sind neutrale Substantive. Sie werden wie ⟪फलम्⟫ dekliniert.**
 
 Beispiele:
 
-::: indent
+:::indent
 100 ⟪शत⟫ n.:br
 1000 ⟪सहस्र⟫ n.
-:::
+:::Die einzelnen Zahlsubstantive siehe z.B. bei Kielhorn, Grammatik §201.
+:::#### 52.6.1.3. Syntaktisches zu den Kardinalzahlen
 
-Die einzelnen Zahlsubstantive siehe z.B. bei Kielhorn, Grammatik §201.
-::::
-#### 52.6.1.3. Syntaktisches zu den Kardinalzahlen
-
-::: grammar-box
+:::grammar-box
 **Aus dem Unterschied zwischen Verbaladjektiven und Verbalsubstantiven für Kadinalzahlen ergibt sich folgende Konsequenz für die Syntax:**
 *   adjektivische Kardinalzahlwörter können nur wie Adjektive mit dem Substantiv für das Gezählte verbunden werden  
     z.B. ⟪तिसृभिर्नारीभिः⟫ "durch drei Frauen"  
@@ -328,8 +283,7 @@ Die einzelnen Zahlsubstantive siehe z.B. bei Kielhorn, Grammatik §201.
     *   sie stehen als Hinterglied eines ⟪तत्पुरुष⟫ mit dem Gezählten als Vorderglied  
         z.B. ⟪गोविंशत्या⟫ "durch 20 Kühe" 
 
-:::
-### 52.6.2. Ordinalzahlen
+:::### 52.6.2. Ordinalzahlen
 
 Siehe z.B. bei Kielhorn, Grammatik §201f.
 
@@ -337,72 +291,56 @@ Siehe z.B. bei Kielhorn, Grammatik §201f.
 
 a) "-mal":
 
-::: indent
+:::indent
 einmal: ⟪सकृत्⟫
 zweimal: ⟪द्विस्⟫
 dreimal: ⟪त्रिस्⟫
 viermal: ⟪चतुस्⟫
 fünfmal usw. wird mit dem Suffix ***\-⟪कृत्वस्⟫*** gebildet: ⟪पञ्चकृत्वस्⟫
-:::
+:::b) "-fach": wird mit dem Suffix ***\-⟪धा⟫*** ausgedrückt
 
-b) "-fach": wird mit dem Suffix ***\-⟪धा⟫*** ausgedrückt
-
-::: indent
+:::indent
 einfach: ⟪एकधा⟫
 zweifach: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
 usw.
-:::
+:::c) "je ...", "zu ...": wird mit dem Suffix ***\-⟪शस्⟫*** ausgedrückt (siehe oben!)
 
-c) "je ...", "zu ...": wird mit dem Suffix ***\-⟪शस्⟫*** ausgedrückt (siehe oben!)
-
-::: indent
+:::indent
 ⟪द्विशस्⟫ "zu zweien, je zwei"
-:::
-
-### 52.6.4. Zahladjektive
+:::### 52.6.4. Zahladjektive
 
 "-fältig":
 
-::: indent
+:::indent
 zweifältig, aus zweien bestehend
 dreifältig, aus drei Teilen bestehend
 
 ab 4 wird "-fältig" durch das Suffix ***\-⟪तय⟫ (f.: -⟪तयी⟫)*** ausgedrückt: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "vierfältig"
-:::
-
-Weitere Bildungen entnehme man den Wörterbüchern oder Grammatiken.
+:::Weitere Bildungen entnehme man den Wörterbüchern oder Grammatiken.
 
 ### 52.6.5. Komposita mit Kardinalzahlen im Vorderglied
 
-::: grammar-box
+:::grammar-box
 **⟪बहुव्रीहि⟫ dieser Art werden ganz regelmäßig gebildet.**
-:::
+:::Beispiel:
 
-Beispiel:
-
-::: indent
+:::indent
 ⟪चतुर्मुख⟫ m. "einer, der vier Gesichter hat" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (ein Beiname Brahmās)
-:::
-
-::: media
+::::::media
 ![](/images/lekt5205.webp)
 Abb.: ⟪चतुर्मुखः⟫
 (Bildquelle: [Details](/licenses#lekt5205))
-:::
-::: grammar-box
+::::::grammar-box
 **⟪तत्पुरुष⟫ mit einer Kardinalzahl im Vorderglied dürfen nicht beliebig gebildet werden:**
 
 **Regel 1: Wörter, die eine Himmelsrichtung bezeichnen (wie ⟪पूर्व⟫ 3 "östlich", ⟪उत्तर⟫ 3 "nördlich"), und Wörter für Kardinalzahlen dürfen mit anderen Wörtern nur dann ein ⟪कर्मधारय⟫-Kompositum bilden, wenn das Kompositum als Eigenname gebraucht wird.**
-:::
-
-Daher darf z.B. aus ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "nördliche Bäume" oder ⟪पञ्च⟫ ⟪ब्राह्मणः⟫ kein Tatpuruṣa gebildet werden. Aus ⟪सप्तन्⟫ und ⟪ऋषि⟫ kann aber der Tatpuruṣa ⟪सप्तर्षि⟫ m. "die sieben Ṛṣis" gebildet werden, wenn dies als Name für das Sternbild des Großen Bären (Ursa maior) steht.
-::: media
+:::Daher darf z.B. aus ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "nördliche Bäume" oder ⟪पञ्च⟫ ⟪ब्राह्मणः⟫ kein Tatpuruṣa gebildet werden. Aus ⟪सप्तन्⟫ und ⟪ऋषि⟫ kann aber der Tatpuruṣa ⟪सप्तर्षि⟫ m. "die sieben Ṛṣis" gebildet werden, wenn dies als Name für das Sternbild des Großen Bären (Ursa maior) steht.
+:::media
 ![](/images/lekt5206.jpg)
 Abb.: ⟪सप्तर्षयः⟫
 Das Siebengestirn = die sieben hellsten Sterne des Großen Bären (Ursa maior)
 (Bildquelle: [Details](/licenses#lekt5206))
-:::
-::: grammar-box
+::::::grammar-box
 **Regel 2: Abweichend von Regel 1 kann ein Wort, das eine Himmelrichtung oder eine Kardinalzahl bezeichnet mit einem anderen Nomen ein Tatpuruṣa bilden, wenn**
 
 1.  dem so gebildeten Kompositum ein Taddhita-Suffix angefügt wird  
@@ -412,76 +350,61 @@ Das Siebengestirn = die sieben hellsten Sterne des Großen Bären (Ursa maior)
     
 2.  das so gebildete Kompositum in einer Bedeutung gebraucht wird, die sonst durch ein Taddhita-Suffix bezeichnet wird (bei dieser Art ist der Übergang zum Bahuvrīhi fließend):  
     Beispiele:  
-    dvi + go » ⟪द्विगु⟫ : nicht: "zwei Kühe", sondern: "***für zwei Kühe erhandelt***"  
-    ⟪द्विवर्ष⟫ nicht: "zwei Jahre", sondern: "***zwei Jahre alt***"  
+    dvi + go » ⟪द्विगु⟫ : nicht: "zwei Kühe", sondern: "**für zwei Kühe erhandelt**"  
+    ⟪द्विवर्ष⟫ nicht: "zwei Jahre", sondern: "**zwei Jahre alt**"  
     
 3.  das so gebildete Kompositum das Vorderglied eines anderen Kompositums bildet  
     Beispiel:  
     pañca + go » pañcagava (als Einzelwort unzulässig!) + dhana » ⟪पञ्चगवधन⟫ m. "Einer, dessen Reichtum fünf Kühe sind"
-:::
-::: media
+::::::media
 ![](/images/lekt5207.webp)
 Abb.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
 Jalakandapuram = ஜலகண்டபுரம்
 (Bildquelle: [Details](/licenses#lekt5207))
-:::
-::: grammar-box
+::::::grammar-box
 **Eine Bezeichnung für eine Kardinalzahl (aber nicht für eine Himmelsrichtung) kann als Vorderglied mit einem anderen Nomen auch dann ein Tatpuruṣa bilden, wenn das so gebildete Kompositum das Aggregat mehrerer Dinge bezeichnet, d.h. zwei oder mehrere Dinge zu einer Einheit zusammenfasst.**
 
 **Tatpuruṣa, die nach dieser Regel gebildet werden heißen ***Dvigu (⟪द्विगु⟫)***.**
 
 **Dvigu-Komposita, die eine Einheit bezeichnen, sind gewöhnlich Neutra. Endet das zweite Glied auf -a, so kann das Femininsuffix -ī antreten. Endet das zweite Glied auf fem. -ā, so tritt an dessen Stelle entweder Neutrum -a oder Feminin -ī. Endet das zweite Glied auf -an, so wird dafür -a oder -ī substituiert.**
-:::
+:::Beispiele:
 
-Beispiele:
-
-::: indent
+:::indent
 ⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "das Aggregat der drei Welten, die drei Welten als Einheit, die Dreiwelt (Himmel-Erde-Unterwelt)
 
 ⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "Dreiwelt"
-:::
-
-::: grammar-box
+::::::grammar-box
 **Dvigu-Komposita, denen kein Taddhitasuffix angefügt ist, die aber die Bedeutung haben, die durch ein Taddhita-Suffix bezeichnet wird, richten wie Bahuvrīhis ihr Geschlecht nach dem Nomen, welches sie näher bestimmen (es sind in Wirklichkeit wohl Bahuvrīhi)**
-:::
+:::Beispiel:
 
-Beispiel:
-
-::: indent
+:::indent
 ⟪पञ्चगु⟫ 3: "für fünf Kühe erhandelt"
-:::
-
-## 52.7. Wortliste
+:::## 52.7. Wortliste
 
 ⟪अखिल⟫ 3: lückenlos, ganz
 
 ⟪निखिल⟫ 3: vollständig, ganz
 
-::: indent
+:::indent
 von:
 
 ⟪खिल⟫ m.: Brachfeld, Ödland
-:::
-
-::: media
+::::::media
 ![](/images/lekt5210.webp)
 Abb.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (Bildquelle: [Details](/licenses#lekt5210))
-:::
-⟪अन्तर्⟫ Adv.: innen, im Innern ; Postposition mit Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): innerhalb, inmitten ; Postposition mit Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): aus ... heraus
+:::⟪अन्तर्⟫ Adv.: innen, im Innern ; Postposition mit Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): innerhalb, inmitten ; Postposition mit Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): aus ... heraus
 
 ⟪अन्योन्य⟫ 3: gegenseitig, einander
 
 ⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : fehlschlagen
 
-::: indent
+:::indent
 PPP ⟪विपरीत⟫ 3: verkehrt, falsch
-:::
+:::⟪त्रि⟫ 3: drei
 
-⟪त्रि⟫ 3: drei
-
-::: grammar-box
+:::grammar-box
 | | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
 | **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
@@ -491,47 +414,39 @@ PPP ⟪विपरीत⟫ 3: verkehrt, falsch
 | **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
 | **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
 | **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
-:::
-
-⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von
+:::⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von
 
 ⟪पीड्⟫ 10P ⟪पीडयति⟫ : drücken, quälen ; bedrängen, belagern, plagen
 
-::: media
+:::media
 ![](/images/lekt5212.webp)
 Abb.: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
 (Bildquelle: [Details](/licenses#lekt5212))
-:::
-⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äußerster, höchster ; anderer, fremder, feindlich ; m.: Fremder
+:::⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äußerster, höchster ; anderer, fremder, feindlich ; m.: Fremder
 
-::: indent
+:::indent
 davon:
 
 ⟪परम्⟫ Adv.: in hohem Grade, darauf, später, aber, jedoch
-:::
-
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): zu - hin, nach, in Bezug auf, gegenüber
+:::⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): zu - hin, nach, in Bezug auf, gegenüber
 
 ⟪प्रधान⟫ 3: hauptsächlicher, bester ; n.: Wichtigstes
 
-::: media
+:::media
 ![](/images/lekt5213.webp)
 Abb.: ⟪प्रधानः⟫
 ⟪मुंबई⟫
 (Bildquelle: [Details](/licenses#lekt5213))
-:::
-⟪लौल्य⟫ n.: Gier, Lüsternheit
+:::⟪लौल्य⟫ n.: Gier, Lüsternheit
 
 ⟪वर्ग⟫ m.: Abschnitt, Abteilung, Schar
 
-::: indent
+:::indent
 ⟪त्रिवर्ग⟫ m.: Dreiergruppe (z.B. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; oder: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; oder: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
-:::
+:::⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : wollen, gebieten, verlangen nach
 
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : wollen, gebieten, verlangen nach
-
-::: indent
+:::indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
 Fut. ⟪वशिष्यति⟫
 Pass. ⟪उष्यते⟫
@@ -539,11 +454,9 @@ Kaus. ⟪वाशयति⟫
 PPP ⟪उशित⟫
 Inf. ⟪वशितुम्⟫
 Absol. -⟪वश्य⟫
-:::
+:::⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
 
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
-
-::: indent
+:::indent
 Perf IV ⟪ववौ⟫
 Fut. ⟪वास्यति⟫
 Pass. ⟪वायते⟫
@@ -554,11 +467,9 @@ Inf. ⟪वातुम्⟫
 davon:
 
 ⟪वात⟫ m.: Wind
-:::
+:::⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : wenden, drehen ; abwehren, ausschließen
 
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : wenden, drehen ; abwehren, ausschließen
-
-::: indent
+:::indent
 Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
 Fut. ⟪वर्जिष्यति⟫
 Pass. ⟪वृज्यते⟫
@@ -566,9 +477,7 @@ Kaus. ⟪वर्जयति⟫ : beseitigen
 Kaus. PPP ⟪वर्जित⟫ : einer Sache verlustig, frei von
 PPP ⟪वृक्त⟫
 Inf. ⟪वर्जितुम्⟫
-:::
-
-⟪व्यवहार⟫ m.: Treiben, Wandel, Umgang, Verkehr, Geschäft, Handel, (Gerichts-)Prozess
+:::⟪व्यवहार⟫ m.: Treiben, Wandel, Umgang, Verkehr, Geschäft, Handel, (Gerichts-)Prozess
 
 ⟪शील⟫ n.: Brauch, Gewohnheit, Natur, Charakter, gute Gewohnheit = Moral
 
@@ -576,7 +485,7 @@ Inf. ⟪वर्जितुम्⟫
 
 ⟪सेव्⟫ 1Ā ⟪सेवते⟫ : jemandem (⟪द्वितीया⟫) dienen, aufwarten, ehren, lieben
 
-::: indent
+:::indent
 Perf I ⟪सिषेवे⟫
 Fut. ⟪सेविष्यते⟫
 Pass. ⟪सेव्यते⟫
@@ -588,22 +497,18 @@ Absol. -⟪सेव्य⟫
 davon:
 
 ⟪सेवा⟫ f.: Dienst, Aufwartung
-:::
-
-⟪धीर⟫ 3: fest, standhaft, kontinuierlich, beharrlich
+:::⟪धीर⟫ 3: fest, standhaft, kontinuierlich, beharrlich
 
 ⟪शम्⟫ ⟪शाम्यति⟫
 
-::: indent
+:::indent
 ⟪शशाम⟫, ⟪शेमुर्⟫
 ⟪शमिष्यति⟫
 ⟪शम्यते⟫
 ⟪शमयति⟫
 ⟪शान्त⟫
 ⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
-:::
-
-⟪कोविद⟫ 3: erfahren in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
+:::⟪कोविद⟫ 3: erfahren in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
 
 ⟪याम⟫ m.: Nachtwache (jeweils drei Stunden)
 
@@ -613,33 +518,29 @@ davon:
 
 ⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : sich rühren, sich fortbewegen, herabfallen
 
-::: indent
+:::indent
 Perf. IIIa ⟪चुच्युवे⟫
 Fut. ⟪च्योष्यते⟫
 Pass. ⟪च्यूयते⟫
 Kaus. ⟪च्यावयति⟫
 PPP ⟪च्युत⟫
-:::
-
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : erkennen, empfinden, wahrnehmen, erfahren
+:::⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : erkennen, empfinden, wahrnehmen, erfahren
 
 ⟪चक्र⟫ n.: Rad
 
-::: media
+:::media
 ![](/images/lekt5214.webp)
 Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Bildquelle: [Details](/licenses#lekt5214))
-:::
-⟪कदली⟫ f.: Bananenbaum (_Musa_ sp.)
+:::⟪कदली⟫ f.: Bananenbaum (_Musa_ sp.)
 
-::: media
+:::media
 ![](/images/lekt5208.webp)
 Abb.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (Bildquelle: [Details](/licenses#lekt5208))
-:::
-⟪सार⟫ m.n.: Kern, Mark, Essenz, Substanz
+:::⟪सार⟫ m.n.: Kern, Mark, Essenz, Substanz
 
 ⟪दिव्य⟫ 3: himmlisch, göttlich
 
@@ -649,40 +550,36 @@ Hampi = ಹಂಪೆ
 
 ⟪मल⟫ m.n.: Schmutz, Makel
 
-::: media
+:::media
 ![](/images/lekt5215.webp)
 Abb.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (Bildquelle: [Details](/licenses#lekt5215))
-:::
-⟪त्रिपिष्टप⟫ n.: Indras Himmel
+:::⟪त्रिपिष्टप⟫ n.: Indras Himmel
 
 ⟪मार⟫ m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel
 
-::: media
+:::media
 ![](/images/lekt5217.webp)
 Abb.:
 Amaravati = అమరావతి, 2. Jhdt. n. Chr.
 (Bildquelle: [Details](/licenses#lekt5217))
-:::
-⟪विजिज्ञासु⟫ 3: jemand, der völlig erkennen will
+:::⟪विजिज्ञासु⟫ 3: jemand, der völlig erkennen will
 
 ⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : beschützen, retten
 
-::: indent
+:::indent
 Perf. IV ⟪तत्रे⟫
 Fut. ⟪त्रास्यते⟫
 Pass. ⟪त्रायते⟫
 Kaus. ⟪त्रापयति⟫
 PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 Inf. ⟪त्रातुम्⟫
-:::
-
-## 52.8. Übersetzungsübung
+:::## 52.8. Übersetzungsübung
 
 ⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
 
-::: indent
+:::indent
 ⟪यद्यत्परवशं⟫ ⟪कर्म⟫
 ⟪ततद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫
 ⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्⟫
@@ -699,40 +596,33 @@ Inf. ⟪त्रातुम्⟫
 ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
 
 Erklärung: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandva)
-:::
+:::⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Über die Quellen des ⟪धर्म⟫
 
-⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Über die Quellen des ⟪धर्म⟫
-
-::: indent
+:::indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
 ⟪स्मृतिशी⟫***⟪ले⟫*** ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
 Erklärung:  ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
-:::
-
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ im Leben des Fürsten
+:::⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ im Leben des Fürsten
 
 ⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫***⟪मितरौ⟫*** ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫***⟪मूलौ⟫*** ⟪हि⟫ ⟪धर्मका⟫***⟪मावि⟫***⟪ति⟫ ⟪।७।⟫
 
-::: indent
+:::indent
 Erklärungen:
 
 ⟪इतरौ⟫ Nom.Akk.Dual.m zu ⟪इतर⟫ 3 "anderer"
 
 ⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ ist Dualdvandva)
-:::
+:::⟪४⟫. ⟪अश्वघोष⟫ (2. Jhdt. n. Chr.): ⟪बुद्धचरित⟫ ⟪४⟫ Buddhas erlösende Erkenntnis
 
-⟪४⟫. ⟪अश्वघोष⟫ (2. Jhdt. n. Chr.): ⟪बुद्धचरित⟫ ⟪४⟫ Buddhas erlösende Erkenntnis
-
-::: media
+:::media
 ![](/images/lekt5216.webp)
 Abb.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
 _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
 (Bildquelle: [Details](/licenses#lekt5216))
-:::
-::: indent
+::::::indent
 ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
 ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
 ⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫
@@ -782,9 +672,7 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
 ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫
 ⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫
 ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥१०॥⟫
-:::
-
-## 52.9. Aufgaben während der Semesterferien
+:::## 52.9. Aufgaben während der Semesterferien
 
 Mit Lektion 52 ist das erste Semester (13 Wochen á 4 Unterrichtsstunden) des Sanskritkurses beendet.
 
@@ -809,14 +697,12 @@ Während der Semesterferien sollten folgende Aufgaben erfüllt werden:
 10.  Beginn mit der Durcharbeit von:  
      **Winternitz, Moriz &lt;1863 - 1937&gt;:** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 Bde. -- 1908 - 1922 (immer noch die bei weitem beste Literaturgeschichte der Sanskrit-, Pali- und Prakritliteratur)
 
-::: media
+:::media
 ![](/images/lekt5201.webp)
 Abb.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Bild: Payer)
 (Bildquelle: [Details](/licenses#lekt5201))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Bildquelle: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 

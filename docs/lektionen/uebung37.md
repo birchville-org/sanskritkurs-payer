@@ -101,7 +101,7 @@ Hat der Śūdra etwa die Last getragen?
 
 C) Bestimmen und übersetzen Sie folgende Komposita:
 
-::: grammar-box
+:::grammar-box
 | Kompositum | Bedeutung | Erläuterung |
 | :--- | :--- | :--- |
 | **⟪अतिमात्रम्⟫** | übermäßig | ⟪मात्रामतीत्य⟫ (über das Maß hinaus) |
@@ -119,15 +119,11 @@ C) Bestimmen und übersetzen Sie folgende Komposita:
 | **⟪आमरणम्⟫** | bis zum Tod | ⟪आ⟫ ⟪मरणात्⟫ (bis zum Sterben) |
 | **⟪उपवृक्षम्⟫** | beim Baum | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (nahe beim Baum) |
 | **⟪यथास्थानम्⟫** | am rechten Ort | ⟪स्थानमनतिक्रम्य⟫ (den Ort nicht überschreitend) |
-:::
-
-::: media
+::::::media
 ![](/images/uebung062.webp)
 Abb.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Bildquelle: [Details](/licenses#uebung062))
-:::
-
----
+:::---
 
 ## Narratives Perfekt (Die Geschichte vom Greis)
 

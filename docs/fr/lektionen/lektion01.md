@@ -11,7 +11,7 @@ last_reconstructed: 2026-04-30
 
 
 :::center
-गणेशपूजनम्
+⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Vénération de Gaṇeśa
 ::::::media
@@ -19,10 +19,10 @@ Vénération de Gaṇeśa
 Fig. : Gaṇeśa, Adamspeak, Sri Lanka
 (Source de l'image : [Détails](/fr/licenses#lekt0102))
 ::::::center
-लम्बोदर नमस् तुभ्यं
-सततं मोदकप्रिय |
-निर्विघ्नं कुरु मे देव
-सर्वकार्येषु सर्वदा |
+⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
+⟪सततं⟫ ⟪मोदकप्रिय⟫ |
+⟪निर्विघ्नं⟫ ⟪कुरु⟫ ⟪मे⟫ ⟪देव⟫
+⟪सर्वकार्येषु⟫ ⟪सर्वदा⟫ |
 
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
@@ -36,7 +36,7 @@ Toutes mes entreprises !
 :::---
 
 :::center
-मङ्गलचरणम्
+⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Commencement auspiceux"
 ::::::media
@@ -44,10 +44,10 @@ maṅgalacaraṇam
 Fig. : Ardhanarīśvara
 (Source de l'image : [Détails](/fr/licenses#lekt0101))
 ::::::center
-वागर्थाविव संपृक्तौ
-वागर्थप्रतिपत्तये |
-जगतः पितरौ वन्दे
-पार्वतीपरमेश्वरौ |
+⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
+⟪वागर्थप्रतिपत्तये⟫ |
+⟪जगतः⟫ ⟪पितरौ⟫ ⟪वन्दे⟫
+⟪पार्वतीपरमेश्वरौ⟫ |
 
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
@@ -122,33 +122,33 @@ Les sons du sanskrit selon la classification indienne traditionnelle et leur tra
 
 :::tip Classification
 
-- **voyelles simples** (samānākṣara -- समानाक्षर) :
-  अ a, आ ā, इ i, ई ī, उ u, ऊ ū, ऋ ṛ, ॠ ṝ, ऌ ḷ
-- **diphtongues** (sandhyakṣara -- सन्ध्यक्षर) :
-  ए e, ऐ ai, ओ o, औ au
-- **consonnes** (vyañjana / hal -- व्यञ्जन / हल्) :
-  क ka, ख kha, ग ga, घ gha, ङ ṅa
-  च ca, छ cha, ज ja, झ jha, ञ ña
-  ट ṭa, ठ ṭha, ड ḍa, ढ ḍha, ण ṇa
-  त ta, थ tha, द da, ध dha, न na
-  प pa, फ pha, ब ba, भ bha, म ma
-  य ya, र ra, ल la, व va
-  श śa, ष ṣa, स sa
-  ह ha
+- **voyelles simples** (samānākṣara -- ⟪समानाक्षर⟫) :
+  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+- **diphtongues** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫) :
+  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+- **consonnes** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫) :
+  ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
+  ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
+  ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
+  ⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
+  ⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
+  ⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
+  ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
+  ⟪ह⟫ ha
 :::### 1.2.1. Sur la prononciation de certains sons
 
 :::laut-table
 | Son | Description |
 | :--- | :--- |
-| **a - अ** | "a bref" est souvent prononcé par les Indiens -- depuis l'antiquité -- comme ə. En Europe, on le prononce comme un a bref, au Bengale comme un o sombre bref. |
-| **ṛ - ऋ** | comme le r vocalisé tchèque. Légère résonance de i. |
-| **ṝ - ॠ** | comme le r vocalisé tchèque. Légère résonance de u. |
-| **jñ - ज्ञ्** | aussi comme dny (Marāṭhī) ou gy (Nord indien). |
-| **ś - श्** | son sch avec la pointe de la langue courbée vers le bas. Semblable à sch dans "mélanger". |
-| **ṣ - ष्** | son ach avec la pointe de la langue recourbée vers l'arrière. Souvent articulé si loin dans le pharynx qu'il ressemble presque à kh. |
-| **h - ह्** | son aspiré, jamais signe de prolongation. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Son aspiré sourd avec résonance de la voyelle précédente ou de la deuxième partie du diphtongue précédent : agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
-| **ṃ** | **Anusvara** -- अनुस्वर. Avant les sons sifflants, h, l : nasalisation de la voyelle. En fin de mot = m. En milieu de mot avant une consonne : le nasal correspondant à la consonne suivante : saṃdhi -- संधि = sandhi -- सन्धि |
+| **a - ⟪अ⟫** | "a bref" est souvent prononcé par les Indiens -- depuis l'antiquité -- comme ə. En Europe, on le prononce comme un a bref, au Bengale comme un o sombre bref. |
+| **ṛ - ⟪ऋ⟫** | comme le r vocalisé tchèque. Légère résonance de i. |
+| **ṝ - ⟪ॠ⟫** | comme le r vocalisé tchèque. Légère résonance de u. |
+| **jñ - ⟪ज्ञ्⟫** | aussi comme dny (Marāṭhī) ou gy (Nord indien). |
+| **ś - ⟪श्⟫** | son sch avec la pointe de la langue courbée vers le bas. Semblable à sch dans "mélanger". |
+| **ṣ - ⟪ष्⟫** | son ach avec la pointe de la langue recourbée vers l'arrière. Souvent articulé si loin dans le pharynx qu'il ressemble presque à kh. |
+| **h - ⟪ह्⟫** | son aspiré, jamais signe de prolongation. |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Son aspiré sourd avec résonance de la voyelle précédente ou de la deuxième partie du diphtongue précédent : agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
+| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Avant les sons sifflants, h, l : nasalisation de la voyelle. En fin de mot = m. En milieu de mot avant une consonne : le nasal correspondant à la consonne suivante : saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::La meilleure prononciation est obtenue lorsque l'on lit les phrases, les vers ou les mots assez lentement et monotone, en tenant compte précisément de la longueur des voyelles.
 
 ---
@@ -157,15 +157,15 @@ Les sons du sanskrit selon la classification indienne traditionnelle et leur tra
 
 **A) Lisez les mots suivants :**
 
-1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र
-2. brahmā viṣṇu śiva — ब्रह्मा विष्णु शिव
-3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन्
-4. ṛgveda sāmaveda yajurveda atharvaveda — ऋग्वेद सामवेद यजुर्वेद अथर्ववेद
-5. upaniṣad — उपनिषद्
-6. jaina bauddha — जैन बौद्ध
-7. prajñāpāramitā — प्रज्ञापारमिता
-8. cakra vajra — चक्र वज्र
-9. pitṝn — पितॄन्
-10. saṃskṛta — संस्कृत
+1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫
+2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫
+3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम⟫ ⟪ब्राह्मचारिन्⟫ ⟪गृहस्थ⟫ ⟪वानप्रस्थ⟫ ⟪संन्यासिन्⟫
+4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद⟫ ⟪सामवेद⟫ ⟪यजुर्वेद⟫ ⟪अथर्ववेद⟫
+5. upaniṣad — ⟪उपनिषद्⟫
+6. jaina bauddha — ⟪जैन⟫ ⟪बौद्ध⟫
+7. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫
+8. cakra vajra — ⟪चक्र⟫ ⟪वज्र⟫
+9. pitṝn — ⟪पितॄन्⟫
+10. saṃskṛta — ⟪संस्कृत⟫
 
 **B) Lisez les expressions sanskrites dans la classification phonétique ci-dessus.**

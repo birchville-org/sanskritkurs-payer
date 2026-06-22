@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entsprechenden Formen des **a-Aorists**:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung / Bedeutung | a-Aorist |
 |:---|:---|:---|:---|
 | ⟪१⟫. | **⟪दोक्ष्यन्ति⟫** | *⟪दुष्⟫* 4P: 3. Pl. Fut. P. (sie werden verderben) | **⟪अदुषन्⟫** |
@@ -45,9 +45,7 @@ Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entspreche
 | ⟪३०⟫. | **⟪अशोभथाः⟫** | *⟪शुभ्⟫* 1Ā: 2. Sg. Impf. Ā. (du warst schön) | **⟪अशुभः⟫** (a-Aor.: P.) |
 | ⟪३१⟫. | **⟪अशुष्याम⟫** | *⟪शुष्⟫* 4P: 1. Pl. Impf. P. (wir wurden trocken) | **⟪अशुषाम⟫** |
 | ⟪३२⟫. | **⟪सिष्णेह⟫** | *⟪स्निह्⟫* 4P: 1. 3. Sg. Perf. P. (ich liebte / er liebte) | **⟪अस्निहम्⟫ / ⟪अस्निहत्⟫** |
-:::
-
-::: media
+::::::media
 ![](/images/uebung092.webp)
 Abb.: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (Bildquelle: [Details](/licenses#uebung092))

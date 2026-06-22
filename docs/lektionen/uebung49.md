@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Bestimmen Sie folgende Formen:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung |
 |:---|:---|:---|
 | ⟪१⟫. | **⟪गृहाणि⟫** | *⟪गृह⟫* n.: Nom. Akk. Pl. n. |
@@ -52,15 +52,11 @@ Bestimmen Sie folgende Formen:
 | ⟪३७⟫. | **⟪बन्धनीय⟫** | *⟪बन्ध्⟫* 9P: Gerundiv Vok. Sg. m. n. |
 | ⟪३८⟫. | **⟪गायी⟫** | *⟪गायिन्⟫*: Nom. Sg. m. |
 | ⟪३९⟫. | **⟪मह्यम्⟫** | *⟪अहम्⟫*: Dat. Sg. |
-:::
-
-::: media
+::::::media
 ![](/images/uebung078.webp)
 Abb.: ⟪गायी⟫
 (Bildquelle: [Details](/licenses#uebung078))
-:::
-
----
+:::---
 
 ## ⟪बाण⟫ (⟪७⟫. Jhdt. n. Chr.): ⟪कादम्बरी⟫
 
@@ -74,7 +70,7 @@ Fragen des Königs **⟪शूद्रक⟫** von **⟪विदिशा⟫**
 &gt;
 > Vaiśampāyana aber, der vom Herrn der Erde mit spontan entstandener Neugier mit großem Respekt gefragt worden war, überlegte einen Augenblick und antwortete dann voll Hochachtung: "König, das ist eine lange Geschichte. Wenn es Sie interessiert, leihen Sie mir Ihr Ohr!"
 
-::: media
+:::media
 ![](/images/uebung079.webp)
 Abb.: ⟪शुकः⟫
 (Bildquelle: [Details](/licenses#uebung079))

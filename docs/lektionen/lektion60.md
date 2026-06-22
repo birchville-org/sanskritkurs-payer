@@ -23,87 +23,73 @@ status: stable
 
 ⟪बन्ध्⟫ 9P "binden"
 
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
-:::
+:::⟪भाष्⟫ 1Ā "sprechen"
 
-⟪भाष्⟫ 1Ā "sprechen"
-
-::: grammar-box
+:::grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
-:::
-
-### 60.2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+:::### 60.2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
 ⟪भिद्⟫ 7U "spalten"
 
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
-:::
-
-### 60.2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
+:::### 60.2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
 
 #### 60.2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
 
 ⟪नी⟫ 1U "führen"
 
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
-:::
+:::⟪स्तु⟫ 2U (⟪अनिट्⟫) "loben"
 
-⟪स्तु⟫ 2U (⟪अनिट्⟫) "loben"
-
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
-:::
+:::⟪कृ⟫ 8U (⟪अनिट्⟫) "tun, machen"
 
-⟪कृ⟫ 8U (⟪अनिट्⟫) "tun, machen"
-
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
-:::
-
-#### 60.2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+:::#### 60.2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
 
 ⟪स्मृ⟫ 1P "vergegenwärtigen"
 
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
-:::
-
-### 60.2.4. Typ 4: Wurzeln auf -ā / -ai
+:::### 60.2.4. Typ 4: Wurzeln auf -ā / -ai
 
 ⟪दा⟫ 3U "geben"
 
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
@@ -111,79 +97,65 @@ status: stable
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
 \* identisch mit den entsprechenden Formen des Indikativ Präsens!
-:::
-
-### 60.2.5. Typ 5: Konsonant-a-Konsonant
+:::### 60.2.5. Typ 5: Konsonant-a-Konsonant
 
 #### 60.2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
 
 ⟪गम्⟫ 1U "gehen"
 
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
-:::
-
-#### 60.2.5.2. Typ 5b: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+:::#### 60.2.5.2. Typ 5b: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
 
 ⟪पच्⟫ 1U "garen"
 
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
-:::
-
-#### 60.2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+:::#### 60.2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
 
 ⟪क्रम्⟫ 1U "schreiten"
 
-::: grammar-box
+:::grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
-:::
-
-## 60.3. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+:::## 60.3. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
 
 ⟪गण्⟫ 10P "zählen"
 
-::: grammar-box
+:::grammar-box
 |   | **⟪परस्मैपदम्⟫** |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ |
-:::
+:::⟪आस्⟫ 2Ā "sitzen"
 
-⟪आस्⟫ 2Ā "sitzen"
-
-::: grammar-box
+:::grammar-box
 |   | **⟪आत्मनेपदम्⟫** |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
-:::
+:::## 60.4. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
 
-## 60.4. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
-
-::: grammar-box
+:::grammar-box
 **Bildung:**
 
 **schwacher Perfektstamm + vāṃs**
 
 **Besteht der schwache Perfektstamm nur aus einer Silbe, dann wird der Bindevokal -i- angefügt. Bei einigen Perfekta ist der Bindevokal wahlweise.**
-:::
-
-Beispiele:
+:::Beispiele:
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "jemand, der gespalten hat" |
 | --- | --- |
@@ -192,12 +164,12 @@ Beispiele:
 | ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "jemand, der gegart hat" |
 | ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" |
 
-::: grammar-box
+:::grammar-box
 **Deklination:**
 
 *   **starker Stamm: -vāṃs**
 *   **schwacher Stamm:**
-    *   **vor Konsonant:** ***-vat*** **(!)**
+    *   **vor Konsonant:** **-vat** **(!)**
     *   **vor Vokal: -uṣ**
 
 **Vor uṣ entfällt der Bindevokal -i-.**
@@ -207,28 +179,21 @@ Beispiele:
 **schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
 
 Beispiel: ⟪विदुषी⟫ "eine Wissende"
-:::
+:::Paradigmen siehe Kielhorn, Grammatik § 124:
 
-
-Paradigmen siehe Kielhorn, Grammatik § 124:
-
-::: media
+:::media
 ![](/images/lekt6001.webp)
 (Bildquelle: [Details](/licenses#lekt6001))
-:::
-::: media
+::::::media
 ![](/images/lekt6002.webp)
 (Bildquelle: [Details](/licenses#lekt6002))
-:::
-## 60.5. Deklination der Stämme auf -añc (-ac)
+:::## 60.5. Deklination der Stämme auf -añc (-ac)
 
-::: grammar-box
+:::grammar-box
 **Die Stämme auf -añc/-ac sind Verbindungen von Präverbien usw. mit dem Wurzelnomen der Wurzel ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "sich bewegen".**
-:::
+:::### 60.5.1. Dreistämmige Stämme auf -añc
 
-### 60.5.1. Dreistämmige Stämme auf -añc
-
-::: grammar-box
+:::grammar-box
 **Bildung:**
 
 *   **starker Stamm: -añc**
@@ -247,19 +212,15 @@ Paradigmen siehe Kielhorn, Grammatik § 124:
 **schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
 
 Beispiel: ⟪प्रतीची⟫
-:::
+:::####  Paradigmen siehe Kielhorn, Grammatik § 128:
 
-####  Paradigmen siehe Kielhorn, Grammatik § 128:
-
-::: media
+:::media
 ![](/images/lekt6003.webp)
 (Bildquelle: [Details](/licenses#lekt6003))
-:::
-::: media
+::::::media
 ![](/images/lekt6004.webp)
 (Bildquelle: [Details](/licenses#lekt6004))
-:::
-Hierher gehören:
+:::Hierher gehören:
 
 *   ⟪प्रत्यञ्च्⟫ 3 "rückwärts, westlich"
     
@@ -278,15 +239,12 @@ Hierher gehören:
 
 ### 60.5.2. Zweistämmige Stämme auf -añc
 
-::: grammar-box
+:::grammar-box
 **Bildung:**
 
 *   **starker Stamm: -añc**
 *   **schwacher Stamm vor Konsonant bzw. Vokal: -ac**
-:::
-
-
-Hierher gehören:
+:::Hierher gehören:
 
 *   ⟪प्राञ्च्⟫ 3 "vorwärts gerichtet, östlich"
 *   ⟪अवाञ्च्⟫ 3 "abwärts gerichtet"
@@ -304,16 +262,14 @@ Die Haupthimmelsrichtungen
 
 ## 60.6. Das Desiderativum (⟪सन्⟫)
 
-::: grammar-box
+:::grammar-box
 **Von jeder Wurzel sowie vom Kausativum kann ein Desiderativum (⟪सन्⟫) gebildet werden. Das Desiderativum kann in allen Zeiten und Modi des P, Ā und Passiv konjugiert werde. Desiderativformen außerhalb des Präsensstamms sind aber sehr selten.**
 
 **Bedeutung:**
 
 *   **eine Person oder Sache wünscht zu tun oder zu erleiden, was durch die Wurzel oder das Kausativum ausgedrückt wird**
 *   **seltener: jemand oder etwas ist im Begriffe, zu tun, was durch die Wurzel oder das Kausativum ausgedrückt wird**
-:::
-
-####  Beispiele:
+:::####  Beispiele:
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "er wünscht zu tun" |
 | --- | --- |
@@ -323,7 +279,7 @@ Die Haupthimmelsrichtungen
 
 ### 60.6.1. Bildung des Desiderativstammes
 
-::: grammar-box
+:::grammar-box
 **Wurzeln der Präsensklassen 1 - 9:**
 
 **reduplizierte Wurzel + sa**
@@ -337,9 +293,7 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
 **Wurzeln der 10. Präsensklasse und Kausative:**
 
 **reduplizierter Präsensstamm + i + ṣa**
-:::
-
-::: grammar-box
+::::::grammar-box
 **Gestalt der Wurzel:**
 
 1.  Die Wurzel ist meist tiefstufig: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
@@ -354,7 +308,7 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
         ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "zu füllen wünschen"  
          
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ und einige andere Wurzeln auf -ā, -e, -o haben Tiefstufe Ø:  
-        ⟪दा⟫ » ⟪दित्स⟫- (di-***d*** + sa)  
+        ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
         ⟪धा⟫ » ⟪धित्स⟫-  
         ⟪मा⟫ » ⟪मित्स⟫-  
          
@@ -375,9 +329,7 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
              
         2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant außer -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "aufzublitzen wünschen"
-:::
-
-::: grammar-box
+::::::grammar-box
 **Zur Reduplikation:**
 
 1.  Konsonantisch anlautende Wurzeln: Die Reduplikation erfolgt an den nach obigen Regeln veränderten Wurzeln nach den üblichen Regeln. Statt a als Reduplikationsvokal erschein aber i:  
@@ -393,72 +345,54 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
     ⟪ऋ⟫ » ⟪अरिरिष⟫-  
      
 3.  Die besondere Desiderativbildung bestimmter Wurzeln siehe bei Kielhorn, Grammatik § 451.
-:::
-
-::: grammar-box
+::::::grammar-box
 **Zu einigen Wurzeln werden Desiderative ohne desiderative Bedeutung gebildet. Zu diesen Desiderativen können Desiderative mit desiderativer Bedeutung gebildet werden.**
-:::
+:::Liste bei Kielhorn, Grammatik § 452:
 
-Liste bei Kielhorn, Grammatik § 452:
-
-::: media
+:::media
 ![](/images/lekt6006.webp)
 (Bildquelle: [Details](/licenses#lekt6006))
-:::
-### 60.6.2. Konjugation des Desiderativs (⟪सन्⟫)
+:::### 60.6.2. Konjugation des Desiderativs (⟪सन्⟫)
 
-:::: grammar-box
+:::grammar-box
 **Das Desiderativ ist - mit wenigen Ausnahmen - P, Ā bzw. U, je nachdem, ob die zugrundeliegende Wurzel (bzw. der zugrundeligende Verbalstamm) P, Ā oder U ist.**
 
 **Präsensstamm: Konjugation wie ein thematischer Stamm:**
 
 ⟪यज्⟫ 1U:
 
-::: indent
+:::indent
 P: ⟪यियक्षति⟫ "er wünscht, für jemand anderen zu opfern"
 Ā: ⟪यियक्षते⟫ "er wünscht, für sich selbst (als Opferherr) zu opfern"
 Passiv: ⟪यियक्ष्यते⟫ "es wird zu opfern gewünscht"
-:::
+:::**Perfekt: periphrastisch:**
 
-**Perfekt: periphrastisch:**
-
-::: indent
+:::indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "er wünschte zu erlangen"
-:::
+:::**Aorist: iṣ-Aorist:**
 
-**Aorist: iṣ-Aorist:**
-
-::: indent
+:::indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
-:::
+:::**Futur: ⟪सेट्⟫**
 
-**Futur: ⟪सेट्⟫**
-
-::: indent
+:::indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
-:::
-
-::::
-
-Zur Bildung von Nomina agentis auf -u aus dem Desiderativstamm siehe [Lektion 54](lektion54.md).
+::::::Zur Bildung von Nomina agentis auf -u aus dem Desiderativstamm siehe [Lektion 54](lektion54.md).
 
 ## 60.7. Übung
 
 A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmäßigen Desiderativbildungen zu bisher gelernten Verben:
 
-::: media
+:::media
 ![](/images/lekt6007.webp)
 (Bildquelle: [Details](/licenses#lekt6007))
-:::
-::: media
+::::::media
 ![](/images/lekt6008.webp)
 (Bildquelle: [Details](/licenses#lekt6008))
-:::
-::: media
+::::::media
 ![](/images/lekt6009.webp)
 (Bildquelle: [Details](/licenses#lekt6009))
-:::
-B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
+:::B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
 
 1.  ⟪ददुषोः⟫
     

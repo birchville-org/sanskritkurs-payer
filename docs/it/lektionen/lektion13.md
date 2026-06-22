@@ -20,7 +20,7 @@ Per la distribuzione dei PPP su -ta- o -na- non è possibile stabilire regole fi
 Quasi tutte le radici che terminano in -d formano il PPP su -na-. In questo caso, -d-n- viene sostituito da -n-n-, il che altrimenti non avviene nel sandhi delle parole, ma è un'imitazione del sandhi di frase.
 
 Esempio:
-pad 4 Ā PPP: panna 3 = पन्न
+pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::---
 
@@ -32,39 +32,31 @@ pad 4 Ā PPP: panna 3 = पन्न
 
     ad esempio
 
-    ::: indent
-    इष्ट "desiderato" (cioè non solo desiderato nel passato, ma anche nel presente)
+    :::indent
+    ⟪इष्ट⟫ "desiderato" (cioè non solo desiderato nel passato, ma anche nel presente)
 
-    त्वरित "affrettato, urgente" (PPP per tvar 1 Ā "affrettarsi"; Dhātupāṭha: ñitvárā)
-    :::
-
-2. Il PPP può essere utilizzato attributivamente come aggettivo:
+    ⟪त्वरित⟫ "affrettato, urgente" (PPP per tvar 1 Ā "affrettarsi"; Dhātupāṭha: ñitvárā)
+    :::2. Il PPP può essere utilizzato attributivamente come aggettivo:
 
     ad esempio
 
-    ::: indent
-    इष्टं फलम् "il frutto desiderato (ad esempio il frutto delle azioni)"
-    :::
-
-    Se in questo caso अपि segue il PPP, अपि ha il significato "sebbene":
+    :::indent
+    ⟪इष्टं⟫ ⟪फलम्⟫ "il frutto desiderato (ad esempio il frutto delle azioni)"
+    :::Se in questo caso ⟪अपि⟫ segue il PPP, ⟪अपि⟫ ha il significato "sebbene":
 
     ad esempio
 
-    ::: indent
-    इष्टमपि फलं न लभते = "Sebbene colui desideri il frutto, non lo ottiene."
-    :::
-
-3. Il neutro singolare del PPP di ogni verbo può essere utilizzato anche come sostantivo verbale:
+    :::indent
+    ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Sebbene colui desideri il frutto, non lo ottiene."
+    :::3. Il neutro singolare del PPP di ogni verbo può essere utilizzato anche come sostantivo verbale:
 
     ad esempio
 
-    ::: indent
-    गत n.: "l'andare, il passo"
+    :::indent
+    ⟪गत⟫ n.: "l'andare, il passo"
 
-    नृत्त n.: "il danzare, la danza"
-    :::
-
-::::---
+    ⟪नृत्त⟫ n.: "il danzare, la danza"
+    :::::::---
 
 ## 13.3. Specifiche attributive dei nomi (ordine delle parole)
 
@@ -75,7 +67,7 @@ Gli attributi (specifiche) nella prosa seguono l'ordine normale delle parole pri
 Esempio:
 
 :::indent
-साधुरिष्टं फलं पश्यति = "Un santo vede il frutto desiderato (delle sue opere)."
+⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Un santo vede il frutto desiderato (delle sue opere)."
 :::::::---
 
 ## 13.4. Formazione di aggettivi in -mant e -vant (taddhita)
@@ -89,9 +81,9 @@ Mediante i suffissi taddhita -mant o -vant si formano aggettivi possessivi da so
 Esempi:
 
 :::indent
-पशुमन्त् "che possiede bestiame"
+⟪पशुमन्त्⟫ "che possiede bestiame"
 
-गुणवन्त् "che possiede buone qualità / virtù"
+⟪गुणवन्त्⟫ "che possiede buone qualità / virtù"
 :::::::---
 
 ## 13.5. Classi di declinazione dei sostantivi
@@ -102,10 +94,10 @@ Le radici in -mant o -vant appartengono alle radici nominali con classe di decli
 Nelle radici nominali con classe di declinazione si distingue tra casi forti (casi) e casi deboli. Nei casi forti, il suffisso formante la radice — nei nomi radicali, la componente radicale — ha il grado pieno o il grado allungato, nei casi deboli il grado ridotto.
 :::**I casi forti sono:**
 
-| | Singolare[[br]]एकवचन | Duale[[br]]द्विवचन | Plurale[[br]]बहुवचन |
+| | Singolare:br⟪एकवचन⟫ | Duale:br⟪द्विवचन⟫ | Plurale:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Nei maschili e femminili**[[br]]पुंस्, स्त्री | Nominativo[[br]]प्रथमा[[br]]Accusativo[[br]]द्वितीया[[br]]Vocativo[[br]]सम्बोधनप्रथमा | Nominativo[[br]]प्रथमा[[br]]Accusativo[[br]]द्वितीया[[br]]Vocativo[[br]]सम्बोधनप्रथमा | Nominativo[[br]]प्रथमा[[br]][[br]]Vocativo[[br]]सम्बोधनप्रथमा |
-| **Nei neutri**[[br]]नपुंसक | — | — | Nominativo[[br]]प्रथमा[[br]]Accusativo[[br]]द्वितीया[[br]]Vocativo[[br]]सम्बोधनप्रथमा |
+| **Nei maschili e femminili**:br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativo:br⟪प्रथमा⟫:brAccusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ | Nominativo:br⟪प्रथमा⟫:brAccusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ | Nominativo:br⟪प्रथमा⟫:br:brVocativo:br⟪सम्बोधनप्रथमा⟫ |
+| **Nei neutri**:br⟪नपुंसक⟫ | — | — | Nominativo:br⟪प्रथमा⟫:brAccusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ |
 
 **Tutti gli altri casi sono deboli.**
 
@@ -125,17 +117,15 @@ Per comprendere le singole forme della declinazione dei nomi in -mant e -vant so
 
     Esempi:
 
-    ::: indent
-    -t + bh- » -d-bh- द्भ्
+    :::indent
+    -t + bh- » -d-bh- ⟪द्भ्⟫
 
-    -k + bh- » -g-bh- ग्भ्
+    -k + bh- » -g-bh- ⟪ग्भ्⟫
 
-    -c + bh- » -g-bh- ग्भ्
+    -c + bh- » -g-bh- ⟪ग्भ्⟫
 
-    -c + dh- » -g-dh- ग्ध्
-    :::
-
-::::---
+    -c + dh- » -g-dh- ⟪ग्ध्⟫
+    :::::::---
 
 ## 13.7. Desinenze casuali delle radici consonantiche
 
@@ -157,19 +147,19 @@ Per le radici con terminazione consonantica:
 
 | | | Maschile || Neutro ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| Singolare[[br]]एकवचन | Nominativo[[br]]प्रथमा | paśu-mān[[br]]पशुमान् | guṇa-vān[[br]]गुणवान् | paśu-mat[[br]]पशुमत् | guṇa-vat[[br]]गुणवत् |
-| | Accusativo[[br]]द्वितीया | paśu-mant-am[[br]]पशुमन्तम् | guṇa-vant-am[[br]]गुणवन्तम् | paśu-mat[[br]]पशुमत् | guṇa-vat[[br]]गुणवत् |
-| | Strumentale[[br]]तृतीया | paśu-mat-ā[[br]]पशुमता | guṇa-vat-ā[[br]]गुणवता | paśu-mat-ā[[br]]पशुमता | guṇa-vat-ā[[br]]गुणवता |
-| Plurale[[br]]बहुवचन | Nominativo[[br]]प्रथमा | paśu-mant-as[[br]]पशुमन्तस् | guṇa-vant-as[[br]]गुणवन्तस् | paśu-mant-i[[br]]पशुमन्ति | guṇa-vant-i[[br]]गुणवन्ति |
-| | Accusativo[[br]]द्वितीया | paśu-mat-as[[br]]पशुमतस् | guṇa-vat-as[[br]]गुणवतस् | paśu-mant-i[[br]]पशुमन्ति | guṇa-vant-i[[br]]गुणवन्ति |
-| | Strumentale[[br]]तृतीया | paśu-mad-bhis[[br]]पशुमद्भिस् | guṇa-vad-bhis[[br]]गुणवद्भिस् | paśu-mad-bhis[[br]]पशुमद्भिस् | guṇa-vad-bhis[[br]]गुणवद्भिस् |
+| Singolare:br⟪एकवचन⟫ | Nominativo:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Accusativo:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Strumentale:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
+| Plurale:br⟪बहुवचन⟫ | Nominativo:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Accusativo:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Strumentale:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
 Femminile:
 
 Il tema femminile dei temi in -mant- e -vant- termina in -mat-ī o -vat-ī. La declinazione procede come in devī, cioè non vi è ablaut di tema.
 
 Esempio:
-* paśumatī, guṇavatī पशुमती गुणवती
+* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
 
 :::---
 
@@ -177,8 +167,8 @@ Esempio:
 
 Imparate le seguenti parole:
 
-- **eva** एव : enfatizza la parola precedente
-- **asura** m. असुर : demone
+- **eva** ⟪एव⟫ : enfatizza la parola precedente
+- **asura** m. ⟪असुर⟫ : demone
 
 > **ASURA.** 'Spirituale, divino.'
 >
@@ -194,82 +184,82 @@ Imparate le seguenti parole:
 
 :::media
 ![](/images/lekt1301.webp)
-Fig.: महिषासुरः
+Fig.: ⟪महिषासुरः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1301))
-:::- **guṇa** m. गुण : filo, corda; proprietà, buona proprietà
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna पद् पद्यते पद्यते पन्न : andare, cadere in
-- **as** 2 P (asti) अस् अस्ति : essere, essere presente
-- **as** 4 P (asyati), Pass.: asyate, PPP asta अस् अस्यति अस्यते अस्त : lanciare, (lontano-)gettare
-- **i** 2 P (eti), Pass.: īyate, PPP ita इ एति ईयते इत : andare
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta पा पाति पायते पात : proteggere, custodire
+:::- **guṇa** m. ⟪गुण⟫ : filo, corda; proprietà, buona proprietà
+- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : andare, cadere in
+- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : essere, essere presente
+- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : lanciare, (lontano-)gettare
+- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : andare
+- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : proteggere, custodire
 
 :::indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta पा पिबति पीयते पीत : bere (tradizionalmente calcolato alla 1. classe)
-:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa द्विष् द्वेष्टि द्विष्यते द्विष्ट : odiare, inimicarsi
-- **ad** 2 P (atti), Pass. adyate, PPP anna अद् अत्ति अद्यते अन्न : mangiare, consumare
-- **anna** n. अन्न : cibo (da PPP: *ad-na: il mangiato)
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : bere (tradizionalmente calcolato alla 1. classe)
+:::- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : odiare, inimicarsi
+- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : mangiare, consumare
+- **anna** n. ⟪अन्न⟫ : cibo (da PPP: *ad-na: il mangiato)
 
 :::media
 ![](/images/lekt1304.webp)
-Fig.: अन्नम्
+Fig.: ⟪अन्नम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1304))
 :::Formazione delle parole:
 
 pad 4 Ā:
 
 :::indent
-**pada** n. पद : passo, posizione, luogo
+**pada** n. ⟪पद⟫ : passo, posizione, luogo
 
-**pāda** m. पाद : piede, una quarta parte, verso
+**pāda** m. ⟪पाद⟫ : piede, una quarta parte, verso
 ::::::media
 ![](/images/lekt1303.webp)
-Fig.: चत्वारः पादाः : गजः
+Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1303))
 :::dviṣ 2 U:
 
 :::indent
-**dveṣa** द्वेष : odio
+**dveṣa** ⟪द्वेष⟫ : odio
 :::---
 
 ## 13.10. Esercizio
 
 A) Tradurre e trasformare in frasi al presente attivo:
 
-१. अग्निना गृहं दग्धम् ।
-२. बुद्धेन सत्यं बुद्धम् ।
-३. बोध्या गौतमो मुक्तः ।
+⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
+⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
+⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
 
 :::media
 ![](/images/lekt1305.webp)
-Fig.: अत्र गौतमो बुद्धो बोध्या मुक्तः
+Fig.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1305))
-:::४. शूद्रा मूढाः । (2 possibilità)
-५. ब्राह्मणेन मोक्ष इष्टः ।
-६. रामेण पुण्यं कृतम् ।
-७. ऋषिभिः सत्यमेवोदितमित्युदितम् ।
-८. धर्मेण स्वर्गं नीतम् ।
-९. साधुनाधर्मो न कृतम् ।
-१०. मन्त्रेण मोक्षो लब्धः ।
-११. कया रक्षिकयेयं बाला रक्षिता ॥
+:::⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 possibilità)
+⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
+⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
+⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
+⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
+⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
+⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
+⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
 
 B) Tradurre e trasformare in frasi al passato passivo:
 
-१. राम इष्टमपि मोक्षं न लभते ।
-२. योद्धा न मुञ्चति ।
-३. साधवो देवान्स्मरन्ति ।
-४. पुण्यवान्पुत्रो देवान् यजते ।
-५. सुखवान्क्षत्रियो धर्मं रक्षति ।
-६. पुत्रवान्नरकं न गच्छति ।
-७. धर्मवती पापं न करोतीति गुरुर्वदति ।
-८. बुद्धिमन्तः सत्यवतो धर्मं पृच्छन्ति ।
-९. धर्मवन्तः फलवत्पुण्यं कुर्वन्ति ।
-१०. ब्राह्मणा गुणवतः पुत्रानिच्छन्ति ।
-११. कयर्ग्वेदं शृण्वन्ति ।
-१२. किमीश्वरः सृजति ।
-१३. साधुः कृतं पापं सहते ।
-१४. पार्थिवो धनमिच्छतीति नीचा मन्यन्ते ।
-१५. नैवासुरो जयतीत्यृषयः पश्यन्ति ।
-१६. ब्राह्मणाः किं पिबन्ति खादन्ति च ॥
+⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
+⟪२⟫. ⟪योद्धा⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
+⟪३⟫. ⟪साधवो⟫ ⟪देवान्स्मरन्ति⟫ ⟪।⟫
+⟪४⟫. ⟪पुण्यवान्पुत्रो⟫ ⟪देवान्⟫ ⟪यजते⟫ ⟪।⟫
+⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
+⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫
+⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫
+⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪।⟫
+⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
+⟪११⟫. ⟪कयर्ग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
+⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
+⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
+⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
+⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
+⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
 
 ---
 
@@ -277,20 +267,20 @@ B) Tradurre e trasformare in frasi al passato passivo:
 
 A) Tradurre le seguenti frasi:
 
-१. रामो मार्गेण ग्रामं गच्छति ।
-२. नरा धनेन सुखमिच्छन्ति ।
-३. नरः पुत्रेण नगरं पद्यते ।
-४. देवो लोकान्सृजति ।
-५. बाला जलं पिबति ।
-६. कवयो धनं लुभ्यन्ति ।
-७. बलवान्क्षत्रियः शूद्राञ्जयति ।
-८. गुणवान् द्विष्टमपि शत्रुं न युध्यते ।
-९. अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिर्वदति ।
-१०. बाला अन्नेन बलमाप्नुवन्ति ।
-११. बुद्धिमन्तः सत्येन मोक्षं लभन्ते ।
-१२. इमाः साध्व्यः पापं सहन्ते ।
-१३. कां देवतामृषिः पश्यति ।
-१४. कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।
+⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
+⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
+⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
+⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
+⟪५⟫. ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫
+⟪६⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
+⟪७⟫. ⟪बलवान्क्षत्रियः⟫ ⟪शूद्राञ्जयति⟫ ⟪।⟫
+⟪८⟫. ⟪गुणवान्⟫ ⟪द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫
+⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
+⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
+⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्येन⟫ ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
+⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
+⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
+⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
 
 B) Mettere le frasi dell'esercizio A) al passivo.
 
@@ -298,7 +288,7 @@ C) Formare una costruzione PPP per le frasi dell'esercizio A).
 
 :::media
 ![](/images/lekt1302.webp)
-Fig.: सत्यमेव जयते
+Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1302))
 :::D) Da quali combinazioni di suoni possono essere derivate le seguenti forme Sandhi? Fornire tutte le possibilità:
 

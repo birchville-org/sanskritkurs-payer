@@ -14,14 +14,14 @@ last_reconstructed: 2026-04-30
 :::grammar-box
 **Schema: Nume predicativ - Subiect**
 
-de ex. devo viṣṇuḥ = देवो विष्णुः = "Viṣṇu este un zeu."
+de ex. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu este un zeu."
 :::O copulă verbală ("este", "sunt", "sunt", "ești", "sunteți") nu este necesară, dar poate apărea uneori.
 
-Nu există **articole**: **devaḥ** -- देवः poate însemna "zeul" sau "un zeu".
+Nu există **articole**: **devaḥ** -- ⟪देवः⟫ poate însemna "zeul" sau "un zeu".
 
 Deși în sanscrită ordinea cuvintelor în propoziție este destul de liberă (în special în versuri), la traducerea unei propoziții nominale trebuie întotdeauna să se ia în considerare în primul rând o traducere conform schemei standard de mai sus.
 
-În propoziția nominală, subiectul este la nominativ (primul caz = **prathamā** f. = प्रथमा). Numele predicativ se acordă cu subiectul în număr și caz; dacă numele predicativ este un adjectiv, se acordă și în gen.
+În propoziția nominală, subiectul este la nominativ (primul caz = **prathamā** f. = ⟪प्रथमा⟫). Numele predicativ se acordă cu subiectul în număr și caz; dacă numele predicativ este un adjectiv, se acordă și în gen.
 
 ---
 
@@ -29,46 +29,46 @@ Deși în sanscrită ordinea cuvintelor în propoziție este destul de liberă (
 
 În sanscrită există:
 
-- **trei numere** (forme de număr) = **vacana** n. -- वचन
-  - Singular (numărul unu) = **ekavacana** n. -- एकवचन
-  - Dual (numărul doi) = **dvivacana** n. -- द्विवचन
-  - Plural (numărul plural) = **bahuvacana** n. -- बहुवचन
-- **trei genuri** (genuri gramaticale) = **liṅga** n. / **vyakti** f. -- लिङ्ग / व्यक्ति
-  - Masculin (genul masculin) = **puṃs** m. -- पुंस्
-  - Feminin (genul feminin) = **strī** f. -- स्त्री
-  - Neutru (genul neutru) = **napuṃsaka** n. -- नपुंसक
-- **opt cazuri** (cazuri gramaticale) = **sup** -- सुप् (= terminații de caz)
+- **trei numere** (forme de număr) = **vacana** n. -- ⟪वचन⟫
+  - Singular (numărul unu) = **ekavacana** n. -- ⟪एकवचन⟫
+  - Dual (numărul doi) = **dvivacana** n. -- ⟪द्विवचन⟫
+  - Plural (numărul plural) = **bahuvacana** n. -- ⟪बहुवचन⟫
+- **trei genuri** (genuri gramaticale) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
+  - Masculin (genul masculin) = **puṃs** m. -- ⟪पुंस्⟫
+  - Feminin (genul feminin) = **strī** f. -- ⟪स्त्री⟫
+  - Neutru (genul neutru) = **napuṃsaka** n. -- ⟪नपुंसक⟫
+- **opt cazuri** (cazuri gramaticale) = **sup** -- ⟪सुप्⟫ (= terminații de caz)
 
-La declinare se adaugă terminațiile de caz (**sup** = सुप्) la ceea ce se numește **tulpina nominală** (forma substantivului fără terminațiile de caz).
+La declinare se adaugă terminațiile de caz (**sup** = ⟪सुप्⟫) la ceea ce se numește **tulpina nominală** (forma substantivului fără terminațiile de caz).
 
-Exemplu: **devas** = देवस् (Nominativ Singular Masculin) "zeul/un zeu" = **deva-** -- देव- (tulpina nominală) + **-s** -- -स् (terminație de caz).
+Exemplu: **devas** = ⟪देवस्⟫ (Nominativ Singular Masculin) "zeul/un zeu" = **deva-** -- ⟪देव⟫- (tulpina nominală) + **-s** -- -⟪स्⟫ (terminație de caz).
 
 În dicționarele de sanscrită, substantivele sunt indicate în **tulpina nominală**:
-- **deva** m. -- देव m. (masculin)
-- **vacana** n. -- वचन n. (neutru)
-- **vyakti** f. -- व्यक्ति f. (feminin)
+- **deva** m. -- ⟪देव⟫ m. (masculin)
+- **vacana** n. -- ⟪वचन⟫ n. (neutru)
+- **vyakti** f. -- ⟪व्यक्ति⟫ f. (feminin)
 
 ---
 
 ## 2.3. Nominativul singular
 
-**Nominativul singular = prathamā ekavacanam = प्रथमा एकवचनम्**
+**Nominativul singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
 :::grammar-box
-**Nominativul singular se termină în -s = -स् sau este lipsit de terminație.**
+**Nominativul singular se termină în -s = -⟪स्⟫ sau este lipsit de terminație.**
 :::### 2.3.1. Nominativul singular terminat în -s
 
 Următoarele rădăcini nominale, care se termină cu o vocală, formează nominativul singular în **-s**:
 
 :::grammar-box
-**Masculine pe -a:** ex. deva m. = देव "zeu" -- Nom. sg.: devas = देवस्
-**Masculine pe -i:** ex. kavi m. = कवि "poet" -- Nom. sg.: kavis = कविस्
-**Masculine pe -u:** ex. guru m. = गुरु "profesor" -- Nom. sg.: gurus = गुरुस्
+**Masculine pe -a:** ex. deva m. = ⟪देव⟫ "zeu" -- Nom. sg.: devas = ⟪देवस्⟫
+**Masculine pe -i:** ex. kavi m. = ⟪कवि⟫ "poet" -- Nom. sg.: kavis = ⟪कविस्⟫
+**Masculine pe -u:** ex. guru m. = ⟪गुरु⟫ "profesor" -- Nom. sg.: gurus = ⟪गुरुस्⟫
 :::---
 
-## 2.4. Sandhi -- सन्धि
+## 2.4. Sandhi -- ⟪सन्धि⟫
 
-În sanscrită, finalul unui cuvânt este determinat, de asemenea, de inițialul cuvântului următor. Acest fenomen se numește **Sandhi** (m.) = सन्धि ("legătură").
+În sanscrită, finalul unui cuvânt este determinat, de asemenea, de inițialul cuvântului următor. Acest fenomen se numește **Sandhi** (m.) = ⟪सन्धि⟫ ("legătură").
 
 ### 2.4.1. Sandhi al sunetului -s
 
@@ -79,45 +79,45 @@ Vedeți, de asemenea, rezumatul:
 Sunetul final **-s**:
 
 - **în poziție absolut finală** (sfârșit de propoziție) devine **Visarga (-ḥ)**:
-  - **devas** = देवस् » **devaḥ** = देवः
-  - **kavis** = कविस् » **kaviḥ** = कविः
-  - **gurus** = गुरुस् » **guruḥ** = गुरुः
+  - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
+  - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
+  - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
 - **înaintea sunetelor surde**:
   - înaintea **k, kh, p, ph** și **ś, ṣ, s**: devine **Visarga (-ḥ)**
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = देवः शिवः ("Śiva este un zeu")
+    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva este un zeu")
   - înaintea **c, ch**: devine **-ś**
   - înaintea **ṭ, ṭh**: devine **-ṣ**
   - înaintea **t, th**: rămâne **-s**
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = साधुश्चैतन्यः ("Caitanya este un sfânt")
+    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya este un sfânt")
 
 - **înaintea sunetelor sonore**:
   - după vocalele care nu sunt 'a': devine **-r**
-    - **kavis + Māghas** » **kavir māghaḥ** = कविर्माघः ("Māgha este un poet")
+    - **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha este un poet")
   - după vocalele care nu sunt 'a' înaintea **r-**: **-s** dispare, vocala se prelungește.
-    - **gurus + rāmas** » **gurū rāmaḥ** = गुरू रामः ("Rāma este un învățător")
+    - **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("Rāma este un învățător")
   - după **a-**: **-as**
-    - înaintea consoanelor sonore/a: devine **-o** (vocala inițială 'a' dispare » ऽ)
-      - **devas viṣṇus** » **devo viṣṇuḥ** = देवो विष्णुः
-      - **devas agnis** » **devo 'gniḥ** = देवो ऽग्निः
+    - înaintea consoanelor sonore/a: devine **-o** (vocala inițială 'a' dispare » ⟪ऽ⟫)
+      - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
+      - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
     - înaintea altor vocale: devine **-a** (hiat)
-      - **devas + indras** » **deva indraḥ** = देव इन्द्रः
+      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
 
 ---
 
 ## 2.5. Listă de cuvinte
 
-**deva** m. -- देव : Cerească, zeu; prinț, rege.
+**deva** m. -- ⟪देव⟫ : Cerească, zeu; prinț, rege.
 
-**īśvara** m. -- ईश्वर : Stăpân, conducător, zeu (monoteist).
+**īśvara** m. -- ⟪ईश्वर⟫ : Stăpân, conducător, zeu (monoteist).
 
-**brāhmaṇa** m. -- ब्राह्मण : Brahman (clericală).
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahman (clericală).
 
-**kṣatriya** m. -- क्षत्रिय : Kṣatriya (clasa nobilimii și a apărării).
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (clasa nobilimii și a apărării).
 
-**vaiśya** m. -- वैश्य : Vaiśya (clasa producătorilor și a comercianților).
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (clasa producătorilor și a comercianților).
 
-**śūdra** m. -- शूद्र : Śūdra (clasa serviciilor).
+**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (clasa serviciilor).
 
 :::tip Cele patru caste (varna)
 Conform teoriei clasice (de ex. Manusmṛti I, 88-91), sarcinile sunt distribuite:
@@ -145,9 +145,9 @@ Conform teoriei clasice (de ex. Manusmṛti I, 88-91), sarcinile sunt distribuit
   - studierea Vedelor
 - **a șudrelor**
   - slujirea celor trei clase superioare
-:::**dvija** m. -- द्विज : "De două ori născut" (inițiații celor trei caste superioare: Brāhmaṇa, Kṣatriya, Vaiśya).
+:::**dvija** m. -- ⟪द्विज⟫ : "De două ori născut" (inițiații celor trei caste superioare: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- वर्ण : Culoare, caste de naștere (tendință).
+**varṇa** m. -- ⟪वर्ण⟫ : Culoare, caste de naștere (tendință).
 
 Cele patru caste (**varṇa** m.) sunt adesea confundate cu castele. Dar cele patru caste, spre deosebire de caste, nu sunt ceva specific indienilor; și în Europa am avut (parțial până la Primul Război Mondial) o ordine de caste, așa cum atestă următoarea imagine din secolul al XV-lea:
 
@@ -185,25 +185,25 @@ Orice societate castală este convențională, ordonată prin reguli de conduit�
 [**Weber, Max &lt;1864 – 1920&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::Varṇas sunt, în consecință, caste de naștere.
 
-**kavi** m. -- कवि: poet.
+**kavi** m. -- ⟪कवि⟫: poet.
 
-**agni** m. -- अग्नि: foc, zeul Agni.
+**agni** m. -- ⟪अग्नि⟫: foc, zeul Agni.
 
 :::media
 ![](/images/lekt0203.jpg)
 Fig.: Zeul Agni, miniatură, sec. al XVIII-lea.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0203))
-:::**sādhu** 3 -- साधु: corect, bun.
+:::**sādhu** 3 -- ⟪साधु⟫: corect, bun.
 
-**sādhu** m. -- साधु: om »sfânt«, Sādhu.
+**sādhu** m. -- ⟪साधु⟫: om »sfânt«, Sādhu.
 
 :::media
 ![](/images/lekt0202.webp)
-Fig.: Sādhu (साधु), Templul Pashupatinath, Kathmandu.
+Fig.: Sādhu (⟪साधु⟫), Templul Pashupatinath, Kathmandu.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0202))
-:::**guru** 3 -- गुरु: greu, important, demn de venerare
+:::**guru** 3 -- ⟪गुरु⟫: greu, important, demn de venerare
 
-**guru** m. -- गुरु: persoană demnă de venerare: tată, mamă, rudă mai în vârstă, în special învățător, maestru
+**guru** m. -- ⟪गुरु⟫: persoană demnă de venerare: tată, mamă, rudă mai în vârstă, în special învățător, maestru
 
 ---
 
@@ -212,17 +212,17 @@ Fig.: Sādhu (साधु), Templul Pashupatinath, Kathmandu.
 **A) Introduceți ținând cont de Sandhi și formați propoziții nominale:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
-   = देवस् ... (शिव, अग्नि, विष्णु, गणेश, कृष्ण, इन्द्र)
+   = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
-   = द्विजस् ... (ब्राह्मण, क्षत्रिय, वैश्य)
+   = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
 3. **gurus ... (brāhmaṇa, Candrakīrti)**
-   = गुरुस् ... (ब्राह्मण, चन्द्रकीर्ति)
+   = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
 4. **vaiśyas ... (Tulādhara)**
-   = वैश्यस् ... (तुलाधर)
+   = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
 5. **sādhus ... (guru, Rāma)**
-   = साधुस् ... (गुरु, राम)
+   = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
 6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
-   = कविस् ... (कालिदास, माघ, भारवि, हर्षदेव)
+   = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
 **B) Traduceți în sanscrită:**
 

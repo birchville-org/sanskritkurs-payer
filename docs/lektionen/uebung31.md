@@ -29,19 +29,17 @@ Wer Einsicht hat, wird vom Leiden befreit; deshalb soll jemand, der Erlösung w�
 (⟪मोहेन⟫ ⟪सहितः⟫ ⟪।⟫ ⟪शोभनं⟫ ⟪रूपं⟫ ⟪यासां⟫ ⟪ताः⟫ ⟪।⟫ ⟪वीतो⟫ ⟪मोहो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫)
 Ein Verblendeter genießt gute Speisen und schöne Frauen. Wessen Verblendung verschwunden ist, begehrt keine gute Speise und keine Frau mit vollkommenem Körper. Er verhindert nämlich Gier und Hass und konzentriert sich auf die Einsicht.
 
-::: media
+:::media
 ![](/images/uebung049.webp)
 Abb.: ⟪कुलबन्धनम्⟫
 (Bildquelle: [Details](/licenses#uebung049))
-:::
-
----
+:::---
 
 ## Verbparadigmen (7. Klasse)
 
 B) Bilden Sie zu folgenden Wurzeln der 7. Klasse die 3. Personen Singular und Plural (P und Ā) des Indikativ und Optativ Präsens:
 
-::: grammar-box
+:::grammar-box
 ### ⟪१⟫. **⟪छिद्⟫** (spalten)
 
 | Modus | P Sg. | P Pl. | Ā Sg. | Ā Pl. |

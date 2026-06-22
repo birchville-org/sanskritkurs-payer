@@ -69,7 +69,7 @@ Vokativ sg. der Maskulina / Neutra auf -a lautet auf -a: z.B. ⟪देव⟫ "G
 
 ⟪सर्व⟫ 3 "alle, ganz" (dekliniert nach Pronominaldeklination)
 
-:::: media
+:::media
 ![](/images/uebung057.jpg)
 Abb.: ⟪तिलप्रमाणम्⟫
 (Bildquelle: [Details](/licenses#uebung057))

@@ -12,11 +12,11 @@
 
 ### Punctuație
 
-Sfârșitul unei propoziții este indicat în proză cu | (ardhadanḍa, masculin). În versuri, | indică sfârșitul hemistihului, iar sfârșitul strofei este indicat prin || (danḍa, masculin). În proză, || indică o pauză mai mare (de exemplu, sfârșitul unui paragraf). Numărarea versurilor se plasează între două ||, de exemplu: ||१||.
+Sfârșitul unei propoziții este indicat în proză cu | (ardhadanḍa, masculin). În versuri, | indică sfârșitul hemistihului, iar sfârșitul strofei este indicat prin || (danḍa, masculin). În proză, || indică o pauză mai mare (de exemplu, sfârșitul unui paragraf). Numărarea versurilor se plasează între două ||, de exemplu: ||⟪१⟫||.
 
 ### Abrevieri
 
-Semnele de abreviere (de exemplu, în mențiunile de opere) sunt °, de ex. पा° = pā(ṇinīye) = „În lucrarea gramaticală a lui Pāṇini”.
+Semnele de abreviere (de exemplu, în mențiunile de opere) sunt °, de ex. ⟪पा⟫° = pā(ṇinīye) = „În lucrarea gramaticală a lui Pāṇini”.
 
 ### Alte vocale în poziție inițială
 
@@ -34,4 +34,4 @@ A) Scrieți în Devanāgarī:
 
 B) Citiți și transliterați:
 
-ए इ उ अ ऋ ई ऊ ओ ऐ आ औ ॠ अथ इष् उत् एक इन् ओत् अद् ऐश ऋध् ऊह् एध् ईश् उद्य औम् ऋण ऊढ इह उष् अद् अल् ॐ ओख् ऋच् ऐण उदङ् ऋणम् ईषत् ऊहनम् ऋषभ औषधम् ऐषमस् उपकरणम् ||
+⟪ए⟫ ⟪इ⟫ ⟪उ⟫ ⟪अ⟫ ⟪ऋ⟫ ⟪ई⟫ ⟪ऊ⟫ ⟪ओ⟫ ⟪ऐ⟫ ⟪आ⟫ ⟪औ⟫ ⟪ॠ⟫ ⟪अथ⟫ ⟪इष्⟫ ⟪उत्⟫ ⟪एक⟫ ⟪इन्⟫ ⟪ओत्⟫ ⟪अद्⟫ ⟪ऐश⟫ ⟪ऋध्⟫ ⟪ऊह्⟫ ⟪एध्⟫ ⟪ईश्⟫ ⟪उद्य⟫ ⟪औम्⟫ ⟪ऋण⟫ ⟪ऊढ⟫ ⟪इह⟫ ⟪उष्⟫ ⟪अद्⟫ ⟪अल्⟫ ⟪ॐ⟫ ⟪ओख्⟫ ⟪ऋच्⟫ ⟪ऐण⟫ ⟪उदङ्⟫ ⟪ऋणम्⟫ ⟪ईषत्⟫ ⟪ऊहनम्⟫ ⟪ऋषभ⟫ ⟪औषधम्⟫ ⟪ऐषमस्⟫ ⟪उपकरणम्⟫ ||

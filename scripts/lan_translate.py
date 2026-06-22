@@ -1015,10 +1015,18 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
     """Translate a single file with mtime-based skip and chunking. Returns True on success."""
     filename = os.path.basename(source_path)
     if not force and os.path.exists(target_path) and os.path.getsize(target_path) > 500:
-        if os.path.getmtime(target_path) > os.path.getmtime(source_path):
+        with open(target_path, 'r', encoding='utf-8') as tf:
+            target_content = tf.read()
+        has_fallback = "Fallback translation" in target_content
+
+        if not has_fallback and os.path.getmtime(target_path) > os.path.getmtime(source_path):
             print(f"[{lang}] Skipping {filename} (up to date).")
             return True
-        print(f"[{lang}] Outdated {filename} — re-translating...")
+        
+        if has_fallback:
+            print(f"[{lang}] Fallback tags detected in {filename} — forcing re-translation...")
+        else:
+            print(f"[{lang}] Outdated {filename} — re-translating...")
 
     print(f"[{lang}] Translating {filename}...")
     with open(source_path, encoding="utf-8") as f:

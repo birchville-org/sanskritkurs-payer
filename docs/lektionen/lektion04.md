@@ -9,33 +9,28 @@ status: stable
 
 # Lektion 4
 
-::: deleteme-box
+:::deleteme-box
 **In dieser Lektion lernen Sie:**
 - Fragepronomina und Demonstrativpronomina im Nominativ
 - Sandhi von auslautendem -m
 - Sandhi von auslautendem -e
 - Sandhi von auslautendem -d
 - Einfache Frageformeln
-:::
-
-## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
+:::## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
 
 ### 4.1.1. Fragepronomina und Demonstrativpronomina
 
 #### 4.1.1.1. Fragepronomen (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
-::: grammar-box
+:::grammar-box
 | | Nominativ singular | Nominativ plural |
 | :--- | :--- | :--- |
 | **Neutrum** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
 | **Maskulinum** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
 | **Feminimum** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
-:::
+:::#### 4.1.1.2. Demonstrativpronomina (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
-
-#### 4.1.1.2. Demonstrativpronomina (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
-
-::: grammar-box
+:::grammar-box
 | **Stämme** ||||
 | :--- | :---: | :---: | :---: |
 | | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
@@ -47,10 +42,7 @@ status: stable
 | **Neutrum** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
 | **Maskulinum** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
 | **Femininum** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
-:::
-
-
-**Zum Nom. sg. mask.:**
+:::**Zum Nom. sg. mask.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) steht vor allen Lauten außer kurzem **-a**
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) steht vor **-a**, welches mit Avagraha elidiert (ausfällt)
 - **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) steht nur in Pausa (Satzende, Versende)
@@ -59,34 +51,28 @@ Um mit diesen Pronomina (sarvanāman n.) Sätze bilden zu können, ist noch die 
 
 ### 4.1.2. Sandhi von auslautendem -m
 
-::: grammar-box
+:::grammar-box
 **Auslautendes -m wird vor Konsonanten durch Anusvāra (-ṃ) ersetzt. Am Satz- bzw. Versende und vor Vokalen bleibt -m erhalten.**
-:::
+:::### 4.1.3. Sandhi von auslautendem -e
 
-### 4.1.3. Sandhi von auslautendem -e
-
-::: grammar-box
+:::grammar-box
 1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:**
    z.B. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Diese Feuer"
 
 2. **Vor anderen Vokalen als kurzem a- wird -e gewöhnlich durch -a mit Hiatus ersetzt. Auch die Ersetzung durch -ay kommt vor:**
    z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (selten: imay īśvarāh = ⟪इमयीश्वराः⟫) "Diese HERREN"
-:::
+:::### 4.1.4. Sandhi von auslautendem -d
 
-### 4.1.4. Sandhi von auslautendem -d
-
-::: grammar-box
+:::grammar-box
 **Auslautendes -d wird in Pausa sowie vor stimmlosen Gutturalen (k, kh) und Labialen (p, ph) durch -t ersetzt.**
 
 Die Ersetzung vor anderen Konsonanten wird später besprochen. Vermeiden Sie vorläufig solche Lautzusammenstöße!
-:::
-
-### 4.1.5. Frageformeln
+:::### 4.1.5. Frageformeln
 
 Mittels dieser Pronomina bildet man z.B. folgende Frageformeln:
 
-:::: grammar-box
-::: no-header
+:::grammar-box
+:::no-header
 | | | | |
 | :--- | :--- | :--- | :--- |
 | **Singular** | **Neutrum** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Was ist das?" |
@@ -95,11 +81,7 @@ Mittels dieser Pronomina bildet man z.B. folgende Frageformeln:
 | **Plural** | **Neutrum** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
 | | **Maskulinum** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
 | | **Femininum** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
-:::
-::::
-
-
-Ein Beispiel anderer Fragen:
+::::::Ein Beispiel anderer Fragen:
 
 > viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Antwort: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hier kann man im Nominalsatz das Subjekt z.B. an den Anfang stellen, um den Anschluss an die Frage zu betonen.)
 
@@ -117,7 +99,7 @@ ANMERKUNG: Die Antworten, die Sie mit Ihren bisherigen Sanskritkenntnissen auf s
 
 **B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (⟪एतत्किम्⟫) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):**
 
-::: media
+:::media
 ![](/images/lekt0401.webp)
 (Bildquelle: [Details](/licenses#lekt0401))
 :::

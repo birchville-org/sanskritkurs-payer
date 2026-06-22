@@ -138,7 +138,7 @@ C) Futur optional mit und ohne **-i-**:
 
 ⟪३⟫. **⟪अश्नुवते⟫** (im Futur Parasmaipada) — ⟪अशिष्यन्ति⟫ / ⟪अक्ष्यन्ति⟫
 
-::: media
+:::media
 ![](/images/uebung043.webp)
 Abb.: ⟪अविपालो⟫ ⟪ऽविं⟫ ⟪रक्षति⟫
 (Bildquelle: [Details](/licenses#uebung043))

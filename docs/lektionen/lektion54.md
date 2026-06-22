@@ -19,27 +19,23 @@ Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bis
 
 ## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
 
-:::: grammar-box
+:::grammar-box
 **An Desiderativstämme (⟪इच्छाप्रकृति⟫) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.**
 
 (Bildung der Desiderativstämme folgt später)
 
 Beispiel:
 
-::: indent
+:::indent
 ⟪युयुत्सु⟫ (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen"
-:::
-::::
-
-::: media
+:::::::::media
 ![](/images/lekt5402.webp)
 Abb.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
 (Bildquelle: [Details](/licenses#lekt5402))
-:::
-## 54.3. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
+:::## 54.3. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
 
-:::: grammar-box
+:::grammar-box
 Die ⟪त्रिष्टुभ्⟫ ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen ⟪श्लोक⟫-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren.
 
 Die ⟪त्रिष्टुभ्⟫-Strophe besteht aus vier elfsilbigen ⟪पाद⟫, die sich im Bau nicht voneinander unterscheiden.
@@ -48,77 +44,55 @@ Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob 
 
 Schema I:
 
-::: metrik-schema
-× — × — / × ◡ — ***— ◡ — —***
-:::
+:::metrik-schema
+× — × — / × ◡ — **— ◡ — —**
+:::Schema II:
 
-Schema II:
-
-::: metrik-schema
-× — × — × / × ◡ ***— ◡ — —***
-:::
-
-Die Quantität der vier letzten Silben ist also in beiden Schemata gleich.
+:::metrik-schema
+× — × — × / × ◡ **— ◡ — —**
+:::Die Quantität der vier letzten Silben ist also in beiden Schemata gleich.
 
 ⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten:
 
-::: metrik-schema
-***— ◡ — ◡ —***
-:::
+:::metrik-schema
+**— ◡ — ◡ —**
+:::Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied:
 
-Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied:
-
-::: metrik-schema
-— × — × / × ◡ — ***— ◡ — —***
-:::
-
-In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
+:::metrik-schema
+— × — × / × ◡ — **— ◡ — —**
+:::In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
-***—*** — ◡ — , — ◡ ◡ — ◡ — —
-:::
+:::metrik-schema
+**—** — ◡ — , — ◡ ◡ — ◡ — —
+:::b) ⟪उपेन्द्रवज्रा⟫
 
-b) ⟪उपेन्द्रवज्रा⟫
+:::metrik-schema
+**◡** — ◡ — , — ◡ ◡ — ◡ — —
+:::c) ⟪उपजाति⟫
 
-::: metrik-schema
-***◡*** — ◡ — , — ◡ ◡ — ◡ — —
-:::
-
-c) ⟪उपजाति⟫
-
-::: indent
+:::indent
 ⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ und ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sind in eine Strophe gemischt.
-:::
-::::
-
-:::: grammar-box
+:::::::::grammar-box
 **Merkverse:**
 
 **⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
 
-::: indent
+:::indent
 "Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind.
-:::
+:::⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
-⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
-
-::: indent
+:::indent
 "Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat"
-:::
-
-⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
+:::⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
 ⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
 ⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
 ⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
-::: indent
+:::indent
 "Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti."
-:::
-::::
-
-## 54.4. Übung zur Metrik
+::::::## 54.4. Übung zur Metrik
 
 Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 
@@ -126,50 +100,43 @@ Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3]
 
 ## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
 
-::: grammar-box
+:::grammar-box
 **Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.**
 
 Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich.
-:::
-
-::: grammar-box
+::::::grammar-box
 **Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):**
 
 1.  Nichtsibilantische (asigmatische) Aoriste: 
     *   54.1. Wurzelaorist: Augment + Wurzel + Sekundärendung
-    *   54.2. Themavokalischer Aorist: Augment + Wurzel + ***a*** + Sekundärendung
-    *   54.3. Reduplizierter Aorist: Augment + ***reduplizierte*** Wurzel + ***a*** + Sekundärendung 
+    *   54.2. Themavokalischer Aorist: Augment + Wurzel + **a** + Sekundärendung
+    *   54.3. Reduplizierter Aorist: Augment + **reduplizierte** Wurzel + **a** + Sekundärendung 
 2.  Sibilantische (sigmatische Aoriste: s oder eine Silbe, die s (ṣ) enthält tritt vor die Personalendung 
-    *   54.4. -s-Aorist: Augment + Wurzel + ***s*** \+ Sekundärendung
-    *   54.5. -iṣ-Aorist: Augment + Wurzel + ***i*** + ***ṣ*** + Sekundärendung
-    *   54.6. -siṣ-Aorist: Augment + Wurzel + ***siṣ*** + Sekundärendung
-    *   54.7. -sa-Aorist: Augment + Wurzel + ***s*** + ***a*** + Sekundärendung
+    *   54.4. -s-Aorist: Augment + Wurzel + **s** \+ Sekundärendung
+    *   54.5. -iṣ-Aorist: Augment + Wurzel + **i** + **ṣ** + Sekundärendung
+    *   54.6. -siṣ-Aorist: Augment + Wurzel + **siṣ** + Sekundärendung
+    *   54.7. -sa-Aorist: Augment + Wurzel + **s** + **a** + Sekundärendung
 
 Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen Typen
-:::
-## 54.6. Wurzelaorist
+:::## 54.6. Wurzelaorist
 
-::: grammar-box
+:::grammar-box
 **Bildung:**
 
 **Augment + Wurzel + Sekundärendung**
-:::
-
-Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich.
+:::Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich.
 
 Beispiel:
 
 ⟪पा⟫ 1P "trinken"
 
-::: grammar-box
+:::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
-:::
-
-Nur von 12 Wurzeln wird der Wurzelaorist gebildet:
+:::Nur von 12 Wurzeln wird der Wurzelaorist gebildet:
 
 1.  ⟪गा⟫ 3 "gehen"
 2.  ⟪घ्रा⟫ 1P "riechen"
@@ -186,19 +153,17 @@ Nur von 12 Wurzeln wird der Wurzelaorist gebildet:
 
 Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet:
 
-::: grammar-box
+:::grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
-:::
-
-### 54.6.1. Der Aorist der 3.sg.Passiv
+:::### 54.6.1. Der Aorist der 3.sg.Passiv
 
 Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden.
 
-::: grammar-box
+:::grammar-box
 **Bildung:**
 
 **Augment + Wurzel + i**
@@ -248,9 +213,7 @@ Nasalinfix:
     
 
 (Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben).
-:::
-
-## 54.7. Übung
+:::## 54.7. Übung
 
 Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen:
 
@@ -278,14 +241,12 @@ Nasalinfix:
 22.  ⟪गीयते⟫
 23.  ⟪गम्यते⟫
 
-::: media
+:::media
 ![](/images/lekt5401.webp)
 Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Bildquelle: [Details](/licenses#lekt5401))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Bildquelle: Raji Srinivas / Wikipedia. GNU FDLicense]
 

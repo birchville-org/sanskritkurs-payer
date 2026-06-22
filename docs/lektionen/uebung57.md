@@ -12,7 +12,7 @@ last_reconstructed: 2026-05-15
 
 Übersetzen und bestimmen Sie die folgenden Formen und bilden Sie die entsprechenden Formen des **Aorists**. Außer bei Kausativen und Wurzeln, die den **s-Aorist** bilden, ist in Klammern die Klasse des entsprechenden Aorists angegeben:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung / Bedeutung | Aorist |
 |:---|:---|:---|:---|
 | ⟪१⟫. | **⟪पेचिथ⟫** | *⟪पच्⟫* 1U: 2. Sg. Perf. P. (du gartest) | **⟪अपाक्षीः⟫** |
@@ -40,21 +40,17 @@ last_reconstructed: 2026-05-15
 | ⟪२३⟫. | **⟪निन्य⟫** | *⟪नी⟫* 1U: 2. Pl. Perf. P. (ihr habt geführt) | **⟪अनैष्ट⟫** |
 | ⟪२४⟫. | **⟪कर्षन्ति⟫** | *⟪कृष्⟫* 1P: 3. Pl. Ind. Präs. P. (sie ziehen) | **⟪अकार्क्षुः⟫ / ⟪अक्राक्षुः⟫** |
 | ⟪२५⟫. | **⟪अप्रच्छयन्⟫** | *⟪प्रच्छ्⟫* 6P: 3. Pl. Impf. P. Kaus. (sie ließen fragen) | **⟪अपप्रच्छन्⟫** |
-:::
-
-::: media
+::::::media
 ![](/images/uebung090.webp)
 Abb.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Bildquelle: [Details](/licenses#uebung090))
-:::
-
----
+:::---
 
 ## B) Wortbestimmungen
 
 Bestimmen und übersetzen Sie die folgenden Formen:
 
-::: grammar-box
+:::grammar-box
 | Nr. | Form | Bestimmung / Bedeutung |
 |:---|:---|:---|
 | ⟪१⟫. | **⟪चेलुः⟫** | *⟪चल्⟫* 1P: 3. Pl. Perf. P. (sie sind in Bewegung geraten) |
@@ -113,9 +109,7 @@ Bestimmen und übersetzen Sie die folgenden Formen:
 | ⟪५४⟫. | **⟪आदिषि⟫** | *⟪आ⟫-⟪दा⟫* 3Ā: 1. Sg. s-Aor. Ā. (ich nahm) |
 | ⟪५५⟫. | **⟪पाणी⟫** | *⟪पाणि⟫* m.: Nom. Akk. Vok. Du. (beide Hände) |
 | ⟪५६⟫. | **⟪अस्प्राक्षम्⟫** | *⟪स्पृश्⟫* 6P: 1. Sg. s-Aor. P. (ich berührte) |
-:::
-
-::: media
+::::::media
 ![](/images/uebung094.webp)
 Abb.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung094))

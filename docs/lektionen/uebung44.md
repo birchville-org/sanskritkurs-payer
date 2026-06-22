@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Bestimmen und übersetzen Sie folgende Formen:
 
-::: grammar-box
+:::grammar-box
 | Wortform | Bestimmung | Bedeutung |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪आदेः⟫** | ⟪आदि⟫ (m.) Abl./Gen. sg. | des Anfangs / vom Anfang |
@@ -65,9 +65,7 @@ A) Bestimmen und übersetzen Sie folgende Formen:
 | ⟪५०⟫. **⟪चिनुथ⟫** | ⟪चि⟫ (5U) 2. pl. P. Ind. Präs. | ihr schichtet auf |
 | ⟪५१⟫. **⟪हथ⟫** | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | ihr schlagt |
 | ⟪५२⟫. **⟪हतः⟫** | ⟪हन्⟫ (2P) PPP Nom. sg. m. | geschlagen / getötet |
-:::
-
----
+:::---
 
 ## Übersetzungen
 
@@ -97,19 +95,17 @@ Auch Hassenswertes sollt ihr nicht hassen, und nach Begehrenswertem sollt ihr ni
 ⟪८⟫. **⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫ ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 Du hast die Nicht-zu-Beklagenden beklagt und wolltest Worte der Weisheit sprechen; doch die Weisen beklagen weder die Toten noch die Lebenden.
 
-::: media
+:::media
 ![](/images/uebung072.webp)
 Abb.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Bildquelle: [Details](/licenses#uebung072))
-:::
-
----
+:::---
 
 ## Weitere Formbestimmungen
 
 Bestimmen Sie folgende Wortformen:
 
-::: grammar-box
+:::grammar-box
 | Wortform | Bestimmung |
 | :--- | :--- |
 | ⟪१⟫. **⟪वदिता⟫** | ⟪वदितृ⟫ (m.) Nom. sg. |
@@ -152,9 +148,7 @@ Bestimmen Sie folgende Wortformen:
 | ⟪३८⟫. **⟪पिपूर्मः⟫** | ⟪पॄ⟫ (3P) 1. pl. P. Ind. Präs. |
 | ⟪३९⟫. **⟪कैः⟫** | ⟪किम्⟫ (m./n.) Instr. pl. |
 | ⟪४०⟫. **⟪कृत्येन⟫** | ⟪कृ⟫ (8U) Gerundiv Instr. sg. m./n. |
-:::
-
-::: media
+::::::media
 ![](/images/uebung073.webp)
 Abb.: ⟪वदिता⟫
 (Bildquelle: [Details](/licenses#uebung073))

@@ -12,18 +12,13 @@ status: stable
 ## 29.1. Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum
 
 
-::: grammar-box
+:::grammar-box
 **Das Kausativ ist mit wenigen Ausnahmen Ubhayapada (⟪उभयपद⟫)**
-:::
-
-
-::: grammar-box
+::::::grammar-box
 **Im Kausativum wird das Ātmanepada (⟪आत्मनेपद⟫) verwendet:**
 
 **1. Wenn die Frucht der veranlassten Handlung dem Veranlasser zugute kommt:**
-:::
-
-Beispiel:
+:::Beispiel:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma lässt für sich (im eigenen Interesse) eine Matte machen"
 
@@ -42,13 +37,11 @@ Die Regeln entsprechen also i.A. den Regeln für die Verwendung des Ātmanepada 
 
 Präverben:
 
-::: indent
+:::indent
 ⟪उद्⟫° : auf, hinauf, empor, hinaus, aus, aus-
 
 ⟪परि⟫° : herum, um (Ort, Zeit), umher
-:::
-
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten
+:::⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten
 
 ⟪अवज्ञान⟫ n.: Missachtung
 
@@ -58,28 +51,24 @@ Präverben:
 
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : verzehren, fressen
 
-::: indent
+:::indent
 Fut. ⟪ग्रसिष्यते⟫  
 Pass. ⟪ग्रस्यते⟫  
 Kaus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
-:::
-
-⟪तीक्ष्ण⟫ 3: "wild", scharf, spitz, streng, heftig, scharfzüngig
+:::⟪तीक्ष्ण⟫ 3: "wild", scharf, spitz, streng, heftig, scharfzüngig
 
 ⟪न्याय⟫ m.: Norm, Regel, rechte Art und Weise; Methode, Logik (von ⟪इ⟫ + ⟪नि⟫)
 
 ⟪परिव्राजक⟫ m.: Umherwanderer, Wandermönch, Pilger
 
-::: media
+:::media
 ![](/images/lekt2903.webp)
 Abb.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Bildquelle: [Details](/licenses#lekt2903))
-:::
-
-⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
+:::⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
 
 ⟪पुनर्⟫ Indekl.: wieder, immer wieder, zurück, noch einmal ; dagegen, aber (vor stimmhaften Lauten außer r-: ⟪पुनर्⟫)
 
@@ -88,42 +77,34 @@ Pushkar = ⟪पुष्कर⟫
 ⟪मत्स्य⟫ m.: Fisch
 
 davon:
-::: indent
+:::indent
 ⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig
-:::
-
-::: media
+::::::media
 ![](/images/lekt2901.webp)
 Abb.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (Bildquelle: [Details](/licenses#lekt2901))
-:::
-
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
+:::⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
 
 ⟪यथा⟫ Adv.: wie, gleichsam
 
 ⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
 
-::: indent
+:::indent
 Fut. ⟪रंस्यते⟫  
 Pass. ⟪रम्यते⟫  
 Kaus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
-:::
-
-⟪वानप्रस्थ⟫ m.: Waldeinsiedler (jemand, der sich im 3. ⟪आश्रम⟫ befindet)
+:::⟪वानप्रस्थ⟫ m.: Waldeinsiedler (jemand, der sich im 3. ⟪आश्रम⟫ befindet)
 
 ⟪शुचि⟫ 3: leuchtend, glänzend, fein ; m.: Reinheit
 
 ⟪पूज्⟫ 10P ⟪पूजयति⟫ : ehren, verehren
 
-::: indent
+:::indent
 PPP ⟪पूजित⟫
-:::
-
-## 29.3. Übersetzungsübung zur Wiederholung
+:::## 29.3. Übersetzungsübung zur Wiederholung
 
 Übersetzen Sie wortgetreu in gutes Deutsch und lernen Sie die Sanskrittexte auswendig:
 
@@ -150,21 +131,17 @@ Erklärung: ⟪आत्मसु⟫ = Lok. sg. zu ⟪आत्मन्⟫ m. "
 **⟪बलीयान⟫**⟪अबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।१४।⟫
 
 ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।१५।⟫
-::: indent
+:::indent
 **⟪चतुर्व⟫**⟪र्णाश्रमो⟫ ⟪लोको⟫  
 **⟪राज्ञा⟫** ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
 ⟪स्वधर्मकर्माभिरतो⟫  
 ⟪वर्तते⟫ **⟪स्वेषु⟫ ⟪वर्त्मसु⟫** ⟪॥१६॥⟫
-:::
-
-::: media
+::::::media
 ![](/images/lekt2902.jpg)
 Abb.: ⟪मात्स्यन्याय⟫:
 (Zeichnung: Namcha Payer, 2002-11)
 (Bildquelle: [Details](/licenses#lekt2902))
-:::
-
-Erklärungen:
+:::Erklärungen:
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "etwas (jemand), vor dem man schaudern muss"
 
@@ -188,7 +165,7 @@ Erklärungen:
 
 ## 29.4. Futur und Kausativ zu den bisher gelernten Wurzeln
 
-::: grammar-box
+:::grammar-box
 
 | Wurzel:br⟪धातु⟫ | Futur:br⟪ऌत्⟫ | Kausativ:br⟪कारित⟫ |
 | :--- | :--- | :--- |
@@ -277,9 +254,7 @@ Erklärungen:
 |⟪हन्⟫ ⟪२⟫ ⟪प⟫|⟪हनिष्यति⟫|⟪घातयति⟫|
 |⟪हृ⟫ ⟪१⟫ ⟪उ⟫|⟪हरिष्यति⟫|⟪हारयति⟫|
 
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt2903:** Pushkar = ⟪पुष्कर⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 **lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense]

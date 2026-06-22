@@ -83,13 +83,11 @@ B) Übersetzen Sie folgende Tatpuruṣa:
 
 ⟪३१⟫. ⟪अमृत⟫ n. — Unsterblichkeit, Unsterblichkeitsspeise, Unsterblichkeitstrank
 
-::: media
+:::media
 ![](/images/uebung027.jpg)
 Abb.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
 (Bildquelle: [Details](/licenses#uebung027))
-:::
-
----
+:::---
 
 ## Zusätzliche Übungen
 
@@ -142,7 +140,7 @@ D) Übersetzen Sie:
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 Pflicht aller ist: Gewaltlosigkeit, Wahrhaftigkeit, Reinheit, Nicht über sein Los murren, Freisein von Boshaftigkeit und geduldige Nachsicht.
 
-::: media
+:::media
 ![](/images/uebung028.webp)
 Abb.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Bildquelle: [Details](/licenses#uebung028))

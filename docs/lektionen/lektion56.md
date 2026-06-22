@@ -11,7 +11,7 @@ status: stable
 
 ## 56.1. Der reduplizierte Aorist
 
-::: grammar-box
+:::grammar-box
 **Bildung:**
 
 **Augment + reduplizierte Wurzel + a + thematische Sekundärendung**
@@ -21,9 +21,7 @@ status: stable
 **Auslautendes -i, -u wird durch -iy bzw. -uv ersetzt.**
 
 **Auslautendes -ā (für -e) fällt ab.**
-:::
-
-Paradigma:
+:::Paradigma:
 
 ⟪श्रि⟫ 1U "sich begeben zu, sich anlehnen"
 
@@ -42,15 +40,13 @@ Diese Form des Aorist bilden u.a.:
 *   ⟪पत्⟫ 1P "fallen": ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = Tiefstufe zu pat)
 *   ⟪वच्⟫ 2P "sagen": ⟪अवोचत्⟫ (a-va + uc-a-t)
 
-::: grammar-box
+:::grammar-box
 **Alle Wurzeln der 10. Präsensklasse sowie alle Kausative bilden stets den reduplizierten Aorist.**
-:::
-
-### 56.1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
+:::### 56.1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
 
 Stammsilbe:
 
-::: grammar-box
+:::grammar-box
 **Ausgangspunkt ist die Form des Präsensstamms bzw. des Kausativstamms, die dieser nach Wegfall des Bildungselements -aya- hat (also Stamm auf -p bei Kausativen auf -paya-).**
 
 **Der Vokal dieser sog. Stammsilbe bestimmt sich im Aorist nach folgenden Regeln:**
@@ -72,13 +68,11 @@ Stammsilbe:
 *   **dem auslautenden Konsonanten der Stammsilbe unmittelbar vorangehendes, für ṛ, ṝ, ḷ substituiertes ar, ār, īr, al bleibt wahlweise unverändert oder wird durch ṛ bzw. ḷ ersetzt:**  
     ⟪कॢप्⟫  1Ā: Kaus. ***⟪कल्प⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
     ⟪कृष्⟫ 1P/6U: Kaus. ***⟪कर्ष⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
-:::
-
-Vokal der Reduplikationssilbe:
+:::Vokal der Reduplikationssilbe:
 
 Nachdem die eben genannten Regeln auf die Stammsilbe angewandt sind, müssen folgende Regeln für den Vokal der Reduplikationssilbe befolgt werden:
 
-:::: grammar-box
+:::grammar-box
 **Ausgangspunkt ist der reguläre Reduplikationsvokal, d.h.**
 
 *   a für a, ā, ṛ,  ṝ, ḷ
@@ -103,55 +97,43 @@ Besonderheiten bestimmter Wurzeln bei Kielhorn, Grammatik § 435c ff.
 
 *   **Folgt dem anlautenden Vokal nur ein einziger Konsonant oder eine Konsonantengruppe, deren erstes Glied weder Nasal noch d oder r ist, so lautet die reduplizierte Silbe:**
 
-Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - ***i*** \- alle Konsonanten
+Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - **i** \- alle Konsonanten
 
-::: indent
+:::indent
 ⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, reduplizierte Silbe ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
 ⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, reduplizierte Silbe ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
 ⟪ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, reduplizierte Silbe ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
-:::
-
-*   **Folgt dem anlautenden Vokal eine mit einem Nasal oder d oder r anfangende Konsonantengruppe, so wird der zweite Konsonant der Gruppe (oder sein Stellvertreter) mit i nach folgendem schema eingeschoben:**
+:::*   **Folgt dem anlautenden Vokal eine mit einem Nasal oder d oder r anfangende Konsonantengruppe, so wird der zweite Konsonant der Gruppe (oder sein Stellvertreter) mit i nach folgendem schema eingeschoben:**
     
 
 Vokal - erster Konsonant - zweiter Konsonant (Stellvertreter) - i - zweiter Konsonant
 
-::: indent
+:::indent
 ⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, reduplizierte Silbe ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
 ⟪ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, reduplizierte Silbe ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
 ⟪अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, reduplizierte Silbe ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
-:::
+:::Diese Form der Reduplikation vokalisch anlautender abgeleiteter Stämme (Kausative) nennt man "attische Reduplikation".
+:::## 56.2. Der Injunktiv
 
-Diese Form der Reduplikation vokalisch anlautender abgeleiteter Stämme (Kausative) nennt man "attische Reduplikation".
-::::
-
-## 56.2. Der Injunktiv
-
-::: grammar-box
+:::grammar-box
 **Der Injunktiv ist die augmentlose Form zu Augmentformen, d.h. seine Formen sind identisch mit den augmentlosen Formen des Indikativ Imperfekt oder Aorist. Die einheimische indische Grammatik hat den Injunktiv nicht als besondere grammatische Kategorie erkannt.**
-:::
+:::Gemäß der grundlegenden Arbeit:
 
-Gemäß der grundlegenden Arbeit:
-
-::: media
+:::media
 ![](/images/lekt5601.jpg)
 Abb.:
 Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983)
 (Bildquelle: [Details](/licenses#lekt5601))
-:::
-
-::: indent
+::::::indent
 Hoffmann, Karl &lt;1915 - 1996&gt;: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
-:::
-
-hat der Injunktiv im Veda folgende Eigenschaften:
+:::hat der Injunktiv im Veda folgende Eigenschaften:
 
 *   er ist nicht berichtend, sondern erwähnend
 *   er ist zeitstufenlos
 *   der Injunktiv Präsens (= augmentloses Imperfekt) bezeichnet den unvollendeten Aspekt
 *   der Injunktiv Aorist bezeichnet den vollendeten Aspekt.
 
-::: grammar-box
+:::grammar-box
 **Im nachvedischen Sanskrit kommt der Injunktiv nur noch in Verbindung mit der Verbotspartikel ⟪मा⟫ (+ Injunktiv Aorist) bzw. ⟪मा⟫ ⟪स्म⟫ (+ Injunktiv Präsens oder Aorist) vor, der unterschiedliche Aspekt kommt meist nicht mehr zum Tragen.**
 
 (mit Aspekt
@@ -160,36 +142,28 @@ hat der Injunktiv im Veda folgende Eigenschaften:
 *   würde ⟪मा⟫ ⟪स्म⟫ + Injunktiv Präsens einen Inhibitivsatz bezeichnen, d.h. eine schon verlaufende Handlung oder ein schon bestehender Zustand wird verboten: "Höre auf, zu ...!", "Lass ab von ...!"
 
 Dieser Unterschied wird jedoch im klassischen Sanskrit meist nicht gemacht.)
-:::
+:::## 56.3. Der Verbotssatz
 
-## 56.3. Der Verbotssatz
-
-::: grammar-box
+:::grammar-box
 **Hauptform:**
 
 **⟪मा⟫ + Injunktiv Aorist**
 
 **⟪मा⟫ ⟪स्म⟫ + Injunktiv Aorist oder Injunktiv Präsens**
-:::
+:::Beispiele:
 
-Beispiele:
-
-::: indent
+:::indent
 ⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Werde nicht einer, der durch die Frucht einer Tat motiviert wird!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,47c)
 
 ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "Werde nicht unmännlich!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,3a)
-:::
-
-::: media
+::::::media
 ![](/images/lekt5602.webp)
 Abb.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
 Poster (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
 (Bildquelle: [Details](/licenses#lekt5602))
-:::
+:::Beide Beispiele haben prohibitiven Sinn. Der Injunktiv Aorist ist hier also in seiner ursprünglichen Bedeutung gebraucht. (Das Überwiegen des Injunktiv Aorist in solchen Sätzen erklärt sich vielleicht aus dem Überwiegen der Prohibitivsätze gegenüber Inhibitivsätzen, doch müsste diese Frage für das klassische Sanskrit noch untersucht werden.)
 
-Beide Beispiele haben prohibitiven Sinn. Der Injunktiv Aorist ist hier also in seiner ursprünglichen Bedeutung gebraucht. (Das Überwiegen des Injunktiv Aorist in solchen Sätzen erklärt sich vielleicht aus dem Überwiegen der Prohibitivsätze gegenüber Inhibitivsätzen, doch müsste diese Frage für das klassische Sanskrit noch untersucht werden.)
-
-:::: grammar-box
+:::grammar-box
 **Andere Formen von Verbotssätzen:**
 
 *   **⟪मा⟫ + (⟪स्म⟫) + Imperativ (selten)  **
@@ -202,31 +176,24 @@ Beide Beispiele haben prohibitiven Sinn. Der Injunktiv Aorist ist hier also in s
 
 Daneben gibt es noch weitere, seltenere Formen von Verbotssätzen, siehe z.B.
 
-::: indent
+:::indent
 Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
-:::
-::::
-
-::: media
+:::::::::media
 ![](/images/lekt5603.webp)
 Abb.: ⟪अलं⟫  ⟪विषादेन⟫
 (Bildquelle: [Details](/licenses#lekt5603))
-:::
-## 56.4. ⟪स्म⟫
+:::## 56.4. ⟪स्म⟫
 
-:::: grammar-box
+:::grammar-box
 **⟪स्म⟫ hebt hervor: "wahrlich, allerdings, gewiss, gerade"**
 
 **Außerdem ist folgende Konstruktion sehr wichtig:**
 
-::: indent
+:::indent
 ⟪स्म⟫ + Indikativ Präsens dient zum Erzählen in der Vergangenheit, vor allem um eine Dauer in der Vergangenheit zu bezeichnen:
 
 z.B. ⟪वसति⟫ ⟪स्म⟫ "es wohnte einmal" (⟪स्म⟫ kann manchmal auch fehlen).
-:::
-::::
-
-## 56.5. Übung
+::::::## 56.5. Übung
 
 A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen:
 
@@ -311,7 +278,7 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen:
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
+:::deleteme-box
 
 **lekt5601:** Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983) [Bildquelle: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Zugriff am 2009-02-27]
 

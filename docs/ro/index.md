@@ -2,37 +2,33 @@
 layout: home
 
 hero:
-  name: Curs de sanscrită
-  text: Un curs complet
-  tagline: de Alois Payer (Biblioteca Global Village a lui Tüpfli)
+  name: Cours de sanskrit
+  text: Un cours complet
+  tagline: de Alois Payer (Bibliothèque du Village Global de Tüpfli)
   actions:
     - theme: brand
-      text: Începe cursul
+      text: Lancer le cours
       link: /ro/lektionen/lektion01
     - theme: alt
-      text: Subiecte de gramatică
+      text: Sujets de grammaire
       link: /ro/grammatik
 
 features:
   - title: Devanāgarī ready
-    details: Perfecție, tipografie integrată pentru scrierile indiene.
-  - title: Ușor de Căutat
-    details: O căutare locală profundă a textului integral menține cunoștințele la un clic distanță.
-  - title: Arhitectură Modernă
-    details: Construit pe fundația VitePress pentru viteză maximă.
+    details: Typographie intégrée parfaite pour les écritures indiennes.
+  - title: Facilement consultable
+    details: Une recherche en texte intégral locale approfondie garde le savoir à portée de clic.
+  - title: Architecture moderne
+    details: Construit sur les fondations de VitePress pour une vitesse maximale.
 ---
 
+:::tip Version 1.5 — Hebrew Translation & Typography
+**Nouveau dans v1.5 (juin 2026) :**
 
+- **Nouvelle langue (hébreu) :** Le cours entier est désormais également disponible en hébreu (avec prise en charge RTL).
+- **Typographie sanskrite :** Uniformisation à l'échelle du système et mise en évidence colorée du devanāgarī dans toutes les langues de traduction.
+- **Améliorations PWA :** Stabilisation accrue de l'application web progressive pour l'utilisation hors ligne.
 
-:::tip Versiunea 1.4 — PWA Offline-First
-**Nou în v1.4 (iunie 2026):**
-
-- **Aplicație Web progresivă (PWA):** Cursul poate fi acum instalat ca aplicație pe desktop și smartphone (iOS/Android).
-- **Funcționare completă offline:** Toate conținuturile selectate sunt salvate local și sunt utilizabile complet fără conexiune la internet.
-- **Stocare dinamică (caching):** Prin setări (Settings), se poate controla în orice moment cu precizie care dintre cele 14 limbi să fie disponibile offline.
-- **Performanță ridicată:** Reducere semnificativă a timpilor de încărcare și a consumului de date prin imagini WebP puternic comprimate.
-
-**Observații și mesaje de eroare:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Contribuie ca autor sau corector:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
-
+**Remarques et rapports d'erreurs :** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Contribuer en tant qu'auteur ou correcteur :** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 :::

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen:
 
-::: grammar-box
+:::grammar-box
 | 3. Person | 1. Person |
 | :--- | :--- |
 | ⟪१⟫. **⟪अदन्ति⟫** | ⟪अद्मः⟫ |
@@ -102,9 +102,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 | ⟪८७⟫. **⟪जहति⟫** | ⟪जहीमः⟫ |
 | ⟪८८⟫. **⟪अजुहवुः⟫** | ⟪अजुहुम⟫ |
 | ⟪८९⟫. **⟪हरति⟫** | ⟪हरामि⟫ |
-:::
-
-::: media
+::::::media
 ![](/images/uebung064.webp)
 Abb.: ⟪आगारे⟫ ⟪सीदामः⟫
 (Bildquelle: [Details](/licenses#uebung064))

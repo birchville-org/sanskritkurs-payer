@@ -207,13 +207,11 @@ kṣatriyeṇeśvara ijyate.
 
 ⟪दानेन⟫ ⟪श्रावकः⟫ ⟪स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते⟫ ⟪।⟫
 
-::: media
+:::media
 ![](/images/uebung011.webp)
 चित्रम् : ⟪ग्रामः⟫
 (चित्रस्य मूलम् : [विवरणम्](/hi/licenses#uebung011))
-:::
-
----
+:::---
 
 ## पाठ अभ्यास
 
@@ -319,7 +317,7 @@ Rāma wohnt bei den vedischen Weisen.
 ⟪सारथिना⟫ ⟪रथो⟫ ⟪नीयते⟫ ⟪॥⟫
 सारथी रथ चलाते हैं।
 
-::: media
+:::media
 ![](/images/uebung012.webp)
 अभिव्यक्ति: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (छवि स्रोत: [विवरण](/hi/licenses#uebung012))

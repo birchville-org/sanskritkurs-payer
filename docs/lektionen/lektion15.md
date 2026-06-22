@@ -21,7 +21,7 @@ status: stable
 Das Verhältnis von durch Nomina (Substantive und Adjektive) Bezeichnetem zueinander kann man außer durch eine Genetivkonstruktion auch durch ein Tatpuruṣa (⟪तत्पुरुष⟫) ausdrücken. Ebenso kann man attributive Beiordnungen von Adjektiven oder appositionelle Beiordnung von Substantiven durch eine bestimmte Art von Tatpuruṣa, nämlich durch sog. Karmadhāraya (m.) = ⟪कर्मधारय⟫ ausdrücken.
 
 ⟪तत्पुरुषः⟫ =  ⟪तस्य⟫ ⟪पुरुषः⟫ "sein Knecht", d.h. als Bezeichnung dieser Art von Komposita dient ein Beispiel solcher Komposita.
-::: grammar-box
+:::grammar-box
 
 In determinativen Komposita (Tatpuruṣa) wird ein Nomen (Substantiv oder Adjektiv) durch ein anderes Nomen oder Adverb näher bestimmt. Das näher bestimmte Wort bildet in der Regel das Hinterglied des Kompositum.
 
@@ -44,16 +44,12 @@ z. B.
 
 Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
-:::
-
-## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
-::: grammar-box
+:::## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
+:::grammar-box
 
 Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus.
 
-:::
-
-z.B.
+:::z.B.
 
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "ein Sohn mit guten Eigenschaften"  
 Akk. sg. ⟪गुणवत्पुत्रम्⟫  
@@ -65,13 +61,11 @@ Nom pl. ⟪गुणवत्पुत्राः⟫
 
 ⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "die gewünschte Gottheit = die Gottheit, zu der man ein besonderes Andachts- und Zufluchtsverhältnis hat"
 
-::: media
+:::media
 ![](/images/lekt1501.webp)
 Abb.: ⟪लक्ष्मी⟫
 (Bildquelle: [Details](/licenses#lekt1501))
-:::
-
-::: grammar-box
+::::::grammar-box
 
 Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
@@ -86,23 +80,17 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
       
     Solche appositionelle Karmadhāraya werden in den einheimischen Kommentaren wie im obigen Beispiel mittels ⟪एव⟫ aufgelöst.
 
-:::
-    
-::: media
+::::::media
 ![](/images/lekt1503.webp)
 Abb.: ⟪नरसिंहः⟫
 (Bildquelle: [Details](/licenses#lekt1503))
-:::
+:::## 15.4. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn
 
-## 15.4. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn
-
-::: grammar-box
+:::grammar-box
 
 Tatpuruṣaverbindungen sind möglich für Verbindungen von Nomina (Substantive und Adjektive), bei denen das Vorderglied - den Regeln der Syntax entsprechend - in jedem Kasus stehen kann. Erwartungsgemäß vertritt das Vorderglied am häufigsten einen Genetiv (⟪षष्ठी⟫), da dies ja der Kasus ist, um das Verhältnis von Nomina auszudrücken.
 
-:::
-
-z.B.
+:::z.B.
 
 ⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "der Sohn eines Kṣatriya", "ein junger Kṣatriya", "ein  Angehöriger der Gruppe der Kṣatriyas"  
 Akk. sg. ⟪क्षत्रियपुत्रम्⟫  
@@ -119,13 +107,11 @@ Fast jedes Genetivverhältnis kann durch ein Tatpuruṣa ersetzt werden. Die Wen
 
 Das Vorderglied eines Tatpuruṣa kann aber prinzipiell jeden Kasus vertreten. Allerdings können nicht alle syntaktisch möglichen Kasusverhältnisse durch ein Tatpuruṣa ersetzt werden. Die entsprechenden regeln findet man im Zweifelsfall bei Kale, A higher Sanskrit grammar § 203 - 217 bzw. Pāṇini 2,1,22 - 2,2,22.
 
-::: grammar-box
+:::grammar-box
 
 Das Vorderglied kann bei der Auflösung des Kompositums im Singular, Dual oder Plural stehen. Welche Möglichkeit vorliegt, muss aus Bedeutung und Kontext erschlossen werden.
 
-:::
-
-Beispiele:
+:::Beispiele:
 
 Das Vorderglied vertritt den Akkusativ (⟪द्वितीया⟫): z.B. bei gewissen PPP zu Verben der Bewegung (Pāṇini 2,1,24):
 
@@ -141,22 +127,20 @@ Wäre auch auflösbar: ⟪देवस्य⟫ / ⟪देवानां⟫ �
 
 ## 15.5. Zerlegung von Komposita (außer Dvandvas)
 
-:::: grammar-box
+:::grammar-box
 Obwohl im Sanskrit Komposita beliebiger Länge gebildet werden können und auch sehr häufig gebildet werden (Komposita aus 10 bis 30 Gliedern sind keine Seltenheit!), so sind doch - mit Ausnahme der Dvandvas - alle Komposita fortschreitend hierarchisch in je zwei Teile zu zerlegen:
 
-::: media
+:::media
 ![](/images/lekt1502.jpg)
 Abb.: ⟪समासविच्छेदः⟫
 (Bildquelle: [Details](/licenses#lekt1502))
-:::
-
-u.s.w. bis man zu den einzelnen Wortstämmen kommt.
+:::u.s.w. bis man zu den einzelnen Wortstämmen kommt.
 
 z.B.
 
 ⟪गुणवत्पुत्रकृतपुण्यम्⟫
 
-::: indent
+:::indent
 1\. Stufe (Hauptzäsur): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
 2\. Stufe (1. Nebenzäsur): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
@@ -164,29 +148,25 @@ z.B.
 3\. Stufe (2. Nebenzäsur): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
 = "die verdienstvolle Tat (das Verdienst), die mein tugendhafter Sohn getan hat"
-:::
-
-Dabei können verschiedene Arten von Komposita gemischt werden, z.B. Vorderglied: Bahuvrīhi (⟪बहुव्रीहि⟫) - Hinterglied: Tatpuruṣa usw.
+:::Dabei können verschiedene Arten von Komposita gemischt werden, z.B. Vorderglied: Bahuvrīhi (⟪बहुव्रीहि⟫) - Hinterglied: Tatpuruṣa usw.
 
 z.B.
 
 ⟪ब्राह्मणक्षत्रियवैश्यधर्मः⟫
 
-::: indent
+:::indent
 1\. Stufe: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (Vorderglied: Itaretaradvandva)
 
 2\. Stufe: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
 
 = "der Dharma von Brahmanen, Kṣatriyas und Vaiśyas"
-:::
-
-Sehr oft gibt es für ein Kompositum verschiedene Möglichkeiten der Auflösung. Welches die richtige oder zumindest die beste ist, kann nur aus dem Kontext und dem Inhalt des Textes entschieden werden. Manchmal ist eine solche Entscheidung nicht möglich. Oft sind zwei Auflösungsmöglichkeiten vermutlich vom Autor intendiert. Dann muss man in der Übersetzung beide Auflösungsmöglichkeiten wiedergeben (verbunden mit "und", "oder" "bzw." und dergleichen.
+:::Sehr oft gibt es für ein Kompositum verschiedene Möglichkeiten der Auflösung. Welches die richtige oder zumindest die beste ist, kann nur aus dem Kontext und dem Inhalt des Textes entschieden werden. Manchmal ist eine solche Entscheidung nicht möglich. Oft sind zwei Auflösungsmöglichkeiten vermutlich vom Autor intendiert. Dann muss man in der Übersetzung beide Auflösungsmöglichkeiten wiedergeben (verbunden mit "und", "oder" "bzw." und dergleichen.
 
 z.B.
 
 ⟪पुण्यवत्पुत्रकृतम्⟫
 
-::: indent
+:::indent
 1\. Stufe: entweder - oder
 
 1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
@@ -199,12 +179,8 @@ z.B.
 2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "die Tat meines verdienstreichen Sohnes"
 3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "das verdienstvolle, von meinem Sohn Getane"
    2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "die verdienstvolle Tat meines Sohnes"
-:::
-::::
-
-
-## 15.6. Die Form des Vorderglieds in Komposita (⟪समास⟫ m.)
-::: grammar-box
+::::::## 15.6. Die Form des Vorderglieds in Komposita (⟪समास⟫ m.)
+:::grammar-box
 
 In allen Arten von Komposita ist das Vorderglied in der Regel der unveränderte Wortstamm. Zweistämmige Nomina stehen im schwachen Stamm. Feminine Adjektive, die ein folgendes Glied im Kompositum näher bestimmen, stehen im Allgemeinen in maskulinen Stamm:
 
@@ -213,9 +189,7 @@ z.B.
 ⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "eine Kṣatriyafrau, die Verdienst besitzt"  
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "ein Sohn mit guten Eigenschaften"
 
-:::
-
-## 15.7. Einteilung der ⟪तत्पुरुष⟫
+:::## 15.7. Einteilung der ⟪तत्पुरुष⟫
 
 1.  ⟪प्रथमातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Nominativ (⟪प्रथमा⟫)
 2.  ⟪द्वितीयातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Akkusativ (⟪द्वितीया⟫)
@@ -266,22 +240,18 @@ z.B.
 ⟪अर्ध⟫ 3: halb, m.n. Hälfte
 
 ⟪पूजा⟫ f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā)
-::: media
+:::media
 ![](/images/lekt1504.webp)
 Abb.: ⟪पूजा⟫
 (Bildquelle: [Details](/licenses#lekt1504))
-:::
-
-⟪कुल⟫ n.: Herde, Menge, Geschlecht, Abstammung, Familie
+:::⟪कुल⟫ n.: Herde, Menge, Geschlecht, Abstammung, Familie
 
 ⟪इन्द्र⟫ m.: Fürst, Erster, Bester unter ; Götterkönig Indra
-::: media
+:::media
 ![](/images/lekt1505.webp)
 Abb.: ⟪इन्द्रः⟫
 (Bildquelle: [Details](/licenses#lekt1505))
-:::
-
-⟪दास⟫ m.: Sklave, Leibeigener, Diener
+:::⟪दास⟫ m.: Sklave, Leibeigener, Diener
 
 ⟪दासी⟫ f.: Sklavin, Leibeigene, Dienerin
 
@@ -297,55 +267,43 @@ Abb.: ⟪इन्द्रः⟫
 
 davon:
 
-::: indent
+:::indent
 ⟪स्तुति⟫ f.: Lobpreis, Loblied
 
 ⟪स्तोत्र⟫ n.: (Mittel zum Preisen =) Loblied, Hymnus
-:::
-
-⟪सिंह⟫ m.: Löwe (_Panthera leo persica_)
-::: media
+:::⟪सिंह⟫ m.: Löwe (_Panthera leo persica_)
+:::media
 ![](/images/lekt1506.webp)
 Abb.: ⟪सिंहः⟫
 (Bildquelle: [Details](/licenses#lekt1506))
-:::
-
-⟪व्याघ्र⟫ m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner)
-::: media
+:::⟪व्याघ्र⟫ m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner)
+:::media
 ![](/images/lekt1507.webp)
 Abb.: ⟪व्याघ्रः⟫
 (Bildquelle: [Details](/licenses#lekt1507))
-:::
-
-⟪इव⟫ (nachgestellt): gleichsam, wie (in Vergleichen: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
+:::⟪इव⟫ (nachgestellt): gleichsam, wie (in Vergleichen: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
 
 ⟪एव⟫ (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `&lt;!&gt;`, z.B. ⟪सत्यमेव⟫ ⟪जयति⟫ "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
 
 ⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling)
 
-::: indent
+:::indent
 ⟪आर्य⟫ 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann
-:::
+:::zu ⟪जन्⟫
 
-zu ⟪जन्⟫
-
-::: indent
+:::indent
 ⟪जाति⟫ f.: Geburt, Art, Kaste (zu ⟪जाति⟫ als Kaste siehe Basham, Wonder, S. 148ff.)
-:::
-
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterben (nach indischen Grammatikern: 6 Ā)
+:::⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterben (nach indischen Grammatikern: 6 Ā)
 
 davon:
 
-::: indent
+:::indent
 ⟪मरण⟫ n.: Sterben, Tod
 
 ⟪मृति⟫ f.: Sterben, Tod
 
 ⟪मृत्यु⟫ m.: Tod ; personifiziert: Todesgott
-:::
-
-## 15.9. Übung 1
+:::## 15.9. Übung 1
 
 Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine deutsche Übersetzung. Geben Sie jeweils alle Auflösungen und Übersetzungen, die Ihnen möglich erscheinen. Geben Sie auch an, um welchen Kasus und welche Zahl es sich beim Gesamtkompositum handelt.
 
@@ -532,13 +490,11 @@ Lösen Sie wie bei Übung 1 folgende Tatpuruṣa auf:
 ⟪५९⟫. ⟪कारुकुशीलवकृतम्⟫
 
 ⟪६०⟫. ⟪द्विजातिशुश्रूषया⟫
-::: media
+:::media
 ![](/images/lekt1508.webp)
 Abb.: ⟪ग्रामदेवता⟫
 (Bildquelle: [Details](/licenses#lekt1508))
-:::
-
-## 15.11. Übung 3
+:::## 15.11. Übung 3
 
 A) Übersetzen Sie das Sprichwort zu Beginn der Lektion
 
@@ -595,13 +551,11 @@ B) Lösen Sie folgende Tatpuruṣa auf:
 ⟪२५⟫. ⟪वर्णधर्मः⟫
 
 ⟪२६⟫. ⟪श्रुत्युदितम्⟫
-::: media
+:::media
 ![](/images/lekt1509.webp)
 Abb.: ⟪नागदेवाः⟫
 (Bildquelle: [Details](/licenses#lekt1509))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 - **Abb.: ⟪लक्ष्मी⟫** (Lakshmi): Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Bildquelle: Wikipedia, Public domain.
 - **Abb.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Bildquelle: Wikipedia, Public domain.

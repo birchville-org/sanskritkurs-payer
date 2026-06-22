@@ -12,15 +12,15 @@ Hier testen wir den Zeilenumbruch und die Einrückungen:
 
 | Syntax | Beispiel in der Tabelle |
 | --- | --- |
-| Alte Syntax `[[br]]` | Erste Zeile[[br]]Zweite Zeile |
+| Alte Syntax `:br` | Erste Zeile:brZweite Zeile |
 | Neue Syntax `:br` | Erste Zeile:brZweite Zeile |
-| Alte Syntax `[[indent]]` | Normal[[br]][[indent]]Eingerückt |
+| Alte Syntax `[[indent]]` | Normal:br[[indent]]Eingerückt |
 | Neue Syntax `:indent` | Normal:br:indentEingerückt |
 
 ## 2. Devanagari Auto-Styling
 
 - **Normales Devanagari (wird automatisch mit einer Klasse versehen):**
-  योगश्चित्तवृत्तिनिरोधः 
+  ⟪योगश्चित्तवृत्तिनिरोधः⟫ 
 - **Explizit markiertes Sanskrit (mit speziellen Klammern):**
   ⟪योगश्चित्तवृत्तिनिरोधः⟫
 
@@ -34,7 +34,7 @@ Standard-Container für grammatikalische Erklärungen und Paradigmen.
 Zweite Variante für Grammatik-Boxen.
 ::::::media
 **Media-Container (`media`)**
-Abb.: चित्रम्
+Abb.: ⟪चित्रम्⟫
 (Bildquelle: [Details](#))
 ::::::center
 **Zentrierter Text (`center`)**

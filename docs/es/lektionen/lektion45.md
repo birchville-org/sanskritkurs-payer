@@ -5,100 +5,100 @@ last_reconstructed: 2026-05-21
 
 # Lección 45
 
-## 45.1. Formación de las formas verbales de la segunda persona (मध्यमः) de las raíces no temáticas sin sufijo final vocálico (continuación)
+## 45.1. Formación de las formas verbales de la segunda persona (⟪मध्यमः⟫) de las raíces no temáticas sin sufijo final vocálico (continuación)
 
-### 45.1.1. Tercera clase de presente (जुहोत्यादि)
+### 45.1.1. Tercera clase de presente (⟪जुहोत्यादि⟫)
 
-हु 3P
-
-:::grammar-box
-| | परस्मैपदम् || आत्मनेपदम् ||
-| --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicativo Presente**[[br]]लट् | जुहोषि | जुहुथ | &lt;जुहुषे&gt; | &lt;जुहुध्वे&gt; |
-| **Imperfecto**[[br]]लङ् | अजुहोस् | अजुहुत | &lt;अजुहुथास्&gt; | &lt;अजुहुध्वम्&gt; |
-| **Optativo**[[br]]विधिलिङ् | जुहुयास् | जुहुयात | &lt;जुह्वीथास्&gt; | &lt;जुह्वीध्वम्&gt; |
-:::धा 2U
+⟪हु⟫ 3P
 
 :::grammar-box
-| | परस्मैपदम् || आत्मनेपदम् ||
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicativo Presente**[[br]]लट् | दधासि | धत्थ[[br]]de: dadh + tha | धत्से | धद्ध्वे |
-| **Imperfecto**[[br]]लङ् | अदधास् | अधत्त | अधत्थास् | अधद्ध्वम् |
-| **Optativo**[[br]]विधिलिङ् | दध्यास् | दध्यात | दधीथास् | दधीध्वम् |
-:::### 45.1.2. Séptima clase de presente (रुधादि)
+| **Indicativo Presente**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | &lt;⟪जुहुषे⟫&gt; | &lt;⟪जुहुध्वे⟫&gt; |
+| **Imperfecto**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | &lt;⟪अजुहुथास्⟫&gt; | &lt;⟪अजुहुध्वम्⟫&gt; |
+| **Optativo**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | &lt;⟪जुह्वीथास्⟫&gt; | &lt;⟪जुह्वीध्वम्⟫&gt; |
+:::⟪धा⟫ 2U
+
+:::grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | **Singular** | **Plural** | **Singular** | **Plural** |
+| **Indicativo Presente**:br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:brde: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
+| **Imperfecto**:br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
+| **Optativo**:br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
+:::### 45.1.2. Séptima clase de presente (⟪रुधादि⟫)
 
 :::grammar-box
 **Cuando la consonante final k/g de la raíz se encuentra entre la nasal ṅ y una dental del desinencial, dicha k/g puede caer opcionalmente.**
 
-p. ej. **युज्** 3.sg.Ind.Prés.Ā युङ्क्ते o युङ्ते
-:::युज् 7U
+p. ej. **⟪युज्⟫** 3.sg.Ind.Prés.Ā ⟪युङ्क्ते⟫ o ⟪युङ्ते⟫
+:::⟪युज्⟫ 7U
 
 :::grammar-box
 | | Parasmaipada || Ātmanepada ||
 | --- | --- | --- | --- | --- |
 | | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicativo Presente**[[br]]laṭ | युनक्षि[[br]]yu-na-j + si | युङ्क्थ[[br]]युङ्थ | युङ्क्षे | युङ्ग्ध्वे[[br]]युङ्ध्वे |
-| **Imperfecto**[[br]]laṅ | अयुनक्[[br]]de: a-yu-na-j + s | युङ्क्त[[br]]अयुङ्त | अयुङ्क्थास्[[br]]अयुङ्थास् | अयुङ्ग्ध्वम्[[br]]अयुङ्ध्वम् |
-| **Optativo**[[br]]vidhilinṭ | युञ्ज्यास् | युञ्ज्यात | युञ्जीथास् | युञ्जीध्वम् |
-:::रुध् 7U
+| **Indicativo Presente**:brlaṭ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
+| **Imperfecto**:brlaṅ | ⟪अयुनक्⟫:brde: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
+| **Optativo**:brvidhilinṭ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
+:::⟪रुध्⟫ 7U
 
 :::grammar-box
 | | Parasmaipada || Ātmanepada ||
 | --- | --- | --- | --- | --- |
 | | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicativo Presente**[[br]]laṭ | रुणत्सि[[br]]ru + na + dh + si | रुन्द्ध[[br]]ru-n-dh + tha | रुन्त्से | रुन्द्ध्वे |
-| **Imperfecto**[[br]]laṅ | अरुणत्[[br]]de a-ru-ṇa-dh + s[[br]] अरुण्स् (¡irregular!) | अरुन्द्ध[[br]]a-ru-n-dh + ta | अरुन्द्धास् | अरुन्द्ध्वम् |
-| **Optativo**[[br]]vidhilinṭ | रुन्ध्यास् | रुन्ध्यात | रुन्धीथास् | रुन्धीध्वम् |
-:::## 45.2. El vocativo singular (आमन्त्रितमेकवचने)
+| **Indicativo Presente**:brlaṭ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
+| **Imperfecto**:brlaṅ | ⟪अरुणत्⟫:brde a-ru-ṇa-dh + s:br ⟪अरुण्स्⟫ (¡irregular!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
+| **Optativo**:brvidhilinṭ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
+:::## 45.2. El vocativo singular (⟪आमन्त्रितमेकवचने⟫)
 
 :::grammar-box
 **La mayoría de los vocativos del singular son la raíz con una terminación de nivel alto (high-grade).**
 
-p. ej. **देव, कवे, शत्रो, राजन्, पितर्** etc.
+p. ej. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** etc.
 
 **Las excepciones son los femeninos en -ā e -ī, así como las raíces en -in, cuyo vocativo singular debe recordarse especialmente.**
 :::::::grammar-box
 :::no-header
 | | Vocativo singular |
 | --- | --- |
-| Masculinos en -a | देव |
-| Neutros en -a | फल |
-| Femeninos en -ā | देवते |
-| Masculinos en -i | कवे |
-| Femeninos en -i | मते |
-| Masculinos en -u | शत्रो |
-| Femeninos en -u | धेनो |
-| Femeninos en -ī | देवि |
-| Masculinos en -ṛ | पितर् |
-| Femeninos en -ṛ | मातर् |
-| Masculinos en -an | राजन् |
-| Neutros en -an | नामन्[[br]]नाम |
-| Masculinos en -man/-van | आत्मन् |
-| Masculinos en -in | बलिन् |
-| Masculinos en -ant | बलिन्[[br]]बलि |
-| mahānt m. | महन् |
-| mahānt n. | महत्[[br]]= Nominativo |
-| Masculinos en -mant/-vant | गुणवन् |
-| Neutros en -mant/-vant | गुणवत्[[br]]= Nominativo |
+| Masculinos en -a | ⟪देव⟫ |
+| Neutros en -a | ⟪फल⟫ |
+| Femeninos en -ā | ⟪देवते⟫ |
+| Masculinos en -i | ⟪कवे⟫ |
+| Femeninos en -i | ⟪मते⟫ |
+| Masculinos en -u | ⟪शत्रो⟫ |
+| Femeninos en -u | ⟪धेनो⟫ |
+| Femeninos en -ī | ⟪देवि⟫ |
+| Masculinos en -ṛ | ⟪पितर्⟫ |
+| Femeninos en -ṛ | ⟪मातर्⟫ |
+| Masculinos en -an | ⟪राजन्⟫ |
+| Neutros en -an | ⟪नामन्⟫:br⟪नाम⟫ |
+| Masculinos en -man/-van | ⟪आत्मन्⟫ |
+| Masculinos en -in | ⟪बलिन्⟫ |
+| Masculinos en -ant | ⟪बलिन्⟫:br⟪बलि⟫ |
+| mahānt m. | ⟪महन्⟫ |
+| mahānt n. | ⟪महत्⟫:br= Nominativo |
+| Masculinos en -mant/-vant | ⟪गुणवन्⟫ |
+| Neutros en -mant/-vant | ⟪गुणवत्⟫:br= Nominativo |
 | Pronombres | no se forma un vocativo |
 ::::::::::media
 ![](/images/lekt4501.webp)
-Fig.: भवति किं करोषि
+Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4501))
 :::## 45.3. Lista de palabras
 
-वा ... वा : ya sea ... o
+⟪वा⟫ ... ⟪वा⟫ : ya sea ... o
 
 ## 45.4. Ejercicio
 
-A) Traduzca al sánscrito (para las formas pasadas, por favor utilice el imperfecto &lt;लङ्&gt;):
+A) Traduzca al sánscrito (para las formas pasadas, por favor utilice el imperfecto &lt;⟪लङ्⟫&gt;):
 
 1\. Tú divides la (comunidad budista).
 
 :::indent
-Sobre la división de la comunidad (सङ्घभेद), véase:
+Sobre la división de la comunidad (⟪सङ्घभेद⟫), véase:
 
 **Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::2\. ¿Disfrutasteis de la tierra?
@@ -121,17 +121,17 @@ Sobre la división de la comunidad (सङ्घभेद), véase:
 
 B) Traduzca:
 
-अर्जुन हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीं । तस्माद्भवता योध्यम् ॥१॥
+⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥१॥⟫
 
-भवति कथमनन्तदुःखमरुणत् ॥२॥
+⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥२॥⟫
 
-ब्राह्मण किमग्नौ घृतमजुहोः ॥३॥
+⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥३॥⟫
 
-शत्रो शस्तेण जीवं न छिनत्सि ॥४॥
+⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥४॥⟫
 
 :::media
 ![](/images/lekt4502.jpg)
-Fig.: कन्ये किं लिखसि
+Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4502))
 ::::::deleteme-box
 

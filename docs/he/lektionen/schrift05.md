@@ -1,4 +1,4 @@
-# דेवनागरी = ⟪देवनागरी⟫
+# ד⟪ेवनागरी⟫ = ⟪देवनागरी⟫
 
 ## תרגיל כתיבה 5
 
@@ -6,7 +6,7 @@
 
 ## תרגיל
 
-א) כתוב בदेוונאגרי:
+א) כתוב ב⟪दे⟫וונאגרי:
 
 chāyā paṭhati chidā phaṭā yathā khanati phalaṃ chādayate khādanīyaṃ tathā pāṭhana chāgalaḥ ṭhaṃsarī phalarāśi mithunā phenaḥ khidira kathaṃ ratho likhati
 

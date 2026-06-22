@@ -48,3 +48,19 @@ Ein dediziertes Python-Bereinigungsskript wurde über **alle 14 Übersetzungsspr
 - Veraltete Syntax (`::: container`) wurde strikt zu `:::container` migriert.
 - Die "Diese Übersicht beruht auf..." Altlasten in `grammatik.md` wurden ausnahmslos restlos entfernt.
 - **Resultat:** Keine CSS-Hiccups oder Parse-Fehler im finalen VitePress-Build mehr.
+
+---
+
+## QA Viewer & Fallback System
+
+**KI-Fallback-Architektur für Massenübersetzungen**  
+Das Backend-Skript für die Massenübersetzungen (`lan_translate.py`) wurde mit einer dynamischen Fallback-Logik ausgestattet:
+- Standardmäßig wird ressourcenschonend auf das lokale **Qwen 3.6 35B** am Mac Studio (`nyx.local`) zugegriffen.
+- Schlägt die Qualitätskontrolle bei schwierigen Lektionen dreimal hintereinander fehl, schaltet das System für den jeweiligen fehlerhaften Block automatisch auf **Qwen 2.5 72B via OpenRouter** um.
+- Dieses Failover-System garantiert ununterbrochene Übersetzungsdurchläufe über Nacht in höchster Qualität, ohne dass der Prozess bei Formatierungsfehlern stehen bleibt.
+
+**English-Only QA Interface**  
+Das Autoren-Werkzeug (QA Viewer) wurde vollständig ins Englische übersetzt, um internationalen Korrektoren und externen Autoren eine einheitliche Bedienung zu ermöglichen.
+- **Save-Safeguard:** Der "END QA" Button blockiert nun das versehentliche Schließen des Fensters, wenn ungespeicherte Änderungen vorliegen. Zudem wird der "Save"-Button visuell deaktiviert, falls keine Änderungen seit dem letzten Speichern erkannt wurden.
+- **Scroll-Sync:** Editor und Markdown-Vorschau scrollen nun perfekt synchron und proportional mit.
+

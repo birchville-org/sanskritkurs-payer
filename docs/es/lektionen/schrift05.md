@@ -1,4 +1,4 @@
-# Devanāgarī = देवनागरी
+# Devanāgarī = ⟪देवनागरी⟫
 
 ## Ejercicio de escritura 5
 
@@ -12,4 +12,4 @@ chāyā paṭhati chidā phaṭā yathā khanati phalaṃ chādayate khādanīya
 
 B) Lea y translitere:
 
-फूत् विठोबा वितथ पाययति छलकं खेदो पाठीनं छिदुरा खेडकं खटू मुखं मुथहा नाथो
+⟪फूत्⟫ ⟪विठोबा⟫ ⟪वितथ⟫ ⟪पाययति⟫ ⟪छलकं⟫ ⟪खेदो⟫ ⟪पाठीनं⟫ ⟪छिदुरा⟫ ⟪खेडकं⟫ ⟪खटू⟫ ⟪मुखं⟫ ⟪मुथहा⟫ ⟪नाथो⟫

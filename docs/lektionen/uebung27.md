@@ -66,7 +66,7 @@ Während die Brahmanin beim großen Dichter ankommt, kommt auch ihr Sohn.
 (⟪सुष्ठ⟫u ⟪नीता⟫ ⟪बालाः⟫)
 Wenn die Lehrer lehren, dürfen wohlerzogene Kinder nicht schwätzen (sprechen).
 
-::: media
+:::media
 ![](/images/uebung044.webp)
 Abb.: ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫
 (Bildquelle: [Details](/licenses#uebung044))

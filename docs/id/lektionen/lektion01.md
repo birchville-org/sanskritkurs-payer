@@ -14,7 +14,7 @@ last_reconstructed: 2026-04-30
 
 
 :::center
-गणेशपूजनम्
+⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Pemujaan kepada Gaṇeśa
 
@@ -24,10 +24,10 @@ Gambar: Gaṇeśa, Adamspeak, Sri Lanka
 (Sumber gambar: [Details](/id/licenses#lekt0102))
 
 ::::::center
-लम्बोदर नमस् तुभ्यं
-सततं मोदकप्रिय |
-निर्विघ्नं कुरु मे देव
-सर्वकार्येषु सर्वदा |
+⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
+⟪सततं⟫ ⟪मोदकप्रिय⟫ |
+⟪निर्विघ्नं⟫ ⟪कुरु⟫ ⟪मे⟫ ⟪देव⟫
+⟪सर्वकार्येषु⟫ ⟪सर्वदा⟫ |
 
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
@@ -44,7 +44,7 @@ Bebas dari halangan!
 
 
 :::center
-मङ्गलचरणम्
+⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Awalan yang membawa keberuntungan"
 :::::::::media
@@ -53,10 +53,10 @@ Gambar: Ardhanarīśvara
 (Sumber gambar: [Details](/id/licenses#lekt0101))
 
 ::::::center
-वागर्थाविव संपृक्तौ
-वागर्थप्रतिपत्तये |
-जगतः पितरौ वन्दे
-पार्वतीपरमेश्वरौ |
+⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
+⟪वागर्थप्रतिपत्तये⟫ |
+⟪जगतः⟫ ⟪पितरौ⟫ ⟪वन्दे⟫
+⟪पार्वतीपरमेश्वरौ⟫ |
 
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
@@ -155,19 +155,19 @@ Bunyi-bunyi bahasa Sanskerta menurut klasifikasi tradisional India dan translasi
 
 :::tip Klasifikasi
 
-- **vokal sederhana** (samānākṣara -- समानाक्षर):
-  अ a, आ ā, इ i, ई ī, उ u, ऊ ū, ऋ ṛ, ॠ ṝ, ऌ ḷ
-- **Diftong** (sandhyakṣara -- सन्ध्यक्षर):
-  ए e, ऐ ai, ओ o, औ au
-- **Konsonan** (vyañjana / hal -- व्यञ्जन / हल्):
-  क ka, ख kha, ग ga, घ gha, ङ ṅa
-  च ca, छ cha, ज ja, झ jha, ञ ña
-  ट ṭa, ठ ṭha, ड ḍa, ढ ḍha, ण ṇa
-  त ta, थ tha, द da, ध dha, न na
-  प pa, फ pha, ब ba, भ bha, म ma
-  य ya, र ra, ल la, व va
-  श śa, ष ṣa, स sa
-  ह ha
+- **vokal sederhana** (samānākṣara -- ⟪समानाक्षर⟫):
+  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+- **Diftong** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
+  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+- **Konsonan** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
+  ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
+  ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
+  ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
+  ⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
+  ⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
+  ⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
+  ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
+  ⟪ह⟫ ha
 
 :::### 1.2.1. Tentang Pengucapan Bunyi-bunyi Tertentu
 
@@ -179,23 +179,23 @@ Bunyi-bunyi bahasa Sanskerta menurut klasifikasi tradisional India dan translasi
 
 | :--- | :--- |
 
-| **a - अ** | "a pendek" diucapkan oleh orang India -- sejak zaman kuno -- sering seperti ə. Di Eropa diucapkan sebagai a pendek, di Bengali sebagai o pendek yang gelap. |
+| **a - ⟪अ⟫** | "a pendek" diucapkan oleh orang India -- sejak zaman kuno -- sering seperti ə. Di Eropa diucapkan sebagai a pendek, di Bengali sebagai o pendek yang gelap. |
 
-| **ṛ - ऋ** | seperti r yang divokalkan dalam bahasa Bohemia. Gema ringan dari i. |
+| **ṛ - ⟪ऋ⟫** | seperti r yang divokalkan dalam bahasa Bohemia. Gema ringan dari i. |
 
-| **ṝ - ॠ** | seperti r yang divokalkan dalam bahasa Bohemia. Gema ringan dari u. |
+| **ṝ - ⟪ॠ⟫** | seperti r yang divokalkan dalam bahasa Bohemia. Gema ringan dari u. |
 
-| **jñ - ज्ञ्** | juga seperti dny (Marathi) atau gy (India Utara). |
+| **jñ - ⟪ज्ञ्⟫** | juga seperti dny (Marathi) atau gy (India Utara). |
 
-| **ś - श्** | Bunyi sch dengan ujung lidah melengkung ke bawah. Mirip dengan 'sch' dalam "mischen". |
+| **ś - ⟪श्⟫** | Bunyi sch dengan ujung lidah melengkung ke bawah. Mirip dengan 'sch' dalam "mischen". |
 
-| **ṣ - ष्** | Bunyi ach dengan ujung lidah yang melengkung ke belakang. Seringkali diartikulasikan sangat jauh di belakang tenggorokan sehingga terdengar hampir seperti kh. |
+| **ṣ - ⟪ष्⟫** | Bunyi ach dengan ujung lidah yang melengkung ke belakang. Seringkali diartikulasikan sangat jauh di belakang tenggorokan sehingga terdengar hampir seperti kh. |
 
-| **h - ह्** | Bunyi hembusan, tidak pernah tanda panjang. |
+| **h - ⟪ह्⟫** | Bunyi hembusan, tidak pernah tanda panjang. |
 
-| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Bunyi hembusan bersuara rendah dengan gema vokal sebelumnya atau bagian kedua dari diftong sebelumnya: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Bunyi hembusan bersuara rendah dengan gema vokal sebelumnya atau bagian kedua dari diftong sebelumnya: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 
-| **ṃ** | **Anusvara** -- अनुस्वर. Sebelum bunyi desis, h, l: nasalisasi vokal. Di akhir kata = m. Di tengah kata sebelum konsonan: nasal yang sesuai dengan konsonan berikutnya: saṃdhi -- संधि = sandhi -- सन्धि |
+| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Sebelum bunyi desis, h, l: nasalisasi vokal. Di akhir kata = m. Di tengah kata sebelum konsonan: nasal yang sesuai dengan konsonan berikutnya: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 
 :::Pelafalan terbaik dicapai ketika kalimat, bait, atau kata-kata dibaca dengan cukup lambat dan monoton, dengan memperhatikan panjang vokal secara akurat.
 
@@ -205,16 +205,16 @@ Bunyi-bunyi bahasa Sanskerta menurut klasifikasi tradisional India dan translasi
 
 **A) Bacalah kata-kata berikut:**
 
-1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र
-2. brahmā viṣṇu śiva — ब्रह्मा विष्णु शिव
-3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन्
-4. ṛgveda sāmaveda yajurveda atharvaveda — ऋग्वेद सामवेद यजुर्वेद अथर्ववेद
-5. upaniṣad — उपनिषद्
-6. jaina bauddha — जैन बौद्ध
-7. prajñāpāramitā — प्रज्ञापारमिता
-8. cakra vajra — चक्र वज्र
-9. pitṝn — पितॄन्
-10. saṃskṛta — संस्कृत
+1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫
+2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫
+3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम⟫ ⟪ब्राह्मचारिन्⟫ ⟪गृहस्थ⟫ ⟪वानप्रस्थ⟫ ⟪संन्यासिन्⟫
+4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद⟫ ⟪सामवेद⟫ ⟪यजुर्वेद⟫ ⟪अथर्ववेद⟫
+5. upaniṣad — ⟪उपनिषद्⟫
+6. jaina bauddha — ⟪जैन⟫ ⟪बौद्ध⟫
+7. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫
+8. cakra vajra — ⟪चक्र⟫ ⟪वज्र⟫
+9. pitṝn — ⟪पितॄन्⟫
+10. saṃskṛta — ⟪संस्कृत⟫
 
 **B) Bacalah ekspresi-ekspresi Sanskerta dalam klasifikasi fonetik di atas.**
 

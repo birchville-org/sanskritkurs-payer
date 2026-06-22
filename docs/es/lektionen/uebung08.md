@@ -74,7 +74,7 @@ kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatri
 
 kṣatriyo brāhmaṇaṃ / brāhmaṇān / vaiśyaṃ / vaiśyān rakṣati. kṣatriyaḥ śūdraṃ / śūdrān. kṣatriyo brāhmaṇīṃ / brāhmaṇī rakṣati. kṣatriyaḥ kṣatriyāṃ / kṣatriyā rakṣati.
 
-क्षत्रियो ब्राह्मणं रक्षति । क्षत्रियो ब्राह्मणान्रक्षति । क्त्रियो वैश्यं रक्षति । क्षत्रियो वैश्यान्रक्षति । क्षत्रियः शूद्रं रक्षति । क्षत्रियः शूद्रान्रक्षति । क्षत्रियो ब्राह्मणीं रक्षति । क्षत्रियो ब्राह्मणी रक्षति । क्षत्रियः क्षत्रियां रक्षति । क्षत्रियः क्षत्रिया रक्षति ॥
+⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणान्रक्षति⟫ ⟪।⟫ ⟪क्त्रियो⟫ ⟪वैश्यं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪वैश्यान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणीं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणी⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रियां⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रिया⟫ ⟪रक्षति⟫ ⟪॥⟫
 
 D) Traduzca
 
@@ -82,127 +82,127 @@ D) Traduzca
 
 kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / kṣatriyā brāhmaṇavaiśyaśūdrān rakṣanti.
 
-क्षत्रिया ब्राह्मणांश्च वैश्यांश्च शूद्रांश्च रक्षन्ति । क्षत्रिया ब्राह्मणवैश्यशूद्रान्रक्षन्ति ।
+⟪क्षत्रिया⟫ ⟪ब्राह्मणांश्च⟫ ⟪वैश्यांश्च⟫ ⟪शूद्रांश्च⟫ ⟪रक्षन्ति⟫ ⟪।⟫ ⟪क्षत्रिया⟫ ⟪ब्राह्मणवैश्यशूद्रान्रक्षन्ति⟫ ⟪।⟫
 
 2\. Un hombre santo ve tanto el cielo como los infiernos.
 
 sādhuḥ svargāmś ca narakāmś ca paśyati.
 
-साधुः स्वर्गांश्च नरकांश्च पश्यति ।
+⟪साधुः⟫ ⟪स्वर्गांश्च⟫ ⟪नरकांश्च⟫ ⟪पश्यति⟫ ⟪।⟫
 
 3\. Él derrota a los kṣatriyas.
 
 kṣatriyāñ jayati.
 
-क्षत्रियञ्जयति ।
+⟪क्षत्रियञ्जयति⟫ ⟪।⟫
 
 4\. Ella tensa la urdimbre del telar.
 
 tantraṃ tanoti.
 
-तन्त्रं तनोति ।
+⟪तन्त्रं⟫ ⟪तनोति⟫ ⟪।⟫
 
 5\. Los soldados luchan.
 
 yodhā yudhyante.
 
-योधा युध्यन्ते ।
+⟪योधा⟫ ⟪युध्यन्ते⟫ ⟪।⟫
 
 6\. El brahmán hace un fuego.
 brāhmaṇo 'gniṃ karoti.
 
-ब्राह्मणो ऽग्निं करोति ।
+⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫ ⟪।⟫
 
 7\. Los brahmanes hacen fuegos.
 
 brāhmaṇā agniṃ kurvanti.
 
-ब्राह्मणा अग्निं कुर्वन्ति ।
+⟪ब्राह्मणा⟫ ⟪अग्निं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 
 8\. ¿Qué hacen estos combatientes?
 ime yodhāḥ kiṃ kurvanti?
 
-इमे योधाः किं कुर्वन्ति ।
+⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 
 9\. ¿A quién ve el ojo?
 netraṃ (nayanaṃ) kaṃ paśyati?
 
-नेत्रं (नयनं) कं पश्यति ।
+⟪नेत्रं⟫ (⟪नयनं⟫) ⟪कं⟫ ⟪पश्यति⟫ ⟪।⟫
 
 10\. ¿Qué desean los dioses?
 devāḥ kiṃ lubhyanti?
 
-देवाः किं लुभ्यन्ति ।
+⟪देवाः⟫ ⟪किं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
 
 11\. ¿Cuál es la razón?
 kiṃ kāraṇam?
 
-किं कारणम् ॥
+⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
 :::media
 ![](/images/uebung007.webp)
-Fig.: इमे योधाः किं कुर्वन्ति ।
+Fig.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung007))
 :::---
 
 ## Ejercicio de lectura
 
-1\. शूद्रो बालं नयति |
+1\. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 El śūdra conduce al niño.
 
-2\. कविर्देवं यजते |
+2\. ⟪कविर्देवं⟫ ⟪यजते⟫ |
 El poeta ofrece un sacrificio al dios.
 
-3\. साधुः फलानि खादति |
+3\. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
 El santo come frutas.
 
-4\. गुरुः क्रोधं जयति |
+4\. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
 El maestro vence su ira.
 
-5\. देवो नरकं सृजति |
+5\. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
 El dios crea el infierno.
 
-6\. धेनुर्ग्रामं विशति |
+6\. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
 La vaca entra en la aldea.
 
-7\. कामक्रोधलोभा नरकं नयन्ति |
+7\. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
 La pasión, la ira y la codicia conducen al infierno.
 
-8\. देवतां यजति |
+8\. ⟪देवतां⟫ ⟪यजति⟫ |
 Él ofrece un sacrificio para un señor de sacrificio de la deidad.
 
-9\. बाला भवति |
+9\. ⟪बाला⟫ ⟪भवति⟫ |
 Una niña nace.
 
-10\. सारथी रथं नयति |
+10\. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
 Un auriga conduce el carro.
 
-11\. कपयः फलानि खादन्ति |
+11\. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
 Los monos comen las frutas.
 
-12\. बाला लिखति |
+12\. ⟪बाला⟫ ⟪लिखति⟫ |
 La niña escribe o dibuja.
 
-13\. कुमारी गृहं विशति |
+13\. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
 La doncella entra en la casa.
 
-14\. देवो नागं सृजति |
+14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
 Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 
-15\. बालो गजं नयति |
+15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 El niño conduce al elefante.
 
-16\. विमला शोचति | (विमला nombre propio Vimalā)
+16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ nombre propio Vimalā)
 Vimalā ist traurig.
 
-17\. शुकः पतति |
+17\. ⟪शुकः⟫ ⟪पतति⟫ |
 El loro vuela.
 
-18\. बालः पत्रिकां लिखति |
+18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
 El niño escribe una carta.
 
 :::media
 ![](/images/uebung008.webp)
-Fig.: कपिः फलं खदति
+Fig.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung008))
 :::

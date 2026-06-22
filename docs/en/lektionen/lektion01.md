@@ -11,7 +11,7 @@ last_reconstructed: 2026-04-30
 
 
 :::center
-गणेशपूजनम्
+⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Worship of Gaṇeśa
 ::::::media
@@ -19,10 +19,10 @@ Worship of Gaṇeśa
 Fig.: Gaṇeśa, Adamspeak, Sri Lanka
 (Image source: [Details](/en/licenses#lekt0102))
 ::::::center
-लम्बोदर नमस् तुभ्यं
-सततं मोदकप्रिय |
-निर्विघ्नं कुरु मे देव
-सर्वकार्येषु सर्वदा |
+⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
+⟪सततं⟫ ⟪मोदकप्रिय⟫ |
+⟪निर्विघ्नं⟫ ⟪कुरु⟫ ⟪मे⟫ ⟪देव⟫
+⟪सर्वकार्येषु⟫ ⟪सर्वदा⟫ |
 
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
@@ -36,7 +36,7 @@ Free from obstacles!
 :::---
 
 :::center
-मङ्गलचरणम्
+⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Auspicious Beginning"
 ::::::media
@@ -44,10 +44,10 @@ maṅgalacaraṇam
 Fig.: Ardhanarīśvara
 (Image source: [Details](/en/licenses#lekt0101))
 ::::::center
-वागर्थाविव संपृक्तौ
-वागर्थप्रतिपत्तये |
-जगतः पितरौ वन्दे
-पार्वतीपरमेश्वरौ |
+⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
+⟪वागर्थप्रतिपत्तये⟫ |
+⟪जगतः⟫ ⟪पितरौ⟫ ⟪वन्दे⟫
+⟪पार्वतीपरमेश्वरौ⟫ |
 
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
@@ -122,33 +122,33 @@ The sounds of Sanskrit according to the traditional Indian classification and th
 
 :::tip Classification
 
-- **simple vowels** (samānākṣara -- समानाक्षर):
-  अ a, आ ā, इ i, ई ī, उ u, ऊ ū, ऋ ṛ, ॠ ṝ, ऌ ḷ
-- **diphthongs** (sandhyakṣara -- सन्ध्यक्षर):
-  ए e, ऐ ai, ओ o, औ au
-- **consonants** (vyañjana / hal -- व्यञ्जन / हल्):
-  क ka, ख kha, ग ga, घ gha, ङ ṅa
-  च ca, छ cha, ज ja, झ jha, ञ ña
-  ट ṭa, ठ ṭha, ड ḍa, ढ ḍha, ण ṇa
-  त ta, थ tha, द da, ध dha, न na
-  प pa, फ pha, ब ba, भ bha, म ma
-  य ya, र ra, ल la, व va
-  श śa, ष ṣa, स sa
-  ह ha
+- **simple vowels** (samānākṣara -- ⟪समानाक्षर⟫):
+  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+- **diphthongs** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
+  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+- **consonants** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
+  ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
+  ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
+  ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
+  ⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
+  ⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
+  ⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
+  ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
+  ⟪ह⟫ ha
 :::### 1.2.1. On the Pronunciation of Individual Sounds
 
 :::laut-table
 | Sound | Description |
 | :--- | :--- |
-| **a - अ** | "short a" is often pronounced by Indians -- since ancient times -- as ə. In Europe, it is pronounced as short a, in Bengal as short dark o. |
-| **ṛ - ऋ** | like Czech vocalized r. Slight echo of i. |
-| **ṝ - ॠ** | like Czech vocalized r. Slight echo of u. |
-| **jñ - ज्ञ्** | also like dny (Marāṭhī) or gy (North Indian). |
-| **ś - श्** | sh-sound with tongue tip bent downward. Similar to sh in "mischen". |
-| **ṣ - ष्** | kh-sound with tongue tip curled back. Often articulated so far back in the throat that it sounds almost like kh. |
-| **h - ह्** | aspiration sound, never a lengthening mark. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- विसर्ग / विसर्जनीय. Voiceless aspiration with echo of the preceding vowel or the second part of the preceding diphthong: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
-| **ṃ** | **Anusvara** -- अनुस्वर. Before sibilants, h, l: nasalization of the vowel. In final position = m. In medial position before consonants: the nasal corresponding to the following consonant: saṃdhi -- संधि = sandhi -- सन्धि |
+| **a - ⟪अ⟫** | "short a" is often pronounced by Indians -- since ancient times -- as ə. In Europe, it is pronounced as short a, in Bengal as short dark o. |
+| **ṛ - ⟪ऋ⟫** | like Czech vocalized r. Slight echo of i. |
+| **ṝ - ⟪ॠ⟫** | like Czech vocalized r. Slight echo of u. |
+| **jñ - ⟪ज्ञ्⟫** | also like dny (Marāṭhī) or gy (North Indian). |
+| **ś - ⟪श्⟫** | sh-sound with tongue tip bent downward. Similar to sh in "mischen". |
+| **ṣ - ⟪ष्⟫** | kh-sound with tongue tip curled back. Often articulated so far back in the throat that it sounds almost like kh. |
+| **h - ⟪ह्⟫** | aspiration sound, never a lengthening mark. |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Voiceless aspiration with echo of the preceding vowel or the second part of the preceding diphthong: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
+| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Before sibilants, h, l: nasalization of the vowel. In final position = m. In medial position before consonants: the nasal corresponding to the following consonant: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::The best pronunciation is achieved when one reads the sentences, verses, or words quite slowly and monotonously, paying exact attention to the length of the vowels.
 
 ---
@@ -157,15 +157,15 @@ The sounds of Sanskrit according to the traditional Indian classification and th
 
 **A) Read the following words:**
 
-1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र
-2. brahmā viṣṇu śiva — ब्रह्मा विष्णु शिव
-3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन्
-4. ṛgveda sāmaveda yajurveda atharvaveda — ऋग्वेद सामवेद यजुर्वेद अथर्ववेद
-5. upaniṣad — उपनिषद्
-6. jaina bauddha — जैन बौद्ध
-7. prajñāpāramitā — प्रज्ञापारमिता
-8. cakra vajra — चक्र वज्र
-9. pitṝn — पितॄन्
-10. saṃskṛta — संस्कृत
+1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫
+2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫
+3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम⟫ ⟪ब्राह्मचारिन्⟫ ⟪गृहस्थ⟫ ⟪वानप्रस्थ⟫ ⟪संन्यासिन्⟫
+4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद⟫ ⟪सामवेद⟫ ⟪यजुर्वेद⟫ ⟪अथर्ववेद⟫
+5. upaniṣad — ⟪उपनिषद्⟫
+6. jaina bauddha — ⟪जैन⟫ ⟪बौद्ध⟫
+7. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫
+8. cakra vajra — ⟪चक्र⟫ ⟪वज्र⟫
+9. pitṝn — ⟪पितॄन्⟫
+10. saṃskṛta — ⟪संस्कृत⟫
 
 **B) Read the Sanskrit expressions in the phonetic classification above.**

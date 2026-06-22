@@ -10,22 +10,20 @@ status: stable
 
 Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 
-::: grammar-box
+:::grammar-box
 **Es gibt zwei Arten der Perfektbildung:**
 *   **das reduplizierte Perfekt = ⟪द्वित्वलिट्⟫**
 *   **das periphrastische Perfekt = ⟪अनुप्रयोगलिट्⟫**
-:::
-::: grammar-box
+::::::grammar-box
 **Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫) wird gebraucht:**
 1. **bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa)**
 2. **bei Wurzeln, die mit einem langen Vokal (außer ā-) beginnen, bzw. mit einem Vokal (außer a-) vor zwei Konsonanten**
 3. **bei einigen sonstigen Wurzeln**
-:::
-## 34.2. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
+:::## 34.2. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
 
 ### 34.2.1. Stammabstufung
 
-::: grammar-box
+:::grammar-box
 **Bildung:**
 
 **starker Stamm:** Singular Parasmaipada
@@ -33,8 +31,7 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 
 **schwacher Stamm:** alle übrigen Formen
 *   **reduplizierte tiefstufige Wurzel + Perfektendung**
-:::
-::: grammar-box
+::::::grammar-box
 **Generell (auch außerhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:**
 *   **(Konsonant)-Konsonant-Langvokal-Konsonant**
 *   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
@@ -42,26 +39,22 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 **Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:**
 *   **a-Konsonant**
 *   **ā-Konsonant**
-:::
-### 34.2.2. Die Perfektendungen
+:::### 34.2.2. Die Perfektendungen
 
-:::: grammar-box
+:::grammar-box
 
 | | 3. Singular | 3. Plural |
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
-::::
+:::### 34.2.3. Bindevokal -i-
 
-### 34.2.3. Bindevokal -i-
-
-::: grammar-box
+:::grammar-box
 **Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.**
-:::
-### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
+:::### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
 
-::: grammar-box
+:::grammar-box
 **Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.**
 
 **Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.**
@@ -69,11 +62,9 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 **Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.**
 
 **ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.**
-:::
+:::Beispiele:
 
-Beispiele:
-
-:::: grammar-box
+:::grammar-box
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
@@ -81,70 +72,52 @@ Beispiele:
 | ⟪मुच्⟫ | ***⟪मु⟫***⟪मोच⟫ |
 | ⟪भृ⟫ | ***⟪ब⟫***⟪भार⟫ |
 
-::::
-
-::: grammar-box
+::::::grammar-box
 **Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".**
-:::
+:::Beispiele:
 
-Beispiele:
-
-:::: grammar-box
+:::grammar-box
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
-::::
+:::### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
 
-### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
-
-::: grammar-box
+:::grammar-box
 **1. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.**
-:::
+:::Beispiele:
 
-Beispiele:
-
-:::: grammar-box
+:::grammar-box
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
 | ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
 
-::::
-
-::: grammar-box
+::::::grammar-box
 **2. Wurzeln mit anlautendem i- haben als Reduplikationssilbe im starken Stamm iy-, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- "verschmilzt. Analoges gilt für anlautendes u-.**
-:::
+:::Beispiele:
 
-Beispiele:
-
-:::: grammar-box
+:::grammar-box
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
 | ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
-::::
-
-::: grammar-box
+::::::grammar-box
 **3. Wurzeln die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben als Reduplikationssilbe ān-**
-:::
+:::Beispiele:
 
-Beispiele:
-
-:::: grammar-box
+:::grammar-box
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
-::::
-
-## 34.3. Typen des reduplizierten Perfekts
+:::## 34.3. Typen des reduplizierten Perfekts
 
 Einteilungsprinzip: Besonderheiten der Stammabstufung:
 *   Perfekt ohne Stammabstufung: Typ I
@@ -153,17 +126,15 @@ Einteilungsprinzip: Besonderheiten der Stammabstufung:
 
 ## 34.4. Perfekt Typ I: Perfekt ohne Stammabstufung
 
-::: grammar-box
+:::grammar-box
 **Perfekt Typ I (ohne Stammabstufung) haben Wurzeln der Typen:**
 *   **(Konsonant)-Konsonant-Langvokal-Konsonant**
 *   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
 *   **a-Konsonant**
 *   **ā-Konsonant**
-:::
+:::Beispiele:
 
-Beispiele:
-
-:::: grammar-box
+:::grammar-box
 
 | Wurzel | 3. sg. Perf. | 3. pl. Perf. |
 | :--- | :--- | :--- |
@@ -173,22 +144,18 @@ Beispiele:
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
 | ⟪अश्⟫ | ⟪आनशे⟫:brunregelmäßige Reduplikation! | ⟪आनशिरे⟫ |
 
-::::
+:::## 34.5. Perfekt Typ II: Starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
-## 34.5. Perfekt Typ II: Starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-
-::: grammar-box
+:::grammar-box
 **Wird gebildet von Wurzeln der Form:**
 *   **(Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant**
 
 **Bildung:**
 *   **starker Stamm: Hochstufe**
 *   **schwacher Stamm: Tiefstufe**
-:::
+:::Beispiele:
 
-Beispiele:
-
-:::: grammar-box
+:::grammar-box
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -198,22 +165,18 @@ Beispiele:
 | ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
-::::
-
-## 34.6. Wortliste
+:::## 34.6. Wortliste
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
 **⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide
 
-::: media
+:::media
 ![](/images/lekt3406.webp)
 Abb.: ⟪सस्यम्⟫
 Rice field in India.
 (Bildquelle: [Details](/licenses#lekt3406))
-:::
-
-**⟪यावत्⟫ :** wie lange, wie groß
+:::**⟪यावत्⟫ :** wie lange, wie groß
 
 **⟪तावत्⟫ :** so lange, so groß
 
@@ -221,41 +184,33 @@ Rice field in India.
 
 **⟪द्वीप⟫ m.n.:** Insel, Kontinent
 
-::: media
+:::media
 ![](/images/lekt3405.webp)
 Abb.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
 (Bildquelle: [Details](/licenses#lekt3405))
-:::
-
-**⟪मर्त्य⟫ 3:** sterblich (zu **⟪मृ⟫**)
+:::**⟪मर्त्य⟫ 3:** sterblich (zu **⟪मृ⟫**)
 
 **⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.)
 
-::: media
+:::media
 ![](/images/lekt3403.webp)
 Abb.: ⟪तिलाः⟫
 Sesame seeds.
 (Bildquelle: [Details](/licenses#lekt3403))
-:::
-
-::: media
+::::::media
 ![](/images/lekt3404.webp)
 Abb.: *Sesamum indicum* L.
 Sesame plant flowering.
 (Bildquelle: [Details](/licenses#lekt3404))
-:::
+:::**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold
 
-**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold
-
-::: media
+:::media
 ![](/images/lekt3402.webp)
 Abb.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
 (Bildquelle: [Details](/licenses#lekt3402))
-:::
-
-**⟪निकेतन⟫ n.:** Wohnstatt, Tempel
+:::**⟪निकेतन⟫ n.:** Wohnstatt, Tempel
 
 **⟪कोटि⟫ f.:** Spitze; 10 Millionen
 
@@ -265,14 +220,12 @@ Golden Temple (Harmandir Sahib), Amritsar.
 
 **⟪ऋषभ⟫ m.:** Stier
 
-::: media
+:::media
 ![](/images/lekt3401.webp)
 Abb.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Bildquelle: [Details](/licenses#lekt3401))
-:::
-
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren
+:::**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern
 
@@ -333,7 +286,7 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 
 Erklärungen:
 
-::: indent
+:::indent
 **Vokativ sg.** der Maskulina / Neutra auf -a lautet auf -a: z.B. **⟪देव⟫** "Gott!"
 
 **⟪चतुर्दश⟫** vierzehn
@@ -343,16 +296,12 @@ Erklärungen:
 **⟪जन्म⟫** Nom./Akk. sg. zu **⟪जन्मन्⟫ n.** Geburt
 
 **⟪सर्व⟫ 3** "alle, ganz" (dekliniert nach Pronominaldeklination)
-:::
-
-::: media
+::::::media
 ![](/images/lekt3407.webp)
 Abb.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Hindu wedding ritual.
 (Bildquelle: [Details](/licenses#lekt3407))
-:::
-
-::: deleteme-box
+::::::deleteme-box
 
 **lekt3401:** Nandi Bull statue, Chamundi Hills, Mysore. [Bildquelle: Luna Park / Flickr. CC BY-NC-ND]
 

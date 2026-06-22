@@ -55,13 +55,11 @@ A) Zur Wiederholung der Deklination: Folgender Vers enthält alle Deklinationsfo
 
 > Eine Familie, in der der Gatte mit der Gattin stets zufrieden ist und die Gattin mit dem Gatten, in einer solchen Familie ist stetes Glück gewiss.
 
-::: media
+:::media
 ![](/images/uebung081.webp)
 Abb.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫ ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫ ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫ ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung081))
-:::
-
----
+:::---
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers
 
@@ -77,13 +75,11 @@ Abb.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 
 > Man engagiere sich stets im Vedastudium und in den Riten für die Götter. Wer sich in den Riten für die Götter engagiert, erhält nämlich diese Welt aus Belebtem und Unbelebtem. Das Opfer, das in rechter Weise ins Feuer geworfen wird, geht zur Sonne, aus der Sonne entsteht Regen, aus Regen Speise, daraus die Geschöpfe.
 
-::: media
+:::media
 ![](/images/uebung082.webp)
 Abb.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫ ⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung082))
-:::
-
----
+:::---
 
 ### ⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
 

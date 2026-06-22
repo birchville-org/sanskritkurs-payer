@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Bilden Sie den Dativ Singular und den Dativ (bzw. Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:
 
-::: grammar-box
+:::grammar-box
 | Wort | Bedeutung | Dativ Sg. | Dativ Pl. |
 | :--- | :--- | :--- | :--- |
 | ⟪१⟫. **⟪श्रव⟫** | Hören | ⟪श्रवणाय⟫ | ⟪श्रवणेभ्यः⟫ |
@@ -42,9 +42,7 @@ A) Bilden Sie den Dativ Singular und den Dativ (bzw. Ablativ) Plural und geben S
 | ⟪२७⟫. **⟪पूजा⟫** | Verehrung | ⟪पूजायै⟫ | ⟪पूजाभ्यः⟫ |
 | ⟪२८⟫. **⟪दासी⟫** | Dienerin | ⟪दास्यै⟫ | ⟪दासीभ्यः⟫ |
 | ⟪२९⟫. **⟪गुरु⟫** | Meister | ⟪गुरवे⟫ (m) / ⟪गुर्व्यै⟫ (f) | ⟪गुरुभ्यः⟫ / ⟪गुर्वीभ्यः⟫ |
-:::
-
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+:::B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ⟪१⟫. **⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विश⟫ati ⟪॥१॥⟫**
 (⟪देवस्य⟫ ⟪प्रतिमाया⟫ ⟪दर्शनाय⟫ ⟪।⟫ ⟪गर्भ⟫ ⟪एव⟫ ⟪गृहम्⟫)
@@ -80,13 +78,11 @@ Die Götter zürnen diesen Brahmanen, die ihnen keine Verehrung zollten.
 ⟪९⟫. **⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫**
 Um zu sterben, werden Lebewesen geboren.
 
-::: media
+:::media
 ![](/images/uebung037.webp)
 Abb.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Bildquelle: [Details](/licenses#uebung037))
-:::
-
----
+:::---
 
 ## Syntaktische Variationen
 
@@ -155,7 +151,7 @@ E) Ersetzen Sie in Satz B) 6 den Dativ durch eine Konstruktion mit **-⟪अर�
 15\. Auf Wiedersehen! (Neusanskrit)
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
 
-::: media
+:::media
 ![](/images/uebung038.webp)
 Abb.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Bildquelle: [Details](/licenses#uebung038))
