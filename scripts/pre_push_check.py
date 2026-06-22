@@ -279,6 +279,58 @@ def check_release_version():
         return f"Fehler beim Version-Check: {e}"
     return None
 
+def check_qa_viewer_dropdowns():
+    """Prüft ob die Dropdowns im QA Viewer identisch sind und exakt allLocales aus config.mjs entsprechen."""
+    qa_viewer = ROOT / 'docs/public/qa_viewer.html'
+    config_mjs = ROOT / 'docs/.vitepress/config.mjs'
+    
+    if not qa_viewer.exists() or not config_mjs.exists():
+        return "qa_viewer.html oder config.mjs nicht gefunden"
+        
+    content_config = config_mjs.read_text(encoding='utf-8')
+    match = re.search(r'const allLocales = \[(.*?)\];', content_config)
+    if not match:
+        return "allLocales Array in config.mjs nicht gefunden"
+    
+    locales_str = match.group(1).replace(' ', '')
+    active_locales = set(locales_str.split(','))
+    
+    expected_values = {"qa/lektion01.html"}
+    for l in active_locales:
+        if l == 'de':
+            expected_values.add("lektionen/lektion01")
+        elif l:
+            expected_values.add(f"{l}/lektionen/lektion01")
+
+    content_qa = qa_viewer.read_text(encoding='utf-8')
+    
+    left_match = re.search(r'<select id="left-lang"[^>]*>(.*?)</select>', content_qa, re.DOTALL)
+    right_match = re.search(r'<select id="right-lang"[^>]*>(.*?)</select>', content_qa, re.DOTALL)
+    
+    if not left_match or not right_match:
+        return "Dropdowns #left-lang oder #right-lang nicht in qa_viewer.html gefunden"
+        
+    def get_options(html_block):
+        return set(re.findall(r'<option value="([^"]+)"', html_block))
+        
+    left_opts = get_options(left_match.group(1))
+    right_opts = get_options(right_match.group(1))
+    
+    errors = []
+    if left_opts != right_opts:
+        diff = left_opts.symmetric_difference(right_opts)
+        errors.append(f"Links und rechts sind asynchron! Differenz: {diff}")
+        
+    missing = expected_values - left_opts
+    extra = left_opts - expected_values
+    
+    if missing:
+        errors.append(f"Fehlende aktive Sprachen im Dropdown: {missing}")
+    if extra:
+        errors.append(f"Inaktive/Überflüssige Sprachen im Dropdown: {extra}")
+        
+    return "\n     ".join(errors) if errors else None
+
 # ── Hauptprogramm ──────────────────────────────────────────────────────────────
 
 def main():
@@ -401,27 +453,14 @@ def main():
         print(f"  ✓ OK — alle {len(LANGS)} Sprachen haben licenses.md")
 
     # ── 5c. qa_viewer Dropdown-Vollständigkeit ──────────────────────────────
-    print("\n[5c] qa_viewer.html — Dropdown enthält alle Sprachen...")
-    qa_viewer = ROOT / 'docs/public/qa_viewer.html'
-    if not qa_viewer.exists():
-        print("  ⚠ qa_viewer.html nicht gefunden — übersprungen")
+    print("\n[5c] qa_viewer.html — Dropdown Parität und Aktualität...")
+    qa_err = check_qa_viewer_dropdowns()
+    if qa_err:
+        print(f"  ❌ {qa_err}")
+        print("     → Bitte docs/public/qa_viewer.html an docs/.vitepress/config.mjs (allLocales) angleichen")
+        total_errors += 1
     else:
-        qa_content = qa_viewer.read_text(encoding='utf-8')
-        SKIP_DIRS = {'.vitepress', 'public', 'qa', 'lektionen', 'de', '.zennotes', 'archive', 'quick', 'trash', 'zh-CN', 'zh-TW', 'th'}
-        lang_dirs = {d.name for d in (ROOT / 'docs').iterdir()
-                     if d.is_dir() and d.name not in SKIP_DIRS}
-        # Prüfe ob jede Sprache als option value in QA-Viewer vorhanden ist
-        missing_dropdown = []
-        for lang in sorted(lang_dirs):
-            pattern = f'value="{lang}/lektionen/'
-            if pattern not in qa_content:
-                missing_dropdown.append(lang)
-        if missing_dropdown:
-            print(f"  ❌ Sprache(n) fehlen im qa_viewer-Dropdown: {missing_dropdown}")
-            print(f"     → Beide <select>-Elemente in docs/public/qa_viewer.html ergänzen")
-            total_errors += len(missing_dropdown)
-        else:
-            print(f"  ✓ OK — alle {len(lang_dirs)} Sprachen im Dropdown")
+        print("  ✓ OK — Dropdowns sind synchron und entsprechen allLocales")
 
     # ── 8. Lizenzen (nur bei --scope=all oder wenn DE-Dateien im Diff) ───────
     de_files = [f for f in files if lang_from_path(f) == 'de']
