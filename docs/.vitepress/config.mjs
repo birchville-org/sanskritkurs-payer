@@ -7,7 +7,7 @@ import { it } from './locales/it.mjs'
 import { bg } from './locales/bg.mjs'
 import { ru } from './locales/ru.mjs'
 import { uk } from './locales/uk.mjs'
-// import { hi } from './locales/hi.mjs'
+import { hi } from './locales/hi.mjs'
 // ── v1.3 languages ────────────────────────────────────────────────────────────
 import { es } from './locales/es.mjs'
 import { ta } from './locales/ta.mjs'
@@ -74,9 +74,9 @@ uk.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Лекція', 'uk
 uk.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Письмо', 'uk')
 uk.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Вправа', 'uk', 10)
 
-// hi.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'पाठ', 'hi', 10)
-// hi.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'लिपि', 'hi')
-// hi.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'अभ्यास', 'hi', 10)
+hi.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'पाठ', 'hi', 10)
+hi.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'लिपि', 'hi')
+hi.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'अभ्यास', 'hi', 10)
 
 fr.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Leçon', 'fr', 10)
 fr.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Écriture', 'fr')
@@ -144,7 +144,7 @@ he.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'he')
 he.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'he', 10)
 
 const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
-const allLocales = [de, en, it, ru, uk, fr, es, ta, pa, ro, id, he];
+const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, ro, id, he];
 
 // if (!isAuthorBuild) {
 //   for (const localeObj of allLocales) {
@@ -182,7 +182,7 @@ export default defineConfig({
     bg: { ...bg },
     ru: { ...ru },
     uk: { ...uk },
-    // hi: { ...hi },
+    hi: { ...hi },
     fr: { ...fr },
     // ── v1.3 languages ───────────────────────────────────────────────────────────
     es: { ...es },
@@ -365,13 +365,12 @@ export default defineConfig({
       
       // Scholarly syntax: :br, :indent, ⟪Devanagari⟫
       md.core.ruler.after('linkify', 'scholarly_fixes', (state) => {
-        const isHindiPage = state.env?.relativePath?.startsWith('hi/');
         state.tokens.forEach(token => {
           if (token.type === 'inline') {
             let newChildren = [];
             token.children.forEach(child => {
               if (child.type === 'text') {
-                const SCHOLARLY_RE = /(⟪[^⟫]+⟫|(?<!:):br|(?<!:):indent)/g;
+                const SCHOLARLY_RE = /([⟪《][^⟫⟩》]+[⟫⟩》]|(?<!:):br|(?<!:):indent)/g;
                 if (!SCHOLARLY_RE.test(child.content)) {
                   newChildren.push(child);
                   return;
@@ -379,9 +378,9 @@ export default defineConfig({
                 const parts = child.content.split(SCHOLARLY_RE);
                 parts.forEach(part => {
                   if (!part) return;
-                  if (part.startsWith('⟪') && part.endsWith('⟫')) {
+                  if (part.match(/^[⟪《].*[⟫⟩》]$/)) {
                     const span = new state.Token('html_inline', '', 0);
-                    span.content = `<span class="${isHindiPage ? 'hindi-dev' : 'sanskrit-dev'}">${part.slice(1, -1)}</span>`;
+                    span.content = `<span class="sanskrit-dev">${part.slice(1, -1)}</span>`;
                     newChildren.push(span);
                   } else if (part === ':br') {
                     newChildren.push(new state.Token('hardbreak', 'br', 0));
