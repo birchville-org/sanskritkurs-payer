@@ -9,10 +9,8 @@ import re
 API_URL = "http://nyx.local:8000/v1/chat/completions"
 MODEL = "mlx-community/Qwen3.6-35B-A3B-4bit"
 LANGUAGES = [
-#    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm",
-#    "ar", "arc", "he", "zh", "la", "grc", "el", "fa", "akk", "cop",
-    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "ta", "pa",
-    "la", "rm", "ro", "id", "zh-CN", "zh-TW", "th", "he"
+    "en", "it", "es", "ru", "uk", "hi", "fr", "ta", "pa",
+    "la", "rm", "ro", "id", "zh-CN", "he", "ar", "arc"
 ]
 LANG_NAMES = {
     "en": "English", "it": "Italian", "es": "Spanish",
@@ -805,12 +803,13 @@ def translate_text(text, target_lang):
     )
     best_result = None
     best_missing: list = list(deva_registry.keys())  # worst case: all missing
+    is_fallback = False  # FIX: was undefined, causing NameError on retry attempts
 
     max_ph_retries = 4
     for ph_attempt in range(max_ph_retries):
-        is_fallback = (ph_attempt == max_ph_retries - 1)
-        current_api_url = "https://openrouter.ai/api/v1/chat/completions" if is_fallback else API_URL
-        current_model = "qwen/qwen-2.5-72b-instruct" if is_fallback else MODEL
+        # Fallback to OpenRouter disabled – always use local endpoint and primary model
+        current_api_url = API_URL
+        current_model = MODEL
 
         # Bump temperature on retries so the model makes different choices.
         temperature = 0.1 if ph_attempt == 0 else 0.3
@@ -1014,6 +1013,9 @@ def fix_lesson_links(content, lang):
 def translate_file(source_path, target_path, lang, post_process=None, force=False):
     """Translate a single file with mtime-based skip and chunking. Returns True on success."""
     filename = os.path.basename(source_path)
+    is_fallback_mode = False
+    has_fallback = False
+    
     if not force and os.path.exists(target_path) and os.path.getsize(target_path) > 500:
         with open(target_path, 'r', encoding='utf-8') as tf:
             target_content = tf.read()
@@ -1024,41 +1026,113 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
             return True
         
         if has_fallback:
-            print(f"[{lang}] Fallback tags detected in {filename} — forcing re-translation...")
+            print(f"[{lang}] Fallback tags detected in {filename} — resolving fallbacks only...")
+            is_fallback_mode = True
         else:
-            print(f"[{lang}] Outdated {filename} — re-translating...")
+            print(f"[{lang}] Outdated {filename} — re-translating completely...")
+    else:
+        print(f"[{lang}] Translating {filename}...")
 
-    print(f"[{lang}] Translating {filename}...")
-    with open(source_path, encoding="utf-8") as f:
-        content = f.read()
-
-    chunks = chunk_content(content)
-    translated_chunks = []
     total_retries = 0
-    for i, chunk in enumerate(chunks, 1):
-        if not chunk.strip():
-            translated_chunks.append(chunk)
-            continue
-        ts = time.strftime('%H:%M:%S')
-        print(f"[{ts}]  -> section {i}/{len(chunks)}...")
-        
-        result_tuple = translate_text(chunk, lang)
-        result = result_tuple[0]
-        total_retries += result_tuple[1]
-        
-        if result.startswith("ERROR:"):
-            print(f"  [!] Failed chunk {i}: {result}")
-            return False
-        translated_chunks.append(result)
 
-    translated = escape_angle_brackets_in_tables('\n\n'.join(translated_chunks))
+    if is_fallback_mode:
+        # SURGICAL FALLBACK MODE
+        # Extract blocks from target file, translate only the missing ones.
+        blocks = target_content.split('\n\n')
+        translated_blocks = []
+        fallbacks_found = 0
+        
+        for i, block in enumerate(blocks):
+            if "<!-- TODO: Fallback translation -->" in block:
+                fallbacks_found += 1
+                # Clean up the fallback tag to get the raw German source
+                source_text = block.replace(" <!-- TODO: Fallback translation -->", "").replace("<!-- TODO: Fallback translation -->", "")
+                
+                if not source_text.strip():
+                    translated_blocks.append(source_text)
+                    continue
+                
+                ts = time.strftime('%H:%M:%S')
+                print(f"[{ts}]  -> surgical fallback {fallbacks_found}...")
+                
+                result_tuple = translate_text(source_text, lang)
+                result = result_tuple[0]
+                total_retries += result_tuple[1]
+                
+                if result.startswith("ERROR:"):
+                    print(f"  [!] Failed fallback {fallbacks_found}: {result}")
+                    return False
+                
+                translated_blocks.append(result.strip())
+            else:
+                # Keep existing translated block unchanged
+                translated_blocks.append(block)
+                
+        translated = '\n\n'.join(translated_blocks)
+        
+    else:
+        # FULL FILE TRANSLATION MODE
+        with open(source_path, encoding="utf-8") as f:
+            content = f.read()
+
+        chunks = chunk_content(content)
+        translated_chunks = []
+        
+        for i, chunk in enumerate(chunks, 1):
+            if not chunk.strip():
+                translated_chunks.append(chunk)
+                continue
+            ts = time.strftime('%H:%M:%S')
+            print(f"[{ts}]  -> section {i}/{len(chunks)}...")
+            
+            result_tuple = translate_text(chunk, lang)
+            result = result_tuple[0]
+            total_retries += result_tuple[1]
+            
+            if result.startswith("ERROR:"):
+                print(f"  [!] Failed chunk {i}: {result}")
+                return False
+            translated_chunks.append(result)
+
+        translated = '\n\n'.join(translated_chunks)
+
+    translated = escape_angle_brackets_in_tables(translated)
     if post_process:
         translated = post_process(translated)
-    with open(target_path, "w", encoding="utf-8") as f:
-        f.write(translated)
-    
+
+    # FIX: Guard against empty translation result — never write an empty file.
+    if not translated or not translated.strip():
+        print(f"  [!] ABORT: Translation result for {filename} is empty — refusing to overwrite existing file.")
+        return False
+
+    # FIX: Atomic write — use a temp file + os.replace()
+    import tempfile
+    target_dir = os.path.dirname(target_path) or '.'
+    try:
+        tmp_fd, tmp_path = tempfile.mkstemp(dir=target_dir, suffix='.tmp')
+        try:
+            with os.fdopen(tmp_fd, 'w', encoding='utf-8') as f:
+                f.write(translated)
+            os.replace(tmp_path, target_path)  # atomic on POSIX
+        except Exception:
+            try:
+                os.unlink(tmp_path)
+            except OSError:
+                pass
+            raise
+    except Exception as write_err:
+        print(f"  [!] FATAL: Could not write {target_path}: {write_err}")
+        return False
+
+    # FIX: Warn if the written file is suspiciously small compared to source.
+    source_size = os.path.getsize(source_path)
+    written_size = os.path.getsize(target_path)
+    if not is_fallback_mode and source_size > 200 and written_size < source_size * 0.3:
+        print(f"  [!] WARNING: {filename} looks too small ({written_size} B written vs {source_size} B source). Review output!")
+
     retry_msg = f" (Total QC retries: {total_retries})" if total_retries > 0 else " (Flawless run)"
-    print(f"[{lang}] Done {filename}.{retry_msg}")
+    mode_msg = " (Surgical)" if is_fallback_mode else ""
+    print(f"[{lang}] Done {filename}{mode_msg}.{retry_msg}")
     time.sleep(2)
     return True
 
