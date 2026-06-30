@@ -1,13 +1,14 @@
-# Project Roadmap - Milestone v1.3
+# Project Roadmap - Milestone v1.5
 
 ## Milestones
 
 - ✅ **v1.0 Initial MVP** — Phasen 1-4 (shipped 2026-04-14)
 - ✅ **v1.1 Interaktion & Flexibilität** — Phasen 5-9 (shipped 2026-04-19)
 - ✅ **v1.2 Search, Index & I18n Expansion** — Phasen 10-14 (shipped 2026-05-27)
-  - ⚠ Known gaps: BG (23/61), UK (31/61), RU Übungen (0/61) — handled out-of-band via lan_translate.py
 - ✅ **v1.3 Polyglot & Polish** — Phasen 15-17 (shipped 2026-06-11)
-- ✅ **v1.4 Offline-First PWA** — Phasen 18-21
+- ✅ **v1.4 Offline-First PWA** — Phasen 18-21 (shipped 2026-06-15)
+- 🚧 **v1.5 QA-Authoring-Split & UAT** — Phase 22 (Tech done, UAT pending)
+
 
 ## Phasen
 
@@ -109,8 +110,8 @@ Standardisierung der Metadaten und Legacy-Vergleichswerkzeug.
 
 ### Phase 18: PWA Foundation & Manifest
 Setup der Progressive Web App Infrastruktur: manifest.json, Icons, Meta-Tags, Install-Prompt.
-**Status:** Pending
-**Plans:** 0 plans
+**Status:** Complete (2026-06-12)
+**Plans:** 3/3 plans complete ✅
 
 - [x] 18-1-PLAN.md — Web App Manifest erstellen (name, icons, theme_color, start_url) + 4 PNGs generiert
 - [x] 18-2-PLAN.md — PWA Meta-Tags in config.mjs head() injizieren
@@ -140,7 +141,7 @@ Implementierung des Service Workers mit intelligenten Cache-Strategien für Offl
 ### Phase 20: Sprachauswahl (Runtime-Filter) ⭐ PRIORITY
 User-seitige Sprachauswahl via Settings-Page. Server hostet alle 14 Sprachen,
 Client entscheidet welche gecacht + angezeigt werden. Kein Build/Docker-Änderung.
-**Status:** In Progress
+**Status:** Complete (2026-06-12)
 **Plans:** 6 plans (6/6 complete)
 
 - [x] 20-1-PLAN.md — Settings-Page UI: 14 Checkboxen mit Persistenz in localStorage ✅
@@ -175,8 +176,8 @@ End-to-End-Testing der Offline-Funktionalität, Performance-Optimization, UX-Pol
 
 </details>
 
-<details closed>
-<summary>📋 v1.5 QA-Authoring-Split (Phase 22 — BACKLOG)</summary>
+<details open>
+<summary>📋 v1.5 QA-Authoring-Split & UAT (Phase 22)</summary>
 
 ### Phase 22: QA-Modus-Split (zwei Builds, zwei Domains)
 Trennung von Public- und Authoring-Version mit dedizierten Domains und Builds.
@@ -186,12 +187,12 @@ Trennung von Public- und Authoring-Version mit dedizierten Domains und Builds.
 - `author.payer.birchville.cc` — Authoring (QA, Editor, deleteme-box, Authelia-Auth)
 
 **Pläne**:
-- [ ] **Plan 22.1**: `config.author.mjs` erstellen (Fork von config.mjs + QA-Feature-Flags)
-- [ ] **Plan 22.2**: QA-Komponenten conditional aktivieren (nur in config.author.mjs)
-- [ ] **Plan 22.3**: Build-Script in package.json (`docs:build:author`)
-- [ ] **Plan 22.4**: CI/CD-Workflow für author.payer.birchville.cc
-- [ ] **Plan 22.5**: Authelia-Reverse-Proxy konfigurieren (Caddy/Nginx)
-- [ ] **Plan 22.6**: Migration, Testing, Public-Bundle ohne QA-Code verifizieren
+- [x] **Plan 22.1**: `config.author.mjs` erstellen (gelöst durch ENV `VITEPRESS_ENV=author`)
+- [x] **Plan 22.2**: QA-Komponenten conditional aktivieren
+- [x] **Plan 22.3**: Build-Script in package.json (`deploy.yml` Action übernimmt dies)
+- [x] **Plan 22.4**: CI/CD-Workflow für author.payer.birchville.cc
+- [x] **Plan 22.5**: Authelia-Reverse-Proxy konfigurieren (Backend Express-Server)
+- [x] **Plan 22.6**: Migration, Testing, Public-Bundle ohne QA-Code verifizieren
 
 **Migrierte Komponenten**:
 1. QA Viewer (`docs/public/qa_viewer.html`)
@@ -208,7 +209,7 @@ Trennung von Public- und Authoring-Version mit dedizierten Domains und Builds.
 - Bundle-Size-Differenz messbar (Public < Authoring)
 - Beide Domains zeigen identischen Content (61 Lektionen, 14 Sprachen)
 
-**Status**: Backlog (nach v1.4)
+**Status**: Complete (2026-06-30). Awaiting visual inspection and final translation push.
 **Reference**: CONTEXT.md D9
 
 </details>
@@ -258,4 +259,4 @@ Trennung von Public- und Authoring-Version mit dedizierten Domains und Builds.
 | 19 | v1.4 | 4/4 | Complete | 2026-06-12 |
 | 20 | v1.4 | 6/6 | Complete | 2026-06-12 |
 | 21 | v1.4 | 4/4 | Complete | 2026-06-15 |
-| 22 | v1.5 | 6 | Backlog | — |
+| 22 | v1.5 | 6/6 | Complete | 2026-06-30 |
