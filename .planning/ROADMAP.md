@@ -8,6 +8,7 @@
 - ✅ **v1.3 Polyglot & Polish** — Phasen 15-17 (shipped 2026-06-11)
 - ✅ **v1.4 Offline-First PWA** — Phasen 18-21 (shipped 2026-06-15)
 - 🚧 **v1.5 QA-Authoring-Split & UAT** — Phase 22 (Tech done, UAT pending)
+- 📝 **v1.6 Developer Experience / Extension** — Phase 23 (Backlog)
 
 
 ## Phasen
@@ -211,6 +212,26 @@ Trennung von Public- und Authoring-Version mit dedizierten Domains und Builds.
 
 **Status**: Complete (2026-06-30). Awaiting visual inspection and final translation push.
 **Reference**: CONTEXT.md D9
+
+</details>
+
+<details closed>
+<summary>📋 v1.6 Developer Experience (Phase 23 — BACKLOG)</summary>
+
+### Phase 23: VSCode Markdown Extension
+Entwicklung einer VSCode-Erweiterung (`vscode-payer-markdown`) als Template für selbstdefinierte Markdown Extensions. Die Extension klinkt sich in VSCode ein und liefert Syntax-Highlighting und Snippets für Payer-spezifische Container.
+
+**Stufe 1 (Syntax & Snippets)**:
+- Highlighting für `::: grammar-box`, `::: media`, etc. in VSCode
+- Autocomplete-Snippets (z.B. `gbox` -> Container)
+- Injection Grammars (`payer-markdown.tmLanguage.json`)
+
+**Stufe 2 (Preview Rendering)**:
+- Integration von `markdown-it` Plugins in den nativen VSCode-Preview.
+- Live-Darstellung der Boxen direkt im VSCode-Vorschaufenster.
+
+**Status**: Backlog
+**Reference**: .planning/phases/23-vscode-extension/23-1-PLAN.md
 
 </details>
 
