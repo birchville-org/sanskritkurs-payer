@@ -12,7 +12,6 @@ LANGUAGES = [
 BASE_DIR = "/Volumes/SanDisk1TB/proj/Payer/docs"
 SOURCE_DIR = os.path.join(BASE_DIR, "lektionen")
 
-# Multi-language dictionary for grammatical and structural terms
 GRAMMAR_DICT = {
     "en": {
         "Maskulinum": "Masculine",
@@ -269,96 +268,126 @@ GRAMMAR_DICT = {
 }
 
 def translate_phrase(text, lang):
-    """Translate individual terms or cells using the GRAMMAR_DICT."""
     if not text.strip():
         return text
-    
     if lang not in GRAMMAR_DICT:
         return text
-        
     translated = text
-    # Order keys by length descending to prevent substring issues
     keys_sorted = sorted(GRAMMAR_DICT[lang].keys(), key=len, reverse=True)
-    
-    # Process replacements
     for key in keys_sorted:
         val = GRAMMAR_DICT[lang][key]
-        # Match word boundaries or exact strings
         pattern = re.escape(key)
         translated = re.sub(pattern, val, translated)
-        
     return translated
 
 def extract_sanskrit_anchors(text):
-    """Extract Sanskrit words (Devanagari or IAST) to act as semantic anchors."""
-    # Find Devanagari script blocks
     deva = re.findall(r'[\u0900-\u097F]+', text)
-    # Find bold IAST words (like **rāmaḥ**)
     iast = re.findall(r'\*\*([a-zA-Zāīūṛṝḷḹṁṃḥṅñṭḍṇśṣ]+)\*\*', text)
     return set(deva + iast)
 
-def split_into_sections(content):
-    """Split markdown content into sections starting with ## or #."""
-    lines = content.split('\n')
-    sections = []
-    current_sec = []
-    current_title = "Frontmatter"
+def block_similarity(b1, b2):
+    if b1['type'] != b2['type']:
+        return 0.0
+        
+    c1 = b1['content'].strip()
+    c2 = b2['content'].strip()
     
-    for line in lines:
-        if line.startswith('# ') or line.startswith('## ') or line.startswith('### '):
-            if current_sec or current_title != "Frontmatter":
-                sections.append((current_title, '\n'.join(current_sec)))
-            current_title = line
-            current_sec = []
-        else:
-            current_sec.append(line)
-            
-    sections.append((current_title, '\n'.join(current_sec)))
-    return sections
+    # 1. Hallucination filter for target block
+    hallucinations = {'center', 'media', 'note-box', 'notebox', 'laut-table', 'lauttable', 'deleteme-box', 'grammar-box'}
+    if c2.lower() in hallucinations:
+        return 0.0
 
-def parse_blocks(section_text):
-    """Parse section body into structural blocks."""
-    lines = section_text.split('\n')
-    blocks = []
+    # 2. Number anchoring (like 1.1. or 1.)
+    m1_num = re.match(r'^#*\s*(\d+\.(?:\d+\.)*)\s+', c1)
+    m2_num = re.match(r'^#*\s*(\d+\.(?:\d+\.)*)\s+', c2)
+    if m1_num and m2_num:
+        if m1_num.group(1) == m2_num.group(1):
+            return 1.0
+        else:
+            return 0.0 # Strict mismatch on numbered outlines
+
+    score = 0.5
     
+    a1 = extract_sanskrit_anchors(c1)
+    a2 = extract_sanskrit_anchors(c2)
+    if a1 and a2:
+        score = max(score, len(a1.intersection(a2)) / max(len(a1), len(a2)))
+        
+    b1_bold = len(re.findall(r'\*\*[^\*]+\*\*', c1))
+    b2_bold = len(re.findall(r'\*\*[^\*]+\*\*', c2))
+    if b1_bold > 0 and b1_bold == b2_bold:
+        score = max(score, 0.8)
+        
+    if b1['type'] == 'heading' and b2['type'] == 'heading':
+        m1 = re.match(r'^(#+)', c1)
+        m2 = re.match(r'^(#+)', c2)
+        if m1 and m2 and m1.group(1) == m2.group(1):
+            score = max(score, 0.8)
+
+    # Length and Line Count Penalty
+    l1 = len(c1)
+    l2 = len(c2)
+    if l1 > 0 and l2 > 0:
+        len_ratio = min(l1, l2) / max(l1, l2)
+        if len_ratio < 0.2:
+            score *= 0.1
+        elif len_ratio < 0.5:
+            score *= 0.5
+            
+    lines1 = len(c1.split('\n'))
+    lines2 = len(c2.split('\n'))
+    if lines1 > 0 and lines2 > 0:
+        line_ratio = min(lines1, lines2) / max(lines1, lines2)
+        if line_ratio < 0.3:
+            score *= 0.1
+
+    return score
+
+def parse_blocks(content):
+    lines = content.split('\n')
+    blocks = []
     i = 0
+    in_frontmatter = False
+    if len(lines) > 0 and lines[0] == '---':
+        in_frontmatter = True
+        fm_lines = ['---']
+        i += 1
+        while i < len(lines):
+            fm_lines.append(lines[i])
+            if lines[i] == '---':
+                i += 1
+                break
+            i += 1
+        blocks.append({'type': 'frontmatter', 'content': '\n'.join(fm_lines)})
+        
     while i < len(lines):
         line = lines[i]
-        
-        # Blank line
         if not line.strip():
             blocks.append({'type': 'blank', 'content': ''})
             i += 1
             continue
-            
-        # Container boundary
         if line.strip().startswith(':::') or line.strip().startswith('::::'):
             blocks.append({'type': 'container', 'content': line})
             i += 1
             continue
-            
-        # Horizontal rule
         if line.strip() in ['---', '***', '___']:
             blocks.append({'type': 'hr', 'content': line})
             i += 1
             continue
-            
-        # Image link
         if line.strip().startswith('![]'):
             blocks.append({'type': 'image', 'content': line})
             i += 1
             continue
-            
-        # Table row
         if line.strip().startswith('|'):
             blocks.append({'type': 'table_row', 'content': line})
             i += 1
             continue
-            
-        # Blockquote or List Item
+        if re.match(r'^#+\s+', line):
+            blocks.append({'type': 'heading', 'content': line})
+            i += 1
+            continue
         m_bq = re.match(r'^(\s*>\s*)(.*)$', line)
         m_li = re.match(r'^(\s*[-*+]\s+|\s*\d+\.\s+)(.*)$', line)
-        
         if m_bq:
             prefix, rest = m_bq.groups()
             blocks.append({'type': 'blockquote', 'prefix': prefix, 'content': rest})
@@ -370,82 +399,69 @@ def parse_blocks(section_text):
             i += 1
             continue
             
-        # Regular paragraph (runs until empty line or block marker)
         para_lines = [line]
         i += 1
         while i < len(lines):
             next_line = lines[i]
-            if not next_line.strip() or next_line.strip().startswith(':::') or next_line.strip().startswith('::::') or next_line.strip().startswith('|') or next_line.strip().startswith('![]') or re.match(r'^(\s*>\s*)', next_line) or re.match(r'^(\s*[-*+]\s+|\s*\d+\.\s+)', next_line):
+            if not next_line.strip() or next_line.strip().startswith(':::') or next_line.strip().startswith('::::') or next_line.strip().startswith('|') or next_line.strip().startswith('![]') or re.match(r'^#+\s+', next_line) or re.match(r'^(\s*>\s*)', next_line) or re.match(r'^(\s*[-*+]\s+|\s*\d+\.\s+)', next_line):
                 break
             para_lines.append(next_line)
             i += 1
-            
         blocks.append({'type': 'paragraph', 'content': '\n'.join(para_lines)})
-        
     return blocks
 
+class BlockMatcher:
+    def __init__(self, g_list, t_list):
+        self.g = g_list
+        self.t = t_list
+        
+    def match(self):
+        n = len(self.g)
+        m = len(self.t)
+        dp = [[0] * (m + 1) for _ in range(n + 1)]
+        
+        for i in range(1, n + 1):
+            for j in range(1, m + 1):
+                sim = block_similarity(self.g[i-1], self.t[j-1])
+                match_score = dp[i-1][j-1] + sim if sim >= 0.1 else -1.0
+                delete_score = dp[i-1][j]
+                insert_score = dp[i][j-1]
+                dp[i][j] = max(match_score, delete_score, insert_score)
+                
+        mapping = {}
+        i, j = n, m
+        while i > 0 and j > 0:
+            sim = block_similarity(self.g[i-1], self.t[j-1])
+            if sim >= 0.1 and dp[i][j] == dp[i-1][j-1] + sim:
+                mapping[i-1] = j-1
+                i -= 1
+                j -= 1
+            elif dp[i][j] == dp[i-1][j]:
+                i -= 1
+            else:
+                j -= 1
+        return mapping
+
 def align_and_merge_blocks(german_blocks, target_blocks, lang):
-    """Align and merge translated content into the German layout skeleton."""
-    # Filter out translatable blocks
-    translatable_types = ['paragraph', 'list_item', 'blockquote', 'table_row']
-    
+    translatable_types = ['heading', 'paragraph', 'list_item', 'blockquote', 'table_row', 'frontmatter']
     g_trans = [b for b in german_blocks if b['type'] in translatable_types]
     t_trans = [b for b in target_blocks if b['type'] in translatable_types]
     
-    # Map G blocks to T blocks
-    mapping = {} # G index -> T index
-    matched_t = set()
-    
-    # Step 1: Align using Sanskrit anchor matches
-    for g_idx, g_block in enumerate(g_trans):
-        g_anchors = extract_sanskrit_anchors(g_block['content'])
-        if not g_anchors:
-            continue
-            
-        best_t_idx = -1
-        best_score = 0
+    mapping = {}
+    if t_trans:
+        matcher = BlockMatcher(g_trans, t_trans)
+        mapping = matcher.match()
+        print(f"Total G trans: {len(g_trans)}, T trans: {len(t_trans)}, Mapped: {len(mapping)}")
         
-        for t_idx, t_block in enumerate(t_trans):
-            if t_idx in matched_t:
-                continue
-            t_anchors = extract_sanskrit_anchors(t_block['content'])
-            score = len(g_anchors.intersection(t_anchors))
-            
-            if score > best_score:
-                best_score = score
-                best_t_idx = t_idx
-                
-        if best_t_idx != -1 and best_score >= 1:
-            mapping[g_idx] = best_t_idx
-            matched_t.add(best_t_idx)
-            
-    # Step 2: Fallback to Relative Position / Index Matching for unmatched items
-    for g_idx, g_block in enumerate(g_trans):
-        if g_idx in mapping:
-            continue
-            
-        # Find the first unmatched target block
-        matched = False
-        for t_idx in range(len(t_trans)):
-            if t_idx not in matched_t:
-                # Basic sanity check: match by relative index
-                mapping[g_idx] = t_idx
-                matched_t.add(t_idx)
-                matched = True
-                break
-                
-        # If no target block remains, it remains unmatched (meaning we use German fallback)
-        if not matched:
-            pass
+    unmatched = len(g_trans) - len(mapping)
+    if len(g_trans) > 0 and unmatched / len(g_trans) > 0.05:
+        print(f"[{lang}] WARNING: {unmatched}/{len(g_trans)} blocks unmatched. Might have Fallbacks.")
 
-    # Build the merged blocks list
     merged_blocks = []
-    g_count = 0 # Track index in g_trans
+    g_count = 0
     
     for g_block in german_blocks:
         if g_block['type'] not in translatable_types:
-            # Layout blocks (containers, images, blank lines, hr)
-            # Just copy the German block but translate image captions/attributions!
             content = g_block['content']
             if g_block['type'] == 'container' and 'Abb.:' in content:
                 content = translate_phrase(content, lang)
@@ -454,15 +470,16 @@ def align_and_merge_blocks(german_blocks, target_blocks, lang):
             merged_blocks.append({'type': g_block['type'], 'content': content})
             continue
             
-        # Match translatable block
         t_idx = mapping.get(g_count, -1)
         g_count += 1
         
         if t_idx == -1:
-            # Fallback: keep German block but translate header terms/lists if applicable
             content = g_block['content']
-            if g_block['type'] == 'list_item':
+            if g_block['type'] in ['list_item', 'table_row']:
                 content = translate_phrase(content, lang)
+            elif g_block['type'] == 'heading' and g_block['content'].startswith('# '):
+                # Dont append fallback to H1
+                pass
             merged_blocks.append({
                 'type': g_block['type'],
                 'prefix': g_block.get('prefix', ''),
@@ -472,12 +489,9 @@ def align_and_merge_blocks(german_blocks, target_blocks, lang):
             
         t_block = t_trans[t_idx]
         
-        # Merge logic based on block type
         if g_block['type'] == 'table_row':
-            # Highly precise cell-level layout synchronization
             g_cells = [c.strip() for c in g_block['content'].split('|')]
             t_cells = [c.strip() for c in t_block['content'].split('|')]
-            
             merged_cells = []
             g_raw_cells = g_block['content'].split('|')
             
@@ -485,86 +499,49 @@ def align_and_merge_blocks(german_blocks, target_blocks, lang):
                 if not g_raw_cell.strip():
                     merged_cells.append(g_raw_cell)
                     continue
-                
                 g_cell = g_raw_cell.strip()
                 t_cell = ""
                 if col_idx < len(t_cells):
                     t_cell = t_cells[col_idx].strip()
-                
-                # Check if cell has Devanagari or IAST and is identical
                 g_anchors = extract_sanskrit_anchors(g_cell)
-                
                 cell_val = ""
-                # If German cell is pure Devanagari, propagate it directly
-                g_cell_clean = g_cell.replace('[[br]]', '')
+                g_cell_clean = g_cell.replace(':br', '')
                 has_deva = any(c for c in g_cell_clean if '\u0900' <= c <= '\u097f')
                 has_latin = any(c for c in g_cell_clean if 'a' <= c.lower() <= 'z')
                 if has_deva and not has_latin:
                     cell_val = g_cell
-                # If the cell has [[br]] and contains Devanagari script (bilingual headers/cases), translate grammar terms and preserve Devanagari
-                elif '[[br]]' in g_cell and any(c for c in g_cell if '\u0900' <= c <= '\u097f'):
+                elif ':br' in g_cell and any(c for c in g_cell if '\u0900' <= c <= '\u097f'):
                     cell_val = translate_phrase(g_cell, lang)
-                # If cell is purely grammatical (like 'Singular', 'Dativ'), translate it
                 elif not g_anchors and any(k in g_cell for k in GRAMMAR_DICT.get(lang, {}).keys()):
                     cell_val = translate_phrase(g_cell, lang)
-                # If cell is a Sanskrit grammatical ending or placeholder, keep the German master's style
-                elif '-' in g_cell or 'Ø' in g_cell:
+                elif re.match(r'^[-—\sØ]+$', g_cell):
                     cell_val = g_cell
-                # If target cell exists at the same index, use it
                 elif t_cell:
                     cell_val = t_cell
                 else:
                     cell_val = translate_phrase(g_cell, lang)
-                
-                # Pad the non-empty cell with spaces
                 merged_cells.append(f" {cell_val} ")
-                
             merged_content = '|'.join(merged_cells)
+            merged_blocks.append({'type': 'table_row', 'content': merged_content})
             
-            merged_blocks.append({
-                'type': 'table_row',
-                'content': merged_content
-            })
+        elif g_block['type'] == 'frontmatter':
+            merged_blocks.append({'type': 'frontmatter', 'content': g_block['content']})
             
-        elif g_block['type'] == 'list_item':
+        else:
             g_cell = g_block['content']
-            g_cell_clean = g_cell.replace('[[br]]', '')
+            g_cell_clean = g_cell.replace(':br', '')
             has_deva = any(c for c in g_cell_clean if '\u0900' <= c <= '\u097f')
             has_latin = any(c for c in g_cell_clean if 'a' <= c.lower() <= 'z')
             content = g_cell if (has_deva and not has_latin) else t_block['content']
             merged_blocks.append({
-                'type': 'list_item',
-                'prefix': g_block['prefix'],
-                'content': content
-            })
-            
-        elif g_block['type'] == 'blockquote':
-            g_cell = g_block['content']
-            g_cell_clean = g_cell.replace('[[br]]', '')
-            has_deva = any(c for c in g_cell_clean if '\u0900' <= c <= '\u097f')
-            has_latin = any(c for c in g_cell_clean if 'a' <= c.lower() <= 'z')
-            content = g_cell if (has_deva and not has_latin) else t_block['content']
-            merged_blocks.append({
-                'type': 'blockquote',
-                'prefix': g_block['prefix'],
-                'content': content
-            })
-            
-        else: # paragraph
-            g_cell = g_block['content']
-            g_cell_clean = g_cell.replace('[[br]]', '')
-            has_deva = any(c for c in g_cell_clean if '\u0900' <= c <= '\u097f')
-            has_latin = any(c for c in g_cell_clean if 'a' <= c.lower() <= 'z')
-            content = g_cell if (has_deva and not has_latin) else t_block['content']
-            merged_blocks.append({
-                'type': 'paragraph',
+                'type': g_block['type'],
+                'prefix': g_block.get('prefix', ''),
                 'content': content
             })
             
     return merged_blocks
 
 def sync_lesson(lesson_num, lang):
-    """Synchronize layout of a specific lesson from German to target language."""
     filename = f"lektion{lesson_num:02d}.md"
     source_path = os.path.join(SOURCE_DIR, filename)
     target_dir = os.path.join(BASE_DIR, lang, "lektionen")
@@ -575,79 +552,32 @@ def sync_lesson(lesson_num, lang):
         return False
         
     print(f"[{lang}] Synchronizing layout for {filename}...")
-    
     with open(source_path, 'r', encoding='utf-8') as f:
         german_content = f.read()
         
-    # Read target translation or initialize placeholder
     if os.path.exists(target_path) and os.path.getsize(target_path) > 100:
         with open(target_path, 'r', encoding='utf-8') as f:
             target_content = f.read()
     else:
-        print(f"  -> Target translation not found or empty. Initializing empty translation layout skeleton.")
         target_content = ""
         
-    g_sections = split_into_sections(german_content)
-    t_sections = split_into_sections(target_content)
+    g_blocks = parse_blocks(german_content)
+    t_blocks = parse_blocks(target_content) if target_content else []
     
-    t_sec_dict = {} # heading -> body
-    for t_title, t_body in t_sections:
-        t_sec_dict[t_title.strip()] = t_body
-        
-    synced_sections = []
+    merged_blocks = align_and_merge_blocks(g_blocks, t_blocks, lang)
     
-    for g_title, g_body in g_sections:
-        # Match section title using simple regex matching for lesson prefixes (e.g. 25.1.)
-        g_title_clean = g_title.strip()
-        matched_t_body = None
-        
-        # Direct heading match
-        if g_title_clean in t_sec_dict:
-            matched_t_body = t_sec_dict[g_title_clean]
+    section_lines = []
+    for b in merged_blocks:
+        if b['type'] == 'blank':
+            section_lines.append('')
+        elif b['type'] in ['list_item', 'blockquote']:
+            section_lines.append(f"{b['prefix']}{b['content']}")
         else:
-            # Prefix heading match (like matching 25.1. in '## 25.1. Formation...')
-            m_g_prefix = re.match(r'^(#+)\s*(\d+\.\d+\.?\d*?\.?)\s*(.*)$', g_title_clean)
-            if m_g_prefix:
-                g_prefix = m_g_prefix.group(2)
-                for t_title_key, t_body_val in t_sec_dict.items():
-                    if g_prefix in t_title_key:
-                        matched_t_body = t_body_val
-                        break
-                        
-        # Translate heading title itself if no direct match exists
-        if g_title_clean == "Frontmatter":
-            synced_title = ""
-        else:
-            synced_title = translate_phrase(g_title_clean, lang)
+            section_lines.append(b['content'])
             
-        g_blocks = parse_blocks(g_body)
-        t_blocks = parse_blocks(matched_t_body) if matched_t_body else []
-        
-        merged_blocks = align_and_merge_blocks(g_blocks, t_blocks, lang)
-        
-        # Reconstruct section body
-        section_lines = []
-        for b in merged_blocks:
-            if b['type'] == 'blank':
-                section_lines.append('')
-            elif b['type'] in ['list_item', 'blockquote']:
-                section_lines.append(f"{b['prefix']}{b['content']}")
-            else:
-                section_lines.append(b['content'])
-                
-        section_text = '\n'.join(section_lines)
-        if synced_title:
-            synced_sections.append(f"{synced_title}\n{section_text}")
-        else:
-            synced_sections.append(section_text)
-            
-    synced_content = '\n\n'.join(synced_sections)
-    
-    # Post-process: ensure proper VitePress newlines and formatting
+    synced_content = '\n'.join(section_lines)
     synced_content = re.sub(r'\n{3,}', '\n\n', synced_content)
     
-    # Preserve original mtime if it exists so we don't block lan_translate from detecting updates.
-    # If the target file is new, set its mtime to be older than the source file so the translator will process it.
     orig_mtime = None
     if os.path.exists(target_path):
         orig_mtime = os.path.getmtime(target_path)
@@ -663,20 +593,14 @@ def sync_lesson(lesson_num, lang):
     if orig_mtime is not None:
         os.utime(target_path, (orig_atime, orig_mtime))
         
-    print(f"[{lang}] Finished layout sync for {filename}.")
     return True
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python3 sync_layouts.py <lesson_number_or_all> [language]")
-        print("Example: python3 sync_layouts.py 27")
-        print("Example: python3 sync_layouts.py 27 en")
-        print("Example: python3 sync_layouts.py all")
         sys.exit(1)
         
     lesson_arg = sys.argv[1]
     lang_arg = sys.argv[2] if len(sys.argv) > 2 else None
-    
     langs = [lang_arg] if lang_arg else LANGUAGES
     
     if lesson_arg.lower() == "all":
@@ -685,16 +609,11 @@ def main():
         try:
             lessons = [int(lesson_arg)]
         except ValueError:
-            print(f"Invalid lesson number: {lesson_arg}")
             sys.exit(1)
             
-    print(f"Starting multi-language layout synchronization for lessons: {lessons}...")
-    
     for l_num in lessons:
         for lang in langs:
             sync_lesson(l_num, lang)
-            
-    print("All requested layout synchronizations completed successfully!")
 
 if __name__ == "__main__":
     main()
